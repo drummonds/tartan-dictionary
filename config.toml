@@ -1,9 +1,9 @@
-baseURL = "https://www.bytestone.uk/"
+baseURL = "https://www.tartandictionary.org/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 theme = "simpleness"
 
-title = "Bytestone Blog"
+title = "Tartan Dictionary"
 enableInlineShortcodes = true
 enableEmoji = true
 googleAnalytics = ""

@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2022-05-05
+date: 2022-12-26
 lastmod: 
 author: Humphrey Drummond
 
@@ -15,9 +15,10 @@ disableToC: false
 disableAutoCollapse: true
 ---
 
-## About Yourself
+## The Tartan Dictionary
 
-This is a blog about various things I am interested in, specifically related to Bytestone which is long term digital storage of information
+Trying to work out the Drummonds of Megginch tartan sparked my interest in Tartan and its evolution.
+This is my attempt to make sense of it all.
 
 ## hugo theme 
 

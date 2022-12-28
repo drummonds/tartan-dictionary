@@ -7,6 +7,9 @@ Old Plaid
 
 ![Stretched Out](OldPlaid.jpg "Old 1820 Plaid")
 
+My mother wore this for our wedding and the picture is on [Tatlers site][].
+[Tatlers site]:https://media.tatler.com/photos/6141d8016b716d36b22fccff/master/w_2580%2Cc_limit/Lady-Strange-Sir-Ian-Rankin-tatler-06may15-Zygmunt-Sikorski-Mazur.jpg
+
 This also featured in [Vanity Fair with Liam Neeson][] when he was sitting on it.
 
 [Vanity Fair with Liam Neeson]: https://archive.vanityfair.com/article/1994/12/the-liam-king

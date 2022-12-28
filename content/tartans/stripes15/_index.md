@@ -1,6 +1,6 @@
 ---
 title: Tartan setts with 15 stripes
-date: 28127-09+00
+date: 2022-12-28
 ---
 <no value>
 

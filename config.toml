@@ -13,7 +13,7 @@ googleAnalytics = ""
   enableMathJax = false # enable it in Front Matter
   enableReadingTime = true
   favicon = "favicon.ico"
-  startyear = "2019"
+  startyear = "2022"
   description = "A simple and concise hugo theme."
   disqus = ""
 
@@ -35,13 +35,17 @@ googleAnalytics = ""
   url = "/"
   weight = 1
   [[menu.main]]
-  name = "About"
-  url = "/about/"
+  name = "Posts"
+  url = "/posts/"
   weight = 2
   [[menu.main]]
   name = "Tartans"
   url = "/tartan/"
   weight = 3
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
 
 [social]
   github = "https://github.com/Drummonds"

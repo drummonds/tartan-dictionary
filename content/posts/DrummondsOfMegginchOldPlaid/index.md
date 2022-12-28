@@ -1,15 +1,19 @@
 ---
 title: "Old Plaid"
-date: 2022-05-22
+date: 2022-12-28
 ---
 
 Old Plaid
 
 ![Stretched Out](OldPlaid.jpg "Old 1820 Plaid")
 
+This also featured in [Vanity Fair with Liam Neeson][] when he was sitting on it.
+
+[Vanity Fair with Liam Neeson]: https://archive.vanityfair.com/article/1994/12/the-liam-king
+
 ## Detail of Tartan
 
-This was one of the est unfaded squares.
+This was one of the best unfaded squares.
 
 ![Tartan detail](TartanDetail.jpg "Old 1820 Plaid Detail")
 

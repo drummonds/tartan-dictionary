@@ -37,7 +37,7 @@ Notes:
     aaaaaaaaabbbbbbbbbbccccccccccddddddddddeeeeeeeee
 ```
 4. The Tartan Registry specifies reflective setts with ColourCode "/" Integer eg `B/24 W4 B24 R2 K24 G24 W/2`.  However it can be elided and is not universally used.
-5. Pallette should include all the colours (otherwise the standard pallete will be used.)
+5. Palette should include all the colours (otherwise the standard palete will be used.)
 
 
 ## End points

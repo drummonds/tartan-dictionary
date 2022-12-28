@@ -21,9 +21,14 @@ The aim of this dictionary is to promote the use of Tartan and preserve the Celt
 
 Trying to work out the Drummonds of Megginch tartan sparked my interest in Tartan and its evolution.  Thanks to Bertie Drummond-Herdman and Lexa Drummond for sorting out colours and patterns for the Drummond of Megginch tartan.
 
-This is my attempt to make sense of it all.
+This is my (Humphrey Drummond) attempt to make sense of it all.
 
-## hugo theme 
+## Useful links
+
+### Computer generators
+https://github.com/clsn/pyTartan
+
+### hugo theme 
 
 Thanks Rainer for [simpleness](https://github.com/RainerChiang/simpleness)
 

@@ -1,6 +1,7 @@
 ---
-title: 152447fe-5d3a-438c-a80d-ac1d28a95b5d
-date: 2022-12-28
+title: Drummond, (Fingask)
+date: 2022-12-29
+slug: 152447fe-5d3a-438c-a80d-ac1d28a95b5d
 ---
 Drummond, (Fingask)
 

@@ -1,6 +1,7 @@
 ---
-title: 591e6ee9-0776-44de-b2e3-7df0eb20c831
-date: 2022-12-28
+title: Balmoral
+date: 2022-12-29
+slug: 591e6ee9-0776-44de-b2e3-7df0eb20c831
 ---
 Balmoral
 

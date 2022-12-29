@@ -1,6 +1,7 @@
 ---
-title: 4294b84f-7113-4cb5-a105-6f6fca85ac4c
-date: 2022-12-28
+title: Drummond of Strathallan
+date: 2022-12-29
+slug: 4294b84f-7113-4cb5-a105-6f6fca85ac4c
 ---
 Drummond of Strathallan
 

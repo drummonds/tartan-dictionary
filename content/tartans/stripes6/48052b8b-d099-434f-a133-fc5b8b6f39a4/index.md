@@ -1,6 +1,7 @@
 ---
-title: 48052b8b-d099-434f-a133-fc5b8b6f39a4
-date: 2022-12-28
+title: Dunbar
+date: 2022-12-29
+slug: 48052b8b-d099-434f-a133-fc5b8b6f39a4
 ---
 Dunbar
 

@@ -1,6 +1,7 @@
 ---
-title: 7a9533f1-fa86-495f-bb3c-63475e1f0216
-date: 2022-12-28
+title: Drumlithie, Rock and Wheel
+date: 2022-12-29
+slug: 7a9533f1-fa86-495f-bb3c-63475e1f0216
 ---
 Drumlithie, Rock and Wheel
 

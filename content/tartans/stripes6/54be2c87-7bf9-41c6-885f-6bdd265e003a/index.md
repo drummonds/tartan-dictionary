@@ -1,6 +1,7 @@
 ---
-title: 54be2c87-7bf9-41c6-885f-6bdd265e003a
-date: 2022-12-28
+title: Duncan
+date: 2022-12-29
+slug: 54be2c87-7bf9-41c6-885f-6bdd265e003a
 ---
 Duncan
 

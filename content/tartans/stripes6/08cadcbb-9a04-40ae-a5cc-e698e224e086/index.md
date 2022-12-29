@@ -1,6 +1,7 @@
 ---
-title: 08cadcbb-9a04-40ae-a5cc-e698e224e086
-date: 2022-12-28
+title: Dunbar
+date: 2022-12-29
+slug: 08cadcbb-9a04-40ae-a5cc-e698e224e086
 ---
 Dunbar
 

@@ -1,6 +1,7 @@
 ---
-title: 776aaf04-0316-49a2-9156-6f364d49241f
-date: 2022-12-28
+title: Duncan
+date: 2022-12-29
+slug: 776aaf04-0316-49a2-9156-6f364d49241f
 ---
 Duncan
 

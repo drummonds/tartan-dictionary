@@ -1,6 +1,7 @@
 ---
-title: 30314869-c726-41d5-ba76-f9e677914750
-date: 2022-12-28
+title: Drummond VS
+date: 2022-12-29
+slug: 30314869-c726-41d5-ba76-f9e677914750
 ---
 Drummond VS
 

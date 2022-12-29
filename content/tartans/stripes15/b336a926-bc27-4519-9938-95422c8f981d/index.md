@@ -1,6 +1,7 @@
 ---
-title: b336a926-bc27-4519-9938-95422c8f981d
-date: 2022-12-28
+title: Drummond 1820 Plaid
+date: 2022-12-29
+slug: b336a926-bc27-4519-9938-95422c8f981d
 ---
 Drummond 1820 Plaid
 

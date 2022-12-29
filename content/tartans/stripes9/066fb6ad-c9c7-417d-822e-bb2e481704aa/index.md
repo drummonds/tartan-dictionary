@@ -1,6 +1,7 @@
 ---
-title: 066fb6ad-c9c7-417d-822e-bb2e481704aa
-date: 2022-12-28
+title: Drummond, Ancient
+date: 2022-12-29
+slug: 066fb6ad-c9c7-417d-822e-bb2e481704aa
 ---
 Drummond, Ancient
 

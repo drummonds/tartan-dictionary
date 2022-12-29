@@ -1,6 +1,7 @@
 ---
-title: c7909966-5cc8-48e3-bb5b-2ebf9d08bb5f
-date: 2022-12-28
+title: Drummond 1849 Kilt
+date: 2022-12-29
+slug: c7909966-5cc8-48e3-bb5b-2ebf9d08bb5f
 ---
 Drummond 1849 Kilt
 

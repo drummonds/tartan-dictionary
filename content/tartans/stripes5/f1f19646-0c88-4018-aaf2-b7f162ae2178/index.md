@@ -1,6 +1,7 @@
 ---
-title: f1f19646-0c88-4018-aaf2-b7f162ae2178
-date: 2022-12-28
+title: Austin
+date: 2022-12-29
+slug: f1f19646-0c88-4018-aaf2-b7f162ae2178
 ---
 Austin
 

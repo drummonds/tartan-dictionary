@@ -1,6 +1,7 @@
 ---
-title: 056ed895-f432-4f8e-a786-1ee52652c080
-date: 2022-12-28
+title: Duncan
+date: 2022-12-29
+slug: 056ed895-f432-4f8e-a786-1ee52652c080
 ---
 Duncan
 

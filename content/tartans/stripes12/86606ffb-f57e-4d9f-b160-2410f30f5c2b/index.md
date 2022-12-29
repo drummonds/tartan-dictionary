@@ -1,6 +1,7 @@
 ---
-title: 86606ffb-f57e-4d9f-b160-2410f30f5c2b
-date: 2022-12-28
+title: Dublin
+date: 2022-12-29
+slug: 86606ffb-f57e-4d9f-b160-2410f30f5c2b
 ---
 Dublin
 

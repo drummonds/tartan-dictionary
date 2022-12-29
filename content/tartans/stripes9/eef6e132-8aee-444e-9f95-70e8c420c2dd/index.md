@@ -1,6 +1,7 @@
 ---
-title: eef6e132-8aee-444e-9f95-70e8c420c2dd
-date: 2022-12-28
+title: Drummond of Perth, dress
+date: 2022-12-29
+slug: eef6e132-8aee-444e-9f95-70e8c420c2dd
 ---
 Drummond of Perth, dress
 

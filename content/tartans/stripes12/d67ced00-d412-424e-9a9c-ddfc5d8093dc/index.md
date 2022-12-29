@@ -1,6 +1,7 @@
 ---
-title: d67ced00-d412-424e-9a9c-ddfc5d8093dc
-date: 2022-12-28
+title: Drummond
+date: 2022-12-29
+slug: d67ced00-d412-424e-9a9c-ddfc5d8093dc
 ---
 Drummond
 

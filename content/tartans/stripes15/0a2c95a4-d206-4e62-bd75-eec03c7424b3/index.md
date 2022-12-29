@@ -1,6 +1,7 @@
 ---
-title: 0a2c95a4-d206-4e62-bd75-eec03c7424b3
-date: 2022-12-28
+title: Drummond C
+date: 2022-12-29
+slug: 0a2c95a4-d206-4e62-bd75-eec03c7424b3
 ---
 Drummond C
 

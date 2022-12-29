@@ -1,6 +1,7 @@
 ---
-title: 5149933d-a459-4500-8180-577191723d59
-date: 2022-12-28
+title: Drummond, Relic
+date: 2022-12-29
+slug: 5149933d-a459-4500-8180-577191723d59
 ---
 Drummond, Relic
 

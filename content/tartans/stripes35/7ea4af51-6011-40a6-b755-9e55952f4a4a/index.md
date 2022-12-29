@@ -1,6 +1,7 @@
 ---
-title: 7ea4af51-6011-40a6-b755-9e55952f4a4a
-date: 2022-12-28
+title: Duchess of Edinburgh
+date: 2022-12-29
+slug: 7ea4af51-6011-40a6-b755-9e55952f4a4a
 ---
 Duchess of Edinburgh
 

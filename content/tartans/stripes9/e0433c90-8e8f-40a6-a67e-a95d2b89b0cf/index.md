@@ -1,6 +1,7 @@
 ---
-title: e0433c90-8e8f-40a6-a67e-a95d2b89b0cf
-date: 2022-12-28
+title: (1) Abercrombie
+date: 2022-12-29
+slug: e0433c90-8e8f-40a6-a67e-a95d2b89b0cf
 ---
 (1) Abercrombie
 

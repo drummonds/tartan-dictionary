@@ -1,6 +1,7 @@
 ---
-title: 08e96071-8056-4b34-8f07-2a65c14f7ae9
-date: 2022-12-28
+title: Drummond 2022 Kilt
+date: 2022-12-29
+slug: 08e96071-8056-4b34-8f07-2a65c14f7ae9
 ---
 Drummond 2022 Kilt
 

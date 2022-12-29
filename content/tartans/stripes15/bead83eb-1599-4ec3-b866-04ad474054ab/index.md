@@ -1,6 +1,7 @@
 ---
-title: bead83eb-1599-4ec3-b866-04ad474054ab
-date: 2022-12-28
+title: Drummond C
+date: 2022-12-29
+slug: bead83eb-1599-4ec3-b866-04ad474054ab
 ---
 Drummond C
 

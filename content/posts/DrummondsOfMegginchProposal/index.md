@@ -11,3 +11,11 @@ The following is a picture of the proposed new tartan sample.
 | ------------- | --- | --- | ----- | ----- | ----- | --- | ----- | ----- | ------- | ---- | --- | ---- | ----- | ------ | ------ | ---- |
 | 1849 Kilt     |     | 14  | 2     | 4     | 4     | 70  | 4     | 4     | 20      | 4    | 4   | 4    | 74    | 6      | 4      | 12   |
 | 1997 New Kilt |     | 18  | 2     | 4     | 4     | 64  | 4     | 4     | 20      | 4    | 4   | 4    | 62    | 4      | 4      | 10   |
+
+
+This is being redone as suggested by Bertie and Lexa and using colours:
+Pantone 180 (red) Pantone 654 (dark blue) Pantone 543 (Light blue) Pantone  364 (Green)
+
+R#BE3A34 DB#003A70 LB#A4C8E1 G#4A7729
+
+

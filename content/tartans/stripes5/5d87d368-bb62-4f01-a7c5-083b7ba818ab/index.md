@@ -1,6 +1,6 @@
 ---
 title: Dougles Green
-date: 2022-12-29
+date: 2023-01-02
 slug: 5d87d368-bb62-4f01-a7c5-083b7ba818ab
 ---
 Dougles Green
@@ -18,3 +18,5 @@ B#000052 G#11450d K#000000 LB#4367ae W#aaaaaa
 # Sample pattern
 
 ![Tartan detail](tartan.png "K/8 LB4 G16 B16 W/2 tartan")
+
+ID: 5d87d368-bb62-4f01-a7c5-083b7ba818ab

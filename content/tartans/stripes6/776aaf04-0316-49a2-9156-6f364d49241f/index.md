@@ -1,6 +1,6 @@
 ---
 title: Duncan
-date: 2022-12-29
+date: 2023-01-02
 slug: 776aaf04-0316-49a2-9156-6f364d49241f
 ---
 Duncan
@@ -18,3 +18,5 @@ B#000052 G#11450d K#000000 R#aa0000 W#aaaaaa
 # Sample pattern
 
 ![Tartan detail](tartan.png "K/4 G21 W3 G21 B21 R/4 tartan")
+
+ID: 776aaf04-0316-49a2-9156-6f364d49241f

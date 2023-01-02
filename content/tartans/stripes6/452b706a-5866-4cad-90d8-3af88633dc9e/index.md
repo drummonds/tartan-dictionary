@@ -1,6 +1,6 @@
 ---
 title: Drambuie hunting
-date: 2022-12-29
+date: 2023-01-02
 slug: 452b706a-5866-4cad-90d8-3af88633dc9e
 ---
 Drambuie hunting
@@ -18,3 +18,5 @@ DR#401000 DY#908000 K#000000 R#c00000 T#906030
 # Sample pattern
 
 ![Tartan detail](tartan.png "T/6 DR36 K48 R4 K5 DY/6 tartan")
+
+ID: 452b706a-5866-4cad-90d8-3af88633dc9e

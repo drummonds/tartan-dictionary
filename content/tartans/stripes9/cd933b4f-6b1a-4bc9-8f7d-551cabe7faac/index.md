@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth
-date: 2022-12-29
+date: 2023-01-02
 slug: cd933b4f-6b1a-4bc9-8f7d-551cabe7faac
 ---
 Drummond of Perth
@@ -18,3 +18,5 @@ B#000052 G#11450d LB#4367ae R#aa0000 W#aaaaaa Y#aaaa00
 # Sample pattern
 
 ![Tartan detail](tartan.png "R/36 W1 B3 Y1 G16 R8 B3 LB2 W/1 tartan")
+
+ID: cd933b4f-6b1a-4bc9-8f7d-551cabe7faac

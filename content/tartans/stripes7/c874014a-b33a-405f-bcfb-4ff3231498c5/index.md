@@ -1,6 +1,6 @@
 ---
 title: Dundas
-date: 2022-12-29
+date: 2023-01-02
 slug: c874014a-b33a-405f-bcfb-4ff3231498c5
 ---
 Dundas
@@ -18,3 +18,5 @@ B#000052 G#11450d K#000000 R#aa0000
 # Sample pattern
 
 ![Tartan detail](tartan.png "K/4 G4 R2 G48 K24 B32 K/8 tartan")
+
+ID: c874014a-b33a-405f-bcfb-4ff3231498c5

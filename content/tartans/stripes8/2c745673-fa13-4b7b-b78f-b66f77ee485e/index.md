@@ -1,6 +1,6 @@
 ---
 title: Baird
-date: 2022-12-29
+date: 2023-01-02
 slug: 2c745673-fa13-4b7b-b78f-b66f77ee485e
 ---
 Baird
@@ -18,3 +18,5 @@ B#000064 G#004c00 K#000000 P#5a3094
 # Sample pattern
 
 ![Tartan detail](tartan.png "P/3 G1 P1 G8 K8 B8 K2 B/3 tartan")
+
+ID: 2c745673-fa13-4b7b-b78f-b66f77ee485e

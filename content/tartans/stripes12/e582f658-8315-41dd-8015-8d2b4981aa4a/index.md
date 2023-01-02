@@ -1,6 +1,6 @@
 ---
 title: Drummond VS
-date: 2022-12-29
+date: 2023-01-02
 slug: e582f658-8315-41dd-8015-8d2b4981aa4a
 ---
 Drummond VS
@@ -18,3 +18,5 @@ G#11450d K#000000 R#aa0000
 # Sample pattern
 
 ![Tartan detail](tartan.png "G/8 R2 G2 R56 G16 K2 G2 K2 G36 R2 G2 R/8 tartan")
+
+ID: e582f658-8315-41dd-8015-8d2b4981aa4a

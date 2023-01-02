@@ -1,6 +1,6 @@
 ---
 title: Drummond
-date: 2022-12-29
+date: 2023-01-02
 slug: 03e591da-73f7-4410-ba43-afea532670c7
 ---
 Drummond
@@ -18,3 +18,5 @@ B#304080 G#008000 R#c00000
 # Sample pattern
 
 ![Tartan detail](tartan.png "B/48 R14 G14 R78 B8 R4 B4 R10 G84 R14 B12 R/14 tartan")
+
+ID: 03e591da-73f7-4410-ba43-afea532670c7

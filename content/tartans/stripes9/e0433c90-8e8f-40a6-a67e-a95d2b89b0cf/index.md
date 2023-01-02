@@ -1,6 +1,6 @@
 ---
 title: (1) Abercrombie
-date: 2022-12-29
+date: 2023-01-02
 slug: e0433c90-8e8f-40a6-a67e-a95d2b89b0cf
 ---
 (1) Abercrombie
@@ -18,3 +18,5 @@ B#86ae9a K#000000 LB#868aff W#ffffff
 # Sample pattern
 
 ![Tartan detail](tartan.png "B/27 K4 B4 K4 B4 K14 LB14 W2 LB/27 tartan")
+
+ID: e0433c90-8e8f-40a6-a67e-a95d2b89b0cf

@@ -1,6 +1,6 @@
 ---
 title: Drummond 1820 Plaid
-date: 2022-12-29
+date: 2023-01-02
 slug: b336a926-bc27-4519-9938-95422c8f981d
 ---
 Drummond 1820 Plaid
@@ -18,3 +18,5 @@ DB#000064 G#004c00 LB#000000 R#c80000
 # Sample pattern
 
 ![Tartan detail](tartan.png "R/26 DB2 R6 DB6 R126 LB6 R6 DB38 R6 G6 R6 G130 R19 DB6 R/18 tartan")
+
+ID: b336a926-bc27-4519-9938-95422c8f981d

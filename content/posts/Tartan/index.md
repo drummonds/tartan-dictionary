@@ -1,7 +1,7 @@
 ---
 title: "What is Tartan?"
-date: 2022-10-21
-tags: ["tartan"]
+date: 2023-01-02
+tags: ["tartan", "clans"]
 ---
 
 Tartan or checked weaving pattern has ancient origins.  Perhaps it came with the spread of the ancient Bronze age Celts from Austria and Turkey.  To the East there may be a link to the [Tarim Mummies][] as was popularised by Elizabeth Barber[^1].  This currently has got caught up in origin stories of the Han.  Notable mummies are the tall, red-haired "Chärchän man" or the "Ur-David" (1000 BCE); who wore a red twill tunic and tartan leggings.  Elizabeth Barber highlights the similarities between this and  fragments recovered from salt mines associated with the Hallstatt culture.
@@ -56,8 +56,15 @@ In case the link gets broken I have copy here.
 [Hallstatt weaving]: https://www.academia.edu/1488597/Hallstatt_Tablet_Weaving
 
 
+## Early Scottish Tartans
+Tartans seem to have emerged at the begining of the 18th Centrury.  See [Grant clan history][].
+
+[Grant clan history]: https://www.clangrant-us.org/?q=page/tartans
 ## Modern Scottish Tartans
-These are still 2/2 Twills but have are S spun.  The Celtic tradition of weaving carried on and then got formalised during the Scottish Renaissance after the Jacobite rebellions.  One the threads of this is the [Highland Society of London][] formed in 1778, in 1782 they managed to help repeal the Disarming Act of 1746 which amongst other things banned the wearing of highland dress.
+
+
+## Modern Scottish Tartans
+These are still 2/2 Twills but  are S spun.  The Celtic tradition of weaving carried on and then got formalised during the Scottish Renaissance after the Jacobite rebellions.  One the threads of this is the [Highland Society of London][] formed in 1778, in 1782 they managed to help repeal the Disarming Act of 1746 which amongst other things banned the wearing of highland dress.
 
 In 1815 they collected tartans from Clan Chiefs  of samples of their tartan.  This was taken up by [Walter Scott][] who pamphletted Edinburgh before George the 4ths Visit in 1822 and enoucraged people to wear traditional Highland Dress:
 

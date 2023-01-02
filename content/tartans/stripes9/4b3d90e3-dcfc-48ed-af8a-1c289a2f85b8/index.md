@@ -1,6 +1,6 @@
 ---
 title: Drummond, Ancient
-date: 2022-12-29
+date: 2023-01-02
 slug: 4b3d90e3-dcfc-48ed-af8a-1c289a2f85b8
 ---
 Drummond, Ancient
@@ -18,3 +18,5 @@ G#008000 K#000000 LB#5480b0 R#c00000 W#e0e0e0 Y#f0c000
 # Sample pattern
 
 ![Tartan detail](tartan.png "R/76 Y4 K8 LB4 G28 R8 K4 LB4 W/4 tartan")
+
+ID: 4b3d90e3-dcfc-48ed-af8a-1c289a2f85b8

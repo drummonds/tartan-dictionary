@@ -1,6 +1,6 @@
 ---
 title: Drummond 2022 Kilt
-date: 2022-12-29
+date: 2023-01-02
 slug: 08e96071-8056-4b34-8f07-2a65c14f7ae9
 ---
 Drummond 2022 Kilt
@@ -18,3 +18,5 @@ DB#003a70 G#4a7729 LB#a4c8e1 R#be3a34
 # Sample pattern
 
 ![Tartan detail](tartan.png "R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12 tartan")
+
+ID: 08e96071-8056-4b34-8f07-2a65c14f7ae9

@@ -1,6 +1,6 @@
 ---
 title: Tartan setts with 65 stripes
-date: 2022-12-29
+date: 2023-01-02
 ---
 <no value>
 

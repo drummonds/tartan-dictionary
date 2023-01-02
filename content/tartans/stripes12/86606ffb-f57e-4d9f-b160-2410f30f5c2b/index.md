@@ -1,6 +1,6 @@
 ---
 title: Dublin
-date: 2022-12-29
+date: 2023-01-02
 slug: 86606ffb-f57e-4d9f-b160-2410f30f5c2b
 ---
 Dublin
@@ -18,3 +18,5 @@ DR#401000 G#008000 LP#802040 R#c00000
 # Sample pattern
 
 ![Tartan detail](tartan.png "G/6 DR6 G6 DR32 G6 DR6 G6 LP10 G36 R4 G16 R/6 tartan")
+
+ID: 86606ffb-f57e-4d9f-b160-2410f30f5c2b

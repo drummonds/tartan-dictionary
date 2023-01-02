@@ -1,6 +1,6 @@
 ---
 title: Dunbar
-date: 2022-12-29
+date: 2023-01-02
 slug: 08cadcbb-9a04-40ae-a5cc-e698e224e086
 ---
 Dunbar
@@ -18,3 +18,5 @@ G#11450d K#000000 R#aa0000
 # Sample pattern
 
 ![Tartan detail](tartan.png "R/4 K1 R28 K8 G21 R/6 tartan")
+
+ID: 08cadcbb-9a04-40ae-a5cc-e698e224e086

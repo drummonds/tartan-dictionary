@@ -40,7 +40,7 @@ googleAnalytics = ""
   weight = 2
   [[menu.main]]
   name = "About"
-  url = "/about/"
+  url = "/about_theme/"
   weight = 3
 
 [social]

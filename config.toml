@@ -47,8 +47,8 @@ googleAnalytics = ""
   #url = "/stripes/"
   #weight = 4
   [[menu.main]]
-  name = "sAbout"
-  url = "/else/"
+  name = "About"
+  url = "/about/"
   weight = 5
 
 [social]

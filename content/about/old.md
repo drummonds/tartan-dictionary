@@ -1,13 +1,10 @@
 ---
-# In front
 title: About Tartan Dictionary
-url: about
 date: 2023-01-03
 author: Humphrey Drummond
 ---
 
 ## The Tartan Dictionary
-
  
 The aim of this dictionary is to promote the use of Tartan and preserve the Celtic traditions of Hallstadt.
 

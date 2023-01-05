@@ -42,10 +42,10 @@ googleAnalytics = ""
   name = "Tartans"
   url = "/tartans/"
   weight = 3
-  #[[menu.main]]
-  #name = "Stripes"
-  #url = "/stripes/"
-  #weight = 4
+  [[menu.main]]
+  name = "Stripes"
+  url = "/stripes/"
+  weight = 4
   [[menu.main]]
   name = "About"
   url = "/about/"

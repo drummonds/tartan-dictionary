@@ -1,7 +1,6 @@
 ---
-title: Tartan setts with 5 stripes
+title: Tartan setts with 5 and 5 1/2 stripes
 date: 2023-01-04
 ---
-<no value>
 
-<no value>
+# This has a value

@@ -39,17 +39,25 @@ googleAnalytics = ""
   url = "/posts/"
   weight = 2
   [[menu.main]]
+  name = "Families"
+  url = "/families/"
+  weight = 3
+  [[menu.main]]
   name = "Tartans"
   url = "/tartans/"
-  weight = 3
+  weight = 4
+  [[menu.main]]
+  name = "Variants"
+  url = "/variants/"
+  weight = 5
   [[menu.main]]
   name = "Stripes"
   url = "/stripes/"
-  weight = 4
+  weight = 6
   [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 5
+  weight = 7
 
 [social]
   github = "https://github.com/Drummonds"

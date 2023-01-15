@@ -13,13 +13,19 @@ This uses an ebnf specifcation which is [elaborated here][] which includes furth
 ```ebnf
 Tartan = WarpThreadCountList { "!" WeftThreadCountList } {Pallette}. 
 Pallette = ColourSpec { ColourSpec}
-ColourSpec = ColourCode "#" ColourHex
+ColourSpec = ColourCode "#" ColourHex | ColourCode "~"  OKLabColour
 ColourHex = Red Green Blue
 Red = Hex
 Green = Hex
 Blue = Hex
 Hex = HexChar HexChar
-HexChar = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9 | "a" | "b" | "c" | "d" | "e" | "f" 
+OKLabColour = LightNess "%" A-Axis "~" B-Axis
+LightNess =  "1" | "0" {"."  Digit {Digit {Digit {Digit}}}}
+A-Axis = AxisNumber
+B-Axis = AxisNumber
+AxisNumber = "0" | {"-"} "1" | {"-"} "0" "."  Digit {Digit {Digit {Digit}}}
+Digit = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;
+HexChar = Digit | "A" | "B" | "C" | "D" | "E" | "F" 
 WarpThreadCountList = ThreadCountList .
 WeftThreadCountList = ThreadCountList .
 ThreadCountList = FirstThreadCount {ThreadCount} {LastThreadCount}.
@@ -28,9 +34,10 @@ FirstThreadCount = ColourCode ReflectiveSettSpecifier Integer | RepeatingSettSpe
 LastThreadCount = ColourCode ReflectiveSettSpecifier Integer | ThreadCount RepeatingSettSpecifier 
 ReflectiveSettSpecifier = "/" 
 RepeatingSettSpecifier = "..."
-ColourCode = "LR" | "R" | "DR" | "O" | "DO" | "LY" | "Y" | "DY" |
-    "LG" | "G" | "DG" | "LB" | "B" | "DB" | "LP" | "P" | "DP" | "W" |
-    "LN" | "N" | "DN" | "K" | "LT" | "T" | "DT".
+CoreColourCode =    "W" |"R" | "G" | "B" | "Y" | "K" 
+ColourCode = CoreColourCode | "LR" | "DR" | "O" | "DO" | "LY" | "DY" |
+    "LG" |  "DG" | "LB"  | "DB" | "LP" | "P" | "DP" | 
+    "LN" | "N" | "DN" | "LT" | "T" | "DT".
 ```
 
 Notes:

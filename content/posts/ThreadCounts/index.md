@@ -1,6 +1,6 @@
 ---
 title: Tartan Threadcounts
-date: 2023-01-05
+date: 2023-01-15
 mermaid: true
 ---
 
@@ -13,7 +13,8 @@ This uses an ebnf specifcation which is [elaborated here][] which includes furth
 ```ebnf
 Tartan = WarpThreadCountList { "!" WeftThreadCountList } {Pallette}. 
 Pallette = ColourSpec { ColourSpec}
-ColourSpec = ColourCode "#" ColourHex | ColourCode "~"  OKLabColour
+ColourSpec = ColourCode HexChar ColourHex | ColourCode "~"  OKLabColour
+HexChar = "#"|"$"
 ColourHex = Red Green Blue
 Red = Hex
 Green = Hex

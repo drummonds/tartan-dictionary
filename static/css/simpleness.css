@@ -278,6 +278,12 @@ article h5, h6 {
   box-shadow: 0 0 0 1px var(--gray-color);
 }
 
+.swatch td {
+  color: var(--red-color);
+  bgcolor: #00FF00;
+  background: var(--blue-color);
+}
+
 .post-text .highlight pre {
   font-size: var(--code-font);
   font-size: 14px;

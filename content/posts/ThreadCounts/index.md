@@ -1,6 +1,6 @@
 ---
 title: Tartan Threadcounts
-date: 2023-01-15
+date: 2023-02-22
 mermaid: true
 ---
 
@@ -13,7 +13,7 @@ This uses an ebnf specifcation which is [elaborated here][] which includes furth
 ```ebnf
 Tartan = WarpThreadCountList { "!" WeftThreadCountList } {Pallette}. 
 Pallette = ColourSpec { ColourSpec}
-ColourSpec = ColourCode HexChar ColourHex | ColourCode "~"  OKLabColour
+ColourSpec = ColourThreadCode HexChar ColourHex | ColourThreadCode "~"  OKLabColour
 HexChar = "#"|"$"
 ColourHex = Red Green Blue
 Red = Hex
@@ -35,10 +35,16 @@ FirstThreadCount = ColourCode ReflectiveSettSpecifier Integer | RepeatingSettSpe
 LastThreadCount = ColourCode ReflectiveSettSpecifier Integer | ThreadCount RepeatingSettSpecifier 
 ReflectiveSettSpecifier = "/" 
 RepeatingSettSpecifier = "..."
+ColourThreadCode - ColourCode | ColourCode LowercaseChar
 CoreColourCode =    "W" |"R" | "G" | "B" | "Y" | "K" 
 ColourCode = CoreColourCode | "LR" | "DR" | "O" | "DO" | "LY" | "DY" |
     "LG" |  "DG" | "LB"  | "DB" | "LP" | "P" | "DP" | 
     "LN" | "N" | "DN" | "LT" | "T" | "DT".
+LowercaseChar = "a" | "b"
+       | "c" | "d" | "e" | "f" | "g" | "h" | "i"
+       | "j" | "k" | "l" | "m" | "n" | "o" | "p"
+       | "q" | "r" | "s" | "t" | "u" | "v" | "w"
+       | "x" | "y" | "z"
 ```
 
 Notes:

@@ -1,0 +1,20 @@
+<table>
+   <tr>
+    <th>Name</th>
+    <th>Code</th>
+    <th>sRGB Hex</th>
+    <th>rgb</th>
+    <th>Sample</th>
+
+   </td>
+{{ range $.Site.Data.TartanRegistryColours2022 }}
+   <tr>
+    <td>{{.name}}</td>
+    <td>{{.code}}</td>
+    <td>{{.srgbhex}}</td>
+    <td>{{.r}},{{.g}},{{.b}} </td>
+    <td class = "swatch" bgcolor="{{.srgbhex}}"  ></td>
+
+   </tr>
+{{ end }}
+</table>

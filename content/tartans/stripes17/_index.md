@@ -1,6 +1,7 @@
 ---
 title: Tartan setts with 17 stripes
 date: 2023-01-24
+stripes_weight: 17
 ---
 <no value>
 

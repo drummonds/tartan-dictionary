@@ -12,5 +12,3 @@ In the first instance I am using the 19 colour names from the Tartan Registry al
 The full tartan registry colour list (corrected for errors as of 2023-01-23) is:
 
 {{< colour_table >}}
-
-{{< colour_table >}}

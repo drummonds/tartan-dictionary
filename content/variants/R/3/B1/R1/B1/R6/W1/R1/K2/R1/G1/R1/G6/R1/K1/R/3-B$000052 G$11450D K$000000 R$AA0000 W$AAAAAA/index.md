@@ -1,6 +1,6 @@
 ---
 title: Drummond C
-date: 2023-01-20
+date: 2023-01-24
 slug: R/3/B1/R1/B1/R6/W1/R1/K2/R1/G1/R1/G6/R1/K1/R/3-B$000052 G$11450D K$000000 R$AA0000 W$AAAAAA
 ---
 Drummond C

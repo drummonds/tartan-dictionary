@@ -1,6 +1,6 @@
 ---
 title: Drummond, Relic
-date: 2023-01-20
+date: 2023-01-24
 slug: R/32/LB12/K16/Y8/K4/W16/K4/G52/Y4/K32/W4/R/104-G$008000 K$000000 LB$5480B0 R$C00000 W$E0E0E0 Y$F0C000
 ---
 Drummond, Relic

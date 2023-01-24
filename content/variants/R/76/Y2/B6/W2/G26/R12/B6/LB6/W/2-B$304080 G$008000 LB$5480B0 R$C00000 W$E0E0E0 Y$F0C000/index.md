@@ -1,6 +1,6 @@
 ---
 title: Drummond, Ancient
-date: 2023-01-20
+date: 2023-01-24
 slug: R/76/Y2/B6/W2/G26/R12/B6/LB6/W/2-B$304080 G$008000 LB$5480B0 R$C00000 W$E0E0E0 Y$F0C000
 ---
 Drummond, Ancient

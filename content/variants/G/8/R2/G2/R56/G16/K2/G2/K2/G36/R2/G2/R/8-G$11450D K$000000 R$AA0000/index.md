@@ -1,6 +1,6 @@
 ---
 title: Drummond
-date: 2023-01-20
+date: 2023-01-24
 slug: G/8/R2/G2/R56/G16/K2/G2/K2/G36/R2/G2/R/8-G$11450D K$000000 R$AA0000
 ---
 Drummond

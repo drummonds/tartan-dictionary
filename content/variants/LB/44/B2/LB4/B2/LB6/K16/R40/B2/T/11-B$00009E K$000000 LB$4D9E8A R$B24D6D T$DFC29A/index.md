@@ -1,6 +1,6 @@
 ---
 title: (1) Stewart, modern
-date: 2023-01-20
+date: 2023-01-24
 slug: LB/44/B2/LB4/B2/LB6/K16/R40/B2/T/11-B$00009E K$000000 LB$4D9E8A R$B24D6D T$DFC29A
 ---
 (1) Stewart, modern

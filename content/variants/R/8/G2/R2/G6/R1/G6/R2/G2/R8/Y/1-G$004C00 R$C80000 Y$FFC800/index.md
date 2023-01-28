@@ -1,6 +1,6 @@
 ---
 title: Bruce
-date: 2023-01-24
+date: 2023-01-28
 slug: R/8/G2/R2/G6/R1/G6/R2/G2/R8/Y/1-G$004C00 R$C80000 Y$FFC800
 ---
 Bruce

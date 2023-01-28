@@ -1,6 +1,6 @@
 ---
 title: Summary of tartans by stripe counts
-date: 2023-01-24
+date: 2023-01-28
 ---
 
 The tartan dictionary is organised by a number of dimensions.  The first is the number of stripes of the tartan which are listed below and a summary page for each number of stripes of each half sett.

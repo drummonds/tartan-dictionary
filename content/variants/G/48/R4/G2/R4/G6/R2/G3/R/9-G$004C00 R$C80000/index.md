@@ -1,6 +1,6 @@
 ---
 title: Menzies Hunting
-date: 2023-01-24
+date: 2023-01-28
 slug: G/48/R4/G2/R4/G6/R2/G3/R/9-G$004C00 R$C80000
 ---
 Menzies Hunting

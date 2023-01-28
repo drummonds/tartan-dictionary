@@ -1,6 +1,6 @@
 ---
 title: Forbes VS
-date: 2023-01-24
+date: 2023-01-28
 slug: R/1/G16/K8/G3/K4/Y/1-G$004C00 K$000000 R$C80000 Y$FFC800
 ---
 Forbes VS

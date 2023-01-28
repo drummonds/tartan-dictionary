@@ -1,6 +1,6 @@
 ---
 title: Stewart of Atholl
-date: 2023-01-24
+date: 2023-01-28
 slug: G/22/K1/G2/K1/G3/K8/R20/K1/R/6-G$004C00 K$000000 R$C80000
 ---
 Stewart of Atholl

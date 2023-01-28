@@ -1,6 +1,6 @@
 ---
 title: MacDonald of Sleat
-date: 2023-01-24
+date: 2023-01-28
 slug: G/14/R6/G2/R18/K/2-G$004C00 K$000000 R$C80000
 ---
 MacDonald of Sleat

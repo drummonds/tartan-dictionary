@@ -1,6 +1,6 @@
 ---
 title: Maxwell
-date: 2023-01-24
+date: 2023-01-28
 slug: R/3/G1/R28/K6/R4/G16/R/3-G$004C00 K$000000 R$C80000
 ---
 Maxwell

@@ -1,6 +1,6 @@
 ---
 title: MacMillan Ancient
-date: 2023-01-24
+date: 2023-01-28
 slug: G2/K1/G18/K1/G2/K1/R12/G4/Y6/K1/Y6/K1-G$004C00 K$000000 R$C80000 Y$C8C800
 ---
 MacMillan Ancient

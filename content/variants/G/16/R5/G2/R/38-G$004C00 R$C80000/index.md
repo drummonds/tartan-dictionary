@@ -1,6 +1,6 @@
 ---
 title: MacDonald Lord of the Isles
-date: 2023-01-24
+date: 2023-01-28
 slug: G/16/R5/G2/R/38-G$004C00 R$C80000
 ---
 MacDonald Lord of the Isles

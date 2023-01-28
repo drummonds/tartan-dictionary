@@ -1,6 +1,6 @@
 ---
 title: Cameron
-date: 2023-01-24
+date: 2023-01-28
 slug: R/2/G6/R2/G6/R16/Y/1-G$004C00 R$C80000 Y$FFC800
 ---
 Cameron

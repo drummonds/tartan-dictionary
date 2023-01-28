@@ -1,6 +1,6 @@
 ---
 title: MacArthur
-date: 2023-01-24
+date: 2023-01-28
 slug: K/32/G6/K12/G30/Y/3-G$004C00 K$000000 Y$FFFF00
 ---
 MacArthur

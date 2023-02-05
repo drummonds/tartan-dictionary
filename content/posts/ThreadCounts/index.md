@@ -1,6 +1,6 @@
 ---
 title: Tartan Threadcounts
-date: 2023-02-22
+date: 2023-02-02
 mermaid: true
 ---
 
@@ -145,3 +145,7 @@ MacLeod (of Dunvegan) has got a sketch of this splendid tartan, three black stry
 {{% /hint %}}
 
 The interesting thing is that concept gets replicated and modified over time, eg larger setts for plaids, small setts for a child's kilt and simple mistakes in copying when new tartan gets woven.
+
+## Threadcount numbers
+A tartan variant thread count is normalised to a minimum of two in order to preserve
+a 2x2 twill pattern.  This means that all the numbers are even.  Larger setts are possible by multiplying the threadcount by an integer number.  You can also have approximatations eg by multiplying by 1.4 and rounding to even numbers. 

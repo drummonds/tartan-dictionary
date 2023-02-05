@@ -1,0 +1,21 @@
+---
+title: Dutch, dress
+date: 2023-02-02
+---
+Dutch, dress
+
+This was sourced from <no value>.  It is a 6 stripes tartan.
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+K/2 O24 K24 B2 LN24 R/4
+
+## Palette
+B#5480B0 K#000000 LN#E0E0E0 O#FF8500 R#C00000
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/2 O24 K24 B2 LN24 R/4 tartan")
+
+ID: /variants/k/2/o24/k24/b2/ln24/r/4-b5480b0-k000000-lne0e0e0-off8500-rc00000

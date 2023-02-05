@@ -1,0 +1,15 @@
+---
+title: 33 stripes tartan setts
+date: 2023-02-05
+weight: 33
+---
+This is a list of all the tartan sett variants with 33 stripes.
+
+| Tartan Variant |
+|---------------|
+| [Culloden, House Bed Hangings](/stripes/LN/8/BA10/LN4/G4/Y6/G4/LN4/P24/LN4/R16/RA16/LN4/RA16/R16/LN4/R20/B8/LN4/Y6/LN4/B8/LN4/Y6/LN4/B8/R20/LN4/RA40/LN12/RA8/B4/RA8/LN/4)||
+| [Flora, MacDonald Plaid](/stripes/B/48/K8/B8/K8/B8/K44/B48/LN12/B48/K44/B36/R48/B36/K44/G28/R8/G8/R8/G16/K2/LN12/K2/G16/R8/G8/R8/G28/K44/B8/K8/B8/K8/B/48)||
+| [Hawick](/stripes/DB/6/G8/DB6/Y4/DB6/LN4/DB4/G24/G4/G24/GA24/G4/GA24/DB4/LN4/DB6/Y4/DB6/G8/DB6/Y4/DB6/LN4/DB4/DG24/G4/DG24/G4/DG24/DB4/LN4/DB6/Y/8)||
+| [Huntly](/stripes/G/16/R4/G16/R24/B2/R2/B4/R2/B2/R24/B2/R2/B4/R2/B2/R24/LN2/R6/Y2/B24/R6/B24/Y2/R6/LN2/R24/G4/R6/G4/R24/G16/R4/G/16)||
+| [MacDonald, dress](/stripes/B/36/R14/B4/R4/B14/R4/B4/R14/B36/R4/K36/LN16/B14/LN80/B4/R16/B4/LN80/B14/LN16/R4/K36/G36/R14/G4/R4/G12/R4/G4/R14/G36/K36/R/4)||
+| [Miss Peffer's, Plaid](/stripes/LN/26/N4/LN8/N6/LN8/N8/LN4/N38/K72/LN32/K8/N8/LN8/N8/K8/LN8/K8/N8/LN8/N8/K8/LN76/N28/LN4/N4/LN4/N4/LN4/N4/LN4/N4/LN4/N/70)||

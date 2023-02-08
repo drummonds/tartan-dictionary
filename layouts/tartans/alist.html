@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ $Pages := .Pages }}
+{{ $home := .IsHome }}
+{{ if .IsHome }}
+  {{ $Pages = where site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ end }}
+
+<article class="archive">
+  <p> Tartans list</p>
+
+  {{ if not .IsHome }}
+  <header style="text-align: center;">
+    <h1>
+      {{ .Title }}
+    </h1>
+  </header>
+  {{ end }}
+  <div class="archive-list">
+    <ul>
+    {{ range .Pages.ByWeight }}
+      <li class="archive-item">
+      {{ if .Date }}
+        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006-01-02" }}</time>
+      {{ end }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</article>
+{{ end }}

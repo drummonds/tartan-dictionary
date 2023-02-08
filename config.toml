@@ -44,20 +44,20 @@ googleAnalytics = ""
   url = "/families/"
   weight = 3
   [[menu.main]]
-  name = "Patterns"
-  url = "/patterns/"
+  name = "Stripes"
+  url = "/stripes/"
   weight = 4
   [[menu.main]]
-  name = "Tartans"
-  url = "/tartans/"
+  name = "Patterns"
+  url = "/patterns/"
   weight = 5
+  [[menu.main]]
+  name = "Tartan"
+  url = "/tartan/"
+  weight = 6
   [[menu.main]]
   name = "Variants"
   url = "/variants/"
-  weight = 6
-  [[menu.main]]
-  name = "Stripes"
-  url = "/stripes/"
   weight = 7
   [[menu.main]]
   name = "About"

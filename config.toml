@@ -40,12 +40,12 @@ googleAnalytics = ""
   url = "/posts/"
   weight = 2
   [[menu.main]]
-  name = "Families"
-  url = "/families/"
+  name = "Family"
+  url = "/family/"
   weight = 3
   [[menu.main]]
-  name = "Stripes"
-  url = "/stripes/"
+  name = "Stripe"
+  url = "/stripe/"
   weight = 4
   [[menu.main]]
   name = "Patterns"

@@ -15,5 +15,5 @@ For This is a list of all the tartan sett variants with 15 stripes.
 
 | Tartan Variants |
 |---------------|
-| [Drummond of Megginch 1849 Kilt](/tartans/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12/)||
-| [Drummond of Megginch 2022 Proposal](/tartans/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12/)||
+| [Drummond of Megginch 1849 Kilt](/variants/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12-db000064-g004c00-lb98c8e8-rc80000/)||
+| [Drummond of Megginch 2022 Proposal](/variants/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12-db003a70-g4a7729-lba4c8e1-rbe3a34/)||

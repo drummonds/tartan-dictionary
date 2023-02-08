@@ -15,4 +15,4 @@ For This is a list of all the tartan sett variants with 15 stripes.
 
 | Tartan Variants |
 |---------------|
-| [Drummond of Megginch 1820 Plaid](/tartans/r/26/db2/r6/db6/r126/lb6/r6/db38/r6/g6/r6/g130/r19/db6/r/18/)||
+| [Drummond of Megginch 1820 Plaid](/variants/r/26/db2/r6/db6/r126/lb6/r6/db38/r6/g6/r6/g130/r19/db6/r/18-db000064-g004c00-lb98c8e8-rc80000/)||

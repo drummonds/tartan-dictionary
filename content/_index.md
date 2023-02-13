@@ -1,6 +1,6 @@
 ---
-title: Tartan Dictionary
-date: 2023-01-29
+title: Tartan Dictionary beta
+date: 2022-01-29
 author: Humphrey Drummond
 ---
 

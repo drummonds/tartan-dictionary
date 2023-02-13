@@ -1,6 +1,6 @@
 ---
 title: 9 stripes tartan setts
-date: 2023-02-08
+date: 2023-02-13
 weight: 9
 ---
 This is a list of all the tartan sett variants with 9 stripes.
@@ -16,3 +16,6 @@ This is a list of all the tartan sett variants with 9 stripes.
 | [Drummond, Ancient](/tartans/ln/2/b2/k2/r4/g14/b2/k4/y2/r/38/)||
 | [Drummond, Ancient](/tartans/ln/2/ba6/b6/r12/g26/ln2/b6/y2/r/76/)||
 | [Drummond of Perth](/tartans/dr/72/n2/db6/lg2/dg32/dr16/db6/b4/n/2/)||
+| [Drummond of Perth](/tartans/ln/2/ba4/b6/r16/g32/y2/b6/ln2/r/72/)||
+| [Drummond of Perth, dress](/tartans/ln/6/n14/na12/r20/ln50/n6/na12/y6/r/134/)||
+| [Drummond, Ancient](/tartans/ln/2/ba6/b6/r12/g26/ln2/b6/y2/r/76/)||

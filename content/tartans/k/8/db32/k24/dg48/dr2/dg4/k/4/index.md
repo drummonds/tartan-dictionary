@@ -1,6 +1,6 @@
 ---
 title: Dundas with 7 stripes
-date: 2023-02-08
+date: 2023-02-13
 ---
 This is a list of all the tartan sett variants with 7 stripes.
 

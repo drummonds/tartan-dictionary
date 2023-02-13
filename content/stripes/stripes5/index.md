@@ -1,6 +1,6 @@
 ---
 title: 5 stripes tartan setts
-date: 2023-02-08
+date: 2023-02-13
 weight: 5
 ---
 This is a list of all the tartan sett variants with 5 stripes.

@@ -1,6 +1,6 @@
 ---
 title: Summary of tartans by name
-date: 2023-02-08
+date: 2023-02-13
 ---
 
 The tartan dictionary is organised by a number of dimensions.  This is a list of tartans, each tartan might come in different variants eg ranges of colours and sett repeats.
@@ -11,7 +11,6 @@ The tartan dictionary is organised by a number of dimensions.  This is a list of
 |[Drummond of Megginch 1820 Plaid](/tartans/r/26/db2/r6/db6/r126/lb6/r6/db38/r6/g6/r6/g130/r19/db6/r/18/)| 15 | 
 |[Drummond of Megginch 1849 Kilt](/tartans/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12/)| 15 | 
 |[Drummond of Megginch 1997 Kilt](/tartans/dr/12/dn2/dr4/dn4/dr62/lb4/dr4/dn20/dr4/n4/dr4/n64/dr6/dn4/dr/14/)| 15 | 
-|[Drummond of Megginch 2023 Kilt](/tartans/dr/14/dn2/dr4/dn4/dr70/lb4/dr4/dn20/dr4/n4/dr4/n74/dr6/dn4/dr/12/)| 15 | 
 |[(1) Abercrombie](/tartans/lp/27/w2/lp14/k14/n4/k4/n4/k4/n/27/)| 9 | 
 |[(1) Skene](/tartans/b/48/k8/r6/g48/k8/lg/6/)| 6 | 
 |[Austin](/tartans/db/4/k4/db4/g9/k/2/)| 5 | 
@@ -48,3 +47,12 @@ The tartan dictionary is organised by a number of dimensions.  This is a list of
 |[Duncan](/tartans/dr/8/db42/dg42/n6/dg42/k/8/)| 6 | 
 |[Dundas](/tartans/k/8/db32/k24/dg48/dr2/dg4/k/4/)| 7 | 
 |[Duncan](/tartans/dr/4/db21/dg21/n3/dg21/k/4/)| 6 | 
+|[Balmoral](/tartans/na/8/r4/na22/n4/k4/na2/n2/na2/n8/na4/k2/na2/r/2/)| 13 | 
+|[Drummond](/tartans/b/4/r12/b4/r6/g48/r4/g4/r4/b18/r4/ba4/r56/b4/r4/b2/r/12/)| 16 | 
+|[Drummond of Perth](/tartans/ln/2/ba4/b6/r16/g32/y2/b6/ln2/r/72/)| 9 | 
+|[Drummond of Perth, dress](/tartans/ln/6/n14/na12/r20/ln50/n6/na12/y6/r/134/)| 9 | 
+|[Drummond, (Fingask)](/tartans/ln/2/ba6/b6/r12/g24/y2/b6/r/44/)| 8 | 
+|[Drummond, (Grey)](/tartans/k/8/na4/k4/n28/na4/k4/na4/k8/n4/k32/na4/k4/na2/k/8/)| 14 | 
+|[Drummond, Ancient](/tartans/ln/2/ba6/b6/r12/g26/ln2/b6/y2/r/76/)| 9 | 
+|[Dublin](/tartans/g/6/dra6/g6/dra32/g6/dra6/g6/dr10/g36/r4/g16/r/6/)| 12 | 
+|[Duchess of Edinburgh](/tartans/ba/24/k8/r8/k8/y4/k10/b8/k16/b20/k8/g64/r8/g64/ba16/k16/y4/k4/ln4/k4/g24/r16/k4/r10/ln4/r10/k4/r16/g24/k4/ln4/k4/y4/k16/ba16/r/24/)| 35 | 

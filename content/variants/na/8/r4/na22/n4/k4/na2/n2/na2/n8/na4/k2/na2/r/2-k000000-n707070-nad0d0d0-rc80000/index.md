@@ -1,7 +1,9 @@
 ---
 title: Balmoral
-date: 2023-02-08
+date: 2023-02-13
 ---
+Balmoral
+
 Balmoral
 
 This was sourced from <no value>.  It is a 13 stripes tartan.

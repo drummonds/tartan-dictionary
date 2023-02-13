@@ -1,7 +1,9 @@
 ---
 title: Duchess of Edinburgh
-date: 2023-02-08
+date: 2023-02-13
 ---
+Duchess of Edinburgh
+
 Duchess of Edinburgh
 
 This was sourced from <no value>.  It is a 35 stripes tartan.

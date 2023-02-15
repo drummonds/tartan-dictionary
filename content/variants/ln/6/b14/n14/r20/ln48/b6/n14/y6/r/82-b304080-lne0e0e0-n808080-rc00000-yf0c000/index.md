@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth, dress
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond of Perth, dress
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 LN/6 B14 N14 R20 LN48 B6 N14 Y6 R/82
 
 ## Palette
-B#304080 LN#E0E0E0 N#808080 R#C00000 Y#F0C000
+B{{< c "#304080" >}} LN{{< c "#E0E0E0" >}} N{{< c "#808080" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}
 
 # Sample pattern
 

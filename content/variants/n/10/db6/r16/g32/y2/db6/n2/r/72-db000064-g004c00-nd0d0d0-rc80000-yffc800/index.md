@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond of Perth
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 N/10 DB6 R16 G32 Y2 DB6 N2 R/72
 
 ## Palette
-DB#000064 G#004C00 N#D0D0D0 R#C80000 Y#FFC800
+DB{{< c "#000064" >}} G{{< c "#004C00" >}} N{{< c "#D0D0D0" >}} R{{< c "#C80000" >}} Y{{< c "#FFC800" >}}
 
 # Sample pattern
 

@@ -1,6 +1,6 @@
 ---
 title: Dunbar with 6 stripes
-date: 2023-02-13
+date: 2023-02-15
 ---
 This is a list of all the tartan sett variants with 6 stripes.
 

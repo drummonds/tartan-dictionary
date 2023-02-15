@@ -1,6 +1,6 @@
 ---
 title: Drummond, Ancient
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond, Ancient
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 LN/2 B2 K2 R4 G14 B2 K4 Y2 R/38
 
 ## Palette
-B#5480B0 G#008000 K#000000 LN#E0E0E0 R#C00000 Y#F0C000
+B{{< c "#5480B0" >}} G{{< c "#008000" >}} K{{< c "#000000" >}} LN{{< c "#E0E0E0" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}
 
 # Sample pattern
 

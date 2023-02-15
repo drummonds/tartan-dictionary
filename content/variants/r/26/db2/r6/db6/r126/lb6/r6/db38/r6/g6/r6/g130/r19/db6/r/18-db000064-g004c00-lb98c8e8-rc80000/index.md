@@ -1,6 +1,6 @@
 ---
 title: Drummond of Megginch 1820 Plaid
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond of Megginch 1820 Plaid
 
@@ -14,7 +14,7 @@ Original link https://tartandictionary.org/posts/drummondsofmeggincholdplaid/
 R/26 DB2 R6 DB6 R126 LB6 R6 DB38 R6 G6 R6 G130 R19 DB6 R/18
 
 ## Palette
-DB#000064 G#004C00 LB#98C8E8 R#C80000
+DB{{< c "#000064" >}} G{{< c "#004C00" >}} LB{{< c "#98C8E8" >}} R{{< c "#C80000" >}}
 
 # Sample pattern
 

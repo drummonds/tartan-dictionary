@@ -1,6 +1,6 @@
 ---
 title: Drummond of Megginch 1849 Kilt
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond of Megginch 1849 Kilt
 
@@ -14,7 +14,7 @@ Original link https://tartandictionary.org/posts/drummondsofmeggincholdkilt/
 R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12
 
 ## Palette
-DB#000064 G#004C00 LB#98C8E8 R#C80000
+DB{{< c "#000064" >}} G{{< c "#004C00" >}} LB{{< c "#98C8E8" >}} R{{< c "#C80000" >}}
 
 # Sample pattern
 

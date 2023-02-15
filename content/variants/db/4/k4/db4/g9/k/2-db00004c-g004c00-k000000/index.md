@@ -1,6 +1,6 @@
 ---
 title: Austin
-date: 2023-02-13
+date: 2023-02-15
 ---
 Austin
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 DB/4 K4 DB4 G9 K/2
 
 ## Palette
-DB#00004C G#004C00 K#000000
+DB{{< c "#00004C" >}} G{{< c "#004C00" >}} K{{< c "#000000" >}}
 
 # Sample pattern
 

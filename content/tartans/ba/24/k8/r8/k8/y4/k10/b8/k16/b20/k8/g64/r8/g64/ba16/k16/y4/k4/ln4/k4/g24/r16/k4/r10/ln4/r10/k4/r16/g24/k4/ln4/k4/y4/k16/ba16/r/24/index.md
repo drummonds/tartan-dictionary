@@ -1,6 +1,6 @@
 ---
 title: Duchess of Edinburgh with 35 stripes
-date: 2023-02-13
+date: 2023-02-15
 ---
 This is a list of all the tartan sett variants with 35 stripes.
 

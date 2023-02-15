@@ -1,6 +1,6 @@
 ---
 title: Dougles Green
-date: 2023-02-13
+date: 2023-02-15
 ---
 Dougles Green
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 K/8 B4 DG16 DB16 N/2
 
 ## Palette
-B#4367AE DB#000052 DG#11450D K#000000 N#AAAAAA
+B{{< c "#4367AE" >}} DB{{< c "#000052" >}} DG{{< c "#11450D" >}} K{{< c "#000000" >}} N{{< c "#AAAAAA" >}}
 
 # Sample pattern
 

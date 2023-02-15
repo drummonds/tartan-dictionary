@@ -1,6 +1,6 @@
 ---
 title: Summary of Families by name
-date: 2023-02-13
+date: 2023-02-15
 ---
 
 The tartan dictionary is organised by a number of dimensions.  This is a list of families, each tartan might come in different variants eg ranges of colours and sett repeats.

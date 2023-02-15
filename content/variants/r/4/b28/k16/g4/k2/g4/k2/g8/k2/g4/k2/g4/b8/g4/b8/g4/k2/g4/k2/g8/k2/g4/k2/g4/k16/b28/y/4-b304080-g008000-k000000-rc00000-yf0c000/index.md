@@ -1,6 +1,6 @@
 ---
 title: Duchess of Albany
-date: 2023-02-13
+date: 2023-02-15
 ---
 Duchess of Albany
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 R/4 B28 K16 G4 K2 G4 K2 G8 K2 G4 K2 G4 B8 G4 B8 G4 K2 G4 K2 G8 K2 G4 K2 G4 K16 B28 Y/4
 
 ## Palette
-B#304080 G#008000 K#000000 R#C00000 Y#F0C000
+B{{< c "#304080" >}} G{{< c "#008000" >}} K{{< c "#000000" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}
 
 # Sample pattern
 

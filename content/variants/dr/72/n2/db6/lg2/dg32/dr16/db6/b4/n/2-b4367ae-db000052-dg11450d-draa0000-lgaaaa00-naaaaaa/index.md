@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond of Perth
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 DR/72 N2 DB6 LG2 DG32 DR16 DB6 B4 N/2
 
 ## Palette
-B#4367AE DB#000052 DG#11450D DR#AA0000 LG#AAAA00 N#AAAAAA
+B{{< c "#4367AE" >}} DB{{< c "#000052" >}} DG{{< c "#11450D" >}} DR{{< c "#AA0000" >}} LG{{< c "#AAAA00" >}} N{{< c "#AAAAAA" >}}
 
 # Sample pattern
 

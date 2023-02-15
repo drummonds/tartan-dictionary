@@ -1,6 +1,6 @@
 ---
 title: (1) Abercrombie
-date: 2023-02-13
+date: 2023-02-15
 ---
 (1) Abercrombie
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 LP/27 W2 LP14 K14 N4 K4 N4 K4 N/27
 
 ## Palette
-K#000000 LP#868AFF N#86AE9A W#FFFFFF
+K{{< c "#000000" >}} LP{{< c "#868AFF" >}} N{{< c "#86AE9A" >}} W{{< c "#FFFFFF" >}}
 
 # Sample pattern
 

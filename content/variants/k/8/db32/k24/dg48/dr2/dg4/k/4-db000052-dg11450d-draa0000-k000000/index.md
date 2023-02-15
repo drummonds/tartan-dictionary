@@ -1,6 +1,6 @@
 ---
 title: Dundas
-date: 2023-02-13
+date: 2023-02-15
 ---
 Dundas
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 K/8 DB32 K24 DG48 DR2 DG4 K/4
 
 ## Palette
-DB#000052 DG#11450D DR#AA0000 K#000000
+DB{{< c "#000052" >}} DG{{< c "#11450D" >}} DR{{< c "#AA0000" >}} K{{< c "#000000" >}}
 
 # Sample pattern
 

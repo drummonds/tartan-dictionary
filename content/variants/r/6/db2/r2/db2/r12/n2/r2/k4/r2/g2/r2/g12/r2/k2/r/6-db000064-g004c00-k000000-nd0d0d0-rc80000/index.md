@@ -1,6 +1,6 @@
 ---
 title: Drummond C
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond C
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 R/6 DB2 R2 DB2 R12 N2 R2 K4 R2 G2 R2 G12 R2 K2 R/6
 
 ## Palette
-DB#000064 G#004C00 K#000000 N#D0D0D0 R#C80000
+DB{{< c "#000064" >}} G{{< c "#004C00" >}} K{{< c "#000000" >}} N{{< c "#D0D0D0" >}} R{{< c "#C80000" >}}
 
 # Sample pattern
 

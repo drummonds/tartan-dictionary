@@ -1,6 +1,6 @@
 ---
 title: Duncan
-date: 2023-02-13
+date: 2023-02-15
 ---
 Duncan
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 K/4 G21 N3 G21 DB21 R/4
 
 ## Palette
-DB#000064 G#004C00 K#000000 N#D0D0D0 R#C80000
+DB{{< c "#000064" >}} G{{< c "#004C00" >}} K{{< c "#000000" >}} N{{< c "#D0D0D0" >}} R{{< c "#C80000" >}}
 
 # Sample pattern
 

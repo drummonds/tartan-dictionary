@@ -1,6 +1,6 @@
 ---
 title: Baird
-date: 2023-02-13
+date: 2023-02-15
 ---
 Baird
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 DB/6 K4 DB16 K16 G16 P2 G2 P/6
 
 ## Palette
-DB#000064 G#004C00 K#000000 P#5A3094
+DB{{< c "#000064" >}} G{{< c "#004C00" >}} K{{< c "#000000" >}} P{{< c "#5A3094" >}}
 
 # Sample pattern
 

@@ -14,10 +14,10 @@ Original link https://tartandictionary.org/posts/drummondsofmeggincholdkilt/
 R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12
 
 ## Palette
-DB{{< c "#0F2B5B" >}} G{{< c "#3A7728" >}} LB{{< c "#93B7D1" >}} R{{< c "#C13828" >}}
+DB{{< c "#003A70" >}} G{{< c "#49762A" >}} LB{{< c "#A4C7E2" >}} R{{< c "#C23C33" >}}
 
 # Sample pattern
 
 ![Tartan detail](tartan.png "R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12 tartan")
 
-ID: /variants/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12-db0f2b5b-g3a7728-lb93b7d1-rc13828/
+ID: /variants/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12-db003a70-g49762a-lba4c7e2-rc23c33/

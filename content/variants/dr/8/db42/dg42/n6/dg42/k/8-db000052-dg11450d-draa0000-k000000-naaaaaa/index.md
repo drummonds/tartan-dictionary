@@ -1,6 +1,6 @@
 ---
 title: Duncan
-date: 2023-02-13
+date: 2023-02-15
 ---
 Duncan
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 DR/8 DB42 DG42 N6 DG42 K/8
 
 ## Palette
-DB#000052 DG#11450D DR#AA0000 K#000000 N#AAAAAA
+DB{{< c "#000052" >}} DG{{< c "#11450D" >}} DR{{< c "#AA0000" >}} K{{< c "#000000" >}} N{{< c "#AAAAAA" >}}
 
 # Sample pattern
 

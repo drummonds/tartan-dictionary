@@ -1,6 +1,6 @@
 ---
 title: Dunbar
-date: 2023-02-13
+date: 2023-02-15
 ---
 Dunbar
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 DR/12 DG42 K16 DR56 K2 DR/8
 
 ## Palette
-DG#11450D DR#AA0000 K#000000
+DG{{< c "#11450D" >}} DR{{< c "#AA0000" >}} K{{< c "#000000" >}}
 
 # Sample pattern
 

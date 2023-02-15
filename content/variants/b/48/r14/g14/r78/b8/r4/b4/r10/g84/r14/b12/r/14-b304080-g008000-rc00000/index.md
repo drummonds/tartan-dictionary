@@ -1,6 +1,6 @@
 ---
 title: Drummond
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 B/48 R14 G14 R78 B8 R4 B4 R10 G84 R14 B12 R/14
 
 ## Palette
-B#304080 G#008000 R#C00000
+B{{< c "#304080" >}} G{{< c "#008000" >}} R{{< c "#C00000" >}}
 
 # Sample pattern
 

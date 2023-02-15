@@ -1,6 +1,6 @@
 ---
 title: Drummond of Megginch 1997 Kilt
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond of Megginch 1997 Kilt
 
@@ -14,7 +14,7 @@ Original link https://tartandictionary.org/posts/drummondsofmegginchkilt/
 DR/12 DN2 DR4 DN4 DR62 LB4 DR4 DN20 DR4 N4 DR4 N64 DR6 DN4 DR/14
 
 ## Palette
-DN#282C39 DR#983029 LB#98C8E8 N#304F45
+DN{{< c "#282C39" >}} DR{{< c "#983029" >}} LB{{< c "#98C8E8" >}} N{{< c "#304F45" >}}
 
 # Sample pattern
 

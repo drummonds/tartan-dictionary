@@ -1,6 +1,6 @@
 ---
 title: Drumlithie, Rock and Wheel
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drumlithie, Rock and Wheel
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 R/4 DR4 P6 R30 P40 G38 P6 R30 DR4 P6 R/4
 
 ## Palette
-DR#800000 G#008000 P#800080 R#C00000
+DR{{< c "#800000" >}} G{{< c "#008000" >}} P{{< c "#800080" >}} R{{< c "#C00000" >}}
 
 # Sample pattern
 

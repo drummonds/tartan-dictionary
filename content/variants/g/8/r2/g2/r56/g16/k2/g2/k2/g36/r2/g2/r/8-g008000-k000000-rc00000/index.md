@@ -1,6 +1,6 @@
 ---
 title: Drummond VS
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond VS
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 G/8 R2 G2 R56 G16 K2 G2 K2 G36 R2 G2 R/8
 
 ## Palette
-G#008000 K#000000 R#C00000
+G{{< c "#008000" >}} K{{< c "#000000" >}} R{{< c "#C00000" >}}
 
 # Sample pattern
 

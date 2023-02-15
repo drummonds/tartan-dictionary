@@ -1,6 +1,6 @@
 ---
 title: Drambuie hunting
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drambuie hunting
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 LG/6 K5 R4 K48 DR36 LT/6
 
 ## Palette
-DR#401000 K#000000 LG#908000 LT#906030 R#C00000
+DR{{< c "#401000" >}} K{{< c "#000000" >}} LG{{< c "#908000" >}} LT{{< c "#906030" >}} R{{< c "#C00000" >}}
 
 # Sample pattern
 

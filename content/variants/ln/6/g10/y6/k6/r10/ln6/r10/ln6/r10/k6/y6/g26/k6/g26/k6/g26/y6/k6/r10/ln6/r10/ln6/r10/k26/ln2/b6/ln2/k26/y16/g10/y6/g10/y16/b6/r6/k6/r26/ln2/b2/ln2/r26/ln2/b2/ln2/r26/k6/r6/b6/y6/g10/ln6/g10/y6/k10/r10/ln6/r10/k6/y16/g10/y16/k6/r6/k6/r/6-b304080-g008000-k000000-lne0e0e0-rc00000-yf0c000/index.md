@@ -1,6 +1,6 @@
 ---
 title: Drummond of Strathallan
-date: 2023-02-13
+date: 2023-02-15
 ---
 Drummond of Strathallan
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 LN/6 G10 Y6 K6 R10 LN6 R10 LN6 R10 K6 Y6 G26 K6 G26 K6 G26 Y6 K6 R10 LN6 R10 LN6 R10 K26 LN2 B6 LN2 K26 Y16 G10 Y6 G10 Y16 B6 R6 K6 R26 LN2 B2 LN2 R26 LN2 B2 LN2 R26 K6 R6 B6 Y6 G10 LN6 G10 Y6 K10 R10 LN6 R10 K6 Y16 G10 Y16 K6 R6 K6 R/6
 
 ## Palette
-B#304080 G#008000 K#000000 LN#E0E0E0 R#C00000 Y#F0C000
+B{{< c "#304080" >}} G{{< c "#008000" >}} K{{< c "#000000" >}} LN{{< c "#E0E0E0" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}
 
 # Sample pattern
 

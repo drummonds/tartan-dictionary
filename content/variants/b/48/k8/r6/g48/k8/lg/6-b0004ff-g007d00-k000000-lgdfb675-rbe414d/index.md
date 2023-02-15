@@ -1,6 +1,6 @@
 ---
 title: (1) Skene
-date: 2023-02-13
+date: 2023-02-15
 ---
 (1) Skene
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 B/48 K8 R6 G48 K8 LG/6
 
 ## Palette
-B#0004FF G#007D00 K#000000 LG#DFB675 R#BE414D
+B{{< c "#0004FF" >}} G{{< c "#007D00" >}} K{{< c "#000000" >}} LG{{< c "#DFB675" >}} R{{< c "#BE414D" >}}
 
 # Sample pattern
 

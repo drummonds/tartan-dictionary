@@ -1,6 +1,6 @@
 ---
 title: Balmoral
-date: 2023-02-13
+date: 2023-02-15
 ---
 Balmoral
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 NA/8 R4 NA22 N4 K4 NA2 N2 NA2 N8 NA4 K2 NA2 R/2
 
 ## Palette
-K#000000 N#707070 NA#D0D0D0 R#C80000
+K{{< c "#000000" >}} N{{< c "#707070" >}} NA{{< c "#D0D0D0" >}} R{{< c "#C80000" >}}
 
 # Sample pattern
 

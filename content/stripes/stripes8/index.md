@@ -1,6 +1,6 @@
 ---
 title: 8 stripes tartan setts
-date: 2023-02-13
+date: 2023-02-15
 weight: 8
 ---
 This is a list of all the tartan sett variants with 8 stripes.

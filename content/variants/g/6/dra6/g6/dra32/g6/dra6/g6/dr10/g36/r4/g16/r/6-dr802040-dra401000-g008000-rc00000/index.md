@@ -1,6 +1,6 @@
 ---
 title: Dublin
-date: 2023-02-13
+date: 2023-02-15
 ---
 Dublin
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 G/6 DRA6 G6 DRA32 G6 DRA6 G6 DR10 G36 R4 G16 R/6
 
 ## Palette
-DR#802040 DRA#401000 G#008000 R#C00000
+DR{{< c "#802040" >}} DRA{{< c "#401000" >}} G{{< c "#008000" >}} R{{< c "#C00000" >}}
 
 # Sample pattern
 

@@ -1,6 +1,6 @@
 ---
 title: Dunbar
-date: 2023-02-13
+date: 2023-02-15
 ---
 Dunbar
 
@@ -14,7 +14,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 R/12 G42 K16 R56 G2 R/8
 
 ## Palette
-G#004C00 K#000000 R#C80000
+G{{< c "#004C00" >}} K{{< c "#000000" >}} R{{< c "#C80000" >}}
 
 # Sample pattern
 

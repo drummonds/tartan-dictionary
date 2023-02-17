@@ -1,11 +1,8 @@
 ---
 title: Drummond of Perth with 9 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 9 stripes.
-
-It is a 9 stripes tartan.
-
 
 ## Thread count
 DR/72 N2 DB6 LG2 DG32 DR16 DB6 B4 N/2

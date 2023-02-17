@@ -1,11 +1,8 @@
 ---
 title: Dunbar with 6 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 6 stripes.
-
-It is a 6 stripes tartan.
-
 
 ## Thread count
 DR/12 DG42 K16 DR56 K2 DR/8

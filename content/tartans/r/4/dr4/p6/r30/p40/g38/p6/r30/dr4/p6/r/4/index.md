@@ -1,11 +1,8 @@
 ---
 title: Drumlithie, Rock and Wheel with 11 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 11 stripes.
-
-It is a 11 stripes tartan.
-
 
 ## Thread count
 R/4 DR4 P6 R30 P40 G38 P6 R30 DR4 P6 R/4

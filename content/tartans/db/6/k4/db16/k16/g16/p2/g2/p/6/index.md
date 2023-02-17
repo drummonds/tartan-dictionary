@@ -1,11 +1,8 @@
 ---
 title: Baird with 8 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 8 stripes.
-
-It is a 8 stripes tartan.
-
 
 ## Thread count
 DB/6 K4 DB16 K16 G16 P2 G2 P/6

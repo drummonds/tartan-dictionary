@@ -1,12 +1,11 @@
 ---
-title: Drummond of Megginch 1849 Kilt
-date: 2023-02-15
+title: Drummond of Megginch 2023 BertieLexa Kilt
+date: 2023-02-17
 ---
-Drummond of Megginch 1849 Kilt
+The parent of this is [Drummond of Megginch 1849 Kilt](/tartans/r/14/db2/r4/db4/r70/lb4/r4/db20/r4/g4/r4/g74/r6/db4/r/12/)
 
-Drummond of Megginch 2023 BertieLexa Kilt
 
-This was sourced from <no value>.  It is a 15 stripes tartan.
+This was sourced from <no value>.  It is a [15 stripes tartan](/stripes/stripes15/).
 
 Original link https://tartandictionary.org/posts/drummondsofmeggincholdkilt/
 

@@ -1,11 +1,8 @@
 ---
 title: Drummond of Megginch 1820 Plaid with 15 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 15 stripes.
-
-It is a 15 stripes tartan.
-
 
 ## Thread count
 R/26 DB2 R6 DB6 R126 LB6 R6 DB38 R6 G6 R6 G130 R19 DB6 R/18

@@ -1,11 +1,8 @@
 ---
 title: Drummond, Relic with 12 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 12 stripes.
-
-It is a 12 stripes tartan.
-
 
 ## Thread count
 R/16 B6 K8 Y4 K2 LN8 K2 G26 Y2 K16 LN2 R/52

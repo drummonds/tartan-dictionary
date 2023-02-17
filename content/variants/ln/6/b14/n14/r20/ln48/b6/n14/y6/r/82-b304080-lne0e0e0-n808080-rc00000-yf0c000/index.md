@@ -1,12 +1,11 @@
 ---
 title: Drummond of Perth, dress
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drummond of Perth, dress
+The parent of this is [Drummond of Perth, dress](/tartans/ln/6/b14/n14/r20/ln48/b6/n14/y6/r/82/)
 
-Drummond of Perth, dress
 
-This was sourced from <no value>.  It is a 9 stripes tartan.
+This was sourced from <no value>.  It is a [9 stripes tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

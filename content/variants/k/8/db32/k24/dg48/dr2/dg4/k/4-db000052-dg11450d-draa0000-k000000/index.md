@@ -1,12 +1,11 @@
 ---
 title: Dundas
-date: 2023-02-15
+date: 2023-02-17
 ---
-Dundas
+The parent of this is [Dundas](/tartans/k/8/db32/k24/dg48/dr2/dg4/k/4/)
 
-Dundas
 
-This was sourced from <no value>.  It is a 7 stripes tartan.
+This was sourced from <no value>.  It is a [7 stripes tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

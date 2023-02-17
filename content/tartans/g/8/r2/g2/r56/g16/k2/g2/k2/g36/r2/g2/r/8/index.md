@@ -1,11 +1,8 @@
 ---
 title: Drummond VS with 12 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 12 stripes.
-
-It is a 12 stripes tartan.
-
 
 ## Thread count
 G/8 R2 G2 R56 G16 K2 G2 K2 G36 R2 G2 R/8

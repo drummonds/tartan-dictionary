@@ -1,11 +1,8 @@
 ---
 title: Duncan with 6 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 6 stripes.
-
-It is a 6 stripes tartan.
-
 
 ## Thread count
 DR/8 DB42 DG42 N6 DG42 K/8

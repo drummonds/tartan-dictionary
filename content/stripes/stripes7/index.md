@@ -1,9 +1,9 @@
 ---
 title: 7 stripes tartan setts
-date: 2023-02-15
+date: 2023-02-17
 weight: 7
 ---
-This is a list of all the tartan sett variants with 7 stripes.
+This is a list of all the tartan sett variants with [7 stripes tartan](/stripes/stripes7/) stripes.
 
 | Tartan Variant |
 |---------------|

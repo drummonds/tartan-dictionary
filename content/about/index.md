@@ -1,14 +1,14 @@
 ---
 title: About Tartan Dictionary
-date: 2023-01-03
+date: 2023-02-17
 author: Humphrey Drummond
 ---
 
 ## The Tartan Dictionary
  
-The aim of this dictionary is to promote the use of Tartan and preserve the Celtic traditions of Hallstadt.
+The aim of this dictionary is to promote the use of Tartan and preserve the Celtic traditions of Hallstadt.  As I have develed into the origins I can feel it spreading out over the millenium from central Europe with the Celts, twisting and turing as the traditions and arts flowed east and west before finally flowering in Scotland.
 
-Trying to work out the Drummonds of Megginch tartan sparked my interest in Tartan and its evolution.  Thanks to Bertie Drummond-Herdman and Lexa Drummond for sorting out colours and patterns for the Drummond of Megginch tartan.
+Trying to work out the Drummonds of Megginch tartan sparked my interest in Tartan and its evolution.  Thanks to my neice Pelagie and Amaury for getting engaged  Thanks to Bertie Drummond-Herdman and Lexa Drummond for sorting out colours and patterns for the Drummond of Megginch tartan and making trips to the weavers in Selkirk.
 
 This is my (Humphrey Drummond) attempt to make sense of it all.
 

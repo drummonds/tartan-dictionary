@@ -1,12 +1,11 @@
 ---
 title: Dougles Green
-date: 2023-02-15
+date: 2023-02-17
 ---
-Dougles Green
+The parent of this is [Dougles Green](/tartans/k/8/b4/dg16/db16/n/2/)
 
-Dougles Green
 
-This was sourced from <no value>.  It is a 5 stripes tartan.
+This was sourced from <no value>.  It is a [5 stripes tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

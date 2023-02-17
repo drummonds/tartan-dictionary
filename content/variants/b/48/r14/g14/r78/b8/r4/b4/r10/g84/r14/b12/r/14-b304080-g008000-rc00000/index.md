@@ -1,12 +1,11 @@
 ---
 title: Drummond
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drummond
+The parent of this is [Drummond](/tartans/b/48/r14/g14/r78/b8/r4/b4/r10/g84/r14/b12/r/14/)
 
-Drummond
 
-This was sourced from <no value>.  It is a 12 stripes tartan.
+This was sourced from <no value>.  It is a [12 stripes tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

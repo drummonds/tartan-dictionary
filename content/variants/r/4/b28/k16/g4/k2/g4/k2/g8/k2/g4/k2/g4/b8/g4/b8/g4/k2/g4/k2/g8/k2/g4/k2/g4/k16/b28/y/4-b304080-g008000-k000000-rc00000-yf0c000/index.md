@@ -1,12 +1,11 @@
 ---
 title: Duchess of Albany
-date: 2023-02-15
+date: 2023-02-17
 ---
-Duchess of Albany
+The parent of this is [Duchess of Albany](/tartans/r/4/b28/k16/g4/k2/g4/k2/g8/k2/g4/k2/g4/b8/g4/b8/g4/k2/g4/k2/g8/k2/g4/k2/g4/k16/b28/y/4/)
 
-Duchess of Albany
 
-This was sourced from <no value>.  It is a 27 stripes tartan.
+This was sourced from <no value>.  It is a [27 stripes tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

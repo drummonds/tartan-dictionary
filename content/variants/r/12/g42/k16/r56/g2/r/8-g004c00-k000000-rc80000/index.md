@@ -1,12 +1,11 @@
 ---
 title: Dunbar
-date: 2023-02-15
+date: 2023-02-17
 ---
-Dunbar
+The parent of this is [Dunbar](/tartans/r/12/g42/k16/r56/g2/r/8/)
 
-Dunbar
 
-This was sourced from <no value>.  It is a 6 stripes tartan.
+This was sourced from <no value>.  It is a [6 stripes tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -1,12 +1,11 @@
 ---
 title: Drummond, (Fingask)
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drummond, (Fingask)
+The parent of this is [Drummond, (Fingask)](/tartans/ln/2/ba6/b6/r12/g24/y2/b6/r/44/)
 
-Drummond, (Fingask)
 
-This was sourced from <no value>.  It is a 8 stripes tartan.
+This was sourced from <no value>.  It is a [8 stripes tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

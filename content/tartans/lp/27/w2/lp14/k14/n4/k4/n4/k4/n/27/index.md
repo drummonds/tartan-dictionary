@@ -1,11 +1,8 @@
 ---
 title: (1) Abercrombie with 9 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 9 stripes.
-
-It is a 9 stripes tartan.
-
 
 ## Thread count
 LP/27 W2 LP14 K14 N4 K4 N4 K4 N/27

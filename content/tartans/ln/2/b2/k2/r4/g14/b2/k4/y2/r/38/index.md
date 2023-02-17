@@ -1,11 +1,8 @@
 ---
 title: Drummond, Ancient with 9 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 9 stripes.
-
-It is a 9 stripes tartan.
-
 
 ## Thread count
 LN/2 B2 K2 R4 G14 B2 K4 Y2 R/38

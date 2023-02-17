@@ -1,12 +1,11 @@
 ---
 title: Dublin
-date: 2023-02-15
+date: 2023-02-17
 ---
-Dublin
+The parent of this is [Dublin](/tartans/g/6/dra6/g6/dra32/g6/dra6/g6/dr10/g36/r4/g16/r/6/)
 
-Dublin
 
-This was sourced from <no value>.  It is a 12 stripes tartan.
+This was sourced from <no value>.  It is a [12 stripes tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

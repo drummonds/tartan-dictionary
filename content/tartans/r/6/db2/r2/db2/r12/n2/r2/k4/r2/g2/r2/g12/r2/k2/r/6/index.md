@@ -1,11 +1,8 @@
 ---
 title: Drummond C with 15 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 15 stripes.
-
-It is a 15 stripes tartan.
-
 
 ## Thread count
 R/6 DB2 R2 DB2 R12 N2 R2 K4 R2 G2 R2 G12 R2 K2 R/6

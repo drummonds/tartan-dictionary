@@ -1,11 +1,8 @@
 ---
 title: Austin with 5 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 5 stripes.
-
-It is a 5 stripes tartan.
-
 
 ## Thread count
 DB/4 K4 DB4 G9 K/2

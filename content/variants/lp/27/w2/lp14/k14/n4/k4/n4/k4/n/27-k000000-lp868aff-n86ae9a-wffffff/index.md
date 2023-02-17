@@ -1,12 +1,11 @@
 ---
 title: (1) Abercrombie
-date: 2023-02-15
+date: 2023-02-17
 ---
-(1) Abercrombie
+The parent of this is [(1) Abercrombie](/tartans/lp/27/w2/lp14/k14/n4/k4/n4/k4/n/27/)
 
-(1) Abercrombie
 
-This was sourced from <no value>.  It is a 9 stripes tartan.
+This was sourced from <no value>.  It is a [9 stripes tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

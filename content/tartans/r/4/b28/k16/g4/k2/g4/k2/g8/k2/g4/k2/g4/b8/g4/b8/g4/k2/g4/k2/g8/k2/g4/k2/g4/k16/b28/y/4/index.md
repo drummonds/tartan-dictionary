@@ -1,11 +1,8 @@
 ---
 title: Duchess of Albany with 27 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 27 stripes.
-
-It is a 27 stripes tartan.
-
 
 ## Thread count
 R/4 B28 K16 G4 K2 G4 K2 G8 K2 G4 K2 G4 B8 G4 B8 G4 K2 G4 K2 G8 K2 G4 K2 G4 K16 B28 Y/4

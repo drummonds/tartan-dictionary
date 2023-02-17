@@ -1,9 +1,9 @@
 ---
 title: 12 stripes tartan setts
-date: 2023-02-15
+date: 2023-02-17
 weight: 12
 ---
-This is a list of all the tartan sett variants with 12 stripes.
+This is a list of all the tartan sett variants with [12 stripes tartan](/stripes/stripes12/) stripes.
 
 | Tartan Variant |
 |---------------|

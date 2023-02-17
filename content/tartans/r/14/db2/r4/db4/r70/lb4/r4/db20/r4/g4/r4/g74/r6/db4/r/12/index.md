@@ -1,11 +1,8 @@
 ---
 title: Drummond of Megginch 1849 Kilt with 15 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 15 stripes.
-
-It is a 15 stripes tartan.
-
 
 ## Thread count
 R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12

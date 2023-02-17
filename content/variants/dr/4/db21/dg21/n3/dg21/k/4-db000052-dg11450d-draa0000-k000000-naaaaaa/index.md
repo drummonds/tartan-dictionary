@@ -1,12 +1,11 @@
 ---
 title: Duncan
-date: 2023-02-15
+date: 2023-02-17
 ---
-Duncan
+The parent of this is [Duncan](/tartans/dr/4/db21/dg21/n3/dg21/k/4/)
 
-Duncan
 
-This was sourced from <no value>.  It is a 6 stripes tartan.
+This was sourced from <no value>.  It is a [6 stripes tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

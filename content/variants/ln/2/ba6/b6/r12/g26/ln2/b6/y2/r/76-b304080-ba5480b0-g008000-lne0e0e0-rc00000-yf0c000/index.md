@@ -1,12 +1,11 @@
 ---
 title: Drummond, Ancient
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drummond, Ancient
+The parent of this is [Drummond, Ancient](/tartans/ln/2/ba6/b6/r12/g26/ln2/b6/y2/r/76/)
 
-Drummond, Ancient
 
-This was sourced from <no value>.  It is a 9 stripes tartan.
+This was sourced from <no value>.  It is a [9 stripes tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

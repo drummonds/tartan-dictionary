@@ -1,12 +1,11 @@
 ---
 title: Drumlithie, Rock and Wheel
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drumlithie, Rock and Wheel
+The parent of this is [Drumlithie, Rock and Wheel](/tartans/r/4/dr4/p6/r30/p40/g38/p6/r30/dr4/p6/r/4/)
 
-Drumlithie, Rock and Wheel
 
-This was sourced from <no value>.  It is a 11 stripes tartan.
+This was sourced from <no value>.  It is a [11 stripes tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

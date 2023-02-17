@@ -1,9 +1,9 @@
 ---
 title: 35 stripes tartan setts
-date: 2023-02-15
+date: 2023-02-17
 weight: 35
 ---
-This is a list of all the tartan sett variants with 35 stripes.
+This is a list of all the tartan sett variants with [35 stripes tartan](/stripes/stripes35/) stripes.
 
 | Tartan Variant |
 |---------------|

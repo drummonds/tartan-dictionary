@@ -1,12 +1,11 @@
 ---
 title: Austin
-date: 2023-02-15
+date: 2023-02-17
 ---
-Austin
+The parent of this is [Austin](/tartans/db/4/k4/db4/g9/k/2/)
 
-Austin
 
-This was sourced from <no value>.  It is a 5 stripes tartan.
+This was sourced from <no value>.  It is a [5 stripes tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

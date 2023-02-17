@@ -1,11 +1,8 @@
 ---
 title: Drambuie hunting with 6 stripes
-date: 2023-02-15
+date: 2023-02-17
 ---
 This is a list of all the tartan sett variants with 6 stripes.
-
-It is a 6 stripes tartan.
-
 
 ## Thread count
 LG/6 K5 R4 K48 DR36 LT/6

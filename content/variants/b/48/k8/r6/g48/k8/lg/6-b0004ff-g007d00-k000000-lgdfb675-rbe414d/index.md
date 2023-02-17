@@ -1,12 +1,11 @@
 ---
 title: (1) Skene
-date: 2023-02-15
+date: 2023-02-17
 ---
-(1) Skene
+The parent of this is [(1) Skene](/tartans/b/48/k8/r6/g48/k8/lg/6/)
 
-(1) Skene
 
-This was sourced from <no value>.  It is a 6 stripes tartan.
+This was sourced from <no value>.  It is a [6 stripes tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

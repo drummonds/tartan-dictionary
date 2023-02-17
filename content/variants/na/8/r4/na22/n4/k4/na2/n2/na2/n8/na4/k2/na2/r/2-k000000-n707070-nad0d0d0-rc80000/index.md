@@ -1,12 +1,11 @@
 ---
 title: Balmoral
-date: 2023-02-15
+date: 2023-02-17
 ---
-Balmoral
+The parent of this is [Balmoral](/tartans/na/8/r4/na22/n4/k4/na2/n2/na2/n8/na4/k2/na2/r/2/)
 
-Balmoral
 
-This was sourced from <no value>.  It is a 13 stripes tartan.
+This was sourced from <no value>.  It is a [13 stripes tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

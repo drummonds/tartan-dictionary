@@ -1,12 +1,11 @@
 ---
 title: Drummond, (Grey)
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drummond, (Grey)
+The parent of this is [Drummond, (Grey)](/tartans/k/8/na4/k4/n28/na4/k4/na4/k8/n4/k32/na4/k4/na2/k/8/)
 
-Drummond, (Grey)
 
-This was sourced from <no value>.  It is a 14 stripes tartan.
+This was sourced from <no value>.  It is a [14 stripes tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

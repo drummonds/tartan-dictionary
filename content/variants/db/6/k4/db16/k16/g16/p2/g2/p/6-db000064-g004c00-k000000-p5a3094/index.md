@@ -1,12 +1,11 @@
 ---
 title: Baird
-date: 2023-02-15
+date: 2023-02-17
 ---
-Baird
+The parent of this is [Baird](/tartans/db/6/k4/db16/k16/g16/p2/g2/p/6/)
 
-Baird
 
-This was sourced from <no value>.  It is a 8 stripes tartan.
+This was sourced from <no value>.  It is a [8 stripes tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

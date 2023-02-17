@@ -1,12 +1,11 @@
 ---
 title: Drummond C
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drummond C
+The parent of this is [Drummond C](/tartans/r/6/db2/r2/db2/r12/n2/r2/k4/r2/g2/r2/g12/r2/k2/r/6/)
 
-Drummond C
 
-This was sourced from <no value>.  It is a 15 stripes tartan.
+This was sourced from <no value>.  It is a [15 stripes tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

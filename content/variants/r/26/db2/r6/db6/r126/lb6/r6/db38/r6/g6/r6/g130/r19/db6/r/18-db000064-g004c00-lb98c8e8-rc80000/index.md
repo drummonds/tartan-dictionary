@@ -1,12 +1,11 @@
 ---
 title: Drummond of Megginch 1820 Plaid
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drummond of Megginch 1820 Plaid
+The parent of this is [Drummond of Megginch 1820 Plaid](/tartans/r/26/db2/r6/db6/r126/lb6/r6/db38/r6/g6/r6/g130/r19/db6/r/18/)
 
-Drummond of Megginch 1820 Plaid
 
-This was sourced from <no value>.  It is a 15 stripes tartan.
+This was sourced from <no value>.  It is a [15 stripes tartan](/stripes/stripes15/).
 
 Original link https://tartandictionary.org/posts/drummondsofmeggincholdplaid/
 

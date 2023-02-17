@@ -1,12 +1,11 @@
 ---
 title: Drambuie hunting
-date: 2023-02-15
+date: 2023-02-17
 ---
-Drambuie hunting
+The parent of this is [Drambuie hunting](/tartans/lg/6/k5/r4/k48/dr36/lt/6/)
 
-Drambuie hunting
 
-This was sourced from <no value>.  It is a 6 stripes tartan.
+This was sourced from <no value>.  It is a [6 stripes tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

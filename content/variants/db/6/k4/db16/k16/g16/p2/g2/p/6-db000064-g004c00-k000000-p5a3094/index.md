@@ -1,6 +1,6 @@
 ---
 title: Baird
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Baird](/tartans/db/6/k4/db16/k16/g16/p2/g2/p/6/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 ## Thread count
 DB/6 K4 DB16 K16 G16 P2 G2 P/6
+![Sett](sett.png)
 
 ## Palette
 DB{{< c "#000064" >}} G{{< c "#004C00" >}} K{{< c "#000000" >}} P{{< c "#5A3094" >}}

@@ -1,6 +1,6 @@
 ---
 title: Duncan
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Duncan](/tartans/dr/4/db21/dg21/n3/dg21/k/4/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DR/4 DB21 DG21 N3 DG21 K/4
+![Sett](sett.png)
 
 ## Palette
 DB{{< c "#000052" >}} DG{{< c "#11450D" >}} DR{{< c "#AA0000" >}} K{{< c "#000000" >}} N{{< c "#AAAAAA" >}}

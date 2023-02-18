@@ -1,6 +1,6 @@
 ---
 title: Drummond, (Fingask)
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Drummond, (Fingask)](/tartans/ln/2/ba6/b6/r12/g24/y2/b6/r/44/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
 ## Thread count
 LN/2 BA6 B6 R12 G24 Y2 B6 R/44
+![Sett](sett.png)
 
 ## Palette
 B{{< c "#304080" >}} BA{{< c "#5480B0" >}} G{{< c "#008000" >}} LN{{< c "#E0E0E0" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}

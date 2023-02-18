@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Drummond of Perth](/tartans/ln/4/b8/k8/r20/g42/ln4/k8/y4/r/102/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
 ## Thread count
 LN/4 B8 K8 R20 G42 LN4 K8 Y4 R/102
+![Sett](sett.png)
 
 ## Palette
 B{{< c "#5480B0" >}} G{{< c "#008000" >}} K{{< c "#000000" >}} LN{{< c "#E0E0E0" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}

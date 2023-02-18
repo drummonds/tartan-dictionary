@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="none">
+	<defs></defs>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 0,5 M 0,10 L 16,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 16,10 L 24,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 24,10 L 32,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 32,10 L 88,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 88,10 L 96,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 96,10 L 104,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 104,10 L 112,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 112,10 L 128,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 128,10 L 136,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 136,10 L 200,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 200,10 L 208,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 208,10 L 216,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 216,10 L 220,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 220,10 L 236,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 236,10 L 252,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 252,10 L 260,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 260,10 L 268,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 268,10 L 324,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 324,10 L 332,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 332,10 L 340,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 340,10 L 348,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 348,10 L 364,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 364,10 L 372,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 372,10 L 436,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 436,10 L 444,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 444,10 L 452,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 452,10 L 456,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 456,10 L 472,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 472,10 L 488,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 488,10 L 496,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 496,10 L 504,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 504,10 L 560,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 560,10 L 568,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 568,10 L 576,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 576,10 L 584,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 584,10 L 600,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 600,10 L 608,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 608,10 L 672,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 672,10 L 680,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 680,10 L 688,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 688,10 L 692,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 692,10 L 708,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 708,10 L 724,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 724,10 L 732,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 732,10 L 740,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 740,10 L 796,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 796,10 L 804,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 804,10 L 812,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 812,10 L 820,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 820,10 L 836,10"></path>
+	</g>
+	<g stroke="#505050" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 836,10 L 844,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 844,10 L 908,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 908,10 L 916,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 916,10 L 924,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 924,10 L 928,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 928,10 L 944,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 944,10 L 960,10"></path>
+	</g>
+	<g stroke="#C0C0C0" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 960,10 L 968,10"></path>
+	</g>
+	<g stroke="#000000" stroke-width="20" stroke-linecap="cap" stroke-linejoin="round">
+		<path d="M 968,10 L 976,10"></path>
+	</g>
+</svg>

@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth
-date: 2023-02-17
+date: 2023-02-18
 ---
 Drummond of Perth  Drummond
 
@@ -8,7 +8,7 @@ This is a list of tartans associated with a particular family typically where us
 Drummond Clan Chief
 
 
-## Family tartan variants
+## Family tartans
 | Name |
 |---------------|
 | [Drummond of Perth](/tartans/n/10/db6/r16/g32/y2/db6/n2/r/72/)||

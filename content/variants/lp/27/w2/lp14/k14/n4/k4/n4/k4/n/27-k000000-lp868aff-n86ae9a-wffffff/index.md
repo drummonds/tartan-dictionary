@@ -1,6 +1,6 @@
 ---
 title: (1) Abercrombie
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [(1) Abercrombie](/tartans/lp/27/w2/lp14/k14/n4/k4/n4/k4/n/27/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 
 ## Thread count
 LP/27 W2 LP14 K14 N4 K4 N4 K4 N/27
+![Sett](sett.png)
 
 ## Palette
 K{{< c "#000000" >}} LP{{< c "#868AFF" >}} N{{< c "#86AE9A" >}} W{{< c "#FFFFFF" >}}

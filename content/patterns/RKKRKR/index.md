@@ -1,6 +1,6 @@
 ---
 title: RKKRKR
-date: 2023-02-17
+date: 2023-02-18
 ---
 <no value>
 
@@ -10,7 +10,7 @@ It is a <no value> stripes tartan.
 ## Colour Sequence
 RKKRKR
 
-## List of patterns with this colour sequence
+## List of tartans with this colour sequence
 
 | Tartans |
 |---------------|

@@ -1,14 +1,14 @@
 ---
 title: Drummond, (Fingask) with 8 stripes
-date: 2023-02-17
+date: 2023-02-18
 ---
-This is a list of all the tartan sett variants with 8 stripes.
+
 
 ## Thread count
 LN/2 BA6 B6 R12 G24 Y2 B6 R/44
 
 ## Examples of this tartan pattern
-For This is a list of all the tartan sett variants with 8 stripes.
+Each of these variants will have a different colour scheme and possibly scaling.
 
 | Tartan Variants |
-|---------------|
+|---------|

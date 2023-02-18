@@ -1,6 +1,6 @@
 ---
 title: 14 stripes tartan setts
-date: 2023-02-17
+date: 2023-02-18
 weight: 14
 ---
 This is a list of all the tartan sett variants with [14 stripes tartan](/stripes/stripes14/) stripes.

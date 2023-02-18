@@ -1,6 +1,6 @@
 ---
 title: Dunbar
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Dunbar](/tartans/r/12/g42/k16/r56/g2/r/8/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 ## Thread count
 R/12 G42 K16 R56 G2 R/8
+![Sett](sett.png)
 
 ## Palette
 G{{< c "#004C00" >}} K{{< c "#000000" >}} R{{< c "#C80000" >}}

@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Drummond of Perth](/tartans/dr/72/n2/db6/lg2/dg32/dr16/db6/b4/n/2/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DR/72 N2 DB6 LG2 DG32 DR16 DB6 B4 N/2
+![Sett](sett.png)
 
 ## Palette
 B{{< c "#4367AE" >}} DB{{< c "#000052" >}} DG{{< c "#11450D" >}} DR{{< c "#AA0000" >}} LG{{< c "#AAAA00" >}} N{{< c "#AAAAAA" >}}

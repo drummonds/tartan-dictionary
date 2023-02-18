@@ -1,6 +1,6 @@
 ---
 title: Drummond, Relic
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Drummond, Relic](/tartans/r/16/b6/k8/y4/k2/ln8/k2/g26/y2/k16/ln2/r/52/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
 ## Thread count
 R/16 B6 K8 Y4 K2 LN8 K2 G26 Y2 K16 LN2 R/52
+![Sett](sett.png)
 
 ## Palette
 B{{< c "#5480B0" >}} G{{< c "#008000" >}} K{{< c "#000000" >}} LN{{< c "#E0E0E0" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}

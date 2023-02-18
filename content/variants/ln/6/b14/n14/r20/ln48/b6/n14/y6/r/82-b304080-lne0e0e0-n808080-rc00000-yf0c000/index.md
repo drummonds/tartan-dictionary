@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth, dress
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Drummond of Perth, dress](/tartans/ln/6/b14/n14/r20/ln48/b6/n14/y6/r/82/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
 ## Thread count
 LN/6 B14 N14 R20 LN48 B6 N14 Y6 R/82
+![Sett](sett.png)
 
 ## Palette
 B{{< c "#304080" >}} LN{{< c "#E0E0E0" >}} N{{< c "#808080" >}} R{{< c "#C00000" >}} Y{{< c "#F0C000" >}}

@@ -1,6 +1,6 @@
 ---
 title: Austin
-date: 2023-02-17
+date: 2023-02-18
 ---
 The parent of this is [Austin](/tartans/db/4/k4/db4/g9/k/2/)
 
@@ -11,6 +11,7 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 ## Thread count
 DB/4 K4 DB4 G9 K/2
+![Sett](sett.png)
 
 ## Palette
 DB{{< c "#00004C" >}} G{{< c "#004C00" >}} K{{< c "#000000" >}}

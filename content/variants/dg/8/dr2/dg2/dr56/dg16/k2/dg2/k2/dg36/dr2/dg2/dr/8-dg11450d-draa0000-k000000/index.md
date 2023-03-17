@@ -1,6 +1,6 @@
 ---
 title: Drummond VS
-date: 2023-02-18
+date: 2023-03-07
 ---
 The parent of this is [Drummond VS](/tartans/dg/8/dr2/dg2/dr56/dg16/k2/dg2/k2/dg36/dr2/dg2/dr/8/)
 

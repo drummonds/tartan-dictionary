@@ -1,6 +1,6 @@
 ---
 title: 9 stripes tartan setts
-date: 2023-02-18
+date: 2023-03-07
 weight: 9
 ---
 This is a list of all the tartan sett variants with [9 stripes tartan](/stripes/stripes9/) stripes.

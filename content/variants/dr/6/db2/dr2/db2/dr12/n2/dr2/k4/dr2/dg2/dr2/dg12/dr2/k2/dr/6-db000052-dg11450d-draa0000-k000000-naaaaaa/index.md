@@ -1,6 +1,6 @@
 ---
 title: Drummond C
-date: 2023-02-18
+date: 2023-03-07
 ---
 The parent of this is [Drummond C](/tartans/dr/6/db2/dr2/db2/dr12/n2/dr2/k4/dr2/dg2/dr2/dg12/dr2/k2/dr/6/)
 

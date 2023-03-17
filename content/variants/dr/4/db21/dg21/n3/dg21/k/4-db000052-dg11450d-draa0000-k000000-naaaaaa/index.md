@@ -1,6 +1,6 @@
 ---
 title: Duncan
-date: 2023-02-18
+date: 2023-03-07
 ---
 The parent of this is [Duncan](/tartans/dr/4/db21/dg21/n3/dg21/k/4/)
 

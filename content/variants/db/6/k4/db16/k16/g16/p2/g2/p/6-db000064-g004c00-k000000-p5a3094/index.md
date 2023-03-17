@@ -1,6 +1,6 @@
 ---
 title: Baird
-date: 2023-02-18
+date: 2023-03-07
 ---
 The parent of this is [Baird](/tartans/db/6/k4/db16/k16/g16/p2/g2/p/6/)
 

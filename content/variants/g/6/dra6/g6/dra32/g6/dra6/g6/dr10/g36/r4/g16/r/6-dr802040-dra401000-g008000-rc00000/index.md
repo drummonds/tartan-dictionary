@@ -1,6 +1,6 @@
 ---
 title: Dublin
-date: 2023-02-18
+date: 2023-03-07
 ---
 The parent of this is [Dublin](/tartans/g/6/dra6/g6/dra32/g6/dra6/g6/dr10/g36/r4/g16/r/6/)
 

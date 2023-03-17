@@ -1,6 +1,6 @@
 ---
 title: (1) Abercrombie
-date: 2023-02-18
+date: 2023-03-07
 ---
 The parent of this is [(1) Abercrombie](/tartans/lp/27/w2/lp14/k14/n4/k4/n4/k4/n/27/)
 

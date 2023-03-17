@@ -1,6 +1,6 @@
 ---
 title: Drumlithie, Rock and Wheel
-date: 2023-02-18
+date: 2023-03-07
 ---
 The parent of this is [Drumlithie, Rock and Wheel](/tartans/r/4/dr4/p6/r30/p40/g38/p6/r30/dr4/p6/r/4/)
 

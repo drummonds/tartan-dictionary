@@ -1,6 +1,6 @@
 ---
 title: 27 stripes tartan setts
-date: 2023-02-18
+date: 2023-03-07
 weight: 27
 ---
 This is a list of all the tartan sett variants with [27 stripes tartan](/stripes/stripes27/) stripes.

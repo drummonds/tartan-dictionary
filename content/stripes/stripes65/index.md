@@ -1,6 +1,6 @@
 ---
 title: 65 stripes tartan setts
-date: 2023-02-18
+date: 2023-03-07
 weight: 65
 ---
 This is a list of all the tartan sett variants with [65 stripes tartan](/stripes/stripes65/) stripes.

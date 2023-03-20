@@ -1,6 +1,6 @@
 ---
 title: Drummond, Relic
-date: 2023-03-07
+date: 2023-03-18
 ---
 The parent of this is [Drummond, Relic](/tartans/r/16/b6/k8/y4/k2/ln8/k2/g26/y2/k16/ln2/r/52/)
 

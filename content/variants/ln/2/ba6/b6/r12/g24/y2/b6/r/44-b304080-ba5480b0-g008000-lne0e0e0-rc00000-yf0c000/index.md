@@ -1,6 +1,6 @@
 ---
 title: Drummond, (Fingask)
-date: 2023-03-07
+date: 2023-03-18
 ---
 The parent of this is [Drummond, (Fingask)](/tartans/ln/2/ba6/b6/r12/g24/y2/b6/r/44/)
 

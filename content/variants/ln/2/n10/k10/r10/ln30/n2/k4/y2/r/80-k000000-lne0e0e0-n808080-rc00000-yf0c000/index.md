@@ -1,6 +1,6 @@
 ---
 title: Drummond of Perth, dress
-date: 2023-03-07
+date: 2023-03-18
 ---
 The parent of this is [Drummond of Perth, dress](/tartans/ln/2/n10/k10/r10/ln30/n2/k4/y2/r/80/)
 

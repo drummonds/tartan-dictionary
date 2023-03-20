@@ -1,6 +1,6 @@
 ---
 title: Summary of Patterns by colour sequence
-date: 2023-03-07
+date: 2023-03-18
 ---
 
 The tartan dictionary is organised by a number of dimensions.  This is a list of patterns, each tartan might come in different variants eg ranges of colours and sett repeats.

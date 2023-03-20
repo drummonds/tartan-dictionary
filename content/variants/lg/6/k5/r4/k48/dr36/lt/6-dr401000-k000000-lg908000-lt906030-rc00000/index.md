@@ -1,6 +1,6 @@
 ---
 title: Drambuie hunting
-date: 2023-03-07
+date: 2023-03-18
 ---
 The parent of this is [Drambuie hunting](/tartans/lg/6/k5/r4/k48/dr36/lt/6/)
 

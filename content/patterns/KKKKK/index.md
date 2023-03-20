@@ -1,18 +1,23 @@
 ---
-title: KKKKK
-date: 2023-03-07
+title: Pattern KKKKK
+date: 2023-03-18
 ---
-<no value>
+KKKKK
 
-It is a KKKKK stripes tartan.
+It is a 5 stripes tartan.
 
 
 ## Colour Sequence
 KKKKK
 
+ID = 4 
+
+For example:
+
+
 ## List of families with this colour sequence as an exemplar
 
-| Tartans |
+| Familes |
 |---------------|
 
 
@@ -20,3 +25,5 @@ KKKKK
 
 | Tartans |
 |---------------|
+| [Austin](/tartans/db/4/k4/db4/g9/k/2)||
+|![Austin example sett](/variants//db/4/k4/db4/g9/k/2-db00004c-g004c00-k000000/sett.png)|

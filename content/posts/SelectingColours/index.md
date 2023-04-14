@@ -24,9 +24,9 @@ There are references that have appeared.
 - Listed papers
 - 
 
-## Color checker
+## Colour checker
 
-[!Colour Checker](colour_checker.png)
+![Colour Checker](colour_checker.png "Colour checker")
 
 I have started to do a deep dive on colour checkers using ipython notebook and am trying out
 jupyterlite [on my development website](https://drummonds.github.io/jupyterlite/lab/index.html)  This is also available on binder.org however I think the jupytelite one is faster and easier to use.
@@ -44,8 +44,8 @@ It is a good starting point to play with a set of colours and to try and convert
  Each of these will be covered in a notebook as well as being summarised here.
  
 - [Use of the python colour module](https://drummonds.github.io/jupyterlite/lab?path=Using+colour+module.ipynb) from [Colour Science](https://www.colour-science.org/)
-- [Colour checkers]() a general overview
-- conversion from colour space to sRGB and effect of illumination
+- [Colour checkers](https://drummonds.github.io/jupyterlite/lab?path=Colour+checkers.ipynb) a general overview
+- [conversion from colour space to sRGB and effect of illumination](https://drummonds.github.io/jupyterlite/lab?path=Colour+-+verify+XYZ+to+sRGB.ipynb)
 - Constructing shading diagrams from a colour to white and black
 - Pictures of Tartan with differen colours effect of shading?
 - uncoated to coated Pantone colours effect of shading

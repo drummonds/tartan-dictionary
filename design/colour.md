@@ -186,12 +186,74 @@ families + W · N · K, plus navy DB as the one lightness split tartan can't do 
 to the Berlin–Kay core gives **6** (W · K · R · G · Y · B). One scheme, three resolutions, all
 named consistently.
 
-## Open: the nudge tolerance
+## Tolerance: two radii, not one
 
-The classification radius and the **change radius** are not the same thing, precisely because
-the registry names are so loose. "How far can a shade be nudged before the colour has definitely
-changed" needs its own OKLab radius per role, turning a Variant from a point into a point *plus a
-tolerance ball*: two weavings are the same colour iff their palettes nest within tolerance. This
-is the genuinely novel piece — the weavers record exact recipes and the Register records loose
-names, but neither formalises the equivalence radius. It is the next thread, deferred here so the
-uniformity verdict can land first.
+"How far can a shade be nudged before the colour has definitely changed" is not a single number.
+A two-colour tartan exists to *show a difference*, which splits the question into two relations:
+
+- **Strict change — *between* roles.** The colours of a sett must read as unambiguously
+  different, or the pattern collapses to one colour. This is a separation *floor* `s`: two roles
+  in one sett are distinct iff their perceptual ΔE ≥ s.
+- **Nuanced shading — *within* a role.** Each role tolerates dye-lot and weave drift. A role
+  woven at colour c covers a ball ΔE ≤ t; two weavings are the same colour iff their role-balls
+  nest. `t` is the small "same colour" radius, `s` the larger "clearly different" floor, `t < s`.
+
+Both are **perceptual** (ΔE in OKLab, or ΔE₀₀ for the chroma/hue anisotropy a flat OKLab metric
+drops). Dye density does **not** enter either radius — whether a colour has changed is a fact
+about vision, independent of how rare the colour is. Density's job is elsewhere: placing the
+*name* boundaries (in the low-density valleys between dye clusters) and acting as a classification
+prior. Two anisotropies, two jobs: perception shapes the tolerance ball; the dye prior places the
+lines between names.
+
+The two radii couple only *per sett*: a role's shading ball cannot grow past the midpoint to the
+nearest other role, so the effective tolerance is `min(t, ½·nearest-inter-role-gap)`. In practice
+that constraint **does not bind**: weavers respect `s` by design. Two-colour setts use strong
+contrast (no one weaves red against dark-red); and where two levels of one hue co-occur in a
+multi-colour sett, the registry's own centroids sit ΔE ≥ 0.17 apart (the tightest being
+yellow/dark-yellow at 0.168), 2–4× any sensible `t`. So `s` is an emergent property of the corpus,
+not a constraint we engineer, and the effective shading tolerance reduces to a single global `t`.
+The one place gaps turn dangerous is the near-duplicate achromatics (white/light-grey at ΔE
+0.065) — but those are the registry's redundancy, not distinct roles, and tight derived centroids
+dissolve them.
+
+This needs confirming against the real corpus rather than the legend centroids, which is the
+purpose of the experiment below.
+
+## Method: collision counting fixes the colour count empirically
+
+There is no perceptually privileged *n* (above), so the resolution is set **experimentally**,
+against the actual tartans, by quantisation collision counting. The protocol:
+
+1. Build an n-colour palette (equal-spaced, or dye-weighted by k-means over real corpus colour
+   usage).
+2. Map every tartan's stripes to the nearest of the n categories, collapsing each thread count to
+   its categorised, normalised form.
+3. Count **collisions** — originally-distinct tartans that land on the same categorised string.
+4. Sweep n (6 → 11 → ~25) and read the collision curve.
+
+The curve starts high, falls as n rises, and bottoms on a floor of irreducible duplicates. **A
+knee above the floor is a candidate natural number; a smooth curve means no preferred n** — either
+way the question is settled against data, not asserted.
+
+Raw collisions conflate two opposite things, and separating them is the whole point (it is the
+[thesis](thesis.md): the unit of meaning is the Pattern, not the recipe):
+
+| collision kind | what it is | verdict |
+| -------------- | ---------- | ------- |
+| **good** | two records of the *same Pattern* under different names/sources | a *find* — the Dictionary wants this collapse |
+| **bad** | distinct tartans conflated only because the palette was too coarse to carry a shade distinction that mattered (`R` swallowing a maroon at n=6, splitting to `R`/`DR` at n=11) | a resolution failure |
+
+The signal is **bad collisions vs n**, cross-referenced against name/family metadata. The n where
+bad collisions reach ≈0 is the resolution the corpus demands; the good-collision count there is a
+bonus — the Dictionary quantifying how many "different" tartans are really one design.
+
+Two properties fall out for free. The sweep **self-isolates colour**: collisions only occur among
+structurally-identical normalised setts, so structure is held constant and only colour resolution
+is under test. And it gives a **palette bake-off** — the dye-weighted palette should clear the bad
+collisions at a lower n than the equal-spaced one, proving the dye-weighting bias by collision
+count rather than assertion.
+
+The experiment must run in `tartan_data` — it needs the full imported corpus plus the engine's
+`ThreadcountList.Normalised()` / `Reduced()` and `Palette`. The detailed protocol lives there as a
+research proposal (`research/colour-resolution.md`); this repo holds only the conceptual model and
+the colour legend.

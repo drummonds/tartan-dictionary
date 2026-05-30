@@ -1,0 +1,10 @@
+# Netlify build configuration.
+# Hugo is not on the build image by default, so pin the version to match local
+# (see `hugo version`). Keep this in step with the local/dev Hugo.
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.162.0"
+  HUGO_EXTENDED = "true"

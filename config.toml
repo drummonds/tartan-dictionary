@@ -81,6 +81,8 @@ stripe = "stripes"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.extensions.typographer]
+      disable = true
   [markup.highlight]
     guessSyntax = true
     hl_Lines = ""

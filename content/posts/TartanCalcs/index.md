@@ -140,7 +140,7 @@ def tartan_colour_to_svg_colour(colour):
         return 'darkyellow'
     elif colour == 'LG':
         return 'lightreen'
-    elif colour == 'G':
+    elif colour == 'G':  # No 10
         return 'green'
     elif colour == 'DG':
         return 'darkreen'
@@ -160,7 +160,7 @@ def tartan_colour_to_svg_colour(colour):
         return 'white'
     elif colour == 'LN':
         return 'lightgray'
-    elif colour == 'N':
+    elif colour == 'N':  # 20
         return 'gray'
     elif colour == 'DN':
         return 'darkgray'
@@ -170,7 +170,7 @@ def tartan_colour_to_svg_colour(colour):
         return 'lightbrown'
     elif colour == 'T':
         return 'brown'
-    elif colour == 'DT':
+    elif colour == 'DT':  # 25
         return 'darkbrown'
     else:
         raise TartanException(f'Colour {colour} is not defined')

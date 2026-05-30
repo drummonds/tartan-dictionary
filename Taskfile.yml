@@ -1,0 +1,34 @@
+version: '3'
+
+tasks:
+  default:
+    desc: List available tasks
+    cmd: task --list-all
+    silent: true
+
+  serve:
+    desc: Run Hugo development server
+    cmd: hugo serve --bind 0.0.0.0
+
+  build:
+    desc: Build the site for production
+    cmd: hugo --minify
+
+  test:
+    desc: Build smoke test (fails on template/render errors)
+    cmd: hugo --gc --minify
+
+  check:
+    desc: Run all checks (currently the build smoke test)
+    cmds:
+      - task: test
+
+  clean:
+    desc: Clean the public directory
+    cmd: rm -rf public
+
+  rebuild:
+    desc: Clean and rebuild the site
+    deps: [clean]
+    cmds:
+      - hugo --minify

@@ -5,7 +5,11 @@
     <h1 style="text-align: center;" >{{ .Title }}</h1>
     <div class="post-metadata">
     {{ if .Date }}
-      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 02, 2006" }}</time> &nbsp; 
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 02, 2006" }}</time>
+      {{ if and .Lastmod (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }}
+        &middot; <span class="post-updated">updated {{ .Lastmod.Format "January 02, 2006" }}</span>
+      {{ end }}
+      &nbsp;
     {{ end }}
     <!-- Valine Vistors in Header Start -->
     {{ if and .Site.Params.valine.enable (or (ne .Site.BaseURL "https://localhost:1313/") .Site.Params.valine.debug) }}
@@ -48,15 +52,6 @@
   </div>
 
   <footer class="post-footer">
-    {{ if and .Lastmod (ne .Lastmod .Date) }}
-    <div class="post-lastmod">
-      <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
-        update @ {{ .Lastmod.Format "January 02, 2006" }}
-      </time>
-      <p></p>
-    </div>
-    {{ end }}
-
     {{ if gt .Params.tags 0 }}
     <div class="post-tags">
       <i class="fas fa-tags"></i>

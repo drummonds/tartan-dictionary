@@ -33,7 +33,7 @@
     onload="renderMathInElement(document.body);">
   </script>  
   {{- end }}
-  {{ if .Site.GoogleAnalytics }}
-  {{ template "_internal/google_analytics.html" . }}
+  {{ with .Site.Config.Services.GoogleAnalytics.ID }}
+  {{ template "_internal/google_analytics.html" $ }}
   {{ end }}
 </head>

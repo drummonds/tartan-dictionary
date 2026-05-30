@@ -1,16 +1,61 @@
 ---
 title: "Tartan Colours"
 date: 2023-01-22
+lastmod: 2026-05-30
 slug: colours
 ---
 
-Lists of tartan colours are important for a dictionary as you need to allow some variation for colours and yet still be the same thread count descriptions.
+A dictionary needs a colour list because the *same* design is woven in many shades: you must
+allow variation and still call it the same thread count. So the real question is not "what are
+the colours" but "when are two shades the same colour" — a distance question, best asked in a
+perceptually uniform space (OKLab), not in sRGB.
 
-In the first instance I am using the 19 colour names from the Tartan Registry although I am very tempted to using on the 6 basic colours that are common to almost all languages White Black, Red, Green, Blue and Yellow.
+## Is the Tartan Registry list good enough?
 
-## Tartan Registry Colour list
+The Register's list is the obvious starting point. Run through OKLab it turns out to be a list
+of **131 example shades under 24 codes** (not 19), and as a *partition* of colour space it does
+not hold up:
 
-The full tartan registry colour list (corrected for errors as of 2023-01-23) is:
+- **It overlaps itself.** 21% of its own shades sit closer to a different code's centroid than
+  to their own — a fifth are mislabelled against the list's own logic.
+- **Half its resolution is redundant.** 12 of the 24 code-centroids are within ΔE 0.10 of a
+  neighbour — closer than "clearly a different colour". The list claims 24 distinctions and
+  resolves about 12.
+- **Its coverage is lumpy, and tellingly so.** The shades cluster on madder red, weld yellow,
+  earth green and indigo blue — the natural-dye palette — and thin out at cyan and clean pink,
+  the colours that need synthetic dyes. The list is a faithful record of *what was woven*, which
+  is exactly why it is not a uniform grid.
+
+So the Register list stays as the **source** of historical shades, but the dictionary's
+classifier is a clean partition *derived* from it (OKLab centroids, Voronoi cells) rather than
+the raw list. Regularising the Register's own 24 codes already classifies 79% of its shades into
+their own code, so the majority still match the Register; the 21% that don't are its own
+inconsistencies.
+
+## How many colours, and how far apart?
+
+There is no perceptually magic number — 6 (white, black, red, green, yellow, blue) and 11 are
+special to *language* (Berlin & Kay's basic colour terms), not to the gamut. What a count costs
+you is separation. Building a partition at each size and measuring the ΔE between neighbouring
+colours (≥0.05 is "clearly a different colour"), spaced evenly versus weighted to the dyes:
+
+| colours | even spacing, min ΔE | dye-weighted, min ΔE |
+| ------: | -------------------: | -------------------: |
+| 6  | 0.34 | 0.20 |
+| 11 | 0.24 | 0.17 |
+| 25 | 0.16 | 0.10 |
+
+6 and 11 sit far above the confusion floor; by 25 the colours are only twice "clearly
+different" apart, so ~25 is about the ceiling. The two columns differ because **even spacing
+wastes cells on cyan and clean pink — colours no vegetable dye reaches** — while weighting to
+the dyes spends the budget on the madder reds, indigo blues and earth greens that tartan
+actually used. That bias is deliberate: the colours should resolve the cloth, not the gamut. The
+full reasoning, with the naming scheme, is in the design notes (`design/colour.md` in the source
+repository).
+
+## The full Tartan Registry colour list
+
+Corrected for errors as of 2023-01-23:
 
 {{< colour_table >}}
 

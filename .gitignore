@@ -1,4 +1,8 @@
 public/
 .hugo_build.lock
+.task
 test.log
+
+
+WOW/
 

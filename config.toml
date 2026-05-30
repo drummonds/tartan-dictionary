@@ -2,7 +2,8 @@ baseURL = "https://www.tartandictionary.org/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 theme = "simpleness"
-paginate = 20
+[pagination]
+pagerSize = 20
 
 title = "Tartan Dictionary"
 enableInlineShortcodes = true
@@ -64,7 +65,7 @@ googleAnalytics = ""
   url = "/about/"
   weight = 8
 
-[social]
+[params.social]
   github = "https://github.com/Drummonds"
   rss = "index.xml"
 
@@ -77,6 +78,9 @@ stripe = "stripes"
 # doc: https://gohugo.io/getting-started/configuration-markup#highlight
 # syntax style: https://xyproto.github.io/splash/docs/longer/all.html
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   [markup.highlight]
     guessSyntax = true
     hl_Lines = ""

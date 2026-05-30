@@ -13,6 +13,9 @@
     <div>
     <section>
       <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+      {{ if and .Lastmod (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) }}
+      <h5 id="updated"> updated {{ .Lastmod.Format "Mon Jan 2, 2006" }} </h5>
+      {{ end }}
       <h5 id="wordcount"> {{ .WordCount }} Words </h5>
     </section>
       {{ with .GetTerms "topics" }}

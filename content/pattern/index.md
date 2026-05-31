@@ -1,41 +1,1626 @@
 ---
-title: Summary of Patterns by colour sequence
+title: Patterns by colour sequence
 date: 2023-03-18
 ---
+Patterns over the six base colours. The two-stripe patterns below are complete; longer patterns are listed where a sett has actually been recorded (the full combinatorial tree is browsed on demand).
 
-The tartan dictionary is organised by a number of dimensions.  This is a list of patterns, each tartan might come in different variants eg ranges of colours and sett repeats.
+## Two-stripe patterns
 
+{{< pat "BG" >}}
+{{< pat "BK" >}}
+{{< pat "BR" >}}
+{{< pat "BW" >}}
+{{< pat "BY" >}}
+{{< pat "GK" >}}
+{{< pat "GR" >}}
+{{< pat "GW" >}}
+{{< pat "GY" >}}
+{{< pat "KR" >}}
+{{< pat "KW" >}}
+{{< pat "KY" >}}
+{{< pat "RW" >}}
+{{< pat "RY" >}}
+{{< pat "WY" >}}
 
-| Tartan Name   | Sequence | Count |
-|---------------| ---------|-------|
-|[Austin](/families/austin)| [KKKKK](/patterns/kkkkk)| [5](/stripes/stripes5/) 
-|[Dougles Green](/families/dougles_green)| [KBKKW](/patterns/kbkkw)| [5](/stripes/stripes5/) 
-|[(1) Skene](/families/(1)_skene)| [BKRKKY](/patterns/bkrkky)| [6](/stripes/stripes6/) 
-|[Drambuie hunting](/families/drambuie_hunting)| [RKKRKY](/patterns/rkkrky)| [6](/stripes/stripes6/) 
-|[Dunbar](/families/dunbar)| [RKKRKR](/patterns/rkkrkr)| [6](/stripes/stripes6/) 
-|[Duncan](/families/duncan)| [KKWKKR](/patterns/kkwkkr)| [6](/stripes/stripes6/) 
-|[Dundas](/families/dundas)| [KKKKRKK](/patterns/kkkkrkk)| [7](/stripes/stripes7/) 
-|[Baird](/families/baird)| [BKBKKKKK](/patterns/bkbkkkkk)| [8](/stripes/stripes8/) 
-|[Drummond of Perth](/families/drummond_of_perth)| [RWKYKRKW](/patterns/rwkykrkw)| [8](/stripes/stripes8/) 
-|[Drummond, (Fingask)](/families/drummond,_(fingask))| [RBYGRBBW](/patterns/rbygrbbw)| [8](/stripes/stripes8/) 
-|[(1) Abercrombie](/families/(1)_abercrombie)| [WKWKWKWWW](/patterns/wkwkwkwww)| [9](/stripes/stripes9/) 
-|[Drummond of Perth](/families/drummond_of_perth)| [RYKWGRKBW](/patterns/rykwgrkbw)| [9](/stripes/stripes9/) 
-|[Drummond of Perth](/families/drummond_of_perth)| [RWBYGRBBW](/patterns/rwbygrbbw)| [9](/stripes/stripes9/) 
-|[Drummond of Perth](/families/drummond_of_perth)| [RWKYKRKBW](/patterns/rwkykrkbw)| [9](/stripes/stripes9/) 
-|[Drummond of Perth, dress](/families/drummond_of_perth,_dress)| [RYKWWRKWW](/patterns/rykwwrkww)| [9](/stripes/stripes9/) 
-|[Drummond of Perth, dress](/families/drummond_of_perth,_dress)| [RYWBWRWBW](/patterns/rywbwrwbw)| [9](/stripes/stripes9/) 
-|[Drummond, Ancient](/families/drummond,_ancient)| [RYKBGRKBW](/patterns/rykbgrkbw)| [9](/stripes/stripes9/) 
-|[Drummond, Ancient](/families/drummond,_ancient)| [RYBWGRBBW](/patterns/rybwgrbbw)| [9](/stripes/stripes9/) 
-|[Drumlithie, Rock and Wheel](/families/drumlithie,_rock_and_wheel)| [RRRRRGRRRRR](/patterns/rrrrrgrrrrr)| [11](/stripes/stripes11/) 
-|[Drummond](/families/drummond)| [BRGRBRBRGRBR](/patterns/brgrbrbrgrbr)| [12](/stripes/stripes12/) 
-|[Drummond](/families/drummond)| [GRGRGKGKGRGR](/patterns/grgrgkgkgrgr)| [12](/stripes/stripes12/) 
-|[Drummond VS](/families/drummond_vs)| [KRKRKKKKKRKR](/patterns/krkrkkkkkrkr)| [12](/stripes/stripes12/) 
-|[Drummond, Relic](/families/drummond,_relic)| [RBKYKWKGYKWR](/patterns/rbkykwkgykwr)| [12](/stripes/stripes12/) 
-|[Dublin](/families/dublin)| [GKGKGKGRGRGR](/patterns/gkgkgkgrgrgr)| [12](/stripes/stripes12/) 
-|[Balmoral](/families/balmoral)| [RWKWKWKWKKWRW](/patterns/rwkwkwkwkkwrw)| [13](/stripes/stripes13/) 
-|[Drummond, (Grey)](/families/drummond,_(grey))| [KWKKWKWKKKWKWK](/patterns/kwkkwkwkkkwkwk)| [14](/stripes/stripes14/) 
-|[Drummond of Megginch 1820 Plaid](/families/drummond_of_megginch_1820_plaid)| [RKRKRKRKRWRKRKR](/patterns/rkrkrkrkrwrkrkr)| [15](/stripes/stripes15/) 
-|[Drummond](/families/drummond)| [BRBRGRGRBRBRBRBR](/patterns/brbrgrgrbrbrbrbr)| [16](/stripes/stripes16/) 
-|[Duchess of Albany](/families/duchess_of_albany)| [RBKGKGKGKGKGBGBGKGKGKGKGKBY](/patterns/rbkgkgkgkgkgbgbgkgkgkgkgkby)| [27](/stripes/stripes27/) 
-|[Duchess of Edinburgh](/families/duchess_of_edinburgh)| [BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR](/patterns/bkrkykbkbkgrgbkykwkgrkrwrkrgkwkykbr)| [35](/stripes/stripes35/) 
-|[Drummond of Strathallan](/families/drummond_of_strathallan)| [RKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/patterns/rkrkygykrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw)| [65](/stripes/stripes65/) 
+## Recorded patterns by stripe count
+
+### 3 stripes (54 patterns)
+
+{{< pat "BBB" >}}
+{{< pat "BBG" >}}
+{{< pat "BBR" >}}
+{{< pat "BGB" >}}
+{{< pat "BGK" >}}
+{{< pat "BGR" >}}
+{{< pat "BGY" >}}
+{{< pat "BKB" >}}
+{{< pat "BKG" >}}
+{{< pat "BKR" >}}
+{{< pat "BKW" >}}
+{{< pat "BRG" >}}
+{{< pat "BRR" >}}
+{{< pat "BRW" >}}
+{{< pat "BWG" >}}
+{{< pat "BWK" >}}
+{{< pat "BWR" >}}
+{{< pat "BWW" >}}
+{{< pat "BYK" >}}
+{{< pat "BYR" >}}
+{{< pat "GBK" >}}
+{{< pat "GBR" >}}
+{{< pat "GBY" >}}
+{{< pat "GGG" >}}
+{{< pat "GGY" >}}
+{{< pat "GKG" >}}
+{{< pat "GKR" >}}
+{{< pat "GRG" >}}
+{{< pat "GRR" >}}
+{{< pat "GRY" >}}
+{{< pat "GWR" >}}
+{{< pat "GWY" >}}
+{{< pat "GYK" >}}
+{{< pat "GYR" >}}
+{{< pat "KBK" >}}
+{{< pat "KBY" >}}
+{{< pat "KGR" >}}
+{{< pat "KGY" >}}
+{{< pat "KRK" >}}
+{{< pat "KRY" >}}
+
+… and 14 more
+
+### 4 stripes (217 patterns)
+
+{{< pat "BBBR" >}}
+{{< pat "BBBW" >}}
+{{< pat "BBBY" >}}
+{{< pat "BBGB" >}}
+{{< pat "BBGR" >}}
+{{< pat "BBGW" >}}
+{{< pat "BBGY" >}}
+{{< pat "BBKB" >}}
+{{< pat "BBKG" >}}
+{{< pat "BBKR" >}}
+{{< pat "BBRG" >}}
+{{< pat "BBRK" >}}
+{{< pat "BBWB" >}}
+{{< pat "BBWK" >}}
+{{< pat "BBWY" >}}
+{{< pat "BBYB" >}}
+{{< pat "BGBG" >}}
+{{< pat "BGBR" >}}
+{{< pat "BGBW" >}}
+{{< pat "BGBY" >}}
+{{< pat "BGGG" >}}
+{{< pat "BGGR" >}}
+{{< pat "BGGY" >}}
+{{< pat "BGKG" >}}
+{{< pat "BGKR" >}}
+{{< pat "BGRG" >}}
+{{< pat "BGRR" >}}
+{{< pat "BGRW" >}}
+{{< pat "BGRY" >}}
+{{< pat "BGWB" >}}
+{{< pat "BGWK" >}}
+{{< pat "BGWR" >}}
+{{< pat "BGWY" >}}
+{{< pat "BGYB" >}}
+{{< pat "BGYG" >}}
+{{< pat "BGYK" >}}
+{{< pat "BGYR" >}}
+{{< pat "BKBK" >}}
+{{< pat "BKBR" >}}
+{{< pat "BKBW" >}}
+
+… and 177 more
+
+### 5 stripes (423 patterns)
+
+{{< pat "BBBBB" >}}
+{{< pat "BBBBR" >}}
+{{< pat "BBBBW" >}}
+{{< pat "BBBBY" >}}
+{{< pat "BBBGW" >}}
+{{< pat "BBBKG" >}}
+{{< pat "BBBKW" >}}
+{{< pat "BBBKY" >}}
+{{< pat "BBBRB" >}}
+{{< pat "BBBRK" >}}
+{{< pat "BBBRW" >}}
+{{< pat "BBBWG" >}}
+{{< pat "BBBYB" >}}
+{{< pat "BBGBR" >}}
+{{< pat "BBGBW" >}}
+{{< pat "BBGRK" >}}
+{{< pat "BBGRW" >}}
+{{< pat "BBGRY" >}}
+{{< pat "BBGWY" >}}
+{{< pat "BBKBK" >}}
+{{< pat "BBKBR" >}}
+{{< pat "BBKBW" >}}
+{{< pat "BBKGY" >}}
+{{< pat "BBKRG" >}}
+{{< pat "BBRBB" >}}
+{{< pat "BBRBG" >}}
+{{< pat "BBRBK" >}}
+{{< pat "BBRGB" >}}
+{{< pat "BBRGG" >}}
+{{< pat "BBRGR" >}}
+{{< pat "BBRRR" >}}
+{{< pat "BBWBW" >}}
+{{< pat "BBWGB" >}}
+{{< pat "BBWRY" >}}
+{{< pat "BBWYB" >}}
+{{< pat "BBYWB" >}}
+{{< pat "BGBGG" >}}
+{{< pat "BGBGR" >}}
+{{< pat "BGBGW" >}}
+{{< pat "BGBRB" >}}
+
+… and 383 more
+
+### 6 stripes (873 patterns)
+
+{{< pat "BBBBBB" >}}
+{{< pat "BBBBBG" >}}
+{{< pat "BBBBBW" >}}
+{{< pat "BBBBBY" >}}
+{{< pat "BBBBGB" >}}
+{{< pat "BBBBRB" >}}
+{{< pat "BBBBWB" >}}
+{{< pat "BBBBWG" >}}
+{{< pat "BBBBYB" >}}
+{{< pat "BBBGBB" >}}
+{{< pat "BBBGBG" >}}
+{{< pat "BBBGBW" >}}
+{{< pat "BBBGBY" >}}
+{{< pat "BBBGRW" >}}
+{{< pat "BBBKGB" >}}
+{{< pat "BBBKGK" >}}
+{{< pat "BBBKGR" >}}
+{{< pat "BBBKGY" >}}
+{{< pat "BBBKRY" >}}
+{{< pat "BBBRBR" >}}
+{{< pat "BBBRBY" >}}
+{{< pat "BBBRKY" >}}
+{{< pat "BBBRRY" >}}
+{{< pat "BBBRYB" >}}
+{{< pat "BBBWBB" >}}
+{{< pat "BBBWBG" >}}
+{{< pat "BBBWBW" >}}
+{{< pat "BBGBBR" >}}
+{{< pat "BBGBGB" >}}
+{{< pat "BBGBRY" >}}
+{{< pat "BBGBYB" >}}
+{{< pat "BBGGKW" >}}
+{{< pat "BBGYWK" >}}
+{{< pat "BBGYYR" >}}
+{{< pat "BBKBGB" >}}
+{{< pat "BBKBKB" >}}
+{{< pat "BBKBWB" >}}
+{{< pat "BBKBWR" >}}
+{{< pat "BBKGKB" >}}
+{{< pat "BBKGKY" >}}
+
+… and 833 more
+
+### 7 stripes (968 patterns)
+
+{{< pat "BBBBBBY" >}}
+{{< pat "BBBBBGB" >}}
+{{< pat "BBBBBWB" >}}
+{{< pat "BBBBGBG" >}}
+{{< pat "BBBBGBW" >}}
+{{< pat "BBBBGWG" >}}
+{{< pat "BBBBKBB" >}}
+{{< pat "BBBBKBW" >}}
+{{< pat "BBBBKGB" >}}
+{{< pat "BBBBKGY" >}}
+{{< pat "BBBBRBR" >}}
+{{< pat "BBBBWBB" >}}
+{{< pat "BBBBWBR" >}}
+{{< pat "BBBBWBW" >}}
+{{< pat "BBBBWKW" >}}
+{{< pat "BBBBYBY" >}}
+{{< pat "BBBGBBR" >}}
+{{< pat "BBBGBBY" >}}
+{{< pat "BBBGBGR" >}}
+{{< pat "BBBGBGW" >}}
+{{< pat "BBBGBKG" >}}
+{{< pat "BBBGBRB" >}}
+{{< pat "BBBGBWB" >}}
+{{< pat "BBBGGGB" >}}
+{{< pat "BBBKGBG" >}}
+{{< pat "BBBKGRG" >}}
+{{< pat "BBBKGRY" >}}
+{{< pat "BBBRBRB" >}}
+{{< pat "BBBRKGB" >}}
+{{< pat "BBBRKRK" >}}
+{{< pat "BBBRYBG" >}}
+{{< pat "BBBWBBW" >}}
+{{< pat "BBBWBGY" >}}
+{{< pat "BBBWBKY" >}}
+{{< pat "BBBWBRR" >}}
+{{< pat "BBBWKBK" >}}
+{{< pat "BBGBBGB" >}}
+{{< pat "BBGBGBR" >}}
+{{< pat "BBGBRBW" >}}
+{{< pat "BBGBRYG" >}}
+
+… and 928 more
+
+### 8 stripes (1117 patterns)
+
+{{< pat "BBBBBBBW" >}}
+{{< pat "BBBBBBBY" >}}
+{{< pat "BBBBBBGR" >}}
+{{< pat "BBBBBBKR" >}}
+{{< pat "BBBBBBRW" >}}
+{{< pat "BBBBBBWB" >}}
+{{< pat "BBBBBBWG" >}}
+{{< pat "BBBBBGBG" >}}
+{{< pat "BBBBBKBR" >}}
+{{< pat "BBBBBRBW" >}}
+{{< pat "BBBBGBBY" >}}
+{{< pat "BBBBRYKW" >}}
+{{< pat "BBBBWBBB" >}}
+{{< pat "BBBBWBKR" >}}
+{{< pat "BBBBWBWB" >}}
+{{< pat "BBBBWRBR" >}}
+{{< pat "BBBBWWBW" >}}
+{{< pat "BBBBYBBY" >}}
+{{< pat "BBBBYKBW" >}}
+{{< pat "BBBGGGWR" >}}
+{{< pat "BBBGKBKB" >}}
+{{< pat "BBBGRWBB" >}}
+{{< pat "BBBGWGBB" >}}
+{{< pat "BBBKGBGW" >}}
+{{< pat "BBBKGKGY" >}}
+{{< pat "BBBKRRBR" >}}
+{{< pat "BBBKWKBB" >}}
+{{< pat "BBBKWRBK" >}}
+{{< pat "BBBRBBBG" >}}
+{{< pat "BBBRBBRW" >}}
+{{< pat "BBBRBKKK" >}}
+{{< pat "BBBRBRBR" >}}
+{{< pat "BBBRKRBB" >}}
+{{< pat "BBBWBBWB" >}}
+{{< pat "BBBWBRGY" >}}
+{{< pat "BBBWBWBK" >}}
+{{< pat "BBBWBWBR" >}}
+{{< pat "BBBYBBRB" >}}
+{{< pat "BBBYBYBY" >}}
+{{< pat "BBBYGGWR" >}}
+
+… and 1077 more
+
+### 9 stripes (940 patterns)
+
+{{< pat "BBBBBBBBB" >}}
+{{< pat "BBBBBBBGB" >}}
+{{< pat "BBBBBBRBB" >}}
+{{< pat "BBBBBBRBR" >}}
+{{< pat "BBBBBBRBW" >}}
+{{< pat "BBBBBBWBW" >}}
+{{< pat "BBBBBBWBY" >}}
+{{< pat "BBBBBGBGB" >}}
+{{< pat "BBBBGBGBG" >}}
+{{< pat "BBBBGRGBW" >}}
+{{< pat "BBBBKGBGB" >}}
+{{< pat "BBBBKGKBW" >}}
+{{< pat "BBBBKWGKY" >}}
+{{< pat "BBBBRBBYB" >}}
+{{< pat "BBBBRBGBW" >}}
+{{< pat "BBBBWBBBR" >}}
+{{< pat "BBBBWBWBW" >}}
+{{< pat "BBBBYBYBY" >}}
+{{< pat "BBBBYWYWY" >}}
+{{< pat "BBBGBBBWR" >}}
+{{< pat "BBBGBGBGB" >}}
+{{< pat "BBBGBGBGG" >}}
+{{< pat "BBBGRKBBW" >}}
+{{< pat "BBBKBGBGW" >}}
+{{< pat "BBBKBGKBB" >}}
+{{< pat "BBBKBKRKW" >}}
+{{< pat "BBBKGKGKG" >}}
+{{< pat "BBBKGKRWY" >}}
+{{< pat "BBBRBKGKR" >}}
+{{< pat "BBBRBRGKG" >}}
+{{< pat "BBBRGKGKG" >}}
+{{< pat "BBBRKBGRG" >}}
+{{< pat "BBBWBWBRB" >}}
+{{< pat "BBBWBWKBW" >}}
+{{< pat "BBBWGRBRY" >}}
+{{< pat "BBGBBKBBW" >}}
+{{< pat "BBGBGBBGB" >}}
+{{< pat "BBGBGBGBB" >}}
+{{< pat "BBGBGBGBG" >}}
+{{< pat "BBGBGBGBW" >}}
+
+… and 900 more
+
+### 10 stripes (957 patterns)
+
+{{< pat "BBBBBBBBBB" >}}
+{{< pat "BBBBBBBKBB" >}}
+{{< pat "BBBBBBGBGB" >}}
+{{< pat "BBBBBBKGKW" >}}
+{{< pat "BBBBBBRBRB" >}}
+{{< pat "BBBBBRBRRR" >}}
+{{< pat "BBBBBYBRYR" >}}
+{{< pat "BBBBGBGBGG" >}}
+{{< pat "BBBBGKGKBB" >}}
+{{< pat "BBBBGRYBGB" >}}
+{{< pat "BBBBKBGBGG" >}}
+{{< pat "BBBBKGKGWG" >}}
+{{< pat "BBBBKRGBBK" >}}
+{{< pat "BBBBWBBKBR" >}}
+{{< pat "BBBGBBBBBY" >}}
+{{< pat "BBBGBGBGBB" >}}
+{{< pat "BBBGBGRRBR" >}}
+{{< pat "BBBGBGRYBR" >}}
+{{< pat "BBBGBRBRBR" >}}
+{{< pat "BBBGRGBBYG" >}}
+{{< pat "BBBKBBBKBW" >}}
+{{< pat "BBBKBBWBYB" >}}
+{{< pat "BBBKBKBBGY" >}}
+{{< pat "BBBRBBBBBY" >}}
+{{< pat "BBBRBGBGBW" >}}
+{{< pat "BBBRBKRKBR" >}}
+{{< pat "BBBRBRBGBR" >}}
+{{< pat "BBBRBRBRBB" >}}
+{{< pat "BBBRKRBBWB" >}}
+{{< pat "BBBWBWRBGB" >}}
+{{< pat "BBBYBYBYBW" >}}
+{{< pat "BBGBBBBBBG" >}}
+{{< pat "BBGBGBYWBW" >}}
+{{< pat "BBGGGYGGGB" >}}
+{{< pat "BBGKBKBKBK" >}}
+{{< pat "BBGKGBBBGB" >}}
+{{< pat "BBGKGBRKBB" >}}
+{{< pat "BBGKGBYKYB" >}}
+{{< pat "BBGKGKGRWR" >}}
+{{< pat "BBGRGBWBWG" >}}
+
+… and 917 more
+
+### 11 stripes (825 patterns)
+
+{{< pat "BBBBBBBBBBR" >}}
+{{< pat "BBBBBBBBKRK" >}}
+{{< pat "BBBBBBBGBKB" >}}
+{{< pat "BBBBBBBGBYR" >}}
+{{< pat "BBBBBBBRBKY" >}}
+{{< pat "BBBBBBBRBRW" >}}
+{{< pat "BBBBBBGBGRB" >}}
+{{< pat "BBBBBGWGKWG" >}}
+{{< pat "BBBBBKBKBBK" >}}
+{{< pat "BBBBBKWKBBK" >}}
+{{< pat "BBBBBRBBBBB" >}}
+{{< pat "BBBBGBKBBBW" >}}
+{{< pat "BBBBGBKGKGK" >}}
+{{< pat "BBBBGYGKGKR" >}}
+{{< pat "BBBBRBBRBRB" >}}
+{{< pat "BBBBWBKGKGB" >}}
+{{< pat "BBBBYBYWYKY" >}}
+{{< pat "BBBGBGBGBKB" >}}
+{{< pat "BBBGBGRGBRY" >}}
+{{< pat "BBBGGGGBGBB" >}}
+{{< pat "BBBGRGRBRWR" >}}
+{{< pat "BBBKBRBBBKB" >}}
+{{< pat "BBBKBYBBBKW" >}}
+{{< pat "BBBRBBBBGBW" >}}
+{{< pat "BBBRBBGGBBY" >}}
+{{< pat "BBBRGKBBRGB" >}}
+{{< pat "BBBRKBRGRKR" >}}
+{{< pat "BBBYBBBBBBW" >}}
+{{< pat "BBGBBYBBGBY" >}}
+{{< pat "BBGBGBBBBBW" >}}
+{{< pat "BBGBGBKBKBW" >}}
+{{< pat "BBGBWBKGKGB" >}}
+{{< pat "BBGBWBWBGBR" >}}
+{{< pat "BBGBWBWBWKB" >}}
+{{< pat "BBGBYBWBRBB" >}}
+{{< pat "BBGRGKGYGBB" >}}
+{{< pat "BBKBBBRBBBW" >}}
+{{< pat "BBKBBGKGKBG" >}}
+{{< pat "BBKBBRKRKBR" >}}
+{{< pat "BBKBKBBKBKB" >}}
+
+… and 785 more
+
+### 12 stripes (885 patterns)
+
+{{< pat "BBBBBBBBBRBW" >}}
+{{< pat "BBBBBBBWBBRB" >}}
+{{< pat "BBBBBBBWBYBY" >}}
+{{< pat "BBBBBBGYRKWR" >}}
+{{< pat "BBBBBBRBBBWR" >}}
+{{< pat "BBBBBBWBWBBB" >}}
+{{< pat "BBBBBBYRYYYB" >}}
+{{< pat "BBBBBGBGGGGB" >}}
+{{< pat "BBBBBGRGRBBB" >}}
+{{< pat "BBBBBKBKWRWR" >}}
+{{< pat "BBBBBKGKYKGK" >}}
+{{< pat "BBBBBRKGBGKR" >}}
+{{< pat "BBBBBWBWBBBB" >}}
+{{< pat "BBBBBWBWBWBW" >}}
+{{< pat "BBBBGBBBGBGB" >}}
+{{< pat "BBBBGBGBGBBB" >}}
+{{< pat "BBBBGGGGGGGR" >}}
+{{< pat "BBBBKBKGBGBB" >}}
+{{< pat "BBBBKBKGBGBR" >}}
+{{< pat "BBBBKGYGKBBB" >}}
+{{< pat "BBBBRBRBRBBB" >}}
+{{< pat "BBBBWBRBWBBB" >}}
+{{< pat "BBBBYBYBBYYB" >}}
+{{< pat "BBBBYKYGKBKW" >}}
+{{< pat "BBBGBRBWBBRB" >}}
+{{< pat "BBBGBWBWBBRB" >}}
+{{< pat "BBBGBYBGBBBG" >}}
+{{< pat "BBBGGGBGGGBB" >}}
+{{< pat "BBBKBKBBKBGB" >}}
+{{< pat "BBBKBKBBKBWB" >}}
+{{< pat "BBBKGYGBGKBY" >}}
+{{< pat "BBBRBKBWBYBB" >}}
+{{< pat "BBBRBRKGRGBG" >}}
+{{< pat "BBBWBBBWBGGR" >}}
+{{< pat "BBBWBBWBBWBB" >}}
+{{< pat "BBBWBGBRBGBB" >}}
+{{< pat "BBBWBWBGRBRW" >}}
+{{< pat "BBBWBYBBBGBB" >}}
+{{< pat "BBBWRWBBBYBB" >}}
+{{< pat "BBBYBRBGRBRR" >}}
+
+… and 845 more
+
+### 13 stripes (626 patterns)
+
+{{< pat "BBBBBBBBBBBBY" >}}
+{{< pat "BBBBBBBBBWBWB" >}}
+{{< pat "BBBBBBBBRYBYR" >}}
+{{< pat "BBBBBBBWBBBBB" >}}
+{{< pat "BBBBBBBYBBBBB" >}}
+{{< pat "BBBBBBGBGBBBB" >}}
+{{< pat "BBBBBBRBRBBBB" >}}
+{{< pat "BBBBBBWBWBBBB" >}}
+{{< pat "BBBBBBYBYBBBB" >}}
+{{< pat "BBBBBGBGBGRGR" >}}
+{{< pat "BBBBBGBYBRBYB" >}}
+{{< pat "BBBBBRBBBBBWB" >}}
+{{< pat "BBBBBWBWBWWWW" >}}
+{{< pat "BBBBBYRYGBGBG" >}}
+{{< pat "BBBBGBGBWBWBW" >}}
+{{< pat "BBBBGWYGRGBRW" >}}
+{{< pat "BBBBGYGBYBYBY" >}}
+{{< pat "BBBBKBKBRBYKB" >}}
+{{< pat "BBBBRYRBWKWBW" >}}
+{{< pat "BBBKBWBWBKGBG" >}}
+{{< pat "BBBRBBBBBBBWB" >}}
+{{< pat "BBBRBRGBWBGBG" >}}
+{{< pat "BBGBBBGBGBBGB" >}}
+{{< pat "BBGBBKBWBKBBG" >}}
+{{< pat "BBGBBRBBWRWRW" >}}
+{{< pat "BBGBGBRGBBGBW" >}}
+{{< pat "BBKBBBKBYBKBW" >}}
+{{< pat "BBKGBBBBKBKBG" >}}
+{{< pat "BBKRKYKYKRKWR" >}}
+{{< pat "BBRBBYBBWRWRW" >}}
+{{< pat "BBRBGBBBRBBRB" >}}
+{{< pat "BBRBWBWBBBBBW" >}}
+{{< pat "BBRGWGWGBBGBW" >}}
+{{< pat "BBWBBKRWRWRWR" >}}
+{{< pat "BBWBKBYKBKBKB" >}}
+{{< pat "BBYBRBBBBBYBY" >}}
+{{< pat "BBYBYBYBYBBRB" >}}
+{{< pat "BBYKYKWKGRKRW" >}}
+{{< pat "BGBBGKGKGWBGK" >}}
+{{< pat "BGBGBGBGBGBGB" >}}
+
+… and 586 more
+
+### 14 stripes (516 patterns)
+
+{{< pat "BBBBBBBBBBBBBK" >}}
+{{< pat "BBBBBBBBYBBBBB" >}}
+{{< pat "BBBBBBBYBBBBBB" >}}
+{{< pat "BBBBBBGBGBGBGB" >}}
+{{< pat "BBBBBKGKWKYKGK" >}}
+{{< pat "BBBBBKGKYKWKGK" >}}
+{{< pat "BBBBKBWBGBGBGB" >}}
+{{< pat "BBBGYBRBYGBBBG" >}}
+{{< pat "BBBKGKRKGKYKGK" >}}
+{{< pat "BBBKGKYKGKRKGK" >}}
+{{< pat "BBBKRRBRBRRKBB" >}}
+{{< pat "BBBWBBWBWBBWBB" >}}
+{{< pat "BBBYBBRBRBBYBB" >}}
+{{< pat "BBGKGKBKBKYGYG" >}}
+{{< pat "BBKBKBKGYGKBKG" >}}
+{{< pat "BBRBKBKWBWRBWB" >}}
+{{< pat "BBRBRWBWRBRBBG" >}}
+{{< pat "BBRGRBBRGRBBRG" >}}
+{{< pat "BBRKBKBKRKBKBK" >}}
+{{< pat "BBRKGBGRGBGKRB" >}}
+{{< pat "BBWBBBWBWBBBWB" >}}
+{{< pat "BBWBWBBBWBWBYB" >}}
+{{< pat "BGBBBBBGBBBBBG" >}}
+{{< pat "BGBBBKWKBBBWBW" >}}
+{{< pat "BGBGBGBGBGBGBG" >}}
+{{< pat "BGBGBGBKBKBGBG" >}}
+{{< pat "BGBGBGBWBKBKBK" >}}
+{{< pat "BGBGBKRKRKRKRW" >}}
+{{< pat "BGBGBKYGRGYKBG" >}}
+{{< pat "BGBGBRKBRBRBRB" >}}
+{{< pat "BGBGBYBYBGBGBG" >}}
+{{< pat "BGBGGBGBRGRGKW" >}}
+{{< pat "BGBGKGBGBWKGKY" >}}
+{{< pat "BGBGRGRGRGBGBY" >}}
+{{< pat "BGBKRKRKRKRKBG" >}}
+{{< pat "BGBRKGWGKRBGBK" >}}
+{{< pat "BGBRKRWRKRBGBK" >}}
+{{< pat "BGBYBYBYBBYBRB" >}}
+{{< pat "BGBYBYBYBYBBBW" >}}
+{{< pat "BGGBGGGBGGGBGW" >}}
+
+… and 476 more
+
+### 15 stripes (326 patterns)
+
+{{< pat "BBBBBBBBBBBBBBB" >}}
+{{< pat "BBBBBBBBBGBGBBB" >}}
+{{< pat "BBBBBBBRRBBRBRK" >}}
+{{< pat "BBBBBBBRYBBYBYW" >}}
+{{< pat "BBBBBKGKBBBWBBK" >}}
+{{< pat "BBBBBYWRWYGKGKG" >}}
+{{< pat "BBBGBKBKYBGRGBW" >}}
+{{< pat "BBKBBKBKGYGKBKG" >}}
+{{< pat "BBKBGBKBKBKBKBB" >}}
+{{< pat "BBKBKBKBKBGBKBK" >}}
+{{< pat "BBKRYGRWKBBBBKB" >}}
+{{< pat "BBRBKBKBKBKBRKR" >}}
+{{< pat "BBRBRBRBBBBBBBY" >}}
+{{< pat "BBRGRGRBRBRBRBR" >}}
+{{< pat "BBRRGRBBRGRBRBG" >}}
+{{< pat "BBRRGRBBRGRBRRG" >}}
+{{< pat "BBYBBKGKBRBWYBK" >}}
+{{< pat "BGBGBGBGYGBGBGY" >}}
+{{< pat "BGBGBGGGBGGGBGG" >}}
+{{< pat "BGBGRBBGWBYGBRY" >}}
+{{< pat "BGBGRWRGRWRGRKR" >}}
+{{< pat "BGBGYGBGBGBKRKG" >}}
+{{< pat "BGBKGKYKBKGKBRB" >}}
+{{< pat "BGBYRYGYGYRBGBY" >}}
+{{< pat "BGKGBRKRKRGKBKG" >}}
+{{< pat "BGKGYGRWKGBGBKG" >}}
+{{< pat "BGKWGBGWKRGWGBK" >}}
+{{< pat "BGKWGBGWKRGWGRK" >}}
+{{< pat "BGRGBKBKGRGRGBK" >}}
+{{< pat "BGRKRBWRWKBWBWG" >}}
+{{< pat "BGRKYKRGBRBRBRB" >}}
+{{< pat "BGYWGBWBBRWRWGW" >}}
+{{< pat "BGYWGBWBBRWRWRW" >}}
+{{< pat "BKBGBBKWRWKBBRB" >}}
+{{< pat "BKBGBBKWRWKBBYB" >}}
+{{< pat "BKBKBBGKGKGKGKB" >}}
+{{< pat "BKBKBGRGBKBKBGY" >}}
+{{< pat "BKBKBKBKBBKBRBR" >}}
+{{< pat "BKBKBKBKBKBKBKB" >}}
+{{< pat "BKBKBKBKGKBKBKW" >}}
+
+… and 286 more
+
+### 16 stripes (306 patterns)
+
+{{< pat "BBBBBBBBBBBBBBBB" >}}
+{{< pat "BBBBBBBBBYBBKRKB" >}}
+{{< pat "BBBBBBGBWBGBBBBB" >}}
+{{< pat "BBBBBBYRBBBBBBBW" >}}
+{{< pat "BBBBBWBBWBBRWBWR" >}}
+{{< pat "BBBBRBBYBYBBRBBB" >}}
+{{< pat "BBBBRBGBWBGBRBBB" >}}
+{{< pat "BBBBWRBBBBBBBBBW" >}}
+{{< pat "BBBBYBBBWBBBBWBW" >}}
+{{< pat "BBBGBGBGBGBGBGBW" >}}
+{{< pat "BBBGBGBGGGBGBGBB" >}}
+{{< pat "BBBGBGRGBGRGBBBG" >}}
+{{< pat "BBBGRGBGRGBGBBBG" >}}
+{{< pat "BBBRGYGRYBWBWBWB" >}}
+{{< pat "BBBYBYBYBWBRBRBR" >}}
+{{< pat "BBBYWYKYWYRYWYWY" >}}
+{{< pat "BBGWRBBBYBYBYBYB" >}}
+{{< pat "BBKBBBBKBBBBBBBY" >}}
+{{< pat "BBKGBGBGBGBGBGBW" >}}
+{{< pat "BBKGKBWKWBKGKBBK" >}}
+{{< pat "BBKWGKKBKKGWKBBW" >}}
+{{< pat "BBRBBBBBBBBBBBRB" >}}
+{{< pat "BBWBRBBBWBBBRBWB" >}}
+{{< pat "BBWKGRBKYKBRGKWB" >}}
+{{< pat "BBYBBBBKBGRBKBKB" >}}
+{{< pat "BBYRWGBWBGWRYBBR" >}}
+{{< pat "BGBBGBGBBBGBGBBG" >}}
+{{< pat "BGBBGGBWBGBBGBGB" >}}
+{{< pat "BGBGBBBWBWBBWRWB" >}}
+{{< pat "BGBGBGBGYGBGBGRG" >}}
+{{< pat "BGBGBGWGRGYGRGWG" >}}
+{{< pat "BGBGGBGBRRBRBRBR" >}}
+{{< pat "BGBGGBGBYRGYGYGY" >}}
+{{< pat "BGBGRGBWRGRGBGBY" >}}
+{{< pat "BGBKBRBKBRBKBGBW" >}}
+{{< pat "BGBRBKWGRGWKBRBG" >}}
+{{< pat "BGBRBKYGRGYKBRBG" >}}
+{{< pat "BGBWBGBGGWGWGGBG" >}}
+{{< pat "BGGBGKGBYBGKGBGG" >}}
+{{< pat "BGGWBRBKBRBWGGBW" >}}
+
+… and 266 more
+
+### 17 stripes (174 patterns)
+
+{{< pat "BBBBBBWRGWKGKBKRW" >}}
+{{< pat "BBBBBYBBBBBBBBBBR" >}}
+{{< pat "BBBBWBBWGGWGGWBBW" >}}
+{{< pat "BBBKRKRBKBKBKBKRK" >}}
+{{< pat "BBBRBBRBGYRBRBRBB" >}}
+{{< pat "BBBRRBBYKBBRBBBKY" >}}
+{{< pat "BBGRGYGWGWGWGWGWG" >}}
+{{< pat "BBGYRBBRKBBYGBBKR" >}}
+{{< pat "BBWGWRRBRRWBRWBBW" >}}
+{{< pat "BBYBRWRBYBBBBBRWB" >}}
+{{< pat "BBYYYBYYBYYYBYBYB" >}}
+{{< pat "BGBGBGKGWGKGBGBGK" >}}
+{{< pat "BGBKWKBKBKBKWKRGB" >}}
+{{< pat "BGBKWKRKBKRKWKRGB" >}}
+{{< pat "BGGRRRGGBGGRYRGGB" >}}
+{{< pat "BGRKWBWKYKRGRKYKW" >}}
+{{< pat "BGWBGYGWKBGWGGGKG" >}}
+{{< pat "BGWBGYGWKBGWGGRKR" >}}
+{{< pat "BGYGRGRGBKBKBKBGR" >}}
+{{< pat "BKBBBGGGGGGGKBBBK" >}}
+{{< pat "BKBKBKBKBKGYGKBBK" >}}
+{{< pat "BKBKBKBKBKRKBKRKY" >}}
+{{< pat "BKBKBKBKKKBKKKBKB" >}}
+{{< pat "BKBKBKBKWKRKWKBKW" >}}
+{{< pat "BKBKBKGWGBGWGKBKB" >}}
+{{< pat "BKBKBKGWGWGWGKBKB" >}}
+{{< pat "BKBKBKGYBWBYGKBKB" >}}
+{{< pat "BKBKBKGYGBGYGKBKB" >}}
+{{< pat "BKBKBKGYGYGYGKBKB" >}}
+{{< pat "BKBKBKGYKBKYGKBKB" >}}
+{{< pat "BKBKBKRGKBKGRKBKB" >}}
+{{< pat "BKBKGKGRKWRBRBRBR" >}}
+{{< pat "BKBKRKBKWKBKYKBKR" >}}
+{{< pat "BKBYBKGKGRGKGKBKR" >}}
+{{< pat "BKGKBBWGWGWYKYKYB" >}}
+{{< pat "BKGKBKYKYKBKGKBKG" >}}
+{{< pat "BKGKGKBKWKBKYKGKR" >}}
+{{< pat "BKGKGKBRKRGKYKWKG" >}}
+{{< pat "BKGKGKBRKRGKYKYKG" >}}
+{{< pat "BKGKGKBRKRKRGKBKG" >}}
+
+… and 134 more
+
+### 18 stripes (241 patterns)
+
+{{< pat "BBBBBBBBBGBGBGBGYR" >}}
+{{< pat "BBBBBBBKBKYKBKBKBB" >}}
+{{< pat "BBBBBBGBBBGBBBBBBG" >}}
+{{< pat "BBBBBBGGBBGBGBGBBG" >}}
+{{< pat "BBBBBWBBRBBWBBYBBW" >}}
+{{< pat "BBBBBYBYBYBYBBBBBW" >}}
+{{< pat "BBBBWBBYBBWBBRBBWB" >}}
+{{< pat "BBBGRGBBYGYBBGRGBB" >}}
+{{< pat "BBGBBKBWBKBBGBBKBW" >}}
+{{< pat "BBGBGBGBGGGGGGGGYR" >}}
+{{< pat "BBGBGBGYGWGRGBGBGB" >}}
+{{< pat "BBGGGGGGGGGGBGGGGB" >}}
+{{< pat "BBGKGKGRWRWRGKGKGB" >}}
+{{< pat "BBKBKBKBBBBBKBKBKB" >}}
+{{< pat "BBRBBBBBBBBRBYBRBB" >}}
+{{< pat "BBRKRBKWKYKYKRBRBR" >}}
+{{< pat "BBRRGRBBRBRBBRBRRG" >}}
+{{< pat "BBWWWBBBBWBBBBWWWB" >}}
+{{< pat "BBYBBBBBWBWBBBBBYB" >}}
+{{< pat "BBYGRBRWRWRBRGYBBR" >}}
+{{< pat "BBYWYRBRYWYRBRYWYB" >}}
+{{< pat "BGBGBGBGKGKGKGRGBK" >}}
+{{< pat "BGBGBGGRBGGGGGRBGG" >}}
+{{< pat "BGBGBGRGBGBGRGBGBG" >}}
+{{< pat "BGBGBKGKRKGKBGBGBG" >}}
+{{< pat "BGBGRGRGGGRGRGRGRG" >}}
+{{< pat "BGBKGRGKGKGKGKGYGK" >}}
+{{< pat "BGBRBGBBBWBBBGBRBG" >}}
+{{< pat "BGBRGRGBRBWRWRGRBW" >}}
+{{< pat "BGBYBYBBBWBBBYBYBG" >}}
+{{< pat "BGBYBYBBGWGBBYBYBG" >}}
+{{< pat "BGGGGBGGGGGGGGGGGK" >}}
+{{< pat "BGGGGGGYGWGRGGGGGG" >}}
+{{< pat "BGKBKGKGKBKRWRKBKG" >}}
+{{< pat "BGKBKRKRKBKRWRKBKG" >}}
+{{< pat "BGKBKRWRKBKYKYKBKG" >}}
+{{< pat "BGKBKYKYKBKRWRKBKG" >}}
+{{< pat "BGRGBGBBGBGGBBBGBR" >}}
+{{< pat "BGRGRGRBRBRGRGRGBR" >}}
+{{< pat "BGRGWGRKBRBRBRBRBW" >}}
+
+… and 201 more
+
+### 19 stripes (85 patterns)
+
+{{< pat "BBBBBKRKRBKBKBKBKRK" >}}
+{{< pat "BBBBKGKGWGWGKGKBBKB" >}}
+{{< pat "BBBGWRWGBGWRWGBBBYB" >}}
+{{< pat "BBGBGBBGBYBGGBBBBBG" >}}
+{{< pat "BBGBGGBBBBBBBGBGGGB" >}}
+{{< pat "BBGRGGBBBBRGRYRGRBB" >}}
+{{< pat "BBWBRWRBBBBBBGBGBGG" >}}
+{{< pat "BBWBWBWBBBBBBBBBBBW" >}}
+{{< pat "BGGBGBGBGBGGBGBGBBG" >}}
+{{< pat "BGKBKRWRKBKYKYKBKGB" >}}
+{{< pat "BGKBRBKWKYKYKRBBGRK" >}}
+{{< pat "BKBBKBKBKBBKBBBKBBK" >}}
+{{< pat "BKGKGKBRKKKRGKBKBKG" >}}
+{{< pat "BKGKGKBRKYKRGKBKBKG" >}}
+{{< pat "BKYBBBKYBKBKRBBBKRB" >}}
+{{< pat "BRBGBRGRBRBGBRBRGBG" >}}
+{{< pat "BRGRBRGRGRGRGRBRGRB" >}}
+{{< pat "BRGRWBWBWKWKWBWBWGR" >}}
+{{< pat "BRGRWRBRWBWBRWRGRBW" >}}
+{{< pat "BRRWBWGWRRRWBWGWRRB" >}}
+{{< pat "BWGWBWRWRWRWRWRWRWB" >}}
+{{< pat "BYBGKBGRKRGBKGBYBYB" >}}
+{{< pat "BYBYRWBYWBYWBYRWBYW" >}}
+{{< pat "BYRRRRRRRRRRRRRYBYG" >}}
+{{< pat "BYYBRBYBRBYYBYBYYBR" >}}
+{{< pat "GBBBBBGRGGGRGBBGBGG" >}}
+{{< pat "GBGRBRBGBRBRGRBGBRY" >}}
+{{< pat "GBWBYBGRGBGBGBWBYBR" >}}
+{{< pat "GGKYGYGGGGGYGYGKYGY" >}}
+{{< pat "GGYGKWGGGYGGGWKGYGG" >}}
+{{< pat "GKGKGKRWRKGKGKGKRWR" >}}
+{{< pat "GKGRGKGWKBKYKBKWKRK" >}}
+{{< pat "GKGYGYGRGYGYGYGYGYK" >}}
+{{< pat "GKYKYKYKYKYKYKRKKKW" >}}
+{{< pat "GRBRGRGRGBRGRGRGYGR" >}}
+{{< pat "GRBWRGBYBYBGBWYWBGR" >}}
+{{< pat "GRRRBBBRGRGRGRGRGRY" >}}
+{{< pat "GRWRWWWRGRGRGKGKGKR" >}}
+{{< pat "GRYGBGBGBGBYBYBRRBR" >}}
+{{< pat "GWGWGKWGWGYKWGWGYGY" >}}
+
+… and 45 more
+
+### 20 stripes (163 patterns)
+
+{{< pat "BBBBBBBBWBWBBBBBBBBY" >}}
+{{< pat "BBBBBBBGBKBKBGBBBBBB" >}}
+{{< pat "BBBBBBBGRWRGBBBBBBBW" >}}
+{{< pat "BBBBBBGBGKBKGBGBBBBB" >}}
+{{< pat "BBBBBBGBGRBRGBGBBBBB" >}}
+{{< pat "BBBBBGBGBBBGBGBBBBBW" >}}
+{{< pat "BBBBBRBBBGBBBRBBBBBG" >}}
+{{< pat "BBBBBRBBBYBBBRBBBBBY" >}}
+{{< pat "BBBBGBKBBBWBBBKBGBBB" >}}
+{{< pat "BBBBKBKGGWGGKBKBBBBW" >}}
+{{< pat "BBGBGBGBKBGBGBGBBRBY" >}}
+{{< pat "BBGBGKGKBWBKGKGBGBBG" >}}
+{{< pat "BBGRGKGYGBBBGYGKGRGB" >}}
+{{< pat "BBKBKBBKBKBKBKBBKBKB" >}}
+{{< pat "BBKYKBBRKRRRKRBBKYKB" >}}
+{{< pat "BBKYKWBBKBWBKBBWKYKB" >}}
+{{< pat "BBRBRBBGBGBBRBRBBGBG" >}}
+{{< pat "BBRGRBRGRGRGRGRBRGRB" >}}
+{{< pat "BBRGRGRBBRBGRGRBRBRB" >}}
+{{< pat "BBWKYBWYBKBBWBWBBBKW" >}}
+{{< pat "BGBBGBKGKBWBKGKBGBBG" >}}
+{{< pat "BGBGBGBGBRBGBGBGBGBW" >}}
+{{< pat "BGBGBGBKGKBKGBGKBKGK" >}}
+{{< pat "BGBGBGGGGWGGGGBGBGBG" >}}
+{{< pat "BGBGKGKGBGBGKGYGYGKG" >}}
+{{< pat "BGBKGKGBGBGBGBGKGKBG" >}}
+{{< pat "BGBKWBBWBWBWBBWKBGBG" >}}
+{{< pat "BGBRBGBYBYBGBYBGBYBY" >}}
+{{< pat "BGGGGGBKGBGBGGGGGBKR" >}}
+{{< pat "BGKGKBWBBBBBBBWBKGKG" >}}
+{{< pat "BGRBBKGRBBBBBRGKBBRG" >}}
+{{< pat "BGRBRBYBWBWBYBRBRGBW" >}}
+{{< pat "BGRKWBWKYKRGRKYKWBWK" >}}
+{{< pat "BGWRBRBWBWBRBRBWBWBR" >}}
+{{< pat "BGYGYGYGBWBGYGYGYGBK" >}}
+{{< pat "BKBBGKGBWBKBWBGKGBBK" >}}
+{{< pat "BKBBKBGBBBKBBBGBKBBK" >}}
+{{< pat "BKBBKYGBBGKGBBGYKBBK" >}}
+{{< pat "BKBGBKBGWKWGBKBGBKBG" >}}
+{{< pat "BKBKBGWGBGWGBGWGBKBK" >}}
+
+… and 123 more
+
+### 21 stripes (72 patterns)
+
+{{< pat "BBBBBBWBWBRYRBWBWBBBB" >}}
+{{< pat "BBBRBBBRBRWGRBGBGBRBG" >}}
+{{< pat "BBKBKBGKBKGWGRGRGBGKY" >}}
+{{< pat "BBKGKGGKBKGWGRGRGBGKY" >}}
+{{< pat "BBRBRGRBRGRBRGRBRGRBR" >}}
+{{< pat "BBRGYGRBBRGRKRBKRKRGR" >}}
+{{< pat "BGBGBGBGRGRGRGRGRBGRG" >}}
+{{< pat "BGWKBYBWYBKGBWGWBGBKW" >}}
+{{< pat "BKBGBGBGKGKGKGKGRBRGR" >}}
+{{< pat "BKBKBKWKWKRYRKWKWKBKB" >}}
+{{< pat "BKBKGRGKWKGRGKRBRBRBW" >}}
+{{< pat "BKRKRKRKGKBKGKRKRKRKB" >}}
+{{< pat "BRBRBRBRBRBRBRGRGRBRB" >}}
+{{< pat "BRBRBRBRBRBRBRGRGRBRK" >}}
+{{< pat "BRBRBRBRGRBRBRGRGRBRG" >}}
+{{< pat "BRBRBRBRKRBRBRGRGRBRK" >}}
+{{< pat "BRBRBRBRKRBRBRKRKRBRK" >}}
+{{< pat "BRBRBRBRYRBRBRGRGRBRY" >}}
+{{< pat "BRBRBRKRBWBRKRRBRBRBW" >}}
+{{< pat "BRGBRGRGRGRGRGBRGRGRG" >}}
+{{< pat "BRGRGRGRGRGRGRGRGRGRG" >}}
+{{< pat "BYBGBGBGKGKGKGKGRBRBR" >}}
+{{< pat "BYBGBGBGKGKGKGKGRBRGR" >}}
+{{< pat "BYKBKBKBKBKRYRYRYRYKW" >}}
+{{< pat "GBBBBBBYBYBBBBBBGRBRG" >}}
+{{< pat "GBGBGBKGBGBGBGBGBKGBG" >}}
+{{< pat "GBGBGBWGBGBGBGBGBWGBG" >}}
+{{< pat "GBRGYGRBGRGRKRGKRKRGR" >}}
+{{< pat "GKGKGKKBKBKWKBKBKKGKG" >}}
+{{< pat "GKGKWKBKBRBRBKBKWKGKG" >}}
+{{< pat "GRGBRGRGRGRGRGBGRGRGR" >}}
+{{< pat "GRGBRGRGRGRGRGBRGRGRG" >}}
+{{< pat "GRGKBRBKBKBKBKBYBKGRG" >}}
+{{< pat "GRGRGRGRGRGRGRGRGRGRG" >}}
+{{< pat "GRKRGRGRKRKRGRKRKRKRK" >}}
+{{< pat "KBGYKBWBKYGKBKGYKBRBK" >}}
+{{< pat "KBKBKBRBGBWBYBRBKBKBK" >}}
+{{< pat "KBRKRBRKRBKRBRKBRBRKR" >}}
+{{< pat "KBWBKBWBKWKRGWGRKRWGR" >}}
+{{< pat "KBWBKBWBKWKRRWRRKRWRR" >}}
+
+… and 32 more
+
+### 22 stripes (119 patterns)
+
+{{< pat "BBBKBKBBKBGBGBKBBKBKBB" >}}
+{{< pat "BBBWBYBBBGBBBGBBBYBWBB" >}}
+{{< pat "BBGBBBBKBBBGBBBBGBGYGK" >}}
+{{< pat "BBGBRBBBBRBGBRBBGBGYGB" >}}
+{{< pat "BBKBGBWGBGBGBGBWGBGBGW" >}}
+{{< pat "BBRBRGRBBRGBRGRBBRGRBR" >}}
+{{< pat "BBYBBBWRWBBBBBWRWBBBYB" >}}
+{{< pat "BBYBYBBBBBBYBBBBBBYBYB" >}}
+{{< pat "BGBGBGBGKGKGKGBGBGBGBR" >}}
+{{< pat "BGBGKGKGKRKYKGKGKGBGBW" >}}
+{{< pat "BGBGRRBGRRRRRRRGBRRGBG" >}}
+{{< pat "BGBKBKGRGKGKGKGKGYGKBK" >}}
+{{< pat "BGBYBGBBGBGGGBGBBGBYBG" >}}
+{{< pat "BGGGWGGGGRGWGWGGGGWGGG" >}}
+{{< pat "BGKBKYKBKRWBWRKBKYKBKG" >}}
+{{< pat "BGKBWKGKGKGKGKBWGKBKBK" >}}
+{{< pat "BKBBRBBKBBBBBKBBRBBKBK" >}}
+{{< pat "BKBKBBKBKBBBKBKBBKBKBR" >}}
+{{< pat "BKBKBKGRKRWRKRGKBKBKBK" >}}
+{{< pat "BKBKBKWGRGWKWBWBRBWBWK" >}}
+{{< pat "BKBKBKYBYBRBYBYKYGRGYK" >}}
+{{< pat "BKBKGKRKRKBKGKGKGKBKRK" >}}
+{{< pat "BKBKGRGKGWGKGWGKGRGKBK" >}}
+{{< pat "BKGBGBGBGBGBYKBKYKBKRK" >}}
+{{< pat "BKGKBKRKBKWBWBWBWBWKGK" >}}
+{{< pat "BKGKGKGKGKGKYKBKYKBKRK" >}}
+{{< pat "BKRKBKRKRKRKYKRKGKRKGK" >}}
+{{< pat "BKRKBKRKYKRKYKYKGKYKGK" >}}
+{{< pat "BKWKWKGRKRWRKRGKWKWKBR" >}}
+{{< pat "BKYKWKGKRBRBRKGKWKYKBR" >}}
+{{< pat "BKYKWKGRKRWRKRGKWKYKBG" >}}
+{{< pat "BKYKWKGRKRWRKRGKWKYKBR" >}}
+{{< pat "BKYKWKGRRRWRRRGKWKYKBR" >}}
+{{< pat "BRBGRGRGRBRBRBRGRGRGBR" >}}
+{{< pat "BRBRBRBRBWBYBWBRBRBRBR" >}}
+{{< pat "BRBRBRKGRGRGWGRGRGKWKR" >}}
+{{< pat "BRBRKYKYKRBKBRKYKYKRBR" >}}
+{{< pat "BRGRBBRGRBRBBRBRGRBBRG" >}}
+{{< pat "BRGRKYKYKBRBKYKYKRGRBY" >}}
+{{< pat "BRKRBKYKYKRKRKYKYKBRKR" >}}
+
+… and 79 more
+
+### 23 stripes (45 patterns)
+
+{{< pat "BBKBKBRBKBKBKBKBRBKBKBB" >}}
+{{< pat "BBYBYBYBYBYBYBYBYBYBYRB" >}}
+{{< pat "BKBBKGRGKWWKGRGKRBRBRBW" >}}
+{{< pat "BKBKBKBKBKBYBKBKBKBKBKW" >}}
+{{< pat "BKBKBKGRGKKWGRGKRBRBRBW" >}}
+{{< pat "BKBKBKGRGKWKGRGKRBRBRBW" >}}
+{{< pat "BKBKBKWGKWBWBWBWBWKGYGK" >}}
+{{< pat "BKGKGKGKGKGKYKBRKYKBKWK" >}}
+{{< pat "BKRGRKRGRKBRGRKRBKRKRGR" >}}
+{{< pat "BKRGRKRGRKBRGRKRKBRKRGR" >}}
+{{< pat "BKRKBKRWYRYWRYRYRKBKRKB" >}}
+{{< pat "BRKBKBKBKBBWKBKBKBKBKBK" >}}
+{{< pat "BWRKWKWKWKWKWKWKWKWKWRK" >}}
+{{< pat "GBKBKGRGKGKGKGKGYGKBKBG" >}}
+{{< pat "GKGKGKGGGWGGGGKGKGKGGWG" >}}
+{{< pat "GKWKYBKWKWKWKWKWKGRGWGK" >}}
+{{< pat "GRGKGKGKGKGKGKGKGKGKGKK" >}}
+{{< pat "GRRRWRWRGRBRBRGRWRWRRRG" >}}
+{{< pat "GWRRRGRRRWKGKWBBBWBBBWR" >}}
+{{< pat "KBKBKRKBKRKBKBKBYKYKRKR" >}}
+{{< pat "KBKRWRWRWRWRWRWBWBWBWKW" >}}
+{{< pat "KRGRKBRGRKRBKRKRGRBKRGR" >}}
+{{< pat "KRYKRBRYRBRKWGRYRGRKYRK" >}}
+{{< pat "KRYKRBRYRBRKYGRYRGRKYRK" >}}
+{{< pat "KWKGKGBRGRGRGRGRBGKGKYK" >}}
+{{< pat "KWRKYWYKGWKRYGWGYKWBKWR" >}}
+{{< pat "KWRKYWYKGWKRYGWGYRKWBWR" >}}
+{{< pat "KYKGKGBRBRBRBRBRBGKGKYK" >}}
+{{< pat "RBRBRBRWRGRGRGRYRBRBRBR" >}}
+{{< pat "RBRGRBRGRBRBRGRBRBRGRGR" >}}
+{{< pat "RBRWYYWYYWRWYYWYYWRYYBW" >}}
+{{< pat "RGRGRBRWRGRWRWRGRWRGRWR" >}}
+{{< pat "RKBWBWBWBWBGWGWGWGWGKRY" >}}
+{{< pat "RKRKRKRYRYRYRYRYRYRYRYR" >}}
+{{< pat "RWBWBRBRBRBRBRBRBBWBWBW" >}}
+{{< pat "RWRKRGYKBKBRBKBKGYRKRWR" >}}
+{{< pat "RWRWRRRWRRRWRRRWRYRYRWR" >}}
+{{< pat "WBWBKBRBRBKGKBYKGKWBWBW" >}}
+{{< pat "WBWBWKBKBKBKGKYKGKWBWBW" >}}
+{{< pat "WBWBWKBKRKBKGKWKGKWBWBW" >}}
+
+… and 5 more
+
+### 24 stripes (106 patterns)
+
+{{< pat "BBBBBBBBBBBBRBBBBBBBBBYB" >}}
+{{< pat "BBBBBBBBBBBBRBBBBBBBYBBB" >}}
+{{< pat "BBBBBBBBBBBRBBBBBBBBBYBB" >}}
+{{< pat "BBBBBBBKBBRBRBBKBBBBBGBY" >}}
+{{< pat "BBBBBBRBRBBBBBBBRBRBBBBB" >}}
+{{< pat "BBBBBGGBBBGBBBGBBBKBBBKB" >}}
+{{< pat "BBBGBKBKBKBWBKBKBKBGBBBK" >}}
+{{< pat "BBBGRGBGBGBGBGWBWGBBBBGB" >}}
+{{< pat "BBKBKBKBKBKBBBBBKBKBKBBY" >}}
+{{< pat "BBKBWBKBBGBBBGBBKBWBKBBG" >}}
+{{< pat "BBKGBBBBKBKBGBKBKBBBBGKB" >}}
+{{< pat "BBRRGRGRBBRRRBGRGRBRBRRB" >}}
+{{< pat "BBWBBRWBBGWGBBWGWGRBWKWK" >}}
+{{< pat "BBWBBRWBBRWRBBWGWGRBWKWK" >}}
+{{< pat "BBWBBYWBBGWGBBWGWGYBWBWB" >}}
+{{< pat "BBWBBYWBBRWRBBWGWGYBWBWB" >}}
+{{< pat "BBWRGRGRBBWRWBGRGRBRBWRB" >}}
+{{< pat "BBWYWBBGBRBGBBWYWBBBRYRB" >}}
+{{< pat "BBYKYKWKGRKRWRKRGKWKYKYB" >}}
+{{< pat "BGBGBGBGBGBGBBWBWBWBWBWB" >}}
+{{< pat "BGBGBGBGBKBGBGBGBGBBRBRB" >}}
+{{< pat "BGBGBWRKRKRWBGBGBGRGYGRG" >}}
+{{< pat "BGBGBWWKWKWWBGBGBGRGGGRG" >}}
+{{< pat "BGBGBWWKWKWWBGBGBGRGYGRG" >}}
+{{< pat "BGBRBYBYBYBYBYBYBYBYBRBG" >}}
+{{< pat "BGGBKGGGKBGBWBGBKGGGKBGG" >}}
+{{< pat "BGKBKYKYKBKRWRKBKYKYKBKG" >}}
+{{< pat "BGRGRBRGYGRGRGBGRBGRGRGB" >}}
+{{< pat "BGRGRGBRBRBRYRBRBRBGRGRG" >}}
+{{< pat "BGWGYGYGWGBGGGRGYGYGRGGG" >}}
+{{< pat "BKBKBKBKBKBKBKBKBKBKBKBK" >}}
+{{< pat "BKBKBKBKBKGRGKBKBKBKGWGK" >}}
+{{< pat "BKBKBKGKGKBKBKBKGKGKBKBK" >}}
+{{< pat "BKBKBKGWGKBKBKBKGRGKBKBK" >}}
+{{< pat "BKBKBKGWGKWBWBWBWBWKGYGK" >}}
+{{< pat "BKBKGKGKWBWBWBWBWKGKGKBK" >}}
+{{< pat "BKBKGYGKBKBKBKBKBKGWGKBK" >}}
+{{< pat "BKBKWKBKGRGRGKYKGRGRGKBR" >}}
+{{< pat "BKBWRKGKGKBBWRBKGKGBWRKB" >}}
+{{< pat "BKBYBKBBBKBBBKBBBKBYBKBW" >}}
+
+… and 66 more
+
+### 25 stripes (34 patterns)
+
+{{< pat "BBBBBKRKRKRKRWRKRKRKRKBKB" >}}
+{{< pat "BBRGYGYGYGRBBRGRKRBKRKRGR" >}}
+{{< pat "BGBBWGBGBGBGBRBWBRWRBRBRB" >}}
+{{< pat "BGBGBGRGRGRGRWRGRGRGRGBGB" >}}
+{{< pat "BGBGBKRKRKRKRKRKRKRKRKRKR" >}}
+{{< pat "BGBGBKRKRKRKRWRKRKRKRKGKG" >}}
+{{< pat "BGBGBRRRRRRRRWRRRRRRRRBRB" >}}
+{{< pat "BGYBYBYBYBYBYBYBYBYBYBYRB" >}}
+{{< pat "BKBKBKGKGKWBWBWBWBWKBKBKB" >}}
+{{< pat "BKBKBKGRGKBKBKBKGYGKBKBKB" >}}
+{{< pat "BKBWRKGKGKBBWRBKGKGKBWRKB" >}}
+{{< pat "BKYKBKBKBKBKBKBRBKBKBKBKW" >}}
+{{< pat "BRBBWRBRBRBRBRBWBRWRBRBRB" >}}
+{{< pat "BRBRBRBRBRBRBRBRBRGRGRBRB" >}}
+{{< pat "BRBRBRBRBRBRKRBRBRGRGRBRK" >}}
+{{< pat "BRBRBRBRBRWRBRBRWRGRGRGRG" >}}
+{{< pat "BRGGRBWRRGGWRYWGGRWYBGGGG" >}}
+{{< pat "BRYBYBYBYBYBYBYBYBYBYBYRB" >}}
+{{< pat "BYGRRBWRYGRWRYWGRRWBYRGRG" >}}
+{{< pat "GBKBKRRRRRRWBWBWBWBWBWBWG" >}}
+{{< pat "GGGGGGGKGKGRGRGRGKGKGGGGG" >}}
+{{< pat "GRBKBKRKBGKGRGKGBKRKBKBRG" >}}
+{{< pat "GYGYWWRWGWGGYGWRWWGWYWWGW" >}}
+{{< pat "KRKRKRKWKWKRKRKRWKWKRWRWK" >}}
+{{< pat "RBRBRBRGRGRGRGRGRBRBRBRGR" >}}
+{{< pat "RBRBRGRGRGRGWGRWRBRGRGRGR" >}}
+{{< pat "RBRGRBRWRBRWRGGRGGRWRBRWR" >}}
+{{< pat "RKGKBKBKBKBWBWBKBKBKBKGKY" >}}
+{{< pat "RKGKYKBKWKBKGKGKGKGKGKBKW" >}}
+{{< pat "RKWGBGBGBGBWBWBGBGBGBGWKY" >}}
+{{< pat "WBWBWKGWGKBKBKBKGYGKWBWBW" >}}
+{{< pat "WKRBRRRRRBRBYBRBRRRRRBRKW" >}}
+{{< pat "WKRBRRRRRBRBYGRBRRRRRBRKW" >}}
+{{< pat "WYWWYWYWWRWGYGYWYWRWWYGYY" >}}
+
+### 26 stripes (48 patterns)
+
+{{< pat "BBBBBBKBKBKBBBBBBWBWBBKBBB" >}}
+{{< pat "BBGGYYYYRRRBKKBBBGGYYYYRBK" >}}
+{{< pat "BGBGBGBGRGKBKBKBGBKBKBKGYG" >}}
+{{< pat "BGBKBKBKGRGKGKGKGKGYGKBKBK" >}}
+{{< pat "BGGBGBGGBRWGRGWRBGGBGBGGBY" >}}
+{{< pat "BKBKBKGKGKBBRBRBBKGKGKBKBK" >}}
+{{< pat "BKBKBKGKWKGKWBWBWBWBWKGKYK" >}}
+{{< pat "BKBKBKGWGKBBKBKBBKGWGKBKBK" >}}
+{{< pat "BKBKGKWKGKWKWKWKWKWKGKYKGK" >}}
+{{< pat "BKRKBKWKGKGGKWKGGKGKWKBKRK" >}}
+{{< pat "BRBRBGYGKBRBRWRBRBKGYGBRBR" >}}
+{{< pat "BRBRGWGWGRBRBRBRBRGWGWGRBR" >}}
+{{< pat "BRBWBWBWBYBRWBWRBYBWBWBWBR" >}}
+{{< pat "BRBYRBRYRBRBBBRBYRBRYRBRBR" >}}
+{{< pat "BRGRGRBRBRBRBRBRBRBRBRGRGR" >}}
+{{< pat "BWBWBBGBGBGBGYGBGBGBGBBWBW" >}}
+{{< pat "BWBWBWBWBWBKWKWKRKYKRKWKWK" >}}
+{{< pat "BWRWBGKGKGKBRBWBWBRBKGKGKG" >}}
+{{< pat "BYBYBKBGBKWKRKWKBGBKBYBYBY" >}}
+{{< pat "GBGYGBGBGYGYGBGBGWGRGWGRGW" >}}
+{{< pat "GBYBYWGWGWKWGWKWGWGWYBYBGR" >}}
+{{< pat "GKBKGKBYKGGGGGGGKYBKGKBKGR" >}}
+{{< pat "GKGBKRBRKBKGKGKGKGKGKBKWKG" >}}
+{{< pat "GKGKGKYGRKRWRWRKRGYKGKGKGR" >}}
+{{< pat "GKWKYBGKGRGWGKGWGRGKGBYKWK" >}}
+{{< pat "GRBBGBBRGYBYBRBYBYGRBBGBBR" >}}
+{{< pat "GRBBRGRBBRGRBBBRGRBBRGRBBR" >}}
+{{< pat "GRBRBRWRBRBRGRGBRBBRGRGRBW" >}}
+{{< pat "GRGRBRGRBRGRGRGRGRBRGRBRGR" >}}
+{{< pat "GRGRGRGGGYGRGRGRGRWRWGWRWR" >}}
+{{< pat "GRGRGRGRGGGRGRGRGRWRWGWRWR" >}}
+{{< pat "GWGWGWGWGWGWGWGWGWGWGWGWGW" >}}
+{{< pat "GYGRGRGRGRGRYRGRGRGRGRGYGR" >}}
+{{< pat "GYGRGRGWGWKRWRKWGWGRGRGYGR" >}}
+{{< pat "KRBWKYKWKGRKRWRKRGKWKYKWBR" >}}
+{{< pat "KRKRKRWRKRKRKWRWKWKWKWKWYW" >}}
+{{< pat "KWKRKRKRKBKBWBKBKRKRKRKWKR" >}}
+{{< pat "KYKYKYKYKYKYKYKYKYKYKYKYKY" >}}
+{{< pat "RGRGRGRGYGBGRGRGRGRWRWGWRW" >}}
+{{< pat "RGRGRKRKYKYKYWYKYWGRKRGWGR" >}}
+
+… and 8 more
+
+### 27 stripes (13 patterns)
+
+{{< pat "BGBGBGBGBGBGBGBGBGBGBGBGBGB" >}}
+{{< pat "BWYBWYBWYBWYBWYBWYBWYBWYBWR" >}}
+{{< pat "GBKBKBKGRGKGKGKGKGYGKBKBKBG" >}}
+{{< pat "GRGRBRBRBRBRBRBRBRBRGRGRGRG" >}}
+{{< pat "GRGRBRGRBRBRBRBRBRBRGRGRGRG" >}}
+{{< pat "GRKRBRGRRRRRRRYRRRRRGRBRKRG" >}}
+{{< pat "GRKRBRRRBRGRYRYRGRBRRRBRKRG" >}}
+{{< pat "RBKGKGKGKGKGBGBGKGKGKGKGKBY" >}}
+{{< pat "RGRBRBRWRBRBRGRGBRBBRGRGRBW" >}}
+{{< pat "RGRBRBRYRBRBRGRGBRBBRGRGRBY" >}}
+{{< pat "RGRBRYRWRYRBRGRGYRYBRGRGRYW" >}}
+{{< pat "RKGBWBGKGKGKGKGBWBKYKGKRKGW" >}}
+{{< pat "RKGKGKGKGKGKGKBKBKBKBKBKBWR" >}}
+
+### 28 stripes (52 patterns)
+
+{{< pat "BGBGBGBGBGBRBYBRBGBGBGBRBRBR" >}}
+{{< pat "BGBGBGBGGGRGGGGGWGYGBWGBWBGW" >}}
+{{< pat "BGBGBRBRBRBGBGBGBRBYBRBGBGBG" >}}
+{{< pat "BGBRBRBRGRRRGRGRWRYRBWRBWBRW" >}}
+{{< pat "BGKRKRKGBRGRGRGYRYGRGRGRGWGR" >}}
+{{< pat "BGRBGKRKRKGBRGRGRGYRYGRGRGRG" >}}
+{{< pat "BKBKBKBKBKGKWKGKBKBKBKGKYKGK" >}}
+{{< pat "BKBKBKBKBKGKYKGKBKBKBKGKRKGK" >}}
+{{< pat "BKBKBKBKYKBKBKWKBKBKYKBKBKBK" >}}
+{{< pat "BKBKBKGKWKGKWBWBWBWBWKGKYKGK" >}}
+{{< pat "BKBKBKGKYKGKBKBKBKGKYKGKBKBK" >}}
+{{< pat "BKBKBKRKYKRKBKRKBKRKYKRKBKBK" >}}
+{{< pat "BKBKGKYKGKBKBKBKBKBKGKWKGKBK" >}}
+{{< pat "BRBRBWBWBWBWBWBWBWBWBWBWBWBW" >}}
+{{< pat "BRBRGRBRGRGRBRBRGRBRGRGRGRGR" >}}
+{{< pat "BRBRGRBRGRGRBRBRGRGRBRGRBRBR" >}}
+{{< pat "BRBRKRKRKRKRGKGRKRKRKGKGKRKR" >}}
+{{< pat "BRKRGRKRGRKRGRBRGRKRGRKRGRKR" >}}
+{{< pat "BWBRBKGKGKGKBKRKBKGKGKGKBRBW" >}}
+{{< pat "BWGWBRWRBWYWBWBWYWBRWRBWGWBW" >}}
+{{< pat "BWYWBRWRBWGWBWBWGWBRWRBWYWBW" >}}
+{{< pat "BYGRGBYBRGBGYRYGBGRBYBGRGYBG" >}}
+{{< pat "BYRRRRWRRRRYBWBYRRRRWRRRRYBY" >}}
+{{< pat "GBBBRBRBBRBBBYBBBRBBRBRBBBGR" >}}
+{{< pat "GBRGRGRGRGRGBRBGRGRGRGRGRBGR" >}}
+{{< pat "GGKWKYKBGBKYKWGWKYKBGBKYKWKG" >}}
+{{< pat "GKRGRKRGRKRGRYRYRGRKRGRKRGRK" >}}
+{{< pat "GKWGGGWKWGGGKGGGKGWGKGGGKGWG" >}}
+{{< pat "GKWKYKBRBKYKWRWKYKBRBKYKWKGR" >}}
+{{< pat "GRGKBRBKGKGKGRGKGKGKBKBKGRGR" >}}
+{{< pat "GRGKGWBRBWGKGRGRGKGWBRBWGKGR" >}}
+{{< pat "GRGRGRRRRRWRRGRRWRRRRRGRGRGY" >}}
+{{< pat "GRGRGYKWKYKBKBRBKBKYKWKYGRGR" >}}
+{{< pat "GRGWBRBWKYKBWBWBWBKYKWBRBWGR" >}}
+{{< pat "GYGRGRGBKBKBGYGBKBKBGRGRGYGR" >}}
+{{< pat "KBKKWKBYKWKYBKKWKBKWKBWYWBKW" >}}
+{{< pat "KBKYBWGKWKWKWRWKWKWKGWBYKBKR" >}}
+{{< pat "KGKBKBKBKBKBKGKRKGKBKBKBKGKY" >}}
+{{< pat "KRKGKGGGGKBKYKBKYKBKGGGGKGKR" >}}
+{{< pat "KRKRKRKRKRYRKRKRKRKRKRKRWRKR" >}}
+
+… and 12 more
+
+### 29 stripes (26 patterns)
+
+{{< pat "BGKRKBKBKGRBWRKYKRWBRBRYBWBYR" >}}
+{{< pat "BGRBRBWBRBRBRBRBRGRBRBRBRBRBR" >}}
+{{< pat "BKBKBKGKBKGKBKBKBKGKYKGKBKBKB" >}}
+{{< pat "BKBKBKRKYKRKBKKKBKRKYKRKBKBKB" >}}
+{{< pat "BKBKGBYBGKBKBKBKBKBKGKWKGKBKB" >}}
+{{< pat "BKBKGKWKGKBKBKBKBKBKGKYKGKBKB" >}}
+{{< pat "BKBKGKYKGKBKBKBKBKBKGKYKGKBKB" >}}
+{{< pat "BKYGYKYKYKYKYKYKYKBKBKBKRYRKG" >}}
+{{< pat "BRBRWGRBWRWBRGRBRGRBWRWBGWRBR" >}}
+{{< pat "BRBYBYBYBRBRBRBYBRBYBRBYBRBYB" >}}
+{{< pat "BRBYBYBYBRBWBWBYBYBYBRBYBYBYB" >}}
+{{< pat "BRGRGWBRBRBWRBRBRBRBRBRBRGBGR" >}}
+{{< pat "GKWGWGWGWGWGWKGKWGWGWGWGWGWKG" >}}
+{{< pat "KWBWBWGWRRGRRWGWRRGRRWGWBWBWR" >}}
+{{< pat "KWKWKYKYKYKGKWYWKGKYKYKYKWKWK" >}}
+{{< pat "RBRBRBRBWBRBWBRBWBRBWBRBRBRBR" >}}
+{{< pat "RGRGBRBRBGBGBGRGBGBGBRYRBGRGR" >}}
+{{< pat "RGRGRBRBRGRBRGRGRBRBRGRBRGRGR" >}}
+{{< pat "RGRGRGRGRGKGKRGRGRGKRWRGWGRGR" >}}
+{{< pat "RGRGRGRGRKGRGRGRBRWRGWGRGRGRW" >}}
+{{< pat "RKBKWKWKWKGKRKGKWKWKWKWKWKBKR" >}}
+{{< pat "RKYKRKBKRKGKRKWKGKRKBKRKYKRBW" >}}
+{{< pat "RKYKRKBKRKGKRKWKGKRKBKRKYKRKW" >}}
+{{< pat "WBWBWBGBGBWBRBGGGBRBGGBWGWBGW" >}}
+{{< pat "WRGRWKWRKGKGKWBWKGKGKYWKWYGYW" >}}
+{{< pat "YBYRGRRWRRGRYBWBYRGRRWRRGRYBY" >}}
+
+### 30 stripes (36 patterns)
+
+{{< pat "BBBBBBBBBBBRBGBWBWBWBWBWBWBGBR" >}}
+{{< pat "BBBBBWBBWBBRWBWRWBWRBBWBBWBBBB" >}}
+{{< pat "BGBGGBGGBGGBGGBGGBGRGWBRGRWRGR" >}}
+{{< pat "BGBRGBRGBRGBRGBRGBRYRWGRRRWRRR" >}}
+{{< pat "BKBGGKYKBKGRKRWRKRGKBKYKGGBKBK" >}}
+{{< pat "BKBKBKBKBGYGYKRKYGYGBKBKBKGRGK" >}}
+{{< pat "BKBKBKBKBKGRGKBKBKBGYGYKRKYGYG" >}}
+{{< pat "BKBKBKBKBKRKGBGBGBGBGBGKRWRBRK" >}}
+{{< pat "BKBKBKGWGWGKGKGKGKGWGWGKBKBKBG" >}}
+{{< pat "BKBKRGKBKGKBKBKBKBKBKGKBKGRKBK" >}}
+{{< pat "BKBKWKGRKRGKWKBRWGBKWKGRKRGKWK" >}}
+{{< pat "BKBKWKKRKRKKWKBRWGBKWKKRKRKKWK" >}}
+{{< pat "BKBKWKWBWBWBBWKYKWBBWBWBWKWKBK" >}}
+{{< pat "BKGKGKGYGBGBGKGWGKGBGBGYGKGKGK" >}}
+{{< pat "BRBGBGBRKGBKGKGRGKGKBGKRBGBGBR" >}}
+{{< pat "BRBRBWBRWRBRWBWRWBWRBRWRBWBRBR" >}}
+{{< pat "BWBBGBYGYGYGYWBYBWYGYGYGYBGBBW" >}}
+{{< pat "BWRBWYBRBYRWBYWYBWRYBRBYWBRWBY" >}}
+{{< pat "BWRWKBWBWGBGRKRKRKRGBGWBWBKWRW" >}}
+{{< pat "BYRYKWYBYGWGRKRKRKRGWGYBYWKYRY" >}}
+{{< pat "GBGBGKGKBBBBBKRKBBBBBKGKGBGBGY" >}}
+{{< pat "GGRGGGRGRGRGRGRGRGRGRGRGRGGGRG" >}}
+{{< pat "GKBKBGKWKWKGKBKRKBKGKWKWKGBKBK" >}}
+{{< pat "GRBBRGRBRGRGRBBRBBRGRGRBRGRBBR" >}}
+{{< pat "GWGRGYGRGRGRGRGRWRBRBRWRBRBRBR" >}}
+{{< pat "GYBBWKWBKRRRKRRRKBWKWBBYGRWRWR" >}}
+{{< pat "KWGWYRKRYWBKRYWYRKBWYRKRYWGWKR" >}}
+{{< pat "KWRKWKRKRWKWRWGWRWKWRKRKWKRWKR" >}}
+{{< pat "KWYKYWKYKYWYKYKYKYWYKYKWYKYWKY" >}}
+{{< pat "KYKYKRKGKYKYKRWGWRKYKYKGKRKYKY" >}}
+{{< pat "RGRGYGRYRGRYGRYRGYRGRYRGYGRGRY" >}}
+{{< pat "RGYRYGRBRBRGRBRBRGRBRGRBRBRGYR" >}}
+{{< pat "RGYRYGRBRBRWRBWBRGRBWGRBRBRGYR" >}}
+{{< pat "RKRGKWKYKBKBRKGKRBKBKYKWKGRKRW" >}}
+{{< pat "WKWYWKKWRYKYKYKYKYRWKKWYWKWWWW" >}}
+{{< pat "WRWKGWBWGWRWGGYRWRYGGGGWBWKWRW" >}}
+
+### 31 stripes (17 patterns)
+
+{{< pat "BGBGBGBGBGBGBGBGWGBGBGWGBGBGBGB" >}}
+{{< pat "BKBKBKBKBKGKGKGKKKKKKKRKRKRKRKR" >}}
+{{< pat "BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG" >}}
+{{< pat "BRBRBRBRKRKGRGRGRGRGKWRWBWBWRWK" >}}
+{{< pat "BRBRGRGRGRGRGRGRWRBRBRWRGRGRGRG" >}}
+{{< pat "GBKYKWKGRKRKRKRKRKGKGKGKGKGRGKW" >}}
+{{< pat "GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG" >}}
+{{< pat "GRGRBRBRBRBRBRBRYRBRBRYRGRGRGRG" >}}
+{{< pat "GRGRGRGRWRBRBRWRKRKRKRKRKRKRGRG" >}}
+{{< pat "KYKYKYBBKBBBKYKYKYKBBKBBBKYKYKY" >}}
+{{< pat "RBRBRBRBRBWRWRWRWRWRWBWBWBWBWBW" >}}
+{{< pat "RGRGRGRGRGBGBRGRGRBRWRGWGRGRGRW" >}}
+{{< pat "RGRGRGRGRGBGKRGRGRBRWRGWGRGRGRW" >}}
+{{< pat "RKGKBKWKBKGKGKGKGKGKBKWKBKYKGKR" >}}
+{{< pat "RWBBWGBWBBWBBWBWBWBWBWBBWBBWRRW" >}}
+{{< pat "RWWBWGBWBWWWBWBWBWBWBWBWWWBWRRW" >}}
+{{< pat "WKWKWKWKGKGKWKRKWGWKRKGWKWGWKWW" >}}
+
+### 32 stripes (33 patterns)
+
+{{< pat "BBGBGBGBGBRBYBGBGBGBGBBBGRGWGRGB" >}}
+{{< pat "BGBGBKRBRBRGBKBGBKBGRBRBRKBGBGBK" >}}
+{{< pat "BGRKWKBKBKBKWKBGBGBKWKBKBKBKWKRG" >}}
+{{< pat "BKBKBKGKGKBKBKBKBKBKBKKKGKBKBKBK" >}}
+{{< pat "BKBKBKGRGRGRGKBKBKBKGYGYGYGKBKBK" >}}
+{{< pat "BKBKGYGYGYGKBKBKBKBKBKGYGYGYGKBK" >}}
+{{< pat "BKBKRKBKWKBKYKBKRKBKYKBKWKBKRKBK" >}}
+{{< pat "BKGKGKBRKRKRGKBKGKBKGRKRKRBKGKGK" >}}
+{{< pat "BKYKWKGRWWBKWKYKBKYKWKGRWRGKWKYK" >}}
+{{< pat "BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR" >}}
+{{< pat "BRBRBRBRBRKGRGRGRGRGKWKWKRKWKWKR" >}}
+{{< pat "BRGRBRGRGRGRGRBRGRBRGRGRGRGRBRGR" >}}
+{{< pat "BRKGWBGRGGKWKWKGGRGBWGKRBGKWKWKG" >}}
+{{< pat "BWBWBWRWYRYGYWRWBWBWBWRWGRGYGWRW" >}}
+{{< pat "GBKBKBKBGBGBGYGKGYGBGBGBKBKBKBGR" >}}
+{{< pat "GBKBKBKBWBGBWGWKWGWBGBWBKBKBKBGR" >}}
+{{< pat "GKBKGKBKYKYKBKGKBKGKBKYKYKBKGKBK" >}}
+{{< pat "GRGBGBGBGBGBGBGRGYGBGBGBGBGBGBGY" >}}
+{{< pat "GRGRGRGRGRGRGRGYRYGRGRGRGRGRGRGR" >}}
+{{< pat "GRGWGRGKBKGKGKGKGKYKRKGKGBGKGKBK" >}}
+{{< pat "GWGWRGYGYGYGYGRYGYGYGYGYGYRWGWGY" >}}
+{{< pat "GYBWRWBWBWBWRWBYGYGWYWBWYWGYGYGY" >}}
+{{< pat "GYGRBWRBRWBRGRBWRWBRGRBWRBRWBRGY" >}}
+{{< pat "GYGRGRGBKBKBKBGYGBKBKBKBGRGRGYGR" >}}
+{{< pat "KGKGKYKBRBKWKGKBKGKWKBRBKYKGKGKR" >}}
+{{< pat "KRKWKBWBKBWBKWKRKWKBWRKBWBKWKRKW" >}}
+{{< pat "KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW" >}}
+{{< pat "RBWYWBRWRBWGWBRWRBWGWBRWRBWYWBRW" >}}
+{{< pat "RWBYGGBYWYBGGYBWRWBYGGBYWYBGGYBW" >}}
+{{< pat "RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW" >}}
+{{< pat "RYRBBGBYBGBWBBRYRYRBBWBGBYBGBBRY" >}}
+{{< pat "WKBYBYBYBKBGBGBGBKGKBWKGKWKGKWKY" >}}
+{{< pat "WKGYGYGYGKGYGYGYGKYKBBKYKBKYKWKY" >}}
+
+### 33 stripes (15 patterns)
+
+{{< pat "BKBKBKBKBKBKBKBKBKBKGKBKBKBKBKBKB" >}}
+{{< pat "BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB" >}}
+{{< pat "BKYKWKGRGBRBKWKYKBKYKWKGRGRGKWKYK" >}}
+{{< pat "BKYKYKYRYKYKYRBRKBKYKYKYRYKYKYKBK" >}}
+{{< pat "BRBRBRBRBRKWBWBRBWBWRKGRGRGRGRGKR" >}}
+{{< pat "BRYGYYGYRBRYGYYGYRBRYGYYGYYGYYGYR" >}}
+{{< pat "BWGWGWBWGWGWGWGWGWGWRGWGWGWGWGWGW" >}}
+{{< pat "GRGBWBYBWBYBWBGRGWRWBWBYBWBYBWBGR" >}}
+{{< pat "GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG" >}}
+{{< pat "GWGWGWGWGWGWKGWGKWKGWGKWKGWGWGWGW" >}}
+{{< pat "KGKYKWKGGGGGGKWKYKGKYKWKGGGGGKWKY" >}}
+{{< pat "RBRBRBRBWBRBWBRBWBRBYBRBWBRBRBRBR" >}}
+{{< pat "RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRW" >}}
+{{< pat "WBWGYGWBWRRWRRWRBWYWBWYWBRWRWRBRW" >}}
+{{< pat "WGBGBKYBRBKBWBGBWBGBWBKBRBYKBGBGW" >}}
+
+### 34 stripes (24 patterns)
+
+{{< pat "BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW" >}}
+{{< pat "BGBGBKYBYGBKBRBYBYBKBGYBYKBGBGBYRY" >}}
+{{< pat "BGGGBGGYGGGBGGGGWGWGGGGBGGGYGGBGGG" >}}
+{{< pat "BKBGKGYGKGWBWBWBWBWBWBWGKGYGKGBKBK" >}}
+{{< pat "BKBKBKBGRKRGBKGBKGKBGKBGRKRGBKBKBK" >}}
+{{< pat "BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKY" >}}
+{{< pat "BKBKBKBKYKYKYKYKYGYGWGKGGGKGKGKYKG" >}}
+{{< pat "BKBKBYGKGKGKGKGRGRGKGKGKGKGYBKBKBG" >}}
+{{< pat "BKRGRKRKRKRKRKRKRKRKRKRKRKRKRKRGRK" >}}
+{{< pat "BKRKBKRBRKYKRKBRKRKRBKRKYKRBRKBKRK" >}}
+{{< pat "BKRRGRKBRKRBKRKRRGRRKRKBRKRBKRGRRK" >}}
+{{< pat "BRBRGYGRBRGRBRGWRBRGRGYGRBRGRBRGWR" >}}
+{{< pat "BRYRRYRBRGRGRGRGRGRGRGRGRGRBRYRRYR" >}}
+{{< pat "BWBYBRBGBRBBBBBBBBBBBBBRBGBRBYBWBW" >}}
+{{< pat "BWRKRBYRWRYKRWRWRKYRYKRKRKRKYRYBYB" >}}
+{{< pat "BYRBRYBRGRBYKWGRKRGWKYBRGRBYRBRYBR" >}}
+{{< pat "GRGRGKBKBKBKGBGBGKBKBKBKYWKWGRKRWR" >}}
+{{< pat "GRGYGYGYKGYGGYKYYYGYRYKYGGYGKYGYGY" >}}
+{{< pat "GRRGRBBRBRBBRGRBBRBBRGRBBRBRBBRGRR" >}}
+{{< pat "GYBKYGGBYKGYGKYBYBRYRBYBYKGYGKYRBW" >}}
+{{< pat "RBRRBRRBRBRBRWGBWBGWRBRBRBRRBRRBRR" >}}
+{{< pat "RKRGRKRGYGRKRKRGWRKRGRKRGYGRKRGRGW" >}}
+{{< pat "WRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW" >}}
+{{< pat "WRWKWWWGGGGGGYRWRYGGWRWGWWWGKWWWRW" >}}
+
+### 35 stripes (10 patterns)
+
+{{< pat "BGKGKGKGRGBKBGRGKGKGKGGBGBGBGBGBGBG" >}}
+{{< pat "BGKGKGKGRGBKBGRGKGKGKGRBRBRBRBRBRBR" >}}
+{{< pat "BKBKBKBKWKBKBRBKGRGRGKYKGRGRGKBKBKB" >}}
+{{< pat "BKBKRBKBKYBKBKBKBKBKBKBKBKBKBKBKBKY" >}}
+{{< pat "BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR" >}}
+{{< pat "BRGRBRGRBRBRGRBRBRBRBRBRBGBRGRBRBRG" >}}
+{{< pat "BRKWKWRWRWRWRWRKRKRKRKWRWRWRWRWRWYY" >}}
+{{< pat "GRGRGKBKBKBKGBGBGKBKBKBKYWKWWGRKRWR" >}}
+{{< pat "KGKYKBKGKBRBRBKWBWBWBWBWKWBWBWBWBWK" >}}
+{{< pat "RKGKGKYRKRKBKWKGKBKGKYKBKRKRYKGKGKR" >}}
+
+### 36 stripes (53 patterns)
+
+{{< pat "BBGGGGGGGGGGGGGGGBBBGBGBGBGBGBGBGBBG" >}}
+{{< pat "BBKBBKBBKBBKBBKBBKWBWKGWGKWRYYYYYYYY" >}}
+{{< pat "BBKBBKBBKBBKBBKBBKWBWKRWRKWRYYYYYYYY" >}}
+{{< pat "BBRBYBRBYBWBWBWBYBRBYBRBRBBBBBBBBBGB" >}}
+{{< pat "BGBGGBGGBGGBGGBGGBKRKWKBRKRWRKRBKWKR" >}}
+{{< pat "BGGRGGRGGRGGRGGRGBKYKWKBRKRWRKRBKWKY" >}}
+{{< pat "BGGRGRGRGRGRGRGRGGBGRGRGRGRGRGRGRGBR" >}}
+{{< pat "BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG" >}}
+{{< pat "BGKBKBKBKBKBKBKBKGKRBRBRBRBRBRBRBRKG" >}}
+{{< pat "BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK" >}}
+{{< pat "BKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBK" >}}
+{{< pat "BKBKBKBKBKBKBKWBWKRBRBRBRBRBRBRBRKWK" >}}
+{{< pat "BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWR" >}}
+{{< pat "BKBYKRYRWRKYBWBYKRWRKYBKBKBYKRWRWRKW" >}}
+{{< pat "BKGKBKGKWBWBWBWBWKGKBKGKBKRKBKWBWBWB" >}}
+{{< pat "BKRKRKBKRKRKRKBRKRGKRKRKRKGKRKRKGKRK" >}}
+{{< pat "BRKRWRWRWRWRWRKRKRKRKRKWRWRWRWRWRWYY" >}}
+{{< pat "BRKWYWYWYWYWYKYKYKYKYKYWYWYWYWYWYWGY" >}}
+{{< pat "BRRBYBYBGBGBGBGYRGRYGBGBGBGBYBYBRRBR" >}}
+{{< pat "BWBGWGWGWGWGWGWGWGBGGWGWGWGWGWGWGWGG" >}}
+{{< pat "BWBWBWBBWBBWBGWBBWRWBBWGBWBBWBBWBRKR" >}}
+{{< pat "BWBWKGRGKGBGBGKWBRBWKGBGBGKGRGKWBWBR" >}}
+{{< pat "BYBGYGYGYGYGYGYGYGBGGYGYGYGYGYGYGYGG" >}}
+{{< pat "BYBRKRWKWRWKWRWKWRWKWKWKWRWRWKWKWRKR" >}}
+{{< pat "BYBYBYKRKRKRKYBYKRWRWRKYBWBYBRKRWBWR" >}}
+{{< pat "BYBYRWBYWBYWBYRWBYWYBWRYBWYBWYBWRYBY" >}}
+{{< pat "BYKRKRKRKYBYKRWRWRKYBWBYBRKRWBWRWBWR" >}}
+{{< pat "BYRYRYRYRYRYRYRYBGBRBRBRBRBRBRBRBGRG" >}}
+{{< pat "BYRYRYRYRYRYRYRYBKBRBRBRBRBRBRBRBKRK" >}}
+{{< pat "GBGKBKBKBKBKBKBKBKGKYBYBYBYBYBYBYBYK" >}}
+{{< pat "GGGGKGGGGKBBKBKBBKGGGGKGGGGKBBKBKBBK" >}}
+{{< pat "GGGWGWGWGWGWGWGWGWGWYGYGYGYGYGYGYGYW" >}}
+{{< pat "GGWGWGWGWGWGWGWGGKGWGWGWGWGWGWGWGKWK" >}}
+{{< pat "GGYGYGYGYGYGYGYGGKGYGYGYGYGYGYGYGKYK" >}}
+{{< pat "GGYGYGYGYGYGYGYGGYGYGYGYGYGYGYGYGYYY" >}}
+{{< pat "GKGKGKGKGKGKGKYGYKRGRGRGRGRGRGRGRKYK" >}}
+{{< pat "GRGRBRBRBRBRBRBRBRBRGRGRGRGRGRBRBRBR" >}}
+{{< pat "GRYRYRYRYRYRYRYRGGGYGYGYGYGYGYGYGGYG" >}}
+{{< pat "GRYRYRYRYRYRYRYRGKGYGYGYGYGYGYGYGKYK" >}}
+{{< pat "KBKKBKBKBKBKBKBKBKKKRBRBRBRBRBRBRBRK" >}}
+
+… and 13 more
+
+### 37 stripes (2 patterns)
+
+{{< pat "GKRBRBRBRKRBRKRBRKRBGRKRGRBRBRBRKRBRK" >}}
+{{< pat "RKRKYBYKRWRWRKYBWBYKRKRWKWRWKWRKRKYBY" >}}
+
+### 38 stripes (15 patterns)
+
+{{< pat "BGGGGGBKGBGBGGGGGBKRKBGGGGGBGBGKBGGGGG" >}}
+{{< pat "BKBKBKBKBRWRKRBRKRKRKRKRBRKRWRBKBKBKBK" >}}
+{{< pat "BRBRKRKRBRBRKRYRYRKRKRYRYRKRBRBRKRKRBR" >}}
+{{< pat "BRKBKBKBKBKBKBKBKRKGBGBGBGBGBGBGBGKRWR" >}}
+{{< pat "GBGBBGRGGGRGBBBBBBGBBBBBBGRGGGRGBBGBGG" >}}
+{{< pat "GKGKGKBKWKBKYKGKRKGWGKRKGKYKBKWKBKGKGK" >}}
+{{< pat "GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW" >}}
+{{< pat "GRGRKRKRKRKRKRKRWRBRWRGRGRGRGRGGGRGWGW" >}}
+{{< pat "KRGKBRBKRGRBRGRBKBRGRBKBRGRBRGRKBRBKGR" >}}
+{{< pat "KWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW" >}}
+{{< pat "RWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW" >}}
+{{< pat "RYRWBWBWGYRYRYGYRWYWYWRYGYRYRYGWBWBWRY" >}}
+{{< pat "WRKRKWYWKRKWRWKRKRWRKRKWRWKRKWYWKRKRWY" >}}
+{{< pat "YBGGGGGGGBYBGRGRYRGRBYRYRGBYBGGGGGGGBY" >}}
+{{< pat "YBGGGGGGGBYBGRRRYRRRBYGYRGBYBGGGGGGGBY" >}}
+
+### 39 stripes (5 patterns)
+
+{{< pat "GKRKGKRYRKRKRKGKRKGGKRKGKRKRKRYRKGKRKGK" >}}
+{{< pat "GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG" >}}
+{{< pat "GRRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW" >}}
+{{< pat "KWWYWWYWYWYWYWYYWYWWYYWYWYWYWYWYWYWYWWY" >}}
+{{< pat "WWKWKWWWWWWWWWWWWWWKWWWWWWWWWWWWWWWWKWW" >}}
+
+### 40 stripes (14 patterns)
+
+{{< pat "BKBKBKBKWKRKWBKBKBKBKGBGKGKGKWYWGKGKGKGK" >}}
+{{< pat "BKBKBKBKYKRKYBKBKBKBKGKGKGKGKYYYGKGKGKGK" >}}
+{{< pat "BKBKBKBWRWBKBKBKBKBWRWBKBKBKBKBWRWBKBKBK" >}}
+{{< pat "BRBGBGBRGWRBRBGBRBGBGBRBGBRBRWGRBGBGBRBG" >}}
+{{< pat "BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRYRGRGRGR" >}}
+{{< pat "BRWRBRBRWBRBWBRBWRKRBRKRWBRBWBRBWRBRBRWR" >}}
+{{< pat "GRGKBRBKBKBKBKBYBKGRGRGKBYBKBKBKBKBRBKGR" >}}
+{{< pat "GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW" >}}
+{{< pat "GRGRKRKRKRKRKRKRWRWRWRWRGRGRGRGRGGGRGWGW" >}}
+{{< pat "RBRBRKGRGRGRGWGRWRBRGRGRKGKRGRGRGRGRGRBR" >}}
+{{< pat "RGRGRGRGRGRGRKGKRGRGRGRWRGWGRGRGRGKRGRGR" >}}
+{{< pat "RKRBKRKWKBRKRKRKRKRKRKRKRKRKRBKWKRKBRKRW" >}}
+{{< pat "RWBWBWGWGWBWGWGWBWBWWWBWBWGWGWBWGWGWBWBW" >}}
+{{< pat "WBGKGKYWBWYGKGYWBYWRGGKBRKWRWBGRWKBKWRGW" >}}
+
+### 41 stripes (3 patterns)
+
+{{< pat "BRKRGRBRBRKRKRKRKRBRBRBRBRBRBRBRKRBRBRBRK" >}}
+{{< pat "BRWRBGRGBRWRBRWRBRBRBRBRBRBRWRBRBRWRBRBGR" >}}
+{{< pat "BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR" >}}
+
+### 42 stripes (6 patterns)
+
+{{< pat "BGBGBYBGBGBGKBKBKBKGBGBGBRBGBGBGYKWKWKWKYG" >}}
+{{< pat "BGBGBYBGBGBGKYKYKYKGBGBGBRBGBGBGYKWKWKWKYG" >}}
+{{< pat "BRKGRKRGKRBRBRBRKRBRKRBRKRBRBRBRKGRKRGKRBR" >}}
+{{< pat "BRKRGRBRGRKRKRKRKRGRBRGRGRBRRBRBRKRGRBRBRK" >}}
+{{< pat "BWBGBGBGRGRGRGRGRGBRWRWRBGRGRGRGRGRGBGBGBW" >}}
+{{< pat "KRYRGRYRGWKRBRYRBRKYRKRYKRBRYRBRKWGRYRGRYR" >}}
+
+### 43 stripes (3 patterns)
+
+{{< pat "BRBRBRYRBRBRBRBRBRBRYRBRYRBRBRBRBRYRBRYRBRB" >}}
+{{< pat "BRKRGRBRGRKRKRKRKRGRBRGRKRBRBRBRBRKRGRBRBRK" >}}
+{{< pat "KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY" >}}
+
+### 44 stripes (14 patterns)
+
+{{< pat "BKBKBKBKGKGKGKGKWYWGKGKGKGKBKBKBKBKWKRKWKRKW" >}}
+{{< pat "BRKBKBKBKBBWKBKBKBKBKBKBKBKBKBKBKWBBKBKBKBKR" >}}
+{{< pat "BYBGGGGGGGBYBYBGRBRYRBRBYRYRGBYBYBGGGGGGGBYB" >}}
+{{< pat "BYBGGGGGGGBYBYBGRGRYRGRBYRYRGBYBYBGGGGGGGBYB" >}}
+{{< pat "BYBGGGGGGGBYBYBGRRRYRRRBYGYRGBYBYBGGGGGGGBYB" >}}
+{{< pat "BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYB" >}}
+{{< pat "GYBYBYBYGYGYGYGYGYGGBGBGGYGYGYGYGYGYBYBYBYGY" >}}
+{{< pat "KRYKRBRYRBRKWGRYRGRKYRKRYKRGRYRGWKRBRYRBRKYR" >}}
+{{< pat "RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRBRWR" >}}
+{{< pat "RGGRBRYRBRGRYRBRGRBRBRGRBRYRBRYRGGRGGRYRBRYR" >}}
+{{< pat "RWGRWRWRWRGRWRWRGRWRWRGRWRWRBRWRGWRWGRWRBRWR" >}}
+{{< pat "WGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW" >}}
+{{< pat "WGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWRKWRRW" >}}
+{{< pat "WGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW" >}}
+
+### 45 stripes (4 patterns)
+
+{{< pat "BGBGYGBBYBGBRBBGBGYGBRBRBGBGYGBBGBRBBBBYBGBRB" >}}
+{{< pat "BGBGYGKBYBGBRBBGBGYGKRBRBGBGYGKBGBRBBKBYBGBRB" >}}
+{{< pat "BYBBYBBYBYYBBYYYBBYYGBYBBYBKBBYKRYBYBBYBBYRRY" >}}
+{{< pat "RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW" >}}
+
+### 46 stripes (5 patterns)
+
+{{< pat "BRBRGGRBRGRBRGRBRKBRBKRKBRBKRBRGRBRGRBRGGRBRBR" >}}
+{{< pat "BRGGGGGGGGGGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBG" >}}
+{{< pat "BRWBWRGYWYGRGRBRBRBRBWBWBWBRBRBRBRGRGYWYGRWBWR" >}}
+{{< pat "GRGYGRGBGBGBWRKRKRWBGBGBGBGBWRKRKRWBGBGBGRGYGR" >}}
+{{< pat "RGGYGYGYKRKGYGYRGYGYGYGYGYGYGYGYGYGYGYGYGYGYGY" >}}
+
+### 48 stripes (6 patterns)
+
+{{< pat "BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK" >}}
+{{< pat "BGBGRGRGRGRWRGRGRGRGRGRGRGRGRGRGRGRGRWRGRGRGRGBG" >}}
+{{< pat "BKBKRKRKRKRWRKRKRKRKBGBGBGBGBKRKRKRKRWRKRKRKRKBK" >}}
+{{< pat "BRBRGRGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRGRGRBR" >}}
+{{< pat "GWKRKWGKGKGKGKWKWKGKGKGKGWKYKWGKGKGKGKWKWKGKGKGK" >}}
+{{< pat "KGKYKGKKKKKKKKWKWKKKKKKKKGKRKGKKKKKKKKWKWKKKKKKK" >}}
+
+### 50 stripes (2 patterns)
+
+{{< pat "BWBWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWBW" >}}
+{{< pat "GKGBKRBRKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKRBRKBGK" >}}
+
+### 52 stripes (3 patterns)
+
+{{< pat "BBBRBBBBGRGYGRGBBWBBGWGYGWRBYBYBYBYBYBYBYBYBBRGBWBGB" >}}
+{{< pat "BKGKBKBKYKGKRKKKGKYKBKBKGKBKGKBKBKYKGKKKRKGKYKBKBKGK" >}}
+{{< pat "KRBRBRBRBRWRKRWRWRWKWKWKWKWKWKWKBWKWBRBKBKBKBKBKBKWR" >}}
+
+### 53 stripes (1 patterns)
+
+{{< pat "BRKWKYWYWYWYWYWYWYWYWYWYKYKYKYKYWYWYWYWYWYWYWYWYWYWGY" >}}
+
+### 54 stripes (2 patterns)
+
+{{< pat "GRGRGRGBGBGBGBGBGBGBGBGRGRBRGRGBGBGBGBGBGBGBGBGRGRGRGR" >}}
+{{< pat "RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY" >}}
+
+### 56 stripes (1 patterns)
+
+{{< pat "BGRBRBWBRBRBRBRBRGRBRBRBRBRBRBRBRBRBRBRGRBRBRBRBRBWBRBRG" >}}
+
+### 57 stripes (1 patterns)
+
+{{< pat "RWRRWBWWWBWGYWBWYGWGGWGGWWBWBWWRRWRWRRWWBWBWWGGYWYGGWRRWR" >}}
+
+### 58 stripes (1 patterns)
+
+{{< pat "GWGWGKYKGWGRGRGWGRGRGWGKYKGWGWGRWGWKYKWKGRGRWRGRGKWKYKWGWR" >}}
+
+### 60 stripes (3 patterns)
+
+{{< pat "BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKRWRGRKGKRWRKGKRGRWRKRKRK" >}}
+{{< pat "KBWBKWBWBWKBWBBBWBKWBWBWBWKBWBWKWKWKWBWBKWBWBWKBWBBBWBKWBWBW" >}}
+{{< pat "KGKBKWKBKGKGKGKGKGKBKWKBKYKGKRKGKYKBKWKBKGKGKGKGKGKBKWKBKGKR" >}}
+
+### 62 stripes (7 patterns)
+
+{{< pat "BBBBBBBBBBBBBGBBBBBBBBBGBBBBBBBBBBBBBBBBBBBGBBBBBBBBBBBBBBBBBG" >}}
+{{< pat "BBBBBBGBBBBBBWBBGBBBGBBWBBBBBBGBBBBBBGBBBBBWBBBGBBBBGBBBBGBBBW" >}}
+{{< pat "BBBKBBBBBBKBBWBBBBBBBBBWBBKBBBBBBKBBBBBBKBKWBKBBKBBBBBBBKBBKBW" >}}
+{{< pat "GRGKBWBWBWBWBKGRGRGRGKBWBWGWBWBWBWGWBWBKGRGRGRGKBWBWBWBWBKGRGR" >}}
+{{< pat "RWRWRWBWBWBWBWGGWGGWRWRWGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW" >}}
+{{< pat "RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW" >}}
+{{< pat "RWRWRWWWBWBWWWGGWGGWRWRWGWGYGWWWWWGYGWGWRWRWBWWYWGWYWWBWRWWWRW" >}}
+
+### 63 stripes (1 patterns)
+
+{{< pat "RYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYRWRYRWRYKYW" >}}
+
+### 64 stripes (2 patterns)
+
+{{< pat "GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR" >}}
+{{< pat "RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRWRWRWRWRKWKRWRKWKRWRKWRWRWRWRWRW" >}}
+
+### 65 stripes (1 patterns)
+
+{{< pat "RKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW" >}}
+
+### 66 stripes (6 patterns)
+
+{{< pat "BBWBBWBWBRWRBWBWBBWBBWGGGWBBWGWBBWGGGWBBWBBWBWBRWRBWBWBBWBBWRRWRRW" >}}
+{{< pat "BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKYKGKRKRKRKRKRWRGRGKGKGKGKGKBKBKBK" >}}
+{{< pat "GYBKYGGBYKGYGKYBYBRYRBYBYKGYGKYRBWBRYKGYGKYBYBRYRBYBYKGYGKYBGGYKBY" >}}
+{{< pat "RRGYRRWRWYBGYWYWYGBYWRRGRRWGWGYGWGWGWGYGWGWRRGRRWGYWYGWGWBWBWGWRRW" >}}
+{{< pat "RRGYRRYRYYBGYYYYYGBYYRRGRRYGYGYGYGYGYGYGYGYRRGRRYGYYYGYGYBYBYGYRRY" >}}
+{{< pat "RWKWBWGGGGGGYRWRYGGWRWGWBWGKWBWRWRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW" >}}
+
+### 67 stripes (1 patterns)
+
+{{< pat "YYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYBGBGBYYYYYYYYWYYYYWYYYYYYYYYYYYYYYYY" >}}
+
+### 68 stripes (1 patterns)
+
+{{< pat "BWBBWBBWGGGWBBWGWBBWGGGWBBWBBWBWBRWRBWBWBBWBBWGGGWBBWGWBBWGGGWBBWBBW" >}}
+
+### 69 stripes (1 patterns)
+
+{{< pat "YGRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGRGRYRGRY" >}}
+
+### 70 stripes (3 patterns)
+
+{{< pat "BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG" >}}
+{{< pat "BWBWBWBGWGWGWGWGBWBWBWBWBGBWBGWGWGWGWGWGBWBGBWBWBWBWBGWGWGWGWGBWBWBWBW" >}}
+{{< pat "BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW" >}}
+
+### 73 stripes (1 patterns)
+
+{{< pat "RGYYYYYYYRYYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY" >}}
+
+### 75 stripes (1 patterns)
+
+{{< pat "GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYG" >}}
+
+### 77 stripes (1 patterns)
+
+{{< pat "KBKBKBKKGKWGKWBWBWBWBWKGKWKGKBKRKBKGKWKGKWBWBWBWBWKGWKGKBKBKBKBKBKGKWKGKWBWBW" >}}
+
+### 78 stripes (2 patterns)
+
+{{< pat "GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW" >}}
+{{< pat "RWKYBYGYKRKRKRKYGYKRWRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW" >}}
+
+### 80 stripes (2 patterns)
+
+{{< pat "BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG" >}}
+{{< pat "BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWRKWBWKYBYBYBRKRWBWRWBWRKRBYBWBYKRWRWRKYBYKRKR" >}}
+
+### 81 stripes (6 patterns)
+
+{{< pat "BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR" >}}
+{{< pat "BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYBYBGGGGGGGBYBYBGRYRYBRRRYRRRGBYBYBGGGG" >}}
+{{< pat "GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYGYKRWRW" >}}
+{{< pat "GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKYK" >}}
+{{< pat "RRYYRYWYWYKYWYWYRYYRRRYYRYYRRRYYRYWYWYYYWYWYRYYRRRYYRYYRRRYYRYWYWYKYWYWYRYYRRRYYR" >}}
+{{< pat "RWRRWBGWGBWGYWBWYGWGGWGGWGBWBGWRRWRWRRWGBWBGWGGYWYGGWRRWRWRRWGGYWYGGWGBWBGWRRWRWR" >}}
+
+### 82 stripes (5 patterns)
+
+{{< pat "BBWRRWRRWBBRWGYWBWBWYGWBBBWRRWRRWBBBWGYWBWBWYGWRBBWRRWRRWBBRRWGYWBWBWYGWBBBWRRWRRW" >}}
+{{< pat "BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW" >}}
+{{< pat "GWRRWRRWBWBRRWRRBWKGKWBRRWRRBWBBWBBWKGWGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW" >}}
+{{< pat "RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW" >}}
+{{< pat "RWBWKYKWKGRGRWRGRGKWKGKWBWRGWBWBKYKBWGRGRGWGRGRGWBKYKBWBWGWBWBKYKBWGRGRGWGRGRGWBKY" >}}
+
+### 84 stripes (1 patterns)
+
+{{< pat "KWKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW" >}}

@@ -1,0 +1,23 @@
+---
+title: "St Kilda"
+date: 2023-03-18
+---
+The parent of this is [St Kilda](/tartans/k/8/r/2/)
+
+
+This was sourced from weddslist.  It is a [2 stripes tartan](/stripes/stripes2/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+K/8 R/2
+![Sett](sett.png)
+
+## Palette
+K{{< c "#000000" >}} R{{< c "#C00000" >}}
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/8 R/2 tartan")
+
+ID: /variants/k/8/r/2-k000000-rc00000/

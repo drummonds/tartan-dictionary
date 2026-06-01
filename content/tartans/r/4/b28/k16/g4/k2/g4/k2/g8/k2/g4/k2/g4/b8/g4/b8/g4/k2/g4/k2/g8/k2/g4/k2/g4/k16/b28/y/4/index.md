@@ -1,8 +1,7 @@
 ---
-title: Duchess of Albany with 27 stripes
+title: "Duchess of Albany with 27 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 R/4 B28 K16 G4 K2 G4 K2 G8 K2 G4 K2 G4 B8 G4 B8 G4 K2 G4 K2 G8 K2 G4 K2 G4 K16 B28 Y/4

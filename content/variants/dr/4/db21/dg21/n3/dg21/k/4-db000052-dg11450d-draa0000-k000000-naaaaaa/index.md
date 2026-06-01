@@ -1,11 +1,11 @@
 ---
-title: Duncan
+title: "Duncan"
 date: 2023-03-18
 ---
 The parent of this is [Duncan](/tartans/dr/4/db21/dg21/n3/dg21/k/4/)
 
 
-This was sourced from <no value>.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
@@ -14,7 +14,15 @@ DR/4 DB21 DG21 N3 DG21 K/4
 ![Sett](sett.png)
 
 ## Palette
-DB{{< c "#000052" >}} DG{{< c "#11450D" >}} DR{{< c "#AA0000" >}} K{{< c "#000000" >}} N{{< c "#AAAAAA" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | {{< c "#000052" >}} `#000052` | B {{< c "#2C4084" >}} | 0.20 |
+| DG | {{< c "#11450D" >}} `#11450D` | G {{< c "#006400" >}} | 0.10 |
+| DR | {{< c "#AA0000" >}} `#AA0000` | R {{< c "#C80000" >}} | 0.06 |
+| K | {{< c "#000000" >}} `#000000` | K {{< c "#000000" >}} | 0.00 |
+| N | {{< c "#AAAAAA" >}} `#AAAAAA` | Y {{< c "#E8C000" >}} | 0.19 |
 
 # Sample pattern
 

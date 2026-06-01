@@ -13,3 +13,5 @@ Each of these variants will have a different colour scheme and possibly scaling.
 |---------|
 | [Rob Roy](/variants/dr/2/k/2-draa0000-k000000/)|
 |![Sett](/variants/dr/2/k/2-draa0000-k000000/sett.png)|
+| [Rob Roy](/variants/dr/2/k/2-draa0000-k000000/)|
+|![Sett](/variants/dr/2/k/2-draa0000-k000000/sett.png)|

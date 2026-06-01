@@ -1,0 +1,30 @@
+---
+title: "Logan, with Yellow"
+date: 2023-03-18
+---
+The parent of this is [Logan, with Yellow](/tartans/p/16/r6/y2/r6/g28/r6/y/2/)
+
+
+This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+P/16 R6 Y2 R6 G28 R6 Y/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | {{< c "#008000" >}} `#008000` | G {{< c "#006400" >}} | 0.09 |
+| P | {{< c "#800080" >}} `#800080` | B {{< c "#2C4084" >}} | 0.17 |
+| R | {{< c "#C00000" >}} `#C00000` | R {{< c "#C80000" >}} | 0.02 |
+| Y | {{< c "#F0C000" >}} `#F0C000` | Y {{< c "#E8C000" >}} | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "P/16 R6 Y2 R6 G28 R6 Y/2 tartan")
+
+ID: /variants/p/16/r6/y2/r6/g28/r6/y/2-g008000-p800080-rc00000-yf0c000/

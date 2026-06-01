@@ -1,0 +1,20 @@
+---
+title: Pattern BKGKRKWRKBK
+date: 2023-03-18
+---
+BKGKRKWRKBK
+
+It is a 11 stripes tartan.
+
+
+
+## Colour Sequence
+BKGKRKWRKBK
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [CoVASS](/tartans/db/4/k4/g2/k4/lr8/k2/ln2/lr4/k4/p2/k/180/)|
+|![CoVASS example sett](/variants/db/4/k4/g2/k4/lr8/k2/ln2/lr4/k4/p2/k/180-db2c2c80-g006818-k101010-lne0e0e0-lre87878-p780078/sett.png)|

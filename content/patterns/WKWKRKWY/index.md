@@ -1,0 +1,22 @@
+---
+title: Pattern WKWKRKWY
+date: 2023-03-18
+---
+WKWKRKWY
+
+It is a 8 stripes tartan.
+
+![Woven sample](/variants/w/166/k12/w6/k18/r4/k10/w4/y/4-k101010-rff0000-wfcfcfc-ye8c000/tartan.png)
+
+
+
+## Colour Sequence
+WKWKRKWY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Crane of Cluny Dress (Personal)](/tartans/w/166/k12/w6/k18/r4/k10/w4/y/4/)|
+|![Crane of Cluny Dress (Personal) example sett](/variants/w/166/k12/w6/k18/r4/k10/w4/y/4-k101010-rff0000-wfcfcfc-ye8c000/sett.png)|

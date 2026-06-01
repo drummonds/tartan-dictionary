@@ -1,0 +1,25 @@
+---
+title: "Robertson #5"
+date: 2023-03-18
+---
+The parent of this is [Robertson #5](/tartans/b/6/r6/b48/r6/g48/r6/b6/r56/g4/r10/g4/r/56/)
+
+
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3526
+
+## Thread count
+B/6 R6 B48 R6 G48 R6 B6 R56 G4 R10 G4 R/56
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | {{< c "#2C4084" >}} `#2C4084` | B {{< c "#2C4084" >}} | 0.00 |
+| G | {{< c "#005020" >}} `#005020` | G {{< c "#006400" >}} | 0.08 |
+| R | {{< c "#DC0000" >}} `#DC0000` | R {{< c "#C80000" >}} | 0.04 |
+
+ID: /variants/b/6/r6/b48/r6/g48/r6/b6/r56/g4/r10/g4/r/56-b2c4084-g005020-rdc0000/

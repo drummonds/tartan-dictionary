@@ -1,0 +1,24 @@
+---
+title: "Murray of Ochtertyre - 1746 (Clan)"
+date: 2023-03-18
+---
+The parent of this is [Murray of Ochtertyre - 1746 (Clan)](/tartans/k/2/r2/k20/r20/k2/r2/k2/r2/k16/r2/k2/r2/k2/r20/k20/r/2/)
+
+
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/5642/
+
+## Thread count
+K/2 R2 K20 R20 K2 R2 K2 R2 K16 R2 K2 R2 K2 R20 K20 R/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | {{< c "#000000" >}} `#000000` | K {{< c "#000000" >}} | 0.00 |
+| R | {{< c "#C80000" >}} `#C80000` | R {{< c "#C80000" >}} | 0.00 |
+
+ID: /variants/k/2/r2/k20/r20/k2/r2/k2/r2/k16/r2/k2/r2/k2/r20/k20/r/2-k000000-rc80000/

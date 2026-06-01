@@ -1,8 +1,7 @@
 ---
-title: (1) Skene with 6 stripes
+title: "(1) Skene with 6 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 B/48 K8 R6 G48 K8 LG/6

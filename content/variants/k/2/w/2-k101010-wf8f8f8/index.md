@@ -14,7 +14,12 @@ K/2 W/2
 ![Sett](sett.png)
 
 ## Palette
-K{{< c "#101010" >}} W{{< c "#F8F8F8" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | {{< c "#101010" >}} `#101010` | K {{< c "#000000" >}} | 0.17 |
+| W | {{< c "#F8F8F8" >}} `#F8F8F8` | W {{< c "#F4F4F0" >}} | 0.01 |
 
 # Sample pattern
 

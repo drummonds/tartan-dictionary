@@ -1,0 +1,15 @@
+---
+title: "Wilson's No.173 with 8 stripes"
+date: 2023-03-18
+---
+
+## Thread count
+G/12 P6 K6 P6 K6 P6 G12 YY/4
+
+## Examples of this tartan pattern
+Each of these variants will have a different colour scheme and possibly scaling.
+
+| Tartan Variants |
+|---------|
+| [Wilson's No.173](/variants/g/12/p6/k6/p6/k6/p6/g12/yy/4-dg003820-dp440044-g285800-k101010-p780078/)|
+|![Sett](/variants/g/12/p6/k6/p6/k6/p6/g12/yy/4-dg003820-dp440044-g285800-k101010-p780078/sett.png)|

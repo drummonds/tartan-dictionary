@@ -14,7 +14,12 @@ DR/18 N/2
 ![Sett](sett.png)
 
 ## Palette
-DR{{< c "#8C0000" >}} N{{< c "#B0B0B0" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | {{< c "#8C0000" >}} `#8C0000` | R {{< c "#C80000" >}} | 0.13 |
+| N | {{< c "#B0B0B0" >}} `#B0B0B0` | Y {{< c "#E8C000" >}} | 0.18 |
 
 # Sample pattern
 

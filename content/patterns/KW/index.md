@@ -24,9 +24,9 @@ KW
 |---------------|
 | [Joy's Fancy, Allen (Personal)](/tartans/k/30/n/2/)|
 |![Joy's Fancy, Allen (Personal) example sett](/variants/k/30/n/2-k101010-nc0c0c0/sett.png)|
+| [Shepherd Check (Universal)](/tartans/k/2/ln/2/)|
+|![Shepherd Check (Universal) example sett](/variants/k/2/ln/2-k101010-lne0e0e0/sett.png)|
 | [Northumberland (District)](/tartans/k/2/w/2/)|
 |![Northumberland (District) example sett](/variants/k/2/w/2-k101010-wf8f8f8/sett.png)|
 | [Shepherd](/tartans/k/15/ln/15/)|
 |![Shepherd example sett](/variants/k/15/ln/15-k000000-lne0e0e0/sett.png)|
-| [Shepherd Check](/tartans/k/2/ln/2/)|
-|![Shepherd Check example sett](/variants/k/2/ln/2-k000000-lne0e0e0/sett.png)|

@@ -14,7 +14,12 @@ DP/16 G/18
 ![Sett](sett.png)
 
 ## Palette
-DP{{< c "#440044" >}} G{{< c "#5C6428" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DP | {{< c "#440044" >}} `#440044` | B {{< c "#2C4084" >}} | 0.17 |
+| G | {{< c "#5C6428" >}} `#5C6428` | G {{< c "#006400" >}} | 0.09 |
 
 # Sample pattern
 

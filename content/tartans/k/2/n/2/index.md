@@ -13,3 +13,5 @@ Each of these variants will have a different colour scheme and possibly scaling.
 |---------|
 | [Shepherd](/variants/k/2/n/2-k000000-naaaaaa/)|
 |![Sett](/variants/k/2/n/2-k000000-naaaaaa/sett.png)|
+| [Shepherd](/variants/k/2/n/2-k000000-naaaaaa/)|
+|![Sett](/variants/k/2/n/2-k000000-naaaaaa/sett.png)|

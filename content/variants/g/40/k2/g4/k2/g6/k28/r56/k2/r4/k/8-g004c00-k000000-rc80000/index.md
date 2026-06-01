@@ -1,0 +1,25 @@
+---
+title: "Kerr"
+date: 2023-03-18
+---
+The parent of this is [Kerr](/tartans/g/40/k2/g4/k2/g6/k28/r56/k2/r4/k/8/)
+
+
+This was sourced from weddslist.  It is a [10 stripes tartan](/stripes/stripes10/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Thread count
+G/40 K2 G4 K2 G6 K28 R56 K2 R4 K/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | {{< c "#004C00" >}} `#004C00` | G {{< c "#006400" >}} | 0.08 |
+| K | {{< c "#000000" >}} `#000000` | K {{< c "#000000" >}} | 0.00 |
+| R | {{< c "#C80000" >}} `#C80000` | R {{< c "#C80000" >}} | 0.00 |
+
+ID: /variants/g/40/k2/g4/k2/g6/k28/r56/k2/r4/k/8-g004c00-k000000-rc80000/

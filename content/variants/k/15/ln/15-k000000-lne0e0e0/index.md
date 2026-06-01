@@ -14,7 +14,12 @@ K/15 LN/15
 ![Sett](sett.png)
 
 ## Palette
-K{{< c "#000000" >}} LN{{< c "#E0E0E0" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | {{< c "#000000" >}} `#000000` | K {{< c "#000000" >}} | 0.00 |
+| LN | {{< c "#E0E0E0" >}} `#E0E0E0` | W {{< c "#F4F4F0" >}} | 0.06 |
 
 # Sample pattern
 

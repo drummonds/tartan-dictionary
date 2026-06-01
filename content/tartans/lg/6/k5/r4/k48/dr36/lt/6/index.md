@@ -1,8 +1,7 @@
 ---
-title: Drambuie hunting with 6 stripes
+title: "Drambuie hunting with 6 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 LG/6 K5 R4 K48 DR36 LT/6

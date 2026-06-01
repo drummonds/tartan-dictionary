@@ -1,0 +1,15 @@
+---
+title: "Welsh National (District) with 5 stripes"
+date: 2023-03-18
+---
+
+## Thread count
+LN/8 G88 R8 G6 R/16
+
+## Examples of this tartan pattern
+Each of these variants will have a different colour scheme and possibly scaling.
+
+| Tartan Variants |
+|---------|
+| [Welsh National (District)](/variants/ln/8/g88/r8/g6/r/16-g00643c-lne0e0e0-rc8002c/)|
+|![Sett](/variants/ln/8/g88/r8/g6/r/16-g00643c-lne0e0e0-rc8002c/sett.png)|

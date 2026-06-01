@@ -1,20 +1,25 @@
 ---
-title: "Moncreiffe"
+title: "Moncrieffe Lachlan (Clan)"
 date: 2023-03-18
 ---
-The parent of this is [Moncreiffe](/tartans/g/2/r/2/)
+The parent of this is [Moncrieffe Lachlan (Clan)](/tartans/g/2/r/2/)
 
 
-This was sourced from register-of-tartans.  It is a [2 stripes tartan](/stripes/stripes2/).
+This was sourced from tartans-authority.  It is a [2 stripes tartan](/stripes/stripes2/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2980
+Original link http://www.tartansauthority.com/tartan-ferret/display/963/
 
 ## Thread count
 G/2 R/2
 ![Sett](sett.png)
 
 ## Palette
-G{{< c "#006818" >}} R{{< c "#C80000" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | {{< c "#006818" >}} `#006818` | G {{< c "#006400" >}} | 0.02 |
+| R | {{< c "#C80000" >}} `#C80000` | R {{< c "#C80000" >}} | 0.00 |
 
 # Sample pattern
 

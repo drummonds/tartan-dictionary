@@ -14,7 +14,12 @@ LN/20 R/6
 ![Sett](sett.png)
 
 ## Palette
-LN{{< c "#E0E0E0" >}} R{{< c "#C80000" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| LN | {{< c "#E0E0E0" >}} `#E0E0E0` | W {{< c "#F4F4F0" >}} | 0.06 |
+| R | {{< c "#C80000" >}} `#C80000` | R {{< c "#C80000" >}} | 0.00 |
 
 # Sample pattern
 

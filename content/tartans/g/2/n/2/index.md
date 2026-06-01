@@ -13,3 +13,5 @@ Each of these variants will have a different colour scheme and possibly scaling.
 |---------|
 | [Hafren (Personal)](/variants/g/2/n/2-g006818-n4c6878/)|
 |![Sett](/variants/g/2/n/2-g006818-n4c6878/sett.png)|
+| [Hafren (Personal)](/variants/g/2/n/2-g006818-n4c6878/)|
+|![Sett](/variants/g/2/n/2-g006818-n4c6878/sett.png)|

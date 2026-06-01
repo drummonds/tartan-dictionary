@@ -14,7 +14,12 @@ N/2 T/18
 ![Sett](sett.png)
 
 ## Palette
-N{{< c "#5C5C5C" >}} T{{< c "#604000" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| N | {{< c "#5C5C5C" >}} `#5C5C5C` | B {{< c "#2C4084" >}} | 0.14 |
+| T | {{< c "#604000" >}} `#604000` | G {{< c "#006400" >}} | 0.14 |
 
 # Sample pattern
 

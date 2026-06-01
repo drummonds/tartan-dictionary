@@ -14,7 +14,12 @@ LG/2 LR/2
 ![Sett](sett.png)
 
 ## Palette
-LG{{< c "#789484" >}} LR{{< c "#EC34C4" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| LG | {{< c "#789484" >}} `#789484` | G {{< c "#006400" >}} | 0.23 |
+| LR | {{< c "#EC34C4" >}} `#EC34C4` | R {{< c "#C80000" >}} | 0.24 |
 
 # Sample pattern
 

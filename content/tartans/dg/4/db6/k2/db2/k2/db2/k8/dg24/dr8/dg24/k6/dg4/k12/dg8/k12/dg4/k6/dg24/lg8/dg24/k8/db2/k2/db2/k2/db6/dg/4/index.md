@@ -1,0 +1,15 @@
+---
+title: "Stewart Hunting D with 27 stripes"
+date: 2023-03-18
+---
+
+## Thread count
+DG/4 DB6 K2 DB2 K2 DB2 K8 DG24 DR8 DG24 K6 DG4 K12 DG8 K12 DG4 K6 DG24 LG8 DG24 K8 DB2 K2 DB2 K2 DB6 DG/4
+
+## Examples of this tartan pattern
+Each of these variants will have a different colour scheme and possibly scaling.
+
+| Tartan Variants |
+|---------|
+| [Stewart Hunting D](/variants/dg/4/db6/k2/db2/k2/db2/k8/dg24/dr8/dg24/k6/dg4/k12/dg8/k12/dg4/k6/dg24/lg8/dg24/k8/db2/k2/db2/k2/db6/dg/4-db000052-dg11450d-draa0000-k000000-lgaaaa00/)|
+|![Sett](/variants/dg/4/db6/k2/db2/k2/db2/k8/dg24/dr8/dg24/k6/dg4/k12/dg8/k12/dg4/k6/dg24/lg8/dg24/k8/db2/k2/db2/k2/db6/dg/4-db000052-dg11450d-draa0000-k000000-lgaaaa00/sett.png)|

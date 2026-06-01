@@ -1,8 +1,7 @@
 ---
-title: Drumlithie, Rock and Wheel with 11 stripes
+title: "Drumlithie, Rock and Wheel with 11 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 R/4 DR4 P6 R30 P40 G38 P6 R30 DR4 P6 R/4

@@ -1,8 +1,7 @@
 ---
-title: Dunbar with 6 stripes
+title: "Dunbar with 6 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 R/12 G42 K16 R56 G2 R/8

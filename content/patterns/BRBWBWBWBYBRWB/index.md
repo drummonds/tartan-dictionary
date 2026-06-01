@@ -1,0 +1,20 @@
+---
+title: Pattern BRBWBWBWBYBRWB
+date: 2023-03-18
+---
+BRBWBWBWBYBRWB
+
+It is a 14 stripes tartan.
+
+
+
+## Colour Sequence
+BRBWBWBWBYBRWB
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Parker (USA)](/tartans/db/8/ln6/r12/db32/dy4/db32/ln8/db8/ln8/db8/ln8/db32/r12/db/8/)|
+|![Parker (USA) example sett](/variants/db/8/ln6/r12/db32/dy4/db32/ln8/db8/ln8/db8/ln8/db32/r12/db/8-db2c2c80-dybc8c00-lne0e0e0-rc80000/sett.png)|

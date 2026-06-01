@@ -1,0 +1,31 @@
+---
+title: "Davis (Name)"
+date: 2023-03-18
+---
+The parent of this is [Davis (Name)](/tartans/k/6/y4/k6/dr16/k16/r16/dg4/r/6/)
+
+
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/5770/
+
+## Thread count
+K/6 Y4 K6 DR16 K16 R16 DG4 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | {{< c "#003820" >}} `#003820` | G {{< c "#006400" >}} | 0.16 |
+| DR | {{< c "#880000" >}} `#880000` | R {{< c "#C80000" >}} | 0.14 |
+| K | {{< c "#101010" >}} `#101010` | K {{< c "#000000" >}} | 0.17 |
+| R | {{< c "#C80000" >}} `#C80000` | R {{< c "#C80000" >}} | 0.00 |
+| Y | {{< c "#E8C000" >}} `#E8C000` | Y {{< c "#E8C000" >}} | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/6 Y4 K6 DR16 K16 R16 DG4 R/6 tartan")
+
+ID: /variants/k/6/y4/k6/dr16/k16/r16/dg4/r/6-dg003820-dr880000-k101010-rc80000-ye8c000/

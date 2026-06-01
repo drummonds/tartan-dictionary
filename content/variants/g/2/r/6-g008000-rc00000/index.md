@@ -14,7 +14,12 @@ G/2 R/6
 ![Sett](sett.png)
 
 ## Palette
-G{{< c "#008000" >}} R{{< c "#C00000" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | {{< c "#008000" >}} `#008000` | G {{< c "#006400" >}} | 0.09 |
+| R | {{< c "#C00000" >}} `#C00000` | R {{< c "#C80000" >}} | 0.02 |
 
 # Sample pattern
 

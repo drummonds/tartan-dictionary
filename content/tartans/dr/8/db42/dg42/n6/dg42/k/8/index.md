@@ -1,8 +1,7 @@
 ---
-title: Duncan with 6 stripes
+title: "Duncan with 6 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 DR/8 DB42 DG42 N6 DG42 K/8

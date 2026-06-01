@@ -1,8 +1,7 @@
 ---
-title: (1) Abercrombie with 9 stripes
+title: "(1) Abercrombie with 9 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 LP/27 W2 LP14 K14 N4 K4 N4 K4 N/27

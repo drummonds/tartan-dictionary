@@ -19,4 +19,5 @@ engine. One concept, one name.
 | **Tartan**          | One normalised thread count — a specific structural form that expresses a Pattern.                            |
 | **Variant**         | One concrete colouring of a Tartan (thread count + palette) — a *record* of the idea.                         |
 | **Family**          | A set of tartans associated with a family over more than a couple of generations.                            |
+| **Seat**            | The place a Family takes its territorial designation from — a castle, tower house or house held long enough to name the line (e.g. Megginch, Drummond Castle). The *seat* is the family-to-place bond over time, distinct from the building itself; merely building a place is not enough (cf. Balmoral). |
 | **Source**          | The provenance of a Variant: a specific kilt, plaid, pattern book, or register entry.                        |

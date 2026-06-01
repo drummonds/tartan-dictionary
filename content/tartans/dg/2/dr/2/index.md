@@ -13,3 +13,5 @@ Each of these variants will have a different colour scheme and possibly scaling.
 |---------|
 | [Moncreiffe](/variants/dg/2/dr/2-dg11450d-draa0000/)|
 |![Sett](/variants/dg/2/dr/2-dg11450d-draa0000/sett.png)|
+| [Moncreiffe](/variants/dg/2/dr/2-dg11450d-draa0000/)|
+|![Sett](/variants/dg/2/dr/2-dg11450d-draa0000/sett.png)|

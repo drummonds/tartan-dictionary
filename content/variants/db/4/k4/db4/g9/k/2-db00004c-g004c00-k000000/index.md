@@ -1,11 +1,11 @@
 ---
-title: Austin
+title: "Austin"
 date: 2023-03-18
 ---
 The parent of this is [Austin](/tartans/db/4/k4/db4/g9/k/2/)
 
 
-This was sourced from <no value>.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from weddslist.  It is a [5 stripes tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -14,7 +14,13 @@ DB/4 K4 DB4 G9 K/2
 ![Sett](sett.png)
 
 ## Palette
-DB{{< c "#00004C" >}} G{{< c "#004C00" >}} K{{< c "#000000" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | {{< c "#00004C" >}} `#00004C` | B {{< c "#2C4084" >}} | 0.21 |
+| G | {{< c "#004C00" >}} `#004C00` | G {{< c "#006400" >}} | 0.08 |
+| K | {{< c "#000000" >}} `#000000` | K {{< c "#000000" >}} | 0.00 |
 
 # Sample pattern
 

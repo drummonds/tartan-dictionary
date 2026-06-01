@@ -1,0 +1,118 @@
+{{- /*
+  castlemap — a date-controlled clan map, pure HTML/CSS (no JavaScript).
+  Reads real lat/lon + tenure facts from data/castles.toml and projects them.
+  Each snapshot year is a CSS-toggled <g> layer driven by a radio button.
+*/ -}}
+{{- $castles := hugo.Data.castles.castle -}}
+{{- $places  := hugo.Data.castles.place -}}
+{{- $rivers  := hugo.Data.castles.river -}}
+
+{{- /* projection: geographic box -> 800x600 viewBox */ -}}
+{{- $lonW := -4.30 -}}{{- $lonE := -3.00 -}}{{- $latN := 56.70 -}}{{- $latS := 56.20 -}}
+{{- $mx := 60.0 -}}{{- $my := 60.0 -}}{{- $W := 680.0 -}}{{- $H := 480.0 -}}
+
+{{- /* snapshot years and the one-line narrative each carries */ -}}
+{{- $snaps := slice
+    (dict "year" 1400 "text" "Stobhall on the Tay — the early Drummond seat. One castle, a family putting down roots.")
+    (dict "year" 1500 "text" "Drummond Castle (built ~1490) is now the chief's seat; the line holds Strathearn and the Tay.")
+    (dict "year" 1700 "text" "Three seats: the chiefly Perth line at Drummond Castle and Stobhall, the cadet line at Megginch (acquired 1664).")
+    (dict "year" 1760 "text" "After the '45 the Perth estates are forfeited and Drummond Castle slighted. Only the cadet line at Megginch endures.")
+    (dict "year" 1900 "text" "Estates long restored; the chiefly seats and the Megginch cadet line all stand again.")
+-}}
+{{- $chief := "#1f4e8c" -}}{{- $cadet := "#9a2a2a" -}}
+
+<div class="castlemap">
+  {{- range $i, $s := $snaps -}}
+  <input type="radio" name="cm-year" id="cm-{{ $s.year }}" class="cm-radio"{{ if eq $i 2 }} checked{{ end }}>
+  {{- end }}
+
+  <div class="cm-controls">
+    {{- range $snaps }}<label for="cm-{{ .year }}">{{ .year }}</label>{{ end }}
+  </div>
+
+  {{- range $snaps }}<p class="cm-caption cm-cap-{{ .year }}">{{ .text }}</p>{{ end }}
+
+  <svg viewBox="0 0 800 600" role="img" aria-label="Map of Clan Drummond castles in Perthshire over time">
+    <rect x="0" y="0" width="800" height="600" fill="#f6f4ec"/>
+
+    {{- /* River Tay */ -}}
+    {{- range $rivers }}
+    {{- $pts := slice }}
+    {{- range .points }}
+      {{- $lat := index . 0 }}{{ $lon := index . 1 }}
+      {{- $px := add $mx (mul (div (sub $lon $lonW) (sub $lonE $lonW)) $W) }}
+      {{- $py := add $my (mul (div (sub $latN $lat) (sub $latN $latS)) $H) }}
+      {{- $pts = $pts | append (printf "%.1f,%.1f" $px $py) }}
+    {{- end }}
+    <polyline points="{{ delimit $pts " " }}" fill="none" stroke="#9fc3dd" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+    {{- $last := index .points (sub (len .points) 1) }}
+    <text x="{{ add $mx (mul (div (sub (index $last 1) $lonW) (sub $lonE $lonW)) $W) }}" y="{{ sub (add $my (mul (div (sub $latN (index $last 0)) (sub $latN $latS)) $H)) 8 }}" class="cm-river">River {{ .name }}</text>
+    {{- end }}
+
+    {{- /* reference towns (always visible) */ -}}
+    {{- range $places }}
+    {{- $px := add $mx (mul (div (sub .lon $lonW) (sub $lonE $lonW)) $W) }}
+    {{- $py := add $my (mul (div (sub $latN .lat) (sub $latN $latS)) $H) }}
+    <g class="cm-town">
+      <circle cx="{{ $px }}" cy="{{ $py }}" r="3"/>
+      <text x="{{ add $px 7 }}" y="{{ add $py 4 }}">{{ .name }}</text>
+    </g>
+    {{- end }}
+
+    {{- /* one castle layer per snapshot year */ -}}
+    {{- range $snaps }}
+    {{- $y := .year }}
+    <g class="cm-layer cm-layer-{{ $y }}">
+      {{- range $castles }}
+      {{- $sc := newScratch }}{{ $sc.Set "on" false }}
+      {{- range $iv := .held }}
+        {{- $from := index $iv 0 }}{{ $to := index $iv 1 }}
+        {{- if and (le $from $y) (or (eq $to 0) (ge $to $y)) }}{{ $sc.Set "on" true }}{{ end }}
+      {{- end }}
+      {{- if $sc.Get "on" }}
+      {{- $px := add $mx (mul (div (sub .lon $lonW) (sub $lonE $lonW)) $W) }}
+      {{- $py := add $my (mul (div (sub $latN .lat) (sub $latN $latS)) $H) }}
+      {{- $col := cond (eq .line "cadet") $cadet $chief }}
+      {{- $r := cond (eq (int .rank) 1) 10 6 }}
+      <g class="cm-castle">
+        <circle cx="{{ $px }}" cy="{{ $py }}" r="{{ $r }}" fill="{{ $col }}" stroke="#fff" stroke-width="2"/>
+        <text x="{{ add $px (add $r 5) }}" y="{{ add $py 5 }}" fill="{{ $col }}">{{ .name }}</text>
+      </g>
+      {{- end }}
+      {{- end }}
+    </g>
+    {{- end }}
+
+    {{- /* legend */ -}}
+    <g class="cm-legend" transform="translate(560,500)">
+      <circle cx="10" cy="0" r="8" fill="{{ $chief }}" stroke="#fff" stroke-width="2"/>
+      <text x="26" y="5">Chiefly line (Perth)</text>
+      <circle cx="10" cy="26" r="8" fill="{{ $cadet }}" stroke="#fff" stroke-width="2"/>
+      <text x="26" y="31">Cadet line (Megginch)</text>
+    </g>
+  </svg>
+</div>
+
+<style>
+.castlemap { max-width: 760px; margin: 1.2rem auto; }
+.castlemap .cm-radio { position: absolute; opacity: 0; pointer-events: none; }
+.castlemap .cm-controls { display: flex; flex-wrap: wrap; gap: .4rem; justify-content: center; margin-bottom: .6rem; }
+.castlemap .cm-controls label {
+  cursor: pointer; padding: .25rem .7rem; border: 1px solid #bbb; border-radius: 999px;
+  font-size: .9rem; background: #fff; color: #333; user-select: none;
+}
+.castlemap .cm-caption { display: none; text-align: center; font-style: italic; color: #444; margin: .2rem 0 .6rem; min-height: 2.4em; }
+.castlemap svg { width: 100%; height: auto; border: 1px solid #e3ded0; border-radius: 6px; display: block; }
+.castlemap .cm-layer { display: none; }
+.castlemap .cm-castle text { font: 600 15px/1 sans-serif; }
+.castlemap .cm-town circle { fill: #9a958a; }
+.castlemap .cm-town text { font: 13px sans-serif; fill: #8a857a; }
+.castlemap .cm-river { font: italic 13px serif; fill: #6f9cb8; }
+.castlemap .cm-legend text { font: 13px sans-serif; fill: #333; }
+
+{{- range $snaps }}
+#cm-{{ .year }}:checked ~ .cm-controls label[for="cm-{{ .year }}"] { background: #1f4e8c; color: #fff; border-color: #1f4e8c; }
+#cm-{{ .year }}:checked ~ .cm-caption.cm-cap-{{ .year }} { display: block; }
+#cm-{{ .year }}:checked ~ svg .cm-layer-{{ .year }} { display: inline; }
+{{- end }}
+</style>

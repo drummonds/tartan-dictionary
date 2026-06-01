@@ -1,0 +1,26 @@
+---
+title: "Durie (Clan)"
+date: 2023-03-18
+---
+The parent of this is [Durie (Clan)](/tartans/db/24/dr2/db2/dr2/db2/dr8/g24/y2/g/4/)
+
+
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2228/
+
+## Thread count
+DB/24 DR2 DB2 DR2 DB2 DR8 G24 Y2 G/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | {{< c "#202060" >}} `#202060` | B {{< c "#2C4084" >}} | 0.11 |
+| DR | {{< c "#880000" >}} `#880000` | R {{< c "#C80000" >}} | 0.14 |
+| G | {{< c "#006818" >}} `#006818` | G {{< c "#006400" >}} | 0.02 |
+| Y | {{< c "#E8C000" >}} `#E8C000` | Y {{< c "#E8C000" >}} | 0.00 |
+
+ID: /variants/db/24/dr2/db2/dr2/db2/dr8/g24/y2/g/4-db202060-dr880000-g006818-ye8c000/

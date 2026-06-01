@@ -1,8 +1,7 @@
 ---
-title: Drummond of Perth with 8 stripes
+title: "Drummond of Perth with 8 stripes"
 date: 2023-03-18
 ---
-
 
 ## Thread count
 N/10 DB6 R16 G32 Y2 DB6 N2 R/72

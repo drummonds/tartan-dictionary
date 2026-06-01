@@ -1,0 +1,27 @@
+---
+title: "Vassseur Mignon ({Personal)"
+date: 2023-03-18
+---
+The parent of this is [Vassseur Mignon ({Personal)](/tartans/r/4/y4/r4/y4/g10/na10/g22/n22/g10/na22/y/4/)
+
+
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10808/
+
+## Thread count
+R/4 Y4 R4 Y4 G10 Na10 G22 N22 G10 Na22 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | {{< c "#006818" >}} `#006818` | G {{< c "#006400" >}} | 0.02 |
+| N | {{< c "#5C5C5C" >}} `#5C5C5C` | B {{< c "#2C4084" >}} | 0.14 |
+| Na | {{< c "#888888" >}} `#888888` | R {{< c "#C80000" >}} | 0.24 |
+| R | {{< c "#C80000" >}} `#C80000` | R {{< c "#C80000" >}} | 0.00 |
+| Y | {{< c "#FCCC00" >}} `#FCCC00` | Y {{< c "#E8C000" >}} | 0.04 |
+
+ID: /variants/r/4/y4/r4/y4/g10/na10/g22/n22/g10/na22/y/4-g006818-n5c5c5c-na888888-rc80000-yfccc00/

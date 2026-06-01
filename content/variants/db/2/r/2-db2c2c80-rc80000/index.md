@@ -14,7 +14,12 @@ DB/2 R/2
 ![Sett](sett.png)
 
 ## Palette
-DB{{< c "#2C2C80" >}} R{{< c "#C80000" >}}
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | {{< c "#2C2C80" >}} `#2C2C80` | B {{< c "#2C4084" >}} | 0.05 |
+| R | {{< c "#C80000" >}} `#C80000` | R {{< c "#C80000" >}} | 0.00 |
 
 # Sample pattern
 

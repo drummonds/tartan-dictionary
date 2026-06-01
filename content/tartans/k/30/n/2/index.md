@@ -13,3 +13,5 @@ Each of these variants will have a different colour scheme and possibly scaling.
 |---------|
 | [Joy's Fancy, Allen (Personal)](/variants/k/30/n/2-k101010-nc0c0c0/)|
 |![Sett](/variants/k/30/n/2-k101010-nc0c0c0/sett.png)|
+| [Joy's Fancy, Allen (Personal)](/variants/k/30/n/2-k101010-nc0c0c0/)|
+|![Sett](/variants/k/30/n/2-k101010-nc0c0c0/sett.png)|

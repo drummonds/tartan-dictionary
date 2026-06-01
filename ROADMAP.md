@@ -58,3 +58,15 @@ The non-software aims from [`design/vision.md`](design/vision.md).
 - **Falkirk weaving kit** — a beginner kit to weave the **Falkirk tartan** (the oldest Scottish
   sett: a 2/2 twill, ~W8 K8, in the National Museum of Scotland). Pitch to the **National Museum
   of Scotland shop**. Connects the tradition's origin to a hands-on product and supports a maker.
+
+## Research threads
+
+Open historical-data questions that would enrich the family/clan pages.
+
+- **The 1822 "King's Jaunt" roll** — George IV's August 1822 visit to Edinburgh (stage-managed by
+  Walter Scott) gathered the clans in their "tails". The open question is whether a usable
+  *nominal* list of the ~5,000 Highlanders present can be assembled — almost certainly not as one
+  document, but possibly from Celtic Society membership, individual clan muster/tail lists, and
+  Scott's accounts. Feeds the clan-map and family pages (cf. `content/posts/ClanMap`). Note: the
+  event was **1822**, not 1823/1820 — correct the Megginch family date at the engine when next
+  regenerating.

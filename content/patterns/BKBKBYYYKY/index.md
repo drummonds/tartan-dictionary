@@ -16,7 +16,7 @@ BKBKBYYYKY
 
 | Tartans |
 |---------------|
-| [Sonsub](/tartans/nb/60/k10/nb38/k10/nb4/na40/y4/na40/k10/y/8/)|
-|![Sonsub example sett](/variants/nb/60/k10/nb38/k10/nb4/na40/y4/na40/k10/y/8-k101010-n443c3c-naa0a0a0-nb646464-yd0d40c/sett.png)|
-| [Sonsub (Corporate)](/tartans/na/60/k10/na38/k10/na4/n40/y4/n40/k10/y/8/)|
-|![Sonsub (Corporate) example sett](/variants/na/60/k10/na38/k10/na4/n40/y4/n40/k10/y/8-k101010-na0a0a0-na646464-yd0d40c/sett.png)|
+| [Sonsub](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/)|
+|![Sonsub example sett](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/sett.png)|
+| [Sonsub (Corporate)](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/)|
+|![Sonsub (Corporate) example sett](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/sett.png)|

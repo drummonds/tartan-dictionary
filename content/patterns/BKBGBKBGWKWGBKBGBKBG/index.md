@@ -16,5 +16,5 @@ BKBGBKBGWKWGBKBGBKBG
 
 | Tartans |
 |---------------|
-| [Wilson's No.149](/tartans/db/12/k14/db12/g22/b4/k4/b4/g22/ln4/k16/ln4/g22/b4/k4/b4/g22/db12/k14/db12/g/16/)|
-|![Wilson's No.149 example sett](/variants/db/12/k14/db12/g22/b4/k4/b4/g22/ln4/k16/ln4/g22/b4/k4/b4/g22/db12/k14/db12/g/16-b5c8ca8-db202060-dg003820-g006818-k101010-lne0e0e0/sett.png)|
+| [Wilson's No.149](/setts/s20/b12k14b12g22ba4k4ba4g22w4k16w4g22ba4k4ba4g22b12k14b12g16-b202060-ba5c8ca8-g006818-k101010-we0e0e0/)|
+|![Wilson's No.149 example sett](/setts/s20/b12k14b12g22ba4k4ba4g22w4k16w4g22ba4k4ba4g22b12k14b12g16-b202060-ba5c8ca8-g006818-k101010-we0e0e0/sett.png)|

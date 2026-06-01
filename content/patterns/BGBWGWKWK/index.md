@@ -16,5 +16,5 @@ BGBWGWKWK
 
 | Tartans |
 |---------------|
-| [Burns Heritage Check](/tartans/dr/5/g4/dr6/ln8/g13/ln12/k12/ln12/k/12/)|
-|![Burns Heritage Check example sett](/variants/dr/5/g4/dr6/ln8/g13/ln12/k12/ln12/k/12-dr401000-g008000-k000000-lne0e0e0/sett.png)|
+| [Burns Heritage Check](/setts/s9/b5g4b6w8g13w12k12w12k12-b401000-g008000-k000000-we0e0e0/)|
+|![Burns Heritage Check example sett](/setts/s9/b5g4b6w8g13w12k12w12k12-b401000-g008000-k000000-we0e0e0/sett.png)|

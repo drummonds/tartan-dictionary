@@ -16,5 +16,7 @@ BBYBWBBWBWB
 
 | Tartans |
 |---------------|
-| [Goil Dress](/tartans/b/84/db20/dy4/db4/n4/db4/b20/n12/db4/n6/b/4/)|
-|![Goil Dress example sett](/variants/b/84/db20/dy4/db4/n4/db4/b20/n12/db4/n6/b/4-b688ca4-db1c0070-dyd09800-nc0c0c0/sett.png)|
+| [Goil Dress](/setts/s11/b4w6ba4w12b20ba4w4ba4y4ba20b84-b688ca4-ba1c0070-wc0c0c0-yd09800/)|
+|![Goil Dress example sett](/setts/s11/b4w6ba4w12b20ba4w4ba4y4ba20b84-b688ca4-ba1c0070-wc0c0c0-yd09800/sett.png)|
+| [Goil Dress (Fashion)](/setts/s11/b4w6ba4w12b20ba4w4ba4y4ba20b84-b688ca4-ba1c0070-wc0c0c0-yd09800/)|
+|![Goil Dress (Fashion) example sett](/setts/s11/b4w6ba4w12b20ba4w4ba4y4ba20b84-b688ca4-ba1c0070-wc0c0c0-yd09800/sett.png)|

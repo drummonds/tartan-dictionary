@@ -6,7 +6,7 @@ BKBRGRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/12/k4/db52/dra30/g8/dr4/g/54-db2c2c80-dr880000-draa00000-g006818-k101010/tartan.png)
+![Woven sample](/setts/s7/b12k4b52r30g8ra4g54-b2c2c80-g006818-k101010-ra00000-ra880000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKBRGRG
 
 | Tartans |
 |---------------|
-| [Bailies of Bennachie](/tartans/db/12/k4/db52/dra30/g8/dr4/g/54/)|
-|![Bailies of Bennachie example sett](/variants/db/12/k4/db52/dra30/g8/dr4/g/54-db2c2c80-dr880000-draa00000-g006818-k101010/sett.png)|
+| [Bailies of Bennachie](/setts/s7/b12k4b52r30g8ra4g54-b2c2c80-g006818-k101010-ra00000-ra880000/)|
+|![Bailies of Bennachie example sett](/setts/s7/b12k4b52r30g8ra4g54-b2c2c80-g006818-k101010-ra00000-ra880000/sett.png)|
+| [Bailies of Bennachie (Corporate)](/setts/s7/b12k4b52r30g8ra4g54-b2c2c80-g006818-k101010-ra00000-ra880000/)|
+|![Bailies of Bennachie (Corporate) example sett](/setts/s7/b12k4b52r30g8ra4g54-b2c2c80-g006818-k101010-ra00000-ra880000/sett.png)|

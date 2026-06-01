@@ -6,7 +6,7 @@ BGKGWG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/g/22/w2/g22/k18/dg12/p/6-dg003820-g006818-k101010-p780078-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b12g24k36ga44w4ga44-b780078-g003820-ga006818-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGKGWG
 
 | Tartans |
 |---------------|
-| [Hibernian Football Club (Corporate)](/tartans/g/22/w2/g22/k18/dg12/p/6/)|
-|![Hibernian Football Club (Corporate) example sett](/variants/g/22/w2/g22/k18/dg12/p/6-dg003820-g006818-k101010-p780078-wfcfcfc/sett.png)|
+| [Hibernian Football Club (Corporate)](/setts/s6/b12g24k36ga44w4ga44-b780078-g003820-ga006818-k101010-wfcfcfc/)|
+|![Hibernian Football Club (Corporate) example sett](/setts/s6/b12g24k36ga44w4ga44-b780078-g003820-ga006818-k101010-wfcfcfc/sett.png)|

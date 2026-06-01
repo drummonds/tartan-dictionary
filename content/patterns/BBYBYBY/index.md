@@ -6,7 +6,7 @@ BBYBYBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/4/dba8/y2/db2/ya4/dba8/ya/4-db2c2c80-dba2c2c80-ye8c000-yae8c000/tartan.png)
+![Woven sample](/setts/s7/b24b48y12b12y24b48y24-b2c2c80-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYBYBY
 
 | Tartans |
 |---------------|
-| [Creek Indian Nation (District)](/tartans/db/4/dba8/y2/db2/ya4/dba8/ya/4/)|
-|![Creek Indian Nation (District) example sett](/variants/db/4/dba8/y2/db2/ya4/dba8/ya/4-db2c2c80-dba2c2c80-ye8c000-yae8c000/sett.png)|
+| [Creek Indian Nation (District)](/setts/s7/b24b48y12b12y24b48y24-b2c2c80-ye8c000/)|
+|![Creek Indian Nation (District) example sett](/setts/s7/b24b48y12b12y24b48y24-b2c2c80-ye8c000/sett.png)|

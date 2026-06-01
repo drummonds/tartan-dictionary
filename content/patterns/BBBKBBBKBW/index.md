@@ -16,5 +16,5 @@ BBBKBBBKBW
 
 | Tartans |
 |---------------|
-| [Spirit of Wales (Fashion)](/tartans/dn/8/p4/dn44/k4/dn2/db4/dn2/k4/db48/ln/4/)|
-|![Spirit of Wales (Fashion) example sett](/variants/dn/8/p4/dn44/k4/dn2/db4/dn2/k4/db48/ln/4-db202060-dn14283c-k101010-lne0e0e0-p780078/sett.png)|
+| [Spirit of Wales (Fashion)](/setts/s10/b8ba4b44k4b2bb4b2k4bb48w4-b14283c-ba780078-bb202060-k101010-we0e0e0/)|
+|![Spirit of Wales (Fashion) example sett](/setts/s10/b8ba4b44k4b2bb4b2k4bb48w4-b14283c-ba780078-bb202060-k101010-we0e0e0/sett.png)|

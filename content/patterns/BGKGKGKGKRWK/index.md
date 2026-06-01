@@ -16,5 +16,5 @@ BGKGKGKGKRWK
 
 | Tartans |
 |---------------|
-| [Alamudi (Corporate)](/tartans/db/2/g2/k4/g6/k10/g16/k26/g42/k68/dr6/ln6/k/26/)|
-|![Alamudi (Corporate) example sett](/variants/db/2/g2/k4/g6/k10/g16/k26/g42/k68/dr6/ln6/k/26-db282874-dr880000-g005830-k101010-lne0e0e0/sett.png)|
+| [Alamudi (Corporate)](/setts/s12/b1g1k2g3k5g8k13g21k34r3w3k13-b282874-g005830-k101010-r880000-we0e0e0/)|
+|![Alamudi (Corporate) example sett](/setts/s12/b1g1k2g3k5g8k13g21k34r3w3k13-b282874-g005830-k101010-r880000-we0e0e0/sett.png)|

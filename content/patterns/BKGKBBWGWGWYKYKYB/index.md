@@ -16,5 +16,5 @@ BKGKBBWGWGWYKYKYB
 
 | Tartans |
 |---------------|
-| [Bog Myrtle Corner](/tartans/db/56/y12/k4/y2/k4/y12/ly12/g4/ly2/g4/ly12/db56/n8/k10/g16/k10/n/8/)|
-|![Bog Myrtle Corner example sett](/variants/db/56/y12/k4/y2/k4/y12/ly12/g4/ly2/g4/ly12/db56/n8/k10/g16/k10/n/8-db202060-g285800-k101010-lyf8f4d0-n646464-ye8c000/sett.png)|
+| [Bog Myrtle Corner](/setts/s17/b56y12k4y2k4y12w12g4w2g4w12b56ba8k10g16k10ba8-b202060-ba646464-g285800-k101010-wf8f4d0-ye8c000/)|
+|![Bog Myrtle Corner example sett](/setts/s17/b56y12k4y2k4y12w12g4w2g4w12b56ba8k10g16k10ba8-b202060-ba646464-g285800-k101010-wf8f4d0-ye8c000/sett.png)|

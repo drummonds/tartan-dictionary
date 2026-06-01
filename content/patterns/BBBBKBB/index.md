@@ -6,7 +6,7 @@ BBBBKBB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/10/db60/k50/b10/db60/p4/b/10-b2888c4-db2c2c80-k101010-odc943c-oaec8048-p780078/tartan.png)
+![Woven sample](/setts/s7/b10ba60k50b10ba60bb4b10-b2888c4-ba2c2c80-bb780078-k101010/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBBBKBB
 
 | Tartans |
 |---------------|
-| [Van Loo (Personal)](/tartans/b/10/db60/k50/b10/db60/p4/b/10/)|
-|![Van Loo (Personal) example sett](/variants/b/10/db60/k50/b10/db60/p4/b/10-b2888c4-db2c2c80-k101010-odc943c-oaec8048-p780078/sett.png)|
-| [Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/10/db60/k50/b10/db60/p6/b/10/)|
-|![Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/10/db60/k50/b10/db60/p6/b/10-b2888c4-db2c2c80-k101010-p780078/sett.png)|
+| [Van Loo (Personal)](/setts/s7/b10ba60k50b10ba60bb4b10-b2888c4-ba2c2c80-bb780078-k101010/)|
+|![Van Loo (Personal) example sett](/setts/s7/b10ba60k50b10ba60bb4b10-b2888c4-ba2c2c80-bb780078-k101010/sett.png)|
+| [Van Loo (Personal)](/setts/s7/b10ba60k50b10ba60bb4b10-b2888c4-ba2c2c80-bb780078-k101010/)|
+|![Van Loo (Personal) example sett](/setts/s7/b10ba60k50b10ba60bb4b10-b2888c4-ba2c2c80-bb780078-k101010/sett.png)|
+| [Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b10ba60k50b10ba60bb6b10-b2888c4-ba2c2c80-bb780078-k101010/)|
+|![Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b10ba60k50b10ba60bb6b10-b2888c4-ba2c2c80-bb780078-k101010/sett.png)|

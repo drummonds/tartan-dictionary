@@ -16,5 +16,5 @@ BBBRBBBBGBW
 
 | Tartans |
 |---------------|
-| [Royal Highland Yacht Club (Corporate](/tartans/dba/52/db6/dba2/p4/dba2/db6/dba6/db24/g28/dba4/ln/4/)|
-|![Royal Highland Yacht Club (Corporate example sett](/variants/dba/52/db6/dba2/p4/dba2/db6/dba6/db24/g28/dba4/ln/4-db2c2c80-dba1c1c50-g006818-lne0e0e0-pa800a8/sett.png)|
+| [Royal Highland Yacht Club (Corporate](/setts/s11/b52ba6b2r4b2ba6b6ba24g28b4w4-b1c1c50-ba2c2c80-g006818-ra800a8-we0e0e0/)|
+|![Royal Highland Yacht Club (Corporate example sett](/setts/s11/b52ba6b2r4b2ba6b6ba24g28b4w4-b1c1c50-ba2c2c80-g006818-ra800a8-we0e0e0/sett.png)|

@@ -16,5 +16,7 @@ BBBBYWYWY
 
 | Tartans |
 |---------------|
-| [MacGrath (Personal)](/tartans/b/8/db2/b2/db2/y2/w24/y10/w2/y/12/)|
-|![MacGrath (Personal) example sett](/variants/b/8/db2/b2/db2/y2/w24/y10/w2/y/12-b2888c4-db2c2c80-wfcfcfc-yfcdc3c/sett.png)|
+| [MacGrath (Personal)](/setts/s9/b16ba4b4ba4y4w48y20w4y24-b2888c4-ba2c2c80-wfcfcfc-yfcdc3c/)|
+|![MacGrath (Personal) example sett](/setts/s9/b16ba4b4ba4y4w48y20w4y24-b2888c4-ba2c2c80-wfcfcfc-yfcdc3c/sett.png)|
+| [MacGrath (Personal)](/setts/s9/b16ba4b4ba4y4w48y20w4y24-b2888c4-ba2c2c80-wfcfcfc-yfcdc3c/)|
+|![MacGrath (Personal) example sett](/setts/s9/b16ba4b4ba4y4w48y20w4y24-b2888c4-ba2c2c80-wfcfcfc-yfcdc3c/sett.png)|

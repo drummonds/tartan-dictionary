@@ -16,5 +16,5 @@ BKBWBKBKBYB
 
 | Tartans |
 |---------------|
-| [Apollo 12 (Commemorative)](/tartans/db/4/k4/n24/lr2/n24/k8/n8/k12/n38/y2/db/10/)|
-|![Apollo 12 (Commemorative) example sett](/variants/db/4/k4/n24/lr2/n24/k8/n8/k12/n38/y2/db/10-db2c2c80-k101010-lre8ccb8-n5c5c5c-yfccc00/sett.png)|
+| [Apollo 12 (Commemorative)](/setts/s11/b10y2ba38k12ba8k8ba24w2ba24k4b4-b2c2c80-ba5c5c5c-k101010-we8ccb8-yfccc00/)|
+|![Apollo 12 (Commemorative) example sett](/setts/s11/b10y2ba38k12ba8k8ba24w2ba24k4b4-b2c2c80-ba5c5c5c-k101010-we8ccb8-yfccc00/sett.png)|

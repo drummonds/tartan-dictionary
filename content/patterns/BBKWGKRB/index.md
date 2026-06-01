@@ -6,7 +6,7 @@ BBKWGKRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/52/db26/k26/ln4/g16/k10/r6/b/6-b2888c4-db2c2c80-g006818-k101010-lne0e0e0-rc80000/tartan.png)
+![Woven sample](/setts/s8/b52ba26k26w4g16k10r6b6-b2888c4-ba2c2c80-g006818-k101010-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKWGKRB
 
 | Tartans |
 |---------------|
-| [Moran (Coilessan) (Personal)](/tartans/b/52/db26/k26/ln4/g16/k10/r6/b/6/)|
-|![Moran (Coilessan) (Personal) example sett](/variants/b/52/db26/k26/ln4/g16/k10/r6/b/6-b2888c4-db2c2c80-g006818-k101010-lne0e0e0-rc80000/sett.png)|
+| [Moran (Coilessan) (Personal)](/setts/s8/b52ba26k26w4g16k10r6b6-b2888c4-ba2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![Moran (Coilessan) (Personal) example sett](/setts/s8/b52ba26k26w4g16k10r6b6-b2888c4-ba2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|

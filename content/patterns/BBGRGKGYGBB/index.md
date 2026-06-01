@@ -16,7 +16,11 @@ BBGRGKGYGBB
 
 | Tartans |
 |---------------|
-| [Pendleton Dress](/tartans/db/6/dba40/dg34/r5/dg34/k6/dg34/y5/dg34/dba40/db/6/)|
-|![Pendleton Dress example sett](/variants/db/6/dba40/dg34/r5/dg34/k6/dg34/y5/dg34/dba40/db/6-db2c2c80-dba202060-dg003820-k101010-rc80000-ye8c000/sett.png)|
-| [Pendleton Hunting](/tartans/db/4/dba32/dg28/lt6/dg28/k6/dg28/r6/dg28/dba32/db/4/)|
-|![Pendleton Hunting example sett](/variants/db/4/dba32/dg28/lt6/dg28/k6/dg28/r6/dg28/dba32/db/4-db2c2c80-dba202060-dg003820-k101010-lta08858-rc80000/sett.png)|
+| [Pendleton Dress](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/)|
+|![Pendleton Dress example sett](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/sett.png)|
+| [Pendleton Hunting](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/)|
+|![Pendleton Hunting example sett](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/sett.png)|
+| [Pendleton Htg (Corporate)](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/)|
+|![Pendleton Htg (Corporate) example sett](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/sett.png)|
+| [Pendleton Dress (Corporate)](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/)|
+|![Pendleton Dress (Corporate) example sett](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/sett.png)|

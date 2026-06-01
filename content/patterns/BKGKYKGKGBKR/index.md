@@ -16,5 +16,5 @@ BKGKYKGKGBKR
 
 | Tartans |
 |---------------|
-| [Castlefield (Personal)](/tartans/n/4/k2/g16/k20/o20/k2/g10/k2/t20/n20/k30/na/6/)|
-|![Castlefield (Personal) example sett](/variants/n/4/k2/g16/k20/o20/k2/g10/k2/t20/n20/k30/na/6-g006818-k101010-n5c5c5c-na888888-od87c00-t604000/sett.png)|
+| [Castlefield (Personal)](/setts/s12/b4k2g16k20y20k2g10k2ga20b20k30r6-b5c5c5c-g006818-ga604000-k101010-r888888-yd87c00/)|
+|![Castlefield (Personal) example sett](/setts/s12/b4k2g16k20y20k2g10k2ga20b20k30r6-b5c5c5c-g006818-ga604000-k101010-r888888-yd87c00/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKGYKBKYGKBKB
 
 | Tartans |
 |---------------|
-| [Polaris Military](/tartans/b/12/k2/b2/k2/b2/k14/g12/dy2/k2/db2/k2/dy2/g12/k14/b14/k2/b/2/)|
-|![Polaris Military example sett](/variants/b/12/k2/b2/k2/b2/k14/g12/dy2/k2/db2/k2/dy2/g12/k14/b14/k2/b/2-b1474b4-db1c0070-dybc8c00-g006818-k101010/sett.png)|
+| [Polaris Military](/setts/s17/b24k4b4k4b4k28g24y4k4ba4k4y4g24k28b28k4b4-b1474b4-ba1c0070-g006818-k101010-ybc8c00/)|
+|![Polaris Military example sett](/setts/s17/b24k4b4k4b4k28g24y4k4ba4k4y4g24k28b28k4b4-b1474b4-ba1c0070-g006818-k101010-ybc8c00/sett.png)|

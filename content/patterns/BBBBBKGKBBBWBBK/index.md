@@ -16,5 +16,5 @@ BBBBBKGKBBBWBBK
 
 | Tartans |
 |---------------|
-| [Causeway, The (District)](/tartans/k/6/n2/db10/w2/n2/p3/n2/k2/g6/k2/n42/ka20/db3/n8/ka/38/)|
-|![Causeway, The (District) example sett](/variants/k/6/n2/db10/w2/n2/p3/n2/k2/g6/k2/n42/ka20/db3/n8/ka/38-db2c2c80-g006818-k101010-ka1c1c1c-n5c5c5c-p780078-wfcfcfc/sett.png)|
+| [Causeway, The (District)](/setts/s15/b38ba8bb3b20ba42k2g6k2ba2bc3ba2w2bb10ba2k6-b1c1c1c-ba5c5c5c-bb2c2c80-bc780078-g006818-k101010-wfcfcfc/)|
+|![Causeway, The (District) example sett](/setts/s15/b38ba8bb3b20ba42k2g6k2ba2bc3ba2w2bb10ba2k6-b1c1c1c-ba5c5c5c-bb2c2c80-bc780078-g006818-k101010-wfcfcfc/sett.png)|

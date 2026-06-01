@@ -6,7 +6,7 @@ BBGKBKB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/6/k6/db34/k40/g40/dp16/p/6-b688cc0-db040498-dp3c104c-g00643c-k000000-p880078/tartan.png)
+![Woven sample](/setts/s7/b6k6ba34k40g40bb16bc6-b688cc0-ba040498-bb3c104c-bc880078-g00643c-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGKBKB
 
 | Tartans |
 |---------------|
-| [Gracey (2013)](/tartans/b/6/k6/db34/k40/g40/dp16/p/6/)|
-|![Gracey (2013) example sett](/variants/b/6/k6/db34/k40/g40/dp16/p/6-b688cc0-db040498-dp3c104c-g00643c-k000000-p880078/sett.png)|
+| [Gracey (2013)](/setts/s7/b6k6ba34k40g40bb16bc6-b688cc0-ba040498-bb3c104c-bc880078-g00643c-k000000/)|
+|![Gracey (2013) example sett](/setts/s7/b6k6ba34k40g40bb16bc6-b688cc0-ba040498-bb3c104c-bc880078-g00643c-k000000/sett.png)|

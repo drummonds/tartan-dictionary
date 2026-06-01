@@ -16,5 +16,5 @@ BBWBWYBWBY
 
 | Tartans |
 |---------------|
-| [Stewart Navy Clan Tartan Tartan Number: 1117. Earliest known date: 1971 Stewart Navy See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/58/dr6/ln20/db4/ln4/lt20/db10/ln4/db8/lt/4/)|
-|![Stewart Navy Clan Tartan Tartan Number: 1117. Earliest known date: 1971 Stewart Navy See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/58/dr6/ln20/db4/ln4/lt20/db10/ln4/db8/lt/4-db003c64-dr680028-lne0e0e0-lta08858/sett.png)|
+| [Stewart Navy Clan Tartan Tartan Number: 1117. Earliest known date: 1971 Stewart Navy See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b58ba6w20b4w4y20b10w4b8y4-b003c64-ba680028-we0e0e0-ya08858/)|
+|![Stewart Navy Clan Tartan Tartan Number: 1117. Earliest known date: 1971 Stewart Navy See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b58ba6w20b4w4y20b10w4b8y4-b003c64-ba680028-we0e0e0-ya08858/sett.png)|

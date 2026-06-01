@@ -16,5 +16,7 @@ BGBBGGBGBG
 
 | Tartans |
 |---------------|
-| [Royal Scottish Agricultural Benevolent Institution](/tartans/k/6/g12/db24/k2/g48/t10/k10/t10/k10/t/10/)|
-|![Royal Scottish Agricultural Benevolent Institution example sett](/variants/k/6/g12/db24/k2/g48/t10/k10/t10/k10/t/10-db003478-g146400-k3c2010-t845800/sett.png)|
+| [Royal Scottish Agricultural Benevolent Institution](/setts/s10/b6g12ba24b2g48ga10b10ga10b10ga10-b3c2010-ba003478-g146400-ga845800/)|
+|![Royal Scottish Agricultural Benevolent Institution example sett](/setts/s10/b6g12ba24b2g48ga10b10ga10b10ga10-b3c2010-ba003478-g146400-ga845800/sett.png)|
+| [RSABI (Corporate)](/setts/s10/b6g12ba24b2g48ga10b10ga10b10ga10-b3c2010-ba003478-g146400-ga845800/)|
+|![RSABI (Corporate) example sett](/setts/s10/b6g12ba24b2g48ga10b10ga10b10ga10-b3c2010-ba003478-g146400-ga845800/sett.png)|

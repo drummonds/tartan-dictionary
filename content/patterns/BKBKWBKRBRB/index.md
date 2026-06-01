@@ -16,5 +16,7 @@ BKBKWBKRBRB
 
 | Tartans |
 |---------------|
-| [Ibrox](/tartans/db/4/k4/db36/k26/ln4/db20/k14/r8/db4/r4/db/8/)|
-|![Ibrox example sett](/variants/db/4/k4/db36/k26/ln4/db20/k14/r8/db4/r4/db/8-db2c2c80-k101010-lne0e0e0-rc80000/sett.png)|
+| [Ibrox](/setts/s11/b16r8b8r16k28b40w8k52b72k8b8-b2c2c80-k101010-rc80000-we0e0e0/)|
+|![Ibrox example sett](/setts/s11/b16r8b8r16k28b40w8k52b72k8b8-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
+| [Ibrox (Fashion)](/setts/s11/b16r8b8r16k28b40w8k52b72k8b8-b2c2c80-k101010-rc80000-we0e0e0/)|
+|![Ibrox (Fashion) example sett](/setts/s11/b16r8b8r16k28b40w8k52b72k8b8-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|

@@ -16,5 +16,7 @@ BBKBBRKRKBR
 
 | Tartans |
 |---------------|
-| [Hudson (Personal)](/tartans/db/8/b4/k4/db24/b8/dr12/k12/dr56/k4/b4/dr/6/)|
-|![Hudson (Personal) example sett](/variants/db/8/b4/k4/db24/b8/dr12/k12/dr56/k4/b4/dr/6-b788cb4-db00008c-dr8c0000-dyc88c00-g007800-k000000-nc8c8c8-p64008c/sett.png)|
+| [Hudson (Personal)](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/)|
+|![Hudson (Personal) example sett](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/sett.png)|
+| [Hudson (Personal)](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/)|
+|![Hudson (Personal) example sett](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/sett.png)|

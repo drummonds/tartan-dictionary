@@ -16,5 +16,5 @@ BBGBGBBGBYBGGBBBBBG
 
 | Tartans |
 |---------------|
-| [O'Connor, Hugh (Personal)](/tartans/db/24/dp2/dg4/dp2/dg4/dp2/db24/g4/dp24/y2/dp24/g4/dg24/dp2/db4/dp2/db4/dp2/dg/24/)|
-|![O'Connor, Hugh (Personal) example sett](/variants/db/24/dp2/dg4/dp2/dg4/dp2/db24/g4/dp24/y2/dp24/g4/dg24/dp2/db4/dp2/db4/dp2/dg/24-db000048-dg003c14-dp440044-g289c18-yfccc00/sett.png)|
+| [O'Connor, Hugh (Personal)](/setts/s19/b24ba2g4ba2g4ba2b24ga4ba24y2ba24ga4g24ba2b4ba2b4ba2g24-b000048-ba440044-g003c14-ga289c18-yfccc00/)|
+|![O'Connor, Hugh (Personal) example sett](/setts/s19/b24ba2g4ba2g4ba2b24ga4ba24y2ba24ga4g24ba2b4ba2b4ba2g24-b000048-ba440044-g003c14-ga289c18-yfccc00/sett.png)|

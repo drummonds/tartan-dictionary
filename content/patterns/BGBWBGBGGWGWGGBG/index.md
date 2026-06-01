@@ -16,5 +16,5 @@ BGBWBGBGGWGWGGBG
 
 | Tartans |
 |---------------|
-| [Stuart-Houghton Hunting (Personal)](/tartans/db/22/n8/db8/ly4/db8/n8/db22/dga52/n8/ly6/n8/ly4/n28/dg20/db32/dg/12/)|
-|![Stuart-Houghton Hunting (Personal) example sett](/variants/db/22/n8/db8/ly4/db8/n8/db22/dga52/n8/ly6/n8/ly4/n28/dg20/db32/dg/12-db141e46-dg003c14-dga003c14-lyf8f4d0-n808080/sett.png)|
+| [Stuart-Houghton Hunting (Personal)](/setts/s16/b22g8b8w4b8g8b22ga52g8w6g8w4g28ga20b32ga12-b141e46-g808080-ga003c14-wf8f4d0/)|
+|![Stuart-Houghton Hunting (Personal) example sett](/setts/s16/b22g8b8w4b8g8b22ga52g8w6g8w4g28ga20b32ga12-b141e46-g808080-ga003c14-wf8f4d0/sett.png)|

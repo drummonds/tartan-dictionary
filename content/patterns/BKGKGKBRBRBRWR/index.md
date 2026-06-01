@@ -16,7 +16,9 @@ BKGKGKBRBRBRWR
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Old](/tartans/b/10/k4/g4/k4/g4/k4/b16/r6/b6/r6/b16/r6/ln10/r/6/)|
-|![Stuart/Stewart Old example sett](/variants/b/10/k4/g4/k4/g4/k4/b16/r6/b6/r6/b16/r6/ln10/r/6-b2c4084-g005020-k101010-lne0e0e0-rdc0000/sett.png)|
-| [Wcwm 1138](/tartans/db/28/k4/g6/k4/g6/k4/db24/dr8/db20/dr6/db20/dr8/n56/dr/8/)|
-|![Wcwm 1138 example sett](/variants/db/28/k4/g6/k4/g6/k4/db24/dr8/db20/dr6/db20/dr8/n56/dr/8-db1c0070-dr880000-g006818-k101010-nc0c0c0/sett.png)|
+| [Stuart/Stewart Old](/setts/s14/b10k4g4k4g4k4b16r6b6r6b16r6w10r6-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
+|![Stuart/Stewart Old example sett](/setts/s14/b10k4g4k4g4k4b16r6b6r6b16r6w10r6-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
+| [Wcwm 1138](/setts/s14/b28k4g6k4g6k4b24r8b20r6b20r8w56r8-b1c0070-g006818-k101010-r880000-wc0c0c0/)|
+|![Wcwm 1138 example sett](/setts/s14/b28k4g6k4g6k4b24r8b20r6b20r8w56r8-b1c0070-g006818-k101010-r880000-wc0c0c0/sett.png)|
+| [Stewart Old](/setts/s14/b10k4g4k4g4k4b16r6b6r6b16r6w10r6-b304080-g008000-k000000-rc00000-we0e0e0/)|
+|![Stewart Old example sett](/setts/s14/b10k4g4k4g4k4b16r6b6r6b16r6w10r6-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|

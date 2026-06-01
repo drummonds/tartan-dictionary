@@ -16,5 +16,5 @@ BGGGWGYGGGB
 
 | Tartans |
 |---------------|
-| [Manx, hunting](/tartans/b/76/dg2/n22/dg2/ln8/dg2/y8/dg2/g40/dg2/ba/12/)|
-|![Manx, hunting example sett](/variants/b/76/dg2/n22/dg2/ln8/dg2/y8/dg2/g40/dg2/ba/12-b304080-ba5480b0-dg003000-g008000-lne0e0e0-n808080-yf0c000/sett.png)|
+| [Manx, hunting](/setts/s11/b76g2ga22g2w8g2y8g2gb40g2ba12-b304080-ba5480b0-g003000-ga808080-gb008000-we0e0e0-yf0c000/)|
+|![Manx, hunting example sett](/setts/s11/b76g2ga22g2w8g2y8g2gb40g2ba12-b304080-ba5480b0-g003000-ga808080-gb008000-we0e0e0-yf0c000/sett.png)|

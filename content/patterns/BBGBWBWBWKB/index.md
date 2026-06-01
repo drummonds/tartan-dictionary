@@ -16,5 +16,7 @@ BBGBWBWBWKB
 
 | Tartans |
 |---------------|
-| [Lorne Dress (Dance)](/tartans/b/6/k2/ln64/b4/ln4/b4/ln4/b40/g40/b2/db/6/)|
-|![Lorne Dress (Dance) example sett](/variants/b/6/k2/ln64/b4/ln4/b4/ln4/b40/g40/b2/db/6-b3850c8-db202060-g006818-k101010-lne0e0e0/sett.png)|
+| [Lorne Dress (Dance)](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g006818-k101010-we0e0e0/)|
+|![Lorne Dress (Dance) example sett](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g006818-k101010-we0e0e0/sett.png)|
+| [Lorne Dress (Dance)](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g289c18-k101010-we0e0e0/)|
+|![Lorne Dress (Dance) example sett](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g289c18-k101010-we0e0e0/sett.png)|

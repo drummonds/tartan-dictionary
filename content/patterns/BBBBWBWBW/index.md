@@ -16,5 +16,5 @@ BBBBWBWBW
 
 | Tartans |
 |---------------|
-| [Lindsay (Dance)](/tartans/dr/6/b4/dr62/b28/w4/b4/w4/b4/w/58/)|
-|![Lindsay (Dance) example sett](/variants/dr/6/b4/dr62/b28/w4/b4/w4/b4/w/58-b406c84-dr680028-wfcfcfc/sett.png)|
+| [Lindsay (Dance)](/setts/s9/b6ba4b62ba28w4ba4w4ba4w58-b680028-ba406c84-wfcfcfc/)|
+|![Lindsay (Dance) example sett](/setts/s9/b6ba4b62ba28w4ba4w4ba4w58-b680028-ba406c84-wfcfcfc/sett.png)|

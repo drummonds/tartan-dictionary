@@ -16,5 +16,5 @@ BGBGBKRKRKRKRKRKRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Isle of Arran (Lochcarron) (Fashion)](/tartans/dp/80/g4/dp4/g4/dp4/ka14/ra2/ka4/ra4/ka4/ra4/ka2/ra6/k4/ra6/ka2/ra4/ka4/ra4/ka4/ra2/ka14/r20/ka4/r/8/)|
-|![Isle of Arran (Lochcarron) (Fashion) example sett](/variants/dp/80/g4/dp4/g4/dp4/ka14/ra2/ka4/ra4/ka4/ra4/ka2/ra6/k4/ra6/ka2/ra4/ka4/ra4/ka4/ra2/ka14/r20/ka4/r/8-dp440044-g006818-k101010-ka101010-rc8002c-rac8002c/sett.png)|
+| [Isle of Arran (Lochcarron) (Fashion)](/setts/s25/b80g4b4g4b4k14r2k4r4k4r4k2r6k4r6k2r4k4r4k4r2k14r20k4r8-b440044-g006818-k101010-rc8002c/)|
+|![Isle of Arran (Lochcarron) (Fashion) example sett](/setts/s25/b80g4b4g4b4k14r2k4r4k4r4k2r6k4r6k2r4k4r4k4r2k14r20k4r8-b440044-g006818-k101010-rc8002c/sett.png)|

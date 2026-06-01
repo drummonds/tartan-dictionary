@@ -6,7 +6,7 @@ BKBKKBKB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/30/k4/dba4/wy30/r6/db42/r6/dba/30-db00008c-dba00008c-k000000/tartan.png)
+![Woven sample](/setts/s8/b30k4b4k30k6b42k6b30-b00008c-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKKBKB
 
 | Tartans |
 |---------------|
-| [Loyalhanna (District?)](/tartans/db/30/k4/dba4/wy30/r6/db42/r6/dba/30/)|
-|![Loyalhanna (District?) example sett](/variants/db/30/k4/dba4/wy30/r6/db42/r6/dba/30-db00008c-dba00008c-k000000/sett.png)|
+| [Loyalhanna (District?)](/setts/s8/b30k4b4k30k6b42k6b30-b00008c-k000000/)|
+|![Loyalhanna (District?) example sett](/setts/s8/b30k4b4k30k6b42k6b30-b00008c-k000000/sett.png)|

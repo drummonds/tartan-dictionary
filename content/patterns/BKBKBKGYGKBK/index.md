@@ -16,5 +16,7 @@ BKBKBKGYGKBK
 
 | Tartans |
 |---------------|
-| [Gordon](/tartans/b/10/k2/b2/k2/b2/k8/g10/y2/g10/k8/b12/k/2/)|
-|![Gordon example sett](/variants/b/10/k2/b2/k2/b2/k8/g10/y2/g10/k8/b12/k/2-b2c4084-g005020-k101010-ye8c000/sett.png)|
+| [Gordon](/setts/s12/b20k4b4k4b4k16g20y4g20k16b24k4-b2c4084-g005020-k101010-ye8c000/)|
+|![Gordon example sett](/setts/s12/b20k4b4k4b4k16g20y4g20k16b24k4-b2c4084-g005020-k101010-ye8c000/sett.png)|
+| [Gordon 5](/setts/s12/b20k4b4k4b4k16g20y4g20k16b24k4-b304080-g008000-k000000-yf0c000/)|
+|![Gordon 5 example sett](/setts/s12/b20k4b4k4b4k16g20y4g20k16b24k4-b304080-g008000-k000000-yf0c000/sett.png)|

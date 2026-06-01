@@ -16,5 +16,5 @@ BKBKBKGKGKGKBKW
 
 | Tartans |
 |---------------|
-| [Glengoyne, Distillery](/tartans/b/22/k6/b6/k6/b6/k18/g18/k2/lg6/k2/g18/k18/b18/k2/ln/6/)|
-|![Glengoyne, Distillery example sett](/variants/b/22/k6/b6/k6/b6/k18/g18/k2/lg6/k2/g18/k18/b18/k2/ln/6-b304080-g006030-k000000-lg908000-lne0e0e0/sett.png)|
+| [Glengoyne, Distillery](/setts/s15/b22k6b6k6b6k18g18k2ga6k2g18k18b18k2w6-b304080-g006030-ga908000-k000000-we0e0e0/)|
+|![Glengoyne, Distillery example sett](/setts/s15/b22k6b6k6b6k18g18k2ga6k2g18k18b18k2w6-b304080-g006030-ga908000-k000000-we0e0e0/sett.png)|

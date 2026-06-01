@@ -16,5 +16,5 @@ BKBKBKBKBKBKBKBKBKBKGKBKBKBKBKBKB
 
 | Tartans |
 |---------------|
-| [MacDonald, Flora (Artefact)](/tartans/ba/48/kb8/ba8/kb8/ba8/kb44/b28/ka8/b8/ka8/b16/kb2/g12/kb2/b16/ka8/b8/ka8/b28/kb44/ba36/ka48/ba36/kb44/ba48/k12/ba48/kb44/ba8/kb8/ba8/kb8/ba/48/)|
-|![MacDonald, Flora (Artefact) example sett](/variants/ba/48/kb8/ba8/kb8/ba8/kb44/b28/ka8/b8/ka8/b16/kb2/g12/kb2/b16/ka8/b8/ka8/b28/kb44/ba36/ka48/ba36/kb44/ba48/k12/ba48/kb44/ba8/kb8/ba8/kb8/ba/48-b1474b4-ba1474b4-g006818-k101010-ka101010-kb101010/sett.png)|
+| [MacDonald, Flora (Artefact)](/setts/s33/b24k4b4k4b4k22b14k4b4k4b8k1g6k1b8k4b4k4b14k22b18k24b18k22b24k6b24k22b4k4b4k4b24-b1474b4-g006818-k101010/)|
+|![MacDonald, Flora (Artefact) example sett](/setts/s33/b24k4b4k4b4k22b14k4b4k4b8k1g6k1b8k4b4k4b14k22b18k24b18k22b24k6b24k22b4k4b4k4b24-b1474b4-g006818-k101010/sett.png)|

@@ -6,7 +6,7 @@ BGBKGBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/8/g4/ba16/k6/ga40/b4/r/12-b8080d0-ba304080-g30a010-ga008000-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s7/b8g4ba16k6ga40b4r12-b8080d0-ba304080-g30a010-ga008000-k000000-rc00000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBKGBR
 
 | Tartans |
 |---------------|
-| [Royal British Legion, The](/tartans/b/8/g4/ba16/k6/ga40/b4/r/12/)|
-|![Royal British Legion, The example sett](/variants/b/8/g4/ba16/k6/ga40/b4/r/12-b8080d0-ba304080-g30a010-ga008000-k000000-rc00000/sett.png)|
+| [Royal British Legion, The](/setts/s7/b8g4ba16k6ga40b4r12-b8080d0-ba304080-g30a010-ga008000-k000000-rc00000/)|
+|![Royal British Legion, The example sett](/setts/s7/b8g4ba16k6ga40b4r12-b8080d0-ba304080-g30a010-ga008000-k000000-rc00000/sett.png)|

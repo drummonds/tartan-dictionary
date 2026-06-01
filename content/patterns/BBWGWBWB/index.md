@@ -6,7 +6,7 @@ BBWGWBWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/26/dr16/w10/k48/w10/dr20/w10/dr/20-db3d2e60-dr72393f-k23321b-wf9f5ef/tartan.png)
+![Woven sample](/setts/s8/b26ba16w10g48w10ba20w10ba20-b3d2e60-ba72393f-g23321b-wf9f5ef/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWGWBWB
 
 | Tartans |
 |---------------|
-| [Chaudhri, Zafar Iqbal](/tartans/db/26/dr16/w10/k48/w10/dr20/w10/dr/20/)|
-|![Chaudhri, Zafar Iqbal example sett](/variants/db/26/dr16/w10/k48/w10/dr20/w10/dr/20-db3d2e60-dr72393f-k23321b-wf9f5ef/sett.png)|
+| [Chaudhri, Zafar Iqbal](/setts/s8/b26ba16w10g48w10ba20w10ba20-b3d2e60-ba72393f-g23321b-wf9f5ef/)|
+|![Chaudhri, Zafar Iqbal example sett](/setts/s8/b26ba16w10g48w10ba20w10ba20-b3d2e60-ba72393f-g23321b-wf9f5ef/sett.png)|

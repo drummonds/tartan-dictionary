@@ -16,5 +16,7 @@ BKBKBKBKBKBYBKBKBKBKBKW
 
 | Tartans |
 |---------------|
-| [Made in Scotland](/tartans/p/4/k4/b4/k2/b4/k2/b4/k2/b4/k2/b40/o4/b40/k2/b4/k2/b4/k2/b4/k2/b4/k18/w/6/)|
-|![Made in Scotland example sett](/variants/p/4/k4/b4/k2/b4/k2/b4/k2/b4/k2/b40/o4/b40/k2/b4/k2/b4/k2/b4/k2/b4/k18/w/6-b2888c4-k101010-od87c00-p9058d8-wfcfcfc/sett.png)|
+| [Made in Scotland](/setts/s23/b4k4ba4k2ba4k2ba4k2ba4k2ba40y4ba40k2ba4k2ba4k2ba4k2ba4k18w6-b9058d8-ba2888c4-k101010-wfcfcfc-yd87c00/)|
+|![Made in Scotland example sett](/setts/s23/b4k4ba4k2ba4k2ba4k2ba4k2ba40y4ba40k2ba4k2ba4k2ba4k2ba4k18w6-b9058d8-ba2888c4-k101010-wfcfcfc-yd87c00/sett.png)|
+| [Made in Scotland (Corporate)](/setts/s23/b4k4ba4k2ba4k2ba4k2ba4k2ba40y4ba40k2ba4k2ba4k2ba4k2ba4k18w6-b9058d8-ba2888c4-k101010-wfcfcfc-yd87c00/)|
+|![Made in Scotland (Corporate) example sett](/setts/s23/b4k4ba4k2ba4k2ba4k2ba4k2ba40y4ba40k2ba4k2ba4k2ba4k2ba4k18w6-b9058d8-ba2888c4-k101010-wfcfcfc-yd87c00/sett.png)|

@@ -16,7 +16,7 @@ BGKRRGRGB
 
 | Tartans |
 |---------------|
-| [Murray of Abercairney (Personal)](/tartans/b/6/n2/k2/r24/ra2/g18/ra2/n2/b/6/)|
-|![Murray of Abercairney (Personal) example sett](/variants/b/6/n2/k2/r24/ra2/g18/ra2/n2/b/6-b3c82af-g005020-k101010-n808080-rdc0000-rac82828/sett.png)|
-| [Murray of Abercairney](/tartans/b/6/n2/k2/ra24/r2/g18/r2/n2/b/6/)|
-|![Murray of Abercairney example sett](/variants/b/6/n2/k2/ra24/r2/g18/r2/n2/b/6-b5480b0-g008000-k000000-n808080-rd03030-rac00000/sett.png)|
+| [Murray of Abercairney (Personal)](/setts/s9/b6g2k2r24ra2ga18ra2g2b6-b3c82af-g808080-ga005020-k101010-rdc0000-rac82828/)|
+|![Murray of Abercairney (Personal) example sett](/setts/s9/b6g2k2r24ra2ga18ra2g2b6-b3c82af-g808080-ga005020-k101010-rdc0000-rac82828/sett.png)|
+| [Murray of Abercairney](/setts/s9/b6g2k2r24ra2ga18ra2g2b6-b5480b0-g808080-ga008000-k000000-rc00000-rad03030/)|
+|![Murray of Abercairney example sett](/setts/s9/b6g2k2r24ra2ga18ra2g2b6-b5480b0-g808080-ga008000-k000000-rc00000-rad03030/sett.png)|

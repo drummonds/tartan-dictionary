@@ -6,7 +6,7 @@ BBBKGRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/n/8/dr8/n44/k30/na44/b8/na/10-b607c88-dr982c2c-k101010-n406454-na445464/tartan.png)
+![Woven sample](/setts/s7/b10ba8b44k30g44r8g8-b445464-ba607c88-g406454-k101010-r982c2c/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBBKGRG
 
 | Tartans |
 |---------------|
-| [Cairngorm #2](/tartans/n/8/dr8/n44/k30/na44/b8/na/10/)|
-|![Cairngorm #2 example sett](/variants/n/8/dr8/n44/k30/na44/b8/na/10-b607c88-dr982c2c-k101010-n406454-na445464/sett.png)|
-| [Wcwm 9275-1395](/tartans/db/6/dp3/db56/k24/g6/lr6/g/6/)|
-|![Wcwm 9275-1395 example sett](/variants/db/6/dp3/db56/k24/g6/lr6/g/6-db1c0070-dp440044-g006818-k101010-lre87878/sett.png)|
+| [Cairngorm #2](/setts/s7/b10ba8b44k30g44r8g8-b445464-ba607c88-g406454-k101010-r982c2c/)|
+|![Cairngorm #2 example sett](/setts/s7/b10ba8b44k30g44r8g8-b445464-ba607c88-g406454-k101010-r982c2c/sett.png)|
+| [Wcwm 9275-1395](/setts/s7/b6ba3b56k24g6r6g6-b1c0070-ba440044-g006818-k101010-re87878/)|
+|![Wcwm 9275-1395 example sett](/setts/s7/b6ba3b56k24g6r6g6-b1c0070-ba440044-g006818-k101010-re87878/sett.png)|
+| [Cairngorm #2](/setts/s7/b10ba8b44k30g44r8g8-b445464-ba607c88-g406454-k101010-r982c2c/)|
+|![Cairngorm #2 example sett](/setts/s7/b10ba8b44k30g44r8g8-b445464-ba607c88-g406454-k101010-r982c2c/sett.png)|

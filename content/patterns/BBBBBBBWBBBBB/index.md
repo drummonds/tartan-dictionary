@@ -16,7 +16,7 @@ BBBBBBBWBBBBB
 
 | Tartans |
 |---------------|
-| [Poulter Sandwich](/tartans/dp/13/b14/dp68/b69/db72/lb13/db72/b69/dp13/b14/dp13/b14/dp/69/)|
-|![Poulter Sandwich example sett](/variants/dp/13/b14/dp68/b69/db72/lb13/db72/b69/dp13/b14/dp13/b14/dp/69-b1870a4-db141e46-dp440044-lb98c8e8/sett.png)|
-| [Poulter Sandwich](/tartans/p/7/b7/p35/b35/db36/lb7/db36/b35/p7/b7/p7/b7/p/35/)|
-|![Poulter Sandwich example sett](/variants/p/7/b7/p35/b35/db36/lb7/db36/b35/p7/b7/p7/b7/p/35-b1474b4-db003c64-lb98c8e8-p780078/sett.png)|
+| [Poulter Sandwich](/setts/s13/b13ba14b68ba69bb72w13bb72ba69b13ba14b13ba14b69-b440044-ba1870a4-bb141e46-w98c8e8/)|
+|![Poulter Sandwich example sett](/setts/s13/b13ba14b68ba69bb72w13bb72ba69b13ba14b13ba14b69-b440044-ba1870a4-bb141e46-w98c8e8/sett.png)|
+| [Poulter Sandwich](/setts/s13/b35ba7b7ba7b7ba35bb36w7bb36ba35b35ba7b7-b780078-ba1474b4-bb003c64-w98c8e8/)|
+|![Poulter Sandwich example sett](/setts/s13/b35ba7b7ba7b7ba35bb36w7bb36ba35b35ba7b7-b780078-ba1474b4-bb003c64-w98c8e8/sett.png)|

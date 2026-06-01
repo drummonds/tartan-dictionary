@@ -16,5 +16,5 @@ BGBGBGBGKGKGKGBGBGBGBR
 
 | Tartans |
 |---------------|
-| [Walker Hunting](/tartans/db/4/g14/db30/g6/db6/g6/db14/g56/k14/g12/k4/g12/k14/g56/db14/g6/db6/g6/db30/g14/db4/r/8/)|
-|![Walker Hunting example sett](/variants/db/4/g14/db30/g6/db6/g6/db14/g56/k14/g12/k4/g12/k14/g56/db14/g6/db6/g6/db30/g14/db4/r/8-db202060-dg003820-g205034-k101010-rc80000/sett.png)|
+| [Walker Hunting](/setts/s22/b4g14b30g6b6g6b14g56k14g12k4g12k14g56b14g6b6g6b30g14b4r8-b202060-g205034-k101010-rc80000/)|
+|![Walker Hunting example sett](/setts/s22/b4g14b30g6b6g6b14g56k14g12k4g12k14g56b14g6b6g6b30g14b4r8-b202060-g205034-k101010-rc80000/sett.png)|

@@ -16,5 +16,5 @@ BBBBGRYBGB
 
 | Tartans |
 |---------------|
-| [Lyon, Jeffrey M (Hunting) (Personal)](/tartans/b/60/ba2/b2/ba32/g10/r10/y4/ba4/t30/ba/2/)|
-|![Lyon, Jeffrey M (Hunting) (Personal) example sett](/variants/b/60/ba2/b2/ba32/g10/r10/y4/ba4/t30/ba/2-b5c8ca8-ba1870a4-g288028-rc80000-t604000-ye8c000/sett.png)|
+| [Lyon, Jeffrey M (Hunting) (Personal)](/setts/s10/b2g30b4y4r10ga10b32ba2b2ba60-b1870a4-ba5c8ca8-g604000-ga288028-rc80000-ye8c000/)|
+|![Lyon, Jeffrey M (Hunting) (Personal) example sett](/setts/s10/b2g30b4y4r10ga10b32ba2b2ba60-b1870a4-ba5c8ca8-g604000-ga288028-rc80000-ye8c000/sett.png)|

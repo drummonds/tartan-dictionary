@@ -6,7 +6,7 @@ BGRGWRRG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/4/n2/do2/dg12/ly6/do6/do2/n/2-b2c4084-dg003c14-dobe7832-lyf5dca0-n808080/tartan.png)
+![Woven sample](/setts/s8/b2g1r1ga6w3r3r1g1-b2c4084-g808080-ga003c14-rbe7832-wf5dca0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRGWRRG
 
 | Tartans |
 |---------------|
-| [Equorian Olympic](/tartans/b/4/n2/do2/dg12/ly6/do6/do2/n/2/)|
-|![Equorian Olympic example sett](/variants/b/4/n2/do2/dg12/ly6/do6/do2/n/2-b2c4084-dg003c14-dobe7832-lyf5dca0-n808080/sett.png)|
+| [Equorian Olympic](/setts/s8/b2g1r1ga6w3r3r1g1-b2c4084-g808080-ga003c14-rbe7832-wf5dca0/)|
+|![Equorian Olympic example sett](/setts/s8/b2g1r1ga6w3r3r1g1-b2c4084-g808080-ga003c14-rbe7832-wf5dca0/sett.png)|

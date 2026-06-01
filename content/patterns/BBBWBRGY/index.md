@@ -6,7 +6,7 @@ BBBWBRGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/10/b86/db36/lr8/b12/dr10/t50/dy/10-b1474b4-db003c64-dr880000-dybc8c00-lre8ccb8-t604000/tartan.png)
+![Woven sample](/setts/s8/b10ba86b36w8ba12r10g50y10-b003c64-ba1474b4-g604000-r880000-we8ccb8-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBWBRGY
 
 | Tartans |
 |---------------|
-| [State Seal of Iowa (Fashion)](/tartans/db/10/b86/db36/lr8/b12/dr10/t50/dy/10/)|
-|![State Seal of Iowa (Fashion) example sett](/variants/db/10/b86/db36/lr8/b12/dr10/t50/dy/10-b1474b4-db003c64-dr880000-dybc8c00-lre8ccb8-t604000/sett.png)|
+| [State Seal of Iowa (Fashion)](/setts/s8/b10ba86b36w8ba12r10g50y10-b003c64-ba1474b4-g604000-r880000-we8ccb8-ybc8c00/)|
+|![State Seal of Iowa (Fashion) example sett](/setts/s8/b10ba86b36w8ba12r10g50y10-b003c64-ba1474b4-g604000-r880000-we8ccb8-ybc8c00/sett.png)|

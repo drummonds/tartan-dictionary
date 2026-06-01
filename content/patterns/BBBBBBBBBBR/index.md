@@ -16,5 +16,7 @@ BBBBBBBBBBR
 
 | Tartans |
 |---------------|
-| [Royal Delight](/tartans/dr/6/dp4/db36/p6/dp4/p6/db36/dp6/p24/dp24/p/6/)|
-|![Royal Delight example sett](/variants/dr/6/dp4/db36/p6/dp4/p6/db36/dp6/p24/dp24/p/6-db180064-dp4c1864-dr8c0000-p640064/sett.png)|
+| [Royal Delight](/setts/s11/b6ba24b24ba6bb36b6ba4b6bb36ba4r6-b640064-ba4c1864-bb180064-r8c0000/)|
+|![Royal Delight example sett](/setts/s11/b6ba24b24ba6bb36b6ba4b6bb36ba4r6-b640064-ba4c1864-bb180064-r8c0000/sett.png)|
+| [Royal Delight (Fashion)](/setts/s11/b6ba24b24ba6bb36b6ba4b6bb36ba4r6-b640064-ba4c1864-bb180064-r8c0000/)|
+|![Royal Delight (Fashion) example sett](/setts/s11/b6ba24b24ba6bb36b6ba4b6bb36ba4r6-b640064-ba4c1864-bb180064-r8c0000/sett.png)|

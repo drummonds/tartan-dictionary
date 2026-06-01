@@ -16,5 +16,5 @@ BKGBKBKGKBKBGKB
 
 | Tartans |
 |---------------|
-| [Letham Hunting (Name)](/tartans/p/4/k4/g12/b8/k4/b10/k8/g40/k8/db10/k4/b8/g12/k4/p/4/)|
-|![Letham Hunting (Name) example sett](/variants/p/4/k4/g12/b8/k4/b10/k8/g40/k8/db10/k4/b8/g12/k4/p/4-b2888c4-db2c2c80-g006818-k101010-p780078/sett.png)|
+| [Letham Hunting (Name)](/setts/s15/b4k4g12ba8k4ba10k8g40k8bb10k4ba8g12k4b4-b780078-ba2888c4-bb2c2c80-g006818-k101010/)|
+|![Letham Hunting (Name) example sett](/setts/s15/b4k4g12ba8k4ba10k8g40k8bb10k4ba8g12k4b4-b780078-ba2888c4-bb2c2c80-g006818-k101010/sett.png)|

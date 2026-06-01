@@ -6,7 +6,7 @@ BGRGRG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/4/dg24/lt6/dg16/lt28/dg/4-b788cb4-db00008c-dg003014-dr8c0000-dyc88c00-k000000-lta0783c-nc8c8c8-p64008c/tartan.png)
+![Woven sample](/setts/s6/b4g24r6g16r28g4-b00008c-g003014-ra0783c/tartan.png)
 
 
 
@@ -18,11 +18,19 @@ BGRGRG
 
 | Tartans |
 |---------------|
-| [Confederate Infantry](/tartans/db/4/dg24/lt6/dg16/lt28/dg/4/)|
-|![Confederate Infantry example sett](/variants/db/4/dg24/lt6/dg16/lt28/dg/4-b788cb4-db00008c-dg003014-dr8c0000-dyc88c00-k000000-lta0783c-nc8c8c8-p64008c/sett.png)|
-| [Highland Spring (1997)](/tartans/dp/14/g46/r6/g14/r6/g/46/)|
-|![Highland Spring (1997) example sett](/variants/dp/14/g46/r6/g14/r6/g/46-dg003820-dp440044-g006818-rc80000/sett.png)|
-| [Wilson](/tartans/b/64/g20/r4/g3/r4/g/3/)|
-|![Wilson example sett](/variants/b/64/g20/r4/g3/r4/g/3-b2c4084-g005020-rdc0000/sett.png)|
-| [Wilson #2](/tartans/b/96/g28/r6/g4/r6/g/4/)|
-|![Wilson #2 example sett](/variants/b/96/g28/r6/g4/r6/g/4-b2c4084-g005020-rdc0000/sett.png)|
+| [Confederate Infantry](/setts/s6/b4g24r6g16r28g4-b00008c-g003014-ra0783c/)|
+|![Confederate Infantry example sett](/setts/s6/b4g24r6g16r28g4-b00008c-g003014-ra0783c/sett.png)|
+| [Highland Spring (1997)](/setts/s6/b14g46r6g14r6g46-b440044-g006818-rc80000/)|
+|![Highland Spring (1997) example sett](/setts/s6/b14g46r6g14r6g46-b440044-g006818-rc80000/sett.png)|
+| [Wilson](/setts/s6/b64g20r4g3r4g3-b2c4084-g005020-rdc0000/)|
+|![Wilson example sett](/setts/s6/b64g20r4g3r4g3-b2c4084-g005020-rdc0000/sett.png)|
+| [Wilson #2](/setts/s6/b96g28r6g4r6g4-b2c4084-g005020-rdc0000/)|
+|![Wilson #2 example sett](/setts/s6/b96g28r6g4r6g4-b2c4084-g005020-rdc0000/sett.png)|
+| [Confederate Infantry (Military)](/setts/s6/b4g24r6g16r28g4-b00008c-g003014-ra0783c/)|
+|![Confederate Infantry (Military) example sett](/setts/s6/b4g24r6g16r28g4-b00008c-g003014-ra0783c/sett.png)|
+| [Wilson](/setts/s6/b64g20r4g3r4g3-b304080-g008000-rc00000/)|
+|![Wilson example sett](/setts/s6/b64g20r4g3r4g3-b304080-g008000-rc00000/sett.png)|
+| [Wilson](/setts/s6/b96g28r6g4r6g4-b304080-g008000-rc00000/)|
+|![Wilson example sett](/setts/s6/b96g28r6g4r6g4-b304080-g008000-rc00000/sett.png)|
+| [Highland Spring (Green) Corporate Prom Tartan Tartan Number: 2322. Earliest known date: 1997 Tartan Society notes say "Second tartan for Highland Spring. It is a straight substitution of colours in the original sett (#130). On the relaunch of their packaging a second tartan was needed. It had been found that the 'green' image of the Highlands carried in tartan, increased their product's competitiveness." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b14g46r6g14r6g46-b440044-g006818-rc80000/)|
+|![Highland Spring (Green) Corporate Prom Tartan Tartan Number: 2322. Earliest known date: 1997 Tartan Society notes say "Second tartan for Highland Spring. It is a straight substitution of colours in the original sett (#130). On the relaunch of their packaging a second tartan was needed. It had been found that the 'green' image of the Highlands carried in tartan, increased their product's competitiveness." See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b14g46r6g14r6g46-b440044-g006818-rc80000/sett.png)|

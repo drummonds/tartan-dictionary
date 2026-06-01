@@ -16,5 +16,5 @@ BBGYRBBRKBBYGBBKR
 
 | Tartans |
 |---------------|
-| [Kennewell (Personal)](/tartans/db/25/b15/g6/dy3/r2/db10/b5/n5/k2/b15/db25/dy5/g2/b25/db15/k6/n/3/)|
-|![Kennewell (Personal) example sett](/variants/db/25/b15/g6/dy3/r2/db10/b5/n5/k2/b15/db25/dy5/g2/b25/db15/k6/n/3-b5c8ca8-db1c1c50-dybc8c00-g006818-k101010-n888888-rc80000/sett.png)|
+| [Kennewell (Personal)](/setts/s17/b25ba15g6y3r2b10ba5ra5k2ba15b25y5g2ba25b15k6ra3-b1c1c50-ba5c8ca8-g006818-k101010-rc80000-ra888888-ybc8c00/)|
+|![Kennewell (Personal) example sett](/setts/s17/b25ba15g6y3r2b10ba5ra5k2ba15b25y5g2ba25b15k6ra3-b1c1c50-ba5c8ca8-g006818-k101010-rc80000-ra888888-ybc8c00/sett.png)|

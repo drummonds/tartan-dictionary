@@ -16,5 +16,5 @@ BKBKBGWGBGW
 
 | Tartans |
 |---------------|
-| [Scottish Hockey Union (Sports)](/tartans/db/100/k20/db12/k20/db12/g10/lp10/g10/lpa16/g46/w/10/)|
-|![Scottish Hockey Union (Sports) example sett](/variants/db/100/k20/db12/k20/db12/g10/lp10/g10/lpa16/g46/w/10-db202060-g004c00-k000000-lpc49cd8-lpa944090-wfcfcfc/sett.png)|
+| [Scottish Hockey Union (Sports)](/setts/s11/b100k20b12k20b12g10w10g10ba16g46wa10-b202060-ba944090-g004c00-k000000-wc49cd8-wafcfcfc/)|
+|![Scottish Hockey Union (Sports) example sett](/setts/s11/b100k20b12k20b12g10w10g10ba16g46wa10-b202060-ba944090-g004c00-k000000-wc49cd8-wafcfcfc/sett.png)|

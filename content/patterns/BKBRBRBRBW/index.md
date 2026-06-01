@@ -16,7 +16,9 @@ BKBRBRBRBW
 
 | Tartans |
 |---------------|
-| [Digital Equipment Corp.](/tartans/b/16/k10/b32/na18/b6/na6/b6/na6/b20/n/6/)|
-|![Digital Equipment Corp. example sett](/variants/b/16/k10/b32/na18/b6/na6/b6/na6/b20/n/6-b2c6c80-k000000-nc8c8c8-na888888/sett.png)|
-| [Digital](/tartans/b/12/k6/b20/lt10/b4/lt4/b4/lt4/b14/ln/4/)|
-|![Digital example sett](/variants/b/12/k6/b20/lt10/b4/lt4/b4/lt4/b14/ln/4-b8080d0-k000000-lne0e0e0-lt906030/sett.png)|
+| [Digital Equipment Corp.](/setts/s10/b16k10b32r18b6r6b6r6b20w6-b2c6c80-k000000-r888888-wc8c8c8/)|
+|![Digital Equipment Corp. example sett](/setts/s10/b16k10b32r18b6r6b6r6b20w6-b2c6c80-k000000-r888888-wc8c8c8/sett.png)|
+| [Digital Equipment Corp. (Corporate)](/setts/s10/b16k10b32r18b6r6b6r6b20w6-b2c6c80-k000000-r888888-wc8c8c8/)|
+|![Digital Equipment Corp. (Corporate) example sett](/setts/s10/b16k10b32r18b6r6b6r6b20w6-b2c6c80-k000000-r888888-wc8c8c8/sett.png)|
+| [Digital](/setts/s10/b12k6b20r10b4r4b4r4b14w4-b8080d0-k000000-r906030-we0e0e0/)|
+|![Digital example sett](/setts/s10/b12k6b20r10b4r4b4r4b14w4-b8080d0-k000000-r906030-we0e0e0/sett.png)|

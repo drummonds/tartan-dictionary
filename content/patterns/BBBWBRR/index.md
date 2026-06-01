@@ -6,7 +6,7 @@ BBBWBRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/12/dr6/b6/ln6/dr27/lt81/r/12-b304080-dr401000-lne0e0e0-lt906030-rc00000/tartan.png)
+![Woven sample](/setts/s7/b12ba6b6w6ba27r81ra12-b304080-ba401000-r906030-rac00000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBWBRR
 
 | Tartans |
 |---------------|
-| [Unidentified 35](/tartans/b/12/dr6/b6/ln6/dr27/lt81/r/12/)|
-|![Unidentified 35 example sett](/variants/b/12/dr6/b6/ln6/dr27/lt81/r/12-b304080-dr401000-lne0e0e0-lt906030-rc00000/sett.png)|
+| [Unidentified 35](/setts/s7/b12ba6b6w6ba27r81ra12-b304080-ba401000-r906030-rac00000-we0e0e0/)|
+|![Unidentified 35 example sett](/setts/s7/b12ba6b6w6ba27r81ra12-b304080-ba401000-r906030-rac00000-we0e0e0/sett.png)|

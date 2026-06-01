@@ -16,5 +16,5 @@ BGBGBGRGBGBGRGBGBG
 
 | Tartans |
 |---------------|
-| [Owen of Wales](/tartans/db/4/g36/dbb4/g4/dbb6/g6/r2/g4/db2/g6/db2/g4/r2/g6/dbb6/g4/dbb4/g/36/)|
-|![Owen of Wales example sett](/variants/db/4/g36/dbb4/g4/dbb6/g6/r2/g4/db2/g6/db2/g4/r2/g6/dbb6/g4/dbb4/g/36-db003c64-dba202060-dbb002048-dg003820-g006818-rc80000/sett.png)|
+| [Owen of Wales](/setts/s18/b4g36ba4g4ba6g6r2g4b2g6b2g4r2g6ba6g4ba4g36-b003c64-ba002048-g006818-rc80000/)|
+|![Owen of Wales example sett](/setts/s18/b4g36ba4g4ba6g6r2g4b2g6b2g4r2g6ba6g4ba4g36-b003c64-ba002048-g006818-rc80000/sett.png)|

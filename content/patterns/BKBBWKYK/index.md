@@ -6,7 +6,7 @@ BKBBWKYK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/k/6/y6/k78/w2/b6/n12/k12/n/12-b0000cd-k101010-n778899-wffffff-yffd700/tartan.png)
+![Woven sample](/setts/s8/b12k12b12ba6w2k78y6k6-b778899-ba0000cd-k101010-wffffff-yffd700/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBBWKYK
 
 | Tartans |
 |---------------|
-| [Washington County Sheriff’s Office (Oregon)](/tartans/k/6/y6/k78/w2/b6/n12/k12/n/12/)|
-|![Washington County Sheriff’s Office (Oregon) example sett](/variants/k/6/y6/k78/w2/b6/n12/k12/n/12-b0000cd-k101010-n778899-wffffff-yffd700/sett.png)|
+| [Washington County Sheriff’s Office (Oregon)](/setts/s8/b12k12b12ba6w2k78y6k6-b778899-ba0000cd-k101010-wffffff-yffd700/)|
+|![Washington County Sheriff’s Office (Oregon) example sett](/setts/s8/b12k12b12ba6w2k78y6k6-b778899-ba0000cd-k101010-wffffff-yffd700/sett.png)|

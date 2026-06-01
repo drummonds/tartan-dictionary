@@ -16,5 +16,5 @@ BGBGBKGKGKYK
 
 | Tartans |
 |---------------|
-| [Kells Irish Pubs](/tartans/b/16/g6/b8/g8/b16/k48/g4/k6/g4/k6/n4/k/34/)|
-|![Kells Irish Pubs example sett](/variants/b/16/g6/b8/g8/b16/k48/g4/k6/g4/k6/n4/k/34-b5389c9-g47884e-k101010-n909090/sett.png)|
+| [Kells Irish Pubs](/setts/s12/b16g6b8g8b16k48g4k6g4k6y4k34-b5389c9-g47884e-k101010-y909090/)|
+|![Kells Irish Pubs example sett](/setts/s12/b16g6b8g8b16k48g4k6g4k6y4k34-b5389c9-g47884e-k101010-y909090/sett.png)|

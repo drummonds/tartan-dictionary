@@ -16,5 +16,7 @@ BKBKBKYKWKW
 
 | Tartans |
 |---------------|
-| [Kang (Personal)](/tartans/b/88/k6/b6/k6/b6/k28/y8/k6/ln4/k4/ln/4/)|
-|![Kang (Personal) example sett](/variants/b/88/k6/b6/k6/b6/k28/y8/k6/ln4/k4/ln/4-b38409c-k000000-lne0e0e0-ye8dc14/sett.png)|
+| [Kang (Personal)](/setts/s11/b88k6b6k6b6k28y8k6w4k4w4-b38409c-k000000-we0e0e0-ye8dc14/)|
+|![Kang (Personal) example sett](/setts/s11/b88k6b6k6b6k28y8k6w4k4w4-b38409c-k000000-we0e0e0-ye8dc14/sett.png)|
+| [Kang (Personal)](/setts/s11/b88k6b6k6b6k28y8k6w4k4w4-b38409c-k000000-we0e0e0-ye8dc14/)|
+|![Kang (Personal) example sett](/setts/s11/b88k6b6k6b6k28y8k6w4k4w4-b38409c-k000000-we0e0e0-ye8dc14/sett.png)|

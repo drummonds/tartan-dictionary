@@ -16,5 +16,5 @@ BGKGKBKBW
 
 | Tartans |
 |---------------|
-| [Derick Wardrope (Portobello) (Personal)](/tartans/dr/3/dg32/k4/dg4/k11/db3/k7/dr4/ln/3/)|
-|![Derick Wardrope (Portobello) (Personal) example sett](/variants/dr/3/dg32/k4/dg4/k11/db3/k7/dr4/ln/3-db051956-dg004810-dr4c1329-k000000-lne0e0e0/sett.png)|
+| [Derick Wardrope (Portobello) (Personal)](/setts/s9/b3g32k4g4k11ba3k7b4w3-b4c1329-ba051956-g004810-k000000-we0e0e0/)|
+|![Derick Wardrope (Portobello) (Personal) example sett](/setts/s9/b3g32k4g4k11ba3k7b4w3-b4c1329-ba051956-g004810-k000000-we0e0e0/sett.png)|

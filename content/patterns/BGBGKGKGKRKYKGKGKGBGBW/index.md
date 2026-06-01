@@ -16,7 +16,9 @@ BGBGKGKGKRKYKGKGKGBGBW
 
 | Tartans |
 |---------------|
-| [Dow - Aerlift](/tartans/n/28/k4/n4/k28/ka4/k28/ka4/k4/ka18/r4/ka16/y4/ka18/k4/ka4/k28/ka4/k28/n4/k4/n28/w/4/)|
-|![Dow - Aerlift example sett](/variants/n/28/k4/n4/k28/ka4/k28/ka4/k4/ka18/r4/ka16/y4/ka18/k4/ka4/k28/ka4/k28/n4/k4/n28/w/4-k23321b-ka1c1714-n433a5a-rca2625-wf9f5ef-ye0a126/sett.png)|
-| [Dow-Aerlift (Name)](/tartans/p/28/dg4/p4/dg28/k4/dg28/k4/dg4/k18/r4/k16/dy4/k18/dg4/k4/dg28/k4/dg28/p4/dg4/p28/w/4/)|
-|![Dow-Aerlift (Name) example sett](/variants/p/28/dg4/p4/dg28/k4/dg28/k4/dg4/k18/r4/k16/dy4/k18/dg4/k4/dg28/k4/dg28/p4/dg4/p28/w/4-dg003820-dybc8c00-k101010-p9058d8-rc80000-wfcfcfc/sett.png)|
+| [Dow - Aerlift](/setts/s22/b28g4b4g28k4g28k4g4k18r4k16y4k18g4k4g28k4g28b4g4b28w4-b433a5a-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/)|
+|![Dow - Aerlift example sett](/setts/s22/b28g4b4g28k4g28k4g4k18r4k16y4k18g4k4g28k4g28b4g4b28w4-b433a5a-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/sett.png)|
+| [Dow-Aerlift (Name)](/setts/s22/b28g4b4g28k4g28k4g4k18r4k16y4k18g4k4g28k4g28b4g4b28w4-b9058d8-g003820-k101010-rc80000-wfcfcfc-ybc8c00/)|
+|![Dow-Aerlift (Name) example sett](/setts/s22/b28g4b4g28k4g28k4g4k18r4k16y4k18g4k4g28k4g28b4g4b28w4-b9058d8-g003820-k101010-rc80000-wfcfcfc-ybc8c00/sett.png)|
+| [Dow - Aerlift Name Tartan Tartan Number: 10704. Earliest known date: 24 September 2012 This tartan, a 6.3" sett, is based on the Davidson tartan (#891) with complementary strips of red and gold for Buchanan. The surname Dow can be a Sept of either Davidson or Buchanan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s22/b28g4b4g28k4g28k4g4k18r4k16y4k18g4k4g28k4g28b4g4b28w4-b433a5a-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/)|
+|![Dow - Aerlift Name Tartan Tartan Number: 10704. Earliest known date: 24 September 2012 This tartan, a 6.3" sett, is based on the Davidson tartan (#891) with complementary strips of red and gold for Buchanan. The surname Dow can be a Sept of either Davidson or Buchanan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s22/b28g4b4g28k4g28k4g4k18r4k16y4k18g4k4g28k4g28b4g4b28w4-b433a5a-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/sett.png)|

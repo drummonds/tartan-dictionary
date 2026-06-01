@@ -16,5 +16,5 @@ BKBKWKBKBKBKW
 
 | Tartans |
 |---------------|
-| [Hanson (2016)](/tartans/lb/4/k4/ka6/k68/ka6/k4/b18/k6/ln4/k6/b18/k6/p/4/)|
-|![Hanson (2016) example sett](/variants/lb/4/k4/ka6/k68/ka6/k4/b18/k6/ln4/k6/b18/k6/p/4-b0000ff-k000000-ka1c1c1c-lb98c8e8-lne0e0e0-p9058d8/sett.png)|
+| [Hanson (2016)](/setts/s13/b4k6ba18k6w4k6ba18k4bb6k68bb6k4wa4-b9058d8-ba0000ff-bb1c1c1c-k000000-we0e0e0-wa98c8e8/)|
+|![Hanson (2016) example sett](/setts/s13/b4k6ba18k6w4k6ba18k4bb6k68bb6k4wa4-b9058d8-ba0000ff-bb1c1c1c-k000000-we0e0e0-wa98c8e8/sett.png)|

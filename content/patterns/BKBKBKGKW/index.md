@@ -16,7 +16,9 @@ BKBKBKGKW
 
 | Tartans |
 |---------------|
-| [Forbes #3](/tartans/b/16/k4/b4/k4/b4/k16/g14/k2/ln/2/)|
-|![Forbes #3 example sett](/variants/b/16/k4/b4/k4/b4/k16/g14/k2/ln/2-b2c4084-g005020-k101010-lne0e0e0/sett.png)|
-| [Forbes #5](/tartans/b/56/k6/b12/k6/b12/k40/t56/k6/ln/12/)|
-|![Forbes #5 example sett](/variants/b/56/k6/b12/k6/b12/k40/t56/k6/ln/12-b2c4084-k101010-lne0e0e0-t503c14/sett.png)|
+| [Forbes #3](/setts/s9/b16k4b4k4b4k16g14k2w2-b2c4084-g005020-k101010-we0e0e0/)|
+|![Forbes #3 example sett](/setts/s9/b16k4b4k4b4k16g14k2w2-b2c4084-g005020-k101010-we0e0e0/sett.png)|
+| [Forbes #5](/setts/s9/b56k6b12k6b12k40g56k6w12-b2c4084-g503c14-k101010-we0e0e0/)|
+|![Forbes #5 example sett](/setts/s9/b56k6b12k6b12k40g56k6w12-b2c4084-g503c14-k101010-we0e0e0/sett.png)|
+| [Forbes](/setts/s9/b16k4b4k4b4k16g14k2w2-b304080-g008000-k000000-we0e0e0/)|
+|![Forbes example sett](/setts/s9/b16k4b4k4b4k16g14k2w2-b304080-g008000-k000000-we0e0e0/sett.png)|

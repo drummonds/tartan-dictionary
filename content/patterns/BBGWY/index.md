@@ -6,7 +6,7 @@ BBGWY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/p/20/db20/g20/ln2/y/2-db2c2c80-g006818-lne0e0e0-p780078-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b60ba60g60w6y6-b780078-ba2c2c80-g006818-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBGWY
 
 | Tartans |
 |---------------|
-| [Edelstein (Personal)](/tartans/p/20/db20/g20/ln2/y/2/)|
-|![Edelstein (Personal) example sett](/variants/p/20/db20/g20/ln2/y/2-db2c2c80-g006818-lne0e0e0-p780078-ye8c000/sett.png)|
+| [Edelstein (Personal)](/setts/s5/b60ba60g60w6y6-b780078-ba2c2c80-g006818-we0e0e0-ye8c000/)|
+|![Edelstein (Personal) example sett](/setts/s5/b60ba60g60w6y6-b780078-ba2c2c80-g006818-we0e0e0-ye8c000/sett.png)|
+| [Edelstein (Personal)](/setts/s5/b60ba60g60w6y6-b780078-ba2c2c80-g006818-we0e0e0-ye8c000/)|
+|![Edelstein (Personal) example sett](/setts/s5/b60ba60g60w6y6-b780078-ba2c2c80-g006818-we0e0e0-ye8c000/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKBKBKGKGKGKKKKKKKRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Same Sex Marriage](/tartans/p/4/k4/p2/k28/b2/k4/b4/k4/b2/k28/g2/k4/g4/k4/g2/k28/y2/k4/y4/k4/y2/k28/ra2/k4/ra4/k4/ra2/k28/r2/k4/r/4/)|
-|![Same Sex Marriage example sett](/variants/p/4/k4/p2/k28/b2/k4/b4/k4/b2/k28/g2/k4/g4/k4/g2/k28/y2/k4/y4/k4/y2/k28/ra2/k4/ra4/k4/ra2/k28/r2/k4/r/4-b1474b4-g289c18-k101010-p6c0070-rff0000-rafa4b00/sett.png)|
+| [Same Sex Marriage](/setts/s31/b4k4b2k28ba2k4ba4k4ba2k28g2k4g4k4g2k28ka2k4ka4k4ka2k28r2k4r4k4r2k28ra2k4ra4-b6c0070-ba1474b4-g289c18-k101010-ka000000-rfa4b00-raff0000/)|
+|![Same Sex Marriage example sett](/setts/s31/b4k4b2k28ba2k4ba4k4ba2k28g2k4g4k4g2k28ka2k4ka4k4ka2k28r2k4r4k4r2k28ra2k4ra4-b6c0070-ba1474b4-g289c18-k101010-ka000000-rfa4b00-raff0000/sett.png)|

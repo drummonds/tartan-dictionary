@@ -16,7 +16,7 @@ BKBKBKGKGKBR
 
 | Tartans |
 |---------------|
-| [Young Presidents Organisation](/tartans/dba/32/k4/dba6/k4/dba6/k20/g24/k4/g24/k20/dba10/ra/44/)|
-|![Young Presidents Organisation example sett](/variants/dba/32/k4/dba6/k4/dba6/k20/g24/k4/g24/k20/dba10/ra/44-db000064-dba2c2c80-dg003014-dyc88c00-g006818-k000000-p501464-rc82800-rac80000/sett.png)|
-| [Young Presidents Org. (Corporate)](/tartans/db/32/k4/db6/k4/db6/k20/g24/k4/g24/k20/db10/r/44/)|
-|![Young Presidents Org. (Corporate) example sett](/variants/db/32/k4/db6/k4/db6/k20/g24/k4/g24/k20/db10/r/44-db2c2c80-g006818-k000000-rc80000/sett.png)|
+| [Young Presidents Organisation](/setts/s12/b32k4b6k4b6k20g24k4g24k20b10r44-b2c2c80-g006818-k000000-rc80000/)|
+|![Young Presidents Organisation example sett](/setts/s12/b32k4b6k4b6k20g24k4g24k20b10r44-b2c2c80-g006818-k000000-rc80000/sett.png)|
+| [Young Presidents Org. (Corporate)](/setts/s12/b32k4b6k4b6k20g24k4g24k20b10r44-b2c2c80-g006818-k000000-rc80000/)|
+|![Young Presidents Org. (Corporate) example sett](/setts/s12/b32k4b6k4b6k20g24k4g24k20b10r44-b2c2c80-g006818-k000000-rc80000/sett.png)|

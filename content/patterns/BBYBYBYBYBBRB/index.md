@@ -16,5 +16,7 @@ BBYBYBYBYBBRB
 
 | Tartans |
 |---------------|
-| [Budge (Personal)](/tartans/b/96/db8/n14/db6/n8/db2/n4/db12/n6/db18/b8/r6/db/14/)|
-|![Budge (Personal) example sett](/variants/b/96/db8/n14/db6/n8/db2/n4/db12/n6/db18/b8/r6/db/14-b5c8ca8-db003c64-n909090-rc80000/sett.png)|
+| [Budge (Personal)](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/)|
+|![Budge (Personal) example sett](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/sett.png)|
+| [Budge (Personal)](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/)|
+|![Budge (Personal) example sett](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/sett.png)|

@@ -16,5 +16,5 @@ BKBYBYBYR
 
 | Tartans |
 |---------------|
-| [Gedling, Peter (Personal)](/tartans/p/6/k64/p4/y4/p2/y2/p6/b18/r/16/)|
-|![Gedling, Peter (Personal) example sett](/variants/p/6/k64/p4/y4/p2/y2/p6/b18/r/16-b48a4c0-k101010-p6c0070-rff0000-yffe600/sett.png)|
+| [Gedling, Peter (Personal)](/setts/s9/b6k64b4y4b2y2b6ya18r16-b6c0070-k101010-rff0000-yffe600-ya48a4c0/)|
+|![Gedling, Peter (Personal) example sett](/setts/s9/b6k64b4y4b2y2b6ya18r16-b6c0070-k101010-rff0000-yffe600-ya48a4c0/sett.png)|

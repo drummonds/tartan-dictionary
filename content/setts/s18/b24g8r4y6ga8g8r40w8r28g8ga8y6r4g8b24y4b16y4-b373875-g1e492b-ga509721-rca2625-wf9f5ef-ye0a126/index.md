@@ -1,0 +1,28 @@
+---
+title: "Béguinot, Stéphane (Personal)"
+date: 2023-03-18
+---
+In pattern [BGRYGGRWRGGYRGBYBY](/patterns/bgryggrwrggyrgbyby/).
+
+
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10540
+
+## Thread count
+DB/24 DG8 R4 Y6 G8 DG8 R40 W8 R28 DG8 G8 Y6 R4 DG8 DB24 Y4 DB16 Y/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#373875;"><span style="color:#373875;filter:grayscale(1) invert(1) contrast(100);">#373875</span></code> `#373875` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.03 |
+| DG | <code style="background-color:#1E492B;"><span style="color:#1E492B;filter:grayscale(1) invert(1) contrast(100);">#1E492B</span></code> `#1E492B` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.11 |
+| G | <code style="background-color:#509721;"><span style="color:#509721;filter:grayscale(1) invert(1) contrast(100);">#509721</span></code> `#509721` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.17 |
+| R | <code style="background-color:#CA2625;"><span style="color:#CA2625;filter:grayscale(1) invert(1) contrast(100);">#CA2625</span></code> `#CA2625` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.03 |
+| W | <code style="background-color:#F9F5EF;"><span style="color:#F9F5EF;filter:grayscale(1) invert(1) contrast(100);">#F9F5EF</span></code> `#F9F5EF` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
+| Y | <code style="background-color:#E0A126;"><span style="color:#E0A126;filter:grayscale(1) invert(1) contrast(100);">#E0A126</span></code> `#E0A126` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.08 |
+
+ID: /setts/s18/b24g8r4y6ga8g8r40w8r28g8ga8y6r4g8b24y4b16y4-b373875-g1e492b-ga509721-rca2625-wf9f5ef-ye0a126/

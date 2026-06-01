@@ -16,5 +16,5 @@ BKBKBKBKBKBKBKBKBKBKBKBK
 
 | Tartans |
 |---------------|
-| [Wine Watch](/tartans/dba/22/k2/dba2/k2/dba2/k16/dr16/k2/dr16/k16/dba16/k2/dba2/k2/dba16/k16/dr16/k2/dr16/k16/dba2/k2/dba2/k/2/)|
-|![Wine Watch example sett](/variants/dba/22/k2/dba2/k2/dba2/k16/dr16/k2/dr16/k16/dba16/k2/dba2/k2/dba16/k16/dr16/k2/dr16/k16/dba2/k2/dba2/k/2-db202060-dba2c2c80-dr680028-k101010/sett.png)|
+| [Wine Watch](/setts/s24/b22k2b2k2b2k16ba16k2ba16k16b16k2b2k2b16k16ba16k2ba16k16b2k2b2k2-b2c2c80-ba680028-k101010/)|
+|![Wine Watch example sett](/setts/s24/b22k2b2k2b2k16ba16k2ba16k16b16k2b2k2b16k16ba16k2ba16k16b2k2b2k2-b2c2c80-ba680028-k101010/sett.png)|

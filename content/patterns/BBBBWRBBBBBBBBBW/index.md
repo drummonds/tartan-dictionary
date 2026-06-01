@@ -16,5 +16,5 @@ BBBBWRBBBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Auld Alliance](/tartans/ln/10/db2/b20/db4/b8/db4/b2/db4/b8/db4/r30/ln30/db30/p4/db2/p/8/)|
-|![Auld Alliance example sett](/variants/ln/10/db2/b20/db4/b8/db4/b2/db4/b8/db4/r30/ln30/db30/p4/db2/p/8-b2c4084-db141e46-lne0e0e0-p5a008c-rdc0000/sett.png)|
+| [Auld Alliance](/setts/s16/b8ba2b4ba30w30r30ba4bb8ba4bb2ba4bb8ba4bb20ba2w10-b5a008c-ba141e46-bb2c4084-rdc0000-we0e0e0/)|
+|![Auld Alliance example sett](/setts/s16/b8ba2b4ba30w30r30ba4bb8ba4bb2ba4bb8ba4bb20ba2w10-b5a008c-ba141e46-bb2c4084-rdc0000-we0e0e0/sett.png)|

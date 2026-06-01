@@ -16,5 +16,7 @@ BKBWBYRYWYK
 
 | Tartans |
 |---------------|
-| [Gouranga](/tartans/b/30/k6/b38/w6/b10/y10/r6/y10/lb6/y10/k/6/)|
-|![Gouranga example sett](/variants/b/30/k6/b38/w6/b10/y10/r6/y10/lb6/y10/k/6-b1474b4-k101010-lb98c8e8-rdc0000-wf8f8f8-ye8c000/sett.png)|
+| [Gouranga](/setts/s11/b30k6b38w6b10y10r6y10wa6y10k6-b1474b4-k101010-rdc0000-wf8f8f8-wa98c8e8-ye8c000/)|
+|![Gouranga example sett](/setts/s11/b30k6b38w6b10y10r6y10wa6y10k6-b1474b4-k101010-rdc0000-wf8f8f8-wa98c8e8-ye8c000/sett.png)|
+| [Gouranga (Corporate)](/setts/s11/b30k6b38w6b10y10r6y10wa6y10k6-b1474b4-k101010-rc80000-wf8f8f8-wa98c8e8-ye8c000/)|
+|![Gouranga (Corporate) example sett](/setts/s11/b30k6b38w6b10y10r6y10wa6y10k6-b1474b4-k101010-rc80000-wf8f8f8-wa98c8e8-ye8c000/sett.png)|

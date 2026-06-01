@@ -6,7 +6,7 @@ BBBRKRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/8/dr2/db8/dr2/g28/n2/g/2-db000034-dr8c0000-g0c5454-n505050/tartan.png)
+![Woven sample](/setts/s7/b4ba4b56r4k16r4k16-b0c5454-ba505050-k000034-r8c0000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBRKRK
 
 | Tartans |
 |---------------|
-| [Pinehurst Resort](/tartans/db/8/dr2/db8/dr2/g28/n2/g/2/)|
-|![Pinehurst Resort example sett](/variants/db/8/dr2/db8/dr2/g28/n2/g/2-db000034-dr8c0000-g0c5454-n505050/sett.png)|
+| [Pinehurst Resort](/setts/s7/b4ba4b56r4k16r4k16-b0c5454-ba505050-k000034-r8c0000/)|
+|![Pinehurst Resort example sett](/setts/s7/b4ba4b56r4k16r4k16-b0c5454-ba505050-k000034-r8c0000/sett.png)|
+| [Pinehurst Resort (Corporate)](/setts/s7/b4ba4b56r4k16r4k16-b0c5454-ba505050-k000034-r8c0000/)|
+|![Pinehurst Resort (Corporate) example sett](/setts/s7/b4ba4b56r4k16r4k16-b0c5454-ba505050-k000034-r8c0000/sett.png)|

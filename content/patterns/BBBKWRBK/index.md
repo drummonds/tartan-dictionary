@@ -6,7 +6,7 @@ BBBKWRBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/6/n20/db6/k6/ln20/r8/n56/k/4-db1c0070-k101010-lne0e0e0-n506878-rc8002c/tartan.png)
+![Woven sample](/setts/s8/b6ba20b6k6w20r8ba56k4-b1c0070-ba506878-k101010-rc8002c-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKWRBK
 
 | Tartans |
 |---------------|
-| [Moorpark Primary School (Corporate)](/tartans/db/6/n20/db6/k6/ln20/r8/n56/k/4/)|
-|![Moorpark Primary School (Corporate) example sett](/variants/db/6/n20/db6/k6/ln20/r8/n56/k/4-db1c0070-k101010-lne0e0e0-n506878-rc8002c/sett.png)|
+| [Moorpark Primary School (Corporate)](/setts/s8/b6ba20b6k6w20r8ba56k4-b1c0070-ba506878-k101010-rc8002c-we0e0e0/)|
+|![Moorpark Primary School (Corporate) example sett](/setts/s8/b6ba20b6k6w20r8ba56k4-b1c0070-ba506878-k101010-rc8002c-we0e0e0/sett.png)|

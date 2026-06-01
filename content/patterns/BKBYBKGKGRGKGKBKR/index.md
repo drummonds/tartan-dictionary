@@ -16,5 +16,5 @@ BKBYBKGKGRGKGKBKR
 
 | Tartans |
 |---------------|
-| [Murray, Tony (Personal)](/tartans/b/30/k4/b4/y4/b4/k20/g20/k2/g4/r4/g4/k2/g20/k20/b20/k2/r/4/)|
-|![Murray, Tony (Personal) example sett](/variants/b/30/k4/b4/y4/b4/k20/g20/k2/g4/r4/g4/k2/g20/k20/b20/k2/r/4-b3850c8-g006818-k101010-rc80000-yfccc00/sett.png)|
+| [Murray, Tony (Personal)](/setts/s17/b30k4b4y4b4k20g20k2g4r4g4k2g20k20b20k2r4-b3850c8-g006818-k101010-rc80000-yfccc00/)|
+|![Murray, Tony (Personal) example sett](/setts/s17/b30k4b4y4b4k20g20k2g4r4g4k2g20k20b20k2r4-b3850c8-g006818-k101010-rc80000-yfccc00/sett.png)|

@@ -6,7 +6,7 @@ BBBGGGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/16/dba20/db44/dg14/g20/dg44/p/6-db003c64-dba2c2c80-dg003820-g408060-p780078/tartan.png)
+![Woven sample](/setts/s7/b16ba20b44g14ga20g44bb6-b003c64-ba2c2c80-bb780078-g003820-ga408060/tartan.png)
 
 
 
@@ -18,11 +18,13 @@ BBBGGGB
 
 | Tartans |
 |---------------|
-| [Baron of Crawfordjohn (Personal)](/tartans/db/16/dba20/db44/dg14/g20/dg44/p/6/)|
-|![Baron of Crawfordjohn (Personal) example sett](/variants/db/16/dba20/db44/dg14/g20/dg44/p/6-db003c64-dba2c2c80-dg003820-g408060-p780078/sett.png)|
-| [Gleneagles (Corporate)](/tartans/t/2/db12/t10/dg12/ta2/dg12/t/12/)|
-|![Gleneagles (Corporate) example sett](/variants/t/2/db12/t10/dg12/ta2/dg12/t/12-db083454-dg003820-t581c00-ta684800/sett.png)|
-| [Gleneagles Group](/tartans/dr/4/b12/dr10/ga12/g4/ga12/dr/10/)|
-|![Gleneagles Group example sett](/variants/dr/4/b12/dr10/ga12/g4/ga12/dr/10-b304080-dr600030-g607030-ga008000/sett.png)|
-| [Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/dr/2/db12/dr10/g12/t2/g12/dr/10/)|
-|![Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/dr/2/db12/dr10/g12/t2/g12/dr/10-db2c2c80-dr680028-g006818-t604000/sett.png)|
+| [Baron of Crawfordjohn (Personal)](/setts/s7/b16ba20b44g14ga20g44bb6-b003c64-ba2c2c80-bb780078-g003820-ga408060/)|
+|![Baron of Crawfordjohn (Personal) example sett](/setts/s7/b16ba20b44g14ga20g44bb6-b003c64-ba2c2c80-bb780078-g003820-ga408060/sett.png)|
+| [Gleneagles (Corporate)](/setts/s7/b24g24ga4g24b20ba24b4-b581c00-ba083454-g003820-ga684800/)|
+|![Gleneagles (Corporate) example sett](/setts/s7/b24g24ga4g24b20ba24b4-b581c00-ba083454-g003820-ga684800/sett.png)|
+| [Baron of Crawfordjohn (Personal)](/setts/s7/b16ba20b44g14ga20g44bb6-b003c64-ba2c2c80-bb780078-g003820-ga408060/)|
+|![Baron of Crawfordjohn (Personal) example sett](/setts/s7/b16ba20b44g14ga20g44bb6-b003c64-ba2c2c80-bb780078-g003820-ga408060/sett.png)|
+| [Gleneagles Group](/setts/s7/b10g12ga4g12b10ba12b4-b600030-ba304080-g008000-ga607030/)|
+|![Gleneagles Group example sett](/setts/s7/b10g12ga4g12b10ba12b4-b600030-ba304080-g008000-ga607030/sett.png)|
+| [Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b10g12ga2g12b10ba12b2-b680028-ba2c2c80-g006818-ga604000/)|
+|![Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b10g12ga2g12b10ba12b2-b680028-ba2c2c80-g006818-ga604000/sett.png)|

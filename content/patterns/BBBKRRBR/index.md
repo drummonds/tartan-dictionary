@@ -6,7 +6,7 @@ BBBKRRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/12/db80/b4/k8/r6/n12/db4/r/32-b2888c4-db2c2c80-k101010-n888888-rc80000/tartan.png)
+![Woven sample](/setts/s8/b12ba80b4k8r6ra12ba4r32-b2888c4-ba2c2c80-k101010-rc80000-ra888888/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKRRBR
 
 | Tartans |
 |---------------|
-| [St. Leonards (Corporate)](/tartans/b/12/db80/b4/k8/r6/n12/db4/r/32/)|
-|![St. Leonards (Corporate) example sett](/variants/b/12/db80/b4/k8/r6/n12/db4/r/32-b2888c4-db2c2c80-k101010-n888888-rc80000/sett.png)|
+| [St. Leonards (Corporate)](/setts/s8/b12ba80b4k8r6ra12ba4r32-b2888c4-ba2c2c80-k101010-rc80000-ra888888/)|
+|![St. Leonards (Corporate) example sett](/setts/s8/b12ba80b4k8r6ra12ba4r32-b2888c4-ba2c2c80-k101010-rc80000-ra888888/sett.png)|

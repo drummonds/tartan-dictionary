@@ -16,5 +16,5 @@ BBBWBBWBBWBB
 
 | Tartans |
 |---------------|
-| [St. Andrews Dress, Earl of](/tartans/db/14/p4/dba4/ln8/db38/b38/ln56/b38/db38/ln8/dba4/p/4/)|
-|![St. Andrews Dress, Earl of example sett](/variants/db/14/p4/dba4/ln8/db38/b38/ln56/b38/db38/ln8/dba4/p/4-b5c8ca8-db2c2c80-dba202060-lne0e0e0-p9058d8/sett.png)|
+| [St. Andrews Dress, Earl of](/setts/s12/b14ba4bb4w8b38bc38w56bc38b38w8bb4ba4-b2c2c80-ba9058d8-bb202060-bc5c8ca8-we0e0e0/)|
+|![St. Andrews Dress, Earl of example sett](/setts/s12/b14ba4bb4w8b38bc38w56bc38b38w8bb4ba4-b2c2c80-ba9058d8-bb202060-bc5c8ca8-we0e0e0/sett.png)|

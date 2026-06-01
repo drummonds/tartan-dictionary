@@ -16,7 +16,7 @@ BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG
 
 | Tartans |
 |---------------|
-| [Alberta](/tartans/b/32/g16/k16/b2/k2/b2/k2/b2/k2/b2/k2/b2/k2/b2/k2/b40/k8/g24/k48/t16/b2/t2/b2/t2/b2/t2/b2/t2/b2/t2/b2/t2/b56/t12/k8/g/100/)|
-|![Alberta example sett](/variants/b/32/g16/k16/b2/k2/b2/k2/b2/k2/b2/k2/b2/k2/b2/k2/b40/k8/g24/k48/t16/b2/t2/b2/t2/b2/t2/b2/t2/b2/t2/b2/t2/b56/t12/k8/g/100-b2c4084-g005020-k101010-t503c14/sett.png)|
-| [Alberta Trade Tartan Tartan Number: 1945. Earliest known date: pre 2003 From a Canadian pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/32/g16/k16/db2/k2/db2/k2/db2/k2/db2/k2/db2/k2/db2/k2/db40/k8/g24/k48/t16/db2/t2/db2/t2/db2/t2/db2/t2/db2/t2/db2/t2/db56/t12/k8/g/100/)|
-|![Alberta Trade Tartan Tartan Number: 1945. Earliest known date: pre 2003 From a Canadian pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/32/g16/k16/db2/k2/db2/k2/db2/k2/db2/k2/db2/k2/db2/k2/db40/k8/g24/k48/t16/db2/t2/db2/t2/db2/t2/db2/t2/db2/t2/db2/t2/db56/t12/k8/g/100-db2c2c80-g006818-k101010-t604000/sett.png)|
+| [Alberta](/setts/s36/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24ga8b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b28ga6k4g50-b2c4084-g005020-ga503c14-k101010/)|
+|![Alberta example sett](/setts/s36/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24ga8b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b28ga6k4g50-b2c4084-g005020-ga503c14-k101010/sett.png)|
+| [Alberta Trade Tartan Tartan Number: 1945. Earliest known date: pre 2003 From a Canadian pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s36/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24ga8b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b28ga6k4g50-b2c2c80-g006818-ga604000-k101010/)|
+|![Alberta Trade Tartan Tartan Number: 1945. Earliest known date: pre 2003 From a Canadian pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s36/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24ga8b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b28ga6k4g50-b2c2c80-g006818-ga604000-k101010/sett.png)|

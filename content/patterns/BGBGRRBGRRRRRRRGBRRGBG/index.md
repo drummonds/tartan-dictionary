@@ -16,5 +16,5 @@ BGBGRRBGRRRRRRRGBRRGBG
 
 | Tartans |
 |---------------|
-| [Strathgaela](/tartans/g/6/db6/g22/n16/r16/db8/g6/r6/ra6/r30/ra6/r30/ra6/r6/g6/db8/r16/n16/g22/db6/g6/p/6/)|
-|![Strathgaela example sett](/variants/g/6/db6/g22/n16/r16/db8/g6/r6/ra6/r30/ra6/r30/ra6/r6/g6/db8/r16/n16/g22/db6/g6/p/6-db2c2c80-g285800-n888888-p780078-ra00048-rac8002c/sett.png)|
+| [Strathgaela](/setts/s22/b6g6ba6g22r16ra16ba8g6ra6rb6ra30rb6ra30rb6ra6g6ba8ra16r16g22ba6g6-b780078-ba2c2c80-g285800-r888888-raa00048-rbc8002c/)|
+|![Strathgaela example sett](/setts/s22/b6g6ba6g22r16ra16ba8g6ra6rb6ra30rb6ra30rb6ra6g6ba8ra16r16g22ba6g6-b780078-ba2c2c80-g285800-r888888-raa00048-rbc8002c/sett.png)|

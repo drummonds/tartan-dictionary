@@ -16,5 +16,5 @@ BGBWBWRYWGR
 
 | Tartans |
 |---------------|
-| [Belwade](/tartans/b/8/g8/b8/w2/db2/w2/dr8/o8/w2/g8/dr/8/)|
-|![Belwade example sett](/variants/b/8/g8/b8/w2/db2/w2/dr8/o8/w2/g8/dr/8-b2c4084-db141e46-dr781c38-g007800-odc943c-wffffff/sett.png)|
+| [Belwade](/setts/s11/b16g16b16w4ba4w4r16y16w4g16r16-b2c4084-ba141e46-g007800-r781c38-wffffff-ydc943c/)|
+|![Belwade example sett](/setts/s11/b16g16b16w4ba4w4r16y16w4g16r16-b2c4084-ba141e46-g007800-r781c38-wffffff-ydc943c/sett.png)|

@@ -16,5 +16,5 @@ BGKGWGWGKGB
 
 | Tartans |
 |---------------|
-| [Hibernian F.C.](/tartans/p/6/dg12/k18/g22/ln2/g22/ln2/g22/k18/dg12/p/6/)|
-|![Hibernian F.C. example sett](/variants/p/6/dg12/k18/g22/ln2/g22/ln2/g22/k18/dg12/p/6-dg003000-g008000-k000000-lne0e0e0-p800080/sett.png)|
+| [Hibernian F.C.](/setts/s11/b12g24k36ga44w4ga44w4ga44k36g24b12-b800080-g003000-ga008000-k000000-we0e0e0/)|
+|![Hibernian F.C. example sett](/setts/s11/b12g24k36ga44w4ga44w4ga44k36g24b12-b800080-g003000-ga008000-k000000-we0e0e0/sett.png)|

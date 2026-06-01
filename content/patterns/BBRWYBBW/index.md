@@ -6,7 +6,7 @@ BBRWYBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dba/2/b24/p12/w2/dy6/dba28/db36/w/2-b5c8ca8-db003c64-dba1c1c50-dybc8c00-pb458ac-wffffff/tartan.png)
+![Woven sample](/setts/s8/b2ba24r12w2y6b28bb36w2-b1c1c50-ba5c8ca8-bb003c64-rb458ac-wffffff-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRWYBBW
 
 | Tartans |
 |---------------|
-| [Ancient Gathering](/tartans/dba/2/b24/p12/w2/dy6/dba28/db36/w/2/)|
-|![Ancient Gathering example sett](/variants/dba/2/b24/p12/w2/dy6/dba28/db36/w/2-b5c8ca8-db003c64-dba1c1c50-dybc8c00-pb458ac-wffffff/sett.png)|
+| [Ancient Gathering](/setts/s8/b2ba24r12w2y6b28bb36w2-b1c1c50-ba5c8ca8-bb003c64-rb458ac-wffffff-ybc8c00/)|
+|![Ancient Gathering example sett](/setts/s8/b2ba24r12w2y6b28bb36w2-b1c1c50-ba5c8ca8-bb003c64-rb458ac-wffffff-ybc8c00/sett.png)|

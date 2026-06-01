@@ -6,7 +6,7 @@ BKBGYWB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/8/k18/b16/g6/lt6/ln56/b/16-b5c8ca8-g408060-k101010-lne0e0e0-lta08858/tartan.png)
+![Woven sample](/setts/s7/b16w56y6g6b16k18b8-b5c8ca8-g408060-k101010-we0e0e0-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBGYWB
 
 | Tartans |
 |---------------|
-| [MacTavish of Dunardry (Clan)](/tartans/b/8/k18/b16/g6/lt6/ln56/b/16/)|
-|![MacTavish of Dunardry (Clan) example sett](/variants/b/8/k18/b16/g6/lt6/ln56/b/16-b5c8ca8-g408060-k101010-lne0e0e0-lta08858/sett.png)|
+| [MacTavish of Dunardry (Clan)](/setts/s7/b16w56y6g6b16k18b8-b5c8ca8-g408060-k101010-we0e0e0-ya08858/)|
+|![MacTavish of Dunardry (Clan) example sett](/setts/s7/b16w56y6g6b16k18b8-b5c8ca8-g408060-k101010-we0e0e0-ya08858/sett.png)|

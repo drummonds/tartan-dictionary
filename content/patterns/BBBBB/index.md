@@ -6,7 +6,7 @@ BBBBB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/14/b30/db8/b4/db/90-b1474b4-db2c2c80-lne0e0e0/tartan.png)
+![Woven sample](/setts/s5/b14ba30b8ba4b90-b2c2c80-ba1474b4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBB
 
 | Tartans |
 |---------------|
-| [Asahi (Corporate)](/tartans/db/14/b30/db8/b4/db/90/)|
-|![Asahi (Corporate) example sett](/variants/db/14/b30/db8/b4/db/90-b1474b4-db2c2c80-lne0e0e0/sett.png)|
+| [Asahi (Corporate)](/setts/s5/b14ba30b8ba4b90-b2c2c80-ba1474b4/)|
+|![Asahi (Corporate) example sett](/setts/s5/b14ba30b8ba4b90-b2c2c80-ba1474b4/sett.png)|

@@ -16,5 +16,5 @@ BBBBBBBGRWRGBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Inverclyde](/tartans/dba/10/db4/dba18/n20/b4/n8/b4/g20/r66/ln4/r66/g20/b4/n8/b4/n20/dba18/db4/dba10/ln/6/)|
-|![Inverclyde example sett](/variants/dba/10/db4/dba18/n20/b4/n8/b4/g20/r66/ln4/r66/g20/b4/n8/b4/n20/dba18/db4/dba10/ln/6-b2888c4-db2c2c80-dba202060-g006818-lne0e0e0-n5c5c5c-rc80000/sett.png)|
+| [Inverclyde](/setts/s20/b10ba4b18bb20bc4bb8bc4g20r66w4r66g20bc4bb8bc4bb20b18ba4b10w6-b202060-ba2c2c80-bb5c5c5c-bc2888c4-g006818-rc80000-we0e0e0/)|
+|![Inverclyde example sett](/setts/s20/b10ba4b18bb20bc4bb8bc4g20r66w4r66g20bc4bb8bc4bb20b18ba4b10w6-b202060-ba2c2c80-bb5c5c5c-bc2888c4-g006818-rc80000-we0e0e0/sett.png)|

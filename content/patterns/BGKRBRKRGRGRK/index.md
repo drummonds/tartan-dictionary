@@ -16,7 +16,9 @@ BGKRBRKRGRGRK
 
 | Tartans |
 |---------------|
-| [Gayre Hunting](/tartans/db/40/g8/k8/n40/db8/n40/k6/dr12/g8/n8/g8/dr8/k/8/)|
-|![Gayre Hunting example sett](/variants/db/40/g8/k8/n40/db8/n40/k6/dr12/g8/n8/g8/dr8/k/8-db1c0070-dra00000-g006818-k101010-n888888/sett.png)|
-| [Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/32/g8/k8/n44/db10/n44/k6/r10/g8/n8/g8/r8/k/8/)|
-|![Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/32/g8/k8/n44/db10/n44/k6/r10/g8/n8/g8/r8/k/8-db2c2c80-g006818-k101010-n888888-rc80000/sett.png)|
+| [Gayre Hunting](/setts/s13/b40g8k8r40b8r40k6ra12g8r8g8ra8k8-b1c0070-g006818-k101010-r888888-raa00000/)|
+|![Gayre Hunting example sett](/setts/s13/b40g8k8r40b8r40k6ra12g8r8g8ra8k8-b1c0070-g006818-k101010-r888888-raa00000/sett.png)|
+| [Gayre Htg (Clan)](/setts/s13/b40g8k8r40b8r40k6ra12g8r8g8ra8k8-b1c0070-g006818-k101010-r888888-raa00000/)|
+|![Gayre Htg (Clan) example sett](/setts/s13/b40g8k8r40b8r40k6ra12g8r8g8ra8k8-b1c0070-g006818-k101010-r888888-raa00000/sett.png)|
+| [Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b32g8k8r44b10r44k6ra10g8r8g8ra8k8-b2c2c80-g006818-k101010-r888888-rac80000/)|
+|![Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b32g8k8r44b10r44k6ra10g8r8g8ra8k8-b2c2c80-g006818-k101010-r888888-rac80000/sett.png)|

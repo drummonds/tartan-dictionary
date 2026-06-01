@@ -16,5 +16,5 @@ BKGKBWBKGKGKBKGK
 
 | Tartans |
 |---------------|
-| [Guildford Town Centre (British Columbia)](/tartans/k/10/g4/k18/n152/k18/t20/k10/t10/k20/n24/w4/n10/k10/g10/k10/n/76/)|
-|![Guildford Town Centre (British Columbia) example sett](/variants/k/10/g4/k18/n152/k18/t20/k10/t10/k20/n24/w4/n10/k10/g10/k10/n/76-g545b37-k101010-n666666-t5b3d1f-wffffff/sett.png)|
+| [Guildford Town Centre (British Columbia)](/setts/s16/b76k10g10k10b10w4b24k20ga10k10ga20k18b152k18g4k10-b666666-g545b37-ga5b3d1f-k101010-wffffff/)|
+|![Guildford Town Centre (British Columbia) example sett](/setts/s16/b76k10g10k10b10w4b24k20ga10k10ga20k18b152k18g4k10-b666666-g545b37-ga5b3d1f-k101010-wffffff/sett.png)|

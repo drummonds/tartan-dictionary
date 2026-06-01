@@ -16,5 +16,5 @@ BBRKBKBKRKBKBK
 
 | Tartans |
 |---------------|
-| [Grassi (2009)](/tartans/k/140/n4/k6/n24/k2/na6/k2/n24/k6/n4/k120/na4/n4/p/6/)|
-|![Grassi (2009) example sett](/variants/k/140/n4/k6/n24/k2/na6/k2/n24/k6/n4/k120/na4/n4/p/6-k101010-n505050-na888888-p780078/sett.png)|
+| [Grassi (2009)](/setts/s14/b6ba4r4k120ba4k6ba24k2r6k2ba24k6ba4k140-b780078-ba505050-k101010-r888888/)|
+|![Grassi (2009) example sett](/setts/s14/b6ba4r4k120ba4k6ba24k2r6k2ba24k6ba4k140-b780078-ba505050-k101010-r888888/sett.png)|

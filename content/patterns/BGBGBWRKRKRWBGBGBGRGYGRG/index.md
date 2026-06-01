@@ -16,5 +16,5 @@ BGBGBWRKRKRWBGBGBGRGYGRG
 
 | Tartans |
 |---------------|
-| [O'Sullivan McCragh (Personal)](/tartans/db/4/g6/db4/g6/db20/ln4/n24/k4/n10/k4/n24/ln4/db20/g6/db4/g6/db4/g32/r4/g8/dy4/g8/r4/g/32/)|
-|![O'Sullivan McCragh (Personal) example sett](/variants/db/4/g6/db4/g6/db20/ln4/n24/k4/n10/k4/n24/ln4/db20/g6/db4/g6/db4/g32/r4/g8/dy4/g8/r4/g/32-db1c0070-dybc8c00-g5c6428-k101010-lne0e0e0-n888888-rc8002c/sett.png)|
+| [O'Sullivan McCragh (Personal)](/setts/s24/b4g6b4g6b20w4r24k4r10k4r24w4b20g6b4g6b4g32ra4g8y4g8ra4g32-b1c0070-g5c6428-k101010-r888888-rac8002c-we0e0e0-ybc8c00/)|
+|![O'Sullivan McCragh (Personal) example sett](/setts/s24/b4g6b4g6b20w4r24k4r10k4r24w4b20g6b4g6b4g32ra4g8y4g8ra4g32-b1c0070-g5c6428-k101010-r888888-rac8002c-we0e0e0-ybc8c00/sett.png)|

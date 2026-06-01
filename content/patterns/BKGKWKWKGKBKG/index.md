@@ -16,5 +16,7 @@ BKGKWKWKGKBKG
 
 | Tartans |
 |---------------|
-| [Stephenson Hunting](/tartans/b/18/k18/g18/k2/ln2/k4/ln2/k2/g18/k18/b18/k2/g/4/)|
-|![Stephenson Hunting example sett](/variants/b/18/k18/g18/k2/ln2/k4/ln2/k2/g18/k18/b18/k2/g/4-b2c4084-g005020-k101010-lne0e0e0/sett.png)|
+| [Stephenson Hunting](/setts/s13/b36k36g36k4w4k8w4k4g36k36b36k4g8-b2c4084-g005020-k101010-we0e0e0/)|
+|![Stephenson Hunting example sett](/setts/s13/b36k36g36k4w4k8w4k4g36k36b36k4g8-b2c4084-g005020-k101010-we0e0e0/sett.png)|
+| [Stephenson, hunting](/setts/s13/b36k36g36k4w4k8w4k4g36k36b36k4g8-b304080-g008000-k000000-we0e0e0/)|
+|![Stephenson, hunting example sett](/setts/s13/b36k36g36k4w4k8w4k4g36k36b36k4g8-b304080-g008000-k000000-we0e0e0/sett.png)|

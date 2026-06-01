@@ -16,7 +16,7 @@ BGBGBGBGBG
 
 | Tartans |
 |---------------|
-| [Carnet](/tartans/g/4/k2/g22/k6/g6/k12/g6/k6/g22/k/2/)|
-|![Carnet example sett](/variants/g/4/k2/g22/k6/g6/k12/g6/k6/g22/k/2-g004c00-k381c0c-ka28140c/sett.png)|
-| [Inkster](/tartans/db/12/t4/db4/t6/db20/g50/db20/t6/db4/t/4/)|
-|![Inkster example sett](/variants/db/12/t4/db4/t6/db20/g50/db20/t6/db4/t/4-db1c0070-g006818-t604000/sett.png)|
+| [Carnet](/setts/s10/b4g44b12g12b24g12b12g44b4g8-b381c0c-g004c00/)|
+|![Carnet example sett](/setts/s10/b4g44b12g12b24g12b12g44b4g8-b381c0c-g004c00/sett.png)|
+| [Inkster](/setts/s10/b12g4b4g6b20ga50b20g6b4g4-b1c0070-g604000-ga006818/)|
+|![Inkster example sett](/setts/s10/b12g4b4g6b20ga50b20g6b4g4-b1c0070-g604000-ga006818/sett.png)|

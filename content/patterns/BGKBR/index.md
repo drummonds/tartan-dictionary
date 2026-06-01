@@ -6,7 +6,7 @@ BGKBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/4/g16/k14/db24/r/4-b5c8ca8-db2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s5/b8g32k28ba48r8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/tartan.png)
 
 
 
@@ -18,13 +18,15 @@ BGKBR
 
 | Tartans |
 |---------------|
-| [Forbo Nairn](/tartans/b/4/g16/k14/db24/r/4/)|
-|![Forbo Nairn example sett](/variants/b/4/g16/k14/db24/r/4-b5c8ca8-db2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Frobo Nairn](/tartans/db/2/g12/k10/db18/dr/4/)|
-|![Frobo Nairn example sett](/variants/db/2/g12/k10/db18/dr/4-db00008c-dr8c0000-g007800-k000000/sett.png)|
-| [Breon (Jersey Shore, Pennsylvania) (Personal)](/tartans/b/50/k50/ka12/n20/r/12/)|
-|![Breon (Jersey Shore, Pennsylvania) (Personal) example sett](/variants/b/50/k50/ka12/n20/r/12-b5f749c-k23321b-ka1c1714-n433a5a-rb62531/sett.png)|
-| [Breon (Personal)](/tartans/b/50/g50/k12/db20/r/12/)|
-|![Breon (Personal) example sett](/variants/b/50/g50/k12/db20/r/12-b1474b4-db003c64-g006818-k101010-rc80000/sett.png)|
-| [Forbo Nairn](/tartans/b/4/g16/k14/db24/dr/4/)|
-|![Forbo Nairn example sett](/variants/b/4/g16/k14/db24/dr/4-b5480b0-db000050-dr800000-g008000-k000000/sett.png)|
+| [Forbo Nairn](/setts/s5/b8g32k28ba48r8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/)|
+|![Forbo Nairn example sett](/setts/s5/b8g32k28ba48r8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Frobo Nairn](/setts/s5/b4g24k20b36r8-b00008c-g007800-k000000-r8c0000/)|
+|![Frobo Nairn example sett](/setts/s5/b4g24k20b36r8-b00008c-g007800-k000000-r8c0000/sett.png)|
+| [Breon (Jersey Shore, Pennsylvania) (Personal)](/setts/s5/b50g50k12ba20r12-b5f749c-ba433a5a-g23321b-k1c1714-rb62531/)|
+|![Breon (Jersey Shore, Pennsylvania) (Personal) example sett](/setts/s5/b50g50k12ba20r12-b5f749c-ba433a5a-g23321b-k1c1714-rb62531/sett.png)|
+| [Forbo Nairn (Corporate)](/setts/s5/b8g32k28ba48r8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/)|
+|![Forbo Nairn (Corporate) example sett](/setts/s5/b8g32k28ba48r8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Breon (Personal)](/setts/s5/b50g50k12ba20r12-b1474b4-ba003c64-g006818-k101010-rc80000/)|
+|![Breon (Personal) example sett](/setts/s5/b50g50k12ba20r12-b1474b4-ba003c64-g006818-k101010-rc80000/sett.png)|
+| [Forbo Nairn](/setts/s5/b8g32k28ba48r8-b5480b0-ba000050-g008000-k000000-r800000/)|
+|![Forbo Nairn example sett](/setts/s5/b8g32k28ba48r8-b5480b0-ba000050-g008000-k000000-r800000/sett.png)|

@@ -6,7 +6,7 @@ BKBYG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/2/k2/db16/dy2/g/24-db2c2c80-dyd09800-g006818-k101010/tartan.png)
+![Woven sample](/setts/s5/b4k4b32y4g48-b2c2c80-g006818-k101010-yd09800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBYG
 
 | Tartans |
 |---------------|
-| [Rowan (Personal)](/tartans/db/2/k2/db16/dy2/g/24/)|
-|![Rowan (Personal) example sett](/variants/db/2/k2/db16/dy2/g/24-db2c2c80-dyd09800-g006818-k101010/sett.png)|
+| [Rowan (Personal)](/setts/s5/b4k4b32y4g48-b2c2c80-g006818-k101010-yd09800/)|
+|![Rowan (Personal) example sett](/setts/s5/b4k4b32y4g48-b2c2c80-g006818-k101010-yd09800/sett.png)|

@@ -16,7 +16,7 @@ BKBKRBBKBKBKBKR
 
 | Tartans |
 |---------------|
-| [Amble](/tartans/ka/40/k12/ka10/k16/t8/ka12/b6/k2/ka6/k2/b6/k18/b22/k2/t/2/)|
-|![Amble example sett](/variants/ka/40/k12/ka10/k16/t8/ka12/b6/k2/ka6/k2/b6/k18/b22/k2/t/2-b007ba7-k101010-ka3c2010-t8b4513/sett.png)|
-| [Amble (Fashion)](/tartans/dr/40/k12/dr10/k16/t8/dr12/db6/k2/dr6/k2/db6/k18/db22/k2/t/2/)|
-|![Amble (Fashion) example sett](/variants/dr/40/k12/dr10/k16/t8/dr12/db6/k2/dr6/k2/db6/k18/db22/k2/t/2-db2c2c80-dr441800-k101010-t906000/sett.png)|
+| [Amble](/setts/s15/b40k12b10k16r8b12ba6k2b6k2ba6k18ba22k2r2-b3c2010-ba007ba7-k101010-r8b4513/)|
+|![Amble example sett](/setts/s15/b40k12b10k16r8b12ba6k2b6k2ba6k18ba22k2r2-b3c2010-ba007ba7-k101010-r8b4513/sett.png)|
+| [Amble (Fashion)](/setts/s15/b40k12b10k16r8b12ba6k2b6k2ba6k18ba22k2r2-b441800-ba2c2c80-k101010-r906000/)|
+|![Amble (Fashion) example sett](/setts/s15/b40k12b10k16r8b12ba6k2b6k2ba6k18ba22k2r2-b441800-ba2c2c80-k101010-r906000/sett.png)|

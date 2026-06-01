@@ -16,5 +16,7 @@ BBBGBGBGG
 
 | Tartans |
 |---------------|
-| [Cowal Highland Gathering](/tartans/dg/4/g16/dn2/g2/dn2/g2/dn16/db18/n/2/)|
-|![Cowal Highland Gathering example sett](/variants/dg/4/g16/dn2/g2/dn2/g2/dn16/db18/n/2-db003c64-dg003820-dn14283c-g5c6428-n5c5c5c/sett.png)|
+| [Cowal Highland Gathering](/setts/s9/b4ba36bb32g4bb4g4bb4g32ga8-b5c5c5c-ba003c64-bb14283c-g5c6428-ga003820/)|
+|![Cowal Highland Gathering example sett](/setts/s9/b4ba36bb32g4bb4g4bb4g32ga8-b5c5c5c-ba003c64-bb14283c-g5c6428-ga003820/sett.png)|
+| [Cowal Highland Gathering (Corporate)](/setts/s9/b4ba36bb32g4bb4g4bb4g32ga8-b5c5c5c-ba003c64-bb14283c-g5c6428-ga003820/)|
+|![Cowal Highland Gathering (Corporate) example sett](/setts/s9/b4ba36bb32g4bb4g4bb4g32ga8-b5c5c5c-ba003c64-bb14283c-g5c6428-ga003820/sett.png)|

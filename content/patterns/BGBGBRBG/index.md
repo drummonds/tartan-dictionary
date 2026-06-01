@@ -6,7 +6,7 @@ BGBGBRBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/32/ga16/b16/ga16/db32/r6/dr6/g/6-b1474b4-db2c2c80-dr441800-g5c6428-ga006818-rc80000/tartan.png)
+![Woven sample](/setts/s8/b32g16ba16g16b32r6bb6ga6-b2c2c80-ba1474b4-bb441800-g006818-ga5c6428-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBGBRBG
 
 | Tartans |
 |---------------|
-| [Glen Erin](/tartans/db/32/ga16/b16/ga16/db32/r6/dr6/g/6/)|
-|![Glen Erin example sett](/variants/db/32/ga16/b16/ga16/db32/r6/dr6/g/6-b1474b4-db2c2c80-dr441800-g5c6428-ga006818-rc80000/sett.png)|
+| [Glen Erin](/setts/s8/b32g16ba16g16b32r6bb6ga6-b2c2c80-ba1474b4-bb441800-g006818-ga5c6428-rc80000/)|
+|![Glen Erin example sett](/setts/s8/b32g16ba16g16b32r6bb6ga6-b2c2c80-ba1474b4-bb441800-g006818-ga5c6428-rc80000/sett.png)|
+| [Glen Erin (Fashion)](/setts/s8/b32g16ba16g16b32r6bb6ga6-b2c2c80-ba1474b4-bb441800-g006818-ga5c6428-rc80000/)|
+|![Glen Erin (Fashion) example sett](/setts/s8/b32g16ba16g16b32r6bb6ga6-b2c2c80-ba1474b4-bb441800-g006818-ga5c6428-rc80000/sett.png)|

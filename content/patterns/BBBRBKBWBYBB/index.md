@@ -16,5 +16,5 @@ BBBRBKBWBYBB
 
 | Tartans |
 |---------------|
-| [Manchester City Football Club "Blue Moon"](/tartans/b/4/db4/y4/db6/w10/db4/k4/db4/dr4/db8/b32/db/8/)|
-|![Manchester City Football Club "Blue Moon" example sett](/variants/b/4/db4/y4/db6/w10/db4/k4/db4/dr4/db8/b32/db/8-b788cb4-db000048-dr800028-k101010-wfcfcfc-yfccc00/sett.png)|
+| [Manchester City Football Club "Blue Moon"](/setts/s12/b8ba32b8r4b4k4b4w10b6y4b4ba4-b000048-ba788cb4-k101010-r800028-wfcfcfc-yfccc00/)|
+|![Manchester City Football Club "Blue Moon" example sett](/setts/s12/b8ba32b8r4b4k4b4w10b6y4b4ba4-b000048-ba788cb4-k101010-r800028-wfcfcfc-yfccc00/sett.png)|

@@ -16,7 +16,9 @@ BKBRBKGYGY
 
 | Tartans |
 |---------------|
-| [Watson (Name)](/tartans/db/48/k4/db4/r4/db4/k40/g32/y4/g4/y/6/)|
-|![Watson (Name) example sett](/variants/db/48/k4/db4/r4/db4/k40/g32/y4/g4/y/6-db2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Watson](/tartans/b/48/k4/b4/r4/b4/k40/g32/y4/g4/y/6/)|
-|![Watson example sett](/variants/b/48/k4/b4/r4/b4/k40/g32/y4/g4/y/6-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Watson (Name)](/setts/s10/b48k4b4r4b4k40g32y4g4y6-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
+|![Watson (Name) example sett](/setts/s10/b48k4b4r4b4k40g32y4g4y6-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Watson](/setts/s10/b48k4b4r4b4k40g32y4g4y6-b304080-g008000-k000000-rc00000-yf0c000/)|
+|![Watson example sett](/setts/s10/b48k4b4r4b4k40g32y4g4y6-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Watson Clan Tartan Tartan Number: 307. Earliest known date: 1950 The Watson tartan was designed and manufactured during 1950 for the use of the Clan Watson Society. The design is based on the Gordon and Hunting MacRae tartans. The name is associated in part with the Aberdeenshire area. The Clan Watson Society no longer appears to be active. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b48k4b4r4b4k40g32y4g4y6-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
+|![Watson Clan Tartan Tartan Number: 307. Earliest known date: 1950 The Watson tartan was designed and manufactured during 1950 for the use of the Clan Watson Society. The design is based on the Gordon and Hunting MacRae tartans. The name is associated in part with the Aberdeenshire area. The Clan Watson Society no longer appears to be active. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b48k4b4r4b4k40g32y4g4y6-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|

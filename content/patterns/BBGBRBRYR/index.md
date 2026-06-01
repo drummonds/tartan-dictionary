@@ -16,7 +16,9 @@ BBGBRBRYR
 
 | Tartans |
 |---------------|
-| [Loch Lomond (1999)](/tartans/dp/8/p30/g20/dp16/dr8/db6/dr6/y6/dr/56/)|
-|![Loch Lomond (1999) example sett](/variants/dp/8/p30/g20/dp16/dr8/db6/dr6/y6/dr/56-db2c2c80-dp440044-dr880000-g006818-p780078-ye8c000/sett.png)|
-| [Loch Lomond](/tartans/dp/8/p30/dg20/dp16/dr8/db6/dr6/y6/dr/56/)|
-|![Loch Lomond example sett](/variants/dp/8/p30/dg20/dp16/dr8/db6/dr6/y6/dr/56-db102040-dg004010-dp300030-dr800000-p800080-yf0c000/sett.png)|
+| [Loch Lomond (1999)](/setts/s9/b8ba30g20b16r8bb6r6y6r56-b440044-ba780078-bb2c2c80-g006818-r880000-ye8c000/)|
+|![Loch Lomond (1999) example sett](/setts/s9/b8ba30g20b16r8bb6r6y6r56-b440044-ba780078-bb2c2c80-g006818-r880000-ye8c000/sett.png)|
+| [Loch Lomond (1999) (Fashion)](/setts/s9/b8ba30g20b16r8bb6r6y6r56-b440044-ba780078-bb2c2c80-g006818-r880000-ye8c000/)|
+|![Loch Lomond (1999) (Fashion) example sett](/setts/s9/b8ba30g20b16r8bb6r6y6r56-b440044-ba780078-bb2c2c80-g006818-r880000-ye8c000/sett.png)|
+| [Loch Lomond](/setts/s9/b8ba30g20b16r8bb6r6y6r56-b300030-ba800080-bb102040-g004010-r800000-yf0c000/)|
+|![Loch Lomond example sett](/setts/s9/b8ba30g20b16r8bb6r6y6r56-b300030-ba800080-bb102040-g004010-r800000-yf0c000/sett.png)|

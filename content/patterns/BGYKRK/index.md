@@ -6,7 +6,7 @@ BGYKRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/12/dg96/y4/k26/r4/k/16-b2474e8-dg004028-k101010-rc82828-ye0a126/tartan.png)
+![Woven sample](/setts/s6/b12g96y4k26r4k16-b2474e8-g004028-k101010-rc82828-ye0a126/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGYKRK
 
 | Tartans |
 |---------------|
-| [Green Swamp Youth Campers](/tartans/b/12/dg96/y4/k26/r4/k/16/)|
-|![Green Swamp Youth Campers example sett](/variants/b/12/dg96/y4/k26/r4/k/16-b2474e8-dg004028-k101010-rc82828-ye0a126/sett.png)|
-| [Green Swamp Youth Campers](/tartans/db/12/dg96/y4/k26/r4/k/16/)|
-|![Green Swamp Youth Campers example sett](/variants/db/12/dg96/y4/k26/r4/k/16-db2c2c80-dg003820-k101010-rc80000-ye8c000/sett.png)|
+| [Green Swamp Youth Campers](/setts/s6/b12g96y4k26r4k16-b2474e8-g004028-k101010-rc82828-ye0a126/)|
+|![Green Swamp Youth Campers example sett](/setts/s6/b12g96y4k26r4k16-b2474e8-g004028-k101010-rc82828-ye0a126/sett.png)|
+| [Green Swamp Youth Campers](/setts/s6/b12g96y4k26r4k16-b2c2c80-g003820-k101010-rc80000-ye8c000/)|
+|![Green Swamp Youth Campers example sett](/setts/s6/b12g96y4k26r4k16-b2c2c80-g003820-k101010-rc80000-ye8c000/sett.png)|

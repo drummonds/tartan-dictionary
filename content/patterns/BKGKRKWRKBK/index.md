@@ -16,5 +16,7 @@ BKGKRKWRKBK
 
 | Tartans |
 |---------------|
-| [CoVASS](/tartans/db/4/k4/g2/k4/lr8/k2/ln2/lr4/k4/p2/k/180/)|
-|![CoVASS example sett](/variants/db/4/k4/g2/k4/lr8/k2/ln2/lr4/k4/p2/k/180-db2c2c80-g006818-k101010-lne0e0e0-lre87878-p780078/sett.png)|
+| [CoVASS](/setts/s11/b4k4g2k4r8k2w2r4k4ba2k180-b2c2c80-ba780078-g006818-k101010-re87878-we0e0e0/)|
+|![CoVASS example sett](/setts/s11/b4k4g2k4r8k2w2r4k4ba2k180-b2c2c80-ba780078-g006818-k101010-re87878-we0e0e0/sett.png)|
+| [CoVASS (Corporate)](/setts/s11/b4k4g2k4r8k2w2r4k4ba2k180-b2c2c80-ba780078-g006818-k101010-re87878-we0e0e0/)|
+|![CoVASS (Corporate) example sett](/setts/s11/b4k4g2k4r8k2w2r4k4ba2k180-b2c2c80-ba780078-g006818-k101010-re87878-we0e0e0/sett.png)|

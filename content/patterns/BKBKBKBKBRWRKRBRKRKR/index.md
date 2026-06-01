@@ -16,5 +16,5 @@ BKBKBKBKBRWRKRBRKRKR
 
 | Tartans |
 |---------------|
-| [Club World (Corporate)](/tartans/db/28/k14/db42/k4/db4/k4/db4/k8/db14/r50/ln4/r4/k6/r32/db18/r4/k8/r4/k8/r/4/)|
-|![Club World (Corporate) example sett](/variants/db/28/k14/db42/k4/db4/k4/db4/k8/db14/r50/ln4/r4/k6/r32/db18/r4/k8/r4/k8/r/4-db1c0070-k101010-lne0e0e0-rc80000/sett.png)|
+| [Club World (Corporate)](/setts/s20/b28k14b42k4b4k4b4k8b14r50w4r4k6r32b18r4k8r4k8r4-b1c0070-k101010-rc80000-we0e0e0/)|
+|![Club World (Corporate) example sett](/setts/s20/b28k14b42k4b4k4b4k8b14r50w4r4k6r32b18r4k8r4k8r4-b1c0070-k101010-rc80000-we0e0e0/sett.png)|

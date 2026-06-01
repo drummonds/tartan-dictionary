@@ -6,7 +6,7 @@ BBBBBGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dba/8/g36/dba28/p4/dba6/p4/dba/40-db2c2c80-dba2c2c80-g146400-p64008c-pa64008c/tartan.png)
+![Woven sample](/setts/s7/b40ba4b6ba4b28g36b8-b2c2c80-ba64008c-g146400/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBBGB
 
 | Tartans |
 |---------------|
-| [Pringle, James (Fashion)](/tartans/dba/8/g36/dba28/p4/dba6/p4/dba/40/)|
-|![Pringle, James (Fashion) example sett](/variants/dba/8/g36/dba28/p4/dba6/p4/dba/40-db2c2c80-dba2c2c80-g146400-p64008c-pa64008c/sett.png)|
+| [Pringle, James (Fashion)](/setts/s7/b40ba4b6ba4b28g36b8-b2c2c80-ba64008c-g146400/)|
+|![Pringle, James (Fashion) example sett](/setts/s7/b40ba4b6ba4b28g36b8-b2c2c80-ba64008c-g146400/sett.png)|

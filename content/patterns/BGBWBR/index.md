@@ -6,7 +6,7 @@ BGBWBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/6/g50/db6/w10/db50/dr/10-db202060-dra51805-g255210-wffffff/tartan.png)
+![Woven sample](/setts/s6/b6g50b6w10b50r10-b202060-g255210-ra51805-wffffff/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBWBR
 
 | Tartans |
 |---------------|
-| [Thayer USA](/tartans/db/6/g50/db6/w10/db50/dr/10/)|
-|![Thayer USA example sett](/variants/db/6/g50/db6/w10/db50/dr/10-db202060-dra51805-g255210-wffffff/sett.png)|
-| [Thayer USA (Name)](/tartans/db/6/g50/db6/ln10/db50/r/10/)|
-|![Thayer USA (Name) example sett](/variants/db/6/g50/db6/ln10/db50/r/10-db2c2c80-g006818-lne0e0e0-rc80000/sett.png)|
+| [Thayer USA](/setts/s6/b6g50b6w10b50r10-b202060-g255210-ra51805-wffffff/)|
+|![Thayer USA example sett](/setts/s6/b6g50b6w10b50r10-b202060-g255210-ra51805-wffffff/sett.png)|
+| [Thayer USA (Name)](/setts/s6/b6g50b6w10b50r10-b2c2c80-g006818-rc80000-we0e0e0/)|
+|![Thayer USA (Name) example sett](/setts/s6/b6g50b6w10b50r10-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|

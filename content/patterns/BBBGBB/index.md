@@ -6,7 +6,7 @@ BBBGBB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/13/k13/dg21/db34/k55/dr/3-db14143c-dg003820-dp440044-dr441800-k1c1c1c/tartan.png)
+![Woven sample](/setts/s6/b13ba13g21b34ba55bb3-b14143c-ba1c1c1c-bb441800-g003820/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBGBB
 
 | Tartans |
 |---------------|
-| [Bouncing Blackie (Personal)](/tartans/db/13/k13/dg21/db34/k55/dr/3/)|
-|![Bouncing Blackie (Personal) example sett](/variants/db/13/k13/dg21/db34/k55/dr/3-db14143c-dg003820-dp440044-dr441800-k1c1c1c/sett.png)|
+| [Bouncing Blackie (Personal)](/setts/s6/b13ba13g21b34ba55bb3-b14143c-ba1c1c1c-bb441800-g003820/)|
+|![Bouncing Blackie (Personal) example sett](/setts/s6/b13ba13g21b34ba55bb3-b14143c-ba1c1c1c-bb441800-g003820/sett.png)|

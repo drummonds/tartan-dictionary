@@ -16,5 +16,5 @@ BBKYKWKGGWG
 
 | Tartans |
 |---------------|
-| [MacLean of Kingairloch Clan Tartan Tartan Number: 61. Earliest known date: pre 2003 Reproduction. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/16/b2/k12/y2/k4/ln4/k4/g24/t56/ln2/t/8/)|
-|![MacLean of Kingairloch Clan Tartan Tartan Number: 61. Earliest known date: pre 2003 Reproduction. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/16/b2/k12/y2/k4/ln4/k4/g24/t56/ln2/t/8-b5c8ca8-db2c2c80-g006818-k101010-lne0e0e0-t604000-ye8c000/sett.png)|
+| [MacLean of Kingairloch Clan Tartan Tartan Number: 61. Earliest known date: pre 2003 Reproduction. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b16ba2k12y2k4w4k4g24ga56w2ga8-b2c2c80-ba5c8ca8-g006818-ga604000-k101010-we0e0e0-ye8c000/)|
+|![MacLean of Kingairloch Clan Tartan Tartan Number: 61. Earliest known date: pre 2003 Reproduction. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b16ba2k12y2k4w4k4g24ga56w2ga8-b2c2c80-ba5c8ca8-g006818-ga604000-k101010-we0e0e0-ye8c000/sett.png)|

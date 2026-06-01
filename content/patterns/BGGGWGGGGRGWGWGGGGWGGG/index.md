@@ -16,9 +16,11 @@ BGGGWGGGGRGWGWGGGGWGGG
 
 | Tartans |
 |---------------|
-| [Toshach](/tartans/b/8/gb10/g8/gb20/ln4/gb20/g4/gb4/g40/r8/g8/ln8/g8/ln8/g40/gb4/g4/gb20/ln4/gb20/g8/gb/20/)|
-|![Toshach example sett](/variants/b/8/gb10/g8/gb20/ln4/gb20/g4/gb4/g40/r8/g8/ln8/g8/ln8/g40/gb4/g4/gb20/ln4/gb20/g8/gb/20-b2888c4-g005448-ga006818-gb289c18-lne0e0e0-rc80000/sett.png)|
-| [Toshach (Artefact)](/tartans/b/8/g10/ga8/g20/ln4/g20/ga4/g4/ga40/r8/ga8/ln8/ga8/ln8/ga40/g4/ga4/g20/ln4/g20/ga8/g/20/)|
-|![Toshach (Artefact) example sett](/variants/b/8/g10/ga8/g20/ln4/g20/ga4/g4/ga40/r8/ga8/ln8/ga8/ln8/ga40/g4/ga4/g20/ln4/g20/ga8/g/20-b2888c4-g289c18-ga005448-lne0e0e0-rc80000/sett.png)|
-| [Toshach](/tartans/b/8/dg10/g8/dg20/ln4/dg20/g4/dg4/g40/r8/g8/ln8/g8/ln8/g40/dg4/g4/dg20/ln4/dg20/g8/dg/20/)|
-|![Toshach example sett](/variants/b/8/dg10/g8/dg20/ln4/dg20/g4/dg4/g40/r8/g8/ln8/g8/ln8/g40/dg4/g4/dg20/ln4/dg20/g8/dg/20-b8080d0-dg003000-g006030-lne0e0e0-rc00000/sett.png)|
+| [Toshach](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b2888c4-g289c18-ga005448-rc80000-we0e0e0/)|
+|![Toshach example sett](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b2888c4-g289c18-ga005448-rc80000-we0e0e0/sett.png)|
+| [Toshach (Artefact)](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b2888c4-g289c18-ga005448-rc80000-we0e0e0/)|
+|![Toshach (Artefact) example sett](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b2888c4-g289c18-ga005448-rc80000-we0e0e0/sett.png)|
+| [Toshach](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b8080d0-g003000-ga006030-rc00000-we0e0e0/)|
+|![Toshach example sett](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b8080d0-g003000-ga006030-rc00000-we0e0e0/sett.png)|
+| [Toshach Family Tartan Tartan Number: 2344. Earliest known date: pre 2002 Toshach is an early Celtic title given to minor territorial chiefs in Scotland (note Eire Prime Minister's official title is this). This sett was taken from a rug in the possession for many generations of a family whose forebear was reputed to be Sir Walter Scott's librarian. Green lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b2888c4-g289c18-ga005448-rc80000-we0e0e0/)|
+|![Toshach Family Tartan Tartan Number: 2344. Earliest known date: pre 2002 Toshach is an early Celtic title given to minor territorial chiefs in Scotland (note Eire Prime Minister's official title is this). This sett was taken from a rug in the possession for many generations of a family whose forebear was reputed to be Sir Walter Scott's librarian. Green lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s22/b8g10ga8g20w4g20ga4g4ga40r8ga8w8ga8w8ga40g4ga4g20w4g20ga8g20-b2888c4-g289c18-ga005448-rc80000-we0e0e0/sett.png)|

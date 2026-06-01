@@ -6,7 +6,7 @@ BKBRBRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/26/k6/b40/lt140/b40/lt60/ln/6-b304080-k000000-lne0e0e0-lt806050/tartan.png)
+![Woven sample](/setts/s7/b26k6b40r140b40r60w6-b304080-k000000-r806050-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBRBRW
 
 | Tartans |
 |---------------|
-| [Unidentified 21](/tartans/b/26/k6/b40/lt140/b40/lt60/ln/6/)|
-|![Unidentified 21 example sett](/variants/b/26/k6/b40/lt140/b40/lt60/ln/6-b304080-k000000-lne0e0e0-lt806050/sett.png)|
+| [Unidentified 21](/setts/s7/b26k6b40r140b40r60w6-b304080-k000000-r806050-we0e0e0/)|
+|![Unidentified 21 example sett](/setts/s7/b26k6b40r140b40r60w6-b304080-k000000-r806050-we0e0e0/sett.png)|

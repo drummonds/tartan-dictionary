@@ -16,5 +16,5 @@ BGRRRKBKBGW
 
 | Tartans |
 |---------------|
-| [1314 (Corporate)](/tartans/db/10/g6/lp4/dr2/lp4/k10/db6/k4/db28/g55/w/4/)|
-|![1314 (Corporate) example sett](/variants/db/10/g6/lp4/dr2/lp4/k10/db6/k4/db28/g55/w/4-db1c0070-dr901c38-g006818-k101010-lp90648c-wf8f8f8/sett.png)|
+| [1314 (Corporate)](/setts/s11/b10g6r4ra2r4k10b6k4b28g55w4-b1c0070-g006818-k101010-r90648c-ra901c38-wf8f8f8/)|
+|![1314 (Corporate) example sett](/setts/s11/b10g6r4ra2r4k10b6k4b28g55w4-b1c0070-g006818-k101010-r90648c-ra901c38-wf8f8f8/sett.png)|

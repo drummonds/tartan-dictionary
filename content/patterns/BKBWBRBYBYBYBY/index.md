@@ -16,5 +16,5 @@ BKBWBRBYBYBYBY
 
 | Tartans |
 |---------------|
-| [King Pootatau Te Wherowhero](/tartans/db/46/k2/db2/w2/db2/r2/db8/o4/db2/o4/db2/o4/db2/o/4/)|
-|![King Pootatau Te Wherowhero example sett](/variants/db/46/k2/db2/w2/db2/r2/db8/o4/db2/o4/db2/o4/db2/o/4-db00008c-k101010-od87c00-rdc0000-wffffff/sett.png)|
+| [King Pootatau Te Wherowhero](/setts/s14/b46k2b2w2b2r2b8y4b2y4b2y4b2y4-b00008c-k101010-rdc0000-wffffff-yd87c00/)|
+|![King Pootatau Te Wherowhero example sett](/setts/s14/b46k2b2w2b2r2b8y4b2y4b2y4b2y4-b00008c-k101010-rdc0000-wffffff-yd87c00/sett.png)|

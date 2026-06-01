@@ -16,5 +16,5 @@ BKBKWKBYBKBKBK
 
 | Tartans |
 |---------------|
-| [Simon and Friends (Hamburg) (Personal)](/tartans/dn/10/k12/dn24/k46/w4/k24/t26/o12/t26/k46/dn24/k12/dn10/k/12/)|
-|![Simon and Friends (Hamburg) (Personal) example sett](/variants/dn/10/k12/dn24/k46/w4/k24/t26/o12/t26/k46/dn24/k12/dn10/k/12-dn273f37-k101010-ocf963b-t483225-wffffff/sett.png)|
+| [Simon and Friends (Hamburg) (Personal)](/setts/s14/b10k12b24k46w4k24ba26y12ba26k46b24k12b10k12-b273f37-ba483225-k101010-wffffff-ycf963b/)|
+|![Simon and Friends (Hamburg) (Personal) example sett](/setts/s14/b10k12b24k46w4k24ba26y12ba26k46b24k12b10k12-b273f37-ba483225-k101010-wffffff-ycf963b/sett.png)|

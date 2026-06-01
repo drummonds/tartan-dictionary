@@ -16,5 +16,5 @@ BKBRKWKWY
 
 | Tartans |
 |---------------|
-| [Carbon (Corporate)](/tartans/lg/4/na8/k10/ln3/k3/nb20/n18/k4/n/68/)|
-|![Carbon (Corporate) example sett](/variants/lg/4/na8/k10/ln3/k3/nb20/n18/k4/n/68-k101010-lgfcb464-lne0e0e0-n5c5c5c-nac0c0c0-nb888888/sett.png)|
+| [Carbon (Corporate)](/setts/s9/b68k4b18r20k3w3k10wa8y4-b5c5c5c-k101010-r888888-we0e0e0-wac0c0c0-yfcb464/)|
+|![Carbon (Corporate) example sett](/setts/s9/b68k4b18r20k3w3k10wa8y4-b5c5c5c-k101010-r888888-we0e0e0-wac0c0c0-yfcb464/sett.png)|

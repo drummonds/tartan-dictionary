@@ -16,5 +16,5 @@ BKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBK
 
 | Tartans |
 |---------------|
-| [MacKay, Marled](/tartans/k/8/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k24/n8/k24/n/8/)|
-|![MacKay, Marled example sett](/variants/k/8/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k2/n2/k24/n8/k24/n/8-k101010-n5c5c5c/sett.png)|
+| [MacKay, Marled](/setts/s36/b4k12b4k12b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k4-b5c5c5c-k101010/)|
+|![MacKay, Marled example sett](/setts/s36/b4k12b4k12b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k1b1k4-b5c5c5c-k101010/sett.png)|

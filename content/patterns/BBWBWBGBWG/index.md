@@ -16,5 +16,9 @@ BBWBWBGBWG
 
 | Tartans |
 |---------------|
-| [Head of The Lakes](/tartans/b/4/db54/n4/p10/n4/p10/dg28/db56/n4/g/14/)|
-|![Head of The Lakes example sett](/variants/b/4/db54/n4/p10/n4/p10/dg28/db56/n4/g/14-b2474e8-db1c0070-dg003820-g289c18-nc0c0c0-p6c0070/sett.png)|
+| [Head of The Lakes](/setts/s10/b4ba54w4bb10w4bb10g28ba56w4ga14-b2474e8-ba1c0070-bb6c0070-g003820-ga289c18-wc0c0c0/)|
+|![Head of The Lakes example sett](/setts/s10/b4ba54w4bb10w4bb10g28ba56w4ga14-b2474e8-ba1c0070-bb6c0070-g003820-ga289c18-wc0c0c0/sett.png)|
+| [Head of The Lakes (District)](/setts/s10/b4ba54w4bb10w4bb10g28ba56w4ga14-b2474e8-ba1c0070-bb6c0070-g003820-ga289c18-wc0c0c0/)|
+|![Head of The Lakes (District) example sett](/setts/s10/b4ba54w4bb10w4bb10g28ba56w4ga14-b2474e8-ba1c0070-bb6c0070-g003820-ga289c18-wc0c0c0/sett.png)|
+| [Head of the Lakes District Canada Tartan Tartan Number: 2241. Earliest known date: 1996 Designed by Joan Forrester Troniak & Fiona Irwin as a District Tartan to comemorate the 25th anniversary of the Ontario city of Thunder Bay which has adopted it. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b4ba54w4bb10w4bb10g28ba56w4ga14-b2474e8-ba1c0070-bb6c0070-g003820-ga289c18-wc0c0c0/)|
+|![Head of the Lakes District Canada Tartan Tartan Number: 2241. Earliest known date: 1996 Designed by Joan Forrester Troniak & Fiona Irwin as a District Tartan to comemorate the 25th anniversary of the Ontario city of Thunder Bay which has adopted it. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b4ba54w4bb10w4bb10g28ba56w4ga14-b2474e8-ba1c0070-bb6c0070-g003820-ga289c18-wc0c0c0/sett.png)|

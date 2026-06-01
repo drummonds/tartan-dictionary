@@ -16,5 +16,7 @@ BKBKBKBKGRK
 
 | Tartans |
 |---------------|
-| [Bijral](/tartans/b/4/k4/b10/k4/b4/k4/b8/k20/g20/r2/k/4/)|
-|![Bijral example sett](/variants/b/4/k4/b10/k4/b4/k4/b8/k20/g20/r2/k/4-b2888c4-g285800-k101010-rc80000/sett.png)|
+| [Bijral](/setts/s11/b4k4b10k4b4k4b8k20g20r2k4-b2888c4-g285800-k101010-rc80000/)|
+|![Bijral example sett](/setts/s11/b4k4b10k4b4k4b8k20g20r2k4-b2888c4-g285800-k101010-rc80000/sett.png)|
+| [Bijral (Name)](/setts/s11/b4k4b10k4b4k4b8k20g20r2k4-b2888c4-g285800-k101010-rc80000/)|
+|![Bijral (Name) example sett](/setts/s11/b4k4b10k4b4k4b8k20g20r2k4-b2888c4-g285800-k101010-rc80000/sett.png)|

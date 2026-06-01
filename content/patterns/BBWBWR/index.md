@@ -6,7 +6,7 @@ BBWBWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/4/n4/na2/n36/na4/dr/4-db202060-dr880000-n5c5c5c-nac0c0c0/tartan.png)
+![Woven sample](/setts/s6/b8ba8w4ba72w8r8-b202060-ba5c5c5c-r880000-wc0c0c0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBWBWR
 
 | Tartans |
 |---------------|
-| [St. Giles Cathedral](/tartans/db/4/n4/na2/n36/na4/dr/4/)|
-|![St. Giles Cathedral example sett](/variants/db/4/n4/na2/n36/na4/dr/4-db202060-dr880000-n5c5c5c-nac0c0c0/sett.png)|
+| [St. Giles Cathedral](/setts/s6/b8ba8w4ba72w8r8-b202060-ba5c5c5c-r880000-wc0c0c0/)|
+|![St. Giles Cathedral example sett](/setts/s6/b8ba8w4ba72w8r8-b202060-ba5c5c5c-r880000-wc0c0c0/sett.png)|
+| [St. Giles Cathedral (Corporate)](/setts/s6/b8ba8w4ba72w8r8-b202060-ba5c5c5c-r880000-wc0c0c0/)|
+|![St. Giles Cathedral (Corporate) example sett](/setts/s6/b8ba8w4ba72w8r8-b202060-ba5c5c5c-r880000-wc0c0c0/sett.png)|

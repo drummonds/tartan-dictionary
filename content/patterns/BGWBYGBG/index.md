@@ -6,7 +6,7 @@ BGWBYGBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dr/2/g4/ln24/dr2/lt6/g16/dr16/g/4-dr441800-g006818-lne0e0e0-lta08858/tartan.png)
+![Woven sample](/setts/s8/b2g4w24b2y6g16b16g4-b441800-g006818-we0e0e0-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGWBYGBG
 
 | Tartans |
 |---------------|
-| [National Trust](/tartans/dr/2/g4/ln24/dr2/lt6/g16/dr16/g/4/)|
-|![National Trust example sett](/variants/dr/2/g4/ln24/dr2/lt6/g16/dr16/g/4-dr441800-g006818-lne0e0e0-lta08858/sett.png)|
+| [National Trust](/setts/s8/b2g4w24b2y6g16b16g4-b441800-g006818-we0e0e0-ya08858/)|
+|![National Trust example sett](/setts/s8/b2g4w24b2y6g16b16g4-b441800-g006818-we0e0e0-ya08858/sett.png)|

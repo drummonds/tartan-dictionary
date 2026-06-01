@@ -6,7 +6,7 @@ BGRBYGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/do/6/dg6/dy10/db50/do4/dg54/dr/8-db202060-dg003820-dob84c00-dr480800-dybc8c00/tartan.png)
+![Woven sample](/setts/s7/b8g54r4ba50y10g6r6-b480800-ba202060-g003820-rb84c00-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRBYGR
 
 | Tartans |
 |---------------|
-| [Kilkenny, County (District)](/tartans/do/6/dg6/dy10/db50/do4/dg54/dr/8/)|
-|![Kilkenny, County (District) example sett](/variants/do/6/dg6/dy10/db50/do4/dg54/dr/8-db202060-dg003820-dob84c00-dr480800-dybc8c00/sett.png)|
+| [Kilkenny, County (District)](/setts/s7/b8g54r4ba50y10g6r6-b480800-ba202060-g003820-rb84c00-ybc8c00/)|
+|![Kilkenny, County (District) example sett](/setts/s7/b8g54r4ba50y10g6r6-b480800-ba202060-g003820-rb84c00-ybc8c00/sett.png)|

@@ -16,5 +16,5 @@ BBBWBWRBGB
 
 | Tartans |
 |---------------|
-| [Bukowski-Jackson (Personal)](/tartans/dn/60/b10/dn10/lp10/dn20/w8/r8/dn20/g10/dn/20/)|
-|![Bukowski-Jackson (Personal) example sett](/variants/dn/60/b10/dn10/lp10/dn20/w8/r8/dn20/g10/dn/20-b5c8ca8-dn14283c-g00643c-lpc49cd8-rdc0000-wffffff/sett.png)|
+| [Bukowski-Jackson (Personal)](/setts/s10/b20g10b20r8w8b20wa10b10ba10b60-b14283c-ba5c8ca8-g00643c-rdc0000-wffffff-wac49cd8/)|
+|![Bukowski-Jackson (Personal) example sett](/setts/s10/b20g10b20r8w8b20wa10b10ba10b60-b14283c-ba5c8ca8-g00643c-rdc0000-wffffff-wac49cd8/sett.png)|

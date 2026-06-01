@@ -16,5 +16,7 @@ BGGBKGGGKBGBW
 
 | Tartans |
 |---------------|
-| [Clack (Personal)](/tartans/dba/8/g34/dg2/db4/k12/g4/dg24/g4/k12/db4/dg2/db36/ln/4/)|
-|![Clack (Personal) example sett](/variants/dba/8/g34/dg2/db4/k12/g4/dg24/g4/k12/db4/dg2/db36/ln/4-db2c2c80-dba202060-dg003820-g006818-k101010-lne0e0e0/sett.png)|
+| [Clack (Personal)](/setts/s13/b8g34ga2ba4k12g4ga24g4k12ba4ga2ba36w4-b202060-ba2c2c80-g006818-ga003820-k101010-we0e0e0/)|
+|![Clack (Personal) example sett](/setts/s13/b8g34ga2ba4k12g4ga24g4k12ba4ga2ba36w4-b202060-ba2c2c80-g006818-ga003820-k101010-we0e0e0/sett.png)|
+| [Clack (Personal)](/setts/s13/b8g34ga2ba4k12g4ga24g4k12ba4ga2ba36w4-b202060-ba2c2c80-g006818-ga003820-k101010-we0e0e0/)|
+|![Clack (Personal) example sett](/setts/s13/b8g34ga2ba4k12g4ga24g4k12ba4ga2ba36w4-b202060-ba2c2c80-g006818-ga003820-k101010-we0e0e0/sett.png)|

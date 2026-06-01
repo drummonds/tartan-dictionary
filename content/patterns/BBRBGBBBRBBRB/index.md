@@ -16,7 +16,9 @@ BBRBGBBBRBBRB
 
 | Tartans |
 |---------------|
-| [Bermuda Blue](/tartans/b/12/dr4/db4/b42/dr6/b6/db11/b6/g19/b8/dr4/b6/db/6/)|
-|![Bermuda Blue example sett](/variants/b/12/dr4/db4/b42/dr6/b6/db11/b6/g19/b8/dr4/b6/db/6-b3474fc-db000064-drb00000-g004c00/sett.png)|
-| [Bermuda, Blue](/tartans/b/12/r4/db4/b42/r6/b6/db11/b6/dg19/b8/r4/b6/db/6/)|
-|![Bermuda, Blue example sett](/variants/b/12/r4/db4/b42/r6/b6/db11/b6/dg19/b8/r4/b6/db/6-b8080d0-db000050-dg003000-rc00000/sett.png)|
+| [Bermuda Blue](/setts/s13/b6ba6r4ba8g19ba6b11ba6r6ba42b4r4ba12-b000064-ba3474fc-g004c00-rb00000/)|
+|![Bermuda Blue example sett](/setts/s13/b6ba6r4ba8g19ba6b11ba6r6ba42b4r4ba12-b000064-ba3474fc-g004c00-rb00000/sett.png)|
+| [Bermuda Blue (1962) (District)](/setts/s13/b6ba6r4ba8g19ba6b11ba6r6ba42b4r4ba12-b000064-ba3474fc-g007000-rb00000/)|
+|![Bermuda Blue (1962) (District) example sett](/setts/s13/b6ba6r4ba8g19ba6b11ba6r6ba42b4r4ba12-b000064-ba3474fc-g007000-rb00000/sett.png)|
+| [Bermuda, Blue](/setts/s13/b6ba6r4ba8g19ba6b11ba6r6ba42b4r4ba12-b000050-ba8080d0-g003000-rc00000/)|
+|![Bermuda, Blue example sett](/setts/s13/b6ba6r4ba8g19ba6b11ba6r6ba42b4r4ba12-b000050-ba8080d0-g003000-rc00000/sett.png)|

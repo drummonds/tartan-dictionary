@@ -16,5 +16,7 @@ BKBKGGRYR
 
 | Tartans |
 |---------------|
-| [Cumming LO](/tartans/b/8/k4/b8/k20/t2/dg20/dr8/n2/dr/8/)|
-|![Cumming LO example sett](/variants/b/8/k4/b8/k20/t2/dg20/dr8/n2/dr/8-b4367ae-dg11450d-draa0000-k000000-naaaaaa-t7f5200/sett.png)|
+| [Cumming LO](/setts/s9/b8k4b8k20g2ga20r8y2r8-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/)|
+|![Cumming LO example sett](/setts/s9/b8k4b8k20g2ga20r8y2r8-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Cumming LO](/setts/s9/b4k2b4k10g1ga10r4y1r4-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/)|
+|![Cumming LO example sett](/setts/s9/b4k2b4k10g1ga10r4y1r4-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/sett.png)|

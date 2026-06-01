@@ -6,7 +6,7 @@ BGYBKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/ln/162/k10/p10/o9/lg6/p/3-k000000-lg908000-lne0e0e0-off8500-p800070/tartan.png)
+![Woven sample](/setts/s6/b3g6y9b10k10w162-b800070-g908000-k000000-we0e0e0-yff8500/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYBKW
 
 | Tartans |
 |---------------|
-| [Young, Christina](/tartans/ln/162/k10/p10/o9/lg6/p/3/)|
-|![Young, Christina example sett](/variants/ln/162/k10/p10/o9/lg6/p/3-k000000-lg908000-lne0e0e0-off8500-p800070/sett.png)|
+| [Young, Christina](/setts/s6/b3g6y9b10k10w162-b800070-g908000-k000000-we0e0e0-yff8500/)|
+|![Young, Christina example sett](/setts/s6/b3g6y9b10k10w162-b800070-g908000-k000000-we0e0e0-yff8500/sett.png)|

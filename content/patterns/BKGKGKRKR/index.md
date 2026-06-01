@@ -16,5 +16,7 @@ BKGKGKRKR
 
 | Tartans |
 |---------------|
-| [Black Thistle](/tartans/b/20/k12/g84/k4/g2/k4/r2/k48/r/4/)|
-|![Black Thistle example sett](/variants/b/20/k12/g84/k4/g2/k4/r2/k48/r/4-b3850c8-g408060-k101010-rc80000/sett.png)|
+| [Black Thistle](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/)|
+|![Black Thistle example sett](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/sett.png)|
+| [Black Thistle (Artefact)](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/)|
+|![Black Thistle (Artefact) example sett](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/sett.png)|

@@ -16,5 +16,7 @@ BKBWBKBKWBK
 
 | Tartans |
 |---------------|
-| [Clark (Crook)](/tartans/b/2/k8/b2/lp4/b2/k16/b2/k16/lp14/b2/k/2/)|
-|![Clark (Crook) example sett](/variants/b/2/k8/b2/lp4/b2/k16/b2/k16/lp14/b2/k/2-b5c8ca8-k101010-lpc49cd8/sett.png)|
+| [Clark (Crook)](/setts/s11/b4k16b4w8b4k32b4k32w28b4k4-b5c8ca8-k101010-wc49cd8/)|
+|![Clark (Crook) example sett](/setts/s11/b4k16b4w8b4k32b4k32w28b4k4-b5c8ca8-k101010-wc49cd8/sett.png)|
+| [Clergy, or Priest](/setts/s11/b4k16b4w8b4k32b4k32w28b4k4-b8080d0-k000000-wc0a0e0/)|
+|![Clergy, or Priest example sett](/setts/s11/b4k16b4w8b4k32b4k32w28b4k4-b8080d0-k000000-wc0a0e0/sett.png)|

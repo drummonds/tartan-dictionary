@@ -6,7 +6,7 @@ BBBWBB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/2/db10/b10/ln2/b10/db/10-b2888c4-db2c2c80-lne0e0e0/tartan.png)
+![Woven sample](/setts/s6/b4ba20b20w4b20ba20-b2888c4-ba2c2c80-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBWBB
 
 | Tartans |
 |---------------|
-| [Manx Cornaa (Personal)](/tartans/b/2/db10/b10/ln2/b10/db/10/)|
-|![Manx Cornaa (Personal) example sett](/variants/b/2/db10/b10/ln2/b10/db/10-b2888c4-db2c2c80-lne0e0e0/sett.png)|
+| [Manx Cornaa (Personal)](/setts/s6/b4ba20b20w4b20ba20-b2888c4-ba2c2c80-we0e0e0/)|
+|![Manx Cornaa (Personal) example sett](/setts/s6/b4ba20b20w4b20ba20-b2888c4-ba2c2c80-we0e0e0/sett.png)|

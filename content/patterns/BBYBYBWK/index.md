@@ -6,7 +6,7 @@ BBYBYBWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/92/p6/lr6/p6/lr8/p24/w6/k/6-b1474b4-k000000-lrfca098-p64008c-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yfca098/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBYBYBWK
 
 | Tartans |
 |---------------|
-| [Edinburgh Festival](/tartans/b/92/p6/lr6/p6/lr8/p24/w6/k/6/)|
-|![Edinburgh Festival example sett](/variants/b/92/p6/lr6/p6/lr8/p24/w6/k/6-b1474b4-k000000-lrfca098-p64008c-wfcfcfc/sett.png)|
+| [Edinburgh Festival](/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yfca098/)|
+|![Edinburgh Festival example sett](/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yfca098/sett.png)|
+| [Edinburgh Festival(Corporate)](/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yec9898/)|
+|![Edinburgh Festival(Corporate) example sett](/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yec9898/sett.png)|

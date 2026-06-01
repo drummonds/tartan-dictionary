@@ -6,7 +6,7 @@ BBBKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/dn/8/db8/p8/k8/ln/2-db2c2c80-dn14283c-k101010-lne0e0e0-p780078/tartan.png)
+![Woven sample](/setts/s5/b40ba40bb40k40w10-b14283c-ba2c2c80-bb780078-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBKW
 
 | Tartans |
 |---------------|
-| [Weston (Personal)](/tartans/dn/8/db8/p8/k8/ln/2/)|
-|![Weston (Personal) example sett](/variants/dn/8/db8/p8/k8/ln/2-db2c2c80-dn14283c-k101010-lne0e0e0-p780078/sett.png)|
+| [Weston (Personal)](/setts/s5/b40ba40bb40k40w10-b14283c-ba2c2c80-bb780078-k101010-we0e0e0/)|
+|![Weston (Personal) example sett](/setts/s5/b40ba40bb40k40w10-b14283c-ba2c2c80-bb780078-k101010-we0e0e0/sett.png)|
+| [Weston (Personal)](/setts/s5/b40ba40bb40k40w10-b14283c-ba2c2c80-bb780078-k101010-we0e0e0/)|
+|![Weston (Personal) example sett](/setts/s5/b40ba40bb40k40w10-b14283c-ba2c2c80-bb780078-k101010-we0e0e0/sett.png)|

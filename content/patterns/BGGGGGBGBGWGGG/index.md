@@ -16,5 +16,5 @@ BGGGGGBGBGWGGG
 
 | Tartans |
 |---------------|
-| [Beechgrove Garden, The](/tartans/dp/4/lg50/g16/lg4/g4/lg50/dp4/lg4/dp12/lg4/w4/lg8/g32/lg/4/)|
-|![Beechgrove Garden, The example sett](/variants/dp/4/lg50/g16/lg4/g4/lg50/dp4/lg4/dp12/lg4/w4/lg8/g32/lg/4-dp440044-g005020-lg649848-wf8f8f8/sett.png)|
+| [Beechgrove Garden, The](/setts/s14/b4g50ga16g4ga4g50b4g4b12g4w4g8ga32g4-b440044-g649848-ga005020-wf8f8f8/)|
+|![Beechgrove Garden, The example sett](/setts/s14/b4g50ga16g4ga4g50b4g4b12g4w4g8ga32g4-b440044-g649848-ga005020-wf8f8f8/sett.png)|

@@ -16,5 +16,7 @@ BKBKBBRBBKW
 
 | Tartans |
 |---------------|
-| [Dublin Lie-ins (Personal)](/tartans/db/16/k6/db52/k22/b6/db16/dr8/db16/b6/k4/ln/6/)|
-|![Dublin Lie-ins (Personal) example sett](/variants/db/16/k6/db52/k22/b6/db16/dr8/db16/b6/k4/ln/6-b2888c4-db003c64-dr901c38-k101010-lne0e0e0/sett.png)|
+| [Dublin Lie-ins (Personal)](/setts/s11/b16k6b52k22ba6b16r8b16ba6k4w6-b003c64-ba2888c4-k101010-r901c38-we0e0e0/)|
+|![Dublin Lie-ins (Personal) example sett](/setts/s11/b16k6b52k22ba6b16r8b16ba6k4w6-b003c64-ba2888c4-k101010-r901c38-we0e0e0/sett.png)|
+| [Dublin Lie-ins (Corporate)](/setts/s11/b16k6b52k22ba6b16r8b16ba6k4w6-b003c64-ba2888c4-k101010-r901c38-we0e0e0/)|
+|![Dublin Lie-ins (Corporate) example sett](/setts/s11/b16k6b52k22ba6b16r8b16ba6k4w6-b003c64-ba2888c4-k101010-r901c38-we0e0e0/sett.png)|

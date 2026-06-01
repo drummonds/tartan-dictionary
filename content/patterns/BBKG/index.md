@@ -6,7 +6,7 @@ BBKG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/b/4/dp16/k22/g/18-b5c8ca8-dg003820-dp440044-g006818-k101010-lg789484/tartan.png)
+![Woven sample](/setts/s4/b4ba16k22g18-b5c8ca8-ba440044-g006818-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKG
 
 | Tartans |
 |---------------|
-| [Wilson's No.228](/tartans/b/4/dp16/k22/g/18/)|
-|![Wilson's No.228 example sett](/variants/b/4/dp16/k22/g/18-b5c8ca8-dg003820-dp440044-g006818-k101010-lg789484/sett.png)|
+| [Wilson's No.228](/setts/s4/b4ba16k22g18-b5c8ca8-ba440044-g006818-k101010/)|
+|![Wilson's No.228 example sett](/setts/s4/b4ba16k22g18-b5c8ca8-ba440044-g006818-k101010/sett.png)|

@@ -16,5 +16,5 @@ BGBRBRBRBG
 
 | Tartans |
 |---------------|
-| [Hamilton (Personal)](/tartans/dba/6/g6/dba36/dr28/db10/dr28/db10/dr28/dba42/g/6/)|
-|![Hamilton (Personal) example sett](/variants/dba/6/g6/dba36/dr28/db10/dr28/db10/dr28/dba42/g/6-db000088-dba000088-dr880000-g004c00/sett.png)|
+| [Hamilton (Personal)](/setts/s10/b6g6b36r28b10r28b10r28b42g6-b000088-g004c00-r880000/)|
+|![Hamilton (Personal) example sett](/setts/s10/b6g6b36r28b10r28b10r28b42g6-b000088-g004c00-r880000/sett.png)|

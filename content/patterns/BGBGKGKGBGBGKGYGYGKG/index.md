@@ -16,5 +16,5 @@ BGBGKGKGBGBGKGYGYGKG
 
 | Tartans |
 |---------------|
-| [Washington, Stockman](/tartans/b/8/n6/b8/n38/k4/n6/k4/n24/b8/n6/b8/n6/k2/n4/y2/n4/y2/n4/k2/n/6/)|
-|![Washington, Stockman example sett](/variants/b/8/n6/b8/n38/k4/n6/k4/n24/b8/n6/b8/n6/k2/n4/y2/n4/y2/n4/k2/n/6-b304080-k000000-n808080-yf0c000/sett.png)|
+| [Washington, Stockman](/setts/s20/b16g12b16g76k8g12k8g48b16g12b16g12k4g8y4g8y4g8k4g12-b304080-g808080-k000000-yf0c000/)|
+|![Washington, Stockman example sett](/setts/s20/b16g12b16g76k8g12k8g48b16g12b16g12k4g8y4g8y4g8k4g12-b304080-g808080-k000000-yf0c000/sett.png)|

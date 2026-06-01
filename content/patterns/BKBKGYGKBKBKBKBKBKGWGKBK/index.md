@@ -16,5 +16,5 @@ BKBKGYGKBKBKBKBKBKGWGKBK
 
 | Tartans |
 |---------------|
-| [Campbell of Argyll (no guards)](/tartans/b/2/k2/b16/k16/ga16/y4/ga16/k16/b2/k2/b2/k2/b16/k2/b2/k2/b2/k16/ga16/w4/ga16/k16/b16/k/2/)|
-|![Campbell of Argyll (no guards) example sett](/variants/b/2/k2/b16/k16/ga16/y4/ga16/k16/b2/k2/b2/k2/b16/k2/b2/k2/b2/k16/ga16/w4/ga16/k16/b16/k/2-b1474b4-db2c2c80-g285800-ga006818-k101010-lne0e0e0-wfcfcfc-ye8c000/sett.png)|
+| [Campbell of Argyll (no guards)](/setts/s24/b2k2b16k16g16y4g16k16b2k2b2k2b16k2b2k2b2k16g16w4g16k16b16k2-b1474b4-g006818-k101010-wfcfcfc-ye8c000/)|
+|![Campbell of Argyll (no guards) example sett](/setts/s24/b2k2b16k16g16y4g16k16b2k2b2k2b16k2b2k2b2k16g16w4g16k16b16k2-b1474b4-g006818-k101010-wfcfcfc-ye8c000/sett.png)|

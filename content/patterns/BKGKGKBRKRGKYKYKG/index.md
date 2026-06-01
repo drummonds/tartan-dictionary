@@ -16,5 +16,7 @@ BKGKGKBRKRGKYKYKG
 
 | Tartans |
 |---------------|
-| [MacNicol Hunting](/tartans/db/20/k2/dg2/k2/dg2/k2/db20/dr6/k20/dr6/dg20/k2/lg2/k2/n2/k2/dg/20/)|
-|![MacNicol Hunting example sett](/variants/db/20/k2/dg2/k2/dg2/k2/db20/dr6/k20/dr6/dg20/k2/lg2/k2/n2/k2/dg/20-db000052-dg11450d-draa0000-k000000-lgaaaa00-naaaaaa/sett.png)|
+| [MacNicol Hunting](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2ya2k2g20-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![MacNicol Hunting example sett](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2ya2k2g20-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [MacNicol Hunting](/setts/s17/b10k1g1k1g1k1b10r3k10r3g10k1y1k1ya1k1g10-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![MacNicol Hunting example sett](/setts/s17/b10k1g1k1g1k1b10r3k10r3g10k1y1k1ya1k1g10-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|

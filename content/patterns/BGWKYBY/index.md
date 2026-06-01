@@ -6,7 +6,7 @@ BGWKYBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/10/t56/lr10/k40/dy10/b94/dy/8-b1474b4-dybc8c00-k101010-lre8ccb8-t604000/tartan.png)
+![Woven sample](/setts/s7/b10g56w10k40y10b94y8-b1474b4-g604000-k101010-we8ccb8-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGWKYBY
 
 | Tartans |
 |---------------|
-| [State Seal of Washington (Fashion)](/tartans/b/10/t56/lr10/k40/dy10/b94/dy/8/)|
-|![State Seal of Washington (Fashion) example sett](/variants/b/10/t56/lr10/k40/dy10/b94/dy/8-b1474b4-dybc8c00-k101010-lre8ccb8-t604000/sett.png)|
+| [State Seal of Washington (Fashion)](/setts/s7/b10g56w10k40y10b94y8-b1474b4-g604000-k101010-we8ccb8-ybc8c00/)|
+|![State Seal of Washington (Fashion) example sett](/setts/s7/b10g56w10k40y10b94y8-b1474b4-g604000-k101010-we8ccb8-ybc8c00/sett.png)|

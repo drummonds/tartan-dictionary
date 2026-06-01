@@ -16,5 +16,5 @@ BGBBBYBGBBYB
 
 | Tartans |
 |---------------|
-| [Bowhunter](/tartans/dr/6/dg20/dr4/n50/ka6/na8/ka6/k20/n6/dr4/na6/dr/2/)|
-|![Bowhunter example sett](/variants/dr/6/dg20/dr4/n50/ka6/na8/ka6/k20/n6/dr4/na6/dr/2-dg1e492b-dr72393f-k23321b-ka351e14-n3f4059-naccbaaf/sett.png)|
+| [Bowhunter](/setts/s12/b2y6b4ba6g20bb6y8bb6ba50b4ga20b6-b72393f-ba3f4059-bb351e14-g23321b-ga1e492b-yccbaaf/)|
+|![Bowhunter example sett](/setts/s12/b2y6b4ba6g20bb6y8bb6ba50b4ga20b6-b72393f-ba3f4059-bb351e14-g23321b-ga1e492b-yccbaaf/sett.png)|

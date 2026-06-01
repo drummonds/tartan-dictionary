@@ -16,5 +16,5 @@ BGBGKRKYKBW
 
 | Tartans |
 |---------------|
-| [McCartney (Day)](/tartans/ln/6/p4/db20/y4/db4/r4/db4/dg16/p48/dg4/p/8/)|
-|![McCartney (Day) example sett](/variants/ln/6/p4/db20/y4/db4/r4/db4/dg16/p48/dg4/p/8-db000030-dg003000-lne0e0e0-p800080-rc00000-yf0c000/sett.png)|
+| [McCartney (Day)](/setts/s11/b8g4b48g16k4r4k4y4k20b4w6-b800080-g003000-k000030-rc00000-we0e0e0-yf0c000/)|
+|![McCartney (Day) example sett](/setts/s11/b8g4b48g16k4r4k4y4k20b4w6-b800080-g003000-k000030-rc00000-we0e0e0-yf0c000/sett.png)|

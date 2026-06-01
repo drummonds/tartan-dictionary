@@ -16,5 +16,7 @@ BGWRBRWYBYBYBYWR
 
 | Tartans |
 |---------------|
-| [Firenze ~ Florence](/tartans/p/28/g4/w4/r4/p28/r92/w2/y6/db2/y6/db2/y6/db2/y6/w2/r/92/)|
-|![Firenze ~ Florence example sett](/variants/p/28/g4/w4/r4/p28/r92/w2/y6/db2/y6/db2/y6/db2/y6/w2/r/92-db2c2c80-g289c18-p780078-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Firenze ~ Florence](/setts/s16/b28g4w4r4b28r92w2y6ba2y6ba2y6ba2y6w2r92-b780078-ba2c2c80-g289c18-rc80000-wf8f8f8-ye8c000/)|
+|![Firenze ~ Florence example sett](/setts/s16/b28g4w4r4b28r92w2y6ba2y6ba2y6ba2y6w2r92-b780078-ba2c2c80-g289c18-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Firenze ~ Florence (District)](/setts/s16/b28g4w4r4b28r92w2y6ba2y6ba2y6ba2y6w2r92-b780078-ba2c2c80-g289c18-rc80000-wf8f8f8-ye8c000/)|
+|![Firenze ~ Florence (District) example sett](/setts/s16/b28g4w4r4b28r92w2y6ba2y6ba2y6ba2y6w2r92-b780078-ba2c2c80-g289c18-rc80000-wf8f8f8-ye8c000/sett.png)|

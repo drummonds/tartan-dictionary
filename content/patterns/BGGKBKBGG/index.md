@@ -16,5 +16,7 @@ BGGKBKBGG
 
 | Tartans |
 |---------------|
-| [Fiddes (2007) (Personal)](/tartans/b/18/g18/ga76/k2/b2/k2/b28/ga28/g/28/)|
-|![Fiddes (2007) (Personal) example sett](/variants/b/18/g18/ga76/k2/b2/k2/b28/ga28/g/28-b506880-g40783c-ga005834-k101010/sett.png)|
+| [Fiddes (2007) (Personal)](/setts/s9/b18g18ga76k2b2k2b28ga28g28-b506880-g40783c-ga005834-k101010/)|
+|![Fiddes (2007) (Personal) example sett](/setts/s9/b18g18ga76k2b2k2b28ga28g28-b506880-g40783c-ga005834-k101010/sett.png)|
+| [Fiddes - 2007 (Personal)](/setts/s9/b18g18ga76k2b2k2b28ga28g28-b506880-g40783c-ga005834-k101010/)|
+|![Fiddes - 2007 (Personal) example sett](/setts/s9/b18g18ga76k2b2k2b28ga28g28-b506880-g40783c-ga005834-k101010/sett.png)|

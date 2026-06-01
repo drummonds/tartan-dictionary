@@ -16,5 +16,7 @@ BBRKBKBKR
 
 | Tartans |
 |---------------|
-| [Grassi (Personal)](/tartans/na/6/k2/n24/k6/n4/k120/na4/n4/p/6/)|
-|![Grassi (Personal) example sett](/variants/na/6/k2/n24/k6/n4/k120/na4/n4/p/6-k101010-n5c5c5c-na888888-p780078/sett.png)|
+| [Grassi (Personal)](/setts/s9/b6ba4r4k120ba4k6ba24k2r6-b780078-ba5c5c5c-k101010-r888888/)|
+|![Grassi (Personal) example sett](/setts/s9/b6ba4r4k120ba4k6ba24k2r6-b780078-ba5c5c5c-k101010-r888888/sett.png)|
+| [Grassi Personal Tartan Tartan Number: 10010. Earliest known date: Mar. 2009 Designed to commemorate the wedding of Benjamin Grassi and Lorraine Porter Vaughan on 3rd October 2009. The colours chosen match the bridal bouguet and the wedding venue decor. The Tartan was designed in collaboration with the happy couple and the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b6ba4r4k120ba4k6ba24k2r6-b780078-ba5c5c5c-k101010-r888888/)|
+|![Grassi Personal Tartan Tartan Number: 10010. Earliest known date: Mar. 2009 Designed to commemorate the wedding of Benjamin Grassi and Lorraine Porter Vaughan on 3rd October 2009. The colours chosen match the bridal bouguet and the wedding venue decor. The Tartan was designed in collaboration with the happy couple and the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/b6ba4r4k120ba4k6ba24k2r6-b780078-ba5c5c5c-k101010-r888888/sett.png)|

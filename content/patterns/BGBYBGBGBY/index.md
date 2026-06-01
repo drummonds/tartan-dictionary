@@ -16,5 +16,7 @@ BGBYBGBGBY
 
 | Tartans |
 |---------------|
-| [Pinney's of Scotland](/tartans/dba/8/g4/db20/y2/db4/g26/dba22/g26/db26/y/4/)|
-|![Pinney's of Scotland example sett](/variants/dba/8/g4/db20/y2/db4/g26/dba22/g26/db26/y/4-db2c2c80-dba202060-g006818-ye8c000/sett.png)|
+| [Pinney's of Scotland](/setts/s10/b8g4ba20y2ba4g26b22g26ba26y4-b202060-ba2c2c80-g006818-ye8c000/)|
+|![Pinney's of Scotland example sett](/setts/s10/b8g4ba20y2ba4g26b22g26ba26y4-b202060-ba2c2c80-g006818-ye8c000/sett.png)|
+| [Pinney's of Scotland (Corporate)](/setts/s10/b8g4ba20y2ba4g26b22g26ba26y4-b202060-ba2c2c80-g006818-ye8c000/)|
+|![Pinney's of Scotland (Corporate) example sett](/setts/s10/b8g4ba20y2ba4g26b22g26ba26y4-b202060-ba2c2c80-g006818-ye8c000/sett.png)|

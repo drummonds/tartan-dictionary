@@ -16,7 +16,7 @@ BKBBBBKBKBKBYB
 
 | Tartans |
 |---------------|
-| [Payne (Name)](/tartans/db/4/k2/db8/dba10/p6/dba40/k16/db8/k2/db4/k2/db66/y2/db/2/)|
-|![Payne (Name) example sett](/variants/db/4/k2/db8/dba10/p6/dba40/k16/db8/k2/db4/k2/db66/y2/db/2-db2c2c80-dba202060-k101010-p780078-yfccc00/sett.png)|
-| [Payne](/tartans/b/8/k4/b16/db20/p12/db80/k32/b16/k4/b8/k4/b132/y4/b/2/)|
-|![Payne example sett](/variants/b/8/k4/b16/db20/p12/db80/k32/b16/k4/b8/k4/b132/y4/b/2-b304080-db000050-k000000-p800080-yf0c000/sett.png)|
+| [Payne (Name)](/setts/s14/b2y2b66k2b4k2b8k16ba40bb6ba10b8k2b4-b2c2c80-ba202060-bb780078-k101010-yfccc00/)|
+|![Payne (Name) example sett](/setts/s14/b2y2b66k2b4k2b8k16ba40bb6ba10b8k2b4-b2c2c80-ba202060-bb780078-k101010-yfccc00/sett.png)|
+| [Payne](/setts/s14/b2y4b132k4b8k4b16k32ba80bb12ba20b16k4b8-b304080-ba000050-bb800080-k000000-yf0c000/)|
+|![Payne example sett](/setts/s14/b2y4b132k4b8k4b16k32ba80bb12ba20b16k4b8-b304080-ba000050-bb800080-k000000-yf0c000/sett.png)|

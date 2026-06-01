@@ -16,5 +16,5 @@ BBBRBRBGBR
 
 | Tartans |
 |---------------|
-| [Rikaco Red](/tartans/k/10/n10/k4/dr94/k36/lt4/k10/t18/n14/lt/6/)|
-|![Rikaco Red example sett](/variants/k/10/n10/k4/dr94/k36/lt4/k10/t18/n14/lt/6-dr840925-k16211d-lt92825e-n4f5054-t352c0d/sett.png)|
+| [Rikaco Red](/setts/s10/b10ba10b4r94b36ra4b10g18ba14ra6-b16211d-ba4f5054-g352c0d-r840925-ra92825e/)|
+|![Rikaco Red example sett](/setts/s10/b10ba10b4r94b36ra4b10g18ba14ra6-b16211d-ba4f5054-g352c0d-r840925-ra92825e/sett.png)|

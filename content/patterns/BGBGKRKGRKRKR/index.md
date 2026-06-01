@@ -16,5 +16,5 @@ BGBGKRKGRKRKR
 
 | Tartans |
 |---------------|
-| [Forbes (Pendleton-1)](/tartans/db/12/g2/db16/g16/k16/dr2/k16/g16/dr12/k12/dr28/k2/dr/12/)|
-|![Forbes (Pendleton-1) example sett](/variants/db/12/g2/db16/g16/k16/dr2/k16/g16/dr12/k12/dr28/k2/dr/12-db000060-dr880000-g004800-k101010/sett.png)|
+| [Forbes (Pendleton-1)](/setts/s13/b24g4b32g32k32r4k32g32r24k24r56k4r24-b000060-g004800-k101010-r880000/)|
+|![Forbes (Pendleton-1) example sett](/setts/s13/b24g4b32g32k32r4k32g32r24k24r56k4r24-b000060-g004800-k101010-r880000/sett.png)|

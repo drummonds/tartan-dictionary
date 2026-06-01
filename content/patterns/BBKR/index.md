@@ -6,7 +6,7 @@ BBKR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/db/2/n12/k12/r/2-db1c0070-k101010-n5c5c5c-rc80000/tartan.png)
+![Woven sample](/setts/s4/b10ba60k60r10-b1c0070-ba5c5c5c-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKR
 
 | Tartans |
 |---------------|
-| [Mayer, Chris (Personal)](/tartans/db/2/n12/k12/r/2/)|
-|![Mayer, Chris (Personal) example sett](/variants/db/2/n12/k12/r/2-db1c0070-k101010-n5c5c5c-rc80000/sett.png)|
+| [Mayer, Chris (Personal)](/setts/s4/b10ba60k60r10-b1c0070-ba5c5c5c-k101010-rc80000/)|
+|![Mayer, Chris (Personal) example sett](/setts/s4/b10ba60k60r10-b1c0070-ba5c5c5c-k101010-rc80000/sett.png)|

@@ -6,7 +6,7 @@ BKGBK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/4/k4/g4/db2/k/2-db2c2c80-g006818-k101010/tartan.png)
+![Woven sample](/setts/s5/b40k40g40b20k20-b2c2c80-g006818-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGBK
 
 | Tartans |
 |---------------|
-| [Wandering Shepherd (Personal)](/tartans/db/4/k4/g4/db2/k/2/)|
-|![Wandering Shepherd (Personal) example sett](/variants/db/4/k4/g4/db2/k/2-db2c2c80-g006818-k101010/sett.png)|
+| [Wandering Shepherd (Personal)](/setts/s5/b40k40g40b20k20-b2c2c80-g006818-k101010/)|
+|![Wandering Shepherd (Personal) example sett](/setts/s5/b40k40g40b20k20-b2c2c80-g006818-k101010/sett.png)|

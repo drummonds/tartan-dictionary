@@ -6,7 +6,7 @@ BKBRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/90/yy6/b20/do8/k2/w/4-b587488-doc04c08-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b180k12b40r16ka4w8-b587488-k000000-ka101010-rc04c08-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBRKW
 
 | Tartans |
 |---------------|
-| [Wylie](/tartans/b/90/yy6/b20/do8/k2/w/4/)|
-|![Wylie example sett](/variants/b/90/yy6/b20/do8/k2/w/4-b587488-doc04c08-k101010-wfcfcfc/sett.png)|
+| [Wylie](/setts/s6/b180k12b40r16ka4w8-b587488-k000000-ka101010-rc04c08-wfcfcfc/)|
+|![Wylie example sett](/setts/s6/b180k12b40r16ka4w8-b587488-k000000-ka101010-rc04c08-wfcfcfc/sett.png)|

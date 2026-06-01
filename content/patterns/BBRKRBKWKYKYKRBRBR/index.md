@@ -16,5 +16,7 @@ BBRKRBKWKYKYKRBRBR
 
 | Tartans |
 |---------------|
-| [Westwood MacAndreas](/tartans/ba/8/b10/lr2/k4/lr2/b46/k10/ln10/k10/dy4/k4/dy4/k10/lr28/ba18/lr4/ba12/lr/10/)|
-|![Westwood MacAndreas example sett](/variants/ba/8/b10/lr2/k4/lr2/b46/k10/ln10/k10/dy4/k4/dy4/k10/lr28/ba18/lr4/ba12/lr/10-b5c8ca8-ba1474b4-dybc8c00-k101010-lne0e0e0-lre87878/sett.png)|
+| [Westwood MacAndreas](/setts/s18/b8ba10r2k4r2ba46k10w10k10y4k4y4k10r28b18r4b12r10-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/)|
+|![Westwood MacAndreas example sett](/setts/s18/b8ba10r2k4r2ba46k10w10k10y4k4y4k10r28b18r4b12r10-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/sett.png)|
+| [Westwood MacAndreas (Fashion)](/setts/s18/b8ba10r2k4r2ba46k10w10k10y4k4y4k10r28b18r4b12r10-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/)|
+|![Westwood MacAndreas (Fashion) example sett](/setts/s18/b8ba10r2k4r2ba46k10w10k10y4k4y4k10r28b18r4b12r10-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/sett.png)|

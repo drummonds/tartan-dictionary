@@ -16,9 +16,13 @@ BGBBRGRGRGR
 
 | Tartans |
 |---------------|
-| [MacDougall](/tartans/p/8/g16/b12/p16/r12/g4/r4/g4/r48/g2/r/6/)|
-|![MacDougall example sett](/variants/p/8/g16/b12/p16/r12/g4/r4/g4/r48/g2/r/6-b2c4084-g005020-p5a008c-rdc0000/sett.png)|
-| [MacDougall VS](/tartans/p/8/g16/db12/p16/r12/g4/r4/g4/r48/g2/r/6/)|
-|![MacDougall VS example sett](/variants/p/8/g16/db12/p16/r12/g4/r4/g4/r48/g2/r/6-db00004c-g004c00-p5a3094-rc80000/sett.png)|
-| [MacDougall VS](/tartans/dr/6/dg2/dr48/dg4/dr4/dg4/dr12/n16/db12/dg16/n/8/)|
-|![MacDougall VS example sett](/variants/dr/6/dg2/dr48/dg4/dr4/dg4/dr12/n16/db12/dg16/n/8-db000052-dg11450d-draa0000-n6e5058/sett.png)|
+| [MacDougall](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b5a008c-ba2c4084-g005020-rdc0000/)|
+|![MacDougall example sett](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b5a008c-ba2c4084-g005020-rdc0000/sett.png)|
+| [MacDougall VS](/setts/s11/b4g8ba6b8r6g2r2g2r24g1r3-b5a3094-ba00004c-g004c00-rc80000/)|
+|![MacDougall VS example sett](/setts/s11/b4g8ba6b8r6g2r2g2r24g1r3-b5a3094-ba00004c-g004c00-rc80000/sett.png)|
+| [MacDougal 4](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b800080-ba304080-g008000-rc00000/)|
+|![MacDougal 4 example sett](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b800080-ba304080-g008000-rc00000/sett.png)|
+| [MacDougall VS](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/)|
+|![MacDougall VS example sett](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/sett.png)|
+| [MacDougall VS](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/)|
+|![MacDougall VS example sett](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/sett.png)|

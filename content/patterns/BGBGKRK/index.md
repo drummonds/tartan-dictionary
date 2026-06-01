@@ -6,7 +6,7 @@ BGBGKRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/2/g2/db36/g24/k36/r2/k/2-db2c2c80-g006818-k000000-rc80000/tartan.png)
+![Woven sample](/setts/s7/b2g2b36g24k36r2k2-b2c2c80-g006818-k000000-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBGKRK
 
 | Tartans |
 |---------------|
-| [Meoni (Personal)](/tartans/db/2/g2/db36/g24/k36/r2/k/2/)|
-|![Meoni (Personal) example sett](/variants/db/2/g2/db36/g24/k36/r2/k/2-db2c2c80-g006818-k000000-rc80000/sett.png)|
+| [Meoni (Personal)](/setts/s7/b2g2b36g24k36r2k2-b2c2c80-g006818-k000000-rc80000/)|
+|![Meoni (Personal) example sett](/setts/s7/b2g2b36g24k36r2k2-b2c2c80-g006818-k000000-rc80000/sett.png)|
+| [Meoni (Name)](/setts/s7/b2g2b36g24k36r2k2-b2c2c80-g006818-k000000-rc80000/)|
+|![Meoni (Name) example sett](/setts/s7/b2g2b36g24k36r2k2-b2c2c80-g006818-k000000-rc80000/sett.png)|

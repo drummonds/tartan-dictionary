@@ -16,5 +16,5 @@ BKBKBKGWGKBKBKBKGRGKBKBK
 
 | Tartans |
 |---------------|
-| [MacKenzie (Vestiarium Scoticum)](/tartans/b/36/k4/b4/k4/b4/k12/g36/ln4/g36/k12/b36/k2/b8/k2/b36/k12/g36/r4/g36/k12/b4/k4/b4/k/4/)|
-|![MacKenzie (Vestiarium Scoticum) example sett](/variants/b/36/k4/b4/k4/b4/k12/g36/ln4/g36/k12/b36/k2/b8/k2/b36/k12/g36/r4/g36/k12/b4/k4/b4/k/4-b2c4084-g005020-k101010-lne0e0e0-rdc0000/sett.png)|
+| [MacKenzie (Vestiarium Scoticum)](/setts/s24/b36k4b4k4b4k12g36w4g36k12b36k2b8k2b36k12g36r4g36k12b4k4b4k4-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
+|![MacKenzie (Vestiarium Scoticum) example sett](/setts/s24/b36k4b4k4b4k12g36w4g36k12b36k2b8k2b36k12g36r4g36k12b4k4b4k4-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|

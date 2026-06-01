@@ -6,7 +6,7 @@ BKBKBKWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/k/6/ln32/k32/n4/k4/n4/k4/n/44-k101010-lne0e0e0-n5c5c5c/tartan.png)
+![Woven sample](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKBKBKWK
 
 | Tartans |
 |---------------|
-| [Laksaa (Manx)](/tartans/k/6/ln32/k32/n4/k4/n4/k4/n/44/)|
-|![Laksaa (Manx) example sett](/variants/k/6/ln32/k32/n4/k4/n4/k4/n/44-k101010-lne0e0e0-n5c5c5c/sett.png)|
+| [Laksaa (Manx)](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/)|
+|![Laksaa (Manx) example sett](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/sett.png)|
+| [Laksaa (Manx) (District)](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/)|
+|![Laksaa (Manx) (District) example sett](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/sett.png)|

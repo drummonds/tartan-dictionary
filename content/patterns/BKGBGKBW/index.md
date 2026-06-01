@@ -6,7 +6,7 @@ BKGBGKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dn/8/k18/g40/p4/dg40/k10/dn12/n/4-dg003820-dn14283c-g006818-k101010-nc0c0c0-p780078/tartan.png)
+![Woven sample](/setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKGBGKBW
 
 | Tartans |
 |---------------|
-| [Linden](/tartans/dn/8/k18/g40/p4/dg40/k10/dn12/n/4/)|
-|![Linden example sett](/variants/dn/8/k18/g40/p4/dg40/k10/dn12/n/4-dg003820-dn14283c-g006818-k101010-nc0c0c0-p780078/sett.png)|
+| [Linden](/setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/)|
+|![Linden example sett](/setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/sett.png)|
+| [Linden (Name)](/setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/)|
+|![Linden (Name) example sett](/setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/sett.png)|

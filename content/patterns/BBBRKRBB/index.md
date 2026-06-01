@@ -6,7 +6,7 @@ BBBRKRBB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/72/db12/b10/r6/k4/r6/b10/db/36-b1870a4-db2c2c80-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/b72ba12b10r6k4r6b10ba36-b1870a4-ba2c2c80-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRKRBB
 
 | Tartans |
 |---------------|
-| [Leonard (Name)](/tartans/b/72/db12/b10/r6/k4/r6/b10/db/36/)|
-|![Leonard (Name) example sett](/variants/b/72/db12/b10/r6/k4/r6/b10/db/36-b1870a4-db2c2c80-k101010-rc80000/sett.png)|
+| [Leonard (Name)](/setts/s8/b72ba12b10r6k4r6b10ba36-b1870a4-ba2c2c80-k101010-rc80000/)|
+|![Leonard (Name) example sett](/setts/s8/b72ba12b10r6k4r6b10ba36-b1870a4-ba2c2c80-k101010-rc80000/sett.png)|

@@ -16,5 +16,5 @@ BGKYKGBGKYKG
 
 | Tartans |
 |---------------|
-| [Salvation Army Hunting](/tartans/dba/10/ga16/k2/y4/k2/ga16/dba8/ga16/k2/y4/k2/ga/16/)|
-|![Salvation Army Hunting example sett](/variants/dba/10/ga16/k2/y4/k2/ga16/dba8/ga16/k2/y4/k2/ga/16-db1c0070-dba1c1c50-dg003820-dyd09800-g006818-ga285800-k101010-ycca800/sett.png)|
+| [Salvation Army Hunting](/setts/s12/b20g32k4y8k4g32b16g32k4y8k4g32-b1c1c50-g285800-k101010-ycca800/)|
+|![Salvation Army Hunting example sett](/setts/s12/b20g32k4y8k4g32b16g32k4y8k4g32-b1c1c50-g285800-k101010-ycca800/sett.png)|

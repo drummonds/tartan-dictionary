@@ -16,5 +16,5 @@ BGBBBYBBBBBY
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Clergy (Personal)](/tartans/lg/4/db2/p84/b4/p12/db2/o2/db2/pa8/lp8/g2/p/2/)|
-|![Kerr of Ardgowan Clergy (Personal) example sett](/variants/lg/4/db2/p84/b4/p12/db2/o2/db2/pa8/lp8/g2/p/2-b507898-db240098-g289c18-lgc4bc68-lp7c50a4-oec8048-p780078-pa640064/sett.png)|
+| [Kerr of Ardgowan Clergy (Personal)](/setts/s12/b2g2ba8bb8bc2y2bc2b12bd4b84bc2ya4-b780078-ba7c50a4-bb640064-bc240098-bd507898-g289c18-yec8048-yac4bc68/)|
+|![Kerr of Ardgowan Clergy (Personal) example sett](/setts/s12/b2g2ba8bb8bc2y2bc2b12bd4b84bc2ya4-b780078-ba7c50a4-bb640064-bc240098-bd507898-g289c18-yec8048-yac4bc68/sett.png)|

@@ -16,5 +16,5 @@ BKBKBBBKBW
 
 | Tartans |
 |---------------|
-| [Melrose Newbigging Grey (Name)](/tartans/ln/2/n4/k12/n2/dp6/n4/k12/n70/k12/n/2/)|
-|![Melrose Newbigging Grey (Name) example sett](/variants/ln/2/n4/k12/n2/dp6/n4/k12/n70/k12/n/2-dp440044-k101010-lne0e0e0-n5c5c5c/sett.png)|
+| [Melrose Newbigging Grey (Name)](/setts/s10/b2k12b70k12b4ba6b2k12b4w2-b5c5c5c-ba440044-k101010-we0e0e0/)|
+|![Melrose Newbigging Grey (Name) example sett](/setts/s10/b2k12b70k12b4ba6b2k12b4w2-b5c5c5c-ba440044-k101010-we0e0e0/sett.png)|

@@ -16,7 +16,11 @@ BKGKGKBKG
 
 | Tartans |
 |---------------|
-| [Borthwick](/tartans/dg/34/k2/dr32/k4/n28/k38/n28/k4/dr/12/)|
-|![Borthwick example sett](/variants/dg/34/k2/dr32/k4/n28/k38/n28/k4/dr/12-dg11450d-dr59110d-k000000-n7e7e7e/sett.png)|
-| [Borthwick D](/tartans/dg/24/k2/dr20/k4/n20/k28/n20/k4/dr/8/)|
-|![Borthwick D example sett](/variants/dg/24/k2/dr20/k4/n20/k28/n20/k4/dr/8-dg11450d-dr59110d-k000000-n7e7e7e/sett.png)|
+| [Borthwick](/setts/s9/b12k4g28k38g28k4b32k2ga34-b59110d-g7e7e7e-ga11450d-k000000/)|
+|![Borthwick example sett](/setts/s9/b12k4g28k38g28k4b32k2ga34-b59110d-g7e7e7e-ga11450d-k000000/sett.png)|
+| [Borthwick D](/setts/s9/b8k4g20k28g20k4b20k2ga24-b59110d-g7e7e7e-ga11450d-k000000/)|
+|![Borthwick D example sett](/setts/s9/b8k4g20k28g20k4b20k2ga24-b59110d-g7e7e7e-ga11450d-k000000/sett.png)|
+| [Borthwick](/setts/s9/b6k2g14k19g14k2b16k1ga17-b59110d-g7e7e7e-ga11450d-k000000/)|
+|![Borthwick example sett](/setts/s9/b6k2g14k19g14k2b16k1ga17-b59110d-g7e7e7e-ga11450d-k000000/sett.png)|
+| [Borthwick D](/setts/s9/b8k4g20k28g20k4b20k2ga24-b59110d-g7e7e7e-ga11450d-k000000/)|
+|![Borthwick D example sett](/setts/s9/b8k4g20k28g20k4b20k2ga24-b59110d-g7e7e7e-ga11450d-k000000/sett.png)|

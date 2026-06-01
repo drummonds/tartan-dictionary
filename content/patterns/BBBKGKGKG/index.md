@@ -16,5 +16,7 @@ BBBKGKGKG
 
 | Tartans |
 |---------------|
-| [MacHarg, Iain](/tartans/db/6/p6/db48/k16/g4/k4/g4/k4/g/40/)|
-|![MacHarg, Iain example sett](/variants/db/6/p6/db48/k16/g4/k4/g4/k4/g/40-db2c2c80-g006818-k101010-p780078/sett.png)|
+| [MacHarg, Iain](/setts/s9/b6ba6b48k16g4k4g4k4g40-b2c2c80-ba780078-g006818-k101010/)|
+|![MacHarg, Iain example sett](/setts/s9/b6ba6b48k16g4k4g4k4g40-b2c2c80-ba780078-g006818-k101010/sett.png)|
+| [MacHarg (Name)](/setts/s9/b6ba6b48k16g4k4g4k4g40-b2c2c80-ba780078-g006818-k101010/)|
+|![MacHarg (Name) example sett](/setts/s9/b6ba6b48k16g4k4g4k4g40-b2c2c80-ba780078-g006818-k101010/sett.png)|

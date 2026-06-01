@@ -16,7 +16,7 @@ BBKBGBWGBGBGBGBWGBGBGW
 
 | Tartans |
 |---------------|
-| [Tiree Turquoise](/tartans/ba/4/b4/k2/b4/g2/b6/w4/g4/p2/g4/b2/g6/p4/g2/ba40/w4/g4/p2/g4/b2/g6/w/84/)|
-|![Tiree Turquoise example sett](/variants/ba/4/b4/k2/b4/g2/b6/w4/g4/p2/g4/b2/g6/p4/g2/ba40/w4/g4/p2/g4/b2/g6/w/84-b3c5ca8-ba2888c4-g006818-k101010-p780078-wf0e0c8/sett.png)|
-| [Tiree, Turquoise (Dance)](/tartans/b/4/ba4/k2/ba4/g2/ba6/w4/g4/p2/g4/ba2/g6/p4/g2/b40/w4/g4/p2/g4/ba2/g6/w/84/)|
-|![Tiree, Turquoise (Dance) example sett](/variants/b/4/ba4/k2/ba4/g2/ba6/w4/g4/p2/g4/ba2/g6/p4/g2/b40/w4/g4/p2/g4/ba2/g6/w/84-b2888c4-ba3c5ca8-g006818-k101010-p780078-wf0e0c8/sett.png)|
+| [Tiree Turquoise](/setts/s22/b4ba4k2ba4g2ba6w4g4bb2g4ba2g6bb4g2b40w4g4bb2g4ba2g6w84-b2888c4-ba3c5ca8-bb780078-g006818-k101010-wf0e0c8/)|
+|![Tiree Turquoise example sett](/setts/s22/b4ba4k2ba4g2ba6w4g4bb2g4ba2g6bb4g2b40w4g4bb2g4ba2g6w84-b2888c4-ba3c5ca8-bb780078-g006818-k101010-wf0e0c8/sett.png)|
+| [Tiree, Turquoise (Dance)](/setts/s22/b4ba4k2ba4g2ba6w4g4bb2g4ba2g6bb4g2b40w4g4bb2g4ba2g6w84-b2888c4-ba3c5ca8-bb780078-g006818-k101010-wf0e0c8/)|
+|![Tiree, Turquoise (Dance) example sett](/setts/s22/b4ba4k2ba4g2ba6w4g4bb2g4ba2g6bb4g2b40w4g4bb2g4ba2g6w84-b2888c4-ba3c5ca8-bb780078-g006818-k101010-wf0e0c8/sett.png)|

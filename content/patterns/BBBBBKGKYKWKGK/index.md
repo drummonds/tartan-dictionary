@@ -16,5 +16,5 @@ BBBBBKGKYKWKGK
 
 | Tartans |
 |---------------|
-| [Shandon (Personal)](/tartans/db/36/b8/db8/b8/db36/k40/g36/k4/y4/k10/w4/k4/g36/k/40/)|
-|![Shandon (Personal) example sett](/variants/db/36/b8/db8/b8/db36/k40/g36/k4/y4/k10/w4/k4/g36/k/40-b1474b4-db2c2c80-g408060-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Shandon (Personal)](/setts/s14/b36ba8b8ba8b36k40g36k4y4k10w4k4g36k40-b2c2c80-ba1474b4-g408060-k101010-wfcfcfc-ye8c000/)|
+|![Shandon (Personal) example sett](/setts/s14/b36ba8b8ba8b36k40g36k4y4k10w4k4g36k40-b2c2c80-ba1474b4-g408060-k101010-wfcfcfc-ye8c000/sett.png)|

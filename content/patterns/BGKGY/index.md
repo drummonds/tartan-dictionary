@@ -6,7 +6,7 @@ BGKGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/8/g14/k8/g14/y/8-db2c2c80-g006818-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b8g14k8g14y8-b2c2c80-g006818-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGKGY
 
 | Tartans |
 |---------------|
-| [Daks (House)](/tartans/db/8/g14/k8/g14/y/8/)|
-|![Daks (House) example sett](/variants/db/8/g14/k8/g14/y/8-db2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Selkirk (Name)](/tartans/dy/4/g20/k20/lg4/p/22/)|
-|![Selkirk (Name) example sett](/variants/dy/4/g20/k20/lg4/p/22-dyd09800-g006818-k101010-lg789484-p780078/sett.png)|
-| [DAKS House (C.6700.040)](/tartans/b/8/g14/k8/g14/y/8/)|
-|![DAKS House (C.6700.040) example sett](/variants/b/8/g14/k8/g14/y/8-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Daks (House)](/setts/s5/b8g14k8g14y8-b2c2c80-g006818-k101010-ye8c000/)|
+|![Daks (House) example sett](/setts/s5/b8g14k8g14y8-b2c2c80-g006818-k101010-ye8c000/sett.png)|
+| [Selkirk (Name)](/setts/s5/b22g4k20ga20y4-b780078-g789484-ga006818-k101010-yd09800/)|
+|![Selkirk (Name) example sett](/setts/s5/b22g4k20ga20y4-b780078-g789484-ga006818-k101010-yd09800/sett.png)|
+| [DAKS House (C.6700.040)](/setts/s5/b8g14k8g14y8-b304080-g008000-k000000-yf0c000/)|
+|![DAKS House (C.6700.040) example sett](/setts/s5/b8g14k8g14y8-b304080-g008000-k000000-yf0c000/sett.png)|

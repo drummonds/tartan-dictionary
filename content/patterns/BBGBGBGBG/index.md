@@ -16,5 +16,5 @@ BBGBGBGBG
 
 | Tartans |
 |---------------|
-| [Scottish National (hunting)](/tartans/dr/8/dra6/g6/dra16/g32/p6/g6/p6/n/130/)|
-|![Scottish National (hunting) example sett](/variants/dr/8/dra6/g6/dra16/g32/p6/g6/p6/n/130-dr600030-dra401000-g008000-n808080-p800080/sett.png)|
+| [Scottish National (hunting)](/setts/s9/b8ba6g6ba16g32bb6g6bb6ga130-b600030-ba401000-bb800080-g008000-ga808080/)|
+|![Scottish National (hunting) example sett](/setts/s9/b8ba6g6ba16g32bb6g6bb6ga130-b600030-ba401000-bb800080-g008000-ga808080/sett.png)|

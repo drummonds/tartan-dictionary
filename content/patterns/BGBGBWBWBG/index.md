@@ -16,5 +16,5 @@ BGBGBWBWBG
 
 | Tartans |
 |---------------|
-| [Hickory](/tartans/db/8/n60/t4/n4/t28/w4/t4/w2/t12/g/6/)|
-|![Hickory example sett](/variants/db/8/n60/t4/n4/t28/w4/t4/w2/t12/g/6-db141e46-g767e52-n786557-t4c3428-wf0e0c8/sett.png)|
+| [Hickory](/setts/s10/b8g60ba4g4ba28w4ba4w2ba12ga6-b141e46-ba4c3428-g786557-ga767e52-wf0e0c8/)|
+|![Hickory example sett](/setts/s10/b8g60ba4g4ba28w4ba4w2ba12ga6-b141e46-ba4c3428-g786557-ga767e52-wf0e0c8/sett.png)|

@@ -6,7 +6,7 @@ BB
 
 It is a 2 stripes tartan.
 
-![Woven sample](/variants/b/2/ba/2-b5c8ca8-ba1474b4/tartan.png)
+![Woven sample](/setts/s2/b2ba2-b1474b4-ba5c8ca8/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BB
 
 | Tartans |
 |---------------|
-| [Bruce Special 1985 XXX](/tartans/b/2/ba/2/)|
-|![Bruce Special 1985 XXX example sett](/variants/b/2/ba/2-b5c8ca8-ba1474b4/sett.png)|
-| [Rob Roy, Blue (Fashion)](/tartans/b/2/db/2/)|
-|![Rob Roy, Blue (Fashion) example sett](/variants/b/2/db/2-b2474e8-db1c0070/sett.png)|
+| [Bruce Special 1985 XXX](/setts/s2/b2ba2-b1474b4-ba5c8ca8/)|
+|![Bruce Special 1985 XXX example sett](/setts/s2/b2ba2-b1474b4-ba5c8ca8/sett.png)|
+| [Rob Roy, Blue (Fashion)](/setts/s2/b100ba100-b1c0070-ba2474e8/)|
+|![Rob Roy, Blue (Fashion) example sett](/setts/s2/b100ba100-b1c0070-ba2474e8/sett.png)|
+| [St. Combs Fisher Plaid](/setts/s2/b14ba14-b1474b4-ba202060/)|
+|![St. Combs Fisher Plaid example sett](/setts/s2/b14ba14-b1474b4-ba202060/sett.png)|

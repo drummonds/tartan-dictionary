@@ -6,7 +6,7 @@ BBRBRKBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dba/56/dg4/r10/dg4/r10/k42/dg46/k/4-db202060-dba141e46-dg002814-dob84c00-g006818-k101010-rdc0000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b56ba4r10ba4r10k42ba46k4-b141e46-ba002814-k101010-rdc0000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRBRKBK
 
 | Tartans |
 |---------------|
-| [Bentley](/tartans/dba/56/dg4/r10/dg4/r10/k42/dg46/k/4/)|
-|![Bentley example sett](/variants/dba/56/dg4/r10/dg4/r10/k42/dg46/k/4-db202060-dba141e46-dg002814-dob84c00-g006818-k101010-rdc0000-wfcfcfc/sett.png)|
+| [Bentley](/setts/s8/b56ba4r10ba4r10k42ba46k4-b141e46-ba002814-k101010-rdc0000/)|
+|![Bentley example sett](/setts/s8/b56ba4r10ba4r10k42ba46k4-b141e46-ba002814-k101010-rdc0000/sett.png)|

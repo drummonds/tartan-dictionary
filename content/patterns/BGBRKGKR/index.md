@@ -6,7 +6,7 @@ BGBRKGKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dn/20/n6/dn20/dr6/k42/dg40/k30/dr/6-dg052f14-dn1a2b47-dr89051b-k120a01-n75786c/tartan.png)
+![Woven sample](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBRKGKR
 
 | Tartans |
 |---------------|
-| [Williamson/Smart](/tartans/dn/20/n6/dn20/dr6/k42/dg40/k30/dr/6/)|
-|![Williamson/Smart example sett](/variants/dn/20/n6/dn20/dr6/k42/dg40/k30/dr/6-dg052f14-dn1a2b47-dr89051b-k120a01-n75786c/sett.png)|
+| [Williamson/Smart](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/)|
+|![Williamson/Smart example sett](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/sett.png)|
+| [Williamson/Smart Name Tartan Tartan Number: 10696. Earliest known date: 12 September 2012 Inspired by time spent in Lochaber and his Scottish heritage, Mr Smart designed this tartan for his wedding using the Scotweb Tartan Designer. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/)|
+|![Williamson/Smart Name Tartan Tartan Number: 10696. Earliest known date: 12 September 2012 Inspired by time spent in Lochaber and his Scottish heritage, Mr Smart designed this tartan for his wedding using the Scotweb Tartan Designer. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/sett.png)|

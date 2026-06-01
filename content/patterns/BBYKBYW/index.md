@@ -6,7 +6,7 @@ BBYKBYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/8/n38/na4/k38/n4/na50/nb/4-b2888c4-k101010-n5c5c5c-naa0a0a0-nbc4c4c4/tartan.png)
+![Woven sample](/setts/s7/b8ba38y4k38ba4y50w4-b2888c4-ba5c5c5c-k101010-wc4c4c4-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYKBYW
 
 | Tartans |
 |---------------|
-| [Ritchie, Stephen James (Personal)](/tartans/b/8/n38/na4/k38/n4/na50/nb/4/)|
-|![Ritchie, Stephen James (Personal) example sett](/variants/b/8/n38/na4/k38/n4/na50/nb/4-b2888c4-k101010-n5c5c5c-naa0a0a0-nbc4c4c4/sett.png)|
+| [Ritchie, Stephen James (Personal)](/setts/s7/b8ba38y4k38ba4y50w4-b2888c4-ba5c5c5c-k101010-wc4c4c4-ya0a0a0/)|
+|![Ritchie, Stephen James (Personal) example sett](/setts/s7/b8ba38y4k38ba4y50w4-b2888c4-ba5c5c5c-k101010-wc4c4c4-ya0a0a0/sett.png)|

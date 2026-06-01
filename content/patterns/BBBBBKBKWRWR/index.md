@@ -16,5 +16,5 @@ BBBBBKBKWRWR
 
 | Tartans |
 |---------------|
-| [Ross Blue Dress Tartan Tartan Number: 8194. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/8/ba6/db6/ba8/db8/k18/db8/k18/w56/r4/w8/r/4/)|
-|![Ross Blue Dress Tartan Tartan Number: 8194. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/8/ba6/db6/ba8/db8/k18/db8/k18/w56/r4/w8/r/4-b2888c4-ba2888c4-db2c2c80-k101010-rb80478-wf8f8f8/sett.png)|
+| [Ross Blue Dress Tartan Tartan Number: 8194. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b8ba6b6ba8b8k18b8k18w56r4w8r4-b2c2c80-ba2888c4-k101010-rb80478-wf8f8f8/)|
+|![Ross Blue Dress Tartan Tartan Number: 8194. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b8ba6b6ba8b8k18b8k18w56r4w8r4-b2c2c80-ba2888c4-k101010-rb80478-wf8f8f8/sett.png)|

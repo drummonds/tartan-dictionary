@@ -16,5 +16,5 @@ BBWRRWRRWBBRWGYWBWBWYGWBBBWRRWRRWBBBWGYWBWBWYGWRBBWRRWRRWBBRRWGYWBWBWYGWBBBWRRWR
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Cant Counts](/tartans/db/20/b6/ln2/lr12/r24/ln2/r24/lr12/ln2/b6/db20/r12/ln2/dg20/y12/ln2/b4/ln2/b4/ln2/y12/dg20/ln2/b6/db20/b6/ln2/lr10/r12/ln2/r12/lr10/ln2/b6/db20/b6/ln2/dg20/y12/ln2/b4/ln2/b4/ln2/y12/dg20/ln2/r12/db20/b6/ln2/lr12/r24/ln2/r24/lr12/ln2/b6/db20/r12/lr10/ln2/dg20/y12/ln2/b4/ln2/b4/ln2/y12/dg20/ln2/b6/db20/b6/ln2/lr10/r12/ln2/r12/lr10/ln/2/)|
-|![Unnamed C18th - Cant Counts example sett](/variants/db/20/b6/ln2/lr12/r24/ln2/r24/lr12/ln2/b6/db20/r12/ln2/dg20/y12/ln2/b4/ln2/b4/ln2/y12/dg20/ln2/b6/db20/b6/ln2/lr10/r12/ln2/r12/lr10/ln2/b6/db20/b6/ln2/dg20/y12/ln2/b4/ln2/b4/ln2/y12/dg20/ln2/r12/db20/b6/ln2/lr12/r24/ln2/r24/lr12/ln2/b6/db20/r12/lr10/ln2/dg20/y12/ln2/b4/ln2/b4/ln2/y12/dg20/ln2/b6/db20/b6/ln2/lr10/r12/ln2/r12/lr10/ln/2-b2888c4-db2c2c80-dg003820-lne0e0e0-lre87878-rc80000-ye8c000/sett.png)|
+| [Unnamed C18th - Cant Counts](/setts/s82/b20ba6w2r12ra24w2ra24r12w2ba6b20ra12w2g20y12w2ba4w2ba4w2y12g20w2ba6b20ba6w2r10ra12w2ra12r10w2ba6b20ba6w2g20y12w2ba4w2ba4w2y12g20w2ra12b20ba6w2r12ra24w2ra24r12w2ba6b20ra12r10w2g20y12w2ba4w2ba4w2y12g20w-h2d7c389c030eef0a/)|
+|![Unnamed C18th - Cant Counts example sett](/setts/s82/b20ba6w2r12ra24w2ra24r12w2ba6b20ra12w2g20y12w2ba4w2ba4w2y12g20w2ba6b20ba6w2r10ra12w2ra12r10w2ba6b20ba6w2g20y12w2ba4w2ba4w2y12g20w2ra12b20ba6w2r12ra24w2ra24r12w2ba6b20ra12r10w2g20y12w2ba4w2ba4w2y12g20w-h2d7c389c030eef0a/sett.png)|

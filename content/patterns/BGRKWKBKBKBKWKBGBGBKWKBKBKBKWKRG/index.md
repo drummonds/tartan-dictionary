@@ -16,5 +16,5 @@ BGRKWKBKBKBKWKBGBGBKWKBKBKBKWKRG
 
 | Tartans |
 |---------------|
-| [Selkirk, New](/tartans/b/48/g4/r24/k4/ln4/k6/p4/k6/b8/k6/p4/k6/ln4/k4/dbb24/g4/dbb48/g4/dbb24/k4/ln4/k6/p4/k6/b8/k6/p4/k6/ln4/k4/r24/g/4/)|
-|![Selkirk, New example sett](/variants/b/48/g4/r24/k4/ln4/k6/p4/k6/b8/k6/p4/k6/ln4/k4/dbb24/g4/dbb48/g4/dbb24/k4/ln4/k6/p4/k6/b8/k6/p4/k6/ln4/k4/r24/g/4-b1474b4-db202060-dba1c0070-dbb2c2c80-g006818-k101010-lne0e0e0-p780078-rc80000/sett.png)|
+| [Selkirk, New](/setts/s32/b48g4r24k4w4k6ba4k6b8k6ba4k6w4k4bb24g4bb48g4bb24k4w4k6ba4k6b8k6ba4k6w4k4r24g4-b1474b4-ba780078-bb2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![Selkirk, New example sett](/setts/s32/b48g4r24k4w4k6ba4k6b8k6ba4k6w4k4bb24g4bb48g4bb24k4w4k6ba4k6b8k6ba4k6w4k4r24g4-b1474b4-ba780078-bb2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|

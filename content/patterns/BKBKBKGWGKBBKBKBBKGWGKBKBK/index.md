@@ -16,5 +16,5 @@ BKBKBKGWGKBBKBKBBKGWGKBKBK
 
 | Tartans |
 |---------------|
-| [Scottish Heritage Preservation](/tartans/k/4/p4/k4/p4/k36/g16/n4/g16/k32/p30/p2/k4/p4/k4/p2/p30/k32/g16/n4/g16/k36/p4/k4/p4/k4/p/44/)|
-|![Scottish Heritage Preservation example sett](/variants/k/4/p4/k4/p4/k36/g16/n4/g16/k32/p30/p2/k4/p4/k4/p2/p30/k32/g16/n4/g16/k36/p4/k4/p4/k4/p/44-g006818-k101010-nc0c0c0-p780078/sett.png)|
+| [Scottish Heritage Preservation](/setts/s26/b44k4b4k4b4k36g16w4g16k32b30b2k4b4k4b2b30k32g16w4g16k36b4k4b4k4-b780078-g006818-k101010-wc0c0c0/)|
+|![Scottish Heritage Preservation example sett](/setts/s26/b44k4b4k4b4k36g16w4g16k32b30b2k4b4k4b2b30k32g16w4g16k36b4k4b4k4-b780078-g006818-k101010-wc0c0c0/sett.png)|

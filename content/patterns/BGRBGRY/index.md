@@ -6,7 +6,7 @@ BGRBGRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/26/g16/r10/db6/g4/r2/y/2-db141e46-g004c00-rb03000-yffe600/tartan.png)
+![Woven sample](/setts/s7/b52g32r20b12g8r4y4-b141e46-g004c00-rb03000-yffe600/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRBGRY
 
 | Tartans |
 |---------------|
-| [Fibonacci7](/tartans/db/26/g16/r10/db6/g4/r2/y/2/)|
-|![Fibonacci7 example sett](/variants/db/26/g16/r10/db6/g4/r2/y/2-db141e46-g004c00-rb03000-yffe600/sett.png)|
+| [Fibonacci7](/setts/s7/b52g32r20b12g8r4y4-b141e46-g004c00-rb03000-yffe600/)|
+|![Fibonacci7 example sett](/setts/s7/b52g32r20b12g8r4y4-b141e46-g004c00-rb03000-yffe600/sett.png)|

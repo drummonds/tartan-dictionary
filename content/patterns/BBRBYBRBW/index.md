@@ -16,5 +16,5 @@ BBRBYBRBW
 
 | Tartans |
 |---------------|
-| [Wattenhofer (2016)](/tartans/dr/120/b16/r32/b8/o16/dr8/ra4/b12/ln/2/)|
-|![Wattenhofer (2016) example sett](/variants/dr/120/b16/r32/b8/o16/dr8/ra4/b12/ln/2-b1870a4-dr441800-lne0e0e0-odc943c-rb03000-rac80000/sett.png)|
+| [Wattenhofer (2016)](/setts/s9/b120ba16r32ba8y16b8ra4ba12w2-b441800-ba1870a4-rb03000-rac80000-we0e0e0-ydc943c/)|
+|![Wattenhofer (2016) example sett](/setts/s9/b120ba16r32ba8y16b8ra4ba12w2-b441800-ba1870a4-rb03000-rac80000-we0e0e0-ydc943c/sett.png)|

@@ -16,5 +16,5 @@ BBBBBBBBBBBRBBBBBBBBBYBB
 
 | Tartans |
 |---------------|
-| [Bartlam (Personal)](/tartans/db/4/dr4/db4/dr4/db24/dr4/db4/dr4/db4/dr24/n24/dra4/n24/dr24/db22/dr4/db4/dr4/db22/dr24/n24/dy4/n24/dr/24/)|
-|![Bartlam (Personal) example sett](/variants/db/4/dr4/db4/dr4/db24/dr4/db4/dr4/db4/dr24/n24/dra4/n24/dr24/db22/dr4/db4/dr4/db22/dr24/n24/dy4/n24/dr/24-db202060-dr441800-dra880000-dybc8c00-n5c5c5c/sett.png)|
+| [Bartlam (Personal)](/setts/s24/b4ba4b4ba4b24ba4b4ba4b4ba24bb24r4bb24ba24b22ba4b4ba4b22ba24bb24y4bb24ba24-b202060-ba441800-bb5c5c5c-r880000-ybc8c00/)|
+|![Bartlam (Personal) example sett](/setts/s24/b4ba4b4ba4b24ba4b4ba4b4ba24bb24r4bb24ba24b22ba4b4ba4b22ba24bb24y4bb24ba24-b202060-ba441800-bb5c5c5c-r880000-ybc8c00/sett.png)|

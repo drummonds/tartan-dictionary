@@ -16,5 +16,5 @@ BBBBBBGYRKWR
 
 | Tartans |
 |---------------|
-| [Salt Lake City Arts Council (Corp)](/tartans/db/32/p4/db4/p4/db4/p16/g16/dy16/r16/k2/w2/r/4/)|
-|![Salt Lake City Arts Council (Corp) example sett](/variants/db/32/p4/db4/p4/db4/p16/g16/dy16/r16/k2/w2/r/4-db2c2c80-dybc8c00-g006818-k101010-p780078-rc80000-wf8f8f8/sett.png)|
+| [Salt Lake City Arts Council (Corp)](/setts/s12/b32ba4b4ba4b4ba16g16y16r16k2w2r4-b2c2c80-ba780078-g006818-k101010-rc80000-wf8f8f8-ybc8c00/)|
+|![Salt Lake City Arts Council (Corp) example sett](/setts/s12/b32ba4b4ba4b4ba16g16y16r16k2w2r4-b2c2c80-ba780078-g006818-k101010-rc80000-wf8f8f8-ybc8c00/sett.png)|

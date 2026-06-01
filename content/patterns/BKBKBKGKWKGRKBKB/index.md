@@ -16,7 +16,7 @@ BKBKBKGKWKGRKBKB
 
 | Tartans |
 |---------------|
-| [Sempill](/tartans/db/44/k6/db6/k6/db6/k30/dg38/k2/lp6/k2/dg38/r4/k30/db38/k6/db/6/)|
-|![Sempill example sett](/variants/db/44/k6/db6/k6/db6/k30/dg38/k2/lp6/k2/dg38/r4/k30/db38/k6/db/6-db2c2c80-dg003820-g006818-k101010-lpa8ace8-rc80000/sett.png)|
-| [Sempill (Clan)](/tartans/b/44/k6/b6/k6/b6/k30/g38/k2/lp6/k2/g38/r4/k30/b38/k6/b/6/)|
-|![Sempill (Clan) example sett](/variants/b/44/k6/b6/k6/b6/k30/g38/k2/lp6/k2/g38/r4/k30/b38/k6/b/6-b1474b4-g006818-k101010-lpa8ace8-rc80000/sett.png)|
+| [Sempill](/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b2c2c80-g006818-k101010-rc80000-wa8ace8/)|
+|![Sempill example sett](/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b2c2c80-g006818-k101010-rc80000-wa8ace8/sett.png)|
+| [Sempill (Clan)](/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b1474b4-g006818-k101010-rc80000-wa8ace8/)|
+|![Sempill (Clan) example sett](/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b1474b4-g006818-k101010-rc80000-wa8ace8/sett.png)|

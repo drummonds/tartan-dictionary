@@ -16,5 +16,5 @@ BGBBGKGKGWBGK
 
 | Tartans |
 |---------------|
-| [Giants Causeway, The](/tartans/k/6/n2/b10/w2/n5/k2/g6/k2/n44/na20/b3/n8/na/38/)|
-|![Giants Causeway, The example sett](/variants/k/6/n2/b10/w2/n5/k2/g6/k2/n44/na20/b3/n8/na/38-b00688b-g238e68-k000000-n646f5e-na575757-wffffff/sett.png)|
+| [Giants Causeway, The](/setts/s13/b38g8ba3b20g44k2ga6k2g5w2ba10g2k6-b575757-ba00688b-g646f5e-ga238e68-k000000-wffffff/)|
+|![Giants Causeway, The example sett](/setts/s13/b38g8ba3b20g44k2ga6k2g5w2ba10g2k6-b575757-ba00688b-g646f5e-ga238e68-k000000-wffffff/sett.png)|

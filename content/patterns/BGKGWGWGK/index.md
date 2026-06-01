@@ -16,11 +16,15 @@ BGKGWGWGK
 
 | Tartans |
 |---------------|
-| [Graden (Personal)](/tartans/db/44/g8/k8/g28/n6/g8/n6/g8/k/6/)|
-|![Graden (Personal) example sett](/variants/db/44/g8/k8/g28/n6/g8/n6/g8/k/6-db203078-g006818-k101010-nc0c0c0/sett.png)|
-| [Tweedside Hunting](/tartans/db/36/g4/k4/g10/w4/g4/w4/g4/k/4/)|
-|![Tweedside Hunting example sett](/variants/db/36/g4/k4/g10/w4/g4/w4/g4/k/4-db2c2c80-g006818-k101010-wfcfcfc/sett.png)|
-| [Tweedside, hunting](/tartans/b/42/g10/k10/g30/ln6/g10/ln6/g10/k/6/)|
-|![Tweedside, hunting example sett](/variants/b/42/g10/k10/g30/ln6/g10/ln6/g10/k/6-b304080-g008000-k000000-lne0e0e0/sett.png)|
-| [Tweedside Hunting District Tartan Tartan Number: 163. Earliest known date: 20th Century A variation of Wilson's design. There is no record of this sett in any of the old collections which points to dating it in this century. It is the most popular of Tweedside district tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/42/g10/k10/g30/ln6/g10/ln6/g10/k/6/)|
-|![Tweedside Hunting District Tartan Tartan Number: 163. Earliest known date: 20th Century A variation of Wilson's design. There is no record of this sett in any of the old collections which points to dating it in this century. It is the most popular of Tweedside district tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/42/g10/k10/g30/ln6/g10/ln6/g10/k/6-db2c2c80-g006818-k101010-lne0e0e0/sett.png)|
+| [Graden (Personal)](/setts/s9/b44g8k8g28w6g8w6g8k6-b203078-g006818-k101010-wc0c0c0/)|
+|![Graden (Personal) example sett](/setts/s9/b44g8k8g28w6g8w6g8k6-b203078-g006818-k101010-wc0c0c0/sett.png)|
+| [Tweedside Hunting](/setts/s9/b72g8k8g20w8g8w8g8k8-b2c2c80-g006818-k101010-wfcfcfc/)|
+|![Tweedside Hunting example sett](/setts/s9/b72g8k8g20w8g8w8g8k8-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
+| [Tweedside Htg (District)](/setts/s9/b72g8k8g20w8g8w8g8k8-b2c2c80-g006818-k101010-wfcfcfc/)|
+|![Tweedside Htg (District) example sett](/setts/s9/b72g8k8g20w8g8w8g8k8-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
+| [Graden (Personal)](/setts/s9/b44g8k8g28w6g8w6g8k6-b203078-g006818-k101010-wc0c0c0/)|
+|![Graden (Personal) example sett](/setts/s9/b44g8k8g28w6g8w6g8k6-b203078-g006818-k101010-wc0c0c0/sett.png)|
+| [Tweedside, hunting](/setts/s9/b42g10k10g30w6g10w6g10k6-b304080-g008000-k000000-we0e0e0/)|
+|![Tweedside, hunting example sett](/setts/s9/b42g10k10g30w6g10w6g10k6-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Tweedside Hunting District Tartan Tartan Number: 163. Earliest known date: 20th Century A variation of Wilson's design. There is no record of this sett in any of the old collections which points to dating it in this century. It is the most popular of Tweedside district tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b42g10k10g30w6g10w6g10k6-b2c2c80-g006818-k101010-we0e0e0/)|
+|![Tweedside Hunting District Tartan Tartan Number: 163. Earliest known date: 20th Century A variation of Wilson's design. There is no record of this sett in any of the old collections which points to dating it in this century. It is the most popular of Tweedside district tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/b42g10k10g30w6g10w6g10k6-b2c2c80-g006818-k101010-we0e0e0/sett.png)|

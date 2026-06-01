@@ -6,7 +6,7 @@ BGBYGYGB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dr/48/g4/dr10/lt28/g4/lt10/t34/dr/4-dr441800-g006818-lta08858-t604000/tartan.png)
+![Woven sample](/setts/s8/b48g4b10y28g4y10ga34b4-b441800-g006818-ga604000-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBYGYGB
 
 | Tartans |
 |---------------|
-| [Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/dr/48/g4/dr10/lt28/g4/lt10/t34/dr/4/)|
-|![Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/dr/48/g4/dr10/lt28/g4/lt10/t34/dr/4-dr441800-g006818-lta08858-t604000/sett.png)|
+| [Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b48g4b10y28g4y10ga34b4-b441800-g006818-ga604000-ya08858/)|
+|![Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b48g4b10y28g4y10ga34b4-b441800-g006818-ga604000-ya08858/sett.png)|

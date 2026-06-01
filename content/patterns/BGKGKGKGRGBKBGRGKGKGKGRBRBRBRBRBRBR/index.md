@@ -16,5 +16,5 @@ BGKGKGKGRGBKBGRGKGKGKGRBRBRBRBRBRBR
 
 | Tartans |
 |---------------|
-| [Unidentified "Old tartan"](/tartans/b/12/g12/k6/g6/k6/g6/k6/g30/r18/g12/b6/k18/b6/g12/r18/g30/k6/g6/k6/g6/k6/g12/lt18/b6/lt6/b6/lt6/b6/lt12/b20/lt6/b6/lt6/b6/lt/6/)|
-|![Unidentified "Old tartan" example sett](/variants/b/12/g12/k6/g6/k6/g6/k6/g30/r18/g12/b6/k18/b6/g12/r18/g30/k6/g6/k6/g6/k6/g12/lt18/b6/lt6/b6/lt6/b6/lt12/b20/lt6/b6/lt6/b6/lt/6-b304080-g008000-k000000-lt806050-rc00000/sett.png)|
+| [Unidentified "Old tartan"](/setts/s35/b12g12k6g6k6g6k6g30r18g12b6k18b6g12r18g30k6g6k6g6k6g12ra18b6ra6b6ra6b6ra12b20ra6b6ra6b6ra6-b304080-g008000-k000000-rc00000-ra806050/)|
+|![Unidentified "Old tartan" example sett](/setts/s35/b12g12k6g6k6g6k6g30r18g12b6k18b6g12r18g30k6g6k6g6k6g12ra18b6ra6b6ra6b6ra12b20ra6b6ra6b6ra6-b304080-g008000-k000000-rc00000-ra806050/sett.png)|

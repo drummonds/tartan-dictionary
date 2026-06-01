@@ -16,5 +16,5 @@ BKGBRGRBRGRBGK
 
 | Tartans |
 |---------------|
-| [Shaw of Tordarroch Green (Hunting)](/tartans/b/10/k2/ga60/db30/r16/ga60/r16/db4/r16/ga60/r16/db30/ga60/k/2/)|
-|![Shaw of Tordarroch Green (Hunting) example sett](/variants/b/10/k2/ga60/db30/r16/ga60/r16/db4/r16/ga60/r16/db30/ga60/k/2-b5c8ca8-db2c2c80-dg003820-dp440044-g285800-ga006818-k101010-lg789484-rc80000/sett.png)|
+| [Shaw of Tordarroch Green (Hunting)](/setts/s14/b10k2g60ba30r16g60r16ba4r16g60r16ba30g60k2-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/)|
+|![Shaw of Tordarroch Green (Hunting) example sett](/setts/s14/b10k2g60ba30r16g60r16ba4r16g60r16ba30g60k2-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/sett.png)|

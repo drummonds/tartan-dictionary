@@ -16,5 +16,5 @@ BKBKBKGKGY
 
 | Tartans |
 |---------------|
-| [Grand Lodge of Scotland (Corporate)](/tartans/db/2/k4/db2/k12/db2/k2/g2/k12/g42/y/2/)|
-|![Grand Lodge of Scotland (Corporate) example sett](/variants/db/2/k4/db2/k12/db2/k2/g2/k12/g42/y/2-db2c2c80-g006818-k101010-ye8c000/sett.png)|
+| [Grand Lodge of Scotland (Corporate)](/setts/s10/b2k4b2k12b2k2g2k12g42y2-b2c2c80-g006818-k101010-ye8c000/)|
+|![Grand Lodge of Scotland (Corporate) example sett](/setts/s10/b2k4b2k12b2k2g2k12g42y2-b2c2c80-g006818-k101010-ye8c000/sett.png)|

@@ -6,7 +6,7 @@ BGWRGRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/4/dg6/ln38/r30/n6/r6/dg/40-b5480b0-dg003000-lne0e0e0-n808080-rc00000/tartan.png)
+![Woven sample](/setts/s7/b4g6w38r30ga6r6g40-b5480b0-g003000-ga808080-rc00000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGWRGRG
 
 | Tartans |
 |---------------|
-| [Glasgow](/tartans/b/4/dg6/ln38/r30/n6/r6/dg/40/)|
-|![Glasgow example sett](/variants/b/4/dg6/ln38/r30/n6/r6/dg/40-b5480b0-dg003000-lne0e0e0-n808080-rc00000/sett.png)|
+| [Glasgow](/setts/s7/b4g6w38r30ga6r6g40-b5480b0-g003000-ga808080-rc00000-we0e0e0/)|
+|![Glasgow example sett](/setts/s7/b4g6w38r30ga6r6g40-b5480b0-g003000-ga808080-rc00000-we0e0e0/sett.png)|

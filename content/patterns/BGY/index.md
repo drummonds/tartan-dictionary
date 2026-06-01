@@ -6,7 +6,7 @@ BGY
 
 It is a 3 stripes tartan.
 
-![Woven sample](/variants/p/20/ga24/ya/2-dg003820-dp440044-g285800-ga408060-p780078-yd8b000-yae8c000/tartan.png)
+![Woven sample](/setts/s3/b20g24y2-b780078-g408060-ye8c000/tartan.png)
 
 
 
@@ -18,11 +18,11 @@ BGY
 
 | Tartans |
 |---------------|
-| [Wilson's No.081](/tartans/p/20/ga24/ya/2/)|
-|![Wilson's No.081 example sett](/variants/p/20/ga24/ya/2-dg003820-dp440044-g285800-ga408060-p780078-yd8b000-yae8c000/sett.png)|
-| [Wilson's No.201](/tartans/dp/4/g8/y/2/)|
-|![Wilson's No.201 example sett](/variants/dp/4/g8/y/2-dg003820-dp440044-g006818-lre8ccb8-ye8c000-yad8b000/sett.png)|
-| [Wilson's, No 201](/tartans/p/4/g8/y/2/)|
-|![Wilson's, No 201 example sett](/variants/p/4/g8/y/2-g008000-p800080-yf0c000/sett.png)|
-| [Wilson's, No 81](/tartans/p/10/g12/y/2/)|
-|![Wilson's, No 81 example sett](/variants/p/10/g12/y/2-g008000-p800080-yf0c000/sett.png)|
+| [Wilson's No.081](/setts/s3/b20g24y2-b780078-g408060-ye8c000/)|
+|![Wilson's No.081 example sett](/setts/s3/b20g24y2-b780078-g408060-ye8c000/sett.png)|
+| [Wilson's No.201](/setts/s3/b8g16y4-b440044-g006818-ye8c000/)|
+|![Wilson's No.201 example sett](/setts/s3/b8g16y4-b440044-g006818-ye8c000/sett.png)|
+| [Wilson's, No 201](/setts/s3/b8g16y4-b800080-g008000-yf0c000/)|
+|![Wilson's, No 201 example sett](/setts/s3/b8g16y4-b800080-g008000-yf0c000/sett.png)|
+| [Wilson's, No 81](/setts/s3/b20g24y4-b800080-g008000-yf0c000/)|
+|![Wilson's, No 81 example sett](/setts/s3/b20g24y4-b800080-g008000-yf0c000/sett.png)|

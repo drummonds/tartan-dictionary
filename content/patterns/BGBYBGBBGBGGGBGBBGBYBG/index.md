@@ -16,5 +16,5 @@ BGBYBGBBGBGGGBGBBGBYBG
 
 | Tartans |
 |---------------|
-| [Protheroe of Wales](/tartans/db/6/dg20/dba2/lt2/dba2/dg4/dba10/db4/dg4/db4/dg4/g10/dg4/db4/dg4/db4/dba10/dg4/dba2/lt2/dba2/dg/20/)|
-|![Protheroe of Wales example sett](/variants/db/6/dg20/dba2/lt2/dba2/dg4/dba10/db4/dg4/db4/dg4/g10/dg4/db4/dg4/db4/dba10/dg4/dba2/lt2/dba2/dg/20-db202060-dba003c64-dg003820-g285800-lta08858/sett.png)|
+| [Protheroe of Wales](/setts/s22/b12g40ba4y4ba4g8ba20b8g8b8g8ga20g8b8g8b8ba20g8ba4y4ba4g40-b202060-ba003c64-g003820-ga285800-ya08858/)|
+|![Protheroe of Wales example sett](/setts/s22/b12g40ba4y4ba4g8ba20b8g8b8g8ga20g8b8g8b8ba20g8ba4y4ba4g40-b202060-ba003c64-g003820-ga285800-ya08858/sett.png)|

@@ -16,5 +16,7 @@ BBGBBBGBGBBGB
 
 | Tartans |
 |---------------|
-| [McCarthy](/tartans/db/10/g2/db6/dp4/g20/db6/g8/db56/dp4/db4/g2/db8/dp/2/)|
-|![McCarthy example sett](/variants/db/10/g2/db6/dp4/g20/db6/g8/db56/dp4/db4/g2/db8/dp/2-db003c64-dp440044-g006818/sett.png)|
+| [McCarthy](/setts/s13/b10g2b6ba4g20b6g8b56ba4b4g2b8ba2-b003c64-ba440044-g006818/)|
+|![McCarthy example sett](/setts/s13/b10g2b6ba4g20b6g8b56ba4b4g2b8ba2-b003c64-ba440044-g006818/sett.png)|
+| [McCarthy (Corporate)](/setts/s13/b10g2b6ba4g20b6g8b56ba4b4g2b8ba2-b003c64-ba440044-g006818/)|
+|![McCarthy (Corporate) example sett](/setts/s13/b10g2b6ba4g20b6g8b56ba4b4g2b8ba2-b003c64-ba440044-g006818/sett.png)|

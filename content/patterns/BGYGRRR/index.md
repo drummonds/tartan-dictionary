@@ -6,7 +6,7 @@ BGYGRRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/lta/80/lt8/lta4/t4/n4/t45/na/8-lt904c40-ltaac6c64-na0a0a0-na5c5c5c-t604000/tartan.png)
+![Woven sample](/setts/s7/b8g45y4g4r4ra8r80-b5c5c5c-g604000-rac6c64-ra904c40-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYGRRR
 
 | Tartans |
 |---------------|
-| [Isaia (Fashion)](/tartans/lta/80/lt8/lta4/t4/n4/t45/na/8/)|
-|![Isaia (Fashion) example sett](/variants/lta/80/lt8/lta4/t4/n4/t45/na/8-lt904c40-ltaac6c64-na0a0a0-na5c5c5c-t604000/sett.png)|
+| [Isaia (Fashion)](/setts/s7/b8g45y4g4r4ra8r80-b5c5c5c-g604000-rac6c64-ra904c40-ya0a0a0/)|
+|![Isaia (Fashion) example sett](/setts/s7/b8g45y4g4r4ra8r80-b5c5c5c-g604000-rac6c64-ra904c40-ya0a0a0/sett.png)|

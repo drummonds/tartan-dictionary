@@ -6,7 +6,7 @@ BKB
 
 It is a 3 stripes tartan.
 
-![Woven sample](/variants/b/2/k24/b/2-b0000cd-k101010/tartan.png)
+![Woven sample](/setts/s3/b10k120b10-b0000cd-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKB
 
 | Tartans |
 |---------------|
-| [Staines (2013)](/tartans/b/2/k24/b/2/)|
-|![Staines (2013) example sett](/variants/b/2/k24/b/2-b0000cd-k101010/sett.png)|
+| [Staines (2013)](/setts/s3/b10k120b10-b0000cd-k101010/)|
+|![Staines (2013) example sett](/setts/s3/b10k120b10-b0000cd-k101010/sett.png)|

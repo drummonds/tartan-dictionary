@@ -16,5 +16,5 @@ BBKBKBKWB
 
 | Tartans |
 |---------------|
-| [Chinzei Keiai Junior High School](/tartans/n/4/na4/k6/na32/k4/na4/k32/lp6/na/6/)|
-|![Chinzei Keiai Junior High School example sett](/variants/n/4/na4/k6/na32/k4/na4/k32/lp6/na/6-k101010-lpc49cd8-n646464-na505050/sett.png)|
+| [Chinzei Keiai Junior High School](/setts/s9/b6w6k32b4k4b32k6b4ba4-b505050-ba646464-k101010-wc49cd8/)|
+|![Chinzei Keiai Junior High School example sett](/setts/s9/b6w6k32b4k4b32k6b4ba4-b505050-ba646464-k101010-wc49cd8/sett.png)|

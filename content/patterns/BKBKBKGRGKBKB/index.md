@@ -16,11 +16,25 @@ BKBKBKGRGKBKB
 
 | Tartans |
 |---------------|
-| [Murray #2](/tartans/db/12/k2/db2/k2/db2/k12/g12/r4/g12/k12/db12/k2/db/4/)|
-|![Murray #2 example sett](/variants/db/12/k2/db2/k2/db2/k12/g12/r4/g12/k12/db12/k2/db/4-db2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Westwood Gordon Pink](/tartans/db/42/k6/db6/k6/db6/k40/g36/lr6/g36/k40/db36/k6/db/6/)|
-|![Westwood Gordon Pink example sett](/variants/db/42/k6/db6/k6/db6/k40/g36/lr6/g36/k40/db36/k6/db/6-db1c1c50-g285800-k101010-lre87878/sett.png)|
-| [Murray](/tartans/b/12/k2/b2/k2/b2/k12/g12/r4/g12/k12/b12/k2/b/4/)|
-|![Murray example sett](/variants/b/12/k2/b2/k2/b2/k12/g12/r4/g12/k12/b12/k2/b/4-b304080-g008000-k000000-rc00000/sett.png)|
-| [Murray](/tartans/db/12/k2/db2/k2/db2/k12/dg12/dr4/dg12/k12/db12/k2/db/4/)|
-|![Murray example sett](/variants/db/12/k2/db2/k2/db2/k12/dg12/dr4/dg12/k12/db12/k2/db/4-db000052-dg11450d-draa0000-k000000/sett.png)|
+| [Murray #2](/setts/s13/b24k4b4k4b4k24g24r8g24k24b24k4b8-b2c2c80-g006818-k101010-rc80000/)|
+|![Murray #2 example sett](/setts/s13/b24k4b4k4b4k24g24r8g24k24b24k4b8-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [New South Wales Scottish Rifles](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b2c2c80-g006818-k101010-rc80000/)|
+|![New South Wales Scottish Rifles example sett](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Westwood Gordon Pink](/setts/s13/b42k6b6k6b6k40g36r6g36k40b36k6b6-b1c1c50-g285800-k101010-re87878/)|
+|![Westwood Gordon Pink example sett](/setts/s13/b42k6b6k6b6k40g36r6g36k40b36k6b6-b1c1c50-g285800-k101010-re87878/sett.png)|
+| [NSW Scottish Rifles (Military)](/setts/s13/b24k4b4k4b4k24g24r8g24k24b24k4b8-b2c2c80-g006818-k101010-rc80000/)|
+|![NSW Scottish Rifles (Military) example sett](/setts/s13/b24k4b4k4b4k24g24r8g24k24b24k4b8-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Westwood Gordon Pink (Fashion)](/setts/s13/b42k6b6k6b6k40g36r6g36k40b36k6b6-b1c1c50-g285800-k101010-re87878/)|
+|![Westwood Gordon Pink (Fashion) example sett](/setts/s13/b42k6b6k6b6k40g36r6g36k40b36k6b6-b1c1c50-g285800-k101010-re87878/sett.png)|
+| [Murray](/setts/s13/b2k1b6k6g6r2g6k6b1k1b1k1b6-b00004c-g004c00-k000000-rc80000/)|
+|![Murray example sett](/setts/s13/b2k1b6k6g6r2g6k6b1k1b1k1b6-b00004c-g004c00-k000000-rc80000/sett.png)|
+| [Murray](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b304080-g008000-k000000-rc00000/)|
+|![Murray example sett](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b304080-g008000-k000000-rc00000/sett.png)|
+| [New South Wales, Scottish Rifles](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b304080-g008000-k000000-rc00000/)|
+|![New South Wales, Scottish Rifles example sett](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b304080-g008000-k000000-rc00000/sett.png)|
+| [Murray](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b000052-g11450d-k000000-raa0000/)|
+|![Murray example sett](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b000052-g11450d-k000000-raa0000/sett.png)|
+| [Murray](/setts/s13/b2k1b6k6g6r2g6k6b1k1b1k1b6-b000052-g11450d-k000000-raa0000/)|
+|![Murray example sett](/setts/s13/b2k1b6k6g6r2g6k6b1k1b1k1b6-b000052-g11450d-k000000-raa0000/sett.png)|
+| [New South Wales Scottish Rifle Regimental Tartan Tartan Number: 226. Earliest known date: 1885 - 1911 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b2c2c80-g006818-k101010-rc80000/)|
+|![New South Wales Scottish Rifle Regimental Tartan Tartan Number: 226. Earliest known date: 1885 - 1911 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b2c2c80-g006818-k101010-rc80000/sett.png)|

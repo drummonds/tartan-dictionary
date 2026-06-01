@@ -16,5 +16,7 @@ BKBKYGRWR
 
 | Tartans |
 |---------------|
-| [Comyn/Cumming](/tartans/b/8/k4/b8/k20/y2/g20/r8/ln2/r/8/)|
-|![Comyn/Cumming example sett](/variants/b/8/k4/b8/k20/y2/g20/r8/ln2/r/8-b3c82af-g005020-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
+| [Comyn/Cumming](/setts/s9/b16k8b16k40y4g40r16w4r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Comyn/Cumming example sett](/setts/s9/b16k8b16k40y4g40r16w4r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Comyn, Cumming](/setts/s9/b16k8b16k40y4g40r16w4r16-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Comyn, Cumming example sett](/setts/s9/b16k8b16k40y4g40r16w4r16-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

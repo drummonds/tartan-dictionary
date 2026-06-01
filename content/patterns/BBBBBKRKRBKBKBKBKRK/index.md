@@ -16,5 +16,5 @@ BBBBBKRKRBKBKBKBKRK
 
 | Tartans |
 |---------------|
-| [Burns, Virginia (Personal)](/tartans/k/10/lr4/k10/p8/k4/db6/k4/db6/k4/p8/lr4/k10/lr4/k10/p24/db24/p48/db24/p/24/)|
-|![Burns, Virginia (Personal) example sett](/variants/k/10/lr4/k10/p8/k4/db6/k4/db6/k4/p8/lr4/k10/lr4/k10/p24/db24/p48/db24/p/24-db141e46-k101010-lre87878-p5a008c/sett.png)|
+| [Burns, Virginia (Personal)](/setts/s19/b24ba24b48ba24b24k10r4k10r4b8k4ba6k4ba6k4b8k10r4k10-b5a008c-ba141e46-k101010-re87878/)|
+|![Burns, Virginia (Personal) example sett](/setts/s19/b24ba24b48ba24b24k10r4k10r4b8k4ba6k4ba6k4b8k10r4k10-b5a008c-ba141e46-k101010-re87878/sett.png)|

@@ -16,7 +16,7 @@ BKBKBKGWGKB
 
 | Tartans |
 |---------------|
-| [Dama Resort](/tartans/p/4/k12/lt4/lp4/lt26/k36/n4/k4/n12/k4/p/6/)|
-|![Dama Resort example sett](/variants/p/4/k12/lt4/lp4/lt26/k36/n4/k4/n12/k4/p/6-k101010-lp88ace0-lt777733-n2f4f4f-p7a378b/sett.png)|
-| [Dama Resort (Fashion)](/tartans/p/4/k12/g4/lb4/g26/k36/n4/k4/n12/k4/p/6/)|
-|![Dama Resort (Fashion) example sett](/variants/p/4/k12/g4/lb4/g26/k36/n4/k4/n12/k4/p/6-g006818-k101010-lb98c8e8-n5c5c5c-p780078/sett.png)|
+| [Dama Resort](/setts/s11/b4k12g4w4g26k36ba4k4ba12k4b6-b7a378b-ba2f4f4f-g777733-k101010-w88ace0/)|
+|![Dama Resort example sett](/setts/s11/b4k12g4w4g26k36ba4k4ba12k4b6-b7a378b-ba2f4f4f-g777733-k101010-w88ace0/sett.png)|
+| [Dama Resort (Fashion)](/setts/s11/b4k12g4w4g26k36ba4k4ba12k4b6-b780078-ba5c5c5c-g006818-k101010-w98c8e8/)|
+|![Dama Resort (Fashion) example sett](/setts/s11/b4k12g4w4g26k36ba4k4ba12k4b6-b780078-ba5c5c5c-g006818-k101010-w98c8e8/sett.png)|

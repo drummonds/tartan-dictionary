@@ -6,7 +6,7 @@ BBB
 
 It is a 3 stripes tartan.
 
-![Woven sample](/variants/t/34/n6/t/54-n5c5c5c-t4c3428/tartan.png)
+![Woven sample](/setts/s3/b108ba12b68-b4c3428-ba5c5c5c/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBB
 
 | Tartans |
 |---------------|
-| [Outlander #4](/tartans/t/34/n6/t/54/)|
-|![Outlander #4 example sett](/variants/t/34/n6/t/54-n5c5c5c-t4c3428/sett.png)|
-| [Outlander #5](/tartans/n/4/t30/n/26/)|
-|![Outlander #5 example sett](/variants/n/4/t30/n/26-n5c5c5c-t4c3428/sett.png)|
+| [Outlander #4](/setts/s3/b108ba12b68-b4c3428-ba5c5c5c/)|
+|![Outlander #4 example sett](/setts/s3/b108ba12b68-b4c3428-ba5c5c5c/sett.png)|
+| [Outlander #5](/setts/s3/b52ba60b8-b5c5c5c-ba4c3428/)|
+|![Outlander #5 example sett](/setts/s3/b52ba60b8-b5c5c5c-ba4c3428/sett.png)|

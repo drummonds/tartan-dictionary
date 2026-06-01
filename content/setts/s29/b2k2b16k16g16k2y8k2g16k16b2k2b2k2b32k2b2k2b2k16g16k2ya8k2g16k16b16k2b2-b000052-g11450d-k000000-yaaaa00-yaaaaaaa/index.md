@@ -1,0 +1,27 @@
+---
+title: "Campbell of Argyll"
+date: 2023-03-18
+---
+In pattern [BKBKGKYKGKBKBKBKBKBKGKYKGKBKB](/patterns/bkbkgkykgkbkbkbkbkbkgkykgkbkb/).
+
+
+This was sourced from weddslist.  It is a [29 stripes tartan](/stripes/stripes29/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+
+## Thread count
+DB/2 K2 DB16 K16 DG16 K2 LG8 K2 DG16 K16 DB2 K2 DB2 K2 DB32 K2 DB2 K2 DB2 K16 DG16 K2 N8 K2 DG16 K16 DB16 K2 DB/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000052;"><span style="color:#000052;filter:grayscale(1) invert(1) contrast(100);">#000052</span></code> `#000052` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.20 |
+| DG | <code style="background-color:#11450D;"><span style="color:#11450D;filter:grayscale(1) invert(1) contrast(100);">#11450D</span></code> `#11450D` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.10 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LG | <code style="background-color:#AAAA00;"><span style="color:#AAAA00;filter:grayscale(1) invert(1) contrast(100);">#AAAA00</span></code> `#AAAA00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
+| N | <code style="background-color:#AAAAAA;"><span style="color:#AAAAAA;filter:grayscale(1) invert(1) contrast(100);">#AAAAAA</span></code> `#AAAAAA` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
+
+ID: /setts/s29/b2k2b16k16g16k2y8k2g16k16b2k2b2k2b32k2b2k2b2k16g16k2ya8k2g16k16b16k2b2-b000052-g11450d-k000000-yaaaa00-yaaaaaaa/

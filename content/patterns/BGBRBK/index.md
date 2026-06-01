@@ -6,7 +6,7 @@ BGBRBK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/2/g2/db2/r2/b2/k/2-b2888c4-db202060-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/b24g24b24r24ba24k24-b202060-ba2888c4-g006818-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRBK
 
 | Tartans |
 |---------------|
-| [Antonello (Personal)](/tartans/db/2/g2/db2/r2/b2/k/2/)|
-|![Antonello (Personal) example sett](/variants/db/2/g2/db2/r2/b2/k/2-b2888c4-db202060-g006818-k101010-rc80000/sett.png)|
+| [Antonello (Personal)](/setts/s6/b24g24b24r24ba24k24-b202060-ba2888c4-g006818-k101010-rc80000/)|
+|![Antonello (Personal) example sett](/setts/s6/b24g24b24r24ba24k24-b202060-ba2888c4-g006818-k101010-rc80000/sett.png)|

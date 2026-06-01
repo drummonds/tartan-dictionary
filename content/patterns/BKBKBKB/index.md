@@ -6,7 +6,7 @@ BKBKBKB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dr/8/k8/dr52/k20/dr56/k4/dr/10-dr441800-k101010/tartan.png)
+![Woven sample](/setts/s7/b10k4b56k20b52k8b8-b441800-k101010/tartan.png)
 
 
 
@@ -18,11 +18,11 @@ BKBKBKB
 
 | Tartans |
 |---------------|
-| [Dunbar, John Telfer (Personal)](/tartans/dr/8/k8/dr52/k20/dr56/k4/dr/10/)|
-|![Dunbar, John Telfer (Personal) example sett](/variants/dr/8/k8/dr52/k20/dr56/k4/dr/10-dr441800-k101010/sett.png)|
-| [STLTH](/tartans/ka/8/k4/ka8/k90/n4/k6/n/4/)|
-|![STLTH example sett](/variants/ka/8/k4/ka8/k90/n4/k6/n/4-k1c1714-ka1e2025-n3f4441/sett.png)|
-| [TACC (Corporate)](/tartans/b/6/k8/n6/k80/n24/k14/n/68/)|
-|![TACC (Corporate) example sett](/variants/b/6/k8/n6/k80/n24/k14/n/68-b5c8ca8-k101010-n5c5c5c/sett.png)|
-| [STLTH (Corporate)](/tartans/k/8/ka4/k8/ka90/n4/ka6/n/4/)|
-|![STLTH (Corporate) example sett](/variants/k/8/ka4/k8/ka90/n4/ka6/n/4-k1c1c1c-ka101010-n5c5c5c/sett.png)|
+| [Dunbar, John Telfer (Personal)](/setts/s7/b10k4b56k20b52k8b8-b441800-k101010/)|
+|![Dunbar, John Telfer (Personal) example sett](/setts/s7/b10k4b56k20b52k8b8-b441800-k101010/sett.png)|
+| [STLTH](/setts/s7/b8k4b8k90ba4k6ba4-b1e2025-ba3f4441-k1c1714/)|
+|![STLTH example sett](/setts/s7/b8k4b8k90ba4k6ba4-b1e2025-ba3f4441-k1c1714/sett.png)|
+| [TACC (Corporate)](/setts/s7/b68k14b24k80b6k8ba6-b5c5c5c-ba5c8ca8-k101010/)|
+|![TACC (Corporate) example sett](/setts/s7/b68k14b24k80b6k8ba6-b5c5c5c-ba5c8ca8-k101010/sett.png)|
+| [STLTH (Corporate)](/setts/s7/b8k4b8k90ba4k6ba4-b1c1c1c-ba5c5c5c-k101010/)|
+|![STLTH (Corporate) example sett](/setts/s7/b8k4b8k90ba4k6ba4-b1c1c1c-ba5c5c5c-k101010/sett.png)|

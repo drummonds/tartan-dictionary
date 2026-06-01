@@ -16,5 +16,7 @@ BGWGBGBGR
 
 | Tartans |
 |---------------|
-| [Glenfeshie (Personal)](/tartans/p/4/g4/w4/g20/p32/g88/p6/g6/r/8/)|
-|![Glenfeshie (Personal) example sett](/variants/p/4/g4/w4/g20/p32/g88/p6/g6/r/8-g006818-p6c0070-rc8002c-wfcfcfc/sett.png)|
+| [Glenfeshie (Personal)](/setts/s9/b4g4w4g20b32g88b6g6r8-b6c0070-g006818-rc8002c-wfcfcfc/)|
+|![Glenfeshie (Personal) example sett](/setts/s9/b4g4w4g20b32g88b6g6r8-b6c0070-g006818-rc8002c-wfcfcfc/sett.png)|
+| [Glenfeshie (Personal)](/setts/s9/b4g4w4g20b32g88b6g6r8-b6c0070-g006818-rc8002c-wfcfcfc/)|
+|![Glenfeshie (Personal) example sett](/setts/s9/b4g4w4g20b32g88b6g6r8-b6c0070-g006818-rc8002c-wfcfcfc/sett.png)|

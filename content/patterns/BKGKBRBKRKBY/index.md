@@ -16,5 +16,7 @@ BKGKBRBKRKBY
 
 | Tartans |
 |---------------|
-| [Child, The](/tartans/dy/8/lp20/k2/r8/k2/lp20/dr8/lp20/k2/g8/k2/lp/20/)|
-|![Child, The example sett](/variants/dy/8/lp20/k2/r8/k2/lp20/dr8/lp20/k2/g8/k2/lp/20-dr8c0000-dyc88c00-g003800-k000000-lp944090-rc82800/sett.png)|
+| [Child, The](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/)|
+|![Child, The example sett](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/sett.png)|
+| [Child, The (Fashion)](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/)|
+|![Child, The (Fashion) example sett](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/sett.png)|

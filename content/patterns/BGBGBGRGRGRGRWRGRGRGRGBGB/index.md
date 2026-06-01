@@ -16,7 +16,7 @@ BGBGBGRGRGRGRWRGRGRGRGBGB
 
 | Tartans |
 |---------------|
-| [Unidentified #5](/tartans/b/36/t12/b72/t68/r2/t12/r8/t8/r12/t4/r14/ln6/r14/t4/r12/t8/r8/t12/r2/t68/p20/g16/p16/g20/p/192/)|
-|![Unidentified #5 example sett](/variants/b/36/t12/b72/t68/r2/t12/r8/t8/r12/t4/r14/ln6/r14/t4/r12/t8/r8/t12/r2/t68/p20/g16/p16/g20/p/192-b3c82af-g005020-lne0e0e0-p5a008c-rdc0000-t503c14/sett.png)|
-| [Arran - 1978 (Fashion)](/tartans/p/10/g4/p24/g16/r2/g4/r3/g3/r4/g2/r6/ln3/r6/g2/r4/g3/r3/g4/r2/g16/pa4/ga4/pa4/ga4/pa/86/)|
-|![Arran - 1978 (Fashion) example sett](/variants/p/10/g4/p24/g16/r2/g4/r3/g3/r4/g2/r6/ln3/r6/g2/r4/g3/r3/g4/r2/g16/pa4/ga4/pa4/ga4/pa/86-g006818-ga006818-lne0e0e0-p780078-pa780078-rc80000/sett.png)|
+| [Unidentified #5](/setts/s25/b36g12b72g68r2g12r8g8r12g4r14w6r14g4r12g8r8g12r2g68ba20ga16ba16ga20ba192-b3c82af-ba5a008c-g503c14-ga005020-rdc0000-we0e0e0/)|
+|![Unidentified #5 example sett](/setts/s25/b36g12b72g68r2g12r8g8r12g4r14w6r14g4r12g8r8g12r2g68ba20ga16ba16ga20ba192-b3c82af-ba5a008c-g503c14-ga005020-rdc0000-we0e0e0/sett.png)|
+| [Arran - 1978 (Fashion)](/setts/s25/b10g4b24g16r2g4r3g3r4g2r6w3r6g2r4g3r3g4r2g16b4g4b4g4b86-b780078-g006818-rc80000-we0e0e0/)|
+|![Arran - 1978 (Fashion) example sett](/setts/s25/b10g4b24g16r2g4r3g3r4g2r6w3r6g2r4g3r3g4r2g16b4g4b4g4b86-b780078-g006818-rc80000-we0e0e0/sett.png)|

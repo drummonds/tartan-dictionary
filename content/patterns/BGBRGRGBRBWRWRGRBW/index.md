@@ -16,5 +16,5 @@ BGBRGRGBRBWRWRGRBW
 
 | Tartans |
 |---------------|
-| [Ensemble Pour l'Avenir](/tartans/b/6/n2/b4/r28/n4/r2/n4/b20/r20/b20/ln4/r4/ln4/r28/n12/r20/b20/ln/4/)|
-|![Ensemble Pour l'Avenir example sett](/variants/b/6/n2/b4/r28/n4/r2/n4/b20/r20/b20/ln4/r4/ln4/r28/n12/r20/b20/ln/4-b304080-lne0e0e0-n808080-rc00000/sett.png)|
+| [Ensemble Pour l'Avenir](/setts/s18/b6g2b4r28g4r2g4b20r20b20w4r4w4r28g12r20b20w4-b304080-g808080-rc00000-we0e0e0/)|
+|![Ensemble Pour l'Avenir example sett](/setts/s18/b6g2b4r28g4r2g4b20r20b20w4r4w4r28g12r20b20w4-b304080-g808080-rc00000-we0e0e0/sett.png)|

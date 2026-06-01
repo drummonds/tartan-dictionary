@@ -16,7 +16,7 @@ BGBGBRBGBGW
 
 | Tartans |
 |---------------|
-| [American Society of Travel Agents, The (2001)](/tartans/db/4/n32/db4/n4/db32/lr6/db32/dg4/db3/dg32/ln/4/)|
-|![American Society of Travel Agents, The (2001) example sett](/variants/db/4/n32/db4/n4/db32/lr6/db32/dg4/db3/dg32/ln/4-db141e46-dg003c14-lne0e0e0-lrfa6496-n808080/sett.png)|
-| [American Society of Travel Agents, The](/tartans/b/2/n18/b2/n2/b20/r3/b18/g2/b2/g18/ln/2/)|
-|![American Society of Travel Agents, The example sett](/variants/b/2/n18/b2/n2/b20/r3/b18/g2/b2/g18/ln/2-b304080-g008000-lne0e0e0-n808080-rc00000/sett.png)|
+| [American Society of Travel Agents, The (2001)](/setts/s11/b4g32b4g4b32r6b32ga4b3ga32w4-b141e46-g808080-ga003c14-rfa6496-we0e0e0/)|
+|![American Society of Travel Agents, The (2001) example sett](/setts/s11/b4g32b4g4b32r6b32ga4b3ga32w4-b141e46-g808080-ga003c14-rfa6496-we0e0e0/sett.png)|
+| [American Society of Travel Agents, The](/setts/s11/b2g18b2g2b20r3b18ga2b2ga18w2-b304080-g808080-ga008000-rc00000-we0e0e0/)|
+|![American Society of Travel Agents, The example sett](/setts/s11/b2g18b2g2b20r3b18ga2b2ga18w2-b304080-g808080-ga008000-rc00000-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ BBGRY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/n/18/k4/dn24/r62/y/18-dn203b27-k351e14-n486373-ra32d18-ye0a126/tartan.png)
+![Woven sample](/setts/s5/b18ba4g24r62y18-b486373-ba351e14-g203b27-ra32d18-ye0a126/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGRY
 
 | Tartans |
 |---------------|
-| [Buncle (Duns)](/tartans/n/18/k4/dn24/r62/y/18/)|
-|![Buncle (Duns) example sett](/variants/n/18/k4/dn24/r62/y/18-dn203b27-k351e14-n486373-ra32d18-ye0a126/sett.png)|
+| [Buncle (Duns)](/setts/s5/b18ba4g24r62y18-b486373-ba351e14-g203b27-ra32d18-ye0a126/)|
+|![Buncle (Duns) example sett](/setts/s5/b18ba4g24r62y18-b486373-ba351e14-g203b27-ra32d18-ye0a126/sett.png)|

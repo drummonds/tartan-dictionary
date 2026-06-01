@@ -6,7 +6,7 @@ BBGWRWRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/72/ba10/g10/ln4/r8/ln4/dr18/ln/44-b0596fa-ba2c4084-dr781c38-g3c7846-lne0e0e0-rc82828/tartan.png)
+![Woven sample](/setts/s8/b72ba10g10w4r8w4ra18w44-b0596fa-ba2c4084-g3c7846-rc82828-ra781c38-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBGWRWRW
 
 | Tartans |
 |---------------|
-| [Jubilee, South Canterbury Centre Piping & Dancing Association](/tartans/b/72/ba10/g10/ln4/r8/ln4/dr18/ln/44/)|
-|![Jubilee, South Canterbury Centre Piping & Dancing Association example sett](/variants/b/72/ba10/g10/ln4/r8/ln4/dr18/ln/44-b0596fa-ba2c4084-dr781c38-g3c7846-lne0e0e0-rc82828/sett.png)|
-| [South Canterbury Jubillee (Corporate](/tartans/b/72/db10/g10/ln4/lr8/ln4/dr18/ln/44/)|
-|![South Canterbury Jubillee (Corporate example sett](/variants/b/72/db10/g10/ln4/lr8/ln4/dr18/ln/44-b2888c4-db2c2c80-dr901c38-g289c18-lne0e0e0-lre87878/sett.png)|
+| [Jubilee, South Canterbury Centre Piping & Dancing Association](/setts/s8/b72ba10g10w4r8w4ra18w44-b0596fa-ba2c4084-g3c7846-rc82828-ra781c38-we0e0e0/)|
+|![Jubilee, South Canterbury Centre Piping & Dancing Association example sett](/setts/s8/b72ba10g10w4r8w4ra18w44-b0596fa-ba2c4084-g3c7846-rc82828-ra781c38-we0e0e0/sett.png)|
+| [South Canterbury Jubillee (Corporate](/setts/s8/b72ba10g10w4r8w4ra18w44-b2888c4-ba2c2c80-g289c18-re87878-ra901c38-we0e0e0/)|
+|![South Canterbury Jubillee (Corporate example sett](/setts/s8/b72ba10g10w4r8w4ra18w44-b2888c4-ba2c2c80-g289c18-re87878-ra901c38-we0e0e0/sett.png)|
+| [South Canterbury Centre P. & D. Assoc., Jubilee](/setts/s8/b72ba10g10w4r8w4ra18w44-b8080d0-ba304080-g407040-rd03030-ra802040-we0e0e0/)|
+|![South Canterbury Centre P. & D. Assoc., Jubilee example sett](/setts/s8/b72ba10g10w4r8w4ra18w44-b8080d0-ba304080-g407040-rd03030-ra802040-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ BBGBBGBB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/11/dp13/t11/dp7/b11/t3/b90/dp/11-b3c82af-dp440044-t604000/tartan.png)
+![Woven sample](/setts/s8/b11ba13g11ba7b11g3b90ba11-b3c82af-ba440044-g604000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGBBGBB
 
 | Tartans |
 |---------------|
-| [Royal Conservatoire of Scotland](/tartans/b/11/dp13/t11/dp7/b11/t3/b90/dp/11/)|
-|![Royal Conservatoire of Scotland example sett](/variants/b/11/dp13/t11/dp7/b11/t3/b90/dp/11-b3c82af-dp440044-t604000/sett.png)|
+| [Royal Conservatoire of Scotland](/setts/s8/b11ba13g11ba7b11g3b90ba11-b3c82af-ba440044-g604000/)|
+|![Royal Conservatoire of Scotland example sett](/setts/s8/b11ba13g11ba7b11g3b90ba11-b3c82af-ba440044-g604000/sett.png)|

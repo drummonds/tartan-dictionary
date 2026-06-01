@@ -6,7 +6,7 @@ BKBGBGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/26/k6/b40/t140/b40/t60/ln/6-b2c4084-k101010-lne0e0e0-t503c14/tartan.png)
+![Woven sample](/setts/s7/b26k6b40g140b40g60w6-b2c4084-g503c14-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBGBGW
 
 | Tartans |
 |---------------|
-| [Unidentified #44](/tartans/b/26/k6/b40/t140/b40/t60/ln/6/)|
-|![Unidentified #44 example sett](/variants/b/26/k6/b40/t140/b40/t60/ln/6-b2c4084-k101010-lne0e0e0-t503c14/sett.png)|
-| [MTV](/tartans/dr/5/k3/dr9/dg56/b4/dg2/w/3/)|
-|![MTV example sett](/variants/dr/5/k3/dr9/dg56/b4/dg2/w/3-b5c8ca8-dg003820-dr680028-k101010-wfcfcfc/sett.png)|
+| [Unidentified #44](/setts/s7/b26k6b40g140b40g60w6-b2c4084-g503c14-k101010-we0e0e0/)|
+|![Unidentified #44 example sett](/setts/s7/b26k6b40g140b40g60w6-b2c4084-g503c14-k101010-we0e0e0/sett.png)|
+| [MTV](/setts/s7/b5k3b9g56ba4g2w3-b680028-ba5c8ca8-g003820-k101010-wfcfcfc/)|
+|![MTV example sett](/setts/s7/b5k3b9g56ba4g2w3-b680028-ba5c8ca8-g003820-k101010-wfcfcfc/sett.png)|

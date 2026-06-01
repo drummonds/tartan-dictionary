@@ -16,5 +16,7 @@ BKBKBKGYKYGKBKW
 
 | Tartans |
 |---------------|
-| [Dyce #2](/tartans/b/32/k4/b4/k4/b4/k24/g24/y4/k4/y4/g24/k32/b32/k2/ln/6/)|
-|![Dyce #2 example sett](/variants/b/32/k4/b4/k4/b4/k24/g24/y4/k4/y4/g24/k32/b32/k2/ln/6-b2c4084-g005020-k101010-lne0e0e0-ye8c000/sett.png)|
+| [Dyce #2](/setts/s15/b32k4b4k4b4k24g24y4k4y4g24k32b32k2w6-b2c4084-g005020-k101010-we0e0e0-ye8c000/)|
+|![Dyce #2 example sett](/setts/s15/b32k4b4k4b4k24g24y4k4y4g24k32b32k2w6-b2c4084-g005020-k101010-we0e0e0-ye8c000/sett.png)|
+| [Dyce](/setts/s15/b32k4b4k4b4k24g24y4k4y4g24k32b32k2w6-b304080-g008000-k000000-we0e0e0-yf0c000/)|
+|![Dyce example sett](/setts/s15/b32k4b4k4b4k24g24y4k4y4g24k32b32k2w6-b304080-g008000-k000000-we0e0e0-yf0c000/sett.png)|

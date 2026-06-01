@@ -16,5 +16,5 @@ BBBRBBBBGRGYGRGBBWBBGWGYGWRBYBYBYBYBYBYBYBYBBRGBWBGB
 
 | Tartans |
 |---------------|
-| [Lawson, Robin (Personal)](/tartans/b/2/k2/b14/r4/b14/k2/b2/k2/g20/r6/g6/dy4/g6/r6/g20/k8/b8/ly4/b8/k8/g40/ly4/g6/dy6/g6/ly4/r40/k10/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/b6/k8/r2/g20/k8/ly2/k8/g20/k/2/)|
-|![Lawson, Robin (Personal) example sett](/variants/b/2/k2/b14/r4/b14/k2/b2/k2/g20/r6/g6/dy4/g6/r6/g20/k8/b8/ly4/b8/k8/g40/ly4/g6/dy6/g6/ly4/r40/k10/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/k2/dy2/b6/k8/r2/g20/k8/ly2/k8/g20/k/2-b5f749c-dyc88c00-g005020-k1c1c1c-lyf8f4d0-rc80000/sett.png)|
+| [Lawson, Robin (Personal)](/setts/s52/b2g20b8w2b8g20r2b8ba6y2b2y2b2y2b2y2b2y2b2y2b2y2b2y2b10r40w4g6y6g6w4g40b8ba8w4ba8b8g20r6g6y4g6r6g20b2ba2b2ba14r4ba14b2ba2-b1c1c1c-ba5f749c-g005020-rc80000-wf8f4d0-yc88c00/)|
+|![Lawson, Robin (Personal) example sett](/setts/s52/b2g20b8w2b8g20r2b8ba6y2b2y2b2y2b2y2b2y2b2y2b2y2b2y2b10r40w4g6y6g6w4g40b8ba8w4ba8b8g20r6g6y4g6r6g20b2ba2b2ba14r4ba14b2ba2-b1c1c1c-ba5f749c-g005020-rc80000-wf8f4d0-yc88c00/sett.png)|

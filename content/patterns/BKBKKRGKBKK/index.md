@@ -16,7 +16,9 @@ BKBKKRGKBKK
 
 | Tartans |
 |---------------|
-| [Scottish Tartans Authority](/tartans/b/8/k6/b4/dba12/k30/r4/g32/dba8/b4/dba4/k/32/)|
-|![Scottish Tartans Authority example sett](/variants/b/8/k6/b4/dba12/k30/r4/g32/dba8/b4/dba4/k/32-b5c8ca8-db202060-dba00002c-g285800-k101010-rc80000/sett.png)|
-| [Wilsons' No.060 (Corporate)](/tartans/b/8/k6/b4/db12/k30/r4/g32/db8/b4/db4/k/32/)|
-|![Wilsons' No.060 (Corporate) example sett](/variants/b/8/k6/b4/db12/k30/r4/g32/db8/b4/db4/k/32-b5c8ca8-db00002c-g285800-k101010-rc80000/sett.png)|
+| [Scottish Tartans Authority](/setts/s11/b8k6b4ka12k30r4g32ka8b4ka4k32-b5c8ca8-g285800-k101010-ka00002c-rc80000/)|
+|![Scottish Tartans Authority example sett](/setts/s11/b8k6b4ka12k30r4g32ka8b4ka4k32-b5c8ca8-g285800-k101010-ka00002c-rc80000/sett.png)|
+| [Wilsons' No.060 (Corporate)](/setts/s11/b8k6b4ka12k30r4g32ka8b4ka4k32-b5c8ca8-g285800-k101010-ka00002c-rc80000/)|
+|![Wilsons' No.060 (Corporate) example sett](/setts/s11/b8k6b4ka12k30r4g32ka8b4ka4k32-b5c8ca8-g285800-k101010-ka00002c-rc80000/sett.png)|
+| [Scottish Tartans Authority (Corp.)](/setts/s11/b8k6b4ka12k30r4g32ka8b4ka4k32-b5c8ca8-g285800-k101010-ka00002c-rc80000/)|
+|![Scottish Tartans Authority (Corp.) example sett](/setts/s11/b8k6b4ka12k30r4g32ka8b4ka4k32-b5c8ca8-g285800-k101010-ka00002c-rc80000/sett.png)|

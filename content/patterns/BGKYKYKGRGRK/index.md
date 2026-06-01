@@ -16,5 +16,5 @@ BGKYKYKGRGRK
 
 | Tartans |
 |---------------|
-| [Cats (Fashion)](/tartans/db/16/g4/k4/dy4/k4/y4/k4/g36/r4/g4/r58/k/6/)|
-|![Cats (Fashion) example sett](/variants/db/16/g4/k4/dy4/k4/y4/k4/g36/r4/g4/r58/k/6-db2c2c80-dybc8c00-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Cats (Fashion)](/setts/s12/b16g4k4y4k4ya4k4g36r4g4r58k6-b2c2c80-g006818-k101010-rc80000-ybc8c00-yae8c000/)|
+|![Cats (Fashion) example sett](/setts/s12/b16g4k4y4k4ya4k4g36r4g4r58k6-b2c2c80-g006818-k101010-rc80000-ybc8c00-yae8c000/sett.png)|

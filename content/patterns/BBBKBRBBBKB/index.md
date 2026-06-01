@@ -16,5 +16,5 @@ BBBKBRBBBKB
 
 | Tartans |
 |---------------|
-| [Paul Henry (Personal)](/tartans/db/8/dba6/n14/k18/n26/r4/db26/dba18/n14/k6/n/8/)|
-|![Paul Henry (Personal) example sett](/variants/db/8/dba6/n14/k18/n26/r4/db26/dba18/n14/k6/n/8-db2c2c80-dba202060-k101010-n5c5c5c-rc80000/sett.png)|
+| [Paul Henry (Personal)](/setts/s11/b8ba6bb14k18bb26r4b26ba18bb14k6bb8-b2c2c80-ba202060-bb5c5c5c-k101010-rc80000/)|
+|![Paul Henry (Personal) example sett](/setts/s11/b8ba6bb14k18bb26r4b26ba18bb14k6bb8-b2c2c80-ba202060-bb5c5c5c-k101010-rc80000/sett.png)|

@@ -6,7 +6,7 @@ BKBWBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/70/k20/b8/w4/b6/r/4-b1474b4-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s6/b70k20b8w4b6r4-b1474b4-k101010-rc80000-wf8f8f8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBWBR
 
 | Tartans |
 |---------------|
-| [Laidlaw's Highland Drovers](/tartans/b/70/k20/b8/w4/b6/r/4/)|
-|![Laidlaw's Highland Drovers example sett](/variants/b/70/k20/b8/w4/b6/r/4-b1474b4-k101010-rc80000-wf8f8f8/sett.png)|
+| [Laidlaw's Highland Drovers](/setts/s6/b70k20b8w4b6r4-b1474b4-k101010-rc80000-wf8f8f8/)|
+|![Laidlaw's Highland Drovers example sett](/setts/s6/b70k20b8w4b6r4-b1474b4-k101010-rc80000-wf8f8f8/sett.png)|

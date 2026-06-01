@@ -16,5 +16,5 @@ BKBKBKBKWKB
 
 | Tartans |
 |---------------|
-| [Dawson-Nunes (Personal)](/tartans/db/64/k6/db8/k6/db8/k22/dn8/k4/ln6/k4/dn/22/)|
-|![Dawson-Nunes (Personal) example sett](/variants/db/64/k6/db8/k6/db8/k22/dn8/k4/ln6/k4/dn/22-db2c2c80-dn222c3f-k101010-lne0e0e0/sett.png)|
+| [Dawson-Nunes (Personal)](/setts/s11/b22k4w6k4b8k22ba8k6ba8k6ba64-b222c3f-ba2c2c80-k101010-we0e0e0/)|
+|![Dawson-Nunes (Personal) example sett](/setts/s11/b22k4w6k4b8k22ba8k6ba8k6ba64-b222c3f-ba2c2c80-k101010-we0e0e0/sett.png)|

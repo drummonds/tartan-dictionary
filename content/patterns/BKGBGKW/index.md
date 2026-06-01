@@ -6,7 +6,7 @@ BKGBGKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/48/k16/g16/dp4/g16/k2/w/4-db1c0070-dp440044-g006818-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b48k16g16ba4g16k2w4-b1c0070-ba440044-g006818-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKGBGKW
 
 | Tartans |
 |---------------|
-| [Alexander](/tartans/db/48/k16/g16/dp4/g16/k2/w/4/)|
-|![Alexander example sett](/variants/db/48/k16/g16/dp4/g16/k2/w/4-db1c0070-dp440044-g006818-k101010-wfcfcfc/sett.png)|
-| [Alexander - 2000 (Name)](/tartans/db/24/k8/g8/dp2/g8/k2/w/2/)|
-|![Alexander - 2000 (Name) example sett](/variants/db/24/k8/g8/dp2/g8/k2/w/2-db1c0070-dp440044-g006818-k101010-wfcfcfc/sett.png)|
+| [Alexander](/setts/s7/b48k16g16ba4g16k2w4-b1c0070-ba440044-g006818-k101010-wfcfcfc/)|
+|![Alexander example sett](/setts/s7/b48k16g16ba4g16k2w4-b1c0070-ba440044-g006818-k101010-wfcfcfc/sett.png)|
+| [Alexander - 2000 (Name)](/setts/s7/b48k16g16ba4g16k4w4-b1c0070-ba440044-g006818-k101010-wfcfcfc/)|
+|![Alexander - 2000 (Name) example sett](/setts/s7/b48k16g16ba4g16k4w4-b1c0070-ba440044-g006818-k101010-wfcfcfc/sett.png)|

@@ -16,7 +16,7 @@ BGKBKBKBK
 
 | Tartans |
 |---------------|
-| [Aitchison Family (Kinghorn) (Personal)](/tartans/k/4/b6/k4/b36/k22/b4/k22/g50/p/4/)|
-|![Aitchison Family (Kinghorn) (Personal) example sett](/variants/k/4/b6/k4/b36/k22/b4/k22/g50/p/4-b1a4576-g116f5f-k101010-p6a1ab5/sett.png)|
-| [Aitchison (Personal)](/tartans/k/4/db6/k4/db36/k22/db4/k22/g50/p/4/)|
-|![Aitchison (Personal) example sett](/variants/k/4/db6/k4/db36/k22/db4/k22/g50/p/4-db003c64-g288028-k101010-p780078/sett.png)|
+| [Aitchison Family (Kinghorn) (Personal)](/setts/s9/b4g50k22ba4k22ba36k4ba6k4-b6a1ab5-ba1a4576-g116f5f-k101010/)|
+|![Aitchison Family (Kinghorn) (Personal) example sett](/setts/s9/b4g50k22ba4k22ba36k4ba6k4-b6a1ab5-ba1a4576-g116f5f-k101010/sett.png)|
+| [Aitchison (Personal)](/setts/s9/b4g50k22ba4k22ba36k4ba6k4-b780078-ba003c64-g288028-k101010/)|
+|![Aitchison (Personal) example sett](/setts/s9/b4g50k22ba4k22ba36k4ba6k4-b780078-ba003c64-g288028-k101010/sett.png)|

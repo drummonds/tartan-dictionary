@@ -6,7 +6,7 @@ BBKGKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/6/db36/k40/g40/k2/y/6-b5c8ca8-db2c2c80-g006818-k101010-yfccc00/tartan.png)
+![Woven sample](/setts/s6/b6ba36k40g40k2y6-b5c8ca8-ba2c2c80-g006818-k101010-yfccc00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBKGKY
 
 | Tartans |
 |---------------|
-| [Smith, Sir William (?)](/tartans/b/6/db36/k40/g40/k2/y/6/)|
-|![Smith, Sir William (?) example sett](/variants/b/6/db36/k40/g40/k2/y/6-b5c8ca8-db2c2c80-g006818-k101010-yfccc00/sett.png)|
-| [Smith](/tartans/ba/6/b36/k40/g40/k2/y/6/)|
-|![Smith example sett](/variants/ba/6/b36/k40/g40/k2/y/6-b304080-ba5480b0-g008000-k000000-yf0c000/sett.png)|
+| [Smith, Sir William (?)](/setts/s6/b6ba36k40g40k2y6-b5c8ca8-ba2c2c80-g006818-k101010-yfccc00/)|
+|![Smith, Sir William (?) example sett](/setts/s6/b6ba36k40g40k2y6-b5c8ca8-ba2c2c80-g006818-k101010-yfccc00/sett.png)|
+| [Smith](/setts/s6/b6ba36k40g40k2y6-b5480b0-ba304080-g008000-k000000-yf0c000/)|
+|![Smith example sett](/setts/s6/b6ba36k40g40k2y6-b5480b0-ba304080-g008000-k000000-yf0c000/sett.png)|

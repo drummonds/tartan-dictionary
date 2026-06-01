@@ -6,7 +6,7 @@ BBBBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/dr/2/na16/n8/na2/n/22-dra40b00-n393939-na5b5b5b/tartan.png)
+![Woven sample](/setts/s5/b88ba8b32ba64r8-b393939-ba5b5b5b-ra40b00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBBR
 
 | Tartans |
 |---------------|
-| [Cairns, David (Personal)](/tartans/dr/2/na16/n8/na2/n/22/)|
-|![Cairns, David (Personal) example sett](/variants/dr/2/na16/n8/na2/n/22-dra40b00-n393939-na5b5b5b/sett.png)|
-| [Feniston (Personal)](/tartans/dr/60/db20/dr6/db60/lr/6/)|
-|![Feniston (Personal) example sett](/variants/dr/60/db20/dr6/db60/lr/6-db202060-dr680028-lrec34c4/sett.png)|
+| [Cairns, David (Personal)](/setts/s5/b88ba8b32ba64r8-b393939-ba5b5b5b-ra40b00/)|
+|![Cairns, David (Personal) example sett](/setts/s5/b88ba8b32ba64r8-b393939-ba5b5b5b-ra40b00/sett.png)|
+| [Feniston (Personal)](/setts/s5/b60ba20b6ba60r6-b680028-ba202060-rec34c4/)|
+|![Feniston (Personal) example sett](/setts/s5/b60ba20b6ba60r6-b680028-ba202060-rec34c4/sett.png)|

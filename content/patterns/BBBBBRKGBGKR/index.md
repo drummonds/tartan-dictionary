@@ -16,5 +16,5 @@ BBBBBRKGBGKR
 
 | Tartans |
 |---------------|
-| [U.S. 2001 Air Force](/tartans/b/66/db6/b14/db6/b66/r4/k44/g6/dba98/g6/k44/r/4/)|
-|![U.S. 2001 Air Force example sett](/variants/b/66/db6/b14/db6/b66/r4/k44/g6/dba98/g6/k44/r/4-b1474b4-db1c0070-dba2c2c80-g006818-k101010-rc80000/sett.png)|
+| [U.S. 2001 Air Force](/setts/s12/b66ba6b14ba6b66r4k44g6bb98g6k44r4-b1474b4-ba1c0070-bb2c2c80-g006818-k101010-rc80000/)|
+|![U.S. 2001 Air Force example sett](/setts/s12/b66ba6b14ba6b66r4k44g6bb98g6k44r4-b1474b4-ba1c0070-bb2c2c80-g006818-k101010-rc80000/sett.png)|

@@ -16,5 +16,5 @@ BGKBWBKGY
 
 | Tartans |
 |---------------|
-| [St Brigid's Parish Triple Celebratio](/tartans/ba/4/t24/k2/b10/w6/b10/k2/g60/y/4/)|
-|![St Brigid's Parish Triple Celebratio example sett](/variants/ba/4/t24/k2/b10/w6/b10/k2/g60/y/4-b1474b4-ba38409c-g006818-k101010-t604000-wfcfcfc-yfccc00/sett.png)|
+| [St Brigid's Parish Triple Celebratio](/setts/s9/b4g24k2ba10w6ba10k2ga60y4-b38409c-ba1474b4-g604000-ga006818-k101010-wfcfcfc-yfccc00/)|
+|![St Brigid's Parish Triple Celebratio example sett](/setts/s9/b4g24k2ba10w6ba10k2ga60y4-b38409c-ba1474b4-g604000-ga006818-k101010-wfcfcfc-yfccc00/sett.png)|

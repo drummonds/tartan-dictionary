@@ -16,5 +16,5 @@ BBKGBBBBKBKBG
 
 | Tartans |
 |---------------|
-| [Scotland 1782 (Fashion)](/tartans/b/6/db60/k8/g6/p4/pa4/p4/pa20/k4/pa4/k8/pa4/g/6/)|
-|![Scotland 1782 (Fashion) example sett](/variants/b/6/db60/k8/g6/p4/pa4/p4/pa20/k4/pa4/k8/pa4/g/6-b788cb4-db2c2c80-g408060-k000000-p780078-pa640054/sett.png)|
+| [Scotland 1782 (Fashion)](/setts/s13/b6ba60k8g6bb4bc4bb4bc20k4bc4k8bc4g6-b788cb4-ba2c2c80-bb780078-bc640054-g408060-k000000/)|
+|![Scotland 1782 (Fashion) example sett](/setts/s13/b6ba60k8g6bb4bc4bb4bc20k4bc4k8bc4g6-b788cb4-ba2c2c80-bb780078-bc640054-g408060-k000000/sett.png)|

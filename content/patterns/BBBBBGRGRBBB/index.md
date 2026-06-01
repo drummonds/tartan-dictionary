@@ -16,5 +16,7 @@ BBBBBGRGRBBB
 
 | Tartans |
 |---------------|
-| [Doane](/tartans/k/2/db42/n8/db12/n22/dg34/dr6/dg8/dr16/n6/k2/p/6/)|
-|![Doane example sett](/variants/k/2/db42/n8/db12/n22/dg34/dr6/dg8/dr16/n6/k2/p/6-db202460-dg003820-dr780000-k1c1c1c-n443048-p843480/sett.png)|
+| [Doane](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/)|
+|![Doane example sett](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/sett.png)|
+| [Doane (Name)](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/)|
+|![Doane (Name) example sett](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/sett.png)|

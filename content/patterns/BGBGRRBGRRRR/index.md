@@ -16,5 +16,5 @@ BGBGRRBGRRRR
 
 | Tartans |
 |---------------|
-| [Strathgaela (Corporate)](/tartans/p/6/g6/db6/g22/n16/r16/db8/g6/r6/ra6/r30/ra/6/)|
-|![Strathgaela (Corporate) example sett](/variants/p/6/g6/db6/g22/n16/r16/db8/g6/r6/ra6/r30/ra/6-db2c2c80-g285800-n888888-p780078-ra00048-rac8002c/sett.png)|
+| [Strathgaela (Corporate)](/setts/s12/b6g6ba6g22r16ra16ba8g6ra6rb6ra30rb6-b780078-ba2c2c80-g285800-r888888-raa00048-rbc8002c/)|
+|![Strathgaela (Corporate) example sett](/setts/s12/b6g6ba6g22r16ra16ba8g6ra6rb6ra30rb6-b780078-ba2c2c80-g285800-r888888-raa00048-rbc8002c/sett.png)|

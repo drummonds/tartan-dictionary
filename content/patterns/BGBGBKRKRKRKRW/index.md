@@ -16,5 +16,5 @@ BGBGBKRKRKRKRW
 
 | Tartans |
 |---------------|
-| [Arran (Strathmore)](/tartans/ln/6/r10/k4/r8/k6/r6/k10/r4/k28/p8/g8/p8/g8/p/120/)|
-|![Arran (Strathmore) example sett](/variants/ln/6/r10/k4/r8/k6/r6/k10/r4/k28/p8/g8/p8/g8/p/120-g006818-k101010-lne0e0e0-p780078-rc80000/sett.png)|
+| [Arran (Strathmore)](/setts/s14/b120g8b8g8b8k28r4k10r6k6r8k4r10w6-b780078-g006818-k101010-rc80000-we0e0e0/)|
+|![Arran (Strathmore) example sett](/setts/s14/b120g8b8g8b8k28r4k10r6k6r8k4r10w6-b780078-g006818-k101010-rc80000-we0e0e0/sett.png)|

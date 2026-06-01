@@ -6,7 +6,7 @@ BGBRWBYB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/4/y4/b24/w16/n4/db22/g4/db/4-b5c8ca8-db003c64-g006818-n888888-wfcfcfc-yfccc00/tartan.png)
+![Woven sample](/setts/s8/b4g4b22r4w16ba24y4ba4-b003c64-ba5c8ca8-g006818-r888888-wfcfcfc-yfccc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRWBYB
 
 | Tartans |
 |---------------|
-| [Elora (District)](/tartans/b/4/y4/b24/w16/n4/db22/g4/db/4/)|
-|![Elora (District) example sett](/variants/b/4/y4/b24/w16/n4/db22/g4/db/4-b5c8ca8-db003c64-g006818-n888888-wfcfcfc-yfccc00/sett.png)|
+| [Elora (District)](/setts/s8/b4g4b22r4w16ba24y4ba4-b003c64-ba5c8ca8-g006818-r888888-wfcfcfc-yfccc00/)|
+|![Elora (District) example sett](/setts/s8/b4g4b22r4w16ba24y4ba4-b003c64-ba5c8ca8-g006818-r888888-wfcfcfc-yfccc00/sett.png)|

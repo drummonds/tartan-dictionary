@@ -6,7 +6,7 @@ BBKB
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/n/50/k10/b10/p/6-b50729f-k000000-n4f4f4f-p7a378b/tartan.png)
+![Woven sample](/setts/s4/b50k10ba10bb6-b4f4f4f-ba50729f-bb7a378b-k000000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBKB
 
 | Tartans |
 |---------------|
-| [Lord Willy's (New York)](/tartans/n/50/k10/b10/p/6/)|
-|![Lord Willy's (New York) example sett](/variants/n/50/k10/b10/p/6-b50729f-k000000-n4f4f4f-p7a378b/sett.png)|
-| [Lord Willy's (Corporate)](/tartans/n/50/k10/db10/p/5/)|
-|![Lord Willy's (Corporate) example sett](/variants/n/50/k10/db10/p/5-db2c2c80-k101010-n5c5c5c-p780078/sett.png)|
+| [Lord Willy's (New York)](/setts/s4/b50k10ba10bb6-b4f4f4f-ba50729f-bb7a378b-k000000/)|
+|![Lord Willy's (New York) example sett](/setts/s4/b50k10ba10bb6-b4f4f4f-ba50729f-bb7a378b-k000000/sett.png)|
+| [Lord Willy's (Corporate)](/setts/s4/b50k10ba10bb5-b5c5c5c-ba2c2c80-bb780078-k101010/)|
+|![Lord Willy's (Corporate) example sett](/setts/s4/b50k10ba10bb5-b5c5c5c-ba2c2c80-bb780078-k101010/sett.png)|

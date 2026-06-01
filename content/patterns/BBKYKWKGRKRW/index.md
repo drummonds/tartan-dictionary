@@ -16,5 +16,7 @@ BBKYKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Black #3](/tartans/b/40/ba12/k16/y4/k8/ln8/k8/g26/r14/k8/r6/ln/4/)|
-|![Stuart/Stewart Black #3 example sett](/variants/b/40/ba12/k16/y4/k8/ln8/k8/g26/r14/k8/r6/ln/4-b2c4084-ba3c82af-g005020-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
+| [Stuart/Stewart Black #3](/setts/s12/b40ba12k16y4k8w8k8g26r14k8r6w4-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Stuart/Stewart Black #3 example sett](/setts/s12/b40ba12k16y4k8w8k8g26r14k8r6w4-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Stewart Black](/setts/s12/b40ba12k16y4k8w8k8g26r14k8r6w4-b304080-ba5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Stewart Black example sett](/setts/s12/b40ba12k16y4k8w8k8g26r14k8r6w4-b304080-ba5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

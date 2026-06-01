@@ -16,9 +16,9 @@ BKGKBKBKGW
 
 | Tartans |
 |---------------|
-| [Pitceathly Chamberlain (Personal)](/tartans/b/4/k6/g10/k18/b42/k4/b10/k4/g40/w/2/)|
-|![Pitceathly Chamberlain (Personal) example sett](/variants/b/4/k6/g10/k18/b42/k4/b10/k4/g40/w/2-b0000cd-g008b00-k101010-wffffff/sett.png)|
-| [Pitceathley Chamberlain (Personal)](/tartans/db/4/k6/g10/k18/db42/k4/db10/k4/g40/ln/2/)|
-|![Pitceathley Chamberlain (Personal) example sett](/variants/db/4/k6/g10/k18/db42/k4/db10/k4/g40/ln/2-db2c2c80-g006818-k101010-lne0e0e0/sett.png)|
-| [Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/4/k6/dg10/k14/db40/k4/db10/k4/dg40/n/2/)|
-|![Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/4/k6/dg10/k14/db40/k4/db10/k4/dg40/n/2-db2c2c80-dg003014-dr4c0c28-k101010-nc8c8c8/sett.png)|
+| [Pitceathly Chamberlain (Personal)](/setts/s10/b4k6g10k18b42k4b10k4g40w2-b0000cd-g008b00-k101010-wffffff/)|
+|![Pitceathly Chamberlain (Personal) example sett](/setts/s10/b4k6g10k18b42k4b10k4g40w2-b0000cd-g008b00-k101010-wffffff/sett.png)|
+| [Pitceathley Chamberlain (Personal)](/setts/s10/b4k6g10k18b42k4b10k4g40w2-b2c2c80-g006818-k101010-we0e0e0/)|
+|![Pitceathley Chamberlain (Personal) example sett](/setts/s10/b4k6g10k18b42k4b10k4g40w2-b2c2c80-g006818-k101010-we0e0e0/sett.png)|
+| [Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b4k6g10k14b40k4b10k4g40w2-b2c2c80-g003014-k101010-wc8c8c8/)|
+|![Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b4k6g10k14b40k4b10k4g40w2-b2c2c80-g003014-k101010-wc8c8c8/sett.png)|

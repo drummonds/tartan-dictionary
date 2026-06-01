@@ -16,5 +16,5 @@ BGBGBGKKKG
 
 | Tartans |
 |---------------|
-| [Hueg (Bavaria) Hunting (Personal)](/tartans/k/10/ka4/t4/ka4/k34/n8/k34/n10/k10/n/34/)|
-|![Hueg (Bavaria) Hunting (Personal) example sett](/variants/k/10/ka4/t4/ka4/k34/n8/k34/n10/k10/n/34-k23321b-ka1c1714-n433a5a/sett.png)|
+| [Hueg (Bavaria) Hunting (Personal)](/setts/s10/b34g10b10g34b8g34k4ka4k4g10-b433a5a-g23321b-k1c1714-ka000000/)|
+|![Hueg (Bavaria) Hunting (Personal) example sett](/setts/s10/b34g10b10g34b8g34k4ka4k4g10-b433a5a-g23321b-k1c1714-ka000000/sett.png)|

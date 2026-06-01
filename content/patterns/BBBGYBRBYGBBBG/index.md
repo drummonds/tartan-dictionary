@@ -16,5 +16,5 @@ BBBGYBRBYGBBBG
 
 | Tartans |
 |---------------|
-| [Heather Isle](/tartans/db/32/dp16/p20/g16/dy2/db12/n2/db12/dy2/g16/p20/dp16/db32/g/160/)|
-|![Heather Isle example sett](/variants/db/32/dp16/p20/g16/dy2/db12/n2/db12/dy2/g16/p20/dp16/db32/g/160-b2888c4-db003c64-dp440044-dybc8c00-g808834-n888888-p780078/sett.png)|
+| [Heather Isle](/setts/s14/b32ba16bb20g16y2b12r2b12y2g16bb20ba16b32g160-b003c64-ba440044-bb780078-g808834-r888888-ybc8c00/)|
+|![Heather Isle example sett](/setts/s14/b32ba16bb20g16y2b12r2b12y2g16bb20ba16b32g160-b003c64-ba440044-bb780078-g808834-r888888-ybc8c00/sett.png)|

@@ -16,5 +16,5 @@ BBBWBGBRBGBB
 
 | Tartans |
 |---------------|
-| [Lyon (Personal)](/tartans/db/2/b16/db10/w20/db8/g10/db4/dr4/db4/g10/db8/dba/60/)|
-|![Lyon (Personal) example sett](/variants/db/2/b16/db10/w20/db8/g10/db4/dr4/db4/g10/db8/dba/60-b1474b4-db003c64-dba2c2c80-dra00000-g006818-wfcfcfc/sett.png)|
+| [Lyon (Personal)](/setts/s12/b2ba16b10w20b8g10b4r4b4g10b8bb60-b003c64-ba1474b4-bb2c2c80-g006818-ra00000-wfcfcfc/)|
+|![Lyon (Personal) example sett](/setts/s12/b2ba16b10w20b8g10b4r4b4g10b8bb60-b003c64-ba1474b4-bb2c2c80-g006818-ra00000-wfcfcfc/sett.png)|

@@ -16,5 +16,5 @@ BBBRBRGKG
 
 | Tartans |
 |---------------|
-| [Dunbartonshire](/tartans/db/2/b4/db26/dr8/db2/dr8/g2/k4/g/22/)|
-|![Dunbartonshire example sett](/variants/db/2/b4/db26/dr8/db2/dr8/g2/k4/g/22-b5c8ca8-db2c2c80-dr901c38-g006818-k101010/sett.png)|
+| [Dunbartonshire](/setts/s9/b4ba8b52r16b4r16g4k8g44-b2c2c80-ba5c8ca8-g006818-k101010-r901c38/)|
+|![Dunbartonshire example sett](/setts/s9/b4ba8b52r16b4r16g4k8g44-b2c2c80-ba5c8ca8-g006818-k101010-r901c38/sett.png)|

@@ -6,7 +6,7 @@ BBBRBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/lt/18/k8/lt8/k8/lt48/t38/k38/t/8-k241b1e-lt8c6627-t4f4232/tartan.png)
+![Woven sample](/setts/s8/b8ba38b38r48ba8r8ba8r18-b4f4232-ba241b1e-r8c6627/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBRBRBR
 
 | Tartans |
 |---------------|
-| [Chindecella Gorse (Kemete Heil)](/tartans/lt/18/k8/lt8/k8/lt48/t38/k38/t/8/)|
-|![Chindecella Gorse (Kemete Heil) example sett](/variants/lt/18/k8/lt8/k8/lt48/t38/k38/t/8-k241b1e-lt8c6627-t4f4232/sett.png)|
-| [Chindecella Ruadh (Personal)](/tartans/dr/20/db8/dr8/db8/dr46/n38/db38/n/8/)|
-|![Chindecella Ruadh (Personal) example sett](/variants/dr/20/db8/dr8/db8/dr46/n38/db38/n/8-db1c1c50-dr880000-n5c5c5c/sett.png)|
+| [Chindecella Gorse (Kemete Heil)](/setts/s8/b8ba38b38r48ba8r8ba8r18-b4f4232-ba241b1e-r8c6627/)|
+|![Chindecella Gorse (Kemete Heil) example sett](/setts/s8/b8ba38b38r48ba8r8ba8r18-b4f4232-ba241b1e-r8c6627/sett.png)|
+| [Chindecella Ruadh (Personal)](/setts/s8/b8ba38b38r46ba8r8ba8r20-b5c5c5c-ba1c1c50-r880000/)|
+|![Chindecella Ruadh (Personal) example sett](/setts/s8/b8ba38b38r46ba8r8ba8r20-b5c5c5c-ba1c1c50-r880000/sett.png)|

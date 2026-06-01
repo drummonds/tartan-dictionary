@@ -6,7 +6,7 @@ BGWR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/lt/5/w20/na40/n/40-lt874c52-n465665-na6e7766-wffffff/tartan.png)
+![Woven sample](/setts/s4/b40g40w20r5-b465665-g6e7766-r874c52-wffffff/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGWR
 
 | Tartans |
 |---------------|
-| [Farooq in Livingston (Personal)](/tartans/lt/5/w20/na40/n/40/)|
-|![Farooq in Livingston (Personal) example sett](/variants/lt/5/w20/na40/n/40-lt874c52-n465665-na6e7766-wffffff/sett.png)|
-| [Farooq (Personal)](/tartans/b/40/lg100/ln20/r/5/)|
-|![Farooq (Personal) example sett](/variants/b/40/lg100/ln20/r/5-b506880-lg609070-lne0e0e0-rc80000/sett.png)|
-| [Wilson's, No 189](/tartans/p/8/g20/ln2/r/2/)|
-|![Wilson's, No 189 example sett](/variants/p/8/g20/ln2/r/2-g008000-lne0e0e0-p800080-rc00000/sett.png)|
+| [Farooq in Livingston (Personal)](/setts/s4/b40g40w20r5-b465665-g6e7766-r874c52-wffffff/)|
+|![Farooq in Livingston (Personal) example sett](/setts/s4/b40g40w20r5-b465665-g6e7766-r874c52-wffffff/sett.png)|
+| [Farooq (Personal)](/setts/s4/b40g100w20r5-b506880-g609070-rc80000-we0e0e0/)|
+|![Farooq (Personal) example sett](/setts/s4/b40g100w20r5-b506880-g609070-rc80000-we0e0e0/sett.png)|
+| [Wilson's, No 189](/setts/s4/b8g20w2r2-b800080-g008000-rc00000-we0e0e0/)|
+|![Wilson's, No 189 example sett](/setts/s4/b8g20w2r2-b800080-g008000-rc00000-we0e0e0/sett.png)|

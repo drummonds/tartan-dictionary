@@ -6,7 +6,7 @@ BGKBWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/p/10/g16/k10/db64/ln4/r/4-db1c1c50-g006818-k101010-lne0e0e0-p9050d8-rc80000/tartan.png)
+![Woven sample](/setts/s6/b10g16k10ba64w4r4-b9050d8-ba1c1c50-g006818-k101010-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGKBWR
 
 | Tartans |
 |---------------|
-| [Marion (Personal)](/tartans/p/10/g16/k10/db64/ln4/r/4/)|
-|![Marion (Personal) example sett](/variants/p/10/g16/k10/db64/ln4/r/4-db1c1c50-g006818-k101010-lne0e0e0-p9050d8-rc80000/sett.png)|
+| [Marion (Personal)](/setts/s6/b10g16k10ba64w4r4-b9050d8-ba1c1c50-g006818-k101010-rc80000-we0e0e0/)|
+|![Marion (Personal) example sett](/setts/s6/b10g16k10ba64w4r4-b9050d8-ba1c1c50-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Marion (Personal)](/setts/s6/b10g16k10ba64w4r4-b9050d8-ba1c1c50-g006818-k101010-rc80000-we0e0e0/)|
+|![Marion (Personal) example sett](/setts/s6/b10g16k10ba64w4r4-b9050d8-ba1c1c50-g006818-k101010-rc80000-we0e0e0/sett.png)|

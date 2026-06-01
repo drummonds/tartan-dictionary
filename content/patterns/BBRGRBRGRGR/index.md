@@ -16,5 +16,5 @@ BBRGRBRGRGR
 
 | Tartans |
 |---------------|
-| [Hebridean 5](/tartans/db/50/b4/r50/g20/r8/db50/r4/g4/r50/g4/r/4/)|
-|![Hebridean 5 example sett](/variants/db/50/b4/r50/g20/r8/db50/r4/g4/r50/g4/r/4-b304080-db000050-g008000-rc00000/sett.png)|
+| [Hebridean 5](/setts/s11/b50ba4r50g20r8b50r4g4r50g4r4-b000050-ba304080-g008000-rc00000/)|
+|![Hebridean 5 example sett](/setts/s11/b50ba4r50g20r8b50r4g4r50g4r4-b000050-ba304080-g008000-rc00000/sett.png)|

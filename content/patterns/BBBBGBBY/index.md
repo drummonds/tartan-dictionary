@@ -6,7 +6,7 @@ BBBBGBBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/n/8/db96/n42/db28/t6/db12/n2/y/6-db2c2c80-n5c5c5c-t604000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b8ba96b42ba28g6ba12b2y6-b5c5c5c-ba2c2c80-g604000-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBGBBY
 
 | Tartans |
 |---------------|
-| [Munster Ancestry (Fashion)](/tartans/n/8/db96/n42/db28/t6/db12/n2/y/6/)|
-|![Munster Ancestry (Fashion) example sett](/variants/n/8/db96/n42/db28/t6/db12/n2/y/6-db2c2c80-n5c5c5c-t604000-ye8c000/sett.png)|
+| [Munster Ancestry (Fashion)](/setts/s8/b8ba96b42ba28g6ba12b2y6-b5c5c5c-ba2c2c80-g604000-ye8c000/)|
+|![Munster Ancestry (Fashion) example sett](/setts/s8/b8ba96b42ba28g6ba12b2y6-b5c5c5c-ba2c2c80-g604000-ye8c000/sett.png)|

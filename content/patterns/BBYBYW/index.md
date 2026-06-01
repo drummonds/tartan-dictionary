@@ -6,7 +6,7 @@ BBYBYW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/10/b40/n3/db5/y2/ln/15-b64809c-db003c64-lne0e0e0-na0a0a0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b10ba40y3b5ya2w15-b003c64-ba64809c-we0e0e0-ya0a0a0-yae8c000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBYBYW
 
 | Tartans |
 |---------------|
-| [Herriot (New Zealand) (Name)](/tartans/db/10/b40/n3/db5/y2/ln/15/)|
-|![Herriot (New Zealand) (Name) example sett](/variants/db/10/b40/n3/db5/y2/ln/15-b64809c-db003c64-lne0e0e0-na0a0a0-ye8c000/sett.png)|
+| [Herriot (New Zealand) (Name)](/setts/s6/b10ba40y3b5ya2w15-b003c64-ba64809c-we0e0e0-ya0a0a0-yae8c000/)|
+|![Herriot (New Zealand) (Name) example sett](/setts/s6/b10ba40y3b5ya2w15-b003c64-ba64809c-we0e0e0-ya0a0a0-yae8c000/sett.png)|
+| [Herriot Name Tartan Tartan Number: 10128. Earliest known date: 4th January 2010 A tartan for the use of all those who spell their surname as Herriot, a variant spelling of Heriot. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b10ba40y3b5ya2w15-b003c64-ba64809c-we0e0e0-ya0a0a0-yae8c000/)|
+|![Herriot Name Tartan Tartan Number: 10128. Earliest known date: 4th January 2010 A tartan for the use of all those who spell their surname as Herriot, a variant spelling of Heriot. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b10ba40y3b5ya2w15-b003c64-ba64809c-we0e0e0-ya0a0a0-yae8c000/sett.png)|

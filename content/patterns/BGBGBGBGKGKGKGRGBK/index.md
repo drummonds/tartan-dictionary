@@ -16,7 +16,13 @@ BGBGBGBGKGKGKGRGBK
 
 | Tartans |
 |---------------|
-| [Forbes of Druminnor](/tartans/db/6/t6/db6/t6/db6/t6/db8/g8/k6/g6/k6/g6/k6/g26/r16/g8/db6/k/12/)|
-|![Forbes of Druminnor example sett](/variants/db/6/t6/db6/t6/db6/t6/db8/g8/k6/g6/k6/g6/k6/g26/r16/g8/db6/k/12-db2c2c80-g285800-k101010-rc80000-t604000/sett.png)|
-| [Not Specified #2](/tartans/db/16/t6/db6/t6/db6/t6/db8/g8/k6/g6/k6/g6/k6/g26/r16/g8/db6/k/12/)|
-|![Not Specified #2 example sett](/variants/db/16/t6/db6/t6/db6/t6/db8/g8/k6/g6/k6/g6/k6/g26/r16/g8/db6/k/12-db2c2c80-g006818-k101010-rc80000-t604000/sett.png)|
+| [Forbes of Druminnor](/setts/s18/b6g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga285800-k101010-rc80000/)|
+|![Forbes of Druminnor example sett](/setts/s18/b6g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga285800-k101010-rc80000/sett.png)|
+| [Glasgow Celtic Society](/setts/s18/b6g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga285800-k101010-rc80000/)|
+|![Glasgow Celtic Society example sett](/setts/s18/b6g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga285800-k101010-rc80000/sett.png)|
+| [Not Specified #2](/setts/s18/b16g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga006818-k101010-rc80000/)|
+|![Not Specified #2 example sett](/setts/s18/b16g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga006818-k101010-rc80000/sett.png)|
+| [Glasgow Celtic Society (Corporate)](/setts/s18/b6g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga285800-k101010-rc80000/)|
+|![Glasgow Celtic Society (Corporate) example sett](/setts/s18/b6g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga285800-k101010-rc80000/sett.png)|
+| [Glasgow Celtic Society Corporate Tartan Tartan Number: 594. Earliest known date: c.1857 From MacGregor Hastie notes made of sample or record in Highland Society of London. A slightly different form of this is recorded in Sindex as Unidentified - No.1951. Founded in 1857 the Society promoted Gaelic culture. The first official rules of shinty were presented by the Glasgow Celtic Society in 1879. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/b16g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga006818-k101010-rc80000/)|
+|![Glasgow Celtic Society Corporate Tartan Tartan Number: 594. Earliest known date: c.1857 From MacGregor Hastie notes made of sample or record in Highland Society of London. A slightly different form of this is recorded in Sindex as Unidentified - No.1951. Founded in 1857 the Society promoted Gaelic culture. The first official rules of shinty were presented by the Glasgow Celtic Society in 1879. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/b16g6b6g6b6g6b8ga8k6ga6k6ga6k6ga26r16ga8b6k12-b2c2c80-g604000-ga006818-k101010-rc80000/sett.png)|

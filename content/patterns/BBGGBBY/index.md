@@ -6,7 +6,7 @@ BBGGBBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/8/b8/dg32/g32/db8/b8/y/2-b304080-db000050-dg003000-g008000-yf0c000/tartan.png)
+![Woven sample](/setts/s7/b16ba16g64ga64b16ba16y4-b000050-ba304080-g003000-ga008000-yf0c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGGBBY
 
 | Tartans |
 |---------------|
-| [Unidentified, Waistcoat](/tartans/db/8/b8/dg32/g32/db8/b8/y/2/)|
-|![Unidentified, Waistcoat example sett](/variants/db/8/b8/dg32/g32/db8/b8/y/2-b304080-db000050-dg003000-g008000-yf0c000/sett.png)|
+| [Unidentified, Waistcoat](/setts/s7/b16ba16g64ga64b16ba16y4-b000050-ba304080-g003000-ga008000-yf0c000/)|
+|![Unidentified, Waistcoat example sett](/setts/s7/b16ba16g64ga64b16ba16y4-b000050-ba304080-g003000-ga008000-yf0c000/sett.png)|

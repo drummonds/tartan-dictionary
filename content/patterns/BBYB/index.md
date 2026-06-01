@@ -6,7 +6,7 @@ BBYB
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/b/12/dr56/o40/b/6-b5c8ca8-dr441800-od87c00/tartan.png)
+![Woven sample](/setts/s4/b12ba56y40b6-b5c8ca8-ba441800-yd87c00/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BBYB
 
 | Tartans |
 |---------------|
-| [Prince of Orange](/tartans/b/12/dr56/o40/b/6/)|
-|![Prince of Orange example sett](/variants/b/12/dr56/o40/b/6-b5c8ca8-dr441800-od87c00/sett.png)|
-| [Gold Country (California)](/tartans/db/36/b36/o56/n/26/)|
-|![Gold Country (California) example sett](/variants/db/36/b36/o56/n/26-b5f749c-db000080-n3f4441-oef8f06/sett.png)|
-| [Gold Country (District)](/tartans/db/36/b36/dy56/n/26/)|
-|![Gold Country (District) example sett](/variants/db/36/b36/dy56/n/26-b1474b4-db202060-dybc8c00-n5c5c5c/sett.png)|
+| [Prince of Orange](/setts/s4/b12ba56y40b6-b5c8ca8-ba441800-yd87c00/)|
+|![Prince of Orange example sett](/setts/s4/b12ba56y40b6-b5c8ca8-ba441800-yd87c00/sett.png)|
+| [Gold Country (California)](/setts/s4/b36ba36y56bb26-b000080-ba5f749c-bb3f4441-yef8f06/)|
+|![Gold Country (California) example sett](/setts/s4/b36ba36y56bb26-b000080-ba5f749c-bb3f4441-yef8f06/sett.png)|
+| [Gold Country (District)](/setts/s4/b36ba36y56bb26-b202060-ba1474b4-bb5c5c5c-ybc8c00/)|
+|![Gold Country (District) example sett](/setts/s4/b36ba36y56bb26-b202060-ba1474b4-bb5c5c5c-ybc8c00/sett.png)|

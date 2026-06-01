@@ -16,5 +16,5 @@ BKGKYKGBKBY
 
 | Tartans |
 |---------------|
-| [Skye](/tartans/b/90/k20/n4/k4/y4/k4/n20/b10/k2/b10/y/2/)|
-|![Skye example sett](/variants/b/90/k20/n4/k4/y4/k4/n20/b10/k2/b10/y/2-b304080-k000000-n808080-yf0c000/sett.png)|
+| [Skye](/setts/s11/b90k20g4k4y4k4g20b10k2b10y2-b304080-g808080-k000000-yf0c000/)|
+|![Skye example sett](/setts/s11/b90k20g4k4y4k4g20b10k2b10y2-b304080-g808080-k000000-yf0c000/sett.png)|

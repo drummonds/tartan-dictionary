@@ -16,5 +16,5 @@ BGBRBKWGRGWKBRBG
 
 | Tartans |
 |---------------|
-| [Wilson's No.033 #2](/tartans/db/16/g34/b6/r6/b6/k38/w4/g34/r8/g34/w4/k38/b6/r6/b6/g/34/)|
-|![Wilson's No.033 #2 example sett](/variants/db/16/g34/b6/r6/b6/k38/w4/g34/r8/g34/w4/k38/b6/r6/b6/g/34-b5c8ca8-db202060-dg003820-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Wilson's No.033 #2](/setts/s16/b16g34ba6r6ba6k38w4g34r8g34w4k38ba6r6ba6g34-b202060-ba5c8ca8-g006818-k101010-rc80000-wfcfcfc/)|
+|![Wilson's No.033 #2 example sett](/setts/s16/b16g34ba6r6ba6k38w4g34r8g34w4k38ba6r6ba6g34-b202060-ba5c8ca8-g006818-k101010-rc80000-wfcfcfc/sett.png)|

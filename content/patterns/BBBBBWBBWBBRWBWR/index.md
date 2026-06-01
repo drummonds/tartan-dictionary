@@ -16,5 +16,5 @@ BBBBBWBBWBBRWBWR
 
 | Tartans |
 |---------------|
-| [Skye Dress, Blue, Earl of (Dance)](/tartans/db/8/b4/n8/b4/db8/ln6/db6/b4/ln8/b4/db8/dr28/ln44/db4/ln10/dr/8/)|
-|![Skye Dress, Blue, Earl of (Dance) example sett](/variants/db/8/b4/n8/b4/db8/ln6/db6/b4/ln8/b4/db8/dr28/ln44/db4/ln10/dr/8-b3474fc-db00008c-dr8c0000-lne0e0e0-n646464/sett.png)|
+| [Skye Dress, Blue, Earl of (Dance)](/setts/s16/b8ba4bb8ba4b8w6b6ba4w8ba4b8r28w44b4w10r8-b00008c-ba3474fc-bb646464-r8c0000-we0e0e0/)|
+|![Skye Dress, Blue, Earl of (Dance) example sett](/setts/s16/b8ba4bb8ba4b8w6b6ba4w8ba4b8r28w44b4w10r8-b00008c-ba3474fc-bb646464-r8c0000-we0e0e0/sett.png)|

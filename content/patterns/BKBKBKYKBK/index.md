@@ -16,7 +16,7 @@ BKBKBKYKBK
 
 | Tartans |
 |---------------|
-| [City Building (Glasgow) LLP](/tartans/k/6/nb12/k16/na4/k16/nb6/k10/nb72/k4/nb/6/)|
-|![City Building (Glasgow) LLP example sett](/variants/k/6/nb12/k16/na4/k16/nb6/k10/nb72/k4/nb/6-k101010-n888888-naa0a0a0-nb5c5c5c/sett.png)|
-| [City Building (Glasgow) LLP (Corp)](/tartans/k/6/n12/k16/na4/k16/n6/k10/n72/k4/n/6/)|
-|![City Building (Glasgow) LLP (Corp) example sett](/variants/k/6/n12/k16/na4/k16/n6/k10/n72/k4/n/6-k101010-n5c5c5c-naa0a0a0/sett.png)|
+| [City Building (Glasgow) LLP](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/)|
+|![City Building (Glasgow) LLP example sett](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/sett.png)|
+| [City Building (Glasgow) LLP (Corp)](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/)|
+|![City Building (Glasgow) LLP (Corp) example sett](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/sett.png)|

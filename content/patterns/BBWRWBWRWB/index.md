@@ -16,5 +16,5 @@ BBWRWBWRWB
 
 | Tartans |
 |---------------|
-| [Vetoclock](/tartans/n/220/lp6/na28/ln2/p20/ln2/na12/lp6/p8/n/4/)|
-|![Vetoclock example sett](/variants/n/220/lp6/na28/ln2/p20/ln2/na12/lp6/p8/n/4-lne0e0e0-lpc49cd8-n5c5c5c-na888888-p780078/sett.png)|
+| [Vetoclock](/setts/s10/b220w6r28wa2ba20wa2r12w6ba8b4-b5c5c5c-ba780078-r888888-wc49cd8-wae0e0e0/)|
+|![Vetoclock example sett](/setts/s10/b220w6r28wa2ba20wa2r12w6ba8b4-b5c5c5c-ba780078-r888888-wc49cd8-wae0e0e0/sett.png)|

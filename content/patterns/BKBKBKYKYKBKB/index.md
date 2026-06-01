@@ -16,5 +16,5 @@ BKBKBKYKYKBKB
 
 | Tartans |
 |---------------|
-| [Gordon (Clan)](/tartans/db/46/ka6/db6/ka6/db6/ka34/y44/k8/y44/ka34/db44/ka6/db/6/)|
-|![Gordon (Clan) example sett](/variants/db/46/ka6/db6/ka6/db6/ka34/y44/k8/y44/ka34/db44/ka6/db/6-db2c2c80-k101010-ka101010-ye8c000/sett.png)|
+| [Gordon (Clan)](/setts/s13/b46k6b6k6b6k34y44k8y44k34b44k6b6-b2c2c80-k101010-ye8c000/)|
+|![Gordon (Clan) example sett](/setts/s13/b46k6b6k6b6k34y44k8y44k34b44k6b6-b2c2c80-k101010-ye8c000/sett.png)|

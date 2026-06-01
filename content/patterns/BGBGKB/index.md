@@ -6,7 +6,7 @@ BGBGKB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/144/k42/g32/ba6/g34/ba/6-b304080-ba5480b0-g008000-k000000/tartan.png)
+![Woven sample](/setts/s6/b144k42g32ba6g34ba6-b304080-ba5480b0-g008000-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGKB
 
 | Tartans |
 |---------------|
-| [MacRobart](/tartans/b/144/k42/g32/ba6/g34/ba/6/)|
-|![MacRobart example sett](/variants/b/144/k42/g32/ba6/g34/ba/6-b304080-ba5480b0-g008000-k000000/sett.png)|
+| [MacRobart](/setts/s6/b144k42g32ba6g34ba6-b304080-ba5480b0-g008000-k000000/)|
+|![MacRobart example sett](/setts/s6/b144k42g32ba6g34ba6-b304080-ba5480b0-g008000-k000000/sett.png)|

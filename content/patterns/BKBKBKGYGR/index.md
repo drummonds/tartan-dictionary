@@ -16,7 +16,11 @@ BKBKBKGYGR
 
 | Tartans |
 |---------------|
-| [Barnes Hunting (Personal)](/tartans/db/40/k6/db6/k6/db6/k32/g6/dy6/g24/dr/4/)|
-|![Barnes Hunting (Personal) example sett](/variants/db/40/k6/db6/k6/db6/k32/g6/dy6/g24/dr/4-db1c0070-dr880000-dyd09800-g006818-k101010-lpa8ace8-nc0c0c0-p6c0070/sett.png)|
-| [Barnes](/tartans/b/40/k6/b6/k6/b6/k32/g4/y6/g24/r/4/)|
-|![Barnes example sett](/variants/b/40/k6/b6/k6/b6/k32/g4/y6/g24/r/4-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Barnes Hunting (Personal)](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/)|
+|![Barnes Hunting (Personal) example sett](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
+| [Barnes (Personal)](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/)|
+|![Barnes (Personal) example sett](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
+| [Barnes](/setts/s10/b40k6b6k6b6k32g4y6g24r4-b304080-g008000-k000000-rc00000-yf0c000/)|
+|![Barnes example sett](/setts/s10/b40k6b6k6b6k32g4y6g24r4-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Barnes Family Tartan Tartan Number: 2244. Earliest known date: 1996 Woven by K.C. Dalgliesh. this is a "Black Watch B" variation. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/)|
+|![Barnes Family Tartan Tartan Number: 2244. Earliest known date: 1996 Woven by K.C. Dalgliesh. this is a "Black Watch B" variation. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|

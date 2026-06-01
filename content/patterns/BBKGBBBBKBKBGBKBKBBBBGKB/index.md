@@ -16,5 +16,7 @@ BBKGBBBBKBKBGBKBKBBBBGKB
 
 | Tartans |
 |---------------|
-| [Scotland 1782](/tartans/b/6/dba60/k8/g6/pa4/p4/pa4/p20/k4/p4/k8/p4/g6/p4/k8/p4/k4/p20/pa4/p4/pa4/g6/k8/dba/60/)|
-|![Scotland 1782 example sett](/variants/b/6/dba60/k8/g6/pa4/p4/pa4/p20/k4/p4/k8/p4/g6/p4/k8/p4/k4/p20/pa4/p4/pa4/g6/k8/dba/60-b788cb4-ba1474b4-db000034-dba2c2c80-dg003014-dp340034-g408060-k000000-p640054-pa780078/sett.png)|
+| [Scotland 1782](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/)|
+|![Scotland 1782 example sett](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/sett.png)|
+| [Scotland 1782 #2](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/)|
+|![Scotland 1782 #2 example sett](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/sett.png)|

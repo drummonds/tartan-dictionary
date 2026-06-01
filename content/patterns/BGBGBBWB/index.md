@@ -6,7 +6,7 @@ BGBGBBWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/4/g5/p3/g5/db46/p42/ln4/p/4-db2c2c80-g006818-k101010-lne0e0e0-p780078/tartan.png)
+![Woven sample](/setts/s8/b4g5ba3g5b46ba42w4ba4-b2c2c80-ba780078-g006818-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBGBBWB
 
 | Tartans |
 |---------------|
-| [Clans of Caledonia](/tartans/db/4/g5/p3/g5/db46/p42/ln4/p/4/)|
-|![Clans of Caledonia example sett](/variants/db/4/g5/p3/g5/db46/p42/ln4/p/4-db2c2c80-g006818-k101010-lne0e0e0-p780078/sett.png)|
+| [Clans of Caledonia](/setts/s8/b4g5ba3g5b46ba42w4ba4-b2c2c80-ba780078-g006818-we0e0e0/)|
+|![Clans of Caledonia example sett](/setts/s8/b4g5ba3g5b46ba42w4ba4-b2c2c80-ba780078-g006818-we0e0e0/sett.png)|
+| [Clans of Caledonia (Corporate)](/setts/s8/b4g5ba3g5b46ba42w4ba4-b2c2c80-ba780078-g006818-we0e0e0/)|
+|![Clans of Caledonia (Corporate) example sett](/setts/s8/b4g5ba3g5b46ba42w4ba4-b2c2c80-ba780078-g006818-we0e0e0/sett.png)|

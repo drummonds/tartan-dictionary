@@ -16,5 +16,5 @@ BGBGBGBGBGBRBYBRBGBGBGBRBRBR
 
 | Tartans |
 |---------------|
-| [Cairns of Finavon](/tartans/db/32/g6/db6/g6/db6/g32/db6/g6/db6/g6/db32/r30/db2/y6/db2/r30/db32/g30/db6/g6/db6/g30/db32/r30/b2/r6/b2/r/30/)|
-|![Cairns of Finavon example sett](/variants/db/32/g6/db6/g6/db6/g32/db6/g6/db6/g6/db32/r30/db2/y6/db2/r30/db32/g30/db6/g6/db6/g30/db32/r30/b2/r6/b2/r/30-b1474b4-db202060-dba2c2c80-dg003820-g006818-k101010-r980044-wf8f8f8-ye8c000/sett.png)|
+| [Cairns of Finavon](/setts/s28/b32g6b6g6b6g32b6g6b6g6b32r30b2y6b2r30b32g30b6g6b6g30b32r30ba2r6ba2r30-b202060-ba1474b4-g006818-r980044-ye8c000/)|
+|![Cairns of Finavon example sett](/setts/s28/b32g6b6g6b6g32b6g6b6g6b32r30b2y6b2r30b32g30b6g6b6g30b32r30ba2r6ba2r30-b202060-ba1474b4-g006818-r980044-ye8c000/sett.png)|

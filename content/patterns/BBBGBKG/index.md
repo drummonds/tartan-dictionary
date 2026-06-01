@@ -6,7 +6,7 @@ BBBGBKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/g/22/b8/g12/t22/b2/k2/t/8-b306084-g085454-k000000-t604000/tartan.png)
+![Woven sample](/setts/s7/b44ba16b24g44ba4k4g16-b085454-ba306084-g604000-k000000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBGBKG
 
 | Tartans |
 |---------------|
-| [Calais (Fashion)](/tartans/g/22/b8/g12/t22/b2/k2/t/8/)|
-|![Calais (Fashion) example sett](/variants/g/22/b8/g12/t22/b2/k2/t/8-b306084-g085454-k000000-t604000/sett.png)|
+| [Calais (Fashion)](/setts/s7/b44ba16b24g44ba4k4g16-b085454-ba306084-g604000-k000000/)|
+|![Calais (Fashion) example sett](/setts/s7/b44ba16b24g44ba4k4g16-b085454-ba306084-g604000-k000000/sett.png)|
+| [Calais (Fashion)](/setts/s7/b44ba16b24g44ba4k4g16-b085454-ba306084-g604000-k000000/)|
+|![Calais (Fashion) example sett](/setts/s7/b44ba16b24g44ba4k4g16-b085454-ba306084-g604000-k000000/sett.png)|

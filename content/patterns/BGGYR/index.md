@@ -6,7 +6,7 @@ BGGYR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/ka/16/lg38/k84/y6/r/2-k23321b-ka351e14-lg649848-ra32d18-ye0a126/tartan.png)
+![Woven sample](/setts/s5/b16g38ga84y6r2-b351e14-g649848-ga23321b-ra32d18-ye0a126/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGGYR
 
 | Tartans |
 |---------------|
-| [Nolan Family, John J (Personal)](/tartans/ka/16/lg38/k84/y6/r/2/)|
-|![Nolan Family, John J (Personal) example sett](/variants/ka/16/lg38/k84/y6/r/2-k23321b-ka351e14-lg649848-ra32d18-ye0a126/sett.png)|
-| [Nolan (Personal)](/tartans/dr/2/dy6/dg84/g38/dra/16/)|
-|![Nolan (Personal) example sett](/variants/dr/2/dy6/dg84/g38/dra/16-dg003820-dra00000-dra480800-dybc8c00-g006818/sett.png)|
+| [Nolan Family, John J (Personal)](/setts/s5/b16g38ga84y6r2-b351e14-g649848-ga23321b-ra32d18-ye0a126/)|
+|![Nolan Family, John J (Personal) example sett](/setts/s5/b16g38ga84y6r2-b351e14-g649848-ga23321b-ra32d18-ye0a126/sett.png)|
+| [Nolan (Personal)](/setts/s5/b16g38ga84y6r2-b480800-g006818-ga003820-ra00000-ybc8c00/)|
+|![Nolan (Personal) example sett](/setts/s5/b16g38ga84y6r2-b480800-g006818-ga003820-ra00000-ybc8c00/sett.png)|

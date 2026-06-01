@@ -6,7 +6,7 @@ BBKRKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/lt/6/db30/r4/db30/n30/p/6-db000033-lta07c40-n656879-paa00ff-rff0000/tartan.png)
+![Woven sample](/setts/s6/b6ba30k30r4k30ra6-baa00ff-ba656879-k000033-rff0000-raa07c40/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKRKR
 
 | Tartans |
 |---------------|
-| [H.M.S. DUNCAN](/tartans/lt/6/db30/r4/db30/n30/p/6/)|
-|![H.M.S. DUNCAN example sett](/variants/lt/6/db30/r4/db30/n30/p/6-db000033-lta07c40-n656879-paa00ff-rff0000/sett.png)|
+| [H.M.S. DUNCAN](/setts/s6/b6ba30k30r4k30ra6-baa00ff-ba656879-k000033-rff0000-raa07c40/)|
+|![H.M.S. DUNCAN example sett](/setts/s6/b6ba30k30r4k30ra6-baa00ff-ba656879-k000033-rff0000-raa07c40/sett.png)|

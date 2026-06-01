@@ -16,5 +16,5 @@ BKBBWBBKWKBBWBBK
 
 | Tartans |
 |---------------|
-| [Hebridean Arisaid Blue (Dance)](/tartans/k/8/p46/ba4/ln4/b24/db24/k8/ln74/k8/db24/b24/ln4/ba4/p46/k8/p/12/)|
-|![Hebridean Arisaid Blue (Dance) example sett](/variants/k/8/p46/ba4/ln4/b24/db24/k8/ln74/k8/db24/b24/ln4/ba4/p46/k8/p/12-b1474b4-ba5c8ca8-db2c2c80-dr800028-g006818-k101010-lne0e0e0-lre08070-p780078/sett.png)|
+| [Hebridean Arisaid Blue (Dance)](/setts/s16/b12k8b46ba4w4bb24bc24k8w74k8bc24bb24w4ba4b46k8-b780078-ba5c8ca8-bb1474b4-bc2c2c80-k101010-we0e0e0/)|
+|![Hebridean Arisaid Blue (Dance) example sett](/setts/s16/b12k8b46ba4w4bb24bc24k8w74k8bc24bb24w4ba4b46k8-b780078-ba5c8ca8-bb1474b4-bc2c2c80-k101010-we0e0e0/sett.png)|

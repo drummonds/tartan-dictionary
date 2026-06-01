@@ -16,5 +16,5 @@ BGKBYKBKR
 
 | Tartans |
 |---------------|
-| [Dean/Dundas (Melbourne, Australia) (Personal)](/tartans/n/6/g12/k10/db62/lg10/k12/n8/k10/r/34/)|
-|![Dean/Dundas (Melbourne, Australia) (Personal) example sett](/variants/n/6/g12/k10/db62/lg10/k12/n8/k10/r/34-db271b86-g509721-k120a01-lgf9c75c-n666666-rdd1212/sett.png)|
+| [Dean/Dundas (Melbourne, Australia) (Personal)](/setts/s9/b6g12k10ba62y10k12b8k10r34-b666666-ba271b86-g509721-k120a01-rdd1212-yf9c75c/)|
+|![Dean/Dundas (Melbourne, Australia) (Personal) example sett](/setts/s9/b6g12k10ba62y10k12b8k10r34-b666666-ba271b86-g509721-k120a01-rdd1212-yf9c75c/sett.png)|

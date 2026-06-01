@@ -16,5 +16,7 @@ BBRGRGRBBRBGRGRBRBRB
 
 | Tartans |
 |---------------|
-| [MacDougall](/tartans/b/2/dr8/dra12/dr144/db8/dr16/dg36/dr36/dg36/dra24/dr8/dra24/db36/dr16/dg8/dr16/dg144/dr8/dra24/b/4/)|
-|![MacDougall example sett](/variants/b/2/dr8/dra12/dr144/db8/dr16/dg36/dr36/dg36/dra24/dr8/dra24/db36/dr16/dg8/dr16/dg144/dr8/dra24/b/4-b4367ae-db000052-dg11450d-draa0000-dra59110d/sett.png)|
+| [MacDougall](/setts/s20/b2r8ba12r144bb8r16g36r36g36ba24r8ba24bb36r16g8r16g144r8ba24b4-b4367ae-ba59110d-bb000052-g11450d-raa0000/)|
+|![MacDougall example sett](/setts/s20/b2r8ba12r144bb8r16g36r36g36ba24r8ba24bb36r16g8r16g144r8ba24b4-b4367ae-ba59110d-bb000052-g11450d-raa0000/sett.png)|
+| [MacDougall](/setts/s20/b1r4ba6r72bb4r8g18r18g18ba12r4ba12bb18r8g4r8g72r4ba12b2-b4367ae-ba59110d-bb000052-g11450d-raa0000/)|
+|![MacDougall example sett](/setts/s20/b1r4ba6r72bb4r8g18r18g18ba12r4ba12bb18r8g4r8g72r4ba12b2-b4367ae-ba59110d-bb000052-g11450d-raa0000/sett.png)|

@@ -6,7 +6,7 @@ BGBYBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/18/g32/dba118/lg8/dba118/g/32-db2c2c80-dba1c0070-g006818-lgc4bc68/tartan.png)
+![Woven sample](/setts/s6/b18g32ba118y8ba118g32-b2c2c80-ba1c0070-g006818-yc4bc68/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBYBG
 
 | Tartans |
 |---------------|
-| [Oxford University](/tartans/db/18/g32/dba118/lg8/dba118/g/32/)|
-|![Oxford University example sett](/variants/db/18/g32/dba118/lg8/dba118/g/32-db2c2c80-dba1c0070-g006818-lgc4bc68/sett.png)|
+| [Oxford University](/setts/s6/b18g32ba118y8ba118g32-b2c2c80-ba1c0070-g006818-yc4bc68/)|
+|![Oxford University example sett](/setts/s6/b18g32ba118y8ba118g32-b2c2c80-ba1c0070-g006818-yc4bc68/sett.png)|

@@ -16,5 +16,5 @@ BKBGKGRRRR
 
 | Tartans |
 |---------------|
-| [Longford](/tartans/b/16/k6/b36/g12/k16/g12/lt24/r10/lt24/r/6/)|
-|![Longford example sett](/variants/b/16/k6/b36/g12/k16/g12/lt24/r10/lt24/r/6-b304080-g008000-k000000-lt806050-rc00000/sett.png)|
+| [Longford](/setts/s10/b16k6b36g12k16g12r24ra10r24ra6-b304080-g008000-k000000-r806050-rac00000/)|
+|![Longford example sett](/setts/s10/b16k6b36g12k16g12r24ra10r24ra6-b304080-g008000-k000000-r806050-rac00000/sett.png)|

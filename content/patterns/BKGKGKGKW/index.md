@@ -16,5 +16,5 @@ BKGKGKGKW
 
 | Tartans |
 |---------------|
-| [Coffield-Limesand (Personal)](/tartans/ln/4/k2/g16/k12/t4/k2/g4/k2/p/16/)|
-|![Coffield-Limesand (Personal) example sett](/variants/ln/4/k2/g16/k12/t4/k2/g4/k2/p/16-g006818-k101010-lne0e0e0-p780078-t604000/sett.png)|
+| [Coffield-Limesand (Personal)](/setts/s9/b32k4g8k4ga8k24g32k4w8-b780078-g006818-ga604000-k101010-we0e0e0/)|
+|![Coffield-Limesand (Personal) example sett](/setts/s9/b32k4g8k4ga8k24g32k4w8-b780078-g006818-ga604000-k101010-we0e0e0/sett.png)|

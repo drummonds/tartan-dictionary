@@ -6,7 +6,7 @@ BBGGWRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/8/p6/g2/ga18/ln2/r16/k/2-b5480b0-g30a010-ga008000-k000000-lne0e0e0-p800080-rc00000/tartan.png)
+![Woven sample](/setts/s7/b16ba12g4ga36w4r32k4-b5480b0-ba800080-g30a010-ga008000-k000000-rc00000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGGWRK
 
 | Tartans |
 |---------------|
-| [Wilson's, No 121](/tartans/b/8/p6/g2/ga18/ln2/r16/k/2/)|
-|![Wilson's, No 121 example sett](/variants/b/8/p6/g2/ga18/ln2/r16/k/2-b5480b0-g30a010-ga008000-k000000-lne0e0e0-p800080-rc00000/sett.png)|
+| [Wilson's, No 121](/setts/s7/b16ba12g4ga36w4r32k4-b5480b0-ba800080-g30a010-ga008000-k000000-rc00000-we0e0e0/)|
+|![Wilson's, No 121 example sett](/setts/s7/b16ba12g4ga36w4r32k4-b5480b0-ba800080-g30a010-ga008000-k000000-rc00000-we0e0e0/sett.png)|

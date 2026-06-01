@@ -16,5 +16,5 @@ BKBKBKWKW
 
 | Tartans |
 |---------------|
-| [Nocken (Personal)](/tartans/lb/6/k12/lr4/k12/db4/k4/db64/k4/n/2/)|
-|![Nocken (Personal) example sett](/variants/lb/6/k12/lr4/k12/db4/k4/db64/k4/n/2-db202060-k101010-lb98c8e8-lre8ccb8-n5c5c5c/sett.png)|
+| [Nocken (Personal)](/setts/s9/b2k4ba64k4ba4k12w4k12wa6-b5c5c5c-ba202060-k101010-we8ccb8-wa98c8e8/)|
+|![Nocken (Personal) example sett](/setts/s9/b2k4ba64k4ba4k12w4k12wa6-b5c5c5c-ba202060-k101010-we8ccb8-wa98c8e8/sett.png)|

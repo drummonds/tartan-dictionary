@@ -6,7 +6,7 @@ BGYKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/n/2/k4/lt4/t6/na/176-k101010-lta08858-na0a0a0-na5c5c5c-t604000/tartan.png)
+![Woven sample](/setts/s5/b176g6y4k4ya2-b5c5c5c-g604000-k101010-ya08858-yaa0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYKY
 
 | Tartans |
 |---------------|
-| [Eternity (Fashion)](/tartans/n/2/k4/lt4/t6/na/176/)|
-|![Eternity (Fashion) example sett](/variants/n/2/k4/lt4/t6/na/176-k101010-lta08858-na0a0a0-na5c5c5c-t604000/sett.png)|
+| [Eternity (Fashion)](/setts/s5/b176g6y4k4ya2-b5c5c5c-g604000-k101010-ya08858-yaa0a0a0/)|
+|![Eternity (Fashion) example sett](/setts/s5/b176g6y4k4ya2-b5c5c5c-g604000-k101010-ya08858-yaa0a0a0/sett.png)|

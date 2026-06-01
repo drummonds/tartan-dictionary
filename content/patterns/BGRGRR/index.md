@@ -6,7 +6,7 @@ BGRGRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/4/g2/r2/g8/r2/ra/16-b3c82af-g005020-rc82828-radc0000/tartan.png)
+![Woven sample](/setts/s6/b4g2r2g8r2ra16-b3c82af-g005020-rc82828-radc0000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGRGRR
 
 | Tartans |
 |---------------|
-| [Moray of Abercairney](/tartans/b/4/g2/r2/g8/r2/ra/16/)|
-|![Moray of Abercairney example sett](/variants/b/4/g2/r2/g8/r2/ra/16-b3c82af-g005020-rc82828-radc0000/sett.png)|
+| [Moray of Abercairney](/setts/s6/b4g2r2g8r2ra16-b3c82af-g005020-rc82828-radc0000/)|
+|![Moray of Abercairney example sett](/setts/s6/b4g2r2g8r2ra16-b3c82af-g005020-rc82828-radc0000/sett.png)|
+| [Moray of Abercairney](/setts/s6/b4g2r2g8r2ra16-b5480b0-g008000-rd03030-rac00000/)|
+|![Moray of Abercairney example sett](/setts/s6/b4g2r2g8r2ra16-b5480b0-g008000-rd03030-rac00000/sett.png)|

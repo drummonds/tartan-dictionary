@@ -16,7 +16,7 @@ BKBKBKBKBKRKBKRKY
 
 | Tartans |
 |---------------|
-| [Golden Glow](/tartans/n/4/k8/na24/k2/n32/k2/na4/k2/n16/k2/r4/k2/dr16/k2/r18/k4/y/6/)|
-|![Golden Glow example sett](/variants/n/4/k8/na24/k2/n32/k2/na4/k2/n16/k2/r4/k2/dr16/k2/r18/k4/y/6-dr6f3940-k101010-n4a4464-na506b71-rd24d46-ye2af2c/sett.png)|
-| [Golden Glow (Fashion)](/tartans/lg/6/k4/lr18/k2/lp16/k2/lr4/k2/n16/k2/b4/k2/n32/k2/b24/k8/n/4/)|
-|![Golden Glow (Fashion) example sett](/variants/lg/6/k4/lr18/k2/lp16/k2/lr4/k2/n16/k2/b4/k2/n32/k2/b24/k8/n/4-b687c9c-k101010-lgc8c474-lp8c6494-lrcc786c-n506878/sett.png)|
+| [Golden Glow](/setts/s17/b4k8ba24k2b32k2ba4k2b16k2r4k2bb16k2r18k4y6-b4a4464-ba506b71-bb6f3940-k101010-rd24d46-ye2af2c/)|
+|![Golden Glow example sett](/setts/s17/b4k8ba24k2b32k2ba4k2b16k2r4k2bb16k2r18k4y6-b4a4464-ba506b71-bb6f3940-k101010-rd24d46-ye2af2c/sett.png)|
+| [Golden Glow (Fashion)](/setts/s17/b4k8ba24k2b32k2ba4k2b16k2r4k2bb16k2r18k4y6-b506878-ba687c9c-bb8c6494-k101010-rcc786c-yc8c474/)|
+|![Golden Glow (Fashion) example sett](/setts/s17/b4k8ba24k2b32k2ba4k2b16k2r4k2bb16k2r18k4y6-b506878-ba687c9c-bb8c6494-k101010-rcc786c-yc8c474/sett.png)|

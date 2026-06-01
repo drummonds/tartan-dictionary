@@ -6,7 +6,7 @@ BGBRKGRG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/4/g2/b32/r2/k24/g32/r2/g/4-b3c779d-g2d783e-k000000-rc80000/tartan.png)
+![Woven sample](/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRKGRG
 
 | Tartans |
 |---------------|
-| [Lochaber District](/tartans/b/4/g2/b32/r2/k24/g32/r2/g/4/)|
-|![Lochaber District example sett](/variants/b/4/g2/b32/r2/k24/g32/r2/g/4-b3c779d-g2d783e-k000000-rc80000/sett.png)|
+| [Lochaber District](/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/)|
+|![Lochaber District example sett](/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/sett.png)|

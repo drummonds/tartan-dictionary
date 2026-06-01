@@ -16,5 +16,5 @@ BKBKBKBKYKRKYBKBKBKBKGKGKGKGKYYYGKGKGKGK
 
 | Tartans |
 |---------------|
-| [Coutts 75th (James Robert )](/tartans/b/24/k2/b2/k2/b2/k2/b2/k2/lb8/k2/r8/k2/lb8/b24/k2/b2/k2/b2/k2/b2/k24/g24/k2/g2/k2/g2/k2/g2/k2/lb8/lg8/lb8/g24/k2/g2/k2/g2/k2/g2/k/24/)|
-|![Coutts 75th (James Robert ) example sett](/variants/b/24/k2/b2/k2/b2/k2/b2/k2/lb8/k2/r8/k2/lb8/b24/k2/b2/k2/b2/k2/b2/k24/g24/k2/g2/k2/g2/k2/g2/k2/lb8/lg8/lb8/g24/k2/g2/k2/g2/k2/g2/k/24-b504992-g3e6f48-k000000-lb86b0cb-lgd4d44e-rdf3037/sett.png)|
+| [Coutts 75th (James Robert )](/setts/s40/b24k2b2k2b2k2b2k2y8k2r8k2y8b24k2b2k2b2k2b2k24g24k2g2k2g2k2g2k2y8ya8y8g24k2g2k2g2k2g2k24-b504992-g3e6f48-k000000-rdf3037-y86b0cb-yad4d44e/)|
+|![Coutts 75th (James Robert ) example sett](/setts/s40/b24k2b2k2b2k2b2k2y8k2r8k2y8b24k2b2k2b2k2b2k24g24k2g2k2g2k2g2k2y8ya8y8g24k2g2k2g2k2g2k24-b504992-g3e6f48-k000000-rdf3037-y86b0cb-yad4d44e/sett.png)|

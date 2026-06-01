@@ -16,5 +16,7 @@ BKBKGKRKRKBKGKGKGKBKRK
 
 | Tartans |
 |---------------|
-| [Ellenee](/tartans/k/18/dr6/k6/n22/k6/g22/k6/g6/k6/g22/k6/n22/k6/dr6/k18/dr6/k6/g22/k6/n22/k6/n/6/)|
-|![Ellenee example sett](/variants/k/18/dr6/k6/n22/k6/g22/k6/g6/k6/g22/k6/n22/k6/dr6/k18/dr6/k6/g22/k6/n22/k6/n/6-dr901c38-g30644c-k101010-n506878/sett.png)|
+| [Ellenee](/setts/s22/b6k6b22k6g22k6r6k18r6k6b22k6g22k6g6k6g22k6b22k6r6k18-b506878-g30644c-k101010-r901c38/)|
+|![Ellenee example sett](/setts/s22/b6k6b22k6g22k6r6k18r6k6b22k6g22k6g6k6g22k6b22k6r6k18-b506878-g30644c-k101010-r901c38/sett.png)|
+| [Ellene (Personal))](/setts/s22/b6k6b22k6g22k6r6k18r6k6b22k6g22k6g6k6g22k6b22k6r6k18-b506878-g30644c-k101010-r901c38/)|
+|![Ellene (Personal)) example sett](/setts/s22/b6k6b22k6g22k6r6k18r6k6b22k6g22k6g6k6g22k6b22k6r6k18-b506878-g30644c-k101010-r901c38/sett.png)|

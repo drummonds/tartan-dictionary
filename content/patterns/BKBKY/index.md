@@ -6,7 +6,7 @@ BKBKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/p/27/k10/p27/k35/y/6-k101010-p780078-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b27k10b27k35y6-b780078-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKY
 
 | Tartans |
 |---------------|
-| [Moorlands (Corporate)](/tartans/p/27/k10/p27/k35/y/6/)|
-|![Moorlands (Corporate) example sett](/variants/p/27/k10/p27/k35/y/6-k101010-p780078-ye8c000/sett.png)|
+| [Moorlands (Corporate)](/setts/s5/b27k10b27k35y6-b780078-k101010-ye8c000/)|
+|![Moorlands (Corporate) example sett](/setts/s5/b27k10b27k35y6-b780078-k101010-ye8c000/sett.png)|

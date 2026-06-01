@@ -16,5 +16,5 @@ BBGBGBGBKBGBGBGBBRBY
 
 | Tartans |
 |---------------|
-| [Michie (Name)](/tartans/n/18/dp20/dg8/dp6/dg4/dp14/dg8/dp40/k4/dp40/dg8/dp14/dg4/dp6/dg8/dp20/n18/r2/n4/o/2/)|
-|![Michie (Name) example sett](/variants/n/18/dp20/dg8/dp6/dg4/dp14/dg8/dp40/k4/dp40/dg8/dp14/dg4/dp6/dg8/dp20/n18/r2/n4/o/2-dg003820-dp440044-k101010-n384c58-od87c00-rc80000/sett.png)|
+| [Michie (Name)](/setts/s20/b18ba20g8ba6g4ba14g8ba40k4ba40g8ba14g4ba6g8ba20b18r2b4y2-b384c58-ba440044-g003820-k101010-rc80000-yd87c00/)|
+|![Michie (Name) example sett](/setts/s20/b18ba20g8ba6g4ba14g8ba40k4ba40g8ba14g4ba6g8ba20b18r2b4y2-b384c58-ba440044-g003820-k101010-rc80000-yd87c00/sett.png)|

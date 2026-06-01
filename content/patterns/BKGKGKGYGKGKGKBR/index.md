@@ -16,5 +16,5 @@ BKGKGKGYGKGKGKBR
 
 | Tartans |
 |---------------|
-| [Sarafilovic](/tartans/db/30/k36/g6/k4/g4/k4/g88/y8/g88/k4/g4/k4/g6/k36/db30/r/8/)|
-|![Sarafilovic example sett](/variants/db/30/k36/g6/k4/g4/k4/g88/y8/g88/k4/g4/k4/g6/k36/db30/r/8-db2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Sarafilovic](/setts/s16/b30k36g6k4g4k4g88y8g88k4g4k4g6k36b30r8-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
+|![Sarafilovic example sett](/setts/s16/b30k36g6k4g4k4g88y8g88k4g4k4g6k36b30r8-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|

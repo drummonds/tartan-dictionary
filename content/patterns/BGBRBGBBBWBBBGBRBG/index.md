@@ -16,5 +16,5 @@ BGBRBGBBBWBBBGBRBG
 
 | Tartans |
 |---------------|
-| [Strathisla](/tartans/dbb/16/g16/dba24/r6/p40/g6/dba40/dbb6/dba40/n4/dba40/dbb6/dba40/g6/p40/r6/dba24/g/16/)|
-|![Strathisla example sett](/variants/dbb/16/g16/dba24/r6/p40/g6/dba40/dbb6/dba40/n4/dba40/dbb6/dba40/g6/p40/r6/dba24/g/16-db00008c-dba002c70-dbb2c2c80-dg003014-dp28003c-dr4c0c28-g006818-nc8c8c8-p780078-rc80000/sett.png)|
+| [Strathisla](/setts/s18/b16g16ba24r6bb40g6ba40b6ba40w4ba40b6ba40g6bb40r6ba24g16-b2c2c80-ba002c70-bb780078-g006818-rc80000-wc8c8c8/)|
+|![Strathisla example sett](/setts/s18/b16g16ba24r6bb40g6ba40b6ba40w4ba40b6ba40g6bb40r6ba24g16-b2c2c80-ba002c70-bb780078-g006818-rc80000-wc8c8c8/sett.png)|

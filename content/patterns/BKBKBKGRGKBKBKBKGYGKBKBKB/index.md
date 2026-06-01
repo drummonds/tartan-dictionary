@@ -16,5 +16,5 @@ BKBKBKGRGKBKBKBKGYGKBKBKB
 
 | Tartans |
 |---------------|
-| [Farquharson](/tartans/b/42/k2/b2/k2/b2/k20/g44/r4/g44/k20/b32/k2/b4/k2/b32/k20/g44/y4/g44/k20/b2/k2/b2/k2/b/14/)|
-|![Farquharson example sett](/variants/b/42/k2/b2/k2/b2/k20/g44/r4/g44/k20/b32/k2/b4/k2/b32/k20/g44/y4/g44/k20/b2/k2/b2/k2/b/14-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Farquharson](/setts/s25/b14k2b2k2b2k20g44y4g44k20b32k2b4k2b32k20g44r4g44k20b2k2b2k2b42-b304080-g008000-k000000-rc00000-yf0c000/)|
+|![Farquharson example sett](/setts/s25/b14k2b2k2b2k20g44y4g44k20b32k2b4k2b32k20g44r4g44k20b2k2b2k2b42-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|

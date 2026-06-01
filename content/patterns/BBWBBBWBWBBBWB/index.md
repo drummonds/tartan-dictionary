@@ -16,5 +16,5 @@ BBWBBBWBWBBBWB
 
 | Tartans |
 |---------------|
-| [Harmony Eildon](/tartans/b/4/ln4/b4/db10/ba24/ln62/db8/ln62/ba24/db10/b4/ln4/b4/db/82/)|
-|![Harmony Eildon example sett](/variants/b/4/ln4/b4/db10/ba24/ln62/db8/ln62/ba24/db10/b4/ln4/b4/db/82-b5c8ca8-ba2888c4-db2c2c80-lne0e0e0/sett.png)|
+| [Harmony Eildon](/setts/s14/b82ba4w4ba4b10bb24w62b8w62bb24b10ba4w4ba4-b2c2c80-ba5c8ca8-bb2888c4-we0e0e0/)|
+|![Harmony Eildon example sett](/setts/s14/b82ba4w4ba4b10bb24w62b8w62bb24b10ba4w4ba4-b2c2c80-ba5c8ca8-bb2888c4-we0e0e0/sett.png)|

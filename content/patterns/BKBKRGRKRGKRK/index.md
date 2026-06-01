@@ -16,5 +16,7 @@ BKBKRGRKRGKRK
 
 | Tartans |
 |---------------|
-| [Alyssa's Theme](/tartans/b/4/k26/b16/k4/dr2/n2/dr42/k2/dr2/n4/k16/dr26/k/4/)|
-|![Alyssa's Theme example sett](/variants/b/4/k26/b16/k4/dr2/n2/dr42/k2/dr2/n4/k16/dr26/k/4-b38558f-dr800300-k000000-n7d7d7d/sett.png)|
+| [Alyssa's Theme](/setts/s13/b4k26b16k4r2g2r42k2r2g4k16r26k4-b38558f-g7d7d7d-k000000-r800300/)|
+|![Alyssa's Theme example sett](/setts/s13/b4k26b16k4r2g2r42k2r2g4k16r26k4-b38558f-g7d7d7d-k000000-r800300/sett.png)|
+| [Alyssa's Theme Fashion Tartan Tartan Number: 10656. Earliest known date: 10/07/2012 This tartan was created for Alyssa Elliott as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b4k26b16k4r2g2r42k2r2g4k16r26k4-b38558f-g7d7d7d-k000000-r800300/)|
+|![Alyssa's Theme Fashion Tartan Tartan Number: 10656. Earliest known date: 10/07/2012 This tartan was created for Alyssa Elliott as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b4k26b16k4r2g2r42k2r2g4k16r26k4-b38558f-g7d7d7d-k000000-r800300/sett.png)|

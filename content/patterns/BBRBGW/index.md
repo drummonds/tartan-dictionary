@@ -6,7 +6,7 @@ BBRBGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/4/b18/dr2/db10/g10/n/4-b3474fc-db000064-dr8c0000-g007800-nc8c8c8/tartan.png)
+![Woven sample](/setts/s6/b8ba36r4b20g20w8-b000064-ba3474fc-g007800-r8c0000-wc8c8c8/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBRBGW
 
 | Tartans |
 |---------------|
-| [American Express](/tartans/db/4/b18/dr2/db10/g10/n/4/)|
-|![American Express example sett](/variants/db/4/b18/dr2/db10/g10/n/4-b3474fc-db000064-dr8c0000-g007800-nc8c8c8/sett.png)|
-| [American Express](/tartans/db/4/b18/dr2/db18/dg18/ln/4/)|
-|![American Express example sett](/variants/db/4/b18/dr2/db18/dg18/ln/4-b8080d0-db000050-dg003000-dr802040-lne0e0e0/sett.png)|
+| [American Express](/setts/s6/b8ba36r4b20g20w8-b000064-ba3474fc-g007800-r8c0000-wc8c8c8/)|
+|![American Express example sett](/setts/s6/b8ba36r4b20g20w8-b000064-ba3474fc-g007800-r8c0000-wc8c8c8/sett.png)|
+| [American Express (Corporate)](/setts/s6/b8ba36r4b20g20w8-b000064-ba3474fc-g007800-r8c0000-wc8c8c8/)|
+|![American Express (Corporate) example sett](/setts/s6/b8ba36r4b20g20w8-b000064-ba3474fc-g007800-r8c0000-wc8c8c8/sett.png)|
+| [American Express](/setts/s6/b8ba36r4b36g36w8-b000050-ba8080d0-g003000-r802040-we0e0e0/)|
+|![American Express example sett](/setts/s6/b8ba36r4b36g36w8-b000050-ba8080d0-g003000-r802040-we0e0e0/sett.png)|

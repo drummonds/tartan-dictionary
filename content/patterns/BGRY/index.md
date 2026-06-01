@@ -6,7 +6,7 @@ BGRY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/dp/8/g20/r2/y/2-dg003820-dp440044-g006818-p780078-rc80000-rac80000-ye8c000-yad8b000/tartan.png)
+![Woven sample](/setts/s4/b8g20r2y2-b440044-g006818-rc80000-ye8c000/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGRY
 
 | Tartans |
 |---------------|
-| [Wilson's No.192](/tartans/dp/8/g20/r2/y/2/)|
-|![Wilson's No.192 example sett](/variants/dp/8/g20/r2/y/2-dg003820-dp440044-g006818-p780078-rc80000-rac80000-ye8c000-yad8b000/sett.png)|
-| [Hirstwood (Name)](/tartans/dy/56/dr48/dg110/n/38/)|
-|![Hirstwood (Name) example sett](/variants/dy/56/dr48/dg110/n/38-dg003820-dr880000-dybc8c00-n503868/sett.png)|
-| [Wilson's, No 192](/tartans/p/8/g20/r2/y/2/)|
-|![Wilson's, No 192 example sett](/variants/p/8/g20/r2/y/2-g008000-p800080-rc00000-yf0c000/sett.png)|
+| [Wilson's No.192](/setts/s4/b8g20r2y2-b440044-g006818-rc80000-ye8c000/)|
+|![Wilson's No.192 example sett](/setts/s4/b8g20r2y2-b440044-g006818-rc80000-ye8c000/sett.png)|
+| [Hirstwood (Name)](/setts/s4/b38g110r48y56-b503868-g003820-r880000-ybc8c00/)|
+|![Hirstwood (Name) example sett](/setts/s4/b38g110r48y56-b503868-g003820-r880000-ybc8c00/sett.png)|
+| [Wilson's, No 192](/setts/s4/b8g20r2y2-b800080-g008000-rc00000-yf0c000/)|
+|![Wilson's, No 192 example sett](/setts/s4/b8g20r2y2-b800080-g008000-rc00000-yf0c000/sett.png)|

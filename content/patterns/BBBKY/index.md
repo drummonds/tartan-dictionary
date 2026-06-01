@@ -6,7 +6,7 @@ BBBKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/dn/136/b14/dn32/k32/lt/8-b5c8ca8-dn14283c-k101010-lta08858/tartan.png)
+![Woven sample](/setts/s5/b136ba14b32k32y8-b14283c-ba5c8ca8-k101010-ya08858/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBKY
 
 | Tartans |
 |---------------|
-| [Burnetts & Struth](/tartans/dn/136/b14/dn32/k32/lt/8/)|
-|![Burnetts & Struth example sett](/variants/dn/136/b14/dn32/k32/lt/8-b5c8ca8-dn14283c-k101010-lta08858/sett.png)|
-| [Burnett's & Struth (Corporate)](/tartans/b/136/ba14/b32/k32/dy/8/)|
-|![Burnett's & Struth (Corporate) example sett](/variants/b/136/ba14/b32/k32/dy/8-b24486c-ba1870a4-dybc8c00-k101010/sett.png)|
+| [Burnetts & Struth](/setts/s5/b136ba14b32k32y8-b14283c-ba5c8ca8-k101010-ya08858/)|
+|![Burnetts & Struth example sett](/setts/s5/b136ba14b32k32y8-b14283c-ba5c8ca8-k101010-ya08858/sett.png)|
+| [Burnett's & Struth (Corporate)](/setts/s5/b136ba14b32k32y8-b24486c-ba1870a4-k101010-ybc8c00/)|
+|![Burnett's & Struth (Corporate) example sett](/setts/s5/b136ba14b32k32y8-b24486c-ba1870a4-k101010-ybc8c00/sett.png)|

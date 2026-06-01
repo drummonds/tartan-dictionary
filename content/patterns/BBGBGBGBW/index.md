@@ -16,7 +16,7 @@ BBGBGBGBW
 
 | Tartans |
 |---------------|
-| [Tamer of Wolves](/tartans/b/8/n6/t26/n30/t18/n12/t16/b4/w/18/)|
-|![Tamer of Wolves example sett](/variants/b/8/n6/t26/n30/t18/n12/t16/b4/w/18-b0000cd-n666666-t603311-wffffff/sett.png)|
-| [Tamer of Wolves (Fashion)](/tartans/db/8/n6/t26/n30/t18/n12/t16/db4/ln/18/)|
-|![Tamer of Wolves (Fashion) example sett](/variants/db/8/n6/t26/n30/t18/n12/t16/db4/ln/18-db2c2c80-lne0e0e0-n5c5c5c-t604000/sett.png)|
+| [Tamer of Wolves](/setts/s9/b8ba6g26ba30g18ba12g16b4w18-b0000cd-ba666666-g603311-wffffff/)|
+|![Tamer of Wolves example sett](/setts/s9/b8ba6g26ba30g18ba12g16b4w18-b0000cd-ba666666-g603311-wffffff/sett.png)|
+| [Tamer of Wolves (Fashion)](/setts/s9/b8ba6g26ba30g18ba12g16b4w18-b2c2c80-ba5c5c5c-g604000-we0e0e0/)|
+|![Tamer of Wolves (Fashion) example sett](/setts/s9/b8ba6g26ba30g18ba12g16b4w18-b2c2c80-ba5c5c5c-g604000-we0e0e0/sett.png)|

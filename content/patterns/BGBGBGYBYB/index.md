@@ -16,5 +16,5 @@ BGBGBGYBYB
 
 | Tartans |
 |---------------|
-| [Rice (Welsh Name)](/tartans/db/8/dy42/db2/dy42/g16/dba8/g10/dba8/g8/db/8/)|
-|![Rice (Welsh Name) example sett](/variants/db/8/dy42/db2/dy42/g16/dba8/g10/dba8/g8/db/8-db003c64-dba202060-dybc8c00-g5c6428-ga5c6428/sett.png)|
+| [Rice (Welsh Name)](/setts/s10/b4g4ba4g5ba4g8y21b1y21b4-b003c64-ba202060-g5c6428-ybc8c00/)|
+|![Rice (Welsh Name) example sett](/setts/s10/b4g4ba4g5ba4g8y21b1y21b4-b003c64-ba202060-g5c6428-ybc8c00/sett.png)|

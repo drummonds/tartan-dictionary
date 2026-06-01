@@ -16,5 +16,5 @@ BGBGBBBBR
 
 | Tartans |
 |---------------|
-| [Burt Family](/tartans/p/4/g26/db16/g6/db66/t6/db16/t26/r/4/)|
-|![Burt Family example sett](/variants/p/4/g26/db16/g6/db66/t6/db16/t26/r/4-db000080-g006400-p551a8b-rdc0000-t5c4033/sett.png)|
+| [Burt Family](/setts/s9/b4g26ba16g6ba66bb6ba16bb26r4-b551a8b-ba000080-bb5c4033-g006400-rdc0000/)|
+|![Burt Family example sett](/setts/s9/b4g26ba16g6ba66bb6ba16bb26r4-b551a8b-ba000080-bb5c4033-g006400-rdc0000/sett.png)|

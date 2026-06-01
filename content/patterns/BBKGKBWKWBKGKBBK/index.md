@@ -16,5 +16,5 @@ BBKGKBWKWBKGKBBK
 
 | Tartans |
 |---------------|
-| [South Lanarkshire](/tartans/b/2/dba14/k2/ga12/k2/p14/ln2/k4/ln2/p14/k2/ga12/k2/dba14/b2/k/2/)|
-|![South Lanarkshire example sett](/variants/b/2/dba14/k2/ga12/k2/p14/ln2/k4/ln2/p14/k2/ga12/k2/dba14/b2/k/2-b2888c4-ba1474b4-db202060-dba2c2c80-g285800-ga006818-k101010-lne0e0e0-p780078/sett.png)|
+| [South Lanarkshire](/setts/s16/b4ba28k4g24k4bb28w4k8w4bb28k4g24k4ba28b4k4-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/)|
+|![South Lanarkshire example sett](/setts/s16/b4ba28k4g24k4bb28w4k8w4bb28k4g24k4ba28b4k4-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/sett.png)|

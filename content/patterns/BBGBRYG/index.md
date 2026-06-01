@@ -6,7 +6,7 @@ BBGBRYG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/60/b20/n20/db10/dr6/lg6/g/6-b576982-db172d60-dra20d22-g588658-lgf9c75c-n75786c/tartan.png)
+![Woven sample](/setts/s7/b60ba20g20b10r6y6ga6-b172d60-ba576982-g75786c-ga588658-ra20d22-yf9c75c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGBRYG
 
 | Tartans |
 |---------------|
-| [Wrigglesworth Family Canada (Personal)](/tartans/db/60/b20/n20/db10/dr6/lg6/g/6/)|
-|![Wrigglesworth Family Canada (Personal) example sett](/variants/db/60/b20/n20/db10/dr6/lg6/g/6-b576982-db172d60-dra20d22-g588658-lgf9c75c-n75786c/sett.png)|
+| [Wrigglesworth Family Canada (Personal)](/setts/s7/b60ba20g20b10r6y6ga6-b172d60-ba576982-g75786c-ga588658-ra20d22-yf9c75c/)|
+|![Wrigglesworth Family Canada (Personal) example sett](/setts/s7/b60ba20g20b10r6y6ga6-b172d60-ba576982-g75786c-ga588658-ra20d22-yf9c75c/sett.png)|

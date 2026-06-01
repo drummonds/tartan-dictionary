@@ -16,5 +16,7 @@ BBBBBYBBBBBBBBBBR
 
 | Tartans |
 |---------------|
-| [Fulbright, Senator (Personal)](/tartans/dba/4/db4/b8/dba4/b12/na8/b10/dba4/db8/dba12/db8/n4/dba4/db24/dba4/db6/r/2/)|
-|![Fulbright, Senator (Personal) example sett](/variants/dba/4/db4/b8/dba4/b12/na8/b10/dba4/db8/dba12/db8/n4/dba4/db24/dba4/db6/r/2-b507c94-db2c2c80-dba1c0070-n5c5c5c-naa0a0a0-rc8002c/sett.png)|
+| [Fulbright, Senator (Personal)](/setts/s17/b4ba4bb8b4bb12y8bb10b4ba8b12ba8bc4b4ba24b4ba6r2-b1c0070-ba2c2c80-bb507c94-bc5c5c5c-rc8002c-ya0a0a0/)|
+|![Fulbright, Senator (Personal) example sett](/setts/s17/b4ba4bb8b4bb12y8bb10b4ba8b12ba8bc4b4ba24b4ba6r2-b1c0070-ba2c2c80-bb507c94-bc5c5c5c-rc8002c-ya0a0a0/sett.png)|
+| [Fulbright, Senator (Personal)](/setts/s17/b4ba4bb8b4bb12y8bb10b4ba8b12ba8bc4b4ba24b4ba6r2-b1c0070-ba2c2c80-bb507c94-bc5c5c5c-rc8002c-ya0a0a0/)|
+|![Fulbright, Senator (Personal) example sett](/setts/s17/b4ba4bb8b4bb12y8bb10b4ba8b12ba8bc4b4ba24b4ba6r2-b1c0070-ba2c2c80-bb507c94-bc5c5c5c-rc8002c-ya0a0a0/sett.png)|

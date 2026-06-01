@@ -6,7 +6,7 @@ BGBGBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/18/t24/db88/t24/db18/dr/6-db2c2c80-dr901c38-t604000/tartan.png)
+![Woven sample](/setts/s6/b18g24b88g24b18r6-b2c2c80-g604000-r901c38/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGBR
 
 | Tartans |
 |---------------|
-| [Elliot](/tartans/db/18/t24/db88/t24/db18/dr/6/)|
-|![Elliot example sett](/variants/db/18/t24/db88/t24/db18/dr/6-db2c2c80-dr901c38-t604000/sett.png)|
+| [Elliot](/setts/s6/b18g24b88g24b18r6-b2c2c80-g604000-r901c38/)|
+|![Elliot example sett](/setts/s6/b18g24b88g24b18r6-b2c2c80-g604000-r901c38/sett.png)|

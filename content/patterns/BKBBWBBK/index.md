@@ -6,7 +6,7 @@ BKBBWBBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/k/20/ka32/n2/na4/n2/ka32/k20/n/104-k000000-ka3c2010-n646464-nac8c8c8/tartan.png)
+![Woven sample](/setts/s8/b104k20ba32b2w4b2ba32k20-b646464-ba3c2010-k000000-wc8c8c8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBBWBBK
 
 | Tartans |
 |---------------|
-| [Wcwm 1163](/tartans/k/20/ka32/n2/na4/n2/ka32/k20/n/104/)|
-|![Wcwm 1163 example sett](/variants/k/20/ka32/n2/na4/n2/ka32/k20/n/104-k000000-ka3c2010-n646464-nac8c8c8/sett.png)|
+| [Wcwm 1163](/setts/s8/b104k20ba32b2w4b2ba32k20-b646464-ba3c2010-k000000-wc8c8c8/)|
+|![Wcwm 1163 example sett](/setts/s8/b104k20ba32b2w4b2ba32k20-b646464-ba3c2010-k000000-wc8c8c8/sett.png)|

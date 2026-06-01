@@ -16,5 +16,5 @@ BKGGYGYGGK
 
 | Tartans |
 |---------------|
-| [U.S. Army](/tartans/db/12/k34/lt8/gb102/y6/g8/y6/gb102/lt8/k/34/)|
-|![U.S. Army example sett](/variants/db/12/k34/lt8/gb102/y6/g8/y6/gb102/lt8/k/34-db2c2c80-g408060-ga00643c-gb006818-k101010-lt8c7038-ye8c000/sett.png)|
+| [U.S. Army](/setts/s10/b12k34g8ga102y6gb8y6ga102g8k34-b2c2c80-g8c7038-ga006818-gb408060-k101010-ye8c000/)|
+|![U.S. Army example sett](/setts/s10/b12k34g8ga102y6gb8y6ga102g8k34-b2c2c80-g8c7038-ga006818-gb408060-k101010-ye8c000/sett.png)|

@@ -6,7 +6,7 @@ BGBBBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/6/g22/ba4/b22/bb12/g/6-b2c4084-ba3c82af-bb0596fa-g005020/tartan.png)
+![Woven sample](/setts/s6/b6g22ba4b22bb12g6-b2c4084-ba3c82af-bb0596fa-g005020/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBBBG
 
 | Tartans |
 |---------------|
-| [Unidentified No 29](/tartans/b/6/g22/ba4/b22/bb12/g/6/)|
-|![Unidentified No 29 example sett](/variants/b/6/g22/ba4/b22/bb12/g/6-b2c4084-ba3c82af-bb0596fa-g005020/sett.png)|
-| [Unnamed, No 29](/tartans/ba/6/g22/bb4/ba22/b12/g/6/)|
-|![Unnamed, No 29 example sett](/variants/ba/6/g22/bb4/ba22/b12/g/6-b8080d0-ba304080-bb5480b0-g008000/sett.png)|
+| [Unidentified No 29](/setts/s6/b6g22ba4b22bb12g6-b2c4084-ba3c82af-bb0596fa-g005020/)|
+|![Unidentified No 29 example sett](/setts/s6/b6g22ba4b22bb12g6-b2c4084-ba3c82af-bb0596fa-g005020/sett.png)|
+| [Unnamed, No 29](/setts/s6/b6g22ba4b22bb12g6-b304080-ba5480b0-bb8080d0-g008000/)|
+|![Unnamed, No 29 example sett](/setts/s6/b6g22ba4b22bb12g6-b304080-ba5480b0-bb8080d0-g008000/sett.png)|

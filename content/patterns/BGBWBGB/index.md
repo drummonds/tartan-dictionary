@@ -6,7 +6,7 @@ BGBWBGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/2/g8/db8/n2/db8/g24/db/2-db1c0070-g006818-nc0c0c0/tartan.png)
+![Woven sample](/setts/s7/b4g16b16w4b16g48b4-b1c0070-g006818-wc0c0c0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBWBGB
 
 | Tartans |
 |---------------|
-| [St. Dennis & Cranley School](/tartans/db/2/g8/db8/n2/db8/g24/db/2/)|
-|![St. Dennis & Cranley School example sett](/variants/db/2/g8/db8/n2/db8/g24/db/2-db1c0070-g006818-nc0c0c0/sett.png)|
+| [St. Dennis & Cranley School](/setts/s7/b4g16b16w4b16g48b4-b1c0070-g006818-wc0c0c0/)|
+|![St. Dennis & Cranley School example sett](/setts/s7/b4g16b16w4b16g48b4-b1c0070-g006818-wc0c0c0/sett.png)|
+| [St. Dennis & Cranley (Corporate)](/setts/s7/b4g16b16w4b16g48b4-b1c0070-g006818-wc0c0c0/)|
+|![St. Dennis & Cranley (Corporate) example sett](/setts/s7/b4g16b16w4b16g48b4-b1c0070-g006818-wc0c0c0/sett.png)|

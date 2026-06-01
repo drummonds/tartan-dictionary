@@ -16,5 +16,5 @@ BBRBRBBBBBBR
 
 | Tartans |
 |---------------|
-| [Thomas Blake Glover](/tartans/b/8/dr32/lt12/dr32/lt12/dr32/b16/dr12/b8/dr32/b4/lt/2/)|
-|![Thomas Blake Glover example sett](/variants/b/8/dr32/lt12/dr32/lt12/dr32/b16/dr12/b8/dr32/b4/lt/2-b304080-dr600030-lt906030/sett.png)|
+| [Thomas Blake Glover](/setts/s12/b8ba32r12ba32r12ba32b16ba12b8ba32b4r2-b304080-ba600030-r906030/)|
+|![Thomas Blake Glover example sett](/setts/s12/b8ba32r12ba32r12ba32b16ba12b8ba32b4r2-b304080-ba600030-r906030/sett.png)|

@@ -16,5 +16,7 @@ BBKGBGBGW
 
 | Tartans |
 |---------------|
-| [Ebdon-Muir (Personal)](/tartans/ly/8/g20/p4/g20/p4/g20/k30/db80/p/8/)|
-|![Ebdon-Muir (Personal) example sett](/variants/ly/8/g20/p4/g20/p4/g20/k30/db80/p/8-db00009c-g006400-k101010-lyffffaa-p551a8b/sett.png)|
+| [Ebdon-Muir (Personal)](/setts/s9/b8ba80k30g20b4g20b4g20w8-b551a8b-ba00009c-g006400-k101010-wffffaa/)|
+|![Ebdon-Muir (Personal) example sett](/setts/s9/b8ba80k30g20b4g20b4g20w8-b551a8b-ba00009c-g006400-k101010-wffffaa/sett.png)|
+| [Ebdon Muir (Personal)](/setts/s9/b8ba80k30g20b4g20b4g20w8-b780078-ba000058-g00801c-k101010-wf0f0c4/)|
+|![Ebdon Muir (Personal) example sett](/setts/s9/b8ba80k30g20b4g20b4g20w8-b780078-ba000058-g00801c-k101010-wf0f0c4/sett.png)|

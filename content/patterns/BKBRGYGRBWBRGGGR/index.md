@@ -16,5 +16,5 @@ BKBRGYGRBWBRGGGR
 
 | Tartans |
 |---------------|
-| [Amnesty](/tartans/db/42/k5/db42/do32/g42/dy5/g42/do32/db42/ln5/db42/do32/g42/t5/g42/do/32/)|
-|![Amnesty example sett](/variants/db/42/k5/db42/do32/g42/dy5/g42/do32/db42/ln5/db42/do32/g42/t5/g42/do/32-db242468-dob84c00-dybc8c00-g005010-k101010-lne0e0e0-lrec34c4-rc80000-t604000-ye8a800/sett.png)|
+| [Amnesty](/setts/s16/b42k5b42r32g42y5g42r32b42w5b42r32g42ga5g42r32-b242468-g005010-ga604000-k101010-rb84c00-we0e0e0-ybc8c00/)|
+|![Amnesty example sett](/setts/s16/b42k5b42r32g42y5g42r32b42w5b42r32g42ga5g42r32-b242468-g005010-ga604000-k101010-rb84c00-we0e0e0-ybc8c00/sett.png)|

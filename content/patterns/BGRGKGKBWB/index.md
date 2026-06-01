@@ -16,5 +16,5 @@ BGRGKGKBWB
 
 | Tartans |
 |---------------|
-| [Big Rory (Corporate)](/tartans/b/10/ln5/b48/k35/g5/k5/g35/r5/g5/p/5/)|
-|![Big Rory (Corporate) example sett](/variants/b/10/ln5/b48/k35/g5/k5/g35/r5/g5/p/5-b2c607c-g006818-k101010-lne0e0e0-p780078-rc80000/sett.png)|
+| [Big Rory (Corporate)](/setts/s10/b10w5b48k35g5k5g35r5g5ba5-b2c607c-ba780078-g006818-k101010-rc80000-we0e0e0/)|
+|![Big Rory (Corporate) example sett](/setts/s10/b10w5b48k35g5k5g35r5g5ba5-b2c607c-ba780078-g006818-k101010-rc80000-we0e0e0/sett.png)|

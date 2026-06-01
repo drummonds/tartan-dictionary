@@ -6,7 +6,7 @@ BBWBWYBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/ln/6/dn18/y2/lp6/p18/lp2/dn80/p/4-dn14283c-lne0e0e0-lpa8ace8-p780078-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b4ba80w2b18w6y2ba18wa6-b780078-ba14283c-wa8ace8-wae0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBWBWYBW
 
 | Tartans |
 |---------------|
-| [Parkin](/tartans/ln/6/dn18/y2/lp6/p18/lp2/dn80/p/4/)|
-|![Parkin example sett](/variants/ln/6/dn18/y2/lp6/p18/lp2/dn80/p/4-dn14283c-lne0e0e0-lpa8ace8-p780078-ye8c000/sett.png)|
+| [Parkin](/setts/s8/b4ba80w2b18w6y2ba18wa6-b780078-ba14283c-wa8ace8-wae0e0e0-ye8c000/)|
+|![Parkin example sett](/setts/s8/b4ba80w2b18w6y2ba18wa6-b780078-ba14283c-wa8ace8-wae0e0e0-ye8c000/sett.png)|
+| [Parkin (Personal)](/setts/s8/b4ba80w2b18w6y2ba18wa6-b780078-ba14283c-wa8ace8-wae0e0e0-ye8c000/)|
+|![Parkin (Personal) example sett](/setts/s8/b4ba80w2b18w6y2ba18wa6-b780078-ba14283c-wa8ace8-wae0e0e0-ye8c000/sett.png)|

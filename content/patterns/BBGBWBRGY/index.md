@@ -16,5 +16,7 @@ BBGBWBRGY
 
 | Tartans |
 |---------------|
-| [Millennium (Langholm)](/tartans/dp/70/dn4/t2/dn2/n2/dn10/dr4/g10/dy/8/)|
-|![Millennium (Langholm) example sett](/variants/dp/70/dn4/t2/dn2/n2/dn10/dr4/g10/dy/8-dn14283c-dp440044-dr880000-dyd09800-g006818-nc0c0c0-t604000/sett.png)|
+| [Millennium (Langholm)](/setts/s9/b70ba4g2ba2w2ba10r4ga10y8-b440044-ba14283c-g604000-ga006818-r880000-wc0c0c0-yd09800/)|
+|![Millennium (Langholm) example sett](/setts/s9/b70ba4g2ba2w2ba10r4ga10y8-b440044-ba14283c-g604000-ga006818-r880000-wc0c0c0-yd09800/sett.png)|
+| [Millennium (Langholm) (Corporate)](/setts/s9/b70ba4g2ba2w2ba10r4ga10y8-b440044-ba14283c-g604000-ga006818-r880000-wc0c0c0-yd09800/)|
+|![Millennium (Langholm) (Corporate) example sett](/setts/s9/b70ba4g2ba2w2ba10r4ga10y8-b440044-ba14283c-g604000-ga006818-r880000-wc0c0c0-yd09800/sett.png)|

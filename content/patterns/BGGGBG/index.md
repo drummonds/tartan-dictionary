@@ -6,7 +6,7 @@ BGGGBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/g/4/pa4/g40/g4/g4/p/2-g006818-p6c0070-pa6c0070/tartan.png)
+![Woven sample](/setts/s6/b4g8g8g80b8g8-b6c0070-g006818/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGGBG
 
 | Tartans |
 |---------------|
-| [Walters (Personal)](/tartans/g/4/pa4/g40/g4/g4/p/2/)|
-|![Walters (Personal) example sett](/variants/g/4/pa4/g40/g4/g4/p/2-g006818-p6c0070-pa6c0070/sett.png)|
+| [Walters (Personal)](/setts/s6/b4g8g8g80b8g8-b6c0070-g006818/)|
+|![Walters (Personal) example sett](/setts/s6/b4g8g8g80b8g8-b6c0070-g006818/sett.png)|

@@ -16,5 +16,5 @@ BKBBKYGBBKW
 
 | Tartans |
 |---------------|
-| [Veere (District)](/tartans/db/12/k4/b4/db16/k36/dy4/g40/db16/b6/k20/n/12/)|
-|![Veere (District) example sett](/variants/db/12/k4/b4/db16/k36/dy4/g40/db16/b6/k20/n/12-b346488-db2c2c80-dyc88c00-g006818-k000000-nc8c8c8/sett.png)|
+| [Veere (District)](/setts/s11/b12k4ba4b16k36y4g40b16ba6k20w12-b2c2c80-ba346488-g006818-k000000-wc8c8c8-yc88c00/)|
+|![Veere (District) example sett](/setts/s11/b12k4ba4b16k36y4g40b16ba6k20w12-b2c2c80-ba346488-g006818-k000000-wc8c8c8-yc88c00/sett.png)|

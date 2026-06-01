@@ -16,5 +16,5 @@ BGBGGBGGBGGBGGBGGBGRGWBRGRWRGR
 
 | Tartans |
 |---------------|
-| [Unidentified Victorian fancy](/tartans/b/12/g12/b4/t20/g12/b4/t20/g12/b4/t20/g12/b4/t20/g12/b4/t20/g12/b11/t24/r4/t4/ln2/dg20/ra8/t4/ra5/ln4/ra5/t4/ra/8/)|
-|![Unidentified Victorian fancy example sett](/variants/b/12/g12/b4/t20/g12/b4/t20/g12/b4/t20/g12/b4/t20/g12/b4/t20/g12/b11/t24/r4/t4/ln2/dg20/ra8/t4/ra5/ln4/ra5/t4/ra/8-b2c4084-dg002814-g309c18-lne0e0e0-rfa4b00-rac82828-t503c14/sett.png)|
+| [Unidentified Victorian fancy](/setts/s30/b12g12b4ga20g12b4ga20g12b4ga20g12b4ga20g12b4ga20g12b11ga24r4ga4w2ba20ra8ga4ra5w4ra5ga4ra8-b2c4084-ba002814-g309c18-ga503c14-rfa4b00-rac82828-we0e0e0/)|
+|![Unidentified Victorian fancy example sett](/setts/s30/b12g12b4ga20g12b4ga20g12b4ga20g12b4ga20g12b4ga20g12b11ga24r4ga4w2ba20ra8ga4ra5w4ra5ga4ra8-b2c4084-ba002814-g309c18-ga503c14-rfa4b00-rac82828-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ BBBGGGGBGBB
 
 | Tartans |
 |---------------|
-| [Fabric of Scotland (Prickly Thistle), The](/tartans/p/46/p38/g22/p10/g8/dg58/dga38/ga48/pc4/pa16/pb/46/)|
-|![Fabric of Scotland (Prickly Thistle), The example sett](/variants/p/46/p38/g22/p10/g8/dg58/dga38/ga48/pc4/pa16/pb/46-dg003c14-dga004028-g767e52-ga5c6428-paa00ff-pa6c0070-pb780078-pc5a008c/sett.png)|
+| [Fabric of Scotland (Prickly Thistle), The](/setts/s11/b46ba16bb4g48ga38gb58gc8bc10gc22bc38bc46-b780078-ba6c0070-bb5a008c-bcaa00ff-g5c6428-ga004028-gb003c14-gc767e52/)|
+|![Fabric of Scotland (Prickly Thistle), The example sett](/setts/s11/b46ba16bb4g48ga38gb58gc8bc10gc22bc38bc46-b780078-ba6c0070-bb5a008c-bcaa00ff-g5c6428-ga004028-gb003c14-gc767e52/sett.png)|

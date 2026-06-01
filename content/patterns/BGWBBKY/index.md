@@ -6,7 +6,7 @@ BGWBBKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/ly/16/m6/b4/t2/w12/lg24/t/4-b5f749c-lg649848-lyf8e38c-t3d3134-wf9f5ef/tartan.png)
+![Woven sample](/setts/s7/b4g24w12b2ba4k6y16-b3d3134-ba5f749c-g649848-k000000-wf9f5ef-yf8e38c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGWBBKY
 
 | Tartans |
 |---------------|
-| [Carmen Lau (Hong Kong) (Personal)](/tartans/ly/16/m6/b4/t2/w12/lg24/t/4/)|
-|![Carmen Lau (Hong Kong) (Personal) example sett](/variants/ly/16/m6/b4/t2/w12/lg24/t/4-b5f749c-lg649848-lyf8e38c-t3d3134-wf9f5ef/sett.png)|
+| [Carmen Lau (Hong Kong) (Personal)](/setts/s7/b4g24w12b2ba4k6y16-b3d3134-ba5f749c-g649848-k000000-wf9f5ef-yf8e38c/)|
+|![Carmen Lau (Hong Kong) (Personal) example sett](/setts/s7/b4g24w12b2ba4k6y16-b3d3134-ba5f749c-g649848-k000000-wf9f5ef-yf8e38c/sett.png)|

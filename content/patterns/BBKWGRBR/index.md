@@ -6,7 +6,7 @@ BBKWGRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/4/db44/k32/ln2/g52/r8/db8/r/9-b1474b4-db003c64-g006818-k101010-lne0e0e0-rc80000/tartan.png)
+![Woven sample](/setts/s8/b4ba44k32w2g52r8ba8r9-b1474b4-ba003c64-g006818-k101010-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKWGRBR
 
 | Tartans |
 |---------------|
-| [Highland Wedding (Fashion)](/tartans/b/4/db44/k32/ln2/g52/r8/db8/r/9/)|
-|![Highland Wedding (Fashion) example sett](/variants/b/4/db44/k32/ln2/g52/r8/db8/r/9-b1474b4-db003c64-g006818-k101010-lne0e0e0-rc80000/sett.png)|
+| [Highland Wedding (Fashion)](/setts/s8/b4ba44k32w2g52r8ba8r9-b1474b4-ba003c64-g006818-k101010-rc80000-we0e0e0/)|
+|![Highland Wedding (Fashion) example sett](/setts/s8/b4ba44k32w2g52r8ba8r9-b1474b4-ba003c64-g006818-k101010-rc80000-we0e0e0/sett.png)|

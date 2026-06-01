@@ -6,7 +6,7 @@ BKBKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/6/k66/db42/k36/g46/k/10-db202060-g006818-k101010/tartan.png)
+![Woven sample](/setts/s6/b6k66b42k36g46k10-b202060-g006818-k101010/tartan.png)
 
 
 
@@ -18,21 +18,27 @@ BKBKGK
 
 | Tartans |
 |---------------|
-| [Black Watch (variation)](/tartans/db/6/k66/db42/k36/g46/k/10/)|
-|![Black Watch (variation) example sett](/variants/db/6/k66/db42/k36/g46/k/10-db202060-g006818-k101010/sett.png)|
-| [Campbell, The 42nd](/tartans/b/12/k12/b36/k36/g44/k/10/)|
-|![Campbell, The 42nd example sett](/variants/b/12/k12/b36/k36/g44/k/10-b1474b4-db2c2c80-g006818-k101010/sett.png)|
-| [Sutherland 42nd](/tartans/b/2/k2/b6/k6/g6/k/2/)|
-|![Sutherland 42nd example sett](/variants/b/2/k2/b6/k6/g6/k/2-b2c4084-g005020-k101010/sett.png)|
-| [Black Watch (smallest sett)](/tartans/dba/2/k2/dba12/k12/ga12/k/2/)|
-|![Black Watch (smallest sett) example sett](/variants/dba/2/k2/dba12/k12/ga12/k/2-b1474b4-db00008c-dba1c1c50-dg003820-g007800-ga285800-k000000-ye8c000/sett.png)|
-| [Brown Watch (single tramlines)](/tartans/dr/14/k4/dr24/k20/dg24/k/6/)|
-|![Brown Watch (single tramlines) example sett](/variants/dr/14/k4/dr24/k20/dg24/k/6-dg003820-dr481c04-k101010/sett.png)|
-| [Wartley Htg (Fashion)](/tartans/db/8/k4/db32/k20/g36/k/6/)|
-|![Wartley Htg (Fashion) example sett](/variants/db/8/k4/db32/k20/g36/k/6-db000088-g007800-k000000/sett.png)|
-| [Black Watch](/tartans/b/6/k66/b42/k36/g46/k/10/)|
-|![Black Watch example sett](/variants/b/6/k66/b42/k36/g46/k/10-b304080-g008000-k000000/sett.png)|
-| [Campbell, the 42nd](/tartans/b/6/k6/b18/k18/g22/k/5/)|
-|![Campbell, the 42nd example sett](/variants/b/6/k6/b18/k18/g22/k/5-b304080-g008000-k000000/sett.png)|
-| [Monarchs Corporate Sport Tartan Tartan Number: 2222. Earliest known date: 2002 Designed by Enid Brown of Lyle & Scott Ltd for Gleneagles Golf Developments. To be used for golf clothing and accessories. The Monarch's Course, created in the early 1990's by Jack Nicklaus, was renamed The PGA Centenary Course in February 2001 to celebrate the centenary year of The Professional Golfer's Association and is the selected venue for the 2014 Ryder Cup. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/38/k8/dr2/k8/g18/w/2/)|
-|![Monarchs Corporate Sport Tartan Tartan Number: 2222. Earliest known date: 2002 Designed by Enid Brown of Lyle & Scott Ltd for Gleneagles Golf Developments. To be used for golf clothing and accessories. The Monarch's Course, created in the early 1990's by Jack Nicklaus, was renamed The PGA Centenary Course in February 2001 to celebrate the centenary year of The Professional Golfer's Association and is the selected venue for the 2014 Ryder Cup. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/38/k8/dr2/k8/g18/w/2-db2c2c80-dr680028-g005448-k101010/sett.png)|
+| [Black Watch (variation)](/setts/s6/b6k66b42k36g46k10-b202060-g006818-k101010/)|
+|![Black Watch (variation) example sett](/setts/s6/b6k66b42k36g46k10-b202060-g006818-k101010/sett.png)|
+| [Campbell, The 42nd](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/)|
+|![Campbell, The 42nd example sett](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/sett.png)|
+| [Sutherland 42nd](/setts/s6/b4k4b12k12g12k4-b2c4084-g005020-k101010/)|
+|![Sutherland 42nd example sett](/setts/s6/b4k4b12k12g12k4-b2c4084-g005020-k101010/sett.png)|
+| [Black Watch (smallest sett)](/setts/s6/b4k4b24k24g24k4-b1c1c50-g285800-k000000/)|
+|![Black Watch (smallest sett) example sett](/setts/s6/b4k4b24k24g24k4-b1c1c50-g285800-k000000/sett.png)|
+| [Brown Watch (single tramlines)](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/)|
+|![Brown Watch (single tramlines) example sett](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/sett.png)|
+| [Campbell, The 42nd (Military)](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/)|
+|![Campbell, The 42nd (Military) example sett](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/sett.png)|
+| [Wartley Htg (Fashion)](/setts/s6/b8k4b32k20g36k6-b000088-g007800-k000000/)|
+|![Wartley Htg (Fashion) example sett](/setts/s6/b8k4b32k20g36k6-b000088-g007800-k000000/sett.png)|
+| [Brown Watch (single) (Fashion)](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/)|
+|![Brown Watch (single) (Fashion) example sett](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/sett.png)|
+| [Black Watch](/setts/s6/b6k66b42k36g46k10-b304080-g008000-k000000/)|
+|![Black Watch example sett](/setts/s6/b6k66b42k36g46k10-b304080-g008000-k000000/sett.png)|
+| [Campbell, the 42nd](/setts/s6/b6k6b18k18g22k5-b304080-g008000-k000000/)|
+|![Campbell, the 42nd example sett](/setts/s6/b6k6b18k18g22k5-b304080-g008000-k000000/sett.png)|
+| [Sutherland, 42nd](/setts/s6/b4k4b12k12g12k4-b304080-g008000-k000000/)|
+|![Sutherland, 42nd example sett](/setts/s6/b4k4b12k12g12k4-b304080-g008000-k000000/sett.png)|
+| [Monarchs Corporate Sport Tartan Tartan Number: 2222. Earliest known date: 2002 Designed by Enid Brown of Lyle & Scott Ltd for Gleneagles Golf Developments. To be used for golf clothing and accessories. The Monarch's Course, created in the early 1990's by Jack Nicklaus, was renamed The PGA Centenary Course in February 2001 to celebrate the centenary year of The Professional Golfer's Association and is the selected venue for the 2014 Ryder Cup. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b76k16ba4k16g36ka4-b2c2c80-ba680028-g005448-k101010-ka000000/)|
+|![Monarchs Corporate Sport Tartan Tartan Number: 2222. Earliest known date: 2002 Designed by Enid Brown of Lyle & Scott Ltd for Gleneagles Golf Developments. To be used for golf clothing and accessories. The Monarch's Course, created in the early 1990's by Jack Nicklaus, was renamed The PGA Centenary Course in February 2001 to celebrate the centenary year of The Professional Golfer's Association and is the selected venue for the 2014 Ryder Cup. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b76k16ba4k16g36ka4-b2c2c80-ba680028-g005448-k101010-ka000000/sett.png)|

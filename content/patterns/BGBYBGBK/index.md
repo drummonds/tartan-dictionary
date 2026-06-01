@@ -6,7 +6,7 @@ BGBYBGBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/6/g26/dp24/y4/dp24/g26/b6/k/16-b5c8ca8-dg003820-dp440044-g006818-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b6g26ba24y4ba24g26b6k16-b5c8ca8-ba440044-g006818-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBYBGBK
 
 | Tartans |
 |---------------|
-| [Wilson's No.176](/tartans/b/6/g26/dp24/y4/dp24/g26/b6/k/16/)|
-|![Wilson's No.176 example sett](/variants/b/6/g26/dp24/y4/dp24/g26/b6/k/16-b5c8ca8-dg003820-dp440044-g006818-k101010-ye8c000/sett.png)|
+| [Wilson's No.176](/setts/s8/b6g26ba24y4ba24g26b6k16-b5c8ca8-ba440044-g006818-k101010-ye8c000/)|
+|![Wilson's No.176 example sett](/setts/s8/b6g26ba24y4ba24g26b6k16-b5c8ca8-ba440044-g006818-k101010-ye8c000/sett.png)|

@@ -16,5 +16,5 @@ BGBYBYBBBW
 
 | Tartans |
 |---------------|
-| [Highland, Blue (Corporate)](/tartans/p/8/g26/db10/y6/b12/y6/db10/n12/db56/w/4/)|
-|![Highland, Blue (Corporate) example sett](/variants/p/8/g26/db10/y6/b12/y6/db10/n12/db56/w/4-b5c8ca8-db2c2c80-g006818-n5c5c5c-p780078-wf8f8f8-ye8c000/sett.png)|
+| [Highland, Blue (Corporate)](/setts/s10/b8g26ba10y6bb12y6ba10bc12ba56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wf8f8f8-ye8c000/)|
+|![Highland, Blue (Corporate) example sett](/setts/s10/b8g26ba10y6bb12y6ba10bc12ba56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wf8f8f8-ye8c000/sett.png)|

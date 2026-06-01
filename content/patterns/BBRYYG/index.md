@@ -6,7 +6,7 @@ BBRYYG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/2/p2/r2/o2/y2/g/4-db2c2c80-g289c18-od87c00-p780078-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b36ba36r36y36ya36g72-b2c2c80-ba780078-g289c18-rc80000-yd87c00-yae8c000/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBRYYG
 
 | Tartans |
 |---------------|
-| [Rainbow (Gay Community)](/tartans/db/2/p2/r2/o2/y2/g/4/)|
-|![Rainbow (Gay Community) example sett](/variants/db/2/p2/r2/o2/y2/g/4-db2c2c80-g289c18-od87c00-p780078-rc80000-ye8c000/sett.png)|
-| [Rainbow](/tartans/b/2/p2/r2/o2/y2/g/4/)|
-|![Rainbow example sett](/variants/b/2/p2/r2/o2/y2/g/4-b304080-g30a010-off8500-p800080-rc00000-yf0c000/sett.png)|
+| [Rainbow (Gay Community)](/setts/s6/b36ba36r36y36ya36g72-b2c2c80-ba780078-g289c18-rc80000-yd87c00-yae8c000/)|
+|![Rainbow (Gay Community) example sett](/setts/s6/b36ba36r36y36ya36g72-b2c2c80-ba780078-g289c18-rc80000-yd87c00-yae8c000/sett.png)|
+| [Rainbow (Fashion)](/setts/s6/b36ba36r36y36ya36g72-b2c2c80-ba780078-g289c18-rc80000-yd87c00-yae8c000/)|
+|![Rainbow (Fashion) example sett](/setts/s6/b36ba36r36y36ya36g72-b2c2c80-ba780078-g289c18-rc80000-yd87c00-yae8c000/sett.png)|
+| [Rainbow](/setts/s6/b36ba36r36y36ya36g72-b304080-ba800080-g30a010-rc00000-yff8500-yaf0c000/)|
+|![Rainbow example sett](/setts/s6/b36ba36r36y36ya36g72-b304080-ba800080-g30a010-rc00000-yff8500-yaf0c000/sett.png)|

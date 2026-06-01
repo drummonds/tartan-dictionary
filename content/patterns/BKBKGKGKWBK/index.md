@@ -16,5 +16,5 @@ BKBKGKGKWBK
 
 | Tartans |
 |---------------|
-| [Wacker](/tartans/b/12/k6/b6/db25/dg25/k2/dg25/db25/ln2/b6/k/6/)|
-|![Wacker example sett](/variants/b/12/k6/b6/db25/dg25/k2/dg25/db25/ln2/b6/k/6-b304080-db000030-dg004010-k000000-lne0e0e0/sett.png)|
+| [Wacker](/setts/s11/b12k6b6ka25g25k2g25ka25w2b6k6-b304080-g004010-k000000-ka000030-we0e0e0/)|
+|![Wacker example sett](/setts/s11/b12k6b6ka25g25k2g25ka25w2b6k6-b304080-g004010-k000000-ka000030-we0e0e0/sett.png)|

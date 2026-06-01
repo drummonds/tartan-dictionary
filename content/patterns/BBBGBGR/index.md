@@ -6,7 +6,7 @@ BBBGBGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/6/b47/db22/g47/p4/g4/n/4-b1474b4-db202060-g006818-n888888-p780078/tartan.png)
+![Woven sample](/setts/s7/b6ba47b22g47bb4g4r4-b202060-ba1474b4-bb780078-g006818-r888888/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBGBGR
 
 | Tartans |
 |---------------|
-| [Boroughmuir](/tartans/db/6/b47/db22/g47/p4/g4/n/4/)|
-|![Boroughmuir example sett](/variants/db/6/b47/db22/g47/p4/g4/n/4-b1474b4-db202060-g006818-n888888-p780078/sett.png)|
+| [Boroughmuir](/setts/s7/b6ba47b22g47bb4g4r4-b202060-ba1474b4-bb780078-g006818-r888888/)|
+|![Boroughmuir example sett](/setts/s7/b6ba47b22g47bb4g4r4-b202060-ba1474b4-bb780078-g006818-r888888/sett.png)|

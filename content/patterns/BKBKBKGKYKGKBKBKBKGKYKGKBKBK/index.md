@@ -16,5 +16,5 @@ BKBKBKGKYKGKBKBKBKGKYKGKBKBK
 
 | Tartans |
 |---------------|
-| [Gordon Clan](/tartans/db/46/k6/db6/k6/db6/k34/ga44/k4/y8/k4/ga44/k34/db44/k6/db6/k6/db44/k34/ga44/k4/y8/k4/ga44/k34/db6/k6/db6/k/6/)|
-|![Gordon Clan example sett](/variants/db/46/k6/db6/k6/db6/k34/ga44/k4/y8/k4/ga44/k34/db44/k6/db6/k6/db44/k34/ga44/k4/y8/k4/ga44/k34/db6/k6/db6/k/6-b1474b4-db2c2c80-g285800-ga006818-k101010-ye8c000/sett.png)|
+| [Gordon Clan](/setts/s28/b46k6b6k6b6k34g44k4y8k4g44k34b44k6b6k6b44k34g44k4y8k4g44k34b6k6b6k6-b2c2c80-g006818-k101010-ye8c000/)|
+|![Gordon Clan example sett](/setts/s28/b46k6b6k6b6k34g44k4y8k4g44k34b44k6b6k6b44k34g44k4y8k4g44k34b6k6b6k6-b2c2c80-g006818-k101010-ye8c000/sett.png)|

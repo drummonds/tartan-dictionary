@@ -6,7 +6,7 @@ BKBYBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/104/k24/p36/y2/p2/y/8-db1c0070-dr880000-g006818-k101010-lpa8ace8-nc0c0c0-p6c0070-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b104k24ba36y2ba2y8-b1c0070-ba6c0070-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BKBYBY
 
 | Tartans |
 |---------------|
-| [British Energy](/tartans/db/104/k24/p36/y2/p2/y/8/)|
-|![British Energy example sett](/variants/db/104/k24/p36/y2/p2/y/8-db1c0070-dr880000-g006818-k101010-lpa8ace8-nc0c0c0-p6c0070-ye8c000/sett.png)|
-| [British Energy](/tartans/b/80/k28/p44/y2/p2/y/6/)|
-|![British Energy example sett](/variants/b/80/k28/p44/y2/p2/y/6-b0060b0-k000000-p800080-yf0c000/sett.png)|
+| [British Energy](/setts/s6/b104k24ba36y2ba2y8-b1c0070-ba6c0070-k101010-ye8c000/)|
+|![British Energy example sett](/setts/s6/b104k24ba36y2ba2y8-b1c0070-ba6c0070-k101010-ye8c000/sett.png)|
+| [British Energy (Corporate)](/setts/s6/b104k24ba36y2ba2y8-b1c0070-ba6c0070-k101010-ye8c000/)|
+|![British Energy (Corporate) example sett](/setts/s6/b104k24ba36y2ba2y8-b1c0070-ba6c0070-k101010-ye8c000/sett.png)|
+| [British Energy](/setts/s6/b80k28ba44y2ba2y6-b0060b0-ba800080-k000000-yf0c000/)|
+|![British Energy example sett](/setts/s6/b80k28ba44y2ba2y6-b0060b0-ba800080-k000000-yf0c000/sett.png)|

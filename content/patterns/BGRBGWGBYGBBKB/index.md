@@ -16,5 +16,5 @@ BGRBGWGBYGBBKB
 
 | Tartans |
 |---------------|
-| [Hyndman (Personal)](/tartans/b/24/g48/r10/k40/g8/ln4/g8/k42/y10/g48/b24/k8/ka4/k/8/)|
-|![Hyndman (Personal) example sett](/variants/b/24/g48/r10/k40/g8/ln4/g8/k42/y10/g48/b24/k8/ka4/k/8-b2c4084-g005020-k2a2303-ka101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
+| [Hyndman (Personal)](/setts/s14/b8k4b8ba24g48y10b42g8w4g8b40r10g48ba24-b2a2303-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Hyndman (Personal) example sett](/setts/s14/b8k4b8ba24g48y10b42g8w4g8b40r10g48ba24-b2a2303-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|

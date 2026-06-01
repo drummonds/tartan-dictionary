@@ -6,7 +6,7 @@ BKBKRKRK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/k/8/na42/k16/t10/k6/n6/k6/n/64-k101010-n5c5c5c-na888888-t98481c/tartan.png)
+![Woven sample](/setts/s8/b64k6b6k6r10k16ra42k8-b5c5c5c-k101010-r98481c-ra888888/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKRKRK
 
 | Tartans |
 |---------------|
-| [Speyside Grey (Fashion)](/tartans/k/8/na42/k16/t10/k6/n6/k6/n/64/)|
-|![Speyside Grey (Fashion) example sett](/variants/k/8/na42/k16/t10/k6/n6/k6/n/64-k101010-n5c5c5c-na888888-t98481c/sett.png)|
+| [Speyside Grey (Fashion)](/setts/s8/b64k6b6k6r10k16ra42k8-b5c5c5c-k101010-r98481c-ra888888/)|
+|![Speyside Grey (Fashion) example sett](/setts/s8/b64k6b6k6r10k16ra42k8-b5c5c5c-k101010-r98481c-ra888888/sett.png)|

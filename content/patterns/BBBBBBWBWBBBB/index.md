@@ -16,5 +16,5 @@ BBBBBBWBWBBBB
 
 | Tartans |
 |---------------|
-| [Grey Watch Dress (1989)](/tartans/n/4/k4/n24/k20/ln24/k6/ln24/k20/n4/k4/n4/k4/n/24/)|
-|![Grey Watch Dress (1989) example sett](/variants/n/4/k4/n24/k20/ln24/k6/ln24/k20/n4/k4/n4/k4/n/24-k1c1c1c-lne0e0e0-n5c5c5c/sett.png)|
+| [Grey Watch Dress (1989)](/setts/s13/b24ba4b4ba4b4ba20w24ba6w24ba20b24ba4b4-b5c5c5c-ba1c1c1c-we0e0e0/)|
+|![Grey Watch Dress (1989) example sett](/setts/s13/b24ba4b4ba4b4ba20w24ba6w24ba20b24ba4b4-b5c5c5c-ba1c1c1c-we0e0e0/sett.png)|

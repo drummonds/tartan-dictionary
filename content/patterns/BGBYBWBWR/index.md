@@ -16,5 +16,5 @@ BGBYBWBWR
 
 | Tartans |
 |---------------|
-| [Eastern States Exposition-West Springfield](/tartans/p/2/g2/b4/y2/b32/lb32/b2/w4/r/2/)|
-|![Eastern States Exposition-West Springfield example sett](/variants/p/2/g2/b4/y2/b32/lb32/b2/w4/r/2-b3474fc-g289c18-lb98c8e8-p6c0070-rc80000-wffffff-yffe600/sett.png)|
+| [Eastern States Exposition-West Springfield](/setts/s9/b4g4ba8y4ba64w64ba4wa8r4-b6c0070-ba3474fc-g289c18-rc80000-w98c8e8-waffffff-yffe600/)|
+|![Eastern States Exposition-West Springfield example sett](/setts/s9/b4g4ba8y4ba64w64ba4wa8r4-b6c0070-ba3474fc-g289c18-rc80000-w98c8e8-waffffff-yffe600/sett.png)|

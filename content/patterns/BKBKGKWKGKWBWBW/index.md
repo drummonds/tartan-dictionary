@@ -16,11 +16,13 @@ BKBKGKWKGKWBWBW
 
 | Tartans |
 |---------------|
-| [Forbes Dress](/tartans/db/4/k4/db16/k16/g24/k2/w4/k2/g24/k16/w6/db6/w28/db4/w/4/)|
-|![Forbes Dress example sett](/variants/db/4/k4/db16/k16/g24/k2/w4/k2/g24/k16/w6/db6/w28/db4/w/4-db2c2c80-g006818-k101010-wfcfcfc/sett.png)|
-| [Forbes Dress](/tartans/db/8/k4/db32/k24/g32/k4/n8/k4/g32/k24/n8/db8/n32/db4/n/2/)|
-|![Forbes Dress example sett](/variants/db/8/k4/db32/k24/g32/k4/n8/k4/g32/k24/n8/db8/n32/db4/n/2-db00004c-g004c00-k000000-nd0d0d0/sett.png)|
-| [Forbes, dress](/tartans/b/4/k4/b16/k16/g24/k2/ln4/k2/g24/k16/ln6/b6/ln28/b4/ln/4/)|
-|![Forbes, dress example sett](/variants/b/4/k4/b16/k16/g24/k2/ln4/k2/g24/k16/ln6/b6/ln28/b4/ln/4-b304080-g008000-k000000-lne0e0e0/sett.png)|
-| [Forbes Dress Clan Tartan Tartan Number: 293. Earliest known date: pre 2003 Lochcarron Specimen. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/4/k4/db16/k16/g24/k2/ln4/k2/g24/k16/ln6/db6/ln28/db4/ln/4/)|
-|![Forbes Dress Clan Tartan Tartan Number: 293. Earliest known date: pre 2003 Lochcarron Specimen. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/4/k4/db16/k16/g24/k2/ln4/k2/g24/k16/ln6/db6/ln28/db4/ln/4-db2c2c80-g006818-k101010-lne0e0e0/sett.png)|
+| [Forbes Dress](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b2c2c80-g006818-k101010-wfcfcfc/)|
+|![Forbes Dress example sett](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
+| [Forbes Dress - 1990 (Clan)](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b2c2c80-g006818-k101010-wfcfcfc/)|
+|![Forbes Dress - 1990 (Clan) example sett](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
+| [Forbes Dress](/setts/s15/b8k4b32k24g32k4w8k4g32k24w8b8w32b4w2-b00004c-g004c00-k000000-wd0d0d0/)|
+|![Forbes Dress example sett](/setts/s15/b8k4b32k24g32k4w8k4g32k24w8b8w32b4w2-b00004c-g004c00-k000000-wd0d0d0/sett.png)|
+| [Forbes, dress](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b304080-g008000-k000000-we0e0e0/)|
+|![Forbes, dress example sett](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Forbes Dress Clan Tartan Tartan Number: 293. Earliest known date: pre 2003 Lochcarron Specimen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b2c2c80-g006818-k101010-we0e0e0/)|
+|![Forbes Dress Clan Tartan Tartan Number: 293. Earliest known date: pre 2003 Lochcarron Specimen. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/b4k4b16k16g24k2w4k2g24k16w6b6w28b4w4-b2c2c80-g006818-k101010-we0e0e0/sett.png)|

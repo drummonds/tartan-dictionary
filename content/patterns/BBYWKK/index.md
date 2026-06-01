@@ -6,7 +6,7 @@ BBYWKK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/24/n70/na8/w6/k22/p/10-b5f749c-k1c1714-n433a5a-naafb8bb-wf9f5ef/tartan.png)
+![Woven sample](/setts/s6/b24ba70y8w6k22ka10-b5f749c-ba433a5a-k1c1714-ka000000-wf9f5ef-yafb8bb/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYWKK
 
 | Tartans |
 |---------------|
-| [Ferster, James Carney](/tartans/b/24/n70/na8/w6/k22/p/10/)|
-|![Ferster, James Carney example sett](/variants/b/24/n70/na8/w6/k22/p/10-b5f749c-k1c1714-n433a5a-naafb8bb-wf9f5ef/sett.png)|
+| [Ferster, James Carney](/setts/s6/b24ba70y8w6k22ka10-b5f749c-ba433a5a-k1c1714-ka000000-wf9f5ef-yafb8bb/)|
+|![Ferster, James Carney example sett](/setts/s6/b24ba70y8w6k22ka10-b5f749c-ba433a5a-k1c1714-ka000000-wf9f5ef-yafb8bb/sett.png)|

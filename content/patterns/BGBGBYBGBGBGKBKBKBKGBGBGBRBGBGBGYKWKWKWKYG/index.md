@@ -16,5 +16,5 @@ BGBGBYBGBGBGKBKBKBKGBGBGBRBGBGBGYKWKWKWKYG
 
 | Tartans |
 |---------------|
-| [Lodge Dunblane Australis No.966 (Cor](/tartans/dg/24/y2/k4/ln4/k4/ln4/k4/ln4/k4/y2/dg24/p2/dg4/p6/dg2/p8/r4/p8/dg2/p6/dg4/p2/dg24/k2/b8/k2/b8/k2/b8/k2/dg24/p2/dg4/p6/dg2/p8/y4/p8/dg2/p6/dg4/p/2/)|
-|![Lodge Dunblane Australis No.966 (Cor example sett](/variants/dg/24/y2/k4/ln4/k4/ln4/k4/ln4/k4/y2/dg24/p2/dg4/p6/dg2/p8/r4/p8/dg2/p6/dg4/p2/dg24/k2/b8/k2/b8/k2/b8/k2/dg24/p2/dg4/p6/dg2/p8/y4/p8/dg2/p6/dg4/p/2-b2888c4-dg003820-k101010-lne0e0e0-p780078-rc80000-yfccc00/sett.png)|
+| [Lodge Dunblane Australis No.966 (Cor](/setts/s42/b2g4b6g2b8y4b8g2b6g4b2g24k2ba8k2ba8k2ba8k2g24b2g4b6g2b8r4b8g2b6g4b2g24y2k4w4k4w4k4w4k4y2g24-b780078-ba2888c4-g003820-k101010-rc80000-we0e0e0-yfccc00/)|
+|![Lodge Dunblane Australis No.966 (Cor example sett](/setts/s42/b2g4b6g2b8y4b8g2b6g4b2g24k2ba8k2ba8k2ba8k2g24b2g4b6g2b8r4b8g2b6g4b2g24y2k4w4k4w4k4w4k4y2g24-b780078-ba2888c4-g003820-k101010-rc80000-we0e0e0-yfccc00/sett.png)|

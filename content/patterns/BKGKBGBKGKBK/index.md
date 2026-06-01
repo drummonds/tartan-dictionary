@@ -16,5 +16,5 @@ BKGKBGBKGKBK
 
 | Tartans |
 |---------------|
-| [Marchmont (Personal)](/tartans/db/24/k24/g2/k24/db24/g2/db24/k24/g2/k24/db24/k/2/)|
-|![Marchmont (Personal) example sett](/variants/db/24/k24/g2/k24/db24/g2/db24/k24/g2/k24/db24/k/2-db2c2c80-g289c18-k101010/sett.png)|
+| [Marchmont (Personal)](/setts/s12/b48k48g4k48b48g4b48k48g4k48b48k4-b2c2c80-g289c18-k101010/)|
+|![Marchmont (Personal) example sett](/setts/s12/b48k48g4k48b48g4b48k48g4k48b48k4-b2c2c80-g289c18-k101010/sett.png)|

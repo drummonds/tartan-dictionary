@@ -16,5 +16,5 @@ BGRBRWRBRGBY
 
 | Tartans |
 |---------------|
-| [Deeside Plaid (Taobh Dhi)](/tartans/b/44/g8/n48/p12/n8/w6/n8/p12/n48/g8/b44/y/8/)|
-|![Deeside Plaid (Taobh Dhi) example sett](/variants/b/44/g8/n48/p12/n8/w6/n8/p12/n48/g8/b44/y/8-b3850c8-g006818-n888888-p780078-wfcfcfc-ye8c000/sett.png)|
+| [Deeside Plaid (Taobh Dhi)](/setts/s12/b44g8r48ba12r8w6r8ba12r48g8b44y8-b3850c8-ba780078-g006818-r888888-wfcfcfc-ye8c000/)|
+|![Deeside Plaid (Taobh Dhi) example sett](/setts/s12/b44g8r48ba12r8w6r8ba12r48g8b44y8-b3850c8-ba780078-g006818-r888888-wfcfcfc-ye8c000/sett.png)|

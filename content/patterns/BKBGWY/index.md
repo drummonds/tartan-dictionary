@@ -6,7 +6,7 @@ BKBGWY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/lg/10/w6/t22/n60/k20/na/30-k120a01-lg6aa28c-n3f4441-na3f4b60-t4e3d20-wf7f1e8/tartan.png)
+![Woven sample](/setts/s6/b30k20ba60g22w6y10-b3f4b60-ba3f4441-g4e3d20-k120a01-wf7f1e8-y6aa28c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBGWY
 
 | Tartans |
 |---------------|
-| [McHale, Barry Name Tartan Tartan Number: 10708. Earliest known date: 27 September 2012 Barry McHale commissioned the production of this tartan to be worn at his wedding. It may be worn by any of his McHale relatives. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/lg/10/w6/t22/n60/k20/na/30/)|
-|![McHale, Barry Name Tartan Tartan Number: 10708. Earliest known date: 27 September 2012 Barry McHale commissioned the production of this tartan to be worn at his wedding. It may be worn by any of his McHale relatives. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/lg/10/w6/t22/n60/k20/na/30-k120a01-lg6aa28c-n3f4441-na3f4b60-t4e3d20-wf7f1e8/sett.png)|
+| [McHale, Barry Name Tartan Tartan Number: 10708. Earliest known date: 27 September 2012 Barry McHale commissioned the production of this tartan to be worn at his wedding. It may be worn by any of his McHale relatives. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b30k20ba60g22w6y10-b3f4b60-ba3f4441-g4e3d20-k120a01-wf7f1e8-y6aa28c/)|
+|![McHale, Barry Name Tartan Tartan Number: 10708. Earliest known date: 27 September 2012 Barry McHale commissioned the production of this tartan to be worn at his wedding. It may be worn by any of his McHale relatives. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b30k20ba60g22w6y10-b3f4b60-ba3f4441-g4e3d20-k120a01-wf7f1e8-y6aa28c/sett.png)|

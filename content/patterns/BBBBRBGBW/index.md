@@ -16,5 +16,5 @@ BBBBRBGBW
 
 | Tartans |
 |---------------|
-| [Scozia (Fashion)](/tartans/dn/6/db8/dn48/db12/r6/db8/g6/db16/ln/6/)|
-|![Scozia (Fashion) example sett](/variants/dn/6/db8/dn48/db12/r6/db8/g6/db16/ln/6-db2c2c80-dn14283c-g006818-lne0e0e0-rc80000/sett.png)|
+| [Scozia (Fashion)](/setts/s9/b6ba8b48ba12r6ba8g6ba16w6-b14283c-ba2c2c80-g006818-rc80000-we0e0e0/)|
+|![Scozia (Fashion) example sett](/setts/s9/b6ba8b48ba12r6ba8g6ba16w6-b14283c-ba2c2c80-g006818-rc80000-we0e0e0/sett.png)|

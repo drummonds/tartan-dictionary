@@ -16,5 +16,5 @@ BBBRBRBRBB
 
 | Tartans |
 |---------------|
-| [Flowers of the Forest, The](/tartans/b/16/ba8/dr10/r2/dr10/r2/dr10/r2/dr32/b/2/)|
-|![Flowers of the Forest, The example sett](/variants/b/16/ba8/dr10/r2/dr10/r2/dr10/r2/dr32/b/2-b0596fa-ba5f749c-dr441800-rc8002c/sett.png)|
+| [Flowers of the Forest, The](/setts/s10/b32ba16bb20r4bb20r4bb20r4bb64b4-b0596fa-ba5f749c-bb441800-rc8002c/)|
+|![Flowers of the Forest, The example sett](/setts/s10/b32ba16bb20r4bb20r4bb20r4bb64b4-b0596fa-ba5f749c-bb441800-rc8002c/sett.png)|

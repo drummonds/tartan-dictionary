@@ -16,5 +16,7 @@ BGBGBGBGBGBGB
 
 | Tartans |
 |---------------|
-| [Tyneside Scottish (Khaki)](/tartans/k/2/lt2/k16/lt16/k16/lt2/k16/lt16/k2/lt2/k2/lt2/k/22/)|
-|![Tyneside Scottish (Khaki) example sett](/variants/k/2/lt2/k16/lt16/k16/lt2/k16/lt16/k2/lt2/k2/lt2/k/22-k1c1c1c-lt8c7038/sett.png)|
+| [Tyneside Scottish (Khaki)](/setts/s13/b44g4b4g4b4g32b32g4b32g32b32g4b4-b1c1c1c-g8c7038/)|
+|![Tyneside Scottish (Khaki) example sett](/setts/s13/b44g4b4g4b4g32b32g4b32g32b32g4b4-b1c1c1c-g8c7038/sett.png)|
+| [Tyneside Scottish Khaki (Milit/Dist)](/setts/s13/b44g4b4g4b4g32b32g4b32g32b32g4b4-b1c1c1c-g8c7038/)|
+|![Tyneside Scottish Khaki (Milit/Dist) example sett](/setts/s13/b44g4b4g4b4g32b32g4b32g32b32g4b4-b1c1c1c-g8c7038/sett.png)|

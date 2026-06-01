@@ -16,5 +16,7 @@ BKBWBRBKGBGKB
 
 | Tartans |
 |---------------|
-| [MacKusick (Piper) #2 (Personal)](/tartans/db/4/k24/g10/p6/g18/k2/db4/r2/db24/n4/p10/k4/p/6/)|
-|![MacKusick (Piper) #2 (Personal) example sett](/variants/db/4/k24/g10/p6/g18/k2/db4/r2/db24/n4/p10/k4/p/6-db2c2c80-g006818-k101010-nc0c0c0-p6c0070-rc80000/sett.png)|
+| [MacKusick (Piper) #2 (Personal)](/setts/s13/b4k24g10ba6g18k2b4r2b24w4ba10k4ba6-b2c2c80-ba6c0070-g006818-k101010-rc80000-wc0c0c0/)|
+|![MacKusick (Piper) #2 (Personal) example sett](/setts/s13/b4k24g10ba6g18k2b4r2b24w4ba10k4ba6-b2c2c80-ba6c0070-g006818-k101010-rc80000-wc0c0c0/sett.png)|
+| [MacKusick (Piper) #2 (Personal)](/setts/s13/b4k24g10ba6g18k2b4r2b24w4ba10k4ba6-b2c2c80-ba6c0070-g006818-k101010-rc80000-wc0c0c0/)|
+|![MacKusick (Piper) #2 (Personal) example sett](/setts/s13/b4k24g10ba6g18k2b4r2b24w4ba10k4ba6-b2c2c80-ba6c0070-g006818-k101010-rc80000-wc0c0c0/sett.png)|

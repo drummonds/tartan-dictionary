@@ -16,5 +16,5 @@ BBBWBWKBW
 
 | Tartans |
 |---------------|
-| [Turnberry Scotland](/tartans/ly/4/na50/k4/n4/na10/n16/na4/b6/na/28/)|
-|![Turnberry Scotland example sett](/variants/ly/4/na50/k4/n4/na10/n16/na4/b6/na/28-b1474b4-k101010-lyf8f4d0-nc8c8c8-na505050/sett.png)|
+| [Turnberry Scotland](/setts/s9/b28ba6b4w16b10w4k4b50wa4-b505050-ba1474b4-k101010-wc8c8c8-waf8f4d0/)|
+|![Turnberry Scotland example sett](/setts/s9/b28ba6b4w16b10w4k4b50wa4-b505050-ba1474b4-k101010-wc8c8c8-waf8f4d0/sett.png)|

@@ -6,7 +6,7 @@ BBBBGBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/4/ba2/b10/ba12/g4/ba4/g/20-b3c82af-ba2c4084-g005020/tartan.png)
+![Woven sample](/setts/s7/b4ba2b10ba12g4ba4g20-b3c82af-ba2c4084-g005020/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BBBBGBG
 
 | Tartans |
 |---------------|
-| [Unidentified No 17](/tartans/b/4/ba2/b10/ba12/g4/ba4/g/20/)|
-|![Unidentified No 17 example sett](/variants/b/4/ba2/b10/ba12/g4/ba4/g/20-b3c82af-ba2c4084-g005020/sett.png)|
-| [Lennox Dress, Purple (Dance)](/tartans/b/12/na4/b50/na8/g50/n4/g/12/)|
-|![Lennox Dress, Purple (Dance) example sett](/variants/b/12/na4/b50/na8/g50/n4/g/12-b2888c4-g289c18-n44546c-na44546c/sett.png)|
-| [Unnamed, No 17](/tartans/ba/4/b2/ba10/b12/g4/b4/g/20/)|
-|![Unnamed, No 17 example sett](/variants/ba/4/b2/ba10/b12/g4/b4/g/20-b304080-ba5480b0-g008000/sett.png)|
+| [Unidentified No 17](/setts/s7/b4ba2b10ba12g4ba4g20-b3c82af-ba2c4084-g005020/)|
+|![Unidentified No 17 example sett](/setts/s7/b4ba2b10ba12g4ba4g20-b3c82af-ba2c4084-g005020/sett.png)|
+| [Lennox Dress, Purple (Dance)](/setts/s7/b12ba4b50ba8g50ba4g12-b2888c4-ba44546c-g289c18/)|
+|![Lennox Dress, Purple (Dance) example sett](/setts/s7/b12ba4b50ba8g50ba4g12-b2888c4-ba44546c-g289c18/sett.png)|
+| [Unnamed, No 17](/setts/s7/b4ba2b10ba12g4ba4g20-b5480b0-ba304080-g008000/)|
+|![Unnamed, No 17 example sett](/setts/s7/b4ba2b10ba12g4ba4g20-b5480b0-ba304080-g008000/sett.png)|

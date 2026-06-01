@@ -6,7 +6,7 @@ BKBKBKBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/14/k4/db4/k4/db4/k14/p14/k/4-db1c0070-k101010-p6c0070/tartan.png)
+![Woven sample](/setts/s8/b28k8b8k8b8k28ba28k8-b1c0070-ba6c0070-k101010/tartan.png)
 
 
 
@@ -18,13 +18,17 @@ BKBKBKBK
 
 | Tartans |
 |---------------|
-| [Glasgow Academy](/tartans/db/14/k4/db4/k4/db4/k14/p14/k/4/)|
-|![Glasgow Academy example sett](/variants/db/14/k4/db4/k4/db4/k14/p14/k/4-db1c0070-k101010-p6c0070/sett.png)|
-| [Oban](/tartans/b/12/k20/b2/k2/b2/k20/dba20/k/12/)|
-|![Oban example sett](/variants/b/12/k20/b2/k2/b2/k20/dba20/k/12-b3850c8-ba1474b4-db003c64-dba2c2c80-k101010/sett.png)|
-| [Lochleven (Dance)](/tartans/db/96/k12/db6/k12/db12/k8/db4/k/20/)|
-|![Lochleven (Dance) example sett](/variants/db/96/k12/db6/k12/db12/k8/db4/k/20-db00008c-k000000/sett.png)|
-| [Oban (Fashion)](/tartans/b/12/k20/b2/k2/b2/k20/db20/k/12/)|
-|![Oban (Fashion) example sett](/variants/b/12/k20/b2/k2/b2/k20/db20/k/12-b3850c8-db2c2c80-k101010/sett.png)|
-| [Spirit of Glyndwr Grey (Fashion)](/tartans/k/24/n18/k11/n4/k11/n18/k53/n/4/)|
-|![Spirit of Glyndwr Grey (Fashion) example sett](/variants/k/24/n18/k11/n4/k11/n18/k53/n/4-k101010-n5c5c5c/sett.png)|
+| [Glasgow Academy](/setts/s8/b28k8b8k8b8k28ba28k8-b1c0070-ba6c0070-k101010/)|
+|![Glasgow Academy example sett](/setts/s8/b28k8b8k8b8k28ba28k8-b1c0070-ba6c0070-k101010/sett.png)|
+| [Oban](/setts/s8/b24k40b4k4b4k40ba40k24-b3850c8-ba2c2c80-k101010/)|
+|![Oban example sett](/setts/s8/b24k40b4k4b4k40ba40k24-b3850c8-ba2c2c80-k101010/sett.png)|
+| [Glasgow Academy (Corporate)](/setts/s8/b28k8b8k8b8k28ba28k8-b1c0070-ba6c0070-k101010/)|
+|![Glasgow Academy (Corporate) example sett](/setts/s8/b28k8b8k8b8k28ba28k8-b1c0070-ba6c0070-k101010/sett.png)|
+| [Lochleven (Dance)](/setts/s8/b96k12b6k12b12k8b4k20-b00008c-k000000/)|
+|![Lochleven (Dance) example sett](/setts/s8/b96k12b6k12b12k8b4k20-b00008c-k000000/sett.png)|
+| [Oban (Fashion)](/setts/s8/b24k40b4k4b4k40ba40k24-b3850c8-ba2c2c80-k101010/)|
+|![Oban (Fashion) example sett](/setts/s8/b24k40b4k4b4k40ba40k24-b3850c8-ba2c2c80-k101010/sett.png)|
+| [Spirit of Glyndwr Grey (Fashion)](/setts/s8/b4k53b18k11b4k11b18k24-b5c5c5c-k101010/)|
+|![Spirit of Glyndwr Grey (Fashion) example sett](/setts/s8/b4k53b18k11b4k11b18k24-b5c5c5c-k101010/sett.png)|
+| [Spirit of Glyndwr Grey Welsh Fashion Tartan Tartan Number: 8350. Earliest known date: 20th May 2010 A modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland. Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b4k53b18k11b4k11b18k24-b5c5c5c-k101010/)|
+|![Spirit of Glyndwr Grey Welsh Fashion Tartan Tartan Number: 8350. Earliest known date: 20th May 2010 A modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland. Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b4k53b18k11b4k11b18k24-b5c5c5c-k101010/sett.png)|

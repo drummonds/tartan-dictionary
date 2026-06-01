@@ -16,5 +16,7 @@ BGBGBYBRYR
 
 | Tartans |
 |---------------|
-| [Roscommon, County](/tartans/db/6/dg24/db10/dg24/dr12/y10/dr12/r38/y6/r/10/)|
-|![Roscommon, County example sett](/variants/db/6/dg24/db10/dg24/dr12/y10/dr12/r38/y6/r/10-db303070-dg003820-dr441800-rb03000-yd8b000/sett.png)|
+| [Roscommon, County](/setts/s10/b6g24b10g24ba12y10ba12r38y6r10-b303070-ba441800-g003820-rb03000-yd8b000/)|
+|![Roscommon, County example sett](/setts/s10/b6g24b10g24ba12y10ba12r38y6r10-b303070-ba441800-g003820-rb03000-yd8b000/sett.png)|
+| [Roscommon, County (District)](/setts/s10/b6g24b10g24ba12y10ba12r38y6r10-b303070-ba441800-g003820-rb03000-yd8b000/)|
+|![Roscommon, County (District) example sett](/setts/s10/b6g24b10g24ba12y10ba12r38y6r10-b303070-ba441800-g003820-rb03000-yd8b000/sett.png)|

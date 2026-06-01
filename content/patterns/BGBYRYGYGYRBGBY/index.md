@@ -16,5 +16,5 @@ BGBYRYGYGYRBGBY
 
 | Tartans |
 |---------------|
-| [el Corte](/tartans/b/4/g10/b28/ya20/r60/ya2/g20/ya28/g4/ya10/r4/b10/g8/b10/y/12/)|
-|![el Corte example sett](/variants/b/4/g10/b28/ya20/r60/ya2/g20/ya28/g4/ya10/r4/b10/g8/b10/y/12-b2888c4-g289c18-rcc4438-yfccc00-yae8c000/sett.png)|
+| [el Corte](/setts/s15/b4g10b28y20r60y2g20y28g4y10r4b10g8b10ya12-b2888c4-g289c18-rcc4438-ye8c000-yafccc00/)|
+|![el Corte example sett](/setts/s15/b4g10b28y20r60y2g20y28g4y10r4b10g8b10ya12-b2888c4-g289c18-rcc4438-ye8c000-yafccc00/sett.png)|

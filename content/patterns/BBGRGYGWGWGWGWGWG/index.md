@@ -16,7 +16,7 @@ BBGRGYGWGWGWGWGWG
 
 | Tartans |
 |---------------|
-| [Bryant](/tartans/g/40/n4/g4/n4/g4/n16/g4/n4/g4/n4/g40/lg8/g16/dra4/g8/dr2/p/4/)|
-|![Bryant example sett](/variants/g/40/n4/g4/n4/g4/n16/g4/n4/g4/n4/g40/lg8/g16/dra4/g8/dr2/p/4-dr441800-dra880000-g006818-lgc4bc68-nc0c0c0-p780078/sett.png)|
-| [Bryant (Name)](/tartans/g/40/ln4/g4/ln4/g4/ln16/g4/ln4/g4/ln4/g40/lg8/g16/dra4/g8/dr2/p/4/)|
-|![Bryant (Name) example sett](/variants/g/40/ln4/g4/ln4/g4/ln16/g4/ln4/g4/ln4/g40/lg8/g16/dra4/g8/dr2/p/4-dr441800-dra880000-g006818-lgc4bc68-lne0e0e0-p780078/sett.png)|
+| [Bryant](/setts/s17/b4ba2g8r4g16y8g40w4g4w4g4w16g4w4g4w4g40-b780078-ba441800-g006818-r880000-wc0c0c0-yc4bc68/)|
+|![Bryant example sett](/setts/s17/b4ba2g8r4g16y8g40w4g4w4g4w16g4w4g4w4g40-b780078-ba441800-g006818-r880000-wc0c0c0-yc4bc68/sett.png)|
+| [Bryant (Name)](/setts/s17/b4ba2g8r4g16y8g40w4g4w4g4w16g4w4g4w4g40-b780078-ba441800-g006818-r880000-we0e0e0-yc4bc68/)|
+|![Bryant (Name) example sett](/setts/s17/b4ba2g8r4g16y8g40w4g4w4g4w16g4w4g4w4g40-b780078-ba441800-g006818-r880000-we0e0e0-yc4bc68/sett.png)|

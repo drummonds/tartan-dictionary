@@ -16,5 +16,5 @@ BBBRBBGGBBY
 
 | Tartans |
 |---------------|
-| [State Seal of New York (Fashion)](/tartans/db/120/b10/db8/dr12/db8/b10/t44/g10/b46/db2/dy/8/)|
-|![State Seal of New York (Fashion) example sett](/variants/db/120/b10/db8/dr12/db8/b10/t44/g10/b46/db2/dy/8-b1474b4-db003c64-dr880000-dybc8c00-g006818-t604000/sett.png)|
+| [State Seal of New York (Fashion)](/setts/s11/b120ba10b8r12b8ba10g44ga10ba46b2y8-b003c64-ba1474b4-g604000-ga006818-r880000-ybc8c00/)|
+|![State Seal of New York (Fashion) example sett](/setts/s11/b120ba10b8r12b8ba10g44ga10ba46b2y8-b003c64-ba1474b4-g604000-ga006818-r880000-ybc8c00/sett.png)|

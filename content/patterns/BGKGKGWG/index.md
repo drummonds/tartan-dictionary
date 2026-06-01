@@ -6,7 +6,7 @@ BGKGKGWG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/g/6/w6/g60/k16/g6/k16/g12/p/52-g289c18-k101010-p9058d8-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b52g12k16g6k16g60w6g6-b9058d8-g289c18-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGKGKGWG
 
 | Tartans |
 |---------------|
-| [Riley (Personal)](/tartans/g/6/w6/g60/k16/g6/k16/g12/p/52/)|
-|![Riley (Personal) example sett](/variants/g/6/w6/g60/k16/g6/k16/g12/p/52-g289c18-k101010-p9058d8-wfcfcfc/sett.png)|
+| [Riley (Personal)](/setts/s8/b52g12k16g6k16g60w6g6-b9058d8-g289c18-k101010-wfcfcfc/)|
+|![Riley (Personal) example sett](/setts/s8/b52g12k16g6k16g60w6g6-b9058d8-g289c18-k101010-wfcfcfc/sett.png)|

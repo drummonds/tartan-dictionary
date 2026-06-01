@@ -16,5 +16,5 @@ BBRBRBRBBBBBBBY
 
 | Tartans |
 |---------------|
-| [Scottish-Shop Switzerland](/tartans/lg/8/dn2/p28/dn4/p4/dn4/p4/dn24/n4/dn4/n4/dn4/n30/dn2/p/8/)|
-|![Scottish-Shop Switzerland example sett](/variants/lg/8/dn2/p28/dn4/p4/dn4/p4/dn24/n4/dn4/n4/dn4/n30/dn2/p/8-dn14283c-lg9c9c00-n888888-p5a008c/sett.png)|
+| [Scottish-Shop Switzerland](/setts/s15/b8ba2r30ba4r4ba4r4ba24b4ba4b4ba4b28ba2y8-b5a008c-ba14283c-r888888-y9c9c00/)|
+|![Scottish-Shop Switzerland example sett](/setts/s15/b8ba2r30ba4r4ba4r4ba24b4ba4b4ba4b28ba2y8-b5a008c-ba14283c-r888888-y9c9c00/sett.png)|

@@ -16,5 +16,5 @@ BGBGBGBGRGRGRGRGRBGRG
 
 | Tartans |
 |---------------|
-| [Matheson Hunting (Highland Society of London)](/tartans/db/8/g4/db2/g4/db2/g44/db12/g4/r4/g4/r4/g4/r8/g4/r4/g4/r4/db12/g8/r4/g/8/)|
-|![Matheson Hunting (Highland Society of London) example sett](/variants/db/8/g4/db2/g4/db2/g44/db12/g4/r4/g4/r4/g4/r8/g4/r4/g4/r4/db12/g8/r4/g/8-db202060-dg003820-g006818-rc80000/sett.png)|
+| [Matheson Hunting (Highland Society of London)](/setts/s21/b16g8b4g8b4g88b24g8r8g8r8g8r16g8r8g8r8b24g16r8g16-b202060-g006818-rc80000/)|
+|![Matheson Hunting (Highland Society of London) example sett](/setts/s21/b16g8b4g8b4g88b24g8r8g8r8g8r16g8r8g8r8b24g16r8g16-b202060-g006818-rc80000/sett.png)|

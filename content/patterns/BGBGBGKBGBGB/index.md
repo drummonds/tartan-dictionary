@@ -16,5 +16,5 @@ BGBGBGKBGBGB
 
 | Tartans |
 |---------------|
-| [Stephen-Mathieson](/tartans/db/32/g2/db2/g2/db2/k24/g2/db2/g2/db2/g12/p/4/)|
-|![Stephen-Mathieson example sett](/variants/db/32/g2/db2/g2/db2/k24/g2/db2/g2/db2/g12/p/4-db202060-g006818-k101010-p6c0070/sett.png)|
+| [Stephen-Mathieson](/setts/s12/b64g4b4g4b4k48g4b4g4b4g24ba8-b202060-ba6c0070-g006818-k101010/)|
+|![Stephen-Mathieson example sett](/setts/s12/b64g4b4g4b4k48g4b4g4b4g24ba8-b202060-ba6c0070-g006818-k101010/sett.png)|

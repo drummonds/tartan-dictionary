@@ -16,5 +16,5 @@ BBYBYBBBBBBY
 
 | Tartans |
 |---------------|
-| [Glover, Thomas Blake (Corporate)](/tartans/db/8/dr32/lt12/dr32/lt12/dr32/db16/dr12/db8/dr32/db4/lt/2/)|
-|![Glover, Thomas Blake (Corporate) example sett](/variants/db/8/dr32/lt12/dr32/lt12/dr32/db16/dr12/db8/dr32/db4/lt/2-db2c2c80-dr680028-lta08858/sett.png)|
+| [Glover, Thomas Blake (Corporate)](/setts/s12/b8ba32y12ba32y12ba32b16ba12b8ba32b4y2-b2c2c80-ba680028-ya08858/)|
+|![Glover, Thomas Blake (Corporate) example sett](/setts/s12/b8ba32y12ba32y12ba32b16ba12b8ba32b4y2-b2c2c80-ba680028-ya08858/sett.png)|

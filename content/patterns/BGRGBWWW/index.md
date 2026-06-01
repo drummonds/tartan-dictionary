@@ -6,7 +6,7 @@ BGRGBWWW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/8/n6/dr4/n52/db30/lp6/ln4/lp/52-db000050-dr802040-lne0e0e0-lpc0a0e0-n808080/tartan.png)
+![Woven sample](/setts/s8/b8g6r4g52b30w6wa4w52-b000050-g808080-r802040-wc0a0e0-wae0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRGBWWW
 
 | Tartans |
 |---------------|
-| [Scottish Highlander, dress](/tartans/db/8/n6/dr4/n52/db30/lp6/ln4/lp/52/)|
-|![Scottish Highlander, dress example sett](/variants/db/8/n6/dr4/n52/db30/lp6/ln4/lp/52-db000050-dr802040-lne0e0e0-lpc0a0e0-n808080/sett.png)|
+| [Scottish Highlander, dress](/setts/s8/b8g6r4g52b30w6wa4w52-b000050-g808080-r802040-wc0a0e0-wae0e0e0/)|
+|![Scottish Highlander, dress example sett](/setts/s8/b8g6r4g52b30w6wa4w52-b000050-g808080-r802040-wc0a0e0-wae0e0e0/sett.png)|

@@ -6,7 +6,7 @@ BGBBWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/4/g26/db22/b8/ln18/db/4-b5c8ca8-db2c2c80-g006818-lne0e0e0/tartan.png)
+![Woven sample](/setts/s6/b4g26b22ba8w18b4-b2c2c80-ba5c8ca8-g006818-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBBWB
 
 | Tartans |
 |---------------|
-| [Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/4/g26/db22/b8/ln18/db/4/)|
-|![Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/4/g26/db22/b8/ln18/db/4-b5c8ca8-db2c2c80-g006818-lne0e0e0/sett.png)|
+| [Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4g26b22ba8w18b4-b2c2c80-ba5c8ca8-g006818-we0e0e0/)|
+|![Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b4g26b22ba8w18b4-b2c2c80-ba5c8ca8-g006818-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ BKBKBKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/6/k8/n6/k78/n24/k14/n/68-b48a4c0-k101010-n5c5c5c/tartan.png)
+![Woven sample](/setts/s7/b68k14b24k78b6k8y6-b5c5c5c-k101010-y48a4c0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKBKY
 
 | Tartans |
 |---------------|
-| [Tartan Army Children's Charity (Corp](/tartans/b/6/k8/n6/k78/n24/k14/n/68/)|
-|![Tartan Army Children's Charity (Corp example sett](/variants/b/6/k8/n6/k78/n24/k14/n/68-b48a4c0-k101010-n5c5c5c/sett.png)|
+| [Tartan Army Children's Charity (Corp](/setts/s7/b68k14b24k78b6k8y6-b5c5c5c-k101010-y48a4c0/)|
+|![Tartan Army Children's Charity (Corp example sett](/setts/s7/b68k14b24k78b6k8y6-b5c5c5c-k101010-y48a4c0/sett.png)|

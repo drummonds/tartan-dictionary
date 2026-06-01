@@ -6,7 +6,7 @@ BKBGBKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/6/k6/b42/ga98/b42/k6/b6/w/6-b5c8ca8-dg003820-dp440044-g006818-ga408060-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b6k6b42g98b42k6b6w6-b5c8ca8-g408060-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBGBKBW
 
 | Tartans |
 |---------------|
-| [Irvine of Drum](/tartans/b/6/k6/b42/ga98/b42/k6/b6/w/6/)|
-|![Irvine of Drum example sett](/variants/b/6/k6/b42/ga98/b42/k6/b6/w/6-b5c8ca8-dg003820-dp440044-g006818-ga408060-k101010-wfcfcfc/sett.png)|
+| [Irvine of Drum](/setts/s8/b6k6b42g98b42k6b6w6-b5c8ca8-g408060-k101010-wfcfcfc/)|
+|![Irvine of Drum example sett](/setts/s8/b6k6b42g98b42k6b6w6-b5c8ca8-g408060-k101010-wfcfcfc/sett.png)|

@@ -16,5 +16,5 @@ BBBBGBKBBBW
 
 | Tartans |
 |---------------|
-| [Spirit of the Glen (Corporate)](/tartans/ln/4/dbb70/pa6/db6/k14/db10/g40/db6/dba14/db8/p/4/)|
-|![Spirit of the Glen (Corporate) example sett](/variants/ln/4/dbb70/pa6/db6/k14/db10/g40/db6/dba14/db8/p/4-db2c2c80-dba202060-dbb003c64-g285800-k101010-lne0e0e0-p9058d8-pa780078/sett.png)|
+| [Spirit of the Glen (Corporate)](/setts/s11/b4ba8bb14ba6g40ba10k14ba6bc6bd70w4-b9058d8-ba2c2c80-bb202060-bc780078-bd003c64-g285800-k101010-we0e0e0/)|
+|![Spirit of the Glen (Corporate) example sett](/setts/s11/b4ba8bb14ba6g40ba10k14ba6bc6bd70w4-b9058d8-ba2c2c80-bb202060-bc780078-bd003c64-g285800-k101010-we0e0e0/sett.png)|

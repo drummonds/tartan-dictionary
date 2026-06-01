@@ -16,5 +16,5 @@ BGBRBGBYBYBGBYBGBYBY
 
 | Tartans |
 |---------------|
-| [Smith of Pennylands](/tartans/ba/60/b14/ba60/k60/g60/k4/y14/k4/g60/k60/ba60/b14/ba60/k60/g60/k4/r14/k4/g60/k/60/)|
-|![Smith of Pennylands example sett](/variants/ba/60/b14/ba60/k60/g60/k4/y14/k4/g60/k60/ba60/b14/ba60/k60/g60/k4/r14/k4/g60/k/60-b1870a4-ba48a4c0-g00643c-k1c1c1c-oe86000-oadc943c-rc80000-ye8c000/sett.png)|
+| [Smith of Pennylands](/setts/s20/b60g60b4r14b4g60b60y60ba14y60b60g60b4ya14b4g60b60y60ba14y60-b1c1c1c-ba1870a4-g00643c-rc80000-y48a4c0-yae8c000/)|
+|![Smith of Pennylands example sett](/setts/s20/b60g60b4r14b4g60b60y60ba14y60b60g60b4ya14b4g60b60y60ba14y60-b1c1c1c-ba1870a4-g00643c-rc80000-y48a4c0-yae8c000/sett.png)|

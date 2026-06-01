@@ -16,5 +16,5 @@ BKBKBYBKBWBWY
 
 | Tartans |
 |---------------|
-| [Life Goes On Foundation (Corporate)](/tartans/p/6/k4/p5/k5/p32/n5/p5/k10/p5/na5/p5/na17/y/8/)|
-|![Life Goes On Foundation (Corporate) example sett](/variants/p/6/k4/p5/k5/p32/n5/p5/k10/p5/na5/p5/na17/y/8-k101010-na0a0a0-nab8c0c8-p780078-ye8c000/sett.png)|
+| [Life Goes On Foundation (Corporate)](/setts/s13/b6k4b5k5b32y5b5k10b5w5b5w17ya8-b780078-k101010-wb8c0c8-ya0a0a0-yae8c000/)|
+|![Life Goes On Foundation (Corporate) example sett](/setts/s13/b6k4b5k5b32y5b5k10b5w5b5w17ya8-b780078-k101010-wb8c0c8-ya0a0a0-yae8c000/sett.png)|

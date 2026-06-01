@@ -16,5 +16,7 @@ BGWBGYGWKBGWGGGKG
 
 | Tartans |
 |---------------|
-| [Les Cercles de Fermieres du Quebec](/tartans/db/32/dg80/ln10/db50/g60/y8/dg6/ln6/k8/db30/g44/ln4/dg38/g4/t16/k8/t/32/)|
-|![Les Cercles de Fermieres du Quebec example sett](/variants/db/32/dg80/ln10/db50/g60/y8/dg6/ln6/k8/db30/g44/ln4/dg38/g4/t16/k8/t/32-db2c2c80-dg003820-g006818-k101010-lne0e0e0-t604000-ye8c000/sett.png)|
+| [Les Cercles de Fermieres du Quebec](/setts/s17/b32g80w10b50ga60y8g6w6k8b30ga44w4g38ga4gb16k8gb32-b2c2c80-g003820-ga006818-gb604000-k101010-we0e0e0-ye8c000/)|
+|![Les Cercles de Fermieres du Quebec example sett](/setts/s17/b32g80w10b50ga60y8g6w6k8b30ga44w4g38ga4gb16k8gb32-b2c2c80-g003820-ga006818-gb604000-k101010-we0e0e0-ye8c000/sett.png)|
+| [Cercles de Fermieres (Corporate)](/setts/s17/b32g80w10b50ga60y8g6w6k8b30ga44w4g38ga4gb16k8gb32-b2c2c80-g003820-ga006818-gb604000-k101010-we0e0e0-ye8c000/)|
+|![Cercles de Fermieres (Corporate) example sett](/setts/s17/b32g80w10b50ga60y8g6w6k8b30ga44w4g38ga4gb16k8gb32-b2c2c80-g003820-ga006818-gb604000-k101010-we0e0e0-ye8c000/sett.png)|

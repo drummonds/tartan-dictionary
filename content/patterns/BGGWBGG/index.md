@@ -6,7 +6,7 @@ BGGWBGG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/g/72/dg10/db34/ln4/g28/n6/p/4-db000050-dg003000-g008000-lne0e0e0-n808080-p800080/tartan.png)
+![Woven sample](/setts/s7/b4g6ga28w4ba34gb10ga72-b800080-ba000050-g808080-ga008000-gb003000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGWBGG
 
 | Tartans |
 |---------------|
-| [Mounth, The, (rejected)](/tartans/g/72/dg10/db34/ln4/g28/n6/p/4/)|
-|![Mounth, The, (rejected) example sett](/variants/g/72/dg10/db34/ln4/g28/n6/p/4-db000050-dg003000-g008000-lne0e0e0-n808080-p800080/sett.png)|
+| [Mounth, The, (rejected)](/setts/s7/b4g6ga28w4ba34gb10ga72-b800080-ba000050-g808080-ga008000-gb003000-we0e0e0/)|
+|![Mounth, The, (rejected) example sett](/setts/s7/b4g6ga28w4ba34gb10ga72-b800080-ba000050-g808080-ga008000-gb003000-we0e0e0/sett.png)|

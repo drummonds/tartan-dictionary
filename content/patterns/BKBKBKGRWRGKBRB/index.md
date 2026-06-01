@@ -16,5 +16,7 @@ BKBKBKGRWRGKBRB
 
 | Tartans |
 |---------------|
-| [MacKenzie Morgan](/tartans/db/24/k4/db4/k4/db4/k24/g24/r4/w4/r4/g24/k24/db24/r6/db/4/)|
-|![MacKenzie Morgan example sett](/variants/db/24/k4/db4/k4/db4/k24/g24/r4/w4/r4/g24/k24/db24/r6/db/4-db2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [MacKenzie Morgan](/setts/s15/b24k4b4k4b4k24g24r4w4r4g24k24b24r6b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![MacKenzie Morgan example sett](/setts/s15/b24k4b4k4b4k24g24r4w4r4g24k24b24r6b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [MacKenzie Morgan (Clan)](/setts/s15/b24k4b4k4b4k24g24r4w4r4g24k24b24r6b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![MacKenzie Morgan (Clan) example sett](/setts/s15/b24k4b4k4b4k24g24r4w4r4g24k24b24r6b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|

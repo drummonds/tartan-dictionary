@@ -16,5 +16,5 @@ BGRBRBWBRBRBRBRBRGRBRBRBRBRBR
 
 | Tartans |
 |---------------|
-| [Hebridean, South Uist Specimen](/tartans/b/4/g4/r4/b4/r4/b4/ln2/b48/r4/b2/r16/b2/r4/b48/r6/b4/r4/g14/r4/b4/r6/b48/r6/b2/r16/b2/r4/b48/r/8/)|
-|![Hebridean, South Uist Specimen example sett](/variants/b/4/g4/r4/b4/r4/b4/ln2/b48/r4/b2/r16/b2/r4/b48/r6/b4/r4/g14/r4/b4/r6/b48/r6/b2/r16/b2/r4/b48/r/8-b304080-g008000-lne0e0e0-rc00000/sett.png)|
+| [Hebridean, South Uist Specimen](/setts/s29/b4g4r4b4r4b4w2b48r4b2r16b2r4b48r6b4r4g14r4b4r6b48r6b2r16b2r4b48r8-b304080-g008000-rc00000-we0e0e0/)|
+|![Hebridean, South Uist Specimen example sett](/setts/s29/b4g4r4b4r4b4w2b48r4b2r16b2r4b48r6b4r4g14r4b4r6b48r6b2r16b2r4b48r8-b304080-g008000-rc00000-we0e0e0/sett.png)|

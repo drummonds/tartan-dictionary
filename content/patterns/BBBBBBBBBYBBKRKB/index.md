@@ -16,5 +16,7 @@ BBBBBBBBBYBBKRKB
 
 | Tartans |
 |---------------|
-| [Frogaletto (Personal)](/tartans/db/16/k8/r4/k6/db28/n20/lg4/n4/b4/n10/db18/n6/db4/n4/db4/n/52/)|
-|![Frogaletto (Personal) example sett](/variants/db/16/k8/r4/k6/db28/n20/lg4/n4/b4/n10/db18/n6/db4/n4/db4/n/52-b5c8ca8-db003c64-k101010-lgd0c888-n506878-rc8002c/sett.png)|
+| [Frogaletto (Personal)](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/)|
+|![Frogaletto (Personal) example sett](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/sett.png)|
+| [Frogaletto (Personal)](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/)|
+|![Frogaletto (Personal) example sett](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/sett.png)|

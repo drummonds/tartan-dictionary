@@ -16,5 +16,5 @@ BKBBKRGRKBKBKB
 
 | Tartans |
 |---------------|
-| [Riddoch](/tartans/db/2/k2/db2/db16/k16/r2/t28/r2/k16/db2/k2/db2/k2/db/16/)|
-|![Riddoch example sett](/variants/db/2/k2/db2/db16/k16/r2/t28/r2/k16/db2/k2/db2/k2/db/16-db0b3a6e-k101010-rd10000-t314b30/sett.png)|
+| [Riddoch](/setts/s14/b32k4b4k4b4k32r4g56r4k32b32b4k4b4-b0b3a6e-g314b30-k101010-rd10000/)|
+|![Riddoch example sett](/setts/s14/b32k4b4k4b4k32r4g56r4k32b32b4k4b4-b0b3a6e-g314b30-k101010-rd10000/sett.png)|

@@ -6,7 +6,7 @@ BBBKGBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/5/p3/db32/k16/g32/p3/g/5-db000064-g004c00-k000000-p5a3094/tartan.png)
+![Woven sample](/setts/s7/b5ba3b32k16g32ba3g5-b000064-ba5a3094-g004c00-k000000/tartan.png)
 
 
 
@@ -18,13 +18,13 @@ BBBKGBG
 
 | Tartans |
 |---------------|
-| [MacThomas LC](/tartans/db/5/p3/db32/k16/g32/p3/g/5/)|
-|![MacThomas LC example sett](/variants/db/5/p3/db32/k16/g32/p3/g/5-db000064-g004c00-k000000-p5a3094/sett.png)|
-| [MacThomas](/tartans/db/6/dr4/db42/k22/dg42/dr4/dg/6/)|
-|![MacThomas example sett](/variants/db/6/dr4/db42/k22/dg42/dr4/dg/6-db000052-dg11450d-dr59110d-k000000/sett.png)|
-| [MacThomas LC](/tartans/db/10/p6/db64/k32/dg64/n6/dg/10/)|
-|![MacThomas LC example sett](/variants/db/10/p6/db64/k32/dg64/n6/dg/10-db000052-dg11450d-k000000-n6d3855-p7f0066/sett.png)|
-| [MacThomas](/tartans/db/3/dr2/db21/k11/dg21/dr2/dg/3/)|
-|![MacThomas example sett](/variants/db/3/dr2/db21/k11/dg21/dr2/dg/3-db000052-dg11450d-dr59110d-k000000/sett.png)|
-| [MacThomas LC](/tartans/db/5/p3/db32/k16/dg32/n3/dg/5/)|
-|![MacThomas LC example sett](/variants/db/5/p3/db32/k16/dg32/n3/dg/5-db000052-dg11450d-k000000-n6d3855-p7f0066/sett.png)|
+| [MacThomas LC](/setts/s7/b5ba3b32k16g32ba3g5-b000064-ba5a3094-g004c00-k000000/)|
+|![MacThomas LC example sett](/setts/s7/b5ba3b32k16g32ba3g5-b000064-ba5a3094-g004c00-k000000/sett.png)|
+| [MacThomas](/setts/s7/b6ba4b42k22g42ba4g6-b000052-ba59110d-g11450d-k000000/)|
+|![MacThomas example sett](/setts/s7/b6ba4b42k22g42ba4g6-b000052-ba59110d-g11450d-k000000/sett.png)|
+| [MacThomas LC](/setts/s7/b10ba6b64k32g64bb6g10-b000052-ba7f0066-bb6d3855-g11450d-k000000/)|
+|![MacThomas LC example sett](/setts/s7/b10ba6b64k32g64bb6g10-b000052-ba7f0066-bb6d3855-g11450d-k000000/sett.png)|
+| [MacThomas](/setts/s7/b3ba2b21k11g21ba2g3-b000052-ba59110d-g11450d-k000000/)|
+|![MacThomas example sett](/setts/s7/b3ba2b21k11g21ba2g3-b000052-ba59110d-g11450d-k000000/sett.png)|
+| [MacThomas LC](/setts/s7/b5ba3b32k16g32bb3g5-b000052-ba7f0066-bb6d3855-g11450d-k000000/)|
+|![MacThomas LC example sett](/setts/s7/b5ba3b32k16g32bb3g5-b000052-ba7f0066-bb6d3855-g11450d-k000000/sett.png)|

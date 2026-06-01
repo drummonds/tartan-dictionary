@@ -16,5 +16,7 @@ BBBGRKBBW
 
 | Tartans |
 |---------------|
-| [Lochranza](/tartans/db/6/n2/db20/g6/r2/k6/db10/n4/na/2/)|
-|![Lochranza example sett](/variants/db/6/n2/db20/g6/r2/k6/db10/n4/na/2-db2c2c80-g006818-k101010-n5c5c5c-nac0c0c0-rc80000/sett.png)|
+| [Lochranza](/setts/s9/b12ba4b40g12r4k12b20ba8w4-b2c2c80-ba5c5c5c-g006818-k101010-rc80000-wc0c0c0/)|
+|![Lochranza example sett](/setts/s9/b12ba4b40g12r4k12b20ba8w4-b2c2c80-ba5c5c5c-g006818-k101010-rc80000-wc0c0c0/sett.png)|
+| [Lochranza (Corporate?)](/setts/s9/b12ba4b40g12r4k12b20ba8w4-b2c2c80-ba5c5c5c-g006818-k101010-rc80000-wc0c0c0/)|
+|![Lochranza (Corporate?) example sett](/setts/s9/b12ba4b40g12r4k12b20ba8w4-b2c2c80-ba5c5c5c-g006818-k101010-rc80000-wc0c0c0/sett.png)|

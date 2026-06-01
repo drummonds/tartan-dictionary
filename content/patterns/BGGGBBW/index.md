@@ -6,7 +6,7 @@ BGGGBBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dr/2/dg8/lt2/dg6/dr8/dn30/w/2-dg062e14-dn283a48-dr680b2a-lt8e7c34-wffffff/tartan.png)
+![Woven sample](/setts/s7/b4g16ga4g12b16ba60w4-b680b2a-ba283a48-g062e14-ga8e7c34-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGGBBW
 
 | Tartans |
 |---------------|
-| [Bressuire](/tartans/dr/2/dg8/lt2/dg6/dr8/dn30/w/2/)|
-|![Bressuire example sett](/variants/dr/2/dg8/lt2/dg6/dr8/dn30/w/2-dg062e14-dn283a48-dr680b2a-lt8e7c34-wffffff/sett.png)|
+| [Bressuire](/setts/s7/b4g16ga4g12b16ba60w4-b680b2a-ba283a48-g062e14-ga8e7c34-wffffff/)|
+|![Bressuire example sett](/setts/s7/b4g16ga4g12b16ba60w4-b680b2a-ba283a48-g062e14-ga8e7c34-wffffff/sett.png)|

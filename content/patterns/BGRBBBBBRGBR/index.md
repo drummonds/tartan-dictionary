@@ -16,5 +16,5 @@ BGRBBBBBRGBR
 
 | Tartans |
 |---------------|
-| [Unidentified Cant #12](/tartans/db/2/ga24/r8/db2/b3/db2/b3/db2/r8/ga24/db2/r/60/)|
-|![Unidentified Cant #12 example sett](/variants/db/2/ga24/r8/db2/b3/db2/b3/db2/r8/ga24/db2/r/60-b2888c4-db2c2c80-dr680028-g285800-ga006818-rc80000/sett.png)|
+| [Unidentified Cant #12](/setts/s12/b2g24r8b2ba3b2ba3b2r8g24b2r60-b2c2c80-ba2888c4-g006818-rc80000/)|
+|![Unidentified Cant #12 example sett](/setts/s12/b2g24r8b2ba3b2ba3b2r8g24b2r60-b2c2c80-ba2888c4-g006818-rc80000/sett.png)|

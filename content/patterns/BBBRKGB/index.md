@@ -6,7 +6,7 @@ BBBRKGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/14/dba6/b66/r4/k44/g6/db/98-b1474b4-db2c2c80-dba1c0070-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/b14ba6b66r4k44g6bb98-b1474b4-ba1c0070-bb2c2c80-g006818-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRKGB
 
 | Tartans |
 |---------------|
-| [U.S. 2001 Air Force (Military?)](/tartans/b/14/dba6/b66/r4/k44/g6/db/98/)|
-|![U.S. 2001 Air Force (Military?) example sett](/variants/b/14/dba6/b66/r4/k44/g6/db/98-b1474b4-db2c2c80-dba1c0070-g006818-k101010-rc80000/sett.png)|
+| [U.S. 2001 Air Force (Military?)](/setts/s7/b14ba6b66r4k44g6bb98-b1474b4-ba1c0070-bb2c2c80-g006818-k101010-rc80000/)|
+|![U.S. 2001 Air Force (Military?) example sett](/setts/s7/b14ba6b66r4k44g6bb98-b1474b4-ba1c0070-bb2c2c80-g006818-k101010-rc80000/sett.png)|

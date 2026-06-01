@@ -16,5 +16,5 @@ BGRBRBBBBBWB
 
 | Tartans |
 |---------------|
-| [Historic Scotland (1998) (Corporate)](/tartans/db/5/g2/n26/db2/n26/db4/p4/db36/p4/db4/ln8/db/8/)|
-|![Historic Scotland (1998) (Corporate) example sett](/variants/db/5/g2/n26/db2/n26/db4/p4/db36/p4/db4/ln8/db/8-db202060-g006818-lne0e0e0-n888888-p780078/sett.png)|
+| [Historic Scotland (1998) (Corporate)](/setts/s12/b5g2r26b2r26b4ba4b36ba4b4w8b8-b202060-ba780078-g006818-r888888-we0e0e0/)|
+|![Historic Scotland (1998) (Corporate) example sett](/setts/s12/b5g2r26b2r26b4ba4b36ba4b4w8b8-b202060-ba780078-g006818-r888888-we0e0e0/sett.png)|

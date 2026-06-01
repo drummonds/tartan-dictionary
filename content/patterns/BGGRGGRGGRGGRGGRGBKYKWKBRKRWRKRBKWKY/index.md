@@ -16,5 +16,5 @@ BGGRGGRGGRGGRGGRGBKYKWKBRKRWRKRBKWKY
 
 | Tartans |
 |---------------|
-| [Unidentified, Cotton sample](/tartans/b/8/g12/dg14/lt2/g12/dg14/lt2/g12/dg14/lt2/g12/dg14/lt2/g12/dg14/lt2/g12/b8/k16/o2/k2/ln2/k2/b16/r12/k2/r8/ln2/r8/k2/r12/b16/k2/ln2/k2/o/2/)|
-|![Unidentified, Cotton sample example sett](/variants/b/8/g12/dg14/lt2/g12/dg14/lt2/g12/dg14/lt2/g12/dg14/lt2/g12/dg14/lt2/g12/b8/k16/o2/k2/ln2/k2/b16/r12/k2/r8/ln2/r8/k2/r12/b16/k2/ln2/k2/o/2-b304080-dg003000-g30a010-k000000-lne0e0e0-lt806050-off8500-rd03030/sett.png)|
+| [Unidentified, Cotton sample](/setts/s36/b8g12ga14r2g12ga14r2g12ga14r2g12ga14r2g12ga14r2g12b8k16y2k2w2k2b16ra12k2ra8w2ra8k2ra12b16k2w2k2y2-b304080-g30a010-ga003000-k000000-r806050-rad03030-we0e0e0-yff8500/)|
+|![Unidentified, Cotton sample example sett](/setts/s36/b8g12ga14r2g12ga14r2g12ga14r2g12ga14r2g12ga14r2g12b8k16y2k2w2k2b16ra12k2ra8w2ra8k2ra12b16k2w2k2y2-b304080-g30a010-ga003000-k000000-r806050-rad03030-we0e0e0-yff8500/sett.png)|

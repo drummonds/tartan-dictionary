@@ -16,5 +16,5 @@ BKBKBKGKGKBKBKBKBKBKBKKKGKBKBKBK
 
 | Tartans |
 |---------------|
-| [Hawick Dress (District)](/tartans/db/4/kc4/db6/k4/db4/kb32/g4/k48/g4/kb32/db4/k4/db6/kc4/db8/ka8/db8/kc4/db6/k4/db4/ka24/k24/k24/g4/kb24/db4/k4/db6/kc4/db8/ka/4/)|
-|![Hawick Dress (District) example sett](/variants/db/4/kc4/db6/k4/db4/kb32/g4/k48/g4/kb32/db4/k4/db6/kc4/db8/ka8/db8/kc4/db6/k4/db4/ka24/k24/k24/g4/kb24/db4/k4/db6/kc4/db8/ka/4-db1c0070-g006818-k101010-ka101010-kb101010-kc101010/sett.png)|
+| [Hawick Dress (District)](/setts/s32/b4k4b6k4b4k32g4k48g4k32b4k4b6k4b8k8b8k4b6k4b4k24k24k24g4k24b4k4b6k4b8k4-b1c0070-g006818-k101010/)|
+|![Hawick Dress (District) example sett](/setts/s32/b4k4b6k4b4k32g4k48g4k32b4k4b6k4b8k8b8k4b6k4b4k24k24k24g4k24b4k4b6k4b8k4-b1c0070-g006818-k101010/sett.png)|

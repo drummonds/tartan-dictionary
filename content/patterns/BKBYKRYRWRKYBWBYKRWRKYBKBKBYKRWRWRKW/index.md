@@ -16,5 +16,7 @@ BKBYKRYRWRKYBWBYKRWRKYBKBKBYKRWRWRKW
 
 | Tartans |
 |---------------|
-| [Ogilvie (Paton)](/tartans/b/12/k4/b12/y8/k4/r6/y4/r6/ln4/r6/k4/y4/b6/ln4/b6/y4/k4/r6/ln4/r6/k4/y4/b12/k4/b12/k4/b12/y4/k4/r6/ln4/r6/ln4/r6/k12/ln/2/)|
-|![Ogilvie (Paton) example sett](/variants/b/12/k4/b12/y8/k4/r6/y4/r6/ln4/r6/k4/y4/b6/ln4/b6/y4/k4/r6/ln4/r6/k4/y4/b12/k4/b12/k4/b12/y4/k4/r6/ln4/r6/ln4/r6/k12/ln/2-b2c4084-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
+| [Ogilvie (Paton)](/setts/s36/b12k4b12y8k4r6y4r6w4r6k4y4b6w4b6y4k4r6w4r6k4y4b12k4b12k4b12y4k4r6w4r6w4r6k12w2-b2c4084-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Ogilvie (Paton) example sett](/setts/s36/b12k4b12y8k4r6y4r6w4r6k4y4b6w4b6y4k4r6w4r6k4y4b12k4b12k4b12y4k4r6w4r6w4r6k12w2-b2c4084-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Ogilvie 6](/setts/s36/b12k4b12y8k4r6y4r6w4r6k4y4b6w4b6y4k4r6w4r6k4y4b12k4b12k4b12y4k4r6w4r6w4r6k12w2-b304080-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Ogilvie 6 example sett](/setts/s36/b12k4b12y8k4r6y4r6w4r6k4y4b6w4b6y4k4r6w4r6k4y4b12k4b12k4b12y4k4r6w4r6w4r6k12w2-b304080-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

@@ -6,7 +6,7 @@ BKBR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/db/42/k20/b16/r/6-b24486c-db2c2c84-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s4/b42k20ba16r6-b2c2c84-ba24486c-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBR
 
 | Tartans |
 |---------------|
-| [Rangers 1989 (Sports)](/tartans/db/42/k20/b16/r/6/)|
-|![Rangers 1989 (Sports) example sett](/variants/db/42/k20/b16/r/6-b24486c-db2c2c84-k101010-rc80000/sett.png)|
+| [Rangers 1989 (Sports)](/setts/s4/b42k20ba16r6-b2c2c84-ba24486c-k101010-rc80000/)|
+|![Rangers 1989 (Sports) example sett](/setts/s4/b42k20ba16r6-b2c2c84-ba24486c-k101010-rc80000/sett.png)|

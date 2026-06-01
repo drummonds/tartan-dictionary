@@ -16,5 +16,5 @@ BGBGBGBGBGBG
 
 | Tartans |
 |---------------|
-| [Montgomerie/Montgomery](/tartans/dg/54/g78/b6/g6/b8/g6/b6/g78/b6/g6/b8/g/6/)|
-|![Montgomerie/Montgomery example sett](/variants/dg/54/g78/b6/g6/b8/g6/b6/g78/b6/g6/b8/g/6-b2c4084-dg002814-g005020/sett.png)|
+| [Montgomerie/Montgomery](/setts/s12/b54g78ba6g6ba8g6ba6g78ba6g6ba8g6-b002814-ba2c4084-g005020/)|
+|![Montgomerie/Montgomery example sett](/setts/s12/b54g78ba6g6ba8g6ba6g78ba6g6ba8g6-b002814-ba2c4084-g005020/sett.png)|

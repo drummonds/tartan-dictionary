@@ -6,7 +6,7 @@ BBGYWK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/n/8/b8/lg62/ly4/w8/t/32-b5f749c-lg649848-lyf8e38c-n433a5a-wf9f5ef/tartan.png)
+![Woven sample](/setts/s6/b16ba16g124y8w16k64-b433a5a-ba5f749c-g649848-k000000-wf9f5ef-yf8e38c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGYWK
 
 | Tartans |
 |---------------|
-| [Lethcoe (Thousand Oaks) (Personal)](/tartans/n/8/b8/lg62/ly4/w8/t/32/)|
-|![Lethcoe (Thousand Oaks) (Personal) example sett](/variants/n/8/b8/lg62/ly4/w8/t/32-b5f749c-lg649848-lyf8e38c-n433a5a-wf9f5ef/sett.png)|
+| [Lethcoe (Thousand Oaks) (Personal)](/setts/s6/b16ba16g124y8w16k64-b433a5a-ba5f749c-g649848-k000000-wf9f5ef-yf8e38c/)|
+|![Lethcoe (Thousand Oaks) (Personal) example sett](/setts/s6/b16ba16g124y8w16k64-b433a5a-ba5f749c-g649848-k000000-wf9f5ef-yf8e38c/sett.png)|

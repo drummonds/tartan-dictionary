@@ -6,7 +6,7 @@ BBBBWBB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/4/ba4/b12/ba8/w2/ba8/b/4-b144683-ba2194d3-wffffff/tartan.png)
+![Woven sample](/setts/s7/b8ba16w4ba16b24ba8b8-b144683-ba2194d3-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBWBB
 
 | Tartans |
 |---------------|
-| [Langdons](/tartans/b/4/ba4/b12/ba8/w2/ba8/b/4/)|
-|![Langdons example sett](/variants/b/4/ba4/b12/ba8/w2/ba8/b/4-b144683-ba2194d3-wffffff/sett.png)|
+| [Langdons](/setts/s7/b8ba16w4ba16b24ba8b8-b144683-ba2194d3-wffffff/)|
+|![Langdons example sett](/setts/s7/b8ba16w4ba16b24ba8b8-b144683-ba2194d3-wffffff/sett.png)|

@@ -16,5 +16,5 @@ BBBBKGKBW
 
 | Tartans |
 |---------------|
-| [Redgate (Connecticut) Hunting](/tartans/b/2/dr8/b24/dr2/k14/n24/k14/t42/lr/2/)|
-|![Redgate (Connecticut) Hunting example sett](/variants/b/2/dr8/b24/dr2/k14/n24/k14/t42/lr/2-b788cb4-dr5d0f04-k120a01-lrddd5af-n334e3d-t402a21/sett.png)|
+| [Redgate (Connecticut) Hunting](/setts/s9/b2ba8b24ba2k14g24k14bb42w2-b788cb4-ba5d0f04-bb402a21-g334e3d-k120a01-wddd5af/)|
+|![Redgate (Connecticut) Hunting example sett](/setts/s9/b2ba8b24ba2k14g24k14bb42w2-b788cb4-ba5d0f04-bb402a21-g334e3d-k120a01-wddd5af/sett.png)|

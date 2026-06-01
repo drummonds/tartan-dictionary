@@ -6,7 +6,7 @@ BKGKBKWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/6/k60/n34/k6/b22/k10/ln10/k/10-b2888c4-k101010-lne0e0e0-n808080/tartan.png)
+![Woven sample](/setts/s8/b6k60g34k6b22k10w10k10-b2888c4-g808080-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGKBKWK
 
 | Tartans |
 |---------------|
-| [Australian Police](/tartans/b/6/k60/n34/k6/b22/k10/ln10/k/10/)|
-|![Australian Police example sett](/variants/b/6/k60/n34/k6/b22/k10/ln10/k/10-b2888c4-k101010-lne0e0e0-n808080/sett.png)|
+| [Australian Police](/setts/s8/b6k60g34k6b22k10w10k10-b2888c4-g808080-k101010-we0e0e0/)|
+|![Australian Police example sett](/setts/s8/b6k60g34k6b22k10w10k10-b2888c4-g808080-k101010-we0e0e0/sett.png)|

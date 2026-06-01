@@ -6,7 +6,7 @@ BKGKGKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/g/28/k2/g8/k2/g8/k16/p/100-g006818-k101010-p780078/tartan.png)
+![Woven sample](/setts/s7/b100k16g8k2g8k2g28-b780078-g006818-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGKGKG
 
 | Tartans |
 |---------------|
-| [Ahmlaigh (Corporate)](/tartans/g/28/k2/g8/k2/g8/k16/p/100/)|
-|![Ahmlaigh (Corporate) example sett](/variants/g/28/k2/g8/k2/g8/k16/p/100-g006818-k101010-p780078/sett.png)|
+| [Ahmlaigh (Corporate)](/setts/s7/b100k16g8k2g8k2g28-b780078-g006818-k101010/)|
+|![Ahmlaigh (Corporate) example sett](/setts/s7/b100k16g8k2g8k2g28-b780078-g006818-k101010/sett.png)|

@@ -16,5 +16,5 @@ BGBGWRBGRKRK
 
 | Tartans |
 |---------------|
-| [Glengaela (Fashion)](/tartans/dp/6/b6/db6/dg4/n16/lr16/db8/dg6/lr6/k6/lr30/k/4/)|
-|![Glengaela (Fashion) example sett](/variants/dp/6/b6/db6/dg4/n16/lr16/db8/dg6/lr6/k6/lr30/k/4-b009468-db2c2c80-dg003820-dp440044-k101010-lre87878-nc0c0c0/sett.png)|
+| [Glengaela (Fashion)](/setts/s12/b6g6ba6ga4w16r16ba8ga6r6k6r30k4-b440044-ba2c2c80-g009468-ga003820-k101010-re87878-wc0c0c0/)|
+|![Glengaela (Fashion) example sett](/setts/s12/b6g6ba6ga4w16r16ba8ga6r6k6r30k4-b440044-ba2c2c80-g009468-ga003820-k101010-re87878-wc0c0c0/sett.png)|

@@ -6,7 +6,7 @@ BKBKYKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/48/k6/db10/k46/y4/k22/g/44-db2c2c80-g006818-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b48k6b10k46y4k22g44-b2c2c80-g006818-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBKYKG
 
 | Tartans |
 |---------------|
-| [Mowat (Clans Originaux)](/tartans/db/48/k6/db10/k46/y4/k22/g/44/)|
-|![Mowat (Clans Originaux) example sett](/variants/db/48/k6/db10/k46/y4/k22/g/44-db2c2c80-g006818-k101010-ye8c000/sett.png)|
-| [Mowat](/tartans/b/48/k6/b10/k46/y4/k22/g/43/)|
-|![Mowat example sett](/variants/b/48/k6/b10/k46/y4/k22/g/43-b304080-g008000-k000000-yf0c000/sett.png)|
+| [Mowat (Clans Originaux)](/setts/s7/b48k6b10k46y4k22g44-b2c2c80-g006818-k101010-ye8c000/)|
+|![Mowat (Clans Originaux) example sett](/setts/s7/b48k6b10k46y4k22g44-b2c2c80-g006818-k101010-ye8c000/sett.png)|
+| [Mowat](/setts/s7/b48k6b10k46y4k22g43-b304080-g008000-k000000-yf0c000/)|
+|![Mowat example sett](/setts/s7/b48k6b10k46y4k22g43-b304080-g008000-k000000-yf0c000/sett.png)|

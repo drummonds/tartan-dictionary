@@ -16,5 +16,7 @@ BBBGRGBBYGYBBGRGBB
 
 | Tartans |
 |---------------|
-| [Heriot Watt University](/tartans/ba/64/db2/gb32/dr4/gb4/dn36/ba8/dy2/gb10/dy2/ba8/dn36/gb4/dr4/gb32/db2/ba64/dn/6/)|
-|![Heriot Watt University example sett](/variants/ba/64/db2/gb32/dr4/gb4/dn36/ba8/dy2/gb10/dy2/ba8/dn36/gb4/dr4/gb32/db2/ba64/dn/6-b2888c4-ba1474b4-db202060-dg003820-dn14283c-dra00000-dyd09800-g408060-ga289c18-gb285800/sett.png)|
+| [Heriot Watt University](/setts/s18/b6ba64bb2g32r4g4b36ba8y2g10y2ba8b36g4r4g32bb2ba64-b14283c-ba1474b4-bb202060-g285800-ra00000-yd09800/)|
+|![Heriot Watt University example sett](/setts/s18/b6ba64bb2g32r4g4b36ba8y2g10y2ba8b36g4r4g32bb2ba64-b14283c-ba1474b4-bb202060-g285800-ra00000-yd09800/sett.png)|
+| [Heriot Watt University Corporate Tartan Tartan Number: 2407. Earliest known date: 1996 Created in 1996 for the 30th anniversary of the Grant of the University's charter. Count from a tie supplied by the Development Officer of the University. Sample in STA's Johnston Collection- notes say from MacPhersons of Edinburgh by Ingles Buchan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/b6ba64bb2g32r4g4b36ba8y2g10y2ba8b36g4r4g32bb2ba64-b14283c-ba1474b4-bb202060-g285800-ra00000-yd09800/)|
+|![Heriot Watt University Corporate Tartan Tartan Number: 2407. Earliest known date: 1996 Created in 1996 for the 30th anniversary of the Grant of the University's charter. Count from a tie supplied by the Development Officer of the University. Sample in STA's Johnston Collection- notes say from MacPhersons of Edinburgh by Ingles Buchan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/b6ba64bb2g32r4g4b36ba8y2g10y2ba8b36g4r4g32bb2ba64-b14283c-ba1474b4-bb202060-g285800-ra00000-yd09800/sett.png)|

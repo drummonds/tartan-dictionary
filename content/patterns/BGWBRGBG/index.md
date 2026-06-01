@@ -6,7 +6,7 @@ BGWBRGBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/g/8/k20/g20/lt12/k2/ly52/g4/k/2-g004800-k381c0c-ltb07430-lyf8f4d0/tartan.png)
+![Woven sample](/setts/s8/b4g8w104b4r24g40b40g16-b381c0c-g004800-rb07430-wf8f4d0/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BGWBRGBG
 
 | Tartans |
 |---------------|
-| [Dogwood](/tartans/g/8/k20/g20/lt12/k2/ly52/g4/k/2/)|
-|![Dogwood example sett](/variants/g/8/k20/g20/lt12/k2/ly52/g4/k/2-g004800-k381c0c-ltb07430-lyf8f4d0/sett.png)|
-| [National Trust](/tartans/dg/4/dr16/dg16/lt6/dr2/ln24/dg4/dr/2/)|
-|![National Trust example sett](/variants/dg/4/dr16/dg16/lt6/dr2/ln24/dg4/dr/2-dg004010-dr401000-lne0e0e0-lt906030/sett.png)|
+| [Dogwood](/setts/s8/b4g8w104b4r24g40b40g16-b381c0c-g004800-rb07430-wf8f4d0/)|
+|![Dogwood example sett](/setts/s8/b4g8w104b4r24g40b40g16-b381c0c-g004800-rb07430-wf8f4d0/sett.png)|
+| [Dogwood (Fashion)](/setts/s8/b4g8w104b4r24g40b40g16-b381c0c-g004800-rb07430-wf8f4d0/)|
+|![Dogwood (Fashion) example sett](/setts/s8/b4g8w104b4r24g40b40g16-b381c0c-g004800-rb07430-wf8f4d0/sett.png)|
+| [National Trust](/setts/s8/b2g4w24b2r6g16b16g4-b401000-g004010-r906030-we0e0e0/)|
+|![National Trust example sett](/setts/s8/b2g4w24b2r6g16b16g4-b401000-g004010-r906030-we0e0e0/sett.png)|

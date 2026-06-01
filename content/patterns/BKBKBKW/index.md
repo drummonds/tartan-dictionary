@@ -6,7 +6,7 @@ BKBKBKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/lb/6/k8/n6/k80/n24/k14/n/68-k000000-lb82cffd-n666666/tartan.png)
+![Woven sample](/setts/s7/b68k14b24k80b6k8w6-b666666-k000000-w82cffd/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKBKW
 
 | Tartans |
 |---------------|
-| [TACC](/tartans/lb/6/k8/n6/k80/n24/k14/n/68/)|
-|![TACC example sett](/variants/lb/6/k8/n6/k80/n24/k14/n/68-k000000-lb82cffd-n666666/sett.png)|
+| [TACC](/setts/s7/b68k14b24k80b6k8w6-b666666-k000000-w82cffd/)|
+|![TACC example sett](/setts/s7/b68k14b24k80b6k8w6-b666666-k000000-w82cffd/sett.png)|

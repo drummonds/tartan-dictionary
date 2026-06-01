@@ -16,5 +16,5 @@ BBKBBKBBKBBKBBKBBKWBWKRWRKWRYYYYYYYY
 
 | Tartans |
 |---------------|
-| [Am Yisrael Chair (Corporate)](/tartans/p/2/db4/k2/p2/db4/k2/p2/db4/k2/p2/db4/k2/p2/db4/k2/p2/db4/k2/ln54/db54/ln12/k6/n4/ln2/n4/k6/ln4/dr18/dy4/y2/dy4/y2/dy4/y2/dy4/y/2/)|
-|![Am Yisrael Chair (Corporate) example sett](/variants/p/2/db4/k2/p2/db4/k2/p2/db4/k2/p2/db4/k2/p2/db4/k2/p2/db4/k2/ln54/db54/ln12/k6/n4/ln2/n4/k6/ln4/dr18/dy4/y2/dy4/y2/dy4/y2/dy4/y/2-db2c2c80-dr880000-dybc8c00-k101010-lne0e0e0-n888888-p780078-ye8c000/sett.png)|
+| [Am Yisrael Chair (Corporate)](/setts/s36/b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2w54ba54w12k6r4w2r4k6w4ra18y4ya2y4ya2y4ya2y4ya2-b780078-ba2c2c80-k101010-r888888-ra880000-we0e0e0-ybc8c00-yae8c000/)|
+|![Am Yisrael Chair (Corporate) example sett](/setts/s36/b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2w54ba54w12k6r4w2r4k6w4ra18y4ya2y4ya2y4ya2y4ya2-b780078-ba2c2c80-k101010-r888888-ra880000-we0e0e0-ybc8c00-yae8c000/sett.png)|

@@ -16,5 +16,5 @@ BKBKYKBBKBYBKBBKYKBK
 
 | Tartans |
 |---------------|
-| [Skye, Isle of](/tartans/b/90/k20/n4/k4/dy4/k4/n20/b8/k2/b10/dy2/b10/k2/b8/n20/k4/dy4/k4/n4/k/20/)|
-|![Skye, Isle of example sett](/variants/b/90/k20/n4/k4/dy4/k4/n20/b8/k2/b10/dy2/b10/k2/b8/n20/k4/dy4/k4/n4/k/20-b2474e8-dyd09800-k101010-n5c5c5c/sett.png)|
+| [Skye, Isle of](/setts/s20/b90k20ba4k4y4k4ba20b8k2b10y2b10k2b8ba20k4y4k4ba4k20-b2474e8-ba5c5c5c-k101010-yd09800/)|
+|![Skye, Isle of example sett](/setts/s20/b90k20ba4k4y4k4ba20b8k2b10y2b10k2b8ba20k4y4k4ba4k20-b2474e8-ba5c5c5c-k101010-yd09800/sett.png)|

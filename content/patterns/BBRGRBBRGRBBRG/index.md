@@ -16,5 +16,7 @@ BBRGRBBRGRBBRG
 
 | Tartans |
 |---------------|
-| [Glenorchy](/tartans/b/4/ba2/r4/g32/r4/b12/ba2/r4/g12/r4/b32/ba2/r4/g/4/)|
-|![Glenorchy example sett](/variants/b/4/ba2/r4/g32/r4/b12/ba2/r4/g12/r4/b32/ba2/r4/g/4-b2c4084-ba3c82af-g005020-rdc0000/sett.png)|
+| [Glenorchy](/setts/s14/b4ba2r4g32r4b12ba2r4g12r4b32ba2r4g4-b2c4084-ba3c82af-g005020-rdc0000/)|
+|![Glenorchy example sett](/setts/s14/b4ba2r4g32r4b12ba2r4g12r4b32ba2r4g4-b2c4084-ba3c82af-g005020-rdc0000/sett.png)|
+| [Glen Orchy](/setts/s14/b4ba2r4g32r4b12ba2r4g12r4b32ba2r4g4-b304080-ba5480b0-g008000-rc00000/)|
+|![Glen Orchy example sett](/setts/s14/b4ba2r4g32r4b12ba2r4g12r4b32ba2r4g4-b304080-ba5480b0-g008000-rc00000/sett.png)|

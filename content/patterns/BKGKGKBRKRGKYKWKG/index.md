@@ -16,15 +16,23 @@ BKGKGKBRKRGKYKWKG
 
 | Tartans |
 |---------------|
-| [Cunningham Hunting](/tartans/db/24/k4/g4/k4/g4/k4/db26/dr12/k20/dr12/g26/k4/dy4/k4/n4/k4/g/24/)|
-|![Cunningham Hunting example sett](/variants/db/24/k4/g4/k4/g4/k4/db26/dr12/k20/dr12/g26/k4/dy4/k4/n4/k4/g/24-db1c0070-dr880000-dyd09800-g006818-k101010-nc0c0c0/sett.png)|
-| [Nicolson Green Hunting](/tartans/db/24/k2/g2/k2/g2/k2/db18/dr4/k36/dr4/g18/k2/dy2/k2/n2/k2/g/24/)|
-|![Nicolson Green Hunting example sett](/variants/db/24/k2/g2/k2/g2/k2/db18/dr4/k36/dr4/g18/k2/dy2/k2/n2/k2/g/24-db1c0070-dr880000-dyd09800-g006818-k101010-nc0c0c0/sett.png)|
-| [MacNicol Hunting](/tartans/b/40/k4/g4/k4/g4/k4/b40/r10/k38/r10/g38/k4/y4/k4/ln4/k4/g/40/)|
-|![MacNicol Hunting example sett](/variants/b/40/k4/g4/k4/g4/k4/b40/r10/k38/r10/g38/k4/y4/k4/ln4/k4/g/40-b1474b4-g408060-k101010-lne0e0e0-rc80000-ye8c000/sett.png)|
-| [MacNicol Hunting](/tartans/db/20/k2/g2/k2/g2/k2/db20/r6/k20/r6/g20/k2/y2/k2/n2/k2/g/20/)|
-|![MacNicol Hunting example sett](/variants/db/20/k2/g2/k2/g2/k2/db20/r6/k20/r6/g20/k2/y2/k2/n2/k2/g/20-db000064-g004c00-k000000-nd0d0d0-rc80000-yffc800/sett.png)|
-| [Cunningham, hunting](/tartans/b/20/k2/g2/k2/g2/k2/b20/r6/k20/r6/g20/k2/y2/k2/ln2/k2/g/20/)|
-|![Cunningham, hunting example sett](/variants/b/20/k2/g2/k2/g2/k2/b20/r6/k20/r6/g20/k2/y2/k2/ln2/k2/g/20-b304080-g008000-k000000-lne0e0e0-rc00000-yf0c000/sett.png)|
-| [Nicolson Hunting Clan Tartan Tartan Number: 322. Earliest known date: Aberdeen From a kilt in the possession of the Aberdeen kiltmakers, Alex Scott and Company. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/20/k2/g2/k2/g2/k2/db20/r6/k20/r6/g20/k2/y2/k2/ln2/k2/g/20/)|
-|![Nicolson Hunting Clan Tartan Tartan Number: 322. Earliest known date: Aberdeen From a kilt in the possession of the Aberdeen kiltmakers, Alex Scott and Company. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/20/k2/g2/k2/g2/k2/db20/r6/k20/r6/g20/k2/y2/k2/ln2/k2/g/20-db2c2c80-g006818-k101010-lne0e0e0-rc80000-ye8c000/sett.png)|
+| [Cunningham Hunting](/setts/s17/b24k4g4k4g4k4b26r12k20r12g26k4y4k4w4k4g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
+|![Cunningham Hunting example sett](/setts/s17/b24k4g4k4g4k4b26r12k20r12g26k4y4k4w4k4g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Nicolson Green Hunting](/setts/s17/b24k2g2k2g2k2b18r4k36r4g18k2y2k2w2k2g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
+|![Nicolson Green Hunting example sett](/setts/s17/b24k2g2k2g2k2b18r4k36r4g18k2y2k2w2k2g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [MacNicol Hunting](/setts/s17/b40k4g4k4g4k4b40r10k38r10g38k4y4k4w4k4g40-b1474b4-g408060-k101010-rc80000-we0e0e0-ye8c000/)|
+|![MacNicol Hunting example sett](/setts/s17/b40k4g4k4g4k4b40r10k38r10g38k4y4k4w4k4g40-b1474b4-g408060-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Nicolson Green (Htg) (Clan)](/setts/s17/b24k2g2k2g2k2b18r4k36r4g18k2y2k2w2k2g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
+|![Nicolson Green (Htg) (Clan) example sett](/setts/s17/b24k2g2k2g2k2b18r4k36r4g18k2y2k2w2k2g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Cunningham Htg (Clan)](/setts/s17/b24k4g4k4g4k4b26r12k20r12g26k4y4k4w4k4g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
+|![Cunningham Htg (Clan) example sett](/setts/s17/b24k4g4k4g4k4b26r12k20r12g26k4y4k4w4k4g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [MacNicol Htg (Clan)](/setts/s17/b40k4g4k4g4k4b40r10k38r10g38k4y4k4w4k4g40-b1474b4-g408060-k101010-rc80000-we0e0e0-ye8c000/)|
+|![MacNicol Htg (Clan) example sett](/setts/s17/b40k4g4k4g4k4b40r10k38r10g38k4y4k4w4k4g40-b1474b4-g408060-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [MacNicol Hunting](/setts/s17/b10k1g1k1g1k1b10r3k10r3g10k1y1k1w1k1g10-b000064-g004c00-k000000-rc80000-wd0d0d0-yffc800/)|
+|![MacNicol Hunting example sett](/setts/s17/b10k1g1k1g1k1b10r3k10r3g10k1y1k1w1k1g10-b000064-g004c00-k000000-rc80000-wd0d0d0-yffc800/sett.png)|
+| [Cunningham, hunting](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2w2k2g20-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Cunningham, hunting example sett](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2w2k2g20-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Nicolson, MacNicol](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2w2k2g20-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Nicolson, MacNicol example sett](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2w2k2g20-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Nicolson Hunting Clan Tartan Tartan Number: 322. Earliest known date: Aberdeen From a kilt in the possession of the Aberdeen kiltmakers, Alex Scott and Company. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2w2k2g20-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Nicolson Hunting Clan Tartan Tartan Number: 322. Earliest known date: Aberdeen From a kilt in the possession of the Aberdeen kiltmakers, Alex Scott and Company. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s17/b20k2g2k2g2k2b20r6k20r6g20k2y2k2w2k2g20-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

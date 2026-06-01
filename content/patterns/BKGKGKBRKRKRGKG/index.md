@@ -16,5 +16,5 @@ BKGKGKBRKRKRGKG
 
 | Tartans |
 |---------------|
-| [Earl of Dumfries (Personal)](/tartans/db/26/k4/g4/k4/g4/k4/db26/r6/k20/r4/k20/r6/g26/k12/g/26/)|
-|![Earl of Dumfries (Personal) example sett](/variants/db/26/k4/g4/k4/g4/k4/db26/r6/k20/r4/k20/r6/g26/k12/g/26-db202060-g285800-k101010-rc80000/sett.png)|
+| [Earl of Dumfries (Personal)](/setts/s15/b26k4g4k4g4k4b26r6k20r4k20r6g26k12g26-b202060-g285800-k101010-rc80000/)|
+|![Earl of Dumfries (Personal) example sett](/setts/s15/b26k4g4k4g4k4b26r6k20r4k20r6g26k12g26-b202060-g285800-k101010-rc80000/sett.png)|

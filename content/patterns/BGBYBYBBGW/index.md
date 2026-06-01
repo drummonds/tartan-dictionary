@@ -16,5 +16,5 @@ BGBYBYBBGW
 
 | Tartans |
 |---------------|
-| [Highland, Green (Corporate)](/tartans/p/8/g26/db10/y6/b12/y6/db10/n12/g56/w/4/)|
-|![Highland, Green (Corporate) example sett](/variants/p/8/g26/db10/y6/b12/y6/db10/n12/g56/w/4-b5c8ca8-db2c2c80-g006818-n5c5c5c-p780078-wfcfcfc-ye8c000/sett.png)|
+| [Highland, Green (Corporate)](/setts/s10/b8g26ba10y6bb12y6ba10bc12g56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wfcfcfc-ye8c000/)|
+|![Highland, Green (Corporate) example sett](/setts/s10/b8g26ba10y6bb12y6ba10bc12g56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wfcfcfc-ye8c000/sett.png)|

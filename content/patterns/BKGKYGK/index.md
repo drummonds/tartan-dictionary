@@ -6,7 +6,7 @@ BKGKYGK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/160/k10/g24/k4/y4/g4/k/20-db2c2c80-g006818-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b160k10g24k4y4g4k20-b2c2c80-g006818-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKGKYGK
 
 | Tartans |
 |---------------|
-| [Affara (Personal)](/tartans/db/160/k10/g24/k4/y4/g4/k/20/)|
-|![Affara (Personal) example sett](/variants/db/160/k10/g24/k4/y4/g4/k/20-db2c2c80-g006818-k101010-ye8c000/sett.png)|
+| [Affara (Personal)](/setts/s7/b160k10g24k4y4g4k20-b2c2c80-g006818-k101010-ye8c000/)|
+|![Affara (Personal) example sett](/setts/s7/b160k10g24k4y4g4k20-b2c2c80-g006818-k101010-ye8c000/sett.png)|
+| [Affara (Personal)](/setts/s7/b160k10g24k4y4g4k20-b2c2c80-g006818-k101010-ye8c000/)|
+|![Affara (Personal) example sett](/setts/s7/b160k10g24k4y4g4k20-b2c2c80-g006818-k101010-ye8c000/sett.png)|

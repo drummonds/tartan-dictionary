@@ -16,5 +16,5 @@ BBBBBBBGBYR
 
 | Tartans |
 |---------------|
-| [San Diego Tartan Day (Corporate)](/tartans/n/4/db32/b4/db6/b4/db6/b16/g60/db6/y4/r/4/)|
-|![San Diego Tartan Day (Corporate) example sett](/variants/n/4/db32/b4/db6/b4/db6/b16/g60/db6/y4/r/4-b2888c4-db202060-g006818-n5c5c5c-rc80000-ye8c000/sett.png)|
+| [San Diego Tartan Day (Corporate)](/setts/s11/b4ba32bb4ba6bb4ba6bb16g60ba6y4r4-b5c5c5c-ba202060-bb2888c4-g006818-rc80000-ye8c000/)|
+|![San Diego Tartan Day (Corporate) example sett](/setts/s11/b4ba32bb4ba6bb4ba6bb16g60ba6y4r4-b5c5c5c-ba202060-bb2888c4-g006818-rc80000-ye8c000/sett.png)|

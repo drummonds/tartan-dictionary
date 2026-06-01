@@ -6,7 +6,7 @@ BBYYGYGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/8/db64/ya6/ya64/g2/ya4/g2/y/8-b2888c4-db2c2c80-g006818-ye8c000-yae8c000/tartan.png)
+![Woven sample](/setts/s8/b8ba64y6y64g2y4g2y8-b2888c4-ba2c2c80-g006818-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYYGYGY
 
 | Tartans |
 |---------------|
-| [McClurg (Name)](/tartans/b/8/db64/ya6/ya64/g2/ya4/g2/y/8/)|
-|![McClurg (Name) example sett](/variants/b/8/db64/ya6/ya64/g2/ya4/g2/y/8-b2888c4-db2c2c80-g006818-ye8c000-yae8c000/sett.png)|
+| [McClurg (Name)](/setts/s8/b8ba64y6y64g2y4g2y8-b2888c4-ba2c2c80-g006818-ye8c000/)|
+|![McClurg (Name) example sett](/setts/s8/b8ba64y6y64g2y4g2y8-b2888c4-ba2c2c80-g006818-ye8c000/sett.png)|

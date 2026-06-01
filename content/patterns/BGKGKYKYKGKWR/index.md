@@ -16,5 +16,5 @@ BGKGKYKYKGKWR
 
 | Tartans |
 |---------------|
-| [Buchanan Dress](/tartans/b/6/t68/k4/n8/k4/y14/k4/y14/k4/n8/k4/ln68/r/6/)|
-|![Buchanan Dress example sett](/variants/b/6/t68/k4/n8/k4/y14/k4/y14/k4/n8/k4/ln68/r/6-b3c82af-k101010-lne0e0e0-n808080-rdc0000-t503c14-ye8c000/sett.png)|
+| [Buchanan Dress](/setts/s13/b6g68k4ga8k4y14k4y14k4ga8k4w68r6-b3c82af-g503c14-ga808080-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Buchanan Dress example sett](/setts/s13/b6g68k4ga8k4y14k4y14k4ga8k4w68r6-b3c82af-g503c14-ga808080-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|

@@ -16,5 +16,5 @@ BGGWGGYRYGGWGG
 
 | Tartans |
 |---------------|
-| [Hannigan of Dirleton (Personal)](/tartans/ga/8/g4/ln6/ga54/g60/y2/r6/y2/g60/ga54/ln6/g4/ga8/p/8/)|
-|![Hannigan of Dirleton (Personal) example sett](/variants/ga/8/g4/ln6/ga54/g60/y2/r6/y2/g60/ga54/ln6/g4/ga8/p/8-g5c6428-ga006818-lg789484-lne0e0e0-lrec34c4-p780078-rc8002c-ye8c000/sett.png)|
+| [Hannigan of Dirleton (Personal)](/setts/s14/b8g8ga4w6g54ga60y2r6y2ga60g54w6ga4g8-b780078-g006818-ga5c6428-rc8002c-we0e0e0-ye8c000/)|
+|![Hannigan of Dirleton (Personal) example sett](/setts/s14/b8g8ga4w6g54ga60y2r6y2ga60g54w6ga4g8-b780078-g006818-ga5c6428-rc8002c-we0e0e0-ye8c000/sett.png)|

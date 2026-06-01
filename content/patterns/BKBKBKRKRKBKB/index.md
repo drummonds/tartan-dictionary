@@ -16,7 +16,9 @@ BKBKBKRKRKBKB
 
 | Tartans |
 |---------------|
-| [MacDevitt](/tartans/db/24/k4/db4/k4/db4/k20/dr24/k6/dr24/k20/db24/k4/db/4/)|
-|![MacDevitt example sett](/variants/db/24/k4/db4/k4/db4/k20/dr24/k6/dr24/k20/db24/k4/db/4-db1c0070-dr880000-k101010/sett.png)|
-| [Wine Watch (Fashion)](/tartans/db/22/k2/db2/k2/db2/k16/dr16/k2/dr16/k16/db16/k2/db/2/)|
-|![Wine Watch (Fashion) example sett](/variants/db/22/k2/db2/k2/db2/k16/dr16/k2/dr16/k16/db16/k2/db/2-db2c2c80-dr800030-k101010/sett.png)|
+| [MacDevitt](/setts/s13/b24k4b4k4b4k20r24k6r24k20b24k4b4-b1c0070-k101010-r880000/)|
+|![MacDevitt example sett](/setts/s13/b24k4b4k4b4k20r24k6r24k20b24k4b4-b1c0070-k101010-r880000/sett.png)|
+| [Wine Watch (Fashion)](/setts/s13/b44k4b4k4b4k32r32k4r32k32b32k4b4-b2c2c80-k101010-r800030/)|
+|![Wine Watch (Fashion) example sett](/setts/s13/b44k4b4k4b4k32r32k4r32k32b32k4b4-b2c2c80-k101010-r800030/sett.png)|
+| [MacDevitt (Name)](/setts/s13/b24k4b4k4b4k20r24k6r24k20b24k4b4-b1c0070-k101010-r880000/)|
+|![MacDevitt (Name) example sett](/setts/s13/b24k4b4k4b4k20r24k6r24k20b24k4b4-b1c0070-k101010-r880000/sett.png)|

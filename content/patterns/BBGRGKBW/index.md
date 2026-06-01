@@ -6,7 +6,7 @@ BBGRGKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/p/48/dba4/g6/lp4/g6/k22/dba58/w/4-db2c2c80-dba2c2c4c-g006818-k101010-lp9c68a4-p780078-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBGRGKBW
 
 | Tartans |
 |---------------|
-| [Alba](/tartans/p/48/dba4/g6/lp4/g6/k22/dba58/w/4/)|
-|![Alba example sett](/variants/p/48/dba4/g6/lp4/g6/k22/dba58/w/4-db2c2c80-dba2c2c4c-g006818-k101010-lp9c68a4-p780078-wfcfcfc/sett.png)|
-| [Alba (Fashion)](/tartans/p/48/db4/g6/lp4/g6/k22/db58/w/4/)|
-|![Alba (Fashion) example sett](/variants/p/48/db4/g6/lp4/g6/k22/db58/w/4-db2c2c4c-g006818-k101010-lp9c68a4-p780078-wfcfcfc/sett.png)|
+| [Alba](/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/)|
+|![Alba example sett](/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/sett.png)|
+| [Alba (Fashion)](/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/)|
+|![Alba (Fashion) example sett](/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/sett.png)|

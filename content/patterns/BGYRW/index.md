@@ -6,7 +6,7 @@ BGYRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/6/g68/y4/r12/w/16-b0000ff-g006633-re32636-wffffff-yeeb422/tartan.png)
+![Woven sample](/setts/s5/b6g68y4r12w16-b0000ff-g006633-re32636-wffffff-yeeb422/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGYRW
 
 | Tartans |
 |---------------|
-| [Milling-Christensen](/tartans/b/6/g68/y4/r12/w/16/)|
-|![Milling-Christensen example sett](/variants/b/6/g68/y4/r12/w/16-b0000ff-g006633-re32636-wffffff-yeeb422/sett.png)|
-| [Milling-Kristensen (Personal)](/tartans/b/6/g68/dy4/r12/ln/16/)|
-|![Milling-Kristensen (Personal) example sett](/variants/b/6/g68/dy4/r12/ln/16-b3068a4-dybc8c00-g007460-lne0e0e0-rc80000/sett.png)|
+| [Milling-Christensen](/setts/s5/b6g68y4r12w16-b0000ff-g006633-re32636-wffffff-yeeb422/)|
+|![Milling-Christensen example sett](/setts/s5/b6g68y4r12w16-b0000ff-g006633-re32636-wffffff-yeeb422/sett.png)|
+| [Milling-Kristensen (Personal)](/setts/s5/b6g68y4r12w16-b3068a4-g007460-rc80000-we0e0e0-ybc8c00/)|
+|![Milling-Kristensen (Personal) example sett](/setts/s5/b6g68y4r12w16-b3068a4-g007460-rc80000-we0e0e0-ybc8c00/sett.png)|

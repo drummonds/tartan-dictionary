@@ -16,5 +16,5 @@ BBBBBGBGB
 
 | Tartans |
 |---------------|
-| [Begg (Personal)](/tartans/dba/2/dp4/dba26/b3/dba2/g3/db12/ga30/p/4/)|
-|![Begg (Personal) example sett](/variants/dba/2/dp4/dba26/b3/dba2/g3/db12/ga30/p/4-b2888c4-db2c2c80-dba202060-dp440044-g289c18-ga006818-p9058d8/sett.png)|
+| [Begg (Personal)](/setts/s9/b2ba4b26bb3b2g3bc12ga30bd4-b202060-ba440044-bb2888c4-bc2c2c80-bd9058d8-g289c18-ga006818/)|
+|![Begg (Personal) example sett](/setts/s9/b2ba4b26bb3b2g3bc12ga30bd4-b202060-ba440044-bb2888c4-bc2c2c80-bd9058d8-g289c18-ga006818/sett.png)|

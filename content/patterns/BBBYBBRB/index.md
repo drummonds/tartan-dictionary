@@ -6,7 +6,7 @@ BBBYBBRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/8/r2/db4/b14/y2/db4/b4/db/18-b1474b4-db2c2c80-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b16r4ba8b28y4ba8b8ba36-b1474b4-ba2c2c80-rc80000-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBYBBRB
 
 | Tartans |
 |---------------|
-| [Mercer, Charles](/tartans/b/8/r2/db4/b14/y2/db4/b4/db/18/)|
-|![Mercer, Charles example sett](/variants/b/8/r2/db4/b14/y2/db4/b4/db/18-b1474b4-db2c2c80-rc80000-ye8c000/sett.png)|
+| [Mercer, Charles](/setts/s8/b16r4ba8b28y4ba8b8ba36-b1474b4-ba2c2c80-rc80000-ye8c000/)|
+|![Mercer, Charles example sett](/setts/s8/b16r4ba8b28y4ba8b8ba36-b1474b4-ba2c2c80-rc80000-ye8c000/sett.png)|
+| [Mercer, Charles (Name)](/setts/s8/b16r4ba8b28y4ba8b8ba36-b1474b4-ba2c2c80-rc80000-ye8c000/)|
+|![Mercer, Charles (Name) example sett](/setts/s8/b16r4ba8b28y4ba8b8ba36-b1474b4-ba2c2c80-rc80000-ye8c000/sett.png)|

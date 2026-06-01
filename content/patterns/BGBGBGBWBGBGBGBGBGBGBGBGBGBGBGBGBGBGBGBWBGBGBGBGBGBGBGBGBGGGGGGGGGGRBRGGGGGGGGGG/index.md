@@ -16,5 +16,5 @@ BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG
 
 | Tartans |
 |---------------|
-| [Virginia (USA)](/tartans/bb/2/ga2/bb2/ga2/bb2/ga2/bb32/lp64/bb32/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb32/lp64/bb32/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga32/g2/ga2/g2/ga2/g2/ga2/g2/ga2/g16/lpa32/p64/lpa32/g16/ga2/g2/ga2/g2/ga2/g2/ga2/g2/ga/32/)|
-|![Virginia (USA) example sett](/variants/bb/2/ga2/bb2/ga2/bb2/ga2/bb32/lp64/bb32/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb32/lp64/bb32/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga2/bb2/ga32/g2/ga2/g2/ga2/g2/ga2/g2/ga2/g16/lpa32/p64/lpa32/g16/ga2/g2/ga2/g2/ga2/g2/ga2/g2/ga/32-b1870a4-ba48a4c0-bb1474b4-g289c18-ga006818-lpa8ace8-lpa9c68a4-p780078/sett.png)|
+| [Virginia (USA)](/setts/s80/b2g2b2g2b2g2b32w64b32g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b32w64b32g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g32ga2g2ga2g2ga2g2ga2g2ga16r32ba64r32ga16g2ga2g2ga2g2ga2g2ga2g32-b1474b4-ba78007-h2f8e48c091534ac0/)|
+|![Virginia (USA) example sett](/setts/s80/b2g2b2g2b2g2b32w64b32g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b32w64b32g2b2g2b2g2b2g2b2g2b2g2b2g2b2g2b2g32ga2g2ga2g2ga2g2ga2g2ga16r32ba64r32ga16g2ga2g2ga2g2ga2g2ga2g32-b1474b4-ba78007-h2f8e48c091534ac0/sett.png)|

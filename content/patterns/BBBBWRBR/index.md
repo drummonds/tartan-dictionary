@@ -6,7 +6,7 @@ BBBBWRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/6/dr4/db36/dr2/ln20/n36/dr4/n/6-db202060-dr480800-lne0e0e0-n888888/tartan.png)
+![Woven sample](/setts/s8/b6ba4b36ba2w20r36ba4r6-b202060-ba480800-r888888-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBWRBR
 
 | Tartans |
 |---------------|
-| [Bannockbane Silver](/tartans/db/6/dr4/db36/dr2/ln20/n36/dr4/n/6/)|
-|![Bannockbane Silver example sett](/variants/db/6/dr4/db36/dr2/ln20/n36/dr4/n/6-db202060-dr480800-lne0e0e0-n888888/sett.png)|
+| [Bannockbane Silver](/setts/s8/b6ba4b36ba2w20r36ba4r6-b202060-ba480800-r888888-we0e0e0/)|
+|![Bannockbane Silver example sett](/setts/s8/b6ba4b36ba2w20r36ba4r6-b202060-ba480800-r888888-we0e0e0/sett.png)|

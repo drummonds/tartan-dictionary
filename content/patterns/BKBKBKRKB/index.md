@@ -16,5 +16,5 @@ BKBKBKRKB
 
 | Tartans |
 |---------------|
-| [Trotter (Personal)](/tartans/n/46/db4/n4/db4/n4/db56/dr4/db8/na/4/)|
-|![Trotter (Personal) example sett](/variants/n/46/db4/n4/db4/n4/db56/dr4/db8/na/4-db00002c-dr880000-n344454-na305060/sett.png)|
+| [Trotter (Personal)](/setts/s9/b4k8r4k56ba4k4ba4k4ba46-b305060-ba344454-k00002c-r880000/)|
+|![Trotter (Personal) example sett](/setts/s9/b4k8r4k56ba4k4ba4k4ba46-b305060-ba344454-k00002c-r880000/sett.png)|

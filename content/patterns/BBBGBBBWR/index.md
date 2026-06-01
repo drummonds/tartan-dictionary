@@ -16,5 +16,7 @@ BBBGBBBWR
 
 | Tartans |
 |---------------|
-| [Musselburgh Dress (Dance)](/tartans/b/28/db2/n6/g2/n6/db2/n8/w48/lr/2/)|
-|![Musselburgh Dress (Dance) example sett](/variants/b/28/db2/n6/g2/n6/db2/n8/w48/lr/2-b5c8ca8-db2c2c80-g289c18-lre87878-n5c5c5c-wf8f8f8/sett.png)|
+| [Musselburgh Dress (Dance)](/setts/s9/b56ba4bb12g4bb12ba4bb16w96r4-b5c8ca8-ba2c2c80-bb5c5c5c-g289c18-re87878-wf8f8f8/)|
+|![Musselburgh Dress (Dance) example sett](/setts/s9/b56ba4bb12g4bb12ba4bb16w96r4-b5c8ca8-ba2c2c80-bb5c5c5c-g289c18-re87878-wf8f8f8/sett.png)|
+| [Musselburgh Dress (Dance)](/setts/s9/b56ba4bb12g4bb12ba4bb16w96r4-b5c8ca8-ba2c2c80-bb5c5c5c-g289c18-re87878-wf8f8f8/)|
+|![Musselburgh Dress (Dance) example sett](/setts/s9/b56ba4bb12g4bb12ba4bb16w96r4-b5c8ca8-ba2c2c80-bb5c5c5c-g289c18-re87878-wf8f8f8/sett.png)|

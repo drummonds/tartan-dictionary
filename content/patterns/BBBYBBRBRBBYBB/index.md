@@ -16,5 +16,5 @@ BBBYBBRBRBBYBB
 
 | Tartans |
 |---------------|
-| [Mercer Blue Personal Tartan Tartan Number: 5880. Earliest known date: 2001 Designed by Dr P{hil Smith of TECA for Charles Mercer of Rocky Mount, North Carolina. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/4/db4/y2/b14/db4/r2/b8/r2/db4/b14/y2/db4/b4/db/18/)|
-|![Mercer Blue Personal Tartan Tartan Number: 5880. Earliest known date: 2001 Designed by Dr P{hil Smith of TECA for Charles Mercer of Rocky Mount, North Carolina. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/4/db4/y2/b14/db4/r2/b8/r2/db4/b14/y2/db4/b4/db/18-b1474b4-db2c2c80-rc80000-ye8c000/sett.png)|
+| [Mercer Blue Personal Tartan Tartan Number: 5880. Earliest known date: 2001 Designed by Dr P{hil Smith of TECA for Charles Mercer of Rocky Mount, North Carolina. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b8ba8y4b28ba8r4b16r4ba8b28y4ba8b8ba36-b1474b4-ba2c2c80-rc80000-ye8c000/)|
+|![Mercer Blue Personal Tartan Tartan Number: 5880. Earliest known date: 2001 Designed by Dr P{hil Smith of TECA for Charles Mercer of Rocky Mount, North Carolina. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/b8ba8y4b28ba8r4b16r4ba8b28y4ba8b8ba36-b1474b4-ba2c2c80-rc80000-ye8c000/sett.png)|

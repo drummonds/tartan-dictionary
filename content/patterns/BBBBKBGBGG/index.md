@@ -16,5 +16,5 @@ BBBBKBGBGG
 
 | Tartans |
 |---------------|
-| [Jones Htg (Name)](/tartans/g/4/ga48/p8/ga6/p16/k6/b16/p4/b4/p/8/)|
-|![Jones Htg (Name) example sett](/variants/g/4/ga48/p8/ga6/p16/k6/b16/p4/b4/p/8-b2888c4-g289c18-ga006818-k101010-p780078/sett.png)|
+| [Jones Htg (Name)](/setts/s10/b8ba4b4ba16k6b16g6b8g48ga4-b780078-ba2888c4-g006818-ga289c18-k101010/)|
+|![Jones Htg (Name) example sett](/setts/s10/b8ba4b4ba16k6b16g6b8g48ga4-b780078-ba2888c4-g006818-ga289c18-k101010/sett.png)|

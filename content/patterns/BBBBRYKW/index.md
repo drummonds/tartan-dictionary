@@ -6,7 +6,7 @@ BBBBRYKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dba/16/b2/db2/b2/r24/y12/k24/ln/4-b2888c4-db2c2c80-dba003c64-k101010-lne0e0e0-ra00048-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b32ba4bb4ba4r48y24k48w8-b003c64-ba2888c4-bb2c2c80-k101010-ra00048-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBBRYKW
 
 | Tartans |
 |---------------|
-| [Maryland](/tartans/dba/16/b2/db2/b2/r24/y12/k24/ln/4/)|
-|![Maryland example sett](/variants/dba/16/b2/db2/b2/r24/y12/k24/ln/4-b2888c4-db2c2c80-dba003c64-k101010-lne0e0e0-ra00048-ye8c000/sett.png)|
+| [Maryland](/setts/s8/b32ba4bb4ba4r48y24k48w8-b003c64-ba2888c4-bb2c2c80-k101010-ra00048-we0e0e0-ye8c000/)|
+|![Maryland example sett](/setts/s8/b32ba4bb4ba4r48y24k48w8-b003c64-ba2888c4-bb2c2c80-k101010-ra00048-we0e0e0-ye8c000/sett.png)|
+| [Maryland (Commemorative)](/setts/s8/b32ba4bb4ba4r48y24k48w8-b003c64-ba2888c4-bb2c2c80-k101010-ra00048-we0e0e0-ye8c000/)|
+|![Maryland (Commemorative) example sett](/setts/s8/b32ba4bb4ba4r48y24k48w8-b003c64-ba2888c4-bb2c2c80-k101010-ra00048-we0e0e0-ye8c000/sett.png)|

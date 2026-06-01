@@ -16,5 +16,5 @@ BKBKBKBKBBBWB
 
 | Tartans |
 |---------------|
-| [Highland Storm (Fashion)](/tartans/n/86/db4/n4/k2/n2/db22/n4/k4/n2/b2/n40/lr8/n/14/)|
-|![Highland Storm (Fashion) example sett](/variants/n/86/db4/n4/k2/n2/db22/n4/k4/n2/b2/n40/lr8/n/14-b5c8ca8-db00002c-k101010-lre8ccb8-n5c5c5c/sett.png)|
+| [Highland Storm (Fashion)](/setts/s13/b14w8b40ba2b2k4b4ka22b2k2b4ka4b86-b5c5c5c-ba5c8ca8-k101010-ka00002c-we8ccb8/)|
+|![Highland Storm (Fashion) example sett](/setts/s13/b14w8b40ba2b2k4b4ka22b2k2b4ka4b86-b5c5c5c-ba5c8ca8-k101010-ka00002c-we8ccb8/sett.png)|

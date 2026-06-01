@@ -6,7 +6,7 @@ BGGYK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/dr/124/g10/ga40/b10/k/2-b82adba-dr751857-g509721-ga124b24-k120a01/tartan.png)
+![Woven sample](/setts/s5/b124g10ga40y10k2-b751857-g509721-ga124b24-k120a01-y82adba/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGYK
 
 | Tartans |
 |---------------|
-| [Michie Dress, Andrew](/tartans/dr/124/g10/ga40/b10/k/2/)|
-|![Michie Dress, Andrew example sett](/variants/dr/124/g10/ga40/b10/k/2-b82adba-dr751857-g509721-ga124b24-k120a01/sett.png)|
+| [Michie Dress, Andrew](/setts/s5/b124g10ga40y10k2-b751857-g509721-ga124b24-k120a01-y82adba/)|
+|![Michie Dress, Andrew example sett](/setts/s5/b124g10ga40y10k2-b751857-g509721-ga124b24-k120a01-y82adba/sett.png)|

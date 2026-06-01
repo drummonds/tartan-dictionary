@@ -16,5 +16,5 @@ BBYBYKYKBKB
 
 | Tartans |
 |---------------|
-| [Dutton, Stuart (Personal)](/tartans/db/8/k8/db20/k20/y4/k20/n8/db16/n24/db4/p/2/)|
-|![Dutton, Stuart (Personal) example sett](/variants/db/8/k8/db20/k20/y4/k20/n8/db16/n24/db4/p/2-db2c2c80-k101010-nb0b0b0-p780078-ye8c000/sett.png)|
+| [Dutton, Stuart (Personal)](/setts/s11/b8k8b20k20y4k20ya8b16ya24b4ba2-b2c2c80-ba780078-k101010-ye8c000-yab0b0b0/)|
+|![Dutton, Stuart (Personal) example sett](/setts/s11/b8k8b20k20y4k20ya8b16ya24b4ba2-b2c2c80-ba780078-k101010-ye8c000-yab0b0b0/sett.png)|

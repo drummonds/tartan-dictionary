@@ -6,7 +6,7 @@ BBBGBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/dr/2/na12/dr2/g12/dr24/n/4-dr4c0000-g447438-nc0c0c0-na5c5c5c/tartan.png)
+![Woven sample](/setts/s6/b4ba24b4g24b48w8-b4c0000-ba5c5c5c-g447438-wc0c0c0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBGBW
 
 | Tartans |
 |---------------|
-| [Fraser Green](/tartans/dr/2/na12/dr2/g12/dr24/n/4/)|
-|![Fraser Green example sett](/variants/dr/2/na12/dr2/g12/dr24/n/4-dr4c0000-g447438-nc0c0c0-na5c5c5c/sett.png)|
+| [Fraser Green](/setts/s6/b4ba24b4g24b48w8-b4c0000-ba5c5c5c-g447438-wc0c0c0/)|
+|![Fraser Green example sett](/setts/s6/b4ba24b4g24b48w8-b4c0000-ba5c5c5c-g447438-wc0c0c0/sett.png)|

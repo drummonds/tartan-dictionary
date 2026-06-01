@@ -16,5 +16,5 @@ BBBBRBBYB
 
 | Tartans |
 |---------------|
-| [Stone of Destiny, The (Commemorative](/tartans/db/4/dn24/db6/dn4/dr8/dn4/db40/dy4/db/8/)|
-|![Stone of Destiny, The (Commemorative example sett](/variants/db/4/dn24/db6/dn4/dr8/dn4/db40/dy4/db/8-db2c2c80-dn14283c-dr880000-dyd09800/sett.png)|
+| [Stone of Destiny, The (Commemorative](/setts/s9/b4ba24b6ba4r8ba4b40y4b8-b2c2c80-ba14283c-r880000-yd09800/)|
+|![Stone of Destiny, The (Commemorative example sett](/setts/s9/b4ba24b6ba4r8ba4b40y4b8-b2c2c80-ba14283c-r880000-yd09800/sett.png)|

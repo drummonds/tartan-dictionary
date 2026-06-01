@@ -6,7 +6,7 @@ BGYB
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/b/12/o56/t40/b/6-b5c8ca8-od87c00-t604000/tartan.png)
+![Woven sample](/setts/s4/b12y56g40b6-b5c8ca8-g604000-yd87c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYB
 
 | Tartans |
 |---------------|
-| [Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/12/o56/t40/b/6/)|
-|![Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/12/o56/t40/b/6-b5c8ca8-od87c00-t604000/sett.png)|
+| [Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b12y56g40b6-b5c8ca8-g604000-yd87c00/)|
+|![Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/b12y56g40b6-b5c8ca8-g604000-yd87c00/sett.png)|

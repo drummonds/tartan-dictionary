@@ -16,7 +16,7 @@ BBRBRGRBBRGBRGRBBRGRBR
 
 | Tartans |
 |---------------|
-| [Cumming and Glenorchy](/tartans/b/2/ba6/r6/ba40/r6/g24/r16/b2/ba24/r6/g66/ba6/r6/g44/r6/ba24/b2/r16/g24/r6/ba40/r/6/)|
-|![Cumming and Glenorchy example sett](/variants/b/2/ba6/r6/ba40/r6/g24/r16/b2/ba24/r6/g66/ba6/r6/g44/r6/ba24/b2/r16/g24/r6/ba40/r/6-b3c82af-ba2c4084-g005020-rdc0000/sett.png)|
-| [Cumming, and Glenorchy](/tartans/ba/2/b6/r6/b40/r6/g24/r16/ba2/b24/r6/g66/b6/r6/g44/r6/b24/ba2/r16/g24/r6/b40/r/6/)|
-|![Cumming, and Glenorchy example sett](/variants/ba/2/b6/r6/b40/r6/g24/r16/ba2/b24/r6/g66/b6/r6/g44/r6/b24/ba2/r16/g24/r6/b40/r/6-b304080-ba5480b0-g008000-rc00000/sett.png)|
+| [Cumming and Glenorchy](/setts/s22/b2ba6r6ba40r6g24r16b2ba24r6g66ba6r6g44r6ba24b2r16g24r6ba40r6-b3c82af-ba2c4084-g005020-rdc0000/)|
+|![Cumming and Glenorchy example sett](/setts/s22/b2ba6r6ba40r6g24r16b2ba24r6g66ba6r6g44r6ba24b2r16g24r6ba40r6-b3c82af-ba2c4084-g005020-rdc0000/sett.png)|
+| [Cumming, and Glenorchy](/setts/s22/b2ba6r6ba40r6g24r16b2ba24r6g66ba6r6g44r6ba24b2r16g24r6ba40r6-b5480b0-ba304080-g008000-rc00000/)|
+|![Cumming, and Glenorchy example sett](/setts/s22/b2ba6r6ba40r6g24r16b2ba24r6g66ba6r6g44r6ba24b2r16g24r6ba40r6-b5480b0-ba304080-g008000-rc00000/sett.png)|

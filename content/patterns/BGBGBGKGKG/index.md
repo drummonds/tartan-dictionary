@@ -16,5 +16,5 @@ BGBGBGKGKG
 
 | Tartans |
 |---------------|
-| [Hueg (Hunting) (Personal)](/tartans/db/34/g10/db10/g34/db8/g34/k4/t4/k4/g/10/)|
-|![Hueg (Hunting) (Personal) example sett](/variants/db/34/g10/db10/g34/db8/g34/k4/t4/k4/g/10-db003c64-g006818-k101010-t604000/sett.png)|
+| [Hueg (Hunting) (Personal)](/setts/s10/b34g10b10g34b8g34k4ga4k4g10-b003c64-g006818-ga604000-k101010/)|
+|![Hueg (Hunting) (Personal) example sett](/setts/s10/b34g10b10g34b8g34k4ga4k4g10-b003c64-g006818-ga604000-k101010/sett.png)|

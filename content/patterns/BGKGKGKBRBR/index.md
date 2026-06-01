@@ -16,7 +16,7 @@ BGKGKGKBRBR
 
 | Tartans |
 |---------------|
-| [Clerke of Ulva](/tartans/ba/6/g6/k8/g28/k8/g6/k28/b36/dr2/b8/dr/4/)|
-|![Clerke of Ulva example sett](/variants/ba/6/g6/k8/g28/k8/g6/k28/b36/dr2/b8/dr/4-b304080-ba5480b0-dr900030-g008000-k000000/sett.png)|
-| [Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/6/g6/k8/g28/k8/g6/k28/db36/r2/db8/r/4/)|
-|![Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/6/g6/k8/g28/k8/g6/k28/db36/r2/db8/r/4-b5c8ca8-db2c2c80-g006818-k101010-ra00048/sett.png)|
+| [Clerke of Ulva](/setts/s11/b6g6k8g28k8g6k28ba36r2ba8r4-b5480b0-ba304080-g008000-k000000-r900030/)|
+|![Clerke of Ulva example sett](/setts/s11/b6g6k8g28k8g6k28ba36r2ba8r4-b5480b0-ba304080-g008000-k000000-r900030/sett.png)|
+| [Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b6g6k8g28k8g6k28ba36r2ba8r4-b5c8ca8-ba2c2c80-g006818-k101010-ra00048/)|
+|![Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b6g6k8g28k8g6k28ba36r2ba8r4-b5c8ca8-ba2c2c80-g006818-k101010-ra00048/sett.png)|

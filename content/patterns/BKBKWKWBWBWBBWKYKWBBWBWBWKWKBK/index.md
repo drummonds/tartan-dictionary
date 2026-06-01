@@ -16,5 +16,5 @@ BKBKWKWBWBWBBWKYKWBBWBWBWKWKBK
 
 | Tartans |
 |---------------|
-| [Craig (Paisley)](/tartans/ba/200/k36/ba12/k10/w8/k2/w120/ba8/w10/ba48/w8/ba8/b12/w12/k2/y8/k2/w12/b12/ba8/w8/ba48/w10/ba8/w120/k2/w8/k12/ba12/k/36/)|
-|![Craig (Paisley) example sett](/variants/ba/200/k36/ba12/k10/w8/k2/w120/ba8/w10/ba48/w8/ba8/b12/w12/k2/y8/k2/w12/b12/ba8/w8/ba48/w10/ba8/w120/k2/w8/k12/ba12/k/36-b2888c4-ba3850c8-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Craig (Paisley)](/setts/s30/b100k18b6k5w4k1w60b4w5b24w4b4ba6w6k1y4k1w6ba6b4w4b24w5b4w60k1w4k6b6k18-b3850c8-ba2888c4-k101010-wfcfcfc-ye8c000/)|
+|![Craig (Paisley) example sett](/setts/s30/b100k18b6k5w4k1w60b4w5b24w4b4ba6w6k1y4k1w6ba6b4w4b24w5b4w60k1w4k6b6k18-b3850c8-ba2888c4-k101010-wfcfcfc-ye8c000/sett.png)|

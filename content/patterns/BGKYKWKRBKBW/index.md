@@ -16,5 +16,5 @@ BGKYKWKRBKBW
 
 | Tartans |
 |---------------|
-| [Broager (Name)](/tartans/db/53/g10/k20/y5/k5/w5/k7/r18/db10/k6/db6/w/6/)|
-|![Broager (Name) example sett](/variants/db/53/g10/k20/y5/k5/w5/k7/r18/db10/k6/db6/w/6-db1c0070-g006818-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Broager (Name)](/setts/s12/b53g10k20y5k5w5k7r18b10k6b6w6-b1c0070-g006818-k101010-rc80000-wf8f8f8-ye8c000/)|
+|![Broager (Name) example sett](/setts/s12/b53g10k20y5k5w5k7r18b10k6b6w6-b1c0070-g006818-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|

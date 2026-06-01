@@ -16,7 +16,7 @@ BBRBRGRBRGRBRGRBRGRBR
 
 | Tartans |
 |---------------|
-| [MacIntyre of Littleport](/tartans/b/2/db6/r6/db42/r6/g14/r12/db16/r6/g42/r6/db6/r6/g42/r6/db16/r14/g14/r6/db42/r/6/)|
-|![MacIntyre of Littleport example sett](/variants/b/2/db6/r6/db42/r6/g14/r12/db16/r6/g42/r6/db6/r6/g42/r6/db16/r14/g14/r6/db42/r/6-b5c8ca8-db2c2c80-g285800-rc80000/sett.png)|
-| [MacIntyre, or Perthshire](/tartans/ba/2/b6/r6/b42/r6/g14/r12/b16/r6/g42/r6/b6/r6/g42/r6/b16/r14/g14/r6/b42/r/6/)|
-|![MacIntyre, or Perthshire example sett](/variants/ba/2/b6/r6/b42/r6/g14/r12/b16/r6/g42/r6/b6/r6/g42/r6/b16/r14/g14/r6/b42/r/6-b304080-ba5480b0-g008000-rc00000/sett.png)|
+| [MacIntyre of Littleport](/setts/s21/b2ba6r6ba42r6g14r12ba16r6g42r6ba6r6g42r6ba16r14g14r6ba42r6-b5c8ca8-ba2c2c80-g285800-rc80000/)|
+|![MacIntyre of Littleport example sett](/setts/s21/b2ba6r6ba42r6g14r12ba16r6g42r6ba6r6g42r6ba16r14g14r6ba42r6-b5c8ca8-ba2c2c80-g285800-rc80000/sett.png)|
+| [MacIntyre, or Perthshire](/setts/s21/b2ba6r6ba42r6g14r12ba16r6g42r6ba6r6g42r6ba16r14g14r6ba42r6-b5480b0-ba304080-g008000-rc00000/)|
+|![MacIntyre, or Perthshire example sett](/setts/s21/b2ba6r6ba42r6g14r12ba16r6g42r6ba6r6g42r6ba16r14g14r6ba42r6-b5480b0-ba304080-g008000-rc00000/sett.png)|

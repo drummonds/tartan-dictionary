@@ -6,7 +6,7 @@ BGKBGKGB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/k/8/n74/ln8/k42/n11/p2/n16/k/4-k222222-n6a6a6a/tartan.png)
+![Woven sample](/setts/s8/b4g16k2g11b42k8g74b8-b222222-g6a6a6a-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGKBGKGB
 
 | Tartans |
 |---------------|
-| [Orkney Slate](/tartans/k/8/n74/ln8/k42/n11/p2/n16/k/4/)|
-|![Orkney Slate example sett](/variants/k/8/n74/ln8/k42/n11/p2/n16/k/4-k222222-n6a6a6a/sett.png)|
+| [Orkney Slate](/setts/s8/b4g16k2g11b42k8g74b8-b222222-g6a6a6a-k000000/)|
+|![Orkney Slate example sett](/setts/s8/b4g16k2g11b42k8g74b8-b222222-g6a6a6a-k000000/sett.png)|

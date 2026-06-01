@@ -62,6 +62,10 @@
     </div>
     {{ end }}
 
+    {{/* Related content is O(n) per page over the whole site; only worth it for the handful of
+         hand-authored posts. Skipping it for the ~29k generated dictionary pages is the single
+         biggest build-time win (it was an O(n^2) hot spot). */}}
+    {{ if eq .Section "posts" }}
     {{ $related := (where site.RegularPages "Type" "in" site.Params.mainSections).Related . | first 5 }}
     {{ with $related }}
     <div class="related-posts">
@@ -72,6 +76,7 @@
       <br>
       {{ end }}
     </div>
+    {{ end }}
     {{ end }}
   </footer>
   

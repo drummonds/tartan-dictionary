@@ -16,5 +16,5 @@ BKBBKBKBKBKBKR
 
 | Tartans |
 |---------------|
-| [Bowcutt, David (Personal)](/tartans/b/2/k8/db6/p4/k30/db4/k6/db100/k4/db4/k12/db4/k2/r/2/)|
-|![Bowcutt, David (Personal) example sett](/variants/b/2/k8/db6/p4/k30/db4/k6/db100/k4/db4/k12/db4/k2/r/2-b0000cd-db000080-k101010-p4b0082-re3170d/sett.png)|
+| [Bowcutt, David (Personal)](/setts/s14/b2k8ba6bb4k30ba4k6ba100k4ba4k12ba4k2r2-b0000cd-ba000080-bb4b0082-k101010-re3170d/)|
+|![Bowcutt, David (Personal) example sett](/setts/s14/b2k8ba6bb4k30ba4k6ba100k4ba4k12ba4k2r2-b0000cd-ba000080-bb4b0082-k101010-re3170d/sett.png)|

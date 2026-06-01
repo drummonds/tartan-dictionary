@@ -16,5 +16,5 @@ BBBYWYKYWYRYWYWY
 
 | Tartans |
 |---------------|
-| [Druid](/tartans/db/3/n2/db3/y2/w4/y2/g8/y2/w4/y2/dr8/y2/w20/y2/w62/y/2/)|
-|![Druid example sett](/variants/db/3/n2/db3/y2/w4/y2/g8/y2/w4/y2/dr8/y2/w20/y2/w62/y/2-db00008b-dr8b0000-n778899-wffffff-ydaa520/sett.png)|
+| [Druid](/setts/s16/b3ba2b3y2w4y2k8y2w4y2r8y2w20y2w62y2-b00008b-ba778899-k000000-r8b0000-wffffff-ydaa520/)|
+|![Druid example sett](/setts/s16/b3ba2b3y2w4y2k8y2w4y2r8y2w20y2w62y2-b00008b-ba778899-k000000-r8b0000-wffffff-ydaa520/sett.png)|

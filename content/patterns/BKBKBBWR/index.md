@@ -6,7 +6,7 @@ BKBKBBWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/24/k2/b2/k2/b2/db16/w18/n/4-b5c8ca8-db202060-k101010-n888888-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b48k4b4k4b4ba32w36r8-b5c8ca8-ba202060-k101010-r888888-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKBBWR
 
 | Tartans |
 |---------------|
-| [Arran - 1989 (Fashion)](/tartans/b/24/k2/b2/k2/b2/db16/w18/n/4/)|
-|![Arran - 1989 (Fashion) example sett](/variants/b/24/k2/b2/k2/b2/db16/w18/n/4-b5c8ca8-db202060-k101010-n888888-wfcfcfc/sett.png)|
+| [Arran - 1989 (Fashion)](/setts/s8/b48k4b4k4b4ba32w36r8-b5c8ca8-ba202060-k101010-r888888-wfcfcfc/)|
+|![Arran - 1989 (Fashion) example sett](/setts/s8/b48k4b4k4b4ba32w36r8-b5c8ca8-ba202060-k101010-r888888-wfcfcfc/sett.png)|

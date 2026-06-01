@@ -6,7 +6,7 @@ BBRGB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/2/g6/r2/p6/b/2-b3c82af-g005020-p5a008c-rdc0000/tartan.png)
+![Woven sample](/setts/s5/b4ba12r4g12b4-b3c82af-ba5a008c-g005020-rdc0000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBRGB
 
 | Tartans |
 |---------------|
-| [Wilson's No.95](/tartans/b/2/g6/r2/p6/b/2/)|
-|![Wilson's No.95 example sett](/variants/b/2/g6/r2/p6/b/2-b3c82af-g005020-p5a008c-rdc0000/sett.png)|
+| [Wilson's No.95](/setts/s5/b4ba12r4g12b4-b3c82af-ba5a008c-g005020-rdc0000/)|
+|![Wilson's No.95 example sett](/setts/s5/b4ba12r4g12b4-b3c82af-ba5a008c-g005020-rdc0000/sett.png)|
+| [Wilson's, No 95](/setts/s5/b4ba12r4g12b4-b5480b0-ba800080-g008000-rc00000/)|
+|![Wilson's, No 95 example sett](/setts/s5/b4ba12r4g12b4-b5480b0-ba800080-g008000-rc00000/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKBKBKBKBKB
 
 | Tartans |
 |---------------|
-| [William Murdoch, (Scottish Gas)](/tartans/b/22/db4/b8/db4/b8/db22/ba22/db4/bb8/db4/ba22/db22/b22/db4/b/8/)|
-|![William Murdoch, (Scottish Gas) example sett](/variants/b/22/db4/b8/db4/b8/db22/ba22/db4/bb8/db4/ba22/db22/b22/db4/b/8-b8080d0-ba304080-bb5480b0-db000030/sett.png)|
+| [William Murdoch, (Scottish Gas)](/setts/s15/b22k4b8k4b8k22ba22k4bb8k4ba22k22b22k4b8-b8080d0-ba304080-bb5480b0-k000030/)|
+|![William Murdoch, (Scottish Gas) example sett](/setts/s15/b22k4b8k4b8k22ba22k4bb8k4ba22k22b22k4b8-b8080d0-ba304080-bb5480b0-k000030/sett.png)|

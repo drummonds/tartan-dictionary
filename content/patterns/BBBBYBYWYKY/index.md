@@ -16,5 +16,5 @@ BBBBYBYWYKY
 
 | Tartans |
 |---------------|
-| [Lieuwen (2013)](/tartans/p/20/db2/p4/db2/b2/db2/b4/lp4/b2/k2/y/4/)|
-|![Lieuwen (2013) example sett](/variants/p/20/db2/p4/db2/b2/db2/b4/lp4/b2/k2/y/4-b48a4c0-db2c2c80-k101010-lpc49cd8-p780078-yfccc00/sett.png)|
+| [Lieuwen (2013)](/setts/s11/b100ba10b20ba10y10ba10y20w20y10k10ya20-b780078-ba2c2c80-k101010-wc49cd8-y48a4c0-yafccc00/)|
+|![Lieuwen (2013) example sett](/setts/s11/b100ba10b20ba10y10ba10y20w20y10k10ya20-b780078-ba2c2c80-k101010-wc49cd8-y48a4c0-yafccc00/sett.png)|

@@ -6,7 +6,7 @@ BGKBBBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dr/8/dg46/k44/p6/db44/dr2/w/4-db000048-dg004028-dr3c0014-k000000-p9800a0-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b8g46k44ba6bb44b2w4-b3c0014-ba9800a0-bb000048-g004028-k000000-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGKBBBW
 
 | Tartans |
 |---------------|
-| [Fettes College](/tartans/dr/8/dg46/k44/p6/db44/dr2/w/4/)|
-|![Fettes College example sett](/variants/dr/8/dg46/k44/p6/db44/dr2/w/4-db000048-dg004028-dr3c0014-k000000-p9800a0-wfcfcfc/sett.png)|
+| [Fettes College](/setts/s7/b8g46k44ba6bb44b2w4-b3c0014-ba9800a0-bb000048-g004028-k000000-wfcfcfc/)|
+|![Fettes College example sett](/setts/s7/b8g46k44ba6bb44b2w4-b3c0014-ba9800a0-bb000048-g004028-k000000-wfcfcfc/sett.png)|
+| [Fettes College (Corporate)](/setts/s7/b8g46k44ba6bb44b2w4-b3c0014-ba9800a0-bb000048-g004028-k000000-wfcfcfc/)|
+|![Fettes College (Corporate) example sett](/setts/s7/b8g46k44ba6bb44b2w4-b3c0014-ba9800a0-bb000048-g004028-k000000-wfcfcfc/sett.png)|

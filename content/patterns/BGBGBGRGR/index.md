@@ -16,9 +16,13 @@ BGBGBGRGR
 
 | Tartans |
 |---------------|
-| [Lawlis/Lawless](/tartans/db/20/dg2/db2/dg2/db2/dg4/dr24/dg2/dr/4/)|
-|![Lawlis/Lawless example sett](/variants/db/20/dg2/db2/dg2/db2/dg4/dr24/dg2/dr/4-db202060-dg003820-dr880000/sett.png)|
-| [Manx Centenary](/tartans/b/44/g6/b6/g6/b6/g18/n56/g6/n/12/)|
-|![Manx Centenary example sett](/variants/b/44/g6/b6/g6/b6/g18/n56/g6/n/12-b40748c-g006818-n888888/sett.png)|
-| [Manx Centenary District Tartan Tartan Number: 129. Earliest known date: pre 1992 Sample presented by Dr. D.G. Teall See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/44/g6/db6/g6/db6/g18/n56/g6/n/12/)|
-|![Manx Centenary District Tartan Tartan Number: 129. Earliest known date: pre 1992 Sample presented by Dr. D.G. Teall See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/44/g6/db6/g6/db6/g18/n56/g6/n/12-db2c2c80-g006818-n888888/sett.png)|
+| [Lawlis/Lawless](/setts/s9/b40g4b4g4b4g8r48g4r8-b202060-g003820-r880000/)|
+|![Lawlis/Lawless example sett](/setts/s9/b40g4b4g4b4g8r48g4r8-b202060-g003820-r880000/sett.png)|
+| [Manx Centenary](/setts/s9/b44g6b6g6b6g18r56g6r12-b40748c-g006818-r888888/)|
+|![Manx Centenary example sett](/setts/s9/b44g6b6g6b6g18r56g6r12-b40748c-g006818-r888888/sett.png)|
+| [Manx Centenary (Commemorative)](/setts/s9/b44g6b6g6b6g18r56g6r12-b40748c-g006818-r888888/)|
+|![Manx Centenary (Commemorative) example sett](/setts/s9/b44g6b6g6b6g18r56g6r12-b40748c-g006818-r888888/sett.png)|
+| [Lawlis/Lawless (Name)](/setts/s9/b40g4b4g4b4g8r48g4r8-b202060-g003820-r880000/)|
+|![Lawlis/Lawless (Name) example sett](/setts/s9/b40g4b4g4b4g8r48g4r8-b202060-g003820-r880000/sett.png)|
+| [Manx Centenary District Tartan Tartan Number: 129. Earliest known date: pre 1992 Sample presented by Dr. D.G. Teall See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b44g6b6g6b6g18r56g6r12-b2c2c80-g006818-r888888/)|
+|![Manx Centenary District Tartan Tartan Number: 129. Earliest known date: pre 1992 Sample presented by Dr. D.G. Teall See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/b44g6b6g6b6g18r56g6r12-b2c2c80-g006818-r888888/sett.png)|

@@ -6,7 +6,7 @@ BBRGG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/42/b4/p30/ga50/g/70-b5e82a3-g006752-ga5e6639-paf23a5/tartan.png)
+![Woven sample](/setts/s5/b42b4r30g50ga70-b5e82a3-g5e6639-ga006752-raf23a5/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBRGG
 
 | Tartans |
 |---------------|
-| [Dunans Rising](/tartans/b/42/b4/p30/ga50/g/70/)|
-|![Dunans Rising example sett](/variants/b/42/b4/p30/ga50/g/70-b5e82a3-g006752-ga5e6639-paf23a5/sett.png)|
-| [Dunanas Rising (Corporate)](/tartans/db/42/b4/r30/g50/ga/70/)|
-|![Dunanas Rising (Corporate) example sett](/variants/db/42/b4/r30/g50/ga/70-b1474b4-db2c2c80-g5c6428-ga285800-rc80050/sett.png)|
+| [Dunans Rising](/setts/s5/b42b4r30g50ga70-b5e82a3-g5e6639-ga006752-raf23a5/)|
+|![Dunans Rising example sett](/setts/s5/b42b4r30g50ga70-b5e82a3-g5e6639-ga006752-raf23a5/sett.png)|
+| [Dunanas Rising (Corporate)](/setts/s5/b42ba4r30g50ga70-b2c2c80-ba1474b4-g5c6428-ga285800-rc80050/)|
+|![Dunanas Rising (Corporate) example sett](/setts/s5/b42ba4r30g50ga70-b2c2c80-ba1474b4-g5c6428-ga285800-rc80050/sett.png)|

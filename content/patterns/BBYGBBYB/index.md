@@ -6,7 +6,7 @@ BBYGBBYB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/ba/8/b48/y10/g4/b6/db10/y66/dba/4-b6098b8-ba6098b8-db2c2c80-dba2c2c80-g289c18-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b4y66b10ba6g4y10ba48ba8-b2c2c80-ba6098b8-g289c18-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYGBBYB
 
 | Tartans |
 |---------------|
-| [Los Angeles (District)](/tartans/ba/8/b48/y10/g4/b6/db10/y66/dba/4/)|
-|![Los Angeles (District) example sett](/variants/ba/8/b48/y10/g4/b6/db10/y66/dba/4-b6098b8-ba6098b8-db2c2c80-dba2c2c80-g289c18-ye8c000/sett.png)|
+| [Los Angeles (District)](/setts/s8/b4y66b10ba6g4y10ba48ba8-b2c2c80-ba6098b8-g289c18-ye8c000/)|
+|![Los Angeles (District) example sett](/setts/s8/b4y66b10ba6g4y10ba48ba8-b2c2c80-ba6098b8-g289c18-ye8c000/sett.png)|

@@ -16,5 +16,7 @@ BGBGBGGGGGBG
 
 | Tartans |
 |---------------|
-| [MacIver Family (Personal)](/tartans/g/6/k48/g52/lg52/g6/lg52/g52/k6/g6/k6/g6/k/64/)|
-|![MacIver Family (Personal) example sett](/variants/g/6/k48/g52/lg52/g6/lg52/g52/k6/g6/k6/g6/k/64-g5c6428-k1c1c1c-lg789484/sett.png)|
+| [MacIver Family (Personal)](/setts/s12/b64g6b6g6b6g52ga52g6ga52g52b48g6-b1c1c1c-g5c6428-ga789484/)|
+|![MacIver Family (Personal) example sett](/setts/s12/b64g6b6g6b6g52ga52g6ga52g52b48g6-b1c1c1c-g5c6428-ga789484/sett.png)|
+| [MacIver Family (Personal)](/setts/s12/b64g6b6g6b6g52ga52g6ga52g52b48g6-b1c1c1c-g5c6428-ga789484/)|
+|![MacIver Family (Personal) example sett](/setts/s12/b64g6b6g6b6g52ga52g6ga52g52b48g6-b1c1c1c-g5c6428-ga789484/sett.png)|

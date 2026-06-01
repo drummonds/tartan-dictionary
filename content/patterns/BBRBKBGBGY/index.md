@@ -16,7 +16,7 @@ BBRBKBGBGY
 
 | Tartans |
 |---------------|
-| [Boyle (Personal)](/tartans/dba/8/db6/dr4/db52/k6/dba6/g6/dba6/g34/dy/6/)|
-|![Boyle (Personal) example sett](/variants/dba/8/db6/dr4/db52/k6/dba6/g6/dba6/g34/dy/6-db202060-dba2c2c80-dr880000-dybc8c00-g006818-k101010/sett.png)|
-| [Boyle (Personal)](/tartans/db/8/dba6/dr4/dba52/k6/db6/g6/db6/g34/dy/6/)|
-|![Boyle (Personal) example sett](/variants/db/8/dba6/dr4/dba52/k6/db6/g6/db6/g34/dy/6-db2c2c80-dba202060-dr880000-dybc8c00-g006818-k101010/sett.png)|
+| [Boyle (Personal)](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/)|
+|![Boyle (Personal) example sett](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/sett.png)|
+| [Boyle (Personal)](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/)|
+|![Boyle (Personal) example sett](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/sett.png)|

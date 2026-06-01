@@ -16,5 +16,5 @@ BBYRRYYBRBR
 
 | Tartans |
 |---------------|
-| [Watret (Artefact)](/tartans/db/42/p42/y42/lt4/r42/o42/y42/db4/r4/p4/lt/42/)|
-|![Watret (Artefact) example sett](/variants/db/42/p42/y42/lt4/r42/o42/y42/db4/r4/p4/lt/42-db2c2c80-lta07c58-od87c00-p780078-rc80000-ye8c000/sett.png)|
+| [Watret (Artefact)](/setts/s11/b42ba42y42r4ra42ya42y42b4ra4ba4r42-b2c2c80-ba780078-ra07c58-rac80000-ye8c000-yad87c00/)|
+|![Watret (Artefact) example sett](/setts/s11/b42ba42y42r4ra42ya42y42b4ra4ba4r42-b2c2c80-ba780078-ra07c58-rac80000-ye8c000-yad87c00/sett.png)|

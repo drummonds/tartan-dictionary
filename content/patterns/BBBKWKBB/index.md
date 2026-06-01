@@ -6,7 +6,7 @@ BBBKWKBB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/8/p8/k8/ln2/k8/p8/db8/dba/8-db1c0070-dba002878-dbb202060-dn14283c-k101010-lne0e0e0-p780078/tartan.png)
+![Woven sample](/setts/s8/b40ba40bb40k40w10k40bb40ba40-b002878-ba1c0070-bb780078-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKWKBB
 
 | Tartans |
 |---------------|
-| [Weston Family Tartan Tartan Number: 5777. Earliest known date: Feb 2002 For their wedding. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/8/p8/k8/ln2/k8/p8/db8/dba/8/)|
-|![Weston Family Tartan Tartan Number: 5777. Earliest known date: Feb 2002 For their wedding. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/8/p8/k8/ln2/k8/p8/db8/dba/8-db1c0070-dba002878-dbb202060-dn14283c-k101010-lne0e0e0-p780078/sett.png)|
+| [Weston Family Tartan Tartan Number: 5777. Earliest known date: Feb 2002 For their wedding. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b40ba40bb40k40w10k40bb40ba40-b002878-ba1c0070-bb780078-k101010-we0e0e0/)|
+|![Weston Family Tartan Tartan Number: 5777. Earliest known date: Feb 2002 For their wedding. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b40ba40bb40k40w10k40bb40ba40-b002878-ba1c0070-bb780078-k101010-we0e0e0/sett.png)|

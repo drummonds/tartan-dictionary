@@ -6,7 +6,7 @@ BBWYB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/dg/70/b80/w22/y6/dg/14-b3c82af-dg002814-wffffff-ye0a126/tartan.png)
+![Woven sample](/setts/s5/b14y6w22ba80b70-b002814-ba3c82af-wffffff-ye0a126/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWYB
 
 | Tartans |
 |---------------|
-| [Fife Ethylene Plant](/tartans/dg/70/b80/w22/y6/dg/14/)|
-|![Fife Ethylene Plant example sett](/variants/dg/70/b80/w22/y6/dg/14-b3c82af-dg002814-wffffff-ye0a126/sett.png)|
+| [Fife Ethylene Plant](/setts/s5/b14y6w22ba80b70-b002814-ba3c82af-wffffff-ye0a126/)|
+|![Fife Ethylene Plant example sett](/setts/s5/b14y6w22ba80b70-b002814-ba3c82af-wffffff-ye0a126/sett.png)|

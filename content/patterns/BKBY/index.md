@@ -6,7 +6,7 @@ BKBY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/db/10/k6/db10/dy/10-db202060-dybc8c00-k101010/tartan.png)
+![Woven sample](/setts/s4/b20k12b20y20-b202060-k101010-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBY
 
 | Tartans |
 |---------------|
-| [Kazakhstan Relic](/tartans/db/10/k6/db10/dy/10/)|
-|![Kazakhstan Relic example sett](/variants/db/10/k6/db10/dy/10-db202060-dybc8c00-k101010/sett.png)|
+| [Kazakhstan Relic](/setts/s4/b20k12b20y20-b202060-k101010-ybc8c00/)|
+|![Kazakhstan Relic example sett](/setts/s4/b20k12b20y20-b202060-k101010-ybc8c00/sett.png)|

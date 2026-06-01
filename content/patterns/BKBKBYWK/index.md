@@ -6,7 +6,7 @@ BKBKBYWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/32/k2/b4/k2/b8/lt29/w2/k/2-b5c8ca8-k000000-lta08858-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/b32k2b4k2b8y29w2k2-b5c8ca8-k000000-wf8f8f8-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKBYWK
 
 | Tartans |
 |---------------|
-| [Southern Lakes](/tartans/b/32/k2/b4/k2/b8/lt29/w2/k/2/)|
-|![Southern Lakes example sett](/variants/b/32/k2/b4/k2/b8/lt29/w2/k/2-b5c8ca8-k000000-lta08858-wf8f8f8/sett.png)|
+| [Southern Lakes](/setts/s8/b32k2b4k2b8y29w2k2-b5c8ca8-k000000-wf8f8f8-ya08858/)|
+|![Southern Lakes example sett](/setts/s8/b32k2b4k2b8y29w2k2-b5c8ca8-k000000-wf8f8f8-ya08858/sett.png)|

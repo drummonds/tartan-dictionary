@@ -6,7 +6,7 @@ BBBKG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/2/db18/b8/w18/g/2-b2888c4-db2c2c80-g006818-lne0e0e0/tartan.png)
+![Woven sample](/setts/s5/b6ba54b24k54g6-b2888c4-ba2c2c80-g006818-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKG
 
 | Tartans |
 |---------------|
-| [Wallace Blue Dress Tartan Tartan Number: 6569. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/2/db18/b8/w18/g/2/)|
-|![Wallace Blue Dress Tartan Tartan Number: 6569. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/2/db18/b8/w18/g/2-b2888c4-db2c2c80-g006818-lne0e0e0/sett.png)|
+| [Wallace Blue Dress Tartan Tartan Number: 6569. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/b6ba54b24k54g6-b2888c4-ba2c2c80-g006818-k000000/)|
+|![Wallace Blue Dress Tartan Tartan Number: 6569. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/b6ba54b24k54g6-b2888c4-ba2c2c80-g006818-k000000/sett.png)|

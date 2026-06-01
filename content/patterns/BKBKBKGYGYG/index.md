@@ -16,5 +16,5 @@ BKBKBKGYGYG
 
 | Tartans |
 |---------------|
-| [Hunting, The](/tartans/b/44/k4/b4/k4/b4/k50/g34/y2/g8/y6/g/48/)|
-|![Hunting, The example sett](/variants/b/44/k4/b4/k4/b4/k50/g34/y2/g8/y6/g/48-b00688b-g006b54-k101010-yffe600/sett.png)|
+| [Hunting, The](/setts/s11/b44k4b4k4b4k50g34y2g8y6g48-b00688b-g006b54-k101010-yffe600/)|
+|![Hunting, The example sett](/setts/s11/b44k4b4k4b4k50g34y2g8y6g48-b00688b-g006b54-k101010-yffe600/sett.png)|

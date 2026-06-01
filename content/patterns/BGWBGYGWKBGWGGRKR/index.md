@@ -16,5 +16,5 @@ BGWBGYGWKBGWGGRKR
 
 | Tartans |
 |---------------|
-| [Les Cercles de Fermieres du Quebec](/tartans/b/32/dg80/ln10/b50/g60/y8/dg6/ln6/k8/b30/g44/ln4/dg38/g4/lt16/k8/lt/32/)|
-|![Les Cercles de Fermieres du Quebec example sett](/variants/b/32/dg80/ln10/b50/g60/y8/dg6/ln6/k8/b30/g44/ln4/dg38/g4/lt16/k8/lt/32-b304080-dg003000-g008000-k000000-lne0e0e0-lt806050-yf0c000/sett.png)|
+| [Les Cercles de Fermieres du Quebec](/setts/s17/b32g80w10b50ga60y8g6w6k8b30ga44w4g38ga4r16k8r32-b304080-g003000-ga008000-k000000-r806050-we0e0e0-yf0c000/)|
+|![Les Cercles de Fermieres du Quebec example sett](/setts/s17/b32g80w10b50ga60y8g6w6k8b30ga44w4g38ga4r16k8r32-b304080-g003000-ga008000-k000000-r806050-we0e0e0-yf0c000/sett.png)|

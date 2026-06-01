@@ -6,7 +6,7 @@ BGGKRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/6/g38/dg58/k22/r8/y/4-db000048-dg003820-g285800-k101010-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s6/b6g38ga58k22r8y4-b000048-g285800-ga003820-k101010-rff0000-yffe600/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGKRY
 
 | Tartans |
 |---------------|
-| [Zimmermann, Martin (Personal)](/tartans/db/6/g38/dg58/k22/r8/y/4/)|
-|![Zimmermann, Martin (Personal) example sett](/variants/db/6/g38/dg58/k22/r8/y/4-db000048-dg003820-g285800-k101010-rff0000-yffe600/sett.png)|
+| [Zimmermann, Martin (Personal)](/setts/s6/b6g38ga58k22r8y4-b000048-g285800-ga003820-k101010-rff0000-yffe600/)|
+|![Zimmermann, Martin (Personal) example sett](/setts/s6/b6g38ga58k22r8y4-b000048-g285800-ga003820-k101010-rff0000-yffe600/sett.png)|

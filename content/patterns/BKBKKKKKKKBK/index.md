@@ -16,5 +16,5 @@ BKBKKKKKKKBK
 
 | Tartans |
 |---------------|
-| [McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/6/k4/b26/k18/dlg6/k4/dlg28/k4/dlg6/k18/b30/k/6/)|
-|![McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/6/k4/b26/k18/dlg6/k4/dlg28/k4/dlg6/k18/b30/k/6-b105088-db141c50-k000000-t4c3428/sett.png)|
+| [McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b6k4b26k18k6k4k28k4k6k18b30k6-b105088-k000000/)|
+|![McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b6k4b26k18k6k4k28k4k6k18b30k6-b105088-k000000/sett.png)|

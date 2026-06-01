@@ -6,7 +6,7 @@ BGRWBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/74/g54/r44/w2/p15/y/10-b0000cd-g008b00-paa00ff-re3170d-wffffff-yffe600/tartan.png)
+![Woven sample](/setts/s6/b74g54r44w2ba15y10-b0000cd-baaa00ff-g008b00-re3170d-wffffff-yffe600/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGRWBY
 
 | Tartans |
 |---------------|
-| [Palazzo Bloise (Personal)](/tartans/b/74/g54/r44/w2/p15/y/10/)|
-|![Palazzo Bloise (Personal) example sett](/variants/b/74/g54/r44/w2/p15/y/10-b0000cd-g008b00-paa00ff-re3170d-wffffff-yffe600/sett.png)|
-| [Palazzo Bloise (Personal)](/tartans/db/74/g54/dr44/ln2/p12/y/10/)|
-|![Palazzo Bloise (Personal) example sett](/variants/db/74/g54/dr44/ln2/p12/y/10-db2c2c80-dr880000-g006818-lne0e0e0-p780078-yfccc00/sett.png)|
+| [Palazzo Bloise (Personal)](/setts/s6/b74g54r44w2ba15y10-b0000cd-baaa00ff-g008b00-re3170d-wffffff-yffe600/)|
+|![Palazzo Bloise (Personal) example sett](/setts/s6/b74g54r44w2ba15y10-b0000cd-baaa00ff-g008b00-re3170d-wffffff-yffe600/sett.png)|
+| [Palazzo Bloise (Personal)](/setts/s6/b74g54r44w2ba12y10-b2c2c80-ba780078-g006818-r880000-we0e0e0-yfccc00/)|
+|![Palazzo Bloise (Personal) example sett](/setts/s6/b74g54r44w2ba12y10-b2c2c80-ba780078-g006818-r880000-we0e0e0-yfccc00/sett.png)|

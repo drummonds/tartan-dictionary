@@ -6,7 +6,7 @@ BBYGGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/2/dn10/lt10/g10/t6/r/2-b5c8ca8-dn14283c-g289c18-lta08858-rc80000-t604000/tartan.png)
+![Woven sample](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBYGGR
 
 | Tartans |
 |---------------|
-| [Loch Fyne](/tartans/b/2/dn10/lt10/g10/t6/r/2/)|
-|![Loch Fyne example sett](/variants/b/2/dn10/lt10/g10/t6/r/2-b5c8ca8-dn14283c-g289c18-lta08858-rc80000-t604000/sett.png)|
+| [Loch Fyne](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/)|
+|![Loch Fyne example sett](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/sett.png)|
+| [Loch Fyne (District)](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/)|
+|![Loch Fyne (District) example sett](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/sett.png)|

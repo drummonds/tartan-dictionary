@@ -6,7 +6,7 @@ BBRBB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/26/n12/dr102/db102/n/10-db1c1c50-dr880000-n5c5c5c/tartan.png)
+![Woven sample](/setts/s5/b26ba12r102b102ba10-b1c1c50-ba5c5c5c-r880000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRBB
 
 | Tartans |
 |---------------|
-| [Hillsdale (Corporate?)](/tartans/db/26/n12/dr102/db102/n/10/)|
-|![Hillsdale (Corporate?) example sett](/variants/db/26/n12/dr102/db102/n/10-db1c1c50-dr880000-n5c5c5c/sett.png)|
+| [Hillsdale (Corporate?)](/setts/s5/b26ba12r102b102ba10-b1c1c50-ba5c5c5c-r880000/)|
+|![Hillsdale (Corporate?) example sett](/setts/s5/b26ba12r102b102ba10-b1c1c50-ba5c5c5c-r880000/sett.png)|

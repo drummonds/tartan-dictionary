@@ -6,7 +6,7 @@ BBWGKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/10/p6/w4/g6/k2/ly/2-db2c2c80-g004c00-k000000-lyf8e38c-p6c0070-wf8f8f8/tartan.png)
+![Woven sample](/setts/s6/b50ba30w20g30k10y10-b2c2c80-ba6c0070-g004c00-k000000-wf8f8f8-yf8e38c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWGKY
 
 | Tartans |
 |---------------|
-| [MacBlain (2016)](/tartans/db/10/p6/w4/g6/k2/ly/2/)|
-|![MacBlain (2016) example sett](/variants/db/10/p6/w4/g6/k2/ly/2-db2c2c80-g004c00-k000000-lyf8e38c-p6c0070-wf8f8f8/sett.png)|
+| [MacBlain (2016)](/setts/s6/b50ba30w20g30k10y10-b2c2c80-ba6c0070-g004c00-k000000-wf8f8f8-yf8e38c/)|
+|![MacBlain (2016) example sett](/setts/s6/b50ba30w20g30k10y10-b2c2c80-ba6c0070-g004c00-k000000-wf8f8f8-yf8e38c/sett.png)|

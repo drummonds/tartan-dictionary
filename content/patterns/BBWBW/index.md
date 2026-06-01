@@ -6,7 +6,7 @@ BBWBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/100/db30/ln6/db8/ln/4-b1474b4-db2c2c80-lne0e0e0/tartan.png)
+![Woven sample](/setts/s5/b100ba30w6ba8w4-b1474b4-ba2c2c80-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBW
 
 | Tartans |
 |---------------|
-| [Scottish Tourist Board (1990) (Corp)](/tartans/b/100/db30/ln6/db8/ln/4/)|
-|![Scottish Tourist Board (1990) (Corp) example sett](/variants/b/100/db30/ln6/db8/ln/4-b1474b4-db2c2c80-lne0e0e0/sett.png)|
+| [Scottish Tourist Board (1990) (Corp)](/setts/s5/b100ba30w6ba8w4-b1474b4-ba2c2c80-we0e0e0/)|
+|![Scottish Tourist Board (1990) (Corp) example sett](/setts/s5/b100ba30w6ba8w4-b1474b4-ba2c2c80-we0e0e0/sett.png)|

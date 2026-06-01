@@ -16,7 +16,9 @@ BBRBWBWRBRW
 
 | Tartans |
 |---------------|
-| [Mingulay](/tartans/db/90/n10/na2/k2/nb2/k2/nb10/na6/k2/na4/nb/2/)|
-|![Mingulay example sett](/variants/db/90/n10/na2/k2/nb2/k2/nb10/na6/k2/na4/nb/2-db1c0070-k1c1c1c-n5c5c5c-na888888-nbc0c0c0/sett.png)|
-| [Mingulay (Fashion)](/tartans/db/90/na10/nb2/k2/n2/k2/n10/nb6/k2/nb4/n/2/)|
-|![Mingulay (Fashion) example sett](/variants/db/90/na10/nb2/k2/n2/k2/n10/nb6/k2/nb4/n/2-db1c0070-k1c1c1c-nc0c0c0-na5c5c5c-nb888888/sett.png)|
+| [Mingulay](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/)|
+|![Mingulay example sett](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/sett.png)|
+| [Mingulay (Fashion)](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/)|
+|![Mingulay (Fashion) example sett](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/sett.png)|
+| [Mingulay District Tartan Tartan Number: 3475. Earliest known date: 1986 A ladies skirt purchased in Scotland in 1986. Mingulay is the second most southern tiny island of Scotland's Outer Hebrides lying between Barra Head and Rosinish. Famous for the Mingulay Boat Song - a rowing shanty. Although this is just a fashion tartan, it conjures up evocative images for those who know the little island. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/)|
+|![Mingulay District Tartan Tartan Number: 3475. Earliest known date: 1986 A ladies skirt purchased in Scotland in 1986. Mingulay is the second most southern tiny island of Scotland's Outer Hebrides lying between Barra Head and Rosinish. Famous for the Mingulay Boat Song - a rowing shanty. Although this is just a fashion tartan, it conjures up evocative images for those who know the little island. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/sett.png)|

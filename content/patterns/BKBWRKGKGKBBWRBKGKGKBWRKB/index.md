@@ -16,5 +16,5 @@ BKBWRKGKGKBBWRBKGKGKBWRKB
 
 | Tartans |
 |---------------|
-| [Scottish American Military](/tartans/db/22/k4/b4/w4/r4/k32/g32/k4/g32/k32/db32/b4/w4/r4/db32/k32/g32/k4/g32/k32/b4/w4/r4/k4/db/22/)|
-|![Scottish American Military example sett](/variants/db/22/k4/b4/w4/r4/k32/g32/k4/g32/k32/db32/b4/w4/r4/db32/k32/g32/k4/g32/k32/b4/w4/r4/k4/db/22-b0000ff-db000080-g006400-k101010-rff0000-wffffff/sett.png)|
+| [Scottish American Military](/setts/s25/b22k4ba4w4r4k32g32k4g32k32b32ba4w4r4b32k32g32k4g32k32ba4w4r4k4b22-b000080-ba0000ff-g006400-k101010-rff0000-wffffff/)|
+|![Scottish American Military example sett](/setts/s25/b22k4ba4w4r4k32g32k4g32k32b32ba4w4r4b32k32g32k4g32k32ba4w4r4k4b22-b000080-ba0000ff-g006400-k101010-rff0000-wffffff/sett.png)|

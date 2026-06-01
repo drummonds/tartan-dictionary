@@ -6,7 +6,7 @@ BBBRBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/n/2/na28/p2/na12/db2/na/8-db2c2c80-na0a0a0-na5c5c5c-pb468ac/tartan.png)
+![Woven sample](/setts/s6/b32ba8b48r8b112y8-b5c5c5c-ba2c2c80-rb468ac-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRBY
 
 | Tartans |
 |---------------|
-| [Torridon Tweed](/tartans/n/2/na28/p2/na12/db2/na/8/)|
-|![Torridon Tweed example sett](/variants/n/2/na28/p2/na12/db2/na/8-db2c2c80-na0a0a0-na5c5c5c-pb468ac/sett.png)|
+| [Torridon Tweed](/setts/s6/b32ba8b48r8b112y8-b5c5c5c-ba2c2c80-rb468ac-ya0a0a0/)|
+|![Torridon Tweed example sett](/setts/s6/b32ba8b48r8b112y8-b5c5c5c-ba2c2c80-rb468ac-ya0a0a0/sett.png)|

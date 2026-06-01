@@ -6,7 +6,7 @@ BGYGGRGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/34/t9/y3/t9/n30/dr3/n11/dr/5-db000064-dr960028-n808080-t503c14-yfadc00/tartan.png)
+![Woven sample](/setts/s8/b34g9y3g9ga30r3ga11r5-b000064-g503c14-ga808080-r960028-yfadc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYGGRGR
 
 | Tartans |
 |---------------|
-| [Ballantyne (Personal) STWR](/tartans/db/34/t9/y3/t9/n30/dr3/n11/dr/5/)|
-|![Ballantyne (Personal) STWR example sett](/variants/db/34/t9/y3/t9/n30/dr3/n11/dr/5-db000064-dr960028-n808080-t503c14-yfadc00/sett.png)|
+| [Ballantyne (Personal) STWR](/setts/s8/b34g9y3g9ga30r3ga11r5-b000064-g503c14-ga808080-r960028-yfadc00/)|
+|![Ballantyne (Personal) STWR example sett](/setts/s8/b34g9y3g9ga30r3ga11r5-b000064-g503c14-ga808080-r960028-yfadc00/sett.png)|

@@ -16,5 +16,5 @@ BGGGGGGYGWGRGGGGGG
 
 | Tartans |
 |---------------|
-| [Lorne, Marquis of](/tartans/b/20/dg20/g16/dg92/g6/dg6/g110/y8/g10/ln8/g10/r8/g110/dg6/g6/dg92/g16/dg/20/)|
-|![Lorne, Marquis of example sett](/variants/b/20/dg20/g16/dg92/g6/dg6/g110/y8/g10/ln8/g10/r8/g110/dg6/g6/dg92/g16/dg/20-b304080-dg003000-g30a010-lne0e0e0-rc00000-yf0c000/sett.png)|
+| [Lorne, Marquis of](/setts/s18/b20g20ga16g92ga6g6ga110y8ga10w8ga10r8ga110g6ga6g92ga16g20-b304080-g003000-ga30a010-rc00000-we0e0e0-yf0c000/)|
+|![Lorne, Marquis of example sett](/setts/s18/b20g20ga16g92ga6g6ga110y8ga10w8ga10r8ga110g6ga6g92ga16g20-b304080-g003000-ga30a010-rc00000-we0e0e0-yf0c000/sett.png)|

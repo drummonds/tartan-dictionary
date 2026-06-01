@@ -16,5 +16,5 @@ BKBWBKBRBKBYBKBR
 
 | Tartans |
 |---------------|
-| [Highland Titles (Corporate)](/tartans/dba/25/k20/db15/ln4/db15/k20/dba25/r40/dba25/k20/db15/y6/db15/k20/dba25/r/40/)|
-|![Highland Titles (Corporate) example sett](/variants/dba/25/k20/db15/ln4/db15/k20/dba25/r40/dba25/k20/db15/y6/db15/k20/dba25/r/40-db1c0070-dba003c64-k101010-lne0e0e0-rc80000-yfccc00/sett.png)|
+| [Highland Titles (Corporate)](/setts/s16/b25k20ba15w4ba15k20b25r40b25k20ba15y6ba15k20b25r40-b003c64-ba1c0070-k101010-rc80000-we0e0e0-yfccc00/)|
+|![Highland Titles (Corporate) example sett](/setts/s16/b25k20ba15w4ba15k20b25r40b25k20ba15y6ba15k20b25r40-b003c64-ba1c0070-k101010-rc80000-we0e0e0-yfccc00/sett.png)|

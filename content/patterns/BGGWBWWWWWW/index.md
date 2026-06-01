@@ -16,5 +16,5 @@ BGGWBWWWWWW
 
 | Tartans |
 |---------------|
-| [Manderson #1 (Personal)](/tartans/dr/8/g22/g8/lpb16/dr24/lp8/lpb32/n32/lp7/n12/lpa/4/)|
-|![Manderson #1 (Personal) example sett](/variants/dr/8/g22/g8/lpb16/dr24/lp8/lpb32/n32/lp7/n12/lpa/4-dr4c0000-g005448-lpa8ace8-lpaa8ace8-lpba8ace8-nc0c0c0/sett.png)|
+| [Manderson #1 (Personal)](/setts/s11/b8g22g8w16b24w8w32wa32w7wa12w4-b4c0000-g005448-wa8ace8-wac0c0c0/)|
+|![Manderson #1 (Personal) example sett](/setts/s11/b8g22g8w16b24w8w32wa32w7wa12w4-b4c0000-g005448-wa8ace8-wac0c0c0/sett.png)|

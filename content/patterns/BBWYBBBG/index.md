@@ -6,7 +6,7 @@ BBWYBBBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/ba/12/db12/w2/lt32/db12/ba44/p28/ga/12-b5c8ca8-ba1474b4-db2c2c80-g006818-ga289c18-lta08858-p780078-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBWYBBBG
 
 | Tartans |
 |---------------|
-| [Scotia](/tartans/ba/12/db12/w2/lt32/db12/ba44/p28/ga/12/)|
-|![Scotia example sett](/variants/ba/12/db12/w2/lt32/db12/ba44/p28/ga/12-b5c8ca8-ba1474b4-db2c2c80-g006818-ga289c18-lta08858-p780078-wfcfcfc/sett.png)|
-| [Scotia (Fashion)](/tartans/b/12/db12/w2/lt32/db12/b44/p28/g/12/)|
-|![Scotia (Fashion) example sett](/variants/b/12/db12/w2/lt32/db12/b44/p28/g/12-b1474b4-db2c2c80-g289c18-lta08858-p780078-wfcfcfc/sett.png)|
+| [Scotia](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/)|
+|![Scotia example sett](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/sett.png)|
+| [Scotia (Fashion)](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/)|
+|![Scotia (Fashion) example sett](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/sett.png)|

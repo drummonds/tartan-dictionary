@@ -16,5 +16,5 @@ BBBBKGKGWG
 
 | Tartans |
 |---------------|
-| [Spirit of Morningside (Fashion)](/tartans/g/3/ln2/g32/k5/g3/k15/db50/p3/db5/p/4/)|
-|![Spirit of Morningside (Fashion) example sett](/variants/g/3/ln2/g32/k5/g3/k15/db50/p3/db5/p/4-db2c2c80-g006818-k101010-lne0e0e0-p780078/sett.png)|
+| [Spirit of Morningside (Fashion)](/setts/s10/b4ba5b3ba50k15g3k5g32w2g3-b780078-ba2c2c80-g006818-k101010-we0e0e0/)|
+|![Spirit of Morningside (Fashion) example sett](/setts/s10/b4ba5b3ba50k15g3k5g32w2g3-b780078-ba2c2c80-g006818-k101010-we0e0e0/sett.png)|

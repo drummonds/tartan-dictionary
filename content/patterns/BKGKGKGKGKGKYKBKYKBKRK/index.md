@@ -16,5 +16,5 @@ BKGKGKGKGKGKYKBKYKBKRK
 
 | Tartans |
 |---------------|
-| [Lamquet (2015)](/tartans/db/32/k32/g4/k4/g4/k4/g32/k4/g4/k4/g4/k32/y16/k4/db4/k4/y16/k32/db32/k4/dr10/k/4/)|
-|![Lamquet (2015) example sett](/variants/db/32/k32/g4/k4/g4/k4/g32/k4/g4/k4/g4/k32/y16/k4/db4/k4/y16/k32/db32/k4/dr10/k/4-db003c64-dr960000-g285800-k101010-yffe600/sett.png)|
+| [Lamquet (2015)](/setts/s22/b32k32g4k4g4k4g32k4g4k4g4k32y16k4b4k4y16k32b32k4r10k4-b003c64-g285800-k101010-r960000-yffe600/)|
+|![Lamquet (2015) example sett](/setts/s22/b32k32g4k4g4k4g32k4g4k4g4k32y16k4b4k4y16k32b32k4r10k4-b003c64-g285800-k101010-r960000-yffe600/sett.png)|

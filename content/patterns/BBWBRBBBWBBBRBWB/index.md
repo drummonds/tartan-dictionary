@@ -16,5 +16,5 @@ BBWBRBBBWBBBRBWB
 
 | Tartans |
 |---------------|
-| [United States (Personal)](/tartans/b/7/db5/w6/db5/r7/db2/b2/db70/w2/db70/b2/db2/r7/db5/w6/db/5/)|
-|![United States (Personal) example sett](/variants/b/7/db5/w6/db5/r7/db2/b2/db70/w2/db70/b2/db2/r7/db5/w6/db/5-b1474b4-db202060-rc80000-wfcfcfc/sett.png)|
+| [United States (Personal)](/setts/s16/b7ba5w6ba5r7ba2b2ba70w2ba70b2ba2r7ba5w6ba5-b1474b4-ba202060-rc80000-wfcfcfc/)|
+|![United States (Personal) example sett](/setts/s16/b7ba5w6ba5r7ba2b2ba70w2ba70b2ba2r7ba5w6ba5-b1474b4-ba202060-rc80000-wfcfcfc/sett.png)|

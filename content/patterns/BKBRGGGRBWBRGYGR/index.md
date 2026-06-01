@@ -16,5 +16,5 @@ BKBRGGGRBWBRGYGR
 
 | Tartans |
 |---------------|
-| [Amnesty (Commemorative)](/tartans/db/42/k5/db42/do32/g42/t5/g42/do32/db42/ln5/db42/do32/g42/dy5/g42/do/32/)|
-|![Amnesty (Commemorative) example sett](/variants/db/42/k5/db42/do32/g42/t5/g42/do32/db42/ln5/db42/do32/g42/dy5/g42/do/32-db242468-dob84c00-dybc8c00-g005010-k101010-lne0e0e0-t604000/sett.png)|
+| [Amnesty (Commemorative)](/setts/s16/b42k5b42r32g42ga5g42r32b42w5b42r32g42y5g42r32-b242468-g005010-ga604000-k101010-rb84c00-we0e0e0-ybc8c00/)|
+|![Amnesty (Commemorative) example sett](/setts/s16/b42k5b42r32g42ga5g42r32b42w5b42r32g42y5g42r32-b242468-g005010-ga604000-k101010-rb84c00-we0e0e0-ybc8c00/sett.png)|

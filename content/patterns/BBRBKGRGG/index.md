@@ -16,5 +16,5 @@ BBRBKGRGG
 
 | Tartans |
 |---------------|
-| [MacThomas](/tartans/db/2/db2/r4/db42/k22/g42/r4/g2/g/2/)|
-|![MacThomas example sett](/variants/db/2/db2/r4/db42/k22/g42/r4/g2/g/2-db000060-g004c00-k000000-rc80000/sett.png)|
+| [MacThomas](/setts/s9/b2b2r4b42k22g42r4g2g2-b000060-g004c00-k000000-rc80000/)|
+|![MacThomas example sett](/setts/s9/b2b2r4b42k22g42r4g2g2-b000060-g004c00-k000000-rc80000/sett.png)|

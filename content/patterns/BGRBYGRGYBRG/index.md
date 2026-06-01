@@ -16,5 +16,5 @@ BGRBYGRGYBRG
 
 | Tartans |
 |---------------|
-| [Kilkenny, County](/tartans/dg/54/do4/db50/dy10/dg6/do6/dg6/dy10/db50/do4/dg54/dr/8/)|
-|![Kilkenny, County example sett](/variants/dg/54/do4/db50/dy10/dg6/do6/dg6/dy10/db50/do4/dg54/dr/8-db202060-dg003820-dob84c00-dr480800-dybc8c00/sett.png)|
+| [Kilkenny, County](/setts/s12/b8g54r4ba50y10g6r6g6y10ba50r4g54-b480800-ba202060-g003820-rb84c00-ybc8c00/)|
+|![Kilkenny, County example sett](/setts/s12/b8g54r4ba50y10g6r6g6y10ba50r4g54-b480800-ba202060-g003820-rb84c00-ybc8c00/sett.png)|

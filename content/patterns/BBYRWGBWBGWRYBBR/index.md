@@ -16,5 +16,5 @@ BBYRWGBWBGWRYBBR
 
 | Tartans |
 |---------------|
-| [Wilson's No.227](/tartans/b/14/dp16/y6/r6/w6/g40/dp20/w4/dp20/g40/w6/r6/y6/dp16/b14/r/52/)|
-|![Wilson's No.227 example sett](/variants/b/14/dp16/y6/r6/w6/g40/dp20/w4/dp20/g40/w6/r6/y6/dp16/b14/r/52-b5c8ca8-dg003820-dp440044-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Wilson's No.227](/setts/s16/b14ba16y6r6w6g40ba20w4ba20g40w6r6y6ba16b14r52-b5c8ca8-ba440044-g006818-rc80000-wfcfcfc-ye8c000/)|
+|![Wilson's No.227 example sett](/setts/s16/b14ba16y6r6w6g40ba20w4ba20g40w6r6y6ba16b14r52-b5c8ca8-ba440044-g006818-rc80000-wfcfcfc-ye8c000/sett.png)|

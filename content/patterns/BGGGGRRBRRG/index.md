@@ -16,7 +16,9 @@ BGGGGRRBRRG
 
 | Tartans |
 |---------------|
-| [Ralston (USA)](/tartans/b/6/lg8/g8/lg8/g24/n6/r6/b6/r6/n6/g/14/)|
-|![Ralston (USA) example sett](/variants/b/6/lg8/g8/lg8/g24/n6/r6/b6/r6/n6/g/14-b2888c4-g006818-lg789484-n888888-ra43000/sett.png)|
-| [Ralston Personal Tartan Tartan Number: 6109. Earliest known date: 2003 The tartan commemorates the 60th birthday of Michael R. Ralstin of Scioto Co Ohio and provides a tartan design for the name Ralston and all its spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/8/g10/dg10/g10/dg36/n8/r8/b8/r8/n8/dg/24/)|
-|![Ralston Personal Tartan Tartan Number: 6109. Earliest known date: 2003 The tartan commemorates the 60th birthday of Michael R. Ralstin of Scioto Co Ohio and provides a tartan design for the name Ralston and all its spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/8/g10/dg10/g10/dg36/n8/r8/b8/r8/n8/dg/24-b28607c-ba2888c4-dg003820-g447454-n888888-ra43000/sett.png)|
+| [Ralston (USA)](/setts/s11/b6g8ga8g8ga24r6ra6b6ra6r6ga14-b2888c4-g789484-ga006818-r888888-raa43000/)|
+|![Ralston (USA) example sett](/setts/s11/b6g8ga8g8ga24r6ra6b6ra6r6ga14-b2888c4-g789484-ga006818-r888888-raa43000/sett.png)|
+| [Ralston (USA) (Name)](/setts/s11/b6g8ga8g8ga24r6ra6b6ra6r6ga14-b2888c4-g789484-ga006818-r888888-raa43000/)|
+|![Ralston (USA) (Name) example sett](/setts/s11/b6g8ga8g8ga24r6ra6b6ra6r6ga14-b2888c4-g789484-ga006818-r888888-raa43000/sett.png)|
+| [Ralston Personal Tartan Tartan Number: 6109. Earliest known date: 2003 The tartan commemorates the 60th birthday of Michael R. Ralstin of Scioto Co Ohio and provides a tartan design for the name Ralston and all its spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b8g10ga10g10ga36r8ra8b8ra8r8ga24-b28607c-g447454-ga003820-r888888-raa43000/)|
+|![Ralston Personal Tartan Tartan Number: 6109. Earliest known date: 2003 The tartan commemorates the 60th birthday of Michael R. Ralstin of Scioto Co Ohio and provides a tartan design for the name Ralston and all its spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b8g10ga10g10ga36r8ra8b8ra8r8ga24-b28607c-g447454-ga003820-r888888-raa43000/sett.png)|

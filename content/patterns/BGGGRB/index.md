@@ -6,7 +6,7 @@ BGGGRB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/4/r44/t22/lg4/t22/b/4-b304080-lg908000-rc00020-t604000/tartan.png)
+![Woven sample](/setts/s6/b4g22ga4g22r44b4-b304080-g604000-ga908000-rc00020/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGGRB
 
 | Tartans |
 |---------------|
-| [Cetoloni](/tartans/b/4/r44/t22/lg4/t22/b/4/)|
-|![Cetoloni example sett](/variants/b/4/r44/t22/lg4/t22/b/4-b304080-lg908000-rc00020-t604000/sett.png)|
+| [Cetoloni](/setts/s6/b4g22ga4g22r44b4-b304080-g604000-ga908000-rc00020/)|
+|![Cetoloni example sett](/setts/s6/b4g22ga4g22r44b4-b304080-g604000-ga908000-rc00020/sett.png)|

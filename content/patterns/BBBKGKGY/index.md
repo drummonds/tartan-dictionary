@@ -6,7 +6,7 @@ BBBKGKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/36/p4/db32/k26/g6/k4/g84/dy/6-db1c0070-dyd09800-g006818-k101010-p6c0070/tartan.png)
+![Woven sample](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBKGKGY
 
 | Tartans |
 |---------------|
-| [McFadden (Personal)](/tartans/db/36/p4/db32/k26/g6/k4/g84/dy/6/)|
-|![McFadden (Personal) example sett](/variants/db/36/p4/db32/k26/g6/k4/g84/dy/6-db1c0070-dyd09800-g006818-k101010-p6c0070/sett.png)|
+| [McFadden (Personal)](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/)|
+|![McFadden (Personal) example sett](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/sett.png)|
+| [McFadden (Personal)](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/)|
+|![McFadden (Personal) example sett](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/sett.png)|

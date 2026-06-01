@@ -6,7 +6,7 @@ BBWGWGGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/12/b12/ln2/t6/ln2/t6/g12/ga/36-b2888c4-db202060-g289c18-ga006818-lne0e0e0-t604000/tartan.png)
+![Woven sample](/setts/s8/b12ba12w2g6w2g6ga12gb36-b202060-ba2888c4-g604000-ga289c18-gb006818-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWGWGGG
 
 | Tartans |
 |---------------|
-| [Iroquois Falls Centenary (Commem.)](/tartans/db/12/b12/ln2/t6/ln2/t6/g12/ga/36/)|
-|![Iroquois Falls Centenary (Commem.) example sett](/variants/db/12/b12/ln2/t6/ln2/t6/g12/ga/36-b2888c4-db202060-g289c18-ga006818-lne0e0e0-t604000/sett.png)|
+| [Iroquois Falls Centenary (Commem.)](/setts/s8/b12ba12w2g6w2g6ga12gb36-b202060-ba2888c4-g604000-ga289c18-gb006818-we0e0e0/)|
+|![Iroquois Falls Centenary (Commem.) example sett](/setts/s8/b12ba12w2g6w2g6ga12gb36-b202060-ba2888c4-g604000-ga289c18-gb006818-we0e0e0/sett.png)|

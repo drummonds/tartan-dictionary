@@ -16,5 +16,5 @@ BGGBGKGBYBGKGBGG
 
 | Tartans |
 |---------------|
-| [Suzugamine](/tartans/dba/8/t10/ga38/p10/t10/k10/t10/dba72/ly6/dba72/t10/k10/t10/p10/ga38/t/10/)|
-|![Suzugamine example sett](/variants/dba/8/t10/ga38/p10/t10/k10/t10/dba72/ly6/dba72/t10/k10/t10/p10/ga38/t/10-b1474b4-db000064-dba2c2c80-dp4c004c-g003800-ga006818-k000000-lyd8d898-p780078-t384020/sett.png)|
+| [Suzugamine](/setts/s16/b8g10ga38ba10g10k10g10b72y6b72g10k10g10ba10ga38g10-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/)|
+|![Suzugamine example sett](/setts/s16/b8g10ga38ba10g10k10g10b72y6b72g10k10g10ba10ga38g10-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/sett.png)|

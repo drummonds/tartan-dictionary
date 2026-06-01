@@ -16,7 +16,9 @@ BBRBBBBBBBBRBYBRBB
 
 | Tartans |
 |---------------|
-| [Cordiner (Boddam)](/tartans/db/84/n26/r6/n4/y6/n4/r6/n22/db16/n16/db52/n16/db16/n16/db8/lr6/db8/n/32/)|
-|![Cordiner (Boddam) example sett](/variants/db/84/n26/r6/n4/y6/n4/r6/n22/db16/n16/db52/n16/db16/n16/db8/lr6/db8/n/32-db172d60-lrf6799f-n3f4441-rdd1212-yd3cc20/sett.png)|
-| [Cordiner (Name)](/tartans/db/84/n26/r6/n4/y6/n4/r6/n22/db16/n16/db52/n16/db16/n16/db8/p6/db8/n/32/)|
-|![Cordiner (Name) example sett](/variants/db/84/n26/r6/n4/y6/n4/r6/n22/db16/n16/db52/n16/db16/n16/db8/p6/db8/n/32-db2c2c80-n5c5c5c-pb468ac-rc80000-yfccc00/sett.png)|
+| [Cordiner (Boddam)](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20/)|
+|![Cordiner (Boddam) example sett](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20/sett.png)|
+| [Cordiner (Name)](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b2c2c80-ba5c5c5c-rc80000-rab468ac-yfccc00/)|
+|![Cordiner (Name) example sett](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b2c2c80-ba5c5c5c-rc80000-rab468ac-yfccc00/sett.png)|
+| [Cordiner (Boddam) Name Tartan Tartan Number: 10721. Earliest known date: 22 October 2012 The designer has created a modern tartan reflecting the history and ancestry of Cordiners from Boddam, Aberdeenshire. The designer is happy for all those with the surname Cordiner to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20/)|
+|![Cordiner (Boddam) Name Tartan Tartan Number: 10721. Earliest known date: 22 October 2012 The designer has created a modern tartan reflecting the history and ancestry of Cordiners from Boddam, Aberdeenshire. The designer is happy for all those with the surname Cordiner to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20/sett.png)|

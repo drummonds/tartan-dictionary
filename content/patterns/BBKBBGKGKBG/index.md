@@ -16,5 +16,7 @@ BBKBBGKGKBG
 
 | Tartans |
 |---------------|
-| [Hudson Hunting (Personal)](/tartans/db/8/b4/k4/db24/b8/g12/k12/g56/k4/b4/g/6/)|
-|![Hudson Hunting (Personal) example sett](/variants/db/8/b4/k4/db24/b8/g12/k12/g56/k4/b4/g/6-b788cb4-db00008c-dr8c0000-dyc88c00-g007800-k000000-nc8c8c8-p64008c/sett.png)|
+| [Hudson Hunting (Personal)](/setts/s11/b8ba4k4b24ba8g12k12g56k4ba4g6-b00008c-ba788cb4-g007800-k000000/)|
+|![Hudson Hunting (Personal) example sett](/setts/s11/b8ba4k4b24ba8g12k12g56k4ba4g6-b00008c-ba788cb4-g007800-k000000/sett.png)|
+| [Hudson Hunting (Personal)](/setts/s11/b8ba4k4b24ba8g12k12g56k4ba4g6-b00008c-ba788cb4-g007800-k000000/)|
+|![Hudson Hunting (Personal) example sett](/setts/s11/b8ba4k4b24ba8g12k12g56k4ba4g6-b00008c-ba788cb4-g007800-k000000/sett.png)|

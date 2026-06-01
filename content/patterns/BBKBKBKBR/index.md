@@ -16,5 +16,7 @@ BBKBKBKBR
 
 | Tartans |
 |---------------|
-| [VersaCold/Atlas](/tartans/db/6/n88/k18/n20/k18/n20/k18/n88/r/6/)|
-|![VersaCold/Atlas example sett](/variants/db/6/n88/k18/n20/k18/n20/k18/n88/r/6-b1474b4-db2c2c80-k101010-n5c5c5c-oec8048-oadc943c-rc80000/sett.png)|
+| [VersaCold/Atlas](/setts/s9/b6ba88k18ba20k18ba20k18ba88r6-b2c2c80-ba5c5c5c-k101010-rc80000/)|
+|![VersaCold/Atlas example sett](/setts/s9/b6ba88k18ba20k18ba20k18ba88r6-b2c2c80-ba5c5c5c-k101010-rc80000/sett.png)|
+| [VersaCold/Atlas (Corporate)](/setts/s9/b6ba88k18ba20k18ba20k18ba88r6-b2c2c80-ba5c5c5c-k101010-rc80000/)|
+|![VersaCold/Atlas (Corporate) example sett](/setts/s9/b6ba88k18ba20k18ba20k18ba88r6-b2c2c80-ba5c5c5c-k101010-rc80000/sett.png)|

@@ -6,7 +6,7 @@ BBKYKB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/44/k32/y8/k22/p4/n/2-db003c64-k101010-n5c5c5c-p780078-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b88k64y16k44ba8bb4-b003c64-ba780078-bb5c5c5c-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKYKB
 
 | Tartans |
 |---------------|
-| [Martinez, Clément (Personal)](/tartans/db/44/k32/y8/k22/p4/n/2/)|
-|![Martinez, Clément (Personal) example sett](/variants/db/44/k32/y8/k22/p4/n/2-db003c64-k101010-n5c5c5c-p780078-ye8c000/sett.png)|
+| [Martinez, Clément (Personal)](/setts/s6/b88k64y16k44ba8bb4-b003c64-ba780078-bb5c5c5c-k101010-ye8c000/)|
+|![Martinez, Clément (Personal) example sett](/setts/s6/b88k64y16k44ba8bb4-b003c64-ba780078-bb5c5c5c-k101010-ye8c000/sett.png)|

@@ -6,7 +6,7 @@ BKBKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/60/k24/db24/k4/w/6-b3850c8-db003c64-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/b60k24ba24k4w6-b3850c8-ba003c64-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKW
 
 | Tartans |
 |---------------|
-| [MacNeil - 1994 (Personal)](/tartans/b/60/k24/db24/k4/w/6/)|
-|![MacNeil - 1994 (Personal) example sett](/variants/b/60/k24/db24/k4/w/6-b3850c8-db003c64-k101010-wfcfcfc/sett.png)|
+| [MacNeil - 1994 (Personal)](/setts/s5/b60k24ba24k4w6-b3850c8-ba003c64-k101010-wfcfcfc/)|
+|![MacNeil - 1994 (Personal) example sett](/setts/s5/b60k24ba24k4w6-b3850c8-ba003c64-k101010-wfcfcfc/sett.png)|

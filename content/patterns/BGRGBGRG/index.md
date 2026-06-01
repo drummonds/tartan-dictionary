@@ -6,7 +6,7 @@ BGRGBGRG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/6/g12/lt35/g13/b6/g75/r6/g/18-b304080-g008000-lt806050-rc00000/tartan.png)
+![Woven sample](/setts/s8/b6g12r35g13b6g75ra6g18-b304080-g008000-r806050-rac00000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRGBGRG
 
 | Tartans |
 |---------------|
-| [Glenlivet](/tartans/b/6/g12/lt35/g13/b6/g75/r6/g/18/)|
-|![Glenlivet example sett](/variants/b/6/g12/lt35/g13/b6/g75/r6/g/18-b304080-g008000-lt806050-rc00000/sett.png)|
+| [Glenlivet](/setts/s8/b6g12r35g13b6g75ra6g18-b304080-g008000-r806050-rac00000/)|
+|![Glenlivet example sett](/setts/s8/b6g12r35g13b6g75ra6g18-b304080-g008000-r806050-rac00000/sett.png)|

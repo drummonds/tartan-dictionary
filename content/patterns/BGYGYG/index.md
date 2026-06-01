@@ -6,7 +6,7 @@ BGYGYG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/10/dg86/o44/dg21/o44/dg/86-b2888c4-dg003820-odc943c/tartan.png)
+![Woven sample](/setts/s6/b10g86y44g21y44g86-b2888c4-g003820-ydc943c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYGYG
 
 | Tartans |
 |---------------|
-| [Special Saffron](/tartans/b/10/dg86/o44/dg21/o44/dg/86/)|
-|![Special Saffron example sett](/variants/b/10/dg86/o44/dg21/o44/dg/86-b2888c4-dg003820-odc943c/sett.png)|
+| [Special Saffron](/setts/s6/b10g86y44g21y44g86-b2888c4-g003820-ydc943c/)|
+|![Special Saffron example sett](/setts/s6/b10g86y44g21y44g86-b2888c4-g003820-ydc943c/sett.png)|

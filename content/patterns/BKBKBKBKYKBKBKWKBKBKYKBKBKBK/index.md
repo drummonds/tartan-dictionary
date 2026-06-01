@@ -16,5 +16,5 @@ BKBKBKBKYKBKBKWKBKBKYKBKBKBK
 
 | Tartans |
 |---------------|
-| [Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/32/k6/db6/k6/db6/k32/db34/k4/y8/k4/db34/k32/db34/k4/ln8/k4/db34/k32/db34/k4/y8/k4/db34/k32/db6/k6/db6/k/6/)|
-|![Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/32/k6/db6/k6/db6/k32/db34/k4/y8/k4/db34/k32/db34/k4/ln8/k4/db34/k32/db34/k4/y8/k4/db34/k32/db6/k6/db6/k/6-db2c2c80-k101010-lne0e0e0-ye8c000/sett.png)|
+| [Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/b32k6b6k6b6k32b34k4y8k4b34k32b34k4w8k4b34k32b34k4y8k4b34k32b6k6b6k6-b2c2c80-k101010-we0e0e0-ye8c000/)|
+|![Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s28/b32k6b6k6b6k32b34k4y8k4b34k32b34k4w8k4b34k32b34k4y8k4b34k32b6k6b6k6-b2c2c80-k101010-we0e0e0-ye8c000/sett.png)|

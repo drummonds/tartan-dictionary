@@ -6,7 +6,7 @@ BGRBGRB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/p/6/dr28/g4/p20/dr4/g28/p/6-dr960028-g005020-p5a008c/tartan.png)
+![Woven sample](/setts/s7/b6g28r4b20g4r28b6-b5a008c-g005020-r960028/tartan.png)
 
 
 
@@ -18,7 +18,11 @@ BGRBGRB
 
 | Tartans |
 |---------------|
-| [Scottish Netball Association](/tartans/p/6/dr28/g4/p20/dr4/g28/p/6/)|
-|![Scottish Netball Association example sett](/variants/p/6/dr28/g4/p20/dr4/g28/p/6-dr960028-g005020-p5a008c/sett.png)|
-| [Scottish Netball (1986) (Corporate)](/tartans/p/6/g28/r4/p20/g4/r28/p/6/)|
-|![Scottish Netball (1986) (Corporate) example sett](/variants/p/6/g28/r4/p20/g4/r28/p/6-g006818-p780078-ra00048/sett.png)|
+| [Scottish Netball Association](/setts/s7/b6g28r4b20g4r28b6-b5a008c-g005020-r960028/)|
+|![Scottish Netball Association example sett](/setts/s7/b6g28r4b20g4r28b6-b5a008c-g005020-r960028/sett.png)|
+| [Scottish Netball (1986) (Corporate)](/setts/s7/b6g28r4b20g4r28b6-b780078-g006818-ra00048/)|
+|![Scottish Netball (1986) (Corporate) example sett](/setts/s7/b6g28r4b20g4r28b6-b780078-g006818-ra00048/sett.png)|
+| [Scottish Netball Association](/setts/s7/b6g28r4b20g4r28b6-b800080-g008000-r900030/)|
+|![Scottish Netball Association example sett](/setts/s7/b6g28r4b20g4r28b6-b800080-g008000-r900030/sett.png)|
+| [Scottish Netball Association Corporate Tartan Tartan Number: 177. Earliest known date: 1986 Designed for the World Netball Championship held in 1987. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b6g28r4b20g4r28b6-b780078-g006818-ra00048/)|
+|![Scottish Netball Association Corporate Tartan Tartan Number: 177. Earliest known date: 1986 Designed for the World Netball Championship held in 1987. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b6g28r4b20g4r28b6-b780078-g006818-ra00048/sett.png)|

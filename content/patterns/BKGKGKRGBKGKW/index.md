@@ -16,5 +16,5 @@ BKGKGKRGBKGKW
 
 | Tartans |
 |---------------|
-| [Afghanistan Memorial](/tartans/dn/16/dr6/lt2/dr2/lt78/dr6/dra6/lt4/dn22/dr16/lt4/dr6/w/4/)|
-|![Afghanistan Memorial example sett](/variants/dn/16/dr6/lt2/dr2/lt78/dr6/dra6/lt4/dn22/dr16/lt4/dr6/w/4-dn14283c-dr300500-draa00000-lt8c7038-wfcfcfc/sett.png)|
+| [Afghanistan Memorial](/setts/s13/b16k6g2k2g78k6r6g4b22k16g4k6w4-b14283c-g8c7038-k300500-ra00000-wfcfcfc/)|
+|![Afghanistan Memorial example sett](/setts/s13/b16k6g2k2g78k6r6g4b22k16g4k6w4-b14283c-g8c7038-k300500-ra00000-wfcfcfc/sett.png)|

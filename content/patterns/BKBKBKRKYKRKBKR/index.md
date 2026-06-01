@@ -16,5 +16,7 @@ BKBKBKRKYKRKBKR
 
 | Tartans |
 |---------------|
-| [Flaumandrum](/tartans/n/24/k4/n4/k4/n4/k24/dr24/k2/y4/k2/dr24/k24/n24/k2/r/4/)|
-|![Flaumandrum example sett](/variants/n/24/k4/n4/k4/n4/k24/dr24/k2/y4/k2/dr24/k24/n24/k2/r/4-dr880000-k101010-n5c5c5c-rc00000-ye8c000/sett.png)|
+| [Flaumandrum](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/)|
+|![Flaumandrum example sett](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/sett.png)|
+| [Flaumandrum (Corporate)](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/)|
+|![Flaumandrum (Corporate) example sett](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/sett.png)|

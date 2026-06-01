@@ -6,7 +6,7 @@ BKBKBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/n/2/k6/n2/k6/n16/r/2-db2c2c80-k101010-n506878-rc80000/tartan.png)
+![Woven sample](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/tartan.png)
 
 
 
@@ -18,19 +18,23 @@ BKBKBR
 
 | Tartans |
 |---------------|
-| [Mackay (Blue)](/tartans/n/2/k6/n2/k6/n16/r/2/)|
-|![Mackay (Blue) example sett](/variants/n/2/k6/n2/k6/n16/r/2-db2c2c80-k101010-n506878-rc80000/sett.png)|
-| [MacCorquodale #2](/tartans/b/6/k6/db48/k48/b64/r/16/)|
-|![MacCorquodale #2 example sett](/variants/b/6/k6/db48/k48/b64/r/16-b1474b4-db2c2c80-k101010-rc80000/sett.png)|
-| [Norsemen, The](/tartans/b/130/k4/b8/dn4/b20/dr/48/)|
-|![Norsemen, The example sett](/variants/b/130/k4/b8/dn4/b20/dr/48-b36648b-dr800000-k101010/sett.png)|
-| [Largan (?)](/tartans/db/8/k39/db8/k39/db87/r/6/)|
-|![Largan (?) example sett](/variants/db/8/k39/db8/k39/db87/r/6-db2c2c80-k101010-rc80000/sett.png)|
-| [MacKay V](/tartans/db/4/k12/db4/k12/db32/r/2/)|
-|![MacKay V example sett](/variants/db/4/k12/db4/k12/db32/r/2-db000064-k000000-rc80000/sett.png)|
-| [MacKay](/tartans/b/4/k12/b4/k12/b32/r/2/)|
-|![MacKay example sett](/variants/b/4/k12/b4/k12/b32/r/2-b304080-k000000-rc00000/sett.png)|
-| [MacKay VS](/tartans/db/4/k12/db4/k12/db32/dr/2/)|
-|![MacKay VS example sett](/variants/db/4/k12/db4/k12/db32/dr/2-db000052-draa0000-k000000/sett.png)|
-| [Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/2/k6/db2/k6/db16/r/2/)|
-|![Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/2/k6/db2/k6/db16/r/2-db2c2c80-k101010-rc80000/sett.png)|
+| [Mackay (Blue)](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/)|
+|![Mackay (Blue) example sett](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/sett.png)|
+| [MacCorquodale #2](/setts/s6/b6k6ba48k48b64r16-b1474b4-ba2c2c80-k101010-rc80000/)|
+|![MacCorquodale #2 example sett](/setts/s6/b6k6ba48k48b64r16-b1474b4-ba2c2c80-k101010-rc80000/sett.png)|
+| [Norsemen, The](/setts/s6/b130k4b8ka4b20r48-b36648b-k101010-ka000000-r800000/)|
+|![Norsemen, The example sett](/setts/s6/b130k4b8ka4b20r48-b36648b-k101010-ka000000-r800000/sett.png)|
+| [MacKay -1842 (VS) (Clan)](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/)|
+|![MacKay -1842 (VS) (Clan) example sett](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/sett.png)|
+| [Largan (?)](/setts/s6/b8k39b8k39b87r6-b2c2c80-k101010-rc80000/)|
+|![Largan (?) example sett](/setts/s6/b8k39b8k39b87r6-b2c2c80-k101010-rc80000/sett.png)|
+| [MacKay V](/setts/s6/b4k12b4k12b32r2-b000064-k000000-rc80000/)|
+|![MacKay V example sett](/setts/s6/b4k12b4k12b32r2-b000064-k000000-rc80000/sett.png)|
+| [MacKay](/setts/s6/b4k12b4k12b32r2-b304080-k000000-rc00000/)|
+|![MacKay example sett](/setts/s6/b4k12b4k12b32r2-b304080-k000000-rc00000/sett.png)|
+| [MacKay VS](/setts/s6/b4k12b4k12b32r2-b000052-k000000-raa0000/)|
+|![MacKay VS example sett](/setts/s6/b4k12b4k12b32r2-b000052-k000000-raa0000/sett.png)|
+| [MacKay VS](/setts/s6/b4k12b4k12b32r2-b000052-k000000-raa0000/)|
+|![MacKay VS example sett](/setts/s6/b4k12b4k12b32r2-b000052-k000000-raa0000/sett.png)|
+| [Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4k12b4k12b32r4-b2c2c80-k101010-rc80000/)|
+|![Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b4k12b4k12b32r4-b2c2c80-k101010-rc80000/sett.png)|

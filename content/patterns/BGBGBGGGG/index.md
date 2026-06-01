@@ -16,5 +16,5 @@ BGBGBGGGG
 
 | Tartans |
 |---------------|
-| [Manx Centenary](/tartans/b/44/g6/b6/g6/b6/g18/n56/g6/n/12/)|
-|![Manx Centenary example sett](/variants/b/44/g6/b6/g6/b6/g18/n56/g6/n/12-b304080-g008000-n808080/sett.png)|
+| [Manx Centenary](/setts/s9/b44g6b6g6b6g18ga56g6ga12-b304080-g008000-ga808080/)|
+|![Manx Centenary example sett](/setts/s9/b44g6b6g6b6g18ga56g6ga12-b304080-g008000-ga808080/sett.png)|

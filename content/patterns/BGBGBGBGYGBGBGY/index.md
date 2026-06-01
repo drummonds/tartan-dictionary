@@ -16,7 +16,7 @@ BGBGBGBGYGBGBGY
 
 | Tartans |
 |---------------|
-| [Pitlochry](/tartans/p/46/g4/p4/g4/p4/g24/db32/g2/b6/g2/db32/g24/p32/g2/y/6/)|
-|![Pitlochry example sett](/variants/p/46/g4/p4/g4/p4/g24/db32/g2/b6/g2/db32/g24/p32/g2/y/6-b75a1d0-db00008b-g006400-p7d26cd-ycdad00/sett.png)|
-| [Pitlochry (District)](/tartans/dy/6/g2/p32/g24/db32/g2/n6/g2/db32/g24/p4/g4/p4/g4/p/46/)|
-|![Pitlochry (District) example sett](/variants/dy/6/g2/p32/g24/db32/g2/n6/g2/db32/g24/p4/g4/p4/g4/p/46-db1c1c50-dybc8c00-g005c14-na0b0b8-p640064/sett.png)|
+| [Pitlochry](/setts/s15/b46g4b4g4b4g24ba32g2y6g2ba32g24b32g2ya6-b7d26cd-ba00008b-g006400-y75a1d0-yacdad00/)|
+|![Pitlochry example sett](/setts/s15/b46g4b4g4b4g24ba32g2y6g2ba32g24b32g2ya6-b7d26cd-ba00008b-g006400-y75a1d0-yacdad00/sett.png)|
+| [Pitlochry (District)](/setts/s15/b46g4b4g4b4g24ba32g2y6g2ba32g24b32g2ya6-b640064-ba1c1c50-g005c14-ya0b0b8-yabc8c00/)|
+|![Pitlochry (District) example sett](/setts/s15/b46g4b4g4b4g24ba32g2y6g2ba32g24b32g2ya6-b640064-ba1c1c50-g005c14-ya0b0b8-yabc8c00/sett.png)|

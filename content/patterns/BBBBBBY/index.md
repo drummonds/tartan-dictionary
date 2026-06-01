@@ -6,7 +6,7 @@ BBBBBBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/12/k6/na20/db4/k4/dn90/n/4-b5c8ca8-db1c1c50-dn14283c-k1c1c1c-na0a0a0-na5c5c5c/tartan.png)
+![Woven sample](/setts/s7/b12ba6bb20bc4ba4bd90y4-b5c8ca8-ba1c1c1c-bb5c5c5c-bc1c1c50-bd14283c-ya0a0a0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBBBBY
 
 | Tartans |
 |---------------|
-| [Vonarb, Alfred (Personal)](/tartans/b/12/k6/na20/db4/k4/dn90/n/4/)|
-|![Vonarb, Alfred (Personal) example sett](/variants/b/12/k6/na20/db4/k4/dn90/n/4-b5c8ca8-db1c1c50-dn14283c-k1c1c1c-na0a0a0-na5c5c5c/sett.png)|
-| [Brigid Mhairi (Personal)](/tartans/db/4/b22/dp38/db2/dp38/p8/o/4/)|
-|![Brigid Mhairi (Personal) example sett](/variants/db/4/b22/dp38/db2/dp38/p8/o/4-b2888c4-db2c2c80-dp440044-od87c00-p780078/sett.png)|
+| [Vonarb, Alfred (Personal)](/setts/s7/b12ba6bb20bc4ba4bd90y4-b5c8ca8-ba1c1c1c-bb5c5c5c-bc1c1c50-bd14283c-ya0a0a0/)|
+|![Vonarb, Alfred (Personal) example sett](/setts/s7/b12ba6bb20bc4ba4bd90y4-b5c8ca8-ba1c1c1c-bb5c5c5c-bc1c1c50-bd14283c-ya0a0a0/sett.png)|
+| [Brigid Mhairi (Personal)](/setts/s7/b4ba22bb38b2bb38bc8y4-b2c2c80-ba2888c4-bb440044-bc780078-yd87c00/)|
+|![Brigid Mhairi (Personal) example sett](/setts/s7/b4ba22bb38b2bb38bc8y4-b2c2c80-ba2888c4-bb440044-bc780078-yd87c00/sett.png)|

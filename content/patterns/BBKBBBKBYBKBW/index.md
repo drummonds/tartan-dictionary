@@ -16,5 +16,7 @@ BBKBBBKBYBKBW
 
 | Tartans |
 |---------------|
-| [Heddle](/tartans/n/16/db48/k4/db4/n16/db4/k4/db8/y4/db8/k4/n24/w/6/)|
-|![Heddle example sett](/variants/n/16/db48/k4/db4/n16/db4/k4/db8/y4/db8/k4/n24/w/6-db2c2c80-k101010-n684074-wf8f8f8-ye8c000/sett.png)|
+| [Heddle](/setts/s13/b16ba48k4ba4b16ba4k4ba8y4ba8k4b24w6-b684074-ba2c2c80-k101010-wf8f8f8-ye8c000/)|
+|![Heddle example sett](/setts/s13/b16ba48k4ba4b16ba4k4ba8y4ba8k4b24w6-b684074-ba2c2c80-k101010-wf8f8f8-ye8c000/sett.png)|
+| [Heddle (Clan)](/setts/s13/b16ba48k4ba4b16ba4k4ba8y4ba8k4b24w6-b684074-ba2c2c80-k101010-wf8f8f8-ye8c000/)|
+|![Heddle (Clan) example sett](/setts/s13/b16ba48k4ba4b16ba4k4ba8y4ba8k4b24w6-b684074-ba2c2c80-k101010-wf8f8f8-ye8c000/sett.png)|

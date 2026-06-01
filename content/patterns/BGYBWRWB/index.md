@@ -6,7 +6,7 @@ BGYBWRWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/6/dg80/dy18/dba24/w2/dr6/w2/dba/46-db181034-dba181034-dg003c28-dr700014-dyb0840c-wfcf8ec/tartan.png)
+![Woven sample](/setts/s8/b46w2r6w2b24y18g80b6-b181034-g003c28-r700014-wfcf8ec-yb0840c/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGYBWRWB
 
 | Tartans |
 |---------------|
-| [Pictou County](/tartans/db/6/dg80/dy18/dba24/w2/dr6/w2/dba/46/)|
-|![Pictou County example sett](/variants/db/6/dg80/dy18/dba24/w2/dr6/w2/dba/46-db181034-dba181034-dg003c28-dr700014-dyb0840c-wfcf8ec/sett.png)|
+| [Pictou County](/setts/s8/b46w2r6w2b24y18g80b6-b181034-g003c28-r700014-wfcf8ec-yb0840c/)|
+|![Pictou County example sett](/setts/s8/b46w2r6w2b24y18g80b6-b181034-g003c28-r700014-wfcf8ec-yb0840c/sett.png)|
+| [Pictou County (District)](/setts/s8/b46w2r6w2b24y18g80b6-b181034-g003c28-r700014-wfcf8ec-yb0840c/)|
+|![Pictou County (District) example sett](/setts/s8/b46w2r6w2b24y18g80b6-b181034-g003c28-r700014-wfcf8ec-yb0840c/sett.png)|

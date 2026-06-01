@@ -16,5 +16,5 @@ BKGKBKGKBRBR
 
 | Tartans |
 |---------------|
-| [Trinity Presbyterian Church](/tartans/b/6/k12/g6/k8/db32/k8/g6/k12/b24/r6/b6/r/6/)|
-|![Trinity Presbyterian Church example sett](/variants/b/6/k12/g6/k8/db32/k8/g6/k12/b24/r6/b6/r/6-b2888c4-db2c2c80-g289c18-k101010-rc80000/sett.png)|
+| [Trinity Presbyterian Church](/setts/s12/b6k12g6k8ba32k8g6k12b24r6b6r6-b2888c4-ba2c2c80-g289c18-k101010-rc80000/)|
+|![Trinity Presbyterian Church example sett](/setts/s12/b6k12g6k8ba32k8g6k12b24r6b6r6-b2888c4-ba2c2c80-g289c18-k101010-rc80000/sett.png)|

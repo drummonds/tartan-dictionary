@@ -16,5 +16,5 @@ BKBBKBKBKBBKBBBKBBK
 
 | Tartans |
 |---------------|
-| [Longniddry (Fashion?)](/tartans/db/6/k4/dba4/db32/dr6/db6/k6/db6/dr6/db32/dba4/k4/db8/dba12/db8/k4/dba4/db8/dr/32/)|
-|![Longniddry (Fashion?) example sett](/variants/db/6/k4/dba4/db32/dr6/db6/k6/db6/dr6/db32/dba4/k4/db8/dba12/db8/k4/dba4/db8/dr/32-db000064-dba000064-k000000/sett.png)|
+| [Longniddry (Fashion?)](/setts/s19/b6k4b4b32k6b6k6b6k6b32b4k4b8b12b8k4b4b8k32-b000064-k000000/)|
+|![Longniddry (Fashion?) example sett](/setts/s19/b6k4b4b32k6b6k6b6k6b32b4k4b8b12b8k4b4b8k32-b000064-k000000/sett.png)|

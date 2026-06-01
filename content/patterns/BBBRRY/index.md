@@ -6,7 +6,7 @@ BBBRRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/dp/4/b18/dp6/r14/dr38/y/4-b5c8ca8-dp440044-dr901c38-lre87878-pb468ac-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b4ba18b6r14ra38y4-b440044-ba5c8ca8-rc80000-ra901c38-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRRY
 
 | Tartans |
 |---------------|
-| [Stevens #3](/tartans/dp/4/b18/dp6/r14/dr38/y/4/)|
-|![Stevens #3 example sett](/variants/dp/4/b18/dp6/r14/dr38/y/4-b5c8ca8-dp440044-dr901c38-lre87878-pb468ac-rc80000-ye8c000/sett.png)|
+| [Stevens #3](/setts/s6/b4ba18b6r14ra38y4-b440044-ba5c8ca8-rc80000-ra901c38-ye8c000/)|
+|![Stevens #3 example sett](/setts/s6/b4ba18b6r14ra38y4-b440044-ba5c8ca8-rc80000-ra901c38-ye8c000/sett.png)|

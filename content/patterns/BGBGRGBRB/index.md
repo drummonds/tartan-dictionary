@@ -16,5 +16,5 @@ BGBGRGBRB
 
 | Tartans |
 |---------------|
-| [Hubbard (2016)](/tartans/db/10/r38/k4/g16/r6/g36/k4/g18/k/4/)|
-|![Hubbard (2016) example sett](/variants/db/10/r38/k4/g16/r6/g36/k4/g18/k/4-db003c64-g5c6428-k1c1c1c-rc80000/sett.png)|
+| [Hubbard (2016)](/setts/s9/b10r38ba4g16r6g36ba4g18ba4-b003c64-ba1c1c1c-g5c6428-rc80000/)|
+|![Hubbard (2016) example sett](/setts/s9/b10r38ba4g16r6g36ba4g18ba4-b003c64-ba1c1c1c-g5c6428-rc80000/sett.png)|

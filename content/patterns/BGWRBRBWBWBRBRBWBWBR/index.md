@@ -16,5 +16,7 @@ BGWRBRBWBWBRBRBWBWBR
 
 | Tartans |
 |---------------|
-| [Martha De Laurentiis](/tartans/db/70/g6/w6/r6/db70/r4/db6/w4/db10/w2/db10/r2/db16/r2/db10/w2/db10/w4/db6/r/4/)|
-|![Martha De Laurentiis example sett](/variants/db/70/g6/w6/r6/db70/r4/db6/w4/db10/w2/db10/r2/db16/r2/db10/w2/db10/w4/db6/r/4-db002366-g008b00-rff0000-wffffff/sett.png)|
+| [Martha De Laurentiis](/setts/s20/b70g6w6r6b70r4b6w4b10w2b10r2b16r2b10w2b10w4b6r4-b002366-g008b00-rff0000-wffffff/)|
+|![Martha De Laurentiis example sett](/setts/s20/b70g6w6r6b70r4b6w4b10w2b10r2b16r2b10w2b10w4b6r4-b002366-g008b00-rff0000-wffffff/sett.png)|
+| [De Laurentiis, Martha (Personal)](/setts/s20/b70g6w6r6b70r4b6w4b10w2b10r2b16r2b10w2b10w4b6r4-b1c0070-g006818-rc80000-wfcfcfc/)|
+|![De Laurentiis, Martha (Personal) example sett](/setts/s20/b70g6w6r6b70r4b6w4b10w2b10r2b16r2b10w2b10w4b6r4-b1c0070-g006818-rc80000-wfcfcfc/sett.png)|

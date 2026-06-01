@@ -16,5 +16,5 @@ BGBBGBBBGY
 
 | Tartans |
 |---------------|
-| [Islay Whisky Club (Corporate)](/tartans/dr/60/g8/p6/b6/g8/dr60/p6/b6/dg8/y/4/)|
-|![Islay Whisky Club (Corporate) example sett](/variants/dr/60/g8/p6/b6/g8/dr60/p6/b6/dg8/y/4-b5c8ca8-dg003820-dr680028-g006428-p780078-ye8c000/sett.png)|
+| [Islay Whisky Club (Corporate)](/setts/s10/b60g8ba6bb6g8b60ba6bb6ga8y4-b680028-ba780078-bb5c8ca8-g006428-ga003820-ye8c000/)|
+|![Islay Whisky Club (Corporate) example sett](/setts/s10/b60g8ba6bb6g8b60ba6bb6ga8y4-b680028-ba780078-bb5c8ca8-g006428-ga003820-ye8c000/sett.png)|

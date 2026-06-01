@@ -16,5 +16,7 @@ BKBKGYGKGBGBK
 
 | Tartans |
 |---------------|
-| [Gordon Dress (F.Schumacher)](/tartans/db/4/k4/db8/k8/g10/dy2/g10/k8/g4/b4/g12/b2/k/4/)|
-|![Gordon Dress (F.Schumacher) example sett](/variants/db/4/k4/db8/k8/g10/dy2/g10/k8/g4/b4/g12/b2/k/4-b2474e8-db1c0070-dybc8c00-g006818-k101010/sett.png)|
+| [Gordon Dress (F.Schumacher)](/setts/s13/b8k8b16k16g20y4g20k16g8ba8g24ba4k8-b1c0070-ba2474e8-g006818-k101010-ybc8c00/)|
+|![Gordon Dress (F.Schumacher) example sett](/setts/s13/b8k8b16k16g20y4g20k16g8ba8g24ba4k8-b1c0070-ba2474e8-g006818-k101010-ybc8c00/sett.png)|
+| [Gordon Dress (US Fashion)](/setts/s13/b8k8b16k16g20y4g20k16g8ba8g24ba4k8-b1c0070-ba2474e8-g006818-k101010-ybc8c00/)|
+|![Gordon Dress (US Fashion) example sett](/setts/s13/b8k8b16k16g20y4g20k16g8ba8g24ba4k8-b1c0070-ba2474e8-g006818-k101010-ybc8c00/sett.png)|

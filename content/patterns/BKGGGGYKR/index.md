@@ -16,5 +16,5 @@ BKGGGGYKR
 
 | Tartans |
 |---------------|
-| [Morgan in Maryland (USA) (Name)](/tartans/db/8/k2/lg36/t4/lg22/t22/n36/k2/r/8/)|
-|![Morgan in Maryland (USA) (Name) example sett](/variants/db/8/k2/lg36/t4/lg22/t22/n36/k2/r/8-db2c2c80-k101010-lg609058-na0b4b4-rc8002c-t604000/sett.png)|
+| [Morgan in Maryland (USA) (Name)](/setts/s9/b8k2g36ga4g22ga22y36k2r8-b2c2c80-g609058-ga604000-k101010-rc8002c-ya0b4b4/)|
+|![Morgan in Maryland (USA) (Name) example sett](/setts/s9/b8k2g36ga4g22ga22y36k2r8-b2c2c80-g609058-ga604000-k101010-rc8002c-ya0b4b4/sett.png)|

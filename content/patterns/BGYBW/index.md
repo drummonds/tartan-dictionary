@@ -6,7 +6,7 @@ BGYBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/4/g16/y2/p8/ln/28-db2c2c80-g006818-lne0e0e0-p780078-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b4g16y2ba8w28-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYBW
 
 | Tartans |
 |---------------|
-| [Manx Laxey Dress Green](/tartans/db/4/g16/y2/p8/ln/28/)|
-|![Manx Laxey Dress Green example sett](/variants/db/4/g16/y2/p8/ln/28-db2c2c80-g006818-lne0e0e0-p780078-ye8c000/sett.png)|
+| [Manx Laxey Dress Green](/setts/s5/b4g16y2ba8w28-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/)|
+|![Manx Laxey Dress Green example sett](/setts/s5/b4g16y2ba8w28-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/sett.png)|

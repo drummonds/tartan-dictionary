@@ -16,7 +16,7 @@ BKBRGRKBRBRBKRKBRG
 
 | Tartans |
 |---------------|
-| [Dundas (Red)](/tartans/b/6/k2/p2/r10/g48/r4/k2/b2/r4/ba10/r4/b2/k2/r38/k2/p2/r8/g/8/)|
-|![Dundas (Red) example sett](/variants/b/6/k2/p2/r10/g48/r4/k2/b2/r4/ba10/r4/b2/k2/r38/k2/p2/r8/g/8-b3c82af-ba2c4084-g005020-k101010-p840068-rdc0000/sett.png)|
-| [Dundas, (Red)](/tartans/ba/6/k2/p2/r10/g48/r4/k2/ba2/r4/b10/r4/ba2/k2/r38/k2/p2/r8/g/8/)|
-|![Dundas, (Red) example sett](/variants/ba/6/k2/p2/r10/g48/r4/k2/ba2/r4/b10/r4/ba2/k2/r38/k2/p2/r8/g/8-b304080-ba5480b0-g008000-k000000-p800070-rc00000/sett.png)|
+| [Dundas (Red)](/setts/s18/b6k2ba2r10g48r4k2b2r4bb10r4b2k2r38k2ba2r8g8-b3c82af-ba840068-bb2c4084-g005020-k101010-rdc0000/)|
+|![Dundas (Red) example sett](/setts/s18/b6k2ba2r10g48r4k2b2r4bb10r4b2k2r38k2ba2r8g8-b3c82af-ba840068-bb2c4084-g005020-k101010-rdc0000/sett.png)|
+| [Dundas, (Red)](/setts/s18/b6k2ba2r10g48r4k2b2r4bb10r4b2k2r38k2ba2r8g8-b5480b0-ba800070-bb304080-g008000-k000000-rc00000/)|
+|![Dundas, (Red) example sett](/setts/s18/b6k2ba2r10g48r4k2b2r4bb10r4b2k2r38k2ba2r8g8-b5480b0-ba800070-bb304080-g008000-k000000-rc00000/sett.png)|

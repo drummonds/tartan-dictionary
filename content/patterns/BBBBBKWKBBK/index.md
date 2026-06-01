@@ -16,5 +16,7 @@ BBBBBKWKBBK
 
 | Tartans |
 |---------------|
-| [Clergy "Two Spirit" (Personal)](/tartans/b/2/db6/b2/db4/b2/k12/lp2/k12/db12/b2/k/2/)|
-|![Clergy "Two Spirit" (Personal) example sett](/variants/b/2/db6/b2/db4/b2/k12/lp2/k12/db12/b2/k/2-b5c8ca8-db2c2c80-k101010-lpc49cd8/sett.png)|
+| [Clergy "Two Spirit" (Personal)](/setts/s11/b2ba6b2ba4b2k12w2k12ba12b2k2-b5c8ca8-ba2c2c80-k101010-wc49cd8/)|
+|![Clergy "Two Spirit" (Personal) example sett](/setts/s11/b2ba6b2ba4b2k12w2k12ba12b2k2-b5c8ca8-ba2c2c80-k101010-wc49cd8/sett.png)|
+| [Clergy "Two Spirit" (Personal)](/setts/s11/b2ba6b2ba4b2k12w2k12ba12b2k2-b5c8ca8-ba2c2c80-k101010-wc49cd8/)|
+|![Clergy "Two Spirit" (Personal) example sett](/setts/s11/b2ba6b2ba4b2k12w2k12ba12b2k2-b5c8ca8-ba2c2c80-k101010-wc49cd8/sett.png)|

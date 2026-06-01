@@ -6,7 +6,7 @@ BGBGYGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dn/32/g8/dn6/g6/dy4/g48/dr/4-dn14283c-dr880000-dyd09800-g006818/tartan.png)
+![Woven sample](/setts/s7/b32g8b6g6y4g48r4-b14283c-g006818-r880000-yd09800/tartan.png)
 
 
 
@@ -18,9 +18,11 @@ BGBGYGR
 
 | Tartans |
 |---------------|
-| [St Andrews Links](/tartans/dn/32/g8/dn6/g6/dy4/g48/dr/4/)|
-|![St Andrews Links example sett](/variants/dn/32/g8/dn6/g6/dy4/g48/dr/4-dn14283c-dr880000-dyd09800-g006818/sett.png)|
-| [Greenways Marketing Intl (Corporate)](/tartans/db/48/g6/db6/g6/dy4/g36/dr/4/)|
-|![Greenways Marketing Intl (Corporate) example sett](/variants/db/48/g6/db6/g6/dy4/g36/dr/4-db1c0070-dr880000-dyd09800-g006818/sett.png)|
-| [St Andrews Links](/tartans/db/52/g8/db6/g6/y4/g48/r/4/)|
-|![St Andrews Links example sett](/variants/db/52/g8/db6/g6/y4/g48/r/4-db000050-g008000-rc00000-yf0c000/sett.png)|
+| [St Andrews Links](/setts/s7/b32g8b6g6y4g48r4-b14283c-g006818-r880000-yd09800/)|
+|![St Andrews Links example sett](/setts/s7/b32g8b6g6y4g48r4-b14283c-g006818-r880000-yd09800/sett.png)|
+| [St. Andrews Links (Corporate)](/setts/s7/b32g8b6g6y4g48r4-b14283c-g006818-r880000-yd09800/)|
+|![St. Andrews Links (Corporate) example sett](/setts/s7/b32g8b6g6y4g48r4-b14283c-g006818-r880000-yd09800/sett.png)|
+| [Greenways Marketing Intl (Corporate)](/setts/s7/b48g6b6g6y4g36r4-b1c0070-g006818-r880000-yd09800/)|
+|![Greenways Marketing Intl (Corporate) example sett](/setts/s7/b48g6b6g6y4g36r4-b1c0070-g006818-r880000-yd09800/sett.png)|
+| [St Andrews Links](/setts/s7/b52g8b6g6y4g48r4-b000050-g008000-rc00000-yf0c000/)|
+|![St Andrews Links example sett](/setts/s7/b52g8b6g6y4g48r4-b000050-g008000-rc00000-yf0c000/sett.png)|

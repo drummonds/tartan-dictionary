@@ -16,5 +16,5 @@ BGRGBGGWGWB
 
 | Tartans |
 |---------------|
-| [Nance (2002)](/tartans/p/104/ga28/lt4/g6/p4/g6/ga12/n12/g4/n12/p/4/)|
-|![Nance (2002) example sett](/variants/p/104/ga28/lt4/g6/p4/g6/ga12/n12/g4/n12/p/4-g006818-ga5c6428-lta07c58-nc0c0c0-p6c0070/sett.png)|
+| [Nance (2002)](/setts/s11/b104g28r4ga6b4ga6g12w12ga4w12b4-b6c0070-g5c6428-ga006818-ra07c58-wc0c0c0/)|
+|![Nance (2002) example sett](/setts/s11/b104g28r4ga6b4ga6g12w12ga4w12b4-b6c0070-g5c6428-ga006818-ra07c58-wc0c0c0/sett.png)|

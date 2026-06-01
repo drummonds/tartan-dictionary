@@ -16,5 +16,5 @@ BBBBBBWBW
 
 | Tartans |
 |---------------|
-| [Kildonan Blue (Fashion)](/tartans/b/44/db6/b6/db6/b6/db18/n56/db6/n/12/)|
-|![Kildonan Blue (Fashion) example sett](/variants/b/44/db6/b6/db6/b6/db18/n56/db6/n/12-b2888c4-db202060-nc0c0c0/sett.png)|
+| [Kildonan Blue (Fashion)](/setts/s9/b44ba6b6ba6b6ba18w56ba6w12-b2888c4-ba202060-wc0c0c0/)|
+|![Kildonan Blue (Fashion) example sett](/setts/s9/b44ba6b6ba6b6ba18w56ba6w12-b2888c4-ba202060-wc0c0c0/sett.png)|

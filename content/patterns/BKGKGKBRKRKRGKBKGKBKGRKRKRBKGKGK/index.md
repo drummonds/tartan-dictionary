@@ -16,5 +16,7 @@ BKGKGKBRKRKRGKBKGKBKGRKRKRBKGKGK
 
 | Tartans |
 |---------------|
-| [Stewart of Bute](/tartans/b/66/k4/g4/k4/g4/k4/b66/r6/k68/r4/k68/r6/g68/k4/b4/k4/g68/k4/b4/k4/g68/r6/k68/r4/k68/r6/b66/k4/g4/k4/g4/k/4/)|
-|![Stewart of Bute example sett](/variants/b/66/k4/g4/k4/g4/k4/b66/r6/k68/r4/k68/r6/g68/k4/b4/k4/g68/k4/b4/k4/g68/r6/k68/r4/k68/r6/b66/k4/g4/k4/g4/k/4-b1474b4-db202060-dba2c2c80-dg003820-g006818-ga289c18-k101010-rc80000/sett.png)|
+| [Stewart of Bute](/setts/s32/b66k4g4k4g4k4b66r6k68r4k68r6g68k4b4k4g68k4b4k4g68r6k68r4k68r6b66k4g4k4g4k4-b1474b4-g006818-k101010-rc80000/)|
+|![Stewart of Bute example sett](/setts/s32/b66k4g4k4g4k4b66r6k68r4k68r6g68k4b4k4g68k4b4k4g68r6k68r4k68r6b66k4g4k4g4k4-b1474b4-g006818-k101010-rc80000/sett.png)|
+| [Stewart of Bute - 1963 (Clan)](/setts/s32/b66k4g4k4g4k4b66r6k68r4k68r6g68k4b4k4g68k4b4k4g68r6k68r4k68r6b66k4g4k4g4k4-b1474b4-g006818-k101010-rc80000/)|
+|![Stewart of Bute - 1963 (Clan) example sett](/setts/s32/b66k4g4k4g4k4b66r6k68r4k68r6g68k4b4k4g68k4b4k4g68r6k68r4k68r6b66k4g4k4g4k4-b1474b4-g006818-k101010-rc80000/sett.png)|

@@ -16,5 +16,5 @@ BGGRGRGRGRGRGRGRGGBGRGRGRGRGRGRGRGBR
 
 | Tartans |
 |---------------|
-| [Nova, Scotia](/tartans/b/100/dg8/g12/lt56/g2/lt2/g2/lt2/g2/lt2/g2/lt2/g2/lt2/g2/lt2/g16/dg48/b24/dg8/lt40/dg2/lt2/dg2/lt2/dg2/lt2/dg2/lt2/dg2/lt2/dg2/lt2/dg16/b16/lt/32/)|
-|![Nova, Scotia example sett](/variants/b/100/dg8/g12/lt56/g2/lt2/g2/lt2/g2/lt2/g2/lt2/g2/lt2/g2/lt2/g16/dg48/b24/dg8/lt40/dg2/lt2/dg2/lt2/dg2/lt2/dg2/lt2/dg2/lt2/dg2/lt2/dg16/b16/lt/32-b304080-dg003000-g008000-lt806050/sett.png)|
+| [Nova, Scotia](/setts/s36/b50g4ga6r28ga1r1ga1r1ga1r1ga1r1ga1r1ga1r1ga8g24b12g4r20g1r1g1r1g1r1g1r1g1r1g1r1g8b8r16-b304080-g003000-ga008000-r806050/)|
+|![Nova, Scotia example sett](/setts/s36/b50g4ga6r28ga1r1ga1r1ga1r1ga1r1ga1r1ga1r1ga8g24b12g4r20g1r1g1r1g1r1g1r1g1r1g1r1g8b8r16-b304080-g003000-ga008000-r806050/sett.png)|

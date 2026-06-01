@@ -16,5 +16,5 @@ BKBRBKGGGR
 
 | Tartans |
 |---------------|
-| [Cartier, Sir George Etienne](/tartans/b/4/k8/b12/dr36/b12/k28/dg20/lg6/dg12/dr/8/)|
-|![Cartier, Sir George Etienne example sett](/variants/b/4/k8/b12/dr36/b12/k28/dg20/lg6/dg12/dr/8-b306084-dg002c04-dr880000-k000000-lg9c8000/sett.png)|
+| [Cartier, Sir George Etienne](/setts/s10/b4k8b12r36b12k28g20ga6g12r8-b306084-g002c04-ga9c8000-k000000-r880000/)|
+|![Cartier, Sir George Etienne example sett](/setts/s10/b4k8b12r36b12k28g20ga6g12r8-b306084-g002c04-ga9c8000-k000000-r880000/sett.png)|

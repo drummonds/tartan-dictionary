@@ -16,5 +16,7 @@ BKBKBKGKRKGKBKY
 
 | Tartans |
 |---------------|
-| [Robertson of Kindeace](/tartans/db/24/k4/db4/k4/db4/k24/dg32/k2/dr6/k2/dg32/k24/db24/k2/n/6/)|
-|![Robertson of Kindeace example sett](/variants/db/24/k4/db4/k4/db4/k24/dg32/k2/dr6/k2/dg32/k24/db24/k2/n/6-db000052-dg11450d-draa0000-k000000-naaaaaa/sett.png)|
+| [Robertson of Kindeace](/setts/s15/b24k4b4k4b4k24g32k2r6k2g32k24b24k2y6-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Robertson of Kindeace example sett](/setts/s15/b24k4b4k4b4k24g32k2r6k2g32k24b24k2y6-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Robertson of Kindeace](/setts/s15/b24k4b4k4b4k24g32k2r6k2g32k24b24k2y6-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Robertson of Kindeace example sett](/setts/s15/b24k4b4k4b4k24g32k2r6k2g32k24b24k2y6-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

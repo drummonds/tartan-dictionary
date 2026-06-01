@@ -16,7 +16,7 @@ BBBRBGBGBW
 
 | Tartans |
 |---------------|
-| [Visit Scotland](/tartans/db/102/b8/db14/p4/db4/ga4/db4/g20/db26/ln/4/)|
-|![Visit Scotland example sett](/variants/db/102/b8/db14/p4/db4/ga4/db4/g20/db26/ln/4-b1474b4-db2c2c80-dba202060-g005448-ga408060-lne0e0e0-pb468ac/sett.png)|
-| [Visit Scotland Corporate)](/tartans/db/102/b8/db14/p4/db4/g4/db4/ga20/db26/ln/4/)|
-|![Visit Scotland Corporate) example sett](/variants/db/102/b8/db14/p4/db4/g4/db4/ga20/db26/ln/4-b1474b4-db2c2c80-g408060-ga005448-lne0e0e0-pb468ac/sett.png)|
+| [Visit Scotland](/setts/s10/b102ba8b14r4b4g4b4ga20b26w4-b2c2c80-ba1474b4-g408060-ga005448-rb468ac-we0e0e0/)|
+|![Visit Scotland example sett](/setts/s10/b102ba8b14r4b4g4b4ga20b26w4-b2c2c80-ba1474b4-g408060-ga005448-rb468ac-we0e0e0/sett.png)|
+| [Visit Scotland Corporate)](/setts/s10/b102ba8b14r4b4g4b4ga20b26w4-b2c2c80-ba1474b4-g408060-ga005448-rb468ac-we0e0e0/)|
+|![Visit Scotland Corporate) example sett](/setts/s10/b102ba8b14r4b4g4b4ga20b26w4-b2c2c80-ba1474b4-g408060-ga005448-rb468ac-we0e0e0/sett.png)|

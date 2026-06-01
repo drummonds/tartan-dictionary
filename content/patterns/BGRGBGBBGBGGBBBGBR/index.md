@@ -16,5 +16,5 @@ BGRGBGBBGBGGBBBGBR
 
 | Tartans |
 |---------------|
-| [Unidentified (Woven sample)](/tartans/b/4/t6/r4/g32/b6/g4/b6/dr14/t6/b4/t6/g14/b2/dr2/b28/t6/b4/r/4/)|
-|![Unidentified (Woven sample) example sett](/variants/b/4/t6/r4/g32/b6/g4/b6/dr14/t6/b4/t6/g14/b2/dr2/b28/t6/b4/r/4-b5c8ca8-dr441800-g5c6428-rc80000-t604000/sett.png)|
+| [Unidentified (Woven sample)](/setts/s18/b4g6r4ga32b6ga4b6ba14g6b4g6ga14b2ba2b28g6b4r4-b5c8ca8-ba441800-g604000-ga5c6428-rc80000/)|
+|![Unidentified (Woven sample) example sett](/setts/s18/b4g6r4ga32b6ga4b6ba14g6b4g6ga14b2ba2b28g6b4r4-b5c8ca8-ba441800-g604000-ga5c6428-rc80000/sett.png)|

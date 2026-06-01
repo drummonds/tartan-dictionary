@@ -6,7 +6,7 @@ BBYGYKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/10/db24/y4/dg50/y4/k24/r/10-b5480b0-db000050-dg003000-k000000-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s7/b10ba24y4g50y4k24r10-b5480b0-ba000050-g003000-k000000-rc00000-yf0c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYGYKR
 
 | Tartans |
 |---------------|
-| [James](/tartans/b/10/db24/y4/dg50/y4/k24/r/10/)|
-|![James example sett](/variants/b/10/db24/y4/dg50/y4/k24/r/10-b5480b0-db000050-dg003000-k000000-rc00000-yf0c000/sett.png)|
+| [James](/setts/s7/b10ba24y4g50y4k24r10-b5480b0-ba000050-g003000-k000000-rc00000-yf0c000/)|
+|![James example sett](/setts/s7/b10ba24y4g50y4k24r10-b5480b0-ba000050-g003000-k000000-rc00000-yf0c000/sett.png)|

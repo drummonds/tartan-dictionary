@@ -6,7 +6,7 @@ BBGRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/52/b12/g2/dr2/ly/4-b5c8ca8-db141e46-dr660000-g005020-lyf8f4d0/tartan.png)
+![Woven sample](/setts/s5/b52ba12g2r2w4-b141e46-ba5c8ca8-g005020-r660000-wf8f4d0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGRW
 
 | Tartans |
 |---------------|
-| [Special Air Service](/tartans/db/52/b12/g2/dr2/ly/4/)|
-|![Special Air Service example sett](/variants/db/52/b12/g2/dr2/ly/4-b5c8ca8-db141e46-dr660000-g005020-lyf8f4d0/sett.png)|
+| [Special Air Service](/setts/s5/b52ba12g2r2w4-b141e46-ba5c8ca8-g005020-r660000-wf8f4d0/)|
+|![Special Air Service example sett](/setts/s5/b52ba12g2r2w4-b141e46-ba5c8ca8-g005020-r660000-wf8f4d0/sett.png)|

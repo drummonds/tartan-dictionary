@@ -16,5 +16,5 @@ BBWBBYWBBGWGBBWGWGYBWBWB
 
 | Tartans |
 |---------------|
-| [Stewart (Silk Fragment)](/tartans/db/4/b4/ln2/b4/db4/o60/ln2/db8/b8/t6/ln2/t6/b8/db8/ln2/g40/ln2/g10/o10/b10/ln2/db4/ln4/db/8/)|
-|![Stewart (Silk Fragment) example sett](/variants/db/4/b4/ln2/b4/db4/o60/ln2/db8/b8/t6/ln2/t6/b8/db8/ln2/g40/ln2/g10/o10/b10/ln2/db4/ln4/db/8-b5c8ca8-db2c2c80-g006818-lne0e0e0-od87c00-t604000/sett.png)|
+| [Stewart (Silk Fragment)](/setts/s24/b4ba4w2ba4b4y60w2b8ba8g6w2g6ba8b8w2ga40w2ga10y10ba10w2b4w4b8-b2c2c80-ba5c8ca8-g604000-ga006818-we0e0e0-yd87c00/)|
+|![Stewart (Silk Fragment) example sett](/setts/s24/b4ba4w2ba4b4y60w2b8ba8g6w2g6ba8b8w2ga40w2ga10y10ba10w2b4w4b8-b2c2c80-ba5c8ca8-g604000-ga006818-we0e0e0-yd87c00/sett.png)|

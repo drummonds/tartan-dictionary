@@ -16,5 +16,5 @@ BBBKBKRKW
 
 | Tartans |
 |---------------|
-| [Galway County, Crest Range](/tartans/ln/8/k6/dr50/k10/db30/k6/db30/b10/n/20/)|
-|![Galway County, Crest Range example sett](/variants/ln/8/k6/dr50/k10/db30/k6/db30/b10/n/20-b2c4084-db141e46-dr960000-k101010-lne0e0e0-n505050/sett.png)|
+| [Galway County, Crest Range](/setts/s9/b20ba10bb30k6bb30k10r50k6w8-b505050-ba2c4084-bb141e46-k101010-r960000-we0e0e0/)|
+|![Galway County, Crest Range example sett](/setts/s9/b20ba10bb30k6bb30k10r50k6w8-b505050-ba2c4084-bb141e46-k101010-r960000-we0e0e0/sett.png)|

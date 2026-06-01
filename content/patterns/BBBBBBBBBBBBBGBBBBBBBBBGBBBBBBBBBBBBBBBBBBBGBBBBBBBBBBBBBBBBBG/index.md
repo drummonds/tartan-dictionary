@@ -16,5 +16,5 @@ BBBBBBBBBBBBBGBBBBBBBBBGBBBBBBBBBBBBBBBBBBBGBBBBBBBBBBBBBBBBBG
 
 | Tartans |
 |---------------|
-| [Millennium (Texcraft) (Fashion)](/tartans/dbb/16/db2/dbb2/dbc74/db2/dbb28/dba4/dbb4/db2/dbb2/dbc74/dbb2/db2/g4/dbb36/db2/dba6/db2/dbb36/db2/dba6/db2/dbb36/g4/db2/dbb2/dbc74/dbb2/db2/dbb6/dba4/dbb26/db2/dbc74/dbb2/db2/dbb16/dba4/dbb20/db2/dbc2/dbb2/dbc2/g4/db2/dbc66/dbb2/dba4/dbc2/dbb2/db2/dbb36/dba4/dbb36/db2/dbb2/dbc2/dba4/dbb2/dbc74/db2/g/4/)|
-|![Millennium (Texcraft) (Fashion) example sett](/variants/dbb/16/db2/dbb2/dbc74/db2/dbb28/dba4/dbb4/db2/dbb2/dbc74/dbb2/db2/g4/dbb36/db2/dba6/db2/dbb36/db2/dba6/db2/dbb36/g4/db2/dbb2/dbc74/dbb2/db2/dbb6/dba4/dbb26/db2/dbc74/dbb2/db2/dbb16/dba4/dbb20/db2/dbc2/dbb2/dbc2/g4/db2/dbc66/dbb2/dba4/dbc2/dbb2/db2/dbb36/dba4/dbb36/db2/dbb2/dbc2/dba4/dbb2/dbc74/db2/g/4-db2c2c80-dba202060-dbb2c2c80-dbc202060-g289c18/sett.png)|
+| [Millennium (Texcraft) (Fashion)](/setts/s62/b16b2b2ba74b2b28ba4b4b2b2ba74b2b2g4b36b2ba6b2b36b2ba6b2b36g4b2b2ba74b2b2b6ba4b26b2ba74b2b2b16ba4b20b2ba2b2ba2g4b2ba66b2ba4ba2b2b2b36ba4b36b2b2ba2ba4b2ba74b2g4-b2c2c80-ba202060-g289c18/)|
+|![Millennium (Texcraft) (Fashion) example sett](/setts/s62/b16b2b2ba74b2b28ba4b4b2b2ba74b2b2g4b36b2ba6b2b36b2ba6b2b36g4b2b2ba74b2b2b6ba4b26b2ba74b2b2b16ba4b20b2ba2b2ba2g4b2ba66b2ba4ba2b2b2b36ba4b36b2b2ba2ba4b2ba74b2g4-b2c2c80-ba202060-g289c18/sett.png)|

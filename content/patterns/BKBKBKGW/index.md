@@ -6,7 +6,7 @@ BKBKBKGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/20/k2/b2/k2/b4/k16/g20/ln/2-b2c4084-g005020-k101010-lne0e0e0/tartan.png)
+![Woven sample](/setts/s8/b40k4b4k4b8k32g40w4-b2c4084-g005020-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKBKBKGW
 
 | Tartans |
 |---------------|
-| [Lamont](/tartans/b/20/k2/b2/k2/b4/k16/g20/ln/2/)|
-|![Lamont example sett](/variants/b/20/k2/b2/k2/b4/k16/g20/ln/2-b2c4084-g005020-k101010-lne0e0e0/sett.png)|
+| [Lamont](/setts/s8/b40k4b4k4b8k32g40w4-b2c4084-g005020-k101010-we0e0e0/)|
+|![Lamont example sett](/setts/s8/b40k4b4k4b8k32g40w4-b2c4084-g005020-k101010-we0e0e0/sett.png)|
+| [Lamont](/setts/s8/b20k2b2k2b4k16g20w2-b304080-g008000-k000000-we0e0e0/)|
+|![Lamont example sett](/setts/s8/b20k2b2k2b4k16g20w2-b304080-g008000-k000000-we0e0e0/sett.png)|

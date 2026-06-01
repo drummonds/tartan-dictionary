@@ -6,7 +6,7 @@ BBBRB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/8/db58/ba58/r6/b/16-b3c82af-ba2c4084-db141e46-rdc0000/tartan.png)
+![Woven sample](/setts/s5/b16r6ba58bb58b8-b3c82af-ba2c4084-bb141e46-rdc0000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBRB
 
 | Tartans |
 |---------------|
-| [Bryson](/tartans/b/8/db58/ba58/r6/b/16/)|
-|![Bryson example sett](/variants/b/8/db58/ba58/r6/b/16-b3c82af-ba2c4084-db141e46-rdc0000/sett.png)|
-| [Romanes Check (Fashion)](/tartans/db/2/dr42/db22/n42/db/4/)|
-|![Romanes Check (Fashion) example sett](/variants/db/2/dr42/db22/n42/db/4-db003c64-dr901c38-n5c5c5c/sett.png)|
+| [Bryson](/setts/s5/b16r6ba58bb58b8-b3c82af-ba2c4084-bb141e46-rdc0000/)|
+|![Bryson example sett](/setts/s5/b16r6ba58bb58b8-b3c82af-ba2c4084-bb141e46-rdc0000/sett.png)|
+| [Romanes Check (Fashion)](/setts/s5/b1r21b11ba21b2-b003c64-ba5c5c5c-r901c38/)|
+|![Romanes Check (Fashion) example sett](/setts/s5/b1r21b11ba21b2-b003c64-ba5c5c5c-r901c38/sett.png)|

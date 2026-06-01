@@ -6,7 +6,7 @@ BGRGKBGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/gb/10/ga64/p10/k20/gb16/dr6/gb16/p/6-db1c0070-dg003820-dr880000-g006818-ga408060-gb005448-k101010-p6c0070/tartan.png)
+![Woven sample](/setts/s8/b6g16r6g16k20b10ga64g10-b6c0070-g005448-ga408060-k101010-r880000/tartan.png)
 
 
 
@@ -18,9 +18,11 @@ BGRGKBGG
 
 | Tartans |
 |---------------|
-| [Scottish Power](/tartans/gb/10/ga64/p10/k20/gb16/dr6/gb16/p/6/)|
-|![Scottish Power example sett](/variants/gb/10/ga64/p10/k20/gb16/dr6/gb16/p/6-db1c0070-dg003820-dr880000-g006818-ga408060-gb005448-k101010-p6c0070/sett.png)|
-| [Womens Rural Institute](/tartans/dg/8/g48/dp8/k12/dg8/dr6/dg8/dp/6/)|
-|![Womens Rural Institute example sett](/variants/dg/8/g48/dp8/k12/dg8/dr6/dg8/dp/6-dg003820-dp440044-dr880000-g408060-k101010/sett.png)|
-| [Scottish Power (Corporate)](/tartans/ga/10/g64/p10/k20/ga16/dr6/ga16/p/6/)|
-|![Scottish Power (Corporate) example sett](/variants/ga/10/g64/p10/k20/ga16/dr6/ga16/p/6-dr880000-g408060-ga005448-k101010-p6c0070/sett.png)|
+| [Scottish Power](/setts/s8/b6g16r6g16k20b10ga64g10-b6c0070-g005448-ga408060-k101010-r880000/)|
+|![Scottish Power example sett](/setts/s8/b6g16r6g16k20b10ga64g10-b6c0070-g005448-ga408060-k101010-r880000/sett.png)|
+| [Womens Rural Institute](/setts/s8/b6g8r6g8k12b8ga48g8-b440044-g003820-ga408060-k101010-r880000/)|
+|![Womens Rural Institute example sett](/setts/s8/b6g8r6g8k12b8ga48g8-b440044-g003820-ga408060-k101010-r880000/sett.png)|
+| [Scottish Power (Corporate)](/setts/s8/b6g16r6g16k20b10ga64g10-b6c0070-g005448-ga408060-k101010-r880000/)|
+|![Scottish Power (Corporate) example sett](/setts/s8/b6g16r6g16k20b10ga64g10-b6c0070-g005448-ga408060-k101010-r880000/sett.png)|
+| [Womens Rural Institute (Corporate)](/setts/s8/b6g8r6g8k12b8ga48g8-b440044-g003820-ga408060-k101010-r880000/)|
+|![Womens Rural Institute (Corporate) example sett](/setts/s8/b6g8r6g8k12b8ga48g8-b440044-g003820-ga408060-k101010-r880000/sett.png)|

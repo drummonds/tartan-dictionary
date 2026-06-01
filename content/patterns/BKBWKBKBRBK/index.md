@@ -16,5 +16,7 @@ BKBWKBKBRBK
 
 | Tartans |
 |---------------|
-| [Pride of Scotland Contemporary](/tartans/k/18/n4/na4/n4/k36/n4/k4/lp2/n38/k66/p/4/)|
-|![Pride of Scotland Contemporary example sett](/variants/k/18/n4/na4/n4/k36/n4/k4/lp2/n38/k66/p/4-k101010-lpc49cd8-n5c5c5c-na888888-p6c0070/sett.png)|
+| [Pride of Scotland Contemporary](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/)|
+|![Pride of Scotland Contemporary example sett](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/sett.png)|
+| [Pride of Scotland, Contempo. (Fashio](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/)|
+|![Pride of Scotland, Contempo. (Fashio example sett](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/sett.png)|

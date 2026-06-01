@@ -16,5 +16,7 @@ BGBGYGBBYBGBRBBGBGYGBRBRBGBGYGBBGBRBBBBYBGBRB
 
 | Tartans |
 |---------------|
-| [Highland Mist](/tartans/db/4/g6/p2/g4/dy2/g4/k4/p2/dy4/p6/g2/p4/dr2/p4/db4/g6/p2/g4/dy2/g4/k4/dr2/db4/dr2/db60/g6/p2/g4/dy2/g4/k2/p4/g2/p4/dr2/p4/db4/k56/p2/dy4/p6/g2/p4/dr2/p/4/)|
-|![Highland Mist example sett](/variants/db/4/g6/p2/g4/dy2/g4/k4/p2/dy4/p6/g2/p4/dr2/p4/db4/g6/p2/g4/dy2/g4/k4/dr2/db4/dr2/db60/g6/p2/g4/dy2/g4/k2/p4/g2/p4/dr2/p4/db4/k56/p2/dy4/p6/g2/p4/dr2/p/4-db003c64-dr800028-dybc8c00-g006818-k1c1c1c-p780078/sett.png)|
+| [Highland Mist](/setts/s45/b4g6ba2g4y2g4bb4ba2y4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4r2b4r2b60g6ba2g4y2g4bb2ba4g2ba4r2ba4b4bb56ba2y4ba6g2ba4r2ba4-b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00/)|
+|![Highland Mist example sett](/setts/s45/b4g6ba2g4y2g4bb4ba2y4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4r2b4r2b60g6ba2g4y2g4bb2ba4g2ba4r2ba4b4bb56ba2y4ba6g2ba4r2ba4-b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00/sett.png)|
+| [Highland Mist (Corporate)](/setts/s45/b4g6ba2g4y2g4bb4ba2y4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4r2b4r2b60g6ba2g4y2g4bb2ba4g2ba4r2ba4b4bb56ba2y4ba6g2ba4r2ba4-b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00/)|
+|![Highland Mist (Corporate) example sett](/setts/s45/b4g6ba2g4y2g4bb4ba2y4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4r2b4r2b60g6ba2g4y2g4bb2ba4g2ba4r2ba4b4bb56ba2y4ba6g2ba4r2ba4-b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00/sett.png)|

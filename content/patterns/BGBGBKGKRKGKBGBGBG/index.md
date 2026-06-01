@@ -16,5 +16,5 @@ BGBGBKGKRKGKBGBGBG
 
 | Tartans |
 |---------------|
-| [Urbino](/tartans/g/6/p4/g4/p4/g4/p40/k40/g44/k2/lt6/k2/g44/k40/p40/g4/p4/g4/p/4/)|
-|![Urbino example sett](/variants/g/6/p4/g4/p4/g4/p40/k40/g44/k2/lt6/k2/g44/k40/p40/g4/p4/g4/p/4-dp4c1864-g004c00-k000000-lta0783c-p780078/sett.png)|
+| [Urbino](/setts/s18/b8g8b8g8b80k80g88k4r12k4g88k80b80g8b8g8b8g12-b780078-g004c00-k000000-ra0783c/)|
+|![Urbino example sett](/setts/s18/b8g8b8g8b80k80g88k4r12k4g88k80b80g8b8g8b8g12-b780078-g004c00-k000000-ra0783c/sett.png)|

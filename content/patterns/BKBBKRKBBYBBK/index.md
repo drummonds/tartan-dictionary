@@ -16,5 +16,5 @@ BKBBKRKBBYBBK
 
 | Tartans |
 |---------------|
-| [Blue Brough from Orkney](/tartans/db/4/k4/db2/n2/k4/r14/k4/n4/db23/y6/db54/n8/k/4/)|
-|![Blue Brough from Orkney example sett](/variants/db/4/k4/db2/n2/k4/r14/k4/n4/db23/y6/db54/n8/k/4-db000080-k101010-n666666-rff0000-yffe600/sett.png)|
+| [Blue Brough from Orkney](/setts/s13/b4k4b2ba2k4r14k4ba4b23y6b54ba8k4-b000080-ba666666-k101010-rff0000-yffe600/)|
+|![Blue Brough from Orkney example sett](/setts/s13/b4k4b2ba2k4r14k4ba4b23y6b54ba8k4-b000080-ba666666-k101010-rff0000-yffe600/sett.png)|

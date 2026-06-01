@@ -16,5 +16,5 @@ BGRGBKWKBRBK
 
 | Tartans |
 |---------------|
-| [Cascade Summers, (The Resort at the Mountain)](/tartans/b/6/ga28/r6/g12/b6/k20/ln4/k20/b6/r22/ba28/k/6/)|
-|![Cascade Summers, (The Resort at the Mountain) example sett](/variants/b/6/ga28/r6/g12/b6/k20/ln4/k20/b6/r22/ba28/k/6-b304080-ba5480b0-g006030-ga30a010-k000000-lne0e0e0-rd03030/sett.png)|
+| [Cascade Summers, (The Resort at the Mountain)](/setts/s12/b6g28r6ga12b6k20w4k20b6r22ba28k6-b304080-ba5480b0-g30a010-ga006030-k000000-rd03030-we0e0e0/)|
+|![Cascade Summers, (The Resort at the Mountain) example sett](/setts/s12/b6g28r6ga12b6k20w4k20b6r22ba28k6-b304080-ba5480b0-g30a010-ga006030-k000000-rd03030-we0e0e0/sett.png)|

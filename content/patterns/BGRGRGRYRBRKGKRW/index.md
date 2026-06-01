@@ -16,7 +16,7 @@ BGRGRGRYRBRKGKRW
 
 | Tartans |
 |---------------|
-| [MacInnes (MacGregor-Hastie)](/tartans/b/2/g12/r2/g2/r2/g2/r12/y2/r2/ba4/r2/k2/g8/k2/r4/ln/2/)|
-|![MacInnes (MacGregor-Hastie) example sett](/variants/b/2/g12/r2/g2/r2/g2/r12/y2/r2/ba4/r2/k2/g8/k2/r4/ln/2-b3c82af-ba2c4084-g005020-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
-| [MacInnes](/tartans/ba/2/g12/r2/g2/r2/g2/r12/y2/r2/b4/r2/k2/g8/k2/r4/ln/2/)|
-|![MacInnes example sett](/variants/ba/2/g12/r2/g2/r2/g2/r12/y2/r2/b4/r2/k2/g8/k2/r4/ln/2-b304080-ba5480b0-g008000-k000000-lne0e0e0-rc00000-yf0c000/sett.png)|
+| [MacInnes (MacGregor-Hastie)](/setts/s16/b4g24r4g4r4g4r24y4r4ba8r4k4g16k4r8w4-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![MacInnes (MacGregor-Hastie) example sett](/setts/s16/b4g24r4g4r4g4r24y4r4ba8r4k4g16k4r8w4-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [MacInnes](/setts/s16/b4g24r4g4r4g4r24y4r4ba8r4k4g16k4r8w4-b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![MacInnes example sett](/setts/s16/b4g24r4g4r4g4r24y4r4ba8r4k4g16k4r8w4-b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

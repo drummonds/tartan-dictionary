@@ -6,7 +6,7 @@ BBBGWGBB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/4/db58/b24/g58/w4/g58/b24/db/58-b2888c4-db1c0070-g006818-lpa8ace8-nc0c0c0-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/b58ba24g58w4g58ba24b58ba4-b1c0070-ba2888c4-g006818-wf8f8f8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBGWGBB
 
 | Tartans |
 |---------------|
-| [Wallace Blue](/tartans/b/4/db58/b24/g58/w4/g58/b24/db/58/)|
-|![Wallace Blue example sett](/variants/b/4/db58/b24/g58/w4/g58/b24/db/58-b2888c4-db1c0070-g006818-lpa8ace8-nc0c0c0-wf8f8f8/sett.png)|
+| [Wallace Blue](/setts/s8/b58ba24g58w4g58ba24b58ba4-b1c0070-ba2888c4-g006818-wf8f8f8/)|
+|![Wallace Blue example sett](/setts/s8/b58ba24g58w4g58ba24b58ba4-b1c0070-ba2888c4-g006818-wf8f8f8/sett.png)|

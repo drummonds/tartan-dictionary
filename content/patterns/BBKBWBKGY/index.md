@@ -16,5 +16,5 @@ BBKBWBKGY
 
 | Tartans |
 |---------------|
-| [St Brigid's Quirindi](/tartans/b/4/t24/k2/ba10/w6/ba10/k2/lg60/y/4/)|
-|![St Brigid's Quirindi example sett](/variants/b/4/t24/k2/ba10/w6/ba10/k2/lg60/y/4-b3850c8-ba2474e8-k101010-lg649848-t4c3428-wffffff-ye0a126/sett.png)|
+| [St Brigid's Quirindi](/setts/s9/b4ba24k2bb10w6bb10k2g60y4-b3850c8-ba4c3428-bb2474e8-g649848-k101010-wffffff-ye0a126/)|
+|![St Brigid's Quirindi example sett](/setts/s9/b4ba24k2bb10w6bb10k2g60y4-b3850c8-ba4c3428-bb2474e8-g649848-k101010-wffffff-ye0a126/sett.png)|

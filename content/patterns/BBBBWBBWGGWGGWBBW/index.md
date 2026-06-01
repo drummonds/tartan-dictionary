@@ -16,5 +16,5 @@ BBBBWBBWGGWGGWBBW
 
 | Tartans |
 |---------------|
-| [Dallas](/tartans/b/150/n4/b20/n12/ln4/n12/b20/ln4/g18/lg12/ln4/lg12/g20/ln4/b12/n8/ln/4/)|
-|![Dallas example sett](/variants/b/150/n4/b20/n12/ln4/n12/b20/ln4/g18/lg12/ln4/lg12/g20/ln4/b12/n8/ln/4-b2474e8-g006818-lg789484-lne0e0e0-n5c5c5c/sett.png)|
+| [Dallas](/setts/s17/b150ba4b20ba12w4ba12b20w4g18ga12w4ga12g20w4b12ba8w4-b2474e8-ba5c5c5c-g006818-ga789484-we0e0e0/)|
+|![Dallas example sett](/setts/s17/b150ba4b20ba12w4ba12b20w4g18ga12w4ga12g20w4b12ba8w4-b2474e8-ba5c5c5c-g006818-ga789484-we0e0e0/sett.png)|

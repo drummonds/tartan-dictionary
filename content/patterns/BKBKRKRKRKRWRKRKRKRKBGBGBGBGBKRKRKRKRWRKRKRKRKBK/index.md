@@ -16,5 +16,5 @@ BKBKRKRKRKRWRKRKRKRKBGBGBGBGBKRKRKRKRWRKRKRKRKBK
 
 | Tartans |
 |---------------|
-| [Unidentified #52](/tartans/b/36/k12/b72/k68/r2/k12/r8/k8/r12/k4/r14/w6/r14/k4/r12/k8/r8/k12/r2/k68/p20/g16/p16/g20/p192/g20/p16/g16/p20/k68/r2/k12/r8/k8/r12/k4/r14/w6/r14/k4/r12/k8/r8/k12/r2/k68/b72/k/12/)|
-|![Unidentified #52 example sett](/variants/b/36/k12/b72/k68/r2/k12/r8/k8/r12/k4/r14/w6/r14/k4/r12/k8/r8/k12/r2/k68/p20/g16/p16/g20/p192/g20/p16/g16/p20/k68/r2/k12/r8/k8/r12/k4/r14/w6/r14/k4/r12/k8/r8/k12/r2/k68/b72/k/12-b788ccc-g48783c-k000000-p8c008c-rc80000-wfcfcfc/sett.png)|
+| [Unidentified #52](/setts/s48/b36k12b72k68r2k12r8k8r12k4r14w6r14k4r12k8r8k12r2k68ba20g16ba16g20ba192g20ba16g16ba20k68r2k12r8k8r12k4r14w6r14k4r12k8r8k12r2k68b72k12-b788ccc-ba8c008c-g48783c-k000000-rc80000-wfcfcfc/)|
+|![Unidentified #52 example sett](/setts/s48/b36k12b72k68r2k12r8k8r12k4r14w6r14k4r12k8r8k12r2k68ba20g16ba16g20ba192g20ba16g16ba20k68r2k12r8k8r12k4r14w6r14k4r12k8r8k12r2k68b72k12-b788ccc-ba8c008c-g48783c-k000000-rc80000-wfcfcfc/sett.png)|

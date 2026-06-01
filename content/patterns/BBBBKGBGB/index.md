@@ -16,7 +16,9 @@ BBBBKGBGB
 
 | Tartans |
 |---------------|
-| [Laois, County](/tartans/dr/30/db4/dr10/db10/k36/t10/dr10/t4/dr/30/)|
-|![Laois, County example sett](/variants/dr/30/db4/dr10/db10/k36/t10/dr10/t4/dr/30-db202060-dr441800-k101010-t604000/sett.png)|
-| [Laois](/tartans/dr/40/b4/dr10/b10/k36/g10/dr10/g4/dr/30/)|
-|![Laois example sett](/variants/dr/40/b4/dr10/b10/k36/g10/dr10/g4/dr/30-b304080-dr401000-g008000-k000000/sett.png)|
+| [Laois, County](/setts/s9/b30ba4b10ba10k36g10b10g4b30-b441800-ba202060-g604000-k101010/)|
+|![Laois, County example sett](/setts/s9/b30ba4b10ba10k36g10b10g4b30-b441800-ba202060-g604000-k101010/sett.png)|
+| [Laois, County (District)](/setts/s9/b30ba4b10ba10k36g10b10g4b30-b441800-ba202060-g604000-k101010/)|
+|![Laois, County (District) example sett](/setts/s9/b30ba4b10ba10k36g10b10g4b30-b441800-ba202060-g604000-k101010/sett.png)|
+| [Laois](/setts/s9/b30g4b10g10k36ba10b10ba4b40-b401000-ba304080-g008000-k000000/)|
+|![Laois example sett](/setts/s9/b30g4b10g10k36ba10b10ba4b40-b401000-ba304080-g008000-k000000/sett.png)|

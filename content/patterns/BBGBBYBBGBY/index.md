@@ -16,7 +16,7 @@ BBGBBYBBGBY
 
 | Tartans |
 |---------------|
-| [Cian of Ely](/tartans/b/76/db8/lga8/b38/db16/lg36/p16/b36/lga8/db8/dy/8/)|
-|![Cian of Ely example sett](/variants/b/76/db8/lga8/b38/db16/lg36/p16/b36/lga8/db8/dy/8-b3874c4-db2c2c80-dyc49400-lgc4b48c-lga789484-p900090/sett.png)|
-| [Cian of Ely (Clan)](/tartans/b/38/db2/lga2/b20/db8/lg18/p8/b18/lga2/db2/dy/4/)|
-|![Cian of Ely (Clan) example sett](/variants/b/38/db2/lga2/b20/db8/lg18/p8/b18/lga2/db2/dy/4-b3874c4-db2c2c80-dyc49400-lgc4b48c-lga789484-p900090/sett.png)|
+| [Cian of Ely](/setts/s11/b76ba8g8b38ba16y36bb16b36g8ba8ya8-b3874c4-ba2c2c80-bb900090-g789484-yc4b48c-yac49400/)|
+|![Cian of Ely example sett](/setts/s11/b76ba8g8b38ba16y36bb16b36g8ba8ya8-b3874c4-ba2c2c80-bb900090-g789484-yc4b48c-yac49400/sett.png)|
+| [Cian of Ely (Clan)](/setts/s11/b76ba4g4b40ba16y36bb16b36g4ba4ya8-b3874c4-ba2c2c80-bb900090-g789484-yc4b48c-yac49400/)|
+|![Cian of Ely (Clan) example sett](/setts/s11/b76ba4g4b40ba16y36bb16b36g4ba4ya8-b3874c4-ba2c2c80-bb900090-g789484-yc4b48c-yac49400/sett.png)|

@@ -6,7 +6,7 @@ BBBRBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/6/b28/db6/n32/db68/r/6-b5c8ca8-db003c64-n888888-rc80000/tartan.png)
+![Woven sample](/setts/s6/b6ba28b6r32b68ra6-b003c64-ba5c8ca8-r888888-rac80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRBR
 
 | Tartans |
 |---------------|
-| [Thorburn (Lochcarron)](/tartans/db/6/b28/db6/n32/db68/r/6/)|
-|![Thorburn (Lochcarron) example sett](/variants/db/6/b28/db6/n32/db68/r/6-b5c8ca8-db003c64-n888888-rc80000/sett.png)|
+| [Thorburn (Lochcarron)](/setts/s6/b6ba28b6r32b68ra6-b003c64-ba5c8ca8-r888888-rac80000/)|
+|![Thorburn (Lochcarron) example sett](/setts/s6/b6ba28b6r32b68ra6-b003c64-ba5c8ca8-r888888-rac80000/sett.png)|

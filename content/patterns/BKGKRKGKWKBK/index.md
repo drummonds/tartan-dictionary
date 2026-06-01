@@ -16,5 +16,5 @@ BKGKRKGKWKBK
 
 | Tartans |
 |---------------|
-| [Lyon, Jeffrey M (Personal)](/tartans/db/60/dn8/dg10/dn4/r4/dn4/dg10/dn8/w20/dn10/b16/dn/2/)|
-|![Lyon, Jeffrey M (Personal) example sett](/variants/db/60/dn8/dg10/dn4/r4/dn4/dg10/dn8/w20/dn10/b16/dn/2-b576982-db14465c-dg052f14-dn05132f-rb03929-wf7f1e8/sett.png)|
+| [Lyon, Jeffrey M (Personal)](/setts/s12/b60k8g10k4r4k4g10k8w20k10ba16k2-b14465c-ba576982-g052f14-k05132f-rb03929-wf7f1e8/)|
+|![Lyon, Jeffrey M (Personal) example sett](/setts/s12/b60k8g10k4r4k4g10k8w20k10ba16k2-b14465c-ba576982-g052f14-k05132f-rb03929-wf7f1e8/sett.png)|

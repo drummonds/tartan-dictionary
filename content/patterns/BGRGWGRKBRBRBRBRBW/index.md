@@ -16,5 +16,7 @@ BGRGWGRKBRBRBRBRBW
 
 | Tartans |
 |---------------|
-| [Rankin #2](/tartans/db/72/g20/r4/g20/w4/g20/r4/k20/db28/r4/db24/r4/db24/r6/db4/r4/db8/w/4/)|
-|![Rankin #2 example sett](/variants/db/72/g20/r4/g20/w4/g20/r4/k20/db28/r4/db24/r4/db24/r6/db4/r4/db8/w/4-db2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Rankin #2](/setts/s18/b72g20r4g20w4g20r4k20b28r4b24r4b24r6b4r4b8w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![Rankin #2 example sett](/setts/s18/b72g20r4g20w4g20r4k20b28r4b24r4b24r6b4r4b8w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Rankin (1932) (Name)](/setts/s18/b72g20r4g20w4g20r4k20b28r4b24r4b24r6b4r4b8w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![Rankin (1932) (Name) example sett](/setts/s18/b72g20r4g20w4g20r4k20b28r4b24r4b24r6b4r4b8w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|

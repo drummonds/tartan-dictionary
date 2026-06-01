@@ -6,7 +6,7 @@ BGBBKB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/6/k4/b16/db16/g16/db/4-b2474e8-db1c0070-g006818-k101010/tartan.png)
+![Woven sample](/setts/s6/b4g16b16ba16k4ba6-b1c0070-ba2474e8-g006818-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBBKB
 
 | Tartans |
 |---------------|
-| [Black Watch (Pendleton)](/tartans/b/6/k4/b16/db16/g16/db/4/)|
-|![Black Watch (Pendleton) example sett](/variants/b/6/k4/b16/db16/g16/db/4-b2474e8-db1c0070-g006818-k101010/sett.png)|
+| [Black Watch (Pendleton)](/setts/s6/b4g16b16ba16k4ba6-b1c0070-ba2474e8-g006818-k101010/)|
+|![Black Watch (Pendleton) example sett](/setts/s6/b4g16b16ba16k4ba6-b1c0070-ba2474e8-g006818-k101010/sett.png)|

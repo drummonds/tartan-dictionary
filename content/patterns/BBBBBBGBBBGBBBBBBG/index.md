@@ -16,5 +16,5 @@ BBBBBBGBBBGBBBBBBG
 
 | Tartans |
 |---------------|
-| [Wicklow, County](/tartans/g/2/n2/t2/n24/b2/t6/n2/g12/n4/t2/n4/g12/n2/t6/b2/n24/t2/n/2/)|
-|![Wicklow, County example sett](/variants/g/2/n2/t2/n24/b2/t6/n2/g12/n4/t2/n4/g12/n2/t6/b2/n24/t2/n/2-b5c8ca8-dg003820-g006818-n5c5c5c-t4c3428/sett.png)|
+| [Wicklow, County](/setts/s18/b4ba4b48bb4ba12b4g24b8ba4b8g24b4ba12bb4b48ba4b4g4-b5c5c5c-ba4c3428-bb5c8ca8-g006818/)|
+|![Wicklow, County example sett](/setts/s18/b4ba4b48bb4ba12b4g24b8ba4b8g24b4ba12bb4b48ba4b4g4-b5c5c5c-ba4c3428-bb5c8ca8-g006818/sett.png)|

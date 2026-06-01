@@ -6,7 +6,7 @@ BBGBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/8/b2/g28/db28/dr/2-b0000e0-db000064-dr8c0000-g004c00/tartan.png)
+![Woven sample](/setts/s5/b16ba4g56b56r4-b000064-ba0000e0-g004c00-r8c0000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGBR
 
 | Tartans |
 |---------------|
-| [Wcwm 1255-1](/tartans/db/8/b2/g28/db28/dr/2/)|
-|![Wcwm 1255-1 example sett](/variants/db/8/b2/g28/db28/dr/2-b0000e0-db000064-dr8c0000-g004c00/sett.png)|
+| [Wcwm 1255-1](/setts/s5/b16ba4g56b56r4-b000064-ba0000e0-g004c00-r8c0000/)|
+|![Wcwm 1255-1 example sett](/setts/s5/b16ba4g56b56r4-b000064-ba0000e0-g004c00-r8c0000/sett.png)|

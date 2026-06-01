@@ -16,7 +16,9 @@ BKBKGRGKBW
 
 | Tartans |
 |---------------|
-| [Dalmeny](/tartans/b/16/k2/b16/k4/g12/r2/g12/k4/b16/ln/2/)|
-|![Dalmeny example sett](/variants/b/16/k2/b16/k4/g12/r2/g12/k4/b16/ln/2-b2c4084-g005020-k101010-lne0e0e0-rdc0000/sett.png)|
-| [Dalmeny - 1965 (Fashion)](/tartans/db/16/k2/db16/k4/dg12/r2/dg12/k4/db16/n/2/)|
-|![Dalmeny - 1965 (Fashion) example sett](/variants/db/16/k2/db16/k4/dg12/r2/dg12/k4/db16/n/2-db202060-dg003820-k101010-nc0c0c0-rc80000/sett.png)|
+| [Dalmeny](/setts/s10/b16k2b16k4g12r2g12k4b16w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
+|![Dalmeny example sett](/setts/s10/b16k2b16k4g12r2g12k4b16w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
+| [Dalmeny - 1965 (Fashion)](/setts/s10/b16k2b16k4g12r2g12k4b16w2-b202060-g003820-k101010-rc80000-wc0c0c0/)|
+|![Dalmeny - 1965 (Fashion) example sett](/setts/s10/b16k2b16k4g12r2g12k4b16w2-b202060-g003820-k101010-rc80000-wc0c0c0/sett.png)|
+| [Dalmeny](/setts/s10/b16k2b16k4g12r2g12k4b16w2-b304080-g008000-k000000-rc00000-we0e0e0/)|
+|![Dalmeny example sett](/setts/s10/b16k2b16k4g12r2g12k4b16w2-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|

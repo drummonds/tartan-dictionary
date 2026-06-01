@@ -16,5 +16,5 @@ BBGBBKBWBKBBG
 
 | Tartans |
 |---------------|
-| [Heart of Scotland (Fashion)](/tartans/g/6/pa6/p36/k36/db34/ln8/db34/k36/p8/pa6/g6/pa6/p/34/)|
-|![Heart of Scotland (Fashion) example sett](/variants/g/6/pa6/p36/k36/db34/ln8/db34/k36/p8/pa6/g6/pa6/p/34-db303070-g006818-k101010-lne0e0e0-p780078-pa6c0070/sett.png)|
+| [Heart of Scotland (Fashion)](/setts/s13/b34ba6g6ba6b8k36bb34w8bb34k36b36ba6g6-b780078-ba6c0070-bb303070-g006818-k101010-we0e0e0/)|
+|![Heart of Scotland (Fashion) example sett](/setts/s13/b34ba6g6ba6b8k36bb34w8bb34k36b36ba6g6-b780078-ba6c0070-bb303070-g006818-k101010-we0e0e0/sett.png)|

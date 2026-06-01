@@ -16,7 +16,9 @@ BKBKGKGKYKBRKW
 
 | Tartans |
 |---------------|
-| [Alison / Allison](/tartans/b/6/k6/b24/k36/g28/k4/g28/k16/y4/k16/ba8/r8/k4/ln/6/)|
-|![Alison / Allison example sett](/variants/b/6/k6/b24/k36/g28/k4/g28/k16/y4/k16/ba8/r8/k4/ln/6-b2c4084-ba3c82af-g005020-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
-| [Allison (MacBean and Bishop)](/tartans/b/6/k4/b24/k36/g28/k4/g28/k16/y4/k16/ba8/r8/k4/ln/6/)|
-|![Allison (MacBean and Bishop) example sett](/variants/b/6/k4/b24/k36/g28/k4/g28/k16/y4/k16/ba8/r8/k4/ln/6-b2c4084-ba3c82af-g005020-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
+| [Alison / Allison](/setts/s14/b6k6b24k36g28k4g28k16y4k16ba8r8k4w6-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Alison / Allison example sett](/setts/s14/b6k6b24k36g28k4g28k16y4k16ba8r8k4w6-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Allison (MacBean and Bishop)](/setts/s14/b6k4b24k36g28k4g28k16y4k16ba8r8k4w6-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Allison (MacBean and Bishop) example sett](/setts/s14/b6k4b24k36g28k4g28k16y4k16ba8r8k4w6-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Alison / Allison](/setts/s14/b6k6b24k36g28k4g28k16y4k16ba8r8k4w6-b304080-ba5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Alison / Allison example sett](/setts/s14/b6k6b24k36g28k4g28k16y4k16ba8r8k4w6-b304080-ba5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

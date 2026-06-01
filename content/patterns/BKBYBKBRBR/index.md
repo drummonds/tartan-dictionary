@@ -16,5 +16,7 @@ BKBYBKBRBR
 
 | Tartans |
 |---------------|
-| [D'Souza (Personal)](/tartans/dp/48/k4/dp4/o4/dp4/k40/db32/n4/db4/n/6/)|
-|![D'Souza (Personal) example sett](/variants/dp/48/k4/dp4/o4/dp4/k40/db32/n4/db4/n/6-db202060-dp440044-k101010-n888888-oec8048/sett.png)|
+| [D'Souza (Personal)](/setts/s10/b48k4b4y4b4k40ba32r4ba4r6-b440044-ba202060-k101010-r888888-yec8048/)|
+|![D'Souza (Personal) example sett](/setts/s10/b48k4b4y4b4k40ba32r4ba4r6-b440044-ba202060-k101010-r888888-yec8048/sett.png)|
+| [D'Souza (Personal)](/setts/s10/b48k4b4y4b4k40ba32r4ba4r6-b440044-ba202060-k101010-r888888-yec8048/)|
+|![D'Souza (Personal) example sett](/setts/s10/b48k4b4y4b4k40ba32r4ba4r6-b440044-ba202060-k101010-r888888-yec8048/sett.png)|

@@ -6,7 +6,7 @@ BBKRGB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/dp/16/g16/pa16/k24/p30/dp/92-dp440044-g289c18-k101010-p9058d8-pab468ac/tartan.png)
+![Woven sample](/setts/s6/b16g16r16k24ba30b92-b440044-ba9058d8-g289c18-k101010-rb468ac/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKRGB
 
 | Tartans |
 |---------------|
-| [Haut (Personal)](/tartans/dp/16/g16/pa16/k24/p30/dp/92/)|
-|![Haut (Personal) example sett](/variants/dp/16/g16/pa16/k24/p30/dp/92-dp440044-g289c18-k101010-p9058d8-pab468ac/sett.png)|
+| [Haut (Personal)](/setts/s6/b16g16r16k24ba30b92-b440044-ba9058d8-g289c18-k101010-rb468ac/)|
+|![Haut (Personal) example sett](/setts/s6/b16g16r16k24ba30b92-b440044-ba9058d8-g289c18-k101010-rb468ac/sett.png)|

@@ -16,5 +16,5 @@ BKBRGWRBRGK
 
 | Tartans |
 |---------------|
-| [MacArthur-Fox Dress (Personal)](/tartans/b/8/k4/db6/r66/g18/ly6/r10/db20/r12/g4/k/4/)|
-|![MacArthur-Fox Dress (Personal) example sett](/variants/b/8/k4/db6/r66/g18/ly6/r10/db20/r12/g4/k/4-b5c8ca8-db2c2c80-g006818-k101010-lyfceca0-rc80000/sett.png)|
+| [MacArthur-Fox Dress (Personal)](/setts/s11/b8k4ba6r66g18w6r10ba20r12g4k4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-wfceca0/)|
+|![MacArthur-Fox Dress (Personal) example sett](/setts/s11/b8k4ba6r66g18w6r10ba20r12g4k4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-wfceca0/sett.png)|

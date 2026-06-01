@@ -6,7 +6,7 @@ BGRGBGBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/4/g18/dr4/g18/db4/g4/db52/dg/4-db003c64-dg003820-dr901c38-g006818/tartan.png)
+![Woven sample](/setts/s8/b4g18r4g18b4g4b52ga4-b003c64-g006818-ga003820-r901c38/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGRGBGBG
 
 | Tartans |
 |---------------|
-| [Land's End Blue](/tartans/db/4/g18/dr4/g18/db4/g4/db52/dg/4/)|
-|![Land's End Blue example sett](/variants/db/4/g18/dr4/g18/db4/g4/db52/dg/4-db003c64-dg003820-dr901c38-g006818/sett.png)|
-| [Land's End, Blue (Fashion)](/tartans/db/4/g18/dr4/g18/db4/g4/db52/g/4/)|
-|![Land's End, Blue (Fashion) example sett](/variants/db/4/g18/dr4/g18/db4/g4/db52/g/4-db003054-dr901c38-g004c2c/sett.png)|
+| [Land's End Blue](/setts/s8/b4g18r4g18b4g4b52ga4-b003c64-g006818-ga003820-r901c38/)|
+|![Land's End Blue example sett](/setts/s8/b4g18r4g18b4g4b52ga4-b003c64-g006818-ga003820-r901c38/sett.png)|
+| [Land's End, Blue (Fashion)](/setts/s8/b4g18r4g18b4g4b52g4-b003054-g004c2c-r901c38/)|
+|![Land's End, Blue (Fashion) example sett](/setts/s8/b4g18r4g18b4g4b52g4-b003054-g004c2c-r901c38/sett.png)|

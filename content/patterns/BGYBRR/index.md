@@ -6,7 +6,7 @@ BGYBRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/36/lg12/y4/b36/r2/dr/56-b1870a4-dr780028-lg608c28-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b36g12y4b36r2ra56-b1870a4-g608c28-rc80000-ra780028-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGYBRR
 
 | Tartans |
 |---------------|
-| [British Judo Association](/tartans/b/36/lg12/y4/b36/r2/dr/56/)|
-|![British Judo Association example sett](/variants/b/36/lg12/y4/b36/r2/dr/56-b1870a4-dr780028-lg608c28-rc80000-ye8c000/sett.png)|
-| [European Judo Union](/tartans/db/36/g2/y4/db36/r2/dr/56/)|
-|![European Judo Union example sett](/variants/db/36/g2/y4/db36/r2/dr/56-db2c2c80-dra00000-g006818-rc80000-yfccc00/sett.png)|
+| [British Judo Association](/setts/s6/b36g12y4b36r2ra56-b1870a4-g608c28-rc80000-ra780028-ye8c000/)|
+|![British Judo Association example sett](/setts/s6/b36g12y4b36r2ra56-b1870a4-g608c28-rc80000-ra780028-ye8c000/sett.png)|
+| [European Judo Union](/setts/s6/b36g2y4b36r2ra56-b2c2c80-g006818-rc80000-raa00000-yfccc00/)|
+|![European Judo Union example sett](/setts/s6/b36g2y4b36r2ra56-b2c2c80-g006818-rc80000-raa00000-yfccc00/sett.png)|

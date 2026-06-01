@@ -6,7 +6,7 @@ BBGB
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/b/5/db12/g8/b/4-b2888c4-db003c64-g006818/tartan.png)
+![Woven sample](/setts/s4/b4g8ba12b5-b2888c4-ba003c64-g006818/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGB
 
 | Tartans |
 |---------------|
-| [Sheffield High (School)](/tartans/b/5/db12/g8/b/4/)|
-|![Sheffield High (School) example sett](/variants/b/5/db12/g8/b/4-b2888c4-db003c64-g006818/sett.png)|
+| [Sheffield High (School)](/setts/s4/b4g8ba12b5-b2888c4-ba003c64-g006818/)|
+|![Sheffield High (School) example sett](/setts/s4/b4g8ba12b5-b2888c4-ba003c64-g006818/sett.png)|

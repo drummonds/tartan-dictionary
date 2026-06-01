@@ -16,5 +16,5 @@ BGBRBRBRGRRRGRGRWRYRBWRBWBRW
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid 15](/tartans/b/54/g12/b54/lt8/b8/lt8/b8/lt30/g60/lt8/r20/lt8/g60/lt140/g26/lt6/ln8/lt6/y8/lt18/b10/ln14/lt14/b14/ln14/b14/lt14/ln/140/)|
-|![Unidentified Plaid 15 example sett](/variants/b/54/g12/b54/lt8/b8/lt8/b8/lt30/g60/lt8/r20/lt8/g60/lt140/g26/lt6/ln8/lt6/y8/lt18/b10/ln14/lt14/b14/ln14/b14/lt14/ln/140-b304080-g008000-lne0e0e0-lt806050-rc00000-yf0c000/sett.png)|
+| [Unidentified Plaid 15](/setts/s28/b54g12b54r8b8r8b8r30g60r8ra20r8g60r140g26r6w8r6y8r18b10w14r14b14w14b14r14w140-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/)|
+|![Unidentified Plaid 15 example sett](/setts/s28/b54g12b54r8b8r8b8r30g60r8ra20r8g60r140g26r6w8r6y8r18b10w14r14b14w14b14r14w140-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/sett.png)|

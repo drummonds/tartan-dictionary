@@ -16,5 +16,5 @@ BKBGKGRGKGBKBY
 
 | Tartans |
 |---------------|
-| [Peter of Lee (Chief) (Personal)](/tartans/db/6/k6/db42/dg58/k4/dg8/r8/dg8/k4/dg58/db42/k6/db6/y/6/)|
-|![Peter of Lee (Chief) (Personal) example sett](/variants/db/6/k6/db42/dg58/k4/dg8/r8/dg8/k4/dg58/db42/k6/db6/y/6-db2c2c80-dg003820-k101010-rc80000-ye8c000/sett.png)|
+| [Peter of Lee (Chief) (Personal)](/setts/s14/b6k6b42g58k4g8r8g8k4g58b42k6b6y6-b2c2c80-g003820-k101010-rc80000-ye8c000/)|
+|![Peter of Lee (Chief) (Personal) example sett](/setts/s14/b6k6b42g58k4g8r8g8k4g58b42k6b6y6-b2c2c80-g003820-k101010-rc80000-ye8c000/sett.png)|

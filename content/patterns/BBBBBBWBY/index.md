@@ -16,5 +16,7 @@ BBBBBBWBY
 
 | Tartans |
 |---------------|
-| [Romantic Scotland (Madonna)](/tartans/dn/10/p2/dn8/db8/dn14/db16/w2/db4/y/2/)|
-|![Romantic Scotland (Madonna) example sett](/variants/dn/10/p2/dn8/db8/dn14/db16/w2/db4/y/2-db2c2c80-dn14283c-p780078-wf8f8f8-ye8c000/sett.png)|
+| [Romantic Scotland (Madonna)](/setts/s9/b20ba4b16bb16b28bb32w4bb8y4-b14283c-ba780078-bb2c2c80-wf8f8f8-ye8c000/)|
+|![Romantic Scotland (Madonna) example sett](/setts/s9/b20ba4b16bb16b28bb32w4bb8y4-b14283c-ba780078-bb2c2c80-wf8f8f8-ye8c000/sett.png)|
+| [Romantic Scotland (Madonna) (Commemo](/setts/s9/b20ba4b16bb16b28bb32w4bb8y4-b14283c-ba780078-bb2c2c80-wf8f8f8-ye8c000/)|
+|![Romantic Scotland (Madonna) (Commemo example sett](/setts/s9/b20ba4b16bb16b28bb32w4bb8y4-b14283c-ba780078-bb2c2c80-wf8f8f8-ye8c000/sett.png)|

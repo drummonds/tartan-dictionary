@@ -16,7 +16,7 @@ BBRRGRGRBBRRRBGRGRBRBRRB
 
 | Tartans |
 |---------------|
-| [MacDougall of MacDougall](/tartans/b/4/p20/r6/ra8/g144/ra14/g8/ra20/ba48/p12/r10/ra8/r10/p14/g48/ra48/g48/ra6/ba6/ra148/p14/r10/ra12/b/4/)|
-|![MacDougall of MacDougall example sett](/variants/b/4/p20/r6/ra8/g144/ra14/g8/ra20/ba48/p12/r10/ra8/r10/p14/g48/ra48/g48/ra6/ba6/ra148/p14/r10/ra12/b/4-b3c82af-ba2c4084-g005020-p5a008c-rc82828-radc0000/sett.png)|
-| [MacDougall, of MacDougall](/tartans/ba/4/p20/r6/ra8/g144/ra14/g8/ra20/b48/p12/r10/ra8/r10/p14/g48/ra48/g48/ra6/b6/ra148/p14/r10/ra12/ba/4/)|
-|![MacDougall, of MacDougall example sett](/variants/ba/4/p20/r6/ra8/g144/ra14/g8/ra20/b48/p12/r10/ra8/r10/p14/g48/ra48/g48/ra6/b6/ra148/p14/r10/ra12/ba/4-b304080-ba5480b0-g008000-p800080-rd03030-rac00000/sett.png)|
+| [MacDougall of MacDougall](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b3c82af-ba5a008c-bb2c4084-g005020-rc82828-radc0000/)|
+|![MacDougall of MacDougall example sett](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b3c82af-ba5a008c-bb2c4084-g005020-rc82828-radc0000/sett.png)|
+| [MacDougall, of MacDougall](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b5480b0-ba800080-bb304080-g008000-rd03030-rac00000/)|
+|![MacDougall, of MacDougall example sett](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b5480b0-ba800080-bb304080-g008000-rd03030-rac00000/sett.png)|

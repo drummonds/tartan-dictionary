@@ -16,5 +16,7 @@ BGBRGWRBRB
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid #5](/tartans/db/52/g12/db52/r4/g52/ln2/r12/db4/r12/db/26/)|
-|![Unidentified Plaid #5 example sett](/variants/db/52/g12/db52/r4/g52/ln2/r12/db4/r12/db/26-db080848-g006428-lne0e0e0-rdc0000/sett.png)|
+| [Unidentified Plaid #5](/setts/s10/b26r12b4r12w2g52r4b52g12b52-b080848-g006428-rdc0000-we0e0e0/)|
+|![Unidentified Plaid #5 example sett](/setts/s10/b26r12b4r12w2g52r4b52g12b52-b080848-g006428-rdc0000-we0e0e0/sett.png)|
+| [Unidentified Plaid 9](/setts/s10/b26r12b4r12w2g52r4b52g12b52-b000050-g006030-rc00000-we0e0e0/)|
+|![Unidentified Plaid 9 example sett](/setts/s10/b26r12b4r12w2g52r4b52g12b52-b000050-g006030-rc00000-we0e0e0/sett.png)|

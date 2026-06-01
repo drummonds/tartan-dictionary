@@ -6,7 +6,7 @@ BGKGYGKG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/lg/4/k20/g20/dy4/g20/k20/lg4/p/22-dg003820-dp440044-dyd09800-g006818-k101010-lg789484-p780078/tartan.png)
+![Woven sample](/setts/s8/b22g4k20ga20y4ga20k20g4-b780078-g789484-ga006818-k101010-yd09800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGKGYGKG
 
 | Tartans |
 |---------------|
-| [Selkirk (Personal) Original](/tartans/lg/4/k20/g20/dy4/g20/k20/lg4/p/22/)|
-|![Selkirk (Personal) Original example sett](/variants/lg/4/k20/g20/dy4/g20/k20/lg4/p/22-dg003820-dp440044-dyd09800-g006818-k101010-lg789484-p780078/sett.png)|
+| [Selkirk (Personal) Original](/setts/s8/b22g4k20ga20y4ga20k20g4-b780078-g789484-ga006818-k101010-yd09800/)|
+|![Selkirk (Personal) Original example sett](/setts/s8/b22g4k20ga20y4ga20k20g4-b780078-g789484-ga006818-k101010-yd09800/sett.png)|

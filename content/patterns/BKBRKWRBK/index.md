@@ -16,5 +16,7 @@ BKBRKWRBK
 
 | Tartans |
 |---------------|
-| [Universal Scientific Industrial](/tartans/b/10/k6/b4/lp12/k32/w4/lp48/b4/k/76/)|
-|![Universal Scientific Industrial example sett](/variants/b/10/k6/b4/lp12/k32/w4/lp48/b4/k/76-b2888c4-k101010-lp9c68a4-wf8f8f8/sett.png)|
+| [Universal Scientific Industrial](/setts/s9/b10k6b4r12k32w4r48b4k76-b2888c4-k101010-r9c68a4-wf8f8f8/)|
+|![Universal Scientific Industrial example sett](/setts/s9/b10k6b4r12k32w4r48b4k76-b2888c4-k101010-r9c68a4-wf8f8f8/sett.png)|
+| [Universal Scientific Indust (Corp.)](/setts/s9/b10k6b4r12k32w4r48b4k76-b2888c4-k101010-r9c68a4-wf8f8f8/)|
+|![Universal Scientific Indust (Corp.) example sett](/setts/s9/b10k6b4r12k32w4r48b4k76-b2888c4-k101010-r9c68a4-wf8f8f8/sett.png)|

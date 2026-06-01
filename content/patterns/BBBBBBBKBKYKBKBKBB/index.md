@@ -16,5 +16,7 @@ BBBBBBBKBKYKBKBKBB
 
 | Tartans |
 |---------------|
-| [Royal Canadian Air Force](/tartans/dr/8/b12/k2/dr4/k2/b28/k6/n6/k4/dr4/k4/dr4/db8/dr4/db12/dr4/db12/dr/6/)|
-|![Royal Canadian Air Force example sett](/variants/dr/8/b12/k2/dr4/k2/b28/k6/n6/k4/dr4/k4/dr4/db8/dr4/db12/dr4/db12/dr/6-b4367ae-db000052-dr581826-k000000-naaaaaa/sett.png)|
+| [Royal Canadian Air Force](/setts/s18/b3ba6b2ba6b2ba4b2k2b2k2y3k3bb14k1b2k1bb6b4-b581826-ba000052-bb4367ae-k000000-yaaaaaa/)|
+|![Royal Canadian Air Force example sett](/setts/s18/b3ba6b2ba6b2ba4b2k2b2k2y3k3bb14k1b2k1bb6b4-b581826-ba000052-bb4367ae-k000000-yaaaaaa/sett.png)|
+| [Royal Canadian Air Force](/setts/s18/b3ba6b2ba6b2ba4b2k2b2k2y3k3bb14k1b2k1bb6b4-b581826-ba000052-bb4367ae-k000000-yaaaaaa/)|
+|![Royal Canadian Air Force example sett](/setts/s18/b3ba6b2ba6b2ba4b2k2b2k2y3k3bb14k1b2k1bb6b4-b581826-ba000052-bb4367ae-k000000-yaaaaaa/sett.png)|

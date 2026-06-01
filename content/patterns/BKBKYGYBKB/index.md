@@ -16,5 +16,5 @@ BKBKYGYBKB
 
 | Tartans |
 |---------------|
-| [Rowan (Name)](/tartans/db/2/k2/db16/dy2/g24/dy2/k4/db16/k2/db/2/)|
-|![Rowan (Name) example sett](/variants/db/2/k2/db16/dy2/g24/dy2/k4/db16/k2/db/2-db2c2c80-dyd09800-g006818-k101010/sett.png)|
+| [Rowan (Name)](/setts/s10/b4k4b32k8y4g48y4b32k4b4-b2c2c80-g006818-k101010-yd09800/)|
+|![Rowan (Name) example sett](/setts/s10/b4k4b32k8y4g48y4b32k4b4-b2c2c80-g006818-k101010-yd09800/sett.png)|

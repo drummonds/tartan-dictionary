@@ -16,7 +16,7 @@ BKBWBGBGRGY
 
 | Tartans |
 |---------------|
-| [O'Sullivan](/tartans/b/12/k8/b20/w4/dba20/ga8/dba12/ga18/r4/ga8/y/4/)|
-|![O'Sullivan example sett](/variants/b/12/k8/b20/w4/dba20/ga8/dba12/ga18/r4/ga8/y/4-b1474b4-db2c2c80-dba1c0070-dr880000-g006818-ga408060-k101010-nc0c0c0-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [O'Sullivan (Name)](/tartans/b/12/k8/b20/w4/db20/g8/db12/g18/r4/g8/y/4/)|
-|![O'Sullivan (Name) example sett](/variants/b/12/k8/b20/w4/db20/g8/db12/g18/r4/g8/y/4-b1474b4-db1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [O'Sullivan](/setts/s11/b24k16b40w8ba40g16ba24g36r8g16y8-b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![O'Sullivan example sett](/setts/s11/b24k16b40w8ba40g16ba24g36r8g16y8-b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [O'Sullivan (Name)](/setts/s11/b24k16b40w8ba40g16ba24g36r8g16y8-b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![O'Sullivan (Name) example sett](/setts/s11/b24k16b40w8ba40g16ba24g36r8g16y8-b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

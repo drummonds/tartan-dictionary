@@ -6,7 +6,7 @@ BBBY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/b/40/p6/db14/y/2-b5c8ca8-db2c2c80-p780078-ye8c000/tartan.png)
+![Woven sample](/setts/s4/b80ba12bb28y4-b5c8ca8-ba780078-bb2c2c80-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBBY
 
 | Tartans |
 |---------------|
-| [Peacock (Samantha)](/tartans/b/40/p6/db14/y/2/)|
-|![Peacock (Samantha) example sett](/variants/b/40/p6/db14/y/2-b5c8ca8-db2c2c80-p780078-ye8c000/sett.png)|
-| [Peacock](/tartans/b/40/p6/ba14/y/2/)|
-|![Peacock example sett](/variants/b/40/p6/ba14/y/2-b3090c0-ba304080-p800080-yf0c000/sett.png)|
+| [Peacock (Samantha)](/setts/s4/b80ba12bb28y4-b5c8ca8-ba780078-bb2c2c80-ye8c000/)|
+|![Peacock (Samantha) example sett](/setts/s4/b80ba12bb28y4-b5c8ca8-ba780078-bb2c2c80-ye8c000/sett.png)|
+| [Peacock (Name)](/setts/s4/b80ba12bb28y4-b5c8ca8-ba780078-bb2c2c80-ye8c000/)|
+|![Peacock (Name) example sett](/setts/s4/b80ba12bb28y4-b5c8ca8-ba780078-bb2c2c80-ye8c000/sett.png)|
+| [Peacock](/setts/s4/b80ba12bb28y4-b3090c0-ba800080-bb304080-yf0c000/)|
+|![Peacock example sett](/setts/s4/b80ba12bb28y4-b3090c0-ba800080-bb304080-yf0c000/sett.png)|

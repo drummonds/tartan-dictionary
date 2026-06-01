@@ -16,5 +16,7 @@ BKBKBKRGRKBKB
 
 | Tartans |
 |---------------|
-| [Riddoch (Name)](/tartans/b/16/k2/b2/k2/b2/k16/r2/lg28/r2/k16/b16/k2/b/2/)|
-|![Riddoch (Name) example sett](/variants/b/16/k2/b2/k2/b2/k16/r2/lg28/r2/k16/b16/k2/b/2-b688094-k101010-lg689840-rc80000/sett.png)|
+| [Riddoch (Name)](/setts/s13/b32k4b4k4b4k32r4g56r4k32b32k4b4-b688094-g689840-k101010-rc80000/)|
+|![Riddoch (Name) example sett](/setts/s13/b32k4b4k4b4k32r4g56r4k32b32k4b4-b688094-g689840-k101010-rc80000/sett.png)|
+| [Riddoch Name Tartan Tartan Number: 3316. Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b32k4b4k4b4k32r4g56r4k32b32k4b4-b688094-g689840-k101010-rc80000/)|
+|![Riddoch Name Tartan Tartan Number: 3316. Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b32k4b4k4b4k32r4g56r4k32b32k4b4-b688094-g689840-k101010-rc80000/sett.png)|

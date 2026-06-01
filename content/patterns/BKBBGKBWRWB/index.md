@@ -16,5 +16,5 @@ BKBBGKBWRWB
 
 | Tartans |
 |---------------|
-| [Donohoe Grey, Peter (Commemorative)](/tartans/dr/18/lb4/r2/lb4/dr6/k18/dg6/dr2/n70/k6/n/4/)|
-|![Donohoe Grey, Peter (Commemorative) example sett](/variants/dr/18/lb4/r2/lb4/dr6/k18/dg6/dr2/n70/k6/n/4-dg003820-dr441800-k101010-lb98c8e8-n5c5c5c-rc80000/sett.png)|
+| [Donohoe Grey, Peter (Commemorative)](/setts/s11/b18w4r2w4b6k18g6b2ba70k6ba4-b441800-ba5c5c5c-g003820-k101010-rc80000-w98c8e8/)|
+|![Donohoe Grey, Peter (Commemorative) example sett](/setts/s11/b18w4r2w4b6k18g6b2ba70k6ba4-b441800-ba5c5c5c-g003820-k101010-rc80000-w98c8e8/sett.png)|

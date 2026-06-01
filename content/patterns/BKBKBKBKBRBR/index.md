@@ -16,5 +16,7 @@ BKBKBKBKBRBR
 
 | Tartans |
 |---------------|
-| [St. Mirren](/tartans/dr/3/n4/dr3/dn28/k24/dn8/k16/dn10/k4/dn16/k4/n/10/)|
-|![St. Mirren example sett](/variants/dr/3/n4/dr3/dn28/k24/dn8/k16/dn10/k4/dn16/k4/n/10-dn343434-dr880000-k101010-n404040/sett.png)|
+| [St. Mirren](/setts/s12/b10k4ba16k4ba10k16ba8k24ba28r3b4r3-b404040-ba343434-k101010-r880000/)|
+|![St. Mirren example sett](/setts/s12/b10k4ba16k4ba10k16ba8k24ba28r3b4r3-b404040-ba343434-k101010-r880000/sett.png)|
+| [St. Mirren (Corporate)](/setts/s12/b10k4ba16k4ba10k16ba8k24ba28r3b4r3-b404040-ba343434-k101010-r880000/)|
+|![St. Mirren (Corporate) example sett](/setts/s12/b10k4ba16k4ba10k16ba8k24ba28r3b4r3-b404040-ba343434-k101010-r880000/sett.png)|

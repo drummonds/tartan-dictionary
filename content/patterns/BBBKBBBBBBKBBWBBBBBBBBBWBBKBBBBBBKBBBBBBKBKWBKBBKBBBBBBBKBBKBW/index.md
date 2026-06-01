@@ -16,5 +16,5 @@ BBBKBBBBBBKBBWBBBBBBBBBWBBKBBBBBBKBBBBBBKBKWBKBBKBBBBBBBKBBKBW
 
 | Tartans |
 |---------------|
-| [Millennium by Texcraft](/tartans/ba/16/db2/ba2/dba74/db2/ba28/b4/ba4/db2/ba2/dba74/ba2/db2/ln4/ba36/db2/b6/db2/ba36/db2/b6/db2/ba36/ln4/db2/ba2/dba74/ba2/db2/ba6/b4/ba26/db2/dba74/ba2/db2/ba16/b4/ba20/db2/dba2/ba2/dba2/ln4/db2/dba66/ba2/b4/dba2/ba2/db2/ba36/b4/ba36/db2/ba2/dba2/b4/ba2/dba74/db2/ln/4/)|
-|![Millennium by Texcraft example sett](/variants/ba/16/db2/ba2/dba74/db2/ba28/b4/ba4/db2/ba2/dba74/ba2/db2/ln4/ba36/db2/b6/db2/ba36/db2/b6/db2/ba36/ln4/db2/ba2/dba74/ba2/db2/ba6/b4/ba26/db2/dba74/ba2/db2/ba16/b4/ba20/db2/dba2/ba2/dba2/ln4/db2/dba66/ba2/b4/dba2/ba2/db2/ba36/b4/ba36/db2/ba2/dba2/b4/ba2/dba74/db2/ln/4-b304080-ba304080-db001070-dba000030-lne0e0e0/sett.png)|
+| [Millennium by Texcraft](/setts/s62/b16ba2b2k74ba2b28b4b4ba2b2k74b2ba2w4b36ba2b6ba2b36ba2b6ba2b36w4ba2b2k74b2ba2b6b4b26ba2k74b2ba2b16b4b20ba2k2b2k2w4ba2k66b2b4k2b2ba2b36b4b36ba2b2k2b4b2k74ba2w4-b304080-ba001070-k000030-we0e0e0/)|
+|![Millennium by Texcraft example sett](/setts/s62/b16ba2b2k74ba2b28b4b4ba2b2k74b2ba2w4b36ba2b6ba2b36ba2b6ba2b36w4ba2b2k74b2ba2b6b4b26ba2k74b2ba2b16b4b20ba2k2b2k2w4ba2k66b2b4k2b2ba2b36b4b36ba2b2k2b4b2k74ba2w4-b304080-ba001070-k000030-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ BGKGWRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/100/g52/k18/g8/n4/dr4/g/20-db003c64-dr880000-g006818-k101010-nc0c0c0/tartan.png)
+![Woven sample](/setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BGKGWRG
 
 | Tartans |
 |---------------|
-| [Java Saint Andrew Society Hunting](/tartans/db/100/g52/k18/g8/n4/dr4/g/20/)|
-|![Java Saint Andrew Society Hunting example sett](/variants/db/100/g52/k18/g8/n4/dr4/g/20-db003c64-dr880000-g006818-k101010-nc0c0c0/sett.png)|
-| [Java St Andrew Society hunting](/tartans/db/100/dg52/k18/dg8/ln4/r4/dg/20/)|
-|![Java St Andrew Society hunting example sett](/variants/db/100/dg52/k18/dg8/ln4/r4/dg/20-db141e46-dg003c14-k101010-lne0e0e0-rdc0000/sett.png)|
+| [Java Saint Andrew Society Hunting](/setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/)|
+|![Java Saint Andrew Society Hunting example sett](/setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/sett.png)|
+| [Java St Andrew Society hunting](/setts/s7/b100g52k18g8w4r4g20-b141e46-g003c14-k101010-rdc0000-we0e0e0/)|
+|![Java St Andrew Society hunting example sett](/setts/s7/b100g52k18g8w4r4g20-b141e46-g003c14-k101010-rdc0000-we0e0e0/sett.png)|
+| [Java Saint Andrew Society Htg (Corp)](/setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/)|
+|![Java Saint Andrew Society Htg (Corp) example sett](/setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/sett.png)|

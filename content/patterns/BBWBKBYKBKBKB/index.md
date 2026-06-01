@@ -16,5 +16,5 @@ BBWBKBYKBKBKB
 
 | Tartans |
 |---------------|
-| [Silverton Family (Basingstoke)](/tartans/db/8/b2/w2/b2/k58/db6/ly2/k8/db40/k4/dba2/k6/db/6/)|
-|![Silverton Family (Basingstoke) example sett](/variants/db/8/b2/w2/b2/k58/db6/ly2/k8/db40/k4/dba2/k6/db/6-b5f749c-db373875-dba2c2c80-k1c1714-lyf8e38c-wf9f5ef/sett.png)|
+| [Silverton Family (Basingstoke)](/setts/s13/b6k6ba2k4b40k8y2b6k58bb2w2bb2b8-b373875-ba2c2c80-bb5f749c-k1c1714-wf9f5ef-yf8e38c/)|
+|![Silverton Family (Basingstoke) example sett](/setts/s13/b6k6ba2k4b40k8y2b6k58bb2w2bb2b8-b373875-ba2c2c80-bb5f749c-k1c1714-wf9f5ef-yf8e38c/sett.png)|

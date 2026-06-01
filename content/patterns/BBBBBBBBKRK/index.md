@@ -16,5 +16,5 @@ BBBBBBBBKRK
 
 | Tartans |
 |---------------|
-| [Lunar](/tartans/ka/20/dr2/ka6/k14/n2/k2/n2/k2/n2/k2/n/14/)|
-|![Lunar example sett](/variants/ka/20/dr2/ka6/k14/n2/k2/n2/k2/n2/k2/n/14-dr8c0000-k3c2010-ka000000-n646464/sett.png)|
+| [Lunar](/setts/s11/b28ba4b4ba4b4ba4b4ba28k12r4k40-b646464-ba3c2010-k000000-r8c0000/)|
+|![Lunar example sett](/setts/s11/b28ba4b4ba4b4ba4b4ba28k12r4k40-b646464-ba3c2010-k000000-r8c0000/sett.png)|

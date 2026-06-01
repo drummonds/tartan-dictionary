@@ -16,5 +16,5 @@ BKGKGKGKBKRKBKGKGKGK
 
 | Tartans |
 |---------------|
-| [Phillips of Wales](/tartans/dba/2/k20/dg30/k2/dg4/k2/dg30/k3/db30/k35/dr2/k35/db30/k3/dg30/k2/dg4/k2/dg30/k/20/)|
-|![Phillips of Wales example sett](/variants/dba/2/k20/dg30/k2/dg4/k2/dg30/k3/db30/k35/dr2/k35/db30/k3/dg30/k2/dg4/k2/dg30/k/20-db202060-dba1c0070-dg003820-dr901c38-k101010/sett.png)|
+| [Phillips of Wales](/setts/s20/b2k20g30k2g4k2g30k3ba30k35r2k35ba30k3g30k2g4k2g30k20-b1c0070-ba202060-g003820-k101010-r901c38/)|
+|![Phillips of Wales example sett](/setts/s20/b2k20g30k2g4k2g30k3ba30k35r2k35ba30k3g30k2g4k2g30k20-b1c0070-ba202060-g003820-k101010-r901c38/sett.png)|

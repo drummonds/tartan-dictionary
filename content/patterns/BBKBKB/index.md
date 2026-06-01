@@ -6,7 +6,7 @@ BBKBKB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/48/dba16/k4/db8/k2/dba/80-db00008c-dba00008c-k000000/tartan.png)
+![Woven sample](/setts/s6/b48b16k4b8k2b80-b00008c-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKBKB
 
 | Tartans |
 |---------------|
-| [Loevenstein Castle 3 (Artefact)](/tartans/db/48/dba16/k4/db8/k2/dba/80/)|
-|![Loevenstein Castle 3 (Artefact) example sett](/variants/db/48/dba16/k4/db8/k2/dba/80-db00008c-dba00008c-k000000/sett.png)|
+| [Loevenstein Castle 3 (Artefact)](/setts/s6/b48b16k4b8k2b80-b00008c-k000000/)|
+|![Loevenstein Castle 3 (Artefact) example sett](/setts/s6/b48b16k4b8k2b80-b00008c-k000000/sett.png)|

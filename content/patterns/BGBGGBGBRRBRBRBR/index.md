@@ -16,5 +16,5 @@ BGBGGBGBRRBRBRBR
 
 | Tartans |
 |---------------|
-| [Langerman (Anchorage)](/tartans/db/2/n4/db2/n6/na12/db2/n12/db4/dra10/drb26/dr46/dra2/dr2/dra2/dr4/dra/2/)|
-|![Langerman (Anchorage) example sett](/variants/db/2/n4/db2/n6/na12/db2/n12/db4/dra10/drb26/dr46/dra2/dr2/dra2/dr4/dra/2-db000080-dr441800-draa00000-drb880000-n416041-na344a35/sett.png)|
+| [Langerman (Anchorage)](/setts/s16/b2g4b2g6ga12b2g12b4r10ra26ba46r2ba2r2ba4r2-b000080-ba441800-g416041-ga344a35-ra00000-ra880000/)|
+|![Langerman (Anchorage) example sett](/setts/s16/b2g4b2g6ga12b2g12b4r10ra26ba46r2ba2r2ba4r2-b000080-ba441800-g416041-ga344a35-ra00000-ra880000/sett.png)|

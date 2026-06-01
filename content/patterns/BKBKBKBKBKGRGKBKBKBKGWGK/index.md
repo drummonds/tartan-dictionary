@@ -16,5 +16,5 @@ BKBKBKBKBKGRGKBKBKBKGWGK
 
 | Tartans |
 |---------------|
-| [MacKenzie, Bailey](/tartans/b/4/k4/b4/k4/b36/k4/b4/k4/b4/k12/g36/r4/g36/k12/b36/k2/b8/k2/b36/k12/g36/ln4/g36/k/12/)|
-|![MacKenzie, Bailey example sett](/variants/b/4/k4/b4/k4/b36/k4/b4/k4/b4/k12/g36/r4/g36/k12/b36/k2/b8/k2/b36/k12/g36/ln4/g36/k/12-b304080-g008000-k000000-lne0e0e0-rc00000/sett.png)|
+| [MacKenzie, Bailey](/setts/s24/b4k4b4k4b36k4b4k4b4k12g36r4g36k12b36k2b8k2b36k12g36w4g36k12-b304080-g008000-k000000-rc00000-we0e0e0/)|
+|![MacKenzie, Bailey example sett](/setts/s24/b4k4b4k4b36k4b4k4b4k12g36r4g36k12b36k2b8k2b36k12g36w4g36k12-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|

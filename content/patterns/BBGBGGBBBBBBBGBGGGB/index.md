@@ -16,5 +16,5 @@ BBGBGGBBBBBBBGBGGGB
 
 | Tartans |
 |---------------|
-| [Watkins (Welsh Name)](/tartans/db/4/ba4/g10/ba8/g20/ga30/ba20/dba24/ba12/db8/ba12/dba24/ba20/ga36/b4/g4/ga36/g2/db/4/)|
-|![Watkins (Welsh Name) example sett](/variants/db/4/ba4/g10/ba8/g20/ga30/ba20/dba24/ba12/db8/ba12/dba24/ba20/ga36/b4/g4/ga36/g2/db/4-b1474b4-ba1474b4-db2c2c80-dba2c2c80-g00643c-ga289c18/sett.png)|
+| [Watkins (Welsh Name)](/setts/s19/b2ba2g5ba4g10ga15ba10b12ba6b4ba6b12ba10ga18ba2g2ga18g1b2-b2c2c80-ba1474b4-g00643c-ga289c18/)|
+|![Watkins (Welsh Name) example sett](/setts/s19/b2ba2g5ba4g10ga15ba10b12ba6b4ba6b12ba10ga18ba2g2ga18g1b2-b2c2c80-ba1474b4-g00643c-ga289c18/sett.png)|

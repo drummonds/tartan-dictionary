@@ -6,7 +6,7 @@ BBBBBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/dr/3/b3/dr3/b27/dr40/lg/3-b304080-dr402000-lg908000/tartan.png)
+![Woven sample](/setts/s6/b3ba3b3ba27b40g3-b402000-ba304080-g908000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBBG
 
 | Tartans |
 |---------------|
-| [Keeper of the Quaich](/tartans/dr/3/b3/dr3/b27/dr40/lg/3/)|
-|![Keeper of the Quaich example sett](/variants/dr/3/b3/dr3/b27/dr40/lg/3-b304080-dr402000-lg908000/sett.png)|
+| [Keeper of the Quaich](/setts/s6/b3ba3b3ba27b40g3-b402000-ba304080-g908000/)|
+|![Keeper of the Quaich example sett](/setts/s6/b3ba3b3ba27b40g3-b402000-ba304080-g908000/sett.png)|

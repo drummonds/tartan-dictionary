@@ -16,5 +16,7 @@ BBBGBGRRBR
 
 | Tartans |
 |---------------|
-| [Clarks No.1](/tartans/n/10/b4/n22/g4/n4/g12/t34/dy18/n2/t/2/)|
-|![Clarks No.1 example sett](/variants/n/10/b4/n22/g4/n4/g12/t34/dy18/n2/t/2-b6d8399-dyb07d0f-g5e633e-n32485c-ta73e1d/sett.png)|
+| [Clarks No.1](/setts/s10/b10ba4b22g4b4g12r34ra18b2r2-b32485c-ba6d8399-g5e633e-ra73e1d-rab07d0f/)|
+|![Clarks No.1 example sett](/setts/s10/b10ba4b22g4b4g12r34ra18b2r2-b32485c-ba6d8399-g5e633e-ra73e1d-rab07d0f/sett.png)|
+| [Clarks No.1 Fashion Tartan Tartan Number: 10678. Earliest known date: 21 August 2012 Created for Clark's AW13 Collection as a signature material. Clarks (C and J Clark International Limited) have manufactured footware since 1825 when James Clark created his first pair of slippers in the village of Street in Somerset, UK. The tartan colours were chosen to accord with specific colours in the AW13 colour palette, so that the tartan can sit with products throughout the whole season (which spans 3 different colour palettes). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b10ba4b22g4b4g12r34ra18b2r2-b32485c-ba6d8399-g5e633e-ra73e1d-rab07d0f/)|
+|![Clarks No.1 Fashion Tartan Tartan Number: 10678. Earliest known date: 21 August 2012 Created for Clark's AW13 Collection as a signature material. Clarks (C and J Clark International Limited) have manufactured footware since 1825 when James Clark created his first pair of slippers in the village of Street in Somerset, UK. The tartan colours were chosen to accord with specific colours in the AW13 colour palette, so that the tartan can sit with products throughout the whole season (which spans 3 different colour palettes). See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b10ba4b22g4b4g12r34ra18b2r2-b32485c-ba6d8399-g5e633e-ra73e1d-rab07d0f/sett.png)|

@@ -16,5 +16,5 @@ BBRBYBRBYBWBWBWBYBRBYBRBRBBBBBBBBBGB
 
 | Tartans |
 |---------------|
-| [New York Tartan Day Parade](/tartans/db/2/g4/db2/n4/db2/n4/db2/n4/db2/n4/db2/r16/db2/r16/db2/lg4/db2/r8/db8/y2/db56/w2/db4/w4/db4/w2/db114/y2/db8/r8/db2/lg4/db2/r16/db2/n/4/)|
-|![New York Tartan Day Parade example sett](/variants/db/2/g4/db2/n4/db2/n4/db2/n4/db2/n4/db2/r16/db2/r16/db2/lg4/db2/r8/db8/y2/db56/w2/db4/w4/db4/w2/db114/y2/db8/r8/db2/lg4/db2/r16/db2/n/4-db000080-g006400-lg86c67c-n2f4f4f-rff0000-wffffff-yffa500/sett.png)|
+| [New York Tartan Day Parade](/setts/s36/b2g4b2ba4b2ba4b2ba4b2ba4b2r16b2r16b2y4b2r8b8ya2b56w2b4w4b4w2b114ya2b8r8b2y4b2r16b2ba4-b000080-ba2f4f4f-g006400-rff0000-wffffff-y86c67c-yaffa500/)|
+|![New York Tartan Day Parade example sett](/setts/s36/b2g4b2ba4b2ba4b2ba4b2ba4b2r16b2r16b2y4b2r8b8ya2b56w2b4w4b4w2b114ya2b8r8b2y4b2r16b2ba4-b000080-ba2f4f4f-g006400-rff0000-wffffff-y86c67c-yaffa500/sett.png)|

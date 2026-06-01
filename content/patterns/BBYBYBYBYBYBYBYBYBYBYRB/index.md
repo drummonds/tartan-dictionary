@@ -16,7 +16,7 @@ BBYBYBYBYBYBYBYBYBYBYRB
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid #13](/tartans/n/10/k130/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n20/y16/r3/n/126/)|
-|![Unidentified Plaid #13 example sett](/variants/n/10/k130/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n20/y16/r3/n/126-k2a2303-n5a5a82-rdc0000-ye8c000/sett.png)|
-| [Unidentified Plaid 3](/tartans/n/10/dr130/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n20/y16/r3/n/126/)|
-|![Unidentified Plaid 3 example sett](/variants/n/10/dr130/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n4/y4/n20/y16/r3/n/126-dr401000-n606080-rc00000-yf0c000/sett.png)|
+| [Unidentified Plaid #13](/setts/s23/b10ba130y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b20y16r3b126-b5a5a82-ba2a2303-rdc0000-ye8c000/)|
+|![Unidentified Plaid #13 example sett](/setts/s23/b10ba130y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b20y16r3b126-b5a5a82-ba2a2303-rdc0000-ye8c000/sett.png)|
+| [Unidentified Plaid 3](/setts/s23/b10ba130y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b20y16r3b126-b606080-ba401000-rc00000-yf0c000/)|
+|![Unidentified Plaid 3 example sett](/setts/s23/b10ba130y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b20y16r3b126-b606080-ba401000-rc00000-yf0c000/sett.png)|

@@ -16,5 +16,5 @@ BGBRBKWKGRGGG
 
 | Tartans |
 |---------------|
-| [Redgate (Name)](/tartans/b/21/t10/b18/dr6/b18/k20/lr2/k20/g12/dr6/g12/t8/g/2/)|
-|![Redgate (Name) example sett](/variants/b/21/t10/b18/dr6/b18/k20/lr2/k20/g12/dr6/g12/t8/g/2-b5c8ca8-dr880000-g00643c-k101010-lre8ccb8-t604000/sett.png)|
+| [Redgate (Name)](/setts/s13/b21g10b18r6b18k20w2k20ga12r6ga12g8ga2-b5c8ca8-g604000-ga00643c-k101010-r880000-we8ccb8/)|
+|![Redgate (Name) example sett](/setts/s13/b21g10b18r6b18k20w2k20ga12r6ga12g8ga2-b5c8ca8-g604000-ga00643c-k101010-r880000-we8ccb8/sett.png)|

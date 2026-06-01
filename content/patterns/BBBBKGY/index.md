@@ -6,7 +6,7 @@ BBBBKGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/p/22/b4/ba8/b42/k32/g38/y/8-b2c4084-ba3c82af-g005020-k101010-p5a008c-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b22ba4bb8ba42k32g38y8-b5a008c-ba2c4084-bb3c82af-g005020-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,13 +18,15 @@ BBBBKGY
 
 | Tartans |
 |---------------|
-| [Ayrshire (International Tartans)](/tartans/p/22/b4/ba8/b42/k32/g38/y/8/)|
-|![Ayrshire (International Tartans) example sett](/variants/p/22/b4/ba8/b42/k32/g38/y/8-b2c4084-ba3c82af-g005020-k101010-p5a008c-ye8c000/sett.png)|
-| [East Lothian](/tartans/b/12/db34/p8/db4/k22/g6/y/8/)|
-|![East Lothian example sett](/variants/b/12/db34/p8/db4/k22/g6/y/8-b5c8ca8-db2c2c80-g006818-k101010-p780078-ye8c000/sett.png)|
-| [Renfrewshire](/tartans/p/8/db4/b16/db50/k16/g26/y/8/)|
-|![Renfrewshire example sett](/variants/p/8/db4/b16/db50/k16/g26/y/8-b5c8ca8-db2c2c80-g006818-k101010-p780078-ye8c000/sett.png)|
-| [East Lothian](/tartans/ba/12/b34/p8/b4/k22/g66/y/8/)|
-|![East Lothian example sett](/variants/ba/12/b34/p8/b4/k22/g66/y/8-b304080-ba5480b0-g008000-k000000-p800080-yf0c000/sett.png)|
-| [Renfrewshire Tartan](/tartans/p/8/b4/ba16/b50/k16/g26/y/8/)|
-|![Renfrewshire Tartan example sett](/variants/p/8/b4/ba16/b50/k16/g26/y/8-b304080-ba5480b0-g008000-k000000-p800080-yf0c000/sett.png)|
+| [Ayrshire (International Tartans)](/setts/s7/b22ba4bb8ba42k32g38y8-b5a008c-ba2c4084-bb3c82af-g005020-k101010-ye8c000/)|
+|![Ayrshire (International Tartans) example sett](/setts/s7/b22ba4bb8ba42k32g38y8-b5a008c-ba2c4084-bb3c82af-g005020-k101010-ye8c000/sett.png)|
+| [East Lothian](/setts/s7/b12ba34bb8ba4k22g6y8-b5c8ca8-ba2c2c80-bb780078-g006818-k101010-ye8c000/)|
+|![East Lothian example sett](/setts/s7/b12ba34bb8ba4k22g6y8-b5c8ca8-ba2c2c80-bb780078-g006818-k101010-ye8c000/sett.png)|
+| [Renfrewshire](/setts/s7/b8ba4bb16ba50k16g26y8-b780078-ba2c2c80-bb5c8ca8-g006818-k101010-ye8c000/)|
+|![Renfrewshire example sett](/setts/s7/b8ba4bb16ba50k16g26y8-b780078-ba2c2c80-bb5c8ca8-g006818-k101010-ye8c000/sett.png)|
+| [Ayrshire](/setts/s7/b22ba4bb8ba42k32g38y8-b800080-ba304080-bb5480b0-g008000-k000000-yf0c000/)|
+|![Ayrshire example sett](/setts/s7/b22ba4bb8ba42k32g38y8-b800080-ba304080-bb5480b0-g008000-k000000-yf0c000/sett.png)|
+| [East Lothian](/setts/s7/b12ba34bb8ba4k22g66y8-b5480b0-ba304080-bb800080-g008000-k000000-yf0c000/)|
+|![East Lothian example sett](/setts/s7/b12ba34bb8ba4k22g66y8-b5480b0-ba304080-bb800080-g008000-k000000-yf0c000/sett.png)|
+| [Renfrewshire Tartan](/setts/s7/b8ba4bb16ba50k16g26y8-b800080-ba304080-bb5480b0-g008000-k000000-yf0c000/)|
+|![Renfrewshire Tartan example sett](/setts/s7/b8ba4bb16ba50k16g26y8-b800080-ba304080-bb5480b0-g008000-k000000-yf0c000/sett.png)|

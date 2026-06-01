@@ -16,5 +16,5 @@ BKBKBKBKBYK
 
 | Tartans |
 |---------------|
-| [Churchill (Personal)](/tartans/db/24/k2/b4/k2/dba18/k14/p4/k4/p4/y2/r/4/)|
-|![Churchill (Personal) example sett](/variants/db/24/k2/b4/k2/dba18/k14/p4/k4/p4/y2/r/4-b5c8ca8-db202060-dba2c2c80-k101010-p780078-ye8c000/sett.png)|
+| [Churchill (Personal)](/setts/s11/b48k4ba8k4bb36k28bc8k8bc8y4ka8-b202060-ba5c8ca8-bb2c2c80-bc780078-k101010-ka000000-ye8c000/)|
+|![Churchill (Personal) example sett](/setts/s11/b48k4ba8k4bb36k28bc8k8bc8y4ka8-b202060-ba5c8ca8-bb2c2c80-bc780078-k101010-ka000000-ye8c000/sett.png)|

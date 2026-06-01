@@ -6,7 +6,7 @@ BKBKBGBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/4/k4/b36/k26/b2/g32/b2/k/4-b5480b0-g008000-k000000/tartan.png)
+![Woven sample](/setts/s8/b4k4b36k26b2g32b2k4-b5480b0-g008000-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKBGBK
 
 | Tartans |
 |---------------|
-| [Hebridean Old](/tartans/b/4/k4/b36/k26/b2/g32/b2/k/4/)|
-|![Hebridean Old example sett](/variants/b/4/k4/b36/k26/b2/g32/b2/k/4-b5480b0-g008000-k000000/sett.png)|
+| [Hebridean Old](/setts/s8/b4k4b36k26b2g32b2k4-b5480b0-g008000-k000000/)|
+|![Hebridean Old example sett](/setts/s8/b4k4b36k26b2g32b2k4-b5480b0-g008000-k000000/sett.png)|

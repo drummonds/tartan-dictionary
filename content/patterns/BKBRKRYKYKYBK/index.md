@@ -16,5 +16,5 @@ BKBRKRYKYKYBK
 
 | Tartans |
 |---------------|
-| [Franklin (District)](/tartans/db/2/k2/db12/dr6/k4/dr6/do10/k2/do4/k2/do10/db6/k/4/)|
-|![Franklin (District) example sett](/variants/db/2/k2/db12/dr6/k4/dr6/do10/k2/do4/k2/do10/db6/k/4-db2c2c80-doc8804c-dr880000-k101010/sett.png)|
+| [Franklin (District)](/setts/s13/b4k4b24r12k8r12y20k4y8k4y20b12k8-b2c2c80-k101010-r880000-yc8804c/)|
+|![Franklin (District) example sett](/setts/s13/b4k4b24r12k8r12y20k4y8k4y20b12k8-b2c2c80-k101010-r880000-yc8804c/sett.png)|

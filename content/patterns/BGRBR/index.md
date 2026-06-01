@@ -6,7 +6,7 @@ BGRBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/dr/6/g18/dra6/dr18/dra/74-dr441800-dra880000-g006818/tartan.png)
+![Woven sample](/setts/s5/b6g18r6b18r74-b441800-g006818-r880000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRBR
 
 | Tartans |
 |---------------|
-| [Glen Shee #1 (Fashion)](/tartans/dr/6/g18/dra6/dr18/dra/74/)|
-|![Glen Shee #1 (Fashion) example sett](/variants/dr/6/g18/dra6/dr18/dra/74-dr441800-dra880000-g006818/sett.png)|
+| [Glen Shee #1 (Fashion)](/setts/s5/b6g18r6b18r74-b441800-g006818-r880000/)|
+|![Glen Shee #1 (Fashion) example sett](/setts/s5/b6g18r6b18r74-b441800-g006818-r880000/sett.png)|

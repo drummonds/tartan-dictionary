@@ -16,5 +16,5 @@ BBRYRYRBW
 
 | Tartans |
 |---------------|
-| [Khosla, Sarah and Justin (Personal)](/tartans/p/8/n20/ra36/lg6/ra6/lg10/r16/n18/w/8/)|
-|![Khosla, Sarah and Justin (Personal) example sett](/variants/p/8/n20/ra36/lg6/ra6/lg10/r16/n18/w/8-lgc4bc68-n5c5c5c-p780078-rc80050-raa00048-wfcfcfc/sett.png)|
+| [Khosla, Sarah and Justin (Personal)](/setts/s9/b8ba20r36y6r6y10ra16ba18w8-b780078-ba5c5c5c-ra00048-rac80050-wfcfcfc-yc4bc68/)|
+|![Khosla, Sarah and Justin (Personal) example sett](/setts/s9/b8ba20r36y6r6y10ra16ba18w8-b780078-ba5c5c5c-ra00048-rac80050-wfcfcfc-yc4bc68/sett.png)|

@@ -16,7 +16,9 @@ BKBKBKBKBKBKBKBK
 
 | Tartans |
 |---------------|
-| [Dark Island](/tartans/k/8/ka4/k86/ka40/k8/ka4/k4/ka8/k4/ka4/k8/ka40/k86/ka4/k8/ka/4/)|
-|![Dark Island example sett](/variants/k/8/ka4/k86/ka40/k8/ka4/k4/ka8/k4/ka4/k8/ka40/k86/ka4/k8/ka/4-k101010-ka282828/sett.png)|
-| [Saul (Personal)](/tartans/dbb/20/k4/dbb4/k8/b10/k12/b12/k8/b12/k12/b10/k8/dbb4/k4/dbb20/k/8/)|
-|![Saul (Personal) example sett](/variants/dbb/20/k4/dbb4/k8/b10/k12/b12/k8/b12/k12/b10/k8/dbb4/k4/dbb20/k/8-b1474b4-db202060-dba1c0070-dbb2c2c80-k101010/sett.png)|
+| [Dark Island](/setts/s16/b4k8b4k86b40k8b4k4b8k4b4k8b40k86b4k8-b282828-k101010/)|
+|![Dark Island example sett](/setts/s16/b4k8b4k86b40k8b4k4b8k4b4k8b40k86b4k8-b282828-k101010/sett.png)|
+| [Saul (Personal)](/setts/s16/b40k8b8k16ba20k24ba24k16ba24k24ba20k16b8k8b40k16-b2c2c80-ba1474b4-k101010/)|
+|![Saul (Personal) example sett](/setts/s16/b40k8b8k16ba20k24ba24k16ba24k24ba20k16b8k8b40k16-b2c2c80-ba1474b4-k101010/sett.png)|
+| [Dark Island Black Weavers Tartan Tartan Number: 5832. Earliest known date: May 2003 A Solid Sett* tartan and an innovative departure from conventional tartan design. An ecru (white) yarn has been woven on a Jacquard loom with the sett being formed by stitches other than 2/2 twill and then the finished fabric has been piece-dyed black. The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/b4k8b4k86b40k8b4k4b8k4b4k8b40k86b4k8-b1c1c1c-k101010/)|
+|![Dark Island Black Weavers Tartan Tartan Number: 5832. Earliest known date: May 2003 A Solid Sett* tartan and an innovative departure from conventional tartan design. An ecru (white) yarn has been woven on a Jacquard loom with the sett being formed by stitches other than 2/2 twill and then the finished fabric has been piece-dyed black. The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s16/b4k8b4k86b40k8b4k4b8k4b4k8b40k86b4k8-b1c1c1c-k101010/sett.png)|

@@ -16,5 +16,5 @@ BKBBBGGGGGGGKBBBK
 
 | Tartans |
 |---------------|
-| [Sandilands-Watson (Personal)](/tartans/db/48/k4/db4/p4/db4/dg32/n2/dg4/n6/dg4/n2/dg32/k40/db4/p4/db4/k/4/)|
-|![Sandilands-Watson (Personal) example sett](/variants/db/48/k4/db4/p4/db4/dg32/n2/dg4/n6/dg4/n2/dg32/k40/db4/p4/db4/k/4-db000048-dg003c14-k101010-n808080-p64008c/sett.png)|
+| [Sandilands-Watson (Personal)](/setts/s17/b48k4b4ba4b4g32ga2g4ga6g4ga2g32k40b4ba4b4k4-b000048-ba64008c-g003c14-ga808080-k101010/)|
+|![Sandilands-Watson (Personal) example sett](/setts/s17/b48k4b4ba4b4g32ga2g4ga6g4ga2g32k40b4ba4b4k4-b000048-ba64008c-g003c14-ga808080-k101010/sett.png)|

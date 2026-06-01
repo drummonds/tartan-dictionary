@@ -6,7 +6,7 @@ BBGBYB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/40/k8/n10/nb28/na2/b/4-b667aa3-k292929-n6f8070-naccc7ad-nb683c66/tartan.png)
+![Woven sample](/setts/s6/b40ba8g10bb28y2b4-b667aa3-ba292929-bb683c66-g6f8070-yccc7ad/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBGBYB
 
 | Tartans |
 |---------------|
-| [Riley's Theme](/tartans/b/40/k8/n10/nb28/na2/b/4/)|
-|![Riley's Theme example sett](/variants/b/40/k8/n10/nb28/na2/b/4-b667aa3-k292929-n6f8070-naccc7ad-nb683c66/sett.png)|
+| [Riley's Theme](/setts/s6/b40ba8g10bb28y2b4-b667aa3-ba292929-bb683c66-g6f8070-yccc7ad/)|
+|![Riley's Theme example sett](/setts/s6/b40ba8g10bb28y2b4-b667aa3-ba292929-bb683c66-g6f8070-yccc7ad/sett.png)|
+| [Riley's Theme Commemorative Tartan Tartan Number: 10657. Earliest known date: 04/07/2012 This tartan was created for Riley Hagel as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b40ba8g10bb28y2b4-b667aa3-ba292929-bb683c66-g6f8070-yccc7ad/)|
+|![Riley's Theme Commemorative Tartan Tartan Number: 10657. Earliest known date: 04/07/2012 This tartan was created for Riley Hagel as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b40ba8g10bb28y2b4-b667aa3-ba292929-bb683c66-g6f8070-yccc7ad/sett.png)|

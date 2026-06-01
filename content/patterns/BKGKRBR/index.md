@@ -6,7 +6,7 @@ BKGKRBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dr/80/dra8/dr4/drb4/n4/drb45/na/8-dr76333a-dra430506-drb2f0200-n6c6964-na42333a/tartan.png)
+![Woven sample](/setts/s7/b8k45g4k4r4ba8r80-b42333a-ba430506-g6c6964-k2f0200-r76333a/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGKRBR
 
 | Tartans |
 |---------------|
-| [Isaia](/tartans/dr/80/dra8/dr4/drb4/n4/drb45/na/8/)|
-|![Isaia example sett](/variants/dr/80/dra8/dr4/drb4/n4/drb45/na/8-dr76333a-dra430506-drb2f0200-n6c6964-na42333a/sett.png)|
+| [Isaia](/setts/s7/b8k45g4k4r4ba8r80-b42333a-ba430506-g6c6964-k2f0200-r76333a/)|
+|![Isaia example sett](/setts/s7/b8k45g4k4r4ba8r80-b42333a-ba430506-g6c6964-k2f0200-r76333a/sett.png)|

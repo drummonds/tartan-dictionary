@@ -16,5 +16,5 @@ BGRKWBWKYKRGRKYKWBWK
 
 | Tartans |
 |---------------|
-| [Wcwm 9275-1572-2](/tartans/dr/8/g12/dra4/k12/n4/dr8/n4/k12/dy2/k4/dra4/g4/dra4/k4/dy2/k12/n4/dr8/n4/k/224/)|
-|![Wcwm 9275-1572-2 example sett](/variants/dr/8/g12/dra4/k12/n4/dr8/n4/k12/dy2/k4/dra4/g4/dra4/k4/dy2/k12/n4/dr8/n4/k/224-dr441800-dra880000-dyd09800-g006818-k101010-nc0c0c0/sett.png)|
+| [Wcwm 9275-1572-2](/setts/s20/b8g12r4k12w4b8w4k12y2k4r4g4r4k4y2k12w4b8w4k224-b441800-g006818-k101010-r880000-wc0c0c0-yd09800/)|
+|![Wcwm 9275-1572-2 example sett](/setts/s20/b8g12r4k12w4b8w4k12y2k4r4g4r4k4y2k12w4b8w4k224-b441800-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|

@@ -16,7 +16,11 @@ BKBKGKWBWB
 
 | Tartans |
 |---------------|
-| [Baird Dress](/tartans/db/8/k8/db46/k24/g20/k2/ln46/p4/ln4/p/8/)|
-|![Baird Dress example sett](/variants/db/8/k8/db46/k24/g20/k2/ln46/p4/ln4/p/8-db2c2c80-g006818-k101010-lne0e0e0-p780078/sett.png)|
-| [Baird, dress](/tartans/b/8/k8/b46/k24/g20/k2/ln46/p4/ln4/p/8/)|
-|![Baird, dress example sett](/variants/b/8/k8/b46/k24/g20/k2/ln46/p4/ln4/p/8-b304080-g008000-k000000-lne0e0e0-p800080/sett.png)|
+| [Baird Dress](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b2c2c80-ba780078-g006818-k101010-we0e0e0/)|
+|![Baird Dress example sett](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b2c2c80-ba780078-g006818-k101010-we0e0e0/sett.png)|
+| [Baird Dress (Clan)](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b2c2c80-ba780078-g006818-k101010-we0e0e0/)|
+|![Baird Dress (Clan) example sett](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b2c2c80-ba780078-g006818-k101010-we0e0e0/sett.png)|
+| [Baird, dress](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b304080-ba800080-g008000-k000000-we0e0e0/)|
+|![Baird, dress example sett](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b304080-ba800080-g008000-k000000-we0e0e0/sett.png)|
+| [Baird Dress Clan Tartan Tartan Number: 233. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b2c2c80-ba780078-g006818-k101010-we0e0e0/)|
+|![Baird Dress Clan Tartan Tartan Number: 233. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b2c2c80-ba780078-g006818-k101010-we0e0e0/sett.png)|

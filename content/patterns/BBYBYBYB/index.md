@@ -6,7 +6,7 @@ BBYBYBYB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/4/y48/db4/y3/db2/y3/db3/dba/6-db202060-dba202060-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b4y48b4y3b2y3b3b6-b202060-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYBYBYB
 
 | Tartans |
 |---------------|
-| [Morris (Welsh Name)](/tartans/db/4/y48/db4/y3/db2/y3/db3/dba/6/)|
-|![Morris (Welsh Name) example sett](/variants/db/4/y48/db4/y3/db2/y3/db3/dba/6-db202060-dba202060-ye8c000/sett.png)|
+| [Morris (Welsh Name)](/setts/s8/b4y48b4y3b2y3b3b6-b202060-ye8c000/)|
+|![Morris (Welsh Name) example sett](/setts/s8/b4y48b4y3b2y3b3b6-b202060-ye8c000/sett.png)|

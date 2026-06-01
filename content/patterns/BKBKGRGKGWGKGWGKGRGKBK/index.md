@@ -16,5 +16,5 @@ BKBKGRGKGWGKGWGKGRGKBK
 
 | Tartans |
 |---------------|
-| [Lloyd of Dolobran (Personal)](/tartans/db/10/k2/db10/k10/g8/r2/g8/k2/g8/w2/g8/k20/g8/w2/g8/k2/g8/r2/g8/k10/db10/k/2/)|
-|![Lloyd of Dolobran (Personal) example sett](/variants/db/10/k2/db10/k10/g8/r2/g8/k2/g8/w2/g8/k20/g8/w2/g8/k2/g8/r2/g8/k10/db10/k/2-db2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Lloyd of Dolobran (Personal)](/setts/s22/b20k4b20k20g16r4g16k4g16w4g16k40g16w4g16k4g16r4g16k20b20k4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![Lloyd of Dolobran (Personal) example sett](/setts/s22/b20k4b20k20g16r4g16k4g16w4g16k40g16w4g16k4g16r4g16k20b20k4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|

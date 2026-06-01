@@ -16,5 +16,5 @@ BBKBBKBBKBBKBBKBBKWBWKGWGKWRYYYYYYYY
 
 | Tartans |
 |---------------|
-| [Am Yisrael Chai](/tartans/p/2/b4/k2/p2/b4/k2/p2/b4/k2/p2/b4/k2/p2/b4/k2/p2/b4/k2/w54/b54/w12/k6/n4/w2/n4/k6/w4/dr18/dy4/y2/dy4/y2/dy4/y2/dy4/y/2/)|
-|![Am Yisrael Chai example sett](/variants/p/2/b4/k2/p2/b4/k2/p2/b4/k2/p2/b4/k2/p2/b4/k2/p2/b4/k2/w54/b54/w12/k6/n4/w2/n4/k6/w4/dr18/dy4/y2/dy4/y2/dy4/y2/dy4/y/2-b0000ff-dr8b0000-dyb8860b-k000000-n808080-p9966cc-wffffff-ydaa520/sett.png)|
+| [Am Yisrael Chai](/setts/s36/b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2w54ba54w12k6g4w2g4k6w4r18y4ya2y4ya2y4ya2y4ya2-b9966cc-ba0000ff-g808080-k000000-r8b0000-wffffff-yb8860b-yadaa520/)|
+|![Am Yisrael Chai example sett](/setts/s36/b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2b2ba4k2w54ba54w12k6g4w2g4k6w4r18y4ya2y4ya2y4ya2y4ya2-b9966cc-ba0000ff-g808080-k000000-r8b0000-wffffff-yb8860b-yadaa520/sett.png)|

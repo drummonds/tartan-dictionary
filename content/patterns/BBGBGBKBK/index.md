@@ -16,5 +16,7 @@ BBGBGBKBK
 
 | Tartans |
 |---------------|
-| [Orman (Midlothian) (Personal)](/tartans/k/20/db6/k6/db64/g2/db2/g2/db4/n/4/)|
-|![Orman (Midlothian) (Personal) example sett](/variants/k/20/db6/k6/db64/g2/db2/g2/db4/n/4-db14146a-g085e23-k101010-n544e4f/sett.png)|
+| [Orman (Midlothian) (Personal)](/setts/s9/b4ba4g2ba2g2ba64k6ba6k20-b544e4f-ba14146a-g085e23-k101010/)|
+|![Orman (Midlothian) (Personal) example sett](/setts/s9/b4ba4g2ba2g2ba64k6ba6k20-b544e4f-ba14146a-g085e23-k101010/sett.png)|
+| [Orman (Midlothian) (Personal) Name Tartan Tartan Number: 10744. Earliest known date: 26/07/2012 Designed by Geoffrey (Tailor) Highland Crafts for Kevin Orman whose ancestors were from Midlothian, The colours reflect his personal preference. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b4ba4g2ba2g2ba64k6ba6k20-b544e4f-ba14146a-g085e23-k101010/)|
+|![Orman (Midlothian) (Personal) Name Tartan Tartan Number: 10744. Earliest known date: 26/07/2012 Designed by Geoffrey (Tailor) Highland Crafts for Kevin Orman whose ancestors were from Midlothian, The colours reflect his personal preference. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/b4ba4g2ba2g2ba64k6ba6k20-b544e4f-ba14146a-g085e23-k101010/sett.png)|

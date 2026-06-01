@@ -6,7 +6,7 @@ BGWGWGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/6/n2/ln2/n50/ln2/n2/p/6-b304080-lne0e0e0-n808080-p800080/tartan.png)
+![Woven sample](/setts/s7/b6g2w2g50w2g2ba6-b304080-ba800080-g808080-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGWGWGB
 
 | Tartans |
 |---------------|
-| [St Giles, Check](/tartans/b/6/n2/ln2/n50/ln2/n2/p/6/)|
-|![St Giles, Check example sett](/variants/b/6/n2/ln2/n50/ln2/n2/p/6-b304080-lne0e0e0-n808080-p800080/sett.png)|
+| [St Giles, Check](/setts/s7/b6g2w2g50w2g2ba6-b304080-ba800080-g808080-we0e0e0/)|
+|![St Giles, Check example sett](/setts/s7/b6g2w2g50w2g2ba6-b304080-ba800080-g808080-we0e0e0/sett.png)|

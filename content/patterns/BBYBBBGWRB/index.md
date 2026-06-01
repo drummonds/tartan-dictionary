@@ -16,5 +16,5 @@ BBYBBBGWRB
 
 | Tartans |
 |---------------|
-| [Corryvrechan Dress (Corporate)](/tartans/b/80/db24/y4/db4/b4/db4/g12/ln42/r4/b/4/)|
-|![Corryvrechan Dress (Corporate) example sett](/variants/b/80/db24/y4/db4/b4/db4/g12/ln42/r4/b/4-b2888c4-db202060-g006818-lne0e0e0-rc80000-yfccc00/sett.png)|
+| [Corryvrechan Dress (Corporate)](/setts/s10/b4r4w42g12ba4b4ba4y4ba24b80-b2888c4-ba202060-g006818-rc80000-we0e0e0-yfccc00/)|
+|![Corryvrechan Dress (Corporate) example sett](/setts/s10/b4r4w42g12ba4b4ba4y4ba24b80-b2888c4-ba202060-g006818-rc80000-we0e0e0-yfccc00/sett.png)|

@@ -16,7 +16,7 @@ BKGBKGRBGKY
 
 | Tartans |
 |---------------|
-| [Amarillo](/tartans/db/36/k4/ga4/db18/k8/g18/dr8/db18/ga4/k4/dy/2/)|
-|![Amarillo example sett](/variants/db/36/k4/ga4/db18/k8/g18/dr8/db18/ga4/k4/dy/2-db003c64-dra00000-dybc8c00-g006818-ga408060-k101010/sett.png)|
-| [Amarillo (District)](/tartans/db/36/k4/g4/db18/k8/ga18/dr8/db18/g4/k4/dy/2/)|
-|![Amarillo (District) example sett](/variants/db/36/k4/g4/db18/k8/ga18/dr8/db18/g4/k4/dy/2-db003c64-dra00000-dybc8c00-g408060-ga006818-k101010/sett.png)|
+| [Amarillo](/setts/s11/b72k8g8b36k16ga36r16b36g8k8y4-b003c64-g408060-ga006818-k101010-ra00000-ybc8c00/)|
+|![Amarillo example sett](/setts/s11/b72k8g8b36k16ga36r16b36g8k8y4-b003c64-g408060-ga006818-k101010-ra00000-ybc8c00/sett.png)|
+| [Amarillo (District)](/setts/s11/b72k8g8b36k16ga36r16b36g8k8y4-b003c64-g408060-ga006818-k101010-ra00000-ybc8c00/)|
+|![Amarillo (District) example sett](/setts/s11/b72k8g8b36k16ga36r16b36g8k8y4-b003c64-g408060-ga006818-k101010-ra00000-ybc8c00/sett.png)|

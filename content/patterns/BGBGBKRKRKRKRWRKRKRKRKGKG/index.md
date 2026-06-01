@@ -16,5 +16,5 @@ BGBGBKRKRKRKRWRKRKRKRKGKG
 
 | Tartans |
 |---------------|
-| [Arran](/tartans/n/18/k10/n38/k28/r4/k8/r6/k6/r8/k4/r10/ln6/r10/k4/r8/k6/r6/k8/r4/k28/p8/g8/p8/g8/p/160/)|
-|![Arran example sett](/variants/n/18/k10/n38/k28/r4/k8/r6/k6/r8/k4/r10/ln6/r10/k4/r8/k6/r6/k8/r4/k28/p8/g8/p8/g8/p/160-g008000-k000000-lne0e0e0-n808080-p800080-rc00000/sett.png)|
+| [Arran](/setts/s25/b160g8b8g8b8k28r4k8r6k6r8k4r10w6r10k4r8k6r6k8r4k28ga38k10ga18-b800080-g008000-ga808080-k000000-rc00000-we0e0e0/)|
+|![Arran example sett](/setts/s25/b160g8b8g8b8k28r4k8r6k6r8k4r10w6r10k4r8k6r6k8r4k28ga38k10ga18-b800080-g008000-ga808080-k000000-rc00000-we0e0e0/sett.png)|

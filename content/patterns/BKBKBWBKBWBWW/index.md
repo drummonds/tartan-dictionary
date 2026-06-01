@@ -16,5 +16,5 @@ BKBKBWBKBWBWW
 
 | Tartans |
 |---------------|
-| [Life Goes on Foundation](/tartans/ly/4/lb18/p5/lb5/p5/k10/p5/n5/p32/k4/p5/k4/p/12/)|
-|![Life Goes on Foundation example sett](/variants/ly/4/lb18/p5/lb5/p5/k10/p5/n5/p32/k4/p5/k4/p/12-k101010-lb98d0f0-lyfafa96-nc0c0c0-pa000f0/sett.png)|
+| [Life Goes on Foundation](/setts/s13/b12k4b5k4b32w5b5k10b5wa5b5wa18wb4-ba000f0-k101010-wc0c0c0-wa98d0f0-wbfafa96/)|
+|![Life Goes on Foundation example sett](/setts/s13/b12k4b5k4b32w5b5k10b5wa5b5wa18wb4-ba000f0-k101010-wc0c0c0-wa98d0f0-wbfafa96/sett.png)|

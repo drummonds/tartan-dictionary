@@ -6,7 +6,7 @@ BKBBRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/ba/2/k8/ba8/b4/lt16/r/4-b304080-ba5480b0-k000000-lt806050-rc00000/tartan.png)
+![Woven sample](/setts/s6/b6k24b24ba12r48ra12-b5480b0-ba304080-k000000-r806050-rac00000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBBRR
 
 | Tartans |
 |---------------|
-| [Thom(p)son's, Fancy](/tartans/ba/2/k8/ba8/b4/lt16/r/4/)|
-|![Thom(p)son's, Fancy example sett](/variants/ba/2/k8/ba8/b4/lt16/r/4-b304080-ba5480b0-k000000-lt806050-rc00000/sett.png)|
+| [Thom(p)son's, Fancy](/setts/s6/b6k24b24ba12r48ra12-b5480b0-ba304080-k000000-r806050-rac00000/)|
+|![Thom(p)son's, Fancy example sett](/setts/s6/b6k24b24ba12r48ra12-b5480b0-ba304080-k000000-r806050-rac00000/sett.png)|

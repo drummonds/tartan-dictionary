@@ -6,7 +6,7 @@ BBBBBBKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dr/4/k14/db14/n2/db2/n2/db2/n/18-db1c0070-dr880000-k101010-n5c5c5c/tartan.png)
+![Woven sample](/setts/s8/b36ba4b4ba4b4ba28k28r8-b5c5c5c-ba1c0070-k101010-r880000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBBBKR
 
 | Tartans |
 |---------------|
-| [Caledonian Hotel (Corporate)](/tartans/dr/4/k14/db14/n2/db2/n2/db2/n/18/)|
-|![Caledonian Hotel (Corporate) example sett](/variants/dr/4/k14/db14/n2/db2/n2/db2/n/18-db1c0070-dr880000-k101010-n5c5c5c/sett.png)|
+| [Caledonian Hotel (Corporate)](/setts/s8/b36ba4b4ba4b4ba28k28r8-b5c5c5c-ba1c0070-k101010-r880000/)|
+|![Caledonian Hotel (Corporate) example sett](/setts/s8/b36ba4b4ba4b4ba28k28r8-b5c5c5c-ba1c0070-k101010-r880000/sett.png)|

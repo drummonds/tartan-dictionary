@@ -16,7 +16,9 @@ BGYGYGRYW
 
 | Tartans |
 |---------------|
-| [Gallagher Ancient](/tartans/db/8/ga82/lt8/g8/lt8/g18/lr36/lt8/ln/8/)|
-|![Gallagher Ancient example sett](/variants/db/8/ga82/lt8/g8/lt8/g18/lr36/lt8/ln/8-db202060-g008c54-ga005448-lne0e0e0-lre87878-lta08858/sett.png)|
-| [Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/8/ga82/lt8/g8/lt8/g18/o36/lt8/ln/8/)|
-|![Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/8/ga82/lt8/g8/lt8/g18/o36/lt8/ln/8-db202060-dg003820-g008c54-ga005448-lne0e0e0-lta08858-n406054-odc6854/sett.png)|
+| [Gallagher Ancient](/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-re87878-we0e0e0-ya08858/)|
+|![Gallagher Ancient example sett](/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-re87878-we0e0e0-ya08858/sett.png)|
+| [Gallagher Ancient (Fashion)](/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-re87878-we0e0e0-ya08858/)|
+|![Gallagher Ancient (Fashion) example sett](/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-re87878-we0e0e0-ya08858/sett.png)|
+| [Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-rdc6854-we0e0e0-ya08858/)|
+|![Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-rdc6854-we0e0e0-ya08858/sett.png)|

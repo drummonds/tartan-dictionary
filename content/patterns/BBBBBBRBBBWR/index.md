@@ -16,5 +16,5 @@ BBBBBBRBBBWR
 
 | Tartans |
 |---------------|
-| [Royal Navy](/tartans/db/4/p8/db3/p2/db64/b24/r4/dba3/b4/dba3/ln8/r/4/)|
-|![Royal Navy example sett](/variants/db/4/p8/db3/p2/db64/b24/r4/dba3/b4/dba3/ln8/r/4-b3c82af-db141e46-dba000064-lne0e0e0-p5a008c-rdc0000/sett.png)|
+| [Royal Navy](/setts/s12/b4ba8b3ba2b64bb24r4bc3bb4bc3w8r4-b141e46-ba5a008c-bb3c82af-bc000064-rdc0000-we0e0e0/)|
+|![Royal Navy example sett](/setts/s12/b4ba8b3ba2b64bb24r4bc3bb4bc3w8r4-b141e46-ba5a008c-bb3c82af-bc000064-rdc0000-we0e0e0/sett.png)|

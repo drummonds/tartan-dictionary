@@ -16,7 +16,9 @@ BKBKBKGKGKBKBGKGKBKB
 
 | Tartans |
 |---------------|
-| [Black Watch](/tartans/db/24/k2/db2/k2/db2/k16/g16/k2/g16/k16/db16/k2/db2/g12/k2/g12/k6/db8/k2/db/2/)|
-|![Black Watch example sett](/variants/db/24/k2/db2/k2/db2/k16/g16/k2/g16/k16/db16/k2/db2/g12/k2/g12/k6/db8/k2/db/2-db00004c-g004c00-k000000/sett.png)|
-| [Black Watch](/tartans/db/2/k2/db18/k16/dg20/k4/dg20/dba4/k4/dba32/k32/dg32/k4/dg32/k32/dba4/k4/dba4/k4/dba/44/)|
-|![Black Watch example sett](/variants/db/2/k2/db18/k16/dg20/k4/dg20/dba4/k4/dba32/k32/dg32/k4/dg32/k32/dba4/k4/dba4/k4/dba/44-db000052-dba000052-dg11450d-k000000/sett.png)|
+| [Black Watch](/setts/s20/b12k1b1k1b1k8g8k1g8k8b8k1b1g6k1g6k3b4k1b1-b00004c-g004c00-k000000/)|
+|![Black Watch example sett](/setts/s20/b12k1b1k1b1k8g8k1g8k8b8k1b1g6k1g6k3b4k1b1-b00004c-g004c00-k000000/sett.png)|
+| [Black Watch](/setts/s20/b2k2b18k16g20k4g20b4k4b32k32g32k4g32k32b4k4b4k4b44-b000052-g11450d-k000000/)|
+|![Black Watch example sett](/setts/s20/b2k2b18k16g20k4g20b4k4b32k32g32k4g32k32b4k4b4k4b44-b000052-g11450d-k000000/sett.png)|
+| [Black Watch](/setts/s20/b2k2b18k16g20k4g20b4k4b32k32g32k4g32k32b4k4b4k4b44-b000052-g11450d-k000000/)|
+|![Black Watch example sett](/setts/s20/b2k2b18k16g20k4g20b4k4b32k32g32k4g32k32b4k4b4k4b44-b000052-g11450d-k000000/sett.png)|

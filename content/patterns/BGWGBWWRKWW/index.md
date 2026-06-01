@@ -16,5 +16,5 @@ BGWGBWWRKWW
 
 | Tartans |
 |---------------|
-| [World Peace](/tartans/db/16/dg16/w6/dg16/db16/w6/lp80/dr6/k6/lp80/w/6/)|
-|![World Peace example sett](/variants/db/16/dg16/w6/dg16/db16/w6/lp80/dr6/k6/lp80/w/6-db3d2e60-dg052f14-dr89051b-k120a01-lp96aed3-wf7f1e8/sett.png)|
+| [World Peace](/setts/s11/b16g16w6g16b16w6wa80r6k6wa80w6-b3d2e60-g052f14-k120a01-r89051b-wf7f1e8-wa96aed3/)|
+|![World Peace example sett](/setts/s11/b16g16w6g16b16w6wa80r6k6wa80w6-b3d2e60-g052f14-k120a01-r89051b-wf7f1e8-wa96aed3/sett.png)|

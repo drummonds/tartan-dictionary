@@ -6,7 +6,7 @@ BKBGYG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/8/k8/db48/dg64/n2/dg/4-db000052-dg11450d-k000000-naaaaaa/tartan.png)
+![Woven sample](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKBGYG
 
 | Tartans |
 |---------------|
-| [Oliphant](/tartans/db/8/k8/db48/dg64/n2/dg/4/)|
-|![Oliphant example sett](/variants/db/8/k8/db48/dg64/n2/dg/4-db000052-dg11450d-k000000-naaaaaa/sett.png)|
+| [Oliphant](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/)|
+|![Oliphant example sett](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/sett.png)|
+| [Oliphant](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/)|
+|![Oliphant example sett](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/sett.png)|

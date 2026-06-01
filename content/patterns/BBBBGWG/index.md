@@ -6,7 +6,7 @@ BBBBGWG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/52/g12/db4/g34/t8/w2/t/8-db000064-g0c5454-t343400-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b104ba24b8ba68g16w4g16-b000064-ba0c5454-g343400-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBBGWG
 
 | Tartans |
 |---------------|
-| [Doral](/tartans/db/52/g12/db4/g34/t8/w2/t/8/)|
-|![Doral example sett](/variants/db/52/g12/db4/g34/t8/w2/t/8-db000064-g0c5454-t343400-wfcfcfc/sett.png)|
+| [Doral](/setts/s7/b104ba24b8ba68g16w4g16-b000064-ba0c5454-g343400-wfcfcfc/)|
+|![Doral example sett](/setts/s7/b104ba24b8ba68g16w4g16-b000064-ba0c5454-g343400-wfcfcfc/sett.png)|
+| [Doral (Fashion)](/setts/s7/b104ba24b8ba68g16w4g16-b000064-ba0c5454-g343400-wfcfcfc/)|
+|![Doral (Fashion) example sett](/setts/s7/b104ba24b8ba68g16w4g16-b000064-ba0c5454-g343400-wfcfcfc/sett.png)|

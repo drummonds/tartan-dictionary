@@ -6,7 +6,7 @@ BBRYRB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/k/4/lt4/ly2/r8/b4/t/22-b5f749c-k1e2025-lt905966-lyf8e38c-ra32d18-t5d321f/tartan.png)
+![Woven sample](/setts/s6/b8r8y4ra16ba8bb44-b1e2025-ba5f749c-bb5d321f-r905966-raa32d18-yf8e38c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRYRB
 
 | Tartans |
 |---------------|
-| [Windy Meadows](/tartans/k/4/lt4/ly2/r8/b4/t/22/)|
-|![Windy Meadows example sett](/variants/k/4/lt4/ly2/r8/b4/t/22-b5f749c-k1e2025-lt905966-lyf8e38c-ra32d18-t5d321f/sett.png)|
+| [Windy Meadows](/setts/s6/b8r8y4ra16ba8bb44-b1e2025-ba5f749c-bb5d321f-r905966-raa32d18-yf8e38c/)|
+|![Windy Meadows example sett](/setts/s6/b8r8y4ra16ba8bb44-b1e2025-ba5f749c-bb5d321f-r905966-raa32d18-yf8e38c/sett.png)|

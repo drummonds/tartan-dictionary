@@ -6,7 +6,7 @@ BBWBBKWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/8/w64/k24/dba10/b4/w4/b4/dba/84-b2888c4-db1c0070-dba003c64-k101010-wf0e0c8/tartan.png)
+![Woven sample](/setts/s8/b84ba4w4ba4b10k24w64bb8-b003c64-ba2888c4-bb1c0070-k101010-wf0e0c8/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBWBBKWB
 
 | Tartans |
 |---------------|
-| [Comrie Navy Blue](/tartans/db/8/w64/k24/dba10/b4/w4/b4/dba/84/)|
-|![Comrie Navy Blue example sett](/variants/db/8/w64/k24/dba10/b4/w4/b4/dba/84-b2888c4-db1c0070-dba003c64-k101010-wf0e0c8/sett.png)|
+| [Comrie Navy Blue](/setts/s8/b84ba4w4ba4b10k24w64bb8-b003c64-ba2888c4-bb1c0070-k101010-wf0e0c8/)|
+|![Comrie Navy Blue example sett](/setts/s8/b84ba4w4ba4b10k24w64bb8-b003c64-ba2888c4-bb1c0070-k101010-wf0e0c8/sett.png)|
+| [Comrie, Navy Blue (Dance)](/setts/s8/b84ba4w4ba4b10k24w64bb8-b003c64-ba2888c4-bb1c0070-k101010-wf0e0c8/)|
+|![Comrie, Navy Blue (Dance) example sett](/setts/s8/b84ba4w4ba4b10k24w64bb8-b003c64-ba2888c4-bb1c0070-k101010-wf0e0c8/sett.png)|

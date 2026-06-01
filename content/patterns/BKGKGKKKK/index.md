@@ -16,5 +16,5 @@ BKGKGKKKK
 
 | Tartans |
 |---------------|
-| [Orman (Personal)](/tartans/k/20/db6/k6/db64/dg2/db2/dg2/db4/n/4/)|
-|![Orman (Personal) example sett](/variants/k/20/db6/k6/db64/dg2/db2/dg2/db4/n/4-db00002c-dg003820-k101010-n5c5c5c/sett.png)|
+| [Orman (Personal)](/setts/s9/b4k4g2k2g2k64ka6k6ka20-b5c5c5c-g003820-k00002c-ka101010/)|
+|![Orman (Personal) example sett](/setts/s9/b4k4g2k2g2k64ka6k6ka20-b5c5c5c-g003820-k00002c-ka101010/sett.png)|

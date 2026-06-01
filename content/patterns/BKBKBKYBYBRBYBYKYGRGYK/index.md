@@ -16,5 +16,7 @@ BKBKBKYBYBRBYBYKYGRGYK
 
 | Tartans |
 |---------------|
-| [Colquhoun Dress](/tartans/db/20/k4/db4/k4/db20/k30/n6/db6/n36/db4/dr4/db4/n38/db6/n6/k30/n4/g28/dr4/g28/n4/k/30/)|
-|![Colquhoun Dress example sett](/variants/db/20/k4/db4/k4/db20/k30/n6/db6/n36/db4/dr4/db4/n38/db6/n6/k30/n4/g28/dr4/g28/n4/k/30-db1c0070-dr880000-g006818-k101010-nb8b8b8/sett.png)|
+| [Colquhoun Dress](/setts/s22/b20k4b4k4b20k30y6b6y36b4r4b4y38b6y6k30y4g28r4g28y4k30-b1c0070-g006818-k101010-r880000-yb8b8b8/)|
+|![Colquhoun Dress example sett](/setts/s22/b20k4b4k4b20k30y6b6y36b4r4b4y38b6y6k30y4g28r4g28y4k30-b1c0070-g006818-k101010-r880000-yb8b8b8/sett.png)|
+| [Colquhoun Dress (Clan)](/setts/s22/b20k4b4k4b20k30y6b6y36b4r4b4y38b6y6k30y4g28r4g28y4k30-b1c0070-g006818-k101010-r880000-yb8b8b8/)|
+|![Colquhoun Dress (Clan) example sett](/setts/s22/b20k4b4k4b20k30y6b6y36b4r4b4y38b6y6k30y4g28r4g28y4k30-b1c0070-g006818-k101010-r880000-yb8b8b8/sett.png)|

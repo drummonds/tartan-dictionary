@@ -16,5 +16,5 @@ BBRWKBBRWK
 
 | Tartans |
 |---------------|
-| [Le Mirage (Corporate?)](/tartans/dba/36/db15/r25/ln5/k6/dba35/db15/r7/ln5/k/6/)|
-|![Le Mirage (Corporate?) example sett](/variants/dba/36/db15/r25/ln5/k6/dba35/db15/r7/ln5/k/6-db2c2c80-dba1c1c50-k101010-lne0e0e0-rc80000/sett.png)|
+| [Le Mirage (Corporate?)](/setts/s10/b36ba15r25w5k6b35ba15r7w5k6-b1c1c50-ba2c2c80-k101010-rc80000-we0e0e0/)|
+|![Le Mirage (Corporate?) example sett](/setts/s10/b36ba15r25w5k6b35ba15r7w5k6-b1c1c50-ba2c2c80-k101010-rc80000-we0e0e0/sett.png)|

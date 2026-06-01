@@ -16,5 +16,7 @@ BGBGYGRGWG
 
 | Tartans |
 |---------------|
-| [Holmston Primary School](/tartans/b/8/g4/b4/g60/y4/g28/r2/g28/ln4/g/28/)|
-|![Holmston Primary School example sett](/variants/b/8/g4/b4/g60/y4/g28/r2/g28/ln4/g/28-b5c8ca8-g006818-lne0e0e0-oec8048-oadc943c-rc80000-ye8c000/sett.png)|
+| [Holmston Primary School](/setts/s10/b8g4b4g60y4g28r2g28w4g28-b5c8ca8-g006818-rc80000-we0e0e0-ye8c000/)|
+|![Holmston Primary School example sett](/setts/s10/b8g4b4g60y4g28r2g28w4g28-b5c8ca8-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Holmston Primary (School)](/setts/s10/b8g4b4g60y4g28r2g28w4g28-b5c8ca8-g006818-rc80000-we0e0e0-ye8c000/)|
+|![Holmston Primary (School) example sett](/setts/s10/b8g4b4g60y4g28r2g28w4g28-b5c8ca8-g006818-rc80000-we0e0e0-ye8c000/sett.png)|

@@ -16,5 +16,7 @@ BKBKRYKWGRKRW
 
 | Tartans |
 |---------------|
-| [Dykes, of Perthshire](/tartans/b/6/k6/b42/k24/r24/y6/k8/w6/dg40/r16/k6/r12/w/6/)|
-|![Dykes, of Perthshire example sett](/variants/b/6/k6/b42/k24/r24/y6/k8/w6/dg40/r16/k6/r12/w/6-b5c98bc-dg003820-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Dykes, of Perthshire](/setts/s13/b6k6b42k24r24y6k8w6g40r16k6r12w6-b5c98bc-g003820-k101010-rc80000-wf8f8f8-ye8c000/)|
+|![Dykes, of Perthshire example sett](/setts/s13/b6k6b42k24r24y6k8w6g40r16k6r12w6-b5c98bc-g003820-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Dykes of Perthshire (Name)](/setts/s13/b6k6b42k24r24y6k8w6g40r16k6r12w6-b5c98bc-g003820-k101010-rc80000-wf8f8f8-ye8c000/)|
+|![Dykes of Perthshire (Name) example sett](/setts/s13/b6k6b42k24r24y6k8w6g40r16k6r12w6-b5c98bc-g003820-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|

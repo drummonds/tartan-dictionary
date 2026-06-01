@@ -16,5 +16,5 @@ BKBKBKBKBBKBRBR
 
 | Tartans |
 |---------------|
-| [Lochcarron Mill](/tartans/dr/4/n4/dr4/n38/k8/n4/n8/k8/n4/k2/na4/k2/na4/k12/n/4/)|
-|![Lochcarron Mill example sett](/variants/dr/4/n4/dr4/n38/k8/n4/n8/k8/n4/k2/na4/k2/na4/k12/n/4-dr9c0030-k101010-n646464-na807080/sett.png)|
+| [Lochcarron Mill](/setts/s15/b8k24ba8k4ba8k4b8k16b16b8k16b76r8b8r8-b646464-ba807080-k101010-r9c0030/)|
+|![Lochcarron Mill example sett](/setts/s15/b8k24ba8k4ba8k4b8k16b16b8k16b76r8b8r8-b646464-ba807080-k101010-r9c0030/sett.png)|

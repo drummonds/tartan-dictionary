@@ -16,5 +16,5 @@ BKBKYGRKRWR
 
 | Tartans |
 |---------------|
-| [Wcwm 1591](/tartans/db/2/ka2/db10/ka12/dy2/g14/dr6/ka2/dr6/n2/dr/6/)|
-|![Wcwm 1591 example sett](/variants/db/2/ka2/db10/ka12/dy2/g14/dr6/ka2/dr6/n2/dr/6-db00008c-dr8c0000-dyc89800-g004c00-k000000-ka000000-nc8c8c8/sett.png)|
+| [Wcwm 1591](/setts/s11/b4k4b20k24y4g28r12k4r12w4r12-b00008c-g004c00-k000000-r8c0000-wc8c8c8-yc89800/)|
+|![Wcwm 1591 example sett](/setts/s11/b4k4b20k24y4g28r12k4r12w4r12-b00008c-g004c00-k000000-r8c0000-wc8c8c8-yc89800/sett.png)|

@@ -16,5 +16,5 @@ BKBGBGBGBKY
 
 | Tartans |
 |---------------|
-| [Muir Homes](/tartans/db/66/k20/b7/n4/b5/n4/b5/n4/b7/k2/na/6/)|
-|![Muir Homes example sett](/variants/db/66/k20/b7/n4/b5/n4/b5/n4/b7/k2/na/6-b2c4084-db141e46-k101010-n808080-nab0b0b0/sett.png)|
+| [Muir Homes](/setts/s11/b66k20ba7g4ba5g4ba5g4ba7k2y6-b141e46-ba2c4084-g808080-k101010-yb0b0b0/)|
+|![Muir Homes example sett](/setts/s11/b66k20ba7g4ba5g4ba5g4ba7k2y6-b141e46-ba2c4084-g808080-k101010-yb0b0b0/sett.png)|

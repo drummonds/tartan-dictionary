@@ -6,7 +6,7 @@ BBBWKBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/8/ba4/b30/ln20/db30/ba4/db/8-b0596fa-ba2c4084-db000028-lne0e0e0/tartan.png)
+![Woven sample](/setts/s7/b8ba4b30w20k30ba4k8-b0596fa-ba2c4084-k000028-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBWKBK
 
 | Tartans |
 |---------------|
-| [Strathclyde](/tartans/b/8/ba4/b30/ln20/db30/ba4/db/8/)|
-|![Strathclyde example sett](/variants/b/8/ba4/b30/ln20/db30/ba4/db/8-b0596fa-ba2c4084-db000028-lne0e0e0/sett.png)|
+| [Strathclyde](/setts/s7/b8ba4b30w20k30ba4k8-b0596fa-ba2c4084-k000028-we0e0e0/)|
+|![Strathclyde example sett](/setts/s7/b8ba4b30w20k30ba4k8-b0596fa-ba2c4084-k000028-we0e0e0/sett.png)|
+| [Strathclyde](/setts/s7/b8ba4b30w20k30ba4k8-b8080d0-ba304080-k000030-we0e0e0/)|
+|![Strathclyde example sett](/setts/s7/b8ba4b30w20k30ba4k8-b8080d0-ba304080-k000030-we0e0e0/sett.png)|

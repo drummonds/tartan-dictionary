@@ -16,5 +16,5 @@ BKBKBKBBBR
 
 | Tartans |
 |---------------|
-| [Comme Ça Il Principe](/tartans/dba/6/k106/dba8/k8/dba8/k8/dba48/db20/dba2/r/2/)|
-|![Comme Ça Il Principe example sett](/variants/dba/6/k106/dba8/k8/dba8/k8/dba48/db20/dba2/r/2-db141e46-dba003c64-k101010-rb03000/sett.png)|
+| [Comme Ça Il Principe](/setts/s10/b3k53b4k4b4k4b24ba10b1r1-b003c64-ba141e46-k101010-rb03000/)|
+|![Comme Ça Il Principe example sett](/setts/s10/b3k53b4k4b4k4b24ba10b1r1-b003c64-ba141e46-k101010-rb03000/sett.png)|

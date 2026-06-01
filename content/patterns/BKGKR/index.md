@@ -6,7 +6,7 @@ BKGKR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/6/k2/g2/k2/dr/6-b2c4084-dr781c38-g005020-k101010/tartan.png)
+![Woven sample](/setts/s5/b48k16g16k16r48-b2c4084-g005020-k101010-r781c38/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BKGKR
 
 | Tartans |
 |---------------|
-| [Clark Clerk(e)](/tartans/b/6/k2/g2/k2/dr/6/)|
-|![Clark Clerk(e) example sett](/variants/b/6/k2/g2/k2/dr/6-b2c4084-dr781c38-g005020-k101010/sett.png)|
-| [Clark](/tartans/b/6/k2/dg2/k2/dr/6/)|
-|![Clark example sett](/variants/b/6/k2/dg2/k2/dr/6-b4367ae-dg11450d-draa0000-k000000/sett.png)|
+| [Clark Clerk(e)](/setts/s5/b48k16g16k16r48-b2c4084-g005020-k101010-r781c38/)|
+|![Clark Clerk(e) example sett](/setts/s5/b48k16g16k16r48-b2c4084-g005020-k101010-r781c38/sett.png)|
+| [Clark](/setts/s5/b24k8g8k8r24-b4367ae-g11450d-k000000-raa0000/)|
+|![Clark example sett](/setts/s5/b24k8g8k8r24-b4367ae-g11450d-k000000-raa0000/sett.png)|
+| [Clark](/setts/s5/b12k4g4k4r12-b4367ae-g11450d-k000000-raa0000/)|
+|![Clark example sett](/setts/s5/b12k4g4k4r12-b4367ae-g11450d-k000000-raa0000/sett.png)|

@@ -6,7 +6,7 @@ BKBGWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/18/w4/dg50/dr20/k30/p/8-db2c2c80-dg003820-dr441800-k101010-p780078-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b18w4g50ba20k30bb8-b2c2c80-ba441800-bb780078-g003820-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBGWB
 
 | Tartans |
 |---------------|
-| [Staley (2014)](/tartans/db/18/w4/dg50/dr20/k30/p/8/)|
-|![Staley (2014) example sett](/variants/db/18/w4/dg50/dr20/k30/p/8-db2c2c80-dg003820-dr441800-k101010-p780078-wfcfcfc/sett.png)|
+| [Staley (2014)](/setts/s6/b18w4g50ba20k30bb8-b2c2c80-ba441800-bb780078-g003820-k101010-wfcfcfc/)|
+|![Staley (2014) example sett](/setts/s6/b18w4g50ba20k30bb8-b2c2c80-ba441800-bb780078-g003820-k101010-wfcfcfc/sett.png)|

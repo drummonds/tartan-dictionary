@@ -16,7 +16,9 @@ BKBKBKGYGBGYGKBKB
 
 | Tartans |
 |---------------|
-| [Polaris](/tartans/db/12/k2/db2/k2/db2/k14/g12/y2/g2/b2/g2/y2/g12/k14/db14/k2/db/2/)|
-|![Polaris example sett](/variants/db/12/k2/db2/k2/db2/k14/g12/y2/g2/b2/g2/y2/g12/k14/db14/k2/db/2-b304080-db000050-g008000-k000000-yf0c000/sett.png)|
-| [Arbuthnott](/tartans/db/8/k2/db2/k2/db2/k8/dg4/n2/dg4/db4/dg4/n2/dg4/k8/db10/k2/db/2/)|
-|![Arbuthnott example sett](/variants/db/8/k2/db2/k2/db2/k8/dg4/n2/dg4/db4/dg4/n2/dg4/k8/db10/k2/db/2-db000052-dg11450d-k000000-naaaaaa/sett.png)|
+| [Polaris](/setts/s17/b24k4b4k4b4k28g24y4g4ba4g4y4g24k28b28k4b4-b000050-ba304080-g008000-k000000-yf0c000/)|
+|![Polaris example sett](/setts/s17/b24k4b4k4b4k28g24y4g4ba4g4y4g24k28b28k4b4-b000050-ba304080-g008000-k000000-yf0c000/sett.png)|
+| [Arbuthnott](/setts/s17/b2k2b10k8g4y2g4b4g4y2g4k8b2k2b2k2b8-b000052-g11450d-k000000-yaaaaaa/)|
+|![Arbuthnott example sett](/setts/s17/b2k2b10k8g4y2g4b4g4y2g4k8b2k2b2k2b8-b000052-g11450d-k000000-yaaaaaa/sett.png)|
+| [Arbuthnott](/setts/s17/b1k1b5k4g2y1g2b2g2y1g2k4b1k1b1k1b4-b000052-g11450d-k000000-yaaaaaa/)|
+|![Arbuthnott example sett](/setts/s17/b1k1b5k4g2y1g2b2g2y1g2k4b1k1b1k1b4-b000052-g11450d-k000000-yaaaaaa/sett.png)|

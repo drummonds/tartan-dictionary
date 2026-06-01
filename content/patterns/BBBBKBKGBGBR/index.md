@@ -16,5 +16,5 @@ BBBBKBKGBGBR
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Thistle (Fashion)](/tartans/db/8/dba8/db4/dba28/k12/p7/k12/dg4/p8/dg4/p28/lp/8/)|
-|![Kinloch Anderson Thistle (Fashion) example sett](/variants/db/8/dba8/db4/dba28/k12/p7/k12/dg4/p8/dg4/p28/lp/8-db2c2c80-dba1c1c50-dg003820-k101010-lp9c68a4-p780078/sett.png)|
+| [Kinloch Anderson Thistle (Fashion)](/setts/s12/b8ba8b4ba28k12bb7k12g4bb8g4bb28r8-b2c2c80-ba1c1c50-bb780078-g003820-k101010-r9c68a4/)|
+|![Kinloch Anderson Thistle (Fashion) example sett](/setts/s12/b8ba8b4ba28k12bb7k12g4bb8g4bb28r8-b2c2c80-ba1c1c50-bb780078-g003820-k101010-r9c68a4/sett.png)|

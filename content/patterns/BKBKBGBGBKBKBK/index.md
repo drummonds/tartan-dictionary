@@ -16,5 +16,5 @@ BKBKBGBGBKBKBK
 
 | Tartans |
 |---------------|
-| [Kelvingrove](/tartans/ba/2/k2/ba2/k2/ba18/g36/ba2/g36/ba18/k2/ba2/k2/ba2/k/32/)|
-|![Kelvingrove example sett](/variants/ba/2/k2/ba2/k2/ba18/g36/ba2/g36/ba18/k2/ba2/k2/ba2/k/32-b0000c4-ba1474b4-db2c2c80-g006818-k000000-t484800/sett.png)|
+| [Kelvingrove](/setts/s14/b4k4b4k4b36g72b4g72b36k4b4k4b4k64-b1474b4-g006818-k000000/)|
+|![Kelvingrove example sett](/setts/s14/b4k4b4k4b36g72b4g72b36k4b4k4b4k64-b1474b4-g006818-k000000/sett.png)|

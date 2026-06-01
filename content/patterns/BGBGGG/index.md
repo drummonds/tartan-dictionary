@@ -6,7 +6,7 @@ BGBGGG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/6/g24/b24/g12/t50/g/8-b5c8ca8-g006818-t604000/tartan.png)
+![Woven sample](/setts/s6/b6g24b24g12ga50g8-b5c8ca8-g006818-ga604000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBGGG
 
 | Tartans |
 |---------------|
-| [Canadian Fancy](/tartans/b/6/g24/b24/g12/t50/g/8/)|
-|![Canadian Fancy example sett](/variants/b/6/g24/b24/g12/t50/g/8-b5c8ca8-g006818-t604000/sett.png)|
+| [Canadian Fancy](/setts/s6/b6g24b24g12ga50g8-b5c8ca8-g006818-ga604000/)|
+|![Canadian Fancy example sett](/setts/s6/b6g24b24g12ga50g8-b5c8ca8-g006818-ga604000/sett.png)|
+| [Canadian Fancy (Fashion)](/setts/s6/b6g24b24g12ga50g8-b5c8ca8-g006818-ga604000/)|
+|![Canadian Fancy (Fashion) example sett](/setts/s6/b6g24b24g12ga50g8-b5c8ca8-g006818-ga604000/sett.png)|

@@ -6,7 +6,7 @@ BKBRB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/dp/6/k68/na68/dr6/n/16-dp481c40-dr6c0000-k101010-n5c5c5c-na484848/tartan.png)
+![Woven sample](/setts/s5/b6k68ba68r6bb16-b481c40-ba484848-bb5c5c5c-k101010-r6c0000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBRB
 
 | Tartans |
 |---------------|
-| [Passion of Scotland Pewter](/tartans/dp/6/k68/na68/dr6/n/16/)|
-|![Passion of Scotland Pewter example sett](/variants/dp/6/k68/na68/dr6/n/16-dp481c40-dr6c0000-k101010-n5c5c5c-na484848/sett.png)|
-| [Passion of Scotland, Pewter (Fashion](/tartans/dp/6/k68/n68/dr6/na/16/)|
-|![Passion of Scotland, Pewter (Fashion example sett](/variants/dp/6/k68/n68/dr6/na/16-dp481c40-dr6c0000-k101010-n484848-na5c5c5c/sett.png)|
+| [Passion of Scotland Pewter](/setts/s5/b6k68ba68r6bb16-b481c40-ba484848-bb5c5c5c-k101010-r6c0000/)|
+|![Passion of Scotland Pewter example sett](/setts/s5/b6k68ba68r6bb16-b481c40-ba484848-bb5c5c5c-k101010-r6c0000/sett.png)|
+| [Passion of Scotland, Pewter (Fashion](/setts/s5/b6k68ba68r6bb16-b481c40-ba484848-bb5c5c5c-k101010-r6c0000/)|
+|![Passion of Scotland, Pewter (Fashion example sett](/setts/s5/b6k68ba68r6bb16-b481c40-ba484848-bb5c5c5c-k101010-r6c0000/sett.png)|

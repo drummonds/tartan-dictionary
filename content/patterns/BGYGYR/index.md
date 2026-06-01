@@ -6,7 +6,7 @@ BGYGYR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/dr/8/g50/lg20/g6/lg36/r/8-dr441800-g006818-lgfcb464-rc80000/tartan.png)
+![Woven sample](/setts/s6/b8g50y20g6y36r8-b441800-g006818-rc80000-yfcb464/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYGYR
 
 | Tartans |
 |---------------|
-| [Unidentfied (Ligioner Highland Games](/tartans/dr/8/g50/lg20/g6/lg36/r/8/)|
-|![Unidentfied (Ligioner Highland Games example sett](/variants/dr/8/g50/lg20/g6/lg36/r/8-dr441800-g006818-lgfcb464-rc80000/sett.png)|
+| [Unidentfied (Ligioner Highland Games](/setts/s6/b8g50y20g6y36r8-b441800-g006818-rc80000-yfcb464/)|
+|![Unidentfied (Ligioner Highland Games example sett](/setts/s6/b8g50y20g6y36r8-b441800-g006818-rc80000-yfcb464/sett.png)|

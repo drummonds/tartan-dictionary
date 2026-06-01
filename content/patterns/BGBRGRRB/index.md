@@ -6,7 +6,7 @@ BGBRGRRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dr/48/g4/dr10/lt28/g4/lt10/lta34/dr/4-dr401000-g008000-lt906030-lta806050/tartan.png)
+![Woven sample](/setts/s8/b48g4b10r28g4r10ra34b4-b401000-g008000-r906030-ra806050/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRGRRB
 
 | Tartans |
 |---------------|
-| [Loch Rannoch](/tartans/dr/48/g4/dr10/lt28/g4/lt10/lta34/dr/4/)|
-|![Loch Rannoch example sett](/variants/dr/48/g4/dr10/lt28/g4/lt10/lta34/dr/4-dr401000-g008000-lt906030-lta806050/sett.png)|
+| [Loch Rannoch](/setts/s8/b48g4b10r28g4r10ra34b4-b401000-g008000-r906030-ra806050/)|
+|![Loch Rannoch example sett](/setts/s8/b48g4b10r28g4r10ra34b4-b401000-g008000-r906030-ra806050/sett.png)|

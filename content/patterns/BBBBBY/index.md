@@ -6,7 +6,7 @@ BBBBBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/48/b12/db20/b12/db64/y/6-b5c8ca8-db1c0070-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b48ba12b20ba12b64y6-b1c0070-ba5c8ca8-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBBBBY
 
 | Tartans |
 |---------------|
-| [Sultan of Qaboo's Air Force](/tartans/db/48/b12/db20/b12/db64/y/6/)|
-|![Sultan of Qaboo's Air Force example sett](/variants/db/48/b12/db20/b12/db64/y/6-b5c8ca8-db1c0070-ye8c000/sett.png)|
-| [Keeper of the Quaich Corporate Tartan Tartan Number: 1731. Earliest known date: 1988 Restricted. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/t/3/db3/t3/db27/t40/y/3/)|
-|![Keeper of the Quaich Corporate Tartan Tartan Number: 1731. Earliest known date: 1988 Restricted. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/t/3/db3/t3/db27/t40/y/3-db2c2c80-t4c2424-ye8c000/sett.png)|
+| [Sultan of Qaboo's Air Force](/setts/s6/b48ba12b20ba12b64y6-b1c0070-ba5c8ca8-ye8c000/)|
+|![Sultan of Qaboo's Air Force example sett](/setts/s6/b48ba12b20ba12b64y6-b1c0070-ba5c8ca8-ye8c000/sett.png)|
+| [Sultan of Qaboo's Air Force (Milit.)](/setts/s6/b48ba12b20ba12b64y6-b1c0070-ba5c8ca8-ye8c000/)|
+|![Sultan of Qaboo's Air Force (Milit.) example sett](/setts/s6/b48ba12b20ba12b64y6-b1c0070-ba5c8ca8-ye8c000/sett.png)|
+| [Keeper of the Quaich Corporate Tartan Tartan Number: 1731. Earliest known date: 1988 Restricted. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b3ba3b3ba27b40y3-b4c2424-ba2c2c80-ye8c000/)|
+|![Keeper of the Quaich Corporate Tartan Tartan Number: 1731. Earliest known date: 1988 Restricted. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b3ba3b3ba27b40y3-b4c2424-ba2c2c80-ye8c000/sett.png)|

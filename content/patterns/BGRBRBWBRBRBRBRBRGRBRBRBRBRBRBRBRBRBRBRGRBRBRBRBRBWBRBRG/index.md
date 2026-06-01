@@ -16,5 +16,5 @@ BGRBRBWBRBRBRBRBRGRBRBRBRBRBRBRBRBRBRBRGRBRBRBRBRBWBRBRG
 
 | Tartans |
 |---------------|
-| [Hebrides South Uist #4](/tartans/db/4/g4/r4/db4/r4/db4/ln2/db48/r4/db2/r16/db2/r4/db48/r6/db4/r4/g14/r4/db4/r6/db48/r6/db2/r16/db2/r4/db48/r8/db48/r4/db2/r16/db2/r6/db48/r6/db4/r4/g14/r4/db4/r6/db48/r4/db2/r16/db2/r4/db48/ln2/db4/r4/db4/r4/g/4/)|
-|![Hebrides South Uist #4 example sett](/variants/db/4/g4/r4/db4/r4/db4/ln2/db48/r4/db2/r16/db2/r4/db48/r6/db4/r4/g14/r4/db4/r6/db48/r6/db2/r16/db2/r4/db48/r8/db48/r4/db2/r16/db2/r6/db48/r6/db4/r4/g14/r4/db4/r6/db48/r4/db2/r16/db2/r4/db48/ln2/db4/r4/db4/r4/g/4-db2c2c80-g006818-lne0e0e0-rc80000/sett.png)|
+| [Hebrides South Uist #4](/setts/s56/b4g4r4b4r4b4w2b48r4b2r16b2r4b48r6b4r4g14r4b4r6b48r6b2r16b2r4b48r8b48r4b2r16b2r6b48r6b4r4g14r4b4r6b48r4b2r16b2r4b48w2b4r4b4r4g4-b2c2c80-g006818-rc80000-we0e0e0/)|
+|![Hebrides South Uist #4 example sett](/setts/s56/b4g4r4b4r4b4w2b48r4b2r16b2r4b48r6b4r4g14r4b4r6b48r6b2r16b2r4b48r8b48r4b2r16b2r6b48r6b4r4g14r4b4r6b48r4b2r16b2r4b48w2b4r4b4r4g4-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ BKGGGKWRGBK
 
 | Tartans |
 |---------------|
-| [Teddy Bear 111th Anniversary](/tartans/k/2/n19/g11/lt16/w2/k19/t11/g14/t32/k6/n/26/)|
-|![Teddy Bear 111th Anniversary example sett](/variants/k/2/n19/g11/lt16/w2/k19/t11/g14/t32/k6/n/26-g5c6428-k000000-ltb07430-n505050-t6f3a12-wffffff/sett.png)|
+| [Teddy Bear 111th Anniversary](/setts/s11/b26k6g32ga14g11k19w2r16ga11b19k2-b505050-g6f3a12-ga5c6428-k000000-rb07430-wffffff/)|
+|![Teddy Bear 111th Anniversary example sett](/setts/s11/b26k6g32ga14g11k19w2r16ga11b19k2-b505050-g6f3a12-ga5c6428-k000000-rb07430-wffffff/sett.png)|

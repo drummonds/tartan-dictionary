@@ -16,5 +16,5 @@ BBRBRBBGBGBBRBRBBGBG
 
 | Tartans |
 |---------------|
-| [Woolmark Plaid, The](/tartans/k/32/db12/r2/db60/r2/db12/k32/na32/db2/na32/k32/db32/r2/db8/r2/db32/k32/na32/db2/na/32/)|
-|![Woolmark Plaid, The example sett](/variants/k/32/db12/r2/db60/r2/db12/k32/na32/db2/na32/k32/db32/r2/db8/r2/db32/k32/na32/db2/na/32-db202060-k1c1c1c-n5c5c5c-na406054-rc8002c/sett.png)|
+| [Woolmark Plaid, The](/setts/s20/b32ba12r2ba60r2ba12b32g32ba2g32b32ba32r2ba8r2ba32b32g32ba2g32-b1c1c1c-ba202060-g406054-rc8002c/)|
+|![Woolmark Plaid, The example sett](/setts/s20/b32ba12r2ba60r2ba12b32g32ba2g32b32ba32r2ba8r2ba32b32g32ba2g32-b1c1c1c-ba202060-g406054-rc8002c/sett.png)|

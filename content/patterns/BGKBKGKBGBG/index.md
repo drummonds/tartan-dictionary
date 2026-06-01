@@ -16,5 +16,5 @@ BGKBKGKBGBG
 
 | Tartans |
 |---------------|
-| [Black Water](/tartans/b/2/g12/k4/b2/k6/g2/k4/b4/g2/b12/g/2/)|
-|![Black Water example sett](/variants/b/2/g12/k4/b2/k6/g2/k4/b4/g2/b12/g/2-b304080-g008000-k000000/sett.png)|
+| [Black Water](/setts/s11/b4g24k8b4k12g4k8b8g4b24g4-b304080-g008000-k000000/)|
+|![Black Water example sett](/setts/s11/b4g24k8b4k12g4k8b8g4b24g4-b304080-g008000-k000000/sett.png)|

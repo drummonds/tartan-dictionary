@@ -6,7 +6,7 @@ BGBGWRGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/8/t6/db42/t4/ln28/do44/t6/do/8-db080848-dobe7832-lne0e0e0-t604000/tartan.png)
+![Woven sample](/setts/s8/b8g6b42g4w28r44g6r8-b080848-g604000-rbe7832-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGWRGR
 
 | Tartans |
 |---------------|
-| [Bannock Bane M.407](/tartans/db/8/t6/db42/t4/ln28/do44/t6/do/8/)|
-|![Bannock Bane M.407 example sett](/variants/db/8/t6/db42/t4/ln28/do44/t6/do/8-db080848-dobe7832-lne0e0e0-t604000/sett.png)|
+| [Bannock Bane M.407](/setts/s8/b8g6b42g4w28r44g6r8-b080848-g604000-rbe7832-we0e0e0/)|
+|![Bannock Bane M.407 example sett](/setts/s8/b8g6b42g4w28r44g6r8-b080848-g604000-rbe7832-we0e0e0/sett.png)|

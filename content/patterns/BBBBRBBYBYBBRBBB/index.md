@@ -16,5 +16,5 @@ BBBBRBBYBYBBRBBB
 
 | Tartans |
 |---------------|
-| [Stone of Destiny, The](/tartans/db/4/dn24/db6/dn4/dr8/dn4/db40/dy4/db8/dy4/db40/dn4/dr8/dn4/db6/dn/24/)|
-|![Stone of Destiny, The example sett](/variants/db/4/dn24/db6/dn4/dr8/dn4/db40/dy4/db8/dy4/db40/dn4/dr8/dn4/db6/dn/24-db2c2c80-dba303070-dn14283c-dr880000-dyd09800/sett.png)|
+| [Stone of Destiny, The](/setts/s16/b24ba6b4r8b4ba40y4ba8y4ba40b4r8b4ba6b24ba4-b14283c-ba2c2c80-r880000-yd09800/)|
+|![Stone of Destiny, The example sett](/setts/s16/b24ba6b4r8b4ba40y4ba8y4ba40b4r8b4ba6b24ba4-b14283c-ba2c2c80-r880000-yd09800/sett.png)|

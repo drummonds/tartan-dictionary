@@ -16,5 +16,5 @@ BBBGBGBGB
 
 | Tartans |
 |---------------|
-| [Breckon Hunting](/tartans/dn/6/t2/dn28/k28/t2/k2/t2/k2/t/4/)|
-|![Breckon Hunting example sett](/variants/dn/6/t2/dn28/k28/t2/k2/t2/k2/t/4-dn233634-k27371d-t51200f/sett.png)|
+| [Breckon Hunting](/setts/s9/b12ba4b56g56ba4g4ba4g4ba8-b233634-ba51200f-g27371d/)|
+|![Breckon Hunting example sett](/setts/s9/b12ba4b56g56ba4g4ba4g4ba8-b233634-ba51200f-g27371d/sett.png)|

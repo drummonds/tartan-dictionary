@@ -16,5 +16,5 @@ BBBRGKGKG
 
 | Tartans |
 |---------------|
-| [West Lothian](/tartans/db/3/b9/db64/dr14/g4/k8/g4/k8/g/40/)|
-|![West Lothian example sett](/variants/db/3/b9/db64/dr14/g4/k8/g4/k8/g/40-b5c8ca8-db1c0070-dr800000-g006818-k101010/sett.png)|
+| [West Lothian](/setts/s9/b3ba9b64r14g4k8g4k8g40-b1c0070-ba5c8ca8-g006818-k101010-r800000/)|
+|![West Lothian example sett](/setts/s9/b3ba9b64r14g4k8g4k8g40-b1c0070-ba5c8ca8-g006818-k101010-r800000/sett.png)|

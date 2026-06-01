@@ -16,5 +16,5 @@ BBBGBGRGBGRGBBBG
 
 | Tartans |
 |---------------|
-| [Pina (Corporate)](/tartans/db/2/b12/db20/g8/db2/g2/r2/g2/db2/g36/r2/g8/db12/b12/db2/g/4/)|
-|![Pina (Corporate) example sett](/variants/db/2/b12/db20/g8/db2/g2/r2/g2/db2/g36/r2/g8/db12/b12/db2/g/4-b2888c4-db2c2c80-g289c18-rc80000/sett.png)|
+| [Pina (Corporate)](/setts/s16/b4ba24b40g16b4g4r4g4b4g72r4g16b24ba24b4g8-b2c2c80-ba2888c4-g289c18-rc80000/)|
+|![Pina (Corporate) example sett](/setts/s16/b4ba24b40g16b4g4r4g4b4g72r4g16b24ba24b4g8-b2c2c80-ba2888c4-g289c18-rc80000/sett.png)|

@@ -16,5 +16,5 @@ BGBGBKYBYGBKBRBYBYBKBGYBYKBGBGBYRY
 
 | Tartans |
 |---------------|
-| [Shipley, Ian (Personal)](/tartans/b/6/ba26/b10/ba6/b10/k18/lg6/b6/lg6/ba12/b6/k6/b32/r6/b6/lg6/b6/y6/b32/k6/b6/ba12/lg6/b6/lg6/k18/b10/ba6/b10/ba26/b6/lg6/r6/lg/6/)|
-|![Shipley, Ian (Personal) example sett](/variants/b/6/ba26/b10/ba6/b10/k18/lg6/b6/lg6/ba12/b6/k6/b32/r6/b6/lg6/b6/y6/b32/k6/b6/ba12/lg6/b6/lg6/k18/b10/ba6/b10/ba26/b6/lg6/r6/lg/6-b0099cc-ba008080-k101010-lg78ab46-rcd0000-yfcd116/sett.png)|
+| [Shipley, Ian (Personal)](/setts/s34/b6g26b10g6b10k18y6b6y6g12b6k6b32r6b6y6b6ya6b32k6b6g12y6b6y6k18b10g6b10g26b6y6r6y6-b0099cc-g008080-k101010-rcd0000-y78ab46-yafcd116/)|
+|![Shipley, Ian (Personal) example sett](/setts/s34/b6g26b10g6b10k18y6b6y6g12b6k6b32r6b6y6b6ya6b32k6b6g12y6b6y6k18b10g6b10g26b6y6r6y6-b0099cc-g008080-k101010-rcd0000-y78ab46-yafcd116/sett.png)|

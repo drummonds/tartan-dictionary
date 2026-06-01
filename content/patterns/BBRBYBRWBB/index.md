@@ -16,5 +16,5 @@ BBRBYBRWBB
 
 | Tartans |
 |---------------|
-| [Union Memorial Tartan](/tartans/b/24/b8/dr8/b8/y4/db112/dr36/n2/db8/db/6/)|
-|![Union Memorial Tartan example sett](/variants/b/24/b8/dr8/b8/y4/db112/dr36/n2/db8/db/6-b2888c4-db1c0070-dra00000-nc0c0c0-ye8c000/sett.png)|
+| [Union Memorial Tartan](/setts/s10/b6b8w2r36b112y4ba8r8ba8ba24-b1c0070-ba2888c4-ra00000-wc0c0c0-ye8c000/)|
+|![Union Memorial Tartan example sett](/setts/s10/b6b8w2r36b112y4ba8r8ba8ba24-b1c0070-ba2888c4-ra00000-wc0c0c0-ye8c000/sett.png)|

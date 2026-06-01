@@ -6,7 +6,7 @@ BBBGBBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/p/5/db8/k13/g21/db34/k55/t/3-db24246c-g007040-k1c1c1c-p700070-t742800/tartan.png)
+![Woven sample](/setts/s7/b5ba8bb13g21ba34bb55r3-b700070-ba24246c-bb1c1c1c-g007040-r742800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBGBBR
 
 | Tartans |
 |---------------|
-| [Bouncing Blackie (Personal)](/tartans/p/5/db8/k13/g21/db34/k55/t/3/)|
-|![Bouncing Blackie (Personal) example sett](/variants/p/5/db8/k13/g21/db34/k55/t/3-db24246c-g007040-k1c1c1c-p700070-t742800/sett.png)|
+| [Bouncing Blackie (Personal)](/setts/s7/b5ba8bb13g21ba34bb55r3-b700070-ba24246c-bb1c1c1c-g007040-r742800/)|
+|![Bouncing Blackie (Personal) example sett](/setts/s7/b5ba8bb13g21ba34bb55r3-b700070-ba24246c-bb1c1c1c-g007040-r742800/sett.png)|

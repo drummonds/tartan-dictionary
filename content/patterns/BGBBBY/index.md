@@ -6,7 +6,7 @@ BGBBBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/6/g22/db6/dr22/db36/lt/6-db003c64-dr680028-g006818-lta08858/tartan.png)
+![Woven sample](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBBBY
 
 | Tartans |
 |---------------|
-| [Harbour Town Hilton Head, The](/tartans/db/6/g22/db6/dr22/db36/lt/6/)|
-|![Harbour Town Hilton Head, The example sett](/variants/db/6/g22/db6/dr22/db36/lt/6-db003c64-dr680028-g006818-lta08858/sett.png)|
+| [Harbour Town Hilton Head, The](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/)|
+|![Harbour Town Hilton Head, The example sett](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/sett.png)|
+| [Harbour Town (Corporate)](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/)|
+|![Harbour Town (Corporate) example sett](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/sett.png)|

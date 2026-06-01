@@ -16,5 +16,5 @@ BKBKBKRKW
 
 | Tartans |
 |---------------|
-| [Forbes](/tartans/b/56/k6/b12/k6/b12/k40/lt56/k6/ln/12/)|
-|![Forbes example sett](/variants/b/56/k6/b12/k6/b12/k40/lt56/k6/ln/12-b304080-k000000-lne0e0e0-lt806050/sett.png)|
+| [Forbes](/setts/s9/b56k6b12k6b12k40r56k6w12-b304080-k000000-r806050-we0e0e0/)|
+|![Forbes example sett](/setts/s9/b56k6b12k6b12k40r56k6w12-b304080-k000000-r806050-we0e0e0/sett.png)|

@@ -16,5 +16,7 @@ BKBKGYGKBK
 
 | Tartans |
 |---------------|
-| [Gordon Miniature](/tartans/b/10/k2/b4/k4/g7/y2/g7/k4/b10/k/2/)|
-|![Gordon Miniature example sett](/variants/b/10/k2/b4/k4/g7/y2/g7/k4/b10/k/2-b2c4084-g005020-k101010-ye8c000/sett.png)|
+| [Gordon Miniature](/setts/s10/b10k2b4k4g7y2g7k4b10k2-b2c4084-g005020-k101010-ye8c000/)|
+|![Gordon Miniature example sett](/setts/s10/b10k2b4k4g7y2g7k4b10k2-b2c4084-g005020-k101010-ye8c000/sett.png)|
+| [Gordon, Miniature](/setts/s10/b10k2b4k4g7y2g7k4b10k2-b304080-g008000-k000000-yf0c000/)|
+|![Gordon, Miniature example sett](/setts/s10/b10k2b4k4g7y2g7k4b10k2-b304080-g008000-k000000-yf0c000/sett.png)|

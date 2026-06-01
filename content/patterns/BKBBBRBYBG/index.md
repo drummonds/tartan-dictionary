@@ -16,5 +16,7 @@ BKBBBRBYBG
 
 | Tartans |
 |---------------|
-| [Fed. of Circles & Solitaries](/tartans/db/18/k60/db18/b6/db10/r6/db10/y6/db10/g/6/)|
-|![Fed. of Circles & Solitaries example sett](/variants/db/18/k60/db18/b6/db10/r6/db10/y6/db10/g/6-b2888c4-db202060-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Fed. of Circles & Solitaries](/setts/s10/b18k60b18ba6b10r6b10y6b10g6-b202060-ba2888c4-g006818-k101010-rc80000-ye8c000/)|
+|![Fed. of Circles & Solitaries example sett](/setts/s10/b18k60b18ba6b10r6b10y6b10g6-b202060-ba2888c4-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Fed. of Circles & Solitaries (Corp.)](/setts/s10/b18k60b18ba6b10r6b10y6b10g6-b202060-ba2888c4-g006818-k101010-rc80000-ye8c000/)|
+|![Fed. of Circles & Solitaries (Corp.) example sett](/setts/s10/b18k60b18ba6b10r6b10y6b10g6-b202060-ba2888c4-g006818-k101010-rc80000-ye8c000/sett.png)|

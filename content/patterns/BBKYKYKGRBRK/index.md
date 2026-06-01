@@ -16,5 +16,7 @@ BBKYKYKGRBRK
 
 | Tartans |
 |---------------|
-| [MacLean](/tartans/db/8/b2/k6/lg2/k2/n2/k2/dg16/dr24/b2/dr4/k/2/)|
-|![MacLean example sett](/variants/db/8/b2/k6/lg2/k2/n2/k2/dg16/dr24/b2/dr4/k/2-b4367ae-db000052-dg11450d-draa0000-k000000-lgaaaa00-naaaaaa/sett.png)|
+| [MacLean](/setts/s12/b8ba2k6y2k2ya2k2g16r24ba2r4k2-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![MacLean example sett](/setts/s12/b8ba2k6y2k2ya2k2g16r24ba2r4k2-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [MacLean](/setts/s12/b8ba2k6y2k2ya2k2g16r24ba2r4k2-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![MacLean example sett](/setts/s12/b8ba2k6y2k2ya2k2g16r24ba2r4k2-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|

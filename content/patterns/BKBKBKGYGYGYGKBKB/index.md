@@ -16,11 +16,15 @@ BKBKBKGYGYGYGKBKB
 
 | Tartans |
 |---------------|
-| [Gordon of Esselmont (Clan)](/tartans/db/30/k4/db4/k4/db4/k28/g28/y4/g4/y8/g4/y4/g28/k28/db28/k4/db/4/)|
-|![Gordon of Esselmont (Clan) example sett](/variants/db/30/k4/db4/k4/db4/k28/g28/y4/g4/y8/g4/y4/g28/k28/db28/k4/db/4-db2c2c80-g006818-k101010-yd8b000/sett.png)|
-| [Gordon VS](/tartans/db/56/k2/db2/k2/db6/k24/g48/y2/g2/y4/g2/y2/g48/k24/db36/k2/db/8/)|
-|![Gordon VS example sett](/variants/db/56/k2/db2/k2/db6/k24/g48/y2/g2/y4/g2/y2/g48/k24/db36/k2/db/8-db00004c-g004c00-k000000-yffff00/sett.png)|
-| [Gordon, Ancient](/tartans/b/56/k2/b2/k2/b6/k24/g48/y2/g2/y4/g2/y2/g48/k24/b36/k2/b/8/)|
-|![Gordon, Ancient example sett](/variants/b/56/k2/b2/k2/b6/k24/g48/y2/g2/y4/g2/y2/g48/k24/b36/k2/b/8-b304080-g008000-k000000-yf0c000/sett.png)|
-| [Gordon VS](/tartans/db/56/k2/db2/k2/db6/k24/dg48/lg2/dg2/lg4/dg2/lg2/dg48/k24/db36/k2/db/8/)|
-|![Gordon VS example sett](/variants/db/56/k2/db2/k2/db6/k24/dg48/lg2/dg2/lg4/dg2/lg2/dg48/k24/db36/k2/db/8-db000052-dg11450d-k000000-lgaaaa00/sett.png)|
+| [Gordon of Esselmont (Clan)](/setts/s17/b30k4b4k4b4k28g28y4g4y8g4y4g28k28b28k4b4-b2c2c80-g006818-k101010-yd8b000/)|
+|![Gordon of Esselmont (Clan) example sett](/setts/s17/b30k4b4k4b4k28g28y4g4y8g4y4g28k28b28k4b4-b2c2c80-g006818-k101010-yd8b000/sett.png)|
+| [Gordon VS](/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4-b00004c-g004c00-k000000-yffff00/)|
+|![Gordon VS example sett](/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4-b00004c-g004c00-k000000-yffff00/sett.png)|
+| [Gordon, Ancient](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b304080-g008000-k000000-yf0c000/)|
+|![Gordon, Ancient example sett](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b304080-g008000-k000000-yf0c000/sett.png)|
+| [Gordon VS](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b000052-g11450d-k000000-yaaaa00/)|
+|![Gordon VS example sett](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b000052-g11450d-k000000-yaaaa00/sett.png)|
+| [Gordon VS](/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4-b000052-g11450d-k000000-yaaaa00/)|
+|![Gordon VS example sett](/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4-b000052-g11450d-k000000-yaaaa00/sett.png)|
+| [Gordon Old Clan/Family Tartan Tartan Number: 215. Earliest known date: 1842 Also The Setts No: 65. W & A K Johnston. Sample in Paton's collection. According to the story, The Duke of Gordon passed on the unwanted samples of the selection from Wilson's, to members of the family. The three stripe version was adopted by the Gordons of Esslemont. This discounts the Sobieski Stuarts claim to a 16th century origin for this sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b2c2c80-g006818-k101010-ye8c000/)|
+|![Gordon Old Clan/Family Tartan Tartan Number: 215. Earliest known date: 1842 Also The Setts No: 65. W & A K Johnston. Sample in Paton's collection. According to the story, The Duke of Gordon passed on the unwanted samples of the selection from Wilson's, to members of the family. The three stripe version was adopted by the Gordons of Esslemont. This discounts the Sobieski Stuarts claim to a 16th century origin for this sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b2c2c80-g006818-k101010-ye8c000/sett.png)|

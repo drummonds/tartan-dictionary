@@ -6,7 +6,7 @@ BGBGBGGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/40/t4/db4/t4/db4/t12/g30/t/4-db2c2c80-g006818-t604000/tartan.png)
+![Woven sample](/setts/s8/b40g4b4g4b4g12ga30g4-b2c2c80-g604000-ga006818/tartan.png)
 
 
 
@@ -18,7 +18,11 @@ BGBGBGGG
 
 | Tartans |
 |---------------|
-| [Gammell (Brown) (Personal)](/tartans/db/40/t4/db4/t4/db4/t12/g30/t/4/)|
-|![Gammell (Brown) (Personal) example sett](/variants/db/40/t4/db4/t4/db4/t12/g30/t/4-db2c2c80-g006818-t604000/sett.png)|
-| [Universal Ancient](/tartans/b/24/g4/b4/g4/b4/t16/ga16/t/2/)|
-|![Universal Ancient example sett](/variants/b/24/g4/b4/g4/b4/t16/ga16/t/2-b3c82af-g005020-ga309c18-t503c14/sett.png)|
+| [Gammell (Brown) (Personal)](/setts/s8/b40g4b4g4b4g12ga30g4-b2c2c80-g604000-ga006818/)|
+|![Gammell (Brown) (Personal) example sett](/setts/s8/b40g4b4g4b4g12ga30g4-b2c2c80-g604000-ga006818/sett.png)|
+| [Universal Ancient](/setts/s8/b24g4b4g4b4ga16gb16ga2-b3c82af-g005020-ga503c14-gb309c18/)|
+|![Universal Ancient example sett](/setts/s8/b24g4b4g4b4ga16gb16ga2-b3c82af-g005020-ga503c14-gb309c18/sett.png)|
+| [Gammell (Brown) (Personal)](/setts/s8/b40g4b4g4b4g12ga30g4-b2c2c80-g604000-ga006818/)|
+|![Gammell (Brown) (Personal) example sett](/setts/s8/b40g4b4g4b4g12ga30g4-b2c2c80-g604000-ga006818/sett.png)|
+| [Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b24g4b4g4b4ga16gb16ga2-b5c8ca8-g006818-ga604000-gb289c18/)|
+|![Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b24g4b4g4b4ga16gb16ga2-b5c8ca8-g006818-ga604000-gb289c18/sett.png)|

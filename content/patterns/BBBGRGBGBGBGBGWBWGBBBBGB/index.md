@@ -16,5 +16,5 @@ BBBGRGBGBGBGBGWBWGBBBBGB
 
 | Tartans |
 |---------------|
-| [Barony of Gartly (Personal)](/tartans/db/18/dg4/db18/k6/db6/k16/dg54/w2/db6/w2/dg54/k16/dg10/k26/dg8/k26/dg10/k16/dg54/lp8/dg54/k16/db6/k/6/)|
-|![Barony of Gartly (Personal) example sett](/variants/db/18/dg4/db18/k6/db6/k16/dg54/w2/db6/w2/dg54/k16/dg10/k26/dg8/k26/dg10/k16/dg54/lp8/dg54/k16/db6/k/6-db202060-dg003820-k1c1c1c-lp9c68a4-wfcfcfc/sett.png)|
+| [Barony of Gartly (Personal)](/setts/s24/b6ba6b16g54r8g54b16g10b26g8b26g10b16g54w2ba6w2g54b16ba6b6ba18g4ba18-b1c1c1c-ba202060-g003820-r9c68a4-wfcfcfc/)|
+|![Barony of Gartly (Personal) example sett](/setts/s24/b6ba6b16g54r8g54b16g10b26g8b26g10b16g54w2ba6w2g54b16ba6b6ba18g4ba18-b1c1c1c-ba202060-g003820-r9c68a4-wfcfcfc/sett.png)|

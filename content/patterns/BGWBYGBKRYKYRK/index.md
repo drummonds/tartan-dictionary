@@ -16,5 +16,5 @@ BGWBYGBKRYKYRK
 
 | Tartans |
 |---------------|
-| [Abel (2015)](/tartans/db/44/g44/w12/db8/y14/g40/db48/k40/lr4/n48/k12/n48/lr4/k/40/)|
-|![Abel (2015) example sett](/variants/db/44/g44/w12/db8/y14/g40/db48/k40/lr4/n48/k12/n48/lr4/k/40-db2c2c80-g007800-k101010-lre87878-na0a0a0-wffffff-yfccc00/sett.png)|
+| [Abel (2015)](/setts/s14/b44g44w12b8y14g40b48k40r4ya48k12ya48r4k40-b2c2c80-g007800-k101010-re87878-wffffff-yfccc00-yaa0a0a0/)|
+|![Abel (2015) example sett](/setts/s14/b44g44w12b8y14g40b48k40r4ya48k12ya48r4k40-b2c2c80-g007800-k101010-re87878-wffffff-yfccc00-yaa0a0a0/sett.png)|

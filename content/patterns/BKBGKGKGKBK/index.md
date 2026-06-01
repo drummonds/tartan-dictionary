@@ -16,7 +16,7 @@ BKBGKGKGKBK
 
 | Tartans |
 |---------------|
-| [Paxton (Personal)](/tartans/k/48/p10/k18/g6/k4/g6/k4/g28/p14/k4/p/20/)|
-|![Paxton (Personal) example sett](/variants/k/48/p10/k18/g6/k4/g6/k4/g28/p14/k4/p/20-g006818-k101010-p780078/sett.png)|
-| [Paxton (Personal)](/tartans/k/96/p10/k18/g6/k4/g6/k4/g28/p14/ka4/p/20/)|
-|![Paxton (Personal) example sett](/variants/k/96/p10/k18/g6/k4/g6/k4/g28/p14/ka4/p/20-g006818-k101010-ka101010-p780078/sett.png)|
+| [Paxton (Personal)](/setts/s11/b20k4b14g28k4g6k4g6k18b10k48-b780078-g006818-k101010/)|
+|![Paxton (Personal) example sett](/setts/s11/b20k4b14g28k4g6k4g6k18b10k48-b780078-g006818-k101010/sett.png)|
+| [Paxton (Personal)](/setts/s11/b20k4b14g28k4g6k4g6k18b10k96-b780078-g006818-k101010/)|
+|![Paxton (Personal) example sett](/setts/s11/b20k4b14g28k4g6k4g6k18b10k96-b780078-g006818-k101010/sett.png)|

@@ -6,7 +6,7 @@ BGBGBGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/lr/8/lt8/dr8/lt8/db8/lt8/n/58-db1c0070-dr441800-lre87878-lt8c7038-n644c60/tartan.png)
+![Woven sample](/setts/s7/b116g16ba16g16bb16g16r16-b644c60-ba1c0070-bb441800-g8c7038-re87878/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBGBGR
 
 | Tartans |
 |---------------|
-| [Marino](/tartans/lr/8/lt8/dr8/lt8/db8/lt8/n/58/)|
-|![Marino example sett](/variants/lr/8/lt8/dr8/lt8/db8/lt8/n/58-db1c0070-dr441800-lre87878-lt8c7038-n644c60/sett.png)|
+| [Marino](/setts/s7/b116g16ba16g16bb16g16r16-b644c60-ba1c0070-bb441800-g8c7038-re87878/)|
+|![Marino example sett](/setts/s7/b116g16ba16g16bb16g16r16-b644c60-ba1c0070-bb441800-g8c7038-re87878/sett.png)|
+| [Marino (Fashion)](/setts/s7/b116g16ba16g16bb16g16r16-b644c60-ba1c0070-bb441800-g8c7038-re87878/)|
+|![Marino (Fashion) example sett](/setts/s7/b116g16ba16g16bb16g16r16-b644c60-ba1c0070-bb441800-g8c7038-re87878/sett.png)|

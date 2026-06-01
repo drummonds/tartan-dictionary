@@ -16,5 +16,7 @@ BKBKBKYBKY
 
 | Tartans |
 |---------------|
-| [Pride of Scotland Muted](/tartans/dn/16/k4/dn4/k28/dn4/k4/lr2/dn38/k54/lr/4/)|
-|![Pride of Scotland Muted example sett](/variants/dn/16/k4/dn4/k28/dn4/k4/lr2/dn38/k54/lr/4-dn343434-k101010-lrd0d0a8/sett.png)|
+| [Pride of Scotland Muted](/setts/s10/b16k4b4k28b4k4y2b38k54y4-b343434-k101010-yd0d0a8/)|
+|![Pride of Scotland Muted example sett](/setts/s10/b16k4b4k28b4k4y2b38k54y4-b343434-k101010-yd0d0a8/sett.png)|
+| [Pride of Scotland, Muted (Fashion)](/setts/s10/b16k4b4k28b4k4y2b38k54y4-b343434-k101010-yd0d0a8/)|
+|![Pride of Scotland, Muted (Fashion) example sett](/setts/s10/b16k4b4k28b4k4y2b38k54y4-b343434-k101010-yd0d0a8/sett.png)|

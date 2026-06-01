@@ -6,7 +6,7 @@ BGBBYB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/p/4/g38/db12/p40/y2/p/12-db2c2c80-g006818-p780078-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBBYB
 
 | Tartans |
 |---------------|
-| [Discover Islay](/tartans/p/4/g38/db12/p40/y2/p/12/)|
-|![Discover Islay example sett](/variants/p/4/g38/db12/p40/y2/p/12-db2c2c80-g006818-p780078-ye8c000/sett.png)|
+| [Discover Islay](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/)|
+|![Discover Islay example sett](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/sett.png)|
+| [Discover Islay (District)](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/)|
+|![Discover Islay (District) example sett](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/sett.png)|

@@ -6,7 +6,7 @@ BGGWK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/k/2/lb10/g40/ga10/p/124-g006818-ga289c18-k101010-lb98c8e8-p780078/tartan.png)
+![Woven sample](/setts/s5/b124g10ga40w10k2-b780078-g289c18-ga006818-k101010-w98c8e8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGWK
 
 | Tartans |
 |---------------|
-| [Michie, Andrew (Personal)](/tartans/k/2/lb10/g40/ga10/p/124/)|
-|![Michie, Andrew (Personal) example sett](/variants/k/2/lb10/g40/ga10/p/124-g006818-ga289c18-k101010-lb98c8e8-p780078/sett.png)|
+| [Michie, Andrew (Personal)](/setts/s5/b124g10ga40w10k2-b780078-g289c18-ga006818-k101010-w98c8e8/)|
+|![Michie, Andrew (Personal) example sett](/setts/s5/b124g10ga40w10k2-b780078-g289c18-ga006818-k101010-w98c8e8/sett.png)|

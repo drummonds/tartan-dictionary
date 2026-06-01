@@ -16,5 +16,5 @@ BKBBBKWKGBGKG
 
 | Tartans |
 |---------------|
-| [Redgate (Connecticut) #2](/tartans/n/2/t10/n18/dr6/n18/k20/lr2/k20/na12/dr6/na12/t8/na/2/)|
-|![Redgate (Connecticut) #2 example sett](/variants/n/2/t10/n18/dr6/n18/k20/lr2/k20/na12/dr6/na12/t8/na/2-dr5d0f04-k120a01-lrddd5af-n3f4b60-na334e3d/sett.png)|
+| [Redgate (Connecticut) #2](/setts/s13/b2k10b18ba6b18ka20w2ka20g12ba6g12k8g2-b3f4b60-ba5d0f04-g334e3d-k000000-ka120a01-wddd5af/)|
+|![Redgate (Connecticut) #2 example sett](/setts/s13/b2k10b18ba6b18ka20w2ka20g12ba6g12k8g2-b3f4b60-ba5d0f04-g334e3d-k000000-ka120a01-wddd5af/sett.png)|

@@ -16,5 +16,5 @@ BGRGKBYBKGRG
 
 | Tartans |
 |---------------|
-| [Isle of Gigha](/tartans/db/4/dg8/r2/dg8/k8/db8/dy2/db8/k8/dg8/r2/dg/8/)|
-|![Isle of Gigha example sett](/variants/db/4/dg8/r2/dg8/k8/db8/dy2/db8/k8/dg8/r2/dg/8-db202060-dg003820-dybc8c00-k101010-ra00048/sett.png)|
+| [Isle of Gigha](/setts/s12/b16g32r8g32k32b32y8b32k32g32r8g32-b202060-g003820-k101010-ra00048-ybc8c00/)|
+|![Isle of Gigha example sett](/setts/s12/b16g32r8g32k32b32y8b32k32g32r8g32-b202060-g003820-k101010-ra00048-ybc8c00/sett.png)|

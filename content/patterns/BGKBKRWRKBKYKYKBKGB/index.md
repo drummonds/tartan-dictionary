@@ -16,7 +16,9 @@ BGKBKRWRKBKYKYKBKGB
 
 | Tartans |
 |---------------|
-| [Buchanan (1850 - Clan)](/tartans/db/18/g46/k6/db18/k6/r40/ln6/r40/k6/db18/k6/y40/k6/y40/k6/db18/k6/g46/db/18/)|
-|![Buchanan (1850 - Clan) example sett](/variants/db/18/g46/k6/db18/k6/r40/ln6/r40/k6/db18/k6/y40/k6/y40/k6/db18/k6/g46/db/18-db2c2c80-g006818-k101010-lne0e0e0-rc80000-ye8c000/sett.png)|
-| [Buchanan 3](/tartans/b/18/g46/k6/b18/k6/r40/ln6/r40/k6/b18/k6/y40/k6/y40/k6/b18/k6/g46/b/18/)|
-|![Buchanan 3 example sett](/variants/b/18/g46/k6/b18/k6/r40/ln6/r40/k6/b18/k6/y40/k6/y40/k6/b18/k6/g46/b/18-b304080-g008000-k000000-lne0e0e0-rc00000-yf0c000/sett.png)|
+| [Buchanan (1850 - Clan)](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Buchanan (1850 - Clan) example sett](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Buchanan 3](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Buchanan 3 example sett](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Buchanan (Miller & Lang) Clan Tartan Tartan Number: 151. Earliest known date: 1930 Millar and Lang's Scottish Tartans See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Buchanan (Miller & Lang) Clan Tartan Tartan Number: 151. Earliest known date: 1930 Millar and Lang's Scottish Tartans See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

@@ -16,5 +16,5 @@ BKBYBKBKBWB
 
 | Tartans |
 |---------------|
-| [Bute Heather, Ancient](/tartans/db/10/k4/p16/lb2/p16/k8/b8/k12/b36/ln2/db/12/)|
-|![Bute Heather, Ancient example sett](/variants/db/10/k4/p16/lb2/p16/k8/b8/k12/b36/ln2/db/12-b3c82af-db000080-k101010-lb00fa9a-lne0e0e0-p800080/sett.png)|
+| [Bute Heather, Ancient](/setts/s11/b10k4ba16y2ba16k8bb8k12bb36w2b12-b000080-ba800080-bb3c82af-k101010-we0e0e0-y00fa9a/)|
+|![Bute Heather, Ancient example sett](/setts/s11/b10k4ba16y2ba16k8bb8k12bb36w2b12-b000080-ba800080-bb3c82af-k101010-we0e0e0-y00fa9a/sett.png)|

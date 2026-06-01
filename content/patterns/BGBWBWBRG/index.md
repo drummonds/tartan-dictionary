@@ -16,7 +16,7 @@ BGBWBWBRG
 
 | Tartans |
 |---------------|
-| [Mounth, The](/tartans/g/4/n26/b24/w6/b20/w6/b24/ga26/p/4/)|
-|![Mounth, The example sett](/variants/g/4/n26/b24/w6/b20/w6/b24/ga26/p/4-b1870a4-g006818-ga408060-n888888-p780078-wfcfcfc/sett.png)|
-| [Mounth, The (Corporate)](/tartans/ga/4/n26/b24/w6/b20/w6/b24/g26/p/4/)|
-|![Mounth, The (Corporate) example sett](/variants/ga/4/n26/b24/w6/b20/w6/b24/g26/p/4-b1870a4-g408060-ga006818-n888888-p780078-wfcfcfc/sett.png)|
+| [Mounth, The](/setts/s9/b4g26ba24w6ba20w6ba24r26ga4-b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc/)|
+|![Mounth, The example sett](/setts/s9/b4g26ba24w6ba20w6ba24r26ga4-b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc/sett.png)|
+| [Mounth, The (Corporate)](/setts/s9/b4g26ba24w6ba20w6ba24r26ga4-b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc/)|
+|![Mounth, The (Corporate) example sett](/setts/s9/b4g26ba24w6ba20w6ba24r26ga4-b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc/sett.png)|

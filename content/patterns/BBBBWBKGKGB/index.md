@@ -16,5 +16,5 @@ BBBBWBKGKGB
 
 | Tartans |
 |---------------|
-| [Smithers (Name)](/tartans/p/4/b12/n2/b6/na2/b8/k12/g10/k2/g10/p/4/)|
-|![Smithers (Name) example sett](/variants/p/4/b12/n2/b6/na2/b8/k12/g10/k2/g10/p/4-b1474b4-g006818-k101010-n5c5c5c-nac0c0c0-p6c0070/sett.png)|
+| [Smithers (Name)](/setts/s11/b8ba24bb4ba12w4ba16k24g20k4g20b8-b6c0070-ba1474b4-bb5c5c5c-g006818-k101010-wc0c0c0/)|
+|![Smithers (Name) example sett](/setts/s11/b8ba24bb4ba12w4ba16k24g20k4g20b8-b6c0070-ba1474b4-bb5c5c5c-g006818-k101010-wc0c0c0/sett.png)|

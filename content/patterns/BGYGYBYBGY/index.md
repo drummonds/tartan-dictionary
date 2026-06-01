@@ -16,5 +16,5 @@ BGYGYBYBGY
 
 | Tartans |
 |---------------|
-| [Carter (Savannah)](/tartans/t/8/n52/na2/n4/na4/t8/b52/t8/g6/y/6/)|
-|![Carter (Savannah) example sett](/variants/t/8/n52/na2/n4/na4/t8/b52/t8/g6/y/6-b76a3b9-g6a8a67-n4a664c-nab6be8f-t412719-yd9c341/sett.png)|
+| [Carter (Savannah)](/setts/s10/b8g52y2g4y4b8ya52b8ga6yb6-b412719-g4a664c-ga6a8a67-yb6be8f-ya76a3b9-ybd9c341/)|
+|![Carter (Savannah) example sett](/setts/s10/b8g52y2g4y4b8ya52b8ga6yb6-b412719-g4a664c-ga6a8a67-yb6be8f-ya76a3b9-ybd9c341/sett.png)|

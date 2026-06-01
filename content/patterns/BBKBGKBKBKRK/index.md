@@ -16,5 +16,5 @@ BBKBGKBKBKRK
 
 | Tartans |
 |---------------|
-| [Braveheart -Warrior (hunting)](/tartans/dr/8/dra8/k6/dra18/g36/k6/dp6/k6/dp6/k18/lt14/k/86/)|
-|![Braveheart -Warrior (hunting) example sett](/variants/dr/8/dra8/k6/dra18/g36/k6/dp6/k6/dp6/k18/lt14/k/86-dp300030-dr600030-dra401000-g008000-k000000-lt806050/sett.png)|
+| [Braveheart -Warrior (hunting)](/setts/s12/b8ba8k6ba18g36k6bb6k6bb6k18r14k86-b600030-ba401000-bb300030-g008000-k000000-r806050/)|
+|![Braveheart -Warrior (hunting) example sett](/setts/s12/b8ba8k6ba18g36k6bb6k6bb6k18r14k86-b600030-ba401000-bb300030-g008000-k000000-r806050/sett.png)|

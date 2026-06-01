@@ -16,5 +16,5 @@ BKBKRKGKWK
 
 | Tartans |
 |---------------|
-| [Thin Blue Line UK](/tartans/db/10/k70/b6/k4/r6/k4/g6/k4/w6/k/4/)|
-|![Thin Blue Line UK example sett](/variants/db/10/k70/b6/k4/r6/k4/g6/k4/w6/k/4-b0596fa-db003c64-g008b00-k101010-rdc0000-wffffff/sett.png)|
+| [Thin Blue Line UK](/setts/s10/b10k70ba6k4r6k4g6k4w6k4-b003c64-ba0596fa-g008b00-k101010-rdc0000-wffffff/)|
+|![Thin Blue Line UK example sett](/setts/s10/b10k70ba6k4r6k4g6k4w6k4-b003c64-ba0596fa-g008b00-k101010-rdc0000-wffffff/sett.png)|

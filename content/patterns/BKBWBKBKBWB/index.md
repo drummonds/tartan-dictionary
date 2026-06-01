@@ -16,5 +16,5 @@ BKBWBKBKBWB
 
 | Tartans |
 |---------------|
-| [Newlands, Charlie (Personal)](/tartans/db/12/k4/dp18/lb2/dp18/k4/dn8/k12/dn48/ln2/db/12/)|
-|![Newlands, Charlie (Personal) example sett](/variants/db/12/k4/dp18/lb2/dp18/k4/dn8/k12/dn48/ln2/db/12-db202060-dn14283c-dp440044-k101010-lb98c8e8-lne0e0e0/sett.png)|
+| [Newlands, Charlie (Personal)](/setts/s11/b12k4ba18w2ba18k4bb8k12bb48wa2b12-b202060-ba440044-bb14283c-k101010-w98c8e8-wae0e0e0/)|
+|![Newlands, Charlie (Personal) example sett](/setts/s11/b12k4ba18w2ba18k4bb8k12bb48wa2b12-b202060-ba440044-bb14283c-k101010-w98c8e8-wae0e0e0/sett.png)|

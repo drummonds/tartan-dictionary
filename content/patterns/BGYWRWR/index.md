@@ -6,7 +6,7 @@ BGYWRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/100/g50/y6/n16/r2/w2/r/2-db003c64-g288028-nc0c0c0-rc80000-wfcfcfc-yfccc00/tartan.png)
+![Woven sample](/setts/s7/b100g50y6w16r2wa2r2-b003c64-g288028-rc80000-wc0c0c0-wafcfcfc-yfccc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYWRWR
 
 | Tartans |
 |---------------|
-| [Wells (2014)](/tartans/db/100/g50/y6/n16/r2/w2/r/2/)|
-|![Wells (2014) example sett](/variants/db/100/g50/y6/n16/r2/w2/r/2-db003c64-g288028-nc0c0c0-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Wells (2014)](/setts/s7/b100g50y6w16r2wa2r2-b003c64-g288028-rc80000-wc0c0c0-wafcfcfc-yfccc00/)|
+|![Wells (2014) example sett](/setts/s7/b100g50y6w16r2wa2r2-b003c64-g288028-rc80000-wc0c0c0-wafcfcfc-yfccc00/sett.png)|

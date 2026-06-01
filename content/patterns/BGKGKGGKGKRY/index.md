@@ -16,5 +16,5 @@ BGKGKGGKGKRY
 
 | Tartans |
 |---------------|
-| [Bro-Vigouden (Corporate)](/tartans/db/58/t6/k6/t6/k6/t6/dg56/k6/t4/k6/dr6/dy/6/)|
-|![Bro-Vigouden (Corporate) example sett](/variants/db/58/t6/k6/t6/k6/t6/dg56/k6/t4/k6/dr6/dy/6-db1c1c50-dg003820-dr880000-dybc8c00-k101010-t744c00/sett.png)|
+| [Bro-Vigouden (Corporate)](/setts/s12/b58g6k6g6k6g6ga56k6g4k6r6y6-b1c1c50-g744c00-ga003820-k101010-r880000-ybc8c00/)|
+|![Bro-Vigouden (Corporate) example sett](/setts/s12/b58g6k6g6k6g6ga56k6g4k6r6y6-b1c1c50-g744c00-ga003820-k101010-r880000-ybc8c00/sett.png)|

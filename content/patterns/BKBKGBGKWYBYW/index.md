@@ -16,5 +16,7 @@ BKBKGBGKWYBYW
 
 | Tartans |
 |---------------|
-| [North of Scotland Tartan Army](/tartans/ln/4/n4/db30/n6/ln6/k22/g28/db6/g28/k22/p20/k6/p/6/)|
-|![North of Scotland Tartan Army example sett](/variants/ln/4/n4/db30/n6/ln6/k22/g28/db6/g28/k22/p20/k6/p/6-db2c2c80-g006818-k101010-lne0e0e0-na0a0a0-p780078/sett.png)|
+| [North of Scotland Tartan Army](/setts/s13/b6k6b20k22g28ba6g28k22w6y6ba30y4w4-b780078-ba2c2c80-g006818-k101010-we0e0e0-ya0a0a0/)|
+|![North of Scotland Tartan Army example sett](/setts/s13/b6k6b20k22g28ba6g28k22w6y6ba30y4w4-b780078-ba2c2c80-g006818-k101010-we0e0e0-ya0a0a0/sett.png)|
+| [North of Scotland Tartan Army (Corp)](/setts/s13/b6k6b20k22g28ba6g28k22w6y6ba30y4w4-b780078-ba2c2c80-g006818-k101010-we0e0e0-ya0a0a0/)|
+|![North of Scotland Tartan Army (Corp) example sett](/setts/s13/b6k6b20k22g28ba6g28k22w6y6ba30y4w4-b780078-ba2c2c80-g006818-k101010-we0e0e0-ya0a0a0/sett.png)|

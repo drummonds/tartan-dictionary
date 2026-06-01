@@ -16,5 +16,7 @@ BBBYBYBYBWBRBRBR
 
 | Tartans |
 |---------------|
-| [McBeams Boy](/tartans/b/38/db8/b38/lt10/b4/lt38/b4/lt10/b38/ln4/b38/r10/b4/r38/b4/r/10/)|
-|![McBeams Boy example sett](/variants/b/38/db8/b38/lt10/b4/lt38/b4/lt10/b38/ln4/b38/r10/b4/r38/b4/r/10-b5c8ca8-db2c2c80-lne0e0e0-lta08858-rc80000/sett.png)|
+| [McBeams Boy](/setts/s16/b38ba8b38y10b4y38b4y10b38w4b38r10b4r38b4r10-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858/)|
+|![McBeams Boy example sett](/setts/s16/b38ba8b38y10b4y38b4y10b38w4b38r10b4r38b4r10-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858/sett.png)|
+| [McBeams Boy (Corporate)](/setts/s16/b38ba8b38y10b4y38b4y10b38w4b38r10b4r38b4r10-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858/)|
+|![McBeams Boy (Corporate) example sett](/setts/s16/b38ba8b38y10b4y38b4y10b38w4b38r10b4r38b4r10-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858/sett.png)|

@@ -6,7 +6,7 @@ BKBRKWRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/57/k5/b9/p29/k18/w9/p9/w/5-b2383bf-k101010-pc52e8b-wffffff/tartan.png)
+![Woven sample](/setts/s8/b57k5b9r29k18w9r9w5-b2383bf-k101010-rc52e8b-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBRKWRW
 
 | Tartans |
 |---------------|
-| [Yale College, Wrexham](/tartans/b/57/k5/b9/p29/k18/w9/p9/w/5/)|
-|![Yale College, Wrexham example sett](/variants/b/57/k5/b9/p29/k18/w9/p9/w/5-b2383bf-k101010-pc52e8b-wffffff/sett.png)|
+| [Yale College, Wrexham](/setts/s8/b57k5b9r29k18w9r9w5-b2383bf-k101010-rc52e8b-wffffff/)|
+|![Yale College, Wrexham example sett](/setts/s8/b57k5b9r29k18w9r9w5-b2383bf-k101010-rc52e8b-wffffff/sett.png)|

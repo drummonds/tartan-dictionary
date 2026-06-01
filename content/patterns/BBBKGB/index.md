@@ -6,7 +6,7 @@ BBBKGB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/22/g30/k4/n10/dba6/n/22-db202060-dba1c0070-g408060-k101010-n5c5c5c/tartan.png)
+![Woven sample](/setts/s6/b22g30k4ba10bb6ba22-b202060-ba5c5c5c-bb1c0070-g408060-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKGB
 
 | Tartans |
 |---------------|
-| [Saorsa (Corporate)](/tartans/db/22/g30/k4/n10/dba6/n/22/)|
-|![Saorsa (Corporate) example sett](/variants/db/22/g30/k4/n10/dba6/n/22-db202060-dba1c0070-g408060-k101010-n5c5c5c/sett.png)|
+| [Saorsa (Corporate)](/setts/s6/b22g30k4ba10bb6ba22-b202060-ba5c5c5c-bb1c0070-g408060-k101010/)|
+|![Saorsa (Corporate) example sett](/setts/s6/b22g30k4ba10bb6ba22-b202060-ba5c5c5c-bb1c0070-g408060-k101010/sett.png)|

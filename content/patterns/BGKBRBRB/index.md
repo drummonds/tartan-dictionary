@@ -6,7 +6,7 @@ BGKBRBRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/4/lt18/k12/db2/r2/db2/r2/db/20-b1870a4-db003c64-k101010-lt8c7038-rc80000/tartan.png)
+![Woven sample](/setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGKBRBRB
 
 | Tartans |
 |---------------|
-| [Antique 2000](/tartans/b/4/lt18/k12/db2/r2/db2/r2/db/20/)|
-|![Antique 2000 example sett](/variants/b/4/lt18/k12/db2/r2/db2/r2/db/20-b1870a4-db003c64-k101010-lt8c7038-rc80000/sett.png)|
+| [Antique 2000](/setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/)|
+|![Antique 2000 example sett](/setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/sett.png)|
+| [Antique 2000 (Fashion)](/setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/)|
+|![Antique 2000 (Fashion) example sett](/setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/sett.png)|

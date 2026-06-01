@@ -16,5 +16,5 @@ BGKBKYKYKBKRWRKBKG
 
 | Tartans |
 |---------------|
-| [Buchanan](/tartans/db/18/g46/k6/db18/k6/y40/k6/y40/k6/db18/k6/r40/ln6/r40/k6/db18/k6/g/46/)|
-|![Buchanan example sett](/variants/db/18/g46/k6/db18/k6/y40/k6/y40/k6/db18/k6/r40/ln6/r40/k6/db18/k6/g/46-db2c2c80-g006818-k101010-lne0e0e0-rc80000-ye8c000/sett.png)|
+| [Buchanan](/setts/s18/b18g46k6b18k6y40k6y40k6b18k6r40w6r40k6b18k6g46-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Buchanan example sett](/setts/s18/b18g46k6b18k6y40k6y40k6b18k6r40w6r40k6b18k6g46-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

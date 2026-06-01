@@ -16,7 +16,7 @@ BBBBWBBKBR
 
 | Tartans |
 |---------------|
-| [Kervegant (Personal)](/tartans/nb/120/dba24/b2/dba4/ln2/dba24/nb10/k2/nb4/r/4/)|
-|![Kervegant (Personal) example sett](/variants/nb/120/dba24/b2/dba4/ln2/dba24/nb10/k2/nb4/r/4-b5c8ca8-db2c2c80-dba1c1c50-k101010-lne0e0e0-n888888-naa0a0a0-nb5c5c5c-rc80000/sett.png)|
-| [Kervegant (Personal)](/tartans/n/120/db24/b2/db4/ln2/db24/n10/k2/n4/r/4/)|
-|![Kervegant (Personal) example sett](/variants/n/120/db24/b2/db4/ln2/db24/n10/k2/n4/r/4-b5c8ca8-db1c1c50-k101010-lne0e0e0-n5c5c5c-rc80000/sett.png)|
+| [Kervegant (Personal)](/setts/s10/b120ba24bb2ba4w2ba24b10k2b4r4-b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0/)|
+|![Kervegant (Personal) example sett](/setts/s10/b120ba24bb2ba4w2ba24b10k2b4r4-b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0/sett.png)|
+| [Kervegant (Personal)](/setts/s10/b120ba24bb2ba4w2ba24b10k2b4r4-b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0/)|
+|![Kervegant (Personal) example sett](/setts/s10/b120ba24bb2ba4w2ba24b10k2b4r4-b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0/sett.png)|

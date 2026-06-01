@@ -16,5 +16,5 @@ BBKBKBKBW
 
 | Tartans |
 |---------------|
-| [Royal College of Surgeons of Edinburgh](/tartans/b/8/db32/k4/db4/k4/db4/k26/n40/ln/8/)|
-|![Royal College of Surgeons of Edinburgh example sett](/variants/b/8/db32/k4/db4/k4/db4/k26/n40/ln/8-b5480b0-db102040-k000000-lne0e0e0-n505050/sett.png)|
+| [Royal College of Surgeons of Edinburgh](/setts/s9/b8ba32k4ba4k4ba4k26bb40w8-b5480b0-ba102040-bb505050-k000000-we0e0e0/)|
+|![Royal College of Surgeons of Edinburgh example sett](/setts/s9/b8ba32k4ba4k4ba4k26bb40w8-b5480b0-ba102040-bb505050-k000000-we0e0e0/sett.png)|

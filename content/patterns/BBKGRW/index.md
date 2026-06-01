@@ -6,7 +6,7 @@ BBKGRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/12/p10/k4/g36/r56/ln/4-b1474b4-g006818-k101010-lne0e0e0-p780078-ra00048/tartan.png)
+![Woven sample](/setts/s6/b12ba10k4g36r56w4-b1474b4-ba780078-g006818-k101010-ra00048-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKGRW
 
 | Tartans |
 |---------------|
-| [Dundhuin Ladies (Personal)](/tartans/b/12/p10/k4/g36/r56/ln/4/)|
-|![Dundhuin Ladies (Personal) example sett](/variants/b/12/p10/k4/g36/r56/ln/4-b1474b4-g006818-k101010-lne0e0e0-p780078-ra00048/sett.png)|
+| [Dundhuin Ladies (Personal)](/setts/s6/b12ba10k4g36r56w4-b1474b4-ba780078-g006818-k101010-ra00048-we0e0e0/)|
+|![Dundhuin Ladies (Personal) example sett](/setts/s6/b12ba10k4g36r56w4-b1474b4-ba780078-g006818-k101010-ra00048-we0e0e0/sett.png)|

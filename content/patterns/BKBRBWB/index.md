@@ -6,7 +6,7 @@ BKBRBWB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/n/54/k10/p4/na2/p2/w2/p/10-k101010-n5c5c5c-na888888-p780078-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b108k20ba8r4ba4w4ba20-b5c5c5c-ba780078-k101010-r888888-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBRBWB
 
 | Tartans |
 |---------------|
-| [Caledonian Mist](/tartans/n/54/k10/p4/na2/p2/w2/p/10/)|
-|![Caledonian Mist example sett](/variants/n/54/k10/p4/na2/p2/w2/p/10-k101010-n5c5c5c-na888888-p780078-wfcfcfc/sett.png)|
+| [Caledonian Mist](/setts/s7/b108k20ba8r4ba4w4ba20-b5c5c5c-ba780078-k101010-r888888-wfcfcfc/)|
+|![Caledonian Mist example sett](/setts/s7/b108k20ba8r4ba4w4ba20-b5c5c5c-ba780078-k101010-r888888-wfcfcfc/sett.png)|

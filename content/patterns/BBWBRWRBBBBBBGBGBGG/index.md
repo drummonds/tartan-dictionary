@@ -16,7 +16,7 @@ BBWBRWRBBBBBBGBGBGG
 
 | Tartans |
 |---------------|
-| [Glenlea](/tartans/b/4/nc12/dn3/nc3/dn3/nc3/dn8/n3/dn3/n3/dn3/n12/na8/nb4/na28/n3/nb3/n3/dn/8/)|
-|![Glenlea example sett](/variants/b/4/nc12/dn3/nc3/dn3/nc3/dn8/n3/dn3/n3/dn3/n12/na8/nb4/na28/n3/nb3/n3/dn/8-b009468-dn14283c-n646464-na8c8c8c-nbc8c8c8-nc485444/sett.png)|
-| [Glenlea (Fashion)](/tartans/b/4/na12/dn3/na3/dn3/na3/dn8/n3/dn3/n3/dn3/n12/nc8/nb4/nc28/n3/nb3/n3/dn/8/)|
-|![Glenlea (Fashion) example sett](/variants/b/4/na12/dn3/na3/dn3/na3/dn8/n3/dn3/n3/dn3/n12/nc8/nb4/nc28/n3/nb3/n3/dn/8-b009468-dn14283c-n646464-na485444-nbc8c8c8-nc8c8c8c/sett.png)|
+| [Glenlea](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/)|
+|![Glenlea example sett](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/sett.png)|
+| [Glenlea (Fashion)](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/)|
+|![Glenlea (Fashion) example sett](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/sett.png)|

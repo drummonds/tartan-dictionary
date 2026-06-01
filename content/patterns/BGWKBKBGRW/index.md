@@ -16,5 +16,5 @@ BGWKBKBGRW
 
 | Tartans |
 |---------------|
-| [Heart of Oak](/tartans/dp/6/g6/w2/k50/db50/k4/db4/g2/r6/w/4/)|
-|![Heart of Oak example sett](/variants/dp/6/g6/w2/k50/db50/k4/db4/g2/r6/w/4-db000064-dp440044-g006400-k101010-rdc0000-wffffff/sett.png)|
+| [Heart of Oak](/setts/s10/b6g6w2k50ba50k4ba4g2r6w4-b440044-ba000064-g006400-k101010-rdc0000-wffffff/)|
+|![Heart of Oak example sett](/setts/s10/b6g6w2k50ba50k4ba4g2r6w4-b440044-ba000064-g006400-k101010-rdc0000-wffffff/sett.png)|

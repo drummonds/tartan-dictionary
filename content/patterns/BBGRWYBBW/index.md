@@ -16,5 +16,5 @@ BBGRWYBBW
 
 | Tartans |
 |---------------|
-| [Army Ranger](/tartans/db/22/k12/dg50/dr2/w4/o2/db50/k10/w/14/)|
-|![Army Ranger example sett](/variants/db/22/k12/dg50/dr2/w4/o2/db50/k10/w/14-db003c64-dg004028-dr960028-k1c1c1c-od87c00-wf0e0c8/sett.png)|
+| [Army Ranger](/setts/s9/b22ba12g50r2w4y2b50ba10w14-b003c64-ba1c1c1c-g004028-r960028-wf0e0c8-yd87c00/)|
+|![Army Ranger example sett](/setts/s9/b22ba12g50r2w4y2b50ba10w14-b003c64-ba1c1c1c-g004028-r960028-wf0e0c8-yd87c00/sett.png)|

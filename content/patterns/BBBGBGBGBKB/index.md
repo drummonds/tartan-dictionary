@@ -16,5 +16,5 @@ BBBGBGBGBKB
 
 | Tartans |
 |---------------|
-| [Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/db/60/p8/db10/g6/db4/g4/db4/g20/p14/k4/p/18/)|
-|![Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/db/60/p8/db10/g6/db4/g4/db4/g20/p14/k4/p/18-db003054-g005030-k101010-p780078/sett.png)|
+| [Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b60ba8b10g6b4g4b4g20ba14k4ba18-b003054-ba780078-g005030-k101010/)|
+|![Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b60ba8b10g6b4g4b4g20ba14k4ba18-b003054-ba780078-g005030-k101010/sett.png)|

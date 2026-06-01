@@ -16,5 +16,5 @@ BBYBWBBBBW
 
 | Tartans |
 |---------------|
-| [Diamond Jubilee (Lochcarron) (Comm.)](/tartans/ln/4/db14/dba4/db10/p22/n6/dba6/dy6/dba24/p/92/)|
-|![Diamond Jubilee (Lochcarron) (Comm.) example sett](/variants/ln/4/db14/dba4/db10/p22/n6/dba6/dy6/dba24/p/92-db1c0070-dba202060-dybc8c00-lne0e0e0-nc0c0c0-p780078/sett.png)|
+| [Diamond Jubilee (Lochcarron) (Comm.)](/setts/s10/b92ba24y6ba6w6b22bb10ba4bb14wa4-b780078-ba202060-bb1c0070-wc0c0c0-wae0e0e0-ybc8c00/)|
+|![Diamond Jubilee (Lochcarron) (Comm.) example sett](/setts/s10/b92ba24y6ba6w6b22bb10ba4bb14wa4-b780078-ba202060-bb1c0070-wc0c0c0-wae0e0e0-ybc8c00/sett.png)|

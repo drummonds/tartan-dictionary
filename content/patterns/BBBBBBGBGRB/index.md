@@ -16,5 +16,5 @@ BBBBBBGBGRB
 
 | Tartans |
 |---------------|
-| [Heartlands (Fashion)](/tartans/db/8/b2/k40/db4/k4/db36/g4/db4/g44/r4/p/8/)|
-|![Heartlands (Fashion) example sett](/variants/db/8/b2/k40/db4/k4/db36/g4/db4/g44/r4/p/8-b2474e8-db202060-g285800-k1c1c1c-p780078-ra00048/sett.png)|
+| [Heartlands (Fashion)](/setts/s11/b8ba2bb40b4bb4b36g4b4g44r4bc8-b202060-ba2474e8-bb1c1c1c-bc780078-g285800-ra00048/)|
+|![Heartlands (Fashion) example sett](/setts/s11/b8ba2bb40b4bb4b36g4b4g44r4bc8-b202060-ba2474e8-bb1c1c1c-bc780078-g285800-ra00048/sett.png)|

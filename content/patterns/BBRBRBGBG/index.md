@@ -16,9 +16,11 @@ BBRBRBGBG
 
 | Tartans |
 |---------------|
-| [St. Andrews New Golf Club](/tartans/g/8/db6/g40/db18/dra4/db4/dra4/db36/p/8/)|
-|![St. Andrews New Golf Club example sett](/variants/g/8/db6/g40/db18/dra4/db4/dra4/db36/p/8-db003c64-dg003820-dn14283c-dp440044-dr4c0000-dra880000-g006818-lre8ccb8-p780078-t604000/sett.png)|
-| [New Club Centenary](/tartans/dg/8/db6/dg40/db18/dr4/db4/dr4/db36/dp/8/)|
-|![New Club Centenary example sett](/variants/dg/8/db6/dg40/db18/dr4/db4/dr4/db36/dp/8-db2c2c80-dg003820-dp440044-dr880000/sett.png)|
-| [St. Andrews New Golf Club (Corp)](/tartans/g/8/db6/g40/db18/dr4/db4/dr4/db36/p/8/)|
-|![St. Andrews New Golf Club (Corp) example sett](/variants/g/8/db6/g40/db18/dr4/db4/dr4/db36/p/8-db003c64-dr880000-g006818-p780078/sett.png)|
+| [St. Andrews New Golf Club](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b780078-ba003c64-g006818-r880000/)|
+|![St. Andrews New Golf Club example sett](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b780078-ba003c64-g006818-r880000/sett.png)|
+| [New Club Centenary](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b440044-ba2c2c80-g003820-r880000/)|
+|![New Club Centenary example sett](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b440044-ba2c2c80-g003820-r880000/sett.png)|
+| [St. Andrews New Golf Club (Corp)](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b780078-ba003c64-g006818-r880000/)|
+|![St. Andrews New Golf Club (Corp) example sett](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b780078-ba003c64-g006818-r880000/sett.png)|
+| [New Club Centenary (Commemorative)](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b440044-ba2c2c80-g003820-r880000/)|
+|![New Club Centenary (Commemorative) example sett](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b440044-ba2c2c80-g003820-r880000/sett.png)|

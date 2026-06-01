@@ -6,7 +6,7 @@ BBGRRGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/8/db58/dg20/dr20/r36/dg4/db/8-b0000ff-db141e46-dg003c14-dr960000-rc80028/tartan.png)
+![Woven sample](/setts/s7/b8ba58g20r20ra36g4ba8-b0000ff-ba141e46-g003c14-r960000-rac80028/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBGRRGB
 
 | Tartans |
 |---------------|
-| [Ross Dempster (Personal)](/tartans/b/8/db58/dg20/dr20/r36/dg4/db/8/)|
-|![Ross Dempster (Personal) example sett](/variants/b/8/db58/dg20/dr20/r36/dg4/db/8-b0000ff-db141e46-dg003c14-dr960000-rc80028/sett.png)|
-| [Dempster, Ross (Personal)](/tartans/db/8/g4/dr34/dra18/g20/db60/n/4/)|
-|![Dempster, Ross (Personal) example sett](/variants/db/8/g4/dr34/dra18/g20/db60/n/4-db1c1c50-dra02c24-dra880000-g285800-n5c5c5c/sett.png)|
+| [Ross Dempster (Personal)](/setts/s7/b8ba58g20r20ra36g4ba8-b0000ff-ba141e46-g003c14-r960000-rac80028/)|
+|![Ross Dempster (Personal) example sett](/setts/s7/b8ba58g20r20ra36g4ba8-b0000ff-ba141e46-g003c14-r960000-rac80028/sett.png)|
+| [Dempster, Ross (Personal)](/setts/s7/b8g4r34ra18g20b60ba4-b1c1c50-ba5c5c5c-g285800-ra02c24-ra880000/)|
+|![Dempster, Ross (Personal) example sett](/setts/s7/b8g4r34ra18g20b60ba4-b1c1c50-ba5c5c5c-g285800-ra02c24-ra880000/sett.png)|

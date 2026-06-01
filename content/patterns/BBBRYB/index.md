@@ -6,7 +6,7 @@ BBBRYB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/52/n20/db38/dr12/dy4/ba/18-b3474fc-ba1870a4-db003c64-dr880000-dyc89800-n646464/tartan.png)
+![Woven sample](/setts/s6/b18y4r12ba38bb20bc52-b1870a4-ba003c64-bb646464-bc3474fc-r880000-yc89800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRYB
 
 | Tartans |
 |---------------|
-| [Meeson Formal](/tartans/b/52/n20/db38/dr12/dy4/ba/18/)|
-|![Meeson Formal example sett](/variants/b/52/n20/db38/dr12/dy4/ba/18-b3474fc-ba1870a4-db003c64-dr880000-dyc89800-n646464/sett.png)|
+| [Meeson Formal](/setts/s6/b18y4r12ba38bb20bc52-b1870a4-ba003c64-bb646464-bc3474fc-r880000-yc89800/)|
+|![Meeson Formal example sett](/setts/s6/b18y4r12ba38bb20bc52-b1870a4-ba003c64-bb646464-bc3474fc-r880000-yc89800/sett.png)|

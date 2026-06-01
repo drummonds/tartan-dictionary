@@ -16,5 +16,5 @@ BBBBGKGKBB
 
 | Tartans |
 |---------------|
-| [Spirit of Alva (Fashion)](/tartans/db/2/dba47/k21/g8/k4/g20/p11/dp4/p10/db/6/)|
-|![Spirit of Alva (Fashion) example sett](/variants/db/2/dba47/k21/g8/k4/g20/p11/dp4/p10/db/6-db2c2c80-dba202060-dp440044-g285800-k101010-p780078/sett.png)|
+| [Spirit of Alva (Fashion)](/setts/s10/b2ba47k21g8k4g20bb11bc4bb10b6-b2c2c80-ba202060-bb780078-bc440044-g285800-k101010/)|
+|![Spirit of Alva (Fashion) example sett](/setts/s10/b2ba47k21g8k4g20bb11bc4bb10b6-b2c2c80-ba202060-bb780078-bc440044-g285800-k101010/sett.png)|

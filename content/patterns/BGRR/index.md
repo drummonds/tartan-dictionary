@@ -6,7 +6,7 @@ BGRR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/dr/8/g44/dra2/lt/44-dr4c0000-dra781c38-g767e52-ltb07430/tartan.png)
+![Woven sample](/setts/s4/b16g88r4ra88-b4c0000-g767e52-r781c38-rab07430/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRR
 
 | Tartans |
 |---------------|
-| [McWilliams Hunting (2014)](/tartans/dr/8/g44/dra2/lt/44/)|
-|![McWilliams Hunting (2014) example sett](/variants/dr/8/g44/dra2/lt/44-dr4c0000-dra781c38-g767e52-ltb07430/sett.png)|
+| [McWilliams Hunting (2014)](/setts/s4/b16g88r4ra88-b4c0000-g767e52-r781c38-rab07430/)|
+|![McWilliams Hunting (2014) example sett](/setts/s4/b16g88r4ra88-b4c0000-g767e52-r781c38-rab07430/sett.png)|

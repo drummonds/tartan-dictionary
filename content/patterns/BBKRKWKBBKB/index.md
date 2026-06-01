@@ -16,5 +16,7 @@ BBKRKWKBBKB
 
 | Tartans |
 |---------------|
-| [Glen Clova #1](/tartans/n/38/dr4/k6/lt2/k2/ln2/k2/dr12/n6/k2/n/12/)|
-|![Glen Clova #1 example sett](/variants/n/38/dr4/k6/lt2/k2/ln2/k2/dr12/n6/k2/n/12-dr441800-k101010-lne0e0e0-lta07c58-n5c5c5c/sett.png)|
+| [Glen Clova #1](/setts/s11/b24k4b12ba24k4w4k4r4k12ba8b76-b5c5c5c-ba441800-k101010-ra07c58-we0e0e0/)|
+|![Glen Clova #1 example sett](/setts/s11/b24k4b12ba24k4w4k4r4k12ba8b76-b5c5c5c-ba441800-k101010-ra07c58-we0e0e0/sett.png)|
+| [Glen Clova #1 (Fashion)](/setts/s11/b24k4b12ba24k4w4k4r4k12ba8b76-b5c5c5c-ba441800-k101010-ra07c58-we0e0e0/)|
+|![Glen Clova #1 (Fashion) example sett](/setts/s11/b24k4b12ba24k4w4k4r4k12ba8b76-b5c5c5c-ba441800-k101010-ra07c58-we0e0e0/sett.png)|

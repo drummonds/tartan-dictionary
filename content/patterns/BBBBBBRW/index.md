@@ -6,7 +6,7 @@ BBBBBBRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/4/dbb6/db18/b5/db18/dba20/dr16/n/6-b507894-db2c2c80-dba003c64-dbb105074-dr940000-nc4c4c4/tartan.png)
+![Woven sample](/setts/s8/b4ba6b18bb5b18bc20r16w6-b2c2c80-ba105074-bb507894-bc003c64-r940000-wc4c4c4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBBBRW
 
 | Tartans |
 |---------------|
-| [Queen of the South F.C. (Sports)](/tartans/db/4/dbb6/db18/b5/db18/dba20/dr16/n/6/)|
-|![Queen of the South F.C. (Sports) example sett](/variants/db/4/dbb6/db18/b5/db18/dba20/dr16/n/6-b507894-db2c2c80-dba003c64-dbb105074-dr940000-nc4c4c4/sett.png)|
+| [Queen of the South F.C. (Sports)](/setts/s8/b4ba6b18bb5b18bc20r16w6-b2c2c80-ba105074-bb507894-bc003c64-r940000-wc4c4c4/)|
+|![Queen of the South F.C. (Sports) example sett](/setts/s8/b4ba6b18bb5b18bc20r16w6-b2c2c80-ba105074-bb507894-bc003c64-r940000-wc4c4c4/sett.png)|

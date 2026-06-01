@@ -6,7 +6,7 @@ BGBGRGRG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dra/4/g4/db24/g14/dr6/g4/dr4/g/28-db202060-dr880000-dra4c0000-g006818/tartan.png)
+![Woven sample](/setts/s8/b4g4ba24g14r6g4r4g28-b4c0000-ba202060-g006818-r880000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBGRGRG
 
 | Tartans |
 |---------------|
-| [Glen Nevis #3](/tartans/dra/4/g4/db24/g14/dr6/g4/dr4/g/28/)|
-|![Glen Nevis #3 example sett](/variants/dra/4/g4/db24/g14/dr6/g4/dr4/g/28-db202060-dr880000-dra4c0000-g006818/sett.png)|
-| [Glen Nevis #3 (Corporate)](/tartans/dr/4/g4/db24/g14/dra6/g4/dra4/g/28/)|
-|![Glen Nevis #3 (Corporate) example sett](/variants/dr/4/g4/db24/g14/dra6/g4/dra4/g/28-db202060-dr4c0000-dra880000-g006818/sett.png)|
+| [Glen Nevis #3](/setts/s8/b4g4ba24g14r6g4r4g28-b4c0000-ba202060-g006818-r880000/)|
+|![Glen Nevis #3 example sett](/setts/s8/b4g4ba24g14r6g4r4g28-b4c0000-ba202060-g006818-r880000/sett.png)|
+| [Glen Nevis #3 (Corporate)](/setts/s8/b4g4ba24g14r6g4r4g28-b4c0000-ba202060-g006818-r880000/)|
+|![Glen Nevis #3 (Corporate) example sett](/setts/s8/b4g4ba24g14r6g4r4g28-b4c0000-ba202060-g006818-r880000/sett.png)|

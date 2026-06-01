@@ -16,9 +16,13 @@ BGBRBRBRBRG
 
 | Tartans |
 |---------------|
-| [Fiddes #2](/tartans/b/24/g16/b16/r40/b14/r12/b8/r12/b32/r24/g/32/)|
-|![Fiddes #2 example sett](/variants/b/24/g16/b16/r40/b14/r12/b8/r12/b32/r24/g/32-b2c4084-g005020-rdc0000/sett.png)|
-| [Fiddes (Artefact)](/tartans/db/36/g10/db12/r50/db12/r10/db10/r12/db36/r24/g/32/)|
-|![Fiddes (Artefact) example sett](/variants/db/36/g10/db12/r50/db12/r10/db10/r12/db36/r24/g/32-db2c2c80-g289c18-rc80000/sett.png)|
-| [Fiddes](/tartans/b/36/g10/b12/r50/b12/r10/b10/r12/b36/r24/g/32/)|
-|![Fiddes example sett](/variants/b/36/g10/b12/r50/b12/r10/b10/r12/b36/r24/g/32-b304080-g008000-rc00000/sett.png)|
+| [Fiddes #2](/setts/s11/b24g16b16r40b14r12b8r12b32r24g32-b2c4084-g005020-rdc0000/)|
+|![Fiddes #2 example sett](/setts/s11/b24g16b16r40b14r12b8r12b32r24g32-b2c4084-g005020-rdc0000/sett.png)|
+| [Fiddes (Artefact)](/setts/s11/b36g10b12r50b12r10b10r12b36r24g32-b2c2c80-g289c18-rc80000/)|
+|![Fiddes (Artefact) example sett](/setts/s11/b36g10b12r50b12r10b10r12b36r24g32-b2c2c80-g289c18-rc80000/sett.png)|
+| [Fiddes - 1950 (Artefact)](/setts/s11/b36g10b12r50b12r10b10r12b36r24g32-b2c2c80-g289c18-rc80000/)|
+|![Fiddes - 1950 (Artefact) example sett](/setts/s11/b36g10b12r50b12r10b10r12b36r24g32-b2c2c80-g289c18-rc80000/sett.png)|
+| [Fiddes](/setts/s11/b36g10b12r50b12r10b10r12b36r24g32-b304080-g008000-rc00000/)|
+|![Fiddes example sett](/setts/s11/b36g10b12r50b12r10b10r12b36r24g32-b304080-g008000-rc00000/sett.png)|
+| [Fiddes](/setts/s11/b24g16b16r40b14r12b8r12b32r24g32-b304080-g008000-rc00000/)|
+|![Fiddes example sett](/setts/s11/b24g16b16r40b14r12b8r12b32r24g32-b304080-g008000-rc00000/sett.png)|

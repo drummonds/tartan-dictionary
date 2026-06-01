@@ -6,7 +6,7 @@ BGGBWBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/22/g20/ga12/b14/lb4/b6/p20/lb/4-b0000cd-g004c00-ga767e52-lb00fcfc-p6c0070/tartan.png)
+![Woven sample](/setts/s8/b22g20ga12b14w4b6ba20w4-b0000cd-ba6c0070-g004c00-ga767e52-w00fcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGBWBBW
 
 | Tartans |
 |---------------|
-| [Hummelt, Katherine (Personal)](/tartans/b/22/g20/ga12/b14/lb4/b6/p20/lb/4/)|
-|![Hummelt, Katherine (Personal) example sett](/variants/b/22/g20/ga12/b14/lb4/b6/p20/lb/4-b0000cd-g004c00-ga767e52-lb00fcfc-p6c0070/sett.png)|
+| [Hummelt, Katherine (Personal)](/setts/s8/b22g20ga12b14w4b6ba20w4-b0000cd-ba6c0070-g004c00-ga767e52-w00fcfc/)|
+|![Hummelt, Katherine (Personal) example sett](/setts/s8/b22g20ga12b14w4b6ba20w4-b0000cd-ba6c0070-g004c00-ga767e52-w00fcfc/sett.png)|

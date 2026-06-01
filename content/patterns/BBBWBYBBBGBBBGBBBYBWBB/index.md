@@ -16,5 +16,5 @@ BBBWBYBBBGBBBGBBBYBWBB
 
 | Tartans |
 |---------------|
-| [Harmony](/tartans/ba/6/dba8/w6/dba6/lt8/dba6/db26/b68/g6/b8/dba6/b8/g6/b68/db26/dba6/lt8/dba6/w6/dba8/ba6/dba/22/)|
-|![Harmony example sett](/variants/ba/6/dba8/w6/dba6/lt8/dba6/db26/b68/g6/b8/dba6/b8/g6/b68/db26/dba6/lt8/dba6/w6/dba8/ba6/dba/22-b2888c4-ba5c8ca8-db2c2c80-dba202060-g005448-lta08858-wfcfcfc/sett.png)|
+| [Harmony](/setts/s22/b22ba6b8w6b6y8b6bb26bc68g6bc8b6bc8g6bc68bb26b6y8b6w6b8ba6-b202060-ba5c8ca8-bb2c2c80-bc2888c4-g005448-wfcfcfc-ya08858/)|
+|![Harmony example sett](/setts/s22/b22ba6b8w6b6y8b6bb26bc68g6bc8b6bc8g6bc68bb26b6y8b6w6b8ba6-b202060-ba5c8ca8-bb2c2c80-bc2888c4-g005448-wfcfcfc-ya08858/sett.png)|

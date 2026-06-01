@@ -16,5 +16,5 @@ BGBKBKBKBKB
 
 | Tartans |
 |---------------|
-| [Bute Heather, Hunting (Fashion)](/tartans/nb/10/k4/na18/k2/na16/k8/na8/k12/na36/n3/nb/12/)|
-|![Bute Heather, Hunting (Fashion) example sett](/variants/nb/10/k4/na18/k2/na16/k8/na8/k12/na36/n3/nb/12-k101010-n84886c-na484848-nb646464/sett.png)|
+| [Bute Heather, Hunting (Fashion)](/setts/s11/b10k4ba18k2ba16k8ba8k12ba36g3b12-b646464-ba484848-g84886c-k101010/)|
+|![Bute Heather, Hunting (Fashion) example sett](/setts/s11/b10k4ba18k2ba16k8ba8k12ba36g3b12-b646464-ba484848-g84886c-k101010/sett.png)|

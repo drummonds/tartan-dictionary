@@ -16,5 +16,5 @@ BBBBYBYBY
 
 | Tartans |
 |---------------|
-| [Lochearn (Fashion)](/tartans/b/12/db6/b44/db18/ba6/db6/ba6/db6/ba/44/)|
-|![Lochearn (Fashion) example sett](/variants/b/12/db6/b44/db18/ba6/db6/ba6/db6/ba/44-b5c8ca8-ba48a4c0-db202060/sett.png)|
+| [Lochearn (Fashion)](/setts/s9/b12ba6b44ba18y6ba6y6ba6y44-b5c8ca8-ba202060-y48a4c0/)|
+|![Lochearn (Fashion) example sett](/setts/s9/b12ba6b44ba18y6ba6y6ba6y44-b5c8ca8-ba202060-y48a4c0/sett.png)|

@@ -16,5 +16,7 @@ BBWRGRGRBBWRWBGRGRBRBWRB
 
 | Tartans |
 |---------------|
-| [MacDougall Plaid](/tartans/b/3/p12/ln6/r6/g46/r14/g6/r14/b14/p8/ln6/r6/ln6/p8/g12/r16/g12/r6/b6/r86/p10/ln6/r10/b/3/)|
-|![MacDougall Plaid example sett](/variants/b/3/p12/ln6/r6/g46/r14/g6/r14/b14/p8/ln6/r6/ln6/p8/g12/r16/g12/r6/b6/r86/p10/ln6/r10/b/3-b2c4084-g005020-lne0e0e0-p5a008c-rdc0000/sett.png)|
+| [MacDougall Plaid](/setts/s24/b3ba12w6r6g46r14g6r14b14ba8w6r6w6ba8g12r16g12r6b6r86ba10w6r10b3-b2c4084-ba5a008c-g005020-rdc0000-we0e0e0/)|
+|![MacDougall Plaid example sett](/setts/s24/b3ba12w6r6g46r14g6r14b14ba8w6r6w6ba8g12r16g12r6b6r86ba10w6r10b3-b2c4084-ba5a008c-g005020-rdc0000-we0e0e0/sett.png)|
+| [MacDougall, Plaid](/setts/s24/b3ba12w6r6g46r14g6r14b14ba8w6r6w6ba8g12r16g12r6b6r86ba10w6r10b3-b304080-ba800080-g008000-rc00000-we0e0e0/)|
+|![MacDougall, Plaid example sett](/setts/s24/b3ba12w6r6g46r14g6r14b14ba8w6r6w6ba8g12r16g12r6b6r86ba10w6r10b3-b304080-ba800080-g008000-rc00000-we0e0e0/sett.png)|

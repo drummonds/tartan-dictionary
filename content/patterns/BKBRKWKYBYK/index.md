@@ -16,5 +16,5 @@ BKBRKWKYBYK
 
 | Tartans |
 |---------------|
-| [Misty Isle (Fashion)](/tartans/k/8/nc6/ka98/nc8/k4/na10/k12/nb20/n30/k2/ka/4/)|
-|![Misty Isle (Fashion) example sett](/variants/k/8/nc6/ka98/nc8/k4/na10/k12/nb20/n30/k2/ka/4-k101010-ka1c1c1c-n5c5c5c-nac0c0c0-nb888888-ncb8b8b8/sett.png)|
+| [Misty Isle (Fashion)](/setts/s11/b4k2ba30r20k12w10k4y8b98y6k8-b1c1c1c-ba5c5c5c-k101010-r888888-wc0c0c0-yb8b8b8/)|
+|![Misty Isle (Fashion) example sett](/setts/s11/b4k2ba30r20k12w10k4y8b98y6k8-b1c1c1c-ba5c5c5c-k101010-r888888-wc0c0c0-yb8b8b8/sett.png)|

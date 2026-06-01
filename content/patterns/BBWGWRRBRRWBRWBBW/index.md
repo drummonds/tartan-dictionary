@@ -16,5 +16,5 @@ BBWGWRRBRRWBRWBBW
 
 | Tartans |
 |---------------|
-| [Birral/Burrell](/tartans/b/8/dp16/ln4/g64/ln4/r16/do8/dp4/do8/r16/ln4/dp32/r130/ln4/dp16/b8/ln/4/)|
-|![Birral/Burrell example sett](/variants/b/8/dp16/ln4/g64/ln4/r16/do8/dp4/do8/r16/ln4/dp32/r130/ln4/dp16/b8/ln/4-b5c8ca8-dg003820-dod05054-dp440044-g006818-lg789484-lne0e0e0-rc80000-rac80000-rba00048-wfcfcfc/sett.png)|
+| [Birral/Burrell](/setts/s17/b8ba16w4g64w4r16ra8ba4ra8r16w4ba32r130w4ba16b8w4-b5c8ca8-ba440044-g006818-rc80000-rad05054-we0e0e0/)|
+|![Birral/Burrell example sett](/setts/s17/b8ba16w4g64w4r16ra8ba4ra8r16w4ba32r130w4ba16b8w4-b5c8ca8-ba440044-g006818-rc80000-rad05054-we0e0e0/sett.png)|

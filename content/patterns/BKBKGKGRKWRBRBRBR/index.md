@@ -16,5 +16,5 @@ BKBKGKGRKWRBRBRBR
 
 | Tartans |
 |---------------|
-| [Caledonian Society of Prince Edward Island](/tartans/db/28/k8/db8/k30/g40/k4/lg8/r4/k2/w8/r28/db8/r4/db4/r8/db4/r/4/)|
-|![Caledonian Society of Prince Edward Island example sett](/variants/db/28/k8/db8/k30/g40/k4/lg8/r4/k2/w8/r28/db8/r4/db4/r8/db4/r/4-db2c2c80-g006818-k101010-lg789484-rc80000-wf8f8f8/sett.png)|
+| [Caledonian Society of Prince Edward Island](/setts/s17/b28k8b8k30g40k4ga8r4k2w8r28b8r4b4r8b4r4-b2c2c80-g006818-ga789484-k101010-rc80000-wf8f8f8/)|
+|![Caledonian Society of Prince Edward Island example sett](/setts/s17/b28k8b8k30g40k4ga8r4k2w8r28b8r4b4r8b4r4-b2c2c80-g006818-ga789484-k101010-rc80000-wf8f8f8/sett.png)|

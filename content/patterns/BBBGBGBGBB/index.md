@@ -16,7 +16,7 @@ BBBGBGBGBB
 
 | Tartans |
 |---------------|
-| [House of Bruar](/tartans/dr/12/t52/dn56/g52/dn16/lt6/dn16/g52/dn56/t/52/)|
-|![House of Bruar example sett](/variants/dr/12/t52/dn56/g52/dn16/lt6/dn16/g52/dn56/t/52-dg003820-dn14283c-dr4c0000-g006818-lt8c7038-t4c3428/sett.png)|
-| [Wcwm 1527-2](/tartans/db/4/dp4/db28/g6/db4/g6/db4/g52/dp52/db/4/)|
-|![Wcwm 1527-2 example sett](/variants/db/4/dp4/db28/g6/db4/g6/db4/g52/dp52/db/4-db000064-dp4c1864-g004c00/sett.png)|
+| [House of Bruar](/setts/s10/b12ba52bb56g52bb16ga6bb16g52bb56ba52-b4c0000-ba4c3428-bb14283c-g006818-ga8c7038/)|
+|![House of Bruar example sett](/setts/s10/b12ba52bb56g52bb16ga6bb16g52bb56ba52-b4c0000-ba4c3428-bb14283c-g006818-ga8c7038/sett.png)|
+| [Wcwm 1527-2](/setts/s10/b4ba4b28g6b4g6b4g52ba52b4-b000064-ba4c1864-g004c00/)|
+|![Wcwm 1527-2 example sett](/setts/s10/b4ba4b28g6b4g6b4g52ba52b4-b000064-ba4c1864-g004c00/sett.png)|

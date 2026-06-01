@@ -6,7 +6,7 @@ BKBRWKRK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/k/42/lt4/k16/ln4/lt32/na12/k4/na/16-g408060-k101010-lne0e0e0-lta07c58-n888888-na5c5c5c/tartan.png)
+![Woven sample](/setts/s8/b16k4b12r32w4k16r4k42-b5c5c5c-k101010-ra07c58-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBRWKRK
 
 | Tartans |
 |---------------|
-| [Ardmore](/tartans/k/42/lt4/k16/ln4/lt32/na12/k4/na/16/)|
-|![Ardmore example sett](/variants/k/42/lt4/k16/ln4/lt32/na12/k4/na/16-g408060-k101010-lne0e0e0-lta07c58-n888888-na5c5c5c/sett.png)|
-| [Ardmore (Fashion)](/tartans/k/42/lt4/k16/ln4/lt32/n12/k4/n/16/)|
-|![Ardmore (Fashion) example sett](/variants/k/42/lt4/k16/ln4/lt32/n12/k4/n/16-k101010-lne0e0e0-lta07c58-n5c5c5c/sett.png)|
+| [Ardmore](/setts/s8/b16k4b12r32w4k16r4k42-b5c5c5c-k101010-ra07c58-we0e0e0/)|
+|![Ardmore example sett](/setts/s8/b16k4b12r32w4k16r4k42-b5c5c5c-k101010-ra07c58-we0e0e0/sett.png)|
+| [Ardmore (Fashion)](/setts/s8/b16k4b12r32w4k16r4k42-b5c5c5c-k101010-ra07c58-we0e0e0/)|
+|![Ardmore (Fashion) example sett](/setts/s8/b16k4b12r32w4k16r4k42-b5c5c5c-k101010-ra07c58-we0e0e0/sett.png)|

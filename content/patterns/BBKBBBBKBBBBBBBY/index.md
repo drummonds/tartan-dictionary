@@ -16,5 +16,5 @@ BBKBBBBKBBBBBBBY
 
 | Tartans |
 |---------------|
-| [Midnight Sunrise](/tartans/dp/4/db32/k8/db4/dp2/db8/b2/k16/db8/b6/db12/dp2/b16/dp2/db2/o/6/)|
-|![Midnight Sunrise example sett](/variants/dp/4/db32/k8/db4/dp2/db8/b2/k16/db8/b6/db12/dp2/b16/dp2/db2/o/6-b1870a4-db1c1c50-dp440044-k101010-oec8048/sett.png)|
+| [Midnight Sunrise](/setts/s16/b4ba32k8ba4b2ba8bb2k16ba8bb6ba12b2bb16b2ba2y6-b440044-ba1c1c50-bb1870a4-k101010-yec8048/)|
+|![Midnight Sunrise example sett](/setts/s16/b4ba32k8ba4b2ba8bb2k16ba8bb6ba12b2bb16b2ba2y6-b440044-ba1c1c50-bb1870a4-k101010-yec8048/sett.png)|

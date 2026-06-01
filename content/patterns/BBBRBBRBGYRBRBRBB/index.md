@@ -16,5 +16,5 @@ BBBRBBRBGYRBRBRBB
 
 | Tartans |
 |---------------|
-| [Scotland's Grace](/tartans/n/48/b4/n8/lp4/b4/n8/lp8/b10/g10/y6/r14/na4/r4/na6/r2/na46/n/8/)|
-|![Scotland's Grace example sett](/variants/n/48/b4/n8/lp4/b4/n8/lp8/b10/g10/y6/r14/na4/r4/na6/r2/na46/n/8-b3c82af-g289c18-lp9c68a4-n646464-na505050-rc82828-yfccc00/sett.png)|
+| [Scotland's Grace](/setts/s17/b48ba4b8r4ba4b8r8ba10g10y6ra14bb4ra4bb6ra2bb46b8-b646464-ba3c82af-bb505050-g289c18-r9c68a4-rac82828-yfccc00/)|
+|![Scotland's Grace example sett](/setts/s17/b48ba4b8r4ba4b8r8ba10g10y6ra14bb4ra4bb6ra2bb46b8-b646464-ba3c82af-bb505050-g289c18-r9c68a4-rac82828-yfccc00/sett.png)|

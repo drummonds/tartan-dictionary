@@ -6,7 +6,7 @@ BGBRGBWG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/12/ga4/db52/p28/g4/dn6/w4/ga/20-db003c64-dn14283c-g408060-ga005448-pb468ac-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/b12g4b52r28ga4ba6w4g20-b003c64-ba14283c-g005448-ga408060-rb468ac-wf8f8f8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRGBWG
 
 | Tartans |
 |---------------|
-| [Spirit of Fife (Corporate)](/tartans/db/12/ga4/db52/p28/g4/dn6/w4/ga/20/)|
-|![Spirit of Fife (Corporate) example sett](/variants/db/12/ga4/db52/p28/g4/dn6/w4/ga/20-db003c64-dn14283c-g408060-ga005448-pb468ac-wf8f8f8/sett.png)|
+| [Spirit of Fife (Corporate)](/setts/s8/b12g4b52r28ga4ba6w4g20-b003c64-ba14283c-g005448-ga408060-rb468ac-wf8f8f8/)|
+|![Spirit of Fife (Corporate) example sett](/setts/s8/b12g4b52r28ga4ba6w4g20-b003c64-ba14283c-g005448-ga408060-rb468ac-wf8f8f8/sett.png)|

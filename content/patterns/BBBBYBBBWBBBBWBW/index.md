@@ -16,5 +16,7 @@ BBBBYBBBWBBBBWBW
 
 | Tartans |
 |---------------|
-| [Henbury](/tartans/dp/50/dn75/dp75/dn12/lg12/dp75/dn75/dp50/w12/dn12/dp75/dn75/dp50/w12/dn12/w/12/)|
-|![Henbury example sett](/variants/dp/50/dn75/dp75/dn12/lg12/dp75/dn75/dp50/w12/dn12/dp75/dn75/dp50/w12/dn12/w/12-db003c64-dn14283c-dp440044-dybc8c00-lgc4bc68-p780078-wf8f8f8-ye8c000/sett.png)|
+| [Henbury](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12-b440044-ba14283c-wf8f8f8-yc4bc68/)|
+|![Henbury example sett](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12-b440044-ba14283c-wf8f8f8-yc4bc68/sett.png)|
+| [Henbury (Corporate)](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12-b440044-ba14283c-wf8f8f8-yc4bc68/)|
+|![Henbury (Corporate) example sett](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12-b440044-ba14283c-wf8f8f8-yc4bc68/sett.png)|

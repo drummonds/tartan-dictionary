@@ -16,7 +16,7 @@ BBGBYBWBRBB
 
 | Tartans |
 |---------------|
-| [Manx Hunting](/tartans/b/12/na2/nb40/na2/y8/na2/ln8/na2/n22/na2/db/76/)|
-|![Manx Hunting example sett](/variants/b/12/na2/nb40/na2/y8/na2/ln8/na2/n22/na2/db/76-b5c8ca8-db2c2c80-lne0e0e0-n888888-na5c5c5c-nb406054-ye8c000/sett.png)|
-| [Manx Hunting (District)](/tartans/b/12/n2/na40/n2/y8/n2/ln8/n2/nb22/n2/db/76/)|
-|![Manx Hunting (District) example sett](/variants/b/12/n2/na40/n2/y8/n2/ln8/n2/nb22/n2/db/76-b5c8ca8-db2c2c80-lne0e0e0-n5c5c5c-na406054-nb888888-ye8c000/sett.png)|
+| [Manx Hunting](/setts/s11/b76ba2r22ba2w8ba2y8ba2g40ba2bb12-b2c2c80-ba5c5c5c-bb5c8ca8-g406054-r888888-we0e0e0-ye8c000/)|
+|![Manx Hunting example sett](/setts/s11/b76ba2r22ba2w8ba2y8ba2g40ba2bb12-b2c2c80-ba5c5c5c-bb5c8ca8-g406054-r888888-we0e0e0-ye8c000/sett.png)|
+| [Manx Hunting (District)](/setts/s11/b76ba2r22ba2w8ba2y8ba2g40ba2bb12-b2c2c80-ba5c5c5c-bb5c8ca8-g406054-r888888-we0e0e0-ye8c000/)|
+|![Manx Hunting (District) example sett](/setts/s11/b76ba2r22ba2w8ba2y8ba2g40ba2bb12-b2c2c80-ba5c5c5c-bb5c8ca8-g406054-r888888-we0e0e0-ye8c000/sett.png)|

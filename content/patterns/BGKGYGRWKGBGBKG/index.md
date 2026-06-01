@@ -16,5 +16,5 @@ BGKGYGRWKGBGBKG
 
 | Tartans |
 |---------------|
-| [Euler Hermes](/tartans/b/86/g6/k24/t6/o6/ga6/r6/lp6/k4/g22/b6/g8/b8/k3/g/8/)|
-|![Euler Hermes example sett](/variants/b/86/g6/k24/t6/o6/ga6/r6/lp6/k4/g22/b6/g8/b8/k3/g/8-b2888c4-g00643c-ga288028-k101010-lpa8ace8-oec8048-rc80000-t604000/sett.png)|
+| [Euler Hermes](/setts/s15/b86g6k24ga6y6gb6r6w6k4g22b6g8b8k3g8-b2888c4-g00643c-ga604000-gb288028-k101010-rc80000-wa8ace8-yec8048/)|
+|![Euler Hermes example sett](/setts/s15/b86g6k24ga6y6gb6r6w6k4g22b6g8b8k3g8-b2888c4-g00643c-ga604000-gb288028-k101010-rc80000-wa8ace8-yec8048/sett.png)|

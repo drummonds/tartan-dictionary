@@ -16,5 +16,5 @@ BGRBRBYBWBWBYBRBRGBW
 
 | Tartans |
 |---------------|
-| [Sons of Scotland](/tartans/b/8/g36/r8/db6/ra6/db8/dy6/db42/w4/db4/w4/db42/dy6/db8/ra6/db6/r8/g36/b8/w/4/)|
-|![Sons of Scotland example sett](/variants/b/8/g36/r8/db6/ra6/db8/dy6/db42/w4/db4/w4/db42/dy6/db8/ra6/db6/r8/g36/b8/w/4-b1870a4-db202060-dba000048-dbb2c2c80-dg003820-dybc8c00-g006818-r980044-rac80000-wfcfcfc/sett.png)|
+| [Sons of Scotland](/setts/s20/b8g36r8ba6ra6ba8y6ba42w4ba4w4ba42y6ba8ra6ba6r8g36b8w4-b1870a4-ba202060-g006818-r980044-rac80000-wfcfcfc-ybc8c00/)|
+|![Sons of Scotland example sett](/setts/s20/b8g36r8ba6ra6ba8y6ba42w4ba4w4ba42y6ba8ra6ba6r8g36b8w4-b1870a4-ba202060-g006818-r980044-rac80000-wfcfcfc-ybc8c00/sett.png)|

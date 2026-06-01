@@ -16,5 +16,5 @@ BBBBRBRBRBBB
 
 | Tartans |
 |---------------|
-| [Great Scot](/tartans/ba/6/db52/dba41/pa12/p6/pa12/p6/pa12/dba41/db52/ba6/db/12/)|
-|![Great Scot example sett](/variants/ba/6/db52/dba41/pa12/p6/pa12/p6/pa12/dba41/db52/ba6/db/12-b1474b4-ba2888c4-db2c2c80-dba003c64-p780078-pab468ac/sett.png)|
+| [Great Scot](/setts/s12/b6ba52bb41r12bc6r12bc6r12bb41ba52b6ba12-b2888c4-ba2c2c80-bb003c64-bc780078-rb468ac/)|
+|![Great Scot example sett](/setts/s12/b6ba52bb41r12bc6r12bc6r12bb41ba52b6ba12-b2888c4-ba2c2c80-bb003c64-bc780078-rb468ac/sett.png)|

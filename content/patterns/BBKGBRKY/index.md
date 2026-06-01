@@ -6,7 +6,7 @@ BBKGBRKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dba/6/db4/k37/g6/db80/n4/k4/dy/4-db2c2c80-dba1c0070-dybc8c00-g006818-k101010-n888888/tartan.png)
+![Woven sample](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBKGBRKY
 
 | Tartans |
 |---------------|
-| [Law Enforcement Officers' Memorial](/tartans/dba/6/db4/k37/g6/db80/n4/k4/dy/4/)|
-|![Law Enforcement Officers' Memorial example sett](/variants/dba/6/db4/k37/g6/db80/n4/k4/dy/4-db2c2c80-dba1c0070-dybc8c00-g006818-k101010-n888888/sett.png)|
+| [Law Enforcement Officers' Memorial](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/)|
+|![Law Enforcement Officers' Memorial example sett](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/sett.png)|
+| [Law Enforcement Officers' Mem. (Cor](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/)|
+|![Law Enforcement Officers' Mem. (Cor example sett](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/sett.png)|

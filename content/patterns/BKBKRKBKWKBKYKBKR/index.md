@@ -16,7 +16,9 @@ BKBKRKBKWKBKYKBKR
 
 | Tartans |
 |---------------|
-| [Kilburnie (Fashion)](/tartans/db/24/k4/db4/k4/r6/k4/b12/k4/ln4/k4/b12/k4/y4/k4/db12/k4/r/4/)|
-|![Kilburnie (Fashion) example sett](/variants/db/24/k4/db4/k4/r6/k4/b12/k4/ln4/k4/b12/k4/y4/k4/db12/k4/r/4-b5c8ca8-db2c2c80-k101010-lne0e0e0-rc80000-ye8c000/sett.png)|
-| [Kilburnie](/tartans/b/24/k4/b4/k4/r6/k4/ba12/k4/ln4/k4/ba12/k4/y4/k4/b12/k4/r/4/)|
-|![Kilburnie example sett](/variants/b/24/k4/b4/k4/r6/k4/ba12/k4/ln4/k4/ba12/k4/y4/k4/b12/k4/r/4-b304080-ba5480b0-k000000-lne0e0e0-rc00000-yf0c000/sett.png)|
+| [Kilburnie (Fashion)](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Kilburnie (Fashion) example sett](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Kilburnie](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Kilburnie example sett](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Kilburnie Trade Tartan Tartan Number: 284. Earliest known date: 1985 No count given. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Kilburnie Trade Tartan Tartan Number: 284. Earliest known date: 1985 No count given. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

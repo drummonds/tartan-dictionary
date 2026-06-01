@@ -16,7 +16,9 @@ BBBBBYWRWYGKGKG
 
 | Tartans |
 |---------------|
-| [McCulloch (Personal)](/tartans/b/12/db2/b2/db2/b6/n2/ln2/r2/ln2/n2/g6/k2/g2/k2/g/12/)|
-|![McCulloch (Personal) example sett](/variants/b/12/db2/b2/db2/b6/n2/ln2/r2/ln2/n2/g6/k2/g2/k2/g/12-b2888c4-db2c2c80-g5c6428-k101010-lne0e0e0-na0a0a0-rc80000/sett.png)|
-| [McCulloch (Military Colours)](/tartans/b/12/db2/b2/db2/b6/n2/na2/r2/na2/n2/t6/dg2/t2/dg2/t/12/)|
-|![McCulloch (Military Colours) example sett](/variants/b/12/db2/b2/db2/b6/n2/na2/r2/na2/n2/t6/dg2/t2/dg2/t/12-b0064ac-db000064-dg001e00-na9a0a0-nac0c0c0-rdc0000-t324114/sett.png)|
+| [McCulloch (Personal)](/setts/s15/b24ba4b4ba4b12y4w4r4w4y4g12k4g4k4g24-b2888c4-ba2c2c80-g5c6428-k101010-rc80000-we0e0e0-ya0a0a0/)|
+|![McCulloch (Personal) example sett](/setts/s15/b24ba4b4ba4b12y4w4r4w4y4g12k4g4k4g24-b2888c4-ba2c2c80-g5c6428-k101010-rc80000-we0e0e0-ya0a0a0/sett.png)|
+| [McCulloch (Military Colours)](/setts/s15/b24ba4b4ba4b12y4w4r4w4y4g12k4g4k4g24-b0064ac-ba000064-g324114-k001e00-rdc0000-wc0c0c0-ya9a0a0/)|
+|![McCulloch (Military Colours) example sett](/setts/s15/b24ba4b4ba4b12y4w4r4w4y4g12k4g4k4g24-b0064ac-ba000064-g324114-k001e00-rdc0000-wc0c0c0-ya9a0a0/sett.png)|
+| [McCulloch (Personal)](/setts/s15/b24ba4b4ba4b12y4w4r4w4y4g12k4g4k4g24-b2888c4-ba2c2c80-g5c6428-k101010-rc80000-we0e0e0-ya0a0a0/)|
+|![McCulloch (Personal) example sett](/setts/s15/b24ba4b4ba4b12y4w4r4w4y4g12k4g4k4g24-b2888c4-ba2c2c80-g5c6428-k101010-rc80000-we0e0e0-ya0a0a0/sett.png)|

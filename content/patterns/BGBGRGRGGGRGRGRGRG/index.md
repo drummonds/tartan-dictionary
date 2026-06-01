@@ -16,5 +16,5 @@ BGBGRGRGGGRGRGRGRG
 
 | Tartans |
 |---------------|
-| [Ben Murad (Personal)](/tartans/b/10/dg4/ba10/dg6/dr4/dg6/lt10/dg4/g10/dg36/dr6/dg6/dr28/g26/dr30/dg6/dr6/dg/36/)|
-|![Ben Murad (Personal) example sett](/variants/b/10/dg4/ba10/dg6/dr4/dg6/lt10/dg4/g10/dg36/dr6/dg6/dr28/g26/dr30/dg6/dr6/dg/36-b447888-ba205074-dg244830-drac2444-g645028-lt947024/sett.png)|
+| [Ben Murad (Personal)](/setts/s18/b10g4ba10g6r4g6ra10g4ga10g36r6g6r28ga26r30g6r6g36-b447888-ba205074-g244830-ga645028-rac2444-ra947024/)|
+|![Ben Murad (Personal) example sett](/setts/s18/b10g4ba10g6r4g6ra10g4ga10g36r6g6r28ga26r30g6r6g36-b447888-ba205074-g244830-ga645028-rac2444-ra947024/sett.png)|

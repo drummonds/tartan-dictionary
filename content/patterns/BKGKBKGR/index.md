@@ -6,7 +6,7 @@ BKGKBKGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/12/k2/g6/k2/db6/k2/g20/r/6-db2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/tartan.png)
 
 
 
@@ -18,9 +18,11 @@ BKGKBKGR
 
 | Tartans |
 |---------------|
-| [Aiton/Ayton](/tartans/db/12/k2/g6/k2/db6/k2/g20/r/6/)|
-|![Aiton/Ayton example sett](/variants/db/12/k2/g6/k2/db6/k2/g20/r/6-db2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Ayrton 1979 No. 2 (Personal)](/tartans/b/10/k2/g6/k2/b6/k2/g20/r/6/)|
-|![Ayrton 1979 No. 2 (Personal) example sett](/variants/b/10/k2/g6/k2/b6/k2/g20/r/6-b1474b4-g006818-k101010-rc80000/sett.png)|
-| [Aiton](/tartans/b/12/k2/g6/k2/b6/k2/g20/r/6/)|
-|![Aiton example sett](/variants/b/12/k2/g6/k2/b6/k2/g20/r/6-b304080-g008000-k000000-rc00000/sett.png)|
+| [Aiton/Ayton](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/)|
+|![Aiton/Ayton example sett](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [AIton - 1979 (Clan)](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/)|
+|![AIton - 1979 (Clan) example sett](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Ayrton 1979 No. 2 (Personal)](/setts/s8/b10k2g6k2b6k2g20r6-b1474b4-g006818-k101010-rc80000/)|
+|![Ayrton 1979 No. 2 (Personal) example sett](/setts/s8/b10k2g6k2b6k2g20r6-b1474b4-g006818-k101010-rc80000/sett.png)|
+| [Aiton](/setts/s8/b12k2g6k2b6k2g20r6-b304080-g008000-k000000-rc00000/)|
+|![Aiton example sett](/setts/s8/b12k2g6k2b6k2g20r6-b304080-g008000-k000000-rc00000/sett.png)|

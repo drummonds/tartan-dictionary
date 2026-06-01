@@ -16,5 +16,5 @@ BBRBRWWBR
 
 | Tartans |
 |---------------|
-| [Wild Rose (Commemorative)](/tartans/p/24/n6/r26/p8/r20/ln4/lb36/n44/r/8/)|
-|![Wild Rose (Commemorative) example sett](/variants/p/24/n6/r26/p8/r20/ln4/lb36/n44/r/8-lb98c8e8-lne0e0e0-n5c5c5c-p780078-rc80000/sett.png)|
+| [Wild Rose (Commemorative)](/setts/s9/b24ba6r26b8r20w4wa36ba44r8-b780078-ba5c5c5c-rc80000-we0e0e0-wa98c8e8/)|
+|![Wild Rose (Commemorative) example sett](/setts/s9/b24ba6r26b8r20w4wa36ba44r8-b780078-ba5c5c5c-rc80000-we0e0e0-wa98c8e8/sett.png)|

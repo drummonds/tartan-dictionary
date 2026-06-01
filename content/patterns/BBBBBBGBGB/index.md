@@ -16,5 +16,7 @@ BBBBBBGBGB
 
 | Tartans |
 |---------------|
-| [Lang](/tartans/b/8/p4/b12/p4/b20/p60/g20/p4/g18/p/4/)|
-|![Lang example sett](/variants/b/8/p4/b12/p4/b20/p60/g20/p4/g18/p/4-b5c8ca8-g006818-p780078/sett.png)|
+| [Lang](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/)|
+|![Lang example sett](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/sett.png)|
+| [Lang (Artefact)](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/)|
+|![Lang (Artefact) example sett](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/sett.png)|

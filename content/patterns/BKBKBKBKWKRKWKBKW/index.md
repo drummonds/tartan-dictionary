@@ -16,5 +16,5 @@ BKBKBKBKWKRKWKBKW
 
 | Tartans |
 |---------------|
-| [Donside Trampoline Club](/tartans/b/24/k4/b4/k4/b4/k4/b4/k24/lb10/k2/lr4/k2/lb10/k24/b24/k2/w/4/)|
-|![Donside Trampoline Club example sett](/variants/b/24/k4/b4/k4/b4/k4/b4/k24/lb10/k2/lr4/k2/lb10/k24/b24/k2/w/4-b1474b4-k101010-lb00fcfc-lrec34c4-wffffff/sett.png)|
+| [Donside Trampoline Club](/setts/s17/b24k4b4k4b4k4b4k24w10k2r4k2w10k24b24k2wa4-b1474b4-k101010-rec34c4-w00fcfc-waffffff/)|
+|![Donside Trampoline Club example sett](/setts/s17/b24k4b4k4b4k4b4k24w10k2r4k2w10k24b24k2wa4-b1474b4-k101010-rec34c4-w00fcfc-waffffff/sett.png)|

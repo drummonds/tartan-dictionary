@@ -16,5 +16,5 @@ BBBBBBGBGBGBGB
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid 2](/tartans/dr/96/na26/dr4/na14/dr4/na14/dr4/na22/dr100/n22/dr4/n14/dr4/n/14/)|
-|![Unidentified Plaid 2 example sett](/variants/dr/96/na26/dr4/na14/dr4/na14/dr4/na22/dr100/n22/dr4/n14/dr4/n/14-dr602040-n506060-na405040/sett.png)|
+| [Unidentified Plaid 2](/setts/s14/b14ba4b14ba4b22ba100g22ba4g14ba4g14ba4g26ba96-b506060-ba602040-g405040/)|
+|![Unidentified Plaid 2 example sett](/setts/s14/b14ba4b14ba4b22ba100g22ba4g14ba4g14ba4g26ba96-b506060-ba602040-g405040/sett.png)|

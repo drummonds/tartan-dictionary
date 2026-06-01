@@ -6,7 +6,7 @@ BGBYGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/dr/6/g26/db26/dy4/dg68/lr/6-db084555-dg052f14-dr680018-dyc58310-g3b522f-lrddd5af/tartan.png)
+![Woven sample](/setts/s6/b6g26ba26y4ga68w6-b680018-ba084555-g3b522f-ga052f14-wddd5af-yc58310/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBYGW
 
 | Tartans |
 |---------------|
-| [Glencross (Tynron) (Personal)](/tartans/dr/6/g26/db26/dy4/dg68/lr/6/)|
-|![Glencross (Tynron) (Personal) example sett](/variants/dr/6/g26/db26/dy4/dg68/lr/6-db084555-dg052f14-dr680018-dyc58310-g3b522f-lrddd5af/sett.png)|
+| [Glencross (Tynron) (Personal)](/setts/s6/b6g26ba26y4ga68w6-b680018-ba084555-g3b522f-ga052f14-wddd5af-yc58310/)|
+|![Glencross (Tynron) (Personal) example sett](/setts/s6/b6g26ba26y4ga68w6-b680018-ba084555-g3b522f-ga052f14-wddd5af-yc58310/sett.png)|

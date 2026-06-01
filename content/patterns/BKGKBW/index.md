@@ -6,7 +6,7 @@ BKGKBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/6/k4/g4/k2/db20/w/2-b2888c4-db2c2c80-g289c18-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b24k16g16k8ba80w8-b2888c4-ba2c2c80-g289c18-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGKBW
 
 | Tartans |
 |---------------|
-| [Isle of Harris (District)](/tartans/b/6/k4/g4/k2/db20/w/2/)|
-|![Isle of Harris (District) example sett](/variants/b/6/k4/g4/k2/db20/w/2-b2888c4-db2c2c80-g289c18-k101010-wfcfcfc/sett.png)|
+| [Isle of Harris (District)](/setts/s6/b24k16g16k8ba80w8-b2888c4-ba2c2c80-g289c18-k101010-wfcfcfc/)|
+|![Isle of Harris (District) example sett](/setts/s6/b24k16g16k8ba80w8-b2888c4-ba2c2c80-g289c18-k101010-wfcfcfc/sett.png)|

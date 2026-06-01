@@ -6,7 +6,7 @@ BBRBG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/40/db32/r18/n40/g/54-b3850c8-db141e46-g004c00-n523e60-rc8002c/tartan.png)
+![Woven sample](/setts/s5/b40ba32r18bb40g54-b3850c8-ba141e46-bb523e60-g004c00-rc8002c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRBG
 
 | Tartans |
 |---------------|
-| [Currens (2016)](/tartans/b/40/db32/r18/n40/g/54/)|
-|![Currens (2016) example sett](/variants/b/40/db32/r18/n40/g/54-b3850c8-db141e46-g004c00-n523e60-rc8002c/sett.png)|
+| [Currens (2016)](/setts/s5/b40ba32r18bb40g54-b3850c8-ba141e46-bb523e60-g004c00-rc8002c/)|
+|![Currens (2016) example sett](/setts/s5/b40ba32r18bb40g54-b3850c8-ba141e46-bb523e60-g004c00-rc8002c/sett.png)|

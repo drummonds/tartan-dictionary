@@ -16,5 +16,7 @@ BBKBKBGKBKGWGRGRGBGKY
 
 | Tartans |
 |---------------|
-| [Unidentified #3](/tartans/p/256/b40/k6/dg12/k2/dg8/g16/k4/ba10/k4/g140/ln12/g24/r48/g10/r10/g16/b8/g24/k4/y/14/)|
-|![Unidentified #3 example sett](/variants/p/256/b40/k6/dg12/k2/dg8/g16/k4/ba10/k4/g140/ln12/g24/r48/g10/r10/g16/b8/g24/k4/y/14-b2c4084-ba0596fa-dg002814-g005020-k101010-lne0e0e0-p5a008c-rdc0000-ye8c000/sett.png)|
+| [Unidentified #3](/setts/s21/b128ba20k3bb6k1bb4g8k2bc5k2g70w6g12r24g5r5g8ba4g12k2y7-b5a008c-ba2c4084-bb002814-bc0596fa-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Unidentified #3 example sett](/setts/s21/b128ba20k3bb6k1bb4g8k2bc5k2g70w6g12r24g5r5g8ba4g12k2y7-b5a008c-ba2c4084-bb002814-bc0596fa-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Annandale (Personal)](/setts/s21/b128ba20k3bb6k1bb4g8k2bc5k2g70w6g12r24g5r5g8ba4g12k2y7-b5a008c-ba2c4084-bb002814-bc0596fa-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Annandale (Personal) example sett](/setts/s21/b128ba20k3bb6k1bb4g8k2bc5k2g70w6g12r24g5r5g8ba4g12k2y7-b5a008c-ba2c4084-bb002814-bc0596fa-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|

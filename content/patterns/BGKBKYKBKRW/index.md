@@ -16,9 +16,9 @@ BGKBKYKBKRW
 
 | Tartans |
 |---------------|
-| [Baxter (Clan)](/tartans/b/2/g32/k2/b4/k2/dy8/k2/b4/k2/dr32/n/4/)|
-|![Baxter (Clan) example sett](/variants/b/2/g32/k2/b4/k2/dy8/k2/b4/k2/dr32/n/4-b788cb4-dr8c0000-dyc88c00-g007800-k000000-nc8c8c8/sett.png)|
-| [Baxter of Balgavies](/tartans/b/2/g32/k2/b4/k2/y8/k2/b4/k2/r32/ln/4/)|
-|![Baxter of Balgavies example sett](/variants/b/2/g32/k2/b4/k2/y8/k2/b4/k2/r32/ln/4-b5480b0-g008000-k000000-lne0e0e0-rc00000-yf0c000/sett.png)|
-| [Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/2/g32/k2/b4/k2/y86/k2/b4/k2/r32/ln/4/)|
-|![Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/2/g32/k2/b4/k2/y86/k2/b4/k2/r32/ln/4-b5c8ca8-g006818-k101010-lne0e0e0-rc80000-ye8c000/sett.png)|
+| [Baxter (Clan)](/setts/s11/b4g64k4b8k4y16k4b8k4r64w8-b788cb4-g007800-k000000-r8c0000-wc8c8c8-yc88c00/)|
+|![Baxter (Clan) example sett](/setts/s11/b4g64k4b8k4y16k4b8k4r64w8-b788cb4-g007800-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|
+| [Baxter of Balgavies](/setts/s11/b2g32k2b4k2y8k2b4k2r32w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Baxter of Balgavies example sett](/setts/s11/b2g32k2b4k2y8k2b4k2r32w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b2g32k2b4k2y86k2b4k2r32w4-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b2g32k2b4k2y86k2b4k2r32w4-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

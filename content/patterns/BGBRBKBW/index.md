@@ -6,7 +6,7 @@ BGBRBKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/146/ga32/db20/r16/db20/k8/db20/ln/4-db202060-g285800-ga006818-k101010-lne0e0e0-rc80000/tartan.png)
+![Woven sample](/setts/s8/b146g32b20r16b20k8b20w4-b202060-g006818-k101010-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,9 +18,11 @@ BGBRBKBW
 
 | Tartans |
 |---------------|
-| [Scotch Whisky Heritage Centre](/tartans/db/146/ga32/db20/r16/db20/k8/db20/ln/4/)|
-|![Scotch Whisky Heritage Centre example sett](/variants/db/146/ga32/db20/r16/db20/k8/db20/ln/4-db202060-g285800-ga006818-k101010-lne0e0e0-rc80000/sett.png)|
-| [Scotch Whisky Heritage Centre (Corp)](/tartans/db/146/g32/db20/r16/db20/k8/db20/ln/4/)|
-|![Scotch Whisky Heritage Centre (Corp) example sett](/variants/db/146/g32/db20/r16/db20/k8/db20/ln/4-db202060-g006818-k101010-lne0e0e0-rc80000/sett.png)|
-| [Scotch Whisky, Heritage](/tartans/db/73/g16/db10/r8/db10/k4/db10/ln/2/)|
-|![Scotch Whisky, Heritage example sett](/variants/db/73/g16/db10/r8/db10/k4/db10/ln/2-db000050-g008000-k000000-lne0e0e0-rc00000/sett.png)|
+| [Scotch Whisky Heritage Centre](/setts/s8/b146g32b20r16b20k8b20w4-b202060-g006818-k101010-rc80000-we0e0e0/)|
+|![Scotch Whisky Heritage Centre example sett](/setts/s8/b146g32b20r16b20k8b20w4-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Scotch Whisky Heritage Centre (Corp)](/setts/s8/b146g32b20r16b20k8b20w4-b202060-g006818-k101010-rc80000-we0e0e0/)|
+|![Scotch Whisky Heritage Centre (Corp) example sett](/setts/s8/b146g32b20r16b20k8b20w4-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Scotch Whisky, Heritage](/setts/s8/b73g16b10r8b10k4b10w2-b000050-g008000-k000000-rc00000-we0e0e0/)|
+|![Scotch Whisky, Heritage example sett](/setts/s8/b73g16b10r8b10k4b10w2-b000050-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Scotch Whisky Heritage Corporate Tartan Tartan Number: 1920. Earliest known date: 1987 Half actual count for display. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b73g16b10r8b10k4b10w2-b202060-g006818-k101010-rc80000-we0e0e0/)|
+|![Scotch Whisky Heritage Corporate Tartan Tartan Number: 1920. Earliest known date: 1987 Half actual count for display. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b73g16b10r8b10k4b10w2-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|

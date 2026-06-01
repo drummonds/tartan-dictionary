@@ -6,7 +6,7 @@ BKBKYGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/2/k2/db16/k16/n2/dg16/dr/4-db000052-dg11450d-draa0000-k000000-naaaaaa/tartan.png)
+![Woven sample](/setts/s7/b2k2b16k16y2g16r4-b000052-g11450d-k000000-raa0000-yaaaaaa/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKBKYGR
 
 | Tartans |
 |---------------|
-| [Colquhoun](/tartans/db/2/k2/db16/k16/n2/dg16/dr/4/)|
-|![Colquhoun example sett](/variants/db/2/k2/db16/k16/n2/dg16/dr/4-db000052-dg11450d-draa0000-k000000-naaaaaa/sett.png)|
+| [Colquhoun](/setts/s7/b2k2b16k16y2g16r4-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Colquhoun example sett](/setts/s7/b2k2b16k16y2g16r4-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Colquhoun](/setts/s7/b1k1b8k8y1g8r2-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Colquhoun example sett](/setts/s7/b1k1b8k8y1g8r2-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

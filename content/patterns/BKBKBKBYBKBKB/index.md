@@ -16,5 +16,7 @@ BKBKBKBYBKBKB
 
 | Tartans |
 |---------------|
-| [Clemson University](/tartans/db/22/k4/db4/k4/db4/k16/p16/o4/p16/k16/db16/k4/db/4/)|
-|![Clemson University example sett](/variants/db/22/k4/db4/k4/db4/k16/p16/o4/p16/k16/db16/k4/db/4-db2c2c80-k101010-od87c00-p780078/sett.png)|
+| [Clemson University](/setts/s13/b44k8b8k8b8k32ba32y8ba32k32b32k8b8-b2c2c80-ba780078-k101010-yd87c00/)|
+|![Clemson University example sett](/setts/s13/b44k8b8k8b8k32ba32y8ba32k32b32k8b8-b2c2c80-ba780078-k101010-yd87c00/sett.png)|
+| [Clemson University (Corporate)](/setts/s13/b44k8b8k8b8k32ba32y8ba32k32b32k8b8-b2c2c80-ba780078-k101010-yd87c00/)|
+|![Clemson University (Corporate) example sett](/setts/s13/b44k8b8k8b8k32ba32y8ba32k32b32k8b8-b2c2c80-ba780078-k101010-yd87c00/sett.png)|

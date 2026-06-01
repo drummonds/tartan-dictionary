@@ -16,5 +16,5 @@ BBKBKBKBKBGBKBK
 
 | Tartans |
 |---------------|
-| [Shadow Halls](/tartans/b/2/db8/k22/db2/k2/db2/k2/b2/k22/n8/lg2/n16/k14/db16/k/2/)|
-|![Shadow Halls example sett](/variants/b/2/db8/k22/db2/k2/db2/k2/b2/k22/n8/lg2/n16/k14/db16/k/2-b1870a4-db2c2c80-k101010-lg789484-n5c5c5c/sett.png)|
+| [Shadow Halls](/setts/s15/b4ba16k44ba4k4ba4k4b4k44bb16g4bb32k28ba32k4-b1870a4-ba2c2c80-bb5c5c5c-g789484-k101010/)|
+|![Shadow Halls example sett](/setts/s15/b4ba16k44ba4k4ba4k4b4k44bb16g4bb32k28ba32k4-b1870a4-ba2c2c80-bb5c5c5c-g789484-k101010/sett.png)|

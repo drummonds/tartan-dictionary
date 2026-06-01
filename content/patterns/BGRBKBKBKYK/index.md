@@ -16,5 +16,7 @@ BGRBKBKBKYK
 
 | Tartans |
 |---------------|
-| [Lawtie (Personal)](/tartans/db/30/g10/dr10/db20/k4/db4/k4/db4/k16/n4/k/40/)|
-|![Lawtie (Personal) example sett](/variants/db/30/g10/dr10/db20/k4/db4/k4/db4/k16/n4/k/40-db003c64-dr880000-g006818-k101010-na0a0a0/sett.png)|
+| [Lawtie (Personal)](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/)|
+|![Lawtie (Personal) example sett](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/sett.png)|
+| [Lawtie (Personal)](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/)|
+|![Lawtie (Personal) example sett](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/sett.png)|

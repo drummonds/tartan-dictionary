@@ -16,5 +16,5 @@ BBKBWBKBBGBBBGBBKBWBKBBG
 
 | Tartans |
 |---------------|
-| [Heart of Scotland (Milne)](/tartans/g/6/p6/pa36/k36/db34/ln8/db34/k36/pa8/p6/g6/p6/pa34/p6/g6/p6/pa8/k36/db34/ln8/db34/k36/pa36/p/6/)|
-|![Heart of Scotland (Milne) example sett](/variants/g/6/p6/pa36/k36/db34/ln8/db34/k36/pa8/p6/g6/p6/pa34/p6/g6/p6/pa8/k36/db34/ln8/db34/k36/pa36/p/6-db303070-dp440044-g006818-k101010-lne0e0e0-p6c0070-pa780078/sett.png)|
+| [Heart of Scotland (Milne)](/setts/s24/b6ba36k36bb34w8bb34k36ba8b6g6b6ba34b6g6b6ba8k36bb34w8bb34k36ba36b6g6-b6c0070-ba780078-bb303070-g006818-k101010-we0e0e0/)|
+|![Heart of Scotland (Milne) example sett](/setts/s24/b6ba36k36bb34w8bb34k36ba8b6g6b6ba34b6g6b6ba8k36bb34w8bb34k36ba36b6g6-b6c0070-ba780078-bb303070-g006818-k101010-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ BKBKBYRKYB
 
 | Tartans |
 |---------------|
-| [Moran Family Ubique](/tartans/b/14/dy4/k16/r16/dy16/dg4/k4/dg4/k4/dg/136/)|
-|![Moran Family Ubique example sett](/variants/b/14/dy4/k16/r16/dy16/dg4/k4/dg4/k4/dg/136-b2c4084-dg002814-dyc89600-k101010-rc80028/sett.png)|
+| [Moran Family Ubique](/setts/s10/b136k4b4k4b4y16r16k16y4ba14-b002814-ba2c4084-k101010-rc80028-yc89600/)|
+|![Moran Family Ubique example sett](/setts/s10/b136k4b4k4b4y16r16k16y4ba14-b002814-ba2c4084-k101010-rc80028-yc89600/sett.png)|

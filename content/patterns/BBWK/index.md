@@ -6,7 +6,7 @@ BBWK
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/k/4/w6/b50/lp/40-b28429f-k101010-lp8642af-wffffff/tartan.png)
+![Woven sample](/setts/s4/b40ba50w6k4-b8642af-ba28429f-k101010-wffffff/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBWK
 
 | Tartans |
 |---------------|
-| [Murdoch, Ellis (Personal)](/tartans/k/4/w6/b50/lp/40/)|
-|![Murdoch, Ellis (Personal) example sett](/variants/k/4/w6/b50/lp/40-b28429f-k101010-lp8642af-wffffff/sett.png)|
-| [Murdoch, Ellis (Personal)](/tartans/k/4/ln6/b50/p/40/)|
-|![Murdoch, Ellis (Personal) example sett](/variants/k/4/ln6/b50/p/40-b3838a4-k101010-lne0e0e0-p780078/sett.png)|
+| [Murdoch, Ellis (Personal)](/setts/s4/b40ba50w6k4-b8642af-ba28429f-k101010-wffffff/)|
+|![Murdoch, Ellis (Personal) example sett](/setts/s4/b40ba50w6k4-b8642af-ba28429f-k101010-wffffff/sett.png)|
+| [Murdoch, Ellis (Personal)](/setts/s4/b40ba50w6k4-b780078-ba3838a4-k101010-we0e0e0/)|
+|![Murdoch, Ellis (Personal) example sett](/setts/s4/b40ba50w6k4-b780078-ba3838a4-k101010-we0e0e0/sett.png)|

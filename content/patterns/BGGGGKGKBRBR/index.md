@@ -16,5 +16,7 @@ BGGGGKGKBRBR
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Hunting](/tartans/dr/8/db8/dr4/db26/k12/g6/k12/lt4/g8/lt4/g28/p/8/)|
-|![Kinloch Anderson Hunting example sett](/variants/dr/8/db8/dr4/db26/k12/g6/k12/lt4/g8/lt4/g28/p/8-db1c0070-dr880000-g006818-k101010-lt8c7038-p6c0070/sett.png)|
+| [Kinloch Anderson Hunting](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/)|
+|![Kinloch Anderson Hunting example sett](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/sett.png)|
+| [Kinloch Anderson Htg (Corporate)](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/)|
+|![Kinloch Anderson Htg (Corporate) example sett](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/sett.png)|

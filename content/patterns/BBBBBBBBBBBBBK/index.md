@@ -16,5 +16,5 @@ BBBBBBBBBBBBBK
 
 | Tartans |
 |---------------|
-| [Benedictus Blue (Personal)](/tartans/k/16/b6/ba12/db4/p4/db4/ba35/db40/ba4/db4/ba4/db6/p4/lp/6/)|
-|![Benedictus Blue (Personal) example sett](/variants/k/16/b6/ba12/db4/p4/db4/ba35/db40/ba4/db4/ba4/db6/p4/lp/6-b007fff-ba0000cd-db000080-k101010-lp8b4789-p800080/sett.png)|
+| [Benedictus Blue (Personal)](/setts/s14/b6ba4bb6bc4bb4bc4bb40bc35bb4ba4bb4bc12bd6k16-b8b4789-ba800080-bb000080-bc0000cd-bd007fff-k101010/)|
+|![Benedictus Blue (Personal) example sett](/setts/s14/b6ba4bb6bc4bb4bc4bb40bc35bb4ba4bb4bc12bd6k16-b8b4789-ba800080-bb000080-bc0000cd-bd007fff-k101010/sett.png)|

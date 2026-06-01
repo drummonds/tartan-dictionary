@@ -16,7 +16,7 @@ BGBWBGBGRG
 
 | Tartans |
 |---------------|
-| [Edmonstone of Duntreath](/tartans/db/10/g10/db20/w4/db20/g10/db20/g28/r8/g/14/)|
-|![Edmonstone of Duntreath example sett](/variants/db/10/g10/db20/w4/db20/g10/db20/g28/r8/g/14-db000080-g006400-rff0000-wffffff/sett.png)|
-| [Edmonstone (Clan)](/tartans/db/10/g10/db20/ln4/db20/g10/db20/g28/r8/g/14/)|
-|![Edmonstone (Clan) example sett](/variants/db/10/g10/db20/ln4/db20/g10/db20/g28/r8/g/14-db003c64-g006818-lne0e0e0-rc8002c/sett.png)|
+| [Edmonstone of Duntreath](/setts/s10/b10g10b20w4b20g10b20g28r8g14-b000080-g006400-rff0000-wffffff/)|
+|![Edmonstone of Duntreath example sett](/setts/s10/b10g10b20w4b20g10b20g28r8g14-b000080-g006400-rff0000-wffffff/sett.png)|
+| [Edmonstone (Clan)](/setts/s10/b10g10b20w4b20g10b20g28r8g14-b003c64-g006818-rc8002c-we0e0e0/)|
+|![Edmonstone (Clan) example sett](/setts/s10/b10g10b20w4b20g10b20g28r8g14-b003c64-g006818-rc8002c-we0e0e0/sett.png)|

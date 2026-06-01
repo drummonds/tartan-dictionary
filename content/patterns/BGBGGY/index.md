@@ -6,7 +6,7 @@ BGBGGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/g/2/t2/g14/t10/lt14/n/2-g084848-lt8c7038-nb8b8b8-t604000/tartan.png)
+![Woven sample](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBGGY
 
 | Tartans |
 |---------------|
-| [Dewar (WCWM)](/tartans/g/2/t2/g14/t10/lt14/n/2/)|
-|![Dewar (WCWM) example sett](/variants/g/2/t2/g14/t10/lt14/n/2-g084848-lt8c7038-nb8b8b8-t604000/sett.png)|
+| [Dewar (WCWM)](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/)|
+|![Dewar (WCWM) example sett](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/sett.png)|
+| [Dewar (Fashion)](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/)|
+|![Dewar (Fashion) example sett](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/sett.png)|

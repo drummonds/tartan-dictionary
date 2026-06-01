@@ -6,7 +6,7 @@ BGGWKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/72/lg40/dg12/w24/k12/dr/6-db0c4252-dg003c14-dr960028-k1c1714-lg789484-wffffff/tartan.png)
+![Woven sample](/setts/s6/b72g40ga12w24k12r6-b0c4252-g789484-ga003c14-k1c1714-r960028-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGWKR
 
 | Tartans |
 |---------------|
-| [Sirens & Swords](/tartans/db/72/lg40/dg12/w24/k12/dr/6/)|
-|![Sirens & Swords example sett](/variants/db/72/lg40/dg12/w24/k12/dr/6-db0c4252-dg003c14-dr960028-k1c1714-lg789484-wffffff/sett.png)|
+| [Sirens & Swords](/setts/s6/b72g40ga12w24k12r6-b0c4252-g789484-ga003c14-k1c1714-r960028-wffffff/)|
+|![Sirens & Swords example sett](/setts/s6/b72g40ga12w24k12r6-b0c4252-g789484-ga003c14-k1c1714-r960028-wffffff/sett.png)|

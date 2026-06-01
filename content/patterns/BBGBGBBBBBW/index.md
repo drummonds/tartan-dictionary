@@ -16,5 +16,5 @@ BBGBGBBBBBW
 
 | Tartans |
 |---------------|
-| [Schiehallion (Corporate)](/tartans/b/28/db8/g4/db4/ga6/db4/b34/db62/b2/db2/w/4/)|
-|![Schiehallion (Corporate) example sett](/variants/b/28/db8/g4/db4/ga6/db4/b34/db62/b2/db2/w/4-b1870a4-db202060-g408060-ga006818-wfcfcfc/sett.png)|
+| [Schiehallion (Corporate)](/setts/s11/b28ba8g4ba4ga6ba4b34ba62b2ba2w4-b1870a4-ba202060-g408060-ga006818-wfcfcfc/)|
+|![Schiehallion (Corporate) example sett](/setts/s11/b28ba8g4ba4ga6ba4b34ba62b2ba2w4-b1870a4-ba202060-g408060-ga006818-wfcfcfc/sett.png)|

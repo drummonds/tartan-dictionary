@@ -6,7 +6,7 @@ BBYBBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/42/n4/na2/n4/db2/dr4/db2/lt/12-db000088-dr880000-lt886024-n606060-naacacac/tartan.png)
+![Woven sample](/setts/s8/b84ba8y4ba8b4r8b4ra24-b000088-ba606060-r880000-ra886024-yacacac/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYBBRBR
 
 | Tartans |
 |---------------|
-| [Blue Rust (Corporate)](/tartans/db/42/n4/na2/n4/db2/dr4/db2/lt/12/)|
-|![Blue Rust (Corporate) example sett](/variants/db/42/n4/na2/n4/db2/dr4/db2/lt/12-db000088-dr880000-lt886024-n606060-naacacac/sett.png)|
+| [Blue Rust (Corporate)](/setts/s8/b84ba8y4ba8b4r8b4ra24-b000088-ba606060-r880000-ra886024-yacacac/)|
+|![Blue Rust (Corporate) example sett](/setts/s8/b84ba8y4ba8b4r8b4ra24-b000088-ba606060-r880000-ra886024-yacacac/sett.png)|

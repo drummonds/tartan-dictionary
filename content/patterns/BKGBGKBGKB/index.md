@@ -16,5 +16,7 @@ BKGBGKBGKB
 
 | Tartans |
 |---------------|
-| [Chateau](/tartans/b/4/k2/t12/ba8/k6/t6/b2/t6/k6/ba/72/)|
-|![Chateau example sett](/variants/b/4/k2/t12/ba8/k6/t6/b2/t6/k6/ba/72-b488cc0-ba306084-k000000-t484800/sett.png)|
+| [Chateau](/setts/s10/b144k12g12ba4g12k12b16g24k4ba8-b306084-ba488cc0-g484800-k000000/)|
+|![Chateau example sett](/setts/s10/b144k12g12ba4g12k12b16g24k4ba8-b306084-ba488cc0-g484800-k000000/sett.png)|
+| [Chateau (Fashion)](/setts/s10/b144k12g12ba4g12k12b16g24k4ba8-b306084-ba488cc0-g484800-k000000/)|
+|![Chateau (Fashion) example sett](/setts/s10/b144k12g12ba4g12k12b16g24k4ba8-b306084-ba488cc0-g484800-k000000/sett.png)|

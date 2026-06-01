@@ -16,7 +16,7 @@ BBBKBYBBBKW
 
 | Tartans |
 |---------------|
-| [Connaught Ancestry](/tartans/b/8/k42/b16/ka8/b8/do8/b18/k18/b76/ka2/w/6/)|
-|![Connaught Ancestry example sett](/variants/b/8/k42/b16/ka8/b8/do8/b18/k18/b76/ka2/w/6-b0d4f8b-docc7f32-k332c2c-ka101010-wffffff/sett.png)|
-| [Connaught Ancestry (Fashion)](/tartans/db/8/n42/db16/k8/db8/y8/db18/n18/db76/k2/lr/6/)|
-|![Connaught Ancestry (Fashion) example sett](/variants/db/8/n42/db16/k8/db8/y8/db18/n18/db76/k2/lr/6-db2c2c80-k101010-lre8ccb8-n5c5c5c-ye8c000/sett.png)|
+| [Connaught Ancestry](/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b0d4f8b-ba332c2c-k101010-wffffff-ycc7f32/)|
+|![Connaught Ancestry example sett](/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b0d4f8b-ba332c2c-k101010-wffffff-ycc7f32/sett.png)|
+| [Connaught Ancestry (Fashion)](/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b2c2c80-ba5c5c5c-k101010-we8ccb8-ye8c000/)|
+|![Connaught Ancestry (Fashion) example sett](/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b2c2c80-ba5c5c5c-k101010-we8ccb8-ye8c000/sett.png)|

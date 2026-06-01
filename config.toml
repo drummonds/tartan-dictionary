@@ -53,13 +53,9 @@ googleAnalytics = ""
   url = "/pattern/"
   weight = 5
   [[menu.main]]
-  name = "Tartan"
-  url = "/tartan/"
+  name = "Setts"
+  url = "/setts/"
   weight = 6
-  [[menu.main]]
-  name = "Variants"
-  url = "/variants/"
-  weight = 7
   [[menu.main]]
   name = "About"
   url = "/about/"

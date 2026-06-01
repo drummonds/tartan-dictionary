@@ -6,7 +6,7 @@ BGKWK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/2/n40/k10/ln14/k/10-db2c2c80-k101010-lne0e0e0-n7c7c7c/tartan.png)
+![Woven sample](/setts/s5/b4g80k20w28k20-b2c2c80-g7c7c7c-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGKWK
 
 | Tartans |
 |---------------|
-| [Burberry Grey (Original)](/tartans/db/2/n40/k10/ln14/k/10/)|
-|![Burberry Grey (Original) example sett](/variants/db/2/n40/k10/ln14/k/10-db2c2c80-k101010-lne0e0e0-n7c7c7c/sett.png)|
+| [Burberry Grey (Original)](/setts/s5/b4g80k20w28k20-b2c2c80-g7c7c7c-k101010-we0e0e0/)|
+|![Burberry Grey (Original) example sett](/setts/s5/b4g80k20w28k20-b2c2c80-g7c7c7c-k101010-we0e0e0/sett.png)|
+| [Burberry, Grey (Original) (Fashion)](/setts/s5/b4g80k20w28k20-b2c2c80-g7c7c7c-k101010-we0e0e0/)|
+|![Burberry, Grey (Original) (Fashion) example sett](/setts/s5/b4g80k20w28k20-b2c2c80-g7c7c7c-k101010-we0e0e0/sett.png)|

@@ -16,7 +16,11 @@ BKBKBKGYG
 
 | Tartans |
 |---------------|
-| [Abercrombie](/tartans/db/14/k4/db4/k4/db4/k14/dg14/n2/dg/28/)|
-|![Abercrombie example sett](/variants/db/14/k4/db4/k4/db4/k14/dg14/n2/dg/28-db000052-dg11450d-k000000-naaaaaa/sett.png)|
-| [Abercrombie D](/tartans/db/28/k4/db4/k4/db4/k14/dg14/n2/dg/28/)|
-|![Abercrombie D example sett](/variants/db/28/k4/db4/k4/db4/k14/dg14/n2/dg/28-db000052-dg11450d-k000000-naaaaaa/sett.png)|
+| [Abercrombie](/setts/s9/b14k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/)|
+|![Abercrombie example sett](/setts/s9/b14k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/sett.png)|
+| [Abercrombie D](/setts/s9/b28k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/)|
+|![Abercrombie D example sett](/setts/s9/b28k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/sett.png)|
+| [Abercrombie](/setts/s9/b14k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/)|
+|![Abercrombie example sett](/setts/s9/b14k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/sett.png)|
+| [Abercrombie D](/setts/s9/b28k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/)|
+|![Abercrombie D example sett](/setts/s9/b28k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/sett.png)|

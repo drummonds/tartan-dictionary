@@ -6,7 +6,7 @@ BGBRRG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/94/g28/dr10/lt4/r6/g/14-db000050-dr401000-g008000-lt806050-rc00000/tartan.png)
+![Woven sample](/setts/s6/b94g28ba10r4ra6g14-b000050-ba401000-g008000-r806050-rac00000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRRG
 
 | Tartans |
 |---------------|
-| [Round Table of Britain and Ireland, RtbI.](/tartans/db/94/g28/dr10/lt4/r6/g/14/)|
-|![Round Table of Britain and Ireland, RtbI. example sett](/variants/db/94/g28/dr10/lt4/r6/g/14-db000050-dr401000-g008000-lt806050-rc00000/sett.png)|
+| [Round Table of Britain and Ireland, RtbI.](/setts/s6/b94g28ba10r4ra6g14-b000050-ba401000-g008000-r806050-rac00000/)|
+|![Round Table of Britain and Ireland, RtbI. example sett](/setts/s6/b94g28ba10r4ra6g14-b000050-ba401000-g008000-r806050-rac00000/sett.png)|

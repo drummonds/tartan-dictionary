@@ -16,5 +16,7 @@ BGBBRYRBW
 
 | Tartans |
 |---------------|
-| [Bains of Caithness](/tartans/db/6/g12/db4/b22/dr6/y8/dr6/b56/w/6/)|
-|![Bains of Caithness example sett](/variants/db/6/g12/db4/b22/dr6/y8/dr6/b56/w/6-b1474b4-db2c2c80-dr880000-g006818-wfcfcfc-ye8c000/sett.png)|
+| [Bains of Caithness](/setts/s9/b6g12b4ba22r6y8r6ba56w6-b2c2c80-ba1474b4-g006818-r880000-wfcfcfc-ye8c000/)|
+|![Bains of Caithness example sett](/setts/s9/b6g12b4ba22r6y8r6ba56w6-b2c2c80-ba1474b4-g006818-r880000-wfcfcfc-ye8c000/sett.png)|
+| [Bains - Caithness (Name)](/setts/s9/b6g12b4ba22r6y8r6ba56w6-b2c2c80-ba1474b4-g006818-r880000-wfcfcfc-ye8c000/)|
+|![Bains - Caithness (Name) example sett](/setts/s9/b6g12b4ba22r6y8r6ba56w6-b2c2c80-ba1474b4-g006818-r880000-wfcfcfc-ye8c000/sett.png)|

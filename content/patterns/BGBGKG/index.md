@@ -6,7 +6,7 @@ BGBGKG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/104/g42/b12/g32/k8/g/32-b1870a4-g289c18-k101010/tartan.png)
+![Woven sample](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBGKG
 
 | Tartans |
 |---------------|
-| [Milligan](/tartans/b/104/g42/b12/g32/k8/g/32/)|
-|![Milligan example sett](/variants/b/104/g42/b12/g32/k8/g/32-b1870a4-g289c18-k101010/sett.png)|
+| [Milligan](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/)|
+|![Milligan example sett](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/sett.png)|
+| [Milligan (Fashion)](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/)|
+|![Milligan (Fashion) example sett](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/sett.png)|

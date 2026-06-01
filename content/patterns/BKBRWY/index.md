@@ -6,7 +6,7 @@ BKBRWY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/30/k20/n60/t22/w6/lg/10-b5c8ca8-k120a01-lg6aa28c-n3f4441-t98481c-wf7f1e8/tartan.png)
+![Woven sample](/setts/s6/b30k20ba60r22w6y10-b5c8ca8-ba3f4441-k120a01-r98481c-wf7f1e8-y6aa28c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBRWY
 
 | Tartans |
 |---------------|
-| [McHale, Barry](/tartans/b/30/k20/n60/t22/w6/lg/10/)|
-|![McHale, Barry example sett](/variants/b/30/k20/n60/t22/w6/lg/10-b5c8ca8-k120a01-lg6aa28c-n3f4441-t98481c-wf7f1e8/sett.png)|
+| [McHale, Barry](/setts/s6/b30k20ba60r22w6y10-b5c8ca8-ba3f4441-k120a01-r98481c-wf7f1e8-y6aa28c/)|
+|![McHale, Barry example sett](/setts/s6/b30k20ba60r22w6y10-b5c8ca8-ba3f4441-k120a01-r98481c-wf7f1e8-y6aa28c/sett.png)|

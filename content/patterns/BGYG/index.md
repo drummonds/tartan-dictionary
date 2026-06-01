@@ -6,7 +6,7 @@ BGYG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/b/10/dg86/o44/dg/21-b2888c4-dg003820-odc943c/tartan.png)
+![Woven sample](/setts/s4/b10g86y44g21-b2888c4-g003820-ydc943c/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGYG
 
 | Tartans |
 |---------------|
-| [Special Saffron (Fashion)](/tartans/b/10/dg86/o44/dg/21/)|
-|![Special Saffron (Fashion) example sett](/variants/b/10/dg86/o44/dg/21-b2888c4-dg003820-odc943c/sett.png)|
-| [Special, Saffron](/tartans/b/10/dg86/o43/dg/21/)|
-|![Special, Saffron example sett](/variants/b/10/dg86/o43/dg/21-b8080d0-dg003000-od08010/sett.png)|
-| [Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/10/dg86/y43/dg/21/)|
-|![Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/10/dg86/y43/dg/21-b2888c4-dg003820-ye8c000/sett.png)|
+| [Special Saffron (Fashion)](/setts/s4/b10g86y44g21-b2888c4-g003820-ydc943c/)|
+|![Special Saffron (Fashion) example sett](/setts/s4/b10g86y44g21-b2888c4-g003820-ydc943c/sett.png)|
+| [Special, Saffron](/setts/s4/b10g86y43g21-b8080d0-g003000-yd08010/)|
+|![Special, Saffron example sett](/setts/s4/b10g86y43g21-b8080d0-g003000-yd08010/sett.png)|
+| [Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b10g86y43g21-b2888c4-g003820-ye8c000/)|
+|![Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/b10g86y43g21-b2888c4-g003820-ye8c000/sett.png)|

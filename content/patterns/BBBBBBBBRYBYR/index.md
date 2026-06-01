@@ -16,7 +16,7 @@ BBBBBBBBRYBYR
 
 | Tartans |
 |---------------|
-| [Kinnaird (1984)](/tartans/dr/34/t6/dr4/t2/dr2/t2/dr2/t2/dra6/dy4/dr2/dy4/lr/2/)|
-|![Kinnaird (1984) example sett](/variants/dr/34/t6/dr4/t2/dr2/t2/dr2/t2/dra6/dy4/dr2/dy4/lr/2-dr441800-dra800028-dybc8c00-lre87878-t4c3428/sett.png)|
-| [Kinnaird - 1984 (Fashion)](/tartans/dra/34/t6/dra4/t2/dra2/t2/dra2/t2/dr6/dy4/dra2/dy4/lr/2/)|
-|![Kinnaird - 1984 (Fashion) example sett](/variants/dra/34/t6/dra4/t2/dra2/t2/dra2/t2/dr6/dy4/dra2/dy4/lr/2-dr800028-dra441800-dybc8c00-lre87878-t4c3428/sett.png)|
+| [Kinnaird (1984)](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/)|
+|![Kinnaird (1984) example sett](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/sett.png)|
+| [Kinnaird - 1984 (Fashion)](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/)|
+|![Kinnaird - 1984 (Fashion) example sett](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/sett.png)|

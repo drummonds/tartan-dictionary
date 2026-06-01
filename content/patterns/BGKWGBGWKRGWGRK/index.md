@@ -16,5 +16,5 @@ BGKWGBGWKRGWGRK
 
 | Tartans |
 |---------------|
-| [Gayre](/tartans/b/36/g8/k8/ln8/g32/b8/g32/ln8/k8/r10/g8/ln8/g8/r10/k/8/)|
-|![Gayre example sett](/variants/b/36/g8/k8/ln8/g32/b8/g32/ln8/k8/r10/g8/ln8/g8/r10/k/8-b304080-g008000-k000000-lne0e0e0-rc00000/sett.png)|
+| [Gayre](/setts/s15/b36g8k8w8g32b8g32w8k8r10g8w8g8r10k8-b304080-g008000-k000000-rc00000-we0e0e0/)|
+|![Gayre example sett](/setts/s15/b36g8k8w8g32b8g32w8k8r10g8w8g8r10k8-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|

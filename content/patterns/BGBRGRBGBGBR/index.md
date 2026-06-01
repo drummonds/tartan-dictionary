@@ -16,5 +16,5 @@ BGBRGRBGBGBR
 
 | Tartans |
 |---------------|
-| [Army Benevolent Fund (Corporate)](/tartans/db/50/g58/dba48/r4/g22/r4/dba48/g58/db50/t8/db10/r/8/)|
-|![Army Benevolent Fund (Corporate) example sett](/variants/db/50/g58/dba48/r4/g22/r4/dba48/g58/db50/t8/db10/r/8-db2c2c80-dba1c0070-g006818-rc8002c-t604000/sett.png)|
+| [Army Benevolent Fund (Corporate)](/setts/s12/b50g58ba48r4g22r4ba48g58b50ga8b10r8-b2c2c80-ba1c0070-g006818-ga604000-rc8002c/)|
+|![Army Benevolent Fund (Corporate) example sett](/setts/s12/b50g58ba48r4g22r4ba48g58b50ga8b10r8-b2c2c80-ba1c0070-g006818-ga604000-rc8002c/sett.png)|

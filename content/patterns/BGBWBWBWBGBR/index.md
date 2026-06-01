@@ -16,5 +16,5 @@ BGBWBWBWBGBR
 
 | Tartans |
 |---------------|
-| [Ikelman #5 (Personal)](/tartans/db/30/g4/db4/ln2/db2/ln2/db2/ln2/db4/g4/db30/dr/20/)|
-|![Ikelman #5 (Personal) example sett](/variants/db/30/g4/db4/ln2/db2/ln2/db2/ln2/db4/g4/db30/dr/20-db1c0070-dr880000-g006818-lne0e0e0-nc0c0c0/sett.png)|
+| [Ikelman #5 (Personal)](/setts/s12/b60g8b8w4b4w4b4w4b8g8b60r40-b1c0070-g006818-r880000-we0e0e0/)|
+|![Ikelman #5 (Personal) example sett](/setts/s12/b60g8b8w4b4w4b4w4b8g8b60r40-b1c0070-g006818-r880000-we0e0e0/sett.png)|

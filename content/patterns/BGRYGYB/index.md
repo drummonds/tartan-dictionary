@@ -6,7 +6,7 @@ BGRYGYB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/120/g9/r7/y12/g33/y33/b/26-b0596fa-g289c18-rff0000-yfccc00/tartan.png)
+![Woven sample](/setts/s7/b120g9r7y12g33y33b26-b0596fa-g289c18-rff0000-yfccc00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGRYGYB
 
 | Tartans |
 |---------------|
-| [Supporter.com](/tartans/b/120/g9/r7/y12/g33/y33/b/26/)|
-|![Supporter.com example sett](/variants/b/120/g9/r7/y12/g33/y33/b/26-b0596fa-g289c18-rff0000-yfccc00/sett.png)|
-| [Supporter.com](/tartans/b/60/g9/r7/y12/g33/y33/b/26/)|
-|![Supporter.com example sett](/variants/b/60/g9/r7/y12/g33/y33/b/26-b2888c4-g006818-rc80000-yfccc00/sett.png)|
+| [Supporter.com](/setts/s7/b120g9r7y12g33y33b26-b0596fa-g289c18-rff0000-yfccc00/)|
+|![Supporter.com example sett](/setts/s7/b120g9r7y12g33y33b26-b0596fa-g289c18-rff0000-yfccc00/sett.png)|
+| [Supporter.com](/setts/s7/b26y33g33y12r7g9b60-b2888c4-g006818-rc80000-yfccc00/)|
+|![Supporter.com example sett](/setts/s7/b26y33g33y12r7g9b60-b2888c4-g006818-rc80000-yfccc00/sett.png)|

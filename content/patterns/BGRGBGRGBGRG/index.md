@@ -16,5 +16,5 @@ BGRGBGRGBGRG
 
 | Tartans |
 |---------------|
-| [Scottish Piping Society of London](/tartans/db/4/g42/r6/g42/db10/g6/r60/g6/db10/g42/r6/g/42/)|
-|![Scottish Piping Society of London example sett](/variants/db/4/g42/r6/g42/db10/g6/r60/g6/db10/g42/r6/g/42-db202060-g5c6428-rc8002c/sett.png)|
+| [Scottish Piping Society of London](/setts/s12/b4g42r6g42b10g6r60g6b10g42r6g42-b202060-g5c6428-rc8002c/)|
+|![Scottish Piping Society of London example sett](/setts/s12/b4g42r6g42b10g6r60g6b10g42r6g42-b202060-g5c6428-rc8002c/sett.png)|

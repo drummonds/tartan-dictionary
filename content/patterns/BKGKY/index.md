@@ -6,7 +6,7 @@ BKGKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/64/k20/g30/k4/y/8-b1474b4-g006818-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b64k20g30k4y8-b1474b4-g006818-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGKY
 
 | Tartans |
 |---------------|
-| [Rothesay & Caithness Fencibles (Mil)](/tartans/b/64/k20/g30/k4/y/8/)|
-|![Rothesay & Caithness Fencibles (Mil) example sett](/variants/b/64/k20/g30/k4/y/8-b1474b4-g006818-k101010-ye8c000/sett.png)|
+| [Rothesay & Caithness Fencibles (Mil)](/setts/s5/b64k20g30k4y8-b1474b4-g006818-k101010-ye8c000/)|
+|![Rothesay & Caithness Fencibles (Mil) example sett](/setts/s5/b64k20g30k4y8-b1474b4-g006818-k101010-ye8c000/sett.png)|

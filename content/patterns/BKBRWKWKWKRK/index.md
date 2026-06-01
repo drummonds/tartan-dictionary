@@ -16,5 +16,7 @@ BKBRWKWKWKRK
 
 | Tartans |
 |---------------|
-| [Bishop](/tartans/db/2/k4/db36/r6/w6/k42/w2/k8/w2/k42/r24/k/4/)|
-|![Bishop example sett](/variants/db/2/k4/db36/r6/w6/k42/w2/k8/w2/k42/r24/k/4-db202060-k101010-rc80000-wf8f8f8/sett.png)|
+| [Bishop](/setts/s12/b2k4b36r6w6k42w2k8w2k42r24k4-b202060-k101010-rc80000-wf8f8f8/)|
+|![Bishop example sett](/setts/s12/b2k4b36r6w6k42w2k8w2k42r24k4-b202060-k101010-rc80000-wf8f8f8/sett.png)|
+| [Bishop (Name)](/setts/s12/b2k4b36r6w6k42w2k8w2k42r24k4-b202060-k101010-rc80000-wf8f8f8/)|
+|![Bishop (Name) example sett](/setts/s12/b2k4b36r6w6k42w2k8w2k42r24k4-b202060-k101010-rc80000-wf8f8f8/sett.png)|

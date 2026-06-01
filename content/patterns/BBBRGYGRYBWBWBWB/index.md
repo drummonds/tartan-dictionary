@@ -16,5 +16,5 @@ BBBRGYGRYBWBWBWB
 
 | Tartans |
 |---------------|
-| [Saint Joseph de Sorel](/tartans/b/6/b6/b16/r24/g4/lt10/g4/n18/y4/b16/w2/b6/w2/b6/w2/b/16/)|
-|![Saint Joseph de Sorel example sett](/variants/b/6/b6/b16/r24/g4/lt10/g4/n18/y4/b16/w2/b6/w2/b6/w2/b/16-b5c8ca8-g289c18-lta08858-n888888-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Saint Joseph de Sorel](/setts/s16/b16w2b6w2b6w2b16y4r18g4ya10g4ra24b16b6b6-b5c8ca8-g289c18-r888888-rac80000-wfcfcfc-ye8c000-yaa08858/)|
+|![Saint Joseph de Sorel example sett](/setts/s16/b16w2b6w2b6w2b16y4r18g4ya10g4ra24b16b6b6-b5c8ca8-g289c18-r888888-rac80000-wfcfcfc-ye8c000-yaa08858/sett.png)|

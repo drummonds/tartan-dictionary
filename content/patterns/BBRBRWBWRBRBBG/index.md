@@ -16,5 +16,5 @@ BBRBRWBWRBRBBG
 
 | Tartans |
 |---------------|
-| [Harding](/tartans/dn/4/na14/r28/na14/r14/w2/dn28/w2/r14/na14/r28/na14/dn4/ga/60/)|
-|![Harding example sett](/variants/dn/4/na14/r28/na14/r14/w2/dn28/w2/r14/na14/r28/na14/dn4/ga/60-db2c2c80-dn14283c-dyd09800-g006818-ga005448-n888888-na5c5c5c-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Harding](/setts/s14/b4ba14r28ba14r14w2b28w2r14ba14r28ba14b4g60-b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8/)|
+|![Harding example sett](/setts/s14/b4ba14r28ba14r14w2b28w2r14ba14r28ba14b4g60-b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8/sett.png)|

@@ -16,5 +16,5 @@ BBWBBWBBR
 
 | Tartans |
 |---------------|
-| [Callaway (Name)](/tartans/b/6/db12/ln6/b32/db8/ln8/db72/b24/r/8/)|
-|![Callaway (Name) example sett](/variants/b/6/db12/ln6/b32/db8/ln8/db72/b24/r/8-b2474e8-db2c2c80-lne0e0e0-rc80000/sett.png)|
+| [Callaway (Name)](/setts/s9/b6ba12w6b32ba8w8ba72b24r8-b2474e8-ba2c2c80-rc80000-we0e0e0/)|
+|![Callaway (Name) example sett](/setts/s9/b6ba12w6b32ba8w8ba72b24r8-b2474e8-ba2c2c80-rc80000-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ BKBKGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/2/k12/db12/k12/dg12/k2/n/2-db000052-dg11450d-k000000-naaaaaa/tartan.png)
+![Woven sample](/setts/s7/b2k12b12k12g12k2y2-b000052-g11450d-k000000-yaaaaaa/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKBKGKY
 
 | Tartans |
 |---------------|
-| [Forbes LC](/tartans/db/2/k12/db12/k12/dg12/k2/n/2/)|
-|![Forbes LC example sett](/variants/db/2/k12/db12/k12/dg12/k2/n/2-db000052-dg11450d-k000000-naaaaaa/sett.png)|
+| [Forbes LC](/setts/s7/b2k12b12k12g12k2y2-b000052-g11450d-k000000-yaaaaaa/)|
+|![Forbes LC example sett](/setts/s7/b2k12b12k12g12k2y2-b000052-g11450d-k000000-yaaaaaa/sett.png)|
+| [Forbes LC](/setts/s7/b1k6b6k6g6k1y1-b000052-g11450d-k000000-yaaaaaa/)|
+|![Forbes LC example sett](/setts/s7/b1k6b6k6g6k1y1-b000052-g11450d-k000000-yaaaaaa/sett.png)|

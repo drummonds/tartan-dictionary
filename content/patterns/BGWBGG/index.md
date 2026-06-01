@@ -6,7 +6,7 @@ BGWBGG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/4/g26/n4/p8/ga16/g/4-b3c78c8-g146400-ga007800-nc8c8c8-p780078/tartan.png)
+![Woven sample](/setts/s6/b8g52w8ba16ga32g8-b3c78c8-ba780078-g146400-ga007800-wc8c8c8/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGWBGG
 
 | Tartans |
 |---------------|
-| [Ellan Vannin](/tartans/b/4/g26/n4/p8/ga16/g/4/)|
-|![Ellan Vannin example sett](/variants/b/4/g26/n4/p8/ga16/g/4-b3c78c8-g146400-ga007800-nc8c8c8-p780078/sett.png)|
-| [Manx, Ellan Vannin](/tartans/b/4/ga28/ln4/db6/g14/ga/4/)|
-|![Manx, Ellan Vannin example sett](/variants/b/4/ga28/ln4/db6/g14/ga/4-b8080d0-db000050-g30a010-ga008000-lne0e0e0/sett.png)|
+| [Ellan Vannin](/setts/s6/b8g52w8ba16ga32g8-b3c78c8-ba780078-g146400-ga007800-wc8c8c8/)|
+|![Ellan Vannin example sett](/setts/s6/b8g52w8ba16ga32g8-b3c78c8-ba780078-g146400-ga007800-wc8c8c8/sett.png)|
+| [Manx, Ellan Vannin](/setts/s6/b8g56w8ba12ga28g8-b8080d0-ba000050-g008000-ga30a010-we0e0e0/)|
+|![Manx, Ellan Vannin example sett](/setts/s6/b8g56w8ba12ga28g8-b8080d0-ba000050-g008000-ga30a010-we0e0e0/sett.png)|

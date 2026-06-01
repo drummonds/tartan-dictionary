@@ -16,5 +16,7 @@ BKBKBRKRKRBKGKG
 
 | Tartans |
 |---------------|
-| [Doyel](/tartans/db/38/k6/db6/k6/db12/n2/k4/r4/k4/n2/db12/k6/dg6/k6/dg/76/)|
-|![Doyel example sett](/variants/db/38/k6/db6/k6/db12/n2/k4/r4/k4/n2/db12/k6/dg6/k6/dg/76-db003c64-dg003820-k101010-n888888-rc80000/sett.png)|
+| [Doyel](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/)|
+|![Doyel example sett](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/sett.png)|
+| [Doyel (Name)](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/)|
+|![Doyel (Name) example sett](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/sett.png)|

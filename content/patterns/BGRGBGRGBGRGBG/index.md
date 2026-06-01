@@ -16,5 +16,5 @@ BGRGBGRGBGRGBG
 
 | Tartans |
 |---------------|
-| [Kildare, County](/tartans/n/16/t4/n26/dr8/n24/db44/n10/do6/n10/db44/n24/dr8/n26/t/4/)|
-|![Kildare, County example sett](/variants/n/16/t4/n26/dr8/n24/db44/n10/do6/n10/db44/n24/dr8/n26/t/4-db2c2c80-dob84c00-dr880000-n74846c-t4c3428/sett.png)|
+| [Kildare, County](/setts/s14/b4g26r8g24ba44g10ra6g10ba44g24r8g26b4g16-b4c3428-ba2c2c80-g74846c-r880000-rab84c00/)|
+|![Kildare, County example sett](/setts/s14/b4g26r8g24ba44g10ra6g10ba44g24r8g26b4g16-b4c3428-ba2c2c80-g74846c-r880000-rab84c00/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKGWGKBKW
 
 | Tartans |
 |---------------|
-| [Cheape of Torosay (Personal)](/tartans/db/16/k2/db2/k2/db2/k14/g12/lb2/g12/k14/db14/k2/lb/2/)|
-|![Cheape of Torosay (Personal) example sett](/variants/db/16/k2/db2/k2/db2/k14/g12/lb2/g12/k14/db14/k2/lb/2-db1c0070-g006818-k101010-lb98c8e8/sett.png)|
+| [Cheape of Torosay (Personal)](/setts/s13/b32k4b4k4b4k28g24w4g24k28b28k4w4-b1c0070-g006818-k101010-w98c8e8/)|
+|![Cheape of Torosay (Personal) example sett](/setts/s13/b32k4b4k4b4k28g24w4g24k28b28k4w4-b1c0070-g006818-k101010-w98c8e8/sett.png)|

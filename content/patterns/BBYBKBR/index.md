@@ -6,7 +6,7 @@ BBYBKBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dba/80/db16/dy6/db12/k6/db12/r/8-db2c2c80-dba1c1c50-dybc8c00-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/b80ba16y6ba12k6ba12r8-b1c1c50-ba2c2c80-k101010-rc80000-ybc8c00/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BBYBKBR
 
 | Tartans |
 |---------------|
-| [Edinburgh & Lothian Tourist Board](/tartans/dba/80/db16/dy6/db12/k6/db12/r/8/)|
-|![Edinburgh & Lothian Tourist Board example sett](/variants/dba/80/db16/dy6/db12/k6/db12/r/8-db2c2c80-dba1c1c50-dybc8c00-k101010-rc80000/sett.png)|
-| [Milne-Murtaugh (Personal)](/tartans/db/8/n4/y4/n52/k60/b4/lr/10/)|
-|![Milne-Murtaugh (Personal) example sett](/variants/db/8/n4/y4/n52/k60/b4/lr/10-b5c8ca8-db1c1c50-k101010-lre87878-n5c5c5c-ye8c000/sett.png)|
+| [Edinburgh & Lothian Tourist Board](/setts/s7/b80ba16y6ba12k6ba12r8-b1c1c50-ba2c2c80-k101010-rc80000-ybc8c00/)|
+|![Edinburgh & Lothian Tourist Board example sett](/setts/s7/b80ba16y6ba12k6ba12r8-b1c1c50-ba2c2c80-k101010-rc80000-ybc8c00/sett.png)|
+| [Edinburgh & Lothian T.B. (Corporate)](/setts/s7/b80ba16y6ba12k6ba12r8-b1c1c50-ba2c2c80-k101010-rc80000-ybc8c00/)|
+|![Edinburgh & Lothian T.B. (Corporate) example sett](/setts/s7/b80ba16y6ba12k6ba12r8-b1c1c50-ba2c2c80-k101010-rc80000-ybc8c00/sett.png)|
+| [Milne-Murtaugh (Personal)](/setts/s7/b8ba4y4ba52k60bb4r10-b1c1c50-ba5c5c5c-bb5c8ca8-k101010-re87878-ye8c000/)|
+|![Milne-Murtaugh (Personal) example sett](/setts/s7/b8ba4y4ba52k60bb4r10-b1c1c50-ba5c5c5c-bb5c8ca8-k101010-re87878-ye8c000/sett.png)|

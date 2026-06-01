@@ -6,7 +6,7 @@ BBBGKBKB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dp/10/pa6/dp36/dg16/k16/p62/k4/p/8-dg00400c-dp400040-k101010-p68205c-pa7c045c/tartan.png)
+![Woven sample](/setts/s8/b10ba6b36g16k16bb62k4bb8-b400040-ba7c045c-bb68205c-g00400c-k101010/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBGKBKB
 
 | Tartans |
 |---------------|
-| [By Storm](/tartans/dp/10/pa6/dp36/dg16/k16/p62/k4/p/8/)|
-|![By Storm example sett](/variants/dp/10/pa6/dp36/dg16/k16/p62/k4/p/8-dg00400c-dp400040-k101010-p68205c-pa7c045c/sett.png)|
+| [By Storm](/setts/s8/b10ba6b36g16k16bb62k4bb8-b400040-ba7c045c-bb68205c-g00400c-k101010/)|
+|![By Storm example sett](/setts/s8/b10ba6b36g16k16bb62k4bb8-b400040-ba7c045c-bb68205c-g00400c-k101010/sett.png)|
+| [Tartan Spirit Corporate)](/setts/s8/b10ba6b36g16k16bb62k4bb8-b400040-ba7c045c-bb68205c-g00400c-k101010/)|
+|![Tartan Spirit Corporate) example sett](/setts/s8/b10ba6b36g16k16bb62k4bb8-b400040-ba7c045c-bb68205c-g00400c-k101010/sett.png)|

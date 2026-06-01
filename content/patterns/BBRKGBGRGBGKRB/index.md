@@ -16,5 +16,5 @@ BBRKGBGRGBGKRB
 
 | Tartans |
 |---------------|
-| [Hinnigan (Personal)](/tartans/b/6/db8/lt28/k28/ga8/db32/ga8/lt16/ga8/db32/ga8/k28/lt28/db/8/)|
-|![Hinnigan (Personal) example sett](/variants/b/6/db8/lt28/k28/ga8/db32/ga8/lt16/ga8/db32/ga8/k28/lt28/db/8-b3474fc-db000064-g003800-ga006818-k000000-lt8c6428/sett.png)|
+| [Hinnigan (Personal)](/setts/s14/b8r28k28g8b32g8r16g8b32g8k28r28b8ba6-b000064-ba3474fc-g006818-k000000-r8c6428/)|
+|![Hinnigan (Personal) example sett](/setts/s14/b8r28k28g8b32g8r16g8b32g8k28r28b8ba6-b000064-ba3474fc-g006818-k000000-r8c6428/sett.png)|

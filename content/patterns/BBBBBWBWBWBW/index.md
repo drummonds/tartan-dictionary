@@ -16,5 +16,5 @@ BBBBBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Costa, David (Personal)](/tartans/db/40/k6/db8/k6/db24/w2/db4/w4/db4/w2/db24/w/48/)|
-|![Costa, David (Personal) example sett](/variants/db/40/k6/db8/k6/db24/w2/db4/w4/db4/w2/db24/w/48-db202060-k1c1c1c-wffffff/sett.png)|
+| [Costa, David (Personal)](/setts/s12/b40ba6b8ba6b24w2b4w4b4w2b24w48-b202060-ba1c1c1c-wffffff/)|
+|![Costa, David (Personal) example sett](/setts/s12/b40ba6b8ba6b24w2b4w4b4w2b24w48-b202060-ba1c1c1c-wffffff/sett.png)|

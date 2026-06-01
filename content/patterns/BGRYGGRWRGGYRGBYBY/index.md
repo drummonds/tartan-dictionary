@@ -16,7 +16,7 @@ BGRYGGRWRGGYRGBYBY
 
 | Tartans |
 |---------------|
-| [Béguinot, Stéphane (Personal)](/tartans/db/24/dg8/r4/y6/g8/dg8/r40/w8/r28/dg8/g8/y6/r4/dg8/db24/y4/db16/y/4/)|
-|![Béguinot, Stéphane (Personal) example sett](/variants/db/24/dg8/r4/y6/g8/dg8/r40/w8/r28/dg8/g8/y6/r4/dg8/db24/y4/db16/y/4-db373875-dg1e492b-g509721-rca2625-wf9f5ef-ye0a126/sett.png)|
-| [Beguinot, (Personal)](/tartans/b/24/ga8/r4/y6/g8/ga8/r40/w8/r28/ga8/g8/y6/r4/ga8/b24/y4/b16/y/4/)|
-|![Beguinot, (Personal) example sett](/variants/b/24/ga8/r4/y6/g8/ga8/r40/w8/r28/ga8/g8/y6/r4/ga8/b24/y4/b16/y/4-b1474b4-g289c18-ga006818-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Béguinot, Stéphane (Personal)](/setts/s18/b24g8r4y6ga8g8r40w8r28g8ga8y6r4g8b24y4b16y4-b373875-g1e492b-ga509721-rca2625-wf9f5ef-ye0a126/)|
+|![Béguinot, Stéphane (Personal) example sett](/setts/s18/b24g8r4y6ga8g8r40w8r28g8ga8y6r4g8b24y4b16y4-b373875-g1e492b-ga509721-rca2625-wf9f5ef-ye0a126/sett.png)|
+| [Beguinot, (Personal)](/setts/s18/b24g8r4y6ga8g8r40w8r28g8ga8y6r4g8b24y4b16y4-b1474b4-g006818-ga289c18-rc80000-wfcfcfc-ye8c000/)|
+|![Beguinot, (Personal) example sett](/setts/s18/b24g8r4y6ga8g8r40w8r28g8ga8y6r4g8b24y4b16y4-b1474b4-g006818-ga289c18-rc80000-wfcfcfc-ye8c000/sett.png)|

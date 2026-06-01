@@ -6,7 +6,7 @@ BGRBG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/k/4/n20/do30/k20/n/4-dobe7832-k2a2303-n808080/tartan.png)
+![Woven sample](/setts/s5/b8g40r60b40g8-b2a2303-g808080-rbe7832/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGRBG
 
 | Tartans |
 |---------------|
-| [Harmony 8](/tartans/k/4/n20/do30/k20/n/4/)|
-|![Harmony 8 example sett](/variants/k/4/n20/do30/k20/n/4-dobe7832-k2a2303-n808080/sett.png)|
-| [Harmony 8](/tartans/dr/4/n20/lt30/dr20/n/4/)|
-|![Harmony 8 example sett](/variants/dr/4/n20/lt30/dr20/n/4-dr401000-lt906030-n808080/sett.png)|
-| [Harmony, 6](/tartans/g/4/p20/lt30/g20/p/4/)|
-|![Harmony, 6 example sett](/variants/g/4/p20/lt30/g20/p/4-g008000-lt806050-p800070/sett.png)|
+| [Harmony 8](/setts/s5/b8g40r60b40g8-b2a2303-g808080-rbe7832/)|
+|![Harmony 8 example sett](/setts/s5/b8g40r60b40g8-b2a2303-g808080-rbe7832/sett.png)|
+| [Harmony 8](/setts/s5/b8g40r60b40g8-b401000-g808080-r906030/)|
+|![Harmony 8 example sett](/setts/s5/b8g40r60b40g8-b401000-g808080-r906030/sett.png)|
+| [Harmony, 6](/setts/s5/b8g40r60b40g8-b800070-g008000-r806050/)|
+|![Harmony, 6 example sett](/setts/s5/b8g40r60b40g8-b800070-g008000-r806050/sett.png)|

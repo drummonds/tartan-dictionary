@@ -6,7 +6,7 @@ BBWBBGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/16/dba22/w6/dba22/db24/g20/dr/4-b2888c4-db1c0070-dba003c64-dr901c38-g289c18-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b16ba22w6ba22bb24g20r4-b2888c4-ba003c64-bb1c0070-g289c18-r901c38-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBWBBGR
 
 | Tartans |
 |---------------|
-| [Loch Katrine](/tartans/b/16/dba22/w6/dba22/db24/g20/dr/4/)|
-|![Loch Katrine example sett](/variants/b/16/dba22/w6/dba22/db24/g20/dr/4-b2888c4-db1c0070-dba003c64-dr901c38-g289c18-wfcfcfc/sett.png)|
+| [Loch Katrine](/setts/s7/b16ba22w6ba22bb24g20r4-b2888c4-ba003c64-bb1c0070-g289c18-r901c38-wfcfcfc/)|
+|![Loch Katrine example sett](/setts/s7/b16ba22w6ba22bb24g20r4-b2888c4-ba003c64-bb1c0070-g289c18-r901c38-wfcfcfc/sett.png)|
+| [Loch Katrine (Corporate)](/setts/s7/b16ba22w6ba22bb24g20r4-b2888c4-ba003c64-bb1c0070-g289c18-r901c38-wfcfcfc/)|
+|![Loch Katrine (Corporate) example sett](/setts/s7/b16ba22w6ba22bb24g20r4-b2888c4-ba003c64-bb1c0070-g289c18-r901c38-wfcfcfc/sett.png)|

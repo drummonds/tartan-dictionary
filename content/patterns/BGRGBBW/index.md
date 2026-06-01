@@ -6,7 +6,7 @@ BGRGBBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/ln/4/b64/db17/lg4/r4/g31/p/8-b8080d0-db000050-g008000-lg908000-lne0e0e0-p800080-rc00000/tartan.png)
+![Woven sample](/setts/s7/b8g31r4ga4ba17bb64w4-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGRGBBW
 
 | Tartans |
 |---------------|
-| [Manx National](/tartans/ln/4/b64/db17/lg4/r4/g31/p/8/)|
-|![Manx National example sett](/variants/ln/4/b64/db17/lg4/r4/g31/p/8-b8080d0-db000050-g008000-lg908000-lne0e0e0-p800080-rc00000/sett.png)|
-| [Manx National](/tartans/ln/2/b20/db6/lg2/r2/g12/p/4/)|
-|![Manx National example sett](/variants/ln/2/b20/db6/lg2/r2/g12/p/4-b8080d0-db000050-g008000-lg908000-lne0e0e0-p800080-rc00000/sett.png)|
+| [Manx National](/setts/s7/b8g31r4ga4ba17bb64w4-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/)|
+|![Manx National example sett](/setts/s7/b8g31r4ga4ba17bb64w4-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/sett.png)|
+| [Manx National](/setts/s7/b4g12r2ga2ba6bb20w2-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/)|
+|![Manx National example sett](/setts/s7/b4g12r2ga2ba6bb20w2-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ BBRBKBKBKBKBRKR
 
 | Tartans |
 |---------------|
-| [CBS (Corporate)](/tartans/db/18/n16/na11/n20/k7/n7/k11/n7/k7/n35/k52/n71/na7/k7/na/12/)|
-|![CBS (Corporate) example sett](/variants/db/18/n16/na11/n20/k7/n7/k11/n7/k7/n35/k52/n71/na7/k7/na/12-db2c2c80-k101010-n5c5c5c-na888888/sett.png)|
+| [CBS (Corporate)](/setts/s15/b18ba16r11ba20k7ba7k11ba7k7ba35k52ba71r7k7r12-b2c2c80-ba5c5c5c-k101010-r888888/)|
+|![CBS (Corporate) example sett](/setts/s15/b18ba16r11ba20k7ba7k11ba7k7ba35k52ba71r7k7r12-b2c2c80-ba5c5c5c-k101010-r888888/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKWGRGWK
 
 | Tartans |
 |---------------|
-| [Fruin Colquhoun](/tartans/db/38/k6/db4/k6/db38/k38/ln6/g38/r10/g38/ln6/k/38/)|
-|![Fruin Colquhoun example sett](/variants/db/38/k6/db4/k6/db38/k38/ln6/g38/r10/g38/ln6/k/38-db2c2c80-g00643c-k101010-lne0e0e0-rc80000/sett.png)|
+| [Fruin Colquhoun](/setts/s12/b38k6b4k6b38k38w6g38r10g38w6k38-b2c2c80-g00643c-k101010-rc80000-we0e0e0/)|
+|![Fruin Colquhoun example sett](/setts/s12/b38k6b4k6b38k38w6g38r10g38w6k38-b2c2c80-g00643c-k101010-rc80000-we0e0e0/sett.png)|

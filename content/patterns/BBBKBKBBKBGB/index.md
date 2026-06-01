@@ -16,5 +16,5 @@ BBBKBKBBKBGB
 
 | Tartans |
 |---------------|
-| [Scotland's Own (Fashion)](/tartans/db/8/n2/db60/k30/p8/db4/k4/db4/k20/db8/p4/db/4/)|
-|![Scotland's Own (Fashion) example sett](/variants/db/8/n2/db60/k30/p8/db4/k4/db4/k20/db8/p4/db/4-db2c2c80-k101010-n808080-p780078/sett.png)|
+| [Scotland's Own (Fashion)](/setts/s12/b4ba4b8k20b4k4b4ba8k30b60g2b8-b2c2c80-ba780078-g808080-k101010/)|
+|![Scotland's Own (Fashion) example sett](/setts/s12/b4ba4b8k20b4k4b4ba8k30b60g2b8-b2c2c80-ba780078-g808080-k101010/sett.png)|

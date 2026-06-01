@@ -6,7 +6,7 @@ BBKGYR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/2/n4/k100/g100/y4/r/2-b0000cd-g006400-k101010-n778899-rff0000-yffe700/tartan.png)
+![Woven sample](/setts/s6/b2ba4k100g100y4r2-b0000cd-ba778899-g006400-k101010-rff0000-yffe700/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKGYR
 
 | Tartans |
 |---------------|
-| [Josse (Bro Sant Malo), Gilbert (Personal)](/tartans/b/2/n4/k100/g100/y4/r/2/)|
-|![Josse (Bro Sant Malo), Gilbert (Personal) example sett](/variants/b/2/n4/k100/g100/y4/r/2-b0000cd-g006400-k101010-n778899-rff0000-yffe700/sett.png)|
+| [Josse (Bro Sant Malo), Gilbert (Personal)](/setts/s6/b2ba4k100g100y4r2-b0000cd-ba778899-g006400-k101010-rff0000-yffe700/)|
+|![Josse (Bro Sant Malo), Gilbert (Personal) example sett](/setts/s6/b2ba4k100g100y4r2-b0000cd-ba778899-g006400-k101010-rff0000-yffe700/sett.png)|

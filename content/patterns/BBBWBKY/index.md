@@ -6,7 +6,7 @@ BBBWBKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/n/12/p8/n4/w4/n50/k52/y/8-k101010-n575757-p551a8b-wffffff-yd9d919/tartan.png)
+![Woven sample](/setts/s7/b12ba8b4w4b50k52y8-b575757-ba551a8b-k101010-wffffff-yd9d919/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBWBKY
 
 | Tartans |
 |---------------|
-| [New York State Troopers](/tartans/n/12/p8/n4/w4/n50/k52/y/8/)|
-|![New York State Troopers example sett](/variants/n/12/p8/n4/w4/n50/k52/y/8-k101010-n575757-p551a8b-wffffff-yd9d919/sett.png)|
+| [New York State Troopers](/setts/s7/b12ba8b4w4b50k52y8-b575757-ba551a8b-k101010-wffffff-yd9d919/)|
+|![New York State Troopers example sett](/setts/s7/b12ba8b4w4b50k52y8-b575757-ba551a8b-k101010-wffffff-yd9d919/sett.png)|

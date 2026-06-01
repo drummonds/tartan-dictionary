@@ -16,5 +16,5 @@ BBRBWBWBBBBBW
 
 | Tartans |
 |---------------|
-| [Leando Hunting (Personal)](/tartans/ln/2/dra6/dr2/n6/dra12/dr2/ln2/dr2/ln2/dr6/r2/dra4/n/38/)|
-|![Leando Hunting (Personal) example sett](/variants/ln/2/dra6/dr2/n6/dra12/dr2/ln2/dr2/ln2/dr6/r2/dra4/n/38-dr480800-dra441800-lne0e0e0-n5c5c5c-ra00048/sett.png)|
+| [Leando Hunting (Personal)](/setts/s13/b76ba8r4bb12w4bb4w4bb4ba24b12bb4ba12w4-b5c5c5c-ba441800-bb480800-ra00048-we0e0e0/)|
+|![Leando Hunting (Personal) example sett](/setts/s13/b76ba8r4bb12w4bb4w4bb4ba24b12bb4ba12w4-b5c5c5c-ba441800-bb480800-ra00048-we0e0e0/sett.png)|

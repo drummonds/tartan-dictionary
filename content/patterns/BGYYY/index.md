@@ -6,7 +6,7 @@ BGYYY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/10/g52/o34/y34/o/34-db2c2c80-g006818-odc943c-yfccc00/tartan.png)
+![Woven sample](/setts/s5/b10g52y34ya34y34-b2c2c80-g006818-ydc943c-yafccc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYYY
 
 | Tartans |
 |---------------|
-| [Wild Mustard Dreams](/tartans/db/10/g52/o34/y34/o/34/)|
-|![Wild Mustard Dreams example sett](/variants/db/10/g52/o34/y34/o/34-db2c2c80-g006818-odc943c-yfccc00/sett.png)|
+| [Wild Mustard Dreams](/setts/s5/b10g52y34ya34y34-b2c2c80-g006818-ydc943c-yafccc00/)|
+|![Wild Mustard Dreams example sett](/setts/s5/b10g52y34ya34y34-b2c2c80-g006818-ydc943c-yafccc00/sett.png)|

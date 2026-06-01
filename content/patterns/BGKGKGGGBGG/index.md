@@ -16,5 +16,7 @@ BGKGKGGGBGG
 
 | Tartans |
 |---------------|
-| [Mack of Stoneywood Hunting (Personal)](/tartans/b/2/g50/k2/t12/k2/g6/dg12/g10/b2/g8/dg/36/)|
-|![Mack of Stoneywood Hunting (Personal) example sett](/variants/b/2/g50/k2/t12/k2/g6/dg12/g10/b2/g8/dg/36-b218eed-dg03331d-g1e4901-k101010-t5d2c01/sett.png)|
+| [Mack of Stoneywood Hunting (Personal)](/setts/s11/b2g50k2ga12k2g6gb12g10b2g8gb36-b218eed-g1e4901-ga5d2c01-gb03331d-k101010/)|
+|![Mack of Stoneywood Hunting (Personal) example sett](/setts/s11/b2g50k2ga12k2g6gb12g10b2g8gb36-b218eed-g1e4901-ga5d2c01-gb03331d-k101010/sett.png)|
+| [Mack of Stoneywood Hunting (Pers.)](/setts/s11/b2g50k2ga12k2g6gb12g10b2g8gb36-b2888c4-g285800-ga604000-gb003820-k101010/)|
+|![Mack of Stoneywood Hunting (Pers.) example sett](/setts/s11/b2g50k2ga12k2g6gb12g10b2g8gb36-b2888c4-g285800-ga604000-gb003820-k101010/sett.png)|

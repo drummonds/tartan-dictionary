@@ -6,7 +6,7 @@ BKBKBBWG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/24/k2/b2/k2/b2/db16/ln18/n/4-b3c82af-db080848-k101010-lne0e0e0-n808080/tartan.png)
+![Woven sample](/setts/s8/b48k4b4k4b4ba32w36g8-b3c82af-ba080848-g808080-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BKBKBBWG
 
 | Tartans |
 |---------------|
-| [Arran (Pendleton)](/tartans/b/24/k2/b2/k2/b2/db16/ln18/n/4/)|
-|![Arran (Pendleton) example sett](/variants/b/24/k2/b2/k2/b2/db16/ln18/n/4-b3c82af-db080848-k101010-lne0e0e0-n808080/sett.png)|
+| [Arran (Pendleton)](/setts/s8/b48k4b4k4b4ba32w36g8-b3c82af-ba080848-g808080-k101010-we0e0e0/)|
+|![Arran (Pendleton) example sett](/setts/s8/b48k4b4k4b4ba32w36g8-b3c82af-ba080848-g808080-k101010-we0e0e0/sett.png)|
+| [Arran, (Navy)](/setts/s8/b48k4b4k4b4ba32w36g8-b5480b0-ba000050-g808080-k000000-we0e0e0/)|
+|![Arran, (Navy) example sett](/setts/s8/b48k4b4k4b4ba32w36g8-b5480b0-ba000050-g808080-k000000-we0e0e0/sett.png)|

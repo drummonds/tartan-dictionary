@@ -16,5 +16,5 @@ BKBKGRGKWKGRGKRBRBRBW
 
 | Tartans |
 |---------------|
-| [Rankin (Dalgliesh) #1](/tartans/db/36/k4/db8/k40/g20/dr4/g20/k2/n6/k2/g20/dr4/g20/k40/dr2/db28/dr6/db4/dr4/db8/n/2/)|
-|![Rankin (Dalgliesh) #1 example sett](/variants/db/36/k4/db8/k40/g20/dr4/g20/k2/n6/k2/g20/dr4/g20/k40/dr2/db28/dr6/db4/dr4/db8/n/2-db1c0070-dr880000-g006818-k101010-nc0c0c0/sett.png)|
+| [Rankin (Dalgliesh) #1](/setts/s21/b36k4b8k40g20r4g20k2w6k2g20r4g20k40r2b28r6b4r4b8w2-b1c0070-g006818-k101010-r880000-wc0c0c0/)|
+|![Rankin (Dalgliesh) #1 example sett](/setts/s21/b36k4b8k40g20r4g20k2w6k2g20r4g20k40r2b28r6b4r4b8w2-b1c0070-g006818-k101010-r880000-wc0c0c0/sett.png)|

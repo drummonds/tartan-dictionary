@@ -16,5 +16,7 @@ BKBKGKBKBKBKR
 
 | Tartans |
 |---------------|
-| [Braid (Estimated threadcount)](/tartans/db/26/k6/db10/k12/g36/k4/p18/k4/db6/k4/p22/k8/r/8/)|
-|![Braid (Estimated threadcount) example sett](/variants/db/26/k6/db10/k12/g36/k4/p18/k4/db6/k4/p22/k8/r/8-db2c2c80-g006818-k101010-p780078-rc80000/sett.png)|
+| [Braid (Estimated threadcount)](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/)|
+|![Braid (Estimated threadcount) example sett](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/sett.png)|
+| [Braid (Name)](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/)|
+|![Braid (Name) example sett](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/sett.png)|

@@ -16,9 +16,9 @@ BKBKBKBKBKB
 
 | Tartans |
 |---------------|
-| [Black Shadow](/tartans/n/14/k5/n24/k5/n24/k8/n8/k12/n34/k5/n/18/)|
-|![Black Shadow example sett](/variants/n/14/k5/n24/k5/n24/k8/n8/k12/n34/k5/n/18-k101010-n3c3c3c/sett.png)|
-| [Bute Heather, Black (Fashion)](/tartans/n/11/k4/n17/k2/n17/k8/n28/k13/n38/k2/n/13/)|
-|![Bute Heather, Black (Fashion) example sett](/variants/n/11/k4/n17/k2/n17/k8/n28/k13/n38/k2/n/13-k101010-n3c3c3c/sett.png)|
-| [Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/dn/14/k6/dn24/k6/dn24/k8/dn8/k12/dn34/k6/dn/18/)|
-|![Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/dn/14/k6/dn24/k6/dn24/k8/dn8/k12/dn34/k6/dn/18-dn323232-k080808/sett.png)|
+| [Black Shadow](/setts/s11/b14k5b24k5b24k8b8k12b34k5b18-b3c3c3c-k101010/)|
+|![Black Shadow example sett](/setts/s11/b14k5b24k5b24k8b8k12b34k5b18-b3c3c3c-k101010/sett.png)|
+| [Bute Heather, Black (Fashion)](/setts/s11/b11k4b17k2b17k8b28k13b38k2b13-b3c3c3c-k101010/)|
+|![Bute Heather, Black (Fashion) example sett](/setts/s11/b11k4b17k2b17k8b28k13b38k2b13-b3c3c3c-k101010/sett.png)|
+| [Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b14k6b24k6b24k8b8k12b34k6b18-b323232-k080808/)|
+|![Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b14k6b24k6b24k8b8k12b34k6b18-b323232-k080808/sett.png)|

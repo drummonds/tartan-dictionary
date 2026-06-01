@@ -6,7 +6,7 @@ BGKBKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/p/4/dg12/k4/db12/k2/r/4-db202060-dg003820-k101010-p780078-rc80000/tartan.png)
+![Woven sample](/setts/s6/b8g24k8ba24k4r8-b780078-ba202060-g003820-k101010-rc80000/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BGKBKR
 
 | Tartans |
 |---------------|
-| [MacCaughan or MacEachain (Personal)](/tartans/p/4/dg12/k4/db12/k2/r/4/)|
-|![MacCaughan or MacEachain (Personal) example sett](/variants/p/4/dg12/k4/db12/k2/r/4-db202060-dg003820-k101010-p780078-rc80000/sett.png)|
-| [MacCaughan, or MacEachain](/tartans/p/4/g12/k4/b12/k2/r/4/)|
-|![MacCaughan, or MacEachain example sett](/variants/p/4/g12/k4/b12/k2/r/4-b304080-g008000-k000000-p800070-rc00000/sett.png)|
+| [MacCaughan or MacEachain (Personal)](/setts/s6/b8g24k8ba24k4r8-b780078-ba202060-g003820-k101010-rc80000/)|
+|![MacCaughan or MacEachain (Personal) example sett](/setts/s6/b8g24k8ba24k4r8-b780078-ba202060-g003820-k101010-rc80000/sett.png)|
+| [MacCaughan (Personal)](/setts/s6/b8g24k8ba24k4r8-b780078-ba202060-g003820-k101010-rc80000/)|
+|![MacCaughan (Personal) example sett](/setts/s6/b8g24k8ba24k4r8-b780078-ba202060-g003820-k101010-rc80000/sett.png)|
+| [MacCaughan, or MacEachain](/setts/s6/b8g24k8ba24k4r8-b800070-ba304080-g008000-k000000-rc00000/)|
+|![MacCaughan, or MacEachain example sett](/setts/s6/b8g24k8ba24k4r8-b800070-ba304080-g008000-k000000-rc00000/sett.png)|

@@ -16,5 +16,5 @@ BGBGRGBGBYRR
 
 | Tartans |
 |---------------|
-| [Niagara Falls](/tartans/b/44/g8/b8/g34/lt34/g34/b8/g8/b44/y16/lt16/r/16/)|
-|![Niagara Falls example sett](/variants/b/44/g8/b8/g34/lt34/g34/b8/g8/b44/y16/lt16/r/16-b304080-g008000-lt806050-rc00000-yf0c000/sett.png)|
+| [Niagara Falls](/setts/s12/b44g8b8g34r34g34b8g8b44y16r16ra16-b304080-g008000-r806050-rac00000-yf0c000/)|
+|![Niagara Falls example sett](/setts/s12/b44g8b8g34r34g34b8g8b44y16r16ra16-b304080-g008000-r806050-rac00000-yf0c000/sett.png)|

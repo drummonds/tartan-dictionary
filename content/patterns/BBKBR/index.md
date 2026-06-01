@@ -6,7 +6,7 @@ BBKBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/n/8/db86/k40/n14/na/4-db000068-k101010-n5c5c5c-na888888/tartan.png)
+![Woven sample](/setts/s5/b8ba86k40b14r4-b5c5c5c-ba000068-k101010-r888888/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKBR
 
 | Tartans |
 |---------------|
-| [Deighan (Burham Kent) (Name)](/tartans/n/8/db86/k40/n14/na/4/)|
-|![Deighan (Burham Kent) (Name) example sett](/variants/n/8/db86/k40/n14/na/4-db000068-k101010-n5c5c5c-na888888/sett.png)|
+| [Deighan (Burham Kent) (Name)](/setts/s5/b8ba86k40b14r4-b5c5c5c-ba000068-k101010-r888888/)|
+|![Deighan (Burham Kent) (Name) example sett](/setts/s5/b8ba86k40b14r4-b5c5c5c-ba000068-k101010-r888888/sett.png)|

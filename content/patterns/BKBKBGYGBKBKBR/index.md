@@ -16,5 +16,5 @@ BKBKBGYGBKBKBR
 
 | Tartans |
 |---------------|
-| [Hay-Gray (Personal)](/tartans/dr/36/k4/dr4/k4/dr18/g20/y4/g20/p22/k18/p4/k4/p2/r/6/)|
-|![Hay-Gray (Personal) example sett](/variants/dr/36/k4/dr4/k4/dr18/g20/y4/g20/p22/k18/p4/k4/p2/r/6-dr441800-g285800-k101010-p780078-rc80000-ye8c000/sett.png)|
+| [Hay-Gray (Personal)](/setts/s14/b36k4b4k4b18g20y4g20ba22k18ba4k4ba2r6-b441800-ba780078-g285800-k101010-rc80000-ye8c000/)|
+|![Hay-Gray (Personal) example sett](/setts/s14/b36k4b4k4b18g20y4g20ba22k18ba4k4ba2r6-b441800-ba780078-g285800-k101010-rc80000-ye8c000/sett.png)|

@@ -16,5 +16,7 @@ BKGKGKBKWKBKYKGKR
 
 | Tartans |
 |---------------|
-| [Cockburn Blue](/tartans/b/30/k2/g2/k2/g2/k2/b10/k2/ln2/k2/b10/k2/y2/k2/g10/k2/r/2/)|
-|![Cockburn Blue example sett](/variants/b/30/k2/g2/k2/g2/k2/b10/k2/ln2/k2/b10/k2/y2/k2/g10/k2/r/2-b2c4084-g005020-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
+| [Cockburn Blue](/setts/s17/b30k2g2k2g2k2b10k2w2k2b10k2y2k2g10k2r2-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Cockburn Blue example sett](/setts/s17/b30k2g2k2g2k2b10k2w2k2b10k2y2k2g10k2r2-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Cockburn](/setts/s17/b30k2g2k2g2k2b10k2w2k2b10k2y2k2g10k2r2-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Cockburn example sett](/setts/s17/b30k2g2k2g2k2b10k2w2k2b10k2y2k2g10k2r2-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

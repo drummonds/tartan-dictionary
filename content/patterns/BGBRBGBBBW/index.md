@@ -16,5 +16,5 @@ BGBRBGBBBW
 
 | Tartans |
 |---------------|
-| [Strathisla (District)](/tartans/db/16/g16/dba24/r6/p40/g6/dba40/db6/dba40/n/4/)|
-|![Strathisla (District) example sett](/variants/db/16/g16/dba24/r6/p40/g6/dba40/db6/dba40/n/4-db2c2c80-dba002c70-g006818-nc8c8c8-p780078-rc80000/sett.png)|
+| [Strathisla (District)](/setts/s10/b16g16ba24r6bb40g6ba40b6ba40w4-b2c2c80-ba002c70-bb780078-g006818-rc80000-wc8c8c8/)|
+|![Strathisla (District) example sett](/setts/s10/b16g16ba24r6bb40g6ba40b6ba40w4-b2c2c80-ba002c70-bb780078-g006818-rc80000-wc8c8c8/sett.png)|

@@ -16,7 +16,9 @@ BGRGWGRGKRBRBRBW
 
 | Tartans |
 |---------------|
-| [Rankin](/tartans/b/72/g20/r4/g20/ln4/g20/r4/g20/k28/r4/b24/r6/b4/r4/b8/ln/4/)|
-|![Rankin example sett](/variants/b/72/g20/r4/g20/ln4/g20/r4/g20/k28/r4/b24/r6/b4/r4/b8/ln/4-b2c4084-g005020-k101010-lne0e0e0-rdc0000/sett.png)|
-| [Rankin (1998) (Name)](/tartans/db/72/g20/dr4/g20/n4/g20/dr4/g20/k28/dr4/db24/dr6/db4/dr4/db8/n/4/)|
-|![Rankin (1998) (Name) example sett](/variants/db/72/g20/dr4/g20/n4/g20/dr4/g20/k28/dr4/db24/dr6/db4/dr4/db8/n/4-db1c0070-dr880000-g006818-k101010-nc0c0c0/sett.png)|
+| [Rankin](/setts/s16/b72g20r4g20w4g20r4g20k28r4b24r6b4r4b8w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
+|![Rankin example sett](/setts/s16/b72g20r4g20w4g20r4g20k28r4b24r6b4r4b8w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
+| [Rankin (1998) (Name)](/setts/s16/b72g20r4g20w4g20r4g20k28r4b24r6b4r4b8w4-b1c0070-g006818-k101010-r880000-wc0c0c0/)|
+|![Rankin (1998) (Name) example sett](/setts/s16/b72g20r4g20w4g20r4g20k28r4b24r6b4r4b8w4-b1c0070-g006818-k101010-r880000-wc0c0c0/sett.png)|
+| [Rankin](/setts/s16/b72g20r4g20w4g20r4g20k28r4b24r6b4r4b8w4-b304080-g008000-k000000-rc00000-we0e0e0/)|
+|![Rankin example sett](/setts/s16/b72g20r4g20w4g20r4g20k28r4b24r6b4r4b8w4-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|

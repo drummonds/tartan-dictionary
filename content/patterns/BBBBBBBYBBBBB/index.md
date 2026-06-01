@@ -16,9 +16,11 @@ BBBBBBBYBBBBB
 
 | Tartans |
 |---------------|
-| [Poulter Blue](/tartans/b/50/db8/b8/db8/b8/db46/ba46/n8/ba46/db46/b46/db8/b/8/)|
-|![Poulter Blue example sett](/variants/b/50/db8/b8/db8/b8/db46/ba46/n8/ba46/db46/b46/db8/b/8-b1474b4-ba7884a0-db2c2c80-nb8b8b8/sett.png)|
-| [Poulter, Blue (Corprate)](/tartans/ba/8/db8/ba46/db46/b46/n8/b46/db46/ba8/db8/ba8/db8/ba/50/)|
-|![Poulter, Blue (Corprate) example sett](/variants/ba/8/db8/ba46/db46/b46/n8/b46/db46/ba8/db8/ba8/db8/ba/50-b7884a0-ba1474b4-db2c2c80-nb8b8b8/sett.png)|
-| [Adair (Name)](/tartans/b/32/db4/b4/db4/b4/db32/dba32/y6/dba32/db32/b32/db4/b/4/)|
-|![Adair (Name) example sett](/variants/b/32/db4/b4/db4/b4/db32/dba32/y6/dba32/db32/b32/db4/b/4-b2888c4-db202060-dba2c2c80-yfccc00/sett.png)|
+| [Poulter Blue](/setts/s13/b50ba8b8ba8b8ba46bb46y8bb46ba46b46ba8b8-b1474b4-ba2c2c80-bb7884a0-yb8b8b8/)|
+|![Poulter Blue example sett](/setts/s13/b50ba8b8ba8b8ba46bb46y8bb46ba46b46ba8b8-b1474b4-ba2c2c80-bb7884a0-yb8b8b8/sett.png)|
+| [Poulter, Blue (Corprate)](/setts/s13/b50ba8b8ba8b8ba46bb46y8bb46ba46b46ba8b8-b1474b4-ba2c2c80-bb7884a0-yb8b8b8/)|
+|![Poulter, Blue (Corprate) example sett](/setts/s13/b50ba8b8ba8b8ba46bb46y8bb46ba46b46ba8b8-b1474b4-ba2c2c80-bb7884a0-yb8b8b8/sett.png)|
+| [Adair (Name)](/setts/s13/b32ba4b4ba4b4ba32bb32y6bb32ba32b32ba4b4-b2888c4-ba202060-bb2c2c80-yfccc00/)|
+|![Adair (Name) example sett](/setts/s13/b32ba4b4ba4b4ba32bb32y6bb32ba32b32ba4b4-b2888c4-ba202060-bb2c2c80-yfccc00/sett.png)|
+| [Poulter Blue Corporate Tartan Tartan Number: 7509. Earliest known date: 2008 One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b50ba8b8ba8b8ba46bb46y8bb46ba46b46ba8b8-b1474b4-ba2c2c80-bb7884a0-yb8b8b8/)|
+|![Poulter Blue Corporate Tartan Tartan Number: 7509. Earliest known date: 2008 One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b50ba8b8ba8b8ba46bb46y8bb46ba46b46ba8b8-b1474b4-ba2c2c80-bb7884a0-yb8b8b8/sett.png)|

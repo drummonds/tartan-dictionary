@@ -16,5 +16,5 @@ BGYGYBRGRY
 
 | Tartans |
 |---------------|
-| [Anthony Plaid Blue](/tartans/db/36/g2/y6/g2/n2/db2/dr4/g4/dr4/n/4/)|
-|![Anthony Plaid Blue example sett](/variants/db/36/g2/y6/g2/n2/db2/dr4/g4/dr4/n/4-db1c0070-dr880000-g006818-nb8b8b8-ye8c000/sett.png)|
+| [Anthony Plaid Blue](/setts/s10/b72g4y12g4ya4b4r8g8r8ya8-b1c0070-g006818-r880000-ye8c000-yab8b8b8/)|
+|![Anthony Plaid Blue example sett](/setts/s10/b72g4y12g4ya4b4r8g8r8ya8-b1c0070-g006818-r880000-ye8c000-yab8b8b8/sett.png)|

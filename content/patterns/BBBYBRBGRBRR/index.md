@@ -16,5 +16,7 @@ BBBYBRBGRBRR
 
 | Tartans |
 |---------------|
-| [Louth, County](/tartans/b/96/dp8/b16/n4/b8/do6/b8/dg28/dr14/b4/dr8/do/4/)|
-|![Louth, County example sett](/variants/b/96/dp8/b16/n4/b8/do6/b8/dg28/dr14/b4/dr8/do/4-b1870a4-dg003820-dod05054-dp440044-dr880000-nb8b8b8/sett.png)|
+| [Louth, County](/setts/s12/b96ba8b16y4b8r6b8g28ra14b4ra8r4-b1870a4-ba440044-g003820-rd05054-ra880000-yb8b8b8/)|
+|![Louth, County example sett](/setts/s12/b96ba8b16y4b8r6b8g28ra14b4ra8r4-b1870a4-ba440044-g003820-rd05054-ra880000-yb8b8b8/sett.png)|
+| [Louth, County (District)](/setts/s12/b96ba8b16y4b8r6b8g28ra14b4ra8r4-b1870a4-ba440044-g003820-rd05054-ra880000-yb8b8b8/)|
+|![Louth, County (District) example sett](/setts/s12/b96ba8b16y4b8r6b8g28ra14b4ra8r4-b1870a4-ba440044-g003820-rd05054-ra880000-yb8b8b8/sett.png)|

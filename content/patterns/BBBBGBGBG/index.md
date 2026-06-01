@@ -16,7 +16,7 @@ BBBBGBGBG
 
 | Tartans |
 |---------------|
-| [Lindsay](/tartans/dg/40/db4/dg4/db4/dg4/db16/dr48/db4/dr/6/)|
-|![Lindsay example sett](/variants/dg/40/db4/dg4/db4/dg4/db16/dr48/db4/dr/6-db000052-dg11450d-dr59110d/sett.png)|
-| [Lindsay](/tartans/dg/20/db2/dg2/db2/dg2/db8/dr24/db2/dr/3/)|
-|![Lindsay example sett](/variants/dg/20/db2/dg2/db2/dg2/db8/dr24/db2/dr/3-db000052-dg11450d-dr59110d/sett.png)|
+| [Lindsay](/setts/s9/b6ba4b48ba16g4ba4g4ba4g40-b59110d-ba000052-g11450d/)|
+|![Lindsay example sett](/setts/s9/b6ba4b48ba16g4ba4g4ba4g40-b59110d-ba000052-g11450d/sett.png)|
+| [Lindsay](/setts/s9/b3ba2b24ba8g2ba2g2ba2g20-b59110d-ba000052-g11450d/)|
+|![Lindsay example sett](/setts/s9/b3ba2b24ba8g2ba2g2ba2g20-b59110d-ba000052-g11450d/sett.png)|

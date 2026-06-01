@@ -6,7 +6,7 @@ BBKBWBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/6/ba48/k22/b40/w4/b10/o/6-b2c4084-ba2888c4-k101010-od87c00-wffffff/tartan.png)
+![Woven sample](/setts/s7/b6ba48k22b40w4b10y6-b2c4084-ba2888c4-k101010-wffffff-yd87c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKBWBY
 
 | Tartans |
 |---------------|
-| [Icelandair](/tartans/b/6/ba48/k22/b40/w4/b10/o/6/)|
-|![Icelandair example sett](/variants/b/6/ba48/k22/b40/w4/b10/o/6-b2c4084-ba2888c4-k101010-od87c00-wffffff/sett.png)|
+| [Icelandair](/setts/s7/b6ba48k22b40w4b10y6-b2c4084-ba2888c4-k101010-wffffff-yd87c00/)|
+|![Icelandair example sett](/setts/s7/b6ba48k22b40w4b10y6-b2c4084-ba2888c4-k101010-wffffff-yd87c00/sett.png)|

@@ -6,7 +6,7 @@ BGYRYBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/ba/6/g26/b2/dr6/b2/ba20/y/2-b8397a7-ba1f3d7a-dr761a1a-g4d7326-yfaa706/tartan.png)
+![Woven sample](/setts/s7/b6g26y2r6y2b20ya2-b1f3d7a-g4d7326-r761a1a-y8397a7-yafaa706/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYRYBY
 
 | Tartans |
 |---------------|
-| [Graeme Heckenberg Hunting](/tartans/ba/6/g26/b2/dr6/b2/ba20/y/2/)|
-|![Graeme Heckenberg Hunting example sett](/variants/ba/6/g26/b2/dr6/b2/ba20/y/2-b8397a7-ba1f3d7a-dr761a1a-g4d7326-yfaa706/sett.png)|
+| [Graeme Heckenberg Hunting](/setts/s7/b6g26y2r6y2b20ya2-b1f3d7a-g4d7326-r761a1a-y8397a7-yafaa706/)|
+|![Graeme Heckenberg Hunting example sett](/setts/s7/b6g26y2r6y2b20ya2-b1f3d7a-g4d7326-r761a1a-y8397a7-yafaa706/sett.png)|

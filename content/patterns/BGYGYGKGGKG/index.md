@@ -16,5 +16,5 @@ BGYGYGKGGKG
 
 | Tartans |
 |---------------|
-| [Wagga Wagga (District)](/tartans/b/13/t7/y2/t7/y2/t7/k2/g32/ga16/k6/ga/16/)|
-|![Wagga Wagga (District) example sett](/variants/b/13/t7/y2/t7/y2/t7/k2/g32/ga16/k6/ga/16-b1474b4-g289c18-ga00643c-k101010-t604000-ye8c000/sett.png)|
+| [Wagga Wagga (District)](/setts/s11/b13g7y2g7y2g7k2ga32gb16k6gb16-b1474b4-g604000-ga289c18-gb00643c-k101010-ye8c000/)|
+|![Wagga Wagga (District) example sett](/setts/s11/b13g7y2g7y2g7k2ga32gb16k6gb16-b1474b4-g604000-ga289c18-gb00643c-k101010-ye8c000/sett.png)|

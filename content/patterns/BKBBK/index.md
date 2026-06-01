@@ -6,7 +6,7 @@ BKBBK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/4/k46/b46/db46/k/4-b5c8ca8-ba648498-db003c64-k101010/tartan.png)
+![Woven sample](/setts/s5/b4k46b46ba46k4-b648498-ba003c64-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBBK
 
 | Tartans |
 |---------------|
-| [McTear's Auctioneer Corporate Tartan Tartan Number: 11434. Earliest known date: 2015 A corporate tartan for McTear's Auctioneers, Glasgow, designed by Steven & Graham for carpet weaving. The registered design has been adjusted for weaving kilting fabrics See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/4/k46/b46/db46/k/4/)|
-|![McTear's Auctioneer Corporate Tartan Tartan Number: 11434. Earliest known date: 2015 A corporate tartan for McTear's Auctioneers, Glasgow, designed by Steven & Graham for carpet weaving. The registered design has been adjusted for weaving kilting fabrics See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/4/k46/b46/db46/k/4-b5c8ca8-ba648498-db003c64-k101010/sett.png)|
+| [McTear's Auctioneer Corporate Tartan Tartan Number: 11434. Earliest known date: 2015 A corporate tartan for McTear's Auctioneers, Glasgow, designed by Steven & Graham for carpet weaving. The registered design has been adjusted for weaving kilting fabrics See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/b4k46b46ba46k4-b648498-ba003c64-k101010/)|
+|![McTear's Auctioneer Corporate Tartan Tartan Number: 11434. Earliest known date: 2015 A corporate tartan for McTear's Auctioneers, Glasgow, designed by Steven & Graham for carpet weaving. The registered design has been adjusted for weaving kilting fabrics See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/b4k46b46ba46k4-b648498-ba003c64-k101010/sett.png)|

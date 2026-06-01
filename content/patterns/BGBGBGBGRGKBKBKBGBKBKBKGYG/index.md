@@ -16,5 +16,7 @@ BGBGBGBGRGKBKBKBGBKBKBKGYG
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Hunting](/tartans/b/9/g4/b31/g4/b31/g4/b9/g37/r3/g37/k9/b4/k2/b3/k2/b31/g4/b31/k2/b3/k2/b4/k9/g37/y3/g/37/)|
-|![Stuart/Stewart Hunting example sett](/variants/b/9/g4/b31/g4/b31/g4/b9/g37/r3/g37/k9/b4/k2/b3/k2/b31/g4/b31/k2/b3/k2/b4/k9/g37/y3/g/37-b2c4084-g005020-k101010-rdc0000-ye8c000/sett.png)|
+| [Stuart/Stewart Hunting](/setts/s26/b9g4b31g4b31g4b9g37r3g37k9b4k2b3k2b31g4b31k2b3k2b4k9g37y3g37-b2c4084-g005020-k101010-rdc0000-ye8c000/)|
+|![Stuart/Stewart Hunting example sett](/setts/s26/b9g4b31g4b31g4b9g37r3g37k9b4k2b3k2b31g4b31k2b3k2b4k9g37y3g37-b2c4084-g005020-k101010-rdc0000-ye8c000/sett.png)|
+| [Stewart Hunting](/setts/s26/b9g4b31g4b31g4b9g37r3g37k9b4k2b3k2b31g4b31k2b3k2b4k9g37y3g37-b304080-g008000-k000000-rc00000-yf0c000/)|
+|![Stewart Hunting example sett](/setts/s26/b9g4b31g4b31g4b9g37r3g37k9b4k2b3k2b31g4b31k2b3k2b4k9g37y3g37-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|

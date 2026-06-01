@@ -6,7 +6,7 @@ BGYBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/4/g8/y2/db2/r/4-db2c2c80-g006818-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b24g48y12b12r24-b2c2c80-g006818-rc80000-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYBR
 
 | Tartans |
 |---------------|
-| [Creek Indian Nation](/tartans/db/4/g8/y2/db2/r/4/)|
-|![Creek Indian Nation example sett](/variants/db/4/g8/y2/db2/r/4-db2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Creek Indian Nation](/setts/s5/b24g48y12b12r24-b2c2c80-g006818-rc80000-ye8c000/)|
+|![Creek Indian Nation example sett](/setts/s5/b24g48y12b12r24-b2c2c80-g006818-rc80000-ye8c000/sett.png)|

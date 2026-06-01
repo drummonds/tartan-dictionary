@@ -16,5 +16,5 @@ BGKBYGKWKW
 
 | Tartans |
 |---------------|
-| [Wellecomme, Bernard (Personal)](/tartans/db/8/g16/k16/db8/y6/g42/k6/lr8/k6/lr/8/)|
-|![Wellecomme, Bernard (Personal) example sett](/variants/db/8/g16/k16/db8/y6/g42/k6/lr8/k6/lr/8-db000080-g004c00-k1c1714-lre8ccb8-yffff00/sett.png)|
+| [Wellecomme, Bernard (Personal)](/setts/s10/b8g16k16b8y6g42k6w8k6w8-b000080-g004c00-k1c1714-we8ccb8-yffff00/)|
+|![Wellecomme, Bernard (Personal) example sett](/setts/s10/b8g16k16b8y6g42k6w8k6w8-b000080-g004c00-k1c1714-we8ccb8-yffff00/sett.png)|

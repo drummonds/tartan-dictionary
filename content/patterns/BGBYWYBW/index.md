@@ -6,7 +6,7 @@ BGBYWYBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/ln/4/n60/lt20/ln2/lt20/n2/na20/n/2-lne0e0e0-lta88c58-n3c3c3c-na848870/tartan.png)
+![Woven sample](/setts/s8/b4g40b4y40w4y40b120w8-b3c3c3c-g848870-we0e0e0-ya88c58/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGBYWYBW
 
 | Tartans |
 |---------------|
-| [Evergreen](/tartans/ln/4/n60/lt20/ln2/lt20/n2/na20/n/2/)|
-|![Evergreen example sett](/variants/ln/4/n60/lt20/ln2/lt20/n2/na20/n/2-lne0e0e0-lta88c58-n3c3c3c-na848870/sett.png)|
+| [Evergreen](/setts/s8/b4g40b4y40w4y40b120w8-b3c3c3c-g848870-we0e0e0-ya88c58/)|
+|![Evergreen example sett](/setts/s8/b4g40b4y40w4y40b120w8-b3c3c3c-g848870-we0e0e0-ya88c58/sett.png)|
+| [Evergreen (Fashion)](/setts/s8/b4g40b4y40w4y40b120w8-b3c3c3c-g848870-we0e0e0-ya88c58/)|
+|![Evergreen (Fashion) example sett](/setts/s8/b4g40b4y40w4y40b120w8-b3c3c3c-g848870-we0e0e0-ya88c58/sett.png)|

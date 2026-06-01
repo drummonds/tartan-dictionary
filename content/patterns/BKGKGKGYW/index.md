@@ -16,5 +16,5 @@ BKGKGKGYW
 
 | Tartans |
 |---------------|
-| [Hutchens (Kansas) (Personal)](/tartans/db/20/k24/g6/k2/g2/k2/g60/dy8/w/8/)|
-|![Hutchens (Kansas) (Personal) example sett](/variants/db/20/k24/g6/k2/g2/k2/g60/dy8/w/8-db000080-dyb8860b-g006400-k101010-wffffff/sett.png)|
+| [Hutchens (Kansas) (Personal)](/setts/s9/b20k24g6k2g2k2g60y8w8-b000080-g006400-k101010-wffffff-yb8860b/)|
+|![Hutchens (Kansas) (Personal) example sett](/setts/s9/b20k24g6k2g2k2g60y8w8-b000080-g006400-k101010-wffffff-yb8860b/sett.png)|

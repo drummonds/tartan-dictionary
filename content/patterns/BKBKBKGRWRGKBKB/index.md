@@ -16,5 +16,5 @@ BKBKBKGRWRGKBKB
 
 | Tartans |
 |---------------|
-| [Blanton (Dress)](/tartans/b/24/k4/b4/k4/b4/k20/g10/r6/w4/r6/g10/k20/b22/k4/b/4/)|
-|![Blanton (Dress) example sett](/variants/b/24/k4/b4/k4/b4/k20/g10/r6/w4/r6/g10/k20/b22/k4/b/4-b1474b4-g006818-k101010-rc80000-wffffff/sett.png)|
+| [Blanton (Dress)](/setts/s15/b24k4b4k4b4k20g10r6w4r6g10k20b22k4b4-b1474b4-g006818-k101010-rc80000-wffffff/)|
+|![Blanton (Dress) example sett](/setts/s15/b24k4b4k4b4k20g10r6w4r6g10k20b22k4b4-b1474b4-g006818-k101010-rc80000-wffffff/sett.png)|

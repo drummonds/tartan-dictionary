@@ -16,5 +16,7 @@ BKBKBRKRKWGRG
 
 | Tartans |
 |---------------|
-| [MacKusick (Piper) #1 (Personal)](/tartans/db/8/k2/db4/k2/db12/p4/k8/p4/k16/n4/g24/p4/g/8/)|
-|![MacKusick (Piper) #1 (Personal) example sett](/variants/db/8/k2/db4/k2/db12/p4/k8/p4/k16/n4/g24/p4/g/8-db2c2c80-g006818-k101010-nc0c0c0-pb468ac/sett.png)|
+| [MacKusick (Piper) #1 (Personal)](/setts/s13/b8k2b4k2b12r4k8r4k16w4g24r4g8-b2c2c80-g006818-k101010-rb468ac-wc0c0c0/)|
+|![MacKusick (Piper) #1 (Personal) example sett](/setts/s13/b8k2b4k2b12r4k8r4k16w4g24r4g8-b2c2c80-g006818-k101010-rb468ac-wc0c0c0/sett.png)|
+| [MacKusick (Piper) #1 (Personal)](/setts/s13/b8k2b4k2b12r4k8r4k16w4g24r4g8-b2c2c80-g006818-k101010-rb468ac-wc0c0c0/)|
+|![MacKusick (Piper) #1 (Personal) example sett](/setts/s13/b8k2b4k2b12r4k8r4k16w4g24r4g8-b2c2c80-g006818-k101010-rb468ac-wc0c0c0/sett.png)|

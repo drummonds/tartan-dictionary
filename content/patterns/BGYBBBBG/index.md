@@ -6,7 +6,7 @@ BGYBBBBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/g/76/n16/b6/db8/n24/dy2/g8/n/2-b1474b4-db2c2c80-dybc8c00-g006818-n5c5c5c/tartan.png)
+![Woven sample](/setts/s8/b2g8y2b24ba8bb6b16g76-b5c5c5c-ba2c2c80-bb1474b4-g006818-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYBBBBG
 
 | Tartans |
 |---------------|
-| [Del Forno Wolf (Personal)](/tartans/g/76/n16/b6/db8/n24/dy2/g8/n/2/)|
-|![Del Forno Wolf (Personal) example sett](/variants/g/76/n16/b6/db8/n24/dy2/g8/n/2-b1474b4-db2c2c80-dybc8c00-g006818-n5c5c5c/sett.png)|
+| [Del Forno Wolf (Personal)](/setts/s8/b2g8y2b24ba8bb6b16g76-b5c5c5c-ba2c2c80-bb1474b4-g006818-ybc8c00/)|
+|![Del Forno Wolf (Personal) example sett](/setts/s8/b2g8y2b24ba8bb6b16g76-b5c5c5c-ba2c2c80-bb1474b4-g006818-ybc8c00/sett.png)|

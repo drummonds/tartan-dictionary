@@ -6,7 +6,7 @@ BKBYKYBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/40/k10/db36/dy52/k12/dy52/db36/k/10-db2c2c80-dba1c0070-dyd09800-k101010/tartan.png)
+![Woven sample](/setts/s8/b40k10b36y52k12y52b36k10-b2c2c80-k101010-yd09800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBYKYBK
 
 | Tartans |
 |---------------|
-| [Johore Regiment](/tartans/db/40/k10/db36/dy52/k12/dy52/db36/k/10/)|
-|![Johore Regiment example sett](/variants/db/40/k10/db36/dy52/k12/dy52/db36/k/10-db2c2c80-dba1c0070-dyd09800-k101010/sett.png)|
+| [Johore Regiment](/setts/s8/b40k10b36y52k12y52b36k10-b2c2c80-k101010-yd09800/)|
+|![Johore Regiment example sett](/setts/s8/b40k10b36y52k12y52b36k10-b2c2c80-k101010-yd09800/sett.png)|

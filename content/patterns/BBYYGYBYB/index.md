@@ -16,5 +16,5 @@ BBYYGYBYB
 
 | Tartans |
 |---------------|
-| [Brighton Mac Dermotte](/tartans/k/94/ly2/t54/n8/ka10/ly2/n16/b2/t/2/)|
-|![Brighton Mac Dermotte example sett](/variants/k/94/ly2/t54/n8/ka10/ly2/n16/b2/t/2-b5f749c-k1e2025-ka23321b-lyf8e38c-nccbaaf-t3d3134/sett.png)|
+| [Brighton Mac Dermotte](/setts/s9/b94y2ba54ya8g10y2ya16bb2ba2-b1e2025-ba3d3134-bb5f749c-g23321b-yf8e38c-yaccbaaf/)|
+|![Brighton Mac Dermotte example sett](/setts/s9/b94y2ba54ya8g10y2ya16bb2ba2-b1e2025-ba3d3134-bb5f749c-g23321b-yf8e38c-yaccbaaf/sett.png)|

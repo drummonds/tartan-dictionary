@@ -16,5 +16,7 @@ BGGYGBWBR
 
 | Tartans |
 |---------------|
-| [Connor (Personal)](/tartans/db/2/t8/g16/y2/g16/db24/ln2/db4/r/2/)|
-|![Connor (Personal) example sett](/variants/db/2/t8/g16/y2/g16/db24/ln2/db4/r/2-db2c2c80-g006818-lne0e0e0-rc80000-t604000-ye8c000/sett.png)|
+| [Connor (Personal)](/setts/s9/b4g16ga32y4ga32b48w4b8r4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/)|
+|![Connor (Personal) example sett](/setts/s9/b4g16ga32y4ga32b48w4b8r4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Eldridge (Personal)](/setts/s9/b4g16ga32y4ga32b48w4b8r4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/)|
+|![Eldridge (Personal) example sett](/setts/s9/b4g16ga32y4ga32b48w4b8r4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKBGRK
 
 | Tartans |
 |---------------|
-| [Bell, Siobhan (Personal)](/tartans/k/2/r2/g2/db2/k2/db2/k2/db2/k2/p/2/)|
-|![Bell, Siobhan (Personal) example sett](/variants/k/2/r2/g2/db2/k2/db2/k2/db2/k2/p/2-db2c2c80-g006818-k101010-p780078-rc80000/sett.png)|
+| [Bell, Siobhan (Personal)](/setts/s10/b10k10ba10k10ba10k10ba10g10r10k10-b780078-ba2c2c80-g006818-k101010-rc80000/)|
+|![Bell, Siobhan (Personal) example sett](/setts/s10/b10k10ba10k10ba10k10ba10g10r10k10-b780078-ba2c2c80-g006818-k101010-rc80000/sett.png)|

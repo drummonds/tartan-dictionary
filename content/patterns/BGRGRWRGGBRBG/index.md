@@ -16,5 +16,5 @@ BGRGRWRGGBRBG
 
 | Tartans |
 |---------------|
-| [Mill o Forest Primary School (Corp)](/tartans/db/6/ga44/r10/ga10/n10/ln2/n2/ga2/g16/db12/n2/db10/ga/4/)|
-|![Mill o Forest Primary School (Corp) example sett](/variants/db/6/ga44/r10/ga10/n10/ln2/n2/ga2/g16/db12/n2/db10/ga/4-db2c2c80-g289c18-ga005830-lne0e0e0-n888888-rc80000/sett.png)|
+| [Mill o Forest Primary School (Corp)](/setts/s13/b6g44r10g10ra10w2ra2g2ga16b12ra2b10g4-b2c2c80-g005830-ga289c18-rc80000-ra888888-we0e0e0/)|
+|![Mill o Forest Primary School (Corp) example sett](/setts/s13/b6g44r10g10ra10w2ra2g2ga16b12ra2b10g4-b2c2c80-g005830-ga289c18-rc80000-ra888888-we0e0e0/sett.png)|

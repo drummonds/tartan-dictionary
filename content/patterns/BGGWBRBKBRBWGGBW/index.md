@@ -16,5 +16,5 @@ BGGWBRBKBRBWGGBW
 
 | Tartans |
 |---------------|
-| [Scotia (EWM)](/tartans/db/58/g28/t4/ln18/db14/r3/db8/yy4/db8/r3/db14/ln18/t4/g28/db58/ln/4/)|
-|![Scotia (EWM) example sett](/variants/db/58/g28/t4/ln18/db14/r3/db8/yy4/db8/r3/db14/ln18/t4/g28/db58/ln/4-db2c2c80-g006818-lne0e0e0-rc80000-t604000/sett.png)|
+| [Scotia (EWM)](/setts/s16/b58g28ga4w18b14r3b8k4b8r3b14w18ga4g28b58w4-b2c2c80-g006818-ga604000-k000000-rc80000-we0e0e0/)|
+|![Scotia (EWM) example sett](/setts/s16/b58g28ga4w18b14r3b8k4b8r3b14w18ga4g28b58w4-b2c2c80-g006818-ga604000-k000000-rc80000-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ BBWBYRBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/20/db10/ln5/b5/y3/na10/n15/k/40-b2888c4-db2c2c80-k101010-lne0e0e0-n5c5c5c-na888888-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b20ba10w5b5y3r10bb15k40-b2888c4-ba2c2c80-bb5c5c5c-k101010-r888888-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBYRBK
 
 | Tartans |
 |---------------|
-| [Julien Pigeut Tartan Tartan Number: 6574. Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn by Roland Mathez best man of Julien. See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/20/db10/ln5/b5/y3/na10/n15/k/40/)|
-|![Julien Pigeut Tartan Tartan Number: 6574. Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn by Roland Mathez best man of Julien. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/20/db10/ln5/b5/y3/na10/n15/k/40-b2888c4-db2c2c80-k101010-lne0e0e0-n5c5c5c-na888888-ye8c000/sett.png)|
+| [Julien Pigeut Tartan Tartan Number: 6574. Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn by Roland Mathez best man of Julien. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b20ba10w5b5y3r10bb15k40-b2888c4-ba2c2c80-bb5c5c5c-k101010-r888888-we0e0e0-ye8c000/)|
+|![Julien Pigeut Tartan Tartan Number: 6574. Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn by Roland Mathez best man of Julien. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b20ba10w5b5y3r10bb15k40-b2888c4-ba2c2c80-bb5c5c5c-k101010-r888888-we0e0e0-ye8c000/sett.png)|

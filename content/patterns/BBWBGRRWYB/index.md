@@ -16,5 +16,7 @@ BBWBGRRWYB
 
 | Tartans |
 |---------------|
-| [Tau-Taurini (Provisional) (Personal)](/tartans/db/10/b10/ln3/p3/g3/dr3/r12/ln3/y3/db/64/)|
-|![Tau-Taurini (Provisional) (Personal) example sett](/variants/db/10/b10/ln3/p3/g3/dr3/r12/ln3/y3/db/64-b2888c4-db2c2c80-dr880000-g006818-lne0e0e0-p780078-rc80000-ye8c000/sett.png)|
+| [Tau-Taurini (Provisional) (Personal)](/setts/s10/b10ba10w3bb3g3r3ra12w3y3b64-b2c2c80-ba2888c4-bb780078-g006818-r880000-rac80000-we0e0e0-ye8c000/)|
+|![Tau-Taurini (Provisional) (Personal) example sett](/setts/s10/b10ba10w3bb3g3r3ra12w3y3b64-b2c2c80-ba2888c4-bb780078-g006818-r880000-rac80000-we0e0e0-ye8c000/sett.png)|
+| [Tau-Taurini (Personal)](/setts/s10/b10ba10w3bb3g3r3ra12w3y3b64-b2c2c80-ba2888c4-bb780078-g006818-r880000-rac80000-we0e0e0-ye8c000/)|
+|![Tau-Taurini (Personal) example sett](/setts/s10/b10ba10w3bb3g3r3ra12w3y3b64-b2c2c80-ba2888c4-bb780078-g006818-r880000-rac80000-we0e0e0-ye8c000/sett.png)|

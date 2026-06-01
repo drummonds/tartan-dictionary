@@ -16,7 +16,7 @@ BBGRGBWBWG
 
 | Tartans |
 |---------------|
-| [Morneau (Quebec), Richard (Personal)](/tartans/b/58/t16/lg42/r6/lg16/b32/w6/t6/w6/lg/16/)|
-|![Morneau (Quebec), Richard (Personal) example sett](/variants/b/58/t16/lg42/r6/lg16/b32/w6/t6/w6/lg/16-b5f749c-lg649848-rca2625-t3d3134-wf9f5ef/sett.png)|
-| [Morneau, Richard (Personal)](/tartans/b/58/db16/g42/r6/g16/b22/w6/db6/w6/g/16/)|
-|![Morneau, Richard (Personal) example sett](/variants/b/58/db16/g42/r6/g16/b22/w6/db6/w6/g/16-b1474b4-db202060-g006818-rc80000-wfcfcfc/sett.png)|
+| [Morneau (Quebec), Richard (Personal)](/setts/s10/b58ba16g42r6g16b32w6ba6w6g16-b5f749c-ba3d3134-g649848-rca2625-wf9f5ef/)|
+|![Morneau (Quebec), Richard (Personal) example sett](/setts/s10/b58ba16g42r6g16b32w6ba6w6g16-b5f749c-ba3d3134-g649848-rca2625-wf9f5ef/sett.png)|
+| [Morneau, Richard (Personal)](/setts/s10/b58ba16g42r6g16b22w6ba6w6g16-b1474b4-ba202060-g006818-rc80000-wfcfcfc/)|
+|![Morneau, Richard (Personal) example sett](/setts/s10/b58ba16g42r6g16b22w6ba6w6g16-b1474b4-ba202060-g006818-rc80000-wfcfcfc/sett.png)|

@@ -16,5 +16,7 @@ BBBWGRBRY
 
 | Tartans |
 |---------------|
-| [Royal Canadian Mounted Police](/tartans/dn/152/b2/dn4/n2/g28/dr10/dn26/do2/dy/2/)|
-|![Royal Canadian Mounted Police example sett](/variants/dn/152/b2/dn4/n2/g28/dr10/dn26/do2/dy/2-b0064ac-dn14283c-dob84c00-dr800000-dyd09000-g006818-k101010-nc0c0c0/sett.png)|
+| [Royal Canadian Mounted Police](/setts/s9/b152ba2b4w2g28r10b26ra2y2-b14283c-ba0064ac-g006818-r800000-rab84c00-wc0c0c0-yd09000/)|
+|![Royal Canadian Mounted Police example sett](/setts/s9/b152ba2b4w2g28r10b26ra2y2-b14283c-ba0064ac-g006818-r800000-rab84c00-wc0c0c0-yd09000/sett.png)|
+| [Royal Canadian Mounted Police (Corp)](/setts/s9/b152ba2b4w2g28r10b26ra2y2-b14283c-ba0064ac-g006818-r800000-rab84c00-wc0c0c0-yd09000/)|
+|![Royal Canadian Mounted Police (Corp) example sett](/setts/s9/b152ba2b4w2g28r10b26ra2y2-b14283c-ba0064ac-g006818-r800000-rab84c00-wc0c0c0-yd09000/sett.png)|

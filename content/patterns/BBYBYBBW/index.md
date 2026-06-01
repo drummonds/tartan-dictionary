@@ -6,7 +6,7 @@ BBYBYBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/30/db130/y14/b8/y6/db60/b30/ln/6-b1474b4-db1c0070-lne0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b30ba130y14b8y6ba60b30w6-b1474b4-ba1c0070-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYBYBBW
 
 | Tartans |
 |---------------|
-| [Hoosier (Fashion)](/tartans/b/30/db130/y14/b8/y6/db60/b30/ln/6/)|
-|![Hoosier (Fashion) example sett](/variants/b/30/db130/y14/b8/y6/db60/b30/ln/6-b1474b4-db1c0070-lne0e0e0-ye8c000/sett.png)|
+| [Hoosier (Fashion)](/setts/s8/b30ba130y14b8y6ba60b30w6-b1474b4-ba1c0070-we0e0e0-ye8c000/)|
+|![Hoosier (Fashion) example sett](/setts/s8/b30ba130y14b8y6ba60b30w6-b1474b4-ba1c0070-we0e0e0-ye8c000/sett.png)|

@@ -16,5 +16,7 @@ BKBKBKGWGWGKGKGKGKGWGWGKBKBKBG
 
 | Tartans |
 |---------------|
-| [O'Connor](/tartans/b/28/k4/b4/k4/b4/k16/g26/w4/g24/w4/g26/k16/g12/k24/g10/k24/g12/k16/g26/w4/g24/w4/g26/k16/b4/k4/b4/k4/b28/g/6/)|
-|![O'Connor example sett](/variants/b/28/k4/b4/k4/b4/k16/g26/w4/g24/w4/g26/k16/g12/k24/g10/k24/g12/k16/g26/w4/g24/w4/g26/k16/b4/k4/b4/k4/b28/g/6-b1474b4-db1c0070-dba2c2c80-g006428-k101010-nc0c0c0-wfcfcfc/sett.png)|
+| [O'Connor](/setts/s30/b28k4b4k4b4k16g26w4g24w4g26k16g12k24g10k24g12k16g26w4g24w4g26k16b4k4b4k4b28g6-b1474b4-g006428-k101010-wfcfcfc/)|
+|![O'Connor example sett](/setts/s30/b28k4b4k4b4k16g26w4g24w4g26k16g12k24g10k24g12k16g26w4g24w4g26k16b4k4b4k4b28g6-b1474b4-g006428-k101010-wfcfcfc/sett.png)|
+| [O'Donohue](/setts/s30/b28k4b4k4b4k16g26w4g24w4g26k16g12k24g10k24g12k16g26w4g24w4g26k16b4k4b4k4b28g6-b1870a4-g00643c-k101010-wfcfcfc/)|
+|![O'Donohue example sett](/setts/s30/b28k4b4k4b4k16g26w4g24w4g26k16g12k24g10k24g12k16g26w4g24w4g26k16b4k4b4k4b28g6-b1870a4-g00643c-k101010-wfcfcfc/sett.png)|

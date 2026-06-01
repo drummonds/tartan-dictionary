@@ -16,5 +16,5 @@ BKBKYKYKBKBWBWB
 
 | Tartans |
 |---------------|
-| [Skarpathiotakis, George (Personal)](/tartans/db/4/k8/db18/k8/y8/k6/y4/k10/db8/k6/db36/w4/db4/w4/db/4/)|
-|![Skarpathiotakis, George (Personal) example sett](/variants/db/4/k8/db18/k8/y8/k6/y4/k10/db8/k6/db36/w4/db4/w4/db/4-db00008c-k000000-wfcfcfc-yfccc00/sett.png)|
+| [Skarpathiotakis, George (Personal)](/setts/s15/b4k8b18k8y8k6y4k10b8k6b36w4b4w4b4-b00008c-k000000-wfcfcfc-yfccc00/)|
+|![Skarpathiotakis, George (Personal) example sett](/setts/s15/b4k8b18k8y8k6y4k10b8k6b36w4b4w4b4-b00008c-k000000-wfcfcfc-yfccc00/sett.png)|

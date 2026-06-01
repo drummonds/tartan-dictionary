@@ -16,5 +16,7 @@ BKBRKRYRGKG
 
 | Tartans |
 |---------------|
-| [Bracken (WCWM)](/tartans/n/32/k12/n28/lt6/k8/lt28/o12/r12/t12/k12/t/60/)|
-|![Bracken (WCWM) example sett](/variants/n/32/k12/n28/lt6/k8/lt28/o12/r12/t12/k12/t/60-k101010-lta07c58-n5c5c5c-odc943c-rc80000-t603800/sett.png)|
+| [Bracken (WCWM)](/setts/s11/b32k12b28r6k8r28y12ra12g12k12g60-b5c5c5c-g603800-k101010-ra07c58-rac80000-ydc943c/)|
+|![Bracken (WCWM) example sett](/setts/s11/b32k12b28r6k8r28y12ra12g12k12g60-b5c5c5c-g603800-k101010-ra07c58-rac80000-ydc943c/sett.png)|
+| [Bracken (Fashion)](/setts/s11/b32k12b28r6k8r28y12ra12g12k12g60-b5c5c5c-g603800-k101010-ra07c58-rac80000-ydc943c/)|
+|![Bracken (Fashion) example sett](/setts/s11/b32k12b28r6k8r28y12ra12g12k12g60-b5c5c5c-g603800-k101010-ra07c58-rac80000-ydc943c/sett.png)|

@@ -16,5 +16,5 @@ BBYBRBBBBBYBY
 
 | Tartans |
 |---------------|
-| [Dempster (Personal)](/tartans/b/9/ba6/b18/ba34/db6/ba10/db6/ba34/r6/ba8/y6/db34/ba/4/)|
-|![Dempster (Personal) example sett](/variants/b/9/ba6/b18/ba34/db6/ba10/db6/ba34/r6/ba8/y6/db34/ba/4-b5e9ea0-ba0000ff-db000080-rff0000-yffd700/sett.png)|
+| [Dempster (Personal)](/setts/s13/b4ba34y6b8r6b34ba6b10ba6b34ya18b6ya9-b0000ff-ba000080-rff0000-yffd700-ya5e9ea0/)|
+|![Dempster (Personal) example sett](/setts/s13/b4ba34y6b8r6b34ba6b10ba6b34ya18b6ya9-b0000ff-ba000080-rff0000-yffd700-ya5e9ea0/sett.png)|

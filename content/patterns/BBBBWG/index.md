@@ -6,7 +6,7 @@ BBBBWG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/10/n60/db22/n12/ln6/g/16-db2c2c80-g006818-lne0e0e0-n5c5c5c/tartan.png)
+![Woven sample](/setts/s6/b10ba60b22ba12w6g16-b2c2c80-ba5c5c5c-g006818-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBWG
 
 | Tartans |
 |---------------|
-| [Devlin, Craig (Personal)](/tartans/db/10/n60/db22/n12/ln6/g/16/)|
-|![Devlin, Craig (Personal) example sett](/variants/db/10/n60/db22/n12/ln6/g/16-db2c2c80-g006818-lne0e0e0-n5c5c5c/sett.png)|
+| [Devlin, Craig (Personal)](/setts/s6/b10ba60b22ba12w6g16-b2c2c80-ba5c5c5c-g006818-we0e0e0/)|
+|![Devlin, Craig (Personal) example sett](/setts/s6/b10ba60b22ba12w6g16-b2c2c80-ba5c5c5c-g006818-we0e0e0/sett.png)|

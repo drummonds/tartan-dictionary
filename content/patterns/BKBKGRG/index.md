@@ -6,7 +6,7 @@ BKBKGRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/db/8/k8/db32/k28/dg28/dr6/dg/6-db141e46-dg003c14-dr781c38-k101010/tartan.png)
+![Woven sample](/setts/s7/b8k8b32k28g28r6g6-b141e46-g003c14-k101010-r781c38/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBKGRG
 
 | Tartans |
 |---------------|
-| [Inneryne (Personal)](/tartans/db/8/k8/db32/k28/dg28/dr6/dg/6/)|
-|![Inneryne (Personal) example sett](/variants/db/8/k8/db32/k28/dg28/dr6/dg/6-db141e46-dg003c14-dr781c38-k101010/sett.png)|
-| [Inneryne (Personal)](/tartans/db/8/k6/db32/k28/g28/r6/g/6/)|
-|![Inneryne (Personal) example sett](/variants/db/8/k6/db32/k28/g28/r6/g/6-db2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Inneryne (Personal)](/setts/s7/b8k8b32k28g28r6g6-b141e46-g003c14-k101010-r781c38/)|
+|![Inneryne (Personal) example sett](/setts/s7/b8k8b32k28g28r6g6-b141e46-g003c14-k101010-r781c38/sett.png)|
+| [Inneryne (Personal)](/setts/s7/b8k6b32k28g28r6g6-b2c2c80-g006818-k101010-rc80000/)|
+|![Inneryne (Personal) example sett](/setts/s7/b8k6b32k28g28r6g6-b2c2c80-g006818-k101010-rc80000/sett.png)|

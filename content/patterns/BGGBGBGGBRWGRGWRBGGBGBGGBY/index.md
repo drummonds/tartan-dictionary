@@ -16,5 +16,5 @@ BGGBGBGGBRWGRGWRBGGBGBGGBY
 
 | Tartans |
 |---------------|
-| [McGran (Personal)](/tartans/dy/4/p6/g6/ga64/p4/ga8/p8/ga6/g20/p4/r4/ln2/g2/r6/g2/ln2/r4/p4/g20/ga6/p8/ga8/p4/ga64/g6/p/6/)|
-|![McGran (Personal) example sett](/variants/dy/4/p6/g6/ga64/p4/ga8/p8/ga6/g20/p4/r4/ln2/g2/r6/g2/ln2/r4/p4/g20/ga6/p8/ga8/p4/ga64/g6/p/6-dybc8c00-g289c18-ga006818-lne0e0e0-p780078-rc80000/sett.png)|
+| [McGran (Personal)](/setts/s26/b6g6ga64b4ga8b8ga6g20b4r4w2g2r6g2w2r4b4g20ga6b8ga8b4ga64g6b6y4-b780078-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/)|
+|![McGran (Personal) example sett](/setts/s26/b6g6ga64b4ga8b8ga6g20b4r4w2g2r6g2w2r4b4g20ga6b8ga8b4ga64g6b6y4-b780078-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/sett.png)|

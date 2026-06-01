@@ -16,5 +16,5 @@ BGYWGBWBBRWRWGW
 
 | Tartans |
 |---------------|
-| [Culloden Worn by Pr Charles](/tartans/b/34/g30/y10/ln4/g16/dp12/ln4/ba16/k64/r36/ln4/r16/ln4/t100/ln/4/)|
-|![Culloden Worn by Pr Charles example sett](/variants/b/34/g30/y10/ln4/g16/dp12/ln4/ba16/k64/r36/ln4/r16/ln4/t100/ln/4-b0596fa-ba2c4084-dp280032-g005020-k2a2303-lne0e0e0-rdc0000-t503c14-ye8c000/sett.png)|
+| [Culloden Worn by Pr Charles](/setts/s15/b34g30y10w4g16ba12w4bb16bc64r36w4r16w4ga100w4-b0596fa-ba280032-bb2c4084-bc2a2303-g005020-ga503c14-rdc0000-we0e0e0-ye8c000/)|
+|![Culloden Worn by Pr Charles example sett](/setts/s15/b34g30y10w4g16ba12w4bb16bc64r36w4r16w4ga100w4-b0596fa-ba280032-bb2c4084-bc2a2303-g005020-ga503c14-rdc0000-we0e0e0-ye8c000/sett.png)|

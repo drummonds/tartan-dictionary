@@ -16,5 +16,5 @@ BBGGGYGGGB
 
 | Tartans |
 |---------------|
-| [United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/b/4/dr24/t2/dg24/t24/y4/t24/dg24/t2/dr/24/)|
-|![United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/b/4/dr24/t2/dg24/t24/y4/t24/dg24/t2/dr/24-b2888c4-db2c2c80-dg003820-dr680028-g006818-rc80000-t604000-ye8c000/sett.png)|
+| [United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b4ba24g2ga24g24y4g24ga24g2ba24-b2888c4-ba680028-g604000-ga003820-ye8c000/)|
+|![United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b4ba24g2ga24g24y4g24ga24g2ba24-b2888c4-ba680028-g604000-ga003820-ye8c000/sett.png)|

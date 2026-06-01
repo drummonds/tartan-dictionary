@@ -16,5 +16,5 @@ BGKGBYBYBK
 
 | Tartans |
 |---------------|
-| [St Andrews, University of](/tartans/dba/6/g6/k6/g8/db32/y6/dba4/y4/dba4/k/6/)|
-|![St Andrews, University of example sett](/variants/dba/6/g6/k6/g8/db32/y6/dba4/y4/dba4/k/6-db2c2c80-dba202060-g006818-k101010-ye8c000/sett.png)|
+| [St Andrews, University of](/setts/s10/b6g6k6g8ba32y6b4y4b4k6-b202060-ba2c2c80-g006818-k101010-ye8c000/)|
+|![St Andrews, University of example sett](/setts/s10/b6g6k6g8ba32y6b4y4b4k6-b202060-ba2c2c80-g006818-k101010-ye8c000/sett.png)|

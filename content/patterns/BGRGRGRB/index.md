@@ -6,7 +6,7 @@ BGRGRGRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/5/n15/t4/n4/t24/n4/t4/db/5-db2c2c80-n888888-t604000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/b5g4r4g24r4g4r15b5-b2c2c80-g604000-r888888/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGRGRGRB
 
 | Tartans |
 |---------------|
-| [Daks-Simpson (Muted Skye)](/tartans/db/5/n15/t4/n4/t24/n4/t4/db/5/)|
-|![Daks-Simpson (Muted Skye) example sett](/variants/db/5/n15/t4/n4/t24/n4/t4/db/5-db2c2c80-n888888-t604000-wf8f8f8/sett.png)|
-| [Daks, (Muted Skye)](/tartans/b/5/lt4/n4/lt24/n4/lt4/n15/b/5/)|
-|![Daks, (Muted Skye) example sett](/variants/b/5/lt4/n4/lt24/n4/lt4/n15/b/5-b304080-lt806050-n808080/sett.png)|
-| [Daks, Tartan-Loden](/tartans/b/6/g4/lt4/g28/r4/g4/lt14/b/6/)|
-|![Daks, Tartan-Loden example sett](/variants/b/6/g4/lt4/g28/r4/g4/lt14/b/6-b304080-g008000-lt806050-rc00000/sett.png)|
+| [Daks-Simpson (Muted Skye)](/setts/s8/b5g4r4g24r4g4r15b5-b2c2c80-g604000-r888888/)|
+|![Daks-Simpson (Muted Skye) example sett](/setts/s8/b5g4r4g24r4g4r15b5-b2c2c80-g604000-r888888/sett.png)|
+| [Daks, (Muted Skye)](/setts/s8/b5g15r4g4r24g4r4b5-b304080-g808080-r806050/)|
+|![Daks, (Muted Skye) example sett](/setts/s8/b5g15r4g4r24g4r4b5-b304080-g808080-r806050/sett.png)|
+| [Daks, Tartan-Loden](/setts/s8/b6g4r4g28ra4g4r14b6-b304080-g008000-r806050-rac00000/)|
+|![Daks, Tartan-Loden example sett](/setts/s8/b6g4r4g28ra4g4r14b6-b304080-g008000-r806050-rac00000/sett.png)|

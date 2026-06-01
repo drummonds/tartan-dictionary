@@ -16,7 +16,7 @@ BGKGKRKGKG
 
 | Tartans |
 |---------------|
-| [Holman (Personal)](/tartans/b/6/g14/k32/g40/k18/dr6/k18/g24/k24/g/14/)|
-|![Holman (Personal) example sett](/variants/b/6/g14/k32/g40/k18/dr6/k18/g24/k24/g/14-b2474e8-dg003820-dr880000-g006818-k101010-oe86000/sett.png)|
-| [Holman](/tartans/b/6/dg18/db32/dg50/db18/r6/db18/dg26/db20/dg/36/)|
-|![Holman example sett](/variants/b/6/dg18/db32/dg50/db18/r6/db18/dg26/db20/dg/36-b304080-db000030-dg003000-rc00000/sett.png)|
+| [Holman (Personal)](/setts/s10/b6g14k32g40k18r6k18g24k24g14-b2474e8-g006818-k101010-r880000/)|
+|![Holman (Personal) example sett](/setts/s10/b6g14k32g40k18r6k18g24k24g14-b2474e8-g006818-k101010-r880000/sett.png)|
+| [Holman](/setts/s10/b6g18k32g50k18r6k18g26k20g36-b304080-g003000-k000030-rc00000/)|
+|![Holman example sett](/setts/s10/b6g18k32g50k18r6k18g26k20g36-b304080-g003000-k000030-rc00000/sett.png)|

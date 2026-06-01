@@ -6,7 +6,7 @@ BBBRYBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/dn/6/p10/dn6/dr42/y6/b42/g/42-b5f749c-dn14283c-dr960028-g004c00-p5a008c-yffe600/tartan.png)
+![Woven sample](/setts/s7/b6ba10b6r42y6bb42g42-b14283c-ba5a008c-bb5f749c-g004c00-r960028-yffe600/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBRYBG
 
 | Tartans |
 |---------------|
-| [Falardeau-Murphy (Canada) (Personal)](/tartans/dn/6/p10/dn6/dr42/y6/b42/g/42/)|
-|![Falardeau-Murphy (Canada) (Personal) example sett](/variants/dn/6/p10/dn6/dr42/y6/b42/g/42-b5f749c-dn14283c-dr960028-g004c00-p5a008c-yffe600/sett.png)|
-| [Falardeau-Murphy (Canada) (Personal)](/tartans/g/42/b42/y6/dr42/n6/p10/n/6/)|
-|![Falardeau-Murphy (Canada) (Personal) example sett](/variants/g/42/b42/y6/dr42/n6/p10/n/6-b5c8ca8-dra00000-g006818-n5c5c5c-p780078-yfccc00/sett.png)|
+| [Falardeau-Murphy (Canada) (Personal)](/setts/s7/b6ba10b6r42y6bb42g42-b14283c-ba5a008c-bb5f749c-g004c00-r960028-yffe600/)|
+|![Falardeau-Murphy (Canada) (Personal) example sett](/setts/s7/b6ba10b6r42y6bb42g42-b14283c-ba5a008c-bb5f749c-g004c00-r960028-yffe600/sett.png)|
+| [Falardeau-Murphy (Canada) (Personal)](/setts/s7/b6ba10b6r42y6bb42g42-b5c5c5c-ba780078-bb5c8ca8-g006818-ra00000-yfccc00/)|
+|![Falardeau-Murphy (Canada) (Personal) example sett](/setts/s7/b6ba10b6r42y6bb42g42-b5c5c5c-ba780078-bb5c8ca8-g006818-ra00000-yfccc00/sett.png)|

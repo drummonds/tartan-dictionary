@@ -6,7 +6,7 @@ BKBWK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/k/6/w4/n54/k62/p/6-k101010-n555555-p871f78-wffffff/tartan.png)
+![Woven sample](/setts/s5/b6k62ba54w4k6-b871f78-ba555555-k101010-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBWK
 
 | Tartans |
 |---------------|
-| [Kelley Oliphint](/tartans/k/6/w4/n54/k62/p/6/)|
-|![Kelley Oliphint example sett](/variants/k/6/w4/n54/k62/p/6-k101010-n555555-p871f78-wffffff/sett.png)|
+| [Kelley Oliphint](/setts/s5/b6k62ba54w4k6-b871f78-ba555555-k101010-wffffff/)|
+|![Kelley Oliphint example sett](/setts/s5/b6k62ba54w4k6-b871f78-ba555555-k101010-wffffff/sett.png)|

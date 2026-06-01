@@ -16,5 +16,5 @@ BBBBBBRBR
 
 | Tartans |
 |---------------|
-| [POF (Fashion)](/tartans/b/27/db8/b14/db8/b14/db26/dr84/db6/dr/12/)|
-|![POF (Fashion) example sett](/variants/b/27/db8/b14/db8/b14/db26/dr84/db6/dr/12-b1474b4-db1c1c50-dr901c38/sett.png)|
+| [POF (Fashion)](/setts/s9/b27ba8b14ba8b14ba26r84ba6r12-b1474b4-ba1c1c50-r901c38/)|
+|![POF (Fashion) example sett](/setts/s9/b27ba8b14ba8b14ba26r84ba6r12-b1474b4-ba1c1c50-r901c38/sett.png)|

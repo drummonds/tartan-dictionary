@@ -16,5 +16,5 @@ BBKGBGBGBGBGBGBW
 
 | Tartans |
 |---------------|
-| [Bell-McTier Thistle](/tartans/b/16/dba12/db80/g32/b2/g14/b4/g10/b8/g8/b8/g4/b10/g2/b72/w/12/)|
-|![Bell-McTier Thistle example sett](/variants/b/16/dba12/db80/g32/b2/g14/b4/g10/b8/g8/b8/g4/b10/g2/b72/w/12-b324e75-db0a0336-dba0f1f53-g215e4e-wffffff/sett.png)|
+| [Bell-McTier Thistle](/setts/s16/b8ba6k40g16b1g7b2g5b4g4b4g2b5g1b36w6-b324e75-ba0f1f53-g215e4e-k0a0336-wffffff/)|
+|![Bell-McTier Thistle example sett](/setts/s16/b8ba6k40g16b1g7b2g5b4g4b4g2b5g1b36w6-b324e75-ba0f1f53-g215e4e-k0a0336-wffffff/sett.png)|

@@ -6,7 +6,7 @@ BGYBRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/dr/38/g46/dy6/db30/dra22/ly/10-db202060-dr441800-dra960028-dyc88c00-g005448-lyf8f4d0/tartan.png)
+![Woven sample](/setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYBRW
 
 | Tartans |
 |---------------|
-| [Mekos, The](/tartans/dr/38/g46/dy6/db30/dra22/ly/10/)|
-|![Mekos, The example sett](/variants/dr/38/g46/dy6/db30/dra22/ly/10-db202060-dr441800-dra960028-dyc88c00-g005448-lyf8f4d0/sett.png)|
+| [Mekos, The](/setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/)|
+|![Mekos, The example sett](/setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/sett.png)|

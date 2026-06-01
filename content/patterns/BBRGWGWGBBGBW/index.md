@@ -16,5 +16,5 @@ BBRGWGWGBBGBW
 
 | Tartans |
 |---------------|
-| [Leando Dress (Personal)](/tartans/b/76/dr8/r6/t12/ln4/t4/ln4/t4/dr24/b12/t4/b12/ln/4/)|
-|![Leando Dress (Personal) example sett](/variants/b/76/dr8/r6/t12/ln4/t4/ln4/t4/dr24/b12/t4/b12/ln/4-b1474b4-dr441800-lne0e0e0-ra00048-t604000/sett.png)|
+| [Leando Dress (Personal)](/setts/s13/b76ba8r6g12w4g4w4g4ba24b12g4b12w4-b1474b4-ba441800-g604000-ra00048-we0e0e0/)|
+|![Leando Dress (Personal) example sett](/setts/s13/b76ba8r6g12w4g4w4g4ba24b12g4b12w4-b1474b4-ba441800-g604000-ra00048-we0e0e0/sett.png)|

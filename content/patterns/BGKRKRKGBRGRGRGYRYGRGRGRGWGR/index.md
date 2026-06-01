@@ -16,5 +16,7 @@ BGKRKRKGBRGRGRGYRYGRGRGRGWGR
 
 | Tartans |
 |---------------|
-| [MacMaster (Canada)](/tartans/db/16/g16/k4/dr8/k4/dr8/k4/g16/db16/dr24/g4/dr4/g4/dr4/g12/dy4/dr2/dy4/g12/dr4/g4/dr4/g4/dr24/g24/lp4/g24/dr/24/)|
-|![MacMaster (Canada) example sett](/variants/db/16/g16/k4/dr8/k4/dr8/k4/g16/db16/dr24/g4/dr4/g4/dr4/g12/dy4/dr2/dy4/g12/dr4/g4/dr4/g4/dr24/g24/lp4/g24/dr/24-db1c0070-dr880000-dyd09800-g285800-k101010-lpa8ace8/sett.png)|
+| [MacMaster (Canada)](/setts/s28/b16g16k4r8k4r8k4g16b16r24g4r4g4r4g12y4r2y4g12r4g4r4g4r24g24w4g24r24-b1c0070-g285800-k101010-r880000-wa8ace8-yd09800/)|
+|![MacMaster (Canada) example sett](/setts/s28/b16g16k4r8k4r8k4g16b16r24g4r4g4r4g12y4r2y4g12r4g4r4g4r24g24w4g24r24-b1c0070-g285800-k101010-r880000-wa8ace8-yd09800/sett.png)|
+| [MacMaster (Name 2001)](/setts/s28/b16g16k4r8k4r8k4g16b16r24g4r4g4r4g12y4r2y4g12r4g4r4g4r24g24w4g24r24-b1c0070-g285800-k101010-r880000-wa8ace8-yd09800/)|
+|![MacMaster (Name 2001) example sett](/setts/s28/b16g16k4r8k4r8k4g16b16r24g4r4g4r4g12y4r2y4g12r4g4r4g4r24g24w4g24r24-b1c0070-g285800-k101010-r880000-wa8ace8-yd09800/sett.png)|

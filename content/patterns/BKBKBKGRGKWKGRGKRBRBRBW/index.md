@@ -16,7 +16,11 @@ BKBKBKGRGKWKGRGKRBRBRBW
 
 | Tartans |
 |---------------|
-| [Rankine](/tartans/db/30/k2/db2/k2/db2/k24/g18/r2/g18/k2/ln2/k2/g18/r2/g18/k24/r2/db18/r4/db2/r2/db12/ln/2/)|
-|![Rankine example sett](/variants/db/30/k2/db2/k2/db2/k24/g18/r2/g18/k2/ln2/k2/g18/r2/g18/k24/r2/db18/r4/db2/r2/db12/ln/2-db2c2c80-g006818-k101010-lne0e0e0-rc80000/sett.png)|
-| [Rankine](/tartans/b/30/k2/b2/k2/b2/k24/g18/r2/g18/k2/ln2/k2/g18/r2/g18/k24/r2/b18/r4/b2/r2/b12/ln/2/)|
-|![Rankine example sett](/variants/b/30/k2/b2/k2/b2/k24/g18/r2/g18/k2/ln2/k2/g18/r2/g18/k24/r2/b18/r4/b2/r2/b12/ln/2-b304080-g008000-k000000-lne0e0e0-rc00000/sett.png)|
+| [Rankine](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![Rankine example sett](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Rankine (Clan)](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![Rankine (Clan) example sett](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Rankine](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b304080-g008000-k000000-rc00000-we0e0e0/)|
+|![Rankine example sett](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Rankine Clan Tartan Tartan Number: 292. Earliest known date: 1822 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![Rankine Clan Tartan Tartan Number: 292. Earliest known date: 1822 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|

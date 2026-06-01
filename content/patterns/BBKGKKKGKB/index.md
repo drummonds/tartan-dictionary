@@ -16,5 +16,5 @@ BBKGKKKGKB
 
 | Tartans |
 |---------------|
-| [Smith (Sir William)](/tartans/b/6/db36/k40/g40/k2/yy6/k2/g40/k40/db/36/)|
-|![Smith (Sir William) example sett](/variants/b/6/db36/k40/g40/k2/yy6/k2/g40/k40/db/36-b5c8ca8-db2c2c80-g006818-k101010/sett.png)|
+| [Smith (Sir William)](/setts/s10/b36k40g40k2ka6k2g40k40b36ba6-b2c2c80-ba5c8ca8-g006818-k101010-ka000000/)|
+|![Smith (Sir William) example sett](/setts/s10/b36k40g40k2ka6k2g40k40b36ba6-b2c2c80-ba5c8ca8-g006818-k101010-ka000000/sett.png)|

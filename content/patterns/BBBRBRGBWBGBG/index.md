@@ -16,7 +16,11 @@ BBBRBRGBWBGBG
 
 | Tartans |
 |---------------|
-| [Massachusetts - The Bay State](/tartans/db/8/b4/db48/r3/db10/r8/g4/db8/lr4/db22/g6/db6/g/12/)|
-|![Massachusetts - The Bay State example sett](/variants/db/8/b4/db48/r3/db10/r8/g4/db8/lr4/db22/g6/db6/g/12-b3c68ac-db202060-g006818-lre8ccb8-rc80000/sett.png)|
-| [Massachusetts-The Bay State](/tartans/db/8/b4/db48/r4/db10/r8/g4/db8/ly4/db22/g6/db6/g/12/)|
-|![Massachusetts-The Bay State example sett](/variants/db/8/b4/db48/r4/db10/r8/g4/db8/ly4/db22/g6/db6/g/12-b0596fa-db080848-g005020-lyf5dca0-rdc0000/sett.png)|
+| [Massachusetts - The Bay State](/setts/s13/b8ba4b48r3b10r8g4b8w4b22g6b6g12-b202060-ba3c68ac-g006818-rc80000-we8ccb8/)|
+|![Massachusetts - The Bay State example sett](/setts/s13/b8ba4b48r3b10r8g4b8w4b22g6b6g12-b202060-ba3c68ac-g006818-rc80000-we8ccb8/sett.png)|
+| [Massachusetts-The Bay State](/setts/s13/b8ba4b48r4b10r8g4b8w4b22g6b6g12-b080848-ba0596fa-g005020-rdc0000-wf5dca0/)|
+|![Massachusetts-The Bay State example sett](/setts/s13/b8ba4b48r4b10r8g4b8w4b22g6b6g12-b080848-ba0596fa-g005020-rdc0000-wf5dca0/sett.png)|
+| [Massachusetts - The Bay State (Dist)](/setts/s13/b8ba4b48r3b10r8g4b8w4b22g6b6g12-b202060-ba2888c4-g006818-rc80000-we8ccb8/)|
+|![Massachusetts - The Bay State (Dist) example sett](/setts/s13/b8ba4b48r3b10r8g4b8w4b22g6b6g12-b202060-ba2888c4-g006818-rc80000-we8ccb8/sett.png)|
+| [Massachusetts American District Tartan Tartan Number: 4543. Earliest known date: 2002 This was accepted as the official tartan of the Commonwealth of Massachusetts and signed by Governor Romney on May 16th 2003, House Bill #627. The colours are blue for the Atlantic Ocean, reservoirs, rivers and ponds; green for the Boston Hills, Worcester Hills and the Berkshire Mountains; tan for the beach line from the North to South Shore, Cape and Island and Buzzards Bay, plus red for the apple and cranberry harvests. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b8ba4b48r3b10r8g4b8w4b22g6b6g12-b202060-ba3c68ac-g006818-rc80000-we8ccb8/)|
+|![Massachusetts American District Tartan Tartan Number: 4543. Earliest known date: 2002 This was accepted as the official tartan of the Commonwealth of Massachusetts and signed by Governor Romney on May 16th 2003, House Bill #627. The colours are blue for the Atlantic Ocean, reservoirs, rivers and ponds; green for the Boston Hills, Worcester Hills and the Berkshire Mountains; tan for the beach line from the North to South Shore, Cape and Island and Buzzards Bay, plus red for the apple and cranberry harvests. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b8ba4b48r3b10r8g4b8w4b22g6b6g12-b202060-ba3c68ac-g006818-rc80000-we8ccb8/sett.png)|

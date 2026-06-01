@@ -16,5 +16,5 @@ BGBBGGBWBGBBGBGB
 
 | Tartans |
 |---------------|
-| [Forbes of Druinnor (Artefact)](/tartans/db/12/lt4/db4/lt4/db4/t12/dg16/t2/w4/t2/dg16/ta4/t8/db16/lt4/db/4/)|
-|![Forbes of Druinnor (Artefact) example sett](/variants/db/12/lt4/db4/lt4/db4/t12/dg16/t2/w4/t2/dg16/ta4/t8/db16/lt4/db/4-db202060-dg003820-lt8c7038-t4c3428-ta604000-wfcfcfc/sett.png)|
+| [Forbes of Druinnor (Artefact)](/setts/s16/b12g4b4g4b4ba12ga16ba2w4ba2ga16gb4ba8b16g4b4-b202060-ba4c3428-g8c7038-ga003820-gb604000-wfcfcfc/)|
+|![Forbes of Druinnor (Artefact) example sett](/setts/s16/b12g4b4g4b4ba12ga16ba2w4ba2ga16gb4ba8b16g4b4-b202060-ba4c3428-g8c7038-ga003820-gb604000-wfcfcfc/sett.png)|

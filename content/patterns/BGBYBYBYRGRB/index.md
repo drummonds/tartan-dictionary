@@ -16,5 +16,5 @@ BGBYBYBYRGRB
 
 | Tartans |
 |---------------|
-| [Harmony 1](/tartans/dr/6/do8/g6/do68/dy26/k6/y8/k6/y6/k8/g6/k/22/)|
-|![Harmony 1 example sett](/variants/dr/6/do8/g6/do68/dy26/k6/y8/k6/y6/k8/g6/k/22-dobe7832-dr500000-dyc89600-g005020-k2a2303-ye8c000/sett.png)|
+| [Harmony 1](/setts/s12/b22g6b8y6b6y8b6ya26r68g6r8ba6-b2a2303-ba500000-g005020-rbe7832-ye8c000-yac89600/)|
+|![Harmony 1 example sett](/setts/s12/b22g6b8y6b6y8b6ya26r68g6r8ba6-b2a2303-ba500000-g005020-rbe7832-ye8c000-yac89600/sett.png)|

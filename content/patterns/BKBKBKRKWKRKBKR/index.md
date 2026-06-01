@@ -16,7 +16,7 @@ BKBKBKRKWKRKBKR
 
 | Tartans |
 |---------------|
-| [Clan Pipers Frankfurt and District Pipe Band](/tartans/db/43/k4/db4/k4/db4/k26/r32/k4/w10/k4/r32/k26/db32/k4/r/10/)|
-|![Clan Pipers Frankfurt and District Pipe Band example sett](/variants/db/43/k4/db4/k4/db4/k26/r32/k4/w10/k4/r32/k26/db32/k4/r/10-db000080-k101010-rff0000-wffffff/sett.png)|
-| [Frankfurt & Disttrict P & D (Corpora](/tartans/db/43/k4/db4/k4/db4/k26/r32/k4/ln10/k4/r32/k26/db32/k4/r/10/)|
-|![Frankfurt & Disttrict P & D (Corpora example sett](/variants/db/43/k4/db4/k4/db4/k26/r32/k4/ln10/k4/r32/k26/db32/k4/r/10-db003c64-k101010-lne0e0e0-rc80000/sett.png)|
+| [Clan Pipers Frankfurt and District Pipe Band](/setts/s15/b43k4b4k4b4k26r32k4w10k4r32k26b32k4r10-b000080-k101010-rff0000-wffffff/)|
+|![Clan Pipers Frankfurt and District Pipe Band example sett](/setts/s15/b43k4b4k4b4k26r32k4w10k4r32k26b32k4r10-b000080-k101010-rff0000-wffffff/sett.png)|
+| [Frankfurt & Disttrict P & D (Corpora](/setts/s15/b43k4b4k4b4k26r32k4w10k4r32k26b32k4r10-b003c64-k101010-rc80000-we0e0e0/)|
+|![Frankfurt & Disttrict P & D (Corpora example sett](/setts/s15/b43k4b4k4b4k26r32k4w10k4r32k26b32k4r10-b003c64-k101010-rc80000-we0e0e0/sett.png)|

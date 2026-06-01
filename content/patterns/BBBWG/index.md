@@ -6,7 +6,7 @@ BBBWG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/b/4/db58/b24/w58/g/4-b2888c4-db1c0070-g289c18-wf8f8f8/tartan.png)
+![Woven sample](/setts/s5/b4ba58b24w58g4-b2888c4-ba1c0070-g289c18-wf8f8f8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBWG
 
 | Tartans |
 |---------------|
-| [Wallace Blue Dress (Dance)](/tartans/b/4/db58/b24/w58/g/4/)|
-|![Wallace Blue Dress (Dance) example sett](/variants/b/4/db58/b24/w58/g/4-b2888c4-db1c0070-g289c18-wf8f8f8/sett.png)|
+| [Wallace Blue Dress (Dance)](/setts/s5/b4ba58b24w58g4-b2888c4-ba1c0070-g289c18-wf8f8f8/)|
+|![Wallace Blue Dress (Dance) example sett](/setts/s5/b4ba58b24w58g4-b2888c4-ba1c0070-g289c18-wf8f8f8/sett.png)|

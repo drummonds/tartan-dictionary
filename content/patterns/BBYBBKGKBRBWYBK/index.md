@@ -16,5 +16,5 @@ BBYBBKGKBRBWYBK
 
 | Tartans |
 |---------------|
-| [Causeway, The](/tartans/k/6/na2/b10/w2/na2/lr3/na2/k2/lg6/k2/na42/n20/b3/na8/n/38/)|
-|![Causeway, The example sett](/variants/k/6/na2/b10/w2/na2/lr3/na2/k2/lg6/k2/na42/n20/b3/na8/n/38-b69a2c0-k101010-lg639f6b-lrdd56f0-n2f4f4f-na778899-wffffff/sett.png)|
+| [Causeway, The](/setts/s15/b38ba8y3b20ba42k2g6k2ba2r3ba2w2y10ba2k6-b2f4f4f-ba778899-g639f6b-k101010-rdd56f0-wffffff-y69a2c0/)|
+|![Causeway, The example sett](/setts/s15/b38ba8y3b20ba42k2g6k2ba2r3ba2w2y10ba2k6-b2f4f4f-ba778899-g639f6b-k101010-rdd56f0-wffffff-y69a2c0/sett.png)|

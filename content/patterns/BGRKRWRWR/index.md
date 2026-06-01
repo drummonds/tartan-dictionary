@@ -16,7 +16,9 @@ BGRKRWRWR
 
 | Tartans |
 |---------------|
-| [Royal Scottish Assurance](/tartans/db/52/g22/r16/k4/r4/w4/r8/w2/r/30/)|
-|![Royal Scottish Assurance example sett](/variants/db/52/g22/r16/k4/r4/w4/r8/w2/r/30-db2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Royal Scottish Assurance](/tartans/b/52/dg22/r16/k4/r4/ln4/r8/ln2/r/30/)|
-|![Royal Scottish Assurance example sett](/variants/b/52/dg22/r16/k4/r4/ln4/r8/ln2/r/30-b304080-dg004010-k000000-lne0e0e0-rc00000/sett.png)|
+| [Royal Scottish Assurance](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![Royal Scottish Assurance example sett](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Royal Scottish Assurance (Corporate)](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![Royal Scottish Assurance (Corporate) example sett](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Royal Scottish Assurance](/setts/s9/b52g22r16k4r4w4r8w2r30-b304080-g004010-k000000-rc00000-we0e0e0/)|
+|![Royal Scottish Assurance example sett](/setts/s9/b52g22r16k4r4w4r8w2r30-b304080-g004010-k000000-rc00000-we0e0e0/sett.png)|

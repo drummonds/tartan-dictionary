@@ -16,5 +16,5 @@ BKBBBBBKW
 
 | Tartans |
 |---------------|
-| [Basel Tattoo (Official)](/tartans/db/2/k16/db4/dg32/dr12/dg32/db4/k16/ln/2/)|
-|![Basel Tattoo (Official) example sett](/variants/db/2/k16/db4/dg32/dr12/dg32/db4/k16/ln/2-db141e46-dg002814-dr500000-k101010-lne0e0e0/sett.png)|
+| [Basel Tattoo (Official)](/setts/s9/b2k16b4ba32bb12ba32b4k16w2-b141e46-ba002814-bb500000-k101010-we0e0e0/)|
+|![Basel Tattoo (Official) example sett](/setts/s9/b2k16b4ba32bb12ba32b4k16w2-b141e46-ba002814-bb500000-k101010-we0e0e0/sett.png)|

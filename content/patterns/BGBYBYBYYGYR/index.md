@@ -16,5 +16,5 @@ BGBYBYBYYGYR
 
 | Tartans |
 |---------------|
-| [Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015](/tartans/dr/22/g6/dr8/ya6/dr6/ya8/dr6/y26/lt68/g6/lt8/dra/6/)|
-|![Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/variants/dr/22/g6/dr8/ya6/dr6/ya8/dr6/y26/lt68/g6/lt8/dra/6-dr441800-dra880000-g006818-lta08858-ye8c000-yae8c000/sett.png)|
+| [Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b22g6b8y6b6y8b6y26ya68g6ya8r6-b441800-g006818-r880000-ye8c000-yaa08858/)|
+|![Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b22g6b8y6b6y8b6y26ya68g6ya8r6-b441800-g006818-r880000-ye8c000-yaa08858/sett.png)|

@@ -16,5 +16,5 @@ BBBBGGGGGGGR
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Heather (Corporate)](/tartans/n/6/g30/ga4/g8/ga4/dg12/g6/dg12/dp28/p4/dp8/p/8/)|
-|![Kinloch Anderson Heather (Corporate) example sett](/variants/n/6/g30/ga4/g8/ga4/dg12/g6/dg12/dp28/p4/dp8/p/8-dg003820-dp440044-g289c18-ga006818-n888888-p780078/sett.png)|
+| [Kinloch Anderson Heather (Corporate)](/setts/s12/b8ba8b4ba28g12ga6g12gb4ga8gb4ga30r6-b780078-ba440044-g003820-ga289c18-gb006818-r888888/)|
+|![Kinloch Anderson Heather (Corporate) example sett](/setts/s12/b8ba8b4ba28g12ga6g12gb4ga8gb4ga30r6-b780078-ba440044-g003820-ga289c18-gb006818-r888888/sett.png)|

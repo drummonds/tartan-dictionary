@@ -16,5 +16,5 @@ BGGBGBGBGBGGBGBGBBG
 
 | Tartans |
 |---------------|
-| [Wiregrass (District)](/tartans/b/4/g6/ga2/ba8/ga4/ba4/g4/ba4/ga14/ba4/g8/ga2/ba44/g16/ba6/g8/ba4/b2/ga/4/)|
-|![Wiregrass (District) example sett](/variants/b/4/g6/ga2/ba8/ga4/ba4/g4/ba4/ga14/ba4/g8/ga2/ba44/g16/ba6/g8/ba4/b2/ga/4-b1474b4-ba3850c8-g289c18-ga006818/sett.png)|
+| [Wiregrass (District)](/setts/s19/b4g6ga2ba8ga4ba4g4ba4ga14ba4g8ga2ba44g16ba6g8ba4b2ga4-b1474b4-ba3850c8-g289c18-ga006818/)|
+|![Wiregrass (District) example sett](/setts/s19/b4g6ga2ba8ga4ba4g4ba4ga14ba4g8ga2ba44g16ba6g8ba4b2ga4-b1474b4-ba3850c8-g289c18-ga006818/sett.png)|

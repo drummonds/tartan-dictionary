@@ -16,5 +16,5 @@ BKBKWKKRKRKKWKBRWGBKWKKRKRKKWK
 
 | Tartans |
 |---------------|
-| [Italian (Fashion)](/tartans/db/48/k4/db48/k2/n2/k2/k24/dr4/k4/dr4/k24/k2/n2/k2/db48/dr4/n4/g4/db48/k2/n2/k2/k24/dr4/k4/dr4/k24/k2/n2/k/2/)|
-|![Italian (Fashion) example sett](/variants/db/48/k4/db48/k2/n2/k2/k24/dr4/k4/dr4/k24/k2/n2/k2/db48/dr4/n4/g4/db48/k2/n2/k2/k24/dr4/k4/dr4/k24/k2/n2/k/2-db2c2c80-dr880000-g289c18-k101010-nc0c0c0/sett.png)|
+| [Italian (Fashion)](/setts/s30/b48k4b48k2w2k2k24r4k4r4k24k2w2k2b48r4w4g4b48k2w2k2k24r4k4r4k24k2w2k2-b2c2c80-g289c18-k101010-r880000-wc0c0c0/)|
+|![Italian (Fashion) example sett](/setts/s30/b48k4b48k2w2k2k24r4k4r4k24k2w2k2b48r4w4g4b48k2w2k2k24r4k4r4k24k2w2k2-b2c2c80-g289c18-k101010-r880000-wc0c0c0/sett.png)|

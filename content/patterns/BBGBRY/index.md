@@ -6,7 +6,7 @@ BBGBRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/24/ba12/g60/b18/dr16/o/2-b2c4084-ba5f749c-dr960028-g408060-od87c00/tartan.png)
+![Woven sample](/setts/s6/b24ba12g60b18r16y2-b2c4084-ba5f749c-g408060-r960028-yd87c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBGBRY
 
 | Tartans |
 |---------------|
-| [Wright, Anne (Personal)](/tartans/b/24/ba12/g60/b18/dr16/o/2/)|
-|![Wright, Anne (Personal) example sett](/variants/b/24/ba12/g60/b18/dr16/o/2-b2c4084-ba5f749c-dr960028-g408060-od87c00/sett.png)|
-| [Wright , Anne (Personal)](/tartans/db/24/b12/g60/db18/dr16/y/2/)|
-|![Wright , Anne (Personal) example sett](/variants/db/24/b12/g60/db18/dr16/y/2-b5c8ca8-db2c2c80-dra00000-g408060-ye8c000/sett.png)|
+| [Wright, Anne (Personal)](/setts/s6/b24ba12g60b18r16y2-b2c4084-ba5f749c-g408060-r960028-yd87c00/)|
+|![Wright, Anne (Personal) example sett](/setts/s6/b24ba12g60b18r16y2-b2c4084-ba5f749c-g408060-r960028-yd87c00/sett.png)|
+| [Wright , Anne (Personal)](/setts/s6/b24ba12g60b18r16y2-b2c2c80-ba5c8ca8-g408060-ra00000-ye8c000/)|
+|![Wright , Anne (Personal) example sett](/setts/s6/b24ba12g60b18r16y2-b2c2c80-ba5c8ca8-g408060-ra00000-ye8c000/sett.png)|

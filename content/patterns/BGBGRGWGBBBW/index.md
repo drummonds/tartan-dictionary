@@ -16,5 +16,5 @@ BGBGRGWGBBBW
 
 | Tartans |
 |---------------|
-| [Diana Hunting, Lady](/tartans/n/2/db4/dr2/db6/g12/n2/g2/dra2/g2/t8/ga4/t/44/)|
-|![Diana Hunting, Lady example sett](/variants/n/2/db4/dr2/db6/g12/n2/g2/dra2/g2/t8/ga4/t/44-db003c64-dr441800-dra880000-g006818-ga408060-nc0c0c0-t4c3428/sett.png)|
+| [Diana Hunting, Lady](/setts/s12/b88g8b16ga4r4ga4w4ga24ba12bb4ba8w4-b4c3428-ba003c64-bb441800-g408060-ga006818-r880000-wc0c0c0/)|
+|![Diana Hunting, Lady example sett](/setts/s12/b88g8b16ga4r4ga4w4ga24ba12bb4ba8w4-b4c3428-ba003c64-bb441800-g408060-ga006818-r880000-wc0c0c0/sett.png)|

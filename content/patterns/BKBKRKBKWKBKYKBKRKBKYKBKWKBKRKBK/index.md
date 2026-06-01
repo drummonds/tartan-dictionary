@@ -16,5 +16,5 @@ BKBKRKBKWKBKYKBKRKBKYKBKWKBKRKBK
 
 | Tartans |
 |---------------|
-| [Kilburnie](/tartans/db/24/k4/db4/k4/r6/k4/b12/k4/ln4/k4/b12/k4/y4/k4/db12/k4/r4/k4/db12/k4/y4/k4/b12/k4/ln4/k4/b12/k4/r6/k4/db4/k/4/)|
-|![Kilburnie example sett](/variants/db/24/k4/db4/k4/r6/k4/b12/k4/ln4/k4/b12/k4/y4/k4/db12/k4/r4/k4/db12/k4/y4/k4/b12/k4/ln4/k4/b12/k4/r6/k4/db4/k/4-b5c8ca8-db2c2c80-k101010-lne0e0e0-rc80000-ye8c000/sett.png)|
+| [Kilburnie](/setts/s32/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4k4b12k4y4k4ba12k4w4k4ba12k4r6k4b4k4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Kilburnie example sett](/setts/s32/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4k4b12k4y4k4ba12k4w4k4ba12k4r6k4b4k4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

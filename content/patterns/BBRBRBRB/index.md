@@ -6,7 +6,7 @@ BBRBRBRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/18/k74/lp18/k8/r10/k8/lp18/k/148-db000048-g005448-k1c1c1c-lp9c68a4-rff0000/tartan.png)
+![Woven sample](/setts/s8/b18ba74r18ba8ra10ba8r18ba148-b000048-ba1c1c1c-r9c68a4-raff0000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRBRBRB
 
 | Tartans |
 |---------------|
-| [Rikaco Vintage](/tartans/db/18/k74/lp18/k8/r10/k8/lp18/k/148/)|
-|![Rikaco Vintage example sett](/variants/db/18/k74/lp18/k8/r10/k8/lp18/k/148-db000048-g005448-k1c1c1c-lp9c68a4-rff0000/sett.png)|
+| [Rikaco Vintage](/setts/s8/b18ba74r18ba8ra10ba8r18ba148-b000048-ba1c1c1c-r9c68a4-raff0000/)|
+|![Rikaco Vintage example sett](/setts/s8/b18ba74r18ba8ra10ba8r18ba148-b000048-ba1c1c1c-r9c68a4-raff0000/sett.png)|

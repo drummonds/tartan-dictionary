@@ -16,5 +16,5 @@ BKGKGKRBRKY
 
 | Tartans |
 |---------------|
-| [Porsche Bank Austria](/tartans/db/98/k4/b4/k4/b4/k20/r76/db10/r8/k8/n/20/)|
-|![Porsche Bank Austria example sett](/variants/db/98/k4/b4/k4/b4/k20/r76/db10/r8/k8/n/20-b048888-db2c2c80-k101010-na0a0a0-rdc0000/sett.png)|
+| [Porsche Bank Austria](/setts/s11/b98k4g4k4g4k20r76b10r8k8y20-b2c2c80-g048888-k101010-rdc0000-ya0a0a0/)|
+|![Porsche Bank Austria example sett](/setts/s11/b98k4g4k4g4k20r76b10r8k8y20-b2c2c80-g048888-k101010-rdc0000-ya0a0a0/sett.png)|

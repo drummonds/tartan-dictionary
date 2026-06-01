@@ -16,5 +16,7 @@ BBBBBBYRYYYB
 
 | Tartans |
 |---------------|
-| [Ralston (UK)](/tartans/b/36/db6/b20/db6/b20/db28/dy4/r14/dy4/lg28/dy4/db/28/)|
-|![Ralston (UK) example sett](/variants/b/36/db6/b20/db6/b20/db28/dy4/r14/dy4/lg28/dy4/db/28-b5c8ca8-db003c64-dybc8c00-lg70b494-rb41c34/sett.png)|
+| [Ralston (UK)](/setts/s12/b28y4ya28y4r14y4b28ba20b6ba20b6ba36-b003c64-ba5c8ca8-rb41c34-ybc8c00-ya70b494/)|
+|![Ralston (UK) example sett](/setts/s12/b28y4ya28y4r14y4b28ba20b6ba20b6ba36-b003c64-ba5c8ca8-rb41c34-ybc8c00-ya70b494/sett.png)|
+| [Ralston (UK) (Name)](/setts/s12/b28y4ya28y4r14y4b28ba20b6ba20b6ba36-b003c64-ba5c8ca8-rb41c34-ybc8c00-ya70b494/)|
+|![Ralston (UK) (Name) example sett](/setts/s12/b28y4ya28y4r14y4b28ba20b6ba20b6ba36-b003c64-ba5c8ca8-rb41c34-ybc8c00-ya70b494/sett.png)|

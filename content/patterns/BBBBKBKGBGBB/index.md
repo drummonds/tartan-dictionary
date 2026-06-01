@@ -16,5 +16,5 @@ BBBBKBKGBGBB
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Thistle](/tartans/b/8/db8/b4/db28/k12/p7/k12/g4/p8/g4/p28/pa/8/)|
-|![Kinloch Anderson Thistle example sett](/variants/b/8/db8/b4/db28/k12/p7/k12/g4/p8/g4/p28/pa/8-b007fff-db00008b-g006400-k101010-p551a8b-pa8a2be2/sett.png)|
+| [Kinloch Anderson Thistle](/setts/s12/b8ba8b4ba28k12bb7k12g4bb8g4bb28bc8-b007fff-ba00008b-bb551a8b-bc8a2be2-g006400-k101010/)|
+|![Kinloch Anderson Thistle example sett](/setts/s12/b8ba8b4ba28k12bb7k12g4bb8g4bb28bc8-b007fff-ba00008b-bb551a8b-bc8a2be2-g006400-k101010/sett.png)|

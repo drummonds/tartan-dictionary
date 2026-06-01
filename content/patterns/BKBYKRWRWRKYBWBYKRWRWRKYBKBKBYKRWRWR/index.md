@@ -16,5 +16,7 @@ BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWR
 
 | Tartans |
 |---------------|
-| [Ogilvy](/tartans/db/10/k2/db10/y4/k2/r6/ln2/r6/ln2/r6/k2/y2/db6/ln2/db6/y2/k2/r6/ln2/r6/ln2/r6/k2/y2/db10/k2/db10/k2/db10/y2/k2/r6/ln2/r6/ln2/r/6/)|
-|![Ogilvy example sett](/variants/db/10/k2/db10/y4/k2/r6/ln2/r6/ln2/r6/k2/y2/db6/ln2/db6/y2/k2/r6/ln2/r6/ln2/r6/k2/y2/db10/k2/db10/k2/db10/y2/k2/r6/ln2/r6/ln2/r/6-db080848-k101010-lne0e0e0-rdc0000-ye8c000/sett.png)|
+| [Ogilvy](/setts/s36/b20k4b20y8k4r12w4r12w4r12k4y4b12w4b12y4k4r12w4r12w4r12k4y4b20k4b20k4b20y4k4r12w4r12w4r12-b080848-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Ogilvy example sett](/setts/s36/b20k4b20y8k4r12w4r12w4r12k4y4b12w4b12y4k4r12w4r12w4r12k4y4b20k4b20k4b20y4k4r12w4r12w4r12-b080848-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Ogilvy](/setts/s36/b20k4b20y8k4r12w4r12w4r12k4y4b12w4b12y4k4r12w4r12w4r12k4y4b20k4b20k4b20y4k4r12w4r12w4r12-b000050-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Ogilvy example sett](/setts/s36/b20k4b20y8k4r12w4r12w4r12k4y4b12w4b12y4k4r12w4r12w4r12k4y4b20k4b20k4b20y4k4r12w4r12w4r12-b000050-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

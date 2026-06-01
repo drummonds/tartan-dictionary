@@ -16,5 +16,5 @@ BBBBGRGBW
 
 | Tartans |
 |---------------|
-| [Seaford House](/tartans/b/3/db3/b12/db26/dg26/r3/dg26/db28/w/3/)|
-|![Seaford House example sett](/variants/b/3/db3/b12/db26/dg26/r3/dg26/db28/w/3-b788cb4-db003c64-dg003820-rc8002c-wffffff/sett.png)|
+| [Seaford House](/setts/s9/b3ba3b12ba26g26r3g26ba28w3-b788cb4-ba003c64-g003820-rc8002c-wffffff/)|
+|![Seaford House example sett](/setts/s9/b3ba3b12ba26g26r3g26ba28w3-b788cb4-ba003c64-g003820-rc8002c-wffffff/sett.png)|

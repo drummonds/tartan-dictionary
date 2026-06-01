@@ -16,5 +16,5 @@ BKBKBKBYB
 
 | Tartans |
 |---------------|
-| [Christian Dewar (Personal)](/tartans/db/32/dr4/db4/dr4/db4/dr12/k26/lt4/k/6/)|
-|![Christian Dewar (Personal) example sett](/variants/db/32/dr4/db4/dr4/db4/dr12/k26/lt4/k/6-db00248c-dr3c0000-k142814-lta08c28/sett.png)|
+| [Christian Dewar (Personal)](/setts/s9/b32k4b4k4b4k12ba26y4ba6-b00248c-ba142814-k3c0000-ya08c28/)|
+|![Christian Dewar (Personal) example sett](/setts/s9/b32k4b4k4b4k12ba26y4ba6-b00248c-ba142814-k3c0000-ya08c28/sett.png)|

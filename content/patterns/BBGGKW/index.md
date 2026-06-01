@@ -6,7 +6,7 @@ BBGGKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/30/p30/g30/dg30/k16/w/10-db1c0070-dg043828-g00643c-k101010-p780078-wffffff/tartan.png)
+![Woven sample](/setts/s6/b30ba30g30ga30k16w10-b1c0070-ba780078-g00643c-ga043828-k101010-wffffff/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBGGKW
 
 | Tartans |
 |---------------|
-| [Williams, Edmund (Personal)](/tartans/db/30/p30/g30/dg30/k16/w/10/)|
-|![Williams, Edmund (Personal) example sett](/variants/db/30/p30/g30/dg30/k16/w/10-db1c0070-dg043828-g00643c-k101010-p780078-wffffff/sett.png)|
-| [Williams, Edmund (Personal)](/tartans/dp/30/p30/g30/dg30/k16/w/10/)|
-|![Williams, Edmund (Personal) example sett](/variants/dp/30/p30/g30/dg30/k16/w/10-dg003820-dp440044-g289c18-k101010-p780078-wfcfcfc/sett.png)|
+| [Williams, Edmund (Personal)](/setts/s6/b30ba30g30ga30k16w10-b1c0070-ba780078-g00643c-ga043828-k101010-wffffff/)|
+|![Williams, Edmund (Personal) example sett](/setts/s6/b30ba30g30ga30k16w10-b1c0070-ba780078-g00643c-ga043828-k101010-wffffff/sett.png)|
+| [Williams, Edmund (Personal)](/setts/s6/b30ba30g30ga30k16w10-b440044-ba780078-g289c18-ga003820-k101010-wfcfcfc/)|
+|![Williams, Edmund (Personal) example sett](/setts/s6/b30ba30g30ga30k16w10-b440044-ba780078-g289c18-ga003820-k101010-wfcfcfc/sett.png)|

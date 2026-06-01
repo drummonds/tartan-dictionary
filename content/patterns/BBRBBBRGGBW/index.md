@@ -16,5 +16,7 @@ BBRBBBRGGBW
 
 | Tartans |
 |---------------|
-| [Scottish Highlands & Islands Film Company](/tartans/ln/4/n8/dg8/g8/lr2/n4/db4/n4/na4/db16/n/32/)|
-|![Scottish Highlands & Islands Film Company example sett](/variants/ln/4/n8/dg8/g8/lr2/n4/db4/n4/na4/db16/n/32-db1c1c50-dg003820-g5c6428-lne0e0e0-lre87878-n746078-na888888/sett.png)|
+| [Scottish Highlands & Islands Film Company](/setts/s11/b64ba32r8b8ba8b8ra4g16ga16b16w8-b746078-ba1c1c50-g5c6428-ga003820-r888888-rae87878-we0e0e0/)|
+|![Scottish Highlands & Islands Film Company example sett](/setts/s11/b64ba32r8b8ba8b8ra4g16ga16b16w8-b746078-ba1c1c50-g5c6428-ga003820-r888888-rae87878-we0e0e0/sett.png)|
+| [Scottish H & I Film Com (Corporate)](/setts/s11/b64ba32r8b8ba8b8ra4g16ga16b16w8-b746078-ba1c1c50-g5c6428-ga003820-r888888-rae87878-we0e0e0/)|
+|![Scottish H & I Film Com (Corporate) example sett](/setts/s11/b64ba32r8b8ba8b8ra4g16ga16b16w8-b746078-ba1c1c50-g5c6428-ga003820-r888888-rae87878-we0e0e0/sett.png)|

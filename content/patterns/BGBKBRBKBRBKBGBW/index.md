@@ -16,5 +16,5 @@ BGBKBRBKBRBKBGBW
 
 | Tartans |
 |---------------|
-| [Jethart](/tartans/b/6/ga6/b32/k4/b32/dr6/b32/k44/b32/dr6/b32/k4/b32/ga6/b6/lb/10/)|
-|![Jethart example sett](/variants/b/6/ga6/b32/k4/b32/dr6/b32/k44/b32/dr6/b32/k4/b32/ga6/b6/lb/10-b3850c8-ba2888c4-bb1474b4-db1c0070-dba2c2c80-dr880000-g006818-ga289c18-k101010-lb98c8e8/sett.png)|
+| [Jethart](/setts/s16/b6g6b32k4b32r6b32k44b32r6b32k4b32g6b6w10-b3850c8-g289c18-k101010-r880000-w98c8e8/)|
+|![Jethart example sett](/setts/s16/b6g6b32k4b32r6b32k44b32r6b32k4b32g6b6w10-b3850c8-g289c18-k101010-r880000-w98c8e8/sett.png)|

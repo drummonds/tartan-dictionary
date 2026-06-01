@@ -16,7 +16,7 @@ BBGKBKBKBK
 
 | Tartans |
 |---------------|
-| [Racing Stewart (Stealth)](/tartans/k/162/n10/k10/n6/k6/n6/k6/t22/dr22/n/8/)|
-|![Racing Stewart (Stealth) example sett](/variants/k/162/n10/k10/n6/k6/n6/k6/t22/dr22/n/8-dr5a1c38-k101010-n505050-t324114/sett.png)|
-| [Racing Stewart, Stealth (Corporate)](/tartans/k/172/n10/k10/n6/k6/n6/k6/t22/dr22/n/8/)|
-|![Racing Stewart, Stealth (Corporate) example sett](/variants/k/172/n10/k10/n6/k6/n6/k6/t22/dr22/n/8-dr641024-k101010-n5c5c5c-t484c1c/sett.png)|
+| [Racing Stewart (Stealth)](/setts/s10/b8ba22g22k6b6k6b6k10b10k162-b505050-ba5a1c38-g324114-k101010/)|
+|![Racing Stewart (Stealth) example sett](/setts/s10/b8ba22g22k6b6k6b6k10b10k162-b505050-ba5a1c38-g324114-k101010/sett.png)|
+| [Racing Stewart, Stealth (Corporate)](/setts/s10/b8ba22g22k6b6k6b6k10b10k172-b5c5c5c-ba641024-g484c1c-k101010/)|
+|![Racing Stewart, Stealth (Corporate) example sett](/setts/s10/b8ba22g22k6b6k6b6k10b10k172-b5c5c5c-ba641024-g484c1c-k101010/sett.png)|

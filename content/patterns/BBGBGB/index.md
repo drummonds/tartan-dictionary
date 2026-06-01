@@ -6,7 +6,7 @@ BBGBGB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/b/5/db12/g8/b4/g8/db/12-b2888c4-db003c64-g006818/tartan.png)
+![Woven sample](/setts/s6/b12g8ba4g8b12ba5-b003c64-ba2888c4-g006818/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGBGB
 
 | Tartans |
 |---------------|
-| [Sheffield High School](/tartans/b/5/db12/g8/b4/g8/db/12/)|
-|![Sheffield High School example sett](/variants/b/5/db12/g8/b4/g8/db/12-b2888c4-db003c64-g006818/sett.png)|
+| [Sheffield High School](/setts/s6/b12g8ba4g8b12ba5-b003c64-ba2888c4-g006818/)|
+|![Sheffield High School example sett](/setts/s6/b12g8ba4g8b12ba5-b003c64-ba2888c4-g006818/sett.png)|

@@ -6,7 +6,7 @@ BBKBKBKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/b/20/n4/k4/b2/k12/n2/k90/y/4-b0000cd-k101010-n778899-yffa500/tartan.png)
+![Woven sample](/setts/s8/b20ba4k4b2k12ba2k90y4-b0000cd-ba778899-k101010-yffa500/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKBKBKY
 
 | Tartans |
 |---------------|
-| [Marine Harvest (Scotland)](/tartans/b/20/n4/k4/b2/k12/n2/k90/y/4/)|
-|![Marine Harvest (Scotland) example sett](/variants/b/20/n4/k4/b2/k12/n2/k90/y/4-b0000cd-k101010-n778899-yffa500/sett.png)|
+| [Marine Harvest (Scotland)](/setts/s8/b20ba4k4b2k12ba2k90y4-b0000cd-ba778899-k101010-yffa500/)|
+|![Marine Harvest (Scotland) example sett](/setts/s8/b20ba4k4b2k12ba2k90y4-b0000cd-ba778899-k101010-yffa500/sett.png)|

@@ -6,7 +6,7 @@ BBBBBB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/db/4/k6/db80/k28/db28/k/28-db000060-k381c0c/tartan.png)
+![Woven sample](/setts/s6/b4ba6b80ba28b28ba28-b000060-ba381c0c/tartan.png)
 
 
 
@@ -18,9 +18,11 @@ BBBBBB
 
 | Tartans |
 |---------------|
-| [Atlin](/tartans/db/4/k6/db80/k28/db28/k/28/)|
-|![Atlin example sett](/variants/db/4/k6/db80/k28/db28/k/28-db000060-k381c0c/sett.png)|
-| [Dram!](/tartans/b/10/db2/b50/db30/b2/db/10/)|
-|![Dram! example sett](/variants/b/10/db2/b50/db30/b2/db/10-b5c8ca8-db2c2c80/sett.png)|
-| [Charles Rennie Mackintosh](/tartans/k/10/dn10/k18/p10/k10/p/10/)|
-|![Charles Rennie Mackintosh example sett](/variants/k/10/dn10/k18/p10/k10/p/10-dn32313a-k1e1e1e-p5900ce/sett.png)|
+| [Atlin](/setts/s6/b4ba6b80ba28b28ba28-b000060-ba381c0c/)|
+|![Atlin example sett](/setts/s6/b4ba6b80ba28b28ba28-b000060-ba381c0c/sett.png)|
+| [Dram!](/setts/s6/b20ba4b60ba100b4ba20-b2c2c80-ba5c8ca8/)|
+|![Dram! example sett](/setts/s6/b20ba4b60ba100b4ba20-b2c2c80-ba5c8ca8/sett.png)|
+| [Charles Rennie Mackintosh](/setts/s6/b10ba10b18bb10b10bb10-b1e1e1e-ba32313a-bb5900ce/)|
+|![Charles Rennie Mackintosh example sett](/setts/s6/b10ba10b18bb10b10bb10-b1e1e1e-ba32313a-bb5900ce/sett.png)|
+| [Dram! (Corporate)](/setts/s6/b20ba4b60ba100b4ba20-b2c2c80-ba5c8ca8/)|
+|![Dram! (Corporate) example sett](/setts/s6/b20ba4b60ba100b4ba20-b2c2c80-ba5c8ca8/sett.png)|

@@ -6,7 +6,7 @@ BBBGRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/ln/6/r22/dg10/n4/db10/na/6-db003c64-dg003820-lne0e0e0-n5c5c5c-na344054-rc80000/tartan.png)
+![Woven sample](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BBBGRW
 
 | Tartans |
 |---------------|
-| [Nicolson of Lewis](/tartans/ln/6/r22/dg10/n4/db10/na/6/)|
-|![Nicolson of Lewis example sett](/variants/ln/6/r22/dg10/n4/db10/na/6-db003c64-dg003820-lne0e0e0-n5c5c5c-na344054-rc80000/sett.png)|
+| [Nicolson of Lewis](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/)|
+|![Nicolson of Lewis example sett](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/sett.png)|
+| [Nicolson of Lewis (Clan?)](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/)|
+|![Nicolson of Lewis (Clan?) example sett](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/sett.png)|

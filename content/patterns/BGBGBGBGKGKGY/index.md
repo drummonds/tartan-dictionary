@@ -16,5 +16,7 @@ BGBGBGBGKGKGY
 
 | Tartans |
 |---------------|
-| [Princess Beatrice Hunting](/tartans/dba/10/g5/dba5/g60/dba13/g10/db67/g5/k5/g5/k5/g13/y/10/)|
-|![Princess Beatrice Hunting example sett](/variants/dba/10/g5/dba5/g60/dba13/g10/db67/g5/k5/g5/k5/g13/y/10-db202060-dba1c0070-g006818-k101010-ye8c000/sett.png)|
+| [Princess Beatrice Hunting](/setts/s13/b10g5b5g60b13g10ba67g5k5g5k5g13y10-b1c0070-ba202060-g006818-k101010-ye8c000/)|
+|![Princess Beatrice Hunting example sett](/setts/s13/b10g5b5g60b13g10ba67g5k5g5k5g13y10-b1c0070-ba202060-g006818-k101010-ye8c000/sett.png)|
+| [Princess Beatrice Htg (STS) (Fashion](/setts/s13/b10g5b5g60b13g10ba67g5k5g5k5g13y10-b1c0070-ba202060-g006818-k101010-ye8c000/)|
+|![Princess Beatrice Htg (STS) (Fashion example sett](/setts/s13/b10g5b5g60b13g10ba67g5k5g5k5g13y10-b1c0070-ba202060-g006818-k101010-ye8c000/sett.png)|

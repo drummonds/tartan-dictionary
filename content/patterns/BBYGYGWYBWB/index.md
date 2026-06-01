@@ -16,5 +16,5 @@ BBYGYGWYBWB
 
 | Tartans |
 |---------------|
-| [Chalk, Robert (Personal)](/tartans/n/4/t4/na52/k4/na2/k24/w10/nb22/n10/w10/n/4/)|
-|![Chalk, Robert (Personal) example sett](/variants/n/4/t4/na52/k4/na2/k24/w10/nb22/n10/w10/n/4-k23321b-n433a5a-naafb8bb-nbb6be8f-t3d3134-we5e0d2/sett.png)|
+| [Chalk, Robert (Personal)](/setts/s11/b4ba4y52g4y2g24w10ya22b10w10b4-b433a5a-ba3d3134-g23321b-we5e0d2-yafb8bb-yab6be8f/)|
+|![Chalk, Robert (Personal) example sett](/setts/s11/b4ba4y52g4y2g24w10ya22b10w10b4-b433a5a-ba3d3134-g23321b-we5e0d2-yafb8bb-yab6be8f/sett.png)|

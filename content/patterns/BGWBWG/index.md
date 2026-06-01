@@ -6,7 +6,7 @@ BGWBWG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/variants/g/4/w2/p84/lp42/g6/p/4-g408060-lpc49cd8-p780078-wffffff/tartan.png)
+![Woven sample](/setts/s6/b4g6w42b84wa2g4-b780078-g408060-wc49cd8-waffffff/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ BGWBWG
 
 | Tartans |
 |---------------|
-| [SiMBA](/tartans/g/4/w2/p84/lp42/g6/p/4/)|
-|![SiMBA example sett](/variants/g/4/w2/p84/lp42/g6/p/4-g408060-lpc49cd8-p780078-wffffff/sett.png)|
+| [SiMBA](/setts/s6/b4g6w42b84wa2g4-b780078-g408060-wc49cd8-waffffff/)|
+|![SiMBA example sett](/setts/s6/b4g6w42b84wa2g4-b780078-g408060-wc49cd8-waffffff/sett.png)|
+| [SiMBA](/setts/s6/b4g6w42b84wa2g4-b780078-g006818-wc49cd8-wafcfcfc/)|
+|![SiMBA example sett](/setts/s6/b4g6w42b84wa2g4-b780078-g006818-wc49cd8-wafcfcfc/sett.png)|

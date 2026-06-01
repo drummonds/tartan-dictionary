@@ -6,7 +6,7 @@ BBKRG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/variants/db/30/b40/k24/dr68/n/6-b236b8e-db262753-dr80252e-k111214-n7d776b/tartan.png)
+![Woven sample](/setts/s5/b30ba40k24r68g6-b262753-ba236b8e-g7d776b-k111214-r80252e/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKRG
 
 | Tartans |
 |---------------|
-| [McCurdy-Stribbling (Personal)](/tartans/db/30/b40/k24/dr68/n/6/)|
-|![McCurdy-Stribbling (Personal) example sett](/variants/db/30/b40/k24/dr68/n/6-b236b8e-db262753-dr80252e-k111214-n7d776b/sett.png)|
+| [McCurdy-Stribbling (Personal)](/setts/s5/b30ba40k24r68g6-b262753-ba236b8e-g7d776b-k111214-r80252e/)|
+|![McCurdy-Stribbling (Personal) example sett](/setts/s5/b30ba40k24r68g6-b262753-ba236b8e-g7d776b-k111214-r80252e/sett.png)|

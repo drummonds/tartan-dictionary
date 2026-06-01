@@ -6,7 +6,7 @@ BBBW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/variants/b/2/db10/b10/ln/2-b2888c4-db2c2c80-lne0e0e0/tartan.png)
+![Woven sample](/setts/s4/b4ba20b20w4-b2888c4-ba2c2c80-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBW
 
 | Tartans |
 |---------------|
-| [Manx Cornaa (Personal)](/tartans/b/2/db10/b10/ln/2/)|
-|![Manx Cornaa (Personal) example sett](/variants/b/2/db10/b10/ln/2-b2888c4-db2c2c80-lne0e0e0/sett.png)|
-| [Manx, Cornaa](/tartans/b/2/ba10/b10/ln/2/)|
-|![Manx, Cornaa example sett](/variants/b/2/ba10/b10/ln/2-b8080d0-ba304080-lne0e0e0/sett.png)|
+| [Manx Cornaa (Personal)](/setts/s4/b4ba20b20w4-b2888c4-ba2c2c80-we0e0e0/)|
+|![Manx Cornaa (Personal) example sett](/setts/s4/b4ba20b20w4-b2888c4-ba2c2c80-we0e0e0/sett.png)|
+| [Manx, Cornaa](/setts/s4/b4ba20b20w4-b8080d0-ba304080-we0e0e0/)|
+|![Manx, Cornaa example sett](/setts/s4/b4ba20b20w4-b8080d0-ba304080-we0e0e0/sett.png)|

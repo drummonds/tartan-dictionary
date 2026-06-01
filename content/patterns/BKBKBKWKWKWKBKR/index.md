@@ -16,5 +16,5 @@ BKBKBKWKWKWKBKR
 
 | Tartans |
 |---------------|
-| [MacKenzie Blue](/tartans/b/12/k2/b2/k2/b2/k12/lb12/k2/w2/k2/lb12/k12/b12/k2/r/2/)|
-|![MacKenzie Blue example sett](/variants/b/12/k2/b2/k2/b2/k12/lb12/k2/w2/k2/lb12/k12/b12/k2/r/2-b0000cd-k101010-lb82cffd-rc80000-wffffff/sett.png)|
+| [MacKenzie Blue](/setts/s15/b24k4b4k4b4k24w24k4wa4k4w24k24b24k4r4-b0000cd-k101010-rc80000-w82cffd-waffffff/)|
+|![MacKenzie Blue example sett](/setts/s15/b24k4b4k4b4k24w24k4wa4k4w24k24b24k4r4-b0000cd-k101010-rc80000-w82cffd-waffffff/sett.png)|

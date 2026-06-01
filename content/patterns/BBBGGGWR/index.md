@@ -6,7 +6,7 @@ BBBGGGWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/dba/22/dbb22/db22/g22/ga22/gb22/ln6/r/10-db2c2c80-dba1c0070-dbb1c1c50-g289c18-ga006818-gb285800-lne0e0e0-rc80000/tartan.png)
+![Woven sample](/setts/s8/b22ba22bb22g22ga22gb22w6r10-b1c0070-ba1c1c50-bb2c2c80-g289c18-ga006818-gb285800-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBGGGWR
 
 | Tartans |
 |---------------|
-| [Reid (Mill City) (Name)](/tartans/dba/22/dbb22/db22/g22/ga22/gb22/ln6/r/10/)|
-|![Reid (Mill City) (Name) example sett](/variants/dba/22/dbb22/db22/g22/ga22/gb22/ln6/r/10-db2c2c80-dba1c0070-dbb1c1c50-g289c18-ga006818-gb285800-lne0e0e0-rc80000/sett.png)|
+| [Reid (Mill City) (Name)](/setts/s8/b22ba22bb22g22ga22gb22w6r10-b1c0070-ba1c1c50-bb2c2c80-g289c18-ga006818-gb285800-rc80000-we0e0e0/)|
+|![Reid (Mill City) (Name) example sett](/setts/s8/b22ba22bb22g22ga22gb22w6r10-b1c0070-ba1c1c50-bb2c2c80-g289c18-ga006818-gb285800-rc80000-we0e0e0/sett.png)|

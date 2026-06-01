@@ -16,5 +16,5 @@ BKBKBKYGBRBGYKBRBR
 
 | Tartans |
 |---------------|
-| [Graham of Airth](/tartans/p/12/k4/p12/k24/p6/k26/y4/g36/p6/r6/p6/g36/y4/k26/p30/r10/p6/r/10/)|
-|![Graham of Airth example sett](/variants/p/12/k4/p12/k24/p6/k26/y4/g36/p6/r6/p6/g36/y4/k26/p30/r10/p6/r/10-g005020-k101010-p5a008c-rdc0000-ye8c000/sett.png)|
+| [Graham of Airth](/setts/s18/b12k4b12k24b6k26y4g36b6r6b6g36y4k26b30r10b6r10-b5a008c-g005020-k101010-rdc0000-ye8c000/)|
+|![Graham of Airth example sett](/setts/s18/b12k4b12k24b6k26y4g36b6r6b6g36y4k26b30r10b6r10-b5a008c-g005020-k101010-rdc0000-ye8c000/sett.png)|

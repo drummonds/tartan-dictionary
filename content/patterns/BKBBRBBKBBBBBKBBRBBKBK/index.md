@@ -16,5 +16,5 @@ BKBBRBBKBBBBBKBBRBBKBK
 
 | Tartans |
 |---------------|
-| [Greyhound Grenadiers Pipe Band](/tartans/k/4/n4/k4/n2/n20/dr4/n8/n20/k8/b18/n20/n4/n20/b18/k8/n20/n8/dr4/n20/n2/k4/n/4/)|
-|![Greyhound Grenadiers Pipe Band example sett](/variants/k/4/n4/k4/n2/n20/dr4/n8/n20/k8/b18/n20/n4/n20/b18/k8/n20/n8/dr4/n20/n2/k4/n/4-b3850c8-dr880000-k101010-n5c5c5c/sett.png)|
+| [Greyhound Grenadiers Pipe Band](/setts/s22/b4k4b2b20r4b8b20k8ba18b20b4b20ba18k8b20b8r4b20b2k4b4k4-b5c5c5c-ba3850c8-k101010-r880000/)|
+|![Greyhound Grenadiers Pipe Band example sett](/setts/s22/b4k4b2b20r4b8b20k8ba18b20b4b20ba18k8b20b8r4b20b2k4b4k4-b5c5c5c-ba3850c8-k101010-r880000/sett.png)|

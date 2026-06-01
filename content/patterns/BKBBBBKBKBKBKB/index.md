@@ -16,5 +16,5 @@ BKBBBBKBKBKBKB
 
 | Tartans |
 |---------------|
-| [Payne](/tartans/db/4/k2/db8/dba10/p6/dba40/k16/db8/k2/db4/k2/db66/yy2/db/2/)|
-|![Payne example sett](/variants/db/4/k2/db8/dba10/p6/dba40/k16/db8/k2/db4/k2/db66/yy2/db/2-db2c2c80-dba202060-k101010-p780078/sett.png)|
+| [Payne](/setts/s14/b2k2b66ka2b4ka2b8ka16ba40bb6ba10b8ka2b4-b2c2c80-ba202060-bb780078-k000000-ka101010/)|
+|![Payne example sett](/setts/s14/b2k2b66ka2b4ka2b8ka16ba40bb6ba10b8ka2b4-b2c2c80-ba202060-bb780078-k000000-ka101010/sett.png)|

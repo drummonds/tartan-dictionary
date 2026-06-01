@@ -16,5 +16,5 @@ BGBGKBKRBRBY
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Castle Grey](/tartans/n/8/na8/n4/na28/k12/ka6/k12/dr4/ka8/dr4/ka29/nb/6/)|
-|![Kinloch Anderson Castle Grey example sett](/variants/n/8/na8/n4/na28/k12/ka6/k12/dr4/ka8/dr4/ka29/nb/6-dr960028-k000000-ka2c2c2c-n3e3e3e-na696969-nb999999/sett.png)|
+| [Kinloch Anderson Castle Grey](/setts/s12/b8g8b4g28k12ba6k12r4ba8r4ba29y6-b3e3e3e-ba2c2c2c-g696969-k000000-r960028-y999999/)|
+|![Kinloch Anderson Castle Grey example sett](/setts/s12/b8g8b4g28k12ba6k12r4ba8r4ba29y6-b3e3e3e-ba2c2c2c-g696969-k000000-r960028-y999999/sett.png)|

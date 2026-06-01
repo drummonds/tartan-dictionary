@@ -16,5 +16,5 @@ BGBGRGRGRGRWRGRGRGRGRGRGRGRGRGRGRGRGRWRGRGRGRGBG
 
 | Tartans |
 |---------------|
-| [Unidentified Cant #11](/tartans/b/18/t6/b36/t34/r2/t6/r4/t4/r6/t2/r7/ln3/r7/t2/r6/t4/r4/t6/r2/t34/lp10/ga4/lp8/ga6/lp99/ga6/lp8/ga4/lp10/t34/r2/t6/r4/t4/r6/t2/r7/ln3/r7/t2/r6/t4/r4/t6/r2/t34/b36/t/6/)|
-|![Unidentified Cant #11 example sett](/variants/b/18/t6/b36/t34/r2/t6/r4/t4/r6/t2/r7/ln3/r7/t2/r6/t4/r4/t6/r2/t34/lp10/ga4/lp8/ga6/lp99/ga6/lp8/ga4/lp10/t34/r2/t6/r4/t4/r6/t2/r7/ln3/r7/t2/r6/t4/r4/t6/r2/t34/b36/t/6-b2888c4-g006818-ga289c18-lne0e0e0-lp9c68a4-rc80000-t604000/sett.png)|
+| [Unidentified Cant #11](/setts/s48/b18g6b36g34r2g6r4g4r6g2r7w3r7g2r6g4r4g6r2g34ra10ga4ra8ga6ra99ga6ra8ga4ra10g34r2g6r4g4r6g2r7w3r7g2r6g4r4g6r2g34b36g6-b2888c4-g604000-ga289c18-rc80000-ra9c68a4-we0e0e0/)|
+|![Unidentified Cant #11 example sett](/setts/s48/b18g6b36g34r2g6r4g4r6g2r7w3r7g2r6g4r4g6r2g34ra10ga4ra8ga6ra99ga6ra8ga4ra10g34r2g6r4g4r6g2r7w3r7g2r6g4r4g6r2g34b36g6-b2888c4-g604000-ga289c18-rc80000-ra9c68a4-we0e0e0/sett.png)|

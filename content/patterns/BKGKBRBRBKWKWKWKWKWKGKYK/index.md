@@ -16,5 +16,5 @@ BKGKBRBRBKWKWKWKWKWKGKYK
 
 | Tartans |
 |---------------|
-| [Malcolm, dress](/tartans/ba/4/k4/g18/k14/b14/dr4/b6/dr4/b14/k14/ln4/k6/ln24/k4/ln8/k4/ln24/k6/ln4/k14/g18/k4/y4/k/4/)|
-|![Malcolm, dress example sett](/variants/ba/4/k4/g18/k14/b14/dr4/b6/dr4/b14/k14/ln4/k6/ln24/k4/ln8/k4/ln24/k6/ln4/k14/g18/k4/y4/k/4-b304080-ba5480b0-dr900030-g008000-k000000-lne0e0e0-yf0c000/sett.png)|
+| [Malcolm, dress](/setts/s24/b4k4g18k14ba14r4ba6r4ba14k14w4k6w24k4w8k4w24k6w4k14g18k4y4k4-b5480b0-ba304080-g008000-k000000-r900030-we0e0e0-yf0c000/)|
+|![Malcolm, dress example sett](/setts/s24/b4k4g18k14ba14r4ba6r4ba14k14w4k6w24k4w8k4w24k6w4k14g18k4y4k4-b5480b0-ba304080-g008000-k000000-r900030-we0e0e0-yf0c000/sett.png)|

@@ -16,5 +16,5 @@ BBBBBBBBBRBW
 
 | Tartans |
 |---------------|
-| [Ayre Robinson (Personal)](/tartans/db/24/b4/dg20/db32/dg12/db4/dg4/db4/dg12/r4/db10/w/4/)|
-|![Ayre Robinson (Personal) example sett](/variants/db/24/b4/dg20/db32/dg12/db4/dg4/db4/dg12/r4/db10/w/4-b1870a4-db000064-dg002814-ra00048-wffffff/sett.png)|
+| [Ayre Robinson (Personal)](/setts/s12/b24ba4bb20b32bb12b4bb4b4bb12r4b10w4-b000064-ba1870a4-bb002814-ra00048-wffffff/)|
+|![Ayre Robinson (Personal) example sett](/setts/s12/b24ba4bb20b32bb12b4bb4b4bb12r4b10w4-b000064-ba1870a4-bb002814-ra00048-wffffff/sett.png)|

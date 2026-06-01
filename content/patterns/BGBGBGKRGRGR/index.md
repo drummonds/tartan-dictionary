@@ -16,7 +16,9 @@ BGBGBGKRGRGR
 
 | Tartans |
 |---------------|
-| [MacInroy (Wedding) (Personal)](/tartans/db/20/g2/db4/g6/db32/g2/k32/r32/g6/r4/g2/r/20/)|
-|![MacInroy (Wedding) (Personal) example sett](/variants/db/20/g2/db4/g6/db32/g2/k32/r32/g6/r4/g2/r/20-db2c2c80-g408060-k101010-rc80000/sett.png)|
-| [MacInroy](/tartans/b/20/g2/b4/g6/b32/g2/k32/r32/g6/r4/g2/r/20/)|
-|![MacInroy example sett](/variants/b/20/g2/b4/g6/b32/g2/k32/r32/g6/r4/g2/r/20-b304080-g008000-k000000-rc00000/sett.png)|
+| [MacInroy (Wedding) (Personal)](/setts/s12/b20g2b4g6b32g2k32r32g6r4g2r20-b2c2c80-g408060-k101010-rc80000/)|
+|![MacInroy (Wedding) (Personal) example sett](/setts/s12/b20g2b4g6b32g2k32r32g6r4g2r20-b2c2c80-g408060-k101010-rc80000/sett.png)|
+| [MacInroy (Wedding)](/setts/s12/b20g2b4g6b32g2k32r32g6r4g2r20-b2c2c80-g408060-k101010-rc80000/)|
+|![MacInroy (Wedding) example sett](/setts/s12/b20g2b4g6b32g2k32r32g6r4g2r20-b2c2c80-g408060-k101010-rc80000/sett.png)|
+| [MacInroy](/setts/s12/b20g2b4g6b32g2k32r32g6r4g2r20-b304080-g008000-k000000-rc00000/)|
+|![MacInroy example sett](/setts/s12/b20g2b4g6b32g2k32r32g6r4g2r20-b304080-g008000-k000000-rc00000/sett.png)|

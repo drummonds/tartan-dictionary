@@ -16,5 +16,5 @@ BBBKBKBBKBWB
 
 | Tartans |
 |---------------|
-| [Scotland's Own](/tartans/b/8/ln2/b60/k30/p8/b4/k4/b4/k20/b8/p4/b/4/)|
-|![Scotland's Own example sett](/variants/b/8/ln2/b60/k30/p8/b4/k4/b4/k20/b8/p4/b/4-b304080-k000000-lne0e0e0-p800080/sett.png)|
+| [Scotland's Own](/setts/s12/b4ba4b8k20b4k4b4ba8k30b60w2b8-b304080-ba800080-k000000-we0e0e0/)|
+|![Scotland's Own example sett](/setts/s12/b4ba4b8k20b4k4b4ba8k30b60w2b8-b304080-ba800080-k000000-we0e0e0/sett.png)|

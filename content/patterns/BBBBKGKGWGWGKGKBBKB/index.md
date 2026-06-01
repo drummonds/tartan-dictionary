@@ -16,5 +16,5 @@ BBBBKGKGWGWGKGKBBKB
 
 | Tartans |
 |---------------|
-| [Spirit of Morningside](/tartans/p/4/db5/p3/db50/k15/ga3/k5/ga32/ln2/ga3/ln2/ga32/k5/ga5/k15/db50/p3/k5/p/3/)|
-|![Spirit of Morningside example sett](/variants/p/4/db5/p3/db50/k15/ga3/k5/ga32/ln2/ga3/ln2/ga32/k5/ga5/k15/db50/p3/k5/p/3-db2c2c80-g285800-ga006818-k101010-lne0e0e0-p780078/sett.png)|
+| [Spirit of Morningside](/setts/s19/b3k5b3ba50k15g5k5g32w2g3w2g32k5g3k15ba50b3ba5b4-b780078-ba2c2c80-g006818-k101010-we0e0e0/)|
+|![Spirit of Morningside example sett](/setts/s19/b3k5b3ba50k15g5k5g32w2g3w2g32k5g3k15ba50b3ba5b4-b780078-ba2c2c80-g006818-k101010-we0e0e0/sett.png)|

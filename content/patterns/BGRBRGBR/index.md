@@ -6,7 +6,7 @@ BGRBRGBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/variants/db/2/ga26/r3/db2/r3/ga26/db2/r/44-db2c2c80-g285800-ga006818-rc80000/tartan.png)
+![Woven sample](/setts/s8/b2g26r3b2r3g26b2r44-b2c2c80-g006818-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRBRGBR
 
 | Tartans |
 |---------------|
-| [Unidentified Cant #09](/tartans/db/2/ga26/r3/db2/r3/ga26/db2/r/44/)|
-|![Unidentified Cant #09 example sett](/variants/db/2/ga26/r3/db2/r3/ga26/db2/r/44-db2c2c80-g285800-ga006818-rc80000/sett.png)|
+| [Unidentified Cant #09](/setts/s8/b2g26r3b2r3g26b2r44-b2c2c80-g006818-rc80000/)|
+|![Unidentified Cant #09 example sett](/setts/s8/b2g26r3b2r3g26b2r44-b2c2c80-g006818-rc80000/sett.png)|

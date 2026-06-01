@@ -6,7 +6,7 @@ BGBGBGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/variants/b/8/g6/b4/g38/ba48/g2/ba/4-b2c4084-ba3c82af-g005020/tartan.png)
+![Woven sample](/setts/s7/b8g6b4g38ba48g2ba4-b2c4084-ba3c82af-g005020/tartan.png)
 
 
 
@@ -18,7 +18,9 @@ BGBGBGB
 
 | Tartans |
 |---------------|
-| [Unidentified #6](/tartans/b/8/g6/b4/g38/ba48/g2/ba/4/)|
-|![Unidentified #6 example sett](/variants/b/8/g6/b4/g38/ba48/g2/ba/4-b2c4084-ba3c82af-g005020/sett.png)|
-| [Myres Castle](/tartans/dba/4/lt4/dba30/n6/db12/dg24/dn/6/)|
-|![Myres Castle example sett](/variants/dba/4/lt4/dba30/n6/db12/dg24/dn/6-db282d4b-dba200a4a-dg0e3820-dn233d30-lt8d815b-n2d503c/sett.png)|
+| [Unidentified #6](/setts/s7/b8g6b4g38ba48g2ba4-b2c4084-ba3c82af-g005020/)|
+|![Unidentified #6 example sett](/setts/s7/b8g6b4g38ba48g2ba4-b2c4084-ba3c82af-g005020/sett.png)|
+| [Myres Castle](/setts/s7/b4g4b30ga6ba12gb24bb6-b200a4a-ba282d4b-bb233d30-g8d815b-ga2d503c-gb0e3820/)|
+|![Myres Castle example sett](/setts/s7/b4g4b30ga6ba12gb24bb6-b200a4a-ba282d4b-bb233d30-g8d815b-ga2d503c-gb0e3820/sett.png)|
+| [Unidentified 1](/setts/s7/b8g6b4g38ba48g2ba4-b304080-ba5480b0-g008000/)|
+|![Unidentified 1 example sett](/setts/s7/b8g6b4g38ba48g2ba4-b304080-ba5480b0-g008000/sett.png)|

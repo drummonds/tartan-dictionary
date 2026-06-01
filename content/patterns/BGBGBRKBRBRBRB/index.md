@@ -16,5 +16,5 @@ BGBGBRKBRBRBRB
 
 | Tartans |
 |---------------|
-| [Applestone](/tartans/b/44/r4/b4/r12/b4/r4/b76/k92/r4/dr84/n4/dr4/n4/dr/30/)|
-|![Applestone example sett](/variants/b/44/r4/b4/r12/b4/r4/b76/k92/r4/dr84/n4/dr4/n4/dr/30-b1870a4-dr441800-k000000-n808080-rff0000/sett.png)|
+| [Applestone](/setts/s14/b44r4b4r12b4r4b76k92r4ba84g4ba4g4ba30-b1870a4-ba441800-g808080-k000000-rff0000/)|
+|![Applestone example sett](/setts/s14/b44r4b4r12b4r4b76k92r4ba84g4ba4g4ba30-b1870a4-ba441800-g808080-k000000-rff0000/sett.png)|

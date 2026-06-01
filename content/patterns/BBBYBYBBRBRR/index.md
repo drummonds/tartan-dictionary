@@ -16,5 +16,5 @@ BBBYBYBBRBRR
 
 | Tartans |
 |---------------|
-| [Louth](/tartans/lt/4/r8/n4/r14/n28/n8/o6/n8/y4/n16/dr8/n/76/)|
-|![Louth example sett](/variants/lt/4/r8/n4/r14/n28/n8/o6/n8/y4/n16/dr8/n/76-dr602040-lt906030-n606080-off8500-rc00000-yffe000/sett.png)|
+| [Louth](/setts/s12/b76ba8b16y4b8ya6b8b28r14b4r8ra4-b606080-ba602040-rc00000-ra906030-yffe000-yaff8500/)|
+|![Louth example sett](/setts/s12/b76ba8b16y4b8ya6b8b28r14b4r8ra4-b606080-ba602040-rc00000-ra906030-yffe000-yaff8500/sett.png)|

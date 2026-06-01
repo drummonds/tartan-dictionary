@@ -2,78 +2,78 @@
 title: Summary of tartans by stripe count
 date: 2023-03-18
 ---
-Tartans organised by the number of stripes in the half sett.
+Tartans organised by the number of stripes in the half sett, with the most common patterns at each count.
 
-| Stripes | Summary |
-|---|---|
-| 2 | [Tartan setts with 2 stripes](/stripes/stripes2/) |
-| 3 | [Tartan setts with 3 stripes](/stripes/stripes3/) |
-| 4 | [Tartan setts with 4 stripes](/stripes/stripes4/) |
-| 5 | [Tartan setts with 5 stripes](/stripes/stripes5/) |
-| 6 | [Tartan setts with 6 stripes](/stripes/stripes6/) |
-| 7 | [Tartan setts with 7 stripes](/stripes/stripes7/) |
-| 8 | [Tartan setts with 8 stripes](/stripes/stripes8/) |
-| 9 | [Tartan setts with 9 stripes](/stripes/stripes9/) |
-| 10 | [Tartan setts with 10 stripes](/stripes/stripes10/) |
-| 11 | [Tartan setts with 11 stripes](/stripes/stripes11/) |
-| 12 | [Tartan setts with 12 stripes](/stripes/stripes12/) |
-| 13 | [Tartan setts with 13 stripes](/stripes/stripes13/) |
-| 14 | [Tartan setts with 14 stripes](/stripes/stripes14/) |
-| 15 | [Tartan setts with 15 stripes](/stripes/stripes15/) |
-| 16 | [Tartan setts with 16 stripes](/stripes/stripes16/) |
-| 17 | [Tartan setts with 17 stripes](/stripes/stripes17/) |
-| 18 | [Tartan setts with 18 stripes](/stripes/stripes18/) |
-| 19 | [Tartan setts with 19 stripes](/stripes/stripes19/) |
-| 20 | [Tartan setts with 20 stripes](/stripes/stripes20/) |
-| 21 | [Tartan setts with 21 stripes](/stripes/stripes21/) |
-| 22 | [Tartan setts with 22 stripes](/stripes/stripes22/) |
-| 23 | [Tartan setts with 23 stripes](/stripes/stripes23/) |
-| 24 | [Tartan setts with 24 stripes](/stripes/stripes24/) |
-| 25 | [Tartan setts with 25 stripes](/stripes/stripes25/) |
-| 26 | [Tartan setts with 26 stripes](/stripes/stripes26/) |
-| 27 | [Tartan setts with 27 stripes](/stripes/stripes27/) |
-| 28 | [Tartan setts with 28 stripes](/stripes/stripes28/) |
-| 29 | [Tartan setts with 29 stripes](/stripes/stripes29/) |
-| 30 | [Tartan setts with 30 stripes](/stripes/stripes30/) |
-| 31 | [Tartan setts with 31 stripes](/stripes/stripes31/) |
-| 32 | [Tartan setts with 32 stripes](/stripes/stripes32/) |
-| 33 | [Tartan setts with 33 stripes](/stripes/stripes33/) |
-| 34 | [Tartan setts with 34 stripes](/stripes/stripes34/) |
-| 35 | [Tartan setts with 35 stripes](/stripes/stripes35/) |
-| 36 | [Tartan setts with 36 stripes](/stripes/stripes36/) |
-| 37 | [Tartan setts with 37 stripes](/stripes/stripes37/) |
-| 38 | [Tartan setts with 38 stripes](/stripes/stripes38/) |
-| 39 | [Tartan setts with 39 stripes](/stripes/stripes39/) |
-| 40 | [Tartan setts with 40 stripes](/stripes/stripes40/) |
-| 41 | [Tartan setts with 41 stripes](/stripes/stripes41/) |
-| 42 | [Tartan setts with 42 stripes](/stripes/stripes42/) |
-| 43 | [Tartan setts with 43 stripes](/stripes/stripes43/) |
-| 44 | [Tartan setts with 44 stripes](/stripes/stripes44/) |
-| 45 | [Tartan setts with 45 stripes](/stripes/stripes45/) |
-| 46 | [Tartan setts with 46 stripes](/stripes/stripes46/) |
-| 48 | [Tartan setts with 48 stripes](/stripes/stripes48/) |
-| 50 | [Tartan setts with 50 stripes](/stripes/stripes50/) |
-| 52 | [Tartan setts with 52 stripes](/stripes/stripes52/) |
-| 53 | [Tartan setts with 53 stripes](/stripes/stripes53/) |
-| 54 | [Tartan setts with 54 stripes](/stripes/stripes54/) |
-| 56 | [Tartan setts with 56 stripes](/stripes/stripes56/) |
-| 57 | [Tartan setts with 57 stripes](/stripes/stripes57/) |
-| 58 | [Tartan setts with 58 stripes](/stripes/stripes58/) |
-| 60 | [Tartan setts with 60 stripes](/stripes/stripes60/) |
-| 62 | [Tartan setts with 62 stripes](/stripes/stripes62/) |
-| 63 | [Tartan setts with 63 stripes](/stripes/stripes63/) |
-| 64 | [Tartan setts with 64 stripes](/stripes/stripes64/) |
-| 65 | [Tartan setts with 65 stripes](/stripes/stripes65/) |
-| 66 | [Tartan setts with 66 stripes](/stripes/stripes66/) |
-| 67 | [Tartan setts with 67 stripes](/stripes/stripes67/) |
-| 68 | [Tartan setts with 68 stripes](/stripes/stripes68/) |
-| 69 | [Tartan setts with 69 stripes](/stripes/stripes69/) |
-| 70 | [Tartan setts with 70 stripes](/stripes/stripes70/) |
-| 73 | [Tartan setts with 73 stripes](/stripes/stripes73/) |
-| 75 | [Tartan setts with 75 stripes](/stripes/stripes75/) |
-| 77 | [Tartan setts with 77 stripes](/stripes/stripes77/) |
-| 78 | [Tartan setts with 78 stripes](/stripes/stripes78/) |
-| 80 | [Tartan setts with 80 stripes](/stripes/stripes80/) |
-| 81 | [Tartan setts with 81 stripes](/stripes/stripes81/) |
-| 82 | [Tartan setts with 82 stripes](/stripes/stripes82/) |
-| 84 | [Tartan setts with 84 stripes](/stripes/stripes84/) |
+| Stripes | Tartans | Most common patterns |
+|---|---|---|
+| 2 | [57 setts](/stripes/stripes2/) | {{< pat "KR" >}} {{< pat "GR" >}} {{< pat "GK" >}} {{< pat "BG" >}} {{< pat "BK" >}} {{< pat "BR" >}} {{< pat "KW" >}} {{< pat "BB" >}} |
+| 3 | [118 setts](/stripes/stripes3/) | {{< pat "BGR" >}} {{< pat "KGR" >}} {{< pat "KBY" >}} {{< pat "BGK" >}} {{< pat "KWR" >}} {{< pat "BGY" >}} {{< pat "BRG" >}} {{< pat "GKR" >}} |
+| 4 | [410 setts](/stripes/stripes4/) | {{< pat "BGBG" >}} {{< pat "BKGR" >}} {{< pat "GRGR" >}} {{< pat "KRKR" >}} {{< pat "BBRG" >}} {{< pat "KWKW" >}} {{< pat "GBGR" >}} |
+| 5 | [726 setts](/stripes/stripes5/) | {{< pat "BKBGK" >}} {{< pat "BBBBW" >}} {{< pat "BRBRW" >}} {{< pat "KBGBW" >}} {{< pat "KGKBR" >}} {{< pat "BGBGW" >}} |
+| 6 | [1458 setts](/stripes/stripes6/) | {{< pat "BRGRBR" >}} {{< pat "BBWBRB" >}} {{< pat "BWBWBW" >}} {{< pat "BKBKBK" >}} {{< pat "GBGKBK" >}} |
+| 7 | [1410 setts](/stripes/stripes7/) | {{< pat "BKGRGKY" >}} {{< pat "KGKBKRK" >}} {{< pat "BRBRGRB" >}} {{< pat "KBKGWGK" >}} |
+| 8 | [1536 setts](/stripes/stripes8/) | {{< pat "BRBRBRBR" >}} {{< pat "GBGBGBGR" >}} {{< pat "GRGRGRGR" >}} |
+| 9 | [1286 setts](/stripes/stripes9/) | {{< pat "GBGBGBRBR" >}} {{< pat "BKRBKGRKB" >}} {{< pat "BRBRGRGRG" >}} |
+| 10 | [1234 setts](/stripes/stripes10/) | {{< pat "RGBGBGBRWR" >}} {{< pat "BRGRBBRBRG" >}} {{< pat "GRGRGRGRGR" >}} |
+| 11 | [1066 setts](/stripes/stripes11/) | {{< pat "BKYKWKGRBRK" >}} {{< pat "RKGKBBBKGKY" >}} |
+| 12 | [1095 setts](/stripes/stripes12/) | {{< pat "RBKYKWKGRKRW" >}} {{< pat "BRBRBRKGRGRG" >}} |
+| 13 | [920 setts](/stripes/stripes13/) | {{< pat "BRBRBRKWGRGRG" >}} {{< pat "BKBKBKGKGKBKB" >}} |
+| 14 | [663 setts](/stripes/stripes14/) | {{< pat "GRGRBRBRBRGRBR" >}} {{< pat "BKGRGKYKGRGKBK" >}} |
+| 15 | [460 setts](/stripes/stripes15/) | {{< pat "BKBKBKGKWKGKBKR" >}} {{< pat "BKBKBKGKWKGKBKB" >}} |
+| 16 | [350 setts](/stripes/stripes16/) | {{< pat "BKRKRKRYRBRKGKRY" >}} |
+| 17 | [252 setts](/stripes/stripes17/) | {{< pat "GRGRBYRBRYBRGRBYR" >}} |
+| 18 | [286 setts](/stripes/stripes18/) | {{< pat "BGKBKRWRKBKYKYKBKG" >}} |
+| 19 | [110 setts](/stripes/stripes19/) | {{< pat "BKGKGKBRKYKRGKBKBKG" >}} |
+| 20 | [182 setts](/stripes/stripes20/) | {{< pat "KWKWKWKWKWKWKWKWKWKW" >}} |
+| 21 | [100 setts](/stripes/stripes21/) | {{< pat "GRGBRGRGRGRGRGBRGRGRG" >}} |
+| 22 | [137 setts](/stripes/stripes22/) | {{< pat "BWBGBGBGRGRGRGRGRGBRWR" >}} |
+| 23 | [66 setts](/stripes/stripes23/) | {{< pat "KRYKRBRYRBRKWGRYRGRKYRK" >}} |
+| 24 | [129 setts](/stripes/stripes24/) | {{< pat "BRRRGRGRBRRRRRGRGRBRRRRB" >}} |
+| 25 | [44 setts](/stripes/stripes25/) | {{< pat "BKBKBKGKGKWBWBWBWBWKBKBKB" >}} |
+| 26 | [54 setts](/stripes/stripes26/) | {{< pat "BBBBBBKBKBKBBBBBBWBWBBKBBB" >}} |
+| 27 | [28 setts](/stripes/stripes27/) | {{< pat "GBKBKBKGRGKGKGKGKGYGKBKBKBG" >}} |
+| 28 | [56 setts](/stripes/stripes28/) | {{< pat "BKBKBKBKBKGKWKGKBKBKBKGKYKGK" >}} |
+| 29 | [29 setts](/stripes/stripes29/) | {{< pat "BGKRKBKBKGRBWRKYKRWBRBRYBWBYR" >}} |
+| 30 | [39 setts](/stripes/stripes30/) | {{< pat "BKBKBKBKBGYGYKRKYGYGBKBKBKGRGK" >}} |
+| 31 | [28 setts](/stripes/stripes31/) | {{< pat "GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG" >}} |
+| 32 | [35 setts](/stripes/stripes32/) | {{< pat "BBGBGBGBGBRBYBGBGBGBGBBBGRGWGRGB" >}} |
+| 33 | [21 setts](/stripes/stripes33/) | {{< pat "GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG" >}} |
+| 34 | [27 setts](/stripes/stripes34/) | {{< pat "BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW" >}} |
+| 35 | [13 setts](/stripes/stripes35/) | {{< pat "BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR" >}} |
+| 36 | [60 setts](/stripes/stripes36/) | {{< pat "BKGKBKGKWBWBWBWBWKGKBKGKBKRKBKWBWBWB" >}} |
+| 37 | [2 setts](/stripes/stripes37/) | {{< pat "GKRBRBRBRKRBRKRBRKRBGRKRGRBRBRBRKRBRK" >}} |
+| 38 | [17 setts](/stripes/stripes38/) | {{< pat "GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW" >}} |
+| 39 | [7 setts](/stripes/stripes39/) | {{< pat "GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG" >}} |
+| 40 | [17 setts](/stripes/stripes40/) | {{< pat "BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRYRGRGRGR" >}} |
+| 41 | [2 setts](/stripes/stripes41/) | {{< pat "BRKRGRBRBRKRKRKRKRBRBRBRBRBRBRBRKRBRBRBRK" >}} |
+| 42 | [6 setts](/stripes/stripes42/) | {{< pat "BGBGBYBGBGBGKBKBKBKGBGBGBRBGBGBGYKWKWKWKYG" >}} |
+| 43 | [3 setts](/stripes/stripes43/) | {{< pat "BRBRBRYRBRBRBRBRBRBRYRBRYRBRBRBRBRYRBRYRBRB" >}} |
+| 44 | [18 setts](/stripes/stripes44/) | {{< pat "RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRBRWR" >}} |
+| 45 | [4 setts](/stripes/stripes45/) | {{< pat "BGBGYGBBYBGBRBBGBGYGBRBRBGBGYGBBGBRBBBBYBGBRB" >}} |
+| 46 | [5 setts](/stripes/stripes46/) | {{< pat "BRBRGGRBRGRBRGRBRKBRBKRKBRBKRBRGRBRGRBRGGRBRBR" >}} |
+| 48 | [6 setts](/stripes/stripes48/) | {{< pat "BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK" >}} |
+| 50 | [2 setts](/stripes/stripes50/) | {{< pat "BWBWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWBW" >}} |
+| 52 | [3 setts](/stripes/stripes52/) | {{< pat "BBBRBBBBGRGYGRGBBWBBGWGYGWRBYBYBYBYBYBYBYBYBBRGBWBGB" >}} |
+| 53 | [1 setts](/stripes/stripes53/) | {{< pat "BRKWKYWYWYWYWYWYWYWYWYWYKYKYKYKYWYWYWYWYWYWYWYWYWYWGY" >}} |
+| 54 | [2 setts](/stripes/stripes54/) | {{< pat "GRGRGRGBGBGBGBGBGBGBGBGRGRBRGRGBGBGBGBGBGBGBGBGRGRGRGR" >}} |
+| 56 | [1 setts](/stripes/stripes56/) | {{< pat "BGRBRBWBRBRBRBRBRGRBRBRBRBRBRBRBRBRBRBRGRBRBRBRBRBWBRBRG" >}} |
+| 57 | [1 setts](/stripes/stripes57/) | {{< pat "RWRRWBWWWBWGYWBWYGWGGWGGWWBWBWWRRWRWRRWWBWBWWGGYWYGGWRRWR" >}} |
+| 58 | [1 setts](/stripes/stripes58/) | {{< pat "GWGWGKYKGWGRGRGWGRGRGWGKYKGWGWGRWGWKYKWKGRGRWRGRGKWKYKWGWR" >}} |
+| 60 | [3 setts](/stripes/stripes60/) | {{< pat "BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKRWRGRKGKRWRKGKRGRWRKRKRK" >}} |
+| 62 | [8 setts](/stripes/stripes62/) | {{< pat "RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW" >}} |
+| 63 | [1 setts](/stripes/stripes63/) | {{< pat "RYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYRWRYRWRYKYW" >}} |
+| 64 | [2 setts](/stripes/stripes64/) | {{< pat "GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR" >}} |
+| 65 | [2 setts](/stripes/stripes65/) | {{< pat "RKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW" >}} |
+| 66 | [6 setts](/stripes/stripes66/) | {{< pat "BBWBBWBWBRWRBWBWBBWBBWGGGWBBWGWBBWGGGWBBWBBWBWBRWRBWBWBBWBBWRRWRRW" >}} |
+| 67 | [1 setts](/stripes/stripes67/) | {{< pat "YYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYBGBGBYYYYYYYYWYYYYWYYYYYYYYYYYYYYYYY" >}} |
+| 68 | [1 setts](/stripes/stripes68/) | {{< pat "BWBBWBBWGGGWBBWGWBBWGGGWBBWBBWBWBRWRBWBWBBWBBWGGGWBBWGWBBWGGGWBBWBBW" >}} |
+| 69 | [1 setts](/stripes/stripes69/) | {{< pat "YGRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGRGRYRGRY" >}} |
+| 70 | [3 setts](/stripes/stripes70/) | {{< pat "BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG" >}} |
+| 73 | [1 setts](/stripes/stripes73/) | {{< pat "RGYYYYYYYRYYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY" >}} |
+| 75 | [1 setts](/stripes/stripes75/) | {{< pat "GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYG" >}} |
+| 77 | [1 setts](/stripes/stripes77/) | {{< pat "KBKBKBKKGKWGKWBWBWBWBWKGKWKGKBKRKBKGKWKGKWBWBWBWBWKGWKGKBKBKBKBKBKGKWKGKWBWBW" >}} |
+| 78 | [2 setts](/stripes/stripes78/) | {{< pat "GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW" >}} |
+| 80 | [2 setts](/stripes/stripes80/) | {{< pat "BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG" >}} |
+| 81 | [6 setts](/stripes/stripes81/) | {{< pat "BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR" >}} |
+| 82 | [5 setts](/stripes/stripes82/) | {{< pat "BBWRRWRRWBBRWGYWBWBWYGWBBBWRRWRRWBBBWGYWBWBWYGWRBBWRRWRRWBBRRWGYWBWBWYGWBBBWRRWRRW" >}} |
+| 84 | [1 setts](/stripes/stripes84/) | {{< pat "KWKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW" >}} |

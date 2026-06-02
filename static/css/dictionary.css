@@ -28,6 +28,36 @@
   white-space: nowrap;
 }
 
+/* Hallstatt external border: a faint tartan fills the viewport behind the centred content column
+   (body.container is max-width 900px, margin auto), so on wider screens the plaid shows as a woven
+   frame around the page — like matted artwork. A tartan is just warp + weft: two perpendicular sets
+   of translucent stripes that blend where they cross, over a pale ground. Pure CSS, scales to any
+   width, no image. On narrow screens the column fills the width and the frame simply isn't seen. */
+html {
+  background-color: #edf0ea;
+  background-image:
+    repeating-linear-gradient(90deg,
+      transparent 0 17px,
+      rgba(44, 64, 132, .10) 17px 25px,
+      transparent 25px 39px,
+      rgba(0, 100, 0, .10) 39px 47px,
+      transparent 47px 64px),
+    repeating-linear-gradient(0deg,
+      transparent 0 17px,
+      rgba(44, 64, 132, .10) 17px 25px,
+      transparent 25px 39px,
+      rgba(0, 100, 0, .10) 39px 47px,
+      transparent 47px 64px),
+    repeating-linear-gradient(90deg,
+      transparent 0 30px, rgba(200, 0, 0, .06) 30px 33px, transparent 33px 64px),
+    repeating-linear-gradient(0deg,
+      transparent 0 30px, rgba(200, 0, 0, .06) 30px 33px, transparent 33px 64px);
+}
+/* Lift the content column off the plaid so the frame reads as a border. */
+body.container {
+  box-shadow: 0 0 0 1px #0000001a, 0 1px 16px #00000014;
+}
+
 /* Stripe summary: a responsive card grid (was a markdown table whose patterns column blew out to
    the width of the longest sett). Each card's sample swatches flex-wrap within the card. */
 .stripe-summary {

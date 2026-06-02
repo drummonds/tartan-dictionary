@@ -1,13 +1,13 @@
 ---
-title: "Fulton (1999) (Name)"
+title: "Fulton (1999)"
 date: 2023-03-18
 ---
 In pattern [BKRGRGRKR](/patterns/bkrgrgrkr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3952/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5097
 
 ## Thread count
 DB/12 K20 R8 G8 R12 G48 R24 K4 R/12

@@ -10,7 +10,7 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10498
 
 ## Thread count
-Ga/100 LT50 LY4 P/12
+G/100 LT50 LY4 P/12
 ![Sett](sett.png)
 
 ## Palette
@@ -26,6 +26,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ga/100 LT50 LY4 P/12 tartan")
+![Tartan detail](tartan.png "G/100 LT50 LY4 P/12 tartan")
 
 ID: /setts/s4/b12w4r50g100-baa00ff-g698b22-r855e42-wffffaa/

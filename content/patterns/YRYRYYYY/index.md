@@ -1,0 +1,24 @@
+---
+title: Pattern YRYRYYYY
+date: 2023-03-18
+---
+YRYRYYYY
+
+It is a 8 stripes tartan.
+
+![Woven sample](/setts/s8/y2r20y2r20ya35y2ya2y5-rfc3c00-yfce800-ya3cd454/tartan.png)
+
+
+
+## Colour Sequence
+YRYRYYYY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [PeachyKeen](/setts/s8/y2r20y2r20ya35y2ya2y5-rfc3c00-yfce800-ya3cd454/)|
+|![PeachyKeen example sett](/setts/s8/y2r20y2r20ya35y2ya2y5-rfc3c00-yfce800-ya3cd454/sett.png)|
+| [Peachy Keen (Corporate)](/setts/s8/y2r20y2r20ya35y2ya2y5-rfc3c00-yfce800-ya3cd454/)|
+|![Peachy Keen (Corporate) example sett](/setts/s8/y2r20y2r20ya35y2ya2y5-rfc3c00-yfce800-ya3cd454/sett.png)|

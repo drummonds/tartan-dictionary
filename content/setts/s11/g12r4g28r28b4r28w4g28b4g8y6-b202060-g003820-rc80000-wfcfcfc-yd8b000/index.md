@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GRGRBRWGBGY](/patterns/grgrbrwgbgy/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5230/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1790
 
 ## Thread count
 DG/12 R4 DG28 R28 DB4 R28 W4 DG28 DB4 DG8 Y/6

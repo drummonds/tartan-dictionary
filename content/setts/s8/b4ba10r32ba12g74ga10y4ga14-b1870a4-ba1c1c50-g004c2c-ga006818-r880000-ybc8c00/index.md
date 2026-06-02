@@ -1,16 +1,16 @@
 ---
-title: "Telfer Green Name Tartan Tartan Number: 10095. Earliest known date: 2009 A tartan partly inspired by the Hunting Stewart that the designer wears occasionally, and the brooding darkness of the forests. The electric blue stripe is reminiscent of summer lightning across the Scottish landscape, and the sun (gold) is never far away. This tartan is dedicated to all who enjoy nature, trees and plants; to professionals and hobbyists in radio, electronics and communication; and those who are interested in the weather, storms and lightning. Although there are no restrictions, anyone intending to manufacture or use this tartan is encouraged to contact the designer (or his direct descendants) and a choice of preferred charities will be offered for a suggested donation. Copyright of this design belongs to Duncan Telfer. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Telfer Green (Name)"
 date: 2023-03-18
 ---
 In pattern [BBRBGGYG](/patterns/bbrbggyg/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10095
+Original link http://www.tartansauthority.com/tartan-ferret/display/10095/
 
 ## Thread count
-B/4 DB10 DR32 DB12 G74 Ga10 DY4 Ga/14
+B/4 DB10 DR32 DB12 Ga74 G10 DY4 G/14
 ![Sett](sett.png)
 
 ## Palette
@@ -22,11 +22,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DB | <code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> `#1C1C50` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 | DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
 | DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.16 |
-| G | <code style="background-color:#004C2C;"><span style="color:#004C2C;filter:grayscale(1) invert(1) contrast(100);">#004C2C</span></code> `#004C2C` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.10 |
-| Ga | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
+| Ga | <code style="background-color:#004C2C;"><span style="color:#004C2C;filter:grayscale(1) invert(1) contrast(100);">#004C2C</span></code> `#004C2C` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.10 |
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 DB10 DR32 DB12 G74 Ga10 DY4 Ga/14 tartan")
+![Tartan detail](tartan.png "B/4 DB10 DR32 DB12 Ga74 G10 DY4 G/14 tartan")
 
 ID: /setts/s8/b4ba10r32ba12g74ga10y4ga14-b1870a4-ba1c1c50-g004c2c-ga006818-r880000-ybc8c00/

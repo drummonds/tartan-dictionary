@@ -1,13 +1,13 @@
 ---
-title: "Inverness Cathedral (Corporate)"
+title: "Inverness Cathedral"
 date: 2023-03-18
 ---
 In pattern [KWBWKBYBR](/patterns/kwbwkbybr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7642/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5656
 
 ## Thread count
 K/10 LN2 N8 LN2 K8 DB24 Y2 DB12 R/144

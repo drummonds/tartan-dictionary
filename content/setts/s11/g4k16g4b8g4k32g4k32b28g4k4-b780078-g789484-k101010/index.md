@@ -1,13 +1,13 @@
 ---
-title: "Priest (Corporate)"
+title: "Priest"
 date: 2023-03-18
 ---
 In pattern [GKGBGKGKBGK](/patterns/gkgbgkgkbgk/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/246/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3383
 
 ## Thread count
 K/4 LG4 P28 K32 LG4 K32 LG4 P8 LG4 K16 LG/4

@@ -10,7 +10,7 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4536
 
 ## Thread count
-DB/4 Ka4 DB20 Ka24 DY4 G28 DR12 Ka4 DR12 N4 DR/12
+DB/4 K4 DB20 K24 DY4 G28 DR12 K4 DR12 N4 DR/12
 ![Sett](sett.png)
 
 ## Palette

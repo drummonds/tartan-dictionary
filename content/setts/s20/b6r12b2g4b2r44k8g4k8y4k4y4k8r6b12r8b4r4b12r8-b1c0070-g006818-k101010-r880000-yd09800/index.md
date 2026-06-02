@@ -1,13 +1,13 @@
 ---
-title: "Anderson of Kinnedear Red (Clan)"
+title: "Anderson of Kinnedear Red"
 date: 2023-03-18
 ---
 In pattern [BRBGBRKGKYKYKRBRBRBR](/patterns/brbgbrkgkykykrbrbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [20 stripes tartan](/stripes/stripes20/).
+This was sourced from register-of-tartans.  It is a [20 stripes tartan](/stripes/stripes20/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3015/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5189
 
 ## Thread count
 DB/6 DR12 DB2 G4 DB2 DR44 K8 G4 K8 DY4 K4 DY4 K8 DR6 DB12 DR8 DB4 DR4 DB12 DR/8
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s20/b6r12b2g4b2r44k8g4k8y4k4y4k8r6b12r8b4r4b12r8-b1c0070-g006818-k101010-r880000-yd09800/
+0/

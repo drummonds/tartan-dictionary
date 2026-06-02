@@ -1,13 +1,13 @@
 ---
-title: "Scottish Ambulance Service Corporate Tartan Tartan Number: 5360. Earliest known date: 1996 Designed in 1996 by Lochcaron and first woven 20th January 1997. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Scottish Ambulance Service"
 date: 2023-03-18
 ---
 In pattern [BKGKGBGWGBGKGKBR](/patterns/bkgkgbgwgbgkgkbr/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5360
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3706
 
 ## Thread count
 B/32 K24 Ga4 K4 G64 Ba4 G4 N6 G4 Ba4 G64 K4 Ga4 K24 B32 DR/6

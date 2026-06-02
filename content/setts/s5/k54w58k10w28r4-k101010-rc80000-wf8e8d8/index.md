@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KWKWR](/patterns/kwkwr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7244/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901
 
 ## Thread count
 K/54 LY58 K10 LY28 R/4

@@ -1,0 +1,24 @@
+---
+title: Pattern WBWBKBY
+date: 2023-03-18
+---
+WBWBKBY
+
+It is a 7 stripes tartan.
+
+![Woven sample](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/tartan.png)
+
+
+
+## Colour Sequence
+WBWBKBY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Torridon Saphire](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/)|
+|![Torridon Saphire example sett](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/sett.png)|
+| [Torridon, Saphire (Dance)](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/)|
+|![Torridon, Saphire (Dance) example sett](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/sett.png)|

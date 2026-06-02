@@ -1,0 +1,29 @@
+---
+title: "MacGregor Dress Burgundy Fancy Tartan Tartan Number: 6533. Earliest known date: 1975 A dancers tartan based on MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+In pattern [RWRKRKRWRW](/patterns/rwrkrkrwrw/).
+
+
+This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6533
+
+## Thread count
+DR/44 W12 DR16 K2 LR6 K2 DR16 W12 DR44 W/104
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#800028;"><span style="color:#800028;filter:grayscale(1) invert(1) contrast(100);">#800028</span></code> `#800028` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.16 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.08 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.19 |
+| N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
+| R | <code style="background-color:#FC3000;"><span style="color:#FC3000;filter:grayscale(1) invert(1) contrast(100);">#FC3000</span></code> `#FC3000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.12 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
+
+ID: /setts/s10/r44w12r16k2ra6k2r16w12r44w104-k000000-r800028-rae87878-wf8f8f8/

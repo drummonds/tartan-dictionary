@@ -1,13 +1,13 @@
 ---
-title: "East of Scotland Tartan Army (Corp.)"
+title: "East of Scotland Tartan Army"
 date: 2023-03-18
 ---
 In pattern [BYBRBW](/patterns/bybrbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6719/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069
 
 ## Thread count
 DN/40 Y10 DN8 R20 DN100 W/5

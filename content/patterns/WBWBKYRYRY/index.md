@@ -1,0 +1,22 @@
+---
+title: Pattern WBWBKYRYRY
+date: 2023-03-18
+---
+WBWBKYRYRY
+
+It is a 10 stripes tartan.
+
+
+
+## Colour Sequence
+WBWBKYRYRY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Catalunya Escocia](/setts/s10/w8b2w4b36k2y12r12y12r12y12-b2c4084-k101010-rdc0000-wffffff-yffd700/)|
+|![Catalunya Escocia example sett](/setts/s10/w8b2w4b36k2y12r12y12r12y12-b2c4084-k101010-rdc0000-wffffff-yffd700/sett.png)|
+| [Catalunya Escocia](/setts/s10/w8b2w4b36k2y12r12y12r12y12-b2c2c80-k101010-rc80000-wfcfcfc-yfccc00/)|
+|![Catalunya Escocia example sett](/setts/s10/w8b2w4b36k2y12r12y12r12y12-b2c2c80-k101010-rc80000-wfcfcfc-yfccc00/sett.png)|

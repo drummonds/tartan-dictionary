@@ -1,13 +1,13 @@
 ---
-title: "Reiver Check (Fashion)"
+title: "Reiver Check"
 date: 2023-03-18
 ---
 In pattern [KWKWKWKWKR](/patterns/kwkwkwkwkr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2567/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3496
 
 ## Thread count
 K/108 LN8 K8 LN8 K8 LN8 K8 LN8 K16 R/20

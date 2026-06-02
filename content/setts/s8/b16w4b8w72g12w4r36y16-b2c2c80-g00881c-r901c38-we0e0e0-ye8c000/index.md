@@ -1,13 +1,13 @@
 ---
-title: "Manitoba Dress (1958) (District)"
+title: "Manitoba Dress (1958)"
 date: 2023-03-18
 ---
 In pattern [BWBWGWRY](/patterns/bwbwgwry/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7697/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5694
 
 ## Thread count
 DB/16 LN4 DB8 LN72 G12 LN4 DR36 Y/16

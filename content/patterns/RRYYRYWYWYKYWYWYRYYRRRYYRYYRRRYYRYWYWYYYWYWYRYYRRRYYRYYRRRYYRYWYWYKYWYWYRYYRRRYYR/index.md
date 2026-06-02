@@ -1,0 +1,20 @@
+---
+title: Pattern RRYYRYWYWYKYWYWYRYYRRRYYRYYRRRYYRYWYWYYYWYWYRYYRRRYYRYYRRRYYRYWYWYKYWYWYRYYRRRYYR
+date: 2023-03-18
+---
+RRYYRYWYWYKYWYWYRYYRRRYYRYYRRRYYRYWYWYYYWYWYRYYRRRYYRYYRRRYYRYWYWYKYWYWYRYYRRRYYR
+
+It is a 81 stripes tartan.
+
+
+
+## Colour Sequence
+RRYYRYWYWYKYWYWYRYYRRRYYRYYRRRYYRYWYWYYYWYWYRYYRRRYYRYYRRRYYRYWYWYKYWYWYRYYRRRYYR
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Unidentified Scarlett #13](/setts/s81/r12y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48k8y48w6y2w6y6r14y6ya6ra6r2ra6ya6y6r14y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48ya8y48w6y2w6y6r14y6ya6ra6r2ra6ya6y6r14y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48k8y48w6y2w6y6r14y6ya6ra6r2-h09edccfd90835293/)|
+|![Unidentified Scarlett #13 example sett](/setts/s81/r12y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48k8y48w6y2w6y6r14y6ya6ra6r2ra6ya6y6r14y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48ya8y48w6y2w6y6r14y6ya6ra6r2ra6ya6y6r14y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48k8y48w6y2w6y6r14y6ya6ra6r2-h09edccfd90835293/sett.png)|

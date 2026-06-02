@@ -1,13 +1,13 @@
 ---
-title: "Traill (Name)"
+title: "Traill (Personal)"
 date: 2023-03-18
 ---
 In pattern [GKBYGYR](/patterns/gkbygyr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3093/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4146
 
 ## Thread count
 G/4 K4 B48 Y4 T14 Y4 R/32

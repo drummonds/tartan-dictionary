@@ -1,13 +1,13 @@
 ---
-title: "Royal Delight (Fashion)"
+title: "Royal Delight"
 date: 2023-03-18
 ---
 In pattern [BBBBBBBBBBR](/patterns/bbbbbbbbbbr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5397/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600
 
 ## Thread count
 DR/6 DP4 DB36 P6 DP4 P6 DB36 DP6 P24 DP24 P/6

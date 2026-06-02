@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KRY](/patterns/kry/).
 
 
-This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7789/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755
 
 ## Thread count
 K/138 R28 Y/10

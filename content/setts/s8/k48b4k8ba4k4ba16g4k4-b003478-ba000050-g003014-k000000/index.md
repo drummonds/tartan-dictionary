@@ -1,13 +1,13 @@
 ---
-title: "Scottish Funereal Association (Corp)"
+title: "Scottish Funereal Association"
 date: 2023-03-18
 ---
 In pattern [KBKBKBGK](/patterns/kbkbkbgk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5357/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3718
 
 ## Thread count
 K/48 DB4 K8 DBa4 K4 DBa16 DG4 K/4

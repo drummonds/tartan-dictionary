@@ -1,13 +1,13 @@
 ---
-title: "Moncrieff of Atholl (Clan)"
+title: "Moncrieff of Atholl"
 date: 2023-03-18
 ---
 In pattern [GKGKGBGRGBGKR](/patterns/gkgkgbgrgbgkr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5940/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2981
 
 ## Thread count
 G/36 K4 G8 K8 G8 DB28 G36 R8 G36 DB36 G28 K4 R/12

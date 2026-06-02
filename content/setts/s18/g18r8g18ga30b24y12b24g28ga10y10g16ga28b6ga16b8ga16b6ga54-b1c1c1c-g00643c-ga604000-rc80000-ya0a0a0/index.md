@@ -1,13 +1,13 @@
 ---
-title: "Turcan Connell (Corporate)"
+title: "Turcan Connell"
 date: 2023-03-18
 ---
 In pattern [GBGBGBGGYGGBYBGGRG](/patterns/gbgbgbggyggbybggrg/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6815/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4158
 
 ## Thread count
 G/18 R8 G18 T30 K24 N12 K24 G28 T10 N10 G16 T28 K6 T16 K8 T16 K6 T/54

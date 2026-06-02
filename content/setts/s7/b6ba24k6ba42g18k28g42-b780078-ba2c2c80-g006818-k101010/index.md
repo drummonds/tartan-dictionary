@@ -1,13 +1,13 @@
 ---
-title: "Scotsman (Corporate)"
+title: "Scotsman"
 date: 2023-03-18
 ---
 In pattern [BBKBGKG](/patterns/bbkbgkg/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2645/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687
 
 ## Thread count
 G/42 K28 G18 DB42 K6 DB24 P/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/42 K28 G18 DB42 K6 DB24 P/6 tartan")
 
 ID: /setts/s7/b6ba24k6ba42g18k28g42-b780078-ba2c2c80-g006818-k101010/
+101010/

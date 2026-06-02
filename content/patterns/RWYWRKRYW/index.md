@@ -1,0 +1,20 @@
+---
+title: Pattern RWYWRKRYW
+date: 2023-03-18
+---
+RWYWRKRYW
+
+It is a 9 stripes tartan.
+
+
+
+## Colour Sequence
+RWYWRKRYW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r24w4y6w4r6k10r4y36w4-k101010-rc80000-we0e0e0-ya08858/)|
+|![Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/r24w4y6w4r6k10r4y36w4-k101010-rc80000-we0e0e0-ya08858/sett.png)|

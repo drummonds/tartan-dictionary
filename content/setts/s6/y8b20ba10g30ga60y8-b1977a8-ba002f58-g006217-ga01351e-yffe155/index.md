@@ -1,0 +1,31 @@
+---
+title: "MPS Emerald Society NCLEES 2012"
+date: 2023-03-18
+---
+In pattern [YBBGGY](/patterns/ybbggy/).
+
+
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10711
+
+## Thread count
+LY/8 B20 DB10 G30 DG60 LY/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1977A8;"><span style="color:#1977A8;filter:grayscale(1) invert(1) contrast(100);">#1977A8</span></code> `#1977A8` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
+| DB | <code style="background-color:#002F58;"><span style="color:#002F58;filter:grayscale(1) invert(1) contrast(100);">#002F58</span></code> `#002F58` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.10 |
+| DG | <code style="background-color:#01351E;"><span style="color:#01351E;filter:grayscale(1) invert(1) contrast(100);">#01351E</span></code> `#01351E` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.17 |
+| G | <code style="background-color:#006217;"><span style="color:#006217;filter:grayscale(1) invert(1) contrast(100);">#006217</span></code> `#006217` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
+| LY | <code style="background-color:#FFE155;"><span style="color:#FFE155;filter:grayscale(1) invert(1) contrast(100);">#FFE155</span></code> `#FFE155` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.09 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "LY/8 B20 DB10 G30 DG60 LY/8 tartan")
+
+ID: /setts/s6/y8b20ba10g30ga60y8-b1977a8-ba002f58-g006217-ga01351e-yffe155/

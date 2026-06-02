@@ -1,13 +1,13 @@
 ---
-title: "Duncan (Clan)"
+title: "Duncan"
 date: 2023-03-18
 ---
 In pattern [KGWGBR](/patterns/kgwgbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1112/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1025
 
 ## Thread count
 K/8 G42 LN6 G42 DB42 R/8

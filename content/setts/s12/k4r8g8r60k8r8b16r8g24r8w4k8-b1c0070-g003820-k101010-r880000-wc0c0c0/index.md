@@ -1,13 +1,13 @@
 ---
-title: "MacClure (Name)"
+title: "MacClure"
 date: 2023-03-18
 ---
 In pattern [KRGRKRBRGRWK](/patterns/krgrkrbrgrwk/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3330/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2314
 
 ## Thread count
 K/4 DR8 DG8 DR60 K8 DR8 DB16 DR8 DG24 DR8 N4 K/8

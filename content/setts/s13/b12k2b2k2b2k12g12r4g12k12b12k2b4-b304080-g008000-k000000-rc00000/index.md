@@ -1,5 +1,5 @@
 ---
-title: "New South Wales, Scottish Rifles"
+title: "Murray"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKBKB](/patterns/bkbkbkgrgkbkb/).

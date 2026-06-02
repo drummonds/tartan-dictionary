@@ -1,13 +1,13 @@
 ---
-title: "Livingstone (Wedding) (Personal)"
+title: "Livingston (Personal)"
 date: 2023-03-18
 ---
 In pattern [GRKRKRGRWGW](/patterns/grkrkrgrwgw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7372/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131
 
 ## Thread count
 G/52 R10 K2 R4 K2 R10 G32 R10 LN32 G4 LN/16
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s11/g52r10k2r4k2r10g32r10w32g4w16-g006818-k101010-rc80000-we0e0e0/
+0e0e0/

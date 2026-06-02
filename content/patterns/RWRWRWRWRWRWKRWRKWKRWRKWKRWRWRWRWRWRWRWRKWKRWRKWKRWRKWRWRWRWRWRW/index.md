@@ -1,0 +1,20 @@
+---
+title: Pattern RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRWRWRWRWRKWKRWRKWKRWRKWRWRWRWRWRW
+date: 2023-03-18
+---
+RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRWRWRWRWRKWKRWRKWKRWRKWRWRWRWRWRW
+
+It is a 64 stripes tartan.
+
+
+
+## Colour Sequence
+RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRWRWRWRWRKWKRWRKWKRWRKWRWRWRWRWRW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Not Specified #4](/setts/s64/r70w4r4w4r4w4r4w4r4w4r28w76k8r8w8r8k8w8k8r8w8r8k8w32k72r38w4r8w8r6w8r4w26r4w8r6w8r8w4r38k72w32k8r8w8r8k8w8k8r8w8r8k8w76r28w4r4w4r4w4r4w4r4w4-k101010-r888888-we0e0e0/)|
+|![Not Specified #4 example sett](/setts/s64/r70w4r4w4r4w4r4w4r4w4r28w76k8r8w8r8k8w8k8r8w8r8k8w32k72r38w4r8w8r6w8r4w26r4w8r6w8r8w4r38k72w32k8r8w8r8k8w8k8r8w8r8k8w76r28w4r4w4r4w4r4w4r4w4-k101010-r888888-we0e0e0/sett.png)|

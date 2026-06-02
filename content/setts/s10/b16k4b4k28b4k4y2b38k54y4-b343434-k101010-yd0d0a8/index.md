@@ -1,13 +1,13 @@
 ---
-title: "Pride of Scotland, Muted (Fashion)"
+title: "Pride of Scotland Muted"
 date: 2023-03-18
 ---
 In pattern [BKBKBKYBKY](/patterns/bkbkbkybky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7477/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5519
 
 ## Thread count
 DN/16 K4 DN4 K28 DN4 K4 LR2 DN38 K54 LR/4

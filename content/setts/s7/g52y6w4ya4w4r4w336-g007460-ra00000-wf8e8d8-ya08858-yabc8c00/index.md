@@ -26,8 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.21 |
 | LY | <code style="background-color:#F8E8D8;"><span style="color:#F8E8D8;filter:grayscale(1) invert(1) contrast(100);">#F8E8D8</span></code> `#F8E8D8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.04 |
 
-# Sample pattern
-
-![Tartan detail](tartan.png "G/52 LT6 LY4 DY4 LY4 DRa4 LY/336 tartan")
-
 ID: /setts/s7/g52y6w4ya4w4r4w336-g007460-ra00000-wf8e8d8-ya08858-yabc8c00/

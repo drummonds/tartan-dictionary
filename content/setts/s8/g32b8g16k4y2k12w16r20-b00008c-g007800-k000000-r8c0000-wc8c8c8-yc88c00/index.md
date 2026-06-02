@@ -1,13 +1,13 @@
 ---
-title: "Red Deer, City of (District)"
+title: "Red Deer, City of"
 date: 2023-03-18
 ---
 In pattern [GBGKYKWR](/patterns/gbgkykwr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5430/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3477
 
 ## Thread count
 DR/20 N16 K12 DY2 K4 G16 DB8 G/32
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/20 N16 K12 DY2 K4 G16 DB8 G/32 tartan")
 
 ID: /setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/
+88c00/

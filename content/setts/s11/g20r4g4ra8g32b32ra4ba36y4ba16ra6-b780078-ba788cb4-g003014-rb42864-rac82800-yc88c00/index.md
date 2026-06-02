@@ -1,5 +1,5 @@
 ---
-title: "Malay 98 / Commonwealth Games"
+title: "Commonwealth Games 1998"
 date: 2023-03-18
 ---
 In pattern [GRGRGBRBYBR](/patterns/grgrgbrbybr/).
@@ -7,7 +7,7 @@ In pattern [GRGRGBRBYBR](/patterns/grgrgbrbybr/).
 
 This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4889
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=722
 
 ## Thread count
 DG/20 Ra4 DG4 R8 DG32 P32 R4 B36 DY4 B16 R/6
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Ra | <code style="background-color:#B42864;"><span style="color:#B42864;filter:grayscale(1) invert(1) contrast(100);">#B42864</span></code> `#B42864` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.10 |
 
 ID: /setts/s11/g20r4g4ra8g32b32ra4ba36y4ba16ra6-b780078-ba788cb4-g003014-rb42864-rac82800-yc88c00/
+88c00/

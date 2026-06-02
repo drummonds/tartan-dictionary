@@ -16,5 +16,5 @@ GKGYGWGWGWG
 
 | Tartans |
 |---------------|
-| [Strathspey](/setts/s11/g42w6g6w2g42w2ga6y6ga6k2ga88-g1c5420-ga408060-k000000-wfcfcfc-ye8c000/)|
-|![Strathspey example sett](/setts/s11/g42w6g6w2g42w2ga6y6ga6k2ga88-g1c5420-ga408060-k000000-wfcfcfc-ye8c000/sett.png)|
+| [Strathspey](/setts/s11/g42w6g6w2g42w2ga6y6ga6k2ga88-g007800-ga408060-k000000-wfcfcfc-ye8c000/)|
+|![Strathspey example sett](/setts/s11/g42w6g6w2g42w2ga6y6ga6k2ga88-g007800-ga408060-k000000-wfcfcfc-ye8c000/sett.png)|

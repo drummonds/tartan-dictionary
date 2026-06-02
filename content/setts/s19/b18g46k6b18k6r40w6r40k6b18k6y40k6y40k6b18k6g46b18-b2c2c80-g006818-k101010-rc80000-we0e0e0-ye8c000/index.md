@@ -1,13 +1,13 @@
 ---
-title: "Buchanan (Miller & Lang) Clan Tartan Tartan Number: 151. Earliest known date: 1930 Millar and Lang's Scottish Tartans See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Buchanan (1850 - Clan)"
 date: 2023-03-18
 ---
 In pattern [BGKBKRWRKBKYKYKBKGB](/patterns/bgkbkrwrkbkykykbkgb/).
 
 
-This was sourced from house-of-tartan.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=151
+Original link http://www.tartansauthority.com/tartan-ferret/display/151/
 
 ## Thread count
 DB/18 G46 K6 DB18 K6 R40 LN6 R40 K6 DB18 K6 Y40 K6 Y40 K6 DB18 K6 G46 DB/18

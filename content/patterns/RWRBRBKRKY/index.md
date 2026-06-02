@@ -1,0 +1,22 @@
+---
+title: Pattern RWRBRBKRKY
+date: 2023-03-18
+---
+RWRBRBKRKY
+
+It is a 10 stripes tartan.
+
+
+
+## Colour Sequence
+RWRBRBKRKY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Locky](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![Locky example sett](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Locky (Name)](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![Locky (Name) example sett](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

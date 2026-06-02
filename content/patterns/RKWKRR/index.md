@@ -1,0 +1,30 @@
+---
+title: Pattern RKWKRR
+date: 2023-03-18
+---
+RKWKRR
+
+It is a 6 stripes tartan.
+
+![Woven sample](/setts/s6/r8k24w24k8ra48r8-k101010-r880000-ra888888-we0e0e0/tartan.png)
+
+
+
+## Colour Sequence
+RKWKRR
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Thompson Grey Dress](/setts/s6/r8k24w24k8ra48r8-k101010-r880000-ra888888-we0e0e0/)|
+|![Thompson Grey Dress example sett](/setts/s6/r8k24w24k8ra48r8-k101010-r880000-ra888888-we0e0e0/sett.png)|
+| [Thompson, Grey Dress (Fashion)](/setts/s6/r8k24w24k8ra48r8-k101010-r880000-ra888888-we0e0e0/)|
+|![Thompson, Grey Dress (Fashion) example sett](/setts/s6/r8k24w24k8ra48r8-k101010-r880000-ra888888-we0e0e0/sett.png)|
+| [Downside (Corporate)](/setts/s6/r8k36w28k10ra82r8-k101010-rc80000-ra888888-we0e0e0/)|
+|![Downside (Corporate) example sett](/setts/s6/r8k36w28k10ra82r8-k101010-rc80000-ra888888-we0e0e0/sett.png)|
+| [Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r4k20w20k10ra40r4-k101010-rc80000-ra888888-we0e0e0/)|
+|![Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/r4k20w20k10ra40r4-k101010-rc80000-ra888888-we0e0e0/sett.png)|
+| [Thompson Grey Small Tartan Tartan Number: 16111. Earliest known date: pre 2003 Threadcount similar as Thompson Grey 1611. This form applies to "present" the tartans SMALL version. Thompson Grey Small design available in polyvis fabric. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r4k20w20k10ra40r4-k101010-rc80000-ra888888-we0e0e0/)|
+|![Thompson Grey Small Tartan Tartan Number: 16111. Earliest known date: pre 2003 Threadcount similar as Thompson Grey 1611. This form applies to "present" the tartans SMALL version. Thompson Grey Small design available in polyvis fabric. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/r4k20w20k10ra40r4-k101010-rc80000-ra888888-we0e0e0/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "MacDonald of Clanranald - 1819 (Clan"
+title: "MacDonald of Clanranald #3"
 date: 2023-03-18
 ---
 In pattern [BRBRBRKWGRGRG](/patterns/brbrbrkwgrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/427/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2354
 
 ## Thread count
 DB/12 R4 DB4 R6 DB24 R4 K22 W4 G22 R6 G4 R4 G/12

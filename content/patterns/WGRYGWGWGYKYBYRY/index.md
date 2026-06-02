@@ -1,0 +1,22 @@
+---
+title: Pattern WGRYGWGWGYKYBYRY
+date: 2023-03-18
+---
+WGRYGWGWGYKYBYRY
+
+It is a 16 stripes tartan.
+
+
+
+## Colour Sequence
+WGRYGWGWGYKYBYRY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Dalrymple of Castleton #2](/setts/s16/w2g20r14y4g20w2g12w2g20y4k28y4b4y4r30y4-b4c0000-g006818-k101010-rcc4438-wf8f8f8-ye8c000/)|
+|![Dalrymple of Castleton #2 example sett](/setts/s16/w2g20r14y4g20w2g12w2g20y4k28y4b4y4r30y4-b4c0000-g006818-k101010-rcc4438-wf8f8f8-ye8c000/sett.png)|
+| [Dalrymple of Castleton (Clan)](/setts/s16/w2g20r14y4g20w2g12w2g20y4k28y4b4y4r30y4-b4c0000-g006818-k101010-rcc4438-wf8f8f8-ye8c000/)|
+|![Dalrymple of Castleton (Clan) example sett](/setts/s16/w2g20r14y4g20w2g12w2g20y4k28y4b4y4r30y4-b4c0000-g006818-k101010-rcc4438-wf8f8f8-ye8c000/sett.png)|

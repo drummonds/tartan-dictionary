@@ -1,0 +1,20 @@
+---
+title: Pattern RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY
+date: 2023-03-18
+---
+RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY
+
+It is a 54 stripes tartan.
+
+
+
+## Colour Sequence
+RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [MacDonald of Staffa #6](/setts/s54/r34b2y20b2r8g20y2g22r22y4b20g20r4g2r22g2r4g22r20g2r84g2r4g2r4g2r84g2r4g2r4g2r4g2r20g22r4g2r22g2r4g20b20y4r22g22y2g20r8b2y20b2r34y4-b1c0070-g006818-r880000-yb8b8b8/)|
+|![MacDonald of Staffa #6 example sett](/setts/s54/r34b2y20b2r8g20y2g22r22y4b20g20r4g2r22g2r4g22r20g2r84g2r4g2r4g2r84g2r4g2r4g2r4g2r20g22r4g2r22g2r4g20b20y4r22g22y2g20r8b2y20b2r34y4-b1c0070-g006818-r880000-yb8b8b8/sett.png)|

@@ -1,0 +1,22 @@
+---
+title: Pattern WBGGGW
+date: 2023-03-18
+---
+WBGGGW
+
+It is a 6 stripes tartan.
+
+![Woven sample](/setts/s6/w4b4g28g16g4w4-b800080-g808080-we0e0e0/tartan.png)
+
+
+
+## Colour Sequence
+WBGGGW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Lochnagar](/setts/s6/w4b4g28g16g4w4-b800080-g808080-we0e0e0/)|
+|![Lochnagar example sett](/setts/s6/w4b4g28g16g4w4-b800080-g808080-we0e0e0/sett.png)|

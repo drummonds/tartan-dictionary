@@ -1,13 +1,13 @@
 ---
-title: "Presbyterian College Band (Corp)"
+title: "Presbyterian College Band"
 date: 2023-03-18
 ---
 In pattern [BKWKBKR](/patterns/bkwkbkr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7674/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677
 
 ## Thread count
 DR/56 K4 P72 K4 W8 K4 P/14

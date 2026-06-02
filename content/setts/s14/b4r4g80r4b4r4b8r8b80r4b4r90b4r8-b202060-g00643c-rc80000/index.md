@@ -1,13 +1,13 @@
 ---
-title: "Fraser of Altyre (Clan)"
+title: "Fraser of Altyre"
 date: 2023-03-18
 ---
 In pattern [BRGRBRBRBRBRBR](/patterns/brgrbrbrbrbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/528/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1262
 
 ## Thread count
 DB/4 R4 G80 R4 DB4 R4 DB8 R8 DB80 R4 DB4 R90 DB4 R/8

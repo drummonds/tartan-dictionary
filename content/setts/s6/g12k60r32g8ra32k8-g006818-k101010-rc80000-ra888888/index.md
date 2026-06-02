@@ -1,13 +1,13 @@
 ---
-title: "Thompson Black (Fashion)"
+title: "Thompson Black"
 date: 2023-03-18
 ---
 In pattern [GKRGRK](/patterns/gkrgrk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3596/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5196
 
 ## Thread count
 G/12 K60 R32 G8 N32 K/8

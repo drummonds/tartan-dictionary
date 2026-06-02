@@ -1,13 +1,13 @@
 ---
-title: "Prince of Wales (Fashion)"
+title: "Prince of Wales"
 date: 2023-03-18
 ---
 In pattern [GRGRGRGWGW](/patterns/grgrgrgwgw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3306/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3396
 
 ## Thread count
 G/12 R24 G8 R4 G8 R4 G64 LN4 G8 LN/12

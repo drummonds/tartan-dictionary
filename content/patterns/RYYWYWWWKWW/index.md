@@ -1,0 +1,22 @@
+---
+title: Pattern RYYWYWWWKWW
+date: 2023-03-18
+---
+RYYWYWWWKWW
+
+It is a 11 stripes tartan.
+
+
+
+## Colour Sequence
+RYYWYWWWKWW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Manchester Blues Dress](/setts/s11/r4y4ya4w16y22w4wa4w4k4w18wa52-k101010-r800000-w74bbfb-waffffff-ybababa-yae6b426/)|
+|![Manchester Blues Dress example sett](/setts/s11/r4y4ya4w16y22w4wa4w4k4w18wa52-k101010-r800000-w74bbfb-waffffff-ybababa-yae6b426/sett.png)|
+| [Manchester Blues Modern](/setts/s11/r4y4ya4w16y22w4wa4w4k4w18wa52-k101010-r800000-wffffff-wa74bbfb-ybababa-yae6b426/)|
+|![Manchester Blues Modern example sett](/setts/s11/r4y4ya4w16y22w4wa4w4k4w18wa52-k101010-r800000-wffffff-wa74bbfb-ybababa-yae6b426/sett.png)|

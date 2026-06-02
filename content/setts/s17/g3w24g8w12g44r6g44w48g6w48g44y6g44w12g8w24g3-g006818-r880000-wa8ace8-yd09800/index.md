@@ -1,13 +1,13 @@
 ---
-title: "Jubilee (Artefact)"
+title: "Jubilee"
 date: 2023-03-18
 ---
 In pattern [GWGWGRGWGWGYGWGWG](/patterns/gwgwgrgwgwgygwgwg/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1911/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1911
 
 ## Thread count
 G/3 LP24 G8 LP12 G44 DR6 G44 LP48 G6 LP48 G44 DY6 G44 LP12 G8 LP24 G/3

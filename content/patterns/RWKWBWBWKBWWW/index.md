@@ -1,0 +1,20 @@
+---
+title: Pattern RWKWBWBWKBWWW
+date: 2023-03-18
+---
+RWKWBWBWKBWWW
+
+It is a 13 stripes tartan.
+
+
+
+## Colour Sequence
+RWKWBWBWKBWWW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Diana Princess of Wales Commemorative Tartan Tartan Number: 2515. Earliest known date: 1997 Sales help Princess Diana Memorial Trust and commemorate the life of Diana Princess of Wales. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/r4w4k4w8b16w4b4w4k12ba24wa48w4wa8-b148cac-ba48648c-k101010-rc80000-we8e8e8-wab0d4ec/)|
+|![Diana Princess of Wales Commemorative Tartan Tartan Number: 2515. Earliest known date: 1997 Sales help Princess Diana Memorial Trust and commemorate the life of Diana Princess of Wales. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/r4w4k4w8b16w4b4w4k12ba24wa48w4wa8-b148cac-ba48648c-k101010-rc80000-we8e8e8-wab0d4ec/sett.png)|

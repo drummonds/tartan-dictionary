@@ -1,13 +1,13 @@
 ---
-title: "Largs (1981) (District)"
+title: "Largs"
 date: 2023-03-18
 ---
 In pattern [BRBWBRBRBRBRW](/patterns/brbwbrbrbrbrw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/478/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2051
 
 ## Thread count
 DB/4 R4 DB44 W6 DB5 LT4 DB3 LT8 DB3 LT16 DB4 R24 W/4

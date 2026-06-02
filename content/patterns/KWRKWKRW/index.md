@@ -6,8 +6,6 @@ KWRKWKRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k264w4r32k56w56k24r44w32-k101010-rdc0000-wffffff/tartan.png)
-
 
 
 ## Colour Sequence

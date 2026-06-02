@@ -1,13 +1,13 @@
 ---
-title: "Heriot Watt University Corporate Tartan Tartan Number: 2407. Earliest known date: 1996 Created in 1996 for the 30th anniversary of the Grant of the University's charter. Count from a tie supplied by the Development Officer of the University. Sample in STA's Johnston Collection- notes say from MacPhersons of Edinburgh by Ingles Buchan. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Heriot Watt University"
 date: 2023-03-18
 ---
 In pattern [BBBGRGBBYGYBBGRGBB](/patterns/bbbgrgbbygybbgrgbb/).
 
 
-This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2407
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1693
 
 ## Thread count
 Ba/64 DB2 Gb32 DR4 Gb4 DN36 Ba8 DY2 Gb10 DY2 Ba8 DN36 Gb4 DR4 Gb32 DB2 Ba64 DN/6

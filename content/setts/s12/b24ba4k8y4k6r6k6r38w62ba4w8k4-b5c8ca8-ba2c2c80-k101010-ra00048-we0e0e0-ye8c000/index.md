@@ -1,13 +1,13 @@
 ---
-title: "MacLean Dress Burgundy Clan Tartan Tartan Number: 59. Earliest known date: pre 2003 Dress form of MacLean of Duart. Count taken from a sample in Reproduction colours See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacLean of Duart Dress (Clan)"
 date: 2023-03-18
 ---
 In pattern [BBKYKRKRWBWK](/patterns/bbkykrkrwbwk/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=59
+Original link http://www.tartansauthority.com/tartan-ferret/display/59/
 
 ## Thread count
 B/24 DB4 K8 Y4 K6 R6 K6 R38 LN62 DB4 LN8 K/4

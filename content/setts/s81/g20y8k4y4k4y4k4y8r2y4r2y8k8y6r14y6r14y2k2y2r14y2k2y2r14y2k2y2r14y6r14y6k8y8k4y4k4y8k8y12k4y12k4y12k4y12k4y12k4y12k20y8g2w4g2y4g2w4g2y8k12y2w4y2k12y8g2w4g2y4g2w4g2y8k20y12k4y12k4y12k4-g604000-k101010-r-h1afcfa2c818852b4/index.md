@@ -1,13 +1,13 @@
 ---
-title: "Murray, Mungo (Artefact)"
+title: "Murray, Mungo"
 date: 2023-03-18
 ---
 In pattern [GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKYK](/patterns/gykykykyryrykyryrykyrykyrykyryrykykykykykykykykykykygwgygwgykywykygwgygwgykykykyk/).
 
 
-This was sourced from tartans-authority.  It is a [81 stripes tartan](/stripes/stripes81/).
+This was sourced from register-of-tartans.  It is a [81 stripes tartan](/stripes/stripes81/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2173/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3078
 
 ## Thread count
 K/4 Y12 K4 Y12 K4 Y12 K20 Y8 T2 LN4 T2 Y4 T2 LN4 T2 Y8 K12 Y2 LN4 Y2 K12 Y8 T2 LN4 T2 Y4 T2 LN4 T2 Y8 K20 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K8 Y8 K4 Y4 K4 Y8 K8 Y6 R14 Y6 R14 Y2 K2 Y2 R14 Y2 K2 Y2 R14 Y2 K2 Y2 R14 Y6 R14 Y6 K8 Y8 R2 Y4 R2 Y8 K4 Y4 K4 Y4 K4 Y8 T/20

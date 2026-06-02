@@ -22,8 +22,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
-# Sample pattern
-
-![Tartan detail](tartan.png "DB/4 R20 DB80 R100 DB4 R100 G80 R/20 tartan")
-
 ID: /setts/s8/b4r20b80r100b4r100g80r20-b202060-g006818-rc80000/

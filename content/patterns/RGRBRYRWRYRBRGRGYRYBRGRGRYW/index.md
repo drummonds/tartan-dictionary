@@ -1,0 +1,20 @@
+---
+title: Pattern RGRBRYRWRYRBRGRGYRYBRGRGRYW
+date: 2023-03-18
+---
+RGRBRYRWRYRBRGRGYRYBRGRGRYW
+
+It is a 27 stripes tartan.
+
+
+
+## Colour Sequence
+RGRBRYRWRYRBRGRGYRYBRGRGRYW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [MacDougall Clan Tartan Tartan Number: 1519. Earliest known date: 1815-16 The earliest reference to the MacDougall tartan is in the collection of the Highland Society of London where a sample exists, signed and sealed by the Clan Chief around 1815. The sett is a complex one and the nearest count to the present day day tartan comes from a sample in Paton's collection housed at the Scottish Tartans Museum, and dating to about 1830. The Highland Society also have a sample certified by the Chief MacDougall of MacDougall dated 1906, in their archives store at the Royal Caledonian School near London. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s27/r10g20r4b4r60y6r4w2r4y6r60b4r4g20r20g20y8r4y8b20r8g4r8g60r4y6w2-b2c2c80-g006818-rc80000-we0e0e0-yc090a0/)|
+|![MacDougall Clan Tartan Tartan Number: 1519. Earliest known date: 1815-16 The earliest reference to the MacDougall tartan is in the collection of the Highland Society of London where a sample exists, signed and sealed by the Clan Chief around 1815. The sett is a complex one and the nearest count to the present day day tartan comes from a sample in Paton's collection housed at the Scottish Tartans Museum, and dating to about 1830. The Highland Society also have a sample certified by the Chief MacDougall of MacDougall dated 1906, in their archives store at the Royal Caledonian School near London. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s27/r10g20r4b4r60y6r4w2r4y6r60b4r4g20r20g20y8r4y8b20r8g4r8g60r4y6w2-b2c2c80-g006818-rc80000-we0e0e0-yc090a0/sett.png)|

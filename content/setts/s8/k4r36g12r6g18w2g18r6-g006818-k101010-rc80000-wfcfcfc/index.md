@@ -1,13 +1,13 @@
 ---
-title: "Cumming - 1850 (Clan)"
+title: "Cumming #2"
 date: 2023-03-18
 ---
 In pattern [KRGRGWGR](/patterns/krgrgwgr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1157/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835
 
 ## Thread count
 K/4 R36 G12 R6 G18 W2 G18 R/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/4 R36 G12 R6 G18 W2 G18 R/6 tartan")
 
 ID: /setts/s8/k4r36g12r6g18w2g18r6-g006818-k101010-rc80000-wfcfcfc/
+fcfcfc/

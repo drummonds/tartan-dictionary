@@ -1,0 +1,20 @@
+---
+title: Pattern RYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYRWRYRWRYKYW
+date: 2023-03-18
+---
+RYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYRWRYRWRYKYW
+
+It is a 63 stripes tartan.
+
+
+
+## Colour Sequence
+RYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYRWRYRWRYKYW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Murray, Mungo](/setts/s63/r20y8k4y4k4y4k4y8ra2y4ra2y8k8y6ra14y6ra14y2k2y2ra14y2k2y2ra14y2k2y2ra14y6ra14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8r2w4r2y4r2w4r2y8k12y2w4-k000000-r806050-rac00020-we0e0e0-yf0c000/)|
+|![Murray, Mungo example sett](/setts/s63/r20y8k4y4k4y4k4y8ra2y4ra2y8k8y6ra14y6ra14y2k2y2ra14y2k2y2ra14y2k2y2ra14y6ra14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8r2w4r2y4r2w4r2y8k12y2w4-k000000-r806050-rac00020-we0e0e0-yf0c000/sett.png)|

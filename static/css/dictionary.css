@@ -1,0 +1,55 @@
+/* Tartan Dictionary — project styles (owned here, not in the simpleness theme).
+   Start of the custom theme: the responsive pattern-swatch component. */
+
+/* A pattern swatch: one coloured block per stripe in the six-colour sequence, then its code label.
+   inline-flex + flex-wrap means the blocks wrap to the available width, and the label — being the
+   last flex item — sits beside a short pattern but drops onto a new line once the blocks fill the
+   row. So an 82-stripe sett wraps gracefully instead of forcing a column absurdly wide. */
+.pat {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1px;
+  max-width: 100%;
+  margin: 0 .6em .4em 0;
+  vertical-align: top;
+  text-decoration: none;
+}
+.pat .blk {
+  display: inline-block;
+  width: .8em;
+  height: 1.1em;
+  border: 1px solid #0003;
+}
+.pat .seq {
+  font-family: monospace;
+  font-size: .85em;
+  margin-left: .3em;
+  white-space: nowrap;
+}
+
+/* Stripe summary: a responsive card grid (was a markdown table whose patterns column blew out to
+   the width of the longest sett). Each card's sample swatches flex-wrap within the card. */
+.stripe-summary {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr));
+  gap: 1rem;
+}
+.stripe-summary li {
+  border: 1px solid #0002;
+  border-radius: .4rem;
+  padding: .6rem .8rem;
+  min-width: 0; /* let the card shrink so swatches wrap instead of overflowing */
+}
+.stripe-summary .count {
+  display: block;
+  margin-bottom: .4rem;
+  text-decoration: none;
+}
+.stripe-summary .samples {
+  display: flex;
+  flex-wrap: wrap;
+}

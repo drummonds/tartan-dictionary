@@ -25,7 +25,12 @@
   font-family: monospace;
   font-size: .85em;
   margin-left: .3em;
-  white-space: nowrap;
+  /* Let a long code wrap to as many lines as the swatch blocks took, instead of one runaway line.
+     min-width:0 lets the flex item shrink below its content; overflow-wrap breaks the unbroken
+     code string. */
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 /* Hallstatt external border: a faint tartan fills the viewport behind the centred content column
@@ -53,9 +58,18 @@ html {
     repeating-linear-gradient(0deg,
       transparent 0 30px, rgba(200, 0, 0, .06) 30px 33px, transparent 33px 64px);
 }
-/* Lift the content column off the plaid so the frame reads as a border. */
+/* Pin the content column to a solid light card with dark text, regardless of colour scheme. The
+   theme's prefers-color-scheme:dark turns text white but our tartan frame stays light, so on a
+   dark-mode phone the text was white-on-light (invisible). This makes the reading surface stable,
+   and the shadow lifts it off the plaid so the frame reads as a border. */
 body.container {
+  background-color: #fbfbf8;
+  color: #1a1a1a;
   box-shadow: 0 0 0 1px #0000001a, 0 1px 16px #00000014;
+}
+/* Keep links legible on the light card even under the theme's dark-mode link colour. */
+body.container a {
+  color: #1a4f8b;
 }
 
 /* Stripe summary: a responsive card grid (was a markdown table whose patterns column blew out to

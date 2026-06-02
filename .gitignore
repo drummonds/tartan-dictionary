@@ -6,3 +6,6 @@ test.log
 
 WOW/
 
+
+# render-version cache (local build artifact)
+content/setts/.render-manifest.tsv

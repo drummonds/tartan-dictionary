@@ -1,0 +1,20 @@
+---
+title: Pattern BWBWBWBGWGWGWGWGBWBWBWBWBGBWBGWGWGWGWGWGBWBGBWBWBWBWBGWGWGWGWGBWBWBWBW
+date: 2023-03-18
+---
+BWBWBWBGWGWGWGWGBWBWBWBWBGBWBGWGWGWGWGWGBWBGBWBWBWBWBGWGWGWGWGBWBWBWBW
+
+It is a 70 stripes tartan.
+
+
+
+## Colour Sequence
+BWBWBWBGWGWGWGWGBWBWBWBWBGBWBGWGWGWGWGWGBWBGBWBWBWBWBGWGWGWGWGBWBWBWBW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Campbell of Cawdor Dress (Clan)](/setts/s70/b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20b4g6b4w20b20g4w4g48w4g4w4g4w4g48w4g4b20w20b4g6b4w20b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20-b2c2c80-g006818-wfcfcfc/)|
+|![Campbell of Cawdor Dress (Clan) example sett](/setts/s70/b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20b4g6b4w20b20g4w4g48w4g4w4g4w4g48w4g4b20w20b4g6b4w20b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20-b2c2c80-g006818-wfcfcfc/sett.png)|

@@ -1,0 +1,20 @@
+---
+title: Pattern GKGBKRBRKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKRBRKBGK
+date: 2023-03-18
+---
+GKGBKRBRKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKRBRKBGK
+
+It is a 50 stripes tartan.
+
+
+
+## Colour Sequence
+GKGBKRBRKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKRBRKBGK
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Killen](/setts/s50/g10k2g16b16k2r4b2r4k2b16k16g2k2g2k2g16k2g2k2g2k16b16k2w4k2g16k2w4k2b16k16g2k2g2k2g16k2g2k2g2k16b16k2r4b2r4k2b16g16k2-b003c64-g006c40-k101010-r800000-we0e0e0/)|
+|![Killen example sett](/setts/s50/g10k2g16b16k2r4b2r4k2b16k16g2k2g2k2g16k2g2k2g2k16b16k2w4k2g16k2w4k2b16k16g2k2g2k2g16k2g2k2g2k16b16k2r4b2r4k2b16g16k2-b003c64-g006c40-k101010-r800000-we0e0e0/sett.png)|

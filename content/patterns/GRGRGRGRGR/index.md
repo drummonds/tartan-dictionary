@@ -1,0 +1,32 @@
+---
+title: Pattern GRGRGRGRGR
+date: 2023-03-18
+---
+GRGRGRGRGR
+
+It is a 10 stripes tartan.
+
+
+
+## Colour Sequence
+GRGRGRGRGR
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Donachie](/setts/s10/g40r4g4r4g4r50g80r4g4r48-g008440-rc80000/)|
+|![Donachie example sett](/setts/s10/g40r4g4r4g4r50g80r4g4r48-g008440-rc80000/sett.png)|
+| [Donachie of Brockloch](/setts/s10/g40r4g4r4g4r50g40r4g4r48-g003c24-r6c0000/)|
+|![Donachie of Brockloch example sett](/setts/s10/g40r4g4r4g4r50g40r4g4r48-g003c24-r6c0000/sett.png)|
+| [Livingstone](/setts/s10/g28r8g4r4g4r8g38r60g4r18-g005020-rdc0000/)|
+|![Livingstone example sett](/setts/s10/g28r8g4r4g4r8g38r60g4r18-g005020-rdc0000/sett.png)|
+| [Nithsdale](/setts/s10/g40r8ga8r24ga64r4ga8r4ga12r24-g005448-ga5c6428-ra00000/)|
+|![Nithsdale example sett](/setts/s10/g40r8ga8r24ga64r4ga8r4ga12r24-g005448-ga5c6428-ra00000/sett.png)|
+| [Hilton Hotel Hong Kong (Corporate)](/setts/s10/g2r4g32r4g4r48g4r4g20r8-g006818-rb468ac/)|
+|![Hilton Hotel Hong Kong (Corporate) example sett](/setts/s10/g2r4g32r4g4r48g4r4g20r8-g006818-rb468ac/sett.png)|
+| [Donachie of Brockloch (Clan)](/setts/s10/g40r4g4r4g4r50g40r4g4r48-g005834-r940000/)|
+|![Donachie of Brockloch (Clan) example sett](/setts/s10/g40r4g4r4g4r50g40r4g4r48-g005834-r940000/sett.png)|
+| [Livingstone](/setts/s10/g28r8g4r4g4r8g38r60g4r18-g008000-rc00000/)|
+|![Livingstone example sett](/setts/s10/g28r8g4r4g4r8g38r60g4r18-g008000-rc00000/sett.png)|

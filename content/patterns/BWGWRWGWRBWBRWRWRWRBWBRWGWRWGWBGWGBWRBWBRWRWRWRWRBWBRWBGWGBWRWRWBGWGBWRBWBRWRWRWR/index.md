@@ -1,0 +1,20 @@
+---
+title: Pattern BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR
+date: 2023-03-18
+---
+BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR
+
+It is a 81 stripes tartan.
+
+
+
+## Colour Sequence
+BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Unidentified Cant #04](/setts/s81/b18w4g8w4r8w4g8w4r18ba8w4ba8r18w4ra22w4ra22w4r18ba8w4ba8r18w4g8w4r8w4g8w4b22g8w4g8b22w4r8ba4w4ba4r8w4ra28w6ra8w6ra28w4r8ba4w4ba4r8w4b6g4w4g4b6w4ra20w6ra20w4b6g4w4g4b6w4r8ba4w4ba4r8w4ra28w6ra8w6ra28-b2-h2aa6a479f8d24e19/)|
+|![Unidentified Cant #04 example sett](/setts/s81/b18w4g8w4r8w4g8w4r18ba8w4ba8r18w4ra22w4ra22w4r18ba8w4ba8r18w4g8w4r8w4g8w4b22g8w4g8b22w4r8ba4w4ba4r8w4ra28w6ra8w6ra28w4r8ba4w4ba4r8w4b6g4w4g4b6w4ra20w6ra20w4b6g4w4g4b6w4r8ba4w4ba4r8w4ra28w6ra8w6ra28-b2-h2aa6a479f8d24e19/sett.png)|

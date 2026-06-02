@@ -1,0 +1,20 @@
+---
+title: Pattern BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYBYBGGGGGGGBYBYBGRYRYBRRRYRRRGBYBYBGGGG
+date: 2023-03-18
+---
+BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYBYBGGGGGGGBYBYBGRYRYBRRRYRRRGBYBYBGGGG
+
+It is a 81 stripes tartan.
+
+
+
+## Colour Sequence
+BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYBYBGGGGGGGBYBYBGRYRYBRRRYRRRGBYBYBGGGG
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Beaverbrook (District)](/setts/s81/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g36r12ra10r18y4r6ra18r16b8y6rb4y2r32g36b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g36r32y2rb4y6b8r16ra18r6y4r18ra10r12g36b2y2b2y2b2g2ga4g4ga4-b5c8-h51b2dfa5e9b99f10/)|
+|![Beaverbrook (District) example sett](/setts/s81/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g36r12ra10r18y4r6ra18r16b8y6rb4y2r32g36b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g36r32y2rb4y6b8r16ra18r6y4r18ra10r12g36b2y2b2y2b2g2ga4g4ga4-b5c8-h51b2dfa5e9b99f10/sett.png)|

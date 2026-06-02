@@ -1,0 +1,24 @@
+---
+title: Pattern GYGYY
+date: 2023-03-18
+---
+GYGYY
+
+It is a 5 stripes tartan.
+
+![Woven sample](/setts/s5/g200y8g4ya6yb12-g285800-ya08858-yabc8c00-ybc4bc68/tartan.png)
+
+
+
+## Colour Sequence
+GYGYY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Lagrande](/setts/s5/g200y8g4ya6yb12-g285800-ya08858-yabc8c00-ybc4bc68/)|
+|![Lagrande example sett](/setts/s5/g200y8g4ya6yb12-g285800-ya08858-yabc8c00-ybc4bc68/sett.png)|
+| [Lagrande (Fashion)](/setts/s5/g200y8g4ya6yb12-g285800-ya08858-yabc8c00-ybc4bc68/)|
+|![Lagrande (Fashion) example sett](/setts/s5/g200y8g4ya6yb12-g285800-ya08858-yabc8c00-ybc4bc68/sett.png)|

@@ -1,0 +1,20 @@
+---
+title: Pattern GWGWKGRGKY
+date: 2023-03-18
+---
+GWGWKGRGKY
+
+It is a 10 stripes tartan.
+
+
+
+## Colour Sequence
+GWGWKGRGKY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Gillies Dress Green](/setts/s10/g4w8g4w44k32g24r12g24k3y12-g006818-k101010-rc80000-wfcfcfc-yd09800/)|
+|![Gillies Dress Green example sett](/setts/s10/g4w8g4w44k32g24r12g24k3y12-g006818-k101010-rc80000-wfcfcfc-yd09800/sett.png)|

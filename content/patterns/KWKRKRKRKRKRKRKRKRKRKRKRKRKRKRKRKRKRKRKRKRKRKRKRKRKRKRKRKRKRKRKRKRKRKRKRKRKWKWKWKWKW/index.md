@@ -1,0 +1,20 @@
+---
+title: Pattern KWKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW
+date: 2023-03-18
+---
+KWKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW
+
+It is a 84 stripes tartan.
+
+
+
+## Colour Sequence
+KWKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKRKWKWKWKWKW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Dunbar Plaid (Artefact)](/setts/s84/k4w24k4r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k4w4k5w2k5w1k1w1k1w6-k101010-rc80000-wfcfcfc/)|
+|![Dunbar Plaid (Artefact) example sett](/setts/s84/k4w24k4r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k4w4k5w2k5w1k1w1k1w6-k101010-rc80000-wfcfcfc/sett.png)|

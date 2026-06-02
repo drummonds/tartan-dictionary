@@ -1,0 +1,20 @@
+---
+title: Pattern BWGWGBWBWGBGRGRG
+date: 2023-03-18
+---
+BWGWGBWBWGBGRGRG
+
+It is a 16 stripes tartan.
+
+
+
+## Colour Sequence
+BWGWGBWBWGBGRGRG
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Gordon 1](/setts/s16/b28w2g16w2ga32ba12w2b28w2g28ba12g12r16ga12r16ga2-b304080-ba5480b0-g008000-ga003000-rc00000-we0e0e0/)|
+|![Gordon 1 example sett](/setts/s16/b28w2g16w2ga32ba12w2b28w2g28ba12g12r16ga12r16ga2-b304080-ba5480b0-g008000-ga003000-rc00000-we0e0e0/sett.png)|

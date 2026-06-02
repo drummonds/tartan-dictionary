@@ -1,0 +1,20 @@
+---
+title: Pattern KWKRYRKYKYKRKYKR
+date: 2023-03-18
+---
+KWKRYRKYKYKRKYKR
+
+It is a 16 stripes tartan.
+
+
+
+## Colour Sequence
+KWKRYRKYKYKRKYKR
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Maxem Eyewear (Corporate)](/setts/s16/k16w16k16r16y8r52k16ya16k16ya32k32r312k32y8k16r208-k101010-r888888-we0e0e0-ye8c000-yaa0a0a0/)|
+|![Maxem Eyewear (Corporate) example sett](/setts/s16/k16w16k16r16y8r52k16ya16k16ya32k32r312k32y8k16r208-k101010-r888888-we0e0e0-ye8c000-yaa0a0a0/sett.png)|

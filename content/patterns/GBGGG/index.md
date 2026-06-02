@@ -1,0 +1,26 @@
+---
+title: Pattern GBGGG
+date: 2023-03-18
+---
+GBGGG
+
+It is a 5 stripes tartan.
+
+![Woven sample](/setts/s5/g78ga18g6b18ga6-b4c3428-g006818-ga604000/tartan.png)
+
+
+
+## Colour Sequence
+GBGGG
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Glen Boig](/setts/s5/g78ga18g6b18ga6-b4c3428-g006818-ga604000/)|
+|![Glen Boig example sett](/setts/s5/g78ga18g6b18ga6-b4c3428-g006818-ga604000/sett.png)|
+| [Glen Boig (Fashion)](/setts/s5/g78ga18g6b18ga6-b4c3428-g006818-ga604000/)|
+|![Glen Boig (Fashion) example sett](/setts/s5/g78ga18g6b18ga6-b4c3428-g006818-ga604000/sett.png)|
+| [Glen Boig Trade Tartan Tartan Number: 915. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/g74ga18g6b18ga6-b441800-g5c6428-ga604000/)|
+|![Glen Boig Trade Tartan Tartan Number: 915. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/g74ga18g6b18ga6-b441800-g5c6428-ga604000/sett.png)|

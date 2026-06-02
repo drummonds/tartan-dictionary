@@ -1,0 +1,26 @@
+---
+title: "Stevenson (Personal)"
+date: 2023-03-18
+---
+In pattern [GYRYRYBYBYRYRYGR](/patterns/gyryrybybyryrygr/).
+
+
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3927
+
+## Thread count
+DR/8 G48 Y8 DR16 Y8 DR16 Y8 DB48 Y8 DB48 Y8 DR16 Y8 DR16 Y8 G/48
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
+| Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
+
+ID: /setts/s16/g48y8r16y8r16y8b48y8b48y8r16y8r16y8g48r8-b1c0070-g006818-r880000-yd8b000/

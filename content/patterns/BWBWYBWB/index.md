@@ -1,0 +1,22 @@
+---
+title: Pattern BWBWYBWB
+date: 2023-03-18
+---
+BWBWYBWB
+
+It is a 8 stripes tartan.
+
+![Woven sample](/setts/s8/b180w16ba16w8y56ba8w8ba8-b2888c4-ba2c2c80-wfcfcfc-yfccc00/tartan.png)
+
+
+
+## Colour Sequence
+BWBWYBWB
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Madras 1 (Fashion)](/setts/s8/b180w16ba16w8y56ba8w8ba8-b2888c4-ba2c2c80-wfcfcfc-yfccc00/)|
+|![Madras 1 (Fashion) example sett](/setts/s8/b180w16ba16w8y56ba8w8ba8-b2888c4-ba2c2c80-wfcfcfc-yfccc00/sett.png)|

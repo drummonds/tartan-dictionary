@@ -1,0 +1,25 @@
+---
+title: "Donachie of Brockloch Htg (Clan)"
+date: 2023-03-18
+---
+In pattern [GGRGGGGGRG](/patterns/ggrgggggrg/).
+
+
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/6703/
+
+## Thread count
+DG/40 G4 DR4 G4 DG4 G50 DG80 G4 DR4 G/48
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003820;"><span style="color:#003820;filter:grayscale(1) invert(1) contrast(100);">#003820</span></code> `#003820` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.16 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
+| G | <code style="background-color:#487048;"><span style="color:#487048;filter:grayscale(1) invert(1) contrast(100);">#487048</span></code> `#487048` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.10 |
+
+ID: /setts/s10/g40ga4r4ga4g4ga50g80ga4r4ga48-g003820-ga487048-r880000/

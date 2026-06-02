@@ -1,0 +1,22 @@
+---
+title: Pattern BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW
+date: 2023-03-18
+---
+BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW
+
+It is a 82 stripes tartan.
+
+
+
+## Colour Sequence
+BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Drummond of Strathallan or Ogilvy](/setts/s82/b6y6g10w6g10y6k10r10w6r10k6y16g10y16k6r6k6r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6--ha1cad6104c2ddcae/)|
+|![Drummond of Strathallan or Ogilvy example sett](/setts/s82/b6y6g10w6g10y6k10r10w6r10k6y16g10y16k6r6k6r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6--ha1cad6104c2ddcae/sett.png)|
+| [Drummond of Strathallan (Clan)](/setts/s82/b6y6g10w6g10y6k10r10w6r10k6y16g10y16k6r6k6r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6--ha1cad6104c2ddcae/)|
+|![Drummond of Strathallan (Clan) example sett](/setts/s82/b6y6g10w6g10y6k10r10w6r10k6y16g10y16k6r6k6r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6--ha1cad6104c2ddcae/sett.png)|

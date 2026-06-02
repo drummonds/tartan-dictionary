@@ -1,0 +1,24 @@
+---
+title: Pattern GKRKRK
+date: 2023-03-18
+---
+GKRKRK
+
+It is a 6 stripes tartan.
+
+![Woven sample](/setts/s6/g2k4r6k8r10k198-g5c6428-k101010-r901c38/tartan.png)
+
+
+
+## Colour Sequence
+GKRKRK
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Allt Dubh (Black Burn)](/setts/s6/g2k4r6k8r10k198-g5c6428-k101010-r901c38/)|
+|![Allt Dubh (Black Burn) example sett](/setts/s6/g2k4r6k8r10k198-g5c6428-k101010-r901c38/sett.png)|
+| [Allt Dubh (Fashion)](/setts/s6/g2k4r6k8r10k198-g5c6428-k101010-r901c38/)|
+|![Allt Dubh (Fashion) example sett](/setts/s6/g2k4r6k8r10k198-g5c6428-k101010-r901c38/sett.png)|

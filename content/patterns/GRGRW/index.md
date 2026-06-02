@@ -1,0 +1,22 @@
+---
+title: Pattern GRGRW
+date: 2023-03-18
+---
+GRGRW
+
+It is a 5 stripes tartan.
+
+![Woven sample](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/tartan.png)
+
+
+
+## Colour Sequence
+GRGRW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [MacGregor of Balquhidder](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/)|
+|![MacGregor of Balquhidder example sett](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/sett.png)|

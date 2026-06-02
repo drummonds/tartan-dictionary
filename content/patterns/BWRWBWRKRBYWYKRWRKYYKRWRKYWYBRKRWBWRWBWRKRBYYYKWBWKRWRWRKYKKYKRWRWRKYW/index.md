@@ -1,0 +1,20 @@
+---
+title: Pattern BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW
+date: 2023-03-18
+---
+BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW
+
+It is a 70 stripes tartan.
+
+
+
+## Colour Sequence
+BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Ogilvie of Strathallan](/setts/s70/b2w2r26w2b2w2r26k6r6b6y6w6y6k10r10w6r10k6y16y16k6r10w6r10k10y6w6y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16y6y16k26w2b6w2k26r10w6r10w6r10k6y6k6k6y6k6r10w6r10w6r10k6y6w6-b2c2c80-k101010-rc80000-wfcfcfc-yd8b-h45c69c65ca12b8b8/)|
+|![Ogilvie of Strathallan example sett](/setts/s70/b2w2r26w2b2w2r26k6r6b6y6w6y6k10r10w6r10k6y16y16k6r10w6r10k10y6w6y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16y6y16k26w2b6w2k26r10w6r10w6r10k6y6k6k6y6k6r10w6r10w6r10k6y6w6-b2c2c80-k101010-rc80000-wfcfcfc-yd8b-h45c69c65ca12b8b8/sett.png)|

@@ -1,0 +1,20 @@
+---
+title: Pattern GBBGBGBGBGBGK
+date: 2023-03-18
+---
+GBBGBGBGBGBGK
+
+It is a 13 stripes tartan.
+
+
+
+## Colour Sequence
+GBBGBGBGBGBGK
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Glen Affric (Artefact)](/setts/s13/g8b4ba56g8b20g8b28g8b28g8b40g8k8-b5c5c5c-ba4c0000-g006818-k101010/)|
+|![Glen Affric (Artefact) example sett](/setts/s13/g8b4ba56g8b20g8b28g8b28g8b40g8k8-b5c5c5c-ba4c0000-g006818-k101010/sett.png)|

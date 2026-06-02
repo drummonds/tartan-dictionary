@@ -1,0 +1,25 @@
+---
+title: "Breckon"
+date: 2023-03-18
+---
+In pattern [BRYRYRBYB](/patterns/bryryrbyb/).
+
+
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6003
+
+## Thread count
+DB/8 DR4 DY4 DR4 DY4 DR56 DB56 DY4 DB/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000064;"><span style="color:#000064;filter:grayscale(1) invert(1) contrast(100);">#000064</span></code> `#000064` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.17 |
+| DR | <code style="background-color:#800000;"><span style="color:#800000;filter:grayscale(1) invert(1) contrast(100);">#800000</span></code> `#800000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.16 |
+| DY | <code style="background-color:#A88000;"><span style="color:#A88000;filter:grayscale(1) invert(1) contrast(100);">#A88000</span></code> `#A88000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
+
+ID: /setts/s9/b12y4b56r56y4r4y4r4b8-b000064-r800000-ya88000/

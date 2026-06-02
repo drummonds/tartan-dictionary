@@ -1,0 +1,24 @@
+---
+title: Pattern GYBWGYBR
+date: 2023-03-18
+---
+GYBWGYBR
+
+It is a 8 stripes tartan.
+
+![Woven sample](/setts/s8/g12y6b84w8ga36y4b24r6-b506878-g604000-ga006038-rc8002c-we0e0e0-ye8c000/tartan.png)
+
+
+
+## Colour Sequence
+GYBWGYBR
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Glasgow High School](/setts/s8/g12y6b84w8ga36y4b24r6-b506878-g604000-ga006038-rc8002c-we0e0e0-ye8c000/)|
+|![Glasgow High School example sett](/setts/s8/g12y6b84w8ga36y4b24r6-b506878-g604000-ga006038-rc8002c-we0e0e0-ye8c000/sett.png)|
+| [Glasgow High (School)](/setts/s8/g12y6b84w8ga36y4b24r6-b506878-g604000-ga006038-rc8002c-we0e0e0-ye8c000/)|
+|![Glasgow High (School) example sett](/setts/s8/g12y6b84w8ga36y4b24r6-b506878-g604000-ga006038-rc8002c-we0e0e0-ye8c000/sett.png)|

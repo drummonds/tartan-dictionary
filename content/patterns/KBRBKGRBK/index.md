@@ -1,0 +1,30 @@
+---
+title: Pattern KBRBKGRBK
+date: 2023-03-18
+---
+KBRBKGRBK
+
+It is a 9 stripes tartan.
+
+
+
+## Colour Sequence
+KBRBKGRBK
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [MacNaughton (Logan) #2](/setts/s9/k4b4r52b26k26g50r52b4k4-b2c2c80-g285800-k101010-rfc3800/)|
+|![MacNaughton (Logan) #2 example sett](/setts/s9/k4b4r52b26k26g50r52b4k4-b2c2c80-g285800-k101010-rfc3800/sett.png)|
+| [MacNaughton (Clan)](/setts/s9/k4b4r52b26k26g50r52b4k4-b2c2c80-g285800-k101010-rfc3800/)|
+|![MacNaughton (Clan) example sett](/setts/s9/k4b4r52b26k26g50r52b4k4-b2c2c80-g285800-k101010-rfc3800/sett.png)|
+| [MacNaughton](/setts/s9/k2b2r32b16k24g32r32b2k2-b304080-g008000-k000000-rc00000/)|
+|![MacNaughton example sett](/setts/s9/k2b2r32b16k24g32r32b2k2-b304080-g008000-k000000-rc00000/sett.png)|
+| [MacNaughten](/setts/s9/k2b2r32b16k24g32r32b2k2-b4367ae-g11450d-k000000-raa0000/)|
+|![MacNaughten example sett](/setts/s9/k2b2r32b16k24g32r32b2k2-b4367ae-g11450d-k000000-raa0000/sett.png)|
+| [MacNaughten](/setts/s9/k1b1r16b8k12g16r16b1k1-b4367ae-g11450d-k000000-raa0000/)|
+|![MacNaughten example sett](/setts/s9/k1b1r16b8k12g16r16b1k1-b4367ae-g11450d-k000000-raa0000/sett.png)|
+| [MacNaughton Clan Tartan Tartan Number: 1066. Earliest known date: 1831 James Logan collected information for his book 'The Scottish Gael' between 1826 and 1831. The MacNaughton tartan is also recorded by William and Andrew Smith in their 'Authenticated Tartans of the Clans and Families of Scotland' (1850). Other works contain a commonly reproduced error. The tartan closely resembles the MacDuff, which may bear out the claim that the MacNaughtons were originally a Moray tribe transplanted by Malcolm IV. The MacNaughton tartan is worn by the 'Vale of Athol' pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k2b2r32b16k24g32r32b2k2-b2c2c80-g006818-k101010-rc80000/)|
+|![MacNaughton Clan Tartan Tartan Number: 1066. Earliest known date: 1831 James Logan collected information for his book 'The Scottish Gael' between 1826 and 1831. The MacNaughton tartan is also recorded by William and Andrew Smith in their 'Authenticated Tartans of the Clans and Families of Scotland' (1850). Other works contain a commonly reproduced error. The tartan closely resembles the MacDuff, which may bear out the claim that the MacNaughtons were originally a Moray tribe transplanted by Malcolm IV. The MacNaughton tartan is worn by the 'Vale of Athol' pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/k2b2r32b16k24g32r32b2k2-b2c2c80-g006818-k101010-rc80000/sett.png)|

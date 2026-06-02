@@ -1,0 +1,28 @@
+---
+title: Pattern GBY
+date: 2023-03-18
+---
+GBY
+
+It is a 3 stripes tartan.
+
+![Woven sample](/setts/s3/g48b12y4-b2c4084-g005020-ye8c000/tartan.png)
+
+
+
+## Colour Sequence
+GBY
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Unidentified pattern #2](/setts/s3/g48b12y4-b2c4084-g005020-ye8c000/)|
+|![Unidentified pattern #2 example sett](/setts/s3/g48b12y4-b2c4084-g005020-ye8c000/sett.png)|
+| [Gearach Woodcock Tweed](/setts/s3/g2b1y1-b5c8ca8-g604000-yd87c00/)|
+|![Gearach Woodcock Tweed example sett](/setts/s3/g2b1y1-b5c8ca8-g604000-yd87c00/sett.png)|
+| [Gearach Woodcock Tweed (Corporate)](/setts/s3/g2b1y1-b5c8ca8-g604000-yd87c00/)|
+|![Gearach Woodcock Tweed (Corporate) example sett](/setts/s3/g2b1y1-b5c8ca8-g604000-yd87c00/sett.png)|
+| [Unidentified, pattern](/setts/s3/g48b12y4-b304080-g008000-yf0c000/)|
+|![Unidentified, pattern example sett](/setts/s3/g48b12y4-b304080-g008000-yf0c000/sett.png)|

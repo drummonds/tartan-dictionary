@@ -1,0 +1,29 @@
+---
+title: "Brodie Dress"
+date: 2023-03-18
+---
+In pattern [KRKYKR](/patterns/krkykr/).
+
+
+This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Thread count
+K/2 R16 K8 Y1 K8 R/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
+| Y | <code style="background-color:#FFC800;"><span style="color:#FFC800;filter:grayscale(1) invert(1) contrast(100);">#FFC800</span></code> `#FFC800` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/2 R16 K8 Y1 K8 R/2 tartan")
+
+ID: /setts/s6/k2r16k8y1k8r2-k000000-rc80000-yffc800/

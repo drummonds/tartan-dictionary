@@ -1,0 +1,39 @@
+# ~3000 years of 2/2-twill checked weaving. A central-European (Hallstatt, proto-Celtic)
+# weaving culture expands EAST to the Tarim Basin (the oldest surviving example) and WEST
+# through La Tene into Scotland (the living survivor).
+# Render:  d2 timeline.d2 timeline.svg
+
+direction: right
+
+hallstatt: "Central Europe — Hallstatt\nproto-Celtic weaving culture\nc.1200 – 500 BCE" {
+  style.fill: "#e7dcc4"
+  style.bold: true
+}
+
+tarim: "Tarim Basin plaid\nHami / Qizilchoqa\noldest surviving example\nc.1200 – 700 BCE" {
+  style.fill: "#cdb49b"
+}
+
+latene: "La Tène\nc.450 – 50 BCE" {
+  style.fill: "#cfd8cf"
+}
+
+scotland: "Celts reach Scotland\nfrom c.600 BCE" {
+  style.fill: "#cfd8cf"
+}
+
+falkirk: "Falkirk tartan\ncheap natural check —\nsurvived as a pot-stopper\nc.250 AD" {
+  style.fill: "#bcd0d8"
+}
+
+affric: "Glen Affric tartan\noldest true Scottish tartan\nc.1500 – 1600 AD" {
+  style.fill: "#bcd0d8"
+}
+
+modern: "Modern Scottish tartan\nformalised 18th – 19th C" {
+  style.fill: "#9fb8c9"
+}
+
+hallstatt -> tarim: "east"
+hallstatt -> latene: "west"
+latene -> scotland -> falkirk -> affric -> modern

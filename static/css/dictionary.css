@@ -33,30 +33,19 @@
   word-break: break-word;
 }
 
-/* Hallstatt external border: a faint tartan fills the viewport behind the centred content column
-   (body.container is max-width 900px, margin auto), so on wider screens the plaid shows as a woven
-   frame around the page — like matted artwork. A tartan is just warp + weft: two perpendicular sets
-   of translucent stripes that blend where they cross, over a pale ground. Pure CSS, scales to any
-   width, no image. On narrow screens the column fills the width and the frame simply isn't seen. */
+/* External border: a real tartan from the corpus — Drummond of Perth (/setts/s8/…wd0d0d0-yffc800/)
+   — tiles behind the centred content column (body.container is max-width 900px, margin auto), so on
+   wider screens the plaid shows as a woven frame around the page, like matted artwork. The engine's
+   woven render tiles seamlessly (it's a whole number of setts square). A pale wash layered over it
+   (the first, opaque-ish gradient) mutes the vivid plaid to a faint frame so it never competes with
+   the reading card. On narrow screens the column fills the width and the frame simply isn't seen. */
 html {
   background-color: #edf0ea;
   background-image:
-    repeating-linear-gradient(90deg,
-      transparent 0 17px,
-      rgba(44, 64, 132, .10) 17px 25px,
-      transparent 25px 39px,
-      rgba(0, 100, 0, .10) 39px 47px,
-      transparent 47px 64px),
-    repeating-linear-gradient(0deg,
-      transparent 0 17px,
-      rgba(44, 64, 132, .10) 17px 25px,
-      transparent 25px 39px,
-      rgba(0, 100, 0, .10) 39px 47px,
-      transparent 47px 64px),
-    repeating-linear-gradient(90deg,
-      transparent 0 30px, rgba(200, 0, 0, .06) 30px 33px, transparent 33px 64px),
-    repeating-linear-gradient(0deg,
-      transparent 0 30px, rgba(200, 0, 0, .06) 30px 33px, transparent 33px 64px);
+    linear-gradient(rgba(237, 240, 234, .82), rgba(237, 240, 234, .82)),
+    url('../img/drummond-of-perth.png');
+  background-repeat: repeat;
+  background-size: auto, 200px 200px;
 }
 /* Pin the content column to a solid light card with dark text, regardless of colour scheme. The
    theme's prefers-color-scheme:dark turns text white but our tartan frame stays light, so on a

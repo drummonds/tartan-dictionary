@@ -6,7 +6,7 @@ BKWYWYWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6k44w32y4w28y4w32k44-b00008c-k000000-wf8f8f8-yc89800/tartan.png)
+![Woven sample](/setts/s8/k44w32y4w28y4w32k44b6-b00008c-k000000-wf8f8f8-yc89800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWYWYWK
 
 | Tartans |
 |---------------|
-| [Kennison](/setts/s8/b6k44w32y4w28y4w32k44-b00008c-k000000-wf8f8f8-yc89800/)|
-|![Kennison example sett](/setts/s8/b6k44w32y4w28y4w32k44-b00008c-k000000-wf8f8f8-yc89800/sett.png)|
+| [Kennison](/setts/s8/k44w32y4w28y4w32k44b6-b00008c-k000000-wf8f8f8-yc89800/)|
+|![Kennison example sett](/setts/s8/k44w32y4w28y4w32k44b6-b00008c-k000000-wf8f8f8-yc89800/sett.png)|

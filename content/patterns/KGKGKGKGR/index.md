@@ -16,5 +16,5 @@ KGKGKGKGR
 
 | Tartans |
 |---------------|
-| [Urquhart](/setts/s9/k4g18k12ga2k2ga2k2ga12r6-g006818-ga007800-k101010-rc80000/)|
-|![Urquhart example sett](/setts/s9/k4g18k12ga2k2ga2k2ga12r6-g006818-ga007800-k101010-rc80000/sett.png)|
+| [Urquhart](/setts/s9/r6g12k2g2k2g2k12ga18k4-g007800-ga006818-k101010-rc80000/)|
+|![Urquhart example sett](/setts/s9/r6g12k2g2k2g2k12ga18k4-g007800-ga006818-k101010-rc80000/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "Fitzgerald Red"
+title: "Fitzgerald Red (Name)"
 date: 2023-03-18
 ---
 In pattern [KRWRBRBRGRBRWRK](/patterns/krwrbrbrgrbrwrk/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1197
+Original link http://www.tartansauthority.com/tartan-ferret/display/576/
 
 ## Thread count
 K/8 R8 W8 R56 B8 R8 B50 R8 G50 R8 B8 R56 W8 R8 K/8

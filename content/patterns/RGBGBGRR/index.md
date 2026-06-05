@@ -6,7 +6,7 @@ RGBGBGRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8ra32g58b38ga16b38g58ra32-b5c5c5c-g003820-ga006818-r880000-ra888888/tartan.png)
+![Woven sample](/setts/s8/r32g58b38ga16b38g58r32ra8-b5c5c5c-g003820-ga006818-r888888-ra880000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGBGBGRR
 
 | Tartans |
 |---------------|
-| [Styrian](/setts/s8/r8ra32g58b38ga16b38g58ra32-b5c5c5c-g003820-ga006818-r880000-ra888888/)|
-|![Styrian example sett](/setts/s8/r8ra32g58b38ga16b38g58ra32-b5c5c5c-g003820-ga006818-r880000-ra888888/sett.png)|
+| [Styrian](/setts/s8/r32g58b38ga16b38g58r32ra8-b5c5c5c-g003820-ga006818-r888888-ra880000/)|
+|![Styrian example sett](/setts/s8/r32g58b38ga16b38g58r32ra8-b5c5c5c-g003820-ga006818-r888888-ra880000/sett.png)|

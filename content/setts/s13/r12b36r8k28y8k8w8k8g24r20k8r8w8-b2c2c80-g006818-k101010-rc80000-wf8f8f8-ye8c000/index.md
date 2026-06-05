@@ -1,13 +1,13 @@
 ---
-title: "Prince Albert #3"
+title: "Prince Albert (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RBRKYKWKGRKRW](/patterns/rbrkykwkgrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3386
+Original link http://www.tartansauthority.com/tartan-ferret/display/6847/
 
 ## Thread count
 R/12 DB36 R8 K28 Y8 K8 W8 K8 G24 R20 K8 R8 W/8

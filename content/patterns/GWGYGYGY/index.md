@@ -6,7 +6,7 @@ GWGYGYGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8w44g40y6g6y6g6y48-g604000-we0e0e0-ya08858/tartan.png)
+![Woven sample](/setts/s8/y48g6y6g6y6g40w44g8-g604000-we0e0e0-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGYGYGY
 
 | Tartans |
 |---------------|
-| [Baillie Dress](/setts/s8/g8w44g40y6g6y6g6y48-g604000-we0e0e0-ya08858/)|
-|![Baillie Dress example sett](/setts/s8/g8w44g40y6g6y6g6y48-g604000-we0e0e0-ya08858/sett.png)|
+| [Baillie Dress](/setts/s8/y48g6y6g6y6g40w44g8-g604000-we0e0e0-ya08858/)|
+|![Baillie Dress example sett](/setts/s8/y48g6y6g6y6g40w44g8-g604000-we0e0e0-ya08858/sett.png)|

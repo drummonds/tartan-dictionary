@@ -16,9 +16,9 @@ RBRGBGBGR
 
 | Tartans |
 |---------------|
-| [Carrick (Clan)](/setts/s9/r14g4b2g4b2g40r6ba24r56-b440044-ba202060-g006818-rc80000/)|
-|![Carrick (Clan) example sett](/setts/s9/r14g4b2g4b2g40r6ba24r56-b440044-ba202060-g006818-rc80000/sett.png)|
-| [Carrick](/setts/s9/r14g4b2g4b2g40r6ba24r56-b800080-ba304080-g008000-rc00000/)|
-|![Carrick example sett](/setts/s9/r14g4b2g4b2g40r6ba24r56-b800080-ba304080-g008000-rc00000/sett.png)|
-| [Carrick District Tartan Tartan Number: 1389. Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. The tartan was designed for Councillor John Hannay by Arthur Galt of Messrs Hugh Galt & Sons, Girvan. There is also a Carrick Green sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r14g4b2g4b2g40r6ba24r56-b780078-ba2c2c80-g006818-rc80000/)|
-|![Carrick District Tartan Tartan Number: 1389. Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. The tartan was designed for Councillor John Hannay by Arthur Galt of Messrs Hugh Galt & Sons, Girvan. There is also a Carrick Green sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/r14g4b2g4b2g40r6ba24r56-b780078-ba2c2c80-g006818-rc80000/sett.png)|
+| [Carrick (Clan)](/setts/s9/r56b24r6g40ba2g4ba2g4r14-b202060-ba440044-g006818-rc80000/)|
+|![Carrick (Clan) example sett](/setts/s9/r56b24r6g40ba2g4ba2g4r14-b202060-ba440044-g006818-rc80000/sett.png)|
+| [Carrick](/setts/s9/r56b24r6g40ba2g4ba2g4r14-b304080-ba800080-g008000-rc00000/)|
+|![Carrick example sett](/setts/s9/r56b24r6g40ba2g4ba2g4r14-b304080-ba800080-g008000-rc00000/sett.png)|
+| [Carrick District Tartan Tartan Number: 1389. Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. The tartan was designed for Councillor John Hannay by Arthur Galt of Messrs Hugh Galt & Sons, Girvan. There is also a Carrick Green sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r56b24r6g40ba2g4ba2g4r14-b2c2c80-ba780078-g006818-rc80000/)|
+|![Carrick District Tartan Tartan Number: 1389. Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. The tartan was designed for Councillor John Hannay by Arthur Galt of Messrs Hugh Galt & Sons, Girvan. There is also a Carrick Green sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/r56b24r6g40ba2g4ba2g4r14-b2c2c80-ba780078-g006818-rc80000/sett.png)|

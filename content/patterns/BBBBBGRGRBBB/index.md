@@ -16,7 +16,7 @@ BBBBBGRGRBBB
 
 | Tartans |
 |---------------|
-| [Doane](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/)|
-|![Doane example sett](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/sett.png)|
-| [Doane (Name)](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/)|
-|![Doane (Name) example sett](/setts/s12/b2ba42bb8ba12bb22g34r6g8r16bb6b2bc6-b1c1c1c-ba202460-bb443048-bc843480-g003820-r780000/sett.png)|
+| [Doane](/setts/s12/b6ba2bb6r16g8r6g34bb22bc12bb8bc42ba2-b843480-ba1c1c1c-bb443048-bc202460-g003820-r780000/)|
+|![Doane example sett](/setts/s12/b6ba2bb6r16g8r6g34bb22bc12bb8bc42ba2-b843480-ba1c1c1c-bb443048-bc202460-g003820-r780000/sett.png)|
+| [Doane (Name)](/setts/s12/b6ba2bb6r16g8r6g34bb22bc12bb8bc42ba2-b843480-ba1c1c1c-bb443048-bc202460-g003820-r780000/)|
+|![Doane (Name) example sett](/setts/s12/b6ba2bb6r16g8r6g34bb22bc12bb8bc42ba2-b843480-ba1c1c1c-bb443048-bc202460-g003820-r780000/sett.png)|

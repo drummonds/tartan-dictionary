@@ -16,7 +16,7 @@ KRBRRBWBR
 
 | Tartans |
 |---------------|
-| [Salt Lake Scots](/setts/s9/k4r12b6r36ra40ba4w4ba4ra34-b000064-ba788cb4-k000000-r8c8c8c-ra640000-wfcfcfc/)|
-|![Salt Lake Scots example sett](/setts/s9/k4r12b6r36ra40ba4w4ba4ra34-b000064-ba788cb4-k000000-r8c8c8c-ra640000-wfcfcfc/sett.png)|
-| [Salt Lake Scots (District)](/setts/s9/k4r12b6r36ra40ba4w4ba4ra34-b000064-ba788cb4-k000000-r8c8c8c-ra640000-wfcfcfc/)|
-|![Salt Lake Scots (District) example sett](/setts/s9/k4r12b6r36ra40ba4w4ba4ra34-b000064-ba788cb4-k000000-r8c8c8c-ra640000-wfcfcfc/sett.png)|
+| [Salt Lake Scots](/setts/s9/r34b4w4b4r40ra36ba6ra12k4-b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc/)|
+|![Salt Lake Scots example sett](/setts/s9/r34b4w4b4r40ra36ba6ra12k4-b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc/sett.png)|
+| [Salt Lake Scots (District)](/setts/s9/r34b4w4b4r40ra36ba6ra12k4-b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc/)|
+|![Salt Lake Scots (District) example sett](/setts/s9/r34b4w4b4r40ra36ba6ra12k4-b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc/sett.png)|

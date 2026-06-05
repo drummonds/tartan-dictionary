@@ -16,5 +16,5 @@ BBRBBWBBBR
 
 | Tartans |
 |---------------|
-| [Marshall](/setts/s10/b12ba16r72ba8b56w4ba96b8ba16r16-b1c1c1c-ba5c5c5c-rc80000-wc0c0c0/)|
-|![Marshall example sett](/setts/s10/b12ba16r72ba8b56w4ba96b8ba16r16-b1c1c1c-ba5c5c5c-rc80000-wc0c0c0/sett.png)|
+| [Marshall](/setts/s10/r16b16ba8b96w4ba56b8r72b16ba12-b5c5c5c-ba1c1c1c-rc80000-wc0c0c0/)|
+|![Marshall example sett](/setts/s10/r16b16ba8b96w4ba56b8r72b16ba12-b5c5c5c-ba1c1c1c-rc80000-wc0c0c0/sett.png)|

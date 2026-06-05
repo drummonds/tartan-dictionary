@@ -6,7 +6,7 @@ GYGYGKRK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g6y6g6y6g54k54r6k14-g003820-k101010-rc80000-yc4bc68/tartan.png)
+![Woven sample](/setts/s8/k14r6k54g54y6g6y6g6-g003820-k101010-rc80000-yc4bc68/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYGYGKRK
 
 | Tartans |
 |---------------|
-| [Brunton (Personal)](/setts/s8/g6y6g6y6g54k54r6k14-g003820-k101010-rc80000-yc4bc68/)|
-|![Brunton (Personal) example sett](/setts/s8/g6y6g6y6g54k54r6k14-g003820-k101010-rc80000-yc4bc68/sett.png)|
-| [Brunton (Personal)](/setts/s8/g6y6g6y6g54k54r6k14-g007c48-k101010-rc80000-yc4bc68/)|
-|![Brunton (Personal) example sett](/setts/s8/g6y6g6y6g54k54r6k14-g007c48-k101010-rc80000-yc4bc68/sett.png)|
+| [Brunton (Personal)](/setts/s8/k14r6k54g54y6g6y6g6-g003820-k101010-rc80000-yc4bc68/)|
+|![Brunton (Personal) example sett](/setts/s8/k14r6k54g54y6g6y6g6-g003820-k101010-rc80000-yc4bc68/sett.png)|
+| [Brunton (Personal)](/setts/s8/k14r6k54g54y6g6y6g6-g007c48-k101010-rc80000-yc4bc68/)|
+|![Brunton (Personal) example sett](/setts/s8/k14r6k54g54y6g6y6g6-g007c48-k101010-rc80000-yc4bc68/sett.png)|

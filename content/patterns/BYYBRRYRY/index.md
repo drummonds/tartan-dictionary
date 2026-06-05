@@ -16,7 +16,7 @@ BYYBRRYRY
 
 | Tartans |
 |---------------|
-| [Titanic](/setts/s9/b4y8ya8b12r12ra12ya4r4ya8-b202060-r888888-rab84c00-ye08070-yae8c000/)|
-|![Titanic example sett](/setts/s9/b4y8ya8b12r12ra12ya4r4ya8-b202060-r888888-rab84c00-ye08070-yae8c000/sett.png)|
-| [Titanic (Artefact)](/setts/s9/b4y8ya8b12r12ra12ya4r4ya8-b202060-r888888-rab84c00-ye08070-yae8c000/)|
-|![Titanic (Artefact) example sett](/setts/s9/b4y8ya8b12r12ra12ya4r4ya8-b202060-r888888-rab84c00-ye08070-yae8c000/sett.png)|
+| [Titanic](/setts/s9/y8r4y4ra12r12b12y8ya8b4-b202060-r888888-rab84c00-ye8c000-yae08070/)|
+|![Titanic example sett](/setts/s9/y8r4y4ra12r12b12y8ya8b4-b202060-r888888-rab84c00-ye8c000-yae08070/sett.png)|
+| [Titanic (Artefact)](/setts/s9/y8r4y4ra12r12b12y8ya8b4-b202060-r888888-rab84c00-ye8c000-yae08070/)|
+|![Titanic (Artefact) example sett](/setts/s9/y8r4y4ra12r12b12y8ya8b4-b202060-r888888-rab84c00-ye8c000-yae08070/sett.png)|

@@ -6,7 +6,7 @@ KBRBWK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k4w10b4r60b64k8-b4444bc-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/k8b64r60b4w10k4-b4444bc-k101010-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRBWK
 
 | Tartans |
 |---------------|
-| [Masai Shuka 17 (Artefact)](/setts/s6/k4w10b4r60b64k8-b4444bc-k101010-rc80000-we0e0e0/)|
-|![Masai Shuka 17 (Artefact) example sett](/setts/s6/k4w10b4r60b64k8-b4444bc-k101010-rc80000-we0e0e0/sett.png)|
+| [Masai Shuka 17 (Artefact)](/setts/s6/k8b64r60b4w10k4-b4444bc-k101010-rc80000-we0e0e0/)|
+|![Masai Shuka 17 (Artefact) example sett](/setts/s6/k8b64r60b4w10k4-b4444bc-k101010-rc80000-we0e0e0/sett.png)|

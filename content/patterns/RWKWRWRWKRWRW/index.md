@@ -16,5 +16,5 @@ RWKWRWRWKRWRW
 
 | Tartans |
 |---------------|
-| [Balmoral (Ghillies white variation)](/setts/s13/r4w4k4w8ra16w4ra4w4k8ra8w32r4w8-k101010-rc80000-ra888888-we0e0e0/)|
-|![Balmoral (Ghillies white variation) example sett](/setts/s13/r4w4k4w8ra16w4ra4w4k8ra8w32r4w8-k101010-rc80000-ra888888-we0e0e0/sett.png)|
+| [Balmoral (Ghillies white variation)](/setts/s13/w8r4w32ra8k8w4ra4w4ra16w8k4w4r4-k101010-rc80000-ra888888-we0e0e0/)|
+|![Balmoral (Ghillies white variation) example sett](/setts/s13/w8r4w32ra8k8w4ra4w4ra16w8k4w4r4-k101010-rc80000-ra888888-we0e0e0/sett.png)|

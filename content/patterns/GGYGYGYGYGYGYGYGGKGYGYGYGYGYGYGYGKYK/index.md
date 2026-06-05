@@ -16,7 +16,7 @@ GGYGYGYGYGYGYGYGGKGYGYGYGYGYGYGYGKYK
 
 | Tartans |
 |---------------|
-| [Nova Scotia (Commemorative)](/setts/s36/g8ga12y56ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga16g48k24g80y40g2y2g2y2g2y2g2y2g2y2g2y2g16k16y32k100-g003820-ga289c18-k000000-ybc8c00/)|
-|![Nova Scotia (Commemorative) example sett](/setts/s36/g8ga12y56ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga16g48k24g80y40g2y2g2y2g2y2g2y2g2y2g2y2g16k16y32k100-g003820-ga289c18-k000000-ybc8c00/sett.png)|
-| [Alberta (Commemorative)](/setts/s36/g4ga6y28ga1y1ga1y1ga1y1ga1y1ga1y1ga1y1ga8g24k12g40y20g1y1g1y1g1y1g1y1g1y1g1y1g8k8y16k50-g604000-ga003820-k000000-ybc8c00/)|
-|![Alberta (Commemorative) example sett](/setts/s36/g4ga6y28ga1y1ga1y1ga1y1ga1y1ga1y1ga1y1ga8g24k12g40y20g1y1g1y1g1y1g1y1g1y1g1y1g8k8y16k50-g604000-ga003820-k000000-ybc8c00/sett.png)|
+| [Nova Scotia (Commemorative)](/setts/s36/k100y32k16g16y2g2y2g2y2g2y2g2y2g2y2g2y40g80k24g48ga16y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y56ga12g8-g003820-ga289c18-k000000-ybc8c00/)|
+|![Nova Scotia (Commemorative) example sett](/setts/s36/k100y32k16g16y2g2y2g2y2g2y2g2y2g2y2g2y40g80k24g48ga16y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y56ga12g8-g003820-ga289c18-k000000-ybc8c00/sett.png)|
+| [Alberta (Commemorative)](/setts/s36/k50y16k8g8y1g1y1g1y1g1y1g1y1g1y1g1y20g40k12g24ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y28ga6g4-g604000-ga003820-k000000-ybc8c00/)|
+|![Alberta (Commemorative) example sett](/setts/s36/k50y16k8g8y1g1y1g1y1g1y1g1y1g1y1g1y20g40k12g24ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y28ga6g4-g604000-ga003820-k000000-ybc8c00/sett.png)|

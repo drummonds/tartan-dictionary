@@ -16,5 +16,5 @@ WKGBGKBKBKBKBY
 
 | Tartans |
 |---------------|
-| [Alexander-Johnstone (Personal)](/setts/s14/w4k2g16b4g16k4ba4k4ba4k4ba48k2ba4y6-b440044-ba5c8ca8-g006818-k101010-wfcfcfc-ye8c000/)|
-|![Alexander-Johnstone (Personal) example sett](/setts/s14/w4k2g16b4g16k4ba4k4ba4k4ba48k2ba4y6-b440044-ba5c8ca8-g006818-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Alexander-Johnstone (Personal)](/setts/s14/y6b4k2b48k4b4k4b4k4g16ba4g16k2w4-b5c8ca8-ba440044-g006818-k101010-wfcfcfc-ye8c000/)|
+|![Alexander-Johnstone (Personal) example sett](/setts/s14/y6b4k2b48k4b4k4b4k4g16ba4g16k2w4-b5c8ca8-ba440044-g006818-k101010-wfcfcfc-ye8c000/sett.png)|

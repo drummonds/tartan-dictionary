@@ -16,5 +16,5 @@ YBWYWBRWBRY
 
 | Tartans |
 |---------------|
-| [Unidentified](/setts/s11/y16r40b40w40r16b16w16y16w16b16y32-b5c8ca8-rc80000-w98c8e8-ydc943c/)|
-|![Unidentified example sett](/setts/s11/y16r40b40w40r16b16w16y16w16b16y32-b5c8ca8-rc80000-w98c8e8-ydc943c/sett.png)|
+| [Unidentified](/setts/s11/y32b16w16y16w16b16r16w40b40r40y16-b5c8ca8-rc80000-w98c8e8-ydc943c/)|
+|![Unidentified example sett](/setts/s11/y32b16w16y16w16b16r16w40b40r40y16-b5c8ca8-rc80000-w98c8e8-ydc943c/sett.png)|

@@ -16,7 +16,7 @@ WBYBBBBBBBYBY
 
 | Tartans |
 |---------------|
-| [Buglass](/setts/s13/w4b6y4b52ba24bb6ba4bb4ba4bb32ya2bb2ya6-b4c3428-ba441800-bb345460-wc0c0c0-yc4bc68-yad87c00/)|
-|![Buglass example sett](/setts/s13/w4b6y4b52ba24bb6ba4bb4ba4bb32ya2bb2ya6-b4c3428-ba441800-bb345460-wc0c0c0-yc4bc68-yad87c00/sett.png)|
-| [Buglass (Personal)](/setts/s13/w4b6y4b52ba24bb6ba4bb4ba4bb32ya2bb2ya6-b4c3428-ba441800-bb345460-wc0c0c0-yc4bc68-yad87c00/)|
-|![Buglass (Personal) example sett](/setts/s13/w4b6y4b52ba24bb6ba4bb4ba4bb32ya2bb2ya6-b4c3428-ba441800-bb345460-wc0c0c0-yc4bc68-yad87c00/sett.png)|
+| [Buglass](/setts/s13/y6b2y2b32ba4b4ba4b6ba24bb52ya4bb6w4-b345460-ba441800-bb4c3428-wc0c0c0-yd87c00-yac4bc68/)|
+|![Buglass example sett](/setts/s13/y6b2y2b32ba4b4ba4b6ba24bb52ya4bb6w4-b345460-ba441800-bb4c3428-wc0c0c0-yd87c00-yac4bc68/sett.png)|
+| [Buglass (Personal)](/setts/s13/y6b2y2b32ba4b4ba4b6ba24bb52ya4bb6w4-b345460-ba441800-bb4c3428-wc0c0c0-yd87c00-yac4bc68/)|
+|![Buglass (Personal) example sett](/setts/s13/y6b2y2b32ba4b4ba4b6ba24bb52ya4bb6w4-b345460-ba441800-bb4c3428-wc0c0c0-yd87c00-yac4bc68/sett.png)|

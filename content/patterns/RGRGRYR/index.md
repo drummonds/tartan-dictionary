@@ -22,8 +22,8 @@ RGRGRYR
 |![Cameron Ancient example sett](/setts/s7/r58y3r6g16r12g16r6-g005020-rdc0000-ye8c000/sett.png)|
 | [Caspari](/setts/s7/r16y4r30g20r8g20r8-g006818-rc80000-ye8c000/)|
 |![Caspari example sett](/setts/s7/r16y4r30g20r8g20r8-g006818-rc80000-ye8c000/sett.png)|
-| [Wasko (Personal)](/setts/s7/r6g24r6g24r60y4ra16-g003c20-r640000-ra9c0000-yb0b0b0/)|
-|![Wasko (Personal) example sett](/setts/s7/r6g24r6g24r60y4ra16-g003c20-r640000-ra9c0000-yb0b0b0/sett.png)|
+| [Wasko (Personal)](/setts/s7/r16y4ra60g24ra6g24ra6-g003c20-r9c0000-ra640000-yb0b0b0/)|
+|![Wasko (Personal) example sett](/setts/s7/r16y4ra60g24ra6g24ra6-g003c20-r9c0000-ra640000-yb0b0b0/sett.png)|
 | [Caspari (Corporate)](/setts/s7/r16y4r30g20r8g20r8-g006818-rc80000-ye8c000/)|
 |![Caspari (Corporate) example sett](/setts/s7/r16y4r30g20r8g20r8-g006818-rc80000-ye8c000/sett.png)|
 | [Cameron, Ancient](/setts/s7/r58y3r6g16r12g16r6-g008000-rc00000-yf0c000/)|

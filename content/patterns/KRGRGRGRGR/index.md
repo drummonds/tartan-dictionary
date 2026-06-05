@@ -16,5 +16,5 @@ KRGRGRGRGR
 
 | Tartans |
 |---------------|
-| [Connell (Dalgliesh) (Personal)](/setts/s10/k4r12g48r4g8r8g8r4g48r12-g006818-k101010-rc80000/)|
-|![Connell (Dalgliesh) (Personal) example sett](/setts/s10/k4r12g48r4g8r8g8r4g48r12-g006818-k101010-rc80000/sett.png)|
+| [Connell (Dalgliesh) (Personal)](/setts/s10/r12g48r4g8r8g8r4g48r12k4-g006818-k101010-rc80000/)|
+|![Connell (Dalgliesh) (Personal) example sett](/setts/s10/r12g48r4g8r8g8r4g48r12k4-g006818-k101010-rc80000/sett.png)|

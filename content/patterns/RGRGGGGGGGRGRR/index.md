@@ -16,5 +16,5 @@ RGRGGGGGGGRGRR
 
 | Tartans |
 |---------------|
-| [Unidentified Lindley #6](/setts/s14/r6g4r76ga60g6ga6g6ga6g6ga60r76g4r6ra8-g604000-ga789484-r98481c-rac80000/)|
-|![Unidentified Lindley #6 example sett](/setts/s14/r6g4r76ga60g6ga6g6ga6g6ga60r76g4r6ra8-g604000-ga789484-r98481c-rac80000/sett.png)|
+| [Unidentified Lindley #6](/setts/s14/r8ra6g4ra76ga60g6ga6g6ga6g6ga60ra76g4ra6-g604000-ga789484-rc80000-ra98481c/)|
+|![Unidentified Lindley #6 example sett](/setts/s14/r8ra6g4ra76ga60g6ga6g6ga6g6ga60ra76g4ra6-g604000-ga789484-rc80000-ra98481c/sett.png)|

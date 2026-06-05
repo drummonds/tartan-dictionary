@@ -16,7 +16,7 @@ BBBKGKRKGKYKGK
 
 | Tartans |
 |---------------|
-| [Gow Hunting #2](/setts/s14/b48ba12b48k48g48k4r12k4g48k4y12k4g48k96-b2c4084-ba080848-g005020-k101010-rdc0000-ye8c000/)|
-|![Gow Hunting #2 example sett](/setts/s14/b48ba12b48k48g48k4r12k4g48k4y12k4g48k96-b2c4084-ba080848-g005020-k101010-rdc0000-ye8c000/sett.png)|
-| [Gow, hunting](/setts/s14/b48ba12b48k48g48k4r12k4g48k4y12k4g48k96-b304080-ba000050-g008000-k000000-rc00000-yf0c000/)|
-|![Gow, hunting example sett](/setts/s14/b48ba12b48k48g48k4r12k4g48k4y12k4g48k96-b304080-ba000050-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Gow Hunting #2](/setts/s14/k96g48k4y12k4g48k4r12k4g48k48b48ba12b48-b2c4084-ba080848-g005020-k101010-rdc0000-ye8c000/)|
+|![Gow Hunting #2 example sett](/setts/s14/k96g48k4y12k4g48k4r12k4g48k48b48ba12b48-b2c4084-ba080848-g005020-k101010-rdc0000-ye8c000/sett.png)|
+| [Gow, hunting](/setts/s14/k96g48k4y12k4g48k4r12k4g48k48b48ba12b48-b304080-ba000050-g008000-k000000-rc00000-yf0c000/)|
+|![Gow, hunting example sett](/setts/s14/k96g48k4y12k4g48k4r12k4g48k48b48ba12b48-b304080-ba000050-g008000-k000000-rc00000-yf0c000/sett.png)|

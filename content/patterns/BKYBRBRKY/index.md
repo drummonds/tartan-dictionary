@@ -16,7 +16,7 @@ BKYBRBRKY
 
 | Tartans |
 |---------------|
-| [Montgomerie, Colin](/setts/s9/b2k80y2ba8r24ba6ra10k2y4-b5c4494-ba5c5c5c-k101010-r888888-rac80000-ya0a0a0/)|
-|![Montgomerie, Colin example sett](/setts/s9/b2k80y2ba8r24ba6ra10k2y4-b5c4494-ba5c5c5c-k101010-r888888-rac80000-ya0a0a0/sett.png)|
-| [Montgomerie, Colin (Corporate)](/setts/s9/b2k80y2ba8r24ba6ra10k2y4-b5c4494-ba5c5c5c-k101010-r888888-rac80000-ya0a0a0/)|
-|![Montgomerie, Colin (Corporate) example sett](/setts/s9/b2k80y2ba8r24ba6ra10k2y4-b5c4494-ba5c5c5c-k101010-r888888-rac80000-ya0a0a0/sett.png)|
+| [Montgomerie, Colin](/setts/s9/y4k2r10b6ra24b8y2k80ba2-b5c5c5c-ba5c4494-k101010-rc80000-ra888888-ya0a0a0/)|
+|![Montgomerie, Colin example sett](/setts/s9/y4k2r10b6ra24b8y2k80ba2-b5c5c5c-ba5c4494-k101010-rc80000-ra888888-ya0a0a0/sett.png)|
+| [Montgomerie, Colin (Corporate)](/setts/s9/y4k2r10b6ra24b8y2k80ba2-b5c5c5c-ba5c4494-k101010-rc80000-ra888888-ya0a0a0/)|
+|![Montgomerie, Colin (Corporate) example sett](/setts/s9/y4k2r10b6ra24b8y2k80ba2-b5c5c5c-ba5c4494-k101010-rc80000-ra888888-ya0a0a0/sett.png)|

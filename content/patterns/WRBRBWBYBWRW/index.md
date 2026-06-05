@@ -16,7 +16,7 @@ WRBRBWBYBWRW
 
 | Tartans |
 |---------------|
-| [Unidentified #54](/setts/s12/w4r8b4r24ba24w4ba4y4ba4w12ra8w96-b3474fc-ba502814-r8c6428-ra8c0000-wc8c8c8-yc89800/)|
-|![Unidentified #54 example sett](/setts/s12/w4r8b4r24ba24w4ba4y4ba4w12ra8w96-b3474fc-ba502814-r8c6428-ra8c0000-wc8c8c8-yc89800/sett.png)|
-| [Diana, Plaid dress](/setts/s12/w4r6b4r12ba22w4ba4y4ba4w14ra6w92-b8080d0-ba401000-r906030-rac00000-we0e0e0-yf0c000/)|
-|![Diana, Plaid dress example sett](/setts/s12/w4r6b4r12ba22w4ba4y4ba4w14ra6w92-b8080d0-ba401000-r906030-rac00000-we0e0e0-yf0c000/sett.png)|
+| [Unidentified #54](/setts/s12/w96r8w12b4y4b4w4b24ra24ba4ra8w4-b502814-ba3474fc-r8c0000-ra8c6428-wc8c8c8-yc89800/)|
+|![Unidentified #54 example sett](/setts/s12/w96r8w12b4y4b4w4b24ra24ba4ra8w4-b502814-ba3474fc-r8c0000-ra8c6428-wc8c8c8-yc89800/sett.png)|
+| [Diana, Plaid dress](/setts/s12/w92r6w14b4y4b4w4b22ra12ba4ra6w4-b401000-ba8080d0-rc00000-ra906030-we0e0e0-yf0c000/)|
+|![Diana, Plaid dress example sett](/setts/s12/w92r6w14b4y4b4w4b22ra12ba4ra6w4-b401000-ba8080d0-rc00000-ra906030-we0e0e0-yf0c000/sett.png)|

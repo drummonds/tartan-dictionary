@@ -16,5 +16,5 @@ WBBBBRBBW
 
 | Tartans |
 |---------------|
-| [Caitriot](/setts/s9/w6b4ba26bb32b28r16ba28b4w6-b5c8ca8-ba5c5c5c-bb202060-r888888-wfcfcfc/)|
-|![Caitriot example sett](/setts/s9/w6b4ba26bb32b28r16ba28b4w6-b5c8ca8-ba5c5c5c-bb202060-r888888-wfcfcfc/sett.png)|
+| [Caitriot](/setts/s9/w6b4ba28r16b28bb32ba26b4w6-b5c8ca8-ba5c5c5c-bb202060-r888888-wfcfcfc/)|
+|![Caitriot example sett](/setts/s9/w6b4ba28r16b28bb32ba26b4w6-b5c8ca8-ba5c5c5c-bb202060-r888888-wfcfcfc/sett.png)|

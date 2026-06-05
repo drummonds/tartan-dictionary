@@ -16,5 +16,5 @@ GRGRGRGRGRGRGRGRGRGR
 
 | Tartans |
 |---------------|
-| [MacIntosh, Ancient](/setts/s20/g4r2g2r2g8r2g2r2g4r2g2r10ga10r4g4r6g8r4ga2r10-g008000-ga808080-rc00000/)|
-|![MacIntosh, Ancient example sett](/setts/s20/g4r2g2r2g8r2g2r2g4r2g2r10ga10r4g4r6g8r4ga2r10-g008000-ga808080-rc00000/sett.png)|
+| [MacIntosh, Ancient](/setts/s20/r10g2r4ga8r6ga4r4g10r10ga2r2ga4r2ga2r2ga8r2ga2r2ga4-g808080-ga008000-rc00000/)|
+|![MacIntosh, Ancient example sett](/setts/s20/r10g2r4ga8r6ga4r4g10r10ga2r2ga4r2ga2r2ga8r2ga2r2ga4-g808080-ga008000-rc00000/sett.png)|

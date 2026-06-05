@@ -6,7 +6,7 @@ KYKYYK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k24y10ya2k2ya10k72-k101010-ya0a0a0-yaffe600/tartan.png)
+![Woven sample](/setts/s6/k72y10k2y2ya10k24-k101010-yffe600-yaa0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKYYK
 
 | Tartans |
 |---------------|
-| [Merola (2016)](/setts/s6/k24y10ya2k2ya10k72-k101010-ya0a0a0-yaffe600/)|
-|![Merola (2016) example sett](/setts/s6/k24y10ya2k2ya10k72-k101010-ya0a0a0-yaffe600/sett.png)|
+| [Merola (2016)](/setts/s6/k72y10k2y2ya10k24-k101010-yffe600-yaa0a0a0/)|
+|![Merola (2016) example sett](/setts/s6/k72y10k2y2ya10k24-k101010-yffe600-yaa0a0a0/sett.png)|

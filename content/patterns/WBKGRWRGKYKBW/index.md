@@ -16,5 +16,5 @@ WBKGRWRGKYKBW
 
 | Tartans |
 |---------------|
-| [Nova Scotia Medical Examiner Service](/setts/s13/w4b4k18y2k40g8r4w4r4g18k64b4w4-b2c4084-g003820-k101010-rc80000-wffffff-yffff00/)|
-|![Nova Scotia Medical Examiner Service example sett](/setts/s13/w4b4k18y2k40g8r4w4r4g18k64b4w4-b2c4084-g003820-k101010-rc80000-wffffff-yffff00/sett.png)|
+| [Nova Scotia Medical Examiner Service](/setts/s13/w4b4k64g18r4w4r4g8k40y2k18b4w4-b2c4084-g003820-k101010-rc80000-wffffff-yffff00/)|
+|![Nova Scotia Medical Examiner Service example sett](/setts/s13/w4b4k64g18r4w4r4g8k40y2k18b4w4-b2c4084-g003820-k101010-rc80000-wffffff-yffff00/sett.png)|

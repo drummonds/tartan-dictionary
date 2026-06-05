@@ -16,5 +16,5 @@ RWBWBWBGGGGGBWBWBW
 
 | Tartans |
 |---------------|
-| [Scotch House (Corporate)](/setts/s18/r6w32b4w4b4w6b12g4g44g8g44g4b12w6b4w4b4w32-b202060-g8c7038-r880000-wa8ace8/)|
-|![Scotch House (Corporate) example sett](/setts/s18/r6w32b4w4b4w6b12g4g44g8g44g4b12w6b4w4b4w32-b202060-g8c7038-r880000-wa8ace8/sett.png)|
+| [Scotch House (Corporate)](/setts/s18/w32b4w4b4w6b12g4g44g8g44g4b12w6b4w4b4w32r6-b202060-g8c7038-r880000-wa8ace8/)|
+|![Scotch House (Corporate) example sett](/setts/s18/w32b4w4b4w6b12g4g44g8g44g4b12w6b4w4b4w32r6-b202060-g8c7038-r880000-wa8ace8/sett.png)|

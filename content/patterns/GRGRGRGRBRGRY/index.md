@@ -16,5 +16,5 @@ GRGRGRGRBRGRY
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid 16](/setts/s13/g12r12ga44r42g6r18g6r42b55r12g30r18y18-b304080-g003000-ga008000-rc00000-yf0c000/)|
-|![Unidentified Plaid 16 example sett](/setts/s13/g12r12ga44r42g6r18g6r42b55r12g30r18y18-b304080-g003000-ga008000-rc00000-yf0c000/sett.png)|
+| [Unidentified Plaid 16](/setts/s13/y18r18g30r12b55r42g6r18g6r42ga44r12g12-b304080-g003000-ga008000-rc00000-yf0c000/)|
+|![Unidentified Plaid 16 example sett](/setts/s13/y18r18g30r12b55r42g6r18g6r42ga44r12g12-b304080-g003000-ga008000-rc00000-yf0c000/sett.png)|

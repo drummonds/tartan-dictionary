@@ -6,7 +6,7 @@ RBW
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/r4b56w36-b000050-rb00000-wa0a0dc/tartan.png)
+![Woven sample](/setts/s3/r96b64w12-b5c2458-re82460-we8e8e8/tartan.png)
 
 
 
@@ -18,8 +18,6 @@ RBW
 
 | Tartans |
 |---------------|
-| [Stakis Hotels](/setts/s3/r4b56w36-b000050-rb00000-wa0a0dc/)|
-|![Stakis Hotels example sett](/setts/s3/r4b56w36-b000050-rb00000-wa0a0dc/sett.png)|
 | [National Autistic Society Scotland](/setts/s3/r96b64w12-b5c2458-re82460-we8e8e8/)|
 |![National Autistic Society Scotland example sett](/setts/s3/r96b64w12-b5c2458-re82460-we8e8e8/sett.png)|
 | [National Autistic Society Scotland](/setts/s3/r96b64w12-b440044-re87878-wfcfcfc/)|

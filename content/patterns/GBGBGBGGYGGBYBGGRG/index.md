@@ -16,7 +16,7 @@ GBGBGBGGYGGBYBGGRG
 
 | Tartans |
 |---------------|
-| [Turcan Connell](/setts/s18/g18r8g18ga30b24y12b24g28ga10y10g16ga28b6ga16b8ga16b6ga54-b1c1c1c-g00643c-ga604000-rc80000-ya0a0a0/)|
-|![Turcan Connell example sett](/setts/s18/g18r8g18ga30b24y12b24g28ga10y10g16ga28b6ga16b8ga16b6ga54-b1c1c1c-g00643c-ga604000-rc80000-ya0a0a0/sett.png)|
-| [Turcan Connell (Corporate)](/setts/s18/g18r8g18ga30b24y12b24g28ga10y10g16ga28b6ga16b8ga16b6ga54-b1c1c1c-g00643c-ga604000-rc80000-ya0a0a0/)|
-|![Turcan Connell (Corporate) example sett](/setts/s18/g18r8g18ga30b24y12b24g28ga10y10g16ga28b6ga16b8ga16b6ga54-b1c1c1c-g00643c-ga604000-rc80000-ya0a0a0/sett.png)|
+| [Turcan Connell](/setts/s18/g54b6g16b8g16b6g28ga16y10g10ga28b24y12b24g30ga18r8ga18-b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0/)|
+|![Turcan Connell example sett](/setts/s18/g54b6g16b8g16b6g28ga16y10g10ga28b24y12b24g30ga18r8ga18-b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0/sett.png)|
+| [Turcan Connell (Corporate)](/setts/s18/g54b6g16b8g16b6g28ga16y10g10ga28b24y12b24g30ga18r8ga18-b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0/)|
+|![Turcan Connell (Corporate) example sett](/setts/s18/g54b6g16b8g16b6g28ga16y10g10ga28b24y12b24g30ga18r8ga18-b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0/sett.png)|

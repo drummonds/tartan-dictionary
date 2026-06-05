@@ -6,7 +6,7 @@ WBBRY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w8b56ba56r8y16-b000064-ba78849c-rc80000-wc8d8dc-ya0a0a0/tartan.png)
+![Woven sample](/setts/s5/y16r8b56ba56w8-b78849c-ba000064-rc80000-wc8d8dc-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBBRY
 
 | Tartans |
 |---------------|
-| [Bryson (1988) (Name)](/setts/s5/w8b56ba56r8y16-b000064-ba78849c-rc80000-wc8d8dc-ya0a0a0/)|
-|![Bryson (1988) (Name) example sett](/setts/s5/w8b56ba56r8y16-b000064-ba78849c-rc80000-wc8d8dc-ya0a0a0/sett.png)|
+| [Bryson (1988) (Name)](/setts/s5/y16r8b56ba56w8-b78849c-ba000064-rc80000-wc8d8dc-ya0a0a0/)|
+|![Bryson (1988) (Name) example sett](/setts/s5/y16r8b56ba56w8-b78849c-ba000064-rc80000-wc8d8dc-ya0a0a0/sett.png)|

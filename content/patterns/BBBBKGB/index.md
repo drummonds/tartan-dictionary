@@ -6,7 +6,7 @@ BBBBKGB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b36ba10b4ba12k6g48b36-b440044-ba001a99-g003c14-k000000/tartan.png)
+![Woven sample](/setts/s7/b36g48k6ba12b4ba10b36-b440044-ba001a99-g003c14-k000000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBKGB
 
 | Tartans |
 |---------------|
-| [Saorsa](/setts/s7/b36ba10b4ba12k6g48b36-b440044-ba001a99-g003c14-k000000/)|
-|![Saorsa example sett](/setts/s7/b36ba10b4ba12k6g48b36-b440044-ba001a99-g003c14-k000000/sett.png)|
+| [Saorsa](/setts/s7/b36g48k6ba12b4ba10b36-b440044-ba001a99-g003c14-k000000/)|
+|![Saorsa example sett](/setts/s7/b36g48k6ba12b4ba10b36-b440044-ba001a99-g003c14-k000000/sett.png)|

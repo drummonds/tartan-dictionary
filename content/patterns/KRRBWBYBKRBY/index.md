@@ -16,5 +16,5 @@ KRRBWBYBKRBY
 
 | Tartans |
 |---------------|
-| [London '88](/setts/s12/k4r4ra4b6w10b4y4b4k8r8b110y8-b2c2c80-k101010-r888888-rac80000-we0e0e0-ye8c000/)|
-|![London '88 example sett](/setts/s12/k4r4ra4b6w10b4y4b4k8r8b110y8-b2c2c80-k101010-r888888-rac80000-we0e0e0-ye8c000/sett.png)|
+| [London '88](/setts/s12/y8b110r8k8b4y4b4w10b6ra4r4k4-b2c2c80-k101010-r888888-rac80000-we0e0e0-ye8c000/)|
+|![London '88 example sett](/setts/s12/y8b110r8k8b4y4b4w10b6ra4r4k4-b2c2c80-k101010-r888888-rac80000-we0e0e0-ye8c000/sett.png)|

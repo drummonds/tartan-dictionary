@@ -1,13 +1,13 @@
 ---
-title: "Innes Red, Dress (Dance)"
+title: "Innes Dress, Red (Dance)"
 date: 2023-03-18
 ---
 In pattern [BKYRYRYRYRBRKGKRY](/patterns/bkyryryryrbrkgkry/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5173
+Original link http://www.tartansauthority.com/tartan-ferret/display/3384/
 
 ## Thread count
 B/6 K4 N40 DR4 N6 DR4 N6 DR8 DY6 DR4 DB8 DR4 K4 G12 K6 DR4 N/6

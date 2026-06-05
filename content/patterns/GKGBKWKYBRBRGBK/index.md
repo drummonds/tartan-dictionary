@@ -16,5 +16,5 @@ GKGBKWKYBRBRGBK
 
 | Tartans |
 |---------------|
-| [Astrobiology](/setts/s15/g6k4g4b8k12w2k2y2b24r2b4r6g2b2k46-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/)|
-|![Astrobiology example sett](/setts/s15/g6k4g4b8k12w2k2y2b24r2b4r6g2b2k46-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/sett.png)|
+| [Astrobiology](/setts/s15/k46b2g2r6b4r2b24y2k2w2k12b8g4k4g6-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/)|
+|![Astrobiology example sett](/setts/s15/k46b2g2r6b4r2b24y2k2w2k12b8g4k4g6-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/sett.png)|

@@ -6,7 +6,7 @@ BRBKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6r6b34k34g34y8-b304080-g008000-k000000-rc00000-yb0b0b0/tartan.png)
+![Woven sample](/setts/s6/y8g34k34b34r6b6-b304080-g008000-k000000-rc00000-yb0b0b0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBKGY
 
 | Tartans |
 |---------------|
-| [Royal Highland](/setts/s6/b6r6b34k34g34y8-b304080-g008000-k000000-rc00000-yb0b0b0/)|
-|![Royal Highland example sett](/setts/s6/b6r6b34k34g34y8-b304080-g008000-k000000-rc00000-yb0b0b0/sett.png)|
+| [Royal Highland](/setts/s6/y8g34k34b34r6b6-b304080-g008000-k000000-rc00000-yb0b0b0/)|
+|![Royal Highland example sett](/setts/s6/y8g34k34b34r6b6-b304080-g008000-k000000-rc00000-yb0b0b0/sett.png)|

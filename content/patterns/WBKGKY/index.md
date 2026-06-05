@@ -6,7 +6,7 @@ WBKGKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w12b56k48g48k8y12-b1474b4-g285800-k101010-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/w12b56k48g48k8y12-b1474b4-g006818-k101010-wfcfcfc-ye8c000/tartan.png)
 
 
 
@@ -18,8 +18,6 @@ WBKGKY
 
 | Tartans |
 |---------------|
-| [MacNeil of Barra](/setts/s6/w12b56k48g48k8y12-b1474b4-g285800-k101010-we0e0e0-ye8c000/)|
-|![MacNeil of Barra example sett](/setts/s6/w12b56k48g48k8y12-b1474b4-g285800-k101010-we0e0e0-ye8c000/sett.png)|
 | [MacNeil of Barra (Clan)](/setts/s6/w12b56k48g48k8y12-b1474b4-g006818-k101010-wfcfcfc-ye8c000/)|
 |![MacNeil of Barra (Clan) example sett](/setts/s6/w12b56k48g48k8y12-b1474b4-g006818-k101010-wfcfcfc-ye8c000/sett.png)|
 | [MacNeil of Barra](/setts/s6/w3b14k12g12k2y3-b000064-g004c00-k000000-wd0d0d0-yc8c800/)|

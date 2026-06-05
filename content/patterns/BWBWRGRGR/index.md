@@ -16,5 +16,5 @@ BWBWRGRGR
 
 | Tartans |
 |---------------|
-| [Prince of Denmark (Corporate)](/setts/s9/b8w8b8w12r12g8r8g8r208-b2c2c80-g285800-rc8002c-we0e0e0/)|
-|![Prince of Denmark (Corporate) example sett](/setts/s9/b8w8b8w12r12g8r8g8r208-b2c2c80-g285800-rc8002c-we0e0e0/sett.png)|
+| [Prince of Denmark (Corporate)](/setts/s9/r208g8r8g8r12w12b8w8b8-b2c2c80-g285800-rc8002c-we0e0e0/)|
+|![Prince of Denmark (Corporate) example sett](/setts/s9/r208g8r8g8r12w12b8w8b8-b2c2c80-g285800-rc8002c-we0e0e0/sett.png)|

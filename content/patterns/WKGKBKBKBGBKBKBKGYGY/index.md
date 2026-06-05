@@ -16,5 +16,5 @@ WKGKBKBKBGBKBKBKGYGY
 
 | Tartans |
 |---------------|
-| [Fyvie](/setts/s20/w8k4g30k18b4k4b4k4b18g10b18k4b4k4b4k18g30y4g4y10-b2c4084-g005020-k101010-we0e0e0-ye8c000/)|
-|![Fyvie example sett](/setts/s20/w8k4g30k18b4k4b4k4b18g10b18k4b4k4b4k18g30y4g4y10-b2c4084-g005020-k101010-we0e0e0-ye8c000/sett.png)|
+| [Fyvie](/setts/s20/y10g4y4g30k18b4k4b4k4b18g10b18k4b4k4b4k18g30k4w8-b2c4084-g005020-k101010-we0e0e0-ye8c000/)|
+|![Fyvie example sett](/setts/s20/y10g4y4g30k18b4k4b4k4b18g10b18k4b4k4b4k18g30k4w8-b2c4084-g005020-k101010-we0e0e0-ye8c000/sett.png)|

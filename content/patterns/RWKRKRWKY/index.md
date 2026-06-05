@@ -16,5 +16,5 @@ RWKRKRWKY
 
 | Tartans |
 |---------------|
-| [Norton (Corporate)](/setts/s9/r2w3k6r2k6r2w3k6y75-k101010-r888888-we0e0e0-ye8c000/)|
-|![Norton (Corporate) example sett](/setts/s9/r2w3k6r2k6r2w3k6y75-k101010-r888888-we0e0e0-ye8c000/sett.png)|
+| [Norton (Corporate)](/setts/s9/y75k6w3r2k6r2k6w3r2-k101010-r888888-we0e0e0-ye8c000/)|
+|![Norton (Corporate) example sett](/setts/s9/y75k6w3r2k6r2k6w3r2-k101010-r888888-we0e0e0-ye8c000/sett.png)|

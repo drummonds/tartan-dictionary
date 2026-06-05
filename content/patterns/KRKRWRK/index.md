@@ -6,7 +6,7 @@ KRKRWRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k2r4k36r1w35r4k4-k000000-ra07c58-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRKRWRK
 
 | Tartans |
 |---------------|
-| [Gleneagles](/setts/s7/k2r4k36r1w35r4k4-k000000-ra07c58-wfcfcfc/)|
-|![Gleneagles example sett](/setts/s7/k2r4k36r1w35r4k4-k000000-ra07c58-wfcfcfc/sett.png)|
-| [Gleneagles (Fashion)](/setts/s7/k2r4k36r1w35r4k4-k000000-ra07c58-wfcfcfc/)|
-|![Gleneagles (Fashion) example sett](/setts/s7/k2r4k36r1w35r4k4-k000000-ra07c58-wfcfcfc/sett.png)|
+| [Gleneagles](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/)|
+|![Gleneagles example sett](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/sett.png)|
+| [Gleneagles (Fashion)](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/)|
+|![Gleneagles (Fashion) example sett](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/sett.png)|

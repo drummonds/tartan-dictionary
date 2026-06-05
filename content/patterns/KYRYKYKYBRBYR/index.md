@@ -16,5 +16,5 @@ KYRYKYKYBRBYR
 
 | Tartans |
 |---------------|
-| [Bartlett (Personal)](/setts/s13/k6y6r4y8k4y8k4y60b24r4b24y80ra8-b5c5c5c-k101010-r888888-rac8002c-ya08858/)|
-|![Bartlett (Personal) example sett](/setts/s13/k6y6r4y8k4y8k4y60b24r4b24y80ra8-b5c5c5c-k101010-r888888-rac8002c-ya08858/sett.png)|
+| [Bartlett (Personal)](/setts/s13/r8y80b24ra4b24y60k4y8k4y8ra4y6k6-b5c5c5c-k101010-rc8002c-ra888888-ya08858/)|
+|![Bartlett (Personal) example sett](/setts/s13/r8y80b24ra4b24y60k4y8k4y8ra4y6k6-b5c5c5c-k101010-rc8002c-ra888888-ya08858/sett.png)|

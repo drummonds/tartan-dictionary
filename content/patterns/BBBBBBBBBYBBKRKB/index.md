@@ -16,7 +16,7 @@ BBBBBBBBBYBBKRKB
 
 | Tartans |
 |---------------|
-| [Frogaletto (Personal)](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/)|
-|![Frogaletto (Personal) example sett](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/sett.png)|
-| [Frogaletto (Personal)](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/)|
-|![Frogaletto (Personal) example sett](/setts/s16/b16k8r4k6b28ba20y4ba4bb4ba10b18ba6b4ba4b4ba52-b003c64-ba506878-bb5c8ca8-k101010-rc8002c-yd0c888/sett.png)|
+| [Frogaletto (Personal)](/setts/s16/b52ba4b4ba4b6ba18b10bb4b4y4b20ba28k6r4k8ba16-b506878-ba003c64-bb5c8ca8-k101010-rc8002c-yd0c888/)|
+|![Frogaletto (Personal) example sett](/setts/s16/b52ba4b4ba4b6ba18b10bb4b4y4b20ba28k6r4k8ba16-b506878-ba003c64-bb5c8ca8-k101010-rc8002c-yd0c888/sett.png)|
+| [Frogaletto (Personal)](/setts/s16/b52ba4b4ba4b6ba18b10bb4b4y4b20ba28k6r4k8ba16-b506878-ba003c64-bb5c8ca8-k101010-rc8002c-yd0c888/)|
+|![Frogaletto (Personal) example sett](/setts/s16/b52ba4b4ba4b6ba18b10bb4b4y4b20ba28k6r4k8ba16-b506878-ba003c64-bb5c8ca8-k101010-rc8002c-yd0c888/sett.png)|

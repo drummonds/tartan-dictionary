@@ -1,13 +1,13 @@
 ---
-title: "Macallan Distillery"
+title: "Macallan Distillery (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BRBRBYKGRGRG](/patterns/brbrbykgrgrg/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2272
+Original link http://www.tartansauthority.com/tartan-ferret/display/5836/
 
 ## Thread count
 B/16 R2 B4 R6 B24 Y2 K24 G24 R6 G4 R2 G/16

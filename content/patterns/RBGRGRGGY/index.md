@@ -16,5 +16,5 @@ RBGRGRGGY
 
 | Tartans |
 |---------------|
-| [Glens of Corbie](/setts/s9/r4b40g6ra6g6ra12g40ga60y6-b003c64-g5c6428-ga006818-rc80000-ra94783c-ybc8c00/)|
-|![Glens of Corbie example sett](/setts/s9/r4b40g6ra6g6ra12g40ga60y6-b003c64-g5c6428-ga006818-rc80000-ra94783c-ybc8c00/sett.png)|
+| [Glens of Corbie](/setts/s9/y6g60ga40r12ga6r6ga6b40ra4-b003c64-g006818-ga5c6428-r94783c-rac80000-ybc8c00/)|
+|![Glens of Corbie example sett](/setts/s9/y6g60ga40r12ga6r6ga6b40ra4-b003c64-g006818-ga5c6428-r94783c-rac80000-ybc8c00/sett.png)|

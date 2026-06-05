@@ -16,5 +16,5 @@ GKGYWYWYWK
 
 | Tartans |
 |---------------|
-| [Wcwm 1399](/setts/s10/g16k6g20y4w4y4w4y32w6k88-g8c7038-k101010-we8ccb8-yd09800/)|
-|![Wcwm 1399 example sett](/setts/s10/g16k6g20y4w4y4w4y32w6k88-g8c7038-k101010-we8ccb8-yd09800/sett.png)|
+| [Wcwm 1399](/setts/s10/k88w6y32w4y4w4y4g20k6g16-g8c7038-k101010-we8ccb8-yd09800/)|
+|![Wcwm 1399 example sett](/setts/s10/k88w6y32w4y4w4y4g20k6g16-g8c7038-k101010-we8ccb8-yd09800/sett.png)|

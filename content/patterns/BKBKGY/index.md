@@ -6,7 +6,7 @@ BKBKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4k4b32k32g32y10-b202060-g006818-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s6/y10g32k32b32k4b4-b202060-g006818-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKGY
 
 | Tartans |
 |---------------|
-| [Hudson Valley Reg. Police P & D (Cor](/setts/s6/b4k4b32k32g32y10-b202060-g006818-k101010-ye8c000/)|
-|![Hudson Valley Reg. Police P & D (Cor example sett](/setts/s6/b4k4b32k32g32y10-b202060-g006818-k101010-ye8c000/sett.png)|
+| [Hudson Valley Reg. Police P & D (Cor](/setts/s6/y10g32k32b32k4b4-b202060-g006818-k101010-ye8c000/)|
+|![Hudson Valley Reg. Police P & D (Cor example sett](/setts/s6/y10g32k32b32k4b4-b202060-g006818-k101010-ye8c000/sett.png)|

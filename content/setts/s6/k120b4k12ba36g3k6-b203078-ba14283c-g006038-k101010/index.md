@@ -1,13 +1,13 @@
 ---
-title: "Scottish Football Association"
+title: "Scottish Football Association (Corp)"
 date: 2023-03-18
 ---
 In pattern [KBKBGK](/patterns/kbkbgk/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3716
+Original link http://www.tartansauthority.com/tartan-ferret/display/6582/
 
 ## Thread count
 K/120 DB4 K12 DN36 G3 K/6

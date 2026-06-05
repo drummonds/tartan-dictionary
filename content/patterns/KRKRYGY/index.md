@@ -6,7 +6,7 @@ KRKRYGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k26r12k10ra86y12g14y34-g289c18-k101010-r888888-rac80000-ye8c000/tartan.png)
+![Woven sample](/setts/s7/y34g14y12r86k10ra12k26-g289c18-k101010-rc80000-ra888888-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKRYGY
 
 | Tartans |
 |---------------|
-| [Keeling (Corporate)](/setts/s7/k26r12k10ra86y12g14y34-g289c18-k101010-r888888-rac80000-ye8c000/)|
-|![Keeling (Corporate) example sett](/setts/s7/k26r12k10ra86y12g14y34-g289c18-k101010-r888888-rac80000-ye8c000/sett.png)|
+| [Keeling (Corporate)](/setts/s7/y34g14y12r86k10ra12k26-g289c18-k101010-rc80000-ra888888-ye8c000/)|
+|![Keeling (Corporate) example sett](/setts/s7/y34g14y12r86k10ra12k26-g289c18-k101010-rc80000-ra888888-ye8c000/sett.png)|

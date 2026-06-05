@@ -16,7 +16,7 @@ BKBWKBKBRBK
 
 | Tartans |
 |---------------|
-| [Pride of Scotland Contemporary](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/)|
-|![Pride of Scotland Contemporary example sett](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/sett.png)|
-| [Pride of Scotland, Contempo. (Fashio](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/)|
-|![Pride of Scotland, Contempo. (Fashio example sett](/setts/s11/b4k66ba38w2k4ba4k36ba4r4ba4k18-b6c0070-ba5c5c5c-k101010-r888888-wc49cd8/sett.png)|
+| [Pride of Scotland Contemporary](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/)|
+|![Pride of Scotland Contemporary example sett](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/sett.png)|
+| [Pride of Scotland, Contempo. (Fashio](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/)|
+|![Pride of Scotland, Contempo. (Fashio example sett](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/sett.png)|

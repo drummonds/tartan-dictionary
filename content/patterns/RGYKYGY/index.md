@@ -6,7 +6,7 @@ RGYKYGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4g36y8k9y24g4y12-g003820-k101010-r880000-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/y12g4y24k9y8g36r4-g003820-k101010-r880000-ybc8c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RGYKYGY
 
 | Tartans |
 |---------------|
-| [Harmer (Corporate)](/setts/s7/r4g36y8k9y24g4y12-g003820-k101010-r880000-ybc8c00/)|
-|![Harmer (Corporate) example sett](/setts/s7/r4g36y8k9y24g4y12-g003820-k101010-r880000-ybc8c00/sett.png)|
-| [Harmer](/setts/s7/r8g72y18k18y44g8y18-g003000-k000000-rc00000-yf0c000/)|
-|![Harmer example sett](/setts/s7/r8g72y18k18y44g8y18-g003000-k000000-rc00000-yf0c000/sett.png)|
+| [Harmer (Corporate)](/setts/s7/y12g4y24k9y8g36r4-g003820-k101010-r880000-ybc8c00/)|
+|![Harmer (Corporate) example sett](/setts/s7/y12g4y24k9y8g36r4-g003820-k101010-r880000-ybc8c00/sett.png)|
+| [Harmer](/setts/s7/y18g8y44k18y18g72r8-g003000-k000000-rc00000-yf0c000/)|
+|![Harmer example sett](/setts/s7/y18g8y44k18y18g72r8-g003000-k000000-rc00000-yf0c000/sett.png)|

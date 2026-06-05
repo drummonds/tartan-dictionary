@@ -16,5 +16,5 @@ GKBKWKBGBKBKBKBK
 
 | Tartans |
 |---------------|
-| [Maxem Eyewear](/setts/s16/g4k16b208k16w16k16b16g4b52k16ba16k16ba32k32b312k32-b363732-ba5f5c57-g797013-k101010-wffffff/)|
-|![Maxem Eyewear example sett](/setts/s16/g4k16b208k16w16k16b16g4b52k16ba16k16ba32k32b312k32-b363732-ba5f5c57-g797013-k101010-wffffff/sett.png)|
+| [Maxem Eyewear](/setts/s16/k32b312k32ba32k16ba16k16b52g4b16k16w16k16b208k16g4-b363732-ba5f5c57-g797013-k101010-wffffff/)|
+|![Maxem Eyewear example sett](/setts/s16/k32b312k32ba32k16ba16k16b52g4b16k16w16k16b208k16g4-b363732-ba5f5c57-g797013-k101010-wffffff/sett.png)|

@@ -6,7 +6,7 @@ GYGR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g78y8g78r208-g003820-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s4/r208g78y8g78-g003820-r880000-yd09800/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ GYGR
 
 | Tartans |
 |---------------|
-| [Scottish Watch](/setts/s4/g78y8g78r208-g003820-r880000-yd09800/)|
-|![Scottish Watch example sett](/setts/s4/g78y8g78r208-g003820-r880000-yd09800/sett.png)|
-| [Lugo (2013)](/setts/s4/g32y8g32r80-g003820-rb03000-ye0a126/)|
-|![Lugo (2013) example sett](/setts/s4/g32y8g32r80-g003820-rb03000-ye0a126/sett.png)|
-| [Lugo (2013)](/setts/s4/g32y8g32r80-g003820-rc80000-ye8c000/)|
-|![Lugo (2013) example sett](/setts/s4/g32y8g32r80-g003820-rc80000-ye8c000/sett.png)|
+| [Scottish Watch](/setts/s4/r208g78y8g78-g003820-r880000-yd09800/)|
+|![Scottish Watch example sett](/setts/s4/r208g78y8g78-g003820-r880000-yd09800/sett.png)|
+| [Lugo (2013)](/setts/s4/r80g32y8g32-g003820-rb03000-ye0a126/)|
+|![Lugo (2013) example sett](/setts/s4/r80g32y8g32-g003820-rb03000-ye0a126/sett.png)|
+| [Lugo (2013)](/setts/s4/r80g32y8g32-g003820-rc80000-ye8c000/)|
+|![Lugo (2013) example sett](/setts/s4/r80g32y8g32-g003820-rc80000-ye8c000/sett.png)|

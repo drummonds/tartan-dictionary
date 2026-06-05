@@ -16,5 +16,5 @@ GKRWRBGGRGRGRG
 
 | Tartans |
 |---------------|
-| [Hill 70](/setts/s14/g4r4g4r4g4r4g16ga16b16r16w4r4k4ga72-b2c2c80-g005020-ga6b8a96-k1c1714-rc82828-wf8f8f8/)|
-|![Hill 70 example sett](/setts/s14/g4r4g4r4g4r4g16ga16b16r16w4r4k4ga72-b2c2c80-g005020-ga6b8a96-k1c1714-rc82828-wf8f8f8/sett.png)|
+| [Hill 70](/setts/s14/g72k4r4w4r16b16g16ga16r4ga4r4ga4r4ga4-b2c2c80-g6b8a96-ga005020-k1c1714-rc82828-wf8f8f8/)|
+|![Hill 70 example sett](/setts/s14/g72k4r4w4r16b16g16ga16r4ga4r4ga4r4ga4-b2c2c80-g6b8a96-ga005020-k1c1714-rc82828-wf8f8f8/sett.png)|

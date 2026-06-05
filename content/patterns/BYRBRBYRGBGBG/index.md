@@ -16,9 +16,9 @@ BYRBRBYRGBGBG
 
 | Tartans |
 |---------------|
-| [Pitcairn Heritage](/setts/s13/b4y4r18b12r56b4y4ra56g6b8g6b8g6-b1870a4-g009468-rc80050-raa00000-yf09400/)|
-|![Pitcairn Heritage example sett](/setts/s13/b4y4r18b12r56b4y4ra56g6b8g6b8g6-b1870a4-g009468-rc80050-raa00000-yf09400/sett.png)|
-| [Pitcairn Heritage (Name)](/setts/s13/b4y4r18b12r56b4y4ra56g6b8g6b8g6-b1870a4-g009468-rc80050-raa00000-yf09400/)|
-|![Pitcairn Heritage (Name) example sett](/setts/s13/b4y4r18b12r56b4y4ra56g6b8g6b8g6-b1870a4-g009468-rc80050-raa00000-yf09400/sett.png)|
-| [Pitcairn Trust Company](/setts/s13/b4y4r16b10r44ba4y4ra44g6ba6g6ba6g6-b5480b0-ba304080-g30a010-rc00000-ra802040-yf0c000/)|
-|![Pitcairn Trust Company example sett](/setts/s13/b4y4r16b10r44ba4y4ra44g6ba6g6ba6g6-b5480b0-ba304080-g30a010-rc00000-ra802040-yf0c000/sett.png)|
+| [Pitcairn Heritage](/setts/s13/g6b8g6b8g6r56y4b4ra56b12ra18y4b4-b1870a4-g009468-ra00000-rac80050-yf09400/)|
+|![Pitcairn Heritage example sett](/setts/s13/g6b8g6b8g6r56y4b4ra56b12ra18y4b4-b1870a4-g009468-ra00000-rac80050-yf09400/sett.png)|
+| [Pitcairn Heritage (Name)](/setts/s13/g6b8g6b8g6r56y4b4ra56b12ra18y4b4-b1870a4-g009468-ra00000-rac80050-yf09400/)|
+|![Pitcairn Heritage (Name) example sett](/setts/s13/g6b8g6b8g6r56y4b4ra56b12ra18y4b4-b1870a4-g009468-ra00000-rac80050-yf09400/sett.png)|
+| [Pitcairn Trust Company](/setts/s13/g6b6g6b6g6r44y4b4ra44ba10ra16y4ba4-b304080-ba5480b0-g30a010-r802040-rac00000-yf0c000/)|
+|![Pitcairn Trust Company example sett](/setts/s13/g6b6g6b6g6r44y4b4ra44ba10ra16y4ba4-b304080-ba5480b0-g30a010-r802040-rac00000-yf0c000/sett.png)|

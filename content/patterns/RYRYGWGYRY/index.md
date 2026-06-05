@@ -16,5 +16,5 @@ RYRYGWGYRY
 
 | Tartans |
 |---------------|
-| [J & B Whisky (Original) (Corporate)](/setts/s10/r4y14r6y12g32w10g32y24r6y18-g5c6428-rc80000-wfcfcfc-yfccc00/)|
-|![J & B Whisky (Original) (Corporate) example sett](/setts/s10/r4y14r6y12g32w10g32y24r6y18-g5c6428-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [J & B Whisky (Original) (Corporate)](/setts/s10/y18r6y24g32w10g32y12r6y14r4-g5c6428-rc80000-wfcfcfc-yfccc00/)|
+|![J & B Whisky (Original) (Corporate) example sett](/setts/s10/y18r6y24g32w10g32y12r6y14r4-g5c6428-rc80000-wfcfcfc-yfccc00/sett.png)|

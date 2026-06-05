@@ -16,5 +16,5 @@ BBBBBBBBBWBWB
 
 | Tartans |
 |---------------|
-| [Highland Sky (Fashion)](/setts/s13/b14w8b40wa2b2ba4b4bb22b2ba2b4ba4b86-b485074-ba003c64-bb14283c-we8ccb8-waa8ace8/)|
-|![Highland Sky (Fashion) example sett](/setts/s13/b14w8b40wa2b2ba4b4bb22b2ba2b4ba4b86-b485074-ba003c64-bb14283c-we8ccb8-waa8ace8/sett.png)|
+| [Highland Sky (Fashion)](/setts/s13/b86ba4b4ba2b2bb22b4ba4b2w2b40wa8b14-b485074-ba003c64-bb14283c-wa8ace8-wae8ccb8/)|
+|![Highland Sky (Fashion) example sett](/setts/s13/b86ba4b4ba2b2bb22b4ba4b2w2b40wa8b14-b485074-ba003c64-bb14283c-wa8ace8-wae8ccb8/sett.png)|

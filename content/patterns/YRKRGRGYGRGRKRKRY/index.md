@@ -16,5 +16,5 @@ YRKRGRGYGRGRKRKRY
 
 | Tartans |
 |---------------|
-| [Gaffney (2016)](/setts/s17/y2r2k4r4k4r26g16r4g6y2g6r4g16r28k8r4y2-g006400-k000000-rff0000-yffd700/)|
-|![Gaffney (2016) example sett](/setts/s17/y2r2k4r4k4r26g16r4g6y2g6r4g16r28k8r4y2-g006400-k000000-rff0000-yffd700/sett.png)|
+| [Gaffney (2016)](/setts/s17/y2r4k8r28g16r4g6y2g6r4g16r26k4r4k4r2y2-g006400-k000000-rff0000-yffd700/)|
+|![Gaffney (2016) example sett](/setts/s17/y2r4k8r28g16r4g6y2g6r4g16r26k4r4k4r2y2-g006400-k000000-rff0000-yffd700/sett.png)|

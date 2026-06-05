@@ -20,5 +20,5 @@ BGKGR
 |---------------|
 | [Waugh](/setts/s5/b100g10k5g10r8-b000080-g65909a-k000000-rb22222/)|
 |![Waugh example sett](/setts/s5/b100g10k5g10r8-b000080-g65909a-k000000-rb22222/sett.png)|
-| [Espy (Fashion?)](/setts/s5/b16g48k16g48r160-b1474b4-g006818-k101010-rc80000/)|
-|![Espy (Fashion?) example sett](/setts/s5/b16g48k16g48r160-b1474b4-g006818-k101010-rc80000/sett.png)|
+| [Espy (Fashion?)](/setts/s5/r160g48k16g48b16-b1474b4-g006818-k101010-rc80000/)|
+|![Espy (Fashion?) example sett](/setts/s5/r160g48k16g48b16-b1474b4-g006818-k101010-rc80000/sett.png)|

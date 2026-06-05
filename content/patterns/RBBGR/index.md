@@ -6,7 +6,7 @@ RBBGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4b44ba22g46r4-b1474b4-ba2c2c80-g406054-rc80000/tartan.png)
+![Woven sample](/setts/s5/r4g46b22ba44r4-b2c2c80-ba1474b4-g406054-rc80000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBBGR
 
 | Tartans |
 |---------------|
-| [Skibo (Corporate)](/setts/s5/r4b44ba22g46r4-b1474b4-ba2c2c80-g406054-rc80000/)|
-|![Skibo (Corporate) example sett](/setts/s5/r4b44ba22g46r4-b1474b4-ba2c2c80-g406054-rc80000/sett.png)|
-| [Skibo](/setts/s5/r4b44ba22g46r4-b304080-ba000050-g008000-rc00000/)|
-|![Skibo example sett](/setts/s5/r4b44ba22g46r4-b304080-ba000050-g008000-rc00000/sett.png)|
+| [Skibo (Corporate)](/setts/s5/r4g46b22ba44r4-b2c2c80-ba1474b4-g406054-rc80000/)|
+|![Skibo (Corporate) example sett](/setts/s5/r4g46b22ba44r4-b2c2c80-ba1474b4-g406054-rc80000/sett.png)|
+| [Skibo](/setts/s5/r4g46b22ba44r4-b000050-ba304080-g008000-rc00000/)|
+|![Skibo example sett](/setts/s5/r4g46b22ba44r4-b000050-ba304080-g008000-rc00000/sett.png)|

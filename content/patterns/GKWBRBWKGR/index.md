@@ -16,5 +16,5 @@ GKWBRBWKGR
 
 | Tartans |
 |---------------|
-| [Sinclair](/setts/s10/g24k10w4b24r60b12w4k10g24r60-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Sinclair example sett](/setts/s10/g24k10w4b24r60b12w4k10g24r60-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Sinclair](/setts/s10/r60g24k10w4b12r60b24w4k10g24-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![Sinclair example sett](/setts/s10/r60g24k10w4b12r60b24w4k10g24-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ BBGGYYYYRRRBKKBBBGGYYYYRBK
 
 | Tartans |
 |---------------|
-| [(1) Trithart](/setts/s26/b8ba8g8ga8y8ya8yb8yc8r8ra8rb8bb8k14k20bb2b2ba2g2ga2y2ya2yb2yc2r2bc2k158-b0004ff-ba658eff-bb550075-bc3e414d-g007d00-ga00aa00-k000000-rca6959-rabe414d-rb8e2865-y00e300-yae7df59-ybdfb675-ycd29269/)|
-|![(1) Trithart example sett](/setts/s26/b8ba8g8ga8y8ya8yb8yc8r8ra8rb8bb8k14k20bb2b2ba2g2ga2y2ya2yb2yc2r2bc2k158-b0004ff-ba658eff-bb550075-bc3e414d-g007d00-ga00aa00-k000000-rca6959-rabe414d-rb8e2865-y00e300-yae7df59-ybdfb675-ycd29269/sett.png)|
+| [(1) Trithart](/setts/s26/k158b2r2y2ya2yb2yc2g2ga2ba2bb2bc2k20k14bc8ra8rb8r8y8ya8yb8yc8g8ga8ba8bb8-b3e414d-ba658eff-bb0004ff-bc550075-g00aa00-ga007d00-k000000-rca6959-ra8e2865-rbbe414d-yd29269-yadfb675-ybe7df59-yc00e300/)|
+|![(1) Trithart example sett](/setts/s26/k158b2r2y2ya2yb2yc2g2ga2ba2bb2bc2k20k14bc8ra8rb8r8y8ya8yb8yc8g8ga8ba8bb8-b3e414d-ba658eff-bb0004ff-bc550075-g00aa00-ga007d00-k000000-rca6959-ra8e2865-rbbe414d-yd29269-yadfb675-ybe7df59-yc00e300/sett.png)|

@@ -16,5 +16,5 @@ WKWGKGGGWW
 
 | Tartans |
 |---------------|
-| [State Seal of Alaska (Fashion)](/setts/s10/w8wa24g4ga38gb8k22ga16wa66k2w98-g604000-ga006818-gb289c18-k101010-wc0c0c0-wa98c8e8/)|
-|![State Seal of Alaska (Fashion) example sett](/setts/s10/w8wa24g4ga38gb8k22ga16wa66k2w98-g604000-ga006818-gb289c18-k101010-wc0c0c0-wa98c8e8/sett.png)|
+| [State Seal of Alaska (Fashion)](/setts/s10/w98k2wa66g16k22ga8g38gb4wa24w8-g006818-ga289c18-gb604000-k101010-wc0c0c0-wa98c8e8/)|
+|![State Seal of Alaska (Fashion) example sett](/setts/s10/w98k2wa66g16k22ga8g38gb4wa24w8-g006818-ga289c18-gb604000-k101010-wc0c0c0-wa98c8e8/sett.png)|

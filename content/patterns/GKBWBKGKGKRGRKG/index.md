@@ -16,5 +16,5 @@ GKBWBKGKGKRGRKG
 
 | Tartans |
 |---------------|
-| [Redgate Hunting #2 (Name)](/setts/s15/g8k4r8g4r8k4g14k32ga14k4b12w2b12k4ga10-b1474b4-g5c6428-ga604000-k101010-r880000-we8ccb8/)|
-|![Redgate Hunting #2 (Name) example sett](/setts/s15/g8k4r8g4r8k4g14k32ga14k4b12w2b12k4ga10-b1474b4-g5c6428-ga604000-k101010-r880000-we8ccb8/sett.png)|
+| [Redgate Hunting #2 (Name)](/setts/s15/g10k4b12w2b12k4g14k32ga14k4r8ga4r8k4ga8-b1474b4-g604000-ga5c6428-k101010-r880000-we8ccb8/)|
+|![Redgate Hunting #2 (Name) example sett](/setts/s15/g10k4b12w2b12k4g14k32ga14k4r8ga4r8k4ga8-b1474b4-g604000-ga5c6428-k101010-r880000-we8ccb8/sett.png)|

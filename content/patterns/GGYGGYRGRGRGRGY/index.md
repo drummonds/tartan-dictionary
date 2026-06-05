@@ -16,5 +16,5 @@ GGYGGYRGRGRGRGY
 
 | Tartans |
 |---------------|
-| [Prince David](/setts/s15/g6ga2y4g6ga2y4r42g36r4g6r4g36r42ga2y8-g008000-ga30a010-r806050-yff8500/)|
-|![Prince David example sett](/setts/s15/g6ga2y4g6ga2y4r42g36r4g6r4g36r42ga2y8-g008000-ga30a010-r806050-yff8500/sett.png)|
+| [Prince David](/setts/s15/y8g2r42ga36r4ga6r4ga36r42y4g2ga6y4g2ga6-g30a010-ga008000-r806050-yff8500/)|
+|![Prince David example sett](/setts/s15/y8g2r42ga36r4ga6r4ga36r42y4g2ga6y4g2ga6-g30a010-ga008000-r806050-yff8500/sett.png)|

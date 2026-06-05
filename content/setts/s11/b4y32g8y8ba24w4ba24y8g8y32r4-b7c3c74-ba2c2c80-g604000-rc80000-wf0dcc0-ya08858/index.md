@@ -1,13 +1,13 @@
 ---
-title: "MacKessog"
+title: "MacKessog (Commemorative)"
 date: 2023-03-18
 ---
 In pattern [BYGYBWBYGYR](/patterns/bygybwbygyr/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2535
+Original link http://www.tartansauthority.com/tartan-ferret/display/6928/
 
 ## Thread count
 N/4 LT32 T8 LT8 DB24 W4 DB24 LT8 T8 LT32 R/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F0DCC0;"><span style="color:#F0DCC0;filter:grayscale(1) invert(1) contrast(100);">#F0DCC0</span></code> `#F0DCC0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.07 |
 
 ID: /setts/s11/b4y32g8y8ba24w4ba24y8g8y32r4-b7c3c74-ba2c2c80-g604000-rc80000-wf0dcc0-ya08858/
-c0-ya08858/

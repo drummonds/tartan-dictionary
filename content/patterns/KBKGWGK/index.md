@@ -22,8 +22,8 @@ KBKGWGK
 |![MacLaggan example sett](/setts/s7/k26g24w4g24k26b24k4-b440044-g006818-k101010-wffffff/sett.png)|
 | [Graham of Montrose - 1850 (Clan)](/setts/s7/k18g18w4g18k18b18k6-b2c2c80-g006818-k101010-wfcfcfc/)|
 |![Graham of Montrose - 1850 (Clan) example sett](/setts/s7/k18g18w4g18k18b18k6-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
-| [Graham of Montrose](/setts/s7/k1b4k4g4w1g4k4-b00004c-g004c00-k000000-wd0d0d0/)|
-|![Graham of Montrose example sett](/setts/s7/k1b4k4g4w1g4k4-b00004c-g004c00-k000000-wd0d0d0/sett.png)|
+| [Graham of Montrose](/setts/s7/k4g4w1g4k4b4k1-b00004c-g004c00-k000000-wd0d0d0/)|
+|![Graham of Montrose example sett](/setts/s7/k4g4w1g4k4b4k1-b00004c-g004c00-k000000-wd0d0d0/sett.png)|
 | [Graham of Montrose](/setts/s7/k16g16w4g16k16b16k4-b304080-g008000-k000000-we0e0e0/)|
 |![Graham of Montrose example sett](/setts/s7/k16g16w4g16k16b16k4-b304080-g008000-k000000-we0e0e0/sett.png)|
 | [MacLaggan](/setts/s7/k28g24w4g24k28b28k4-b304080-g008000-k000000-we0e0e0/)|

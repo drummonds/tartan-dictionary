@@ -6,7 +6,7 @@ WBRYRKRY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w4b30r8y28r54k2r8ya6-b1c1c50-k101010-rf82808-we0e0e0-y949c40-yae8c000/tartan.png)
+![Woven sample](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WBRYRKRY
 
 | Tartans |
 |---------------|
-| [Dalmagarry (Personal)](/setts/s8/w4b30r8y28r54k2r8ya6-b1c1c50-k101010-rf82808-we0e0e0-y949c40-yae8c000/)|
-|![Dalmagarry (Personal) example sett](/setts/s8/w4b30r8y28r54k2r8ya6-b1c1c50-k101010-rf82808-we0e0e0-y949c40-yae8c000/sett.png)|
-| [Dalmagarry (Corporate)](/setts/s8/w4b30r8y28r54k2r8ya6-b1c1c50-k101010-rf82808-we0e0e0-y949c40-yae8c000/)|
-|![Dalmagarry (Corporate) example sett](/setts/s8/w4b30r8y28r54k2r8ya6-b1c1c50-k101010-rf82808-we0e0e0-y949c40-yae8c000/sett.png)|
+| [Dalmagarry (Personal)](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/)|
+|![Dalmagarry (Personal) example sett](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/sett.png)|
+| [Dalmagarry (Corporate)](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/)|
+|![Dalmagarry (Corporate) example sett](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/sett.png)|

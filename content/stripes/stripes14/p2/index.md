@@ -6,13 +6,6 @@ weight: 14
 Tartan setts with 14 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes14/">‹ prev</a> <a href="/stripes/stripes14/">1</a> <strong>2</strong> <a href="/stripes/stripes14/p3/">3</a> <a href="/stripes/stripes14/p3/">next ›</a></nav>
 
-### GGGKGKRGWGGGKY
-<a class="pat" href="/patterns/gggkgkrgwgggky/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GGGKGKRGWGGGKY</span></a>
-
-| Tartan |
-|---|
-| [Celtic F.C.](/patterns/gggkgkrgwgggky/) |
-
 ### GGGWGWGGGKYKGG
 <a class="pat" href="/patterns/gggwgwgggkykgg/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="seq">GGGWGWGGGKYKGG</span></a>
 
@@ -26,13 +19,6 @@ Tartan setts with 14 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Wexford, County](/patterns/gggwkwgggkykgg/) |
-
-### GGKGBGBGBGBGKG
-<a class="pat" href="/patterns/ggkgbgbgbgbgkg/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="seq">GGKGBGBGBGBGKG</span></a>
-
-| Tartan |
-|---|
-| [Pringle, James](/patterns/ggkgbgbgbgbgkg/) |
 
 ### GGRGWGRGWGRGGR
 <a class="pat" href="/patterns/ggrgwgrgwgrggr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">GGRGWGRGWGRGGR</span></a>
@@ -810,13 +796,6 @@ Tartan setts with 14 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Humphries (Personal)](/patterns/kkkkkkgkrkgkkw/) |
-
-### KKKKYGKGWKBRKY
-<a class="pat" href="/patterns/kkkkygkgwkbrky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KKKKYGKGWKBRKY</span></a>
-
-| Tartan |
-|---|
-| [Chafee of Glenmary (Personal)](/patterns/kkkkygkgwkbrky/) |
 
 ### KRBRBGRKRGBRBR
 <a class="pat" href="/patterns/krbrbgrkrgbrbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRBRBGRKRGBRBR</span></a>
@@ -1661,5 +1640,26 @@ Tartan setts with 14 stripes, grouped by colour-sequence pattern.
 |---|
 | [Taiwan Scottish](/patterns/rwrkrgbkbkbkbw/) |
 | [Tawain Scottish (Commemorative)](/patterns/rwrkrgbkbkbkbw/) |
+
+### RWRKRKWRWGKBKW
+<a class="pat" href="/patterns/rwrkrkwrwgkbkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRKRKWRWGKBKW</span></a>
+
+| Tartan |
+|---|
+| [Kenya](/patterns/rwrkrkwrwgkbkw/) |
+
+### RWRWBWBWBWBWBW
+<a class="pat" href="/patterns/rwrwbwbwbwbwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRWBWBWBWBWBW</span></a>
+
+| Tartan |
+|---|
+| [Polish](/patterns/rwrwbwbwbwbwbw/) |
+
+### RWRWRWKWKWKWKW
+<a class="pat" href="/patterns/rwrwrwkwkwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRWRWKWKWKWKW</span></a>
+
+| Tartan |
+|---|
+| [d'Andeville, Xavier (Personal)](/patterns/rwrwrwkwkwkwkw/) |
 
 <nav class="pager"><a href="/stripes/stripes14/">‹ prev</a> <a href="/stripes/stripes14/">1</a> <strong>2</strong> <a href="/stripes/stripes14/p3/">3</a> <a href="/stripes/stripes14/p3/">next ›</a></nav>

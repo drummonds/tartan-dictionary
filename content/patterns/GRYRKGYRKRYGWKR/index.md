@@ -16,7 +16,7 @@ GRYRKGYRKRYGWKR
 
 | Tartans |
 |---------------|
-| [MacPherson (Crubin Plaid)](/setts/s15/g3r4y9r9k9g36y9r4k1r4y9ga36w1k2r160-g789484-ga003820-k101010-rc80000-wfcfcfc-yd8b000/)|
-|![MacPherson (Crubin Plaid) example sett](/setts/s15/g3r4y9r9k9g36y9r4k1r4y9ga36w1k2r160-g789484-ga003820-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|
-| [MacPherson (Crubin Plaid)](/setts/s15/g3r4y9r9k9g36y9r4k1r4y9ga36w1k2r160-g789484-ga003820-k101010-rc80000-wfcfcfc-yd8b000/)|
-|![MacPherson (Crubin Plaid) example sett](/setts/s15/g3r4y9r9k9g36y9r4k1r4y9ga36w1k2r160-g789484-ga003820-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|
+| [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1g36y9r4k1r4y9ga36k9r9y9r4ga3-g003820-ga789484-k101010-rc80000-wfcfcfc-yd8b000/)|
+|![MacPherson (Crubin Plaid) example sett](/setts/s15/r160k2w1g36y9r4k1r4y9ga36k9r9y9r4ga3-g003820-ga789484-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|
+| [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1g36y9r4k1r4y9ga36k9r9y9r4ga3-g003820-ga789484-k101010-rc80000-wfcfcfc-yd8b000/)|
+|![MacPherson (Crubin Plaid) example sett](/setts/s15/r160k2w1g36y9r4k1r4y9ga36k9r9y9r4ga3-g003820-ga789484-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|

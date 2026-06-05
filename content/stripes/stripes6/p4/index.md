@@ -6,46 +6,6 @@ weight: 6
 Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes6/p3/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p5/">next ›</a></nav>
 
-### KGBGBR
-<a class="pat" href="/patterns/kgbgbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGBGBR</span></a>
-
-| Tartan |
-|---|
-| [Davidson, Half](/patterns/kgbgbr/) |
-| [Davidson, Half..](/patterns/kgbgbr/) |
-| [Hutton](/patterns/kgbgbr/) |
-| [Hutton (Name)](/patterns/kgbgbr/) |
-
-### KGBKRW
-<a class="pat" href="/patterns/kgbkrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGBKRW</span></a>
-
-| Tartan |
-|---|
-| [Bryant (Dalgleish) (Personal)](/patterns/kgbkrw/) |
-
-### KGBRBW
-<a class="pat" href="/patterns/kgbrbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGBRBW</span></a>
-
-| Tartan |
-|---|
-| [Friends of Nordegg](/patterns/kgbrbw/) |
-
-### KGBRBY
-<a class="pat" href="/patterns/kgbrby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KGBRBY</span></a>
-
-| Tartan |
-|---|
-| [Carmichael](/patterns/kgbrby/) |
-| [Carmichael](/patterns/kgbrby/) |
-| [Carmichael Family Tartan Tartan Number: 1078. Earliest known date: 1907 It was the Carmichael of Artherstone who, in 1907, sealed a sample of the Carmichael tartan in the Collection of the Highland Society. This is the first known appearance of the tartan. This sett is sometimes woven in slightly different proportions, most noticable in the black and green stripes. Carmichaels are associated with the Stewarts of Appin and with the MacDougalls (MacMichaels), but all of the name, Carmichael, have the chiefs approval for the wearing of the Carmichael tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/kgbrby/) |
-
-### KGBRGK
-<a class="pat" href="/patterns/kgbrgk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">KGBRGK</span></a>
-
-| Tartan |
-|---|
-| [Eachaidh](/patterns/kgbrgk/) |
-
 ### KGBWBR
 <a class="pat" href="/patterns/kgbwbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGBWBR</span></a>
 
@@ -1355,5 +1315,43 @@ Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Oren Peterson](/patterns/rgbrbw/) |
+
+### RGBWKW
+<a class="pat" href="/patterns/rgbwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBWKW</span></a>
+
+| Tartan |
+|---|
+| [Thompson's Fancy (Fashion)](/patterns/rgbwkw/) |
+
+### RGBYGW
+<a class="pat" href="/patterns/rgbygw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBYGW</span></a>
+
+| Tartan |
+|---|
+| [Glencross, Tynron (Name)](/patterns/rgbygw/) |
+
+### RGGBWY
+<a class="pat" href="/patterns/rggbwy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGGBWY</span></a>
+
+| Tartan |
+|---|
+| [Glencross (Solway) (Personal)](/patterns/rggbwy/) |
+
+### RGGGGW
+<a class="pat" href="/patterns/rggggw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGGGGW</span></a>
+
+| Tartan |
+|---|
+| [Galloway Hunting](/patterns/rggggw/) |
+| [Galloway, hunting](/patterns/rggggw/) |
+
+### RGGGGY
+<a class="pat" href="/patterns/rggggy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGGGGY</span></a>
+
+| Tartan |
+|---|
+| [Galloway](/patterns/rggggy/) |
+| [Galloway Green (yellow line)](/patterns/rggggy/) |
+| [Galloway, Green (yellow line) (Dist)](/patterns/rggggy/) |
 
 <nav class="pager"><a href="/stripes/stripes6/p3/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p5/">next ›</a></nav>

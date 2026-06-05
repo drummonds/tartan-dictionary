@@ -16,5 +16,5 @@ BRYRBWYWYWBW
 
 | Tartans |
 |---------------|
-| [StammBar](/setts/s12/b4r2y4r2b84w8ya4w4ya16w8b16w8-b1870a4-ra00000-wfcfcfc-yfccc00-ya48a4c0/)|
-|![StammBar example sett](/setts/s12/b4r2y4r2b84w8ya4w4ya16w8b16w8-b1870a4-ra00000-wfcfcfc-yfccc00-ya48a4c0/sett.png)|
+| [StammBar](/setts/s12/w8b16w8y16w4y4w8b84r2ya4r2b4-b1870a4-ra00000-wfcfcfc-y48a4c0-yafccc00/)|
+|![StammBar example sett](/setts/s12/w8b16w8y16w4y4w8b84r2ya4r2b4-b1870a4-ra00000-wfcfcfc-y48a4c0-yafccc00/sett.png)|

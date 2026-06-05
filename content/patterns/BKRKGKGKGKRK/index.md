@@ -16,5 +16,5 @@ BKRKGKGKGKRK
 
 | Tartans |
 |---------------|
-| [Ross (Musselburgh) (Personal)](/setts/s12/b4k2r10k26g18k6ga16k6gb12k20r4k12-b780078-g003820-ga006818-gb289c18-k101010-r901c38/)|
-|![Ross (Musselburgh) (Personal) example sett](/setts/s12/b4k2r10k26g18k6ga16k6gb12k20r4k12-b780078-g003820-ga006818-gb289c18-k101010-r901c38/sett.png)|
+| [Ross (Musselburgh) (Personal)](/setts/s12/k12r4k20g12k6ga16k6gb18k26r10k2b4-b780078-g289c18-ga006818-gb003820-k101010-r901c38/)|
+|![Ross (Musselburgh) (Personal) example sett](/setts/s12/k12r4k20g12k6ga16k6gb18k26r10k2b4-b780078-g289c18-ga006818-gb003820-k101010-r901c38/sett.png)|

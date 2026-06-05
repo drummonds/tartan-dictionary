@@ -16,5 +16,5 @@ BKYRWYKWKWKWK
 
 | Tartans |
 |---------------|
-| [Western Australia (Scottish Associations)](/setts/s13/b14k3y3r5w6ya5k2wa5k5wa3k3wa2k114-b0000cd-k101010-rff0000-wffffff-wa82cffd-yffe600-ya86c67c/)|
-|![Western Australia (Scottish Associations) example sett](/setts/s13/b14k3y3r5w6ya5k2wa5k5wa3k3wa2k114-b0000cd-k101010-rff0000-wffffff-wa82cffd-yffe600-ya86c67c/sett.png)|
+| [Western Australia (Scottish Associations)](/setts/s13/k114w2k3w3k5w5k2y5wa6r5ya3k3b14-b0000cd-k101010-rff0000-w82cffd-waffffff-y86c67c-yaffe600/)|
+|![Western Australia (Scottish Associations) example sett](/setts/s13/k114w2k3w3k5w5k2y5wa6r5ya3k3b14-b0000cd-k101010-rff0000-w82cffd-waffffff-y86c67c-yaffe600/sett.png)|

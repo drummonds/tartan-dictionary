@@ -16,5 +16,5 @@ BYBGBYBYBWR
 
 | Tartans |
 |---------------|
-| [Bartlett of El Paso (Name)](/setts/s11/b2y30b2g4b2ya2b78ya2b4w4r6-b003c64-g5c6428-rc8002c-we0e0e0-yc4bc68-yabc8c00/)|
-|![Bartlett of El Paso (Name) example sett](/setts/s11/b2y30b2g4b2ya2b78ya2b4w4r6-b003c64-g5c6428-rc8002c-we0e0e0-yc4bc68-yabc8c00/sett.png)|
+| [Bartlett of El Paso (Name)](/setts/s11/r6w4b4y2b78y2b2g4b2ya30b2-b003c64-g5c6428-rc8002c-we0e0e0-ybc8c00-yac4bc68/)|
+|![Bartlett of El Paso (Name) example sett](/setts/s11/r6w4b4y2b78y2b2g4b2ya30b2-b003c64-g5c6428-rc8002c-we0e0e0-ybc8c00-yac4bc68/sett.png)|

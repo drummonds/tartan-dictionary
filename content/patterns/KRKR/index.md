@@ -28,8 +28,8 @@ KRKR
 |![Lendrum (Black & Red) example sett](/setts/s4/k48r28k4r36-k101010-r880000/sett.png)|
 | [Ettrick (District)](/setts/s4/k20r104k104r20-k101010-rc80000/)|
 |![Ettrick (District) example sett](/setts/s4/k20r104k104r20-k101010-rc80000/sett.png)|
-| [Masai Shuka 12 (Artefact)](/setts/s4/k20r4k20r100-k101010-rc80000/)|
-|![Masai Shuka 12 (Artefact) example sett](/setts/s4/k20r4k20r100-k101010-rc80000/sett.png)|
+| [Masai Shuka 12 (Artefact)](/setts/s4/r100k20r4k20-k101010-rc80000/)|
+|![Masai Shuka 12 (Artefact) example sett](/setts/s4/r100k20r4k20-k101010-rc80000/sett.png)|
 | [Clan Anord (Corporate)](/setts/s4/k6r40k40r6-k101010-r880000/)|
 |![Clan Anord (Corporate) example sett](/setts/s4/k6r40k40r6-k101010-r880000/sett.png)|
 | [MacFarlane Red & Black (Artefact)](/setts/s4/k120r68k12r68-k101010-rc80000/)|

@@ -16,5 +16,5 @@ BWKYBWKWKYKWKWKY
 
 | Tartans |
 |---------------|
-| [Deudon (2015)](/setts/s16/b8w4k2y4b8w10k10w30k64y2k4w2k64w30k10y10-b788cb4-k101010-wffffff-yffff00/)|
-|![Deudon (2015) example sett](/setts/s16/b8w4k2y4b8w10k10w30k64y2k4w2k64w30k10y10-b788cb4-k101010-wffffff-yffff00/sett.png)|
+| [Deudon (2015)](/setts/s16/y10k10w30k64w2k4y2k64w30k10w10b8y4k2w4b8-b788cb4-k101010-wffffff-yffff00/)|
+|![Deudon (2015) example sett](/setts/s16/y10k10w30k64w2k4y2k64w30k10w10b8y4k2w4b8-b788cb4-k101010-wffffff-yffff00/sett.png)|

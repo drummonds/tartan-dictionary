@@ -6,7 +6,7 @@ RWBWBBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4w2b6w2ba76bb76w6-b5c8ca8-ba2c2c80-bb2888c4-rc80000-wffffff/tartan.png)
+![Woven sample](/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wffffff/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RWBWBBW
 
 | Tartans |
 |---------------|
-| [Bousie (Personal)](/setts/s7/r4w2b6w2ba76bb76w6-b5c8ca8-ba2c2c80-bb2888c4-rc80000-wffffff/)|
-|![Bousie (Personal) example sett](/setts/s7/r4w2b6w2ba76bb76w6-b5c8ca8-ba2c2c80-bb2888c4-rc80000-wffffff/sett.png)|
-| [Bousie (Personal)](/setts/s7/r4w2b6w2ba76bb76w6-b5c8ca8-ba2c2c80-bb2888c4-rc80000-wf8f8f8/)|
-|![Bousie (Personal) example sett](/setts/s7/r4w2b6w2ba76bb76w6-b5c8ca8-ba2c2c80-bb2888c4-rc80000-wf8f8f8/sett.png)|
+| [Bousie (Personal)](/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wffffff/)|
+|![Bousie (Personal) example sett](/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wffffff/sett.png)|
+| [Bousie (Personal)](/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wf8f8f8/)|
+|![Bousie (Personal) example sett](/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wf8f8f8/sett.png)|

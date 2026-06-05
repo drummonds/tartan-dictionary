@@ -16,7 +16,7 @@ RBRBBBGBGY
 
 | Tartans |
 |---------------|
-| [Donegal, County](/setts/s10/r4b16r4b36ba10b6g6b6g34y6-b1474b4-ba441800-g285800-r880000-ybc8c00/)|
-|![Donegal, County example sett](/setts/s10/r4b16r4b36ba10b6g6b6g34y6-b1474b4-ba441800-g285800-r880000-ybc8c00/sett.png)|
-| [Donegal, County (District)](/setts/s10/r4b16r4b36ba10b6g6b6g34y6-b1474b4-ba441800-g285800-r880000-ybc8c00/)|
-|![Donegal, County (District) example sett](/setts/s10/r4b16r4b36ba10b6g6b6g34y6-b1474b4-ba441800-g285800-r880000-ybc8c00/sett.png)|
+| [Donegal, County](/setts/s10/y6g34b6g6b6ba10b36r4b16r4-b1474b4-ba441800-g285800-r880000-ybc8c00/)|
+|![Donegal, County example sett](/setts/s10/y6g34b6g6b6ba10b36r4b16r4-b1474b4-ba441800-g285800-r880000-ybc8c00/sett.png)|
+| [Donegal, County (District)](/setts/s10/y6g34b6g6b6ba10b36r4b16r4-b1474b4-ba441800-g285800-r880000-ybc8c00/)|
+|![Donegal, County (District) example sett](/setts/s10/y6g34b6g6b6ba10b36r4b16r4-b1474b4-ba441800-g285800-r880000-ybc8c00/sett.png)|

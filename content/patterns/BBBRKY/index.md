@@ -6,7 +6,7 @@ BBBRKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6ba16b44r4k56y8-b3d3134-ba5f749c-k1c1714-rca2625-ye0a126/tartan.png)
+![Woven sample](/setts/s6/y8k56r4b44ba16b6-b3d3134-ba5f749c-k1c1714-rca2625-ye0a126/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRKY
 
 | Tartans |
 |---------------|
-| [Loch Long One Design](/setts/s6/b6ba16b44r4k56y8-b3d3134-ba5f749c-k1c1714-rca2625-ye0a126/)|
-|![Loch Long One Design example sett](/setts/s6/b6ba16b44r4k56y8-b3d3134-ba5f749c-k1c1714-rca2625-ye0a126/sett.png)|
+| [Loch Long One Design](/setts/s6/y8k56r4b44ba16b6-b3d3134-ba5f749c-k1c1714-rca2625-ye0a126/)|
+|![Loch Long One Design example sett](/setts/s6/y8k56r4b44ba16b6-b3d3134-ba5f749c-k1c1714-rca2625-ye0a126/sett.png)|

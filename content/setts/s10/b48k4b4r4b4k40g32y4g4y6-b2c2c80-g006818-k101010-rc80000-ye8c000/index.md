@@ -1,13 +1,13 @@
 ---
-title: "Watson (Name)"
+title: "Watson Clan Tartan Tartan Number: 307. Earliest known date: 1950 The Watson tartan was designed and manufactured during 1950 for the use of the Clan Watson Society. The design is based on the Gordon and Hunting MacRae tartans. The name is associated in part with the Aberdeenshire area. The Clan Watson Society no longer appears to be active. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKBRBKGYGY](/patterns/bkbrbkgygy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/307/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=307
 
 ## Thread count
 DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y/6

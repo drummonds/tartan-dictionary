@@ -16,5 +16,5 @@ WRRRWRWYW
 
 | Tartans |
 |---------------|
-| [Yair Dance](/setts/s9/w4r8ra4r8w4r36w52y8w6-rec34c4-radc0000-wffffff-yfccc00/)|
-|![Yair Dance example sett](/setts/s9/w4r8ra4r8w4r36w52y8w6-rec34c4-radc0000-wffffff-yfccc00/sett.png)|
+| [Yair Dance](/setts/s9/w6y8w52r36w4r8ra4r8w4-rec34c4-radc0000-wffffff-yfccc00/)|
+|![Yair Dance example sett](/setts/s9/w6y8w52r36w4r8ra4r8w4-rec34c4-radc0000-wffffff-yfccc00/sett.png)|

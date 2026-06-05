@@ -16,5 +16,5 @@ RBRBRBRRYRBYRYY
 
 | Tartans |
 |---------------|
-| [Strathdon (District?)](/setts/s15/r4b26r4b4r4b2r54ra8y8r4b22y16r4y16ya6-b2c2c80-r901c38-rac80000-ybc8c00-yaa0a0a0/)|
-|![Strathdon (District?) example sett](/setts/s15/r4b26r4b4r4b2r54ra8y8r4b22y16r4y16ya6-b2c2c80-r901c38-rac80000-ybc8c00-yaa0a0a0/sett.png)|
+| [Strathdon (District?)](/setts/s15/y6ya16r4ya16b22r4ya8ra8r54b2r4b4r4b26r4-b2c2c80-r901c38-rac80000-ya0a0a0-yabc8c00/)|
+|![Strathdon (District?) example sett](/setts/s15/y6ya16r4ya16b22r4ya8ra8r54b2r4b4r4b26r4-b2c2c80-r901c38-rac80000-ya0a0a0-yabc8c00/sett.png)|

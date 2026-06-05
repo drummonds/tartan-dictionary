@@ -1,13 +1,13 @@
 ---
-title: "Cowie"
+title: "Cowie (Name)"
 date: 2023-03-18
 ---
 In pattern [RBKBGY](/patterns/rbkbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4265
+Original link http://www.tartansauthority.com/tartan-ferret/display/6868/
 
 ## Thread count
 R/6 DBa48 K14 DB22 G22 Y/4

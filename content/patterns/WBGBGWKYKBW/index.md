@@ -16,7 +16,7 @@ WBGBGWKYKBW
 
 | Tartans |
 |---------------|
-| [Pritchard](/setts/s11/w4b4g4b16g24w4k4y4k8ba8w96-b683c8c-ba00008c-g146400-k000000-wfcfcfc-yc89800/)|
-|![Pritchard example sett](/setts/s11/w4b4g4b16g24w4k4y4k8ba8w96-b683c8c-ba00008c-g146400-k000000-wfcfcfc-yc89800/sett.png)|
-| [Pritchard (Name)](/setts/s11/w4b4g4b16g24w4k4y4k8ba8w96-b683c8c-ba00008c-g146400-k000000-wfcfcfc-yc89800/)|
-|![Pritchard (Name) example sett](/setts/s11/w4b4g4b16g24w4k4y4k8ba8w96-b683c8c-ba00008c-g146400-k000000-wfcfcfc-yc89800/sett.png)|
+| [Pritchard](/setts/s11/w96b8k8y4k4w4g24ba16g4ba4w4-b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800/)|
+|![Pritchard example sett](/setts/s11/w96b8k8y4k4w4g24ba16g4ba4w4-b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800/sett.png)|
+| [Pritchard (Name)](/setts/s11/w96b8k8y4k4w4g24ba16g4ba4w4-b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800/)|
+|![Pritchard (Name) example sett](/setts/s11/w96b8k8y4k4w4g24ba16g4ba4w4-b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800/sett.png)|

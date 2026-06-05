@@ -16,5 +16,5 @@ WBWRWBRWBYBYW
 
 | Tartans |
 |---------------|
-| [De Clercq, Christian (Belgium)](/setts/s13/w4y2b4y4b70w18r2ba20w2r2w2ba2w6-b1474b4-ba2c2c80-rc80000-wc0c0c0-ybc8c00/)|
-|![De Clercq, Christian (Belgium) example sett](/setts/s13/w4y2b4y4b70w18r2ba20w2r2w2ba2w6-b1474b4-ba2c2c80-rc80000-wc0c0c0-ybc8c00/sett.png)|
+| [De Clercq, Christian (Belgium)](/setts/s13/w6b2w2r2w2b20r2w18ba70y4ba4y2w4-b2c2c80-ba1474b4-rc80000-wc0c0c0-ybc8c00/)|
+|![De Clercq, Christian (Belgium) example sett](/setts/s13/w6b2w2r2w2b20r2w18ba70y4ba4y2w4-b2c2c80-ba1474b4-rc80000-wc0c0c0-ybc8c00/sett.png)|

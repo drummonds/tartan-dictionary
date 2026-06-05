@@ -6,7 +6,7 @@ KYRKR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k8y8r40k14ra60-k101010-r888888-rab468ac-yfccc00/tartan.png)
+![Woven sample](/setts/s5/r60k14ra40y8k8-k101010-rb468ac-ra888888-yfccc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYRKR
 
 | Tartans |
 |---------------|
-| [Drumfintley (Fashion)](/setts/s5/k8y8r40k14ra60-k101010-r888888-rab468ac-yfccc00/)|
-|![Drumfintley (Fashion) example sett](/setts/s5/k8y8r40k14ra60-k101010-r888888-rab468ac-yfccc00/sett.png)|
+| [Drumfintley (Fashion)](/setts/s5/r60k14ra40y8k8-k101010-rb468ac-ra888888-yfccc00/)|
+|![Drumfintley (Fashion) example sett](/setts/s5/r60k14ra40y8k8-k101010-rb468ac-ra888888-yfccc00/sett.png)|

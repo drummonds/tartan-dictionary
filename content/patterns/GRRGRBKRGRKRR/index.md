@@ -16,7 +16,7 @@ GRRGRBKRGRKRR
 
 | Tartans |
 |---------------|
-| [Glen Coe](/setts/s13/g8r4ra6g4ra94b4k14ra12g86ra8k6r4ra10-b5c8ca8-g006818-k101010-re87878-ra880000/)|
-|![Glen Coe example sett](/setts/s13/g8r4ra6g4ra94b4k14ra12g86ra8k6r4ra10-b5c8ca8-g006818-k101010-re87878-ra880000/sett.png)|
-| [Glen Coe (District)](/setts/s13/g8r4ra6g4ra94b4k14ra12g86ra8k6r4ra10-b5c8ca8-g006818-k101010-re87878-ra880000/)|
-|![Glen Coe (District) example sett](/setts/s13/g8r4ra6g4ra94b4k14ra12g86ra8k6r4ra10-b5c8ca8-g006818-k101010-re87878-ra880000/sett.png)|
+| [Glen Coe](/setts/s13/r10ra4k6r8g86r12k14b4r94g4r6ra4g8-b5c8ca8-g006818-k101010-r880000-rae87878/)|
+|![Glen Coe example sett](/setts/s13/r10ra4k6r8g86r12k14b4r94g4r6ra4g8-b5c8ca8-g006818-k101010-r880000-rae87878/sett.png)|
+| [Glen Coe (District)](/setts/s13/r10ra4k6r8g86r12k14b4r94g4r6ra4g8-b5c8ca8-g006818-k101010-r880000-rae87878/)|
+|![Glen Coe (District) example sett](/setts/s13/r10ra4k6r8g86r12k14b4r94g4r6ra4g8-b5c8ca8-g006818-k101010-r880000-rae87878/sett.png)|

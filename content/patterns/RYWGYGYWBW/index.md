@@ -16,5 +16,5 @@ RYWGYGYWBW
 
 | Tartans |
 |---------------|
-| [State Seal of Delaware (Fashion)](/setts/s10/r8y34w6g8y6g20ya6w8b36w76-b003c64-g006818-rc80000-wc0c0c0-ya08858-yafccc00/)|
-|![State Seal of Delaware (Fashion) example sett](/setts/s10/r8y34w6g8y6g20ya6w8b36w76-b003c64-g006818-rc80000-wc0c0c0-ya08858-yafccc00/sett.png)|
+| [State Seal of Delaware (Fashion)](/setts/s10/w76b36w8y6g20ya6g8w6ya34r8-b003c64-g006818-rc80000-wc0c0c0-yfccc00-yaa08858/)|
+|![State Seal of Delaware (Fashion) example sett](/setts/s10/w76b36w8y6g20ya6g8w6ya34r8-b003c64-g006818-rc80000-wc0c0c0-yfccc00-yaa08858/sett.png)|

@@ -16,5 +16,5 @@ KGYKBRBRBRBKYGKW
 
 | Tartans |
 |---------------|
-| [Whitson](/setts/s16/k4g76y4k76b52r8b16r8b16r8b52k76y4g76k4w16-b0c585c-g3c6040-k101010-r880000-wc0c0c0-yd09800/)|
-|![Whitson example sett](/setts/s16/k4g76y4k76b52r8b16r8b16r8b52k76y4g76k4w16-b0c585c-g3c6040-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Whitson](/setts/s16/w16k4g76y4k76b52r8b16r8b16r8b52k76y4g76k4-b0c585c-g3c6040-k101010-r880000-wc0c0c0-yd09800/)|
+|![Whitson example sett](/setts/s16/w16k4g76y4k76b52r8b16r8b16r8b52k76y4g76k4-b0c585c-g3c6040-k101010-r880000-wc0c0c0-yd09800/sett.png)|

@@ -6,7 +6,7 @@ KGKGWK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k4g24k26ga26w4k8-g608c9c-ga408060-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KGKGWK
 
 | Tartans |
 |---------------|
-| [Melville](/setts/s6/k4g24k26ga26w4k8-g608c9c-ga408060-k101010-wfcfcfc/)|
-|![Melville example sett](/setts/s6/k4g24k26ga26w4k8-g608c9c-ga408060-k101010-wfcfcfc/sett.png)|
-| [Melville (Clan)](/setts/s6/k4g24k26ga26w4k8-g608c9c-ga408060-k101010-wfcfcfc/)|
-|![Melville (Clan) example sett](/setts/s6/k4g24k26ga26w4k8-g608c9c-ga408060-k101010-wfcfcfc/sett.png)|
+| [Melville](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/)|
+|![Melville example sett](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/sett.png)|
+| [Melville (Clan)](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/)|
+|![Melville (Clan) example sett](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/sett.png)|

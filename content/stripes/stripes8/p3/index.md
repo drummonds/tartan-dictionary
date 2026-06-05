@@ -1404,7 +1404,6 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [MacFrog (Personal)](/patterns/gwgbkgbr/) |
-| [MacFrog (Personal)](/patterns/gwgbkgbr/) |
 
 ### GWGBKRBR
 <a class="pat" href="/patterns/gwgbkrbr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">GWGBKRBR</span></a>
@@ -1591,9 +1590,7 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 
 | Tartan |
 |---|
-| [Hanby](/patterns/gygkgrgw/) |
 | [Hanby (Personal)](/patterns/gygkgrgw/) |
-| [Hanby Family Tartan Tartan Number: 7417. Earliest known date: 2007 The colours of the design as based on the Hanby coat of arms. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gygkgrgw/) |
 
 ### GYGYGKBR
 <a class="pat" href="/patterns/gygygkbr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">GYGYGKBR</span></a>
@@ -1625,5 +1622,13 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 |---|
 | [Yellow Pencil](/patterns/gygygygy/) |
 | [Yellow Pencil (Corporate)](/patterns/gygygygy/) |
+
+### GYGYWYBY
+<a class="pat" href="/patterns/gygywyby/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GYGYWYBY</span></a>
+
+| Tartan |
+|---|
+| [Cladish](/patterns/gygywyby/) |
+| [Cladish (Fashion)](/patterns/gygywyby/) |
 
 <nav class="pager"><a href="/stripes/stripes8/p2/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes8/p4/">4</a> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p4/">next ›</a></nav>

@@ -6,7 +6,7 @@ BGGRGRGB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b12g12ga6r48g6r6g48b20-b3c3c3c-g845c00-ga285800-r880000/tartan.png)
+![Woven sample](/setts/s8/b20g48r6g6r48ga6g12b12-b3c3c3c-g845c00-ga285800-r880000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGRGRGB
 
 | Tartans |
 |---------------|
-| [Earle's Flame (Fashion)](/setts/s8/b12g12ga6r48g6r6g48b20-b3c3c3c-g845c00-ga285800-r880000/)|
-|![Earle's Flame (Fashion) example sett](/setts/s8/b12g12ga6r48g6r6g48b20-b3c3c3c-g845c00-ga285800-r880000/sett.png)|
+| [Earle's Flame (Fashion)](/setts/s8/b20g48r6g6r48ga6g12b12-b3c3c3c-g845c00-ga285800-r880000/)|
+|![Earle's Flame (Fashion) example sett](/setts/s8/b20g48r6g6r48ga6g12b12-b3c3c3c-g845c00-ga285800-r880000/sett.png)|

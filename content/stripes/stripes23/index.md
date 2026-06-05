@@ -146,7 +146,6 @@ Tartan setts with 23 stripes, grouped by colour-sequence pattern.
 
 | Tartan |
 |---|
-| [MacBean (2) Clan Tartan Tartan Number: 925. Earliest known date: c.1815 The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. Another version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gwrrrgrrrwkgkwbbbwbbbwr/) |
 | [MacBean MacVean](/patterns/gwrrrgrrrwkgkwbbbwbbbwr/) |
 
 ### KBKBKRKBKRKBKBKBYKYKRKR

@@ -16,5 +16,5 @@ BBGBGKGKBWBKGKGBGBBG
 
 | Tartans |
 |---------------|
-| [Scottish Pride](/setts/s20/b4ba4g6ba30g4k4g2k30bb86w4bb86k30g2k4g6ba30g4ba4b4g12-b780078-ba440044-bb2c2c80-g006818-k101010-we0e0e0/)|
-|![Scottish Pride example sett](/setts/s20/b4ba4g6ba30g4k4g2k30bb86w4bb86k30g2k4g6ba30g4ba4b4g12-b780078-ba440044-bb2c2c80-g006818-k101010-we0e0e0/sett.png)|
+| [Scottish Pride](/setts/s20/g12b4ba4g4ba30g6k4g2k30bb86w4bb86k30g2k4g4ba30g6ba4b4-b780078-ba440044-bb2c2c80-g006818-k101010-we0e0e0/)|
+|![Scottish Pride example sett](/setts/s20/g12b4ba4g4ba30g6k4g2k30bb86w4bb86k30g2k4g4ba30g6ba4b4-b780078-ba440044-bb2c2c80-g006818-k101010-we0e0e0/sett.png)|

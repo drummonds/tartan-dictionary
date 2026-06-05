@@ -6,7 +6,7 @@ YBYGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/y44b26y12g26y80-b2c2c80-g006818-yfcb464/tartan.png)
+![Woven sample](/setts/s5/y80g26y12b26y44-b2c2c80-g006818-yfcb464/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YBYGY
 
 | Tartans |
 |---------------|
-| [Burt's Highlanders (Fashion)](/setts/s5/y44b26y12g26y80-b2c2c80-g006818-yfcb464/)|
-|![Burt's Highlanders (Fashion) example sett](/setts/s5/y44b26y12g26y80-b2c2c80-g006818-yfcb464/sett.png)|
+| [Burt's Highlanders (Fashion)](/setts/s5/y80g26y12b26y44-b2c2c80-g006818-yfcb464/)|
+|![Burt's Highlanders (Fashion) example sett](/setts/s5/y80g26y12b26y44-b2c2c80-g006818-yfcb464/sett.png)|

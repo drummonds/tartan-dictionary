@@ -16,8 +16,8 @@ BWRWBWBKWBWGBKBWBR
 
 | Tartans |
 |---------------|
-| [Cooper Dress (Dalgliesh #1)](/setts/s18/b4w8r4wa52b6wa4b6k20w6b4w6g18b2k2b42w6b4r46-b2c2c80-g006818-k101010-rc80000-wc49cd8-wafcfcfc/)|
-|![Cooper Dress (Dalgliesh #1) example sett](/setts/s18/b4w8r4wa52b6wa4b6k20w6b4w6g18b2k2b42w6b4r46-b2c2c80-g006818-k101010-rc80000-wc49cd8-wafcfcfc/sett.png)|
+| [Cooper Dress (Dalgliesh #1)](/setts/s18/r46b4w6b42k2b2g18w6b4w6k20b6wa4b6wa52r4w8b4-b2c2c80-g006818-k101010-rc80000-wc49cd8-wafcfcfc/)|
+|![Cooper Dress (Dalgliesh #1) example sett](/setts/s18/r46b4w6b42k2b2g18w6b4w6k20b6wa4b6wa52r4w8b4-b2c2c80-g006818-k101010-rc80000-wc49cd8-wafcfcfc/sett.png)|
 | [Cooper Dress (Dalgliesh #1) (Dance)](/setts/s18/b4w8r4wa52b6wa4b6k20w6b4w6g18b2k2b42w6b4r4-b2c2c80-g006818-k101010-rc80000-wc49cd8-wafcfcfc/)|
 |![Cooper Dress (Dalgliesh #1) (Dance) example sett](/setts/s18/b4w8r4wa52b6wa4b6k20w6b4w6g18b2k2b42w6b4r4-b2c2c80-g006818-k101010-rc80000-wc49cd8-wafcfcfc/sett.png)|
 | [Cooper, dress](/setts/s18/b4w8r4wa52b6wa4b6k20w6b4w6g18b2k2b42w6b4r4-b304080-g008000-k000000-rc00000-wc0a0e0-wae0e0e0/)|

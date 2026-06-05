@@ -6,7 +6,7 @@ RBBYW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r6b64ba42y12w12-b003c64-ba1474b4-rc8002c-wc0c0c0-ybc8c00/tartan.png)
+![Woven sample](/setts/s5/w12y12b42ba64r6-b1474b4-ba003c64-rc8002c-wc0c0c0-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBYW
 
 | Tartans |
 |---------------|
-| [Jamieson, Robert (Personal)](/setts/s5/r6b64ba42y12w12-b003c64-ba1474b4-rc8002c-wc0c0c0-ybc8c00/)|
-|![Jamieson, Robert (Personal) example sett](/setts/s5/r6b64ba42y12w12-b003c64-ba1474b4-rc8002c-wc0c0c0-ybc8c00/sett.png)|
+| [Jamieson, Robert (Personal)](/setts/s5/w12y12b42ba64r6-b1474b4-ba003c64-rc8002c-wc0c0c0-ybc8c00/)|
+|![Jamieson, Robert (Personal) example sett](/setts/s5/w12y12b42ba64r6-b1474b4-ba003c64-rc8002c-wc0c0c0-ybc8c00/sett.png)|

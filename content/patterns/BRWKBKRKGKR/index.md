@@ -16,5 +16,5 @@ BRWKBKRKGKR
 
 | Tartans |
 |---------------|
-| [Kildare County, Crest Range](/setts/s11/b10r28w4k10b14k5r20k5g48k5ra40-b778899-g585c20-k101010-r960000-rac87814-we0e0e0/)|
-|![Kildare County, Crest Range example sett](/setts/s11/b10r28w4k10b14k5r20k5g48k5ra40-b778899-g585c20-k101010-r960000-rac87814-we0e0e0/sett.png)|
+| [Kildare County, Crest Range](/setts/s11/r40k5g48k5ra20k5b14k10w4ra28b10-b778899-g585c20-k101010-rc87814-ra960000-we0e0e0/)|
+|![Kildare County, Crest Range example sett](/setts/s11/r40k5g48k5ra20k5b14k10w4ra28b10-b778899-g585c20-k101010-rc87814-ra960000-we0e0e0/sett.png)|

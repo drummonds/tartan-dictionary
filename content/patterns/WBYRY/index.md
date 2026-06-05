@@ -6,7 +6,7 @@ WBYRY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w8b18y2r2ya50-b5c5c5c-rdc0000-wffffff-yc4bc68-ya48a4c0/tartan.png)
+![Woven sample](/setts/s5/y50r2ya2b18w8-b5c5c5c-rdc0000-wffffff-y48a4c0-yac4bc68/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBYRY
 
 | Tartans |
 |---------------|
-| [Tailor Ishida, Kobe](/setts/s5/w8b18y2r2ya50-b5c5c5c-rdc0000-wffffff-yc4bc68-ya48a4c0/)|
-|![Tailor Ishida, Kobe example sett](/setts/s5/w8b18y2r2ya50-b5c5c5c-rdc0000-wffffff-yc4bc68-ya48a4c0/sett.png)|
+| [Tailor Ishida, Kobe](/setts/s5/y50r2ya2b18w8-b5c5c5c-rdc0000-wffffff-y48a4c0-yac4bc68/)|
+|![Tailor Ishida, Kobe example sett](/setts/s5/y50r2ya2b18w8-b5c5c5c-rdc0000-wffffff-y48a4c0-yac4bc68/sett.png)|

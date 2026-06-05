@@ -16,5 +16,5 @@ KYKYKYRYRY
 
 | Tartans |
 |---------------|
-| [Intergen](/setts/s10/k60y6k8y6k60ya66r2ya8r2ya66-k101010-rc8002c-ye8c000-ya48a4c0/)|
-|![Intergen example sett](/setts/s10/k60y6k8y6k60ya66r2ya8r2ya66-k101010-rc8002c-ye8c000-ya48a4c0/sett.png)|
+| [Intergen](/setts/s10/y66r2y8r2y66k60ya6k8ya6k60-k101010-rc8002c-y48a4c0-yae8c000/)|
+|![Intergen example sett](/setts/s10/y66r2y8r2y66k60ya6k8ya6k60-k101010-rc8002c-y48a4c0-yae8c000/sett.png)|

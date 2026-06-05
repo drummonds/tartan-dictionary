@@ -6,7 +6,7 @@ BRBRBGWG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4r6b4r12b48g12w4g76-b2c4084-g005020-rc87814-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRBGWG
 
 | Tartans |
 |---------------|
-| [MacAuliffe/McAucliffe](/setts/s8/b4r6b4r12b48g12w4g76-b2c4084-g005020-rc87814-we0e0e0/)|
-|![MacAuliffe/McAucliffe example sett](/setts/s8/b4r6b4r12b48g12w4g76-b2c4084-g005020-rc87814-we0e0e0/sett.png)|
+| [MacAuliffe/McAucliffe](/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/)|
+|![MacAuliffe/McAucliffe example sett](/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/sett.png)|

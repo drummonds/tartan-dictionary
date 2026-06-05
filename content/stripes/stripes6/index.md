@@ -521,7 +521,6 @@ Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 
 | Tartan |
 |---|
-| [Green Highland, The](/patterns/bgbbgb/) |
 | [Green Highland, The (Fashion)](/patterns/bgbbgb/) |
 
 ### BGBBGW
@@ -1265,5 +1264,12 @@ Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Meeson Dress Personal Tartan Tartan Number: 6026. Earliest known date: 2007 Formal Dress version. The gray was originally woven with a melange or marled yarn. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/bkbryb/) |
+
+### BKBWBR
+<a class="pat" href="/patterns/bkbwbr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">BKBWBR</span></a>
+
+| Tartan |
+|---|
+| [Laidlaw's Highland Drovers](/patterns/bkbwbr/) |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p2/">next ›</a></nav>

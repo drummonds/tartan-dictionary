@@ -16,5 +16,5 @@ GRRGRRGRBRGRGRGRWR
 
 | Tartans |
 |---------------|
-| [Dalriada](/setts/s18/g40r8ra8g8ra212r8g8ra8b60ra8g8r8g196ra8g8r4w4ra220-b000080-g146400-re87878-radc0000-wffffff/)|
-|![Dalriada example sett](/setts/s18/g40r8ra8g8ra212r8g8ra8b60ra8g8r8g196ra8g8r4w4ra220-b000080-g146400-re87878-radc0000-wffffff/sett.png)|
+| [Dalriada](/setts/s18/r220w4ra4g8r8g196ra8g8r8b60r8g8ra8r212g8r8ra8g40-b000080-g146400-rdc0000-rae87878-wffffff/)|
+|![Dalriada example sett](/setts/s18/r220w4ra4g8r8g196ra8g8r8b60r8g8ra8r212g8r8ra8g40-b000080-g146400-rdc0000-rae87878-wffffff/sett.png)|

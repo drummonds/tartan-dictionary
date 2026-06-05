@@ -16,5 +16,5 @@ KRKRKWKRKR
 
 | Tartans |
 |---------------|
-| [King Robert the Bruce Memorial (Com](/setts/s10/k6r16k6ra22k6w4k4ra4k79r8-k101010-rc80000-ra888888-wc0c0c0/)|
-|![King Robert the Bruce Memorial (Com example sett](/setts/s10/k6r16k6ra22k6w4k4ra4k79r8-k101010-rc80000-ra888888-wc0c0c0/sett.png)|
+| [King Robert the Bruce Memorial (Com](/setts/s10/r8k79ra4k4w4k6ra22k6r16k6-k101010-rc80000-ra888888-wc0c0c0/)|
+|![King Robert the Bruce Memorial (Com example sett](/setts/s10/r8k79ra4k4w4k6ra22k6r16k6-k101010-rc80000-ra888888-wc0c0c0/sett.png)|

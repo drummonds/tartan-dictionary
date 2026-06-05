@@ -6,7 +6,7 @@ KYKWKYKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k4y70k16w8k16y12k48y6-k101010-we0e0e0-ya0a0a0/tartan.png)
+![Woven sample](/setts/s8/y6k48y12k16w8k16y70k4-k101010-we0e0e0-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKWKYKY
 
 | Tartans |
 |---------------|
-| [Nowell/Noel 1951 (Name)](/setts/s8/k4y70k16w8k16y12k48y6-k101010-we0e0e0-ya0a0a0/)|
-|![Nowell/Noel 1951 (Name) example sett](/setts/s8/k4y70k16w8k16y12k48y6-k101010-we0e0e0-ya0a0a0/sett.png)|
+| [Nowell/Noel 1951 (Name)](/setts/s8/y6k48y12k16w8k16y70k4-k101010-we0e0e0-ya0a0a0/)|
+|![Nowell/Noel 1951 (Name) example sett](/setts/s8/y6k48y12k16w8k16y70k4-k101010-we0e0e0-ya0a0a0/sett.png)|

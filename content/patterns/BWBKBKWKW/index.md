@@ -16,5 +16,5 @@ BWBKBKWKW
 
 | Tartans |
 |---------------|
-| [Scotsburn Croft](/setts/s9/b8w3b20k26ba4k26wa16k3wa16-b646464-ba780078-k101010-wffffff-wa82cffd/)|
-|![Scotsburn Croft example sett](/setts/s9/b8w3b20k26ba4k26wa16k3wa16-b646464-ba780078-k101010-wffffff-wa82cffd/sett.png)|
+| [Scotsburn Croft](/setts/s9/w16k3w16k26b4k26ba20wa3ba8-b780078-ba646464-k101010-w82cffd-waffffff/)|
+|![Scotsburn Croft example sett](/setts/s9/w16k3w16k26b4k26ba20wa3ba8-b780078-ba646464-k101010-w82cffd-waffffff/sett.png)|

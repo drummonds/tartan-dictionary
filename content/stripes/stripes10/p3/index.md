@@ -6,30 +6,6 @@ weight: 10
 Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes10/p2/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <a href="/stripes/stripes10/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p5/">5</a> <a href="/stripes/stripes10/p4/">next ›</a></nav>
 
-### GKGKBKBKBR
-<a class="pat" href="/patterns/gkgkbkbkbr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">GKGKBKBKBR</span></a>
-
-| Tartan |
-|---|
-| [Armstrong](/patterns/gkgkbkbkbr/) |
-| [Armstrong](/patterns/gkgkbkbkbr/) |
-| [Armstrong](/patterns/gkgkbkbkbr/) |
-| [Armstrong (Clan)](/patterns/gkgkbkbkbr/) |
-
-### GKGKBKBRBY
-<a class="pat" href="/patterns/gkgkbkbrby/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GKGKBKBRBY</span></a>
-
-| Tartan |
-|---|
-| [Borders Health Board (Corporate)](/patterns/gkgkbkbrby/) |
-
-### GKGKBRBRGR
-<a class="pat" href="/patterns/gkgkbrbrgr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">GKGKBRBRGR</span></a>
-
-| Tartan |
-|---|
-| [Law Society of Scotland (Corporate)](/patterns/gkgkbrbrgr/) |
-
 ### GKGKGBRYRG
 <a class="pat" href="/patterns/gkgkgbryrg/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="seq">GKGKGBRYRG</span></a>
 
@@ -1703,5 +1679,41 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Fraser, Arisaid](/patterns/kwkbwbwkwk/) |
+
+### KWKKGKGKBW
+<a class="pat" href="/patterns/kwkkgkgkbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKKGKGKBW</span></a>
+
+| Tartan |
+|---|
+| [Kagame (Personal)](/patterns/kwkkgkgkbw/) |
+| [Kagame Personal Tartan Tartan Number: 7077. Earliest known date: 2006 Presented to President Kagame of Rwanda, by Tom Hunter, christmas 2006 See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/kwkkgkgkbw/) |
+
+### KWKRBRBBKW
+<a class="pat" href="/patterns/kwkrbrbbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKRBRBBKW</span></a>
+
+| Tartan |
+|---|
+| [Unidentified](/patterns/kwkrbrbbkw/) |
+
+### KWKRKRKRKW
+<a class="pat" href="/patterns/kwkrkrkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKRKRKRKW</span></a>
+
+| Tartan |
+|---|
+| [Hakkarain (Personal)](/patterns/kwkrkrkrkw/) |
+
+### KWKRKWKWKY
+<a class="pat" href="/patterns/kwkrkwkwky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KWKRKWKWKY</span></a>
+
+| Tartan |
+|---|
+| [Little, Arisaid](/patterns/kwkrkwkwky/) |
+
+### KWKWKBKBKW
+<a class="pat" href="/patterns/kwkwkbkbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKWKBKBKW</span></a>
+
+| Tartan |
+|---|
+| [Seacliff Academy](/patterns/kwkwkbkbkw/) |
 
 <nav class="pager"><a href="/stripes/stripes10/p2/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <a href="/stripes/stripes10/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p5/">5</a> <a href="/stripes/stripes10/p4/">next ›</a></nav>

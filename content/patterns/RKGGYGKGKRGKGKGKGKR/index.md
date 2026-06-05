@@ -16,5 +16,5 @@ RKGGYGKGKRGKGKGKGKR
 
 | Tartans |
 |---------------|
-| [Craig](/setts/s19/r2k4g4ga2y2g36k2ga32k2r6g4k2g6k2g4k4ga4k6r2-g808080-ga008000-k000000-rc00000-yf0c000/)|
-|![Craig example sett](/setts/s19/r2k4g4ga2y2g36k2ga32k2r6g4k2g6k2g4k4ga4k6r2-g808080-ga008000-k000000-rc00000-yf0c000/sett.png)|
+| [Craig](/setts/s19/r2k6g4k4ga4k2ga6k2ga4r6k2g32k2ga36y2g2ga4k4r2-g008000-ga808080-k000000-rc00000-yf0c000/)|
+|![Craig example sett](/setts/s19/r2k6g4k4ga4k2ga6k2ga4r6k2g32k2ga36y2g2ga4k4r2-g008000-ga808080-k000000-rc00000-yf0c000/sett.png)|

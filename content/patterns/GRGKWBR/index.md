@@ -22,8 +22,8 @@ GRGKWBR
 |![Sinclair Hunting (VS) example sett](/setts/s7/g4r2g60k32w2b32r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [Sinclair Htg (VS) (Clan)](/setts/s7/g4r2g60k32w2b32r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
 |![Sinclair Htg (VS) (Clan) example sett](/setts/s7/g4r2g60k32w2b32r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Rhun (Fashion)](/setts/s7/g6r6g75k39w7b68r12-b1c1c50-g006818-k101010-rc80000-we0e0e0/)|
-|![Rhun (Fashion) example sett](/setts/s7/g6r6g75k39w7b68r12-b1c1c50-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Rhun (Fashion)](/setts/s7/r12b68w7k39g75r6g6-b1c1c50-g006818-k101010-rc80000-we0e0e0/)|
+|![Rhun (Fashion) example sett](/setts/s7/r12b68w7k39g75r6g6-b1c1c50-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [Sinclair Hunting](/setts/s7/g2r1g30k16w1b16r2-b00004c-g004c00-k000000-rc80000-wd0d0d0/)|
 |![Sinclair Hunting example sett](/setts/s7/g2r1g30k16w1b16r2-b00004c-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
 | [Sinclair, hunting](/setts/s7/g4r2g60k32w2b32r4-b304080-g008000-k000000-rc00000-we0e0e0/)|

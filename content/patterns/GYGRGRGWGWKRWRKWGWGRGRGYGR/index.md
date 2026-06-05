@@ -16,5 +16,5 @@ GYGRGRGWGWKRWRKWGWGRGRGYGR
 
 | Tartans |
 |---------------|
-| [Hay, White Dress](/setts/s26/g4y4g28r4g6r4g6w34g4w4k4r4w6r4k4w4g4w34g6r4g6r4g28y4g4r6-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Hay, White Dress example sett](/setts/s26/g4y4g28r4g6r4g6w34g4w4k4r4w6r4k4w4g4w34g6r4g6r4g28y4g4r6-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Hay, White Dress](/setts/s26/r6g4y4g28r4g6r4g6w34g4w4k4r4w6r4k4w4g4w34g6r4g6r4g28y4g4-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![Hay, White Dress example sett](/setts/s26/r6g4y4g28r4g6r4g6w34g4w4k4r4w6r4k4w4g4w34g6r4g6r4g28y4g4-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

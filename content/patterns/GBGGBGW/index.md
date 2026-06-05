@@ -6,7 +6,7 @@ GBGGBGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g56b12g12ga40b26g12w94-b1474b4-g006818-ga604000-w98c8e8/tartan.png)
+![Woven sample](/setts/s7/w94g12b26ga40g12b12g56-b1474b4-g006818-ga604000-w98c8e8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGGBGW
 
 | Tartans |
 |---------------|
-| [State Seal of North Carolina (Fash.)](/setts/s7/g56b12g12ga40b26g12w94-b1474b4-g006818-ga604000-w98c8e8/)|
-|![State Seal of North Carolina (Fash.) example sett](/setts/s7/g56b12g12ga40b26g12w94-b1474b4-g006818-ga604000-w98c8e8/sett.png)|
+| [State Seal of North Carolina (Fash.)](/setts/s7/w94g12b26ga40g12b12g56-b1474b4-g006818-ga604000-w98c8e8/)|
+|![State Seal of North Carolina (Fash.) example sett](/setts/s7/w94g12b26ga40g12b12g56-b1474b4-g006818-ga604000-w98c8e8/sett.png)|

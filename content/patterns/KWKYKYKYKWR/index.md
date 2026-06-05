@@ -16,5 +16,5 @@ KWKYKYKYKWR
 
 | Tartans |
 |---------------|
-| [Bartlett from El Paso, Texas](/setts/s11/k2w30k2y4k2ya2k78ya2k4wa4r6-k05132f-rca2625-we8ddcb-waf9f5ef-yb6be8f-yae0a126/)|
-|![Bartlett from El Paso, Texas example sett](/setts/s11/k2w30k2y4k2ya2k78ya2k4wa4r6-k05132f-rca2625-we8ddcb-waf9f5ef-yb6be8f-yae0a126/sett.png)|
+| [Bartlett from El Paso, Texas](/setts/s11/r6w4k4y2k78y2k2ya4k2wa30k2-k05132f-rca2625-wf9f5ef-wae8ddcb-ye0a126-yab6be8f/)|
+|![Bartlett from El Paso, Texas example sett](/setts/s11/r6w4k4y2k78y2k2ya4k2wa30k2-k05132f-rca2625-wf9f5ef-wae8ddcb-ye0a126-yab6be8f/sett.png)|

@@ -6,7 +6,7 @@ BWBBBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b2w12ba20bb16ba22w6-b6c0070-ba5f749c-bb202060-w98c8e8/tartan.png)
+![Woven sample](/setts/s6/w6b22ba16b20w12bb2-b5f749c-ba202060-bb6c0070-w98c8e8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBBBW
 
 | Tartans |
 |---------------|
-| [Loch Ness Water](/setts/s6/b2w12ba20bb16ba22w6-b6c0070-ba5f749c-bb202060-w98c8e8/)|
-|![Loch Ness Water example sett](/setts/s6/b2w12ba20bb16ba22w6-b6c0070-ba5f749c-bb202060-w98c8e8/sett.png)|
+| [Loch Ness Water](/setts/s6/w6b22ba16b20w12bb2-b5f749c-ba202060-bb6c0070-w98c8e8/)|
+|![Loch Ness Water example sett](/setts/s6/w6b22ba16b20w12bb2-b5f749c-ba202060-bb6c0070-w98c8e8/sett.png)|

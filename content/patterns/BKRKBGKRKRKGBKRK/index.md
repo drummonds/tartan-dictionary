@@ -16,5 +16,5 @@ BKRKBGKRKRKGBKRK
 
 | Tartans |
 |---------------|
-| [Johnstons of Elgin Bicentennial](/setts/s16/b4k16r12k24ba10g28k16ra28k50ra28k16g28ba10k24r12k16-b788ccc-ba1474b4-g784c18-k000034-ra05028-rac80000/)|
-|![Johnstons of Elgin Bicentennial example sett](/setts/s16/b4k16r12k24ba10g28k16ra28k50ra28k16g28ba10k24r12k16-b788ccc-ba1474b4-g784c18-k000034-ra05028-rac80000/sett.png)|
+| [Johnstons of Elgin Bicentennial](/setts/s16/k16r12k24b10g28k16ra28k50ra28k16g28b10k24r12k16ba4-b1474b4-ba788ccc-g784c18-k000034-ra05028-rac80000/)|
+|![Johnstons of Elgin Bicentennial example sett](/setts/s16/k16r12k24b10g28k16ra28k50ra28k16g28b10k24r12k16ba4-b1474b4-ba788ccc-g784c18-k000034-ra05028-rac80000/sett.png)|

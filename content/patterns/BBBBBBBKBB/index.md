@@ -16,5 +16,5 @@ BBBBBBBKBB
 
 | Tartans |
 |---------------|
-| [Spirit of Alva](/setts/s10/b4ba50k20bb8bc4bb19ba12bc4ba10b6-b3c82af-ba3c0096-bb002814-bc280032-k101010/)|
-|![Spirit of Alva example sett](/setts/s10/b4ba50k20bb8bc4bb19ba12bc4ba10b6-b3c82af-ba3c0096-bb002814-bc280032-k101010/sett.png)|
+| [Spirit of Alva](/setts/s10/b6ba10bb4ba12bc19bb4bc8k20ba50b4-b3c82af-ba3c0096-bb280032-bc002814-k101010/)|
+|![Spirit of Alva example sett](/setts/s10/b6ba10bb4ba12bc19bb4bc8k20ba50b4-b3c82af-ba3c0096-bb280032-bc002814-k101010/sett.png)|

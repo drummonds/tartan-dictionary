@@ -16,7 +16,7 @@ KBKGKGKGY
 
 | Tartans |
 |---------------|
-| [Martin](/setts/s9/k12b44k36g12k12g12k12g40y16-b4c0000-g006818-k101010-yd09800/)|
-|![Martin example sett](/setts/s9/k12b44k36g12k12g12k12g40y16-b4c0000-g006818-k101010-yd09800/sett.png)|
-| [Martin (Name)](/setts/s9/k12b44k36g12k12g12k12g40y16-b4c0000-g006818-k101010-yd09800/)|
-|![Martin (Name) example sett](/setts/s9/k12b44k36g12k12g12k12g40y16-b4c0000-g006818-k101010-yd09800/sett.png)|
+| [Martin](/setts/s9/y16g40k12g12k12g12k36b44k12-b4c0000-g006818-k101010-yd09800/)|
+|![Martin example sett](/setts/s9/y16g40k12g12k12g12k36b44k12-b4c0000-g006818-k101010-yd09800/sett.png)|
+| [Martin (Name)](/setts/s9/y16g40k12g12k12g12k36b44k12-b4c0000-g006818-k101010-yd09800/)|
+|![Martin (Name) example sett](/setts/s9/y16g40k12g12k12g12k36b44k12-b4c0000-g006818-k101010-yd09800/sett.png)|

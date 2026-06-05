@@ -16,5 +16,5 @@ BRBRGRBRGRGRBRBRGRBRGRGRGRGR
 
 | Tartans |
 |---------------|
-| [Robertson 4](/setts/s28/b6r6b48r6g48r6b6r56g4r10g4r56b6r6b48r6g48r6b6r56g4r10g4r56g4r10g4r56-b304080-g008000-rc00000/)|
-|![Robertson 4 example sett](/setts/s28/b6r6b48r6g48r6b6r56g4r10g4r56b6r6b48r6g48r6b6r56g4r10g4r56g4r10g4r56-b304080-g008000-rc00000/sett.png)|
+| [Robertson 4](/setts/s28/r56g4r10g4r56g4r10g4r56b6r6g48r6b48r6b6r56g4r10g4r56b6r6g48r6b48r6b6-b304080-g008000-rc00000/)|
+|![Robertson 4 example sett](/setts/s28/r56g4r10g4r56g4r10g4r56b6r6g48r6b48r6b6r56g4r10g4r56b6r6g48r6b48r6b6-b304080-g008000-rc00000/sett.png)|

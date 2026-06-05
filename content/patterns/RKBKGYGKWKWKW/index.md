@@ -16,7 +16,7 @@ RKBKGYGKWKWKW
 
 | Tartans |
 |---------------|
-| [Farquharson Dress](/setts/s13/r4k2b16k16g16y4g16k16w2k2w2k2w12-b1c0070-g006818-k101010-r880000-wffffff-yd09800/)|
-|![Farquharson Dress example sett](/setts/s13/r4k2b16k16g16y4g16k16w2k2w2k2w12-b1c0070-g006818-k101010-r880000-wffffff-yd09800/sett.png)|
-| [Farquharson Dress (Fashion)](/setts/s13/r4k2b16k16g16y4g16k16w2k2w2k2w12-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
-|![Farquharson Dress (Fashion) example sett](/setts/s13/r4k2b16k16g16y4g16k16w2k2w2k2w12-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Farquharson Dress](/setts/s13/w12k2w2k2w2k16g16y4g16k16b16k2r4-b1c0070-g006818-k101010-r880000-wffffff-yd09800/)|
+|![Farquharson Dress example sett](/setts/s13/w12k2w2k2w2k16g16y4g16k16b16k2r4-b1c0070-g006818-k101010-r880000-wffffff-yd09800/sett.png)|
+| [Farquharson Dress (Fashion)](/setts/s13/w12k2w2k2w2k16g16y4g16k16b16k2r4-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
+|![Farquharson Dress (Fashion) example sett](/setts/s13/w12k2w2k2w2k16g16y4g16k16b16k2r4-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|

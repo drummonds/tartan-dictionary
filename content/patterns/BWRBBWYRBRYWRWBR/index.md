@@ -16,7 +16,7 @@ BWRBBWYRBRYWRWBR
 
 | Tartans |
 |---------------|
-| [MacGlashan](/setts/s16/b2w2r12ba10b8w6y10r8ba4r8y10w6ra50w4ba6r50-b2c4084-ba2a2303-rdc0000-rabe7832-we0e0e0-ye8c000/)|
-|![MacGlashan example sett](/setts/s16/b2w2r12ba10b8w6y10r8ba4r8y10w6ra50w4ba6r50-b2c4084-ba2a2303-rdc0000-rabe7832-we0e0e0-ye8c000/sett.png)|
-| [MacGlashan](/setts/s16/b2w2r12ba10b8w6y10r8ba4r8y10w6ra50w4ba6r50-b304080-ba401000-rc00000-ra906030-we0e0e0-yf0c000/)|
-|![MacGlashan example sett](/setts/s16/b2w2r12ba10b8w6y10r8ba4r8y10w6ra50w4ba6r50-b304080-ba401000-rc00000-ra906030-we0e0e0-yf0c000/sett.png)|
+| [MacGlashan](/setts/s16/r50b6w4ra50w6y10r8b4r8y10w6ba8b10r12w2ba2-b2a2303-ba2c4084-rdc0000-rabe7832-we0e0e0-ye8c000/)|
+|![MacGlashan example sett](/setts/s16/r50b6w4ra50w6y10r8b4r8y10w6ba8b10r12w2ba2-b2a2303-ba2c4084-rdc0000-rabe7832-we0e0e0-ye8c000/sett.png)|
+| [MacGlashan](/setts/s16/r50b6w4ra50w6y10r8b4r8y10w6ba8b10r12w2ba2-b401000-ba304080-rc00000-ra906030-we0e0e0-yf0c000/)|
+|![MacGlashan example sett](/setts/s16/r50b6w4ra50w6y10r8b4r8y10w6ba8b10r12w2ba2-b401000-ba304080-rc00000-ra906030-we0e0e0-yf0c000/sett.png)|

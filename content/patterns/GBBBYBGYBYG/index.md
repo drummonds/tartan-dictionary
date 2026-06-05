@@ -16,7 +16,7 @@ GBBBYBGYBYG
 
 | Tartans |
 |---------------|
-| [Yarrow](/setts/s11/g4y6b4y12g20b4y4b4ba4b20g84-b441800-ba5c8ca8-g604000-ya08858/)|
-|![Yarrow example sett](/setts/s11/g4y6b4y12g20b4y4b4ba4b20g84-b441800-ba5c8ca8-g604000-ya08858/sett.png)|
-| [Yarrow (Fashion)](/setts/s11/g4y6b4y12g20b4y4b4ba4b20g84-b441800-ba5c8ca8-g604000-ya08858/)|
-|![Yarrow (Fashion) example sett](/setts/s11/g4y6b4y12g20b4y4b4ba4b20g84-b441800-ba5c8ca8-g604000-ya08858/sett.png)|
+| [Yarrow](/setts/s11/g84b20ba4b4y4b4g20y12b4y6g4-b441800-ba5c8ca8-g604000-ya08858/)|
+|![Yarrow example sett](/setts/s11/g84b20ba4b4y4b4g20y12b4y6g4-b441800-ba5c8ca8-g604000-ya08858/sett.png)|
+| [Yarrow (Fashion)](/setts/s11/g84b20ba4b4y4b4g20y12b4y6g4-b441800-ba5c8ca8-g604000-ya08858/)|
+|![Yarrow (Fashion) example sett](/setts/s11/g84b20ba4b4y4b4g20y12b4y6g4-b441800-ba5c8ca8-g604000-ya08858/sett.png)|

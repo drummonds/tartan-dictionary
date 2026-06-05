@@ -16,9 +16,9 @@ WBBBBKBKGGW
 
 | Tartans |
 |---------------|
-| [Carnegie of Skibo](/setts/s11/w4g58ga16k4b10k4b20ba18bb4ba10w6-b780078-ba202060-bb2888c4-g006818-ga003820-k101010-we0e0e0/)|
-|![Carnegie of Skibo example sett](/setts/s11/w4g58ga16k4b10k4b20ba18bb4ba10w6-b780078-ba202060-bb2888c4-g006818-ga003820-k101010-we0e0e0/sett.png)|
-| [Carnegie of Skibo (Corporate)](/setts/s11/w4g58ga16k4b10k4b20ba18bb4ba10w6-b780078-ba202060-bb2888c4-g006818-ga003820-k101010-we0e0e0/)|
-|![Carnegie of Skibo (Corporate) example sett](/setts/s11/w4g58ga16k4b10k4b20ba18bb4ba10w6-b780078-ba202060-bb2888c4-g006818-ga003820-k101010-we0e0e0/sett.png)|
-| [Inverclyde, Green (Corporate)](/setts/s11/w4g66ga20k4b8k4b20ba18bb4ba10w6-b780078-ba202060-bb2474e8-g408060-ga006818-k101010-wf8f8f8/)|
-|![Inverclyde, Green (Corporate) example sett](/setts/s11/w4g66ga20k4b8k4b20ba18bb4ba10w6-b780078-ba202060-bb2474e8-g408060-ga006818-k101010-wf8f8f8/sett.png)|
+| [Carnegie of Skibo](/setts/s11/w6b10ba4b18bb20k4bb10k4g16ga58w4-b202060-ba2888c4-bb780078-g003820-ga006818-k101010-we0e0e0/)|
+|![Carnegie of Skibo example sett](/setts/s11/w6b10ba4b18bb20k4bb10k4g16ga58w4-b202060-ba2888c4-bb780078-g003820-ga006818-k101010-we0e0e0/sett.png)|
+| [Carnegie of Skibo (Corporate)](/setts/s11/w6b10ba4b18bb20k4bb10k4g16ga58w4-b202060-ba2888c4-bb780078-g003820-ga006818-k101010-we0e0e0/)|
+|![Carnegie of Skibo (Corporate) example sett](/setts/s11/w6b10ba4b18bb20k4bb10k4g16ga58w4-b202060-ba2888c4-bb780078-g003820-ga006818-k101010-we0e0e0/sett.png)|
+| [Inverclyde, Green (Corporate)](/setts/s11/w6b10ba4b18bb20k4bb8k4g20ga66w4-b202060-ba2474e8-bb780078-g006818-ga408060-k101010-wf8f8f8/)|
+|![Inverclyde, Green (Corporate) example sett](/setts/s11/w6b10ba4b18bb20k4bb8k4g20ga66w4-b202060-ba2474e8-bb780078-g006818-ga408060-k101010-wf8f8f8/sett.png)|

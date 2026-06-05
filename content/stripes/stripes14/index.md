@@ -331,7 +331,6 @@ Tartan setts with 14 stripes, grouped by colour-sequence pattern.
 |---|
 | [Penman](/patterns/bgkrkgbgybygbg/) |
 | [Penman](/patterns/bgkrkgbgybygbg/) |
-| [Penman #2](/patterns/bgkrkgbgybygbg/) |
 
 ### BGKRKRBGYBYGBR
 <a class="pat" href="/patterns/bgkrkrbgybygbr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">BGKRKRBGYBYGBR</span></a>
@@ -1679,5 +1678,12 @@ Tartan setts with 14 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Celtic Football Club (1996)](/patterns/gggkgkggwgggky/) |
+
+### GGGKGKRGWGGGKY
+<a class="pat" href="/patterns/gggkgkrgwgggky/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GGGKGKRGWGGGKY</span></a>
+
+| Tartan |
+|---|
+| [Celtic F.C.](/patterns/gggkgkrgwgggky/) |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes14/p2/">2</a> <a href="/stripes/stripes14/p3/">3</a> <a href="/stripes/stripes14/p2/">next ›</a></nav>

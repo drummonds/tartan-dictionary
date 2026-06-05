@@ -20,8 +20,8 @@ GBGR
 |---------------|
 | [Barclay](/setts/s4/g2b32g32r2-b2c2c80-g006818-rc80000/)|
 |![Barclay example sett](/setts/s4/g2b32g32r2-b2c2c80-g006818-rc80000/sett.png)|
-| [Gyle](/setts/s4/g20b160g20r40-b2888c4-g003820-r880000/)|
-|![Gyle example sett](/setts/s4/g20b160g20r40-b2888c4-g003820-r880000/sett.png)|
+| [Gyle](/setts/s4/r40g20b160g20-b2888c4-g003820-r880000/)|
+|![Gyle example sett](/setts/s4/r40g20b160g20-b2888c4-g003820-r880000/sett.png)|
 | [Barwell](/setts/s4/g4b12g12r4-b202060-g003820-r880000/)|
 |![Barwell example sett](/setts/s4/g4b12g12r4-b202060-g003820-r880000/sett.png)|
 | [Barclay Htg (Clan)](/setts/s4/g4b64g64r4-b2c2c80-g006818-rc80000/)|

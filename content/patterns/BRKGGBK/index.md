@@ -6,7 +6,7 @@ BRKGGBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6r12k40g8ga20b42k8-b1474b4-g8c7038-ga604000-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/k8b42g20ga8k40r12b6-b1474b4-g604000-ga8c7038-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRKGGBK
 
 | Tartans |
 |---------------|
-| [Swankie (Personal)](/setts/s7/b6r12k40g8ga20b42k8-b1474b4-g8c7038-ga604000-k101010-rc80000/)|
-|![Swankie (Personal) example sett](/setts/s7/b6r12k40g8ga20b42k8-b1474b4-g8c7038-ga604000-k101010-rc80000/sett.png)|
+| [Swankie (Personal)](/setts/s7/k8b42g20ga8k40r12b6-b1474b4-g604000-ga8c7038-k101010-rc80000/)|
+|![Swankie (Personal) example sett](/setts/s7/k8b42g20ga8k40r12b6-b1474b4-g604000-ga8c7038-k101010-rc80000/sett.png)|

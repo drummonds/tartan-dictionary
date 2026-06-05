@@ -6,7 +6,7 @@ KRWKWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k10r70w20k20w4ra20-k000000-r806050-rac00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r20w4k20w20ra70k10-k000000-rc00000-ra806050-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWKWR
 
 | Tartans |
 |---------------|
-| [Loch Ness](/setts/s6/k10r70w20k20w4ra20-k000000-r806050-rac00000-we0e0e0/)|
-|![Loch Ness example sett](/setts/s6/k10r70w20k20w4ra20-k000000-r806050-rac00000-we0e0e0/sett.png)|
+| [Loch Ness](/setts/s6/r20w4k20w20ra70k10-k000000-rc00000-ra806050-we0e0e0/)|
+|![Loch Ness example sett](/setts/s6/r20w4k20w20ra70k10-k000000-rc00000-ra806050-we0e0e0/sett.png)|

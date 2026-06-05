@@ -16,5 +16,5 @@ RWBRRKRRBWGWRBBRWR
 
 | Tartans |
 |---------------|
-| [Campbell, New Louden](/setts/s18/r18w4b4r4ra10k4ra10r4b4w4g24w4r10ba4bb4r10w4ra50-b800070-ba000050-bb8080d0-g008000-k000000-r906030-rac00000-we0e0e0/)|
-|![Campbell, New Louden example sett](/setts/s18/r18w4b4r4ra10k4ra10r4b4w4g24w4r10ba4bb4r10w4ra50-b800070-ba000050-bb8080d0-g008000-k000000-r906030-rac00000-we0e0e0/sett.png)|
+| [Campbell, New Louden](/setts/s18/r50w4ra10b4ba4ra10w4g24w4bb4ra4r10k4r10ra4bb4w4ra18-b8080d0-ba000050-bb800070-g008000-k000000-rc00000-ra906030-we0e0e0/)|
+|![Campbell, New Louden example sett](/setts/s18/r50w4ra10b4ba4ra10w4g24w4bb4ra4r10k4r10ra4bb4w4ra18-b8080d0-ba000050-bb800070-g008000-k000000-rc00000-ra906030-we0e0e0/sett.png)|

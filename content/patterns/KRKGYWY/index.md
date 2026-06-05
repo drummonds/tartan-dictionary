@@ -6,7 +6,7 @@ KRKGYWY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k26r12k10g86y12w14y34-g289c18-k101010-r888888-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/y34w14y12g86k10r12k26-g289c18-k101010-r888888-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKGYWY
 
 | Tartans |
 |---------------|
-| [Keeling Dress (Fashion)](/setts/s7/k26r12k10g86y12w14y34-g289c18-k101010-r888888-we0e0e0-ye8c000/)|
-|![Keeling Dress (Fashion) example sett](/setts/s7/k26r12k10g86y12w14y34-g289c18-k101010-r888888-we0e0e0-ye8c000/sett.png)|
+| [Keeling Dress (Fashion)](/setts/s7/y34w14y12g86k10r12k26-g289c18-k101010-r888888-we0e0e0-ye8c000/)|
+|![Keeling Dress (Fashion) example sett](/setts/s7/y34w14y12g86k10r12k26-g289c18-k101010-r888888-we0e0e0-ye8c000/sett.png)|

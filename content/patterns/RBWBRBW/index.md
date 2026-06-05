@@ -6,7 +6,7 @@ RBWBRBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r2b8w4b180r4b8w4-b1c0070-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBWBRBW
 
 | Tartans |
 |---------------|
-| [Spirit of Ulster](/setts/s7/r2b8w4b180r4b8w4-b1c0070-rc80000-we0e0e0/)|
-|![Spirit of Ulster example sett](/setts/s7/r2b8w4b180r4b8w4-b1c0070-rc80000-we0e0e0/sett.png)|
-| [Spirit of Ulster (Fashion)](/setts/s7/r2b8w4b180r4b8w4-b1c0070-rc80000-we0e0e0/)|
-|![Spirit of Ulster (Fashion) example sett](/setts/s7/r2b8w4b180r4b8w4-b1c0070-rc80000-we0e0e0/sett.png)|
+| [Spirit of Ulster](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/)|
+|![Spirit of Ulster example sett](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/sett.png)|
+| [Spirit of Ulster (Fashion)](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/)|
+|![Spirit of Ulster (Fashion) example sett](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/sett.png)|

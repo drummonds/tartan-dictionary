@@ -16,5 +16,5 @@ BRBWBWKRKRKRWRWRWB
 
 | Tartans |
 |---------------|
-| [Wcwm 1586](/setts/s18/b6r4b4w4b44w4k16r4k4r4k4r16w4r4w4r4w16b6-b3474fc-k000000-ra0783c-wf0f0b0/)|
-|![Wcwm 1586 example sett](/setts/s18/b6r4b4w4b44w4k16r4k4r4k4r16w4r4w4r4w16b6-b3474fc-k000000-ra0783c-wf0f0b0/sett.png)|
+| [Wcwm 1586](/setts/s18/b6w16r4w4r4w4r16k4r4k4r4k16w4b44w4b4r4b6-b3474fc-k000000-ra0783c-wf0f0b0/)|
+|![Wcwm 1586 example sett](/setts/s18/b6w16r4w4r4w4r16k4r4k4r4k16w4b44w4b4r4b6-b3474fc-k000000-ra0783c-wf0f0b0/sett.png)|

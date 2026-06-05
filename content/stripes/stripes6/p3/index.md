@@ -6,22 +6,6 @@ weight: 6
 Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes6/p2/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p4/">next ›</a></nav>
 
-### GBGKGR
-<a class="pat" href="/patterns/gbgkgr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">GBGKGR</span></a>
-
-| Tartan |
-|---|
-| [Casely](/patterns/gbgkgr/) |
-| [Casely](/patterns/gbgkgr/) |
-| [Gunn](/patterns/gbgkgr/) |
-| [Gunn](/patterns/gbgkgr/) |
-| [Gunn](/patterns/gbgkgr/) |
-| [Gunn - 1810 (Clan)](/patterns/gbgkgr/) |
-| [Gunn Clan Tartan Tartan Number: 708. Earliest known date: c.1810-15 The Cockburn collection, housed in the Mitchell library in Glasgow, contains some of the oldest actual specimens of clan tartans in existance today. James Logan recorded the sett in his book 'The Scottish Gael' in 1831. The central blue stripes are often reproduced in black or very dark blue, giving the impression of four equally toned stripes. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gbgkgr/) |
-| [Lauder](/patterns/gbgkgr/) |
-| [Lauder (Family)](/patterns/gbgkgr/) |
-| [Wcwm 1045](/patterns/gbgkgr/) |
-
 ### GBGKGY
 <a class="pat" href="/patterns/gbgkgy/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GBGKGY</span></a>
 
@@ -1397,5 +1381,45 @@ Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Herriot New Zealand](/patterns/kbwkyw/) |
+
+### KGBGBR
+<a class="pat" href="/patterns/kgbgbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGBGBR</span></a>
+
+| Tartan |
+|---|
+| [Davidson, Half](/patterns/kgbgbr/) |
+| [Davidson, Half..](/patterns/kgbgbr/) |
+| [Hutton](/patterns/kgbgbr/) |
+| [Hutton (Name)](/patterns/kgbgbr/) |
+
+### KGBKRW
+<a class="pat" href="/patterns/kgbkrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGBKRW</span></a>
+
+| Tartan |
+|---|
+| [Bryant (Dalgleish) (Personal)](/patterns/kgbkrw/) |
+
+### KGBRBW
+<a class="pat" href="/patterns/kgbrbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGBRBW</span></a>
+
+| Tartan |
+|---|
+| [Friends of Nordegg](/patterns/kgbrbw/) |
+
+### KGBRBY
+<a class="pat" href="/patterns/kgbrby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KGBRBY</span></a>
+
+| Tartan |
+|---|
+| [Carmichael](/patterns/kgbrby/) |
+| [Carmichael](/patterns/kgbrby/) |
+| [Carmichael Family Tartan Tartan Number: 1078. Earliest known date: 1907 It was the Carmichael of Artherstone who, in 1907, sealed a sample of the Carmichael tartan in the Collection of the Highland Society. This is the first known appearance of the tartan. This sett is sometimes woven in slightly different proportions, most noticable in the black and green stripes. Carmichaels are associated with the Stewarts of Appin and with the MacDougalls (MacMichaels), but all of the name, Carmichael, have the chiefs approval for the wearing of the Carmichael tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/kgbrby/) |
+
+### KGBRGK
+<a class="pat" href="/patterns/kgbrgk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">KGBRGK</span></a>
+
+| Tartan |
+|---|
+| [Eachaidh](/patterns/kgbrgk/) |
 
 <nav class="pager"><a href="/stripes/stripes6/p2/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p4/">next ›</a></nav>

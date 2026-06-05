@@ -16,5 +16,5 @@ WBRKGBBRW
 
 | Tartans |
 |---------------|
-| [Scottish National - 1934 (Fashion)](/setts/s9/w8b8r16k4g48b32b24r12w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Scottish National - 1934 (Fashion) example sett](/setts/s9/w8b8r16k4g48b32b24r12w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Scottish National - 1934 (Fashion)](/setts/s9/w8r12b24b32g48k4r16b8w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![Scottish National - 1934 (Fashion) example sett](/setts/s9/w8r12b24b32g48k4r16b8w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|

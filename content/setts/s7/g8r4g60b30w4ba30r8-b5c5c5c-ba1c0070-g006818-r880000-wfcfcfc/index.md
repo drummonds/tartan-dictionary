@@ -1,13 +1,13 @@
 ---
-title: "Sinclair, Green (Personal)"
+title: "Sinclair Green (Personal)"
 date: 2023-03-18
 ---
 In pattern [GRGBWBR](/patterns/grgbwbr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/890/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3795
 
 ## Thread count
 DR/8 DB30 W4 N30 G60 DR4 G/8

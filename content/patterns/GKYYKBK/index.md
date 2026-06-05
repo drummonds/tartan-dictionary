@@ -6,7 +6,7 @@ GKYYKBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g6k18y26ya52k12b10k80-b240f4c-g5b340a-k000000-yceb7a1-yab28230/tartan.png)
+![Woven sample](/setts/s7/k80b10k12y52ya26k18g6-b240f4c-g5b340a-k000000-yb28230-yaceb7a1/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKYYKBK
 
 | Tartans |
 |---------------|
-| [de Meuron (Neuchâtel) Dress, The](/setts/s7/g6k18y26ya52k12b10k80-b240f4c-g5b340a-k000000-yceb7a1-yab28230/)|
-|![de Meuron (Neuchâtel) Dress, The example sett](/setts/s7/g6k18y26ya52k12b10k80-b240f4c-g5b340a-k000000-yceb7a1-yab28230/sett.png)|
+| [de Meuron (Neuchâtel) Dress, The](/setts/s7/k80b10k12y52ya26k18g6-b240f4c-g5b340a-k000000-yb28230-yaceb7a1/)|
+|![de Meuron (Neuchâtel) Dress, The example sett](/setts/s7/k80b10k12y52ya26k18g6-b240f4c-g5b340a-k000000-yb28230-yaceb7a1/sett.png)|

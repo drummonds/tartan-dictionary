@@ -16,7 +16,7 @@ GYRBGBRYKGKYBBYBBYR
 
 | Tartans |
 |---------------|
-| [MacBean](/setts/s19/g6y2r4b4g2b4r4y2k2g12k2y2ba4bb2y2bb2ba4y2r48-b59110d-ba000052-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacBean example sett](/setts/s19/g6y2r4b4g2b4r4y2k2g12k2y2ba4bb2y2bb2ba4y2r48-b59110d-ba000052-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [MacBean](/setts/s19/g6y2r4b4g2b4r4y2k2g12k2y2ba4bb2y2bb2ba4y2r48-b59110d-ba000052-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacBean example sett](/setts/s19/g6y2r4b4g2b4r4y2k2g12k2y2ba4bb2y2bb2ba4y2r48-b59110d-ba000052-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacBean](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/)|
+|![MacBean example sett](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacBean](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/)|
+|![MacBean example sett](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

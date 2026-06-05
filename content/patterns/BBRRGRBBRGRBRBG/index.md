@@ -16,5 +16,5 @@ BBRRGRBBRGRBRBG
 
 | Tartans |
 |---------------|
-| [Glenorchy - National Archives](/setts/s15/b2ba6r2ra4g34ra4ba16b2ra8g16ra4ba34r2ba4g6-b5c8ca8-ba2c2c80-g006818-re87878-rac80000/)|
-|![Glenorchy - National Archives example sett](/setts/s15/b2ba6r2ra4g34ra4ba16b2ra8g16ra4ba34r2ba4g6-b5c8ca8-ba2c2c80-g006818-re87878-rac80000/sett.png)|
+| [Glenorchy - National Archives](/setts/s15/g6b4r2b34ra4g16ra8ba2b16ra4g34ra4r2b6ba2-b2c2c80-ba5c8ca8-g006818-re87878-rac80000/)|
+|![Glenorchy - National Archives example sett](/setts/s15/g6b4r2b34ra4g16ra8ba2b16ra4g34ra4r2b6ba2-b2c2c80-ba5c8ca8-g006818-re87878-rac80000/sett.png)|

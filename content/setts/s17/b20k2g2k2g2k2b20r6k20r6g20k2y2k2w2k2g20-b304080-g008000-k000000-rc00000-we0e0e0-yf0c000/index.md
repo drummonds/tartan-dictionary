@@ -1,5 +1,5 @@
 ---
-title: "Nicolson, MacNicol"
+title: "Cunningham, hunting"
 date: 2023-03-18
 ---
 In pattern [BKGKGKBRKRGKYKWKG](/patterns/bkgkgkbrkrgkykwkg/).

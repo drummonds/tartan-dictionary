@@ -1,13 +1,13 @@
 ---
-title: "MacLeod Red (Clan)"
+title: "MacLeod Red"
 date: 2023-03-18
 ---
 In pattern [BRBRBRBRYRBRBRGRGRBRY](/patterns/brbrbrbryrbrbrgrgrbry/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/496/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2643
 
 ## Thread count
 DB/8 R2 DB2 R4 DB22 R4 DB2 R2 Y2 R2 DB2 R32 DB16 R8 G8 R32 G22 R16 DB8 R4 Y/4

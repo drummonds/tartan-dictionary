@@ -16,5 +16,5 @@ BGWGWGKWGWGW
 
 | Tartans |
 |---------------|
-| [Stephen-Mathieson (Name)](/setts/s12/b8g24w4g4w4g4k48w4g4w4g4w64-b780078-g00a824-k101010-w98c8e8/)|
-|![Stephen-Mathieson (Name) example sett](/setts/s12/b8g24w4g4w4g4k48w4g4w4g4w64-b780078-g00a824-k101010-w98c8e8/sett.png)|
+| [Stephen-Mathieson (Name)](/setts/s12/w64g4w4g4w4k48g4w4g4w4g24b8-b780078-g00a824-k101010-w98c8e8/)|
+|![Stephen-Mathieson (Name) example sett](/setts/s12/w64g4w4g4w4k48g4w4g4w4g24b8-b780078-g00a824-k101010-w98c8e8/sett.png)|

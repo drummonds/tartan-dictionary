@@ -16,5 +16,5 @@ KYWRWYKWKYWY
 
 | Tartans |
 |---------------|
-| [Unidentified (GMG 2002)](/setts/s12/k4y24w2r8w2y24k14w4k14y24w2y20-k101010-rc80000-we0e0e0-ya08858/)|
-|![Unidentified (GMG 2002) example sett](/setts/s12/k4y24w2r8w2y24k14w4k14y24w2y20-k101010-rc80000-we0e0e0-ya08858/sett.png)|
+| [Unidentified (GMG 2002)](/setts/s12/y20w2y24k14w4k14y24w2r8w2y24k4-k101010-rc80000-we0e0e0-ya08858/)|
+|![Unidentified (GMG 2002) example sett](/setts/s12/y20w2y24k14w4k14y24w2r8w2y24k4-k101010-rc80000-we0e0e0-ya08858/sett.png)|

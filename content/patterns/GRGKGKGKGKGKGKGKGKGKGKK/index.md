@@ -16,5 +16,5 @@ GRGKGKGKGKGKGKGKGKGKGKK
 
 | Tartans |
 |---------------|
-| [Braveheart (Corporate)](/setts/s23/g2r20ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1k20-g006818-ga604000-k000000-r98481c/)|
-|![Braveheart (Corporate) example sett](/setts/s23/g2r20ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1ga1k1k20-g006818-ga604000-k000000-r98481c/sett.png)|
+| [Braveheart (Corporate)](/setts/s23/k20k1g1k1g1k1g1k1g1k1g1k1g1k1g1k1g1k1g1k1g1r20ga2-g604000-ga006818-k000000-r98481c/)|
+|![Braveheart (Corporate) example sett](/setts/s23/k20k1g1k1g1k1g1k1g1k1g1k1g1k1g1k1g1k1g1k1g1r20ga2-g604000-ga006818-k000000-r98481c/sett.png)|

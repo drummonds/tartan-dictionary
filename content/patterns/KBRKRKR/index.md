@@ -6,7 +6,7 @@ KBRKRKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k8b36r6k50ra18k8ra18-b780078-k101010-ra07c00-raa00000/tartan.png)
+![Woven sample](/setts/s7/r18k8r18k50ra6b36k8-b780078-k101010-ra00000-raa07c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRKRKR
 
 | Tartans |
 |---------------|
-| [Wounded Warriors Canada](/setts/s7/k8b36r6k50ra18k8ra18-b780078-k101010-ra07c00-raa00000/)|
-|![Wounded Warriors Canada example sett](/setts/s7/k8b36r6k50ra18k8ra18-b780078-k101010-ra07c00-raa00000/sett.png)|
+| [Wounded Warriors Canada](/setts/s7/r18k8r18k50ra6b36k8-b780078-k101010-ra00000-raa07c00/)|
+|![Wounded Warriors Canada example sett](/setts/s7/r18k8r18k50ra6b36k8-b780078-k101010-ra00000-raa07c00/sett.png)|

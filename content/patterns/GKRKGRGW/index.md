@@ -6,7 +6,7 @@ GKRKGRGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g10k8r48k8g90ra10g10w12-g008000-k000000-r906030-rac00020-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/w12g10r10g90k8ra48k8g10-g008000-k000000-rc00020-ra906030-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRKGRGW
 
 | Tartans |
 |---------------|
-| [O'Neill](/setts/s8/g10k8r48k8g90ra10g10w12-g008000-k000000-r906030-rac00020-we0e0e0/)|
-|![O'Neill example sett](/setts/s8/g10k8r48k8g90ra10g10w12-g008000-k000000-r906030-rac00020-we0e0e0/sett.png)|
+| [O'Neill](/setts/s8/w12g10r10g90k8ra48k8g10-g008000-k000000-rc00020-ra906030-we0e0e0/)|
+|![O'Neill example sett](/setts/s8/w12g10r10g90k8ra48k8g10-g008000-k000000-rc00020-ra906030-we0e0e0/sett.png)|

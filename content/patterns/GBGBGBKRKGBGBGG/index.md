@@ -16,7 +16,7 @@ GBGBGBKRKGBGBGG
 
 | Tartans |
 |---------------|
-| [Ontario, Ensign of](/setts/s15/g6b32g6b6g6b32k4r8k4g36b6g6b6g36ga8-b441800-g003820-ga906c00-k101010-r880000/)|
-|![Ontario, Ensign of example sett](/setts/s15/g6b32g6b6g6b32k4r8k4g36b6g6b6g36ga8-b441800-g003820-ga906c00-k101010-r880000/sett.png)|
+| [Ontario, Ensign of](/setts/s15/g8ga36b6ga6b6ga36k4r8k4b32ga6b6ga6b32ga6-b441800-g906c00-ga003820-k101010-r880000/)|
+|![Ontario, Ensign of example sett](/setts/s15/g8ga36b6ga6b6ga36k4r8k4b32ga6b6ga6b32ga6-b441800-g906c00-ga003820-k101010-r880000/sett.png)|
 | [Ontario, Ensign of (District)](/setts/s15/g6b32g6b6g6b32k4r8k4g36b6g6b6g32ga6-b441800-g003820-ga906c00-k101010-r880000/)|
 |![Ontario, Ensign of (District) example sett](/setts/s15/g6b32g6b6g6b32k4r8k4g36b6g6b6g32ga6-b441800-g003820-ga906c00-k101010-r880000/sett.png)|

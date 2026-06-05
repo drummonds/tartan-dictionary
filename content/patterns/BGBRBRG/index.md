@@ -6,7 +6,7 @@ BGBRBRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16g16b16r6b24ra22g24-b780078-g289c18-rcc4438-rac80000/tartan.png)
+![Woven sample](/setts/s7/g24r22b24ra6b16g16b16-b780078-g289c18-rc80000-racc4438/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRBRG
 
 | Tartans |
 |---------------|
-| [Fiddes (Corrected)](/setts/s7/b16g16b16r6b24ra22g24-b780078-g289c18-rcc4438-rac80000/)|
-|![Fiddes (Corrected) example sett](/setts/s7/b16g16b16r6b24ra22g24-b780078-g289c18-rcc4438-rac80000/sett.png)|
+| [Fiddes (Corrected)](/setts/s7/g24r22b24ra6b16g16b16-b780078-g289c18-rc80000-racc4438/)|
+|![Fiddes (Corrected) example sett](/setts/s7/g24r22b24ra6b16g16b16-b780078-g289c18-rc80000-racc4438/sett.png)|

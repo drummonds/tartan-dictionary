@@ -6,7 +6,7 @@ GYKRYY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g20y28k24r20ya32y48-g00643c-k101010-r880000-ya0a0a0-yad87c00/tartan.png)
+![Woven sample](/setts/s6/y48ya32r20k24y28g20-g00643c-k101010-r880000-ya0a0a0-yad87c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYKRYY
 
 | Tartans |
 |---------------|
-| [Mitchell, Martin (Personal)](/setts/s6/g20y28k24r20ya32y48-g00643c-k101010-r880000-ya0a0a0-yad87c00/)|
-|![Mitchell, Martin (Personal) example sett](/setts/s6/g20y28k24r20ya32y48-g00643c-k101010-r880000-ya0a0a0-yad87c00/sett.png)|
+| [Mitchell, Martin (Personal)](/setts/s6/y48ya32r20k24y28g20-g00643c-k101010-r880000-ya0a0a0-yad87c00/)|
+|![Mitchell, Martin (Personal) example sett](/setts/s6/y48ya32r20k24y28g20-g00643c-k101010-r880000-ya0a0a0-yad87c00/sett.png)|

@@ -6,7 +6,7 @@ BYBKRKRK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b12y6b66k24r6k6r6k48-b6060c8-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYBKRKRK
 
 | Tartans |
 |---------------|
-| [Rutherford](/setts/s8/b12y6b66k24r6k6r6k48-b6060c8-k101010-rc80000-ye8c000/)|
-|![Rutherford example sett](/setts/s8/b12y6b66k24r6k6r6k48-b6060c8-k101010-rc80000-ye8c000/sett.png)|
-| [Rutherford (Name)](/setts/s8/b12y6b66k24r6k6r6k48-b6060c8-k101010-rc80000-ye8c000/)|
-|![Rutherford (Name) example sett](/setts/s8/b12y6b66k24r6k6r6k48-b6060c8-k101010-rc80000-ye8c000/sett.png)|
+| [Rutherford](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/)|
+|![Rutherford example sett](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/sett.png)|
+| [Rutherford (Name)](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/)|
+|![Rutherford (Name) example sett](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/sett.png)|

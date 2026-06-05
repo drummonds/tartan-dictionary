@@ -6,7 +6,7 @@ BRRWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b12r4ra8w4ra48-b5c5c5c-r888888-rac80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/r48w4r8ra4b12-b5c5c5c-rc80000-ra888888-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRRWR
 
 | Tartans |
 |---------------|
-| [Glen Shee Plaid (Fashion)](/setts/s5/b12r4ra8w4ra48-b5c5c5c-r888888-rac80000-wfcfcfc/)|
-|![Glen Shee Plaid (Fashion) example sett](/setts/s5/b12r4ra8w4ra48-b5c5c5c-r888888-rac80000-wfcfcfc/sett.png)|
+| [Glen Shee Plaid (Fashion)](/setts/s5/r48w4r8ra4b12-b5c5c5c-rc80000-ra888888-wfcfcfc/)|
+|![Glen Shee Plaid (Fashion) example sett](/setts/s5/r48w4r8ra4b12-b5c5c5c-rc80000-ra888888-wfcfcfc/sett.png)|

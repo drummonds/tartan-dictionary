@@ -6,7 +6,7 @@ GBKGK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g8b24k32g28k10-b080848-g005020-k101010/tartan.png)
+![Woven sample](/setts/s5/k10g28k32b24g8-b080848-g005020-k101010/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBKGK
 
 | Tartans |
 |---------------|
-| [Unidentified #29](/setts/s5/g8b24k32g28k10-b080848-g005020-k101010/)|
-|![Unidentified #29 example sett](/setts/s5/g8b24k32g28k10-b080848-g005020-k101010/sett.png)|
-| [Unnamed 1](/setts/s5/g8b24k32g28k10-b000050-g008000-k000000/)|
-|![Unnamed 1 example sett](/setts/s5/g8b24k32g28k10-b000050-g008000-k000000/sett.png)|
+| [Unidentified #29](/setts/s5/k10g28k32b24g8-b080848-g005020-k101010/)|
+|![Unidentified #29 example sett](/setts/s5/k10g28k32b24g8-b080848-g005020-k101010/sett.png)|
+| [Unnamed 1](/setts/s5/k10g28k32b24g8-b000050-g008000-k000000/)|
+|![Unnamed 1 example sett](/setts/s5/k10g28k32b24g8-b000050-g008000-k000000/sett.png)|

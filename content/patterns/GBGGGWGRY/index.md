@@ -16,5 +16,5 @@ GBGGGWGRY
 
 | Tartans |
 |---------------|
-| [Teallach](/setts/s9/g6b26g6ga26gb46w6g38r48y8-b505050-g604000-ga808080-gb607030-rc00000-we0e0e0-yf0c000/)|
-|![Teallach example sett](/setts/s9/g6b26g6ga26gb46w6g38r48y8-b505050-g604000-ga808080-gb607030-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Teallach](/setts/s9/y8r48g38w6ga46gb26g6b26g6-b505050-g604000-ga607030-gb808080-rc00000-we0e0e0-yf0c000/)|
+|![Teallach example sett](/setts/s9/y8r48g38w6ga46gb26g6b26g6-b505050-g604000-ga607030-gb808080-rc00000-we0e0e0-yf0c000/sett.png)|

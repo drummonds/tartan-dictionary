@@ -6,13 +6,6 @@ weight: 6
 Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes6/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <strong>2</strong> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p3/">next ›</a></nav>
 
-### BKBWBR
-<a class="pat" href="/patterns/bkbwbr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">BKBWBR</span></a>
-
-| Tartan |
-|---|
-| [Laidlaw's Highland Drovers](/patterns/bkbwbr/) |
-
 ### BKBYBR
 <a class="pat" href="/patterns/bkbybr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">BKBYBR</span></a>
 
@@ -1334,5 +1327,21 @@ Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 | [MacKay - 1800 (Clan)](/patterns/gbgkgk/) |
 | [MacKay Clan Tartan Tartan Number: 703. Earliest known date: 1816 Wilson's of Bannockburn (1819) record the same sett with blue changed to purple. Logan calls the colour 'corbeau' which is in fact a dark shade of green. The pattern shows a marked similarity to the Gunn tartan in all but colour, suggesting a territorial origin for both. Recently historians of Scottish dress have tended to stress the geographical sources, rather than the clan associations of the earliest Highland tartans. A sample was signed and sealed by the Chief for Highland Society of London in 1816. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gbgkgk/) |
 | [MacKay Plaid](/patterns/gbgkgk/) |
+
+### GBGKGR
+<a class="pat" href="/patterns/gbgkgr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">GBGKGR</span></a>
+
+| Tartan |
+|---|
+| [Casely](/patterns/gbgkgr/) |
+| [Casely](/patterns/gbgkgr/) |
+| [Gunn](/patterns/gbgkgr/) |
+| [Gunn](/patterns/gbgkgr/) |
+| [Gunn](/patterns/gbgkgr/) |
+| [Gunn - 1810 (Clan)](/patterns/gbgkgr/) |
+| [Gunn Clan Tartan Tartan Number: 708. Earliest known date: c.1810-15 The Cockburn collection, housed in the Mitchell library in Glasgow, contains some of the oldest actual specimens of clan tartans in existance today. James Logan recorded the sett in his book 'The Scottish Gael' in 1831. The central blue stripes are often reproduced in black or very dark blue, giving the impression of four equally toned stripes. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gbgkgr/) |
+| [Lauder](/patterns/gbgkgr/) |
+| [Lauder (Family)](/patterns/gbgkgr/) |
+| [Wcwm 1045](/patterns/gbgkgr/) |
 
 <nav class="pager"><a href="/stripes/stripes6/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <strong>2</strong> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <a href="/stripes/stripes6/p5/">5</a> <a href="/stripes/stripes6/p3/">next ›</a></nav>

@@ -16,5 +16,5 @@ KGWKYKWGKY
 
 | Tartans |
 |---------------|
-| [Hamilton of Brandon](/setts/s10/k4g28w4k28y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/)|
-|![Hamilton of Brandon example sett](/setts/s10/k4g28w4k28y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/sett.png)|
+| [Hamilton of Brandon](/setts/s10/y12k4g28w4k28ya64k28w4g28k4-g006818-k101010-we0e0e0-ye8c000-yaa08858/)|
+|![Hamilton of Brandon example sett](/setts/s10/y12k4g28w4k28ya64k28w4g28k4-g006818-k101010-we0e0e0-ye8c000-yaa08858/sett.png)|

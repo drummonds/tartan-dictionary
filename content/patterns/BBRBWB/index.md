@@ -6,7 +6,7 @@ BBRBWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b12w2b4r4b30ba56-b003c64-ba5c8ca8-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBRBWB
 
 | Tartans |
 |---------------|
-| [Corries](/setts/s6/b12w2b4r4b30ba56-b003c64-ba5c8ca8-rc80000-we0e0e0/)|
-|![Corries example sett](/setts/s6/b12w2b4r4b30ba56-b003c64-ba5c8ca8-rc80000-we0e0e0/sett.png)|
-| [Corries (Corporate)](/setts/s6/b12w2b4r4b30ba56-b003c64-ba5c8ca8-rc80000-we0e0e0/)|
-|![Corries (Corporate) example sett](/setts/s6/b12w2b4r4b30ba56-b003c64-ba5c8ca8-rc80000-we0e0e0/sett.png)|
+| [Corries](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/)|
+|![Corries example sett](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/sett.png)|
+| [Corries (Corporate)](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/)|
+|![Corries (Corporate) example sett](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ GWRRGRRWKGKWWKWKWWR
 
 | Tartans |
 |---------------|
-| [MacBean (Lord Lyon version)](/setts/s19/g20w4r10ra10g4ra10r10w4k4g24k4w4wa10k4w4k4wa10w4r120-g006818-k101010-r880000-racc4438-wfcfcfc-waa8ace8/)|
-|![MacBean (Lord Lyon version) example sett](/setts/s19/g20w4r10ra10g4ra10r10w4k4g24k4w4wa10k4w4k4wa10w4r120-g006818-k101010-r880000-racc4438-wfcfcfc-waa8ace8/sett.png)|
+| [MacBean (Lord Lyon version)](/setts/s19/r120w4wa10k4w4k4wa10w4k4g24k4w4r10ra10g4ra10r10w4g20-g006818-k101010-r880000-racc4438-wfcfcfc-waa8ace8/)|
+|![MacBean (Lord Lyon version) example sett](/setts/s19/r120w4wa10k4w4k4wa10w4k4g24k4w4r10ra10g4ra10r10w4g20-g006818-k101010-r880000-racc4438-wfcfcfc-waa8ace8/sett.png)|

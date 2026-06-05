@@ -6,7 +6,7 @@ GYGY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g16y16g12ya162-g00884c-ybc8c00-yaa08858/tartan.png)
+![Woven sample](/setts/s4/y162g12ya16g16-g00884c-ya08858-yabc8c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYGY
 
 | Tartans |
 |---------------|
-| [Young in Australia (Name)](/setts/s4/g16y16g12ya162-g00884c-ybc8c00-yaa08858/)|
-|![Young in Australia (Name) example sett](/setts/s4/g16y16g12ya162-g00884c-ybc8c00-yaa08858/sett.png)|
+| [Young in Australia (Name)](/setts/s4/y162g12ya16g16-g00884c-ya08858-yabc8c00/)|
+|![Young in Australia (Name) example sett](/setts/s4/y162g12ya16g16-g00884c-ya08858-yabc8c00/sett.png)|
 | [Loch Garth Tartan Tartan Number: 1750. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/g48y24g8ya4-g604000-ya08858-yae8c000/)|
 |![Loch Garth Tartan Tartan Number: 1750. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/g48y24g8ya4-g604000-ya08858-yae8c000/sett.png)|

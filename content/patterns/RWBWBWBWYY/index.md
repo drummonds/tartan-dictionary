@@ -16,5 +16,5 @@ RWBWBWBWYY
 
 | Tartans |
 |---------------|
-| [Peter Rabbit™](/setts/s10/r10w10b28w10b14w6b10w4y4ya14-b5c99f0-rff6466-wffffff-y3ac99c-yaffc697/)|
-|![Peter Rabbit™ example sett](/setts/s10/r10w10b28w10b14w6b10w4y4ya14-b5c99f0-rff6466-wffffff-y3ac99c-yaffc697/sett.png)|
+| [Peter Rabbit™](/setts/s10/y14ya4w4b10w6b14w10b28w10r10-b5c99f0-rff6466-wffffff-yffc697-ya3ac99c/)|
+|![Peter Rabbit™ example sett](/setts/s10/y14ya4w4b10w6b14w10b28w10r10-b5c99f0-rff6466-wffffff-yffc697-ya3ac99c/sett.png)|

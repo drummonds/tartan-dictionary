@@ -6,7 +6,7 @@ KWYWGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k10w18y6w40g12k64y18-g008b00-k101010-wffffff-yd9b666/tartan.png)
+![Woven sample](/setts/s7/y18k64g12w40y6w18k10-g008b00-k101010-wffffff-yd9b666/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KWYWGKY
 
 | Tartans |
 |---------------|
-| [Black and White Golf](/setts/s7/k10w18y6w40g12k64y18-g008b00-k101010-wffffff-yd9b666/)|
-|![Black and White Golf example sett](/setts/s7/k10w18y6w40g12k64y18-g008b00-k101010-wffffff-yd9b666/sett.png)|
-| [Black & White Golf (Corporate)](/setts/s7/k10w18y6w40g12k64y18-g006818-k101010-we8ccb8-ybc8c00/)|
-|![Black & White Golf (Corporate) example sett](/setts/s7/k10w18y6w40g12k64y18-g006818-k101010-we8ccb8-ybc8c00/sett.png)|
+| [Black and White Golf](/setts/s7/y18k64g12w40y6w18k10-g008b00-k101010-wffffff-yd9b666/)|
+|![Black and White Golf example sett](/setts/s7/y18k64g12w40y6w18k10-g008b00-k101010-wffffff-yd9b666/sett.png)|
+| [Black & White Golf (Corporate)](/setts/s7/y18k64g12w40y6w18k10-g006818-k101010-we8ccb8-ybc8c00/)|
+|![Black & White Golf (Corporate) example sett](/setts/s7/y18k64g12w40y6w18k10-g006818-k101010-we8ccb8-ybc8c00/sett.png)|

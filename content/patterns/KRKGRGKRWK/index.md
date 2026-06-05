@@ -16,5 +16,5 @@ KRKGRGKRWK
 
 | Tartans |
 |---------------|
-| [Valdres, Kvam & Vang #3](/setts/s10/k4r4k40g4r6g4k4r8w2k8-g006818-k101010-rc80000-we0e0e0/)|
-|![Valdres, Kvam & Vang #3 example sett](/setts/s10/k4r4k40g4r6g4k4r8w2k8-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Valdres, Kvam & Vang #3](/setts/s10/k8w2r8k4g4r6g4k40r4k4-g006818-k101010-rc80000-we0e0e0/)|
+|![Valdres, Kvam & Vang #3 example sett](/setts/s10/k8w2r8k4g4r6g4k40r4k4-g006818-k101010-rc80000-we0e0e0/sett.png)|

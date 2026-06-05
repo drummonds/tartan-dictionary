@@ -16,5 +16,5 @@ BYRKBYWYRYWKGR
 
 | Tartans |
 |---------------|
-| [Roman (Personal)](/setts/s14/b6y8r6k4b12y12w6y6r4y6w6k14g40r54-b780078-g006818-k101010-r880000-we0e0e0-ya08858/)|
-|![Roman (Personal) example sett](/setts/s14/b6y8r6k4b12y12w6y6r4y6w6k14g40r54-b780078-g006818-k101010-r880000-we0e0e0-ya08858/sett.png)|
+| [Roman (Personal)](/setts/s14/r54g40k14w6y6r4y6w6y12b12k4r6y8b6-b780078-g006818-k101010-r880000-we0e0e0-ya08858/)|
+|![Roman (Personal) example sett](/setts/s14/r54g40k14w6y6r4y6w6y12b12k4r6y8b6-b780078-g006818-k101010-r880000-we0e0e0-ya08858/sett.png)|

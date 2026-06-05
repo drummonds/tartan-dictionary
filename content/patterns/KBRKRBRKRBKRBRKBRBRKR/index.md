@@ -16,5 +16,5 @@ KBRKRBRKRBKRBRKBRBRKR
 
 | Tartans |
 |---------------|
-| [Buchan (Clan)](/setts/s21/k4b12r4k54r4b4r4k54r4b12k12r4b48r4k4b4r4b48r4k12r12-b2c2c80-k101010-ra00000/)|
-|![Buchan (Clan) example sett](/setts/s21/k4b12r4k54r4b4r4k54r4b12k12r4b48r4k4b4r4b48r4k12r12-b2c2c80-k101010-ra00000/sett.png)|
+| [Buchan (Clan)](/setts/s21/r12k12r4b48r4b4k4r4b48r4k12b12r4k54r4b4r4k54r4b12k4-b2c2c80-k101010-ra00000/)|
+|![Buchan (Clan) example sett](/setts/s21/r12k12r4b48r4b4k4r4b48r4k12b12r4k54r4b4r4k54r4b12k4-b2c2c80-k101010-ra00000/sett.png)|

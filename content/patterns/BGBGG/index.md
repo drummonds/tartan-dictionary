@@ -6,7 +6,7 @@ BGBGG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b12g6b42g36ga42-b14283c-g604000-ga006818/tartan.png)
+![Woven sample](/setts/s5/g42ga36b42ga6b12-b14283c-g006818-ga604000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBGG
 
 | Tartans |
 |---------------|
-| [Bright of Garth (Personal)](/setts/s5/b12g6b42g36ga42-b14283c-g604000-ga006818/)|
-|![Bright of Garth (Personal) example sett](/setts/s5/b12g6b42g36ga42-b14283c-g604000-ga006818/sett.png)|
-| [Bright of Garth (Personal)](/setts/s5/b12g6b42g36ga42-b245078-g845800-ga006818/)|
-|![Bright of Garth (Personal) example sett](/setts/s5/b12g6b42g36ga42-b245078-g845800-ga006818/sett.png)|
+| [Bright of Garth (Personal)](/setts/s5/g42ga36b42ga6b12-b14283c-g006818-ga604000/)|
+|![Bright of Garth (Personal) example sett](/setts/s5/g42ga36b42ga6b12-b14283c-g006818-ga604000/sett.png)|
+| [Bright of Garth (Personal)](/setts/s5/g42ga36b42ga6b12-b245078-g006818-ga845800/)|
+|![Bright of Garth (Personal) example sett](/setts/s5/g42ga36b42ga6b12-b245078-g006818-ga845800/sett.png)|

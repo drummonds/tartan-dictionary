@@ -22,8 +22,8 @@ KR
 |![Rob Roy Macgregor example sett](/setts/s2/k172r172-k101010-rc80000/sett.png)|
 | [St Kilda](/setts/s2/k144r36-k101010-rc80000/)|
 |![St Kilda example sett](/setts/s2/k144r36-k101010-rc80000/sett.png)|
-| [Wilson's No.234](/setts/s2/k6r16-k101010-rc80000/)|
-|![Wilson's No.234 example sett](/setts/s2/k6r16-k101010-rc80000/sett.png)|
+| [Wilson's No.234](/setts/s2/r16k6-k101010-rc80000/)|
+|![Wilson's No.234 example sett](/setts/s2/r16k6-k101010-rc80000/sett.png)|
 | [St. Kilda (District)](/setts/s2/k144r36-k101010-rc80000/)|
 |![St. Kilda (District) example sett](/setts/s2/k144r36-k101010-rc80000/sett.png)|
 | [MacGregor - 1816 (Red & Black)](/setts/s2/k100r100-k101010-rc80000/)|
@@ -36,8 +36,8 @@ KR
 |![Rob Roy example sett](/setts/s2/k66r66-k000000-rc00000/sett.png)|
 | [St Kilda](/setts/s2/k24r6-k000000-rc00000/)|
 |![St Kilda example sett](/setts/s2/k24r6-k000000-rc00000/sett.png)|
-| [Wilson's, No 234](/setts/s2/k6r16-k000000-rc00000/)|
-|![Wilson's, No 234 example sett](/setts/s2/k6r16-k000000-rc00000/sett.png)|
+| [Wilson's, No 234](/setts/s2/r16k6-k000000-rc00000/)|
+|![Wilson's, No 234 example sett](/setts/s2/r16k6-k000000-rc00000/sett.png)|
 | [Rob Roy](/setts/s2/k8r8-k000000-raa0000/)|
 |![Rob Roy example sett](/setts/s2/k8r8-k000000-raa0000/sett.png)|
 | [Rob Roy](/setts/s2/k4r4-k000000-raa0000/)|

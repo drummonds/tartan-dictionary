@@ -16,7 +16,7 @@ KGRBRGRGRBRGKW
 
 | Tartans |
 |---------------|
-| [MacGuire (Personal)](/setts/s14/k4g36r36b4r4g4r4g4r36b16r4g36k4w6-b2c2c80-g285800-k101010-rc80000-we0e0e0/)|
-|![MacGuire (Personal) example sett](/setts/s14/k4g36r36b4r4g4r4g4r36b16r4g36k4w6-b2c2c80-g285800-k101010-rc80000-we0e0e0/sett.png)|
-| [MacGuire (Name)](/setts/s14/k4g36r6b4r4g4r4g4r36b18r4g36k4w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![MacGuire (Name) example sett](/setts/s14/k4g36r6b4r4g4r4g4r36b18r4g36k4w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [MacGuire (Personal)](/setts/s14/w6k4g36r4b16r36g4r4g4r4b4r36g36k4-b2c2c80-g285800-k101010-rc80000-we0e0e0/)|
+|![MacGuire (Personal) example sett](/setts/s14/w6k4g36r4b16r36g4r4g4r4b4r36g36k4-b2c2c80-g285800-k101010-rc80000-we0e0e0/sett.png)|
+| [MacGuire (Name)](/setts/s14/w6k4g36r4b18r36g4r4g4r4b4r6g36k4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![MacGuire (Name) example sett](/setts/s14/w6k4g36r4b18r36g4r4g4r4b4r6g36k4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|

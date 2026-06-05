@@ -6,7 +6,7 @@ GKBK
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g7k9b3k60-b2888c4-g289c18-k101010/tartan.png)
+![Woven sample](/setts/s4/k60b3k9g7-b2888c4-g289c18-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBK
 
 | Tartans |
 |---------------|
-| [Wallington (Corporate?)](/setts/s4/g7k9b3k60-b2888c4-g289c18-k101010/)|
-|![Wallington (Corporate?) example sett](/setts/s4/g7k9b3k60-b2888c4-g289c18-k101010/sett.png)|
+| [Wallington (Corporate?)](/setts/s4/k60b3k9g7-b2888c4-g289c18-k101010/)|
+|![Wallington (Corporate?) example sett](/setts/s4/k60b3k9g7-b2888c4-g289c18-k101010/sett.png)|

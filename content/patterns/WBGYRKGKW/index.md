@@ -16,5 +16,5 @@ WBGYRKGKW
 
 | Tartans |
 |---------------|
-| [Wiegratz Alba (Personal)](/setts/s9/w2b24g10y10r10k10g60k4w6-b1c1c50-g608c9c-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Wiegratz Alba (Personal) example sett](/setts/s9/w2b24g10y10r10k10g60k4w6-b1c1c50-g608c9c-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Wiegratz Alba (Personal)](/setts/s9/w6k4g60k10r10y10g10b24w2-b1c1c50-g608c9c-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Wiegratz Alba (Personal) example sett](/setts/s9/w6k4g60k10r10y10g10b24w2-b1c1c50-g608c9c-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

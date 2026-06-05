@@ -16,7 +16,7 @@ BKBKGWGKBK
 
 | Tartans |
 |---------------|
-| [Argyll Campbell](/setts/s10/b4k4b36k40g36w8g36k40b34k6-b2c4084-g005020-k101010-we0e0e0/)|
-|![Argyll Campbell example sett](/setts/s10/b4k4b36k40g36w8g36k40b34k6-b2c4084-g005020-k101010-we0e0e0/sett.png)|
-| [Argyll, Campbell](/setts/s10/b4k4b36k40g36w8g36k40b34k6-b304080-g008000-k000000-we0e0e0/)|
-|![Argyll, Campbell example sett](/setts/s10/b4k4b36k40g36w8g36k40b34k6-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Argyll Campbell](/setts/s10/k6b34k40g36w8g36k40b36k4b4-b2c4084-g005020-k101010-we0e0e0/)|
+|![Argyll Campbell example sett](/setts/s10/k6b34k40g36w8g36k40b36k4b4-b2c4084-g005020-k101010-we0e0e0/sett.png)|
+| [Argyll, Campbell](/setts/s10/k6b34k40g36w8g36k40b36k4b4-b304080-g008000-k000000-we0e0e0/)|
+|![Argyll, Campbell example sett](/setts/s10/k6b34k40g36w8g36k40b36k4b4-b304080-g008000-k000000-we0e0e0/sett.png)|

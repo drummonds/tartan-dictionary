@@ -16,5 +16,5 @@ GBGWGBGYG
 
 | Tartans |
 |---------------|
-| [Rutlin (Personal)](/setts/s9/g4y54ga32b4ga2w34ga2b4ga12-b2c4084-g005020-ga808080-we0e0e0-ybe9650/)|
-|![Rutlin (Personal) example sett](/setts/s9/g4y54ga32b4ga2w34ga2b4ga12-b2c4084-g005020-ga808080-we0e0e0-ybe9650/sett.png)|
+| [Rutlin (Personal)](/setts/s9/g12b4g2w34g2b4g32y54ga4-b2c4084-g808080-ga005020-we0e0e0-ybe9650/)|
+|![Rutlin (Personal) example sett](/setts/s9/g12b4g2w34g2b4g32y54ga4-b2c4084-g808080-ga005020-we0e0e0-ybe9650/sett.png)|

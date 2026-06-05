@@ -6,7 +6,7 @@ BKBYWYK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4k12ba36y4w36y4k12-b788cb4-ba00008c-k000000-wc8c8c8-yc88c00/tartan.png)
+![Woven sample](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBYWYK
 
 | Tartans |
 |---------------|
-| [St. Francis Xavier University](/setts/s7/b4k12ba36y4w36y4k12-b788cb4-ba00008c-k000000-wc8c8c8-yc88c00/)|
-|![St. Francis Xavier University example sett](/setts/s7/b4k12ba36y4w36y4k12-b788cb4-ba00008c-k000000-wc8c8c8-yc88c00/sett.png)|
-| [St. Francis Xavier University (Corp)](/setts/s7/b4k12ba36y4w36y4k12-b788cb4-ba00008c-k000000-wc8c8c8-yc88c00/)|
-|![St. Francis Xavier University (Corp) example sett](/setts/s7/b4k12ba36y4w36y4k12-b788cb4-ba00008c-k000000-wc8c8c8-yc88c00/sett.png)|
+| [St. Francis Xavier University](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/)|
+|![St. Francis Xavier University example sett](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/sett.png)|
+| [St. Francis Xavier University (Corp)](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/)|
+|![St. Francis Xavier University (Corp) example sett](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/sett.png)|

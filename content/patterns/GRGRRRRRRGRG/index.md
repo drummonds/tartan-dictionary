@@ -16,5 +16,5 @@ GRGRRRRRRGRG
 
 | Tartans |
 |---------------|
-| [78th Highlanders (Fraser) (Mil.)](/setts/s12/g4r4g44r38r56r6r56r38r4g4r4g52-g004c2c-rc03c04/)|
-|![78th Highlanders (Fraser) (Mil.) example sett](/setts/s12/g4r4g44r38r56r6r56r38r4g4r4g52-g004c2c-rc03c04/sett.png)|
+| [78th Highlanders (Fraser) (Mil.)](/setts/s12/g52r4g4r4r38r56r6r56r38g44r4g4-g004c2c-rc03c04/)|
+|![78th Highlanders (Fraser) (Mil.) example sett](/setts/s12/g52r4g4r4r38r56r6r56r38g44r4g4-g004c2c-rc03c04/sett.png)|

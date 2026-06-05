@@ -16,5 +16,5 @@ RBKGKWKGKWKWKW
 
 | Tartans |
 |---------------|
-| [MacKenzie Dress - 1950 (Clan)](/setts/s14/r4b14k14g16k2w4k2g16k14w4k4w14k4w6-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![MacKenzie Dress - 1950 (Clan) example sett](/setts/s14/r4b14k14g16k2w4k2g16k14w4k4w14k4w6-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [MacKenzie Dress - 1950 (Clan)](/setts/s14/w6k4w14k4w4k14g16k2w4k2g16k14b14r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
+|![MacKenzie Dress - 1950 (Clan) example sett](/setts/s14/w6k4w14k4w4k14g16k2w4k2g16k14b14r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|

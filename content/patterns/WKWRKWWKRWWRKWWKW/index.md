@@ -16,5 +16,5 @@ WKWRKWWKRWWRKWWKW
 
 | Tartans |
 |---------------|
-| [Abergavenny](/setts/s17/w18k22w8r4k48w4wa4k6r4wa4w12r24k8wa6w4k41w36-k101010-ra07c58-we8ccb8-wac0c0c0/)|
-|![Abergavenny example sett](/setts/s17/w18k22w8r4k48w4wa4k6r4wa4w12r24k8wa6w4k41w36-k101010-ra07c58-we8ccb8-wac0c0c0/sett.png)|
+| [Abergavenny](/setts/s17/w36k41w4wa6k8r24w12wa4r4k6wa4w4k48r4w8k22w18-k101010-ra07c58-we8ccb8-wac0c0c0/)|
+|![Abergavenny example sett](/setts/s17/w36k41w4wa6k8r24w12wa4r4k6wa4w4k48r4w8k22w18-k101010-ra07c58-we8ccb8-wac0c0c0/sett.png)|

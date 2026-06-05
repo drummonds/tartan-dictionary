@@ -6,7 +6,7 @@ WRGKRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4r56g36k4ra10y12-g6a8a67-k1c1714-r9d2123-ra905966-wf9f5ef-y99a3ba/tartan.png)
+![Woven sample](/setts/s6/y12r10k4g36ra56w4-g6a8a67-k1c1714-r905966-ra9d2123-wf9f5ef-y99a3ba/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRGKRY
 
 | Tartans |
 |---------------|
-| [Dundhuin](/setts/s6/w4r56g36k4ra10y12-g6a8a67-k1c1714-r9d2123-ra905966-wf9f5ef-y99a3ba/)|
-|![Dundhuin example sett](/setts/s6/w4r56g36k4ra10y12-g6a8a67-k1c1714-r9d2123-ra905966-wf9f5ef-y99a3ba/sett.png)|
+| [Dundhuin](/setts/s6/y12r10k4g36ra56w4-g6a8a67-k1c1714-r905966-ra9d2123-wf9f5ef-y99a3ba/)|
+|![Dundhuin example sett](/setts/s6/y12r10k4g36ra56w4-g6a8a67-k1c1714-r905966-ra9d2123-wf9f5ef-y99a3ba/sett.png)|

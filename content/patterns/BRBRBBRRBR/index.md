@@ -16,7 +16,7 @@ BRBRBBRRBR
 
 | Tartans |
 |---------------|
-| [Clyde](/setts/s10/b8r4b8r4b34ba12r6ra44ba6ra10-b5c5c5c-ba646464-r8c0000-ra8c8c8c/)|
-|![Clyde example sett](/setts/s10/b8r4b8r4b34ba12r6ra44ba6ra10-b5c5c5c-ba646464-r8c0000-ra8c8c8c/sett.png)|
-| [Clyde (Pendelton Fashion)](/setts/s10/b8r4b8r4b34ba12r6ra44ba6ra10-b5c5c5c-ba646464-r8c0000-ra8c8c8c/)|
-|![Clyde (Pendelton Fashion) example sett](/setts/s10/b8r4b8r4b34ba12r6ra44ba6ra10-b5c5c5c-ba646464-r8c0000-ra8c8c8c/sett.png)|
+| [Clyde](/setts/s10/r10b6r44ra6b12ba34ra4ba8ra4ba8-b646464-ba5c5c5c-r8c8c8c-ra8c0000/)|
+|![Clyde example sett](/setts/s10/r10b6r44ra6b12ba34ra4ba8ra4ba8-b646464-ba5c5c5c-r8c8c8c-ra8c0000/sett.png)|
+| [Clyde (Pendelton Fashion)](/setts/s10/r10b6r44ra6b12ba34ra4ba8ra4ba8-b646464-ba5c5c5c-r8c8c8c-ra8c0000/)|
+|![Clyde (Pendelton Fashion) example sett](/setts/s10/r10b6r44ra6b12ba34ra4ba8ra4ba8-b646464-ba5c5c5c-r8c8c8c-ra8c0000/sett.png)|

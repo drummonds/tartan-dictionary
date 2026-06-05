@@ -16,5 +16,5 @@ GKGKBRBRGR
 
 | Tartans |
 |---------------|
-| [Law Society of Scotland (Corporate)](/setts/s10/g3k7g4k18b7r4b7r24g3r6-b5c8ca8-g006428-k101010-r901c38/)|
-|![Law Society of Scotland (Corporate) example sett](/setts/s10/g3k7g4k18b7r4b7r24g3r6-b5c8ca8-g006428-k101010-r901c38/sett.png)|
+| [Law Society of Scotland (Corporate)](/setts/s10/r6g3r24b7r4b7k18g4k7g3-b5c8ca8-g006428-k101010-r901c38/)|
+|![Law Society of Scotland (Corporate) example sett](/setts/s10/r6g3r24b7r4b7k18g4k7g3-b5c8ca8-g006428-k101010-r901c38/sett.png)|

@@ -6,7 +6,7 @@ WKBKRKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w2k6b36k18r4k18g28y6-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/tartan.png)
+![Woven sample](/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WKBKRKGY
 
 | Tartans |
 |---------------|
-| [Ayre (Personal)](/setts/s8/w2k6b36k18r4k18g28y6-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Ayre (Personal) example sett](/setts/s8/w2k6b36k18r4k18g28y6-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
-| [Ayre (Personal)](/setts/s8/w2k6b36k18r4k18g28y6-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Ayre (Personal) example sett](/setts/s8/w2k6b36k18r4k18g28y6-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Ayre (Personal)](/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/)|
+|![Ayre (Personal) example sett](/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Ayre (Personal)](/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/)|
+|![Ayre (Personal) example sett](/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|

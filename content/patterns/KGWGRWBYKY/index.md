@@ -16,5 +16,5 @@ KGWGRWBYKY
 
 | Tartans |
 |---------------|
-| [Bird Family (Personal)](/setts/s10/k4g4w8g4r18w6b14y4k56y8-b2c2c80-g289c18-k101010-r901c38-wfcfcfc-yfccc00/)|
-|![Bird Family (Personal) example sett](/setts/s10/k4g4w8g4r18w6b14y4k56y8-b2c2c80-g289c18-k101010-r901c38-wfcfcfc-yfccc00/sett.png)|
+| [Bird Family (Personal)](/setts/s10/y8k56y4b14w6r18g4w8g4k4-b2c2c80-g289c18-k101010-r901c38-wfcfcfc-yfccc00/)|
+|![Bird Family (Personal) example sett](/setts/s10/y8k56y4b14w6r18g4w8g4k4-b2c2c80-g289c18-k101010-r901c38-wfcfcfc-yfccc00/sett.png)|

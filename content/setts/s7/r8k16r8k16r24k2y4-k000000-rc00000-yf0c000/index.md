@@ -1,5 +1,5 @@
 ---
-title: "MacDonald of Glencoe/Ardnamurchan"
+title: "MacKeane/MacIan"
 date: 2023-03-18
 ---
 In pattern [RKRKRKY](/patterns/rkrkrky/).

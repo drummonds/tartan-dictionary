@@ -16,7 +16,7 @@ GYGYGRGRGY
 
 | Tartans |
 |---------------|
-| [Montreal](/setts/s10/g86y4g6y4g12r4g2r4g20y156-g006818-rc80000-ya08858/)|
-|![Montreal example sett](/setts/s10/g86y4g6y4g12r4g2r4g20y156-g006818-rc80000-ya08858/sett.png)|
-| [Montreal (Fashion)](/setts/s10/g86y4g6y4g12r4g2r4g20y156-g006818-rc80000-ya08858/)|
-|![Montreal (Fashion) example sett](/setts/s10/g86y4g6y4g12r4g2r4g20y156-g006818-rc80000-ya08858/sett.png)|
+| [Montreal](/setts/s10/y156g20r4g2r4g12y4g6y4g86-g006818-rc80000-ya08858/)|
+|![Montreal example sett](/setts/s10/y156g20r4g2r4g12y4g6y4g86-g006818-rc80000-ya08858/sett.png)|
+| [Montreal (Fashion)](/setts/s10/y156g20r4g2r4g12y4g6y4g86-g006818-rc80000-ya08858/)|
+|![Montreal (Fashion) example sett](/setts/s10/y156g20r4g2r4g12y4g6y4g86-g006818-rc80000-ya08858/sett.png)|

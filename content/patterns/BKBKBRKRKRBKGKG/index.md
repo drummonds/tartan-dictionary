@@ -16,7 +16,7 @@ BKBKBRKRKRBKGKG
 
 | Tartans |
 |---------------|
-| [Doyel](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/)|
-|![Doyel example sett](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/sett.png)|
-| [Doyel (Name)](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/)|
-|![Doyel (Name) example sett](/setts/s15/b38k6b6k6b12r2k4ra4k4r2b12k6g6k6g76-b003c64-g003820-k101010-r888888-rac80000/sett.png)|
+| [Doyel](/setts/s15/g76k6g6k6b12r2k4ra4k4r2b12k6b6k6b38-b003c64-g003820-k101010-r888888-rac80000/)|
+|![Doyel example sett](/setts/s15/g76k6g6k6b12r2k4ra4k4r2b12k6b6k6b38-b003c64-g003820-k101010-r888888-rac80000/sett.png)|
+| [Doyel (Name)](/setts/s15/g76k6g6k6b12r2k4ra4k4r2b12k6b6k6b38-b003c64-g003820-k101010-r888888-rac80000/)|
+|![Doyel (Name) example sett](/setts/s15/g76k6g6k6b12r2k4ra4k4r2b12k6b6k6b38-b003c64-g003820-k101010-r888888-rac80000/sett.png)|

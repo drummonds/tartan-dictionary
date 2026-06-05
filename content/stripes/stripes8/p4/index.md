@@ -6,14 +6,6 @@ weight: 8
 Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes8/p3/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p5/">next ›</a></nav>
 
-### GYGYWYBY
-<a class="pat" href="/patterns/gygywyby/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GYGYWYBY</span></a>
-
-| Tartan |
-|---|
-| [Cladish](/patterns/gygywyby/) |
-| [Cladish (Fashion)](/patterns/gygywyby/) |
-
 ### GYKGWKYG
 <a class="pat" href="/patterns/gykgwkyg/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="seq">GYKGWKYG</span></a>
 
@@ -1015,13 +1007,6 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 |---|
 | [Raytheon](/patterns/kwkgwrkr/) |
 
-### KWKRKRKR
-<a class="pat" href="/patterns/kwkrkrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWKRKRKR</span></a>
-
-| Tartan |
-|---|
-| [Heriot #2](/patterns/kwkrkrkr/) |
-
 ### KWKRKRKW
 <a class="pat" href="/patterns/kwkrkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKRKRKW</span></a>
 
@@ -1649,5 +1634,14 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 |---|
 | [Johnston, Diana Hunting (Personal)](/patterns/rbwbgkby/) |
 | [Johnston, Diana Hunting (Personal)](/patterns/rbwbgkby/) |
+
+### RBWBGKGR
+<a class="pat" href="/patterns/rbwbgkgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBGKGR</span></a>
+
+| Tartan |
+|---|
+| [Inverness](/patterns/rbwbgkgr/) |
+| [Inverness - 1829 (District)](/patterns/rbwbgkgr/) |
+| [Inverness District Tartan Tartan Number: 1438. Earliest known date: 1822 Made for Augustus, Earl of Inverness, sometime prior to 1822. Logan used this sett to illustrate his method of recording tartans in his book, 'The Scottish Gael..', published in 1831. The territorial designation of this Royal tartan makes it appropriate for use as a district tartan in the town and county of Inverness. The white stripe is sometimes rendered in yellow. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rbwbgkgr/) |
 
 <nav class="pager"><a href="/stripes/stripes8/p3/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes8/p5/">5</a> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p5/">next ›</a></nav>

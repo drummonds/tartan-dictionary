@@ -6,7 +6,7 @@ BYGG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b12y4g50ga100-b440044-g604000-ga5c6428-yc4bc68/tartan.png)
+![Woven sample](/setts/s4/g100ga50y4b12-b440044-g5c6428-ga604000-yc4bc68/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYGG
 
 | Tartans |
 |---------------|
-| [Highland Greenford (Personal)](/setts/s4/b12y4g50ga100-b440044-g604000-ga5c6428-yc4bc68/)|
-|![Highland Greenford (Personal) example sett](/setts/s4/b12y4g50ga100-b440044-g604000-ga5c6428-yc4bc68/sett.png)|
+| [Highland Greenford (Personal)](/setts/s4/g100ga50y4b12-b440044-g5c6428-ga604000-yc4bc68/)|
+|![Highland Greenford (Personal) example sett](/setts/s4/g100ga50y4b12-b440044-g5c6428-ga604000-yc4bc68/sett.png)|

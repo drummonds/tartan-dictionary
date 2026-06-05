@@ -16,5 +16,5 @@ GRWRGRWGWR
 
 | Tartans |
 |---------------|
-| [Glenfinnan (Fashion)](/setts/s10/g4r8w4r8ga40r40w8ga12w8r20-g005448-ga006818-r880000-we0e0e0/)|
-|![Glenfinnan (Fashion) example sett](/setts/s10/g4r8w4r8ga40r40w8ga12w8r20-g005448-ga006818-r880000-we0e0e0/sett.png)|
+| [Glenfinnan (Fashion)](/setts/s10/r20w8g12w8r40g40r8w4r8ga4-g006818-ga005448-r880000-we0e0e0/)|
+|![Glenfinnan (Fashion) example sett](/setts/s10/r20w8g12w8r40g40r8w4r8ga4-g006818-ga005448-r880000-we0e0e0/sett.png)|

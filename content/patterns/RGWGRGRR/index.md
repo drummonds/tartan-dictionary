@@ -6,7 +6,7 @@ RGWGRGRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r2g4w4g4r4g16ra28r6-g008000-rc00000-ra703000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r6ra28g16r4g4w4g4r2-g008000-rc00000-ra703000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGWGRGRR
 
 | Tartans |
 |---------------|
-| [Scott, hunting](/setts/s8/r2g4w4g4r4g16ra28r6-g008000-rc00000-ra703000-we0e0e0/)|
-|![Scott, hunting example sett](/setts/s8/r2g4w4g4r4g16ra28r6-g008000-rc00000-ra703000-we0e0e0/sett.png)|
+| [Scott, hunting](/setts/s8/r6ra28g16r4g4w4g4r2-g008000-rc00000-ra703000-we0e0e0/)|
+|![Scott, hunting example sett](/setts/s8/r6ra28g16r4g4w4g4r2-g008000-rc00000-ra703000-we0e0e0/sett.png)|

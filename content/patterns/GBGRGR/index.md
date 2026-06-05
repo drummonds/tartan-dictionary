@@ -6,7 +6,7 @@ GBGRGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8b8g112r8g6r26-b505050-g808080-rc00000/tartan.png)
+![Woven sample](/setts/s6/r26g6r8g112b8g8-b505050-g808080-rc00000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGRGR
 
 | Tartans |
 |---------------|
-| [Auchairne grey](/setts/s6/g8b8g112r8g6r26-b505050-g808080-rc00000/)|
-|![Auchairne grey example sett](/setts/s6/g8b8g112r8g6r26-b505050-g808080-rc00000/sett.png)|
+| [Auchairne grey](/setts/s6/r26g6r8g112b8g8-b505050-g808080-rc00000/)|
+|![Auchairne grey example sett](/setts/s6/r26g6r8g112b8g8-b505050-g808080-rc00000/sett.png)|

@@ -6,7 +6,7 @@ GYBGBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g4y4b32g10b6r24-b000048-g447438-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r24b6g10b32y4g4-b000048-g447438-rc80000-ye8c000/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ GYBGBR
 
 | Tartans |
 |---------------|
-| [Dunbog Primary (School)](/setts/s6/g4y4b32g10b6r24-b000048-g447438-rc80000-ye8c000/)|
-|![Dunbog Primary (School) example sett](/setts/s6/g4y4b32g10b6r24-b000048-g447438-rc80000-ye8c000/sett.png)|
-| [Dunbog, Primary School](/setts/s6/g4y4b32g10ba6r24-b000050-ba304080-g008000-rc00000-yf0c000/)|
-|![Dunbog, Primary School example sett](/setts/s6/g4y4b32g10ba6r24-b000050-ba304080-g008000-rc00000-yf0c000/sett.png)|
-| [Dunbog Primary School Corporate Tartan Tartan Number: 954. Earliest known date: 1985 C. Armstrong is a pupil at the school. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g4y4b32g10ba6r24-b202060-ba2c2c80-g006818-rc80000-ye8c000/)|
-|![Dunbog Primary School Corporate Tartan Tartan Number: 954. Earliest known date: 1985 C. Armstrong is a pupil at the school. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/g4y4b32g10ba6r24-b202060-ba2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Dunbog Primary (School)](/setts/s6/r24b6g10b32y4g4-b000048-g447438-rc80000-ye8c000/)|
+|![Dunbog Primary (School) example sett](/setts/s6/r24b6g10b32y4g4-b000048-g447438-rc80000-ye8c000/sett.png)|
+| [Dunbog, Primary School](/setts/s6/r24b6g10ba32y4g4-b304080-ba000050-g008000-rc00000-yf0c000/)|
+|![Dunbog, Primary School example sett](/setts/s6/r24b6g10ba32y4g4-b304080-ba000050-g008000-rc00000-yf0c000/sett.png)|
+| [Dunbog Primary School Corporate Tartan Tartan Number: 954. Earliest known date: 1985 C. Armstrong is a pupil at the school. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r24b6g10ba32y4g4-b2c2c80-ba202060-g006818-rc80000-ye8c000/)|
+|![Dunbog Primary School Corporate Tartan Tartan Number: 954. Earliest known date: 1985 C. Armstrong is a pupil at the school. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/r24b6g10ba32y4g4-b2c2c80-ba202060-g006818-rc80000-ye8c000/sett.png)|

@@ -16,7 +16,7 @@ BWBWBWBWBWYWY
 
 | Tartans |
 |---------------|
-| [Highland Park HS Pipe Band](/setts/s13/b56w4b8w8b8w4b56w4b8w8y8w4y88-b2c2c80-we0e0e0-ye8c000/)|
-|![Highland Park HS Pipe Band example sett](/setts/s13/b56w4b8w8b8w4b56w4b8w8y8w4y88-b2c2c80-we0e0e0-ye8c000/sett.png)|
-| [Highland Park HS Pipe Band (School)](/setts/s13/b56w4b8w8b8w4b56w4b8w8y8w4y88-b2c2c80-we0e0e0-ye8c000/)|
-|![Highland Park HS Pipe Band (School) example sett](/setts/s13/b56w4b8w8b8w4b56w4b8w8y8w4y88-b2c2c80-we0e0e0-ye8c000/sett.png)|
+| [Highland Park HS Pipe Band](/setts/s13/y88w4y8w8b8w4b56w4b8w8b8w4b56-b2c2c80-we0e0e0-ye8c000/)|
+|![Highland Park HS Pipe Band example sett](/setts/s13/y88w4y8w8b8w4b56w4b8w8b8w4b56-b2c2c80-we0e0e0-ye8c000/sett.png)|
+| [Highland Park HS Pipe Band (School)](/setts/s13/y88w4y8w8b8w4b56w4b8w8b8w4b56-b2c2c80-we0e0e0-ye8c000/)|
+|![Highland Park HS Pipe Band (School) example sett](/setts/s13/y88w4y8w8b8w4b56w4b8w8b8w4b56-b2c2c80-we0e0e0-ye8c000/sett.png)|

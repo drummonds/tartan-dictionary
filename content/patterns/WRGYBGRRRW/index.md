@@ -16,5 +16,5 @@ WRGYBGRRRW
 
 | Tartans |
 |---------------|
-| [Unidentified Silk scarf](/setts/s10/w12r24ra40r32g128b32y32ga24ra40w12-b3c82af-g005020-ga503c14-rc82828-radc0000-we0e0e0-ye8c000/)|
-|![Unidentified Silk scarf example sett](/setts/s10/w12r24ra40r32g128b32y32ga24ra40w12-b3c82af-g005020-ga503c14-rc82828-radc0000-we0e0e0-ye8c000/sett.png)|
+| [Unidentified Silk scarf](/setts/s10/w12r40g24y32b32ga128ra32r40ra24w12-b3c82af-g503c14-ga005020-rdc0000-rac82828-we0e0e0-ye8c000/)|
+|![Unidentified Silk scarf example sett](/setts/s10/w12r40g24y32b32ga128ra32r40ra24w12-b3c82af-g503c14-ga005020-rdc0000-rac82828-we0e0e0-ye8c000/sett.png)|

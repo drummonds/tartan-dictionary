@@ -16,5 +16,5 @@ BBBBBGGBBBGBBBGBBBKBBBKB
 
 | Tartans |
 |---------------|
-| [Hebrides Inner](/setts/s24/b46k4ba8b2ba8k4b2bb16b8g8b10ba4b2g8b2ba4b10g8ga8b22ba6b2ba6b94-b600030-ba304080-bb000050-g30a010-ga003000-k000000/)|
-|![Hebrides Inner example sett](/setts/s24/b46k4ba8b2ba8k4b2bb16b8g8b10ba4b2g8b2ba4b10g8ga8b22ba6b2ba6b94-b600030-ba304080-bb000050-g30a010-ga003000-k000000/sett.png)|
+| [Hebrides Inner](/setts/s24/b94ba6b2ba6b22g8ga8b10ba4b2ga8b2ba4b10ga8b8bb16b2k4ba8b2ba8k4b46-b600030-ba304080-bb000050-g003000-ga30a010-k000000/)|
+|![Hebrides Inner example sett](/setts/s24/b94ba6b2ba6b22g8ga8b10ba4b2ga8b2ba4b10ga8b8bb16b2k4ba8b2ba8k4b46-b600030-ba304080-bb000050-g003000-ga30a010-k000000/sett.png)|

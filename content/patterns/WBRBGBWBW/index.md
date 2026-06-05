@@ -16,9 +16,9 @@ WBRBGBWBW
 
 | Tartans |
 |---------------|
-| [Wombles #2](/setts/s9/w8b2r12b6g12b2w2ba16w8-b080848-ba2c4084-g005020-rdc0000-we0e0e0/)|
-|![Wombles #2 example sett](/setts/s9/w8b2r12b6g12b2w2ba16w8-b080848-ba2c4084-g005020-rdc0000-we0e0e0/sett.png)|
-| [Wombles 3 (Corporate)](/setts/s9/w16b4r24b12g24b4w4ba32w16-b202060-ba2c2c80-g006818-rc80000-wfcfcfc/)|
-|![Wombles 3 (Corporate) example sett](/setts/s9/w16b4r24b12g24b4w4ba32w16-b202060-ba2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
-| [Womble](/setts/s9/w8b2r12b6g12b2w2ba16w8-b000050-ba304080-g008000-rc00000-we0e0e0/)|
-|![Womble example sett](/setts/s9/w8b2r12b6g12b2w2ba16w8-b000050-ba304080-g008000-rc00000-we0e0e0/sett.png)|
+| [Wombles #2](/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b2c4084-ba080848-g005020-rdc0000-we0e0e0/)|
+|![Wombles #2 example sett](/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b2c4084-ba080848-g005020-rdc0000-we0e0e0/sett.png)|
+| [Wombles 3 (Corporate)](/setts/s9/w16b32w4ba4g24ba12r24ba4w16-b2c2c80-ba202060-g006818-rc80000-wfcfcfc/)|
+|![Wombles 3 (Corporate) example sett](/setts/s9/w16b32w4ba4g24ba12r24ba4w16-b2c2c80-ba202060-g006818-rc80000-wfcfcfc/sett.png)|
+| [Womble](/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b304080-ba000050-g008000-rc00000-we0e0e0/)|
+|![Womble example sett](/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b304080-ba000050-g008000-rc00000-we0e0e0/sett.png)|

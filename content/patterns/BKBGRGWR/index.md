@@ -6,7 +6,7 @@ BKBGRGWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6k4b40g16r6g24w40ra12-b788cb4-g007800-k000000-ra0783c-ra8c0000-wf0f0f0/tartan.png)
+![Woven sample](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBGRGWR
 
 | Tartans |
 |---------------|
-| [Coulter Dress (Personal)](/setts/s8/b6k4b40g16r6g24w40ra12-b788cb4-g007800-k000000-ra0783c-ra8c0000-wf0f0f0/)|
-|![Coulter Dress (Personal) example sett](/setts/s8/b6k4b40g16r6g24w40ra12-b788cb4-g007800-k000000-ra0783c-ra8c0000-wf0f0f0/sett.png)|
-| [Coulter Dress (Personal)](/setts/s8/b6k4b40g16r6g24w40ra12-b788cb4-g007800-k000000-ra0783c-ra8c0000-wf0f0f0/)|
-|![Coulter Dress (Personal) example sett](/setts/s8/b6k4b40g16r6g24w40ra12-b788cb4-g007800-k000000-ra0783c-ra8c0000-wf0f0f0/sett.png)|
+| [Coulter Dress (Personal)](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/)|
+|![Coulter Dress (Personal) example sett](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/sett.png)|
+| [Coulter Dress (Personal)](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/)|
+|![Coulter Dress (Personal) example sett](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/sett.png)|

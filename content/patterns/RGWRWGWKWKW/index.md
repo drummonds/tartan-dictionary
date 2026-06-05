@@ -16,5 +16,5 @@ RGWRWGWKWKW
 
 | Tartans |
 |---------------|
-| [Knox, David Paul (Personal)](/setts/s11/r2g10w2ra8w2g80wa2k20w4k4w4-g285800-k101010-re87878-radc0000-wffffff-wa98c8e8/)|
-|![Knox, David Paul (Personal) example sett](/setts/s11/r2g10w2ra8w2g80wa2k20w4k4w4-g285800-k101010-re87878-radc0000-wffffff-wa98c8e8/sett.png)|
+| [Knox, David Paul (Personal)](/setts/s11/w4k4w4k20wa2g80w2r8w2g10ra2-g285800-k101010-rdc0000-rae87878-wffffff-wa98c8e8/)|
+|![Knox, David Paul (Personal) example sett](/setts/s11/w4k4w4k20wa2g80w2r8w2g10ra2-g285800-k101010-rdc0000-rae87878-wffffff-wa98c8e8/sett.png)|

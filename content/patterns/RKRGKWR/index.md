@@ -6,7 +6,7 @@ RKRGKWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r20k6r20g34k24w18r72-g006818-k101010-rc80000-w82cffd/tartan.png)
+![Woven sample](/setts/s7/r72w18k24g34r20k6r20-g006818-k101010-rc80000-w82cffd/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRGKWR
 
 | Tartans |
 |---------------|
-| [MacDuff #6](/setts/s7/r20k6r20g34k24w18r72-g006818-k101010-rc80000-w82cffd/)|
-|![MacDuff #6 example sett](/setts/s7/r20k6r20g34k24w18r72-g006818-k101010-rc80000-w82cffd/sett.png)|
+| [MacDuff #6](/setts/s7/r72w18k24g34r20k6r20-g006818-k101010-rc80000-w82cffd/)|
+|![MacDuff #6 example sett](/setts/s7/r72w18k24g34r20k6r20-g006818-k101010-rc80000-w82cffd/sett.png)|

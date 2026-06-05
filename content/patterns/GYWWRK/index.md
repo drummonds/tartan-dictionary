@@ -6,7 +6,7 @@ GYWWRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g12y6w12wa14r18k124-g008b00-k000000-ra00000-w00fcfc-wafcfcfc-yffff00/tartan.png)
+![Woven sample](/setts/s6/k124r18w14wa12y6g12-g008b00-k000000-ra00000-wfcfcfc-wa00fcfc-yffff00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYWWRK
 
 | Tartans |
 |---------------|
-| [Tainsh (2016)](/setts/s6/g12y6w12wa14r18k124-g008b00-k000000-ra00000-w00fcfc-wafcfcfc-yffff00/)|
-|![Tainsh (2016) example sett](/setts/s6/g12y6w12wa14r18k124-g008b00-k000000-ra00000-w00fcfc-wafcfcfc-yffff00/sett.png)|
+| [Tainsh (2016)](/setts/s6/k124r18w14wa12y6g12-g008b00-k000000-ra00000-wfcfcfc-wa00fcfc-yffff00/)|
+|![Tainsh (2016) example sett](/setts/s6/k124r18w14wa12y6g12-g008b00-k000000-ra00000-wfcfcfc-wa00fcfc-yffff00/sett.png)|

@@ -6,7 +6,7 @@ BKBRBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8k8ba12r44bb32g12-b780078-ba003c64-bb2c2c80-g289c18-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/g12b32r44ba12k8bb8-b2c2c80-ba003c64-bb780078-g289c18-k101010-rc80000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBRBG
 
 | Tartans |
 |---------------|
-| [Nicolson of Tiree & Coll](/setts/s6/b8k8ba12r44bb32g12-b780078-ba003c64-bb2c2c80-g289c18-k101010-rc80000/)|
-|![Nicolson of Tiree & Coll example sett](/setts/s6/b8k8ba12r44bb32g12-b780078-ba003c64-bb2c2c80-g289c18-k101010-rc80000/sett.png)|
-| [Nicolson of Tiree & Coll (Clan)](/setts/s6/b8k8ba12r44bb32g12-b780078-ba003c64-bb2c2c80-g289c18-k101010-rc80000/)|
-|![Nicolson of Tiree & Coll (Clan) example sett](/setts/s6/b8k8ba12r44bb32g12-b780078-ba003c64-bb2c2c80-g289c18-k101010-rc80000/sett.png)|
+| [Nicolson of Tiree & Coll](/setts/s6/g12b32r44ba12k8bb8-b2c2c80-ba003c64-bb780078-g289c18-k101010-rc80000/)|
+|![Nicolson of Tiree & Coll example sett](/setts/s6/g12b32r44ba12k8bb8-b2c2c80-ba003c64-bb780078-g289c18-k101010-rc80000/sett.png)|
+| [Nicolson of Tiree & Coll (Clan)](/setts/s6/g12b32r44ba12k8bb8-b2c2c80-ba003c64-bb780078-g289c18-k101010-rc80000/)|
+|![Nicolson of Tiree & Coll (Clan) example sett](/setts/s6/g12b32r44ba12k8bb8-b2c2c80-ba003c64-bb780078-g289c18-k101010-rc80000/sett.png)|

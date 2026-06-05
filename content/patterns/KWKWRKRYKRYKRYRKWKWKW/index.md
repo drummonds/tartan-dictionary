@@ -16,5 +16,5 @@ KWKWRKRYKRYKRYRKWKWKW
 
 | Tartans |
 |---------------|
-| [Clutha](/setts/s21/k6w12k6w12r4k64r2y4k6r2y4k6r2y10r2k36w4k6w6k8w12-k101010-r888888-we0e0e0-yfccc00/)|
-|![Clutha example sett](/setts/s21/k6w12k6w12r4k64r2y4k6r2y4k6r2y10r2k36w4k6w6k8w12-k101010-r888888-we0e0e0-yfccc00/sett.png)|
+| [Clutha](/setts/s21/w12k8w6k6w4k36r2y10r2k6y4r2k6y4r2k64r4w12k6w12k6-k101010-r888888-we0e0e0-yfccc00/)|
+|![Clutha example sett](/setts/s21/w12k8w6k6w4k36r2y10r2k6y4r2k6y4r2k64r4w12k6w12k6-k101010-r888888-we0e0e0-yfccc00/sett.png)|

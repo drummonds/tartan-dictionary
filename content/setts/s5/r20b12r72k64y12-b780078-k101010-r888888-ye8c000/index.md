@@ -1,13 +1,13 @@
 ---
-title: "New York State Police Pipe Band"
+title: "New York State Police (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBRKY](/patterns/rbrky/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3122
+Original link http://www.tartansauthority.com/tartan-ferret/display/5619/
 
 ## Thread count
 N/20 P12 N72 K64 Y/12

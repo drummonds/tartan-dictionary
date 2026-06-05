@@ -16,5 +16,5 @@ BWKWWWWWKGWWW
 
 | Tartans |
 |---------------|
-| [Diana Memorial Rose](/setts/s13/b4w4k4w8wa16w4wa4w4k12g24wb46w4wb8-b4c0000-g789484-k1c1714-wffffff-wa58cad1-wbe8ccb8/)|
-|![Diana Memorial Rose example sett](/setts/s13/b4w4k4w8wa16w4wa4w4k12g24wb46w4wb8-b4c0000-g789484-k1c1714-wffffff-wa58cad1-wbe8ccb8/sett.png)|
+| [Diana Memorial Rose](/setts/s13/w8wa4w46g24k12wa4wb4wa4wb16wa8k4wa4b4-b4c0000-g789484-k1c1714-we8ccb8-waffffff-wb58cad1/)|
+|![Diana Memorial Rose example sett](/setts/s13/w8wa4w46g24k12wa4wb4wa4wb16wa8k4wa4b4-b4c0000-g789484-k1c1714-we8ccb8-waffffff-wb58cad1/sett.png)|

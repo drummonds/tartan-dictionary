@@ -16,7 +16,7 @@ BBGBRBBBBRBGBRBBGBGYGB
 
 | Tartans |
 |---------------|
-| [Monarch of the Glen](/setts/s22/b4g4y2g4ba2g6bb4ba4r2ba4g2ba6r4ba2b40bb4ba4r2ba4g2ba6bb84-b202060-ba003c64-bb780078-g006818-r800028-ybc8c00/)|
-|![Monarch of the Glen example sett](/setts/s22/b4g4y2g4ba2g6bb4ba4r2ba4g2ba6r4ba2b40bb4ba4r2ba4g2ba6bb84-b202060-ba003c64-bb780078-g006818-r800028-ybc8c00/sett.png)|
-| [Monarch of the Glen (Fashion)](/setts/s22/b4g4y2g4ba2g6bb4ba4r2ba4g2ba6r4ba2b40bb4ba4r2ba4g2ba6bb84-b202060-ba003c64-bb780078-g006818-r800028-ybc8c00/)|
-|![Monarch of the Glen (Fashion) example sett](/setts/s22/b4g4y2g4ba2g6bb4ba4r2ba4g2ba6r4ba2b40bb4ba4r2ba4g2ba6bb84-b202060-ba003c64-bb780078-g006818-r800028-ybc8c00/sett.png)|
+| [Monarch of the Glen](/setts/s22/b84ba6g2ba4r2ba4b4bb40ba2r4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4-b780078-ba003c64-bb202060-g006818-r800028-ybc8c00/)|
+|![Monarch of the Glen example sett](/setts/s22/b84ba6g2ba4r2ba4b4bb40ba2r4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4-b780078-ba003c64-bb202060-g006818-r800028-ybc8c00/sett.png)|
+| [Monarch of the Glen (Fashion)](/setts/s22/b84ba6g2ba4r2ba4b4bb40ba2r4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4-b780078-ba003c64-bb202060-g006818-r800028-ybc8c00/)|
+|![Monarch of the Glen (Fashion) example sett](/setts/s22/b84ba6g2ba4r2ba4b4bb40ba2r4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4-b780078-ba003c64-bb202060-g006818-r800028-ybc8c00/sett.png)|

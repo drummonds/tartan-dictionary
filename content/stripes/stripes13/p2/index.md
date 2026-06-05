@@ -6,13 +6,6 @@ weight: 13
 Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes13/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <strong>2</strong> <a href="/stripes/stripes13/p3/">3</a> <a href="/stripes/stripes13/p4/">4</a> <a href="/stripes/stripes13/p3/">next ›</a></nav>
 
-### BRBYBKBKBWBWR
-<a class="pat" href="/patterns/brbybkbkbwbwr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">BRBYBKBKBWBWR</span></a>
-
-| Tartan |
-|---|
-| [Titanic (Belfast)](/patterns/brbybkbkbwbwr/) |
-
 ### BRBYBRBYBRGRG
 <a class="pat" href="/patterns/brbybrbybrgrg/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="seq">BRBYBRBYBRGRG</span></a>
 
@@ -770,7 +763,6 @@ Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Currie (Clan)](/patterns/gkgygwgwgwgwg/) |
-| [Currie of Balilone](/patterns/gkgygwgwgwgwg/) |
 | [Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gkgygwgwgwgwg/) |
 
 ### GKGYKWKWKWKWK
@@ -1619,5 +1611,19 @@ Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Day (2016)](/patterns/kygbrwrbgyrkr/) |
+
+### KYGRGYKBKYYYK
+<a class="pat" href="/patterns/kygrgykbkyyyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="seq">KYGRGYKBKYYYK</span></a>
+
+| Tartan |
+|---|
+| [Liberton](/patterns/kygrgykbkyyyk/) |
+
+### KYKYKGKWBKWKY
+<a class="pat" href="/patterns/kykykgkwbkwky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKYKGKWBKWKY</span></a>
+
+| Tartan |
+|---|
+| [Lotus Elan (Corporate)](/patterns/kykykgkwbkwky/) |
 
 <nav class="pager"><a href="/stripes/stripes13/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <strong>2</strong> <a href="/stripes/stripes13/p3/">3</a> <a href="/stripes/stripes13/p4/">4</a> <a href="/stripes/stripes13/p3/">next ›</a></nav>

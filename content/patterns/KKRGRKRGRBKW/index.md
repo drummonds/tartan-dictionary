@@ -16,5 +16,5 @@ KKRGRKRGRBKW
 
 | Tartans |
 |---------------|
-| [Royal Scottish Pipe Band Association](/setts/s12/k6ka12r4g6r4ka30r4g6r4b40ka2w12-b5c8ca8-g006818-k000000-ka101010-rc80000-wc0c0c0/)|
-|![Royal Scottish Pipe Band Association example sett](/setts/s12/k6ka12r4g6r4ka30r4g6r4b40ka2w12-b5c8ca8-g006818-k000000-ka101010-rc80000-wc0c0c0/sett.png)|
+| [Royal Scottish Pipe Band Association](/setts/s12/w12k2b40r4g6r4k30r4g6r4k12ka6-b5c8ca8-g006818-k101010-ka000000-rc80000-wc0c0c0/)|
+|![Royal Scottish Pipe Band Association example sett](/setts/s12/w12k2b40r4g6r4k30r4g6r4k12ka6-b5c8ca8-g006818-k101010-ka000000-rc80000-wc0c0c0/sett.png)|

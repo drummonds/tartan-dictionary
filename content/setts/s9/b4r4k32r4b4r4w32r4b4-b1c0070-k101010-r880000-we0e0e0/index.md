@@ -1,13 +1,13 @@
 ---
-title: "MacPherson of Pitmain"
+title: "MacPherson of Pitmain (Clan)"
 date: 2023-03-18
 ---
 In pattern [BRKRBRWRB](/patterns/brkrbrwrb/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5222
+Original link http://www.tartansauthority.com/tartan-ferret/display/3558/
 
 ## Thread count
 DB/4 DR4 K32 DR4 DB4 DR4 LN32 DR4 DB/4

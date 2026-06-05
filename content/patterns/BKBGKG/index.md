@@ -6,7 +6,7 @@ BKBGKG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4k24b4g28k4g28-b5c8ca8-g006818-k000000/tartan.png)
+![Woven sample](/setts/s6/g28k4g28b4k24b4-b5c8ca8-g006818-k000000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBGKG
 
 | Tartans |
 |---------------|
-| [Innes, Georgina (Portrait)](/setts/s6/b4k24b4g28k4g28-b5c8ca8-g006818-k000000/)|
-|![Innes, Georgina (Portrait) example sett](/setts/s6/b4k24b4g28k4g28-b5c8ca8-g006818-k000000/sett.png)|
-| [Innes](/setts/s6/b2k12b2g14k2g14-b5480b0-g008000-k000000/)|
-|![Innes example sett](/setts/s6/b2k12b2g14k2g14-b5480b0-g008000-k000000/sett.png)|
+| [Innes, Georgina (Portrait)](/setts/s6/g28k4g28b4k24b4-b5c8ca8-g006818-k000000/)|
+|![Innes, Georgina (Portrait) example sett](/setts/s6/g28k4g28b4k24b4-b5c8ca8-g006818-k000000/sett.png)|
+| [Innes](/setts/s6/g14k2g14b2k12b2-b5480b0-g008000-k000000/)|
+|![Innes example sett](/setts/s6/g14k2g14b2k12b2-b5480b0-g008000-k000000/sett.png)|

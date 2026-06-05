@@ -16,5 +16,5 @@ KGRGWGKWGWK
 
 | Tartans |
 |---------------|
-| [Grey Spencer Plaid](/setts/s11/k4w10g4w10k18g4w4g4r4g16k80-g808080-k000000-r806050-we0e0e0/)|
-|![Grey Spencer Plaid example sett](/setts/s11/k4w10g4w10k18g4w4g4r4g16k80-g808080-k000000-r806050-we0e0e0/sett.png)|
+| [Grey Spencer Plaid](/setts/s11/k80g16r4g4w4g4k18w10g4w10k4-g808080-k000000-r806050-we0e0e0/)|
+|![Grey Spencer Plaid example sett](/setts/s11/k80g16r4g4w4g4k18w10g4w10k4-g808080-k000000-r806050-we0e0e0/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "North of Scotland Tartan Army (Corp)"
+title: "North of Scotland Tartan Army"
 date: 2023-03-18
 ---
 In pattern [BKBKGBGKWYBYW](/patterns/bkbkgbgkwybyw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7755/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5735
 
 ## Thread count
 LN/4 N4 DB30 N6 LN6 K22 G28 DB6 G28 K22 P20 K6 P/6

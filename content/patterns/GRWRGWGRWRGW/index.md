@@ -16,5 +16,5 @@ GRWRGWGRWRGW
 
 | Tartans |
 |---------------|
-| [SYHA Hostelling Scotland](/setts/s12/g18r2w4r6g26wa42ga68r10w10r10ga32wa26-g767e52-ga004c00-rb03000-wffffff-wa98c8e8/)|
-|![SYHA Hostelling Scotland example sett](/setts/s12/g18r2w4r6g26wa42ga68r10w10r10ga32wa26-g767e52-ga004c00-rb03000-wffffff-wa98c8e8/sett.png)|
+| [SYHA Hostelling Scotland](/setts/s12/w26g32r10wa10r10g68w42ga26r6wa4r2ga18-g004c00-ga767e52-rb03000-w98c8e8-waffffff/)|
+|![SYHA Hostelling Scotland example sett](/setts/s12/w26g32r10wa10r10g68w42ga26r6wa4r2ga18-g004c00-ga767e52-rb03000-w98c8e8-waffffff/sett.png)|

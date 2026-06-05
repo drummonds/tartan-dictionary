@@ -16,7 +16,7 @@ BKBBKYYYKYYY
 
 | Tartans |
 |---------------|
-| [Merise and Lars (Personal)](/setts/s12/b4k4b16ba24k4y16ya4y4k4yb24y6yb6-b780078-ba2c2c80-k00002c-yb0a458-yad87c00-ybccc098/)|
-|![Merise and Lars (Personal) example sett](/setts/s12/b4k4b16ba24k4y16ya4y4k4yb24y6yb6-b780078-ba2c2c80-k00002c-yb0a458-yad87c00-ybccc098/sett.png)|
-| [Merise and Lars (Personal)](/setts/s12/b4k4b16ba24k4y16ya4y4k4yb24y6yb6-b780078-ba2c2c80-k00002c-yb0a458-yad87c00-ybccc098/)|
-|![Merise and Lars (Personal) example sett](/setts/s12/b4k4b16ba24k4y16ya4y4k4yb24y6yb6-b780078-ba2c2c80-k00002c-yb0a458-yad87c00-ybccc098/sett.png)|
+| [Merise and Lars (Personal)](/setts/s12/y6ya6y24k4ya4yb4ya16k4b24ba16k4ba4-b2c2c80-ba780078-k00002c-yccc098-yab0a458-ybd87c00/)|
+|![Merise and Lars (Personal) example sett](/setts/s12/y6ya6y24k4ya4yb4ya16k4b24ba16k4ba4-b2c2c80-ba780078-k00002c-yccc098-yab0a458-ybd87c00/sett.png)|
+| [Merise and Lars (Personal)](/setts/s12/y6ya6y24k4ya4yb4ya16k4b24ba16k4ba4-b2c2c80-ba780078-k00002c-yccc098-yab0a458-ybd87c00/)|
+|![Merise and Lars (Personal) example sett](/setts/s12/y6ya6y24k4ya4yb4ya16k4b24ba16k4ba4-b2c2c80-ba780078-k00002c-yccc098-yab0a458-ybd87c00/sett.png)|

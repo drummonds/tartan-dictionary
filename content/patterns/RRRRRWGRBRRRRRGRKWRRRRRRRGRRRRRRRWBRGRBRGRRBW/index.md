@@ -16,5 +16,5 @@ RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Hynde Cotton Plaid](/setts/s45/r2ra4r6ra16r16w4g32r80b76r10ra10r2ra10r10g72r6k80w4r8ra8r2ra2r2ra8r8g30r8ra8r2ra2r2ra8r8w4b80r82g14r4b2r4g14ra14r6b2w4-b202060-g285800-k101010-rc80000-raa00048-wfcfcfc/)|
-|![Unnamed C18th - Hynde Cotton Plaid example sett](/setts/s45/r2ra4r6ra16r16w4g32r80b76r10ra10r2ra10r10g72r6k80w4r8ra8r2ra2r2ra8r8g30r8ra8r2ra2r2ra8r8w4b80r82g14r4b2r4g14ra14r6b2w4-b202060-g285800-k101010-rc80000-raa00048-wfcfcfc/sett.png)|
+| [Unnamed C18th - Hynde Cotton Plaid](/setts/s45/w4b2r6ra14g14r4b2r4g14r82b80w4r8ra8r2ra2r2ra8r8g30r8ra8r2ra2r2ra8r8w4k80r6g72r10ra10r2ra10r10b76r80g32w4r16ra16r6ra4r2-b202060-g285800-k101010-rc80000-raa00048-wfcfcfc/)|
+|![Unnamed C18th - Hynde Cotton Plaid example sett](/setts/s45/w4b2r6ra14g14r4b2r4g14r82b80w4r8ra8r2ra2r2ra8r8g30r8ra8r2ra2r2ra8r8w4k80r6g72r10ra10r2ra10r10b76r80g32w4r16ra16r6ra4r2-b202060-g285800-k101010-rc80000-raa00048-wfcfcfc/sett.png)|

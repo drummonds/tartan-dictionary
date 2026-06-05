@@ -6,7 +6,7 @@ WBKBKBGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w2b4k2b28k4b8g15w4-b3c3c68-g6c6c6c-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/w4g15b8k4b28k2b4w2-b3c3c68-g6c6c6c-k101010-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBKBKBGW
 
 | Tartans |
 |---------------|
-| [Kelvinside Academy (School)](/setts/s8/w2b4k2b28k4b8g15w4-b3c3c68-g6c6c6c-k101010-we0e0e0/)|
-|![Kelvinside Academy (School) example sett](/setts/s8/w2b4k2b28k4b8g15w4-b3c3c68-g6c6c6c-k101010-we0e0e0/sett.png)|
+| [Kelvinside Academy (School)](/setts/s8/w4g15b8k4b28k2b4w2-b3c3c68-g6c6c6c-k101010-we0e0e0/)|
+|![Kelvinside Academy (School) example sett](/setts/s8/w4g15b8k4b28k2b4w2-b3c3c68-g6c6c6c-k101010-we0e0e0/sett.png)|

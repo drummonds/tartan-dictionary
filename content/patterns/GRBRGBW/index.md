@@ -6,7 +6,7 @@ GRBRGBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4r4b4r50g20ba40w8-b0596fa-ba002814-g005020-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/w8b40g20r50ba4r4g4-b002814-ba0596fa-g005020-rdc0000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRBRGBW
 
 | Tartans |
 |---------------|
-| [Caledonian Brewery (Corporate)](/setts/s7/g4r4b4r50g20ba40w8-b0596fa-ba002814-g005020-rdc0000-we0e0e0/)|
-|![Caledonian Brewery (Corporate) example sett](/setts/s7/g4r4b4r50g20ba40w8-b0596fa-ba002814-g005020-rdc0000-we0e0e0/sett.png)|
+| [Caledonian Brewery (Corporate)](/setts/s7/w8b40g20r50ba4r4g4-b002814-ba0596fa-g005020-rdc0000-we0e0e0/)|
+|![Caledonian Brewery (Corporate) example sett](/setts/s7/w8b40g20r50ba4r4g4-b002814-ba0596fa-g005020-rdc0000-we0e0e0/sett.png)|

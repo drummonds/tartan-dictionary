@@ -16,7 +16,7 @@ BKBKRBKBKYBKBKBKBKBKBKBKBKBKBKBKBKY
 
 | Tartans |
 |---------------|
-| [Coulin](/setts/s35/b4k4b4k4r36b4k4b4k4y32b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4y64-b6080e0-k000000-r70000c-yf09430/)|
-|![Coulin example sett](/setts/s35/b4k4b4k4r36b4k4b4k4y32b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4y64-b6080e0-k000000-r70000c-yf09430/sett.png)|
-| [Coulin (Fashion)](/setts/s35/b4k4b4k4r36b4k4b4k4y32b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4y64-b6080e0-k000000-r70000c-yf09430/)|
-|![Coulin (Fashion) example sett](/setts/s35/b4k4b4k4r36b4k4b4k4y32b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4y64-b6080e0-k000000-r70000c-yf09430/sett.png)|
+| [Coulin](/setts/s35/y64k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4y32k4b4k4b4r36k4b4k4b4-b6080e0-k000000-r70000c-yf09430/)|
+|![Coulin example sett](/setts/s35/y64k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4y32k4b4k4b4r36k4b4k4b4-b6080e0-k000000-r70000c-yf09430/sett.png)|
+| [Coulin (Fashion)](/setts/s35/y64k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4y32k4b4k4b4r36k4b4k4b4-b6080e0-k000000-r70000c-yf09430/)|
+|![Coulin (Fashion) example sett](/setts/s35/y64k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4y32k4b4k4b4r36k4b4k4b4-b6080e0-k000000-r70000c-yf09430/sett.png)|

@@ -16,5 +16,5 @@ GGWGWGWGWGWGWGWGGKGWGWGWGWGWGWGWGKWK
 
 | Tartans |
 |---------------|
-| [British Columbia (Commemorative)](/setts/s36/g8ga12w56ga2w2ga2w2ga2w2ga2w2ga2w2ga2w2ga16g48k24g80w40g2w2g2w2g2w2g2w2g2w2g2w2g16k16w32k100-g003820-ga006818-k000000-we0e0e0/)|
-|![British Columbia (Commemorative) example sett](/setts/s36/g8ga12w56ga2w2ga2w2ga2w2ga2w2ga2w2ga2w2ga16g48k24g80w40g2w2g2w2g2w2g2w2g2w2g2w2g16k16w32k100-g003820-ga006818-k000000-we0e0e0/sett.png)|
+| [British Columbia (Commemorative)](/setts/s36/k100w32k16g16w2g2w2g2w2g2w2g2w2g2w2g2w40g80k24g48ga16w2ga2w2ga2w2ga2w2ga2w2ga2w2ga2w56ga12g8-g003820-ga006818-k000000-we0e0e0/)|
+|![British Columbia (Commemorative) example sett](/setts/s36/k100w32k16g16w2g2w2g2w2g2w2g2w2g2w2g2w40g80k24g48ga16w2ga2w2ga2w2ga2w2ga2w2ga2w2ga2w56ga12g8-g003820-ga006818-k000000-we0e0e0/sett.png)|

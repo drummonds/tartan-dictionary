@@ -16,5 +16,5 @@ KRKRKRKRK
 
 | Tartans |
 |---------------|
-| [Llewellyn (Welsh Name)](/setts/s9/k2r4k2r40k9r4k7r4k74-k101010-r888888/)|
-|![Llewellyn (Welsh Name) example sett](/setts/s9/k2r4k2r40k9r4k7r4k74-k101010-r888888/sett.png)|
+| [Llewellyn (Welsh Name)](/setts/s9/k74r4k7r4k9r40k2r4k2-k101010-r888888/)|
+|![Llewellyn (Welsh Name) example sett](/setts/s9/k74r4k7r4k9r40k2r4k2-k101010-r888888/sett.png)|

@@ -16,7 +16,7 @@ GBRRGRRBRRGRR
 
 | Tartans |
 |---------------|
-| [Ross, David](/setts/s13/g16b24r60ra8ga4ra8r60b8r60ra8ga4ra8r60-b5c5c5c-g289c18-ga789484-rc04c08-raa00000/)|
-|![Ross, David example sett](/setts/s13/g16b24r60ra8ga4ra8r60b8r60ra8ga4ra8r60-b5c5c5c-g289c18-ga789484-rc04c08-raa00000/sett.png)|
-| [Ross, David (Commemorative)](/setts/s13/g16b24r60ra8ga4ra8r60b8r60ra8ga4ra8r60-b5c5c5c-g289c18-ga789484-rc04c08-raa00000/)|
-|![Ross, David (Commemorative) example sett](/setts/s13/g16b24r60ra8ga4ra8r60b8r60ra8ga4ra8r60-b5c5c5c-g289c18-ga789484-rc04c08-raa00000/sett.png)|
+| [Ross, David](/setts/s13/r60ra8g4ra8r60b8r60ra8g4ra8r60b24ga16-b5c5c5c-g789484-ga289c18-rc04c08-raa00000/)|
+|![Ross, David example sett](/setts/s13/r60ra8g4ra8r60b8r60ra8g4ra8r60b24ga16-b5c5c5c-g789484-ga289c18-rc04c08-raa00000/sett.png)|
+| [Ross, David (Commemorative)](/setts/s13/r60ra8g4ra8r60b8r60ra8g4ra8r60b24ga16-b5c5c5c-g789484-ga289c18-rc04c08-raa00000/)|
+|![Ross, David (Commemorative) example sett](/setts/s13/r60ra8g4ra8r60b8r60ra8g4ra8r60b24ga16-b5c5c5c-g789484-ga289c18-rc04c08-raa00000/sett.png)|

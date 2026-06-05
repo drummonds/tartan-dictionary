@@ -16,5 +16,5 @@ WBGYGBGBGBRBGW
 
 | Tartans |
 |---------------|
-| [Scottish Bakers](/setts/s14/w2g8b2r4b66g4b4g4b4g26y10g6b4w4-b5a008c-g808080-rb458ac-wffffff-yc4bc68/)|
-|![Scottish Bakers example sett](/setts/s14/w2g8b2r4b66g4b4g4b4g26y10g6b4w4-b5a008c-g808080-rb458ac-wffffff-yc4bc68/sett.png)|
+| [Scottish Bakers](/setts/s14/w4b4g6y10g26b4g4b4g4b66r4b2g8w2-b5a008c-g808080-rb458ac-wffffff-yc4bc68/)|
+|![Scottish Bakers example sett](/setts/s14/w4b4g6y10g26b4g4b4g4b66r4b2g8w2-b5a008c-g808080-rb458ac-wffffff-yc4bc68/sett.png)|

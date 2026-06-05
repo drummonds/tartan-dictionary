@@ -1,13 +1,13 @@
 ---
-title: "Nance (Name)"
+title: "Nance (1998)"
 date: 2023-03-18
 ---
 In pattern [BYBRBRKGBG](/patterns/bybrbrkgbg/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5634/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3091
 
 ## Thread count
 DB/8 DY4 DB24 DR4 DB8 DR8 K8 G24 B4 G/8

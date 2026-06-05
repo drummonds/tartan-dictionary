@@ -1,13 +1,13 @@
 ---
-title: "Fiddes - 1790 (Clan)"
+title: "Fiddes Family Tartan Tartan Number: 836. Earliest known date: 1800 Unusual sett from Wilsons of Bannockburn See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GRBKBKRBGBGRKBKBRG](/patterns/grbkbkrbgbgrkbkbrg/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/836/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=836
 
 ## Thread count
 G/24 R22 P24 K2 P2 K2 R64 G16 P16 G16 P16 R64 K2 P2 K2 P24 R22 G/24

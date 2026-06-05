@@ -16,5 +16,5 @@ KRKGKGKGKGKGKRKR
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart of Atholl](/setts/s16/k4r80k32g12k4g8k4g88k4g8k4g12k32r80k4r12-g005028-k101010-rc80000/)|
-|![Stewart/Stuart of Atholl example sett](/setts/s16/k4r80k32g12k4g8k4g88k4g8k4g12k32r80k4r12-g005028-k101010-rc80000/sett.png)|
+| [Stewart/Stuart of Atholl](/setts/s16/r12k4r80k32g12k4g8k4g88k4g8k4g12k32r80k4-g005028-k101010-rc80000/)|
+|![Stewart/Stuart of Atholl example sett](/setts/s16/r12k4r80k32g12k4g8k4g88k4g8k4g12k32r80k4-g005028-k101010-rc80000/sett.png)|

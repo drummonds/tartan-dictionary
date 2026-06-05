@@ -6,7 +6,7 @@ BRYWB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b2w4y42r42ba10-b000080-ba4c3428-rdc0000-wf8f8f8-yd87c00/tartan.png)
+![Woven sample](/setts/s5/b10r42y42w4ba2-b4c3428-ba000080-rdc0000-wf8f8f8-yd87c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYWB
 
 | Tartans |
 |---------------|
-| [Haughey (2015)](/setts/s5/b2w4y42r42ba10-b000080-ba4c3428-rdc0000-wf8f8f8-yd87c00/)|
-|![Haughey (2015) example sett](/setts/s5/b2w4y42r42ba10-b000080-ba4c3428-rdc0000-wf8f8f8-yd87c00/sett.png)|
+| [Haughey (2015)](/setts/s5/b10r42y42w4ba2-b4c3428-ba000080-rdc0000-wf8f8f8-yd87c00/)|
+|![Haughey (2015) example sett](/setts/s5/b10r42y42w4ba2-b4c3428-ba000080-rdc0000-wf8f8f8-yd87c00/sett.png)|

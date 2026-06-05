@@ -6,7 +6,7 @@ RBKWKWKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8b82k14w8k10w8k8w66-b304080-k000000-rc00000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s8/w66k8w8k10w8k14b82r8-b304080-k000000-rc00000-wc0c0c0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKWKWKW
 
 | Tartans |
 |---------------|
-| [Kinnaird](/setts/s8/r8b82k14w8k10w8k8w66-b304080-k000000-rc00000-wc0c0c0/)|
-|![Kinnaird example sett](/setts/s8/r8b82k14w8k10w8k8w66-b304080-k000000-rc00000-wc0c0c0/sett.png)|
+| [Kinnaird](/setts/s8/w66k8w8k10w8k14b82r8-b304080-k000000-rc00000-wc0c0c0/)|
+|![Kinnaird example sett](/setts/s8/w66k8w8k10w8k14b82r8-b304080-k000000-rc00000-wc0c0c0/sett.png)|

@@ -20,10 +20,10 @@ RGKRWR
 |---------------|
 | [MacKintosh #4](/setts/s6/r10w4r56k24g32r6-g005020-k101010-rdc0000-we0e0e0/)|
 |![MacKintosh #4 example sett](/setts/s6/r10w4r56k24g32r6-g005020-k101010-rdc0000-we0e0e0/sett.png)|
-| [Nisbet](/setts/s6/r12w6r56k20g48r20-g006818-k101010-rc80000-wc0c0c0/)|
-|![Nisbet example sett](/setts/s6/r12w6r56k20g48r20-g006818-k101010-rc80000-wc0c0c0/sett.png)|
-| [Nisbet (Clan)](/setts/s6/r12w6r56k20g48r20-g006818-k101010-rc80000-wc0c0c0/)|
-|![Nisbet (Clan) example sett](/setts/s6/r12w6r56k20g48r20-g006818-k101010-rc80000-wc0c0c0/sett.png)|
+| [Nisbet](/setts/s6/r20g48k20r56w6r12-g006818-k101010-rc80000-wc0c0c0/)|
+|![Nisbet example sett](/setts/s6/r20g48k20r56w6r12-g006818-k101010-rc80000-wc0c0c0/sett.png)|
+| [Nisbet (Clan)](/setts/s6/r20g48k20r56w6r12-g006818-k101010-rc80000-wc0c0c0/)|
+|![Nisbet (Clan) example sett](/setts/s6/r20g48k20r56w6r12-g006818-k101010-rc80000-wc0c0c0/sett.png)|
 | [MacKintosh 6](/setts/s6/r10w4r56k24g32r6-g008000-k000000-rc00000-we0e0e0/)|
 |![MacKintosh 6 example sett](/setts/s6/r10w4r56k24g32r6-g008000-k000000-rc00000-we0e0e0/sett.png)|
 | [Nisbet](/setts/s6/r10w4r56k24g32r6-g008000-k000000-rc00000-we0e0e0/)|

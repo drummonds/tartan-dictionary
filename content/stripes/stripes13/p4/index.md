@@ -6,13 +6,6 @@ weight: 13
 Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes13/p3/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <a href="/stripes/stripes13/p2/">2</a> <a href="/stripes/stripes13/p3/">3</a> <strong>4</strong> </nav>
 
-### YBYBYBYBYBYBY
-<a class="pat" href="/patterns/ybybybybybyby/"><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">YBYBYBYBYBYBY</span></a>
-
-| Tartan |
-|---|
-| [Caledonian Airways (Corporate)](/patterns/ybybybybybyby/) |
-
 ### YGKBKBKGBGKGY
 <a class="pat" href="/patterns/ygkbkbkgbgkgy/"><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">YGKBKBKGBGKGY</span></a>
 

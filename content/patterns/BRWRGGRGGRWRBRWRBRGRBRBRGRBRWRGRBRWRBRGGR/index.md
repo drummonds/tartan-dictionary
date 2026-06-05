@@ -16,5 +16,5 @@ BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR
 
 | Tartans |
 |---------------|
-| [MacAlister](/setts/s41/b20r4w4r6g24ga4r16ga4g24r20w4r4b32r4w4r44ba4r4g88r4ba4r128ba4r4g88r4ba4r48w4r4g24r8ba8r8w4r8ba8r8g24ga4r64-b304080-ba5480b0-g003000-ga30a010-rc00000-we0e0e0/)|
-|![MacAlister example sett](/setts/s41/b20r4w4r6g24ga4r16ga4g24r20w4r4b32r4w4r44ba4r4g88r4ba4r128ba4r4g88r4ba4r48w4r4g24r8ba8r8w4r8ba8r8g24ga4r64-b304080-ba5480b0-g003000-ga30a010-rc00000-we0e0e0/sett.png)|
+| [MacAlister](/setts/s41/r64g4ga24r8b8r8w4r8b8r8ga24r4w4r48b4r4ga88r4b4r128b4r4ga88r4b4r44w4r4ba32r4w4r20ga24g4r16g4ga24r6w4r4ba20-b5480b0-ba304080-g30a010-ga003000-rc00000-we0e0e0/)|
+|![MacAlister example sett](/setts/s41/r64g4ga24r8b8r8w4r8b8r8ga24r4w4r48b4r4ga88r4b4r128b4r4ga88r4b4r44w4r4ba32r4w4r20ga24g4r16g4ga24r6w4r4ba20-b5480b0-ba304080-g30a010-ga003000-rc00000-we0e0e0/sett.png)|

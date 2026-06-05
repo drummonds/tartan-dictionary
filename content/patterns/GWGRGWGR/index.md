@@ -6,7 +6,7 @@ GWGRGWGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g2w2g4r48g4w2g2ra48-g004c00-rc80000-raff0000-wd0d0d0/tartan.png)
+![Woven sample](/setts/s8/r48g2w2g4ra48g4w2g2-g004c00-rff0000-rac80000-wd0d0d0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGRGWGR
 
 | Tartans |
 |---------------|
-| [MacNab WI1](/setts/s8/g2w2g4r48g4w2g2ra48-g004c00-rc80000-raff0000-wd0d0d0/)|
-|![MacNab WI1 example sett](/setts/s8/g2w2g4r48g4w2g2ra48-g004c00-rc80000-raff0000-wd0d0d0/sett.png)|
+| [MacNab WI1](/setts/s8/r48g2w2g4ra48g4w2g2-g004c00-rff0000-rac80000-wd0d0d0/)|
+|![MacNab WI1 example sett](/setts/s8/r48g2w2g4ra48g4w2g2-g004c00-rff0000-rac80000-wd0d0d0/sett.png)|

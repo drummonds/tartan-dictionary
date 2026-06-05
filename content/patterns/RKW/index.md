@@ -20,5 +20,5 @@ RKW
 |---------------|
 | [Hose (Dunmore)](/setts/s3/r52k4w52-k000000-rc80000-wc8c8c8/)|
 |![Hose (Dunmore) example sett](/setts/s3/r52k4w52-k000000-rc80000-wc8c8c8/sett.png)|
-| [Hose](/setts/s3/r72k4w74-k000000-rc00000-we0e0e0/)|
-|![Hose example sett](/setts/s3/r72k4w74-k000000-rc00000-we0e0e0/sett.png)|
+| [Hose](/setts/s3/w74k4r72-k000000-rc00000-we0e0e0/)|
+|![Hose example sett](/setts/s3/w74k4r72-k000000-rc00000-we0e0e0/sett.png)|

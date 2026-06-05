@@ -16,5 +16,5 @@ RYRKRKRKRRRRBW
 
 | Tartans |
 |---------------|
-| [Mehrtens variant (Personal)](/setts/s14/r4y8r12k12r4k12ra8k2ra72r2ra8r36b8w8-b003c64-k101010-rc80000-ra848488-wf8f8f8-yfccc00/)|
-|![Mehrtens variant (Personal) example sett](/setts/s14/r4y8r12k12r4k12ra8k2ra72r2ra8r36b8w8-b003c64-k101010-rc80000-ra848488-wf8f8f8-yfccc00/sett.png)|
+| [Mehrtens variant (Personal)](/setts/s14/w8b8r36ra8r2ra72k2ra8k12r4k12r12y8r4-b003c64-k101010-rc80000-ra848488-wf8f8f8-yfccc00/)|
+|![Mehrtens variant (Personal) example sett](/setts/s14/w8b8r36ra8r2ra72k2ra8k12r4k12r12y8r4-b003c64-k101010-rc80000-ra848488-wf8f8f8-yfccc00/sett.png)|

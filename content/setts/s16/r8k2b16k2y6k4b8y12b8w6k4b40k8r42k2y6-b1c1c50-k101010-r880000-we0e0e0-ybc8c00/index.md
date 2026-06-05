@@ -1,13 +1,13 @@
 ---
-title: "Westmeath County, Crest Range"
+title: "Westmeath County Crest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RKBKYKBYBWKBKRKY](/patterns/rkbkykbybwkbkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5398
+Original link http://www.tartansauthority.com/tartan-ferret/display/7434/
 
 ## Thread count
 DR/8 K2 DB16 K2 DY6 K4 DB8 DY12 DB8 LN6 K4 DB40 K8 DR42 K2 DY/6

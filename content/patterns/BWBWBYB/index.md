@@ -6,7 +6,7 @@ BWBWBYB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6w20b16w6b16y10b72-b202060-wc0c0c0-yd87c00/tartan.png)
+![Woven sample](/setts/s7/b72y10b16w6b16w20b6-b202060-wc0c0c0-yd87c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWBYB
 
 | Tartans |
 |---------------|
-| [Scottish Qualifications Auth. (Corp)](/setts/s7/b6w20b16w6b16y10b72-b202060-wc0c0c0-yd87c00/)|
-|![Scottish Qualifications Auth. (Corp) example sett](/setts/s7/b6w20b16w6b16y10b72-b202060-wc0c0c0-yd87c00/sett.png)|
+| [Scottish Qualifications Auth. (Corp)](/setts/s7/b72y10b16w6b16w20b6-b202060-wc0c0c0-yd87c00/)|
+|![Scottish Qualifications Auth. (Corp) example sett](/setts/s7/b72y10b16w6b16w20b6-b202060-wc0c0c0-yd87c00/sett.png)|

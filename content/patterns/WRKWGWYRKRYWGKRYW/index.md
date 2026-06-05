@@ -16,5 +16,5 @@ WRKWGWYRKRYWGKRYW
 
 | Tartans |
 |---------------|
-| [Chattan](/setts/s17/w4r100k6w4g60w6y12r10k4r10y12w6ga56k14r16y20w8-g008000-ga808080-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Chattan example sett](/setts/s17/w4r100k6w4g60w6y12r10k4r10y12w6ga56k14r16y20w8-g008000-ga808080-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Chattan](/setts/s17/w8y20r16k14g56w6y12r10k4r10y12w6ga60w4k6r100w4-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Chattan example sett](/setts/s17/w8y20r16k14g56w6y12r10k4r10y12w6ga60w4k6r100w4-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

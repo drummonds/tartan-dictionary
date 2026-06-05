@@ -16,5 +16,5 @@ GBRGYGRBGRGRKRGKRKRGR
 
 | Tartans |
 |---------------|
-| [Gordonstoun #3](/setts/s21/g4b16r4ga28y4ga28r4b16g4r16ga16r4k28r4g4k4r4k28r4ga16r16-b440044-g789484-ga003820-k101010-r880000-yd8b000/)|
-|![Gordonstoun #3 example sett](/setts/s21/g4b16r4ga28y4ga28r4b16g4r16ga16r4k28r4g4k4r4k28r4ga16r16-b440044-g789484-ga003820-k101010-r880000-yd8b000/sett.png)|
+| [Gordonstoun #3](/setts/s21/r16g16r4k28r4k4ga4r4k28r4g16r16ga4b16r4g28y4g28r4b16ga4-b440044-g003820-ga789484-k101010-r880000-yd8b000/)|
+|![Gordonstoun #3 example sett](/setts/s21/r16g16r4k28r4k4ga4r4k28r4g16r16ga4b16r4g28y4g28r4b16ga4-b440044-g003820-ga789484-k101010-r880000-yd8b000/sett.png)|

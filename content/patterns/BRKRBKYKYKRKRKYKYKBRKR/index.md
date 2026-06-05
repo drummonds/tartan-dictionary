@@ -16,5 +16,5 @@ BRKRBKYKYKRKRKYKYKBRKR
 
 | Tartans |
 |---------------|
-| [Granton](/setts/s22/b4r6k4r8b30k4y4k4y4k4r12k90r12k4y4k4y4k4b30r8k4r6-b5c5c5c-k101010-r888888-ya08858/)|
-|![Granton example sett](/setts/s22/b4r6k4r8b30k4y4k4y4k4r12k90r12k4y4k4y4k4b30r8k4r6-b5c5c5c-k101010-r888888-ya08858/sett.png)|
+| [Granton](/setts/s22/r6k4r8b30k4y4k4y4k4r12k90r12k4y4k4y4k4b30r8k4r6b4-b5c5c5c-k101010-r888888-ya08858/)|
+|![Granton example sett](/setts/s22/r6k4r8b30k4y4k4y4k4r12k90r12k4y4k4y4k4b30r8k4r6b4-b5c5c5c-k101010-r888888-ya08858/sett.png)|

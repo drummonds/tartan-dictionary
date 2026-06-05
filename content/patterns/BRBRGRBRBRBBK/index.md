@@ -16,7 +16,7 @@ BRBRGRBRBRBBK
 
 | Tartans |
 |---------------|
-| [MacGillivray #2](/setts/s13/b4r12ba2r12g60r8b46r4ba4r114b2ba2k12-b5a008c-ba3c82af-g005020-k101010-rdc0000/)|
-|![MacGillivray #2 example sett](/setts/s13/b4r12ba2r12g60r8b46r4ba4r114b2ba2k12-b5a008c-ba3c82af-g005020-k101010-rdc0000/sett.png)|
-| [MacGillivray](/setts/s13/b4r12ba2r12g60r8b46r4ba4r114b2ba2k12-b800080-ba5480b0-g008000-k000000-rc00000/)|
-|![MacGillivray example sett](/setts/s13/b4r12ba2r12g60r8b46r4ba4r114b2ba2k12-b800080-ba5480b0-g008000-k000000-rc00000/sett.png)|
+| [MacGillivray #2](/setts/s13/k12b2ba2r114b4r4ba46r8g60r12b2r12ba4-b3c82af-ba5a008c-g005020-k101010-rdc0000/)|
+|![MacGillivray #2 example sett](/setts/s13/k12b2ba2r114b4r4ba46r8g60r12b2r12ba4-b3c82af-ba5a008c-g005020-k101010-rdc0000/sett.png)|
+| [MacGillivray](/setts/s13/k12b2ba2r114b4r4ba46r8g60r12b2r12ba4-b5480b0-ba800080-g008000-k000000-rc00000/)|
+|![MacGillivray example sett](/setts/s13/k12b2ba2r114b4r4ba46r8g60r12b2r12ba4-b5480b0-ba800080-g008000-k000000-rc00000/sett.png)|

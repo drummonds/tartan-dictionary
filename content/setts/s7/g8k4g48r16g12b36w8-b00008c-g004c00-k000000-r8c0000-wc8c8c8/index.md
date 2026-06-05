@@ -1,13 +1,13 @@
 ---
-title: "Lee (Name)"
+title: "Lee (Personal)"
 date: 2023-03-18
 ---
 In pattern [GKGRGBW](/patterns/gkgrgbw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5407/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2080
 
 ## Thread count
 G/8 K4 G48 DR16 G12 DB36 N/8

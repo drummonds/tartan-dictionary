@@ -16,5 +16,5 @@ BWBGKGRGKGBWBR
 
 | Tartans |
 |---------------|
-| [Inverness](/setts/s14/b12w4b24g4k4g4r36g4k4g4b24w4b12r144-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Inverness example sett](/setts/s14/b12w4b24g4k4g4r36g4k4g4b24w4b12r144-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Inverness](/setts/s14/r144b12w4b24g4k4g4r36g4k4g4b24w4b12-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
+|![Inverness example sett](/setts/s14/r144b12w4b24g4k4g4r36g4k4g4b24w4b12-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|

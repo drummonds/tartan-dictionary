@@ -16,5 +16,5 @@ BRBKBRBGKRKYKRB
 
 | Tartans |
 |---------------|
-| [Buffalo](/setts/s15/b12r6k8y6k6r6k6g28ba56r6ba6k4ba6r6ba56-b2c2c80-ba5c8ca8-g00643c-k101010-r888888-ye8c000/)|
-|![Buffalo example sett](/setts/s15/b12r6k8y6k6r6k6g28ba56r6ba6k4ba6r6ba56-b2c2c80-ba5c8ca8-g00643c-k101010-r888888-ye8c000/sett.png)|
+| [Buffalo](/setts/s15/b56r6b6k4b6r6b56g28k6r6k6y6k8r6ba12-b5c8ca8-ba2c2c80-g00643c-k101010-r888888-ye8c000/)|
+|![Buffalo example sett](/setts/s15/b56r6b6k4b6r6b56g28k6r6k6y6k8r6ba12-b5c8ca8-ba2c2c80-g00643c-k101010-r888888-ye8c000/sett.png)|

@@ -16,5 +16,5 @@ WGYGRGRGRGYGY
 
 | Tartans |
 |---------------|
-| [Buglass](/setts/s13/w4g6y4g50r22ga8r4ga4r4ga28ya2ga2ya6-g003000-ga30a010-r806050-we0e0e0-yf0c000-yaff8500/)|
-|![Buglass example sett](/setts/s13/w4g6y4g50r22ga8r4ga4r4ga28ya2ga2ya6-g003000-ga30a010-r806050-we0e0e0-yf0c000-yaff8500/sett.png)|
+| [Buglass](/setts/s13/y6g2y2g28r4g4r4g8r22ga50ya4ga6w4-g30a010-ga003000-r806050-we0e0e0-yff8500-yaf0c000/)|
+|![Buglass example sett](/setts/s13/y6g2y2g28r4g4r4g8r22ga50ya4ga6w4-g30a010-ga003000-r806050-we0e0e0-yff8500-yaf0c000/sett.png)|

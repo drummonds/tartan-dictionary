@@ -6,7 +6,7 @@ GGGKGKGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4ga82k6gb28k8ga8gc6ga6-g408060-ga5c6428-gb603800-gc604000-k101010/tartan.png)
+![Woven sample](/setts/s8/g6ga6g8k8gb28k6g82gc4-g5c6428-ga604000-gb603800-gc408060-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGKGKGG
 
 | Tartans |
 |---------------|
-| [Huntsman](/setts/s8/g4ga82k6gb28k8ga8gc6ga6-g408060-ga5c6428-gb603800-gc604000-k101010/)|
-|![Huntsman example sett](/setts/s8/g4ga82k6gb28k8ga8gc6ga6-g408060-ga5c6428-gb603800-gc604000-k101010/sett.png)|
+| [Huntsman](/setts/s8/g6ga6g8k8gb28k6g82gc4-g5c6428-ga604000-gb603800-gc408060-k101010/)|
+|![Huntsman example sett](/setts/s8/g6ga6g8k8gb28k6g82gc4-g5c6428-ga604000-gb603800-gc408060-k101010/sett.png)|

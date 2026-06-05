@@ -1151,13 +1151,6 @@ Tartan setts with 11 stripes, grouped by colour-sequence pattern.
 |---|
 | [Unidentified (2103)](/patterns/bkbkwrwrwrr/) |
 
-### BKBKYGRKRWR
-<a class="pat" href="/patterns/bkbkygrkrwr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">BKBKYGRKRWR</span></a>
-
-| Tartan |
-|---|
-| [Wcwm 1591](/patterns/bkbkygrkrwr/) |
-
 ### BKBKYKBKBWB
 <a class="pat" href="/patterns/bkbkykbkbwb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BKBKYKBKBWB</span></a>
 

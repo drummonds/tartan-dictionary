@@ -6,7 +6,7 @@ WBWKWKGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w8b8w44k4w8k28g16w8-b2c2c80-g188400-k000000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/w8g16k28w8k4w44b8w8-b2c2c80-g188400-k000000-wf8f8f8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBWKWKGW
 
 | Tartans |
 |---------------|
-| [Forbes - 1880 (Clans Originaux)](/setts/s8/w8b8w44k4w8k28g16w8-b2c2c80-g188400-k000000-wf8f8f8/)|
-|![Forbes - 1880 (Clans Originaux) example sett](/setts/s8/w8b8w44k4w8k28g16w8-b2c2c80-g188400-k000000-wf8f8f8/sett.png)|
+| [Forbes - 1880 (Clans Originaux)](/setts/s8/w8g16k28w8k4w44b8w8-b2c2c80-g188400-k000000-wf8f8f8/)|
+|![Forbes - 1880 (Clans Originaux) example sett](/setts/s8/w8g16k28w8k4w44b8w8-b2c2c80-g188400-k000000-wf8f8f8/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "Flaumandrum"
+title: "Flaumandrum (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKRKYKRKBKR](/patterns/bkbkbkrkykrkbkr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1203
+Original link http://www.tartansauthority.com/tartan-ferret/display/6805/
 
 ## Thread count
 N/24 K4 N4 K4 N4 K24 DR24 K2 Y4 K2 DR24 K24 N24 K2 R/4

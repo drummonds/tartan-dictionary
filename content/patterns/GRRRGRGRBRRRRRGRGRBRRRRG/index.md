@@ -16,5 +16,5 @@ GRRRGRGRBRRRRRGRGRBRRRRG
 
 | Tartans |
 |---------------|
-| [MacDougall - 1819 (Clan)](/setts/s24/g2r6ra4rb6r52b4r4ga20r20ga20rb6ra4r4ra4rb6b20r8ga4r8ga54r4ra4rb8g2-b440044-g789484-ga5c6428-rc80000-rae87878-rbcc4438/)|
-|![MacDougall - 1819 (Clan) example sett](/setts/s24/g2r6ra4rb6r52b4r4ga20r20ga20rb6ra4r4ra4rb6b20r8ga4r8ga54r4ra4rb8g2-b440044-g789484-ga5c6428-rc80000-rae87878-rbcc4438/sett.png)|
+| [MacDougall - 1819 (Clan)](/setts/s24/g2r8ra4rb4ga54rb8ga4rb8b20r6ra4rb4ra4r6ga20rb20ga20rb4b4rb52r6ra4rb6g2-b440044-g789484-ga5c6428-rcc4438-rae87878-rbc80000/)|
+|![MacDougall - 1819 (Clan) example sett](/setts/s24/g2r8ra4rb4ga54rb8ga4rb8b20r6ra4rb4ra4r6ga20rb20ga20rb4b4rb52r6ra4rb6g2-b440044-g789484-ga5c6428-rcc4438-rae87878-rbc80000/sett.png)|

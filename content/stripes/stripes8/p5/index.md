@@ -6,15 +6,6 @@ weight: 8
 Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes8/p4/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <strong>5</strong> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p6/">next ›</a></nav>
 
-### RBWBGKGR
-<a class="pat" href="/patterns/rbwbgkgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBGKGR</span></a>
-
-| Tartan |
-|---|
-| [Inverness](/patterns/rbwbgkgr/) |
-| [Inverness - 1829 (District)](/patterns/rbwbgkgr/) |
-| [Inverness District Tartan Tartan Number: 1438. Earliest known date: 1822 Made for Augustus, Earl of Inverness, sometime prior to 1822. Logan used this sett to illustrate his method of recording tartans in his book, 'The Scottish Gael..', published in 1831. The territorial designation of this Royal tartan makes it appropriate for use as a district tartan in the town and county of Inverness. The white stripe is sometimes rendered in yellow. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rbwbgkgr/) |
-
 ### RBWBKRKR
 <a class="pat" href="/patterns/rbwbkrkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBKRKR</span></a>
 
@@ -897,7 +888,6 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 | [Ailsa Craig (District)](/patterns/rwbykwkw/) |
 | [Ailsa Craig Trade Tartan Tartan Number: 1673. Earliest known date: 1972 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rwbykwkw/) |
 | [Ailsa, Craig](/patterns/rwbykwkw/) |
-| [Culloden Dress #2](/patterns/rwbykwkw/) |
 
 ### RWGRYRGW
 <a class="pat" href="/patterns/rwgryrgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWGRYRGW</span></a>
@@ -1385,7 +1375,6 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 |---|
 | [Devon Rural Skills Trust](/patterns/wgbgrbgy/) |
 | [Devon Rural Skills Trust](/patterns/wgbgrbgy/) |
-| [Devon Rural Skills Trust Corporate Tartan Tartan Number: 2182. Earliest known date: pre 2002 No details. Thread count called for MG8 not a recognised colour code- have used Blue. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wgbgrbgy/) |
 
 ### WGBGRGRY
 <a class="pat" href="/patterns/wgbgrgry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGBGRGRY</span></a>
@@ -1589,5 +1578,34 @@ Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Tenmaya Check](/patterns/wrbrbrrw/) |
+
+### WRBRGYGY
+<a class="pat" href="/patterns/wrbrgygy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRBRGYGY</span></a>
+
+| Tartan |
+|---|
+| [Hall (P.I.E.) (Personal)](/patterns/wrbrgygy/) |
+
+### WRGRBWBY
+<a class="pat" href="/patterns/wrgrbwby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRGRBWBY</span></a>
+
+| Tartan |
+|---|
+| [Manitoba Masonic](/patterns/wrgrbwby/) |
+| [Manitoba Masonic (Corporate)](/patterns/wrgrbwby/) |
+
+### WRKRKRKY
+<a class="pat" href="/patterns/wrkrkrky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRKRKRKY</span></a>
+
+| Tartan |
+|---|
+| [Mens Bigi](/patterns/wrkrkrky/) |
+
+### WRRRGBGY
+<a class="pat" href="/patterns/wrrrgbgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRRRGBGY</span></a>
+
+| Tartan |
+|---|
+| [Etienne, Paschal Tache Sir...](/patterns/wrrrgbgy/) |
 
 <nav class="pager"><a href="/stripes/stripes8/p4/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <strong>5</strong> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p6/">next ›</a></nav>

@@ -6,7 +6,7 @@ BRBKGWG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6r4b24k20g6w6g32-b1c0070-g006818-k101010-r880000-wa8ace8/tartan.png)
+![Woven sample](/setts/s7/g32w6g6k20b24r4b6-b1c0070-g006818-k101010-r880000-wa8ace8/tartan.png)
 
 
 
@@ -18,14 +18,14 @@ BRBKGWG
 
 | Tartans |
 |---------------|
-| [MacLean, Donald (Personal)](/setts/s7/b6r4b24k20g6w6g32-b1c0070-g006818-k101010-r880000-wa8ace8/)|
-|![MacLean, Donald (Personal) example sett](/setts/s7/b6r4b24k20g6w6g32-b1c0070-g006818-k101010-r880000-wa8ace8/sett.png)|
+| [MacLean, Donald (Personal)](/setts/s7/g32w6g6k20b24r4b6-b1c0070-g006818-k101010-r880000-wa8ace8/)|
+|![MacLean, Donald (Personal) example sett](/setts/s7/g32w6g6k20b24r4b6-b1c0070-g006818-k101010-r880000-wa8ace8/sett.png)|
 | [MacThomas (Clan)](/setts/s7/b10r6b64k32g64w6g10-b1474b4-g003820-k101010-ra00048-wc49cd8/)|
 |![MacThomas (Clan) example sett](/setts/s7/b10r6b64k32g64w6g10-b1474b4-g003820-k101010-ra00048-wc49cd8/sett.png)|
 | [Sinclair Dress (Dance)](/setts/s7/b8r4b62k20g8w42g4-b38409c-g006818-k101010-rc80000-we0e0e0/)|
 |![Sinclair Dress (Dance) example sett](/setts/s7/b8r4b62k20g8w42g4-b38409c-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [MacLean, Donald (Personal)](/setts/s7/b6r4b24k20g6w6g32-b1c0070-g006818-k101010-r880000-wa8ace8/)|
-|![MacLean, Donald (Personal) example sett](/setts/s7/b6r4b24k20g6w6g32-b1c0070-g006818-k101010-r880000-wa8ace8/sett.png)|
+| [MacLean, Donald (Personal)](/setts/s7/g32w6g6k20b24r4b6-b1c0070-g006818-k101010-r880000-wa8ace8/)|
+|![MacLean, Donald (Personal) example sett](/setts/s7/g32w6g6k20b24r4b6-b1c0070-g006818-k101010-r880000-wa8ace8/sett.png)|
 | [MacThomas](/setts/s7/b6r4b44k22g48w4g6-b304080-g008000-k000000-r900030-wc0a0e0/)|
 |![MacThomas example sett](/setts/s7/b6r4b44k22g48w4g6-b304080-g008000-k000000-r900030-wc0a0e0/sett.png)|
 | [Sinclair dress](/setts/s7/b8r4b64k20g8w44g4-b304080-g008000-k000000-rc00000-we0e0e0/)|

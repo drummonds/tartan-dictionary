@@ -16,5 +16,5 @@ BRBWKWBKBWRW
 
 | Tartans |
 |---------------|
-| [Balmoral Variant (Corporate)](/setts/s12/b16r12b16w12k12w12b44k46b32w120r12w24-b5c5c5c-k101010-rc80000-wc0c0c0/)|
-|![Balmoral Variant (Corporate) example sett](/setts/s12/b16r12b16w12k12w12b44k46b32w120r12w24-b5c5c5c-k101010-rc80000-wc0c0c0/sett.png)|
+| [Balmoral Variant (Corporate)](/setts/s12/w24r12w120b32k46b44w12k12w12b16r12b16-b5c5c5c-k101010-rc80000-wc0c0c0/)|
+|![Balmoral Variant (Corporate) example sett](/setts/s12/w24r12w120b32k46b44w12k12w12b16r12b16-b5c5c5c-k101010-rc80000-wc0c0c0/sett.png)|

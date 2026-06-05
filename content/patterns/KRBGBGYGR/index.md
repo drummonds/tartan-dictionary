@@ -16,5 +16,5 @@ KRBGBGYGR
 
 | Tartans |
 |---------------|
-| [Junor](/setts/s9/k4r18b4g4b4g22y4g12r144-b8080d0-g30a010-k000000-rc00000-yf0c000/)|
-|![Junor example sett](/setts/s9/k4r18b4g4b4g22y4g12r144-b8080d0-g30a010-k000000-rc00000-yf0c000/sett.png)|
+| [Junor](/setts/s9/r144g12y4g22b4g4b4r18k4-b8080d0-g30a010-k000000-rc00000-yf0c000/)|
+|![Junor example sett](/setts/s9/r144g12y4g22b4g4b4r18k4-b8080d0-g30a010-k000000-rc00000-yf0c000/sett.png)|

@@ -20,8 +20,8 @@ BKBKBR
 |---------------|
 | [Mackay (Blue)](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/)|
 |![Mackay (Blue) example sett](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/sett.png)|
-| [MacCorquodale #2](/setts/s6/b6k6ba48k48b64r16-b1474b4-ba2c2c80-k101010-rc80000/)|
-|![MacCorquodale #2 example sett](/setts/s6/b6k6ba48k48b64r16-b1474b4-ba2c2c80-k101010-rc80000/sett.png)|
+| [MacCorquodale #2](/setts/s6/r16b64k48ba48k6b6-b1474b4-ba2c2c80-k101010-rc80000/)|
+|![MacCorquodale #2 example sett](/setts/s6/r16b64k48ba48k6b6-b1474b4-ba2c2c80-k101010-rc80000/sett.png)|
 | [Norsemen, The](/setts/s6/b130k4b8ka4b20r48-b36648b-k101010-ka000000-r800000/)|
 |![Norsemen, The example sett](/setts/s6/b130k4b8ka4b20r48-b36648b-k101010-ka000000-r800000/sett.png)|
 | [MacKay -1842 (VS) (Clan)](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/)|

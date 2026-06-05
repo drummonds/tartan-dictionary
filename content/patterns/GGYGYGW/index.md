@@ -6,7 +6,7 @@ GGYGYGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g2g40y76g40y4g128w12-g30a010-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s7/w12g128y4g40y76g40g2-g30a010-we0e0e0-yf0c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGYGYGW
 
 | Tartans |
 |---------------|
-| [European Union](/setts/s7/g2g40y76g40y4g128w12-g30a010-we0e0e0-yf0c000/)|
-|![European Union example sett](/setts/s7/g2g40y76g40y4g128w12-g30a010-we0e0e0-yf0c000/sett.png)|
+| [European Union](/setts/s7/w12g128y4g40y76g40g2-g30a010-we0e0e0-yf0c000/)|
+|![European Union example sett](/setts/s7/w12g128y4g40y76g40g2-g30a010-we0e0e0-yf0c000/sett.png)|

@@ -16,5 +16,5 @@ WBKKRKKBY
 
 | Tartans |
 |---------------|
-| [Highland Titles](/setts/s9/w4b15k20ka25r40ka25k20b15y6-b0051b6-k230000-ka04082f-r710000-wffffff-yffe400/)|
-|![Highland Titles example sett](/setts/s9/w4b15k20ka25r40ka25k20b15y6-b0051b6-k230000-ka04082f-r710000-wffffff-yffe400/sett.png)|
+| [Highland Titles](/setts/s9/y6b15k20ka25r40ka25k20b15w4-b0051b6-k230000-ka04082f-r710000-wffffff-yffe400/)|
+|![Highland Titles example sett](/setts/s9/y6b15k20ka25r40ka25k20b15w4-b0051b6-k230000-ka04082f-r710000-wffffff-yffe400/sett.png)|

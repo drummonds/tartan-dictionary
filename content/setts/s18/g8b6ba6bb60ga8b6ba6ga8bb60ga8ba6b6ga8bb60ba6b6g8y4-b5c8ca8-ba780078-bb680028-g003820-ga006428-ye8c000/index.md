@@ -1,13 +1,13 @@
 ---
-title: "Islay Whisky Club Corporate Weavers Tartan Tartan Number: 3818. Earliest known date: 2002 A tartan for members of the Islay Whisky Club and for sale only through that club. info@islaywhiskyclub.com See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Islay Whisky Club"
 date: 2023-03-18
 ---
 In pattern [GBBBGBBGBGBBGBBBGY](/patterns/gbbbgbbgbgbbgbbbgy/).
 
 
-This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3818
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4834
 
 ## Thread count
 DG/8 B6 P6 DR60 G8 B6 P6 G8 DR60 G8 P6 B6 G8 DR60 P6 B6 DG8 Y/4

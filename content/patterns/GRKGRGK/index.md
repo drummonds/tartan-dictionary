@@ -6,7 +6,7 @@ GRKGRGK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g14r12k34g74r30g10k102-g006818-k00003c-rc80000/tartan.png)
+![Woven sample](/setts/s7/k102g10r30g74k34r12g14-g006818-k00003c-rc80000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRKGRGK
 
 | Tartans |
 |---------------|
-| [Cadence Design Systems (Corporate)](/setts/s7/g14r12k34g74r30g10k102-g006818-k00003c-rc80000/)|
-|![Cadence Design Systems (Corporate) example sett](/setts/s7/g14r12k34g74r30g10k102-g006818-k00003c-rc80000/sett.png)|
-| [Cadence Design Systems (Corporate)](/setts/s7/g14r12k34g74r30g10k102-g006818-k00003c-rc80000/)|
-|![Cadence Design Systems (Corporate) example sett](/setts/s7/g14r12k34g74r30g10k102-g006818-k00003c-rc80000/sett.png)|
+| [Cadence Design Systems (Corporate)](/setts/s7/k102g10r30g74k34r12g14-g006818-k00003c-rc80000/)|
+|![Cadence Design Systems (Corporate) example sett](/setts/s7/k102g10r30g74k34r12g14-g006818-k00003c-rc80000/sett.png)|
+| [Cadence Design Systems (Corporate)](/setts/s7/k102g10r30g74k34r12g14-g006818-k00003c-rc80000/)|
+|![Cadence Design Systems (Corporate) example sett](/setts/s7/k102g10r30g74k34r12g14-g006818-k00003c-rc80000/sett.png)|

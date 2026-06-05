@@ -16,7 +16,7 @@ BRBKGRGKBYB
 
 | Tartans |
 |---------------|
-| [Boxell of West Niddry, Baron (Personal)](/setts/s11/b4r4b24k24g24ra4g12k24ba4y4ba54-b2c2c80-ba440044-g006818-k101010-rc80000-ra9c68a4-ye8c000/)|
-|![Boxell of West Niddry, Baron (Personal) example sett](/setts/s11/b4r4b24k24g24ra4g12k24ba4y4ba54-b2c2c80-ba440044-g006818-k101010-rc80000-ra9c68a4-ye8c000/sett.png)|
-| [Boxell, Baron (Personal)](/setts/s11/b4r4b24k24g24ra4g12k24ba4y4ba54-b2c2c80-ba440044-g006818-k101010-rc80000-ra9c68a4-ye8c000/)|
-|![Boxell, Baron (Personal) example sett](/setts/s11/b4r4b24k24g24ra4g12k24ba4y4ba54-b2c2c80-ba440044-g006818-k101010-rc80000-ra9c68a4-ye8c000/sett.png)|
+| [Boxell of West Niddry, Baron (Personal)](/setts/s11/b54y4b4k24g12r4g24k24ba24ra4ba4-b440044-ba2c2c80-g006818-k101010-r9c68a4-rac80000-ye8c000/)|
+|![Boxell of West Niddry, Baron (Personal) example sett](/setts/s11/b54y4b4k24g12r4g24k24ba24ra4ba4-b440044-ba2c2c80-g006818-k101010-r9c68a4-rac80000-ye8c000/sett.png)|
+| [Boxell, Baron (Personal)](/setts/s11/b54y4b4k24g12r4g24k24ba24ra4ba4-b440044-ba2c2c80-g006818-k101010-r9c68a4-rac80000-ye8c000/)|
+|![Boxell, Baron (Personal) example sett](/setts/s11/b54y4b4k24g12r4g24k24ba24ra4ba4-b440044-ba2c2c80-g006818-k101010-r9c68a4-rac80000-ye8c000/sett.png)|

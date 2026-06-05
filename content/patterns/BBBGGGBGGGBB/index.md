@@ -16,5 +16,5 @@ BBBGGGBGGGBB
 
 | Tartans |
 |---------------|
-| [Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b16ba20b44g14ga20g44bb6g44ga20g14b44ba20-b003c64-ba2c2c80-bb780078-g003820-ga006818/)|
-|![Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b16ba20b44g14ga20g44bb6g44ga20g14b44ba20-b003c64-ba2c2c80-bb780078-g003820-ga006818/sett.png)|
+| [Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b20ba44g14ga20g44bb6g44ga20g14ba44b20ba16-b2c2c80-ba003c64-bb780078-g003820-ga006818/)|
+|![Crawfordjohn Personal Tartan Tartan Number: 6864. Earliest known date: 2005 A tartan for the Barony of Crawfordjohn designed by the present baron, Travis K Svensson. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b20ba44g14ga20g44bb6g44ga20g14ba44b20ba16-b2c2c80-ba003c64-bb780078-g003820-ga006818/sett.png)|

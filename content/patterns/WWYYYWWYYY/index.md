@@ -16,5 +16,5 @@ WWYYYWWYYY
 
 | Tartans |
 |---------------|
-| [Banatherton Union](/setts/s10/w10wa16y2ya4yb56w10wa10y2ya16yb20-we0e0e0-wac8c8c8-yf8e38c-yaa0a0a0-yb48a4c0/)|
-|![Banatherton Union example sett](/setts/s10/w10wa16y2ya4yb56w10wa10y2ya16yb20-we0e0e0-wac8c8c8-yf8e38c-yaa0a0a0-yb48a4c0/sett.png)|
+| [Banatherton Union](/setts/s10/y20ya16yb2w10wa10y56ya4yb2w16wa10-wc8c8c8-wae0e0e0-y48a4c0-yaa0a0a0-ybf8e38c/)|
+|![Banatherton Union example sett](/setts/s10/y20ya16yb2w10wa10y56ya4yb2w16wa10-wc8c8c8-wae0e0e0-y48a4c0-yaa0a0a0-ybf8e38c/sett.png)|

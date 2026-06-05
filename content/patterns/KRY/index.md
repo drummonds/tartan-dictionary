@@ -20,7 +20,7 @@ KRY
 |---------------|
 | [Batson (Personal)](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/)|
 |![Batson (Personal) example sett](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/sett.png)|
-| [Quenouille (2011)](/setts/s3/k22r32y98-k1c1714-rca2625-yf8e38c/)|
-|![Quenouille (2011) example sett](/setts/s3/k22r32y98-k1c1714-rca2625-yf8e38c/sett.png)|
+| [Quenouille (2011)](/setts/s3/y98r32k22-k1c1714-rca2625-yf8e38c/)|
+|![Quenouille (2011) example sett](/setts/s3/y98r32k22-k1c1714-rca2625-yf8e38c/sett.png)|
 | [Batson (Personal)](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/)|
 |![Batson (Personal) example sett](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/sett.png)|

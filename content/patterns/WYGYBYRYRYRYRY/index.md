@@ -16,7 +16,7 @@ WYGYBYRYRYRYRY
 
 | Tartans |
 |---------------|
-| [Catalan (92 Olympics)](/setts/s14/w3y3g3y3b3y44r6y6r6y6r6y6r6y44-b2474e8-g006818-r880000-wc0c0c0-yd8b000/)|
-|![Catalan (92 Olympics) example sett](/setts/s14/w3y3g3y3b3y44r6y6r6y6r6y6r6y44-b2474e8-g006818-r880000-wc0c0c0-yd8b000/sett.png)|
-| [Catalan (92 Olympics) (District)](/setts/s14/w3y3g3y3b3y44r6y6r6y6r6y6r6y44-b2474e8-g006818-r880000-wc0c0c0-yd8b000/)|
-|![Catalan (92 Olympics) (District) example sett](/setts/s14/w3y3g3y3b3y44r6y6r6y6r6y6r6y44-b2474e8-g006818-r880000-wc0c0c0-yd8b000/sett.png)|
+| [Catalan (92 Olympics)](/setts/s14/y44r6y6r6y6r6y6r6y44b3y3g3y3w3-b2474e8-g006818-r880000-wc0c0c0-yd8b000/)|
+|![Catalan (92 Olympics) example sett](/setts/s14/y44r6y6r6y6r6y6r6y44b3y3g3y3w3-b2474e8-g006818-r880000-wc0c0c0-yd8b000/sett.png)|
+| [Catalan (92 Olympics) (District)](/setts/s14/y44r6y6r6y6r6y6r6y44b3y3g3y3w3-b2474e8-g006818-r880000-wc0c0c0-yd8b000/)|
+|![Catalan (92 Olympics) (District) example sett](/setts/s14/y44r6y6r6y6r6y6r6y44b3y3g3y3w3-b2474e8-g006818-r880000-wc0c0c0-yd8b000/sett.png)|

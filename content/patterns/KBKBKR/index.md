@@ -6,7 +6,7 @@ KBKBKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k10b20k10b20k48r16-b0000cd-k000000-rc8002c/tartan.png)
+![Woven sample](/setts/s6/r16k48b20k10b20k10-b0000cd-k000000-rc8002c/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBKBKR
 
 | Tartans |
 |---------------|
-| [Allen, Nicholas (Personal)](/setts/s6/k10b20k10b20k48r16-b0000cd-k000000-rc8002c/)|
-|![Allen, Nicholas (Personal) example sett](/setts/s6/k10b20k10b20k48r16-b0000cd-k000000-rc8002c/sett.png)|
-| [Slanj (Corporate)](/setts/s6/k6b50k6b6k56r8-b1474b4-k101010-r9c68a4/)|
-|![Slanj (Corporate) example sett](/setts/s6/k6b50k6b6k56r8-b1474b4-k101010-r9c68a4/sett.png)|
+| [Allen, Nicholas (Personal)](/setts/s6/r16k48b20k10b20k10-b0000cd-k000000-rc8002c/)|
+|![Allen, Nicholas (Personal) example sett](/setts/s6/r16k48b20k10b20k10-b0000cd-k000000-rc8002c/sett.png)|
+| [Slanj (Corporate)](/setts/s6/r8k56b6k6b50k6-b1474b4-k101010-r9c68a4/)|
+|![Slanj (Corporate) example sett](/setts/s6/r8k56b6k6b50k6-b1474b4-k101010-r9c68a4/sett.png)|

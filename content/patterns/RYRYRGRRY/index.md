@@ -16,5 +16,5 @@ RYRYRGRRY
 
 | Tartans |
 |---------------|
-| [Montreal Granate](/setts/s9/r86y4r6y4r12g4r2r20y156-g006818-r901c38-ya08858/)|
-|![Montreal Granate example sett](/setts/s9/r86y4r6y4r12g4r2r20y156-g006818-r901c38-ya08858/sett.png)|
+| [Montreal Granate](/setts/s9/y156r20r2g4r12y4r6y4r86-g006818-r901c38-ya08858/)|
+|![Montreal Granate example sett](/setts/s9/y156r20r2g4r12y4r6y4r86-g006818-r901c38-ya08858/sett.png)|

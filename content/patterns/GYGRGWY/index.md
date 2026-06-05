@@ -6,7 +6,7 @@ GYGRGWY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g24y6ga12r12ga12w2ya44-g408060-ga0098a0-rc8002c-wf8f8f8-ye8c000-ya48a4c0/tartan.png)
+![Woven sample](/setts/s7/y44w2g12r12g12ya6ga24-g0098a0-ga408060-rc8002c-wf8f8f8-y48a4c0-yae8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYGRGWY
 
 | Tartans |
 |---------------|
-| [Dalveen (2004)](/setts/s7/g24y6ga12r12ga12w2ya44-g408060-ga0098a0-rc8002c-wf8f8f8-ye8c000-ya48a4c0/)|
-|![Dalveen (2004) example sett](/setts/s7/g24y6ga12r12ga12w2ya44-g408060-ga0098a0-rc8002c-wf8f8f8-ye8c000-ya48a4c0/sett.png)|
-| [Dalveen (District)](/setts/s7/g24y6ga12r12ga12w2ya44-g408060-ga0098a0-rc8002c-wf8f8f8-ye8c000-ya48a4c0/)|
-|![Dalveen (District) example sett](/setts/s7/g24y6ga12r12ga12w2ya44-g408060-ga0098a0-rc8002c-wf8f8f8-ye8c000-ya48a4c0/sett.png)|
+| [Dalveen (2004)](/setts/s7/y44w2g12r12g12ya6ga24-g0098a0-ga408060-rc8002c-wf8f8f8-y48a4c0-yae8c000/)|
+|![Dalveen (2004) example sett](/setts/s7/y44w2g12r12g12ya6ga24-g0098a0-ga408060-rc8002c-wf8f8f8-y48a4c0-yae8c000/sett.png)|
+| [Dalveen (District)](/setts/s7/y44w2g12r12g12ya6ga24-g0098a0-ga408060-rc8002c-wf8f8f8-y48a4c0-yae8c000/)|
+|![Dalveen (District) example sett](/setts/s7/y44w2g12r12g12ya6ga24-g0098a0-ga408060-rc8002c-wf8f8f8-y48a4c0-yae8c000/sett.png)|

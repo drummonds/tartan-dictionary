@@ -16,5 +16,5 @@ BRBYBWBYBRBK
 
 | Tartans |
 |---------------|
-| [Wishart Dress](/setts/s12/b8r62ba6y4ba54w8ba54y4ba6r62b8k14-b2c2c80-ba202060-k000000-rc80000-wc8c8c8-ye8c000/)|
-|![Wishart Dress example sett](/setts/s12/b8r62ba6y4ba54w8ba54y4ba6r62b8k14-b2c2c80-ba202060-k000000-rc80000-wc8c8c8-ye8c000/sett.png)|
+| [Wishart Dress](/setts/s12/k14b8r62ba6y4ba54w8ba54y4ba6r62b8-b2c2c80-ba202060-k000000-rc80000-wc8c8c8-ye8c000/)|
+|![Wishart Dress example sett](/setts/s12/k14b8r62ba6y4ba54w8ba54y4ba6r62b8-b2c2c80-ba202060-k000000-rc80000-wc8c8c8-ye8c000/sett.png)|

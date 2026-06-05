@@ -16,5 +16,5 @@ GRGRKRGKBKW
 
 | Tartans |
 |---------------|
-| [Zambia](/setts/s11/g2r4g8r12k12ra12g64k2b32k2w8-b2c4084-g005020-k101010-rec7440-ra960000-we0e0e0/)|
-|![Zambia example sett](/setts/s11/g2r4g8r12k12ra12g64k2b32k2w8-b2c4084-g005020-k101010-rec7440-ra960000-we0e0e0/sett.png)|
+| [Zambia](/setts/s11/w8k2b32k2g64r12k12ra12g8ra4g2-b2c4084-g005020-k101010-r960000-raec7440-we0e0e0/)|
+|![Zambia example sett](/setts/s11/w8k2b32k2g64r12k12ra12g8ra4g2-b2c4084-g005020-k101010-r960000-raec7440-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ KBBKGKBBKGKGKRKRGR
 
 | Tartans |
 |---------------|
-| [Renton (Personal)](/setts/s18/k6b48ba16k4g6k4ba16b42k8g16k4g16k8r6k8ra16g4ra16-b244458-ba405c74-g543820-k101010-ra00028-ra886044/)|
-|![Renton (Personal) example sett](/setts/s18/k6b48ba16k4g6k4ba16b42k8g16k4g16k8r6k8ra16g4ra16-b244458-ba405c74-g543820-k101010-ra00028-ra886044/sett.png)|
+| [Renton (Personal)](/setts/s18/r16g4r16k8ra6k8g16k4g16k8b42ba16k4g6k4ba16b48k6-b244458-ba405c74-g543820-k101010-r886044-raa00028/)|
+|![Renton (Personal) example sett](/setts/s18/r16g4r16k8ra6k8g16k4g16k8b42ba16k4g6k4ba16b48k6-b244458-ba405c74-g543820-k101010-r886044-raa00028/sett.png)|

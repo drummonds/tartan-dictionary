@@ -16,5 +16,5 @@ BGGGBGRGGGR
 
 | Tartans |
 |---------------|
-| [Markson (Personal)](/setts/s11/b4g2ga28g10b2g10r8g2ga4g2r32-b2888c4-g003820-ga007470-r780028/)|
-|![Markson (Personal) example sett](/setts/s11/b4g2ga28g10b2g10r8g2ga4g2r32-b2888c4-g003820-ga007470-r780028/sett.png)|
+| [Markson (Personal)](/setts/s11/r32g2ga4g2r8g10b2g10ga28g2b4-b2888c4-g003820-ga007470-r780028/)|
+|![Markson (Personal) example sett](/setts/s11/r32g2ga4g2r8g10b2g10ga28g2b4-b2888c4-g003820-ga007470-r780028/sett.png)|

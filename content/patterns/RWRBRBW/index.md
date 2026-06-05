@@ -6,7 +6,7 @@ RWRBRBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r8w4r48b18r28b2w160-b3c82af-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/w160b2r28b18r48w4r8-b3c82af-rdc0000-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RWRBRBW
 
 | Tartans |
 |---------------|
-| [Unidentified Fisherwife's Plaid](/setts/s7/r8w4r48b18r28b2w160-b3c82af-rdc0000-we0e0e0/)|
-|![Unidentified Fisherwife's Plaid example sett](/setts/s7/r8w4r48b18r28b2w160-b3c82af-rdc0000-we0e0e0/sett.png)|
-| [Unidentified, Fisherwife's Plaid](/setts/s7/r8w4r48b18r28b2w160-b5480b0-rc00000-we0e0e0/)|
-|![Unidentified, Fisherwife's Plaid example sett](/setts/s7/r8w4r48b18r28b2w160-b5480b0-rc00000-we0e0e0/sett.png)|
+| [Unidentified Fisherwife's Plaid](/setts/s7/w160b2r28b18r48w4r8-b3c82af-rdc0000-we0e0e0/)|
+|![Unidentified Fisherwife's Plaid example sett](/setts/s7/w160b2r28b18r48w4r8-b3c82af-rdc0000-we0e0e0/sett.png)|
+| [Unidentified, Fisherwife's Plaid](/setts/s7/w160b2r28b18r48w4r8-b5480b0-rc00000-we0e0e0/)|
+|![Unidentified, Fisherwife's Plaid example sett](/setts/s7/w160b2r28b18r48w4r8-b5480b0-rc00000-we0e0e0/sett.png)|

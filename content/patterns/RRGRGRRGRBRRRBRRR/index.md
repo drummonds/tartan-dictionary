@@ -16,5 +16,5 @@ RRGRGRRGRBRRRBRRR
 
 | Tartans |
 |---------------|
-| [MacColl Ancient](/setts/s17/r4ra4g4ra16g52ra16r4g2ra4b4ra4r4ra16b52ra12r6ra14-b2c4084-g005020-r960028-radc0000/)|
-|![MacColl Ancient example sett](/setts/s17/r4ra4g4ra16g52ra16r4g2ra4b4ra4r4ra16b52ra12r6ra14-b2c4084-g005020-r960028-radc0000/sett.png)|
+| [MacColl Ancient](/setts/s17/r14ra6r12b52r16ra4r4b4r4g2ra4r16g52r16g4r4ra4-b2c4084-g005020-rdc0000-ra960028/)|
+|![MacColl Ancient example sett](/setts/s17/r14ra6r12b52r16ra4r4b4r4g2ra4r16g52r16g4r4ra4-b2c4084-g005020-rdc0000-ra960028/sett.png)|

@@ -24,8 +24,8 @@ BKBGK
 |![Falconer example sett](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/sett.png)|
 | [Marshall #2](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/)|
 |![Marshall #2 example sett](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/sett.png)|
-| [Dallard (Personal)](/setts/s5/b10k6ba16g74ka74-b5c005c-ba5c5c5c-g003820-k101010-ka00002c/)|
-|![Dallard (Personal) example sett](/setts/s5/b10k6ba16g74ka74-b5c005c-ba5c5c5c-g003820-k101010-ka00002c/sett.png)|
+| [Dallard (Personal)](/setts/s5/k74g74b16ka6ba10-b5c5c5c-ba5c005c-g003820-k00002c-ka101010/)|
+|![Dallard (Personal) example sett](/setts/s5/k74g74b16ka6ba10-b5c5c5c-ba5c005c-g003820-k00002c-ka101010/sett.png)|
 | [Keith (Clan)](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/)|
 |![Keith (Clan) example sett](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/sett.png)|
 | [Austin (Clan)](/setts/s5/b8k8b8g18k4-b2c2c80-g006818-k101010/)|
@@ -34,8 +34,8 @@ BKBGK
 |![Falconer (Clan) example sett](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/sett.png)|
 | [Marshall (Clan)](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/)|
 |![Marshall (Clan) example sett](/setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/sett.png)|
-| [Dallard (Personal)](/setts/s5/b10k6ba16g74ka74-b5c005c-ba5c5c5c-g003820-k101010-ka00002c/)|
-|![Dallard (Personal) example sett](/setts/s5/b10k6ba16g74ka74-b5c005c-ba5c5c5c-g003820-k101010-ka00002c/sett.png)|
+| [Dallard (Personal)](/setts/s5/k74g74b16ka6ba10-b5c5c5c-ba5c005c-g003820-k00002c-ka101010/)|
+|![Dallard (Personal) example sett](/setts/s5/k74g74b16ka6ba10-b5c5c5c-ba5c005c-g003820-k00002c-ka101010/sett.png)|
 | [Austin](/setts/s5/b4k4b4g9k2-b00004c-g004c00-k000000/)|
 |![Austin example sett](/setts/s5/b4k4b4g9k2-b00004c-g004c00-k000000/sett.png)|
 | [Keith and Austin](/setts/s5/b4k4b4g9k2-b000064-g004c00-k000000/)|

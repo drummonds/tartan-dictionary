@@ -16,5 +16,5 @@ WKBKRYKRYKWKWRW
 
 | Tartans |
 |---------------|
-| [Uganda](/setts/s15/w8k2b32k2r12y12k12r12y12k12w16k4w2r4w8-b000064-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Uganda example sett](/setts/s15/w8k2b32k2r12y12k12r12y12k12w16k4w2r4w8-b000064-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Uganda](/setts/s15/w8r4w2k4w16k12y12r12k12y12r12k2b32k2w8-b000064-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Uganda example sett](/setts/s15/w8r4w2k4w16k12y12r12k12y12r12k2b32k2w8-b000064-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|

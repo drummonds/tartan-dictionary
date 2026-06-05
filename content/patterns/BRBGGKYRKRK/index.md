@@ -16,7 +16,7 @@ BRBGGKYRKRK
 
 | Tartans |
 |---------------|
-| [Blake, William & Agnes (Australia)](/setts/s11/b6r6b6g36ga20k24y6ra4k6ra2k8-b160078-g285900-ga013920-k000000-r8f8a87-raff0000-ydcbe10/)|
-|![Blake, William & Agnes (Australia) example sett](/setts/s11/b6r6b6g36ga20k24y6ra4k6ra2k8-b160078-g285900-ga013920-k000000-r8f8a87-raff0000-ydcbe10/sett.png)|
-| [Blake (Personal)](/setts/s11/b6r6b6g36ga20k24y6ra4k6ra2k8-b1c0070-g285800-ga003820-k101010-r888888-rac80000-ybc8c00/)|
-|![Blake (Personal) example sett](/setts/s11/b6r6b6g36ga20k24y6ra4k6ra2k8-b1c0070-g285800-ga003820-k101010-r888888-rac80000-ybc8c00/sett.png)|
+| [Blake, William & Agnes (Australia)](/setts/s11/k8r2k6r4y6k24g20ga36b6ra6b6-b160078-g013920-ga285900-k000000-rff0000-ra8f8a87-ydcbe10/)|
+|![Blake, William & Agnes (Australia) example sett](/setts/s11/k8r2k6r4y6k24g20ga36b6ra6b6-b160078-g013920-ga285900-k000000-rff0000-ra8f8a87-ydcbe10/sett.png)|
+| [Blake (Personal)](/setts/s11/k8r2k6r4y6k24g20ga36b6ra6b6-b1c0070-g003820-ga285800-k101010-rc80000-ra888888-ybc8c00/)|
+|![Blake (Personal) example sett](/setts/s11/k8r2k6r4y6k24g20ga36b6ra6b6-b1c0070-g003820-ga285800-k101010-rc80000-ra888888-ybc8c00/sett.png)|

@@ -16,5 +16,5 @@ WWBBWWWWW
 
 | Tartans |
 |---------------|
-| [Queensferry High School: Ferry Fling](/setts/s9/w3wa3b43ba8w27wb5w7wc3wb5-b000080-ba4169e1-w7ec0ee-waffffff-wbd3d3d3-wcfffafa/)|
-|![Queensferry High School: Ferry Fling example sett](/setts/s9/w3wa3b43ba8w27wb5w7wc3wb5-b000080-ba4169e1-w7ec0ee-waffffff-wbd3d3d3-wcfffafa/sett.png)|
+| [Queensferry High School: Ferry Fling](/setts/s9/w5wa3wb7w5wb27b8ba43wc3wb3-b4169e1-ba000080-wd3d3d3-wafffafa-wb7ec0ee-wcffffff/)|
+|![Queensferry High School: Ferry Fling example sett](/setts/s9/w5wa3wb7w5wb27b8ba43wc3wb3-b4169e1-ba000080-wd3d3d3-wafffafa-wb7ec0ee-wcffffff/sett.png)|

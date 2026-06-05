@@ -6,7 +6,7 @@ RBRYRGRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6ra26g6ra10y6ra10b52ra136-b2c2c80-g006818-r888888-rac80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r136b52r10y6r10g6r26ra6-b2c2c80-g006818-rc80000-ra888888-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBRYRGRR
 
 | Tartans |
 |---------------|
-| [De Nardi (Personal)](/setts/s8/r6ra26g6ra10y6ra10b52ra136-b2c2c80-g006818-r888888-rac80000-ye8c000/)|
-|![De Nardi (Personal) example sett](/setts/s8/r6ra26g6ra10y6ra10b52ra136-b2c2c80-g006818-r888888-rac80000-ye8c000/sett.png)|
-| [de Nardi (Personal)](/setts/s8/r6ra26g6ra10y6ra10b52ra136-b2c2c80-g006818-r888888-rac80000-ye8c000/)|
-|![de Nardi (Personal) example sett](/setts/s8/r6ra26g6ra10y6ra10b52ra136-b2c2c80-g006818-r888888-rac80000-ye8c000/sett.png)|
+| [De Nardi (Personal)](/setts/s8/r136b52r10y6r10g6r26ra6-b2c2c80-g006818-rc80000-ra888888-ye8c000/)|
+|![De Nardi (Personal) example sett](/setts/s8/r136b52r10y6r10g6r26ra6-b2c2c80-g006818-rc80000-ra888888-ye8c000/sett.png)|
+| [de Nardi (Personal)](/setts/s8/r136b52r10y6r10g6r26ra6-b2c2c80-g006818-rc80000-ra888888-ye8c000/)|
+|![de Nardi (Personal) example sett](/setts/s8/r136b52r10y6r10g6r26ra6-b2c2c80-g006818-rc80000-ra888888-ye8c000/sett.png)|

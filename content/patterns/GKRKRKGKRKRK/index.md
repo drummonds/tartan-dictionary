@@ -16,5 +16,5 @@ GKRKRKGKRKRK
 
 | Tartans |
 |---------------|
-| [O'Boyle](/setts/s12/g18k90r18k24ra2k2g24k2ra2k24r18k90-g289c18-k101010-r9c68a4-rac80000/)|
-|![O'Boyle example sett](/setts/s12/g18k90r18k24ra2k2g24k2ra2k24r18k90-g289c18-k101010-r9c68a4-rac80000/sett.png)|
+| [O'Boyle](/setts/s12/k90r18k24ra2k2g24k2ra2k24r18k90g18-g289c18-k101010-r9c68a4-rac80000/)|
+|![O'Boyle example sett](/setts/s12/k90r18k24ra2k2g24k2ra2k24r18k90g18-g289c18-k101010-r9c68a4-rac80000/sett.png)|

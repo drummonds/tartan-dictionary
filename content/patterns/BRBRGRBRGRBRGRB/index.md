@@ -18,8 +18,8 @@ BRBRGRBRGRBRGRB
 |---------------|
 | [Glen Orchy #1](/setts/s15/b4r6ba6r10g28r6ba4r10g4r6ba28r10g6r6b4-b3c82af-ba2c4084-g005020-rdc0000/)|
 |![Glen Orchy #1 example sett](/setts/s15/b4r6ba6r10g28r6ba4r10g4r6ba28r10g6r6b4-b3c82af-ba2c4084-g005020-rdc0000/sett.png)|
-| [MacIntyre (of Gatehouse)](/setts/s15/b4r8g8r16ba64r8g8r16ba8r8g64r16ba8r48b6-b2888c4-ba2c2c80-g006818-rc80000/)|
-|![MacIntyre (of Gatehouse) example sett](/setts/s15/b4r8g8r16ba64r8g8r16ba8r8g64r16ba8r48b6-b2888c4-ba2c2c80-g006818-rc80000/sett.png)|
+| [MacIntyre (of Gatehouse)](/setts/s15/b6r48ba8r16g64r8ba8r16g8r8ba64r16g8r8b4-b2888c4-ba2c2c80-g006818-rc80000/)|
+|![MacIntyre (of Gatehouse) example sett](/setts/s15/b6r48ba8r16g64r8ba8r16g8r8ba64r16g8r8b4-b2888c4-ba2c2c80-g006818-rc80000/sett.png)|
 | [MacIntyre of Whitehouse (Clan?)](/setts/s15/b2r4ba4r8g32r4ba4r8g4r4ba32r8g4r4b2-b2888c4-ba2c2c80-g00841c-rc80000/)|
 |![MacIntyre of Whitehouse (Clan?) example sett](/setts/s15/b2r4ba4r8g32r4ba4r8g4r4ba32r8g4r4b2-b2888c4-ba2c2c80-g00841c-rc80000/sett.png)|
 | [Glen Orchy](/setts/s15/b4r6ba6r10g28r6ba4r10g4r6ba28r10g6r6b4-b5480b0-ba304080-g008000-rc00000/)|

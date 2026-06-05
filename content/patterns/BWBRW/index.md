@@ -6,7 +6,7 @@ BWBRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b6w4b24r24w64-b000060-r880000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s5/w64r24b24w4b6-b000060-r880000-wf8f8f8/tartan.png)
 
 
 
@@ -18,8 +18,8 @@ BWBRW
 
 | Tartans |
 |---------------|
-| [Fraser Arisaid Red (Dance)](/setts/s5/b6w4b24r24w64-b000060-r880000-wf8f8f8/)|
-|![Fraser Arisaid Red (Dance) example sett](/setts/s5/b6w4b24r24w64-b000060-r880000-wf8f8f8/sett.png)|
+| [Fraser Arisaid Red (Dance)](/setts/s5/w64r24b24w4b6-b000060-r880000-wf8f8f8/)|
+|![Fraser Arisaid Red (Dance) example sett](/setts/s5/w64r24b24w4b6-b000060-r880000-wf8f8f8/sett.png)|
 | [Glen Moy](/setts/s5/b78w18b6r18w6-b1c0070-rc80000-wc0c0c0/)|
 |![Glen Moy example sett](/setts/s5/b78w18b6r18w6-b1c0070-rc80000-wc0c0c0/sett.png)|
 | [Glen Moy 1986 (Fashion)](/setts/s5/b78w18b6r18w6-b1c0070-rc80000-wc0c0c0/)|

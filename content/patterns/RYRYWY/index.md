@@ -6,7 +6,7 @@ RYRYWY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r20y3r10y8w30y56-rc80000-wffffff-ya0a0a0/tartan.png)
+![Woven sample](/setts/s6/y56w30y8r10y3r20-rc80000-wffffff-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYRYWY
 
 | Tartans |
 |---------------|
-| [Walsh, Michael Edward (Personal)](/setts/s6/r20y3r10y8w30y56-rc80000-wffffff-ya0a0a0/)|
-|![Walsh, Michael Edward (Personal) example sett](/setts/s6/r20y3r10y8w30y56-rc80000-wffffff-ya0a0a0/sett.png)|
+| [Walsh, Michael Edward (Personal)](/setts/s6/y56w30y8r10y3r20-rc80000-wffffff-ya0a0a0/)|
+|![Walsh, Michael Edward (Personal) example sett](/setts/s6/y56w30y8r10y3r20-rc80000-wffffff-ya0a0a0/sett.png)|

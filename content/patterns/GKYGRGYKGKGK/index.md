@@ -16,5 +16,5 @@ GKYGRGYKGKGK
 
 | Tartans |
 |---------------|
-| [Milne of Corstorphine #1 (Personal)](/setts/s12/g2k60y2g32r4g32y2k40g2k4g2k40-g005020-k101010-rdc0000-ye8c000/)|
-|![Milne of Corstorphine #1 (Personal) example sett](/setts/s12/g2k60y2g32r4g32y2k40g2k4g2k40-g005020-k101010-rdc0000-ye8c000/sett.png)|
+| [Milne of Corstorphine #1 (Personal)](/setts/s12/k40g2k4g2k40y2g32r4g32y2k60g2-g005020-k101010-rdc0000-ye8c000/)|
+|![Milne of Corstorphine #1 (Personal) example sett](/setts/s12/k40g2k4g2k40y2g32r4g32y2k60g2-g005020-k101010-rdc0000-ye8c000/sett.png)|

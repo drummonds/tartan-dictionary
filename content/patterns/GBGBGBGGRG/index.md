@@ -16,5 +16,5 @@ GBGBGBGGRG
 
 | Tartans |
 |---------------|
-| [Roddy's Highland Spirit (Fashion)](/setts/s10/g10r4ga40g20b20gb6b6gb6b6gb60-b80588c-g3c6434-ga608064-gb5c6428-rb07cc8/)|
-|![Roddy's Highland Spirit (Fashion) example sett](/setts/s10/g10r4ga40g20b20gb6b6gb6b6gb60-b80588c-g3c6434-ga608064-gb5c6428-rb07cc8/sett.png)|
+| [Roddy's Highland Spirit (Fashion)](/setts/s10/g60b6g6b6g6b20ga20gb40r4ga10-b80588c-g5c6428-ga3c6434-gb608064-rb07cc8/)|
+|![Roddy's Highland Spirit (Fashion) example sett](/setts/s10/g60b6g6b6g6b20ga20gb40r4ga10-b80588c-g5c6428-ga3c6434-gb608064-rb07cc8/sett.png)|

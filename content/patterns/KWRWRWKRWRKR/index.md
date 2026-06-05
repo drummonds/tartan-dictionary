@@ -16,5 +16,5 @@ KWRWRWKRWRKR
 
 | Tartans |
 |---------------|
-| [Valour](/setts/s12/k4w8r4w16r16w4k4r4w4r16k4r88-k101010-rff0000-wffffff/)|
-|![Valour example sett](/setts/s12/k4w8r4w16r16w4k4r4w4r16k4r88-k101010-rff0000-wffffff/sett.png)|
+| [Valour](/setts/s12/r88k4r16w4r4k4w4r16w16r4w8k4-k101010-rff0000-wffffff/)|
+|![Valour example sett](/setts/s12/r88k4r16w4r4k4w4r16w16r4w8k4-k101010-rff0000-wffffff/sett.png)|

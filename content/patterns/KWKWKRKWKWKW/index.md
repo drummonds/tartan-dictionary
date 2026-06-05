@@ -16,5 +16,5 @@ KWKWKRKWKWKW
 
 | Tartans |
 |---------------|
-| [Gretna Football Club](/setts/s12/k8w36k95w4k4r6k4w4k95w36k8w36-k101010-rc80000-wfcfcdc/)|
-|![Gretna Football Club example sett](/setts/s12/k8w36k95w4k4r6k4w4k95w36k8w36-k101010-rc80000-wfcfcdc/sett.png)|
+| [Gretna Football Club](/setts/s12/w36k8w36k95w4k4r6k4w4k95w36k8-k101010-rc80000-wfcfcdc/)|
+|![Gretna Football Club example sett](/setts/s12/w36k8w36k95w4k4r6k4w4k95w36k8-k101010-rc80000-wfcfcdc/sett.png)|

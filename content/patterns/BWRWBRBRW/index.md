@@ -16,5 +16,5 @@ BWRWBRBRW
 
 | Tartans |
 |---------------|
-| [Snoozzzeee (Corporate)](/setts/s9/b4w8r72w24b12r4b36r3w6-b2c2c80-rc80000-we8ccb8/)|
-|![Snoozzzeee (Corporate) example sett](/setts/s9/b4w8r72w24b12r4b36r3w6-b2c2c80-rc80000-we8ccb8/sett.png)|
+| [Snoozzzeee (Corporate)](/setts/s9/w6r3b36r4b12w24r72w8b4-b2c2c80-rc80000-we8ccb8/)|
+|![Snoozzzeee (Corporate) example sett](/setts/s9/w6r3b36r4b12w24r72w8b4-b2c2c80-rc80000-we8ccb8/sett.png)|

@@ -16,5 +16,5 @@ KGKGKGKGKGKR
 
 | Tartans |
 |---------------|
-| [Walker, hunting](/setts/s12/k2g6k7g28ka7g3ka3g3ka15g7ka2r4-g008000-k000000-ka000030-r900030/)|
-|![Walker, hunting example sett](/setts/s12/k2g6k7g28ka7g3ka3g3ka15g7ka2r4-g008000-k000000-ka000030-r900030/sett.png)|
+| [Walker, hunting](/setts/s12/r4k2g7k15g3k3g3k7g28ka7g6ka2-g008000-k000030-ka000000-r900030/)|
+|![Walker, hunting example sett](/setts/s12/r4k2g7k15g3k3g3k7g28ka7g6ka2-g008000-k000030-ka000000-r900030/sett.png)|

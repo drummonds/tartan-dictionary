@@ -16,7 +16,7 @@ BBBRKRBBWB
 
 | Tartans |
 |---------------|
-| [Custer (Personal)](/setts/s10/b16ba40bb2r4k6r4bb2ba16w2b40-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/)|
-|![Custer (Personal) example sett](/setts/s10/b16ba40bb2r4k6r4bb2ba16w2b40-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/sett.png)|
-| [Custer (Personal)](/setts/s10/b16ba40bb2r4k6r4bb2ba16w2b40-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/)|
-|![Custer (Personal) example sett](/setts/s10/b16ba40bb2r4k6r4bb2ba16w2b40-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/sett.png)|
+| [Custer (Personal)](/setts/s10/b40w2ba16bb2r4k6r4bb2ba40b16-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/)|
+|![Custer (Personal) example sett](/setts/s10/b40w2ba16bb2r4k6r4bb2ba40b16-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/sett.png)|
+| [Custer (Personal)](/setts/s10/b40w2ba16bb2r4k6r4bb2ba40b16-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/)|
+|![Custer (Personal) example sett](/setts/s10/b40w2ba16bb2r4k6r4bb2ba40b16-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/sett.png)|

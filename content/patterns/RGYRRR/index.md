@@ -6,7 +6,7 @@ RGYRRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6g2y2ra24rb10rc52-g649848-rc82828-ra781c38-rb960000-rce87878-yc4bc68/tartan.png)
+![Woven sample](/setts/s6/r52ra10rb24y2g2rc6-g649848-re87878-ra960000-rb781c38-rcc82828-yc4bc68/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGYRRR
 
 | Tartans |
 |---------------|
-| [Roseate Sunrise](/setts/s6/r6g2y2ra24rb10rc52-g649848-rc82828-ra781c38-rb960000-rce87878-yc4bc68/)|
-|![Roseate Sunrise example sett](/setts/s6/r6g2y2ra24rb10rc52-g649848-rc82828-ra781c38-rb960000-rce87878-yc4bc68/sett.png)|
+| [Roseate Sunrise](/setts/s6/r52ra10rb24y2g2rc6-g649848-re87878-ra960000-rb781c38-rcc82828-yc4bc68/)|
+|![Roseate Sunrise example sett](/setts/s6/r52ra10rb24y2g2rc6-g649848-re87878-ra960000-rb781c38-rcc82828-yc4bc68/sett.png)|

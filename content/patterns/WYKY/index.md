@@ -6,7 +6,7 @@ WYKY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/w6y40k30y40-k101010-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s4/y40k30y40w6-k101010-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,8 +18,8 @@ WYKY
 
 | Tartans |
 |---------------|
-| [Silvicola](/setts/s4/w6y40k30y40-k101010-we0e0e0-ye8c000/)|
-|![Silvicola example sett](/setts/s4/w6y40k30y40-k101010-we0e0e0-ye8c000/sett.png)|
+| [Silvicola](/setts/s4/y40k30y40w6-k101010-we0e0e0-ye8c000/)|
+|![Silvicola example sett](/setts/s4/y40k30y40w6-k101010-we0e0e0-ye8c000/sett.png)|
 | [Barclay Dress](/setts/s4/w1y6k6y1-k000000-wffffff-yc8c800/)|
 |![Barclay Dress example sett](/setts/s4/w1y6k6y1-k000000-wffffff-yc8c800/sett.png)|
 | [Barclay, dress](/setts/s4/w2y12k12y2-k000000-we0e0e0-yf0c000/)|

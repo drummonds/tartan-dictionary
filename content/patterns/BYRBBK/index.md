@@ -6,7 +6,7 @@ BYRBBK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b18y4r12ba38bb20k52-b105088-ba184458-bb646464-k101010-r880000-yc89800/tartan.png)
+![Woven sample](/setts/s6/k52b20ba38r12y4bb18-b646464-ba184458-bb105088-k101010-r880000-yc89800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRBBK
 
 | Tartans |
 |---------------|
-| [Meeson Hunting](/setts/s6/b18y4r12ba38bb20k52-b105088-ba184458-bb646464-k101010-r880000-yc89800/)|
-|![Meeson Hunting example sett](/setts/s6/b18y4r12ba38bb20k52-b105088-ba184458-bb646464-k101010-r880000-yc89800/sett.png)|
+| [Meeson Hunting](/setts/s6/k52b20ba38r12y4bb18-b646464-ba184458-bb105088-k101010-r880000-yc89800/)|
+|![Meeson Hunting example sett](/setts/s6/k52b20ba38r12y4bb18-b646464-ba184458-bb105088-k101010-r880000-yc89800/sett.png)|

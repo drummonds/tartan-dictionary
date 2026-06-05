@@ -16,5 +16,5 @@ WYBYGBRBWYWYY
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Arisaid (Personal)](/setts/s13/w2y2b2ya8g8b2r2b2w12ya4w84y2yb4-b780078-g289c18-rc80000-wfcfcec-y7498b4-yaec8048-ybe8c000/)|
-|![Kerr of Ardgowan Arisaid (Personal) example sett](/setts/s13/w2y2b2ya8g8b2r2b2w12ya4w84y2yb4-b780078-g289c18-rc80000-wfcfcec-y7498b4-yaec8048-ybe8c000/sett.png)|
+| [Kerr of Ardgowan Arisaid (Personal)](/setts/s13/y4ya2w84yb4w12b2r2b2g8yb8b2ya2w2-b780078-g289c18-rc80000-wfcfcec-ye8c000-ya7498b4-ybec8048/)|
+|![Kerr of Ardgowan Arisaid (Personal) example sett](/setts/s13/y4ya2w84yb4w12b2r2b2g8yb8b2ya2w2-b780078-g289c18-rc80000-wfcfcec-ye8c000-ya7498b4-ybec8048/sett.png)|

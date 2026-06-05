@@ -6,7 +6,7 @@ RBKR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r2b4k100r4-b5c5c5c-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s4/r4k100b4r2-b5c5c5c-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKR
 
 | Tartans |
 |---------------|
-| [Galloway (Name)](/setts/s4/r2b4k100r4-b5c5c5c-k101010-rc80000/)|
-|![Galloway (Name) example sett](/setts/s4/r2b4k100r4-b5c5c5c-k101010-rc80000/sett.png)|
+| [Galloway (Name)](/setts/s4/r4k100b4r2-b5c5c5c-k101010-rc80000/)|
+|![Galloway (Name) example sett](/setts/s4/r4k100b4r2-b5c5c5c-k101010-rc80000/sett.png)|

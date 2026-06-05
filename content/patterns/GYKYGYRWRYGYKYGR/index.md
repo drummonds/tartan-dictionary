@@ -16,5 +16,5 @@ GYKYGYRWRYGYKYGR
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Prince Charles Edward #4](/setts/s16/g12y16k8y16g48y8r12w4r12y8g48y16k8y16g12r48-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Unnamed C18th - Prince Charles Edward #4 example sett](/setts/s16/g12y16k8y16g48y8r12w4r12y8g48y16k8y16g12r48-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Unnamed C18th - Prince Charles Edward #4](/setts/s16/r48g12y16k8y16g48y8r12w4r12y8g48y16k8y16g12-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Unnamed C18th - Prince Charles Edward #4 example sett](/setts/s16/r48g12y16k8y16g48y8r12w4r12y8g48y16k8y16g12-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

@@ -6,7 +6,7 @@ RWBWRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6w12b35w13r6w93-b202060-r888888-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/w93r6w13b35w12r6-b202060-r888888-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWBWRW
 
 | Tartans |
 |---------------|
-| [Butties](/setts/s6/r6w12b35w13r6w93-b202060-r888888-wfcfcfc/)|
-|![Butties example sett](/setts/s6/r6w12b35w13r6w93-b202060-r888888-wfcfcfc/sett.png)|
+| [Butties](/setts/s6/w93r6w13b35w12r6-b202060-r888888-wfcfcfc/)|
+|![Butties example sett](/setts/s6/w93r6w13b35w12r6-b202060-r888888-wfcfcfc/sett.png)|

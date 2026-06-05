@@ -16,5 +16,5 @@ RYRRRRBWBRRRRY
 
 | Tartans |
 |---------------|
-| [Scottish Institute of Sport](/setts/s14/r4y8r46ra8r4ra8b38w8b38ra8r4ra8r46y8-b2888c4-r880000-rac8002c-wf8f8f8-ye8c000/)|
-|![Scottish Institute of Sport example sett](/setts/s14/r4y8r46ra8r4ra8b38w8b38ra8r4ra8r46y8-b2888c4-r880000-rac8002c-wf8f8f8-ye8c000/sett.png)|
+| [Scottish Institute of Sport](/setts/s14/y8r46ra8r4ra8b38w8b38ra8r4ra8r46y8r4-b2888c4-r880000-rac8002c-wf8f8f8-ye8c000/)|
+|![Scottish Institute of Sport example sett](/setts/s14/y8r46ra8r4ra8b38w8b38ra8r4ra8r46y8r4-b2888c4-r880000-rac8002c-wf8f8f8-ye8c000/sett.png)|

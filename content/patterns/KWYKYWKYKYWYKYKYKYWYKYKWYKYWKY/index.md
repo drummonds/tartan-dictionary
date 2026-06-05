@@ -16,5 +16,5 @@ KWYKYWKYKYWYKYKYKYWYKYKWYKYWKY
 
 | Tartans |
 |---------------|
-| [Corps Suevia Heidelburg](/setts/s30/k4w4y4k4y4w4k4y4k4y4w12y4k4y6k40y6k4y4w12y4k4y4k4w4y4k4y4w4k4y42-k000000-wc8c8c8-yfccc00/)|
-|![Corps Suevia Heidelburg example sett](/setts/s30/k4w4y4k4y4w4k4y4k4y4w12y4k4y6k40y6k4y4w12y4k4y4k4w4y4k4y4w4k4y42-k000000-wc8c8c8-yfccc00/sett.png)|
+| [Corps Suevia Heidelburg](/setts/s30/y42k4w4y4k4y4w4k4y4k4y4w12y4k4y6k40y6k4y4w12y4k4y4k4w4y4k4y4w4k4-k000000-wc8c8c8-yfccc00/)|
+|![Corps Suevia Heidelburg example sett](/setts/s30/y42k4w4y4k4y4w4k4y4k4y4w12y4k4y6k40y6k4y4w12y4k4y4k4w4y4k4y4w4k4-k000000-wc8c8c8-yfccc00/sett.png)|

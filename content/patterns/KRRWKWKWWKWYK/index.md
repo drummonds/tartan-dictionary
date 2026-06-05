@@ -16,5 +16,5 @@ KRRWKWKWWKWYK
 
 | Tartans |
 |---------------|
-| [Un-named (USA Bedheads)](/setts/s13/k6r30ra14w4k2w4k4w10wa8k4wa60y18k8-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-y48a4c0/)|
-|![Un-named (USA Bedheads) example sett](/setts/s13/k6r30ra14w4k2w4k4w10wa8k4wa60y18k8-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-y48a4c0/sett.png)|
+| [Un-named (USA Bedheads)](/setts/s13/k8y18w60k4w8wa10k4wa4k2wa4r14ra30k6-k101010-r880000-rac80000-w98c8e8-wae0e0e0-y48a4c0/)|
+|![Un-named (USA Bedheads) example sett](/setts/s13/k8y18w60k4w8wa10k4wa4k2wa4r14ra30k6-k101010-r880000-rac80000-w98c8e8-wae0e0e0-y48a4c0/sett.png)|

@@ -1331,7 +1331,6 @@ Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 
 | Tartan |
 |---|
-| [Bowie (Dalgety)](/patterns/brbrbwgwgrgyg/) |
 | [Bowie (white lines) (Name)](/patterns/brbrbwgwgrgyg/) |
 
 ### BRBRBWRWGRGYG
@@ -1409,5 +1408,12 @@ Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 |---|
 | [Clackson (Personal)](/patterns/brbwbybwbybrb/) |
 | [Clackson (Personal)](/patterns/brbwbybwbybrb/) |
+
+### BRBYBKBKBWBWR
+<a class="pat" href="/patterns/brbybkbkbwbwr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">BRBYBKBKBWBWR</span></a>
+
+| Tartan |
+|---|
+| [Titanic (Belfast)](/patterns/brbybkbkbwbwr/) |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes13/p2/">2</a> <a href="/stripes/stripes13/p3/">3</a> <a href="/stripes/stripes13/p4/">4</a> <a href="/stripes/stripes13/p2/">next ›</a></nav>

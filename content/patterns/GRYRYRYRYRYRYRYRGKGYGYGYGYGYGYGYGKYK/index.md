@@ -16,5 +16,5 @@ GRYRYRYRYRYRYRYRGKGYGYGYGYGYGYGYGKYK
 
 | Tartans |
 |---------------|
-| [Ontario (CIDD 28103) (Commemorative)](/setts/s36/g4r6y28r1y1r1y1r1y1r1y1r1y1r1y1r8g24k12g40y20g1y1g1y1g1y1g1y1g1y1g1y1g8k8y16k50-g604000-k000000-rc80000-ybc8c00/)|
-|![Ontario (CIDD 28103) (Commemorative) example sett](/setts/s36/g4r6y28r1y1r1y1r1y1r1y1r1y1r1y1r8g24k12g40y20g1y1g1y1g1y1g1y1g1y1g1y1g8k8y16k50-g604000-k000000-rc80000-ybc8c00/sett.png)|
+| [Ontario (CIDD 28103) (Commemorative)](/setts/s36/k50y16k8g8y1g1y1g1y1g1y1g1y1g1y1g1y20g40k12g24r8y1r1y1r1y1r1y1r1y1r1y1r1y28r6g4-g604000-k000000-rc80000-ybc8c00/)|
+|![Ontario (CIDD 28103) (Commemorative) example sett](/setts/s36/k50y16k8g8y1g1y1g1y1g1y1g1y1g1y1g1y20g40k12g24r8y1r1y1r1y1r1y1r1y1r1y1r1y28r6g4-g604000-k000000-rc80000-ybc8c00/sett.png)|

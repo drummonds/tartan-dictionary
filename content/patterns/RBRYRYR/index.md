@@ -6,7 +6,7 @@ RBRYRYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6b98r16y4ra12y4r74-b2c2c80-r888888-ra901c38-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/r74y4ra12y4r16b98r6-b2c2c80-r888888-ra901c38-ybc8c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBRYRYR
 
 | Tartans |
 |---------------|
-| [U.S. Merchant Marine Academy](/setts/s7/r6b98r16y4ra12y4r74-b2c2c80-r888888-ra901c38-ybc8c00/)|
-|![U.S. Merchant Marine Academy example sett](/setts/s7/r6b98r16y4ra12y4r74-b2c2c80-r888888-ra901c38-ybc8c00/sett.png)|
-| [U.S. Merchant Marine Academy (Corpo](/setts/s7/r6b98r16y4ra12y4r74-b2c2c80-r888888-ra901c38-ybc8c00/)|
-|![U.S. Merchant Marine Academy (Corpo example sett](/setts/s7/r6b98r16y4ra12y4r74-b2c2c80-r888888-ra901c38-ybc8c00/sett.png)|
+| [U.S. Merchant Marine Academy](/setts/s7/r74y4ra12y4r16b98r6-b2c2c80-r888888-ra901c38-ybc8c00/)|
+|![U.S. Merchant Marine Academy example sett](/setts/s7/r74y4ra12y4r16b98r6-b2c2c80-r888888-ra901c38-ybc8c00/sett.png)|
+| [U.S. Merchant Marine Academy (Corpo](/setts/s7/r74y4ra12y4r16b98r6-b2c2c80-r888888-ra901c38-ybc8c00/)|
+|![U.S. Merchant Marine Academy (Corpo example sett](/setts/s7/r74y4ra12y4r16b98r6-b2c2c80-r888888-ra901c38-ybc8c00/sett.png)|

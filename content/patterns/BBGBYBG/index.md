@@ -6,7 +6,7 @@ BBGBYBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b10ba36g16bb28y6bb14g62-b780078-ba2c4084-bb002814-g146000-yd87c00/tartan.png)
+![Woven sample](/setts/s7/g62b14y6b28g16ba36bb10-b002814-ba2c4084-bb780078-g146000-yd87c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGBYBG
 
 | Tartans |
 |---------------|
-| [Reidy Wedding](/setts/s7/b10ba36g16bb28y6bb14g62-b780078-ba2c4084-bb002814-g146000-yd87c00/)|
-|![Reidy Wedding example sett](/setts/s7/b10ba36g16bb28y6bb14g62-b780078-ba2c4084-bb002814-g146000-yd87c00/sett.png)|
+| [Reidy Wedding](/setts/s7/g62b14y6b28g16ba36bb10-b002814-ba2c4084-bb780078-g146000-yd87c00/)|
+|![Reidy Wedding example sett](/setts/s7/g62b14y6b28g16ba36bb10-b002814-ba2c4084-bb780078-g146000-yd87c00/sett.png)|

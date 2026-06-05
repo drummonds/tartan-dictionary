@@ -6,7 +6,7 @@ BGKG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b8g16k8g16-b5c8ca8-g006818-k101010/tartan.png)
+![Woven sample](/setts/s4/g16k8g16b8-b5c8ca8-g006818-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGKG
 
 | Tartans |
 |---------------|
-| [Wilson's No.045](/setts/s4/b8g16k8g16-b5c8ca8-g006818-k101010/)|
-|![Wilson's No.045 example sett](/setts/s4/b8g16k8g16-b5c8ca8-g006818-k101010/sett.png)|
+| [Wilson's No.045](/setts/s4/g16k8g16b8-b5c8ca8-g006818-k101010/)|
+|![Wilson's No.045 example sett](/setts/s4/g16k8g16b8-b5c8ca8-g006818-k101010/sett.png)|

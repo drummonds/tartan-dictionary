@@ -16,5 +16,5 @@ BKWKBKWKRKWKB
 
 | Tartans |
 |---------------|
-| [Kieck (2015)](/setts/s13/b12k4w4k92r4k4w18k8b12k4wa6k4b12-b5f749c-k1c1714-ra00000-we8ccb8-waffffff/)|
-|![Kieck (2015) example sett](/setts/s13/b12k4w4k92r4k4w18k8b12k4wa6k4b12-b5f749c-k1c1714-ra00000-we8ccb8-waffffff/sett.png)|
+| [Kieck (2015)](/setts/s13/b12k4w6k4b12k8wa18k4r4k92wa4k4b12-b5f749c-k1c1714-ra00000-wffffff-wae8ccb8/)|
+|![Kieck (2015) example sett](/setts/s13/b12k4w6k4b12k8wa18k4r4k92wa4k4b12-b5f749c-k1c1714-ra00000-wffffff-wae8ccb8/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "Caribou"
+title: "Caribou (District)"
 date: 2023-03-18
 ---
 In pattern [WBKBKGBGKBKRBRKBKBW](/patterns/wbkbkgbgkbkrbrkbkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=561
+Original link http://www.tartansauthority.com/tartan-ferret/display/2056/
 
 ## Thread count
 LN/4 DR16 K4 B12 K4 G16 B4 G16 K4 B12 K4 N16 DB4 N16 K4 B12 K4 DR16 LN/4

@@ -16,5 +16,5 @@ BKBWBYBKB
 
 | Tartans |
 |---------------|
-| [Kansas State University](/setts/s9/b15k15b4w4b6y6b6k10b60-b5a008c-k101010-wffffff-yb0b0b0/)|
-|![Kansas State University example sett](/setts/s9/b15k15b4w4b6y6b6k10b60-b5a008c-k101010-wffffff-yb0b0b0/sett.png)|
+| [Kansas State University](/setts/s9/b60k10b6y6b6w4b4k15b15-b5a008c-k101010-wffffff-yb0b0b0/)|
+|![Kansas State University example sett](/setts/s9/b60k10b6y6b6w4b4k15b15-b5a008c-k101010-wffffff-yb0b0b0/sett.png)|

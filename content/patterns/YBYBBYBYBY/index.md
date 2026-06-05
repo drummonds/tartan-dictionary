@@ -16,5 +16,5 @@ YBYBBYBYBY
 
 | Tartans |
 |---------------|
-| [Rhys (Welsh Name)](/setts/s10/y4b46y17b5y7b7ba15y3ba3y6-b000048-ba202060-ya08858/)|
-|![Rhys (Welsh Name) example sett](/setts/s10/y4b46y17b5y7b7ba15y3ba3y6-b000048-ba202060-ya08858/sett.png)|
+| [Rhys (Welsh Name)](/setts/s10/y6b3y3b15ba7y7ba5y17ba46y4-b202060-ba000048-ya08858/)|
+|![Rhys (Welsh Name) example sett](/setts/s10/y6b3y3b15ba7y7ba5y17ba46y4-b202060-ba000048-ya08858/sett.png)|

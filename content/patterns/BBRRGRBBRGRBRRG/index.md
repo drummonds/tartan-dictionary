@@ -16,5 +16,5 @@ BBRRGRBBRGRBRRG
 
 | Tartans |
 |---------------|
-| [Glen Orchy](/setts/s15/b2ba6r2ra4g36ra4ba16b2ra8g16ra4ba36r2ra4g6-b5480b0-ba304080-g008000-rd03030-rac00000/)|
-|![Glen Orchy example sett](/setts/s15/b2ba6r2ra4g36ra4ba16b2ra8g16ra4ba36r2ra4g6-b5480b0-ba304080-g008000-rd03030-rac00000/sett.png)|
+| [Glen Orchy](/setts/s15/g6r4ra2b36r4g16r8ba2b16r4g36r4ra2b6ba2-b304080-ba5480b0-g008000-rc00000-rad03030/)|
+|![Glen Orchy example sett](/setts/s15/g6r4ra2b36r4g16r8ba2b16r4g36r4ra2b6ba2-b304080-ba5480b0-g008000-rc00000-rad03030/sett.png)|

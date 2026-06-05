@@ -6,7 +6,7 @@ GRYBYBYR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4r30y16b4y16b4y16ra48-b401000-g008000-r806050-raa08060-yff8500/tartan.png)
+![Woven sample](/setts/s8/r48y16b4y16b4y16ra30g4-b401000-g008000-ra08060-ra806050-yff8500/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRYBYBYR
 
 | Tartans |
 |---------------|
-| [Unidentified from Winnipeg](/setts/s8/g4r30y16b4y16b4y16ra48-b401000-g008000-r806050-raa08060-yff8500/)|
-|![Unidentified from Winnipeg example sett](/setts/s8/g4r30y16b4y16b4y16ra48-b401000-g008000-r806050-raa08060-yff8500/sett.png)|
+| [Unidentified from Winnipeg](/setts/s8/r48y16b4y16b4y16ra30g4-b401000-g008000-ra08060-ra806050-yff8500/)|
+|![Unidentified from Winnipeg example sett](/setts/s8/r48y16b4y16b4y16ra30g4-b401000-g008000-ra08060-ra806050-yff8500/sett.png)|

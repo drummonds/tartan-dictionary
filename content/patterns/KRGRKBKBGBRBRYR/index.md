@@ -16,5 +16,5 @@ KRGRKBKBGBRBRYR
 
 | Tartans |
 |---------------|
-| [Scottish Register of Tartans' Tartan](/setts/s15/k5r3g6r3k23b2k2b28ga2b28r2b2r7y4r12-b3f2103-g755000-ga633c14-k140e04-r7f012d-yb5a189/)|
-|![Scottish Register of Tartans' Tartan example sett](/setts/s15/k5r3g6r3k23b2k2b28ga2b28r2b2r7y4r12-b3f2103-g755000-ga633c14-k140e04-r7f012d-yb5a189/sett.png)|
+| [Scottish Register of Tartans' Tartan](/setts/s15/r12y4r7b2r2b28g2b28k2b2k23r3ga6r3k5-b3f2103-g633c14-ga755000-k140e04-r7f012d-yb5a189/)|
+|![Scottish Register of Tartans' Tartan example sett](/setts/s15/r12y4r7b2r2b28g2b28k2b2k23r3ga6r3k5-b3f2103-g633c14-ga755000-k140e04-r7f012d-yb5a189/sett.png)|

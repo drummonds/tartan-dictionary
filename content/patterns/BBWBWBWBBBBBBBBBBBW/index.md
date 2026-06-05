@@ -16,5 +16,5 @@ BBWBWBWBBBBBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Finnish](/setts/s19/b10ba2w40b4w2b4w8ba2b8ba4b2ba4b8ba4b2ba4b48ba2w16-b1a4b8f-ba14283c-wf8f4d0/)|
-|![Finnish example sett](/setts/s19/b10ba2w40b4w2b4w8ba2b8ba4b2ba4b8ba4b2ba4b48ba2w16-b1a4b8f-ba14283c-wf8f4d0/sett.png)|
+| [Finnish](/setts/s19/w16b2ba48b4ba2b4ba8b4ba2b4ba8b2w8ba4w2ba4w40b2ba10-b14283c-ba1a4b8f-wf8f4d0/)|
+|![Finnish example sett](/setts/s19/w16b2ba48b4ba2b4ba8b4ba2b4ba8b2w8ba4w2ba4w40b2ba10-b14283c-ba1a4b8f-wf8f4d0/sett.png)|

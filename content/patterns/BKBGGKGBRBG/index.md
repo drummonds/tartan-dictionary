@@ -16,5 +16,5 @@ BKBGGKGBRBG
 
 | Tartans |
 |---------------|
-| [Donohoe Grey, Peter](/setts/s11/b4k6b70g2ga6k18g6ba4r2ba4g18-b666666-ba0000cd-g603311-ga008b00-k101010-rff0000/)|
-|![Donohoe Grey, Peter example sett](/setts/s11/b4k6b70g2ga6k18g6ba4r2ba4g18-b666666-ba0000cd-g603311-ga008b00-k101010-rff0000/sett.png)|
+| [Donohoe Grey, Peter](/setts/s11/g18b4r2b4g6k18ga6g2ba70k6ba4-b0000cd-ba666666-g603311-ga008b00-k101010-rff0000/)|
+|![Donohoe Grey, Peter example sett](/setts/s11/g18b4r2b4g6k18ga6g2ba70k6ba4-b0000cd-ba666666-g603311-ga008b00-k101010-rff0000/sett.png)|

@@ -16,5 +16,5 @@ WYYBYBWBYY
 
 | Tartans |
 |---------------|
-| [Bruce of Kinnaird (Fashion)](/setts/s10/w4y16ya10b32yb4b4w12b4yc44y44-b501400-wc0c0c0-ybc8c00-ya00c4bc-ybd09800-ycc4bc68/)|
-|![Bruce of Kinnaird (Fashion) example sett](/setts/s10/w4y16ya10b32yb4b4w12b4yc44y44-b501400-wc0c0c0-ybc8c00-ya00c4bc-ybd09800-ycc4bc68/sett.png)|
+| [Bruce of Kinnaird (Fashion)](/setts/s10/y44ya44b4w12b4yb4b32yc10y16w4-b501400-wc0c0c0-ybc8c00-yac4bc68-ybd09800-yc00c4bc/)|
+|![Bruce of Kinnaird (Fashion) example sett](/setts/s10/y44ya44b4w12b4yb4b32yc10y16w4-b501400-wc0c0c0-ybc8c00-yac4bc68-ybd09800-yc00c4bc/sett.png)|

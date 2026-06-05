@@ -16,5 +16,5 @@ KWYRGBWBR
 
 | Tartans |
 |---------------|
-| [Ofsharick, Matthew (Personal)](/setts/s9/k8w8y8r16g10b16w16b16r110-b1474b4-g006818-k101010-r888888-wfcfcfc-yfccc00/)|
-|![Ofsharick, Matthew (Personal) example sett](/setts/s9/k8w8y8r16g10b16w16b16r110-b1474b4-g006818-k101010-r888888-wfcfcfc-yfccc00/sett.png)|
+| [Ofsharick, Matthew (Personal)](/setts/s9/r110b16w16b16g10r16y8w8k8-b1474b4-g006818-k101010-r888888-wfcfcfc-yfccc00/)|
+|![Ofsharick, Matthew (Personal) example sett](/setts/s9/r110b16w16b16g10r16y8w8k8-b1474b4-g006818-k101010-r888888-wfcfcfc-yfccc00/sett.png)|

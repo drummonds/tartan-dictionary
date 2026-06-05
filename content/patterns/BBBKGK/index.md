@@ -6,7 +6,7 @@ BBBKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6ba6b32k26g32k8-b141e46-ba5f749c-g005448-k101010/tartan.png)
+![Woven sample](/setts/s6/k8g32k26b32ba6b6-b141e46-ba5f749c-g005448-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKGK
 
 | Tartans |
 |---------------|
-| [I Y](/setts/s6/b6ba6b32k26g32k8-b141e46-ba5f749c-g005448-k101010/)|
-|![I Y example sett](/setts/s6/b6ba6b32k26g32k8-b141e46-ba5f749c-g005448-k101010/sett.png)|
+| [I Y](/setts/s6/k8g32k26b32ba6b6-b141e46-ba5f749c-g005448-k101010/)|
+|![I Y example sett](/setts/s6/k8g32k26b32ba6b6-b141e46-ba5f749c-g005448-k101010/sett.png)|

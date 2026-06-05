@@ -16,7 +16,7 @@ RKGYGGGKRKW
 
 | Tartans |
 |---------------|
-| [Bicknell, The Hamish (Personal)](/setts/s11/r4k2g20y4g4ga50g4k4r50k2w6-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/)|
-|![Bicknell, The Hamish (Personal) example sett](/setts/s11/r4k2g20y4g4ga50g4k4r50k2w6-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/sett.png)|
-| [Hamish Bicknell (Personal)](/setts/s11/r4k2g20y4g4ga50g4k4r50k2w6-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Hamish Bicknell (Personal) example sett](/setts/s11/r4k2g20y4g4ga50g4k4r50k2w6-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Bicknell, The Hamish (Personal)](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/)|
+|![Bicknell, The Hamish (Personal) example sett](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/sett.png)|
+| [Hamish Bicknell (Personal)](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Hamish Bicknell (Personal) example sett](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

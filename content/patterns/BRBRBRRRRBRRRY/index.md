@@ -16,5 +16,5 @@ BRBRBRRRRBRRRY
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Rowanberry](/setts/s14/b4r8b8r8b4r28ra12rb6ra12b4rb8rb4rb30y7-b4c0000-ra00048-ra800028-rbc8002c-yd8b000/)|
-|![Kinloch Anderson Rowanberry example sett](/setts/s14/b4r8b8r8b4r28ra12rb6ra12b4rb8rb4rb30y7-b4c0000-ra00048-ra800028-rbc8002c-yd8b000/sett.png)|
+| [Kinloch Anderson Rowanberry](/setts/s14/y7r30r4r8b4ra12r6ra12rb28b4rb8b8rb8b4-b4c0000-rc8002c-ra800028-rba00048-yd8b000/)|
+|![Kinloch Anderson Rowanberry example sett](/setts/s14/y7r30r4r8b4ra12r6ra12rb28b4rb8b8rb8b4-b4c0000-rc8002c-ra800028-rba00048-yd8b000/sett.png)|

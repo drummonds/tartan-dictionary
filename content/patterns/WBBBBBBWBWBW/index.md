@@ -16,7 +16,7 @@ WBBBBBBWBWBW
 
 | Tartans |
 |---------------|
-| [Menzies Dress Blue & White](/setts/s12/w4b38ba2b2ba2b6ba10w46b6w4b2w8-b3c82af-ba2c4084-we0e0e0/)|
-|![Menzies Dress Blue & White example sett](/setts/s12/w4b38ba2b2ba2b6ba10w46b6w4b2w8-b3c82af-ba2c4084-we0e0e0/sett.png)|
-| [Menzies, dress Blue & White](/setts/s12/w4b38ba2b2ba2b6ba10w46b6w4b2w8-b5480b0-ba304080-we0e0e0/)|
-|![Menzies, dress Blue & White example sett](/setts/s12/w4b38ba2b2ba2b6ba10w46b6w4b2w8-b5480b0-ba304080-we0e0e0/sett.png)|
+| [Menzies Dress Blue & White](/setts/s12/w8b2w4b6w46ba10b6ba2b2ba2b38w4-b3c82af-ba2c4084-we0e0e0/)|
+|![Menzies Dress Blue & White example sett](/setts/s12/w8b2w4b6w46ba10b6ba2b2ba2b38w4-b3c82af-ba2c4084-we0e0e0/sett.png)|
+| [Menzies, dress Blue & White](/setts/s12/w8b2w4b6w46ba10b6ba2b2ba2b38w4-b5480b0-ba304080-we0e0e0/)|
+|![Menzies, dress Blue & White example sett](/setts/s12/w8b2w4b6w46ba10b6ba2b2ba2b38w4-b5480b0-ba304080-we0e0e0/sett.png)|

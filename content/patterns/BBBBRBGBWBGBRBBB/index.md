@@ -16,5 +16,5 @@ BBBBRBGBWBGBRBBB
 
 | Tartans |
 |---------------|
-| [Scozia](/setts/s16/b6ba8b48ba12r6ba8g6ba16w6ba16g6ba8r6ba12b48ba8-b14283c-ba2c2c80-g006818-rc80000-we0e0e0/)|
-|![Scozia example sett](/setts/s16/b6ba8b48ba12r6ba8g6ba16w6ba16g6ba8r6ba12b48ba8-b14283c-ba2c2c80-g006818-rc80000-we0e0e0/sett.png)|
+| [Scozia](/setts/s16/b8ba48b12r6b8g6b16w6b16g6b8r6b12ba48b8ba6-b2c2c80-ba14283c-g006818-rc80000-we0e0e0/)|
+|![Scozia example sett](/setts/s16/b8ba48b12r6b8g6b16w6b16g6b8r6b12ba48b8ba6-b2c2c80-ba14283c-g006818-rc80000-we0e0e0/sett.png)|

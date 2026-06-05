@@ -16,5 +16,5 @@ WRGGWYGWGYGYGY
 
 | Tartans |
 |---------------|
-| [Malone, Keagan Allen (Personal)](/setts/s14/w2r4g4ga6w6y6g32w2ga24y10ga24ya4ga6ya4-g003c14-ga649848-r905966-wffffff-ye0a126-yaccbaaf/)|
-|![Malone, Keagan Allen (Personal) example sett](/setts/s14/w2r4g4ga6w6y6g32w2ga24y10ga24ya4ga6ya4-g003c14-ga649848-r905966-wffffff-ye0a126-yaccbaaf/sett.png)|
+| [Malone, Keagan Allen (Personal)](/setts/s14/y4g6y4g24ya10g24w2ga32ya6w6g6ga4r4w2-g649848-ga003c14-r905966-wffffff-yccbaaf-yae0a126/)|
+|![Malone, Keagan Allen (Personal) example sett](/setts/s14/y4g6y4g24ya10g24w2ga32ya6w6g6ga4r4w2-g649848-ga003c14-r905966-wffffff-yccbaaf-yae0a126/sett.png)|

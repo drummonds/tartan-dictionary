@@ -6,7 +6,7 @@ RKRKBKBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8k4r40k32b24k4b4y10-b00008c-k000000-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s8/y10b4k4b24k32r40k4r8-b00008c-k000000-r8c0000-yc88c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRKBKBY
 
 | Tartans |
 |---------------|
-| [Aitken](/setts/s8/r8k4r40k32b24k4b4y10-b00008c-k000000-r8c0000-yc88c00/)|
-|![Aitken example sett](/setts/s8/r8k4r40k32b24k4b4y10-b00008c-k000000-r8c0000-yc88c00/sett.png)|
+| [Aitken](/setts/s8/y10b4k4b24k32r40k4r8-b00008c-k000000-r8c0000-yc88c00/)|
+|![Aitken example sett](/setts/s8/y10b4k4b24k32r40k4r8-b00008c-k000000-r8c0000-yc88c00/sett.png)|

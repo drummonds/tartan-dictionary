@@ -1,13 +1,13 @@
 ---
-title: "Bruce (Vestiarium)"
+title: "Bruce (Clan)"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRGRY](/patterns/wrgrgrgrgry/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=399
+Original link http://www.tartansauthority.com/tartan-ferret/display/1848/
 
 ## Thread count
 LN/4 R32 G8 R8 G24 R4 G24 R8 G8 R32 Y/4

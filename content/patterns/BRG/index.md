@@ -6,7 +6,7 @@ BRG
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/b30r4g34-b2c4084-g005020-rdc0000/tartan.png)
+![Woven sample](/setts/s3/g34r4b30-b2c4084-g005020-rdc0000/tartan.png)
 
 
 
@@ -18,17 +18,17 @@ BRG
 
 | Tartans |
 |---------------|
-| [Ferguson (Old)](/setts/s3/b30r4g34-b2c4084-g005020-rdc0000/)|
-|![Ferguson (Old) example sett](/setts/s3/b30r4g34-b2c4084-g005020-rdc0000/sett.png)|
-| [Ferguson - 1930 (Old)](/setts/s3/b30r4g34-b2c2c80-g006818-rc80000/)|
-|![Ferguson - 1930 (Old) example sett](/setts/s3/b30r4g34-b2c2c80-g006818-rc80000/sett.png)|
-| [Ferguson, (Old)](/setts/s3/b30r4g34-b304080-g008000-rc00000/)|
-|![Ferguson, (Old) example sett](/setts/s3/b30r4g34-b304080-g008000-rc00000/sett.png)|
+| [Ferguson (Old)](/setts/s3/g34r4b30-b2c4084-g005020-rdc0000/)|
+|![Ferguson (Old) example sett](/setts/s3/g34r4b30-b2c4084-g005020-rdc0000/sett.png)|
+| [Ferguson - 1930 (Old)](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/)|
+|![Ferguson - 1930 (Old) example sett](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/sett.png)|
+| [Ferguson, (Old)](/setts/s3/g34r4b30-b304080-g008000-rc00000/)|
+|![Ferguson, (Old) example sett](/setts/s3/g34r4b30-b304080-g008000-rc00000/sett.png)|
 | [Wilson's No 62, (Ferguson)](/setts/s3/b26r4g26-b304080-g008000-rc00000/)|
 |![Wilson's No 62, (Ferguson) example sett](/setts/s3/b26r4g26-b304080-g008000-rc00000/sett.png)|
 | [Wilson's, No 161](/setts/s3/b26r4g26-b5480b0-g008000-rc00000/)|
 |![Wilson's, No 161 example sett](/setts/s3/b26r4g26-b5480b0-g008000-rc00000/sett.png)|
-| [Wilson's, No 212](/setts/s3/b8r8g36-b5480b0-g008000-rc00000/)|
-|![Wilson's, No 212 example sett](/setts/s3/b8r8g36-b5480b0-g008000-rc00000/sett.png)|
-| [Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/b30r4g34-b2c2c80-g006818-rc80000/)|
-|![Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s3/b30r4g34-b2c2c80-g006818-rc80000/sett.png)|
+| [Wilson's, No 212](/setts/s3/g36r8b8-b5480b0-g008000-rc00000/)|
+|![Wilson's, No 212 example sett](/setts/s3/g36r8b8-b5480b0-g008000-rc00000/sett.png)|
+| [Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/)|
+|![Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/sett.png)|

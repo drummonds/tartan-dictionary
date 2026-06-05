@@ -16,5 +16,5 @@ RBRBRWRBRBRGRBR
 
 | Tartans |
 |---------------|
-| [Grant](/setts/s15/r6b1r2b2r32w1r2b8r2b2r2g24r2b2r6-b00004c-g004c00-rc80000-wd0d0d0/)|
-|![Grant example sett](/setts/s15/r6b1r2b2r32w1r2b8r2b2r2g24r2b2r6-b00004c-g004c00-rc80000-wd0d0d0/sett.png)|
+| [Grant](/setts/s15/r6b2r2g24r2b2r2b8r2w1r32b2r2b1r6-b00004c-g004c00-rc80000-wd0d0d0/)|
+|![Grant example sett](/setts/s15/r6b2r2g24r2b2r2b8r2w1r32b2r2b1r6-b00004c-g004c00-rc80000-wd0d0d0/sett.png)|

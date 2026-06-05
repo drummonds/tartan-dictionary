@@ -16,5 +16,5 @@ BBGKGBRKBB
 
 | Tartans |
 |---------------|
-| [Berkshire #2](/setts/s10/b8ba4g24k4g24ba48r40k4b12ba24-b00008c-ba606060-g144800-k000000-r888888/)|
-|![Berkshire #2 example sett](/setts/s10/b8ba4g24k4g24ba48r40k4b12ba24-b00008c-ba606060-g144800-k000000-r888888/sett.png)|
+| [Berkshire #2](/setts/s10/b24ba12k4r40b48g24k4g24b4ba8-b606060-ba00008c-g144800-k000000-r888888/)|
+|![Berkshire #2 example sett](/setts/s10/b24ba12k4r40b48g24k4g24b4ba8-b606060-ba00008c-g144800-k000000-r888888/sett.png)|

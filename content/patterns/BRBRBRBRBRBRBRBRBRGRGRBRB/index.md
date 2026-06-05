@@ -16,5 +16,5 @@ BRBRBRBRBRBRBRBRBRGRGRBRB
 
 | Tartans |
 |---------------|
-| [Campbell of Loudoun, Plaid](/setts/s25/b2r8b10r20g20r28g8r6b2r2b2r6b28r36b2r2b6r2b2r6b18r6b2r2b6-b304080-g008000-rc00000/)|
-|![Campbell of Loudoun, Plaid example sett](/setts/s25/b2r8b10r20g20r28g8r6b2r2b2r6b28r36b2r2b6r2b2r6b18r6b2r2b6-b304080-g008000-rc00000/sett.png)|
+| [Campbell of Loudoun, Plaid](/setts/s25/b6r2b2r6b18r6b2r2b6r2b2r36b28r6b2r2b2r6g8r28g20r20b10r8b2-b304080-g008000-rc00000/)|
+|![Campbell of Loudoun, Plaid example sett](/setts/s25/b6r2b2r6b18r6b2r2b6r2b2r36b28r6b2r2b2r6g8r28g20r20b10r8b2-b304080-g008000-rc00000/sett.png)|

@@ -16,7 +16,7 @@ RGRKRKYKR
 
 | Tartans |
 |---------------|
-| [Wemyss](/setts/s9/r8g2r48k8r8k24y2k24r8-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Wemyss example sett](/setts/s9/r8g2r48k8r8k24y2k24r8-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Wemyss](/setts/s9/r4g1r24k4r4k12y1k12r4-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Wemyss example sett](/setts/s9/r4g1r24k4r4k12y1k12r4-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Wemyss](/setts/s9/r8k24y2k24r8k8r48g2r8-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Wemyss example sett](/setts/s9/r8k24y2k24r8k8r48g2r8-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Wemyss](/setts/s9/r4k12y1k12r4k4r24g1r4-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Wemyss example sett](/setts/s9/r4k12y1k12r4k4r24g1r4-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

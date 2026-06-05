@@ -16,7 +16,7 @@ BGGGGGGGG
 
 | Tartans |
 |---------------|
-| [Gates, Hunting](/setts/s9/b6g60ga16g6ga16g24ga8g6ga48-b1474b4-g289c18-ga006818/)|
-|![Gates, Hunting example sett](/setts/s9/b6g60ga16g6ga16g24ga8g6ga48-b1474b4-g289c18-ga006818/sett.png)|
-| [Gates, Htg (Name)](/setts/s9/b6g60ga16g6ga16g24ga8g6ga48-b1474b4-g289c18-ga006818/)|
-|![Gates, Htg (Name) example sett](/setts/s9/b6g60ga16g6ga16g24ga8g6ga48-b1474b4-g289c18-ga006818/sett.png)|
+| [Gates, Hunting](/setts/s9/g48ga6g8ga24g16ga6g16ga60b6-b1474b4-g006818-ga289c18/)|
+|![Gates, Hunting example sett](/setts/s9/g48ga6g8ga24g16ga6g16ga60b6-b1474b4-g006818-ga289c18/sett.png)|
+| [Gates, Htg (Name)](/setts/s9/g48ga6g8ga24g16ga6g16ga60b6-b1474b4-g006818-ga289c18/)|
+|![Gates, Htg (Name) example sett](/setts/s9/g48ga6g8ga24g16ga6g16ga60b6-b1474b4-g006818-ga289c18/sett.png)|

@@ -16,5 +16,5 @@ GYGKGBGBGBGKGYGK
 
 | Tartans |
 |---------------|
-| [Oliver Hunting](/setts/s16/g6y6g6k6g44b6g10b124g10b6g44k6g6y6g6k12-b2888c4-g408060-k101010-ye8c000/)|
-|![Oliver Hunting example sett](/setts/s16/g6y6g6k6g44b6g10b124g10b6g44k6g6y6g6k12-b2888c4-g408060-k101010-ye8c000/sett.png)|
+| [Oliver Hunting](/setts/s16/k12g6y6g6k6g44b6g10b124g10b6g44k6g6y6g6-b2888c4-g408060-k101010-ye8c000/)|
+|![Oliver Hunting example sett](/setts/s16/k12g6y6g6k6g44b6g10b124g10b6g44k6g6y6g6-b2888c4-g408060-k101010-ye8c000/sett.png)|

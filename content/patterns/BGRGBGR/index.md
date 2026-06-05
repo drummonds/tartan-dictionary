@@ -6,7 +6,7 @@ BGRGBGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4g42r6g42b10g6r60-b202060-g5c6428-rc8002c/tartan.png)
+![Woven sample](/setts/s7/r60g6b10g42r6g42b4-b202060-g5c6428-rc8002c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRGBGR
 
 | Tartans |
 |---------------|
-| [Scottish Piping Soc. of London (Corp](/setts/s7/b4g42r6g42b10g6r60-b202060-g5c6428-rc8002c/)|
-|![Scottish Piping Soc. of London (Corp example sett](/setts/s7/b4g42r6g42b10g6r60-b202060-g5c6428-rc8002c/sett.png)|
+| [Scottish Piping Soc. of London (Corp](/setts/s7/r60g6b10g42r6g42b4-b202060-g5c6428-rc8002c/)|
+|![Scottish Piping Soc. of London (Corp example sett](/setts/s7/r60g6b10g42r6g42b4-b202060-g5c6428-rc8002c/sett.png)|

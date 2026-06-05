@@ -16,8 +16,8 @@ BRBRBRGRB
 
 | Tartans |
 |---------------|
-| [Fraser (Wilson 1820)](/setts/s9/b8r4g40r40b4r40b40r8b8-b2c2c80-g006818-rc80000/)|
-|![Fraser (Wilson 1820) example sett](/setts/s9/b8r4g40r40b4r40b40r8b8-b2c2c80-g006818-rc80000/sett.png)|
+| [Fraser (Wilson 1820)](/setts/s9/b8r8b40r40b4r40g40r4b8-b2c2c80-g006818-rc80000/)|
+|![Fraser (Wilson 1820) example sett](/setts/s9/b8r8b40r40b4r40g40r4b8-b2c2c80-g006818-rc80000/sett.png)|
 | [Lovat or Fraser](/setts/s9/b2r14b44r46b2r46g44r14b2-b5a008c-g005020-rdc0000/)|
 |![Lovat or Fraser example sett](/setts/s9/b2r14b44r46b2r46g44r14b2-b5a008c-g005020-rdc0000/sett.png)|
 | [MacPherson Gathering 1996](/setts/s9/b12r8ba64r8b12r8g64r8b12-b1870a4-ba5c5c5c-g00643c-rc80000/)|

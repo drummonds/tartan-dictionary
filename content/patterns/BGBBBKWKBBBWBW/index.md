@@ -16,5 +16,5 @@ BGBBBKWKBBBWBW
 
 | Tartans |
 |---------------|
-| [Redgate (Connecticut) Dress](/setts/s14/b8g26b6ba6b10k12w2k12ba14bb4ba14w4ba8w14-b4b2f16-ba788cb4-bb5d0f04-g334e3d-k120a01-wddd5af/)|
-|![Redgate (Connecticut) Dress example sett](/setts/s14/b8g26b6ba6b10k12w2k12ba14bb4ba14w4ba8w14-b4b2f16-ba788cb4-bb5d0f04-g334e3d-k120a01-wddd5af/sett.png)|
+| [Redgate (Connecticut) Dress](/setts/s14/w14b8w4b14ba4b14k12w2k12bb10b6bb6g26bb8-b788cb4-ba5d0f04-bb4b2f16-g334e3d-k120a01-wddd5af/)|
+|![Redgate (Connecticut) Dress example sett](/setts/s14/w14b8w4b14ba4b14k12w2k12bb10b6bb6g26bb8-b788cb4-ba5d0f04-bb4b2f16-g334e3d-k120a01-wddd5af/sett.png)|

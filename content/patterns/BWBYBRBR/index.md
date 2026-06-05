@@ -6,7 +6,7 @@ BWBYBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6w36b24y6b4r4b4r40-b1c1c50-rb04800-we0e0e0-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWBYBRBR
 
 | Tartans |
 |---------------|
-| [Heriot](/setts/s8/b6w36b24y6b4r4b4r40-b1c1c50-rb04800-we0e0e0-ybc8c00/)|
-|![Heriot example sett](/setts/s8/b6w36b24y6b4r4b4r40-b1c1c50-rb04800-we0e0e0-ybc8c00/sett.png)|
-| [Heriot (Fashion)](/setts/s8/b6w36b24y6b4r4b4r40-b1c1c50-rb04800-we0e0e0-ybc8c00/)|
-|![Heriot (Fashion) example sett](/setts/s8/b6w36b24y6b4r4b4r40-b1c1c50-rb04800-we0e0e0-ybc8c00/sett.png)|
+| [Heriot](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/)|
+|![Heriot example sett](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/sett.png)|
+| [Heriot (Fashion)](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/)|
+|![Heriot (Fashion) example sett](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/sett.png)|

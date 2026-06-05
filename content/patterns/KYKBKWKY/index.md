@@ -6,7 +6,7 @@ KYKBKWKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k4y10k4b58k10w32k4y10-b3c82af-k000000-wffffff-yffcc00/tartan.png)
+![Woven sample](/setts/s8/y10k4w32k10b58k4y10k4-b3c82af-k000000-wffffff-yffcc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKBKWKY
 
 | Tartans |
 |---------------|
-| [Children's Wish Foundation of Canada, The](/setts/s8/k4y10k4b58k10w32k4y10-b3c82af-k000000-wffffff-yffcc00/)|
-|![Children's Wish Foundation of Canada, The example sett](/setts/s8/k4y10k4b58k10w32k4y10-b3c82af-k000000-wffffff-yffcc00/sett.png)|
+| [Children's Wish Foundation of Canada, The](/setts/s8/y10k4w32k10b58k4y10k4-b3c82af-k000000-wffffff-yffcc00/)|
+|![Children's Wish Foundation of Canada, The example sett](/setts/s8/y10k4w32k10b58k4y10k4-b3c82af-k000000-wffffff-yffcc00/sett.png)|

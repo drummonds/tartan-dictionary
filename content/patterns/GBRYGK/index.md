@@ -6,7 +6,7 @@ GBRYGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g4b12r10y4g48k17-b202060-g006818-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRYGK
 
 | Tartans |
 |---------------|
-| [Asheville Firefighters, The](/setts/s6/g4b12r10y4g48k17-b202060-g006818-k101010-rc80000-ye8c000/)|
-|![Asheville Firefighters, The example sett](/setts/s6/g4b12r10y4g48k17-b202060-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Asheville Firefighters, The](/setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/)|
+|![Asheville Firefighters, The example sett](/setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/sett.png)|

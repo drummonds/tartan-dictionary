@@ -16,5 +16,5 @@ RWGWRYWRWY
 
 | Tartans |
 |---------------|
-| [Smith Hunting (Name)](/setts/s10/r30w2g18w2r30y18w2r30w2y120-g5c6428-rb03000-wfcfcfc-ya08858/)|
-|![Smith Hunting (Name) example sett](/setts/s10/r30w2g18w2r30y18w2r30w2y120-g5c6428-rb03000-wfcfcfc-ya08858/sett.png)|
+| [Smith Hunting (Name)](/setts/s10/y120w2r30w2y18r30w2g18w2r30-g5c6428-rb03000-wfcfcfc-ya08858/)|
+|![Smith Hunting (Name) example sett](/setts/s10/y120w2r30w2y18r30w2g18w2r30-g5c6428-rb03000-wfcfcfc-ya08858/sett.png)|

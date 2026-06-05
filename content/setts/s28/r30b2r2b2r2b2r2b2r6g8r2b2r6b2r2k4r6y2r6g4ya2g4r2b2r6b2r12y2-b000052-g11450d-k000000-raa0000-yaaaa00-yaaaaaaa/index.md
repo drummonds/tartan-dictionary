@@ -7,7 +7,7 @@ In pattern [RBRBRBRBRGRBRBRKRYRGYGRBRBRY](/patterns/rbrbrbrbrgrbrbrkryrgygrbrbry
 
 This was sourced from weddslist.  It is a [28 stripes tartan](/stripes/stripes28/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DR/30 DB2 DR2 DB2 DR2 DB2 DR2 DB2 DR6 DG8 DR2 DB2 DR6 DB2 DR2 K4 DR6 LG2 DR6 DG4 N2 DG4 DR2 DB2 DR6 DB2 DR12 LG/2

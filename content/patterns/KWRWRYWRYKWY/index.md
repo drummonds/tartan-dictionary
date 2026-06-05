@@ -16,5 +16,5 @@ KWRWRYWRYKWY
 
 | Tartans |
 |---------------|
-| [Turblin, Jean Pierre (Personal)](/setts/s12/k2w44r2w2r4y16w12r16y2k6w4y4-k101010-rff0000-wffffff-yffe600/)|
-|![Turblin, Jean Pierre (Personal) example sett](/setts/s12/k2w44r2w2r4y16w12r16y2k6w4y4-k101010-rff0000-wffffff-yffe600/sett.png)|
+| [Turblin, Jean Pierre (Personal)](/setts/s12/y4w4k6y2r16w12y16r4w2r2w44k2-k101010-rff0000-wffffff-yffe600/)|
+|![Turblin, Jean Pierre (Personal) example sett](/setts/s12/y4w4k6y2r16w12y16r4w2r2w44k2-k101010-rff0000-wffffff-yffe600/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "Teall of Teallach Family Tartan Tartan Number: 1065. Earliest known date: 1966 Adopted by the Scottish Tartans Society in recognition of many years service of their chairman, Dr Gordon Teall. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Teall of Teallach (Personal)"
 date: 2023-03-18
 ---
 In pattern [KBKBGWKRY](/patterns/kbkbgwkry/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1065
+Original link http://www.tartansauthority.com/tartan-ferret/display/1065/
 
 ## Thread count
 K/4 B12 K2 DB14 G26 LN2 K22 R28 Y/4

@@ -16,5 +16,5 @@ RWRWBWGWYWR
 
 | Tartans |
 |---------------|
-| [Bendigo](/setts/s11/r16w2ra2w2b24w2g42w2y14w2r44-b041b67-g003820-r89051b-ra861031-wddd5af-ye0a126/)|
-|![Bendigo example sett](/setts/s11/r16w2ra2w2b24w2g42w2y14w2r44-b041b67-g003820-r89051b-ra861031-wddd5af-ye0a126/sett.png)|
+| [Bendigo](/setts/s11/r44w2y14w2g42w2b24w2ra2w2r16-b041b67-g003820-r89051b-ra861031-wddd5af-ye0a126/)|
+|![Bendigo example sett](/setts/s11/r44w2y14w2g42w2b24w2ra2w2r16-b041b67-g003820-r89051b-ra861031-wddd5af-ye0a126/sett.png)|

@@ -16,7 +16,7 @@ GBGKRKRKR
 
 | Tartans |
 |---------------|
-| [Mostyn](/setts/s9/g6b4g48k16r4k4r4k4r40-b202060-g289c18-k101010-re87878/)|
-|![Mostyn example sett](/setts/s9/g6b4g48k16r4k4r4k4r40-b202060-g289c18-k101010-re87878/sett.png)|
-| [Mostyn (Name)](/setts/s9/g6b4g48k16r4k4r4k4r40-b202060-g289c18-k101010-re87878/)|
-|![Mostyn (Name) example sett](/setts/s9/g6b4g48k16r4k4r4k4r40-b202060-g289c18-k101010-re87878/sett.png)|
+| [Mostyn](/setts/s9/r40k4r4k4r4k16g48b4g6-b202060-g289c18-k101010-re87878/)|
+|![Mostyn example sett](/setts/s9/r40k4r4k4r4k16g48b4g6-b202060-g289c18-k101010-re87878/sett.png)|
+| [Mostyn (Name)](/setts/s9/r40k4r4k4r4k16g48b4g6-b202060-g289c18-k101010-re87878/)|
+|![Mostyn (Name) example sett](/setts/s9/r40k4r4k4r4k16g48b4g6-b202060-g289c18-k101010-re87878/sett.png)|

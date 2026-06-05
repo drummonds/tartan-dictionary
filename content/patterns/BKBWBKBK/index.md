@@ -6,7 +6,7 @@ BKBWBKBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6k24b36w10b36k24b6k24-b305470-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/k24b6k24b36w10b36k24b6-b305470-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBWBKBK
 
 | Tartans |
 |---------------|
-| [Grampian Television](/setts/s8/b6k24b36w10b36k24b6k24-b305470-k101010-wfcfcfc/)|
-|![Grampian Television example sett](/setts/s8/b6k24b36w10b36k24b6k24-b305470-k101010-wfcfcfc/sett.png)|
+| [Grampian Television](/setts/s8/k24b6k24b36w10b36k24b6-b305470-k101010-wfcfcfc/)|
+|![Grampian Television example sett](/setts/s8/k24b6k24b36w10b36k24b6-b305470-k101010-wfcfcfc/sett.png)|

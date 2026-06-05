@@ -16,5 +16,5 @@ KBKRBRKRKRKRKKR
 
 | Tartans |
 |---------------|
-| [James (Welsh Name)](/setts/s15/k8b4k14r22b2r22k14r8k6r12k2r12k6k2r22-b202060-k101010-r901c38/)|
-|![James (Welsh Name) example sett](/setts/s15/k8b4k14r22b2r22k14r8k6r12k2r12k6k2r22-b202060-k101010-r901c38/sett.png)|
+| [James (Welsh Name)](/setts/s15/r22k2k6r12k2r12k6r8k14r22b2r22k14b4k8-b202060-k101010-r901c38/)|
+|![James (Welsh Name) example sett](/setts/s15/r22k2k6r12k2r12k6r8k14r22b2r22k14b4k8-b202060-k101010-r901c38/sett.png)|

@@ -16,5 +16,5 @@ GRGKBWBWBWBWBKGRGRGRGKBWBWGWBWBWBWGWBWBKGRGRGRGKBWBWBWBWBKGRGR
 
 | Tartans |
 |---------------|
-| [Unidentified Lindley #7](/setts/s62/g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2r4g2r2g44k22b6w2b2w2g44w2b2w2b6w2b2w2g44w2b2w2b6k22g44r2g2r4g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2r4-b1474b4-g006818-k101010-rc80000-wfcfcfc/)|
-|![Unidentified Lindley #7 example sett](/setts/s62/g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2r4g2r2g44k22b6w2b2w2g44w2b2w2b6w2b2w2g44w2b2w2b6k22g44r2g2r4g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2r4-b1474b4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Unidentified Lindley #7](/setts/s62/r4g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2r4g2r2g44k22b6w2b2w2g44w2b2w2b6w2b2w2g44w2b2w2b6k22g44r2g2r4g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2-b1474b4-g006818-k101010-rc80000-wfcfcfc/)|
+|![Unidentified Lindley #7 example sett](/setts/s62/r4g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2r4g2r2g44k22b6w2b2w2g44w2b2w2b6w2b2w2g44w2b2w2b6k22g44r2g2r4g2r2g44k22b32w2b8w2b32w2b8w2b32k22g44r2g2-b1474b4-g006818-k101010-rc80000-wfcfcfc/sett.png)|

@@ -6,7 +6,7 @@ RYBKBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r3y6b18k8ba24y5-b304080-ba000050-k000000-r806050-yf0c000/tartan.png)
+![Woven sample](/setts/s6/y5b24k8ba18y6r3-b000050-ba304080-k000000-r806050-yf0c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYBKBY
 
 | Tartans |
 |---------------|
-| [CALA Homes](/setts/s6/r3y6b18k8ba24y5-b304080-ba000050-k000000-r806050-yf0c000/)|
-|![CALA Homes example sett](/setts/s6/r3y6b18k8ba24y5-b304080-ba000050-k000000-r806050-yf0c000/sett.png)|
+| [CALA Homes](/setts/s6/y5b24k8ba18y6r3-b000050-ba304080-k000000-r806050-yf0c000/)|
+|![CALA Homes example sett](/setts/s6/y5b24k8ba18y6r3-b000050-ba304080-k000000-r806050-yf0c000/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "Pinney's of Scotland"
+title: "Pinney's of Scotland (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBYBGBGBY](/patterns/bgbybgbgby/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3343
+Original link http://www.tartansauthority.com/tartan-ferret/display/2284/
 
 ## Thread count
 DBa/8 G4 DB20 Y2 DB4 G26 DBa22 G26 DB26 Y/4

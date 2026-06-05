@@ -16,5 +16,5 @@ RBRGRRRGRBRBRGRW
 
 | Tartans |
 |---------------|
-| [Fraser, hunting](/setts/s16/r4b28r4g28r56ra8r56g28r4b28r4b28r4g28r56w8-b304080-g008000-r806050-rac00000-we0e0e0/)|
-|![Fraser, hunting example sett](/setts/s16/r4b28r4g28r56ra8r56g28r4b28r4b28r4g28r56w8-b304080-g008000-r806050-rac00000-we0e0e0/sett.png)|
+| [Fraser, hunting](/setts/s16/w8r56g28r4b28r4b28r4g28r56ra8r56g28r4b28r4-b304080-g008000-r806050-rac00000-we0e0e0/)|
+|![Fraser, hunting example sett](/setts/s16/w8r56g28r4b28r4b28r4g28r56ra8r56g28r4b28r4-b304080-g008000-r806050-rac00000-we0e0e0/sett.png)|

@@ -6,42 +6,6 @@ weight: 10
 Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes10/p3/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <a href="/stripes/stripes10/p2/">2</a> <a href="/stripes/stripes10/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes10/p5/">5</a> <a href="/stripes/stripes10/p5/">next ›</a></nav>
 
-### KWKKGKGKBW
-<a class="pat" href="/patterns/kwkkgkgkbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKKGKGKBW</span></a>
-
-| Tartan |
-|---|
-| [Kagame (Personal)](/patterns/kwkkgkgkbw/) |
-| [Kagame Personal Tartan Tartan Number: 7077. Earliest known date: 2006 Presented to President Kagame of Rwanda, by Tom Hunter, christmas 2006 See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/kwkkgkgkbw/) |
-
-### KWKRBRBBKW
-<a class="pat" href="/patterns/kwkrbrbbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKRBRBBKW</span></a>
-
-| Tartan |
-|---|
-| [Unidentified](/patterns/kwkrbrbbkw/) |
-
-### KWKRKRKRKW
-<a class="pat" href="/patterns/kwkrkrkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKRKRKRKW</span></a>
-
-| Tartan |
-|---|
-| [Hakkarain (Personal)](/patterns/kwkrkrkrkw/) |
-
-### KWKRKWKWKY
-<a class="pat" href="/patterns/kwkrkwkwky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KWKRKWKWKY</span></a>
-
-| Tartan |
-|---|
-| [Little, Arisaid](/patterns/kwkrkwkwky/) |
-
-### KWKWKBKBKW
-<a class="pat" href="/patterns/kwkwkbkbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKWKBKBKW</span></a>
-
-| Tartan |
-|---|
-| [Seacliff Academy](/patterns/kwkwkbkbkw/) |
-
 ### KWKWKBKBKY
 <a class="pat" href="/patterns/kwkwkbkbky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KWKWKBKBKY</span></a>
 
@@ -1158,7 +1122,6 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Motherwell F.C. Fir Park Dress (Spor](/patterns/rwrkykykyr/) |
-| [Motherwell Football Club Fir Park Dress](/patterns/rwrkykykyr/) |
 
 ### RWRWBYKBKY
 <a class="pat" href="/patterns/rwrwbykbky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWRWBYKBKY</span></a>
@@ -1552,7 +1515,6 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 |---|
 | [Celtic F.C.](/patterns/wggkgkggky/) |
 | [Celtic F.C. Corporate Tartan Tartan Number: 2080. Earliest known date: 1989 Launched at Parkhead on November 30th 1989 by Billy McNeil. The tartan appeared the following year at the World Cup finals in Italy. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wggkgkggky/) |
-| [Celtic Football Club](/patterns/wggkgkggky/) |
 
 ### WGGRWRRWWW
 <a class="pat" href="/patterns/wggrwrrwww/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WGGRWRRWWW</span></a>
@@ -1649,5 +1611,49 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Loch Lomond & the Trossachs (Fashion](/patterns/wkgrbkykrw/) |
+
+### WKGYKYKYKY
+<a class="pat" href="/patterns/wkgykykyky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKGYKYKYKY</span></a>
+
+| Tartan |
+|---|
+| [Scruffy Wallace](/patterns/wkgykykyky/) |
+
+### WKRBBGBBKY
+<a class="pat" href="/patterns/wkrbbgbbky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKRBBGBBKY</span></a>
+
+| Tartan |
+|---|
+| [Guardian of Scotland](/patterns/wkrbbgbbky/) |
+
+### WKWGKGGGWW
+<a class="pat" href="/patterns/wkwgkgggww/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WKWGKGGGWW</span></a>
+
+| Tartan |
+|---|
+| [State Seal of Alaska (Fashion)](/patterns/wkwgkgggww/) |
+
+### WRBGGGKRKY
+<a class="pat" href="/patterns/wrbgggkrky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRBGGGKRKY</span></a>
+
+| Tartan |
+|---|
+| [Essex County (Ontario)](/patterns/wrbgggkrky/) |
+| [Essex County Ontario District Tartan Tartan Number: 1840. Earliest known date: 1985 The Essex County district tartan was designed by Mrs Edyth Baker of Leamington, Ontario, Canada in 1983. She used colours representing the various industries of the region; agriculture, salt mining, car building anf fishing. Azure blue symbolizes the sky and the water. The tartan was formally adopted by the Corporation of the County of Essex in 1984, and approved by the Leamington Council. The tartan is accredited by the Scottish Tartans Society. (STS archive) See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wrbgggkrky/) |
+| [Essex, County Ontario](/patterns/wrbgggkrky/) |
+
+### WRBKWKWKRW
+<a class="pat" href="/patterns/wrbkwkwkrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WRBKWKWKRW</span></a>
+
+| Tartan |
+|---|
+| [Naysmith, William A (Personal)](/patterns/wrbkwkwkrw/) |
+
+### WRBRKRGKRW
+<a class="pat" href="/patterns/wrbrkrgkrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WRBRKRGKRW</span></a>
+
+| Tartan |
+|---|
+| [Unidentified Plaid #7](/patterns/wrbrkrgkrw/) |
 
 <nav class="pager"><a href="/stripes/stripes10/p3/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <a href="/stripes/stripes10/p2/">2</a> <a href="/stripes/stripes10/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes10/p5/">5</a> <a href="/stripes/stripes10/p5/">next ›</a></nav>

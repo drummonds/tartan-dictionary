@@ -16,5 +16,5 @@ WRKBKBKGKGKRKRRY
 
 | Tartans |
 |---------------|
-| [Muzzi, Massimiliano Baron of Striche](/setts/s16/w2r54k4b10k2b12k4g12k6g18k6r16k4r38ra2y4-b2c2c80-g006818-k101010-rc80000-ra888888-wfcfcfc-yfccc00/)|
-|![Muzzi, Massimiliano Baron of Striche example sett](/setts/s16/w2r54k4b10k2b12k4g12k6g18k6r16k4r38ra2y4-b2c2c80-g006818-k101010-rc80000-ra888888-wfcfcfc-yfccc00/sett.png)|
+| [Muzzi, Massimiliano Baron of Striche](/setts/s16/y4r2ra38k4ra16k6g18k6g12k4b12k2b10k4ra54w2-b2c2c80-g006818-k101010-r888888-rac80000-wfcfcfc-yfccc00/)|
+|![Muzzi, Massimiliano Baron of Striche example sett](/setts/s16/y4r2ra38k4ra16k6g18k6g12k4b12k2b10k4ra54w2-b2c2c80-g006818-k101010-r888888-rac80000-wfcfcfc-yfccc00/sett.png)|

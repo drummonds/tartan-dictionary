@@ -16,5 +16,5 @@ GWGWGWGWGYGWGWGWGW
 
 | Tartans |
 |---------------|
-| [St. Patrick](/setts/s18/g8w26g6w8g6w6g80w6g4y8g4w6g80w6g6w8g6w26-g285800-wf8f8f8-ye8c000/)|
-|![St. Patrick example sett](/setts/s18/g8w26g6w8g6w6g80w6g4y8g4w6g80w6g6w8g6w26-g285800-wf8f8f8-ye8c000/sett.png)|
+| [St. Patrick](/setts/s18/w26g6w8g6w6g80w6g4y8g4w6g80w6g6w8g6w26g8-g285800-wf8f8f8-ye8c000/)|
+|![St. Patrick example sett](/setts/s18/w26g6w8g6w6g80w6g4y8g4w6g80w6g6w8g6w26g8-g285800-wf8f8f8-ye8c000/sett.png)|

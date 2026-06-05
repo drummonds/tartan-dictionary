@@ -6,7 +6,7 @@ GRKBRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4r30k16b50r14w4ra6-b5c5c5c-g003820-k101010-r888888-rac80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/r6w4ra14b50k16ra30g4-b5c5c5c-g003820-k101010-rc80000-ra888888-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRKBRWR
 
 | Tartans |
 |---------------|
-| [Allman-Jones (Personal)](/setts/s7/g4r30k16b50r14w4ra6-b5c5c5c-g003820-k101010-r888888-rac80000-wfcfcfc/)|
-|![Allman-Jones (Personal) example sett](/setts/s7/g4r30k16b50r14w4ra6-b5c5c5c-g003820-k101010-r888888-rac80000-wfcfcfc/sett.png)|
+| [Allman-Jones (Personal)](/setts/s7/r6w4ra14b50k16ra30g4-b5c5c5c-g003820-k101010-rc80000-ra888888-wfcfcfc/)|
+|![Allman-Jones (Personal) example sett](/setts/s7/r6w4ra14b50k16ra30g4-b5c5c5c-g003820-k101010-rc80000-ra888888-wfcfcfc/sett.png)|

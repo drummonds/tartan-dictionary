@@ -16,5 +16,5 @@ GBGWGBGRGRGBGW
 
 | Tartans |
 |---------------|
-| [Glenlivet Dress Reproduction](/setts/s14/g10b4g10w32g10b4g84r4g12r4g84b4g10w32-b2c2c80-g604000-rb03000-we0e0e0/)|
-|![Glenlivet Dress Reproduction example sett](/setts/s14/g10b4g10w32g10b4g84r4g12r4g84b4g10w32-b2c2c80-g604000-rb03000-we0e0e0/sett.png)|
+| [Glenlivet Dress Reproduction](/setts/s14/w32g10b4g84r4g12r4g84b4g10w32g10b4g10-b2c2c80-g604000-rb03000-we0e0e0/)|
+|![Glenlivet Dress Reproduction example sett](/setts/s14/w32g10b4g84r4g12r4g84b4g10w32g10b4g10-b2c2c80-g604000-rb03000-we0e0e0/sett.png)|

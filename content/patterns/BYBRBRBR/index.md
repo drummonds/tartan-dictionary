@@ -6,7 +6,7 @@ BYBRBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8y44b40r6b6r6b6r48-b5c5c5c-r888888-ya0a0a0/tartan.png)
+![Woven sample](/setts/s8/r48b6r6b6r6b40y44b8-b5c5c5c-r888888-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBRBRBR
 
 | Tartans |
 |---------------|
-| [Turnberry (MacArthur)](/setts/s8/b8y44b40r6b6r6b6r48-b5c5c5c-r888888-ya0a0a0/)|
-|![Turnberry (MacArthur) example sett](/setts/s8/b8y44b40r6b6r6b6r48-b5c5c5c-r888888-ya0a0a0/sett.png)|
+| [Turnberry (MacArthur)](/setts/s8/r48b6r6b6r6b40y44b8-b5c5c5c-r888888-ya0a0a0/)|
+|![Turnberry (MacArthur) example sett](/setts/s8/r48b6r6b6r6b40y44b8-b5c5c5c-r888888-ya0a0a0/sett.png)|

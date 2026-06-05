@@ -16,5 +16,5 @@ BWRBWGGGRK
 
 | Tartans |
 |---------------|
-| [Gettelman (2016)](/setts/s10/b6w2r2b2w2g8ga6g50ra8k120-b2c4084-g00643c-ga008b00-k101010-rff0000-ra888888-wffffff/)|
-|![Gettelman (2016) example sett](/setts/s10/b6w2r2b2w2g8ga6g50ra8k120-b2c4084-g00643c-ga008b00-k101010-rff0000-ra888888-wffffff/sett.png)|
+| [Gettelman (2016)](/setts/s10/k120r8g50ga6g8w2b2ra2w2b6-b2c4084-g00643c-ga008b00-k101010-r888888-raff0000-wffffff/)|
+|![Gettelman (2016) example sett](/setts/s10/k120r8g50ga6g8w2b2ra2w2b6-b2c4084-g00643c-ga008b00-k101010-r888888-raff0000-wffffff/sett.png)|

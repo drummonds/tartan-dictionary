@@ -6,7 +6,7 @@ BBBBWBWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8w4b16w24b96ba16b4ba16-b2c2c80-ba5c8ca8-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b16ba4b16ba96w24ba16w4ba8-b5c8ca8-ba2c2c80-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBWBWB
 
 | Tartans |
 |---------------|
-| [Antigonish](/setts/s8/b8w4b16w24b96ba16b4ba16-b2c2c80-ba5c8ca8-wfcfcfc/)|
-|![Antigonish example sett](/setts/s8/b8w4b16w24b96ba16b4ba16-b2c2c80-ba5c8ca8-wfcfcfc/sett.png)|
+| [Antigonish](/setts/s8/b16ba4b16ba96w24ba16w4ba8-b5c8ca8-ba2c2c80-wfcfcfc/)|
+|![Antigonish example sett](/setts/s8/b16ba4b16ba96w24ba16w4ba8-b5c8ca8-ba2c2c80-wfcfcfc/sett.png)|

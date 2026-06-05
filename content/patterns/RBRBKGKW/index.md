@@ -6,7 +6,7 @@ RBRBKGKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r2b6r2b26k34g36k2w8-b2c4084-g005020-k101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/w8k2g36k34b26r2b6r2-b2c4084-g005020-k101010-rdc0000-we0e0e0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBRBKGKW
 
 | Tartans |
 |---------------|
-| [Whitson #2](/setts/s8/r2b6r2b26k34g36k2w8-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
-|![Whitson #2 example sett](/setts/s8/r2b6r2b26k34g36k2w8-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
-| [Whitson](/setts/s8/r2b6r2b26k34g36k2w8-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![Whitson example sett](/setts/s8/r2b6r2b26k34g36k2w8-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Whitson #2](/setts/s8/w8k2g36k34b26r2b6r2-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
+|![Whitson #2 example sett](/setts/s8/w8k2g36k34b26r2b6r2-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
+| [Whitson](/setts/s8/w8k2g36k34b26r2b6r2-b304080-g008000-k000000-rc00000-we0e0e0/)|
+|![Whitson example sett](/setts/s8/w8k2g36k34b26r2b6r2-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ GBKGWGK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4b24k24ga24w4ga24k24-b800080-g30a010-ga008000-k000000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/k24g24w4g24k24b24ga4-b800080-g008000-ga30a010-k000000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBKGWGK
 
 | Tartans |
 |---------------|
-| [Wilson's, No 233](/setts/s7/g4b24k24ga24w4ga24k24-b800080-g30a010-ga008000-k000000-we0e0e0/)|
-|![Wilson's, No 233 example sett](/setts/s7/g4b24k24ga24w4ga24k24-b800080-g30a010-ga008000-k000000-we0e0e0/sett.png)|
+| [Wilson's, No 233](/setts/s7/k24g24w4g24k24b24ga4-b800080-g008000-ga30a010-k000000-we0e0e0/)|
+|![Wilson's, No 233 example sett](/setts/s7/k24g24w4g24k24b24ga4-b800080-g008000-ga30a010-k000000-we0e0e0/sett.png)|

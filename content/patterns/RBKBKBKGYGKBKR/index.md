@@ -16,8 +16,8 @@ RBKBKBKGYGKBKR
 
 | Tartans |
 |---------------|
-| [Farquharson](/setts/s14/r4b16k4b4k4b4k32g32y8g32k32b32k4r8-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Farquharson example sett](/setts/s14/r4b16k4b4k4b4k32g32y8g32k32b32k4r8-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Farquharson](/setts/s14/r8k4b32k32g32y8g32k32b4k4b4k4b16r4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
+|![Farquharson example sett](/setts/s14/r8k4b32k32g32y8g32k32b4k4b4k4b16r4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
 | [Farquharson (Clan)](/setts/s14/r8b30k4b4k4b4k56g55y8g55k56b46k4r8-b1474b4-g006818-k101010-rc80000-ye8c000/)|
 |![Farquharson (Clan) example sett](/setts/s14/r8b30k4b4k4b4k56g55y8g55k56b46k4r8-b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
 | [Farquharson](/setts/s14/r2b4k1b1k1b1k8g8y2g8k8b8k1r2-b000064-g004c00-k000000-rc80000-yffc800/)|

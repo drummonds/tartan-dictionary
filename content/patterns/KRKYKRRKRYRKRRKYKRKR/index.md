@@ -16,5 +16,5 @@ KRKYKRRKRYRKRRKYKRKR
 
 | Tartans |
 |---------------|
-| [Islay](/setts/s20/k20r4k4y4k6ra16rb12k4rb16y4rb16k4rb12ra16k6y4k4r4k20rb80-k101010-r888888-ra880000-rba07c58-yb8b8b8/)|
-|![Islay example sett](/setts/s20/k20r4k4y4k6ra16rb12k4rb16y4rb16k4rb12ra16k6y4k4r4k20rb80-k101010-r888888-ra880000-rba07c58-yb8b8b8/sett.png)|
+| [Islay](/setts/s20/r80k20ra4k4y4k6rb16r12k4r16y4r16k4r12rb16k6y4k4ra4k20-k101010-ra07c58-ra888888-rb880000-yb8b8b8/)|
+|![Islay example sett](/setts/s20/r80k20ra4k4y4k6rb16r12k4r16y4r16k4r12rb16k6y4k4ra4k20-k101010-ra07c58-ra888888-rb880000-yb8b8b8/sett.png)|

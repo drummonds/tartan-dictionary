@@ -16,5 +16,5 @@ GWGBWGWGRWGWBWGW
 
 | Tartans |
 |---------------|
-| [Stuart-Houghton Dress (Personal)](/setts/s16/g12w32g20b28w4ga8w6ga8r52w22ga8w8b4w8ga8w22-b141e46-g003c14-ga808080-rb03000-wf8f4d0/)|
-|![Stuart-Houghton Dress (Personal) example sett](/setts/s16/g12w32g20b28w4ga8w6ga8r52w22ga8w8b4w8ga8w22-b141e46-g003c14-ga808080-rb03000-wf8f4d0/sett.png)|
+| [Stuart-Houghton Dress (Personal)](/setts/s16/w22g8w8b4w8g8w22r52g8w6g8w4b28ga20w32ga12-b141e46-g808080-ga003c14-rb03000-wf8f4d0/)|
+|![Stuart-Houghton Dress (Personal) example sett](/setts/s16/w22g8w8b4w8g8w22r52g8w6g8w4b28ga20w32ga12-b141e46-g808080-ga003c14-rb03000-wf8f4d0/sett.png)|

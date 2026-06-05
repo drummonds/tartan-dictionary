@@ -6,7 +6,7 @@ GRWRGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g12r12w20ra20g20k20ra80-g285800-k101010-r888888-rac80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/r80k20g20r20w20ra12g12-g285800-k101010-rc80000-ra888888-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWRGKR
 
 | Tartans |
 |---------------|
-| [Mangles, Peter and Annette (Personal](/setts/s7/g12r12w20ra20g20k20ra80-g285800-k101010-r888888-rac80000-wfcfcfc/)|
-|![Mangles, Peter and Annette (Personal example sett](/setts/s7/g12r12w20ra20g20k20ra80-g285800-k101010-r888888-rac80000-wfcfcfc/sett.png)|
+| [Mangles, Peter and Annette (Personal](/setts/s7/r80k20g20r20w20ra12g12-g285800-k101010-rc80000-ra888888-wfcfcfc/)|
+|![Mangles, Peter and Annette (Personal example sett](/setts/s7/r80k20g20r20w20ra12g12-g285800-k101010-rc80000-ra888888-wfcfcfc/sett.png)|

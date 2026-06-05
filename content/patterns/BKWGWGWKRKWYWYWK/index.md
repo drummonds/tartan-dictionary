@@ -16,5 +16,5 @@ BKWGWGWKRKWYWYWK
 
 | Tartans |
 |---------------|
-| [Kinnieson (Personal)](/setts/s16/b8k65w38g4w38g4w38k64r8k64w38y4w38y4w38k64-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
-|![Kinnieson (Personal) example sett](/setts/s16/b8k65w38g4w38g4w38k64r8k64w38y4w38y4w38k64-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Kinnieson (Personal)](/setts/s16/k64w38y4w38y4w38k64r8k64w38g4w38g4w38k65b8-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
+|![Kinnieson (Personal) example sett](/setts/s16/k64w38y4w38y4w38k64r8k64w38g4w38g4w38k65b8-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|

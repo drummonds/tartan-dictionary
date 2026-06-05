@@ -6,7 +6,7 @@ RBBBKBBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4b2ba10b16k6ba60b4y8-b440044-ba202060-k101010-rc80000-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/y8b4ba60k6b16ba10b2r4-b440044-ba202060-k101010-rc80000-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBBKBBY
 
 | Tartans |
 |---------------|
-| [Royal British Legion Scotland (Corp)](/setts/s8/r4b2ba10b16k6ba60b4y8-b440044-ba202060-k101010-rc80000-ybc8c00/)|
-|![Royal British Legion Scotland (Corp) example sett](/setts/s8/r4b2ba10b16k6ba60b4y8-b440044-ba202060-k101010-rc80000-ybc8c00/sett.png)|
+| [Royal British Legion Scotland (Corp)](/setts/s8/y8b4ba60k6b16ba10b2r4-b440044-ba202060-k101010-rc80000-ybc8c00/)|
+|![Royal British Legion Scotland (Corp) example sett](/setts/s8/y8b4ba60k6b16ba10b2r4-b440044-ba202060-k101010-rc80000-ybc8c00/sett.png)|

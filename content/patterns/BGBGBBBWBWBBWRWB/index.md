@@ -16,5 +16,5 @@ BGBGBBBWBWBBWRWB
 
 | Tartans |
 |---------------|
-| [Forbes - 1970 (WCWM #2)](/setts/s16/b4g40b40g32ba24bb32ba80w4ba72w4bb32b64w4r32w4ba72-b1c0070-ba1c1c1c-bb440044-g408060-ra07c58-we0e0e0/)|
-|![Forbes - 1970 (WCWM #2) example sett](/setts/s16/b4g40b40g32ba24bb32ba80w4ba72w4bb32b64w4r32w4ba72-b1c0070-ba1c1c1c-bb440044-g408060-ra07c58-we0e0e0/sett.png)|
+| [Forbes - 1970 (WCWM #2)](/setts/s16/b72w4r32w4ba64bb32w4b72w4b80bb32b24g32ba40g40ba4-b1c1c1c-ba1c0070-bb440044-g408060-ra07c58-we0e0e0/)|
+|![Forbes - 1970 (WCWM #2) example sett](/setts/s16/b72w4r32w4ba64bb32w4b72w4b80bb32b24g32ba40g40ba4-b1c1c1c-ba1c0070-bb440044-g408060-ra07c58-we0e0e0/sett.png)|

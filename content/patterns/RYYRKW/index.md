@@ -6,7 +6,7 @@ RYYRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r2y8ya12r14k14w108-k101010-rc80000-we0e0e0-ye8c000-yad87c00/tartan.png)
+![Woven sample](/setts/s6/w108k14r14y12ya8r2-k101010-rc80000-we0e0e0-yd87c00-yae8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYYRKW
 
 | Tartans |
 |---------------|
-| [Young, Christina](/setts/s6/r2y8ya12r14k14w108-k101010-rc80000-we0e0e0-ye8c000-yad87c00/)|
-|![Young, Christina example sett](/setts/s6/r2y8ya12r14k14w108-k101010-rc80000-we0e0e0-ye8c000-yad87c00/sett.png)|
+| [Young, Christina](/setts/s6/w108k14r14y12ya8r2-k101010-rc80000-we0e0e0-yd87c00-yae8c000/)|
+|![Young, Christina example sett](/setts/s6/w108k14r14y12ya8r2-k101010-rc80000-we0e0e0-yd87c00-yae8c000/sett.png)|

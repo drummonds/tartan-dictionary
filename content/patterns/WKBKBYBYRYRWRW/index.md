@@ -16,5 +16,5 @@ WKBKBYBYRYRWRW
 
 | Tartans |
 |---------------|
-| [Snowy Owl (Fashion)](/setts/s14/w16k4b18k2b6y16b2y6r14y2r6w12r2w80-b5c5c5c-k101010-r888888-we0e0e0-ya08858/)|
-|![Snowy Owl (Fashion) example sett](/setts/s14/w16k4b18k2b6y16b2y6r14y2r6w12r2w80-b5c5c5c-k101010-r888888-we0e0e0-ya08858/sett.png)|
+| [Snowy Owl (Fashion)](/setts/s14/w80r2w12r6y2r14y6b2y16b6k2b18k4w16-b5c5c5c-k101010-r888888-we0e0e0-ya08858/)|
+|![Snowy Owl (Fashion) example sett](/setts/s14/w80r2w12r6y2r14y6b2y16b6k2b18k4w16-b5c5c5c-k101010-r888888-we0e0e0-ya08858/sett.png)|

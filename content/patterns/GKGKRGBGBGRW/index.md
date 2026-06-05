@@ -16,7 +16,7 @@ GKGKRGBGBGRW
 
 | Tartans |
 |---------------|
-| [Tweedbank](/setts/s12/g4k2g4k50r50g2b8g2b8g2ra16w8-b2c4084-g006428-k101010-rc80028-ra960000-wfafa96/)|
-|![Tweedbank example sett](/setts/s12/g4k2g4k50r50g2b8g2b8g2ra16w8-b2c4084-g006428-k101010-rc80028-ra960000-wfafa96/sett.png)|
-| [Tweedbank (Corporate)](/setts/s12/g4k2g4k50r50g2b8g2b8g2ra16w8-b2c2c80-g006818-k101010-rc80000-ra880000-wf0e0c4/)|
-|![Tweedbank (Corporate) example sett](/setts/s12/g4k2g4k50r50g2b8g2b8g2ra16w8-b2c2c80-g006818-k101010-rc80000-ra880000-wf0e0c4/sett.png)|
+| [Tweedbank](/setts/s12/w8r16g2b8g2b8g2ra50k50g4k2g4-b2c4084-g006428-k101010-r960000-rac80028-wfafa96/)|
+|![Tweedbank example sett](/setts/s12/w8r16g2b8g2b8g2ra50k50g4k2g4-b2c4084-g006428-k101010-r960000-rac80028-wfafa96/sett.png)|
+| [Tweedbank (Corporate)](/setts/s12/w8r16g2b8g2b8g2ra50k50g4k2g4-b2c2c80-g006818-k101010-r880000-rac80000-wf0e0c4/)|
+|![Tweedbank (Corporate) example sett](/setts/s12/w8r16g2b8g2b8g2ra50k50g4k2g4-b2c2c80-g006818-k101010-r880000-rac80000-wf0e0c4/sett.png)|

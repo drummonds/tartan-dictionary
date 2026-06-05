@@ -6,7 +6,7 @@ BRBRBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b28r4b8r24b20r8b20r128-b5c5c5c-rc80000/tartan.png)
+![Woven sample](/setts/s8/r128b20r8b20r24b8r4b28-b5c5c5c-rc80000/tartan.png)
 
 
 
@@ -18,16 +18,16 @@ BRBRBRBR
 
 | Tartans |
 |---------------|
-| [Lomond](/setts/s8/b28r4b8r24b20r8b20r128-b5c5c5c-rc80000/)|
-|![Lomond example sett](/setts/s8/b28r4b8r24b20r8b20r128-b5c5c5c-rc80000/sett.png)|
+| [Lomond](/setts/s8/r128b20r8b20r24b8r4b28-b5c5c5c-rc80000/)|
+|![Lomond example sett](/setts/s8/r128b20r8b20r24b8r4b28-b5c5c5c-rc80000/sett.png)|
 | [Unidentified Plaid #12](/setts/s8/b3r64b3r3b62r3b3r3-b2c4084-rdc0000/)|
 |![Unidentified Plaid #12 example sett](/setts/s8/b3r64b3r3b62r3b3r3-b2c4084-rdc0000/sett.png)|
-| [Kyle (Blue)](/setts/s8/b36r4b6r20b12r10b12r108-b440044-rc80000/)|
-|![Kyle (Blue) example sett](/setts/s8/b36r4b6r20b12r10b12r108-b440044-rc80000/sett.png)|
+| [Kyle (Blue)](/setts/s8/r108b12r10b12r20b6r4b36-b440044-rc80000/)|
+|![Kyle (Blue) example sett](/setts/s8/r108b12r10b12r20b6r4b36-b440044-rc80000/sett.png)|
 | [Mack of Stoneywood Dress (Personal)](/setts/s8/b160r2b4r2b12r20b2r14-b000080-re3170d/)|
 |![Mack of Stoneywood Dress (Personal) example sett](/setts/s8/b160r2b4r2b12r20b2r14-b000080-re3170d/sett.png)|
-| [Kyle Blue (Clan)](/setts/s8/b36r4b6r20b12r10b12r108-b580058-rc80000/)|
-|![Kyle Blue (Clan) example sett](/setts/s8/b36r4b6r20b12r10b12r108-b580058-rc80000/sett.png)|
+| [Kyle Blue (Clan)](/setts/s8/r108b12r10b12r20b6r4b36-b580058-rc80000/)|
+|![Kyle Blue (Clan) example sett](/setts/s8/r108b12r10b12r20b6r4b36-b580058-rc80000/sett.png)|
 | [Hebridean Cairn (Fashion)](/setts/s8/b8r12b12r12b40r8b72r4-b5c5c5c-r888888/)|
 |![Hebridean Cairn (Fashion) example sett](/setts/s8/b8r12b12r12b40r8b72r4-b5c5c5c-r888888/sett.png)|
 | [Hebridean Mist (Fashion)](/setts/s8/b8r12b12r12b40r8b72r4-b5c5c5c-r888888/)|

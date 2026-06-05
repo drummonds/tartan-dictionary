@@ -16,5 +16,5 @@ KWGYKYWGR
 
 | Tartans |
 |---------------|
-| [Fiander, Julian (Personal)](/setts/s9/k6w2g64y4k16y4w42g4r12-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Fiander, Julian (Personal) example sett](/setts/s9/k6w2g64y4k16y4w42g4r12-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Fiander, Julian (Personal)](/setts/s9/r12g4w42y4k16y4g64w2k6-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![Fiander, Julian (Personal) example sett](/setts/s9/r12g4w42y4k16y4g64w2k6-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

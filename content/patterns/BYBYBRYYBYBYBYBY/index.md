@@ -16,5 +16,5 @@ BYBYBRYYBYBYBYBY
 
 | Tartans |
 |---------------|
-| [Dundonald (Name)](/setts/s16/b4y16b6y32b2r32y20y16b6y6b4y8b4y6b6y50-b2c2c80-rc80000-ye8c000/)|
-|![Dundonald (Name) example sett](/setts/s16/b4y16b6y32b2r32y20y16b6y6b4y8b4y6b6y50-b2c2c80-rc80000-ye8c000/sett.png)|
+| [Dundonald (Name)](/setts/s16/y50b6y6b4y8b4y6b6y16y20r32b2y32b6y16b4-b2c2c80-rc80000-ye8c000/)|
+|![Dundonald (Name) example sett](/setts/s16/y50b6y6b4y8b4y6b6y16y20r32b2y32b6y16b4-b2c2c80-rc80000-ye8c000/sett.png)|

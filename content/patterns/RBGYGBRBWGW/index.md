@@ -16,7 +16,7 @@ RBGYGBRBWGW
 
 | Tartans |
 |---------------|
-| [Kremlin Zoria](/setts/s11/r8b20g44y8g44b20r8b20w20g8w20-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/)|
-|![Kremlin Zoria example sett](/setts/s11/r8b20g44y8g44b20r8b20w20g8w20-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/sett.png)|
-| [Kremlin Zoria (Corporate)](/setts/s11/r8b20g44y8g44b20r8b20w20g8w20-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/)|
-|![Kremlin Zoria (Corporate) example sett](/setts/s11/r8b20g44y8g44b20r8b20w20g8w20-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/sett.png)|
+| [Kremlin Zoria](/setts/s11/w20g8w20b20r8b20g44y8g44b20r8-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/)|
+|![Kremlin Zoria example sett](/setts/s11/w20g8w20b20r8b20g44y8g44b20r8-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/sett.png)|
+| [Kremlin Zoria (Corporate)](/setts/s11/w20g8w20b20r8b20g44y8g44b20r8-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/)|
+|![Kremlin Zoria (Corporate) example sett](/setts/s11/w20g8w20b20r8b20g44y8g44b20r8-b2c2c80-g347c3c-rc80000-we0e0e0-yb8ac30/sett.png)|

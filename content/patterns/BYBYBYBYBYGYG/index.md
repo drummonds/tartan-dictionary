@@ -16,7 +16,7 @@ BYBYBYBYBYGYG
 
 | Tartans |
 |---------------|
-| [MacDonald Lord of the Isles Hunting](/setts/s13/b24y2b4y4b4y2b24y2b4y4g4y2g48-b000052-g11450d-yaaaaaa/)|
-|![MacDonald Lord of the Isles Hunting example sett](/setts/s13/b24y2b4y4b4y2b24y2b4y4g4y2g48-b000052-g11450d-yaaaaaa/sett.png)|
-| [MacDonald Lord of the Isles Hunting](/setts/s13/b24y2b4y4b4y2b24y2b4y4g4y2g48-b000052-g11450d-yaaaaaa/)|
-|![MacDonald Lord of the Isles Hunting example sett](/setts/s13/b24y2b4y4b4y2b24y2b4y4g4y2g48-b000052-g11450d-yaaaaaa/sett.png)|
+| [MacDonald Lord of the Isles Hunting](/setts/s13/g48y2g4y4b4y2b24y2b4y4b4y2b24-b000052-g11450d-yaaaaaa/)|
+|![MacDonald Lord of the Isles Hunting example sett](/setts/s13/g48y2g4y4b4y2b24y2b4y4b4y2b24-b000052-g11450d-yaaaaaa/sett.png)|
+| [MacDonald Lord of the Isles Hunting](/setts/s13/g48y2g4y4b4y2b24y2b4y4b4y2b24-b000052-g11450d-yaaaaaa/)|
+|![MacDonald Lord of the Isles Hunting example sett](/setts/s13/g48y2g4y4b4y2b24y2b4y4b4y2b24-b000052-g11450d-yaaaaaa/sett.png)|

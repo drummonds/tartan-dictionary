@@ -6,44 +6,6 @@ weight: 6
 Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes6/p4/">‹ prev</a> <a href="/stripes/stripes6/">1</a> <a href="/stripes/stripes6/p2/">2</a> <a href="/stripes/stripes6/p3/">3</a> <a href="/stripes/stripes6/p4/">4</a> <strong>5</strong> </nav>
 
-### RGBWKW
-<a class="pat" href="/patterns/rgbwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBWKW</span></a>
-
-| Tartan |
-|---|
-| [Thompson's Fancy (Fashion)](/patterns/rgbwkw/) |
-
-### RGBYGW
-<a class="pat" href="/patterns/rgbygw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBYGW</span></a>
-
-| Tartan |
-|---|
-| [Glencross, Tynron (Name)](/patterns/rgbygw/) |
-
-### RGGBWY
-<a class="pat" href="/patterns/rggbwy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGGBWY</span></a>
-
-| Tartan |
-|---|
-| [Glencross (Solway) (Personal)](/patterns/rggbwy/) |
-
-### RGGGGW
-<a class="pat" href="/patterns/rggggw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGGGGW</span></a>
-
-| Tartan |
-|---|
-| [Galloway Hunting](/patterns/rggggw/) |
-| [Galloway, hunting](/patterns/rggggw/) |
-
-### RGGGGY
-<a class="pat" href="/patterns/rggggy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGGGGY</span></a>
-
-| Tartan |
-|---|
-| [Galloway](/patterns/rggggy/) |
-| [Galloway Green (yellow line)](/patterns/rggggy/) |
-| [Galloway, Green (yellow line) (Dist)](/patterns/rggggy/) |
-
 ### RGKBKR
 <a class="pat" href="/patterns/rgkbkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGKBKR</span></a>
 
@@ -839,7 +801,7 @@ Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 | [MacNeil 8](/patterns/wbkgky/) |
 | [MacNeil Clan Tartan Tartan Number: 1767. Earliest known date: 1886 This version shows the narrow 'tramlines' about the yellow stripe, the usual modern form that differs from Logans earlier version. The MacNeils claim descent from Niall, King of Ireland, who came to Barra in 1049. The present chief, Professor Ian Roderick MacNeil of Barra, lives in Chicago, U.S.A. There is also a tartan for the MacNeils of Colonsay. MacNeils are hereditary pipers to the MacLeans of Duart. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wbkgky/) |
 | [MacNeil of Barra](/patterns/wbkgky/) |
-| [MacNeil of Barra](/patterns/wbkgky/) |
+| [MacNeil of Barra (Clan)](/patterns/wbkgky/) |
 
 ### WBKRKY
 <a class="pat" href="/patterns/wbkrky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBKRKY</span></a>
@@ -959,7 +921,6 @@ Tartan setts with 6 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Morris of Balgonie Htg (Personal)](/patterns/wgbkby/) |
-| [Morris of Balgonie Hunting (Personal)](/patterns/wgbkby/) |
 
 ### WGBRBY
 <a class="pat" href="/patterns/wgbrby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGBRBY</span></a>

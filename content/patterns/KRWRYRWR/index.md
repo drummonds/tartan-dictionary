@@ -6,7 +6,7 @@ KRWRYRWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k7r74w13r13y7r13w27r74-k101010-r901c38-we0e0e0-ya0a0a0/tartan.png)
+![Woven sample](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRWRYRWR
 
 | Tartans |
 |---------------|
-| [Cornell #2](/setts/s8/k7r74w13r13y7r13w27r74-k101010-r901c38-we0e0e0-ya0a0a0/)|
-|![Cornell #2 example sett](/setts/s8/k7r74w13r13y7r13w27r74-k101010-r901c38-we0e0e0-ya0a0a0/sett.png)|
-| [Cornell (Corporate)](/setts/s8/k7r74w13r13y7r13w27r74-k101010-r901c38-we0e0e0-ya0a0a0/)|
-|![Cornell (Corporate) example sett](/setts/s8/k7r74w13r13y7r13w27r74-k101010-r901c38-we0e0e0-ya0a0a0/sett.png)|
+| [Cornell #2](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/)|
+|![Cornell #2 example sett](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/sett.png)|
+| [Cornell (Corporate)](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/)|
+|![Cornell (Corporate) example sett](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/sett.png)|

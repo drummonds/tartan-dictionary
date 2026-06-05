@@ -16,5 +16,5 @@ WKWBWBWBWKWY
 
 | Tartans |
 |---------------|
-| [Moskyok-Collins (Personal)](/setts/s12/w8k8wa2b12wa2ba80wa2b12wa2k8w4y12-b14283c-ba1870a4-k1c1714-wffffff-wae8ccb8-ydc943c/)|
-|![Moskyok-Collins (Personal) example sett](/setts/s12/w8k8wa2b12wa2ba80wa2b12wa2k8w4y12-b14283c-ba1870a4-k1c1714-wffffff-wae8ccb8-ydc943c/sett.png)|
+| [Moskyok-Collins (Personal)](/setts/s12/y12w4k8wa2b12wa2ba80wa2b12wa2k8w8-b14283c-ba1870a4-k1c1714-wffffff-wae8ccb8-ydc943c/)|
+|![Moskyok-Collins (Personal) example sett](/setts/s12/y12w4k8wa2b12wa2ba80wa2b12wa2k8w8-b14283c-ba1870a4-k1c1714-wffffff-wae8ccb8-ydc943c/sett.png)|

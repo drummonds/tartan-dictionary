@@ -16,5 +16,5 @@ RKYKRYKRKRWY
 
 | Tartans |
 |---------------|
-| [Cates Dress (Clan)](/setts/s12/r2k2y2k10ra40y14k40r18k40r4w2y4-k101010-rc80000-ra888888-wf8f8f8-ye8c000/)|
-|![Cates Dress (Clan) example sett](/setts/s12/r2k2y2k10ra40y14k40r18k40r4w2y4-k101010-rc80000-ra888888-wf8f8f8-ye8c000/sett.png)|
+| [Cates Dress (Clan)](/setts/s12/y4w2r4k40r18k40y14ra40k10y2k2r2-k101010-rc80000-ra888888-wf8f8f8-ye8c000/)|
+|![Cates Dress (Clan) example sett](/setts/s12/y4w2r4k40r18k40y14ra40k10y2k2r2-k101010-rc80000-ra888888-wf8f8f8-ye8c000/sett.png)|

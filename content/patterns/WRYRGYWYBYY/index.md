@@ -16,5 +16,5 @@ WRYRGYWYBYY
 
 | Tartans |
 |---------------|
-| [Muirhead (Original)](/setts/s11/w4r9y4r24g19y3w4y16b8y48ya6-b2c2c80-g006818-rc80000-we0e0e0-ya08858-yae8c000/)|
-|![Muirhead (Original) example sett](/setts/s11/w4r9y4r24g19y3w4y16b8y48ya6-b2c2c80-g006818-rc80000-we0e0e0-ya08858-yae8c000/sett.png)|
+| [Muirhead (Original)](/setts/s11/y6ya48b8ya16w4ya3g19r24ya4r9w4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000-yaa08858/)|
+|![Muirhead (Original) example sett](/setts/s11/y6ya48b8ya16w4ya3g19r24ya4r9w4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000-yaa08858/sett.png)|

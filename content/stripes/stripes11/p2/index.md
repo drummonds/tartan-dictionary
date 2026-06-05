@@ -721,13 +721,6 @@ Tartan setts with 11 stripes, grouped by colour-sequence pattern.
 |---|
 | [Isle of Skye District Tartan Tartan Number: 2155. Earliest known date: 1993 The tartan was instigated and registered by Mrs Rosemary Nicolson Samios in 1992, an Australian of Skye descent, now living in Skye. It was selected through a worldwide competition won by Angus MacLeod from Lewis. Angus, a weaver by trade, produced the first commercial quantities in the traditional kilt weight in 1993 at Lochcarron Weavers in North Strome. The colours of the tartan depict those of the island, often called the 'Misty Isle'. Worn by the Torphican and Bathgate pipe band. (A patented design No. 0600930) See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gbgbgbggggy/) |
 
-### GBGBGBKRGKY
-<a class="pat" href="/patterns/gbgbgbkrgky/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GBGBGBKRGKY</span></a>
-
-| Tartan |
-|---|
-| [Crutherland](/patterns/gbgbgbkrgky/) |
-
 ### GBGBGKGKBGK
 <a class="pat" href="/patterns/gbgbgkgkbgk/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">GBGBGKGKBGK</span></a>
 
@@ -1129,13 +1122,6 @@ Tartan setts with 11 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [MacCulloch Dress](/patterns/gkgrbwggwkg/) |
-
-### GKGYGWGWGWG
-<a class="pat" href="/patterns/gkgygwgwgwg/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="seq">GKGYGWGWGWG</span></a>
-
-| Tartan |
-|---|
-| [Strathspey](/patterns/gkgygwgwgwg/) |
 
 ### GKGYWKWRYYY
 <a class="pat" href="/patterns/gkgywkwryyy/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GKGYWKWRYYY</span></a>
@@ -1739,5 +1725,13 @@ Tartan setts with 11 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Chapman-Smith, M & L (Personal)](/patterns/kbgwgbgygbk/) |
+
+### KBGYGYGYGBW
+<a class="pat" href="/patterns/kbgygygygbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBGYGYGYGBW</span></a>
+
+| Tartan |
+|---|
+| [William & Mary GALA (Corporate)](/patterns/kbgygygygbw/) |
+| [William and Mary GALA, Inc, The](/patterns/kbgygygygbw/) |
 
 <nav class="pager"><a href="/stripes/stripes11/">‹ prev</a> <a href="/stripes/stripes11/">1</a> <strong>2</strong> <a href="/stripes/stripes11/p3/">3</a> <a href="/stripes/stripes11/p4/">4</a> <a href="/stripes/stripes11/p3/">next ›</a></nav>

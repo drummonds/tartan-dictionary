@@ -16,5 +16,5 @@ BKYBKYKYWYK
 
 | Tartans |
 |---------------|
-| [Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b4k52y26b2k4y4k26y4w4y4k14-b3850c8-k101010-we0e0e0-yb0b0b0/)|
-|![Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b4k52y26b2k4y4k26y4w4y4k14-b3850c8-k101010-we0e0e0-yb0b0b0/sett.png)|
+| [Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k14y4w4y4k26y4k4b2y26k52b4-b3850c8-k101010-we0e0e0-yb0b0b0/)|
+|![Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/k14y4w4y4k26y4k4b2y26k52b4-b3850c8-k101010-we0e0e0-yb0b0b0/sett.png)|

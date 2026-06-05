@@ -20,5 +20,5 @@ KYWR
 |---------------|
 | [Klymson (Chicago) (Personal)](/setts/s4/k70y16w3r45-k000000-rff6600-w00ccff-yff9900/)|
 |![Klymson (Chicago) (Personal) example sett](/setts/s4/k70y16w3r45-k000000-rff6600-w00ccff-yff9900/sett.png)|
-| [Spirit of Riverside (Corporate)](/setts/s4/k6y48w26r40-k101010-r888888-we0e0e0-ye8c000/)|
-|![Spirit of Riverside (Corporate) example sett](/setts/s4/k6y48w26r40-k101010-r888888-we0e0e0-ye8c000/sett.png)|
+| [Spirit of Riverside (Corporate)](/setts/s4/r40w26y48k6-k101010-r888888-we0e0e0-ye8c000/)|
+|![Spirit of Riverside (Corporate) example sett](/setts/s4/r40w26y48k6-k101010-r888888-we0e0e0-ye8c000/sett.png)|

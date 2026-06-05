@@ -6,7 +6,7 @@ GBWKBBRK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g14b20w10k20b14ba60r8k74-b505050-ba000064-g808080-k101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k74r8b60ba14k20w10ba20g14-b000064-ba505050-g808080-k101010-rdc0000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBWKBBRK
 
 | Tartans |
 |---------------|
-| [Yates](/setts/s8/g14b20w10k20b14ba60r8k74-b505050-ba000064-g808080-k101010-rdc0000-we0e0e0/)|
-|![Yates example sett](/setts/s8/g14b20w10k20b14ba60r8k74-b505050-ba000064-g808080-k101010-rdc0000-we0e0e0/sett.png)|
+| [Yates](/setts/s8/k74r8b60ba14k20w10ba20g14-b000064-ba505050-g808080-k101010-rdc0000-we0e0e0/)|
+|![Yates example sett](/setts/s8/k74r8b60ba14k20w10ba20g14-b000064-ba505050-g808080-k101010-rdc0000-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ KWKRYGYKW
 
 | Tartans |
 |---------------|
-| [Letter Dress (2014)](/setts/s9/k8w4k28r8y4g18y2k46wa58-g003c14-k1c1714-rc82828-wfcfcfc-wac0c0c0-ye0a126/)|
-|![Letter Dress (2014) example sett](/setts/s9/k8w4k28r8y4g18y2k46wa58-g003c14-k1c1714-rc82828-wfcfcfc-wac0c0c0-ye0a126/sett.png)|
+| [Letter Dress (2014)](/setts/s9/w58k46y2g18y4r8k28wa4k8-g003c14-k1c1714-rc82828-wc0c0c0-wafcfcfc-ye0a126/)|
+|![Letter Dress (2014) example sett](/setts/s9/w58k46y2g18y4r8k28wa4k8-g003c14-k1c1714-rc82828-wc0c0c0-wafcfcfc-ye0a126/sett.png)|

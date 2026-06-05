@@ -16,5 +16,5 @@ RRYGYRGRYGW
 
 | Tartans |
 |---------------|
-| [Bouguet, Adrian Dress (Personal)](/setts/s11/r2ra4y4g28y8ra6ga6ra6y40ga10w32-g006818-ga003820-rc80000-ra888888-w98c8e8-yec8048/)|
-|![Bouguet, Adrian Dress (Personal) example sett](/setts/s11/r2ra4y4g28y8ra6ga6ra6y40ga10w32-g006818-ga003820-rc80000-ra888888-w98c8e8-yec8048/sett.png)|
+| [Bouguet, Adrian Dress (Personal)](/setts/s11/w32g10y40r6g6r6y8ga28y4r4ra2-g003820-ga006818-r888888-rac80000-w98c8e8-yec8048/)|
+|![Bouguet, Adrian Dress (Personal) example sett](/setts/s11/w32g10y40r6g6r6y8ga28y4r4ra2-g003820-ga006818-r888888-rac80000-w98c8e8-yec8048/sett.png)|

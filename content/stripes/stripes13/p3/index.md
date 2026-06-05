@@ -6,20 +6,6 @@ weight: 13
 Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes13/p2/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <a href="/stripes/stripes13/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes13/p4/">4</a> <a href="/stripes/stripes13/p4/">next ›</a></nav>
 
-### KYGRGYKBKYYYK
-<a class="pat" href="/patterns/kygrgykbkyyyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="seq">KYGRGYKBKYYYK</span></a>
-
-| Tartan |
-|---|
-| [Liberton](/patterns/kygrgykbkyyyk/) |
-
-### KYKYKGKWBKWKY
-<a class="pat" href="/patterns/kykykgkwbkwky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKYKGKWBKWKY</span></a>
-
-| Tartan |
-|---|
-| [Lotus Elan (Corporate)](/patterns/kykykgkwbkwky/) |
-
 ### KYRYKYKYBRBYR
 <a class="pat" href="/patterns/kyrykykybrbyr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYRYKYKYBRBYR</span></a>
 
@@ -1499,5 +1485,12 @@ Tartan setts with 13 stripes, grouped by colour-sequence pattern.
 |---|
 | [Aelfleda Arisaid (Personal)](/patterns/ybybwgwrwbyby/) |
 | [Aelfleda Arisaid (Personal)](/patterns/ybybwgwrwbyby/) |
+
+### YBYBYBYBYBYBY
+<a class="pat" href="/patterns/ybybybybybyby/"><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">YBYBYBYBYBYBY</span></a>
+
+| Tartan |
+|---|
+| [Caledonian Airways (Corporate)](/patterns/ybybybybybyby/) |
 
 <nav class="pager"><a href="/stripes/stripes13/p2/">‹ prev</a> <a href="/stripes/stripes13/">1</a> <a href="/stripes/stripes13/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes13/p4/">4</a> <a href="/stripes/stripes13/p4/">next ›</a></nav>

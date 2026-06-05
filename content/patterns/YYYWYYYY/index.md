@@ -6,7 +6,7 @@ YYYWYYYY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y2ya6yb52y4w6ya24y24ya6-wf8f8f8-ye8c000-yaf88410-yba89448/tartan.png)
+![Woven sample](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ YYYWYYYY
 
 | Tartans |
 |---------------|
-| [Desert in Bloom](/setts/s8/y2ya6yb52y4w6ya24y24ya6-wf8f8f8-ye8c000-yaf88410-yba89448/)|
-|![Desert in Bloom example sett](/setts/s8/y2ya6yb52y4w6ya24y24ya6-wf8f8f8-ye8c000-yaf88410-yba89448/sett.png)|
-| [Desert in Bloom (Fashion)](/setts/s8/y2ya6yb52y4w6ya24y24ya6-wf8f8f8-ye8c000-yaf88410-yba89448/)|
-|![Desert in Bloom (Fashion) example sett](/setts/s8/y2ya6yb52y4w6ya24y24ya6-wf8f8f8-ye8c000-yaf88410-yba89448/sett.png)|
+| [Desert in Bloom](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/)|
+|![Desert in Bloom example sett](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/sett.png)|
+| [Desert in Bloom (Fashion)](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/)|
+|![Desert in Bloom (Fashion) example sett](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/sett.png)|

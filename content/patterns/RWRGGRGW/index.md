@@ -6,7 +6,7 @@ RWRGGRGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r10w4r54g2ga18r36g2w150-g503c14-ga005020-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/w150g2r36ga18g2r54w4r10-g503c14-ga005020-rdc0000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWRGGRGW
 
 | Tartans |
 |---------------|
-| [Unidentified Ross-shire](/setts/s8/r10w4r54g2ga18r36g2w150-g503c14-ga005020-rdc0000-we0e0e0/)|
-|![Unidentified Ross-shire example sett](/setts/s8/r10w4r54g2ga18r36g2w150-g503c14-ga005020-rdc0000-we0e0e0/sett.png)|
+| [Unidentified Ross-shire](/setts/s8/w150g2r36ga18g2r54w4r10-g503c14-ga005020-rdc0000-we0e0e0/)|
+|![Unidentified Ross-shire example sett](/setts/s8/w150g2r36ga18g2r54w4r10-g503c14-ga005020-rdc0000-we0e0e0/sett.png)|

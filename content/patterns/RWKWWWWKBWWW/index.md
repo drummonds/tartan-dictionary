@@ -16,5 +16,5 @@ RWKWWWWKBWWW
 
 | Tartans |
 |---------------|
-| [Diana Princess of Wales Memorial, The](/setts/s12/r4w4k4w8wa16w4wa4k12b24wb48w4wb8-b304080-k000000-rc00000-we0e0e0-wa90d0f0-wbd0f0f0/)|
-|![Diana Princess of Wales Memorial, The example sett](/setts/s12/r4w4k4w8wa16w4wa4k12b24wb48w4wb8-b304080-k000000-rc00000-we0e0e0-wa90d0f0-wbd0f0f0/sett.png)|
+| [Diana Princess of Wales Memorial, The](/setts/s12/w8wa4w48b24k12wb4wa4wb16wa8k4wa4r4-b304080-k000000-rc00000-wd0f0f0-wae0e0e0-wb90d0f0/)|
+|![Diana Princess of Wales Memorial, The example sett](/setts/s12/w8wa4w48b24k12wb4wa4wb16wa8k4wa4r4-b304080-k000000-rc00000-wd0f0f0-wae0e0e0-wb90d0f0/sett.png)|

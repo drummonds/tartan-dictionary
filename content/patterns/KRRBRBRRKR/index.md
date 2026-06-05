@@ -16,5 +16,5 @@ KRRBRBRRKR
 
 | Tartans |
 |---------------|
-| [Grelloch](/setts/s10/k4r48ra48b4rb8b4ra48r48k4r8-b5c8ca8-k101010-rc80000-ra901c38-rba00048/)|
-|![Grelloch example sett](/setts/s10/k4r48ra48b4rb8b4ra48r48k4r8-b5c8ca8-k101010-rc80000-ra901c38-rba00048/sett.png)|
+| [Grelloch](/setts/s10/r8k4r48ra48b4rb8b4ra48r48k4-b5c8ca8-k101010-rc80000-ra901c38-rba00048/)|
+|![Grelloch example sett](/setts/s10/r8k4r48ra48b4rb8b4ra48r48k4-b5c8ca8-k101010-rc80000-ra901c38-rba00048/sett.png)|

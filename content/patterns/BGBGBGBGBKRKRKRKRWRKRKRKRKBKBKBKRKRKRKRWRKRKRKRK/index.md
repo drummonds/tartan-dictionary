@@ -16,5 +16,5 @@ BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK
 
 | Tartans |
 |---------------|
-| [Arran, Isle of (Lochcarron)](/setts/s48/b4g4b4g4b80g4b4g4b4k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14ba20k4ba8k4ba20k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14-b440044-ba5c5c5c-g006818-k101010-rc8002c-wf8f8f8/)|
-|![Arran, Isle of (Lochcarron) example sett](/setts/s48/b4g4b4g4b80g4b4g4b4k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14ba20k4ba8k4ba20k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14-b440044-ba5c5c5c-g006818-k101010-rc8002c-wf8f8f8/sett.png)|
+| [Arran, Isle of (Lochcarron)](/setts/s48/k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14b20k4b8k4b20k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14ba4g4ba4g4ba80g4ba4g4ba4-b5c5c5c-ba440044-g006818-k101010-rc8002c-wf8f8f8/)|
+|![Arran, Isle of (Lochcarron) example sett](/setts/s48/k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14b20k4b8k4b20k14r2k4r4k4r4k2r6w4r6k2r4k4r4k4r2k14ba4g4ba4g4ba80g4ba4g4ba4-b5c5c5c-ba440044-g006818-k101010-rc8002c-wf8f8f8/sett.png)|

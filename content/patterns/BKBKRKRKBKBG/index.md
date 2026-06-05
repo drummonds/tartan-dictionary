@@ -16,5 +16,5 @@ BKBKRKRKBKBG
 
 | Tartans |
 |---------------|
-| [Silver Thistle](/setts/s12/b6k12ba40k92r4k8r4k92ba40k12b6g8-b2c2c80-ba303070-g006818-k101010-r888888/)|
-|![Silver Thistle example sett](/setts/s12/b6k12ba40k92r4k8r4k92ba40k12b6g8-b2c2c80-ba303070-g006818-k101010-r888888/sett.png)|
+| [Silver Thistle](/setts/s12/g8b6k12ba40k92r4k8r4k92ba40k12b6-b2c2c80-ba303070-g006818-k101010-r888888/)|
+|![Silver Thistle example sett](/setts/s12/g8b6k12ba40k92r4k8r4k92ba40k12b6-b2c2c80-ba303070-g006818-k101010-r888888/sett.png)|

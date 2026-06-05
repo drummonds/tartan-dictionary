@@ -16,5 +16,5 @@ BKBKBKBKWKWKBKBKBKBK
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart Mourning](/setts/s20/b6k10b4k4b4k4b12k8w4k8w4k8b12k4b4k4b4k10b6k80-b5c5c5c-k101010-wfcfcfc/)|
-|![Stewart/Stuart Mourning example sett](/setts/s20/b6k10b4k4b4k4b12k8w4k8w4k8b12k4b4k4b4k10b6k80-b5c5c5c-k101010-wfcfcfc/sett.png)|
+| [Stewart/Stuart Mourning](/setts/s20/k80b6k10b4k4b4k4b12k8w4k8w4k8b12k4b4k4b4k10b6-b5c5c5c-k101010-wfcfcfc/)|
+|![Stewart/Stuart Mourning example sett](/setts/s20/k80b6k10b4k4b4k4b12k8w4k8w4k8b12k4b4k4b4k10b6-b5c5c5c-k101010-wfcfcfc/sett.png)|

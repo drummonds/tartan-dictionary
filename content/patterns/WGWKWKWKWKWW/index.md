@@ -16,5 +16,5 @@ WGWKWKWKWKWW
 
 | Tartans |
 |---------------|
-| [Liberty Square](/setts/s12/w4g50w4k40w4k30w4k20w4k10w4wa24-g8b7500-k101010-wc0c0c0-waffffff/)|
-|![Liberty Square example sett](/setts/s12/w4g50w4k40w4k30w4k20w4k10w4wa24-g8b7500-k101010-wc0c0c0-waffffff/sett.png)|
+| [Liberty Square](/setts/s12/w24wa4k10wa4k20wa4k30wa4k40wa4g50wa4-g8b7500-k101010-wffffff-wac0c0c0/)|
+|![Liberty Square example sett](/setts/s12/w24wa4k10wa4k20wa4k30wa4k40wa4g50wa4-g8b7500-k101010-wffffff-wac0c0c0/sett.png)|

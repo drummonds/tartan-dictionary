@@ -16,5 +16,5 @@ BBBBBBGGBBGBGBGBBG
 
 | Tartans |
 |---------------|
-| [Nova Scotia](/setts/s18/b8ba2b6ba2b6ba8g8ga16b50ba4g4ba4g4ba4ga28b4ba4g20-b2c4084-ba002814-g005020-ga503c14/)|
-|![Nova Scotia example sett](/setts/s18/b8ba2b6ba2b6ba8g8ga16b50ba4g4ba4g4ba4ga28b4ba4g20-b2c4084-ba002814-g005020-ga503c14/sett.png)|
+| [Nova Scotia](/setts/s18/g20b4ba4ga28b4g4b4g4b4ba50ga16g8b8ba6b2ba6b2ba8-b002814-ba2c4084-g005020-ga503c14/)|
+|![Nova Scotia example sett](/setts/s18/g20b4ba4ga28b4g4b4g4b4ba50ga16g8b8ba6b2ba6b2ba8-b002814-ba2c4084-g005020-ga503c14/sett.png)|

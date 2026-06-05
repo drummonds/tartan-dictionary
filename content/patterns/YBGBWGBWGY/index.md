@@ -16,5 +16,5 @@ YBGBWGBWGY
 
 | Tartans |
 |---------------|
-| [Kerry County Crest (Fashion)](/setts/s10/y10g12w10b14g22w4b10g50b10y28-b2c2c80-g006818-we0e0e0-ye8c000/)|
-|![Kerry County Crest (Fashion) example sett](/setts/s10/y10g12w10b14g22w4b10g50b10y28-b2c2c80-g006818-we0e0e0-ye8c000/sett.png)|
+| [Kerry County Crest (Fashion)](/setts/s10/y28b10g50b10w4g22b14w10g12y10-b2c2c80-g006818-we0e0e0-ye8c000/)|
+|![Kerry County Crest (Fashion) example sett](/setts/s10/y28b10g50b10w4g22b14w10g12y10-b2c2c80-g006818-we0e0e0-ye8c000/sett.png)|

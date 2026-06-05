@@ -16,5 +16,5 @@ BGBKBBBKBG
 
 | Tartans |
 |---------------|
-| [Notre Dame Marching Guard](/setts/s10/b10g18ba18k48ba70b10ba70k48ba18g18-b4c0000-ba1474b4-g289c18-k101010/)|
-|![Notre Dame Marching Guard example sett](/setts/s10/b10g18ba18k48ba70b10ba70k48ba18g18-b4c0000-ba1474b4-g289c18-k101010/sett.png)|
+| [Notre Dame Marching Guard](/setts/s10/g18b18k48b70ba10b70k48b18g18ba10-b1474b4-ba4c0000-g289c18-k101010/)|
+|![Notre Dame Marching Guard example sett](/setts/s10/g18b18k48b70ba10b70k48b18g18ba10-b1474b4-ba4c0000-g289c18-k101010/sett.png)|

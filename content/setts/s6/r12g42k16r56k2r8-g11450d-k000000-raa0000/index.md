@@ -7,7 +7,7 @@ In pattern [RGKRKR](/patterns/rgkrkr/).
 
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DR/12 DG42 K16 DR56 K2 DR/8

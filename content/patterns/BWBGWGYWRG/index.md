@@ -16,5 +16,5 @@ BWBGWGYWRG
 
 | Tartans |
 |---------------|
-| [Lévesque, Pascal (Personal)](/setts/s10/b4w4b4g28w8g8y4wa6r4g16-b0000cd-g005020-rff0000-wc8c8c8-wa98c8e8-yfccc00/)|
-|![Lévesque, Pascal (Personal) example sett](/setts/s10/b4w4b4g28w8g8y4wa6r4g16-b0000cd-g005020-rff0000-wc8c8c8-wa98c8e8-yfccc00/sett.png)|
+| [Lévesque, Pascal (Personal)](/setts/s10/g16r4w6y4g8wa8g28b4wa4b4-b0000cd-g005020-rff0000-w98c8e8-wac8c8c8-yfccc00/)|
+|![Lévesque, Pascal (Personal) example sett](/setts/s10/g16r4w6y4g8wa8g28b4wa4b4-b0000cd-g005020-rff0000-w98c8e8-wac8c8c8-yfccc00/sett.png)|

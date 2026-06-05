@@ -16,7 +16,7 @@ RWKWGWGWKBWWW
 
 | Tartans |
 |---------------|
-| [Diana Princess of Wales Mem. (Commem](/setts/s13/r4w4k4w8g16w4g4w4k12b24wa48w4wa8-b5880a4-g04a0a0-k101010-rc80000-we0e0e0-wabcd4d8/)|
-|![Diana Princess of Wales Mem. (Commem example sett](/setts/s13/r4w4k4w8g16w4g4w4k12b24wa48w4wa8-b5880a4-g04a0a0-k101010-rc80000-we0e0e0-wabcd4d8/sett.png)|
-| [Diana Pink (Commemorative)](/setts/s13/r4w4k4w8g16w4g4w4k12b24wa48w4wa8-b5880a4-g04a0a0-k101010-rc80000-we0e0e0-waf4c4c4/)|
-|![Diana Pink (Commemorative) example sett](/setts/s13/r4w4k4w8g16w4g4w4k12b24wa48w4wa8-b5880a4-g04a0a0-k101010-rc80000-we0e0e0-waf4c4c4/sett.png)|
+| [Diana Princess of Wales Mem. (Commem](/setts/s13/w8wa4w48b24k12wa4g4wa4g16wa8k4wa4r4-b5880a4-g04a0a0-k101010-rc80000-wbcd4d8-wae0e0e0/)|
+|![Diana Princess of Wales Mem. (Commem example sett](/setts/s13/w8wa4w48b24k12wa4g4wa4g16wa8k4wa4r4-b5880a4-g04a0a0-k101010-rc80000-wbcd4d8-wae0e0e0/sett.png)|
+| [Diana Pink (Commemorative)](/setts/s13/w8wa4w48b24k12wa4g4wa4g16wa8k4wa4r4-b5880a4-g04a0a0-k101010-rc80000-wf4c4c4-wae0e0e0/)|
+|![Diana Pink (Commemorative) example sett](/setts/s13/w8wa4w48b24k12wa4g4wa4g16wa8k4wa4r4-b5880a4-g04a0a0-k101010-rc80000-wf4c4c4-wae0e0e0/sett.png)|

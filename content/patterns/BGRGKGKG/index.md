@@ -6,7 +6,7 @@ BGRGKGKG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8g20r4g38k30g10k30g10-b8080d0-g003000-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s8/g10k30g10k30g38r4g20b8-b8080d0-g003000-k000000-rc00000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRGKGKG
 
 | Tartans |
 |---------------|
-| [Strath Halladale (Sutherland)](/setts/s8/b8g20r4g38k30g10k30g10-b8080d0-g003000-k000000-rc00000/)|
-|![Strath Halladale (Sutherland) example sett](/setts/s8/b8g20r4g38k30g10k30g10-b8080d0-g003000-k000000-rc00000/sett.png)|
+| [Strath Halladale (Sutherland)](/setts/s8/g10k30g10k30g38r4g20b8-b8080d0-g003000-k000000-rc00000/)|
+|![Strath Halladale (Sutherland) example sett](/setts/s8/g10k30g10k30g38r4g20b8-b8080d0-g003000-k000000-rc00000/sett.png)|

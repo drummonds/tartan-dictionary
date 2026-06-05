@@ -16,5 +16,5 @@ KGKYBYKRKRKR
 
 | Tartans |
 |---------------|
-| [Jardine Dress (Clan)](/setts/s12/k3g64k6y2b44y2k20r6k2r6k2r26-b2c2c80-g005030-k101010-rc80000-yb8b8b8/)|
-|![Jardine Dress (Clan) example sett](/setts/s12/k3g64k6y2b44y2k20r6k2r6k2r26-b2c2c80-g005030-k101010-rc80000-yb8b8b8/sett.png)|
+| [Jardine Dress (Clan)](/setts/s12/r26k2r6k2r6k20y2b44y2k6g64k3-b2c2c80-g005030-k101010-rc80000-yb8b8b8/)|
+|![Jardine Dress (Clan) example sett](/setts/s12/r26k2r6k2r6k20y2b44y2k6g64k3-b2c2c80-g005030-k101010-rc80000-yb8b8b8/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "Park (Name)"
+title: "Park"
 date: 2023-03-18
 ---
 In pattern [GRGRGKGKGKBR](/patterns/grgrgkgkgkbr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2387/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3290
 
 ## Thread count
 G/6 R4 G6 R8 G68 K4 G4 K4 G8 K32 DB32 R/6

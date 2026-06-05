@@ -16,5 +16,5 @@ RBGBGBGBGBW
 
 | Tartans |
 |---------------|
-| [Solway Spirit (District)](/setts/s11/r6b30g32ba6g4ba4g4ba4g4ba80w8-b2c2c80-ba440044-g408060-rc04094-we0e0e0/)|
-|![Solway Spirit (District) example sett](/setts/s11/r6b30g32ba6g4ba4g4ba4g4ba80w8-b2c2c80-ba440044-g408060-rc04094-we0e0e0/sett.png)|
+| [Solway Spirit (District)](/setts/s11/w8b80g4b4g4b4g4b6g32ba30r6-b440044-ba2c2c80-g408060-rc04094-we0e0e0/)|
+|![Solway Spirit (District) example sett](/setts/s11/w8b80g4b4g4b4g4b6g32ba30r6-b440044-ba2c2c80-g408060-rc04094-we0e0e0/sett.png)|

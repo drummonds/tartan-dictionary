@@ -6,7 +6,7 @@ RBWRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r8b8w4r8w12-b1c1c1c-rc8002c-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/w12r8w4b8r8-b1c1c1c-rc8002c-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBWRW
 
 | Tartans |
 |---------------|
-| [Oakland Centre](/setts/s5/r8b8w4r8w12-b1c1c1c-rc8002c-wfcfcfc/)|
-|![Oakland Centre example sett](/setts/s5/r8b8w4r8w12-b1c1c1c-rc8002c-wfcfcfc/sett.png)|
+| [Oakland Centre](/setts/s5/w12r8w4b8r8-b1c1c1c-rc8002c-wfcfcfc/)|
+|![Oakland Centre example sett](/setts/s5/w12r8w4b8r8-b1c1c1c-rc8002c-wfcfcfc/sett.png)|

@@ -16,7 +16,7 @@ WKBKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Glenmore Green](/setts/s11/w4r6k4r6g16k6w4k6b4k20w76-b441800-g5c6428-k101010-ra07c58-wf0f0d8/)|
-|![Glenmore Green example sett](/setts/s11/w4r6k4r6g16k6w4k6b4k20w76-b441800-g5c6428-k101010-ra07c58-wf0f0d8/sett.png)|
-| [Glenmore, Green (Fashion)](/setts/s11/w4r6k4r6g16k6w4k6b4k20w76-b441800-g5c6428-k101010-ra07c58-wf0f0d8/)|
-|![Glenmore, Green (Fashion) example sett](/setts/s11/w4r6k4r6g16k6w4k6b4k20w76-b441800-g5c6428-k101010-ra07c58-wf0f0d8/sett.png)|
+| [Glenmore Green](/setts/s11/w76k20b4k6w4k6g16r6k4r6w4-b441800-g5c6428-k101010-ra07c58-wf0f0d8/)|
+|![Glenmore Green example sett](/setts/s11/w76k20b4k6w4k6g16r6k4r6w4-b441800-g5c6428-k101010-ra07c58-wf0f0d8/sett.png)|
+| [Glenmore, Green (Fashion)](/setts/s11/w76k20b4k6w4k6g16r6k4r6w4-b441800-g5c6428-k101010-ra07c58-wf0f0d8/)|
+|![Glenmore, Green (Fashion) example sett](/setts/s11/w76k20b4k6w4k6g16r6k4r6w4-b441800-g5c6428-k101010-ra07c58-wf0f0d8/sett.png)|

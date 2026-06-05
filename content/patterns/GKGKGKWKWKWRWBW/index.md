@@ -16,5 +16,5 @@ GKGKGKWKWKWRWBW
 
 | Tartans |
 |---------------|
-| [Prestoungrange/Dolphinstoun/Wills dress](/setts/s15/g4k2g4k4g70k20w6k4w4k4w32r8w6b4w6-b0596fa-g005020-k101010-r960028-we0e0e0/)|
-|![Prestoungrange/Dolphinstoun/Wills dress example sett](/setts/s15/g4k2g4k4g70k20w6k4w4k4w32r8w6b4w6-b0596fa-g005020-k101010-r960028-we0e0e0/sett.png)|
+| [Prestoungrange/Dolphinstoun/Wills dress](/setts/s15/w6b4w6r8w32k4w4k4w6k20g70k4g4k2g4-b0596fa-g005020-k101010-r960028-we0e0e0/)|
+|![Prestoungrange/Dolphinstoun/Wills dress example sett](/setts/s15/w6b4w6r8w32k4w4k4w6k20g70k4g4k2g4-b0596fa-g005020-k101010-r960028-we0e0e0/sett.png)|

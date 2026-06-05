@@ -1,13 +1,13 @@
 ---
-title: "Rankin #2"
+title: "Rankin (1932) (Name)"
 date: 2023-03-18
 ---
 In pattern [BGRGWGRKBRBRBRBRBW](/patterns/bgrgwgrkbrbrbrbrbw/).
 
 
-This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3460
+Original link http://www.tartansauthority.com/tartan-ferret/display/187/
 
 ## Thread count
 DB/72 G20 R4 G20 W4 G20 R4 K20 DB28 R4 DB24 R4 DB24 R6 DB4 R4 DB8 W/4

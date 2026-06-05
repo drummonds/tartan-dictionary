@@ -16,5 +16,5 @@ KBBKGKBWK
 
 | Tartans |
 |---------------|
-| [South Lanarkshire (2002) (District)](/setts/s9/k4b4ba28k4g24k4bb28w4k8-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/)|
-|![South Lanarkshire (2002) (District) example sett](/setts/s9/k4b4ba28k4g24k4bb28w4k8-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/sett.png)|
+| [South Lanarkshire (2002) (District)](/setts/s9/k8w4b28k4g24k4ba28bb4k4-b780078-ba2c2c80-bb2888c4-g006818-k101010-we0e0e0/)|
+|![South Lanarkshire (2002) (District) example sett](/setts/s9/k8w4b28k4g24k4ba28bb4k4-b780078-ba2c2c80-bb2888c4-g006818-k101010-we0e0e0/sett.png)|

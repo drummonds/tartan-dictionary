@@ -6,7 +6,7 @@ BWRRBWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4w2r38ra10b6w3r6-b5c5c5c-ra00048-ra888888-we8ccb8/tartan.png)
+![Woven sample](/setts/s7/r6w3b6ra10r38w2b4-b5c5c5c-ra00048-ra888888-we8ccb8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWRRBWR
 
 | Tartans |
 |---------------|
-| [Washington State University Cougar](/setts/s7/b4w2r38ra10b6w3r6-b5c5c5c-ra00048-ra888888-we8ccb8/)|
-|![Washington State University Cougar example sett](/setts/s7/b4w2r38ra10b6w3r6-b5c5c5c-ra00048-ra888888-we8ccb8/sett.png)|
+| [Washington State University Cougar](/setts/s7/r6w3b6ra10r38w2b4-b5c5c5c-ra00048-ra888888-we8ccb8/)|
+|![Washington State University Cougar example sett](/setts/s7/r6w3b6ra10r38w2b4-b5c5c5c-ra00048-ra888888-we8ccb8/sett.png)|

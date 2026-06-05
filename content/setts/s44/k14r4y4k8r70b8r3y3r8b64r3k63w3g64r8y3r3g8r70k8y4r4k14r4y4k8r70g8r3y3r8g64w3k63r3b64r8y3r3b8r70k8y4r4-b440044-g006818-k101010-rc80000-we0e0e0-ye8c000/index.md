@@ -1,13 +1,13 @@
 ---
-title: "Leith (Hay)"
+title: "Leith & Hay (Clan)"
 date: 2023-03-18
 ---
 In pattern [KRYKRBRYRBRKWGRYRGRKYRKRYKRGRYRGWKRBRYRBRKYR](/patterns/krykrbryrbrkwgryrgrkyrkrykrgryrgwkrbryrbrkyr/).
 
 
-This was sourced from register-of-tartans.  It is a [44 stripes tartan](/stripes/stripes44/).
+This was sourced from tartans-authority.  It is a [44 stripes tartan](/stripes/stripes44/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091
+Original link http://www.tartansauthority.com/tartan-ferret/display/2131/
 
 ## Thread count
 K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 LN3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K14 R4 Y4 K8 R70 G8 R3 Y3 R8 G64 LN3 K63 R3 DP64 R8 Y3 R3 DP8 R70 K8 Y4 R/4

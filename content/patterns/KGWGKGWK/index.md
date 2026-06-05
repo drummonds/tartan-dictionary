@@ -6,7 +6,7 @@ KGWGKGWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k2g16w2g34k32g6w14k6-g005020-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s8/k6w14g6k32g34w2g16k2-g005020-k101010-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGWGKGWK
 
 | Tartans |
 |---------------|
-| [Utah Valley University](/setts/s8/k2g16w2g34k32g6w14k6-g005020-k101010-wffffff/)|
-|![Utah Valley University example sett](/setts/s8/k2g16w2g34k32g6w14k6-g005020-k101010-wffffff/sett.png)|
+| [Utah Valley University](/setts/s8/k6w14g6k32g34w2g16k2-g005020-k101010-wffffff/)|
+|![Utah Valley University example sett](/setts/s8/k6w14g6k32g34w2g16k2-g005020-k101010-wffffff/sett.png)|

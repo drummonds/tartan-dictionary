@@ -6,7 +6,7 @@ RBRGBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r2b18ra2g18ba90w4-b5c5c5c-ba202060-g006818-r880000-rac80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/w4b90g18r2ba18ra2-b202060-ba5c5c5c-g006818-rc80000-ra880000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRGBW
 
 | Tartans |
 |---------------|
-| [Wilton (Name)](/setts/s6/r2b18ra2g18ba90w4-b5c5c5c-ba202060-g006818-r880000-rac80000-we0e0e0/)|
-|![Wilton (Name) example sett](/setts/s6/r2b18ra2g18ba90w4-b5c5c5c-ba202060-g006818-r880000-rac80000-we0e0e0/sett.png)|
+| [Wilton (Name)](/setts/s6/w4b90g18r2ba18ra2-b202060-ba5c5c5c-g006818-rc80000-ra880000-we0e0e0/)|
+|![Wilton (Name) example sett](/setts/s6/w4b90g18r2ba18ra2-b202060-ba5c5c5c-g006818-rc80000-ra880000-we0e0e0/sett.png)|

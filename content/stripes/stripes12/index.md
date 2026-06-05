@@ -69,13 +69,6 @@ Tartan setts with 12 stripes, grouped by colour-sequence pattern.
 |---|
 | [Doane](/patterns/bbbbbgrgrbbb/) |
 
-### BBBBBKBKWRWR
-<a class="pat" href="/patterns/bbbbbkbkwrwr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">BBBBBKBKWRWR</span></a>
-
-| Tartan |
-|---|
-| [Ross Blue Dress Tartan Tartan Number: 8194. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/bbbbbkbkwrwr/) |
-
 ### BBBBBKGKYKGK
 <a class="pat" href="/patterns/bbbbbkgkykgk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">BBBBBKGKYKGK</span></a>
 
@@ -316,13 +309,6 @@ Tartan setts with 12 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Reflections of the Sea](/patterns/bbgbgbbgbbgy/) |
-
-### BBGBGGWGBGGB
-<a class="pat" href="/patterns/bbgbggwgbggb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BBGBGGWGBGGB</span></a>
-
-| Tartan |
-|---|
-| [Glen Clova Trade Tartan Tartan Number: 1748. Earliest known date: 1986 Colour variation on 1295 Glen Clova, which in turn is a variation on Royal Stewart. May be from Macnaughtons c1989 See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/bbgbggwgbggb/) |
 
 ### BBGGWRKRWGGB
 <a class="pat" href="/patterns/bbggwrkrwggb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BBGGWRKRWGGB</span></a>
@@ -711,13 +697,6 @@ Tartan setts with 12 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Glen Clova #2](/patterns/bgbybwbgbbby/) |
-
-### BGBYBWBYBGBK
-<a class="pat" href="/patterns/bgbybwbybgbk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="seq">BGBYBWBYBGBK</span></a>
-
-| Tartan |
-|---|
-| [Wishart Hunting](/patterns/bgbybwbybgbk/) |
 
 ### BGBYBYBGRGRB
 <a class="pat" href="/patterns/bgbybybgrgrb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BGBYBYBGRGRB</span></a>
@@ -1745,5 +1724,26 @@ Tartan setts with 12 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Drummond #2](/patterns/brgrbrbrgrbr/) |
+
+### BRGRBRGRGRGR
+<a class="pat" href="/patterns/brgrbrgrgrgr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">BRGRBRGRGRGR</span></a>
+
+| Tartan |
+|---|
+| [Unidentified Early 18th Centuary #2](/patterns/brgrbrgrgrgr/) |
+
+### BRGRGKYKGRGR
+<a class="pat" href="/patterns/brgrgkykgrgr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">BRGRGKYKGRGR</span></a>
+
+| Tartan |
+|---|
+| [Scout Mapping Service](/patterns/brgrgkykgrgr/) |
+
+### BRGRGRBGRBRW
+<a class="pat" href="/patterns/brgrgrbgrbrw/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">BRGRGRBGRBRW</span></a>
+
+| Tartan |
+|---|
+| [Wcwm 9275-1446](/patterns/brgrgrbgrbrw/) |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes12/p2/">2</a> <a href="/stripes/stripes12/p3/">3</a> <a href="/stripes/stripes12/p4/">4</a> <a href="/stripes/stripes12/p2/">next ›</a></nav>

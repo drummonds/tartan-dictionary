@@ -16,5 +16,5 @@ YRYRYKYKYYYYY
 
 | Tartans |
 |---------------|
-| [Virginia Quadricentennial (District)](/setts/s13/y4r16y4r8y20k6y4k6y40ya12y20ya6y80-k101010-r901c38-yc4bc68-yaa08858/)|
-|![Virginia Quadricentennial (District) example sett](/setts/s13/y4r16y4r8y20k6y4k6y40ya12y20ya6y80-k101010-r901c38-yc4bc68-yaa08858/sett.png)|
+| [Virginia Quadricentennial (District)](/setts/s13/y80ya6y20ya12y40k6y4k6y20r8y4r16y4-k101010-r901c38-yc4bc68-yaa08858/)|
+|![Virginia Quadricentennial (District) example sett](/setts/s13/y80ya6y20ya12y40k6y4k6y20r8y4r16y4-k101010-r901c38-yc4bc68-yaa08858/sett.png)|

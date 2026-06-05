@@ -1,13 +1,13 @@
 ---
-title: "Plymouth Armada (Commemorative)"
+title: "Plymouth Armada Special event Tartan Tartan Number: 476. Earliest known date: 1988 Commemorates the 400th anniversary of the defeat of the Spanish Armada. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BRBBBBWBRBRW](/patterns/brbbbbwbrbrw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/476/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=476
 
 ## Thread count
 DB/80 R4 DB14 DBa10 DR4 DBa6 LN4 DBa20 N12 DB4 N8 LN/4

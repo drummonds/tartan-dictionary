@@ -16,5 +16,5 @@ BYKYKYKYK
 
 | Tartans |
 |---------------|
-| [Cardiff City Football Club (Corp)](/setts/s9/b4y6k2y6k8y4k26y48ka8-b2888c4-k101010-ka000000-ya08858/)|
-|![Cardiff City Football Club (Corp) example sett](/setts/s9/b4y6k2y6k8y4k26y48ka8-b2888c4-k101010-ka000000-ya08858/sett.png)|
+| [Cardiff City Football Club (Corp)](/setts/s9/k8y48ka26y4ka8y6ka2y6b4-b2888c4-k000000-ka101010-ya08858/)|
+|![Cardiff City Football Club (Corp) example sett](/setts/s9/k8y48ka26y4ka8y6ka2y6b4-b2888c4-k000000-ka101010-ya08858/sett.png)|

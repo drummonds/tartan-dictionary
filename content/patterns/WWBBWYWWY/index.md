@@ -16,5 +16,5 @@ WWBBWYWWY
 
 | Tartans |
 |---------------|
-| [Queensferry High (School)](/setts/s9/w3wa3b43ba8w27y5w7wb3y5-b003c64-ba4444bc-wa8ace8-wae0e0e0-wbc8c8c8-y949494/)|
-|![Queensferry High (School) example sett](/setts/s9/w3wa3b43ba8w27y5w7wb3y5-b003c64-ba4444bc-wa8ace8-wae0e0e0-wbc8c8c8-y949494/sett.png)|
+| [Queensferry High (School)](/setts/s9/y5w3wa7y5wa27b8ba43wb3wa3-b4444bc-ba003c64-wc8c8c8-waa8ace8-wbe0e0e0-y949494/)|
+|![Queensferry High (School) example sett](/setts/s9/y5w3wa7y5wa27b8ba43wb3wa3-b4444bc-ba003c64-wc8c8c8-waa8ace8-wbe0e0e0-y949494/sett.png)|

@@ -6,7 +6,7 @@ RBRBBYBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4b4ra4b56ba76y4ba4w6-b202060-ba6c0070-rc80000-rab468ac-we0e0e0-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/w6b4y4b76ba56r4ba4ra4-b6c0070-ba202060-rb468ac-rac80000-we0e0e0-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRBBYBW
 
 | Tartans |
 |---------------|
-| [Gretna Gold (Fashion)](/setts/s8/r4b4ra4b56ba76y4ba4w6-b202060-ba6c0070-rc80000-rab468ac-we0e0e0-ybc8c00/)|
-|![Gretna Gold (Fashion) example sett](/setts/s8/r4b4ra4b56ba76y4ba4w6-b202060-ba6c0070-rc80000-rab468ac-we0e0e0-ybc8c00/sett.png)|
+| [Gretna Gold (Fashion)](/setts/s8/w6b4y4b76ba56r4ba4ra4-b6c0070-ba202060-rb468ac-rac80000-we0e0e0-ybc8c00/)|
+|![Gretna Gold (Fashion) example sett](/setts/s8/w6b4y4b76ba56r4ba4ra4-b6c0070-ba202060-rb468ac-rac80000-we0e0e0-ybc8c00/sett.png)|

@@ -16,5 +16,5 @@ GRGBGRBBBBR
 
 | Tartans |
 |---------------|
-| [Unidentified, chair covering](/setts/s11/g4r8g6b6ga6r6b6ba4b4bb6r30-b402000-ba403030-bb800070-g30a010-ga908000-r900030/)|
-|![Unidentified, chair covering example sett](/setts/s11/g4r8g6b6ga6r6b6ba4b4bb6r30-b402000-ba403030-bb800070-g30a010-ga908000-r900030/sett.png)|
+| [Unidentified, chair covering](/setts/s11/r30b6ba4bb4ba6r6g6ba6ga6r8ga4-b800070-ba402000-bb403030-g908000-ga30a010-r900030/)|
+|![Unidentified, chair covering example sett](/setts/s11/r30b6ba4bb4ba6r6g6ba6ga6r8ga4-b800070-ba402000-bb403030-g908000-ga30a010-r900030/sett.png)|

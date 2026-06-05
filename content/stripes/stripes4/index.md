@@ -583,7 +583,6 @@ Tartan setts with 4 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Algarve](/patterns/bwrg/) |
-| [Highland Greenford (Personal)](/patterns/bwrg/) |
 
 ### BWRK
 <a class="pat" href="/patterns/bwrk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="seq">BWRK</span></a>
@@ -1181,5 +1180,12 @@ Tartan setts with 4 stripes, grouped by colour-sequence pattern.
 | [MacFarlane Red & Black (Artefact)](/patterns/krkr/) |
 | [Masai Shuka 12 (Artefact)](/patterns/krkr/) |
 | [Wcwm 9275-1333-2](/patterns/krkr/) |
+
+### KRKW
+<a class="pat" href="/patterns/krkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKW</span></a>
+
+| Tartan |
+|---|
+| [Lords, of Skye](/patterns/krkw/) |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes4/p2/">2</a> <a href="/stripes/stripes4/p2/">next ›</a></nav>

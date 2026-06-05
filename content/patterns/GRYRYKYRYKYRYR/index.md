@@ -16,5 +16,5 @@ GRYRYKYRYKYRYR
 
 | Tartans |
 |---------------|
-| [Hackston (Green stripe) or Halkerston](/setts/s14/g6r22y6r22y6k22ya4r102ya4k22y6r22y6r22-g006818-k101010-rc80000-ybc8c00-yab8b8b8/)|
-|![Hackston (Green stripe) or Halkerston example sett](/setts/s14/g6r22y6r22y6k22ya4r102ya4k22y6r22y6r22-g006818-k101010-rc80000-ybc8c00-yab8b8b8/sett.png)|
+| [Hackston (Green stripe) or Halkerston](/setts/s14/r22y6r22y6k22ya4r102ya4k22y6r22y6r22g6-g006818-k101010-rc80000-ybc8c00-yab8b8b8/)|
+|![Hackston (Green stripe) or Halkerston example sett](/setts/s14/r22y6r22y6k22ya4r102ya4k22y6r22y6r22g6-g006818-k101010-rc80000-ybc8c00-yab8b8b8/sett.png)|

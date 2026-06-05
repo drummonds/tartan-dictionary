@@ -16,5 +16,5 @@ RWBRRRBWR
 
 | Tartans |
 |---------------|
-| [Wedding Day](/setts/s9/r8w2b6ra4rb6ra4b96w2r8-b2b2241-r975e11-ra8e130e-rbad5176-wffffff/)|
-|![Wedding Day example sett](/setts/s9/r8w2b6ra4rb6ra4b96w2r8-b2b2241-r975e11-ra8e130e-rbad5176-wffffff/sett.png)|
+| [Wedding Day](/setts/s9/r8w2b96ra4rb6ra4b6w2r8-b2b2241-r975e11-ra8e130e-rbad5176-wffffff/)|
+|![Wedding Day example sett](/setts/s9/r8w2b96ra4rb6ra4b6w2r8-b2b2241-r975e11-ra8e130e-rbad5176-wffffff/sett.png)|

@@ -543,7 +543,6 @@ Tartan setts with 7 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Brough](/patterns/grgkwkr/) |
-| [Brough Family Tartan Tartan Number: 2233. Earliest known date: 1992 A Sinclair variation registered with TECA 17 Oct 1992 by David Brough Benton. His grandfather's (John Brough) tartan dating back to the 1830's. was reconstructed by Eric Swinn of Ocala Florida and handwoven by Peter MacDonald, Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/grgkwkr/) |
 | [Sinclair Hunting](/patterns/grgkwkr/) |
 
 ### GRGKWKW
@@ -605,7 +604,6 @@ Tartan setts with 7 stripes, grouped by colour-sequence pattern.
 
 | Tartan |
 |---|
-| [Scott Autumn](/patterns/grgrgyg/) |
 | [Scott Autumn (Fashion)](/patterns/grgrgyg/) |
 
 ### GRGRYGR
@@ -1583,5 +1581,12 @@ Tartan setts with 7 stripes, grouped by colour-sequence pattern.
 |---|
 | [MacCaskill](/patterns/krgkbyk/) |
 | [MacCaskill (Personal)](/patterns/krgkbyk/) |
+
+### KRGRGRW
+<a class="pat" href="/patterns/krgrgrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRGRGRW</span></a>
+
+| Tartan |
+|---|
+| [MacKinnon #4](/patterns/krgrgrw/) |
 
 <nav class="pager"><a href="/stripes/stripes7/p2/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes7/p4/">4</a> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p4/">next ›</a></nav>

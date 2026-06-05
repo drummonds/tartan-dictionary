@@ -1,13 +1,13 @@
 ---
-title: "MacFarlane Hunting (MacGregor Hastie)"
+title: "MacFarlane Htg (Clan)"
 date: 2023-03-18
 ---
 In pattern [GKGWRKRWKBKRWK](/patterns/gkgwrkrwkbkrwk/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2434
+Original link http://www.tartansauthority.com/tartan-ferret/display/779/
 
 ## Thread count
 G/84 K4 G24 W4 R6 K4 R6 W4 K4 DP24 K8 R6 W8 K/6

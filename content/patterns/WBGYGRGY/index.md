@@ -6,7 +6,7 @@ WBGYGRGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w8b24g6y62ga8r8ga8y24-b0000ff-g767e52-ga285800-rec34c4-wffffff-yb6b6b6/tartan.png)
+![Woven sample](/setts/s8/y24g8r8g8y62ga6b24w8-b0000ff-g285800-ga767e52-rec34c4-wffffff-yb6b6b6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBGYGRGY
 
 | Tartans |
 |---------------|
-| [Yes Scotland](/setts/s8/w8b24g6y62ga8r8ga8y24-b0000ff-g767e52-ga285800-rec34c4-wffffff-yb6b6b6/)|
-|![Yes Scotland example sett](/setts/s8/w8b24g6y62ga8r8ga8y24-b0000ff-g767e52-ga285800-rec34c4-wffffff-yb6b6b6/sett.png)|
+| [Yes Scotland](/setts/s8/y24g8r8g8y62ga6b24w8-b0000ff-g285800-ga767e52-rec34c4-wffffff-yb6b6b6/)|
+|![Yes Scotland example sett](/setts/s8/y24g8r8g8y62ga6b24w8-b0000ff-g285800-ga767e52-rec34c4-wffffff-yb6b6b6/sett.png)|

@@ -6,7 +6,7 @@ KBK
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/k30b10k40-b204468-k101010/tartan.png)
+![Woven sample](/setts/s3/k40b10k30-b204468-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBK
 
 | Tartans |
 |---------------|
-| [Ben Dubh (Fashion)](/setts/s3/k30b10k40-b204468-k101010/)|
-|![Ben Dubh (Fashion) example sett](/setts/s3/k30b10k40-b204468-k101010/sett.png)|
+| [Ben Dubh (Fashion)](/setts/s3/k40b10k30-b204468-k101010/)|
+|![Ben Dubh (Fashion) example sett](/setts/s3/k40b10k30-b204468-k101010/sett.png)|

@@ -16,5 +16,5 @@ WKBWGKGKY
 
 | Tartans |
 |---------------|
-| [State Seal of Pennsylvania (Fashion)](/setts/s9/w6k2b82w8g36k12ga56k2y8-b1474b4-g604000-ga006818-k101010-we8ccb8-ybc8c00/)|
-|![State Seal of Pennsylvania (Fashion) example sett](/setts/s9/w6k2b82w8g36k12ga56k2y8-b1474b4-g604000-ga006818-k101010-we8ccb8-ybc8c00/sett.png)|
+| [State Seal of Pennsylvania (Fashion)](/setts/s9/y8k2g56k12ga36w8b82k2w6-b1474b4-g006818-ga604000-k101010-we8ccb8-ybc8c00/)|
+|![State Seal of Pennsylvania (Fashion) example sett](/setts/s9/y8k2g56k12ga36w8b82k2w6-b1474b4-g006818-ga604000-k101010-we8ccb8-ybc8c00/sett.png)|

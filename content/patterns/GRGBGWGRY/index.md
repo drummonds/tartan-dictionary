@@ -16,7 +16,7 @@ GRGBGWGRY
 
 | Tartans |
 |---------------|
-| [Teallach (Personal)](/setts/s9/g6r26g6b26ga46w6g38ra48y8-b5c5c5c-g604000-ga5c6428-r888888-rab84c00-we0e0e0-ybc8c00/)|
-|![Teallach (Personal) example sett](/setts/s9/g6r26g6b26ga46w6g38ra48y8-b5c5c5c-g604000-ga5c6428-r888888-rab84c00-we0e0e0-ybc8c00/sett.png)|
-| [Teallach (Personal)](/setts/s9/g6r26g6b26ga46w6g38ra48y8-b5c5c5c-g604000-ga5c6428-r888888-rab84c00-we0e0e0-ybc8c00/)|
-|![Teallach (Personal) example sett](/setts/s9/g6r26g6b26ga46w6g38ra48y8-b5c5c5c-g604000-ga5c6428-r888888-rab84c00-we0e0e0-ybc8c00/sett.png)|
+| [Teallach (Personal)](/setts/s9/y8r48g38w6ga46b26g6ra26g6-b5c5c5c-g604000-ga5c6428-rb84c00-ra888888-we0e0e0-ybc8c00/)|
+|![Teallach (Personal) example sett](/setts/s9/y8r48g38w6ga46b26g6ra26g6-b5c5c5c-g604000-ga5c6428-rb84c00-ra888888-we0e0e0-ybc8c00/sett.png)|
+| [Teallach (Personal)](/setts/s9/y8r48g38w6ga46b26g6ra26g6-b5c5c5c-g604000-ga5c6428-rb84c00-ra888888-we0e0e0-ybc8c00/)|
+|![Teallach (Personal) example sett](/setts/s9/y8r48g38w6ga46b26g6ra26g6-b5c5c5c-g604000-ga5c6428-rb84c00-ra888888-we0e0e0-ybc8c00/sett.png)|

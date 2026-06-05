@@ -16,7 +16,7 @@ BBBGRGBBYG
 
 | Tartans |
 |---------------|
-| [Heriot Watt University (Corporate)](/setts/s10/b6ba64bb2g32r4g4b36ba8y2g10-b14283c-ba1474b4-bb202060-g285800-ra00000-yd09800/)|
-|![Heriot Watt University (Corporate) example sett](/setts/s10/b6ba64bb2g32r4g4b36ba8y2g10-b14283c-ba1474b4-bb202060-g285800-ra00000-yd09800/sett.png)|
-| [Heriot Watt University](/setts/s10/b4ba56bb2g28r4g4b30ba6y2g8-b000050-ba5480b0-bb304080-g008000-rc00000-yf0c000/)|
-|![Heriot Watt University example sett](/setts/s10/b4ba56bb2g28r4g4b30ba6y2g8-b000050-ba5480b0-bb304080-g008000-rc00000-yf0c000/sett.png)|
+| [Heriot Watt University (Corporate)](/setts/s10/g10y2b8ba36g4r4g32bb2b64ba6-b1474b4-ba14283c-bb202060-g285800-ra00000-yd09800/)|
+|![Heriot Watt University (Corporate) example sett](/setts/s10/g10y2b8ba36g4r4g32bb2b64ba6-b1474b4-ba14283c-bb202060-g285800-ra00000-yd09800/sett.png)|
+| [Heriot Watt University](/setts/s10/g8y2b6ba30g4r4g28bb2b56ba4-b5480b0-ba000050-bb304080-g008000-rc00000-yf0c000/)|
+|![Heriot Watt University example sett](/setts/s10/g8y2b6ba30g4r4g28bb2b56ba4-b5480b0-ba000050-bb304080-g008000-rc00000-yf0c000/sett.png)|

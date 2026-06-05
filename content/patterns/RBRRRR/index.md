@@ -6,7 +6,7 @@ RBRRRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r8b8r112ra8r6ra26-b5c5c5c-r888888-rac80000/tartan.png)
+![Woven sample](/setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBRRRR
 
 | Tartans |
 |---------------|
-| [Auchairne Grey](/setts/s6/r8b8r112ra8r6ra26-b5c5c5c-r888888-rac80000/)|
-|![Auchairne Grey example sett](/setts/s6/r8b8r112ra8r6ra26-b5c5c5c-r888888-rac80000/sett.png)|
-| [Auchairne, Grey (Corporate)](/setts/s6/r8b8r112ra8r6ra26-b5c5c5c-r888888-rac80000/)|
-|![Auchairne, Grey (Corporate) example sett](/setts/s6/r8b8r112ra8r6ra26-b5c5c5c-r888888-rac80000/sett.png)|
+| [Auchairne Grey](/setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/)|
+|![Auchairne Grey example sett](/setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/sett.png)|
+| [Auchairne, Grey (Corporate)](/setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/)|
+|![Auchairne, Grey (Corporate) example sett](/setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/sett.png)|

@@ -16,5 +16,5 @@ BRYBYBYBYBYBYBYBYBYBYBYRB
 
 | Tartans |
 |---------------|
-| [Allen hunting](/setts/s25/b8r96y36ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba16y16ra4ba88-b304080-ba8080d0-r806050-rac00000-yd09060/)|
-|![Allen hunting example sett](/setts/s25/b8r96y36ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba4y4ba16y16ra4ba88-b304080-ba8080d0-r806050-rac00000-yd09060/sett.png)|
+| [Allen hunting](/setts/s25/b88r4y16b16y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y36ra96ba8-b8080d0-ba304080-rc00000-ra806050-yd09060/)|
+|![Allen hunting example sett](/setts/s25/b88r4y16b16y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y4b4y36ra96ba8-b8080d0-ba304080-rc00000-ra806050-yd09060/sett.png)|

@@ -529,13 +529,6 @@ Tartan setts with 18 stripes, grouped by colour-sequence pattern.
 |---|
 | [Unnamed C18th - Prince Charles Edward #2](/patterns/brbrbrbrbrbrbrbrbr/) |
 
-### BRBRBRBRBRBRRRRRRB
-<a class="pat" href="/patterns/brbrbrbrbrbrrrrrrb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BRBRBRBRBRBRRRRRRB</span></a>
-
-| Tartan |
-|---|
-| [Wcwm 1586-2](/patterns/brbrbrbrbrbrrrrrrb/) |
-
 ### BRBRKRBRBKBRBBBRBK
 <a class="pat" href="/patterns/brbrkrbrbkbrbbbrbk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="seq">BRBRKRBRBKBRBBBRBK</span></a>
 

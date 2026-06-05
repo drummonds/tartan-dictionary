@@ -6,7 +6,7 @@ KBRKRGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k10b90r6k40r8g56y12-b00008c-g007800-k000000-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBRKRGY
 
 | Tartans |
 |---------------|
-| [Nery](/setts/s7/k10b90r6k40r8g56y12-b00008c-g007800-k000000-r8c0000-yc88c00/)|
-|![Nery example sett](/setts/s7/k10b90r6k40r8g56y12-b00008c-g007800-k000000-r8c0000-yc88c00/sett.png)|
-| [Nery (Name)](/setts/s7/k10b90r6k40r8g56y12-b00008c-g007800-k000000-r8c0000-yc88c00/)|
-|![Nery (Name) example sett](/setts/s7/k10b90r6k40r8g56y12-b00008c-g007800-k000000-r8c0000-yc88c00/sett.png)|
+| [Nery](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/)|
+|![Nery example sett](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/sett.png)|
+| [Nery (Name)](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/)|
+|![Nery (Name) example sett](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/sett.png)|

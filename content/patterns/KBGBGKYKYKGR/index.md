@@ -16,5 +16,5 @@ KBGBGKYKYKGR
 
 | Tartans |
 |---------------|
-| [Cats Winter (Fashion)](/setts/s12/k6b58g4b4g36k4y4k4ya4k4g4r16-b2c2c80-g006818-k101010-rc80000-ye8c000-yabc8c00/)|
-|![Cats Winter (Fashion) example sett](/setts/s12/k6b58g4b4g36k4y4k4ya4k4g4r16-b2c2c80-g006818-k101010-rc80000-ye8c000-yabc8c00/sett.png)|
+| [Cats Winter (Fashion)](/setts/s12/r16g4k4y4k4ya4k4g36b4g4b58k6-b2c2c80-g006818-k101010-rc80000-ybc8c00-yae8c000/)|
+|![Cats Winter (Fashion) example sett](/setts/s12/r16g4k4y4k4ya4k4g36b4g4b58k6-b2c2c80-g006818-k101010-rc80000-ybc8c00-yae8c000/sett.png)|

@@ -6,7 +6,7 @@ GRYYRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8r8y46ya24r8ya100-g289c18-rc80000-ye8c000-ya48a4c0/tartan.png)
+![Woven sample](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRYYRY
 
 | Tartans |
 |---------------|
-| [Ingenico](/setts/s6/g8r8y46ya24r8ya100-g289c18-rc80000-ye8c000-ya48a4c0/)|
-|![Ingenico example sett](/setts/s6/g8r8y46ya24r8ya100-g289c18-rc80000-ye8c000-ya48a4c0/sett.png)|
-| [Ingenico (Corporate)](/setts/s6/g8r8y46ya24r8ya100-g289c18-rc80000-ye8c000-ya48a4c0/)|
-|![Ingenico (Corporate) example sett](/setts/s6/g8r8y46ya24r8ya100-g289c18-rc80000-ye8c000-ya48a4c0/sett.png)|
+| [Ingenico](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/)|
+|![Ingenico example sett](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/sett.png)|
+| [Ingenico (Corporate)](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/)|
+|![Ingenico (Corporate) example sett](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/sett.png)|

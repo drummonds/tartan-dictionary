@@ -16,5 +16,5 @@ BKBBBKKBBKBBKKBBBK
 
 | Tartans |
 |---------------|
-| [Hughes (USA) (Personal)](/setts/s18/b8k24ba6b8ba6k6ka72ba6b4ka6b4ba6ka72k6ba6b8ba6k24-b2474e8-ba2c2c80-k101010-ka000000/)|
-|![Hughes (USA) (Personal) example sett](/setts/s18/b8k24ba6b8ba6k6ka72ba6b4ka6b4ba6ka72k6ba6b8ba6k24-b2474e8-ba2c2c80-k101010-ka000000/sett.png)|
+| [Hughes (USA) (Personal)](/setts/s18/k24b6ba8b6k6ka72b6ba4ka6ba4b6ka72k6b6ba8b6k24ba8-b2c2c80-ba2474e8-k101010-ka000000/)|
+|![Hughes (USA) (Personal) example sett](/setts/s18/k24b6ba8b6k6ka72b6ba4ka6ba4b6ka72k6b6ba8b6k24ba8-b2c2c80-ba2474e8-k101010-ka000000/sett.png)|

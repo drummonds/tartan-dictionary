@@ -6,7 +6,7 @@ WGRGRKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w4k4r56g4r4g24wa8-g006818-k101010-r880000-wa8ace8-wac0c0c0/tartan.png)
+![Woven sample](/setts/s7/w8g24r4g4r56k4wa4-g006818-k101010-r880000-wc0c0c0-waa8ace8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGRGRKW
 
 | Tartans |
 |---------------|
-| [MacMaster (USA) #1](/setts/s7/w4k4r56g4r4g24wa8-g006818-k101010-r880000-wa8ace8-wac0c0c0/)|
-|![MacMaster (USA) #1 example sett](/setts/s7/w4k4r56g4r4g24wa8-g006818-k101010-r880000-wa8ace8-wac0c0c0/sett.png)|
+| [MacMaster (USA) #1](/setts/s7/w8g24r4g4r56k4wa4-g006818-k101010-r880000-wc0c0c0-waa8ace8/)|
+|![MacMaster (USA) #1 example sett](/setts/s7/w8g24r4g4r56k4wa4-g006818-k101010-r880000-wc0c0c0-waa8ace8/sett.png)|

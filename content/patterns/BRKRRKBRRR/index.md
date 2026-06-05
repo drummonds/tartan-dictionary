@@ -16,7 +16,7 @@ BRKRRKBRRR
 
 | Tartans |
 |---------------|
-| [Dobrain (Personal)](/setts/s10/b16r8k6ra28r4k12b4ra8r4ra48-b646464-k000000-r8c8c8c-rac82800/)|
-|![Dobrain (Personal) example sett](/setts/s10/b16r8k6ra28r4k12b4ra8r4ra48-b646464-k000000-r8c8c8c-rac82800/sett.png)|
-| [Dobrain (Personal)](/setts/s10/b16r8k6ra28r4k12b4ra8r4ra48-b646464-k000000-r8c8c8c-rac82800/)|
-|![Dobrain (Personal) example sett](/setts/s10/b16r8k6ra28r4k12b4ra8r4ra48-b646464-k000000-r8c8c8c-rac82800/sett.png)|
+| [Dobrain (Personal)](/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/)|
+|![Dobrain (Personal) example sett](/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/sett.png)|
+| [Dobrain (Personal)](/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/)|
+|![Dobrain (Personal) example sett](/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/sett.png)|

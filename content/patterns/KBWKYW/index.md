@@ -6,7 +6,7 @@ KBWKYW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k10b40w3k5y2wa15-b006699-k000033-wc0c0c0-waffffff-yffff33/tartan.png)
+![Woven sample](/setts/s6/w15y2k5wa3b40k10-b006699-k000033-wffffff-wac0c0c0-yffff33/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBWKYW
 
 | Tartans |
 |---------------|
-| [Herriot New Zealand](/setts/s6/k10b40w3k5y2wa15-b006699-k000033-wc0c0c0-waffffff-yffff33/)|
-|![Herriot New Zealand example sett](/setts/s6/k10b40w3k5y2wa15-b006699-k000033-wc0c0c0-waffffff-yffff33/sett.png)|
+| [Herriot New Zealand](/setts/s6/w15y2k5wa3b40k10-b006699-k000033-wffffff-wac0c0c0-yffff33/)|
+|![Herriot New Zealand example sett](/setts/s6/w15y2k5wa3b40k10-b006699-k000033-wffffff-wac0c0c0-yffff33/sett.png)|

@@ -16,5 +16,5 @@ KKGKYKGKGKKY
 
 | Tartans |
 |---------------|
-| [Blue Castlefield (Fashion)](/setts/s12/k4ka2g16ka20y20ka2g10ka2ga20k20ka30ya6-g006818-ga604000-k00002c-ka101010-ye8c000-yaa0a0a0/)|
-|![Blue Castlefield (Fashion) example sett](/setts/s12/k4ka2g16ka20y20ka2g10ka2ga20k20ka30ya6-g006818-ga604000-k00002c-ka101010-ye8c000-yaa0a0a0/sett.png)|
+| [Blue Castlefield (Fashion)](/setts/s12/y6k30ka20g20k2ga10k2ya20k20ga16k2ka4-g604000-ga006818-k101010-ka00002c-ya0a0a0-yae8c000/)|
+|![Blue Castlefield (Fashion) example sett](/setts/s12/y6k30ka20g20k2ga10k2ya20k20ga16k2ka4-g604000-ga006818-k101010-ka00002c-ya0a0a0-yae8c000/sett.png)|

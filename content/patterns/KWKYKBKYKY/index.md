@@ -16,5 +16,5 @@ KWKYKBKYKY
 
 | Tartans |
 |---------------|
-| [D.E.B.S. (Fashion)](/setts/s10/k8w20k4y6k4b100k4y6k4y30-b1474b4-k101010-we0e0e0-ybc8c00/)|
-|![D.E.B.S. (Fashion) example sett](/setts/s10/k8w20k4y6k4b100k4y6k4y30-b1474b4-k101010-we0e0e0-ybc8c00/sett.png)|
+| [D.E.B.S. (Fashion)](/setts/s10/y30k4y6k4b100k4y6k4w20k8-b1474b4-k101010-we0e0e0-ybc8c00/)|
+|![D.E.B.S. (Fashion) example sett](/setts/s10/y30k4y6k4b100k4y6k4w20k8-b1474b4-k101010-we0e0e0-ybc8c00/sett.png)|

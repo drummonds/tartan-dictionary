@@ -6,7 +6,7 @@ BKRBRGRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4r16g60r16b30r60k2ba10-b440044-ba5c8ca8-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/b10k2r60ba30r16g60r16ba4-b5c8ca8-ba440044-g006818-k101010-rc80000/tartan.png)
 
 
 
@@ -18,8 +18,8 @@ BKRBRGRB
 
 | Tartans |
 |---------------|
-| [Shaw Red of Tordarroch Dress (Clan 2](/setts/s8/b4r16g60r16b30r60k2ba10-b440044-ba5c8ca8-g006818-k101010-rc80000/)|
-|![Shaw Red of Tordarroch Dress (Clan 2 example sett](/setts/s8/b4r16g60r16b30r60k2ba10-b440044-ba5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Shaw Red of Tordarroch Dress (Clan 2](/setts/s8/b10k2r60ba30r16g60r16ba4-b5c8ca8-ba440044-g006818-k101010-rc80000/)|
+|![Shaw Red of Tordarroch Dress (Clan 2 example sett](/setts/s8/b10k2r60ba30r16g60r16ba4-b5c8ca8-ba440044-g006818-k101010-rc80000/sett.png)|
 | [Shaw of Tordarroch](/setts/s8/b10k2r60ba30r16g60r16ba4-b5480b0-ba800080-g008000-k000000-rc00000/)|
 |![Shaw of Tordarroch example sett](/setts/s8/b10k2r60ba30r16g60r16ba4-b5480b0-ba800080-g008000-k000000-rc00000/sett.png)|
 | [Shaw](/setts/s8/b10k2r60ba30r16g60r16ba4-b4367ae-ba6e5058-g11450d-k000000-raa0000/)|

@@ -6,7 +6,7 @@ BKBKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6k66b42k36g46k10-b202060-g006818-k101010/tartan.png)
+![Woven sample](/setts/s6/k10g46k36b42k66b6-b202060-g006818-k101010/tartan.png)
 
 
 
@@ -18,8 +18,8 @@ BKBKGK
 
 | Tartans |
 |---------------|
-| [Black Watch (variation)](/setts/s6/b6k66b42k36g46k10-b202060-g006818-k101010/)|
-|![Black Watch (variation) example sett](/setts/s6/b6k66b42k36g46k10-b202060-g006818-k101010/sett.png)|
+| [Black Watch (variation)](/setts/s6/k10g46k36b42k66b6-b202060-g006818-k101010/)|
+|![Black Watch (variation) example sett](/setts/s6/k10g46k36b42k66b6-b202060-g006818-k101010/sett.png)|
 | [Campbell, The 42nd](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/)|
 |![Campbell, The 42nd example sett](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/sett.png)|
 | [Sutherland 42nd](/setts/s6/b4k4b12k12g12k4-b2c4084-g005020-k101010/)|
@@ -34,8 +34,8 @@ BKBKGK
 |![Wartley Htg (Fashion) example sett](/setts/s6/b8k4b32k20g36k6-b000088-g007800-k000000/sett.png)|
 | [Brown Watch (single) (Fashion)](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/)|
 |![Brown Watch (single) (Fashion) example sett](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/sett.png)|
-| [Black Watch](/setts/s6/b6k66b42k36g46k10-b304080-g008000-k000000/)|
-|![Black Watch example sett](/setts/s6/b6k66b42k36g46k10-b304080-g008000-k000000/sett.png)|
+| [Black Watch](/setts/s6/k10g46k36b42k66b6-b304080-g008000-k000000/)|
+|![Black Watch example sett](/setts/s6/k10g46k36b42k66b6-b304080-g008000-k000000/sett.png)|
 | [Campbell, the 42nd](/setts/s6/b6k6b18k18g22k5-b304080-g008000-k000000/)|
 |![Campbell, the 42nd example sett](/setts/s6/b6k6b18k18g22k5-b304080-g008000-k000000/sett.png)|
 | [Sutherland, 42nd](/setts/s6/b4k4b12k12g12k4-b304080-g008000-k000000/)|

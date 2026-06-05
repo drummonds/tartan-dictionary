@@ -6,7 +6,7 @@ RGRBGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4g2r60b36g30y6-b000052-g11450d-raa0000-yaaaaaa/tartan.png)
+![Woven sample](/setts/s6/y6g30b36r60g2r4-b000052-g11450d-raa0000-yaaaaaa/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RGRBGY
 
 | Tartans |
 |---------------|
-| [Ruthven](/setts/s6/r4g2r60b36g30y6-b000052-g11450d-raa0000-yaaaaaa/)|
-|![Ruthven example sett](/setts/s6/r4g2r60b36g30y6-b000052-g11450d-raa0000-yaaaaaa/sett.png)|
-| [Ruthven](/setts/s6/r2g1r30b18g15y3-b000052-g11450d-raa0000-yaaaaaa/)|
-|![Ruthven example sett](/setts/s6/r2g1r30b18g15y3-b000052-g11450d-raa0000-yaaaaaa/sett.png)|
+| [Ruthven](/setts/s6/y6g30b36r60g2r4-b000052-g11450d-raa0000-yaaaaaa/)|
+|![Ruthven example sett](/setts/s6/y6g30b36r60g2r4-b000052-g11450d-raa0000-yaaaaaa/sett.png)|
+| [Ruthven](/setts/s6/y3g15b18r30g1r2-b000052-g11450d-raa0000-yaaaaaa/)|
+|![Ruthven example sett](/setts/s6/y3g15b18r30g1r2-b000052-g11450d-raa0000-yaaaaaa/sett.png)|

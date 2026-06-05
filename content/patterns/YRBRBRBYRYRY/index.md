@@ -16,7 +16,7 @@ YRBRBRBYRYRY
 
 | Tartans |
 |---------------|
-| [Menzies VS](/setts/s12/y4r40b2r2b2r6b10y48r6y4r2y8-b59110d-raa0000-yaaaaaa/)|
-|![Menzies VS example sett](/setts/s12/y4r40b2r2b2r6b10y48r6y4r2y8-b59110d-raa0000-yaaaaaa/sett.png)|
-| [Menzies VS](/setts/s12/y4r40b2r2b2r6b10y48r6y4r2y8-b59110d-raa0000-yaaaaaa/)|
-|![Menzies VS example sett](/setts/s12/y4r40b2r2b2r6b10y48r6y4r2y8-b59110d-raa0000-yaaaaaa/sett.png)|
+| [Menzies VS](/setts/s12/y8r2y4r6y48b10r6b2r2b2r40y4-b59110d-raa0000-yaaaaaa/)|
+|![Menzies VS example sett](/setts/s12/y8r2y4r6y48b10r6b2r2b2r40y4-b59110d-raa0000-yaaaaaa/sett.png)|
+| [Menzies VS](/setts/s12/y8r2y4r6y48b10r6b2r2b2r40y4-b59110d-raa0000-yaaaaaa/)|
+|![Menzies VS example sett](/setts/s12/y8r2y4r6y48b10r6b2r2b2r40y4-b59110d-raa0000-yaaaaaa/sett.png)|

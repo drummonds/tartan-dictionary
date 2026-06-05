@@ -16,5 +16,5 @@ BGWGRGRGW
 
 | Tartans |
 |---------------|
-| [Cadenhead (2015)](/setts/s9/b12g16w2g16r8g24ra8ga8wa108-b000086-g289c18-ga603800-r9c68a4-ra888888-wffffff-wa98c8e8/)|
-|![Cadenhead (2015) example sett](/setts/s9/b12g16w2g16r8g24ra8ga8wa108-b000086-g289c18-ga603800-r9c68a4-ra888888-wffffff-wa98c8e8/sett.png)|
+| [Cadenhead (2015)](/setts/s9/w108g8r8ga24ra8ga16wa2ga16b12-b000086-g603800-ga289c18-r888888-ra9c68a4-w98c8e8-waffffff/)|
+|![Cadenhead (2015) example sett](/setts/s9/w108g8r8ga24ra8ga16wa2ga16b12-b000086-g603800-ga289c18-r888888-ra9c68a4-w98c8e8-waffffff/sett.png)|

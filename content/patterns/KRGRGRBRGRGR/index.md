@@ -16,5 +16,5 @@ KRGRGRBRGRGR
 
 | Tartans |
 |---------------|
-| [Capricornica / Capricornia](/setts/s12/k6r20g10r20g10r20b20r20g10r20g10r20-b202060-g003820-k000000-r880000/)|
-|![Capricornica / Capricornia example sett](/setts/s12/k6r20g10r20g10r20b20r20g10r20g10r20-b202060-g003820-k000000-r880000/sett.png)|
+| [Capricornica / Capricornia](/setts/s12/r20g10r20g10r20b20r20g10r20g10r20k6-b202060-g003820-k000000-r880000/)|
+|![Capricornica / Capricornia example sett](/setts/s12/r20g10r20g10r20b20r20g10r20g10r20k6-b202060-g003820-k000000-r880000/sett.png)|

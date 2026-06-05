@@ -16,5 +16,5 @@ RKWRKBKBKYYWBW
 
 | Tartans |
 |---------------|
-| [MacInnes Ancient Htg (Clan?)](/setts/s14/r4k4w2r6k4b6k4b6k8y4ya16w20b6w16-b2c2c80-k101010-rc80000-we0e0e0-ye8c000-yaa08858/)|
-|![MacInnes Ancient Htg (Clan?) example sett](/setts/s14/r4k4w2r6k4b6k4b6k8y4ya16w20b6w16-b2c2c80-k101010-rc80000-we0e0e0-ye8c000-yaa08858/sett.png)|
+| [MacInnes Ancient Htg (Clan?)](/setts/s14/w16b6w20y16ya4k8b6k4b6k4r6w2k4r4-b2c2c80-k101010-rc80000-we0e0e0-ya08858-yae8c000/)|
+|![MacInnes Ancient Htg (Clan?) example sett](/setts/s14/w16b6w20y16ya4k8b6k4b6k4r6w2k4r4-b2c2c80-k101010-rc80000-we0e0e0-ya08858-yae8c000/sett.png)|

@@ -16,5 +16,5 @@ KGKGKGKWBR
 
 | Tartans |
 |---------------|
-| [Crookdake-Cheng (Personal)](/setts/s10/k2g4k4g4k8g12k12w12b48r4-b00008c-g007800-k000000-r8c0000-wc8c8c8/)|
-|![Crookdake-Cheng (Personal) example sett](/setts/s10/k2g4k4g4k8g12k12w12b48r4-b00008c-g007800-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Crookdake-Cheng (Personal)](/setts/s10/r4b48w12k12g12k8g4k4g4k2-b00008c-g007800-k000000-r8c0000-wc8c8c8/)|
+|![Crookdake-Cheng (Personal) example sett](/setts/s10/r4b48w12k12g12k8g4k4g4k2-b00008c-g007800-k000000-r8c0000-wc8c8c8/sett.png)|

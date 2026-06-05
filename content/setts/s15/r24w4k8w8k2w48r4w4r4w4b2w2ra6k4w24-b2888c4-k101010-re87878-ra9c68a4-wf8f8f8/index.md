@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RWKWKWRWRWBWRKW](/patterns/rwkwkwrwrwbwrkw/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7843/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5795
 
 ## Thread count
 LR/24 W4 K8 W8 K2 W48 LR4 W4 LR4 W4 B2 W2 LP6 K4 W/24

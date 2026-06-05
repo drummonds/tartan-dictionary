@@ -6,7 +6,7 @@ BWBBWBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b12w6b80ba14w20ba6r30-b780078-ba5c5c5c-re87878-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/r30b6w20b14ba80w6ba12-b5c5c5c-ba780078-re87878-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBBWBR
 
 | Tartans |
 |---------------|
-| [Loughborough Sport](/setts/s7/b12w6b80ba14w20ba6r30-b780078-ba5c5c5c-re87878-wfcfcfc/)|
-|![Loughborough Sport example sett](/setts/s7/b12w6b80ba14w20ba6r30-b780078-ba5c5c5c-re87878-wfcfcfc/sett.png)|
+| [Loughborough Sport](/setts/s7/r30b6w20b14ba80w6ba12-b5c5c5c-ba780078-re87878-wfcfcfc/)|
+|![Loughborough Sport example sett](/setts/s7/r30b6w20b14ba80w6ba12-b5c5c5c-ba780078-re87878-wfcfcfc/sett.png)|

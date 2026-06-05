@@ -34,10 +34,10 @@ BGR
 |![Ferguson example sett](/setts/s3/b24g20r4-b304080-g008000-rc00000/sett.png)|
 | [Wilson's No 84, Ferguson](/setts/s3/b20g24r4-b304080-g008000-rc00000/)|
 |![Wilson's No 84, Ferguson example sett](/setts/s3/b20g24r4-b304080-g008000-rc00000/sett.png)|
-| [Wilson's, No 188](/setts/s3/b4g8r16-b5480b0-g008000-rc00000/)|
-|![Wilson's, No 188 example sett](/setts/s3/b4g8r16-b5480b0-g008000-rc00000/sett.png)|
-| [Wilson's, No 207](/setts/s3/b4g8r8-b5480b0-g008000-rc00000/)|
-|![Wilson's, No 207 example sett](/setts/s3/b4g8r8-b5480b0-g008000-rc00000/sett.png)|
+| [Wilson's, No 188](/setts/s3/r16g8b4-b5480b0-g008000-rc00000/)|
+|![Wilson's, No 188 example sett](/setts/s3/r16g8b4-b5480b0-g008000-rc00000/sett.png)|
+| [Wilson's, No 207](/setts/s3/r8g8b4-b5480b0-g008000-rc00000/)|
+|![Wilson's, No 207 example sett](/setts/s3/r8g8b4-b5480b0-g008000-rc00000/sett.png)|
 | [Wilson's, No 61](/setts/s3/b8g14r8-b5480b0-g008000-rc00000/)|
 |![Wilson's, No 61 example sett](/setts/s3/b8g14r8-b5480b0-g008000-rc00000/sett.png)|
 | [Agnew Family Tartan Tartan Number: 182. Earliest known date: 1978 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/b53g42r14-b2c2c80-g006818-rc80000/)|

@@ -16,5 +16,5 @@ GKYBGBGKGKGKWK
 
 | Tartans |
 |---------------|
-| [MacAlpine D](/setts/s14/g1k4y1b4g1b1g6k1g6k1g1k4w1k4-b00004c-g004c00-k000000-wd0d0d0-yffff00/)|
-|![MacAlpine D example sett](/setts/s14/g1k4y1b4g1b1g6k1g6k1g1k4w1k4-b00004c-g004c00-k000000-wd0d0d0-yffff00/sett.png)|
+| [MacAlpine D](/setts/s14/k4w1k4g1k1g6k1g6b1g1b4y1k4g1-b00004c-g004c00-k000000-wd0d0d0-yffff00/)|
+|![MacAlpine D example sett](/setts/s14/k4w1k4g1k1g6k1g6b1g1b4y1k4g1-b00004c-g004c00-k000000-wd0d0d0-yffff00/sett.png)|

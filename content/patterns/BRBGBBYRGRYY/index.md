@@ -16,5 +16,5 @@ BRBGBBYRGRYY
 
 | Tartans |
 |---------------|
-| [Rainbow Kilt (Fashion)](/setts/s12/b2r4ba4g24b24ba24y4r4g4ra24ya24y24-b2c2c80-ba780078-g289c18-rc80000-rac04c08-ye8c000-yad87c00/)|
-|![Rainbow Kilt (Fashion) example sett](/setts/s12/b2r4ba4g24b24ba24y4r4g4ra24ya24y24-b2c2c80-ba780078-g289c18-rc80000-rac04c08-ye8c000-yad87c00/sett.png)|
+| [Rainbow Kilt (Fashion)](/setts/s12/y24ya24r24g4ra4y4b24ba24g24b4ra4ba2-b780078-ba2c2c80-g289c18-rc04c08-rac80000-ye8c000-yad87c00/)|
+|![Rainbow Kilt (Fashion) example sett](/setts/s12/y24ya24r24g4ra4y4b24ba24g24b4ra4ba2-b780078-ba2c2c80-g289c18-rc04c08-rac80000-ye8c000-yad87c00/sett.png)|

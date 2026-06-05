@@ -6,7 +6,7 @@ GBK
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/g18b20k22-b800080-g008000-k000000/tartan.png)
+![Woven sample](/setts/s3/k22b20g18-b800080-g008000-k000000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBK
 
 | Tartans |
 |---------------|
-| [Wilson's, No 185](/setts/s3/g18b20k22-b800080-g008000-k000000/)|
-|![Wilson's, No 185 example sett](/setts/s3/g18b20k22-b800080-g008000-k000000/sett.png)|
+| [Wilson's, No 185](/setts/s3/k22b20g18-b800080-g008000-k000000/)|
+|![Wilson's, No 185 example sett](/setts/s3/k22b20g18-b800080-g008000-k000000/sett.png)|
 | [Wilson's, No 45](/setts/s3/g16b4k8-b5480b0-g008000-k000000/)|
 |![Wilson's, No 45 example sett](/setts/s3/g16b4k8-b5480b0-g008000-k000000/sett.png)|

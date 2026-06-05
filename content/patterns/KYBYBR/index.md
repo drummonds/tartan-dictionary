@@ -6,7 +6,7 @@ KYBYBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8y8b12ya8ba116r10-b5f749c-ba2c2c80-k1c1714-rc82828-yf8e38c-yab0b0b0/tartan.png)
+![Woven sample](/setts/s6/r10b116y8ba12ya8k8-b2c2c80-ba5f749c-k1c1714-rc82828-yb0b0b0-yaf8e38c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYBYBR
 
 | Tartans |
 |---------------|
-| [Kendle (2013)](/setts/s6/k8y8b12ya8ba116r10-b5f749c-ba2c2c80-k1c1714-rc82828-yf8e38c-yab0b0b0/)|
-|![Kendle (2013) example sett](/setts/s6/k8y8b12ya8ba116r10-b5f749c-ba2c2c80-k1c1714-rc82828-yf8e38c-yab0b0b0/sett.png)|
+| [Kendle (2013)](/setts/s6/r10b116y8ba12ya8k8-b2c2c80-ba5f749c-k1c1714-rc82828-yb0b0b0-yaf8e38c/)|
+|![Kendle (2013) example sett](/setts/s6/r10b116y8ba12ya8k8-b2c2c80-ba5f749c-k1c1714-rc82828-yb0b0b0-yaf8e38c/sett.png)|

@@ -16,5 +16,5 @@ RBWYBYBWR
 
 | Tartans |
 |---------------|
-| [Outlander #2](/setts/s9/r48w8b48y48b8y48w8b48r56-b5c5c5c-r888888-w98c8e8-ya08858/)|
-|![Outlander #2 example sett](/setts/s9/r48w8b48y48b8y48w8b48r56-b5c5c5c-r888888-w98c8e8-ya08858/sett.png)|
+| [Outlander #2](/setts/s9/r56b48w8y48b8y48b48w8r48-b5c5c5c-r888888-w98c8e8-ya08858/)|
+|![Outlander #2 example sett](/setts/s9/r56b48w8y48b8y48b48w8r48-b5c5c5c-r888888-w98c8e8-ya08858/sett.png)|

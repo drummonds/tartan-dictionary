@@ -16,7 +16,7 @@ KWRBWKYWR
 
 | Tartans |
 |---------------|
-| [Craparo](/setts/s9/k4w6r60b60w6k50y8w12ra6-b5c5c5c-k101010-r888888-ra880000-we0e0e0-ye8c000/)|
-|![Craparo example sett](/setts/s9/k4w6r60b60w6k50y8w12ra6-b5c5c5c-k101010-r888888-ra880000-we0e0e0-ye8c000/sett.png)|
-| [Craparo (Name)](/setts/s9/k4w6r60b60w6k50y8w12ra6-b5c5c5c-k101010-r888888-ra880000-we0e0e0-ye8c000/)|
-|![Craparo (Name) example sett](/setts/s9/k4w6r60b60w6k50y8w12ra6-b5c5c5c-k101010-r888888-ra880000-we0e0e0-ye8c000/sett.png)|
+| [Craparo](/setts/s9/r6w12y8k50w6b60ra60w6k4-b5c5c5c-k101010-r880000-ra888888-we0e0e0-ye8c000/)|
+|![Craparo example sett](/setts/s9/r6w12y8k50w6b60ra60w6k4-b5c5c5c-k101010-r880000-ra888888-we0e0e0-ye8c000/sett.png)|
+| [Craparo (Name)](/setts/s9/r6w12y8k50w6b60ra60w6k4-b5c5c5c-k101010-r880000-ra888888-we0e0e0-ye8c000/)|
+|![Craparo (Name) example sett](/setts/s9/r6w12y8k50w6b60ra60w6k4-b5c5c5c-k101010-r880000-ra888888-we0e0e0-ye8c000/sett.png)|

@@ -6,7 +6,7 @@ BRBKGBGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4r20b4k12g6ba4g4ra6-b00008c-ba646464-g004c00-k000000-ra0783c-ra8c0000/tartan.png)
+![Woven sample](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRBKGBGR
 
 | Tartans |
 |---------------|
-| [Burnfoot Check](/setts/s8/b4r20b4k12g6ba4g4ra6-b00008c-ba646464-g004c00-k000000-ra0783c-ra8c0000/)|
-|![Burnfoot Check example sett](/setts/s8/b4r20b4k12g6ba4g4ra6-b00008c-ba646464-g004c00-k000000-ra0783c-ra8c0000/sett.png)|
-| [Burnfoot Check (Fashion)](/setts/s8/b4r20b4k12g6ba4g4ra6-b00008c-ba646464-g004c00-k000000-ra0783c-ra8c0000/)|
-|![Burnfoot Check (Fashion) example sett](/setts/s8/b4r20b4k12g6ba4g4ra6-b00008c-ba646464-g004c00-k000000-ra0783c-ra8c0000/sett.png)|
+| [Burnfoot Check](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/)|
+|![Burnfoot Check example sett](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/sett.png)|
+| [Burnfoot Check (Fashion)](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/)|
+|![Burnfoot Check (Fashion) example sett](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/sett.png)|

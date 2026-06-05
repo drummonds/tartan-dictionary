@@ -6,7 +6,7 @@ WBBWBYBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w14b12ba42w4b42y16ba4ya30-b1c1c50-ba2c2c80-we0e0e0-ya0a0a0-yabc8c00/tartan.png)
+![Woven sample](/setts/s8/y30b4ya16ba42w4b42ba12w14-b2c2c80-ba1c1c50-we0e0e0-ybc8c00-yaa0a0a0/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WBBWBYBY
 
 | Tartans |
 |---------------|
-| [Monaghan County, Crest Range](/setts/s8/w14b12ba42w4b42y16ba4ya30-b1c1c50-ba2c2c80-we0e0e0-ya0a0a0-yabc8c00/)|
-|![Monaghan County, Crest Range example sett](/setts/s8/w14b12ba42w4b42y16ba4ya30-b1c1c50-ba2c2c80-we0e0e0-ya0a0a0-yabc8c00/sett.png)|
-| [Monaghan County Crest (Fashion)](/setts/s8/w14b12ba42w4b42y16ba4ya30-b1c1c50-ba2c2c80-we0e0e0-ya0a0a0-yabc8c00/)|
-|![Monaghan County Crest (Fashion) example sett](/setts/s8/w14b12ba42w4b42y16ba4ya30-b1c1c50-ba2c2c80-we0e0e0-ya0a0a0-yabc8c00/sett.png)|
+| [Monaghan County, Crest Range](/setts/s8/y30b4ya16ba42w4b42ba12w14-b2c2c80-ba1c1c50-we0e0e0-ybc8c00-yaa0a0a0/)|
+|![Monaghan County, Crest Range example sett](/setts/s8/y30b4ya16ba42w4b42ba12w14-b2c2c80-ba1c1c50-we0e0e0-ybc8c00-yaa0a0a0/sett.png)|
+| [Monaghan County Crest (Fashion)](/setts/s8/y30b4ya16ba42w4b42ba12w14-b2c2c80-ba1c1c50-we0e0e0-ybc8c00-yaa0a0a0/)|
+|![Monaghan County Crest (Fashion) example sett](/setts/s8/y30b4ya16ba42w4b42ba12w14-b2c2c80-ba1c1c50-we0e0e0-ybc8c00-yaa0a0a0/sett.png)|

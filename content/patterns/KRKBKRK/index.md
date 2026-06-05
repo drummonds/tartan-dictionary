@@ -6,7 +6,7 @@ KRKBKRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k37r3k11b9k11r3k72-b2888c4-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/k72r3k11b9k11r3k37-b2888c4-k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKBKRK
 
 | Tartans |
 |---------------|
-| [Chafyn House (School)](/setts/s7/k37r3k11b9k11r3k72-b2888c4-k101010-rc80000/)|
-|![Chafyn House (School) example sett](/setts/s7/k37r3k11b9k11r3k72-b2888c4-k101010-rc80000/sett.png)|
+| [Chafyn House (School)](/setts/s7/k72r3k11b9k11r3k37-b2888c4-k101010-rc80000/)|
+|![Chafyn House (School) example sett](/setts/s7/k72r3k11b9k11r3k37-b2888c4-k101010-rc80000/sett.png)|

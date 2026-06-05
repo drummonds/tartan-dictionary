@@ -16,7 +16,5 @@ BRBRBWGWGRGYG
 
 | Tartans |
 |---------------|
-| [Bowie (Dalgety)](/setts/s13/b16r4b6r8b26w4g26w4ga26r8ga8y4ga16-b000048-g784c18-ga184800-rf03000-wfcfcfc-yc88c00/)|
-|![Bowie (Dalgety) example sett](/setts/s13/b16r4b6r8b26w4g26w4ga26r8ga8y4ga16-b000048-g784c18-ga184800-rf03000-wfcfcfc-yc88c00/sett.png)|
 | [Bowie (white lines) (Name)](/setts/s13/b16r4b6r8b26w4g26w4ga26r8ga8y4ga16-b000048-g784c18-ga184800-rf03000-wfcfcfc-yc88c00/)|
 |![Bowie (white lines) (Name) example sett](/setts/s13/b16r4b6r8b26w4g26w4ga26r8ga8y4ga16-b000048-g784c18-ga184800-rf03000-wfcfcfc-yc88c00/sett.png)|

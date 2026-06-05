@@ -16,7 +16,7 @@ WBGKGKYWBWYGKGYWBYWRGGKBRKWRWBGRWKBKWRGW
 
 | Tartans |
 |---------------|
-| [Valencia](/setts/s40/w2g36r4w6k2b7k2w2r4g18ba16w2r8w2k22r48ba8k8ga64g16r8w2y4b7w6y36g12k8g12y4w6b7w6y4k8g48k8g8ba16w4-b5c8ca8-ba2c2c80-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Valencia example sett](/setts/s40/w2g36r4w6k2b7k2w2r4g18ba16w2r8w2k22r48ba8k8ga64g16r8w2y4b7w6y36g12k8g12y4w6b7w6y4k8g48k8g8ba16w4-b5c8ca8-ba2c2c80-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [Valencia (Commemorative)](/setts/s40/w2g36r4w6k2b7k2w2r4g18ba16w2r8w2k22r48ba8k8ga64g16r8w2y4b7w6y36g12k8g12y4w6b7w6y4k8g48k8g8ba16w4-b5c8ca8-ba2c2c80-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Valencia (Commemorative) example sett](/setts/s40/w2g36r4w6k2b7k2w2r4g18ba16w2r8w2k22r48ba8k8ga64g16r8w2y4b7w6y36g12k8g12y4w6b7w6y4k8g48k8g8ba16w4-b5c8ca8-ba2c2c80-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Valencia](/setts/s40/w4b16g8k8g48k8y4w6ba7w6y4g12k8g12y36w6ba7y4w2r8g16ga64k8b8r48k22w2r8w2b16g18r4w2k2ba7k2w6r4g36w2-b2c2c80-ba5c8ca8-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![Valencia example sett](/setts/s40/w4b16g8k8g48k8y4w6ba7w6y4g12k8g12y36w6ba7y4w2r8g16ga64k8b8r48k22w2r8w2b16g18r4w2k2ba7k2w6r4g36w2-b2c2c80-ba5c8ca8-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Valencia (Commemorative)](/setts/s40/w4b16g8k8g48k8y4w6ba7w6y4g12k8g12y36w6ba7y4w2r8g16ga64k8b8r48k22w2r8w2b16g18r4w2k2ba7k2w6r4g36w2-b2c2c80-ba5c8ca8-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![Valencia (Commemorative) example sett](/setts/s40/w4b16g8k8g48k8y4w6ba7w6y4g12k8g12y36w6ba7y4w2r8g16ga64k8b8r48k22w2r8w2b16g18r4w2k2ba7k2w6r4g36w2-b2c2c80-ba5c8ca8-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

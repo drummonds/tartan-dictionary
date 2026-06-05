@@ -16,5 +16,5 @@ GKRKWKGWKWG
 
 | Tartans |
 |---------------|
-| [Laggen Dress](/setts/s11/g4w6k4w12g20k4w4k4r4k20g84-g648860-k002008-r780028-wc8c8c8/)|
-|![Laggen Dress example sett](/setts/s11/g4w6k4w12g20k4w4k4r4k20g84-g648860-k002008-r780028-wc8c8c8/sett.png)|
+| [Laggen Dress](/setts/s11/g84k20r4k4w4k4g20w12k4w6g4-g648860-k002008-r780028-wc8c8c8/)|
+|![Laggen Dress example sett](/setts/s11/g84k20r4k4w4k4g20w12k4w6g4-g648860-k002008-r780028-wc8c8c8/sett.png)|

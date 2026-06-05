@@ -16,5 +16,5 @@ BRWBWBWBWBWBWR
 
 | Tartans |
 |---------------|
-| [Jubilation](/setts/s14/b4r22w26b60w26b22w4b16w4b22w26b60w26r22-b1c0070-rc80000-we0e0e0/)|
-|![Jubilation example sett](/setts/s14/b4r22w26b60w26b22w4b16w4b22w26b60w26r22-b1c0070-rc80000-we0e0e0/sett.png)|
+| [Jubilation](/setts/s14/r22w26b60w26b22w4b16w4b22w26b60w26r22b4-b1c0070-rc80000-we0e0e0/)|
+|![Jubilation example sett](/setts/s14/r22w26b60w26b22w4b16w4b22w26b60w26r22b4-b1c0070-rc80000-we0e0e0/sett.png)|

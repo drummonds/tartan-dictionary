@@ -1,13 +1,13 @@
 ---
-title: "Ayrton (1979) (Personal)"
+title: "Ayrton Family Tartan Tartan Number: 1584. Earliest known date: pre 2003 Amended version See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RKGKBKGKBKY](/patterns/rkgkbkgkbky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1584/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1584
 
 ## Thread count
 R/8 K4 G50 K4 B20 K4 G8 K4 DB50 K4 Y/8

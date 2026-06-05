@@ -6,7 +6,7 @@ WBKBKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4b10k4b52k52w8-b5c8ca8-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/w8k52b52k4b10w4-b5c8ca8-k101010-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBKBKW
 
 | Tartans |
 |---------------|
-| [Indian Pipe Band (Corporate)](/setts/s6/w4b10k4b52k52w8-b5c8ca8-k101010-wfcfcfc/)|
-|![Indian Pipe Band (Corporate) example sett](/setts/s6/w4b10k4b52k52w8-b5c8ca8-k101010-wfcfcfc/sett.png)|
+| [Indian Pipe Band (Corporate)](/setts/s6/w8k52b52k4b10w4-b5c8ca8-k101010-wfcfcfc/)|
+|![Indian Pipe Band (Corporate) example sett](/setts/s6/w8k52b52k4b10w4-b5c8ca8-k101010-wfcfcfc/sett.png)|

@@ -6,7 +6,7 @@ RYWKBYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4y4w28k40b52ya52w52-b4ca4d8-k101010-rc80000-wfcfcfc-ye8c000-ya68c060/tartan.png)
+![Woven sample](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RYWKBYW
 
 | Tartans |
 |---------------|
-| [Lachine Historic](/setts/s7/r4y4w28k40b52ya52w52-b4ca4d8-k101010-rc80000-wfcfcfc-ye8c000-ya68c060/)|
-|![Lachine Historic example sett](/setts/s7/r4y4w28k40b52ya52w52-b4ca4d8-k101010-rc80000-wfcfcfc-ye8c000-ya68c060/sett.png)|
-| [Lachine (Historic) (District)](/setts/s7/r4y4w28k40b52ya52w52-b4ca4d8-k101010-rc80000-wfcfcfc-ye8c000-ya68c060/)|
-|![Lachine (Historic) (District) example sett](/setts/s7/r4y4w28k40b52ya52w52-b4ca4d8-k101010-rc80000-wfcfcfc-ye8c000-ya68c060/sett.png)|
+| [Lachine Historic](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/)|
+|![Lachine Historic example sett](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/sett.png)|
+| [Lachine (Historic) (District)](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/)|
+|![Lachine (Historic) (District) example sett](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/sett.png)|

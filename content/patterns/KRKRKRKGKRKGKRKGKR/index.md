@@ -16,5 +16,5 @@ KRKRKRKGKRKGKRKGKR
 
 | Tartans |
 |---------------|
-| [Bumbee #2 (Fashion)](/setts/s18/k4r4k4ra4k4r40k4g4k4r4k4g40k4ra4k4g4k4ra40-g484800-k000000-r880000-rafc6c18/)|
-|![Bumbee #2 (Fashion) example sett](/setts/s18/k4r4k4ra4k4r40k4g4k4r4k4g40k4ra4k4g4k4ra40-g484800-k000000-r880000-rafc6c18/sett.png)|
+| [Bumbee #2 (Fashion)](/setts/s18/r40k4g4k4r4k4g40k4ra4k4g4k4ra40k4r4k4ra4k4-g484800-k000000-rfc6c18-ra880000/)|
+|![Bumbee #2 (Fashion) example sett](/setts/s18/r40k4g4k4r4k4g40k4ra4k4g4k4ra40k4r4k4ra4k4-g484800-k000000-rfc6c18-ra880000/sett.png)|

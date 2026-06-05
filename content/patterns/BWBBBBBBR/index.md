@@ -16,5 +16,5 @@ BWBBBBBBR
 
 | Tartans |
 |---------------|
-| [Dauphinee, Andrew Hunter (Personal)](/setts/s9/b2w2b32ba4b8ba6b4ba64r6-b172d60-ba3c4359-ra00000-wf8f4d0/)|
-|![Dauphinee, Andrew Hunter (Personal) example sett](/setts/s9/b2w2b32ba4b8ba6b4ba64r6-b172d60-ba3c4359-ra00000-wf8f4d0/sett.png)|
+| [Dauphinee, Andrew Hunter (Personal)](/setts/s9/r6b64ba4b6ba8b4ba32w2ba2-b3c4359-ba172d60-ra00000-wf8f4d0/)|
+|![Dauphinee, Andrew Hunter (Personal) example sett](/setts/s9/r6b64ba4b6ba8b4ba32w2ba2-b3c4359-ba172d60-ra00000-wf8f4d0/sett.png)|

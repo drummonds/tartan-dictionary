@@ -16,5 +16,5 @@ BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKRWRGRKGKRWRKGKRGRWRKRKRK
 
 | Tartans |
 |---------------|
-| [Innes of Cowie](/setts/s60/b4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24g4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24-b1c0070-g006818-k101010-r880000-wfcfcfc/)|
-|![Innes of Cowie example sett](/setts/s60/b4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24g4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24-b1c0070-g006818-k101010-r880000-wfcfcfc/sett.png)|
+| [Innes of Cowie](/setts/s60/k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24g4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24b4-b1c0070-g006818-k101010-r880000-wfcfcfc/)|
+|![Innes of Cowie example sett](/setts/s60/k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24g4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24b4-b1c0070-g006818-k101010-r880000-wfcfcfc/sett.png)|

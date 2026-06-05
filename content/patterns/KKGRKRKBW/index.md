@@ -16,5 +16,5 @@ KKGRKRKBW
 
 | Tartans |
 |---------------|
-| [Dunedin (USA) (District)](/setts/s9/k4k6g42r16k6r6k6b50w6-b2888c4-g006818-k101010-rc80000-wfcfcfc/)|
-|![Dunedin (USA) (District) example sett](/setts/s9/k4k6g42r16k6r6k6b50w6-b2888c4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Dunedin (USA) (District)](/setts/s9/w6b50k6r6k6r16g42k6k4-b2888c4-g006818-k101010-rc80000-wfcfcfc/)|
+|![Dunedin (USA) (District) example sett](/setts/s9/w6b50k6r6k6r16g42k6k4-b2888c4-g006818-k101010-rc80000-wfcfcfc/sett.png)|

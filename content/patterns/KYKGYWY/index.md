@@ -6,7 +6,7 @@ KYKGYWY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k12y6k40g40ya40w8ya60-g006818-k101010-we0e0e0-yd87c00-yaa08858/tartan.png)
+![Woven sample](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KYKGYWY
 
 | Tartans |
 |---------------|
-| [St Andrews Bay](/setts/s7/k12y6k40g40ya40w8ya60-g006818-k101010-we0e0e0-yd87c00-yaa08858/)|
-|![St Andrews Bay example sett](/setts/s7/k12y6k40g40ya40w8ya60-g006818-k101010-we0e0e0-yd87c00-yaa08858/sett.png)|
-| [St. Andrews Bay Hotel (Corporate)](/setts/s7/k12y6k40g40ya40w8ya60-g006818-k101010-we0e0e0-yd87c00-yaa08858/)|
-|![St. Andrews Bay Hotel (Corporate) example sett](/setts/s7/k12y6k40g40ya40w8ya60-g006818-k101010-we0e0e0-yd87c00-yaa08858/sett.png)|
+| [St Andrews Bay](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/)|
+|![St Andrews Bay example sett](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/sett.png)|
+| [St. Andrews Bay Hotel (Corporate)](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/)|
+|![St. Andrews Bay Hotel (Corporate) example sett](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/sett.png)|

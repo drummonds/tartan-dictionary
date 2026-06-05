@@ -16,7 +16,7 @@ GRWYRGRYRG
 
 | Tartans |
 |---------------|
-| [Glendronach Distillery](/setts/s10/g40r4y12r88g24r4y12w4r8g88-g103010-r70000c-wc4c4c4-yfcac00/)|
-|![Glendronach Distillery example sett](/setts/s10/g40r4y12r88g24r4y12w4r8g88-g103010-r70000c-wc4c4c4-yfcac00/sett.png)|
-| [Glendronach Distillery (Corporate)](/setts/s10/g40r4y12r88g24r4y12w4r8g88-g103010-r70000c-wc4c4c4-yfcac00/)|
-|![Glendronach Distillery (Corporate) example sett](/setts/s10/g40r4y12r88g24r4y12w4r8g88-g103010-r70000c-wc4c4c4-yfcac00/sett.png)|
+| [Glendronach Distillery](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/)|
+|![Glendronach Distillery example sett](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/sett.png)|
+| [Glendronach Distillery (Corporate)](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/)|
+|![Glendronach Distillery (Corporate) example sett](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/sett.png)|

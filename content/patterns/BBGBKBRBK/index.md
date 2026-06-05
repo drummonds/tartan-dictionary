@@ -16,5 +16,5 @@ BBGBKBRBK
 
 | Tartans |
 |---------------|
-| [Jethart](/setts/s9/b10ba6g6ba32k6ba32r6ba32k44-b8080d0-ba304080-g30a010-k000030-rc00000/)|
-|![Jethart example sett](/setts/s9/b10ba6g6ba32k6ba32r6ba32k44-b8080d0-ba304080-g30a010-k000030-rc00000/sett.png)|
+| [Jethart](/setts/s9/k44b32r6b32k6b32g6b6ba10-b304080-ba8080d0-g30a010-k000030-rc00000/)|
+|![Jethart example sett](/setts/s9/k44b32r6b32k6b32g6b6ba10-b304080-ba8080d0-g30a010-k000030-rc00000/sett.png)|

@@ -16,7 +16,7 @@ GRGWGWGYGYGY
 
 | Tartans |
 |---------------|
-| [O'Brien](/setts/s12/g12r6g24w6g4w6g12y4g6y4g12ya26-g408060-rc80000-wa8ace8-ye8c000-yad87c00/)|
-|![O'Brien example sett](/setts/s12/g12r6g24w6g4w6g12y4g6y4g12ya26-g408060-rc80000-wa8ace8-ye8c000-yad87c00/sett.png)|
-| [O'Brien (Name)](/setts/s12/g12r6g24w6g4w6g12y4g6y4g12ya26-g408060-rc80000-wa8ace8-ye8c000-yad87c00/)|
-|![O'Brien (Name) example sett](/setts/s12/g12r6g24w6g4w6g12y4g6y4g12ya26-g408060-rc80000-wa8ace8-ye8c000-yad87c00/sett.png)|
+| [O'Brien](/setts/s12/y26g12ya4g6ya4g12w6g4w6g24r6g12-g408060-rc80000-wa8ace8-yd87c00-yae8c000/)|
+|![O'Brien example sett](/setts/s12/y26g12ya4g6ya4g12w6g4w6g24r6g12-g408060-rc80000-wa8ace8-yd87c00-yae8c000/sett.png)|
+| [O'Brien (Name)](/setts/s12/y26g12ya4g6ya4g12w6g4w6g24r6g12-g408060-rc80000-wa8ace8-yd87c00-yae8c000/)|
+|![O'Brien (Name) example sett](/setts/s12/y26g12ya4g6ya4g12w6g4w6g24r6g12-g408060-rc80000-wa8ace8-yd87c00-yae8c000/sett.png)|

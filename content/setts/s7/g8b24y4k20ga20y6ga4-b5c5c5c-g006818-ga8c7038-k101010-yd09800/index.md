@@ -1,13 +1,13 @@
 ---
-title: "Rothesay"
+title: "Rothesay (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GBYKGYG](/patterns/gbykgyg/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3571
+Original link http://www.tartansauthority.com/tartan-ferret/display/834/
 
 ## Thread count
 G/8 N24 DY4 K20 LT20 DY6 LT/4

@@ -16,5 +16,5 @@ BKBKBKBKBKGYGKBBK
 
 | Tartans |
 |---------------|
-| [North Sea Oil](/setts/s17/b4k2ba4k2b4k2ba4k8ba4k56g8y3g3k4bb38b3k12-b505050-ba1c1c1c-bb141e46-g603800-k000000-ye0a126/)|
-|![North Sea Oil example sett](/setts/s17/b4k2ba4k2b4k2ba4k8ba4k56g8y3g3k4bb38b3k12-b505050-ba1c1c1c-bb141e46-g603800-k000000-ye0a126/sett.png)|
+| [North Sea Oil](/setts/s17/k12b3ba38k4g3y3g8k56bb4k8bb4k2b4k2bb4k2b4-b505050-ba141e46-bb1c1c1c-g603800-k000000-ye0a126/)|
+|![North Sea Oil example sett](/setts/s17/k12b3ba38k4g3y3g8k56bb4k8bb4k2b4k2bb4k2b4-b505050-ba141e46-bb1c1c1c-g603800-k000000-ye0a126/sett.png)|

@@ -16,13 +16,13 @@ GBGRBYRBRYBRGRBYR
 
 | Tartans |
 |---------------|
-| [Lochiel, (Cameron)](/setts/s17/g8b6g6r72ba4y4r6ba24r6y4ba4r6g80r6ba4y4r72-b600030-ba304080-g008000-rc00000-yf0c000/)|
-|![Lochiel, (Cameron) example sett](/setts/s17/g8b6g6r72ba4y4r6ba24r6y4ba4r6g80r6ba4y4r72-b600030-ba304080-g008000-rc00000-yf0c000/sett.png)|
-| [Dalzell](/setts/s17/g12b6g4r64ba4y2r8ba12r8y2ba4r8g64r8ba4y2r48-b59110d-ba000052-g11450d-raa0000-yaaaaaa/)|
-|![Dalzell example sett](/setts/s17/g12b6g4r64ba4y2r8ba12r8y2ba4r8g64r8ba4y2r48-b59110d-ba000052-g11450d-raa0000-yaaaaaa/sett.png)|
-| [Munro](/setts/s17/g4b4g4r32ba2y2r6ba12r6y2ba2r6g32r6ba2y2r48-b59110d-ba000052-g11450d-raa0000-yaaaa00/)|
-|![Munro example sett](/setts/s17/g4b4g4r32ba2y2r6ba12r6y2ba2r6g32r6ba2y2r48-b59110d-ba000052-g11450d-raa0000-yaaaa00/sett.png)|
-| [Dalzell](/setts/s17/g6b3g2r32ba2y1r4ba6r4y1ba2r4g32r4ba2y1r24-b59110d-ba000052-g11450d-raa0000-yaaaaaa/)|
-|![Dalzell example sett](/setts/s17/g6b3g2r32ba2y1r4ba6r4y1ba2r4g32r4ba2y1r24-b59110d-ba000052-g11450d-raa0000-yaaaaaa/sett.png)|
-| [Munro](/setts/s17/g2b2g2r16ba1y1r3ba6r3y1ba1r3g16r3ba1y1r24-b59110d-ba000052-g11450d-raa0000-yaaaa00/)|
-|![Munro example sett](/setts/s17/g2b2g2r16ba1y1r3ba6r3y1ba1r3g16r3ba1y1r24-b59110d-ba000052-g11450d-raa0000-yaaaa00/sett.png)|
+| [Lochiel, (Cameron)](/setts/s17/r72y4b4r6g80r6b4y4r6b24r6y4b4r72g6ba6g8-b304080-ba600030-g008000-rc00000-yf0c000/)|
+|![Lochiel, (Cameron) example sett](/setts/s17/r72y4b4r6g80r6b4y4r6b24r6y4b4r72g6ba6g8-b304080-ba600030-g008000-rc00000-yf0c000/sett.png)|
+| [Dalzell](/setts/s17/r48y2b4r8g64r8b4y2r8b12r8y2b4r64g4ba6g12-b000052-ba59110d-g11450d-raa0000-yaaaaaa/)|
+|![Dalzell example sett](/setts/s17/r48y2b4r8g64r8b4y2r8b12r8y2b4r64g4ba6g12-b000052-ba59110d-g11450d-raa0000-yaaaaaa/sett.png)|
+| [Munro](/setts/s17/r48y2b2r6g32r6b2y2r6b12r6y2b2r32g4ba4g4-b000052-ba59110d-g11450d-raa0000-yaaaa00/)|
+|![Munro example sett](/setts/s17/r48y2b2r6g32r6b2y2r6b12r6y2b2r32g4ba4g4-b000052-ba59110d-g11450d-raa0000-yaaaa00/sett.png)|
+| [Dalzell](/setts/s17/r24y1b2r4g32r4b2y1r4b6r4y1b2r32g2ba3g6-b000052-ba59110d-g11450d-raa0000-yaaaaaa/)|
+|![Dalzell example sett](/setts/s17/r24y1b2r4g32r4b2y1r4b6r4y1b2r32g2ba3g6-b000052-ba59110d-g11450d-raa0000-yaaaaaa/sett.png)|
+| [Munro](/setts/s17/r24y1b1r3g16r3b1y1r3b6r3y1b1r16g2ba2g2-b000052-ba59110d-g11450d-raa0000-yaaaa00/)|
+|![Munro example sett](/setts/s17/r24y1b1r3g16r3b1y1r3b6r3y1b1r16g2ba2g2-b000052-ba59110d-g11450d-raa0000-yaaaa00/sett.png)|

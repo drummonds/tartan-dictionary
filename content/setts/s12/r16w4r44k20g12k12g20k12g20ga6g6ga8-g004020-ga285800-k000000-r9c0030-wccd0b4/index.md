@@ -1,0 +1,31 @@
+---
+title: "Iona"
+date: 2023-03-18
+---
+In pattern [GGGGKGKGKRWR](/patterns/ggggkgkgkrwr/).
+
+
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1849
+
+## Thread count
+DR/16 N4 DR44 K20 DG12 K12 DG20 K12 DG20 Ga6 DG6 Ga/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#004020;"><span style="color:#004020;filter:grayscale(1) invert(1) contrast(100);">#004020</span></code> `#004020` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.13 |
+| DR | <code style="background-color:#9C0030;"><span style="color:#9C0030;filter:grayscale(1) invert(1) contrast(100);">#9C0030</span></code> `#9C0030` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.10 |
+| G | <code style="background-color:#005400;"><span style="color:#005400;filter:grayscale(1) invert(1) contrast(100);">#005400</span></code> `#005400` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.05 |
+| Ga | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.04 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LT | <code style="background-color:#947048;"><span style="color:#947048;filter:grayscale(1) invert(1) contrast(100);">#947048</span></code> `#947048` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.17 |
+| N | <code style="background-color:#CCD0B4;"><span style="color:#CCD0B4;filter:grayscale(1) invert(1) contrast(100);">#CCD0B4</span></code> `#CCD0B4` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.12 |
+| Na | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
+| W | <code style="background-color:#ECECAC;"><span style="color:#ECECAC;filter:grayscale(1) invert(1) contrast(100);">#ECECAC</span></code> `#ECECAC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.09 |
+
+ID: /setts/s12/r16w4r44k20g12k12g20k12g20ga6g6ga8-g004020-ga285800-k000000-r9c0030-wccd0b4/

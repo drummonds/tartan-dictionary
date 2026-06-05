@@ -16,5 +16,5 @@ BRBBYBRBYBBRB
 
 | Tartans |
 |---------------|
-| [Illinois State (District)](/setts/s13/b12r4b4ba24y12ba12r4ba12y12b24ba48r6b12-b202060-ba5c8ca8-r880000-yb8b8b8/)|
-|![Illinois State (District) example sett](/setts/s13/b12r4b4ba24y12ba12r4ba12y12b24ba48r6b12-b202060-ba5c8ca8-r880000-yb8b8b8/sett.png)|
+| [Illinois State (District)](/setts/s13/b12r6ba48b24y12ba12r4ba12y12ba24b4r4b12-b202060-ba5c8ca8-r880000-yb8b8b8/)|
+|![Illinois State (District) example sett](/setts/s13/b12r6ba48b24y12ba12r4ba12y12ba24b4r4b12-b202060-ba5c8ca8-r880000-yb8b8b8/sett.png)|

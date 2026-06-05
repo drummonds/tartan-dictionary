@@ -18,7 +18,5 @@ GRGRGYG
 
 | Tartans |
 |---------------|
-| [Scott Autumn](/setts/s7/g32y6g28r32g4r4g6-g004c00-r8c0000-yc89800/)|
-|![Scott Autumn example sett](/setts/s7/g32y6g28r32g4r4g6-g004c00-r8c0000-yc89800/sett.png)|
 | [Scott Autumn (Fashion)](/setts/s7/g32y6g28r32g4r4g6-g004c00-r8c0000-yc89800/)|
 |![Scott Autumn (Fashion) example sett](/setts/s7/g32y6g28r32g4r4g6-g004c00-r8c0000-yc89800/sett.png)|

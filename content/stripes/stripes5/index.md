@@ -524,13 +524,6 @@ Tartan setts with 5 stripes, grouped by colour-sequence pattern.
 |---|
 | [Crinnion (Personal)](/patterns/bkbbg/) |
 
-### BKBBK
-<a class="pat" href="/patterns/bkbbk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBBK</span></a>
-
-| Tartan |
-|---|
-| [McTear's Auctioneer Corporate Tartan Tartan Number: 11434. Earliest known date: 2015 A corporate tartan for McTear's Auctioneers, Glasgow, designed by Steven & Graham for carpet weaving. The registered design has been adjusted for weaving kilting fabrics See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/bkbbk/) |
-
 ### BKBGK
 <a class="pat" href="/patterns/bkbgk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBGK</span></a>
 
@@ -1379,5 +1372,12 @@ Tartan setts with 5 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Bronte](/patterns/gbryk/) |
+
+### GGBGY
+<a class="pat" href="/patterns/ggbgy/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GGBGY</span></a>
+
+| Tartan |
+|---|
+| [Irving of Bonshaw](/patterns/ggbgy/) |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes5/p2/">2</a> <a href="/stripes/stripes5/p3/">3</a> <a href="/stripes/stripes5/p2/">next ›</a></nav>

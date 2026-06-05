@@ -16,7 +16,7 @@ GRRGRBRGRBRR
 
 | Tartans |
 |---------------|
-| [MacDougall #5](/setts/s12/g10r4ra10g4ra82b24ra12g64ra4b4r4ra14-b2c4084-g005020-rc82828-ra960028/)|
-|![MacDougall #5 example sett](/setts/s12/g10r4ra10g4ra82b24ra12g64ra4b4r4ra14-b2c4084-g005020-rc82828-ra960028/sett.png)|
-| [MacDonald of Glenaladale](/setts/s12/g10r4ra10g4ra82b24ra12g64ra4b4r4ra14-b304080-g008000-rd03030-ra900030/)|
-|![MacDonald of Glenaladale example sett](/setts/s12/g10r4ra10g4ra82b24ra12g64ra4b4r4ra14-b304080-g008000-rd03030-ra900030/sett.png)|
+| [MacDougall #5](/setts/s12/r14ra4b4r4g64r12b24r82g4r10ra4g10-b2c4084-g005020-r960028-rac82828/)|
+|![MacDougall #5 example sett](/setts/s12/r14ra4b4r4g64r12b24r82g4r10ra4g10-b2c4084-g005020-r960028-rac82828/sett.png)|
+| [MacDonald of Glenaladale](/setts/s12/r14ra4b4r4g64r12b24r82g4r10ra4g10-b304080-g008000-r900030-rad03030/)|
+|![MacDonald of Glenaladale example sett](/setts/s12/r14ra4b4r4g64r12b24r82g4r10ra4g10-b304080-g008000-r900030-rad03030/sett.png)|

@@ -6,7 +6,7 @@ BYKGBGBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6y40k30g6ba6g6ba6g24-b2474e8-ba202060-g408060-k000033-y48a4c0/tartan.png)
+![Woven sample](/setts/s8/g24b6g6b6g6k30y40ba6-b202060-ba2474e8-g408060-k000033-y48a4c0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYKGBGBG
 
 | Tartans |
 |---------------|
-| [Lemania](/setts/s8/b6y40k30g6ba6g6ba6g24-b2474e8-ba202060-g408060-k000033-y48a4c0/)|
-|![Lemania example sett](/setts/s8/b6y40k30g6ba6g6ba6g24-b2474e8-ba202060-g408060-k000033-y48a4c0/sett.png)|
+| [Lemania](/setts/s8/g24b6g6b6g6k30y40ba6-b202060-ba2474e8-g408060-k000033-y48a4c0/)|
+|![Lemania example sett](/setts/s8/g24b6g6b6g6k30y40ba6-b202060-ba2474e8-g408060-k000033-y48a4c0/sett.png)|

@@ -6,7 +6,7 @@ BBBBBB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4ba6b80ba28b28ba28-b000060-ba381c0c/tartan.png)
+![Woven sample](/setts/s6/b28ba28b28ba80b6ba4-b381c0c-ba000060/tartan.png)
 
 
 
@@ -18,8 +18,8 @@ BBBBBB
 
 | Tartans |
 |---------------|
-| [Atlin](/setts/s6/b4ba6b80ba28b28ba28-b000060-ba381c0c/)|
-|![Atlin example sett](/setts/s6/b4ba6b80ba28b28ba28-b000060-ba381c0c/sett.png)|
+| [Atlin](/setts/s6/b28ba28b28ba80b6ba4-b381c0c-ba000060/)|
+|![Atlin example sett](/setts/s6/b28ba28b28ba80b6ba4-b381c0c-ba000060/sett.png)|
 | [Dram!](/setts/s6/b20ba4b60ba100b4ba20-b2c2c80-ba5c8ca8/)|
 |![Dram! example sett](/setts/s6/b20ba4b60ba100b4ba20-b2c2c80-ba5c8ca8/sett.png)|
 | [Charles Rennie Mackintosh](/setts/s6/b10ba10b18bb10b10bb10-b1e1e1e-ba32313a-bb5900ce/)|

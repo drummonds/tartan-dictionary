@@ -1,13 +1,13 @@
 ---
-title: "Fraoch's Grian (Fashion)"
+title: "Froach's Grian"
 date: 2023-03-18
 ---
 In pattern [YRYYYYYY](/patterns/yryyyyyy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7095/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1282
 
 ## Thread count
 N/4 LP48 LT28 N50 LT28 N50 Y40 N/4

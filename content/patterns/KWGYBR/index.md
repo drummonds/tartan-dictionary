@@ -6,7 +6,7 @@ KWGYBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k6w16g34y10b32r96-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/tartan.png)
+![Woven sample](/setts/s6/r96b32y10g34w16k6-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWGYBR
 
 | Tartans |
 |---------------|
-| [Scottish American Society of Michigan (Official)](/setts/s6/k6w16g34y10b32r96-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/)|
-|![Scottish American Society of Michigan (Official) example sett](/setts/s6/k6w16g34y10b32r96-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/sett.png)|
+| [Scottish American Society of Michigan (Official)](/setts/s6/r96b32y10g34w16k6-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/)|
+|![Scottish American Society of Michigan (Official) example sett](/setts/s6/r96b32y10g34w16k6-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/sett.png)|

@@ -6,7 +6,7 @@ BKGKWK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b42k10g32k10w10k84-b141e46-g004028-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s6/k84w10k10g32k10b42-b141e46-g004028-k101010-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGKWK
 
 | Tartans |
 |---------------|
-| [Givens (Arizona)](/setts/s6/b42k10g32k10w10k84-b141e46-g004028-k101010-wffffff/)|
-|![Givens (Arizona) example sett](/setts/s6/b42k10g32k10w10k84-b141e46-g004028-k101010-wffffff/sett.png)|
+| [Givens (Arizona)](/setts/s6/k84w10k10g32k10b42-b141e46-g004028-k101010-wffffff/)|
+|![Givens (Arizona) example sett](/setts/s6/k84w10k10g32k10b42-b141e46-g004028-k101010-wffffff/sett.png)|

@@ -16,7 +16,7 @@ BBYBYBYBYBBRB
 
 | Tartans |
 |---------------|
-| [Budge (Personal)](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/)|
-|![Budge (Personal) example sett](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/sett.png)|
-| [Budge (Personal)](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/)|
-|![Budge (Personal) example sett](/setts/s13/b14r6ba8b18y6b12y4b2y8b6y14b8ba96-b003c64-ba5c8ca8-rc80000-y909090/sett.png)|
+| [Budge (Personal)](/setts/s13/b96ba8y14ba6y8ba2y4ba12y6ba18b8r6ba14-b5c8ca8-ba003c64-rc80000-y909090/)|
+|![Budge (Personal) example sett](/setts/s13/b96ba8y14ba6y8ba2y4ba12y6ba18b8r6ba14-b5c8ca8-ba003c64-rc80000-y909090/sett.png)|
+| [Budge (Personal)](/setts/s13/b96ba8y14ba6y8ba2y4ba12y6ba18b8r6ba14-b5c8ca8-ba003c64-rc80000-y909090/)|
+|![Budge (Personal) example sett](/setts/s13/b96ba8y14ba6y8ba2y4ba12y6ba18b8r6ba14-b5c8ca8-ba003c64-rc80000-y909090/sett.png)|

@@ -6,7 +6,7 @@ BBKBWBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8ba4k4ba68w68ba4w10-b2888c4-ba780078-k101010-wf8f8f8/tartan.png)
+![Woven sample](/setts/s7/w10b4w68b68k4b4ba8-b780078-ba2888c4-k101010-wf8f8f8/tartan.png)
 
 
 
@@ -18,8 +18,8 @@ BBKBWBW
 
 | Tartans |
 |---------------|
-| [Cunningham Dress Purple (Dance)](/setts/s7/b8ba4k4ba68w68ba4w10-b2888c4-ba780078-k101010-wf8f8f8/)|
-|![Cunningham Dress Purple (Dance) example sett](/setts/s7/b8ba4k4ba68w68ba4w10-b2888c4-ba780078-k101010-wf8f8f8/sett.png)|
+| [Cunningham Dress Purple (Dance)](/setts/s7/w10b4w68b68k4b4ba8-b780078-ba2888c4-k101010-wf8f8f8/)|
+|![Cunningham Dress Purple (Dance) example sett](/setts/s7/w10b4w68b68k4b4ba8-b780078-ba2888c4-k101010-wf8f8f8/sett.png)|
 | [Cunningham, Dress Blue (Dance)](/setts/s7/b6ba4k4ba56w60ba4w6-b2474e8-ba1c0070-k101010-we0e0e0/)|
 |![Cunningham, Dress Blue (Dance) example sett](/setts/s7/b6ba4k4ba56w60ba4w6-b2474e8-ba1c0070-k101010-we0e0e0/sett.png)|
 | [Cunningham Dress, Blue (Dance)](/setts/s7/b6ba4k4ba56w60ba4w6-b2474e8-ba1c0070-k101010-we0e0e0/)|

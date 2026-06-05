@@ -16,5 +16,5 @@ BYBYBYGKBKW
 
 | Tartans |
 |---------------|
-| [Rwanda](/setts/s11/b4y8b2y4b48ya24g24k2ba32k2w8-b0596fa-ba2c4084-g005020-k101010-we0e0e0-yfa9600-yae8c000/)|
-|![Rwanda example sett](/setts/s11/b4y8b2y4b48ya24g24k2ba32k2w8-b0596fa-ba2c4084-g005020-k101010-we0e0e0-yfa9600-yae8c000/sett.png)|
+| [Rwanda](/setts/s11/w8k2b32k2g24y24ba48ya4ba2ya8ba4-b2c4084-ba0596fa-g005020-k101010-we0e0e0-ye8c000-yafa9600/)|
+|![Rwanda example sett](/setts/s11/w8k2b32k2g24y24ba48ya4ba2ya8ba4-b2c4084-ba0596fa-g005020-k101010-we0e0e0-ye8c000-yafa9600/sett.png)|

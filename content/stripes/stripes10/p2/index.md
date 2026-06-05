@@ -6,21 +6,6 @@ weight: 10
 Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes10/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <strong>2</strong> <a href="/stripes/stripes10/p3/">3</a> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p5/">5</a> <a href="/stripes/stripes10/p3/">next ›</a></nav>
 
-### BRBRBGBGWG
-<a class="pat" href="/patterns/brbrbgbgwg/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="seq">BRBRBGBGWG</span></a>
-
-| Tartan |
-|---|
-| [Bell of Ardbel (Personal)](/patterns/brbrbgbgwg/) |
-| [Bell, John](/patterns/brbrbgbgwg/) |
-
-### BRBRBKGKGK
-<a class="pat" href="/patterns/brbrbkgkgk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">BRBRBKGKGK</span></a>
-
-| Tartan |
-|---|
-| [Park](/patterns/brbrbkgkgk/) |
-
 ### BRBRBKGRGY
 <a class="pat" href="/patterns/brbrbkgrgy/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">BRBRBKGRGY</span></a>
 
@@ -1610,5 +1595,29 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Pride of Ireland Fashion Tartan Tartan Number: 5157. Earliest known date: 2008 ONLY FOR DISPLAY PURPOSES. Count and sample from Lochcarron Feb. 2008. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/gkggkgygky/) |
+
+### GKGKBKBKBR
+<a class="pat" href="/patterns/gkgkbkbkbr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">GKGKBKBKBR</span></a>
+
+| Tartan |
+|---|
+| [Armstrong](/patterns/gkgkbkbkbr/) |
+| [Armstrong](/patterns/gkgkbkbkbr/) |
+| [Armstrong](/patterns/gkgkbkbkbr/) |
+| [Armstrong (Clan)](/patterns/gkgkbkbkbr/) |
+
+### GKGKBKBRBY
+<a class="pat" href="/patterns/gkgkbkbrby/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GKGKBKBRBY</span></a>
+
+| Tartan |
+|---|
+| [Borders Health Board (Corporate)](/patterns/gkgkbkbrby/) |
+
+### GKGKBRBRGR
+<a class="pat" href="/patterns/gkgkbrbrgr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">GKGKBRBRGR</span></a>
+
+| Tartan |
+|---|
+| [Law Society of Scotland (Corporate)](/patterns/gkgkbrbrgr/) |
 
 <nav class="pager"><a href="/stripes/stripes10/">‹ prev</a> <a href="/stripes/stripes10/">1</a> <strong>2</strong> <a href="/stripes/stripes10/p3/">3</a> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p5/">5</a> <a href="/stripes/stripes10/p3/">next ›</a></nav>

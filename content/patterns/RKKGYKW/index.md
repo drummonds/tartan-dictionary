@@ -6,7 +6,7 @@ RKKGYKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6k6ka14g48y4k52w10-g003000-k000000-ka000030-rc00000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s7/w10k52y4g48ka14k6r6-g003000-k000000-ka000030-rc00000-we0e0e0-yf0c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKKGYKW
 
 | Tartans |
 |---------------|
-| [Cornish, hunting](/setts/s7/r6k6ka14g48y4k52w10-g003000-k000000-ka000030-rc00000-we0e0e0-yf0c000/)|
-|![Cornish, hunting example sett](/setts/s7/r6k6ka14g48y4k52w10-g003000-k000000-ka000030-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Cornish, hunting](/setts/s7/w10k52y4g48ka14k6r6-g003000-k000000-ka000030-rc00000-we0e0e0-yf0c000/)|
+|![Cornish, hunting example sett](/setts/s7/w10k52y4g48ka14k6r6-g003000-k000000-ka000030-rc00000-we0e0e0-yf0c000/sett.png)|

@@ -16,5 +16,5 @@ GBKBKBYGKGKGKGKGRG
 
 | Tartans |
 |---------------|
-| [Hyslop Hunting (Name)](/setts/s18/g4b6k4b2k4b6y2g6k4g4k12g4k12g4k4g48r4g8-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Hyslop Hunting (Name) example sett](/setts/s18/g4b6k4b2k4b6y2g6k4g4k12g4k12g4k4g48r4g8-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
+| [Hyslop Hunting (Name)](/setts/s18/g8r4g48k4g4k12g4k12g4k4g6y2b6k4b2k4b6g4-b1c0070-g006818-k101010-r880000-yd09800/)|
+|![Hyslop Hunting (Name) example sett](/setts/s18/g8r4g48k4g4k12g4k12g4k4g6y2b6k4b2k4b6g4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|

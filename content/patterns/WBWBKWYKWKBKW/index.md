@@ -16,5 +16,5 @@ WBWBKWYKWKBKW
 
 | Tartans |
 |---------------|
-| [Silverton (Name)](/setts/s13/w6k6b2k4w40k8y2w6k58ba2wa2ba2w8-b2c2c80-ba1474b4-k101010-w98c8e8-wae0e0e0-ye8c000/)|
-|![Silverton (Name) example sett](/setts/s13/w6k6b2k4w40k8y2w6k58ba2wa2ba2w8-b2c2c80-ba1474b4-k101010-w98c8e8-wae0e0e0-ye8c000/sett.png)|
+| [Silverton (Name)](/setts/s13/w8b2wa2b2k58w6y2k8w40k4ba2k6w6-b1474b4-ba2c2c80-k101010-w98c8e8-wae0e0e0-ye8c000/)|
+|![Silverton (Name) example sett](/setts/s13/w8b2wa2b2k58w6y2k8w40k4ba2k6w6-b1474b4-ba2c2c80-k101010-w98c8e8-wae0e0e0-ye8c000/sett.png)|

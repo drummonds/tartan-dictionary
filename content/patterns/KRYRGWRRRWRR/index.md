@@ -16,5 +16,5 @@ KRYRGWRRRWRR
 
 | Tartans |
 |---------------|
-| [Studio Wolf Polysun](/setts/s12/k4r4y4ra8g4w4r4ra8r12w12r12ra72-g006400-k101010-rc80000-rafa4b00-wffffff-yffe600/)|
-|![Studio Wolf Polysun example sett](/setts/s12/k4r4y4ra8g4w4r4ra8r12w12r12ra72-g006400-k101010-rc80000-rafa4b00-wffffff-yffe600/sett.png)|
+| [Studio Wolf Polysun](/setts/s12/r72ra12w12ra12r8ra4w4g4r8y4ra4k4-g006400-k101010-rfa4b00-rac80000-wffffff-yffe600/)|
+|![Studio Wolf Polysun example sett](/setts/s12/r72ra12w12ra12r8ra4w4g4r8y4ra4k4-g006400-k101010-rfa4b00-rac80000-wffffff-yffe600/sett.png)|

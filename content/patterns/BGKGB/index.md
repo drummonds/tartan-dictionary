@@ -6,7 +6,7 @@ BGKGB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b2g8k10g8b4-b2888c4-g006818-k101010/tartan.png)
+![Woven sample](/setts/s5/b4g8k10g8b2-b2888c4-g006818-k101010/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGKGB
 
 | Tartans |
 |---------------|
-| [Glen Lyon #2](/setts/s5/b2g8k10g8b4-b2888c4-g006818-k101010/)|
-|![Glen Lyon #2 example sett](/setts/s5/b2g8k10g8b4-b2888c4-g006818-k101010/sett.png)|
-| [Wilson's No.053](/setts/s5/b2g8k10g8b4-b5c8ca8-g408060-k101010/)|
-|![Wilson's No.053 example sett](/setts/s5/b2g8k10g8b4-b5c8ca8-g408060-k101010/sett.png)|
+| [Glen Lyon #2](/setts/s5/b4g8k10g8b2-b2888c4-g006818-k101010/)|
+|![Glen Lyon #2 example sett](/setts/s5/b4g8k10g8b2-b2888c4-g006818-k101010/sett.png)|
+| [Wilson's No.053](/setts/s5/b4g8k10g8b2-b5c8ca8-g408060-k101010/)|
+|![Wilson's No.053 example sett](/setts/s5/b4g8k10g8b2-b5c8ca8-g408060-k101010/sett.png)|

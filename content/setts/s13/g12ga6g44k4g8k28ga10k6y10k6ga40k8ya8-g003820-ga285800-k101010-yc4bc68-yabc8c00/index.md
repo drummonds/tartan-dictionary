@@ -1,13 +1,13 @@
 ---
-title: "Celtic Football Club (2005)"
+title: "Celtic Football Club (2005) (Corp)"
 date: 2023-03-18
 ---
 In pattern [GGGKGKGKYKGKY](/patterns/gggkgkgkykgky/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=603
+Original link http://www.tartansauthority.com/tartan-ferret/display/6496/
 
 ## Thread count
 DG/12 G6 DG44 K4 DG8 K28 G10 K6 LG10 K6 G40 K8 DY/8

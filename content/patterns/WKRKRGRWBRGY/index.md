@@ -16,5 +16,5 @@ WKRKRGRWBRGY
 
 | Tartans |
 |---------------|
-| [Gordonstoun (Corporate)](/setts/s12/w4k4r4k40r4g22r22w4b22r4g38y10-b5c8ca8-g408060-k101010-r800028-wa8ace8-ye8c000/)|
-|![Gordonstoun (Corporate) example sett](/setts/s12/w4k4r4k40r4g22r22w4b22r4g38y10-b5c8ca8-g408060-k101010-r800028-wa8ace8-ye8c000/sett.png)|
+| [Gordonstoun (Corporate)](/setts/s12/y10g38r4b22w4r22g22r4k40r4k4w4-b5c8ca8-g408060-k101010-r800028-wa8ace8-ye8c000/)|
+|![Gordonstoun (Corporate) example sett](/setts/s12/y10g38r4b22w4r22g22r4k40r4k4w4-b5c8ca8-g408060-k101010-r800028-wa8ace8-ye8c000/sett.png)|

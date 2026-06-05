@@ -6,7 +6,7 @@ BWBRY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b8w6ba60r18y30-b2c2c80-ba5c8ca8-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s5/y30r18b60w6ba8-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBRY
 
 | Tartans |
 |---------------|
-| [S.I.D.E. (Corporate)](/setts/s5/b8w6ba60r18y30-b2c2c80-ba5c8ca8-rc80000-we0e0e0-ye8c000/)|
-|![S.I.D.E. (Corporate) example sett](/setts/s5/b8w6ba60r18y30-b2c2c80-ba5c8ca8-rc80000-we0e0e0-ye8c000/sett.png)|
+| [S.I.D.E. (Corporate)](/setts/s5/y30r18b60w6ba8-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ye8c000/)|
+|![S.I.D.E. (Corporate) example sett](/setts/s5/y30r18b60w6ba8-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|

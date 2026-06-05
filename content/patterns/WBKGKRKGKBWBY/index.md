@@ -16,5 +16,5 @@ WBKGKRKGKBWBY
 
 | Tartans |
 |---------------|
-| [Sacramento City Fire Department (P&D](/setts/s13/w2b34k10g22k2r6k2g22k10b30w2b4y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Sacramento City Fire Department (P&D example sett](/setts/s13/w2b34k10g22k2r6k2g22k10b30w2b4y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Sacramento City Fire Department (P&D](/setts/s13/y4b4w2b30k10g22k2r6k2g22k10b34w2-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
+|![Sacramento City Fire Department (P&D example sett](/setts/s13/y4b4w2b30k10g22k2r6k2g22k10b34w2-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

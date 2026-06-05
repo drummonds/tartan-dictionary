@@ -1,13 +1,13 @@
 ---
-title: "Ogilvie - 1831 (Clan)"
+title: "Ogilvie (Logan)"
 date: 2023-03-18
 ---
 In pattern [GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYGYKRWRW](/patterns/gkgykrwrwrkygwgykrwrwrkygkgkgykrwrwrkwbwkygygybrkrwbwrwbwrkrbygwgykrwrwrkygykrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [81 stripes tartan](/stripes/stripes81/).
+This was sourced from register-of-tartans.  It is a [81 stripes tartan](/stripes/stripes81/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2132/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3228
 
 ## Thread count
 G/28 K8 G28 Y8 K4 R16 LN4 R16 LN4 R16 K4 Y4 G16 LN4 G16 Y4 K4 R16 LN4 R16 LN4 R16 K4 Y4 G28 K8 G28 K8 G28 Y4 K4 R16 LN4 R16 LN4 R16 K24 LN2 DB8 LN2 K24 Y8 G12 Y4 G12 Y8 P4 R8 K4 R28 LN2 DB4 LN2 R28 LN2 DB4 LN2 R28 K4 R8 P4 Y4 G16 LN4 G16 Y4 K4 R16 LN4 R16 LN4 R16 K4 Y8 G16 Y8 K4 R16 LN4 R16 LN/4

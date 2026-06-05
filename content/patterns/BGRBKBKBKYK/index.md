@@ -16,7 +16,7 @@ BGRBKBKBKYK
 
 | Tartans |
 |---------------|
-| [Lawtie (Personal)](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/)|
-|![Lawtie (Personal) example sett](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/sett.png)|
-| [Lawtie (Personal)](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/)|
-|![Lawtie (Personal) example sett](/setts/s11/b30g10r10b20k4b4k4b4k16y4k40-b003c64-g006818-k101010-r880000-ya0a0a0/sett.png)|
+| [Lawtie (Personal)](/setts/s11/k40y4k16b4k4b4k4b20r10g10b30-b003c64-g006818-k101010-r880000-ya0a0a0/)|
+|![Lawtie (Personal) example sett](/setts/s11/k40y4k16b4k4b4k4b20r10g10b30-b003c64-g006818-k101010-r880000-ya0a0a0/sett.png)|
+| [Lawtie (Personal)](/setts/s11/k40y4k16b4k4b4k4b20r10g10b30-b003c64-g006818-k101010-r880000-ya0a0a0/)|
+|![Lawtie (Personal) example sett](/setts/s11/k40y4k16b4k4b4k4b20r10g10b30-b003c64-g006818-k101010-r880000-ya0a0a0/sett.png)|

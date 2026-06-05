@@ -16,5 +16,5 @@ BRBWBRBRGRBGBRR
 
 | Tartans |
 |---------------|
-| [Caithness](/setts/s15/b2r6b4w4b6r10b16r4g16ra6b4g4b4ra6rb56-b401000-g808080-r906030-rac00000-rb806050-we0e0e0/)|
-|![Caithness example sett](/setts/s15/b2r6b4w4b6r10b16r4g16ra6b4g4b4ra6rb56-b401000-g808080-r906030-rac00000-rb806050-we0e0e0/sett.png)|
+| [Caithness](/setts/s15/r56ra6b4g4b4ra6g16rb4b16rb10b6w4b4rb6b2-b401000-g808080-r806050-rac00000-rb906030-we0e0e0/)|
+|![Caithness example sett](/setts/s15/r56ra6b4g4b4ra6g16rb4b16rb10b6w4b4rb6b2-b401000-g808080-r806050-rac00000-rb906030-we0e0e0/sett.png)|

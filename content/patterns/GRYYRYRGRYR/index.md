@@ -16,5 +16,5 @@ GRYYRYRGRYR
 
 | Tartans |
 |---------------|
-| [MacPherson of Cluny](/setts/s11/g2r7y2y2r70y36r5g42r2y2r5-g006818-rc80000-ye8c000/)|
-|![MacPherson of Cluny example sett](/setts/s11/g2r7y2y2r70y36r5g42r2y2r5-g006818-rc80000-ye8c000/sett.png)|
+| [MacPherson of Cluny](/setts/s11/r5y2r2g42r5y36r70y2y2r7g2-g006818-rc80000-ye8c000/)|
+|![MacPherson of Cluny example sett](/setts/s11/r5y2r2g42r5y36r70y2y2r7g2-g006818-rc80000-ye8c000/sett.png)|

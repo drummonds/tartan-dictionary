@@ -6,7 +6,7 @@ BGBBGB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8g28b28ba12g60b8-b000088-ba381c0c-g004c00/tartan.png)
+![Woven sample](/setts/s6/b8g60ba12b28g28b8-b000088-ba381c0c-g004800/tartan.png)
 
 
 
@@ -18,7 +18,5 @@ BGBBGB
 
 | Tartans |
 |---------------|
-| [Green Highland, The](/setts/s6/b8g28b28ba12g60b8-b000088-ba381c0c-g004c00/)|
-|![Green Highland, The example sett](/setts/s6/b8g28b28ba12g60b8-b000088-ba381c0c-g004c00/sett.png)|
-| [Green Highland, The (Fashion)](/setts/s6/b8g28b28ba12g60b8-b000088-ba381c0c-g004800/)|
-|![Green Highland, The (Fashion) example sett](/setts/s6/b8g28b28ba12g60b8-b000088-ba381c0c-g004800/sett.png)|
+| [Green Highland, The (Fashion)](/setts/s6/b8g60ba12b28g28b8-b000088-ba381c0c-g004800/)|
+|![Green Highland, The (Fashion) example sett](/setts/s6/b8g60ba12b28g28b8-b000088-ba381c0c-g004800/sett.png)|

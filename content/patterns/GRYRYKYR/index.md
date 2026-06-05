@@ -6,7 +6,7 @@ GRYRYKYR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g6r22y6r22y6k22ya4r102-g006818-k101010-rc80000-ybc8c00-yab8b8b8/tartan.png)
+![Woven sample](/setts/s8/r102y4k22ya6r22ya6r22g6-g006818-k101010-rc80000-yb8b8b8-yabc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRYRYKYR
 
 | Tartans |
 |---------------|
-| [Hackston (Green stripe) (Portrait)](/setts/s8/g6r22y6r22y6k22ya4r102-g006818-k101010-rc80000-ybc8c00-yab8b8b8/)|
-|![Hackston (Green stripe) (Portrait) example sett](/setts/s8/g6r22y6r22y6k22ya4r102-g006818-k101010-rc80000-ybc8c00-yab8b8b8/sett.png)|
+| [Hackston (Green stripe) (Portrait)](/setts/s8/r102y4k22ya6r22ya6r22g6-g006818-k101010-rc80000-yb8b8b8-yabc8c00/)|
+|![Hackston (Green stripe) (Portrait) example sett](/setts/s8/r102y4k22ya6r22ya6r22g6-g006818-k101010-rc80000-yb8b8b8-yabc8c00/sett.png)|

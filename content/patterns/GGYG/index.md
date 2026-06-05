@@ -6,7 +6,7 @@ GGYG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g4ga8y12g6-g007800-ga003800-yfccc00/tartan.png)
+![Woven sample](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GGYG
 
 | Tartans |
 |---------------|
-| [Pilgrims (Bedford)](/setts/s4/g4ga8y12g6-g007800-ga003800-yfccc00/)|
-|![Pilgrims (Bedford) example sett](/setts/s4/g4ga8y12g6-g007800-ga003800-yfccc00/sett.png)|
-| [Pilgrims School, Bedford (Corporate)](/setts/s4/g4ga8y12g6-g007800-ga003800-yfccc00/)|
-|![Pilgrims School, Bedford (Corporate) example sett](/setts/s4/g4ga8y12g6-g007800-ga003800-yfccc00/sett.png)|
+| [Pilgrims (Bedford)](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/)|
+|![Pilgrims (Bedford) example sett](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/sett.png)|
+| [Pilgrims School, Bedford (Corporate)](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/)|
+|![Pilgrims School, Bedford (Corporate) example sett](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/sett.png)|

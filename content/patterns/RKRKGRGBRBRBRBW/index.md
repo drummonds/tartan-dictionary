@@ -16,5 +16,5 @@ RKRKGRGBRBRBRBW
 
 | Tartans |
 |---------------|
-| [Joseph Linn Family (Monohon 2012) (Personal)](/setts/s15/r4k4r2k40g4r2g30b4ra2b30ra2b6ra2b6w6-b010082-g008001-k101010-r9a7036-raff0000-wffffff/)|
-|![Joseph Linn Family (Monohon 2012) (Personal) example sett](/setts/s15/r4k4r2k40g4r2g30b4ra2b30ra2b6ra2b6w6-b010082-g008001-k101010-r9a7036-raff0000-wffffff/sett.png)|
+| [Joseph Linn Family (Monohon 2012) (Personal)](/setts/s15/w6b6r2b6r2b30r2b4g30ra2g4k40ra2k4ra4-b010082-g008001-k101010-rff0000-ra9a7036-wffffff/)|
+|![Joseph Linn Family (Monohon 2012) (Personal) example sett](/setts/s15/w6b6r2b6r2b30r2b4g30ra2g4k40ra2k4ra4-b010082-g008001-k101010-rff0000-ra9a7036-wffffff/sett.png)|

@@ -16,5 +16,5 @@ BRRBRRWRWBRBR
 
 | Tartans |
 |---------------|
-| [Florence (Fashion)](/setts/s13/b4r16ra4b4r4rb4w4r4w4b4r4b32r128-b6c0070-r9884bc-ra888888-rba07c58-we0e0e0/)|
-|![Florence (Fashion) example sett](/setts/s13/b4r16ra4b4r4rb4w4r4w4b4r4b32r128-b6c0070-r9884bc-ra888888-rba07c58-we0e0e0/sett.png)|
+| [Florence (Fashion)](/setts/s13/r128b32r4b4w4r4w4ra4r4b4rb4r16b4-b6c0070-r9884bc-raa07c58-rb888888-we0e0e0/)|
+|![Florence (Fashion) example sett](/setts/s13/r128b32r4b4w4r4w4ra4r4b4rb4r16b4-b6c0070-r9884bc-raa07c58-rb888888-we0e0e0/sett.png)|

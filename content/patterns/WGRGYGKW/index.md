@@ -6,7 +6,7 @@ WGRGYGKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w4g4r6g4y6g44k80w4-g004600-k000037-rbd0000-wffffff-yffa000/tartan.png)
+![Woven sample](/setts/s8/w4k80g44y6g4r6g4w4-g004600-k000037-rbd0000-wffffff-yffa000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGRGYGKW
 
 | Tartans |
 |---------------|
-| [Tartan Day SA](/setts/s8/w4g4r6g4y6g44k80w4-g004600-k000037-rbd0000-wffffff-yffa000/)|
-|![Tartan Day SA example sett](/setts/s8/w4g4r6g4y6g44k80w4-g004600-k000037-rbd0000-wffffff-yffa000/sett.png)|
+| [Tartan Day SA](/setts/s8/w4k80g44y6g4r6g4w4-g004600-k000037-rbd0000-wffffff-yffa000/)|
+|![Tartan Day SA example sett](/setts/s8/w4k80g44y6g4r6g4w4-g004600-k000037-rbd0000-wffffff-yffa000/sett.png)|

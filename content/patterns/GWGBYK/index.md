@@ -6,7 +6,7 @@ GWGBYK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g18w6g24b22y18k20-b00008c-g007800-k101010-wf9f5ef-yffff00/tartan.png)
+![Woven sample](/setts/s6/k20y18b22g24w6g18-b00008c-g007800-k101010-wf9f5ef-yffff00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGBYK
 
 | Tartans |
 |---------------|
-| [Centeno-Oxford (Personal)](/setts/s6/g18w6g24b22y18k20-b00008c-g007800-k101010-wf9f5ef-yffff00/)|
-|![Centeno-Oxford (Personal) example sett](/setts/s6/g18w6g24b22y18k20-b00008c-g007800-k101010-wf9f5ef-yffff00/sett.png)|
+| [Centeno-Oxford (Personal)](/setts/s6/k20y18b22g24w6g18-b00008c-g007800-k101010-wf9f5ef-yffff00/)|
+|![Centeno-Oxford (Personal) example sett](/setts/s6/k20y18b22g24w6g18-b00008c-g007800-k101010-wf9f5ef-yffff00/sett.png)|

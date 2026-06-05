@@ -6,7 +6,7 @@ BGGG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b38g38ga52gb82-b505050-g808080-ga767e52-gb285800/tartan.png)
+![Woven sample](/setts/s4/g82ga52gb38b38-b505050-g285800-ga767e52-gb808080/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGG
 
 | Tartans |
 |---------------|
-| [Green Alaskan](/setts/s4/b38g38ga52gb82-b505050-g808080-ga767e52-gb285800/)|
-|![Green Alaskan example sett](/setts/s4/b38g38ga52gb82-b505050-g808080-ga767e52-gb285800/sett.png)|
+| [Green Alaskan](/setts/s4/g82ga52gb38b38-b505050-g285800-ga767e52-gb808080/)|
+|![Green Alaskan example sett](/setts/s4/g82ga52gb38b38-b505050-g285800-ga767e52-gb808080/sett.png)|

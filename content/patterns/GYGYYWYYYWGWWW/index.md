@@ -16,7 +16,7 @@ GYGYYWYYYWGWWW
 
 | Tartans |
 |---------------|
-| [Sakura (Japanese Four Seasons)](/setts/s14/g8y4g4y30ya4w18ya4y8ya4w18g4wa50w4wa12-g604000-we0e0e0-waf4c8c8-ya0d090-ya00c02c/)|
-|![Sakura (Japanese Four Seasons) example sett](/setts/s14/g8y4g4y30ya4w18ya4y8ya4w18g4wa50w4wa12-g604000-we0e0e0-waf4c8c8-ya0d090-ya00c02c/sett.png)|
-| [Sakura (Fashion)](/setts/s14/g8y4g4y30ya4w18ya4y8ya4w18g4wa50w4wa12-g604000-we0e0e0-waf4c8c8-ya0d090-ya00c02c/)|
-|![Sakura (Fashion) example sett](/setts/s14/g8y4g4y30ya4w18ya4y8ya4w18g4wa50w4wa12-g604000-we0e0e0-waf4c8c8-ya0d090-ya00c02c/sett.png)|
+| [Sakura (Japanese Four Seasons)](/setts/s14/w12wa4w50g4wa18y4ya8y4wa18y4ya30g4ya4g8-g604000-wf4c8c8-wae0e0e0-y00c02c-yaa0d090/)|
+|![Sakura (Japanese Four Seasons) example sett](/setts/s14/w12wa4w50g4wa18y4ya8y4wa18y4ya30g4ya4g8-g604000-wf4c8c8-wae0e0e0-y00c02c-yaa0d090/sett.png)|
+| [Sakura (Fashion)](/setts/s14/w12wa4w50g4wa18y4ya8y4wa18y4ya30g4ya4g8-g604000-wf4c8c8-wae0e0e0-y00c02c-yaa0d090/)|
+|![Sakura (Fashion) example sett](/setts/s14/w12wa4w50g4wa18y4ya8y4wa18y4ya30g4ya4g8-g604000-wf4c8c8-wae0e0e0-y00c02c-yaa0d090/sett.png)|

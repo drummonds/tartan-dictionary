@@ -16,5 +16,5 @@ RBGBBBBBBY
 
 | Tartans |
 |---------------|
-| [Blue Peter](/setts/s10/r4b8g8ba50bb8ba8bb8ba8bb50y6-b5a008c-ba141e46-bb00008c-g146400-re86000-ye0a126/)|
-|![Blue Peter example sett](/setts/s10/r4b8g8ba50bb8ba8bb8ba8bb50y6-b5a008c-ba141e46-bb00008c-g146400-re86000-ye0a126/sett.png)|
+| [Blue Peter](/setts/s10/y6b50ba8b8ba8b8ba50g8bb8r4-b00008c-ba141e46-bb5a008c-g146400-re86000-ye0a126/)|
+|![Blue Peter example sett](/setts/s10/y6b50ba8b8ba8b8ba50g8bb8r4-b00008c-ba141e46-bb5a008c-g146400-re86000-ye0a126/sett.png)|

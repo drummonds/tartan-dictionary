@@ -16,5 +16,5 @@ WGYBYBYGY
 
 | Tartans |
 |---------------|
-| [Inchforth (Personal)](/setts/s9/w4g2y10b14ya16b60ya14g4ya8-b383f44-g608c36-wffffff-yb6df1a-ya8b8d8e/)|
-|![Inchforth (Personal) example sett](/setts/s9/w4g2y10b14ya16b60ya14g4ya8-b383f44-g608c36-wffffff-yb6df1a-ya8b8d8e/sett.png)|
+| [Inchforth (Personal)](/setts/s9/y8g4y14b60y16b14ya10g2w4-b383f44-g608c36-wffffff-y8b8d8e-yab6df1a/)|
+|![Inchforth (Personal) example sett](/setts/s9/y8g4y14b60y16b14ya10g2w4-b383f44-g608c36-wffffff-y8b8d8e-yab6df1a/sett.png)|

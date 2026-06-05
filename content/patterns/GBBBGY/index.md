@@ -20,5 +20,5 @@ GBBBGY
 |---------------|
 | [Potts (Personal)](/setts/s6/g2b72ba56b6g6y2-b202060-ba441800-g74846c-yfccc00/)|
 |![Potts (Personal) example sett](/setts/s6/g2b72ba56b6g6y2-b202060-ba441800-g74846c-yfccc00/sett.png)|
-| [Scottish Ballet](/setts/s6/g4b10ba22b30g44y10-b440044-ba780078-g288028-ye8c000/)|
-|![Scottish Ballet example sett](/setts/s6/g4b10ba22b30g44y10-b440044-ba780078-g288028-ye8c000/sett.png)|
+| [Scottish Ballet](/setts/s6/y10g44b30ba22b10g4-b440044-ba780078-g288028-ye8c000/)|
+|![Scottish Ballet example sett](/setts/s6/y10g44b30ba22b10g4-b440044-ba780078-g288028-ye8c000/sett.png)|

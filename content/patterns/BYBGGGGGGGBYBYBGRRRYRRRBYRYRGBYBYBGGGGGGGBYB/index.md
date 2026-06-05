@@ -16,5 +16,5 @@ BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYB
 
 | Tartans |
 |---------------|
-| [New Brunswick (Lyon Court Books)](/setts/s44/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g56r18ra10r30y4r8ra32r20b8y6rb4y2r48g56b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2-b5c8ca8-g003820-ga289c18-rc80000-ra6c0800-rb888888-ye8c000/)|
-|![New Brunswick (Lyon Court Books) example sett](/setts/s44/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g56r18ra10r30y4r8ra32r20b8y6rb4y2r48g56b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2-b5c8ca8-g003820-ga289c18-rc80000-ra6c0800-rb888888-ye8c000/sett.png)|
+| [New Brunswick (Lyon Court Books)](/setts/s44/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g56r48y2ra4y6b8r20rb32r8y4r30rb10r18g56b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2-b5c8ca8-g003820-ga289c18-rc80000-ra888888-rb6c0800-ye8c000/)|
+|![New Brunswick (Lyon Court Books) example sett](/setts/s44/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g56r48y2ra4y6b8r20rb32r8y4r30rb10r18g56b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2-b5c8ca8-g003820-ga289c18-rc80000-ra888888-rb6c0800-ye8c000/sett.png)|

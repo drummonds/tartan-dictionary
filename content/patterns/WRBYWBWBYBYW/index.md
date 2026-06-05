@@ -16,5 +16,5 @@ WRBYWBWBYBYW
 
 | Tartans |
 |---------------|
-| [Diana, Plaid Dress](/setts/s12/w6y6b4y12ba22w4ba4w14ya4ba4r6w92-b2888c4-ba441800-rc80000-wfcfcec-ya08858-yae8c000/)|
-|![Diana, Plaid Dress example sett](/setts/s12/w6y6b4y12ba22w4ba4w14ya4ba4r6w92-b2888c4-ba441800-rc80000-wfcfcec-ya08858-yae8c000/sett.png)|
+| [Diana, Plaid Dress](/setts/s12/w92r6b4y4w14b4w4b22ya12ba4ya6w6-b441800-ba2888c4-rc80000-wfcfcec-ye8c000-yaa08858/)|
+|![Diana, Plaid Dress example sett](/setts/s12/w92r6b4y4w14b4w4b22ya12ba4ya6w6-b441800-ba2888c4-rc80000-wfcfcec-ye8c000-yaa08858/sett.png)|

@@ -16,7 +16,7 @@ GYRBGBRYKGKYBKYKBYR
 
 | Tartans |
 |---------------|
-| [MacBain](/setts/s19/g20y4r10b10g4b10r10y4k4g24k4y4ba10k4y4k4ba10y4r120-b59110d-ba4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacBain example sett](/setts/s19/g20y4r10b10g4b10r10y4k4g24k4y4ba10k4y4k4ba10y4r120-b59110d-ba4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [MacBain](/setts/s19/g10y2r5b5g2b5r5y2k2g12k2y2ba5k2y2k2ba5y2r60-b59110d-ba4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacBain example sett](/setts/s19/g10y2r5b5g2b5r5y2k2g12k2y2ba5k2y2k2ba5y2r60-b59110d-ba4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacBain](/setts/s19/r120y4b10k4y4k4b10y4k4g24k4y4r10ba10g4ba10r10y4g20-b4367ae-ba59110d-g11450d-k000000-raa0000-yaaaaaa/)|
+|![MacBain example sett](/setts/s19/r120y4b10k4y4k4b10y4k4g24k4y4r10ba10g4ba10r10y4g20-b4367ae-ba59110d-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacBain](/setts/s19/r60y2b5k2y2k2b5y2k2g12k2y2r5ba5g2ba5r5y2g10-b4367ae-ba59110d-g11450d-k000000-raa0000-yaaaaaa/)|
+|![MacBain example sett](/setts/s19/r60y2b5k2y2k2b5y2k2g12k2y2r5ba5g2ba5r5y2g10-b4367ae-ba59110d-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

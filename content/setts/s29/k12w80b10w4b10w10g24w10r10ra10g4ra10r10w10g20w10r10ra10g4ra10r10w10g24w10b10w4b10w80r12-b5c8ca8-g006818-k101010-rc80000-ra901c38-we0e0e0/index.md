@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/patterns/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/).
 
 
-This was sourced from tartans-authority.  It is a [29 stripes tartan](/stripes/stripes29/).
+This was sourced from register-of-tartans.  It is a [29 stripes tartan](/stripes/stripes29/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1220/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294
 
 ## Thread count
 K/12 LN80 B10 LN4 B10 LN10 G24 LN10 R10 DR10 G4 DR10 R10 LN10 G20 LN10 R10 DR10 G4 DR10 R10 LN10 G24 LN10 B10 LN4 B10 LN80 R/12

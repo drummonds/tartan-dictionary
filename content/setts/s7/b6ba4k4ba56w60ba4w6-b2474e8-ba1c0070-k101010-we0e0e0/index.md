@@ -1,13 +1,13 @@
 ---
-title: "Cunningham Dress, Blue (Dance)"
+title: "Cunningham, Dress Blue (Dance)"
 date: 2023-03-18
 ---
 In pattern [BBKBWBW](/patterns/bbkbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4642/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=851
 
 ## Thread count
 B/6 DB4 K4 DB56 LN60 DB4 LN/6

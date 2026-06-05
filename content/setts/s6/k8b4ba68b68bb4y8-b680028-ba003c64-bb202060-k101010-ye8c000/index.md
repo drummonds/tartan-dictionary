@@ -1,13 +1,13 @@
 ---
-title: "Murdoch (Name)"
+title: "Murdoch (Geoffrey)"
 date: 2023-03-18
 ---
 In pattern [KBBBBY](/patterns/kbbbby/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2525/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3054
 
 ## Thread count
 K/8 DR4 DBa68 DR68 DB4 Y/8

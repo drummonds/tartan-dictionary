@@ -16,5 +16,5 @@ GYWYWRW
 
 | Tartans |
 |---------------|
-| [Whisky Kilt (Fashion)](/setts/s7/g52y6w4ya4w4r4w336-g007460-ra00000-wf8e8d8-ya08858-yabc8c00/)|
-|![Whisky Kilt (Fashion) example sett](/setts/s7/g52y6w4ya4w4r4w336-g007460-ra00000-wf8e8d8-ya08858-yabc8c00/sett.png)|
+| [Whisky Kilt (Fashion)](/setts/s7/w336r4w4y4w4ya6g52-g007460-ra00000-wf8e8d8-ybc8c00-yaa08858/)|
+|![Whisky Kilt (Fashion) example sett](/setts/s7/w336r4w4y4w4ya6g52-g007460-ra00000-wf8e8d8-ybc8c00-yaa08858/sett.png)|

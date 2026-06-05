@@ -16,5 +16,5 @@ RKRKRKRKRKRRRRBW
 
 | Tartans |
 |---------------|
-| [Mehrtens (Personal)](/setts/s16/r4k8r12ka4r12ka12r4ka12ra8ka2ra72r2ra8r36b8w8-b003c64-k000000-ka101010-rc80000-ra848488-wf8f8f8/)|
-|![Mehrtens (Personal) example sett](/setts/s16/r4k8r12ka4r12ka12r4ka12ra8ka2ra72r2ra8r36b8w8-b003c64-k000000-ka101010-rc80000-ra848488-wf8f8f8/sett.png)|
+| [Mehrtens (Personal)](/setts/s16/w8b8r36ra8r2ra72k2ra8k12r4k12r12k4r12ka8r4-b003c64-k101010-ka000000-rc80000-ra848488-wf8f8f8/)|
+|![Mehrtens (Personal) example sett](/setts/s16/w8b8r36ra8r2ra72k2ra8k12r4k12r12k4r12ka8r4-b003c64-k101010-ka000000-rc80000-ra848488-wf8f8f8/sett.png)|

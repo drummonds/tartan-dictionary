@@ -16,5 +16,5 @@ BBKBKBBYB
 
 | Tartans |
 |---------------|
-| [Goldblatt, Joe, Jeff (Personal)](/setts/s9/b4y4b42ba3k12bb26k4bb4ba6-b2c2c80-ba780078-bb003c64-k00002c-ye8c000/)|
-|![Goldblatt, Joe, Jeff (Personal) example sett](/setts/s9/b4y4b42ba3k12bb26k4bb4ba6-b2c2c80-ba780078-bb003c64-k00002c-ye8c000/sett.png)|
+| [Goldblatt, Joe, Jeff (Personal)](/setts/s9/b6ba4k4ba26k12b3bb42y4bb4-b780078-ba003c64-bb2c2c80-k00002c-ye8c000/)|
+|![Goldblatt, Joe, Jeff (Personal) example sett](/setts/s9/b6ba4k4ba26k12b3bb42y4bb4-b780078-ba003c64-bb2c2c80-k00002c-ye8c000/sett.png)|

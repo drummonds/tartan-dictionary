@@ -16,5 +16,5 @@ GBYRRRGBYRRR
 
 | Tartans |
 |---------------|
-| [Kreutz, Arthur (Personal)](/setts/s12/g2b2y6r18ra16rb16g2b2y6r16ra16rb16-b5f749c-g005020-r960028-ra880000-rbdc0000-yd87c00/)|
-|![Kreutz, Arthur (Personal) example sett](/setts/s12/g2b2y6r18ra16rb16g2b2y6r16ra16rb16-b5f749c-g005020-r960028-ra880000-rbdc0000-yd87c00/sett.png)|
+| [Kreutz, Arthur (Personal)](/setts/s12/r16ra16rb16y6b2g2r16ra16rb18y6b2g2-b5f749c-g005020-rdc0000-ra880000-rb960028-yd87c00/)|
+|![Kreutz, Arthur (Personal) example sett](/setts/s12/r16ra16rb16y6b2g2r16ra16rb18y6b2g2-b5f749c-g005020-rdc0000-ra880000-rb960028-yd87c00/sett.png)|

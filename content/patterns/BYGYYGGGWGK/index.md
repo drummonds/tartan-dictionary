@@ -16,5 +16,5 @@ BYGYYGGGWGK
 
 | Tartans |
 |---------------|
-| [State Seal of Wyoming (Fashion)](/setts/s11/b18y4g18ya46y6g32ga12g12w4g30k98-b1474b4-g604000-ga006818-k101010-we8ccb8-ybc8c00-yaa08858/)|
-|![State Seal of Wyoming (Fashion) example sett](/setts/s11/b18y4g18ya46y6g32ga12g12w4g30k98-b1474b4-g604000-ga006818-k101010-we8ccb8-ybc8c00-yaa08858/sett.png)|
+| [State Seal of Wyoming (Fashion)](/setts/s11/k98g30w4g12ga12g32y6ya46g18y4b18-b1474b4-g604000-ga006818-k101010-we8ccb8-ybc8c00-yaa08858/)|
+|![State Seal of Wyoming (Fashion) example sett](/setts/s11/k98g30w4g12ga12g32y6ya46g18y4b18-b1474b4-g604000-ga006818-k101010-we8ccb8-ybc8c00-yaa08858/sett.png)|

@@ -6,7 +6,7 @@ KWKWKWKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k2w20k40w10k40w20k2r4-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r4k2w20k40w10k40w20k2-k101010-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKWKWKR
 
 | Tartans |
 |---------------|
-| [St. Piran Cornish Flag](/setts/s8/k2w20k40w10k40w20k2r4-k101010-rc80000-we0e0e0/)|
-|![St. Piran Cornish Flag example sett](/setts/s8/k2w20k40w10k40w20k2r4-k101010-rc80000-we0e0e0/sett.png)|
+| [St. Piran Cornish Flag](/setts/s8/r4k2w20k40w10k40w20k2-k101010-rc80000-we0e0e0/)|
+|![St. Piran Cornish Flag example sett](/setts/s8/r4k2w20k40w10k40w20k2-k101010-rc80000-we0e0e0/sett.png)|

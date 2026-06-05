@@ -6,7 +6,7 @@ BWBYBK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b12w4b10y6b80k60-b1474b4-k101010-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWBYBK
 
 | Tartans |
 |---------------|
-| [Micron](/setts/s6/b12w4b10y6b80k60-b1474b4-k101010-wfcfcfc-ye8c000/)|
-|![Micron example sett](/setts/s6/b12w4b10y6b80k60-b1474b4-k101010-wfcfcfc-ye8c000/sett.png)|
-| [Micron (Corporate)](/setts/s6/b12w4b10y6b80k60-b1474b4-k101010-wfcfcfc-ye8c000/)|
-|![Micron (Corporate) example sett](/setts/s6/b12w4b10y6b80k60-b1474b4-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Micron](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/)|
+|![Micron example sett](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Micron (Corporate)](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/)|
+|![Micron (Corporate) example sett](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/sett.png)|

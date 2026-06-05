@@ -6,14 +6,6 @@ weight: 11
 Tartan setts with 11 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes11/p2/">‹ prev</a> <a href="/stripes/stripes11/">1</a> <a href="/stripes/stripes11/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes11/p4/">4</a> <a href="/stripes/stripes11/p4/">next ›</a></nav>
 
-### KBGYGYGYGBW
-<a class="pat" href="/patterns/kbgygygygbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBGYGYGYGBW</span></a>
-
-| Tartan |
-|---|
-| [William & Mary GALA (Corporate)](/patterns/kbgygygygbw/) |
-| [William and Mary GALA, Inc, The](/patterns/kbgygygygbw/) |
-
 ### KBKBGYGKGKR
 <a class="pat" href="/patterns/kbkbgygkgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBKBGYGKGKR</span></a>
 
@@ -1613,5 +1605,19 @@ Tartan setts with 11 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Rothesay, Duke of](/patterns/rwbwkwgrkrw/) |
+
+### RWBYBYBYRYY
+<a class="pat" href="/patterns/rwbybybyryy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWBYBYBYRYY</span></a>
+
+| Tartan |
+|---|
+| [Tasmania (District)](/patterns/rwbybybyryy/) |
+
+### RWGBRBKBBBW
+<a class="pat" href="/patterns/rwgbrbkbbbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWGBRBKBBBW</span></a>
+
+| Tartan |
+|---|
+| [Fitzgerald, hunting](/patterns/rwgbrbkbbbw/) |
 
 <nav class="pager"><a href="/stripes/stripes11/p2/">‹ prev</a> <a href="/stripes/stripes11/">1</a> <a href="/stripes/stripes11/p2/">2</a> <strong>3</strong> <a href="/stripes/stripes11/p4/">4</a> <a href="/stripes/stripes11/p4/">next ›</a></nav>

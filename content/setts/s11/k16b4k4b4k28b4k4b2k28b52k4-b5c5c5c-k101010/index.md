@@ -1,13 +1,13 @@
 ---
-title: "Grey Pride of Scotland Fashion Tartan Tartan Number: 7519. Earliest known date: pre 2008 Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Grey Pride of Scotland (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KBKBKBKBKBK](/patterns/kbkbkbkbkbk/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7519
+Original link http://www.tartansauthority.com/tartan-ferret/display/7519/
 
 ## Thread count
 K/4 N52 K28 N2 K4 N4 K28 N4 K4 N4 K/16

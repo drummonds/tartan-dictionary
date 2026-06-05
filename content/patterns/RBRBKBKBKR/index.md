@@ -16,5 +16,5 @@ RBRBKBKBKR
 
 | Tartans |
 |---------------|
-| [Myles, Lee](/setts/s10/r2k8b2k66b26k8b18r2b6r4-b575757-k101010-rc71585/)|
-|![Myles, Lee example sett](/setts/s10/r2k8b2k66b26k8b18r2b6r4-b575757-k101010-rc71585/sett.png)|
+| [Myles, Lee](/setts/s10/r4b6r2b18k8b26k66b2k8r2-b575757-k101010-rc71585/)|
+|![Myles, Lee example sett](/setts/s10/r4b6r2b18k8b26k66b2k8r2-b575757-k101010-rc71585/sett.png)|

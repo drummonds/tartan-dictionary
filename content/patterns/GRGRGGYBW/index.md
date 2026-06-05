@@ -16,7 +16,7 @@ GRGRGGYBW
 
 | Tartans |
 |---------------|
-| [Derry Family (Olney, Buckinghamshire) (Personal)](/setts/s9/g4r28g6r6g6ga19y12b36w6-b5e71a0-g343f23-ga49543f-rbf1a33-wffffff-yccb78e/)|
-|![Derry Family (Olney, Buckinghamshire) (Personal) example sett](/setts/s9/g4r28g6r6g6ga19y12b36w6-b5e71a0-g343f23-ga49543f-rbf1a33-wffffff-yccb78e/sett.png)|
-| [Derry Family (Personal)](/setts/s9/g4r28g6r6g6ga19y12b36w6-b2888c4-g006818-ga289c18-rc80000-we0e0e0-ybc8c00/)|
-|![Derry Family (Personal) example sett](/setts/s9/g4r28g6r6g6ga19y12b36w6-b2888c4-g006818-ga289c18-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Derry Family (Olney, Buckinghamshire) (Personal)](/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b5e71a0-g49543f-ga343f23-rbf1a33-wffffff-yccb78e/)|
+|![Derry Family (Olney, Buckinghamshire) (Personal) example sett](/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b5e71a0-g49543f-ga343f23-rbf1a33-wffffff-yccb78e/sett.png)|
+| [Derry Family (Personal)](/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b2888c4-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/)|
+|![Derry Family (Personal) example sett](/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b2888c4-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/sett.png)|

@@ -1,5 +1,5 @@
 ---
-title: "Drummond of Perth"
+title: "Perthshire District"
 date: 2023-03-18
 ---
 In pattern [RWBYGRBBW](/patterns/rwbygrbbw/).

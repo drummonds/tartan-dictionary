@@ -16,5 +16,5 @@ BKGKRKRWRKRKGK
 
 | Tartans |
 |---------------|
-| [Lambert (Front Royal) Dark Night](/setts/s14/b6k56g20k10r4k16ra4w6ra4k16r4k10g20k68-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/)|
-|![Lambert (Front Royal) Dark Night example sett](/setts/s14/b6k56g20k10r4k16ra4w6ra4k16r4k10g20k68-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/sett.png)|
+| [Lambert (Front Royal) Dark Night](/setts/s14/k68g20k10r4k16ra4w6ra4k16r4k10g20k56b6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/)|
+|![Lambert (Front Royal) Dark Night example sett](/setts/s14/k68g20k10r4k16ra4w6ra4k16r4k10g20k56b6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/sett.png)|

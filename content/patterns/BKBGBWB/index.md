@@ -6,7 +6,7 @@ BKBGBWB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8w6b58g24ba12k16ba12-b000080-ba0000ff-g009900-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s7/b12k16b12g24ba58w6ba8-b0000ff-ba000080-g009900-k101010-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBGBWB
 
 | Tartans |
 |---------------|
-| [Dickson (Kirkcudbrightshire)](/setts/s7/b8w6b58g24ba12k16ba12-b000080-ba0000ff-g009900-k101010-wffffff/)|
-|![Dickson (Kirkcudbrightshire) example sett](/setts/s7/b8w6b58g24ba12k16ba12-b000080-ba0000ff-g009900-k101010-wffffff/sett.png)|
+| [Dickson (Kirkcudbrightshire)](/setts/s7/b12k16b12g24ba58w6ba8-b0000ff-ba000080-g009900-k101010-wffffff/)|
+|![Dickson (Kirkcudbrightshire) example sett](/setts/s7/b12k16b12g24ba58w6ba8-b0000ff-ba000080-g009900-k101010-wffffff/sett.png)|

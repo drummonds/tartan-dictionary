@@ -16,5 +16,5 @@ GWGYGYGWGWGYG
 
 | Tartans |
 |---------------|
-| [McGill (Personal)](/setts/s13/g2y8g2w8g8w4g48ya8g6ya8g6w20g4-g006818-we0e0e0-yd87c00-yabc8c00/)|
-|![McGill (Personal) example sett](/setts/s13/g2y8g2w8g8w4g48ya8g6ya8g6w20g4-g006818-we0e0e0-yd87c00-yabc8c00/sett.png)|
+| [McGill (Personal)](/setts/s13/g4w20g6y8g6y8g48w4g8w8g2ya8g2-g006818-we0e0e0-ybc8c00-yad87c00/)|
+|![McGill (Personal) example sett](/setts/s13/g4w20g6y8g6y8g48w4g8w8g2ya8g2-g006818-we0e0e0-ybc8c00-yad87c00/sett.png)|

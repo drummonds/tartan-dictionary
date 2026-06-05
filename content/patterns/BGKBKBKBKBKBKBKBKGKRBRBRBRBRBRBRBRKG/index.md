@@ -16,5 +16,5 @@ BGKBKBKBKBKBKBKBKGKRBRBRBRBRBRBRBRKG
 
 | Tartans |
 |---------------|
-| [13, Centennial Warp](/setts/s36/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24r8b1r1b1r1b1r1b1r1b1r1b1r1b28r6k4g52-b304080-g008000-k000000-r806050/)|
-|![13, Centennial Warp example sett](/setts/s36/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24r8b1r1b1r1b1r1b1r1b1r1b1r1b28r6k4g52-b304080-g008000-k000000-r806050/sett.png)|
+| [13, Centennial Warp](/setts/s36/g52k4r6b28r1b1r1b1r1b1r1b1r1b1r1b1r8k24g12k4b20k1b1k1b1k1b1k1b1k1b1k1b1k8g8b16-b304080-g008000-k000000-r806050/)|
+|![13, Centennial Warp example sett](/setts/s36/g52k4r6b28r1b1r1b1r1b1r1b1r1b1r1b1r8k24g12k4b20k1b1k1b1k1b1k1b1k1b1k1b1k8g8b16-b304080-g008000-k000000-r806050/sett.png)|

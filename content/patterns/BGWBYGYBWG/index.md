@@ -16,5 +16,5 @@ BGWBYGYBWG
 
 | Tartans |
 |---------------|
-| [Manx Ellan Vannin](/setts/s10/b8g56w8ba12y28g8y28ba12w8g56-b5c8ca8-ba202060-g003820-we0e0e0-y98b480/)|
-|![Manx Ellan Vannin example sett](/setts/s10/b8g56w8ba12y28g8y28ba12w8g56-b5c8ca8-ba202060-g003820-we0e0e0-y98b480/sett.png)|
+| [Manx Ellan Vannin](/setts/s10/g56w8b12y28g8y28b12w8g56ba8-b202060-ba5c8ca8-g003820-we0e0e0-y98b480/)|
+|![Manx Ellan Vannin example sett](/setts/s10/g56w8b12y28g8y28b12w8g56ba8-b202060-ba5c8ca8-g003820-we0e0e0-y98b480/sett.png)|

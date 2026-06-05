@@ -6,7 +6,7 @@ BKBKRBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b2k24ba18k10r68b10w4-b5a008c-ba646464-k101010-r781c38-wffffff/tartan.png)
+![Woven sample](/setts/s7/w4b10r68k10ba18k24b2-b5a008c-ba646464-k101010-r781c38-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKRBW
 
 | Tartans |
 |---------------|
-| [Thomson, Reona Ellen (Personal)](/setts/s7/b2k24ba18k10r68b10w4-b5a008c-ba646464-k101010-r781c38-wffffff/)|
-|![Thomson, Reona Ellen (Personal) example sett](/setts/s7/b2k24ba18k10r68b10w4-b5a008c-ba646464-k101010-r781c38-wffffff/sett.png)|
+| [Thomson, Reona Ellen (Personal)](/setts/s7/w4b10r68k10ba18k24b2-b5a008c-ba646464-k101010-r781c38-wffffff/)|
+|![Thomson, Reona Ellen (Personal) example sett](/setts/s7/w4b10r68k10ba18k24b2-b5a008c-ba646464-k101010-r781c38-wffffff/sett.png)|

@@ -16,5 +16,5 @@ KGRGRGRGGWK
 
 | Tartans |
 |---------------|
-| [Gray, hunting](/setts/s11/k4g14r16ga4r4ga4r4ga16g58w2k6-g008000-ga808080-k000000-r900030-we0e0e0/)|
-|![Gray, hunting example sett](/setts/s11/k4g14r16ga4r4ga4r4ga16g58w2k6-g008000-ga808080-k000000-r900030-we0e0e0/sett.png)|
+| [Gray, hunting](/setts/s11/k6w2g58ga16r4ga4r4ga4r16g14k4-g008000-ga808080-k000000-r900030-we0e0e0/)|
+|![Gray, hunting example sett](/setts/s11/k6w2g58ga16r4ga4r4ga4r16g14k4-g008000-ga808080-k000000-r900030-we0e0e0/sett.png)|

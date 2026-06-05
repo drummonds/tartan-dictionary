@@ -16,5 +16,5 @@ BGYGBGBGYGBGBGYGBG
 
 | Tartans |
 |---------------|
-| [Highland Hospice](/setts/s18/b6g10y6g10b10g10b10g10y6g10b10g10b10g10y6g10b6g102-b28003c-g006818-ybc8c00/)|
-|![Highland Hospice example sett](/setts/s18/b6g10y6g10b10g10b10g10y6g10b10g10b10g10y6g10b6g102-b28003c-g006818-ybc8c00/sett.png)|
+| [Highland Hospice](/setts/s18/g102b6g10y6g10b10g10b10g10y6g10b10g10b10g10y6g10b6-b28003c-g006818-ybc8c00/)|
+|![Highland Hospice example sett](/setts/s18/g102b6g10y6g10b10g10b10g10y6g10b10g10b10g10y6g10b6-b28003c-g006818-ybc8c00/sett.png)|

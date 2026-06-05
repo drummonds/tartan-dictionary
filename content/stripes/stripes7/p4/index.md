@@ -6,13 +6,6 @@ weight: 7
 Tartan setts with 7 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes7/p3/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <a href="/stripes/stripes7/p3/">3</a> <strong>4</strong> <a href="/stripes/stripes7/p5/">5</a> <a href="/stripes/stripes7/p5/">next ›</a></nav>
 
-### KRGRGRW
-<a class="pat" href="/patterns/krgrgrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRGRGRW</span></a>
-
-| Tartan |
-|---|
-| [MacKinnon #4](/patterns/krgrgrw/) |
-
 ### KRGRKRK
 <a class="pat" href="/patterns/krgrkrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="seq">KRGRKRK</span></a>
 

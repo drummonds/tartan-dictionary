@@ -16,7 +16,7 @@ RBRKRWRKRBR
 
 | Tartans |
 |---------------|
-| [Varenne](/setts/s11/r60b8r4k16r6w4r6k16r4b8ra64-b3c3c3c-k000000-r8c0000-raa0783c-wc8c8c8/)|
-|![Varenne example sett](/setts/s11/r60b8r4k16r6w4r6k16r4b8ra64-b3c3c3c-k000000-r8c0000-raa0783c-wc8c8c8/sett.png)|
-| [Varenne (Fashion?)](/setts/s11/r60b8r4k16r6w4r6k16r4b8ra64-b3c3c3c-k000000-r8c0000-raa0783c-wc8c8c8/)|
-|![Varenne (Fashion?) example sett](/setts/s11/r60b8r4k16r6w4r6k16r4b8ra64-b3c3c3c-k000000-r8c0000-raa0783c-wc8c8c8/sett.png)|
+| [Varenne](/setts/s11/r64b8ra4k16ra6w4ra6k16ra4b8ra60-b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8/)|
+|![Varenne example sett](/setts/s11/r64b8ra4k16ra6w4ra6k16ra4b8ra60-b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8/sett.png)|
+| [Varenne (Fashion?)](/setts/s11/r64b8ra4k16ra6w4ra6k16ra4b8ra60-b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8/)|
+|![Varenne (Fashion?) example sett](/setts/s11/r64b8ra4k16ra6w4ra6k16ra4b8ra60-b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8/sett.png)|

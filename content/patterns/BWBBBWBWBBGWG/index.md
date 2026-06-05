@@ -16,5 +16,5 @@ BWBBBWBWBBGWG
 
 | Tartans |
 |---------------|
-| [Clan Iain Mhor (Name)](/setts/s13/b38w4b4ba6b4w4b38w4b4ba6g4w4g44-b1c1c1c-ba680028-g006038-wfcfcfc/)|
-|![Clan Iain Mhor (Name) example sett](/setts/s13/b38w4b4ba6b4w4b38w4b4ba6g4w4g44-b1c1c1c-ba680028-g006038-wfcfcfc/sett.png)|
+| [Clan Iain Mhor (Name)](/setts/s13/g44w4g4b6ba4w4ba38w4ba4b6ba4w4ba38-b680028-ba1c1c1c-g006038-wfcfcfc/)|
+|![Clan Iain Mhor (Name) example sett](/setts/s13/g44w4g4b6ba4w4ba38w4ba4b6ba4w4ba38-b680028-ba1c1c1c-g006038-wfcfcfc/sett.png)|

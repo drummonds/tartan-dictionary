@@ -16,7 +16,7 @@ RGYGYGYGYGYGYR
 
 | Tartans |
 |---------------|
-| [Antigua & Barbuda](/setts/s14/r10y20g6y6g6y6g6y6g6y6g6y6g6r60-g289c18-rc80000-yd87c00/)|
-|![Antigua & Barbuda example sett](/setts/s14/r10y20g6y6g6y6g6y6g6y6g6y6g6r60-g289c18-rc80000-yd87c00/sett.png)|
-| [Antigua & Barbuda (District)](/setts/s14/r10y20g6y6g6y6g6y6g6y6g6y6g6r60-g289c18-rc80000-yd87c00/)|
-|![Antigua & Barbuda (District) example sett](/setts/s14/r10y20g6y6g6y6g6y6g6y6g6y6g6r60-g289c18-rc80000-yd87c00/sett.png)|
+| [Antigua & Barbuda](/setts/s14/r60g6y6g6y6g6y6g6y6g6y6g6y20r10-g289c18-rc80000-yd87c00/)|
+|![Antigua & Barbuda example sett](/setts/s14/r60g6y6g6y6g6y6g6y6g6y6g6y20r10-g289c18-rc80000-yd87c00/sett.png)|
+| [Antigua & Barbuda (District)](/setts/s14/r60g6y6g6y6g6y6g6y6g6y6g6y20r10-g289c18-rc80000-yd87c00/)|
+|![Antigua & Barbuda (District) example sett](/setts/s14/r60g6y6g6y6g6y6g6y6g6y6g6y20r10-g289c18-rc80000-yd87c00/sett.png)|

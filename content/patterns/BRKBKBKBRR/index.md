@@ -16,5 +16,5 @@ BRKBKBKBRR
 
 | Tartans |
 |---------------|
-| [The KpgM](/setts/s10/b8r3k20b12k40ba60k6ba6r4ra24-b600030-ba304080-k000000-r906030-rac00000/)|
-|![The KpgM example sett](/setts/s10/b8r3k20b12k40ba60k6ba6r4ra24-b600030-ba304080-k000000-r906030-rac00000/sett.png)|
+| [The KpgM](/setts/s10/r24ra4b6k6b60k40ba12k20ra3ba8-b304080-ba600030-k000000-rc00000-ra906030/)|
+|![The KpgM example sett](/setts/s10/r24ra4b6k6b60k40ba12k20ra3ba8-b304080-ba600030-k000000-rc00000-ra906030/sett.png)|

@@ -16,5 +16,5 @@ KKRRKKRBYKR
 
 | Tartans |
 |---------------|
-| [U.S. Air Force Reserve P. B. (Corpor](/setts/s11/k20k10r4r6k10k58r16b6y40k6r88-b1c0070-k101010-r880000-ybc8c00/)|
-|![U.S. Air Force Reserve P. B. (Corpor example sett](/setts/s11/k20k10r4r6k10k58r16b6y40k6r88-b1c0070-k101010-r880000-ybc8c00/sett.png)|
+| [U.S. Air Force Reserve P. B. (Corpor](/setts/s11/r88k6y40b6r16k58k10r6r4k10k20-b1c0070-k101010-r880000-ybc8c00/)|
+|![U.S. Air Force Reserve P. B. (Corpor example sett](/setts/s11/r88k6y40b6r16k58k10r6r4k10k20-b1c0070-k101010-r880000-ybc8c00/sett.png)|

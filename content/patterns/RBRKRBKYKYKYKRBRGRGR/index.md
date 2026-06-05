@@ -16,7 +16,7 @@ RBRKRBKYKYKYKRBRGRGR
 
 | Tartans |
 |---------------|
-| [Anderson](/setts/s20/r6b12r2k4r2b36k6y6k6ya2k2ya2k8r2ba8r6g12r4g12r8-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaaaa-yaaaaa00/)|
-|![Anderson example sett](/setts/s20/r6b12r2k4r2b36k6y6k6ya2k2ya2k8r2ba8r6g12r4g12r8-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaaaa-yaaaaa00/sett.png)|
-| [Anderson](/setts/s20/r3b6r1k2r1b18k3y3k3ya1k1ya1k4r1ba4r3g6r2g6r4-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaaaa-yaaaaa00/)|
-|![Anderson example sett](/setts/s20/r3b6r1k2r1b18k3y3k3ya1k1ya1k4r1ba4r3g6r2g6r4-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaaaa-yaaaaa00/sett.png)|
+| [Anderson](/setts/s20/r8g12r4g12r6b8r2k8y2k2y2k6ya6k6ba36r2k4r2ba12r6-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![Anderson example sett](/setts/s20/r8g12r4g12r6b8r2k8y2k2y2k6ya6k6ba36r2k4r2ba12r6-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [Anderson](/setts/s20/r4g6r2g6r3b4r1k4y1k1y1k3ya3k3ba18r1k2r1ba6r3-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![Anderson example sett](/setts/s20/r4g6r2g6r3b4r1k4y1k1y1k3ya3k3ba18r1k2r1ba6r3-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|

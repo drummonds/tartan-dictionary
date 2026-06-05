@@ -16,5 +16,5 @@ RGKRGRYRGR
 
 | Tartans |
 |---------------|
-| [Annan](/setts/s10/r12g40k32r12g4r8y8r8g4r60-g808080-k000000-r906030-yff8500/)|
-|![Annan example sett](/setts/s10/r12g40k32r12g4r8y8r8g4r60-g808080-k000000-r906030-yff8500/sett.png)|
+| [Annan](/setts/s10/r60g4r8y8r8g4r12k32g40r12-g808080-k000000-r906030-yff8500/)|
+|![Annan example sett](/setts/s10/r60g4r8y8r8g4r12k32g40r12-g808080-k000000-r906030-yff8500/sett.png)|

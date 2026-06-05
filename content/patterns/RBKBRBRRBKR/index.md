@@ -16,7 +16,7 @@ RBKBRBRRBKR
 
 | Tartans |
 |---------------|
-| [Brodie, Graeme (Personal)](/setts/s11/r2k38b8r8ra2b6r4b6k74b4rb4-b4c2424-k101010-r880000-rac80000-rb888888/)|
-|![Brodie, Graeme (Personal) example sett](/setts/s11/r2k38b8r8ra2b6r4b6k74b4rb4-b4c2424-k101010-r880000-rac80000-rb888888/sett.png)|
-| [Brodie, Graeme (Personal)](/setts/s11/r2k38b8r8ra2b6r4b6k74b4rb4-b4c2424-k101010-r880000-rac80000-rb888888/)|
-|![Brodie, Graeme (Personal) example sett](/setts/s11/r2k38b8r8ra2b6r4b6k74b4rb4-b4c2424-k101010-r880000-rac80000-rb888888/sett.png)|
+| [Brodie, Graeme (Personal)](/setts/s11/r4b4k74b6ra4b6rb2ra8b8k38ra2-b4c2424-k101010-r888888-ra880000-rbc80000/)|
+|![Brodie, Graeme (Personal) example sett](/setts/s11/r4b4k74b6ra4b6rb2ra8b8k38ra2-b4c2424-k101010-r888888-ra880000-rbc80000/sett.png)|
+| [Brodie, Graeme (Personal)](/setts/s11/r4b4k74b6ra4b6rb2ra8b8k38ra2-b4c2424-k101010-r888888-ra880000-rbc80000/)|
+|![Brodie, Graeme (Personal) example sett](/setts/s11/r4b4k74b6ra4b6rb2ra8b8k38ra2-b4c2424-k101010-r888888-ra880000-rbc80000/sett.png)|

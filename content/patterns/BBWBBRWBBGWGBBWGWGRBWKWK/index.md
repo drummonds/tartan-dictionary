@@ -16,7 +16,7 @@ BBWBBRWBBGWGBBWGWGRBWKWK
 
 | Tartans |
 |---------------|
-| [Ross Wedding Dress](/setts/s24/b6ba4w2ba4b6r72w2b8ba8g6w2g6ba8b8w2ga54w2ga12r12ba12w2k4w4k8-b2c2c80-ba5c8ca8-g604000-ga006818-k101010-rc80000-we0e0e0/)|
-|![Ross Wedding Dress example sett](/setts/s24/b6ba4w2ba4b6r72w2b8ba8g6w2g6ba8b8w2ga54w2ga12r12ba12w2k4w4k8-b2c2c80-ba5c8ca8-g604000-ga006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Unnamed C18th - Wedding Dress/Shawl](/setts/s24/b6ba4w2ba4b6r72w2b8ba8g6w2g6ba8b8w2ga54w2ga12r12ba12w2k4w4k8-b2c2c80-ba5c8ca8-g604000-ga006818-k101010-rc80000-we0e0e0/)|
-|![Unnamed C18th - Wedding Dress/Shawl example sett](/setts/s24/b6ba4w2ba4b6r72w2b8ba8g6w2g6ba8b8w2ga54w2ga12r12ba12w2k4w4k8-b2c2c80-ba5c8ca8-g604000-ga006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Ross Wedding Dress](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ga6w2ga6b8ba8w2r72ba6b4w2b4ba6-b5c8ca8-ba2c2c80-g006818-ga604000-k101010-rc80000-we0e0e0/)|
+|![Ross Wedding Dress example sett](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ga6w2ga6b8ba8w2r72ba6b4w2b4ba6-b5c8ca8-ba2c2c80-g006818-ga604000-k101010-rc80000-we0e0e0/sett.png)|
+| [Unnamed C18th - Wedding Dress/Shawl](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ga6w2ga6b8ba8w2r72ba6b4w2b4ba6-b5c8ca8-ba2c2c80-g006818-ga604000-k101010-rc80000-we0e0e0/)|
+|![Unnamed C18th - Wedding Dress/Shawl example sett](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ga6w2ga6b8ba8w2r72ba6b4w2b4ba6-b5c8ca8-ba2c2c80-g006818-ga604000-k101010-rc80000-we0e0e0/sett.png)|

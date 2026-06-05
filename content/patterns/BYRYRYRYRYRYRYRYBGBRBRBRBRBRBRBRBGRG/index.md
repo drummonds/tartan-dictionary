@@ -16,5 +16,5 @@ BYRYRYRYRYRYRYRYBGBRBRBRBRBRBRBRBGRG
 
 | Tartans |
 |---------------|
-| [Newfoundland (CIDD 28098)](/setts/s36/b8y12r56y2r2y2r2y2r2y2r2y2r2y2r2y16b48g24b80r40b2r2b2r2b2r2b2r2b2r2b2r2b16g16r32g100-b441800-g006818-rc80000-ybc8c00/)|
-|![Newfoundland (CIDD 28098) example sett](/setts/s36/b8y12r56y2r2y2r2y2r2y2r2y2r2y2r2y16b48g24b80r40b2r2b2r2b2r2b2r2b2r2b2r2b16g16r32g100-b441800-g006818-rc80000-ybc8c00/sett.png)|
+| [Newfoundland (CIDD 28098)](/setts/s36/g100r32g16b16r2b2r2b2r2b2r2b2r2b2r2b2r40b80g24b48y16r2y2r2y2r2y2r2y2r2y2r2y2r56y12b8-b441800-g006818-rc80000-ybc8c00/)|
+|![Newfoundland (CIDD 28098) example sett](/setts/s36/g100r32g16b16r2b2r2b2r2b2r2b2r2b2r2b2r40b80g24b48y16r2y2r2y2r2y2r2y2r2y2r2y2r56y12b8-b441800-g006818-rc80000-ybc8c00/sett.png)|

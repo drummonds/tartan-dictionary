@@ -6,7 +6,7 @@ BBBBBWB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6ba4b52b30bb6w4bb52-b14283c-ba4c0000-bb680028-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b52w4b6ba30ba52bb4ba6-b680028-ba14283c-bb4c0000-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBBWB
 
 | Tartans |
 |---------------|
-| [Gavin](/setts/s7/b6ba4b52b30bb6w4bb52-b14283c-ba4c0000-bb680028-wfcfcfc/)|
-|![Gavin example sett](/setts/s7/b6ba4b52b30bb6w4bb52-b14283c-ba4c0000-bb680028-wfcfcfc/sett.png)|
+| [Gavin](/setts/s7/b52w4b6ba30ba52bb4ba6-b680028-ba14283c-bb4c0000-wfcfcfc/)|
+|![Gavin example sett](/setts/s7/b52w4b6ba30ba52bb4ba6-b680028-ba14283c-bb4c0000-wfcfcfc/sett.png)|

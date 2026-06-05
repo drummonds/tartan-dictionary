@@ -20,18 +20,18 @@ BKGR
 |---------------|
 | [Norwich Collection No. 60](/setts/s4/b16k22g18r4-b780078-g006818-k101010-rc80000/)|
 |![Norwich Collection No. 60 example sett](/setts/s4/b16k22g18r4-b780078-g006818-k101010-rc80000/sett.png)|
-| [Unidentified No 28](/setts/s4/b2k10g10r12-b3c82af-g005020-k101010-rdc0000/)|
-|![Unidentified No 28 example sett](/setts/s4/b2k10g10r12-b3c82af-g005020-k101010-rdc0000/sett.png)|
+| [Unidentified No 28](/setts/s4/r12g10k10b2-b3c82af-g005020-k101010-rdc0000/)|
+|![Unidentified No 28 example sett](/setts/s4/r12g10k10b2-b3c82af-g005020-k101010-rdc0000/sett.png)|
 | [Unidentified No 60](/setts/s4/b12k10g10r2-b5a008c-g005020-k101010-rdc0000/)|
 |![Unidentified No 60 example sett](/setts/s4/b12k10g10r2-b5a008c-g005020-k101010-rdc0000/sett.png)|
 | [Unidentified pattern #3](/setts/s4/b16k20g16r4-b2c4084-g005020-k101010-rdc0000/)|
 |![Unidentified pattern #3 example sett](/setts/s4/b16k20g16r4-b2c4084-g005020-k101010-rdc0000/sett.png)|
 | [Wilson's No.159](/setts/s4/b16k22g18r4-b780078-g006818-k101010-rc80000/)|
 |![Wilson's No.159 example sett](/setts/s4/b16k22g18r4-b780078-g006818-k101010-rc80000/sett.png)|
-| [Wilson's No.195](/setts/s4/b4k8g28r20-b2888c4-g006818-k101010-rc80000/)|
-|![Wilson's No.195 example sett](/setts/s4/b4k8g28r20-b2888c4-g006818-k101010-rc80000/sett.png)|
-| [Wilson's No.196](/setts/s4/b4k20g18r18-b2888c4-g006818-k101010-rc80000/)|
-|![Wilson's No.196 example sett](/setts/s4/b4k20g18r18-b2888c4-g006818-k101010-rc80000/sett.png)|
+| [Wilson's No.195](/setts/s4/r20g28k8b4-b2888c4-g006818-k101010-rc80000/)|
+|![Wilson's No.195 example sett](/setts/s4/r20g28k8b4-b2888c4-g006818-k101010-rc80000/sett.png)|
+| [Wilson's No.196](/setts/s4/r18g18k20b4-b2888c4-g006818-k101010-rc80000/)|
+|![Wilson's No.196 example sett](/setts/s4/r18g18k20b4-b2888c4-g006818-k101010-rc80000/sett.png)|
 | [Gunn 2011, Robert (Personal)](/setts/s4/b40k40g40r2-b5f749c-g649848-k010512-rca2625/)|
 |![Gunn 2011, Robert (Personal) example sett](/setts/s4/b40k40g40r2-b5f749c-g649848-k010512-rca2625/sett.png)|
 | [Bowater (Estate Check)](/setts/s4/b4k4g4r4-b780078-g604000-k101010-rc80000/)|
@@ -40,8 +40,8 @@ BKGR
 |![Gunn (Personal) example sett](/setts/s4/b40k40g40r2-b2c2c80-g006818-k101010-rc80000/sett.png)|
 | [Unidentified, pattern](/setts/s4/b16k20g16r4-b304080-g008000-k000000-rc00000/)|
 |![Unidentified, pattern example sett](/setts/s4/b16k20g16r4-b304080-g008000-k000000-rc00000/sett.png)|
-| [Unnamed, No 28](/setts/s4/b2k10g10r12-b5480b0-g008000-k000000-rc00000/)|
-|![Unnamed, No 28 example sett](/setts/s4/b2k10g10r12-b5480b0-g008000-k000000-rc00000/sett.png)|
+| [Unnamed, No 28](/setts/s4/r12g10k10b2-b5480b0-g008000-k000000-rc00000/)|
+|![Unnamed, No 28 example sett](/setts/s4/r12g10k10b2-b5480b0-g008000-k000000-rc00000/sett.png)|
 | [Unnamed, No 60](/setts/s4/b12k10g10r2-b800080-g008000-k000000-rc00000/)|
 |![Unnamed, No 60 example sett](/setts/s4/b12k10g10r2-b800080-g008000-k000000-rc00000/sett.png)|
 | [Wilson's, No 159](/setts/s4/b16k22g18r4-b800080-g008000-k000000-rc00000/)|

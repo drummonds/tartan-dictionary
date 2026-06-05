@@ -1,13 +1,13 @@
 ---
-title: "Currie of Arran"
+title: "Currie of Arran (Clan/family)"
 date: 2023-03-18
 ---
 In pattern [BWBYGRGRGRW](/patterns/bwbygrgrgrw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=853
+Original link http://www.tartansauthority.com/tartan-ferret/display/499/
 
 ## Thread count
 B/32 W6 B4 Y8 G48 R4 G8 R10 G8 R4 N/16

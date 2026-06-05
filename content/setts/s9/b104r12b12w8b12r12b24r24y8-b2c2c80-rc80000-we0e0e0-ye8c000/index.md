@@ -1,13 +1,13 @@
 ---
-title: "Newton Primary (Corporate)"
+title: "Newton Primary School"
 date: 2023-03-18
 ---
 In pattern [BRBWBRBRY](/patterns/brbwbrbry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2417/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131
 
 ## Thread count
 DB/104 R12 DB12 LN8 DB12 R12 DB24 R24 Y/8

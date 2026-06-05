@@ -6,7 +6,7 @@ RBKYBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4b40y4k24ba48r4-b4c3428-ba5c5c5c-k101010-rc80000-yfccc00/tartan.png)
+![Woven sample](/setts/s6/r4b48k24y4ba40r4-b5c5c5c-ba4c3428-k101010-rc80000-yfccc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKYBR
 
 | Tartans |
 |---------------|
-| [Andover (Fashion)](/setts/s6/r4b40y4k24ba48r4-b4c3428-ba5c5c5c-k101010-rc80000-yfccc00/)|
-|![Andover (Fashion) example sett](/setts/s6/r4b40y4k24ba48r4-b4c3428-ba5c5c5c-k101010-rc80000-yfccc00/sett.png)|
+| [Andover (Fashion)](/setts/s6/r4b48k24y4ba40r4-b5c5c5c-ba4c3428-k101010-rc80000-yfccc00/)|
+|![Andover (Fashion) example sett](/setts/s6/r4b48k24y4ba40r4-b5c5c5c-ba4c3428-k101010-rc80000-yfccc00/sett.png)|

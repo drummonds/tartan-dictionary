@@ -24,7 +24,7 @@ YKYKYRY
 |![Baileville (Personal) example sett](/setts/s7/y4k16y4k16y44r4y4-k101010-r901c38-ye8c000/sett.png)|
 | [Baillieville](/setts/s7/y4k16y4k16y44r4y4-k000000-r802040-yf0c000/)|
 |![Baillieville example sett](/setts/s7/y4k16y4k16y44r4y4-k000000-r802040-yf0c000/sett.png)|
-| [MacPherson Dress](/setts/s7/y2k18ya6k40ya60r2ya6-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacPherson Dress example sett](/setts/s7/y2k18ya6k40ya60r2ya6-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
-| [MacPherson Dress](/setts/s7/y2k18ya6k40ya60r2ya6-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacPherson Dress example sett](/setts/s7/y2k18ya6k40ya60r2ya6-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [MacPherson Dress](/setts/s7/y6r2y60k40y6k18ya2-k000000-raa0000-yaaaaaa-yaaaaa00/)|
+|![MacPherson Dress example sett](/setts/s7/y6r2y60k40y6k18ya2-k000000-raa0000-yaaaaaa-yaaaaa00/sett.png)|
+| [MacPherson Dress](/setts/s7/y6r2y60k40y6k18ya2-k000000-raa0000-yaaaaaa-yaaaaa00/)|
+|![MacPherson Dress example sett](/setts/s7/y6r2y60k40y6k18ya2-k000000-raa0000-yaaaaaa-yaaaaa00/sett.png)|

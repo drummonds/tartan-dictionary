@@ -1,13 +1,13 @@
 ---
-title: "Locky"
+title: "Locky (Name)"
 date: 2023-03-18
 ---
 In pattern [RWRBRBKRKY](/patterns/rwrbrbkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2180
+Original link http://www.tartansauthority.com/tartan-ferret/display/6207/
 
 ## Thread count
 R/6 W4 R4 DB4 R4 DB48 K56 R4 K6 Y/2

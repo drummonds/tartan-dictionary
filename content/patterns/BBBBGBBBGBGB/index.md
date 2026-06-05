@@ -16,5 +16,5 @@ BBBBGBBBGBGB
 
 | Tartans |
 |---------------|
-| [Damson (Fashion)](/setts/s12/b4b6b4b12g20b4b4b4ga4b12g8b96-b1c0070-g048888-ga8c7038/)|
-|![Damson (Fashion) example sett](/setts/s12/b4b6b4b12g20b4b4b4ga4b12g8b96-b1c0070-g048888-ga8c7038/sett.png)|
+| [Damson (Fashion)](/setts/s12/b96g8b12ga4b4b4b4g20b12b4b6b4-b1c0070-g048888-ga8c7038/)|
+|![Damson (Fashion) example sett](/setts/s12/b96g8b12ga4b4b4b4g20b12b4b6b4-b1c0070-g048888-ga8c7038/sett.png)|

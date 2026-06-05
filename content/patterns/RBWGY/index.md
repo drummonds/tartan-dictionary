@@ -6,7 +6,7 @@ RBWGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4b20w24g68y8-b1474b4-g005020-rfa4b00-wffffff-ya0a0a0/tartan.png)
+![Woven sample](/setts/s5/y8g68w24b20r4-b1474b4-g005020-rfa4b00-wffffff-ya0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBWGY
 
 | Tartans |
 |---------------|
-| [Scotstown](/setts/s5/r4b20w24g68y8-b1474b4-g005020-rfa4b00-wffffff-ya0a0a0/)|
-|![Scotstown example sett](/setts/s5/r4b20w24g68y8-b1474b4-g005020-rfa4b00-wffffff-ya0a0a0/sett.png)|
+| [Scotstown](/setts/s5/y8g68w24b20r4-b1474b4-g005020-rfa4b00-wffffff-ya0a0a0/)|
+|![Scotstown example sett](/setts/s5/y8g68w24b20r4-b1474b4-g005020-rfa4b00-wffffff-ya0a0a0/sett.png)|

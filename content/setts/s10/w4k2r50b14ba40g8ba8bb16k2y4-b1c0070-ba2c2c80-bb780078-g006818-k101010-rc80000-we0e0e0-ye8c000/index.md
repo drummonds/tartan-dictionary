@@ -1,13 +1,13 @@
 ---
-title: "Guardian of Scotland (Fashion)"
+title: "Guardian of Scotland"
 date: 2023-03-18
 ---
 In pattern [WKRBBGBBKY](/patterns/wkrbbgbbky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7835/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5787
 
 ## Thread count
 LN/4 K2 R50 DBa14 DB40 G8 DB8 P16 K2 Y/4

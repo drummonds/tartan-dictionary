@@ -16,5 +16,5 @@ KWKWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Heolbellva ha Materi (Fashion)](/setts/s14/k14w2k12w4k10w6k8w8k6w10k4w12k2w182-k101010-we0e0e0/)|
-|![Heolbellva ha Materi (Fashion) example sett](/setts/s14/k14w2k12w4k10w6k8w8k6w10k4w12k2w182-k101010-we0e0e0/sett.png)|
+| [Heolbellva ha Materi (Fashion)](/setts/s14/w182k2w12k4w10k6w8k8w6k10w4k12w2k14-k101010-we0e0e0/)|
+|![Heolbellva ha Materi (Fashion) example sett](/setts/s14/w182k2w12k4w10k6w8k8w6k10w4k12w2k14-k101010-we0e0e0/sett.png)|

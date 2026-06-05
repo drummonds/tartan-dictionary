@@ -16,5 +16,5 @@ BBBBGBKGKGK
 
 | Tartans |
 |---------------|
-| [Manderson](/setts/s11/b4ba12b10ba32g32b8k24g16k8ga20k8-b600030-ba5480b0-g008000-ga808080-k000000/)|
-|![Manderson example sett](/setts/s11/b4ba12b10ba32g32b8k24g16k8ga20k8-b600030-ba5480b0-g008000-ga808080-k000000/sett.png)|
+| [Manderson](/setts/s11/k8g20k8ga16k24b8ga32ba32b10ba12b4-b600030-ba5480b0-g808080-ga008000-k000000/)|
+|![Manderson example sett](/setts/s11/k8g20k8ga16k24b8ga32ba32b10ba12b4-b600030-ba5480b0-g808080-ga008000-k000000/sett.png)|

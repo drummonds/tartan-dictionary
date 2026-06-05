@@ -16,5 +16,5 @@ WKYKRRKYW
 
 | Tartans |
 |---------------|
-| [Calgary HOG](/setts/s9/w4k2y2k88r20ra4k8y12w8-k000000-rcd3700-raee0000-wd3d3d3-ya9a9a9/)|
-|![Calgary HOG example sett](/setts/s9/w4k2y2k88r20ra4k8y12w8-k000000-rcd3700-raee0000-wd3d3d3-ya9a9a9/sett.png)|
+| [Calgary HOG](/setts/s9/w8y12k8r4ra20k88y2k2w4-k000000-ree0000-racd3700-wd3d3d3-ya9a9a9/)|
+|![Calgary HOG example sett](/setts/s9/w8y12k8r4ra20k88y2k2w4-k000000-ree0000-racd3700-wd3d3d3-ya9a9a9/sett.png)|

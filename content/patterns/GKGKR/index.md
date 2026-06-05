@@ -20,5 +20,5 @@ GKGKR
 |---------------|
 | [Daks (Black)](/setts/s5/g6k12ga8k12r6-g808080-ga604000-k101010-rb03000/)|
 |![Daks (Black) example sett](/setts/s5/g6k12ga8k12r6-g808080-ga604000-k101010-rb03000/sett.png)|
-| [Gadsden (Artefact)](/setts/s5/g4k4g4k32r6-g285800-k00002c-rc80000/)|
-|![Gadsden (Artefact) example sett](/setts/s5/g4k4g4k32r6-g285800-k00002c-rc80000/sett.png)|
+| [Gadsden (Artefact)](/setts/s5/r6k32g4k4g4-g285800-k00002c-rc80000/)|
+|![Gadsden (Artefact) example sett](/setts/s5/r6k32g4k4g4-g285800-k00002c-rc80000/sett.png)|

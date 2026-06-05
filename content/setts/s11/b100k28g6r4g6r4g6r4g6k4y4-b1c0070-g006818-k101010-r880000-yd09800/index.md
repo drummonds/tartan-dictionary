@@ -1,13 +1,13 @@
 ---
-title: "Minnick"
+title: "Minnock (Name)"
 date: 2023-03-18
 ---
 In pattern [BKGRGRGRGKY](/patterns/bkgrgrgrgky/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5192
+Original link http://www.tartansauthority.com/tartan-ferret/display/3476/
 
 ## Thread count
 DB/100 K28 G6 DR4 G6 DR4 G6 DR4 G6 K4 DY/4

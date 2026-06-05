@@ -6,7 +6,7 @@ GBGGRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g4b20g20ga10r44k6-b441800-g002c18-ga344c14-k101010-r880000/tartan.png)
+![Woven sample](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBGGRK
 
 | Tartans |
 |---------------|
-| [Rowardennan](/setts/s6/g4b20g20ga10r44k6-b441800-g002c18-ga344c14-k101010-r880000/)|
-|![Rowardennan example sett](/setts/s6/g4b20g20ga10r44k6-b441800-g002c18-ga344c14-k101010-r880000/sett.png)|
-| [Rowardennan (Fashion)](/setts/s6/g4b20g20ga10r44k6-b441800-g002c18-ga344c14-k101010-r880000/)|
-|![Rowardennan (Fashion) example sett](/setts/s6/g4b20g20ga10r44k6-b441800-g002c18-ga344c14-k101010-r880000/sett.png)|
+| [Rowardennan](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/)|
+|![Rowardennan example sett](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/sett.png)|
+| [Rowardennan (Fashion)](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/)|
+|![Rowardennan (Fashion) example sett](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/sett.png)|

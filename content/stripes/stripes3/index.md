@@ -27,7 +27,7 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [Glenmorangie Check Corporate Tartan Tartan Number: 1663. Earliest known date: 1988 Accredited by the Scottish Tartans Society in 1988. Glenmorangie is a well known malt whisky. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/bbr/) |
-| [Stakis Hotels](/patterns/bbr/) |
+| [Stakis Hotels (Corporate)](/patterns/bbr/) |
 
 ### BGB
 <a class="pat" href="/patterns/bgb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BGB</span></a>

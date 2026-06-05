@@ -6,7 +6,7 @@ GWRWGWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4w2r38wa10g6w3r6-g777478-rd53348-wffffff-wacfd0d3/tartan.png)
+![Woven sample](/setts/s7/r6w3g6wa10r38w2g4-g777478-rd53348-wffffff-wacfd0d3/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWRWGWR
 
 | Tartans |
 |---------------|
-| [Washington State University Cougar](/setts/s7/g4w2r38wa10g6w3r6-g777478-rd53348-wffffff-wacfd0d3/)|
-|![Washington State University Cougar example sett](/setts/s7/g4w2r38wa10g6w3r6-g777478-rd53348-wffffff-wacfd0d3/sett.png)|
+| [Washington State University Cougar](/setts/s7/r6w3g6wa10r38w2g4-g777478-rd53348-wffffff-wacfd0d3/)|
+|![Washington State University Cougar example sett](/setts/s7/r6w3g6wa10r38w2g4-g777478-rd53348-wffffff-wacfd0d3/sett.png)|

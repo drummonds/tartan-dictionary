@@ -16,5 +16,5 @@ BYKBKBKBYR
 
 | Tartans |
 |---------------|
-| [KPMG (Corporate)](/setts/s10/b8y4k20b12k40ba60k6ba6y4r24-b680028-ba2c2c80-k101010-rc80000-ya08858/)|
-|![KPMG (Corporate) example sett](/setts/s10/b8y4k20b12k40ba60k6ba6y4r24-b680028-ba2c2c80-k101010-rc80000-ya08858/sett.png)|
+| [KPMG (Corporate)](/setts/s10/r24y4b6k6b60k40ba12k20y4ba8-b2c2c80-ba680028-k101010-rc80000-ya08858/)|
+|![KPMG (Corporate) example sett](/setts/s10/r24y4b6k6b60k40ba12k20y4ba8-b2c2c80-ba680028-k101010-rc80000-ya08858/sett.png)|

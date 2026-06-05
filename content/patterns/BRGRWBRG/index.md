@@ -6,7 +6,7 @@ BRGRWBRG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4r8g54r44w10b50r8g56-b000048-g004c00-rdc0000-wffffff/tartan.png)
+![Woven sample](/setts/s8/g56r8b50w10r44g54r8b4-b000048-g004c00-rdc0000-wffffff/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRGRWBRG
 
 | Tartans |
 |---------------|
-| [New Glasgow (Canada)](/setts/s8/b4r8g54r44w10b50r8g56-b000048-g004c00-rdc0000-wffffff/)|
-|![New Glasgow (Canada) example sett](/setts/s8/b4r8g54r44w10b50r8g56-b000048-g004c00-rdc0000-wffffff/sett.png)|
-| [New Glasgow (Canada)](/setts/s8/b4r8g54r44w10b50r8g56-b440044-g285800-rc80000-wfcfcfc/)|
-|![New Glasgow (Canada) example sett](/setts/s8/b4r8g54r44w10b50r8g56-b440044-g285800-rc80000-wfcfcfc/sett.png)|
+| [New Glasgow (Canada)](/setts/s8/g56r8b50w10r44g54r8b4-b000048-g004c00-rdc0000-wffffff/)|
+|![New Glasgow (Canada) example sett](/setts/s8/g56r8b50w10r44g54r8b4-b000048-g004c00-rdc0000-wffffff/sett.png)|
+| [New Glasgow (Canada)](/setts/s8/g56r8b50w10r44g54r8b4-b440044-g285800-rc80000-wfcfcfc/)|
+|![New Glasgow (Canada) example sett](/setts/s8/g56r8b50w10r44g54r8b4-b440044-g285800-rc80000-wfcfcfc/sett.png)|

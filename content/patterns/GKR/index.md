@@ -28,5 +28,5 @@ GKR
 |![Wilson's, No 200 example sett](/setts/s3/g8k14r8-g008000-k000000-rc00000/sett.png)|
 | [Wilson's, No 202](/setts/s3/g14k8r8-g008000-k000000-rc00000/)|
 |![Wilson's, No 202 example sett](/setts/s3/g14k8r8-g008000-k000000-rc00000/sett.png)|
-| [Wilson's, No 204](/setts/s3/g18k22r20-g008000-k000000-rc00000/)|
-|![Wilson's, No 204 example sett](/setts/s3/g18k22r20-g008000-k000000-rc00000/sett.png)|
+| [Wilson's, No 204](/setts/s3/r20k22g18-g008000-k000000-rc00000/)|
+|![Wilson's, No 204 example sett](/setts/s3/r20k22g18-g008000-k000000-rc00000/sett.png)|

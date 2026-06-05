@@ -6,13 +6,6 @@ weight: 5
 Tartan setts with 5 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes5/">‹ prev</a> <a href="/stripes/stripes5/">1</a> <strong>2</strong> <a href="/stripes/stripes5/p3/">3</a> <a href="/stripes/stripes5/p3/">next ›</a></nav>
 
-### GGBGY
-<a class="pat" href="/patterns/ggbgy/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GGBGY</span></a>
-
-| Tartan |
-|---|
-| [Irving of Bonshaw](/patterns/ggbgy/) |
-
 ### GGBKR
 <a class="pat" href="/patterns/ggbkr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">GGBKR</span></a>
 

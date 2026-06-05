@@ -16,5 +16,5 @@ KGKGYKGKGR
 
 | Tartans |
 |---------------|
-| [MacArthur-Fox Green](/setts/s10/k6g12k22g10y6k20g62k4g8r8-g00643c-k101010-rc80000-yfccc00/)|
-|![MacArthur-Fox Green example sett](/setts/s10/k6g12k22g10y6k20g62k4g8r8-g00643c-k101010-rc80000-yfccc00/sett.png)|
+| [MacArthur-Fox Green](/setts/s10/r8g8k4g62k20y6g10k22g12k6-g00643c-k101010-rc80000-yfccc00/)|
+|![MacArthur-Fox Green example sett](/setts/s10/r8g8k4g62k20y6g10k22g12k6-g00643c-k101010-rc80000-yfccc00/sett.png)|

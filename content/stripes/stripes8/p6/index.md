@@ -6,35 +6,6 @@ weight: 8
 Tartan setts with 8 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes8/p5/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <a href="/stripes/stripes8/p5/">5</a> <strong>6</strong> </nav>
 
-### WRBRGYGY
-<a class="pat" href="/patterns/wrbrgygy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRBRGYGY</span></a>
-
-| Tartan |
-|---|
-| [Hall (P.I.E.) (Personal)](/patterns/wrbrgygy/) |
-
-### WRGRBWBY
-<a class="pat" href="/patterns/wrgrbwby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRGRBWBY</span></a>
-
-| Tartan |
-|---|
-| [Manitoba Masonic](/patterns/wrgrbwby/) |
-| [Manitoba Masonic (Corporate)](/patterns/wrgrbwby/) |
-
-### WRKRKRKY
-<a class="pat" href="/patterns/wrkrkrky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRKRKRKY</span></a>
-
-| Tartan |
-|---|
-| [Mens Bigi](/patterns/wrkrkrky/) |
-
-### WRRRGBGY
-<a class="pat" href="/patterns/wrrrgbgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRRRGBGY</span></a>
-
-| Tartan |
-|---|
-| [Etienne, Paschal Tache Sir...](/patterns/wrrrgbgy/) |
-
 ### WRWGWGKY
 <a class="pat" href="/patterns/wrwgwgky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRWGWGKY</span></a>
 

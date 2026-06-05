@@ -1,5 +1,5 @@
 ---
-title: "Lorne (Royal?)"
+title: "5th Royal Scots of Canada (Military)"
 date: 2023-03-18
 ---
 In pattern [BKGKGKGKBKBKBKG](/patterns/bkgkgkgkbkbkbkg/).
@@ -7,7 +7,7 @@ In pattern [BKGKGKGKBKBKBKG](/patterns/bkgkgkgkbkbkbkg/).
 
 This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6/
+Original link http://www.tartansauthority.com/tartan-ferret/display/5892/
 
 ## Thread count
 DB/8 K4 G32 K4 G4 K4 G4 K32 DB4 K4 DB4 K4 DB32 K4 G/8

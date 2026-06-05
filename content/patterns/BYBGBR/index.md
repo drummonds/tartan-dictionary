@@ -6,7 +6,7 @@ BYBGBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6y6b30g6b30r10-b2c2c80-g006818-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r10b30g6b30y6b6-b2c2c80-g006818-rc80000-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYBGBR
 
 | Tartans |
 |---------------|
-| [Abertay University (Estimated threadcount)](/setts/s6/b6y6b30g6b30r10-b2c2c80-g006818-rc80000-ye8c000/)|
-|![Abertay University (Estimated threadcount) example sett](/setts/s6/b6y6b30g6b30r10-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
-| [Abertay University (Corporate)](/setts/s6/b6y6b30g6b30r10-b2c2c80-g006818-rc80000-ye8c000/)|
-|![Abertay University (Corporate) example sett](/setts/s6/b6y6b30g6b30r10-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Abertay University (Estimated threadcount)](/setts/s6/r10b30g6b30y6b6-b2c2c80-g006818-rc80000-ye8c000/)|
+|![Abertay University (Estimated threadcount) example sett](/setts/s6/r10b30g6b30y6b6-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Abertay University (Corporate)](/setts/s6/r10b30g6b30y6b6-b2c2c80-g006818-rc80000-ye8c000/)|
+|![Abertay University (Corporate) example sett](/setts/s6/r10b30g6b30y6b6-b2c2c80-g006818-rc80000-ye8c000/sett.png)|

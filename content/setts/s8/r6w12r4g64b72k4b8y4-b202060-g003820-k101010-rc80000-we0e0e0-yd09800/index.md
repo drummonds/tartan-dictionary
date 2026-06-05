@@ -1,13 +1,13 @@
 ---
-title: "Canadian Centennial (Commemorative)"
+title: "Canadian Centennial"
 date: 2023-03-18
 ---
 In pattern [RWRGBKBY](/patterns/rwrgbkby/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1704/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=543
 
 ## Thread count
 DY/4 DB8 K4 DB72 DG64 R4 LN12 R/6

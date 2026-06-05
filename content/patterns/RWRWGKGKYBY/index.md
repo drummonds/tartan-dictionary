@@ -16,5 +16,5 @@ RWRWGKGKYBY
 
 | Tartans |
 |---------------|
-| [Beaudoux - Amis Picards (District)](/setts/s11/r4w8r4w18g6k2g6k52y8b14y8-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/)|
-|![Beaudoux - Amis Picards (District) example sett](/setts/s11/r4w8r4w18g6k2g6k52y8b14y8-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/sett.png)|
+| [Beaudoux - Amis Picards (District)](/setts/s11/y8b14y8k52g6k2g6w18r4w8r4-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/)|
+|![Beaudoux - Amis Picards (District) example sett](/setts/s11/y8b14y8k52g6k2g6w18r4w8r4-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/sett.png)|

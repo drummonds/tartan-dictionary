@@ -16,5 +16,5 @@ RGRKBKRKYKR
 
 | Tartans |
 |---------------|
-| [O'Malley (Name?)](/setts/s11/r4g16r4k2b4k2r90k6y8k6r90-b780078-g006818-k101010-rc80000-ye8c000/)|
-|![O'Malley (Name?) example sett](/setts/s11/r4g16r4k2b4k2r90k6y8k6r90-b780078-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [O'Malley (Name?)](/setts/s11/r90k6y8k6r90k2b4k2r4g16r4-b780078-g006818-k101010-rc80000-ye8c000/)|
+|![O'Malley (Name?) example sett](/setts/s11/r90k6y8k6r90k2b4k2r4g16r4-b780078-g006818-k101010-rc80000-ye8c000/sett.png)|

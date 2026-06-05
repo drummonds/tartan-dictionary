@@ -16,5 +16,5 @@ BWBWBWRYKYWYKYW
 
 | Tartans |
 |---------------|
-| [Salaberry-de-Valleyfield Ceremonial](/setts/s15/b6w8b6w8b6w8r44y4k2y4w32ya2k4ya2w32-b0000cd-k101010-rff0000-wffffff-y86c67c-yaffd700/)|
-|![Salaberry-de-Valleyfield Ceremonial example sett](/setts/s15/b6w8b6w8b6w8r44y4k2y4w32ya2k4ya2w32-b0000cd-k101010-rff0000-wffffff-y86c67c-yaffd700/sett.png)|
+| [Salaberry-de-Valleyfield Ceremonial](/setts/s15/w32y2k4y2w32ya4k2ya4r44w8b6w8b6w8b6-b0000cd-k101010-rff0000-wffffff-yffd700-ya86c67c/)|
+|![Salaberry-de-Valleyfield Ceremonial example sett](/setts/s15/w32y2k4y2w32ya4k2ya4r44w8b6w8b6w8b6-b0000cd-k101010-rff0000-wffffff-yffd700-ya86c67c/sett.png)|

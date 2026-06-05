@@ -16,5 +16,5 @@ BBBKBGKBB
 
 | Tartans |
 |---------------|
-| [Fermanagh (1990)](/setts/s9/b8ba8k2g8bb8k2bb2b8bb88-b441800-ba1c0070-bb5c5c5c-g8c7038-k101010/)|
-|![Fermanagh (1990) example sett](/setts/s9/b8ba8k2g8bb8k2bb2b8bb88-b441800-ba1c0070-bb5c5c5c-g8c7038-k101010/sett.png)|
+| [Fermanagh (1990)](/setts/s9/b88ba8b2k2b8g8k2bb8ba8-b5c5c5c-ba441800-bb1c0070-g8c7038-k101010/)|
+|![Fermanagh (1990) example sett](/setts/s9/b88ba8b2k2b8g8k2bb8ba8-b5c5c5c-ba441800-bb1c0070-g8c7038-k101010/sett.png)|

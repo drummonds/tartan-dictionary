@@ -6,7 +6,7 @@ BGBGYWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8g6ba36ga36y8w6r48-b5c8ca8-ba780078-g5c6428-ga003820-rc80000-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s7/r48w6y8g36b36ga6ba8-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBGYWR
 
 | Tartans |
 |---------------|
-| [Walter (Personal)](/setts/s7/b8g6ba36ga36y8w6r48-b5c8ca8-ba780078-g5c6428-ga003820-rc80000-wfcfcfc-ye8c000/)|
-|![Walter (Personal) example sett](/setts/s7/b8g6ba36ga36y8w6r48-b5c8ca8-ba780078-g5c6428-ga003820-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [Walter](/setts/s7/b8g6ba36ga36y8w6r48-b5480b0-ba800080-g505020-ga003000-rc00000-we0e0e0-yf0c000/)|
-|![Walter example sett](/setts/s7/b8g6ba36ga36y8w6r48-b5480b0-ba800080-g505020-ga003000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Walter (Personal)](/setts/s7/r48w6y8g36b36ga6ba8-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/)|
+|![Walter (Personal) example sett](/setts/s7/r48w6y8g36b36ga6ba8-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Walter](/setts/s7/r48w6y8g36b36ga6ba8-b800080-ba5480b0-g003000-ga505020-rc00000-we0e0e0-yf0c000/)|
+|![Walter example sett](/setts/s7/r48w6y8g36b36ga6ba8-b800080-ba5480b0-g003000-ga505020-rc00000-we0e0e0-yf0c000/sett.png)|

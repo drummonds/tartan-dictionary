@@ -6,13 +6,6 @@ weight: 4
 Tartan setts with 4 stripes, grouped by colour-sequence pattern.
 <nav class="pager"><a href="/stripes/stripes4/">‹ prev</a> <a href="/stripes/stripes4/">1</a> <strong>2</strong> </nav>
 
-### KRKW
-<a class="pat" href="/patterns/krkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKW</span></a>
-
-| Tartan |
-|---|
-| [Lords, of Skye](/patterns/krkw/) |
-
 ### KRKY
 <a class="pat" href="/patterns/krky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRKY</span></a>
 

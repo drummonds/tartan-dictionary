@@ -6,7 +6,7 @@ BRGKG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b6r24g32k96g8-b4876ff-g696969-k101010-rdb2929/tartan.png)
+![Woven sample](/setts/s5/g8k96g32r24b6-b4876ff-g696969-k101010-rdb2929/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGKG
 
 | Tartans |
 |---------------|
-| [Calgary Firefighters](/setts/s5/b6r24g32k96g8-b4876ff-g696969-k101010-rdb2929/)|
-|![Calgary Firefighters example sett](/setts/s5/b6r24g32k96g8-b4876ff-g696969-k101010-rdb2929/sett.png)|
+| [Calgary Firefighters](/setts/s5/g8k96g32r24b6-b4876ff-g696969-k101010-rdb2929/)|
+|![Calgary Firefighters example sett](/setts/s5/g8k96g32r24b6-b4876ff-g696969-k101010-rdb2929/sett.png)|

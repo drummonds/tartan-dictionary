@@ -6,7 +6,7 @@ KYGKGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k4y4g92k4ga10k4ya20-g285800-ga289c18-k101010-ybc8c00-yaa08858/tartan.png)
+![Woven sample](/setts/s7/y20k4g10k4ga92ya4k4-g289c18-ga285800-k101010-ya08858-yabc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYGKGKY
 
 | Tartans |
 |---------------|
-| [Green Rover (Personal)](/setts/s7/k4y4g92k4ga10k4ya20-g285800-ga289c18-k101010-ybc8c00-yaa08858/)|
-|![Green Rover (Personal) example sett](/setts/s7/k4y4g92k4ga10k4ya20-g285800-ga289c18-k101010-ybc8c00-yaa08858/sett.png)|
+| [Green Rover (Personal)](/setts/s7/y20k4g10k4ga92ya4k4-g289c18-ga285800-k101010-ya08858-yabc8c00/)|
+|![Green Rover (Personal) example sett](/setts/s7/y20k4g10k4ga92ya4k4-g289c18-ga285800-k101010-ya08858-yabc8c00/sett.png)|

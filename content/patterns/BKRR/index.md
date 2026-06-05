@@ -6,7 +6,7 @@ BKRR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b16k24r44ra96-b2c2c80-k101010-r901c38-ra888888/tartan.png)
+![Woven sample](/setts/s4/r96ra44k24b16-b2c2c80-k101010-r888888-ra901c38/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRR
 
 | Tartans |
 |---------------|
-| [Nebar (Corporate)](/setts/s4/b16k24r44ra96-b2c2c80-k101010-r901c38-ra888888/)|
-|![Nebar (Corporate) example sett](/setts/s4/b16k24r44ra96-b2c2c80-k101010-r901c38-ra888888/sett.png)|
+| [Nebar (Corporate)](/setts/s4/r96ra44k24b16-b2c2c80-k101010-r888888-ra901c38/)|
+|![Nebar (Corporate) example sett](/setts/s4/r96ra44k24b16-b2c2c80-k101010-r888888-ra901c38/sett.png)|

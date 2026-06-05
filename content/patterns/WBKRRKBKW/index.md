@@ -16,5 +16,5 @@ WBKRRKBKW
 
 | Tartans |
 |---------------|
-| [Calgary HOG (Corporate)](/setts/s9/w4k2b2k88r20ra4k8b12w8-b5c5c5c-k101010-ra00000-rac80000-wc0c0c0/)|
-|![Calgary HOG (Corporate) example sett](/setts/s9/w4k2b2k88r20ra4k8b12w8-b5c5c5c-k101010-ra00000-rac80000-wc0c0c0/sett.png)|
+| [Calgary HOG (Corporate)](/setts/s9/w8b12k8r4ra20k88b2k2w4-b5c5c5c-k101010-rc80000-raa00000-wc0c0c0/)|
+|![Calgary HOG (Corporate) example sett](/setts/s9/w8b12k8r4ra20k88b2k2w4-b5c5c5c-k101010-rc80000-raa00000-wc0c0c0/sett.png)|

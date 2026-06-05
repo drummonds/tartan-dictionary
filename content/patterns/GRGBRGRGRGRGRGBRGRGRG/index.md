@@ -18,10 +18,10 @@ GRGBRGRGRGRGRGBRGRGRG
 |---------------|
 | [Matheson Dress](/setts/s21/g16r8g2r2g2r48b16g8r2g2r2g8r16g2r2g2r2b16g16r4g8-b440044-g006818-rc80000/)|
 |![Matheson Dress example sett](/setts/s21/g16r8g2r2g2r48b16g8r2g2r2g8r16g2r2g2r2b16g16r4g8-b440044-g006818-rc80000/sett.png)|
-| [Matheson (WCWM)](/setts/s21/g8r4g8b8r4g4r4g4r8g6r4g4r4g8b8r36g4r4g4r8g8-b1c0070-g006818-r880000/)|
-|![Matheson (WCWM) example sett](/setts/s21/g8r4g8b8r4g4r4g4r8g6r4g4r4g8b8r36g4r4g4r8g8-b1c0070-g006818-r880000/sett.png)|
-| [Matheson (Clan)](/setts/s21/g16r8g32b32r4g4r4g4r32g16r4g4r4g16b32r56g4r4g4r16g32-b1c1c50-g005010-rac2418/)|
-|![Matheson (Clan) example sett](/setts/s21/g16r8g32b32r4g4r4g4r32g16r4g4r4g16b32r56g4r4g4r16g32-b1c1c50-g005010-rac2418/sett.png)|
+| [Matheson (WCWM)](/setts/s21/g8r8g4r4g4r36b8g8r4g4r4g6r8g4r4g4r4b8g8r4g8-b1c0070-g006818-r880000/)|
+|![Matheson (WCWM) example sett](/setts/s21/g8r8g4r4g4r36b8g8r4g4r4g6r8g4r4g4r4b8g8r4g8-b1c0070-g006818-r880000/sett.png)|
+| [Matheson (Clan)](/setts/s21/g32r16g4r4g4r56b32g16r4g4r4g16r32g4r4g4r4b32g32r8g16-b1c1c50-g005010-rac2418/)|
+|![Matheson (Clan) example sett](/setts/s21/g32r16g4r4g4r56b32g16r4g4r4g16r32g4r4g4r4b32g32r8g16-b1c1c50-g005010-rac2418/sett.png)|
 | [Matheson](/setts/s21/g16r8g2r2g2r48b16g8r2g2r2g8r16g2r2g2r2b16g16r4g8-b00004c-g004c00-rc80000/)|
 |![Matheson example sett](/setts/s21/g16r8g2r2g2r48b16g8r2g2r2g8r16g2r2g2r2b16g16r4g8-b00004c-g004c00-rc80000/sett.png)|
 | [Matheson](/setts/s21/g16r8g2r2g2r48b16g8r2g2r2g8r16g2r2g2r2b16g16r4g8-b304080-g008000-rc00000/)|

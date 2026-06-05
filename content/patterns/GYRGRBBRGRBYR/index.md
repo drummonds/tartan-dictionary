@@ -16,7 +16,7 @@ GYRGRBBRGRBYR
 
 | Tartans |
 |---------------|
-| [MacDonald of Glencoe #2](/setts/s13/g8y2r8g4r84b2ba20r10g60r4ba4y2r10-b3c82af-ba2c4084-g005020-r960028-ye8c000/)|
-|![MacDonald of Glencoe #2 example sett](/setts/s13/g8y2r8g4r84b2ba20r10g60r4ba4y2r10-b3c82af-ba2c4084-g005020-r960028-ye8c000/sett.png)|
-| [MacDonald, of Glencoe](/setts/s13/g8y2r8g4r84b2ba20r10g60r4ba4y2r10-b5480b0-ba304080-g008000-r900030-yf0c000/)|
-|![MacDonald, of Glencoe example sett](/setts/s13/g8y2r8g4r84b2ba20r10g60r4ba4y2r10-b5480b0-ba304080-g008000-r900030-yf0c000/sett.png)|
+| [MacDonald of Glencoe #2](/setts/s13/r10y2b4r4g60r10b20ba2r84g4r8y2g8-b2c4084-ba3c82af-g005020-r960028-ye8c000/)|
+|![MacDonald of Glencoe #2 example sett](/setts/s13/r10y2b4r4g60r10b20ba2r84g4r8y2g8-b2c4084-ba3c82af-g005020-r960028-ye8c000/sett.png)|
+| [MacDonald, of Glencoe](/setts/s13/r10y2b4r4g60r10b20ba2r84g4r8y2g8-b304080-ba5480b0-g008000-r900030-yf0c000/)|
+|![MacDonald, of Glencoe example sett](/setts/s13/r10y2b4r4g60r10b20ba2r84g4r8y2g8-b304080-ba5480b0-g008000-r900030-yf0c000/sett.png)|

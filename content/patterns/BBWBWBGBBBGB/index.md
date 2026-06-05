@@ -16,5 +16,5 @@ BBWBWBGBBBGB
 
 | Tartans |
 |---------------|
-| [Scottish Parliament (Official)](/setts/s12/b4ba11w2bb36w2ba4g3b7bc2b7g3ba45-b272844-ba3e5e5d-bb362841-bc592237-g33625c-wffffff/)|
-|![Scottish Parliament (Official) example sett](/setts/s12/b4ba11w2bb36w2ba4g3b7bc2b7g3ba45-b272844-ba3e5e5d-bb362841-bc592237-g33625c-wffffff/sett.png)|
+| [Scottish Parliament (Official)](/setts/s12/b45g3ba7bb2ba7g3b4w2bc36w2b11ba4-b3e5e5d-ba272844-bb592237-bc362841-g33625c-wffffff/)|
+|![Scottish Parliament (Official) example sett](/setts/s12/b45g3ba7bb2ba7g3b4w2bc36w2b11ba4-b3e5e5d-ba272844-bb592237-bc362841-g33625c-wffffff/sett.png)|

@@ -6,7 +6,7 @@ RRYRRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r20ra6y12r28ra16y42-rc80000-rae87878-ye8c000/tartan.png)
+![Woven sample](/setts/s6/y42r16ra28y12r6ra20-re87878-rac80000-ye8c000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RRYRRY
 
 | Tartans |
 |---------------|
-| [Kozlosky (Personal)](/setts/s6/r20ra6y12r28ra16y42-rc80000-rae87878-ye8c000/)|
-|![Kozlosky (Personal) example sett](/setts/s6/r20ra6y12r28ra16y42-rc80000-rae87878-ye8c000/sett.png)|
-| [Kozlosky, Kilt](/setts/s6/r20ra6y12r28ra15y42-rc00000-rad03030-yf0c000/)|
-|![Kozlosky, Kilt example sett](/setts/s6/r20ra6y12r28ra15y42-rc00000-rad03030-yf0c000/sett.png)|
+| [Kozlosky (Personal)](/setts/s6/y42r16ra28y12r6ra20-re87878-rac80000-ye8c000/)|
+|![Kozlosky (Personal) example sett](/setts/s6/y42r16ra28y12r6ra20-re87878-rac80000-ye8c000/sett.png)|
+| [Kozlosky, Kilt](/setts/s6/y42r15ra28y12r6ra20-rd03030-rac00000-yf0c000/)|
+|![Kozlosky, Kilt example sett](/setts/s6/y42r15ra28y12r6ra20-rd03030-rac00000-yf0c000/sett.png)|

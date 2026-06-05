@@ -6,7 +6,7 @@ KRWRKRWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k36w4r2k12r6w20r4k88-k101010-rdc0000-wffffff/tartan.png)
+![Woven sample](/setts/s8/k88r4w20r6k12r2w4k36-k101010-rdc0000-wffffff/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWRKRWK
 
 | Tartans |
 |---------------|
-| [Mull Rugby Club](/setts/s8/k36w4r2k12r6w20r4k88-k101010-rdc0000-wffffff/)|
-|![Mull Rugby Club example sett](/setts/s8/k36w4r2k12r6w20r4k88-k101010-rdc0000-wffffff/sett.png)|
+| [Mull Rugby Club](/setts/s8/k88r4w20r6k12r2w4k36-k101010-rdc0000-wffffff/)|
+|![Mull Rugby Club example sett](/setts/s8/k88r4w20r6k12r2w4k36-k101010-rdc0000-wffffff/sett.png)|

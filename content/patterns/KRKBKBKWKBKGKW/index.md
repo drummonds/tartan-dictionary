@@ -16,5 +16,5 @@ KRKBKBKWKBKGKW
 
 | Tartans |
 |---------------|
-| [Unnamed - C19th (Annie Oakley)](/setts/s14/k8r80k4b8k4b20k4w16k4b28k4g40k4w16-b202060-g003820-k101010-rd05054-wfcfcfc/)|
-|![Unnamed - C19th (Annie Oakley) example sett](/setts/s14/k8r80k4b8k4b20k4w16k4b28k4g40k4w16-b202060-g003820-k101010-rd05054-wfcfcfc/sett.png)|
+| [Unnamed - C19th (Annie Oakley)](/setts/s14/w16k4g40k4b28k4w16k4b20k4b8k4r80k8-b202060-g003820-k101010-rd05054-wfcfcfc/)|
+|![Unnamed - C19th (Annie Oakley) example sett](/setts/s14/w16k4g40k4b28k4w16k4b20k4b8k4r80k8-b202060-g003820-k101010-rd05054-wfcfcfc/sett.png)|

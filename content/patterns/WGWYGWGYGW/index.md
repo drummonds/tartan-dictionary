@@ -16,5 +16,5 @@ WGWYGWGYGW
 
 | Tartans |
 |---------------|
-| [Loch Skene (Fashion)](/setts/s10/w12g4w16y24g6w4g6ya4g30w96-g604000-we8ccb8-ya08858-yafcb464/)|
-|![Loch Skene (Fashion) example sett](/setts/s10/w12g4w16y24g6w4g6ya4g30w96-g604000-we8ccb8-ya08858-yafcb464/sett.png)|
+| [Loch Skene (Fashion)](/setts/s10/w96g30y4g6w4g6ya24w16g4w12-g604000-we8ccb8-yfcb464-yaa08858/)|
+|![Loch Skene (Fashion) example sett](/setts/s10/w96g30y4g6w4g6ya24w16g4w12-g604000-we8ccb8-yfcb464-yaa08858/sett.png)|

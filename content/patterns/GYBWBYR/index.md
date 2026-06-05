@@ -6,7 +6,7 @@ GYBWBYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g16y8b4w24b4ya10r38-b1474b4-g408060-rdc4038-wf8e4bc-yc8a400-yaa0a0a0/tartan.png)
+![Woven sample](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYBWBYR
 
 | Tartans |
 |---------------|
-| [Ontario, Northern](/setts/s7/g16y8b4w24b4ya10r38-b1474b4-g408060-rdc4038-wf8e4bc-yc8a400-yaa0a0a0/)|
-|![Ontario, Northern example sett](/setts/s7/g16y8b4w24b4ya10r38-b1474b4-g408060-rdc4038-wf8e4bc-yc8a400-yaa0a0a0/sett.png)|
-| [Northern Ontario (District)](/setts/s7/g16y8b4w24b4ya10r38-b1474b4-g408060-rdc4038-wf8e4bc-yc8a400-yaa0a0a0/)|
-|![Northern Ontario (District) example sett](/setts/s7/g16y8b4w24b4ya10r38-b1474b4-g408060-rdc4038-wf8e4bc-yc8a400-yaa0a0a0/sett.png)|
+| [Ontario, Northern](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/)|
+|![Ontario, Northern example sett](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/sett.png)|
+| [Northern Ontario (District)](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/)|
+|![Northern Ontario (District) example sett](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/sett.png)|

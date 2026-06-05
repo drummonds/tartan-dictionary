@@ -16,5 +16,5 @@ WYKYGKWKWKYYW
 
 | Tartans |
 |---------------|
-| [O'Farrell (Name)](/setts/s13/w2y6k4y12g16k4w4k4w4k12ya6y28w4-g006818-k101010-we0e0e0-ya08858-yae8c000/)|
-|![O'Farrell (Name) example sett](/setts/s13/w2y6k4y12g16k4w4k4w4k12ya6y28w4-g006818-k101010-we0e0e0-ya08858-yae8c000/sett.png)|
+| [O'Farrell (Name)](/setts/s13/w4y28ya6k12w4k4w4k4g16y12k4y6w2-g006818-k101010-we0e0e0-ya08858-yae8c000/)|
+|![O'Farrell (Name) example sett](/setts/s13/w4y28ya6k12w4k4w4k4g16y12k4y6w2-g006818-k101010-we0e0e0-ya08858-yae8c000/sett.png)|

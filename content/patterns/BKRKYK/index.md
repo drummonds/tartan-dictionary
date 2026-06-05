@@ -6,7 +6,7 @@ BKRKYK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b12k48r12k12y12k96-b304080-k000000-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s6/k96y12k12r12k48b12-b304080-k000000-rc00000-yf0c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRKYK
 
 | Tartans |
 |---------------|
-| [Justus](/setts/s6/b12k48r12k12y12k96-b304080-k000000-rc00000-yf0c000/)|
-|![Justus example sett](/setts/s6/b12k48r12k12y12k96-b304080-k000000-rc00000-yf0c000/sett.png)|
+| [Justus](/setts/s6/k96y12k12r12k48b12-b304080-k000000-rc00000-yf0c000/)|
+|![Justus example sett](/setts/s6/k96y12k12r12k48b12-b304080-k000000-rc00000-yf0c000/sett.png)|

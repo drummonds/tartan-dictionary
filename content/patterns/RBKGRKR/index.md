@@ -20,17 +20,17 @@ RBKGRKR
 |---------------|
 | [MacDuff #5](/setts/s7/r16b6k8g12r8k2r8-b3c82af-g005020-k101010-rdc0000/)|
 |![MacDuff #5 example sett](/setts/s7/r16b6k8g12r8k2r8-b3c82af-g005020-k101010-rdc0000/sett.png)|
-| [MacDuff - 1819 (Clan)](/setts/s7/r20k6r20g34k24b18r72-b2c2c80-g006818-k101010-rc80000/)|
-|![MacDuff - 1819 (Clan) example sett](/setts/s7/r20k6r20g34k24b18r72-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [MacDuff - 1819 (Clan)](/setts/s7/r72b18k24g34r20k6r20-b2c2c80-g006818-k101010-rc80000/)|
+|![MacDuff - 1819 (Clan) example sett](/setts/s7/r72b18k24g34r20k6r20-b2c2c80-g006818-k101010-rc80000/sett.png)|
 | [MacDuff](/setts/s7/r16b6k8g12r8k2r8-b00004c-g004c00-k000000-rc80000/)|
 |![MacDuff example sett](/setts/s7/r16b6k8g12r8k2r8-b00004c-g004c00-k000000-rc80000/sett.png)|
-| [MacDuff](/setts/s7/r20k6r20g34k24b18r72-b304080-g008000-k000000-rc00000/)|
-|![MacDuff example sett](/setts/s7/r20k6r20g34k24b18r72-b304080-g008000-k000000-rc00000/sett.png)|
+| [MacDuff](/setts/s7/r72b18k24g34r20k6r20-b304080-g008000-k000000-rc00000/)|
+|![MacDuff example sett](/setts/s7/r72b18k24g34r20k6r20-b304080-g008000-k000000-rc00000/sett.png)|
 | [MacDuff](/setts/s7/r16b6k8g12r8k2r8-b5480b0-g008000-k000000-rc00000/)|
 |![MacDuff example sett](/setts/s7/r16b6k8g12r8k2r8-b5480b0-g008000-k000000-rc00000/sett.png)|
 | [MacDuff](/setts/s7/r16b6k8g12r8k2r8-b000052-g11450d-k000000-raa0000/)|
 |![MacDuff example sett](/setts/s7/r16b6k8g12r8k2r8-b000052-g11450d-k000000-raa0000/sett.png)|
 | [MacDuff](/setts/s7/r16b6k8g12r8k2r8-b000052-g11450d-k000000-raa0000/)|
 |![MacDuff example sett](/setts/s7/r16b6k8g12r8k2r8-b000052-g11450d-k000000-raa0000/sett.png)|
-| [MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, "It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined." James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r16k4r16g24k16b12r32-b2c2c80-g006818-k101010-rc80000/)|
-|![MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, "It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined." James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r16k4r16g24k16b12r32-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, "It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined." James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r32b12k16g24r16k4r16-b2c2c80-g006818-k101010-rc80000/)|
+|![MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, "It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined." James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r32b12k16g24r16k4r16-b2c2c80-g006818-k101010-rc80000/sett.png)|

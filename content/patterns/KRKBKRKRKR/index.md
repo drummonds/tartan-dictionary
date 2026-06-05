@@ -16,5 +16,5 @@ KRKBKRKRKR
 
 | Tartans |
 |---------------|
-| [Ulster](/setts/s10/k4r4k4b58k4ra4k4ra56k4ra56-b401000-k000000-rc00000-ra806050/)|
-|![Ulster example sett](/setts/s10/k4r4k4b58k4ra4k4ra56k4ra56-b401000-k000000-rc00000-ra806050/sett.png)|
+| [Ulster](/setts/s10/r56k4r56k4r4k4b58k4ra4k4-b401000-k000000-r806050-rac00000/)|
+|![Ulster example sett](/setts/s10/r56k4r56k4r4k4b58k4ra4k4-b401000-k000000-r806050-rac00000/sett.png)|

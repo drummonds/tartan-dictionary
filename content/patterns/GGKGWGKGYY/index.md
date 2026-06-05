@@ -16,7 +16,7 @@ GGKGWGKGYY
 
 | Tartans |
 |---------------|
-| [Noble (South Africa) (Personal)](/setts/s10/g6ga4k20g24w2ga8k12g4y6ya8-g003820-ga005448-k101010-wffffff-yc89800-yaffff00/)|
-|![Noble (South Africa) (Personal) example sett](/setts/s10/g6ga4k20g24w2ga8k12g4y6ya8-g003820-ga005448-k101010-wffffff-yc89800-yaffff00/sett.png)|
-| [Noble (South Africa) (Personal)](/setts/s10/g6ga4k20g24w2ga8k12g4y6ya8-g003820-ga006818-k101010-wfcfcfc-ye8c000-yafccc00/)|
-|![Noble (South Africa) (Personal) example sett](/setts/s10/g6ga4k20g24w2ga8k12g4y6ya8-g003820-ga006818-k101010-wfcfcfc-ye8c000-yafccc00/sett.png)|
+| [Noble (South Africa) (Personal)](/setts/s10/y8ya6g4k12ga8w2g24k20ga4g6-g003820-ga005448-k101010-wffffff-yffff00-yac89800/)|
+|![Noble (South Africa) (Personal) example sett](/setts/s10/y8ya6g4k12ga8w2g24k20ga4g6-g003820-ga005448-k101010-wffffff-yffff00-yac89800/sett.png)|
+| [Noble (South Africa) (Personal)](/setts/s10/y8ya6g4k12ga8w2g24k20ga4g6-g003820-ga006818-k101010-wfcfcfc-yfccc00-yae8c000/)|
+|![Noble (South Africa) (Personal) example sett](/setts/s10/y8ya6g4k12ga8w2g24k20ga4g6-g003820-ga006818-k101010-wfcfcfc-yfccc00-yae8c000/sett.png)|

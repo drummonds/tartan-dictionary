@@ -606,7 +606,6 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 
 | Tartan |
 |---|
-| [Carnet](/patterns/bgbgbgbgbg/) |
 | [Inkster](/patterns/bgbgbgbgbg/) |
 
 ### BGBGBGBGGB
@@ -1285,13 +1284,6 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 | [Newlands Family Tartan Tartan Number: 2175. Earliest known date: 1986 Designed for Willy Newlands - a journalist who wrote for The Field magazine and who lives (2004) at Lauriston Castle near Aberdeen. Walker is the maiden name of Willie Newland's wife. Note from Willy Newlands in August 2004 says 'based on a rather bloodstained bit if rag on a family cushion'). Mr Newlands also suggests calling it the "Falconers' Tartan" in memory of an ancestor who was a Royal Falconer at the court of King James IV at Linlithgow c.1495. (Sindex notes). Design based on Cameron of Erracht. Letter from Willie newlands 6th April 1988 asked that this now be named Newlands of Lauriston. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/bkbrkgrgrg/) |
 | [Newlands of Lauriston](/patterns/bkbrkgrgrg/) |
 
-### BKBRKRBKBR
-<a class="pat" href="/patterns/bkbrkrbkbr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">BKBRKRBKBR</span></a>
-
-| Tartan |
-|---|
-| [Potts Family Tartan Tartan Number: 4538. Earliest known date: April 2002 A subdued pattern based on the Elliot forebears of the Potts family. The two thread stripes should be retained when adjusting the count for weaving. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/bkbrkrbkbr/) |
-
 ### BKBYBKBRBR
 <a class="pat" href="/patterns/bkbybkbrbr/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">BKBYBKBRBR</span></a>
 
@@ -1350,14 +1342,6 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 | Tartan |
 |---|
 | [U.S. Army](/patterns/bkggygyggk/) |
-
-### BKGKBBBKGK
-<a class="pat" href="/patterns/bkgkbbbkgk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">BKGKBBBKGK</span></a>
-
-| Tartan |
-|---|
-| [Norwich No.059](/patterns/bkgkbbbkgk/) |
-| [Norwich No.059 #2](/patterns/bkgkbbbkgk/) |
 
 ### BKGKBKBKGW
 <a class="pat" href="/patterns/bkgkbkbkgw/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">BKGKBKBKGW</span></a>
@@ -1715,5 +1699,20 @@ Tartan setts with 10 stripes, grouped by colour-sequence pattern.
 |---|
 | [Clyde](/patterns/brbrbbrrbr/) |
 | [Clyde (Pendelton Fashion)](/patterns/brbrbbrrbr/) |
+
+### BRBRBGBGWG
+<a class="pat" href="/patterns/brbrbgbgwg/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="seq">BRBRBGBGWG</span></a>
+
+| Tartan |
+|---|
+| [Bell of Ardbel (Personal)](/patterns/brbrbgbgwg/) |
+| [Bell, John](/patterns/brbrbgbgwg/) |
+
+### BRBRBKGKGK
+<a class="pat" href="/patterns/brbrbkgkgk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">BRBRBKGKGK</span></a>
+
+| Tartan |
+|---|
+| [Park](/patterns/brbrbkgkgk/) |
 
 <nav class="pager"><strong>1</strong> <a href="/stripes/stripes10/p2/">2</a> <a href="/stripes/stripes10/p3/">3</a> <a href="/stripes/stripes10/p4/">4</a> <a href="/stripes/stripes10/p5/">5</a> <a href="/stripes/stripes10/p2/">next ›</a></nav>

@@ -6,7 +6,7 @@ BRBBRB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8r6b60ba60ra8bb16-b14283c-ba2c2c80-bb5c8ca8-rc80000-ra888888/tartan.png)
+![Woven sample](/setts/s6/b16r8ba60bb60ra6bb8-b5c8ca8-ba2c2c80-bb14283c-r888888-rac80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBBRB
 
 | Tartans |
 |---------------|
-| [Hutchesons' Grammar (Corporate)](/setts/s6/b8r6b60ba60ra8bb16-b14283c-ba2c2c80-bb5c8ca8-rc80000-ra888888/)|
-|![Hutchesons' Grammar (Corporate) example sett](/setts/s6/b8r6b60ba60ra8bb16-b14283c-ba2c2c80-bb5c8ca8-rc80000-ra888888/sett.png)|
+| [Hutchesons' Grammar (Corporate)](/setts/s6/b16r8ba60bb60ra6bb8-b5c8ca8-ba2c2c80-bb14283c-r888888-rac80000/)|
+|![Hutchesons' Grammar (Corporate) example sett](/setts/s6/b16r8ba60bb60ra6bb8-b5c8ca8-ba2c2c80-bb14283c-r888888-rac80000/sett.png)|

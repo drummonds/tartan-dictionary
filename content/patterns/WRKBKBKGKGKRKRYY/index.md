@@ -16,5 +16,5 @@ WRKBKBKGKGKRKRYY
 
 | Tartans |
 |---------------|
-| [Muzzi, Massimiliano, baron of Strichen Dress (Personal)](/setts/s16/w2r54k4b10k2b12k4g12k6g18k6r16k4r38y2ya4-b00008c-g005020-k101010-rc80000-wffffff-ya0a0a0-yafccc00/)|
-|![Muzzi, Massimiliano, baron of Strichen Dress (Personal) example sett](/setts/s16/w2r54k4b10k2b12k4g12k6g18k6r16k4r38y2ya4-b00008c-g005020-k101010-rc80000-wffffff-ya0a0a0-yafccc00/sett.png)|
+| [Muzzi, Massimiliano, baron of Strichen Dress (Personal)](/setts/s16/y4ya2r38k4r16k6g18k6g12k4b12k2b10k4r54w2-b00008c-g005020-k101010-rc80000-wffffff-yfccc00-yaa0a0a0/)|
+|![Muzzi, Massimiliano, baron of Strichen Dress (Personal) example sett](/setts/s16/y4ya2r38k4r16k6g18k6g12k4b12k2b10k4r54w2-b00008c-g005020-k101010-rc80000-wffffff-yfccc00-yaa0a0a0/sett.png)|

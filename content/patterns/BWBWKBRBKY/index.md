@@ -16,7 +16,7 @@ BWBWKBRBKY
 
 | Tartans |
 |---------------|
-| [Gillies Dress Blue](/setts/s10/b4w8b4w44k32b24r12b24k3y12-b2474e8-k101010-rc80000-wfcfcfc-yd09800/)|
-|![Gillies Dress Blue example sett](/setts/s10/b4w8b4w44k32b24r12b24k3y12-b2474e8-k101010-rc80000-wfcfcfc-yd09800/sett.png)|
-| [Gillies, dress Blue](/setts/s10/b4w6b4w50k26ba18r10ba30k4y12-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Gillies, dress Blue example sett](/setts/s10/b4w6b4w50k26ba18r10ba30k4y12-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Gillies Dress Blue](/setts/s10/y12k3b24r12b24k32w44b4w8b4-b2474e8-k101010-rc80000-wfcfcfc-yd09800/)|
+|![Gillies Dress Blue example sett](/setts/s10/y12k3b24r12b24k32w44b4w8b4-b2474e8-k101010-rc80000-wfcfcfc-yd09800/sett.png)|
+| [Gillies, dress Blue](/setts/s10/y12k4b30r10b18k26w50ba4w6ba4-b5480b0-ba304080-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Gillies, dress Blue example sett](/setts/s10/y12k4b30r10b18k26w50ba4w6ba4-b5480b0-ba304080-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

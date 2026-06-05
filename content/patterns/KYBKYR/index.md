@@ -6,7 +6,7 @@ KYBKYR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k12y30b2k3y30r80-baa00ff-k101010-rff0000-y79a6d2/tartan.png)
+![Woven sample](/setts/s6/r80y30k3b2y30k12-baa00ff-k101010-rff0000-y79a6d2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYBKYR
 
 | Tartans |
 |---------------|
-| [Double Elvis Gallery](/setts/s6/k12y30b2k3y30r80-baa00ff-k101010-rff0000-y79a6d2/)|
-|![Double Elvis Gallery example sett](/setts/s6/k12y30b2k3y30r80-baa00ff-k101010-rff0000-y79a6d2/sett.png)|
+| [Double Elvis Gallery](/setts/s6/r80y30k3b2y30k12-baa00ff-k101010-rff0000-y79a6d2/)|
+|![Double Elvis Gallery example sett](/setts/s6/r80y30k3b2y30k12-baa00ff-k101010-rff0000-y79a6d2/sett.png)|

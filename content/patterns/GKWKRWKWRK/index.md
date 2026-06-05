@@ -16,5 +16,5 @@ GKWKRWKWRK
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart navy](/setts/s10/g4k4w4k8r18w4k4w18ra8k74-g503c14-k000028-rbe7832-ra960000-we0e0e0/)|
-|![Stuart/Stewart navy example sett](/setts/s10/g4k4w4k8r18w4k4w18ra8k74-g503c14-k000028-rbe7832-ra960000-we0e0e0/sett.png)|
+| [Stuart/Stewart navy](/setts/s10/k74r8w18k4w4ra18k8w4k4g4-g503c14-k000028-r960000-rabe7832-we0e0e0/)|
+|![Stuart/Stewart navy example sett](/setts/s10/k74r8w18k4w4ra18k8w4k4g4-g503c14-k000028-r960000-rabe7832-we0e0e0/sett.png)|

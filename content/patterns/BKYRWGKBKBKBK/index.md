@@ -16,5 +16,5 @@ BKYRWGKBKBKBK
 
 | Tartans |
 |---------------|
-| [Western Australia-Pending (District)](/setts/s13/b14k3y3r5w6g5k2ba5k5ba3k3ba2k114-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-yfccc00/)|
-|![Western Australia-Pending (District) example sett](/setts/s13/b14k3y3r5w6g5k2ba5k5ba3k3ba2k114-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-yfccc00/sett.png)|
+| [Western Australia-Pending (District)](/setts/s13/k114b2k3b3k5b5k2g5w6r5y3k3ba14-b2888c4-ba2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/)|
+|![Western Australia-Pending (District) example sett](/setts/s13/k114b2k3b3k5b5k2g5w6r5y3k3ba14-b2888c4-ba2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/sett.png)|

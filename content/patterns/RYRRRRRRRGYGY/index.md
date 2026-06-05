@@ -16,5 +16,5 @@ RYRRRRRRRGYGY
 
 | Tartans |
 |---------------|
-| [Strathtay (District?)](/setts/s13/r4y20ra8rb4ra4rb50r4rb4r40g10ya4g4ya12-g406054-r901c38-ra880000-rbe86000-yc4bc68-yaa0a0a0/)|
-|![Strathtay (District?) example sett](/setts/s13/r4y20ra8rb4ra4rb50r4rb4r40g10ya4g4ya12-g406054-r901c38-ra880000-rbe86000-yc4bc68-yaa0a0a0/sett.png)|
+| [Strathtay (District?)](/setts/s13/y12g4y4g10r40ra4r4ra50rb4ra4rb8ya20r4-g406054-r901c38-rae86000-rb880000-ya0a0a0-yac4bc68/)|
+|![Strathtay (District?) example sett](/setts/s13/y12g4y4g10r40ra4r4ra50rb4ra4rb8ya20r4-g406054-r901c38-rae86000-rb880000-ya0a0a0-yac4bc68/sett.png)|

@@ -16,5 +16,5 @@ YBBBBBGBY
 
 | Tartans |
 |---------------|
-| [Blue Peter](/setts/s9/y4b8g8ba40bb8ba8bb8bb40y6-b780078-ba003c64-bb38409c-g289c18-yfccc00/)|
-|![Blue Peter example sett](/setts/s9/y4b8g8ba40bb8ba8bb8bb40y6-b780078-ba003c64-bb38409c-g289c18-yfccc00/sett.png)|
+| [Blue Peter](/setts/s9/y6b40b8ba8b8ba40g8bb8y4-b38409c-ba003c64-bb780078-g289c18-yfccc00/)|
+|![Blue Peter example sett](/setts/s9/y6b40b8ba8b8ba40g8bb8y4-b38409c-ba003c64-bb780078-g289c18-yfccc00/sett.png)|

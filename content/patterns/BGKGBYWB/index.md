@@ -6,7 +6,7 @@ BGKGBYWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4w4y8ba28g6k28g6bb78-b2a2303-ba3c82af-bb2c4084-g503c14-k101010-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b78g6k28g6ba28y8w4bb4-b2c4084-ba3c82af-bb2a2303-g503c14-k101010-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGKGBYWB
 
 | Tartans |
 |---------------|
-| [Unidentified Lady's kilt](/setts/s8/b4w4y8ba28g6k28g6bb78-b2a2303-ba3c82af-bb2c4084-g503c14-k101010-we0e0e0-ye8c000/)|
-|![Unidentified Lady's kilt example sett](/setts/s8/b4w4y8ba28g6k28g6bb78-b2a2303-ba3c82af-bb2c4084-g503c14-k101010-we0e0e0-ye8c000/sett.png)|
+| [Unidentified Lady's kilt](/setts/s8/b78g6k28g6ba28y8w4bb4-b2c4084-ba3c82af-bb2a2303-g503c14-k101010-we0e0e0-ye8c000/)|
+|![Unidentified Lady's kilt example sett](/setts/s8/b78g6k28g6ba28y8w4bb4-b2c4084-ba3c82af-bb2a2303-g503c14-k101010-we0e0e0-ye8c000/sett.png)|

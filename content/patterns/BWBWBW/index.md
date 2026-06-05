@@ -32,8 +32,8 @@ BWBWBW
 |![MacMugen (Personal) example sett](/setts/s6/b9w48b12w9b36w6-b003c64-wfcf0c8/sett.png)|
 | [Erskine, Blue (Dance)](/setts/s6/b12w4b58w58b4w12-b2c2c80-wfcfcfc/)|
 |![Erskine, Blue (Dance) example sett](/setts/s6/b12w4b58w58b4w12-b2c2c80-wfcfcfc/sett.png)|
-| [Ikelman #1 (Personal)](/setts/s6/b4w4b8w8b64w32-b202060-we0e0e0/)|
-|![Ikelman #1 (Personal) example sett](/setts/s6/b4w4b8w8b64w32-b202060-we0e0e0/sett.png)|
+| [Ikelman #1 (Personal)](/setts/s6/w32b64w8b8w4b4-b202060-we0e0e0/)|
+|![Ikelman #1 (Personal) example sett](/setts/s6/w32b64w8b8w4b4-b202060-we0e0e0/sett.png)|
 | [MacMugen](/setts/s6/b9w48b12w9b36w6-b003c64-wfcf0c8/)|
 |![MacMugen example sett](/setts/s6/b9w48b12w9b36w6-b003c64-wfcf0c8/sett.png)|
 | [Erskine, Lt Blue (Dance)](/setts/s6/b12w4b58w58b4w12-b2888c4-wfcfcfc/)|

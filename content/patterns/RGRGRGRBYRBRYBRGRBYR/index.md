@@ -16,5 +16,5 @@ RGRGRGRBYRBRYBRGRBYR
 
 | Tartans |
 |---------------|
-| [Munro](/setts/s20/r38y2b2r4g36r4b2y2r4b8r4y2b2r38g4r4g4r4g4r40-b304080-g008000-rc00000-yf0c000/)|
-|![Munro example sett](/setts/s20/r38y2b2r4g36r4b2y2r4b8r4y2b2r38g4r4g4r4g4r40-b304080-g008000-rc00000-yf0c000/sett.png)|
+| [Munro](/setts/s20/r40g4r4g4r4g4r38b2y2r4b8r4y2b2r4g36r4b2y2r38-b304080-g008000-rc00000-yf0c000/)|
+|![Munro example sett](/setts/s20/r40g4r4g4r4g4r38b2y2r4b8r4y2b2r4g36r4b2y2r38-b304080-g008000-rc00000-yf0c000/sett.png)|

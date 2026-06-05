@@ -6,7 +6,7 @@ BBKBGKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6ba24k6ba42g18k28g42-b780078-ba2c2c80-g006818-k101010/tartan.png)
+![Woven sample](/setts/s7/g42k28g18b42k6b24ba6-b2c2c80-ba780078-g006818-k101010/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BBKBGKG
 
 | Tartans |
 |---------------|
-| [Scotsman](/setts/s7/b6ba24k6ba42g18k28g42-b780078-ba2c2c80-g006818-k101010/)|
-|![Scotsman example sett](/setts/s7/b6ba24k6ba42g18k28g42-b780078-ba2c2c80-g006818-k101010/sett.png)|
-| [Scotsman (Corporate)](/setts/s7/b6ba24k6ba42g18k28g42-b780078-ba2c2c80-g006818-k101010/)|
-|![Scotsman (Corporate) example sett](/setts/s7/b6ba24k6ba42g18k28g42-b780078-ba2c2c80-g006818-k101010/sett.png)|
-| [Scotsman](/setts/s7/b6ba24k6ba42g18k28g42-b800080-ba102040-g004010-k000000/)|
-|![Scotsman example sett](/setts/s7/b6ba24k6ba42g18k28g42-b800080-ba102040-g004010-k000000/sett.png)|
+| [Scotsman](/setts/s7/g42k28g18b42k6b24ba6-b2c2c80-ba780078-g006818-k101010/)|
+|![Scotsman example sett](/setts/s7/g42k28g18b42k6b24ba6-b2c2c80-ba780078-g006818-k101010/sett.png)|
+| [Scotsman (Corporate)](/setts/s7/g42k28g18b42k6b24ba6-b2c2c80-ba780078-g006818-k101010/)|
+|![Scotsman (Corporate) example sett](/setts/s7/g42k28g18b42k6b24ba6-b2c2c80-ba780078-g006818-k101010/sett.png)|
+| [Scotsman](/setts/s7/g42k28g18b42k6b24ba6-b102040-ba800080-g004010-k000000/)|
+|![Scotsman example sett](/setts/s7/g42k28g18b42k6b24ba6-b102040-ba800080-g004010-k000000/sett.png)|

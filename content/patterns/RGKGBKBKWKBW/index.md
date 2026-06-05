@@ -16,5 +16,5 @@ RGKGBKBKWKBW
 
 | Tartans |
 |---------------|
-| [Canmore Highland Games Dress](/setts/s12/r4g6k4g16b18k2ba4k4w6k14b4w104-b000099-ba660066-g006666-k101010-r996600-wffffff/)|
-|![Canmore Highland Games Dress example sett](/setts/s12/r4g6k4g16b18k2ba4k4w6k14b4w104-b000099-ba660066-g006666-k101010-r996600-wffffff/sett.png)|
+| [Canmore Highland Games Dress](/setts/s12/w104b4k14w6k4ba4k2b18g16k4g6r4-b000099-ba660066-g006666-k101010-r996600-wffffff/)|
+|![Canmore Highland Games Dress example sett](/setts/s12/w104b4k14w6k4ba4k2b18g16k4g6r4-b000099-ba660066-g006666-k101010-r996600-wffffff/sett.png)|

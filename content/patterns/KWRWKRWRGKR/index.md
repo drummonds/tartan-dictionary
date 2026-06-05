@@ -16,7 +16,7 @@ KWRWKRWRGKR
 
 | Tartans |
 |---------------|
-| [Grey Spencer Plaid](/setts/s11/k4w10r4w10k18r4w4r4g4k80r16-g604000-k101010-r888888-we0e0e0/)|
-|![Grey Spencer Plaid example sett](/setts/s11/k4w10r4w10k18r4w4r4g4k80r16-g604000-k101010-r888888-we0e0e0/sett.png)|
-| [Grey Spencer Plaid (Fashion)](/setts/s11/k4w10r4w10k18r4w4r4g4k80r16-g604000-k101010-r888888-we0e0e0/)|
-|![Grey Spencer Plaid (Fashion) example sett](/setts/s11/k4w10r4w10k18r4w4r4g4k80r16-g604000-k101010-r888888-we0e0e0/sett.png)|
+| [Grey Spencer Plaid](/setts/s11/r16k80g4r4w4r4k18w10r4w10k4-g604000-k101010-r888888-we0e0e0/)|
+|![Grey Spencer Plaid example sett](/setts/s11/r16k80g4r4w4r4k18w10r4w10k4-g604000-k101010-r888888-we0e0e0/sett.png)|
+| [Grey Spencer Plaid (Fashion)](/setts/s11/r16k80g4r4w4r4k18w10r4w10k4-g604000-k101010-r888888-we0e0e0/)|
+|![Grey Spencer Plaid (Fashion) example sett](/setts/s11/r16k80g4r4w4r4k18w10r4w10k4-g604000-k101010-r888888-we0e0e0/sett.png)|

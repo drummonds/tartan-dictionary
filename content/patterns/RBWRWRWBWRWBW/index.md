@@ -16,7 +16,7 @@ RBWRWRWBWRWBW
 
 | Tartans |
 |---------------|
-| [Fiona](/setts/s13/r8b4w48r4w4r4w8b96wa8r8wa8b8wa64-b3c3c3c-ra0783c-wf8f4d0-wafcc8d8/)|
-|![Fiona example sett](/setts/s13/r8b4w48r4w4r4w8b96wa8r8wa8b8wa64-b3c3c3c-ra0783c-wf8f4d0-wafcc8d8/sett.png)|
-| [Fiona (Fashion)](/setts/s13/r8b4w48r4w4r4w8b96wa8r8wa8b8wa64-b3c3c3c-ra0783c-wf8f4d0-wafcc8d8/)|
-|![Fiona (Fashion) example sett](/setts/s13/r8b4w48r4w4r4w8b96wa8r8wa8b8wa64-b3c3c3c-ra0783c-wf8f4d0-wafcc8d8/sett.png)|
+| [Fiona](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/)|
+|![Fiona example sett](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/sett.png)|
+| [Fiona (Fashion)](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/)|
+|![Fiona (Fashion) example sett](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/sett.png)|

@@ -16,5 +16,5 @@ RGWGWRWRGW
 
 | Tartans |
 |---------------|
-| [Border Sett](/setts/s10/r76g2w32g18w40r40w32r40ga2w150-g006818-ga604000-rc80000-wfcfcfc/)|
-|![Border Sett example sett](/setts/s10/r76g2w32g18w40r40w32r40ga2w150-g006818-ga604000-rc80000-wfcfcfc/sett.png)|
+| [Border Sett](/setts/s10/w150g2r40w32r40w40ga18w32ga2r76-g604000-ga006818-rc80000-wfcfcfc/)|
+|![Border Sett example sett](/setts/s10/w150g2r40w32r40w40ga18w32ga2r76-g604000-ga006818-rc80000-wfcfcfc/sett.png)|

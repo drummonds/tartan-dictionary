@@ -1,13 +1,13 @@
 ---
-title: "Ayrshire Tourist Board"
+title: "Ayrshire Tourist Board (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BRBRBBGBY](/patterns/brbrbbgby/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=153
+Original link http://www.tartansauthority.com/tartan-ferret/display/2202/
 
 ## Thread count
 DB/20 LP6 B8 LP6 DB14 B6 G14 DB34 Y/4

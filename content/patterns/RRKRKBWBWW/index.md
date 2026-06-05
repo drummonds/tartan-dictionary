@@ -16,7 +16,7 @@ RRKRKBWBWW
 
 | Tartans |
 |---------------|
-| [Bell Rock Lighthouse 200th Aniversar](/setts/s10/r6ra8k4ra2k26b50w4b8w14wa10-b202060-k101010-rc80000-raa00000-wa8ace8-wafcfcfc/)|
-|![Bell Rock Lighthouse 200th Aniversar example sett](/setts/s10/r6ra8k4ra2k26b50w4b8w14wa10-b202060-k101010-rc80000-raa00000-wa8ace8-wafcfcfc/sett.png)|
-| [Six Frigates](/setts/s10/r6ra8k4ra2k26b50w4b8w14wa10-b202060-k101010-rc80000-raa00000-wa8ace8-wafcfcfc/)|
-|![Six Frigates example sett](/setts/s10/r6ra8k4ra2k26b50w4b8w14wa10-b202060-k101010-rc80000-raa00000-wa8ace8-wafcfcfc/sett.png)|
+| [Bell Rock Lighthouse 200th Aniversar](/setts/s10/w10wa14b8wa4b50k26r2k4r8ra6-b202060-k101010-ra00000-rac80000-wfcfcfc-waa8ace8/)|
+|![Bell Rock Lighthouse 200th Aniversar example sett](/setts/s10/w10wa14b8wa4b50k26r2k4r8ra6-b202060-k101010-ra00000-rac80000-wfcfcfc-waa8ace8/sett.png)|
+| [Six Frigates](/setts/s10/w10wa14b8wa4b50k26r2k4r8ra6-b202060-k101010-ra00000-rac80000-wfcfcfc-waa8ace8/)|
+|![Six Frigates example sett](/setts/s10/w10wa14b8wa4b50k26r2k4r8ra6-b202060-k101010-ra00000-rac80000-wfcfcfc-waa8ace8/sett.png)|

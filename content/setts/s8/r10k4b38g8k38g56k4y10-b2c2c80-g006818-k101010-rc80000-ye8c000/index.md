@@ -1,13 +1,13 @@
 ---
-title: "Tait #1"
+title: "Tait #1 (Name)"
 date: 2023-03-18
 ---
 In pattern [RKBGKGKY](/patterns/rkbgkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4063
+Original link http://www.tartansauthority.com/tartan-ferret/display/5949/
 
 ## Thread count
 R/10 K4 DB38 G8 K38 G56 K4 Y/10

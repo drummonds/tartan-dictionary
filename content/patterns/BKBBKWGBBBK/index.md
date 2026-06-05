@@ -16,5 +16,5 @@ BKBBKWGBBBK
 
 | Tartans |
 |---------------|
-| [U.S.I. Limited](/setts/s11/b10k6b4ba14k32w4g40ba8b4ba4k40-b3c82af-ba5a5a82-g005020-k000028-we0e0e0/)|
-|![U.S.I. Limited example sett](/setts/s11/b10k6b4ba14k32w4g40ba8b4ba4k40-b3c82af-ba5a5a82-g005020-k000028-we0e0e0/sett.png)|
+| [U.S.I. Limited](/setts/s11/k40b4ba4b8g40w4k32b14ba4k6ba10-b5a5a82-ba3c82af-g005020-k000028-we0e0e0/)|
+|![U.S.I. Limited example sett](/setts/s11/k40b4ba4b8g40w4k32b14ba4k6ba10-b5a5a82-ba3c82af-g005020-k000028-we0e0e0/sett.png)|

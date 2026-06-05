@@ -1,13 +1,13 @@
 ---
-title: "Birnham, Blue (Dance)"
+title: "Birnham Blue"
 date: 2023-03-18
 ---
 In pattern [KWGWBW](/patterns/kwgwbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7599/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5623
 
 ## Thread count
 K/6 W50 G32 W6 B50 W/6

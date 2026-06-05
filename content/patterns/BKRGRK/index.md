@@ -6,7 +6,7 @@ BKRGRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4k2r32g34r4k12-b3c82af-g005020-k101010-rdc0000/tartan.png)
+![Woven sample](/setts/s6/k12r4g34r32k2b4-b3c82af-g005020-k101010-rdc0000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKRGRK
 
 | Tartans |
 |---------------|
-| [Unidentified #15](/setts/s6/b4k2r32g34r4k12-b3c82af-g005020-k101010-rdc0000/)|
-|![Unidentified #15 example sett](/setts/s6/b4k2r32g34r4k12-b3c82af-g005020-k101010-rdc0000/sett.png)|
-| [Unidentified 12](/setts/s6/b4k2r32g34r4k12-b5480b0-g008000-k000000-rc00000/)|
-|![Unidentified 12 example sett](/setts/s6/b4k2r32g34r4k12-b5480b0-g008000-k000000-rc00000/sett.png)|
+| [Unidentified #15](/setts/s6/k12r4g34r32k2b4-b3c82af-g005020-k101010-rdc0000/)|
+|![Unidentified #15 example sett](/setts/s6/k12r4g34r32k2b4-b3c82af-g005020-k101010-rdc0000/sett.png)|
+| [Unidentified 12](/setts/s6/k12r4g34r32k2b4-b5480b0-g008000-k000000-rc00000/)|
+|![Unidentified 12 example sett](/setts/s6/k12r4g34r32k2b4-b5480b0-g008000-k000000-rc00000/sett.png)|

@@ -16,5 +16,5 @@ BBBBBBBRYBBYBYW
 
 | Tartans |
 |---------------|
-| [Strathdon](/setts/s15/b4ba26b4ba4b4ba2b54r8y8b4ba22y16b4y16w6-b4d1a3a-ba401a4f-r7c0000-wd8e9ff-yda8d24/)|
-|![Strathdon example sett](/setts/s15/b4ba26b4ba4b4ba2b54r8y8b4ba22y16b4y16w6-b4d1a3a-ba401a4f-r7c0000-wd8e9ff-yda8d24/sett.png)|
+| [Strathdon](/setts/s15/w6y16b4y16ba22b4y8r8b54ba2b4ba4b4ba26b4-b4d1a3a-ba401a4f-r7c0000-wd8e9ff-yda8d24/)|
+|![Strathdon example sett](/setts/s15/w6y16b4y16ba22b4y8r8b54ba2b4ba4b4ba26b4-b4d1a3a-ba401a4f-r7c0000-wd8e9ff-yda8d24/sett.png)|

@@ -1,13 +1,13 @@
 ---
-title: "Mirror (Corporate)"
+title: "Mirror"
 date: 2023-03-18
 ---
 In pattern [RBKW](/patterns/rbkw/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6218/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2963
 
 ## Thread count
 R/20 DB104 K48 W/8

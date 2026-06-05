@@ -6,7 +6,7 @@ BYBGBGGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b2y2b68g8b8g8ga32r26-b440044-g005020-ga003820-r9c68a4-ya08858/tartan.png)
+![Woven sample](/setts/s8/r26g32ga8b8ga8b68y2b2-b440044-g003820-ga005020-r9c68a4-ya08858/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBGBGGR
 
 | Tartans |
 |---------------|
-| [Heather Mead (Personal)](/setts/s8/b2y2b68g8b8g8ga32r26-b440044-g005020-ga003820-r9c68a4-ya08858/)|
-|![Heather Mead (Personal) example sett](/setts/s8/b2y2b68g8b8g8ga32r26-b440044-g005020-ga003820-r9c68a4-ya08858/sett.png)|
+| [Heather Mead (Personal)](/setts/s8/r26g32ga8b8ga8b68y2b2-b440044-g003820-ga005020-r9c68a4-ya08858/)|
+|![Heather Mead (Personal) example sett](/setts/s8/r26g32ga8b8ga8b68y2b2-b440044-g003820-ga005020-r9c68a4-ya08858/sett.png)|

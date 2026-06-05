@@ -16,5 +16,5 @@ RYYKYWYKYY
 
 | Tartans |
 |---------------|
-| [Irving of Glentulchan (Personal)](/setts/s10/r6y54ya54k6ya6w6ya6k6ya54y54-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/)|
-|![Irving of Glentulchan (Personal) example sett](/setts/s10/r6y54ya54k6ya6w6ya6k6ya54y54-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/sett.png)|
+| [Irving of Glentulchan (Personal)](/setts/s10/y54ya54k6ya6w6ya6k6ya54y54r6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/)|
+|![Irving of Glentulchan (Personal) example sett](/setts/s10/y54ya54k6ya6w6ya6k6ya54y54r6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/sett.png)|

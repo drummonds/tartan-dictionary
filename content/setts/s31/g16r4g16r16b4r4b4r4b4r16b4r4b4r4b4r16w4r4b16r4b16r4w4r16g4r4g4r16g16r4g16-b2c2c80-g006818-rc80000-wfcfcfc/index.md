@@ -1,13 +1,13 @@
 ---
-title: "MacRae - 1850 (Clan)"
+title: "MacRae (Red)"
 date: 2023-03-18
 ---
 In pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/patterns/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [31 stripes tartan](/stripes/stripes31/).
+This was sourced from register-of-tartans.  It is a [31 stripes tartan](/stripes/stripes31/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/859/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2742
 
 ## Thread count
 G/16 R4 G16 R16 DB4 R4 DB4 R4 DB4 R16 DB4 R4 DB4 R4 DB4 R16 W4 R4 DB16 R4 DB16 R4 W4 R16 G4 R4 G4 R16 G16 R4 G/16

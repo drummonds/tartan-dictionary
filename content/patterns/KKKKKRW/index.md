@@ -6,7 +6,7 @@ KKKKKRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k10ka6k12ka40kb16r8w16-k000028-ka001e00-kb101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/w16r8k16ka40kb12ka6kb10-k101010-ka001e00-kb000028-rdc0000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KKKKKRW
 
 | Tartans |
 |---------------|
-| [BlackRock (Asymmetrical)](/setts/s7/k10ka6k12ka40kb16r8w16-k000028-ka001e00-kb101010-rdc0000-we0e0e0/)|
-|![BlackRock (Asymmetrical) example sett](/setts/s7/k10ka6k12ka40kb16r8w16-k000028-ka001e00-kb101010-rdc0000-we0e0e0/sett.png)|
+| [BlackRock (Asymmetrical)](/setts/s7/w16r8k16ka40kb12ka6kb10-k101010-ka001e00-kb000028-rdc0000-we0e0e0/)|
+|![BlackRock (Asymmetrical) example sett](/setts/s7/w16r8k16ka40kb12ka6kb10-k101010-ka001e00-kb000028-rdc0000-we0e0e0/sett.png)|

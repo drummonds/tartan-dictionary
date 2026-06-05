@@ -16,5 +16,5 @@ RWGBBWBYBW
 
 | Tartans |
 |---------------|
-| [Miss Emma Halford-MacLeod](/setts/s10/r6w6g24b28ba24w6ba6y6ba6w204-b405688-ba383f49-g53897b-r994954-we8e9e1-yd3c773/)|
-|![Miss Emma Halford-MacLeod example sett](/setts/s10/r6w6g24b28ba24w6ba6y6ba6w204-b405688-ba383f49-g53897b-r994954-we8e9e1-yd3c773/sett.png)|
+| [Miss Emma Halford-MacLeod](/setts/s10/w204b6y6b6w6b24ba28g24w6r6-b383f49-ba405688-g53897b-r994954-we8e9e1-yd3c773/)|
+|![Miss Emma Halford-MacLeod example sett](/setts/s10/w204b6y6b6w6b24ba28g24w6r6-b383f49-ba405688-g53897b-r994954-we8e9e1-yd3c773/sett.png)|

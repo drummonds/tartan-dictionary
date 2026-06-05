@@ -16,5 +16,5 @@ GKRKBKWKRKRK
 
 | Tartans |
 |---------------|
-| [Dilanan (Musselburgh) (Personal)](/setts/s12/g4k2r10k26b18k6w16k6ra12k20r4k12-b5c5c5c-g006818-k101010-r901c38-ra888888-wc0c0c0/)|
-|![Dilanan (Musselburgh) (Personal) example sett](/setts/s12/g4k2r10k26b18k6w16k6ra12k20r4k12-b5c5c5c-g006818-k101010-r901c38-ra888888-wc0c0c0/sett.png)|
+| [Dilanan (Musselburgh) (Personal)](/setts/s12/k12r4k20ra12k6w16k6b18k26r10k2g4-b5c5c5c-g006818-k101010-r901c38-ra888888-wc0c0c0/)|
+|![Dilanan (Musselburgh) (Personal) example sett](/setts/s12/k12r4k20ra12k6w16k6b18k26r10k2g4-b5c5c5c-g006818-k101010-r901c38-ra888888-wc0c0c0/sett.png)|

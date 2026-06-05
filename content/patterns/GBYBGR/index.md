@@ -6,7 +6,7 @@ GBYBGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8b24y24b13g60r10-b2c294f-g6b380d-rfc0fc0-yd4ad7d/tartan.png)
+![Woven sample](/setts/s6/r10g60b13y24b24g8-b2c294f-g6b380d-rfc0fc0-yd4ad7d/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBYBGR
 
 | Tartans |
 |---------------|
-| [Bronte House Check](/setts/s6/g8b24y24b13g60r10-b2c294f-g6b380d-rfc0fc0-yd4ad7d/)|
-|![Bronte House Check example sett](/setts/s6/g8b24y24b13g60r10-b2c294f-g6b380d-rfc0fc0-yd4ad7d/sett.png)|
+| [Bronte House Check](/setts/s6/r10g60b13y24b24g8-b2c294f-g6b380d-rfc0fc0-yd4ad7d/)|
+|![Bronte House Check example sett](/setts/s6/r10g60b13y24b24g8-b2c294f-g6b380d-rfc0fc0-yd4ad7d/sett.png)|

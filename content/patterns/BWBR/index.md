@@ -6,7 +6,7 @@ BWBR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b32w40ba40r80-b14283c-ba5f749c-r960028-we8ccb8/tartan.png)
+![Woven sample](/setts/s4/r80b40w40ba32-b5f749c-ba14283c-r960028-we8ccb8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBR
 
 | Tartans |
 |---------------|
-| [Haggis Hostels](/setts/s4/b32w40ba40r80-b14283c-ba5f749c-r960028-we8ccb8/)|
-|![Haggis Hostels example sett](/setts/s4/b32w40ba40r80-b14283c-ba5f749c-r960028-we8ccb8/sett.png)|
+| [Haggis Hostels](/setts/s4/r80b40w40ba32-b5f749c-ba14283c-r960028-we8ccb8/)|
+|![Haggis Hostels example sett](/setts/s4/r80b40w40ba32-b5f749c-ba14283c-r960028-we8ccb8/sett.png)|

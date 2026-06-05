@@ -16,5 +16,5 @@ KGRBRBRBRBRGKW
 
 | Tartans |
 |---------------|
-| [MacGuire](/setts/s14/k6g30r30b6r6ba6r6ba6r30b12r6g30k6w10-b304080-ba8080d0-g008000-k000000-rc00000-we0e0e0/)|
-|![MacGuire example sett](/setts/s14/k6g30r30b6r6ba6r6ba6r30b12r6g30k6w10-b304080-ba8080d0-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacGuire](/setts/s14/w10k6g30r6b12r30ba6r6ba6r6b6r30g30k6-b304080-ba8080d0-g008000-k000000-rc00000-we0e0e0/)|
+|![MacGuire example sett](/setts/s14/w10k6g30r6b12r30ba6r6ba6r6b6r30g30k6-b304080-ba8080d0-g008000-k000000-rc00000-we0e0e0/sett.png)|

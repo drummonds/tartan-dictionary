@@ -16,5 +16,5 @@ WGBGBWBKRW
 
 | Tartans |
 |---------------|
-| [Pilkington (2016)](/setts/s10/w2r4k26b16w2b64g4b16g30wa4-b141e46-g005020-k101010-rc82828-wc8c8c8-waffffff/)|
-|![Pilkington (2016) example sett](/setts/s10/w2r4k26b16w2b64g4b16g30wa4-b141e46-g005020-k101010-rc82828-wc8c8c8-waffffff/sett.png)|
+| [Pilkington (2016)](/setts/s10/w4g30b16g4b64wa2b16k26r4wa2-b141e46-g005020-k101010-rc82828-wffffff-wac8c8c8/)|
+|![Pilkington (2016) example sett](/setts/s10/w4g30b16g4b64wa2b16k26r4wa2-b141e46-g005020-k101010-rc82828-wffffff-wac8c8c8/sett.png)|

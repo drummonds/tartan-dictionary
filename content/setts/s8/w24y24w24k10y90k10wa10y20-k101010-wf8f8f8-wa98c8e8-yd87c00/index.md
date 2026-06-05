@@ -1,13 +1,13 @@
 ---
-title: "Tennessee Volunteer"
+title: "Tennessee Volunteer (Corporate)"
 date: 2023-03-18
 ---
 In pattern [WYWKYKWY](/patterns/wywkykwy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4093
+Original link http://www.tartansauthority.com/tartan-ferret/display/6356/
 
 ## Thread count
 O/20 LB10 K10 O90 K10 W24 O24 W/24
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "O/20 LB10 K10 O90 K10 W24 O24 W/24 tartan")
 
 ID: /setts/s8/w24y24w24k10y90k10wa10y20-k101010-wf8f8f8-wa98c8e8-yd87c00/
-d87c00/

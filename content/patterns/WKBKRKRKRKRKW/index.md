@@ -16,5 +16,5 @@ WKBKRKRKRKRKW
 
 | Tartans |
 |---------------|
-| [Danish](/setts/s13/w10k2b40k4r8k4r2k4r8k4r48k2w16-b2c4084-k101010-rdc0000-we0e0e0/)|
-|![Danish example sett](/setts/s13/w10k2b40k4r8k4r2k4r8k4r48k2w16-b2c4084-k101010-rdc0000-we0e0e0/sett.png)|
+| [Danish](/setts/s13/w16k2r48k4r8k4r2k4r8k4b40k2w10-b2c4084-k101010-rdc0000-we0e0e0/)|
+|![Danish example sett](/setts/s13/w16k2r48k4r8k4r2k4r8k4b40k2w10-b2c4084-k101010-rdc0000-we0e0e0/sett.png)|

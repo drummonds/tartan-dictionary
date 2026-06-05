@@ -16,5 +16,5 @@ KRYYGWRYRWRY
 
 | Tartans |
 |---------------|
-| [Studio Wolf Polysun](/setts/s12/k4r4y4ya8g4w4r4ya8r12w12r12ya72-g006818-k101010-rc80000-wfcfcfc-ye8c000-yafcb464/)|
-|![Studio Wolf Polysun example sett](/setts/s12/k4r4y4ya8g4w4r4ya8r12w12r12ya72-g006818-k101010-rc80000-wfcfcfc-ye8c000-yafcb464/sett.png)|
+| [Studio Wolf Polysun](/setts/s12/y72r12w12r12y8r4w4g4y8ya4r4k4-g006818-k101010-rc80000-wfcfcfc-yfcb464-yae8c000/)|
+|![Studio Wolf Polysun example sett](/setts/s12/y72r12w12r12y8r4w4g4y8ya4r4k4-g006818-k101010-rc80000-wfcfcfc-yfcb464-yae8c000/sett.png)|

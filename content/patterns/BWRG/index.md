@@ -20,5 +20,3 @@ BWRG
 |---------------|
 | [Algarve](/setts/s4/b20w20r20g20-b2c2c80-g285800-rc80000-we0e0e0/)|
 |![Algarve example sett](/setts/s4/b20w20r20g20-b2c2c80-g285800-rc80000-we0e0e0/sett.png)|
-| [Highland Greenford (Personal)](/setts/s4/b12w4r50g100-baa00ff-g698b22-r855e42-wffffaa/)|
-|![Highland Greenford (Personal) example sett](/setts/s4/b12w4r50g100-baa00ff-g698b22-r855e42-wffffaa/sett.png)|

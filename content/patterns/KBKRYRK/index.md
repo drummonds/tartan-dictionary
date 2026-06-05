@@ -6,7 +6,7 @@ KBKRYRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k16r6y6r6k16b4k32-b1474b4-k101010-rc80000-yb8b8b8/tartan.png)
+![Woven sample](/setts/s7/k32b4k16r6y6r6k16-b1474b4-k101010-rc80000-yb8b8b8/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBKRYRK
 
 | Tartans |
 |---------------|
-| [Benson (New England)](/setts/s7/k16r6y6r6k16b4k32-b1474b4-k101010-rc80000-yb8b8b8/)|
-|![Benson (New England) example sett](/setts/s7/k16r6y6r6k16b4k32-b1474b4-k101010-rc80000-yb8b8b8/sett.png)|
-| [Benson (Name)](/setts/s7/k16r6y6r6k16b4k32-b1474b4-k101010-rc80000-yb8b8b8/)|
-|![Benson (Name) example sett](/setts/s7/k16r6y6r6k16b4k32-b1474b4-k101010-rc80000-yb8b8b8/sett.png)|
+| [Benson (New England)](/setts/s7/k32b4k16r6y6r6k16-b1474b4-k101010-rc80000-yb8b8b8/)|
+|![Benson (New England) example sett](/setts/s7/k32b4k16r6y6r6k16-b1474b4-k101010-rc80000-yb8b8b8/sett.png)|
+| [Benson (Name)](/setts/s7/k32b4k16r6y6r6k16-b1474b4-k101010-rc80000-yb8b8b8/)|
+|![Benson (Name) example sett](/setts/s7/k32b4k16r6y6r6k16-b1474b4-k101010-rc80000-yb8b8b8/sett.png)|

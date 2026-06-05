@@ -16,5 +16,5 @@ BGBGRKRGRKR
 
 | Tartans |
 |---------------|
-| [Hueg (Personal)](/setts/s11/b8g6b24g24r8k4r4g4r8k20r20-b003c64-g006818-k101010-rc80000/)|
-|![Hueg (Personal) example sett](/setts/s11/b8g6b24g24r8k4r4g4r8k20r20-b003c64-g006818-k101010-rc80000/sett.png)|
+| [Hueg (Personal)](/setts/s11/r20k20r8g4r4k4r8g24b24g6b8-b003c64-g006818-k101010-rc80000/)|
+|![Hueg (Personal) example sett](/setts/s11/r20k20r8g4r4k4r8g24b24g6b8-b003c64-g006818-k101010-rc80000/sett.png)|

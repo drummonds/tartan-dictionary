@@ -16,5 +16,5 @@ GGYGYGYGYGYGYGYGGYGYGYGYGYGYGYGYGYYY
 
 | Tartans |
 |---------------|
-| [Alberta (CIDD 28106)](/setts/s36/g4ga6y28ga1y1ga1y1ga1y1ga1y1ga1y1ga1y1ga8g24ya12g40y20g1y1g1y1g1y1g1y1g1y1g1y1g8ya8y16ya50-g604000-ga003820-ybc8c00-yac4bc68/)|
-|![Alberta (CIDD 28106) example sett](/setts/s36/g4ga6y28ga1y1ga1y1ga1y1ga1y1ga1y1ga1y1ga8g24ya12g40y20g1y1g1y1g1y1g1y1g1y1g1y1g8ya8y16ya50-g604000-ga003820-ybc8c00-yac4bc68/sett.png)|
+| [Alberta (CIDD 28106)](/setts/s36/y50ya16y8g8ya1g1ya1g1ya1g1ya1g1ya1g1ya1g1ya20g40y12g24ga8ya1ga1ya1ga1ya1ga1ya1ga1ya1ga1ya1ga1ya28ga6g4-g604000-ga003820-yc4bc68-yabc8c00/)|
+|![Alberta (CIDD 28106) example sett](/setts/s36/y50ya16y8g8ya1g1ya1g1ya1g1ya1g1ya1g1ya1g1ya20g40y12g24ga8ya1ga1ya1ga1ya1ga1ya1ga1ya1ga1ya1ga1ya28ga6g4-g604000-ga003820-yc4bc68-yabc8c00/sett.png)|

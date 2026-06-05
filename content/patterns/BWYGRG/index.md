@@ -6,7 +6,7 @@ BWYGRG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b33w9y21g9r27ga75-b587484-g6898b0-ga288444-rcc3c34-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/g75r27ga9y21w9b33-b587484-g288444-ga6898b0-rcc3c34-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWYGRG
 
 | Tartans |
 |---------------|
-| [Montessori School of Denver (School)](/setts/s6/b33w9y21g9r27ga75-b587484-g6898b0-ga288444-rcc3c34-we0e0e0-ye8c000/)|
-|![Montessori School of Denver (School) example sett](/setts/s6/b33w9y21g9r27ga75-b587484-g6898b0-ga288444-rcc3c34-we0e0e0-ye8c000/sett.png)|
+| [Montessori School of Denver (School)](/setts/s6/g75r27ga9y21w9b33-b587484-g288444-ga6898b0-rcc3c34-we0e0e0-ye8c000/)|
+|![Montessori School of Denver (School) example sett](/setts/s6/g75r27ga9y21w9b33-b587484-g288444-ga6898b0-rcc3c34-we0e0e0-ye8c000/sett.png)|

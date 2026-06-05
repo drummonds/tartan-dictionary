@@ -6,7 +6,7 @@ BBGYBRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4ba20g72y4ba16r24k6-b2888c4-ba642000-g006818-k101010-rc80000-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBGYBRK
 
 | Tartans |
 |---------------|
-| [Snelgrove Hunting](/setts/s7/b4ba20g72y4ba16r24k6-b2888c4-ba642000-g006818-k101010-rc80000-ybc8c00/)|
-|![Snelgrove Hunting example sett](/setts/s7/b4ba20g72y4ba16r24k6-b2888c4-ba642000-g006818-k101010-rc80000-ybc8c00/sett.png)|
-| [Snelgrove Htg (Name)](/setts/s7/b4ba20g72y4ba16r24k6-b2888c4-ba642000-g006818-k101010-rc80000-ybc8c00/)|
-|![Snelgrove Htg (Name) example sett](/setts/s7/b4ba20g72y4ba16r24k6-b2888c4-ba642000-g006818-k101010-rc80000-ybc8c00/sett.png)|
+| [Snelgrove Hunting](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/)|
+|![Snelgrove Hunting example sett](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/sett.png)|
+| [Snelgrove Htg (Name)](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/)|
+|![Snelgrove Htg (Name) example sett](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/sett.png)|

@@ -6,7 +6,7 @@ BYWBWBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6y18w6ba72w90b6w12-b1c0070-ba2888c4-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w12b6w90ba72w6y18b6-b1c0070-ba2888c4-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYWBWBW
 
 | Tartans |
 |---------------|
-| [St. John's (Corporate)](/setts/s7/b6y18w6ba72w90b6w12-b1c0070-ba2888c4-we0e0e0-ye8c000/)|
-|![St. John's (Corporate) example sett](/setts/s7/b6y18w6ba72w90b6w12-b1c0070-ba2888c4-we0e0e0-ye8c000/sett.png)|
+| [St. John's (Corporate)](/setts/s7/w12b6w90ba72w6y18b6-b1c0070-ba2888c4-we0e0e0-ye8c000/)|
+|![St. John's (Corporate) example sett](/setts/s7/w12b6w90ba72w6y18b6-b1c0070-ba2888c4-we0e0e0-ye8c000/sett.png)|

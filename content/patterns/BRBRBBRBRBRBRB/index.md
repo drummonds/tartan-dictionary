@@ -16,5 +16,5 @@ BRBRBBRBRBRBRB
 
 | Tartans |
 |---------------|
-| [Grant of Glenmoriston (Clan)](/setts/s14/b12r2b4r4b64b4r16b4r4b4r48b4r4b12-b1c0070-rc80000/)|
-|![Grant of Glenmoriston (Clan) example sett](/setts/s14/b12r2b4r4b64b4r16b4r4b4r48b4r4b12-b1c0070-rc80000/sett.png)|
+| [Grant of Glenmoriston (Clan)](/setts/s14/b12r4b4r48b4r4b4r16b4b64r4b4r2b12-b1c0070-rc80000/)|
+|![Grant of Glenmoriston (Clan) example sett](/setts/s14/b12r4b4r48b4r4b4r16b4b64r4b4r2b12-b1c0070-rc80000/sett.png)|

@@ -16,7 +16,7 @@ KWKWKWKWKWK
 
 | Tartans |
 |---------------|
-| [Royal Stewart B & W (Universal?)](/setts/s11/k12w2k8w16k2w2k2w2k12w8k72-k101010-wfcfcfc/)|
-|![Royal Stewart B & W (Universal?) example sett](/setts/s11/k12w2k8w16k2w2k2w2k12w8k72-k101010-wfcfcfc/sett.png)|
-| [Royal Stuart / Stewart](/setts/s11/k12w2k8w16k2w2k2w2k12w8k72-k000000-we0e0e0/)|
-|![Royal Stuart / Stewart example sett](/setts/s11/k12w2k8w16k2w2k2w2k12w8k72-k000000-we0e0e0/sett.png)|
+| [Royal Stewart B & W (Universal?)](/setts/s11/k72w8k12w2k2w2k2w16k8w2k12-k101010-wfcfcfc/)|
+|![Royal Stewart B & W (Universal?) example sett](/setts/s11/k72w8k12w2k2w2k2w16k8w2k12-k101010-wfcfcfc/sett.png)|
+| [Royal Stuart / Stewart](/setts/s11/k72w8k12w2k2w2k2w16k8w2k12-k000000-we0e0e0/)|
+|![Royal Stuart / Stewart example sett](/setts/s11/k72w8k12w2k2w2k2w16k8w2k12-k000000-we0e0e0/sett.png)|

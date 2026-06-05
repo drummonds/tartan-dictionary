@@ -16,5 +16,5 @@ GKGGGWGWGWGWG
 
 | Tartans |
 |---------------|
-| [Currie, of Balilone](/setts/s13/g24w2g4w4g4w2g24w2g4ga4gb4k2gb48-g003000-ga908000-gb008000-k000000-we0e0e0/)|
-|![Currie, of Balilone example sett](/setts/s13/g24w2g4w4g4w2g24w2g4ga4gb4k2gb48-g003000-ga908000-gb008000-k000000-we0e0e0/sett.png)|
+| [Currie, of Balilone](/setts/s13/g48k2g4ga4gb4w2gb24w2gb4w4gb4w2gb24-g008000-ga908000-gb003000-k000000-we0e0e0/)|
+|![Currie, of Balilone example sett](/setts/s13/g48k2g4ga4gb4w2gb24w2gb4w4gb4w2gb24-g008000-ga908000-gb003000-k000000-we0e0e0/sett.png)|

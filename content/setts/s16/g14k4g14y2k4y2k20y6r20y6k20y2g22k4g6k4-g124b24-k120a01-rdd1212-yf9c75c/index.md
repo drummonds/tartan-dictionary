@@ -1,13 +1,13 @@
 ---
-title: "Blackburn Appalachian Hunting"
+title: "Blackburn Appalachian Hunting Name Tartan Tartan Number: 10703. Earliest known date: 21 September 2012 Jean-Louis Blackburn designed this tartan for his extended Blackburn relatives spread throughout the Appalachian region. The colours black, yellow and scarlet represent the coral snake, one of the dangers faced by generations of Blackburns, living in and migrating through green wilderness in the New World. The snake also alludes to \"Don't tread on me,\" which refers to the overcoming of dangers faced in both nature and war. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GKGYKYKYRYKYGKGK](/patterns/gkgykykyrykygkgk/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10703
 
 ## Thread count
 G/14 K4 G14 LG2 K4 LG2 K20 LG6 R20 LG6 K20 LG2 G22 K4 G6 K/4

@@ -1,13 +1,13 @@
 ---
-title: "MacDonald of Staffa (Smith's)"
+title: "MacDonald of Staffa - 1850 (Clan)"
 date: 2023-03-18
 ---
 In pattern [RGRGRGRGRGBGKRGRGRBRWRGWGRGRGRW](/patterns/rgrgrgrgrgbgkrgrgrbrwrgwgrgrgrw/).
 
 
-This was sourced from register-of-tartans.  It is a [31 stripes tartan](/stripes/stripes31/).
+This was sourced from tartans-authority.  It is a [31 stripes tartan](/stripes/stripes31/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2373
+Original link http://www.tartansauthority.com/tartan-ferret/display/1529/
 
 ## Thread count
 R/32 G2 R2 G2 R2 G2 R2 G2 R12 G2 DB2 G12 K2 R2 G2 R8 G2 R2 DB8 R8 W2 R8 G8 W2 G8 R2 G2 R12 G2 R16 W/2

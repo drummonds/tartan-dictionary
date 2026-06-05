@@ -16,7 +16,7 @@ RBRBRBBWKYKYKRBRGRBRBRGR
 
 | Tartans |
 |---------------|
-| [Anderson (STS)](/setts/s24/r6b8r2ba2r2b28ba8w6k4y2k4y2k8r2ba8r4g12r2ba2r4ba2r2g12r6-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Anderson (STS) example sett](/setts/s24/r6b8r2ba2r2b28ba8w6k4y2k4y2k8r2ba8r4g12r2ba2r4ba2r2g12r6-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Anderson 3](/setts/s24/r6b8r2ba2r2b28ba8w6k4y2k4y2k8r2ba8r4g12r2ba2r4ba2r2g12r6-b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Anderson 3 example sett](/setts/s24/r6b8r2ba2r2b28ba8w6k4y2k4y2k8r2ba8r4g12r2ba2r4ba2r2g12r6-b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Anderson (STS)](/setts/s24/r6g12r2b2r4b2r2g12r4b8r2k8y2k4y2k4w6b8ba28r2b2r2ba8r6-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
+|![Anderson (STS) example sett](/setts/s24/r6g12r2b2r4b2r2g12r4b8r2k8y2k4y2k4w6b8ba28r2b2r2ba8r6-b2c4084-ba3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Anderson 3](/setts/s24/r6g12r2b2r4b2r2g12r4b8r2k8y2k4y2k4w6b8ba28r2b2r2ba8r6-b304080-ba5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
+|![Anderson 3 example sett](/setts/s24/r6g12r2b2r4b2r2g12r4b8r2k8y2k4y2k4w6b8ba28r2b2r2ba8r6-b304080-ba5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|

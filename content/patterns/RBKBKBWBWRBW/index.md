@@ -16,7 +16,7 @@ RBKBKBWBWRBW
 
 | Tartans |
 |---------------|
-| [North Carolina State University - Pack Plaid](/setts/s12/r18b46k20b34k18b32w14b50w10r20b50w30-b1c1c1c-k000000-rc80000-wffffff/)|
-|![North Carolina State University - Pack Plaid example sett](/setts/s12/r18b46k20b34k18b32w14b50w10r20b50w30-b1c1c1c-k000000-rc80000-wffffff/sett.png)|
-| [North Carolina State University](/setts/s12/r9b23k10b17k9b16w7b25w5r10b25w15-b5c5c5c-k101010-rc80000-wfcfcfc/)|
-|![North Carolina State University example sett](/setts/s12/r9b23k10b17k9b16w7b25w5r10b25w15-b5c5c5c-k101010-rc80000-wfcfcfc/sett.png)|
+| [North Carolina State University - Pack Plaid](/setts/s12/w30b50r20w10b50w14b32k18b34k20b46r18-b1c1c1c-k000000-rc80000-wffffff/)|
+|![North Carolina State University - Pack Plaid example sett](/setts/s12/w30b50r20w10b50w14b32k18b34k20b46r18-b1c1c1c-k000000-rc80000-wffffff/sett.png)|
+| [North Carolina State University](/setts/s12/w15b25r10w5b25w7b16k9b17k10b23r9-b5c5c5c-k101010-rc80000-wfcfcfc/)|
+|![North Carolina State University example sett](/setts/s12/w15b25r10w5b25w7b16k9b17k10b23r9-b5c5c5c-k101010-rc80000-wfcfcfc/sett.png)|

@@ -16,5 +16,5 @@ KGKGRGRGR
 
 | Tartans |
 |---------------|
-| [Carlow](/setts/s9/k6g4k48g16r4g4r4g4r40-g006030-k000000-r802040/)|
-|![Carlow example sett](/setts/s9/k6g4k48g16r4g4r4g4r40-g006030-k000000-r802040/sett.png)|
+| [Carlow](/setts/s9/r40g4r4g4r4g16k48g4k6-g006030-k000000-r802040/)|
+|![Carlow example sett](/setts/s9/r40g4r4g4r4g16k48g4k6-g006030-k000000-r802040/sett.png)|

@@ -16,5 +16,5 @@ BKBBBBKBKBKBKB
 
 | Tartans |
 |---------------|
-| [Payne](/setts/s14/b2k2b66ka2b4ka2b8ka16ba40bb6ba10b8ka2b4-b2c2c80-ba202060-bb780078-k000000-ka101010/)|
-|![Payne example sett](/setts/s14/b2k2b66ka2b4ka2b8ka16ba40bb6ba10b8ka2b4-b2c2c80-ba202060-bb780078-k000000-ka101010/sett.png)|
+| [Payne](/setts/s14/b4k2b8ba10bb6ba40k16b8k2b4k2b66ka2b2-b2c2c80-ba202060-bb780078-k101010-ka000000/)|
+|![Payne example sett](/setts/s14/b4k2b8ba10bb6ba40k16b8k2b4k2b66ka2b2-b2c2c80-ba202060-bb780078-k101010-ka000000/sett.png)|

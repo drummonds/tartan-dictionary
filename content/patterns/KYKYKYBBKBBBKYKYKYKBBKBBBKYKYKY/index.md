@@ -16,5 +16,5 @@ KYKYKYBBKBBBKYKYKYKBBKBBBKYKYKY
 
 | Tartans |
 |---------------|
-| [McLosek (Personal)](/setts/s31/k4y2k4ya4k16ya16b2ba4k2ba4b2ba16k16ya16k4y2k4ya16k16ba16b4k4ba2b4ba16k16ya4k2y4k2ya16-b2888c4-ba440044-k101010-ye08070-yaf0a8a8/)|
-|![McLosek (Personal) example sett](/setts/s31/k4y2k4ya4k16ya16b2ba4k2ba4b2ba16k16ya16k4y2k4ya16k16ba16b4k4ba2b4ba16k16ya4k2y4k2ya16-b2888c4-ba440044-k101010-ye08070-yaf0a8a8/sett.png)|
+| [McLosek (Personal)](/setts/s31/y16k2ya4k2y4k16b16ba4b2k4ba4b16k16y16k4ya2k4y16k16b16ba2b4k2b4ba2y16k16y4k4ya2k4-b440044-ba2888c4-k101010-yf0a8a8-yae08070/)|
+|![McLosek (Personal) example sett](/setts/s31/y16k2ya4k2y4k16b16ba4b2k4ba4b16k16y16k4ya2k4y16k16b16ba2b4k2b4ba2y16k16y4k4ya2k4-b440044-ba2888c4-k101010-yf0a8a8-yae08070/sett.png)|

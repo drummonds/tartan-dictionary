@@ -16,5 +16,5 @@ KGRGKWKWKW
 
 | Tartans |
 |---------------|
-| [Ferguson Dress variation](/setts/s10/k8g16r4g16k16w6k4w16k8w16-g004c00-k000000-rc40000-wc8c8c8/)|
-|![Ferguson Dress variation example sett](/setts/s10/k8g16r4g16k16w6k4w16k8w16-g004c00-k000000-rc40000-wc8c8c8/sett.png)|
+| [Ferguson Dress variation](/setts/s10/w16k8w16k4w6k16g16r4g16k8-g004c00-k000000-rc40000-wc8c8c8/)|
+|![Ferguson Dress variation example sett](/setts/s10/w16k8w16k4w6k16g16r4g16k8-g004c00-k000000-rc40000-wc8c8c8/sett.png)|

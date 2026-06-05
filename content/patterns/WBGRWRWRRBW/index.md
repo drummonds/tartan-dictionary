@@ -16,5 +16,5 @@ WBGRWRWRRBW
 
 | Tartans |
 |---------------|
-| [Stuart / Stewart, Riding Cloak](/setts/s11/w2b4g32r8w2r8w2r8ra16b8w2-b304080-g008000-rc00000-ra806050-we0e0e0/)|
-|![Stuart / Stewart, Riding Cloak example sett](/setts/s11/w2b4g32r8w2r8w2r8ra16b8w2-b304080-g008000-rc00000-ra806050-we0e0e0/sett.png)|
+| [Stuart / Stewart, Riding Cloak](/setts/s11/w2b8r16ra8w2ra8w2ra8g32b4w2-b304080-g008000-r806050-rac00000-we0e0e0/)|
+|![Stuart / Stewart, Riding Cloak example sett](/setts/s11/w2b8r16ra8w2ra8w2ra8g32b4w2-b304080-g008000-r806050-rac00000-we0e0e0/sett.png)|

@@ -1,55 +1,23 @@
 ---
 title: "The Tarim Tartan"
 date: 2026-06-05
+lastmod: 2026-06-07
 tags: ["tartan", "history", "celtic", "reconstruction"]
 ---
 
-There is a piece of checked woollen cloth, woven somewhere on the rim of the Taklamakan desert
-about three thousand years ago, that looks unmistakably like tartan. It is not Scottish. It is
-not even, in origin, eastern. It is, I think, the key to what Scottish tartan really *is* — the
-**oldest surviving example** of a single weaving culture that spread out of central Europe,
-pushing *east* across the steppe to the Taklamakan and *west* through the Alps and down into the
-Highlands. The Tarim cloth is not a root; it is the far end of one branch, preserved by a lucky
-accident of dry salt earth. Setting it beside the Scottish tradition does something I rather
-like: it turns tartan from a nationalist badge into a shared European — even Eurasian —
-inheritance. A craft, not a flag.
+There is a piece of checked woollen cloth, woven on the rim of the Taklamakan desert about three
+thousand years ago, that looks unmistakably like tartan — the **oldest surviving example** of the
+2/2-twill check tradition. *Why* that matters, and how the same weave reaches from Xinjiang to the
+Highlands, is the subject of the companion post,
+[**The Origins of Tartan**]({{< ref "OriginsOfTartan" >}}). This post does the narrower, hands-on
+job: it takes the surviving Hami fragment, **reads a [sett]({{< ref "Tartan" >}}) from it**,
+reconstructs the colours the burial bleached away — and sets my reading beside the other
+reconstructions people have made of the same cloth, because this is a guess, and guesses should
+be compared.
 
-This post works that idea out. I take the surviving cloth, read a sett from the
-image, regularise it into a traditional tartan, and then ask what it would have looked like new —
-before three millennia in the ground bleached the dyes. Along the way: the colours and their
-plant dyes, the other reconstructions people have attempted, the curious case of Cherchen Man's
-leggings (which are *not* a tartan), and the newly dated [Glen Affric tartan][affric-vam], which
-is the oldest true Scottish tartan we have and the other bookend of the story.
-
-## A 3000-year weave
-
-The Dictionary's mission is to sustain *the living Scottish Celtic tartan tradition — the line
-that runs from Hallstatt through to today*. The Tarim cloth lets us extend that line by another
-thousand years and several thousand miles, because the same weave appears at both ends of it at
-once.
-
-The textiles of the Tarim Basin — from the cemeteries at Qizilchoqa, Hami and Zaghunluq in
-Xinjiang — survive because the desert is bone dry and salty. They date from roughly 1400 BCE into
-the late first millennium BCE.[^penn] Among them are plain two-colour checks, stripes, and plaids
-in **up to six colours**, all built on the **2/2 diagonal twill** — the very weave that gives
-tartan its soft diagonal grain.[^spp345] Elizabeth Wayland Barber, who studied them closely,
-concluded that this cloth is structurally of a piece with the plaids recovered from the
-Hallstatt salt mines in the Alps — the textiles of the early, proto-Celtic world — dating to
-about the same period, around 1000 BCE.[^barber]
-
-That is the heart of it. Two finds, far apart, making the *same* cloth by the *same* method at
-about the *same* time. The point is not that Scotland copied the East, or the East Scotland.
-Neither is the source. Both are *ends* of one Bronze- and Iron-Age weaving culture that radiated
-out of the central-European, proto-Celtic world — carried by the spread of Indo-European peoples
-— eastward to the Tarim Basin and westward into Britain. Tarim is simply where the dry salt earth
-preserved the oldest legible specimen; Scotland is where the tradition is still, three thousand
-years on, alive.
-
-![Three thousand years of 2/2-twill checked weaving](timeline.svg "From Tarim and Hallstatt to modern Scottish tartan")
-
-The Dictionary's [scope]({{< ref "Tartan" >}}) is, deliberately, exactly this family: **2/2-twill,
-horizontally-and-vertically symmetric setts**. The Tarim plaid is admissible on its own terms —
-it is a symmetric twill check — which is why it belongs here as a *pattern*, not as a curiosity.
+A warning up front: everything here is a **judgement, not a measurement**. The cloth is frayed,
+hand-spun and irregular, the "blue" has lost almost all its colour, and the thread counts were
+never regular to begin with. What follows is one reading, made explicit so it can be argued with.
 
 ## Working a sett from the image
 
@@ -58,151 +26,130 @@ often paired, darker lines over broad fields.
 
 ![The Hami fragment](hami-fragment.jpg "Tarim Basin plaid, Hami — Penn Museum")
 
-You cannot machine-read a sett off a photograph like this. Our reverse-weaver only round-trips
-*synthetic* setts the engine drew itself; it has no purchase on a frayed, irregular,
-hand-spun ancient cloth where the "blue" has lost almost all of its colour and the thread counts
-were never regular to begin with. So this is a judgement, not a measurement: I sampled scanlines
-across the clean centre of the fragment to get the *proportions* — broad grounds, with narrow
-guard lines that frequently come in pairs — and then **regularised** that into a traditional,
-symmetric tartan.
+You cannot machine-read a sett off a photograph like this — our reverse-weaver only round-trips
+*synthetic* setts the engine drew itself. So I sampled scanlines across the clean centre of the
+fragment to get the *proportions* — broad grounds, with narrow guard lines that frequently come
+in pairs — and then **regularised** that into a symmetric tartan.
 
-The reading gives a reflective sett with the pattern mirroring about the centres of the broad
-grounds:
+The structure has **two scales**, which is the part that makes it tartan-like rather than a plain
+stripe: a **check that repeats**, and over it a sparser **white overcheck** — a fine white line
+that strikes across only at the wider interval, after at least two repeats of the base check. And
+there is a trap in the colour: the broad fields that *look* brown today are almost certainly not
+natural brown wool at all but **red, faded** — see the colour reconstruction below. Read with the
+true colours, the [thread count]({{< ref "Tartan" >}}) is:
 
-> **Brown/36  Blue/4  Brown/4  Blue/4** &nbsp;(pivoting on the brown grounds)
+> **W/4  B8  R16  B4  R16  B/4**  &nbsp;(reflective; pivots on the white overcheck and the central blue)
+>
+> &nbsp;&nbsp;W = white · B = blue · R = red (madder) — … W │ B8 R16 B4 R16 │ B … — broad red
+> grounds with blue guards, the red/blue check running twice before the white overstrikes.
 
-A broad brown field, then a *blue – brown – blue* tramline of guard stripes, repeated. Rendered
-as a 2/2 twill in the faded, as-found colours sampled from the cloth, it comes out like this:
+It remains a **reconstruction, not a measurement** — the overcheck interval and the band
+proportions are the thinnest parts of the evidence. But this is the reading to **import into the
+Dictionary**; once it is in, the engine generates the canonical [pattern]({{< ref "Tartan" >}})
+and the proper renders.
 
-![Faded reconstruction of the Hami sett](hami-faded.png "Hami sett, as-found colours — draft regularisation")
-
-That is a draft, made outside the engine purely to agree the *shape*. The thread count above is
-what will be **imported into the Dictionary**: once it is in, the engine generates the canonical
-[pattern]({{< ref "Tartan" >}}) and the proper renders, and those are what we will actually use across the
-site — including, eventually, as the page background.
+> **Note on the renders below.** The two images that follow were drawn from an *earlier* reading
+> that both omitted the white overcheck **and** mistook the faded red ground for natural brown.
+> They are kept only to show the *method*; they are wrong on colour and on the white, and are
+> being re-rendered to the `W/4 B8 R16 B4 R16 B/4` sett above.
 
 ## Reconstructing the colour
 
-What survives is not what was woven. The browns and tans we see are three thousand years of
-fading, soiling and burial; the blue is a ghost of itself. To picture the original we have to ask
-which dyes were in the dyer's pot.
+What survives is not what was woven, and the gap is larger than it looks. Three thousand years of
+fading, soiling and burial have shifted **every** colour, and the trap is that they have shifted
+*towards brown* — making a once-bright cloth read as a sober earth-toned one. Reading the fade
+back out:
 
-Analysis of Xinjiang textiles of this kind finds a consistent, small palette: **reds from
-madder** (a *Rubia* root), **blues from an indigo plant** (woad or true indigo), and **yellows**
-from a source that has not been pinned down — with oranges made by overdyeing red with
-yellow.[^dyes] The browns, importantly, may never have been dyed at all: Tarim sheep gave wool in
-natural browns, greys and creams, and much of the "brown" in these plaids is likely the fleece's
-own colour, which is why it has held while the dyed blue has faded.
+- the **white** has dimmed to a **cream**;
+- the **blue** has softened to a lovely **light blue** — a ghost of fresh woad;
+- and, the crucial point, the broad **red** grounds have faded to a **light brown**.
 
-So a reconstruction is really two moves: restore the *dyed* blue to the strength fresh woad
-gives, and recognise the ground as a living natural brown rather than a dead tan. Done that way,
-the same sett wakes up:
+That last move is the whole reconstruction. The eye reads those broad fields as natural brown
+fleece; the dye tells a different story. Analysis of Xinjiang textiles of this kind finds a
+consistent small palette of **madder reds** (a *Rubia* root), **indigo-plant blues** (woad or
+true indigo) and yellows.[^dyes] Restore the three — cream back to white, light blue back to
+woad-blue, light brown back to **madder red** — and the cloth is not the thrifty brown-and-blue
+thing it first appears but a **vivid red, blue and white check**: a madder-red ground, woad-blue
+guards, a fine cream-white overcheck.
 
-![Reconstructed 'original' colours of the Hami sett](hami-reconstructed.png "Hami sett — brown fleece ground, fresh woad-blue check")
+![Faded reconstruction of the Hami sett — EARLIER, INCORRECT reading](hami-faded.png "Hami sett — earlier draft: faded-red read as brown, white overcheck missing; to be re-rendered")
 
-Brown fleece, a deep woad-blue check. Sober, warm, and entirely plausible for a 1000-BCE
-herding people — and a recognisable ancestor of the blue-and-earth Border setts that come much
-later.
+![Reconstructed colours of the Hami sett — EARLIER, INCORRECT reading](hami-reconstructed.png "Hami sett — earlier draft: brown ground instead of madder-red, no white overcheck; to be re-rendered")
 
-## Why mostly brown: the economics of colour
+A madder-red ground, a deep woad-blue check and a fine cream overcheck: not sober at all, but a
+confident, high-status cloth — and a recognisable ancestor of the red-and-blue setts that come
+much later.
 
-Look again at that sett — broad brown grounds, only thin lines of blue — and notice that it is
-not just an aesthetic choice. It is an economic one. **Dyed colour was expensive.** Madder and
-woad meant growing or trading the plant, fuel and time at the dye-pot, and skilled labour;
-undyed wool meant none of that. And wool came ready-coloured: sheep are born **black, white,
-grey and brown**, so a check in natural fleece colours cost essentially nothing beyond the
-weaving. It follows that most cloth, most of the time, was cheap natural-wool check — black,
-white, brown — with dyed colour used sparingly, as a thin precious accent. The Hami sett wears
-its budget on its sleeve: a great deal of free brown, a little dear blue.
+## A dyed cloth in disguise
 
-This has a sharp consequence for what we *find*, and it is worth stating plainly because it can
-mislead. The richly coloured Tarim plaids come out of **tombs** — and you are buried in your
-best. Grave finds therefore over-represent the high-value, heavily dyed end of the cloth: they
-are the exception dressed up as the rule. The ordinary cheap cloth, by contrast, almost never
-survives on purpose; it survives by accident. The [Falkirk tartan]({{< ref "Tartan" >}}) — Scotland's oldest
-surviving scrap, a plain black-and-white check of natural wool — lasted only because someone
-stuffed it into the mouth of a pot of Roman coins as a **stopper**, and the pot was buried and
-forgotten. The luxury is preserved because it was treasured; the everyday is preserved because it
-was rubbish. Keep that asymmetry in mind whenever a single spectacular find is asked to stand for
-a whole culture's wardrobe.
+The reconstruction overturns the cloth's first impression, and that reversal is the lesson worth
+keeping. It *looks* like a thrifty brown-and-blue check; it is in fact a **dyed cloth at the
+expensive end** — a madder-red ground is anything but cheap. Dyed colour cost real money: madder
+and woad meant growing or trading the plant, fuel, time at the dye-pot and skilled labour. Wool,
+by contrast, came **ready-coloured** — sheep are born black, white, grey and brown — so the cheap
+everyday cloth was natural-fleece check, and the dear cloth was the dyed one.
 
-## Other variants
+Which is exactly why this cloth was in a **tomb**: you are buried in your best, so grave finds
+over-represent the heavily dyed, high-status end of the wardrobe. The ordinary natural-fleece
+check survives, when it survives at all, by accident, not on purpose. The irony of the Hami plaid
+is that three thousand years in the ground **faded its expensive red into the look of cheap
+brown** — disguising a grave-good as a work-shirt. Keep that double warning — about what gets
+buried, and about what fading does to colour — whenever one spectacular find is asked to stand
+for a whole culture's cloth.
 
-The Hami cemeteries did not weave one cloth, they wove a family of them. The published fragments
-run from simple two-colour checks up to plaids of six colours, with the bands varying in
-width.[^spp345] In the Dictionary's language these are **Variants** of one design — the same
-underlying pattern, re-coloured and re-scaled — exactly as a clan tartan has ancient, modern,
-weathered and dress Variants today. When the base sett is in the corpus, sitting the Tarim
-Variants alongside it is the natural next step, and a quiet demonstration of the Dictionary's
-whole thesis: that the *pattern*, not any single thread count, is the unit of meaning.
+## The leggings are not this cloth
 
-## The leggings are not a tartan
-
-It is tempting to fold Cherchen Man into the tartan story wholesale, but his famous leggings
-deserve a footnote of their own — and a correction. Cherchen Man (the "Ur-David", c.1000 BCE,
-buried at Zaghunluq near Qiemo) wore a red twill tunic and bright leggings,[^cherchen] and they
-are often waved at as "tartan". They are not. The leggings are **diagonal colour-block work** —
-fields of solid colour set on the diagonal — not a warp-and-weft check. The thing worth telling
-there is a *colour* story (a confident, even gaudy use of dyed reds and blues on the body) and a
-*pattern* story about diagonal blocking, which is a different design idea from the crossed-stripe
-sett of the Hami plaid. Worth its own piece; not part of the sett above.
-
-(For completeness, the black-and-white "checked leggings" sometimes shown next to Cherchen Man in
-older write-ups are a different thing entirely — they are from the Caledonian figure on the
-Caracalla group, a Scottish/Roman-era image, not a Tarim find.)
+A quick correction, because it recurs: Cherchen Man's famous bright **leggings** (the "Ur-David",
+c. 1000 BCE, Zaghunluq) are often waved at as "tartan", and they are not — they are **diagonal
+colour-block work**, fields of solid colour set on the diagonal, not a warp-and-weft check.[^cherchen]
+A different design idea, and not part of the Hami sett above. (The black-and-white "checked
+leggings" sometimes shown beside him in older write-ups are a different thing again — a
+Caledonian figure from the Roman-era Caracalla group, not a Tarim find.)
 
 ## Other reconstructions
 
-I am not the first to try to bring this cloth back. Barber's *The Mummies of Ürümchi* is the
-foundational reconstruction, both of the weave structure and of the Hallstatt connection.[^barber]
-Hand-weavers and tartan enthusiasts have since produced their own "Takla Makan" / Qizilchoqa
-plaids, working from the same published fragments, and they differ — as reconstructions always
-do — in exactly the two places where the evidence is thin: the precise band proportions, and how
-far to push the faded colour back toward its original strength. That spread of attempts is not a
-weakness; it is the honest shape of working from a single decayed sample. My version is one more
-reading, made explicit so it can be argued with.
+I am not the first to try to bring this cloth back, and the point of a reconstruction is to set
+it beside the others. The honest shape of working from a single decayed sample is that the
+attempts **differ** — exactly in the two thin places, the band proportions and how far to push
+the faded colour back:
 
-## The other bookend: Glen Affric
+- **Elizabeth Barber**, *The Mummies of Ürümchi* (1999) — the foundational reconstruction of both
+  the weave structure and the Hallstatt connection.[^barber]
+- **The "Takla Makan" tartans** — hand-weavers and designers have regularised the Qizilchoqa
+  plaid into woven tartans; "Takla Makan" and "Takla Makan #2" are recorded designs derived
+  directly from the Hami cloth.[^takla][^venetianred]
+- **The "Qizilchoqa tartan tissue"** reconstruction discussed and illustrated by
+  Geometricae.[^geometricae]
 
-If Tarim is the oldest surviving example of the thesis, the **Glen Affric tartan** is the
-Scottish proof that the western branch stayed alive. A scrap of woollen cloth pulled from a peat bog in Glen Affric — about nineteen miles
-west of Loch Ness — has been dated by the Scottish Tartans Authority, through dye analysis at
-National Museums Scotland and radiocarbon testing, to **c.1500–1600 AD** (a range of 1500–1655,
-most probably the sixteenth century).[^affric-vam][^affric-ls] The peat sealed it from the air
-and preserved it. It is now the **oldest surviving piece of true Scottish tartan**.
-
-The science is telling for our purposes. The dye analysis confirmed **indigo or woad in the
-green**, with brown and probably red and yellow alongside — the same plant palette as the Tarim
-plaid, two and a half thousand years and half a world away — and found **no synthetic dyes at
-all**, consistent with a date before the 1750s.[^affric-vam] The cloth has since been re-woven by
-House of Edgar under the tartan historian Peter Macdonald.[^affric-stv] Woad-blue, madder,
-natural browns: the dyer at Glen Affric was reaching for the same pot the dyer at Hami reached
-for. That, more than any pattern detail, is the thread that runs the whole three thousand years.
+Each is one reading. Mine — a madder-red ground with woad-blue guards and a white overcheck — is
+one more, offered with its thread count written down precisely (`W/4 B8 R16 B4 R16 B/4`) so the
+next person can disagree with the numbers rather than the impression.
 
 ## Where this goes next
 
-The post comes first; the sett follows it into the corpus. The thread count —
-**Brown/36 Blue/4 Brown/4 Blue/4**, reflective — is the thing to import. Once the engine has it,
-it will generate the canonical pattern and the renders, the faded Variant becomes a real corpus
-image, and *that* is what we will set as the site background — a faded three-thousand-year-old
-plaid quietly underlying a dictionary of its descendants.
+The post comes first; the sett follows it into the corpus — *once it is agreed*. The
+reconstruction itself — reading `W/4 B8 R16 B4 R16 B/4` from the cloth and rendering it in both
+its faded and its restored colours (the **madder red**, the **woad blue** and the **white
+overcheck** the burial disguised) — is **new research**, kept in the *tartan-weaver* project; the
+two images above are its earlier, superseded reading and are being redrawn there. Only once the
+sett is settled is it imported into the Dictionary, which then derives its canonical
+[pattern]({{< ref "Tartan" >}}) — so a faded three-thousand-year-old plaid can quietly underlie a
+dictionary of its descendants. For the wider story this fragment belongs to — twill, the loose
+Indo-European thread, and the Scottish flowering — see
+[**The Origins of Tartan**]({{< ref "OriginsOfTartan" >}}).
 
 ---
 
-[affric-vam]: https://www.vam.ac.uk/dundee/info/scotland-s-oldest-tartan-discovered-by-scottish-tartans-authority
-
 [^penn]: *Ancient Mummies of the Tarim Basin*, Expedition Magazine, Penn Museum.
   <https://www.penn.museum/sites/expedition/ancient-mummies-of-the-tarim-basin/>
-[^spp345]: *The Remarkable Textile History Preserved in Eurasian Salt Mines*, Sino-Platonic Papers
-  345. <https://sino-platonic.org/complete/spp345_salt_preserved_ancient_textiles.pdf>
-[^barber]: Barber, Elizabeth Wayland (1999). *The Mummies of Ürümchi*. London: Pan Books.
-  ISBN 0-330-36897-4.
 [^dyes]: *Characterization of dyestuffs in ancient textiles from Xinjiang*, Journal of
   Archaeological Science. <https://www.sciencedirect.com/science/article/abs/pii/S0305440307001574>
 [^cherchen]: *Cherchen Man*, Wikipedia. <https://en.wikipedia.org/wiki/Cherchen_Man>
-[^affric-vam]: *Scotland's oldest tartan discovered by Scottish Tartans Authority*, V&A Dundee.
-  <https://www.vam.ac.uk/dundee/info/scotland-s-oldest-tartan-discovered-by-scottish-tartans-authority>
-[^affric-ls]: *Oldest Scottish tartan ever found was preserved in a bog for over 400 years*,
-  Live Science. <https://www.livescience.com/oldest-scottish-tartan-ever-found-was-preserved-in-a-bog-for-over-400-years>
-[^affric-stv]: *Experts recreate Scotland's oldest tartan after discovering in Glen Affric bog*,
-  STV News. <https://news.stv.tv/scotland/experts-recreate-scotlands-oldest-tartan-after-discovering-in-glen-affric-bog>
+[^barber]: Barber, Elizabeth Wayland (1999). *The Mummies of Ürümchi*. London: Pan Books.
+  ISBN 0-330-36897-4.
+[^takla]: "Takla Makan #2" tartan, design derived from the Qizilchoqa/Hami plaid.
+  <https://clan.com/design/4409-Takla-Makan->
+[^venetianred]: *Takla Makan Tartan*, Venetian Red Art Blog.
+  <https://venetianred.wordpress.com/2008/11/20/takla-makan-tartan/>
+[^geometricae]: *Qizilchoqa Tartan Tissue*, Geometricae.
+  <https://www.geometricae.com/2019/10/31/qizilchoqa-tartan-tissue-anonymous/>

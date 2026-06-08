@@ -1,5 +1,5 @@
 baseURL = "https://www.tartandictionary.org/"
-languageCode = "en"
+locale = "en"
 DefaultContentLanguage = "en"
 theme = "simpleness"
 [pagination]

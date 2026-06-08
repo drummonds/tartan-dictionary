@@ -1,0 +1,47 @@
+# Clans of Scotland — all-Scotland clan map data for the `clanmap` shortcode.
+#
+# Seeded from the 1745 "Memoriall anent the True State of the Highlands" (Forbes of Culloden),
+# reprinted in Johnston & Robertson's "Historical Geography of the Clans of Scotland" (1899 ed.).
+# Audited source: the Books->Clans pipeline data-extract/clans-memorial-1745.toml.
+#
+# type  : highland-clan | lowland-superior | proscribed | reduced  (styling + Highland Line)
+# men   : 1745 fighting strength from the Memorial's summary table
+# lat/lon : APPROXIMATE territory centroid (polygons traced from the 1899 map are a later refinement)
+# img   : the clan's real tartan, rendered by the tartan-weaver, served from content/setts/**.
+#         Auto-selected representative; refine per clan as needed.
+
+clan = [
+  {id="campbell", name="Campbell", type="highland-clan", men=3000, lat=56.20, lon=-5.30, territory="Argyll", img="/setts/s26/b22k6b22k22g30k4w6k4g30k22w10k10w38k4w10k4w38k10w10k22g30k4y6k4g30k22-b304080-g008000-k000000-we0e0e0-yf0c000/sett.png"},
+  {id="maclean", name="Maclean", type="reduced", men=500, lat=56.45, lon=-5.95, territory="Mull", img="/setts/s11/b16k16y4k6w6k6g48r32b6r8k4-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png"},
+  {id="maclachlan", name="MacLachlan", type="highland-clan", men=200, lat=56.02, lon=-5.18, territory="Cowal", img="/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2-b000064-g004c00-k000000-rc80000/sett.png"},
+  {id="stewart_appin", name="Stewart of Appin", type="highland-clan", men=300, lat=56.55, lon=-5.30, territory="Appin", img="/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2-b000052-ba4367ae-g11450d-raa0000/sett.png"},
+  {id="macdougall", name="MacDougall of Lorn", type="reduced", men=200, lat=56.40, lon=-5.50, territory="Lorn", img="/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b5a008c-ba2c4084-g005020-rdc0000/sett.png"},
+  {id="macdonald_sleat", name="MacDonald of Sleat", type="highland-clan", men=700, lat=57.12, lon=-5.95, territory="Skye & Uist", img="/setts/s4/r72g4r10g32-g008000-rc00000/sett.png"},
+  {id="macdonald_clanranald", name="MacDonald of Clanranald", type="highland-clan", men=700, lat=56.85, lon=-5.70, territory="Moidart & the Isles", img="/setts/s13/b16r2b4r6b24r2k24w2g24r6g4r2g16-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png"},
+  {id="macdonald_glengarry", name="MacDonald of Glengarry", type="highland-clan", men=500, lat=57.07, lon=-5.10, territory="Glengarry & Knoydart", img="/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/sett.png"},
+  {id="macdonald_keppoch", name="MacDonald of Keppoch", type="highland-clan", men=150, lat=56.92, lon=-4.92, territory="Lochaber", img="/setts/s10/g4r4b2r48ba2b12r6g24r8b2-b304080-ba5480b0-g008000-rc00000/sett.png"},
+  {id="macdonald_glencoe", name="MacDonald of Glencoe", type="highland-clan", men=150, lat=56.68, lon=-5.08, territory="Glencoe", img="/setts/s5/k74w18k6g18w6-g008000-k000000-we0e0e0/sett.png"},
+  {id="cameron", name="Cameron", type="highland-clan", men=800, lat=56.85, lon=-5.08, territory="Lochaber", img="/setts/s10/b14r6b18r4k20g18r6g4r4g14-b304080-g008000-k000000-rc00000/sett.png"},
+  {id="macleod", name="MacLeod", type="highland-clan", men=700, lat=57.45, lon=-6.55, territory="Glenelg, Skye & Harris", img="/setts/s6/k12y2k12y18r2y4-k000000-r900030-yf0c000/sett.png"},
+  {id="mackinnon", name="MacKinnon", type="highland-clan", men=200, lat=57.22, lon=-6.00, territory="Skye & Mull", img="/setts/s14/b2r3g2ba2r6g16r2ba4g2r16g8b2r4w2-b5a3094-ba000064-g004c00-rc80000-wd0d0d0/sett.png"},
+  {id="drummond", name="Drummond (Duke of Perth)", type="lowland-superior", men=300, lat=56.32, lon=-4.00, territory="Glen Artney / Strathearn", img="/setts/s15/r12b2r4b4r64ba2r4b16r4g4r4g48r4b4r12-b1474b4-ba5c8ca8-g006818-rc80000/sett.png"},
+  {id="robertson", name="Robertson", type="highland-clan", men=200, lat=56.70, lon=-4.30, territory="Rannoch & Brae of Atholl", img="/setts/s6/g2r72b16r4g40r4-b2c4084-g005020-rdc0000/sett.png"},
+  {id="menzies", name="Menzies", type="highland-clan", men=300, lat=56.62, lon=-4.00, territory="Appin of Dull & Rannoch", img="/setts/s4/r5g5w3r5-g004c00-rc80000-wd0d0d0/sett.png"},
+  {id="stewart_cairntullie", name="Stewart of Cairntullie", type="lowland-superior", men=200, lat=56.58, lon=-3.68, territory="Strathbran & Strathtay", img="/setts/s30/b28k24b6g44g8k12y4k4b4k4g16r8k4r8w4r8k4r8g16k4b4k4y4k12g8g44b6k24b28k8-b00248c-g004c00-k000000-rc80000-wc0c0c0-ya08c28/sett.png"},
+  {id="macgregor", name="MacGregor (Clan Gregor)", type="proscribed", men=500, lat=56.40, lon=-4.42, territory="dispersed (Balquhidder)", img="/setts/s6/r36g18r4g6k1y2-g11450d-k000000-raa0000-yaaaaaa/sett.png"},
+  {id="murray_atholl", name="Murray (Duke of Atholl)", type="lowland-superior", men=3000, lat=56.80, lon=-3.88, territory="Atholl", img="/setts/s12/b50k4b4k4b4k42g46r10g46k40b38r10-b304080-g008000-k000000-rc00000/sett.png"},
+  {id="farquharson", name="Farquharson", type="highland-clan", men=500, lat=57.00, lon=-3.40, territory="Mar (Aberdeenshire)", img="/setts/s25/b14k2b2k2b2k20g44y4g44k20b32k2b4k2b32k20g44r4g44k20b2k2b2k2b42-b304080-g008000-k000000-rc00000-yf0c000/sett.png"},
+  {id="gordon", name="Gordon (Duke of Gordon)", type="lowland-superior", men=300, lat=57.20, lon=-3.30, territory="Strathavon & Glenlivet", img="/setts/s12/b20k4b4k4b4k16g20y4g20k16b24k4-b2c4084-g005020-k101010-ye8c000/sett.png"},
+  {id="grant", name="Grant", type="highland-clan", men=850, lat=57.30, lon=-3.60, territory="Strathspey & Urquhart", img="/setts/s11/b48k8b8k8b8k48g48r10g12k4y4-b304080-g008000-k000000-rc00000-yf0c000/sett.png"},
+  {id="mackintosh", name="Mackintosh (Clan Chattan)", type="highland-clan", men=800, lat=57.18, lon=-4.00, territory="Badenoch & Strathnairn", img="/setts/s6/b2r8g24r6b12r48-b000064-g004c00-rc80000/sett.png"},
+  {id="macpherson", name="MacPherson", type="highland-clan", men=300, lat=57.05, lon=-4.10, territory="Badenoch (Cluny)", img="/setts/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1-g004c00-k000000-rc80000-wd0d0d0-yc8c800/sett.png"},
+  {id="fraser", name="Fraser", type="highland-clan", men=700, lat=57.40, lon=-4.50, territory="The Aird & Stratherrick", img="/setts/s6/r4b24r4g24r48w2-b000050-g003000-rc00000-we0e0e0/sett.png"},
+  {id="grant_glenmoriston", name="Grant of Glenmoriston", type="highland-clan", men=100, lat=57.18, lon=-4.78, territory="Glenmoriston", img="/setts/s14/b12r4b4r48b4r4b4r16b4b64r4b4r2b12-b1c0070-rc80000/sett.png"},
+  {id="chisholm", name="Chisholm", type="highland-clan", men=200, lat=57.35, lon=-4.80, territory="Strathglass", img="/setts/s10/r12w2r48b12g4b2g4b2g24r2-b2c2c80-g006818-rc80000-wfcfcfc/sett.png"},
+  {id="mackenzie", name="MacKenzie", type="highland-clan", men=2000, lat=57.50, lon=-5.35, territory="Kintail, Ross & Lewis", img="/setts/s15/w20k6w6k6w6k10w10g18k2w4k2g18k20w26r4-g008000-k000000-rc00000-we0e0e0/sett.png"},
+  {id="munro", name="Munro", type="highland-clan", men=300, lat=57.62, lon=-4.40, territory="Easter Ross (Foulis)", img="/setts/s17/r48y2b2r6g32r6b2y2r6b12r6y2b2r32g4ba4g4-b000052-ba59110d-g11450d-raa0000-yaaaa00/sett.png"},
+  {id="ross", name="Ross", type="highland-clan", men=300, lat=57.78, lon=-4.50, territory="Ross", img="/setts/s27/g16r2g16r16b2r2b4r2b2r16b2r2b4r2b2r16b16r2b16r16g2r4g2r16g16r2g16-b00004c-g004c00-rc80000/sett.png"},
+  {id="sutherland", name="Sutherland", type="highland-clan", men=700, lat=58.20, lon=-4.20, territory="Sutherland", img="/setts/s22/g12w4g48k24b6k4b4k4b24r2b2r6b2r2b24k4b4k4b6k24g48w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png"},
+  {id="mackay", name="Mackay", type="highland-clan", men=500, lat=58.40, lon=-4.40, territory="Strathnaver", img="/setts/s6/g6b28g4k28g28k6-b000052-g11450d-k000000/sett.png"},
+  {id="sinclair", name="Sinclair", type="reduced", men=500, lat=58.45, lon=-3.40, territory="Caithness", img="/setts/s10/r60g24k10w4b12r60b24w4k10g24-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png"},
+]

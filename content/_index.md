@@ -10,6 +10,12 @@ Welcome. The Tartan Dictionary exists to support the living Scottish Celtic tart
 to help you understand tartans, trace a family or clan tradition, and find your way to owning
 your own.
 
+{{< clanmap >}}
+
+*The clans of Scotland as the 1745 [Memorial](/posts/clanmap/) found them — each country shown in
+its own tartan, sized by the men it could raise, divided by the Highland Line. A first sketch:
+positions are approximate and a date slider is still to come.*
+
 Most catalogues identify a cloth by its name, or by the weaver's exact thread-count recipe. This
 dictionary works one level up, at the **pattern** — the design itself, set apart from precise
 counts and shades — so that the many weavings of one design, across centuries and mills, are

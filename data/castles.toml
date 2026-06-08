@@ -6,7 +6,9 @@
 # `line`  = chiefly | cadet  (which Drummond line the seat belongs to).
 # `rank`  = 1 principal seat of its line · 2 secondary.
 #
-# Dates are APPROXIMATE and pending a sourced verification pass — see the post.
+# Chiefly-seat tenure dates verified 2026-06-07 against the 1745 "Memorial anent the
+# Highlands" (1899 ed.) and Wikipedia (Clan Drummond, Drummond Castle). Megginch's 1664
+# acquisition is not yet independently sourced — still APPROXIMATE.
 
 [[castle]]
 id       = "stobhall"
@@ -16,8 +18,8 @@ rank     = 1
 lat      = 56.500
 lon      = -3.400
 built    = 1360
-held     = [[1360, 1745], [1785, 0]]
-note     = "Early principal seat on the Tay; forfeited with the Perth estates after the '45, restored 1785. Today the seat of the Earl of Perth."
+held     = [[1360, 1750], [1784, 0]]
+note     = "Early principal seat on the Tay; forfeited with the Perth estates (annexed 1750 after the '45), repurchased by Capt. James Drummond 1784. Today the seat of the Earl of Perth."
 
 [[castle]]
 id       = "drummond"
@@ -27,8 +29,8 @@ rank     = 1
 lat      = 56.325
 lon      = -3.930
 built    = 1490
-held     = [[1490, 1745], [1785, 0]]
-note     = "Built c.1490 by John, 1st Lord Drummond; seat of the Lords Drummond and Earls of Perth. Slighted after the '45; estates restored 1785."
+held     = [[1490, 1750], [1784, 0]]
+note     = "Built c.1490 by John, 1st Lord Drummond; seat of the Lords Drummond and Earls of Perth. Slighted after the '45; estates annexed 1750, repurchased 1784 (titles restored 1853)."
 
 [[castle]]
 id       = "megginch"

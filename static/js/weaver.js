@@ -103,7 +103,7 @@
     h.push('<p><img id="weaver-sett" alt="Sett"></p>');
     h.push('<h2>Palette</h2>');
     h.push('<p>Each colour and its ΔE from the base-6 reference it is a variant of.</p>');
-    h.push(paletteTable(info.palette));
+    h.push('<div id="weaver-palette">' + paletteTable(info.palette, edit ? shadeRowsFor(info) : null) + '</div>');
     h.push('<h1>Sample pattern</h1>');
     h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
     h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
@@ -131,10 +131,49 @@
     var woven = window.weaver.renderWoven(info.slug, 480);
     if (!woven.error) document.getElementById('weaver-tartan').src = pngURL(woven);
 
+    if (edit) wireShadeButtons(shell, info);
+
     var tRender = performance.now();
     statLine('engine ' + Math.round(tWasm - t0) + ' ms, images ' + Math.round(tRender - tWasm) + ' ms');
 
     neighbours(info);
+  }
+
+  /* The first embedded supplier shade table (the STA legend for now; a chooser when more land). */
+  var supplierCache = null;
+  function supplier() {
+    if (supplierCache === null) {
+      var list = window.weaver.suppliers();
+      supplierCache = (list && !list.error && list.length) ? list[0] : false;
+    }
+    return supplierCache;
+  }
+
+  function shadeRowsFor(info) {
+    var sup = supplier();
+    if (!sup) return null;
+    var rows = window.weaver.shadeSteps(info.slug, sup.id);
+    return rows.error ? null : rows;
+  }
+
+  /* One darker/lighter step along the supplier ladder: re-derive the variant, move the address
+   * bar to its canonical URL, re-render in place. */
+  function wireShadeButtons(shell, info) {
+    var box = document.getElementById('weaver-palette');
+    if (!box) return;
+    box.addEventListener('click', function (ev) {
+      var btn = ev.target.closest('button[data-shade-hex]');
+      if (!btn) return;
+      ev.preventDefault();
+      var next = window.weaver.applyShade(info.slug, btn.dataset.shadeCode, btn.dataset.shadeHex);
+      if (next.error) {
+        statLine('shade step failed: ' + next.error);
+        return;
+      }
+      next.name = info.name || '';
+      setAddress(next, true);
+      render(shell, next, true);
+    });
   }
 
   /* The entry form, shown above the rendered page in edit mode. Weaving re-renders in place and
@@ -173,15 +212,36 @@
     text.parentNode.insertBefore(form, text);
   }
 
-  function paletteTable(palette) {
+  function paletteTable(palette, shadeRows) {
+    var byCode = {};
+    (shadeRows || []).forEach(function (r) { byCode[r.code] = r; });
     var rows = palette.map(function (p) {
-      return '<tr><td>' + esc(p.code) + '</td>' +
+      var tr = '<tr><td>' + esc(p.code) + '</td>' +
         '<td>' + swatch(p.hex) + ' <code>' + esc(p.hex) + '</code></td>' +
         '<td>' + esc(p.baseCode) + ' ' + swatch(p.baseHex) + '</td>' +
-        '<td>' + p.deltaE.toFixed(2) + '</td></tr>';
+        '<td>' + p.deltaE.toFixed(2) + '</td>';
+      if (shadeRows) tr += '<td style="white-space:nowrap">' + shadeCell(p.code, byCode[p.code]) + '</td>';
+      return tr + '</tr>';
     });
-    return '<table><thead><tr><th>Colour</th><th>Shade</th><th>Base</th><th>ΔE (OKLab)</th></tr></thead>' +
-      '<tbody>' + rows.join('') + '</tbody></table>';
+    var head = '<tr><th>Colour</th><th>Shade</th><th>Base</th><th>ΔE (OKLab)</th>' +
+      (shadeRows ? '<th>Standard shade (' + esc(supplier().name) + ')</th>' : '') + '</tr>';
+    return '<table><thead>' + head + '</thead><tbody>' + rows.join('') + '</tbody></table>';
+  }
+
+  /* The stepping cell: ▼ to the darker rung, the matched standard shade (≈ when the dye is not
+   * exactly standard), ▲ to the lighter rung. */
+  function shadeCell(code, row) {
+    if (!row || !row.match) return '—';
+    var html = stepBtn(code, row.prev, '▼', 'darker');
+    html += ' ' + (row.exact ? '' : '≈ ') + esc(row.match.name) + ' ' + swatch(row.match.hex) + ' ';
+    html += stepBtn(code, row.next, '▲', 'lighter');
+    return html;
+  }
+
+  function stepBtn(code, step, arrow, title) {
+    if (!step) return '<button disabled title="end of ladder">' + arrow + '</button>';
+    return '<button data-shade-code="' + esc(code) + '" data-shade-hex="' + esc(step.hex) +
+      '" title="' + title + ': ' + esc(step.name) + ' ' + esc(step.hex) + '">' + arrow + '</button>';
   }
 
   /* Mirrors the static pages' colour chip (internal/dictionary cSwatch). */

@@ -1,0 +1,62 @@
+/* Print sample sheets for tartan variants. weaver.js builds a dedicated #weaver-print-sheet
+ * (title, threadcount, palette, woven sample at print resolution) and tags <body> with
+ * weaver-printing; these rules then print the sheet and nothing else. The @page size (A4/A3)
+ * is injected per print by weaver.js, since CSS cannot switch it at print time. */
+
+@page {
+  margin: 12mm;
+}
+
+@media print {
+  body.weaver-printing > *:not(#weaver-print-sheet) {
+    display: none !important;
+  }
+  body.weaver-printing #weaver-print-sheet {
+    display: block !important;
+  }
+
+  #weaver-print-sheet {
+    font: 11pt/1.4 Georgia, 'Times New Roman', serif;
+    color: #000;
+  }
+  #weaver-print-sheet h1 {
+    font-size: 20pt;
+    margin: 0 0 2mm;
+  }
+  #weaver-print-sheet .weaver-print-id {
+    font-size: 8pt;
+    color: #444;
+    word-break: break-all;
+    margin: 0 0 6mm;
+  }
+  #weaver-print-sheet h2 {
+    font-size: 13pt;
+    margin: 5mm 0 2mm;
+  }
+  #weaver-print-sheet .weaver-print-threadcount {
+    font-family: 'Courier New', monospace;
+    font-size: 10pt;
+  }
+  #weaver-print-sheet img {
+    width: 100%;
+    image-rendering: auto;
+  }
+  #weaver-print-sheet table {
+    border-collapse: collapse;
+    font-size: 10pt;
+  }
+  #weaver-print-sheet th,
+  #weaver-print-sheet td {
+    border: 0.3pt solid #999;
+    padding: 1mm 3mm;
+    text-align: left;
+  }
+  /* The swatch chips must keep their ink when printed. */
+  #weaver-print-sheet code {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  #weaver-print-sheet .weaver-print-sample {
+    page-break-inside: avoid;
+  }
+}

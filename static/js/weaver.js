@@ -40,11 +40,22 @@
     var m = /^\/setts\/s\d+\/([0-9a-z-]+)\/$/.exec(location.pathname);
     var slug = extras.dataset.slug || (m && m[1]);
     if (!slug) return;
+
+    var header = document.querySelector('.post-header h1');
+    var text = document.querySelector('.post-text');
+    if (text && !document.getElementById('weaver-print-controls')) {
+      text.parentNode.insertBefore(
+        printControls(slug, header ? header.textContent : document.title), text);
+    }
+
     whenVisible(extras, function () {
       loadEngine().then(function () {
         renderExtras(extras, slug, true);
       }).catch(function () { extras.innerHTML = ''; });
     });
+
+    var pm = /[?&]weaverprint=(A[34])/.exec(location.search);
+    if (pm) printSample(slug, pm[1], header ? header.textContent : document.title, true);
   }
 
   function whenVisible(el, fn) {
@@ -138,6 +149,7 @@
     h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
     h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
     h.push('<p>ID: ' + esc(info.path) + '</p>');
+    h.push('<p id="weaver-print-slot"></p>');
     if (!edit) {
       h.push('<p><a href="' + info.path + 'edit/' +
         (info.path.indexOf(info.slug) === -1 ? '#slug=' + info.slug : '') +
@@ -162,6 +174,8 @@
     if (!woven.error) document.getElementById('weaver-tartan').src = pngURL(woven);
 
     if (edit) wireShadeButtons(shell, info);
+    var slot = document.getElementById('weaver-print-slot');
+    if (slot) slot.replaceWith(printControls(info.slug, info.name || 'Tartan variant'));
 
     var tRender = performance.now();
     statLine('engine ' + Math.round(tWasm - t0) + ' ms, images ' + Math.round(tRender - tWasm) + ' ms');
@@ -402,5 +416,82 @@
   function statLine(msg) {
     var el = document.getElementById('weaver-stats');
     if (el) el.textContent = (el.textContent ? el.textContent + ' · ' : '') + msg;
+  }
+
+  /* "Print sample sheet: A4 A3" — on static variant pages and weaver pages alike. The engine
+   * loads on first click, so the buttons cost nothing until used. */
+  function printControls(slug, title) {
+    var p = document.createElement('p');
+    p.id = 'weaver-print-controls';
+    p.appendChild(document.createTextNode('Print sample sheet: '));
+    ['A4', 'A3'].forEach(function (size) {
+      var b = document.createElement('button');
+      b.textContent = size;
+      b.addEventListener('click', function () { printSample(slug, size, title, false); });
+      p.appendChild(b);
+      p.appendChild(document.createTextNode(' '));
+    });
+    return p;
+  }
+
+  /* Builds the dedicated print sheet — title, threadcount, palette, woven sample re-rendered at
+   * print resolution from the slug — then prints it at the chosen paper size. print.css hides
+   * everything else while body carries the weaver-printing class. preview=true (the ?weaverprint=
+   * dev hook) shows the sheet on screen instead of printing. */
+  function printSample(slug, size, title, preview) {
+    loadEngine().then(function () {
+      var info = window.weaver.parseSlug(slug);
+      if (info.error) throw new Error(info.error);
+
+      var old = document.getElementById('weaver-print-sheet');
+      if (old) old.remove();
+      var sheet = document.createElement('div');
+      sheet.id = 'weaver-print-sheet';
+      sheet.style.display = 'none';
+      sheet.innerHTML =
+        '<h1>' + esc(title || 'Tartan variant') + '</h1>' +
+        '<p class="weaver-print-id">' + esc(location.origin + info.path) + '</p>' +
+        '<h2>Thread count</h2>' +
+        '<p class="weaver-print-threadcount">' + esc(info.threadcount) + '</p>' +
+        '<p><img class="weaver-print-sett" alt="Sett"></p>' +
+        '<h2>Palette</h2>' +
+        paletteTable(info.palette) +
+        '<div class="weaver-print-sample"><h2>Woven sample</h2>' +
+        '<p><img class="weaver-print-tartan" alt="Woven sample"></p></div>';
+      document.body.appendChild(sheet);
+
+      var settPNG = window.weaver.renderSett(info.slug, 2000, 120);
+      var wovenPNG = window.weaver.renderWoven(info.slug, 2048);
+      if (settPNG.error || wovenPNG.error) throw new Error(settPNG.error || wovenPNG.error);
+      var settImg = sheet.querySelector('.weaver-print-sett');
+      var wovenImg = sheet.querySelector('.weaver-print-tartan');
+      settImg.src = pngURL(settPNG);
+      wovenImg.src = pngURL(wovenPNG);
+
+      var style = document.getElementById('weaver-page-size');
+      if (!style) {
+        style = document.createElement('style');
+        style.id = 'weaver-page-size';
+        document.head.appendChild(style);
+      }
+      style.textContent = '@page { size: ' + size + ' }';
+
+      // Both images must be decoded before print, or the sheet comes out blank.
+      return Promise.all([settImg.decode(), wovenImg.decode()]).then(function () {
+        if (preview) {
+          sheet.style.display = 'block';
+          return;
+        }
+        document.body.classList.add('weaver-printing');
+        var done = function () {
+          document.body.classList.remove('weaver-printing');
+          window.removeEventListener('afterprint', done);
+        };
+        window.addEventListener('afterprint', done);
+        window.print();
+      });
+    }).catch(function (err) {
+      alert('Could not build the print sheet: ' + (err.message || err));
+    });
   }
 })();

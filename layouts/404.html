@@ -1,8 +1,12 @@
 {{ define "main" }}
 
-<article>
-  <header><h1>404: Page not found</h1></header>
-  <p>Unfortunately, this page does not exist.</p>
+<article class="post" id="weaver-app" data-weaver="shell">
+  <header class="post-header"><h1 style="text-align: center;">404: Page not found</h1></header>
+  <div class="post-text">
+    <p>Unfortunately, this page does not exist.</p>
+  </div>
 </article>
+
+<script src="{{ "js/weaver.js" | relURL }}" defer></script>
 
 {{ end }}

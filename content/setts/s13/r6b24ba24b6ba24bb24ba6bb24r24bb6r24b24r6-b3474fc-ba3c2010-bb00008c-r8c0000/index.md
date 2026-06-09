@@ -1,13 +1,13 @@
 ---
-title: "Vincent (WCWM - Fashion)"
+title: "Vincent"
 date: 2023-03-18
 ---
 In pattern [RBBBBBBBRBRBR](/patterns/rbbbbbbbrbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4342/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4462
 
 ## Thread count
 DR/6 B24 DR24 DB6 DR24 DB24 K6 DB24 K24 B6 K24 B24 DR/6

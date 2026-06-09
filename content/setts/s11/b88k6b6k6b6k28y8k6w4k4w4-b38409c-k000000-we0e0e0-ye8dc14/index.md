@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BKBKBKYKWKW](/patterns/bkbkbkykwkw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7425/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5497
 
 ## Thread count
 B/88 K6 B6 K6 B6 K28 Y8 K6 LN4 K4 LN/4

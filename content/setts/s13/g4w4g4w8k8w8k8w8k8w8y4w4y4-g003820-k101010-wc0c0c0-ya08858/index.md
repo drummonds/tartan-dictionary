@@ -1,13 +1,13 @@
 ---
-title: "Glen Flesk (Fashion)"
+title: "Glen Flesk"
 date: 2023-03-18
 ---
 In pattern [GWGWKWKWKWYWY](/patterns/gwgwkwkwkwywy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2369/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1379
 
 ## Thread count
 DG/4 N4 DG4 N8 K8 N8 K8 N8 K8 N8 LT4 N4 LT/4

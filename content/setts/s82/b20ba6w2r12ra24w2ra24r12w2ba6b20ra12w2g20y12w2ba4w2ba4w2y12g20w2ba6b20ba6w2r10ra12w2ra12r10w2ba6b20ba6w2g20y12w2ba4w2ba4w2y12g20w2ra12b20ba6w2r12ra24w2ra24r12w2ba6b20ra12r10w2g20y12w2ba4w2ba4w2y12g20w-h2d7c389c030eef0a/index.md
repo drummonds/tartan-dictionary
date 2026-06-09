@@ -1,6 +1,7 @@
 ---
 title: "Unnamed C18th - Cant Counts"
 date: 2023-03-18
+slug_full: "b20ba6w2r12ra24w2ra24r12w2ba6b20ra12w2g20y12w2ba4w2ba4w2y12g20w2ba6b20ba6w2r10ra12w2ra12r10w2ba6b20ba6w2g20y12w2ba4w2ba4w2y12g20w2ra12b20ba6w2r12ra24w2ra24r12w2ba6b20ra12r10w2g20y12w2ba4w2ba4w2y12g20w2ba6b20ba6w2r10ra12w2ra12r10w2-b2c2c80-ba2888c4-g003820-re87878-rac80000-we0e0e0-ye8c000"
 ---
 In pattern [BBWRRWRRWBBRWGYWBWBWYGWBBBWRRWRRWBBBWGYWBWBWYGWRBBWRRWRRWBBRRWGYWBWBWYGWBBBWRRWRRW](/patterns/bbwrrwrrwbbrwgywbwbwygwbbbwrrwrrwbbbwgywbwbwygwrbbwrrwrrwbbrrwgywbwbwygwbbbwrrwrrw/).
 

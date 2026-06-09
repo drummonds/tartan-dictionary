@@ -1,13 +1,13 @@
 ---
-title: "Davidson of Tulloch Dress (Clan)"
+title: "Davidson of Tulloch Dress"
 date: 2023-03-18
 ---
 In pattern [RBKGWGKWKWKW](/patterns/rbkgwgkwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4194/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=895
 
 ## Thread count
 DR/4 DB10 K10 G10 N4 G10 K10 N4 K4 N8 K4 N/4

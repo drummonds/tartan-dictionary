@@ -1,13 +1,13 @@
 ---
-title: "Carlisle Ancient (Name)"
+title: "Carlisle Ancient"
 date: 2023-03-18
 ---
 In pattern [BYRYR](/patterns/byryr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/680/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=563
 
 ## Thread count
 B/44 DY8 DR4 DY8 DR/4

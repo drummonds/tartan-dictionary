@@ -1,13 +1,13 @@
 ---
-title: "Reid (1939) (Artefact)"
+title: "Reid (1939)"
 date: 2023-03-18
 ---
 In pattern [GRGWGY](/patterns/grgwgy/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5874/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3492
 
 ## Thread count
 LT/80 R16 LT8 LN4 LT8 Y/10

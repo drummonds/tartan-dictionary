@@ -1,6 +1,7 @@
 ---
 title: "Aberdeen"
 date: 2023-03-18
+slug_full: "g8w2r12ra6w2ra6r12w2b20w4ba6r16ra6w4ra6r16ba6w4k24g8k24w4ba6r16ra6w4ra6r16ba6w4ba12b8w4b8ba12w4k32g8w4g8k32w4ba12b8w4b8ba12w4ba6r16ra6w4ra6r16ba6w4k24g8k24w4ba6r16ra6w4ra6r16ba6w4b20w2r12ra6w2ra6r12w2g8k32w4r46ra6w4-b5c8ca8-ba780078-g289c18-k101010-rc80000-raa00048-wf8f8f8"
 ---
 In pattern [GWRRWRRWBWBRRWRRBWKGKWBRRWRRBWBBWBBWKGWGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW](/patterns/gwrrwrrwbwbrrwrrbwkgkwbrrwrrbwbbwbbwkgwgkwbbwbbwbrrwrrbwkgkwbrrwrrbwbwrrwrrwgkwrrw/).
 

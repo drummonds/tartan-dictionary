@@ -1,13 +1,13 @@
 ---
-title: "Connolly Dress"
+title: "Connolly Dress (Name)"
 date: 2023-03-18
 ---
 In pattern [GKGKGBRYRG](/patterns/gkgkgbryrg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4928
+Original link http://www.tartansauthority.com/tartan-ferret/display/7356/
 
 ## Thread count
 G/12 K4 G6 K4 G12 DB16 R40 Y4 R6 G/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/g12k4g6k4g12b16r40y4r6g4-b2c2c80-g006818-k101010-rc80000-ye8c000/
-0/

@@ -1,13 +1,13 @@
 ---
-title: "Cranston Dress"
+title: "Cranston Dress (Clan)"
 date: 2023-03-18
 ---
 In pattern [GGBRBRBR](/patterns/ggbrbrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=794
+Original link http://www.tartansauthority.com/tartan-ferret/display/753/
 
 ## Thread count
 Ga/6 G26 DB14 R6 DB4 R2 DB4 R/30

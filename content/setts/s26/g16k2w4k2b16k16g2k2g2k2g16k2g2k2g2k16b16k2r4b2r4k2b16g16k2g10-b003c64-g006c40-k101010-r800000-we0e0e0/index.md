@@ -1,13 +1,13 @@
 ---
-title: "Killen (Name)"
+title: "Killen Personal Tartan Tartan Number: 6575. Earliest known date: 2004 Designed by Paul Killen for his wedding in July 2004 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GKGBKRBRKBKGKGKGKGKGKBKWKG](/patterns/gkgbkrbrkbkgkgkgkgkgkbkwkg/).
 
 
-This was sourced from tartans-authority.  It is a [26 stripes tartan](/stripes/stripes26/).
+This was sourced from house-of-tartan.  It is a [26 stripes tartan](/stripes/stripes26/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6575/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6575
 
 ## Thread count
 G/10 K2 G16 DB16 K2 DR4 DB2 DR4 K2 DB16 K16 G2 K2 G2 K2 G16 K2 G2 K2 G2 K16 DB16 K2 LN4 K2 G/16

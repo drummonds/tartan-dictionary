@@ -1,13 +1,13 @@
 ---
-title: "Lysaght Dress"
+title: "Lysaght Dress (Clan)"
 date: 2023-03-18
 ---
 In pattern [RWRWBWBWBYBY](/patterns/rwrwbwbwbyby/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260
+Original link http://www.tartansauthority.com/tartan-ferret/display/6593/
 
 ## Thread count
 DR/24 LN16 DR24 LN44 DB4 LN12 DB12 LN4 DB44 DY24 DB16 DY/24

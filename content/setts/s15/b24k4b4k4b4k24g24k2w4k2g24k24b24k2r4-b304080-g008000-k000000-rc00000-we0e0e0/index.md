@@ -1,5 +1,5 @@
 ---
-title: "MacKenzie"
+title: "MacKenzie, Seaforth"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKWKGKBKR](/patterns/bkbkbkgkwkgkbkr/).

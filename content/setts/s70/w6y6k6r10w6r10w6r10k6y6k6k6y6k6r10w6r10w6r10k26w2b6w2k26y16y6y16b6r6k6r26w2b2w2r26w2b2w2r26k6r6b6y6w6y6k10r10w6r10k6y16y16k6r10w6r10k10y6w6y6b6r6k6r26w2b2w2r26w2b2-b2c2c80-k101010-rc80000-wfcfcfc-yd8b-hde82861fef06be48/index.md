@@ -1,6 +1,7 @@
 ---
 title: "Ogilvie of Strathallan"
 date: 2023-03-18
+slug_full: "w6y6k6r10w6r10w6r10k6y6k6k6y6k6r10w6r10w6r10k26w2b6w2k26y16y6y16b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y6w6y6k10r10w6r10k6y16y16k6r10w6r10k10y6w6y6b6r6k6r26w2b2w2r26w2b2-b2c2c80-k101010-rc80000-wfcfcfc-yd8b000"
 ---
 In pattern [BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW](/patterns/bwrwbwrkrbywykrwrkyykrwrkywybrkrwbwrwbwrkrbyyykwbwkrwrwrkykkykrwrwrkyw/).
 

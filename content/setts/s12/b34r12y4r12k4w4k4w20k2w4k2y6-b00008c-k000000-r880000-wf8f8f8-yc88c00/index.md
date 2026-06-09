@@ -1,13 +1,13 @@
 ---
-title: "Chieftain, The (Fashion)"
+title: "Chieftain, The"
 date: 2023-03-18
 ---
 In pattern [BRYRKWKWKWKY](/patterns/bryrkwkwkwky/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4503/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=631
 
 ## Thread count
 DB/34 DR12 DY4 DR12 K4 W4 K4 W20 K2 W4 K2 DY/6

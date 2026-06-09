@@ -1,5 +1,5 @@
 ---
-title: "Wallace dress"
+title: "MacFarlane, Lendrum Black and White"
 date: 2023-03-18
 ---
 In pattern [KWKW](/patterns/kwkw/).

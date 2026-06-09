@@ -1,13 +1,13 @@
 ---
-title: "Michigan State Police (Corporate)"
+title: "Michigan State Police"
 date: 2023-03-18
 ---
 In pattern [BKBKYKYKYBR](/patterns/bkbkykykybr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6900/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2945
 
 ## Thread count
 DB/8 K4 DB40 K26 Y2 K4 Y4 K4 Y2 N46 Na/8

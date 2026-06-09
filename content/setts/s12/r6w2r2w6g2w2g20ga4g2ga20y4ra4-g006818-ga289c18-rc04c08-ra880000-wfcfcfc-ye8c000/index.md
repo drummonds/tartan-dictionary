@@ -1,13 +1,13 @@
 ---
-title: "Breacan"
+title: "Breacan (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RWRWGWGGGGYR](/patterns/rwrwgwggggyr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=345
+Original link http://www.tartansauthority.com/tartan-ferret/display/6026/
 
 ## Thread count
 DO/6 W2 DO2 W6 Ga2 W2 Ga20 G4 Ga2 G20 Y4 DR/4

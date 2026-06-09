@@ -1,13 +1,13 @@
 ---
-title: "Alpha Chi Sigma Fraternity (Corp)"
+title: "Alpha Chi Sigma Fraternity Corporate Tartan Tartan Number: 6688. Earliest known date: 2005 The Alpha Chi Sigma Fraternity is a Professional Chemistry Fraternity, founded in 1902, which promotes the advancement of chemistry both as a science and as a profession. The Fraternity is a not-for-profit corporation of the United States of America. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BYBYBYBRWR](/patterns/bybybybrwr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6688/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6688
 
 ## Thread count
 DB/70 Y2 DB6 Y2 DB6 Y2 DB40 R12 LN2 R/10

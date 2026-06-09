@@ -1,13 +1,13 @@
 ---
-title: "Ailsa, Grey (Fashion)"
+title: "Ailsa, Grey"
 date: 2023-03-18
 ---
 In pattern [GWRWRBRWR](/patterns/gwrwrbrwr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3025/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008
 
 ## Thread count
 G/6 LN2 Na2 LN2 Na2 N50 Na18 LN18 Na/18

@@ -1,6 +1,7 @@
 ---
 title: "Kilbarchan Unidentified No. 14"
 date: 2023-03-18
+slug_full: "w6b4w28b6w6k10g24k2w6k2g24k24b4k4b4k4b24k4b4k4b4k24g24k2w6g24k10w6b6w28b4w6b4w28b6w6k10g24k2w6k2g24k24b24k2r6k2b24k24g24k2w6k2g24k10w6b6w28b4w6b4w28b6w6k10g24w6k2g24k24k4b4k4b24k4b4k4-b1474b4-g00643c-k101010-rc80000-we0e0e0"
 ---
 In pattern [KBKBKBKKGKWGKWBWBWBWBWKGKWKGKBKRKBKGKWKGKWBWBWBWBWKGWKGKBKBKBKBKBKGKWKGKWBWBW](/patterns/kbkbkbkkgkwgkwbwbwbwbwkgkwkgkbkrkbkgkwkgkwbwbwbwbwkgwkgkbkbkbkbkbkgkwkgkwbwbw/).
 

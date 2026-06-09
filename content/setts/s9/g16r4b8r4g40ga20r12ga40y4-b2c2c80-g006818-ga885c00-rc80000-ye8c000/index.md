@@ -1,13 +1,13 @@
 ---
-title: "Moncton, City of (District)"
+title: "Moncton, City of"
 date: 2023-03-18
 ---
 In pattern [GRBRGGRGY](/patterns/grbrggrgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7384/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2983
 
 ## Thread count
 G/16 R4 DB8 R4 G40 T20 R12 T40 Y/4

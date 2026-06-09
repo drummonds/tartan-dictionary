@@ -1,13 +1,13 @@
 ---
-title: "Bro-Wened"
+title: "Bro-Wened (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BWKWRK](/patterns/bwkwrk/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=390
+Original link http://www.tartansauthority.com/tartan-ferret/display/6651/
 
 ## Thread count
 DB/6 LY30 K6 LY6 DR20 K/86
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/6 LY30 K6 LY6 DR20 K/86 tartan")
 
 ID: /setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/
-wf8e8d8/

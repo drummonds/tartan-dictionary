@@ -1,13 +1,13 @@
 ---
-title: "Breifne (District)"
+title: "Breifne"
 date: 2023-03-18
 ---
 In pattern [WYWGWGWGWKGY](/patterns/wywgwgwgwkgy/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7265/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=351
 
 ## Thread count
 LP/6 N8 LP24 DG4 LP6 DG4 LP6 DG4 LP24 K8 DG36 N/6

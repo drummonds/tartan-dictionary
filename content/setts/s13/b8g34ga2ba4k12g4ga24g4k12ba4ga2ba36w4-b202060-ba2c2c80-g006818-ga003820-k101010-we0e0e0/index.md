@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BGGBKGGGKBGBW](/patterns/bggbkgggkbgbw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5402
+Original link http://www.tartansauthority.com/tartan-ferret/display/3928/
 
 ## Thread count
 DBa/8 G34 DG2 DB4 K12 G4 DG24 G4 K12 DB4 DG2 DB36 LN/4

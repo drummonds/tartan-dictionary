@@ -1,13 +1,13 @@
 ---
-title: "Fife (Mann)"
+title: "Fife (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BWBYBGYBKGWB](/patterns/bwbybgybkgwb/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1179
+Original link http://www.tartansauthority.com/tartan-ferret/display/6159/
 
 ## Thread count
 B/8 W4 B48 DY12 B28 T8 DY4 B8 K4 G16 W4 B/8

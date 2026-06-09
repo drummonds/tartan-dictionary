@@ -1,13 +1,13 @@
 ---
-title: "Longmore"
+title: "Longmore (Name)"
 date: 2023-03-18
 ---
 In pattern [BWBRGRGYG](/patterns/bwbrgrgyg/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5322
+Original link http://www.tartansauthority.com/tartan-ferret/display/7373/
 
 ## Thread count
 B/8 LN2 B4 R66 G4 R4 G54 Y6 G/30

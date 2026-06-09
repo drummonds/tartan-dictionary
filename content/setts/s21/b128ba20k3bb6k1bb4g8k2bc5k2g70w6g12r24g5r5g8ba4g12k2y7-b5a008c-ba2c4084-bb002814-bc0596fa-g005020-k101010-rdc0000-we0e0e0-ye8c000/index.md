@@ -1,5 +1,5 @@
 ---
-title: "Unidentified #3"
+title: "Annandale (Personal)"
 date: 2023-03-18
 ---
 In pattern [BBKBKBGKBKGWGRGRGBGKY](/patterns/bbkbkbgkbkgwgrgrgbgky/).
@@ -7,7 +7,7 @@ In pattern [BBKBKBGKBKGWGRGRGBGKY](/patterns/bbkbkbgkbkgwgrgrgbgky/).
 
 This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4204
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5334
 
 ## Thread count
 P/128 B20 K3 DG6 K1 DG4 G8 K2 Ba5 K2 G70 LN6 G12 R24 G5 R5 G8 B4 G12 K2 Y/7

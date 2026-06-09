@@ -1,13 +1,13 @@
 ---
-title: "Ballater"
+title: "Ballater (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BBBRBKRKBR](/patterns/bbbrbkrkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=179
+Original link http://www.tartansauthority.com/tartan-ferret/display/1708/
 
 ## Thread count
 DB/12 B4 DB24 DR8 Ba24 K4 DR4 K4 Ba24 DR/12
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
 ID: /setts/s10/b12ba4b24r8bb24k4r4k4bb24r12-b00008c-ba788cb4-bb3474fc-k000000-r8c0000/
-c0000/

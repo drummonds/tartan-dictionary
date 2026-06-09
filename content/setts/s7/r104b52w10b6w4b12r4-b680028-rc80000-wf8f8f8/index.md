@@ -1,13 +1,13 @@
 ---
-title: "St Andrew's School, Delaware"
+title: "St. Andrews School (Delaware) (Corp)"
 date: 2023-03-18
 ---
 In pattern [RBWBWBR](/patterns/rbwbwbr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5725
+Original link http://www.tartansauthority.com/tartan-ferret/display/7744/
 
 ## Thread count
 R/4 DR12 W4 DR6 W10 DR52 R/104

@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BRKYB](/patterns/brkyb/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6990/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4107
 
 ## Thread count
 B/144 R32 K10 Y4 DB/32

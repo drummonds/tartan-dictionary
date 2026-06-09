@@ -1,13 +1,13 @@
 ---
-title: "Pars, Dress (Sports)"
+title: "Pars, Dress"
 date: 2023-03-18
 ---
 In pattern [KWKWKWKWRWKWKW](/patterns/kwkwkwkwrwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3834/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5125
 
 ## Thread count
 K/2 W10 K14 W14 K4 W14 K100 W14 R4 W14 K14 W10 K2 W/20
@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s14/w20k2w10k14w14r4w14k100w14k4w14k14w10k2-k101010-rc80000-wfcfcfc/
+cfc/

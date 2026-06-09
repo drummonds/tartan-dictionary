@@ -1,13 +1,13 @@
 ---
-title: "Murray, Lord George (Artefact)"
+title: "Murray, Lord George (Plaid)"
 date: 2023-03-18
 ---
 In pattern [RBRGRGRGR](/patterns/rbrgrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5643/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3077
 
 ## Thread count
 R/10 DG20 R10 DG20 R40 DG4 R40 DP20 R/10

@@ -1,13 +1,13 @@
 ---
-title: "Montreal (Fashion)"
+title: "Montreal"
 date: 2023-03-18
 ---
 In pattern [GYGYGRGRGY](/patterns/gygygrgrgy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6259/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2993
 
 ## Thread count
 G/86 LT4 G6 LT4 G12 R4 G2 R4 G20 LT/156

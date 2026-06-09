@@ -1,13 +1,13 @@
 ---
-title: "MacKellar (Clan)"
+title: "MacKellar"
 date: 2023-03-18
 ---
 In pattern [GWGYGWGKBKBW](/patterns/gwgygwgkbkbw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/939/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2514
 
 ## Thread count
 G/60 W6 G8 Y10 G8 W6 G12 K28 B6 K28 DB36 W/8

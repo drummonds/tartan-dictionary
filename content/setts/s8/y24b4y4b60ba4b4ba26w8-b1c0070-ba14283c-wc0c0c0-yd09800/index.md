@@ -1,13 +1,13 @@
 ---
-title: "Highlands School (North Carolina)"
+title: "Highlands School (Corporate)"
 date: 2023-03-18
 ---
 In pattern [WBBBBYBY](/patterns/wbbbbyby/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1732
+Original link http://www.tartansauthority.com/tartan-ferret/display/2109/
 
 ## Thread count
 DY/24 DB4 DY4 DB60 DN4 DB4 DN26 N/8

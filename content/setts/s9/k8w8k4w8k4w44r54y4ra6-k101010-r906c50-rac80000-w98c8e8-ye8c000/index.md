@@ -1,13 +1,13 @@
 ---
-title: "Falkirk"
+title: "Falkirk (District)"
 date: 2023-03-18
 ---
 In pattern [KWKWKWRYR](/patterns/kwkwkwryr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1146
+Original link http://www.tartansauthority.com/tartan-ferret/display/2347/
 
 ## Thread count
 K/8 LB8 K4 LB8 K4 LB44 LT54 Y4 R/6

@@ -1,13 +1,13 @@
 ---
-title: "MacFie of Colonsay Dress"
+title: "MacFie of Colonsay Dress (Fashion?)"
 date: 2023-03-18
 ---
 In pattern [WKWKWKWKY](/patterns/wkwkwkwky/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5124
+Original link http://www.tartansauthority.com/tartan-ferret/display/3369/
 
 ## Thread count
 DY/8 K44 W8 K8 W64 K8 W8 K44 W/8

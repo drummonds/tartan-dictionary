@@ -1,6 +1,7 @@
 ---
 title: "Kinnoull"
 date: 2023-03-18
+slug_full: "g32w6g18r24g16ga14g16r24g24r16g24r52g8r24g8r52w6r24gb66r14gb66r24w6r52k4r4k10r4k4r52k4r4k10r4k4r52g48r14g48r14g48r52k4r4k10r4k4r52k4r4k10r4k4r52w6r24gb66r14gb66r24w6r52g8r24g8r52g24r16g24r24g16ga14g16r24g18w6g32w4-g003820-ga5c6428-gb789484-k101010-rc80000-wc0c0c0"
 ---
 In pattern [GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW](/patterns/gwgrgggrgrgrgrgrwrgrgrwrkrkrkrkrkrkrgrgrgrkrkrkrkrkrkrwrgrgrwrgrgrgrgrgggrgwgw/).
 

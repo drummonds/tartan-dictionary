@@ -1,6 +1,7 @@
 ---
 title: "Unnamed C18th - Cf 4445"
 date: 2023-03-18
+slug_full: "r4k4r32b12w2b4ba4w2ba4b4w2g20y6w2b6ba4w2r6w2ba4b8w2y6g20w2b4ba4w2ba4b4w2b48w2b14w2b14w2b48w2b4ba4w2ba4b4w2r20ra10w2ra10r20w2b4ba4w2ba4b4w2b48w2b14w2b14w2b48w2b4ba4w2ba4b4w2g20y6w2b8ba4w2r6w2ba4b6w2-b340034-ba788cb4-g007800-k000000-rc80000-radc5078-wfcfcfc-y3cc83c"
 ---
 In pattern [RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW](/patterns/rkrbwbbwbbwgywbbwrwbbwygwbbwbbwbwbwbwbwbbwbbwrrwrrwbbwbbwbwbwbwbwbbwbbwgywbbwrwbbw/).
 

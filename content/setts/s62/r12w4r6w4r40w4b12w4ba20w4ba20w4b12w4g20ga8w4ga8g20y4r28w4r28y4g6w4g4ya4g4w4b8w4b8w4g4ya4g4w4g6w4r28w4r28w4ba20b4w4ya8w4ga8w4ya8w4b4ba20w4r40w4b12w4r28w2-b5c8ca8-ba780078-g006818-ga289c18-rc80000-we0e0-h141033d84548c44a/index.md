@@ -1,6 +1,7 @@
 ---
 title: "Ritch Family Tartan Tartan Number: 1698. Earliest known date: 1847 An 'Old Superfine Tartan Sett'. Speculation that this sett was designed for weaving in silk seems unlikely. (STS archive) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
+slug_full: "r12w4r6w4r40w4b12w4ba20w4ba20w4b12w4g20ga8w4ga8g20y4r28w4r28y4g6w4g4ya4g4w4b8w4b8w4g4ya4g4w4g6w4r28w4r28w4ba20b4w4ya8w4ga8w4ya8w4b4ba20w4r40w4b12w4r28w2-b5c8ca8-ba780078-g006818-ga289c18-rc80000-we0e0e0-yb8b8b8-yae8c000"
 ---
 In pattern [RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/patterns/rwrwrwbwbwbwbwggwggyrwrygwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
 

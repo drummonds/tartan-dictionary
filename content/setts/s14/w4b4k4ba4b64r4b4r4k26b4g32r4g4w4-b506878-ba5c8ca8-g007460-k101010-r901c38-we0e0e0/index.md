@@ -1,13 +1,13 @@
 ---
-title: "Aberfeldy (District)"
+title: "Aberfeldy"
 date: 2023-03-18
 ---
 In pattern [WBKBBRBRKBGRGW](/patterns/wbkbbrbrkbgrgw/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7748/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5729
 
 ## Thread count
 LN/4 G4 DR4 G32 N4 K26 DR4 N4 DR4 N64 B4 K4 N4 LN/4

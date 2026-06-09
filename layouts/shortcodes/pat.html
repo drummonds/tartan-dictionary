@@ -1,4 +1,4 @@
 {{- $seq := .Get 0 -}}
 <a class="pat" href="/patterns/{{ lower $seq }}/" style="text-decoration:none;white-space:nowrap;margin:0 .4em .3em 0;display:inline-block">
-{{- range $i := seq 0 (sub (len $seq) 1) }}{{ $code := substr $seq $i 1 }}{{ $hex := index hugo.Data.base6 $code }}<span style="display:inline-block;width:0.8em;height:1.1em;background:{{ with $hex }}{{ . }}{{ else }}#ccc{{ end }};border:1px solid #0003;vertical-align:middle"></span>{{- end -}}
+{{- range $i := seq 0 (sub (len $seq) 1) }}{{ $code := substr $seq $i 1 }}{{ $hex := index $.Site.Data.base6 $code }}<span style="display:inline-block;width:0.8em;height:1.1em;background:{{ with $hex }}{{ . }}{{ else }}#ccc{{ end }};border:1px solid #0003;vertical-align:middle"></span>{{- end -}}
 <span style="font-family:monospace;font-size:.85em;margin-left:.2em;vertical-align:middle">{{ $seq }}</span></a>

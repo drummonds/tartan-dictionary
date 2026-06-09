@@ -1,13 +1,13 @@
 ---
-title: "Ettrick Forest"
+title: "Ettrick Forest (District)"
 date: 2023-03-18
 ---
 In pattern [BGRGRBRGYGRGRGBGRBGRGRGB](/patterns/bgrgrbrgygrgrgbgrbgrgrgb/).
 
 
-This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
+This was sourced from tartans-authority.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1137
+Original link http://www.tartansauthority.com/tartan-ferret/display/4829/
 
 ## Thread count
 DB/4 G4 DR2 G8 DR2 DB12 DR4 G2 Y2 G2 DR2 G2 DR2 G2 B2 G2 DR4 DB12 G52 DR2 G2 DR2 G2 DB/2

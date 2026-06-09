@@ -1,6 +1,7 @@
 ---
 title: "Canadian Centennial #3"
 date: 2023-03-18
+slug_full: "b32g16k16b2k2b2k2b2k2b2k2b2k2b2k2b40k8g24k48ga16b2ga2b2ga2b2ga2b2ga2b2ga2b2ga2b28ga12k8g104k8ga12b28ga2b2ga2b2ga2b2ga2b2ga2b2ga2b2ga16k48g24k8b40k2b2k2b2k2b2k2b2k2b2k2b2k16g16-b2c2c80-g006818-ga604000-k101010"
 ---
 In pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG](/patterns/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkgkgbgbgbgbgbgbgbgkgkbkbkbkbkbkbkbkg/).
 

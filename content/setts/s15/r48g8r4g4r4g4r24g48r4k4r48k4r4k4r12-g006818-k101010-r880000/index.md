@@ -1,13 +1,13 @@
 ---
-title: "MacDonell of Keppoch - 1845 (McIain)"
+title: "MacDonell of Keppoch #3"
 date: 2023-03-18
 ---
 In pattern [RGRGRGRGRKRKRKR](/patterns/rgrgrgrgrkrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1506/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388
 
 ## Thread count
 DR/48 G8 DR4 G4 DR4 G4 DR24 G48 DR4 K4 DR48 K4 DR4 K4 DR/12

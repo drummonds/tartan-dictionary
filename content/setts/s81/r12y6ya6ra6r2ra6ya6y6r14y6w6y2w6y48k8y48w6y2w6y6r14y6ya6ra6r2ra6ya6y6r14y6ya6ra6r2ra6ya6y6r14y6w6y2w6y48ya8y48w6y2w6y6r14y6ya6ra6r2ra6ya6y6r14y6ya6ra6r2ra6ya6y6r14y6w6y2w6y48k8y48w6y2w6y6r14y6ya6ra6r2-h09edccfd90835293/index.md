@@ -1,6 +1,7 @@
 ---
 title: "Unidentified Scarlett #13"
 date: 2023-03-18
+slug_full: "r12y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48k8y48w6y2w6y6r14y6ya6ra6r2ra6ya6y6r14y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48ya8y48w6y2w6y6r14y6ya6ra6r2ra6ya6y6r14y6ya6ra6r2ra6ya6y6r14y6w6y2w6y48k8y48w6y2w6y6r14y6ya6ra6r2-k101010-r888888-rae87878-w98c8e8-yb8b8b8-yad87c00"
 ---
 In pattern [RRYYRYWYWYKYWYWYRYYRRRYYRYYRRRYYRYWYWYYYWYWYRYYRRRYYRYYRRRYYRYWYWYKYWYWYRYYRRRYYR](/patterns/rryyrywywykywywyryyrrryyryyrrryyrywywyyywywyryyrrryyryyrrryyrywywykywywyryyrrryyr/).
 

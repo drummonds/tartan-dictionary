@@ -1,6 +1,7 @@
 ---
 title: "Hunter"
 date: 2023-03-18
+slug_full: "r8w2k15w2b5w2g20ga2g4ga2g20ga3y3r2w2r2y3ga3g20w2r32w2g20w2b5w2ga4k15w2b20w2r8w2r8w2b20w2k15ga4w2b5w2g20w2r32w2g20ga3y3r2w2r2y3ga3g20ga2g4ga2g20w2b5w2k15w2r8w2-b5c8ca8-g006818-ga5c6428-k101010-rc80000-wc0c0c0-ye8c000"
 ---
 In pattern [RWKWBWGGGGGGYRWRYGGWRWGWBWGKWBWRWRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW](/patterns/rwkwbwggggggyrwryggwrwgwbwgkwbwrwrwbwkgwbwgwrwggyrwryggggggwbwkwrw/).
 

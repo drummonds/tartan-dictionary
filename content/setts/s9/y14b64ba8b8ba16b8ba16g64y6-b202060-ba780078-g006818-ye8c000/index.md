@@ -1,13 +1,13 @@
 ---
-title: "Children 1st (Corporate)"
+title: "Children 1st"
 date: 2023-03-18
 ---
 In pattern [YBBBBBBGY](/patterns/ybbbbbbgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6707/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5339
 
 ## Thread count
 Y/14 DB64 P8 DB8 P16 DB8 P16 G64 Y/6

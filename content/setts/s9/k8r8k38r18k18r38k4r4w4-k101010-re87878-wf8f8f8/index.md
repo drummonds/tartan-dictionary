@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KRKRKRKRW](/patterns/krkrkrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3342
+Original link http://www.tartansauthority.com/tartan-ferret/display/6434/
 
 ## Thread count
 K/8 LR8 K38 LR18 K18 LR38 K4 LR4 W/4

@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BYWRGBW](/patterns/bywrgbw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2002
+Original link http://www.tartansauthority.com/tartan-ferret/display/2445/
 
 ## Thread count
 DB/4 DY20 N2 DO16 G14 DR20 N/4
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 DY20 N2 DO16 G14 DR20 N/4 tartan")
 
 ID: /setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/
+00/

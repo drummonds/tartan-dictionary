@@ -1,13 +1,13 @@
 ---
-title: "California Highway Patrol (Corporate)"
+title: "California Highway Patrol (Corporate"
 date: 2023-03-18
 ---
 In pattern [KGGYGYBY](/patterns/kggygyby/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5330
+Original link http://www.tartansauthority.com/tartan-ferret/display/3786/
 
 ## Thread count
 K/6 G6 T56 LT6 T6 LT56 DB6 Y/4

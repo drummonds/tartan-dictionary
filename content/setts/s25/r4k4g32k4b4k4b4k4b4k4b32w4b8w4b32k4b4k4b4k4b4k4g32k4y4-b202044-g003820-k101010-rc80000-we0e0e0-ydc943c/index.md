@@ -1,13 +1,13 @@
 ---
-title: "Recovery Hunting"
+title: "Recovery Htg (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RKGKBKBKBKBWBWBKBKBKBKGKY](/patterns/rkgkbkbkbkbwbwbkbkbkbkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [25 stripes tartan](/stripes/stripes25/).
+This was sourced from tartans-authority.  It is a [25 stripes tartan](/stripes/stripes25/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3475
+Original link http://www.tartansauthority.com/tartan-ferret/display/2440/
 
 ## Thread count
 O/4 K4 DG32 K4 DB4 K4 DB4 K4 DB4 K4 DB32 LN4 DB8 LN4 DB32 K4 DB4 K4 DB4 K4 DB4 K4 DG32 K4 R/4

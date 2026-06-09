@@ -1,13 +1,13 @@
 ---
-title: "Swedish #2"
+title: "Swedish District Tartan Tartan Number: 5161. Earliest known date: pre 2002 Designed and woven by Peter McDonald for a member of Perth Royal Scottish Country Dance Society (RSCDS) who wished it for a Swedish friend. Not intended as \"the\" Swedish tartan, but to represent a Scottish-Swedish connection and available for any who may wish to use it. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BYKYKYKGBBW](/patterns/bykykykgbbw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4056
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5161
 
 ## Thread count
 DB/80 DY1 K4 DY4 K4 DY4 K22 G36 DB4 B6 N/2

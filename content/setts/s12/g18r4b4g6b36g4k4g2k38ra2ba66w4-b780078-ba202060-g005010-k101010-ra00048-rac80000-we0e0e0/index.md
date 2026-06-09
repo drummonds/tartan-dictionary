@@ -1,13 +1,13 @@
 ---
-title: "Western Isles Fashion Tartan Tartan Number: 7463. Earliest known date: 1997 Kenneth Dalgliesh designed the Pride of Scotland (see 2469) along with Scott Millson of McCalls of Aberdeen. McCalls decided later to patent the design to head up a new range of fashionable wedding tartans. Dalgliesh found that he was unable to weave the original pattern even though it was his own design and so he produced this pattern with an additional red line. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Western Isles"
 date: 2023-03-18
 ---
 In pattern [GRBGBGKGKRBW](/patterns/grbgbgkgkrbw/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7463
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5508
 
 ## Thread count
 G/18 R4 Pa4 G6 Pa36 G4 K4 G2 K38 Ra2 DB66 LN/4

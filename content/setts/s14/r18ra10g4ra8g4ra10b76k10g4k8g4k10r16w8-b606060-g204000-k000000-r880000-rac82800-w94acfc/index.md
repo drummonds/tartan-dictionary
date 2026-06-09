@@ -1,13 +1,13 @@
 ---
-title: "Berwick-upon-Tweed (symmetric)"
+title: "Berwick-upon-Tweed (District)"
 date: 2023-03-18
 ---
 In pattern [RRGRGRBKGKGKRW](/patterns/rrgrgrbkgkgkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5380
+Original link http://www.tartansauthority.com/tartan-ferret/display/3689/
 
 ## Thread count
 DR/18 R10 G4 R8 G4 R10 N76 K10 G4 K8 G4 K10 DR16 LP/8

@@ -1,13 +1,13 @@
 ---
-title: "Minster (Fashion)"
+title: "Minster"
 date: 2023-03-18
 ---
 In pattern [BRBRBRBRGRBBBR](/patterns/brbrbrbrgrbbbr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5679/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2961
 
 ## Thread count
 DBa/12 DR4 DB4 DR6 DB6 DR36 DBa32 DR4 G36 R4 DBa6 B6 DBa4 DR/12
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s14/b12r4ba4r6ba6r36b32r4g36ra4b6bb6b4r12-b1c1c50-ba2c2c80-bb48788c-g006818-r880000-rac80000/
+0000/

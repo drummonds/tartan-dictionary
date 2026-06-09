@@ -1,13 +1,13 @@
 ---
-title: "Fitzgerald (Family)"
+title: "Fitzgerald Family (Name)"
 date: 2023-03-18
 ---
 In pattern [RBRBKBBBW](/patterns/rbrbkbbbw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193
+Original link http://www.tartansauthority.com/tartan-ferret/display/1419/
 
 ## Thread count
 R/6 B44 R6 B6 K28 B28 Ba6 B6 W/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s9/r6b44r6b6k28b28ba6b6w4-b1474b4-ba3c94d4-k000000-rc80000-wfcfcfc/
-

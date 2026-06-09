@@ -1,13 +1,13 @@
 ---
-title: "Mount Isla"
+title: "Mount Isla Weavers Tartan Tartan Number: 5654. Earliest known date: pre 2002 From D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [WKRKBKBKRKY](/patterns/wkrkbkbkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3030
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5654
 
 ## Thread count
 DY/8 K4 DR24 K8 DB28 K8 DB28 K8 DR28 K4 N/8

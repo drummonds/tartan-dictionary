@@ -1,13 +1,13 @@
 ---
-title: "Mack (Name)"
+title: "Mack Original (Personal)"
 date: 2023-03-18
 ---
 In pattern [GRGKBKBKBKGWG](/patterns/grgkbkbkbkgwg/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6209/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2495
 
 ## Thread count
 G/4 R4 G42 K16 B16 K4 B56 K4 B16 K16 G42 W4 G/4

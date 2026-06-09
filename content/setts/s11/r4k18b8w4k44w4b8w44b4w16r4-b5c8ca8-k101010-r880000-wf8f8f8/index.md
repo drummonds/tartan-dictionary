@@ -1,13 +1,13 @@
 ---
-title: "MacRae - 1977 (Dress)"
+title: "MacRae, Dress"
 date: 2023-03-18
 ---
 In pattern [RKBWKWBWBWR](/patterns/rkbwkwbwbwr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3570/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213
 
 ## Thread count
 DR/4 K18 B8 W4 K44 W4 B8 W44 B4 W16 DR/4

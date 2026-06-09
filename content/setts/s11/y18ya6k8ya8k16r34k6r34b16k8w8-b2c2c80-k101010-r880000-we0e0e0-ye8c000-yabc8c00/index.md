@@ -1,13 +1,13 @@
 ---
-title: "Laois County, Crest Range"
+title: "Laois County Crest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [WKBRKRKYKYY](/patterns/wkbrkrkykyy/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5370
+Original link http://www.tartansauthority.com/tartan-ferret/display/7454/
 
 ## Thread count
 LN/8 K8 DB16 DR34 K6 DR34 K16 DY8 K8 DY6 Y/18

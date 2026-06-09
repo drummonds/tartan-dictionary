@@ -1,13 +1,13 @@
 ---
-title: "Kinloch Anderson Old Dress"
+title: "Kinloch Anderson Dress (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBRBKGKWBWGR](/patterns/rbrbkgkwbwgr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1989
+Original link http://www.tartansauthority.com/tartan-ferret/display/2406/
 
 ## Thread count
 DR/8 DB8 DR4 DB26 K12 LT6 K12 N4 T8 N4 LT28 DR/8

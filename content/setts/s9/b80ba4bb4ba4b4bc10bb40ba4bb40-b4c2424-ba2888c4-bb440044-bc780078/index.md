@@ -1,13 +1,13 @@
 ---
-title: "Phillips Name Tartan Tartan Number: 3914. Earliest known date: 2001 Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire for Phillips worldwide. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Phillips (Name)"
 date: 2023-03-18
 ---
 In pattern [BBBBBBBBB](/patterns/bbbbbbbbb/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3914
+Original link http://www.tartansauthority.com/tartan-ferret/display/3914/
 
 ## Thread count
 DP/40 B4 DP40 P10 T4 B4 DP4 B4 T/80

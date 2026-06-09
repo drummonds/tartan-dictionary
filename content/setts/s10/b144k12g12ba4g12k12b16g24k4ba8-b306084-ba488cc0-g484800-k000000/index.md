@@ -1,13 +1,13 @@
 ---
-title: "Chateau (Fashion)"
+title: "Chateau"
 date: 2023-03-18
 ---
 In pattern [BKGBGKBGKB](/patterns/bkgbgkbgkb/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4490/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=619
 
 ## Thread count
 B/8 K4 T24 Ba16 K12 T12 B4 T12 K12 Ba/144

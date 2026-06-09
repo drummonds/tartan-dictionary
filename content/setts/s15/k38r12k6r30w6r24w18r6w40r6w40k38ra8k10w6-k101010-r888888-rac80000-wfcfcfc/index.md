@@ -1,13 +1,13 @@
 ---
-title: "Black and White"
+title: "Black & White Whisky (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KRKRWRWRWRWKRKW](/patterns/krkrwrwrwrwkrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=271
+Original link http://www.tartansauthority.com/tartan-ferret/display/2042/
 
 ## Thread count
 K/38 N12 K6 N30 W6 N24 W18 N6 W40 N6 W40 K38 R8 K10 W/6

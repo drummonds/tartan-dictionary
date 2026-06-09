@@ -1,13 +1,13 @@
 ---
-title: "Bro-Leon"
+title: "Bro-Leon (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKYKGYKYK](/patterns/bkykgykyk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=377
+Original link http://www.tartansauthority.com/tartan-ferret/display/6653/
 
 ## Thread count
 DB/8 K44 DY4 K4 G14 DY4 K4 DY34 K/8

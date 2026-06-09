@@ -1,5 +1,5 @@
 ---
-title: "Atholl"
+title: "Murray of Atholl"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKBKR](/patterns/bkbkbkgrgkbkr/).

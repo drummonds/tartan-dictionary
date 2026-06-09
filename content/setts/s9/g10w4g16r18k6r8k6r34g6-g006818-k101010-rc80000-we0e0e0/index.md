@@ -1,13 +1,13 @@
 ---
-title: "Morrison (Clan)"
+title: "Morrison"
 date: 2023-03-18
 ---
 In pattern [GRKRKRGWG](/patterns/grkrkrgwg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/998/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019
 
 ## Thread count
 G/10 LN4 G16 R18 K6 R8 K6 R34 G/6

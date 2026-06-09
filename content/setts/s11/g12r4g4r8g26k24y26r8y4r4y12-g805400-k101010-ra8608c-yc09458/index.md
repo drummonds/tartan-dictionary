@@ -1,13 +1,13 @@
 ---
-title: "Glenmorangie"
+title: "Glenmorangie (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GRGRGKYRYRY](/patterns/grgrgkyryry/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4868
+Original link http://www.tartansauthority.com/tartan-ferret/display/5981/
 
 ## Thread count
 LT/12 LP4 LT4 LP8 LT26 K24 T26 LP8 T4 LP4 T/12

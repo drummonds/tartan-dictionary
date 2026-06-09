@@ -1,13 +1,13 @@
 ---
-title: "MacRobart Family Tartan Tartan Number: 2388. Earliest known date: January 1997 Designed by Michael Owen Holden for family use only See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacRobart (Personal)"
 date: 2023-03-18
 ---
 In pattern [BKGWGW](/patterns/bkgwgw/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2388
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2760
 
 ## Thread count
 DB/60 K20 G20 LP4 G30 LP/4

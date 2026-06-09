@@ -1,13 +1,13 @@
 ---
-title: "Ofally, County"
+title: "Ofally, County (District)"
 date: 2023-03-18
 ---
 In pattern [RBGBGBKBGY](/patterns/rbgbgbkbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4819
+Original link http://www.tartansauthority.com/tartan-ferret/display/2268/
 
 ## Thread count
 DO/12 DB4 G10 DB36 G20 DB4 K56 DB4 G20 DY/6

@@ -1,13 +1,13 @@
 ---
-title: "Alexander Hunting (Name)"
+title: "Alexander Hunting (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRBRKBGBG](/patterns/brbrkbgbg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/411/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=46
 
 ## Thread count
 DB/24 R4 DB8 R8 K30 DB8 G8 DB4 G/24

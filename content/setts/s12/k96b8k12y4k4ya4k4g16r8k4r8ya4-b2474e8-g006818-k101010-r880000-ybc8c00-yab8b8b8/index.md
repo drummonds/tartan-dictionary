@@ -1,13 +1,13 @@
 ---
-title: "Stewart/Stuart (Black)"
+title: "Stewart, Black (Clan)"
 date: 2023-03-18
 ---
 In pattern [KBKYKYKGRKRY](/patterns/kbkykykgrkry/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3943
+Original link http://www.tartansauthority.com/tartan-ferret/display/1061/
 
 ## Thread count
 K/96 B8 K12 DY4 K4 N4 K4 G16 DR8 K4 DR8 N/4

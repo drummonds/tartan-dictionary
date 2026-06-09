@@ -1,13 +1,13 @@
 ---
-title: "McPrato (District)"
+title: "McPrato"
 date: 2023-03-18
 ---
 In pattern [BRRRGRGRYRBR](/patterns/brrrgrgryrbr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5838/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2902
 
 ## Thread count
 DB/4 R6 N4 R14 Ga22 N4 G4 N4 Y4 N18 DB24 R/104

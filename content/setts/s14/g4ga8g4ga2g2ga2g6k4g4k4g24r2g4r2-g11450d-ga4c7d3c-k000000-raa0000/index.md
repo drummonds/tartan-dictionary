@@ -7,7 +7,7 @@ In pattern [GGGGGGGKGKGRGR](/patterns/gggggggkgkgrgr/).
 
 This was sourced from weddslist.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DG/4 G8 DG4 G2 DG2 G2 DG6 K4 DG4 K4 DG24 DR2 DG4 DR/2

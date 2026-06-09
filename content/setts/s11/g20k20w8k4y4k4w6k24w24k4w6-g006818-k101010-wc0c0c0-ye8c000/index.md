@@ -1,13 +1,13 @@
 ---
-title: "Dalgliesh Dress"
+title: "Dalgliesh Dress (Personal)"
 date: 2023-03-18
 ---
 In pattern [GKWKYKWKWKW](/patterns/gkwkykwkwkw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=876
+Original link http://www.tartansauthority.com/tartan-ferret/display/4651/
 
 ## Thread count
 G/20 K20 N8 K4 Y4 K4 N6 K24 N24 K4 N/6

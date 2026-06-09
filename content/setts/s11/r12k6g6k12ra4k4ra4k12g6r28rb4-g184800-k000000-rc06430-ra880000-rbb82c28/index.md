@@ -1,13 +1,13 @@
 ---
-title: "Fountain of the Strong"
+title: "Fountain of the Strong (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RKGKRKRKGRR](/patterns/rkgkrkrkgrr/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1239
+Original link http://www.tartansauthority.com/tartan-ferret/display/4904/
 
 ## Thread count
 DO/12 K6 G6 K12 DR4 K4 DR4 K12 G6 DO28 R/4

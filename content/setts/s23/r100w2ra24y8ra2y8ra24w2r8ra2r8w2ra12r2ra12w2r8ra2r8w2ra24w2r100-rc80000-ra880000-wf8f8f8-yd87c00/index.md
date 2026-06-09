@@ -1,13 +1,13 @@
 ---
-title: "Glenorchy, Lord"
+title: "Glenorchy, Lord (Portrait)"
 date: 2023-03-18
 ---
 In pattern [RWRWRRRWRRRWRRRWRYRYRWR](/patterns/rwrwrrrwrrrwrrrwryryrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1435
+Original link http://www.tartansauthority.com/tartan-ferret/display/7061/
 
 ## Thread count
 R/100 W2 DR24 O8 DR2 O8 DR24 W2 R8 DR2 R8 W2 DR12 R2 DR12 W2 R8 DR2 R8 W2 DR24 W2 R/100

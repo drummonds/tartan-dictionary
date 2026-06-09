@@ -1,13 +1,13 @@
 ---
-title: "Thain (Name?)"
+title: "Thain Dress #1"
 date: 2023-03-18
 ---
 In pattern [KWKWKWKWKWYWY](/patterns/kwkwkwkwkwywy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1256/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4099
 
 ## Thread count
 K/56 LN4 K8 LN8 K8 LN4 K56 LN4 K8 LN8 Y8 LN4 Y/88

@@ -1,13 +1,13 @@
 ---
-title: "Norwegian - Guldbrandsdalen"
+title: "Gudbrandsdalen of Mannsdrakt (Dist)"
 date: 2023-03-18
 ---
 In pattern [GRBGRBGRGBRGBRYR](/patterns/grbgrbgrgbrgbryr/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3164
+Original link http://www.tartansauthority.com/tartan-ferret/display/2081/
 
 ## Thread count
 DR/168 N4 DR12 K24 G24 DR8 K4 G8 DR40 G8 K4 DR8 G24 K24 DR12 G/176

@@ -1,6 +1,7 @@
 ---
 title: "Ogilvie 2"
 date: 2023-03-18
+slug_full: "g28k8g28y8k4r16w4r16w4r16k4y4g16w4g16y4k4r16w4r16w4r16k4y4g28k8g28k8g28y4k4r16w4r16w4r16k24w2b8w2k24y8g12y4g12y8ba4r8k4r28w2b4w2r28w2b4w2r28k4r8ba4y4g16w4g16y4k4r16w4r16w4r16k4y8g16-b304080-ba800080-g008000-k000000-rc00000-we0e0e0-yf0c000"
 ---
 In pattern [GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYG](/patterns/gkgykrwrwrkygwgykrwrwrkygkgkgykrwrwrkwbwkygygybrkrwbwrwbwrkrbygwgykrwrwrkyg/).
 

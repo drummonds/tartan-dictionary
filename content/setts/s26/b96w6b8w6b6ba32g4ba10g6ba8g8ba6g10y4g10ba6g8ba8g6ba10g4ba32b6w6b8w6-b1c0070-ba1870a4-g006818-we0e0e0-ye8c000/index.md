@@ -1,13 +1,13 @@
 ---
-title: "St Andrews District Tartan Tartan Number: 5899. Earliest known date: August 2003 Designed by Robin Elliot of Elliots of Selkirk for a company called St Andrews Ltd of 19 Rutland Square, Edinburgh. Sample in STA Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "St. Andrews"
 date: 2023-03-18
 ---
 In pattern [BWBWBBGBGBGBGYGBGBGBGBBWBW](/patterns/bwbwbbgbgbgbgygbgbgbgbbwbw/).
 
 
-This was sourced from house-of-tartan.  It is a [26 stripes tartan](/stripes/stripes26/).
+This was sourced from register-of-tartans.  It is a [26 stripes tartan](/stripes/stripes26/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5899
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874
 
 ## Thread count
 DBa/96 LN6 DBa8 LN6 DBa6 B32 G4 B10 G6 B8 G8 B6 G10 Y4 G10 B6 G8 B8 G6 B10 G4 B32 DBa6 LN6 DBa8 LN/6

@@ -1,13 +1,13 @@
 ---
-title: "American Express (Corporate)"
+title: "American Express"
 date: 2023-03-18
 ---
 In pattern [BBRBGW](/patterns/bbrbgw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2354/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=68
 
 ## Thread count
 DB/8 B36 DR4 DB20 G20 N/8

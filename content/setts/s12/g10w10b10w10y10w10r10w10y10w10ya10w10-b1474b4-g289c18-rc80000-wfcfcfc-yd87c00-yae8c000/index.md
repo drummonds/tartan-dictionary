@@ -1,13 +1,13 @@
 ---
-title: "Rainbow (Fort Worth) (Fashion)"
+title: "Rainbow (Fort Worth)"
 date: 2023-03-18
 ---
 In pattern [GWBWYWRWYWYW](/patterns/gwbwywrwywyw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5999/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3444
 
 ## Thread count
 G/10 W10 B10 W10 O10 W10 R10 W10 O10 W10 Y10 W/10

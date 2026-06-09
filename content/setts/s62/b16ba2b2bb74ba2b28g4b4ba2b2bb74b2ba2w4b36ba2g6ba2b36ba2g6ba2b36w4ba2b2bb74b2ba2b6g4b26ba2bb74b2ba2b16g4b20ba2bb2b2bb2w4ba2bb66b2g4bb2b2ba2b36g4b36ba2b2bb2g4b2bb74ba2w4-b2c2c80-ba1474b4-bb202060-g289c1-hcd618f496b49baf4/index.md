@@ -1,6 +1,7 @@
 ---
 title: "Millennium (Texcraft)"
 date: 2023-03-18
+slug_full: "b16ba2b2bb74ba2b28g4b4ba2b2bb74b2ba2w4b36ba2g6ba2b36ba2g6ba2b36w4ba2b2bb74b2ba2b6g4b26ba2bb74b2ba2b16g4b20ba2bb2b2bb2w4ba2bb66b2g4bb2b2ba2b36g4b36ba2b2bb2g4b2bb74ba2w4-b2c2c80-ba1474b4-bb202060-g289c18-we0e0e0"
 ---
 In pattern [BBBBBBGBBBBBBWBBGBBBGBBWBBBBBBGBBBBBBGBBBBBWBBBGBBBBGBBBBGBBBW](/patterns/bbbbbbgbbbbbbwbbgbbbgbbwbbbbbbgbbbbbbgbbbbbwbbbgbbbbgbbbbgbbbw/).
 

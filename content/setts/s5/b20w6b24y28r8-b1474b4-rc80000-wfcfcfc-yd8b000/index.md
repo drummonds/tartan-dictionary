@@ -1,13 +1,13 @@
 ---
-title: "MacLeod of Argentina"
+title: "MacLeod of Argentina (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BWBYR](/patterns/bwbyr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2635
+Original link http://www.tartansauthority.com/tartan-ferret/display/627/
 
 ## Thread count
 B/20 W6 B24 Y28 R/8

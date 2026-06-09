@@ -1,13 +1,13 @@
 ---
-title: "MacLeod of Lewis (Vestiarium Scoticum)"
+title: "MacLeod of Lewis (Clan)"
 date: 2023-03-18
 ---
 In pattern [KYKYR](/patterns/kykyr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2640
+Original link http://www.tartansauthority.com/tartan-ferret/display/1272/
 
 ## Thread count
 K/32 Y4 K32 Y48 R/4

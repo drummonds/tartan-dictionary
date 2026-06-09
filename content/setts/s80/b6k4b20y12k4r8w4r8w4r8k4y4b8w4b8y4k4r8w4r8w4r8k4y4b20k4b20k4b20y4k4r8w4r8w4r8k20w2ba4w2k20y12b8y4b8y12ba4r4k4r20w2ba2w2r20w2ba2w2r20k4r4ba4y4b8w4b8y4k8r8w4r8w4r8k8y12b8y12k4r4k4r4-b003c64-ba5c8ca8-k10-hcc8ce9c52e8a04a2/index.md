@@ -1,6 +1,7 @@
 ---
 title: "Ogilvy #2"
 date: 2023-03-18
+slug_full: "b6k4b20y12k4r8w4r8w4r8k4y4b8w4b8y4k4r8w4r8w4r8k4y4b20k4b20k4b20y4k4r8w4r8w4r8k20w2ba4w2k20y12b8y4b8y12ba4r4k4r20w2ba2w2r20w2ba2w2r20k4r4ba4y4b8w4b8y4k8r8w4r8w4r8k8y12b8y12k4r4k4r4-b003c64-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000"
 ---
 In pattern [BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWRKWBWKYBYBYBRKRWBWRWBWRKRBYBWBYKRWRWRKYBYKRKR](/patterns/bkbykrwrwrkybwbykrwrwrkybkbkbykrwrwrkwbwkybybybrkrwbwrwbwrkrbybwbykrwrwrkybykrkr/).
 

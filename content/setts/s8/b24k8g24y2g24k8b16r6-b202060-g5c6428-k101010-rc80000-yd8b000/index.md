@@ -1,13 +1,13 @@
 ---
-title: "Art Pewter Silver (Corporate)"
+title: "Art Pewter Silver"
 date: 2023-03-18
 ---
 In pattern [BKGYGKBR](/patterns/bkgygkbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3021/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5141
 
 ## Thread count
 DB/24 K8 G24 Y2 G24 K8 DB16 R/6

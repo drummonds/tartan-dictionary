@@ -1,13 +1,13 @@
 ---
-title: "St. Mary's Help of Christians Sch"
+title: "St. Mary's Help of... (School)"
 date: 2023-03-18
 ---
 In pattern [RKGKBKBKBKBKBKGKY](/patterns/rkgkbkbkbkbkbkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5231
+Original link http://www.tartansauthority.com/tartan-ferret/display/3888/
 
 ## Thread count
 R/4 K2 DG48 K32 DB4 K4 DB4 K4 DB48 K4 DB4 K4 DB4 K32 DG48 K2 Y/4

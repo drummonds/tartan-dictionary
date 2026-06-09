@@ -1,5 +1,5 @@
 ---
-title: "Thistle Dubh (Fashion)"
+title: "Midnight Thistle (Fashion)"
 date: 2023-03-18
 ---
 In pattern [WBWBGBGBGBKBWBW](/patterns/wbwbgbgbgbkbwbw/).
@@ -7,7 +7,7 @@ In pattern [WBWBGBGBGBKBWBW](/patterns/wbwbgbgbgbkbwbw/).
 
 This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6234/
+Original link http://www.tartansauthority.com/tartan-ferret/display/7499/
 
 ## Thread count
 LP/10 N8 LP6 N12 G6 N4 G6 N4 G4 N20 K30 N40 W6 N6 W/10

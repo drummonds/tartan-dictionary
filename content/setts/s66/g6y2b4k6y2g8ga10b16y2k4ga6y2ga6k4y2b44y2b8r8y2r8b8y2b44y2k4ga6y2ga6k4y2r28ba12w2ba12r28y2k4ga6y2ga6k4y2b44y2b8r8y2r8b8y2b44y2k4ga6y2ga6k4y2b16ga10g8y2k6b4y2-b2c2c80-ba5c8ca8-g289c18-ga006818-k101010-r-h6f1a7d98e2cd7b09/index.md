@@ -1,6 +1,7 @@
 ---
 title: "Hebrides, Inner #01"
 date: 2023-03-18
+slug_full: "g6y2b4k6y2g8ga10b16y2k4ga6y2ga6k4y2b44y2b8r8y2r8b8y2b44y2k4ga6y2ga6k4y2r28ba12w2ba12r28y2k4ga6y2ga6k4y2b44y2b8r8y2r8b8y2b44y2k4ga6y2ga6k4y2b16ga10g8y2k6b4y2-b2c2c80-ba5c8ca8-g289c18-ga006818-k101010-rc80000-wfcfcfc-ye8c000"
 ---
 In pattern [GYBKYGGBYKGYGKYBYBRYRBYBYKGYGKYRBWBRYKGYGKYBYBRYRBYBYKGYGKYBGGYKBY](/patterns/gybkyggbykgygkybybryrbybykgygkyrbwbrykgygkybybryrbybykgygkybggykby/).
 

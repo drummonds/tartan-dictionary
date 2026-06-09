@@ -1,13 +1,13 @@
 ---
-title: "MacDonald of Glencoe - 1950 (Clan)"
+title: "MacDonald of Glencoe #3"
 date: 2023-03-18
 ---
 In pattern [GRRGRGKRGRKRR](/patterns/grrgrgkrgrkrr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1012/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2361
 
 ## Thread count
 G/16 R2 Ra12 G6 Ra80 LG4 DB24 Ra12 G60 Ra6 DB4 R2 Ra/12

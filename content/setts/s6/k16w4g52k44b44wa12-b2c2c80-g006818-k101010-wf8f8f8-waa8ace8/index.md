@@ -1,13 +1,13 @@
 ---
-title: "New York Fire Department Pipe Band"
+title: "New York Fire Dept. (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KWGKBW](/patterns/kwgkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3121
+Original link http://www.tartansauthority.com/tartan-ferret/display/60/
 
 ## Thread count
 K/16 W4 G52 K44 DB44 LP/12

@@ -1,13 +1,13 @@
 ---
-title: "Musselburgh"
+title: "Musselburgh (District)"
 date: 2023-03-18
 ---
 In pattern [BWBYBWBBR](/patterns/bwbybwbbr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3084
+Original link http://www.tartansauthority.com/tartan-ferret/display/620/
 
 ## Thread count
 B/56 N4 B12 DY8 B12 N4 B16 DB96 DR/12

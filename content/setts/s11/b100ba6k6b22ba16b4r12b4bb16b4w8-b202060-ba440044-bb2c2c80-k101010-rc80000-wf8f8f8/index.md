@@ -1,13 +1,13 @@
 ---
-title: "Scottish American (Fashion) Fashion Tartan Tartan Number: 6105. Earliest known date: 2004 Jan Designed by Viking Technology Ltd of Glasgow and a sister to #6103 (Irish American). Can be worn by any Americans of Scottish descent. Woven by Marton Mills of Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Scottish American"
 date: 2023-03-18
 ---
 In pattern [BBKBBBRBBBW](/patterns/bbkbbbrbbbw/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6105
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3707
 
 ## Thread count
 DBb/100 DP6 K6 DBb22 DP16 DBb4 R12 DBb4 DBa16 DBb4 W/8

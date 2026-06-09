@@ -1,6 +1,7 @@
 ---
 title: "Unidentified Cant #04"
 date: 2023-03-18
+slug_full: "r28w6r8w6r28w4ra8b4w4b4ra8w4ba6g4w4g4ba6w4r20w6r20w4ba6g4w4g4ba6w4ra8b4w4b4ra8w4r28w6r8w6r28w4ra8b4w4b4ra8w4ba22g8w4g8ba22w4g8w4ra8w4g8w4ra18b8w4b8ra18w4r22w4r22w4ra18b8w4b8ra18w4g8w4ra8w4g8w4ba18-b1c0070-ba202060-g285800-rc80000-raa00048-we0e0e0"
 ---
 In pattern [BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR](/patterns/bwgwrwgwrbwbrwrwrwrbwbrwgwrwgwbgwgbwrbwbrwrwrwrwrbwbrwbgwgbwrwrwbgwgbwrbwbrwrwrwr/).
 

@@ -1,13 +1,13 @@
 ---
-title: "Rothesay, Red (Royal)"
+title: "Rothesay (Red)"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRGRGRGRWRW](/patterns/wrgrgrgrgrgrgrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1533/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3573
 
 ## Thread count
 W/8 R83 G7 R5 G7 R7 G28 R7 G28 R7 G7 R5 G7 R83 W4 R4 W/8
@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8-g006818-rc80000-wfcfcfc/
+c/

@@ -1,6 +1,7 @@
 ---
 title: "Hunter (1775)"
 date: 2023-03-18
+slug_full: "r60ra8g12y8ra8r32w4ra8w4y8b36g12ya6w4y8w4ya6g12b36y8w4ra8r24g4r24ra6w4ga20w4ga4ya8ga4w4g16w8g16w4ga4ya8ga4w4ga20w4ra8r24g4r24ra8w4ga20y8w8y8ga20w4g12w4b24w4b24w4g12w4ra8r24w4-b202060-g789484-ga006818-rc8002c-rad05054-wf0e0c4-ya08858-yae8c000"
 ---
 In pattern [RRGYRRWRWYBGYWYWYGBYWRRGRRWGWGYGWGWGWGYGWGWRRGRRWGYWYGWGWBWBWGWRRW](/patterns/rrgyrrwrwybgywywygbywrrgrrwgwgygwgwgwgygwgwrrgrrwgywygwgwbwbwgwrrw/).
 

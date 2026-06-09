@@ -1,13 +1,13 @@
 ---
-title: "Colliers International"
+title: "Colliers International (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBBBBBBBBBBBRBBBBBBBYBBB](/patterns/bbbbbbbbbbbbrbbbbbbbybbb/).
 
 
-This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
+This was sourced from tartans-authority.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5561
+Original link http://www.tartansauthority.com/tartan-ferret/display/7524/
 
 ## Thread count
 DB/14 N14 DB80 Y6 DB80 N14 DB14 N14 DB14 N14 DB80 R6 DB80 N14 DB14 N14 DB14 N14 DB80 B6 DB80 N14 DB14 N/14

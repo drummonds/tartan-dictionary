@@ -1,13 +1,13 @@
 ---
-title: "Glendronach Distillery"
+title: "Glendronach Distillery (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GRWYRGRYRG](/patterns/grwyrgryrg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1409
+Original link http://www.tartansauthority.com/tartan-ferret/display/2293/
 
 ## Thread count
 DG/88 DR8 N4 Y12 DR4 DG24 DR88 Y12 DR4 DG/40
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#FCAC00;"><span style="color:#FCAC00;filter:grayscale(1) invert(1) contrast(100);">#FCAC00</span></code> `#FCAC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.06 |
 
 ID: /setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/
-fcac00/

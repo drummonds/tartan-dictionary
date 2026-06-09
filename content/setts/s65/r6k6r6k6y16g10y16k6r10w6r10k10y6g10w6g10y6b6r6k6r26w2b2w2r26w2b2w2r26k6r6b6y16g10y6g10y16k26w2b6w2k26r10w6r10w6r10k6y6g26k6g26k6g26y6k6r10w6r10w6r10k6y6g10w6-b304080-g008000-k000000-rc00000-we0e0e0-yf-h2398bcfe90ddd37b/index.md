@@ -1,6 +1,7 @@
 ---
 title: "Drummond of Strathallan"
 date: 2023-03-18
+slug_full: "r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000"
 ---
 In pattern [RKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/patterns/rkrkygykrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
 

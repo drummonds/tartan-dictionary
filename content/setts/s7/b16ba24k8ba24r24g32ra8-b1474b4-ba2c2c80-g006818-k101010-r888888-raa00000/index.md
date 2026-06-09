@@ -1,13 +1,13 @@
 ---
-title: "New York City (District)"
+title: "New York City"
 date: 2023-03-18
 ---
 In pattern [BBKBRGR](/patterns/bbkbrgr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3812/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5085
 
 ## Thread count
 B/16 DB24 K8 DB24 N24 G32 DR/8

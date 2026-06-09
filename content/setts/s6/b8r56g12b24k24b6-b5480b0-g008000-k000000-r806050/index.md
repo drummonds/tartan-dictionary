@@ -1,5 +1,5 @@
 ---
-title: "MacTavish / Thom(p)son, hunting"
+title: "Thom(p)son, Lord (hunting)"
 date: 2023-03-18
 ---
 In pattern [BKBGRB](/patterns/bkbgrb/).

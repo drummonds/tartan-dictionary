@@ -1,13 +1,13 @@
 ---
-title: "Durie (Personal)"
+title: "Durie (Clan)"
 date: 2023-03-18
 ---
 In pattern [BRBRBRGYG](/patterns/brbrbrgyg/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1053
+Original link http://www.tartansauthority.com/tartan-ferret/display/2228/
 
 ## Thread count
 DB/48 DR4 DB4 DR4 DB4 DR16 G48 Y4 G/8

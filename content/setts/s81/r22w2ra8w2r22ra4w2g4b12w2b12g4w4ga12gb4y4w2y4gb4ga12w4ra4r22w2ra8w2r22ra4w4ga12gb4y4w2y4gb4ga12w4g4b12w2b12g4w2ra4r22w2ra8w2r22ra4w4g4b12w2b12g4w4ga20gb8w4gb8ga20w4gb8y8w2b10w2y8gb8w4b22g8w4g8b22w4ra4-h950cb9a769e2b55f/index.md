@@ -1,6 +1,7 @@
 ---
 title: "Waggrall"
 date: 2023-03-18
+slug_full: "r22w2ra8w2r22ra4w2g4b12w2b12g4w4ga12gb4y4w2y4gb4ga12w4ra4r22w2ra8w2r22ra4w4ga12gb4y4w2y4gb4ga12w4g4b12w2b12g4w2ra4r22w2ra8w2r22ra4w4g4b12w2b12g4w4ga20gb8w4gb8ga20w4gb8y8w2b10w2y8gb8w4b22g8w4g8b22w4ra4r22w2ra8-b440044-g789484-ga003820-gb5c6428-rc80000-racc4438-wf8f8f8-yd8b000"
 ---
 In pattern [RWRRWBGWGBWGYWBWYGWGGWGGWGBWBGWRRWRWRRWGBWBGWGGYWYGGWRRWRWRRWGGYWYGGWGBWBGWRRWRWR](/patterns/rwrrwbgwgbwgywbwygwggwggwgbwbgwrrwrwrrwgbwbgwggywyggwrrwrwrrwggywyggwgbwbgwrrwrwr/).
 

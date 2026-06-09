@@ -1,6 +1,7 @@
 ---
 title: "Unidentified (2013)"
 date: 2023-03-18
+slug_full: "r10g20y2ya2y2ya2y2ya2y2r18y2y2ya2y2r14y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2-g003820-rc80000-ydc943c-yaa08858"
 ---
 In pattern [RGYYYYYYYRYYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY](/patterns/rgyyyyyyyryyyyryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/).
 

@@ -1,13 +1,13 @@
 ---
-title: "Cameron of Locheil #2"
+title: "Cameron of Lochiel -1820 (Clan)"
 date: 2023-03-18
 ---
 In pattern [RBRBWBRGR](/patterns/rbrbwbrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=498
+Original link http://www.tartansauthority.com/tartan-ferret/display/1398/
 
 ## Thread count
 R/16 DB32 R8 DB4 W4 DB4 R24 G12 R/24

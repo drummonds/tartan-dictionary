@@ -1,6 +1,7 @@
 ---
 title: "Collinet (Personal)"
 date: 2023-03-18
+slug_full: "y204r12g12r12ya12r12ga12r12ga12ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2rb16ga8ya8-g888c50-ga006444-rcc4438-ra880000-rbb00024-ya08858-yae8bc98"
 ---
 In pattern [YGRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGRGRYRGRY](/patterns/ygrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrgrgryrgry/).
 

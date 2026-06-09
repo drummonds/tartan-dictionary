@@ -1,13 +1,13 @@
 ---
-title: "Down County Crest (Fashion)"
+title: "Down County, Crest Range"
 date: 2023-03-18
 ---
 In pattern [WBWGBGBGKRKY](/patterns/wbwgbgbgkrky/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7451/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5401
 
 ## Thread count
 DY/16 K6 DR12 K4 G40 DB8 G4 DB8 G10 LB8 DB6 LN/6

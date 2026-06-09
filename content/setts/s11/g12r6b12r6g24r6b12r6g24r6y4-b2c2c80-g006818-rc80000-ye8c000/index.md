@@ -1,13 +1,13 @@
 ---
-title: "Hall (Clan)"
+title: "Hall Family Tartan Tartan Number: 2092. Earliest known date: 1992 Designed by the late Atlas D. Hall for Hall sept members of the Clan Skene Association with help from the late Scotty Thompson of the Tartan Educational and Cultural Association, in 1992. The Clan Hall Society was organized in Pikeville, Kentucky, August 1993 when the Rev. Altas D. Hall became president. This image shows the new version of the sett which was slightly modified in 1994. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GRBRGRBRGRY](/patterns/grbrgrbrgry/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2092/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2092
 
 ## Thread count
 G/12 R6 DB12 R6 G24 R6 DB12 R6 G24 R6 Y/4

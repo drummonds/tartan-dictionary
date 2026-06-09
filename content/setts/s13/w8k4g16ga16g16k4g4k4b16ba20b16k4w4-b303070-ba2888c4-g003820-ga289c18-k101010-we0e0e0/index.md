@@ -1,13 +1,13 @@
 ---
-title: "Dyer (Name)"
+title: "Dyer"
 date: 2023-03-18
 ---
 In pattern [WKBBBKGKGGGKW](/patterns/wkbbbkgkgggkw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4027/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1060
 
 ## Thread count
 LN/4 K4 DB16 B20 DB16 K4 DG4 K4 DG16 G16 DG16 K4 LN/8

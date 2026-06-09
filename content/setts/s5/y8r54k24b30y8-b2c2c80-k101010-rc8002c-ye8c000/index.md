@@ -1,13 +1,13 @@
 ---
-title: "Aberdeen University (1992)"
+title: "Aberdeen University - 1992 (Corp.)"
 date: 2023-03-18
 ---
 In pattern [YBKRY](/patterns/ybkry/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=20
+Original link http://www.tartansauthority.com/tartan-ferret/display/2152/
 
 ## Thread count
 Y/8 DB30 K24 R54 Y/8

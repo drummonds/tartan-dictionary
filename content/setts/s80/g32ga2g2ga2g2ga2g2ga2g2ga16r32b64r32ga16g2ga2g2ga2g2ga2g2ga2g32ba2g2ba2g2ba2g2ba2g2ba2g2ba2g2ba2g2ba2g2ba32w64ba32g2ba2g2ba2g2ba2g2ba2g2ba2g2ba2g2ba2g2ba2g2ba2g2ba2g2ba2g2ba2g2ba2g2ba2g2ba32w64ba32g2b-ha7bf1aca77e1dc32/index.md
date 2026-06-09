@@ -1,6 +1,7 @@
 ---
 title: "Virginia (USA)"
 date: 2023-03-18
+slug_full: "g32ga2g2ga2g2ga2g2ga2g2ga16r32b64r32ga16g2ga2g2ga2g2ga2g2ga2g32ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba32w64ba32g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba2g2ba32w64ba32g2ba2g2ba2g2ba2-b780078-ba1474b4-g006818-ga289c18-r9c68a4-wa8ace8"
 ---
 In pattern [BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG](/patterns/bgbgbgbwbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbgbggggggggggrbrgggggggggg/).
 

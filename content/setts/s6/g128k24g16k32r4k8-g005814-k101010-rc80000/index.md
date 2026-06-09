@@ -1,13 +1,13 @@
 ---
-title: "Fife (District)"
+title: "Fife, Duke Of"
 date: 2023-03-18
 ---
 In pattern [GKGKRK](/patterns/gkgkrk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/790/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1182
 
 ## Thread count
 G/128 K24 G16 K32 R4 K/8

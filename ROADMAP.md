@@ -29,6 +29,12 @@ Get crisp on what the site is and who it is for, in both registers.
 Make the published posts express `design/`: a mechanical pass (UK spelling, tighten, fix dead
 links) then an editorial pass aligning each to the pattern thesis and cross-linking to `design/`.
 
+**`OriginsOfTartan` rewrite — deferred:** rework the old, bold-heavy *The development of tartan in
+Scotland* section, using the coloured `.timeline`'s later stops (Pictish → Early Scots → Jacobite
+flourish/repression/revival → Victoriana → STA) as its spine, and decide whether that heading
+should read "…in **Britain**" or "…in **Scotland**". House style for the rewrite: no decorative
+bold (emphasis only on links).
+
 ## Build track — `tartan_weaver` *(deferred behind Brick 0; strangler-fig, Hugo stays live)*
 
 - **Brick 1 — pure core (→ js/wasm):** parse · normalise · reduce-to-**Pattern** · palette ·

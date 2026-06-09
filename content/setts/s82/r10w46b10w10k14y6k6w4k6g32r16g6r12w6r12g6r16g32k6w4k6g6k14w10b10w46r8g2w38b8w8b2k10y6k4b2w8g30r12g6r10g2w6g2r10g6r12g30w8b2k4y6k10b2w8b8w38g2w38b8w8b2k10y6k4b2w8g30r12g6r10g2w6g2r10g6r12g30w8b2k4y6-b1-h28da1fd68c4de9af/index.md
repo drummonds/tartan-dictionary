@@ -1,6 +1,7 @@
 ---
 title: "Victoria Highland Dress #2"
 date: 2023-03-18
+slug_full: "r10w46b10w10k14y6k6w4k6g32r16g6r12w6r12g6r16g32k6w4k6g6k14w10b10w46r8g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6g2r10g6r12g30w8b2k4y6k10b2w8b8w38g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6g2r10g6r12g30w8b2k4y6-b1c0070-g006818-k101010-rc80000-wfcfcfc-ye8c000"
 ---
 In pattern [RWBWKYKWKGRGRWRGRGKWKGKWBWRGWBWBKYKBWGRGRGWGRGRGWBKYKBWBWGWBWBKYKBWGRGRGWGRGRGWBKY](/patterns/rwbwkykwkgrgrwrgrgkwkgkwbwrgwbwbkykbwgrgrgwgrgrgwbkykbwbwgwbwbkykbwgrgrgwgrgrgwbky/).
 

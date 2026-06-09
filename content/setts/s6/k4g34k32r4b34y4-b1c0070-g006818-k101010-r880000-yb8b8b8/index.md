@@ -1,5 +1,5 @@
 ---
-title: "U.S. Air Force Pipe Band (Corporate)"
+title: "Milwaukee County (District)"
 date: 2023-03-18
 ---
 In pattern [KGKRBY](/patterns/kgkrby/).
@@ -7,7 +7,7 @@ In pattern [KGKRBY](/patterns/kgkrby/).
 
 This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/8962/
+Original link http://www.tartansauthority.com/tartan-ferret/display/8961/
 
 ## Thread count
 K/4 G34 K32 DR4 DB34 N/4

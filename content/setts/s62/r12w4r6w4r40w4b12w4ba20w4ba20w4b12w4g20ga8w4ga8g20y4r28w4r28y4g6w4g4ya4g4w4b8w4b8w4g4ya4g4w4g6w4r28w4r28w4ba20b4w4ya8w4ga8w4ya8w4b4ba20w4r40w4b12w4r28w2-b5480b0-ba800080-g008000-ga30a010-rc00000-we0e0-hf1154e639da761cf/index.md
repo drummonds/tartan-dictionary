@@ -1,6 +1,7 @@
 ---
 title: "Ritch"
 date: 2023-03-18
+slug_full: "r12w4r6w4r40w4b12w4ba20w4ba20w4b12w4g20ga8w4ga8g20y4r28w4r28y4g6w4g4ya4g4w4b8w4b8w4g4ya4g4w4g6w4r28w4r28w4ba20b4w4ya8w4ga8w4ya8w4b4ba20w4r40w4b12w4r28w2-b5480b0-ba800080-g008000-ga30a010-rc00000-we0e0e0-yb0b0b0-yaf0c000"
 ---
 In pattern [RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/patterns/rwrwrwbwbwbwbwggwggyrwrygwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
 

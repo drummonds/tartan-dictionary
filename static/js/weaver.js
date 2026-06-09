@@ -1,11 +1,13 @@
 /* The in-browser weaver: boots the Go WASM tartan engine on the 404 app-shell and renders a full
  * variant page for any /setts/s<n>/<slug>/ URL that has no static page — the slug alone encodes
- * the whole cloth. Static pages keep working without this; the shell only takes over when the URL
- * looks like a sett address. Plain JS, no framework. */
+ * the whole cloth. Three entries: a bare sett URL renders read-only; an .../edit/ URL (linked from
+ * every static variant page) adds the entry form pre-filled with that variant; /setts/new/ starts
+ * from a blank form. Static pages keep working without this. Plain JS, no framework. */
 (function () {
   'use strict';
 
   var SETT_PATH = /^\/setts\/s\d+\/[0-9a-z-]+\/(edit\/)?$/;
+  var NEW_PATH = '/setts/new/';
   var t0 = performance.now();
 
   document.addEventListener('DOMContentLoaded', init);
@@ -18,8 +20,9 @@
     var shell = document.getElementById('weaver-app');
     if (!shell || shell.dataset.weaver !== 'shell') return;
     var path = location.pathname;
-    if (!SETT_PATH.test(path)) return; // a genuinely unknown page: leave the 404 text alone
-    boot(shell, path.replace(/edit\/$/, '')).catch(function (err) {
+    if (path !== NEW_PATH && !SETT_PATH.test(path)) return; // a genuinely unknown page: leave the 404 text
+    var edit = path === NEW_PATH || /edit\/$/.test(path);
+    boot(shell, path.replace(/edit\/$/, ''), edit).catch(function (err) {
       status(shell, 'The weaver could not start: ' + err);
     });
   }
@@ -58,9 +61,15 @@
     return URL.createObjectURL(new Blob([bytes], { type: 'image/png' }));
   }
 
-  function boot(shell, path) {
+  function boot(shell, path, edit) {
     status(shell, 'Weaving this tartan in your browser…');
     return loadEngine().then(function () {
+      if (path === NEW_PATH) {
+        shell.querySelector('.post-header h1').textContent = 'Weave a tartan';
+        shell.querySelector('.post-text').innerHTML = '';
+        showForm(shell, { palette: 'K#101010 W#F4F4F0', threadcount: 'K24 W24', name: '' });
+        return;
+      }
       var info = window.weaver.parsePath(path);
       if (info.error && info.hashed) {
         var m = /[#&]slug=([0-9a-z-]+)/.exec(location.hash);
@@ -70,14 +79,20 @@
         status(shell, 'This sett address could not be read: ' + info.error);
         return;
       }
-      if (info.corrected && info.path !== location.pathname) {
-        history.replaceState(null, '', info.path + location.hash);
-      }
-      render(shell, info);
+      if (info.corrected) setAddress(info, edit);
+      render(shell, info, edit);
     });
   }
 
-  function render(shell, info) {
+  /* Keeps the address bar on the canonical form of whatever is shown, preserving edit mode and
+   * carrying the full slug in the fragment when the URL's leaf is a hashed file name. */
+  function setAddress(info, edit) {
+    var hashed = info.path.indexOf(info.slug) === -1;
+    var url = info.path + (edit ? 'edit/' : '') + (hashed ? '#slug=' + info.slug : '');
+    history.replaceState(null, '', url);
+  }
+
+  function render(shell, info, edit) {
     var tWasm = performance.now();
     var h = [];
     h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a>.</p>');
@@ -93,19 +108,69 @@
     h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
     h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
     h.push('<p>ID: ' + esc(info.path) + '</p>');
+    if (!edit) {
+      h.push('<p><a href="' + info.path + 'edit/' +
+        (info.path.indexOf(info.slug) === -1 ? '#slug=' + info.slug : '') +
+        '">⌗ Vary this tartan in the weaver</a> · <a href="/setts/new/">weave a new one</a></p>');
+    }
     h.push('<p id="weaver-stats" style="color:#888;font-size:smaller"></p>');
     shell.querySelector('.post-text').innerHTML = h.join('\n');
-    shell.querySelector('.post-header h1').textContent = 'Tartan variant (generated)';
+    shell.querySelector('.post-header h1').textContent = info.name || 'Tartan variant (generated)';
+    if (edit) {
+      showForm(shell, {
+        name: info.name || '',
+        threadcount: info.threadcount,
+        palette: info.palette.map(function (p) { return p.code + p.hex; }).join(' ')
+      });
+    }
 
-    var sett = window.weaver.renderSett(info.path, 1000, 64);
+    // Render by bare slug, not path: a giant sett's path leaf is a hashed file name the engine
+    // cannot decode, while the slug always can be.
+    var sett = window.weaver.renderSett(info.slug, 1000, 64);
     if (!sett.error) document.getElementById('weaver-sett').src = pngURL(sett);
-    var woven = window.weaver.renderWoven(info.path, 480);
+    var woven = window.weaver.renderWoven(info.slug, 480);
     if (!woven.error) document.getElementById('weaver-tartan').src = pngURL(woven);
 
     var tRender = performance.now();
     statLine('engine ' + Math.round(tWasm - t0) + ' ms, images ' + Math.round(tRender - tWasm) + ' ms');
 
     neighbours(info);
+  }
+
+  /* The entry form, shown above the rendered page in edit mode. Weaving re-renders in place and
+   * moves the address bar to the new variant's canonical URL, so the result is shareable and a
+   * reload lands on the static page when one exists. */
+  function showForm(shell, fill) {
+    var old = document.getElementById('weaver-form');
+    if (old) old.remove();
+    var form = document.createElement('form');
+    form.id = 'weaver-form';
+    form.style.cssText = 'border:1px solid #ddd;border-radius:6px;padding:0.8em 1em;margin:1em 0;';
+    form.innerHTML =
+      '<label style="display:block;margin:0.3em 0">Name (optional)<br>' +
+      '<input name="name" style="width:100%" value="' + esc(fill.name) + '"></label>' +
+      '<label style="display:block;margin:0.3em 0">Palette — colour codes and shades, e.g. <code>DB#00004C W#F4F4F0</code><br>' +
+      '<input name="palette" style="width:100%" required value="' + esc(fill.palette) + '"></label>' +
+      '<label style="display:block;margin:0.3em 0">Thread count — e.g. <code>DB24 W24</code><br>' +
+      '<input name="threadcount" style="width:100%" required value="' + esc(fill.threadcount) + '"></label>' +
+      '<button type="submit">Weave</button> <span id="weaver-form-err" style="color:#a00"></span>';
+    form.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      var f = new FormData(form);
+      var info = window.weaver.fromInput(
+        String(f.get('name') || ''), String(f.get('palette')), String(f.get('threadcount')));
+      var errEl = document.getElementById('weaver-form-err');
+      if (info.error) {
+        errEl.textContent = info.error;
+        return;
+      }
+      errEl.textContent = '';
+      info.name = String(f.get('name') || '');
+      setAddress(info, true);
+      render(shell, info, true);
+    });
+    var text = shell.querySelector('.post-text');
+    text.parentNode.insertBefore(form, text);
   }
 
   function paletteTable(palette) {
@@ -130,7 +195,27 @@
   function neighbours(info) {
     var box = document.getElementById('weaver-nn');
     var tFetch = performance.now();
-    Promise.all([
+    loadIndexOnce().then(function (count) {
+      var nn = window.weaver.neighbours(info.slug, 10);
+      if (nn.error) throw new Error(nn.error);
+      var items = nn.hits.map(function (hit) {
+        var name = hit.name || 'Unnamed variant';
+        return '<li><a href="' + hit.url + '">' + esc(name) + '</a> — ΔTartan ' +
+          hit.dist.toFixed(2) + '</li>';
+      });
+      box.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan distance.</p>' +
+        '<ol>' + items.join('') + '</ol>';
+      statLine('neighbours over ' + count + ' variants in ' +
+        Math.round(performance.now() - tFetch) + ' ms (fetch + index + query)');
+    }).catch(function (err) {
+      box.innerHTML = '<h2>Nearest tartans</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
+    });
+  }
+
+  var indexPromise = null;
+  function loadIndexOnce() {
+    if (indexPromise) return indexPromise;
+    indexPromise = Promise.all([
       fetch('/nn/index.v1.json').then(function (r) {
         if (!r.ok) throw new Error('index.v1.json: HTTP ' + r.status);
         return r.text();
@@ -142,20 +227,12 @@
     ]).then(function (parts) {
       var loaded = window.weaver.loadIndex(parts[0], new Uint8Array(parts[1]));
       if (loaded.error) throw new Error(loaded.error);
-      var nn = window.weaver.neighbours(info.path, 10);
-      if (nn.error) throw new Error(nn.error);
-      var items = nn.hits.map(function (hit) {
-        var name = hit.name || 'Unnamed variant';
-        return '<li><a href="' + hit.url + '">' + esc(name) + '</a> — ΔTartan ' +
-          hit.dist.toFixed(2) + '</li>';
-      });
-      box.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan distance.</p>' +
-        '<ol>' + items.join('') + '</ol>';
-      statLine('neighbours over ' + loaded.count + ' variants in ' +
-        Math.round(performance.now() - tFetch) + ' ms (fetch + index + query)');
+      return loaded.count;
     }).catch(function (err) {
-      box.innerHTML = '<h2>Nearest tartans</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
+      indexPromise = null; // allow a retry on the next render
+      throw err;
     });
+    return indexPromise;
   }
 
   function statLine(msg) {

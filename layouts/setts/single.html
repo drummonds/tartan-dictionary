@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{/* Variant pages: _default/single.html plus the weaver hooks — an edit link that opens this
+     variant in the in-browser weaver (the /edit/ path has no static page, so it lands on the 404
+     app-shell), and the #weaver-extras placeholder weaver.js hydrates with nearest-neighbour and
+     plot sections. Hashed-leaf pages carry their full slug in front matter (slug_full), passed in
+     the fragment because the truncated URL alone cannot be decoded. */}}
+<article class="post">
+  <header class="post-header">
+    <h1 style="text-align: center;" >{{ .Title }}</h1>
+    <div class="post-metadata">
+    {{ if .Date }}
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 02, 2006" }}</time>
+      &nbsp;
+    {{ end }}
+    {{ with .Params.slug_full }}
+      <a class="weaver-edit" href="{{ $.RelPermalink }}edit/#slug={{ . }}">⌗ Vary this tartan in the weaver</a>
+    {{ else }}
+      <a class="weaver-edit" href="{{ .RelPermalink }}edit/">⌗ Vary this tartan in the weaver</a>
+    {{ end }}
+    </div>
+  </header>
+
+  <div class="post-text">
+    {{ .Content }}
+  </div>
+
+  <div id="weaver-extras" data-weaver="extras"></div>
+
+  <div class="comments">
+  {{ partial "comments.html" . }}
+  </div>
+</article>
+<script src="{{ "js/weaver.js" | relURL }}" defer></script>
+{{ end }}

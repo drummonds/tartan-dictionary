@@ -1,45 +1,117 @@
 ---
 title: "The Origins of Tartan"
 date: 2026-06-07
+lastmod: 2026-06-09
 tags: ["tartan", "history", "celtic", "twill", "weaving", "Indo-European"]
 ---
 
-Where does tartan come from? Not, it turns out, from Scotland — or not only, and not first.
-Tartan is the Scottish flowering of something far older and far wider: a way of weaving coloured
-checks in twill that was practised across prehistoric Eurasia, from the edge of China to the
-Atlantic, long before there was a Scotland to be Scottish about. This post sets out the long
-view. Three claims hold it together, and everything below is in service of them:
+<div class="quote-hero">
 
-1. **Tartan is a historically *evolving* tradition** — not a fixed, ancient costume but a living
-   craft that has changed its weave, its colours and even its name over three thousand years, and
-   is still changing.
-2. **Its genesis seems to be *Indo-European*** — loosely, by shared craft and culture rather than
-   by any single migrating people — reaching from the Tarim Basin to Ireland and Galicia.
-3. **It is *twill*** — specifically the 2/2 diagonal twill, which is what gives tartan its soft
-   diagonal grain and is the constant running through the whole story.
+> *"For the purposes of this Act, a tartan is a design which is capable of being woven consisting
+> of two or more alternating coloured stripes which combine vertically and horizontally to form a
+> repeated chequered pattern."*
+>
+> — *Scottish Register of Tartans Act 2008*, section 2[^srt-act]
 
-The Dictionary's mission is to sustain *the living Scottish Celtic tartan tradition — the line
-that runs from Hallstatt through to today*. To do that honestly we have to know where the line
-begins, and how much of it is older than the kilt.
+<figure>
+<img src="FalkirkSett.png" alt="The Falkirk tartan — Scotland's oldest surviving check, 3rd century AD">
+<figcaption>The <a href="{{< ref "FalkirkTartan" >}}">Falkirk tartan</a> — Scotland's oldest
+surviving check, 3rd&nbsp;century&nbsp;AD.</figcaption>
+</figure>
 
-## Weaving comes first — by ten thousand years
+</div>
 
-Before any of the tartan story, keep one proportion in mind: **weaving is tens of thousands of
-years older than any tartan.** Humans were making cloth — twined, looped, netted, then
-loom-woven — long before any sett.
+This is how the Scottish Parliament defined tartan when it set up the Scottish Register of
+Tartans. It is the *end* of a journey that begins in ancient Eurasia. This post follows that
+whole line: from the birth of weaving to its eventual flowering, much later, in Scotland into a
+joyful way of celebrating cultural and family identity.
 
-The oldest surviving textiles are not Old-World at all. Twined and looped plant-fibre cloth
-survives from **Guitarrero Cave in Peru, around 12,000 years ago**,[^guitarrero] and the
-Andean loom tradition that follows is deep, brilliant and entirely independent of Europe —
-proof that weaving is a near-universal human technology, invented more than once. In the Old
-World the earliest *loom-woven* cloth is from **Çatalhöyük in Anatolia, about 6700 BC** — a
-plain over-one-under-one **tabby**, recently shown to be woven from oak bast rather than the
-flax everyone long assumed.[^catal]
+## Looms to Twill
 
-So when we reach tartan we are very near the end of the story, not the beginning. Plain weave is
-the ancestor; **twill** arrives thousands of years later; and the developed, symmetrical
-multi-colour [sett]({{< ref "Tartan" >}}) that *defines* tartan survives first only in the
-sixteenth century AD. Tartan is a late, specific flower on a very old root.
+People were dressed long before they could weave. The neatest clue to when we first put on clothes
+is a faintly absurd one — lice. At some point the body louse split off from the head louse and
+took to living in clothing rather than on the scalp, which it could only do once there were
+clothes to live in; dating that split by their genetics puts the first clothing somewhere between
+40,000 and 170,000 years ago.[^lice] Whatever the true figure, those first clothes were not woven
+at all — they were animal skins and furs, and skins stayed the humble end of the wardrobe for a
+very long time. Even in the cities of ancient Sumer, ordinary winter dress was still sheep fur,
+while finer woven wool marked you out.[^sumer]
+
+Weaving did not begin on a loom. The oldest textile we have was made entirely by hand — plant
+fibre twined, looped and knotted into cloth, found in Guitarrero Cave high in the Peruvian Andes
+and roughly twelve thousand years old.[^guitarrero] It belongs to a New World tradition with no
+connection to the Old World story whatsoever, and that is the telling part: cloth was plainly
+invented more than once, by people who never met. Weaving is not one culture's idea that spread —
+it is something humans reach for wherever they settle.
+
+The loom, and the plain *tabby* cloth that comes off it, appears later — and in a different fibre
+in each part of the world:
+
+- Anatolia — the oldest loom-woven cloth in the Old World, from Çatalhöyük, around 6700 BC: a
+  plain tabby, woven (a recent surprise) not from flax but from oak bast, the inner bark of the
+  tree.[^catal]
+- Egypt and north-east Africa — flax linen. Egyptians were weaving it by about 5000 BC; a loom is
+  even painted on a pottery dish from Badari (c. 3600 BC), and the linen Tarkhan Dress (c. 3400
+  BC) is the oldest woven garment found anywhere.[^tarkhan]
+- The Indus Valley — cotton. Cotton threads survive at Mehrgarh from about 6000 BC, and woven
+  cotton cloth at Mohenjo-daro from about 3000 BC.[^cotton]
+- China — silk. Traces of silk protein appear in tombs at Jiahu some 8,500 years ago; the oldest
+  surviving *woven* silk is from Qianshanyang, about 2700 BC.[^silk] It appears in high-status
+  graves: silk, and the dyeing of it, were marks of rank from the very start.
+
+Different fibre, different corner of the world — and all of it plain weave. The upright
+warp-weighted loom that the whole later tartan tradition runs on belongs to this early world too —
+it is in Europe by the late sixth millennium BC — and at first it weaves plain cloth like
+everything else.[^iberianloom]
+
+> twining and looping → the loom and plain tabby → twill → coloured, checked twill → the tartan sett
+
+Twill comes later than all of it, and the checked twill that becomes tartan later still. The
+earliest twill *check* we have — the Tarim plaid of western China, the oldest thing that genuinely
+looks like tartan — is only about three thousand years old, more than five thousand years after
+that first loom cloth at Çatalhöyük. It has a post of its own:
+[**The Tarim Tartan**]({{< ref "TarimTartan" >}}).
+
+One caution to carry forward. Cloth rots. It survives only where the ground is exceptionally dry,
+frozen, or waterlogged — a desert, a glacier, a salt mine, a bog. So the map of "oldest surviving
+textiles" is really a map of *where cloth happened to last*, not where it was first made. Almost
+everything from the wet, temperate places — which is to say almost everywhere people actually
+lived — is simply gone.
+
+## Twill and woolly sheep
+
+Twill is a wool weave. That sounds like a small technical point, but it is the hinge of the whole
+story, because tartan is twill and twill, in practice, means wool.
+
+I will be honest: I do not really know *why* twill and wool belong together — only that they
+plainly do. Across the early loom world the fibre and the weave line up. Egypt wove superb linen
+for three thousand years and kept it almost all plain, and what little twill turns up there
+usually marks wool or imported cloth; the Indus wove cotton and China silk, and both stayed
+overwhelmingly plain too. Twill, where it appears, travels with wool.[^wooltwill] The usual
+explanation is in the fibre: flax, cotton and reeled silk are smooth and fairly inelastic, content
+in an over-one-under-one tabby, while wool is springy, crimped and elastic — which is what the
+over-two diagonal of a twill seems to want, a cloth that drapes, gives a little on the bias and
+traps air to hold warmth. That may be the whole of it; but the pairing is clearer than its cause,
+and I would rather flag the connection honestly than pretend I can fully account for it.
+
+But the wool had to be invented first. Sheep were domesticated early — around 11,000 to 9,000 BC
+in the Near East — though not for wool: they were kept for meat, milk and skins, and the first
+sheep were not woolly at all. A wild sheep wears a double coat, coarse hair over a short downy
+undercoat; the dense, single, ever-growing woolly fleece we now take for granted is a bred thing,
+selected over thousands of years. The breeding for wool seems to begin around 6000 BC, but real
+woven wool comes only two or three thousand years later — the oldest claimed wool is from the
+north Caucasus, around 3700–3200 BC — and it is the Bronze Age that pushes hardest for the dense,
+white, continuously-growing fleece that takes dye cleanly.[^woollysheep]
+
+And that is the moment everything tartan needs falls into place at once. A woolly sheep gives you a
+fibre springy enough to make twill worth weaving; one that comes ready-coloured — black, white,
+grey and brown straight off the animal — so a two-colour check costs nothing but sorting the
+fleece; and one that takes dye beautifully, so colour becomes a luxury you can add on top. The
+cheap cloth is the natural-fleece check; the dear cloth is the dyed one — the same split we saw
+between sheep-fur Sumerians and silk-wearing elites, now built into the wool itself. Diagonal
+twill, natural-colour checks, and dye for those who could afford it: every ingredient of tartan is
+on the table by the Bronze Age. What is left is to find it in the ground — which is where we turn
+next.
 
 ## It is twill
 
@@ -120,6 +192,22 @@ shared inheritance, which is the better story anyway: a craft, not a flag.
 
 ## The development of tartan in Scotland
 
+The whole arc gathered into one view — not to scale (it cannot be), each stop given equal room,
+the colour chips running from natural fleece to dyed just as tartan's own palette did. The deep
+prehistory is behind us now; what follows is the Scottish end of the line.
+
+<ol class="timeline">
+<li style="--c:#5c4433"><div class="t-swatch"></div><div class="t-body"><span class="t-when">170,000–40,000 years ago</span> <span class="t-what">Clothing</span> — skins and furs, dated by the body louse</div></li>
+<li style="--c:#b7a98c"><div class="t-swatch"></div><div class="t-body"><span class="t-when">from c. 3500 BC</span> <span class="t-what">Wool</span> — woolly sheep bred from their hairy ancestors</div></li>
+<li style="--c:#b0593f"><div class="t-swatch"></div><div class="t-body"><span class="t-when">c. 1500–1200 BC</span> <span class="t-what">Twill</span> — Bronze-Age wool twills; the <a href="{{< ref "TarimTartan" >}}">Tarim</a> plaid, the oldest check</div></li>
+<li style="--c:#7a6a52"><div class="t-swatch"></div><div class="t-body"><span class="t-when">c. 250–900 AD</span> <span class="t-what">Roman &amp; Pictish Scotland</span> — the <a href="{{< ref "FalkirkTartan" >}}">Falkirk</a> check, Scotland's oldest</div></li>
+<li style="--c:#34557a"><div class="t-swatch"></div><div class="t-body"><span class="t-when">1200–1650</span> <span class="t-what">Early Scots</span> — Glen Affric, the oldest true Scottish tartan; "tartane" first recorded</div></li>
+<li style="--c:#3f6b4a"><div class="t-swatch"></div><div class="t-body"><span class="t-when">c. 1600–1745</span> <span class="t-what">Jacobite flourish</span> — Highland dress at its height</div></li>
+<li style="--c:#33312e"><div class="t-swatch"></div><div class="t-body"><span class="t-when">1746–1782</span> <span class="t-what">Jacobite repression</span> — the Dress Act bans Highland dress</div></li>
+<li style="--c:#8d2f33"><div class="t-swatch"></div><div class="t-body"><span class="t-when">1782–1901</span> <span class="t-what">Revival &amp; Victoriana</span> — Scott's 1822 pageant; Victoria at Balmoral</div></li>
+<li style="--c:repeating-linear-gradient(180deg,#34557a 0 5px,#8d2f33 5px 10px,#3f6b4a 10px 15px)"><div class="t-swatch"></div><div class="t-body"><span class="t-when">1996 / 2008</span> <span class="t-what">STA &amp; the Register</span> — the Authority, then the statutory Register</div></li>
+</ol>
+
 If the genesis is Eurasian, the **flowering is unmistakably Scottish**, and it is recent. The
 western branch of the tradition stayed alive in Highland Scotland, and there it grew into
 something the rest of the world did not have: a system of *named* setts tied to clan and place.
@@ -181,12 +269,54 @@ specimen and works a sett from it. See also [**What is Tartan?**]({{< ref "Tarta
 
 ---
 
+[^srt-act]: Scottish Register of Tartans Act 2008 (asp 7), s. 2, "Meaning of 'tartan'".
+  <https://www.legislation.gov.uk/asp/2008/7/section/2>
 [^guitarrero]: Jolie et al. (2011), on the twined textiles and cordage of Guitarrero Cave, Peru;
   see *Current Anthropology* / summary at
   <https://www.sciencedaily.com/releases/2011/04/110413121008.htm>
 [^catal]: Rast-Eicher et al. (2021), "The use of local fibres for textiles at Neolithic
   Çatalhöyük", *Antiquity*.
   <https://www.cambridge.org/core/journals/antiquity/article/use-of-local-fibres-for-textiles-at-neolithic-catalhoyuk/294D8367B55E0A752ACC1825035840FC>
+[^iberianloom]: "The oldest loom-woven textiles from the Iberian Peninsula and the European
+  loom", *Scientific Reports* (2021) — earliest Iberian loom cloth is flax tabby (Peñacalera,
+  Córdoba, later 4th millennium BC); the warp-weighted loom reaches Central Europe in the late
+  6th millennium BC; all examined early examples are plain weave, with no twill.
+  <https://www.nature.com/articles/s41598-021-01349-5>
+[^tarkhan]: Egyptian flax-linen weaving dates from c. 5000 BC; a loom is depicted on a pottery
+  dish from Badari (c. 3600 BC), and the linen *Tarkhan Dress* (radiocarbon-dated 3482–3102 BC) is
+  the oldest surviving woven garment. A. Stevenson & M. Dee, "Confirmation of the world's oldest
+  woven garment: the Tarkhan Dress", *Antiquity* (Project Gallery).
+  <https://antiquity.ac.uk/projgall/stevenson349>
+[^cotton]: Earliest cotton: mineralised cotton threads on a copper bead at Neolithic Mehrgarh,
+  Pakistan, c. 6000 BC; the oldest woven cotton is a fragment adhering to a silver vase at
+  Mohenjo-daro, c. 3000 BC. "First Evidence of Cotton at Neolithic Mehrgarh, Pakistan", Harappa.
+  <https://www.harappa.com/content/first-evidence-cotton-neolithic-mehrgarh-pakistan>
+[^silk]: Biomolecular traces of silk fibroin in tombs at Jiahu, Henan, c. 8,500 years ago (Gong
+  et al., *PLOS ONE*, 2016, <https://pmc.ncbi.nlm.nih.gov/articles/PMC5152897/>); the oldest
+  surviving *woven* silk is from Qianshanyang (Liangzhu culture), c. 2700 BC.
+[^lice]: The body louse lives in clothing rather than on the skin, so it could only evolve once
+  humans wore clothes — which makes the genetic split between head and body lice a rough clock for
+  when clothing began. Estimates run from 40,000 to 170,000 years ago (Kittler, Kayser &
+  Stoneking; a 2003 study suggested ~107,000 years, a 2011 study ~170,000). *History of clothing
+  and textiles*, Wikipedia. <https://en.wikipedia.org/wiki/History_of_clothing_and_textiles>
+[^sumer]: In ancient Mesopotamia ordinary Sumerian dress was simple, with winter clothing made of
+  sheep fur, while the tufted woollen *kaunakes* marked higher rank. *History of clothing and
+  textiles*, Wikipedia. <https://en.wikipedia.org/wiki/History_of_clothing_and_textiles>
+[^wooltwill]: Twill is warmer, more pliable and more elastic than plain tabby (K. Grömer,
+  "Tradition, creativity and innovation: the development of textile expertise from the Bronze Age
+  to the Hallstatt period", in *Textiles from Hallstatt*, 2013) — properties that suit springy
+  wool, whereas smooth, inelastic linen sits more naturally in plain weave.
+  <https://www.academia.edu/11038057/>
+[^woollysheep]: Sheep were domesticated c. 11,000–9,000 BC for meat, milk and skins; the single
+  woolly fleece is a later bred trait — wild sheep have a double coat of coarse hair over a downy
+  undercoat. Selection for wool may begin c. 6000 BC, with woven wool only two to three thousand
+  years later, and dense white fleeces bred in the Bronze Age. "Domestication of the sheep",
+  Wikipedia <https://en.wikipedia.org/wiki/Domestication_of_the_sheep>; "Approaching sheep herds
+  origins and the emergence of the wool economy in continental Europe during the Bronze Age",
+  *Archaeological and Anthropological Sciences* (2019)
+  <https://link.springer.com/article/10.1007/s12520-019-00856-x>. The oldest claimed wool —
+  contested — is from Klady (Majkop), north Caucasus, c. 3700–3200 BC (Shishlina et al. 2003)
+  <https://www.academia.edu/24477597/>.
 [^wild-vind]: J. P. Wild, "Vindolanda 1985–1988: The Textiles", *Vindolanda Research Reports,
   New Series, Vol. III*, 76–90 — diamond twill ~62%, plain 2/2 ~5%, ~20% of the cloth dyed.
 [^gromer-trad]: K. Grömer, "Tradition, creativity and innovation — the development of textile

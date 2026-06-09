@@ -99,3 +99,88 @@ body.container a {
 .pager strong {
   padding: 0 .2em;
 }
+
+/* Opening "hero": the legal-definition quote on the left, a decorative tartan swatch on the right.
+   Flex row on wide screens, stacked on a phone. The swatch is capped so it always fits the column;
+   the quote keeps its tinted blockquote styling as a flex item. Source order is quote-then-image,
+   so the image sits on the right. */
+.quote-hero {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  align-items: flex-start;
+  margin: 1em 0;
+}
+.quote-hero > blockquote {
+  flex: 1 1 58%;
+  min-width: 16rem;
+  margin: 0;
+}
+/* The image may or may not be wrapped in a <p> depending on the markdown render — cover both. */
+.quote-hero > img,
+.quote-hero > p,
+.quote-hero > figure {
+  flex: 0 1 34%;
+  min-width: 9rem;
+  margin: 0;
+}
+.quote-hero figure { margin: 0; }
+.quote-hero figcaption {
+  font-size: .8rem;
+  line-height: 1.3;
+  margin-top: .35rem;
+  opacity: .85;
+}
+.quote-hero img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #0002;
+  border-radius: .2rem;
+}
+@media screen and (max-width: 600px) {
+  .quote-hero { flex-direction: column; }
+  .quote-hero > blockquote,
+  .quote-hero > img,
+  .quote-hero > p,
+  .quote-hero > figure { flex-basis: auto; width: 100%; }
+}
+
+/* The tartan story as a graphical coloured table: a column of era colour-chips down the left
+   (natural fleece tones giving way to dyed colour, just as tartan's own palette did), each
+   labelled to the right. Evenly spaced — deliberately NOT to scale, so deep prehistory and the
+   last three centuries get equal room — and reflowing, so it reads the same on a phone as on a
+   wide screen. Each <li> sets its chip colour with an inline `--c`. */
+.timeline {
+  list-style: none;
+  margin: 1.4em 0;
+  padding: 0;
+  border: 1px solid #0002;
+  border-radius: .4rem;
+  overflow: hidden;                 /* clip the colour chips to the rounded corners */
+}
+.timeline > li {
+  display: grid;
+  grid-template-columns: 2.4rem 1fr;
+  align-items: stretch;
+}
+.timeline > li + li {
+  border-top: 1px solid #0000001a;
+}
+.timeline .t-swatch {
+  background: var(--c, #cdd2dd);
+}
+.timeline .t-body {
+  padding: .5em .8em;
+  line-height: 1.4;
+}
+.timeline .t-when {
+  display: block;
+  font-size: .8rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .02em;
+  color: #5a5a5a;
+}
+.timeline .t-what {
+  font-weight: 600;
+}

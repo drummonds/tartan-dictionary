@@ -18,13 +18,43 @@
     if (booted) return;
     booted = true;
     var shell = document.getElementById('weaver-app');
-    if (!shell || shell.dataset.weaver !== 'shell') return;
-    var path = location.pathname;
-    if (path !== NEW_PATH && !SETT_PATH.test(path)) return; // a genuinely unknown page: leave the 404 text
-    var edit = path === NEW_PATH || /edit\/$/.test(path);
-    boot(shell, path.replace(/edit\/$/, ''), edit).catch(function (err) {
-      status(shell, 'The weaver could not start: ' + err);
+    if (shell && shell.dataset.weaver === 'shell') {
+      var path = location.pathname;
+      if (path !== NEW_PATH && !SETT_PATH.test(path)) return; // a genuinely unknown page: leave the 404 text
+      var edit = path === NEW_PATH || /edit\/$/.test(path);
+      boot(shell, path.replace(/edit\/$/, ''), edit).catch(function (err) {
+        status(shell, 'The weaver could not start: ' + err);
+      });
+      return;
+    }
+    hydrateStatic();
+  }
+
+  /* On a static variant page, fill the layout's #weaver-extras placeholder with the neighbour
+   * list and map — but only once it scrolls near the viewport, so plain reading never pays for
+   * the engine or the index. Failures clear the placeholder: the static page must read exactly
+   * as it did before this script existed. */
+  function hydrateStatic() {
+    var extras = document.getElementById('weaver-extras');
+    if (!extras || extras.dataset.weaver !== 'extras') return;
+    var m = /^\/setts\/s\d+\/([0-9a-z-]+)\/$/.exec(location.pathname);
+    var slug = extras.dataset.slug || (m && m[1]);
+    if (!slug) return;
+    whenVisible(extras, function () {
+      loadEngine().then(function () {
+        renderExtras(extras, slug, true);
+      }).catch(function () { extras.innerHTML = ''; });
     });
+  }
+
+  function whenVisible(el, fn) {
+    if (!('IntersectionObserver' in window)) { fn(); return; }
+    var io = new IntersectionObserver(function (entries) {
+      for (var i = 0; i < entries.length; i++) {
+        if (entries[i].isIntersecting) { io.disconnect(); fn(); return; }
+      }
+    }, { rootMargin: '400px' });
+    io.observe(el);
   }
 
   function status(shell, msg) {
@@ -136,7 +166,7 @@
     var tRender = performance.now();
     statLine('engine ' + Math.round(tWasm - t0) + ' ms, images ' + Math.round(tRender - tWasm) + ' ms');
 
-    neighbours(info);
+    renderExtras(document.getElementById('weaver-nn'), info.slug, false);
   }
 
   /* The first embedded supplier shade table (the STA legend for now; a chooser when more land). */
@@ -250,25 +280,99 @@
       ';filter:grayscale(1) invert(1) contrast(100);">' + esc(hex) + '</span></code>';
   }
 
-  /* Fetches the shipped ΔTartan index lazily — after the page is on screen — then lists the ten
-   * nearest existing variants, linking into the static dictionary. */
-  function neighbours(info) {
-    var box = document.getElementById('weaver-nn');
+  /* Fetches the shipped ΔTartan index lazily, then fills container with the ten nearest existing
+   * variants and the neighbour map — the same section on weaver pages and hydrated static pages.
+   * quiet failures clear the container instead of explaining themselves. */
+  function renderExtras(container, slug, quiet) {
+    container.innerHTML = '<h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p>';
     var tFetch = performance.now();
-    loadIndexOnce().then(function (count) {
-      var nn = window.weaver.neighbours(info.slug, 10);
+    loadIndexOnce().then(function (loaded) {
+      var nn = window.weaver.neighbours(slug, 10);
       if (nn.error) throw new Error(nn.error);
       var items = nn.hits.map(function (hit) {
         var name = hit.name || 'Unnamed variant';
         return '<li><a href="' + hit.url + '">' + esc(name) + '</a> — ΔTartan ' +
           hit.dist.toFixed(2) + '</li>';
       });
-      box.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan distance.</p>' +
-        '<ol>' + items.join('') + '</ol>';
-      statLine('neighbours over ' + count + ' variants in ' +
+      var pct = Math.round((loaded.explained[0] + loaded.explained[1]) * 100);
+      container.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan distance.</p>' +
+        '<ol>' + items.join('') + '</ol>' +
+        '<h2>Neighbour map</h2><p>Every grey dot is one of ' + loaded.count +
+        ' existing variants placed by the first two principal components of the ΔTartan feature space (' +
+        pct + '% of its variance). Red is this tartan; blue dots are its ten nearest — click one to visit it.</p>';
+      var cloud = window.weaver.plotCloud(2500);
+      if (!cloud.error) drawPlot(container, cloud, nn);
+      statLine('neighbours over ' + loaded.count + ' variants in ' +
         Math.round(performance.now() - tFetch) + ' ms (fetch + index + query)');
     }).catch(function (err) {
-      box.innerHTML = '<h2>Nearest tartans</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
+      container.innerHTML = quiet ? '' :
+        '<h2>Nearest tartans</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
+    });
+  }
+
+  /* The neighbour map: corpus cloud in grey, the ten nearest in blue (clickable), this tartan in
+   * red. Plain canvas — 2,500 background points is nothing to draw but plenty of shape. */
+  function drawPlot(container, cloud, nn) {
+    var W = Math.min(640, container.clientWidth || 640), H = 380, pad = 14;
+    var canvas = document.createElement('canvas');
+    canvas.width = W;
+    canvas.height = H;
+    canvas.style.cssText = 'max-width:100%;border:1px solid #e0e0e0;border-radius:4px;display:block';
+    container.appendChild(canvas);
+
+    // Frame the bulk of the cloud (1st–99th percentile), not its extreme outliers, but always
+    // include this tartan and its neighbours; background points outside the frame are skipped.
+    function pct(sorted, q) { return sorted[Math.floor(q * (sorted.length - 1))]; }
+    var xs = cloud.map(function (p) { return p[0]; }).sort(function (a, b) { return a - b; });
+    var ys = cloud.map(function (p) { return p[1]; }).sort(function (a, b) { return a - b; });
+    var minX = pct(xs, 0.01), maxX = pct(xs, 0.99), minY = pct(ys, 0.01), maxY = pct(ys, 0.99);
+    function grow(x, y) {
+      if (x < minX) minX = x; if (x > maxX) maxX = x;
+      if (y < minY) minY = y; if (y > maxY) maxY = y;
+    }
+    grow(nn.x, nn.y);
+    nn.hits.forEach(function (h) { grow(h.x, h.y); });
+    if (maxX === minX) maxX = minX + 1;
+    if (maxY === minY) maxY = minY + 1;
+    function sx(x) { return pad + (x - minX) / (maxX - minX) * (W - 2 * pad); }
+    function sy(y) { return H - pad - (y - minY) / (maxY - minY) * (H - 2 * pad); }
+
+    var ctx = canvas.getContext('2d');
+    ctx.fillStyle = '#d8d8d8';
+    cloud.forEach(function (p) {
+      if (p[0] < minX || p[0] > maxX || p[1] < minY || p[1] > maxY) return;
+      ctx.fillRect(sx(p[0]) - 1, sy(p[1]) - 1, 2, 2);
+    });
+
+    function dot(x, y, r, fill) {
+      ctx.beginPath();
+      ctx.arc(x, y, r, 0, 2 * Math.PI);
+      ctx.fillStyle = fill;
+      ctx.fill();
+    }
+    var marks = nn.hits.map(function (h) {
+      return { x: sx(h.x), y: sy(h.y), url: h.url, name: h.name };
+    });
+    marks.forEach(function (m) { dot(m.x, m.y, 4, '#3465a4'); });
+    dot(sx(nn.x), sy(nn.y), 5, '#c00000');
+
+    function markAt(ev) {
+      var r = canvas.getBoundingClientRect();
+      var x = (ev.clientX - r.left) * (W / r.width), y = (ev.clientY - r.top) * (H / r.height);
+      for (var i = 0; i < marks.length; i++) {
+        var dx = marks[i].x - x, dy = marks[i].y - y;
+        if (dx * dx + dy * dy <= 64) return marks[i];
+      }
+      return null;
+    }
+    canvas.addEventListener('mousemove', function (ev) {
+      var m = markAt(ev);
+      canvas.style.cursor = m ? 'pointer' : 'default';
+      canvas.title = m ? (m.name || 'Unnamed variant') : '';
+    });
+    canvas.addEventListener('click', function (ev) {
+      var m = markAt(ev);
+      if (m) location.href = m.url;
     });
   }
 
@@ -287,7 +391,7 @@
     ]).then(function (parts) {
       var loaded = window.weaver.loadIndex(parts[0], new Uint8Array(parts[1]));
       if (loaded.error) throw new Error(loaded.error);
-      return loaded.count;
+      return loaded; // {count, explained}
     }).catch(function (err) {
       indexPromise = null; // allow a retry on the next render
       throw err;

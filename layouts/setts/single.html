@@ -24,7 +24,7 @@
     {{ .Content }}
   </div>
 
-  <div id="weaver-extras" data-weaver="extras"></div>
+  <div id="weaver-extras" data-weaver="extras"{{ with .Params.slug_full }} data-slug="{{ . }}"{{ end }}></div>
 
   <div class="comments">
   {{ partial "comments.html" . }}

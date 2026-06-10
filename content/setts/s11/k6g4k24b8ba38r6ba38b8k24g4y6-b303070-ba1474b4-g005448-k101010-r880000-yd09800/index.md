@@ -1,13 +1,13 @@
 ---
-title: "Loch Lomond Millenium (Fashion)"
+title: "Loch Lomond Millenium"
 date: 2023-03-18
 ---
 In pattern [KGKBBRBBKGY](/patterns/kgkbbrbbkgy/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2520/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2153
 
 ## Thread count
 DY/6 G4 K24 DB8 B38 DR6 B38 DB8 K24 G4 K/6

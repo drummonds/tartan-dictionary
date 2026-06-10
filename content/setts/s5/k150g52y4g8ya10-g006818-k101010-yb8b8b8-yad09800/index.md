@@ -1,13 +1,13 @@
 ---
-title: "Perry Htg (Personal)"
+title: "Perry Hunting (Green) (Personal)"
 date: 2023-03-18
 ---
 In pattern [KGYGY](/patterns/kgygy/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1119/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3323
 
 ## Thread count
 DY/10 G8 N4 G52 K/150

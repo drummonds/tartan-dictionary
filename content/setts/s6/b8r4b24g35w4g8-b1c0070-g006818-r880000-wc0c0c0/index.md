@@ -1,13 +1,13 @@
 ---
-title: "Heritage Tartan, The (Corporate)"
+title: "Heritage Tartan, The"
 date: 2023-03-18
 ---
 In pattern [BRBGWG](/patterns/brbgwg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5185/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1697
 
 ## Thread count
 DB/8 DR4 DB24 G35 N4 G/8

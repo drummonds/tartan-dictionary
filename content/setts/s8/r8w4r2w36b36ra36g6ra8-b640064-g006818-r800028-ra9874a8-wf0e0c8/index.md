@@ -1,13 +1,13 @@
 ---
-title: "Gigha Lilac Fashion Tartan Tartan Number: 7582. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Gigha, Lilac (Dance)"
 date: 2023-03-18
 ---
 In pattern [RGRBWRWR](/patterns/rgrbwrwr/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7582
+Original link http://www.tartansauthority.com/tartan-ferret/display/7582/
 
 ## Thread count
 DR/8 W4 DR2 W36 P36 LP36 G6 LP/8

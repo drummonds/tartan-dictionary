@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BRGW](/patterns/brgw/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7809/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5768
 
 ## Thread count
 DB/104 R40 G40 LN/24

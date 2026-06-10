@@ -1,13 +1,13 @@
 ---
-title: "Orban-Prentice Personal Tartan Tartan Number: 5769. Earliest known date: 2002 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Orban-Prentice (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRBGBGBGBRBG](/patterns/brbgbgbgbrbg/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5769
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3259
 
 ## Thread count
 DB/8 R48 DB42 T50 DB8 G6 DB8 T50 DB42 R48 DB8 G/50

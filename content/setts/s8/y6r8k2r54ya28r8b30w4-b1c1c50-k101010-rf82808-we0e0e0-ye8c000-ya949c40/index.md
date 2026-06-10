@@ -1,13 +1,13 @@
 ---
-title: "Dalmagarry (Corporate)"
+title: "Dalmagarry (Personal)"
 date: 2023-03-18
 ---
 In pattern [WBRYRKRY](/patterns/wbryrkry/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7723/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5709
 
 ## Thread count
 LN/4 DB30 R8 LT28 R54 K2 R8 Y/6

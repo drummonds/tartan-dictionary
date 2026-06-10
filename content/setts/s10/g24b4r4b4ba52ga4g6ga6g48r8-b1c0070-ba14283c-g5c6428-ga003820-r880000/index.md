@@ -1,13 +1,13 @@
 ---
-title: "New South Wales Waratah (District)"
+title: "New South Wales Waratah"
 date: 2023-03-18
 ---
 In pattern [GBRBBGGGGR](/patterns/gbrbbggggr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4157/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3120
 
 ## Thread count
 DR/8 G48 DG6 G6 DG4 DN52 DB4 DR4 DB4 G/24
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#5C6428;"><span style="color:#5C6428;filter:grayscale(1) invert(1) contrast(100);">#5C6428</span></code> `#5C6428` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.09 |
 
 ID: /setts/s10/g24b4r4b4ba52ga4g6ga6g48r8-b1c0070-ba14283c-g5c6428-ga003820-r880000/
+80000/

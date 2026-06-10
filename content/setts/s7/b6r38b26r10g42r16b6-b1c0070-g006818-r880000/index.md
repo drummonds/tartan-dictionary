@@ -1,13 +1,13 @@
 ---
-title: "MacBean of Tomatin (Clan)"
+title: "MacBean of Tomatin"
 date: 2023-03-18
 ---
 In pattern [BRBRGRB](/patterns/brbrgrb/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3342/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5023
 
 ## Thread count
 DB/6 DR38 DB26 DR10 G42 DR16 DB/6
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/6 DR38 DB26 DR10 G42 DR16 DB/6 tartan")
 
 ID: /setts/s7/b6r38b26r10g42r16b6-b1c0070-g006818-r880000/
+0/

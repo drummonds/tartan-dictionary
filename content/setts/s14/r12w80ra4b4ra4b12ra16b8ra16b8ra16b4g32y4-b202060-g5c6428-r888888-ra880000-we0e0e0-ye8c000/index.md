@@ -1,13 +1,13 @@
 ---
-title: "Cairn (Fashion)"
+title: "Cairn"
 date: 2023-03-18
 ---
 In pattern [RWRBRBRBRBRBGY](/patterns/rwrbrbrbrbrbgy/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3778/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5010
 
 ## Thread count
 N/12 LN80 DR4 DB4 DR4 DB12 DR16 DB8 DR16 DB8 DR16 DB4 G32 Y/4

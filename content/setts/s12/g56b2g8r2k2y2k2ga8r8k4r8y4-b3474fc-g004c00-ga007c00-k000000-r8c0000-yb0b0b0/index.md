@@ -1,13 +1,13 @@
 ---
-title: "Carroll O'Reed (Fashion)"
+title: "Carroll O'Reed"
 date: 2023-03-18
 ---
 In pattern [GBGRKYKGRKRY](/patterns/gbgrkykgrkry/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4471/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=578
 
 ## Thread count
 Ga/56 B2 Ga8 DR2 K2 N2 K2 G8 DR8 K4 DR8 N/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
 ID: /setts/s12/g56b2g8r2k2y2k2ga8r8k4r8y4-b3474fc-g004c00-ga007c00-k000000-r8c0000-yb0b0b0/
+0b0b0/

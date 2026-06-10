@@ -1,13 +1,13 @@
 ---
-title: "Dundas (Clan)"
+title: "Dundas #2"
 date: 2023-03-18
 ---
 In pattern [KBKGRGK](/patterns/kbkgrgk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1041/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027
 
 ## Thread count
 K/8 DB32 K24 G24 R2 G4 K/4

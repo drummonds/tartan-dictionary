@@ -1,13 +1,13 @@
 ---
-title: "Lysaght (Clan)"
+title: "Lysaght"
 date: 2023-03-18
 ---
 In pattern [RRRRBRBRBYBY](/patterns/rrrrbrbrbyby/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6591/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2259
 
 ## Thread count
 DR/24 N16 DR24 N44 DB4 N12 DB12 N4 DB44 DY24 DB16 DY/24

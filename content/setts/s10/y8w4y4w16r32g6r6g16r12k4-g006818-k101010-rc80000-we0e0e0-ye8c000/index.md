@@ -1,13 +1,13 @@
 ---
-title: "Carolyn Melieres Family Tartan Tartan Number: 1171. Earliest known date: 1966 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Melieres, Carolyn (Personal)"
 date: 2023-03-18
 ---
 In pattern [KRGRGRWYWY](/patterns/krgrgrwywy/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1171
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2911
 
 ## Thread count
 K/4 R12 G16 R6 G6 R32 LN16 Y4 LN4 Y/8

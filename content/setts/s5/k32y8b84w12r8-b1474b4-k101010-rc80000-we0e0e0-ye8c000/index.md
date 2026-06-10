@@ -1,13 +1,13 @@
 ---
-title: "Oklahoma State American District Tartan Tartan Number: 2429. Earliest known date: March 1998 Registration application to the Authority documents Polly Wittering as the designer but the Resolution adopted by the House of Representatives on 6th April 1999, identifies Jerrel R. Murray as the 'creator' (possibly President Emeritus of United Scottish Clans of Oklahoma). See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Oklahoma"
 date: 2023-03-18
 ---
 In pattern [KYBWR](/patterns/kybwr/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2429
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4820
 
 ## Thread count
 K/32 Y8 Ba84 LN12 R/8

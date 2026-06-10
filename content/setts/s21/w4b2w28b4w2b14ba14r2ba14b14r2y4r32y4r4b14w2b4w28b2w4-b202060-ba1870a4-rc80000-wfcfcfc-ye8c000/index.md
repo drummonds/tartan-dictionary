@@ -1,13 +1,13 @@
 ---
-title: "New Providence Presb. Church (Corp)"
+title: "New Providence Presbyterian Church"
 date: 2023-03-18
 ---
 In pattern [WBWBWBBRBBRYRYRBWBWBW](/patterns/wbwbwbbrbbryryrbwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3885/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4861
 
 ## Thread count
 W/4 DB2 W28 DB4 W2 DB14 B14 R2 B14 DB14 R2 Y4 R32 Y4 R4 DB14 W2 DB4 W28 DB2 W/4

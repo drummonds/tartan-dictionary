@@ -1,13 +1,13 @@
 ---
-title: "MacDougall - 1970 (William) (Comm)"
+title: "MacDougall, William"
 date: 2023-03-18
 ---
 In pattern [RBRBRBKBRKY](/patterns/rbrbrbkbrky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3353/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348
 
 ## Thread count
 R/10 K10 R10 K10 R10 K28 Ka32 DN28 R6 Ka6 Y/6

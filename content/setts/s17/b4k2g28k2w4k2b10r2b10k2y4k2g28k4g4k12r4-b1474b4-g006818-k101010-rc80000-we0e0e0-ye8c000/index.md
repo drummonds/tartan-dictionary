@@ -1,13 +1,13 @@
 ---
-title: "Duncan of Sketraw (Name)"
+title: "Duncan of Sketraw"
 date: 2023-03-18
 ---
 In pattern [BKGKWKBRBKYKGKGKR](/patterns/bkgkwkbrbkykgkgkr/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6497/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5301
 
 ## Thread count
 B/4 K2 G28 K2 LN4 K2 B10 R2 B10 K2 Y4 K2 G28 K4 G4 K12 R/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s17/b4k2g28k2w4k2b10r2b10k2y4k2g28k4g4k12r4-b1474b4-g006818-k101010-rc80000-we0e0e0-ye8c000/
+0/

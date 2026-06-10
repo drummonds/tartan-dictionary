@@ -1,13 +1,13 @@
 ---
-title: "Herriot Name Tartan Tartan Number: 10128. Earliest known date: 4th January 2010 A tartan for the use of all those who spell their surname as Herriot, a variant spelling of Heriot. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Herriot (New Zealand) (Name)"
 date: 2023-03-18
 ---
 In pattern [BBYBYW](/patterns/bbybyw/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10128
+Original link http://www.tartansauthority.com/tartan-ferret/display/10128/
 
 ## Thread count
 DB/10 B40 N3 DB5 Y2 LN/15

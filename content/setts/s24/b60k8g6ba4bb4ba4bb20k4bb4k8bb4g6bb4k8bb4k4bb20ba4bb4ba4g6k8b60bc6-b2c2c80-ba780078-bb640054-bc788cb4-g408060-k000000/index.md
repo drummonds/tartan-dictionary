@@ -1,5 +1,5 @@
 ---
-title: "Scotland 1782 #2"
+title: "Scotland 1782"
 date: 2023-03-18
 ---
 In pattern [BBKGBBBBKBKBGBKBKBBBBGKB](/patterns/bbkgbbbbkbkbgbkbkbbbbgkb/).
@@ -7,7 +7,7 @@ In pattern [BBKGBBBBKBKBGBKBKBBBBGKB](/patterns/bbkgbbbbkbkbgbkbkbbbbgkb/).
 
 This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3675
 
 ## Thread count
 B/6 DBa60 K8 G6 Pa4 P4 Pa4 P20 K4 P4 K8 P4 G6 P4 K8 P4 K4 P20 Pa4 P4 Pa4 G6 K8 DBa/60

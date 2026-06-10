@@ -1,13 +1,13 @@
 ---
-title: "Longford, County (District)"
+title: "Longford, County"
 date: 2023-03-18
 ---
 In pattern [BKBGKGGRGR](/patterns/bkbgkggrgr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2281/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2201
 
 ## Thread count
 DB/10 K6 DB36 DG12 K12 DG12 T24 R10 T24 R/6

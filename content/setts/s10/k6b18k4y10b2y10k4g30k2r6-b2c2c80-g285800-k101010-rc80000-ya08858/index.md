@@ -1,13 +1,13 @@
 ---
-title: "New Zealand (District) 2003)"
+title: "New Zealand (2003)"
 date: 2023-03-18
 ---
 In pattern [KBKYBYKGKR](/patterns/kbkybykgkr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5790/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3125
 
 ## Thread count
 K/6 DB18 K4 LT10 DB2 LT10 K4 G30 K2 R/6

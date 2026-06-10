@@ -1,13 +1,13 @@
 ---
-title: "Brook (Check)"
+title: "Brook (Estate Check)"
 date: 2023-03-18
 ---
 In pattern [BRYBYBYBYB](/patterns/brybybybyb/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5004
+Original link http://www.tartansauthority.com/tartan-ferret/display/3734/
 
 ## Thread count
 N/16 DR4 Na16 T16 Na16 N16 Na16 T16 Na16 N/16

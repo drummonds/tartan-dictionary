@@ -1,13 +1,13 @@
 ---
-title: "Guelph, City Of (District)"
+title: "Guelph, City Of"
 date: 2023-03-18
 ---
 In pattern [GKGRGKBY](/patterns/gkgrgkby/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2186/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1558
 
 ## Thread count
 DY/4 DB40 K40 G8 DR4 G8 K4 G/48
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/4 DB40 K40 G8 DR4 G8 K4 G/48 tartan")
 
 ID: /setts/s8/g48k4g8r4g8k40b40y4-b1c0070-g006818-k101010-r880000-yd09800/
+09800/

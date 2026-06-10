@@ -1,13 +1,13 @@
 ---
-title: "Pride of New Zealand"
+title: "Pride of New Zealand (District?)"
 date: 2023-03-18
 ---
 In pattern [BKWK](/patterns/bkwk/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3373
+Original link http://www.tartansauthority.com/tartan-ferret/display/2632/
 
 ## Thread count
 K/2 W2 K60 N/124

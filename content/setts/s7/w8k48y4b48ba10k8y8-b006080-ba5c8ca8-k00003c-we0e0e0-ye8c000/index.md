@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/8 DB48 Y4 Ba48 B10 DB8 Y/8 tartan")
 
 ID: /setts/s7/w8k48y4b48ba10k8y8-b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000/
+e8c000/

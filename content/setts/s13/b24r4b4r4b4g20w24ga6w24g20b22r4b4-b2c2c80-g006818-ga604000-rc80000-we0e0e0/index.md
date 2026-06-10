@@ -1,13 +1,13 @@
 ---
-title: "Idaho Centennial Commemorative Tartan Tartan Number: 2116. Earliest known date: 1989 Approved by the Idaho Centennial Commission as the official Idaho tartan. The Lasting Legacy Committee of the Centennial Commission also made mention of a \"Mr John McEwing who contributed so much to the heritage of the Scots in Idaho.\" See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Idaho (District)"
 date: 2023-03-18
 ---
 In pattern [BRBGWGWGBRBRB](/patterns/brbgwgwgbrbrb/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2116
+Original link http://www.tartansauthority.com/tartan-ferret/display/2116/
 
 ## Thread count
 DB/4 R4 DB22 G20 LN24 T6 LN24 G20 DB4 R4 DB4 R4 DB/24

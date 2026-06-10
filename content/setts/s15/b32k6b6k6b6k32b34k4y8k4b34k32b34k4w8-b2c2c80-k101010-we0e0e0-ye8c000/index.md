@@ -1,13 +1,13 @@
 ---
-title: "Fleming/Frisken/Flanders"
+title: "Fleming/Frisken/Flanders (Commem.)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKBKYKBKBKW](/patterns/bkbkbkbkykbkbkw/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204
+Original link http://www.tartansauthority.com/tartan-ferret/display/2531/
 
 ## Thread count
 DB/32 K6 DB6 K6 DB6 K32 DB34 K4 Y8 K4 DB34 K32 DB34 K4 LN/8

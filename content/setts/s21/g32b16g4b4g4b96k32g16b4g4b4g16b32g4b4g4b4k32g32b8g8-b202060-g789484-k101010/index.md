@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LG | <code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> `#789484` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.23 |
 
 ID: /setts/s21/g32b16g4b4g4b96k32g16b4g4b4g16b32g4b4g4b4k32g32b8g8-b202060-g789484-k101010/
+101010/

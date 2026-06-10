@@ -1,13 +1,13 @@
 ---
-title: "German MacLeod (Corporate)"
+title: "German MacLeod"
 date: 2023-03-18
 ---
 In pattern [WKGKBKRY](/patterns/wkgkbkry/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6816/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1336
 
 ## Thread count
 LB/4 K2 G26 K12 B54 K4 R4 Y/4
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LB/4 K2 G26 K12 B54 K4 R4 Y/4 tartan")
 
 ID: /setts/s8/w4k2g26k12b54k4r4y4-b1474b4-g006818-k101010-rc80000-w98c8e8-ye8c000/
+e8c000/

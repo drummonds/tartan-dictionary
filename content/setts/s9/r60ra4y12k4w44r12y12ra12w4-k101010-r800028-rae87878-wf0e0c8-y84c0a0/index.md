@@ -1,13 +1,13 @@
 ---
-title: "Etive Burgundy"
+title: "Etive, Burgundy (Dance)"
 date: 2023-03-18
 ---
 In pattern [RRYKWRYRW](/patterns/rrykwryrw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5600
+Original link http://www.tartansauthority.com/tartan-ferret/display/7576/
 
 ## Thread count
 DR/60 LR4 LG12 K4 W44 DR12 LG12 LR12 W/4

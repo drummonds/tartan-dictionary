@@ -1,13 +1,13 @@
 ---
-title: "Caledonian Cameron Commando"
+title: "Caledonian Cameron Commando (Corp)"
 date: 2023-03-18
 ---
 In pattern [RWKWKWKYGRKRWR](/patterns/rwkwkwkygrkrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=472
+Original link http://www.tartansauthority.com/tartan-ferret/display/5598/
 
 ## Thread count
 R/42 LB18 K4 LB4 K4 LB18 K36 Y6 DG42 R26 K6 R26 W4 R/26

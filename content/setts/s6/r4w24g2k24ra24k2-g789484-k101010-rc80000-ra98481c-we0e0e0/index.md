@@ -1,13 +1,13 @@
 ---
-title: "Dutch Dress (District)"
+title: "Dutch Dress"
 date: 2023-03-18
 ---
 In pattern [KRKGWR](/patterns/krkgwr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1133/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1055
 
 ## Thread count
 K/2 T24 K24 LG2 LN24 R/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/2 T24 K24 LG2 LN24 R/4 tartan")
 
 ID: /setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/
+0e0e0/

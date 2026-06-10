@@ -1,13 +1,13 @@
 ---
-title: "Innes Htg (Clan?)"
+title: "Innes Hunting"
 date: 2023-03-18
 ---
 In pattern [KGWK](/patterns/kgwk/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/368/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831
 
 ## Thread count
 K/10 G72 LB14 K/60

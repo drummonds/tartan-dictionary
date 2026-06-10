@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KGRGKW](/patterns/kgrgkw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3319
+Original link http://www.tartansauthority.com/tartan-ferret/display/6221/
 
 ## Thread count
 K/166 G8 R8 G20 K2 W/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/166 G8 R8 G20 K2 W/6 tartan")
 
 ID: /setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/
+fc/

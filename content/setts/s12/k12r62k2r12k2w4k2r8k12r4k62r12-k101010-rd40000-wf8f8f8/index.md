@@ -1,13 +1,13 @@
 ---
-title: "University of Georgia (Corporate)"
+title: "University of Georgia"
 date: 2023-03-18
 ---
 In pattern [KRKRKWKRKRKR](/patterns/krkrkwkrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7688/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5687
 
 ## Thread count
 K/12 R62 K2 R12 K2 W4 K2 R8 K12 R4 K62 R/12

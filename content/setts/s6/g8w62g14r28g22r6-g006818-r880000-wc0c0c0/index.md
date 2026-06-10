@@ -1,13 +1,13 @@
 ---
-title: "Gleneagles USA (Corporate)"
+title: "Gleneagles USA (Dalgleish)"
 date: 2023-03-18
 ---
 In pattern [GWGRGR](/patterns/gwgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5032/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1413
 
 ## Thread count
 DR/6 G22 DR28 G14 N62 G/8

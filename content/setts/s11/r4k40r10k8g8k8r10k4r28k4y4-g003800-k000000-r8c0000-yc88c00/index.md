@@ -1,13 +1,13 @@
 ---
-title: "Canterbury (Fashion)"
+title: "Canterbury"
 date: 2023-03-18
 ---
 In pattern [RKRKGKRKRKY](/patterns/rkrkgkrkrky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3265/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326
 
 ## Thread count
 DR/4 K40 DR10 K8 G8 K8 DR10 K4 DR28 K4 DY/4

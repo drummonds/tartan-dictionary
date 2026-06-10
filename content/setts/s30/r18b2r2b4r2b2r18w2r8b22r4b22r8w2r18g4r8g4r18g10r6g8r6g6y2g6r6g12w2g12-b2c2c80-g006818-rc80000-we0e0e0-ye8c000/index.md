@@ -1,13 +1,13 @@
 ---
-title: "Lumsden Short version Family Tartan Tartan Number: 931. Earliest known date: 0 One of a set of three similar designs for Laurie, Lawrie and Lowry. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Lumsden (Clan)"
 date: 2023-03-18
 ---
 In pattern [GWGRGYGRGRGRGRGRWRBRBRWRBRBRBR](/patterns/gwgrgygrgrgrgrgrwrbrbrwrbrbrbr/).
 
 
-This was sourced from house-of-tartan.  It is a [30 stripes tartan](/stripes/stripes30/).
+This was sourced from tartans-authority.  It is a [30 stripes tartan](/stripes/stripes30/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=931
+Original link http://www.tartansauthority.com/tartan-ferret/display/931/
 
 ## Thread count
 G/12 LN2 G12 R6 G6 Y2 G6 R6 G8 R6 G10 R18 G4 R8 G4 R18 LN2 R8 DB22 R4 DB22 R8 LN2 R18 DB2 R2 DB4 R2 DB2 R/18

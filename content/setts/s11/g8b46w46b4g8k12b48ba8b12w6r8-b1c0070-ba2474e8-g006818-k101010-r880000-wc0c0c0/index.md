@@ -1,13 +1,13 @@
 ---
-title: "New Millennium (Fashion)"
+title: "New Millennium"
 date: 2023-03-18
 ---
 In pattern [GBWBGKBBBWR](/patterns/gbwbgkbbbwr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5622/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3117
 
 ## Thread count
 DR/8 N6 DB12 B8 DB48 K12 G8 DB4 N46 DB46 G/8
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
 ID: /setts/s11/g8b46w46b4g8k12b48ba8b12w6r8-b1c0070-ba2474e8-g006818-k101010-r880000-wc0c0c0/
+c0c0/

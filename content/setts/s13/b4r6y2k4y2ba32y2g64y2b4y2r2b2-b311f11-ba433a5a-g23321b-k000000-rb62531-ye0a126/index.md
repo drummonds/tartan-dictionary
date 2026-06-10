@@ -1,13 +1,13 @@
 ---
-title: "Neumann, Marcus Name Tartan Tartan Number: 10606. Earliest known date: 24/04/2012 Created primarily for the designer and his immediate family but also for German pipe smokers to share. The broad fields of green and blue represent the Scottish landscape. The red, black and gold reflect the designer's German origins and the main tobaccos blended for pipe smoking (gold for Virginia; black for Latakia; red for Virginia; brown for Burley). Design created online at Scotweb. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Neumann - GPS German Pipe Smokers"
 date: 2023-03-18
 ---
 In pattern [BRYBYGYBYKYRB](/patterns/brybygybykyrb/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10606
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10606
 
 ## Thread count
 K/2 R2 Y2 K4 Y2 Ka64 Y2 N32 Y2 T4 Y2 R6 K/4

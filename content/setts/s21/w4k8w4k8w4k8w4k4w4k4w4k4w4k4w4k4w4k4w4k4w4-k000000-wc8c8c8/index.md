@@ -1,13 +1,13 @@
 ---
-title: "Glenurquhart (Estate Check)"
+title: "Glenurquhart Estate Check"
 date: 2023-03-18
 ---
 In pattern [WKWKWKWKWKWKWKWKWKWKW](/patterns/wkwkwkwkwkwkwkwkwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5048/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1440
 
 ## Thread count
 N/4 K4 N4 K4 N4 K4 N4 K4 N4 K4 N4 K4 N4 K4 N4 K8 N4 K8 N4 K8 N/4

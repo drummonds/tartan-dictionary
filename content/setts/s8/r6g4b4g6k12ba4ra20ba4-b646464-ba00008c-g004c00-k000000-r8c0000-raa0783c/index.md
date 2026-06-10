@@ -1,13 +1,13 @@
 ---
-title: "Burnfoot Check"
+title: "Burnfoot Check (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BRBKGBGR](/patterns/brbkgbgr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4936
+Original link http://www.tartansauthority.com/tartan-ferret/display/3773/
 
 ## Thread count
 DB/4 LT20 DB4 K12 G6 N4 G4 DR/6

@@ -1,13 +1,13 @@
 ---
-title: "Glennie, The Rhythms of Evelyn (Corp"
+title: "Glennie, The Rhythms of Evelyn"
 date: 2023-03-18
 ---
 In pattern [KBKRBKYKRKR](/patterns/kbkrbkykrkr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2586/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432
 
 ## Thread count
 K/4 DB4 K6 R4 DB6 K4 Y4 K6 R4 K8 R/50

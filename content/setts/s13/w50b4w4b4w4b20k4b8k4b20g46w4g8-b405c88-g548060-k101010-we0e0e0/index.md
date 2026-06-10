@@ -1,13 +1,13 @@
 ---
-title: "Oliphant Dress Clan Tartan Tartan Number: 9227. Earliest known date: 2010 Intended as the officially recognised dress tartan for the Oliphant clan. The design proposal has the clan chief's approval. Chief Richard Oliphant said, \"I am more than happy with the design and glad to have it.\" The main elements of the Oliphant tartan have been preserved in the new design and woven in the brightest ancient colours. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Oliphant Dress"
 date: 2023-03-18
 ---
 In pattern [GWGBKBKBWBWBW](/patterns/gwgbkbkbwbwbw/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9227
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10227
 
 ## Thread count
 Ga/8 LN4 Ga46 B20 K4 B8 K4 B20 LN4 B4 LN4 B4 LN/50

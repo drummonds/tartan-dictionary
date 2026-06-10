@@ -1,13 +1,13 @@
 ---
-title: "Mandela (Commemorative)"
+title: "Mandela Commemorative"
 date: 2023-03-18
 ---
 In pattern [GYKGRBKRKYKR](/patterns/gykgrbkrkykr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2359/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2800
 
 ## Thread count
 G/16 Y4 K12 G22 R4 DB24 K24 R4 K12 Y4 K8 R/6

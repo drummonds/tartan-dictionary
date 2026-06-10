@@ -1,13 +1,13 @@
 ---
-title: "Sakura (Fashion)"
+title: "Sakura (Japanese Four Seasons)"
 date: 2023-03-18
 ---
 In pattern [GYGYYWYYYWGWWW](/patterns/gygyywyyywgwww/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7739/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5721
 
 ## Thread count
 LR/12 LN4 LR50 T4 LN18 G4 LG8 G4 LN18 G4 LG30 T4 LG4 T/8

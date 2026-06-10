@@ -1,13 +1,13 @@
 ---
-title: "Westfalia German Corporate Tartan Tartan Number: 7523. Earliest known date: June 2002 A worsted scarf for a German dairy machinery company. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Westfalia"
 date: 2023-03-18
 ---
 In pattern [GWGWBR](/patterns/gwgwbr/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7523
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5560
 
 ## Thread count
 G/88 LY36 G12 LY22 DB2 O/8

@@ -28,3 +28,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/6 G24 K26 W4 DB26 W/6 tartan")
 
 ID: /setts/s6/b6g24k26w4b26w6-b2c2c80-g006818-k101010-wfcfcfc/
+01010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.17 |
+| P | <code style="background-color:#6840FC;"><span style="color:#6840FC;filter:grayscale(1) invert(1) contrast(100);">#6840FC</span></code> `#6840FC` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.21 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DBa/6 G24 K26 W4 DBa26 W/6 tartan")
+
+ID: /setts/s6/b6g24k26w4b26w6-b2c2c80-g006818-k101010-wfcfcfc/

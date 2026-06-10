@@ -1,5 +1,5 @@
 ---
-title: "MacPhie"
+title: "MacFie"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRY](/patterns/wrgrgrgry/).
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#FFC800;"><span style="color:#FFC800;filter:grayscale(1) invert(1) contrast(100);">#FFC800</span></code> `#FFC800` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
 
 ID: /setts/s9/w1r12g2r1g16r1g2r12y1-g004c00-rc80000-wd0d0d0-yffc800/
+

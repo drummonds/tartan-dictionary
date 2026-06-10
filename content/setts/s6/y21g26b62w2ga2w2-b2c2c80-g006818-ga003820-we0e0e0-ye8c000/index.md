@@ -1,13 +1,13 @@
 ---
-title: "Nynashamn Whisky Society (Corporate)"
+title: "Nynaeshamn Whisky Society"
 date: 2023-03-18
 ---
 In pattern [WGWBGY](/patterns/wgwbgy/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7641/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5655
 
 ## Thread count
 LN/2 DG2 LN2 DB62 G26 Y/21
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/2 DG2 LN2 DB62 G26 Y/21 tartan")
 
 ID: /setts/s6/y21g26b62w2ga2w2-b2c2c80-g006818-ga003820-we0e0e0-ye8c000/
+8c000/

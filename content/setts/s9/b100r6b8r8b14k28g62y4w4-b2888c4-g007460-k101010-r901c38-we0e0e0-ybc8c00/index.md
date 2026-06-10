@@ -1,13 +1,13 @@
 ---
-title: "Highland Glen (Corporate)"
+title: "Highland Glen Corporate Tartan Tartan Number: 7521. Earliest known date: Jan 2008 A corporate tartan for McMullin Kilts of New Deer, Aberdeenshire. Designed by Susan McMullin and Heather Yellowley (Strathmore Woollen Co.) Colours represent the Highland glens of Scotland - green of the hills, blue of the burns and red/burgundy of the heathers. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BRBRBKGYW](/patterns/brbrbkgyw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7521/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7521
 
 ## Thread count
 B/100 DR6 B8 DR8 B14 K28 G62 DY4 LN/4

@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BKRKGRGWGRGKRKBRBRBW](/patterns/bkrkgrgwgrgkrkbrbrbw/).
 
 
-This was sourced from register-of-tartans.  It is a [20 stripes tartan](/stripes/stripes20/).
+This was sourced from tartans-authority.  It is a [20 stripes tartan](/stripes/stripes20/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3463
+Original link http://www.tartansauthority.com/tartan-ferret/display/3242/
 
 ## Thread count
 DB/66 K6 R4 K6 G18 R4 G14 LN4 G14 R4 G18 K6 R4 K6 DB14 R4 DB4 R4 DB6 LN/4

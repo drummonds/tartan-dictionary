@@ -1,13 +1,13 @@
 ---
-title: "Over Mountain (Commemorative)"
+title: "Over Mountain"
 date: 2023-03-18
 ---
 In pattern [GWGWBWR](/patterns/gwgwbwr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2448/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3278
 
 ## Thread count
 DR/4 LP2 DB16 LP16 LT16 LP2 LT/2

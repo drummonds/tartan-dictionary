@@ -1,13 +1,13 @@
 ---
-title: "Dege of Saville Row Corporate Tartan Tartan Number: 2112. Earliest known date: 1990 The choice of design and colours reflects the history and tradition of Dege of Saville Row and its relationship to country life and sporting activities since 1865. Dege make high quality ceremonial and military dress. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Dege of Saville Row (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GBGBBR](/patterns/gbgbbr/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2112
+Original link http://www.tartansauthority.com/tartan-ferret/display/2112/
 
 ## Thread count
 R/4 DBa36 DB4 T12 DBa4 T/44

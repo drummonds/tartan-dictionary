@@ -1,13 +1,13 @@
 ---
-title: "American Soc.of Travel Agents (Corp)"
+title: "American Society of Travel Agents, The"
 date: 2023-03-18
 ---
 In pattern [BRBRBRBGW](/patterns/brbrbrbgw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2316/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=71
 
 ## Thread count
 DB/4 N20 DB2 N2 DB20 R2 DB20 G20 LN/4

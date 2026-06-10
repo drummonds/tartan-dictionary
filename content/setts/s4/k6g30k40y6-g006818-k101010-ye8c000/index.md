@@ -1,13 +1,13 @@
 ---
-title: "Scotch Tape 2 (Corporate)"
+title: "Scotch Tape #2"
 date: 2023-03-18
 ---
 In pattern [KGKY](/patterns/kgky/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7783/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5752
 
 ## Thread count
 K/6 G30 K40 Y/6
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 G30 K40 Y/6 tartan")
 
 ID: /setts/s4/k6g30k40y6-g006818-k101010-ye8c000/
+8c000/

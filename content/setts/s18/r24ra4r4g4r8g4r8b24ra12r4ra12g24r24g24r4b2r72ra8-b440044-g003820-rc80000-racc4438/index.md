@@ -1,13 +1,13 @@
 ---
-title: "MacCoul (Clan)"
+title: "MacCoul"
 date: 2023-03-18
 ---
 In pattern [RRBRGRGRRRBRGRGRRR](/patterns/rrbrgrgrrrbrgrgrrr/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1635/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2327
 
 ## Thread count
 R/8 Ra72 DP2 Ra4 DG24 Ra24 DG24 R12 Ra4 R12 DP24 Ra8 DG4 Ra8 DG4 Ra4 R4 Ra/24
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Ra | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s18/r24ra4r4g4r8g4r8b24ra12r4ra12g24r24g24r4b2r72ra8-b440044-g003820-rc80000-racc4438/
+8/

@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GBGRGKBK](/patterns/gbgrgkbk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6589/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4779
 
 ## Thread count
 G/22 B6 G10 R6 G10 K44 DB44 K/10

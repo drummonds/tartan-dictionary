@@ -1,13 +1,13 @@
 ---
-title: "MacKintosh - 1819 (Clan)"
+title: "MacKintosh"
 date: 2023-03-18
 ---
 In pattern [BRGRBR](/patterns/brgrbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/521/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2559
 
 ## Thread count
 DB/3 R10 G40 R10 DB20 R/70
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/3 R10 G40 R10 DB20 R/70 tartan")
 
 ID: /setts/s6/r70b20r10g40r10b3-b2c2c80-g006818-rc80000/
+rc80000/

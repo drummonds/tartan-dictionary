@@ -1,13 +1,13 @@
 ---
-title: "Green Watch (Fashion)"
+title: "Green Watch"
 date: 2023-03-18
 ---
 In pattern [GRGRYGR](/patterns/grgrygr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5114/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526
 
 ## Thread count
 G/40 LT4 G4 LT4 N8 G4 LT/4
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/40 LT4 G4 LT4 N8 G4 LT/4 tartan")
 
 ID: /setts/s7/g40r4g4r4y8g4r4-g004c00-ra0783c-yb0b0b0/
+b0b0/

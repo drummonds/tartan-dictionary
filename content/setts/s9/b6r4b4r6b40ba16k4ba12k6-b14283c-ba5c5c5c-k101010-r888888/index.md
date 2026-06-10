@@ -1,13 +1,13 @@
 ---
-title: "Scottish Monuments (Corporate)"
+title: "Scottish Monuments"
 date: 2023-03-18
 ---
 In pattern [BRBRBBKBK](/patterns/brbrbbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3185/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5107
 
 ## Thread count
 DN/6 Na4 DN4 Na6 DN40 N16 K4 N12 K/6
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
 ID: /setts/s9/b6r4b4r6b40ba16k4ba12k6-b14283c-ba5c5c5c-k101010-r888888/
+888888/

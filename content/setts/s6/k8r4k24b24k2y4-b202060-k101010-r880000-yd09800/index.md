@@ -1,13 +1,13 @@
 ---
-title: "Robert Gordon University University Tartan Tartan Number: 2450. Earliest known date: pre 2002 Designed by Mike King of Philip King Kiltmakers in Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Robert Gordon University (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KRKBKY](/patterns/krkbky/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2450
+Original link http://www.tartansauthority.com/tartan-ferret/display/2450/
 
 ## Thread count
 DY/4 K2 DB24 K24 DR4 K/8

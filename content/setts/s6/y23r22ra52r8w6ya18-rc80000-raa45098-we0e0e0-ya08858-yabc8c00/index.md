@@ -1,13 +1,13 @@
 ---
-title: "Lady Boys of Bangkok (Corporate)"
+title: "Lady Boys of Bangkok"
 date: 2023-03-18
 ---
 In pattern [YRRRWY](/patterns/yrrrwy/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7142/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5075
 
 ## Thread count
 DY/18 LN6 R8 P52 R22 LT/23

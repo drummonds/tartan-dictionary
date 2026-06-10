@@ -1,13 +1,13 @@
 ---
-title: "Mackenzie"
+title: "MacKenzie - 1780 (Clan) as 78th"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKWKGKBKR](/patterns/bkbkbkgkwkgkbkr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2520
+Original link http://www.tartansauthority.com/tartan-ferret/display/267/
 
 ## Thread count
 B/24 K4 B4 K4 B4 K24 G24 K2 LN4 K2 G24 K24 B24 K2 R/4

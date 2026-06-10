@@ -1,13 +1,13 @@
 ---
-title: "Meeting Professionals Int. (Corp)"
+title: "Meeting Professionals International"
 date: 2023-03-18
 ---
 In pattern [RBKRKWKWKR](/patterns/rbkrkwkwkr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5962/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2908
 
 ## Thread count
 N/20 K6 LN6 K6 LN6 K6 N20 K14 DB40 R/6

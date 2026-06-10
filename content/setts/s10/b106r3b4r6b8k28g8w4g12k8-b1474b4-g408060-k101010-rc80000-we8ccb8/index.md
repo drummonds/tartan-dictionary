@@ -1,13 +1,13 @@
 ---
-title: "Parr (white lines) (Name)"
+title: "Parr"
 date: 2023-03-18
 ---
 In pattern [BRBRBKGWGK](/patterns/brbrbkgwgk/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/439/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3297
 
 ## Thread count
 B/106 R3 B4 R6 B8 K28 G8 LR4 G12 K/8
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/b106r3b4r6b8k28g8w4g12k8-b1474b4-g408060-k101010-rc80000-we8ccb8/
+c80000-we8ccb8/

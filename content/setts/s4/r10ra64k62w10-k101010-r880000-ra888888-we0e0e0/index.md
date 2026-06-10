@@ -1,13 +1,13 @@
 ---
-title: "Loganair (Corporate)"
+title: "Loganair"
 date: 2023-03-18
 ---
 In pattern [RRKW](/patterns/rrkw/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1629/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2190
 
 ## Thread count
 DR/10 N64 K62 LN/10

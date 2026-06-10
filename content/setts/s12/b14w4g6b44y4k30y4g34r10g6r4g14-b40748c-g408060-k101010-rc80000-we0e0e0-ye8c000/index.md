@@ -1,13 +1,13 @@
 ---
-title: "Paisley (District & Clan)"
+title: "Paisley"
 date: 2023-03-18
 ---
 In pattern [BWGBYKYGRGRG](/patterns/bwgbykygrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/640/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3284
 
 ## Thread count
 B/14 LN4 G6 B44 Y4 K30 Y4 G34 R10 G6 R4 G/14
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/b14w4g6b44y4k30y4g34r10g6r4g14-b40748c-g408060-k101010-rc80000-we0e0e0-ye8c000/
+0e0-ye8c000/

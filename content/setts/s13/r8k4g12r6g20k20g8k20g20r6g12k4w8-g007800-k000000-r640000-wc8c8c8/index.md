@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RKGRGKGKGRGKW](/patterns/rkgrgkgkgrgkw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4614/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=807
 
 ## Thread count
 DR/8 K4 G12 DR6 G20 K20 G8 K20 G20 DR6 G12 K4 N/8

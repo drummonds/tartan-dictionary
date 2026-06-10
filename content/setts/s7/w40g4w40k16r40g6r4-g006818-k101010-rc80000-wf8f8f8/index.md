@@ -1,13 +1,13 @@
 ---
-title: "Bull-Dog Sauce (Corporate)"
+title: "Bull-Dog Sauce"
 date: 2023-03-18
 ---
 In pattern [RGRKWGW](/patterns/rgrkwgw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7070/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=437
 
 ## Thread count
 R/4 G6 R40 K16 W40 G4 W/40
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/4 G6 R40 K16 W40 G4 W/40 tartan")
 
 ID: /setts/s7/w40g4w40k16r40g6r4-g006818-k101010-rc80000-wf8f8f8/
+wf8f8f8/

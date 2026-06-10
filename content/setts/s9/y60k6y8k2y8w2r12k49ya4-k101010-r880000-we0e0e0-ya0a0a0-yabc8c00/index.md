@@ -1,13 +1,13 @@
 ---
-title: "Motherwell Football Club. Modern"
+title: "Motherwell F.C. Modern (Sports)"
 date: 2023-03-18
 ---
 In pattern [YKRWYKYKY](/patterns/ykrwykyky/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3028
+Original link http://www.tartansauthority.com/tartan-ferret/display/7090/
 
 ## Thread count
 DY/4 K49 DR12 LN2 N8 K2 N8 K6 N/60

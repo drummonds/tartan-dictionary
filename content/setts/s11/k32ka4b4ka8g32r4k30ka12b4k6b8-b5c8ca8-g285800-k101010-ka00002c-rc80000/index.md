@@ -1,5 +1,5 @@
 ---
-title: "Scottish Tartans Authority (Corp.)"
+title: "Wilsons' No.060 (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKBKKRGKBKK](/patterns/bkbkkrgkbkk/).
@@ -7,7 +7,7 @@ In pattern [BKBKKRGKBKK](/patterns/bkbkkrgkbkk/).
 
 This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7556/
+Original link http://www.tartansauthority.com/tartan-ferret/display/243/
 
 ## Thread count
 B/8 K6 B4 DB12 K30 R4 G32 DB8 B4 DB4 K/32
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s11/k32ka4b4ka8g32r4k30ka12b4k6b8-b5c8ca8-g285800-k101010-ka00002c-rc80000/
+c80000/

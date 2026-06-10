@@ -1,13 +1,13 @@
 ---
-title: "Parkin (Personal)"
+title: "Parkin"
 date: 2023-03-18
 ---
 In pattern [BBWBWYBW](/patterns/bbwbwybw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6003/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295
 
 ## Thread count
 LN/6 DN18 Y2 LP6 P18 LP2 DN80 P/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/6 DN18 Y2 LP6 P18 LP2 DN80 P/4 tartan")
 
 ID: /setts/s8/w6b18y2wa6ba18wa2b80ba4-b14283c-ba780078-we0e0e0-waa8ace8-ye8c000/
+8c000/

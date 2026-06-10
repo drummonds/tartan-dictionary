@@ -1,13 +1,13 @@
 ---
-title: "Lendrum (Clan)"
+title: "Lendrum (Lyon version)"
 date: 2023-03-18
 ---
 In pattern [GWRKBGWRKRWGKR](/patterns/gwrkbgwrkrwgkr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3366/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5113
 
 ## Thread count
 G/6 LN8 R6 K8 P24 G4 LN4 R6 K2 R6 LN4 G24 K2 R/84

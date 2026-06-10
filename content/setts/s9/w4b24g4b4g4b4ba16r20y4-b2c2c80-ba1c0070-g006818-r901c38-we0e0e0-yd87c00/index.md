@@ -1,13 +1,13 @@
 ---
-title: "McLion"
+title: "McLion (Corporate)"
 date: 2023-03-18
 ---
 In pattern [WBGBGBBRY](/patterns/wbgbgbbry/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2897
+Original link http://www.tartansauthority.com/tartan-ferret/display/2658/
 
 ## Thread count
 LN/4 DB24 G4 DB4 G4 DB4 DBa16 DR20 O/4

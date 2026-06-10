@@ -1,13 +1,13 @@
 ---
-title: "O'Donoghue"
+title: "O'Donoghue (Fashion?)"
 date: 2023-03-18
 ---
 In pattern [GKYKW](/patterns/gkykw/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3219
+Original link http://www.tartansauthority.com/tartan-ferret/display/6399/
 
 ## Thread count
 G/124 K80 Y6 K6 W/6

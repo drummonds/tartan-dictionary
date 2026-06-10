@@ -1,13 +1,13 @@
 ---
-title: "Leach (1999)"
+title: "Leach 1999 (Name)"
 date: 2023-03-18
 ---
 In pattern [BRGRGRGBRKRK](/patterns/brgrgrgbrkrk/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2074
+Original link http://www.tartansauthority.com/tartan-ferret/display/5203/
 
 ## Thread count
 B/4 R12 G48 R4 G8 R4 G20 B8 R48 K6 R6 K/12

@@ -1,13 +1,13 @@
 ---
-title: "Munster (District)"
+title: "Munster"
 date: 2023-03-18
 ---
 In pattern [BRBGBGBRKGBKGKGR](/patterns/brbgbgbrkgbkgkgr/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4061/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052
 
 ## Thread count
 B/8 R4 B6 G2 B2 G4 B36 R2 K24 Ga42 B2 K6 Ga2 K4 Ga8 R/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s16/b8r4b6g2b2g4b36r2k24ga42b2k6ga2k4ga8r4-b5c8ca8-g006818-ga00643c-k101010-rc80000/
+80000/

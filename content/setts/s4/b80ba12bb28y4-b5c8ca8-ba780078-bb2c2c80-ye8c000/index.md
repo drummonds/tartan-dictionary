@@ -1,13 +1,13 @@
 ---
-title: "Peacock (Name)"
+title: "Peacock (Samantha)"
 date: 2023-03-18
 ---
 In pattern [BBBY](/patterns/bbby/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2655/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3309
 
 ## Thread count
 B/80 P12 DB28 Y/4

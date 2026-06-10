@@ -1,13 +1,13 @@
 ---
-title: "Mercer, James"
+title: "Mercer, James (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRBWBYBWB](/patterns/brbwbybwb/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5438
+Original link http://www.tartansauthority.com/tartan-ferret/display/6839/
 
 ## Thread count
 DB/6 R52 DB15 W3 DB4 Y6 DB4 W3 DB/24

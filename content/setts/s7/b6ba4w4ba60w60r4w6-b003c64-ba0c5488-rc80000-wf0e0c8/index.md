@@ -1,13 +1,13 @@
 ---
-title: "Torridon, Royal Blue (Dance)"
+title: "Torridon Royal Blue"
 date: 2023-03-18
 ---
 In pattern [BBWBWRW](/patterns/bbwbwrw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7596/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5620
 
 ## Thread count
 DB/6 B4 W4 B60 W60 R4 W/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/6 B4 W4 B60 W60 R4 W/6 tartan")
 
 ID: /setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/
+0c8/

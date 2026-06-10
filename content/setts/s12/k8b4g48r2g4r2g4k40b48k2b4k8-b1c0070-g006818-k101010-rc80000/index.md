@@ -1,13 +1,13 @@
 ---
-title: "Jedforest (District)"
+title: "Jedforest"
 date: 2023-03-18
 ---
 In pattern [KBGRGRGKBKBK](/patterns/kbgrgrgkbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5301/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1888
 
 ## Thread count
 K/8 DB4 G48 R2 G4 R2 G4 K40 DB48 K2 DB4 K/8

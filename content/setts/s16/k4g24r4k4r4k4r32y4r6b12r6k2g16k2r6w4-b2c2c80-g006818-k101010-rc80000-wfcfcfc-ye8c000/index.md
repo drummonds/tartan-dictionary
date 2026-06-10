@@ -1,13 +1,13 @@
 ---
-title: "Innes 6 Colours (Clan)"
+title: "Innes (D C Stewart)"
 date: 2023-03-18
 ---
 In pattern [KGRKRKRYRBRKGKRW](/patterns/kgrkrkryrbrkgkrw/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1109/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1828
 
 ## Thread count
 K/4 G24 R4 K4 R4 K4 R32 Y4 R6 DB12 R6 K2 G16 K2 R6 W/4

@@ -1,13 +1,13 @@
 ---
-title: "Franconian (Corporate)"
+title: "Franconian"
 date: 2023-03-18
 ---
 In pattern [BBGBGBGBGBRBYBGBGBGBGBBBGRGWGRGB](/patterns/bbgbgbgbgbrbybgbgbgbgbbbgrgwgrgb/).
 
 
-This was sourced from tartans-authority.  It is a [32 stripes tartan](/stripes/stripes32/).
+This was sourced from register-of-tartans.  It is a [32 stripes tartan](/stripes/stripes32/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2305/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1244
 
 ## Thread count
 B/10 DB8 G8 DB8 G44 DB8 G8 DB8 G8 DB44 R10 DB10 Y10 DB44 G8 DB8 G8 DB8 G44 DB8 G8 DB8 B10 DB44 G10 R10 G8 W10 G8 R10 G14 DB/44

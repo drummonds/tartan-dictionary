@@ -1,13 +1,13 @@
 ---
-title: "Deas (Name)"
+title: "Deas"
 date: 2023-03-18
 ---
 In pattern [BKBKYKGKGKRKRK](/patterns/bkbkykgkgkrkrk/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2153/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=903
 
 ## Thread count
 DB/42 K4 DB4 K24 Y6 K24 G4 K4 G42 K4 R16 K12 R16 K/4

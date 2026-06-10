@@ -7,7 +7,7 @@ In pattern [BKBGYG](/patterns/bkbgyg/).
 
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DB/8 K8 DB48 DG64 N2 DG/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 K8 DB48 DG64 N2 DG/4 tartan")
 
 ID: /setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/
+aaa/

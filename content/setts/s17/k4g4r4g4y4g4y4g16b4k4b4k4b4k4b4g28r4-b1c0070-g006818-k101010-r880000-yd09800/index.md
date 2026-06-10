@@ -1,13 +1,13 @@
 ---
-title: "Myron (Fashion)"
+title: "Myron"
 date: 2023-03-18
 ---
 In pattern [KGRGYGYGBKBKBKBGR](/patterns/kgrgygygbkbkbkbgr/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1105/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086
 
 ## Thread count
 DR/4 G28 DB4 K4 DB4 K4 DB4 K4 DB4 G16 DY4 G4 DY4 G4 DR4 G4 K/4

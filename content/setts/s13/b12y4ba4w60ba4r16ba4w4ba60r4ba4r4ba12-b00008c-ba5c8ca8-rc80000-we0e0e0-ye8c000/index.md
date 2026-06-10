@@ -1,13 +1,13 @@
 ---
-title: "Federal Memorial Dress (Military)"
+title: "Federal Memorial Dress"
 date: 2023-03-18
 ---
 In pattern [BRBRBWBRBWBYB](/patterns/brbrbwbrbwbyb/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7793/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5758
 
 ## Thread count
 B/12 R4 B4 R4 B60 LN4 B4 R16 B4 LN60 B4 Y4 DB/12
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/b12y4ba4w60ba4r16ba4w4ba60r4ba4r4ba12-b00008c-ba5c8ca8-rc80000-we0e0e0-ye8c000/
+8c000/

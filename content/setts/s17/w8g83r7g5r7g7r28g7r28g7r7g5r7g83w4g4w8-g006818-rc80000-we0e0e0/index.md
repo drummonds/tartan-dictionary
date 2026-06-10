@@ -1,13 +1,13 @@
 ---
-title: "Rothesay Hunting (District)"
+title: "Rothesay Hunting, Duke of"
 date: 2023-03-18
 ---
 In pattern [WGRGRGRGRGRGRGWGW](/patterns/wgrgrgrgrgrgrgwgw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1805/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3574
 
 ## Thread count
 LN/8 G4 LN4 G83 R7 G5 R7 G7 R28 G7 R28 G7 R7 G5 R7 G83 LN/8

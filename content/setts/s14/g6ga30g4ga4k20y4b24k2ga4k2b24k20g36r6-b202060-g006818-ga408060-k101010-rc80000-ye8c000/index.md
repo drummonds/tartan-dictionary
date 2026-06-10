@@ -1,13 +1,13 @@
 ---
-title: "Leinster"
+title: "Leinster (District)"
 date: 2023-03-18
 ---
 In pattern [GGGGKYBKGKBKGR](/patterns/ggggkybkgkbkgr/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2089
+Original link http://www.tartansauthority.com/tartan-ferret/display/4062/
 
 ## Thread count
 Ga/6 G30 Ga4 G4 K20 Y4 DB24 K2 G4 K2 DB24 K20 Ga36 R/6

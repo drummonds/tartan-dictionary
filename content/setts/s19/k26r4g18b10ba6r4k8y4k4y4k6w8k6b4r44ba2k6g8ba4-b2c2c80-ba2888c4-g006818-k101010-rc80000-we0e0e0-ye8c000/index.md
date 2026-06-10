@@ -1,13 +1,13 @@
 ---
-title: "Anderson of Ardbrake"
+title: "Anderson of Ardbrake (Clan)"
 date: 2023-03-18
 ---
 In pattern [BGKBRBKWKYKYKRBBGRK](/patterns/bgkbrbkwkykykrbbgrk/).
 
 
-This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=85
+Original link http://www.tartansauthority.com/tartan-ferret/display/7024/
 
 ## Thread count
 B/4 G8 K6 B2 R44 DB4 K6 LN8 K6 Y4 K4 Y4 K8 R4 B6 DB10 G18 R4 K/26

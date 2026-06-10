@@ -1,13 +1,13 @@
 ---
-title: "Harding Personal Tartan Tartan Number: 6874. Earliest known date: 2006 Richard Scott Harding created this design so that his family could have a tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Harding (Florida) (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRYRGK](/patterns/bryrgk/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6874
+Original link http://www.tartansauthority.com/tartan-ferret/display/6874/
 
 ## Thread count
 DB/26 R100 Y14 P12 G8 K/8

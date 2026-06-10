@@ -1,13 +1,13 @@
 ---
-title: "Bartlett (Name #1)"
+title: "Bartlett from Winnetka, Illinois"
 date: 2023-03-18
 ---
 In pattern [KGYGKGKGBYBGR](/patterns/kgygkgkgbybgr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2640/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=224
 
 ## Thread count
 DR/8 G80 DB24 DY4 DB24 G60 K4 G8 K4 G8 DY4 G6 K/6

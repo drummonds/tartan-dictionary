@@ -1,13 +1,13 @@
 ---
-title: "Aberuchill"
+title: "Aberuchill (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RKGBGGKY](/patterns/rkgbggky/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=23
+Original link http://www.tartansauthority.com/tartan-ferret/display/6814/
 
 ## Thread count
 O/6 K4 G55 T30 DP30 T10 K2 P/8

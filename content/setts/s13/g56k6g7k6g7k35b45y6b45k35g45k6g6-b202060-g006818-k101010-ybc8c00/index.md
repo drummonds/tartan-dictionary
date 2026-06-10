@@ -1,13 +1,13 @@
 ---
-title: "Dewar's Highlander"
+title: "Dewars Highlander (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GKGKBYBKGKGKG](/patterns/gkgkbybkgkgkg/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=926
+Original link http://www.tartansauthority.com/tartan-ferret/display/694/
 
 ## Thread count
 G/6 K6 G45 K35 DB45 DY6 DB45 K35 G7 K6 G7 K6 G/56

@@ -1,13 +1,13 @@
 ---
-title: "Tipperary, County"
+title: "Tipperary, County (District)"
 date: 2023-03-18
 ---
 In pattern [RGRGGKR](/patterns/rgrggkr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4128
+Original link http://www.tartansauthority.com/tartan-ferret/display/2249/
 
 ## Thread count
 R/66 K16 T24 G24 R16 T4 R/16

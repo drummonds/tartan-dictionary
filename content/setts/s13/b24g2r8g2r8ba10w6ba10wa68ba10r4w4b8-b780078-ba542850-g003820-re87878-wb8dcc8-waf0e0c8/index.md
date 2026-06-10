@@ -1,13 +1,13 @@
 ---
-title: "Fyvie, Magenta (Dance)"
+title: "Fyvie Magenta"
 date: 2023-03-18
 ---
 In pattern [BGRGRBWBWBRWB](/patterns/bgrgrbwbwbrwb/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7577/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5601
 
 ## Thread count
 P/24 DG2 LR8 DG2 LR8 Na10 N6 Na10 W68 Na10 LR4 N4 P/8
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s13/b24g2r8g2r8ba10w6ba10wa68ba10r4w4b8-b780078-ba542850-g003820-re87878-wb8dcc8-waf0e0c8/
+0c8/

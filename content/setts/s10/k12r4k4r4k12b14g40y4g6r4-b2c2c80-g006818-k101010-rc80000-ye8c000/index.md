@@ -1,13 +1,13 @@
 ---
-title: "Connolly Hunting (Name)"
+title: "Connolly Hunting"
 date: 2023-03-18
 ---
 In pattern [KRKRKBGYGR](/patterns/krkrkbgygr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7357/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4929
 
 ## Thread count
 K/12 R4 K4 R4 K12 DB14 G40 Y4 G6 R/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/k12r4k4r4k12b14g40y4g6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/
+0/

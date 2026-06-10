@@ -1,13 +1,13 @@
 ---
-title: "Gates, Htg (Name)"
+title: "Gates, Hunting"
 date: 2023-03-18
 ---
 In pattern [BGGGGGGGG](/patterns/bgggggggg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6263/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317
 
 ## Thread count
 B/6 G60 Ga16 G6 Ga16 G24 Ga8 G6 Ga/48

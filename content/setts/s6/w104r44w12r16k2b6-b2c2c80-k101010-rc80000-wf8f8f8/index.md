@@ -1,13 +1,13 @@
 ---
-title: "MacGregor - 1975 (Dance, Red)"
+title: "MacGregor Dress Red (Dance)"
 date: 2023-03-18
 ---
 In pattern [BKRWRW](/patterns/bkrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6541/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2454
 
 ## Thread count
 DB/6 K2 R16 W12 R44 W/104

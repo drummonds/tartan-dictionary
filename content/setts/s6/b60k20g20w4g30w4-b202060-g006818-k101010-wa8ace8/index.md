@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BKGWGW](/patterns/bkgwgw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2760
+Original link http://www.tartansauthority.com/tartan-ferret/display/2388/
 
 ## Thread count
 DB/60 K20 G20 LP4 G30 LP/4

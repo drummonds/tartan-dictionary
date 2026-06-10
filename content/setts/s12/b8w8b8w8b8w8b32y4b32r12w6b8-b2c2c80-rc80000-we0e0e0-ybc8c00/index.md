@@ -1,13 +1,13 @@
 ---
-title: "Parker Dress (USA)"
+title: "Parker Dress (USA) (Name)"
 date: 2023-03-18
 ---
 In pattern [BWBWBWBYBRWB](/patterns/bwbwbwbybrwb/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3293
+Original link http://www.tartansauthority.com/tartan-ferret/display/6446/
 
 ## Thread count
 DB/8 LN8 DB8 LN8 DB8 LN8 DB32 DY4 DB32 R12 LN6 DB/8

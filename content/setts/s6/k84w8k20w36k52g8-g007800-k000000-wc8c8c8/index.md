@@ -1,13 +1,13 @@
 ---
-title: "New Zealand (2000) (Fashion)"
+title: "New Zealand (2000)"
 date: 2023-03-18
 ---
 In pattern [GKWKWK](/patterns/gkwkwk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4215/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3124
 
 ## Thread count
 G/8 K52 N36 K20 N8 K/84
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/8 K52 N36 K20 N8 K/84 tartan")
 
 ID: /setts/s6/k84w8k20w36k52g8-g007800-k000000-wc8c8c8/
+c8c8/

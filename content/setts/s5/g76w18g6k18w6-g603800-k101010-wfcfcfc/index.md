@@ -1,13 +1,13 @@
 ---
-title: "Loch Tummel (Fashion)"
+title: "Loch Tummel"
 date: 2023-03-18
 ---
 In pattern [GWGKW](/patterns/gwgkw/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1751/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2158
 
 ## Thread count
 T/76 W18 T6 K18 W/6
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "T/76 W18 T6 K18 W/6 tartan")
 
 ID: /setts/s5/g76w18g6k18w6-g603800-k101010-wfcfcfc/
+fcfc/

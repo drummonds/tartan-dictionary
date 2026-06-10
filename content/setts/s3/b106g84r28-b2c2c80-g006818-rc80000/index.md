@@ -1,13 +1,13 @@
 ---
-title: "Agnew (Clan)"
+title: "Agnew"
 date: 2023-03-18
 ---
 In pattern [BGR](/patterns/bgr/).
 
 
-This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/182/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=26
 
 ## Thread count
 DB/106 G84 R/28
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/106 G84 R/28 tartan")
 
 ID: /setts/s3/b106g84r28-b2c2c80-g006818-rc80000/
+00/

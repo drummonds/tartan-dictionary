@@ -1,13 +1,13 @@
 ---
-title: "Little Dress (Name)"
+title: "Little Dress"
 date: 2023-03-18
 ---
 In pattern [KRKRKWKWKY](/patterns/krkrkwkwky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4138/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126
 
 ## Thread count
 DY/4 K32 LN32 K8 LN32 K16 R16 K16 R16 K/16
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#AC0040;"><span style="color:#AC0040;filter:grayscale(1) invert(1) contrast(100);">#AC0040</span></code> `#AC0040` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.08 |
 
 ID: /setts/s10/k16r16k16r16k16w32k8w32k32y4-k101010-rac0040-we0e0e0-yd09800/
+0/

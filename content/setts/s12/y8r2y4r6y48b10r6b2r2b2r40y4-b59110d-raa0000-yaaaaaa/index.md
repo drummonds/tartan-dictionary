@@ -7,7 +7,7 @@ In pattern [YRBRBRBYRYRY](/patterns/yrbrbrbyryry/).
 
 This was sourced from weddslist.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 N/4 DR40 DRa2 DR2 DRa2 DR6 DRa10 N48 DR6 N4 DR2 N/8

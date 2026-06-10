@@ -1,13 +1,13 @@
 ---
-title: "Dorcas (Fashion)"
+title: "Dorcas (WCWM)"
 date: 2023-03-18
 ---
 In pattern [RGBGBGBRWRWR](/patterns/rgbgbgbrwrwr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3180/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4884
 
 ## Thread count
 DR/8 G40 DB4 G4 DB4 G6 DB12 LT52 LR6 LT4 LR4 LT/8

@@ -1,13 +1,13 @@
 ---
-title: "Royal Delight (Fashion)"
+title: "Royal Delight"
 date: 2023-03-18
 ---
 In pattern [BBBBBBBBBBR](/patterns/bbbbbbbbbbr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5397/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600
 
 ## Thread count
 DR/6 DP4 DB36 P6 DP4 P6 DB36 DP6 P24 DP24 P/6
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#640064;"><span style="color:#640064;filter:grayscale(1) invert(1) contrast(100);">#640064</span></code> `#640064` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.15 |
 
 ID: /setts/s11/b6ba24b24ba6bb36b6ba4b6bb36ba4r6-b640064-ba4c1864-bb180064-r8c0000/
+0000/

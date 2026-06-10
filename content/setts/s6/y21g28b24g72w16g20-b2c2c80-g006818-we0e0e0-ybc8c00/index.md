@@ -1,13 +1,13 @@
 ---
-title: "Meath County Crest (Fashion)"
+title: "Meath County, Crest Range"
 date: 2023-03-18
 ---
 In pattern [GWGBGY](/patterns/gwgbgy/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7410/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5054
 
 ## Thread count
 DY/21 G28 DB24 G72 LN16 G/20

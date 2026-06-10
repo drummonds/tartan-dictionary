@@ -1,13 +1,13 @@
 ---
-title: "Las Vegas Fire Fighters"
+title: "Las Vegas Fire Fighters (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RKWKRKRW](/patterns/rkwkrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2054
+Original link http://www.tartansauthority.com/tartan-ferret/display/7052/
 
 ## Thread count
 N/2 R4 K2 R60 K56 N4 K6 R/2

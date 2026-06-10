@@ -1,13 +1,13 @@
 ---
-title: "Doane (Name)"
+title: "Doane"
 date: 2023-03-18
 ---
 In pattern [BBBBBGRGRBBB](/patterns/bbbbbgrgrbbb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7011/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=940
 
 ## Thread count
 K/2 DB42 N8 DB12 N22 DG34 DR6 DG8 DR16 N6 K2 P/6
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#843480;"><span style="color:#843480;filter:grayscale(1) invert(1) contrast(100);">#843480</span></code> `#843480` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.15 |
 
 ID: /setts/s12/b6ba2bb6r16g8r6g34bb22bc12bb8bc42ba2-b843480-ba1c1c1c-bb443048-bc202460-g003820-r780000/
+00/

@@ -1,13 +1,13 @@
 ---
-title: "Scottish Borders Tourist Board"
+title: "Scottish Borders Tourist Board Corporate Tartan Tartan Number: 4040. Earliest known date: Dec. 2000 December 2000 weave. Colours fairly accurate except for the blue which needs to be midnight blue. Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BGBGBGWGRGYGRGWG](/patterns/bgbgbgwgrgygrgwg/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3710
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4040
 
 ## Thread count
 DB/48 G8 DB6 G8 DB48 G12 LR6 G8 R6 G16 DY6 G16 R6 G8 LR6 G/12

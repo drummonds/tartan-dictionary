@@ -1,13 +1,13 @@
 ---
-title: "MacBeth Dress (Clan)"
+title: "MacBeth Dress"
 date: 2023-03-18
 ---
 In pattern [WBWBYBKWKWKGRKRW](/patterns/wbwbybkwkwkgrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3319/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5181
 
 ## Thread count
 LN/4 DB4 LN56 DB16 DY8 DB24 K4 LN4 K4 LN4 K4 G16 DR12 K4 DR12 LN/4

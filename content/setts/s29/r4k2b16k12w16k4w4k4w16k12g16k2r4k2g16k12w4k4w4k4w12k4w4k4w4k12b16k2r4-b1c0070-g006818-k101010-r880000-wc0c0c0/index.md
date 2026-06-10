@@ -1,13 +1,13 @@
 ---
-title: "MacKinlay Dress (Clan?)"
+title: "MacKinlay Dress"
 date: 2023-03-18
 ---
 In pattern [RKBKWKWKWKGKRKGKWKWKWKWKWKBKR](/patterns/rkbkwkwkwkgkrkgkwkwkwkwkwkbkr/).
 
 
-This was sourced from tartans-authority.  It is a [29 stripes tartan](/stripes/stripes29/).
+This was sourced from register-of-tartans.  It is a [29 stripes tartan](/stripes/stripes29/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4564/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2541
 
 ## Thread count
 DR/4 K2 DB16 K12 N16 K4 N4 K4 N16 K12 G16 K2 DR4 K2 G16 K12 N4 K4 N4 K4 N12 K4 N4 K4 N4 K12 DB16 K2 DR/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
 ID: /setts/s29/r4k2b16k12w16k4w4k4w16k12g16k2r4k2g16k12w4k4w4k4w12k4w4k4w4k12b16k2r4-b1c0070-g006818-k101010-r880000-wc0c0c0/
+c0/

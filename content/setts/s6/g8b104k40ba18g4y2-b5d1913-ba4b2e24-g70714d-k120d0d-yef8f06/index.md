@@ -1,13 +1,13 @@
 ---
-title: "Jack, John (Fife) Name Tartan Tartan Number: 10719. Earliest known date: 22 October 2012 Designed for members of Mr Jack's extended family who bear the surname Jack, to use at family gatherings. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Jack, John (Fife) (Personal)"
 date: 2023-03-18
 ---
 In pattern [GBKBGY](/patterns/gbkbgy/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10719
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719
 
 ## Thread count
 G/8 DR104 K40 T18 G4 O/2

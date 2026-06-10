@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BKBYRKYYK](/patterns/bkbyrkyyk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2887
+Original link http://www.tartansauthority.com/tartan-ferret/display/7159/
 
 ## Thread count
 DB/8 K4 DB31 O5 R26 K5 Y10 O5 K/2

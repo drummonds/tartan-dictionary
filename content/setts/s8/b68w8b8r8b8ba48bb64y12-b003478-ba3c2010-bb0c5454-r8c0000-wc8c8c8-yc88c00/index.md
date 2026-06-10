@@ -1,13 +1,13 @@
 ---
-title: "Blairmore House (Corporate)"
+title: "Blairmore Corporate School Tartan Tartan Number: 2221. Earliest known date: 2002 Designed by John B Gillespie (Johnsons of Elgin) and Monique Baumann for Blairmore School at Glass in Aberdeenshire. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BWBRBBBY](/patterns/bwbrbbby/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2221/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2221
 
 ## Thread count
 DB/68 N8 DB8 DR8 DB8 K48 G64 DY/12

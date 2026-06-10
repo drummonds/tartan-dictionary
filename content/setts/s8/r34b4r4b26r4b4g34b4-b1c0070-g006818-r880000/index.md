@@ -1,13 +1,13 @@
 ---
-title: "Red Remony (Fashion)"
+title: "Remony (Red)"
 date: 2023-03-18
 ---
 In pattern [BGBRBRBR](/patterns/bgbrbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2235/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3497
 
 ## Thread count
 DB/4 G34 DB4 DR4 DB26 DR4 DB4 DR/34
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 G34 DB4 DR4 DB26 DR4 DB4 DR/34 tartan")
 
 ID: /setts/s8/r34b4r4b26r4b4g34b4-b1c0070-g006818-r880000/
+00/

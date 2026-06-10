@@ -1,13 +1,13 @@
 ---
-title: "G8 Summit"
+title: "G8 Summit (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBRBYBYBYBYB](/patterns/bgbrbybybybyb/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1292
+Original link http://www.tartansauthority.com/tartan-ferret/display/6490/
 
 ## Thread count
 DB/2 N2 DB2 N2 DB2 N2 DB2 N2 DB100 R4 DB4 G18 P/8

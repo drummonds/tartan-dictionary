@@ -1,13 +1,13 @@
 ---
-title: "Ryder Cup 2006 (Sports)"
+title: "Ryder Cup 2006"
 date: 2023-03-18
 ---
 In pattern [KYKBGGGBKY](/patterns/kykbgggbky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6836/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628
 
 ## Thread count
 DY/2 K30 DN16 DG16 G2 DG16 DN16 K6 DY2 K/20
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s10/k20y2k6b16g16ga2g16b16k30y2-b14283c-g003820-ga285800-k101010-ybc8c00/
+c00/

@@ -1,13 +1,13 @@
 ---
-title: "Glendale"
+title: "Glendale (District)"
 date: 2023-03-18
 ---
 In pattern [GWGWGYKYWR](/patterns/gwgwgykywr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1408
+Original link http://www.tartansauthority.com/tartan-ferret/display/7020/
 
 ## Thread count
 R/4 LB32 Y4 K4 Y4 G24 LN4 T20 LN4 T/20

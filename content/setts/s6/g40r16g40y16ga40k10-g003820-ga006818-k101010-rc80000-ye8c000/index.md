@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GRGYGK](/patterns/grgygk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6929/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=595
 
 ## Thread count
 DG/40 R16 DG40 Y16 G40 K/10

@@ -7,7 +7,7 @@ In pattern [RBKGKGKGY](/patterns/rbkgkgkgy/).
 
 This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DR/6 DB20 K24 DG6 K2 DG2 K2 DG60 N/8

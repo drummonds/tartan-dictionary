@@ -1,13 +1,13 @@
 ---
-title: "Langholm Millennium (Commemorative)"
+title: "Langholm Millennium"
 date: 2023-03-18
 ---
 In pattern [RBGBWBRGBGBY](/patterns/rbgbwbrgbgby/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2449/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2044
 
 ## Thread count
 DR/86 DB6 T2 DB4 LN2 DB12 R4 G2 DB2 G6 DB2 Y/6

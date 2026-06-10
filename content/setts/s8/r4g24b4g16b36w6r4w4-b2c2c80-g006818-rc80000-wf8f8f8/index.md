@@ -1,13 +1,13 @@
 ---
-title: "Albuquerque, City of"
+title: "Albuquerque, City of (District)"
 date: 2023-03-18
 ---
 In pattern [RGBGBWRW](/patterns/rgbgbwrw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=43
+Original link http://www.tartansauthority.com/tartan-ferret/display/6720/
 
 ## Thread count
 R/4 G24 DB4 G16 DB36 W6 R4 W/4

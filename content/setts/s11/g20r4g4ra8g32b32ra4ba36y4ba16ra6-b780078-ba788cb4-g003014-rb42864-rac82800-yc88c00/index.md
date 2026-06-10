@@ -1,5 +1,5 @@
 ---
-title: "Malay 98 / Commonwealth Games"
+title: "Commonwealth Games 1998"
 date: 2023-03-18
 ---
 In pattern [GRGRGBRBYBR](/patterns/grgrgbrbybr/).
@@ -7,7 +7,7 @@ In pattern [GRGRGBRBYBR](/patterns/grgrgbrbybr/).
 
 This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4889
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=722
 
 ## Thread count
 DG/20 Ra4 DG4 R8 DG32 P32 R4 B36 DY4 B16 R/6

@@ -1,13 +1,13 @@
 ---
-title: "Swan (Name)"
+title: "Swan"
 date: 2023-03-18
 ---
 In pattern [BKBKWK](/patterns/bkbkwk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5164/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4054
 
 ## Thread count
 B/12 K8 B72 K72 N8 K/12
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/12 K8 B72 K72 N8 K/12 tartan")
 
 ID: /setts/s6/b12k8b72k72w8k12-b002cc0-k000000-wc8c8c8/
+8/

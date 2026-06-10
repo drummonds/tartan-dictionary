@@ -1,13 +1,13 @@
 ---
-title: "Cercles de Fermieres (Corporate)"
+title: "Les Cercles de Fermieres du Quebec"
 date: 2023-03-18
 ---
 In pattern [BGWBGYGWKBGWGGGKG](/patterns/bgwbgygwkbgwgggkg/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2136/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2101
 
 ## Thread count
 DB/32 DG80 LN10 DB50 G60 Y8 DG6 LN6 K8 DB30 G44 LN4 DG38 G4 T16 K8 T/32

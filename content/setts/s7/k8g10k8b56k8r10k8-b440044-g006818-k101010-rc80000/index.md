@@ -1,13 +1,13 @@
 ---
-title: "Montgomery - 1819 (Clan)"
+title: "Montgomrie/Montgomery of Eglinton"
 date: 2023-03-18
 ---
 In pattern [KGKBKRK](/patterns/kgkbkrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1082/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2991
 
 ## Thread count
 K/8 G10 K8 DP56 K8 R10 K/8

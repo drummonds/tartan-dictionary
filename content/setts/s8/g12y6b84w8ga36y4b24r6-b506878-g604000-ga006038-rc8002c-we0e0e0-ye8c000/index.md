@@ -1,13 +1,13 @@
 ---
-title: "Glasgow High (School)"
+title: "Glasgow High School"
 date: 2023-03-18
 ---
 In pattern [GYBWGYBR](/patterns/gybwgybr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7480/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5522
 
 ## Thread count
 R/6 N24 Y4 G36 LN8 N84 Y6 T/12

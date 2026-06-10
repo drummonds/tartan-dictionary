@@ -1,13 +1,13 @@
 ---
-title: "MacFie B&W (Clan)"
+title: "MacPhee (Black and White)"
 date: 2023-03-18
 ---
 In pattern [KWKW](/patterns/kwkw/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1252/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2699
 
 ## Thread count
 K/44 W6 K6 W/44

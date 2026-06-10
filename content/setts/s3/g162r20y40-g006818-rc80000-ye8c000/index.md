@@ -1,13 +1,13 @@
 ---
-title: "McMoosie (Fashion)"
+title: "McMoosie"
 date: 2023-03-18
 ---
 In pattern [GRY](/patterns/gry/).
 
 
-This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3933/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2899
 
 ## Thread count
 G/162 R20 Y/40
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/162 R20 Y/40 tartan")
 
 ID: /setts/s3/g162r20y40-g006818-rc80000-ye8c000/
+c000/

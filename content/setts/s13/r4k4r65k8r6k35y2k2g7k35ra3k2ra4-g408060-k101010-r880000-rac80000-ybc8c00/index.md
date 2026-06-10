@@ -1,13 +1,13 @@
 ---
-title: "Firefighters' Memorial (Corporate)"
+title: "Firefighters' Memorial"
 date: 2023-03-18
 ---
 In pattern [RKRKGKYKRKRKR](/patterns/rkrkgkykrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7339/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1189
 
 ## Thread count
 DR/4 K4 DR65 K8 DR6 K35 DY2 K2 G7 K35 R3 K2 R/4

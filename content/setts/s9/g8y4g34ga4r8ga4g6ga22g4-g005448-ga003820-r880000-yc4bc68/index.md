@@ -1,13 +1,13 @@
 ---
-title: "Armagh, County (District)"
+title: "Armagh, County"
 date: 2023-03-18
 ---
 In pattern [GGGGRGGYG](/patterns/ggggrggyg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2276/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=114
 
 ## Thread count
 G/4 DG22 G6 DG4 DR8 DG4 G34 LG4 G/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LG | <code style="background-color:#C4BC68;"><span style="color:#C4BC68;filter:grayscale(1) invert(1) contrast(100);">#C4BC68</span></code> `#C4BC68` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.07 |
 
 ID: /setts/s9/g8y4g34ga4r8ga4g6ga22g4-g005448-ga003820-r880000-yc4bc68/
+c4bc68/

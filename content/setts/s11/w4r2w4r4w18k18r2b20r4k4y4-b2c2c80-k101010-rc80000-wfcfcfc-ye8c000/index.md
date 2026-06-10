@@ -1,13 +1,13 @@
 ---
-title: "Cameron of Erracht Dress (Military)"
+title: "Cameron of Erracht Dress"
 date: 2023-03-18
 ---
 In pattern [WRWRWKRBRKY](/patterns/wrwrwkrbrky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1871/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496
 
 ## Thread count
 W/4 R2 W4 R4 W18 K18 R2 DB20 R4 K4 Y/4

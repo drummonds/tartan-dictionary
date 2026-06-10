@@ -1,13 +1,13 @@
 ---
-title: "Scotts Valley (Corporate)"
+title: "Scotts Valley"
 date: 2023-03-18
 ---
 In pattern [BWRGWRYRG](/patterns/bwrgwryrg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5350/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3751
 
 ## Thread count
 DB/20 N4 DR4 G4 N4 DR4 DY4 DR4 G/80
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
 ID: /setts/s9/g80r4y4r4w4g4r4w4b20-b00008c-g004c00-r8c0000-wc8c8c8-yc89800/
+c89800/

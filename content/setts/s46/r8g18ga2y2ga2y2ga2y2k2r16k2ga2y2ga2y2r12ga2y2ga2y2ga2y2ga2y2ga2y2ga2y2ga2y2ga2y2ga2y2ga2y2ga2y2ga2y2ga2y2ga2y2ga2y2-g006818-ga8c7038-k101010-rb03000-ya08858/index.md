@@ -1,13 +1,13 @@
 ---
-title: "Peeper (Name)"
+title: "Peeper"
 date: 2023-03-18
 ---
 In pattern [RGGYGYGYKRKGYGYRGYGYGYGYGYGYGYGYGYGYGYGYGYGYGY](/patterns/rggygygykrkgygyrgygygygygygygygygygygygygygygy/).
 
 
-This was sourced from tartans-authority.  It is a [46 stripes tartan](/stripes/stripes46/).
+This was sourced from register-of-tartans.  It is a [46 stripes tartan](/stripes/stripes46/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6991/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3312
 
 ## Thread count
 LT/2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 LT2 LTa2 R12 LT2 LTa2 LT2 LTa2 K2 R16 K2 LT2 LTa2 LT2 LTa2 LT2 LTa2 G18 R/8
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#B03000;"><span style="color:#B03000;filter:grayscale(1) invert(1) contrast(100);">#B03000</span></code> `#B03000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.05 |
 
 ID: /setts/s46/r8g18ga2y2ga2y2ga2y2k2r16k2ga2y2ga2y2r12ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2-g006818-ga8c7038-k101010-rb03000-ya08858/
+8/

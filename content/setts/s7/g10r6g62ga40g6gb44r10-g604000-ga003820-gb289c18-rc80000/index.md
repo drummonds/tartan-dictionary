@@ -1,13 +1,13 @@
 ---
-title: "Ballantrae (Dalgety)"
+title: "Ballantrae - Dalgety (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GRGGGGR](/patterns/grggggr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177
+Original link http://www.tartansauthority.com/tartan-ferret/display/1541/
 
 ## Thread count
 R/10 G44 T6 DG40 T62 R6 T/10

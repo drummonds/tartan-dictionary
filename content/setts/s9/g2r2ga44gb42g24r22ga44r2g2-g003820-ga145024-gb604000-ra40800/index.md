@@ -1,13 +1,13 @@
 ---
-title: "MacNaughton Htg"
+title: "Macnaughton Hunting"
 date: 2023-03-18
 ---
 In pattern [GRGGGRGRG](/patterns/grgggrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7852/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5804
 
 ## Thread count
 DG/2 DR2 G44 DR22 DG24 T42 G44 DR2 DG/2

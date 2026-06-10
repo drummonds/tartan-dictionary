@@ -1,13 +1,13 @@
 ---
-title: "By Storm (Corporate)"
+title: "Tartan Spirit"
 date: 2023-03-18
 ---
 In pattern [GRGBRKBKBKBK](/patterns/grgbrkbkbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7685/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6017
 
 ## Thread count
 G/38 LR6 G38 DB14 R52 K6 DB14 K6 P84 K6 DB14 K/6

@@ -1,13 +1,13 @@
 ---
-title: "Chieftain's"
+title: "Chieftain's (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGKRWBGKRWBG](/patterns/bgkrwbgkrwbg/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=632
+Original link http://www.tartansauthority.com/tartan-ferret/display/7240/
 
 ## Thread count
 B/32 G32 K4 R4 LY4 B8 G8 K4 R4 LY4 B32 G/32

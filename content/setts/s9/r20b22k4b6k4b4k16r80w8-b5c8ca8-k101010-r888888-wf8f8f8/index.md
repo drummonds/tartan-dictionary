@@ -1,13 +1,13 @@
 ---
-title: "Doune"
+title: "Doune (District)"
 date: 2023-03-18
 ---
 In pattern [RBKBKBKRW](/patterns/rbkbkbkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=965
+Original link http://www.tartansauthority.com/tartan-ferret/display/4707/
 
 ## Thread count
 N/20 B22 K4 B6 K4 B4 K16 N80 W/8

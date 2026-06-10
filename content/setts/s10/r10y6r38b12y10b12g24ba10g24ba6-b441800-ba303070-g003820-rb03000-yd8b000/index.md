@@ -1,13 +1,13 @@
 ---
-title: "Roscommon, County (District)"
+title: "Roscommon, County"
 date: 2023-03-18
 ---
 In pattern [BGBGBYBRYR](/patterns/bgbgbybryr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2246/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3546
 
 ## Thread count
 DB/6 DG24 DB10 DG24 DR12 Y10 DR12 R38 Y6 R/10
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s10/r10y6r38b12y10b12g24ba10g24ba6-b441800-ba303070-g003820-rb03000-yd8b000/
+8b000/

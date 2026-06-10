@@ -1,13 +1,13 @@
 ---
-title: "St. Andrew's College (Corporate)"
+title: "St Andrew's College"
 date: 2023-03-18
 ---
 In pattern [BWBRBKYKG](/patterns/bwbrbkykg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6898/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3877
 
 ## Thread count
 DB/36 W4 DB4 R6 DB42 K56 Y2 K2 G/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b36w4b4r6b42k56y2k2g4-b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ye8c000/
+ye8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Highlander Universal Tartan Tartan Number: 2396. Earliest known date: 1997 Sep Can be worn by customers of the Highland Laddie - an Edinburgh Highland outfitters and kilt maker. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Highlander Highland Laddie"
 date: 2023-03-18
 ---
 In pattern [KRGBW](/patterns/krgbw/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2396
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1727
 
 ## Thread count
 K/14 DR6 G60 DB56 N/6

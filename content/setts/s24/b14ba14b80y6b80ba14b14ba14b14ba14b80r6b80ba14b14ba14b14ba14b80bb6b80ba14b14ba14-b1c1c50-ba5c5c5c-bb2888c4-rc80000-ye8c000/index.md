@@ -1,16 +1,16 @@
 ---
-title: "Colliers International (Corporate)"
+title: "Colliers International Canadian Corporate Tartan Tartan Number: 7524. Earliest known date: 2008 Colliers International are a long established (1985) international property company. This asymmetric tartan appears to have been designed for them by Janet Helm Presents Tartan - a design company from Vancouver. Count estimated from online photograph. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BBBBBBBBBBBBRBBBBBBBYBBB](/patterns/bbbbbbbbbbbbrbbbbbbbybbb/).
 
 
-This was sourced from tartans-authority.  It is a [24 stripes tartan](/stripes/stripes24/).
+This was sourced from house-of-tartan.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7524/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7524
 
 ## Thread count
-DB/14 N14 DB80 Y6 DB80 N14 DB14 N14 DB14 N14 DB80 R6 DB80 N14 DB14 N14 DB14 N14 DB80 B6 DB80 N14 DB14 N/14
+DB/14 Na14 DB80 Y6 DB80 Na14 DB14 Na14 DB14 Na14 DB80 R6 DB80 Na14 DB14 Na14 DB14 Na14 DB80 B6 DB80 Na14 DB14 Na/14
 ![Sett](sett.png)
 
 ## Palette
@@ -20,7 +20,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 |---|---|---|---|
 | B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.21 |
 | DB | <code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> `#1C1C50` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
-| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
+| N | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
+| Na | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 

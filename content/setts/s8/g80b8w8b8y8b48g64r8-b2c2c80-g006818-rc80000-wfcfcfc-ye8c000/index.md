@@ -1,13 +1,13 @@
 ---
-title: "Marshall Field (Corporate)"
+title: "Marshall Field"
 date: 2023-03-18
 ---
 In pattern [GBWBYBGR](/patterns/gbwbybgr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/747/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2839
 
 ## Thread count
 G/80 DB8 W8 DB8 Y8 DB48 G64 R/8

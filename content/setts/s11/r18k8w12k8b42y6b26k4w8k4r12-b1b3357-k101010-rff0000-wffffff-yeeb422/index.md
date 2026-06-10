@@ -1,13 +1,13 @@
 ---
-title: "Dauphinee Name Tartan Tartan Number: 10648. Earliest known date: 2012 Andrew Dauphinee designed this tartan for his father Ronald Dauphinee and all his family. The colours are taken from the Dauphinee family crest and the flags of Halifax and Nova Scotia in Canada, from where the family originated. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Dauphinee (Trussville, Alabama) (Personal)"
 date: 2023-03-18
 ---
 In pattern [RKWKBYBKWKR](/patterns/rkwkbybkwkr/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10648
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10648
 
 ## Thread count
 R/12 K4 W8 K4 DB26 Y6 DB42 K8 W12 K8 R/18
@@ -23,5 +23,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.11 |
 | W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 | Y | <code style="background-color:#EEB422;"><span style="color:#EEB422;filter:grayscale(1) invert(1) contrast(100);">#EEB422</span></code> `#EEB422` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.03 |
+
+ID: /setts/s11/r18k8w12k8b42y6b26k4w8k4r12-b1b3357-k101010-rff0000-wffffff-yeeb422/
+<span style="color:#EEB422;filter:grayscale(1) invert(1) contrast(100);">#EEB422</span></code> `#EEB422` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.03 |
 
 ID: /setts/s11/r18k8w12k8b42y6b26k4w8k4r12-b1b3357-k101010-rff0000-wffffff-yeeb422/

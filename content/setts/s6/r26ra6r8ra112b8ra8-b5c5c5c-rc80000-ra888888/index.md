@@ -1,13 +1,13 @@
 ---
-title: "Auchairne, Grey (Corporate)"
+title: "Auchairne Grey"
 date: 2023-03-18
 ---
 In pattern [RBRRRR](/patterns/rbrrrr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2479/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130
 
 ## Thread count
 Na/8 N8 Na112 R8 Na6 R/26
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "Na/8 N8 Na112 R8 Na6 R/26 tartan")
 
 ID: /setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/
+ra888888/

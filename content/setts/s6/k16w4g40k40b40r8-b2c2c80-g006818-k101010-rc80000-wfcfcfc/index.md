@@ -1,13 +1,13 @@
 ---
-title: "Rose Htg (Clan)"
+title: "Rose Hunting"
 date: 2023-03-18
 ---
 In pattern [KWGKBR](/patterns/kwgkbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1226/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3548
 
 ## Thread count
 K/16 W4 G40 K40 DB40 R/8

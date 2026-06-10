@@ -1,13 +1,13 @@
 ---
-title: "Strathclyde, University of Corporate Tartan Tartan Number: 2419. Earliest known date: 1971 University of Strathclyde, Scotland See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Strathclyde, University of (Corporat"
 date: 2023-03-18
 ---
 In pattern [BKRKBKWKGKGGKW](/patterns/bkrkbkwkgkggkw/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2419
+Original link http://www.tartansauthority.com/tartan-ferret/display/2419/
 
 ## Thread count
 DB/14 K2 R6 K2 DB48 K2 LN6 K6 Ga6 K6 Ga6 G38 K4 LN/8

@@ -1,13 +1,13 @@
 ---
-title: "Ralston (USA)"
+title: "Ralston (USA) (Name)"
 date: 2023-03-18
 ---
 In pattern [BGGGGRRBRRG](/patterns/bggggrrbrrg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3449
+Original link http://www.tartansauthority.com/tartan-ferret/display/6109/
 
 ## Thread count
 B/6 LG8 G8 LG8 G24 N6 R6 B6 R6 N6 G/14

@@ -1,13 +1,13 @@
 ---
-title: "Falkirk Football Club (Corporate)"
+title: "Falkirk Football Club"
 date: 2023-03-18
 ---
 In pattern [BRBKBKBRW](/patterns/brbkbkbrw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3835/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4964
 
 ## Thread count
 DB/10 R32 DB8 K6 DB8 K6 DB86 R30 W/2

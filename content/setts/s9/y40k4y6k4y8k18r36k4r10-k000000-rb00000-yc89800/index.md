@@ -1,13 +1,13 @@
 ---
-title: "Aubigny (District)"
+title: "Aubigny"
 date: 2023-03-18
 ---
 In pattern [RKRKYKYKY](/patterns/rkrkykyky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2159/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=127
 
 ## Thread count
 DR/10 K4 DR36 K18 DY8 K4 DY6 K4 DY/40
@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
 ID: /setts/s9/y40k4y6k4y8k18r36k4r10-k000000-rb00000-yc89800/
+c89800/

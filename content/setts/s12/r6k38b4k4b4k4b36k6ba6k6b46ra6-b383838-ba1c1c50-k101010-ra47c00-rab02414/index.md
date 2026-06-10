@@ -1,13 +1,13 @@
 ---
-title: "MacInnes Homecoming (Clan)"
+title: "MacInnes Homecoming"
 date: 2023-03-18
 ---
 In pattern [RBKBKBKBKBKR](/patterns/rbkbkbkbkbkr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7815/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5772
 
 ## Thread count
 DY/6 K38 DN4 K4 DN4 K4 DN36 K6 DB6 K6 DN46 R/6

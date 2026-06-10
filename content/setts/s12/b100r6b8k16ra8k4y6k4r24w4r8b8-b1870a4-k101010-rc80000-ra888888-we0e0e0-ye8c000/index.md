@@ -1,13 +1,13 @@
 ---
-title: "City of Barrie (District)"
+title: "City of Barrie"
 date: 2023-03-18
 ---
 In pattern [BRBKRKYKRWRB](/patterns/brbkrkykrwrb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5809/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=655
 
 ## Thread count
 B/100 R6 B8 K16 N8 K4 Y6 K4 R24 LN4 R8 B/8
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/b100r6b8k16ra8k4y6k4r24w4r8b8-b1870a4-k101010-rc80000-ra888888-we0e0e0-ye8c000/
+e8c000/

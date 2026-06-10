@@ -1,13 +1,13 @@
 ---
-title: "Malcolm Dress (Clan)"
+title: "Malcolm Dress"
 date: 2023-03-18
 ---
 In pattern [KGKYKGKGKBRBRBKWKWKWKWKW](/patterns/kgkykgkgkbrbrbkwkwkwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [24 stripes tartan](/stripes/stripes24/).
+This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1977/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2795
 
 ## Thread count
 K/28 G36 K8 Y8 K8 LG8 K8 G36 K28 DB28 R8 DB12 R8 DB28 K28 W8 K8 W44 K8 W12 K8 W44 K8 W/8

@@ -1,13 +1,13 @@
 ---
-title: "MacLeod of Raasay (Highland Society of London)"
+title: "MacLeod of Raasay (HSL) (Clan)"
 date: 2023-03-18
 ---
 In pattern [KRKRK](/patterns/krkrk/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2641
+Original link http://www.tartansauthority.com/tartan-ferret/display/1172/
 
 ## Thread count
 K/4 R38 K26 R4 K/26

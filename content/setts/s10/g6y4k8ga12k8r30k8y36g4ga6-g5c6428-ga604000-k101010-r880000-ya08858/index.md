@@ -1,13 +1,13 @@
 ---
-title: "Fitzsimmons Red (Name)"
+title: "Fitzsimmons Red"
 date: 2023-03-18
 ---
 In pattern [GGYKRKGKYG](/patterns/ggykrkgkyg/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6808/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1202
 
 ## Thread count
 G/6 LT4 K8 T12 K8 DR30 K8 LT36 G4 T/6

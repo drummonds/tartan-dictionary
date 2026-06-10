@@ -1,13 +1,13 @@
 ---
-title: "McShane (Name)"
+title: "McShane (Personal)"
 date: 2023-03-18
 ---
 In pattern [GWGKGYWR](/patterns/gwgkgywr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4111/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904
 
 ## Thread count
 G/36 N8 G36 K8 T56 Y16 N8 R/8

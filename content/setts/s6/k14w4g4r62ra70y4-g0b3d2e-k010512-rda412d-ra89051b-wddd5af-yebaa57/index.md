@@ -1,13 +1,13 @@
 ---
-title: "Mason, David Elsworth (Personal) Name Tartan Tartan Number: 10720. Earliest known date: 22 October 2012 Designed for Mr Elsworth’s family and his descendants to wear on special occasions and to celebrate an association with Glencoe Wood and the Keil Estate, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Mason, David Elsworth (Personal)"
 date: 2023-03-18
 ---
 In pattern [KWGRRY](/patterns/kwgrry/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10720
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720
 
 ## Thread count
 K/14 LR4 DG4 R62 DR70 O/4

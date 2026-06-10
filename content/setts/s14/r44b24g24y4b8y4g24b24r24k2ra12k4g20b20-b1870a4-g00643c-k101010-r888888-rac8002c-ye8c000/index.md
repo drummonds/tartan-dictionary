@@ -1,13 +1,13 @@
 ---
-title: "Penman (Name)"
+title: "Penman"
 date: 2023-03-18
 ---
 In pattern [BGKRKRBGYBYGBR](/patterns/bgkrkrbgybygbr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/166/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316
 
 ## Thread count
 B/20 G20 K4 R12 K2 N24 B24 G24 Y4 B8 Y4 G24 B24 N/44

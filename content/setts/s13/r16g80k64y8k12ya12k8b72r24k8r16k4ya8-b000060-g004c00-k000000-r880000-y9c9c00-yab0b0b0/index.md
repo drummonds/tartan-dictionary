@@ -1,13 +1,13 @@
 ---
-title: "Galt, Alexander, Sir (Commemorative)"
+title: "Galt, Alexander, Sir"
 date: 2023-03-18
 ---
 In pattern [RGKYKYKBRKRKY](/patterns/rgkykykbrkrky/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1482/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1307
 
 ## Thread count
 DR/16 G80 K64 LG8 K12 N12 K8 DB72 DR24 K8 DR16 K4 N/8
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
 ID: /setts/s13/r16g80k64y8k12ya12k8b72r24k8r16k4ya8-b000060-g004c00-k000000-r880000-y9c9c00-yab0b0b0/
+0-yab0b0b0/

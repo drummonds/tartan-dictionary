@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KGYBKBW](/patterns/kgybkbw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7183/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=935
 
 ## Thread count
 K/10 G60 Y6 B30 K30 B14 LN/6

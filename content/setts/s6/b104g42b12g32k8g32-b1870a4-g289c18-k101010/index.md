@@ -1,13 +1,13 @@
 ---
-title: "Milligan (Fashion)"
+title: "Milligan"
 date: 2023-03-18
 ---
 In pattern [BGBGKG](/patterns/bgbgkg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6035/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952
 
 ## Thread count
 B/104 G42 B12 G32 K8 G/32
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/104 G42 B12 G32 K8 G/32 tartan")
 
 ID: /setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/
+1010/

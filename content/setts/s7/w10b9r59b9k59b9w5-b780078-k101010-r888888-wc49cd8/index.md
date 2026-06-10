@@ -1,13 +1,13 @@
 ---
-title: "Central Newcastle High (Corporate)"
+title: "Central Newcastle School"
 date: 2023-03-18
 ---
 In pattern [WBKBRBW](/patterns/wbkbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7210/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=610
 
 ## Thread count
 LP/5 P9 K59 P9 N59 P9 LP/10
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LP/5 P9 K59 P9 N59 P9 LP/10 tartan")
 
 ID: /setts/s7/w10b9r59b9k59b9w5-b780078-k101010-r888888-wc49cd8/
+49cd8/

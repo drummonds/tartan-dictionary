@@ -1,13 +1,13 @@
 ---
-title: "Maple Leaf Blue"
+title: "Maple Leaf, Blue (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBRBGRYBRBRR](/patterns/rbrbgrybrbrr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2825
+Original link http://www.tartansauthority.com/tartan-ferret/display/5702/
 
 ## Thread count
 DR/60 DB12 DR12 DB76 G24 LTa24 LT24 DB76 DR12 DB12 DR60 LTa/52

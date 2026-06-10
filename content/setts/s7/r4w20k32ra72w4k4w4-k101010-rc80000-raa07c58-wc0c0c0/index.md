@@ -1,13 +1,13 @@
 ---
-title: "Merrick, Camel (Fashion)"
+title: "Merrick, Camel"
 date: 2023-03-18
 ---
 In pattern [RWKRWKW](/patterns/rwkrwkw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1688/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2937
 
 ## Thread count
 N/4 K4 N4 LT72 K32 N20 R/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "N/4 K4 N4 LT72 K32 N20 R/4 tartan")
 
 ID: /setts/s7/r4w20k32ra72w4k4w4-k101010-rc80000-raa07c58-wc0c0c0/
+c0c0/

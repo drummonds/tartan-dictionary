@@ -1,13 +1,13 @@
 ---
-title: "MacLeish (Clan)"
+title: "MacLeish"
 date: 2023-03-18
 ---
 In pattern [KBKGRGKY](/patterns/kbkgrgky/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5689/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2620
 
 ## Thread count
 DY/8 K4 G24 R12 G8 K10 DB24 K/36
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/8 K4 G24 R12 G8 K10 DB24 K/36 tartan")
 
 ID: /setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/
+0/

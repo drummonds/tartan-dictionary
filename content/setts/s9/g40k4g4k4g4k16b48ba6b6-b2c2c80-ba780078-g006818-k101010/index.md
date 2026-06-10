@@ -1,13 +1,13 @@
 ---
-title: "MacHarg (Name)"
+title: "MacHarg, Iain"
 date: 2023-03-18
 ---
 In pattern [BBBKGKGKG](/patterns/bbbkgkgkg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/10159/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10159
 
 ## Thread count
 DB/6 P6 DB48 K16 G4 K4 G4 K4 G/40

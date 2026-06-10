@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "name": "cameron",
+      "display": "Cameron",
+      "kind": "clan",
+      "url": "/clan/cameron/",
+      "rank": 0
+    },
+    {
+      "name": "campbell",
+      "display": "Campbell",
+      "kind": "clan",
+      "url": "/clan/campbell/",
+      "rank": 0
+    },
+    {
+      "name": "chisholm",
+      "display": "Chisholm",
+      "kind": "clan",
+      "url": "/clan/chisholm/",
+      "rank": 0
+    },
+    {
+      "name": "drummond (duke of perth)",
+      "display": "Drummond (Duke of Perth)",
+      "kind": "clan",
+      "url": "/clan/drummond/",
+      "rank": 0
+    },
+    {
+      "name": "farquharson",
+      "display": "Farquharson",
+      "kind": "clan",
+      "url": "/clan/farquharson/",
+      "rank": 0
+    },
+    {
+      "name": "fraser",
+      "display": "Fraser",
+      "kind": "clan",
+      "url": "/clan/fraser/",
+      "rank": 0
+    },
+    {
+      "name": "gordon (duke of gordon)",
+      "display": "Gordon (Duke of Gordon)",
+      "kind": "clan",
+      "url": "/clan/gordon/",
+      "rank": 0
+    },
+    {
+      "name": "grant",
+      "display": "Grant",
+      "kind": "clan",
+      "url": "/clan/grant/",
+      "rank": 0
+    },
+    {
+      "name": "grant of glenmoriston",
+      "display": "Grant of Glenmoriston",
+      "kind": "clan",
+      "url": "/clan/grant_glenmoriston/",
+      "rank": 0
+    },
+    {
+      "name": "macdonald of clanranald",
+      "display": "MacDonald of Clanranald",
+      "kind": "clan",
+      "url": "/clan/macdonald_clanranald/",
+      "rank": 0
+    },
+    {
+      "name": "macdonald of glencoe",
+      "display": "MacDonald of Glencoe",
+      "kind": "clan",
+      "url": "/clan/macdonald_glencoe/",
+      "rank": 0
+    },
+    {
+      "name": "macdonald of glengarry",
+      "display": "MacDonald of Glengarry",
+      "kind": "clan",
+      "url": "/clan/macdonald_glengarry/",
+      "rank": 0
+    },
+    {
+      "name": "macdonald of keppoch",
+      "display": "MacDonald of Keppoch",
+      "kind": "clan",
+      "url": "/clan/macdonald_keppoch/",
+      "rank": 0
+    },
+    {
+      "name": "macdonald of sleat",
+      "display": "MacDonald of Sleat",
+      "kind": "clan",
+      "url": "/clan/macdonald_sleat/",
+      "rank": 0
+    },
+    {
+      "name": "macdougall of lorn",
+      "display": "MacDougall of Lorn",
+      "kind": "clan",
+      "url": "/clan/macdougall/",
+      "rank": 0
+    },
+    {
+      "name": "macgregor (clan gregor)",
+      "display": "MacGregor (Clan Gregor)",
+      "kind": "clan",
+      "url": "/clan/macgregor/",
+      "rank": 0
+    },
+    {
+      "name": "mackay",
+      "display": "Mackay",
+      "kind": "clan",
+      "url": "/clan/mackay/",
+      "rank": 0
+    },
+    {
+      "name": "mackenzie",
+      "display": "MacKenzie",
+      "kind": "clan",
+      "url": "/clan/mackenzie/",
+      "rank": 0
+    },
+    {
+      "name": "mackinnon",
+      "display": "MacKinnon",
+      "kind": "clan",
+      "url": "/clan/mackinnon/",
+      "rank": 0
+    },
+    {
+      "name": "mackintosh (clan chattan)",
+      "display": "Mackintosh (Clan Chattan)",
+      "kind": "clan",
+      "url": "/clan/mackintosh/",
+      "rank": 0
+    },
+    {
+      "name": "maclachlan",
+      "display": "MacLachlan",
+      "kind": "clan",
+      "url": "/clan/maclachlan/",
+      "rank": 0
+    },
+    {
+      "name": "maclean",
+      "display": "Maclean",
+      "kind": "clan",
+      "url": "/clan/maclean/",
+      "rank": 0
+    },
+    {
+      "name": "macleod",
+      "display": "MacLeod",
+      "kind": "clan",
+      "url": "/clan/macleod/",
+      "rank": 0
+    },
+    {
+      "name": "macpherson",
+      "display": "MacPherson",
+      "kind": "clan",
+      "url": "/clan/macpherson/",
+      "rank": 0
+    },
+    {
+      "name": "menzies",
+      "display": "Menzies",
+      "kind": "clan",
+      "url": "/clan/menzies/",
+      "rank": 0
+    },
+    {
+      "name": "munro",
+      "display": "Munro",
+      "kind": "clan",
+      "url": "/clan/munro/",
+      "rank": 0
+    },
+    {
+      "name": "murray (duke of atholl)",
+      "display": "Murray (Duke of Atholl)",
+      "kind": "clan",
+      "url": "/clan/murray_atholl/",
+      "rank": 0
+    },
+    {
+      "name": "robertson",
+      "display": "Robertson",
+      "kind": "clan",
+      "url": "/clan/robertson/",
+      "rank": 0
+    },
+    {
+      "name": "ross",
+      "display": "Ross",
+      "kind": "clan",
+      "url": "/clan/ross/",
+      "rank": 0
+    },
+    {
+      "name": "sinclair",
+      "display": "Sinclair",
+      "kind": "clan",
+      "url": "/clan/sinclair/",
+      "rank": 0
+    },
+    {
+      "name": "stewart of appin",
+      "display": "Stewart of Appin",
+      "kind": "clan",
+      "url": "/clan/stewart_appin/",
+      "rank": 0
+    },
+    {
+      "name": "stewart of cairntullie",
+      "display": "Stewart of Cairntullie",
+      "kind": "clan",
+      "url": "/clan/stewart_cairntullie/",
+      "rank": 0
+    },
+    {
+      "name": "sutherland",
+      "display": "Sutherland",
+      "kind": "clan",
+      "url": "/clan/sutherland/",
+      "rank": 0
+    },
+    {
+      "name": "drummond of megginch",
+      "display": "Drummond of Megginch",
+      "kind": "family",
+      "url": "/clan/drummond/megginch/",
+      "rank": 1
+    },
+    {
+      "name": "cargill",
+      "display": "Cargill",
+      "kind": "sept",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "drummond",
+      "display": "Drummond",
+      "kind": "spelling",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "drummond of megginch",
+      "display": "Drummond of Megginch",
+      "kind": "name",
+      "url": "/clan/drummond/megginch/",
+      "rank": 2
+    },
+    {
+      "name": "drummond of perth",
+      "display": "Drummond of Perth",
+      "kind": "name",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "drymen",
+      "display": "Drymen",
+      "kind": "sept",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "grewar",
+      "display": "Grewar",
+      "kind": "sept",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "macgrewar",
+      "display": "MacGrewar",
+      "kind": "sept",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "macgrouther",
+      "display": "MacGrouther",
+      "kind": "sept",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "macgrowther",
+      "display": "MacGrowther",
+      "kind": "sept",
+      "url": "/clan/drummond/",
+      "rank": 2
+    },
+    {
+      "name": "megginch",
+      "display": "Megginch",
+      "kind": "name",
+      "url": "/clan/drummond/megginch/",
+      "rank": 2
+    },
+    {
+      "name": "clan \u0026 family",
+      "display": "Clan \u0026 Family",
+      "kind": "type",
+      "url": "/type/clan-family/",
+      "rank": 3
+    },
+    {
+      "name": "commemorative",
+      "display": "Commemorative",
+      "kind": "type",
+      "url": "/type/commemorative/",
+      "rank": 3
+    },
+    {
+      "name": "corporate",
+      "display": "Corporate",
+      "kind": "type",
+      "url": "/type/corporate/",
+      "rank": 3
+    },
+    {
+      "name": "district",
+      "display": "District",
+      "kind": "type",
+      "url": "/type/district/",
+      "rank": 3
+    },
+    {
+      "name": "fashion",
+      "display": "Fashion",
+      "kind": "type",
+      "url": "/type/fashion/",
+      "rank": 3
+    },
+    {
+      "name": "military",
+      "display": "Military",
+      "kind": "type",
+      "url": "/type/military/",
+      "rank": 3
+    },
+    {
+      "name": "name",
+      "display": "Name",
+      "kind": "type",
+      "url": "/type/name/",
+      "rank": 3
+    },
+    {
+      "name": "other",
+      "display": "Other",
+      "kind": "type",
+      "url": "/type/other/",
+      "rank": 3
+    },
+    {
+      "name": "personal",
+      "display": "Personal",
+      "kind": "type",
+      "url": "/type/personal/",
+      "rank": 3
+    },
+    {
+      "name": "royal",
+      "display": "Royal",
+      "kind": "type",
+      "url": "/type/royal/",
+      "rank": 3
+    },
+    {
+      "name": "traditional",
+      "display": "Traditional",
+      "kind": "type",
+      "url": "/type/traditional/",
+      "rank": 3
+    }
+  ]
+}

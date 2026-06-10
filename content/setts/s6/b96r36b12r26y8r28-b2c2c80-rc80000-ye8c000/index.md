@@ -1,13 +1,13 @@
 ---
-title: "Butler (Fashion)"
+title: "Butler"
 date: 2023-03-18
 ---
 In pattern [BRBRYR](/patterns/brbryr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4058/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458
 
 ## Thread count
 DB/96 R36 DB12 R26 Y8 R/28
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/96 R36 DB12 R26 Y8 R/28 tartan")
 
 ID: /setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/
+8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Reagan (Clan?)"
+title: "Reagan"
 date: 2023-03-18
 ---
 In pattern [GBRBBY](/patterns/gbrbby/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6427/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3471
 
 ## Thread count
 LG/4 DB2 DR58 B58 DB2 O/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LG/4 DB2 DR58 B58 DB2 O/4 tartan")
 
 ID: /setts/s6/g4b2r58ba58b2y4-b00546c-ba206898-g589c5c-r800028-yd09c34/
+34/

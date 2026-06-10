@@ -1,13 +1,13 @@
 ---
-title: "Irish American Fancy Tartan Tartan Number: 6104. Earliest known date: 2004 This is a sister tartan to the Scottish American. A tartan for any Americans of Irish descent. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Irish American"
 date: 2023-03-18
 ---
 In pattern [GGKGBGWGRGGGY](/patterns/ggkgbgwgrgggy/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6104
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1852
 
 ## Thread count
 G/100 Ga6 K6 Ga18 DB14 Ga4 W8 Ga4 R10 Ga4 G16 Ga10 Ya/8

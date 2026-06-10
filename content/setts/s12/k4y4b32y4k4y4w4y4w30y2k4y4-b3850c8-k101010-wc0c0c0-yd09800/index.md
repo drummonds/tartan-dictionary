@@ -1,13 +1,13 @@
 ---
-title: "Independence Universal Tartan Tartan Number: 2285. Earliest known date: 1996 Designed by Donald Fraser 1996. Commissioned by New Scots for Independence and launched at a Scottish National Party (SNP) conference. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Independence"
 date: 2023-03-18
 ---
 In pattern [KYBYKYWYWYKY](/patterns/kybykywywyky/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2285
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1821
 
 ## Thread count
 DY/4 K4 DY2 N30 DY4 N4 DY4 K4 DY4 B32 DY4 K/4

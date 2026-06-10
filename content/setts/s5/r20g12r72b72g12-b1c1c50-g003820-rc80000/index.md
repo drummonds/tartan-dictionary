@@ -1,13 +1,13 @@
 ---
-title: "Wotherspoon (Clan)"
+title: "Wotherspoon"
 date: 2023-03-18
 ---
 In pattern [GBRGR](/patterns/gbrgr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/741/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4784
 
 ## Thread count
 DG/12 DB72 R72 DG12 R/20
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/12 DB72 R72 DG12 R/20 tartan")
 
 ID: /setts/s5/r20g12r72b72g12-b1c1c50-g003820-rc80000/
+/

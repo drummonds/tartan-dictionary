@@ -1,13 +1,13 @@
 ---
-title: "Offally County Crest (Fashion)"
+title: "Offaly County, Crest Range"
 date: 2023-03-18
 ---
 In pattern [YGKGWKGKWKY](/patterns/ygkgwkgkwky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7456/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058
 
 ## Thread count
 DY/10 G12 K9 G4 LN14 K8 G76 K6 LR4 K8 Y/24

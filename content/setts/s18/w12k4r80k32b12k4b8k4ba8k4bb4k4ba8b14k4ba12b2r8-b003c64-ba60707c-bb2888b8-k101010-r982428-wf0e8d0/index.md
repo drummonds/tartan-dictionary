@@ -26,3 +26,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F0E8D0;"><span style="color:#F0E8D0;filter:grayscale(1) invert(1) contrast(100);">#F0E8D0</span></code> `#F0E8D0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.04 |
 
 ID: /setts/s18/w12k4r80k32b12k4b8k4ba8k4bb4k4ba8b14k4ba12b2r8-b003c64-ba60707c-bb2888b8-k101010-r982428-wf0e8d0/
+00);">#005028</span></code> `#005028` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.08 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#60707C;"><span style="color:#60707C;filter:grayscale(1) invert(1) contrast(100);">#60707C</span></code> `#60707C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.17 |
+| R | <code style="background-color:#FC0040;"><span style="color:#FC0040;filter:grayscale(1) invert(1) contrast(100);">#FC0040</span></code> `#FC0040` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.12 |
+| W | <code style="background-color:#F0E8D0;"><span style="color:#F0E8D0;filter:grayscale(1) invert(1) contrast(100);">#F0E8D0</span></code> `#F0E8D0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.04 |
+
+ID: /setts/s18/w12k4r80k32b12k4b8k4ba8k4bb4k4ba8b14k4ba12b2r8-b003c64-ba60707c-bb2888b8-k101010-r982428-wf0e8d0/

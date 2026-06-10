@@ -1,13 +1,13 @@
 ---
-title: "MacLean of Duart Htg (VS) (Clan)"
+title: "MacLean of Duart Hunting"
 date: 2023-03-18
 ---
 In pattern [GKWKGKGK](/patterns/gkwkgkgk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/824/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617
 
 ## Thread count
 G/6 K12 LN4 K12 G4 K4 G32 K/4
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/6 K12 LN4 K12 G4 K4 G32 K/4 tartan")
 
 ID: /setts/s8/g6k12w4k12g4k4g32k4-g006428-k101010-we0e0e0/
+0/

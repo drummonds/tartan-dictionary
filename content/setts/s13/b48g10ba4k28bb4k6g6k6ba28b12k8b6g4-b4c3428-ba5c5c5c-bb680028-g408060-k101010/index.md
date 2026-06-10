@@ -1,13 +1,13 @@
 ---
-title: "Berwick (Fashion)"
+title: "Berwick"
 date: 2023-03-18
 ---
 In pattern [BGBKBKGKBBKBG](/patterns/bgbkbkgkbbkbg/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3686/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5160
 
 ## Thread count
 G/4 T6 K8 T12 N28 K6 G6 K6 DR4 K28 N4 G10 T/48

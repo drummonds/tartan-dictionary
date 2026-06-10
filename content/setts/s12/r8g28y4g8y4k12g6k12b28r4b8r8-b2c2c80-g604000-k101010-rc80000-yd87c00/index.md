@@ -1,13 +1,13 @@
 ---
-title: "Kinloch Anderson #1 (Corporate)"
+title: "Kinloch Anderson"
 date: 2023-03-18
 ---
 In pattern [RBRBKGKYGYGR](/patterns/rbrbkgkygygr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2404/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1987
 
 ## Thread count
 R/8 DB8 R4 DB28 K12 T6 K12 O4 T8 O4 T28 R/8

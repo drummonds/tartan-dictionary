@@ -1,13 +1,13 @@
 ---
-title: "Monoch Airline (Corporate)"
+title: "Monoch Airline"
 date: 2023-03-18
 ---
 In pattern [KYKYKY](/patterns/kykyky/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4213/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2986
 
 ## Thread count
 DY/8 K12 DY2 K2 DY32 K/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/8 K12 DY2 K2 DY32 K/4 tartan")
 
 ID: /setts/s6/y8k12y2k2y32k4-k101010-yd09800/
+d09800/

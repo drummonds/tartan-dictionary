@@ -1,13 +1,13 @@
 ---
-title: "Blair Dress (Name)"
+title: "Blair Dress"
 date: 2023-03-18
 ---
 In pattern [BRBKGRGRGKWRW](/patterns/brbkgrgrgkwrw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/483/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=292
 
 ## Thread count
 DB/4 DR4 DB24 K10 G24 DR4 G4 DR4 G24 K10 LN28 DR4 LN/4
@@ -23,5 +23,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#004800;"><span style="color:#004800;filter:grayscale(1) invert(1) contrast(100);">#004800</span></code> `#004800` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.09 |
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
+| N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
 ID: /setts/s13/b4r4b24k10g24r4g4r4g24k10w28r4w4-b000060-g004800-k000000-r880000-we0e0e0/

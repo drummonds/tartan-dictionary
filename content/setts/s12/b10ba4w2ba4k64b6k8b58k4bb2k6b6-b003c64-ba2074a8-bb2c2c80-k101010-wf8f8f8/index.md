@@ -1,13 +1,13 @@
 ---
-title: "Grampian Police (Corporate)"
+title: "Grampian Police"
 date: 2023-03-18
 ---
 In pattern [BBWBKBKBKBKB](/patterns/bbwbkbkbkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6835/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1490
 
 ## Thread count
 DB/10 B4 W2 B4 K64 DB6 K8 DB58 K4 DBa2 K6 DB/6
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s12/b10ba4w2ba4k64b6k8b58k4bb2k6b6-b003c64-ba2074a8-bb2c2c80-k101010-wf8f8f8/
+f8f8f8/

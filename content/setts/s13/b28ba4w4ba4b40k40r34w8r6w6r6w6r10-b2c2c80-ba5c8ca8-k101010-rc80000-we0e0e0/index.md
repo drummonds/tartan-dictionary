@@ -1,13 +1,13 @@
 ---
-title: "American Bicentennial Commemorative Tartan Tartan Number: 91. Earliest known date: 1975 From an idea put forward by Mr J.C.Thomson in 1974, to have an identifying tartan for American St Andrews and Caledonian Societies'. Where the lighter stripes cross each other in the dark blue, there is an effect of the Stars of the American flag. The thirteen alternate red and white stripes appear in the full sett of the tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "American St Andrews Societies (Corp."
 date: 2023-03-18
 ---
 In pattern [BBWBBKRWRWRWR](/patterns/bbwbbkrwrwrwr/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=91
+Original link http://www.tartansauthority.com/tartan-ferret/display/91/
 
 ## Thread count
 DB/28 B4 LN4 B4 DB40 K40 R34 LN8 R6 LN6 R6 LN6 R/10

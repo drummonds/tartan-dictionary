@@ -1,13 +1,13 @@
 ---
-title: "Cypress"
+title: "Cypress (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BRBRRR](/patterns/brbrrr/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=861
+Original link http://www.tartansauthority.com/tartan-ferret/display/4650/
 
 ## Thread count
 DR/8 LT8 DR68 N68 LR8 N/8

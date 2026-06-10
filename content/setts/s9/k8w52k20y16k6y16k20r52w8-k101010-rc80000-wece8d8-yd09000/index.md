@@ -1,13 +1,13 @@
 ---
-title: "Lord Laird (Fashion)"
+title: "Lord Laird"
 date: 2023-03-18
 ---
 In pattern [KWKYKYKRW](/patterns/kwkykykrw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5491/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216
 
 ## Thread count
 K/8 LN52 K20 DY16 K6 DY16 K20 R52 LN/8

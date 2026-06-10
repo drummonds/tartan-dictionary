@@ -1,13 +1,13 @@
 ---
-title: "Edinburgh & Lothian T.B. (Corporate)"
+title: "Edinburgh & Lothian Tourist Board"
 date: 2023-03-18
 ---
 In pattern [BBYBKBR](/patterns/bbybkbr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7401/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5485
 
 ## Thread count
 DBa/80 DB16 DY6 DB12 K6 DB12 R/8
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DBa/80 DB16 DY6 DB12 K6 DB12 R/8 tartan")
 
 ID: /setts/s7/b80ba16y6ba12k6ba12r8-b1c1c50-ba2c2c80-k101010-rc80000-ybc8c00/
-

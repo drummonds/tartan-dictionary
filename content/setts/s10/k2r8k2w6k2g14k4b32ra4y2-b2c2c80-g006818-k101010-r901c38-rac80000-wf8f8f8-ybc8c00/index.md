@@ -1,13 +1,13 @@
 ---
-title: "Twempy (Fashion)"
+title: "Twempy"
 date: 2023-03-18
 ---
 In pattern [KRKWKGKBRY](/patterns/krkwkgkbry/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6739/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4171
 
 ## Thread count
 DY/2 R4 DB32 K4 G14 K2 W6 K2 DR8 K/2

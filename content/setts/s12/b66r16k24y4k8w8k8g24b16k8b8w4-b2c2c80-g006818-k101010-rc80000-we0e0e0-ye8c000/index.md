@@ -1,13 +1,13 @@
 ---
-title: "MacLulich"
+title: "MacLulich Clan Tartan Tartan Number: 558. Earliest known date: 1862 Brydone See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BRKYKWKGBKBW](/patterns/brkykwkgbkbw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/558/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=558
 
 ## Thread count
 DB/66 R16 K24 Y4 K8 LN8 K8 G24 DB16 K8 DB8 LN/4
@@ -24,8 +24,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
-
-ID: /setts/s12/b66r16k24y4k8w8k8g24b16k8b8w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/
-nvert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/b66r16k24y4k8w8k8g24b16k8b8w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Essex County (Ontario)"
+title: "Essex County Ontario (District)"
 date: 2023-03-18
 ---
 In pattern [WRBGGGKRKY](/patterns/wrbgggkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1131
+Original link http://www.tartansauthority.com/tartan-ferret/display/1840/
 
 ## Thread count
 DY/60 K2 DR8 K2 Ga6 G10 DG8 B12 DR4 N/4

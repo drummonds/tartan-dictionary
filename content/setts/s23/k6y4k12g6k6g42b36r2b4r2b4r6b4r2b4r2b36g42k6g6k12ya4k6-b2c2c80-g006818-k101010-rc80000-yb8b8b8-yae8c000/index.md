@@ -1,13 +1,13 @@
 ---
-title: "Wood (Clan)"
+title: "Wood (Clan/Family)"
 date: 2023-03-18
 ---
 In pattern [KYKGKGBRBRBRBRBRBGKGKYK](/patterns/kykgkgbrbrbrbrbrbgkgkyk/).
 
 
-This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6630/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5069
 
 ## Thread count
 K/6 N4 K12 G6 K6 G42 DB36 R2 DB4 R2 DB4 R6 DB4 R2 DB4 R2 DB36 G42 K6 G6 K12 Y4 K/6

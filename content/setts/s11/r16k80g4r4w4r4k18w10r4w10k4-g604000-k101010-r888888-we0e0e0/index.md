@@ -1,13 +1,13 @@
 ---
-title: "Grey Spencer Plaid (Fashion)"
+title: "Grey Spencer Plaid"
 date: 2023-03-18
 ---
 In pattern [KWRWKRWRGKR](/patterns/kwrwkrwrgkr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2178/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1541
 
 ## Thread count
 K/4 LN10 N4 LN10 K18 N4 LN4 N4 T4 K80 N/16

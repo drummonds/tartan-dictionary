@@ -1,13 +1,13 @@
 ---
-title: "Armagh County Crest (Fashion)"
+title: "Armagh County, Crest Range"
 date: 2023-03-18
 ---
 In pattern [WBGKBGYGW](/patterns/wbgkbgygw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7447/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4927
 
 ## Thread count
 LN/6 DBa8 DG16 K10 DB40 G6 Y26 G8 LN/4

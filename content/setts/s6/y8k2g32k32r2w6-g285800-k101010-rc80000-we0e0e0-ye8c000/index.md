@@ -1,13 +1,13 @@
 ---
-title: "MacLamroc"
+title: "MacLamrock (Clan)"
 date: 2023-03-18
 ---
 In pattern [WRKGKY](/patterns/wrkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2593
+Original link http://www.tartansauthority.com/tartan-ferret/display/2591/
 
 ## Thread count
 LN/6 R2 K32 G32 K2 Y/8
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/6 R2 K32 G32 K2 Y/8 tartan")
 
 ID: /setts/s6/y8k2g32k32r2w6-g285800-k101010-rc80000-we0e0e0-ye8c000/
-00/

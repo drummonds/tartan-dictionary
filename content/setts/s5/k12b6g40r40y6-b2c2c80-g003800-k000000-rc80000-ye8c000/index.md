@@ -1,13 +1,13 @@
 ---
-title: "Douglas of Roxburgh (Clan)"
+title: "Douglas of Roxburgh"
 date: 2023-03-18
 ---
 In pattern [KBGRY](/patterns/kbgry/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4699/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=961
 
 ## Thread count
 K/12 DB6 G40 R40 Y/6
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/12 DB6 G40 R40 Y/6 tartan")
 
 ID: /setts/s5/k12b6g40r40y6-b2c2c80-g003800-k000000-rc80000-ye8c000/
+00/

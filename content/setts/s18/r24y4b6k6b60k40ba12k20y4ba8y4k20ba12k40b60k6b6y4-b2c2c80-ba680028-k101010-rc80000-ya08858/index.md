@@ -1,13 +1,13 @@
 ---
-title: "KPMG"
+title: "KPGM Corporate Tartan Tartan Number: 2287. Earliest known date: 1996 Designed by Polly Wittering of House of Edgar for KPMG the international accountancy firm. KPMG International Cooperative (\"KPMG International\") is a Swiss entity. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RYBKBKBKYBYKBKBKBY](/patterns/rybkbkbkybykbkbkby/).
 
 
-This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2015
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2287
 
 ## Thread count
 LT/4 DB6 K6 DB60 K40 DR12 K20 LT4 DR8 LT4 K20 DR12 K40 DB60 K6 DB6 LT4 R/24

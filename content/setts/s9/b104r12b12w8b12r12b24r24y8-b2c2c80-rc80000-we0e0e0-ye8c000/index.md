@@ -1,13 +1,13 @@
 ---
-title: "Newton Primary (Corporate)"
+title: "Newton Primary School"
 date: 2023-03-18
 ---
 In pattern [BRBWBRBRY](/patterns/brbwbrbry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2417/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131
 
 ## Thread count
 DB/104 R12 DB12 LN8 DB12 R12 DB24 R24 Y/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b104r12b12w8b12r12b24r24y8-b2c2c80-rc80000-we0e0e0-ye8c000/
+

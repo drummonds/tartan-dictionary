@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [WBRYRY](/patterns/wbryry/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7133/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5437
 
 ## Thread count
 LN/4 DB98 R10 Y4 R10 Y/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/4 DB98 R10 Y4 R10 Y/4 tartan")
 
 ID: /setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/
-00/

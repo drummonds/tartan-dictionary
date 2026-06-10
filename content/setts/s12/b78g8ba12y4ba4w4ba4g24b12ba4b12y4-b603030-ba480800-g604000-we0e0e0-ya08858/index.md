@@ -1,13 +1,13 @@
 ---
-title: "Glen Clova #2 (Fashion)"
+title: "Glen Clova #2"
 date: 2023-03-18
 ---
 In pattern [BGBYBWBGBBBY](/patterns/bgbybwbgbbby/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1748/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1371
 
 ## Thread count
 DR/78 T8 DRa12 LT4 DRa4 LN4 DRa4 T24 DR12 DRa4 DR12 LT/4

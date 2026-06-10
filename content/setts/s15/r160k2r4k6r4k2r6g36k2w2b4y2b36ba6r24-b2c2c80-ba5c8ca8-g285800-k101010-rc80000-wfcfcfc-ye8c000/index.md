@@ -1,13 +1,13 @@
 ---
-title: "MacRae of Ardentoul - 1820 #1"
+title: "MacRae of Ardentoul"
 date: 2023-03-18
 ---
 In pattern [RBBYBWKGRKRKRKR](/patterns/rbbybwkgrkrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1178/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2747
 
 ## Thread count
 R/24 B6 DB36 Y2 DB4 W2 K2 G36 R6 K2 R4 K6 R4 K2 R/160

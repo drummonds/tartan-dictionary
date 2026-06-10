@@ -1,13 +1,13 @@
 ---
-title: "Stott Personal Tartan Tartan Number: 7112. Earliest known date: 2007 The design includes the white Cross of St Piran, the Cornish flag which has connections with the family name. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Stott (Personal)"
 date: 2023-03-18
 ---
 In pattern [WKBGYRBKW](/patterns/wkbgyrbkw/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7112
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3972
 
 ## Thread count
 W/4 K50 B4 DR12 Ya4 G12 B4 K50 W/4

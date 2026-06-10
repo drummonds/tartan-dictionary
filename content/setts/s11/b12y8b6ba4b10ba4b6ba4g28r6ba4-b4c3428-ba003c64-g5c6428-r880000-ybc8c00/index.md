@@ -1,13 +1,13 @@
 ---
-title: "Limerick, County"
+title: "Limerick, County (District)"
 date: 2023-03-18
 ---
 In pattern [BRGBBBBBBYB](/patterns/brgbbbbbbyb/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2113
+Original link http://www.tartansauthority.com/tartan-ferret/display/2272/
 
 ## Thread count
 DB/4 DR6 G28 DB4 T6 DB4 T10 DB4 T6 DY8 T/12
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 
 ID: /setts/s11/b12y8b6ba4b10ba4b6ba4g28r6ba4-b4c3428-ba003c64-g5c6428-r880000-ybc8c00/
-c8c00/

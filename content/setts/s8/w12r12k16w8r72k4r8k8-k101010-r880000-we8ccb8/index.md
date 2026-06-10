@@ -1,13 +1,13 @@
 ---
-title: "Lougheed"
+title: "Lougheed (Name?)"
 date: 2023-03-18
 ---
 In pattern [KRKRWKRW](/patterns/krkrwkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2228
+Original link http://www.tartansauthority.com/tartan-ferret/display/5932/
 
 ## Thread count
 K/8 DR8 K4 DR72 LR8 K16 DR12 LR/12
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 DR8 K4 DR72 LR8 K16 DR12 LR/12 tartan")
 
 ID: /setts/s8/w12r12k16w8r72k4r8k8-k101010-r880000-we8ccb8/
-b8/

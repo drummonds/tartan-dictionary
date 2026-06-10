@@ -1,13 +1,13 @@
 ---
-title: "Fiona"
+title: "Fiona (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RBWRWRWBWRWBW](/patterns/rbwrwrwbwrwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1187
+Original link http://www.tartansauthority.com/tartan-ferret/display/4861/
 
 ## Thread count
 LT/8 N4 LY48 LT4 LY4 LT4 LY8 N96 W8 LT8 W8 N8 W/64

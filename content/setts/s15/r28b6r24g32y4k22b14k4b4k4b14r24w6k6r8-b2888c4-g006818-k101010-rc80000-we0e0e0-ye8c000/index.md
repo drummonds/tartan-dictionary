@@ -1,13 +1,13 @@
 ---
-title: "Kidd"
+title: "Kidd (Clan?)"
 date: 2023-03-18
 ---
 In pattern [RBRGYKBKBKBRWKR](/patterns/rbrgykbkbkbrwkr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1957
+Original link http://www.tartansauthority.com/tartan-ferret/display/1409/
 
 ## Thread count
 R/28 B6 R24 G32 Y4 K22 B14 K4 B4 K4 B14 R24 LN6 K6 R/8
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s15/r28b6r24g32y4k22b14k4b4k4b14r24w6k6r8-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/
-00/

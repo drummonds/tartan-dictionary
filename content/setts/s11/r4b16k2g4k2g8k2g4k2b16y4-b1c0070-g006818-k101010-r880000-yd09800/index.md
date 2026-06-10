@@ -1,13 +1,13 @@
 ---
-title: "MacCainsh"
+title: "MacCainsh (Clan)"
 date: 2023-03-18
 ---
 In pattern [RBKGKGKGKBY](/patterns/rbkgkgkgkby/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2304
+Original link http://www.tartansauthority.com/tartan-ferret/display/1379/
 
 ## Thread count
 DR/4 DB16 K2 G4 K2 G8 K2 G4 K2 DB16 DY/4

@@ -1,13 +1,13 @@
 ---
-title: "Celts, Tartan of the"
+title: "Celts, Tartan of the (Universal)"
 date: 2023-03-18
 ---
 In pattern [RKRKGRBRBYKY](/patterns/rkrkgrbrbyky/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=609
+Original link http://www.tartansauthority.com/tartan-ferret/display/6706/
 
 ## Thread count
 R/12 K6 R6 K6 G90 R24 DB24 R18 DB18 Y6 K6 Y/12

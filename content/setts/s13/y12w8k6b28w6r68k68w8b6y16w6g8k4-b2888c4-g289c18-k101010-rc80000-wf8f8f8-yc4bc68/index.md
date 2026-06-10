@@ -1,13 +1,13 @@
 ---
-title: "Mazarian"
+title: "Nazarian (Name)"
 date: 2023-03-18
 ---
 In pattern [KGWYBWKRWBKWY](/patterns/kgwybwkrwbkwy/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868
+Original link http://www.tartansauthority.com/tartan-ferret/display/6728/
 
 ## Thread count
 K/4 G8 W6 LG16 B6 W8 K68 R68 W6 B28 K6 W8 LG/12
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s13/y12w8k6b28w6r68k68w8b6y16w6g8k4-b2888c4-g289c18-k101010-rc80000-wf8f8f8-yc4bc68/
-8/

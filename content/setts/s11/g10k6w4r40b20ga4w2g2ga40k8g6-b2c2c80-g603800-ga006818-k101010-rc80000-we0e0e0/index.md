@@ -1,13 +1,13 @@
 ---
-title: "MacCulloch"
+title: "MacCulloch (Name)"
 date: 2023-03-18
 ---
 In pattern [GKGGWGBRWKG](/patterns/gkggwgbrwkg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5356
+Original link http://www.tartansauthority.com/tartan-ferret/display/3340/
 
 ## Thread count
 T/6 K8 G40 T2 LN2 G4 DB20 R40 LN4 K6 T/10

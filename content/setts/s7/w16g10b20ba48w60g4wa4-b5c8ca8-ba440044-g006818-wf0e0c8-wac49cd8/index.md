@@ -1,13 +1,13 @@
 ---
-title: "Shiel, Purple (Dance)"
+title: "Shiel Purple"
 date: 2023-03-18
 ---
 In pattern [WGBBWGW](/patterns/wgbbwgw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7583/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5607
 
 ## Thread count
 LP/4 G4 W60 DP48 B20 G10 W/16

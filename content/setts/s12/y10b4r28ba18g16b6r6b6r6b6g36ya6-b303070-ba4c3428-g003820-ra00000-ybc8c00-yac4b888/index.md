@@ -1,13 +1,13 @@
 ---
-title: "Meath, County (District)"
+title: "Meath, County"
 date: 2023-03-18
 ---
 In pattern [YBRBGBRBRBGY](/patterns/ybrbgbrbrbgy/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2269/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2907
 
 ## Thread count
 DY/10 DB4 DR28 T18 DG16 DB6 DR6 DB6 DR6 DB6 DG36 LG/6

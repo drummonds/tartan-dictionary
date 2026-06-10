@@ -1,13 +1,13 @@
 ---
-title: "Edmonton, City of"
+title: "City of Edmonton (District)"
 date: 2023-03-18
 ---
 In pattern [BYGYBYBWY](/patterns/bygybybwy/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087
+Original link http://www.tartansauthority.com/tartan-ferret/display/7262/
 
 ## Thread count
 B/32 Y8 G16 Y8 P16 Y8 B32 LY60 DY/8
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b32y8g16y8ba16y8b32w60ya8-b2888c4-ba780078-g289c18-wf0f0d8-ye8c000-yabc8c00/
-8c00/

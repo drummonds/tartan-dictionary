@@ -1,13 +1,13 @@
 ---
-title: "Royal Air Force Lossiemouth"
+title: "RAF Lossiemouth (Military)"
 date: 2023-03-18
 ---
 In pattern [RBRBGBKGKY](/patterns/rbrbgbkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3587
+Original link http://www.tartansauthority.com/tartan-ferret/display/2188/
 
 ## Thread count
 DY/6 K10 G4 K40 DB16 G6 B36 DR4 B36 N/6

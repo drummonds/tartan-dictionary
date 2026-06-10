@@ -1,13 +1,13 @@
 ---
-title: "Westwood MacStone (Fashion)"
+title: "Westwood MacStone"
 date: 2023-03-18
 ---
 In pattern [RYKWKYRYKW](/patterns/rykwkyrykw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7486/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5527
 
 ## Thread count
 DR/2 LT12 K12 LN4 K26 LT26 DR4 LT26 K26 LN/4
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.21 |
 
 ID: /setts/s10/w4k26y26r4y26k26w4k12y12r2-k101010-r800028-we0e0e0-ya08858/
+8858/

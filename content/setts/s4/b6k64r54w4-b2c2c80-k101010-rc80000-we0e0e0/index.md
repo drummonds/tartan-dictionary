@@ -1,13 +1,13 @@
 ---
-title: "Templar Grand Priory USA"
+title: "Templar Grand Priory USA (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKRW](/patterns/bkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4086
+Original link http://www.tartansauthority.com/tartan-ferret/display/6503/
 
 ## Thread count
 DB/6 K64 R54 LN/4

@@ -1,13 +1,13 @@
 ---
-title: "Rikaco Morning Dew 2 (Fashion)"
+title: "Rikaco Morning Dew #2"
 date: 2023-03-18
 ---
 In pattern [YWYGYYWY](/patterns/ywygyywy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6392/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3512
 
 ## Thread count
 N/6 LB6 N2 LG50 N30 LR10 LB8 Y/4

@@ -1,13 +1,13 @@
 ---
-title: "Evergreen (Fashion)"
+title: "Evergreen"
 date: 2023-03-18
 ---
 In pattern [BGBYWYBW](/patterns/bgbywybw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4830/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1140
 
 ## Thread count
 LN/8 N120 LT40 LN4 LT40 N4 Na40 N/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/8 N120 LT40 LN4 LT40 N4 Na40 N/4 tartan")
 
 ID: /setts/s8/w8b120y40w4y40b4g40b4-b3c3c3c-g848870-we0e0e0-ya88c58/
+8c58/

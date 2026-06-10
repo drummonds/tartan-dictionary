@@ -1,13 +1,13 @@
 ---
-title: "O'Sheehan (Name?)"
+title: "O'Sheehan"
 date: 2023-03-18
 ---
 In pattern [WGKGBKYKWKBY](/patterns/wgkgbkykwkby/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7115/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3271
 
 ## Thread count
 LN/4 G4 K4 G12 DB8 K4 Y4 K4 LN4 K8 DB34 Y/4

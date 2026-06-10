@@ -1,13 +1,13 @@
 ---
-title: "Tenmaya Check (Corporate)"
+title: "Tenmaya Check"
 date: 2023-03-18
 ---
 In pattern [WRBRBRRW](/patterns/wrbrbrrw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2346/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4087
 
 ## Thread count
 N/4 DO20 DB8 DO4 DB4 DO4 Na48 N/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "N/4 DO20 DB8 DO4 DB4 DO4 Na48 N/4 tartan")
 
 ID: /setts/s8/w4r48ra4b4ra4b8ra20w4-b003c64-r888888-rad05054-wc0c0c0/
+c0c0c0/

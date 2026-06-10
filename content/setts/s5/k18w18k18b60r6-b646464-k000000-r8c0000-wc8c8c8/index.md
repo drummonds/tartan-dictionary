@@ -1,13 +1,13 @@
 ---
-title: "Greystone (Burberry Grey)"
+title: "Greystone (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KWKBR](/patterns/kwkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1549
+Original link http://www.tartansauthority.com/tartan-ferret/display/5123/
 
 ## Thread count
 DR/6 Na60 K18 N18 K/18
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/6 Na60 K18 N18 K/18 tartan")
 
 ID: /setts/s5/k18w18k18b60r6-b646464-k000000-r8c0000-wc8c8c8/
+-wc8c8c8/

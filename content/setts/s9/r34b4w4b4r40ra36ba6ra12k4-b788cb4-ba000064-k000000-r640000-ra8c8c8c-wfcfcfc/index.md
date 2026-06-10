@@ -1,13 +1,13 @@
 ---
-title: "Salt Lake Scots"
+title: "Salt Lake Scots (District)"
 date: 2023-03-18
 ---
 In pattern [KRBRRBWBR](/patterns/krbrrbwbr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3644
+Original link http://www.tartansauthority.com/tartan-ferret/display/5384/
 
 ## Thread count
 DR/34 B4 W4 B4 DR40 N36 DB6 N12 K/4

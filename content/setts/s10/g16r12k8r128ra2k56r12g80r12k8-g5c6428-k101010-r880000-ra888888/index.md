@@ -1,13 +1,13 @@
 ---
-title: "Laporte"
+title: "Laporte (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GRKRRKRGRK](/patterns/grkrrkrgrk/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2050
+Original link http://www.tartansauthority.com/tartan-ferret/display/5388/
 
 ## Thread count
 G/16 DR12 K8 DR128 N2 K56 DR12 G80 DR12 K/8

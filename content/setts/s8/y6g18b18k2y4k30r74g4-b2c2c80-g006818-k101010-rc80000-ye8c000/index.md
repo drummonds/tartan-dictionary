@@ -1,13 +1,13 @@
 ---
-title: "Mensah (Corporate)"
+title: "Mensah"
 date: 2023-03-18
 ---
 In pattern [GRKYKBGY](/patterns/grkykbgy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6216/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2918
 
 ## Thread count
 G/4 R74 K30 Y4 K2 DB18 G18 Y/6

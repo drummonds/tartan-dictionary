@@ -1,13 +1,13 @@
 ---
-title: "Carter, Sir George-Etienne (Commem)"
+title: "Sir George Etienne-Cartier Canada Tartan Tartan Number: 277. Earliest known date: c. 1983 Sir George Etienne-Cartier, 1814 - 1873. was one of the primary architects of the Canadian Confederation and co-premier with John A MacDonald. Another record (276) in STS list shows Mrs Elspie Gillespie 1978 as source. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKBRBKGYGR](/patterns/bkbrbkgygr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/277/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=277
 
 ## Thread count
 DB/4 K8 DB10 R40 DB10 K28 G24 Y6 G12 R/8
@@ -23,8 +23,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
-
-ID: /setts/s10/r8g12y6g24k28b10r40b10k8b4-b2c2c80-g006818-k101010-rc80000-ye8c000/
-ound-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/r8g12y6g24k28b10r40b10k8b4-b2c2c80-g006818-k101010-rc80000-ye8c000/

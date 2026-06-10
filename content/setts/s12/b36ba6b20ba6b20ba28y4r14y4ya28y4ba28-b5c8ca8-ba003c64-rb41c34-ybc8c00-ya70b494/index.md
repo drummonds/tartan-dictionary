@@ -1,13 +1,13 @@
 ---
-title: "Ralston (UK) (Name)"
+title: "Ralston (UK)"
 date: 2023-03-18
 ---
 In pattern [BBBBBBYRYYYB](/patterns/bbbbbbyryyyb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7075/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3448
 
 ## Thread count
 B/36 DB6 B20 DB6 B20 DB28 DY4 R14 DY4 LG28 DY4 DB/28
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#B41C34;"><span style="color:#B41C34;filter:grayscale(1) invert(1) contrast(100);">#B41C34</span></code> `#B41C34` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.05 |
 
 ID: /setts/s12/b36ba6b20ba6b20ba28y4r14y4ya28y4ba28-b5c8ca8-ba003c64-rb41c34-ybc8c00-ya70b494/
+4/

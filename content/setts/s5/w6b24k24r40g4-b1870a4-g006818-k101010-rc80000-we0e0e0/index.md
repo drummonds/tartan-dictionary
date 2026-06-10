@@ -1,13 +1,13 @@
 ---
-title: "Baillie of Polkemmet Red"
+title: "Baillie of Polkemett, Red (Clan)"
 date: 2023-03-18
 ---
 In pattern [GRKBW](/patterns/grkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=166
+Original link http://www.tartansauthority.com/tartan-ferret/display/1008/
 
 ## Thread count
 G/4 R40 K24 B24 LN/6
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/4 R40 K24 B24 LN/6 tartan")
 
 ID: /setts/s5/w6b24k24r40g4-b1870a4-g006818-k101010-rc80000-we0e0e0/
-0e0/

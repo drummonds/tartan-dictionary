@@ -1,13 +1,13 @@
 ---
-title: "Kernow Spirit"
+title: "Kernow Spirit (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KWKYWKY](/patterns/kwkywky/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5639
+Original link http://www.tartansauthority.com/tartan-ferret/display/7619/
 
 ## Thread count
 K/28 LN8 K16 Y90 LN6 K2 Y/4
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/28 LN8 K16 Y90 LN6 K2 Y/4 tartan")
 
 ID: /setts/s7/k28w8k16y90w6k2y4-k101010-we0e0e0-ye8c000/
-e8c000/

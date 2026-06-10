@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GWYK](/patterns/gwyk/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=928
+Original link http://www.tartansauthority.com/tartan-ferret/display/7175/
 
 ## Thread count
 G/12 W12 O12 K/140

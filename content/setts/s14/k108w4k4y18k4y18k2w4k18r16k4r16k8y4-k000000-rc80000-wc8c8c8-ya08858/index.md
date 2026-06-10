@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s14/k108w4k4y18k4y18k2w4k18r16k4r16k8y4-k000000-rc80000-wc8c8c8-ya08858/
+858/

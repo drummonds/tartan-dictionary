@@ -28,10 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LG/8 R58 G6 R8 G28 Y6 G28 R/8 tartan")
 
 ID: /setts/s8/g8r58ga6r8ga28y6ga28r8-g789484-ga006818-rc80000-yd8b000/
-tyle="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
-
-# Sample pattern
-
-![Tartan detail](tartan.png "LG/8 R58 G6 R8 G28 Y6 G28 R/8 tartan")
-
-ID: /setts/s8/g8r58ga6r8ga28y6ga28r8-g789484-ga006818-rc80000-yd8b000/

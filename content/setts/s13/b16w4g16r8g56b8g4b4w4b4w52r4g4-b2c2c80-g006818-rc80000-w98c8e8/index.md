@@ -1,13 +1,13 @@
 ---
-title: "Maine Dirigo (Fashion)"
+title: "Maine Dirigo"
 date: 2023-03-18
 ---
 In pattern [BWGRGBGBWBWRG](/patterns/bwgrgbgbwbwrg/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3068/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2787
 
 ## Thread count
 DB/16 LB4 G16 R8 G56 DB8 G4 DB4 LB4 DB4 LB52 R4 G/4

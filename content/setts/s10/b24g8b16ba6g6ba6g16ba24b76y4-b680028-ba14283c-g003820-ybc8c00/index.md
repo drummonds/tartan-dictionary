@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.16 |
 
 ID: /setts/s10/b24g8b16ba6g6ba6g16ba24b76y4-b680028-ba14283c-g003820-ybc8c00/
-0/

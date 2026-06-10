@@ -1,13 +1,13 @@
 ---
-title: "Glasgow Celtic Society"
+title: "Glasgow Celtic Society (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBGBGBGKGKGKGRGBK](/patterns/bgbgbgbgkgkgkgrgbk/).
 
 
-This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1355
+Original link http://www.tartansauthority.com/tartan-ferret/display/594/
 
 ## Thread count
 DB/6 T6 DB6 T6 DB6 T6 DB8 G8 K6 G6 K6 G6 K6 G26 R16 G8 DB6 K/12

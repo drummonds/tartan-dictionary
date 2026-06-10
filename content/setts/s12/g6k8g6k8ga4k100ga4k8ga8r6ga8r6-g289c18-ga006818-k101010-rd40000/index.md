@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GKGKGKGKGRGR](/patterns/gkgkgkgkgrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5652
+Original link http://www.tartansauthority.com/tartan-ferret/display/7637/
 
 ## Thread count
 G/6 K8 G6 K8 Ga4 K100 Ga4 K8 Ga8 R6 Ga8 R/6
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#D40000;"><span style="color:#D40000;filter:grayscale(1) invert(1) contrast(100);">#D40000</span></code> `#D40000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.03 |
 
 ID: /setts/s12/g6k8g6k8ga4k100ga4k8ga8r6ga8r6-g289c18-ga006818-k101010-rd40000/
+00/

@@ -1,13 +1,13 @@
 ---
-title: "Puffin (Personal)"
+title: "Puffin (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KWKWGWGWR](/patterns/kwkwgwgwr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419
+Original link http://www.tartansauthority.com/tartan-ferret/display/2374/
 
 ## Thread count
 K/16 W4 K4 W36 G4 W4 G4 W4 T/16

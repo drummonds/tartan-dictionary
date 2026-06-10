@@ -1,13 +1,13 @@
 ---
-title: "Lossiemouth/Hersbruck (Commem)"
+title: "Lossiemouth/Hersbruck"
 date: 2023-03-18
 ---
 In pattern [GBGKBW](/patterns/gbgkbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2311/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2225
 
 ## Thread count
 G/52 DB6 G24 K20 P30 LN/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/52 DB6 G24 K20 P30 LN/4 tartan")
 
 ID: /setts/s6/g52b6g24k20ba30w4-b2c2c80-ba780078-g006818-k101010-we0e0e0/
+0e0/

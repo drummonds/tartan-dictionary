@@ -1,5 +1,5 @@
 ---
-title: "MacKendrick (Clan)"
+title: "Henderson (Clan)"
 date: 2023-03-18
 ---
 In pattern [WBGBGKGKY](/patterns/wbgbgkgky/).
@@ -7,7 +7,7 @@ In pattern [WBGBGKGKY](/patterns/wbgbgkgky/).
 
 This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3404/
+Original link http://www.tartansauthority.com/tartan-ferret/display/1762/
 
 ## Thread count
 LN/4 DB24 G16 DB4 G64 K4 G16 K24 Y/4

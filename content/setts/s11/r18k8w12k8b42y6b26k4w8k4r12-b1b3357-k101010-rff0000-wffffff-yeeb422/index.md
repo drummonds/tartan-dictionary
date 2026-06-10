@@ -1,13 +1,13 @@
 ---
-title: "Dauphinee Name Tartan Tartan Number: 10648. Earliest known date: 2012 Andrew Dauphinee designed this tartan for his father Ronald Dauphinee and all his family. The colours are taken from the Dauphinee family crest and the flags of Halifax and Nova Scotia in Canada, from where the family originated. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Dauphinee (Trussville, Alabama) (Personal)"
 date: 2023-03-18
 ---
 In pattern [RKWKBYBKWKR](/patterns/rkwkbybkwkr/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10648
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10648
 
 ## Thread count
 R/12 K4 W8 K4 DB26 Y6 DB42 K8 W12 K8 R/18

@@ -1,13 +1,13 @@
 ---
-title: "Manx Laxey Red District Tartan Tartan Number: 1721. Earliest known date: 1981 Presented by Dr. D.G. Teall in 1981 See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Manx Laxey (Red)"
 date: 2023-03-18
 ---
 In pattern [RYRGWRRGW](/patterns/ryrgwrrgw/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1721
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2819
 
 ## Thread count
 LN/4 T6 N6 R8 LN20 T4 N6 Y4 R/48

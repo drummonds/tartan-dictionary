@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KYKRKRKRKR](/patterns/kykrkrkrkr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786
+Original link http://www.tartansauthority.com/tartan-ferret/display/6211/
 
 ## Thread count
 K/8 Y4 K74 R6 K6 R6 K44 R6 K6 R/14

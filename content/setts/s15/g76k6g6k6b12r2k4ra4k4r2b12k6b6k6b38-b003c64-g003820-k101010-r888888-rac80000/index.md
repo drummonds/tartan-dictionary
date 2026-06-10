@@ -1,13 +1,13 @@
 ---
-title: "Doyel"
+title: "Doyel (Name)"
 date: 2023-03-18
 ---
 In pattern [BKBKBRKRKRBKGKG](/patterns/bkbkbrkrkrbkgkg/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5686
+Original link http://www.tartansauthority.com/tartan-ferret/display/7684/
 
 ## Thread count
 DB/38 K6 DB6 K6 DB12 N2 K4 R4 K4 N2 DB12 K6 DG6 K6 DG/76

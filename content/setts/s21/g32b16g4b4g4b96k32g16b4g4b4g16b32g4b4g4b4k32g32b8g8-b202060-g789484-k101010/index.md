@@ -1,13 +1,13 @@
 ---
-title: "Matheson Hunting (Blue)"
+title: "Matheson (Personal)"
 date: 2023-03-18
 ---
 In pattern [GBGBGBKGBGBGBGBGBKGBG](/patterns/gbgbgbkgbgbgbgbgbkgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4852
+Original link http://www.tartansauthority.com/tartan-ferret/display/3458/
 
 ## Thread count
 LG/32 DB16 LG4 DB4 LG4 DB96 K32 LG16 DB4 LG4 DB4 LG16 DB32 LG4 DB4 LG4 DB4 K32 LG32 DB8 LG/8

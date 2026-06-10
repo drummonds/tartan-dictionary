@@ -1,13 +1,13 @@
 ---
-title: "Total (Corporate)"
+title: "Total"
 date: 2023-03-18
 ---
 In pattern [BYBKWKYKBKYKWKRYB](/patterns/bybkwkykbkykwkryb/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2615/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141
 
 ## Thread count
 DB/48 O4 DB28 K6 W4 K6 O4 K8 DBa8 K8 O4 K6 W4 K6 R24 O4 DBa/48

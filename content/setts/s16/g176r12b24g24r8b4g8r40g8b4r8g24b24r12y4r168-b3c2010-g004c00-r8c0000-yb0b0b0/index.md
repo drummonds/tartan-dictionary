@@ -1,5 +1,5 @@
 ---
-title: "Norwegian - Guldbrandsdalen"
+title: "Gudbrandsdalen of Mannsdrakt"
 date: 2023-03-18
 ---
 In pattern [GRBGRBGRGBRGBRYR](/patterns/grbgrbgrgbrgbryr/).
@@ -7,7 +7,7 @@ In pattern [GRBGRBGRGBRGBRYR](/patterns/grbgrbgrgbrgbryr/).
 
 This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3164
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1555
 
 ## Thread count
 DR/168 N4 DR12 K24 G24 DR8 K4 G8 DR40 G8 K4 DR8 G24 K24 DR12 G/176
@@ -24,5 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
 ID: /setts/s16/g176r12b24g24r8b4g8r40g8b4r8g24b24r12y4r168-b3c2010-g004c00-r8c0000-yb0b0b0/
-
 0/

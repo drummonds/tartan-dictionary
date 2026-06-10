@@ -1,13 +1,13 @@
 ---
-title: "Louisiana"
+title: "Louisiana (District"
 date: 2023-03-18
 ---
 In pattern [KGWGKBKW](/patterns/kgwgkbkw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2233
+Original link http://www.tartansauthority.com/tartan-ferret/display/1945/
 
 ## Thread count
 K/6 G6 N4 G22 K24 DB36 K4 N/6
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 G6 N4 G22 K24 DB36 K4 N/6 tartan")
 
 ID: /setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/
-c8c8/

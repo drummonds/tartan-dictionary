@@ -1,13 +1,13 @@
 ---
-title: "Tarbh Deargh (Red Bull) (Corporate)"
+title: "Tarbh Deargh (Red Bull)"
 date: 2023-03-18
 ---
 In pattern [WBYY](/patterns/wbyy/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3974/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072
 
 ## Thread count
 LN/160 DB60 O10 Y/8

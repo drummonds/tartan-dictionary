@@ -1,13 +1,13 @@
 ---
-title: "Robb (Personal)"
+title: "Robb Hunting (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRGBKYGRB](/patterns/brgbkygrb/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4854
+Original link http://www.tartansauthority.com/tartan-ferret/display/3157/
 
 ## Thread count
 DB/4 R2 DG52 Y2 K36 DB52 LG2 R2 DB/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s9/b4r2g52y2k36b52ga2r2b4-b202060-g003820-ga789484-k101010-rc80000-yd8b000/
-00/

@@ -1,13 +1,13 @@
 ---
-title: "Child, The (Fashion)"
+title: "Child, The"
 date: 2023-03-18
 ---
 In pattern [BKGKBRBKRKBY](/patterns/bkgkbrbkrkby/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4139/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=633
 
 ## Thread count
 DY/8 LP20 K2 R8 K2 LP20 DR8 LP20 K2 G8 K2 LP/20
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C82800;"><span style="color:#C82800;filter:grayscale(1) invert(1) contrast(100);">#C82800</span></code> `#C82800` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.03 |
 
 ID: /setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/
+88c00/

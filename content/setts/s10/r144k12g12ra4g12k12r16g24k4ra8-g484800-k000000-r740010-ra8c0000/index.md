@@ -1,13 +1,13 @@
 ---
-title: "Moulin Fashion Tartan Tartan Number: 5655. Earliest known date: 1970 From Reis of New Haven, 1970 Same sett as #4490. Ref to Reis reads: \"\"Our exclusive English hand-blocked silk foulards are created by Reis craftsmen of only the purest unweighted silks, hand-sewn and fully lined. When you tie one on, you'll know it's a Reis.\" Reis were based in New Haven, Connecticut. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Moulin"
 date: 2023-03-18
 ---
 In pattern [RKGRGKRGKR](/patterns/rkgrgkrgkr/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5655
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029
 
 ## Thread count
 DR/8 K4 T24 DRa16 K12 T12 DR4 T12 K12 DRa/144

@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BGKYG](/patterns/bgkyg/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7370/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5476
 
 ## Thread count
 DB/62 G4 K40 Y4 Ga/48
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/62 G4 K40 Y4 Ga/48 tartan")
 
 ID: /setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/
-00/

@@ -1,13 +1,13 @@
 ---
-title: "FC Barcelona (Corporate)"
+title: "FC Barcelona"
 date: 2023-03-18
 ---
 In pattern [RBRRRRRRBY](/patterns/rbrrrrrrby/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7654/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5664
 
 ## Thread count
 DR/6 B6 DR36 R4 DR4 R6 DR4 R8 B36 Y/4
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/r6b6r36ra4r4ra6r4ra8b36y4-b3850c8-r880000-rac80000-ye8c000/
+e8c000/

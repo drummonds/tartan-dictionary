@@ -1,13 +1,13 @@
 ---
-title: "Dodd of Branford"
+title: "Dodd of Branford (Name)"
 date: 2023-03-18
 ---
 In pattern [GRGBKBWYK](/patterns/grgbkbwyk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942
+Original link http://www.tartansauthority.com/tartan-ferret/display/4686/
 
 ## Thread count
 G/8 DR4 G40 DB16 K16 DB8 N2 DY4 K/2

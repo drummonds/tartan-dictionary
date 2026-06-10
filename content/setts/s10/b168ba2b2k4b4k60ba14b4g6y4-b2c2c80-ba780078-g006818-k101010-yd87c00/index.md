@@ -1,13 +1,13 @@
 ---
-title: "Ulster Scots (Fashion)"
+title: "Ulster Scots"
 date: 2023-03-18
 ---
 In pattern [BBBKBKBBGY](/patterns/bbbkbkbbgy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7846/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5798
 
 ## Thread count
 DB/168 P2 DB2 K4 DB4 K60 P14 DB4 G6 O/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 
 ID: /setts/s10/b168ba2b2k4b4k60ba14b4g6y4-b2c2c80-ba780078-g006818-k101010-yd87c00/
+7c00/

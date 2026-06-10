@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RGBGR](/patterns/rgbgr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226
+Original link http://www.tartansauthority.com/tartan-ferret/display/5498/
 
 ## Thread count
 DR/8 G68 DB8 G8 DR/24
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/8 G68 DB8 G8 DR/24 tartan")
 
 ID: /setts/s5/r24g8b8g68r8-b00008c-g004c00-r880000/
+00/

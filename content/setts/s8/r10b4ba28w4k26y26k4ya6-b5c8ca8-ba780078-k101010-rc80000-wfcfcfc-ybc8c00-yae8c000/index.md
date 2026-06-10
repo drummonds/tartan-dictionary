@@ -1,13 +1,13 @@
 ---
-title: "Culloden - 1893 (O&R)"
+title: "Culloden"
 date: 2023-03-18
 ---
 In pattern [RBBWKYKY](/patterns/rbbwkyky/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1328/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=820
 
 ## Thread count
 R/10 B4 P28 W4 K26 DY26 K4 Y/6

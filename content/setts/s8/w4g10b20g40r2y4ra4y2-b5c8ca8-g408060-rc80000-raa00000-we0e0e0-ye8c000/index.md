@@ -1,13 +1,13 @@
 ---
-title: "Muskoka (District)"
+title: "Muskoka"
 date: 2023-03-18
 ---
 In pattern [WGBGRYRY](/patterns/wgbgryry/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1799/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3083
 
 ## Thread count
 LN/4 G10 B20 G40 R2 Y4 DR4 Y/2

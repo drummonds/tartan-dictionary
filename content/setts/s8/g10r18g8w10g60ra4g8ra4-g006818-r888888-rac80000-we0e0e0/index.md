@@ -1,13 +1,13 @@
 ---
-title: "Welsh Assembly (Fashion)"
+title: "Welsh Assembly Commemorative Tartan Tartan Number: 2524. Earliest known date: 1999 Welsh Assembly See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GRGWGRGR](/patterns/grgwgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2524/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2524
 
 ## Thread count
 G/10 N18 G8 LN10 G60 R4 G8 R/4
@@ -24,11 +24,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 # Sample pattern
-
-![Tartan detail](tartan.png "G/10 N18 G8 LN10 G60 R4 G8 R/4 tartan")
-
-ID: /setts/s8/g10r18g8w10g60ra4g8ra4-g006818-r888888-rac80000-we0e0e0/
- Sample pattern
 
 ![Tartan detail](tartan.png "G/10 N18 G8 LN10 G60 R4 G8 R/4 tartan")
 

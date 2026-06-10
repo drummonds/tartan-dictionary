@@ -1,13 +1,13 @@
 ---
-title: "Carrick High School"
+title: "Carrick High (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KBKBKYK](/patterns/kbkbkyk/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=576
+Original link http://www.tartansauthority.com/tartan-ferret/display/4145/
 
 ## Thread count
 K/4 DB36 K6 B12 K32 DY4 K/12

@@ -1,13 +1,13 @@
 ---
-title: "MacNeish Hunting"
+title: "MacNeish Htg"
 date: 2023-03-18
 ---
 In pattern [GRGRGKGRKGR](/patterns/grgrgkgrkgr/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5195
+Original link http://www.tartansauthority.com/tartan-ferret/display/3510/
 
 ## Thread count
 DR/12 G6 K6 N48 G8 K20 G8 DR4 G48 DR12 G/4

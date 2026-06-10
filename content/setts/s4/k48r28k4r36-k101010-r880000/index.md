@@ -1,13 +1,13 @@
 ---
-title: "Lendrum (Black & Red)"
+title: "Lendrum (Black & Red) or MacFarlane"
 date: 2023-03-18
 ---
 In pattern [KRKR](/patterns/krkr/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1190/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2094
 
 ## Thread count
 DR/36 K4 DR28 K/48
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/36 K4 DR28 K/48 tartan")
 
 ID: /setts/s4/k48r28k4r36-k101010-r880000/
--k101010-r880000/

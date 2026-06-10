@@ -1,13 +1,13 @@
 ---
-title: "Submariners Corporate Tartan Tartan Number: 10589. Earliest known date: 23/03/2012 Commissioned by Steven Johnson of Lisburn, NI. The colours are taken from the Royal Navy ensigns with the gold and red of the dolphin symbol worn by submariners. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Submariners"
 date: 2023-03-18
 ---
 In pattern [RBYBWBWBWRBBBW](/patterns/rbybwbwbwrbbbw/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10589
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10589
 
 ## Thread count
 R/4 DB2 Y8 DB48 W4 DB2 W4 DB16 W16 R16 DB2 B24 DB2 W/8

@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BRBKGWG](/patterns/brbkgwg/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3440/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5205
 
 ## Thread count
 DB/6 DR4 DB24 K20 G6 LP6 G/32
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/6 DR4 DB24 K20 G6 LP6 G/32 tartan")
 
 ID: /setts/s7/g32w6g6k20b24r4b6-b1c0070-g006818-k101010-r880000-wa8ace8/
-e8/

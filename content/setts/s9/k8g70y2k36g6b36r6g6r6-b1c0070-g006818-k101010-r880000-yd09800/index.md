@@ -1,13 +1,13 @@
 ---
-title: "Mackay, John W. (Personal)"
+title: "Mackay, John (Personal)"
 date: 2023-03-18
 ---
 In pattern [KGYKGBRGR](/patterns/kgykgbrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2505
+Original link http://www.tartansauthority.com/tartan-ferret/display/2283/
 
 ## Thread count
 DR/6 G6 DR6 DB36 G6 K36 DY2 G70 K/8

@@ -1,13 +1,13 @@
 ---
-title: "MacDuff - 1960 Dress (Clan)"
+title: "MacDuff Dress #2"
 date: 2023-03-18
 ---
 In pattern [RBWBWKGRKR](/patterns/rbwbwkgrkr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1441/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2420
 
 ## Thread count
 DR/8 DB4 N44 DB8 N12 K24 G32 DR16 K4 DR/16

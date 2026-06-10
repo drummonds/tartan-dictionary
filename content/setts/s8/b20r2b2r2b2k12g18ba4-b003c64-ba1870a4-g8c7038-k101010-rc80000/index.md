@@ -1,13 +1,13 @@
 ---
-title: "Antique 2000"
+title: "Antique 2000 (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGKBRBRB](/patterns/bgkbrbrb/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97
+Original link http://www.tartansauthority.com/tartan-ferret/display/4087/
 
 ## Thread count
 B/4 LT18 K12 DB2 R2 DB2 R2 DB/20
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/4 LT18 K12 DB2 R2 DB2 R2 DB/20 tartan")
 
 ID: /setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/
-c80000/

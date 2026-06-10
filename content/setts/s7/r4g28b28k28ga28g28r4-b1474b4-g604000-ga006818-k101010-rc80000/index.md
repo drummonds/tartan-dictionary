@@ -1,13 +1,13 @@
 ---
-title: "Tennant (Clan)"
+title: "Tennant #2"
 date: 2023-03-18
 ---
 In pattern [RGBKGGR](/patterns/rgbkggr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1653/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4089
 
 ## Thread count
 R/4 T28 B28 K28 G28 T28 R/4

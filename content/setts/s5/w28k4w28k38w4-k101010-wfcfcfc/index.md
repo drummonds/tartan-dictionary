@@ -1,13 +1,13 @@
 ---
-title: "MacLeod Black & White"
+title: "MacLeod B&W - 1906 (Clan)"
 date: 2023-03-18
 ---
 In pattern [WKWKW](/patterns/wkwkw/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2634
+Original link http://www.tartansauthority.com/tartan-ferret/display/1828/
 
 ## Thread count
 W/4 K38 W28 K4 W/28

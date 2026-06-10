@@ -1,13 +1,13 @@
 ---
-title: "Merchiston Castle School"
+title: "Merchiston Castle (School)"
 date: 2023-03-18
 ---
 In pattern [KBKBKBKBKBR](/patterns/kbkbkbkbkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934
+Original link http://www.tartansauthority.com/tartan-ferret/display/1051/
 
 ## Thread count
 K/16 DB8 K6 DB8 K6 DB20 K6 DB6 K14 B41 R/4

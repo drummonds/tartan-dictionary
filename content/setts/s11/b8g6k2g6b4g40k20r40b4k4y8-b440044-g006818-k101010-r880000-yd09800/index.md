@@ -1,13 +1,13 @@
 ---
-title: "Moffat (Fashion)"
+title: "Moffat (1994)"
 date: 2023-03-18
 ---
 In pattern [BGKGBGKRBKY](/patterns/bgkgbgkrbky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5674/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2976
 
 ## Thread count
 DP/8 G6 K2 G6 DP4 G40 K20 DR40 DP4 K4 DY/8

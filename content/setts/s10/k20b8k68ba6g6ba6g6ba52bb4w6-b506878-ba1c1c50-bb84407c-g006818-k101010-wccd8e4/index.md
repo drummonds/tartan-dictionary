@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KBKBGBGBBW](/patterns/kbkbgbgbbw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7483/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5525
 
 ## Thread count
 K/20 Na8 K68 DB6 G6 DB6 G6 DB52 N4 LN/6

@@ -1,13 +1,13 @@
 ---
-title: "Pictou County"
+title: "Pictou County (District)"
 date: 2023-03-18
 ---
 In pattern [BGYBWRWB](/patterns/bgybwrwb/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3334
+Original link http://www.tartansauthority.com/tartan-ferret/display/7113/
 
 ## Thread count
 DB/6 DG80 DY18 DBa24 W2 DR6 W2 DBa/46

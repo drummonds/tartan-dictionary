@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GKBKGKBKYK](/patterns/gkbkgkbkyk/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5719
+Original link http://www.tartansauthority.com/tartan-ferret/display/7736/
 
 ## Thread count
 G/64 K4 B8 K4 G12 K20 Ba48 K4 Y4 K/12
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/g64k4b8k4g12k20ba48k4y4k12-b5c8ca8-ba385c70-g006818-k101010-ye8c000/
+00/

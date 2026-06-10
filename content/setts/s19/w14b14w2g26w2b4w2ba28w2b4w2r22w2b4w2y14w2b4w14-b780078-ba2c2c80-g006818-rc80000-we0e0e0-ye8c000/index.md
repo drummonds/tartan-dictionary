@@ -1,13 +1,13 @@
 ---
-title: "Four Quarters Personal Tartan Tartan Number: 7427. Earliest known date: 2007 October While drawn from old earth religions, this was designed without any beliefe system in mind but to tie the greater whole together. Yellow - air/east. Red - fire/south. Blue - water/west. Green-earth/north. White - center/spirit & purple heart. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Four Quarters (Personal)"
 date: 2023-03-18
 ---
 In pattern [WBWGWBWBWBWRWBWYWBW](/patterns/wbwgwbwbwbwrwbwywbw/).
 
 
-This was sourced from house-of-tartan.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7427
+Original link http://www.tartansauthority.com/tartan-ferret/display/7427/
 
 ## Thread count
 LN/14 P14 LN2 G26 LN2 P4 LN2 DB28 LN2 P4 LN2 R22 LN2 P4 LN2 Y14 LN2 P4 LN/14

@@ -1,13 +1,13 @@
 ---
-title: "Romantic Scotland (Madonna) (Commemo"
+title: "Romantic Scotland (Madonna)"
 date: 2023-03-18
 ---
 In pattern [BBBBBBWBY](/patterns/bbbbbbwby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3982/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3543
 
 ## Thread count
 DN/20 P4 DN16 DB16 DN28 DB32 W4 DB8 Y/4

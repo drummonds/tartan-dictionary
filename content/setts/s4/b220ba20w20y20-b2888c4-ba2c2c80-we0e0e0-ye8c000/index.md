@@ -1,13 +1,13 @@
 ---
-title: "Varrie (Name)"
+title: "Varrie Name Tartan Tartan Number: 10113. Earliest known date: 20th Nov. 2009 Designed in remembrance of the designer's mother, Jean Alexander Varrie, and her Scottish heritage. The light blue represents the rivers crossed by the family, the medium blue represents the oceans crossed, yellow represents the land and mountains where they settled and white represents their peace and tranquility. All Varrie families may use this design. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BBWY](/patterns/bbwy/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from house-of-tartan.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/10113/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10113
 
 ## Thread count
 B/220 DB20 LN20 Y/20

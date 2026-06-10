@@ -1,13 +1,13 @@
 ---
-title: "Eglinton (District?)"
+title: "Eglinton"
 date: 2023-03-18
 ---
 In pattern [KGKBKRK](/patterns/kgkbkrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2075/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1090
 
 ## Thread count
 K/8 G8 K8 DB56 K8 R8 K/8
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 G8 K8 DB56 K8 R8 K/8 tartan")
 
 ID: /setts/s7/k8g8k8b56k8r8k8-b1c0070-g006818-k101010-rc80000/
+c80000/

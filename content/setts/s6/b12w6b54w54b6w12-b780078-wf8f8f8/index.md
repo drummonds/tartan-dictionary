@@ -1,13 +1,13 @@
 ---
-title: "Erskine Purple (Dance)"
+title: "Erskine, Purple (Dance)"
 date: 2023-03-18
 ---
 In pattern [BWBWBW](/patterns/bwbwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128
+Original link http://www.tartansauthority.com/tartan-ferret/display/6534/
 
 ## Thread count
 P/12 W6 P54 W54 P6 W/12
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "P/12 W6 P54 W54 P6 W/12 tartan")
 
 ID: /setts/s6/b12w6b54w54b6w12-b780078-wf8f8f8/
+8/

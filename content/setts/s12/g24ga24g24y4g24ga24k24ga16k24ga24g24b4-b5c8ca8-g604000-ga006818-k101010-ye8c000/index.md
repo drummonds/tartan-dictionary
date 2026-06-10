@@ -1,13 +1,13 @@
 ---
-title: "Buchanan Hunting (Scott Adie)"
+title: "Buchanan Htg (Clan)"
 date: 2023-03-18
 ---
 In pattern [BGGKGKGGYGGG](/patterns/bggkgkggyggg/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428
+Original link http://www.tartansauthority.com/tartan-ferret/display/2019/
 
 ## Thread count
 B/4 T24 G24 K24 G16 K24 G24 T24 Y4 T24 G24 T/24
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/g24ga24g24y4g24ga24k24ga16k24ga24g24b4-b5c8ca8-g604000-ga006818-k101010-ye8c000/
+010-ye8c000/

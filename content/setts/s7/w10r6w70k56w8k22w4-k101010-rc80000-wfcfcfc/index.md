@@ -1,13 +1,13 @@
 ---
-title: "MacPherson of Cluny (B & W)"
+title: "MacPherson of Cluny (Black and White)"
 date: 2023-03-18
 ---
 In pattern [WKWKWRW](/patterns/wkwkwrw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1830/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2724
 
 ## Thread count
 W/4 K22 W8 K56 W70 R6 W/10

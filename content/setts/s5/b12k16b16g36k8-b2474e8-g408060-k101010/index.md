@@ -1,5 +1,5 @@
 ---
-title: "Falconer (Clan)"
+title: "Marshall (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBGK](/patterns/bkbgk/).
@@ -7,7 +7,7 @@ In pattern [BKBGK](/patterns/bkbgk/).
 
 This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3874/
+Original link http://www.tartansauthority.com/tartan-ferret/display/3875/
 
 ## Thread count
 B/12 K16 B16 G36 K/8

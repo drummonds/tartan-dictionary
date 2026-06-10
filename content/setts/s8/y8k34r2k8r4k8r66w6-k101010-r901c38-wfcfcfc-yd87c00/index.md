@@ -1,13 +1,13 @@
 ---
-title: "Mens Bigi"
+title: "Mens Bigi (Corporate)"
 date: 2023-03-18
 ---
 In pattern [WRKRKRKY](/patterns/wrkrkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2917
+Original link http://www.tartansauthority.com/tartan-ferret/display/6101/
 
 ## Thread count
 O/8 K34 DR2 K8 DR4 K8 DR66 W/6
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "O/8 K34 DR2 K8 DR4 K8 DR66 W/6 tartan")
 
 ID: /setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/
-d87c00/

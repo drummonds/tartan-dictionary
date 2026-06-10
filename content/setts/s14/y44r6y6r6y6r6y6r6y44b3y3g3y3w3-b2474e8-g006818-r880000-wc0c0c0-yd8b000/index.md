@@ -1,13 +1,13 @@
 ---
-title: "Catalan (92 Olympics)"
+title: "Catalan (92 Olympics) (District)"
 date: 2023-03-18
 ---
 In pattern [WYGYBYRYRYRYRY](/patterns/wygybyryryryry/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=593
+Original link http://www.tartansauthority.com/tartan-ferret/display/2071/
 
 ## Thread count
 N/3 Y3 G3 Y3 B3 Y44 DR6 Y6 DR6 Y6 DR6 Y6 DR6 Y/44
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s14/y44r6y6r6y6r6y6r6y44b3y3g3y3w3-b2474e8-g006818-r880000-wc0c0c0-yd8b000/
-d8b000/

@@ -1,13 +1,13 @@
 ---
-title: "Duke of Rothesay (Royal)"
+title: "Rothesay, Duke of"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRGRGRGRWRW](/patterns/wrgrgrgrgrgrgrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1845/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576
 
 ## Thread count
 LN/8 R44 G6 R6 G6 R6 G26 R8 G26 R6 G6 R6 G6 R46 LN4 R4 LN/8
@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s17/w8r44g6r6g6r6g26r8g26r6g6r6g6r46w4r4w8-g006818-rc80000-we0e0e0/
+0/

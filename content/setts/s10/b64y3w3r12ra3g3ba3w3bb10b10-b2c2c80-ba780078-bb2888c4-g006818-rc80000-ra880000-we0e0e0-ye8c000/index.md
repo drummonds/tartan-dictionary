@@ -1,13 +1,13 @@
 ---
-title: "Tau-Taurini (Provisional) (Personal)"
+title: "Tau-Taurini (Personal)"
 date: 2023-03-18
 ---
 In pattern [BBWBGRRWYB](/patterns/bbwbgrrwyb/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4079
+Original link http://www.tartansauthority.com/tartan-ferret/display/7311/
 
 ## Thread count
 DB/10 B10 LN3 P3 G3 DR3 R12 LN3 Y3 DB/64

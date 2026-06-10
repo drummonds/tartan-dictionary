@@ -1,13 +1,13 @@
 ---
-title: "Lexington Fire Department"
+title: "Lexington Fire Department (Corporate"
 date: 2023-03-18
 ---
 In pattern [KBKBWKBR](/patterns/kbkbwkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2110
+Original link http://www.tartansauthority.com/tartan-ferret/display/5830/
 
 ## Thread count
 K/40 DB40 K10 DB10 LN10 K25 DB25 R/10

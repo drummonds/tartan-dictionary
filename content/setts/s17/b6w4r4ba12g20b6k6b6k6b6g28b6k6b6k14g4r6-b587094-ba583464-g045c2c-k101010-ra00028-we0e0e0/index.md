@@ -1,13 +1,13 @@
 ---
-title: "Lee Cox (Personal)"
+title: "Lee Cox Tartan Tartan Number: 9205. Earliest known date: 2009 The idea of the tartan is to combine the basic pattern of the bell (my wife's Maiden name) and the Marshall (my mum's) tartans with the added pattern representing me red married white to Debbie blue surrounded by purple happiness. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BWRBGBKBKBGBKBKGR](/patterns/bwrbgbkbkbgbkbkgr/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from house-of-tartan.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9205
 
 ## Thread count
 B/6 LN4 DR4 N12 G20 B6 K6 B6 K6 B6 G28 B6 K6 B6 K14 G4 DR/6
@@ -24,8 +24,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | N | <code style="background-color:#583464;"><span style="color:#583464;filter:grayscale(1) invert(1) contrast(100);">#583464</span></code> `#583464` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.09 |
-
-ID: /setts/s17/b6w4r4ba12g20b6k6b6k6b6g28b6k6b6k14g4r6-b587094-ba583464-g045c2c-k101010-ra00028-we0e0e0/
-n style="color:#583464;filter:grayscale(1) invert(1) contrast(100);">#583464</span></code> `#583464` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.09 |
 
 ID: /setts/s17/b6w4r4ba12g20b6k6b6k6b6g28b6k6b6k14g4r6-b587094-ba583464-g045c2c-k101010-ra00028-we0e0e0/

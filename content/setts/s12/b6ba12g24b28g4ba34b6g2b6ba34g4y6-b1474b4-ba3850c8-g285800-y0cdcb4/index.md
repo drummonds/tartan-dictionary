@@ -1,13 +1,13 @@
 ---
-title: "Reflections of the Sea"
+title: "Reflections of the Sea (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BBGBGBBGBBGY](/patterns/bbgbgbbgbbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3486
+Original link http://www.tartansauthority.com/tartan-ferret/display/5419/
 
 ## Thread count
 B/6 Ba12 G24 B28 G4 Ba34 B6 G2 B6 Ba34 G4 LB/6

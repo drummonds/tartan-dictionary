@@ -1,13 +1,13 @@
 ---
-title: "Lawrie (Name)"
+title: "Lawrie"
 date: 2023-03-18
 ---
 In pattern [BGBGBKB](/patterns/bgbgbkb/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4219/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070
 
 ## Thread count
 DB/8 K4 DB32 G50 P2 T4 P/12

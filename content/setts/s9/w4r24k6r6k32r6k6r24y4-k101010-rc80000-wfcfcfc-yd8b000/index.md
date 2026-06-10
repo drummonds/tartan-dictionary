@@ -1,13 +1,13 @@
 ---
-title: "MacIver (Clan)"
+title: "MacIver #3"
 date: 2023-03-18
 ---
 In pattern [WRKRKRKRY](/patterns/wrkrkrkry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1855/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2491
 
 ## Thread count
 W/4 R24 K6 R6 K32 R6 K6 R24 Y/4

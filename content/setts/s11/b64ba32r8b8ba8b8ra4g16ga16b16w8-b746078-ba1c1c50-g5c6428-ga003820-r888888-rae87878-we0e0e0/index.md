@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
 ID: /setts/s11/b64ba32r8b8ba8b8ra4g16ga16b16w8-b746078-ba1c1c50-g5c6428-ga003820-r888888-rae87878-we0e0e0/
+-we0e0e0/

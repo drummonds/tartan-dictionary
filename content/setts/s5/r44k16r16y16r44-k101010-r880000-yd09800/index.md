@@ -1,13 +1,13 @@
 ---
-title: "Ikelman #4 (Personal)"
+title: "Ikelman #3 (Personal)"
 date: 2023-03-18
 ---
 In pattern [RKRYR](/patterns/rkryr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814
+Original link http://www.tartansauthority.com/tartan-ferret/display/5243/
 
 ## Thread count
 DR/44 DY16 DR16 K16 DR/44

@@ -1,5 +1,5 @@
 ---
-title: "MacPherson, Wilson's No 43"
+title: "Kidd, Wilson's No 43"
 date: 2023-03-18
 ---
 In pattern [RBRGYKBKBKBRWKR](/patterns/rbrgykbkbkbrwkr/).

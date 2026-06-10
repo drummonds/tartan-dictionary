@@ -1,13 +1,13 @@
 ---
-title: "Lochcarron Dress"
+title: "Lochcarron Dress (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GRGRKRKRBBBBBR](/patterns/grgrkrkrbbbbbr/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2169
+Original link http://www.tartansauthority.com/tartan-ferret/display/5463/
 
 ## Thread count
 G/4 R6 G4 R44 K10 R4 K10 R6 DB4 B4 DB4 B6 DB20 R/6

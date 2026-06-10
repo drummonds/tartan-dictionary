@@ -1,13 +1,13 @@
 ---
-title: "Round Table (1997)"
+title: "Round Table (1997) (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBBRG](/patterns/bgbbrg/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3579
+Original link http://www.tartansauthority.com/tartan-ferret/display/2365/
 
 ## Thread count
 DB/94 G28 DP10 T4 DR6 G/14
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/94 G28 DP10 T4 DR6 G/14 tartan")
 
 ID: /setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/
-880000/

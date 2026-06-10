@@ -1,13 +1,13 @@
 ---
-title: "Laurel Park (Corporate)"
+title: "Laurel Park"
 date: 2023-03-18
 ---
 In pattern [BGBY](/patterns/bgby/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6016/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2059
 
 ## Thread count
 B/96 Ba50 B26 Y/10
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/96 Ba50 B26 Y/10 tartan")
 
 ID: /setts/s4/b96g50b26y10-b5c8ca8-g009468-ye8c000/
+e8c000/

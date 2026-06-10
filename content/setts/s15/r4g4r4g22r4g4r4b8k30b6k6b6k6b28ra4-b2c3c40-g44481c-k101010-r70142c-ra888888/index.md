@@ -1,13 +1,13 @@
 ---
-title: "Homecoming"
+title: "Homecoming (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RBKBKBKBRGRGRGR](/patterns/rbkbkbkbrgrgrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5779
+Original link http://www.tartansauthority.com/tartan-ferret/display/7823/
 
 ## Thread count
 DR/4 T4 DR4 T22 DR4 T4 DR4 DN8 K30 DN6 K6 DN6 K6 DN28 N/4

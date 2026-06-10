@@ -7,7 +7,7 @@ In pattern [RBYKGR](/patterns/rbykgr/).
 
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DR/56 B12 N2 K8 DG32 DR/56
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/56 B12 N2 K8 DG32 DR/56 tartan")
 
 ID: /setts/s6/r56g32k8y2b12r56-b4367ae-g11450d-k000000-raa0000-yaaaaaa/
-aaa/

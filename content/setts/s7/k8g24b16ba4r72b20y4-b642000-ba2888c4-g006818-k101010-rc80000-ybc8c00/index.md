@@ -1,13 +1,13 @@
 ---
-title: "Snelgrove (Name)"
+title: "Snelgrove"
 date: 2023-03-18
 ---
 In pattern [KGBBRBY](/patterns/kgbbrby/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7803/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5765
 
 ## Thread count
 DY/4 T20 R72 B4 T16 G24 K/8

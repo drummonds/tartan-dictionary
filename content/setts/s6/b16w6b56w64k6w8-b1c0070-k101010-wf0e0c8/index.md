@@ -1,13 +1,13 @@
 ---
-title: "Ailsa, Navy (Dance)"
+title: "Ailsa Navy Fashion Tartan Tartan Number: 7591. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BWBWKW](/patterns/bwbwkw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7591/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7591
 
 ## Thread count
 DB/16 W6 DB56 W64 K6 W/8

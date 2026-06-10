@@ -1,13 +1,13 @@
 ---
-title: "Corries"
+title: "Corries (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBRBWB](/patterns/bbrbwb/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=774
+Original link http://www.tartansauthority.com/tartan-ferret/display/7022/
 
 ## Thread count
 B/56 DB30 R4 DB4 LN2 DB/12
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/56 DB30 R4 DB4 LN2 DB/12 tartan")
 
 ID: /setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/
-we0e0e0/

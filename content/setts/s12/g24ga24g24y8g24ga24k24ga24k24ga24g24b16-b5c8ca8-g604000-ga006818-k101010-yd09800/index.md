@@ -1,13 +1,13 @@
 ---
-title: "Buchanan Hunting (Scott Adie) #2"
+title: "Buchanan Htg (Scott Adie) (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGGKGKGGYGGG](/patterns/bggkgkggyggg/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5287
+Original link http://www.tartansauthority.com/tartan-ferret/display/3749/
 
 ## Thread count
 B/16 T24 G24 K24 G24 K24 G24 T24 DY8 T24 G24 T/24

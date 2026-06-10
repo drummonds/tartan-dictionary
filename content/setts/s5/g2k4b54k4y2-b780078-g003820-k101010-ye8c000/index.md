@@ -1,13 +1,13 @@
 ---
-title: "Western Carolina University (Corp.)"
+title: "Carolina University, Western"
 date: 2023-03-18
 ---
 In pattern [GKBKY](/patterns/gkbky/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3893/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5149
 
 ## Thread count
 DG/2 K4 P54 K4 Y/2

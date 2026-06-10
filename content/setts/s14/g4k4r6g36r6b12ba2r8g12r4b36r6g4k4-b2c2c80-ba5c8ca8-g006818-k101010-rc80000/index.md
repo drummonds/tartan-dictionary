@@ -1,13 +1,13 @@
 ---
-title: "Glen Orchy or MacIntyre District Tartan Tartan Number: 812. Earliest known date: 1893 The Glen Orchy sett is sometimes known as the MacIntyre and Glenorchy, although the MacIntyres occupied only part of the Glen. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Glen Orchy #2 (District)"
 date: 2023-03-18
 ---
 In pattern [GKRGRBBRGRBRGK](/patterns/gkrgrbbrgrbrgk/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=812
+Original link http://www.tartansauthority.com/tartan-ferret/display/812/
 
 ## Thread count
 G/4 K4 R6 G36 R6 DB12 B2 R8 G12 R4 DB36 R6 G4 K/4

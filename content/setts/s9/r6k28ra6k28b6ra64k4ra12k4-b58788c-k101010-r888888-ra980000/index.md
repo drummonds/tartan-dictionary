@@ -1,13 +1,13 @@
 ---
-title: "Gallmore"
+title: "Gallmore (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KRKRBKRKR](/patterns/krkrbkrkr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5698
+Original link http://www.tartansauthority.com/tartan-ferret/display/7706/
 
 ## Thread count
 K/4 DR12 K4 DR64 B6 K28 DR6 K28 N/6
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
 ID: /setts/s9/r6k28ra6k28b6ra64k4ra12k4-b58788c-k101010-r888888-ra980000/
-0000/

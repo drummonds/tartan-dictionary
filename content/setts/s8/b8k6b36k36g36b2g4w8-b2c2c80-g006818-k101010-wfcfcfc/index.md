@@ -1,13 +1,13 @@
 ---
-title: "Dress Watch (Fashion)"
+title: "Dress Watch (Fashion) Fashion Tartan Tartan Number: 6069. Earliest known date: Nov 2003 Introduced as a fashion tartan by the House of Edgar to provide a photogenic pattern similar to the Black Watch. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKBKGBGW](/patterns/bkbkgbgw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6069/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6069
 
 ## Thread count
 DB/8 K6 DB36 K36 G36 DB2 G4 W/8

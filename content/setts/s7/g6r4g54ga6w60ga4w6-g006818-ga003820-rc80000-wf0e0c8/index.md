@@ -1,13 +1,13 @@
 ---
-title: "Uist Green Fashion Tartan Tartan Number: 7602. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Uist, Green (Dance)"
 date: 2023-03-18
 ---
 In pattern [GRGGWGW](/patterns/grggwgw/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7602
+Original link http://www.tartansauthority.com/tartan-ferret/display/7602/
 
 ## Thread count
 G/6 R4 G54 DG6 W60 DG4 W/6

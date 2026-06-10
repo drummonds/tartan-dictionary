@@ -1,13 +1,13 @@
 ---
-title: "MacBean (1847)"
+title: "MacBean (Clan)"
 date: 2023-03-18
 ---
 In pattern [GWRRGRRWKGKWKBWBKWR](/patterns/gwrrgrrwkgkwkbwbkwr/).
 
 
-This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2291
+Original link http://www.tartansauthority.com/tartan-ferret/display/952/
 
 ## Thread count
 G/14 LN4 R8 P8 G4 P8 R8 LN4 K4 G20 K4 LN4 K4 DB4 LN4 DB4 K8 LN4 R/114

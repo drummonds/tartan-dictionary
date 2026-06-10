@@ -1,13 +1,13 @@
 ---
-title: "Pilgrims (Bedford)"
+title: "Pilgrims School, Bedford (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GGYG](/patterns/ggyg/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339
+Original link http://www.tartansauthority.com/tartan-ferret/display/5503/
 
 ## Thread count
 Ga/4 G8 Y12 Ga/6
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "Ga/4 G8 Y12 Ga/6 tartan")
 
 ID: /setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/
-3800-yfccc00/

@@ -1,13 +1,13 @@
 ---
-title: "Royal Scots Fusiliers (Military)"
+title: "Erskine Hunting"
 date: 2023-03-18
 ---
 In pattern [GGGGGG](/patterns/gggggg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5394/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1127
 
 ## Thread count
 DG/10 G6 DG48 G48 DG6 G/10

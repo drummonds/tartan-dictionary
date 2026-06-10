@@ -1,13 +1,13 @@
 ---
-title: "Scottish Canals"
+title: "Scottish Canals (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GBBBGBY](/patterns/gbbbgby/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5424
+Original link http://www.tartansauthority.com/tartan-ferret/display/3916/
 
 ## Thread count
 G/4 DBa2 DB58 DBa4 G18 DBa52 Y/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/4 DBa2 DB58 DBa4 G18 DBa52 Y/4 tartan")
 
 ID: /setts/s7/g4b2ba58b4g18b52y4-b202060-ba2c2c80-g006818-ye8c000/
-e8c000/

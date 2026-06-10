@@ -1,5 +1,5 @@
 ---
-title: "Thompson Hunting Family Tartan Tartan Number: 2093. Earliest known date: 1958 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Thomson Lord.. (Hunting) Personal Tartan Tartan Number: 231. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BGGBKB](/patterns/bggbkb/).
@@ -7,7 +7,7 @@ In pattern [BGGBKB](/patterns/bggbkb/).
 
 This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2093
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=231
 
 ## Thread count
 B/6 K24 B24 G12 T56 B/8

@@ -1,13 +1,13 @@
 ---
-title: "British Caledonian Airways #2 (Corp)"
+title: "British Caledonian Airways #2"
 date: 2023-03-18
 ---
 In pattern [BBKYKWKBRKRW](/patterns/bbkykwkbrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5454/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=358
 
 ## Thread count
 N/68 B5 K9 DY3 K3 Na3 K3 N20 DR9 K3 DR5 Na/4

@@ -1,13 +1,13 @@
 ---
-title: "Milan Club Scozia"
+title: "Milan Club Scozia (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RKRKRKRKRWKRKRKRW](/patterns/rkrkrkrkrwkrkrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5692
+Original link http://www.tartansauthority.com/tartan-ferret/display/7694/
 
 ## Thread count
 LN/6 R5 K18 R2 K2 R2 K4 LN1 R4 K2 R2 K2 R4 K2 R2 K2 R/48
@@ -23,4 +23,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s17/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6-k101010-rc80000-we0e0e0/
-e0e0e0/

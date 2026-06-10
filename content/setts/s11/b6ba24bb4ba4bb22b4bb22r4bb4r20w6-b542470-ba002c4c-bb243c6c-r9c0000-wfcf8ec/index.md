@@ -1,13 +1,13 @@
 ---
-title: "United Scots American (Fashion) Fashion Tartan Tartan Number: 7336. Earliest known date: October 2007 Designed by Trudie Ainsworth of The House of Edgar for the companny's stock list. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "United Scots American"
 date: 2023-03-18
 ---
 In pattern [BBBBBBBRBRW](/patterns/bbbbbbbrbrw/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7336
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4398
 
 ## Thread count
 P/6 DB24 B4 DB4 B22 P4 B22 DR4 B4 DR20 W/6

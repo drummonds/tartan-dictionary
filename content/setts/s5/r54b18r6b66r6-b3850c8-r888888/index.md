@@ -1,13 +1,13 @@
 ---
-title: "MacCallum HS of Philadelphia (Corp)"
+title: "MacCallum High School"
 date: 2023-03-18
 ---
 In pattern [RBRBR](/patterns/rbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1279/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2308
 
 ## Thread count
 N/6 B66 N6 B18 N/54

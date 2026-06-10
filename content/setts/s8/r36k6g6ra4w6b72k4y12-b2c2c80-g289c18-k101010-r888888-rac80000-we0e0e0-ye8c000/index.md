@@ -1,13 +1,13 @@
 ---
-title: "M'Kleod Personal Tartan Tartan Number: 5985. Earliest known date: 2003 The unusual spelling raised a query with the recording authority. The recording was passed on the basis that the design was categorised as personal. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "M'Kleod"
 date: 2023-03-18
 ---
 In pattern [RKGRWBKY](/patterns/rkgrwbky/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5985
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2971
 
 ## Thread count
 N/36 K6 G6 R4 LN6 DB72 K4 Y/12

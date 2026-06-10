@@ -1,13 +1,13 @@
 ---
-title: "Coigach Tweed (Estate Check)"
+title: "Coigach Tweed"
 date: 2023-03-18
 ---
 In pattern [KWR](/patterns/kwr/).
 
 
-This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4553/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=707
 
 ## Thread count
 K/6 N6 T/6

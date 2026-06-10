@@ -1,13 +1,13 @@
 ---
-title: "Holyrood"
+title: "Holyrood (Commemorative)"
 date: 2023-03-18
 ---
 In pattern [KBYBWBRGBGW](/patterns/kbybwbrgbgw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1754
+Original link http://www.tartansauthority.com/tartan-ferret/display/98/
 
 ## Thread count
 DB/96 G24 DY6 G6 LN6 G6 N18 T16 B4 T20 LN/4
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
 ID: /setts/s11/k96b24y6b6w6b6r18g16ba4g20w4-b0c585c-ba5c8ca8-g604000-k00002c-r888888-we0e0e0-ybc8c00/
--ybc8c00/

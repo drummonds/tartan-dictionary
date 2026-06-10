@@ -1,13 +1,13 @@
 ---
-title: "Rose"
+title: "Rose - 1842 (VS Plate) Clan)"
 date: 2023-03-18
 ---
 In pattern [GRBRBRBRW](/patterns/grbrbrbrw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547
+Original link http://www.tartansauthority.com/tartan-ferret/display/845/
 
 ## Thread count
 G/8 R64 DB18 R12 DB4 R6 DB4 R24 W/6

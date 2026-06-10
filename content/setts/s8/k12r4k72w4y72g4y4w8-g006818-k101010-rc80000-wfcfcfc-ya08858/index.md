@@ -1,13 +1,13 @@
 ---
-title: "Dunlop Hunting"
+title: "Dunlop, Htg (Clan)"
 date: 2023-03-18
 ---
 In pattern [KRKWYGYW](/patterns/krkwygyw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1047
+Original link http://www.tartansauthority.com/tartan-ferret/display/1205/
 
 ## Thread count
 K/12 R4 K72 W4 LT72 G4 LT4 W/8

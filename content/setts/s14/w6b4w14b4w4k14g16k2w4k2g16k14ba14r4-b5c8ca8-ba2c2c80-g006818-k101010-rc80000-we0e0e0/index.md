@@ -1,13 +1,13 @@
 ---
-title: "MacKenzie Dress - 1950 (Cant)"
+title: "MacKenzie Dress"
 date: 2023-03-18
 ---
 In pattern [RBKGKWKGKWBWBW](/patterns/rbkgkwkgkwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1362/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2524
 
 ## Thread count
 LN/6 B4 LN14 B4 LN4 K14 G16 K2 LN4 K2 G16 K14 DB14 R/4

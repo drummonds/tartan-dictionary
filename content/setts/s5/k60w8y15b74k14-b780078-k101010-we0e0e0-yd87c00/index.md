@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KBYWK](/patterns/kbywk/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5640
+Original link http://www.tartansauthority.com/tartan-ferret/display/7620/
 
 ## Thread count
 K/60 LN8 O15 P74 K/14

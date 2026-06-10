@@ -1,13 +1,13 @@
 ---
-title: "Thompson, Grey Dress (Fashion)"
+title: "Thompson Grey Dress"
 date: 2023-03-18
 ---
 In pattern [RKWKRR](/patterns/rkwkrr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1611/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4111
 
 ## Thread count
 DR/8 K24 LN24 K8 N48 DR/8

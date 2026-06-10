@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BKGRGKY](/patterns/bkgrgky/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3490
+Original link http://www.tartansauthority.com/tartan-ferret/display/341/
 
 ## Thread count
 DP/36 K14 G10 R8 G14 K2 Y/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DP/36 K14 G10 R8 G14 K2 Y/4 tartan")
 
 ID: /setts/s7/b36k14g10r8g14k2y4-b480048-g006818-k101010-rc80000-ye8c000/
+000/

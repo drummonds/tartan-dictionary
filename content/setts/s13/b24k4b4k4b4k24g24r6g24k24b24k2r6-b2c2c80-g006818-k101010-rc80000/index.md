@@ -1,13 +1,13 @@
 ---
-title: "Atholl District Tartan Tartan Number: 2078. Earliest known date: 1812 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Murray of Atholl #3"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKBKR](/patterns/bkbkbkgrgkbkr/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2078
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3063
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R6 G24 K24 DB24 K2 R/6

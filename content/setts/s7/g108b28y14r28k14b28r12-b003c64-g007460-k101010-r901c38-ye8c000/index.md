@@ -1,13 +1,13 @@
 ---
-title: "Gloucester County Pipe Band (Corp)"
+title: "Gloucester County Pipe Band"
 date: 2023-03-18
 ---
 In pattern [GBYRKBR](/patterns/gbyrkbr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7539/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5574
 
 ## Thread count
 DR/12 DB28 K14 DR28 Y14 DB28 G/108

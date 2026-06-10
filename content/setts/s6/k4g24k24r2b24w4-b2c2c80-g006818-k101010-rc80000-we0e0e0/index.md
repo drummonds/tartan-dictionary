@@ -1,5 +1,5 @@
 ---
-title: "Hunter Clan Tartan Tartan Number: 1095. Earliest known date: c.1815 see Russell Mitchell Hunter Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Russell Clan Tartan Tartan Number: 1094. Earliest known date: c.1815 It seems certain that the tartan was first known as Galbraith. William Wilson and Sons of Bannockburn recorded the pattern as Russell in their pattern book of 1847, although it was named Hunter in the earlier book of 1819. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [KGKRBW](/patterns/kgkrbw/).
@@ -7,7 +7,7 @@ In pattern [KGKRBW](/patterns/kgkrbw/).
 
 This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1095
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1094
 
 ## Thread count
 K/4 G24 K24 R2 DB24 LN/4

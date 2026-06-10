@@ -1,13 +1,13 @@
 ---
-title: "Elvan (Fashion)"
+title: "Elvan"
 date: 2023-03-18
 ---
 In pattern [YGBGWGYWGWY](/patterns/ygbgwgywgwy/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4809/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106
 
 ## Thread count
 LR/4 N6 T4 N12 LR20 T4 N4 T4 DB4 T20 LR/84

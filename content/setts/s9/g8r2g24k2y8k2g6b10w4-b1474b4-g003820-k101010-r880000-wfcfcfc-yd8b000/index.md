@@ -1,13 +1,13 @@
 ---
-title: "Lees-McRae College (Corporate)"
+title: "Lees-McRae College"
 date: 2023-03-18
 ---
 In pattern [GRGKYKGBW](/patterns/grgkykgbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4130/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2084
 
 ## Thread count
 DG/8 DR2 DG24 K2 Y8 K2 DG6 B10 W/4

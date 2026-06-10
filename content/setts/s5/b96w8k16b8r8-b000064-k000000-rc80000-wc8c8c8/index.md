@@ -1,13 +1,13 @@
 ---
-title: "Lochcarron (1985)"
+title: "Lochcarron (1985) (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BWKBR](/patterns/bwkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167
+Original link http://www.tartansauthority.com/tartan-ferret/display/5462/
 
 ## Thread count
 DB/96 N8 K16 DB8 R/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/96 N8 K16 DB8 R/8 tartan")
 
 ID: /setts/s5/b96w8k16b8r8-b000064-k000000-rc80000-wc8c8c8/
-c8c8/

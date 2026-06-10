@@ -1,13 +1,13 @@
 ---
-title: "Heddle (Clan)"
+title: "Heddle"
 date: 2023-03-18
 ---
 In pattern [BBKBBBKBYBKBW](/patterns/bbkbbbkbybkbw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6775/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1677
 
 ## Thread count
 N/16 DB48 K4 DB4 N16 DB4 K4 DB8 Y4 DB8 K4 N24 W/6
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/b16ba48k4ba4b16ba4k4ba8y4ba8k4b24w6-b684074-ba2c2c80-k101010-wf8f8f8-ye8c000/
+0/

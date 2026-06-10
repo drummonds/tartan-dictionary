@@ -1,13 +1,13 @@
 ---
-title: "Palmer, General W.J. (Corporate)"
+title: "Palmer, General W.J."
 date: 2023-03-18
 ---
 In pattern [RRWRWRRRWRWBYKBW](/patterns/rrwrwrrrwrwbykbw/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4971/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3289
 
 ## Thread count
 LR/8 DR4 N4 DR46 N4 DR4 LR8 DR4 N4 DR4 N24 DB12 Y4 K8 Na4 N/4

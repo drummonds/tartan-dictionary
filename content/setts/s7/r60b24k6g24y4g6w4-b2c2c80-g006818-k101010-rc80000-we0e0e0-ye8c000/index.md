@@ -1,13 +1,13 @@
 ---
-title: "Hewitt (Name)"
+title: "Hewitt #2"
 date: 2023-03-18
 ---
 In pattern [RBKGYGW](/patterns/rbkgygw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7369/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5475
 
 ## Thread count
 LN/4 G6 Y4 G24 K6 DB24 R/60

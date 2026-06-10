@@ -1,13 +1,13 @@
 ---
-title: "Tarassow Russian Scout"
+title: "Tarassow Russian Scout (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KYKYGKRBWKYKYK](/patterns/kykygkrbwkykyk/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5636
+Original link http://www.tartansauthority.com/tartan-ferret/display/7614/
 
 ## Thread count
 K/8 Y8 K8 Y2 G100 K42 R8 B8 LN8 K21 Y2 K8 Y8 K/8
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#F0B440;"><span style="color:#F0B440;filter:grayscale(1) invert(1) contrast(100);">#F0B440</span></code> `#F0B440` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s14/k8y8k8y2g100k42r8b8w8k21y2k8y8k8-b1870a4-g288028-k101010-rc80000-we0e0e0-yf0b440/
-f0b440/

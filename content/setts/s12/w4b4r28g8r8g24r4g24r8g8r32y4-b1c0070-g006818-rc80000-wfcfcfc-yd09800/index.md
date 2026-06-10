@@ -1,13 +1,13 @@
 ---
-title: "Bruce County"
+title: "Bruce County (District)"
 date: 2023-03-18
 ---
 In pattern [WBRGRGRGRGRY](/patterns/wbrgrgrgrgry/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=401
+Original link http://www.tartansauthority.com/tartan-ferret/display/1778/
 
 ## Thread count
 DY/4 R32 G8 R8 G24 R4 G24 R8 G8 R28 DB4 W/4

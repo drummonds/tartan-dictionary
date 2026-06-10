@@ -1,13 +1,13 @@
 ---
-title: "Star Is Born, A"
+title: "Star Is Born, A (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BRRBRRRRYR](/patterns/brrbrrrryr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3908
+Original link http://www.tartansauthority.com/tartan-ferret/display/5304/
 
 ## Thread count
 B/8 O80 DR8 B8 DR8 O8 DR4 T56 DY56 O/8

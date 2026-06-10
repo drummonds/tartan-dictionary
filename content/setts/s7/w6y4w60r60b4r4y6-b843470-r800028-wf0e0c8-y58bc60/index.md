@@ -1,13 +1,13 @@
 ---
-title: "Torridon Burgundy"
+title: "Torridon, Burgundy (Dance)"
 date: 2023-03-18
 ---
 In pattern [WYWRBRY](/patterns/wywrbry/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5631
+Original link http://www.tartansauthority.com/tartan-ferret/display/7607/
 
 ## Thread count
 LG/6 DR4 P4 DR60 W60 LG4 W/6
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LG/6 DR4 P4 DR60 W60 LG4 W/6 tartan")
 
 ID: /setts/s7/w6y4w60r60b4r4y6-b843470-r800028-wf0e0c8-y58bc60/
-c60/

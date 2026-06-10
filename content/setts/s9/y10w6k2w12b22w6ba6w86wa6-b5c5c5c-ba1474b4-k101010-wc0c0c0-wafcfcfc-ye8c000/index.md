@@ -1,13 +1,13 @@
 ---
-title: "Royal College of Midwives"
+title: "Midwives (Corporate)"
 date: 2023-03-18
 ---
 In pattern [WWBWBWKWY](/patterns/wwbwbwkwy/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596
+Original link http://www.tartansauthority.com/tartan-ferret/display/5766/
 
 ## Thread count
 W/6 Na86 B6 Na6 N22 Na12 K2 Na6 Y/10

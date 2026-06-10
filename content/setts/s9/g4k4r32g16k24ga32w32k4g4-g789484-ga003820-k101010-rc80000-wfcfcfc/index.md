@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GKRGKGWKG](/patterns/gkrgkgwkg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3498/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4851
 
 ## Thread count
 LG/4 K4 R32 LG16 K24 DG32 W32 K4 LG/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/
-fc/

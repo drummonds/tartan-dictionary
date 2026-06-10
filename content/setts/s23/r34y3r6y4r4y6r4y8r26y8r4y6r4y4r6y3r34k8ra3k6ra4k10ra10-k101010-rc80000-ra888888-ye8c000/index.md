@@ -1,13 +1,13 @@
 ---
-title: "Starrett Company, L.S. (Corporate)"
+title: "Starrett Company, L.S."
 date: 2023-03-18
 ---
 In pattern [RKRKRKRYRYRYRYRYRYRYRYR](/patterns/rkrkrkryryryryryryryryr/).
 
 
-This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7621/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5641
 
 ## Thread count
 N/10 K10 N4 K6 N3 K8 R34 Y3 R6 Y4 R4 Y6 R4 Y8 R26 Y8 R4 Y6 R4 Y4 R6 Y3 R/34

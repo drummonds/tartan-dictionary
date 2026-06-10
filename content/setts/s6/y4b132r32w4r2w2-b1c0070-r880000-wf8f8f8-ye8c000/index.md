@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [WRWRBY](/patterns/wrwrby/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6782/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=750
 
 ## Thread count
 W/2 DR2 W4 DR32 DB132 Y/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "W/2 DR2 W4 DR32 DB132 Y/4 tartan")
 
 ID: /setts/s6/y4b132r32w4r2w2-b1c0070-r880000-wf8f8f8-ye8c000/
-0/

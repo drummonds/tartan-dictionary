@@ -1,13 +1,13 @@
 ---
-title: "Tipperary County Crest (Fashion)"
+title: "Tipperary County, Crest Range"
 date: 2023-03-18
 ---
 In pattern [RYKRYKWBY](/patterns/rykrykwby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7433/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5051
 
 ## Thread count
 DR/10 N36 K24 DR30 DY8 K16 LN18 DB16 DY/9

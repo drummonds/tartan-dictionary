@@ -1,13 +1,13 @@
 ---
-title: "Kiernan"
+title: "Kiernan (Clan))"
 date: 2023-03-18
 ---
 In pattern [WGKRKRKRGW](/patterns/wgkrkrkrgw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1958
+Original link http://www.tartansauthority.com/tartan-ferret/display/1800/
 
 ## Thread count
 LN/4 G8 K12 R4 K4 R4 K6 R4 G40 LN/2

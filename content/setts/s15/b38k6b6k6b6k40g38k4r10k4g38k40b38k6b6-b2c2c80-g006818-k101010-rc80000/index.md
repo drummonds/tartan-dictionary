@@ -1,13 +1,13 @@
 ---
-title: "Safeway (Corporate)"
+title: "Safeway"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKRKGKBKB](/patterns/bkbkbkgkrkgkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2177/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636
 
 ## Thread count
 DB/38 K6 DB6 K6 DB6 K40 G38 K4 R10 K4 G38 K40 DB38 K6 DB/6

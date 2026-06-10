@@ -1,13 +1,13 @@
 ---
-title: "Lochcarron of Scotland"
+title: "Lochcarron of Scotland (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBGBGBKBKBGBG](/patterns/bgbgbgbkbkbgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2172
+Original link http://www.tartansauthority.com/tartan-ferret/display/5466/
 
 ## Thread count
 DB/8 G24 P4 G4 P4 G4 DB8 K8 DB4 K8 DB36 LG4 DB8 LG/4

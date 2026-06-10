@@ -1,13 +1,13 @@
 ---
-title: "Haig & Haig Whisky (Corporate)"
+title: "Haig Corporate Tartan Tartan Number: 1609. Earliest known date: 1979 For Messrs John Haig. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RKRKY](/patterns/rkrky/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1609/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1609
 
 ## Thread count
 R/52 K36 R14 K8 Y/8

@@ -1,13 +1,13 @@
 ---
-title: "U.S. Special Forces"
+title: "U.S. Special Forces (Military)"
 date: 2023-03-18
 ---
 In pattern [BKWRKBGBKWKBY](/patterns/bkwrkbgbkwkby/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4191
+Original link http://www.tartansauthority.com/tartan-ferret/display/6519/
 
 ## Thread count
 B/6 K6 W2 DR6 K16 B4 DG72 B4 K16 W2 K6 B6 Y/4

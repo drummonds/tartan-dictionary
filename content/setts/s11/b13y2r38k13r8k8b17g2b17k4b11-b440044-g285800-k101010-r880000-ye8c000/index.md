@@ -1,5 +1,5 @@
 ---
-title: "Bute Heather, Weathered (Fashion)"
+title: "Bute Heather, Autumn (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKBGBKRKRYB](/patterns/bkbgbkrkryb/).
@@ -7,7 +7,7 @@ In pattern [BKBGBKRKRYB](/patterns/bkbgbkrkryb/).
 
 This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7181/
+Original link http://www.tartansauthority.com/tartan-ferret/display/6175/
 
 ## Thread count
 DP/11 K4 DP17 G2 DP17 K8 DR8 K13 DR38 Y2 DP/13
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/b13y2r38k13r8k8b17g2b17k4b11-b440044-g285800-k101010-r880000-ye8c000/
+0/

@@ -1,13 +1,13 @@
 ---
-title: "Coca Cola"
+title: "Coca Cola US Corporate Tartan Tartan Number: 7525. Earliest known date: 2008 Produced originally by the Janet Helm Company, Vancouver (specialist in corporate gifts) for Coca Cola. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RGWGW](/patterns/rgwgw/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5562
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7525
 
 ## Thread count
 LN/14 T14 LN14 T80 R/6

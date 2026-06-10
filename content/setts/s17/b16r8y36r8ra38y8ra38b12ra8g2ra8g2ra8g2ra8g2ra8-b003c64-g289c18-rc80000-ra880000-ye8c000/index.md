@@ -1,13 +1,13 @@
 ---
-title: "Confrerie de Vouvray (Corporate)"
+title: "Confrerie de Vouvray"
 date: 2023-03-18
 ---
 In pattern [BRYRRYRBRGRGRGRGR](/patterns/bryrryrbrgrgrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5802/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=736
 
 ## Thread count
 DB/16 R8 Y36 R8 DR38 Y8 DR38 DB12 DR8 G2 DR8 G2 DR8 G2 DR8 G2 DR/8

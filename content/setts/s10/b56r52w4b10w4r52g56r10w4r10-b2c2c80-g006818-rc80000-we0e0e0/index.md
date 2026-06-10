@@ -1,13 +1,13 @@
 ---
-title: "Glenaladale Plaid District Tartan Tartan Number: 2015. Earliest known date: 1772 Found in Prince Edward Island and said to have been brought from Glenaladale in 1772. (MacDonald of Glenaladale - Clan) See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Glenaladale"
 date: 2023-03-18
 ---
 In pattern [BRWBWRGRWR](/patterns/brwbwrgrwr/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2015
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4904
 
 ## Thread count
 DB/56 R52 LN4 DB10 LN4 R52 G56 R10 LN4 R/10
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/
+0e0e0/

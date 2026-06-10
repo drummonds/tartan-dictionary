@@ -1,13 +1,13 @@
 ---
-title: "Antrim, County"
+title: "Antrim, County (District)"
 date: 2023-03-18
 ---
 In pattern [GBGYBYRBGY](/patterns/gbgybyrbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=98
+Original link http://www.tartansauthority.com/tartan-ferret/display/2282/
 
 ## Thread count
 DY/8 N4 DN34 DO10 DY4 DN10 DY4 N36 DN4 N/10

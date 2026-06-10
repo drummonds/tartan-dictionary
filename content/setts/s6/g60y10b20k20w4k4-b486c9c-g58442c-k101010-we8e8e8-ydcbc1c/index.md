@@ -1,13 +1,13 @@
 ---
-title: "Bryan Wedding Commemorative Tartan Tartan Number: 10502. Earliest known date: 22/02/2011 Designed for the marriage of Christian Bryan and Mairi Cowieson. The colours are a combination of those contained in the Ramsay and Cornish tartans, reflecting the bride's family connection to the Ramsay tartan and the groom's residence in Cornwall. The autumnal theme of the wedding began with the cognac diamond contained in the brides engagement ring and is further enhanced by the colours chosen for the tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Bryan Wedding (Personal)"
 date: 2023-03-18
 ---
 In pattern [GYBKWK](/patterns/gybkwk/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10502
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10502
 
 ## Thread count
 K/4 LN4 K20 B20 Y10 T/60

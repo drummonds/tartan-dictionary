@@ -1,13 +1,13 @@
 ---
-title: "Gary/Garry (Name)"
+title: "Gary/Garry (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGBKBBGK](/patterns/bgbkbbgk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4189/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1315
 
 ## Thread count
 K/8 G48 DB12 P6 K12 P24 G6 P/8

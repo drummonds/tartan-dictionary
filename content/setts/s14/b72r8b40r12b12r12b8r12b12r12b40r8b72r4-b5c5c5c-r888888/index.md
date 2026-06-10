@@ -1,5 +1,5 @@
 ---
-title: "Hebridean Mist"
+title: "Hebridean Cairn"
 date: 2023-03-18
 ---
 In pattern [BRBRBRBRBRBRBR](/patterns/brbrbrbrbrbrbr/).
@@ -7,7 +7,7 @@ In pattern [BRBRBRBRBRBRBR](/patterns/brbrbrbrbrbrbr/).
 
 This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652
 
 ## Thread count
 N/4 Na72 N8 Na40 N12 Na12 N12 Na8 N12 Na12 N12 Na40 N8 Na/72

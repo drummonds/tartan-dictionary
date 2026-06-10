@@ -1,13 +1,13 @@
 ---
-title: "Fitzsimmons Hunting (Name)"
+title: "Fitzsimmons"
 date: 2023-03-18
 ---
 In pattern [GKGKGKRKGY](/patterns/gkgkgkrkgy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7266/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201
 
 ## Thread count
 LG/6 LT4 K8 T12 K8 LT30 K8 DG36 K4 LT/6

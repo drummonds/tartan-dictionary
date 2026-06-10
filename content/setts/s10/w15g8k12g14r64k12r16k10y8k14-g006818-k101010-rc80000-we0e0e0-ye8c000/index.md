@@ -1,13 +1,13 @@
 ---
-title: "Carlow County, Crest Range"
+title: "Carlow County Crest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KYKRKRGKGW](/patterns/kykrkrgkgw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4931
+Original link http://www.tartansauthority.com/tartan-ferret/display/7449/
 
 ## Thread count
 K/14 Y8 K10 R16 K12 R64 G14 K12 G8 LN/15
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/w15g8k12g14r64k12r16k10y8k14-g006818-k101010-rc80000-we0e0e0-ye8c000/
+

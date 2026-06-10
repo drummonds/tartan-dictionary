@@ -1,13 +1,13 @@
 ---
-title: "Island of Innis, The"
+title: "Island of Innis, The (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KGKRGRYK](/patterns/kgkrgryk/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1863
+Original link http://www.tartansauthority.com/tartan-ferret/display/5279/
 
 ## Thread count
 K/4 DY44 DR12 G4 DR36 K12 G4 K/60
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/4 DY44 DR12 G4 DR36 K12 G4 K/60 tartan")
 
 ID: /setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/
-9800/

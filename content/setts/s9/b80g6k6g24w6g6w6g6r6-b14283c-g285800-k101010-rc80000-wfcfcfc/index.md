@@ -1,13 +1,13 @@
 ---
-title: "Todd (Name)"
+title: "Todd"
 date: 2023-03-18
 ---
 In pattern [BGKGWGWGR](/patterns/bgkgwgwgr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5107/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4132
 
 ## Thread count
 DN/80 G6 K6 G24 W6 G6 W6 G6 R/6

@@ -1,13 +1,13 @@
 ---
-title: "Page"
+title: "Page Clan/Family Tartan Tartan Number: 7468. Earliest known date: 2007 Designed by George Page of Quebec, Canada and Trudie Ainsworth of House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GKGKRKW](/patterns/gkgkrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5513
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7468
 
 ## Thread count
 DG/92 K36 DG12 K26 R8 K8 LN/8

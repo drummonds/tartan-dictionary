@@ -1,13 +1,13 @@
 ---
-title: "Feddinch Club, St Andrews (Corp)"
+title: "Feddinch Club, St Andrews Limited, The"
 date: 2023-03-18
 ---
 In pattern [GKKR](/patterns/gkkr/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2687/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3879
 
 ## Thread count
 DG/86 K28 Ka28 DR/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/86 K28 Ka28 DR/4 tartan")
 
 ID: /setts/s4/g86k28ka28r4-g003820-k101010-ka1c0030-r880000/
--r880000/

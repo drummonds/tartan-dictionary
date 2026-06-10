@@ -1,13 +1,13 @@
 ---
-title: "MacInroy (Wedding) (Personal)"
+title: "MacInroy (Wedding)"
 date: 2023-03-18
 ---
 In pattern [BGBGBGKRGRGR](/patterns/bgbgbgkrgrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479
+Original link http://www.tartansauthority.com/tartan-ferret/display/133/
 
 ## Thread count
 DB/20 G2 DB4 G6 DB32 G2 K32 R32 G6 R4 G2 R/20
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s12/b20g2b4g6b32g2k32r32g6r4g2r20-b2c2c80-g408060-k101010-rc80000/
+101010-rc80000/

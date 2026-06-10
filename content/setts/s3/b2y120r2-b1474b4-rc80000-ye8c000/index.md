@@ -1,13 +1,13 @@
 ---
-title: "Nutwood"
+title: "Nutwood (District)"
 date: 2023-03-18
 ---
 In pattern [BYR](/patterns/byr/).
 
 
-This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3207
+Original link http://www.tartansauthority.com/tartan-ferret/display/7053/
 
 ## Thread count
 B/2 Y120 R/2
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/2 Y120 R/2 tartan")
 
 ID: /setts/s3/b2y120r2-b1474b4-rc80000-ye8c000/
-8c000/

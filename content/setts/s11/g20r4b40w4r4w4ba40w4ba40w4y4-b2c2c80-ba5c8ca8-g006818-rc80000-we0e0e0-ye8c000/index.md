@@ -1,13 +1,13 @@
 ---
-title: "Texas Blue Bonnet"
+title: "Texas Blue Bonnet (US State)"
 date: 2023-03-18
 ---
 In pattern [GRBWRWBWBWY](/patterns/grbwrwbwbwy/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4098
+Original link http://www.tartansauthority.com/tartan-ferret/display/852/
 
 ## Thread count
 G/20 R4 DB40 LN4 R4 LN4 B40 LN4 B40 LN4 Y/4

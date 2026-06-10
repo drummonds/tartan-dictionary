@@ -1,13 +1,13 @@
 ---
-title: "Canadian Autumn (Fashion)"
+title: "Canadian Autumn"
 date: 2023-03-18
 ---
 In pattern [GKGBRG](/patterns/gkgbrg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4440/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=539
 
 ## Thread count
 G/8 DR56 DB12 G20 K20 G/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/8 DR56 DB12 G20 K20 G/6 tartan")
 
 ID: /setts/s6/g8r56b12g20k20g6-b1c0070-g006818-k101010-r880000/
+80000/

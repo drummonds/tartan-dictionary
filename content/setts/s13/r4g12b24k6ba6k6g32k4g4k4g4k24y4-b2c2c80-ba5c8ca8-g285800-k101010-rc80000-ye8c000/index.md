@@ -1,13 +1,13 @@
 ---
-title: "MacInnes (Clan)"
+title: "MacInnes"
 date: 2023-03-18
 ---
 In pattern [RGBKBKGKGKGKY](/patterns/rgbkbkgkgkgky/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1464/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2471
 
 ## Thread count
 R/4 G12 DB24 K6 B6 K6 G32 K4 G4 K4 G4 K24 Y/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b2c2c80-ba5c8ca8-g285800-k101010-rc80000-ye8c000/
+0/

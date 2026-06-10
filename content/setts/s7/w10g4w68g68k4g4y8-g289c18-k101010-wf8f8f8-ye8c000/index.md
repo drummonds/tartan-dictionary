@@ -1,13 +1,13 @@
 ---
-title: "Cunningham Dress, Green (Dance)"
+title: "Cunningham Dress Green (Dance)"
 date: 2023-03-18
 ---
 In pattern [WGWGKGY](/patterns/wgwgkgy/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6532/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=848
 
 ## Thread count
 W/10 G4 W68 G68 K4 G4 Y/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "W/10 G4 W68 G68 K4 G4 Y/8 tartan")
 
 ID: /setts/s7/w10g4w68g68k4g4y8-g289c18-k101010-wf8f8f8-ye8c000/
-/

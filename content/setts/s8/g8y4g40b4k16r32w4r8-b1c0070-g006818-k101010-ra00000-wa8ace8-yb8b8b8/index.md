@@ -1,13 +1,13 @@
 ---
-title: "Sawyer (Name)"
+title: "Sawyer"
 date: 2023-03-18
 ---
 In pattern [GYGBKRWR](/patterns/gygbkrwr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2162/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3662
 
 ## Thread count
 DR/8 LP4 DR32 K16 DB4 G40 N4 G/8

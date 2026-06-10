@@ -1,13 +1,13 @@
 ---
-title: "Duke of York (Royal)"
+title: "Duke of York"
 date: 2023-03-18
 ---
 In pattern [BRWRYBYB](/patterns/brwrybyb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/577/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011
 
 ## Thread count
 DB/122 DR12 W4 DR16 DY4 DB6 DY4 DB/30
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/122 DR12 W4 DR16 DY4 DB6 DY4 DB/30 tartan")
 
 ID: /setts/s8/b122r12w4r16y4b6y4b30-b00008c-r8c0000-wfcfcfc-yc88c00/
+0/

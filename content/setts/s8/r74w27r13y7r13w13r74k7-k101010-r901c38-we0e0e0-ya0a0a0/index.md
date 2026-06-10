@@ -1,13 +1,13 @@
 ---
-title: "Cornell (Corporate)"
+title: "Cornell #2"
 date: 2023-03-18
 ---
 In pattern [KRWRYRWR](/patterns/krwryrwr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7829/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5783
 
 ## Thread count
 DR/74 LN27 DR13 N7 DR13 LN13 DR74 K/7
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/74 LN27 DR13 N7 DR13 LN13 DR74 K/7 tartan")
 
 ID: /setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/
+0a0/

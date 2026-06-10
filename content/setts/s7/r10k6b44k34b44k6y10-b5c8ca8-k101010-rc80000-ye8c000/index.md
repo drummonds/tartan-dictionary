@@ -1,13 +1,13 @@
 ---
-title: "MacCrimmon from Skye"
+title: "MacCrimmon from Skye (Clan?)"
 date: 2023-03-18
 ---
 In pattern [RKBKBKY](/patterns/rkbkbky/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2328
+Original link http://www.tartansauthority.com/tartan-ferret/display/2610/
 
 ## Thread count
 R/10 K6 B44 K34 B44 K6 Y/10
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/10 K6 B44 K34 B44 K6 Y/10 tartan")
 
 ID: /setts/s7/r10k6b44k34b44k6y10-b5c8ca8-k101010-rc80000-ye8c000/
-00/

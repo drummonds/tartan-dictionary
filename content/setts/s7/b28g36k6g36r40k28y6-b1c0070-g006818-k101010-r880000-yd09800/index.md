@@ -1,13 +1,13 @@
 ---
-title: "Scottish Parliament (Unauthorised)"
+title: "Scottish Parliament (unofficial)"
 date: 2023-03-18
 ---
 In pattern [BGKGRKY](/patterns/bgkgrky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2477/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3738
 
 ## Thread count
 DB/28 G36 K6 G36 DR40 K28 DY/6
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/28 G36 K6 G36 DR40 K28 DY/6 tartan")
 
 ID: /setts/s7/b28g36k6g36r40k28y6-b1c0070-g006818-k101010-r880000-yd09800/
-/

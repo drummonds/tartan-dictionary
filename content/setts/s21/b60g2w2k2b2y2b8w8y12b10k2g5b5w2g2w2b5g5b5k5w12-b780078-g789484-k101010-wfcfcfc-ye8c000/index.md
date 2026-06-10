@@ -1,13 +1,13 @@
 ---
-title: "Lions Club"
+title: "Lions Club (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGWKBYBWYBKGBWGWBGBKW](/patterns/bgwkbybwybkgbwgwbgbkw/).
 
 
-This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2122
+Original link http://www.tartansauthority.com/tartan-ferret/display/93/
 
 ## Thread count
 P/60 LG2 W2 K2 P2 Y2 P8 W8 Y12 P10 K2 LG5 P5 W2 LG2 W2 P5 LG5 P5 K5 W/12

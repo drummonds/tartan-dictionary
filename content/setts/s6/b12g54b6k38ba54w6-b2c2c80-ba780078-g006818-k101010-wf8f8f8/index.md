@@ -1,13 +1,13 @@
 ---
-title: "Gold Brothers"
+title: "Freedom (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGBKBW](/patterns/bgbkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1444
+Original link http://www.tartansauthority.com/tartan-ferret/display/6865/
 
 ## Thread count
 DB/12 G54 DB6 K38 P54 W/6

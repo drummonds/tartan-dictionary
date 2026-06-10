@@ -1,13 +1,13 @@
 ---
-title: "Gayre"
+title: "Gayre (Clan ?)"
 date: 2023-03-18
 ---
 In pattern [KRGWGRKWGWGWKGW](/patterns/krgwgrkwgwgwkgw/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1319
+Original link http://www.tartansauthority.com/tartan-ferret/display/8876/
 
 ## Thread count
 K/8 R12 G6 N8 G8 R12 K8 N8 G32 LB8 G32 N8 K8 G8 LB/40
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s15/w40g8k8wa8g32w8g32wa8k8r12g8wa8g6r12k8-g006818-k101010-rc80000-w98c8e8-wac0c0c0/
-0c0/

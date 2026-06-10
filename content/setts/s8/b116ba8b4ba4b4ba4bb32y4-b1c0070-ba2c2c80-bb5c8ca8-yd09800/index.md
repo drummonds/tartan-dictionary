@@ -1,13 +1,13 @@
 ---
-title: "Marist (Corporate)"
+title: "Marist School, The"
 date: 2023-03-18
 ---
 In pattern [BBBBBBBY](/patterns/bbbbbbby/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2376/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2836
 
 ## Thread count
 DBa/116 DB8 DBa4 DB4 DBa4 DB4 B32 DY/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DBa/116 DB8 DBa4 DB4 DBa4 DB4 B32 DY/4 tartan")
 
 ID: /setts/s8/b116ba8b4ba4b4ba4bb32y4-b1c0070-ba2c2c80-bb5c8ca8-yd09800/
-00/

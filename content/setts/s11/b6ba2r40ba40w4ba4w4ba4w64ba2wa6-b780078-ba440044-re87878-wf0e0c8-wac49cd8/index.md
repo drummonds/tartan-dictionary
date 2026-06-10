@@ -1,13 +1,13 @@
 ---
-title: "Sunart, Pink (Dance)"
+title: "Sunart Pink"
 date: 2023-03-18
 ---
 In pattern [BBRBWBWBWBW](/patterns/bbrbwbwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7586/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5610
 
 ## Thread count
 LP/6 DP2 W64 DP4 W4 DP4 W4 DP40 LR40 DP2 P/6
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s11/b6ba2r40ba40w4ba4w4ba4w64ba2wa6-b780078-ba440044-re87878-wf0e0c8-wac49cd8/
+cd8/

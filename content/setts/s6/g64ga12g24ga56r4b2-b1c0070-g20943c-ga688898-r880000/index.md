@@ -1,13 +1,13 @@
 ---
-title: "Palm Beach Gardens Police (Corporate"
+title: "Palm Beach Gardens Police"
 date: 2023-03-18
 ---
 In pattern [BRGGGG](/patterns/brgggg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5521/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3286
 
 ## Thread count
 DB/2 DR4 B56 G24 B12 G/64
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/2 DR4 B56 G24 B12 G/64 tartan")
 
 ID: /setts/s6/g64ga12g24ga56r4b2-b1c0070-g20943c-ga688898-r880000/
+80000/

@@ -1,13 +1,13 @@
 ---
-title: "Brough (Name)"
+title: "Brough (Personal)"
 date: 2023-03-18
 ---
 In pattern [GRGBWBR](/patterns/grgbwbr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2233/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=389
 
 ## Thread count
 DR/36 DB24 W4 DB24 G16 DR6 G/20

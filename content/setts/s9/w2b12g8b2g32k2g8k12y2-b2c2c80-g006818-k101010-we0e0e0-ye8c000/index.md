@@ -1,13 +1,13 @@
 ---
-title: "Henderson MacKendrick Clan Tartan Tartan Number: 1762. Earliest known date: 1906 The name Henderson in Gaelic is MacEanruig, which is sometimes rendered as MacKendrick. Hendersons from the north are associated with the Gunns. Hendersons lived in Lochaber and Angus. The Henderson tartan resembles the Davidson, both of which were first recorded by W & A.K.Johnston in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacKendrick"
 date: 2023-03-18
 ---
 In pattern [WBGBGKGKY](/patterns/wbgbgkgky/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1762
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431
 
 ## Thread count
 LN/2 DB12 G8 DB2 G32 K2 G8 K12 Y/2
@@ -22,6 +22,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
+
+ID: /setts/s9/w2b12g8b2g32k2g8k12y2-b2c2c80-g006818-k101010-we0e0e0-ye8c000/
+scale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/w2b12g8b2g32k2g8k12y2-b2c2c80-g006818-k101010-we0e0e0-ye8c000/

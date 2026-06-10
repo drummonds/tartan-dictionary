@@ -1,13 +1,13 @@
 ---
-title: "Kilburnie (Fashion)"
+title: "Kilburnie Trade Tartan Tartan Number: 284. Earliest known date: 1985 No count given. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKBKRKBKWKBKYKBKR](/patterns/bkbkrkbkwkbkykbkr/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from house-of-tartan.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/284/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=284
 
 ## Thread count
 DB/24 K4 DB4 K4 R6 K4 B12 K4 LN4 K4 B12 K4 Y4 K4 DB12 K4 R/4
@@ -24,8 +24,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
-
-ID: /setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/
-rast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/

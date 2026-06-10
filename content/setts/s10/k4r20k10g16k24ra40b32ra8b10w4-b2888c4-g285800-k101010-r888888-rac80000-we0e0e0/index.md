@@ -1,13 +1,13 @@
 ---
-title: "Manderson #2 (Personal)"
+title: "Manderson #2"
 date: 2023-03-18
 ---
 In pattern [KRKGKRBRBW](/patterns/krkgkrbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5713/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802
 
 ## Thread count
 K/4 N20 K10 G16 K24 R40 B32 R8 B10 LN/4

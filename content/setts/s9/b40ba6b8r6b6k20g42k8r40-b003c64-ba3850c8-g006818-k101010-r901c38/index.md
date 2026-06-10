@@ -1,13 +1,13 @@
 ---
-title: "Holland & Sherry"
+title: "Holland & Sherry (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBBRBKGKR](/patterns/bbbrbkgkr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5706
+Original link http://www.tartansauthority.com/tartan-ferret/display/7720/
 
 ## Thread count
 DB/40 B6 DB8 DR6 DB6 K20 G42 K8 DR/40

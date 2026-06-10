@@ -1,13 +1,13 @@
 ---
-title: "MacKintosh Chief - 1819 (Clan)"
+title: "MacKintosh (Chief)"
 date: 2023-03-18
 ---
 In pattern [RKWGWYRKRYWBKRYW](/patterns/rkwgwyrkrywbkryw/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1622/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2569
 
 ## Thread count
 LN/2 Y6 R6 K4 B12 LN2 Y4 R4 K2 R4 Y4 LN2 G12 LN2 K2 R/48

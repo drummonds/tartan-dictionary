@@ -1,13 +1,13 @@
 ---
-title: "Payne, Wallins Creek (Personal)"
+title: "Payne of Wallins Creek (Personal)"
 date: 2023-03-18
 ---
 In pattern [KYKWKBKBKW](/patterns/kykwkbkbkw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6783/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3306
 
 ## Thread count
 K/1 Y1 K8 W2 K64 P8 K10 P8 K2 W/2

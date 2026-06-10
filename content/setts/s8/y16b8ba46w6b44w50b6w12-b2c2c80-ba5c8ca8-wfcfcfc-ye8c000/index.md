@@ -1,13 +1,13 @@
 ---
-title: "Culloden Dress, Blue (Dance)"
+title: "Culloden, Blue Dress (Dance)"
 date: 2023-03-18
 ---
 In pattern [WBWBWBBY](/patterns/wbwbwbby/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1792/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=831
 
 ## Thread count
 W/12 DB6 W50 DB44 W6 B46 DB8 Y/16

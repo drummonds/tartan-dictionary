@@ -1,13 +1,13 @@
 ---
-title: "Ogilvie (B&W) (Fashion?)"
+title: "Ogilvy B/W Trade Tartan Tartan Number: 1250. Earliest known date: pre 2003 Full sett can be seen in STS files. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [KWKWKWKWKWKWKWKWKWKW](/patterns/kwkwkwkwkwkwkwkwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [20 stripes tartan](/stripes/stripes20/).
+This was sourced from house-of-tartan.  It is a [20 stripes tartan](/stripes/stripes20/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1250/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1250
 
 ## Thread count
 K/24 LN4 K24 LN4 K12 LN4 K14 LN12 K4 LN12 K4 LN4 K12 LN4 K12 LN4 K4 LN24 K4 LN/24

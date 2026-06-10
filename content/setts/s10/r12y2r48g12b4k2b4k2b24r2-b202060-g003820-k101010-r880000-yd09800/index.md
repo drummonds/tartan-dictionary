@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s10/r12y2r48g12b4k2b4k2b24r2-b202060-g003820-k101010-r880000-yd09800/
-880000-yd09800/

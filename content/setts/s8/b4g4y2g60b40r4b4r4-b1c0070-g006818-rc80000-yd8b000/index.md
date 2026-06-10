@@ -1,13 +1,13 @@
 ---
-title: "Gretna Green (Fashion)"
+title: "Gretna Green"
 date: 2023-03-18
 ---
 In pattern [BGYGBRBR](/patterns/bgygbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5119/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1540
 
 ## Thread count
 DB/4 G4 Y2 G60 DB40 R4 DB4 R/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 G4 Y2 G60 DB40 R4 DB4 R/4 tartan")
 
 ID: /setts/s8/b4g4y2g60b40r4b4r4-b1c0070-g006818-rc80000-yd8b000/
+b000/

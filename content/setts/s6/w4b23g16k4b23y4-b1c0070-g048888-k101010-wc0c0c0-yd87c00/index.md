@@ -1,13 +1,13 @@
 ---
-title: "Baptist Union of Scotland (Corp)"
+title: "Baptist Union of Scotland"
 date: 2023-03-18
 ---
 In pattern [WBGKBY](/patterns/wbgkby/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4104/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=207
 
 ## Thread count
 N/4 DB23 B16 K4 DB23 O/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "N/4 DB23 B16 K4 DB23 O/4 tartan")
 
 ID: /setts/s6/w4b23g16k4b23y4-b1c0070-g048888-k101010-wc0c0c0-yd87c00/
+00/

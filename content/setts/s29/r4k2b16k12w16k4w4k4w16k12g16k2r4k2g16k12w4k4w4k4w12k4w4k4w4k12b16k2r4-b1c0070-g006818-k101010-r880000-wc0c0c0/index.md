@@ -1,13 +1,13 @@
 ---
-title: "MacKinlay Dress"
+title: "MacKinlay Dress (Clan?)"
 date: 2023-03-18
 ---
 In pattern [RKBKWKWKWKGKRKGKWKWKWKWKWKBKR](/patterns/rkbkwkwkwkgkrkgkwkwkwkwkwkbkr/).
 
 
-This was sourced from register-of-tartans.  It is a [29 stripes tartan](/stripes/stripes29/).
+This was sourced from tartans-authority.  It is a [29 stripes tartan](/stripes/stripes29/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2541
+Original link http://www.tartansauthority.com/tartan-ferret/display/4564/
 
 ## Thread count
 DR/4 K2 DB16 K12 N16 K4 N4 K4 N16 K12 G16 K2 DR4 K2 G16 K12 N4 K4 N4 K4 N12 K4 N4 K4 N4 K12 DB16 K2 DR/4

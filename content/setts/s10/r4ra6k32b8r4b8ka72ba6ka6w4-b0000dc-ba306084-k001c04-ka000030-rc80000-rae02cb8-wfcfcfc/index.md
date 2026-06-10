@@ -1,13 +1,13 @@
 ---
-title: "Fitzgerald Htg (Name)"
+title: "Fitzgerald Hunting"
 date: 2023-03-18
 ---
 In pattern [RRKBRBKBKW](/patterns/rrkbrbkbkw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1336/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1196
 
 ## Thread count
 R/4 LR6 DG32 Ba8 R4 Ba8 DB72 B6 DB6 W/4

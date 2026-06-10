@@ -1,13 +1,13 @@
 ---
-title: "Greenshields, Alan (Personal)"
+title: "Greenshields Personal Tartan Tartan Number: 5115. Earliest known date: 1997 Designed by Peter MacDoanld in 1997 for Alan Greenshields, Glasgow as a family tartan. Based by request of the customer on the MacNichol given by both Ross-Craven and Robert Bain but using yellow form the MacLeod. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [KGYGKRKGYGYGK](/patterns/kgygkrkgygygk/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5115/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5115
 
 ## Thread count
 K/4 G20 Y4 G18 K16 DR3 K10 G4 Y26 G20 Y4 G20 K/4

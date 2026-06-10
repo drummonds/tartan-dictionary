@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BGGBKGGGKBGBW](/patterns/bggbkgggkbgbw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5402
+Original link http://www.tartansauthority.com/tartan-ferret/display/3928/
 
 ## Thread count
 DBa/8 G34 DG2 DB4 K12 G4 DG24 G4 K12 DB4 DG2 DB36 LN/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s13/b8g34ga2ba4k12g4ga24g4k12ba4ga2ba36w4-b202060-ba2c2c80-g006818-ga003820-k101010-we0e0e0/
+e0/

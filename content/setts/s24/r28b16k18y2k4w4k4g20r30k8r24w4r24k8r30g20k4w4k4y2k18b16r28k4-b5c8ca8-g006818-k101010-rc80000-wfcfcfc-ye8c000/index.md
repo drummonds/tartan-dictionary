@@ -1,5 +1,5 @@
 ---
-title: "Harden"
+title: "Wilson's No.001"
 date: 2023-03-18
 ---
 In pattern [KRBKYKWKGRKRWRKRGKWKYKBR](/patterns/krbkykwkgrkrwrkrgkwkykbr/).
@@ -7,7 +7,7 @@ In pattern [KRBKYKWKGRKRWRKRGKWKYKBR](/patterns/krbkykwkgrkrwrkrgkwkykbr/).
 
 This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5420
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4642
 
 ## Thread count
 K/4 R28 B16 K18 Y2 K4 W4 K4 G20 R30 K8 R24 W4 R24 K8 R30 G20 K4 W4 K4 Y2 K18 B16 R/28

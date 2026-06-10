@@ -1,13 +1,13 @@
 ---
-title: "Macallan The (Corporate)"
+title: "Macallan The"
 date: 2023-03-18
 ---
 In pattern [YBYBRBRGRBRBRBYBYY](/patterns/ybybrbrgrbrbrbybyy/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5837/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2273
 
 ## Thread count
 O/74 DR6 O6 DR8 R6 DR6 R71 DG6 R6 DB6 R71 DR6 R6 DR8 O6 DR6 O74 Y/8

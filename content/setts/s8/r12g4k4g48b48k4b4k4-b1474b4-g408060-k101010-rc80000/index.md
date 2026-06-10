@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KBKBGKGR](/patterns/kbkbgkgr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1055/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3328
 
 ## Thread count
 K/4 B4 K4 B48 G48 K4 G4 R/12
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/4 B4 K4 B48 G48 K4 G4 R/12 tartan")
 
 ID: /setts/s8/r12g4k4g48b48k4b4k4-b1474b4-g408060-k101010-rc80000/
-00/

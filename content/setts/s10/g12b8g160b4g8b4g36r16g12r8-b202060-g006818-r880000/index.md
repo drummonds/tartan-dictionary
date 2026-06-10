@@ -1,13 +1,13 @@
 ---
-title: "Braveheart Warrior (Hunting)"
+title: "Braveheart -Warrior (hunting) Universal Tartan Tartan Number: 2237. Earliest known date: pre 2002 After the success of the Braveheart film Michael King is said to have produced a Hunting and a Dress version of his originial 1993 Braveheart Warrior. May have been woven by D C Dalgleish. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GBGBGBGRGR](/patterns/gbgbgbgrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=342
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2237
 
 ## Thread count
 DR/8 G12 DR16 G36 DB4 G8 DB4 G160 DB8 G/12

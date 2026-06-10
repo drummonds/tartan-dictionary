@@ -1,5 +1,5 @@
 ---
-title: "Lendrum (B&W) (Clan)"
+title: "Wallace Dress (Clan)"
 date: 2023-03-18
 ---
 In pattern [KWKW](/patterns/kwkw/).
@@ -7,7 +7,7 @@ In pattern [KWKW](/patterns/kwkw/).
 
 This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3086/
+Original link http://www.tartansauthority.com/tartan-ferret/display/1251/
 
 ## Thread count
 K/28 W24 K4 W/24
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/28 W24 K4 W/24 tartan")
 
 ID: /setts/s4/k28w24k4w24-k101010-wfcfcfc/
-c/

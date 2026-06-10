@@ -1,13 +1,13 @@
 ---
-title: "McInally"
+title: "McInally (Name)"
 date: 2023-03-18
 ---
 In pattern [RGRKRGY](/patterns/rgrkrgy/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5154
+Original link http://www.tartansauthority.com/tartan-ferret/display/3465/
 
 ## Thread count
 DY/6 G4 R56 K12 R8 G32 R/6
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/6 G4 R56 K12 R8 G32 R/6 tartan")
 
 ID: /setts/s7/r6g32r8k12r56g4y6-g006818-k101010-rc80000-yd09800/
-0/

@@ -1,13 +1,13 @@
 ---
-title: "Caledonian Maple"
+title: "Caledonian Maple (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RGGGRGR](/patterns/rgggrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4939
+Original link http://www.tartansauthority.com/tartan-ferret/display/3782/
 
 ## Thread count
 DR/44 G4 DR12 LT28 G28 T20 DY/12

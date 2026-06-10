@@ -1,13 +1,13 @@
 ---
-title: "St. Dennis & Cranley School"
+title: "St. Dennis & Cranley (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBWBGB](/patterns/bgbwbgb/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3888
+Original link http://www.tartansauthority.com/tartan-ferret/display/5310/
 
 ## Thread count
 DB/4 G16 DB16 N4 DB16 G48 DB/4

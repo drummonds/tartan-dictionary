@@ -1,13 +1,13 @@
 ---
-title: "Mariverain Corporate Tartan Tartan Number: 2327. Earliest known date: pre 2002 Designed by Madelaine Saoie and Noella Vachon - assume that they are French Canadian. No further details at all. Asymmetrical. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Mariverain"
 date: 2023-03-18
 ---
 In pattern [BRBGBYBRGYG](/patterns/brbgbybrgyg/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2327
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2837
 
 ## Thread count
 DB/40 DR8 DB40 G56 DB24 DY8 DB32 DR40 G16 DY16 G/16

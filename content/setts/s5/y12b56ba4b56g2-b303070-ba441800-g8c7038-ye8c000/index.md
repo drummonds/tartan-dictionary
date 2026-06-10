@@ -1,13 +1,13 @@
 ---
-title: "Pearson"
+title: "Pearson (Name)"
 date: 2023-03-18
 ---
 In pattern [GBBBY](/patterns/gbbby/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3310
+Original link http://www.tartansauthority.com/tartan-ferret/display/1734/
 
 ## Thread count
 LT/2 DB56 DR4 DB56 Y/12
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LT/2 DB56 DR4 DB56 Y/12 tartan")
 
 ID: /setts/s5/y12b56ba4b56g2-b303070-ba441800-g8c7038-ye8c000/
-0/

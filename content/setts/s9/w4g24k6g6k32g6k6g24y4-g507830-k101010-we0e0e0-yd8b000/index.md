@@ -1,13 +1,13 @@
 ---
-title: "MacIver Hunting (Clan)"
+title: "MacIver Hunting"
 date: 2023-03-18
 ---
 In pattern [WGKGKGKGY](/patterns/wgkgkgkgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2697/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2493
 
 ## Thread count
 LN/4 G24 K6 G6 K32 G6 K6 G24 Y/4

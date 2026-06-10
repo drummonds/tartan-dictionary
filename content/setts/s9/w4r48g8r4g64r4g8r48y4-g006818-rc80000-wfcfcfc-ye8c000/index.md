@@ -1,13 +1,13 @@
 ---
-title: "MacFie - 1880 (Clan)"
+title: "MacPhie/Macfie"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRY](/patterns/wrgrgrgry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1847/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2727
 
 ## Thread count
 W/4 R48 G8 R4 G64 R4 G8 R48 Y/4
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/w4r48g8r4g64r4g8r48y4-g006818-rc80000-wfcfcfc-ye8c000/
+/

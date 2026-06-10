@@ -1,13 +1,13 @@
 ---
-title: "Corcoran of Sherbrooke (Name)"
+title: "Corcoran of Sherbrooke (Personal)"
 date: 2023-03-18
 ---
 In pattern [KYGBGGYGY](/patterns/kygbggygy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4584/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=759
 
 ## Thread count
 K/4 N4 G20 P4 G8 T20 N4 LT12 N/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#603800;"><span style="color:#603800;filter:grayscale(1) invert(1) contrast(100);">#603800</span></code> `#603800` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.16 |
 
 ID: /setts/s9/k4y4g20b4g8ga20y4gb12y4-b780078-g006818-ga603800-gb8c7038-k101010-yb8b8b8/
-8b8b8/

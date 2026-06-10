@@ -7,7 +7,7 @@ In pattern [BKBKBKGKRKGKBKB](/patterns/bkbkbkgkrkgkbkb/).
 
 This was sourced from weddslist.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DB/12 K4 DB4 K4 DB4 K12 DG16 K2 DR4 K2 DG16 K12 DB16 K4 DB/4

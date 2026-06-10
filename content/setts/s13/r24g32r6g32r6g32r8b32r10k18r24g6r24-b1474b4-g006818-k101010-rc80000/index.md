@@ -1,13 +1,13 @@
 ---
-title: "Grant of Monymusk"
+title: "Grant of Monymusk - 1810 (Clan)"
 date: 2023-03-18
 ---
 In pattern [RGRGRGRBRKRGR](/patterns/rgrgrgrbrkrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1509
+Original link http://www.tartansauthority.com/tartan-ferret/display/1497/
 
 ## Thread count
 R/24 G32 R6 G32 R6 G32 R8 B32 R10 K18 R24 G6 R/24

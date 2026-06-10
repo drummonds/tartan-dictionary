@@ -1,13 +1,13 @@
 ---
-title: "Bro-Roazhon"
+title: "Bro-Roazhon (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GWBWKWKYWYK](/patterns/gwbwkwkywyk/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=385
+Original link http://www.tartansauthority.com/tartan-ferret/display/6652/
 
 ## Thread count
 G/4 W20 DB4 W6 K10 W34 K6 Y2 W4 Y2 K/56

@@ -1,13 +1,13 @@
 ---
-title: "Martin"
+title: "Martin (Name)"
 date: 2023-03-18
 ---
 In pattern [KBKGKGKGY](/patterns/kbkgkgkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2841
+Original link http://www.tartansauthority.com/tartan-ferret/display/1207/
 
 ## Thread count
 DY/16 G40 K12 G12 K12 G12 K36 DR44 K/12

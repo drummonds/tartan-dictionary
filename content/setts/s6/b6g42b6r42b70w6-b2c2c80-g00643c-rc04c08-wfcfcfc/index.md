@@ -1,13 +1,13 @@
 ---
-title: "Donnolly (Fashion)"
+title: "Donnolly"
 date: 2023-03-18
 ---
 In pattern [BGBRBW](/patterns/bgbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6034/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=951
 
 ## Thread count
 DB/6 G42 DB6 DO42 DB70 W/6

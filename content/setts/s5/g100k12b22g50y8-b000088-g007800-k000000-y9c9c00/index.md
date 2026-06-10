@@ -1,13 +1,13 @@
 ---
-title: "Glen of Daviot (Fashion)"
+title: "Glen of Daviot (Dalgleish)"
 date: 2023-03-18
 ---
 In pattern [GKBGY](/patterns/gkbgy/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5020/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1392
 
 ## Thread count
 G/100 K12 DB22 G50 LG/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/100 K12 DB22 G50 LG/8 tartan")
 
 ID: /setts/s5/g100k12b22g50y8-b000088-g007800-k000000-y9c9c00/
-9c00/

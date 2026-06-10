@@ -1,13 +1,13 @@
 ---
-title: "Royal Agricultural Winter Fair (Comm"
+title: "Royal Agricultural Winter Fair"
 date: 2023-03-18
 ---
 In pattern [BWBYBRBG](/patterns/bwbybrbg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5408/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3585
 
 ## Thread count
 DB/128 N4 DB4 DY8 DB4 DR4 DB16 DG/64

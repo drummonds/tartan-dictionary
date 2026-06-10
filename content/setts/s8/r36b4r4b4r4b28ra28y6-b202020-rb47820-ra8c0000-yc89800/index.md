@@ -1,13 +1,13 @@
 ---
-title: "Talladale (Fashion)"
+title: "Talladale"
 date: 2023-03-18
 ---
 In pattern [RBRBRBRY](/patterns/rbrbrbry/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5143/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4069
 
 ## Thread count
 DY/6 DR28 K28 LT4 K4 LT4 K4 LT/36

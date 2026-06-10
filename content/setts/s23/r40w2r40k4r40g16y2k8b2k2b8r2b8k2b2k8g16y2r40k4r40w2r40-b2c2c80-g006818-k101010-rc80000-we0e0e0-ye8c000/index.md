@@ -1,13 +1,13 @@
 ---
-title: "Cromdale"
+title: "Cromdale (District)"
 date: 2023-03-18
 ---
 In pattern [RWRKRGYKBKBRBKBKGYRKRWR](/patterns/rwrkrgykbkbrbkbkgyrkrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=810
+Original link http://www.tartansauthority.com/tartan-ferret/display/7121/
 
 ## Thread count
 R/40 LN2 R40 K4 R40 G16 Y2 K8 DB2 K2 DB8 R2 DB8 K2 DB2 K8 G16 Y2 R40 K4 R40 LN2 R/40
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s23/r40w2r40k4r40g16y2k8b2k2b8r2b8k2b2k8g16y2r40k4r40w2r40-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/
-e8c000/

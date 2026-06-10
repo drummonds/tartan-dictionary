@@ -1,13 +1,13 @@
 ---
-title: "Metro Detroit Police & Fire P &"
+title: "Metro Detroit Police & Fire (P&D)"
 date: 2023-03-18
 ---
 In pattern [RBRKBKBKBRWBR](/patterns/rbrkbkbkbrwbr/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2942
+Original link http://www.tartansauthority.com/tartan-ferret/display/6030/
 
 ## Thread count
 R/18 DB6 R18 K36 DB18 K4 DB18 K4 DB18 R12 W2 DB2 R/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s13/r18b6r18k36b18k4b18k4b18r12w2b2r8-b2c2c80-k101010-rc8002c-wfcfcfc/
+/

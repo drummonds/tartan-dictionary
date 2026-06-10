@@ -1,13 +1,13 @@
 ---
-title: "London Scottish Rugby Club (Corp)"
+title: "London Scottish Rugby Club"
 date: 2023-03-18
 ---
 In pattern [KGBWBR](/patterns/kgbwbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2360/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2199
 
 ## Thread count
 K/8 G16 DB26 LN2 DB80 R/10

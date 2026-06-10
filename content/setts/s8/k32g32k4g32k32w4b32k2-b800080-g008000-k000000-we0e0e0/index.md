@@ -1,5 +1,5 @@
 ---
-title: "Unnamed No 33"
+title: "Unnamed 6"
 date: 2023-03-18
 ---
 In pattern [KBWKGKGK](/patterns/kbwkgkgk/).

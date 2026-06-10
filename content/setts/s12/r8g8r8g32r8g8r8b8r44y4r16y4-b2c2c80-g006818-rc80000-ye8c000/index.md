@@ -1,13 +1,13 @@
 ---
-title: "Burns (Clan)"
+title: "Burns 1930"
 date: 2023-03-18
 ---
 In pattern [RGRGRGRBRYRY](/patterns/rgrgrgrbryry/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1539/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=448
 
 ## Thread count
 R/8 G8 R8 G32 R8 G8 R8 DB8 R44 Y4 R16 Y/4

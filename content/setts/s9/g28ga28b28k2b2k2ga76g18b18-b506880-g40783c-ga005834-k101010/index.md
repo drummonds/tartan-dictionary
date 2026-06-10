@@ -1,13 +1,13 @@
 ---
-title: "Fiddes - 2007 (Personal)"
+title: "Fiddes (2007) (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGGKBKBGG](/patterns/bggkbkbgg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7618/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5638
 
 ## Thread count
 B/18 G18 Ga76 K2 B2 K2 B28 Ga28 G/28
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s9/g28ga28b28k2b2k2ga76g18b18-b506880-g40783c-ga005834-k101010/
-10/

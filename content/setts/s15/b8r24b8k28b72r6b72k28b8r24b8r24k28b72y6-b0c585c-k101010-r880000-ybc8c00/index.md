@@ -1,13 +1,13 @@
 ---
-title: "Cornwall (Fashion)"
+title: "Cornwall"
 date: 2023-03-18
 ---
 In pattern [BRBKBRBKBRBRKBY](/patterns/brbkbrbkbrbrkby/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7057/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769
 
 ## Thread count
 DY/6 G72 K28 DR24 G8 DR24 G8 K28 G72 DR6 G72 K28 G8 DR24 G/8

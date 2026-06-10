@@ -29,13 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "P/6 N30 DB30 R4 DB30 Y/6 tartan")
 
 ID: /setts/s6/b6r30ba30ra4ba30y6-b780078-ba003c64-r888888-rac80000-ycca800/
-#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
-| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
-| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
-| Y | <code style="background-color:#CCA800;"><span style="color:#CCA800;filter:grayscale(1) invert(1) contrast(100);">#CCA800</span></code> `#CCA800` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.08 |
-
-# Sample pattern
-
-![Tartan detail](tartan.png "P/6 Na30 DB30 R4 DB30 Y/6 tartan")
-
-ID: /setts/s6/b6r30ba30ra4ba30y6-b780078-ba003c64-r888888-rac80000-ycca800/

@@ -1,13 +1,13 @@
 ---
-title: "Tindal (Name)"
+title: "Tindal"
 date: 2023-03-18
 ---
 In pattern [RKGKBKBKBYW](/patterns/rkgkbkbkbyw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2508/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4156
 
 ## Thread count
 LN/6 Y4 DB36 K6 DB6 K6 DB6 K36 G36 K4 R/6

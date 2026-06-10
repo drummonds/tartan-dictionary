@@ -1,13 +1,13 @@
 ---
-title: "Fox, Red (Name)"
+title: "Fox, Red"
 date: 2023-03-18
 ---
 In pattern [RBRBRBRWRGRGRGRYRBRBRBR](/patterns/rbrbrbrwrgrgrgryrbrbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6312/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241
 
 ## Thread count
 R/14 DB12 R6 DB8 R6 DB22 R36 N6 R36 G30 R14 G30 R14 G20 R36 Y6 R36 DB22 R6 DB8 R6 DB12 R/14

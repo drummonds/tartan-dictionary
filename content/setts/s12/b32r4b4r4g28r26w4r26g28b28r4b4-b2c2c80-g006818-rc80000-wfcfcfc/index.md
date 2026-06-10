@@ -1,13 +1,13 @@
 ---
-title: "Fraser of Lovat (Clan)"
+title: "Fraser of Lovat"
 date: 2023-03-18
 ---
 In pattern [BRBGRWRGRBRB](/patterns/brbgrwrgrbrb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/391/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1264
 
 ## Thread count
 DB/4 R4 DB28 G28 R26 W4 R26 G28 R4 DB4 R4 DB/32

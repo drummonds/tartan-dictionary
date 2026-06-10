@@ -1,13 +1,13 @@
 ---
-title: "Brown Watch (single) (Fashion)"
+title: "Brown Watch (single tramlines)"
 date: 2023-03-18
 ---
 In pattern [BKBKGK](/patterns/bkbkgk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7812/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5770
 
 ## Thread count
 DR/14 K4 DR24 K20 DG24 K/6
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/14 K4 DR24 K20 DG24 K/6 tartan")
 
 ID: /setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/
-10/

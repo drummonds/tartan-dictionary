@@ -1,13 +1,13 @@
 ---
-title: "MacAn of Lurgyvallan (Portrait)"
+title: "Macan of Lurgyvallan"
 date: 2023-03-18
 ---
 In pattern [KRGRGKWKYKBBBKYKWKGRGRGR](/patterns/krgrgkwkykbbbkykwkgrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [24 stripes tartan](/stripes/stripes24/).
+This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1155/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2276
 
 ## Thread count
 K/4 R4 G4 R48 G16 K4 N4 K4 Y4 K4 B24 DB16 B24 K4 Y4 K4 N4 K4 G16 R4 G4 R4 G4 R/64
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s24/r64g4r4g4r4g16k4w4k4y4k4b24ba16b24k4y4k4w4k4g16r48g4r4k4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-wc0c0c0-ye8c000/
+8c000/

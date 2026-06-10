@@ -1,13 +1,13 @@
 ---
-title: "College of Radiographers (Corporate)"
+title: "College of Radiographers"
 date: 2023-03-18
 ---
 In pattern [KYKBW](/patterns/kykbw/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1274/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=710
 
 ## Thread count
 K/30 DY4 K20 DB36 N/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/30 DY4 K20 DB36 N/6 tartan")
 
 ID: /setts/s5/k30y4k20b36w6-b00008c-k101010-wc8c8c8-yc88c00/
+yc88c00/

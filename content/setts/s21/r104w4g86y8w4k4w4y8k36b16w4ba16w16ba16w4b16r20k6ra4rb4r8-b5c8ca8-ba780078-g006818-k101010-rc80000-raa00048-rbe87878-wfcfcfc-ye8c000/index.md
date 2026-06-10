@@ -1,13 +1,13 @@
 ---
-title: "Dundee Wallace (Fashion)"
+title: "Dundee Wallace"
 date: 2023-03-18
 ---
 In pattern [RRRKRBWBWBWBKYWKWYGWR](/patterns/rrrkrbwbwbwbkywkwygwr/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1648/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1039
 
 ## Thread count
 Ra/8 LR4 R4 K6 Ra20 B16 W4 P16 W16 P16 W4 B16 K36 Y8 W4 K4 W4 Y8 G86 W4 Ra/104
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s21/r104w4g86y8w4k4w4y8k36b16w4ba16w16ba16w4b16r20k6ra4rb4r8-b5c8ca8-ba780078-g006818-k101010-rc80000-raa00048-rbe87878-wfcfcfc-ye8c000/
+c000/

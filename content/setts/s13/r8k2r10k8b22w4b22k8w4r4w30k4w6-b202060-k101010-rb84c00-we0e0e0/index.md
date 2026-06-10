@@ -1,13 +1,13 @@
 ---
-title: "Tommy (Corporate)"
+title: "Tommy"
 date: 2023-03-18
 ---
 In pattern [RKRKBWBKWRWKW](/patterns/rkrkbwbkwrwkw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3973/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137
 
 ## Thread count
 DO/8 K2 DO10 K8 DB22 LN4 DB22 K8 LN4 DO4 LN30 K4 LN/6

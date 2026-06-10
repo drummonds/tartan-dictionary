@@ -1,13 +1,13 @@
 ---
-title: "Colorado American District Tartan Tartan Number: 4554. Earliest known date: 1995 Designed by Rev. John B. Pahls, 1995. Adopted by the Colorado general Assembly on March 3rd 1997. House Joint Resolution 97-1016 described the colour symbolism: \"The crispness of the color blue captures the beauty of the clear Colorado skies and the coolness of forest green renders images of pine and spruce that grace the mountains with dignity . . . . the contrasting colors of lavender and white are reflective of the granite mountain peaks and the snow that crowns them in the winter months . . . . and are also found in the state flower, the white and lavender columbine. The brilliance of the color gold signifies the vast wealth of mineral resources to which the mining industry was attracted and on which the state's early economy was built; and the color red distinguishes the \"C\" on the state flag and signifies the red sandstone soil which gave the area its name Colorado, meaning red in Spanish.\" See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Colorado (District)"
 date: 2023-03-18
 ---
 In pattern [GWBWGKBRY](/patterns/gwbwgkbry/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4554
+Original link http://www.tartansauthority.com/tartan-ferret/display/4554/
 
 ## Thread count
 DG/64 N6 LP6 N6 DG4 K40 B34 R6 Y/8

@@ -1,13 +1,13 @@
 ---
-title: "Bradwell, Amy Name Tartan Tartan Number: 10735. Earliest known date: 12 November 2012 Designed to celebrate Amy Bradwell's 30th birthday and the relocation of the family to Scotland in 2012. The colours reflect Amy's personal preferences and the family's mixed Yorkshire and Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Bradwell, Carl (Personal)"
 date: 2023-03-18
 ---
 In pattern [RYRWRWRWRWRWRWBY](/patterns/ryrwrwrwrwrwrwby/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10735
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10735
 
 ## Thread count
 R/8 N6 DR4 W8 DR4 W6 DR8 W6 DR12 W4 DR16 W4 DR12 W4 B8 Y/6

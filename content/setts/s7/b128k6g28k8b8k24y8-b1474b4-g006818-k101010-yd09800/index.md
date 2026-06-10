@@ -1,13 +1,13 @@
 ---
-title: "Murray of Elibank (Personal)"
+title: "Murray of Elibank"
 date: 2023-03-18
 ---
 In pattern [BKGKBKY](/patterns/bkgkbky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/340/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3066
 
 ## Thread count
 B/128 K6 G28 K8 B8 K24 DY/8
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/128 K6 G28 K8 B8 K24 DY/8 tartan")
 
 ID: /setts/s7/b128k6g28k8b8k24y8-b1474b4-g006818-k101010-yd09800/
+9800/

@@ -1,13 +1,13 @@
 ---
-title: "Bonnie Prince Charlie (Fashion)"
+title: "Bonnie Prince Charlie (Vyella)"
 date: 2023-03-18
 ---
 In pattern [KRYRGRGRGRKRY](/patterns/kryrgrgrgrkry/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7038/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=311
 
 ## Thread count
 K/5 R7 DY23 R23 G3 R11 G3 R23 G18 R2 K18 R5 Y/5

@@ -1,13 +1,13 @@
 ---
-title: "SmartWool (Corporate)"
+title: "SmartWool"
 date: 2023-03-18
 ---
 In pattern [KGYGY](/patterns/kgygy/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5828/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3820
 
 ## Thread count
 K/200 T3 O3 T3 O/3

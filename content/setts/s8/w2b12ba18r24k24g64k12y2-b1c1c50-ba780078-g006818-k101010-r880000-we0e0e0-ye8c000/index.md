@@ -1,13 +1,13 @@
 ---
-title: "Fujitsu (Corporate?)"
+title: "Fujitsu"
 date: 2023-03-18
 ---
 In pattern [WBBRKGKY](/patterns/wbbrkgky/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7248/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1286
 
 ## Thread count
 LN/2 DB12 P18 DR24 K24 G64 K12 Y/2
@@ -31,3 +31,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/2 DB12 P18 DR24 K24 G64 K12 Y/2 tartan")
 
 ID: /setts/s8/w2b12ba18r24k24g64k12y2-b1c1c50-ba780078-g006818-k101010-r880000-we0e0e0-ye8c000/
+ye8c000/

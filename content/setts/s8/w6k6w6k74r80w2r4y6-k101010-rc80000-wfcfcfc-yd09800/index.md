@@ -1,13 +1,13 @@
 ---
-title: "Marjoribanks (Clan)"
+title: "Marjoribanks"
 date: 2023-03-18
 ---
 In pattern [WKWKRWRY](/patterns/wkwkrwry/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2607/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2838
 
 ## Thread count
 DY/6 R4 W2 R80 K74 W6 K6 W/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/6 R4 W2 R80 K74 W6 K6 W/6 tartan")
 
 ID: /setts/s8/w6k6w6k74r80w2r4y6-k101010-rc80000-wfcfcfc-yd09800/
+0/

@@ -1,13 +1,13 @@
 ---
-title: "Gearach Woodcock Tweed"
+title: "Gearach Woodcock Tweed (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GBY](/patterns/gby/).
 
 
-This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5511
+Original link http://www.tartansauthority.com/tartan-ferret/display/7466/
 
 ## Thread count
 O/1 B1 T/2

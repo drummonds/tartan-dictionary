@@ -1,13 +1,13 @@
 ---
-title: "Douglas, Grey (Clan)"
+title: "Douglas, Grey (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
 In pattern [KRKRKRKR](/patterns/krkrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1127/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957
 
 ## Thread count
 K/40 N4 K8 N4 K16 N40 K4 N/8

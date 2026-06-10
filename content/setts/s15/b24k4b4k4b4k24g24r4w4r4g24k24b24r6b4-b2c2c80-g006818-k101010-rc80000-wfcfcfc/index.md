@@ -1,13 +1,13 @@
 ---
-title: "MacKenzie Morgan (Clan)"
+title: "MacKenzie Morgan"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRWRGKBRB](/patterns/bkbkbkgrwrgkbrb/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6068/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R4 W4 R4 G24 K24 DB24 R6 DB/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s15/b24k4b4k4b4k24g24r4w4r4g24k24b24r6b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/
+c/

@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Ra | <code style="background-color:#B42864;"><span style="color:#B42864;filter:grayscale(1) invert(1) contrast(100);">#B42864</span></code> `#B42864` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.10 |
 
 ID: /setts/s11/g20r4g4ra8g32b32ra4ba36y4ba16ra6-b780078-ba788cb4-g003014-rb42864-rac82800-yc88c00/
-88c00/

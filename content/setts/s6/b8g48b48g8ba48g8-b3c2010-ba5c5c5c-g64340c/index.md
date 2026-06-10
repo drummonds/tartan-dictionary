@@ -1,13 +1,13 @@
 ---
-title: "Brown Heather (Fashion)"
+title: "Brown Heather"
 date: 2023-03-18
 ---
 In pattern [BGBGBG](/patterns/bgbgbg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3737/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5332
 
 ## Thread count
 K/8 T48 K48 T8 N48 T/8
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 T48 K48 T8 N48 T/8 tartan")
 
 ID: /setts/s6/b8g48b48g8ba48g8-b3c2010-ba5c5c5c-g64340c/
+340c/

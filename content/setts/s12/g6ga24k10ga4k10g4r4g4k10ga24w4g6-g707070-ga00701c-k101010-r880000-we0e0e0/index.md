@@ -1,13 +1,13 @@
 ---
-title: "Wilcox, Yu, Cruikshank Reunion (Corp"
+title: "Wilcox, Yu, Cruikshank Reunion"
 date: 2023-03-18
 ---
 In pattern [GGKGKGRGKGWG](/patterns/ggkgkgrgkgwg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7292/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4624
 
 ## Thread count
 N/6 G24 K10 G4 K10 N4 DR4 N4 K10 G24 LN4 N/6
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#707070;"><span style="color:#707070;filter:grayscale(1) invert(1) contrast(100);">#707070</span></code> `#707070` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.18 |
 
 ID: /setts/s12/g6ga24k10ga4k10g4r4g4k10ga24w4g6-g707070-ga00701c-k101010-r880000-we0e0e0/
+/

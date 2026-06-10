@@ -1,13 +1,13 @@
 ---
-title: "MacKinross (Name?)"
+title: "MacKinross"
 date: 2023-03-18
 ---
 In pattern [KBKGKGR](/patterns/kbkgkgr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7125/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2558
 
 ## Thread count
 K/12 DB2 K12 G8 K20 G40 R/4

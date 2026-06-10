@@ -1,5 +1,5 @@
 ---
-title: "Graham Dress (1831)"
+title: "Montrose (Graham)"
 date: 2023-03-18
 ---
 In pattern [GKRGKGRKG](/patterns/gkrgkgrkg/).
@@ -7,7 +7,7 @@ In pattern [GKRGKGRKG](/patterns/gkrgkgrkg/).
 
 This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4857
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2996
 
 ## Thread count
 LG/8 K8 R64 DG64 K48 LG32 R64 K8 LG/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s9/g8k8r64ga64k48g32r64k8g8-g789484-ga003820-k101010-rc80000/
+/

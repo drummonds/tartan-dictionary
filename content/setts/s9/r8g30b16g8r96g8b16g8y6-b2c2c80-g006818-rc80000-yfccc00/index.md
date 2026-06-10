@@ -1,13 +1,13 @@
 ---
-title: "Cruikshank"
+title: "Cruikshank (Name)"
 date: 2023-03-18
 ---
 In pattern [RGBGRGBGY](/patterns/rgbgrgbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5444
+Original link http://www.tartansauthority.com/tartan-ferret/display/3853/
 
 ## Thread count
 R/8 G30 DB16 G8 R96 G8 DB16 G8 Y/6
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
 
 ID: /setts/s9/r8g30b16g8r96g8b16g8y6-b2c2c80-g006818-rc80000-yfccc00/
-0/

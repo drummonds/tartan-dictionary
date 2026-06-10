@@ -1,13 +1,13 @@
 ---
-title: "Nazarian (Name)"
+title: "Mazarian"
 date: 2023-03-18
 ---
 In pattern [KGWYBWKRWBKWY](/patterns/kgwybwkrwbkwy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6728/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868
 
 ## Thread count
 K/4 G8 W6 LG16 B6 W8 K68 R68 W6 B28 K6 W8 LG/12

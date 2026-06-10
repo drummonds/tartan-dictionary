@@ -1,5 +1,5 @@
 ---
-title: "Wallace Dress (Clan)"
+title: "MacFarlane B & W (Clan)"
 date: 2023-03-18
 ---
 In pattern [KWKW](/patterns/kwkw/).
@@ -7,7 +7,7 @@ In pattern [KWKW](/patterns/kwkw/).
 
 This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1251/
+Original link http://www.tartansauthority.com/tartan-ferret/display/3051/
 
 ## Thread count
 K/28 W24 K4 W/24

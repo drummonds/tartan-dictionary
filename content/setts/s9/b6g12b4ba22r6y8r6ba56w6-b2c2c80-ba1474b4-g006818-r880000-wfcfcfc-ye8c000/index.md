@@ -1,13 +1,13 @@
 ---
-title: "Bains - Caithness (Name)"
+title: "Bains of Caithness"
 date: 2023-03-18
 ---
 In pattern [BGBBRYRBW](/patterns/bgbbryrbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6158/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=167
 
 ## Thread count
 DB/6 G12 DB4 B22 DR6 Y8 DR6 B56 W/6

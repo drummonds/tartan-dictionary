@@ -1,13 +1,13 @@
 ---
-title: "Brooks Brothers (WCWM)"
+title: "Brooks Brothers (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RKBKRKBKRKY](/patterns/rkbkrkbkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5015
+Original link http://www.tartansauthority.com/tartan-ferret/display/3735/
 
 ## Thread count
 DR/96 K20 DB24 K4 DR6 K4 DB24 K20 N20 K4 LG/6

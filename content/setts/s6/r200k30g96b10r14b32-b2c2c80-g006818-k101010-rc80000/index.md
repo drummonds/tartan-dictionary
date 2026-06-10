@@ -1,13 +1,13 @@
 ---
-title: "Plummer (Personal)"
+title: "Plummer (Name)"
 date: 2023-03-18
 ---
 In pattern [BRBGKR](/patterns/brbgkr/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3348
+Original link http://www.tartansauthority.com/tartan-ferret/display/5947/
 
 ## Thread count
 DB/32 R14 DB10 G96 K30 R/200

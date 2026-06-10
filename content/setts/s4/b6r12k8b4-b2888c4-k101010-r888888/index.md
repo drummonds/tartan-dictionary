@@ -1,13 +1,13 @@
 ---
-title: "Bedford Check"
+title: "Bedford Check Weavers Tartan Tartan Number: 6007. Earliest known date: pre 2003 Count from woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKRB](/patterns/bkrb/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from house-of-tartan.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=240
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6007
 
 ## Thread count
 B/4 K8 Na12 B/6

@@ -1,13 +1,13 @@
 ---
-title: "City of Edinburgh (2001)"
+title: "Edinburgh, City of.. (2001) District Tartan Tartan Number: 6396. Earliest known date: June 2001 Asymmetric tartan. Lochcarron swatch. Note says June 2001 Trial. Muted version woven in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [KWKWKRGRRBWGKRBR](/patterns/kwkwkrgrrbwgkrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=656
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6396
 
 ## Thread count
 K/6 W8 K6 W8 K6 R36 G2 N36 R2 B36 W2 G36 K2 N36 B2 R/36

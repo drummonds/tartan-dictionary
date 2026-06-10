@@ -1,13 +1,13 @@
 ---
-title: "Laurentian University"
+title: "Laurentian University (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBWBGYBG](/patterns/bbwbgybg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2060
+Original link http://www.tartansauthority.com/tartan-ferret/display/7324/
 
 ## Thread count
 N/4 DB8 LN4 DB56 G56 Y6 DB8 T/4
@@ -30,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "N/4 DB8 LN4 DB56 G56 Y6 DB8 T/4 tartan")
 
 ID: /setts/s8/b4ba8w4ba56g56y6ba8ga4-b5c5c5c-ba203074-g005430-ga604000-we0e0e0-ye8c000/
-e8c000/

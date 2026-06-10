@@ -1,13 +1,13 @@
 ---
-title: "McCarthy"
+title: "McCarthy (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBGBBBGBGBBGB](/patterns/bbgbbbgbgbbgb/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2873
+Original link http://www.tartansauthority.com/tartan-ferret/display/2438/
 
 ## Thread count
 DB/10 G2 DB6 DP4 G20 DB6 G8 DB56 DP4 DB4 G2 DB8 DP/2

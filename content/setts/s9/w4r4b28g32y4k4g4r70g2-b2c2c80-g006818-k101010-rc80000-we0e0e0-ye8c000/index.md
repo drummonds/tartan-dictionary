@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GRGKYGBRW](/patterns/grgkygbrw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6939/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1980
 
 ## Thread count
 G/2 R70 G4 K4 Y4 G32 DB28 R4 LN/4

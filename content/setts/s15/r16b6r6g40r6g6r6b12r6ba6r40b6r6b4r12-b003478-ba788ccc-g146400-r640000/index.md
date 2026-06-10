@@ -1,13 +1,13 @@
 ---
-title: "Glenfarclas Distillery"
+title: "Glenfarclas Distillery (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBRBRBRBRGRGRBR](/patterns/rbrbrbrbrgrgrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1416
+Original link http://www.tartansauthority.com/tartan-ferret/display/4237/
 
 ## Thread count
 DR/12 DB4 DR6 DB6 DR40 B6 DR6 DB12 DR6 G6 DR6 G40 DR6 DB6 DR/16

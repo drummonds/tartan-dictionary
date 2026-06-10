@@ -1,13 +1,13 @@
 ---
-title: "Aviemore Check"
+title: "Aviemore Check District Tartan Tartan Number: 912. Earliest known date: 1975 1976 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GGGYGWGG](/patterns/gggygwgg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=148
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=912
 
 ## Thread count
 G/4 T20 G22 Y8 T2 LN36 G4 T/2

@@ -1,13 +1,13 @@
 ---
-title: "MacInnes Dress (Dalgliesh)"
+title: "MacInnes Dress (Dance)"
 date: 2023-03-18
 ---
 In pattern [GWGKGKGWKBGR](/patterns/gwgkgkgwkbgr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2475
+Original link http://www.tartansauthority.com/tartan-ferret/display/6766/
 
 ## Thread count
 G/4 W24 G3 K3 G3 K3 G24 W4 K4 DB24 G16 R/4

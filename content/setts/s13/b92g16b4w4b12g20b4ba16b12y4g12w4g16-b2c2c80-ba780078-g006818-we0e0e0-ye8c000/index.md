@@ -1,13 +1,13 @@
 ---
-title: "Riyadh Caledonian"
+title: "Riyadh Caledonian (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBWBGBBBYGWG](/patterns/bgbwbgbbbygwg/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5731
+Original link http://www.tartansauthority.com/tartan-ferret/display/7750/
 
 ## Thread count
 DB/92 G16 DB4 LN4 DB12 G20 DB4 P16 DB12 Y4 G12 LN4 G/16

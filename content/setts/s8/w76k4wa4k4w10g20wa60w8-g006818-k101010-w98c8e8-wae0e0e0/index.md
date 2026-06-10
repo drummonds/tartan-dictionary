@@ -1,13 +1,13 @@
 ---
-title: "Longniddry, Turquoise (Dance)"
+title: "Longniddry Turquoise (Dance)"
 date: 2023-03-18
 ---
 In pattern [WKWKWGWW](/patterns/wkwkwgww/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/369/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2212
 
 ## Thread count
 LB/76 K4 LN4 K4 LB10 G20 LN60 LB/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LB/76 K4 LN4 K4 LB10 G20 LN60 LB/8 tartan")
 
 ID: /setts/s8/w76k4wa4k4w10g20wa60w8-g006818-k101010-w98c8e8-wae0e0e0/
-e0/

@@ -1,13 +1,13 @@
 ---
-title: "Triad Highland Games Proposed"
+title: "Triad Highland Games (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBKRKGR](/patterns/rbkrkgr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149
+Original link http://www.tartansauthority.com/tartan-ferret/display/6527/
 
 ## Thread count
 LR/4 B32 K32 LR4 K32 G32 LR/4

@@ -1,13 +1,13 @@
 ---
-title: "Maresh"
+title: "Maresh (Name)"
 date: 2023-03-18
 ---
 In pattern [BRBGKBGYK](/patterns/brbgkbgyk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2832
+Original link http://www.tartansauthority.com/tartan-ferret/display/6264/
 
 ## Thread count
 DB/6 R6 DB44 G12 K34 DB12 G44 Y6 K/6

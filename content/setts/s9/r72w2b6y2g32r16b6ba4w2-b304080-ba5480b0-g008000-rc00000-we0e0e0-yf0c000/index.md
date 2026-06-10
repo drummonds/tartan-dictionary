@@ -1,5 +1,5 @@
 ---
-title: "Drummond of Perth"
+title: "Perthshire District"
 date: 2023-03-18
 ---
 In pattern [RWBYGRBBW](/patterns/rwbygrbbw/).
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#F0C000;"><span style="color:#F0C000;filter:grayscale(1) invert(1) contrast(100);">#F0C000</span></code> `#F0C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.01 |
 
 ID: /setts/s9/r72w2b6y2g32r16b6ba4w2-b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/
-/

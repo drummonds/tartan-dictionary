@@ -1,13 +1,13 @@
 ---
-title: "Glen Carron (Fashion)"
+title: "Glen Carron"
 date: 2023-03-18
 ---
 In pattern [KGKGKGKGK](/patterns/kgkgkgkgk/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3851/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5255
 
 ## Thread count
 K/4 N4 K4 G12 K8 G4 K8 N48 K/4

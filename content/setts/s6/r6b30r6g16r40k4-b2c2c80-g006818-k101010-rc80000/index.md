@@ -1,13 +1,13 @@
 ---
-title: "Finnigan (Estimated threadcount)"
+title: "Finnigan (Name?)"
 date: 2023-03-18
 ---
 In pattern [KRGRBR](/patterns/krgrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1185
+Original link http://www.tartansauthority.com/tartan-ferret/display/6752/
 
 ## Thread count
 K/4 R40 G16 R6 DB30 R/6

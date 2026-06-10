@@ -1,13 +1,13 @@
 ---
-title: "Pitcairn Heritage Htg (Name)"
+title: "Pitcairn Heritage Hunting"
 date: 2023-03-18
 ---
 In pattern [BBBBBGBYBRBYB](/patterns/bbbbbgbybrbyb/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6727/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5304
 
 ## Thread count
 B/4 Y4 P16 R10 B44 Y4 B4 G44 P6 B6 P6 B6 P/6

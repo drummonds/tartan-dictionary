@@ -1,13 +1,13 @@
 ---
-title: "Cozumel (Fashion)"
+title: "Cozumel"
 date: 2023-03-18
 ---
 In pattern [GKGRKRGKY](/patterns/gkgrkrgky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4597/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=784
 
 ## Thread count
 DY/4 K4 DG60 DR28 K4 DR4 DG4 K4 T/28
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
 ID: /setts/s9/g28k4ga4r4k4r28ga60k4y4-g604000-ga003820-k101010-ra00000-yd09800/
+09800/

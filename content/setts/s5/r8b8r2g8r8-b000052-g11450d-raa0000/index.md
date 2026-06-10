@@ -7,7 +7,7 @@ In pattern [RBRGR](/patterns/rbrgr/).
 
 This was sourced from weddslist.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DR/8 DB8 DR2 DG8 DR/8
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/8 DB8 DR2 DG8 DR/8 tartan")
 
 ID: /setts/s5/r8b8r2g8r8-b000052-g11450d-raa0000/
-000/

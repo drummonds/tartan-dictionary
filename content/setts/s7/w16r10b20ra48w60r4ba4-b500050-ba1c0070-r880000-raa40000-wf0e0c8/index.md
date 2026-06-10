@@ -1,13 +1,13 @@
 ---
-title: "Shiel, Claret (Dance)"
+title: "Shiel Claret"
 date: 2023-03-18
 ---
 In pattern [BRWRBRW](/patterns/brwrbrw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7574/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5598
 
 ## Thread count
 DB/4 DRa4 W60 DR48 DP20 DRa10 W/16

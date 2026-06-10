@@ -1,13 +1,13 @@
 ---
-title: "S3"
+title: "Strategic Staffing Solutions (Corpor"
 date: 2023-03-18
 ---
 In pattern [GWR](/patterns/gwr/).
 
 
-This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3630
+Original link http://www.tartansauthority.com/tartan-ferret/display/6227/
 
 ## Thread count
 DR/20 W8 G/120

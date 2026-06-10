@@ -1,13 +1,13 @@
 ---
-title: "MacColl - 1950 (Htg)"
+title: "MacColl Hunting"
 date: 2023-03-18
 ---
 In pattern [RRGRGRRWRBRWRRBRRR](/patterns/rrgrgrrwrbrwrrbrrr/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1637/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2319
 
 ## Thread count
 R/4 Ra4 G4 Ra14 G44 Ra14 R4 LN2 Ra4 DB4 Ra4 LN2 R4 Ra14 DB44 Ra12 R6 Ra/12

@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LR | <code style="background-color:#FC9898;"><span style="color:#FC9898;filter:grayscale(1) invert(1) contrast(100);">#FC9898</span></code> `#FC9898` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
 ID: /setts/s11/g84k20y4k4r4k4g20r12k4r6g4-g004c00-k000000-r780028-yfc9898/
-98/

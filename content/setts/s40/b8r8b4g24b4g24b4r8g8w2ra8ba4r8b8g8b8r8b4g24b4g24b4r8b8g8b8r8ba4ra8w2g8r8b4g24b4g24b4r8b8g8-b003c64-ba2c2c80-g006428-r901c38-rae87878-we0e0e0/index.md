@@ -1,13 +1,13 @@
 ---
-title: "Otago Peninsula"
+title: "Otago Peninsula (District)"
 date: 2023-03-18
 ---
 In pattern [BRBGBGBRGWRBRBGBRBGBGBRBGBRBRWGRBGBGBRBG](/patterns/brbgbgbrgwrbrbgbrbgbgbrbgbrbrwgrbgbgbrbg/).
 
 
-This was sourced from register-of-tartans.  It is a [40 stripes tartan](/stripes/stripes40/).
+This was sourced from tartans-authority.  It is a [40 stripes tartan](/stripes/stripes40/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276
+Original link http://www.tartansauthority.com/tartan-ferret/display/2110/
 
 ## Thread count
 DBa/8 DR8 DBa4 G24 DBa4 G24 DBa4 DR8 G8 LN2 LR8 DB4 DR8 DBa8 G8 DBa8 DR8 DBa4 G24 DBa4 G24 DBa4 DR8 DBa8 G8 DBa8 DR8 DB4 LR8 LN2 G8 DR8 DBa4 G24 DBa4 G24 DBa4 DR8 DBa8 G/8

@@ -1,13 +1,13 @@
 ---
-title: "Rothesay, Dress (VS) (Royal)"
+title: "Rothesay, Dress (VS)"
 date: 2023-03-18
 ---
 In pattern [RWBWKWRKRW](/patterns/rwbwkwrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1679/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3575
 
 ## Thread count
 LN/2 R4 K2 R8 LN4 K12 LN4 DB8 LN56 R/4

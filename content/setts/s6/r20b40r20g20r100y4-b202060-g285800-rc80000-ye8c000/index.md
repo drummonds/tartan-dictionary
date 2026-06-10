@@ -1,13 +1,13 @@
 ---
-title: "Aon (Corporate)"
+title: "AON"
 date: 2023-03-18
 ---
 In pattern [RBRGRY](/patterns/rbrgry/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4012/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=99
 
 ## Thread count
 R/20 DB40 R20 G20 R100 Y/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/20 DB40 R20 G20 R100 Y/4 tartan")
 
 ID: /setts/s6/r20b40r20g20r100y4-b202060-g285800-rc80000-ye8c000/
+-ye8c000/

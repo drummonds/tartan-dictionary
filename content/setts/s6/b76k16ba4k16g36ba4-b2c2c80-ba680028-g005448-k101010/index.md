@@ -1,13 +1,13 @@
 ---
-title: "Monarchs"
+title: "Monarchs (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGKBKB](/patterns/bgkbkb/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2979
+Original link http://www.tartansauthority.com/tartan-ferret/display/2222/
 
 ## Thread count
 DB/76 K16 DR4 K16 G36 DR/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/76 K16 DR4 K16 G36 DR/4 tartan")
 
 ID: /setts/s6/b76k16ba4k16g36ba4-b2c2c80-ba680028-g005448-k101010/
-101010/

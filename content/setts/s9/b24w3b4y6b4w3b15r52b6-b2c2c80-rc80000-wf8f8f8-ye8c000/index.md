@@ -1,13 +1,13 @@
 ---
-title: "Mercer, James"
+title: "Mercer, James (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRBWBYBWB](/patterns/brbwbybwb/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5438
+Original link http://www.tartansauthority.com/tartan-ferret/display/6839/
 
 ## Thread count
 DB/6 R52 DB15 W3 DB4 Y6 DB4 W3 DB/24
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b24w3b4y6b4w3b15r52b6-b2c2c80-rc80000-wf8f8f8-ye8c000/
-8c000/

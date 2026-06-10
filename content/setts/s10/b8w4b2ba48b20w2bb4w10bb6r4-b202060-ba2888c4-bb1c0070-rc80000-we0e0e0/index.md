@@ -1,13 +1,13 @@
 ---
-title: "Rikaco Morning Dew"
+title: "Rikaco Morning Dew 1 (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BWBBBWBWBR](/patterns/bwbbbwbwbr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4976
+Original link http://www.tartansauthority.com/tartan-ferret/display/3932/
 
 ## Thread count
 DB/8 LN4 DB2 B48 DB20 LN2 DBa4 LN10 DBa6 R/4

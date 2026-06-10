@@ -1,13 +1,13 @@
 ---
-title: "Compaq Corporate Tartan Tartan Number: 1888. Earliest known date: 1987 Used in the uniforms of Games Officials. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Compaq Check (Corporate)"
 date: 2023-03-18
 ---
 In pattern [YRYRYYYYY](/patterns/yryryyyyy/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1888
+Original link http://www.tartansauthority.com/tartan-ferret/display/1888/
 
 ## Thread count
 Y/6 O6 Y6 O6 Y6 R6 Y6 R6 Y/6

@@ -1,13 +1,13 @@
 ---
-title: "Glasgow Cathedral 2000"
+title: "Glasgow Cathedral 2000 (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BYRGRBBBRG](/patterns/byrgrbbbrg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1354
+Original link http://www.tartansauthority.com/tartan-ferret/display/4082/
 
 ## Thread count
 DB/4 DY4 DR6 G44 DR42 DB20 B4 DB20 DR6 G/44
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#005814;"><span style="color:#005814;filter:grayscale(1) invert(1) contrast(100);">#005814</span></code> `#005814` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.04 |
 
 ID: /setts/s10/g44r6b20ba4b20r42g44r6y4b4-b003c64-ba1870a4-g005814-r940000-yb89800/
-b89800/

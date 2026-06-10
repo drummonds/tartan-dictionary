@@ -1,13 +1,13 @@
 ---
-title: "MacLachlan Htg - 2002 (Fashion?)"
+title: "MacLachlan Hunting"
 date: 2023-03-18
 ---
 In pattern [GKGKGKBRBRBGKGK](/patterns/gkgkgkbrbrbgkgk/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/775/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2588
 
 ## Thread count
 G/24 K6 G6 K6 G6 K30 DB30 R12 DB12 R12 DB30 G30 K6 G6 K/6

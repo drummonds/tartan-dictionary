@@ -1,5 +1,5 @@
 ---
-title: "Six Frigates"
+title: "Bell Rock Lighthouse 200th Aniversar"
 date: 2023-03-18
 ---
 In pattern [RRKRKBWBWW](/patterns/rrkrkbwbww/).
@@ -7,7 +7,7 @@ In pattern [RRKRKBWBWW](/patterns/rrkrkbwbww/).
 
 This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/10972/
+Original link http://www.tartansauthority.com/tartan-ferret/display/10715/
 
 ## Thread count
 R/6 DR8 K4 DR2 K26 DB50 LP4 DB8 LP14 W/10

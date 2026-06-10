@@ -1,13 +1,13 @@
 ---
-title: "Toyokawa Check (Corporate)"
+title: "Toyokawa Check"
 date: 2023-03-18
 ---
 In pattern [BBYBGBYBYBW](/patterns/bbybgbybybw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6467/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4143
 
 ## Thread count
 LN/4 N20 LT4 N10 LT20 DR10 G4 DR10 LT4 DR20 N/72

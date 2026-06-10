@@ -1,13 +1,13 @@
 ---
-title: "Ville de St Georges (District)"
+title: "Ensemble Pour L'Avenir"
 date: 2023-03-18
 ---
 In pattern [BRBRRRRBRBWRWRRRBW](/patterns/brbrrrrbrbwrwrrrbw/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2595/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1113
 
 ## Thread count
 DB/6 N2 DB4 R28 N4 R2 N4 DB20 R20 DB20 LN4 R4 LN4 R28 N12 R20 DB20 LN/4

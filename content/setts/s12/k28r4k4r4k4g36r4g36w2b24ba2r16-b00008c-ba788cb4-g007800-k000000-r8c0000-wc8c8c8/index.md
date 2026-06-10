@@ -1,13 +1,13 @@
 ---
-title: "Princess Diana"
+title: "Princess Diana (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KRKRKGRGWBBR](/patterns/krkrkgrgwbbr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3401
+Original link http://www.tartansauthority.com/tartan-ferret/display/5459/
 
 ## Thread count
 DR/16 B2 DB24 N2 G36 DR4 G36 K4 DR4 K4 DR4 K/28

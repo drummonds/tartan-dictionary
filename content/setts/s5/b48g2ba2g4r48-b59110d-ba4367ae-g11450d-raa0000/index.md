@@ -1,5 +1,5 @@
 ---
-title: "MacNab WI 1"
+title: "MacNab WI1"
 date: 2023-03-18
 ---
 In pattern [BGBGR](/patterns/bgbgr/).
@@ -7,7 +7,7 @@ In pattern [BGBGR](/patterns/bgbgr/).
 
 This was sourced from weddslist.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DR/48 DG4 B2 DG2 DRa/48
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/48 DG4 B2 DG2 DRa/48 tartan")
 
 ID: /setts/s5/b48g2ba2g4r48-b59110d-ba4367ae-g11450d-raa0000/
+0000/

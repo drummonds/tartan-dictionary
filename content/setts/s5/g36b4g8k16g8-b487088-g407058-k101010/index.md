@@ -1,13 +1,13 @@
 ---
-title: "Peterhead (Personal)"
+title: "Peterhead (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GBGKG](/patterns/gbgkg/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3331
+Original link http://www.tartansauthority.com/tartan-ferret/display/2368/
 
 ## Thread count
 G/36 B4 G8 K16 G/8

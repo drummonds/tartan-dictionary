@@ -1,13 +1,13 @@
 ---
-title: "Raeburn"
+title: "Raeburn (Name)"
 date: 2023-03-18
 ---
 In pattern [KYKY](/patterns/kyky/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3436
+Original link http://www.tartansauthority.com/tartan-ferret/display/1275/
 
 ## Thread count
 K/68 Y6 K68 Y/52

@@ -1,13 +1,13 @@
 ---
-title: "MacEwen (Clan)"
+title: "MacEwen/MacEwan"
 date: 2023-03-18
 ---
 In pattern [RKGKBKBKBKGKY](/patterns/rkgkbkbkbkgky/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1587/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2428
 
 ## Thread count
 R/4 K4 G24 K24 DB24 K4 DB4 K4 DB24 K24 G24 K4 Y/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s13/r4k4g24k24b24k4b4k4b24k24g24k4y4-b2c2c80-g006818-k101010-rc80000-yd8b000/
-000/

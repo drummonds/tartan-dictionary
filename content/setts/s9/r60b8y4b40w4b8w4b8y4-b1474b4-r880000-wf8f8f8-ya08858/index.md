@@ -1,13 +1,13 @@
 ---
-title: "Rafferty (Fashion)"
+title: "Rafferty (Estimated threadcount)"
 date: 2023-03-18
 ---
 In pattern [RBYBWBWBY](/patterns/rbybwbwby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6749/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439
 
 ## Thread count
 DR/60 B8 LT4 B40 W4 B8 W4 B8 LT/4

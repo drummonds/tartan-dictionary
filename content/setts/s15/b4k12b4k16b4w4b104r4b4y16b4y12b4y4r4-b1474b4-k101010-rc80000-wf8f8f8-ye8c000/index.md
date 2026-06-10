@@ -1,13 +1,13 @@
 ---
-title: "Laing"
+title: "Laing (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBKBWBRBYBYBYR](/patterns/bkbkbwbrbybybyr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2027
+Original link http://www.tartansauthority.com/tartan-ferret/display/6096/
 
 ## Thread count
 B/4 K12 B4 K16 B4 W4 B104 R4 B4 Y16 B4 Y12 B4 Y4 R/4

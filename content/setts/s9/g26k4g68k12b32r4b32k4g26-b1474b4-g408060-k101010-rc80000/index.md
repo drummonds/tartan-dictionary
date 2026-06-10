@@ -1,13 +1,13 @@
 ---
-title: "Lockhart (Clan)"
+title: "Lockhart"
 date: 2023-03-18
 ---
 In pattern [GKBRBKGKG](/patterns/gkbrbkgkg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2258/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2179
 
 ## Thread count
 G/26 K4 B32 R4 B32 K12 G68 K4 G/26

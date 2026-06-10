@@ -1,13 +1,13 @@
 ---
-title: "Manx Centenary (Commemorative)"
+title: "Manx Centenary"
 date: 2023-03-18
 ---
 In pattern [BGBGBGRGR](/patterns/bgbgbgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/129/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2812
 
 ## Thread count
 B/44 G6 B6 G6 B6 G18 N56 G6 N/12

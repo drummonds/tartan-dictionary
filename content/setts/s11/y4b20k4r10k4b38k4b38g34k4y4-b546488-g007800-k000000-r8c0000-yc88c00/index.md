@@ -1,13 +1,13 @@
 ---
-title: "Montreat (Corporate)"
+title: "Montreat"
 date: 2023-03-18
 ---
 In pattern [YBKRKBKBGKY](/patterns/ybkrkbkbgky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2414/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2995
 
 ## Thread count
 DY/4 B20 K4 DR10 K4 B38 K4 B38 G34 K4 DY/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
 ID: /setts/s11/y4b20k4r10k4b38k4b38g34k4y4-b546488-g007800-k000000-r8c0000-yc88c00/
+c88c00/

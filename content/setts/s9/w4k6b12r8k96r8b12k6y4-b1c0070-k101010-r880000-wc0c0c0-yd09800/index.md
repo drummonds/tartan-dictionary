@@ -1,13 +1,13 @@
 ---
-title: "Highland Park (Corporate)"
+title: "Highland Park"
 date: 2023-03-18
 ---
 In pattern [WKBRKRBKY](/patterns/wkbrkrbky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5190/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1713
 
 ## Thread count
 DY/4 K6 DB12 DR8 K96 DR8 DB12 K6 N/4

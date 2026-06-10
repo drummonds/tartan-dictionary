@@ -1,13 +1,13 @@
 ---
-title: "Kelly of Sleat Hunting"
+title: "Kelly of Sleat Hunting (Name)"
 date: 2023-03-18
 ---
 In pattern [GKGRGKGRGRWR](/patterns/gkgrgkgrgrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5143
+Original link http://www.tartansauthority.com/tartan-ferret/display/3871/
 
 ## Thread count
 DR/6 LN3 N16 G8 N8 G8 K20 G8 N8 G56 K8 G/8
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
 ID: /setts/s12/g8k8g56r8g8k20g8r8g8r16w3ra6-g005448-k101010-r888888-ra880000-we0e0e0/
-0/

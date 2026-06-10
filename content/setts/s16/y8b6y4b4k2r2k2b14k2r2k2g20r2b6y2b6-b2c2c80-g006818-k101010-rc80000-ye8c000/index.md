@@ -1,13 +1,13 @@
 ---
-title: "Tartan de Longueuil (District)"
+title: "Tartan de Longueuil"
 date: 2023-03-18
 ---
 In pattern [BYBRGKRKBKRKBYBY](/patterns/bybrgkrkbkrkbyby/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7171/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4074
 
 ## Thread count
 DB/6 Y2 DB6 R2 G20 K2 R2 K2 DB14 K2 R2 K2 DB4 Y4 DB6 Y/8
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s16/y8b6y4b4k2r2k2b14k2r2k2g20r2b6y2b6-b2c2c80-g006818-k101010-rc80000-ye8c000/
+8c000/

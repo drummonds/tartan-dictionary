@@ -1,13 +1,13 @@
 ---
-title: "Discover Islay (District)"
+title: "Discover Islay"
 date: 2023-03-18
 ---
 In pattern [BGBBYB](/patterns/bgbbyb/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7683/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5685
 
 ## Thread count
 P/8 G76 DB24 P80 Y4 P/24
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "P/8 G76 DB24 P80 Y4 P/24 tartan")
 
 ID: /setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/
+8c000/

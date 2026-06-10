@@ -1,13 +1,13 @@
 ---
-title: "York Puppet (Artefact)"
+title: "York Puppet"
 date: 2023-03-18
 ---
 In pattern [BKYRYRYWKYGKWGBGW](/patterns/bkyryrywkygkwgbgw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/348/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4792
 
 ## Thread count
 LN/4 T4 DB6 T6 LN6 K6 T4 Y4 K4 LN4 O2 R2 O2 R2 O8 K2 P/22

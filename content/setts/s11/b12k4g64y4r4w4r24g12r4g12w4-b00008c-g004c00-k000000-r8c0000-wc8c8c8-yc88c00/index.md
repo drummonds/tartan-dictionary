@@ -1,13 +1,13 @@
 ---
-title: "Canadian Caledonian Htg (Universal)"
+title: "Canadian Caledonian Hunting"
 date: 2023-03-18
 ---
 In pattern [BKGYRWRGRGW](/patterns/bkgyrwrgrgw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/335/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=542
 
 ## Thread count
 DB/12 K4 G64 DY4 DR4 N4 DR24 G12 DR4 G12 N/4

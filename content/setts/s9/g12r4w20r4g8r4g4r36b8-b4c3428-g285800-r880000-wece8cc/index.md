@@ -1,13 +1,13 @@
 ---
-title: "Redwood Dress"
+title: "Redwood Dress (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BRGRGRWRG](/patterns/brgrgrwrg/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3483
+Original link http://www.tartansauthority.com/tartan-ferret/display/5423/
 
 ## Thread count
 G/12 DR4 W20 DR4 G8 DR4 G4 DR36 T/8

@@ -1,13 +1,13 @@
 ---
-title: "Liberton"
+title: "Liberton (Name)"
 date: 2023-03-18
 ---
 In pattern [KYGRGYKBKYYYK](/patterns/kygrgykbkyyyk/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2112
+Original link http://www.tartansauthority.com/tartan-ferret/display/6993/
 
 ## Thread count
 K/10 N6 DG10 R4 DG10 N6 K10 DB50 K10 N10 Y4 N10 K/10

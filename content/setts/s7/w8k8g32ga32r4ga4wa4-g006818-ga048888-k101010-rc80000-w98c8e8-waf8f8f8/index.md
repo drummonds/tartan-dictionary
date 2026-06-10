@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [WGRGGKW](/patterns/wgrggkw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2249
+Original link http://www.tartansauthority.com/tartan-ferret/display/5514/
 
 ## Thread count
 LB/8 K8 G32 B32 R4 B4 W/4
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LB/8 K8 G32 B32 R4 B4 W/4 tartan")
 
 ID: /setts/s7/w8k8g32ga32r4ga4wa4-g006818-ga048888-k101010-rc80000-w98c8e8-waf8f8f8/
+f8/

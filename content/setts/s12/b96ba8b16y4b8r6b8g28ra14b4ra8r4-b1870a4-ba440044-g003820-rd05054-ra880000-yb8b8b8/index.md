@@ -1,13 +1,13 @@
 ---
-title: "Louth, County (District)"
+title: "Louth, County"
 date: 2023-03-18
 ---
 In pattern [BBBYBRBGRBRR](/patterns/bbbybrbgrbrr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2277/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2234
 
 ## Thread count
 B/96 DP8 B16 N4 B8 DO6 B8 DG28 DR14 B4 DR8 DO/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.17 |
 
 ID: /setts/s12/b96ba8b16y4b8r6b8g28ra14b4ra8r4-b1870a4-ba440044-g003820-rd05054-ra880000-yb8b8b8/
+8b8b8/

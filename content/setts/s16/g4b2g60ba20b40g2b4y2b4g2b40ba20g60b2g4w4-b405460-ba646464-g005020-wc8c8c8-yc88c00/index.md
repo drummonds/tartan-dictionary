@@ -1,13 +1,13 @@
 ---
-title: "Scottish Borderland"
+title: "Scottish Borderland Fashion Tartan Tartan Number: 5359. Earliest known date: pre 1996 Lochcarron of Scotland. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GBGBBGBYBGBBGBGW](/patterns/gbgbbgbybgbbgbgw/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5359
 
 ## Thread count
 G/4 N2 G60 Na20 N40 G2 N4 DY2 N4 G2 N40 Na20 G60 N2 G4 Nb/4

@@ -1,5 +1,5 @@
 ---
-title: "Glen Tilt"
+title: "Unidentified, Specimen"
 date: 2023-03-18
 ---
 In pattern [WGRGRBRGRW](/patterns/wgrgrbrgrw/).

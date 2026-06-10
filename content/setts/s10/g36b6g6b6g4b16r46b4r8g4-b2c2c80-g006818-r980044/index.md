@@ -1,13 +1,13 @@
 ---
-title: "McGlynn"
+title: "McGlynn (Name)"
 date: 2023-03-18
 ---
 In pattern [GBGBGBRBRG](/patterns/gbgbgbrbrg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2885
+Original link http://www.tartansauthority.com/tartan-ferret/display/6020/
 
 ## Thread count
 G/36 DB6 G6 DB6 G4 DB16 R46 DB4 R8 G/4

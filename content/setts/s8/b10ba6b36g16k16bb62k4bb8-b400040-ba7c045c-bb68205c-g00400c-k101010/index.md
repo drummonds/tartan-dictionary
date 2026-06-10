@@ -1,13 +1,13 @@
 ---
-title: "Tartan Spirit Corporate)"
+title: "By Storm"
 date: 2023-03-18
 ---
 In pattern [BBBGKBKB](/patterns/bbbgkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7687/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6018
 
 ## Thread count
 DP/10 Pa6 DP36 DG16 K16 P62 K4 P/8
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DP/10 Pa6 DP36 DG16 K16 P62 K4 P/8 tartan")
 
 ID: /setts/s8/b10ba6b36g16k16bb62k4bb8-b400040-ba7c045c-bb68205c-g00400c-k101010/
+0c-k101010/

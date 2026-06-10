@@ -1,13 +1,13 @@
 ---
-title: "Royal Scottish Agricultural Benevolent Institution"
+title: "RSABI (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBBGGBGBG](/patterns/bgbbggbgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3607
+Original link http://www.tartansauthority.com/tartan-ferret/display/5393/
 
 ## Thread count
 K/6 G12 DB24 K2 G48 T10 K10 T10 K10 T/10

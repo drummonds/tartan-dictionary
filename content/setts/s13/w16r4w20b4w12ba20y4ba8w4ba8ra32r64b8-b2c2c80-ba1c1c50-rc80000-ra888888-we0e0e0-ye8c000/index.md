@@ -1,13 +1,13 @@
 ---
-title: "Warden"
+title: "Warden (Clan)"
 date: 2023-03-18
 ---
 In pattern [BRRBWBYBWBWRW](/patterns/brrbwbybwbwrw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4491
+Original link http://www.tartansauthority.com/tartan-ferret/display/7294/
 
 ## Thread count
 DB/8 R64 N32 DBa8 LN4 DBa8 Y4 DBa20 LN12 DB4 LN20 R4 LN/16

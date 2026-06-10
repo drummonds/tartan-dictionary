@@ -1,13 +1,13 @@
 ---
-title: "Grant of Monymusk - 1810 (Clan)"
+title: "Grant of Monymusk"
 date: 2023-03-18
 ---
 In pattern [RGRGRGRBRKRGR](/patterns/rgrgrgrbrkrgr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1497/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1509
 
 ## Thread count
 R/24 G32 R6 G32 R6 G32 R8 B32 R10 K18 R24 G6 R/24
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s13/r24g32r6g32r6g32r8b32r10k18r24g6r24-b1474b4-g006818-k101010-rc80000/
+-rc80000/

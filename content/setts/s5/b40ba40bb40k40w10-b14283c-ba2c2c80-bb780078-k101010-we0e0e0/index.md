@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BBBKW](/patterns/bbbkw/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5777/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4609
 
 ## Thread count
 DN/40 DB40 P40 K40 LN/10

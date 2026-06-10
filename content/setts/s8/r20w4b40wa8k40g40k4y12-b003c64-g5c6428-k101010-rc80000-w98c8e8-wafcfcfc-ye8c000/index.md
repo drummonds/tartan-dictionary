@@ -1,13 +1,13 @@
 ---
-title: "Culloden - 1746 (Original)"
+title: "Culloden 1746 - Original"
 date: 2023-03-18
 ---
 In pattern [RWBWKGKY](/patterns/rwbwkgky/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7422/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5495
 
 ## Thread count
 R/20 LB4 DB40 W8 K40 G40 K4 Y/12
@@ -31,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/20 LB4 DB40 W8 K40 G40 K4 Y/12 tartan")
 
 ID: /setts/s8/r20w4b40wa8k40g40k4y12-b003c64-g5c6428-k101010-rc80000-w98c8e8-wafcfcfc-ye8c000/
-/

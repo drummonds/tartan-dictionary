@@ -1,13 +1,13 @@
 ---
-title: "Belfrage"
+title: "Belfrage Swedish Family Tartan Tartan Number: 3672. Earliest known date: 1997 Based of the Duke of Fife and Spens tartans. Designed by Peter MacDonald in 1997 for the Belfrage Family Society most of whom live in Sweden. The family came from Fife where the name is a variation of Beveridge. It appears to have completely died out in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BBBGBY](/patterns/bbbgby/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5408
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3672
 
 ## Thread count
 DB/44 Na10 DR18 DG28 DB20 O/4

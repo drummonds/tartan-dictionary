@@ -1,13 +1,13 @@
 ---
-title: "MacIngust (Clan?)"
+title: "MacIngust"
 date: 2023-03-18
 ---
 In pattern [RKYGRKBW](/patterns/rkygrkbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5912/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470
 
 ## Thread count
 LN/2 B8 K8 R20 DG36 Y2 K4 R/140

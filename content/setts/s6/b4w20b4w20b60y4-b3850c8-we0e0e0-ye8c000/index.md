@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BWBWBY](/patterns/bwbwby/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4616
+Original link http://www.tartansauthority.com/tartan-ferret/display/7233/
 
 ## Thread count
 B/4 LN20 B4 LN20 B60 Y/4

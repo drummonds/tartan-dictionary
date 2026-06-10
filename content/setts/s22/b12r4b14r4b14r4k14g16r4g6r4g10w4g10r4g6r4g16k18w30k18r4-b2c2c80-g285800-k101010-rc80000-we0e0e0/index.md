@@ -1,13 +1,13 @@
 ---
-title: "MacDonell of Glengarry Dress"
+title: "MacDonell of Glengarry Dress (Clan?)"
 date: 2023-03-18
 ---
 In pattern [BRBRBRKGRGRGWGRGRGKWKR](/patterns/brbrbrkgrgrgwgrgrgkwkr/).
 
 
-This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
+This was sourced from tartans-authority.  It is a [22 stripes tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2384
+Original link http://www.tartansauthority.com/tartan-ferret/display/1999/
 
 ## Thread count
 DB/12 R4 DB14 R4 DB14 R4 K14 G16 R4 G6 R4 G10 LN4 G10 R4 G6 R4 G16 K18 LN30 K18 R/4

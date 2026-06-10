@@ -1,13 +1,13 @@
 ---
-title: "Torana"
+title: "Torana (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RBRYBY](/patterns/rbryby/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5748
+Original link http://www.tartansauthority.com/tartan-ferret/display/7778/
 
 ## Thread count
 DY/26 K26 DY4 O10 K26 R/26
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/26 K26 DY4 O10 K26 R/26 tartan")
 
 ID: /setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/
-9800/

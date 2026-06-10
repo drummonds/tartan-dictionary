@@ -1,13 +1,13 @@
 ---
-title: "Java Saint Andrew Society Htg (Corp)"
+title: "Java Saint Andrew Society Hunting"
 date: 2023-03-18
 ---
 In pattern [BGKGWRG](/patterns/bgkgwrg/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4105/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1886
 
 ## Thread count
 DB/100 G52 K18 G8 N4 DR4 G/20

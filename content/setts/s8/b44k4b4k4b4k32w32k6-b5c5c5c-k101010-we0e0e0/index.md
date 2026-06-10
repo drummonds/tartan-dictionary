@@ -1,13 +1,13 @@
 ---
-title: "Laksaa (Manx) (District)"
+title: "Laksaa (Manx)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKWK](/patterns/bkbkbkwk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1233/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2031
 
 ## Thread count
 K/6 LN32 K32 N4 K4 N4 K4 N/44
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 LN32 K32 N4 K4 N4 K4 N/44 tartan")
 
 ID: /setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/
+0e0e0/

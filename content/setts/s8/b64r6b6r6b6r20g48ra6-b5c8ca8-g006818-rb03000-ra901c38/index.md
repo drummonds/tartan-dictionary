@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BRBRBRGR](/patterns/brbrbrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1311
+Original link http://www.tartansauthority.com/tartan-ferret/display/597/
 
 ## Thread count
 B/64 R6 B6 R6 B6 R20 G48 DR/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/64 R6 B6 R6 B6 R20 G48 DR/6 tartan")
 
 ID: /setts/s8/b64r6b6r6b6r20g48ra6-b5c8ca8-g006818-rb03000-ra901c38/
+c38/

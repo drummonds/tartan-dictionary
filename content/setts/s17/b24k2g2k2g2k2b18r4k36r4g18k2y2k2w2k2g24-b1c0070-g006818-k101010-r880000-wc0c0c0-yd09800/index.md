@@ -1,13 +1,13 @@
 ---
-title: "Nicolson Green Hunting"
+title: "Nicolson Green (Htg) (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKGKGKBRKRGKYKWKG](/patterns/bkgkgkbrkrgkykwkg/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4809
+Original link http://www.tartansauthority.com/tartan-ferret/display/322/
 
 ## Thread count
 DB/24 K2 G2 K2 G2 K2 DB18 DR4 K36 DR4 G18 K2 DY2 K2 N2 K2 G/24

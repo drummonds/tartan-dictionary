@@ -1,13 +1,13 @@
 ---
-title: "Glenburnie (School)"
+title: "Glenburnie School"
 date: 2023-03-18
 ---
 In pattern [BRWYRBRYRW](/patterns/brwyrbryrw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5781/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406
 
 ## Thread count
 N/88 R8 W4 O12 R4 N24 R88 O12 R4 Wa/40
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Wa | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s10/b88r8w4y12r4b24r88y12r4w40-b5c5c5c-rc80000-wfcfcfc-yd87c00/
-/

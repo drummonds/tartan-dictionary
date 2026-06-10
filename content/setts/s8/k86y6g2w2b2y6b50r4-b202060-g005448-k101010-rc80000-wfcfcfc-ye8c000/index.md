@@ -1,13 +1,13 @@
 ---
-title: "Royal Yacht Britannia (Corporate)"
+title: "Royal Yacht Britannia"
 date: 2023-03-18
 ---
 In pattern [KYGWBYBR](/patterns/kygwbybr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2529/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3616
 
 ## Thread count
 K/86 Y6 G2 W2 DB2 Y6 DB50 R/4
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/86 Y6 G2 W2 DB2 Y6 DB50 R/4 tartan")
 
 ID: /setts/s8/k86y6g2w2b2y6b50r4-b202060-g005448-k101010-rc80000-wfcfcfc-ye8c000/
+e8c000/

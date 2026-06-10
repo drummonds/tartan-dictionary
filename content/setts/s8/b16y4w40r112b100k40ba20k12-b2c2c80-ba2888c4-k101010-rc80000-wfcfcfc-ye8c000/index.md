@@ -1,13 +1,13 @@
 ---
-title: "McKnight Dress #2 (Personal)"
+title: "McKnight Dress (Personal)"
 date: 2023-03-18
 ---
 In pattern [BYWRBKBK](/patterns/bywrbkbk/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2895
+Original link http://www.tartansauthority.com/tartan-ferret/display/6214/
 
 ## Thread count
 DB/16 Y4 W40 R112 DB100 K40 B20 K/12
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/16 Y4 W40 R112 DB100 K40 B20 K/12 tartan")
 
 ID: /setts/s8/b16y4w40r112b100k40ba20k12-b2c2c80-ba2888c4-k101010-rc80000-wfcfcfc-ye8c000/
+8c000/

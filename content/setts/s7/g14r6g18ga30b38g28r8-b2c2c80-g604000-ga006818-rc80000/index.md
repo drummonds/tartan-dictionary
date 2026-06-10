@@ -1,13 +1,13 @@
 ---
-title: "Dorward/Dogwood"
+title: "Dorward/Dogwood (Name)"
 date: 2023-03-18
 ---
 In pattern [GRGGBGR](/patterns/grggbgr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=955
+Original link http://www.tartansauthority.com/tartan-ferret/display/2533/
 
 ## Thread count
 R/8 T28 DB38 G30 T18 R6 T/14
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 T28 DB38 G30 T18 R6 T/14 tartan")
 
 ID: /setts/s7/g14r6g18ga30b38g28r8-b2c2c80-g604000-ga006818-rc80000/
-00/

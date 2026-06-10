@@ -1,13 +1,13 @@
 ---
-title: "Ruxton (Name)"
+title: "Ruxton"
 date: 2023-03-18
 ---
 In pattern [RKYKWKBKBKYKYKY](/patterns/rkykwkbkbkykyky/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2378/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3625
 
 ## Thread count
 DR/44 K6 DY2 K2 W6 K6 DB2 K6 DB16 K38 DY8 K4 DY2 K14 DY/6

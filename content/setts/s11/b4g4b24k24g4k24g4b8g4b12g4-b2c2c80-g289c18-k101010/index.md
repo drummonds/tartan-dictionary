@@ -1,13 +1,13 @@
 ---
-title: "Cargill"
+title: "Cargill (Name)"
 date: 2023-03-18
 ---
 In pattern [BGBKGKGBGBG](/patterns/bgbkgkgbgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5138
+Original link http://www.tartansauthority.com/tartan-ferret/display/3132/
 
 ## Thread count
 DB/4 G4 DB24 K24 G4 K24 G4 DB8 G4 DB12 G/4

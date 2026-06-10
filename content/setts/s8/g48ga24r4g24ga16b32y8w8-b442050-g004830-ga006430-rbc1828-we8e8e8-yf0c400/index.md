@@ -1,13 +1,13 @@
 ---
-title: "Connelly, James (Personal)"
+title: "Connelly Tartan Tartan Number: 9090. Earliest known date: 2009 November Designed by James Connelly for his daughters wedding in April 2010, with the help of The Tartan Shop of Comrie in Perthshire. The different shades of green signify the gaelic families from which the surname derives, the original spelling being O'Conghalie. Purple denotes the thistle, the national flower of Scotland and the O'Conghalies' move to a new country. The gold is a reminder to show generosity and kindness to others. White signifies, knowledge, loyalty, and integrity. The red, which runs through all of the above colours, symbolises the courage to maintain these standards. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GGRGGBYW](/patterns/ggrggbyw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10151
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9090
 
 ## Thread count
 DG/48 G24 R4 DG24 G16 DP32 Y8 LN/8

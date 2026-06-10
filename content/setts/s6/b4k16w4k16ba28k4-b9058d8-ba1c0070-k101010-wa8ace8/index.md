@@ -1,13 +1,13 @@
 ---
-title: "Scottish Express International"
+title: "Scottish Express International (Corp"
 date: 2023-03-18
 ---
 In pattern [BKWKBK](/patterns/bkwkbk/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715
+Original link http://www.tartansauthority.com/tartan-ferret/display/2309/
 
 ## Thread count
 K/4 DB28 K16 LP4 K16 P/4

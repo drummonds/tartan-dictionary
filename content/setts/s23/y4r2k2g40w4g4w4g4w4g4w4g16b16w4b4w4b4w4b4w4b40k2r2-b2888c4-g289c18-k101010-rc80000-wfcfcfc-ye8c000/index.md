@@ -1,13 +1,13 @@
 ---
-title: "Lachine (District)"
+title: "Lachine"
 date: 2023-03-18
 ---
 In pattern [RKBWBWBWBWBGWGWGWGWGKRY](/patterns/rkbwbwbwbwbgwgwgwgwgkry/).
 
 
-This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6202/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2019
 
 ## Thread count
 R/2 K2 B40 W4 B4 W4 B4 W4 B4 W4 B16 G16 W4 G4 W4 G4 W4 G4 W4 G40 K2 R2 Y/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s23/y4r2k2g40w4g4w4g4w4g4w4g16b16w4b4w4b4w4b4w4b40k2r2-b2888c4-g289c18-k101010-rc80000-wfcfcfc-ye8c000/
+8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Innes (of Moray) Clan Tartan Tartan Number: 361. Earliest known date: 1938 D C Stewart says, \"Within recent years this sett has been accepted as the tartan appropriate to the Inneses of the Moray district..\" Sir Thomas Innes of Learney was Lord Lyon, King of Arms, 1945 - 69. His younger son, Malcolm Innes of Edingight, became Lord Lyon in 1981. This sett is included in the 'Tartans of the Clans and Families of Scotland' (1938) prior to Sir Thomas's appointment. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Innes (Seven colours) (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKRKRKRYRBRKGKRW](/patterns/bkrkrkryrbrkgkrw/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=361
+Original link http://www.tartansauthority.com/tartan-ferret/display/361/
 
 ## Thread count
 B/7 K24 R4 K4 R4 K4 R24 Y4 R6 DB12 R6 K4 G20 K4 R6 LN/4
@@ -24,6 +24,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
+
+ID: /setts/s16/b7k24r4k4r4k4r24y4r6ba12r6k4g20k4r6w4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/
+C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s16/b7k24r4k4r4k4r24y4r6ba12r6k4g20k4r6w4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Colvin"
+title: "Colvin (Name)"
 date: 2023-03-18
 ---
 In pattern [BRGBWBWB](/patterns/brgbwbwb/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=719
+Original link http://www.tartansauthority.com/tartan-ferret/display/4196/
 
 ## Thread count
 DB/12 DR18 G128 DB32 N8 DB8 N8 DB/72
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/12 DR18 G128 DB32 N8 DB8 N8 DB/72 tartan")
 
 ID: /setts/s8/b72w8b8w8b32g128r18b12-b00008c-g004c00-r8c0000-wc8c8c8/
-c8/

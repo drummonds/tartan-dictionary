@@ -1,13 +1,13 @@
 ---
-title: "Midnight Glen"
+title: "Midnight Glen (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKWBKBKWR](/patterns/bkwbkbkwr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5634
+Original link http://www.tartansauthority.com/tartan-ferret/display/7612/
 
 ## Thread count
 DP/6 K80 N6 DP12 K20 DP20 K6 N2 LT/6

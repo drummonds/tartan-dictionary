@@ -1,13 +1,13 @@
 ---
-title: "Highland Granite (Fashion)"
+title: "Highland Granite"
 date: 2023-03-18
 ---
 In pattern [BBKBKBKBGB](/patterns/bbkbkbkbgb/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6499/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1709
 
 ## Thread count
 DN/16 N4 DN54 K20 Na8 K4 Na6 K4 Na32 DN/4

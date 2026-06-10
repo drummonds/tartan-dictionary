@@ -1,13 +1,13 @@
 ---
-title: "Methodist Church"
+title: "Methodist Church (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RGRGKRBKGRYR](/patterns/rgrgkrbkgryr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2941
+Original link http://www.tartansauthority.com/tartan-ferret/display/6794/
 
 ## Thread count
 DR/4 DY4 DR68 G8 K6 DB32 DR4 K4 G6 DR4 G4 DR/12

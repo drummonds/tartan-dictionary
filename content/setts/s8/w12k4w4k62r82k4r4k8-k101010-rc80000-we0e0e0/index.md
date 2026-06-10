@@ -1,13 +1,13 @@
 ---
-title: "University of Nebraska Alumni Association"
+title: "University of Nebraska (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KRKRKWKW](/patterns/krkrkwkw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4404
+Original link http://www.tartansauthority.com/tartan-ferret/display/6955/
 
 ## Thread count
 K/8 R4 K4 R82 K62 LN4 K4 LN/12

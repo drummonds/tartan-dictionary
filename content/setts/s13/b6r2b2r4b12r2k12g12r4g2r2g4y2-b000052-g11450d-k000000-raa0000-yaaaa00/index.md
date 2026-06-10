@@ -7,7 +7,7 @@ In pattern [BRBRBRKGRGRGY](/patterns/brbrbrkgrgrgy/).
 
 This was sourced from weddslist.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DB/6 DR2 DB2 DR4 DB12 DR2 K12 DG12 DR4 DG2 DR2 DG4 LG/2
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LG | <code style="background-color:#AAAA00;"><span style="color:#AAAA00;filter:grayscale(1) invert(1) contrast(100);">#AAAA00</span></code> `#AAAA00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 
 ID: /setts/s13/b6r2b2r4b12r2k12g12r4g2r2g4y2-b000052-g11450d-k000000-raa0000-yaaaa00/
+a00/

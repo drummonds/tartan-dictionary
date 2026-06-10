@@ -1,13 +1,13 @@
 ---
-title: "Saskatchewan Dress"
+title: "Saskatchewan Dress (Dance)"
 date: 2023-03-18
 ---
 In pattern [WKGGWRWY](/patterns/wkggwrwy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5693
+Original link http://www.tartansauthority.com/tartan-ferret/display/7696/
 
 ## Thread count
 LN/4 K2 G12 T22 LN52 R4 LN2 Y/4

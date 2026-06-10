@@ -1,13 +1,13 @@
 ---
-title: "Bro-Dreger"
+title: "Bro-Dreger (Corporate)"
 date: 2023-03-18
 ---
 In pattern [WKYRYKY](/patterns/wkyryky/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=375
+Original link http://www.tartansauthority.com/tartan-ferret/display/6650/
 
 ## Thread count
 DY/6 K4 DY64 DR6 DY6 K10 LN/6

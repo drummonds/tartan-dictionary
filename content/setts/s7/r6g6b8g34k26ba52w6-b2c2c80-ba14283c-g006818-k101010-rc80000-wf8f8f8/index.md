@@ -1,13 +1,13 @@
 ---
-title: "Peebles Beltane Centenary"
+title: "Royal Burgh of Peebles (District)"
 date: 2023-03-18
 ---
 In pattern [RGBGKBW](/patterns/rgbgkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3311
+Original link http://www.tartansauthority.com/tartan-ferret/display/5403/
 
 ## Thread count
 R/6 G6 DB8 G34 K26 DN52 W/6

@@ -1,13 +1,13 @@
 ---
-title: "Miyuki #4 (Fashion)"
+title: "Miyuki #4"
 date: 2023-03-18
 ---
 In pattern [RYRYGYGY](/patterns/ryrygygy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2605/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2970
 
 ## Thread count
 LT/6 T16 LT6 T40 LT40 R6 LT16 R/6

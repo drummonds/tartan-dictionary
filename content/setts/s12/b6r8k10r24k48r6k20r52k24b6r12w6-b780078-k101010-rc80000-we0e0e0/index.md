@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BRKRKRKRKBRW](/patterns/brkrkrkrkbrw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7494/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5535
 
 ## Thread count
 LN/6 R12 P6 K24 R52 K20 R6 K48 R24 K10 R8 P/6
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s12/b6r8k10r24k48r6k20r52k24b6r12w6-b780078-k101010-rc80000-we0e0e0/
-e0/

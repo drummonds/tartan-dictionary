@@ -7,7 +7,7 @@ In pattern [KRGRGRGYGR](/patterns/krgrgrgygr/).
 
 This was sourced from weddslist.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DR/8 DG16 N2 DG16 DR8 DG8 DR4 DG8 DR48 K/4
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#AAAAAA;"><span style="color:#AAAAAA;filter:grayscale(1) invert(1) contrast(100);">#AAAAAA</span></code> `#AAAAAA` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
 
 ID: /setts/s10/r8g16y2g16r8g8r4g8r48k4-g11450d-k000000-raa0000-yaaaaaa/
+aaa/

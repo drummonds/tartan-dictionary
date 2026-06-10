@@ -1,13 +1,13 @@
 ---
-title: "Tilburg"
+title: "Tilburg (District)"
 date: 2023-03-18
 ---
 In pattern [BYBBR](/patterns/bybbr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5509
+Original link http://www.tartansauthority.com/tartan-ferret/display/7464/
 
 ## Thread count
 DB/18 LG18 DB18 B46 R/6

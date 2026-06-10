@@ -1,13 +1,13 @@
 ---
-title: "Melieres, Michel (Personal)"
+title: "Melieres Michel.. Tartan Tartan Number: 1168. Earliest known date: 1966 tba See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [KRGRGRYRW](/patterns/krgrgryrw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2912
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1168
 
 ## Thread count
 K/4 R2 G16 R6 G6 R28 Y2 R2 LN/4

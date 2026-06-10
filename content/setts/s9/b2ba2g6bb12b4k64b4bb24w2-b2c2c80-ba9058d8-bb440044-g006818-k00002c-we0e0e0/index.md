@@ -26,3 +26,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#9058D8;"><span style="color:#9058D8;filter:grayscale(1) invert(1) contrast(100);">#9058D8</span></code> `#9058D8` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.22 |
 
 ID: /setts/s9/b2ba2g6bb12b4k64b4bb24w2-b2c2c80-ba9058d8-bb440044-g006818-k00002c-we0e0e0/
+) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
+| Pa | <code style="background-color:#9058D8;"><span style="color:#9058D8;filter:grayscale(1) invert(1) contrast(100);">#9058D8</span></code> `#9058D8` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.22 |
+
+ID: /setts/s9/b2ba2g6bb12b4k64b4bb24w2-b2c2c80-ba9058d8-bb440044-g006818-k00002c-we0e0e0/
+4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.22 |
+
+ID: /setts/s9/b2ba2g6bb12b4k64b4bb24w2-b2c2c80-ba9058d8-bb440044-g006818-k00002c-we0e0e0/

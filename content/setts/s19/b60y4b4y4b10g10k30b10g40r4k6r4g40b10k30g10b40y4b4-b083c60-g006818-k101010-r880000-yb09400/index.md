@@ -1,13 +1,13 @@
 ---
-title: "Pennsylvania"
+title: "Pennsylvania (District)"
 date: 2023-03-18
 ---
 In pattern [BYBGKBGRKRGBKGBYBYB](/patterns/bybgkbgrkrgbkgbybyb/).
 
 
-This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5259
+Original link http://www.tartansauthority.com/tartan-ferret/display/3130/
 
 ## Thread count
 DB/60 DY4 DB4 DY4 DB10 G10 K30 DB10 G40 DR4 K6 DR4 G40 DB10 K30 G10 DB40 DY4 DB/4

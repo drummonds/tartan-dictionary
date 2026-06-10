@@ -7,7 +7,7 @@ In pattern [GGGGGGGKGKGRGR](/patterns/gggggggkgkgrgr/).
 
 This was sourced from weddslist.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DG/4 G8 DG4 G2 DG2 G2 DG6 K4 DG4 K4 DG24 DR2 DG4 DR/2
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
 ID: /setts/s14/g4ga8g4ga2g2ga2g6k4g4k4g24r2g4r2-g11450d-ga4c7d3c-k000000-raa0000/
-000/

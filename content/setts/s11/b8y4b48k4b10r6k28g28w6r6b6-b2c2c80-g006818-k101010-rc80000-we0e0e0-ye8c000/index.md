@@ -1,13 +1,13 @@
 ---
-title: "Czech National"
+title: "Czech National (District)"
 date: 2023-03-18
 ---
 In pattern [BRWGKRBKBYB](/patterns/brwgkrbkbyb/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5516
+Original link http://www.tartansauthority.com/tartan-ferret/display/7474/
 
 ## Thread count
 DB/6 R6 LN6 G28 K28 R6 DB10 K4 DB48 Y4 DB/8

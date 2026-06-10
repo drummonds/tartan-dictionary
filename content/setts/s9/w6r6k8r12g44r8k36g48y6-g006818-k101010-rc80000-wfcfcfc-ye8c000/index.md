@@ -1,13 +1,13 @@
 ---
-title: "Brown, George (Commemorative)"
+title: "Brown, George"
 date: 2023-03-18
 ---
 In pattern [WRKRGRKGY](/patterns/wrkrgrkgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1853/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395
 
 ## Thread count
 W/6 R6 K8 R12 G44 R8 K36 G48 Y/6

@@ -1,13 +1,13 @@
 ---
-title: "Contrecoeur Dress (District)"
+title: "Contrecoeur Dress"
 date: 2023-03-18
 ---
 In pattern [RWRGWYBWRWYGGRW](/patterns/rwrgwybwrwyggrw/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2295/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=749
 
 ## Thread count
 LN/8 N8 G8 T4 Y40 LN28 R12 LN52 DB20 Y40 LN4 G8 N8 LN8 R/4

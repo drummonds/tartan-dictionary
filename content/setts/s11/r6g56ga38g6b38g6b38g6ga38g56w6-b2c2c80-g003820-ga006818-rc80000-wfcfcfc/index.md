@@ -1,13 +1,13 @@
 ---
-title: "Boys Brigade"
+title: "Boys' Brigade (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RGGGBGBGGGW](/patterns/rgggbgbgggw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=328
+Original link http://www.tartansauthority.com/tartan-ferret/display/1466/
 
 ## Thread count
 R/6 DG56 G38 DG6 DB38 DG6 DB38 DG6 G38 DG56 W/6

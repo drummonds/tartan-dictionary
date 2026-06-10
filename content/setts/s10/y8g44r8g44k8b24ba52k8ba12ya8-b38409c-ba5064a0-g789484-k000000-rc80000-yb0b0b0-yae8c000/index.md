@@ -1,13 +1,13 @@
 ---
-title: "RAF Leuchars"
+title: "RAF Leuchars (Military)"
 date: 2023-03-18
 ---
 In pattern [YBKBBKGRGY](/patterns/ybkbbkgrgy/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3438
+Original link http://www.tartansauthority.com/tartan-ferret/display/5443/
 
 ## Thread count
 N/8 LG44 R8 LG44 K8 Ba24 B52 K8 B12 Y/8

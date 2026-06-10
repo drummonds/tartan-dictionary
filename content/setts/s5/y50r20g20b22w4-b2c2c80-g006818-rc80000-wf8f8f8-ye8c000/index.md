@@ -1,13 +1,13 @@
 ---
-title: "Samye (Corporate)"
+title: "Samye"
 date: 2023-03-18
 ---
 In pattern [WBGRY](/patterns/wbgry/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7128/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5410
 
 ## Thread count
 W/4 DB22 G20 R20 Y/50

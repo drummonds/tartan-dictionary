@@ -1,13 +1,13 @@
 ---
-title: "Wexford, County"
+title: "Wexford, County (District)"
 date: 2023-03-18
 ---
 In pattern [GGGWKWGGGKYKGG](/patterns/gggwkwgggkykgg/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4611
+Original link http://www.tartansauthority.com/tartan-ferret/display/4248/
 
 ## Thread count
 DG/10 G10 K2 Y6 K2 G72 DG12 G12 W2 K4 W2 G12 DG12 G/22

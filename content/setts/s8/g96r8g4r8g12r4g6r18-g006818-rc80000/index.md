@@ -1,13 +1,13 @@
 ---
-title: "Menzies"
+title: "Menzies (Clan)"
 date: 2023-03-18
 ---
 In pattern [GRGRGRGR](/patterns/grgrgrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2920
+Original link http://www.tartansauthority.com/tartan-ferret/display/894/
 
 ## Thread count
 G/96 R8 G4 R8 G12 R4 G6 R/18

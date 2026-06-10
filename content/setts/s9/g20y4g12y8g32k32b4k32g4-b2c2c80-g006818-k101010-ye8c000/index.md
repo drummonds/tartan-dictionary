@@ -1,13 +1,13 @@
 ---
-title: "Fitzpatrick Htg (Name)"
+title: "Fitzpatrick Hunting"
 date: 2023-03-18
 ---
 In pattern [GKBKGYGYG](/patterns/gkbkgygyg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/766/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200
 
 ## Thread count
 G/4 K32 DB4 K32 G32 Y8 G12 Y4 G/20

@@ -1,13 +1,13 @@
 ---
-title: "Galway, County (District)"
+title: "Galway, County"
 date: 2023-03-18
 ---
 In pattern [RGRBRBRBRY](/patterns/rgrbrbrbry/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2254/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1308
 
 ## Thread count
 DR/8 DG26 DR6 DP8 DR6 DP6 DR80 DP6 DR4 DY/8

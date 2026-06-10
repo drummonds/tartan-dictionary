@@ -7,7 +7,7 @@ In pattern [BKGKGKBKG](/patterns/bkgkgkbkg/).
 
 This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DG/24 K2 DR20 K4 N20 K28 N20 K4 DR/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#7E7E7E;"><span style="color:#7E7E7E;filter:grayscale(1) invert(1) contrast(100);">#7E7E7E</span></code> `#7E7E7E` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.22 |
 
 ID: /setts/s9/g24k2b20k4ga20k28ga20k4b8-b59110d-g11450d-ga7e7e7e-k000000/
+000/

@@ -1,13 +1,13 @@
 ---
-title: "Longhaugh Primary School"
+title: "Longhaugh Primary School (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GBWBBRBK](/patterns/gbwbbrbk/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2202
+Original link http://www.tartansauthority.com/tartan-ferret/display/6645/
 
 ## Thread count
 G/40 DB4 W4 DB24 P58 R2 P2 K/6

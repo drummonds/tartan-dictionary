@@ -1,13 +1,13 @@
 ---
-title: "Erskine Black & White (Clan)"
+title: "Erskine (Black and White)"
 date: 2023-03-18
 ---
 In pattern [KWKWKW](/patterns/kwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1246/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122
 
 ## Thread count
 K/12 W6 K54 W54 K6 W/12

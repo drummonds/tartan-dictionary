@@ -1,13 +1,13 @@
 ---
-title: "Longniddry, Blue (Dance)"
+title: "Longniddry Blue (Dance)"
 date: 2023-03-18
 ---
 In pattern [BWBBWWWB](/patterns/bwbbwwwb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5486/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2205
 
 ## Thread count
 DN/84 LP4 N4 LP4 DN10 DB24 N64 DN/8

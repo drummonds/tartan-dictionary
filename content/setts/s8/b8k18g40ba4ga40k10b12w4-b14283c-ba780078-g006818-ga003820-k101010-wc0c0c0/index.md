@@ -1,13 +1,13 @@
 ---
-title: "Linden (Name)"
+title: "Linden"
 date: 2023-03-18
 ---
 In pattern [BKGBGKBW](/patterns/bkgbgkbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5772/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2114
 
 ## Thread count
 DN/8 K18 G40 P4 DG40 K10 DN12 N/4
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DN/8 K18 G40 P4 DG40 K10 DN12 N/4 tartan")
 
 ID: /setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/
+0/

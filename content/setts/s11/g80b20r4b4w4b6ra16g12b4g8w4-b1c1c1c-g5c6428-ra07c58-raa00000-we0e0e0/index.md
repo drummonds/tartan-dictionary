@@ -1,13 +1,13 @@
 ---
-title: "Cavalier, Green (Fashion)"
+title: "Cavalier, Green"
 date: 2023-03-18
 ---
 In pattern [GBRBWBRGBGW](/patterns/gbrbwbrgbgw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1292/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=599
 
 ## Thread count
 G/80 K20 LT4 K4 LN4 K6 DR16 G12 K4 G8 LN/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#A07C58;"><span style="color:#A07C58;filter:grayscale(1) invert(1) contrast(100);">#A07C58</span></code> `#A07C58` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.19 |
 
 ID: /setts/s11/g80b20r4b4w4b6ra16g12b4g8w4-b1c1c1c-g5c6428-ra07c58-raa00000-we0e0e0/
+0e0e0/

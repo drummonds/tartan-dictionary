@@ -1,13 +1,13 @@
 ---
-title: "Melville (Clan)"
+title: "Melville"
 date: 2023-03-18
 ---
 In pattern [KGKGWK](/patterns/kgkgwk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6328/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2914
 
 ## Thread count
 K/4 B24 K26 G26 W4 K/8
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/4 B24 K26 G26 W4 K/8 tartan")
 
 ID: /setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/
+c/

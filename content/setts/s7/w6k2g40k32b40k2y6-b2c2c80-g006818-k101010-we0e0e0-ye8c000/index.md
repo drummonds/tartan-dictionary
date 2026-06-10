@@ -1,13 +1,13 @@
 ---
-title: "MacCormick (Name)"
+title: "MacCormick Tartan Tartan Number: 7161. Earliest known date: August 2007 Designed by Keith McCormick of New Brunswick, Canada for the use of his family which is descended from Hebridean Scots who were a sept of MacLaine of Lochbuie. Can be worn by those of the same name or spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [WKGKBKY](/patterns/wkgkbky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7161/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7161
 
 ## Thread count
 LN/6 K2 G40 K32 DB40 K2 Y/6

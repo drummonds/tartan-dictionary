@@ -1,13 +1,13 @@
 ---
-title: "Crossnor (Corporate)"
+title: "Crossnor School"
 date: 2023-03-18
 ---
 In pattern [GRGWRGR](/patterns/grgwrgr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6282/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=815
 
 ## Thread count
 G/8 R4 G26 LR4 R26 G4 R/8
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/8 R4 G26 LR4 R26 G4 R/8 tartan")
 
 ID: /setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/
+/

@@ -1,13 +1,13 @@
 ---
-title: "Evans (Welsh Name)"
+title: "Evans Welsh Name Tartan Tartan Number: 5732. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Ifan, Bevan, Jevons and Heavens is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. Available from Wales Tartan Centre in Swansea See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKRKBKBKBKR](/patterns/bkrkbkbkbkr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5732/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5732
 
 ## Thread count
 B/2 K2 DR30 K36 DB30 K2 DB4 K2 DB30 K3 R/2

@@ -1,13 +1,13 @@
 ---
-title: "Strathspey (Estate Check)"
+title: "Strathspey Estate Check"
 date: 2023-03-18
 ---
 In pattern [BWKWBWKWB](/patterns/bwkwbwkwb/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3226/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5229
 
 ## Thread count
 DB/6 W6 K6 W6 DR6 W6 K6 W6 DR/6

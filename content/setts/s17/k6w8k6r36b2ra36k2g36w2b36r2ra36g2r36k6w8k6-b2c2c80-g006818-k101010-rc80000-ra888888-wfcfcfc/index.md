@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KWKRBRKGWBRRGRKWK](/patterns/kwkrbrkgwbrrgrkwk/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2572/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354
 
 ## Thread count
 K/6 W8 K6 R36 DB2 N36 K2 G36 W2 DB36 R2 N36 G2 R36 K6 W8 K/6
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s17/k6w8k6r36b2ra36k2g36w2b36r2ra36g2r36k6w8k6-b2c2c80-g006818-k101010-rc80000-ra888888-wfcfcfc/
-c/

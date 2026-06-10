@@ -1,13 +1,13 @@
 ---
-title: "Royal Canadian Mounted Police (Corp)"
+title: "Royal Canadian Mounted Police"
 date: 2023-03-18
 ---
 In pattern [BBBWGRBRY](/patterns/bbbwgrbry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2447/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3594
 
 ## Thread count
 DN/152 B2 DN4 N2 G28 DR10 DN26 DO2 DY/2

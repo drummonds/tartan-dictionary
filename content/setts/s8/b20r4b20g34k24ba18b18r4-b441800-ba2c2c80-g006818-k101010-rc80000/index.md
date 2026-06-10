@@ -1,13 +1,13 @@
 ---
-title: "MacDuff Htg - 1906 (Clan)"
+title: "MacDuff Hunting"
 date: 2023-03-18
 ---
 In pattern [BRBGKBBR](/patterns/brbgkbbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1654/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2424
 
 ## Thread count
 DR/20 R4 DR20 G34 K24 DB18 DR18 R/4

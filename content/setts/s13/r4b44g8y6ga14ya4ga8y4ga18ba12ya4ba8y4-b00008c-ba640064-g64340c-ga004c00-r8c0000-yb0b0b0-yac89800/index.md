@@ -1,13 +1,13 @@
 ---
-title: "Man, Isle of"
+title: "Man, Isle of (District)"
 date: 2023-03-18
 ---
 In pattern [RBGYGYGYGBYBY](/patterns/rbgygygygbyby/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2799
+Original link http://www.tartansauthority.com/tartan-ferret/display/5697/
 
 ## Thread count
 DR/4 DB44 T8 N6 G14 DY4 G8 N4 G18 P12 DY4 P8 N/4

@@ -1,13 +1,13 @@
 ---
-title: "MacPherson-Grant (Portrait)"
+title: "MacPherson-Grant"
 date: 2023-03-18
 ---
 In pattern [RKRGRGRKRKR](/patterns/rkrgrgrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6055/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726
 
 ## Thread count
 R/3 K4 R6 G45 R6 G6 R90 K6 R6 K6 R/90

@@ -1,13 +1,13 @@
 ---
-title: "MacBeth (Fashion)"
+title: "MacBeth #3"
 date: 2023-03-18
 ---
 In pattern [BKYKYGRK](/patterns/bkykygrk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3320/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5191
 
 ## Thread count
 DB/84 K12 DY4 K6 DY4 G20 DR14 K/4

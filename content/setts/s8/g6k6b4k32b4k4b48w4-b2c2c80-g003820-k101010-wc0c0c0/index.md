@@ -1,13 +1,13 @@
 ---
-title: "Auckland (Fashion)"
+title: "Auckland New Zealand District Tartan Tartan Number: 3043. Earliest known date: 1999 Designed by the House of Tartan for Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. This company appears to have gone out of business without ever promoting the tartan. Copyright remains with the designers. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GKBKBKBW](/patterns/gkbkbkbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3043/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3043
 
 ## Thread count
 DG/6 K6 DB4 K32 DB4 K4 DB48 N/4

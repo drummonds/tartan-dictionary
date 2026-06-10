@@ -1,13 +1,13 @@
 ---
-title: "CI"
+title: "CI (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KBRKRBKBR](/patterns/kbrkrbkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5812
+Original link http://www.tartansauthority.com/tartan-ferret/display/7862/
 
 ## Thread count
 K/100 DP8 N4 K4 N4 DP8 K25 DB10 N/4

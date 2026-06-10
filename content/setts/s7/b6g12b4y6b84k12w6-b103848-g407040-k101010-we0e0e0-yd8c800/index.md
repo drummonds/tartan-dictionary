@@ -1,13 +1,13 @@
 ---
-title: "Bro-sant-Brieg (Corporate)"
+title: "Bro-sant-Brieg"
 date: 2023-03-18
 ---
 In pattern [BGBYBKW](/patterns/bgbybkw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6654/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=386
 
 ## Thread count
 DN/6 G12 DN4 Y6 DN84 K12 LN/6

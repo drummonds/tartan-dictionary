@@ -1,13 +1,13 @@
 ---
-title: "MacFie Hunting"
+title: "MacFie Hunting (Clan?)"
 date: 2023-03-18
 ---
 In pattern [YBGRGRGBY](/patterns/ybgrgrgby/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5035
+Original link http://www.tartansauthority.com/tartan-ferret/display/3368/
 
 ## Thread count
 DY/4 DR48 G8 DRa8 G64 DRa8 G8 DR48 N/4

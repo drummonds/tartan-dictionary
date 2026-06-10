@@ -1,13 +1,13 @@
 ---
-title: "Ramsay Blue Hunting"
+title: "Ramsay, Blue Htg (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBKWK](/patterns/bkbkwk/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3454
+Original link http://www.tartansauthority.com/tartan-ferret/display/259/
 
 ## Thread count
 B/6 K2 B60 K56 N4 K/8

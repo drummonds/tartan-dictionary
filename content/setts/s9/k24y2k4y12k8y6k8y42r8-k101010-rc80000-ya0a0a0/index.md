@@ -1,13 +1,13 @@
 ---
-title: "MacKnight"
+title: "MacKnight (Name)"
 date: 2023-03-18
 ---
 In pattern [KYKYKYKYR](/patterns/kykykykyr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5759
+Original link http://www.tartansauthority.com/tartan-ferret/display/7794/
 
 ## Thread count
 K/24 N2 K4 N12 K8 N6 K8 N42 R/8

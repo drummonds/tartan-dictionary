@@ -1,13 +1,13 @@
 ---
-title: "Campbell, New Louden"
+title: "Campbell, New Louden (Military)"
 date: 2023-03-18
 ---
 In pattern [RWYBBYWGWRYRKRYRWY](/patterns/rwybbywgwryrkryrwy/).
 
 
-This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=534
+Original link http://www.tartansauthority.com/tartan-ferret/display/11/
 
 ## Thread count
 LT/18 W4 LP4 LT4 R10 K4 R10 LT4 LP4 W4 G24 W4 LT10 DB4 B4 LT10 W4 R/50
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s18/r50w4y10b4ba4y10w4g24w4ra4y4r10k4r10y4ra4w4y18-b2888c4-ba202060-g006818-k101010-rc80000-ra9c68a4-wfcfcfc-ya08858/
-8858/

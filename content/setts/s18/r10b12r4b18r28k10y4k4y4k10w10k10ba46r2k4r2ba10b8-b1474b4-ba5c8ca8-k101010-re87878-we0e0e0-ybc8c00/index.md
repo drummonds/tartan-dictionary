@@ -1,13 +1,13 @@
 ---
-title: "Westwood MacAndreas (Fashion)"
+title: "Westwood MacAndreas"
 date: 2023-03-18
 ---
 In pattern [BBRKRBKWKYKYKRBRBR](/patterns/bbrkrbkwkykykrbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7489/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5530
 
 ## Thread count
 Ba/8 B10 LR2 K4 LR2 B46 K10 LN10 K10 DY4 K4 DY4 K10 LR28 Ba18 LR4 Ba12 LR/10
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.19 |
 
 ID: /setts/s18/r10b12r4b18r28k10y4k4y4k10w10k10ba46r2k4r2ba10b8-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/
+8c00/

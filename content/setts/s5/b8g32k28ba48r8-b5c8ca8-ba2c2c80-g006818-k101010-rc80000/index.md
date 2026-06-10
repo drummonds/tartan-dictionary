@@ -1,13 +1,13 @@
 ---
-title: "Forbo Nairn"
+title: "Forbo Nairn (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGKBR](/patterns/bgkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1226
+Original link http://www.tartansauthority.com/tartan-ferret/display/2298/
 
 ## Thread count
 B/8 G32 K28 DB48 R/8

@@ -1,13 +1,13 @@
 ---
-title: "Manhattan Financial (Fashion)"
+title: "Manhattan Financial"
 date: 2023-03-18
 ---
 In pattern [BWKWKRWRGWRWRWRW](/patterns/bwkwkrwrgwrwrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2603/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2804
 
 ## Thread count
 DB/4 LN24 K14 W8 K20 N4 W6 N6 G2 W6 N8 LN20 N18 W6 R2 LN/48

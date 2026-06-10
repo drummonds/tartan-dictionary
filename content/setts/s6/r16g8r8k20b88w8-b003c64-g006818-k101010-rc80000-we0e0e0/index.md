@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RGRKBW](/patterns/rgrkbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6915/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3485
 
 ## Thread count
 LN/8 DB88 K20 R8 G8 R/16
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/8 DB88 K20 R8 G8 R/16 tartan")
 
 ID: /setts/s6/r16g8r8k20b88w8-b003c64-g006818-k101010-rc80000-we0e0e0/
-e0/

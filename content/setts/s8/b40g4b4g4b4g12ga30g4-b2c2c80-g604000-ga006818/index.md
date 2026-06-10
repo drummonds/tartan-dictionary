@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BGBGBGGG](/patterns/bgbgbggg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1313
+Original link http://www.tartansauthority.com/tartan-ferret/display/4959/
 
 ## Thread count
 DB/40 T4 DB4 T4 DB4 T12 G30 T/4

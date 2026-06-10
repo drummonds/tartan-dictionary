@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RYBGGYBY](/patterns/rybggyby/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7179/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1442
 
 ## Thread count
 DR/8 LT6 K48 T52 G6 LT42 P4 LT/8

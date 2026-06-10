@@ -1,13 +1,13 @@
 ---
-title: "Mica Green"
+title: "Mica, Green (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GRGKBKGY](/patterns/grgkbkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5003
+Original link http://www.tartansauthority.com/tartan-ferret/display/3472/
 
 ## Thread count
 DY/4 G6 K2 N28 K8 G24 DR4 G/12
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/4 G6 K2 N28 K8 G24 DR4 G/12 tartan")
 
 ID: /setts/s8/g12r4g24k8b28k2g6y4-b3c3c64-g505028-k000000-r640000-yc89800/
-89800/

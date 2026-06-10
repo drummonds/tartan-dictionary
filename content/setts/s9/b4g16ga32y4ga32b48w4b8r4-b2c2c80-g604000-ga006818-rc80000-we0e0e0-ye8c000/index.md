@@ -1,5 +1,5 @@
 ---
-title: "Connor (Personal)"
+title: "Eldridge (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGGYGBWBR](/patterns/bggygbwbr/).
@@ -7,7 +7,7 @@ In pattern [BGGYGBWBR](/patterns/bggygbwbr/).
 
 This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7944/
+Original link http://www.tartansauthority.com/tartan-ferret/display/7945/
 
 ## Thread count
 DB/4 T16 G32 Y4 G32 DB48 LN4 DB8 R/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b4g16ga32y4ga32b48w4b8r4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/
-/

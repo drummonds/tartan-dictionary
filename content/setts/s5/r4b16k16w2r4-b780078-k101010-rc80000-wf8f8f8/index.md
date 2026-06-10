@@ -1,13 +1,13 @@
 ---
-title: "Inder (Corporate)"
+title: "Inder"
 date: 2023-03-18
 ---
 In pattern [RBKWR](/patterns/rbkwr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6733/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5411
 
 ## Thread count
 R/4 P16 K16 W2 R/4

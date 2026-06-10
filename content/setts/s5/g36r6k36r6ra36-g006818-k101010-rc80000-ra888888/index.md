@@ -1,13 +1,13 @@
 ---
-title: "Timespan"
+title: "Timespan (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GRKRR](/patterns/grkrr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4127
+Original link http://www.tartansauthority.com/tartan-ferret/display/1002/
 
 ## Thread count
 G/36 R6 K36 R6 N/36
@@ -28,7 +28,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/36 R6 K36 R6 N/36 tartan")
 
 ID: /setts/s5/g36r6k36r6ra36-g006818-k101010-rc80000-ra888888/
-or:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
+00;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 # Sample pattern
 

@@ -1,13 +1,13 @@
 ---
-title: "Dunbar Hunting"
+title: "Dunbar Htg (Clan)"
 date: 2023-03-18
 ---
 In pattern [GGKGKG](/patterns/ggkgkg/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017
+Original link http://www.tartansauthority.com/tartan-ferret/display/4744/
 
 ## Thread count
 G/6 DG42 K16 G56 K4 G/8
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/6 DG42 K16 G56 K4 G/8 tartan")
 
 ID: /setts/s6/g8k4g56k16ga42g6-g006818-ga003820-k101010/
+

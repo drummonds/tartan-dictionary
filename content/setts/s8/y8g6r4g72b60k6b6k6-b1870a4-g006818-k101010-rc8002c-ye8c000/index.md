@@ -1,13 +1,13 @@
 ---
-title: "Chartered Accountants of Scotland"
+title: "Chartered Accountants of Scotland (C"
 date: 2023-03-18
 ---
 In pattern [KBKBGRGY](/patterns/kbkbgrgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4862
+Original link http://www.tartansauthority.com/tartan-ferret/display/3950/
 
 ## Thread count
 K/6 B6 K6 B60 G72 R4 G6 Y/8

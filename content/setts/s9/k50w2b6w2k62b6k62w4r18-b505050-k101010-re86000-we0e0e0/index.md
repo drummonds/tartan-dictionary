@@ -1,13 +1,13 @@
 ---
-title: "Savannah Harley Davidson American Corporate Tartan Tartan Number: 7502. Earliest known date: Oct. 2007 Woven sample from Lochcarron produced in October 2007 for Galeic Themes of Glasgow for the Savannah Harley Davidson compnay in Georgia (http://www.savannahhd.com/). See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Savannah Harley Davidson"
 date: 2023-03-18
 ---
 In pattern [KWBWKBKWR](/patterns/kwbwkbkwr/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7502
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5542
 
 ## Thread count
 K/50 LN2 Na6 LN2 K62 Na6 K62 LN4 O/18
@@ -23,5 +23,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 | Na | <code style="background-color:#505050;"><span style="color:#505050;filter:grayscale(1) invert(1) contrast(100);">#505050</span></code> `#505050` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.12 |
 | O | <code style="background-color:#E86000;"><span style="color:#E86000;filter:grayscale(1) invert(1) contrast(100);">#E86000</span></code> `#E86000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
+
+ID: /setts/s9/k50w2b6w2k62b6k62w4r18-b505050-k101010-re86000-we0e0e0/
+<span style="color:#E86000;filter:grayscale(1) invert(1) contrast(100);">#E86000</span></code> `#E86000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
 
 ID: /setts/s9/k50w2b6w2k62b6k62w4r18-b505050-k101010-re86000-we0e0e0/

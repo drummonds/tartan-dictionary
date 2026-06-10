@@ -1,13 +1,13 @@
 ---
-title: "Connolly Hunting"
+title: "Connolly Hunting (Name)"
 date: 2023-03-18
 ---
 In pattern [KRKRKBGYGR](/patterns/krkrkbgygr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4929
+Original link http://www.tartansauthority.com/tartan-ferret/display/7357/
 
 ## Thread count
 K/12 R4 K4 R4 K12 DB14 G40 Y4 G6 R/4

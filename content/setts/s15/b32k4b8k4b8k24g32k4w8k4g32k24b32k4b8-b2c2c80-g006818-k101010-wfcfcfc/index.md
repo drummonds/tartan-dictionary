@@ -1,13 +1,13 @@
 ---
-title: "Forbes - 1819 (Clan)"
+title: "Forbes"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKWKGKBKB](/patterns/bkbkbkgkwkgkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/211/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1214
 
 ## Thread count
 DB/32 K4 DB8 K4 DB8 K24 G32 K4 W8 K4 G32 K24 DB32 K4 DB/8

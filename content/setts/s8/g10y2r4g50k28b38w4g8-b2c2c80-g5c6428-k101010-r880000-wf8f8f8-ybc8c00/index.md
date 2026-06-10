@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GWBKGRYG](/patterns/gwbkgryg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4138
+Original link http://www.tartansauthority.com/tartan-ferret/display/922/
 
 ## Thread count
 G/10 DY2 DR4 G50 K28 DB38 W4 G/8
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/10 DY2 DR4 G50 K28 DB38 W4 G/8 tartan")
 
 ID: /setts/s8/g10y2r4g50k28b38w4g8-b2c2c80-g5c6428-k101010-r880000-wf8f8f8-ybc8c00/
+c00/

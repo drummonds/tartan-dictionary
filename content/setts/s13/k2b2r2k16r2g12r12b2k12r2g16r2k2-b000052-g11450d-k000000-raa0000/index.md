@@ -1,5 +1,5 @@
 ---
-title: "Cumming (d)"
+title: "Cumming"
 date: 2023-03-18
 ---
 In pattern [KBRKRGRBKRGRK](/patterns/kbrkrgrbkrgrk/).
@@ -7,7 +7,7 @@ In pattern [KBRKRGRBKRGRK](/patterns/kbrkrgrbkrgrk/).
 
 This was sourced from weddslist.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 K/2 DB2 DR2 K16 DR2 DG12 DR12 DB2 K12 DR2 DG16 DR2 K/2

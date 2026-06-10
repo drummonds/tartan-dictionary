@@ -1,13 +1,13 @@
 ---
-title: "Friends of Scotland Caucus"
+title: "Friends of Scotland Caucus (Corp.)"
 date: 2023-03-18
 ---
 In pattern [RWRGWRGRWBW](/patterns/rwrgwrgrwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1281
+Original link http://www.tartansauthority.com/tartan-ferret/display/7275/
 
 ## Thread count
 LN/4 DB94 LN6 R6 G4 R6 LN6 G28 R6 LN4 R/6

@@ -1,13 +1,13 @@
 ---
-title: "Comrie, Navy Blue (Dance)"
+title: "Comrie Navy Blue"
 date: 2023-03-18
 ---
 In pattern [BBWBBKWB](/patterns/bbwbbkwb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7593/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5617
 
 ## Thread count
 DB/8 W64 K24 DBa10 B4 W4 B4 DBa/84
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 W64 K24 DBa10 B4 W4 B4 DBa/84 tartan")
 
 ID: /setts/s8/b84ba4w4ba4b10k24w64bb8-b003c64-ba2888c4-bb1c0070-k101010-wf0e0c8/
+0c8/

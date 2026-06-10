@@ -1,13 +1,13 @@
 ---
-title: "Womens Rural Institute"
+title: "Womens Rural Institute (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGRGKBGG](/patterns/bgrgkbgg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4778
+Original link http://www.tartansauthority.com/tartan-ferret/display/4241/
 
 ## Thread count
 DG/8 G48 DP8 K12 DG8 DR6 DG8 DP/6

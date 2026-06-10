@@ -7,7 +7,7 @@ In pattern [GYRBGBRYKGKYBBYBBYR](/patterns/gyrbgbrykgkybbybbyr/).
 
 This was sourced from weddslist.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DG/6 N2 DR4 DRa4 DG2 DRa4 DR4 N2 K2 DG12 K2 N2 DB4 B2 N2 B2 DB4 N2 DR/48
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#AAAAAA;"><span style="color:#AAAAAA;filter:grayscale(1) invert(1) contrast(100);">#AAAAAA</span></code> `#AAAAAA` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
 
 ID: /setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/
+aaa/

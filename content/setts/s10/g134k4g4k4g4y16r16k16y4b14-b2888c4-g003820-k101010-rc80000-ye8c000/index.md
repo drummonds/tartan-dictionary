@@ -1,13 +1,13 @@
 ---
-title: "Moran (French) (Name)"
+title: "Moran (French)"
 date: 2023-03-18
 ---
 In pattern [BYKRYGKGKG](/patterns/bykrygkgkg/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7385/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5480
 
 ## Thread count
 B/14 Y4 K16 R16 Y16 DG4 K4 DG4 K4 DG/134
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/g134k4g4k4g4y16r16k16y4b14-b2888c4-g003820-k101010-rc80000-ye8c000/
+0/

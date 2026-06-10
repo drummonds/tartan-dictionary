@@ -1,13 +1,13 @@
 ---
-title: "Terre De'Ecosse (Corporate)"
+title: "Terre De'Ecosse"
 date: 2023-03-18
 ---
 In pattern [WGKGKGKGYGKGKW](/patterns/wgkgkgkgygkgkw/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4037/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4095
 
 ## Thread count
 LN/6 G14 K6 G6 K6 G6 K26 DG32 DY8 DG32 K26 G32 K6 LN/6
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s14/w6g14k6g6k6g6k26ga32y8ga32k26g32k6w6-g00643c-ga003820-k101010-we0e0e0-ybc8c00/
+bc8c00/

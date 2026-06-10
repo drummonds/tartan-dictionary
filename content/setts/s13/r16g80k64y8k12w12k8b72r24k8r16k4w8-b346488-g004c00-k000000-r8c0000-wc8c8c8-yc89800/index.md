@@ -1,13 +1,13 @@
 ---
-title: "Tilley, Sir Samuel Leonard"
+title: "Tilley, Sir Samuel Leonard (Comm)"
 date: 2023-03-18
 ---
 In pattern [RGKYKWKBRKRKW](/patterns/rgkykwkbrkrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4126
+Original link http://www.tartansauthority.com/tartan-ferret/display/5126/
 
 ## Thread count
 DR/16 G80 K64 DY8 K12 N12 K8 B72 DR24 K8 DR16 K4 N/8

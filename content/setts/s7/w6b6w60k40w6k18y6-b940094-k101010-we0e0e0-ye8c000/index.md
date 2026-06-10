@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [WBWKWKY](/patterns/wbwkwky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5921/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2714
 
 ## Thread count
 LN/6 P6 LN60 K40 LN6 K18 Y/6
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/6 P6 LN60 K40 LN6 K18 Y/6 tartan")
 
 ID: /setts/s7/w6b6w60k40w6k18y6-b940094-k101010-we0e0e0-ye8c000/
-00/

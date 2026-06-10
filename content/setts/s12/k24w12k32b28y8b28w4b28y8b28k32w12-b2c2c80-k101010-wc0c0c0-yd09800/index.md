@@ -1,13 +1,13 @@
 ---
-title: "St Johnstone F.C. Corporate Sport Tartan Tartan Number: 2425. Earliest known date: pre 1996 Observed in a kiltmaker's shop in Perth in 1996 and was told that a newer one was on its way. Note: St Johnstones or the 'Saints' is Perth's football team. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "St. Johnstone Football Club"
 date: 2023-03-18
 ---
 In pattern [KWKBYBWBYBKW](/patterns/kwkbybwbybkw/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2425
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3895
 
 ## Thread count
 K/24 N12 K32 DBa28 DY8 DBa28 N4 DBa28 DY8 DBa28 K32 N/12

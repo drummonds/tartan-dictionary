@@ -1,13 +1,13 @@
 ---
-title: "Bristow Helicopters"
+title: "Bristow Helicopters (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKWBKRKBWKBKBK](/patterns/bkwbkrkbwkbkbk/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=356
+Original link http://www.tartansauthority.com/tartan-ferret/display/2401/
 
 ## Thread count
 DB/56 K2 W2 DB4 K2 R4 K2 DB4 W2 K2 DB30 K32 DB6 K/32
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s14/b56k2w2b4k2r4k2b4w2k2b30k32b6k32-b2c2c80-k101010-rc80000-wfcfcfc/
-wfcfcfc/

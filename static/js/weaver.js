@@ -183,25 +183,35 @@
     renderExtras(document.getElementById('weaver-nn'), info.slug, false);
   }
 
-  /* The first embedded supplier shade table (the STA legend for now; a chooser when more land). */
+  /* The embedded supplier shade tables — the palettes (Tartan Dictionary roles, the STA legend,
+   * mill cards as they land) the weaver navigates against. The chooser keeps its selection across
+   * re-renders. */
   var supplierCache = null;
-  function supplier() {
+  var supplierId = null;
+  function suppliers() {
     if (supplierCache === null) {
       var list = window.weaver.suppliers();
-      supplierCache = (list && !list.error && list.length) ? list[0] : false;
+      supplierCache = (list && !list.error && list.length) ? list : [];
+      if (supplierCache.length && supplierId === null) supplierId = supplierCache[0].id;
     }
     return supplierCache;
+  }
+  function supplier() {
+    var list = suppliers();
+    for (var i = 0; i < list.length; i++) if (list[i].id === supplierId) return list[i];
+    return list.length ? list[0] : false;
   }
 
   function shadeRowsFor(info) {
     var sup = supplier();
     if (!sup) return null;
-    var rows = window.weaver.shadeSteps(info.slug, sup.id);
+    var rows = window.weaver.shadeWheel(info.slug, sup.id);
     return rows.error ? null : rows;
   }
 
-  /* One darker/lighter step along the supplier ladder: re-derive the variant, move the address
-   * bar to its canonical URL, re-render in place. */
+  /* One jog on the supplier wheel — darker/lighter along the ladder or round the hue ring:
+   * re-derive the variant, move the address bar to its canonical URL, re-render in place. The
+   * palette chooser swaps the supplier and redraws the table without changing the tartan. */
   function wireShadeButtons(shell, info) {
     var box = document.getElementById('weaver-palette');
     if (!box) return;
@@ -217,6 +227,12 @@
       next.name = info.name || '';
       setAddress(next, true);
       render(shell, next, true);
+    });
+    box.addEventListener('change', function (ev) {
+      var sel = ev.target.closest('select[data-shade-supplier]');
+      if (!sel) return;
+      supplierId = sel.value;
+      box.innerHTML = paletteTable(info.palette, shadeRowsFor(info));
     });
   }
 
@@ -268,22 +284,37 @@
       return tr + '</tr>';
     });
     var head = '<tr><th>Colour</th><th>Shade</th><th>Base</th><th>ΔE (OKLab)</th>' +
-      (shadeRows ? '<th>Standard shade (' + esc(supplier().name) + ')</th>' : '') + '</tr>';
+      (shadeRows ? '<th>Standard shade ' + supplierChooser() + '</th>' : '') + '</tr>';
     return '<table><thead>' + head + '</thead><tbody>' + rows.join('') + '</tbody></table>';
   }
 
-  /* The stepping cell: ▼ to the darker rung, the matched standard shade (≈ when the dye is not
-   * exactly standard), ▲ to the lighter rung. */
+  /* The palette chooser: plain text for a single table, a select once several are embedded. */
+  function supplierChooser() {
+    var list = suppliers();
+    if (list.length < 2) return '(' + esc(supplier().name) + ')';
+    var opts = list.map(function (s) {
+      return '<option value="' + esc(s.id) + '"' + (s.id === supplier().id ? ' selected' : '') +
+        '>' + esc(s.name) + '</option>';
+    });
+    return '<select data-shade-supplier>' + opts.join('') + '</select>';
+  }
+
+  /* The jog cell: the matched standard shade (≈ when the dye is not exactly standard, [ref] when
+   * the supplier has a catalogue number), ▼/▲ one rung darker/lighter — past a family's ends the
+   * black and white caps — and ◀/▶ one stop round the hue ring at the same lightness. */
   function shadeCell(code, row) {
     if (!row || !row.match) return '—';
-    var html = stepBtn(code, row.prev, '▼', 'darker');
-    html += ' ' + (row.exact ? '' : '≈ ') + esc(row.match.name) + ' ' + swatch(row.match.hex) + ' ';
-    html += stepBtn(code, row.next, '▲', 'lighter');
+    var html = stepBtn(code, row.prev, '◀', 'previous hue');
+    html += ' ' + stepBtn(code, row.darker, '▼', 'darker');
+    html += ' ' + (row.exact ? '' : '≈ ') + esc(row.match.name) +
+      (row.match.ref ? ' [' + esc(row.match.ref) + ']' : '') + ' ' + swatch(row.match.hex) + ' ';
+    html += stepBtn(code, row.lighter, '▲', 'lighter');
+    html += ' ' + stepBtn(code, row.next, '▶', 'next hue');
     return html;
   }
 
   function stepBtn(code, step, arrow, title) {
-    if (!step) return '<button disabled title="end of ladder">' + arrow + '</button>';
+    if (!step) return '<button disabled title="nothing that way">' + arrow + '</button>';
     return '<button data-shade-code="' + esc(code) + '" data-shade-hex="' + esc(step.hex) +
       '" title="' + title + ': ' + esc(step.name) + ' ' + esc(step.hex) + '">' + arrow + '</button>';
   }

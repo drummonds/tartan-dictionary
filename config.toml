@@ -59,6 +59,10 @@ pagerSize = 20
   url = "/setts/"
   weight = 6
   [[menu.main]]
+  name = "Colour"
+  url = "/colour/"
+  weight = 7
+  [[menu.main]]
   name = "About"
   url = "/about/"
   weight = 8

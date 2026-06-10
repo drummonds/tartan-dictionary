@@ -1,13 +1,13 @@
 ---
-title: "Naysmith, William S Family Tartan Tartan Number: 2319. Earliest known date: pre 2002 Based loosely on Gunn and designed by William A Naysmith who was a professional textile designer and one time Governor of the Edinburgh College of Art. Controlled by the designer for use by his family and descendents. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Naysmith, William A (Personal)"
 date: 2023-03-18
 ---
 In pattern [WRBKWKWKRW](/patterns/wrbkwkwkrw/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2319
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105
 
 ## Thread count
 LP/4 DR4 K4 N6 K6 N8 K8 DB28 DR4 N/8

@@ -1,13 +1,13 @@
 ---
-title: "Royal and Ancient, The"
+title: "Royal & Ancient (Sports)"
 date: 2023-03-18
 ---
 In pattern [BGBGBG](/patterns/bgbgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584
+Original link http://www.tartansauthority.com/tartan-ferret/display/2193/
 
 ## Thread count
 DB/12 T4 DB4 T6 DB32 G/98

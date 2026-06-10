@@ -1,13 +1,13 @@
 ---
-title: "MacIver of Strathendry Htg (Personal"
+title: "MacIver of Strathendry Hunting (Personal)"
 date: 2023-03-18
 ---
 In pattern [RRBRBRBRY](/patterns/rrbrbrbry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3397/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5036
 
 ## Thread count
 DRa/6 T56 DR10 T10 DR66 T10 DR10 T56 DY/6

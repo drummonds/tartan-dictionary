@@ -1,13 +1,13 @@
 ---
-title: "Crawford (Clan)"
+title: "Crawford Clan Tartan Tartan Number: 1515. Earliest known date: 1842 From a story about the early days of the Black Watch, in 1739, we know that there was no Crawford tartan at that time. The first record is in the Vestiarium Scoticum of 1842. It would appear that the tartan was designed sometime between these dates possibly by the Sobieski Stuart brothers. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RGRGRWR](/patterns/rgrgrwr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1515/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1515
 
 ## Thread count
 R/6 G24 R6 G24 R60 LN4 R/12

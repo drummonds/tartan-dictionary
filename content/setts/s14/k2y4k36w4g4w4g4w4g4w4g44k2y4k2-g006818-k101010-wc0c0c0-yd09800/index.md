@@ -1,13 +1,13 @@
 ---
-title: "Hammarby Football Club (Corp)"
+title: "Hammarby Football Club"
 date: 2023-03-18
 ---
 In pattern [KYKGWGWGWGWKYK](/patterns/kykgwgwgwgwkyk/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2661/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1582
 
 ## Thread count
 K/2 DY4 K2 G44 N4 G4 N4 G4 N4 G4 N4 K36 DY4 K/2

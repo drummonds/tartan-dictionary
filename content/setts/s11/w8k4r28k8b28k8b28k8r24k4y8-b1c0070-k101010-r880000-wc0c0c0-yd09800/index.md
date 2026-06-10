@@ -25,6 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
 ID: /setts/s11/w8k4r28k8b28k8b28k8r24k4y8-b1c0070-k101010-r880000-wc0c0c0-yd09800/
-or:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
-
-ID: /setts/s11/w8k4r28k8b28k8b28k8r24k4y8-b1c0070-k101010-r880000-wc0c0c0-yd09800/

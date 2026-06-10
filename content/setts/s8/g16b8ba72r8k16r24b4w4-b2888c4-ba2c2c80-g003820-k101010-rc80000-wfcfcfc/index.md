@@ -1,13 +1,13 @@
 ---
-title: "Glenn (Name)"
+title: "Glenn"
 date: 2023-03-18
 ---
 In pattern [GBBRKRBW](/patterns/gbbrkrbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5930/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1430
 
 ## Thread count
 DG/16 B8 DB72 R8 K16 R24 B4 W/4
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/16 B8 DB72 R8 K16 R24 B4 W/4 tartan")
 
 ID: /setts/s8/g16b8ba72r8k16r24b4w4-b2888c4-ba2c2c80-g003820-k101010-rc80000-wfcfcfc/
+c/

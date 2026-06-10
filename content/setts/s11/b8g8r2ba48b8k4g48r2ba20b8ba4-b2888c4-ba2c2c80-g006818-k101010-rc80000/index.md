@@ -1,13 +1,13 @@
 ---
-title: "Coopers & Lybrand (Corporate)"
+title: "Coopers & Lybrand"
 date: 2023-03-18
 ---
 In pattern [BBBRGKBBRGB](/patterns/bbbrgkbbrgb/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2303/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756
 
 ## Thread count
 B/8 G8 R2 DB48 B8 K4 G48 R2 DB20 B8 DB/4

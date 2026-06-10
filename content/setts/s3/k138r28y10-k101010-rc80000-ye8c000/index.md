@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KRY](/patterns/kry/).
 
 
-This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755
+Original link http://www.tartansauthority.com/tartan-ferret/display/7789/
 
 ## Thread count
 K/138 R28 Y/10
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/138 R28 Y/10 tartan")
 
 ID: /setts/s3/k138r28y10-k101010-rc80000-ye8c000/
+00/

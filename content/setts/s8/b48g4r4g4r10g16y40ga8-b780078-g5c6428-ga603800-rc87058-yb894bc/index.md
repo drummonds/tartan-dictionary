@@ -1,13 +1,13 @@
 ---
-title: "Glen Shee"
+title: "Glen Shee #2 (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGRGRGYG](/patterns/bgrgrgyg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1397
+Original link http://www.tartansauthority.com/tartan-ferret/display/5023/
 
 ## Thread count
 P/48 G4 DO4 G4 DO10 G16 LP40 T/8
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "P/48 G4 DO4 G4 DO10 G16 LP40 T/8 tartan")
 
 ID: /setts/s8/b48g4r4g4r10g16y40ga8-b780078-g5c6428-ga603800-rc87058-yb894bc/
-yb894bc/

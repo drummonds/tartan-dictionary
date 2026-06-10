@@ -1,13 +1,13 @@
 ---
-title: "MacCallum of Berwick (Clan)"
+title: "MacCallum of Berwick"
 date: 2023-03-18
 ---
 In pattern [BRBKGKBKY](/patterns/brbkgkbky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/492/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2309
 
 ## Thread count
 DB/20 R14 DB62 K50 G46 K16 DB14 K16 Y/10
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b20r14b62k50g46k16b14k16y10-b2c2c80-g285800-k101010-rc80000-ye8c000/
+/

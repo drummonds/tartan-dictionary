@@ -7,7 +7,7 @@ In pattern [KY](/patterns/ky/).
 
 This was sourced from weddslist.  It is a [2 stripes tartan](/stripes/stripes2/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 K/1 N/1
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/1 N/1 tartan")
 
 ID: /setts/s2/k1y1-k000000-yaaaaaa/
-aaa/

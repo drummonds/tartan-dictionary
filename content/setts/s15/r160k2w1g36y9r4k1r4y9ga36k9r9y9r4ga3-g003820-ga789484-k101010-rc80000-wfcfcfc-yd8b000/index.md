@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GRYRKGYRKRYGWKR](/patterns/gryrkgyrkrygwkr/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/588/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2711
 
 ## Thread count
 LG/3 R4 Y9 R9 K9 LG36 Y9 R4 K1 R4 Y9 DG36 W1 K2 R/160

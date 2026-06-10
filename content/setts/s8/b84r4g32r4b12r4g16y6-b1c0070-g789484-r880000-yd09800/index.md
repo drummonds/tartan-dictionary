@@ -1,13 +1,13 @@
 ---
-title: "Prince George's Police (Corporate)"
+title: "Prince George's Police Pipe Band"
 date: 2023-03-18
 ---
 In pattern [BRGRBRGY](/patterns/brgrbrgy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5474/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3392
 
 ## Thread count
 DB/84 DR4 LG32 DR4 DB12 DR4 LG16 DY/6
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/84 DR4 LG32 DR4 DB12 DR4 LG16 DY/6 tartan")
 
 ID: /setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/
-/

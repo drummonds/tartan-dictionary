@@ -1,13 +1,13 @@
 ---
-title: "Common Kilt (Fashion)"
+title: "Common Kilt"
 date: 2023-03-18
 ---
 In pattern [BRKGKBKR](/patterns/brkgkbkr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/554/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=720
 
 ## Thread count
 DB/4 R2 K4 DG50 K56 DB50 K4 R/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 R2 K4 DG50 K56 DB50 K4 R/6 tartan")
 
 ID: /setts/s8/r6k4b50k56g50k4r2b4-b000048-g044028-k000000-rc80000/
+0000/

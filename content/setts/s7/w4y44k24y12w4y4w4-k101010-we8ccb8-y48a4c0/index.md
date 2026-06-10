@@ -1,13 +1,13 @@
 ---
-title: "Angle, Blue (Fashion)"
+title: "Angle Blue"
 date: 2023-03-18
 ---
 In pattern [WYKYWYW](/patterns/wykywyw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3512/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4882
 
 ## Thread count
 LR/4 B44 K24 B12 LR4 B4 LR/4

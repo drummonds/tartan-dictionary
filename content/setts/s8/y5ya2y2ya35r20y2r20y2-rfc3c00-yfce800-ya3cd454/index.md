@@ -1,13 +1,13 @@
 ---
-title: "Peachy Keen (Corporate)"
+title: "PeachyKeen"
 date: 2023-03-18
 ---
 In pattern [YRYRYYYY](/patterns/yryryyyy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7208/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3307
 
 ## Thread count
 Y/5 LG2 Y2 LG35 R20 Y2 R20 Y/2

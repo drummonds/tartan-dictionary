@@ -1,13 +1,13 @@
 ---
-title: "Davidson 'Double' - 1847 (Clan)"
+title: "Davidson, Double"
 date: 2023-03-18
 ---
 In pattern [BRBKGKWK](/patterns/brbkgkwk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/444/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=896
 
 ## Thread count
 DB/6 R4 DB16 K16 G16 K6 W4 K/6

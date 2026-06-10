@@ -1,13 +1,13 @@
 ---
-title: "Jubilee (Artefact)"
+title: "Jubilee"
 date: 2023-03-18
 ---
 In pattern [GWGWGRGWGWGYGWGWG](/patterns/gwgwgrgwgwgygwgwg/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1911/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1911
 
 ## Thread count
 G/3 LP24 G8 LP12 G44 DR6 G44 LP48 G6 LP48 G44 DY6 G44 LP12 G8 LP24 G/3
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LP | <code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> `#A8ACE8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.22 |
 
 ID: /setts/s17/g3w24g8w12g44r6g44w48g6w48g44y6g44w12g8w24g3-g006818-r880000-wa8ace8-yd09800/
+09800/

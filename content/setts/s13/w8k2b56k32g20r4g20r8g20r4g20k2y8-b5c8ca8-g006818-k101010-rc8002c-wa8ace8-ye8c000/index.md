@@ -1,13 +1,13 @@
 ---
-title: "California State (District)"
+title: "California State"
 date: 2023-03-18
 ---
 In pattern [WKBKGRGRGRGKY](/patterns/wkbkgrgrgrgky/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2454/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=482
 
 ## Thread count
 LP/8 K2 B56 K32 G20 R4 G20 R8 G20 R4 G20 K2 Y/8

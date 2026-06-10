@@ -1,13 +1,13 @@
 ---
-title: "MacAlister of Glenbarr Htg (Clan)"
+title: "MacAlister of Glenbarr Hunting"
 date: 2023-03-18
 ---
 In pattern [GBGBGGGBGGGGGG](/patterns/gbgbgggbgggggg/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/910/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2270
 
 ## Thread count
 G/40 T6 G12 T12 G12 T16 DB4 T4 G40 T4 DB4 T92 DB6 T/16
@@ -23,4 +23,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#603800;"><span style="color:#603800;filter:grayscale(1) invert(1) contrast(100);">#603800</span></code> `#603800` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.16 |
 
 ID: /setts/s14/g40ga6g12ga12g12ga16b4ga4g40ga4b4ga92b6ga16-b2c2c80-g006818-ga603800/
-/

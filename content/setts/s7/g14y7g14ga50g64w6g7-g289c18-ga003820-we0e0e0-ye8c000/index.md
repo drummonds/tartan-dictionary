@@ -1,13 +1,13 @@
 ---
-title: "Freedom of Derry (Fashion)"
+title: "Freedom of Derry"
 date: 2023-03-18
 ---
 In pattern [GWGGGYG](/patterns/gwgggyg/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7195/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277
 
 ## Thread count
 G/7 LN6 G64 DG50 G14 Y7 G/14

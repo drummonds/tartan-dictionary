@@ -1,13 +1,13 @@
 ---
-title: "Goil Dress"
+title: "Goil Dress (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BBYBWBBWBWB](/patterns/bbybwbbwbwb/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1443
+Original link http://www.tartansauthority.com/tartan-ferret/display/5050/
 
 ## Thread count
 B/84 DB20 DY4 DB4 N4 DB4 B20 N12 DB4 N6 B/4
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
 ID: /setts/s11/b84ba20y4ba4w4ba4b20w12ba4w6b4-b688ca4-ba1c0070-wc0c0c0-yd09800/
-9800/

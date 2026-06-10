@@ -1,13 +1,13 @@
 ---
-title: "Lennox Dress #2"
+title: "Lennox Dress, Red (Dance)"
 date: 2023-03-18
 ---
 In pattern [RRRRWBW](/patterns/rrrrwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2098
+Original link http://www.tartansauthority.com/tartan-ferret/display/1649/
 
 ## Thread count
 LN/8 DB4 LN40 DR8 R40 DR4 R/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/8 DB4 LN40 DR8 R40 DR4 R/8 tartan")
 
 ID: /setts/s7/r8ra4r40ra8w40b4w8-b2c2c80-rc80000-ra880000-we0e0e0/
-e0e0/

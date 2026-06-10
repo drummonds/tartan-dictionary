@@ -1,13 +1,13 @@
 ---
-title: "Rajput"
+title: "Rajput (Military)"
 date: 2023-03-18
 ---
 In pattern [BRBRBY](/patterns/brbrby/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3447
+Original link http://www.tartansauthority.com/tartan-ferret/display/6047/
 
 ## Thread count
 DB/12 DR78 DB20 DR20 DB42 Y/10
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/12 DR78 DB20 DR20 DB42 Y/10 tartan")
 
 ID: /setts/s6/b12r78b20r20b42y10-b2c2c80-r880000-ye8c000/
-8c000/

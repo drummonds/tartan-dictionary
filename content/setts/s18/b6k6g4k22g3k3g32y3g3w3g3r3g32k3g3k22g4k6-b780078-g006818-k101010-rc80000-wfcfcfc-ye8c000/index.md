@@ -1,13 +1,13 @@
 ---
-title: "Campbell, Marquis of Lorne"
+title: "Campbell, Marquis of Lorne (Commemo)"
 date: 2023-03-18
 ---
 In pattern [BKGKGKGYGWGRGKGKGK](/patterns/bkgkgkgygwgrgkgkgk/).
 
 
-This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=533
+Original link http://www.tartansauthority.com/tartan-ferret/display/18/
 
 ## Thread count
 K/6 G4 K22 G3 K3 G32 R3 G3 W3 G3 Y3 G32 K3 G3 K22 G4 K6 P/6

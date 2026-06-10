@@ -1,13 +1,13 @@
 ---
-title: "University of North Carolina at Greensboro, The"
+title: "University of North Carolina (Corp.)"
 date: 2023-03-18
 ---
 In pattern [BYBYBYWYW](/patterns/bybybywyw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4199
+Original link http://www.tartansauthority.com/tartan-ferret/display/6265/
 
 ## Thread count
 DB/96 Y11 DB8 Y11 DB16 Y6 W4 Y16 W/8

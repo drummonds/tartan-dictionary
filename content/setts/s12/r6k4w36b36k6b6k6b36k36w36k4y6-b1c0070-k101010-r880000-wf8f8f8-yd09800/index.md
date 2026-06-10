@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RKWBKBKBKWKY](/patterns/rkwbkbkbkwky/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5215
+Original link http://www.tartansauthority.com/tartan-ferret/display/3361/
 
 ## Thread count
 DR/6 K4 W36 DB36 K6 DB6 K6 DB36 K36 W36 K4 DY/6

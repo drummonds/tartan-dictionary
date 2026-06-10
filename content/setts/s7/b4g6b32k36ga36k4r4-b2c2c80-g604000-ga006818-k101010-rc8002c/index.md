@@ -1,13 +1,13 @@
 ---
-title: "McEwan '1856', The"
+title: "McEwan '1856', The (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBKGKR](/patterns/bgbkgkr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2880
+Original link http://www.tartansauthority.com/tartan-ferret/display/2299/
 
 ## Thread count
 DB/4 T6 DB32 K36 G36 K4 R/4
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 T6 DB32 K36 G36 K4 R/4 tartan")
 
 ID: /setts/s7/b4g6b32k36ga36k4r4-b2c2c80-g604000-ga006818-k101010-rc8002c/
-c8002c/

@@ -26,8 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#CCD0B4;"><span style="color:#CCD0B4;filter:grayscale(1) invert(1) contrast(100);">#CCD0B4</span></code> `#CCD0B4` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.12 |
 
 ID: /setts/s12/r16w4r44k20g12k12g20k12g20ga6g6ga8-g004020-ga285800-k000000-r9c0030-wccd0b4/
-ert(1) contrast(100);">#CCD0B4</span></code> `#CCD0B4` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.12 |
-| Na | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
-| W | <code style="background-color:#ECECAC;"><span style="color:#ECECAC;filter:grayscale(1) invert(1) contrast(100);">#ECECAC</span></code> `#ECECAC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.09 |
-
-ID: /setts/s12/r16w4r44k20g12k12g20k12g20ga6g6ga8-g004020-ga285800-k000000-r9c0030-wccd0b4/

@@ -1,13 +1,13 @@
 ---
-title: "DeWolfe (Corporate)"
+title: "DeWolfe"
 date: 2023-03-18
 ---
 In pattern [WKRYRYRYKYRYRYRY](/patterns/wkryryrykyryryry/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6704/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=927
 
 ## Thread count
 W/12 K14 DR4 Y4 DR4 Y4 DR4 Y4 K14 Y4 DR68 Y4 DR4 Y4 DR4 Y/4

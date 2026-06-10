@@ -1,13 +1,13 @@
 ---
-title: "MacInnes"
+title: "MacInnes (Clan)"
 date: 2023-03-18
 ---
 In pattern [RGBKBKGKGKGKY](/patterns/rgbkbkgkgkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2471
+Original link http://www.tartansauthority.com/tartan-ferret/display/1464/
 
 ## Thread count
 R/4 G12 DB24 K6 B6 K6 G32 K4 G4 K4 G4 K24 Y/4

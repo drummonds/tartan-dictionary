@@ -1,13 +1,13 @@
 ---
-title: "Glen Feshie (Estate Check)"
+title: "Glen Feshie Check"
 date: 2023-03-18
 ---
 In pattern [RWKWKWKW](/patterns/rwkwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5008/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1378
 
 ## Thread count
 R/8 W8 K6 W8 K8 W8 K8 W/8
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 W8 K6 W8 K8 W8 K8 W/8 tartan")
 
 ID: /setts/s8/r8w8k6w8k8w8k8w8-k000000-rc82800-wf0dcbc/
+cbc/

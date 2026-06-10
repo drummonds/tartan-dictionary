@@ -1,13 +1,13 @@
 ---
-title: "Ellenee"
+title: "Ellene (Personal))"
 date: 2023-03-18
 ---
 In pattern [BKBKGKRKRKBKGKGKGKBKRK](/patterns/bkbkgkrkrkbkgkgkgkbkrk/).
 
 
-This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
+This was sourced from tartans-authority.  It is a [22 stripes tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1101
+Original link http://www.tartansauthority.com/tartan-ferret/display/7050/
 
 ## Thread count
 K/18 DR6 K6 N22 K6 G22 K6 G6 K6 G22 K6 N22 K6 DR6 K18 DR6 K6 G22 K6 N22 K6 N/6

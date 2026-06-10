@@ -1,13 +1,13 @@
 ---
-title: "Robertson - 1819 (Clan)"
+title: "Robertson 1819"
 date: 2023-03-18
 ---
 In pattern [RGRBRBRGRBRGR](/patterns/rgrbrbrgrbrgr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1501/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3527
 
 ## Thread count
 R/6 G6 R70 DB6 R6 DB70 R6 G70 R6 DB6 R70 G6 R/6

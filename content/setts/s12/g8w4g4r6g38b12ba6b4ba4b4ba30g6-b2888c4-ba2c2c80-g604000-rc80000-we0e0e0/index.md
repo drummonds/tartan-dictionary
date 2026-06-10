@@ -1,13 +1,13 @@
 ---
-title: "Cailean (Scotch House)"
+title: "Cailean #1 (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GBBBBBBGRGWG](/patterns/gbbbbbbgrgwg/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=460
+Original link http://www.tartansauthority.com/tartan-ferret/display/1728/
 
 ## Thread count
 T/6 DB30 B4 DB4 B4 DB6 B12 T38 R6 T4 LN4 T/8

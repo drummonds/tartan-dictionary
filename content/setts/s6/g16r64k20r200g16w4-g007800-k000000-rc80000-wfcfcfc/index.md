@@ -1,13 +1,13 @@
 ---
-title: "Chalet (Fashion)"
+title: "Chalet"
 date: 2023-03-18
 ---
 In pattern [GRKRGW](/patterns/grkrgw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4489/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=614
 
 ## Thread count
 G/16 R64 K20 R200 G16 W/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/16 R64 K20 R200 G16 W/4 tartan")
 
 ID: /setts/s6/g16r64k20r200g16w4-g007800-k000000-rc80000-wfcfcfc/
+cfcfc/

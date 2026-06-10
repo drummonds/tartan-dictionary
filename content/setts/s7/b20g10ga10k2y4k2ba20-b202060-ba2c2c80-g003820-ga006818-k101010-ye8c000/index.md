@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BGGKYKB](/patterns/bggkykb/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5835/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093
 
 ## Thread count
 DB/20 K2 Y4 K2 G10 DG10 DBa/20
@@ -30,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/20 K2 Y4 K2 G10 DG10 DBa/20 tartan")
 
 ID: /setts/s7/b20g10ga10k2y4k2ba20-b202060-ba2c2c80-g003820-ga006818-k101010-ye8c000/
-00/

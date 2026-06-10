@@ -1,13 +1,13 @@
 ---
-title: "Montrose of Alabama"
+title: "Montrose of Alabama (District)"
 date: 2023-03-18
 ---
 In pattern [KBRBKBGY](/patterns/kbrbkbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000
+Original link http://www.tartansauthority.com/tartan-ferret/display/2288/
 
 ## Thread count
 K/24 DB24 R8 DB24 K24 DB22 G24 Y/8

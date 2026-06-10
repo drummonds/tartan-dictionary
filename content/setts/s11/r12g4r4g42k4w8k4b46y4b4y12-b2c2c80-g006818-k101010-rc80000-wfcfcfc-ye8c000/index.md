@@ -1,13 +1,13 @@
 ---
-title: "Culture, The (Corporate)"
+title: "Glasgow, City of Culture"
 date: 2023-03-18
 ---
 In pattern [RGRGKWKBYBY](/patterns/rgrgkwkbyby/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1534/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1359
 
 ## Thread count
 R/12 G4 R4 G42 K4 W8 K4 DB46 Y4 DB4 Y/12

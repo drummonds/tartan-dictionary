@@ -1,13 +1,13 @@
 ---
-title: "Tait #2"
+title: "Tait #2 (Name)"
 date: 2023-03-18
 ---
 In pattern [WKRKGKBKRKGY](/patterns/wkrkgkbkrkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4064
+Original link http://www.tartansauthority.com/tartan-ferret/display/6284/
 
 ## Thread count
 W/8 K2 R4 K2 G18 K4 B48 K4 R12 K4 G24 Y/4

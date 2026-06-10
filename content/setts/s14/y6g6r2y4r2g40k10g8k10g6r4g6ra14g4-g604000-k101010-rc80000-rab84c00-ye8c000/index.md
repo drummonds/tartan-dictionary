@@ -1,13 +1,13 @@
 ---
-title: "Balnagown (Corporate)"
+title: "Balnagowan (Harrods)"
 date: 2023-03-18
 ---
 In pattern [GRGRGKGKGRYRGY](/patterns/grgrgkgkgryrgy/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5824/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=187
 
 ## Thread count
 T/4 DO14 T6 R4 T6 K10 T8 K10 T40 R2 Y4 R2 T6 Y/6
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s14/y6g6r2y4r2g40k10g8k10g6r4g6ra14g4-g604000-k101010-rc80000-rab84c00-ye8c000/
-/

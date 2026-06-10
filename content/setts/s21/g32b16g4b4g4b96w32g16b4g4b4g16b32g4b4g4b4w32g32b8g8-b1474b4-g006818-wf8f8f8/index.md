@@ -1,13 +1,13 @@
 ---
-title: "Matheson Htg Dance (Personal)"
+title: "Matheson Hunting (Crowe 1974) (Personal)"
 date: 2023-03-18
 ---
 In pattern [GBGBGBWGBGBGBGBGBWGBG](/patterns/gbgbgbwgbgbgbgbgbwgbg/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6368/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2856
 
 ## Thread count
 G/32 B16 G4 B4 G4 B96 W32 G16 B4 G4 B4 G16 B32 G4 B4 G4 B4 W32 G32 B8 G/8

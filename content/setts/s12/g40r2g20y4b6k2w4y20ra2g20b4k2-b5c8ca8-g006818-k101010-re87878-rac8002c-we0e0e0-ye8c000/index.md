@@ -1,13 +1,13 @@
 ---
-title: "Lethbridge, City of"
+title: "City of Lethbridge (District)"
 date: 2023-03-18
 ---
 In pattern [GRGYBKWYRGBK](/patterns/grgybkwyrgbk/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2107
+Original link http://www.tartansauthority.com/tartan-ferret/display/2672/
 
 ## Thread count
 G/40 LR2 G20 Y4 B6 K2 LN4 Y20 R2 G20 B4 K/2
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/g40r2g20y4b6k2w4y20ra2g20b4k2-b5c8ca8-g006818-k101010-re87878-rac8002c-we0e0e0-ye8c000/
-c000/

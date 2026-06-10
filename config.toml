@@ -2,13 +2,15 @@ baseURL = "https://www.tartandictionary.org/"
 locale = "en"
 DefaultContentLanguage = "en"
 theme = "simpleness"
-[pagination]
-pagerSize = 20
-
 title = "Tartan Dictionary"
 enableInlineShortcodes = true
 enableEmoji = true
 googleAnalytics = ""
+
+# Keep table headers below the top-level scalars: anything after a [table] line belongs to that
+# table, which once silently swallowed title & co into [pagination].
+[pagination]
+pagerSize = 20
 
 [params]
   lazyImage = true
@@ -41,8 +43,8 @@ googleAnalytics = ""
   url = "/posts/"
   weight = 2
   [[menu.main]]
-  name = "Family"
-  url = "/family/"
+  name = "Clans"
+  url = "/clan/"
   weight = 3
   [[menu.main]]
   name = "Stripe"

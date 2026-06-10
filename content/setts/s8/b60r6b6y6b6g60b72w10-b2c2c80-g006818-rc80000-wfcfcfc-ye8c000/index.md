@@ -1,13 +1,13 @@
 ---
-title: "De Nardi Hunting (Personal)"
+title: "de Nardi Htg (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRBYBGBW](/patterns/brbybgbw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=901
+Original link http://www.tartansauthority.com/tartan-ferret/display/6188/
 
 ## Thread count
 DB/60 R6 DB6 Y6 DB6 G60 DB72 W/10

@@ -1,13 +1,13 @@
 ---
-title: "Presley of Lonmay"
+title: "Presley of Lonmay (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KWKBKGY](/patterns/kwkbkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383
+Original link http://www.tartansauthority.com/tartan-ferret/display/6224/
 
 ## Thread count
 K/4 N50 K4 B16 K4 G56 Y/4

@@ -7,7 +7,7 @@ In pattern [GKGKGKGK](/patterns/gkgkgkgk/).
 
 This was sourced from weddslist.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 K/32 N2 K2 N2 K16 N32 K2 N/4

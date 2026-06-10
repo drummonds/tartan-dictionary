@@ -1,13 +1,13 @@
 ---
-title: "Caskie"
+title: "Caskie (Name)"
 date: 2023-03-18
 ---
 In pattern [WKBRGKY](/patterns/wkbrgky/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=591
+Original link http://www.tartansauthority.com/tartan-ferret/display/5894/
 
 ## Thread count
 LN/6 K2 B50 R14 G24 K2 Y/6

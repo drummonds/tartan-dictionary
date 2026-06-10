@@ -1,13 +1,13 @@
 ---
-title: "Crossbill"
+title: "Crossbill (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KRGGRGY](/patterns/krggrgy/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=814
+Original link http://www.tartansauthority.com/tartan-ferret/display/6475/
 
 ## Thread count
 K/4 LP30 T30 G30 R4 G6 Y/4
@@ -30,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/4 LP30 T30 G30 R4 G6 Y/4 tartan")
 
 ID: /setts/s7/k4r30g30ga30ra4ga6y4-g604000-ga00643c-k101010-r9c68a4-rac80000-ye8c000/
-8c000/

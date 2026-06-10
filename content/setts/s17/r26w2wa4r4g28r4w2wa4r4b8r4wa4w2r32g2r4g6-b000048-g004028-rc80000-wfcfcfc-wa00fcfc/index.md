@@ -1,13 +1,13 @@
 ---
-title: "MacDonald of Lochmaddy"
+title: "MacDonald of Lochmaddy (Clan?)"
 date: 2023-03-18
 ---
 In pattern [GRGRWWRBRWWRGRWWR](/patterns/grgrwwrbrwwrgrwwr/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2365
+Original link http://www.tartansauthority.com/tartan-ferret/display/971/
 
 ## Thread count
 DG/6 R4 DG2 R32 W2 LB4 R4 DB8 R4 LB4 W2 R4 DG28 R4 LB4 W2 R/26
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s17/r26w2wa4r4g28r4w2wa4r4b8r4wa4w2r32g2r4g6-b000048-g004028-rc80000-wfcfcfc-wa00fcfc/
-c/

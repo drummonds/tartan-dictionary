@@ -1,13 +1,13 @@
 ---
-title: "Fremont Presbyterian Church (P)"
+title: "Fremont Presbyterian Church (Corp.)"
 date: 2023-03-18
 ---
 In pattern [GYBWRKRK](/patterns/gybwrkrk/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1280
+Original link http://www.tartansauthority.com/tartan-ferret/display/7325/
 
 ## Thread count
 G/6 Y2 DB72 LN4 R24 K12 R4 K/12

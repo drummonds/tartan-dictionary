@@ -1,13 +1,13 @@
 ---
-title: "Lopez-Gasparotto (Personal)"
+title: "Lopez-Gasparotto"
 date: 2023-03-18
 ---
 In pattern [RRKBKBY](/patterns/rrkbkby/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6714/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2214
 
 ## Thread count
 R/8 N40 K40 DB8 K8 DB48 Y/8

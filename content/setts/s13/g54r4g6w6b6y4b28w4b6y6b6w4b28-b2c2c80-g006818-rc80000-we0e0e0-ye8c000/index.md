@@ -1,13 +1,13 @@
 ---
-title: "Holiday Inn Crown Plaza"
+title: "Holiday Inn (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BWBYBWBYBWGRG](/patterns/bwbybwbybwgrg/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1749
+Original link http://www.tartansauthority.com/tartan-ferret/display/2176/
 
 ## Thread count
 DB/28 LN4 DB6 Y6 DB6 LN4 DB28 Y4 DB6 LN6 G6 R4 G/54
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/g54r4g6w6b6y4b28w4b6y6b6w4b28-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/
+00/

@@ -1,13 +1,13 @@
 ---
-title: "Lachine (Historic) (District)"
+title: "Lachine Historic"
 date: 2023-03-18
 ---
 In pattern [RYWKBYW](/patterns/rywkbyw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6203/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020
 
 ## Thread count
 R/4 Y4 W28 K40 B52 LG52 W/52
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/4 Y4 W28 K40 B52 LG52 W/52 tartan")
 
 ID: /setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/
+ae8c000/

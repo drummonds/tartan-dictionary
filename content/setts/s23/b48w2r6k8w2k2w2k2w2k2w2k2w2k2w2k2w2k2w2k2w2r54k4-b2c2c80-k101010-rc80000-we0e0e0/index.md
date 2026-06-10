@@ -1,13 +1,13 @@
 ---
-title: "McCready"
+title: "McCready (Name)"
 date: 2023-03-18
 ---
 In pattern [BWRKWKWKWKWKWKWKWKWKWRK](/patterns/bwrkwkwkwkwkwkwkwkwkwrk/).
 
 
-This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5644
+Original link http://www.tartansauthority.com/tartan-ferret/display/7625/
 
 ## Thread count
 DB/48 LN2 R6 K8 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 K2 LN2 R54 K/4

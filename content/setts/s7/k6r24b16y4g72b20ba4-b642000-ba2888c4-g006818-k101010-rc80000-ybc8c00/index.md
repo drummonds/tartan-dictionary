@@ -1,13 +1,13 @@
 ---
-title: "Snelgrove Htg (Name)"
+title: "Snelgrove Hunting"
 date: 2023-03-18
 ---
 In pattern [BBGYBRK](/patterns/bbgybrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7804/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5766
 
 ## Thread count
 B/4 T20 G72 DY4 T16 R24 K/6

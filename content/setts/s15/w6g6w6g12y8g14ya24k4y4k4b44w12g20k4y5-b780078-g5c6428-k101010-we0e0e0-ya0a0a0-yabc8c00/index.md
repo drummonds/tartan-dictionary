@@ -1,13 +1,13 @@
 ---
-title: "Wexford County, Crest Range"
+title: "Wexford County Crest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [WGWGYGYKYKBWGKY](/patterns/wgwgygykykbwgky/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5323
+Original link http://www.tartansauthority.com/tartan-ferret/display/7435/
 
 ## Thread count
 LN/6 G6 LN6 G12 N8 G14 DY24 K4 N4 K4 P44 LN12 G20 K4 N/5
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 
 ID: /setts/s15/w6g6w6g12y8g14ya24k4y4k4b44w12g20k4y5-b780078-g5c6428-k101010-we0e0e0-ya0a0a0-yabc8c00/
+

@@ -1,13 +1,13 @@
 ---
-title: "Pride of Scotland Autumn"
+title: "Pride of Scotland, Autumn (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GBBGBGBGBRG](/patterns/gbbgbgbgbrg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3376
+Original link http://www.tartansauthority.com/tartan-ferret/display/6479/
 
 ## Thread count
 G/18 DB4 P4 G4 P36 G4 DB4 G2 DB38 DR66 G/4

@@ -1,13 +1,13 @@
 ---
-title: "Scotland's International - Away"
+title: "Scotland's International - Away (Fas"
 date: 2023-03-18
 ---
 In pattern [RRKWKYKWBW](/patterns/rrkwkykwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5793
+Original link http://www.tartansauthority.com/tartan-ferret/display/7841/
 
 ## Thread count
 LN/4 DB12 LB10 K32 Y4 K4 LN12 K4 DR48 R/48
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/r48ra48k4w12k4y4k32wa10b12w4-b2c2c80-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-ye8c000/
-

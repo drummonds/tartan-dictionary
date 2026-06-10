@@ -1,13 +1,13 @@
 ---
-title: "Entre Rios Province (District?)"
+title: "Entre Rios Province (Provisional"
 date: 2023-03-18
 ---
 In pattern [GWGKRW](/patterns/gwgkrw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7310/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1115
 
 ## Thread count
 G/72 LP8 G16 K58 R48 LN/14
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/72 LP8 G16 K58 R48 LN/14 tartan")
 
 ID: /setts/s6/g72w8g16k58r48wa14-g44a054-k101010-rc80000-wa8ace8-wae0e0e0/
-0e0/

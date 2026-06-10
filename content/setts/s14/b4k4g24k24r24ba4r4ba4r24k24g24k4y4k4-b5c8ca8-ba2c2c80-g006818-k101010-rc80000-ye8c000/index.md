@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BKGKRBRBRKGKYK](/patterns/bkgkrbrbrkgkyk/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6897/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568
 
 ## Thread count
 B/4 K4 G24 K24 R24 DB4 R4 DB4 R24 K24 G24 K4 Y4 K/4

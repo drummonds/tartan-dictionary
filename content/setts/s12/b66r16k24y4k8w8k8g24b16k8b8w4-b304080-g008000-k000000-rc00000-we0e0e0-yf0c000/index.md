@@ -1,5 +1,5 @@
 ---
-title: "Stewart Blue"
+title: "MacLulich"
 date: 2023-03-18
 ---
 In pattern [BRKYKWKGBKBW](/patterns/brkykwkgbkbw/).

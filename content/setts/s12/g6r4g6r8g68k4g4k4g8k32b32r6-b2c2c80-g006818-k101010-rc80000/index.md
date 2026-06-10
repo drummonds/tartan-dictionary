@@ -1,13 +1,13 @@
 ---
-title: "Park"
+title: "Park (Name)"
 date: 2023-03-18
 ---
 In pattern [GRGRGKGKGKBR](/patterns/grgrgkgkgkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3290
+Original link http://www.tartansauthority.com/tartan-ferret/display/2387/
 
 ## Thread count
 G/6 R4 G6 R8 G68 K4 G4 K4 G8 K32 DB32 R/6
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s12/g6r4g6r8g68k4g4k4g8k32b32r6-b2c2c80-g006818-k101010-rc80000/
-0/

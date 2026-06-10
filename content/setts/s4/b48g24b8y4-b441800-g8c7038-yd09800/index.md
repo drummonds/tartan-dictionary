@@ -1,13 +1,13 @@
 ---
-title: "Loch Garth (Fashion)"
+title: "Loch Garth"
 date: 2023-03-18
 ---
 In pattern [BGBY](/patterns/bgby/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1750/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2145
 
 ## Thread count
 DR/48 LT24 DR8 DY/4
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/48 LT24 DR8 DY/4 tartan")
 
 ID: /setts/s4/b48g24b8y4-b441800-g8c7038-yd09800/
+9800/

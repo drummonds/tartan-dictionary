@@ -1,13 +1,13 @@
 ---
-title: "Turnbull Hunting (1983) #2"
+title: "Turnbull Hunting (Clan)"
 date: 2023-03-18
 ---
 In pattern [KYGBW](/patterns/kygbw/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4163
+Original link http://www.tartansauthority.com/tartan-ferret/display/1265/
 
 ## Thread count
 K/12 Y6 G60 DB60 W/6

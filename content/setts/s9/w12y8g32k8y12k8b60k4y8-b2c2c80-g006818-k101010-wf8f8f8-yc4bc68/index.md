@@ -1,13 +1,13 @@
 ---
-title: "MacManus (Estimated threadcount)"
+title: "MacManus (unreliable)"
 date: 2023-03-18
 ---
 In pattern [WYGKYKBKY](/patterns/wygkykbky/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2652
+Original link http://www.tartansauthority.com/tartan-ferret/display/6753/
 
 ## Thread count
 LG/8 K4 DB60 K8 LG12 K8 G32 LG8 W/12

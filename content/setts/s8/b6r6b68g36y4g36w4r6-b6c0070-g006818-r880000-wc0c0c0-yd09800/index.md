@@ -1,13 +1,13 @@
 ---
-title: "Singh"
+title: "Singh (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BRBGYGWR](/patterns/brbgygwr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3800
+Original link http://www.tartansauthority.com/tartan-ferret/display/2600/
 
 ## Thread count
 DR/6 N4 G36 DY4 G36 P68 DR6 P/6

@@ -1,13 +1,13 @@
 ---
-title: "Chattan, Chief of Clan"
+title: "Chattan (Chief)"
 date: 2023-03-18
 ---
 In pattern [WRKWGWYRKRYWBKRYW](/patterns/wrkwgwyrkrywbkryw/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=624
+Original link http://www.tartansauthority.com/tartan-ferret/display/1852/
 
 ## Thread count
 W/4 R120 K8 W4 G64 W8 Y14 R14 K4 R14 Y14 W8 B64 K16 R16 Y24 W/8
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s17/w8y24r16k16b64w8y14r14k4r14y14w8g64w4k8r120w4-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/
+-ye8c000/

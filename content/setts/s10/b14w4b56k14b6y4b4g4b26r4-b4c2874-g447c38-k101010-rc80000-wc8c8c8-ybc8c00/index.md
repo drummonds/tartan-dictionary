@@ -1,13 +1,13 @@
 ---
-title: "Pride of the Highlands"
+title: "Pride of the Highlands (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BWBKBYBGBR](/patterns/bwbkbybgbr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5586
+Original link http://www.tartansauthority.com/tartan-ferret/display/7558/
 
 ## Thread count
 DB/14 N4 DB56 K14 DB6 DY4 DB4 G4 DB26 R/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/b14w4b56k14b6y4b4g4b26r4-b4c2874-g447c38-k101010-rc80000-wc8c8c8-ybc8c00/
-8c00/

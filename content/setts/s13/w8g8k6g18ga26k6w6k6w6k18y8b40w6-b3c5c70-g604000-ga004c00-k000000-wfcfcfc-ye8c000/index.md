@@ -1,13 +1,13 @@
 ---
-title: "Clodagh/Cork"
+title: "Clodagh (District)"
 date: 2023-03-18
 ---
 In pattern [WBYKWKWKGGKGW](/patterns/wbykwkwkggkgw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689
+Original link http://www.tartansauthority.com/tartan-ferret/display/1795/
 
 ## Thread count
 W/6 N40 Y8 K18 W6 K6 W6 K6 G26 T18 K6 T8 W/8
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/w8g8k6g18ga26k6w6k6w6k18y8b40w6-b3c5c70-g604000-ga004c00-k000000-wfcfcfc-ye8c000/
-0/

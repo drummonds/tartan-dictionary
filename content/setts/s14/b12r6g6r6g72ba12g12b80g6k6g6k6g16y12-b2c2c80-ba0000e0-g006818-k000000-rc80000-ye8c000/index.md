@@ -1,13 +1,13 @@
 ---
-title: "Princess Beatrice Hunting (MacKinlay strip)"
+title: "Princess Beatrice Htg (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BRGRGBGBGKGKGY](/patterns/brgrgbgbgkgkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400
+Original link http://www.tartansauthority.com/tartan-ferret/display/5467/
 
 ## Thread count
 DB/12 R6 G6 R6 G72 B12 G12 DB80 G6 K6 G6 K6 G16 Y/12
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s14/b12r6g6r6g72ba12g12b80g6k6g6k6g16y12-b2c2c80-ba0000e0-g006818-k000000-rc80000-ye8c000/
+c80000-ye8c000/

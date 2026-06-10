@@ -1,13 +1,13 @@
 ---
-title: "Haliburton Canadian Tartan Tartan Number: 147. Earliest known date: 1978 From Miss Sinclair. Registration number is possibly a Canadian Patent Office number. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Highlands of Haliburton"
 date: 2023-03-18
 ---
 In pattern [BGBGRBBGWBYGBRY](/patterns/bgbgrbbgwbygbry/).
 
 
-This was sourced from house-of-tartan.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=147
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1571
 
 ## Thread count
 B/12 G4 B4 G20 R8 DR16 B12 G8 LN4 B4 Y4 G4 DR8 R8 Y/4

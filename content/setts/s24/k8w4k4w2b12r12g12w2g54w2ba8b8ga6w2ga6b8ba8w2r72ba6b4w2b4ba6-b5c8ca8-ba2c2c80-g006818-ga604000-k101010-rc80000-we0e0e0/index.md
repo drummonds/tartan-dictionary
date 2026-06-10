@@ -1,13 +1,13 @@
 ---
-title: "Ross Wedding Dress"
+title: "Unnamed C18th - Wedding Dress/Shawl"
 date: 2023-03-18
 ---
 In pattern [BBWBBRWBBGWGBBWGWGRBWKWK](/patterns/bbwbbrwbbgwgbbwgwgrbwkwk/).
 
 
-This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
+This was sourced from tartans-authority.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564
+Original link http://www.tartansauthority.com/tartan-ferret/display/90/
 
 ## Thread count
 DB/6 B4 LN2 B4 DB6 R72 LN2 DB8 B8 T6 LN2 T6 B8 DB8 LN2 G54 LN2 G12 R12 B12 LN2 K4 LN4 K/8

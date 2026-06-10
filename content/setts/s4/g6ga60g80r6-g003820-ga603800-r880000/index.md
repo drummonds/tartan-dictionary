@@ -1,13 +1,13 @@
 ---
-title: "Sanix Muted (Fashion)"
+title: "Sanix Muted"
 date: 2023-03-18
 ---
 In pattern [GGGR](/patterns/gggr/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2644/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823
 
 ## Thread count
 DG/6 T60 DG80 DR/6
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/6 T60 DG80 DR/6 tartan")
 
 ID: /setts/s4/g6ga60g80r6-g003820-ga603800-r880000/
+0000/

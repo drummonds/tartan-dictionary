@@ -1,13 +1,13 @@
 ---
-title: "Canmore Highland Games Corporate Tartan Tartan Number: 10008. Earliest known date: May 2000 This tartan represents Canmore's Scottish roots, namely King Malcolm Ceann Mor and the Scots who worked the Canadian Pacific Railway and settled in this area. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Canmore Highland Games (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GBKWKBKBGKGY](/patterns/gbkwkbkbgkgy/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10008
+Original link http://www.tartansauthority.com/tartan-ferret/display/10008/
 
 ## Thread count
 G/140 DB6 K18 LN8 K8 P8 K6 DB24 G18 K8 G8 Y/8

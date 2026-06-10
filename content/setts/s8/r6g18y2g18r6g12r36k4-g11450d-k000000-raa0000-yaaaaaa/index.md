@@ -7,7 +7,7 @@ In pattern [KRGRGYGR](/patterns/krgrgygr/).
 
 This was sourced from weddslist.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DR/6 DG18 N2 DG18 DR6 DG12 DR36 K/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/6 DG18 N2 DG18 DR6 DG12 DR36 K/4 tartan")
 
 ID: /setts/s8/r6g18y2g18r6g12r36k4-g11450d-k000000-raa0000-yaaaaaa/
-aaa/

@@ -1,13 +1,13 @@
 ---
-title: "Cummins Royal Blue, B (Personal)"
+title: "Cummins Royal Blue, B (Personal) Name Tartan Tartan Number: 10729. Earliest known date: 1 November 2012 Designed by Benaiah K Cummins for himself and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKWKWKBKWBK](/patterns/bkwkwkbkwbk/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10729
 
 ## Thread count
 B/16 K10 W10 K18 W10 K10 B28 K18 W10 B10 K/18

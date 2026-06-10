@@ -1,13 +1,13 @@
 ---
-title: "Prince Edward Island, Dress"
+title: "Prince Edward Island, Dress (Distric"
 date: 2023-03-18
 ---
 In pattern [GRGRGRWRY](/patterns/grgrgrwry/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3390
+Original link http://www.tartansauthority.com/tartan-ferret/display/5475/
 
 ## Thread count
 DY/6 DR2 LN48 DR36 G8 DR4 G8 DR4 G/44

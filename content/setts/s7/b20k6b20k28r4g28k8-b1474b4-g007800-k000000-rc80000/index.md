@@ -1,13 +1,13 @@
 ---
-title: "Fletcher #2"
+title: "Fletcher (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBKRGK](/patterns/bkbkrgk/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1206
+Original link http://www.tartansauthority.com/tartan-ferret/display/257/
 
 ## Thread count
 B/20 K6 B20 K28 R4 G28 K/8
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/20 K6 B20 K28 R4 G28 K/8 tartan")
 
 ID: /setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/
+

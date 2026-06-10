@@ -1,13 +1,13 @@
 ---
-title: "MacGillivray - 1983 (Personal)"
+title: "McGillivray, Pauline (Personal)"
 date: 2023-03-18
 ---
 In pattern [BWBWGWBWBWBBW](/patterns/bwbwgwbwbwbbw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6367/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2443
 
 ## Thread count
 DB/4 W12 B2 W12 G60 W8 DB46 W4 B4 W114 DB2 B2 W/12
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s13/w12b2ba2w114b4w4ba46w8g60w12b2w12ba4-b5c8ca8-ba2c2c80-g006818-wf8f8f8/
-8f8/

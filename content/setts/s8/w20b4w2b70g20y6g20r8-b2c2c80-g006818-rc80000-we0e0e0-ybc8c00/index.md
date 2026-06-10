@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RGYGBWBW](/patterns/rgygbwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5395
+Original link http://www.tartansauthority.com/tartan-ferret/display/7145/
 
 ## Thread count
 LN/20 DB4 LN2 DB70 G20 DY6 G20 R/8

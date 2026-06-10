@@ -1,13 +1,13 @@
 ---
-title: "Fraser Gathering, Green (1997)"
+title: "Fraser Gathering, Green (Commem)"
 date: 2023-03-18
 ---
 In pattern [RBGGGBGGW](/patterns/rbgggbggw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1255
+Original link http://www.tartansauthority.com/tartan-ferret/display/2363/
 
 ## Thread count
 R/4 DB24 DG4 G22 DG8 DB10 G4 DG48 W/4

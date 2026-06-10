@@ -1,13 +1,13 @@
 ---
-title: "Glen Elg"
+title: "Glen Elg (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GGGWGGWGWGWGWGGWGWGWGG](/patterns/gggwggwgwgwgwggwgwgwgg/).
 
 
-This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
+This was sourced from tartans-authority.  It is a [22 stripes tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374
+Original link http://www.tartansauthority.com/tartan-ferret/display/5004/
 
 ## Thread count
 G/8 LG4 G128 LN4 G24 LG4 LN4 G12 LN8 Ga4 LN8 G8 LN8 Ga8 G12 LN4 Ga12 LN16 Ga4 LN16 G4 LG/8

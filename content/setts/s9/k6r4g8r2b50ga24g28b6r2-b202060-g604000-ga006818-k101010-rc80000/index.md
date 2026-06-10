@@ -1,13 +1,13 @@
 ---
-title: "Mann (Name)"
+title: "Mann"
 date: 2023-03-18
 ---
 In pattern [KRGRBGGBR](/patterns/krgrbggbr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4127/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2809
 
 ## Thread count
 K/6 R4 T8 R2 DB50 G24 T28 DB6 R/2
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
 ID: /setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/
+0/

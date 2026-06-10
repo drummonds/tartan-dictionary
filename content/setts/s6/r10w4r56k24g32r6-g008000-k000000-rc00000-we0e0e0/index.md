@@ -1,5 +1,5 @@
 ---
-title: "Nisbet"
+title: "MacKintosh 6"
 date: 2023-03-18
 ---
 In pattern [RGKRWR](/patterns/rgkrwr/).

@@ -1,13 +1,13 @@
 ---
-title: "McMoosie Htg (Fashion)"
+title: "McMoosie Htg"
 date: 2023-03-18
 ---
 In pattern [GGBRY](/patterns/ggbry/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3102/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4859
 
 ## Thread count
 T/92 G46 B46 R8 Y/8
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "T/92 G46 B46 R8 Y/8 tartan")
 
 ID: /setts/s5/g92ga46b46r8y8-b1870a4-g604000-ga00643c-rcc4438-ye8c000/
+c000/

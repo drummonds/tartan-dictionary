@@ -1,13 +1,13 @@
 ---
-title: "Los Angeles Police Bagpipe Band (Cor"
+title: "Los Angeles Police Bagpipe Band"
 date: 2023-03-18
 ---
 In pattern [RBGBBBBBBBGY](/patterns/rbgbbbbbbbgy/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5496/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2224
 
 ## Thread count
 R/4 DN12 G30 DB12 DN8 DB8 DN56 DB8 DN8 DB12 G12 Y/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/r4b12g30ba12b8ba8b56ba8b8ba12g12y4-b14283c-ba2c2c80-g006818-rc80000-ye8c000/
+

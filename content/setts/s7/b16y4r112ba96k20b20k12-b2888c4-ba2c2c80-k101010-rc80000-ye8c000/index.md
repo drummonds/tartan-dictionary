@@ -1,13 +1,13 @@
 ---
-title: "McKnight (Personal)"
+title: "McKnight #2 (Personal)"
 date: 2023-03-18
 ---
 In pattern [BYRBKBK](/patterns/byrbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6213/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2893
 
 ## Thread count
 B/16 Y4 R112 DB96 K20 B20 K/12

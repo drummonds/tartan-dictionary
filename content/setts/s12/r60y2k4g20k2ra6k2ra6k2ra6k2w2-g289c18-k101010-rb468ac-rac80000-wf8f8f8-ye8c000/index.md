@@ -1,13 +1,13 @@
 ---
-title: "Tweedmouth Middle School"
+title: "Tweedmouth Middle School (Corporate"
 date: 2023-03-18
 ---
 In pattern [RYKGKRKRKRKW](/patterns/rykgkrkrkrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167
+Original link http://www.tartansauthority.com/tartan-ferret/display/6740/
 
 ## Thread count
 P/60 Y2 K4 G20 K2 R6 K2 R6 K2 R6 K2 W/2
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/r60y2k4g20k2ra6k2ra6k2ra6k2w2-g289c18-k101010-rb468ac-rac80000-wf8f8f8-ye8c000/
-8c000/

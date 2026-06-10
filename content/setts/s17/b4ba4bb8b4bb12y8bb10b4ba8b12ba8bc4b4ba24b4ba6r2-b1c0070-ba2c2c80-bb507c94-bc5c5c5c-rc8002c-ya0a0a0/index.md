@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BBBBBYBBBBBBBBBBR](/patterns/bbbbbybbbbbbbbbbr/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7032/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1288
 
 ## Thread count
 DBa/4 DB4 B8 DBa4 B12 Na8 B10 DBa4 DB8 DBa12 DB8 N4 DBa4 DB24 DBa4 DB6 R/2
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.03 |
 
 ID: /setts/s17/b4ba4bb8b4bb12y8bb10b4ba8b12ba8bc4b4ba24b4ba6r2-b1c0070-ba2c2c80-bb507c94-bc5c5c5c-rc8002c-ya0a0a0/
-a0/

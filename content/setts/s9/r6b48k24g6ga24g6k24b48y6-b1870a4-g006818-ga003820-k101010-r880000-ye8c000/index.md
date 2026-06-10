@@ -1,13 +1,13 @@
 ---
-title: "Quinn/Mackay (Personal)"
+title: "Quinn (Personal)"
 date: 2023-03-18
 ---
 In pattern [RBKGGGKBY](/patterns/rbkgggkby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2478/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3432
 
 ## Thread count
 DR/6 B48 K24 G6 DG24 G6 K24 B48 Y/6
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/r6b48k24g6ga24g6k24b48y6-b1870a4-g006818-ga003820-k101010-r880000-ye8c000/
+0/

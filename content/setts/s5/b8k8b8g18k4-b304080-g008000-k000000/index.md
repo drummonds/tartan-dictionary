@@ -1,5 +1,5 @@
 ---
-title: "Keith Austin and Marshall"
+title: "Austin, or Keith"
 date: 2023-03-18
 ---
 In pattern [BKBGK](/patterns/bkbgk/).

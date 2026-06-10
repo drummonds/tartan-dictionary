@@ -1,13 +1,13 @@
 ---
-title: "MacLellan"
+title: "MacLellan (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKGRGKYKGRGKBK](/patterns/bkgrgkykgrgkbk/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2621
+Original link http://www.tartansauthority.com/tartan-ferret/display/323/
 
 ## Thread count
 DB/60 K32 G12 R12 G20 K8 Y8 K8 G20 R12 G12 K32 DB32 K/32

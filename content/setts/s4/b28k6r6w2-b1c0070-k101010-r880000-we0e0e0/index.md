@@ -1,13 +1,13 @@
 ---
-title: "Bacon, Blue (Fashion)"
+title: "Bacon, Blue"
 date: 2023-03-18
 ---
 In pattern [BKRW](/patterns/bkrw/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3626/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5221
 
 ## Thread count
 DB/28 K6 DR6 LN/2
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/28 K6 DR6 LN/2 tartan")
 
 ID: /setts/s4/b28k6r6w2-b1c0070-k101010-r880000-we0e0e0/
+e0e0/

@@ -1,13 +1,13 @@
 ---
-title: "MacDonald Dress"
+title: "MacDonald Dress - 1880 (Clan)"
 date: 2023-03-18
 ---
 In pattern [BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR](/patterns/brbrbrbrbrkgrgrgrgrgkwbwkrkwbwkr/).
 
 
-This was sourced from register-of-tartans.  It is a [32 stripes tartan](/stripes/stripes32/).
+This was sourced from tartans-authority.  It is a [32 stripes tartan](/stripes/stripes32/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2343
+Original link http://www.tartansauthority.com/tartan-ferret/display/1997/
 
 ## Thread count
 DB/24 R6 DB4 R2 DB16 R2 DB4 R6 DB24 R2 K24 G24 R6 G4 R2 G16 R2 G4 R6 G24 K24 LN4 DB8 LN32 K2 R8 K2 LN32 DB8 LN4 K24 R/2

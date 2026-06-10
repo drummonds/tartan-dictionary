@@ -1,13 +1,13 @@
 ---
-title: "Robertson - 1820 (White line)"
+title: "Robertson 1820 - White line"
 date: 2023-03-18
 ---
 In pattern [WGRBRBRGRBRGW](/patterns/wgrbrbrgrbrgw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1803/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3528
 
 ## Thread count
 W/2 G4 R36 DB4 R4 DB36 R4 G36 R4 DB4 R36 G4 W/2

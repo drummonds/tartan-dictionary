@@ -1,13 +1,13 @@
 ---
-title: "Tyrone, County (District)"
+title: "Tyrone, County"
 date: 2023-03-18
 ---
 In pattern [GRGRGBWBGBGR](/patterns/grgrgbwbgbgr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2264/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4178
 
 ## Thread count
 DG/6 DR18 DG4 DR16 LT28 T4 N4 T4 DG4 T14 LT12 DR/100
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 
 ID: /setts/s12/r100g12b14ga4b4w4b4g28r16ga4r18ga6-b4c3428-g8c7038-ga003820-r880000-wc0c0c0/
+0c0c0/

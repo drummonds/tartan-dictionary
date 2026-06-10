@@ -1,13 +1,13 @@
 ---
-title: "Reagan (Personal)"
+title: "Reagan (Name)"
 date: 2023-03-18
 ---
 In pattern [KGKGKGKGKY](/patterns/kgkgkgkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3472
+Original link http://www.tartansauthority.com/tartan-ferret/display/6612/
 
 ## Thread count
 K/8 G24 K6 G8 K6 G6 K72 G6 K4 Y/6
@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/k8g24k6g8k6g6k72g6k4y6-g006818-k101010-ye8c000/
+e8c000/

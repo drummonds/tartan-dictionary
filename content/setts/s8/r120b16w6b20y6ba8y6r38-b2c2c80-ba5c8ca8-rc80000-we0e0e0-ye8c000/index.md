@@ -1,13 +1,13 @@
 ---
-title: "Princess Elizabeth Royal Family Tartan Tartan Number: 1444. Earliest known date: pre 2003 Also Earl of Inverness See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Princess Elizabeth #2"
 date: 2023-03-18
 ---
 In pattern [RBWBYBYR](/patterns/rbwbybyr/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1444
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3403
 
 ## Thread count
 R/120 DB16 LN6 DB20 Y6 B8 Y6 R/38

@@ -1,13 +1,13 @@
 ---
-title: "Bannockbane Tan"
+title: "Bannockbane, Tan (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BYBWYBYB](/patterns/bybwybyb/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206
+Original link http://www.tartansauthority.com/tartan-ferret/display/669/
 
 ## Thread count
 B/8 Y4 B26 LN26 Y2 DR26 Y4 DR/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/8 Y4 B26 LN26 Y2 DR26 Y4 DR/8 tartan")
 
 ID: /setts/s8/b8y4b26w26y2ba26y4ba8-b2888c4-ba441800-we0e0e0-ye8c000/
-8c000/

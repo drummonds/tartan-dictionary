@@ -1,13 +1,13 @@
 ---
-title: "Ruxton Htg (Name)"
+title: "Ruxton Hunting"
 date: 2023-03-18
 ---
 In pattern [RWRWRBRWRYBKBRYR](/patterns/rwrwrbrwrybkbryr/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2379/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627
 
 ## Thread count
 DR/32 LN2 DR2 LN6 DR4 DB8 DR30 LN2 DR2 Y6 DB32 K2 DB4 DR16 Y2 DR/34
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s16/r34y2r16b4k2b32y6r2w2r30b8r4w6r2w2r32-b2c2c80-k101010-r901c38-we0e0e0-ye8c000/
-

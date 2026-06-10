@@ -1,13 +1,13 @@
 ---
-title: "MacAulay of Lewis"
+title: "MacAulay of Lewis (Clan)"
 date: 2023-03-18
 ---
 In pattern [GKRKGKGW](/patterns/gkrkgkgw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2287
+Original link http://www.tartansauthority.com/tartan-ferret/display/6286/
 
 ## Thread count
 G/12 K32 R6 K32 G56 K8 G24 W/6

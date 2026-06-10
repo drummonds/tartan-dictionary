@@ -1,13 +1,13 @@
 ---
-title: "MacGibboney Clan/Family Tartan Tartan Number: 2693. Earliest known date: June 2000 Designed by the late Donald Suttie Smith of Heraldic Graphics, Glasgow for Greg McGibonney of Fremont CA - descendant of a Scottish family that moved to the USA via Ireland in the 1760s. It is found in Pennsylvania, North Carolina, and Highlands of Tennessee. The tartan may be used by anyone of the name or its variants. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacGiboney/MacGibboney"
 date: 2023-03-18
 ---
 In pattern [KBWBKRKYKRKGWGK](/patterns/kbwbkrkykrkgwgk/).
 
 
-This was sourced from house-of-tartan.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2693
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2438
 
 ## Thread count
 K/4 DB8 LN4 DB38 K4 N20 K2 Y4 K2 N20 K4 G38 LN4 G8 K/4

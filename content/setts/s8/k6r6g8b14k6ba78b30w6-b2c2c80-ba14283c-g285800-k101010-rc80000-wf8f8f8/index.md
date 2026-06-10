@@ -1,13 +1,13 @@
 ---
-title: "American National"
+title: "American National (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KRGBKBBW](/patterns/krgbkbbw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=70
+Original link http://www.tartansauthority.com/tartan-ferret/display/6882/
 
 ## Thread count
 K/6 R6 G8 DB14 K6 DN78 DB30 W/6
@@ -30,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 R6 G8 DB14 K6 DN78 DB30 W/6 tartan")
 
 ID: /setts/s8/k6r6g8b14k6ba78b30w6-b2c2c80-ba14283c-g285800-k101010-rc80000-wf8f8f8/
-f8f8f8/

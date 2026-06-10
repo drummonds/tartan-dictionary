@@ -1,13 +1,13 @@
 ---
-title: "Papua New Guinea"
+title: "Papua New Guinea (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GYRKW](/patterns/gyrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5406
+Original link http://www.tartansauthority.com/tartan-ferret/display/7235/
 
 ## Thread count
 G/6 Y10 R28 K72 LN/6
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/6 Y10 R28 K72 LN/6 tartan")
 
 ID: /setts/s5/g6y10r28k72w6-g006818-k101010-rc80000-we0e0e0-ye8c000/
-e8c000/

@@ -11,6 +11,11 @@
       <a href="{{ .URL }}"> {{ .Name }}</a>
       {{ end }}
     </div>
+    <div class="nav-item nav-search" id="site-search">
+      <input type="search" placeholder="Clan, family or sept…" aria-label="Search clans, families and septs"
+             autocomplete="off" spellcheck="false">
+      <ul class="search-results" hidden></ul>
+    </div>
   </div>
   <div class="nav-item nav-right fontawesome">
     {{ if .Site.Params.social.twitter }}

@@ -1,13 +1,13 @@
 ---
-title: "Discover Islay"
+title: "Discover Islay (District)"
 date: 2023-03-18
 ---
 In pattern [BGBBYB](/patterns/bgbbyb/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5685
+Original link http://www.tartansauthority.com/tartan-ferret/display/7683/
 
 ## Thread count
 P/8 G76 DB24 P80 Y4 P/24

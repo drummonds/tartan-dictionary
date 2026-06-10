@@ -1,13 +1,13 @@
 ---
-title: "Thirkill"
+title: "Thirkill (Name)"
 date: 2023-03-18
 ---
 In pattern [WKRKRGGKY](/patterns/wkrkrggky/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4101
+Original link http://www.tartansauthority.com/tartan-ferret/display/4015/
 
 ## Thread count
 LN/8 K4 R30 K4 R10 G14 DG14 K4 Y/8

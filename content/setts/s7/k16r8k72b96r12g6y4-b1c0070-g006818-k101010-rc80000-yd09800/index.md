@@ -1,13 +1,13 @@
 ---
-title: "Royal Marines Condor (Military)"
+title: "Royal Marines Condor"
 date: 2023-03-18
 ---
 In pattern [KRKBRGY](/patterns/krkbrgy/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2330/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3602
 
 ## Thread count
 DY/4 G6 R12 DB96 K72 R8 K/16

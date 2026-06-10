@@ -1,13 +1,13 @@
 ---
-title: "Chakraa (Fashion)"
+title: "Chakraa"
 date: 2023-03-18
 ---
 In pattern [KBGKGKGYKGK](/patterns/kbgkgkgykgk/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3862/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5242
 
 ## Thread count
 K/14 B76 G14 K4 G14 K4 G14 LT42 K6 G8 K/6
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.21 |
 
 ID: /setts/s11/k14b76g14k4g14k4g14y42k6g8k6-b2888c4-g006818-k101010-ya08858/
+8858/

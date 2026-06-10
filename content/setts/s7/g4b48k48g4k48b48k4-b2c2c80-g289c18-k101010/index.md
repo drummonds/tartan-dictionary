@@ -1,13 +1,13 @@
 ---
-title: "Marchmont Personal Tartan Tartan Number: 2521. Earliest known date: 1997 Designed by Keith Lumsden of Scottish Tartans Society. A tartan for personal blankets and clothing. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Marchmont (Personal)"
 date: 2023-03-18
 ---
 In pattern [GBKGKBK](/patterns/gbkgkbk/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2521
+Original link http://www.tartansauthority.com/tartan-ferret/display/2521/
 
 ## Thread count
 G/4 DB48 K48 G4 K48 DB48 K/4

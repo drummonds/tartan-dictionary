@@ -1,13 +1,13 @@
 ---
-title: "Glenmore, Pink (Fashion)"
+title: "Glenmore Pink"
 date: 2023-03-18
 ---
 In pattern [WBRBWBRRKRW](/patterns/wbrbwbrrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5042/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1429
 
 ## Thread count
 LY/60 K24 Na3 K5 LY3 K5 N16 Na8 Ka3 Na6 LY/4

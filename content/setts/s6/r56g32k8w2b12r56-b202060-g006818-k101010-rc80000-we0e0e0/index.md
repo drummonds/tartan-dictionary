@@ -1,13 +1,13 @@
 ---
-title: "Sinclair (Clan)"
+title: "Sinclair (Logan)"
 date: 2023-03-18
 ---
 In pattern [RBWKGR](/patterns/rbwkgr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1436/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3791
 
 ## Thread count
 R/56 DB12 LN2 K8 G32 R/56

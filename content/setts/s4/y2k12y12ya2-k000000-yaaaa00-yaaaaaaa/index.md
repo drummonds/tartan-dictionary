@@ -7,7 +7,7 @@ In pattern [YKYY](/patterns/ykyy/).
 
 This was sourced from weddslist.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 LG/2 K12 LG12 N/2
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LG/2 K12 LG12 N/2 tartan")
 
 ID: /setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/
+aaa/

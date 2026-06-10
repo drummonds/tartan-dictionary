@@ -1,13 +1,13 @@
 ---
-title: "Model T Ford"
+title: "Model T Ford (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KBKBKYKRKW](/patterns/kbkbkykrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5521
+Original link http://www.tartansauthority.com/tartan-ferret/display/7479/
 
 ## Thread count
 K/8 DB32 K6 DB6 K64 DY14 K6 R20 K4 LN/8

@@ -1,13 +1,13 @@
 ---
-title: "Finlaggan (District)"
+title: "Finlaggan"
 date: 2023-03-18
 ---
 In pattern [GRBGWG](/patterns/grbgwg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2564/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1183
 
 ## Thread count
 DG/14 LN2 DG36 DB12 R36 DG/4

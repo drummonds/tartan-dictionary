@@ -1,13 +1,13 @@
 ---
-title: "MacBride"
+title: "MacBride (Clan)"
 date: 2023-03-18
 ---
 In pattern [YGKBKBKGBGKGY](/patterns/ygkbkbkgbgkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2303
+Original link http://www.tartansauthority.com/tartan-ferret/display/2144/
 
 ## Thread count
 DY/6 G30 K30 DB30 K4 DB30 K30 G30 P6 G30 K30 G30 DY/6

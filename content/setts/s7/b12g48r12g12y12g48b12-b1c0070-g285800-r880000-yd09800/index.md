@@ -1,13 +1,13 @@
 ---
-title: "Justus Htg (Personal)"
+title: "Justus Hunting (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGRGYGB](/patterns/bgrgygb/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2499/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1921
 
 ## Thread count
 DB/12 G48 DR12 G12 DY12 G48 DB/12

@@ -1,13 +1,13 @@
 ---
-title: "Lloyd of Astargus"
+title: "Lloyd of Astargus (Name)"
 date: 2023-03-18
 ---
 In pattern [RBKWRY](/patterns/rbkwry/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2139
+Original link http://www.tartansauthority.com/tartan-ferret/display/5771/
 
 ## Thread count
 DY/4 N40 LN4 K26 DB122 R/4
@@ -30,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/4 N40 LN4 K26 DB122 R/4 tartan")
 
 ID: /setts/s6/r4b122k26w4ra40y4-b2c2c80-k101010-rc80000-ra888888-we0e0e0-ybc8c00/
-0/

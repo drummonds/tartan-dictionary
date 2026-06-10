@@ -1,13 +1,13 @@
 ---
-title: "South Aiken Presbyterian Church"
+title: "South Aiken Presby Church (Corporate"
 date: 2023-03-18
 ---
 In pattern [YBWBGY](/patterns/ybwbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5716
+Original link http://www.tartansauthority.com/tartan-ferret/display/7732/
 
 ## Thread count
 LG/60 G6 B4 LB4 B60 O/8

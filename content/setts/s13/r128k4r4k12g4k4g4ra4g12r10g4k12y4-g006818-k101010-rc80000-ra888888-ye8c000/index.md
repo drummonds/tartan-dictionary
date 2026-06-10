@@ -1,13 +1,13 @@
 ---
-title: "Melrose"
+title: "Melrose (District)"
 date: 2023-03-18
 ---
 In pattern [RKRKGKGRGRGKY](/patterns/rkrkgkgrgrgky/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5155
+Original link http://www.tartansauthority.com/tartan-ferret/display/3926/
 
 ## Thread count
 R/128 K4 R4 K12 G4 K4 G4 N4 G12 R10 G4 K12 Y/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/r128k4r4k12g4k4g4ra4g12r10g4k12y4-g006818-k101010-rc80000-ra888888-ye8c000/
-8c000/

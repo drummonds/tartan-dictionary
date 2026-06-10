@@ -1,13 +1,13 @@
 ---
-title: "Embrace (Fashion)"
+title: "Embrace, The"
 date: 2023-03-18
 ---
 In pattern [BRBRBWRB](/patterns/brbrbwrb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4811/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108
 
 ## Thread count
 DB/20 DR48 DB8 DR6 DB48 W4 DR12 DB/12
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/20 DR48 DB8 DR6 DB48 W4 DR12 DB/12 tartan")
 
 ID: /setts/s8/b20r48b8r6b48w4r12b12-b000088-r8c0000-wfcfcfc/
+

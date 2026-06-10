@@ -1,5 +1,5 @@
 ---
-title: "Robertson Hunting #2"
+title: "Robertson Hunting (MacGregor-Hastie)"
 date: 2023-03-18
 ---
 In pattern [BKGKRKGKBW](/patterns/bkgkrkgkbw/).
@@ -7,7 +7,7 @@ In pattern [BKGKRKGKBW](/patterns/bkgkrkgkbw/).
 
 This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3533
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3534
 
 ## Thread count
 B/36 K20 G18 K4 R4 K4 G18 K20 B18 LN/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 
 ID: /setts/s10/b36k20g18k4r4k4g18k20b18w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/
-dc0000-we0e0e0/

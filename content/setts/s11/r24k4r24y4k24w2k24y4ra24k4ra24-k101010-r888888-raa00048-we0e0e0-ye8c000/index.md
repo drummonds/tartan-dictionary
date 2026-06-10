@@ -1,13 +1,13 @@
 ---
-title: "Wells Red, Greg (Personal)"
+title: "Wells, Greg # 1 (Personal)"
 date: 2023-03-18
 ---
 In pattern [RKRYKWKYRKR](/patterns/rkrykwkyrkr/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594
+Original link http://www.tartansauthority.com/tartan-ferret/display/6511/
 
 ## Thread count
 N/24 K4 N24 Y4 K24 LN2 K24 Y4 R24 K4 R/24

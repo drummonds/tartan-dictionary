@@ -1,13 +1,13 @@
 ---
-title: "Bacon, Red"
+title: "Bacon, Red (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RKGW](/patterns/rkgw/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5148
+Original link http://www.tartansauthority.com/tartan-ferret/display/3627/
 
 ## Thread count
 DR/28 K6 DG6 LN/2

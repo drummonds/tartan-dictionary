@@ -1,13 +1,13 @@
 ---
-title: "Miyuki"
+title: "Miyuki #1 (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BYBRBYBYBR](/patterns/bybrbybybr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2967
+Original link http://www.tartansauthority.com/tartan-ferret/display/2587/
 
 ## Thread count
 DB/80 DY2 DB2 R18 DB2 DY2 DB12 DY2 DB2 R/18

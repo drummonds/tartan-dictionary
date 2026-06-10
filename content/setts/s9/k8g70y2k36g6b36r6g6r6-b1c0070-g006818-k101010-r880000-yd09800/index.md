@@ -1,13 +1,13 @@
 ---
-title: "John.W.Mackay Family Tartan Tartan Number: 2283. Earliest known date: 1996 Designed for a John MacKay when he retired from the Post Office. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Mackay, John W. (Personal)"
 date: 2023-03-18
 ---
 In pattern [KGYKGBRGR](/patterns/kgykgbrgr/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2283
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2505
 
 ## Thread count
 DR/6 G6 DR6 DB36 G6 K36 DY2 G70 K/8

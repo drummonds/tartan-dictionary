@@ -1,13 +1,13 @@
 ---
-title: "St. Giles Cathedral (Corporate)"
+title: "St. Giles Cathedral"
 date: 2023-03-18
 ---
 In pattern [BBWBWR](/patterns/bbwbwr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3220/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4970
 
 ## Thread count
 DB/8 N8 Na4 N72 Na8 DR/8

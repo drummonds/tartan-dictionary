@@ -1,13 +1,13 @@
 ---
-title: "Fraser - 1842 (Clan)"
+title: "Fraser (1745)"
 date: 2023-03-18
 ---
 In pattern [RBRGRW](/patterns/rbrgrw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1424/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1247
 
 ## Thread count
 R/4 DB24 R4 G24 R48 W/2

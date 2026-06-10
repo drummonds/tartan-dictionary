@@ -1,13 +1,13 @@
 ---
-title: "Moffat (1984)"
+title: "Moffat (Clan)"
 date: 2023-03-18
 ---
 In pattern [KRKRKRR](/patterns/krkrkrr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2975
+Original link http://www.tartansauthority.com/tartan-ferret/display/1129/
 
 ## Thread count
 K/78 N6 K6 N6 K28 N56 R/6
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/78 N6 K6 N6 K28 N56 R/6 tartan")
 
 ID: /setts/s7/k78r6k6r6k28r56ra6-k101010-r888888-rac80000/
+00/

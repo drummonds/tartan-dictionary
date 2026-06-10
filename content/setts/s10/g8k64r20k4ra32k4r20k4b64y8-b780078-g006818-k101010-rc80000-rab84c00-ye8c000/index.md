@@ -1,13 +1,13 @@
 ---
-title: "Tribal #2"
+title: "Tribal (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GKRKRKRKBY](/patterns/gkrkrkrkby/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150
+Original link http://www.tartansauthority.com/tartan-ferret/display/5886/
 
 ## Thread count
 G/8 K64 R20 K4 DO32 K4 R20 K4 P64 Y/8
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/g8k64r20k4ra32k4r20k4b64y8-b780078-g006818-k101010-rc80000-rab84c00-ye8c000/
-000/

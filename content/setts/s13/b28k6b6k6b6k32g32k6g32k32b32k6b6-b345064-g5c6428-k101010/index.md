@@ -1,13 +1,13 @@
 ---
-title: "Campbell"
+title: "Campbell (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKGKBKB](/patterns/bkbkbkgkgkbkb/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=502
+Original link http://www.tartansauthority.com/tartan-ferret/display/1/
 
 ## Thread count
 N/6 K6 N32 K32 G32 K6 G32 K32 N6 K6 N6 K6 N/28

@@ -1,13 +1,13 @@
 ---
-title: "Westwood MacBrick"
+title: "Westwood MacBrick (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KRKRWRKRKRKRW](/patterns/krkrwrkrkrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5526
+Original link http://www.tartansauthority.com/tartan-ferret/display/7485/
 
 ## Thread count
 K/22 R4 K22 R40 LN4 R40 K14 R2 K14 R2 K14 R22 LN/2

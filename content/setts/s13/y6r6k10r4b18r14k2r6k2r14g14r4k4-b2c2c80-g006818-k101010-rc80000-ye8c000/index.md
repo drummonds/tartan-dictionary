@@ -1,13 +1,13 @@
 ---
-title: "Prince Charles Edward (Edinburgh)"
+title: "Albany (Artefact?)"
 date: 2023-03-18
 ---
 In pattern [KRGRKRKRBRKRY](/patterns/krgrkrkrbrkry/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4422
+Original link http://www.tartansauthority.com/tartan-ferret/display/1170/
 
 ## Thread count
 K/4 R4 G14 R14 K2 R6 K2 R14 DB18 R4 K10 R6 Y/6
@@ -25,6 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/y6r6k10r4b18r14k2r6k2r14g14r4k4-b2c2c80-g006818-k101010-rc80000-ye8c000/
-code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
+e> | 0.00 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/y6r6k10r4b18r14k2r6k2r14g14r4k4-b2c2c80-g006818-k101010-rc80000-ye8c000/

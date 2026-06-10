@@ -1,13 +1,13 @@
 ---
-title: "Dogwood"
+title: "Dogwood (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGWBRGBG](/patterns/bgwbrgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943
+Original link http://www.tartansauthority.com/tartan-ferret/display/913/
 
 ## Thread count
 G/16 K40 G40 LT24 K4 LY104 G8 K/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/16 K40 G40 LT24 K4 LY104 G8 K/4 tartan")
 
 ID: /setts/s8/g16b40g40r24b4w104g8b4-b381c0c-g004800-rb07430-wf8f4d0/
-f4d0/

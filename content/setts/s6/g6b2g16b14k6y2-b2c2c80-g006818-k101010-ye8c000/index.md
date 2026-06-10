@@ -1,13 +1,13 @@
 ---
-title: "Trafalger Trade Tartan Tartan Number: 720. Earliest known date: pre 2003 per A.C. Lumsden. A Canadian 'Fancy'. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Trafalgar (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GBGBKY](/patterns/gbgbky/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=720
+Original link http://www.tartansauthority.com/tartan-ferret/display/720/
 
 ## Thread count
 G/6 DB2 G16 DB14 K6 Y/2

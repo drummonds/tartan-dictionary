@@ -1,13 +1,13 @@
 ---
-title: "Heritage of Scotland"
+title: "Heritage of Scotland (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKBKBWB](/patterns/bkbkbwb/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1695
+Original link http://www.tartansauthority.com/tartan-ferret/display/7300/
 
 ## Thread count
 DB/12 W6 DB42 K32 P12 K6 P/12
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/12 W6 DB42 K32 P12 K6 P/12 tartan")
 
 ID: /setts/s7/b12w6b42k32ba12k6ba12-b2c2c80-ba780078-k101010-wf8f8f8/
-f8f8/

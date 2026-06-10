@@ -1,5 +1,5 @@
 ---
-title: "Spare #2"
+title: "Spare"
 date: 2023-03-18
 ---
 In pattern [RW](/patterns/rw/).
@@ -7,7 +7,7 @@ In pattern [RW](/patterns/rw/).
 
 This was sourced from register-of-tartans.  It is a [2 stripes tartan](/stripes/stripes2/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3854
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3853
 
 ## Thread count
 LN/5 R/5

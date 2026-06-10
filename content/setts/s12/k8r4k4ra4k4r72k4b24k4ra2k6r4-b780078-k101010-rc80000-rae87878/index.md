@@ -1,13 +1,13 @@
 ---
-title: "Red Hatters United"
+title: "Ruby Ramblers Red Hat (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KRKRKRKBKRKR](/patterns/krkrkrkbkrkr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478
+Original link http://www.tartansauthority.com/tartan-ferret/display/7177/
 
 ## Thread count
 K/8 R4 K4 LR4 K4 R72 K4 P24 K4 LR2 K6 R/4
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s12/k8r4k4ra4k4r72k4b24k4ra2k6r4-b780078-k101010-rc80000-rae87878/
--rae87878/

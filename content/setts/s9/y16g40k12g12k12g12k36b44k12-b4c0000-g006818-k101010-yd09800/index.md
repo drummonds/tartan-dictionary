@@ -1,13 +1,13 @@
 ---
-title: "Martin (Name)"
+title: "Martin"
 date: 2023-03-18
 ---
 In pattern [KBKGKGKGY](/patterns/kbkgkgkgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1207/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2841
 
 ## Thread count
 DY/16 G40 K12 G12 K12 G12 K36 DR44 K/12
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s9/y16g40k12g12k12g12k36b44k12-b4c0000-g006818-k101010-yd09800/
+0/

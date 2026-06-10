@@ -1,13 +1,13 @@
 ---
-title: "Sunart Saphire"
+title: "Sunart, Saphire (Dance)"
 date: 2023-03-18
 ---
 In pattern [RBGWBWBWBRBR](/patterns/rbgwbwbwbrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5613
+Original link http://www.tartansauthority.com/tartan-ferret/display/7589/
 
 ## Thread count
 R/6 DB2 DG2 W64 DB4 W4 DB4 W4 DB40 LR40 DB2 R/6
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s12/r6b2ra40b40w4b4w4b4w64g2b2r6-b2c2c80-g003820-rc8002c-rae87878-wf0e0c8/
-0c8/

@@ -1,13 +1,13 @@
 ---
-title: "Thompson, D.C. (Personal)"
+title: "Thompson (Personal)"
 date: 2023-03-18
 ---
 In pattern [KBRWRW](/patterns/kbrwrw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4113
+Original link http://www.tartansauthority.com/tartan-ferret/display/2484/
 
 ## Thread count
 K/8 B56 R12 LN24 R24 LN/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 B56 R12 LN24 R24 LN/6 tartan")
 
 ID: /setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/
+-we0e0e0/

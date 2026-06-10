@@ -1,13 +1,13 @@
 ---
-title: "Ridgeback (Corporate)"
+title: "Ridgeback"
 date: 2023-03-18
 ---
 In pattern [BGBGBRGKRGRG](/patterns/bgbgbrgkrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7807/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5767
 
 ## Thread count
 DB/4 G4 DB4 G4 DB4 T24 G18 K2 T48 G6 T12 G/148

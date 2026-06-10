@@ -7,7 +7,7 @@ In pattern [BRBYKRYRYRKYBY](/patterns/brbykryryrkyby/).
 
 This was sourced from weddslist.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 B/8 DR2 B8 LG2 K2 DR12 N2 DR8 N2 DR12 K2 LG2 B8 N/2

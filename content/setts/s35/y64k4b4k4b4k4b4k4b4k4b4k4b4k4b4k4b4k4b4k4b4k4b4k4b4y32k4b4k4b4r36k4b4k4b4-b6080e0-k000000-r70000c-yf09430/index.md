@@ -1,13 +1,13 @@
 ---
-title: "Coulin (Fashion)"
+title: "Coulin"
 date: 2023-03-18
 ---
 In pattern [BKBKRBKBKYBKBKBKBKBKBKBKBKBKBKBKBKY](/patterns/bkbkrbkbkybkbkbkbkbkbkbkbkbkbkbkbky/).
 
 
-This was sourced from tartans-authority.  It is a [35 stripes tartan](/stripes/stripes35/).
+This was sourced from register-of-tartans.  It is a [35 stripes tartan](/stripes/stripes35/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4593/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775
 
 ## Thread count
 B/4 K4 B4 K4 DR36 B4 K4 B4 K4 Y32 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 Y/64

@@ -1,13 +1,13 @@
 ---
-title: "Bargain Booze (Corporate)"
+title: "Bargain Booze"
 date: 2023-03-18
 ---
 In pattern [KWKWKWK](/patterns/kwkwkwk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5358/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=216
 
 ## Thread count
 K/6 N4 K4 N36 K10 N12 K/150
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 N4 K4 N36 K10 N12 K/150 tartan")
 
 ID: /setts/s7/k150w12k10w36k4w4k6-k101010-wc0c0c0/
+wc0c0c0/

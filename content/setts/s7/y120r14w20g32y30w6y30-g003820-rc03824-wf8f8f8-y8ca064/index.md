@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [YRWGYWY](/patterns/yrwgywy/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904
+Original link http://www.tartansauthority.com/tartan-ferret/display/7074/
 
 ## Thread count
 LT/120 R14 W20 DG32 LT30 W6 LT/30
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LT/120 R14 W20 DG32 LT30 W6 LT/30 tartan")
 
 ID: /setts/s7/y120r14w20g32y30w6y30-g003820-rc03824-wf8f8f8-y8ca064/
+4/

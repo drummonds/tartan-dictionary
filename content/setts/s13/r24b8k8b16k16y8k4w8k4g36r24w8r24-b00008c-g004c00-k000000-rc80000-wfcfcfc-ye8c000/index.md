@@ -1,13 +1,13 @@
 ---
-title: "Christie"
+title: "Christie (Clan)"
 date: 2023-03-18
 ---
 In pattern [RBKBKYKWKGRWR](/patterns/rbkbkykwkgrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=648
+Original link http://www.tartansauthority.com/tartan-ferret/display/1355/
 
 ## Thread count
 R/24 DB8 K8 DB16 K16 Y8 K4 W8 K4 G36 R24 W8 R/24
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/r24b8k8b16k16y8k4w8k4g36r24w8r24-b00008c-g004c00-k000000-rc80000-wfcfcfc-ye8c000/
-00/

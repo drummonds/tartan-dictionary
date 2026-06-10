@@ -1,13 +1,13 @@
 ---
-title: "Weathered Cyclist"
+title: "Weathered Cyclist Commemorative Tartan Tartan Number: 10732. Earliest known date: 6 November 2012 Designed for The Tartan Ride, a charity cycling event. Once woven, this tartan is for all to wear, however the design as an entity may not be used without the designer's express permission. The design is the intellectual property of Ali Campbell and is a device of The Tartan Ride. Any use of the design must be authorised by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GWGYGYR](/patterns/gwgygyr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10732
 
 ## Thread count
 DR/2 LT42 G24 Y4 G18 W4 G/64

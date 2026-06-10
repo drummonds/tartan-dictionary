@@ -1,13 +1,13 @@
 ---
-title: "Fitzsimmons"
+title: "Fitzsimmons Hunting (Name)"
 date: 2023-03-18
 ---
 In pattern [GKGKGKRKGY](/patterns/gkgkgkrkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201
+Original link http://www.tartansauthority.com/tartan-ferret/display/7266/
 
 ## Thread count
 LG/6 LT4 K8 T12 K8 LT30 K8 DG36 K4 LT/6
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#8C5818;"><span style="color:#8C5818;filter:grayscale(1) invert(1) contrast(100);">#8C5818</span></code> `#8C5818` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.15 |
 
 ID: /setts/s10/g6k4ga36k8g30k8r12k8g4y6-g886c34-ga003820-k101010-r8c5818-ybcac6c/
-8-ybcac6c/

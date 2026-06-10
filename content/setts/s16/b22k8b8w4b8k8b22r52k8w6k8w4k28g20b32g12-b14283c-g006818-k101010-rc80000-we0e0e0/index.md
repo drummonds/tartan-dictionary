@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BKBWBKBRKWKWKGBG](/patterns/bkbwbkbrkwkwkgbg/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5843/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4031
 
 ## Thread count
 DN/22 K8 DN8 LN4 DN8 K8 DN22 R52 K8 LN6 K8 LN4 K28 G20 DN32 G/12

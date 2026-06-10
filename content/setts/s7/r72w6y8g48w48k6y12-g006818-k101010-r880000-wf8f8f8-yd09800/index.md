@@ -1,13 +1,13 @@
 ---
-title: "MacLachlan Dress"
+title: "MacLachlan Dress (Dance)"
 date: 2023-03-18
 ---
 In pattern [RWYGWKY](/patterns/rwygwky/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2587
+Original link http://www.tartansauthority.com/tartan-ferret/display/828/
 
 ## Thread count
 DR/72 W6 DY8 G48 W48 K6 DY/12
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/72 W6 DY8 G48 W48 K6 DY/12 tartan")
 
 ID: /setts/s7/r72w6y8g48w48k6y12-g006818-k101010-r880000-wf8f8f8-yd09800/
-0/

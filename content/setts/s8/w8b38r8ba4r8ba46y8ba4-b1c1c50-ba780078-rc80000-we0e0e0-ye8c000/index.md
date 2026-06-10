@@ -1,13 +1,13 @@
 ---
-title: "Brigadoon (Fashion)"
+title: "Brigadoon"
 date: 2023-03-18
 ---
 In pattern [BYBRBRBW](/patterns/bybrbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7349/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5463
 
 ## Thread count
 LN/8 DB38 R8 P4 R8 P46 Y8 P/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/8 DB38 R8 P4 R8 P46 Y8 P/4 tartan")
 
 ID: /setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/
+c000/

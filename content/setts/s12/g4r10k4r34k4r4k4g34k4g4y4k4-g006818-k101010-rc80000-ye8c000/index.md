@@ -1,13 +1,13 @@
 ---
-title: "Hampson"
+title: "Hampson (Name)"
 date: 2023-03-18
 ---
 In pattern [GRKRKRKGKGYK](/patterns/grkrkrkgkgyk/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5806
+Original link http://www.tartansauthority.com/tartan-ferret/display/7855/
 
 ## Thread count
 G/4 R10 K4 R34 K4 R4 K4 G34 K4 G4 Y4 K/4
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/g4r10k4r34k4r4k4g34k4g4y4k4-g006818-k101010-rc80000-ye8c000/
-0/

@@ -1,13 +1,13 @@
 ---
-title: "Gillies (Lochcarron) (Clan)"
+title: "Gillies"
 date: 2023-03-18
 ---
 In pattern [BKGRGKYKGRGKBK](/patterns/bkgrgkykgrgkbk/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/324/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1340
 
 ## Thread count
 DB/88 K15 G9 R12 G20 K3 Y8 K6 G20 R12 G9 K15 DB24 K/36
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s14/b88k15g9r12g20k3y8k6g20r12g9k15b24k36-b2c2c80-g006818-k101010-rc80000-ye8c000/
+80000-ye8c000/

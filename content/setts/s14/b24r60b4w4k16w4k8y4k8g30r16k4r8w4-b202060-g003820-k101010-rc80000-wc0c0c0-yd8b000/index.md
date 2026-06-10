@@ -1,13 +1,13 @@
 ---
-title: "Brown of Castledean"
+title: "Brown of Castledean (Artefact)"
 date: 2023-03-18
 ---
 In pattern [BRBWKWKYKGRKRW](/patterns/brbwkwkykgrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5130
+Original link http://www.tartansauthority.com/tartan-ferret/display/3738/
 
 ## Thread count
 DB/24 R60 DB4 N4 K16 N4 K8 Y4 K8 DG30 R16 K4 R8 N/4

@@ -1,13 +1,13 @@
 ---
-title: "Timespan (MacKay) Corporate Tartan Tartan Number: 1002. Earliest known date: 1989 Based on MacKay of Strathnaver for 'Timespan Heritage Centre' at Helmsdale See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Timespan (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GRKRR](/patterns/grkrr/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1002
+Original link http://www.tartansauthority.com/tartan-ferret/display/1002/
 
 ## Thread count
 G/36 R6 K36 R6 N/36

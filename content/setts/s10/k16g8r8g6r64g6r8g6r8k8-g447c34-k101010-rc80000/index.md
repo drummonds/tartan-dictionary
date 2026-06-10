@@ -1,13 +1,13 @@
 ---
-title: "MacDonald of Clanranald - 1914"
+title: "MacDonald of Belfinlay"
 date: 2023-03-18
 ---
 In pattern [KGRGRGRGRK](/patterns/kgrgrgrgrk/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4559/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2357
 
 ## Thread count
 K/16 G8 R8 G6 R64 G6 R8 G6 R8 K/8

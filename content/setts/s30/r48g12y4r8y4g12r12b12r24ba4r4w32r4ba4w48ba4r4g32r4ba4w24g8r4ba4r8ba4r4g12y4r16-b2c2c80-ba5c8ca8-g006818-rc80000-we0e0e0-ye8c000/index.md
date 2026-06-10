@@ -1,13 +1,13 @@
 ---
-title: "MacAlister Dress (Clan)"
+title: "MacAlister Dress"
 date: 2023-03-18
 ---
 In pattern [RGYRYGRBRBRWRBWBRGRBWGRBRBRGYR](/patterns/rgyrygrbrbrwrbwbrgrbwgrbrbrgyr/).
 
 
-This was sourced from tartans-authority.  It is a [30 stripes tartan](/stripes/stripes30/).
+This was sourced from register-of-tartans.  It is a [30 stripes tartan](/stripes/stripes30/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6629/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2268
 
 ## Thread count
 R/48 G12 Y4 R8 Y4 G12 R12 DB12 R24 B4 R4 LN32 R4 B4 LN48 B4 R4 G32 R4 B4 LN24 G8 R4 B4 R8 B4 R4 G12 Y4 R/16
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s30/r48g12y4r8y4g12r12b12r24ba4r4w32r4ba4w48ba4r4g32r4ba4w24g8r4ba4r8ba4r4g12y4r16-b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0-ye8c000/
+0/

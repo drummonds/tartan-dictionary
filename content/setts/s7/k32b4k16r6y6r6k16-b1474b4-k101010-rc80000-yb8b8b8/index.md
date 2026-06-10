@@ -1,13 +1,13 @@
 ---
-title: "Benson (Name)"
+title: "Benson (New England)"
 date: 2023-03-18
 ---
 In pattern [KBKRYRK](/patterns/kbkryrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6465/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=249
 
 ## Thread count
 K/32 B4 K16 R6 N6 R6 K/16

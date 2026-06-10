@@ -1,13 +1,13 @@
 ---
-title: "Stewart/Stuart of Rothesay (Sobieski)"
+title: "Stewart of Rothesay - 1829 (C Mss)"
 date: 2023-03-18
 ---
 In pattern [GRBRKRGRKRW](/patterns/grbrkrgrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3954
+Original link http://www.tartansauthority.com/tartan-ferret/display/847/
 
 ## Thread count
 DG/4 R52 DB8 R4 K8 R4 DG16 R8 K2 R2 W/4

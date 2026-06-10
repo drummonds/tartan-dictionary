@@ -1,13 +1,13 @@
 ---
-title: "Royal College of Surgeons. . .(Corp)"
+title: "Royal College of Surgeons of Edinburgh, The"
 date: 2023-03-18
 ---
 In pattern [BBKBKBKRW](/patterns/bbkbkbkrw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2457/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3598
 
 ## Thread count
 B/8 Ba32 K4 Ba4 K4 Ba4 K26 N40 W/8
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s9/b8ba32k4ba4k4ba4k26r40w8-b5c8ca8-ba305870-k101010-r888888-wfcfcfc/
-8-wfcfcfc/

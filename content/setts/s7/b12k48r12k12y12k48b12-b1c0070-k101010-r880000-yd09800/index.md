@@ -1,13 +1,13 @@
 ---
-title: "Justus (Personal)"
+title: "Justus #1 (Personal)"
 date: 2023-03-18
 ---
 In pattern [BKRKYKB](/patterns/bkrkykb/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1916
+Original link http://www.tartansauthority.com/tartan-ferret/display/2100/
 
 ## Thread count
 DB/12 K48 DR12 K12 DY12 K48 DB/12

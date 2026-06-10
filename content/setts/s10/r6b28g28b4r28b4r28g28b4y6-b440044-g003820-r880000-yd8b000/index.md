@@ -1,13 +1,13 @@
 ---
-title: "Clare, County"
+title: "Clare, County (District)"
 date: 2023-03-18
 ---
 In pattern [RBGBRBRGBY](/patterns/rbgbrbrgby/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=664
+Original link http://www.tartansauthority.com/tartan-ferret/display/2248/
 
 ## Thread count
 DR/6 DP28 DG28 DP4 DR28 DP4 DR28 DG28 DP4 Y/6

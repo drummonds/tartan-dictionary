@@ -1,13 +1,13 @@
 ---
-title: "Forfar"
+title: "Forfar (District)"
 date: 2023-03-18
 ---
 In pattern [BYBWYWBBBR](/patterns/bybwywbbbr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1229
+Original link http://www.tartansauthority.com/tartan-ferret/display/6238/
 
 ## Thread count
 B/6 Y2 B46 W40 LT2 W8 DB44 B8 DB8 R/2
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/b6y2b46w40ya2w8ba44b8ba8r2-b5c8ca8-ba2c2c80-rc80000-wfcfcfc-ye8c000-yaa08858/
-08858/

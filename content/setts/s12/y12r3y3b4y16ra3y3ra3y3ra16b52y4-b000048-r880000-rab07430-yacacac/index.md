@@ -1,13 +1,13 @@
 ---
-title: "Carsaig (Fashion)"
+title: "Carsaig"
 date: 2023-03-18
 ---
 In pattern [YBRYRYRYBYRY](/patterns/ybryryrybyry/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4472/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=579
 
 ## Thread count
 N/4 DB52 LT16 N3 LT3 N3 LT3 N16 DB4 N3 DR3 N/12
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#ACACAC;"><span style="color:#ACACAC;filter:grayscale(1) invert(1) contrast(100);">#ACACAC</span></code> `#ACACAC` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
 ID: /setts/s12/y12r3y3b4y16ra3y3ra3y3ra16b52y4-b000048-r880000-rab07430-yacacac/
+cacac/

@@ -1,13 +1,13 @@
 ---
-title: "Burns (Fashion)"
+title: "Burns"
 date: 2023-03-18
 ---
 In pattern [WBWBRW](/patterns/wbwbrw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3774/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5040
 
 ## Thread count
 LY/4 LT12 N12 LY4 N24 LY/60

@@ -1,13 +1,13 @@
 ---
-title: "Flaumandrum"
+title: "Flaumandrum (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKRKYKRKBKR](/patterns/bkbkbkrkykrkbkr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1203
+Original link http://www.tartansauthority.com/tartan-ferret/display/6805/
 
 ## Thread count
 N/24 K4 N4 K4 N4 K24 DR24 K2 Y4 K2 DR24 K24 N24 K2 R/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/
-e8c000/

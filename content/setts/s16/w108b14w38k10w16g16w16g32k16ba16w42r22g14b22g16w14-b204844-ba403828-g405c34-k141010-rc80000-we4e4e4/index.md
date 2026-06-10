@@ -26,8 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#403828;"><span style="color:#403828;filter:grayscale(1) invert(1) contrast(100);">#403828</span></code> `#403828` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.15 |
 
 ID: /setts/s16/w108b14w38k10w16g16w16g32k16ba16w42r22g14b22g16w14-b204844-ba403828-g405c34-k141010-rc80000-we4e4e4/
-yle="background-color:#E4E4E4;"><span style="color:#E4E4E4;filter:grayscale(1) invert(1) contrast(100);">#E4E4E4</span></code> `#E4E4E4` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.05 |
-| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
-| T | <code style="background-color:#403828;"><span style="color:#403828;filter:grayscale(1) invert(1) contrast(100);">#403828</span></code> `#403828` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.15 |
-
-ID: /setts/s16/w108b14w38k10w16g16w16g32k16ba16w42r22g14b22g16w14-b204844-ba403828-g405c34-k141010-rc80000-we4e4e4/

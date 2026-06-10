@@ -1,13 +1,13 @@
 ---
-title: "Glen Moy"
+title: "Glen Moy 1986 (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BWBRW](/patterns/bwbrw/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1387
+Original link http://www.tartansauthority.com/tartan-ferret/display/635/
 
 ## Thread count
 DB/78 N18 DB6 R18 N/6

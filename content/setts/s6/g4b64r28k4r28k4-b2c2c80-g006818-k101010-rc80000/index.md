@@ -1,13 +1,13 @@
 ---
-title: "Robinson Dress (Name)"
+title: "Robinson Dress (Pendleton) #1"
 date: 2023-03-18
 ---
 In pattern [GBRKRK](/patterns/gbrkrk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/739/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3538
 
 ## Thread count
 G/4 DB64 R28 K4 R28 K/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/4 DB64 R28 K4 R28 K/4 tartan")
 
 ID: /setts/s6/g4b64r28k4r28k4-b2c2c80-g006818-k101010-rc80000/
-010-rc80000/

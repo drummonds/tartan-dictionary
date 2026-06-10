@@ -1,13 +1,13 @@
 ---
-title: "Laval Dress, Tartan de"
+title: "Laval Dress, Tartan de (District)"
 date: 2023-03-18
 ---
 In pattern [BWBBWBWB](/patterns/bwbbwbwb/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2063
+Original link http://www.tartansauthority.com/tartan-ferret/display/2121/
 
 ## Thread count
 DB/4 N4 DB14 DR16 N20 DB4 N4 DB/4

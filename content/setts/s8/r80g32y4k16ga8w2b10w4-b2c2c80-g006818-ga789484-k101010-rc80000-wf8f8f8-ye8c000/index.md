@@ -1,13 +1,13 @@
 ---
-title: "Ancient Caledonian Society"
+title: "Caledonian Soc., Ancient (Artefact)"
 date: 2023-03-18
 ---
 In pattern [RGYKGWBW](/patterns/rgykgwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=476
+Original link http://www.tartansauthority.com/tartan-ferret/display/1554/
 
 ## Thread count
 R/80 G32 Y4 K16 LG8 W2 DB10 W/4
@@ -31,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/80 G32 Y4 K16 LG8 W2 DB10 W/4 tartan")
 
 ID: /setts/s8/r80g32y4k16ga8w2b10w4-b2c2c80-g006818-ga789484-k101010-rc80000-wf8f8f8-ye8c000/
-c000/

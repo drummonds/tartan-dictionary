@@ -1,13 +1,13 @@
 ---
-title: "Palmer, Edward (Commemorative)"
+title: "Palmer, Edward"
 date: 2023-03-18
 ---
 In pattern [RGKYKWKWRKRKW](/patterns/rgkykwkwrkrkw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4796/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3288
 
 ## Thread count
 R/8 G40 K32 Y4 K6 W6 K4 W36 R12 K4 R8 K2 W/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/r8g40k32y4k6w6k4w36r12k4r8k2w4-g004c00-k000000-rc80000-wf8f8f8-ye8c000/
+f8-ye8c000/

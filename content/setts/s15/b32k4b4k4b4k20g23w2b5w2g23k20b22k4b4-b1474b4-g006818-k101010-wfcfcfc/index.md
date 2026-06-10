@@ -1,13 +1,13 @@
 ---
-title: "Lyon"
+title: "Lyon (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGWBWGKBKB](/patterns/bkbkbkgwbwgkbkb/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2256
+Original link http://www.tartansauthority.com/tartan-ferret/display/5517/
 
 ## Thread count
 B/32 K4 B4 K4 B4 K20 G23 W2 B5 W2 G23 K20 B22 K4 B/4

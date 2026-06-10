@@ -1,13 +1,13 @@
 ---
-title: "Williams Lake, City of"
+title: "Williams Lake Canadian District Tartan Tartan Number: 6736. Earliest known date: 2004 March Designed and woven by the city's Spinners & Weavers Guild to celebrate the city's 75th anniversary on March 15th 2004. Officially accepted by the City Council (Mayor Rick Gibson). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [KYGWRKRBWBRKRWGYKY](/patterns/kygwrkrbwbrkrwgyky/).
 
 
-This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4628
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6736
 
 ## Thread count
 K/2 Y6 G6 W6 DR6 K4 DR6 DB6 W6 DB6 DR6 K4 DR6 W6 G6 Y6 K2 Y/12

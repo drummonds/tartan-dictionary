@@ -1,13 +1,13 @@
 ---
-title: "Moncton, City of (District)"
+title: "Moncton, City of"
 date: 2023-03-18
 ---
 In pattern [GRBRGGRGY](/patterns/grbrggrgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7384/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2983
 
 ## Thread count
 G/16 R4 DB8 R4 G40 T20 R12 T40 Y/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/g16r4b8r4g40ga20r12ga40y4-b2c2c80-g006818-ga885c00-rc80000-ye8c000/
+8c000/

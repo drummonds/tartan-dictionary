@@ -1,13 +1,13 @@
 ---
-title: "Glen Chalmadale"
+title: "Glen Chalmadale (District)"
 date: 2023-03-18
 ---
 In pattern [GWGKRKRBR](/patterns/gwgkrkrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1369
+Original link http://www.tartansauthority.com/tartan-ferret/display/7093/
 
 ## Thread count
 DR/10 DB30 R10 K6 R26 K10 G20 LN4 G/26

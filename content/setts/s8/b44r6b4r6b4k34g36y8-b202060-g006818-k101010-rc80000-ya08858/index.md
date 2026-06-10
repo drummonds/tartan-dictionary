@@ -1,13 +1,13 @@
 ---
-title: "Scotch House 2000 Original"
+title: "Scotch House 2000 Original (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BRBRBKGY](/patterns/brbrbkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3670
+Original link http://www.tartansauthority.com/tartan-ferret/display/2634/
 
 ## Thread count
 DB/44 R6 DB4 R6 DB4 K34 G36 LT/8
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/44 R6 DB4 R6 DB4 K34 G36 LT/8 tartan")
 
 ID: /setts/s8/b44r6b4r6b4k34g36y8-b202060-g006818-k101010-rc80000-ya08858/
-8858/

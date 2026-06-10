@@ -25,7 +25,7 @@ Wilson "New Grant" it was long confused with, is the worked example.
 ## Ways in
 
 - **Explore by pattern** — browse the [tartans](/tartan/) and the patterns that relate them.
-- **Trace a family tartan** — find a [family or clan](/family/) and how its tartan has changed
+- **Trace a family tartan** — find a [clan or family](/clan/) and how its tartan has changed
   over the generations.
 - **Read the story** — [what tartan is](/posts/), and where the tradition comes from.
 

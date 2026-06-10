@@ -1,13 +1,13 @@
 ---
-title: "Glen Grant Distillery (Corporate)"
+title: "Glen Grant Distillery"
 date: 2023-03-18
 ---
 In pattern [GKGBGBGKGYGKGKG](/patterns/gkgbgbgkgygkgkg/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5011/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1381
 
 ## Thread count
 G/4 K4 G4 DB40 G4 DB4 G4 K16 G4 Y4 G40 K4 G4 K4 G/4

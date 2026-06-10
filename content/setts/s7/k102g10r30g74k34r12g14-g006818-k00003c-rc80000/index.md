@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GRKGRGK](/patterns/grkgrgk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2480/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=459
 
 ## Thread count
 DB/102 G10 R30 G74 DB34 R12 G/14
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/102 G10 R30 G74 DB34 R12 G/14 tartan")
 
 ID: /setts/s7/k102g10r30g74k34r12g14-g006818-k00003c-rc80000/
-0/

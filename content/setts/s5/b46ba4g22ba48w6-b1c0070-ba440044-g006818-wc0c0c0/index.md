@@ -1,13 +1,13 @@
 ---
-title: "Scottish Open Squash (Corporate)"
+title: "Scottish Open Squash"
 date: 2023-03-18
 ---
 In pattern [BBGBW](/patterns/bbgbw/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3189/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5307
 
 ## Thread count
 DB/46 DP4 G22 DP48 N/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/46 DP4 G22 DP48 N/6 tartan")
 
 ID: /setts/s5/b46ba4g22ba48w6-b1c0070-ba440044-g006818-wc0c0c0/
+c0c0c0/

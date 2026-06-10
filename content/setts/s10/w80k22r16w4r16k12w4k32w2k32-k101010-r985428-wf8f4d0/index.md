@@ -1,13 +1,13 @@
 ---
-title: "Lebrun (Fashion)"
+title: "Lebrun"
 date: 2023-03-18
 ---
 In pattern [KWKWKRWRKW](/patterns/kwkwkrwrkw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5404/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2077
 
 ## Thread count
 K/32 LY2 K32 LY4 K12 T16 LY4 T16 K22 LY/80
@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#985428;"><span style="color:#985428;filter:grayscale(1) invert(1) contrast(100);">#985428</span></code> `#985428` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.12 |
 
 ID: /setts/s10/w80k22r16w4r16k12w4k32w2k32-k101010-r985428-wf8f4d0/
+f4d0/

@@ -1,13 +1,13 @@
 ---
-title: "McCartney (Evening/Night)"
+title: "McCartney (Evening) (Coporate)"
 date: 2023-03-18
 ---
 In pattern [BGBGBRBYBBW](/patterns/bgbgbrbybbw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2876
+Original link http://www.tartansauthority.com/tartan-ferret/display/2594/
 
 ## Thread count
 DB/8 G4 DB48 G16 B4 R4 B4 Y4 B20 DB4 LN/6
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/b8g4b48g16ba4r4ba4y4ba20b4w6-b2c2c80-ba2888c4-g006818-rc80000-we0e0e0-ye8c000/
-

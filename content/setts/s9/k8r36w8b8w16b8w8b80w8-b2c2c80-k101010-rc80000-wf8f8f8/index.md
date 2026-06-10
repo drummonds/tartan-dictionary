@@ -1,13 +1,13 @@
 ---
-title: "Yudo (Corporate)"
+title: "Yudo"
 date: 2023-03-18
 ---
 In pattern [KRWBWBWBW](/patterns/krwbwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6735/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5346
 
 ## Thread count
 K/8 R36 W8 DB8 W16 DB8 W8 DB80 W/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s9/k8r36w8b8w16b8w8b80w8-b2c2c80-k101010-rc80000-wf8f8f8/
+f8f8f8/

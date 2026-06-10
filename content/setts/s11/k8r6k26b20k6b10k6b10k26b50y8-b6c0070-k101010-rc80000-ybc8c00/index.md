@@ -1,13 +1,13 @@
 ---
-title: "Caledonian Orient (Corporate)"
+title: "Caledonian Oriental Airlines (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KRKBKBKBKBY](/patterns/krkbkbkbkby/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6029/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=475
 
 ## Thread count
 DY/8 P50 K26 P10 K6 P10 K6 P20 K26 R6 K/8
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s11/k8r6k26b20k6b10k6b10k26b50y8-b6c0070-k101010-rc80000-ybc8c00/
-0000-ybc8c00/

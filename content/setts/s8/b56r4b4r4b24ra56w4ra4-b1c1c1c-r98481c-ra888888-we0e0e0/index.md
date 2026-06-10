@@ -1,13 +1,13 @@
 ---
-title: "Corrie"
+title: "Corrie (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BRBRBRWR](/patterns/brbrbrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=773
+Original link http://www.tartansauthority.com/tartan-ferret/display/6875/
 
 ## Thread count
 K/56 T4 K4 T4 K24 N56 LN4 N/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/56 T4 K4 T4 K24 N56 LN4 N/4 tartan")
 
 ID: /setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/
-0e0e0/

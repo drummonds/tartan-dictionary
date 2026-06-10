@@ -1,13 +1,13 @@
 ---
-title: "Brooks Brothers Tattersall Blue"
+title: "Brooks Bros Tattersall Blue (Fashion"
 date: 2023-03-18
 ---
 In pattern [RBYBY](/patterns/rbyby/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=382
+Original link http://www.tartansauthority.com/tartan-ferret/display/6573/
 
 ## Thread count
 DR/4 DB36 LT8 DB36 LT/4
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/4 DB36 LT8 DB36 LT/4 tartan")
 
 ID: /setts/s5/r4b36y8b36y4-b202060-r880000-ya08858/
-/

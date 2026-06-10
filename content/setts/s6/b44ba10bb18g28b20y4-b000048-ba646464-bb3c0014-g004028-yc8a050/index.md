@@ -1,13 +1,13 @@
 ---
-title: "Belfrage Swedish Family Tartan Tartan Number: 3672. Earliest known date: 1997 Based of the Duke of Fife and Spens tartans. Designed by Peter MacDonald in 1997 for the Belfrage Family Society most of whom live in Sweden. The family came from Fife where the name is a variation of Beveridge. It appears to have completely died out in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Belfrage"
 date: 2023-03-18
 ---
 In pattern [BBBGBY](/patterns/bbbgby/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3672
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5408
 
 ## Thread count
 DB/44 Na10 DR18 DG28 DB20 O/4
@@ -26,6 +26,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | O | <code style="background-color:#C8A050;"><span style="color:#C8A050;filter:grayscale(1) invert(1) contrast(100);">#C8A050</span></code> `#C8A050` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 | P | <code style="background-color:#64008C;"><span style="color:#64008C;filter:grayscale(1) invert(1) contrast(100);">#64008C</span></code> `#64008C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.13 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/44 Na10 DR18 DG28 DB20 O/4 tartan")
+
+ID: /setts/s6/b44ba10bb18g28b20y4-b000048-ba646464-bb3c0014-g004028-yc8a050/
+n style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 # Sample pattern
 

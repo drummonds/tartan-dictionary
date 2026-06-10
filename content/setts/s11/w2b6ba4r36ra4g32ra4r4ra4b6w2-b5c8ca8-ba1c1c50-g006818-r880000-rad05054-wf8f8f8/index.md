@@ -1,13 +1,13 @@
 ---
-title: "Moray of Abercairny (Clan)"
+title: "Moray of Abercairny"
 date: 2023-03-18
 ---
 In pattern [WBBRRGRRRBW](/patterns/wbbrrgrrrbw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/51/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3010
 
 ## Thread count
 W/2 B6 DB4 DR36 DO4 G32 DO4 DR4 DO4 B6 W/2

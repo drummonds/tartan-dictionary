@@ -7,7 +7,7 @@ In pattern [GR](/patterns/gr/).
 
 This was sourced from weddslist.  It is a [2 stripes tartan](/stripes/stripes2/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DG/2 DR/2
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/2 DR/2 tartan")
 
 ID: /setts/s2/g2r2-g11450d-raa0000/
+000/

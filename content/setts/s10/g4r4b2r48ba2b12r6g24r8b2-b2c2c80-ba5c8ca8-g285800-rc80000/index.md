@@ -1,13 +1,13 @@
 ---
-title: "MacDonell of Keppoch"
+title: "MacDonell of Keppoch - 1800 (Clan)"
 date: 2023-03-18
 ---
 In pattern [BRGRBBRBRG](/patterns/brgrbbrbrg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2386
+Original link http://www.tartansauthority.com/tartan-ferret/display/511/
 
 ## Thread count
 DB/2 R8 G24 R6 DB12 B2 R48 DB2 R4 G/4
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/g4r4b2r48ba2b12r6g24r8b2-b2c2c80-ba5c8ca8-g285800-rc80000/
-rc80000/

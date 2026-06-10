@@ -1,13 +1,13 @@
 ---
-title: "MacCormick (Name)"
+title: "MacCormick"
 date: 2023-03-18
 ---
 In pattern [WKGKBKY](/patterns/wkgkbky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7161/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2324
 
 ## Thread count
 LN/6 K2 G40 K32 DB40 K2 Y/6

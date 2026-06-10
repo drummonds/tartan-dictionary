@@ -1,13 +1,13 @@
 ---
-title: "Glen Forest"
+title: "Glen Forest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RGWYGWGWGWYWYY](/patterns/rgwygwgwgwywyy/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1380
+Original link http://www.tartansauthority.com/tartan-ferret/display/5010/
 
 ## Thread count
 DO/10 T5 LR8 LT8 T5 LR8 T14 LR4 T5 LR4 LT5 LR4 LT4 Y/10

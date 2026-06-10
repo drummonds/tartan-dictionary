@@ -1,13 +1,13 @@
 ---
-title: "Teviotdale"
+title: "Teviotdale (District)"
 date: 2023-03-18
 ---
 In pattern [KBGYBGGW](/patterns/kbgybggw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4097
+Original link http://www.tartansauthority.com/tartan-ferret/display/5136/
 
 ## Thread count
 K/10 B6 T8 Y2 DB26 T26 G58 LN/4
@@ -31,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/10 B6 T8 Y2 DB26 T26 G58 LN/4 tartan")
 
 ID: /setts/s8/k10b6g8y2ba26g26ga58w4-b1474b4-ba2c2c80-g604000-ga006818-k101010-we0e0e0-yd8b000/
-8b000/

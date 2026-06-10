@@ -1,13 +1,13 @@
 ---
-title: "Cornish Flag (District)"
+title: "St Piran Cornish Flag District Tartan Tartan Number: 1618. Earliest known date: 1983 An alternative source gives this sett as having been produced by Thomas Gordon of Glasgow around 1973. There is (c.1982) a pipe band in New York that wears this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RKWKW](/patterns/rkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1618/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1618
 
 ## Thread count
 LN/10 K40 LN20 K2 R/4

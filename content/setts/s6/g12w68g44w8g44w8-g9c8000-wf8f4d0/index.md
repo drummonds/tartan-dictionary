@@ -1,13 +1,13 @@
 ---
-title: "Fallow Deer, The"
+title: "Fallow Deer (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GWGWGW](/patterns/gwgwgw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1147
+Original link http://www.tartansauthority.com/tartan-ferret/display/4835/
 
 ## Thread count
 LG/12 LY68 LG44 LY8 LG44 LY/8

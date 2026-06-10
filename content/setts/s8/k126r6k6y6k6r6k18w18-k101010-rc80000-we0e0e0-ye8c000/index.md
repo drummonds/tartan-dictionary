@@ -1,13 +1,13 @@
 ---
-title: "Black Country (District)"
+title: "Black Country"
 date: 2023-03-18
 ---
 In pattern [KRKYKRKW](/patterns/krkykrkw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7844/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796
 
 ## Thread count
 K/126 R6 K6 Y6 K6 R6 K18 LN/18
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/126 R6 K6 Y6 K6 R6 K18 LN/18 tartan")
 
 ID: /setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/
+8c000/

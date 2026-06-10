@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BBBKGRG](/patterns/bbbkgrg/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=463
+Original link http://www.tartansauthority.com/tartan-ferret/display/7071/
 
 ## Thread count
 N/8 DR8 N44 K30 Na44 B8 Na/10

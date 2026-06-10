@@ -1,13 +1,13 @@
 ---
-title: "Miller (Name)"
+title: "Miller"
 date: 2023-03-18
 ---
 In pattern [RBGBBBGY](/patterns/rbgbbbgy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4177/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2951
 
 ## Thread count
 DR/4 DB12 G30 B18 DB60 B18 G12 DY/4

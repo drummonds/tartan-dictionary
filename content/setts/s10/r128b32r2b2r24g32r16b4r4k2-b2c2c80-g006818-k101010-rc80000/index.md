@@ -1,13 +1,13 @@
 ---
-title: "Moffat District District Tartan Tartan Number: 1139. Earliest known date: c.1930 The sett is based on a fractional count in the notes made by John MacGregor Hastie in the 1930's. There is a similarity with the Murray of Tullibardine sett, in the centre portion, which was favoured in the Border districts to show support for the Jacobite cause in the early 18th century. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Moffat (1950)"
 date: 2023-03-18
 ---
 In pattern [KRBRGRBRBR](/patterns/krbrgrbrbr/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1139
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2974
 
 ## Thread count
 K/2 R4 DB4 R16 G32 R24 DB2 R2 DB32 R/128

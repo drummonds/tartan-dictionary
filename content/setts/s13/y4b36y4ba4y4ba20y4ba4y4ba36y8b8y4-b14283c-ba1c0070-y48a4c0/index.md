@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [YBYBYBYBYBYBY](/patterns/ybybybybybyby/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3781/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4876
 
 ## Thread count
 B/4 DN8 B8 DB36 B4 DB4 B4 DB20 B4 DB4 B4 DN36 B/4

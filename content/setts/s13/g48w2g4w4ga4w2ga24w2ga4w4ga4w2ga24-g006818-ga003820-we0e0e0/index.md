@@ -1,13 +1,13 @@
 ---
-title: "MacDonald, Lord of the Isles Hunting"
+title: "MacDonald, Lord of the Isles Htg #2"
 date: 2023-03-18
 ---
 In pattern [GWGWGWGWGWGWG](/patterns/gwgwgwgwgwgwg/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378
+Original link http://www.tartansauthority.com/tartan-ferret/display/2209/
 
 ## Thread count
 DG/24 LN2 DG4 LN4 DG4 LN2 DG24 LN2 DG4 LN4 G4 LN2 G/48

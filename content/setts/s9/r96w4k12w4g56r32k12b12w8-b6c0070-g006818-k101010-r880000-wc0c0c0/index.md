@@ -1,13 +1,13 @@
 ---
-title: "Leach (1995)"
+title: "Leach, 1997 (Name)"
 date: 2023-03-18
 ---
 In pattern [RWKWGRKBW](/patterns/rwkwgrkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2073
+Original link http://www.tartansauthority.com/tartan-ferret/display/2356/
 
 ## Thread count
 DR/96 N4 K12 N4 G56 DR32 K12 P12 N/8

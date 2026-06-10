@@ -1,13 +1,13 @@
 ---
-title: "Victoria (Wilsons)"
+title: "Victoria (Royal)"
 date: 2023-03-18
 ---
 In pattern [RWBKYKWKGRKRW](/patterns/rwbkykwkgrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4453
+Original link http://www.tartansauthority.com/tartan-ferret/display/1675/
 
 ## Thread count
 R/8 W32 B10 K10 Y4 K4 W4 K4 G10 R10 K4 R4 W/4

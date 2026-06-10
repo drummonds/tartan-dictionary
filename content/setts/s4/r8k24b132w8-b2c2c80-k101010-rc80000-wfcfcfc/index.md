@@ -1,13 +1,13 @@
 ---
-title: "McCallie"
+title: "McCallie (Name)"
 date: 2023-03-18
 ---
 In pattern [RKBW](/patterns/rkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2871
+Original link http://www.tartansauthority.com/tartan-ferret/display/6212/
 
 ## Thread count
 R/8 K24 DB132 W/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 K24 DB132 W/8 tartan")
 
 ID: /setts/s4/r8k24b132w8-b2c2c80-k101010-rc80000-wfcfcfc/
-c/

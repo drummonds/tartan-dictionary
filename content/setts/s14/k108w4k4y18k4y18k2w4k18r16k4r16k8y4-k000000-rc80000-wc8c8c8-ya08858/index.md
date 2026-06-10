@@ -1,13 +1,13 @@
 ---
-title: "Largs Dress (1972)"
+title: "Laronde (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KWKYKYKWKRKRKY](/patterns/kwkykykwkrkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2052
+Original link http://www.tartansauthority.com/tartan-ferret/display/5392/
 
 ## Thread count
 K/108 N4 K4 LT18 K4 LT18 K2 N4 K18 R16 K4 R16 K8 LT/4

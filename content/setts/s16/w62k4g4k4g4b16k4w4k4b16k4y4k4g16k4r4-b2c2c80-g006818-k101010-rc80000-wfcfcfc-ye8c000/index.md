@@ -1,13 +1,13 @@
 ---
-title: "Cockburn of Ormiston Dress"
+title: "Cockburn of Ormiston Dress (Clan)"
 date: 2023-03-18
 ---
 In pattern [RKGKYKBKWKBGKGKW](/patterns/rkgkykbkwkbgkgkw/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705
+Original link http://www.tartansauthority.com/tartan-ferret/display/1579/
 
 ## Thread count
 R/4 K4 G16 K4 Y4 K4 DB16 K4 W4 K4 DB16 G4 K4 G4 K4 W/62

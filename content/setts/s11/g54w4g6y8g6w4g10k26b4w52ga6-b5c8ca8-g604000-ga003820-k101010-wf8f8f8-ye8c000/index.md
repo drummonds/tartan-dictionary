@@ -1,13 +1,13 @@
 ---
-title: "MacKellar Dress"
+title: "MacKellar Dress (Clan)"
 date: 2023-03-18
 ---
 In pattern [GWBKGWGYGWG](/patterns/gwbkgwgygwg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2516
+Original link http://www.tartansauthority.com/tartan-ferret/display/926/
 
 ## Thread count
 DG/6 W52 B4 K26 T10 W4 T6 Y8 T6 W4 T/54
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/g54w4g6y8g6w4g10k26b4w52ga6-b5c8ca8-g604000-ga003820-k101010-wf8f8f8-ye8c000/
-/

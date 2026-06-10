@@ -1,13 +1,13 @@
 ---
-title: "Kilkenny County, Crest Range"
+title: "Kilkenny County Crest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KYKGWKRY](/patterns/kykgwkry/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5363
+Original link http://www.tartansauthority.com/tartan-ferret/display/7405/
 
 ## Thread count
 DY/12 DR16 K8 LN12 G32 K26 N38 K/10
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/12 DR16 K8 LN12 G32 K26 N38 K/10 tartan")
 
 ID: /setts/s8/y12r16k8w12g32k26ya38k10-g5c6428-k101010-r880000-we0e0e0-ybc8c00-yaa0a0a0/
+

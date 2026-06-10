@@ -1,13 +1,13 @@
 ---
-title: "Duchess of Albany"
+title: "Duchess of Albany (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RBKGKGKGKGKGBGBGKGKGKGKGKBY](/patterns/rbkgkgkgkgkgbgbgkgkgkgkgkby/).
 
 
-This was sourced from register-of-tartans.  It is a [27 stripes tartan](/stripes/stripes27/).
+This was sourced from tartans-authority.  It is a [27 stripes tartan](/stripes/stripes27/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1000
+Original link http://www.tartansauthority.com/tartan-ferret/display/1378/
 
 ## Thread count
 DY/4 DB44 K32 G6 K4 G4 K4 G24 K4 G4 K4 G6 DB16 G4 DB16 G6 K4 G4 K4 G24 K4 G4 K4 G6 K32 DB48 R/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s27/r4b48k32g6k4g4k4g24k4g4k4g6b16g4b16g6k4g4k4g24k4g4k4g6k32b44y4-b2c2c80-g006818-k101010-rc80000-yd09800/
-9800/

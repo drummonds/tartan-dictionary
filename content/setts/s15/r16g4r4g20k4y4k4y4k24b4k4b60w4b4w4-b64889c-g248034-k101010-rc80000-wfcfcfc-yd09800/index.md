@@ -1,13 +1,13 @@
 ---
-title: "Estes (Name)"
+title: "Estes"
 date: 2023-03-18
 ---
 In pattern [RGRGKYKYKBKBWBW](/patterns/rgrgkykykbkbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1520/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1133
 
 ## Thread count
 R/16 G4 R4 G20 K4 DY4 K4 DY4 K24 B4 K4 B60 W4 B4 W/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s15/r16g4r4g20k4y4k4y4k24b4k4b60w4b4w4-b64889c-g248034-k101010-rc80000-wfcfcfc-yd09800/
+0/

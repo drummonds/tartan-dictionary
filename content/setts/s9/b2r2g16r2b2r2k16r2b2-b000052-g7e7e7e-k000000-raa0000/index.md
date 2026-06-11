@@ -7,7 +7,7 @@ In pattern [BRGRBRKRB](/patterns/brgrbrkrb/).
 
 This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
 ## Thread count
 DB/2 DR2 K16 DR2 DB2 DR2 N16 DR2 DB/2
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#7E7E7E;"><span style="color:#7E7E7E;filter:grayscale(1) invert(1) contrast(100);">#7E7E7E</span></code> `#7E7E7E` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.22 |
 
 ID: /setts/s9/b2r2g16r2b2r2k16r2b2-b000052-g7e7e7e-k000000-raa0000/
-000/

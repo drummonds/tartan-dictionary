@@ -1,13 +1,13 @@
 ---
-title: "Wanless"
+title: "Wanless (Personal)"
 date: 2023-03-18
 ---
 In pattern [BYBYRWBYWBYWBYRWBYW](/patterns/bybyrwbywbywbyrwbyw/).
 
 
-This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4915
+Original link http://www.tartansauthority.com/tartan-ferret/display/3913/
 
 ## Thread count
 DB/50 Y10 DB24 Y6 R2 LN2 DB24 Y6 LN2 DB24 Y6 LN2 DB24 Y10 R2 LN2 DB24 Y8 LN/4

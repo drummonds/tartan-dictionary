@@ -1,13 +1,13 @@
 ---
-title: "Lambert (Front Royal) Dress Name Tartan Tartan Number: 10661. Earliest known date: 25/07/2012 Designed by Charles Lambert, using the Scotweb Tartan Designer, for his family to celebrate their Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Hunting tartan(STR #10663) using the same geometry but with muted colours and the Lambert (Front Royal) Dark Night tartan (STR #10669 using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Lambert (Front Royal) Dress"
 date: 2023-03-18
 ---
 In pattern [BGBRKRWRKRBGBK](/patterns/bgbrkrwrkrbgbk/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10661
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10661
 
 ## Thread count
 B/68 K20 B10 R4 Ka16 LT4 LN6 LT4 Ka16 R4 B10 K20 B56 Ka/6
@@ -23,6 +23,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Ka | <code style="background-color:#1C1714;"><span style="color:#1C1714;filter:grayscale(1) invert(1) contrast(100);">#1C1714</span></code> `#1C1714` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.21 |
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | LT | <code style="background-color:#A58065;"><span style="color:#A58065;filter:grayscale(1) invert(1) contrast(100);">#A58065</span></code> `#A58065` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.20 |
+| R | <code style="background-color:#B62531;"><span style="color:#B62531;filter:grayscale(1) invert(1) contrast(100);">#B62531</span></code> `#B62531` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
+
+ID: /setts/s14/b68g20b10r4k16ra4w6ra4k16r4b10g20b56k6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/
+:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.20 |
 | R | <code style="background-color:#B62531;"><span style="color:#B62531;filter:grayscale(1) invert(1) contrast(100);">#B62531</span></code> `#B62531` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 
 ID: /setts/s14/b68g20b10r4k16ra4w6ra4k16r4b10g20b56k6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/

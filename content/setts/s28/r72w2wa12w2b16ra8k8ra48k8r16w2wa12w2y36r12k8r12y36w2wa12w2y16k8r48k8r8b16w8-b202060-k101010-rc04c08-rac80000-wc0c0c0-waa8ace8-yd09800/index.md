@@ -1,13 +1,13 @@
 ---
-title: "Kinross (Name)"
+title: "Kinross #2"
 date: 2023-03-18
 ---
 In pattern [RWWWBRKRKRWWWYRKRYWWWYKRKRBW](/patterns/rwwwbrkrkrwwwyrkrywwwykrkrbw/).
 
 
-This was sourced from tartans-authority.  It is a [28 stripes tartan](/stripes/stripes28/).
+This was sourced from register-of-tartans.  It is a [28 stripes tartan](/stripes/stripes28/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4179/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1998
 
 ## Thread count
 DO/72 N2 LP12 N2 DB16 R8 K8 R48 K8 DO16 N2 LP12 N2 DY36 DO12 K8 DO12 DY36 N2 LP12 N2 DY16 K8 DO48 K8 DO8 DB16 N/8

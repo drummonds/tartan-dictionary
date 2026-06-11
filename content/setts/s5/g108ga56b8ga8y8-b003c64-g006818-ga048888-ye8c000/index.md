@@ -1,13 +1,13 @@
 ---
-title: "Irving of Bonshaw (Clan)"
+title: "Irving of Bonshaw"
 date: 2023-03-18
 ---
 In pattern [GGBGY](/patterns/ggbgy/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2609/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1859
 
 ## Thread count
 G/108 B56 DB8 B8 Y/8
@@ -28,11 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/108 B56 DB8 B8 Y/8 tartan")
 
 ID: /setts/s5/g108ga56b8ga8y8-b003c64-g006818-ga048888-ye8c000/
-></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
-| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
-
-# Sample pattern
-
-![Tartan detail](tartan.png "G/108 B56 DB8 B8 Y/8 tartan")
-
-ID: /setts/s5/g108ga56b8ga8y8-b003c64-g006818-ga048888-ye8c000/
+0/

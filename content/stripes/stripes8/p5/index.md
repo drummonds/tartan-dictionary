@@ -3,1609 +3,1381 @@ title: 8 stripes tartan setts (page 5)
 date: 2023-03-18
 weight: 8
 ---
-Tartan setts with 8 stripes, grouped by colour-sequence pattern.
-<nav class="pager"><a href="/stripes/stripes8/p4/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <strong>5</strong> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p6/">next ›</a></nav>
+Tartan setts with 8 stripes, grouped by colour-sequence pattern. Each variant is listed with ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+<nav class="pager"><a href="/stripes/stripes8/p4/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <strong>5</strong> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p7/">7</a> <a href="/stripes/stripes8/p6/">next ›</a></nav>
 
-### RBWBKRKR
-<a class="pat" href="/patterns/rbwbkrkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBKRKR</span></a>
+### KBKBKRWR
+<a class="pat" href="/patterns/kbkbkrwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBKBKRWR</span></a>
 
-| Tartan |
-|---|
-| [MacKean](/patterns/rbwbkrkr/) |
-| [MacKean Red (Personal)](/patterns/rbwbkrkr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Ostermeier (2015)](/setts/s8/r22w2r64k16b12k2b32k2-b2c2c80-k101010-rff0000-wffffff/) | register-of-tartans |
 
-### RBWBKWBW
-<a class="pat" href="/patterns/rbwbkwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBWBKWBW</span></a>
+### KBKBKWBK
+<a class="pat" href="/patterns/kbkbkwbk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="seq">KBKBKWBK</span></a>
 
-| Tartan |
-|---|
-| [DeCloud-McMasters (Personal)](/patterns/rbwbkwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Binder Wedding (Personal) Name Tartan Tartan Number: 10728. Earliest known date: 1 November 2012 Designed to celebrate the wedding of Anna Binder and Michael Slozga and to found a family tartan for their descendants. Anna and Michael are both pipers; they met through a pipe band and share a passion for Scottish traditional pipe band music. Registrant details: Mr Michael Szolga, 252/5 Waldegg, Waldegg, , Austria, 2754 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k2b10w4ka60b60ka2b2k2-b0000cd-k000000-ka101010-wffffff/) | house-of-tartan |
 
-### RBWBRRWR
-<a class="pat" href="/patterns/rbwbrrwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBRRWR</span></a>
+### KBKBRGKW
+<a class="pat" href="/patterns/kbkbrgkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBKBRGKW</span></a>
 
-| Tartan |
-|---|
-| [Longniddry Dress, Red (Dance)](/patterns/rbwbrrwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [MacKean, Green](/setts/s8/k8b16k8b16r4g20k2w4-b304080-g008000-k000000-rc00000-we0e0e0/) | weddslist |
+| 0.06 | [MacKean Green (Personal)](/setts/s8/k8b16k8b16r4g20k2w4-b2c2c80-g006818-k101010-rc80000-we0e0e0/) | register-of-tartans |
 
-### RBWBWYGR
-<a class="pat" href="/patterns/rbwbwygr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBWYGR</span></a>
+### KBKBWKBR
+<a class="pat" href="/patterns/kbkbwkbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBKBWKBR</span></a>
 
-| Tartan |
-|---|
-| [Raymond of Doune](/patterns/rbwbwygr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Lexington Fire Department](/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/) | register-of-tartans |
+| 0.09 | [Lexington Fire Department (Corporate](/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/) | tartans-authority |
 
-### RBWBYBYR
-<a class="pat" href="/patterns/rbwbybyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBYBYR</span></a>
+### KBKGKBKY
+<a class="pat" href="/patterns/kbkgkbky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KBKGKBKY</span></a>
 
-| Tartan |
-|---|
-| [Earl of Inverness (Royal)](/patterns/rbwbybyr/) |
-| [Princess Elizabeth](/patterns/rbwbybyr/) |
-| [Princess Elizabeth #2](/patterns/rbwbybyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [U.S. Border Patrol](/setts/s8/k20b20k30g80k30b20k20y6-b1474b4-g408060-k101010-ye8c000/) | register-of-tartans |
 
-### RBWBYKYR
-<a class="pat" href="/patterns/rbwbykyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBWBYKYR</span></a>
+### KBKGRGKY
+<a class="pat" href="/patterns/kbkgrgky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KBKGRGKY</span></a>
 
-| Tartan |
-|---|
-| [Inverness #2](/patterns/rbwbykyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [MacLeish](/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/) | register-of-tartans |
+| 0.10 | [MacLeish (Clan)](/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/) | tartans-authority |
 
-### RBWGWGBY
-<a class="pat" href="/patterns/rbwgwgby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBWGWGBY</span></a>
+### KBKGYGKR
+<a class="pat" href="/patterns/kbkgygkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBKGYGKR</span></a>
 
-| Tartan |
-|---|
-| [Royal Troon Golf Club, The](/patterns/rbwgwgby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Aztec, New Mexico](/setts/s8/r6k16g34y4g34k16b16k4-b3850c8-g146400-k101010-rff0000-yffe600/) | register-of-tartans |
 
-### RBWWRWBW
-<a class="pat" href="/patterns/rbwwrwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBWWRWBW</span></a>
+### KBKRBKBW
+<a class="pat" href="/patterns/kbkrbkbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBKRBKBW</span></a>
 
-| Tartan |
-|---|
-| [Wyckoff (Commemorative)](/patterns/rbwwrwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Inverness Caledonian Thistle F.C Corporate Weavers Tartan Tartan Number: 5272. Earliest known date: 1996 Designed by Polly Wittering of the House of Edgar C.1996 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k42b6k24r4b24k4b24w4-b000050-k000000-r8c0000-wfcfcfc/) | house-of-tartan |
+| 0.09 | [Inverness Caledonian Thistle Football Club](/setts/s8/k42b6k24r4b24k4b24w4-b000050-k000000-r8c0000-wfcfcfc/) | register-of-tartans |
+| 0.10 | [Inverness Caledonian Thistle F.C. (C](/setts/s8/k42b6k24r4b24k4b24w4-b000050-k101010-rc80000-wfcfcfc/) | tartans-authority |
 
-### RBYBGBGR
-<a class="pat" href="/patterns/rbybgbgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBYBGBGR</span></a>
+### KBKRKBKR
+<a class="pat" href="/patterns/kbkrkbkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBKRKBKR</span></a>
 
-| Tartan |
-|---|
-| [Earl of Inverness (Artefact)](/patterns/rbybgbgr/) |
-| [Inverness Earl of](/patterns/rbybgbgr/) |
-| [Inverness Earl of... District Tartan Tartan Number: 1446. Earliest known date: 1831 The sett used by James Logan to illustrate his method of recording the threads and colours of tartan patterns. It appears in the first edition of 'The Scottish Gael' and is therefore the first published illustration of a tartan sett. The problems of printing tartan were very much apparent and the illustration showed differences in each volume produced. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rbybgbgr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Black and Red](/setts/s8/r25k2b4k2r8k31ba32k8-b5c5c5c-ba2c2c80-k101010-rc80000/) | register-of-tartans |
 
-### RBYBRRGW
-<a class="pat" href="/patterns/rbybrrgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBYBRRGW</span></a>
+### KBKWKBGR
+<a class="pat" href="/patterns/kbkwkbgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBKWKBGR</span></a>
 
-| Tartan |
-|---|
-| [WCWM 3947](/patterns/rbybrrgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Center](/setts/s8/k100b4k26w2k26b10g30r4-b2c4084-g005020-k101010-rdc0000-we0e0e0/) | register-of-tartans |
+| 0.08 | [Center (Name)](/setts/s8/k100b4k26w2k26b10g30r4-b1474b4-g006818-k101010-rc80000-we0e0e0/) | tartans-authority |
 
-### RBYBYBRW
-<a class="pat" href="/patterns/rbybybrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBYBYBRW</span></a>
+### KBKWKBWK
+<a class="pat" href="/patterns/kbkwkbwk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="seq">KBKWKBWK</span></a>
 
-| Tartan |
-|---|
-| [Schöbitz (2016)](/patterns/rbybybrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Salem Scottish Dancer's Wee Bluet](/setts/s8/k10b10k60w9k7b36w6k6-b0a648c-k000028-we0e0e0/) | register-of-tartans |
 
-### RBYGRBBW
-<a class="pat" href="/patterns/rbygrbbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBYGRBBW</span></a>
+### KBKYKBKR
+<a class="pat" href="/patterns/kbkykbkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBKYKBKR</span></a>
 
-| Tartan |
-|---|
-| [Drummond of Fingask](/patterns/rbygrbbw/) |
-| [Drummond, (Fingask)](/patterns/rbygrbbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Kunbi](/setts/s8/k76b11k3y6k3b13k11r76-b003c64-k101010-r888888-ye8c000/) | tartans-authority |
 
-### RBYGRBBY
-<a class="pat" href="/patterns/rbygrbby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBYGRBBY</span></a>
+### KBKYRWGK
+<a class="pat" href="/patterns/kbkyrwgk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">KBKYRWGK</span></a>
 
-| Tartan |
-|---|
-| [Prince Charles Cloak](/patterns/rbygrbby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [MacNeill, Royce (Personal)](/setts/s8/k80g42w6r2y4k24b24k20-b304048-g2c5c44-k101010-rc80000-we0e0e0-ye8c000/) | register-of-tartans |
+| 0.07 | [MacNeill, Royce (Personal)](/setts/s8/k80g42w6r2y4k24b24k20-b304048-g2c5c44-k101010-rc80000-we0e0e0-ye8c000/) | tartans-authority |
 
-### RBYGRBWY
-<a class="pat" href="/patterns/rbygrbwy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBYGRBWY</span></a>
+### KBRBGBBW
+<a class="pat" href="/patterns/kbrbgbbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBRBGBBW</span></a>
 
-| Tartan |
-|---|
-| [Prince Charles Cloak](/patterns/rbygrbwy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Albannach (Corporate)](/setts/s8/k4b2r7b60g15ba60bb5w3-b482c70-ba384854-bb0c5488-g5c6428-k101010-r880000-we0e0e0/) | tartans-authority |
+| 0.10 | [Albannach](/setts/s8/k4b2r7b60g15ba60bb5w3-b440044-ba2c2c80-bb1474b4-g5c6428-k101010-rc80000-we0e0e0/) | register-of-tartans |
 
-### RBYRYBRW
-<a class="pat" href="/patterns/rbyrybrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBYRYBRW</span></a>
+### KBRBKBGY
+<a class="pat" href="/patterns/kbrbkbgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KBRBKBGY</span></a>
 
-| Tartan |
-|---|
-| [Snowbird](/patterns/rbyrybrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Montrose of Alabama (District)](/setts/s8/k24b24r8b24k24b22g24y8-b003c64-g006818-k101010-rc80000-ye8c000/) | tartans-authority |
+| 0.05 | [Montrose of Alabama](/setts/s8/k24b24r8b24k24b22g24y8-b003c64-g006818-k101010-rc80000-ye8c000/) | register-of-tartans |
 
-### RGBGBGKR
-<a class="pat" href="/patterns/rgbgbgkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGBGBGKR</span></a>
+### KBRBRBKW
+<a class="pat" href="/patterns/kbrbrbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBRBRBKW</span></a>
 
-| Tartan |
-|---|
-| [Turnbull, Dress Bruce (Personal)](/patterns/rgbgbgkr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Murdoch Clebration (Personal)](/setts/s8/k42b16r8b4r4b46k8w4-b2c2c80-k101010-rc80000-we0e0e0/) | tartans-authority |
 
-### RGBGBGRR
-<a class="pat" href="/patterns/rgbgbgrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGBGBGRR</span></a>
+### KBRKBKBW
+<a class="pat" href="/patterns/kbrkbkbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBRKBKBW</span></a>
 
-| Tartan |
-|---|
-| [Styrian](/patterns/rgbgbgrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Believe - Corinna](/setts/s8/k8b16r60k16b12k16b24w6-b680028-k101010-ra00048-wffffff/) | register-of-tartans |
 
-### RGBGBRGR
-<a class="pat" href="/patterns/rgbgbrgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGBGBRGR</span></a>
+### KBRKRKYK
+<a class="pat" href="/patterns/kbrkrkyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="seq">KBRKRKYK</span></a>
 
-| Tartan |
-|---|
-| [Dalbraith-Eastern Western Motor Group](/patterns/rgbgbrgr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Highland Brewing Company (USA)](/setts/s8/k84b4r6k10r32k16y4k6-b3c82af-k000000-rc8002c-ye0a126/) | register-of-tartans |
+| 0.12 | [Highland Brewing Company](/setts/s8/k84b4r6k10r32k16y4k6-b2888c4-k101010-ra00000-ye8c000/) | tartans-authority |
 
-### RGBGBWRW
-<a class="pat" href="/patterns/rgbgbwrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBGBWRW</span></a>
+### KBRYYGBW
+<a class="pat" href="/patterns/kbryygbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBRYYGBW</span></a>
 
-| Tartan |
-|---|
-| [Albuquerque, City of](/patterns/rgbgbwrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Way of the Rainbow](/setts/s8/k7b168r7y7ya7g7ba7w7-b202060-ba38409c-g006818-k101010-rc80000-wc49cd8-ye8c000-yafccc00/) | tartans-authority |
 
-### RGBGBYRY
-<a class="pat" href="/patterns/rgbgbyry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGBGBYRY</span></a>
+### KBWKGKGK
+<a class="pat" href="/patterns/kbwkgkgk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">KBWKGKGK</span></a>
 
-| Tartan |
-|---|
-| [New Mexico](/patterns/rgbgbyry/) |
-| [New Mexico, State of](/patterns/rgbgbyry/) |
-| [New Mexico, State of (Fashion)](/patterns/rgbgbyry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Unnamed 6](/setts/s8/k32g32k4g32k32w4b32k2-b800080-g008000-k000000-we0e0e0/) | weddslist |
+| 0.08 | [Unnamed No 33](/setts/s8/k32g32k4g32k32w4b32k2-b800080-g008000-k000000-we0e0e0/) | weddslist |
+| 0.11 | [Unidentified #36](/setts/s8/k32g32k4g32k32w4b32k2-b5a008c-g005020-k101010-we0e0e0/) | register-of-tartans |
 
-### RGBGRBBW
-<a class="pat" href="/patterns/rgbgrbbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBGRBBW</span></a>
+### KBWWWBBW
+<a class="pat" href="/patterns/kbwwwbbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBWWWBBW</span></a>
 
-| Tartan |
-|---|
-| [Yes Scotland (Fashion)](/patterns/rgbgrbbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Modern Craft (Masonic)](/setts/s8/k216b8w8wa4w8b2ba4wa4-b5c5c5c-ba202060-k101010-wc0c0c0-wafcfcfc/) | tartans-authority |
 
-### RGBKGRKY
-<a class="pat" href="/patterns/rgbkgrky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGBKGRKY</span></a>
+### KBYBGWGW
+<a class="pat" href="/patterns/kbybgwgw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KBYBGWGW</span></a>
 
-| Tartan |
-|---|
-| [Orkney](/patterns/rgbkgrky/) |
-| [Orkney (District?)](/patterns/rgbkgrky/) |
-| [Orkney District Tartan Tartan Number: 2301. Earliest known date: 2000 Orkney District tartan was designed for the Westry Knitters, on Orkney, by Ronnie Hek. Four designs were advertised in the window of a shop on Orkney's mainland and the most popular was chosen as the official Orcadian tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rgbkgrky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [Ship Hector](/setts/s8/k4b9y6b22g4w20g6w4-b304080-g008000-k000000-we0e0e0-yf0c000/) | weddslist |
+| 0.06 | [Ship Hector, The (Commemorative)](/setts/s8/k6b20y10b32g6w32g10w6-b2c2c80-g006818-k101010-wfcfcfc-yfccc00/) | tartans-authority |
 
-### RGBWBGRW
-<a class="pat" href="/patterns/rgbwbgrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBWBGRW</span></a>
+### KBYBKGKR
+<a class="pat" href="/patterns/kbybkgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KBYBKGKR</span></a>
 
-| Tartan |
-|---|
-| [Highland Spring Dress (2004)](/patterns/rgbwbgrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Fox Htg (Name)](/setts/s8/r8k4g72k4b36y6b36k4-b1474b4-g006818-k101010-rc80000-ye8c000/) | tartans-authority |
+| 0.07 | [Fox Hunting](/setts/s8/r8k4g72k4b36y6b36k4-b1474b4-g006818-k101010-rc80000-ye8c000/) | register-of-tartans |
 
-### RGBYBYBY
-<a class="pat" href="/patterns/rgbybyby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGBYBYBY</span></a>
+### KBYKBYBY
+<a class="pat" href="/patterns/kbykbyby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KBYKBYBY</span></a>
 
-| Tartan |
-|---|
-| [Holden Monaro Corporate Tartan Tartan Number: 8700. Earliest known date: 1831 Holden Monaro GTS 1978 car seats. Reproduction colours. Warp 162 threads Weft 202 threads. Last weaving went through with slight difference. Sett size = 4 3/8th - 4 3/4 inch (112mm - 120mm) See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rgbybyby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [1891 (Commemorative)](/setts/s8/k80b20y2k80b20y4b20y8-b1c1c1c-k101010-yfccc00/) | tartans-authority |
 
-### RGBYKWKW
-<a class="pat" href="/patterns/rgbykwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGBYKWKW</span></a>
+### KGBGRKGW
+<a class="pat" href="/patterns/kgbgrkgw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGBGRKGW</span></a>
 
-| Tartan |
-|---|
-| [Culloden - 2000 (Fashion)](/patterns/rgbykwkw/) |
-| [Culloden Blue, Stirling](/patterns/rgbykwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Lambert Kai (Personal)](/setts/s8/k6g68b20g10r4k16ga4w6-b1474b4-g006818-ga604000-k101010-rc8002c-wfcfcfc/) | tartans-authority |
 
-### RGGGRGGR
-<a class="pat" href="/patterns/rgggrggr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGGGRGGR</span></a>
+### KGBGRKRW
+<a class="pat" href="/patterns/kgbgrkrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGBGRKRW</span></a>
 
-| Tartan |
-|---|
-| [Daks, Muted Loden](/patterns/rgggrggr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Lambert (Front Royal) Kai](/setts/s8/k6g68b20g10r4k16ra4w6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/) | register-of-tartans |
+| 0.14 | [Lambert (Front Royal) Kai Name Tartan Tartan Number: 10670. Earliest known date: 13 August 2012 Designed by Charles Lambert, using the Scotweb Tartan Designer, for his family, to celebrate their Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Greer tartan (STR #10673) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6g68b20g10r4k16ra4w6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/) | house-of-tartan |
 
-### RGGRGWGR
-<a class="pat" href="/patterns/rggrgwgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGGRGWGR</span></a>
+### KGBRKRGR
+<a class="pat" href="/patterns/kgbrkrgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGBRKRGR</span></a>
 
-| Tartan |
-|---|
-| [Scott Htg (Clan)](/patterns/rggrgwgr/) |
-| [Scott Htg (Error 2)](/patterns/rggrgwgr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [McInery (Personal)](/setts/s8/r16g4r24k12r6b6g48k4-b1c0070-g006818-k101010-r880000/) | register-of-tartans |
+| 0.12 | [McInery (Personal)](/setts/s8/r16g4r24k12r6b6g48k4-b1c0070-g006818-k101010-r880000/) | tartans-authority |
 
-### RGKGBKBY
-<a class="pat" href="/patterns/rgkgbkby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGKGBKBY</span></a>
+### KGGGGGGY
+<a class="pat" href="/patterns/kggggggy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KGGGGGGY</span></a>
 
-| Tartan |
-|---|
-| [Peter of Lee (Chief) (Personal)](/patterns/rgkgbkby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.15 | [Brocéliande (Restricted)](/setts/s8/k6g22ga30gb10ga20gc28gb28y4-g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a/) | register-of-tartans |
 
-### RGKRKRKR
-<a class="pat" href="/patterns/rgkrkrkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGKRKRKR</span></a>
+### KGGRGRGK
+<a class="pat" href="/patterns/kggrgrgk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="seq">KGGRGRGK</span></a>
 
-| Tartan |
-|---|
-| [Booth](/patterns/rgkrkrkr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Earle's Flame](/setts/s8/k20g48r6g6r48ga6g12k12-g845c00-ga285800-k000000-r880000/) | register-of-tartans |
 
-### RGKWKGGY
-<a class="pat" href="/patterns/rgkwkggy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGKWKGGY</span></a>
+### KGGYGYBY
+<a class="pat" href="/patterns/kggygyby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KGGYGYBY</span></a>
 
-| Tartan |
-|---|
-| [Lawson, William](/patterns/rgkwkggy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [California Highway Patrol (Corporate](/setts/s8/k6g6ga56y6ga6y56b6ya4-b2c2c80-g5c6428-ga604000-k101010-ya08858-yae8c000/) | tartans-authority |
+| 0.11 | [California Highway Patrol (Corporate)](/setts/s8/k6g6ga56y6ga6y56b6ya4-b2c2c80-g5c6428-ga604000-k101010-ya08858-yae8c000/) | register-of-tartans |
 
-### RGKWKGKR
-<a class="pat" href="/patterns/rgkwkgkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGKWKGKR</span></a>
+### KGKBKGKR
+<a class="pat" href="/patterns/kgkbkgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGKBKGKR</span></a>
 
-| Tartan |
-|---|
-| [Hot Boontjie](/patterns/rgkwkgkr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Clark, Red](/setts/s8/r52k16g16k16b52k16g16k16-b1c0070-g808080-k101010-rc80000/) | register-of-tartans |
 
-### RGKWKWKW
-<a class="pat" href="/patterns/rgkwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGKWKWKW</span></a>
+### KGKGBKBR
+<a class="pat" href="/patterns/kgkgbkbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGKGBKBR</span></a>
 
-| Tartan |
-|---|
-| [Holden Brown (Corporate)](/patterns/rgkwkwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.17 | [Brave for Men (Fashion)](/setts/s8/k5g5k5g34b33k6b5r2-b5c5c5c-g604000-k101010-r888888/) | tartans-authority |
 
-### RGRBGBGY
-<a class="pat" href="/patterns/rgrbgbgy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGRBGBGY</span></a>
+### KGKGKGKR
+<a class="pat" href="/patterns/kgkgkgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGKGKGKR</span></a>
 
-| Tartan |
-|---|
-| [State Seal of Minnesota (Fashion)](/patterns/rgrbgbgy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [MacArthur-Fox 1993 (Personal)](/setts/s8/k44g10k4g10k22g66k4r8-g006818-k101010-rc80000/) | tartans-authority |
 
-### RGRBRGRR
-<a class="pat" href="/patterns/rgrbrgrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGRBRGRR</span></a>
+### KGKGKGWK
+<a class="pat" href="/patterns/kgkgkgwk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="seq">KGKGKGWK</span></a>
 
-| Tartan |
-|---|
-| [Invertere, (Daks)](/patterns/rgrbrgrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Lamont Dress](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/) | register-of-tartans |
+| 0.08 | [Lamont Dress (Fashion)](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/) | tartans-authority |
 
-### RGRBRWRY
-<a class="pat" href="/patterns/rgrbrwry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGRBRWRY</span></a>
+### KGKGRRBW
+<a class="pat" href="/patterns/kgkgrrbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGKGRRBW</span></a>
 
-| Tartan |
-|---|
-| [Loch Lochy](/patterns/rgrbrwry/) |
-| [Loch Lochy (District)](/patterns/rgrbrwry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Hebridean Celebration](/setts/s8/k4g24k24g4r8ra8b24w4-b0000c8-g006400-k000000-r9c68a4-ra98481c-wfcfcfc/) | register-of-tartans |
 
-### RGRBWRWR
-<a class="pat" href="/patterns/rgrbwrwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGRBWRWR</span></a>
+### KGKRGRYK
+<a class="pat" href="/patterns/kgkrgryk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="seq">KGKRGRYK</span></a>
 
-| Tartan |
-|---|
-| [Gigha Lilac](/patterns/rgrbwrwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Island of Innis, The](/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/) | register-of-tartans |
+| 0.10 | [Island of Innis, The (Fashion)](/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/) | tartans-authority |
 
-### RGRGBGBY
-<a class="pat" href="/patterns/rgrgbgby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGRGBGBY</span></a>
+### KGKRKYKY
+<a class="pat" href="/patterns/kgkrkyky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KGKRKYKY</span></a>
 
-| Tartan |
-|---|
-| [Hyland Day (Personal)](/patterns/rgrgbgby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Langhein, Alex (Personal)](/setts/s8/k80g30k20r4k20y4k20y4-g003820-k101010-rb03000-yd09800/) | register-of-tartans |
 
-### RGRGKBKY
-<a class="pat" href="/patterns/rgrgkbky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGRGKBKY</span></a>
+### KGRBRYRK
+<a class="pat" href="/patterns/kgrbryrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="seq">KGRBRYRK</span></a>
 
-| Tartan |
-|---|
-| [Chan (Name?)](/patterns/rgrgkbky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.16 | [Stewarton (Fashion)](/setts/s8/k4g12r12b12r12y12ra12k4-b1c0070-g006818-k101010-r888888-raa07c58-ya0a0a0/) | tartans-authority |
 
-### RGRGKGBW
-<a class="pat" href="/patterns/rgrgkgbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGRGKGBW</span></a>
+### KGRKGKWY
+<a class="pat" href="/patterns/kgrkgkwy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KGRKGKWY</span></a>
 
-| Tartan |
-|---|
-| [Curry (Personal)](/patterns/rgrgkgbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.19 | [Mission (District)](/setts/s8/y8w56k4g44k8r8ga8k4-g00a424-ga50a47c-k101010-re87878-w98c8e8-yec8048/) | tartans-authority |
 
-### RGRGKYWW
-<a class="pat" href="/patterns/rgrgkyww/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGRGKYWW</span></a>
+### KGWGKBKW
+<a class="pat" href="/patterns/kgwgkbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGWGKBKW</span></a>
 
-| Tartan |
-|---|
-| [Alexander of Menstry Htg (Personal)](/patterns/rgrgkyww/) |
-| [Alexander of Menstry Hunting](/patterns/rgrgkyww/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Louisiana](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/) | register-of-tartans |
+| 0.08 | [Louisiana (District](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/) | tartans-authority |
 
-### RGRGRBRW
-<a class="pat" href="/patterns/rgrgrbrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGRGRBRW</span></a>
+### KGWGKGKR
+<a class="pat" href="/patterns/kgwgkgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGWGKGKR</span></a>
 
-| Tartan |
-|---|
-| [Hall, from Springbrook and Newtown (Personal)](/patterns/rgrgrbrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Ata?, H.M. & I.C. (Personal)](/setts/s8/k18g10w2g30ka4g2ka88r2-g003820-k00002c-ka101010-rc80000-we0e0e0/) | tartans-authority |
 
-### RGRGRRRR
-<a class="pat" href="/patterns/rgrgrrrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGRGRRRR</span></a>
+### KGWGKGWK
+<a class="pat" href="/patterns/kgwgkgwk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="seq">KGWGKGWK</span></a>
 
-| Tartan |
-|---|
-| [Beck-McSorley](/patterns/rgrgrrrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Utah Valley University](/setts/s8/k6w14g6k32g34w2g16k2-g005020-k101010-wffffff/) | register-of-tartans |
 
-### RGRGRRWR
-<a class="pat" href="/patterns/rgrgrrwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGRGRRWR</span></a>
+### KGWKGKBY
+<a class="pat" href="/patterns/kgwkgkby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KGWKGKBY</span></a>
 
-| Tartan |
-|---|
-| [Gudbrandsdalen, Rondastakken](/patterns/rgrgrrwr/) |
-| [Gudbrandsdalen, Rondastakken](/patterns/rgrgrrwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Mission](/setts/s8/y8b56k4g44k8w8ga8k4-b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500/) | register-of-tartans |
 
-### RGRGWYGY
-<a class="pat" href="/patterns/rgrgwygy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGRGWYGY</span></a>
+### KGWWWGWW
+<a class="pat" href="/patterns/kgwwwgww/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGWWWGWW</span></a>
 
-| Tartan |
-|---|
-| [Bannockbane Grey #2](/patterns/rgrgwygy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.17 | [Gairloch (Fashion)](/setts/s8/w48w2g18w2w18w4g4k4-g808080-k101010-we0e0e0/) | tartans-authority |
 
-### RGRGYGRY
-<a class="pat" href="/patterns/rgrgygry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGRGYGRY</span></a>
+### KGYBWYKW
+<a class="pat" href="/patterns/kgybwykw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KGYBWYKW</span></a>
 
-| Tartan |
-|---|
-| [Battle of Bannockburn, The](/patterns/rgrgygry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.16 | [Glasgow Islay, The](/setts/s8/k8g100y8b8w4ya4ka6w4-b8a2be2-g008080-k000033-ka101010-wffffff-y28ae7b-yaeecfa1/) | register-of-tartans |
 
-### RGRYGWGW
-<a class="pat" href="/patterns/rgrygwgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGRYGWGW</span></a>
+### KGYGRGRK
+<a class="pat" href="/patterns/kgygrgrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="seq">KGYGRGRK</span></a>
 
-| Tartan |
-|---|
-| [Sutherland de Albergaria Dress (Personal)](/patterns/rgrygwgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Oakhall (Corporate)](/setts/s8/k6r96g12r12g24y6g4k6-g006818-k101010-r901c38-ye8c000/) | tartans-authority |
 
-### RGWGRGRR
-<a class="pat" href="/patterns/rgwgrgrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGWGRGRR</span></a>
+### KGYKGKBR
+<a class="pat" href="/patterns/kgykgkbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KGYKGKBR</span></a>
 
-| Tartan |
-|---|
-| [Scott, hunting](/patterns/rgwgrgrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Mission](/setts/s8/r8b56k4g44k8y8ga8k4-b5480b0-g008000-ga407050-k000000-r703000-ye0a0a0/) | weddslist |
 
-### RGWGYBBW
-<a class="pat" href="/patterns/rgwgybbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGWGYBBW</span></a>
+### KKKKKKGR
+<a class="pat" href="/patterns/kkkkkkgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KKKKKKGR</span></a>
 
-| Tartan |
-|---|
-| [Queensland](/patterns/rgwgybbw/) |
-| [Queensland (District)](/patterns/rgwgybbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [The Caledonian Hotel](/setts/s8/k48k6k6k6k6k36g40r8-g003000-k000030-rc00000/) | weddslist |
 
-### RGWKBKBY
-<a class="pat" href="/patterns/rgwkbkby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGWKBKBY</span></a>
+### KKKKKRKR
+<a class="pat" href="/patterns/kkkkkrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KKKKKRKR</span></a>
 
-| Tartan |
-|---|
-| [Cowan of Inveresk (Personal)](/patterns/rgwkbkby/) |
-| [Cowan of Inveresk (Personal)](/patterns/rgwkbkby/) |
-| [Cowan of Inveresk Family Tartan Tartan Number: 1549. Earliest known date: 1979 This is a modern family tartan designed by the representer of the family of Cowan of Inveresk, in the parish of that name in Musselburgh, Mr Robert Cowan of Atlanta, Georgia. Cowans are a Sept of the Colquhouns, variously spelt Macillechomhghain, Comhain, Comhan and Cowen. Cowans not associated with the Inveresk branch of the family may wear the Colquhoun tartan on which this design is based. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rgwkbkby/) |
-| [Cowan, of Inveresk](/patterns/rgwkbkby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Aitken (Fashion)](/setts/s8/k10k4k4k24k32r40k4r8-k000000-r8c0000/) | tartans-authority |
 
-### RGWWGWGW
-<a class="pat" href="/patterns/rgwwgwgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGWWGWGW</span></a>
+### KKYWYKBW
+<a class="pat" href="/patterns/kkywykbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KKYWYKBW</span></a>
 
-| Tartan |
-|---|
-| [Beck-McSorley](/patterns/rgwwgwgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Modern Craft (Masonic)](/setts/s8/k216ka8y8w4y8ka2b4w4-b2c2c80-k101010-ka1c1714-wfcfcfc-ya0a0a0/) | register-of-tartans |
 
-### RGYBYGYR
-<a class="pat" href="/patterns/rgybygyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RGYBYGYR</span></a>
+### KRBBBKRR
+<a class="pat" href="/patterns/krbbbkrr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRBBBKRR</span></a>
 
-| Tartan |
-|---|
-| [Invertere (Daks #1) (Fashion)](/patterns/rgybygyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [ODL (Corporate)](/setts/s8/k8r2b6ba56b72k6r4ra2-b2c2c80-ba1c1c50-k101010-rc80000-ra888888/) | tartans-authority |
+| 0.12 | [ODL](/setts/s8/k8r2b6ba56b72k6r4ra2-b2c2c80-ba1c1c50-k101010-rc80000-ra888888/) | register-of-tartans |
 
-### RGYGBWBW
-<a class="pat" href="/patterns/rgygbwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGYGBWBW</span></a>
+### KRBBKWBR
+<a class="pat" href="/patterns/krbbkwbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRBBKWBR</span></a>
 
-| Tartan |
-|---|
-| [Sandelin #2 (Personal)](/patterns/rgygbwbw/) |
-| [Sandelin (Personal)](/patterns/rgygbwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Yates Personal Tartan Tartan Number: 7091. Earliest known date: 2006 Tartan designed by Bill Yates, Shirley Banks, Gertrude Ryan and Nancy Armour to honor their father, Thomas Yates; born in Glasgow, 1884. May be worn by anyone with the name Yates or any derivation. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k58r6b48ba12k16w8ba16ra12-b003c64-ba5c5c5c-k101010-rc80000-ra888888-we0e0e0/) | house-of-tartan |
+| 0.11 | [Yates (Personal)](/setts/s8/k58r6b48ba12k16w8ba16ra12-b003c64-ba5c5c5c-k101010-rc80000-ra888888-we0e0e0/) | tartans-authority |
 
-### RGYGRBBW
-<a class="pat" href="/patterns/rgygrbbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGYGRBBW</span></a>
+### KRBRBGRK
+<a class="pat" href="/patterns/krbrbgrk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="seq">KRBRBGRK</span></a>
 
-| Tartan |
-|---|
-| [Stewart of Fingask - 1745 (Clan?)](/patterns/rgygrbbw/) |
-| [Stuart/Stewart of Fingask](/patterns/rgygrbbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [Skene, of Cromar](/setts/s8/k4r37b37r2b37g37r37k4-b304080-g008000-k000000-rc00000/) | weddslist |
+| 0.06 | [Skene of Cromar - 1950 (Clan)](/setts/s8/k8r74b74r4b74g74r74k8-b2c2c80-g006818-k101010-rc80000/) | tartans-authority |
 
-### RGYGRKRY
-<a class="pat" href="/patterns/rgygrkry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RGYGRKRY</span></a>
+### KRBRKRRR
+<a class="pat" href="/patterns/krbrkrrr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRBRKRRR</span></a>
 
-| Tartan |
-|---|
-| [Beard](/patterns/rgygrkry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.15 | [Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6r4b60r2k36ra60r4ra6-b1c0070-k000000-r980044-raa07c58/) | house-of-tartan |
 
-### RGYKBWBW
-<a class="pat" href="/patterns/rgykbwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGYKBWBW</span></a>
+### KRBRKYKR
+<a class="pat" href="/patterns/krbrkykr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRBRKYKR</span></a>
 
-| Tartan |
-|---|
-| [Caledonian Society Ancient Artifact Tartan Tartan Number: 1554. Earliest known date: 1847 Coat at Banff museum. The MacPherson of MacPherson's Rant was hanged at Banff market cross. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rgykbwbw/) |
-| [Caledonian Society, Ancient](/patterns/rgykbwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.01 | [Leslie](/setts/s8/r8k12y2k12r8b32r64k2-b304080-k000000-rc00000-yf0c000/) | weddslist |
+| 0.06 | [Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r8k12y2k12r8b32r64k2-b2c2c80-k101010-rc80000-ye8c000/) | house-of-tartan |
+| 0.06 | [Leslie Red (VS) (Clan)](/setts/s8/r8k12y4k12r8b32r64k4-b2c2c80-k101010-rc80000-ye8c000/) | tartans-authority |
+| 0.09 | [Leslie Dress](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/) | weddslist |
+| 0.09 | [Leslie Dress](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/) | weddslist |
 
-### RGYKGWBW
-<a class="pat" href="/patterns/rgykgwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RGYKGWBW</span></a>
+### KRGBKBBW
+<a class="pat" href="/patterns/krgbkbbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRGBKBBW</span></a>
 
-| Tartan |
-|---|
-| [Ancient Caledonian Society](/patterns/rgykgwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [American National](/setts/s8/k6r6g8b14k6ba78b30w6-b2c2c80-ba14283c-g285800-k101010-rc80000-wf8f8f8/) | register-of-tartans |
+| 0.07 | [American National (Fashion)](/setts/s8/k6r6g8b14k6ba78b30w6-b2c2c80-ba14283c-g285800-k101010-rc80000-wf8f8f8/) | tartans-authority |
 
-### RKBGKGKR
-<a class="pat" href="/patterns/rkbgkgkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKBGKGKR</span></a>
+### KRGBKKBW
+<a class="pat" href="/patterns/krgbkkbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRGBKKBW</span></a>
 
-| Tartan |
-|---|
-| [McCarter (2016)](/patterns/rkbgkgkr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [American National Fashion Tartan Tartan Number: 6882. Earliest known date: 01/01/2006 Designed by Erica Randall of The House of Edgar for Houston Kilts of Glasgow. Letter of appreciation on Scottish Tartans Authority file from President Bush thanking Ken MacDonald of Houston Kilts for 'the kilt outfit'./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6r6g8b14k6ka78b30w6-b080848-g003c14-k101010-ka000028-rdc0000-we0e0e0/) | house-of-tartan |
 
-### RKBGKGKY
-<a class="pat" href="/patterns/rkbgkgky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKBGKGKY</span></a>
+### KRGBYBKY
+<a class="pat" href="/patterns/krgbybky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRGBYBKY</span></a>
 
-| Tartan |
-|---|
-| [Tait #1](/patterns/rkbgkgky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Rainbow](/setts/s8/k2r2g2b2y2ba2k2ya2-b000052-ba6e5058-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) | weddslist |
 
-### RKBKBKBW
-<a class="pat" href="/patterns/rkbkbkbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKBKBKBW</span></a>
+### KRGKGKGW
+<a class="pat" href="/patterns/krgkgkgw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRGKGKGW</span></a>
 
-| Tartan |
-|---|
-| [Meiklejohn (Personal)](/patterns/rkbkbkbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Scottish Chieftain (Universal)](/setts/s8/k40r2g6k16g4k4g40w4-g003820-k101010-rc80000-we0e0e0/) | tartans-authority |
 
-### RKBKGYKY
-<a class="pat" href="/patterns/rkbkgyky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKBKGYKY</span></a>
+### KRGKWKGR
+<a class="pat" href="/patterns/krgkwkgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRGKWKGR</span></a>
 
-| Tartan |
-|---|
-| [Thomas of Craigie (Personal)](/patterns/rkbkgyky/) |
-| [Thomas, baron of Craigie, Robert (Personal)](/patterns/rkbkgyky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [MacDiarmid #2](/setts/s8/k166r32g112k4w10k4g112r10-g005020-k101010-rdc0000-we0e0e0/) | register-of-tartans |
 
-### RKBWKWKW
-<a class="pat" href="/patterns/rkbwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKBWKWKW</span></a>
+### KRGRBKGW
+<a class="pat" href="/patterns/krgrbkgw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRGRBKGW</span></a>
 
-| Tartan |
-|---|
-| [Mitsukoshi (Corporate)](/patterns/rkbwkwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Lambert Greer (Personal)](/setts/s8/k6r68g20r10b4k16ga4w6-b1474b4-g006818-ga604000-k101010-rc8002c-wfcfcfc/) | tartans-authority |
 
-### RKGBGGKR
-<a class="pat" href="/patterns/rkgbggkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKGBGGKR</span></a>
+### KRGRBKRW
+<a class="pat" href="/patterns/krgrbkrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRGRBKRW</span></a>
 
-| Tartan |
-|---|
-| [Aberuchill District Tartan Tartan Number: 6814. Earliest known date: 2005 Aberuchill lends it name to the area south of Comrie where the river Ruchil meets the river Earn. The two rivers form the boundaries of the Aberuchill Estate for which this tartan was created. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rkgbggkr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Lambert (Front Royal) Greer](/setts/s8/k6r68g20r10b4k16ra4w6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/) | register-of-tartans |
+| 0.14 | [Lambert (Front Royal) Greer Name Tartan Tartan Number: 10673. Earliest known date: 14 August 2012 Designed by Charles Lambert, using the Scotweb Tartan Designer, for his family, to celebrate their Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Kai tartan (STR #10670) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6r68g20r10b4k16ra4w6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/) | house-of-tartan |
 
-### RKGBGGKY
-<a class="pat" href="/patterns/rkgbggky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKGBGGKY</span></a>
+### KRGRGBGR
+<a class="pat" href="/patterns/krgrgbgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRGRGBGR</span></a>
 
-| Tartan |
-|---|
-| [Aberuchill](/patterns/rkgbggky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [Carnegie](/setts/s8/r33g17b50g17r11g17r9k7-b304080-g008000-k000000-rc00000/) | weddslist |
+| 0.07 | [Carnegie #3](/setts/s8/r33g17b50g17r11g17r9k7-b2c4084-g005020-k101010-rdc0000/) | register-of-tartans |
 
-### RKGKBKRW
-<a class="pat" href="/patterns/rkgkbkrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKGKBKRW</span></a>
+### KRGRGWGR
+<a class="pat" href="/patterns/krgrgwgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRGRGWGR</span></a>
 
-| Tartan |
-|---|
-| [Tennent from Strathaven](/patterns/rkgkbkrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.04 | [Comyn, or MacAulay](/setts/s8/r6g18w2g18r6g12r36k4-g008000-k000000-rc00000-we0e0e0/) | weddslist |
+| 0.05 | [Comyn](/setts/s8/k2r18g4r4g8w2g8r2-g004c00-k000000-rc80000-wd0d0d0/) | weddslist |
+| 0.05 | [Cumming SM](/setts/s8/r3g9w1g9r3g6r18k2-g004c00-k000000-rc80000-wd0d0d0/) | weddslist |
+| 0.05 | [Cumming #2](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/) | register-of-tartans |
+| 0.05 | [Cumming - 1850 (Clan)](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/) | tartans-authority |
+| 0.06 | [Comyn or MacAulay Tartan Tartan Number: 1157. Earliest known date: 1850 This sett closely resembles the 'Vestiarium' version, but is in fact the one given by Logan as MacAuley and illustrated by MacIan in 'The Clans of the Scottish Highlands', 1847. The Smith brothers said that the sett had the approval of the head of the family og Cumming. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-we0e0e0/) | house-of-tartan |
 
-### RKGKRKGY
-<a class="pat" href="/patterns/rkgkrkgy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKGKRKGY</span></a>
+### KRGRGYGR
+<a class="pat" href="/patterns/krgrgygr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRGRGYGR</span></a>
 
-| Tartan |
-|---|
-| [Midpac Tissue (non woven)](/patterns/rkgkrkgy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Comyn](/setts/s8/k2r18g4r4g8y2g8r2-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
+| 0.09 | [Comyn](/setts/s8/k1r9g2r2g4y1g4r1-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
+| 0.09 | [Cumming SM](/setts/s8/r6g18y2g18r6g12r36k4-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
+| 0.09 | [Cumming SM](/setts/s8/r6g18y2g18r6g12r36k4-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
 
-### RKGRWBKY
-<a class="pat" href="/patterns/rkgrwbky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKGRWBKY</span></a>
+### KRKGBRGY
+<a class="pat" href="/patterns/krkgbrgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRKGBRGY</span></a>
 
-| Tartan |
-|---|
-| [M'Kleod](/patterns/rkgrwbky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Bootneck 350](/setts/s8/k12r8k38g8b50r10g6y4-b202060-g285800-k101010-rc80000-ye8c000/) | tartans-authority |
+| 0.11 | [Bootneck 350](/setts/s8/k12r8k38g8b50r10g6y4-b141e46-g003c14-k101010-rc8002c-yffd700/) | register-of-tartans |
 
-### RKRBGBKY
-<a class="pat" href="/patterns/rkrbgbky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKRBGBKY</span></a>
+### KRKGKRGR
+<a class="pat" href="/patterns/krkgkrgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKGKRGR</span></a>
 
-| Tartan |
-|---|
-| [Sandberg of Greenock (Personal)](/patterns/rkrbgbky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Dean Brae](/setts/s8/k44r8k8g8k32ra72ga6ra12-g447438-ga789484-k000000-rb07430-rafc2020/) | register-of-tartans |
 
-### RKRBKWKR
-<a class="pat" href="/patterns/rkrbkwkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKRBKWKR</span></a>
+### KRKKYKYK
+<a class="pat" href="/patterns/krkkykyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="seq">KRKKYKYK</span></a>
 
-| Tartan |
-|---|
-| [Distripress (Corporate)](/patterns/rkrbkwkr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Printing Industries of America](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/) | register-of-tartans |
+| 0.11 | [Printing Industries of America (Corp](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/) | tartans-authority |
 
-### RKRBRYRW
-<a class="pat" href="/patterns/rkrbryrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKRBRYRW</span></a>
+### KRKRBRKR
+<a class="pat" href="/patterns/krkrbrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKRBRKR</span></a>
 
-| Tartan |
-|---|
-| [Westin Kierland](/patterns/rkrbryrw/) |
-| [Westin Kierland](/patterns/rkrbryrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Laing of Archiestown Clan/Family Tartan Tartan Number: 2544. Earliest known date: 1783 Said to have been woven in 1783 in Knockando Morayshire, by William Donald Laing of Queensland, Australia who donated a sample to the Tartans Society in 1996. The dark line in the centre of the red band is either blue or black. Apparently William Laing acquired the piece of tartan in 1961 from a Mr Jack Garden whose g.g. grandfather was John Laing (dob 1767) who wove the tartan. In the 1810 census he lived in his shop in the Square at Archiestown. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k8r8ka8r8b64r8ka8r8-b1474b4-k101010-ka000000-rc80000/) | house-of-tartan |
 
-### RKRGKRWR
-<a class="pat" href="/patterns/rkrgkrwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKRGKRWR</span></a>
+### KRKRGKGY
+<a class="pat" href="/patterns/krkrgkgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRKRGKGY</span></a>
 
-| Tartan |
-|---|
-| [Gudbrandsdalen, Rondastakken #2](/patterns/rkrgkrwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [Gleneil](/setts/s8/k4r4k4r48g62k2g4y4-g008000-k000000-rc00000-yf0c000/) | weddslist |
+| 0.10 | [Gleneil (Spoof)](/setts/s8/k4r4k2r36g48k2g4y4-g006818-k101010-ra03400-yd09800/) | register-of-tartans |
+| 0.10 | [Gleneil (Corporate)](/setts/s8/k4r4k2r36g48k2g4y4-g006818-k101010-ra03400-yd09800/) | tartans-authority |
+| 0.10 | [Gleneil Corporate Tartan Tartan Number: 2545. Earliest known date: 1996 The STS calls this a spoof tartan. Designed by J B Renwick of Lochcarron for Gleneil Publishers to accompany their fictional book by Michael Brander on the bogus Gleneil clan. The tartan is Johnston with blue changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k4r4k2r36g48k2g4y4-g006818-k101010-ra03400-yd09800/) | house-of-tartan |
 
-### RKRKBKBY
-<a class="pat" href="/patterns/rkrkbkby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKRKBKBY</span></a>
+### KRKRKBGY
+<a class="pat" href="/patterns/krkrkbgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRKRKBGY</span></a>
 
-| Tartan |
-|---|
-| [Aitken](/patterns/rkrkbkby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Craigmoor (Fashion)](/setts/s8/k4r28k8r4k8b4g12y4-b441800-g006818-k101010-rc80000-ye8c000/) | tartans-authority |
 
-### RKRKRGBY
-<a class="pat" href="/patterns/rkrkrgby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKRKRGBY</span></a>
+### KRKRKRKR
+<a class="pat" href="/patterns/krkrkrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKRKRKR</span></a>
 
-| Tartan |
-|---|
-| [Sikh](/patterns/rkrkrgby/) |
-| [Sikh (Corporate)](/patterns/rkrkrgby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.01 | [Menzies, Black & Red](/setts/s8/k96r8k4r8k12r4k6r18-k000000-rc00000/) | weddslist |
+| 0.09 | [Menzies Black & Red Clan Tartan Tartan Number: 1184. Earliest known date: 1906 The red and white Menzies tartan appears in the Cockburn Collection (c.1815) under the name, MacFarlane, but this is taken to be an error on the part of General Cockburn at a time when the establishment of clan names for tartan was in its infancy. The same sett was certified as Menzies, by the clan chief, in the collection of the Highland Society of London (c.1816). The tartan is woven in various colours, green, black, red and white to the same design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k96r8k4r8k12r4k6r18-k101010-rc80000/) | house-of-tartan |
+| 0.09 | [Menzies Htg (Clan)](/setts/s8/k96r8k4r8k12r4k6r18-k101010-rc80000/) | tartans-authority |
+| 0.09 | [Menzies Hunting](/setts/s8/k96r8k4r8k12r4k6r18-k101010-rc80000/) | register-of-tartans |
+| 0.09 | [Murray of Ochtertyre #2](/setts/s8/k60r6k4r6k4r54k60r8-k101010-rc80000/) | tartans-authority |
+| 0.11 | [MacLeod #2](/setts/s8/k24r6k4r32k16r24k4r6-k101010-rdc0000/) | register-of-tartans |
+| 0.21 | [Douglas, Grey (Clan)](/setts/s8/k40r4k8r4k16r40k4r8-k101010-r888888/) | tartans-authority |
+| 0.21 | [Douglas, Grey (Vestiarium Scoticum)](/setts/s8/k40r4k8r4k16r40k4r8-k101010-r888888/) | register-of-tartans |
 
-### RKRKRKRW
-<a class="pat" href="/patterns/rkrkrkrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKRKRKRW</span></a>
+### KRKRKRKY
+<a class="pat" href="/patterns/krkrkrky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRKRKRKY</span></a>
 
-| Tartan |
-|---|
-| [University of Chicago (Corporate)](/patterns/rkrkrkrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.01 | [Barkwell, The](/setts/s8/y16k4r120k60r96k8r16k4-k000000-rc00000-yf0c000/) | weddslist |
+| 0.06 | [Oilmens (Corporate)](/setts/s8/y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/) | tartans-authority |
+| 0.06 | [Oilmens Corporate Tartan Tartan Number: 2044. Earliest known date: pre 1992 Genuinely asymmetrical design by Don Barkwell. No further details. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/) | house-of-tartan |
+| 0.06 | [Royal Army PTC Assoc. (Military)](/setts/s8/k118r6k12r6k16r30k4y6-k101010-rc80000-ye8c000/) | tartans-authority |
+| 0.13 | [Royal Army Physical Training Corps Association (Scotland)](/setts/s8/k188r6k12r6k16r30k4y6-k101010-rff0000-yffe700/) | register-of-tartans |
 
-### RKRKRKWY
-<a class="pat" href="/patterns/rkrkrkwy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKRKRKWY</span></a>
+### KRKRKRRR
+<a class="pat" href="/patterns/krkrkrrr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKRKRRR</span></a>
 
-| Tartan |
-|---|
-| [Aberdeen F.C.](/patterns/rkrkrkwy/) |
-| [Aberdeen Football Club (1999)](/patterns/rkrkrkwy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Virgin](/setts/s8/r102ra4r12k20r4k8ra6k6-k101010-re80000-ra888888/) | register-of-tartans |
+| 0.16 | [Virgin (Corporate)](/setts/s8/r102ra4r12k20r4k8ra6k6-k101010-re80000-ra888888/) | tartans-authority |
 
-### RKRKWRKY
-<a class="pat" href="/patterns/rkrkwrky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKRKWRKY</span></a>
+### KRKRKRYR
+<a class="pat" href="/patterns/krkrkryr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKRKRYR</span></a>
 
-| Tartan |
-|---|
-| [Barbecue Plaid](/patterns/rkrkwrky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [West Point Regimental Tartan Tartan Number: 1130. Earliest known date: 1986 Wemyss means cave and probably originates from the caves beneath MacDuff castle. There is a long and interesting article on the family of Wemyss in William Anderson's 'The Scottish Nation' published by A Fullarton in 1874. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k78r6k6r6k24r60y6r6-k101010-r888888-ye8c000/) | house-of-tartan |
+| 0.15 | [West Point](/setts/s8/k78r6k6r6k24r60y6r6-k101010-r888888-yccc018/) | register-of-tartans |
+| 0.15 | [West Point Military Academy (Mil.)](/setts/s8/k40r4k8r4k16r40y4r8-k101010-r888888-yccc018/) | tartans-authority |
 
-### RKRRRWRR
-<a class="pat" href="/patterns/rkrrrwrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKRRRWRR</span></a>
+### KRKRKWKW
+<a class="pat" href="/patterns/krkrkwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKRKWKW</span></a>
 
-| Tartan |
-|---|
-| [Cameron Hose #2](/patterns/rkrrrwrr/) |
-| [Hose #2](/patterns/rkrrrwrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Nebraska, University of American Corporate Tartan Tartan Number: 6955. Earliest known date: 2006 June This tartan weas designed by Strikke Designs of Hastings Nebraska and Lochcarron of Scotland to be used to support the Alumni Association. Colours are those of the University of Nebraska. Woven by Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w12k4w4k62r82k4r4k8-k101010-rc80000-we0e0e0/) | house-of-tartan |
+| 0.08 | [University of Nebraska (Corporate)](/setts/s8/w12k4w4k62r82k4r4k8-k101010-rc80000-we0e0e0/) | tartans-authority |
+| 0.08 | [University of Nebraska Alumni Association](/setts/s8/w12k4w4k62r82k4r4k8-k101010-rc80000-we0e0e0/) | register-of-tartans |
 
-### RKRWGRWR
-<a class="pat" href="/patterns/rkrwgrwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKRWGRWR</span></a>
+### KRKRKYKR
+<a class="pat" href="/patterns/krkrkykr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKRKYKR</span></a>
 
-| Tartan |
-|---|
-| [McBrayer](/patterns/rkrwgrwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Barkwell (Personal)](/setts/s8/r40k2y6k2r120k60r96k8-k101010-rc80000-yfccc00/) | register-of-tartans |
+| 0.07 | [Barkwell (Personal)](/setts/s8/r40k2y6k2r120k60r96k8-k101010-rc80000-yfccc00/) | tartans-authority |
 
-### RKRWKWKW
-<a class="pat" href="/patterns/rkrwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKRWKWKW</span></a>
+### KRKRWKRW
+<a class="pat" href="/patterns/krkrwkrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKRWKRW</span></a>
 
-| Tartan |
-|---|
-| [O'Sullivan-Beare (Family)](/patterns/rkrwkwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Lougheed](/setts/s8/w12r12k16w8r72k4r8k8-k101010-r880000-we8ccb8/) | register-of-tartans |
+| 0.14 | [Lougheed (Name?)](/setts/s8/w12r12k16w8r72k4r8k8-k101010-r880000-we8ccb8/) | tartans-authority |
 
-### RKRWRKRR
-<a class="pat" href="/patterns/rkrwrkrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKRWRKRR</span></a>
+### KRKRWRBR
+<a class="pat" href="/patterns/krkrwrbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKRWRBR</span></a>
 
-| Tartan |
-|---|
-| [Daks](/patterns/rkrwrkrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Whitaker (2014)](/setts/s8/k120r6k30r6w4r10b6r4-b2c2c80-k101010-rc80000-wc0c0c0/) | tartans-authority |
+| 0.12 | [Whitaker (2014)](/setts/s8/k120r6k30r6w4r10b6r4-b3850c8-k101010-rdc0000-wc0c0c0/) | register-of-tartans |
 
-### RKRYKWKW
-<a class="pat" href="/patterns/rkrykwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKRYKWKW</span></a>
+### KRKRYRBR
+<a class="pat" href="/patterns/krkryrbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKRYRBR</span></a>
 
-| Tartan |
-|---|
-| [Sutherland de Albergaria (Personal)](/patterns/rkrykwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Private SA Club](/setts/s8/k6r16k6r16y38r14b72r6-b14283c-k101010-r880000-yd8a028/) | register-of-tartans |
+| 0.14 | [Private SA Club (Corporate)](/setts/s8/k6r16k6r16y38r14b72r6-b14283c-k101010-r880000-yd8a028/) | tartans-authority |
 
-### RKWGGYKW
-<a class="pat" href="/patterns/rkwggykw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKWGGYKW</span></a>
+### KRKWBRBW
+<a class="pat" href="/patterns/krkwbrbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKWBRBW</span></a>
 
-| Tartan |
-|---|
-| [Madewell Dress](/patterns/rkwggykw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.02 | [Dunlop](/setts/s8/k6r2k60w2b56r2b2w6-b304080-k000000-rc00000-we0e0e0/) | weddslist |
+| 0.07 | [Dunlop](/setts/s8/k6r2k60w2b56r2b2w6-b2c2c80-k101010-rc80000-we0e0e0/) | register-of-tartans |
+| 0.07 | [Dunlop (Clan)](/setts/s8/k6r2k60w2b56r2b2w6-b2c2c80-k101010-rc80000-we0e0e0/) | tartans-authority |
+| 0.07 | [Dunlop Clan Tartan Tartan Number: 1197. Earliest known date: 1982 Revised version See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6r2k60w2b56r2b2w6-b2c2c80-k101010-rc80000-we0e0e0/) | house-of-tartan |
 
-### RKWKGBKW
-<a class="pat" href="/patterns/rkwkgbkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKWKGBKW</span></a>
+### KRKWBWBW
+<a class="pat" href="/patterns/krkwbwbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKWBWBW</span></a>
 
-| Tartan |
-|---|
-| [Hislop (Name)](/patterns/rkwkgbkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.15 | [Immanuel Presbyterian Church (Milwaukee)](/setts/s8/k6r4k28w4b12w4b32w6-b0000cd-k101010-rff0000-w82cffd/) | register-of-tartans |
 
-### RKWKRKRW
-<a class="pat" href="/patterns/rkwkrkrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKWKRKRW</span></a>
+### KRKWBWKR
+<a class="pat" href="/patterns/krkwbwkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKWBWKR</span></a>
 
-| Tartan |
-|---|
-| [Las Vegas Fire Fighters](/patterns/rkwkrkrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [State University of New York College at Buffalo](/setts/s8/k70r5k3w4b4w4k3r12-b64008c-k101010-rfa4b00-wc8c8c8/) | register-of-tartans |
 
-### RKWKRRRR
-<a class="pat" href="/patterns/rkwkrrrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKWKRRRR</span></a>
+### KRKWKRKR
+<a class="pat" href="/patterns/krkwkrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKWKRKR</span></a>
 
-| Tartan |
-|---|
-| [Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rkwkrrrr/) |
-| [Sydney (Nova Scotia) (District)](/patterns/rkwkrrrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k50r50k20w6k20r50k50r6-k101010-rc80000-wc0c0c0/) | house-of-tartan |
 
-### RKWKWBWR
-<a class="pat" href="/patterns/rkwkwbwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKWKWBWR</span></a>
+### KRKWRGRW
+<a class="pat" href="/patterns/krkwrgrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKWRGRW</span></a>
 
-| Tartan |
-|---|
-| [Inverness - 2000 (Fashion)](/patterns/rkwkwbwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Dunlop](/setts/s8/k6r2k60w2ra56g2ra2w6-g008000-k000000-rc00000-ra806050-we0e0e0/) | weddslist |
 
-### RKWKYBYR
-<a class="pat" href="/patterns/rkwkybyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKWKYBYR</span></a>
+### KRKWYGYW
+<a class="pat" href="/patterns/krkwygyw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKWYGYW</span></a>
 
-| Tartan |
-|---|
-| [Princess Elizabeth](/patterns/rkwkybyr/) |
-| [Princess Elizabeth](/patterns/rkwkybyr/) |
-| [Princess Elizabeth Royal Family Tartan Tartan Number: 1613. Earliest known date: pre 2003 Also Earl of Inverness See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rkwkybyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Dunlop Hunting](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/) | register-of-tartans |
+| 0.08 | [Dunlop, Htg (Clan)](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/) | tartans-authority |
 
-### RKWKYWKY
-<a class="pat" href="/patterns/rkwkywky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKWKYWKY</span></a>
+### KRKYKRKR
+<a class="pat" href="/patterns/krkykrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRKYKRKR</span></a>
 
-| Tartan |
-|---|
-| [Cunard o' the Clyde](/patterns/rkwkywky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Haig & Haig Whisky](/setts/s8/r52k36r14k8y8k8r14k36-k101010-rc80000-ye8c000/) | register-of-tartans |
+| 0.13 | [Auld Bernensis](/setts/s8/k124r6k6y6k6r6k18ra10-k101010-rc80000-ra888888-yd09800/) | tartans-authority |
 
-### RKWWWRWW
-<a class="pat" href="/patterns/rkwwwrww/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKWWWRWW</span></a>
+### KRKYKRKW
+<a class="pat" href="/patterns/krkykrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRKYKRKW</span></a>
 
-| Tartan |
-|---|
-| [MacDonald from Rawtenstall (Personal)](/patterns/rkwwwrww/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Black Country](/setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/) | register-of-tartans |
+| 0.06 | [Black Country (District)](/setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/) | tartans-authority |
 
-### RKYGRKBW
-<a class="pat" href="/patterns/rkygrkbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKYGRKBW</span></a>
+### KRKYKRKY
+<a class="pat" href="/patterns/krkykrky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRKYKRKY</span></a>
 
-| Tartan |
-|---|
-| [MacIngust](/patterns/rkygrkbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Auld Bernensis](/setts/s8/k124r6k6y6k6r6k18ya10-k101010-rff0000-ye0a126-yab0b0b0/) | register-of-tartans |
 
-### RKYKGBKW
-<a class="pat" href="/patterns/rkykgbkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RKYKGBKW</span></a>
+### KRRBKWKW
+<a class="pat" href="/patterns/krrbkwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRRBKWKW</span></a>
 
-| Tartan |
-|---|
-| [Hislop hunting](/patterns/rkykgbkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Lootens Jensen (Personal)](/setts/s8/w52k16w6k10b6r10ra6k8-b2c2c80-k101010-rc80000-ra888888-we0e0e0/) | register-of-tartans |
+| 0.10 | [Lootens Jensen (Personal)](/setts/s8/w52k16w6k10b6r10ra6k8-b2c2c80-k101010-rc80000-ra888888-we0e0e0/) | tartans-authority |
 
-### RKYKGBYR
-<a class="pat" href="/patterns/rkykgbyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKYKGBYR</span></a>
+### KRRKRKRW
+<a class="pat" href="/patterns/krrkrkrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRRKRKRW</span></a>
 
-| Tartan |
-|---|
-| [Sey (Name)](/patterns/rkykgbyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Believe - Corinna](/setts/s8/k8r16ra60k16r12k16r24w6-k101010-rb468ac-rac04094-wfcfcfc/) | tartans-authority |
 
-### RKYKWKYR
-<a class="pat" href="/patterns/rkykwkyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKYKWKYR</span></a>
+### KRRRKYKY
+<a class="pat" href="/patterns/krrrkyky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRRRKYKY</span></a>
 
-| Tartan |
-|---|
-| [FIRES Center of Excelence](/patterns/rkykwkyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Wilbers #2 (Personal)](/setts/s8/y10k18y4k14r20ra8r70k8-k101010-rbe7832-radc0000-yfadc00/) | register-of-tartans |
 
-### RKYRWKBY
-<a class="pat" href="/patterns/rkyrwkby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RKYRWKBY</span></a>
+### KRWGGBBW
+<a class="pat" href="/patterns/krwggbbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRWGGBBW</span></a>
 
-| Tartan |
-|---|
-| [Conroy](/patterns/rkyrwkby/) |
-| [Conroy (Personal)](/patterns/rkyrwkby/) |
-| [Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rkyrwkby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Wilson's, No 132](/setts/s8/k6r36w4g42ga4b14ba10w4-b800080-ba5480b0-g008000-ga30a010-k000000-rc00000-we0e0e0/) | weddslist |
 
-### RRBBGRYR
-<a class="pat" href="/patterns/rrbbgryr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRBBGRYR</span></a>
+### KRWKGRKW
+<a class="pat" href="/patterns/krwkgrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRWKGRKW</span></a>
 
-| Tartan |
-|---|
-| [Unidentified 2](/patterns/rrbbgryr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Malliou, Despina (Personal)](/setts/s8/k16r14w8k16g10r14k36wa4-g008b00-k101010-re3170d-wffff7e-wa82cffd/) | register-of-tartans |
 
-### RRBGGRYR
-<a class="pat" href="/patterns/rrbggryr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRBGGRYR</span></a>
+### KRWRBRKY
+<a class="pat" href="/patterns/krwrbrky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRWRBRKY</span></a>
 
-| Tartan |
-|---|
-| [Unidentified #40](/patterns/rrbggryr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Toronto Fire Services](/setts/s8/k8r4w4r56b54r4k4y4-b202060-k000000-r8c0000-wc8c8c8-yc88c00/) | register-of-tartans |
+| 0.10 | [Toronto Fire Services (Corporate)](/setts/s8/k8r4w4r56b54r4k4y4-b202060-k000000-r8c0000-wc8c8c8-yc88c00/) | tartans-authority |
 
-### RRBKGBYR
-<a class="pat" href="/patterns/rrbkgbyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRBKGBYR</span></a>
+### KRWRBRWR
+<a class="pat" href="/patterns/krwrbrwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRWRBRWR</span></a>
 
-| Tartan |
-|---|
-| [State Seal of West Virginia (Fash)](/patterns/rrbkgbyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Laing of Archiestown](/setts/s8/k8r8w8r8b64r8w8r8-b2c2c80-k101010-rc80000-wfcfcfc/) | register-of-tartans |
 
-### RRBKGRRR
-<a class="pat" href="/patterns/rrbkgrrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRBKGRRR</span></a>
+### KRWRKRWK
+<a class="pat" href="/patterns/krwrkrwk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="seq">KRWRKRWK</span></a>
 
-| Tartan |
-|---|
-| [MacDuff, hunting](/patterns/rrbkgrrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Mull Rugby Club](/setts/s8/k88r4w20r6k12r2w4k36-k101010-rdc0000-wffffff/) | register-of-tartans |
 
-### RRBYKWKW
-<a class="pat" href="/patterns/rrbykwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RRBYKWKW</span></a>
+### KRWRWRWK
+<a class="pat" href="/patterns/krwrwrwk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="seq">KRWRWRWK</span></a>
 
-| Tartan |
-|---|
-| [Culloden, Stirling](/patterns/rrbykwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Bundy, Dress Red (Personal Dance)](/setts/s8/k4r4w4r60w60r4w4k4-k101010-rc80000-we0e0e0/) | tartans-authority |
 
-### RRGRBRBW
-<a class="pat" href="/patterns/rrgrbrbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RRGRBRBW</span></a>
+### KRWRYRWR
+<a class="pat" href="/patterns/krwryrwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRWRYRWR</span></a>
 
-| Tartan |
-|---|
-| [Connacht #2](/patterns/rrgrbrbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Cornell #2](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/) | register-of-tartans |
+| 0.14 | [Cornell (Corporate)](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/) | tartans-authority |
 
-### RRKRKRKW
-<a class="pat" href="/patterns/rrkrkrkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RRKRKRKW</span></a>
+### KRYBGBRY
+<a class="pat" href="/patterns/krybgbry/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRYBGBRY</span></a>
 
-| Tartan |
-|---|
-| [Sreijsener (Name)](/patterns/rrkrkrkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [Snodgrass](/setts/s8/k6r2y2b22g26b10r2y2-b304080-g008000-k000000-rc00000-yf0c000/) | weddslist |
+| 0.05 | [Snodgrass Family Tartan Tartan Number: 1216. Earliest known date: 1978 Designed for the Snodgrass Clan Association. It is based on the Cunningham tartan, and the colours chosen were, Black, Green and Gold - of the Snodgrass Coat of Arms, Green - for the 'grasy place' (sic) alluded to in the name, and Blue - representing the traditional Highland 'Blue Bonnet'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6r2y2b22g26b10r2y2-b2c2c80-g006818-k101010-rc80000-ye8c000/) | house-of-tartan |
+| 0.11 | [Snodgrass (Clan)](/setts/s8/k12r4y4b44g52b20r4y4-b2888c4-g289c18-k101010-rc80000-ye8c000/) | tartans-authority |
 
-### RRRRRBGW
-<a class="pat" href="/patterns/rrrrrbgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RRRRRBGW</span></a>
+### KRYRKRKW
+<a class="pat" href="/patterns/kryrkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KRYRKRKW</span></a>
 
-| Tartan |
-|---|
-| [Akins Clan (Personal)](/patterns/rrrrrbgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Aberdeen F. C. (2002) (Sports)](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rc80000-wfcfcfc-yfccc00/) | tartans-authority |
+| 0.07 | [Aberdeen Football Club (2002)](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rdc0000-we0e0e0-ye8c000/) | register-of-tartans |
 
-### RRRRRRRR
-<a class="pat" href="/patterns/rrrrrrrr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRRRRRRR</span></a>
+### KWBKGRGW
+<a class="pat" href="/patterns/kwbkgrgw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWBKGRGW</span></a>
 
-| Tartan |
-|---|
-| [Miyuki, House Check Tan, 1004A](/patterns/rrrrrrrr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Sarros (Personal) XX](/setts/s8/k4w4b16k8g66r4g32w4-b2c2c80-g006818-k101010-rc8002c-wfcfcfc/) | tartans-authority |
+| 0.11 | [Sarros, Terrence (USA) (Personal)](/setts/s8/k4w4b16k8g66r4g32w4-b0c4252-g052f14-k1c1714-rdd1212-wf9f5ef/) | register-of-tartans |
 
-### RRRRRRYR
-<a class="pat" href="/patterns/rrrrrryr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRRRRRYR</span></a>
+### KWBRBWKW
+<a class="pat" href="/patterns/kwbrbwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWBRBWKW</span></a>
 
-| Tartan |
-|---|
-| [Cairngorms National Park](/patterns/rrrrrryr/) |
-| [Hamilton, Red](/patterns/rrrrrryr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Edinburgh, Military Tattoo dress](/setts/s8/k12w22b22r26ba34w20k4w8-b8080d0-ba304080-k000000-rc00000-we0e0e0/) | weddslist |
+| 0.09 | [Edinburgh Tatttoo Dress (Corporate)](/setts/s8/k12w22b22r26ba34w20k4w8-b2888c4-ba2c2c80-k101010-rc80000-wfcfcfc/) | tartans-authority |
+| 0.11 | [Edinburgh Military Tattoo Dress](/setts/s8/k12w22b22r26ba34w20k4w8-b0596fa-ba2c4084-k101010-rdc0000-we0e0e0/) | register-of-tartans |
 
-### RRRRWRWR
-<a class="pat" href="/patterns/rrrrwrwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRRRWRWR</span></a>
+### KWBYWYBY
+<a class="pat" href="/patterns/kwbywyby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KWBYWYBY</span></a>
 
-| Tartan |
-|---|
-| [Gigha Cherry](/patterns/rrrrwrwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Western Illinois University](/setts/s8/k4w6b10y8w6y8b50y4-b5a008c-k101010-wffffff-ye0a126/) | register-of-tartans |
 
-### RRWKGKWR
-<a class="pat" href="/patterns/rrwkgkwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRWKGKWR</span></a>
+### KWGKBRBR
+<a class="pat" href="/patterns/kwgkbrbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWGKBRBR</span></a>
 
-| Tartan |
-|---|
-| [Strathblane](/patterns/rrwkgkwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Purves (2014)](/setts/s8/k8w2g24ka6b32r2b2r2-b202060-g003820-k320000-ka101010-rc80000-wfcfcfc/) | tartans-authority |
 
-### RRWRRRWR
-<a class="pat" href="/patterns/rrwrrrwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RRWRRRWR</span></a>
+### KWGRKWGR
+<a class="pat" href="/patterns/kwgrkwgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWGRKWGR</span></a>
 
-| Tartan |
-|---|
-| [Longniddry Burgundy (Dance)](/patterns/rrwrrrwr/) |
-| [Longniddry, dress Burgundy](/patterns/rrwrrrwr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Harazeen (Personal)](/setts/s8/r40g20w20k20r40g20w20k20-g00801c-k101010-rc80000-we0e0e0/) | tartans-authority |
+| 0.11 | [Harazeen](/setts/s8/r40g20w20k20r40g20w20k20-g008b00-k101010-rff0000-wffffff/) | register-of-tartans |
 
-### RWBKBRKW
-<a class="pat" href="/patterns/rwbkbrkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBKBRKW</span></a>
+### KWGWGWKR
+<a class="pat" href="/patterns/kwgwgwkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWGWGWKR</span></a>
 
-| Tartan |
-|---|
-| [Yale College of Wrexham (Corporate)](/patterns/rwbkbrkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Kierson](/setts/s8/k44w32g4w28g4w32k44r6-g006818-k101010-r880000-wf8f8f8/) | register-of-tartans |
 
-### RWBKGRKW
-<a class="pat" href="/patterns/rwbkgrkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBKGRKW</span></a>
+### KWKBBBBY
+<a class="pat" href="/patterns/kwkbbbby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KWKBBBBY</span></a>
 
-| Tartan |
-|---|
-| [Scottish Prison Service (Corporate)](/patterns/rwbkgrkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.15 | [Banff and Buchan](/setts/s8/k34w4k6b32ba56b4ba6y4-b000064-ba3c74a4-k000000-wc8c8c8-yc48800/) | register-of-tartans |
 
-### RWBKRBRY
-<a class="pat" href="/patterns/rwbkrbry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWBKRBRY</span></a>
+### KWKBRKGY
+<a class="pat" href="/patterns/kwkbrkgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KWKBRKGY</span></a>
 
-| Tartan |
-|---|
-| [Brodie](/patterns/rwbkrbry/) |
-| [Brodie (W & A Smith)](/patterns/rwbkrbry/) |
-| [Brodie of that Ilk & the Burn Clan Tartan Tartan Number: 1684. Earliest known date: 1856 Peters' book, 'The Baronage of Angus and Mearns' (1856), provides the full title of this tartan which also appears in the manuscript prepared for the Vestiarium Scoticum. Peters did not give any clue to the origin of the tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rwbkrbry/) |
-| [Brodie, of that Ilk and the Burn](/patterns/rwbkrbry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Unidentified (Woven sample)](/setts/s8/k16w6k4b64r19k8g42y6-b3850c8-g006818-k101010-r981c70-wf8f8f8-ye8c000/) | tartans-authority |
+| 0.08 | [Minnesota American District Tartan Tartan Number: 3930. Earliest known date: 2002 Official State tartan designed by Mark Osweiler of St Paul, MN, USA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k12w6k4b60r18k8g40y6-b2c2c80-g289c18-k101010-ra00024-we0e0e0-ye8c000/) | house-of-tartan |
+| 0.09 | [Minnesota](/setts/s8/k12w6k4b60r18k8g40y6-b2c2c80-g289c18-k101010-ra00024-we0e0e0-ye8c000/) | register-of-tartans |
+| 0.09 | [Minnesota (District)](/setts/s8/k12w6k4b60r18k8g40y6-b2c2c80-g289c18-k101010-ra00024-we0e0e0-ye8c000/) | tartans-authority |
 
-### RWBWBWBW
-<a class="pat" href="/patterns/rwbwbwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBWBWBW</span></a>
+### KWKBWKWK
+<a class="pat" href="/patterns/kwkbwkwk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="seq">KWKBWKWK</span></a>
 
-| Tartan |
-|---|
-| [Milne Royal Blue Dress (Dance)](/patterns/rwbwbwbw/) |
-| [Milne Royal Blue Dress Fashion Tartan Tartan Number: 6547. Earliest known date: 01/01/2005 A Dance version of #634 (original Scottish Tartans Authority reference) reputed to be a personal tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rwbwbwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.16 | [London Fog Black (Fashion)](/setts/s8/k198w9k17b13w9k4w13k4-b2888c4-k101010-wd4d4c4/) | tartans-authority |
 
-### RWBWBWBY
-<a class="pat" href="/patterns/rwbwbwby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWBWBWBY</span></a>
+### KWKGWGKW
+<a class="pat" href="/patterns/kwkgwgkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKGWGKW</span></a>
 
-| Tartan |
-|---|
-| [North Vancouver Island](/patterns/rwbwbwby/) |
-| [North Vancouver Island District Tartan Tartan Number: 1682. Earliest known date: 1985 Originally designed for the North Island Highlanders Pipe & Drum Band by Robert Fells of Port Hardy, B.C. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rwbwbwby/) |
-| [North Vancouver, Island](/patterns/rwbwbwby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Glen Coe #2](/setts/s8/k74w18k6g18w6g18k6w18-g006818-k101010-wfcfcfc/) | register-of-tartans |
 
-### RWBWBWRY
-<a class="pat" href="/patterns/rwbwbwry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWBWBWRY</span></a>
+### KWKGWRKR
+<a class="pat" href="/patterns/kwkgwrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWKGWRKR</span></a>
 
-| Tartan |
-|---|
-| [Alloway Primary (Corporate)](/patterns/rwbwbwry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Raytheon](/setts/s8/k28w4k6g28wa12r28k4r6-g808080-k000000-rdc0000-wffffff-wae0e0e0/) | register-of-tartans |
 
-### RWBWGRBW
-<a class="pat" href="/patterns/rwbwgrbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBWGRBW</span></a>
+### KWKRKRKW
+<a class="pat" href="/patterns/kwkrkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKRKRKW</span></a>
 
-| Tartan |
-|---|
-| [Spens](/patterns/rwbwgrbw/) |
-| [Spens Family Tartan Tartan Number: 1671. Earliest known date: c.1815 The Spens tartan is similar in many respects to the Perthshire District sett, which is in turn, a variation of one of the Drummond tartans. The Perthshire sett was being woven by Wilson's of Bannockburn in the early years of the nineteenth century. The name, Spens, is linked to a specimen preserved in the collection of the Highland Society of London. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rwbwgrbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Brockton](/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-wffffff/) | register-of-tartans |
+| 0.12 | [Brockton (Corporate)](/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-we0e0e0/) | tartans-authority |
 
-### RWBWKGKY
-<a class="pat" href="/patterns/rwbwkgky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWBWKGKY</span></a>
+### KWKRWRKR
+<a class="pat" href="/patterns/kwkrwrkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWKRWRKR</span></a>
 
-| Tartan |
-|---|
-| [Culloden 1746 - Original](/patterns/rwbwkgky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Raytheon](/setts/s8/k28w4k6r28wa12ra28k4ra6-k101010-r888888-rac80000-wfcfcfc-wac0c0c0/) | tartans-authority |
 
-### RWBWKWKW
-<a class="pat" href="/patterns/rwbwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBWKWKW</span></a>
+### KWKRWRKW
+<a class="pat" href="/patterns/kwkrwrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKRWRKW</span></a>
 
-| Tartan |
-|---|
-| [Scott, Sir Walter - 1971 (Fashion)](/patterns/rwbwkwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Knights Templar Hunting](/setts/s8/k44w2k24r86w2r86k24w2-k101010-rc80000-wf8f8f8/) | register-of-tartans |
 
-### RWBWRBWY
-<a class="pat" href="/patterns/rwbwrbwy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWBWRBWY</span></a>
+### KWKWBKBW
+<a class="pat" href="/patterns/kwkwbkbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKWBKBW</span></a>
 
-| Tartan |
-|---|
-| [Presley of Memphis](/patterns/rwbwrbwy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Capco](/setts/s8/k124w4k8w8b12k8ba16w8-b14283c-ba5f749c-k1c1714-wf8f8f8/) | register-of-tartans |
 
-### RWBWRWBW
-<a class="pat" href="/patterns/rwbwrwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBWRWBW</span></a>
+### KWKWKRKW
+<a class="pat" href="/patterns/kwkwkrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKWKRKW</span></a>
 
-| Tartan |
-|---|
-| [Milne Purple Dress (Dance)](/patterns/rwbwrwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Volkswagen Black Trim (Fashion)](/setts/s8/k80w4k4w12k4r4k4w4-k101010-rc80000-we0e0e0/) | tartans-authority |
 
-### RWBYBRBW
-<a class="pat" href="/patterns/rwbybrbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBYBRBW</span></a>
+### KWKWKWKR
+<a class="pat" href="/patterns/kwkwkwkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWKWKWKR</span></a>
 
-| Tartan |
-|---|
-| [Thousand Islands Int. Council (Corp)](/patterns/rwbybrbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [St. Piran Cornish Flag](/setts/s8/r4k2w20k40w10k40w20k2-k101010-rc80000-we0e0e0/) | register-of-tartans |
 
-### RWBYGRBW
-<a class="pat" href="/patterns/rwbygrbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBYGRBW</span></a>
+### KWKWKWKW
+<a class="pat" href="/patterns/kwkwkwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWKWKWKW</span></a>
 
-| Tartan |
-|---|
-| [Drummond of Perth](/patterns/rwbygrbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [Menzies](/setts/s8/k64w8k4w8k8w4k2w12-k000000-we0e0e0/) | weddslist |
+| 0.05 | [Priest](/setts/s8/k2w16k16w2k16w8k8w2-k000000-wd0d0d0/) | weddslist |
+| 0.10 | [Menzies (1938)](/setts/s8/k144w16k12w16k24w8k4w48-k101010-wfcfcfc/) | register-of-tartans |
+| 0.10 | [Menzies 1938 - Mourning (Clan)](/setts/s8/k144w16k12w16k24w8k4w48-k101010-wfcfcfc/) | tartans-authority |
+| 0.12 | [Menzies B/W Clan Tartan Tartan Number: 1244. Earliest known date: 1934 Not the tartan in Wilsons pattern books See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k64w8k4w8k8w4k2w12-k101010-we0e0e0/) | house-of-tartan |
 
-### RWBYKWKW
-<a class="pat" href="/patterns/rwbykwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWBYKWKW</span></a>
+### KWKWRWKY
+<a class="pat" href="/patterns/kwkwrwky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KWKWRWKY</span></a>
 
-| Tartan |
-|---|
-| [Ailsa Craig (District)](/patterns/rwbykwkw/) |
-| [Ailsa Craig Trade Tartan Tartan Number: 1673. Earliest known date: 1972 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rwbykwkw/) |
-| [Ailsa, Craig](/patterns/rwbykwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Crane of Cluny Mourning](/setts/s8/k166w12k6w18r4w10k4y4-k101010-rc20029-wffffff-yc2812d/) | register-of-tartans |
 
-### RWGRYRGW
-<a class="pat" href="/patterns/rwgryrgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWGRYRGW</span></a>
+### KWKYBGKR
+<a class="pat" href="/patterns/kwkybgkr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KWKYBGKR</span></a>
 
-| Tartan |
-|---|
-| [Johore](/patterns/rwgryrgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Froben, Christian (Personal)](/setts/s8/k4w4k16y16b48g26k6r2-b202060-g006818-k101010-r880000-wfcfcfc-yfccc00/) | tartans-authority |
+| 0.12 | [Froben, Christian (Personal)](/setts/s8/k4w4k16y16b48g26k6r2-b141e46-g004c00-k101010-r781c38-wfcfcfc-ydc9436/) | register-of-tartans |
 
-### RWGWGWKW
-<a class="pat" href="/patterns/rwgwgwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWGWGWKW</span></a>
+### KWRKGBKW
+<a class="pat" href="/patterns/kwrkgbkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWRKGBKW</span></a>
 
-| Tartan |
-|---|
-| [St. Piran Dress](/patterns/rwgwgwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Ford & Etal](/setts/s8/k12w4r64k4g84b36k24w4-b1474b4-g408060-k101010-rc80000-wfcfcfc/) | register-of-tartans |
+| 0.10 | [Ford & Etal (Corporate)](/setts/s8/k12w4r64k4g84b36k24w4-b1474b4-g408060-k101010-rc80000-wfcfcfc/) | tartans-authority |
 
-### RWKWKWKW
-<a class="pat" href="/patterns/rwkwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWKWKWKW</span></a>
+### KWRKWKRW
+<a class="pat" href="/patterns/kwrkwkrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWRKWKRW</span></a>
 
-| Tartan |
-|---|
-| [Glen Feshie Check](/patterns/rwkwkwkw/) |
-| [Masai Shuka 14 (Artefact)](/patterns/rwkwkwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [University of Cincinnati](/setts/s8/k132w2r16k28w28k12r22w16-k101010-rc80000-wfcfcfc/) | tartans-authority |
+| 0.08 | [University of Cincinnati](/setts/s8/k264w4r32k56w56k24r44w32-k101010-rdc0000-wffffff/) | register-of-tartans |
 
-### RWKWKWKY
-<a class="pat" href="/patterns/rwkwkwky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWKWKWKY</span></a>
+### KWRWRGYK
+<a class="pat" href="/patterns/kwrwrgyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="seq">KWRWRGYK</span></a>
 
-| Tartan |
-|---|
-| [Summer Spirit (Fashion)](/patterns/rwkwkwky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.04 | [Unnamed No 5](/setts/s8/k20y4g22r22w2r2w2k18-g008000-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
+| 0.05 | [Unnamed No 5 Tartan Tartan Number: 1257. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k20y4g22r22w2r2w2k18-g006818-k101010-rc80000-we0e0e0-ye8c000/) | house-of-tartan |
+| 0.07 | [Unidentified No 5](/setts/s8/k20y4g22r22w2r2w2k18-g005020-k101010-rdc0000-we0e0e0-ye8c000/) | register-of-tartans |
 
-### RWKWRWRW
-<a class="pat" href="/patterns/rwkwrwrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWKWRWRW</span></a>
+### KWYBRBYW
+<a class="pat" href="/patterns/kwybrbyw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWYBRBYW</span></a>
 
-| Tartan |
-|---|
-| [Clayton Dress (Dance)](/patterns/rwkwrwrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Cornish National Day](/setts/s8/k10w4y72b94r6b94y72w4-b2888c4-k101010-rc80000-wfcfcfc-ye8c000/) | register-of-tartans |
 
-### RWRGBKBY
-<a class="pat" href="/patterns/rwrgbkby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWRGBKBY</span></a>
+### KWYGKBRW
+<a class="pat" href="/patterns/kwygkbrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWYGKBRW</span></a>
 
-| Tartan |
-|---|
-| [Canadian Centennial](/patterns/rwrgbkby/) |
-| [Canadian Centennial](/patterns/rwrgbkby/) |
-| [Canadian Centennial District Tartan Tartan Number: 1704. Earliest known date: 1966 This tartan was approved by the Centennial Commission. The six colours represent the wealth of Canada in her people and her natural resources. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/rwrgbkby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Kaptain Family (Personal)](/setts/s8/k10w10y20g10k100b10r20w10-b2c2c80-g285800-k101010-rdc0000-wf8f8f8-yfccc00/) | register-of-tartans |
 
-### RWRGGRGW
-<a class="pat" href="/patterns/rwrggrgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRGGRGW</span></a>
+### KWYKWKYW
+<a class="pat" href="/patterns/kwykwkyw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KWYKWKYW</span></a>
 
-| Tartan |
-|---|
-| [Unidentified Ross-shire](/patterns/rwrggrgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Colbert Check (Fashion)](/setts/s8/k62w10y10k4w18k4ya3w4-k101010-wf0e4cc-ye8c000-yaa08858/) | tartans-authority |
 
-### RWRGWRKW
-<a class="pat" href="/patterns/rwrgwrkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRGWRKW</span></a>
+### KYBRKGRW
+<a class="pat" href="/patterns/kybrkgrw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KYBRKGRW</span></a>
 
-| Tartan |
-|---|
-| [McBrayer Dress](/patterns/rwrgwrkw/) |
-| [Unidentified Blanket](/patterns/rwrgwrkw/) |
-| [Wilson's Blanket Pattern](/patterns/rwrgwrkw/) |
-| [Wilsons' Blanket Pattern (Artefact)](/patterns/rwrgwrkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Spirit of Lanarkshire (Corporate)](/setts/s8/k166y4b8r4k16g10r8w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) | tartans-authority |
 
-### RWRGWRKY
-<a class="pat" href="/patterns/rwrgwrky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWRGWRKY</span></a>
+### KYBWBYBR
+<a class="pat" href="/patterns/kybwbybr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYBWBYBR</span></a>
 
-| Tartan |
-|---|
-| [MacBrair Hunting](/patterns/rwrgwrky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Royal Yaght Britannia, The](/setts/s8/k86y6b2w2ba2y6ba50r4-b606080-ba000050-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
 
-### RWRGYGBY
-<a class="pat" href="/patterns/rwrgygby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWRGYGBY</span></a>
+### KYBYRKRY
+<a class="pat" href="/patterns/kybyrkry/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYBYRKRY</span></a>
 
-| Tartan |
-|---|
-| [St. Andrew Quebec City (Corporate)](/patterns/rwrgygby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Lermontov Bicentenary](/setts/s8/y10r12k10r12y72b6y4k2-b2c2c80-k101010-ra00000-yd09800/) | tartans-authority |
+| 0.17 | [Lermontov Bicentenary](/setts/s8/y10r12k10r12y72b6y4k2-b0596fa-k101010-ra00000-yc88c00/) | register-of-tartans |
 
-### RWRRGRRW
-<a class="pat" href="/patterns/rwrrgrrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRRGRRW</span></a>
+### KYGRWBWR
+<a class="pat" href="/patterns/kygrwbwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYGRWBWR</span></a>
 
-| Tartan |
-|---|
-| [Unidentified, Ross-shire](/patterns/rwrrgrrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Legion of Frontiersmen (Corporate)](/setts/s8/k90y20g14r6w8b26w18r12-b202060-g006818-k101010-rc80000-we0e0e0-ybc8c00/) | tartans-authority |
 
-### RWRWRWRW
-<a class="pat" href="/patterns/rwrwrwrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRWRWRW</span></a>
+### KYGWBYBR
+<a class="pat" href="/patterns/kygwbybr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYGWBYBR</span></a>
 
-| Tartan |
-|---|
-| [Masai Shuka 08 (Artefact)](/patterns/rwrwrwrw/) |
-| [Menzies](/patterns/rwrwrwrw/) |
-| [Menzies (1815)](/patterns/rwrwrwrw/) |
-| [Menzies Dress](/patterns/rwrwrwrw/) |
-| [Menzies, Brown & White](/patterns/rwrwrwrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Royal Yacht Britannia (Corporate)](/setts/s8/k86y6g2w2b2y6b50r4-b202060-g005448-k101010-rc80000-wfcfcfc-ye8c000/) | tartans-authority |
+| 0.07 | [Royal Yacht Britannia](/setts/s8/k86y6g2w2b2y6b50r4-b202060-g005448-k101010-rc80000-wfcfcfc-ye8c000/) | register-of-tartans |
 
-### RWRYGYRW
-<a class="pat" href="/patterns/rwrygyrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRYGYRW</span></a>
+### KYKBKWKY
+<a class="pat" href="/patterns/kykbkwky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKBKWKY</span></a>
 
-| Tartan |
-|---|
-| [Highlands of Wyomissing (Corporate)](/patterns/rwrygyrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Children's Wish Foundation of Canada, The](/setts/s8/y10k4w32k10b58k4y10k4-b3c82af-k000000-wffffff-yffcc00/) | register-of-tartans |
 
-### RWRYKWKW
-<a class="pat" href="/patterns/rwrykwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWRYKWKW</span></a>
+### KYKBRBWR
+<a class="pat" href="/patterns/kykbrbwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYKBRBWR</span></a>
 
-| Tartan |
-|---|
-| [Ailsa Craig](/patterns/rwrykwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [Sullivan of Braemar (Personal)](/setts/s8/k16y8k32b20r38b20w4r12-b1c0070-k101010-rc80000-we0e0e0-ye8c000/) | tartans-authority |
+| 0.09 | [Sullivan of Braemar](/setts/s8/k16y8k32b20r38b20w4r12-b0000cd-k101010-rb22222-wffffff-yffd700/) | register-of-tartans |
 
-### RWWYGRYW
-<a class="pat" href="/patterns/rwwygryw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RWWYGRYW</span></a>
+### KYKGWKRY
+<a class="pat" href="/patterns/kykgwkry/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKGWKRY</span></a>
 
-| Tartan |
-|---|
-| [Takashimaya Dm Rose](/patterns/rwwygryw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Kilkenny County Crest (Fashion)](/setts/s8/y12r16k8w12g32k26ya38k10-g5c6428-k101010-r880000-we0e0e0-ybc8c00-yaa0a0a0/) | tartans-authority |
+| 0.14 | [Kilkenny County, Crest Range](/setts/s8/y12r16k8w12g32k26ya38k10-g5c6428-k101010-r880000-we0e0e0-ybc8c00-yaa0a0a0/) | register-of-tartans |
 
-### RWYBGBYR
-<a class="pat" href="/patterns/rwybgbyr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RWYBGBYR</span></a>
+### KYKRGRKW
+<a class="pat" href="/patterns/kykrgrkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KYKRGRKW</span></a>
 
-| Tartan |
-|---|
-| [Mullikin (2013)](/patterns/rwybgbyr/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Holestone (Corporate)](/setts/s8/k8y16k52r12g30r12k52w4-g006818-k101010-rc04c08-wf8f8f8-ybc8c00/) | tartans-authority |
 
-### RWYYBWBY
-<a class="pat" href="/patterns/rwyybwby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RWYYBWBY</span></a>
+### KYKRKRGR
+<a class="pat" href="/patterns/kykrkrgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYKRKRGR</span></a>
 
-| Tartan |
-|---|
-| [Comrie Gold](/patterns/rwyybwby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Davis](/setts/s8/k12y8k12r32k32ra32g8ra12-g003820-k101010-r880000-rac80000-ye8c000/) | register-of-tartans |
+| 0.09 | [Davis (Name)](/setts/s8/k12y8k12r32k32ra32g8ra12-g003820-k101010-r880000-rac80000-ye8c000/) | tartans-authority |
 
-### RYBBGGRW
-<a class="pat" href="/patterns/rybbggrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYBBGGRW</span></a>
+### KYKWBWKW
+<a class="pat" href="/patterns/kykwbwkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KYKWBWKW</span></a>
 
-| Tartan |
-|---|
-| [Young Presidents Organisation Dress](/patterns/rybbggrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Washington County Sheriff's Office](/setts/s8/w12k12w12b6wa2k78y6k6-b1474b4-k101010-wc0c0c0-wae0e0e0-ybc8c00/) | tartans-authority |
 
-### RYBBRBBW
-<a class="pat" href="/patterns/rybbrbbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYBBRBBW</span></a>
+### KYKWKYKY
+<a class="pat" href="/patterns/kykwkyky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKWKYKY</span></a>
 
-| Tartan |
-|---|
-| [Fulbright Foundation](/patterns/rybbrbbw/) |
-| [Fulbright Foundation (Corporate)](/patterns/rybbrbbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Nowell/Noel 1951 (Name)](/setts/s8/y6k48y12k16w8k16y70k4-k101010-we0e0e0-ya0a0a0/) | tartans-authority |
 
-### RYBGGYBY
-<a class="pat" href="/patterns/rybggyby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYBGGYBY</span></a>
+### KYKYKWKY
+<a class="pat" href="/patterns/kykykwky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKYKWKY</span></a>
 
-| Tartan |
-|---|
-| [Goddin mab Gododdin (Personal)](/patterns/rybggyby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Children's Wish Foundation of Canada](/setts/s8/y10k4w32k10ya58k4y4k4-k101010-wfcfcfc-yfccc00-ya48a4c0/) | tartans-authority |
 
-### RYBKRBRY
-<a class="pat" href="/patterns/rybkrbry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYBKRBRY</span></a>
+### KYKYKYKR
+<a class="pat" href="/patterns/kykykykr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYKYKYKR</span></a>
 
-| Tartan |
-|---|
-| [Brodie](/patterns/rybkrbry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Gwynn](/setts/s8/k90y8k8y18k8y8k90r8-k101010-rc80000-ye8c000/) | register-of-tartans |
 
-### RYBYRKGY
-<a class="pat" href="/patterns/rybyrkgy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYBYRKGY</span></a>
+### KYKYKYKY
+<a class="pat" href="/patterns/kykykyky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKYKYKY</span></a>
 
-| Tartan |
-|---|
-| [Caledonian Labrador Retrievers](/patterns/rybyrkgy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.01 | [MacLachlan 4](/setts/s8/k12y4k42y4k12y48k4y12-k000000-yf0c000/) | weddslist |
+| 0.03 | [MacLachlan VS](/setts/s8/k6y2k21y2k6y24k2y6-k000000-yc8c800/) | weddslist |
+| 0.06 | [MacLachlan VS](/setts/s8/k12y4k42y4k12y48k4y12-k000000-yaaaa00/) | weddslist |
+| 0.06 | [MacLachlan VS](/setts/s8/k6y2k21y2k6y24k2y6-k000000-yaaaa00/) | weddslist |
+| 0.09 | [MacLachlan - 1842 (Chief's Dress)](/setts/s8/k12y4k42y4k12y48k4y12-k101010-ye8c000/) | tartans-authority |
+| 0.11 | [MacLachlan (Chief's Dress)](/setts/s8/k12y4k42y4k12y48k4y12-k101010-yd8b000/) | register-of-tartans |
+| 0.12 | [Douglas, Grey Clan/Family Tartan Tartan Number: 7211. Earliest known date: 01/01/1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. (Estimated threadcount; Original STA ref: 1127) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k36y4k8y4k16y36k4y8-k000000-y909090/) | house-of-tartan |
 
-### RYGBWRBY
-<a class="pat" href="/patterns/rygbwrby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYGBWRBY</span></a>
+### KYKYRYKY
+<a class="pat" href="/patterns/kykyryky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKYRYKY</span></a>
 
-| Tartan |
-|---|
-| [Round Table Sweden](/patterns/rygbwrby/) |
-| [Round Table Sweden](/patterns/rygbwrby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.16 | [Clyde Valley HOG](/setts/s8/k54y6k6y6r20ya40k6yb3-k101010-r888888-ya0a0a0-yad87c00-ybe8c000/) | register-of-tartans |
+| 0.16 | [Clyde Valley HOG (Corporate)](/setts/s8/k54y6k6y6r20ya40k6yb3-k101010-r888888-ya0a0a0-yad87c00-ybe8c000/) | tartans-authority |
 
-### RYGKGBKW
-<a class="pat" href="/patterns/rygkgbkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYGKGBKW</span></a>
+### KYKYWRYR
+<a class="pat" href="/patterns/kykywryr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYKYWRYR</span></a>
 
-| Tartan |
-|---|
-| [Iowa (District)](/patterns/rygkgbkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.06 | [Bannockbane, Light Tan](/setts/s8/k8y4k26y2w16r26y4r8-k000000-r906030-we0e0e0-yf0c000/) | weddslist |
+| 0.11 | [Bannockbane Grey #1](/setts/s8/k8y4k26y2w16r26y4r8-k101010-r888888-wfcfcfc-ye8c000/) | register-of-tartans |
 
-### RYGYRKGY
-<a class="pat" href="/patterns/rygyrkgy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYGYRKGY</span></a>
+### KYKYWYYY
+<a class="pat" href="/patterns/kykywyyy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYKYWYYY</span></a>
 
-| Tartan |
-|---|
-| [Labrador Club of Scotland (Corporate](/patterns/rygyrkgy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Bannockbane Light Tan](/setts/s8/k8y4k26y2w16ya26y4ya8-k101010-we0e0e0-ye8c000-yaa08858/) | register-of-tartans |
 
-### RYKWKRYW
-<a class="pat" href="/patterns/rykwkryw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYKWKRYW</span></a>
+### KYKYYYYK
+<a class="pat" href="/patterns/kykyyyyk/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="seq">KYKYYYYK</span></a>
 
-| Tartan |
-|---|
-| [Lock in Northumberland (Name)](/patterns/rykwkryw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.16 | [Longford County Crest (Fashion)](/setts/s8/k88y18k6y16y32y30y12k14-k101010-ybc8c00/) | tartans-authority |
 
-### RYKWKWKW
-<a class="pat" href="/patterns/rykwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYKWKWKW</span></a>
+### KYRYGWGY
+<a class="pat" href="/patterns/kyrygwgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYRYGWGY</span></a>
 
-| Tartan |
-|---|
-| [Holden Beige (Corporate)](/patterns/rykwkwkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Hackett William (Coatbridge) Hunting (Personal)](/setts/s8/k40y8r8y40g40w10g4ya4-g346428-k101010-rff0000-wffffff-ycfb47f-ya86ac5f/) | register-of-tartans |
 
-### RYKWRKRW
-<a class="pat" href="/patterns/rykwrkrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYKWRKRW</span></a>
+### KYRYKYKY
+<a class="pat" href="/patterns/kyrykyky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYRYKYKY</span></a>
 
-| Tartan |
-|---|
-| [Golden Wedding (Fashion)](/patterns/rykwrkrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Wilbers](/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/) | register-of-tartans |
+| 0.08 | [Wilbers (Personal)](/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/) | tartans-authority |
 
-### RYRBRBBW
-<a class="pat" href="/patterns/ryrbrbbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYRBRBBW</span></a>
+### KYRYRKGR
+<a class="pat" href="/patterns/kyryrkgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KYRYRKGR</span></a>
 
-| Tartan |
-|---|
-| [Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/ryrbrbbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Hermitage Academy](/setts/s8/k4y12r6y12r6k40g60r4-g787878-k101010-rc80000-ya0a0a0/) | register-of-tartans |
+| 0.14 | [Hermitage Academy (Corporate)](/setts/s8/k4y12r6y12r6k40g60r4-g787878-k101010-rc80000-ya0a0a0/) | tartans-authority |
 
-### RYRGRGBW
-<a class="pat" href="/patterns/ryrgrgbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYRGRGBW</span></a>
+### KYWKYWKW
+<a class="pat" href="/patterns/kywkywkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">KYWKYWKW</span></a>
 
-| Tartan |
-|---|
-| [21st Century (Fashion)](/patterns/ryrgrgbw/) |
-| [Scotland 2000](/patterns/ryrgrgbw/) |
-| [Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/ryrgrgbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Guzzo Dress (Montreal, Canada) (Personal)](/setts/s8/w20k2w20y5k3w3y4k2-k101010-wffffff-yffe600/) | register-of-tartans |
+| 0.12 | [Guzzo Dress (Personal)](/setts/s8/w20k2w20y5k3w3y4k2-k101010-we0e0e0-ydc943c/) | tartans-authority |
 
-### RYRKBBKY
-<a class="pat" href="/patterns/ryrkbbky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYRKBBKY</span></a>
+### KYWYKYKY
+<a class="pat" href="/patterns/kywykyky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KYWYKYKY</span></a>
 
-| Tartan |
-|---|
-| [Lovell (2014)](/patterns/ryrkbbky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Erck, Georges van (Personal),](/setts/s8/k76y2w14y2k8y4k6y4-k1c1714-we5e0d2-ye0a126/) | register-of-tartans |
 
-### RYRKRKBW
-<a class="pat" href="/patterns/ryrkrkbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYRKRKBW</span></a>
+### RBBBBYBW
+<a class="pat" href="/patterns/rbbbbybw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBBBBYBW</span></a>
 
-| Tartan |
-|---|
-| [Hebridean Granite (Fashion)](/patterns/ryrkrkbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [MacRaes of America](/setts/s8/w16b8y4b72ba96b4ba8r10-b202060-ba5c8ca8-rc80000-wf0f0d8-ye8c000/) | register-of-tartans |
+| 0.07 | [MacRaes of America](/setts/s8/w16b8y4b72ba96b4ba8r10-b202060-ba5c8ca8-rc80000-wf0f0d8-ye8c000/) | tartans-authority |
 
-### RYRYGYGY
-<a class="pat" href="/patterns/ryrygygy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYRYGYGY</span></a>
+### RBBBKBBY
+<a class="pat" href="/patterns/rbbbkbby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBBBKBBY</span></a>
 
-| Tartan |
-|---|
-| [Miyuki #4](/patterns/ryrygygy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Royal British Legion Scotland (Corp)](/setts/s8/y8b4ba60k6b16ba10b2r4-b440044-ba202060-k101010-rc80000-ybc8c00/) | tartans-authority |
 
-### RYRYRGKY
-<a class="pat" href="/patterns/ryryrgky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYRYRGKY</span></a>
+### RBBBRBBR
+<a class="pat" href="/patterns/rbbbrbbr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBBBRBBR</span></a>
 
-| Tartan |
-|---|
-| [Botherston (Name)](/patterns/ryryrgky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Daks, Muted blue](/setts/s8/r5b12ba4ra4ba22b3ba4r5-b304080-ba000050-r806050-ra906030/) | weddslist |
+| 0.18 | [Daks, Blue Loden](/setts/s8/r5b13ba4ra4ba27b3ba4r5-b5480b0-ba401000-r906030-ra900030/) | weddslist |
 
-### RYRYRYRY
-<a class="pat" href="/patterns/ryryryry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYRYRYRY</span></a>
+### RBBBRKGY
+<a class="pat" href="/patterns/rbbbrkgy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBBBRKGY</span></a>
 
-| Tartan |
-|---|
-| [Masai Shuka 09 (Artefact)](/patterns/ryryryry/) |
-| [Menzies Dress](/patterns/ryryryry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.15 | [Caledonian Labrador Retrievers](/setts/s8/r42b8ba10b8r10k42g42y10-b000048-ba501400-g006818-k101010-r9c68a4-yfccc00/) | tartans-authority |
 
-### RYWGBWBW
-<a class="pat" href="/patterns/rywgbwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYWGBWBW</span></a>
+### RBBGBBWR
+<a class="pat" href="/patterns/rbbgbbwr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBBGBBWR</span></a>
 
-| Tartan |
-|---|
-| [Miller Hargreaves (Personal)](/patterns/rywgbwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.04 | [Mullikin (2013)](/setts/s8/r10w8b12ba4g86ba4b8r6-b2c2c80-ba202060-g006818-rc80000-wfcfcfc/) | tartans-authority |
 
-### RYWKGBKW
-<a class="pat" href="/patterns/rywkgbkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RYWKGBKW</span></a>
+### RBBWBWBW
+<a class="pat" href="/patterns/rbbwbwbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBBWBWBW</span></a>
 
-| Tartan |
-|---|
-| [Iowa Dress (District)](/patterns/rywkgbkw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Culloden Dress Ancient](/setts/s8/r12b4ba42w6bb38w52bb6w10-b2c4084-ba5a008c-bb002814-rdc0000-we0e0e0/) | register-of-tartans |
 
-### RYYGRYBY
-<a class="pat" href="/patterns/ryygryby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RYYGRYBY</span></a>
+### RBBWGWGW
+<a class="pat" href="/patterns/rbbwgwgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBBWGWGW</span></a>
 
-| Tartan |
-|---|
-| [Miller Hargreaves (Personal)](/patterns/ryygryby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Culloden Dress Old Tartan Tartan Number: 1322. Earliest known date: 1983 Worn by a member of Prince Charles' staff during the battle but it is not known with which family or district it was first connected. It was first illustrated in Old & Rare in 1893 by D W Stewart whose son D C Stewart was a founder member of the Scottish Tartans Society. Now firmly established as a district tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r12b4ba42w6g38w52g6w10-b2c2c80-ba780078-g003820-rc80000-we0e0e0/) | house-of-tartan |
+| 0.09 | [Culloden, dress Ancient](/setts/s8/r12b4ba42w6g38w52g6w10-b304080-ba800080-g003000-rc00000-we0e0e0/) | weddslist |
 
-### WBBBBYBY
-<a class="pat" href="/patterns/wbbbbyby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBBBBYBY</span></a>
+### RBBWKGKY
+<a class="pat" href="/patterns/rbbwkgky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBBWKGKY</span></a>
 
-| Tartan |
-|---|
-| [Highlands School (N. Carolina) Corporate Tartan Tartan Number: 2109. Earliest known date: 1990 Highlands in North Carolina is the home of the Scottish Tartans Society's Museum Extension. The school tartan was designed by Bob Martin who is a 'Fellow of the Society'. Blue and Gold are the school colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wbbbbyby/) |
-| [Highlands School (North Carolina)](/patterns/wbbbbyby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Culloden, Gold](/setts/s8/r10b4ba28w4k26g26k4y6-b5480b0-ba800070-g908000-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
 
-### WBBRKGKY
-<a class="pat" href="/patterns/wbbrkgky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBBRKGKY</span></a>
+### RBBWKYKY
+<a class="pat" href="/patterns/rbbwkyky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBBWKYKY</span></a>
 
-| Tartan |
-|---|
-| [Fujitsu](/patterns/wbbrkgky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Culloden](/setts/s8/r10b4ba28w4k26y26k4ya6-b5c8ca8-ba780078-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/) | register-of-tartans |
+| 0.11 | [Culloden - 1893 (O&R)](/setts/s8/r10b4ba28w4k26y26k4ya6-b5c8ca8-ba780078-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/) | tartans-authority |
 
-### WBBWBRBW
-<a class="pat" href="/patterns/wbbwbrbw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBBWBRBW</span></a>
+### RBBYKWKW
+<a class="pat" href="/patterns/rbbykwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBBYKWKW</span></a>
 
-| Tartan |
-|---|
-| [Virginia International Tattoo Hixon](/patterns/wbbwbrbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Culloden, Dress](/setts/s8/r12b6ba48y4k46w46k4w12-b5480b0-ba800080-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
+| 0.10 | [Culloden Dress](/setts/s8/r12b6ba48y4k46w46k4w12-b5c8ca8-ba780078-k101010-rc80000-wfcfcfc-ye8c000/) | register-of-tartans |
 
-### WBBWBRWW
-<a class="pat" href="/patterns/wbbwbrww/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBBWBRWW</span></a>
+### RBGBBBGR
+<a class="pat" href="/patterns/rbgbbbgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBGBBBGR</span></a>
 
-| Tartan |
-|---|
-| [Virginia International Tattoo Hixon](/patterns/wbbwbrww/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.04 | [Daks (Navy)](/setts/s8/r6g12b4ba4b22g18b4r6-b202060-ba2c2c80-g006818-rc80000/) | register-of-tartans |
+| 0.08 | [Daks, Navy](/setts/s8/r5g12b4ba4b22g18b4r5-b000050-ba304080-g008000-rc00000/) | weddslist |
 
-### WBBWBYBY
-<a class="pat" href="/patterns/wbbwbyby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBBWBYBY</span></a>
+### RBGBBBGY
+<a class="pat" href="/patterns/rbgbbbgy/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBGBBBGY</span></a>
 
-| Tartan |
-|---|
-| [Monaghan County Crest (Fashion)](/patterns/wbbwbyby/) |
-| [Monaghan County, Crest Range](/patterns/wbbwbyby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Miller](/setts/s8/r4b12g30ba18b60ba18g12y4-b000050-ba1474b4-g146400-r8c0000-yc88c00/) | register-of-tartans |
+| 0.13 | [Miller (Name)](/setts/s8/r4b12g30ba18b60ba18g12y4-b000050-ba1474b4-g146400-r8c0000-yc88c00/) | tartans-authority |
 
-### WBBYBYGY
-<a class="pat" href="/patterns/wbbybygy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBBYBYGY</span></a>
+### RBGBGBGR
+<a class="pat" href="/patterns/rbgbgbgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBGBGBGR</span></a>
 
-| Tartan |
-|---|
-| [Waterford County Crest (Fashion)](/patterns/wbbybygy/) |
-| [Waterford County, Crest Range](/patterns/wbbybygy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Daks (0600150)](/setts/s8/r20b48g12ba16g80b12g12r20-b14283c-ba2c2c80-g006818-rc80000/) | register-of-tartans |
 
-### WBGKBYBY
-<a class="pat" href="/patterns/wbgkbyby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBGKBYBY</span></a>
+### RBGRGWGR
+<a class="pat" href="/patterns/rbgrgwgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBGRGWGR</span></a>
 
-| Tartan |
-|---|
-| [Lambert, Patrice (Personal)](/patterns/wbgkbyby/) |
-| [Lambert, Patrice (Personal)](/patterns/wbgkbyby/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r6b28g16r4g4w4g4r2-b480800-g006818-rc80000-we0e0e0/) | house-of-tartan |
 
-### WBGYGRGW
-<a class="pat" href="/patterns/wbgygrgw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBGYGRGW</span></a>
+### RBKBGBBY
+<a class="pat" href="/patterns/rbkbgbby/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBKBGBBY</span></a>
 
-| Tartan |
-|---|
-| [Tartan Day SA (Corporate)](/patterns/wbgygrgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Los Angeles](/setts/s8/y8b48ba10g4b6k10ba66r4-b2c2c80-ba6098b8-g289c18-k101010-rc80000-ye8c000/) | register-of-tartans |
 
-### WBGYGRGY
-<a class="pat" href="/patterns/wbgygrgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBGYGRGY</span></a>
+### RBKBKBKY
+<a class="pat" href="/patterns/rbkbkbky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBKBKBKY</span></a>
 
-| Tartan |
-|---|
-| [Yes Scotland](/patterns/wbgygrgy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.15 | [Highland Autumn (Fashion)](/setts/s8/r4b4k4b56k16b18k2y4-b5c5c5c-k101010-r880000-ybc8c00/) | tartans-authority |
 
-### WBKBKBGW
-<a class="pat" href="/patterns/wbkbkbgw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBKBKBGW</span></a>
+### RBKBRBRW
+<a class="pat" href="/patterns/rbkbrbrw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBKBRBRW</span></a>
 
-| Tartan |
-|---|
-| [Kelvinside Academy (School)](/patterns/wbkbkbgw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Goodwillie (Fashion)](/setts/s8/r30b10k4b10r30ba6r30w4-b003c64-ba9050d8-k101010-rc80000-we0e0e0/) | tartans-authority |
+| 0.13 | [Goodwillie](/setts/s8/r30b10k4b10r30ba6r30w4-b003c64-ba9050d8-k101010-rc80000-we0e0e0/) | register-of-tartans |
 
-### WBKBKRBW
-<a class="pat" href="/patterns/wbkbkrbw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBKBKRBW</span></a>
+### RBKGBYBW
+<a class="pat" href="/patterns/rbkgbybw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBKGBYBW</span></a>
 
-| Tartan |
-|---|
-| [Clinton (Personal)](/patterns/wbkbkrbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Freemasons' Universal (Corporate)](/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/) | tartans-authority |
+| 0.11 | [Freemasons' Universal](/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/) | register-of-tartans |
 
-### WBKGKWRW
-<a class="pat" href="/patterns/wbkgkwrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBKGKWRW</span></a>
+### RBKGYGKY
+<a class="pat" href="/patterns/rbkgygky/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RBKGYGKY</span></a>
 
-| Tartan |
-|---|
-| [Vinther, Niels Christian (Personal)](/patterns/wbkgkwrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Scout Mapping Service #2 (Corporate)](/setts/s8/r4b22k16g16y4ga16k2y4-b2c2c80-g006818-ga289c18-k101010-r901c38-ye8c000/) | tartans-authority |
 
-### WBKGWRWY
-<a class="pat" href="/patterns/wbkgwrwy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBKGWRWY</span></a>
+### RBKRKRKR
+<a class="pat" href="/patterns/rbkrkrkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBKRKRKR</span></a>
 
-| Tartan |
-|---|
-| [MacLaren (D.C Dalgliesh version)](/patterns/wbkgwrwy/) |
-| [MacLaren Albino (Dance)](/patterns/wbkgwrwy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Kinnaird (Australia) (Name)](/setts/s8/r66k8r8k10r8k14b82ra8-b2c2c80-k101010-r888888-rac80000/) | tartans-authority |
 
-### WBKGWYWY
-<a class="pat" href="/patterns/wbkgwywy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBKGWYWY</span></a>
+### RBKWBWBR
+<a class="pat" href="/patterns/rbkwbwbr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBKWBWBR</span></a>
 
-| Tartan |
-|---|
-| [MacLaren](/patterns/wbkgwywy/) |
-| [MacLaren Dress (Dance)](/patterns/wbkgwywy/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [Irn Bru (Corporate)](/setts/s8/r98b32k4w6b4w4b6r4-b2c2c80-k101010-re86008-wfcfcfc/) | tartans-authority |
+| 0.14 | [Irn Bru](/setts/s8/r98b32k4w6b4w4b6r4-b0000ff-k101010-rff5f04-wfcfcfc/) | register-of-tartans |
 
-### WBRBKRKY
-<a class="pat" href="/patterns/wbrbkrky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBRBKRKY</span></a>
+### RBKWKWKW
+<a class="pat" href="/patterns/rbkwkwkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBKWKWKW</span></a>
 
-| Tartan |
-|---|
-| [Vienna Highlander (Fashion)](/patterns/wbrbkrky/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.05 | [Kinnaird](/setts/s8/w66k8w8k10w8k14b82r8-b304080-k000000-rc00000-wc0c0c0/) | weddslist |
 
-### WBRBRBRW
-<a class="pat" href="/patterns/wbrbrbrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBRBRBRW</span></a>
+### RBKYKRKW
+<a class="pat" href="/patterns/rbkykrkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBKYKRKW</span></a>
 
-| Tartan |
-|---|
-| [Swiss National](/patterns/wbrbrbrw/) |
-| [Swiss National (Fashion)](/patterns/wbrbrbrw/) |
-| [Tenmaya Corporate Tartan Tartan Number: 2346. Earliest known date: 1996 May 1996 for Tenmaya Department Store Ltd in Okayama, Japan. Sample in STA Johnston Collection. Designed for British promotion October/November 1996 which demonstrated weaving and woven by Archie Snmall from Selkirk who was sent to Fukuoka to demonstrate weaving. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wbrbrbrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.02 | [Royal Stewart](/setts/s8/r14b4k4y2k4r4k2w2-b304080-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
+| 0.05 | [Royal Stuart/Stewart](/setts/s8/r14b4k4y2k4r4k2w2-b2c4084-k101010-rdc0000-we0e0e0-ye8c000/) | register-of-tartans |
 
-### WBRBRGRW
-<a class="pat" href="/patterns/wbrbrgrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBRBRGRW</span></a>
+### RBRBBYBW
+<a class="pat" href="/patterns/rbrbbybw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBRBBYBW</span></a>
 
-| Tartan |
-|---|
-| [Utah](/patterns/wbrbrgrw/) |
-| [Utah Centennial](/patterns/wbrbrgrw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Gretna Gold (Fashion)](/setts/s8/w6b4y4b76ba56r4ba4ra4-b6c0070-ba202060-rb468ac-rac80000-we0e0e0-ybc8c00/) | tartans-authority |
 
-### WBRGRRRY
-<a class="pat" href="/patterns/wbrgrrry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBRGRRRY</span></a>
+### RBRBGBGW
+<a class="pat" href="/patterns/rbrbgbgw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBRBGBGW</span></a>
 
-| Tartan |
-|---|
-| [Washington DC (Fashion)](/patterns/wbrgrrry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Redpath, Robert A (Personal)](/setts/s8/r52b8r2ba4g2b8g28w4-b505050-ba9058d8-g005020-r880000-we0e0e0/) | register-of-tartans |
 
-### WBRYRKRY
-<a class="pat" href="/patterns/wbryrkry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBRYRKRY</span></a>
+### RBRBGKBW
+<a class="pat" href="/patterns/rbrbgkbw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBRBGKBW</span></a>
 
-| Tartan |
-|---|
-| [Dalmagarry (Personal)](/patterns/wbryrkry/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.10 | [St. Margaret Youth Group (Corporate)](/setts/s8/r60b10r6b66g16k6b16w4-b202060-g006818-k101010-r901c38-we0e0e0/) | tartans-authority |
 
-### WBWBBWBW
-<a class="pat" href="/patterns/wbwbbwbw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBWBBWBW</span></a>
+### RBRBGRGR
+<a class="pat" href="/patterns/rbrbgrgr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">RBRBGRGR</span></a>
 
-| Tartan |
-|---|
-| [Dunlop Dress](/patterns/wbwbbwbw/) |
-| [Dunlop Dress Family Tartan Tartan Number: 1784. Earliest known date: 1984 Revised version See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wbwbbwbw/) |
-| [Dunlop, dress](/patterns/wbwbbwbw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.04 | [Flora, MacDonald](/setts/s8/r6b6r6b20g20r6g6r6-b304080-g008000-rc00000/) | weddslist |
+| 0.04 | [Flora MacDonald](/setts/s8/r6b6r6b20g20r6g6r6-b2c4084-g005020-rdc0000/) | register-of-tartans |
 
-### WBWBBYBW
-<a class="pat" href="/patterns/wbwbbybw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBWBBYBW</span></a>
+### RBRBKGKW
+<a class="pat" href="/patterns/rbrbkgkw/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">RBRBKGKW</span></a>
 
-| Tartan |
-|---|
-| [Gorman Blue (Personal)](/patterns/wbwbbybw/) |
-| [Gorman Blue (Personal)](/patterns/wbwbbybw/) |
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.03 | [Whitson](/setts/s8/w8k2g36k34b26r2b6r2-b304080-g008000-k000000-rc00000-we0e0e0/) | weddslist |
+| 0.07 | [Whitson #2](/setts/s8/w8k2g36k34b26r2b6r2-b2c4084-g005020-k101010-rdc0000-we0e0e0/) | register-of-tartans |
 
-### WBWBGWGW
-<a class="pat" href="/patterns/wbwbgwgw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBWBGWGW</span></a>
-
-| Tartan |
-|---|
-| [Auld Lang Syne (Fashion)](/patterns/wbwbgwgw/) |
-
-### WBWBWBBY
-<a class="pat" href="/patterns/wbwbwbby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBWBWBBY</span></a>
-
-| Tartan |
-|---|
-| [Culloden Blue Dress Fancy Tartan Tartan Number: 1792. Earliest known date: 1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wbwbwbby/) |
-| [Culloden, Blue Dress (Dance)](/patterns/wbwbwbby/) |
-| [Culloden, Blue dress](/patterns/wbwbwbby/) |
-
-### WBWKRYRW
-<a class="pat" href="/patterns/wbwkryrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBWKRYRW</span></a>
-
-| Tartan |
-|---|
-| [Brunnbauer (2015)](/patterns/wbwkryrw/) |
-| [Brunnbauer (2015)](/patterns/wbwkryrw/) |
-
-### WBWKWKGW
-<a class="pat" href="/patterns/wbwkwkgw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBWKWKGW</span></a>
-
-| Tartan |
-|---|
-| [Forbes - 1880 (Clans Originaux)](/patterns/wbwkwkgw/) |
-
-### WBYBBYBY
-<a class="pat" href="/patterns/wbybbyby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WBYBBYBY</span></a>
-
-| Tartan |
-|---|
-| [Halesowen](/patterns/wbybbyby/) |
-| [Halesowen #2](/patterns/wbybbyby/) |
-
-### WGBGRBGY
-<a class="pat" href="/patterns/wgbgrbgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGBGRBGY</span></a>
-
-| Tartan |
-|---|
-| [Devon Rural Skills Trust](/patterns/wgbgrbgy/) |
-| [Devon Rural Skills Trust](/patterns/wgbgrbgy/) |
-
-### WGBGRGRY
-<a class="pat" href="/patterns/wgbgrgry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGBGRGRY</span></a>
-
-| Tartan |
-|---|
-| [Muskoka](/patterns/wgbgrgry/) |
-
-### WGBGRYRY
-<a class="pat" href="/patterns/wgbgryry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGBGRYRY</span></a>
-
-| Tartan |
-|---|
-| [Muskoka](/patterns/wgbgryry/) |
-| [Muskoka Canadian Tartan Tartan Number: 1799. Earliest known date: pre 2003 A note in the Highland Society of London collection reads, 'Murray (Tullibardine) This piece of cloth was made in 1794'. The sample is woven at 54 threads to the inch. The full sett measures 15 and one quarter inches. (A. Nisbet, 1988). See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wgbgryry/) |
-
-### WGGWGKGY
-<a class="pat" href="/patterns/wggwgkgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGGWGKGY</span></a>
-
-| Tartan |
-|---|
-| [New World Irish (Fashion)](/patterns/wggwgkgy/) |
-
-### WGGYWYKW
-<a class="pat" href="/patterns/wggywykw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WGGYWYKW</span></a>
-
-| Tartan |
-|---|
-| [Pavelka Limited](/patterns/wggywykw/) |
-
-### WGKRKRKY
-<a class="pat" href="/patterns/wgkrkrky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGKRKRKY</span></a>
-
-| Tartan |
-|---|
-| [Hoa Sen](/patterns/wgkrkrky/) |
-
-### WGKYKYKY
-<a class="pat" href="/patterns/wgkykyky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGKYKYKY</span></a>
-
-| Tartan |
-|---|
-| [Buccleuch (Fashion)](/patterns/wgkykyky/) |
-
-### WGRGGBGY
-<a class="pat" href="/patterns/wgrggbgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGRGGBGY</span></a>
-
-| Tartan |
-|---|
-| [Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wgrggbgy/) |
-| [Tache, Sir Etienne Paschal #2](/patterns/wgrggbgy/) |
-
-### WGRGYGKW
-<a class="pat" href="/patterns/wgrgygkw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WGRGYGKW</span></a>
-
-| Tartan |
-|---|
-| [Tartan Day SA](/patterns/wgrgygkw/) |
-
-### WGRKBKBY
-<a class="pat" href="/patterns/wgrkbkby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGRKBKBY</span></a>
-
-| Tartan |
-|---|
-| [Loch Etive](/patterns/wgrkbkby/) |
-| [Loch Etive](/patterns/wgrkbkby/) |
-
-### WGWBWBWW
-<a class="pat" href="/patterns/wgwbwbww/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WGWBWBWW</span></a>
-
-| Tartan |
-|---|
-| [Tenmaya](/patterns/wgwbwbww/) |
-
-### WGWYGBWW
-<a class="pat" href="/patterns/wgwygbww/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WGWYGBWW</span></a>
-
-| Tartan |
-|---|
-| [Philpotts, Brian](/patterns/wgwygbww/) |
-
-### WGYBRKGY
-<a class="pat" href="/patterns/wgybrkgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WGYBRKGY</span></a>
-
-| Tartan |
-|---|
-| [Climb, The](/patterns/wgybrkgy/) |
-
-### WGYRGWRW
-<a class="pat" href="/patterns/wgyrgwrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WGYRGWRW</span></a>
-
-| Tartan |
-|---|
-| [State Seal of New Mexico (Fashion)](/patterns/wgyrgwrw/) |
-
-### WKBKRKGY
-<a class="pat" href="/patterns/wkbkrkgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKBKRKGY</span></a>
-
-| Tartan |
-|---|
-| [Ayre (Personal)](/patterns/wkbkrkgy/) |
-
-### WKBRKGKY
-<a class="pat" href="/patterns/wkbrkgky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKBRKGKY</span></a>
-
-| Tartan |
-|---|
-| [McGeachie (Personal)](/patterns/wkbrkgky/) |
-
-### WKGGWRWY
-<a class="pat" href="/patterns/wkggwrwy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKGGWRWY</span></a>
-
-| Tartan |
-|---|
-| [Saskatchewan Dress](/patterns/wkggwrwy/) |
-
-### WKGGYRYY
-<a class="pat" href="/patterns/wkggyryy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKGGYRYY</span></a>
-
-| Tartan |
-|---|
-| [Saskatchewan (District)](/patterns/wkggyryy/) |
-| [Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015](/patterns/wkggyryy/) |
-
-### WKGKBKRY
-<a class="pat" href="/patterns/wkgkbkry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKGKBKRY</span></a>
-
-| Tartan |
-|---|
-| [German MacLeod](/patterns/wkgkbkry/) |
-
-### WKGRKGRW
-<a class="pat" href="/patterns/wkgrkgrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WKGRKGRW</span></a>
-
-| Tartan |
-|---|
-| [Al Suwaidi of Abu Dhabi (Personal)](/patterns/wkgrkgrw/) |
-
-### WKGRYRYY
-<a class="pat" href="/patterns/wkgryryy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKGRYRYY</span></a>
-
-| Tartan |
-|---|
-| [Saskatchewan](/patterns/wkgryryy/) |
-
-### WKWBRBRW
-<a class="pat" href="/patterns/wkwbrbrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WKWBRBRW</span></a>
-
-| Tartan |
-|---|
-| [Merida Dance](/patterns/wkwbrbrw/) |
-| [Meridia Dance](/patterns/wkwbrbrw/) |
-
-### WKWKRKWY
-<a class="pat" href="/patterns/wkwkrkwy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKWKRKWY</span></a>
-
-| Tartan |
-|---|
-| [Crane of Cluny Dress (Personal)](/patterns/wkwkrkwy/) |
-
-### WKWKRWRY
-<a class="pat" href="/patterns/wkwkrwry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKWKRWRY</span></a>
-
-| Tartan |
-|---|
-| [Marjoribanks](/patterns/wkwkrwry/) |
-| [Marjoribanks](/patterns/wkwkrwry/) |
-
-### WKWKWGWW
-<a class="pat" href="/patterns/wkwkwgww/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WKWKWGWW</span></a>
-
-| Tartan |
-|---|
-| [Longniddry Turquoise (Dance)](/patterns/wkwkwgww/) |
-
-### WKWKWKRY
-<a class="pat" href="/patterns/wkwkwkry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKWKWKRY</span></a>
-
-| Tartan |
-|---|
-| [Aberlour](/patterns/wkwkwkry/) |
-
-### WKWYRYWW
-<a class="pat" href="/patterns/wkwyryww/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WKWYRYWW</span></a>
-
-| Tartan |
-|---|
-| [Lalage (Personal)](/patterns/wkwyryww/) |
-
-### WKYWKYWY
-<a class="pat" href="/patterns/wkywkywy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WKYWKYWY</span></a>
-
-| Tartan |
-|---|
-| [Guzzo Check (Personal)](/patterns/wkywkywy/) |
-| [Guzzo Check (Personal)](/patterns/wkywkywy/) |
-
-### WRBRBRRW
-<a class="pat" href="/patterns/wrbrbrrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WRBRBRRW</span></a>
-
-| Tartan |
-|---|
-| [Tenmaya Check](/patterns/wrbrbrrw/) |
-
-### WRBRGYGY
-<a class="pat" href="/patterns/wrbrgygy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRBRGYGY</span></a>
-
-| Tartan |
-|---|
-| [Hall (P.I.E.) (Personal)](/patterns/wrbrgygy/) |
-
-### WRGRBWBY
-<a class="pat" href="/patterns/wrgrbwby/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRGRBWBY</span></a>
-
-| Tartan |
-|---|
-| [Manitoba Masonic](/patterns/wrgrbwby/) |
-| [Manitoba Masonic (Corporate)](/patterns/wrgrbwby/) |
-
-### WRKRKRKY
-<a class="pat" href="/patterns/wrkrkrky/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRKRKRKY</span></a>
-
-| Tartan |
-|---|
-| [Mens Bigi](/patterns/wrkrkrky/) |
-
-### WRRRGBGY
-<a class="pat" href="/patterns/wrrrgbgy/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRRRGBGY</span></a>
-
-| Tartan |
-|---|
-| [Etienne, Paschal Tache Sir...](/patterns/wrrrgbgy/) |
-
-<nav class="pager"><a href="/stripes/stripes8/p4/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <strong>5</strong> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p6/">next ›</a></nav>
+<nav class="pager"><a href="/stripes/stripes8/p4/">‹ prev</a> <a href="/stripes/stripes8/">1</a> <a href="/stripes/stripes8/p2/">2</a> <a href="/stripes/stripes8/p3/">3</a> <a href="/stripes/stripes8/p4/">4</a> <strong>5</strong> <a href="/stripes/stripes8/p6/">6</a> <a href="/stripes/stripes8/p7/">7</a> <a href="/stripes/stripes8/p6/">next ›</a></nav>

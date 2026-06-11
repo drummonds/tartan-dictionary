@@ -1,13 +1,13 @@
 ---
-title: "Lochnagar Plaid (District)"
+title: "Lochnagar"
 date: 2023-03-18
 ---
 In pattern [WBRBRW](/patterns/wbrbrw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1771/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2176
 
 ## Thread count
 LN/4 Na4 N16 Na28 P4 LN/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/4 Na4 N16 Na28 P4 LN/4 tartan")
 
 ID: /setts/s6/w4b4r28ba16r4w4-b780078-ba5c5c5c-r888888-we0e0e0/
+888-we0e0e0/

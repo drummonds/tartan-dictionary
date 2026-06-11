@@ -1,13 +1,13 @@
 ---
-title: "Arduaine, Red (Dance)"
+title: "Arduaine Red"
 date: 2023-03-18
 ---
 In pattern [BRWRWKW](/patterns/brwrwkw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7572/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5596
 
 ## Thread count
 DB/6 R16 W6 R48 W60 K4 W/10

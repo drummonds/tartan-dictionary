@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#983020;"><span style="color:#983020;filter:grayscale(1) invert(1) contrast(100);">#983020</span></code> `#983020` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.09 |
 
 ID: /setts/s13/g4b2y2b6ya4ba4w2ba2b10ba4yb2ba84r4-b54585c-ba2c2c44-g888c48-r983020-wa8ace8-ybcc090-yac0a494-yba8a098/
-

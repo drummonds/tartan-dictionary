@@ -1,13 +1,13 @@
 ---
-title: "Stradling (Name)"
+title: "Stradling"
 date: 2023-03-18
 ---
 In pattern [BWBKRY](/patterns/bwbkry/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7650/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5663
 
 ## Thread count
 DB/40 LN7 DB60 K10 DR25 Y/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/40 LN7 DB60 K10 DR25 Y/4 tartan")
 
 ID: /setts/s6/b40w7b60k10r25y4-b2c2c80-k101010-r880000-we0e0e0-ye8c000/
+0/

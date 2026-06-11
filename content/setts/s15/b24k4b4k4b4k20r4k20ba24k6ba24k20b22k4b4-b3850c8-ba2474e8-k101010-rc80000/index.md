@@ -1,13 +1,13 @@
 ---
-title: "Mundigl"
+title: "Mundigl (Name)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKBKRKBKBKB](/patterns/bkbkbkbkrkbkbkb/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3046
+Original link http://www.tartansauthority.com/tartan-ferret/display/6066/
 
 ## Thread count
 Ba/4 K4 Ba22 K20 B24 K6 B24 K20 R4 K20 Ba4 K4 Ba4 K4 Ba/24

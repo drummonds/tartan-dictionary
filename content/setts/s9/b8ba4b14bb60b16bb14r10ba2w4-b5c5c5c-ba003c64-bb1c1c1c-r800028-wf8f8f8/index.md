@@ -1,13 +1,13 @@
 ---
-title: "Hebridean Heather"
+title: "Hebridean Heather (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BBBBBBRBW](/patterns/bbbbbbrbw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1654
+Original link http://www.tartansauthority.com/tartan-ferret/display/6820/
 
 ## Thread count
 N/8 DB4 N14 K60 N16 K14 DR10 DB2 W/4

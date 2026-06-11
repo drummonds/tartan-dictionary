@@ -1,13 +1,13 @@
 ---
-title: "Children 1st"
+title: "Children 1st (Corporate)"
 date: 2023-03-18
 ---
 In pattern [YBBBBBBGY](/patterns/ybbbbbbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5339
+Original link http://www.tartansauthority.com/tartan-ferret/display/6707/
 
 ## Thread count
 Y/14 DB64 P8 DB8 P16 DB8 P16 G64 Y/6
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/y14b64ba8b8ba16b8ba16g64y6-b202060-ba780078-g006818-ye8c000/
-e8c000/

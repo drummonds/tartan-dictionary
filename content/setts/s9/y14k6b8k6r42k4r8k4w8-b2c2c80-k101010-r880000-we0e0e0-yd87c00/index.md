@@ -1,13 +1,13 @@
 ---
-title: "Castle Stewart"
+title: "Castle Stewart (District)"
 date: 2023-03-18
 ---
 In pattern [WKRKRKBKY](/patterns/wkrkrkbky/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5466
+Original link http://www.tartansauthority.com/tartan-ferret/display/7353/
 
 ## Thread count
 LN/8 K4 DR8 K4 DR42 K6 DB8 K6 O/14

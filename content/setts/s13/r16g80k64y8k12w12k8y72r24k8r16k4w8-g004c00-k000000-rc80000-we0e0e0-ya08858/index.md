@@ -1,13 +1,13 @@
 ---
-title: "Johnson, J.M."
+title: "Johnson, J.M. (Commemorative)"
 date: 2023-03-18
 ---
 In pattern [RGKYKWKYRKRKW](/patterns/rgkykwkyrkrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1896
+Original link http://www.tartansauthority.com/tartan-ferret/display/5286/
 
 ## Thread count
 LN/8 K4 R16 K8 R24 LT72 K8 LN12 K12 LT8 K64 G80 R/16

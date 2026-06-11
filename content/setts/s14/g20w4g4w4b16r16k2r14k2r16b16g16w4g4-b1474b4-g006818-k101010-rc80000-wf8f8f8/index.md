@@ -1,13 +1,13 @@
 ---
-title: "Teirney (unreliable)"
+title: "Teirney (Estimated threadcount)"
 date: 2023-03-18
 ---
 In pattern [GWGBRKRKRBWGWG](/patterns/gwgbrkrkrbwgwg/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6748/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4085
 
 ## Thread count
 G/4 W4 G16 B16 R16 K2 R14 K2 R16 B16 W4 G4 W4 G/20
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s14/g20w4g4w4b16r16k2r14k2r16b16g16w4g4-b1474b4-g006818-k101010-rc80000-wf8f8f8/
-80000-wf8f8f8/

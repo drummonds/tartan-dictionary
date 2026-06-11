@@ -1,13 +1,13 @@
 ---
-title: "Donegal, County (District)"
+title: "Donegal, County"
 date: 2023-03-18
 ---
 In pattern [RBRBBBGBGY](/patterns/rbrbbbgbgy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2247/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=950
 
 ## Thread count
 DRa/4 B16 DRa4 B36 DR10 B6 G6 B6 G34 DY/6
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.04 |
 
 ID: /setts/s10/y6g34b6g6b6ba10b36r4b16r4-b1474b4-ba441800-g285800-r880000-ybc8c00/
+bc8c00/

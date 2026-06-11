@@ -1,13 +1,13 @@
 ---
-title: "Lothian Buses (Corporate?)"
+title: "Lothian Buses"
 date: 2023-03-18
 ---
 In pattern [BRGRBW](/patterns/brgrbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7779/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5749
 
 ## Thread count
 DB/8 R24 G24 R24 DB120 LN/16
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 R24 G24 R24 DB120 LN/16 tartan")
 
 ID: /setts/s6/w16b120r24g24r24b8-b2c2c80-g006818-rc80000-we0e0e0/
+we0e0e0/

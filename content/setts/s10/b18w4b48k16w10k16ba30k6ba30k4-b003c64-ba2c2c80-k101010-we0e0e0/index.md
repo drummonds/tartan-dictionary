@@ -1,13 +1,13 @@
 ---
-title: "Scottish Claymores (Sports)"
+title: "Scottish Claymores"
 date: 2023-03-18
 ---
 In pattern [BWBKWKBKBK](/patterns/bwbkwkbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2308/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3711
 
 ## Thread count
 DBa/18 LN4 DBa48 K16 LN10 K16 DB30 K6 DB30 K/4

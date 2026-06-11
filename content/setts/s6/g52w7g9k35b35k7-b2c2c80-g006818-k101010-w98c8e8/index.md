@@ -1,13 +1,13 @@
 ---
-title: "Redland (Corporate)"
+title: "Redland"
 date: 2023-03-18
 ---
 In pattern [GWGKBK](/patterns/gwgkbk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6070/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3482
 
 ## Thread count
 G/52 LB7 G9 K35 DB35 K/7
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/52 LB7 G9 K35 DB35 K/7 tartan")
 
 ID: /setts/s6/g52w7g9k35b35k7-b2c2c80-g006818-k101010-w98c8e8/
+98c8e8/

@@ -1,13 +1,13 @@
 ---
-title: "Kilmorie"
+title: "Kilmorie (District)"
 date: 2023-03-18
 ---
 In pattern [KRGKYKWKRBW](/patterns/krgkykwkrbw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1976
+Original link http://www.tartansauthority.com/tartan-ferret/display/7123/
 
 ## Thread count
 K/6 R60 G20 K6 Y4 K6 LN4 K12 R4 DB24 LN/4

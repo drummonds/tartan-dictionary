@@ -1,13 +1,13 @@
 ---
-title: "New Mexico: Land of Enchantment"
+title: "New Mexico (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GBRGGYG](/patterns/gbrggyg/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3115
+Original link http://www.tartansauthority.com/tartan-ferret/display/2530/
 
 ## Thread count
 G/10 P42 R5 Ga42 G42 Y5 G/6

@@ -1,13 +1,13 @@
 ---
-title: "Coulin (Fashion)"
+title: "Coulin"
 date: 2023-03-18
 ---
 In pattern [BKBKRBKBKYBKBKBKBKBKBKBKBKBKBKBKBKY](/patterns/bkbkrbkbkybkbkbkbkbkbkbkbkbkbkbkbky/).
 
 
-This was sourced from tartans-authority.  It is a [35 stripes tartan](/stripes/stripes35/).
+This was sourced from register-of-tartans.  It is a [35 stripes tartan](/stripes/stripes35/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4593/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775
 
 ## Thread count
 B/4 K4 B4 K4 DR36 B4 K4 B4 K4 Y32 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 Y/64
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#F09430;"><span style="color:#F09430;filter:grayscale(1) invert(1) contrast(100);">#F09430</span></code> `#F09430` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 
 ID: /setts/s35/y64k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4y32k4b4k4b4r36k4b4k4b4-b6080e0-k000000-r70000c-yf09430/
+09430/

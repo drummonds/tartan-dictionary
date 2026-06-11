@@ -1,13 +1,13 @@
 ---
-title: "Crane of Cluny (Personal)"
+title: "Crane of Clunie (Personal)"
 date: 2023-03-18
 ---
 In pattern [GKGKRKGY](/patterns/gkgkrkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=791
+Original link http://www.tartansauthority.com/tartan-ferret/display/2674/
 
 ## Thread count
 G/164 K12 G6 K18 R4 K10 G4 Y/4

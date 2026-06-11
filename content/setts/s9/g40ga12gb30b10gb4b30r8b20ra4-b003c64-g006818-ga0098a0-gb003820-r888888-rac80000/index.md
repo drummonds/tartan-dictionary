@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [GGGBGBRBR](/patterns/gggbgbrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=757
+Original link http://www.tartansauthority.com/tartan-ferret/display/6483/
 
 ## Thread count
 G/40 B12 DG30 DB10 DG4 DB30 N8 DB20 R/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s9/g40ga12gb30b10gb4b30r8b20ra4-b003c64-g006818-ga0098a0-gb003820-r888888-rac80000/
+0/

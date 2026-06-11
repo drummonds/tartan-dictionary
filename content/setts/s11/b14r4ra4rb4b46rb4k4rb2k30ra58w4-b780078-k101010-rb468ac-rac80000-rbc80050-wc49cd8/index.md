@@ -1,13 +1,13 @@
 ---
-title: "MacHatters of the Old Pueblo"
+title: "MacHatters of the Old Pueblo (Corp)"
 date: 2023-03-18
 ---
 In pattern [BRRRBRKRKRW](/patterns/brrrbrkrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2469
+Original link http://www.tartansauthority.com/tartan-ferret/display/7102/
 
 ## Thread count
 LP/4 R58 K30 Ra2 K4 Ra4 P46 Ra4 R4 Pa4 P/14

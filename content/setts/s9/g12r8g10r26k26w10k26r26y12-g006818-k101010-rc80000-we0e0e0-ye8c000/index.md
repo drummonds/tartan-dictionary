@@ -1,13 +1,13 @@
 ---
-title: "Akins Red Family Tartan Tartan Number: 997. Earliest known date: 1986 . See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Akins Dress (Clan)"
 date: 2023-03-18
 ---
 In pattern [GRGRKWKRY](/patterns/grgrkwkry/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=997
+Original link http://www.tartansauthority.com/tartan-ferret/display/997/
 
 ## Thread count
 G/12 R8 G10 R26 K26 LN10 K26 R26 Y/12

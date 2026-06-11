@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [WBRBKBKBKBRBY](/patterns/wbrbkbkbkbrby/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5810/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2494
 
 ## Thread count
 LN/4 DB6 R4 DB38 K14 DB12 K44 DB12 K14 DB38 R4 DB6 Y/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/w4b6r4b38k14b12k44b12k14b38r4b6y4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/
-00/

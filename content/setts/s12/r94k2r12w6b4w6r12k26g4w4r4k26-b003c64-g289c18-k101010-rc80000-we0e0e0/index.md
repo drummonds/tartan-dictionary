@@ -1,13 +1,13 @@
 ---
-title: "Trevison Personal Tartan Tartan Number: 5846. Earliest known date: 18.06.03 Final version. Includes the colours of the Italian flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Trevison"
 date: 2023-03-18
 ---
 In pattern [KRWGKRWBWRKR](/patterns/krwgkrwbwrkr/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5846
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4148
 
 ## Thread count
 K/26 R4 LN4 G4 K26 R12 LN6 DB4 LN6 R12 K2 R/94

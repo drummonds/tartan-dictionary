@@ -1,13 +1,13 @@
 ---
-title: "Princess Beatrice Dress (1880)"
+title: "Princess Beatrice Dress (1880) (Fash"
 date: 2023-03-18
 ---
 In pattern [KRKRWBWRKRKRKGKGKGY](/patterns/krkrwbwrkrkrkgkgkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3397
+Original link http://www.tartansauthority.com/tartan-ferret/display/1206/
 
 ## Thread count
 K/6 R2 K4 R4 LY40 DB6 LY6 R16 K4 R4 K4 R4 K16 G4 K4 G4 K4 G16 Y/4

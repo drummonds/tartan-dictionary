@@ -1,13 +1,13 @@
 ---
-title: "Spice Apple (Fashion)"
+title: "Spice Apple"
 date: 2023-03-18
 ---
 In pattern [GYRGYGR](/patterns/gyrgygr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5314/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3861
 
 ## Thread count
 G/16 DY4 R88 G48 DY16 G16 R/16

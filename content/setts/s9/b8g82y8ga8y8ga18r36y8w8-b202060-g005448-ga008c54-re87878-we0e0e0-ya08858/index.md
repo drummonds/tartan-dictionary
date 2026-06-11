@@ -1,13 +1,13 @@
 ---
-title: "Gallagher Ancient"
+title: "Gallagher Ancient (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGYGYGRYW](/patterns/bgygygryw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1299
+Original link http://www.tartansauthority.com/tartan-ferret/display/4053/
 
 ## Thread count
 DB/8 Ga82 LT8 G8 LT8 G18 LR36 LT8 LN/8

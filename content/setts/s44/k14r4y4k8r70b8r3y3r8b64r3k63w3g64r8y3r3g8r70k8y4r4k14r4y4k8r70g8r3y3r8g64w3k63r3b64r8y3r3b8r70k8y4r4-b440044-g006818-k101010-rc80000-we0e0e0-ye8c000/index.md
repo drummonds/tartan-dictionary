@@ -1,13 +1,13 @@
 ---
-title: "Leith (Hay)"
+title: "Leith & Hay (Clan)"
 date: 2023-03-18
 ---
 In pattern [KRYKRBRYRBRKWGRYRGRKYRKRYKRGRYRGWKRBRYRBRKYR](/patterns/krykrbryrbrkwgryrgrkyrkrykrgryrgwkrbryrbrkyr/).
 
 
-This was sourced from register-of-tartans.  It is a [44 stripes tartan](/stripes/stripes44/).
+This was sourced from tartans-authority.  It is a [44 stripes tartan](/stripes/stripes44/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091
+Original link http://www.tartansauthority.com/tartan-ferret/display/2131/
 
 ## Thread count
 K/14 R4 Y4 K8 R70 DP8 R3 Y3 R8 DP64 R3 K63 LN3 G64 R8 Y3 R3 G8 R70 K8 Y4 R4 K14 R4 Y4 K8 R70 G8 R3 Y3 R8 G64 LN3 K63 R3 DP64 R8 Y3 R3 DP8 R70 K8 Y4 R/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s44/k14r4y4k8r70b8r3y3r8b64r3k63w3g64r8y3r3g8r70k8y4r4k14r4y4k8r70g8r3y3r8g64w3k63r3b64r8y3r3b8r70k8y4r4-b440044-g006818-k101010-rc80000-we0e0e0-ye8c000/
-0/

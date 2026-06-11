@@ -1,13 +1,13 @@
 ---
-title: "Allen (1998)"
+title: "Allen (1998) (Name)"
 date: 2023-03-18
 ---
 In pattern [GRGKBRBKBKBKBKBYBKGRG](/patterns/grgkbrbkbkbkbkbybkgrg/).
 
 
-This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56
+Original link http://www.tartansauthority.com/tartan-ferret/display/2482/
 
 ## Thread count
 G/4 R4 G24 K8 B22 R4 B22 K8 B4 K18 B4 K18 B4 K8 B22 Y4 B22 K8 G24 R4 G/4

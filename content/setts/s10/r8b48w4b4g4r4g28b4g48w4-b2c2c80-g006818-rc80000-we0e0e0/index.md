@@ -1,13 +1,13 @@
 ---
-title: "Tennessee State (US State)"
+title: "Tennessee State"
 date: 2023-03-18
 ---
 In pattern [RBWBGRGBGW](/patterns/rbwbgrgbgw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3067/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4998
 
 ## Thread count
 LN/4 G48 DB4 G28 R4 G4 DB4 LN4 DB48 R/8

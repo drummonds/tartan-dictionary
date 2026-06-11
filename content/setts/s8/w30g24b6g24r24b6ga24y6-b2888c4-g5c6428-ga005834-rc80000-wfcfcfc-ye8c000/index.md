@@ -1,13 +1,13 @@
 ---
-title: "Devon Rural Skills Trust"
+title: "Devon Rural Skills Trust (Corporate)"
 date: 2023-03-18
 ---
 In pattern [WGBGRBGY](/patterns/wgbgrbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=923
+Original link http://www.tartansauthority.com/tartan-ferret/display/2182/
 
 ## Thread count
 W/30 G24 B6 G24 R24 B6 Ga24 Y/6
@@ -30,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "W/30 G24 B6 G24 R24 B6 Ga24 Y/6 tartan")
 
 ID: /setts/s8/w30g24b6g24r24b6ga24y6-b2888c4-g5c6428-ga005834-rc80000-wfcfcfc-ye8c000/
-ye8c000/

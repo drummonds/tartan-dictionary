@@ -1,13 +1,13 @@
 ---
-title: "Wardlaw Clan Tartan Tartan Number: 6600. Earliest known date: May 2005 A new design for the Clan Wardlaw. A darker more muted version of this tartan is woven for kilts. The pattern remains the same. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Wardlaw (Clan)"
 date: 2023-03-18
 ---
 In pattern [KBKBBRGKBR](/patterns/kbkbbrgkbr/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6600
+Original link http://www.tartansauthority.com/tartan-ferret/display/6600/
 
 ## Thread count
 K/8 P60 K6 P4 DB4 R4 G24 K6 DB36 R/6

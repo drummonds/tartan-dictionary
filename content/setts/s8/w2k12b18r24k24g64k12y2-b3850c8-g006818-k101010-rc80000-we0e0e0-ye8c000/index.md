@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [WKBRKGKY](/patterns/wkbrkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2883
+Original link http://www.tartansauthority.com/tartan-ferret/display/7291/
 
 ## Thread count
 LN/2 K12 B18 R24 K24 G64 K12 Y/2
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/2 K12 B18 R24 K24 G64 K12 Y/2 tartan")
 
 ID: /setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/
+00/

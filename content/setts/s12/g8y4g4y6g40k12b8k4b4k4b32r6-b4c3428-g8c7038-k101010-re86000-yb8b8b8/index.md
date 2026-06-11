@@ -1,13 +1,13 @@
 ---
-title: "Dorcas"
+title: "Scotch House 'Dorcas' (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GYGYGKBKBKBR](/patterns/gygygkbkbkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4879
+Original link http://www.tartansauthority.com/tartan-ferret/display/1315/
 
 ## Thread count
 LT/8 N4 LT4 N6 LT40 K12 T8 K4 T4 K4 T32 O/6

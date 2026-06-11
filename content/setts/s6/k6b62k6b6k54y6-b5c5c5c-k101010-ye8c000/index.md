@@ -1,13 +1,13 @@
 ---
-title: "Scottish National Party (Corporate)"
+title: "Scottish National Party"
 date: 2023-03-18
 ---
 In pattern [KBKBKY](/patterns/kbkbky/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7839/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5791
 
 ## Thread count
 K/6 N62 K6 N6 K54 Y/6
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 N62 K6 N6 K54 Y/6 tartan")
 
 ID: /setts/s6/k6b62k6b6k54y6-b5c5c5c-k101010-ye8c000/
+e8c000/

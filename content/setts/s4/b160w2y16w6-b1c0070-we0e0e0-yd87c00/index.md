@@ -1,13 +1,13 @@
 ---
-title: "Weir Minerals"
+title: "Weir Minerals (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BWYW](/patterns/bwyw/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5635
+Original link http://www.tartansauthority.com/tartan-ferret/display/7613/
 
 ## Thread count
 DB/160 LN2 O16 LN/6

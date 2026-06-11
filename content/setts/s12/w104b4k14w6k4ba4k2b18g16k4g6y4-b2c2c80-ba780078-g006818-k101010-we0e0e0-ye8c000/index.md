@@ -1,13 +1,13 @@
 ---
-title: "Canmore Highland Games Dress (Corp)"
+title: "Canmore Highland Games Dress Corporate Tartan Tartan Number: 10009. Earliest known date: May 2000 Tartan available through the Three Sisters Scottish Festival Society who organise the Canmore Highland Games. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [WBKWKBKBGKGY](/patterns/wbkwkbkbgkgy/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/10009/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10009
 
 ## Thread count
 LN/104 DB4 K14 LN6 K4 P4 K2 DB18 G16 K4 G6 Y/4

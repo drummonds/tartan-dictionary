@@ -1,13 +1,13 @@
 ---
-title: "Loch Lomond (1999)"
+title: "Loch Lomond (1999) (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BBGBRBRYR](/patterns/bbgbrbryr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2152
+Original link http://www.tartansauthority.com/tartan-ferret/display/2616/
 
 ## Thread count
 DP/8 P30 G20 DP16 DR8 DB6 DR6 Y6 DR/56
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/r56y6r6b6r8ba16g20bb30ba8-b2c2c80-ba440044-bb780078-g006818-r880000-ye8c000/
-c000/

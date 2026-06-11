@@ -1,13 +1,13 @@
 ---
-title: "Eastern Western Motor Group, Dalbraith"
+title: "Dalbraith-Eastern Western (Corporate"
 date: 2023-03-18
 ---
 In pattern [GGGBGBGY](/patterns/gggbgbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=875
+Original link http://www.tartansauthority.com/tartan-ferret/display/2197/
 
 ## Thread count
 LT/8 G6 DB4 G46 DB36 T8 G4 T/56
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LT/8 G6 DB4 G46 DB36 T8 G4 T/56 tartan")
 
 ID: /setts/s8/g56ga4g8b36ga46b4ga6y8-b202060-g604000-ga006818-ya08858/
+858/

@@ -1,13 +1,13 @@
 ---
-title: "Menzies (1938)"
+title: "Menzies 1938 - Mourning (Clan)"
 date: 2023-03-18
 ---
 In pattern [KWKWKWKW](/patterns/kwkwkwkw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924
+Original link http://www.tartansauthority.com/tartan-ferret/display/1244/
 
 ## Thread count
 K/144 W16 K12 W16 K24 W8 K4 W/48
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/144 W16 K12 W16 K24 W8 K4 W/48 tartan")
 
 ID: /setts/s8/k144w16k12w16k24w8k4w48-k101010-wfcfcfc/
-10-wfcfcfc/

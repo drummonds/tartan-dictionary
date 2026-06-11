@@ -1,13 +1,13 @@
 ---
-title: "Glen Moriston (Estate Check)"
+title: "Glen Moriston Estate Check"
 date: 2023-03-18
 ---
 In pattern [BWW](/patterns/bww/).
 
 
-This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7331/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386
 
 ## Thread count
 DN/8 N8 LN/8
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DN/8 N8 LN/8 tartan")
 
 ID: /setts/s3/b8w8wa8-b00243c-wd0d0d0-wad4dce0/
-/

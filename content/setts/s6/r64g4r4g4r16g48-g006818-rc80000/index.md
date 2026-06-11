@@ -1,13 +1,13 @@
 ---
-title: "MacQuarrie #5"
+title: "MacQuarrie - 1886 (Clan)"
 date: 2023-03-18
 ---
 In pattern [GRGRGR](/patterns/grgrgr/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2732
+Original link http://www.tartansauthority.com/tartan-ferret/display/892/
 
 ## Thread count
 G/48 R16 G4 R4 G4 R/64

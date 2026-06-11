@@ -1,13 +1,13 @@
 ---
-title: "Glasgow, University of"
+title: "Glasgow, University of (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BWKYKGBK](/patterns/bwkykgbk/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360
+Original link http://www.tartansauthority.com/tartan-ferret/display/2680/
 
 ## Thread count
 DB/4 LN4 K4 DY4 K14 G8 DB44 K/4

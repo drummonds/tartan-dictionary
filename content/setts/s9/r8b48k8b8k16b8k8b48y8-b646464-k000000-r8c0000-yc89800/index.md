@@ -1,13 +1,13 @@
 ---
-title: "Modowny (Fashion)"
+title: "Modowny"
 date: 2023-03-18
 ---
 In pattern [RBKBKBKBY](/patterns/rbkbkbkby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5677/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2973
 
 ## Thread count
 DR/8 N48 K8 N8 K16 N8 K8 N48 DY/8

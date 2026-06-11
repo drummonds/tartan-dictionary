@@ -1,13 +1,13 @@
 ---
-title: "MacPhail Hunting #2"
+title: "MacPhail Htg"
 date: 2023-03-18
 ---
 In pattern [RBKGKW](/patterns/rbkgkw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2698
+Original link http://www.tartansauthority.com/tartan-ferret/display/2158/
 
 ## Thread count
 N/6 K8 G28 K24 DB48 R/8

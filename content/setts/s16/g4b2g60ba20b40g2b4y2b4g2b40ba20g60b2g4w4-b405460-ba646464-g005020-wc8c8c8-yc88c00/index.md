@@ -1,13 +1,13 @@
 ---
-title: "Scottish Borderland Fashion Tartan Tartan Number: 5359. Earliest known date: pre 1996 Lochcarron of Scotland. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Scottish Borderland"
 date: 2023-03-18
 ---
 In pattern [GBGBBGBYBGBBGBGW](/patterns/gbgbbgbybgbbgbgw/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5359
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709
 
 ## Thread count
 G/4 N2 G60 Na20 N40 G2 N4 DY2 N4 G2 N40 Na20 G60 N2 G4 Nb/4
@@ -23,5 +23,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#405460;"><span style="color:#405460;filter:grayscale(1) invert(1) contrast(100);">#405460</span></code> `#405460` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.10 |
 | Na | <code style="background-color:#646464;"><span style="color:#646464;filter:grayscale(1) invert(1) contrast(100);">#646464</span></code> `#646464` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 | Nb | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
+
+ID: /setts/s16/g4b2g60ba20b40g2b4y2b4g2b40ba20g60b2g4w4-b405460-ba646464-g005020-wc8c8c8-yc88c00/
+;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
 ID: /setts/s16/g4b2g60ba20b40g2b4y2b4g2b40ba20g60b2g4w4-b405460-ba646464-g005020-wc8c8c8-yc88c00/

@@ -1,13 +1,13 @@
 ---
-title: "German National"
+title: "German National (US) (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RKRKRKRKRKRY](/patterns/rkrkrkrkrkry/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1337
+Original link http://www.tartansauthority.com/tartan-ferret/display/1095/
 
 ## Thread count
 R/32 K4 R4 K4 R26 K24 R4 K24 R26 K26 R4 Y/4
@@ -23,4 +23,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/r32k4r4k4r26k24r4k24r26k26r4y4-k101010-rc80000-ye8c000/
-0-ye8c000/

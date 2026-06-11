@@ -1,13 +1,13 @@
 ---
-title: "Loch Leven (District)"
+title: "Loch Leven"
 date: 2023-03-18
 ---
 In pattern [BGBGWB](/patterns/bgbgwb/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/108/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148
 
 ## Thread count
 B/4 G26 B22 LG8 W18 B/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/4 G26 B22 LG8 W18 B/4 tartan")
 
 ID: /setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/
+fcfc/

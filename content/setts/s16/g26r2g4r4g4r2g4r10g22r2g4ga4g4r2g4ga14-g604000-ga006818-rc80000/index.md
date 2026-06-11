@@ -1,13 +1,13 @@
 ---
-title: "Särna District Tartan Tartan Number: 2039. Earliest known date: 1783 Sarna is a town in Sweden. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Sarna (District)"
 date: 2023-03-18
 ---
 In pattern [GGRGGGRGRGRGRGRG](/patterns/ggrgggrgrgrgrgrg/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2039
+Original link http://www.tartansauthority.com/tartan-ferret/display/2039/
 
 ## Thread count
 G/14 T4 R2 T4 G4 T4 R2 T22 R10 T4 R2 T4 R4 T4 R2 T/26

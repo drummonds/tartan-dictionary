@@ -1,13 +1,13 @@
 ---
-title: "Middleton, City of"
+title: "Middleton, City of (District)"
 date: 2023-03-18
 ---
 In pattern [RWRKRYRWR](/patterns/rwrkryrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948
+Original link http://www.tartansauthority.com/tartan-ferret/display/6466/
 
 ## Thread count
 N/64 LN4 N4 K4 N32 LT16 R8 LN8 R/8

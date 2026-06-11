@@ -1,13 +1,13 @@
 ---
-title: "Wisconsin in Scotland Corporate Univ Tartan Tartan Number: 2323. Earliest known date: 1997 Possibly designed by Morgan Clifford for use by the various departments of the University of Wisconsin that maintained (maintains?) a cultural study centre south of Edinburgh at Dalkeith. Count multiplied by four to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Wisconsin in Scotland"
 date: 2023-03-18
 ---
 In pattern [BYRRRRWRRRRYBWBYRRRRWRRRRYBY](/patterns/byrrrrwrrrrybwbyrrrrwrrrryby/).
 
 
-This was sourced from house-of-tartan.  It is a [28 stripes tartan](/stripes/stripes28/).
+This was sourced from register-of-tartans.  It is a [28 stripes tartan](/stripes/stripes28/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2323
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4766
 
 ## Thread count
 DB/88 Y8 DR16 N8 DR16 R16 LN8 R16 DR16 N8 DR16 Y8 DB88 LN8 DB88 Y8 DR16 N8 DR16 R16 LN8 R16 DR16 N8 DR16 Y8 DB88 Y/8

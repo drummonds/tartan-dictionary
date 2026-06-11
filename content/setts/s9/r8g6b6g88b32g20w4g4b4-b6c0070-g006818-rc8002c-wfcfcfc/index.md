@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BGWGBGBGR](/patterns/bgwgbgbgr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6023/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1417
 
 ## Thread count
 P/4 G4 W4 G20 P32 G88 P6 G6 R/8

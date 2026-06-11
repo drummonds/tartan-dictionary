@@ -1,13 +1,13 @@
 ---
-title: "Sarna (State)"
+title: "Sarna (District)"
 date: 2023-03-18
 ---
 In pattern [GYGBGBGGRGGBR](/patterns/gygbgbggrggbr/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3654
+Original link http://www.tartansauthority.com/tartan-ferret/display/2558/
 
 ## Thread count
 G/8 Y2 T4 P4 G3 P4 T42 G4 R3 G4 T4 P5 R/3

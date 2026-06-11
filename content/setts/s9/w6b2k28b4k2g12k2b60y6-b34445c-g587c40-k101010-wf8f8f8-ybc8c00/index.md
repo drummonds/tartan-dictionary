@@ -1,13 +1,13 @@
 ---
-title: "Bro-Kerne (Corporate)"
+title: "Bro-Kerne"
 date: 2023-03-18
 ---
 In pattern [WBKBKGKBY](/patterns/wbkbkgkby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6646/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=376
 
 ## Thread count
 DY/6 N60 K2 G12 K2 N4 K28 N2 W/6

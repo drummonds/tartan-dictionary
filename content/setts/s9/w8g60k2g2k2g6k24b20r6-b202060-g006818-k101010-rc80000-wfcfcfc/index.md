@@ -1,13 +1,13 @@
 ---
-title: "MacDonald of The Isles"
+title: "MacDonald of The Isles - 1842 (Fash)"
 date: 2023-03-18
 ---
 In pattern [RBKGKGKGW](/patterns/rbkgkgkgw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2374
+Original link http://www.tartansauthority.com/tartan-ferret/display/1366/
 
 ## Thread count
 R/6 DB20 K24 G6 K2 G2 K2 G60 W/8

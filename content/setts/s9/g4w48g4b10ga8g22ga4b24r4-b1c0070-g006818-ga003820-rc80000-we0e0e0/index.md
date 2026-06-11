@@ -1,13 +1,13 @@
 ---
-title: "Fraser Gathering Dress (1997)"
+title: "Fraser Gathering Dress (Commem.)"
 date: 2023-03-18
 ---
 In pattern [GWGBGGGBR](/patterns/gwgbgggbr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1254
+Original link http://www.tartansauthority.com/tartan-ferret/display/2362/
 
 ## Thread count
 G/4 LN48 G4 DB10 DG8 G22 DG4 DB24 R/4
@@ -25,8 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s9/g4w48g4b10ga8g22ga4b24r4-b1c0070-g006818-ga003820-rc80000-we0e0e0/
-) contrast(100);">#E8CCB8</span></code> `#E8CCB8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.11 |
-| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
-| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
-ID: /setts/s9/g4w48g4b10ga8g22ga4b24r4-b1c0070-g006818-ga003820-rc80000-we0e0e0/

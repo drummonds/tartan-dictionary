@@ -1,13 +1,13 @@
 ---
-title: "Lagrande (Fashion)"
+title: "Lagrande"
 date: 2023-03-18
 ---
 In pattern [GYGYY](/patterns/gygyy/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5376/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2024
 
 ## Thread count
 G/200 LT8 G4 DY6 LG/12
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/200 LT8 G4 DY6 LG/12 tartan")
 
 ID: /setts/s5/g200y8g4ya6yb12-g285800-ya08858-yabc8c00-ybc4bc68/
+bc68/

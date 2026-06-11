@@ -1,13 +1,13 @@
 ---
-title: "Red Chapeau"
+title: "Red Chapeau (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KYBKBKGKR](/patterns/kybkbkgkr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3476
+Original link http://www.tartansauthority.com/tartan-ferret/display/7212/
 
 ## Thread count
 K/12 Y6 P36 K6 P36 K6 G6 K6 R/54
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/r54k6g6k6b36k6b36y6k12-b780078-g006818-k101010-rc80000-ye8c000/
-e8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Project, Faith Inc (Corporate)"
+title: "Project, Faith Inc"
 date: 2023-03-18
 ---
 In pattern [RYKYKGKYKY](/patterns/rykykgkyky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7800/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5763
 
 ## Thread count
 LG/44 K22 LR20 K4 B4 K4 LR20 K22 LG14 R/4

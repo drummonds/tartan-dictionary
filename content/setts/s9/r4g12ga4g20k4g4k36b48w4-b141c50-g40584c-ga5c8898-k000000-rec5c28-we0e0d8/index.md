@@ -1,13 +1,13 @@
 ---
-title: "St Andrews Golf Club"
+title: "St Andrews Golf Club Corporate Tartan Tartan Number: 10643. Earliest known date: 18/10/2011 The pattern for this tartan was created by the Secretary and Chairman with the assistance of the designers at House of Tartan. The colours are taken from the club's crest. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RGGGKGKBW](/patterns/rgggkgkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10643
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10643
 
 ## Thread count
 LN/4 DB48 K36 N4 K4 N20 B4 N12 O/4
@@ -24,8 +24,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0D8;"><span style="color:#E0E0D8;filter:grayscale(1) invert(1) contrast(100);">#E0E0D8</span></code> `#E0E0D8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | N | <code style="background-color:#40584C;"><span style="color:#40584C;filter:grayscale(1) invert(1) contrast(100);">#40584C</span></code> `#40584C` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.12 |
 | O | <code style="background-color:#EC5C28;"><span style="color:#EC5C28;filter:grayscale(1) invert(1) contrast(100);">#EC5C28</span></code> `#EC5C28` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
-
-ID: /setts/s9/r4g12ga4g20k4g4k36b48w4-b141c50-g40584c-ga5c8898-k000000-rec5c28-we0e0d8/
-:#EC5C28;filter:grayscale(1) invert(1) contrast(100);">#EC5C28</span></code> `#EC5C28` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
 
 ID: /setts/s9/r4g12ga4g20k4g4k36b48w4-b141c50-g40584c-ga5c8898-k000000-rec5c28-we0e0d8/

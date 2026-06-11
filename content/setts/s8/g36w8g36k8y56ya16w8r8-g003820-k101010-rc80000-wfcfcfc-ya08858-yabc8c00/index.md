@@ -1,13 +1,13 @@
 ---
-title: "MacShane (Clan)"
+title: "MacShane"
 date: 2023-03-18
 ---
 In pattern [GWGKYYWR](/patterns/gwgkyywr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3571/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5123
 
 ## Thread count
 DG/36 W8 DG36 K8 LT56 DY16 W8 R/8
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/36 W8 DG36 K8 LT56 DY16 W8 R/8 tartan")
 
 ID: /setts/s8/g36w8g36k8y56ya16w8r8-g003820-k101010-rc80000-wfcfcfc-ya08858-yabc8c00/
+0/

@@ -1,13 +1,13 @@
 ---
-title: "Diana Princess of Wales"
+title: "Diana Princess of Wales (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GRRBRGBRR](/patterns/grrbrgbrr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=931
+Original link http://www.tartansauthority.com/tartan-ferret/display/4683/
 
 ## Thread count
 DG/10 R2 DR8 DB4 DR40 DG24 DB32 DR8 R/2
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#B43C50;"><span style="color:#B43C50;filter:grayscale(1) invert(1) contrast(100);">#B43C50</span></code> `#B43C50` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.08 |
 
 ID: /setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/
-80028/

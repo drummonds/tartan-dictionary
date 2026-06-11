@@ -1,13 +1,13 @@
 ---
-title: "Atholl Highlanders"
+title: "Atholl Highlanders (Military)"
 date: 2023-03-18
 ---
 In pattern [RGKBKR](/patterns/rgkbkr/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5144
+Original link http://www.tartansauthority.com/tartan-ferret/display/3017/
 
 ## Thread count
 DO/16 G40 K40 DB40 K6 DO/16
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DO/16 G40 K40 DB40 K6 DO/16 tartan")
 
 ID: /setts/s6/r16g40k40b40k6r16-b1c0070-g005448-k101010-rd05054/
-05054/

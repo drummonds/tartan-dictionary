@@ -1,13 +1,13 @@
 ---
-title: "Glasgow Garden Festival"
+title: "Glasgow Garden Festival (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RRRBRWYWRWRWBWRBRRRRRW](/patterns/rrrbrwywrwrwbwrbrrrrrw/).
 
 
-This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
+This was sourced from tartans-authority.  It is a [22 stripes tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1357
+Original link http://www.tartansauthority.com/tartan-ferret/display/1631/
 
 ## Thread count
 R/12 N2 R8 DB8 N4 W2 Y2 W2 N2 W4 N2 W2 B2 W2 N3 DB12 R68 N2 R2 N2 R3 W/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s22/r12ra2r8b8ra4w2y2w2ra2w4ra2w2ba2w2ra3b12r68ra2r2ra2r3w4-b2c2c80-ba5c8ca8-rc80000-ra888888-wf8f8f8-ye8c000/
-e8c000/

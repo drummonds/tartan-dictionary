@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KWKBWRY](/patterns/kwkbwry/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6781/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1289
 
 ## Thread count
 K/4 W4 K72 DB80 W4 R4 O/4

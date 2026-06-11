@@ -1,5 +1,5 @@
 ---
-title: "Nisbet"
+title: "MacKintosh 6"
 date: 2023-03-18
 ---
 In pattern [RGKRWR](/patterns/rgkrwr/).
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/6 G32 K24 R56 LN4 R/10 tartan")
 
 ID: /setts/s6/r10w4r56k24g32r6-g008000-k000000-rc00000-we0e0e0/
-e0e0/

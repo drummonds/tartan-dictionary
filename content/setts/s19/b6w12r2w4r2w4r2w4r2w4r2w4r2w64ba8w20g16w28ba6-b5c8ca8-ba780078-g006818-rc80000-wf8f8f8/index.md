@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BWGWBWRWRWRWRWRWRWB](/patterns/bwgwbwrwrwrwrwrwrwb/).
 
 
-This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6381/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3776
 
 ## Thread count
 B/6 W12 R2 W4 R2 W4 R2 W4 R2 W4 R2 W4 R2 W64 P8 W20 G16 W28 P/6

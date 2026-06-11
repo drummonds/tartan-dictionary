@@ -1,13 +1,13 @@
 ---
-title: "Cornell"
+title: "Cornell (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BYBRGRGYGW](/patterns/bybrgrgygw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4959
+Original link http://www.tartansauthority.com/tartan-ferret/display/3859/
 
 ## Thread count
 DB/80 Y4 DB10 R4 G40 R4 G10 Y4 G10 W/100
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
 
 ID: /setts/s10/w100g10y4g10r4g40r4b10y4b80-b2c2c80-g006818-rc80000-wece8cc-yfccc00/
-cc00/

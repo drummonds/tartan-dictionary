@@ -1,13 +1,13 @@
 ---
-title: "Raith Rovers (Sports)"
+title: "Raith Rovers Football Club"
 date: 2023-03-18
 ---
 In pattern [BWBWBRBR](/patterns/bwbwbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2424/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3446
 
 ## Thread count
 DBa/6 LN4 DBb4 LN6 DBa48 R2 DB72 R/2
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DBa/6 LN4 DBb4 LN6 DBa48 R2 DB72 R/2 tartan")
 
 ID: /setts/s8/b6w4ba4w6b48r2bb72r2-b003c64-ba1c0070-bb2c2c80-rc80000-we0e0e0/
-we0e0e0/

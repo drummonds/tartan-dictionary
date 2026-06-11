@@ -205,8 +205,11 @@
   function shadeRowsFor(info) {
     var sup = supplier();
     if (!sup) return null;
+    /* Defensive: a wasm/js skew (or an engine fault) must degrade to a plain palette table,
+     * not kill the whole page boot. */
+    if (typeof window.weaver.shadeWheel !== 'function') return null;
     var rows = window.weaver.shadeWheel(info.slug, sup.id);
-    return rows.error ? null : rows;
+    return (!rows || rows.error) ? null : rows;
   }
 
   /* One jog on the supplier wheel — darker/lighter along the ladder or round the hue ring:

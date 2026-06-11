@@ -1,13 +1,13 @@
 ---
-title: "Racing Stewart"
+title: "Racing Stewart (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BWKWKWKGRW](/patterns/bwkwkwkgrw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3940
+Original link http://www.tartansauthority.com/tartan-ferret/display/2306/
 
 ## Thread count
 DB/108 N6 K10 N2 K4 N2 K4 G16 DR16 N/4
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
 ID: /setts/s10/b108w6k10w2k4w2k4g16r16w4-b1c0070-g006818-k101010-r880000-wc0c0c0/
-c0c0c0/

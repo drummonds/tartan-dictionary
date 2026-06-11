@@ -1,13 +1,13 @@
 ---
-title: "Gaelic College of St.Anns (Corporate"
+title: "Gaelic College of St.Anns"
 date: 2023-03-18
 ---
 In pattern [GRGGWBWBW](/patterns/grggwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4942/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1294
 
 ## Thread count
 G/64 R8 G32 T16 W32 B24 W8 B24 W/32

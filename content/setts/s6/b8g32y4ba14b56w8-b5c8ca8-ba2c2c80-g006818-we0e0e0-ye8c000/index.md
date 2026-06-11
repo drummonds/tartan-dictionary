@@ -1,13 +1,13 @@
 ---
-title: "Allanton"
+title: "Allanton (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGYBBW](/patterns/bgybbw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5397
+Original link http://www.tartansauthority.com/tartan-ferret/display/3032/
 
 ## Thread count
 B/8 G32 Y4 DB14 B56 LN/8
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/8 G32 Y4 DB14 B56 LN/8 tartan")
 
 ID: /setts/s6/b8g32y4ba14b56w8-b5c8ca8-ba2c2c80-g006818-we0e0e0-ye8c000/
-c000/

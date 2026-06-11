@@ -1,13 +1,13 @@
 ---
-title: "McCartney (Evening/Night)"
+title: "McCartney (Evening) (Coporate)"
 date: 2023-03-18
 ---
 In pattern [BGBGBRBYBBW](/patterns/bgbgbrbybbw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2876
+Original link http://www.tartansauthority.com/tartan-ferret/display/2594/
 
 ## Thread count
 DB/8 G4 DB48 G16 B4 R4 B4 Y4 B20 DB4 LN/6

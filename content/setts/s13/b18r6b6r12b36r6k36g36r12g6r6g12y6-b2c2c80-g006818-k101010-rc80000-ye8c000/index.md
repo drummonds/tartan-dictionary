@@ -1,13 +1,13 @@
 ---
-title: "Carnegie (Clan)"
+title: "Carnegie"
 date: 2023-03-18
 ---
 In pattern [BRBRBRKGRGRGY](/patterns/brbrbrkgrgrgy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/489/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=566
 
 ## Thread count
 DB/18 R6 DB6 R12 DB36 R6 K36 G36 R12 G6 R6 G12 Y/6

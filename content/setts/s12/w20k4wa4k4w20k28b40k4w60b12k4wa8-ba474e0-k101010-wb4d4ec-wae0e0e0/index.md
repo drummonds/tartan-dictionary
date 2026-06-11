@@ -1,13 +1,13 @@
 ---
-title: "Faulds (Personal)"
+title: "Faulds"
 date: 2023-03-18
 ---
 In pattern [WKBWKBKWKWKW](/patterns/wkbwkbkwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7162/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1152
 
 ## Thread count
 LB/20 K4 LN4 K4 LB20 K28 P40 K4 LB60 P12 K4 LN/8

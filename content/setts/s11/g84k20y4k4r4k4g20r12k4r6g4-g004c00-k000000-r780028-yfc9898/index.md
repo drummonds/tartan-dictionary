@@ -1,13 +1,13 @@
 ---
-title: "Dryfe"
+title: "Dryfe (Name)"
 date: 2023-03-18
 ---
 In pattern [GKYKRKGRKRG](/patterns/gkykrkgrkrg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=996
+Original link http://www.tartansauthority.com/tartan-ferret/display/4724/
 
 ## Thread count
 G/4 DR6 K4 DR12 G20 K4 DR4 K4 LR4 K20 G/84

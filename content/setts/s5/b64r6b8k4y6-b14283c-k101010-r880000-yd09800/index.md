@@ -1,13 +1,13 @@
 ---
-title: "MacLaine of Lochbuie Htg (Clan)"
+title: "MacLaine of Lochbuie Hunting"
 date: 2023-03-18
 ---
 In pattern [BRBKY](/patterns/brbky/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/491/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2592
 
 ## Thread count
 DN/64 DR6 DN8 K4 DY/6

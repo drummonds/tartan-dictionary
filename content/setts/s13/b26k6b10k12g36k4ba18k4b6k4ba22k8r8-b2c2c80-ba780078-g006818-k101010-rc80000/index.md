@@ -1,13 +1,13 @@
 ---
-title: "Braid (Name)"
+title: "Braid (Estimated threadcount)"
 date: 2023-03-18
 ---
 In pattern [BKBKGKBKBKBKR](/patterns/bkbkgkbkbkbkr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4033/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=337
 
 ## Thread count
 DB/26 K6 DB10 K12 G36 K4 P18 K4 DB6 K4 P22 K8 R/8

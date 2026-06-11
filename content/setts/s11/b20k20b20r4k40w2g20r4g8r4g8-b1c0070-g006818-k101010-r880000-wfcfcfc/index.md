@@ -1,13 +1,13 @@
 ---
-title: "Newman"
+title: "Newman (Personal)"
 date: 2023-03-18
 ---
 In pattern [BKBRKWGRGRG](/patterns/bkbrkwgrgrg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3129
+Original link http://www.tartansauthority.com/tartan-ferret/display/2629/
 
 ## Thread count
 DB/20 K20 DB20 DR4 K40 W2 G20 DR4 G8 DR4 G/8

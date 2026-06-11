@@ -1,13 +1,13 @@
 ---
-title: "Heather MacRae"
+title: "Heather MacRae (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GBBYGBG](/patterns/gbbygbg/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1648
+Original link http://www.tartansauthority.com/tartan-ferret/display/7044/
 
 ## Thread count
 G/4 DR24 DB22 LT12 T12 DR24 G/4

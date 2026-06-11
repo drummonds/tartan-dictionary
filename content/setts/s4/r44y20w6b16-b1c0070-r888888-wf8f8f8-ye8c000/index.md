@@ -1,13 +1,13 @@
 ---
-title: "Louisburg"
+title: "Louisburg (District)"
 date: 2023-03-18
 ---
 In pattern [BWYR](/patterns/bwyr/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2229
+Original link http://www.tartansauthority.com/tartan-ferret/display/5500/
 
 ## Thread count
 DB/16 W6 Y20 N/44

@@ -1,13 +1,13 @@
 ---
-title: "Macallan Distillery (Corporate)"
+title: "Macallan Distillery"
 date: 2023-03-18
 ---
 In pattern [BRBRBYKGRGRG](/patterns/brbrbykgrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5836/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2272
 
 ## Thread count
 B/16 R2 B4 R6 B24 Y2 K24 G24 R6 G4 R2 G/16
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/b16r2b4r6b24y2k24g24r6g4r2g16-b5c8ca8-g006818-k101010-rc80000-ye8c000/
+e8c000/

@@ -1,13 +1,13 @@
 ---
-title: "London Fog Black (Fashion)"
+title: "London Fog Black"
 date: 2023-03-18
 ---
 In pattern [BKYWYK](/patterns/bkywyk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7269/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2197
 
 ## Thread count
 B/4 K100 N8 LN10 N4 K/20
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/4 K100 N8 LN10 N4 K/20 tartan")
 
 ID: /setts/s6/k20y4w10y8k100b4-b1474b4-k101010-we0e0e0-yb8b8b8/
+b8b8/

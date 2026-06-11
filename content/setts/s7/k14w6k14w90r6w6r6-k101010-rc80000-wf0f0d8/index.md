@@ -1,13 +1,13 @@
 ---
-title: "White Stripes, The"
+title: "White Stripes (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KWKWRWR](/patterns/kwkwrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5507
+Original link http://www.tartansauthority.com/tartan-ferret/display/7461/
 
 ## Thread count
 K/14 LY6 K14 LY90 R6 LY6 R/6
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/14 LY6 K14 LY90 R6 LY6 R/6 tartan")
 
 ID: /setts/s7/k14w6k14w90r6w6r6-k101010-rc80000-wf0f0d8/
-8/

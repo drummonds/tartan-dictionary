@@ -1,13 +1,13 @@
 ---
-title: "Michigan State University American Corporate Tartan Tartan Number: 6776. Earliest known date: 2005 Designed to celebrate and commemorate the 150th Anniversary of the founding of Michigan State University. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Michigan State University (Corporate"
 date: 2023-03-18
 ---
 In pattern [GWRGWGK](/patterns/gwrgwgk/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6776
+Original link http://www.tartansauthority.com/tartan-ferret/display/6776/
 
 ## Thread count
 G/18 W55 N19 G20 W2 G20 K/5

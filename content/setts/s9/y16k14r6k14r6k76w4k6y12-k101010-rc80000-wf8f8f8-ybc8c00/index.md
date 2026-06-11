@@ -1,13 +1,13 @@
 ---
-title: "Bunnahabhain (Corporate)"
+title: "Bunnahabhain"
 date: 2023-03-18
 ---
 In pattern [YKRKRKWKY](/patterns/ykrkrkwky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6685/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=439
 
 ## Thread count
 DY/16 K14 R6 K14 R6 K76 W4 K6 DY/12

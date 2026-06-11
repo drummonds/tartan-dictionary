@@ -1,13 +1,13 @@
 ---
-title: "Crombie House Check (Corporate)"
+title: "Crombie House Check"
 date: 2023-03-18
 ---
 In pattern [GBGBWK](/patterns/gbgbwk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2302/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=809
 
 ## Thread count
 G/4 DB36 G12 DB4 N20 K/6

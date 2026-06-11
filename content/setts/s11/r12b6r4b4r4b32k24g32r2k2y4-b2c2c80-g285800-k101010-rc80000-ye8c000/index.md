@@ -1,13 +1,13 @@
 ---
-title: "MacLennan (Clan)"
+title: "MacLennan"
 date: 2023-03-18
 ---
 In pattern [RBRBRBKGRKY](/patterns/rbrbrbkgrky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1429/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625
 
 ## Thread count
 R/12 DB6 R4 DB4 R4 DB32 K24 G32 R2 K2 Y/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g285800-k101010-rc80000-ye8c000/
+0/

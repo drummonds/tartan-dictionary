@@ -1,13 +1,13 @@
 ---
-title: "Duchess of Kent (Fashion)"
+title: "Duchess of Kent"
 date: 2023-03-18
 ---
 In pattern [RWKRKRKRKRKW](/patterns/rwkrkrkrkrkw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1368/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1004
 
 ## Thread count
 R/8 LB80 K12 R8 K8 R12 K8 R12 K8 R12 K8 W/8

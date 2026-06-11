@@ -1,13 +1,13 @@
 ---
-title: "NSW Scottish Rifles (Military)"
+title: "Murray #2"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKBKB](/patterns/bkbkbkgrgkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/226/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R8 G24 K24 DB24 K4 DB/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s13/b24k4b4k4b4k24g24r8g24k24b24k4b8-b2c2c80-g006818-k101010-rc80000/
+101010-rc80000/

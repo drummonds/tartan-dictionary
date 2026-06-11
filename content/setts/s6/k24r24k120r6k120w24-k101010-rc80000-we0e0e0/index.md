@@ -1,13 +1,13 @@
 ---
-title: "Lanoir (Fashion)"
+title: "Lanoir"
 date: 2023-03-18
 ---
 In pattern [KRKRKW](/patterns/krkrkw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5385/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047
 
 ## Thread count
 K/24 R24 K120 R6 K120 LN/24

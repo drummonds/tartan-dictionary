@@ -1,13 +1,13 @@
 ---
-title: "Shiel Purple V2"
+title: "Shiel Lavender Fashion Tartan Tartan Number: 7584. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [WGBBWGW](/patterns/wgbbwgw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5608
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7584
 
 ## Thread count
 LP/4 G4 W60 B48 DP20 G10 W/16

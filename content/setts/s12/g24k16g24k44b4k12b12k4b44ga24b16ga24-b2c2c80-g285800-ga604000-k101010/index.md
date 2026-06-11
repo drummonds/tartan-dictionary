@@ -1,13 +1,13 @@
 ---
-title: "Lysaght Hunting"
+title: "Lysaght Htg (Clan)"
 date: 2023-03-18
 ---
 In pattern [GBGBKBKBKGKG](/patterns/gbgbkbkbkgkg/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2261
+Original link http://www.tartansauthority.com/tartan-ferret/display/6592/
 
 ## Thread count
 G/24 K16 G24 K44 DB4 K12 DB12 K4 DB44 T24 DB16 T/24

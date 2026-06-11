@@ -1,13 +1,13 @@
 ---
-title: "Exabyte Corporate Tartan Tartan Number: 2286. Earliest known date: pre 2002 Exabyte is an American software firm based in Larbert, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Exabyte"
 date: 2023-03-18
 ---
 In pattern [RBBGW](/patterns/rbbgw/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2286
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142
 
 ## Thread count
 DR/6 Na68 DB8 G94 N/6

@@ -1,13 +1,13 @@
 ---
-title: "Abbotsford Commemorative Tartan Tartan Number: 826. Earliest known date: 1971 Designed for the Sir Walter Scott Bi-centenary in 1971 by Alistair Buchan, Lochcarron of Scotland, for the centenary committee. The tartan was approved by Patricia Maxwell Scott. The design features a black and white check taken from the Border Shepherd's Plaid. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Abbotsford Check"
 date: 2023-03-18
 ---
 In pattern [GKWKYBKWKWKWKWKWKGRGWGK](/patterns/gkwkybkwkwkwkwkwkgrgwgk/).
 
 
-This was sourced from house-of-tartan.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=826
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=9
 
 ## Thread count
 G/10 K4 LN6 K6 Y4 DB8 K6 LN6 K6 LN6 K6 LN6 K6 LN6 K6 LN6 K6 G8 R6 G6 LN4 G4 K/10

@@ -1,13 +1,13 @@
 ---
-title: "Cunningham Dress (Dance)"
+title: "Cunningham Dress"
 date: 2023-03-18
 ---
 In pattern [BRKRWRW](/patterns/brkrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/563/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846
 
 ## Thread count
 DB/8 R4 K4 R68 W68 R4 W/10
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 R4 K4 R68 W68 R4 W/10 tartan")
 
 ID: /setts/s7/w10r4w68r68k4r4b8-b1c0070-k101010-rc80000-wf8f8f8/
+f8/

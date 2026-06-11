@@ -1,13 +1,13 @@
 ---
-title: "MacDougall - 2005 (Lochcarron)"
+title: "MacDougall (Lochcarron)"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGWRWGRGRGRWRW](/patterns/wrgrgrgwrwgrgrgrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6634/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2404
 
 ## Thread count
 LN/12 R4 G32 R6 G4 R6 G12 LN4 R4 LN4 G12 R14 G12 R4 G4 R32 LN4 R4 LN/4

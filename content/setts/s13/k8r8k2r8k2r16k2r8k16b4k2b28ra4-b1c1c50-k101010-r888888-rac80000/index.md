@@ -1,13 +1,13 @@
 ---
-title: "Fowler"
+title: "Fowler (Name)"
 date: 2023-03-18
 ---
 In pattern [KRKRKRKRKBKBR](/patterns/krkrkrkrkbkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5728
+Original link http://www.tartansauthority.com/tartan-ferret/display/7747/
 
 ## Thread count
 K/8 N8 K2 N8 K2 N16 K2 N8 K16 DB4 K2 DB28 R/4

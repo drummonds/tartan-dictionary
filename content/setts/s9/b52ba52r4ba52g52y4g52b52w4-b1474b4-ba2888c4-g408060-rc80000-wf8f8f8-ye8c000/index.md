@@ -1,13 +1,13 @@
 ---
-title: "Royal Columbian"
+title: "Royal Columbian (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BBRBGYGBW](/patterns/bbrbgygbw/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3599
+Original link http://www.tartansauthority.com/tartan-ferret/display/1900/
 
 ## Thread count
 B/52 Ba52 R4 Ba52 G52 Y4 G52 B52 W/4
@@ -26,4 +26,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b52ba52r4ba52g52y4g52b52w4-b1474b4-ba2888c4-g408060-rc80000-wf8f8f8-ye8c000/
-c000/

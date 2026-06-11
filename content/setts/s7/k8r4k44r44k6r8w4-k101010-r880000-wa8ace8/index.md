@@ -1,13 +1,13 @@
 ---
-title: "Menzies of Culdares"
+title: "Menzies of Culdares (Artefact)"
 date: 2023-03-18
 ---
 In pattern [KRKRKRW](/patterns/krkrkrw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5223
+Original link http://www.tartansauthority.com/tartan-ferret/display/3467/
 
 ## Thread count
 K/8 DR4 K44 DR44 K6 DR8 LP/4

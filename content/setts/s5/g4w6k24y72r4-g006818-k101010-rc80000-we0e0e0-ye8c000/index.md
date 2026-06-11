@@ -1,13 +1,13 @@
 ---
-title: "Port Moresby City (P&D)"
+title: "Port Moresby City Pipes & Drums"
 date: 2023-03-18
 ---
 In pattern [GWKYR](/patterns/gwkyr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7236/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5361
 
 ## Thread count
 G/4 LN6 K24 Y72 R/4
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/4 LN6 K24 Y72 R/4 tartan")
 
 ID: /setts/s5/g4w6k24y72r4-g006818-k101010-rc80000-we0e0e0-ye8c000/
-e0-ye8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Raymond of Doune (Corporate)"
+title: "Raymond of Doune"
 date: 2023-03-18
 ---
 In pattern [RBWBWYGR](/patterns/rbwbwygr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5437/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3469
 
 ## Thread count
 DR/8 DG20 DY2 N2 DN8 N2 DN50 DR/4
@@ -29,3 +29,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/8 DG20 DY2 N2 DN8 N2 DN50 DR/4 tartan")
 
 ID: /setts/s8/r8g20y2w2b8w2b50r4-b14283c-g003820-r880000-wc0c0c0-yd09800/
+d09800/

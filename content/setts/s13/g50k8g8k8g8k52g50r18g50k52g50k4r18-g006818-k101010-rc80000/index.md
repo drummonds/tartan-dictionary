@@ -1,13 +1,13 @@
 ---
-title: "Moncrieffe (1998)"
+title: "Moncrieffe Atholl (1998) (Clan)"
 date: 2023-03-18
 ---
 In pattern [GKGKGKGRGKGKR](/patterns/gkgkgkgrgkgkr/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982
+Original link http://www.tartansauthority.com/tartan-ferret/display/2517/
 
 ## Thread count
 G/50 K8 G8 K8 G8 K52 G50 R18 G50 K52 G50 K4 R/18

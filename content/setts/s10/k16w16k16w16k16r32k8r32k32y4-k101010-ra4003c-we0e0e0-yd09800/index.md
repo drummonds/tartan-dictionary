@@ -1,13 +1,13 @@
 ---
-title: "Little of Morton Rigg"
+title: "Little of Morton Rigg (Clan)"
 date: 2023-03-18
 ---
 In pattern [KWKWKRKRKY](/patterns/kwkwkrkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127
+Original link http://www.tartansauthority.com/tartan-ferret/display/2349/
 
 ## Thread count
 DY/4 K32 R32 K8 R32 K16 LN16 K16 LN16 K/16

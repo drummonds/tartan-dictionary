@@ -1,13 +1,13 @@
 ---
-title: "New World Celts (Corporate)"
+title: "New World Celts"
 date: 2023-03-18
 ---
 In pattern [BKWKRKRGYKWBK](/patterns/bkwkrkrgykwbk/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7636/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5651
 
 ## Thread count
 B/10 K4 LN8 K2 R8 K4 R6 DG8 Y4 K4 LN4 B4 K/150
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/k150b4w4k4y4g8r6k4r8k2w8k4b10-b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/
+e8c000/

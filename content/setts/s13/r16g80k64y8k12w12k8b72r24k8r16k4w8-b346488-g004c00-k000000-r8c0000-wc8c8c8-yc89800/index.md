@@ -1,13 +1,13 @@
 ---
-title: "Tilley, Sir Samuel Leonard (Comm)"
+title: "Tilley, Sir Samuel Leonard"
 date: 2023-03-18
 ---
 In pattern [RGKYKWKBRKRKW](/patterns/rgkykwkbrkrkw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5126/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4126
 
 ## Thread count
 DR/16 G80 K64 DY8 K12 N12 K8 B72 DR24 K8 DR16 K4 N/8
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
 ID: /setts/s13/r16g80k64y8k12w12k8b72r24k8r16k4w8-b346488-g004c00-k000000-r8c0000-wc8c8c8-yc89800/
+0/

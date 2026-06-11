@@ -1,13 +1,13 @@
 ---
-title: "Mary Stewart, Queen of Scots (Fash)"
+title: "Mary Stewart, Queen of Scots"
 date: 2023-03-18
 ---
 In pattern [RBKWKYKGRKRKW](/patterns/rbkwkykgrkrkw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7033/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2844
 
 ## Thread count
 LN/4 K2 LR6 K4 R12 G16 K4 Y4 K4 LN8 K10 DB10 LR/50

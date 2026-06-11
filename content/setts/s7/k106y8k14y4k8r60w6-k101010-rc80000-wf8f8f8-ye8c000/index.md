@@ -1,13 +1,13 @@
 ---
-title: "Partick Thistle Football Club"
+title: "Partick Thistle F.C. (Sports)"
 date: 2023-03-18
 ---
 In pattern [KYKYKRW](/patterns/kykykrw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3298
+Original link http://www.tartansauthority.com/tartan-ferret/display/6401/
 
 ## Thread count
 K/106 Y8 K14 Y4 K8 R60 W/6
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/106 Y8 K14 Y4 K8 R60 W/6 tartan")
 
 ID: /setts/s7/k106y8k14y4k8r60w6-k101010-rc80000-wf8f8f8-ye8c000/
+00/

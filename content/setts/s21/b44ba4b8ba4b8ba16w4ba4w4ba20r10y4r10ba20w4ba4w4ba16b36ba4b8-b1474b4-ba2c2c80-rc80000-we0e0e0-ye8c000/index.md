@@ -1,13 +1,13 @@
 ---
-title: "Tartan Army"
+title: "Tartan Army (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBBBBBWBWBRYRBWBWBBBB](/patterns/bbbbbbwbwbryrbwbwbbbb/).
 
 
-This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073
+Original link http://www.tartansauthority.com/tartan-ferret/display/2389/
 
 ## Thread count
 B/44 DB4 B8 DB4 B8 DB16 LN4 DB4 LN4 DB20 R10 Y4 R10 DB20 LN4 DB4 LN4 DB16 B36 DB4 B/8
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s21/b44ba4b8ba4b8ba16w4ba4w4ba20r10y4r10ba20w4ba4w4ba16b36ba4b8-b1474b4-ba2c2c80-rc80000-we0e0e0-ye8c000/
-e8c000/

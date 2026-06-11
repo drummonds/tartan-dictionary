@@ -1,13 +1,13 @@
 ---
-title: "Manx Heritage (Corporate)"
+title: "Manx Heritage"
 date: 2023-03-18
 ---
 In pattern [BRBRGRGRBRGRGR](/patterns/brbrgrgrbrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2679/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2816
 
 ## Thread count
 B/6 R6 B4 R6 G4 R4 G4 R34 DB20 R4 G4 R4 G38 N/6

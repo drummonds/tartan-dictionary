@@ -1,5 +1,5 @@
 ---
-title: "Robert Dewar Personal Tartan Tartan Number: 9000. Earliest known date: 2009 Designed by Neil Dewar for his wedding in July 2009. Three kilt were ordered. The tartan was based on the Dewar Highlander corporate tartan which is often taken to be the clan tartan. This pattern puts the yellow stripe back on the green in a traditional format. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Robert Dewar Name Tartan Tartan Number: 10006. Earliest known date: 2009 Designed by Neil Dewar for his wedding in July 2009. Three kilt were ordered. The tartan was based on the Dewar Highlander corporate tartan which is often taken to be the clan tartan. This pattern puts the yellow stripe back on the green in a traditional format. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GBKBGYGBK](/patterns/gbkbgygbk/).
@@ -7,7 +7,7 @@ In pattern [GBKBGYGBK](/patterns/gbkbgygbk/).
 
 This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9000
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10006
 
 ## Thread count
 DG/30 DB16 K10 DB16 DG30 Y6 DG30 DB16 K/10

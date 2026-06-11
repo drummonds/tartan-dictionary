@@ -7,7 +7,7 @@ In pattern [GBGKBK](/patterns/gbgkbk/).
 
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 ## Thread count
 DG/32 B4 DG2 K24 DB24 K/2
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/32 B4 DG2 K24 DB24 K/2 tartan")
 
 ID: /setts/s6/g32b4g2k24ba24k2-b4367ae-ba000052-g11450d-k000000/
+000/

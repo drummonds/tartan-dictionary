@@ -1,13 +1,13 @@
 ---
-title: "Milne of Corstorphine (Personal)"
+title: "Milne of Corstorphine #2 (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGBGBKYGRGYKBG](/patterns/bgbgbkygrgykbg/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6895/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2955
 
 ## Thread count
 DB/44 G2 DB4 G2 DB8 K32 DY2 G32 R4 G32 DY2 K32 DB32 G/2

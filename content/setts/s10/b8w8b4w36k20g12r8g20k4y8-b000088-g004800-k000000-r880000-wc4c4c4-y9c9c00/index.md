@@ -1,13 +1,13 @@
 ---
-title: "Firth of Tay (Fashion)"
+title: "Firth of Tay"
 date: 2023-03-18
 ---
 In pattern [BWBWKGRGKY](/patterns/bwbwkgrgky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4862/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1192
 
 ## Thread count
 DB/8 N8 DB4 N36 K20 G12 DR8 G20 K4 LG/8

@@ -1,13 +1,13 @@
 ---
-title: "Bryce (Clan)"
+title: "Bryce"
 date: 2023-03-18
 ---
 In pattern [RBRY](/patterns/rbry/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1537/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408
 
 ## Thread count
 DR/10 N70 DR92 DY/10
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/10 N70 DR92 DY/10 tartan")
 
 ID: /setts/s4/r10b70r92y10-b684038-r880000-ya88000/
+00/

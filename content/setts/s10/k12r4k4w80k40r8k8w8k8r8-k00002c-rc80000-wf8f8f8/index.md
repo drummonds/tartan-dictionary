@@ -1,13 +1,13 @@
 ---
-title: "Buckleigh Dress (Fashion)"
+title: "Buckleigh Dress"
 date: 2023-03-18
 ---
 In pattern [KRKWKRKWKR](/patterns/krkwkrkwkr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3761/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5002
 
 ## Thread count
 DB/12 R4 DB4 W80 DB40 R8 DB8 W8 DB8 R/8

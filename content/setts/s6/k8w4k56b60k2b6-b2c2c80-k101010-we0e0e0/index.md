@@ -1,5 +1,5 @@
 ---
-title: "Ramsay Blue Clan Tartan Tartan Number: 259. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Ramsay Blue New Blue Clan Tartan Tartan Number: 25999. Earliest known date: This is a copy of the Ramsay Blue saved without changes, only suppose to suggest the brighter Ramsay New Blue polyvis tartan fabric for customers. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [BKBKWK](/patterns/bkbkwk/).
@@ -7,7 +7,7 @@ In pattern [BKBKWK](/patterns/bkbkwk/).
 
 This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=259
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=25999
 
 ## Thread count
 DB/6 K2 DB60 K56 LN4 K/8
@@ -25,5 +25,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 # Sample pattern
 
 ![Tartan detail](tartan.png "DB/6 K2 DB60 K56 LN4 K/8 tartan")
+
+ID: /setts/s6/k8w4k56b60k2b6-b2c2c80-k101010-we0e0e0/
+g "DB/6 K2 DB60 K56 LN4 K/8 tartan")
 
 ID: /setts/s6/k8w4k56b60k2b6-b2c2c80-k101010-we0e0e0/

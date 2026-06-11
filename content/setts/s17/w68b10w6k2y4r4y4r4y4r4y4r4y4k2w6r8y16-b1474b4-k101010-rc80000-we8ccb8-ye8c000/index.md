@@ -1,13 +1,13 @@
 ---
-title: "Espana"
+title: "Espana (District)"
 date: 2023-03-18
 ---
 In pattern [WBWKYRYRYRYRYKWRY](/patterns/wbwkyryryryrykwry/).
 
 
-This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1130
+Original link http://www.tartansauthority.com/tartan-ferret/display/4824/
 
 ## Thread count
 LR/68 B10 LR6 K2 Y4 R4 Y4 R4 Y4 R4 Y4 R4 Y4 K2 LR6 R8 Y/16
@@ -25,4 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s17/w68b10w6k2y4r4y4r4y4r4y4r4y4k2w6r8y16-b1474b4-k101010-rc80000-we8ccb8-ye8c000/
-8c000/

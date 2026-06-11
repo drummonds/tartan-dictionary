@@ -1,13 +1,13 @@
 ---
-title: "Dunedin (NZ)"
+title: "Dunedin (NZ) (District)"
 date: 2023-03-18
 ---
 In pattern [GWGKRKYY](/patterns/gwgkrkyy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1041
+Original link http://www.tartansauthority.com/tartan-ferret/display/2114/
 
 ## Thread count
 B/8 W8 B32 K8 R8 K8 LG32 Y/8
@@ -30,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/8 W8 B32 K8 R8 K8 LG32 Y/8 tartan")
 
 ID: /setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/
-8c000/

@@ -1,13 +1,13 @@
 ---
-title: "Ramsay, Red (Clan)"
+title: "Ramsay (Red)"
 date: 2023-03-18
 ---
 In pattern [KWKRBR](/patterns/kwkrbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1238/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3453
 
 ## Thread count
 K/8 W2 K56 R60 DP2 R/6

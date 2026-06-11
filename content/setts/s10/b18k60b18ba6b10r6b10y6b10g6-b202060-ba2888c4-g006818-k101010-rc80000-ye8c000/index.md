@@ -1,13 +1,13 @@
 ---
-title: "Fed. of Circles & Solitaries (Corp.)"
+title: "Fed. of Circles & Solitaries"
 date: 2023-03-18
 ---
 In pattern [BKBBBRBYBG](/patterns/bkbbbrbybg/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6696/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5351
 
 ## Thread count
 DB/18 K60 DB18 B6 DB10 R6 DB10 Y6 DB10 G/6

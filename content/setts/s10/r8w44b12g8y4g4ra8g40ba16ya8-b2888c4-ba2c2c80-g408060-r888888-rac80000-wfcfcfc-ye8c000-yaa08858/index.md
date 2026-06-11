@@ -1,13 +1,13 @@
 ---
-title: "Lanark Highlands"
+title: "Lanark Highlands (District)"
 date: 2023-03-18
 ---
 In pattern [RWBGYGRGBY](/patterns/rwbgygrgby/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2038
+Original link http://www.tartansauthority.com/tartan-ferret/display/2637/
 
 ## Thread count
 LT/8 DB16 G40 R8 G4 Y4 G8 B12 W44 N/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/r8w44b12g8y4g4ra8g40ba16ya8-b2888c4-ba2c2c80-g408060-r888888-rac80000-wfcfcfc-ye8c000-yaa08858/
-08858/

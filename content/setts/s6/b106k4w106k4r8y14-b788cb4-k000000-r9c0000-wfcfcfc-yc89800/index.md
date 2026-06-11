@@ -1,13 +1,13 @@
 ---
-title: "Galicia"
+title: "Galicia (District)"
 date: 2023-03-18
 ---
 In pattern [BKWKRY](/patterns/bkwkry/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1298
+Original link http://www.tartansauthority.com/tartan-ferret/display/4946/
 
 ## Thread count
 B/106 K4 W106 K4 DR8 DY/14
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/106 K4 W106 K4 DR8 DY/14 tartan")
 
 ID: /setts/s6/b106k4w106k4r8y14-b788cb4-k000000-r9c0000-wfcfcfc-yc89800/
-89800/

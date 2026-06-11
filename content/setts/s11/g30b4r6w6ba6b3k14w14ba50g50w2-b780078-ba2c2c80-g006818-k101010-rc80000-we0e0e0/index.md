@@ -1,13 +1,13 @@
 ---
-title: "Brehat (Personal)"
+title: "Brehat Personal Tartan Tartan Number: 7245. Earliest known date: 2006 Renaud Brehat designed this tartan to wear as a kilt to the wedding of his parents. He added these words,\"Hearth and sea is where we came from, Briton first, French colours embraced by Scottish colours remembered auld alliance.\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GBRWBBKWBGW](/patterns/gbrwbbkwbgw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7245/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7245
 
 ## Thread count
 G/30 P4 R6 LN6 DB6 P3 K14 LN14 DB50 G50 LN/2

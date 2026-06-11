@@ -1,13 +1,13 @@
 ---
-title: "Aiton/Ayton"
+title: "AIton - 1979 (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKGKBKGR](/patterns/bkgkbkgr/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=31
+Original link http://www.tartansauthority.com/tartan-ferret/display/328/
 
 ## Thread count
 DB/12 K2 G6 K2 DB6 K2 G20 R/6
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/12 K2 G6 K2 DB6 K2 G20 R/6 tartan")
 
 ID: /setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/
-000/

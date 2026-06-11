@@ -1,13 +1,13 @@
 ---
-title: "Glen Clova #1 (Fashion)"
+title: "Glen Clova #1"
 date: 2023-03-18
 ---
 In pattern [BBKRKWKBBKB](/patterns/bbkrkwkbbkb/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4484/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1370
 
 ## Thread count
 N/76 DR8 K12 LT4 K4 LN4 K4 DR24 N12 K4 N/24
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 
 ID: /setts/s11/b76ba8k12r4k4w4k4ba24b12k4b24-b5c5c5c-ba441800-k101010-ra07c58-we0e0e0/
+e0e0/

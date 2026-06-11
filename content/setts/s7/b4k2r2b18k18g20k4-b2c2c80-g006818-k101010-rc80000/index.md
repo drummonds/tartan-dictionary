@@ -1,13 +1,13 @@
 ---
-title: "Reid & Taylor (Corporate)"
+title: "Reid and Taylor"
 date: 2023-03-18
 ---
 In pattern [BKRBKGK](/patterns/bkrbkgk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/355/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493
 
 ## Thread count
 DB/4 K2 R2 DB18 K18 G20 K/4
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 K2 R2 DB18 K18 G20 K/4 tartan")
 
 ID: /setts/s7/b4k2r2b18k18g20k4-b2c2c80-g006818-k101010-rc80000/
+000/

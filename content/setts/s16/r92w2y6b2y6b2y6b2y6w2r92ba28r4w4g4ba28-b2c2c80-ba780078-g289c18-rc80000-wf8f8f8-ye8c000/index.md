@@ -1,13 +1,13 @@
 ---
-title: "Firenze ~ Florence"
+title: "Firenze ~ Florence (District)"
 date: 2023-03-18
 ---
 In pattern [BGWRBRWYBYBYBYWR](/patterns/bgwrbrwybybybywr/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1190
+Original link http://www.tartansauthority.com/tartan-ferret/display/6756/
 
 ## Thread count
 P/28 G4 W4 R4 P28 R92 W2 Y6 DB2 Y6 DB2 Y6 DB2 Y6 W2 R/92

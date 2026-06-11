@@ -1,13 +1,13 @@
 ---
-title: "Westwood Metropolitan 1 (Fashion)"
+title: "Westwood Metropolitan 1"
 date: 2023-03-18
 ---
 In pattern [BKYGYKYKYKYKYKYKYKBKBKBKRYRKG](/patterns/bkygykykykykykykykbkbkbkryrkg/).
 
 
-This was sourced from tartans-authority.  It is a [29 stripes tartan](/stripes/stripes29/).
+This was sourced from register-of-tartans.  It is a [29 stripes tartan](/stripes/stripes29/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7500/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5540
 
 ## Thread count
 DB/196 K196 Y2 G20 Y2 K22 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K2 Y2 K22 DB2 K2 DB20 K2 DB2 K2 LR14 Y2 LR20 K20 G/4

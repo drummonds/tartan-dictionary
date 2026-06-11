@@ -1,13 +1,13 @@
 ---
-title: "Wrens Corporate Tartan Tartan Number: 2345. Earliest known date: 1995 Popularly known as the Wrens. Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Wrens (WRNS)"
 date: 2023-03-18
 ---
 In pattern [WYWBWBKRWRKBWBWY](/patterns/wywbwbkrwrkbwbwy/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2345
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4785
 
 ## Thread count
 LB/32 Ya6 LB18 Ba28 LB2 Ba16 K64 DR2 W8 DR2 K64 Ba16 LB2 Ba28 LB18 Ya/6

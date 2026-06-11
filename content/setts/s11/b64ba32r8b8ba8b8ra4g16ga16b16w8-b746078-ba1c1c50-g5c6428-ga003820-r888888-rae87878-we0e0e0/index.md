@@ -1,13 +1,13 @@
 ---
-title: "Scottish Highlands & Islands Film Company"
+title: "Scottish H & I Film Com (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBRBBBRGGBW](/patterns/bbrbbbrggbw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5579
+Original link http://www.tartansauthority.com/tartan-ferret/display/7547/
 
 ## Thread count
 LN/8 N16 DG16 G16 LR4 N8 DB8 N8 Na8 DB32 N/64

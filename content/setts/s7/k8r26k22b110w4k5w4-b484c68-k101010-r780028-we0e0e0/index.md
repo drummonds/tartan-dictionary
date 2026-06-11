@@ -1,13 +1,13 @@
 ---
-title: "University of Edinburgh (Corporate)"
+title: "University of Edinburgh Corporate Tartan Tartan Number: 7516. Earliest known date: 2008 Woven scarf sample from Lochcarron but this had been previously woven by another company. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [KRKBWKW](/patterns/krkbwkw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7516/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7516
 
 ## Thread count
 K/8 DR26 K22 N110 LN4 K5 LN/4

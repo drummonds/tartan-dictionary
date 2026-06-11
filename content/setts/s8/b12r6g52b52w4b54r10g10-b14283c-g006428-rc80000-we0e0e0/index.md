@@ -1,13 +1,13 @@
 ---
-title: "MacHardy (Clan)"
+title: "MacHardy Black"
 date: 2023-03-18
 ---
 In pattern [BRGBWBRG](/patterns/brgbwbrg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/514/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2468
 
 ## Thread count
 DN/12 R6 G52 DN52 LN4 DN54 R10 G/10

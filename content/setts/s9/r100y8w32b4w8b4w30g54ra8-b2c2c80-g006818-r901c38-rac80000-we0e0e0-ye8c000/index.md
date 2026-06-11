@@ -1,13 +1,13 @@
 ---
-title: "Rosevear (Clan)"
+title: "Rosevear Family/Clan Tartan Tartan Number: 2541. Earliest known date: 1990 A familyl tartan designed by House of Edgar Woollens Ltd. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [RGWBWBWYR](/patterns/rgwbwbwyr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2541/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2541
 
 ## Thread count
 DR/100 Y8 LN32 DB4 LN8 DB4 LN30 G54 R/8

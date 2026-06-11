@@ -1,13 +1,13 @@
 ---
-title: "Brooke (Name)"
+title: "Brooke"
 date: 2023-03-18
 ---
 In pattern [BWBKGKRWY](/patterns/bwbkgkrwy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/48/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=380
 
 ## Thread count
 B/4 LP2 B4 K32 G40 K28 DR4 W4 Y/4

@@ -1,13 +1,13 @@
 ---
-title: "Motherwell Football Club 1991 (Sport"
+title: "Motherwell Football Club 1991"
 date: 2023-03-18
 ---
 In pattern [RYRKRKRRKW](/patterns/ryrkrkrrkw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7013/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3026
 
 ## Thread count
 DR/12 Y2 DR12 K6 DR24 K30 LR2 DR60 K2 LN/4

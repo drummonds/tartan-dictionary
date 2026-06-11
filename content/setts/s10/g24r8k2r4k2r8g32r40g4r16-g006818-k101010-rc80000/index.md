@@ -1,13 +1,13 @@
 ---
-title: "Livingstone (Clan)"
+title: "Livingstone Clan Tartan Tartan Number: 1003. Earliest known date: pre 2003 Robert Bain's \"The Clans and Tartans of Scotland\" illustrates this sett. It is similar to the MacDonell of Keppoch. The small Highland clan of Livingston from the Isle of Lismore and Western Argyll originally bore a Gaelic name spelled in different ways - MacDunsleinhe, Mac-an-Leigh, or Maclea - and they were connected to the Stewarts of Appin. There is also an unconnected Lowland family deriving their name from the lands of Levingstoun. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GRKRKRGRGR](/patterns/grkrkrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1003/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1003
 
 ## Thread count
 G/24 R8 K2 R4 K2 R8 G32 R40 G4 R/16

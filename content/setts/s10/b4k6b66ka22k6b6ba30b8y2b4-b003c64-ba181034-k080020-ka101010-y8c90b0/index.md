@@ -25,6 +25,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Ka | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s10/b4k6b66ka22k6b6ba30b8y2b4-b003c64-ba181034-k080020-ka101010-y8c90b0/
-ert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
-
-ID: /setts/s10/b4k6b66ka22k6b6ba30b8y2b4-b003c64-ba181034-k080020-ka101010-y8c90b0/

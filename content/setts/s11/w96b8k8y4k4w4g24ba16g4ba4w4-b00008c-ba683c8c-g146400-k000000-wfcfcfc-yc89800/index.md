@@ -1,13 +1,13 @@
 ---
-title: "Pritchard"
+title: "Pritchard (Name)"
 date: 2023-03-18
 ---
 In pattern [WBGBGWKYKBW](/patterns/wbgbgwkykbw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3414
+Original link http://www.tartansauthority.com/tartan-ferret/display/4172/
 
 ## Thread count
 W/96 DB8 K8 DY4 K4 W4 G24 N16 G4 N4 W/4

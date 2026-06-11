@@ -1,13 +1,13 @@
 ---
-title: "Drambuie Hunting"
+title: "Drambuie Htg (Corporate)"
 date: 2023-03-18
 ---
 In pattern [YGKRKY](/patterns/ygkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=974
+Original link http://www.tartansauthority.com/tartan-ferret/display/2475/
 
 ## Thread count
 DY/6 K5 R4 K48 T36 LT/6
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/6 K5 R4 K48 T36 LT/6 tartan")
 
 ID: /setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/
-c00/

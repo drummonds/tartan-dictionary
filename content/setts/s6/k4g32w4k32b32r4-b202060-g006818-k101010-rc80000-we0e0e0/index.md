@@ -1,13 +1,13 @@
 ---
-title: "Leslie Htg - 1850 (Clan)"
+title: "Leslie Hunting"
 date: 2023-03-18
 ---
 In pattern [KGWKBR](/patterns/kgwkbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1113/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2103
 
 ## Thread count
 K/4 G32 LN4 K32 DB32 R/4

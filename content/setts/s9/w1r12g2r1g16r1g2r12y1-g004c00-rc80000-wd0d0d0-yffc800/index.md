@@ -1,5 +1,5 @@
 ---
-title: "MacPhie"
+title: "MacFie"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRY](/patterns/wrgrgrgry/).

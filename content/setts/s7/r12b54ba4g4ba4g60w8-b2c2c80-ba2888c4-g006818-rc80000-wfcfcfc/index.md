@@ -1,13 +1,13 @@
 ---
-title: "MX-5 Owners' Club"
+title: "MX-5 Owners' Club (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBBGBGW](/patterns/rbbgbgw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5070
+Original link http://www.tartansauthority.com/tartan-ferret/display/6208/
 
 ## Thread count
 R/12 DB54 B4 G4 B4 G60 W/8

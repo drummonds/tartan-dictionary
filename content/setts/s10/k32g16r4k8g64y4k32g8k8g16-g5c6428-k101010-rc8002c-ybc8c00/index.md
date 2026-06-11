@@ -1,13 +1,13 @@
 ---
-title: "Manitoba Cue (Corporate)"
+title: "Manitoba Cue Sports"
 date: 2023-03-18
 ---
 In pattern [GKGKYGKRGK](/patterns/gkgkygkrgk/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/10454/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454
 
 ## Thread count
 G/16 K8 G8 K32 DY4 G64 K8 R4 G16 K/32

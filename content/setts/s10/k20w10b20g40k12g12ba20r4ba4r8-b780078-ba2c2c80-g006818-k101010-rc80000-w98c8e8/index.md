@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [KWBGKGBRBR](/patterns/kwbgkgbrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=388
+Original link http://www.tartansauthority.com/tartan-ferret/display/6710/
 
 ## Thread count
 K/20 LB10 P20 G40 K12 G12 DB20 R4 DB4 R/8
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/k20w10b20g40k12g12ba20r4ba4r8-b780078-ba2c2c80-g006818-k101010-rc80000-w98c8e8/
+8/

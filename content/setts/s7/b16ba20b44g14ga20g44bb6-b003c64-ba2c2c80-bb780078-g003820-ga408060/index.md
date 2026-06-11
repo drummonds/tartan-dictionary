@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BBBGGGB](/patterns/bbbgggb/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6864/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=219
 
 ## Thread count
 DB/16 DBa20 DB44 DG14 G20 DG44 P/6
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/16 DBa20 DB44 DG14 G20 DG44 P/6 tartan")
 
 ID: /setts/s7/b16ba20b44g14ga20g44bb6-b003c64-ba2c2c80-bb780078-g003820-ga408060/
-0/

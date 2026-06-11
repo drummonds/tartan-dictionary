@@ -1,5 +1,5 @@
 ---
-title: "Marshall (Clan)"
+title: "Keith (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBGK](/patterns/bkbgk/).
@@ -7,7 +7,7 @@ In pattern [BKBGK](/patterns/bkbgk/).
 
 This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3875/
+Original link http://www.tartansauthority.com/tartan-ferret/display/253/
 
 ## Thread count
 B/12 K16 B16 G36 K/8
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/12 K16 B16 G36 K/8 tartan")
 
 ID: /setts/s5/b12k16b16g36k8-b2474e8-g408060-k101010/
+10/

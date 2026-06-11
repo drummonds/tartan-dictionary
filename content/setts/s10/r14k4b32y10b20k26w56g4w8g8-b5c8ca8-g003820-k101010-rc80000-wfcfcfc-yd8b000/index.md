@@ -1,13 +1,13 @@
 ---
-title: "Gillies Dress Blue #1 (Dance)"
+title: "Gillies Dress, Blue #1 (Dance)"
 date: 2023-03-18
 ---
 In pattern [GWGWKBYBKR](/patterns/gwgwkbybkr/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1343
+Original link http://www.tartansauthority.com/tartan-ferret/display/934/
 
 ## Thread count
 DG/8 W8 DG4 W56 K26 B20 Y10 B32 K4 R/14
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s10/r14k4b32y10b20k26w56g4w8g8-b5c8ca8-g003820-k101010-rc80000-wfcfcfc-yd8b000/
+00/

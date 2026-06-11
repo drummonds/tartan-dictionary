@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BBBGBBBWR](/patterns/bbbgbbbwr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3085
+Original link http://www.tartansauthority.com/tartan-ferret/display/6565/
 
 ## Thread count
 B/56 DB4 N12 G4 N12 DB4 N16 W96 LR/4
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s9/b56ba4bb12g4bb12ba4bb16w96r4-b5c8ca8-ba2c2c80-bb5c5c5c-g289c18-re87878-wf8f8f8/
+f8/

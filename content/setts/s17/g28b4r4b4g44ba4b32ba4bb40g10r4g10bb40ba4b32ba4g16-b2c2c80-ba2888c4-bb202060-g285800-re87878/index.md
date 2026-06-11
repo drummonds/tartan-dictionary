@@ -1,13 +1,13 @@
 ---
-title: "Frangord (Corporate)"
+title: "Frangord"
 date: 2023-03-18
 ---
 In pattern [GBBBBGRGBBBBGBRBG](/patterns/gbbbbgrgbbbbgbrbg/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4907/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245
 
 ## Thread count
 G/16 B4 DB32 B4 DBa40 G10 LR4 G10 DBa40 B4 DB32 B4 G44 DB4 LR4 DB4 G/28

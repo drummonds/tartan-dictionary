@@ -1,13 +1,13 @@
 ---
-title: "McCarthy (Corporate)"
+title: "McCarthy"
 date: 2023-03-18
 ---
 In pattern [BBGBBBGBGBBGB](/patterns/bbgbbbgbgbbgb/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2438/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2873
 
 ## Thread count
 DB/10 G2 DB6 DP4 G20 DB6 G8 DB56 DP4 DB4 G2 DB8 DP/2
@@ -23,3 +23,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
 
 ID: /setts/s13/b10g2b6ba4g20b6g8b56ba4b4g2b8ba2-b003c64-ba440044-g006818/
+006818/

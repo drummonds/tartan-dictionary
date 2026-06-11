@@ -1,13 +1,13 @@
 ---
-title: "Glen Coe (District)"
+title: "Glen Coe"
 date: 2023-03-18
 ---
 In pattern [GRRGRBKRGRKRR](/patterns/grrgrbkrgrkrr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3850/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4839
 
 ## Thread count
 DR/10 LR4 K6 DR8 G86 DR12 K14 B4 DR94 G4 DR6 LR4 G/8
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LR | <code style="background-color:#E87878;"><span style="color:#E87878;filter:grayscale(1) invert(1) contrast(100);">#E87878</span></code> `#E87878` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.19 |
 
 ID: /setts/s13/r10ra4k6r8g86r12k14b4r94g4r6ra4g8-b5c8ca8-g006818-k101010-r880000-rae87878/
+87878/

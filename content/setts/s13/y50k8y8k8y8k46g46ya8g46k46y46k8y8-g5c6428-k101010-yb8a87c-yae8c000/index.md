@@ -1,13 +1,13 @@
 ---
-title: "Poulter Green Corporate Tartan Tartan Number: 7508. Earliest known date: 2008 One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Poulter, Green (Corporate)"
 date: 2023-03-18
 ---
 In pattern [YKYKGYGKYKYKY](/patterns/ykykgygkykyky/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7508
+Original link http://www.tartansauthority.com/tartan-ferret/display/7508/
 
 ## Thread count
 LG/8 K8 LG46 K46 G46 Y8 G46 K46 LG8 K8 LG8 K8 LG/50

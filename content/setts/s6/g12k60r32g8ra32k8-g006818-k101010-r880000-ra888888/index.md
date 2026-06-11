@@ -1,13 +1,13 @@
 ---
-title: "Lindsay Htg (Clan?)"
+title: "Lindsay Hunting Clan/Family Tartan Tartan Number: 5429. Earliest known date: pre 2002 Sample in STA Johnston Collection. The history of this is not known and it may just be a fashion tartan from Pringles. The sett is the same as Thompson. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
 In pattern [GKRGRK](/patterns/gkrgrk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5429/
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5429
 
 ## Thread count
 G/12 K60 DR32 G8 N32 K/8

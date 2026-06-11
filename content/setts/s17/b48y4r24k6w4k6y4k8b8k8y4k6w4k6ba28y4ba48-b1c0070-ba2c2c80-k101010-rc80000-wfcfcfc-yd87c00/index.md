@@ -1,13 +1,13 @@
 ---
-title: "Total (Corporate)"
+title: "Total"
 date: 2023-03-18
 ---
 In pattern [BYBKWKYKBKYKWKRYB](/patterns/bybkwkykbkykwkryb/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2615/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141
 
 ## Thread count
 DB/48 O4 DB28 K6 W4 K6 O4 K8 DBa8 K8 O4 K6 W4 K6 R24 O4 DBa/48
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s17/b48y4r24k6w4k6y4k8b8k8y4k6w4k6ba28y4ba48-b1c0070-ba2c2c80-k101010-rc80000-wfcfcfc-yd87c00/
+d87c00/

@@ -1,13 +1,13 @@
 ---
-title: "Universal Scientific Industrial"
+title: "Universal Scientific Indust (Corp.)"
 date: 2023-03-18
 ---
 In pattern [BKBRKWRBK](/patterns/bkbrkwrbk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4402
+Original link http://www.tartansauthority.com/tartan-ferret/display/2588/
 
 ## Thread count
 B/10 K6 B4 LP12 K32 W4 LP48 B4 K/76

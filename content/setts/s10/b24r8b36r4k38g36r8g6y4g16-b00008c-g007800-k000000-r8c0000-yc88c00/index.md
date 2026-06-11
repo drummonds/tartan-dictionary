@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BRBRKGRGYG](/patterns/brbrkgrgyg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=267
+Original link http://www.tartansauthority.com/tartan-ferret/display/2574/
 
 ## Thread count
 DB/24 DR8 DB36 DR4 K38 G36 DR8 G6 DY4 G/16
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
 ID: /setts/s10/b24r8b36r4k38g36r8g6y4g16-b00008c-g007800-k000000-r8c0000-yc88c00/
+0/

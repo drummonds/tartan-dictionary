@@ -1,13 +1,13 @@
 ---
-title: "Glenalmond College"
+title: "Glenalmond College (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKBR](/patterns/bkbkbkgrgkbr/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1404
+Original link http://www.tartansauthority.com/tartan-ferret/display/6123/
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 N24 R6 N24 K24 DB24 R/6

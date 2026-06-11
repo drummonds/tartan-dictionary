@@ -1,13 +1,13 @@
 ---
-title: "St. Kilda (District)"
+title: "St Kilda"
 date: 2023-03-18
 ---
 In pattern [KR](/patterns/kr/).
 
 
-This was sourced from tartans-authority.  It is a [2 stripes tartan](/stripes/stripes2/).
+This was sourced from register-of-tartans.  It is a [2 stripes tartan](/stripes/stripes2/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1189/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3896
 
 ## Thread count
 K/144 R/36
@@ -26,3 +26,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/144 R/36 tartan")
 
 ID: /setts/s2/k144r36-k101010-rc80000/
+c80000/

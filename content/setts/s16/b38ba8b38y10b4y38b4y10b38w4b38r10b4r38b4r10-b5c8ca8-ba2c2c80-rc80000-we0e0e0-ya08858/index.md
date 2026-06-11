@@ -1,13 +1,13 @@
 ---
-title: "McBeams Boy"
+title: "McBeams Boy (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBBYBYBYBWBRBRBR](/patterns/bbbybybybwbrbrbr/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870
+Original link http://www.tartansauthority.com/tartan-ferret/display/5936/
 
 ## Thread count
 B/38 DB8 B38 LT10 B4 LT38 B4 LT10 B38 LN4 B38 R10 B4 R38 B4 R/10

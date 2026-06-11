@@ -1,13 +1,13 @@
 ---
-title: "Rainbow (Fashion)"
+title: "Rainbow (Gay Community)"
 date: 2023-03-18
 ---
 In pattern [BBRYYG](/patterns/bbryyg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2647/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3445
 
 ## Thread count
 DB/36 P36 R36 O36 Y36 G/72

@@ -1,13 +1,13 @@
 ---
-title: "Gleneagles"
+title: "Gleneagles (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KRKRWRK](/patterns/krkrwrk/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1410
+Original link http://www.tartansauthority.com/tartan-ferret/display/5030/
 
 ## Thread count
 K/2 LT4 K36 LT1 W35 LT4 K/4

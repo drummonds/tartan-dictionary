@@ -1,5 +1,5 @@
 ---
-title: "Keith and Austin"
+title: "Austin"
 date: 2023-03-18
 ---
 In pattern [BKBGK](/patterns/bkbgk/).
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 K4 DB4 DG9 K/2 tartan")
 
 ID: /setts/s5/b4k4b4g9k2-b000052-g11450d-k000000/
+-k000000/

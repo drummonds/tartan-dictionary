@@ -1,13 +1,13 @@
 ---
-title: "Westwood MacSky (Fashion)"
+title: "Westwood MacSky"
 date: 2023-03-18
 ---
 In pattern [WBBYBBWBBY](/patterns/wbbybbwbby/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7488/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5529
 
 ## Thread count
 LN/4 DB26 B26 Y4 B26 DB26 LN4 DB12 B12 Y/2

@@ -1,13 +1,13 @@
 ---
-title: "Gordon Dress (F.Schumacher)"
+title: "Gordon Dress (US Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKBKGYGKGBGBK](/patterns/bkbkgygkgbgbk/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5261
+Original link http://www.tartansauthority.com/tartan-ferret/display/3588/
 
 ## Thread count
 DB/8 K8 DB16 K16 G20 DY4 G20 K16 G8 B8 G24 B4 K/8

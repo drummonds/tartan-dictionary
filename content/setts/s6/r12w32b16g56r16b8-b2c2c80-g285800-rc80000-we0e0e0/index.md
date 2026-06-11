@@ -1,13 +1,13 @@
 ---
-title: "MacKintosh Dress - 1930 (Clan?)"
+title: "MacKintosh Dress (Scott Adie)"
 date: 2023-03-18
 ---
 In pattern [BRGBWR](/patterns/brgbwr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/538/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2571
 
 ## Thread count
 DB/8 R16 G56 DB16 LN32 R/12

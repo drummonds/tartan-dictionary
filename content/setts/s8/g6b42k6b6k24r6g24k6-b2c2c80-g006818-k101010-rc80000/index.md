@@ -1,13 +1,13 @@
 ---
-title: "Brabender"
+title: "Brabender (Name)"
 date: 2023-03-18
 ---
 In pattern [GBKBKRGK](/patterns/gbkbkrgk/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=329
+Original link http://www.tartansauthority.com/tartan-ferret/display/2639/
 
 ## Thread count
 G/6 DB42 K6 DB6 K24 R6 G24 K/6

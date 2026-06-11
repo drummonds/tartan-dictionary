@@ -1,13 +1,13 @@
 ---
-title: "Reid, Green (Name)"
+title: "Reid, Green"
 date: 2023-03-18
 ---
 In pattern [WRGRGBGKGRGRW](/patterns/wrgrgbgkgrgrw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2066/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3495
 
 ## Thread count
 LN/4 R8 G40 R8 G8 DB32 G8 K32 G8 R8 G40 R8 LN/4

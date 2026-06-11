@@ -1,13 +1,13 @@
 ---
-title: "Dundee United Football Club"
+title: "Dundee United Football Club (Corpor)"
 date: 2023-03-18
 ---
 In pattern [KYKYWYKYWYK](/patterns/kykywykywyk/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1038
+Original link http://www.tartansauthority.com/tartan-ferret/display/4757/
 
 ## Thread count
 K/12 O4 K20 O4 N20 O20 K20 O4 N20 O4 K/4

@@ -1,13 +1,13 @@
 ---
-title: "MacGregor of Glengyle - 1750 (Clan)"
+title: "MacGregor of Glengyle"
 date: 2023-03-18
 ---
 In pattern [BRBRBR](/patterns/brbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/450/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2459
 
 ## Thread count
 DB/4 DO4 DB28 DO28 DB4 DO/4

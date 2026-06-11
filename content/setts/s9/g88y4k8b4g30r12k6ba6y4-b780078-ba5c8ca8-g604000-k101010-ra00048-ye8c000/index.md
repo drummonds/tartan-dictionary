@@ -1,13 +1,13 @@
 ---
-title: "Inches of Perth Tartan Tartan Number: 1753. Earliest known date: pre 2003 A philanthropic society founded by Scots around 1840. The tartan was designed to mark the 150th anniversary. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Inches of Perth (District or Clan)"
 date: 2023-03-18
 ---
 In pattern [GYKBGRKBY](/patterns/gykbgrkby/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1753
+Original link http://www.tartansauthority.com/tartan-ferret/display/1753/
 
 ## Thread count
 T/88 Y4 K8 P4 T30 R12 K6 B6 Y/4

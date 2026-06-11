@@ -1,13 +1,13 @@
 ---
-title: "MacEdward (Clan)"
+title: "MacEdward (MacGregor Hastie)"
 date: 2023-03-18
 ---
 In pattern [RBKBKBGRYR](/patterns/rbkbkbgryr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1358/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2426
 
 ## Thread count
 DR/2 DB24 K2 DB4 K2 DB4 DG12 DR48 DY2 DR/12

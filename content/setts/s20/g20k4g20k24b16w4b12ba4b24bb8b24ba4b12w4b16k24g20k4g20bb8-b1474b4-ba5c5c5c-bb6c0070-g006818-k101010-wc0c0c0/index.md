@@ -1,13 +1,13 @@
 ---
-title: "Smithers Family Tartan Tartan Number: 2227. Earliest known date: pre 2002 Designed by Alfred Arnold Smither. A Canadian family tartan that is open to all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Smithers"
 date: 2023-03-18
 ---
 In pattern [BGKGKBWBBBBBBBWBKGKG](/patterns/bgkgkbwbbbbbbbwbkgkg/).
 
 
-This was sourced from house-of-tartan.  It is a [20 stripes tartan](/stripes/stripes20/).
+This was sourced from register-of-tartans.  It is a [20 stripes tartan](/stripes/stripes20/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2227
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3824
 
 ## Thread count
 G/20 K4 G20 K24 B16 Na4 B12 N4 B24 P8 B24 N4 B12 Na4 B16 K24 G20 K4 G20 P/8

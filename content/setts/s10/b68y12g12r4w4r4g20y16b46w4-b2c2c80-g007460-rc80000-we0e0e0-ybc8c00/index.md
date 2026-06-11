@@ -1,13 +1,13 @@
 ---
-title: "International Pairs"
+title: "International Pairs (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BYGRWRGYBW](/patterns/bygrwrgybw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5661
+Original link http://www.tartansauthority.com/tartan-ferret/display/7648/
 
 ## Thread count
 DB/68 DY12 G12 R4 LN4 R4 G20 DY16 DB46 LN/4

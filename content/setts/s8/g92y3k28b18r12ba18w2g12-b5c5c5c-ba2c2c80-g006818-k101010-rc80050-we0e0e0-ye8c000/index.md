@@ -1,13 +1,13 @@
 ---
-title: "Mull Millennium"
+title: "Mull Millennium (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GWBRBKYG](/patterns/gwbrbkyg/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3044
+Original link http://www.tartansauthority.com/tartan-ferret/display/2573/
 
 ## Thread count
 G/12 LN2 DB18 R12 N18 K28 Y3 G/92

@@ -1,13 +1,13 @@
 ---
-title: "Buccleuch (Clan)"
+title: "Buccleuch"
 date: 2023-03-18
 ---
 In pattern [RGRBRKR](/patterns/rgrbrkr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1505/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411
 
 ## Thread count
 R/14 G51 R5 P41 R5 K9 R/107
@@ -28,3 +28,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/14 G51 R5 P41 R5 K9 R/107 tartan")
 
 ID: /setts/s7/r107k9r5b41r5g51r14-b780078-g006818-k000000-rc80000/
+00/

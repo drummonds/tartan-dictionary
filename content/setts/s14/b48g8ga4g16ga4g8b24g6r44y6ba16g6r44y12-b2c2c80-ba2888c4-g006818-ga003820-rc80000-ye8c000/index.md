@@ -1,13 +1,13 @@
 ---
-title: "Devon 2000"
+title: "Devon 2000 (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGGGGGBGRYBGRY](/patterns/bgggggbgrybgry/).
 
 
-This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=921
+Original link http://www.tartansauthority.com/tartan-ferret/display/2614/
 
 ## Thread count
 DB/48 G8 DG4 G16 DG4 G8 DB24 G6 R44 Y6 B16 G6 R44 Y/12

@@ -1,13 +1,13 @@
 ---
-title: "Wild Geese"
+title: "Wild Geese (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKWKRGKGKGGYG](/patterns/bkwkrgkgkggyg/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5324
+Original link http://www.tartansauthority.com/tartan-ferret/display/7400/
 
 ## Thread count
 DB/16 K2 LN10 K2 R10 DG26 K4 G8 K4 G22 DG40 DY14 DG/10

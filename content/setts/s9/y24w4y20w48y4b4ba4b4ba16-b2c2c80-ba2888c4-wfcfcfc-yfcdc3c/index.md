@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [BBBBYWYWY](/patterns/bbbbywywy/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5095
+Original link http://www.tartansauthority.com/tartan-ferret/display/3375/
 
 ## Thread count
 B/16 DB4 B4 DB4 Y4 W48 Y20 W4 Y/24

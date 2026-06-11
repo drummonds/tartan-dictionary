@@ -1,13 +1,13 @@
 ---
-title: "Asman Hunting Family Tartan Tartan Number: 2553. Earliest known date: 1989 Designed by Dr. Philip D.Smith, 1989 for David I Asman. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Asman Hunting (Personal)"
 date: 2023-03-18
 ---
 In pattern [BYBRWKWBRKR](/patterns/bybrwkwbrkr/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2553
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=124
 
 ## Thread count
 DBa/8 Y6 DBa44 R12 W4 K12 W4 DBa12 N40 K6 N/8
@@ -29,5 +29,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
+
+ID: /setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/
+"color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/

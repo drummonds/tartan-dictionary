@@ -5,9 +5,9 @@ date: 2023-03-18
 In pattern [RGKGYGY](/patterns/rgkgygy/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2128/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3302
 
 ## Thread count
 DR/6 G40 K40 G40 DY4 G4 DY/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/6 G40 K40 G40 DY4 G4 DY/4 tartan")
 
 ID: /setts/s7/r6g40k40g40y4g4y4-g006818-k101010-r880000-yd09800/
-00/

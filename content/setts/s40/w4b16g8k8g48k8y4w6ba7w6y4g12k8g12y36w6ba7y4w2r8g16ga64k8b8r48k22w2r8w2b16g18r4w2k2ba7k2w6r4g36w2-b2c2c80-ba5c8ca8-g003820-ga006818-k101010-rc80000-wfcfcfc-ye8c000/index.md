@@ -1,13 +1,13 @@
 ---
-title: "Valencia"
+title: "Valencia (Commemorative)"
 date: 2023-03-18
 ---
 In pattern [WBGKGKYWBWYGKGYWBYWRGGKBRKWRWBGRWKBKWRGW](/patterns/wbgkgkywbwygkgywbywrggkbrkwrwbgrwkbkwrgw/).
 
 
-This was sourced from register-of-tartans.  It is a [40 stripes tartan](/stripes/stripes40/).
+This was sourced from tartans-authority.  It is a [40 stripes tartan](/stripes/stripes40/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4982
+Original link http://www.tartansauthority.com/tartan-ferret/display/3890/
 
 ## Thread count
 W/4 DB16 DG8 K8 DG48 K8 Y4 W6 B7 W6 Y4 DG12 K8 DG12 Y36 W6 B7 Y4 W2 R8 DG16 G64 K8 DB8 R48 K22 W2 R8 W2 DB16 DG18 R4 W2 K2 B7 K2 W6 R4 DG36 W/2
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s40/w4b16g8k8g48k8y4w6ba7w6y4g12k8g12y36w6ba7y4w2r8g16ga64k8b8r48k22w2r8w2b16g18r4w2k2ba7k2w6r4g36w2-b2c2c80-ba5c8ca8-g003820-ga006818-k101010-rc80000-wfcfcfc-ye8c000/
-fc-ye8c000/

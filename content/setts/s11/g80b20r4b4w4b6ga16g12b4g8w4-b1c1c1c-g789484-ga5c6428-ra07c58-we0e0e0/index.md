@@ -1,13 +1,13 @@
 ---
-title: "Cavalier, Blue (Fashion)"
+title: "Cavalier, Blue"
 date: 2023-03-18
 ---
 In pattern [GBRBWBGGBGW](/patterns/gbrbwbggbgw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4480/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=597
 
 ## Thread count
 LG/80 K20 LT4 K4 LN4 K6 G16 LG12 K4 LG8 LN/4

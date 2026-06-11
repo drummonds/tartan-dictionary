@@ -1,13 +1,13 @@
 ---
-title: "Sligo, County"
+title: "Sligo, County (District)"
 date: 2023-03-18
 ---
 In pattern [BBBBYB](/patterns/bbbbyb/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3819
+Original link http://www.tartansauthority.com/tartan-ferret/display/2256/
 
 ## Thread count
 DB/100 DR8 DB24 DR46 Y8 DR/8

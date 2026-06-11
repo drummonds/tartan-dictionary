@@ -1,13 +1,13 @@
 ---
-title: "Sekai Fushigi Hakken"
+title: "Sekai Fushigi Hakken (TV)"
 date: 2023-03-18
 ---
 In pattern [RGRWRWGWRGRWGWRW](/patterns/rgrwrwgwrgrwgwrw/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3758
+Original link http://www.tartansauthority.com/tartan-ferret/display/5784/
 
 ## Thread count
 DR/6 G4 R6 LN36 LR4 LN6 G4 LN54 R6 G4 DR6 LN54 G4 LN6 LR4 LN/36

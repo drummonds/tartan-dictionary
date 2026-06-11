@@ -1,13 +1,13 @@
 ---
-title: "Keppoch"
+title: "Keppoch (District)"
 date: 2023-03-18
 ---
 In pattern [KGKGBGW](/patterns/kgkgbgw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1951
+Original link http://www.tartansauthority.com/tartan-ferret/display/7122/
 
 ## Thread count
 K/10 G4 K10 G4 DB16 G50 W/8
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/10 G4 K10 G4 DB16 G50 W/8 tartan")
 
 ID: /setts/s7/k10g4k10g4b16g50w8-b2c2c80-g006818-k101010-wf8f8f8/
-8f8f8/

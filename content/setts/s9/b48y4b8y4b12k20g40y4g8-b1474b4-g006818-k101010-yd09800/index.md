@@ -1,13 +1,13 @@
 ---
-title: "Marie Curie Fields Of Hope"
+title: "Marie Curie Fields Of Hope (Corp)"
 date: 2023-03-18
 ---
 In pattern [BYBYBKGYG](/patterns/bybybkgyg/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2833
+Original link http://www.tartansauthority.com/tartan-ferret/display/2463/
 
 ## Thread count
 B/48 DY4 B8 DY4 B12 K20 G40 DY4 G/8

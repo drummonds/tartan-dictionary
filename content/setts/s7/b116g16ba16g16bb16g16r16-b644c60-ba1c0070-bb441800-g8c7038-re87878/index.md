@@ -1,13 +1,13 @@
 ---
-title: "Marino (Fashion)"
+title: "Marino"
 date: 2023-03-18
 ---
 In pattern [BGBGBGR](/patterns/bgbgbgr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5704/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2834
 
 ## Thread count
 LR/16 LT16 DR16 LT16 DB16 LT16 N/116

@@ -1,13 +1,13 @@
 ---
-title: "Cavan, County"
+title: "Cavan, County (District)"
 date: 2023-03-18
 ---
 In pattern [GKGKGGGKRK](/patterns/gkgkgggkrk/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=601
+Original link http://www.tartansauthority.com/tartan-ferret/display/2274/
 
 ## Thread count
 K/6 R18 K8 T18 LT6 T18 K8 G52 K4 LT/6

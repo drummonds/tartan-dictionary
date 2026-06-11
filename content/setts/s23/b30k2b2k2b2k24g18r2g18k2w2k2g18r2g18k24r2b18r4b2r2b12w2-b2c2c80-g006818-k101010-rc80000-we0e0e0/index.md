@@ -1,13 +1,13 @@
 ---
-title: "Rankine Clan Tartan Tartan Number: 292. Earliest known date: 1822 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Rankine (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKWKGRGKRBRBRBW](/patterns/bkbkbkgrgkwkgrgkrbrbrbw/).
 
 
-This was sourced from house-of-tartan.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=292
+Original link http://www.tartansauthority.com/tartan-ferret/display/292/
 
 ## Thread count
 DB/30 K2 DB2 K2 DB2 K24 G18 R2 G18 K2 LN2 K2 G18 R2 G18 K24 R2 DB18 R4 DB2 R2 DB12 LN/2

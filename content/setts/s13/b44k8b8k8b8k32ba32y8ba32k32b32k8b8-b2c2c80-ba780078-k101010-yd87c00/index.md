@@ -1,13 +1,13 @@
 ---
-title: "Clemson University"
+title: "Clemson University (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKBYBKBKB](/patterns/bkbkbkbybkbkb/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=675
+Original link http://www.tartansauthority.com/tartan-ferret/display/5879/
 
 ## Thread count
 DB/44 K8 DB8 K8 DB8 K32 P32 O8 P32 K32 DB32 K8 DB/8

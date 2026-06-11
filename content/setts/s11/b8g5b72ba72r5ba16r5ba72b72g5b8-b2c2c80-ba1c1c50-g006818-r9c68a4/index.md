@@ -24,6 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LP | <code style="background-color:#9C68A4;"><span style="color:#9C68A4;filter:grayscale(1) invert(1) contrast(100);">#9C68A4</span></code> `#9C68A4` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.21 |
 
 ID: /setts/s11/b8g5b72ba72r5ba16r5ba72b72g5b8-b2c2c80-ba1c1c50-g006818-r9c68a4/
-;filter:grayscale(1) invert(1) contrast(100);">#9C68A4</span></code> `#9C68A4` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.21 |
-
-ID: /setts/s11/b8g5b72ba72r5ba16r5ba72b72g5b8-b2c2c80-ba1c1c50-g006818-r9c68a4/

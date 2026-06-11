@@ -1,13 +1,13 @@
 ---
-title: "Vipont (Yellow line) (Name)"
+title: "Vipont (Yellow line)"
 date: 2023-03-18
 ---
 In pattern [RGKBGKY](/patterns/rgkbgky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1491/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4464
 
 ## Thread count
 R/6 G28 K4 P4 G28 K72 Y/6

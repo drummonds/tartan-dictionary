@@ -1,13 +1,13 @@
 ---
-title: "Murtaugh Hunting (Name)"
+title: "Murtaugh Hunting"
 date: 2023-03-18
 ---
 In pattern [KRWKRKWGKGKWRYRWRYRKR](/patterns/krwkrkwgkgkwryrwryrkr/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5818/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3082
 
 ## Thread count
 K/4 R8 LN4 K6 N6 K4 LN4 G48 K4 G6 K8 LN4 N4 Y4 N4 LN4 N4 Y4 N8 K8 R/8

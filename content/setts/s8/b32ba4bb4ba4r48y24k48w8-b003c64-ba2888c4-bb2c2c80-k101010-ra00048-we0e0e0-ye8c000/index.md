@@ -1,13 +1,13 @@
 ---
-title: "Maryland (Commemorative)"
+title: "Maryland"
 date: 2023-03-18
 ---
 In pattern [BBBBRYKW](/patterns/bbbbrykw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5920/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847
 
 ## Thread count
 DBa/32 B4 DB4 B4 R48 Y24 K48 LN/8
@@ -31,3 +31,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DBa/32 B4 DB4 B4 R48 Y24 K48 LN/8 tartan")
 
 ID: /setts/s8/b32ba4bb4ba4r48y24k48w8-b003c64-ba2888c4-bb2c2c80-k101010-ra00048-we0e0e0-ye8c000/
+e0-ye8c000/

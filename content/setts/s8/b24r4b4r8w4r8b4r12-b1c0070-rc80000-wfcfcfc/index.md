@@ -1,13 +1,13 @@
 ---
-title: "Edinburgh Marketing (Corporate)"
+title: "Edinburgh Marketing"
 date: 2023-03-18
 ---
 In pattern [BRBRWRBR](/patterns/brbrwrbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2106/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1082
 
 ## Thread count
 DB/24 R4 DB4 R8 W4 R8 DB4 R/12

@@ -1,13 +1,13 @@
 ---
-title: "Dress Watch"
+title: "Dress Watch (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKBKGBGW](/patterns/bkbkgbgw/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976
+Original link http://www.tartansauthority.com/tartan-ferret/display/6069/
 
 ## Thread count
 DB/8 K6 DB36 K36 G36 DB2 G4 W/8
@@ -28,7 +28,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 K6 DB36 K36 G36 DB2 G4 W/8 tartan")
 
 ID: /setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/
-#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
+;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 # Sample pattern
 

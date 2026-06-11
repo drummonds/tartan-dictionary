@@ -1,13 +1,13 @@
 ---
-title: "Lynn (Personal)"
+title: "Lynn (Name)"
 date: 2023-03-18
 ---
 In pattern [BKWBWKWB](/patterns/bkwbwkwb/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2255
+Original link http://www.tartansauthority.com/tartan-ferret/display/5933/
 
 ## Thread count
 B/8 K90 LN2 B18 LN2 K6 LN2 B/36
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/8 K90 LN2 B18 LN2 K6 LN2 B/36 tartan")
 
 ID: /setts/s8/b36w2k6w2b18w2k90b8-b2474e8-k101010-we0e0e0/
+e0e0e0/

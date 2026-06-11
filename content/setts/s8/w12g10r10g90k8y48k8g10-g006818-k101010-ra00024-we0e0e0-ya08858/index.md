@@ -1,13 +1,13 @@
 ---
-title: "O'Neill (Name)"
+title: "O'Neill"
 date: 2023-03-18
 ---
 In pattern [GKYKGRGW](/patterns/gkykgrgw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2663/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4824
 
 ## Thread count
 G/10 K8 LT48 K8 G90 DR10 G10 LN/12

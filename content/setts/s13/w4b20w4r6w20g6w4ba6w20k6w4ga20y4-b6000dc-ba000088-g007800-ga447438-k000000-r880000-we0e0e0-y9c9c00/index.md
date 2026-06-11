@@ -1,13 +1,13 @@
 ---
-title: "Morris of Balgonie Arisaid (Personal"
+title: "Morris of Balgonie Arisaid (Personal)"
 date: 2023-03-18
 ---
 In pattern [WBWRWGWBWKWGY](/patterns/wbwrwgwbwkwgy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5660/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3015
 
 ## Thread count
 LG/4 G20 LN4 K6 LN20 DB6 LN4 Ga6 LN20 DR6 LN4 P20 LN/4

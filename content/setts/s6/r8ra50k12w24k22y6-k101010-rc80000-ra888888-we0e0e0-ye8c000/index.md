@@ -1,13 +1,13 @@
 ---
-title: "Thomson Dress (Grey) (Fashion)"
+title: "Thomson Dress (Grey)"
 date: 2023-03-18
 ---
 In pattern [RRKWKY](/patterns/rrkwky/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3121/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5279
 
 ## Thread count
 R/8 N50 K12 LN24 K22 Y/6

@@ -1,13 +1,13 @@
 ---
-title: "Bro-sant-Malou (Corporate)"
+title: "Bro-sant-Malou"
 date: 2023-03-18
 ---
 In pattern [GYWBRK](/patterns/gywbrk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6649/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=387
 
 ## Thread count
 G/6 Y2 W22 DB32 R48 K/6
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/6 Y2 W22 DB32 R48 K/6 tartan")
 
 ID: /setts/s6/g6y2w22b32r48k6-b1c3054-g006818-k101010-rc83c28-wf8f8f8-yd8c800/
+yd8c800/

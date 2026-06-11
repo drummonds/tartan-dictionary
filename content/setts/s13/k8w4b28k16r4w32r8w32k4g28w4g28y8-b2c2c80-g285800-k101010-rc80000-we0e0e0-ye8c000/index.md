@@ -1,13 +1,13 @@
 ---
-title: "MacLellan Dress (Personal)"
+title: "MacLellan/McLellan Dress (Personal)"
 date: 2023-03-18
 ---
 In pattern [KWBKRWRWKGWGY](/patterns/kwbkrwrwkgwgy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1225/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2623
 
 ## Thread count
 K/8 LN4 DB28 K16 R4 LN32 R8 LN32 K4 G28 LN4 G28 Y/8

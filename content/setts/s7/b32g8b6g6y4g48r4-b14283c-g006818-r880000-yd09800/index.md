@@ -1,13 +1,13 @@
 ---
-title: "St Andrews Links"
+title: "St. Andrews Links (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BGBGYGR](/patterns/bgbgygr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3880
+Original link http://www.tartansauthority.com/tartan-ferret/display/2391/
 
 ## Thread count
 DN/32 G8 DN6 G6 DY4 G48 DR/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DN/32 G8 DN6 G6 DY4 G48 DR/4 tartan")
 
 ID: /setts/s7/b32g8b6g6y4g48r4-b14283c-g006818-r880000-yd09800/
-yd09800/

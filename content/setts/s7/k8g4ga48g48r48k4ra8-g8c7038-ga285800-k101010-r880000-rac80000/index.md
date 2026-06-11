@@ -1,13 +1,13 @@
 ---
-title: "PSD: Operation Iraqi Freedom"
+title: "PSD: Operation Iraqi Freedom (Milita"
 date: 2023-03-18
 ---
 In pattern [KGGGRKR](/patterns/kgggrkr/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417
+Original link http://www.tartansauthority.com/tartan-ferret/display/6877/
 
 ## Thread count
 K/8 LT4 G48 LT48 DR48 K4 R/8
@@ -29,4 +29,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 LT4 G48 LT48 DR48 K4 R/8 tartan")
 
 ID: /setts/s7/k8g4ga48g48r48k4ra8-g8c7038-ga285800-k101010-r880000-rac80000/
-00/

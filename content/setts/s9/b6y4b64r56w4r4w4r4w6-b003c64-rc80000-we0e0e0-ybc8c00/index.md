@@ -1,13 +1,13 @@
 ---
-title: "Sea Dog Bamse (Commemorative)"
+title: "Sea Dog Bamse, Pride of Norway"
 date: 2023-03-18
 ---
 In pattern [BYBRWRWRW](/patterns/bybrwrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7858/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5809
 
 ## Thread count
 DB/6 DY4 DB64 R56 LN4 R4 LN4 R4 LN/6
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s9/b6y4b64r56w4r4w4r4w6-b003c64-rc80000-we0e0e0-ybc8c00/
-c00/

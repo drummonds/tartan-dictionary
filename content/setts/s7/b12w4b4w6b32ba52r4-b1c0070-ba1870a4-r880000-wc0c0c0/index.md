@@ -1,13 +1,13 @@
 ---
-title: "FBI (Corporate)"
+title: "Federal Bureau of Investigation"
 date: 2023-03-18
 ---
 In pattern [BWBWBBR](/patterns/bwbwbbr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/83/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1155
 
 ## Thread count
 DB/12 N4 DB4 N6 DB32 B52 DR/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/12 N4 DB4 N6 DB32 B52 DR/4 tartan")
 
 ID: /setts/s7/b12w4b4w6b32ba52r4-b1c0070-ba1870a4-r880000-wc0c0c0/
-70a4-r880000-wc0c0c0/

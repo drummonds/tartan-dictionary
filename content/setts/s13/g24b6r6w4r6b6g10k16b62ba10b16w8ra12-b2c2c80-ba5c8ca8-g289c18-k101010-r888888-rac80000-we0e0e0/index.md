@@ -1,13 +1,13 @@
 ---
-title: "Twenty First Century (Fashion)"
+title: "Twenty First Century"
 date: 2023-03-18
 ---
 In pattern [GBRWRBGKBBBWR](/patterns/gbrwrbgkbbbwr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2239/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4172
 
 ## Thread count
 G/24 DB6 N6 LN4 N6 DB6 G10 K16 DB62 B10 DB16 LN8 R/12
@@ -27,3 +27,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s13/g24b6r6w4r6b6g10k16b62ba10b16w8ra12-b2c2c80-ba5c8ca8-g289c18-k101010-r888888-rac80000-we0e0e0/
+e0e0/

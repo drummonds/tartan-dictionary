@@ -1,13 +1,13 @@
 ---
-title: "Newlands of Lauriston"
+title: "Newlands of Lauriston (Name)"
 date: 2023-03-18
 ---
 In pattern [BKBRKGRGRG](/patterns/bkbrkgrgrg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3128
+Original link http://www.tartansauthority.com/tartan-ferret/display/2175/
 
 ## Thread count
 B/18 K18 B18 R4 K40 G26 R4 G8 R4 G/8
@@ -24,4 +24,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/b18k18b18r4k40g26r4g8r4g8-b1474b4-g006818-k101010-rc80000/
-0/

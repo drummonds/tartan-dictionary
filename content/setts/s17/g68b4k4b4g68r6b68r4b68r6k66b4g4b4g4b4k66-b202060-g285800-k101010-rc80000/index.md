@@ -1,13 +1,13 @@
 ---
-title: "Lumsden Hunting (Clan)"
+title: "Lumsden Hunting"
 date: 2023-03-18
 ---
 In pattern [GBKBGRBRBRKBGBGBK](/patterns/gbkbgrbrbrkbgbgbk/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2366/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2245
 
 ## Thread count
 G/68 DB4 K4 DB4 G68 R6 DB68 R4 DB68 R6 K66 DB4 G4 DB4 G4 DB4 K/66
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s17/g68b4k4b4g68r6b68r4b68r6k66b4g4b4g4b4k66-b202060-g285800-k101010-rc80000/
+0/

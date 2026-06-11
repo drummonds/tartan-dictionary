@@ -1,13 +1,13 @@
 ---
-title: "Forsyth (Clan)"
+title: "Forsyth (1795)"
 date: 2023-03-18
 ---
 In pattern [KGYKBR](/patterns/kgykbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1122/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1236
 
 ## Thread count
 K/8 G44 Y4 K32 B36 R/8

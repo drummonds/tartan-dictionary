@@ -1,13 +1,13 @@
 ---
-title: "Crook (Name)"
+title: "Crook"
 date: 2023-03-18
 ---
 In pattern [GBRKRGBRK](/patterns/gbrkrgbrk/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4616/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=811
 
 ## Thread count
 K/8 R28 B4 N32 R6 K6 R6 B24 N/8
@@ -24,3 +24,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.11 |
 
 ID: /setts/s9/g8b24r6k6r6g32b4r28k8-b1870a4-g406054-k101010-ra00048/
+48/

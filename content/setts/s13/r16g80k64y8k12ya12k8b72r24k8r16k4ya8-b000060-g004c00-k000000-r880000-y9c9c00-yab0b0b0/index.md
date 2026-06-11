@@ -1,13 +1,13 @@
 ---
-title: "Galt, Alexander, Sir (Commemorative)"
+title: "Galt, Alexander, Sir"
 date: 2023-03-18
 ---
 In pattern [RGKYKYKBRKRKY](/patterns/rgkykykbrkrky/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1482/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1307
 
 ## Thread count
 DR/16 G80 K64 LG8 K12 N12 K8 DB72 DR24 K8 DR16 K4 N/8

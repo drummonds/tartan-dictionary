@@ -1,13 +1,13 @@
 ---
-title: "Lamont Dress"
+title: "Lamont Dress (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KGKGKGWK](/patterns/kgkgkgwk/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2036
+Original link http://www.tartansauthority.com/tartan-ferret/display/6391/
 
 ## Thread count
 K/22 G6 K6 G6 K6 G18 LN36 K/6

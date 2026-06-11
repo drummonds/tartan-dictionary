@@ -1,13 +1,13 @@
 ---
-title: "Glen Erin (Fashion)"
+title: "Glen Erin"
 date: 2023-03-18
 ---
 In pattern [BGBGBRBG](/patterns/bgbgbrbg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1909/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1375
 
 ## Thread count
 DB/32 Ga16 B16 Ga16 DB32 R6 DR6 G/6
@@ -30,3 +30,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/32 Ga16 B16 Ga16 DB32 R6 DR6 G/6 tartan")
 
 ID: /setts/s8/b32g16ba16g16b32r6bb6ga6-b2c2c80-ba1474b4-bb441800-g006818-ga5c6428-rc80000/
+0000/

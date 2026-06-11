@@ -1,13 +1,13 @@
 ---
-title: "Finnegan (Name)"
+title: "Finnegan"
 date: 2023-03-18
 ---
 In pattern [RKGKRKRKGRY](/patterns/rkgkrkrkgry/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4859/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184
 
 ## Thread count
 DO/12 K4 G4 K8 R6 K4 R6 K8 G4 DO48 Y/4
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/r12k4g4k8ra6k4ra6k8g4r48y4-g006818-k000000-ra06400-rac80000-ye8c000/
+0/

@@ -1,13 +1,13 @@
 ---
-title: "Tribal (Corporate)"
+title: "Tribal #2"
 date: 2023-03-18
 ---
 In pattern [GKRKRKRKBY](/patterns/gkrkrkrkby/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5886/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150
 
 ## Thread count
 G/8 K64 R20 K4 DO32 K4 R20 K4 P64 Y/8

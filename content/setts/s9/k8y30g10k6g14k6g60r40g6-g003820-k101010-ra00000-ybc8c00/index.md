@@ -1,13 +1,13 @@
 ---
-title: "MacKillen"
+title: "MacKillen (Personal)"
 date: 2023-03-18
 ---
 In pattern [GRGKGKGYK](/patterns/grgkgkgyk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2536
+Original link http://www.tartansauthority.com/tartan-ferret/display/3422/
 
 ## Thread count
 DG/6 DR40 DG60 K6 DG14 K6 DG10 DY30 K/8

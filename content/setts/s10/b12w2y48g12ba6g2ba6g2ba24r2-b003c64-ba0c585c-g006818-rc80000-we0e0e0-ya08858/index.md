@@ -1,13 +1,13 @@
 ---
-title: "Chisholm Colonial 2008 (Clan)"
+title: "Chisholm Colonial"
 date: 2023-03-18
 ---
 In pattern [BWYGBGBGBR](/patterns/bwygbgbgbr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7791/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5756
 
 ## Thread count
 DB/12 LN2 LT48 Ga12 G6 Ga2 G6 Ga2 G24 R/2

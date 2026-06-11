@@ -1,13 +1,13 @@
 ---
-title: "Gayre Hunting"
+title: "Gayre Htg (Clan)"
 date: 2023-03-18
 ---
 In pattern [BGKRBRKRGRGRK](/patterns/bgkrbrkrgrgrk/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1324
+Original link http://www.tartansauthority.com/tartan-ferret/display/165/
 
 ## Thread count
 DB/40 G8 K8 N40 DB8 N40 K6 DR12 G8 N8 G8 DR8 K/8
@@ -25,3 +25,4 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
 ID: /setts/s13/b40g8k8r40b8r40k6ra12g8r8g8ra8k8-b1c0070-g006818-k101010-r888888-raa00000/
+/

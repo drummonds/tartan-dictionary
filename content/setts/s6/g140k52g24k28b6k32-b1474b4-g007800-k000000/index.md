@@ -1,13 +1,13 @@
 ---
-title: "Duchess of Fife"
+title: "Duchess of Fife (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GKGKBK](/patterns/gkgkbk/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1002
+Original link http://www.tartansauthority.com/tartan-ferret/display/781/
 
 ## Thread count
 G/140 K52 G24 K28 B6 K/32
@@ -27,4 +27,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/140 K52 G24 K28 B6 K/32 tartan")
 
 ID: /setts/s6/g140k52g24k28b6k32-b1474b4-g007800-k000000/
-000/

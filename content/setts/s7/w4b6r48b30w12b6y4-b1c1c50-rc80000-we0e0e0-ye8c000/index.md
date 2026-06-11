@@ -1,13 +1,13 @@
 ---
-title: "Fazzolettone"
+title: "Fazzolettone (Fashion?)"
 date: 2023-03-18
 ---
 In pattern [WBRBWBY](/patterns/wbrbwby/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5688
+Original link http://www.tartansauthority.com/tartan-ferret/display/7689/
 
 ## Thread count
 LN/4 DB6 R48 DB30 LN12 DB6 Y/4
@@ -28,4 +28,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/4 DB6 R48 DB30 LN12 DB6 Y/4 tartan")
 
 ID: /setts/s7/w4b6r48b30w12b6y4-b1c1c50-rc80000-we0e0e0-ye8c000/
-8c000/

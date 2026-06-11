@@ -1,13 +1,13 @@
 ---
-title: "Roscommon County Crest (Fashion)"
+title: "Roscommon County, Crest Range"
 date: 2023-03-18
 ---
 In pattern [GKYWYKGYBYY](/patterns/gkywykgybyy/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7429/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5057
 
 ## Thread count
 G/22 K10 LT14 LN10 LT14 K10 G14 LT22 DB32 LT14 Y/10

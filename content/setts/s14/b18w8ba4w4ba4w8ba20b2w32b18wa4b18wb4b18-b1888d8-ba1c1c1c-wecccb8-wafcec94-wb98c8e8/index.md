@@ -1,13 +1,13 @@
 ---
-title: "Balamory Fancy Tartan Tartan Number: 6784. Earliest known date: pre 2005 Archies kilt See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Balamory (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BWBWBWBBWBWBWB](/patterns/bwbwbwbbwbwbwb/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6784
+Original link http://www.tartansauthority.com/tartan-ferret/display/6784/
 
 ## Thread count
 B/18 LB4 B18 LY4 B18 LR32 B2 K20 LR8 K4 LR4 K4 LR8 B/18

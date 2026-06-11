@@ -1,13 +1,13 @@
 ---
-title: "Maynard (Name)"
+title: "Maynard"
 date: 2023-03-18
 ---
 In pattern [YRGRBWBWBRKRY](/patterns/yrgrbwbwbrkry/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7379/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2866
 
 ## Thread count
 Y/6 R50 G16 R8 DB16 LN4 DB6 LN4 DB16 R8 K16 R50 Y/6

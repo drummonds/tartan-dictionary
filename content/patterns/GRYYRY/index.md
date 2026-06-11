@@ -20,5 +20,3 @@ GRYYRY
 |---------------|
 | [Ingenico](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/)|
 |![Ingenico example sett](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/sett.png)|
-| [Ingenico (Corporate)](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/)|
-|![Ingenico (Corporate) example sett](/setts/s6/y100r8y24ya46r8g8-g289c18-rc80000-y48a4c0-yae8c000/sett.png)|

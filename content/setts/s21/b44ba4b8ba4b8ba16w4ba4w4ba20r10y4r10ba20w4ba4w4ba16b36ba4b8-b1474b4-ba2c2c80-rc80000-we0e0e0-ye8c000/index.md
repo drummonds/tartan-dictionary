@@ -1,13 +1,20 @@
 ---
-title: "Tartan Army (Corporate)"
+title: "Tartan Army"
 date: 2023-03-18
 ---
 In pattern [BBBBBBWBWBRYRBWBWBBBB](/patterns/bbbbbbwbwbryrbwbwbbbb/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2389/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/1997 — Tartan Army (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073))
+- June 1997 — Tartan Army (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2389/))
 
 ## Thread count
 B/44 DB4 B8 DB4 B8 DB16 LN4 DB4 LN4 DB20 R10 Y4 R10 DB20 LN4 DB4 LN4 DB16 B36 DB4 B/8

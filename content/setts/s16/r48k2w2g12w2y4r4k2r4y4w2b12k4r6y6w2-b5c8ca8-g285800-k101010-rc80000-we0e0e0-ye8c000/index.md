@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2569
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1850 — MacKintosh (Chief) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2569))
+- 1850 — Hong Kong Police Pipe Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6131/))
+- c1800 — MacKintosh Chief - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1622/))
+
 ## Thread count
 LN/2 Y6 R6 K4 B12 LN2 Y4 R4 K2 R4 Y4 LN2 G12 LN2 K2 R/48
 ![Sett](sett.png)

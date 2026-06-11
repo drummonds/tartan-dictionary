@@ -1,13 +1,21 @@
 ---
-title: "MacLulich Clan Tartan Tartan Number: 558. Earliest known date: 1862 Brydone See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacLulich"
 date: 2023-03-18
 ---
 In pattern [BRKYKWKGBKBW](/patterns/brkykwkgbkbw/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=558
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2651
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — MacLulich (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2651))
+- pre 2002 — MacLulich (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/558/))
+- undated — MacLulich Clan Tartan Tartan Number: 558. Earliest known date: 1862 Brydone See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=558))
 
 ## Thread count
 DB/66 R16 K24 Y4 K8 LN8 K8 G24 DB16 K8 DB8 LN/4

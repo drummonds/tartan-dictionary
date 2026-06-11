@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1014
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — Dunbar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1014))
+- 1842 — Dunbar (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1472/))
+
 ## Thread count
 R/12 G42 K16 R56 K4 R/8
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/12 G42 K16 R56 K4 R/8 tartan")
 
 ID: /setts/s6/r12g42k16r56k4r8-g006818-k101010-rc80000/
-0/

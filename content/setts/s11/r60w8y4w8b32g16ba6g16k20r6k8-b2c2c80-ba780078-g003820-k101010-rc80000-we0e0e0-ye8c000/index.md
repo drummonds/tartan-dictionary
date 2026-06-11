@@ -1,13 +1,20 @@
 ---
-title: "Filipino American Corporate Tartan Tartan Number: 10659. Earliest known date: 16/07/2012 Designed to commemorate Filipino-Americans, their traditions and their values. The colours of this tartan combine the Philippine Flag and the various colours of the warrior clan \"Bahags\" or loin cloths worn by the more than 160 tribes in the Philippine Islands. Developed for weaving by A Trivett on behalf of the Scottish Tartans Authority. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Filipino American"
 date: 2023-03-18
 ---
 In pattern [KRKGBGBWYWR](/patterns/krkgbgbwywr/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10659
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10659
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 16/07/2012 — Filipino American (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10659))
+- undated — Filipino American Corporate Tartan Tartan Number: 10659. Earliest known date: 16/07/2012 Designed to commemorate Filipino-Americans, their traditions and their values. The colours of this tartan combine the Philippine Flag and the various colours of the warrior clan "Bahags" or loin cloths worn by the more than 160 tribes in the Philippine Islands. Developed for weaving by A Trivett on behalf of the Scottish Tartans Authority. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10659))
 
 ## Thread count
 K/8 R6 K20 DG16 P6 DG16 DB32 LN8 Y4 LN8 R/60

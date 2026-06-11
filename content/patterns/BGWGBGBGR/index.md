@@ -18,5 +18,3 @@ BGWGBGBGR
 |---------------|
 | [Glenfeshie (Personal)](/setts/s9/r8g6b6g88b32g20w4g4b4-b6c0070-g006818-rc8002c-wfcfcfc/)|
 |![Glenfeshie (Personal) example sett](/setts/s9/r8g6b6g88b32g20w4g4b4-b6c0070-g006818-rc8002c-wfcfcfc/sett.png)|
-| [Glenfeshie (Personal)](/setts/s9/r8g6b6g88b32g20w4g4b4-b6c0070-g006818-rc8002c-wfcfcfc/)|
-|![Glenfeshie (Personal) example sett](/setts/s9/r8g6b6g88b32g20w4g4b4-b6c0070-g006818-rc8002c-wfcfcfc/sett.png)|

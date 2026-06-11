@@ -1,13 +1,20 @@
 ---
-title: "Cairn (Fashion)"
+title: "Cairn (Marton Mills)"
 date: 2023-03-18
 ---
 In pattern [KWKWK](/patterns/kwkwk/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6010/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=461
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Cairn (Marton Mills) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=461))
+- pre 2003 — Cairn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6010/))
 
 ## Thread count
 K/8 LN64 K64 LN8 K/16

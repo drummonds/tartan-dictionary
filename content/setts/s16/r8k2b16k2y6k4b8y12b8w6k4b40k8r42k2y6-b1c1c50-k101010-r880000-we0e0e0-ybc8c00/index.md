@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7434/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Westmeath County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7434/))
+- 01/05/2005 — Westmeath County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5398))
+
 ## Thread count
 DR/8 K2 DB16 K2 DY6 K4 DB8 DY12 DB8 LN6 K4 DB40 K8 DR42 K2 DY/6
 ![Sett](sett.png)

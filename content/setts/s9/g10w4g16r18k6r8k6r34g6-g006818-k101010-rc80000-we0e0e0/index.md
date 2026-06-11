@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1747 — Morrison (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3019))
+- 1747 — Morrison (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/998/))
+
 ## Thread count
 G/10 LN4 G16 R18 K6 R8 K6 R34 G/6
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s9/g10w4g16r18k6r8k6r34g6-g006818-k101010-rc80000-we0e0e0/
-/

@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2721
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1980 — MacPherson Dress Red (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2721))
+- 1980 — MacPherson Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1793/))
+- undated — MacPherson Red Dress Clan Tartan Tartan Number: 1793. Earliest known date: Date unknown There are a great number of variations of the Dress MacPherson, many of them modern trade designs which are popular with country dancers. Hugh Macpherson of Edinburgh, kiltmaker and tartan designer some decades ago, supplied samples of these to the Scottish Tartan Society around 1980. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1793))
+
 ## Thread count
 LN/10 P6 LN52 R40 LN6 R16 Y/6
 ![Sett](sett.png)

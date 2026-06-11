@@ -18,13 +18,9 @@ RKRKRKR
 
 | Tartans |
 |---------------|
-| [Sunderland of Scotland](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/)|
-|![Sunderland of Scotland example sett](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/sett.png)|
+| [Sunderland of Scotland (Fashion)](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/)|
+|![Sunderland of Scotland (Fashion) example sett](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/sett.png)|
 | [Scott Black & Grey (Corporate)](/setts/s7/r16k6r34k26r12k6r8-k101010-r888888/)|
 |![Scott Black & Grey (Corporate) example sett](/setts/s7/r16k6r34k26r12k6r8-k101010-r888888/sett.png)|
 | [Dunbar, John Telfer (Personal)](/setts/s7/r10k4r56k20r52k8r8-k101010-r883000/)|
 |![Dunbar, John Telfer (Personal) example sett](/setts/s7/r10k4r56k20r52k8r8-k101010-r883000/sett.png)|
-| [Sunderland of Scotland (Fashion)](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/)|
-|![Sunderland of Scotland (Fashion) example sett](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/sett.png)|
-| [Sunderland of Scotland Fashion Tartan Tartan Number: 7511. Earliest known date: July 2007 Woven by Lochcarron for Lyle & Scott of Hawick. Count & sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/)|
-|![Sunderland of Scotland Fashion Tartan Tartan Number: 7511. Earliest known date: July 2007 Woven by Lochcarron for Lyle & Scott of Hawick. Count & sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r4k84r20k12r20k36ra4-k101010-r888888-rac80000/sett.png)|

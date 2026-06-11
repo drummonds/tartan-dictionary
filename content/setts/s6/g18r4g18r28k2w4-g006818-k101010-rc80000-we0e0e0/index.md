@@ -1,13 +1,20 @@
 ---
-title: "MacGregor of Balquhidder Clan Tartan Tartan Number: 988. Earliest known date: 1831 This sett is shown in the earliest publication of clan tartans. James Logan collected material for, 'The Scottish Gael', around 1826 and published in 1831. A number of minor anomilies in Logans method of recording tartans has led to errors appearing in some versions of the sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacGregor of Balquidder (Logan)"
 date: 2023-03-18
 ---
 In pattern [GRGRKW](/patterns/grgrkw/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=988
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2456
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — MacGregor of Balquidder (Logan) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2456))
+- undated — MacGregor of Balquhidder Clan Tartan Tartan Number: 988. Earliest known date: 1831 This sett is shown in the earliest publication of clan tartans. James Logan collected material for, 'The Scottish Gael', around 1826 and published in 1831. A number of minor anomilies in Logans method of recording tartans has led to errors appearing in some versions of the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=988))
 
 ## Thread count
 G/18 R4 G18 R28 K2 LN/4

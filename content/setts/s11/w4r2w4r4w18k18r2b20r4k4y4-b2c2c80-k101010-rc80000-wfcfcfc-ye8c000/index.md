@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1950 — Cameron of Erracht Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496))
+- pre 1950 — Cameron of Erracht Dress (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1871/))
+
 ## Thread count
 W/4 R2 W4 R4 W18 K18 R2 DB20 R4 K4 Y/4
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/w4r2w4r4w18k18r2b20r4k4y4-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/
-e8c000/

@@ -18,5 +18,3 @@ KWKRKWKWKY
 |---------------|
 | [Little, Arisaid](/setts/s10/k20w16k16r16k16w28k8w28k32y4-k000000-ra02828-we0e0e0-yfcb404/)|
 |![Little, Arisaid example sett](/setts/s10/k20w16k16r16k16w28k8w28k32y4-k000000-ra02828-we0e0e0-yfcb404/sett.png)|
-| [Little, Arisaid (Name)](/setts/s10/k20w16k16r16k16w28k8w28k32y4-k000000-ra02828-we0e0e0-yfcb404/)|
-|![Little, Arisaid (Name) example sett](/setts/s10/k20w16k16r16k16w28k8w28k32y4-k000000-ra02828-we0e0e0-yfcb404/sett.png)|

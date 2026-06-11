@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=483
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2007 — Callaghan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=483))
+- August 2007 — Callaghan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7299/))
+
 ## Thread count
 DBa/10 DR2 DBa82 DG16 DBa16 Y2 DBa/10
 ![Sett](sett.png)

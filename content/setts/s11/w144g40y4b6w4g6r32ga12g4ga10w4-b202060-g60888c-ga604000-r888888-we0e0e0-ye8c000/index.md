@@ -9,6 +9,13 @@ This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/str
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1794
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Stewart Blue Dress Clan Tartan Tartan Number: 1794. Earliest known date: 1977 May have originated at Peter MacArthurs in the 1970s, but was very popular at Kinloch Andersons shop in Leith. Information from Colin Hutcheson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1794))
+- undated — Stewart MB design Tartan Tartan Number: 17944. Earliest known date: Not the exact pattern but very similar to the Stewart Blue Dress. Available as scarf from LonaScott. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=17944))
+
 ## Thread count
 LN/144 B40 Y4 DB6 LN4 B6 N32 T12 B4 T10 LN/4
 ![Sett](sett.png)

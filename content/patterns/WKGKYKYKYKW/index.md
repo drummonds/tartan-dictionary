@@ -18,5 +18,3 @@ WKGKYKYKYKW
 |---------------|
 | [Vaughan (Welsh Series)](/setts/s11/w2k35g30k3y30k2y4k2y30k3w2-g00643c-k101010-wfcfcfc-ydc943c/)|
 |![Vaughan (Welsh Series) example sett](/setts/s11/w2k35g30k3y30k2y4k2y30k3w2-g00643c-k101010-wfcfcfc-ydc943c/sett.png)|
-| [Vaughan (Welsh Name)](/setts/s11/w2k35g30k3y30k2y4k2y30k3w2-g00643c-k101010-wfcfcfc-ydc943c/)|
-|![Vaughan (Welsh Name) example sett](/setts/s11/w2k35g30k3y30k2y4k2y30k3w2-g00643c-k101010-wfcfcfc-ydc943c/sett.png)|

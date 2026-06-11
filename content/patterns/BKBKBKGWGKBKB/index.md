@@ -18,8 +18,6 @@ BKBKBKGWGKBKB
 |---------------|
 | [Lamont #3](/setts/s13/b46k6b6k6b6k44g44w6g44k44b36k6b6-b1474b4-g006818-k101010-wfcfcfc/)|
 |![Lamont #3 example sett](/setts/s13/b46k6b6k6b6k44g44w6g44k44b36k6b6-b1474b4-g006818-k101010-wfcfcfc/sett.png)|
-| [Lamont (Clan)](/setts/s13/b46k6b6k6b6k44g44w6g44k44b36k6b6-b1474b4-g006818-k101010-wfcfcfc/)|
-|![Lamont (Clan) example sett](/setts/s13/b46k6b6k6b6k44g44w6g44k44b36k6b6-b1474b4-g006818-k101010-wfcfcfc/sett.png)|
 | [Scottish Heritage Preservation (Corp](/setts/s13/b44k4b4k4b4k36g16w4g16k32b32k4b4-b780078-g006818-k101010-wc0c0c0/)|
 |![Scottish Heritage Preservation (Corp example sett](/setts/s13/b44k4b4k4b4k36g16w4g16k32b32k4b4-b780078-g006818-k101010-wc0c0c0/sett.png)|
 | [Lamont](/setts/s13/b3k1b1k1b1k4g4w1g4k4b4k1b1-b000064-g004c00-k000000-wd0d0d0/)|

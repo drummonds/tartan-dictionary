@@ -18,8 +18,6 @@ RGBKBKGKGKGKY
 |---------------|
 | [MacInnes](/setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b2c2c80-ba5c8ca8-g285800-k101010-rc80000-ye8c000/)|
 |![MacInnes example sett](/setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b2c2c80-ba5c8ca8-g285800-k101010-rc80000-ye8c000/sett.png)|
-| [MacInnes (Clan)](/setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b2c2c80-ba5c8ca8-g285800-k101010-rc80000-ye8c000/)|
-|![MacInnes (Clan) example sett](/setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b2c2c80-ba5c8ca8-g285800-k101010-rc80000-ye8c000/sett.png)|
 | [MacInnes](/setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b304080-ba5480b0-g008000-k000000-rc00000-yf0c000/)|
 |![MacInnes example sett](/setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b304080-ba5480b0-g008000-k000000-rc00000-yf0c000/sett.png)|
 | [MacInnes](/setts/s13/r4g12b24k6ba6k6g32k4g4k4g4k24y4-b000052-ba4367ae-g11450d-k000000-raa0000-yaaaa00/)|

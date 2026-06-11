@@ -1,13 +1,20 @@
 ---
-title: "Mina Perhonen (Corporate)"
+title: "Mina Perhonen"
 date: 2023-03-18
 ---
 In pattern [WKYBBKY](/patterns/wkybbky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5797/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2960
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Mina Perhonen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2960))
+- pre 2003 — Mina Perhonen (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5797/))
 
 ## Thread count
 LN/8 DB48 Y4 Ba48 B10 DB8 Y/8

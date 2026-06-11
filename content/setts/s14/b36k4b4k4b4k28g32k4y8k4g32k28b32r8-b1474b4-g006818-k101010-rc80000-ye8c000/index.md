@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1906 — MacLeod of Skye (Johnston) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2642))
+- 1906 — MacLeod of Skye (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/263/))
+
 ## Thread count
 B/36 K4 B4 K4 B4 K28 G32 K4 Y8 K4 G32 K28 B32 R/8
 ![Sett](sett.png)

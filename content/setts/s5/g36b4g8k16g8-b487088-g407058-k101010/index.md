@@ -1,13 +1,20 @@
 ---
-title: "Peterhead (Fashion)"
+title: "Peterhead (Personal)"
 date: 2023-03-18
 ---
 In pattern [GBGKG](/patterns/gbgkg/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2368/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3331
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/1997 — Peterhead (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3331))
+- 1997 — Peterhead (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2368/))
 
 ## Thread count
 G/36 B4 G8 K16 G/8
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/36 B4 G8 K16 G/8 tartan")
 
 ID: /setts/s5/g36b4g8k16g8-b487088-g407058-k101010/
-010/

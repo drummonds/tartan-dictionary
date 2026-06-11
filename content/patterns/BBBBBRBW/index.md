@@ -20,5 +20,3 @@ BBBBBRBW
 |---------------|
 | [Browne (Personal)](/setts/s8/b20ba2b2ba2b2r47ba24w2-b5c5c5c-ba2c2c80-r888888-we0e0e0/)|
 |![Browne (Personal) example sett](/setts/s8/b20ba2b2ba2b2r47ba24w2-b5c5c5c-ba2c2c80-r888888-we0e0e0/sett.png)|
-| [Browne, Thomas (Personal)](/setts/s8/b20ba2b2ba2b2r47ba24w2-b5c5c5c-ba2c2c80-r888888-we0e0e0/)|
-|![Browne, Thomas (Personal) example sett](/setts/s8/b20ba2b2ba2b2r47ba24w2-b5c5c5c-ba2c2c80-r888888-we0e0e0/sett.png)|

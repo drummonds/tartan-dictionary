@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7100/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- May 2002 — Gravesend Grammar School (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7100/))
+- 01/02/2007 — Gravesend Grammar School for Girls (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1516))
+
 ## Thread count
 DB/8 G5 DB72 DBa72 LP5 DBa16 LP5 DBa72 DB72 G5 DB/8
 ![Sett](sett.png)

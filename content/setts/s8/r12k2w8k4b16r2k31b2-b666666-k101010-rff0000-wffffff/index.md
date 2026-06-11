@@ -1,13 +1,20 @@
 ---
-title: "Distripress Annual Congress 2012 Corporate Tartan Tartan Number: 10697. Earliest known date: 13 September 2012 Designed for the 2012 Distripress Annual Congress held in Glasgow, Scotland. Distripress (association for the promotion of the global circulation of the press) is a non-political and nonprofit making association of companies, non profit organisations and individuals of repute, engaged in the national and international circulation of publications (newspapers, magazines, periodicals and paperback books etc). The Distripress association colours of black, red and white are used here with added greys. The central broad red line is twelve threads wide denoting the conference year 2012. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Distripress Annual Congress 2012"
 date: 2023-03-18
 ---
 In pattern [BKRBKWKR](/patterns/bkrbkwkr/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10697
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10697
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 22/08/2012 — Distripress Annual Congress 2012 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10697))
+- undated — Distripress Annual Congress 2012 Corporate Tartan Tartan Number: 10697. Earliest known date: 13 September 2012 Designed for the 2012 Distripress Annual Congress held in Glasgow, Scotland. Distripress (association for the promotion of the global circulation of the press) is a non-political and nonprofit making association of companies, non profit organisations and individuals of repute, engaged in the national and international circulation of publications (newspapers, magazines, periodicals and paperback books etc). The Distripress association colours of black, red and white are used here with added greys. The central broad red line is twelve threads wide denoting the conference year 2012. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10697))
 
 ## Thread count
 N/2 K31 R2 N16 K4 W8 K2 R/12

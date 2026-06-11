@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3294
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2003 — Parkhead (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3294))
+- pre 2004 — Parkhead (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6220/))
+
 ## Thread count
 Ga/4 K4 Ga36 K28 Y4 Ga20 G16 W8 G4 W4 Ga/4
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/g4k4g36k28y4g20ga16w8ga4w4g4-g006818-ga289c18-k101010-wfcfcfc-ye8c000/
-8c000/

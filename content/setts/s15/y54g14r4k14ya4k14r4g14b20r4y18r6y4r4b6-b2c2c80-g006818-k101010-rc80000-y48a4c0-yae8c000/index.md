@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3047
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Mungall (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3047))
+- 2002 — Mungall (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4070/))
+
 ## Thread count
 B/54 G14 R4 K14 Y4 K14 R4 G14 DB20 R4 B18 R6 B4 R4 DB/6
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s15/y54g14r4k14ya4k14r4g14b20r4y18r6y4r4b6-b2c2c80-g006818-k101010-rc80000-y48a4c0-yae8c000/
-0/

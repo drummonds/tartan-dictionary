@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2923
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1815 — Menzies (1815) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2923))
+- pre 1815 — Menzies 1815 - Cockburn (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1699/))
+
 ## Thread count
 R/144 W16 R12 W16 R24 W8 R4 W/48
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/144 W16 R12 W16 R24 W8 R4 W/48 tartan")
 
 ID: /setts/s8/r144w16r12w16r24w8r4w48-rc80000-wfcfcfc/
-cfc/

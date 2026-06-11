@@ -1,13 +1,20 @@
 ---
-title: "Oriel Irish District Tartan Tartan Number: 2166. Earliest known date: 1994 Details of this sett were sent to the Scottish Tartans Society by Dr. Phil Smith in 1994. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Oriel #1 (District)"
 date: 2023-03-18
 ---
 In pattern [RBRGKGRKR](/patterns/rbrgkgrkr/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2166
+Original link http://www.tartansauthority.com/tartan-ferret/display/2166/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1992 — Oriel #1 (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2166/))
+- undated — Oriel Irish District Tartan Tartan Number: 2166. Earliest known date: 1994 Details of this sett were sent to the Scottish Tartans Society by Dr. Phil Smith in 1994. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2166))
 
 ## Thread count
 R/24 DB4 R6 G40 K8 G40 R60 K4 R/2

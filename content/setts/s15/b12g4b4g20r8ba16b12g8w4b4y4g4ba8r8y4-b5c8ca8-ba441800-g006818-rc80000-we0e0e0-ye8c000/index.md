@@ -1,13 +1,21 @@
 ---
-title: "Haliburton Canadian Tartan Tartan Number: 147. Earliest known date: 1978 From Miss Sinclair. Registration number is possibly a Canadian Patent Office number. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Highlands of Haliburton (District)"
 date: 2023-03-18
 ---
 In pattern [BGBGRBBGWBYGBRY](/patterns/bgbgrbbgwbygbry/).
 
 
-This was sourced from house-of-tartan.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=147
+Original link http://www.tartansauthority.com/tartan-ferret/display/147/
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 1963 — Highlands of Haliburton (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/147/))
+- 01/01/1970 — Highlands of Haliburton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1571))
+- undated — Haliburton Canadian Tartan Tartan Number: 147. Earliest known date: 1978 From Miss Sinclair. Registration number is possibly a Canadian Patent Office number. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=147))
 
 ## Thread count
 B/12 G4 B4 G20 R8 DR16 B12 G8 LN4 B4 Y4 G4 DR8 R8 Y/4

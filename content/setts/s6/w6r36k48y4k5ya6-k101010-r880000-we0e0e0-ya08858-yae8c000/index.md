@@ -1,13 +1,20 @@
 ---
-title: "Drambuie (Corporate)"
+title: "Drambuie"
 date: 2023-03-18
 ---
 In pattern [WRKYKY](/patterns/wrkyky/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2474/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=972
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Drambuie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=972))
+- 1998 — Drambuie (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2474/))
 
 ## Thread count
 LN/6 DR36 K48 LT4 K5 Y/6

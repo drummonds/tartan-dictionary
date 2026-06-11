@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3527
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Robertson 1819 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3527))
+- 1819 — Robertson - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1501/))
+
 ## Thread count
 R/6 G6 R70 DB6 R6 DB70 R6 G70 R6 DB6 R70 G6 R/6
 ![Sett](sett.png)

@@ -20,5 +20,3 @@ RWBWKGKY
 |---------------|
 | [Culloden 1746 - Original](/setts/s8/r20w4b40wa8k40g40k4y12-b003c64-g5c6428-k101010-rc80000-w98c8e8-wafcfcfc-ye8c000/)|
 |![Culloden 1746 - Original example sett](/setts/s8/r20w4b40wa8k40g40k4y12-b003c64-g5c6428-k101010-rc80000-w98c8e8-wafcfcfc-ye8c000/sett.png)|
-| [Culloden - 1746 (Original)](/setts/s8/r20w4b40wa8k40g40k4y12-b003c64-g5c6428-k101010-rc80000-w98c8e8-wafcfcfc-ye8c000/)|
-|![Culloden - 1746 (Original) example sett](/setts/s8/r20w4b40wa8k40g40k4y12-b003c64-g5c6428-k101010-rc80000-w98c8e8-wafcfcfc-ye8c000/sett.png)|

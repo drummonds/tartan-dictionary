@@ -20,5 +20,3 @@ KYWYKR
 |---------------|
 | [Canyon County Idaho Sheriff](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/)|
 |![Canyon County Idaho Sheriff example sett](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/sett.png)|
-| [Canyon County Idaho Sheriff (Corp)](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/)|
-|![Canyon County Idaho Sheriff (Corp) example sett](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/sett.png)|

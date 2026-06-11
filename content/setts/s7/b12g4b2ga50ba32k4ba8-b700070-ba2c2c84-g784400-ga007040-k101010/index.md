@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Lawrie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070))
+- 2000 — Lawrie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4219/))
+
 ## Thread count
 DB/8 K4 DB32 G50 P2 T4 P/12
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 K4 DB32 G50 P2 T4 P/12 tartan")
 
 ID: /setts/s7/b12g4b2ga50ba32k4ba8-b700070-ba2c2c84-g784400-ga007040-k101010/
-0/

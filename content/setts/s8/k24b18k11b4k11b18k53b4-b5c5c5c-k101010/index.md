@@ -1,13 +1,20 @@
 ---
-title: "Spirit of Glyndwr Grey Welsh Fashion Tartan Tartan Number: 8350. Earliest known date: 20th May 2010 A modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland. Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Spirit of Glyndwr Grey (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKBK](/patterns/bkbkbkbk/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8350
+Original link http://www.tartansauthority.com/tartan-ferret/display/8350/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 20th May 2010 — Spirit of Glyndwr Grey (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8350/))
+- undated — Spirit of Glyndwr Grey Welsh Fashion Tartan Tartan Number: 8350. Earliest known date: 20th May 2010 A modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland. Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8350))
 
 ## Thread count
 K/24 N18 K11 N4 K11 N18 K53 N/4

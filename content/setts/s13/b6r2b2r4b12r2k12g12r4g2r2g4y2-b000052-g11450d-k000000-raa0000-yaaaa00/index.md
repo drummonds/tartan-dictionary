@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [13 stripes tartan](/stripes/stripes13
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Carnegie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Carnegie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DB/6 DR2 DB2 DR4 DB12 DR2 K12 DG12 DR4 DG2 DR2 DG4 LG/2
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Jedforest (District)"
+title: "Jedforest"
 date: 2023-03-18
 ---
 In pattern [KBGRGRGKBKBK](/patterns/kbgrgrgkbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5301/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1888
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Jedforest (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1888))
+- pre 1996 — Jedforest (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5301/))
 
 ## Thread count
 K/8 DB4 G48 R2 G4 R2 G4 K40 DB48 K2 DB4 K/8

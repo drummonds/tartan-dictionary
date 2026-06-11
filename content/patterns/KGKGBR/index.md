@@ -20,8 +20,6 @@ KGKGBR
 |---------------|
 | [Morrison Society](/setts/s6/k6g28k28g4b28r6-b1474b4-g006818-k101010-rc80000/)|
 |![Morrison Society example sett](/setts/s6/k6g28k28g4b28r6-b1474b4-g006818-k101010-rc80000/sett.png)|
-| [Morrison Society (Clan)](/setts/s6/k6g28k28g4b28r6-b1474b4-g006818-k101010-rc80000/)|
-|![Morrison Society (Clan) example sett](/setts/s6/k6g28k28g4b28r6-b1474b4-g006818-k101010-rc80000/sett.png)|
 | [Morrison](/setts/s6/k3g14k14g2b14r3-b000064-g004c00-k000000-rc80000/)|
 |![Morrison example sett](/setts/s6/k3g14k14g2b14r3-b000064-g004c00-k000000-rc80000/sett.png)|
 | [Morrison](/setts/s6/k6g28k28g4b28r6-b304080-g008000-k000000-rc00000/)|

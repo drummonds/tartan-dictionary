@@ -1,13 +1,20 @@
 ---
-title: "Gleneagles (Fashion)"
+title: "Gleneagles"
 date: 2023-03-18
 ---
 In pattern [KRKRWRK](/patterns/krkrwrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5030/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1410
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1987 — Gleneagles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1410))
+- 1987 — Gleneagles (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5030/))
 
 ## Thread count
 K/2 LT4 K36 LT1 W35 LT4 K/4

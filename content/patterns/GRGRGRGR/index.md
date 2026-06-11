@@ -22,8 +22,6 @@ GRGRGRGR
 |![KaDeWe example sett](/setts/s8/r200g8r16g36r6g36r16g8-g003820-r880000/sett.png)|
 | [Menzies](/setts/s8/g96r8g4r8g12r4g6r18-g006818-rc80000/)|
 |![Menzies example sett](/setts/s8/g96r8g4r8g12r4g6r18-g006818-rc80000/sett.png)|
-| [Menzies (Clan)](/setts/s8/g96r8g4r8g12r4g6r18-g006818-rc80000/)|
-|![Menzies (Clan) example sett](/setts/s8/g96r8g4r8g12r4g6r18-g006818-rc80000/sett.png)|
 | [Kyle Green (Name)](/setts/s8/r108g12r10g12r20g6r4g36-g006818-rc80000/)|
 |![Kyle Green (Name) example sett](/setts/s8/r108g12r10g12r20g6r4g36-g006818-rc80000/sett.png)|
 | [Aukland & District Pipe Band (Corp)](/setts/s8/g164r20g6r20g23r14g4r36-g006818-rc8002c/)|

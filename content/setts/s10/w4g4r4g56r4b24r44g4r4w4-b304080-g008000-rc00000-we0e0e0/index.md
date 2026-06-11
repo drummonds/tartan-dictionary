@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [10 stripes tartan](/stripes/stripes10
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Glen Tilt (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Unidentified, Specimen (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+
 ## Thread count
 LN/4 G4 R4 G56 R4 B24 R44 G4 R4 LN/4
 ![Sett](sett.png)

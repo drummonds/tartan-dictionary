@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7578/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Barra, Fuschia (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7578/))
+- undated — Barra Fuschia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5602))
+
 ## Thread count
 P/12 W12 LR6 W60 P40 N12 Na2 W16 Na2 N8 W4 N14 Na2 W/12
 ![Sett](sett.png)

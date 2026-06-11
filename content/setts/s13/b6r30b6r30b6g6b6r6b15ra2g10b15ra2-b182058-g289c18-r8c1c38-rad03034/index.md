@@ -1,13 +1,21 @@
 ---
-title: "Great Dane, The Corporate Tartan Tartan Number: 7213. Earliest known date: 2006 The Great Dane (Scottish shop) in Denmark promotes Irish and Scottish pubs, cultural events and folk music. This tartan uses the business corporate colours. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Great Dane, The"
 date: 2023-03-18
 ---
 In pattern [BRBRBGBRBRGBR](/patterns/brbrbgbrbrgbr/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7213
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1520
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2006 — Great Dane, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1520))
+- pre 2006 — Great Dane, The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7213/))
+- undated — Great Dane, The Corporate Tartan Tartan Number: 7213. Earliest known date: 2006 The Great Dane (Scottish shop) in Denmark promotes Irish and Scottish pubs, cultural events and folk music. This tartan uses the business corporate colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7213))
 
 ## Thread count
 DBb/6 DR30 DBb6 DR30 DBb6 G6 DBb6 DR6 DBb15 R2 G10 DBb15 R/2

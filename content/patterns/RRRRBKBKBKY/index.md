@@ -18,5 +18,3 @@ RRRRBKBKBKY
 |---------------|
 | [Dryburgh](/setts/s11/r4ra4r4ra32b20k6b4k4b4k20y4-b6c5454-k101010-r907c80-rabc4c10-ydcc010/)|
 |![Dryburgh example sett](/setts/s11/r4ra4r4ra32b20k6b4k4b4k20y4-b6c5454-k101010-r907c80-rabc4c10-ydcc010/sett.png)|
-| [Dryburgh (Name)](/setts/s11/r4ra4r4ra32b20k6b4k4b4k20y4-b6c5454-k101010-r907c80-rabc4c10-ydcc010/)|
-|![Dryburgh (Name) example sett](/setts/s11/r4ra4r4ra32b20k6b4k4b4k20y4-b6c5454-k101010-r907c80-rabc4c10-ydcc010/sett.png)|

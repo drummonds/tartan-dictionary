@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1969 — Rattray (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467))
+- pre 1969 — Rattray (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/819/))
+
 ## Thread count
 G/71 K4 R4 P9 R4 P4 R36 P4 W/4
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s9/g71k4r4b9r4b4r36b4w4-b780078-g006818-k101010-rc80000-wfcfcfc/
-/

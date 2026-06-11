@@ -18,7 +18,5 @@ RGKY
 
 | Tartans |
 |---------------|
-| [Brooks Brothers](/setts/s4/r4g44k44y4-g006818-k101010-r880000-yd09800/)|
-|![Brooks Brothers example sett](/setts/s4/r4g44k44y4-g006818-k101010-r880000-yd09800/sett.png)|
 | [Brooks Brothers (Corporate)](/setts/s4/r4g44k44y4-g006818-k101010-r880000-yd09800/)|
 |![Brooks Brothers (Corporate) example sett](/setts/s4/r4g44k44y4-g006818-k101010-r880000-yd09800/sett.png)|

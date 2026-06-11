@@ -1,13 +1,20 @@
 ---
-title: "Shiel Purple"
+title: "Shiel, Purple (Dance)"
 date: 2023-03-18
 ---
 In pattern [WGBBWGW](/patterns/wgbbwgw/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5607
+Original link http://www.tartansauthority.com/tartan-ferret/display/7583/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Shiel, Purple (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7583/))
+- undated — Shiel Purple (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5607))
 
 ## Thread count
 LP/4 G4 W60 DP48 B20 G10 W/16
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LP/4 G4 W60 DP48 B20 G10 W/16 tartan")
 
 ID: /setts/s7/w16g10b20ba48w60g4wa4-b5c8ca8-ba440044-g006818-wf0e0c8-wac49cd8/
-cd8/

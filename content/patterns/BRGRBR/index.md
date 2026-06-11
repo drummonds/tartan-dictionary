@@ -34,14 +34,10 @@ BRGRBR
 |![MacKintosh Plaid example sett](/setts/s6/r32b12r4g12r4b2-b2c2c80-g285800-rc80000/sett.png)|
 | [Mar Dress](/setts/s6/b4r48g48r2b48r4-b2c2c80-g006818-ra00048/)|
 |![Mar Dress example sett](/setts/s6/b4r48g48r2b48r4-b2c2c80-g006818-ra00048/sett.png)|
-| [MacKintosh - 1819 (Clan)](/setts/s6/r70b20r10g40r10b3-b2c2c80-g006818-rc80000/)|
-|![MacKintosh - 1819 (Clan) example sett](/setts/s6/r70b20r10g40r10b3-b2c2c80-g006818-rc80000/sett.png)|
 | [Caledonian - 1819 (Fashion?)](/setts/s6/r60b20r8g45r8b2-b440044-g006818-rc80000/)|
 |![Caledonian - 1819 (Fashion?) example sett](/setts/s6/r60b20r8g45r8b2-b440044-g006818-rc80000/sett.png)|
 | [Mar, Red](/setts/s6/b4r48g48r2b48r4-b2c2c80-g006818-rd05054/)|
 |![Mar, Red example sett](/setts/s6/b4r48g48r2b48r4-b2c2c80-g006818-rd05054/sett.png)|
-| [Grant of Edinchat (Clan)](/setts/s6/b8r112g52r8b52r8-b2c2c80-g006818-rc04c08/)|
-|![Grant of Edinchat (Clan) example sett](/setts/s6/b8r112g52r8b52r8-b2c2c80-g006818-rc04c08/sett.png)|
 | [MacKintosh](/setts/s6/r48b12r6g24r8b2-b000064-g004c00-rc80000/)|
 |![MacKintosh example sett](/setts/s6/r48b12r6g24r8b2-b000064-g004c00-rc80000/sett.png)|
 | [MacKintosh D](/setts/s6/r44b10r4g22r6b2-b000064-g004c00-rc80000/)|
@@ -62,10 +58,6 @@ BRGRBR
 |![MacKintosh, Plaid example sett](/setts/s6/r32b12r4g12r4b2-b304080-g008000-rc00000/sett.png)|
 | [Mar](/setts/s6/b4r78g78r2b78r4-b304080-g008000-rc00000/)|
 |![Mar example sett](/setts/s6/b4r78g78r2b78r4-b304080-g008000-rc00000/sett.png)|
-| [MacKintosh](/setts/s6/r48b12r6g24r8b2-b000052-g11450d-raa0000/)|
-|![MacKintosh example sett](/setts/s6/r48b12r6g24r8b2-b000052-g11450d-raa0000/sett.png)|
-| [MacKintosh D](/setts/s6/r44b10r4g22r6b2-b000052-g11450d-raa0000/)|
-|![MacKintosh D example sett](/setts/s6/r44b10r4g22r6b2-b000052-g11450d-raa0000/sett.png)|
 | [MacKintosh](/setts/s6/r48b12r6g24r8b2-b000052-g11450d-raa0000/)|
 |![MacKintosh example sett](/setts/s6/r48b12r6g24r8b2-b000052-g11450d-raa0000/sett.png)|
 | [MacKintosh D](/setts/s6/r44b10r4g22r6b2-b000052-g11450d-raa0000/)|

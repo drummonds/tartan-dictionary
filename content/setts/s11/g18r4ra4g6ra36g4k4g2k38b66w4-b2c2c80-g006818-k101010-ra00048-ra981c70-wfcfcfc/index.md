@@ -1,13 +1,20 @@
 ---
-title: "Pride of Scotland (Fashion)"
+title: "Pride of Scotland"
 date: 2023-03-18
 ---
 In pattern [GRRGRGKGKBW](/patterns/grrgrgkgkbw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2469/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3375
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Pride of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3375))
+- pre 1997 — Pride of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2469/))
 
 ## Thread count
 G/18 R4 P4 G6 P36 G4 K4 G2 K38 DB66 W/4

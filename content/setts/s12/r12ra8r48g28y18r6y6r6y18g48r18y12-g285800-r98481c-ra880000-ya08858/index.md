@@ -1,13 +1,20 @@
 ---
-title: "Pierce (Name)"
+title: "Pierce"
 date: 2023-03-18
 ---
 In pattern [RRRGYRYRYGRY](/patterns/rrrgyryrygry/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4150/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3336
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Pierce (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3336))
+- Aug. 2000 — Pierce (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4150/))
 
 ## Thread count
 LT/12 T18 G48 LT18 T6 LT6 T6 LT18 G28 T48 DR8 T/12

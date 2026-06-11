@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4464
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1930 — Vipont (Yellow line) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4464))
+- 1930 — Vipont (Yellow line) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1491/))
+
 ## Thread count
 R/6 G28 K4 P4 G28 K72 Y/6
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3509/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacNeish (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3509/))
+- undated — MacNeish (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5200))
+
 ## Thread count
 G/4 R12 G48 R4 G8 R4 K20 G8 R48 K6 R6 G/12
 ![Sett](sett.png)

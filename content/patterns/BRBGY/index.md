@@ -20,5 +20,3 @@ BRBGY
 |---------------|
 | [McCarthy, Old](/setts/s5/b14r52b14g48y4-b202060-g003820-r880000-ye8c000/)|
 |![McCarthy, Old example sett](/setts/s5/b14r52b14g48y4-b202060-g003820-r880000-ye8c000/sett.png)|
-| [McCarthy, Old (Clan?)](/setts/s5/b14r52b14g48y4-b202060-g003820-r880000-ye8c000/)|
-|![McCarthy, Old (Clan?) example sett](/setts/s5/b14r52b14g48y4-b202060-g003820-r880000-ye8c000/sett.png)|

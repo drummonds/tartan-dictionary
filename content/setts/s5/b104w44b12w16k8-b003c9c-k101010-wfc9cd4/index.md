@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7638/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- May 2008 — Debbie Munro Memorial (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7638/))
+- undated — Debbie Munro Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5653))
+
 ## Thread count
 B/104 LP44 B12 LP16 K/8
 ![Sett](sett.png)

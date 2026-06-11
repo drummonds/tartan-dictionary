@@ -1,13 +1,20 @@
 ---
-title: "Terre De'Ecosse (Corporate)"
+title: "Terre De'Ecosse"
 date: 2023-03-18
 ---
 In pattern [WGKGKGKGYGKGKW](/patterns/wgkgkgkgygkgkw/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4037/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4095
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Terre De'Ecosse (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4095))
+- 2000 — Terre De'Ecosse (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4037/))
 
 ## Thread count
 LN/6 G14 K6 G6 K6 G6 K26 DG32 DY8 DG32 K26 G32 K6 LN/6

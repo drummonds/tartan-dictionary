@@ -1,13 +1,20 @@
 ---
-title: "Fed. of Circles & Solitaries"
+title: "Fed. of Circles & Solitaries (Corp.)"
 date: 2023-03-18
 ---
 In pattern [BKBBBRBYBG](/patterns/bkbbbrbybg/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5351
+Original link http://www.tartansauthority.com/tartan-ferret/display/6696/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2005 — Fed. of Circles & Solitaries (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6696/))
+- undated — Fed. of Circles & Solitaries (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5351))
 
 ## Thread count
 DB/18 K60 DB18 B6 DB10 R6 DB10 Y6 DB10 G/6

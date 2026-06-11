@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5735
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — North of Scotland Tartan Army (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5735))
+- pre 2008 — North of Scotland Tartan Army (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7755/))
+
 ## Thread count
 LN/4 N4 DB30 N6 LN6 K22 G28 DB6 G28 K22 P20 K6 P/6
 ![Sett](sett.png)

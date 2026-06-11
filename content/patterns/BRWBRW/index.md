@@ -18,7 +18,5 @@ BRWBRW
 
 | Tartans |
 |---------------|
-| [Little's](/setts/s6/b6r48w6b24ra48w6-b1c1c50-r888888-ra901c38-we0e0e0/)|
-|![Little's example sett](/setts/s6/b6r48w6b24ra48w6-b1c1c50-r888888-ra901c38-we0e0e0/sett.png)|
 | [Little's (Corporate)](/setts/s6/b6r48w6b24ra48w6-b1c1c50-r888888-ra901c38-we0e0e0/)|
 |![Little's (Corporate) example sett](/setts/s6/b6r48w6b24ra48w6-b1c1c50-r888888-ra901c38-we0e0e0/sett.png)|

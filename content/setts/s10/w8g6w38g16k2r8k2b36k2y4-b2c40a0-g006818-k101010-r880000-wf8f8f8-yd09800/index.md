@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=40
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2000 — Alberta Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=40))
+- Jul. 2000 — Alberta Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4218/))
+
 ## Thread count
 DY/4 K2 Ba36 K2 DR8 K2 G16 W38 G6 W/8
 ![Sett](sett.png)

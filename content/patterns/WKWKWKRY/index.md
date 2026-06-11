@@ -20,5 +20,3 @@ WKWKWKRY
 |---------------|
 | [Aberlour](/setts/s8/w46k8w8k8w8k44r46y10-k101010-r98481c-we8ccb8-ya08858/)|
 |![Aberlour example sett](/setts/s8/w46k8w8k8w8k44r46y10-k101010-r98481c-we8ccb8-ya08858/sett.png)|
-| [Aberlour (Corporate)](/setts/s8/w46k8w8k8w8k44r46y10-k101010-r98481c-we8ccb8-ya08858/)|
-|![Aberlour (Corporate) example sett](/setts/s8/w46k8w8k8w8k44r46y10-k101010-r98481c-we8ccb8-ya08858/sett.png)|

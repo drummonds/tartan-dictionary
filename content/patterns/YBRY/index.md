@@ -20,5 +20,3 @@ YBRY
 |---------------|
 | [Porcelanosa](/setts/s4/y48r18b46ya6-b5c5c5c-r888888-ya0a0a0-yae8c000/)|
 |![Porcelanosa example sett](/setts/s4/y48r18b46ya6-b5c5c5c-r888888-ya0a0a0-yae8c000/sett.png)|
-| [Porcelanosa (Corporate)](/setts/s4/y48r18b46ya6-b5c5c5c-r888888-ya0a0a0-yae8c000/)|
-|![Porcelanosa (Corporate) example sett](/setts/s4/y48r18b46ya6-b5c5c5c-r888888-ya0a0a0-yae8c000/sett.png)|

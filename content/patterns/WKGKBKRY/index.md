@@ -20,5 +20,3 @@ WKGKBKRY
 |---------------|
 | [German MacLeod](/setts/s8/w4k2g26k12b54k4r4y4-b1474b4-g006818-k101010-rc80000-w98c8e8-ye8c000/)|
 |![German MacLeod example sett](/setts/s8/w4k2g26k12b54k4r4y4-b1474b4-g006818-k101010-rc80000-w98c8e8-ye8c000/sett.png)|
-| [German MacLeod (Corporate)](/setts/s8/w4k2g26k12b54k4r4y4-b1474b4-g006818-k101010-rc80000-w98c8e8-ye8c000/)|
-|![German MacLeod (Corporate) example sett](/setts/s8/w4k2g26k12b54k4r4y4-b1474b4-g006818-k101010-rc80000-w98c8e8-ye8c000/sett.png)|

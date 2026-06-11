@@ -1,13 +1,20 @@
 ---
-title: "Louth, County (District)"
+title: "Louth, County"
 date: 2023-03-18
 ---
 In pattern [BBBYBRBGRBRR](/patterns/bbbybrbgrbrr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2277/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2234
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Louth, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2234))
+- 1997 — Louth, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2277/))
 
 ## Thread count
 B/96 DP8 B16 N4 B8 DO6 B8 DG28 DR14 B4 DR8 DO/4

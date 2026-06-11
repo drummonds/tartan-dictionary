@@ -1,13 +1,20 @@
 ---
-title: "Caledonian Cameron Commando (Corp)"
+title: "Caledonian Cameron Commando"
 date: 2023-03-18
 ---
 In pattern [RWKWKWKYGRKRWR](/patterns/rwkwkwkygrkrwr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5598/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=472
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1818 — Caledonian Cameron Commando (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=472))
+- 1818 — Caledonian Cameron Commando (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5598/))
 
 ## Thread count
 R/42 LB18 K4 LB4 K4 LB18 K36 Y6 DG42 R26 K6 R26 W4 R/26

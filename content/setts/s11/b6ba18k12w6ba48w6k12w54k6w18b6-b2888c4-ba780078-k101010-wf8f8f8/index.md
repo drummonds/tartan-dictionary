@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2754
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — MacRae, Dress Purple (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2754))
+- 2000 — MacRae - 2000 (Dress, Purple) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6530/))
+
 ## Thread count
 B/6 P18 K12 W6 P48 W6 K12 W54 K6 W18 B/6
 ![Sett](sett.png)

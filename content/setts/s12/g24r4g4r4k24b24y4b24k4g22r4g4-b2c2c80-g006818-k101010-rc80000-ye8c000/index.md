@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=34
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Akins of Candler (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=34))
+- pre 2004 — Akins Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6288/))
+
 ## Thread count
 G/4 R4 G22 K4 DB24 Y4 DB24 K24 R4 G4 R4 G/24
 ![Sett](sett.png)

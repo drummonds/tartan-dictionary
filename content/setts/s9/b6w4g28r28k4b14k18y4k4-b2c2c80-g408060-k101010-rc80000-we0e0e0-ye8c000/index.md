@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5815/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2003 — Black Hills (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5815/))
+- undated — Black Hills (South Dakota) American Corporate Tartan Tartan Number: 5815. Earliest known date: pre 2003 Designed by the Reverend John Pahls and woven by Kirkbright & Fraser of Vancouver. Phil Smith (June 2004) advises that it was commissioned by the Rev.Thomas and Elizabeth Campbell for the Black Hills Highland Games held in Sturgis, South Dakota. Another source states it is the unnofficial state tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5815))
+
 ## Thread count
 DB/6 LN4 G28 R28 K4 DB14 K18 Y4 K/4
 ![Sett](sett.png)

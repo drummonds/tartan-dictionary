@@ -1,13 +1,20 @@
 ---
-title: "Bijral (Name)"
+title: "Bijral"
 date: 2023-03-18
 ---
 In pattern [BKBKBKBKGRK](/patterns/bkbkbkbkgrk/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4009/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=260
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2000 — Bijral (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=260))
+- pre 2002 — Bijral (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4009/))
 
 ## Thread count
 B/4 K4 B10 K4 B4 K4 B8 K20 G20 R2 K/4

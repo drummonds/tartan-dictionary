@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5809
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2008 — Sea Dog Bamse, Pride of Norway (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5809))
+- Dec. 2008 — Sea Dog Bamse (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7858/))
+
 ## Thread count
 DB/6 DY4 DB64 R56 LN4 R4 LN4 R4 LN/6
 ![Sett](sett.png)

@@ -209,7 +209,6 @@ Tartan setts with 25 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Recovery Htg (Corporate)](/setts/s25/r4k4g32k4b4k4b4k4b4k4b32w4b8w4b32k4b4k4b4k4b4k4g32k4y4-b202044-g003820-k101010-rc80000-we0e0e0-ydc943c/) | tartans-authority |
 | 0.11 | [Recovery Hunting](/setts/s25/r4k4g32k4b4k4b4k4b4k4b32w4b8w4b32k4b4k4b4k4b4k4g32k4y4-b202044-g003820-k101010-rc80000-we0e0e0-ydc943c/) | register-of-tartans |
 
 ### RKGKYKBKWKBKGKGKGKGKGKBKW
@@ -226,7 +225,6 @@ Tartan setts with 25 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.08 | [Recovery Dress](/setts/s25/r4k4w32g4b4g4b4g4b4g4b32w4b8w4b32g4b4g4b4g4b4g4w32k4y4-b003c64-g00502c-k101010-rc80000-we0e0e0-ydc943c/) | register-of-tartans |
-| 0.08 | [Recovery Dress (Corporate)](/setts/s25/r4k4w32g4b4g4b4g4b4g4b32w4b8w4b32g4b4g4b4g4b4g4w32k4y4-b003c64-g00502c-k101010-rc80000-we0e0e0-ydc943c/) | tartans-authority |
 
 ### WBWBWKGWGKBKBKBKGYGKWBWBW
 <a class="pat" href="/patterns/wbwbwkgwgkbkbkbkgygkwbwbw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WBWBWKGWGKBKBKBKGYGKWBWBW</span></a>
@@ -234,7 +232,6 @@ Tartan setts with 25 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.05 | [Campbell Dress](/setts/s25/w8b4w32b8w6k16g16w4g16k16b16k4b8k4b16k16g16y4g16k16w6b8w32b4w8-b1474b4-g004c00-k000000-wfcfcfc-ye8c000/) | register-of-tartans |
-| 0.05 | [Campbell Dress (Clan)](/setts/s25/w8b4w32b8w6k16g16w4g16k16b16k4b8k4b16k16g16y4g16k16w6b8w32b4w8-b1474b4-g004c00-k000000-wfcfcfc-ye8c000/) | tartans-authority |
 
 ### WKRBRRRRRBRBYBRBRRRRRBRKW
 <a class="pat" href="/patterns/wkrbrrrrrbrbybrbrrrrrbrkw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WKRBRRRRRBRBYBRBRRRRRBRKW</span></a>

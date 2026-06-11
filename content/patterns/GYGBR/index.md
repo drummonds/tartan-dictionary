@@ -20,5 +20,3 @@ GYGBR
 |---------------|
 | [Miramichi](/setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/)|
 |![Miramichi example sett](/setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/sett.png)|
-| [Miramichi (P&D)](/setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/)|
-|![Miramichi (P&D) example sett](/setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/sett.png)|

@@ -20,10 +20,6 @@ WRGRGRGRGRGRGRWRW
 |![Rothesay (Red) example sett](/setts/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8-g006818-rc80000-wfcfcfc/sett.png)|
 | [Rothesay, Duke of](/setts/s17/w8r44g6r6g6r6g26r8g26r6g6r6g6r46w4r4w8-g006818-rc80000-we0e0e0/)|
 |![Rothesay, Duke of example sett](/setts/s17/w8r44g6r6g6r6g26r8g26r6g6r6g6r46w4r4w8-g006818-rc80000-we0e0e0/sett.png)|
-| [Rothesay, Red (Royal)](/setts/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8-g006818-rc80000-wfcfcfc/)|
-|![Rothesay, Red (Royal) example sett](/setts/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8-g006818-rc80000-wfcfcfc/sett.png)|
-| [Duke of Rothesay (Royal)](/setts/s17/w8r44g6r6g6r6g26r8g26r6g6r6g6r46w4r4w8-g006818-rc80000-we0e0e0/)|
-|![Duke of Rothesay (Royal) example sett](/setts/s17/w8r44g6r6g6r6g26r8g26r6g6r6g6r46w4r4w8-g006818-rc80000-we0e0e0/sett.png)|
 | [Rothesay](/setts/s17/w4r64g4r6g4r8g34r8g32r8g4r6g4r64w2r2w4-g003000-rc00000-we0e0e0/)|
 |![Rothesay example sett](/setts/s17/w4r64g4r6g4r8g34r8g32r8g4r6g4r64w2r2w4-g003000-rc00000-we0e0e0/sett.png)|
 | [Rothesay, Red](/setts/s17/w8r44g6r6g6r6g26r8g26r6g6r6g6r46w4r4w8-g008000-rc00000-we0e0e0/)|

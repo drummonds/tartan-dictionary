@@ -1,13 +1,20 @@
 ---
-title: "Chieftain's (Corporate)"
+title: "Chieftain's"
 date: 2023-03-18
 ---
 In pattern [BGKRWBGKRWBG](/patterns/bgkrwbgkrwbg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7240/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=632
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Chieftain's (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=632))
+- 2007 — Chieftain's (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7240/))
 
 ## Thread count
 B/32 G32 K4 R4 LY4 B8 G8 K4 R4 LY4 B32 G/32

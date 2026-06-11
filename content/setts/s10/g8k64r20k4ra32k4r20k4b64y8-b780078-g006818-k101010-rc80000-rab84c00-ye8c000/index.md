@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Tribal #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150))
+- July 2003 — Tribal (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5886/))
+
 ## Thread count
 G/8 K64 R20 K4 DO32 K4 R20 K4 P64 Y/8
 ![Sett](sett.png)

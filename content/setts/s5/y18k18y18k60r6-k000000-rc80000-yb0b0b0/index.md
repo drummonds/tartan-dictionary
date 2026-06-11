@@ -1,13 +1,20 @@
 ---
-title: "Burberry, Black (Original) (Fashion)"
+title: "Burberry Black"
 date: 2023-03-18
 ---
 In pattern [RKYKY](/patterns/rkyky/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3768/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Burberry Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039))
+- 1986 — Burberry, Black (Original) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3768/))
 
 ## Thread count
 N/18 K18 N18 K60 R/6

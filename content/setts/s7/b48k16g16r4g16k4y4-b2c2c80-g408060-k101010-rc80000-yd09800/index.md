@@ -1,13 +1,20 @@
 ---
-title: "MacLaren (Clan)"
+title: "MacLaren"
 date: 2023-03-18
 ---
 In pattern [BKGRGKY](/patterns/bkgrgky/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/342/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2594
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — MacLaren (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2594))
+- 1819 — MacLaren (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/342/))
 
 ## Thread count
 DB/48 K16 G16 R4 G16 K4 DY/4

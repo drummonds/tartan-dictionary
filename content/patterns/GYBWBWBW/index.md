@@ -20,5 +20,3 @@ GYBWBWBW
 |---------------|
 | [Jackson (Personal)](/setts/s8/g10y4b80w2ba30w2ba2w2-b780078-ba2c2c80-g006818-wfcfcfc-ye8c000/)|
 |![Jackson (Personal) example sett](/setts/s8/g10y4b80w2ba30w2ba2w2-b780078-ba2c2c80-g006818-wfcfcfc-ye8c000/sett.png)|
-| [Jackson (Name)](/setts/s8/g10y4b80w2ba30w2ba2w2-b780078-ba2c2c80-g006818-wfcfcfc-ye8c000/)|
-|![Jackson (Name) example sett](/setts/s8/g10y4b80w2ba30w2ba2w2-b780078-ba2c2c80-g006818-wfcfcfc-ye8c000/sett.png)|

@@ -18,5 +18,3 @@ BGKGWGWGR
 |---------------|
 | [Todd](/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/)|
 |![Todd example sett](/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/sett.png)|
-| [Todd (Name)](/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/)|
-|![Todd (Name) example sett](/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/sett.png)|

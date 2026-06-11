@@ -1,13 +1,20 @@
 ---
-title: "Bristow Helicopters (Corporate)"
+title: "Bristow Helicopters"
 date: 2023-03-18
 ---
 In pattern [BKWBKRKBWKBKBK](/patterns/bkwbkrkbwkbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2401/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=356
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/1997 — Bristow Helicopters (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=356))
+- 1998? — Bristow Helicopters (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2401/))
 
 ## Thread count
 DB/56 K2 W2 DB4 K2 R4 K2 DB4 W2 K2 DB30 K32 DB6 K/32

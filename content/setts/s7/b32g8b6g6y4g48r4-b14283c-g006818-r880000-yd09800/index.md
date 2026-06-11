@@ -1,13 +1,20 @@
 ---
-title: "St. Andrews Links (Corporate)"
+title: "St Andrews Links"
 date: 2023-03-18
 ---
 In pattern [BGBGYGR](/patterns/bgbgygr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2391/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3880
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 28/08/1997 — St Andrews Links (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3880))
+- May 1997 — St. Andrews Links (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2391/))
 
 ## Thread count
 DN/32 G8 DN6 G6 DY4 G48 DR/4

@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [14 stripes tartan](/stripes/stripes14
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Ross Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Ross Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DG/4 G8 DG4 G2 DG2 G2 DG6 K4 DG4 K4 DG24 DR2 DG4 DR/2
 ![Sett](sett.png)

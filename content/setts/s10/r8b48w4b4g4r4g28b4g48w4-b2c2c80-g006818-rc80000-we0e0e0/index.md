@@ -1,13 +1,20 @@
 ---
-title: "Tennessee State"
+title: "Tennessee State (US State)"
 date: 2023-03-18
 ---
 In pattern [RBWBGRGBGW](/patterns/rbwbgrgbgw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4998
+Original link http://www.tartansauthority.com/tartan-ferret/display/3067/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1999 — Tennessee State (US State) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3067/))
+- undated — Tennessee State (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4998))
 
 ## Thread count
 LN/4 G48 DB4 G28 R4 G4 DB4 LN4 DB48 R/8

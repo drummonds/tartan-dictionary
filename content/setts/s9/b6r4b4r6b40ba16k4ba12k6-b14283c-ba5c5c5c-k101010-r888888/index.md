@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3185/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Scottish Monuments (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3185/))
+- undated — Scottish Monuments (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5107))
+
 ## Thread count
 DN/6 Na4 DN4 Na6 DN40 N16 K4 N12 K/6
 ![Sett](sett.png)

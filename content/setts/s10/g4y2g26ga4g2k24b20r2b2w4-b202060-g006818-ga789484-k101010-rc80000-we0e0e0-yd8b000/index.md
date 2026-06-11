@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3763/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1993 — Bullman (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3763/))
+- undated — Bullman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4855))
+
 ## Thread count
 G/4 Y2 G26 LG4 G2 K24 DB20 R2 DB2 LN/4
 ![Sett](sett.png)
@@ -25,8 +32,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
-
-ID: /setts/s10/g4y2g26ga4g2k24b20r2b2w4-b202060-g006818-ga789484-k101010-rc80000-we0e0e0-yd8b000/
- contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s10/g4y2g26ga4g2k24b20r2b2w4-b202060-g006818-ga789484-k101010-rc80000-we0e0e0-yd8b000/

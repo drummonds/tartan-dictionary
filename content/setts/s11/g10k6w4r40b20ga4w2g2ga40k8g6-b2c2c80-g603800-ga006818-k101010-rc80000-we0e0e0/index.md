@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3340/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2000 — MacCulloch (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3340/))
+- 04/04/2004 — MacCulloch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5356))
+
 ## Thread count
 T/6 K8 G40 T2 LN2 G4 DB20 R40 LN4 K6 T/10
 ![Sett](sett.png)

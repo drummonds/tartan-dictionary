@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7452/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Dublin County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7452/))
+- 01/05/2005 — Dublin County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5050))
+
 ## Thread count
 DY/9 K8 DY30 K4 LP8 K4 DB24 K54 DR14 K4 N/8
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
 
 ID: /setts/s11/y9k8y30k4w8k4b24k54r14k4ya8-b2c2c80-k101010-r880000-wa8ace8-ybc8c00-yaa0a0a0/
-

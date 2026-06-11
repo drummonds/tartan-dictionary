@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/1978 — Jardine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881))
+- 1978 May — Jardine (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1432/))
+
 ## Thread count
 N/36 DO36 Na36 R4 LG4 DO36 LG4 R/4
 ![Sett](sett.png)

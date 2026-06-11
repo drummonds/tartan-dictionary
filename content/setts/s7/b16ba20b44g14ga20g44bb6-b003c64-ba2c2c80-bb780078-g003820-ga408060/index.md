@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=219
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2005 — Baron of Crawfordjohn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=219))
+- 2005 December — Baron of Crawfordjohn (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6864/))
+
 ## Thread count
 DB/16 DBa20 DB44 DG14 G20 DG44 P/6
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=603
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Celtic Football Club (2005) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=603))
+- 2005 January — Celtic Football Club (2005) (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6496/))
+
 ## Thread count
 DG/12 G6 DG44 K4 DG8 K28 G10 K6 LG10 K6 G40 K8 DY/8
 ![Sett](sett.png)

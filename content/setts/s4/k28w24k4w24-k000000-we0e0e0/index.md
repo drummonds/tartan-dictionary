@@ -1,5 +1,5 @@
 ---
-title: "Wallace dress"
+title: "MacFarlane, Lendrum Black and White"
 date: 2023-03-18
 ---
 In pattern [KWKW](/patterns/kwkw/).
@@ -8,6 +8,13 @@ In pattern [KWKW](/patterns/kwkw/).
 This was sourced from weddslist.  It is a [4 stripes tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacFarlane, Lendrum Black and White (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Wallace dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
 
 ## Thread count
 K/28 LN24 K4 LN/24
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/28 LN24 K4 LN/24 tartan")
 
 ID: /setts/s4/k28w24k4w24-k000000-we0e0e0/
-4w24-k000000-we0e0e0/

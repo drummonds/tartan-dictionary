@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4936
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1982 — Burnfoot Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4936))
+- 1982 — Burnfoot Check (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3773/))
+
 ## Thread count
 DB/4 LT20 DB4 K12 G6 N4 G4 DR/6
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7142/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2005 — Lady Boys of Bangkok (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7142/))
+- undated — Lady Boys of Bangkok (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5075))
+
 ## Thread count
 DY/18 LN6 R8 P52 R22 LT/23
 ![Sett](sett.png)

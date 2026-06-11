@@ -26,8 +26,6 @@ BKGR
 |![Unidentified No 60 example sett](/setts/s4/b12k10g10r2-b5a008c-g005020-k101010-rdc0000/sett.png)|
 | [Unidentified pattern #3](/setts/s4/b16k20g16r4-b2c4084-g005020-k101010-rdc0000/)|
 |![Unidentified pattern #3 example sett](/setts/s4/b16k20g16r4-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [Wilson's No.159](/setts/s4/b16k22g18r4-b780078-g006818-k101010-rc80000/)|
-|![Wilson's No.159 example sett](/setts/s4/b16k22g18r4-b780078-g006818-k101010-rc80000/sett.png)|
 | [Wilson's No.195](/setts/s4/r20g28k8b4-b2888c4-g006818-k101010-rc80000/)|
 |![Wilson's No.195 example sett](/setts/s4/r20g28k8b4-b2888c4-g006818-k101010-rc80000/sett.png)|
 | [Wilson's No.196](/setts/s4/r18g18k20b4-b2888c4-g006818-k101010-rc80000/)|

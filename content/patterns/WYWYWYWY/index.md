@@ -20,5 +20,3 @@ WYWYWYWY
 |---------------|
 | [Walk the Walk](/setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/)|
 |![Walk the Walk example sett](/setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/sett.png)|
-| [Walk the Walk (Corporate)](/setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/)|
-|![Walk the Walk (Corporate) example sett](/setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/sett.png)|

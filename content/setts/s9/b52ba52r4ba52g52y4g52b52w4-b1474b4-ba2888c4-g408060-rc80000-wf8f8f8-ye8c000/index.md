@@ -1,13 +1,20 @@
 ---
-title: "Royal Columbian (Fashion)"
+title: "Royal Columbian"
 date: 2023-03-18
 ---
 In pattern [BBRBGYGBW](/patterns/bbrbgygbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1900/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3599
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1968 — Royal Columbian (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3599))
+- 12.3.1968 — Royal Columbian (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1900/))
 
 ## Thread count
 B/52 Ba52 R4 Ba52 G52 Y4 G52 B52 W/4

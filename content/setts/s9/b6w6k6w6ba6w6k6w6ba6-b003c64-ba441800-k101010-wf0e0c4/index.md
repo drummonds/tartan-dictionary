@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3226/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1968 — Strathspey (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3226/))
+- undated — Strathspey Estate Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5229))
+
 ## Thread count
 DB/6 W6 K6 W6 DR6 W6 K6 W6 DR/6
 ![Sett](sett.png)

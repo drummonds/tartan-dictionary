@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1849
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Iona (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1849))
+- pre 2002 — Iona (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6858/))
+
 ## Thread count
 DR/16 N4 DR44 K20 DG12 K12 DG20 K12 DG20 Ga6 DG6 Ga/8
 ![Sett](sett.png)

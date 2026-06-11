@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2919
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Menteith (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2919))
+- pre 2002 — Menteith (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/929/))
+
 ## Thread count
 G/36 N4 G24 K28 DB28 K/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/36 N4 G24 K28 DB28 K/4 tartan")
 
 ID: /setts/s6/g36w4g24k28b28k4-b1c0070-g006818-k101010-wc0c0c0/
-c0c0/

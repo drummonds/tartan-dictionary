@@ -1,13 +1,20 @@
 ---
-title: "McEwan '1856', The (Corporate)"
+title: "McEwan '1856', The"
 date: 2023-03-18
 ---
 In pattern [BGBKGKR](/patterns/bgbkgkr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2299/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2880
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — McEwan '1856', The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2880))
+- 1997 — McEwan '1856', The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2299/))
 
 ## Thread count
 DB/4 T6 DB32 K36 G36 K4 R/4

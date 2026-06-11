@@ -18,5 +18,3 @@ RWRWRBWBGRBRW
 |---------------|
 | [Ritchie](/setts/s13/r6w4r6w4r28b12w6b12g32r12ba12r12w6-b1c0070-ba2474e8-g006818-r880000-wc0c0c0/)|
 |![Ritchie example sett](/setts/s13/r6w4r6w4r28b12w6b12g32r12ba12r12w6-b1c0070-ba2474e8-g006818-r880000-wc0c0c0/sett.png)|
-| [Ritchie (Name?)](/setts/s13/r6w4r6w4r28b12w6b12g32r12ba12r12w6-b1c0070-ba2474e8-g006818-r880000-wc0c0c0/)|
-|![Ritchie (Name?) example sett](/setts/s13/r6w4r6w4r28b12w6b12g32r12ba12r12w6-b1c0070-ba2474e8-g006818-r880000-wc0c0c0/sett.png)|

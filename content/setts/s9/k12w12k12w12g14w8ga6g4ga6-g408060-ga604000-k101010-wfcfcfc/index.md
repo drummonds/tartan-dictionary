@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=451
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1991 — Burns Heritage Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=451))
+- 1991 — Burns Heritage Check (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2206/))
+
 ## Thread count
 K/12 W12 K12 W12 Ga14 W8 T6 Ga4 T/6
 ![Sett](sett.png)

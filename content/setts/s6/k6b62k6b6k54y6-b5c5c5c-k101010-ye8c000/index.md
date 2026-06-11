@@ -1,13 +1,20 @@
 ---
-title: "Scottish National Party"
+title: "Scottish National Party (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KBKBKY](/patterns/kbkbky/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5791
+Original link http://www.tartansauthority.com/tartan-ferret/display/7839/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Nov. 2008 — Scottish National Party (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7839/))
+- undated — Scottish National Party (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5791))
 
 ## Thread count
 K/6 N62 K6 N6 K54 Y/6
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 N62 K6 N6 K54 Y/6 tartan")
 
 ID: /setts/s6/k6b62k6b6k54y6-b5c5c5c-k101010-ye8c000/
-e8c000/

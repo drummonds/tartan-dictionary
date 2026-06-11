@@ -20,5 +20,3 @@ WKBRKGKY
 |---------------|
 | [McGeachie (Personal)](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
 |![McGeachie (Personal) example sett](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [McGeachie (Personal)](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![McGeachie (Personal) example sett](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

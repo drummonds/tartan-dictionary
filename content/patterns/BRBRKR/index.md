@@ -20,5 +20,3 @@ BRBRKR
 |---------------|
 | [MacGregor, Modern](/setts/s6/b72r36b8r12k4ra4-b1c1c50-k101010-rc80000-ra888888/)|
 |![MacGregor, Modern example sett](/setts/s6/b72r36b8r12k4ra4-b1c1c50-k101010-rc80000-ra888888/sett.png)|
-| [MacGregor - 2004 (Pipe Band)](/setts/s6/b72r36b8r12k4ra4-b1c1c50-k101010-rc80000-ra888888/)|
-|![MacGregor - 2004 (Pipe Band) example sett](/setts/s6/b72r36b8r12k4ra4-b1c1c50-k101010-rc80000-ra888888/sett.png)|

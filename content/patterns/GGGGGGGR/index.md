@@ -20,5 +20,3 @@ GGGGGGGR
 |---------------|
 | [Tomass](/setts/s8/r8g4ga36gb4g8gb24gc8gb4-g503c28-ga003800-gb647c00-gc007800-r8c0000/)|
 |![Tomass example sett](/setts/s8/r8g4ga36gb4g8gb24gc8gb4-g503c28-ga003800-gb647c00-gc007800-r8c0000/sett.png)|
-| [Tomass (Name)](/setts/s8/r8g4ga36gb4g8gb24gc8gb4-g503c28-ga003800-gb647c00-gc007800-r8c0000/)|
-|![Tomass (Name) example sett](/setts/s8/r8g4ga36gb4g8gb24gc8gb4-g503c28-ga003800-gb647c00-gc007800-r8c0000/sett.png)|

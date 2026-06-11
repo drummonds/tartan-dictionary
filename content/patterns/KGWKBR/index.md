@@ -20,10 +20,6 @@ KGWKBR
 |---------------|
 | [Leslie Hunting](/setts/s6/k4g32w4k32b32r4-b202060-g006818-k101010-rc80000-we0e0e0/)|
 |![Leslie Hunting example sett](/setts/s6/k4g32w4k32b32r4-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Syme](/setts/s6/k4g32w4k32b32r4-b1c1c50-g408060-k101010-rc80000-wf8f8f8/)|
-|![Syme example sett](/setts/s6/k4g32w4k32b32r4-b1c1c50-g408060-k101010-rc80000-wf8f8f8/sett.png)|
-| [Leslie Htg - 1850 (Clan)](/setts/s6/k4g32w4k32b32r4-b202060-g006818-k101010-rc80000-we0e0e0/)|
-|![Leslie Htg - 1850 (Clan) example sett](/setts/s6/k4g32w4k32b32r4-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [Syme (Clan)](/setts/s6/k4g32w4k32b32r4-b1c1c50-g408060-k101010-rc80000-wf8f8f8/)|
 |![Syme (Clan) example sett](/setts/s6/k4g32w4k32b32r4-b1c1c50-g408060-k101010-rc80000-wf8f8f8/sett.png)|
 | [Leslie Hunting](/setts/s6/r4b16k16w2g16k2-b000064-g004c00-k000000-rc80000-wd0d0d0/)|

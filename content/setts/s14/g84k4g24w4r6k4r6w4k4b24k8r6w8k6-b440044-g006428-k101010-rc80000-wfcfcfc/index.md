@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2434
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1906 — MacFarlane Hunting (MacGregor Hastie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2434))
+- 1906 — MacFarlane Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/779/))
+
 ## Thread count
 G/84 K4 G24 W4 R6 K4 R6 W4 K4 DP24 K8 R6 W8 K/6
 ![Sett](sett.png)

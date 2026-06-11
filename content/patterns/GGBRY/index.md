@@ -18,7 +18,5 @@ GGBRY
 
 | Tartans |
 |---------------|
-| [McMoosie Htg](/setts/s5/g92ga46b46r8y8-b1870a4-g604000-ga00643c-rcc4438-ye8c000/)|
-|![McMoosie Htg example sett](/setts/s5/g92ga46b46r8y8-b1870a4-g604000-ga00643c-rcc4438-ye8c000/sett.png)|
 | [McMoosie Htg (Fashion)](/setts/s5/g92ga46b46r8y8-b1870a4-g604000-ga00643c-rcc4438-ye8c000/)|
 |![McMoosie Htg (Fashion) example sett](/setts/s5/g92ga46b46r8y8-b1870a4-g604000-ga00643c-rcc4438-ye8c000/sett.png)|

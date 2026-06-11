@@ -18,8 +18,6 @@ GKRBRBRBW
 |---------------|
 | [Rattray](/setts/s9/g71k4r4b9r4b4r36b4w4-b780078-g006818-k101010-rc80000-wfcfcfc/)|
 |![Rattray example sett](/setts/s9/g71k4r4b9r4b4r36b4w4-b780078-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Rattray (Clan)](/setts/s9/g71k4r4b9r4b4r36b4w4-b780078-g006818-k101010-rc80000-wfcfcfc/)|
-|![Rattray (Clan) example sett](/setts/s9/g71k4r4b9r4b4r36b4w4-b780078-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [Rattray](/setts/s9/g71k4r4b9r4b4r36b4w4-b000064-g004c00-k000000-rc80000-wd0d0d0/)|
 |![Rattray example sett](/setts/s9/g71k4r4b9r4b4r36b4w4-b000064-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
 | [Rattray](/setts/s9/g71k4r4b9r4b4r36b4w4-b304080-g008000-k000000-rc00000-we0e0e0/)|

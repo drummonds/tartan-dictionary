@@ -20,5 +20,3 @@ GRGGBGR
 |---------------|
 | [Dorward/Dogwood](/setts/s7/g14r6g18ga30b38g28r8-b2c2c80-g604000-ga006818-rc80000/)|
 |![Dorward/Dogwood example sett](/setts/s7/g14r6g18ga30b38g28r8-b2c2c80-g604000-ga006818-rc80000/sett.png)|
-| [Dorward/Dogwood (Name)](/setts/s7/g14r6g18ga30b38g28r8-b2c2c80-g604000-ga006818-rc80000/)|
-|![Dorward/Dogwood (Name) example sett](/setts/s7/g14r6g18ga30b38g28r8-b2c2c80-g604000-ga006818-rc80000/sett.png)|

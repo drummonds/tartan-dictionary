@@ -1,13 +1,20 @@
 ---
-title: "Pride of Scotland, Gold (Fashion)"
+title: "Pride of Scotland Gold"
 date: 2023-03-18
 ---
 In pattern [KBYKWYKWKYR](/patterns/kbykwykwkyr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6478/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Pride of Scotland Gold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379))
+- 2003 — Pride of Scotland, Gold (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6478/))
 
 ## Thread count
 DR/4 LT66 K38 LR2 K4 LT4 LR36 K4 LT4 N4 K/18

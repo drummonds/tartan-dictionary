@@ -1,13 +1,20 @@
 ---
-title: "Palmer, Arnold (Corporate)"
+title: "Palmer, Arnold"
 date: 2023-03-18
 ---
 In pattern [GRKWKYKGRK](/patterns/grkwkykgrk/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6482/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3287
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Palmer, Arnold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3287))
+- 2004 De — Palmer, Arnold (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6482/))
 
 ## Thread count
 G/80 DR10 K4 LN4 K4 Y6 K4 G20 DR6 K/6

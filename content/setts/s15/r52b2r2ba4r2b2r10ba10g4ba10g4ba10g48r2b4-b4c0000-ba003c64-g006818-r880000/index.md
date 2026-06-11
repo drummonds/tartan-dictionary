@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2022
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/1997 — Ladybird (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2022))
+- 1997 — Ladybird (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2371/))
+
 ## Thread count
 DR/52 DRa2 DR2 DB4 DR2 DRa2 DR10 DB10 G4 DB10 G4 DB10 G48 DR2 DRa/4
 ![Sett](sett.png)

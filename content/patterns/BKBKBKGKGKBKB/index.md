@@ -20,8 +20,6 @@ BKBKBKGKGKBKB
 |![Grant Hunting or Black Watch example sett](/setts/s13/b44k4b4k4b4k32g32k4g32k32b32k4b4-b202060-g006818-k101010/sett.png)|
 | [Campbell](/setts/s13/b28k6b6k6b6k32g32k6g32k32b32k6b6-b345064-g5c6428-k101010/)|
 |![Campbell example sett](/setts/s13/b28k6b6k6b6k32g32k6g32k32b32k6b6-b345064-g5c6428-k101010/sett.png)|
-| [Campbell (Clan)](/setts/s13/b28k6b6k6b6k32g32k6g32k32b32k6b6-b345064-g5c6428-k101010/)|
-|![Campbell (Clan) example sett](/setts/s13/b28k6b6k6b6k32g32k6g32k32b32k6b6-b345064-g5c6428-k101010/sett.png)|
 | [Black Watch (Military)](/setts/s13/b44k4b4k4b4k32g32k4g32k32b32k4b4-b2c2c80-g006818-k101010/)|
 |![Black Watch (Military) example sett](/setts/s13/b44k4b4k4b4k32g32k4g32k32b32k4b4-b2c2c80-g006818-k101010/sett.png)|
 | [93rd Regiment (Military)](/setts/s13/b32k6b6k6b6k32g30k6g30k32b30k6b6-b000058-g007800-k000000/)|

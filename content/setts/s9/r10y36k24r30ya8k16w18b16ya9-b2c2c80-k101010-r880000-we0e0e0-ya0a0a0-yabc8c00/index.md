@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7433/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Tipperary County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7433/))
+- 01/05/2005 — Tipperary County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5051))
+
 ## Thread count
 DR/10 N36 K24 DR30 DY8 K16 LN18 DB16 DY/9
 ![Sett](sett.png)

@@ -18,7 +18,5 @@ BGBBYB
 
 | Tartans |
 |---------------|
-| [Discover Islay](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/)|
-|![Discover Islay example sett](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/sett.png)|
 | [Discover Islay (District)](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/)|
 |![Discover Islay (District) example sett](/setts/s6/b24y4b80ba24g76b8-b780078-ba2c2c80-g006818-ye8c000/sett.png)|

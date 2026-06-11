@@ -20,5 +20,3 @@ KRKRWRK
 |---------------|
 | [Gleneagles](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/)|
 |![Gleneagles example sett](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/sett.png)|
-| [Gleneagles (Fashion)](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/)|
-|![Gleneagles (Fashion) example sett](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/sett.png)|

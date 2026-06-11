@@ -1,13 +1,20 @@
 ---
-title: "Chieftain, The (Fashion)"
+title: "Chieftain, The"
 date: 2023-03-18
 ---
 In pattern [BRYRKWKWKWKY](/patterns/bryrkwkwkwky/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4503/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=631
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/1973 — Chieftain, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=631))
+- 1973 October — Chieftain, The (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4503/))
 
 ## Thread count
 DB/34 DR12 DY4 DR12 K4 W4 K4 W20 K2 W4 K2 DY/6

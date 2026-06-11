@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/865/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1980 — Maxwell Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/865/))
+- 01/01/1981 — Maxwell Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2863))
+
 ## Thread count
 G/6 DR4 G56 K12 G8 DR32 G/6
 ![Sett](sett.png)

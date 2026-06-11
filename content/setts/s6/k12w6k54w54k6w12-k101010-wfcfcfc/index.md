@@ -1,13 +1,20 @@
 ---
-title: "Erskine Black & White (Clan)"
+title: "Erskine (Black and White)"
 date: 2023-03-18
 ---
 In pattern [KWKWKW](/patterns/kwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1246/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Erskine (Black and White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122))
+- 1980 — Erskine Black & White (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1246/))
 
 ## Thread count
 K/12 W6 K54 W54 K6 W/12

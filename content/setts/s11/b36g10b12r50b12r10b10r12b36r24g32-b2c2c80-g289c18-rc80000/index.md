@@ -1,13 +1,20 @@
 ---
-title: "Fiddes - 1950 (Artefact)"
+title: "Fiddes (Artefact)"
 date: 2023-03-18
 ---
 In pattern [BGBRBRBRBRG](/patterns/bgbrbrbrbrg/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/123/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Fiddes (Artefact) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177))
+- pre 2002 — Fiddes - 1950 (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/123/))
 
 ## Thread count
 DB/36 G10 DB12 R50 DB12 R10 DB10 R12 DB36 R24 G/32

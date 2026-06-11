@@ -18,5 +18,3 @@ BYBRWRWRW
 |---------------|
 | [Sea Dog Bamse, Pride of Norway](/setts/s9/b6y4b64r56w4r4w4r4w6-b003c64-rc80000-we0e0e0-ybc8c00/)|
 |![Sea Dog Bamse, Pride of Norway example sett](/setts/s9/b6y4b64r56w4r4w4r4w6-b003c64-rc80000-we0e0e0-ybc8c00/sett.png)|
-| [Sea Dog Bamse (Commemorative)](/setts/s9/b6y4b64r56w4r4w4r4w6-b003c64-rc80000-we0e0e0-ybc8c00/)|
-|![Sea Dog Bamse (Commemorative) example sett](/setts/s9/b6y4b64r56w4r4w4r4w6-b003c64-rc80000-we0e0e0-ybc8c00/sett.png)|

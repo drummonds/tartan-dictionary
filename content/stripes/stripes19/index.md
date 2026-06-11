@@ -54,7 +54,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.16 | [Glenlea](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/) | register-of-tartans |
-| 0.16 | [Glenlea (Fashion)](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/) | tartans-authority |
 
 ### BBWBWBWBBBBBBBBBBBW
 <a class="pat" href="/patterns/bbwbwbwbbbbbbbbbbbw/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">BBWBWBWBBBBBBBBBBBW</span></a>
@@ -77,7 +76,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 |---|---|---|
 | 0.03 | [Buchanan 3](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
 | 0.05 | [Buchanan (1850 - Clan)](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) | tartans-authority |
-| 0.05 | [Buchanan (Miller & Lang) Clan Tartan Tartan Number: 151. Earliest known date: 1930 Millar and Lang's Scottish Tartans See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/b18g46k6b18k6r40w6r40k6b18k6y40k6y40k6b18k6g46b18-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) | house-of-tartan |
 
 ### BGKBRBKWKYKYKRBBGRK
 <a class="pat" href="/patterns/bgkbrbkwkykykrbbgrk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="seq">BGKBRBKWKYKYKRBBGRK</span></a>
@@ -85,8 +83,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.07 | [Anderson of Ardbrake](/setts/s19/k26r4g18b10ba6r4k8y4k4y4k6w8k6b4r44ba2k6g8ba4-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/) | register-of-tartans |
-| 0.07 | [Anderson of Ardbrake (Clan)](/setts/s19/k26r4g18b10ba6r4k8y4k4y4k6w8k6b4r44ba2k6g8ba4-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/) | tartans-authority |
-| 0.07 | [Anderson of Ardbrake Clan/Family Tartan Tartan Number: 7024. Earliest known date: 2006 May Designed by David A R Waterton-Anderson, Chairman of the Anderson Association in answer to requests from some members for an Anderson tartan with with a red, rather than a light blue bakcground. His notes on the design are as follows: "The Anderson family of Ardbrake in Banffshire is amongst the principal families of the name. Evidence from many sources over five centuries show a high intermarriage and association with the powerful clan Gordon plus many other families in the north-east of Scotland, many of whom have tartans in strong red hues. The majority of tartans ascribed to the name Anderson embody a clear motif of a broad white and two yellow (tramline) stripes set on black and this new design follows this traditional feature." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/k26r4g18b10ba6r4k8y4k4y4k6w8k6b4r44ba2k6g8ba4-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/) | house-of-tartan |
 
 ### BKBBKBKBKBBKBBBKBBK
 <a class="pat" href="/patterns/bkbbkbkbkbbkbbbkbbk/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="seq">BKBBKBKBKBBKBBBKBBK</span></a>
@@ -138,7 +134,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Metcalf](/setts/s19/r88g36w10b4w4b6w18k14w10k14w18b6w4b4w10r32g6r10b4-b003c64-g006818-k101010-r880000-wc0c0c0/) | register-of-tartans |
 | 0.11 | [Metcalf (Clan)](/setts/s19/r88g36w10b4w4b6w18k14w10k14w18b6w4b4w10r32g6r10b4-b003c64-g006818-k101010-r880000-wc0c0c0/) | tartans-authority |
 
 ### BRGRWRBRWBWBRWRGRBW
@@ -163,7 +158,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.09 | [Shaw Dress (Personal)](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/) | register-of-tartans |
-| 0.09 | [Shaw Dress (Personal)](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/) | tartans-authority |
 
 ### BYBGKBGRKRGBKGBYBYB
 <a class="pat" href="/patterns/bybgkbgrkrgbkgbybyb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BYBGKBGRKRGBKGBYBYB</span></a>
@@ -171,15 +165,12 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.11 | [Pennsylvania (District)](/setts/s19/b60y4b4y4b10g10k30b10g40r4k6r4g40b10k30g10b40y4b4-b083c60-g006818-k101010-r880000-yb09400/) | tartans-authority |
-| 0.11 | [Pennsylvania](/setts/s19/b60y4b4y4b10g10k30b10g40r4k6r4g40b10k30g10b40y4b4-b083c60-g006818-k101010-r880000-yb09400/) | register-of-tartans |
-| 0.14 | [Pennsylvania American District Tartan Tartan Number: 3130. Earliest known date: 1992 Not yet accepted by the State as official (March 2007). Designed and copyrighted by the late Wm.H. Johnston 1992. Registered with the Tartan Educational and Cultural Association on 10 March 1993. Based on the Black Watch which served at the Battle of Bushy Run, near Pittsburgh, in 1763, thus assuring western Pennsylvania and the "Ohio Country" for Great Britain. 'Tartans' (Johnston/Smith 1999) states (incorrectly) on Page 109 that this is the State Tartan and gives the correct graphic but the wrong threadcount. The second pivot is given as R4 when in fact it is B4. The Sheepskin Shop in Ebensburg PA that markets blankets in the tartan has obviously used the incorrect threadcount from the book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/b60y4b4y4b10g10k30b10g40r4k6r4g40b10k30g10b40y4b4-b083c60-g006818-k101010-r880000-yb09400/) | house-of-tartan |
 
 ### BYBYRWBYWBYWBYRWBYW
 <a class="pat" href="/patterns/bybyrwbywbywbyrwbyw/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">BYBYRWBYWBYWBYRWBYW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Wanless](/setts/s19/b50y10b24y6r2w2b24y6w2b24y6w2b24y10r2w2b24y8w4-b2c2c80-rc80000-we0e0e0-ye8c000/) | register-of-tartans |
 | 0.03 | [Wanless (Personal)](/setts/s19/b50y10b24y6r2w2b24y6w2b24y6w2b24y10r2w2b24y8w4-b2c2c80-rc80000-we0e0e0-ye8c000/) | tartans-authority |
 
 ### BYRRRRRRRRRRRRRYBYG
@@ -208,7 +199,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.15 | [Jorgensen of Taasinge (Personal)](/setts/s19/y4r10b6g10b6r22ga6r4b22r4b22g36b22r4b22r4ga6b10ga3-b1c2448-g285828-ga5c8c30-r8c1c38-y8c98b8/) | tartans-authority |
 | 0.15 | [Jrgensen of Taasingee (Personal)](/setts/s19/y4r10b6g10b6r22ga6r4b22r4b22g36b22r4b22r4ga6b10ga3-b1c2448-g285828-ga5c8c30-r8c1c38-y8c98b8/) | register-of-tartans |
 
 ### GBWBYBGRGBGBGBWBYBR
@@ -217,8 +207,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.13 | [Mowat, Sir Oliver](/setts/s19/g12b4w6b4y6b4g12r32g8b6g6b6g32b4w6b4y6b4r8-b3c2010-g004c00-r8c0000-wc8c8c8-yc89800/) | register-of-tartans |
-| 0.13 | [Mowat, Sir Oliver (Commemorative)](/setts/s19/g12b4w6b4y6b4g12r32g8b6g6b6g32b4w6b4y6b4r8-b3c2010-g004c00-r8c0000-wc8c8c8-yc89800/) | tartans-authority |
-| 0.13 | [Mowat, Sir Oliver Commemorative Tartan Tartan Number: 5651. Earliest known date: pre 2002 1820 - 1903. One of the Fathers of the Confederation. Premier of Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/g12b4w6b4y6b4g12r32g8b6g6b6g32b4w6b4y6b4r8-b3c2010-g004c00-r8c0000-wc8c8c8-yc89800/) | house-of-tartan |
 
 ### GGKYGYGGGGGYGYGKYGY
 <a class="pat" href="/patterns/ggkygygggggygygkygy/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GGKYGYGGGGGYGYGKYGY</span></a>
@@ -253,7 +241,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Peeper (check) (Name)](/setts/s19/g8k2ga8y8ga8y8ga8r10ga8y8ga8y8ga8y8ga8y8ga8y8k2-g006818-ga8c7038-k101010-rb03000-ya08858/) | tartans-authority |
 | 0.13 | [Peeper (check)](/setts/s19/g8k2ga8y8ga8y8ga8r10ga8y8ga8y8ga8y8ga8y8ga8y8k2-g006818-ga8c7038-k101010-rb03000-ya08858/) | register-of-tartans |
 
 ### GKYKYKYKYKYKYKRKKKW
@@ -268,7 +255,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Brewer (Name)](/setts/s19/g6r4b2r38g2r2g2r16g2b16r2g16r2g2r2g56y2g4ra4-b1870a4-g00643c-r880000-rab468ac-ye8c000/) | tartans-authority |
 | 0.12 | [Brewer](/setts/s19/g6r4b2r38g2r2g2r16g2b16r2g16r2g2r2g56y2g4ra4-b1870a4-g00643c-r880000-rab468ac-ye8c000/) | register-of-tartans |
 
 ### GRBWRGBYBYBGBWYWBGR
@@ -344,7 +330,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | 0.06 | [MacBean](/setts/s19/r114w4k8b4w4b4k4w4k4g20k4w4r8ra8g4ra8r8w4g14-b304080-g008000-k000000-rc00000-ra802040-we0e0e0/) | weddslist |
 | 0.07 | [MacBean Clan Tartan Tartan Number: 952. Earliest known date: pre 1963 The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. A slightly different version is recorded by Lord Lyon (P.R.A. 43/108 - 8th March 1960) under the name MacBain. This version is available from the House of Edgar Old and Rare range. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/r114w4k8b4w4b4k4w4k4g20k4w4r8ra8g4ra8r8w4g14-b2c2c80-g006818-k101010-rc80000-ra901c38-we0e0e0/) | house-of-tartan |
 | 0.09 | [MacBean (1847)](/setts/s19/r114w4k8b4w4b4k4w4k4g20k4w4r8ra8g4ra8r8w4g14-b2c2c80-g006818-k101010-rc80000-rab468ac-we0e0e0/) | register-of-tartans |
-| 0.09 | [MacBean (Clan)](/setts/s19/r114w4k8b4w4b4k4w4k4g20k4w4r8ra8g4ra8r8w4g14-b2c2c80-g006818-k101010-rc80000-rab468ac-we0e0e0/) | tartans-authority |
 
 ### GWRRGRRWKGKWWKWKWWR
 <a class="pat" href="/patterns/gwrrgrrwkgkwwkwkwwr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="seq">GWRRGRRWKGKWWKWKWWR</span></a>
@@ -366,15 +351,14 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.13 | [MacBean](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
-| 0.13 | [MacBean](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
 
 ### GYRBGBRYKGKYBKYKBYR
 <a class="pat" href="/patterns/gyrbgbrykgkybkykbyr/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="seq">GYRBGBRYKGKYBKYKBYR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [MacBain](/setts/s19/r60y2b5k2y2k2b5y2k2g12k2y2r5ba5g2ba5r5y2g10-b4367ae-ba59110d-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
 | 0.12 | [MacBain](/setts/s19/r120y4b10k4y4k4b10y4k4g24k4y4r10ba10g4ba10r10y4g20-b4367ae-ba59110d-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
+| 0.12 | [MacBain](/setts/s19/r60y2b5k2y2k2b5y2k2g12k2y2r5ba5g2ba5r5y2g10-b4367ae-ba59110d-g11450d-k000000-raa0000-yaaaaaa/) | weddslist |
 
 ### GYRYWYWYWKYWYWYYYRY
 <a class="pat" href="/patterns/gyrywywywkywywyyyry/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GYRYWYWYWKYWYWYYYRY</span></a>
@@ -404,7 +388,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.03 | [Princess Beatrice, dress](/setts/s19/k6r2g4r4w40b6w6r14k4r4k4r4k14g4k4g4k4g16y6-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
-| 0.08 | [Princess Beatrice Dress (Dance)](/setts/s19/k12r4g8r8w80b12w12r28k8r8k8r8k28g8k8g8k8g32y12-b1c0070-g006818-k101010-r880000-wf8f8f8-ye8c000/) | tartans-authority |
 | 0.08 | [Princess Beatrice Dress (Dance)](/setts/s19/k12r4g8r8w80b12w12r28k8r8k8r8k28g8k8g8k8g32y12-b1c0070-g006818-k101010-r880000-wf8f8f8-ye8c000/) | register-of-tartans |
 
 ### KRKRWBWRGRGRKGKGKGY
@@ -421,7 +404,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.05 | [Princess Beatrice Dress (1880)](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/) | register-of-tartans |
-| 0.05 | [Princess Beatrice Dress (1880) (Fash](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/) | tartans-authority |
 
 ### KRKYYKRKYYKYKYYKRKY
 <a class="pat" href="/patterns/krkyykrkyykykyykrky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRKYYKRKYYKYKYYKRKY</span></a>
@@ -457,7 +439,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Harmon Dress Name Tartan Tartan Number: 10020. Earliest known date: Mar. 2009 The Harmon Dress tartan permits those of the name to honour their family heritage when competing in Highland dance, or in any other situation in which a dress tartan is appropriate. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/k4y12ya4y4ya4y38b4g4b4y4r8k4r22g4r4g4r22g4ya4-b2c2c80-g006818-k101010-r880000-yb8b8b8-yae8c000/) | house-of-tartan |
 | 0.09 | [Harmon Dress (Personal)](/setts/s19/k4y12ya4y4ya4y38b4g4b4y4r8k4r22g4r4g4r22g4ya4-b2c2c80-g006818-k101010-r880000-yb8b8b8-yae8c000/) | tartans-authority |
 
 ### RBKRKBBRKRKRBBKRKBR
@@ -517,7 +498,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 |---|---|---|
 | 0.09 | [Craig Family Tartan Tartan Number: 1574. Earliest known date: 1957 MacGregor Hastie wrote, "This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks." The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/r2k6g4k4ra4k2ra6k2ra4r6k2g32k2ra36y2g2ra4k4r2-g006818-k101010-rc80000-ra888888-ye8c000/) | house-of-tartan |
 | 0.14 | [Craig](/setts/s19/r4k8g8k8ra8k4ra8k4ra8r8k4g56k4ra68y4g4ra8k8r4-g408060-k101010-r880000-ra888888-ye8c000/) | register-of-tartans |
-| 0.14 | [Craig (Clan)](/setts/s19/r4k8g8k8ra8k4ra8k4ra8r8k4g56k4ra68y4g4ra8k8r4-g408060-k101010-r880000-ra888888-ye8c000/) | tartans-authority |
 
 ### RKGWGKRKWKWKWKWKWKR
 <a class="pat" href="/patterns/rkgwgkrkwkwkwkwkwkr/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="seq">RKGWGKRKWKWKWKWKWKR</span></a>
@@ -588,7 +568,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.17 | [Caribou](/setts/s19/w4b16k4ba12k4g16ba4g16k4ba12k4r16bb4r16k4ba12k4b16w4-b680028-ba2888c4-bb1c0070-g289c18-k101010-r888888-we0e0e0/) | register-of-tartans |
 | 0.17 | [Caribou (District)](/setts/s19/w4b16k4ba12k4g16ba4g16k4ba12k4r16bb4r16k4ba12k4b16w4-b680028-ba2888c4-bb1c0070-g289c18-k101010-r888888-we0e0e0/) | tartans-authority |
 
 ### WBKWKGBGKWKGWGKWKBW
@@ -610,9 +589,7 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Four Quarters (Personal)](/setts/s19/w14b14w2g26w2b4w2ba28w2b4w2r22w2b4w2y14w2b4w14-b780078-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) | register-of-tartans |
 | 0.05 | [Four Quarters (Personal)](/setts/s19/w14b14w2g26w2b4w2ba28w2b4w2r22w2b4w2y14w2b4w14-b780078-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) | tartans-authority |
-| 0.05 | [Four Quarters Personal Tartan Tartan Number: 7427. Earliest known date: 2007 October While drawn from old earth religions, this was designed without any beliefe system in mind but to tie the greater whole together. Yellow - air/east. Red - fire/south. Blue - water/west. Green-earth/north. White - center/spirit & purple heart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/w14b14w2g26w2b4w2ba28w2b4w2r22w2b4w2y14w2b4w14-b780078-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) | house-of-tartan |
 
 ### WKBKBKBKWKYWYRWRWRW
 <a class="pat" href="/patterns/wkbkbkbkwkywyrwrwrw/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="seq">WKBKBKBKWKYWYRWRWRW</span></a>
@@ -627,7 +604,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.03 | [MacDougall (Lochcarron)](/setts/s19/w12r4g32r6g4r6g12w4r4w4g12r14g12r4g4r32w4r4w4-g006818-rc80000-we0e0e0/) | register-of-tartans |
-| 0.03 | [MacDougall - 2005 (Lochcarron)](/setts/s19/w12r4g32r6g4r6g12w4r4w4g12r14g12r4g4r32w4r4w4-g006818-rc80000-we0e0e0/) | tartans-authority |
 
 ### WRRWRRRRRRBBRBYRYRY
 <a class="pat" href="/patterns/wrrwrrrrrrbbrbyryry/"><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">WRRWRRRRRRBBRBYRYRY</span></a>
@@ -635,7 +611,6 @@ Tartan setts with 19 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.13 | [Red Lichtie](/setts/s19/w6r4ra2w2r18ra2r4ra4r2ra54b2ba4ra2b22y2ra4y2ra4y2-b0f2745-ba349ed4-reb3118-ra87192b-wfdf3f1-yd39d37/) | register-of-tartans |
-| 0.13 | [Red Lichtie District Tartan Tartan Number: 10662. Earliest known date: 29/07/2012 Arbroath’s official district tartan was adopted by the Royal Burgh of Arbroath Community Council, 5th Oct 2012. For all, far and near, who have associations with Arbroath. ‘Red Lichtie’ is Scottish north east coast dialect for ‘red light’. Residents of Arbroath, a fishing town on the Scottish north east coast, are affectionately known as ‘Red Lichties’, an ancient nickname that local Arbroathians, as well as those abroad, adopt with a sense of pride. Shrouded in folklore, with different stories being told through the ages, one notable tale is of the ‘Round O’ window of Arbroath Abbey being lit at night with a flame guiding seamen returning from sea. Such a light would certainly have shown mariners where Arbroath was but any ship using it would find itself running aground somewhere east of the actual harbour entrance. More likely the name originates from Arbroath’s original Parish Church, known as the Lady Chapel. Founded some time before 1455, and located at the north east corner of the marina where the Harbour Master’s office stands today, the chapel fell out of use around 1590. Inside the chapel there burned a red lamp. It is suggested that the folk of Arbroath were familiar with this red lamp or ‘licht’, which is the likely source of the ‘Red Lichtie’ name which they are today all so proud of. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/w6r4ra2w2r18ra2r4ra4r2ra54b2ba4ra2b22y2ra4y2ra4y2-b0f2745-ba349ed4-reb3118-ra87192b-wfdf3f1-yd39d37/) | house-of-tartan |
 
 ### YBKBKBKBKBYBYBKBYBY
 <a class="pat" href="/patterns/ybkbkbkbkbybybkbyby/"><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="seq">YBKBKBKBKBYBYBKBYBY</span></a>

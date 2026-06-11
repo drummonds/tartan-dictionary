@@ -20,5 +20,3 @@ BBBBY
 |---------------|
 | [North Sea Commission](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/)|
 |![North Sea Commission example sett](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/sett.png)|
-| [North Sea Commission (Corporate)](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/)|
-|![North Sea Commission (Corporate) example sett](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/sett.png)|

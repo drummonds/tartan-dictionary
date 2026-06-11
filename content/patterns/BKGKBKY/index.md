@@ -20,5 +20,3 @@ BKGKBKY
 |---------------|
 | [Murray of Elibank](/setts/s7/b128k6g28k8b8k24y8-b1474b4-g006818-k101010-yd09800/)|
 |![Murray of Elibank example sett](/setts/s7/b128k6g28k8b8k24y8-b1474b4-g006818-k101010-yd09800/sett.png)|
-| [Murray of Elibank (Personal)](/setts/s7/b128k6g28k8b8k24y8-b1474b4-g006818-k101010-yd09800/)|
-|![Murray of Elibank (Personal) example sett](/setts/s7/b128k6g28k8b8k24y8-b1474b4-g006818-k101010-yd09800/sett.png)|

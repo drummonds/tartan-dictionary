@@ -20,5 +20,3 @@ BBWYBBBG
 |---------------|
 | [Scotia](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/)|
 |![Scotia example sett](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/sett.png)|
-| [Scotia (Fashion)](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/)|
-|![Scotia (Fashion) example sett](/setts/s8/b12ba12w2y32ba12b44bb28g12-b1474b4-ba2c2c80-bb780078-g289c18-wfcfcfc-ya08858/sett.png)|

@@ -20,5 +20,3 @@ GKRKRK
 |---------------|
 | [Allt Dubh (Black Burn)](/setts/s6/k198r10k8r6k4g2-g5c6428-k101010-r901c38/)|
 |![Allt Dubh (Black Burn) example sett](/setts/s6/k198r10k8r6k4g2-g5c6428-k101010-r901c38/sett.png)|
-| [Allt Dubh (Fashion)](/setts/s6/k198r10k8r6k4g2-g5c6428-k101010-r901c38/)|
-|![Allt Dubh (Fashion) example sett](/setts/s6/k198r10k8r6k4g2-g5c6428-k101010-r901c38/sett.png)|

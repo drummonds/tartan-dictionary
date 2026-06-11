@@ -18,5 +18,3 @@ BRBKBKWKGKG
 |---------------|
 | [New Hampshire](/setts/s11/g112k4g4k24w4k24b4k4b16r12b56-b780078-g006818-k101010-rc80000-we0e0e0/)|
 |![New Hampshire example sett](/setts/s11/g112k4g4k24w4k24b4k4b16r12b56-b780078-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [New Hampshire (District)](/setts/s11/g112k4g4k24w4k24b4k4b16r12b56-b780078-g006818-k101010-rc80000-we0e0e0/)|
-|![New Hampshire (District) example sett](/setts/s11/g112k4g4k24w4k24b4k4b16r12b56-b780078-g006818-k101010-rc80000-we0e0e0/sett.png)|

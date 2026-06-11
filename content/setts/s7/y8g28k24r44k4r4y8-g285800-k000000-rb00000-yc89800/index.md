@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=289
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1983 — Blackstock Red (Dress) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=289))
+- 1983 — Blackstock, Red Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1881/))
+
 ## Thread count
 DY/8 DR4 K4 DR44 K24 Ga28 DY/8
 ![Sett](sett.png)

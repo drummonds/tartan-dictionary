@@ -18,5 +18,3 @@ BBGKGKGRWR
 |---------------|
 | [Lyons](/setts/s10/b18ba6g22k14ga6k6ga64r6w6r14-b2888c4-ba2c2c80-g289c18-ga006818-k101010-rc80000-we0e0e0/)|
 |![Lyons example sett](/setts/s10/b18ba6g22k14ga6k6ga64r6w6r14-b2888c4-ba2c2c80-g289c18-ga006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Lyons (Personal)](/setts/s10/b18ba6g22k14ga6k6ga64r6w6r14-b2888c4-ba2c2c80-g289c18-ga006818-k101010-rc80000-we0e0e0/)|
-|![Lyons (Personal) example sett](/setts/s10/b18ba6g22k14ga6k6ga64r6w6r14-b2888c4-ba2c2c80-g289c18-ga006818-k101010-rc80000-we0e0e0/sett.png)|

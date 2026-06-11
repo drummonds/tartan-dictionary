@@ -20,5 +20,3 @@ BBGBBRYB
 |---------------|
 | [Young](/setts/s8/b6ba6g60b50bb8r6y4bb2-b1c1c50-ba2888c4-bb6c0070-g006818-rc8002c-ye8c000/)|
 |![Young example sett](/setts/s8/b6ba6g60b50bb8r6y4bb2-b1c1c50-ba2888c4-bb6c0070-g006818-rc8002c-ye8c000/sett.png)|
-| [Young (Clan)](/setts/s8/b6ba6g60b50bb8r6y4bb2-b1c1c50-ba2888c4-bb6c0070-g006818-rc8002c-ye8c000/)|
-|![Young (Clan) example sett](/setts/s8/b6ba6g60b50bb8r6y4bb2-b1c1c50-ba2888c4-bb6c0070-g006818-rc8002c-ye8c000/sett.png)|

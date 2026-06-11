@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1306
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1950 — Galloway Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1306))
+- 1950 — Galloway, Red (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/843/))
+
 ## Thread count
 G/6 R4 DB44 R44 DB4 W/6
 ![Sett](sett.png)

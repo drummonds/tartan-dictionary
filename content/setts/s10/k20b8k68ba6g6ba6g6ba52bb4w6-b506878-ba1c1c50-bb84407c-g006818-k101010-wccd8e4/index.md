@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7483/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Nov 2007 — Dugan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7483/))
+- undated — Dugan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5525))
+
 ## Thread count
 K/20 Na8 K68 DB6 G6 DB6 G6 DB52 N4 LN/6
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#506878;"><span style="color:#506878;filter:grayscale(1) invert(1) contrast(100);">#506878</span></code> `#506878` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 
 ID: /setts/s10/k20b8k68ba6g6ba6g6ba52bb4w6-b506878-ba1c1c50-bb84407c-g006818-k101010-wccd8e4/
-e4/

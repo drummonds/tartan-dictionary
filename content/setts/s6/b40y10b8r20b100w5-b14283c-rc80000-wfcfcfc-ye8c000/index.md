@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2005 — East of Scotland Tartan Army (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069))
+- August 2005 — East of Scotland Tartan Army (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6719/))
+
 ## Thread count
 DN/40 Y10 DN8 R20 DN100 W/5
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DN/40 Y10 DN8 R20 DN100 W/5 tartan")
 
 ID: /setts/s6/b40y10b8r20b100w5-b14283c-rc80000-wfcfcfc-ye8c000/
-00/

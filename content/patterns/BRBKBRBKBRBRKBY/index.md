@@ -18,5 +18,3 @@ BRBKBRBKBRBRKBY
 |---------------|
 | [Cornwall](/setts/s15/b8r24b8k28b72r6b72k28b8r24b8r24k28b72y6-b0c585c-k101010-r880000-ybc8c00/)|
 |![Cornwall example sett](/setts/s15/b8r24b8k28b72r6b72k28b8r24b8r24k28b72y6-b0c585c-k101010-r880000-ybc8c00/sett.png)|
-| [Cornwall (Fashion)](/setts/s15/b8r24b8k28b72r6b72k28b8r24b8r24k28b72y6-b0c585c-k101010-r880000-ybc8c00/)|
-|![Cornwall (Fashion) example sett](/setts/s15/b8r24b8k28b72r6b72k28b8r24b8r24k28b72y6-b0c585c-k101010-r880000-ybc8c00/sett.png)|

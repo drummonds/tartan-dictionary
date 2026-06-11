@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2584/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1746 — MacDonald of Borrodale (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2584/))
+- undated — MacDonald of Borrodale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2351))
+
 ## Thread count
 R/12 DB6 R6 DB64 K60 G60 Y6 R/6
 ![Sett](sett.png)

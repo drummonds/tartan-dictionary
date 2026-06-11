@@ -1,13 +1,20 @@
 ---
-title: "Scottish National (hunting) Universal Tartan Tartan Number: 2240. Earliest known date: 1996 Designed by Michael King of Philip King Ltd, Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Scottish National Hunting"
 date: 2023-03-18
 ---
 In pattern [RGRGBGBRBGBGRGRR](/patterns/rgrgbgbrbgbgrgrr/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2240
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3732
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Scottish National Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3732))
+- undated — Scottish National (hunting) Universal Tartan Tartan Number: 2240. Earliest known date: 1996 Designed by Michael King of Philip King Ltd, Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2240))
 
 ## Thread count
 N/132 P6 G6 P6 G32 DR16 G6 DR6 R8 DR6 G6 DR16 G32 P6 G6 P/6

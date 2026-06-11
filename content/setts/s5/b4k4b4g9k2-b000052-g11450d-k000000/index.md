@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [5 stripes tartan](/stripes/stripes5/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+- undated — Keith and Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DB/4 K4 DB4 DG9 K/2
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 K4 DB4 DG9 K/2 tartan")
 
 ID: /setts/s5/b4k4b4g9k2-b000052-g11450d-k000000/
--k000000/

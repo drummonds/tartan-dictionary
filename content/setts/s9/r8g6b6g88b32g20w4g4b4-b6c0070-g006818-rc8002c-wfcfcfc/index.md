@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1417
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Glenfeshie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1417))
+- 2003 — Glenfeshie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6023/))
+
 ## Thread count
 P/4 G4 W4 G20 P32 G88 P6 G6 R/8
 ![Sett](sett.png)

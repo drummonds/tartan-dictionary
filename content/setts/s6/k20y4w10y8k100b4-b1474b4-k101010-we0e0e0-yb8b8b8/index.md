@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2197
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — London Fog Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2197))
+- pre 2007 — London Fog Black (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7269/))
+
 ## Thread count
 B/4 K100 N8 LN10 N4 K/20
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/4 K100 N8 LN10 N4 K/20 tartan")
 
 ID: /setts/s6/k20y4w10y8k100b4-b1474b4-k101010-we0e0e0-yb8b8b8/
-b8b8/

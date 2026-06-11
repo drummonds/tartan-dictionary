@@ -20,5 +20,3 @@ KGRGKW
 |---------------|
 | [Perratt (Personal)](/setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/)|
 |![Perratt (Personal) example sett](/setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Perratt (Personal)](/setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/)|
-|![Perratt (Personal) example sett](/setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/sett.png)|

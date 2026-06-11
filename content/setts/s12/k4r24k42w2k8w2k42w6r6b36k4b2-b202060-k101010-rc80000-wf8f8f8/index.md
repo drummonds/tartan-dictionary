@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=266
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2002 — Bishop (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=266))
+- 2002 October — Bishop (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6798/))
+
 ## Thread count
 DB/2 K4 DB36 R6 W6 K42 W2 K8 W2 K42 R24 K/4
 ![Sett](sett.png)

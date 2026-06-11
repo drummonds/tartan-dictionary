@@ -1,13 +1,20 @@
 ---
-title: "Nevada State (District)"
+title: "Nevada State"
 date: 2023-03-18
 ---
 In pattern [BRBYBYBYW](/patterns/brbybybyw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3091/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3108
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 14/03/2001 — Nevada State (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3108))
+- 2001 — Nevada State (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3091/))
 
 ## Thread count
 DB/64 R8 DB8 Y8 DB18 N18 DB8 N32 LN/14

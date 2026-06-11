@@ -20,5 +20,3 @@ KRKRKW
 |---------------|
 | [Lanoir](/setts/s6/k24r24k120r6k120w24-k101010-rc80000-we0e0e0/)|
 |![Lanoir example sett](/setts/s6/k24r24k120r6k120w24-k101010-rc80000-we0e0e0/sett.png)|
-| [Lanoir (Fashion)](/setts/s6/k24r24k120r6k120w24-k101010-rc80000-we0e0e0/)|
-|![Lanoir (Fashion) example sett](/setts/s6/k24r24k120r6k120w24-k101010-rc80000-we0e0e0/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3028
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Motherwell Football Club. Modern (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3028))
+- pre 2004 — Motherwell F.C. Modern (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7090/))
+
 ## Thread count
 DY/4 K49 DR12 LN2 N8 K2 N8 K6 N/60
 ![Sett](sett.png)

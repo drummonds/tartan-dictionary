@@ -20,5 +20,3 @@ KBKGRGKY
 |---------------|
 | [MacLeish](/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/)|
 |![MacLeish example sett](/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/sett.png)|
-| [MacLeish (Clan)](/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/)|
-|![MacLeish (Clan) example sett](/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/sett.png)|

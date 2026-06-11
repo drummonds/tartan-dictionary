@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7744/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Sep 2008 — St. Andrews School (Delaware) (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7744/))
+- undated — St Andrew's School, Delaware (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5725))
+
 ## Thread count
 R/4 DR12 W4 DR6 W10 DR52 R/104
 ![Sett](sett.png)

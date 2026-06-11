@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1091
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Eidart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1091))
+- 1980s — Eidart 1980 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/445/))
+
 ## Thread count
 DB/56 R30 DB54 R4 DB54 R6 DB52 N40 W6 N4 W4 N/8
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s12/b56r30b54r4b54r6b52ba40w6ba4w4ba8-b2c2c80-ba5c5c5c-rc80000-wfcfcfc/
--wfcfcfc/

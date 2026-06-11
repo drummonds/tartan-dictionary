@@ -1,13 +1,20 @@
 ---
-title: "Christie (Clan)"
+title: "Christie"
 date: 2023-03-18
 ---
 In pattern [RBKBKYKWKGRWR](/patterns/rbkbkykwkgrwr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1355/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=648
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Christie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=648))
+- pre 1986 — Christie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1355/))
 
 ## Thread count
 R/24 DB8 K8 DB16 K16 Y8 K4 W8 K4 G36 R24 W8 R/24

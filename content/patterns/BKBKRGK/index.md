@@ -20,8 +20,6 @@ BKBKRGK
 |---------------|
 | [Fletcher #2](/setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/)|
 |![Fletcher #2 example sett](/setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/sett.png)|
-| [Fletcher (Clan)](/setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/)|
-|![Fletcher (Clan) example sett](/setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/sett.png)|
 | [Fletcher](/setts/s7/b6k1b6k8r1g8k2-b00004c-g004c00-k000000-rc80000/)|
 |![Fletcher example sett](/setts/s7/b6k1b6k8r1g8k2-b00004c-g004c00-k000000-rc80000/sett.png)|
 | [Fletcher](/setts/s7/b12k2b12k16r2g16k4-b304080-g008000-k000000-rc00000/)|

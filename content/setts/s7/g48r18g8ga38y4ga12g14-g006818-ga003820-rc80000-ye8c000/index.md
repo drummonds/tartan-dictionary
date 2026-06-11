@@ -1,13 +1,21 @@
 ---
-title: "Doyle Irish Family Tartan Tartan Number: 2511. Earliest known date: 1999 Clan Doyle runs it Clan Register from PO Box 173, Dromana, Victoria, 3936, Australia. The tartan is restricted to registered clansmen. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Doyle"
 date: 2023-03-18
 ---
 In pattern [GGYGGRG](/patterns/ggyggrg/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2511
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=970
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/03/1998 — Doyle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=970))
+- March 1998 — Doyle (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2511/))
+- undated — Doyle Irish Family Tartan Tartan Number: 2511. Earliest known date: 1999 Clan Doyle runs it Clan Register from PO Box 173, Dromana, Victoria, 3936, Australia. The tartan is restricted to registered clansmen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2511))
 
 ## Thread count
 G/14 DG12 Y4 DG38 G8 R18 G/48

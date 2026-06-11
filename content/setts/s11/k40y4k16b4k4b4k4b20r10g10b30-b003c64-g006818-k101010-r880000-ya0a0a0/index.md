@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BGRBKBKBKYK](/patterns/bgrbkbkbkyk/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6683/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2072
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2005 — Lawtie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2072))
+- 2005 March — Lawtie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6683/))
 
 ## Thread count
 DB/30 G10 DR10 DB20 K4 DB4 K4 DB4 K16 N4 K/40
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
 
 ID: /setts/s11/k40y4k16b4k4b4k4b20r10g10b30-b003c64-g006818-k101010-r880000-ya0a0a0/
-a0/

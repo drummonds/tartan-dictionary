@@ -7,7 +7,14 @@ In pattern [RGYGRGRGRGRKRY](/patterns/rgygrgrgrgrkry/).
 
 This was sourced from weddslist.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Hay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Hay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/12 DG8 LG4 DG72 DR4 DG4 DR4 DG24 DR96 DG8 DR4 K2 DR4 N/12

@@ -1,13 +1,21 @@
 ---
-title: "Timespan (MacKay) Corporate Tartan Tartan Number: 1002. Earliest known date: 1989 Based on MacKay of Strathnaver for 'Timespan Heritage Centre' at Helmsdale See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Timespan"
 date: 2023-03-18
 ---
 In pattern [GRKRR](/patterns/grkrr/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1002
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4127
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Timespan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4127))
+- pre 2002 — Timespan (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1002/))
+- undated — Timespan (MacKay) Corporate Tartan Tartan Number: 1002. Earliest known date: 1989 Based on MacKay of Strathnaver for 'Timespan Heritage Centre' at Helmsdale See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1002))
 
 ## Thread count
 G/36 R6 K36 R6 N/36

@@ -20,5 +20,3 @@ GRWRG
 |---------------|
 | [O'Connor Dress](/setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/)|
 |![O'Connor Dress example sett](/setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/sett.png)|
-| [O'Connor Dress (Fashion?)](/setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/)|
-|![O'Connor Dress (Fashion?) example sett](/setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/sett.png)|

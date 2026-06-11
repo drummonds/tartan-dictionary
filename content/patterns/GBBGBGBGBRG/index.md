@@ -18,5 +18,3 @@ GBBGBGBGBRG
 |---------------|
 | [Pride of Scotland Autumn](/setts/s11/g18b4ba4g4ba36g4b4g2b38r66g4-b202060-ba780078-g006818-r880000/)|
 |![Pride of Scotland Autumn example sett](/setts/s11/g18b4ba4g4ba36g4b4g2b38r66g4-b202060-ba780078-g006818-r880000/sett.png)|
-| [Pride of Scotland, Autumn (Fashion)](/setts/s11/g18b4ba4g4ba36g4b4g2b38r66g4-b202060-ba780078-g006818-r880000/)|
-|![Pride of Scotland, Autumn (Fashion) example sett](/setts/s11/g18b4ba4g4ba36g4b4g2b38r66g4-b202060-ba780078-g006818-r880000/sett.png)|

@@ -16,8 +16,6 @@ BYBYBWBRBYGW
 
 | Tartans |
 |---------------|
-| [Queens University Kingston Ontario](/setts/s12/b108y18b32y4ba6w6ba6r54b26y6g10w4-b202060-ba780078-g006818-r780028-wfcfcfc-ybc8c00/)|
-|![Queens University Kingston Ontario example sett](/setts/s12/b108y18b32y4ba6w6ba6r54b26y6g10w4-b202060-ba780078-g006818-r780028-wfcfcfc-ybc8c00/sett.png)|
 | [Queen's University Ont. (Corporate)](/setts/s12/b108y18b32y4ba6w6ba6r54b26y6g10w4-b202060-ba780078-g006818-r780028-wfcfcfc-ybc8c00/)|
 |![Queen's University Ont. (Corporate) example sett](/setts/s12/b108y18b32y4ba6w6ba6r54b26y6g10w4-b202060-ba780078-g006818-r780028-wfcfcfc-ybc8c00/sett.png)|
 | [Queens University, of Ontario](/setts/s12/b54y9b16y2ba3w3ba3r27b13y3g5w2-b000050-ba800080-g008000-rc00000-we0e0e0-yf0c000/)|

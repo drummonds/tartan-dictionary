@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1934
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1988 — Keepers of the Quaich (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1934))
+- June 1988 — Keepers of the Quaich (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1731/))
+
 ## Thread count
 DY/6 T66 DBa48 T4 DBa4 T/4
 ![Sett](sett.png)

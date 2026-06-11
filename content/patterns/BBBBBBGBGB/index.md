@@ -18,5 +18,3 @@ BBBBBBGBGB
 |---------------|
 | [Lang](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/)|
 |![Lang example sett](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/sett.png)|
-| [Lang (Artefact)](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/)|
-|![Lang (Artefact) example sett](/setts/s10/b8ba4b12ba4b20ba60g20ba4g18ba4-b5c8ca8-ba780078-g006818/sett.png)|

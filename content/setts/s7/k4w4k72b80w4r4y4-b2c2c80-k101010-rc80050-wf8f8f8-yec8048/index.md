@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1289
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2005 — Fuller of Hopewell (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1289))
+- 2005 September — Fuller of Hopewell (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6781/))
+
 ## Thread count
 K/4 W4 K72 DB80 W4 R4 O/4
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Ryder Cup 2006 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628))
+- 2006 January — Ryder Cup 2006 (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6836/))
+
 ## Thread count
 DY/2 K30 DN16 DG16 G2 DG16 DN16 K6 DY2 K/20
 ![Sett](sett.png)

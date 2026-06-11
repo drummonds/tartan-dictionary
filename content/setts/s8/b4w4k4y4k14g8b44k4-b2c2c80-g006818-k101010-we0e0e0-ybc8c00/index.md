@@ -1,13 +1,20 @@
 ---
-title: "Glasgow, University of (Corporate)"
+title: "Glasgow, University of"
 date: 2023-03-18
 ---
 In pattern [BWKYKGBK](/patterns/bwkykgbk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2680/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Glasgow, University of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1360))
+- Nov. 1999 — Glasgow, University of (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2680/))
 
 ## Thread count
 DB/4 LN4 K4 DY4 K14 G8 DB44 K/4

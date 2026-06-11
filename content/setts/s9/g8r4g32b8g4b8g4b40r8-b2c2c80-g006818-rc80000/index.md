@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7345/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1999 — Brown, Barnaby (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7345/))
+- undated — Barnaby Brown Pibroch (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5460))
+
 ## Thread count
 G/8 R4 G32 DB8 G4 DB8 G4 DB40 R/8
 ![Sett](sett.png)

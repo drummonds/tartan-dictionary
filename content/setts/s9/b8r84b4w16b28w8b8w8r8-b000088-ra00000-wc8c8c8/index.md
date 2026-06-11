@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=66
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — American (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=66))
+- 13th Aug. 1975 — American (Fashion)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/464/))
+
 ## Thread count
 DB/8 DR84 DB4 N16 DB28 N8 DB8 N8 DR/8
 ![Sett](sett.png)

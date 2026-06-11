@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3108/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2002 — Rollings (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3108/))
+- undated — Rollings (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5136))
+
 ## Thread count
 G/110 R8 N6 P22 LN8 DB22 N6 R8 G110 K/8
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/g110r8ra6b22w8ba22ra6r8g110k8-b780078-ba202060-g006818-k101010-rc80000-ra888888-we0e0e0/
-e0/

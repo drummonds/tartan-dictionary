@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7133/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec 2001 — Balmer (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7133/))
+- undated — Balmer (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5437))
+
 ## Thread count
 LN/4 DB98 R10 Y4 R10 Y/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/4 DB98 R10 Y4 R10 Y/4 tartan")
 
 ID: /setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/
-00/

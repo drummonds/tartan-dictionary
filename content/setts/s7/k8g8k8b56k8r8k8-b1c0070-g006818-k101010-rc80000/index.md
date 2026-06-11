@@ -1,13 +1,20 @@
 ---
-title: "Eglinton (District?)"
+title: "Eglinton"
 date: 2023-03-18
 ---
 In pattern [KGKBKRK](/patterns/kgkbkrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2075/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1090
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1707 — Eglinton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1090))
+- 1707? — Eglinton (District?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2075/))
 
 ## Thread count
 K/8 G8 K8 DB56 K8 R8 K/8

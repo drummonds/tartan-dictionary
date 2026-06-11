@@ -1,13 +1,21 @@
 ---
-title: "Comrie Gold"
+title: "Comrie, Gold (Dance)"
 date: 2023-03-18
 ---
 In pattern [RWYYBWBY](/patterns/rwyybwby/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5630
+Original link http://www.tartansauthority.com/tartan-ferret/display/7606/
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- March 2008 — Comrie, Gold (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7606/))
+- undated — Comrie Gold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5630))
+- undated — Comrie Gold Fashion Tartan Tartan Number: 7606. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7606))
 
 ## Thread count
 R/8 W64 Ya24 Y10 DB4 W4 DB4 Y/84
@@ -29,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 W64 Ya24 Y10 DB4 W4 DB4 Y/84 tartan")
 
 ID: /setts/s8/y84b4w4b4y10ya24w64r8-b1c0070-rc80000-wf0e0c8-ye8c000-yaecb034/
-034/

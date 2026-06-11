@@ -20,5 +20,3 @@ RGRGGKR
 |---------------|
 | [Tipperary, County](/setts/s7/r66k16g24ga24r16g4r16-g603800-ga006818-k101010-rc80000/)|
 |![Tipperary, County example sett](/setts/s7/r66k16g24ga24r16g4r16-g603800-ga006818-k101010-rc80000/sett.png)|
-| [Tipperary, County (District)](/setts/s7/r66k16g24ga24r16g4r16-g603800-ga006818-k101010-rc80000/)|
-|![Tipperary, County (District) example sett](/setts/s7/r66k16g24ga24r16g4r16-g603800-ga006818-k101010-rc80000/sett.png)|

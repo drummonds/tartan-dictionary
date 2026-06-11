@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7613/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Weir Minerals (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7613/))
+- undated — Weir Minerals (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5635))
+
 ## Thread count
 DB/160 LN2 O16 LN/6
 ![Sett](sett.png)

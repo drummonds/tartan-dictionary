@@ -26,8 +26,6 @@ BBWBRB
 |![Pitt (Glasgow) example sett](/setts/s6/b46ba36w10ba4r28ba36-b406488-ba003c64-rc80000-we0e0e0/sett.png)|
 | [U.S. Navy/Edzell (Military)](/setts/s6/b90ba14w6ba54r2ba14-b14283c-ba2c2c80-rc80000-we0e0e0/)|
 |![U.S. Navy/Edzell (Military) example sett](/setts/s6/b90ba14w6ba54r2ba14-b14283c-ba2c2c80-rc80000-we0e0e0/sett.png)|
-| [S.C.O.T.S. (Corporate)](/setts/s6/b136ba45w7ba4r4ba16-b1474b4-ba1c0070-rc80000-we0e0e0/)|
-|![S.C.O.T.S. (Corporate) example sett](/setts/s6/b136ba45w7ba4r4ba16-b1474b4-ba1c0070-rc80000-we0e0e0/sett.png)|
 | [Navy-Radar](/setts/s6/b102ba16w8ba60r2ba18-b202060-ba1474b4-rc80000-we0e0e0/)|
 |![Navy-Radar example sett](/setts/s6/b102ba16w8ba60r2ba18-b202060-ba1474b4-rc80000-we0e0e0/sett.png)|
 | [Pitt (Name)](/setts/s6/b46ba36w10ba4r28ba36-b1474b4-ba003c64-rc80000-wfcfcfc/)|

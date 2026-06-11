@@ -1,13 +1,20 @@
 ---
-title: "Luker (Name)"
+title: "Luker (Personal)"
 date: 2023-03-18
 ---
 In pattern [RBKGKGKGW](/patterns/rbkgkgkgw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7225/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2242
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2007 — Luker (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2242))
+- May 2007 — Luker (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7225/))
 
 ## Thread count
 LN/8 G15 K15 G5 K2 G6 K40 DB20 R/6

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Brinkie's Brae (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=354))
+- pre 2002 — Brinkie's Brae (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2572/))
+
 ## Thread count
 K/6 W8 K6 R36 DB2 N36 K2 G36 W2 DB36 R2 N36 G2 R36 K6 W8 K/6
 ![Sett](sett.png)

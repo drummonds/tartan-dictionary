@@ -18,5 +18,3 @@ RGKYKYYYY
 |---------------|
 | [Bell of the Borders](/setts/s9/r12g8k36y8k8y96ya8y8ya4-g289c18-k000000-rc80000-y94acb8-yae8c000/)|
 |![Bell of the Borders example sett](/setts/s9/r12g8k36y8k8y96ya8y8ya4-g289c18-k000000-rc80000-y94acb8-yae8c000/sett.png)|
-| [Bell of the Borders (Name)](/setts/s9/r12g8k36y8k8y96ya8y8ya4-g289c18-k000000-rc80000-y94acb8-yae8c000/)|
-|![Bell of the Borders (Name) example sett](/setts/s9/r12g8k36y8k8y96ya8y8ya4-g289c18-k000000-rc80000-y94acb8-yae8c000/sett.png)|

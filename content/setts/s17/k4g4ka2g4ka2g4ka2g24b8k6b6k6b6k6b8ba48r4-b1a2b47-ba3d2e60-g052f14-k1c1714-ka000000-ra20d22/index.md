@@ -1,13 +1,20 @@
 ---
-title: "Rendell, Charles Name Tartan Tartan Number: 10699. Earliest known date: 13 September 2012 Ailsa and Alex Rendell designed this tartan to celebrate their father’s 60th birthday. The colours and threadcount are inspired by the Kennedy tartan STR #1942 with purple as the main base colour to give it a modern feel. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Rendell, Charles"
 date: 2023-03-18
 ---
 In pattern [KGKGKGKGBKBKBKBBR](/patterns/kgkgkgkgbkbkbkbbr/).
 
 
-This was sourced from house-of-tartan.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10699
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10699
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 06/09/2012 — Rendell, Charles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10699))
+- undated — Rendell, Charles Name Tartan Tartan Number: 10699. Earliest known date: 13 September 2012 Ailsa and Alex Rendell designed this tartan to celebrate their father’s 60th birthday. The colours and threadcount are inspired by the Kennedy tartan STR #1942 with purple as the main base colour to give it a modern feel. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10699))
 
 ## Thread count
 DR/4 DB48 DN8 K6 DN6 K6 DN6 K6 DN8 DG24 LP2 DG4 LP2 DG4 LP2 DG4 K/4

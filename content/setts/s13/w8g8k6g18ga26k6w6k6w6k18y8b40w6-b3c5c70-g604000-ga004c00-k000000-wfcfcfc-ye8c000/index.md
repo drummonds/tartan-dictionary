@@ -1,13 +1,20 @@
 ---
-title: "Clodagh (District)"
+title: "Clodagh/Cork"
 date: 2023-03-18
 ---
 In pattern [WBYKWKWKGGKGW](/patterns/wbykwkwkggkgw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1795/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1970 — Clodagh/Cork (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=689))
+- 1970 — Clodagh (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1795/))
 
 ## Thread count
 W/6 N40 Y8 K18 W6 K6 W6 K6 G26 T18 K6 T8 W/8

@@ -20,5 +20,3 @@ WBBBRW
 |---------------|
 | [Open Championship (1998)](/setts/s6/w4b40ba4bb30r18w4-b1c0070-ba5c5c5c-bb1c1c1c-r880000-wc0c0c0/)|
 |![Open Championship (1998) example sett](/setts/s6/w4b40ba4bb30r18w4-b1c0070-ba5c5c5c-bb1c1c1c-r880000-wc0c0c0/sett.png)|
-| [Open Championship (1998) (Corporate)](/setts/s6/w4b40ba4bb30r18w4-b1c0070-ba5c5c5c-bb1c1c1c-r880000-wc0c0c0/)|
-|![Open Championship (1998) (Corporate) example sett](/setts/s6/w4b40ba4bb30r18w4-b1c0070-ba5c5c5c-bb1c1c1c-r880000-wc0c0c0/sett.png)|

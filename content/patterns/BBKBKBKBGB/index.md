@@ -18,5 +18,3 @@ BBKBKBKBGB
 |---------------|
 | [Highland Granite](/setts/s10/b16g4b54k20ba8k4ba6k4ba32b4-b343434-ba585858-g7c7c7c-k101010/)|
 |![Highland Granite example sett](/setts/s10/b16g4b54k20ba8k4ba6k4ba32b4-b343434-ba585858-g7c7c7c-k101010/sett.png)|
-| [Highland Granite (Fashion)](/setts/s10/b16g4b54k20ba8k4ba6k4ba32b4-b343434-ba585858-g7c7c7c-k101010/)|
-|![Highland Granite (Fashion) example sett](/setts/s10/b16g4b54k20ba8k4ba6k4ba32b4-b343434-ba585858-g7c7c7c-k101010/sett.png)|

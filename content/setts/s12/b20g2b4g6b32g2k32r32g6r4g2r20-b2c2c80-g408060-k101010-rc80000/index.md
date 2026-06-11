@@ -1,13 +1,20 @@
 ---
-title: "MacInroy (Wedding)"
+title: "MacInroy (Wedding) (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGBGBGKRGRGR](/patterns/bgbgbgkrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/133/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1850 — MacInroy (Wedding) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479))
+- 1850 — MacInroy (Wedding) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/133/))
 
 ## Thread count
 DB/20 G2 DB4 G6 DB32 G2 K32 R32 G6 R4 G2 R/20

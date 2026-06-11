@@ -1,13 +1,20 @@
 ---
-title: "Muskoka"
+title: "Muskoka (District)"
 date: 2023-03-18
 ---
 In pattern [WGBGRYRY](/patterns/wgbgryry/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3083
+Original link http://www.tartansauthority.com/tartan-ferret/display/1799/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1961 — Muskoka (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1799/))
+- 01/01/1963 — Muskoka (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3083))
 
 ## Thread count
 LN/4 G10 B20 G40 R2 Y4 DR4 Y/2

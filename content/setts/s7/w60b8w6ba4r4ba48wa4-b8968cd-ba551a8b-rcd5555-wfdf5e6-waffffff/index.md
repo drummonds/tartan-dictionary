@@ -1,13 +1,20 @@
 ---
-title: "St Andrews Links Dress Corporate Tartan Tartan Number: 10506. Earliest known date: 01/04/2011 A Dress variation of the St Andrews Links tartan (Scottish Tartan Register ref.3880). See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "St Andrews Links Dress"
 date: 2023-03-18
 ---
 In pattern [WBRBWBW](/patterns/wbrbwbw/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10506
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10506
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2011 — St Andrews Links Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10506))
+- undated — St Andrews Links Dress Corporate Tartan Tartan Number: 10506. Earliest known date: 01/04/2011 A Dress variation of the St Andrews Links tartan (Scottish Tartan Register ref.3880). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10506))
 
 ## Thread count
 W/4 P48 DO4 P4 Wa6 Pa8 Wa/60

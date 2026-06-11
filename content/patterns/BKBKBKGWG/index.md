@@ -18,8 +18,6 @@ BKBKBKGWG
 |---------------|
 | [Abercrombie](/setts/s9/g56w4g28k28b8k8b8k8b28-b2c2c80-g006818-k101010-we0e0e0/)|
 |![Abercrombie example sett](/setts/s9/g56w4g28k28b8k8b8k8b28-b2c2c80-g006818-k101010-we0e0e0/sett.png)|
-| [Abercrombie - 1831 (Clan)](/setts/s9/g56w4g28k28b8k8b8k8b28-b2c2c80-g006818-k101010-we0e0e0/)|
-|![Abercrombie - 1831 (Clan) example sett](/setts/s9/g56w4g28k28b8k8b8k8b28-b2c2c80-g006818-k101010-we0e0e0/sett.png)|
 | [Abercrombie](/setts/s9/g28w2g14k14b4k4b4k4b14-b00004c-g004c00-k000000-wd0d0d0/)|
 |![Abercrombie example sett](/setts/s9/g28w2g14k14b4k4b4k4b14-b00004c-g004c00-k000000-wd0d0d0/sett.png)|
 | [Abercrombie](/setts/s9/g28w2g14k14b4k4b4k4b14-b304080-g008000-k000000-we0e0e0/)|

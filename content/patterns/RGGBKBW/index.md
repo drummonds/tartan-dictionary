@@ -20,5 +20,3 @@ RGGBKBW
 |---------------|
 | [Coulthard (Personal)](/setts/s7/r6g18ga30b20k4b36w6-b202060-g006818-ga5c6428-k101010-rc8002c-we0e0e0/)|
 |![Coulthard (Personal) example sett](/setts/s7/r6g18ga30b20k4b36w6-b202060-g006818-ga5c6428-k101010-rc8002c-we0e0e0/sett.png)|
-| [Coulthard (Personal)](/setts/s7/r6g18ga30b20k4b36w6-b202060-g006818-ga5c6428-k101010-rc8002c-we0e0e0/)|
-|![Coulthard (Personal) example sett](/setts/s7/r6g18ga30b20k4b36w6-b202060-g006818-ga5c6428-k101010-rc8002c-we0e0e0/sett.png)|

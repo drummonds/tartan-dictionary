@@ -24,5 +24,3 @@ BGBBRGRGRGR
 |![MacDougal 4 example sett](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b800080-ba304080-g008000-rc00000/sett.png)|
 | [MacDougall VS](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/)|
 |![MacDougall VS example sett](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/sett.png)|
-| [MacDougall VS](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/)|
-|![MacDougall VS example sett](/setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3121
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1963 — New York Fire Department Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3121))
+- Feb 1964 — New York Fire Dept. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/60/))
+
 ## Thread count
 K/16 W4 G52 K44 DB44 LP/12
 ![Sett](sett.png)

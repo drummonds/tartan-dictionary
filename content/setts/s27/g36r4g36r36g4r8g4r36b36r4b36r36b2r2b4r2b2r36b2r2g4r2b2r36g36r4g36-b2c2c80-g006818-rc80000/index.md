@@ -1,13 +1,20 @@
 ---
-title: "Ross #6"
+title: "Ross (Clan)"
 date: 2023-03-18
 ---
 In pattern [GRGRBRGRBRBRBRBRBRBRGRGRGRG](/patterns/grgrbrgrbrbrbrbrbrbrgrgrgrg/).
 
 
-This was sourced from register-of-tartans.  It is a [27 stripes tartan](/stripes/stripes27/).
+This was sourced from tartans-authority.  It is a [27 stripes tartan](/stripes/stripes27/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3557
+Original link http://www.tartansauthority.com/tartan-ferret/display/883/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1819 — Ross (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/883/))
+- 01/01/2002 — Ross #6 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3557))
 
 ## Thread count
 G/36 R4 G36 R36 DB2 R2 G4 R2 DB2 R36 DB2 R2 DB4 R2 DB2 R36 DB36 R4 DB36 R36 G4 R8 G4 R36 G36 R4 G/36

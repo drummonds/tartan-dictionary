@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Cornwall (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769))
+- pre 2006 — Cornwall (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7057/))
+
 ## Thread count
 DY/6 G72 K28 DR24 G8 DR24 G8 K28 G72 DR6 G72 K28 G8 DR24 G/8
 ![Sett](sett.png)

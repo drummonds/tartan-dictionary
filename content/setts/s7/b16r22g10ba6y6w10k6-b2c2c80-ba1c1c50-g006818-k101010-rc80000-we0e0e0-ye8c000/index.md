@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7786/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Sept. 2008 — Nicolson of Assynt & Coigach (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7786/))
+- undated — Nicolson of Assynt & Coigach (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5754))
+
 ## Thread count
 DB/16 R22 G10 DBa6 Y6 LN10 K/6
 ![Sett](sett.png)

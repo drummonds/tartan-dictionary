@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1584/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1979 — Ayrton (1979) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1584/))
+- undated — Ayrton Family Tartan Tartan Number: 1584. Earliest known date: pre 2003 Amended version See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1584))
+
 ## Thread count
 R/8 K4 G50 K4 B20 K4 G8 K4 DB50 K4 Y/8
 ![Sett](sett.png)
@@ -24,8 +31,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
-
-ID: /setts/s11/r8k4g50k4b20k4g8k4ba50k4y8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-ye8c000/
-vert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/r8k4g50k4b20k4g8k4ba50k4y8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-ye8c000/

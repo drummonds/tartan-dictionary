@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 22/12/2014 — Taiheiyo Club, Inc. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210))
+- 2015 — Taiheiyo Club, Inc (warp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11210/))
+
 ## Thread count
 K/12 DG47 K42 DG6 K6 DG6 K/46
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/12 DG47 K42 DG6 K6 DG6 K/46 tartan")
 
 ID: /setts/s7/k46g6k6g6k42g47k12-g003820-k101010/
-/

@@ -20,5 +20,3 @@ RWBWRKW
 |---------------|
 | [Tartan Tangerine](/setts/s7/r8w8b32w8r32k8w8-b780078-k101010-re86000-we0e0e0/)|
 |![Tartan Tangerine example sett](/setts/s7/r8w8b32w8r32k8w8-b780078-k101010-re86000-we0e0e0/sett.png)|
-| [Tartan Tangerine (Corporate)](/setts/s7/r8w8b32w8r32k8w8-b780078-k101010-re86000-we0e0e0/)|
-|![Tartan Tangerine (Corporate) example sett](/setts/s7/r8w8b32w8r32k8w8-b780078-k101010-re86000-we0e0e0/sett.png)|

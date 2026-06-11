@@ -1,13 +1,20 @@
 ---
-title: "Child, The (Fashion)"
+title: "Child, The"
 date: 2023-03-18
 ---
 In pattern [BKGKBRBKRKBY](/patterns/bkgkbrbkrkby/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4139/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=633
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2000 — Child, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=633))
+- 2001 — Child, The (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4139/))
 
 ## Thread count
 DY/8 LP20 K2 R8 K2 LP20 DR8 LP20 K2 G8 K2 LP/20

@@ -1,13 +1,20 @@
 ---
-title: "Dalveen (District)"
+title: "Dalveen (2004)"
 date: 2023-03-18
 ---
 In pattern [GYGRGWY](/patterns/gygrgwy/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6657/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=883
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Dalveen (2004) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=883))
+- 2004 — Dalveen (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6657/))
 
 ## Thread count
 Ba/44 W2 B12 R12 B12 Y6 G/24

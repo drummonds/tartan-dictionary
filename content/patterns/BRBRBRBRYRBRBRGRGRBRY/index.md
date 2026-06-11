@@ -18,8 +18,6 @@ BRBRBRBRYRBRBRGRGRBRY
 |---------------|
 | [MacLeod Red](/setts/s21/b8r2b2r4b22r4b2r2y2r2b2r32b16r8g8r32g22r16b8r4y4-b2c2c80-g006818-rc80000-ye8c000/)|
 |![MacLeod Red example sett](/setts/s21/b8r2b2r4b22r4b2r2y2r2b2r32b16r8g8r32g22r16b8r4y4-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
-| [MacLeod Red (Clan)](/setts/s21/b8r2b2r4b22r4b2r2y2r2b2r32b16r8g8r32g22r16b8r4y4-b2c2c80-g006818-rc80000-ye8c000/)|
-|![MacLeod Red (Clan) example sett](/setts/s21/b8r2b2r4b22r4b2r2y2r2b2r32b16r8g8r32g22r16b8r4y4-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
 | [MacLeod Red](/setts/s21/b8r2b2r4b22r4b2r2y2r2b2r32b16r8g8r32g22r16b8r4y4-b000050-g008000-rc00000-yf0c000/)|
 |![MacLeod Red example sett](/setts/s21/b8r2b2r4b22r4b2r2y2r2b2r32b16r8g8r32g22r16b8r4y4-b000050-g008000-rc00000-yf0c000/sett.png)|
 | [MacLeod Red Clan Tartan Tartan Number: 496. Earliest known date: 1982 Designed after the tartan worn by Norman MacLeod, 22nd Chief of the clan, painted by Allan Ramsay in 1747, with the costume painted by Van Haecken (see details in entry for MacLeod portrait.) A yellow stripe was added by Ruairidh MacLeod to enhance the family resemblance to other MacLeod tartans, and to differentiate this from Murray of Tullibardine, the name now attached to the sett in the portrait. Approved by the Clan MacLeod Parliament in 1982. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/b8r2b2r4b22r4b2r2y2r2b2r32b16r8g8r32g22r16b8r4y4-b202060-g006818-rc80000-ye8c000/)|

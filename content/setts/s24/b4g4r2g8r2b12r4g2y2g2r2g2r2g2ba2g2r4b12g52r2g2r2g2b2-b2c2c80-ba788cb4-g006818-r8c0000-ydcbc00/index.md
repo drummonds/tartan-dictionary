@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1137
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — Ettrick Forest (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1137))
+- 1995 — Ettrick Forest (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4829/))
+
 ## Thread count
 DB/4 G4 DR2 G8 DR2 DB12 DR4 G2 Y2 G2 DR2 G2 DR2 G2 B2 G2 DR4 DB12 G52 DR2 G2 DR2 G2 DB/2
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#DCBC00;"><span style="color:#DCBC00;filter:grayscale(1) invert(1) contrast(100);">#DCBC00</span></code> `#DCBC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.02 |
 
 ID: /setts/s24/b4g4r2g8r2b12r4g2y2g2r2g2r2g2ba2g2r4b12g52r2g2r2g2b2-b2c2c80-ba788cb4-g006818-r8c0000-ydcbc00/
-cbc00/

@@ -1,13 +1,20 @@
 ---
-title: "Moon (Name)"
+title: "Moon (Georgia, USA)"
 date: 2023-03-18
 ---
 In pattern [KRGKYKBKBKYKGRKRKW](/patterns/krgkykbkbkykgrkrkw/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4100/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3002
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 10/09/2001 — Moon (Georgia, USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3002))
+- pre 2002 — Moon (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4100/))
 
 ## Thread count
 DB/6 DR16 DG16 K2 DY6 K2 B8 DB54 B8 K2 DY6 K2 DG16 DR16 DB6 DR10 K2 N/8
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
 ID: /setts/s18/w8k2r10ka6r16g16k2y6k2b8ka54b8k2y6k2g16r16ka6-b3474fc-g003014-k000000-ka000034-r8c0000-wc8c8c8-yc88c00/
-c8-yc88c00/

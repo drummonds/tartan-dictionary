@@ -20,5 +20,3 @@ BWYR
 |---------------|
 | [Louisburg](/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/)|
 |![Louisburg example sett](/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/sett.png)|
-| [Louisburg (District)](/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/)|
-|![Louisburg (District) example sett](/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6735/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2005 — Yudo (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6735/))
+- undated — Yudo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5346))
+
 ## Thread count
 K/8 R36 W8 DB8 W16 DB8 W8 DB80 W/8
 ![Sett](sett.png)

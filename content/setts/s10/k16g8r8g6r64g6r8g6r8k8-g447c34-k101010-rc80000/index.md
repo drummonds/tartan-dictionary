@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2357
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1914 — MacDonald of Belfinlay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2357))
+- 1914 — MacDonald of Clanranald - 1914 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4559/))
+
 ## Thread count
 K/16 G8 R8 G6 R64 G6 R8 G6 R8 K/8
 ![Sett](sett.png)
@@ -23,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/k16g8r8g6r64g6r8g6r8k8-g447c34-k101010-rc80000/
-00/

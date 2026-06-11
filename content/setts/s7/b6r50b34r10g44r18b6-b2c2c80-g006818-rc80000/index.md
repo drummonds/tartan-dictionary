@@ -1,13 +1,21 @@
 ---
-title: "MacFadyen MacBean (Old) Clan Tartan Tartan Number: 403. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacFadyan (MacGregor Hastie)"
 date: 2023-03-18
 ---
 In pattern [BRBRGRB](/patterns/brbrgrb/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=403
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2429
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1745 — MacFadyan (MacGregor Hastie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2429))
+- 1745 — MacFadyan (MacGregor Hastie) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/403/))
+- undated — MacFadyen MacBean (Old) Clan Tartan Tartan Number: 403. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=403))
 
 ## Thread count
 DB/6 R50 DB34 R10 G44 R18 DB/6

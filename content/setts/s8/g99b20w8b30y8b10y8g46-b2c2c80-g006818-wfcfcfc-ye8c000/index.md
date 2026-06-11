@@ -1,13 +1,20 @@
 ---
-title: "Duke of York Htg (Royal)"
+title: "Duke of York Hunting"
 date: 2023-03-18
 ---
 In pattern [GBWBYBYG](/patterns/gbwbybyg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/745/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Duke of York Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012))
+- pre 2002 — Duke of York Htg (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/745/))
 
 ## Thread count
 G/99 DB20 W8 DB30 Y8 DB10 Y8 G/46
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/99 DB20 W8 DB30 Y8 DB10 Y8 G/46 tartan")
 
 ID: /setts/s8/g99b20w8b30y8b10y8g46-b2c2c80-g006818-wfcfcfc-ye8c000/
-

@@ -20,5 +20,3 @@ WYBY
 |---------------|
 | [Barclay Dress](/setts/s4/w10y64b64y10-b1c1c1c-we0e0e0-ye8c000/)|
 |![Barclay Dress example sett](/setts/s4/w10y64b64y10-b1c1c1c-we0e0e0-ye8c000/sett.png)|
-| [Barclay Dress (Clan)](/setts/s4/w10y64b64y10-b1c1c1c-we0e0e0-ye8c000/)|
-|![Barclay Dress (Clan) example sett](/setts/s4/w10y64b64y10-b1c1c1c-we0e0e0-ye8c000/sett.png)|

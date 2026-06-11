@@ -1,13 +1,20 @@
 ---
-title: "Scottish Netball Association Corporate Tartan Tartan Number: 689. Earliest known date: 1987 Designed for the World Netball Championship held in 1987. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Scottish Netball (1987) (Corporate)"
 date: 2023-03-18
 ---
 In pattern [GBBBR](/patterns/gbbbr/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=689
+Original link http://www.tartansauthority.com/tartan-ferret/display/689/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1987 — Scottish Netball (1987) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/689/))
+- undated — Scottish Netball Association Corporate Tartan Tartan Number: 689. Earliest known date: 1987 Designed for the World Netball Championship held in 1987. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=689))
 
 ## Thread count
 G/4 P40 DB18 P40 R/4

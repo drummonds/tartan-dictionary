@@ -18,7 +18,5 @@ BKYKYGRK
 
 | Tartans |
 |---------------|
-| [MacBeth #3](/setts/s8/b84k12y4k6y4g20r14k4-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![MacBeth #3 example sett](/setts/s8/b84k12y4k6y4g20r14k4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
 | [MacBeth (Fashion)](/setts/s8/b84k12y4k6y4g20r14k4-b1c0070-g006818-k101010-r880000-yd09800/)|
 |![MacBeth (Fashion) example sett](/setts/s8/b84k12y4k6y4g20r14k4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|

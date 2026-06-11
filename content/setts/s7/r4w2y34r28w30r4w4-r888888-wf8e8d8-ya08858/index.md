@@ -1,13 +1,20 @@
 ---
-title: "NASSA (Corporate)"
+title: "North American Sheep Breeders Association"
 date: 2023-03-18
 ---
 In pattern [RWYRWRW](/patterns/rwyrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7097/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2007 — North American Sheep Breeders Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088))
+- Feb 2007 — NASSA (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7097/))
 
 ## Thread count
 LY/4 N4 LY30 N28 LT34 LY2 N/4

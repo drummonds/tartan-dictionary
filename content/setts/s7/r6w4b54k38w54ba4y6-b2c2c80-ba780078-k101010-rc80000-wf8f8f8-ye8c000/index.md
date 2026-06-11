@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [RWBKWBY](/patterns/rwbkwby/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6831/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=646
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Christian Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=646))
+- 2005 January — Christian Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6831/))
 
 ## Thread count
 R/6 W4 DB54 K38 W54 P4 Y/6
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/6 W4 DB54 K38 W54 P4 Y/6 tartan")
 
 ID: /setts/s7/r6w4b54k38w54ba4y6-b2c2c80-ba780078-k101010-rc80000-wf8f8f8-ye8c000/
-0/

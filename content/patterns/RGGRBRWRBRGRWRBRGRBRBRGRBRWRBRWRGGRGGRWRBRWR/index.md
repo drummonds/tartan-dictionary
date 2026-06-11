@@ -16,8 +16,6 @@ RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRBRWR
 
 | Tartans |
 |---------------|
-| [MacAlister (Smith 1850)](/setts/s44/r16g2ga4r4b2r2w2r2b2r4ga6r2w2r12b2r2ga24r2b2r32b2r2ga24r2b2r12w2r2ba8r2w2r4ga6g2r4g2ga6r6w2r2ba4r2w2r16-b5c8ca8-ba2c2c80-g289c18-ga006818-rc80000-we0e0e0/)|
-|![MacAlister (Smith 1850) example sett](/setts/s44/r16g2ga4r4b2r2w2r2b2r4ga6r2w2r12b2r2ga24r2b2r32b2r2ga24r2b2r12w2r2ba8r2w2r4ga6g2r4g2ga6r6w2r2ba4r2w2r16-b5c8ca8-ba2c2c80-g289c18-ga006818-rc80000-we0e0e0/sett.png)|
 | [MacAlister (Clan)](/setts/s44/r16g2ga4r4b2r2w2r2b2r4ga6r2w2r12b2r2ga24r2b2r32b2r2ga24r2b2r12w2r2ba8r2w2r4ga6g2r4g2ga6r6w2r2ba4r2w2r16-b5c8ca8-ba2c2c80-g289c18-ga006818-rc80000-we0e0e0/)|
 |![MacAlister (Clan) example sett](/setts/s44/r16g2ga4r4b2r2w2r2b2r4ga6r2w2r12b2r2ga24r2b2r32b2r2ga24r2b2r12w2r2ba8r2w2r4ga6g2r4g2ga6r6w2r2ba4r2w2r16-b5c8ca8-ba2c2c80-g289c18-ga006818-rc80000-we0e0e0/sett.png)|
 | [MacAlister](/setts/s44/r16g2ga4r4b2r2w2r2b2r4ga6r2w2r12b2r2ga24r2b2r32b2r2ga24r2b2r12w2r2ba8r2w2r4ga6g2r4g2ga6r6w2r2ba4r2w2r16-b5480b0-ba304080-g30a010-ga008000-rc00000-we0e0e0/)|

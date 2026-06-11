@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [18 stripes tartan](/stripes/stripes18
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Royal Canadian Air Force (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Royal Canadian Air Force (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DR/4 B6 K1 DR2 K1 B14 K3 N3 K2 DR2 K2 DR2 DB4 DR2 DB6 DR2 DB6 DR/3
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7641/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Nynashamn Whisky Society (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7641/))
+- undated — Nynaeshamn Whisky Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5655))
+
 ## Thread count
 LN/2 DG2 LN2 DB62 G26 Y/21
 ![Sett](sett.png)

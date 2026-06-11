@@ -18,7 +18,5 @@ GKG
 
 | Tartans |
 |---------------|
-| [Scotch Tape](/setts/s3/g60k40g6-g006818-k101010/)|
-|![Scotch Tape example sett](/setts/s3/g60k40g6-g006818-k101010/sett.png)|
 | [Scotch Tape (Corporate)](/setts/s3/g60k40g6-g006818-k101010/)|
 |![Scotch Tape (Corporate) example sett](/setts/s3/g60k40g6-g006818-k101010/sett.png)|

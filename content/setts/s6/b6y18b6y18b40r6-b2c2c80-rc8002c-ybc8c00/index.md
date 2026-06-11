@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1689 — Latin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905))
+- 1689 — Latin (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3873/))
+
 ## Thread count
 DB/6 DY18 DB6 DY18 DB40 R/6
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/6 DY18 DB6 DY18 DB40 R/6 tartan")
 
 ID: /setts/s6/b6y18b6y18b40r6-b2c2c80-rc8002c-ybc8c00/
-c8c00/

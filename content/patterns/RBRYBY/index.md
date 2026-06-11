@@ -20,5 +20,3 @@ RBRYBY
 |---------------|
 | [Torana](/setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/)|
 |![Torana example sett](/setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/sett.png)|
-| [Torana (Fashion)](/setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/)|
-|![Torana (Fashion) example sett](/setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/sett.png)|

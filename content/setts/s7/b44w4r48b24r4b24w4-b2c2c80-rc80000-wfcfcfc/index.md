@@ -1,13 +1,20 @@
 ---
-title: "Coronation (1936) #2 (Commemorative)"
+title: "Coronation (1936) #2"
 date: 2023-03-18
 ---
 In pattern [BWRBRBW](/patterns/bwrbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2082/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=771
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Coronation (1936) #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=771))
+- pre 2002 — Coronation (1936) #2 (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2082/))
 
 ## Thread count
 DB/44 W4 R48 DB24 R4 DB24 W/4

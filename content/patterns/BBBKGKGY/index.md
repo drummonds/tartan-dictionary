@@ -20,5 +20,3 @@ BBBKGKGY
 |---------------|
 | [McFadden (Personal)](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/)|
 |![McFadden (Personal) example sett](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/sett.png)|
-| [McFadden (Personal)](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/)|
-|![McFadden (Personal) example sett](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/sett.png)|

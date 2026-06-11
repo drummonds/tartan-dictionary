@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1330
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2003 — General Choi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1330))
+- July 2003 — General Choi (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5898/))
+
 ## Thread count
 B/6 Y4 B6 Y4 B64 K56 Y4 K4 Y4 K4 Y/6
 ![Sett](sett.png)

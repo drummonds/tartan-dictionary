@@ -1,13 +1,20 @@
 ---
-title: "Kruenaegel-Schropp Name Tartan Tartan Number: 10591. Earliest known date: 11 April 2012 Designed by Doris Maria Kruenaegel-Schropp to commemorate the Prussian and Bavarian origins of the Kruenaegel-Schropp family. Colours: blue and white represent the flags of both countries; green represents the hills of the Allgäu region of South Germany where the family currently reside; red-violet represents wisdom and dignity. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Kruenaegel and Schropp"
 date: 2023-03-18
 ---
 In pattern [BRWBWBGW](/patterns/brwbwbgw/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10591
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10591
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 20/03/2012 — Kruenaegel and Schropp (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10591))
+- undated — Kruenaegel-Schropp Name Tartan Tartan Number: 10591. Earliest known date: 11 April 2012 Designed by Doris Maria Kruenaegel-Schropp to commemorate the Prussian and Bavarian origins of the Kruenaegel-Schropp family. Colours: blue and white represent the flags of both countries; green represents the hills of the Allgäu region of South Germany where the family currently reside; red-violet represents wisdom and dignity. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10591))
 
 ## Thread count
 B/80 DR4 LN12 G4 LN8 G32 LG12 LN/4

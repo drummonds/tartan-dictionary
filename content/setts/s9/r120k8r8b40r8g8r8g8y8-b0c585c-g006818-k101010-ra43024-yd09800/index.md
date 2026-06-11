@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3239
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1973 — Oliver Dress (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3239))
+- 1973 — Oliver, Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1606/))
+
 ## Thread count
 DY/8 G8 T8 G8 T8 Ga40 T8 K8 T/120
 ![Sett](sett.png)

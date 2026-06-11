@@ -1,13 +1,20 @@
 ---
-title: "Rea (Name)"
+title: "Rea"
 date: 2023-03-18
 ---
 In pattern [BYBKBK](/patterns/bybkbk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6613/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3470
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1973 — Rea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3470))
+- 1973 — Rea (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6613/))
 
 ## Thread count
 B/48 Y8 B4 K20 B16 K/8

@@ -1,13 +1,21 @@
 ---
-title: "Regan/O'Riagain (Clan?)"
+title: "Regan"
 date: 2023-03-18
 ---
 In pattern [BKWBYBKBWY](/patterns/bkwbybkbwy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4020/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3488
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/08/2000 — Regan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3488))
+- 01/01/2002 — Regan/O'Riagain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3489))
+- 2002 — Regan/O'Riagain (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4020/))
 
 ## Thread count
 P/8 K8 LN8 P80 Y8 DB16 K8 DB16 LN8 Y/8

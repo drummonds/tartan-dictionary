@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10664
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 02/08/2012 — Gamba Tuscany Fife (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10664))
+- undated — Gamba Tuscany Fife Name Tartan Tartan Number: 10664. Earliest known date: 02/08/2012 Designed by Catherine Gamba to commemorate the golden wedding of Joseph and Catherine Gamba, whose roots are in Tuscany and Fife. The colours are taken from the Scottish and Italian flags. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10664))
+
 ## Thread count
 DG/10 R6 G60 B60 LN/6
 ![Sett](sett.png)

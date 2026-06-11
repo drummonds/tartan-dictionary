@@ -7,7 +7,14 @@ In pattern [BKBGYG](/patterns/bkbgyg/).
 
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Oliphant (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Oliphant (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DB/8 K8 DB48 DG64 N2 DG/4

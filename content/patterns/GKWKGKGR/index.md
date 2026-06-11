@@ -20,8 +20,6 @@ GKWKGKGR
 |---------------|
 | [MacAulay Hunting](/setts/s8/g12k32w2k32g16k8g24r4-g006818-k101010-rc80000-wfcfcfc/)|
 |![MacAulay Hunting example sett](/setts/s8/g12k32w2k32g16k8g24r4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [MacAulay Htg (Clan)](/setts/s8/g12k32w2k32g16k8g24r4-g006818-k101010-rc80000-wfcfcfc/)|
-|![MacAulay Htg (Clan) example sett](/setts/s8/g12k32w2k32g16k8g24r4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [MacAulay Hunting](/setts/s8/g12k32w2k32g16k8g24r4-g004c00-k000000-rc80000-wd0d0d0/)|
 |![MacAulay Hunting example sett](/setts/s8/g12k32w2k32g16k8g24r4-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
 | [MacAuley, hunting](/setts/s8/g12k32w2k32g16k8g24r4-g008000-k000000-rc00000-we0e0e0/)|

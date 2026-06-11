@@ -1,13 +1,20 @@
 ---
-title: "Parkin (Personal)"
+title: "Parkin"
 date: 2023-03-18
 ---
 In pattern [BBWBWYBW](/patterns/bbwbwybw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6003/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2003 — Parkin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3295))
+- Nov. 2003 — Parkin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6003/))
 
 ## Thread count
 LN/6 DN18 Y2 LP6 P18 LP2 DN80 P/4

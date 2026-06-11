@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2899
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — McMoosie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2899))
+- 2002 — McMoosie (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3933/))
+
 ## Thread count
 G/162 R20 Y/40
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/162 R20 Y/40 tartan")
 
 ID: /setts/s3/g162r20y40-g006818-rc80000-ye8c000/
-c000/

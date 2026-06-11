@@ -18,5 +18,3 @@ GBBBBGRGBBBBGBRBG
 |---------------|
 | [Frangord](/setts/s17/g28b4r4b4g44ba4b32ba4bb40g10r4g10bb40ba4b32ba4g16-b2c2c80-ba2888c4-bb202060-g285800-re87878/)|
 |![Frangord example sett](/setts/s17/g28b4r4b4g44ba4b32ba4bb40g10r4g10bb40ba4b32ba4g16-b2c2c80-ba2888c4-bb202060-g285800-re87878/sett.png)|
-| [Frangord (Corporate)](/setts/s17/g28b4r4b4g44ba4b32ba4bb40g10r4g10bb40ba4b32ba4g16-b2c2c80-ba2888c4-bb202060-g285800-re87878/)|
-|![Frangord (Corporate) example sett](/setts/s17/g28b4r4b4g44ba4b32ba4bb40g10r4g10bb40ba4b32ba4g16-b2c2c80-ba2888c4-bb202060-g285800-re87878/sett.png)|

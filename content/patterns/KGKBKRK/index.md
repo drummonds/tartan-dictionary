@@ -22,10 +22,6 @@ KGKBKRK
 |![Eglinton example sett](/setts/s7/k8g8k8b56k8r8k8-b1c0070-g006818-k101010-rc80000/sett.png)|
 | [Montgomrie/Montgomery of Eglinton](/setts/s7/k8g10k8b56k8r10k8-b440044-g006818-k101010-rc80000/)|
 |![Montgomrie/Montgomery of Eglinton example sett](/setts/s7/k8g10k8b56k8r10k8-b440044-g006818-k101010-rc80000/sett.png)|
-| [Montgomery - 1819 (Clan)](/setts/s7/k8g10k8b56k8r10k8-b440044-g006818-k101010-rc80000/)|
-|![Montgomery - 1819 (Clan) example sett](/setts/s7/k8g10k8b56k8r10k8-b440044-g006818-k101010-rc80000/sett.png)|
-| [Eglinton (District?)](/setts/s7/k8g8k8b56k8r8k8-b1c0070-g006818-k101010-rc80000/)|
-|![Eglinton (District?) example sett](/setts/s7/k8g8k8b56k8r8k8-b1c0070-g006818-k101010-rc80000/sett.png)|
 | [Montgomery](/setts/s7/k4g5k4b28k4r5k4-b5a3094-g004c00-k000000-rc80000/)|
 |![Montgomery example sett](/setts/s7/k4g5k4b28k4r5k4-b5a3094-g004c00-k000000-rc80000/sett.png)|
 | [Eglinton](/setts/s7/k6g6k6b32k6r6k6-b5480b0-g008000-k000000-rc00000/)|

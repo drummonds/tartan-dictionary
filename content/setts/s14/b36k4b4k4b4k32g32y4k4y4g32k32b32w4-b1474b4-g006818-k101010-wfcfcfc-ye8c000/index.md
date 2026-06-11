@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1057
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1906 — Dyce (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1057))
+- 1906 — Dyce (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/291/))
+
 ## Thread count
 B/36 K4 B4 K4 B4 K32 G32 Y4 K4 Y4 G32 K32 B32 W/4
 ![Sett](sett.png)

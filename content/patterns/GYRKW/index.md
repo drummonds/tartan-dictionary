@@ -22,5 +22,3 @@ GYRKW
 |![Papua New Guinea example sett](/setts/s5/g6y10r28k72w6-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
 | [Papua New Guinea Pipes and Drums](/setts/s5/g6y10r26k66w4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/)|
 |![Papua New Guinea Pipes and Drums example sett](/setts/s5/g6y10r26k66w4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Papua New Guinea (Corporate)](/setts/s5/g6y10r28k72w6-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Papua New Guinea (Corporate) example sett](/setts/s5/g6y10r28k72w6-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

@@ -9,6 +9,14 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3969/
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- pre 1993 — Baluch Regiment (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3969/))
+- 01/01/2002 — Fitzgerald (Military) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1194))
+- undated — Baluch Regiment (Old Count) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4955))
+
 ## Thread count
 R/10 G40 R10 G6 R8 G10 R72 T4 W/8
 ![Sett](sett.png)

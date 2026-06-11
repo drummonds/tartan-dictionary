@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7577/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Fyvie, Magenta (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7577/))
+- undated — Fyvie Magenta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5601))
+
 ## Thread count
 P/24 DG2 LR8 DG2 LR8 Na10 N6 Na10 W68 Na10 LR4 N4 P/8
 ![Sett](sett.png)

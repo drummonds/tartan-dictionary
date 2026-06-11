@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GBGBWKBKBKBGWKG](/patterns/gbgbwkbkbkbgwkg/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6205/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2002 — Leel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083))
+- pre 2004 — Leel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6205/))
 
 ## Thread count
 G/16 DB4 G16 DB20 LP4 K16 B12 K4 B6 K4 B12 G12 W4 K4 G/4

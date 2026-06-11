@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [40 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3285
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Palatine Union (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3285))
+- 2004 — Palatine Union (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6802/))
+
 ## Thread count
 DB/26 K6 DB6 K6 DB6 K20 B20 LN8 R8 LN8 B20 K20 DB28 K6 DB6 K6 DB28 K20 B16 LN6 R6 LN6 B16 K20 DB26 K6 DB6 K6 DB26 K20 B20 LN8 R8 LN8 B20 K20 DB6 K6 DB6 K/6
 ![Sett](sett.png)

@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BWGWBR](/patterns/bwgwbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7382/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2003 — McIntosh, Georgina (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889))
+- pre 2007 — McIntosh, Georgina (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7382/))
 
 ## Thread count
 P/108 LB12 G24 LB12 DB48 R/12

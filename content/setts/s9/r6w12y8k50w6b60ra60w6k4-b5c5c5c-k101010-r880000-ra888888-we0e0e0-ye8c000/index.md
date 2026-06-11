@@ -1,13 +1,20 @@
 ---
-title: "Craparo (Name)"
+title: "Craparo"
 date: 2023-03-18
 ---
 In pattern [KWRBWKYWR](/patterns/kwrbwkywr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4029/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=797
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2001 — Craparo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=797))
+- 2001 — Craparo (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4029/))
 
 ## Thread count
 DR/6 LN12 Y8 K50 LN6 N60 Na60 LN6 K/4

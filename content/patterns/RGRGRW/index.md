@@ -20,8 +20,6 @@ RGRGRW
 |---------------|
 | [Al-Maktoum](/setts/s6/w22r64g24r10g24r10-g006818-rc80000-wfcfcfc/)|
 |![Al-Maktoum example sett](/setts/s6/w22r64g24r10g24r10-g006818-rc80000-wfcfcfc/sett.png)|
-| [Al-Maktoum (Military)](/setts/s6/w22r64g24r10g24r10-g006818-rc80000-wfcfcfc/)|
-|![Al-Maktoum (Military) example sett](/setts/s6/w22r64g24r10g24r10-g006818-rc80000-wfcfcfc/sett.png)|
 | [Makhtoum](/setts/s6/w22r80g26r10g24r10-g008000-rc00000-we0e0e0/)|
 |![Makhtoum example sett](/setts/s6/w22r80g26r10g24r10-g008000-rc00000-we0e0e0/sett.png)|
 | [Makhtoum Regimental Tartan Tartan Number: 1531. Earliest known date: 1977 Based on Cameron. Designed for HH Shaikh Rashid Bin Saeed al-Maktoum, the ruler of Dubai, for the Dubai Pipe Band. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w22r80g26r10g24r10-g006818-rc80000-we0e0e0/)|

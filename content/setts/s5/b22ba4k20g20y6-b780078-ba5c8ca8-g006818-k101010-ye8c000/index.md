@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3144
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Nobiliary Fraternity (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3144))
+- c 1819 — Nobiliary Fraternity. . .(Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6997/))
+
 ## Thread count
 Pa/22 Ba4 K20 G20 Y/6
 ![Sett](sett.png)

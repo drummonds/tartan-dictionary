@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=328
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Boys Brigade (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=328))
+- pre 2002 — Boys' Brigade (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1466/))
+
 ## Thread count
 R/6 DG56 G38 DG6 DB38 DG6 DB38 DG6 G38 DG56 W/6
 ![Sett](sett.png)

@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [RGBGR](/patterns/rgbgr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5498/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Loton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226))
+- pre 2002 — Loton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5498/))
 
 ## Thread count
 DR/8 G68 DB8 G8 DR/24
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/8 G68 DB8 G8 DR/24 tartan")
 
 ID: /setts/s5/r24g8b8g68r8-b00008c-g004c00-r880000/
-00/

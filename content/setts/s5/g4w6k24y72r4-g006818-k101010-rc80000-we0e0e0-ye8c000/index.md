@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5361
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Port Moresby City Pipes & Drums (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5361))
+- pre 2007 — Port Moresby City (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7236/))
+
 ## Thread count
 G/4 LN6 K24 Y72 R/4
 ![Sett](sett.png)

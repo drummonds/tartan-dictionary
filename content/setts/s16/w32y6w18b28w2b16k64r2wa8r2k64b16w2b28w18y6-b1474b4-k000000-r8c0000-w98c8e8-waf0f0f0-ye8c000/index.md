@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4785
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Wrens (WRNS) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4785))
+- undated — Wrens Corporate Tartan Tartan Number: 2345. Earliest known date: 1995 Popularly known as the Wrens. Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2345))
+
 ## Thread count
 LB/32 Ya6 LB18 Ba28 LB2 Ba16 K64 DR2 W8 DR2 K64 Ba16 LB2 Ba28 LB18 Ya/6
 ![Sett](sett.png)

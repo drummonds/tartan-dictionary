@@ -1,13 +1,20 @@
 ---
-title: "Prince of Wales"
+title: "Prince of Wales (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GRGRGRGWGW](/patterns/grgrgrgwgw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3396
+Original link http://www.tartansauthority.com/tartan-ferret/display/3306/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1978 — Prince of Wales (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3306/))
+- 01/01/1998 — Prince of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3396))
 
 ## Thread count
 G/12 R24 G8 R4 G8 R4 G64 LN4 G8 LN/12
@@ -23,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/g12r24g8r4g8r4g64w4g8w12-g00542c-rc80000-we0e0e0/
-e0e0/

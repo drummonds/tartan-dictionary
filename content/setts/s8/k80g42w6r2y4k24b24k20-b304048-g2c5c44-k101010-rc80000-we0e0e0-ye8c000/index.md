@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7497/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Feb 2008 — MacNeill, Royce (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7497/))
+- undated — MacNeill, Royce (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5538))
+
 ## Thread count
 K/80 N42 LN6 R2 Y4 K24 Na24 K/20
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4794
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/1997 — Yorkland (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4794))
+- 1997 — Yorkland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2370/))
+
 ## Thread count
 B/72 R4 B8 LN2 T28 G8 Y4 G/36
 ![Sett](sett.png)

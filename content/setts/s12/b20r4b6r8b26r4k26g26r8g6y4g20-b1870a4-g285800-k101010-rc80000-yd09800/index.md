@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=323
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1978 — Bowie (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=323))
+- 1960s — Bowie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/435/))
+
 ## Thread count
 B/20 R4 B6 R8 B26 R4 K26 G26 R8 G6 DY4 G/20
 ![Sett](sett.png)

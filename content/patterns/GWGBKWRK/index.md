@@ -20,7 +20,3 @@ GWGBKWRK
 |---------------|
 | [Mull Rugby Club (Old)](/setts/s8/g88w4g20b6k12w2r4k36-b288cc8-g007800-k000000-rc82800-wc8c8c8/)|
 |![Mull Rugby Club (Old) example sett](/setts/s8/g88w4g20b6k12w2r4k36-b288cc8-g007800-k000000-rc82800-wc8c8c8/sett.png)|
-| [Mull Rugby Club (Sports)](/setts/s8/g88w4g20b6k12w2r4k36-b288cc8-g007800-k000000-rc82800-wc8c8c8/)|
-|![Mull Rugby Club (Sports) example sett](/setts/s8/g88w4g20b6k12w2r4k36-b288cc8-g007800-k000000-rc82800-wc8c8c8/sett.png)|
-| [Mull Rugby Club Corporate Sport Tartan Tartan Number: 5648. Earliest known date: pre 2002 Designed by Peter MacDonald at the suggestion of Mrs Ros Jones, Aros, Mull for the Mull Rugby Club. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g88w4g20b6k12w2r4k36-b288cc8-g007800-k000000-rc82800-wc8c8c8/)|
-|![Mull Rugby Club Corporate Sport Tartan Tartan Number: 5648. Earliest known date: pre 2002 Designed by Peter MacDonald at the suggestion of Mrs Ros Jones, Aros, Mull for the Mull Rugby Club. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/g88w4g20b6k12w2r4k36-b288cc8-g007800-k000000-rc82800-wc8c8c8/sett.png)|

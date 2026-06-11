@@ -1,13 +1,20 @@
 ---
-title: "Letham (S.Australia) (Name)"
+title: "Letham (S.Australia)"
 date: 2023-03-18
 ---
 In pattern [BKGBKBKG](/patterns/bkgbkbkg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6718/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2005 — Letham (S.Australia) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106))
+- 2005 August — Letham (S.Australia) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6718/))
 
 ## Thread count
 B/8 K8 G26 B14 K8 B20 K40 G/80

@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [15 stripes tartan](/stripes/stripes15
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Drummond C (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Drummond C (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DR/6 DB2 DR2 DB2 DR12 N2 DR2 K4 DR2 DG2 DR2 DG12 DR2 K2 DR/6
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4193
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — U.S.S. John Paul Jones #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4193))
+- pre 2002 — U.S.S. John Paul Jones (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4360/))
+
 ## Thread count
 LP/12 DB4 B64 DB64 B8 N/8
 ![Sett](sett.png)

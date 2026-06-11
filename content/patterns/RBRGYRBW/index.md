@@ -20,5 +20,3 @@ RBRGYRBW
 |---------------|
 | [Elbrick Dress (Personal)](/setts/s8/r12b44r12g40y4r90b4w10-b1474b4-g408060-rc80000-wfcfcfc-ye8c000/)|
 |![Elbrick Dress (Personal) example sett](/setts/s8/r12b44r12g40y4r90b4w10-b1474b4-g408060-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [Elbrick Dress (Personal)](/setts/s8/r12b44r12g40y4r90b4w10-b1474b4-g408060-rc80000-wfcfcfc-ye8c000/)|
-|![Elbrick Dress (Personal) example sett](/setts/s8/r12b44r12g40y4r90b4w10-b1474b4-g408060-rc80000-wfcfcfc-ye8c000/sett.png)|

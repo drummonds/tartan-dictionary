@@ -1,13 +1,21 @@
 ---
-title: "Irish Heritage (Fashion)"
+title: "Irish Heritage"
 date: 2023-03-18
 ---
 In pattern [GKGKGKGKGKW](/patterns/gkgkgkgkgkw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7018/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1854
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/12/2006 — Irish Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1854))
+- December 2006 — Irish Heritage (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7018/))
+- undated — Irish Heritage American Fancy Tartan Tartan Number: 7018. Earliest known date: 2006 This tartan was designed by William C. (Rocky) Roeger III of usakilts.com to honor anyone with Irish Heritage. It is a fashion tartan designed for ANYONE to wear, regardless of clan affiliation or nationality. The color green is to represent people of Irish heritage. The color black is for the strife that Ireland has endured. The color white is for the bright future of Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7018))
 
 ## Thread count
 G/4 K6 G4 K6 G12 K75 G3 K6 G14 K6 LN/4

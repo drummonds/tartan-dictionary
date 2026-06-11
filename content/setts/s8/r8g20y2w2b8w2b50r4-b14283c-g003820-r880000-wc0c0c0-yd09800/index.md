@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3469
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Raymond of Doune (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3469))
+- 1997 — Raymond of Doune (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5437/))
+
 ## Thread count
 DR/8 DG20 DY2 N2 DN8 N2 DN50 DR/4
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/8 DG20 DY2 N2 DN8 N2 DN50 DR/4 tartan")
 
 ID: /setts/s8/r8g20y2w2b8w2b50r4-b14283c-g003820-r880000-wc0c0c0-yd09800/
-d09800/

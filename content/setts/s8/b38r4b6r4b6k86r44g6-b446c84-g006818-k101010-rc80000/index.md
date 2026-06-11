@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=580
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Carson Red (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=580))
+- 1996 — Carson Red (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7056/))
+
 ## Thread count
 B/38 R4 B6 R4 B6 K86 R44 G/6
 ![Sett](sett.png)

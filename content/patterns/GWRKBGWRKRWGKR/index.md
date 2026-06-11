@@ -20,10 +20,6 @@ GWRKBGWRKRWGKR
 |![MacFarlane (Lord Lyon sett) example sett](/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b780078-g285800-k101010-ra00048-we0e0e0/sett.png)|
 | [MacFarlane Red](/setts/s14/r98k3g21w5r5k2r5w5g2b21k7r7w8g4-b202060-g006428-k101010-rc80000-wfcfcfc/)|
 |![MacFarlane Red example sett](/setts/s14/r98k3g21w5r5k2r5w5g2b21k7r7w8g4-b202060-g006428-k101010-rc80000-wfcfcfc/sett.png)|
-| [Lendrum (Lyon version)](/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b780078-g006818-k101010-ra00048-we0e0e0/)|
-|![Lendrum (Lyon version) example sett](/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b780078-g006818-k101010-ra00048-we0e0e0/sett.png)|
-| [MacFarlane Red (Clan)](/setts/s14/r98k3g21w5r5k2r5w5g2b21k7r7w8g4-b202060-g006428-k101010-rc80000-wfcfcfc/)|
-|![MacFarlane Red (Clan) example sett](/setts/s14/r98k3g21w5r5k2r5w5g2b21k7r7w8g4-b202060-g006428-k101010-rc80000-wfcfcfc/sett.png)|
 | [Lendrum (Clan)](/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b780078-g006818-k101010-ra00048-we0e0e0/)|
 |![Lendrum (Clan) example sett](/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b780078-g006818-k101010-ra00048-we0e0e0/sett.png)|
 | [MacFarlane](/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b5a3094-g004c00-k000000-rc80000-wd0d0d0/)|

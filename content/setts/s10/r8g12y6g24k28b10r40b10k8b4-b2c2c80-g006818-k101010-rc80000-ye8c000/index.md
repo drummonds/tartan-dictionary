@@ -1,13 +1,21 @@
 ---
-title: "Sir George Etienne-Cartier Canada Tartan Tartan Number: 277. Earliest known date: c. 1983 Sir George Etienne-Cartier, 1814 - 1873. was one of the primary architects of the Canadian Confederation and co-premier with John A MacDonald. Another record (276) in STS list shows Mrs Elspie Gillespie 1978 as source. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Etienne-Carter, Sir George"
 date: 2023-03-18
 ---
 In pattern [BKBRBKGYGR](/patterns/bkbrbkgygr/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=277
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1134
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Etienne-Carter, Sir George (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1134))
+- pre 2002 — Carter, Sir George-Etienne (Commem) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/277/))
+- undated — Sir George Etienne-Cartier Canada Tartan Tartan Number: 277. Earliest known date: c. 1983 Sir George Etienne-Cartier, 1814 - 1873. was one of the primary architects of the Canadian Confederation and co-premier with John A MacDonald. Another record (276) in STS list shows Mrs Elspie Gillespie 1978 as source. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=277))
 
 ## Thread count
 DB/4 K8 DB10 R40 DB10 K28 G24 Y6 G12 R/8

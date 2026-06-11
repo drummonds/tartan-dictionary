@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2816
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Manx Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2816))
+- 1998 — Manx Heritage (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2679/))
+
 ## Thread count
 B/6 R6 B4 R6 G4 R4 G4 R34 DB20 R4 G4 R4 G38 N/6
 ![Sett](sett.png)

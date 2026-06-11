@@ -18,5 +18,3 @@ GWGWGWGWGW
 |---------------|
 | [Cowper (Personal)](/setts/s10/g4w4g32w4g32w4g8w4g16w4-g006818-wfcfcfc/)|
 |![Cowper (Personal) example sett](/setts/s10/g4w4g32w4g32w4g8w4g16w4-g006818-wfcfcfc/sett.png)|
-| [Cowper (Personal)](/setts/s10/g4w4g32w4g32w4g8w4g16w4-g006818-wfcfcfc/)|
-|![Cowper (Personal) example sett](/setts/s10/g4w4g32w4g32w4g8w4g16w4-g006818-wfcfcfc/sett.png)|

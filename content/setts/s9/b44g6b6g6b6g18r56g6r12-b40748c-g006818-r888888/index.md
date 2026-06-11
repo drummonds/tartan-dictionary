@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2812
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1981 — Manx Centenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2812))
+- 1981 — Manx Centenary (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/129/))
+
 ## Thread count
 B/44 G6 B6 G6 B6 G18 N56 G6 N/12
 ![Sett](sett.png)

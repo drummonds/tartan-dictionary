@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4491
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1835 — Warden (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4491))
+- 1835 — Warden (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7294/))
+
 ## Thread count
 DB/8 R64 N32 DBa8 LN4 DBa8 Y4 DBa20 LN12 DB4 LN20 R4 LN/16
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3017/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Atholl Highlanders (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3017/))
+- undated — Atholl Highlanders (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5144))
+
 ## Thread count
 DO/16 G40 K40 DB40 K6 DO/16
 ![Sett](sett.png)

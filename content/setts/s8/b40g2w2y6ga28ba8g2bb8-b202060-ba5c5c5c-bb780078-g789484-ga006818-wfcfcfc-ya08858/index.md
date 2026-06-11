@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3887
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/10/1996 — St. Columba (one green) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3887))
+- 1996 — St. Columba (one green) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2383/))
+- undated — St Columba District Tartan Tartan Number: 2383. Earliest known date: 1996 Commercial version with only one shade of green. Designed by Peter MacDonald for St.Columba's Church, Groline on Mull to commemorate the 1400th aniversary of St. Columba's death. Tartan Society entry states "Based on all the natural colours of Iona, this tartan was designed to raise money to restore a church roof." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2383))
+
 ## Thread count
 DB/40 LG2 W2 LT6 G28 N8 LG2 P/8
 ![Sett](sett.png)

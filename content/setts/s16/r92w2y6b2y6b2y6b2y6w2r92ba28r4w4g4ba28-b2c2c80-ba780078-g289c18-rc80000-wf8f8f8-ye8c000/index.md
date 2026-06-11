@@ -1,13 +1,20 @@
 ---
-title: "Firenze ~ Florence (District)"
+title: "Firenze ~ Florence"
 date: 2023-03-18
 ---
 In pattern [BGWRBRWYBYBYBYWR](/patterns/bgwrbrwybybybywr/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6756/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1190
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2005 — Firenze ~ Florence (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1190))
+- 2005 August — Firenze ~ Florence (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6756/))
 
 ## Thread count
 P/28 G4 W4 R4 P28 R92 W2 Y6 DB2 Y6 DB2 Y6 DB2 Y6 W2 R/92

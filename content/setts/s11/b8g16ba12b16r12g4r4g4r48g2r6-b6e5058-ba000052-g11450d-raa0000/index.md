@@ -7,7 +7,14 @@ In pattern [BGBBRGRGRGR](/patterns/bgbbrgrgrgr/).
 
 This was sourced from weddslist.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacDougall VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacDougall VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/6 DG2 DR48 DG4 DR4 DG4 DR12 N16 DB12 DG16 N/8
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#6E5058;"><span style="color:#6E5058;filter:grayscale(1) invert(1) contrast(100);">#6E5058</span></code> `#6E5058` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 
 ID: /setts/s11/b8g16ba12b16r12g4r4g4r48g2r6-b6e5058-ba000052-g11450d-raa0000/
-000/

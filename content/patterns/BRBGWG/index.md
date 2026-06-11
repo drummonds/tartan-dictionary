@@ -20,5 +20,3 @@ BRBGWG
 |---------------|
 | [Heritage Tartan, The](/setts/s6/b8r4b24g35w4g8-b1c0070-g006818-r880000-wc0c0c0/)|
 |![Heritage Tartan, The example sett](/setts/s6/b8r4b24g35w4g8-b1c0070-g006818-r880000-wc0c0c0/sett.png)|
-| [Heritage Tartan, The (Corporate)](/setts/s6/b8r4b24g35w4g8-b1c0070-g006818-r880000-wc0c0c0/)|
-|![Heritage Tartan, The (Corporate) example sett](/setts/s6/b8r4b24g35w4g8-b1c0070-g006818-r880000-wc0c0c0/sett.png)|

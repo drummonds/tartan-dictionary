@@ -24,10 +24,6 @@ BRBRBR
 |![MacGregor of Glengyle example sett](/setts/s6/b4r4b28r28b4r4-b2c2c80-rd05054/sett.png)|
 | [Mary Erskine School, The](/setts/s6/b12r2b48r56b2r8-b14283c-r880000/)|
 |![Mary Erskine School, The example sett](/setts/s6/b12r2b48r56b2r8-b14283c-r880000/sett.png)|
-| [MacGregor of Glengyle - 1750 (Clan)](/setts/s6/b4r4b28r28b4r4-b2c2c80-rd05054/)|
-|![MacGregor of Glengyle - 1750 (Clan) example sett](/setts/s6/b4r4b28r28b4r4-b2c2c80-rd05054/sett.png)|
-| [Mary Erskin (School)](/setts/s6/b12r2b48r56b2r8-b14283c-r880000/)|
-|![Mary Erskin (School) example sett](/setts/s6/b12r2b48r56b2r8-b14283c-r880000/sett.png)|
 | [Auburn University (Alabama) (Corp)](/setts/s6/b6r6b48r60b6r4-b202060-rb84c00/)|
 |![Auburn University (Alabama) (Corp) example sett](/setts/s6/b6r6b48r60b6r4-b202060-rb84c00/sett.png)|
 | [Harmony, 11](/setts/s6/b12r4b58r58b4r12-b800080-r806050/)|

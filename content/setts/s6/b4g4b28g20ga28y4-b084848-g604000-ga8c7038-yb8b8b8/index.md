@@ -1,13 +1,20 @@
 ---
-title: "Dewar (Fashion)"
+title: "Dewar (WCWM)"
 date: 2023-03-18
 ---
 In pattern [BGBGGY](/patterns/bgbggy/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4675/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1979 — Dewar (WCWM) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925))
+- pre 1979 — Dewar (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4675/))
 
 ## Thread count
 G/4 T4 G28 T20 LT28 N/4

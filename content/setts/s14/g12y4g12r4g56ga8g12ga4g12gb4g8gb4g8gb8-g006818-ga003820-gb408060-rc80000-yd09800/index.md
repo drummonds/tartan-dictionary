@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3118
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — New South Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3118))
+- 1998 — New South Wales (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2492/))
+
 ## Thread count
 G/12 DY4 G12 R4 G56 DG8 G12 DG4 G12 Ga4 G8 Ga4 G8 Ga/8
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s14/g12y4g12r4g56ga8g12ga4g12gb4g8gb4g8gb8-g006818-ga003820-gb408060-rc80000-yd09800/
-0-yd09800/

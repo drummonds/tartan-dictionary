@@ -1,13 +1,20 @@
 ---
-title: "Glen App (Fashion)"
+title: "Glen App"
 date: 2023-03-18
 ---
 In pattern [RWRKW](/patterns/rwrkw/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/636/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1365
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Glen App (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1365))
+- pre 2002 — Glen App (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/636/))
 
 ## Thread count
 LP/78 W18 LP6 K18 W/6

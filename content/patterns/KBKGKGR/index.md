@@ -20,5 +20,3 @@ KBKGKGR
 |---------------|
 | [MacKinross](/setts/s7/k12b2k12g8k20g40r4-b2c2c80-g006818-k101010-rc80000/)|
 |![MacKinross example sett](/setts/s7/k12b2k12g8k20g40r4-b2c2c80-g006818-k101010-rc80000/sett.png)|
-| [MacKinross (Name?)](/setts/s7/k12b2k12g8k20g40r4-b2c2c80-g006818-k101010-rc80000/)|
-|![MacKinross (Name?) example sett](/setts/s7/k12b2k12g8k20g40r4-b2c2c80-g006818-k101010-rc80000/sett.png)|

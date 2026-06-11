@@ -18,5 +18,3 @@ KRKYKRKRKR
 |---------------|
 | [Tyndrum](/setts/s10/r48k8r8k8r16k32y48k8r16k16-k101010-r888888-ya08858/)|
 |![Tyndrum example sett](/setts/s10/r48k8r8k8r16k32y48k8r16k16-k101010-r888888-ya08858/sett.png)|
-| [Tyndrum (District?)](/setts/s10/r48k8r8k8r16k32y48k8r16k16-k101010-r888888-ya08858/)|
-|![Tyndrum (District?) example sett](/setts/s10/r48k8r8k8r16k32y48k8r16k16-k101010-r888888-ya08858/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Old Brigade Corporate Tartan Tartan Number: 10718. Earliest known date: 12/10/12 This tartan was designed to celebrate the 25th anniversary of the formation of the Old Brigade an informal fraternal society dedicated to good fellowship, formed in 1987. The colours relate to the regiment in which the founding members of the society were serving at the time, with the addition of a gold stripe for excellence. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Old Brigade"
 date: 2023-03-18
 ---
 In pattern [BKRBKY](/patterns/bkrbky/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10718
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 08/10/2012 — Old Brigade (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718))
+- undated — Old Brigade Corporate Tartan Tartan Number: 10718. Earliest known date: 12/10/12 This tartan was designed to celebrate the 25th anniversary of the formation of the Old Brigade an informal fraternal society dedicated to good fellowship, formed in 1987. The colours relate to the regiment in which the founding members of the society were serving at the time, with the addition of a gold stripe for excellence. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10718))
 
 ## Thread count
 DB/36 K36 R12 DB36 K36 Y/4

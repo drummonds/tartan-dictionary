@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3917/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2002 — Craigholme (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3917/))
+- undated — Craigholme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5344))
+
 ## Thread count
 K/48 DB4 K48 DB28 Y6 R72 K36 Y10 R/6
 ![Sett](sett.png)

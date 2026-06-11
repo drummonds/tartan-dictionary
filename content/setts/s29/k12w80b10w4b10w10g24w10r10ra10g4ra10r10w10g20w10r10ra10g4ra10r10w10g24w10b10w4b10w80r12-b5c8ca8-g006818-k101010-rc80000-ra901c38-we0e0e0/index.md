@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/patterns/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/).
 
 
-This was sourced from tartans-authority.  It is a [29 stripes tartan](/stripes/stripes29/).
+This was sourced from register-of-tartans.  It is a [29 stripes tartan](/stripes/stripes29/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1220/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — MacBean, Meta (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294))
+- 1972 — MacBean, Meta (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1220/))
 
 ## Thread count
 K/12 LN80 B10 LN4 B10 LN10 G24 LN10 R10 DR10 G4 DR10 R10 LN10 G20 LN10 R10 DR10 G4 DR10 R10 LN10 G24 LN10 B10 LN4 B10 LN80 R/12
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s29/k12w80b10w4b10w10g24w10r10ra10g4ra10r10w10g20w10r10ra10g4ra10r10w10g24w10b10w4b10w80r12-b5c8ca8-g006818-k101010-rc80000-ra901c38-we0e0e0/
-e0/

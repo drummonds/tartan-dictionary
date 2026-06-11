@@ -1,13 +1,20 @@
 ---
-title: "Cockburn"
+title: "Cockburn - 1830 (Clan)"
 date: 2023-03-18
 ---
 In pattern [GKGKGKBKWKBYKGKR](/patterns/gkgkgkbkwkbykgkr/).
 
 
-This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=699
+Original link http://www.tartansauthority.com/tartan-ferret/display/4548/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1830 — Cockburn - 1830 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4548/))
+- 01/01/1906 — Cockburn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=699))
 
 ## Thread count
 G/40 K4 G4 K4 G4 K4 DB16 K4 W4 K4 DB4 Y4 K4 G16 K4 R/4
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s16/g40k4g4k4g4k4b16k4w4k4b4y4k4g16k4r4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/
-c-ye8c000/

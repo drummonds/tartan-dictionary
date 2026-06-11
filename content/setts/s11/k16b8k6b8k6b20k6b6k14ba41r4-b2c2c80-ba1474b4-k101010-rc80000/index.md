@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Merchiston Castle School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934))
+- 1988 — Merchiston Castle (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1051/))
+
 ## Thread count
 K/16 DB8 K6 DB8 K6 DB20 K6 DB6 K14 B41 R/4
 ![Sett](sett.png)

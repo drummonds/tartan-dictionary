@@ -20,5 +20,3 @@ BRBKGBGR
 |---------------|
 | [Burnfoot Check](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/)|
 |![Burnfoot Check example sett](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/sett.png)|
-| [Burnfoot Check (Fashion)](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/)|
-|![Burnfoot Check (Fashion) example sett](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/sett.png)|

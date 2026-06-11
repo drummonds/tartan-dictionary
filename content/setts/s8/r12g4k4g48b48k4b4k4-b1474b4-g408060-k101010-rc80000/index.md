@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3328
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Peter of Lee (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3328))
+- pre 1988 — Peter of Lee (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1055/))
+
 ## Thread count
 K/4 B4 K4 B48 G48 K4 G4 R/12
 ![Sett](sett.png)

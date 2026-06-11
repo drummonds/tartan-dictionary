@@ -24,5 +24,3 @@ RBYKGR
 |![Sinclair Dress example sett](/setts/s6/r56g32k8y2b12r56-b4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
 | [Sinclair](/setts/s6/r30g12k5y2b6r30-b4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
 |![Sinclair example sett](/setts/s6/r30g12k5y2b6r30-b4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Sinclair Dress](/setts/s6/r56g32k8y2b12r56-b4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Sinclair Dress example sett](/setts/s6/r56g32k8y2b12r56-b4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

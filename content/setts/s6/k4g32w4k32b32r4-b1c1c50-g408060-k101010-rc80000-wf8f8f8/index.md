@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6376/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1882 — Syme (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6376/))
+- 01/01/1888 — Syme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4059))
+
 ## Thread count
 K/4 G32 W4 K32 DB32 R/4
 ![Sett](sett.png)

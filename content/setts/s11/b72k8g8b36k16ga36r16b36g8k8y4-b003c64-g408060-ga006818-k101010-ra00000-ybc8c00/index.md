@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5262
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Amarillo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5262))
+- 1996 — Amarillo (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3622/))
+
 ## Thread count
 DB/72 K8 Ga8 DB36 K16 G36 DR16 DB36 Ga8 K8 DY/4
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s11/b72k8g8b36k16ga36r16b36g8k8y4-b003c64-g408060-ga006818-k101010-ra00000-ybc8c00/
-8c00/

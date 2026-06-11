@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1292
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2004 — G8 Summit (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1292))
+- 2004 December — G8 Summit (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6490/))
+
 ## Thread count
 DB/2 N2 DB2 N2 DB2 N2 DB2 N2 DB100 R4 DB4 G18 P/8
 ![Sett](sett.png)

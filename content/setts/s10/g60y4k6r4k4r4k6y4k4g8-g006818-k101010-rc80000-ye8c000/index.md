@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1228
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1978 — Forde (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1228))
+- pre 2003 — Forde (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/829/))
+
 ## Thread count
 G/8 K4 Y4 K6 R4 K4 R4 K6 Y4 G/60
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/g60y4k6r4k4r4k6y4k4g8-g006818-k101010-rc80000-ye8c000/
-/

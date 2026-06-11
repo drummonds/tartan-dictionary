@@ -18,5 +18,3 @@ RWKRKRKRKRKW
 |---------------|
 | [Duchess of Kent](/setts/s12/r8w80k12r8k8r12k8r12k8r12k8wa8-k101010-rc80000-w98c8e8-wafcfcfc/)|
 |![Duchess of Kent example sett](/setts/s12/r8w80k12r8k8r12k8r12k8r12k8wa8-k101010-rc80000-w98c8e8-wafcfcfc/sett.png)|
-| [Duchess of Kent (Fashion)](/setts/s12/r8w80k12r8k8r12k8r12k8r12k8wa8-k101010-rc80000-w98c8e8-wafcfcfc/)|
-|![Duchess of Kent (Fashion) example sett](/setts/s12/r8w80k12r8k8r12k8r12k8r12k8wa8-k101010-rc80000-w98c8e8-wafcfcfc/sett.png)|

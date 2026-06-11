@@ -1,13 +1,20 @@
 ---
-title: "Rothesay, Red (Royal)"
+title: "Rothesay (Red)"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRGRGRGRWRW](/patterns/wrgrgrgrgrgrgrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1533/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3573
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1840 — Rothesay (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3573))
+- 1840 — Rothesay, Red (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1533/))
 
 ## Thread count
 W/8 R83 G7 R5 G7 R7 G28 R7 G28 R7 G7 R5 G7 R83 W4 R4 W/8

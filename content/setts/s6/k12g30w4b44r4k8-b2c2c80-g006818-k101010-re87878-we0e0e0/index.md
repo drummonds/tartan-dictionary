@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2105
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1740 — Leslie, Hebridean (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2105))
+- 1740 C — Leslie, Hebridean (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1111/))
+
 ## Thread count
 K/12 G30 LN4 DB44 LR4 K/8
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/12 G30 LN4 DB44 LR4 K/8 tartan")
 
 ID: /setts/s6/k12g30w4b44r4k8-b2c2c80-g006818-k101010-re87878-we0e0e0/
-e0/

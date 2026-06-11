@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1816
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/1996 — Ikelman #6 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1816))
+- 1996 — Ikelman #6 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2183/))
+
 ## Thread count
 R/32 DG4 R6 DG4 R26 DP24 LN4 DP24 R26 K26 R4 Y/4
 ![Sett](sett.png)

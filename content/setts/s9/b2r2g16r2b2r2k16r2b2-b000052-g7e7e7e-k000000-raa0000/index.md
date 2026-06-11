@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacPherson Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacPherson Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DB/2 DR2 K16 DR2 DB2 DR2 N16 DR2 DB/2
 ![Sett](sett.png)

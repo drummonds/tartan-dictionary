@@ -22,8 +22,6 @@ RBWKGR
 |![Sinclair (Logan) example sett](/setts/s6/r56g32k8w2b12r56-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [Thompson/Thomson/MacTavish (Mackinlay)](/setts/s6/r80b22w4k24g72r64-b3c82af-g005020-k101010-rdc0000-we0e0e0/)|
 |![Thompson/Thomson/MacTavish (Mackinlay) example sett](/setts/s6/r80b22w4k24g72r64-b3c82af-g005020-k101010-rdc0000-we0e0e0/sett.png)|
-| [Sinclair (Clan)](/setts/s6/r56g32k8w2b12r56-b202060-g006818-k101010-rc80000-we0e0e0/)|
-|![Sinclair (Clan) example sett](/setts/s6/r56g32k8w2b12r56-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [Caithness (1848) (District?)](/setts/s6/r80b22w4k24g72r64-b5c8ca8-g408060-k101010-rc80000-wf8f8f8/)|
 |![Caithness (1848) (District?) example sett](/setts/s6/r80b22w4k24g72r64-b5c8ca8-g408060-k101010-rc80000-wf8f8f8/sett.png)|
 | [MacTavish](/setts/s6/r80b22w4k24g72r64-b5480b0-g008000-k000000-rc00000-we0e0e0/)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3361
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1985 — Portree (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3361))
+- pre 1985 — Portree (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5850/))
+
 ## Thread count
 N/40 B8 N24 Y4 N8 W6 N8 DR36 T20 N4 T8 W/4
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/r40b8r24y4r8w6r8ra36ba20r4ba8w4-b2474e8-ba4c3428-r888888-ra901c38-wf8f8f8-ye8c000/
-c000/

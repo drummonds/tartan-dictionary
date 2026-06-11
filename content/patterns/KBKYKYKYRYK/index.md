@@ -16,7 +16,5 @@ KBKYKYKYRYK
 
 | Tartans |
 |---------------|
-| [Derry County, Crest Range](/setts/s11/k14b22k5y11k5ya24k11y11r54y8k10-b2c2c80-k101010-rc80000-ybc8c00-yae8c000/)|
-|![Derry County, Crest Range example sett](/setts/s11/k14b22k5y11k5ya24k11y11r54y8k10-b2c2c80-k101010-rc80000-ybc8c00-yae8c000/sett.png)|
 | [Derry County Crest (Fashion)](/setts/s11/k14b22k5y11k5ya24k11y11r54y8k10-b2c2c80-k101010-rc80000-ybc8c00-yae8c000/)|
 |![Derry County Crest (Fashion) example sett](/setts/s11/k14b22k5y11k5ya24k11y11r54y8k10-b2c2c80-k101010-rc80000-ybc8c00-yae8c000/sett.png)|

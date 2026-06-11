@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BG](/patterns/bg/).
 
 
-This was sourced from tartans-authority.  It is a [2 stripes tartan](/stripes/stripes2/).
+This was sourced from register-of-tartans.  It is a [2 stripes tartan](/stripes/stripes2/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7073/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1567
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Hafren (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1567))
+- 1986-1993 — Hafren (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7073/))
 
 ## Thread count
 G/130 N/130

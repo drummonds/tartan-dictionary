@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7684/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Doyel (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7684/))
+- undated — Doyel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5686))
+
 ## Thread count
 DB/38 K6 DB6 K6 DB12 N2 K4 R4 K4 N2 DB12 K6 DG6 K6 DG/76
 ![Sett](sett.png)

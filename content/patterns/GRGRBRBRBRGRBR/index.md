@@ -20,14 +20,10 @@ GRGRBRBRBRGRBR
 |![Bruce Old example sett](/setts/s14/r45b4r4g48r4b4r4b15r4b4r40g4r4g30-b2c4084-g005020-rdc0000/sett.png)|
 | [MacColl](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g16-b1c1c50-g006818-rc80000/)|
 |![MacColl example sett](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g16-b1c1c50-g006818-rc80000/sett.png)|
-| [MacDonald of Aird & Valley](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g32-b1c0070-g006818-r880000/)|
-|![MacDonald of Aird & Valley example sett](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g32-b1c0070-g006818-r880000/sett.png)|
-| [Bruce - 1819 (Old)](/setts/s14/r60b2r2g63r2b2r2b20r2b2r54g2r2g40-b1c1c50-g5c6428-rc80000/)|
-|![Bruce - 1819 (Old) example sett](/setts/s14/r60b2r2g63r2b2r2b20r2b2r54g2r2g40-b1c1c50-g5c6428-rc80000/sett.png)|
-| [MacColl (Clan)](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g16-b1c1c50-g006818-rc80000/)|
-|![MacColl (Clan) example sett](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g16-b1c1c50-g006818-rc80000/sett.png)|
 | [MacDonald of Aird & Valley (Clan?)](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g32-b1c0070-g006818-r880000/)|
 |![MacDonald of Aird & Valley (Clan?) example sett](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g32-b1c0070-g006818-r880000/sett.png)|
+| [Bruce - 1819 (Old)](/setts/s14/r60b2r2g63r2b2r2b20r2b2r54g2r2g40-b1c1c50-g5c6428-rc80000/)|
+|![Bruce - 1819 (Old) example sett](/setts/s14/r60b2r2g63r2b2r2b20r2b2r54g2r2g40-b1c1c50-g5c6428-rc80000/sett.png)|
 | [MacColl](/setts/s14/r12b1r1g8r2b1r1b3r1b1r12g1r1g4-b000064-g004c00-rc80000/)|
 |![MacColl example sett](/setts/s14/r12b1r1g8r2b1r1b3r1b1r12g1r1g4-b000064-g004c00-rc80000/sett.png)|
 | [Bruce, Old](/setts/s14/r45b4r4g48r4b4r4b15r4b4r40g4r4g30-b304080-g008000-rc00000/)|

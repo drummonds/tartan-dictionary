@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3453
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — Ramsay (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3453))
+- 1842 — Ramsay, Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1238/))
+
 ## Thread count
 K/8 W2 K56 R60 DP2 R/6
 ![Sett](sett.png)

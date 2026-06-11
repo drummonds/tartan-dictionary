@@ -1,13 +1,20 @@
 ---
-title: "Raven"
+title: "Raven (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KBWR](/patterns/kbwr/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5571
+Original link http://www.tartansauthority.com/tartan-ferret/display/7536/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1995 — Raven (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7536/))
+- undated — Raven (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5571))
 
 ## Thread count
 K/76 DB72 LN36 R/12

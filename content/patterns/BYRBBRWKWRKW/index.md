@@ -18,5 +18,3 @@ BYRBBRWKWRKW
 |---------------|
 | [Queen Mary RMS](/setts/s12/b48y8r8ba8b48ra8w6k36w18ra8k6w4-b2c2c80-ba780078-k101010-r888888-rac8002c-we0e0e0-ye8c000/)|
 |![Queen Mary RMS example sett](/setts/s12/b48y8r8ba8b48ra8w6k36w18ra8k6w4-b2c2c80-ba780078-k101010-r888888-rac8002c-we0e0e0-ye8c000/sett.png)|
-| [Queen Mary, RMS (Corporate)](/setts/s12/b48y8r8ba8b48ra8w6k36w18ra8k6w4-b2c2c80-ba780078-k101010-r888888-rac8002c-we0e0e0-ye8c000/)|
-|![Queen Mary, RMS (Corporate) example sett](/setts/s12/b48y8r8ba8b48ra8w6k36w18ra8k6w4-b2c2c80-ba780078-k101010-r888888-rac8002c-we0e0e0-ye8c000/sett.png)|

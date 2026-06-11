@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3866
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2007 — Spirit of Ulster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3866))
+- March 2007 — Spirit of Ulster (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7194/))
+
 ## Thread count
 LN/4 DB8 R4 DB180 LN4 DB8 R/2
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Morrison Society (Clan)"
+title: "Morrison Society"
 date: 2023-03-18
 ---
 In pattern [KGKGBR](/patterns/kgkgbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1083/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3021
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — Morrison Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3021))
+- 1880 — Morrison Society (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1083/))
 
 ## Thread count
 K/6 G28 K28 G4 B28 R/6

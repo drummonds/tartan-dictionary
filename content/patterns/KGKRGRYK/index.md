@@ -20,5 +20,3 @@ KGKRGRYK
 |---------------|
 | [Island of Innis, The](/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/)|
 |![Island of Innis, The example sett](/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/sett.png)|
-| [Island of Innis, The (Fashion)](/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/)|
-|![Island of Innis, The (Fashion) example sett](/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/sett.png)|

@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [WGBRYRGGY](/patterns/wgbryrggy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6872/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3335
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Pienaar (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3335))
+- 2005 — Pienaar (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6872/))
 
 ## Thread count
 LN/4 DG4 P14 R4 Y4 R8 DG64 G12 Y/6

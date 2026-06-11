@@ -20,8 +20,6 @@ KWKRBR
 |---------------|
 | [Ramsay (Red)](/setts/s6/k8w2k56r60b2r6-b440044-k101010-rc80000-wf8f8f8/)|
 |![Ramsay (Red) example sett](/setts/s6/k8w2k56r60b2r6-b440044-k101010-rc80000-wf8f8f8/sett.png)|
-| [Ramsay, Red (Clan)](/setts/s6/k8w2k56r60b2r6-b440044-k101010-rc80000-wf8f8f8/)|
-|![Ramsay, Red (Clan) example sett](/setts/s6/k8w2k56r60b2r6-b440044-k101010-rc80000-wf8f8f8/sett.png)|
 | [Ramsay](/setts/s6/k8w4k56r60b2r6-b00004c-k000000-rc80000-wd0d0d0/)|
 |![Ramsay example sett](/setts/s6/k8w4k56r60b2r6-b00004c-k000000-rc80000-wd0d0d0/sett.png)|
 | [Ramsay](/setts/s6/k8w4k56r60b2r6-b300030-k000000-rc00000-we0e0e0/)|

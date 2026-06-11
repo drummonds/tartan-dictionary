@@ -1,13 +1,20 @@
 ---
-title: "Colquhoun Dress (Clan)"
+title: "Colquhoun Dress"
 date: 2023-03-18
 ---
 In pattern [BKBKBKYBYBRBYBYKYGRGYK](/patterns/bkbkbkybybrbybykygrgyk/).
 
 
-This was sourced from tartans-authority.  It is a [22 stripes tartan](/stripes/stripes22/).
+This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1960/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=717
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1960 — Colquhoun Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=717))
+- 1960 — Colquhoun Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1960/))
 
 ## Thread count
 DB/20 K4 DB4 K4 DB20 K30 N6 DB6 N36 DB4 DR4 DB4 N38 DB6 N6 K30 N4 G28 DR4 G28 N4 K/30

@@ -7,7 +7,14 @@ In pattern [RBRBYBRGR](/patterns/rbrbybrgr/).
 
 This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Cameron of Locheil (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Cameron of Locheil (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/8 DB16 DR4 DB2 N2 DB2 DR12 DG6 DR/12
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#AAAAAA;"><span style="color:#AAAAAA;filter:grayscale(1) invert(1) contrast(100);">#AAAAAA</span></code> `#AAAAAA` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
 
 ID: /setts/s9/r12g6r12b2y2b2r4b16r8-b000052-g11450d-raa0000-yaaaaaa/
-aaa/

@@ -1,13 +1,20 @@
 ---
-title: "Ralston (UK) (Name)"
+title: "Ralston (UK)"
 date: 2023-03-18
 ---
 In pattern [BBBBBBYRYYYB](/patterns/bbbbbbyryyyb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7075/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3448
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2006 — Ralston (UK) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3448))
+- November 2006 — Ralston (UK) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7075/))
 
 ## Thread count
 B/36 DB6 B20 DB6 B20 DB28 DY4 R14 DY4 LG28 DY4 DB/28

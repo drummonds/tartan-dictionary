@@ -1,13 +1,20 @@
 ---
-title: "Italian American Corporate Tartan Tartan Number: 10135. Earliest known date: 5th Jan. 2010 This tartan was designed by Rocky Roeger of USA Kilts and was commissioned by Tony Licalzi, to celebrate the creativity and passion of Italian Americans. The green, white and red represent the colours of the Italian flag and the red, white and blue, the American flag. This is a Universal tartan that is available for anyone to wear. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Italian American (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RKWKBKGWR](/patterns/rkwkbkgwr/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10135
+Original link http://www.tartansauthority.com/tartan-ferret/display/10135/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 5th Jan. 2010 — Italian American (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10135/))
+- undated — Italian American Corporate Tartan Tartan Number: 10135. Earliest known date: 5th Jan. 2010 This tartan was designed by Rocky Roeger of USA Kilts and was commissioned by Tony Licalzi, to celebrate the creativity and passion of Italian Americans. The green, white and red represent the colours of the Italian flag and the red, white and blue, the American flag. This is a Universal tartan that is available for anyone to wear. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10135))
 
 ## Thread count
 R/4 K2 LN6 K2 B40 K80 G10 LN6 R/3

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1046
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1982 — Dunlop Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1046))
+- 1982 — Dunlop Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1784/))
+
 ## Thread count
 W/6 DB2 W60 DB2 P56 W2 P2 W/6
 ![Sett](sett.png)

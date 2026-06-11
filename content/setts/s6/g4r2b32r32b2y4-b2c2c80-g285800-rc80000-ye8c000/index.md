@@ -1,13 +1,20 @@
 ---
-title: "Galloway Dress (Yellow Line) (Dist)"
+title: "Galloway Dress (Yellow Line)"
 date: 2023-03-18
 ---
 In pattern [GRBRBY](/patterns/grbrby/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/850/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1303
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1950 — Galloway Dress (Yellow Line) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1303))
+- 1950 — Galloway Dress (Yellow Line) (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/850/))
 
 ## Thread count
 G/4 R2 DB32 R32 DB2 Y/4

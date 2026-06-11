@@ -20,5 +20,3 @@ BKBBWBW
 |---------------|
 | [Brodie Countryfare (Corporate)](/setts/s7/b6k26b26ba26w4ba26w6-b2c2c80-ba1c0070-k101010-we0e0e0/)|
 |![Brodie Countryfare (Corporate) example sett](/setts/s7/b6k26b26ba26w4ba26w6-b2c2c80-ba1c0070-k101010-we0e0e0/sett.png)|
-| [Brodie Countryfare (Corporate)](/setts/s7/b6k26b26ba26w4ba26w6-b2c2c80-ba1c0070-k101010-we0e0e0/)|
-|![Brodie Countryfare (Corporate) example sett](/setts/s7/b6k26b26ba26w4ba26w6-b2c2c80-ba1c0070-k101010-we0e0e0/sett.png)|

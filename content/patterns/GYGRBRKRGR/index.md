@@ -18,5 +18,3 @@ GYGRBRKRGR
 |---------------|
 | [Seton](/setts/s10/g12y2g24r8b8r4k8r64g2r4-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
 |![Seton example sett](/setts/s10/g12y2g24r8b8r4k8r64g2r4-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Seton](/setts/s10/g12y2g24r8b8r4k8r64g2r4-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Seton example sett](/setts/s10/g12y2g24r8b8r4k8r64g2r4-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

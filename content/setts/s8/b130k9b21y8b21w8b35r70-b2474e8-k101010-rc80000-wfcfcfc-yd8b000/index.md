@@ -1,13 +1,20 @@
 ---
-title: "Maud, Mary (Fashion)"
+title: "Maud, Mary"
 date: 2023-03-18
 ---
 In pattern [BKBYBWBR](/patterns/bkbybwbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/268/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2859
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1892 — Maud, Mary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2859))
+- pre 1892 — Maud, Mary (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/268/))
 
 ## Thread count
 B/130 K9 B21 Y8 B21 W8 B35 R/70

@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacDonnald of ye Ylis (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacDonnald of ye Ylis (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DR/6 DB20 K24 DG6 K2 DG2 K2 DG60 N/8
 ![Sett](sett.png)

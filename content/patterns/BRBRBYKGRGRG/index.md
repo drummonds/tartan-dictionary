@@ -18,5 +18,3 @@ BRBRBYKGRGRG
 |---------------|
 | [Macallan Distillery](/setts/s12/b16r2b4r6b24y2k24g24r6g4r2g16-b5c8ca8-g006818-k101010-rc80000-ye8c000/)|
 |![Macallan Distillery example sett](/setts/s12/b16r2b4r6b24y2k24g24r6g4r2g16-b5c8ca8-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Macallan Distillery (Corporate)](/setts/s12/b16r2b4r6b24y2k24g24r6g4r2g16-b5c8ca8-g006818-k101010-rc80000-ye8c000/)|
-|![Macallan Distillery (Corporate) example sett](/setts/s12/b16r2b4r6b24y2k24g24r6g4r2g16-b5c8ca8-g006818-k101010-rc80000-ye8c000/sett.png)|

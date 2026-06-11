@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7353/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2007 — Castle Stewart (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7353/))
+- undated — Castle Stewart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5466))
+
 ## Thread count
 LN/8 K4 DR8 K4 DR42 K6 DB8 K6 O/14
 ![Sett](sett.png)

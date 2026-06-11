@@ -1,13 +1,20 @@
 ---
-title: "Menzies (Clan)"
+title: "Menzies"
 date: 2023-03-18
 ---
 In pattern [GRGRGRGR](/patterns/grgrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/894/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2920
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1893 — Menzies (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2920))
+- pre 1893 — Menzies (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/894/))
 
 ## Thread count
 G/96 R8 G4 R8 G12 R4 G6 R/18

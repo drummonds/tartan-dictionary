@@ -18,5 +18,3 @@ BKGKBRBKRKBY
 |---------------|
 | [Child, The](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/)|
 |![Child, The example sett](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/sett.png)|
-| [Child, The (Fashion)](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/)|
-|![Child, The (Fashion) example sett](/setts/s12/b20k2g8k2b20r8b20k2ra8k2b20y8-b944090-g003800-k000000-r8c0000-rac82800-yc88c00/sett.png)|

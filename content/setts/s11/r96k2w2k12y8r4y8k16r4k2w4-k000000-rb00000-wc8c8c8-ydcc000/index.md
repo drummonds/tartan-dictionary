@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [RKWKYRYKRKW](/patterns/rkwkyrykrkw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4116/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1431
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Glennie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1431))
+- pre 2002 — Glennie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4116/))
 
 ## Thread count
 DR/96 K2 N2 K12 Y8 DR4 Y8 K16 DR4 K2 N/4

@@ -20,5 +20,3 @@ BWGBY
 |---------------|
 | [Bermuda (1986)](/setts/s5/b16w8g68b68y8-b2888c4-g009468-wfcfcfc-yd87c00/)|
 |![Bermuda (1986) example sett](/setts/s5/b16w8g68b68y8-b2888c4-g009468-wfcfcfc-yd87c00/sett.png)|
-| [Bermuda (1986) (Fashion)](/setts/s5/b16w8g68b68y8-b2888c4-g009468-wfcfcfc-yd87c00/)|
-|![Bermuda (1986) (Fashion) example sett](/setts/s5/b16w8g68b68y8-b2888c4-g009468-wfcfcfc-yd87c00/sett.png)|

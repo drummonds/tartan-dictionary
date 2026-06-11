@@ -1,13 +1,21 @@
 ---
-title: "Westfalia Dress Corporate Tartan Tartan Number: 7501. Earliest known date: June 2002 A worsted stole for a German dairy machinery company. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Westfalia Dress (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBGWGW](/patterns/rbgwgw/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7501
+Original link http://www.tartansauthority.com/tartan-ferret/display/7501/
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- June 2002 — Westfalia Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7501/))
+- undated — Westfalia Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5541))
+- undated — Westfalia Dress Corporate Tartan Tartan Number: 7501. Earliest known date: June 2002 A worsted stole for a German dairy machinery company. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7501))
 
 ## Thread count
 LY/88 G36 LY12 G22 DB2 O/8

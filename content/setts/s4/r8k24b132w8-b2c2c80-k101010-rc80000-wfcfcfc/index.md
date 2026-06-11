@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2871
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 15/01/2004 — McCallie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2871))
+- pre 2004 — McCallie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6212/))
+
 ## Thread count
 R/8 K24 DB132 W/8
 ![Sett](sett.png)

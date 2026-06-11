@@ -1,13 +1,20 @@
 ---
-title: "Linden (Name)"
+title: "Linden"
 date: 2023-03-18
 ---
 In pattern [BKGBGKBW](/patterns/bkgbgkbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5772/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2114
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Linden (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2114))
+- Jan 2003 — Linden (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5772/))
 
 ## Thread count
 DN/8 K18 G40 P4 DG40 K10 DN12 N/4

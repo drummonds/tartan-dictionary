@@ -20,5 +20,3 @@ BGBGGG
 |---------------|
 | [Canadian Fancy](/setts/s6/g8ga50g12b24g24b6-b5c8ca8-g006818-ga604000/)|
 |![Canadian Fancy example sett](/setts/s6/g8ga50g12b24g24b6-b5c8ca8-g006818-ga604000/sett.png)|
-| [Canadian Fancy (Fashion)](/setts/s6/g8ga50g12b24g24b6-b5c8ca8-g006818-ga604000/)|
-|![Canadian Fancy (Fashion) example sett](/setts/s6/g8ga50g12b24g24b6-b5c8ca8-g006818-ga604000/sett.png)|

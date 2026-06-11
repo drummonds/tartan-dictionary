@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1262
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1830 — Fraser of Altyre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1262))
+- 1830 — Fraser of Altyre (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/528/))
+
 ## Thread count
 DB/4 R4 G80 R4 DB4 R4 DB8 R8 DB80 R4 DB4 R90 DB4 R/8
 ![Sett](sett.png)

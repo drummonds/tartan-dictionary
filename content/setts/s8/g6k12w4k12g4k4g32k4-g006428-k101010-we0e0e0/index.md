@@ -1,13 +1,20 @@
 ---
-title: "MacLean of Duart Htg (VS) (Clan)"
+title: "MacLean of Duart Hunting"
 date: 2023-03-18
 ---
 In pattern [GKWKGKGK](/patterns/gkwkgkgk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/824/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — MacLean of Duart Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617))
+- 1842 — MacLean of Duart Htg (VS) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/824/))
 
 ## Thread count
 G/6 K12 LN4 K12 G4 K4 G32 K/4

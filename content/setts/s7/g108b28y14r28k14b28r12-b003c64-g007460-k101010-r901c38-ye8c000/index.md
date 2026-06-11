@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7539/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- circa 2002 — Gloucester County Pipe Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7539/))
+- undated — Gloucester County Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5574))
+
 ## Thread count
 DR/12 DB28 K14 DR28 Y14 DB28 G/108
 ![Sett](sett.png)

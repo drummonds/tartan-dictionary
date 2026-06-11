@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1916
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1990 — Justus (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1916))
+- 1990 — Justus #1 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2100/))
+
 ## Thread count
 DB/12 K48 DR12 K12 DY12 K48 DB/12
 ![Sett](sett.png)

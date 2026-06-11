@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KRKRKRKRW](/patterns/krkrkrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6144/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2896
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2003 — McLeod-Bain (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2896))
+- Nov 2003 — McLeod-Bain (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6144/))
 
 ## Thread count
 K/8 P8 K38 P18 K18 P38 K4 P4 W/6

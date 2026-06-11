@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3125
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — New Zealand (2003) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3125))
+- 2003 — New Zealand (District) 2003) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5790/))
+
 ## Thread count
 K/6 DB18 K4 LT10 DB2 LT10 K4 G30 K2 R/6
 ![Sett](sett.png)

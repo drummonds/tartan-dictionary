@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KYKRKRKRKR](/patterns/kykrkrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6211/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2003 — Maier (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786))
+- pre 2004 — Maier (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6211/))
 
 ## Thread count
 K/8 Y4 K74 R6 K6 R6 K44 R6 K6 R/14
@@ -23,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/r14k6r6k44r6k6r6k74y4k8-k101010-rc80000-ye8c000/
-00/

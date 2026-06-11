@@ -20,5 +20,3 @@ YRYYYYYY
 |---------------|
 | [Froach's Grian](/setts/s8/y4r48ya28y50ya28y50yb40y4-r9c68a4-y94acc4-yaa08858-ybe8c000/)|
 |![Froach's Grian example sett](/setts/s8/y4r48ya28y50ya28y50yb40y4-r9c68a4-y94acc4-yaa08858-ybe8c000/sett.png)|
-| [Fraoch's Grian (Fashion)](/setts/s8/y4r48ya28y50ya28y50yb40y4-r9c68a4-y94acc4-yaa08858-ybe8c000/)|
-|![Fraoch's Grian (Fashion) example sett](/setts/s8/y4r48ya28y50ya28y50yb40y4-r9c68a4-y94acc4-yaa08858-ybe8c000/sett.png)|

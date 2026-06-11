@@ -1,13 +1,20 @@
 ---
-title: "Forbes - 1819 (Clan)"
+title: "Forbes"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKWKGKBKB](/patterns/bkbkbkgkwkgkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/211/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1214
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Forbes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1214))
+- 1819 — Forbes - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/211/))
 
 ## Thread count
 DB/32 K4 DB8 K4 DB8 K24 G32 K4 W8 K4 G32 K24 DB32 K4 DB/8

@@ -1,13 +1,20 @@
 ---
-title: "Edinburgh, City of (District)"
+title: "Edinburgh, City of"
 date: 2023-03-18
 ---
 In pattern [RKRWKWKWKW](/patterns/rkrwkwkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2400/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/1997 — Edinburgh, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086))
+- 1998 Oct — Edinburgh, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2400/))
 
 ## Thread count
 N/20 K6 W6 K6 W6 K6 N20 R12 K30 R/6

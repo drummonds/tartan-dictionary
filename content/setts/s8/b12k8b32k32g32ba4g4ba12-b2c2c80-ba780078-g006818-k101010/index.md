@@ -1,13 +1,20 @@
 ---
-title: "Baird (Clan)"
+title: "Baird (Modern)"
 date: 2023-03-18
 ---
 In pattern [BGBGKBKB](/patterns/bgbgkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/104/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=168
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — Baird (Modern) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=168))
+- 1880 — Baird (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/104/))
 
 ## Thread count
 DB/12 K8 DB32 K32 G32 P4 G4 P/12

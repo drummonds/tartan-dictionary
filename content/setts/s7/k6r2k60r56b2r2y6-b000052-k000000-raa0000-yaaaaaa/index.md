@@ -7,7 +7,14 @@ In pattern [KRKRBRY](/patterns/krkrbry/).
 
 This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Cunningham (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Cunningham (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 K/6 DR2 K60 DR56 DB2 DR2 N/6

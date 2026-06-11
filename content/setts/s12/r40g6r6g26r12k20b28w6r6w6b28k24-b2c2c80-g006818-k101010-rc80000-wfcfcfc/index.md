@@ -1,13 +1,20 @@
 ---
-title: "Glengarry Highland Games (Corporate)"
+title: "Glengarry Highland Games"
 date: 2023-03-18
 ---
 In pattern [KBWRWBKRGRGR](/patterns/kbwrwbkrgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2638/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 05/10/1999 — Glengarry Highland Games (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419))
+- October 1999 — Glengarry Highland Games (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2638/))
 
 ## Thread count
 K/24 DB28 W6 R6 W6 DB28 K20 R12 G26 R6 G6 R/40

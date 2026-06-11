@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7443/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Cavan County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7443/))
+- 01/05/2005 — Cavan County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5325))
+
 ## Thread count
 O/32 DB10 K52 DB10 LN5 K24 DB16 LN10 K11 O/15
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.17 |
 
 ID: /setts/s10/y32b10k52b10w5k24b16w10k11y15-b2c2c80-k101010-we0e0e0-yd87c00/
-

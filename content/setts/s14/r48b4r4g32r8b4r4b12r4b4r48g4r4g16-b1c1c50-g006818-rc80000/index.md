@@ -1,13 +1,20 @@
 ---
-title: "MacColl (Clan)"
+title: "MacColl"
 date: 2023-03-18
 ---
 In pattern [GRGRBRBRBRGRBR](/patterns/grgrbrbrbrgrbr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/878/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — MacColl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2315))
+- 1950 (Setts) — MacColl (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/878/))
 
 ## Thread count
 G/16 R4 G4 R48 DB4 R4 DB12 R4 DB4 R8 G32 R4 DB4 R/48

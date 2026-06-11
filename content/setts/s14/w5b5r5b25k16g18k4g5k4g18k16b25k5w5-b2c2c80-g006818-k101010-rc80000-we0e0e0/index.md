@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=116
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Arndt (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=116))
+- April 2007 — Arndt (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7271/))
+
 ## Thread count
 LN/5 DB5 R5 DB25 K16 G18 K4 G5 K4 G18 K16 DB25 K5 LN/5
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3320
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1982 — Perry Arisaid (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3320))
+- 1982 — Perry Arisaid (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1304/))
+
 ## Thread count
 N/130 R54 W4 N8 Y/10
 ![Sett](sett.png)

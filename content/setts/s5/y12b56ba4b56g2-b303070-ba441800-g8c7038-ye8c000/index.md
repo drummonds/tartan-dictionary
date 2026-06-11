@@ -1,13 +1,20 @@
 ---
-title: "Pearson (Name)"
+title: "Pearson"
 date: 2023-03-18
 ---
 In pattern [GBBBY](/patterns/gbbby/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1734/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3310
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1951 — Pearson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3310))
+- 1951 — Pearson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1734/))
 
 ## Thread count
 LT/2 DB56 DR4 DB56 Y/12

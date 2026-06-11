@@ -20,7 +20,5 @@ GRGRGBGY
 |---------------|
 | [Glen Esk](/setts/s8/g40r4g4r8g32b40g4y4-b0000b4-g004800-r9c0030-yfcc800/)|
 |![Glen Esk example sett](/setts/s8/g40r4g4r8g32b40g4y4-b0000b4-g004800-r9c0030-yfcc800/sett.png)|
-| [Glen Esk (Fashion)](/setts/s8/g40r4g4r8g32b40g4y4-b0000b4-g004800-r9c0030-yfcc800/)|
-|![Glen Esk (Fashion) example sett](/setts/s8/g40r4g4r8g32b40g4y4-b0000b4-g004800-r9c0030-yfcc800/sett.png)|
 | [Glen Nevis #1 (Fashion)](/setts/s8/g16r4g4r6g16b24g4y4-b1c0070-g003820-r880000-ye8c000/)|
 |![Glen Nevis #1 (Fashion) example sett](/setts/s8/g16r4g4r6g16b24g4y4-b1c0070-g003820-r880000-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Inglis"
+title: "Inglis (Name)"
 date: 2023-03-18
 ---
 In pattern [YBRBGY](/patterns/ybrbgy/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1825
+Original link http://www.tartansauthority.com/tartan-ferret/display/1798/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Inglis (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1798/))
+- undated — Inglis (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1825))
 
 ## Thread count
 DY/8 DB24 R6 DB20 G48 N/8
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/8 DB24 R6 DB20 G48 N/8 tartan")
 
 ID: /setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/
-0/

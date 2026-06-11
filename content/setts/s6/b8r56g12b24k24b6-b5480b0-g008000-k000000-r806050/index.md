@@ -1,5 +1,5 @@
 ---
-title: "Thom(p)son, Lord (hunting)"
+title: "MacTavish / Thom(p)son, hunting"
 date: 2023-03-18
 ---
 In pattern [BKBGRB](/patterns/bkbgrb/).
@@ -8,6 +8,13 @@ In pattern [BKBGRB](/patterns/bkbgrb/).
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacTavish / Thom(p)son, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Thom(p)son, Lord (hunting) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
 
 ## Thread count
 B/6 K24 B24 G12 LT56 B/8

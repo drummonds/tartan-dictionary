@@ -20,8 +20,6 @@ BRBKY
 |---------------|
 | [MacLaine of Lochbuie Hunting](/setts/s5/b64r6b8k4y6-b14283c-k101010-r880000-yd09800/)|
 |![MacLaine of Lochbuie Hunting example sett](/setts/s5/b64r6b8k4y6-b14283c-k101010-r880000-yd09800/sett.png)|
-| [MacLaine of Lochbuie Htg (Clan)](/setts/s5/b64r6b8k4y6-b14283c-k101010-r880000-yd09800/)|
-|![MacLaine of Lochbuie Htg (Clan) example sett](/setts/s5/b64r6b8k4y6-b14283c-k101010-r880000-yd09800/sett.png)|
 | [MacLaine of Lochbuie Hunting](/setts/s5/b32r3b4k1y3-b00006b-k000000-rc80000-yc8c800/)|
 |![MacLaine of Lochbuie Hunting example sett](/setts/s5/b32r3b4k1y3-b00006b-k000000-rc80000-yc8c800/sett.png)|
 | [MacLaine of Lochbuie, hunting](/setts/s5/b64r6b8k2y6-b304080-k000000-rc00000-yf0c000/)|

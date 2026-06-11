@@ -20,5 +20,3 @@ KRRR
 |---------------|
 | [Maryville College](/setts/s4/k26r80ra26rb16-k101010-r901c38-rae86000-rb888888/)|
 |![Maryville College example sett](/setts/s4/k26r80ra26rb16-k101010-r901c38-rae86000-rb888888/sett.png)|
-| [Maryville College (Corporate)](/setts/s4/k26r80ra26rb16-k101010-r901c38-rae86000-rb888888/)|
-|![Maryville College (Corporate) example sett](/setts/s4/k26r80ra26rb16-k101010-r901c38-rae86000-rb888888/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Private SA Club (Corporate)"
+title: "Private SA Club"
 date: 2023-03-18
 ---
 In pattern [KRKRYRBR](/patterns/krkryrbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6853/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3415
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2004 — Private SA Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3415))
+- 2004 June — Private SA Club (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6853/))
 
 ## Thread count
 DR/6 DN72 DR14 Y38 DR16 K6 DR16 K/6

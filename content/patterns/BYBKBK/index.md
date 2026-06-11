@@ -20,5 +20,3 @@ BYBKBK
 |---------------|
 | [Rea](/setts/s6/b48y8b4k20b16k8-b2888c4-k101010-ye8c000/)|
 |![Rea example sett](/setts/s6/b48y8b4k20b16k8-b2888c4-k101010-ye8c000/sett.png)|
-| [Rea (Name)](/setts/s6/b48y8b4k20b16k8-b2888c4-k101010-ye8c000/)|
-|![Rea (Name) example sett](/setts/s6/b48y8b4k20b16k8-b2888c4-k101010-ye8c000/sett.png)|

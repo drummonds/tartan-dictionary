@@ -18,5 +18,3 @@ BKBKBKRKYKRKBKR
 |---------------|
 | [Flaumandrum](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/)|
 |![Flaumandrum example sett](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/sett.png)|
-| [Flaumandrum (Corporate)](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/)|
-|![Flaumandrum (Corporate) example sett](/setts/s15/b24k4b4k4b4k24r24k2y4k2r24k24b24k2ra4-b5c5c5c-k101010-r880000-rac00000-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "MacAlister of Skye"
+title: "MacAlister of Skye (Clan?)"
 date: 2023-03-18
 ---
 In pattern [RKYRWKYKY](/patterns/rkyrwkyky/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5209
+Original link http://www.tartansauthority.com/tartan-ferret/display/3300/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1999 — MacAlister of Skye (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3300/))
+- undated — MacAlister of Skye (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5209))
 
 ## Thread count
 DR/8 K10 DY2 DR52 N2 K60 DY2 K2 DY/8

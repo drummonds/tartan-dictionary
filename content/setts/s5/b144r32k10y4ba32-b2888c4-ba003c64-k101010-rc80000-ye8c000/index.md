@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BRKYB](/patterns/brkyb/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6990/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4107
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Thomas, Jean Marc (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4107))
+- 2005 — Thomas, Jean Marc (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6990/))
 
 ## Thread count
 B/144 R32 K10 Y4 DB/32
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/144 R32 K10 Y4 DB/32 tartan")
 
 ID: /setts/s5/b144r32k10y4ba32-b2888c4-ba003c64-k101010-rc80000-ye8c000/
-00/

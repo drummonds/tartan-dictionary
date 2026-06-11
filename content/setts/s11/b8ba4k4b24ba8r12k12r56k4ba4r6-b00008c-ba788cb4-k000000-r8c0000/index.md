@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1776
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Hudson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1776))
+- 1997 — Hudson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5221/))
+
 ## Thread count
 DB/8 B4 K4 DB24 B8 DR12 K12 DR56 K4 B4 DR/6
 ![Sett](sett.png)

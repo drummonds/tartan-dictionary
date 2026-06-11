@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10020/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Mar. 2009 — Harmon Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10020/))
+- undated — Harmon Dress Name Tartan Tartan Number: 10020. Earliest known date: Mar. 2009 The Harmon Dress tartan permits those of the name to honour their family heritage when competing in Highland dance, or in any other situation in which a dress tartan is appropriate. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10020))
+
 ## Thread count
 K/4 N12 Y4 N4 Y4 N38 DB4 G4 DB4 N4 DR8 K4 DR22 G4 DR4 G4 DR22 G4 Y/4
 ![Sett](sett.png)

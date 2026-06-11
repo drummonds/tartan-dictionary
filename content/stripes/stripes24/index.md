@@ -17,9 +17,7 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Colliers International](/setts/s24/b14ba14b80y6b80ba14b14ba14b14ba14b80r6b80ba14b14ba14b14ba14b80bb6b80ba14b14ba14-b1c1c50-ba5c5c5c-bb2888c4-rc80000-ye8c000/) | register-of-tartans |
 | 0.10 | [Colliers International (Corporate)](/setts/s24/b14ba14b80y6b80ba14b14ba14b14ba14b80r6b80ba14b14ba14b14ba14b80bb6b80ba14b14ba14-b1c1c50-ba5c5c5c-bb2888c4-rc80000-ye8c000/) | tartans-authority |
-| 0.12 | [Colliers International Canadian Corporate Tartan Tartan Number: 7524. Earliest known date: 2008 Colliers International are a long established (1985) international property company. This asymmetric tartan appears to have been designed for them by Janet Helm Presents Tartan - a design company from Vancouver. Count estimated from online photograph. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/b14ba14b80y6b80ba14b14ba14b14ba14b80r6b80ba14b14ba14b14ba14b80bb6b80ba14b14ba14-b1c1c50-ba5c5c5c-bb2888c4-rc80000-ye8c000/) | house-of-tartan |
 
 ### BBBBBBBBBBBRBBBBBBBBBYBB
 <a class="pat" href="/patterns/bbbbbbbbbbbrbbbbbbbbbybb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BBBBBBBBBBBRBBBBBBBBBYBB</span></a>
@@ -83,7 +81,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.15 | [Scotland 1782](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/) | register-of-tartans |
-| 0.15 | [Scotland 1782 #2](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/) | register-of-tartans |
 
 ### BBRRGRGRBBRRRBGRGRBRBRRB
 <a class="pat" href="/patterns/bbrrgrgrbbrrrbgrgrbrbrrb/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="seq">BBRRGRGRBBRRRBGRGRBRBRRB</span></a>
@@ -98,7 +95,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Unnamed C18th - Wedding Dress/Shawl](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ga6w2ga6b8ba8w2r72ba6b4w2b4ba6-b5c8ca8-ba2c2c80-g006818-ga604000-k101010-rc80000-we0e0e0/) | tartans-authority |
 | 0.10 | [Ross Wedding Dress](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ga6w2ga6b8ba8w2r72ba6b4w2b4ba6-b5c8ca8-ba2c2c80-g006818-ga604000-k101010-rc80000-we0e0e0/) | register-of-tartans |
 
 ### BBWBBRWBBRWRBBWGWGRBWKWK
@@ -207,7 +203,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 |---|---|---|
 | 0.09 | [Ettrick (Green) District Tartan Tartan Number: 2300. Earliest known date: 1971 Ettrick District is in the Borders of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/b4g4r2g10r2b12r4g2y2g2r2g2r2g2ba2g2r4b12g40r2g2r2g2b4-b003c64-ba5c8ca8-g003820-rc80000-ye8c000/) | house-of-tartan |
 | 0.09 | [Ettrick Forest](/setts/s24/b4g4r2g8r2b12r4g2y2g2r2g2r2g2ba2g2r4b12g52r2g2r2g2b2-b2c2c80-ba788cb4-g006818-r8c0000-ydcbc00/) | register-of-tartans |
-| 0.09 | [Ettrick Forest (District)](/setts/s24/b4g4r2g8r2b12r4g2y2g2r2g2r2g2ba2g2r4b12g52r2g2r2g2b2-b2c2c80-ba788cb4-g006818-r8c0000-ydcbc00/) | tartans-authority |
 
 ### BGRGRGBRBRBRYRBRBRBGRGRG
 <a class="pat" href="/patterns/bgrgrgbrbrbryrbrbrbgrgrg/"><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="seq">BGRGRGBRBRBRYRBRBRBGRGRG</span></a>
@@ -506,7 +501,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [Lindenwood University (Corporate)](/setts/s24/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4b6k12y8w8k2w6y8ba6-b1c0070-ba2c2c80-g006818-k101010-rc80000-wfcfcfc-yfccc00/) | tartans-authority |
-| 0.12 | [Lindenwood University Corporate Tartan Tartan Number: 10675. Earliest known date: 01/12/2011 The tartan was designed by James Evans and Judy Shanahan as a full-colour rendition of the Sibley crest. The crest was created in the early 1900s, based on traditional Scottish heraldry, to reflect the strong tradition, heritage, and values of Lindenwood University. (MO 63301, United States) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4b6k12y8w8k2w6y8ba6-b002366-ba0000cd-g008b00-k101010-rff0000-wffffff-yffe600/) | house-of-tartan |
 | 0.12 | [Lindenwood University](/setts/s24/w8k2w6y8k34w4k2w4r6k12y18k12w4g6k65w4b6k12y8w8k2w6y8ba6-b002366-ba0000cd-g008b00-k101010-rff0000-wffffff-yffe600/) | register-of-tartans |
 
 ### BYWYBRWBYBWBYBWGWGRYWKWK
@@ -622,7 +616,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.09 | [Malcolm Dress](/setts/s24/k28g36k8y8k8ga8k8g36k28b28r8b12r8b28k28w8k8w44k8w12k8w44k8w8-b1c0070-g006818-ga789484-k101010-rc80000-wfcfcfc-yd8b000/) | register-of-tartans |
-| 0.09 | [Malcolm Dress (Clan)](/setts/s24/k28g36k8y8k8ga8k8g36k28b28r8b12r8b28k28w8k8w44k8w12k8w44k8w8-b1c0070-g006818-ga789484-k101010-rc80000-wfcfcfc-yd8b000/) | tartans-authority |
 
 ### KRBKYKWKGRKRWRKRGKWKYKBR
 <a class="pat" href="/patterns/krbkykwkgrkrwrkrgkwkykbr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRBKYKWKGRKRWRKRGKWKYKBR</span></a>
@@ -630,7 +623,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.10 | [Wilson's No.001](/setts/s24/r28b16k18y2k4w4k4g20r30k8r24w4r24k8r30g20k4w4k4y2k18b16r28k4-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/) | register-of-tartans |
-| 0.10 | [Harden](/setts/s24/r28b16k18y2k4w4k4g20r30k8r24w4r24k8r30g20k4w4k4y2k18b16r28k4-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/) | register-of-tartans |
 
 ### KRGRGKWKYKBBBKYKWKGRGRGR
 <a class="pat" href="/patterns/krgrgkwkykbbbkykwkgrgrgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#2C4084"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E8C000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#006400"></span><span class="blk" style="background:#C80000"></span><span class="seq">KRGRGKWKYKBBBKYKWKGRGRGR</span></a>
@@ -639,7 +631,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 |---|---|---|
 | 0.05 | [Macan, of Lurgyvallan](/setts/s24/r32g2r2g2r2g8k2w2k2y2k2b12ba8b12k2y2k2w2k2g8r24g2r2k2-b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) | weddslist |
 | 0.08 | [Macan of Lurgyvallan Portrait Tartan Tartan Number: 1155. Earliest known date: 1831 The portrait of 'Captain Macan of Lurgyvallan painted and presented to him by his sincere friend William MacKenzie, 24th Oct. 1831' was recently sold at auction in London. The watercolour measured 10 by 7 inches. The chief (three eagles feathers) is wearing full Highland Dress. The tartan is a sort of MacLean of Duart, in the red Stewart group, but showing the MacLean inversion. No such person or clan or tartan or chief ever existed. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/r32g2r2g2r2g8k2w2k2y2k2b12ba8b12k2y2k2w2k2g8r24g2r2k2-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) | house-of-tartan |
-| 0.09 | [MacAn of Lurgyvallan (Portrait)](/setts/s24/r64g4r4g4r4g16k4w4k4y4k4b24ba16b24k4y4k4w4k4g16r48g4r4k4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-wc0c0c0-ye8c000/) | tartans-authority |
 | 0.09 | [Macan of Lurgyvallan](/setts/s24/r64g4r4g4r4g16k4w4k4y4k4b24ba16b24k4y4k4w4k4g16r48g4r4k4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-wc0c0c0-ye8c000/) | register-of-tartans |
 
 ### KRGRKBRGRKRBKRKRGRBKRGRK
@@ -670,7 +661,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Sobieski-Stewart (District?)](/setts/s24/k126w4r16k20w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4ra130w4rb12-k101010-ra07c58-ra888888-rbc80000-we0e0e0/) | tartans-authority |
 | 0.14 | [Sobieski-Stewart](/setts/s24/k126w4r16k20w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4ra130w4rb12-k101010-ra07c58-ra888888-rbc80000-we0e0e0/) | register-of-tartans |
 
 ### KYKYKWKBWBKWKYKYKWKGWGKW
@@ -739,7 +729,6 @@ Tartan setts with 24 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.08 | [Ottawa District Tartan Tartan Number: 2021. Earliest known date: 1966 In two blocks - Navy Block ends on 14th colour change Gold 24. Azure Block starts on the following White 8. The design was accepted as the Official Tartan of Ottawa by order of the Council on November 21st 1966. In 1985 it was no longer in commercial production. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/y28b16y4b16y4b16y28w8y24w4y4w4y4ba8y4ba12y4ba8y4w4y4w4y24r4-b5c8ca8-ba202060-rc80000-we0e0e0-ye8c000/) | house-of-tartan |
-| 0.14 | [Ottawa](/setts/s24/y28b16y4b16y4b16y28w8y24w4y4w4y4ba8y4ba12y4ba8y4w4y4w4y24r4-b2474e8-ba1c0070-r880000-we0e0e0-ybc8c00/) | register-of-tartans |
 | 0.14 | [Ottawa (District)](/setts/s24/y28b16y4b16y4b16y28w8y24w4y4w4y4ba8y4ba12y4ba8y4w4y4w4y24r4-b2474e8-ba1c0070-r880000-we0e0e0-ybc8c00/) | tartans-authority |
 
 ### WBWBWKBRBRBKGKBYKGKWBWBW

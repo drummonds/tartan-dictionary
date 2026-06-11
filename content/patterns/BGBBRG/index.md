@@ -20,5 +20,3 @@ BGBBRG
 |---------------|
 | [Round Table (1997)](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/)|
 |![Round Table (1997) example sett](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/sett.png)|
-| [Round Table (1997) (Corporate)](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/)|
-|![Round Table (1997) (Corporate) example sett](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/sett.png)|

@@ -18,5 +18,3 @@ RKRKBKRKBKW
 |---------------|
 | [American Heritage](/setts/s11/w5k2b14k4r8k4b4k80r6k4r4-b244470-k101010-r880000-wf8f4d0/)|
 |![American Heritage example sett](/setts/s11/w5k2b14k4r8k4b4k80r6k4r4-b244470-k101010-r880000-wf8f4d0/sett.png)|
-| [American Heritage (Fashion)](/setts/s11/w5k2b14k4r8k4b4k80r6k4r4-b244470-k101010-r880000-wf8f4d0/)|
-|![American Heritage (Fashion) example sett](/setts/s11/w5k2b14k4r8k4b4k80r6k4r4-b244470-k101010-r880000-wf8f4d0/sett.png)|

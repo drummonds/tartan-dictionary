@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Borthwick D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Borthwick D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DG/24 K2 DR20 K4 N20 K28 N20 K4 DR/8
 ![Sett](sett.png)

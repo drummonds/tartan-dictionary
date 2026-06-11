@@ -1,13 +1,20 @@
 ---
-title: "Holiday Inn (Corporate)"
+title: "Holiday Inn Crown Plaza"
 date: 2023-03-18
 ---
 In pattern [BWBYBWBYBWGRG](/patterns/bwbybwbybwgrg/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2176/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1749
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1990 — Holiday Inn Crown Plaza (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1749))
+- pre 2002 — Holiday Inn (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2176/))
 
 ## Thread count
 DB/28 LN4 DB6 Y6 DB6 LN4 DB28 Y4 DB6 LN6 G6 R4 G/54

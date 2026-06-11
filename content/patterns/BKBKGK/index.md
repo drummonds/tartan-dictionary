@@ -26,14 +26,10 @@ BKBKGK
 |![Sutherland 42nd example sett](/setts/s6/b4k4b12k12g12k4-b2c4084-g005020-k101010/sett.png)|
 | [Black Watch (smallest sett)](/setts/s6/b4k4b24k24g24k4-b1c1c50-g285800-k000000/)|
 |![Black Watch (smallest sett) example sett](/setts/s6/b4k4b24k24g24k4-b1c1c50-g285800-k000000/sett.png)|
-| [Brown Watch (single tramlines)](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/)|
-|![Brown Watch (single tramlines) example sett](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/sett.png)|
-| [Campbell, The 42nd (Military)](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/)|
-|![Campbell, The 42nd (Military) example sett](/setts/s6/b12k12b36k36g44k10-b1474b4-g006818-k101010/sett.png)|
-| [Wartley Htg (Fashion)](/setts/s6/b8k4b32k20g36k6-b000088-g007800-k000000/)|
-|![Wartley Htg (Fashion) example sett](/setts/s6/b8k4b32k20g36k6-b000088-g007800-k000000/sett.png)|
 | [Brown Watch (single) (Fashion)](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/)|
 |![Brown Watch (single) (Fashion) example sett](/setts/s6/b14k4b24k20g24k6-b481c04-g003820-k101010/sett.png)|
+| [Wartley Htg (Fashion)](/setts/s6/b8k4b32k20g36k6-b000088-g007800-k000000/)|
+|![Wartley Htg (Fashion) example sett](/setts/s6/b8k4b32k20g36k6-b000088-g007800-k000000/sett.png)|
 | [Black Watch](/setts/s6/k10g46k36b42k66b6-b304080-g008000-k000000/)|
 |![Black Watch example sett](/setts/s6/k10g46k36b42k66b6-b304080-g008000-k000000/sett.png)|
 | [Campbell, the 42nd](/setts/s6/b6k6b18k18g22k5-b304080-g008000-k000000/)|

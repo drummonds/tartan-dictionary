@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3440/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacLean, Donald (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3440/))
+- undated — MacLean, Donald (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5205))
+
 ## Thread count
 DB/6 DR4 DB24 K20 G6 LP6 G/32
 ![Sett](sett.png)

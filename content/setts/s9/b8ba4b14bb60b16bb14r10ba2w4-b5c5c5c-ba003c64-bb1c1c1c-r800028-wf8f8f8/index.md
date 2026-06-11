@@ -1,13 +1,20 @@
 ---
-title: "Hebridean Heather (Fashion)"
+title: "Hebridean Heather"
 date: 2023-03-18
 ---
 In pattern [BBBBBBRBW](/patterns/bbbbbbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6820/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1654
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2005 — Hebridean Heather (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1654))
+- 2005 December — Hebridean Heather (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6820/))
 
 ## Thread count
 N/8 DB4 N14 K60 N16 K14 DR10 DB2 W/4

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2460/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1989 — Morris of Balgonie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2460/))
+- 01/01/1995 — Morris of Balgonie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3014))
+
 ## Thread count
 DY/4 G40 K20 DR6 P40 W/4
 ![Sett](sett.png)

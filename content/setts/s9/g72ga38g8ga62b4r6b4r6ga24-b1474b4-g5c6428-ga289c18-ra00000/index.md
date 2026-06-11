@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — O'Brien (Scotch Corner) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214))
+- pre 2004 — O'Brien #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6173/))
+
 ## Thread count
 G/24 DR6 B4 DR6 B4 G62 Ga8 G38 Ga/72
 ![Sett](sett.png)

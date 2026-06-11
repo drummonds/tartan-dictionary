@@ -18,5 +18,3 @@ RBWRWRWBWRWBW
 |---------------|
 | [Fiona](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/)|
 |![Fiona example sett](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/sett.png)|
-| [Fiona (Fashion)](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/)|
-|![Fiona (Fashion) example sett](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/sett.png)|

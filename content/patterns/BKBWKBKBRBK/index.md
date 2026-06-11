@@ -18,5 +18,3 @@ BKBWKBKBRBK
 |---------------|
 | [Pride of Scotland Contemporary](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/)|
 |![Pride of Scotland Contemporary example sett](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/sett.png)|
-| [Pride of Scotland, Contempo. (Fashio](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/)|
-|![Pride of Scotland, Contempo. (Fashio example sett](/setts/s11/k18b4r4b4k36b4k4w2b38k66ba4-b5c5c5c-ba6c0070-k101010-r888888-wc49cd8/sett.png)|

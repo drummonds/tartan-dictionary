@@ -1,13 +1,20 @@
 ---
-title: "Lister (Misty Mountain) Name Tartan Tartan Number: 10650. Earliest known date: 07/07/2012 Inspired by a sponsored challenge to wear kilts for a year, David Lister designed this tartan for his family. Colours: grey represents mountain mists; brown represents the matriarchal line and mountains; gold represents the first rays of the morning sun. There are no restrictions as to who can wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Lister (Misty Mountain)"
 date: 2023-03-18
 ---
 In pattern [BYBYBYY](/patterns/bybybyy/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10650
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 07/07/2012 — Lister (Misty Mountain) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650))
+- undated — Lister (Misty Mountain) Name Tartan Tartan Number: 10650. Earliest known date: 07/07/2012 Inspired by a sponsored challenge to wear kilts for a year, David Lister designed this tartan for his family. Colours: grey represents mountain mists; brown represents the matriarchal line and mountains; gold represents the first rays of the morning sun. There are no restrictions as to who can wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10650))
 
 ## Thread count
 T/16 N58 T16 Y6 T16 N16 Y/6

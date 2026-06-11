@@ -1,13 +1,20 @@
 ---
-title: "Hong Kong, University of Corporate Tartan Tartan Number: 10713. Earliest known date: 11 October 2012 Gifted by Aberdeen University to Hong Kong University on the occasion of Hong Kong University's centenary in 2012. Granted in 1913, the University Arms are reflected in this centenary tartan: the red and gold represent the lion on its field of red; azure and light green symbolise Hong Kong's island status; the narrow black lines on white denote the open book in the Arms and the University's role in learning and knowledge. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Hong Kong, University of"
 date: 2023-03-18
 ---
 In pattern [WKWKGKWKYGRKY](/patterns/wkwkgkwkygrky/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10713
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10713
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 04/06/2012 — Hong Kong, University of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10713))
+- undated — Hong Kong, University of Corporate Tartan Tartan Number: 10713. Earliest known date: 11 October 2012 Gifted by Aberdeen University to Hong Kong University on the occasion of Hong Kong University's centenary in 2012. Granted in 1913, the University Arms are reflected in this centenary tartan: the red and gold represent the lion on its field of red; azure and light green symbolise Hong Kong's island status; the narrow black lines on white denote the open book in the Arms and the University's role in learning and knowledge. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10713))
 
 ## Thread count
 W/4 K2 W4 K2 G84 K2 B10 K2 LG10 G12 R4 K2 Y/4

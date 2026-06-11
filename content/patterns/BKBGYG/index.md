@@ -20,5 +20,3 @@ BKBGYG
 |---------------|
 | [Oliphant](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/)|
 |![Oliphant example sett](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/sett.png)|
-| [Oliphant](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/)|
-|![Oliphant example sett](/setts/s6/b8k8b48g64y2g4-b000052-g11450d-k000000-yaaaaaa/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Scotsman (Corporate)"
+title: "Scotsman"
 date: 2023-03-18
 ---
 In pattern [BBKBGKG](/patterns/bbkbgkg/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2645/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/1999 — Scotsman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687))
+- Nov. 1999 — Scotsman (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2645/))
 
 ## Thread count
 G/42 K28 G18 DB42 K6 DB24 P/6

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4163
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1983 — Turnbull Hunting (1983) #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4163))
+- 1983 — Turnbull Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1265/))
+
 ## Thread count
 K/12 Y6 G60 DB60 W/6
 ![Sett](sett.png)

@@ -20,5 +20,3 @@ GBGWBR
 |---------------|
 | [Norris (1957)](/setts/s6/g24b4g28w4b28r4-b3850c8-g408060-rc80000-wfcfcfc/)|
 |![Norris (1957) example sett](/setts/s6/g24b4g28w4b28r4-b3850c8-g408060-rc80000-wfcfcfc/sett.png)|
-| [Norris (1957) (Name)](/setts/s6/g24b4g28w4b28r4-b3850c8-g408060-rc80000-wfcfcfc/)|
-|![Norris (1957) (Name) example sett](/setts/s6/g24b4g28w4b28r4-b3850c8-g408060-rc80000-wfcfcfc/sett.png)|

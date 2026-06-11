@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1236
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1795 — Forsyth (1795) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1236))
+- 1795 — Forsyth (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1122/))
+
 ## Thread count
 K/8 G44 Y4 K32 B36 R/8
 ![Sett](sett.png)

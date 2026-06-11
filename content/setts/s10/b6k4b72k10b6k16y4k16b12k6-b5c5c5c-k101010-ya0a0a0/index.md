@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=653
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2007 — City Building (Glasgow) LLP (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=653))
+- February 2007 — City Building (Glasgow) LLP (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7111/))
+
 ## Thread count
 K/6 Nb12 K16 Na4 K16 Nb6 K10 Nb72 K4 Nb/6
 ![Sett](sett.png)

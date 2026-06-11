@@ -1,13 +1,20 @@
 ---
-title: "Pride of Yorkland"
+title: "Pride of Yorkland (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GKBKBW](/patterns/gkbkbw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5084
+Original link http://www.tartansauthority.com/tartan-ferret/display/3813/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2002 — Pride of Yorkland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3813/))
+- undated — Pride of Yorkland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5084))
 
 ## Thread count
 G/70 K6 DB52 K8 DBa8 W/6

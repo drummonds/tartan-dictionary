@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2272
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Macallan Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2272))
+- mid 1980's — Macallan Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5836/))
+
 ## Thread count
 B/16 R2 B4 R6 B24 Y2 K24 G24 R6 G4 R2 G/16
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s12/b16r2b4r6b24y2k24g24r6g4r2g16-b5c8ca8-g006818-k101010-rc80000-ye8c000/
-e8c000/

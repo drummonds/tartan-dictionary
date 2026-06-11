@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3517
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Robbins (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3517))
+- pre 2002 — Robbins (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/412/))
+
 ## Thread count
 DB/8 DR24 DB8 DR24 DB48 G/8
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 DR24 DB8 DR24 DB48 G/8 tartan")
 
 ID: /setts/s6/b8r24b8r24b48g8-b1c0070-g006818-r880000/
-/

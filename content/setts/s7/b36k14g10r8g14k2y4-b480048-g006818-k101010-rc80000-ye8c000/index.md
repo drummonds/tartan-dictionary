@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3490
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Regent (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3490))
+- 1819 — Regent (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/341/))
+
 ## Thread count
 DP/36 K14 G10 R8 G14 K2 Y/4
 ![Sett](sett.png)

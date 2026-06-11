@@ -22,8 +22,6 @@ BKBBRB
 |![Thompson/Thomson/MacTavish example sett](/setts/s6/b8r48ba8b24k24b4-b3c82af-ba2c4084-k101010-rdc0000/sett.png)|
 | [MacTavish #2](/setts/s6/b8r48ba8b24k24b8-b5c8ca8-ba1c0070-k101010-r880000/)|
 |![MacTavish #2 example sett](/setts/s6/b8r48ba8b24k24b8-b5c8ca8-ba1c0070-k101010-r880000/sett.png)|
-| [MacTavish (Clan)](/setts/s6/b8r48ba8b24k24b8-b5c8ca8-ba1c0070-k101010-r880000/)|
-|![MacTavish (Clan) example sett](/setts/s6/b8r48ba8b24k24b8-b5c8ca8-ba1c0070-k101010-r880000/sett.png)|
 | [MacTavish](/setts/s6/b4r24ba4b12k12b2-b4367ae-ba000052-k000000-raa0000/)|
 |![MacTavish example sett](/setts/s6/b4r24ba4b12k12b2-b4367ae-ba000052-k000000-raa0000/sett.png)|
 | [MacTavish](/setts/s6/b2r12ba2b6k6b1-b4367ae-ba000052-k000000-raa0000/)|

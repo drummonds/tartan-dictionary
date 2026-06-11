@@ -1,13 +1,20 @@
 ---
-title: "Ballantrae - Dalgety (Fashion)"
+title: "Ballantrae (Dalgety)"
 date: 2023-03-18
 ---
 In pattern [GRGGGGR](/patterns/grggggr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1541/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Ballantrae (Dalgety) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=177))
+- pre 2002 — Ballantrae - Dalgety (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1541/))
 
 ## Thread count
 R/10 G44 T6 DG40 T62 R6 T/10

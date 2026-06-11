@@ -1,13 +1,20 @@
 ---
-title: "Allen (1998) (Name)"
+title: "Allen (1998)"
 date: 2023-03-18
 ---
 In pattern [GRGKBRBKBKBKBKBYBKGRG](/patterns/grgkbrbkbkbkbkbybkgrg/).
 
 
-This was sourced from tartans-authority.  It is a [21 stripes tartan](/stripes/stripes21/).
+This was sourced from register-of-tartans.  It is a [21 stripes tartan](/stripes/stripes21/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2482/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Allen (1998) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56))
+- pre 1998 — Allen (1998) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2482/))
 
 ## Thread count
 G/4 R4 G24 K8 B22 R4 B22 K8 B4 K18 B4 K18 B4 K8 B22 Y4 B22 K8 G24 R4 G/4

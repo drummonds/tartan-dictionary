@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7697/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1958 — Manitoba Dress (1958) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7697/))
+- undated — Manitoba Dress (1958) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5694))
+
 ## Thread count
 DB/16 LN4 DB8 LN72 G12 LN4 DR36 Y/16
 ![Sett](sett.png)

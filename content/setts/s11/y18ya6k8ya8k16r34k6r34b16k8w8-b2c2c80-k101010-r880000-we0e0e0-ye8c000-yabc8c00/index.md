@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7454/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Laois County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7454/))
+- 01/05/2005 — Laois County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5370))
+
 ## Thread count
 LN/8 K8 DB16 DR34 K6 DR34 K16 DY8 K8 DY6 Y/18
 ![Sett](sett.png)

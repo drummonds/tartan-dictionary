@@ -20,5 +20,3 @@ GYBWRKRK
 |---------------|
 | [Fremont Presbyterian Church (P)](/setts/s8/k12r4k12r24w4b72y2g6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
 |![Fremont Presbyterian Church (P) example sett](/setts/s8/k12r4k12r24w4b72y2g6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Fremont Presbyterian Church (Corp.)](/setts/s8/k12r4k12r24w4b72y2g6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Fremont Presbyterian Church (Corp.) example sett](/setts/s8/k12r4k12r24w4b72y2g6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

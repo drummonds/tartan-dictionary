@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1192
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Firth of Tay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1192))
+- 1975 — Firth of Tay (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4862/))
+
 ## Thread count
 DB/8 N8 DB4 N36 K20 G12 DR8 G20 K4 LG/8
 ![Sett](sett.png)

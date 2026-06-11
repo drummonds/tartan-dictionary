@@ -1,13 +1,20 @@
 ---
-title: "Snelgrove"
+title: "Snelgrove (Name)"
 date: 2023-03-18
 ---
 In pattern [KGBBRBY](/patterns/kgbbrby/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5765
+Original link http://www.tartansauthority.com/tartan-ferret/display/7803/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Snelgrove (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7803/))
+- undated — Snelgrove (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5765))
 
 ## Thread count
 DY/4 T20 R72 B4 T16 G24 K/8

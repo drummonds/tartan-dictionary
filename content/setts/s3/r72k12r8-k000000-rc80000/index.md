@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=436
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1968 — Buie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=436))
+- 1968 — Buie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1590/))
+
 ## Thread count
 R/8 K12 R/72
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 K12 R/72 tartan")
 
 ID: /setts/s3/r72k12r8-k000000-rc80000/
-00/

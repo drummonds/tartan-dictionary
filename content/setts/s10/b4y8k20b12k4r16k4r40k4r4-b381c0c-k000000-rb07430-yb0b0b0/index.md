@@ -1,13 +1,20 @@
 ---
-title: "Campbell, 'Camel' (Fashion)"
+title: "Campbell 'Camel'"
 date: 2023-03-18
 ---
 In pattern [BYKBKRKRKR](/patterns/bykbkrkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4427/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Campbell 'Camel' (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505))
+- 1988 — Campbell, 'Camel' (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4427/))
 
 ## Thread count
 Ka/4 N8 K20 Ka12 K4 LT16 K4 LT40 K4 LT/4

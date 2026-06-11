@@ -1,13 +1,20 @@
 ---
-title: "Reflections of the Sea (Fashion)"
+title: "Reflections of the Sea"
 date: 2023-03-18
 ---
 In pattern [BBGBGBBGBBGY](/patterns/bbgbgbbgbbgy/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5419/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3486
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Reflections of the Sea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3486))
+- pre 1972 — Reflections of the Sea (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5419/))
 
 ## Thread count
 B/6 Ba12 G24 B28 G4 Ba34 B6 G2 B6 Ba34 G4 LB/6

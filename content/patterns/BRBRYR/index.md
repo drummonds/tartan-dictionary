@@ -20,5 +20,3 @@ BRBRYR
 |---------------|
 | [Butler](/setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/)|
 |![Butler example sett](/setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/sett.png)|
-| [Butler (Fashion)](/setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/)|
-|![Butler (Fashion) example sett](/setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/sett.png)|

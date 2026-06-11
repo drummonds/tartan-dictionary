@@ -18,5 +18,3 @@ KGKBKGKRK
 |---------------|
 | [Scotland's Lionheart](/setts/s9/k156g32k4b4k4g4k6r4k20-b4c4c4c-g686868-k101010-rac0034/)|
 |![Scotland's Lionheart example sett](/setts/s9/k156g32k4b4k4g4k6r4k20-b4c4c4c-g686868-k101010-rac0034/sett.png)|
-| [Scotland's Lionheart (Fashion)](/setts/s9/k156g32k4b4k4g4k6r4k20-b4c4c4c-g686868-k101010-rac0034/)|
-|![Scotland's Lionheart (Fashion) example sett](/setts/s9/k156g32k4b4k4g4k6r4k20-b4c4c4c-g686868-k101010-rac0034/sett.png)|

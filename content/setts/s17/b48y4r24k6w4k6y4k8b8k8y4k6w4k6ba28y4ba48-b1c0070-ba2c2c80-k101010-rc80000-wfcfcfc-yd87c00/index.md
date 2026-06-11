@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 10/09/1999 — Total (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141))
+- Sep. 1999 — Total (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2615/))
+
 ## Thread count
 DB/48 O4 DB28 K6 W4 K6 O4 K8 DBa8 K8 O4 K6 W4 K6 R24 O4 DBa/48
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s17/b48y4r24k6w4k6y4k8b8k8y4k6w4k6ba28y4ba48-b1c0070-ba2c2c80-k101010-rc80000-wfcfcfc-yd87c00/
-d87c00/

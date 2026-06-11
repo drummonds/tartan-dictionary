@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3857/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2000 — Council of Scottish Clans & Ass. (Co (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3857/))
+- undated — Council of Scottish Clans & Ass. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5417))
+
 ## Thread count
 W/4 R4 DB32 K28 G30 R4 Y/4
 ![Sett](sett.png)

@@ -18,8 +18,6 @@ BKGKBKGR
 
 | Tartans |
 |---------------|
-| [Aiton/Ayton](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/)|
-|![Aiton/Ayton example sett](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/sett.png)|
 | [AIton - 1979 (Clan)](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/)|
 |![AIton - 1979 (Clan) example sett](/setts/s8/b12k2g6k2b6k2g20r6-b2c2c80-g006818-k101010-rc80000/sett.png)|
 | [Ayrton 1979 No. 2 (Personal)](/setts/s8/b10k2g6k2b6k2g20r6-b1474b4-g006818-k101010-rc80000/)|

@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacKintosh (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacKintosh (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DB/2 DR8 DG24 DR6 DB12 DR/48
 ![Sett](sett.png)

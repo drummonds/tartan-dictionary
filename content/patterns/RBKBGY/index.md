@@ -20,5 +20,3 @@ RBKBGY
 |---------------|
 | [Cowie](/setts/s6/r6b48k14ba22g22y4-b003c64-ba2c2c80-g006818-k101010-rc80000-ye8c000/)|
 |![Cowie example sett](/setts/s6/r6b48k14ba22g22y4-b003c64-ba2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Cowie (Name)](/setts/s6/r6b48k14ba22g22y4-b003c64-ba2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Cowie (Name) example sett](/setts/s6/r6b48k14ba22g22y4-b003c64-ba2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|

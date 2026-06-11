@@ -1,13 +1,20 @@
 ---
-title: "Parker (USA 2004) (Name)"
+title: "Parker (USA)"
 date: 2023-03-18
 ---
 In pattern [BRBWBWBWBYBRWB](/patterns/brbwbwbwbybrwb/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6445/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3292
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Parker (USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3292))
+- 2004 — Parker (USA 2004) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6445/))
 
 ## Thread count
 DB/8 LN6 R12 DB32 DY4 DB32 LN8 DB8 LN8 DB8 LN8 DB32 R12 DB/8

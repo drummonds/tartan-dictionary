@@ -1,13 +1,20 @@
 ---
-title: "MacFie B&W (Clan)"
+title: "MacPhee (Black and White)"
 date: 2023-03-18
 ---
 In pattern [KWKW](/patterns/kwkw/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1252/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2699
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1992 — MacPhee (Black and White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2699))
+- pre 1992 — MacFie B&W (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1252/))
 
 ## Thread count
 K/44 W6 K6 W/44
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/44 W6 K6 W/44 tartan")
 
 ID: /setts/s4/k44w6k6w44-k101010-wfcfcfc/
-10-wfcfcfc/

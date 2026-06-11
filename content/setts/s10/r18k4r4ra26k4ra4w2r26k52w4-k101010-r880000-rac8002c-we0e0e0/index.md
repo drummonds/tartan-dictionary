@@ -1,13 +1,21 @@
 ---
-title: "Pride of Wales"
+title: "Pride of Wales (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RKRRKRWRKW](/patterns/rkrrkrwrkw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5553
+Original link http://www.tartansauthority.com/tartan-ferret/display/7515/
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- pre 2008 — Pride of Wales (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7515/))
+- undated — Pride of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5553))
+- undated — Pride of Wales Fashion Tartan Tartan Number: 7515. Earliest known date: 2008 Count and sample from Lochcarron Feb. 2008. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7515))
 
 ## Thread count
 DR/18 K4 DR4 R26 K4 R4 LN2 DR26 K52 LN/4

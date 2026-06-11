@@ -18,5 +18,3 @@ KGKGKRKWKRKGKGKRKR
 |---------------|
 | [Chapman (Personal)](/setts/s18/k72g4k4g4k36r36k6w6k6r36k36g4k4g4k36r36k6ra6-g285800-k101010-r9c68a4-rac80000-wfcfcfc/)|
 |![Chapman (Personal) example sett](/setts/s18/k72g4k4g4k36r36k6w6k6r36k36g4k4g4k36r36k6ra6-g285800-k101010-r9c68a4-rac80000-wfcfcfc/sett.png)|
-| [Chapman (Personal)](/setts/s18/k72g4k4g4k36r36k6w6k6r36k36g4k4g4k36r36k6ra6-g285800-k101010-r9c68a4-rac80000-wfcfcfc/)|
-|![Chapman (Personal) example sett](/setts/s18/k72g4k4g4k36r36k6w6k6r36k36g4k4g4k36r36k6ra6-g285800-k101010-r9c68a4-rac80000-wfcfcfc/sett.png)|

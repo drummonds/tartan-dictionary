@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — MacIngust (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470))
+- pre 2003 — MacIngust (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5912/))
+
 ## Thread count
 LN/2 B8 K8 R20 DG36 Y2 K4 R/140
 ![Sett](sett.png)
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/2 B8 K8 R20 DG36 Y2 K4 R/140 tartan")
 
 ID: /setts/s8/r140k4y2g36r20k8b8w2-b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/
-00/

@@ -1,13 +1,20 @@
 ---
-title: "Glenmore, Green (Fashion)"
+title: "Glenmore Green"
 date: 2023-03-18
 ---
 In pattern [WKBKWKGRKRW](/patterns/wkbkwkgrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5041/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1428
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Glenmore Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1428))
+- pre 1988 — Glenmore, Green (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5041/))
 
 ## Thread count
 LY/76 K20 DR4 K6 LY4 K6 G16 LT6 K4 LT6 LY/4

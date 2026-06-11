@@ -1,13 +1,20 @@
 ---
-title: "Wotherspoon (Clan)"
+title: "Wotherspoon"
 date: 2023-03-18
 ---
 In pattern [GBRGR](/patterns/gbrgr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/741/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4784
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1979 — Wotherspoon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4784))
+- pre 1979 — Wotherspoon (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/741/))
 
 ## Thread count
 DG/12 DB72 R72 DG12 R/20

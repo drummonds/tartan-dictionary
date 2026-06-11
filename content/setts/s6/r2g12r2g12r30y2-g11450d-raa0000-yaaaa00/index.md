@@ -7,7 +7,14 @@ In pattern [RGRGRY](/patterns/rgrgry/).
 
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Cameron Clan D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Cameron Clan D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/2 DG12 DR2 DG12 DR30 LG/2
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/2 DG12 DR2 DG12 DR30 LG/2 tartan")
 
 ID: /setts/s6/r2g12r2g12r30y2-g11450d-raa0000-yaaaa00/
-a00/

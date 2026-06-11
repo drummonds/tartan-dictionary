@@ -18,5 +18,3 @@ BGBGBGBKBKBGBG
 |---------------|
 | [Lochcarron of Scotland](/setts/s14/b8g24ba4g4ba4g4b8k8b4k8b36ga4b8ga4-b000064-ba64008c-g006818-ga50a050-k000000/)|
 |![Lochcarron of Scotland example sett](/setts/s14/b8g24ba4g4ba4g4b8k8b4k8b36ga4b8ga4-b000064-ba64008c-g006818-ga50a050-k000000/sett.png)|
-| [Lochcarron of Scotland (Corporate)](/setts/s14/b8g24ba4g4ba4g4b8k8b4k8b36ga4b8ga4-b000064-ba64008c-g006818-ga50a050-k000000/)|
-|![Lochcarron of Scotland (Corporate) example sett](/setts/s14/b8g24ba4g4ba4g4b8k8b4k8b36ga4b8ga4-b000064-ba64008c-g006818-ga50a050-k000000/sett.png)|

@@ -1,13 +1,21 @@
 ---
-title: "Cameron of Erracht Regimental Tartan Tartan Number: 993. Earliest known date: 1793 Designed for the Queen's Own Cameron Highlanders raised by Alan Cameron of Erracht in 1793. It was never adopted by the clan. A sample of this tartan exists in the Cockburn Collection (1810-20) in the Mitchell Library in Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Cameron of Erracht (Clan)"
 date: 2023-03-18
 ---
 In pattern [GRGRGKRBRBY](/patterns/grgrgkrbrby/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=993
+Original link http://www.tartansauthority.com/tartan-ferret/display/993/
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 1793 — Cameron of Erracht (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/993/))
+- 01/01/1831 — Cameron of Erracht (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=495))
+- undated — Cameron of Erracht Regimental Tartan Tartan Number: 993. Earliest known date: 1793 Designed for the Queen's Own Cameron Highlanders raised by Alan Cameron of Erracht in 1793. It was never adopted by the clan. A sample of this tartan exists in the Cockburn Collection (1810-20) in the Mitchell Library in Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=993))
 
 ## Thread count
 G/16 R2 G2 R6 G32 K32 R2 DB32 R6 DB16 Y/4

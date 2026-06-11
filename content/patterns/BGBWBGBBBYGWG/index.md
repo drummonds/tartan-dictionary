@@ -16,7 +16,5 @@ BGBWBGBBBYGWG
 
 | Tartans |
 |---------------|
-| [Riyadh Caledonian](/setts/s13/b92g16b4w4b12g20b4ba16b12y4g12w4g16-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/)|
-|![Riyadh Caledonian example sett](/setts/s13/b92g16b4w4b12g20b4ba16b12y4g12w4g16-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/sett.png)|
 | [Riyadh Caledonian (Corporate)](/setts/s13/b92g16b4w4b12g20b4ba16b12y4g12w4g16-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/)|
 |![Riyadh Caledonian (Corporate) example sett](/setts/s13/b92g16b4w4b12g20b4ba16b12y4g12w4g16-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/sett.png)|

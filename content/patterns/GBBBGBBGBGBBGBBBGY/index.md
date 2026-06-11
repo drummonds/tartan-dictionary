@@ -18,5 +18,3 @@ GBBBGBBGBGBBGBBBGY
 |---------------|
 | [Islay Whisky Club](/setts/s18/g8b6ba6bb60ga8b6ba6ga8bb60ga8ba6b6ga8bb60ba6b6g8y4-b5c8ca8-ba780078-bb680028-g003820-ga006428-ye8c000/)|
 |![Islay Whisky Club example sett](/setts/s18/g8b6ba6bb60ga8b6ba6ga8bb60ga8ba6b6ga8bb60ba6b6g8y4-b5c8ca8-ba780078-bb680028-g003820-ga006428-ye8c000/sett.png)|
-| [Islay Whisky Club Corporate Weavers Tartan Tartan Number: 3818. Earliest known date: 2002 A tartan for members of the Islay Whisky Club and for sale only through that club. info@islaywhiskyclub.com See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/g8b6ba6bb60ga8b6ba6ga8bb60ga8ba6b6ga8bb60ba6b6g8y4-b5c8ca8-ba780078-bb680028-g003820-ga006428-ye8c000/)|
-|![Islay Whisky Club Corporate Weavers Tartan Tartan Number: 3818. Earliest known date: 2002 A tartan for members of the Islay Whisky Club and for sale only through that club. info@islaywhiskyclub.com See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/g8b6ba6bb60ga8b6ba6ga8bb60ga8ba6b6ga8bb60ba6b6g8y4-b5c8ca8-ba780078-bb680028-g003820-ga006428-ye8c000/sett.png)|

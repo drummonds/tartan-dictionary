@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7643/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Gordon Cumming (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7643/))
+- undated — Gordon Cumming (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5657))
+
 ## Thread count
 B/6 K4 B60 G50 B60 Y/20
 ![Sett](sett.png)

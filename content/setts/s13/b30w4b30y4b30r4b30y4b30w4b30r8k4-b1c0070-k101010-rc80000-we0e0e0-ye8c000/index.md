@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3114/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Royal National Lifeboat Inst. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3114/))
+- undated — Royal National Lifeboat Institution (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5283))
+
 ## Thread count
 DB/30 LN4 DB30 Y4 DB30 R4 DB30 Y4 DB30 LN4 DB30 R8 K/4
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s13/b30w4b30y4b30r4b30y4b30w4b30r8k4-b1c0070-k101010-rc80000-we0e0e0-ye8c000/
-0/

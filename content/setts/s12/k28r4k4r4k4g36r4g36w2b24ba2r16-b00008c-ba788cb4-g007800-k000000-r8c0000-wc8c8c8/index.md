@@ -1,13 +1,20 @@
 ---
-title: "Princess Diana (Fashion)"
+title: "Princess Diana"
 date: 2023-03-18
 ---
 In pattern [KRKRKGRGWBBR](/patterns/krkrkgrgwbbr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5459/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3401
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Princess Diana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3401))
+- 1997 — Princess Diana (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5459/))
 
 ## Thread count
 DR/16 B2 DB24 N2 G36 DR4 G36 K4 DR4 K4 DR4 K/28

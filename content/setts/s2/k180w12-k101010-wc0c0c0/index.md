@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [2 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3245/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1996 — Joy's Fancy, Allen (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3245/))
+- undated — Joy's Fancy, Allen (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5271))
+
 ## Thread count
 K/180 N/12
 ![Sett](sett.png)

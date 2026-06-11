@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3168
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1118 — Norwich Collection No. 60 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3168))
+- 01/01/1118 — Wilson's No.159 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4704))
+
 ## Thread count
 P/16 K22 G18 R/4
 ![Sett](sett.png)

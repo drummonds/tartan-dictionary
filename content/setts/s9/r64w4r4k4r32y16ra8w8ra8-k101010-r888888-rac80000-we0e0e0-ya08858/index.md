@@ -1,13 +1,20 @@
 ---
-title: "Middleton, City of (District)"
+title: "Middleton, City of"
 date: 2023-03-18
 ---
 In pattern [RWRKRYRWR](/patterns/rwrkryrwr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6466/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Middleton, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948))
+- 1972 circa — Middleton, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6466/))
 
 ## Thread count
 N/64 LN4 N4 K4 N32 LT16 R8 LN8 R/8

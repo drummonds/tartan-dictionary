@@ -1,13 +1,20 @@
 ---
-title: "Loch Rannoch (District)"
+title: "Loch Rannoch #2"
 date: 2023-03-18
 ---
 In pattern [GGGRGRYG](/patterns/gggrgryg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1735/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Loch Rannoch #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2157))
+- 1975 — Loch Rannoch (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1735/))
 
 ## Thread count
 T/48 G4 T10 Oa28 G4 Oa10 O34 T/4

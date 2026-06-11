@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2005 — Lysaght Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2260))
+- 2005 March — Lysaght Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6593/))
+
 ## Thread count
 DR/24 LN16 DR24 LN44 DB4 LN12 DB12 LN4 DB44 DY24 DB16 DY/24
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s12/r24w16r24w44b4w12b12w4b44y24b16y24-b2c2c80-r880000-we0e0e0-ybc8c00/
-0/

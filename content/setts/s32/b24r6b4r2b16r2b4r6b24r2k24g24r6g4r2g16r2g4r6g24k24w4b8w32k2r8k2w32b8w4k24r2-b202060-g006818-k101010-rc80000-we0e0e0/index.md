@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [32 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2343
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — MacDonald Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2343))
+- 1880 — MacDonald Dress - 1880 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1997/))
+
 ## Thread count
 DB/24 R6 DB4 R2 DB16 R2 DB4 R6 DB24 R2 K24 G24 R6 G4 R2 G16 R2 G4 R6 G24 K24 LN4 DB8 LN32 K2 R8 K2 LN32 DB8 LN4 K24 R/2
 ![Sett](sett.png)

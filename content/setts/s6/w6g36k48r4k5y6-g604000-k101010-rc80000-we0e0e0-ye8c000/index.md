@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=973
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/1998 — Drambuie Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=973))
+- pre 1998 — Drambuie Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2485/))
+
 ## Thread count
 LN/6 T36 K48 R4 K5 Y/6
 ![Sett](sett.png)

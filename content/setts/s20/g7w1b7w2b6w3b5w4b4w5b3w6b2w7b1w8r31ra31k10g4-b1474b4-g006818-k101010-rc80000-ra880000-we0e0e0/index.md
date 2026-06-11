@@ -1,13 +1,20 @@
 ---
-title: "Gallacher, A.J. Name Tartan Tartan Number: 10053. Earliest known date: 2009 Despite the name of this tartan being A.J. Gallacher, it is not a personal tartan and can be worn by anyone of the name and its spelling variations. Like the other Gallacher/Gallagher at # 4053, it has no known historical significance. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Gallacher, (Name)"
 date: 2023-03-18
 ---
 In pattern [GKRRWBWBWBWBWBWBWBWG](/patterns/gkrrwbwbwbwbwbwbwbwg/).
 
 
-This was sourced from house-of-tartan.  It is a [20 stripes tartan](/stripes/stripes20/).
+This was sourced from tartans-authority.  It is a [20 stripes tartan](/stripes/stripes20/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10053
+Original link http://www.tartansauthority.com/tartan-ferret/display/10053/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2009 — Gallacher, (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10053/))
+- undated — Gallacher, A.J. Name Tartan Tartan Number: 10053. Earliest known date: 2009 Despite the name of this tartan being A.J. Gallacher, it is not a personal tartan and can be worn by anyone of the name and its spelling variations. Like the other Gallacher/Gallagher at # 4053, it has no known historical significance. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10053))
 
 ## Thread count
 G/4 K10 DR31 R31 LN8 B1 LN7 B2 LN6 B3 LN5 B4 LN4 B5 LN3 B6 LN2 B7 LN1 G/7

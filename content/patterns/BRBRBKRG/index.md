@@ -24,8 +24,6 @@ BRBRBKRG
 |![Carson Red (Personal) example sett](/setts/s8/b38r4b6r4b6k86r44g6-b446c84-g006818-k101010-rc80000/sett.png)|
 | [Brown (Clan)](/setts/s8/b24r4b8r4b8k72r32g8-b1c1c50-g004800-k000000-rc80000/)|
 |![Brown (Clan) example sett](/setts/s8/b24r4b8r4b8k72r32g8-b1c1c50-g004800-k000000-rc80000/sett.png)|
-| [Carson Red (Personal)](/setts/s8/b38r4b6r4b6k86r44g6-b446c84-g006818-k101010-rc80000/)|
-|![Carson Red (Personal) example sett](/setts/s8/b38r4b6r4b6k86r44g6-b446c84-g006818-k101010-rc80000/sett.png)|
 | [Brown](/setts/s8/b12r2b4r2b4k36r16g4-b304080-g008000-k000000-rc00000/)|
 |![Brown example sett](/setts/s8/b12r2b4r2b4k36r16g4-b304080-g008000-k000000-rc00000/sett.png)|
 | [Scotch House 2000, antique](/setts/s8/b44r6b4r6b4k34ra36g8-b304080-g004010-k000000-rc00000-ra806050/)|

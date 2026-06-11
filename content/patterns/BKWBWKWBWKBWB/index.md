@@ -16,7 +16,5 @@ BKWBWKWBWKBWB
 
 | Tartans |
 |---------------|
-| [Scottish Bluebell](/setts/s13/b80k34w4ba8w4k8w4ba8w4k34b80w1ba8-b2c2c80-ba1474b4-k101010-we0e0e0/)|
-|![Scottish Bluebell example sett](/setts/s13/b80k34w4ba8w4k8w4ba8w4k34b80w1ba8-b2c2c80-ba1474b4-k101010-we0e0e0/sett.png)|
 | [Scottish Bluebell (Corporate)](/setts/s13/b80k34w4ba8w4k8w4ba8w4k34b80w1ba8-b2c2c80-ba1474b4-k101010-we0e0e0/)|
 |![Scottish Bluebell (Corporate) example sett](/setts/s13/b80k34w4ba8w4k8w4ba8w4k34b80w1ba8-b2c2c80-ba1474b4-k101010-we0e0e0/sett.png)|

@@ -24,8 +24,6 @@ KR
 |![St Kilda example sett](/setts/s2/k144r36-k101010-rc80000/sett.png)|
 | [Wilson's No.234](/setts/s2/r16k6-k101010-rc80000/)|
 |![Wilson's No.234 example sett](/setts/s2/r16k6-k101010-rc80000/sett.png)|
-| [St. Kilda (District)](/setts/s2/k144r36-k101010-rc80000/)|
-|![St. Kilda (District) example sett](/setts/s2/k144r36-k101010-rc80000/sett.png)|
 | [MacGregor - 1816 (Red & Black)](/setts/s2/k100r100-k101010-rc80000/)|
 |![MacGregor - 1816 (Red & Black) example sett](/setts/s2/k100r100-k101010-rc80000/sett.png)|
 | [Masai Shuka 03 (Artefact)](/setts/s2/k20r20-k101010-rc80000/)|

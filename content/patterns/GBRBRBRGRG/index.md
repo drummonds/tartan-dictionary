@@ -18,5 +18,3 @@ GBRBRBRGRG
 |---------------|
 | [Connaught (Lochcarron)](/setts/s10/g72b4r4b4r4b4r60ga2r2ga8-b2888c4-g009468-ga285800-r980044/)|
 |![Connaught (Lochcarron) example sett](/setts/s10/g72b4r4b4r4b4r60ga2r2ga8-b2888c4-g009468-ga285800-r980044/sett.png)|
-| [Connaught/Connacht (District)](/setts/s10/g72b4r4b4r4b4r60ga2r2ga8-b2888c4-g009468-ga285800-r980044/)|
-|![Connaught/Connacht (District) example sett](/setts/s10/g72b4r4b4r4b4r60ga2r2ga8-b2888c4-g009468-ga285800-r980044/sett.png)|

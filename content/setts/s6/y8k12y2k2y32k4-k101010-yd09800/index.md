@@ -1,13 +1,20 @@
 ---
-title: "Monoch Airline (Corporate)"
+title: "Monoch Airline"
 date: 2023-03-18
 ---
 In pattern [KYKYKY](/patterns/kykyky/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4213/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2986
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Monoch Airline (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2986))
+- pre 2002 — Monoch Airline (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4213/))
 
 ## Thread count
 DY/8 K12 DY2 K2 DY32 K/4

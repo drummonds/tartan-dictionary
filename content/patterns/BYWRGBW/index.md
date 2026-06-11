@@ -20,5 +20,3 @@ BYWRGBW
 |---------------|
 | [Kipp (Personal)](/setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/)|
 |![Kipp (Personal) example sett](/setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/sett.png)|
-| [Kipp (Personal)](/setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/)|
-|![Kipp (Personal) example sett](/setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2817
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Manx Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2817))
+- 1980 — Manx Hunting (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/149/))
+
 ## Thread count
 B/12 Na2 Nb40 Na2 Y8 Na2 LN8 Na2 N22 Na2 DB/76
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/b76ba2r22ba2w8ba2y8ba2g40ba2bb12-b2c2c80-ba5c5c5c-bb5c8ca8-g406054-r888888-we0e0e0-ye8c000/
-/

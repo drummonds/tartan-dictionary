@@ -18,5 +18,3 @@ YKRKRKRWRWY
 |---------------|
 | [Chartered Institute of Bankers in Scotland](/setts/s11/y5w36r5w5r56k5r8k5r5k34y5-k101010-r888888-w98c8e8-ye8c000/)|
 |![Chartered Institute of Bankers in Scotland example sett](/setts/s11/y5w36r5w5r56k5r8k5r5k34y5-k101010-r888888-w98c8e8-ye8c000/sett.png)|
-| [Chartered Institute of Bankers (Corp](/setts/s11/y5w36r5w5r56k5r8k5r5k34y5-k101010-r888888-w98c8e8-ye8c000/)|
-|![Chartered Institute of Bankers (Corp example sett](/setts/s11/y5w36r5w5r56k5r8k5r5k34y5-k101010-r888888-w98c8e8-ye8c000/sett.png)|

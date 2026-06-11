@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3143
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Nithsdale (Dalgliesh) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3143))
+- pre 2002 — Nithsdale (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5617/))
+
 ## Thread count
 DB/32 DR6 G6 DR20 DB48 DR6 DB6 DR6 DB6 DR/20
 ![Sett](sett.png)

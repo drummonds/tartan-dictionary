@@ -1,13 +1,20 @@
 ---
-title: "Aubigny (District)"
+title: "Aubigny"
 date: 2023-03-18
 ---
 In pattern [RKRKYKYKY](/patterns/rkrkykyky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2159/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=127
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1992 — Aubigny (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=127))
+- 1992 — Aubigny (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2159/))
 
 ## Thread count
 DR/10 K4 DR36 K18 DY8 K4 DY6 K4 DY/40

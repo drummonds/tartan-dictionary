@@ -1,13 +1,21 @@
 ---
-title: "Mowat, Sir Oliver Commemorative Tartan Tartan Number: 5651. Earliest known date: pre 2002 1820 - 1903. One of the Fathers of the Confederation. Premier of Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Mowat, Sir Oliver"
 date: 2023-03-18
 ---
 In pattern [GBWBYBGRGBGBGBWBYBR](/patterns/gbwbybgrgbgbgbwbybr/).
 
 
-This was sourced from house-of-tartan.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5651
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3036
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Mowat, Sir Oliver (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3036))
+- pre 2002 — Mowat, Sir Oliver (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5651/))
+- undated — Mowat, Sir Oliver Commemorative Tartan Tartan Number: 5651. Earliest known date: pre 2002 1820 - 1903. One of the Fathers of the Confederation. Premier of Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5651))
 
 ## Thread count
 DR/8 K4 DY6 K4 N6 K4 G32 K6 G6 K6 G8 DR32 G12 K4 DY6 K4 N6 K4 G/12

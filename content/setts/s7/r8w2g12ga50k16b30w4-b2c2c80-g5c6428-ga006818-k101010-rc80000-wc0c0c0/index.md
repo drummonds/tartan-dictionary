@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2476/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1997 — Jones (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2476/))
+- 01/01/1998 — Jones (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1904))
+
 ## Thread count
 N/4 DB30 K16 Ga50 G12 N2 R/8
 ![Sett](sett.png)

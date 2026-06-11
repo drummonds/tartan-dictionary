@@ -1,13 +1,20 @@
 ---
-title: "MacDonald, Flora - 1996 (Dance)"
+title: "MacDonald, Flora (Dance)"
 date: 2023-03-18
 ---
 In pattern [RGBWGWBWBWBWR](/patterns/rgbwgwbwbwbwr/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2257/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2376
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — MacDonald, Flora (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2376))
+- 1996 — MacDonald, Flora - 1996 (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2257/))
 
 ## Thread count
 R/6 DG16 DB10 W6 DG40 W6 DB10 W6 DB10 W44 DB6 W16 R/6

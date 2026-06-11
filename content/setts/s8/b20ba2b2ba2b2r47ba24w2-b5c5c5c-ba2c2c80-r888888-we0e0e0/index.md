@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=396
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2006 — Browne (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=396))
+- 2006 July — Browne, Thomas (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6983/))
+
 ## Thread count
 LN/2 DB24 N47 Na2 DB2 Na2 DB2 Na/20
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/2 DB24 N47 Na2 DB2 Na2 DB2 Na/20 tartan")
 
 ID: /setts/s8/b20ba2b2ba2b2r47ba24w2-b5c5c5c-ba2c2c80-r888888-we0e0e0/
-

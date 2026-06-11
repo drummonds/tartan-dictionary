@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7734/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- December 2008 — Passion of Scotland, Purple (Fashion (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7734/))
+- undated — Passion of Scotland Purple (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5717))
+
 ## Thread count
 DBa/14 LN2 K6 DP6 K6 DBa6 K26 DP4 K4 DP4 K4 DP46 DB6 DP4 LP/4
 ![Sett](sett.png)

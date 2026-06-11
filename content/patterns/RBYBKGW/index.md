@@ -20,5 +20,3 @@ RBYBKGW
 |---------------|
 | [Devon Companion](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/)|
 |![Devon Companion example sett](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/sett.png)|
-| [Devon Companion (District)](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/)|
-|![Devon Companion (District) example sett](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Cub Scouts of America (Corporate)"
+title: "Cub Scouts of America"
 date: 2023-03-18
 ---
 In pattern [GBRYG](/patterns/gbryg/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4119/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=819
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Cub Scouts of America (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=819))
+- pre 2000 — Cub Scouts of America (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4119/))
 
 ## Thread count
 G/40 DB8 DR32 DY8 G/20

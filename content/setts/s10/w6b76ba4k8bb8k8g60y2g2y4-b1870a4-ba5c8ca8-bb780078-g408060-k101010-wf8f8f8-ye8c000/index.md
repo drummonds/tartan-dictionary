@@ -1,13 +1,20 @@
 ---
-title: "Pinewoods Jubilee (Commemorative)"
+title: "Pinewoods Jubilee"
 date: 2023-03-18
 ---
 In pattern [WBBKBKGYGY](/patterns/wbbkbkgygy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6818/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3341
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2005 — Pinewoods Jubilee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3341))
+- 2005 September — Pinewoods Jubilee (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6818/))
 
 ## Thread count
 W/6 Ba76 B4 K8 P8 K8 G60 Y2 G2 Y/4

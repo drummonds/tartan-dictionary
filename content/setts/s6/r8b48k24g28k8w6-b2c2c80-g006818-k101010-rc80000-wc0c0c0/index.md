@@ -1,13 +1,20 @@
 ---
-title: "MacPhail Htg"
+title: "MacPhail Hunting #2"
 date: 2023-03-18
 ---
 In pattern [RBKGKW](/patterns/rbkgkw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2158/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2698
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — MacPhail Hunting #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2698))
+- 1880 — MacPhail Htg (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2158/))
 
 ## Thread count
 N/6 K8 G28 K24 DB48 R/8

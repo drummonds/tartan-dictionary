@@ -1,13 +1,21 @@
 ---
-title: "Dignan Corporate School Tartan Tartan Number: 2358. Earliest known date: 1997 For a Mrs Pam Dignan who owns the Dignan School of Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Dignan School of Dancing"
 date: 2023-03-18
 ---
 In pattern [BWBKBRY](/patterns/bwbkbry/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2358
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=938
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1997 — Dignan School of Dancing (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=938))
+- 1997 — Dignan School of Dancing (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2358/))
+- undated — Dignan Corporate School Tartan Tartan Number: 2358. Earliest known date: 1997 For a Mrs Pam Dignan who owns the Dignan School of Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2358))
 
 ## Thread count
 DY/8 DR4 B64 K20 P8 N42 P/4

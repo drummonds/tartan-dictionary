@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=600
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1981 — Cavalier, Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=600))
+- pre 1981 — Cavalier, Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5851/))
+
 ## Thread count
 LN/4 LT8 K4 LT12 DR16 K6 LN4 K4 LG4 K20 LT/80
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#A07C58;"><span style="color:#A07C58;filter:grayscale(1) invert(1) contrast(100);">#A07C58</span></code> `#A07C58` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.19 |
 
 ID: /setts/s11/r80b20g4b4w4b6ra16r12b4r8w4-b1c1c1c-g789484-ra07c58-ra901c38-we0e0e0/
-0e0e0/

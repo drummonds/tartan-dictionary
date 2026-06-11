@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [45 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1712
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2002 — Highland Mist (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1712))
+- 2002 — Highland Mist (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4585/))
+
 ## Thread count
 DB/4 G6 P2 G4 DY2 G4 K4 P2 DY4 P6 G2 P4 DR2 P4 DB4 G6 P2 G4 DY2 G4 K4 DR2 DB4 DR2 DB60 G6 P2 G4 DY2 G4 K2 P4 G2 P4 DR2 P4 DB4 K56 P2 DY4 P6 G2 P4 DR2 P/4
 ![Sett](sett.png)

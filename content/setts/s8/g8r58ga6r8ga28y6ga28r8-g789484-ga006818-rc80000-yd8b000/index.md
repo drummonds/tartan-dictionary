@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=443
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Burnett (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=443))
+- pre 2002 — Burnett (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2355/))
+
 ## Thread count
 LG/8 R58 G6 R8 G28 Y6 G28 R/8
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "de Maynard (Personal)"
+title: "De Maynard (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRGRYRBW](/patterns/brgryrbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5927/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=899
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/1988 — De Maynard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=899))
+- Aug 1988 — de Maynard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5927/))
 
 ## Thread count
 DP/8 O36 G32 O16 Y4 O16 DB40 W/8

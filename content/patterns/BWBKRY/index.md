@@ -18,7 +18,5 @@ BWBKRY
 
 | Tartans |
 |---------------|
-| [Stradling](/setts/s6/b40w7b60k10r25y4-b2c2c80-k101010-r880000-we0e0e0-ye8c000/)|
-|![Stradling example sett](/setts/s6/b40w7b60k10r25y4-b2c2c80-k101010-r880000-we0e0e0-ye8c000/sett.png)|
 | [Stradling (Name)](/setts/s6/b40w7b60k10r25y4-b2c2c80-k101010-r880000-we0e0e0-ye8c000/)|
 |![Stradling (Name) example sett](/setts/s6/b40w7b60k10r25y4-b2c2c80-k101010-r880000-we0e0e0-ye8c000/sett.png)|

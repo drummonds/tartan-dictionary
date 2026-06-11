@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5410
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2007 — Samye (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5410))
+- March 2007 — Samye (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7128/))
+
 ## Thread count
 W/4 DB22 G20 R20 Y/50
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "W/4 DB22 G20 R20 Y/50 tartan")
 
 ID: /setts/s5/y50r20g20b22w4-b2c2c80-g006818-rc80000-wf8f8f8-ye8c000/
-e8c000/

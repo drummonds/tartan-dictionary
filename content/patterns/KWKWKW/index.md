@@ -22,8 +22,6 @@ KWKWKW
 |![Erskine (Black and White) example sett](/setts/s6/k12w6k54w54k6w12-k101010-wfcfcfc/sett.png)|
 | [Wallace Dress](/setts/s6/k28w24k4w24k4w24-k101010-wfcfcfc/)|
 |![Wallace Dress example sett](/setts/s6/k28w24k4w24k4w24-k101010-wfcfcfc/sett.png)|
-| [Erskine Black & White (Clan)](/setts/s6/k12w6k54w54k6w12-k101010-wfcfcfc/)|
-|![Erskine Black & White (Clan) example sett](/setts/s6/k12w6k54w54k6w12-k101010-wfcfcfc/sett.png)|
 | [Valley Forge (Artefact)](/setts/s6/w10k8w64k64w10k8-k00002c-we8ccb8/)|
 |![Valley Forge (Artefact) example sett](/setts/s6/w10k8w64k64w10k8-k00002c-we8ccb8/sett.png)|
 | [Erskine, or Ramsay](/setts/s6/k12w6k54w54k6w12-k000000-we0e0e0/)|

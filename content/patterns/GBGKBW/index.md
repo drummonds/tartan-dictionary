@@ -20,5 +20,3 @@ GBGKBW
 |---------------|
 | [Lossiemouth/Hersbruck](/setts/s6/g52b6g24k20ba30w4-b2c2c80-ba780078-g006818-k101010-we0e0e0/)|
 |![Lossiemouth/Hersbruck example sett](/setts/s6/g52b6g24k20ba30w4-b2c2c80-ba780078-g006818-k101010-we0e0e0/sett.png)|
-| [Lossiemouth/Hersbruck (Commem)](/setts/s6/g52b6g24k20ba30w4-b2c2c80-ba780078-g006818-k101010-we0e0e0/)|
-|![Lossiemouth/Hersbruck (Commem) example sett](/setts/s6/g52b6g24k20ba30w4-b2c2c80-ba780078-g006818-k101010-we0e0e0/sett.png)|

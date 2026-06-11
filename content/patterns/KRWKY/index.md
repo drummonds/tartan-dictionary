@@ -22,8 +22,6 @@ KRWKY
 |![Perry Dress (Personal) example sett](/setts/s5/k130r54w4k8y10-k101010-r880000-we0e0e0-ye8c000/sett.png)|
 | [Perry / Pirrie (Personal)](/setts/s5/k150r52w4k8y10-k101010-rc80000-wfcfcfc-ye8c000/)|
 |![Perry / Pirrie (Personal) example sett](/setts/s5/k150r52w4k8y10-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [Perry (Personal)](/setts/s5/k150r52w4k8y10-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Perry (Personal) example sett](/setts/s5/k150r52w4k8y10-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
 | [Perry, Ancient](/setts/s5/k130r54w4k8y10-k000000-rc00000-we0e0e0-yf0c000/)|
 |![Perry, Ancient example sett](/setts/s5/k130r54w4k8y10-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
 | [Perry, Pirrie](/setts/s5/k150r52w4k8y10-k000000-rc00000-we0e0e0-yf0c000/)|

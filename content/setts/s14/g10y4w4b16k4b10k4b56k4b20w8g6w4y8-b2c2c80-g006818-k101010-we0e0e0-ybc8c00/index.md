@@ -1,13 +1,20 @@
 ---
-title: "Carstairs (Name)"
+title: "Carstairs"
 date: 2023-03-18
 ---
 In pattern [GYWBKBKBKBWGWY](/patterns/gywbkbkbkbwgwy/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4032/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=581
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2001 — Carstairs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=581))
+- 2001 — Carstairs (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4032/))
 
 ## Thread count
 DY/8 LN4 G6 LN8 DB20 K4 DB56 K4 DB10 K4 DB16 LN4 DY4 G/10

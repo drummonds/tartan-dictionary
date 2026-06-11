@@ -20,5 +20,3 @@ BKBGRGWR
 |---------------|
 | [Coulter Dress (Personal)](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/)|
 |![Coulter Dress (Personal) example sett](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/sett.png)|
-| [Coulter Dress (Personal)](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/)|
-|![Coulter Dress (Personal) example sett](/setts/s8/r12w40g24ra6g16b40k4b6-b788cb4-g007800-k000000-r8c0000-raa0783c-wf0f0f0/sett.png)|

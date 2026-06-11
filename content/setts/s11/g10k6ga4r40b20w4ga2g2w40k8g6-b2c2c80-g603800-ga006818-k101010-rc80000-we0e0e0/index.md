@@ -1,13 +1,20 @@
 ---
-title: "MacCulloch Dress"
+title: "MacCulloch Dress (Name)"
 date: 2023-03-18
 ---
 In pattern [GKGRBWGGWKG](/patterns/gkgrbwggwkg/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5357
+Original link http://www.tartansauthority.com/tartan-ferret/display/3346/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2000 — MacCulloch Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3346/))
+- 01/01/2004 — MacCulloch Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5357))
 
 ## Thread count
 T/10 K6 G4 R40 DB20 LN4 G2 T2 LN40 K8 T/6

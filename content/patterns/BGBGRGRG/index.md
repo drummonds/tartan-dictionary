@@ -20,5 +20,3 @@ BGBGRGRG
 |---------------|
 | [Glen Nevis #3](/setts/s8/g28r4g4r6g14b24g4ba4-b202060-ba4c0000-g006818-r880000/)|
 |![Glen Nevis #3 example sett](/setts/s8/g28r4g4r6g14b24g4ba4-b202060-ba4c0000-g006818-r880000/sett.png)|
-| [Glen Nevis #3 (Corporate)](/setts/s8/g28r4g4r6g14b24g4ba4-b202060-ba4c0000-g006818-r880000/)|
-|![Glen Nevis #3 (Corporate) example sett](/setts/s8/g28r4g4r6g14b24g4ba4-b202060-ba4c0000-g006818-r880000/sett.png)|

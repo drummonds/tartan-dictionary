@@ -20,8 +20,6 @@ KGKBW
 |---------------|
 | [MacKirdy](/setts/s5/k4g24k22b24w2-b1474b4-g408060-k101010-wfcfcfc/)|
 |![MacKirdy example sett](/setts/s5/k4g24k22b24w2-b1474b4-g408060-k101010-wfcfcfc/sett.png)|
-| [MacKirdy (Clan)](/setts/s5/k4g24k22b24w2-b1474b4-g408060-k101010-wfcfcfc/)|
-|![MacKirdy (Clan) example sett](/setts/s5/k4g24k22b24w2-b1474b4-g408060-k101010-wfcfcfc/sett.png)|
 | [College of Radiographers](/setts/s5/k30g4k20b36w6-b304080-g908000-k000000-we0e0e0/)|
 |![College of Radiographers example sett](/setts/s5/k30g4k20b36w6-b304080-g908000-k000000-we0e0e0/sett.png)|
 | [MacKirdy](/setts/s5/k4g24k22b24w2-b304080-g008000-k000000-we0e0e0/)|

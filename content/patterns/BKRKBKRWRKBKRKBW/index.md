@@ -18,5 +18,3 @@ BKRKBKRWRKBKRKBW
 |---------------|
 | [Royal Naval Association](/setts/s16/b28k42r4k6b8k42r6w6r6k42b8k6r4k42b28w6-b1c0070-k00002c-rc80000-we0e0e0/)|
 |![Royal Naval Association example sett](/setts/s16/b28k42r4k6b8k42r6w6r6k42b8k6r4k42b28w6-b1c0070-k00002c-rc80000-we0e0e0/sett.png)|
-| [Royal Naval Association (Military)](/setts/s16/b28k42r4k6b8k42r6w6r6k42b8k6r4k42b28w6-b1c0070-k00002c-rc80000-we0e0e0/)|
-|![Royal Naval Association (Military) example sett](/setts/s16/b28k42r4k6b8k42r6w6r6k42b8k6r4k42b28w6-b1c0070-k00002c-rc80000-we0e0e0/sett.png)|

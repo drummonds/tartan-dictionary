@@ -1,13 +1,20 @@
 ---
-title: "Westwood Red Anderson"
+title: "Westwood Red Anderson (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RBRBRRRKYKYKWKRRKRRR](/patterns/rbrbrrrkykykwkrrkrrr/).
 
 
-This was sourced from register-of-tartans.  It is a [20 stripes tartan](/stripes/stripes20/).
+This was sourced from tartans-authority.  It is a [20 stripes tartan](/stripes/stripes20/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5531
+Original link http://www.tartansauthority.com/tartan-ferret/display/7490/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Westwood Red Anderson (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7490/))
+- undated — Westwood Red Anderson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5531))
 
 ## Thread count
 LR/10 B12 LR4 B18 LR8 R12 LR8 K10 DY4 K4 DY4 K10 LN10 K10 R46 LR2 K4 LR2 R10 LR/8

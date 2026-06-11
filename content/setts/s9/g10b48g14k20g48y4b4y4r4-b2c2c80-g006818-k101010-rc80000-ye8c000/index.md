@@ -1,13 +1,21 @@
 ---
-title: "Maitland Chiefs own Tartan Tartan Number: 714. Earliest known date: 1960 This sett shows the increased proportions of green and blue of the manufactured tartan. The Lyon Court Book (entry number 10) gives the largest green 18 threads and the blue only 16. The entry was recorded on the 18th August 1960 and is restricted for the use of the chief. The Maitlands are a Lowland family, Dukes of Lauderdale and the Hereditary Saltire Banner Bearers of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Maitland Chief"
 date: 2023-03-18
 ---
 In pattern [GBGKGYBYR](/patterns/gbgkgybyr/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=714
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2790
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1953 — Maitland Chief (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2790))
+- 1953 — Maitland (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/714/))
+- undated — Maitland Chiefs own Tartan Tartan Number: 714. Earliest known date: 1960 This sett shows the increased proportions of green and blue of the manufactured tartan. The Lyon Court Book (entry number 10) gives the largest green 18 threads and the blue only 16. The entry was recorded on the 18th August 1960 and is restricted for the use of the chief. The Maitlands are a Lowland family, Dukes of Lauderdale and the Hereditary Saltire Banner Bearers of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=714))
 
 ## Thread count
 G/10 DB48 G14 K20 G48 Y4 DB4 Y4 R/4

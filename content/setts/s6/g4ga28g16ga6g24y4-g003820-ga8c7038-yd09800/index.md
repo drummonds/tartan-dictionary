@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4567/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1997 — Confederate Cavalry (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4567/))
+- 01/01/2002 — Confederate Cavalry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=730))
+
 ## Thread count
 DG/4 LT28 DG16 LT6 DG24 DY/4
 ![Sett](sett.png)

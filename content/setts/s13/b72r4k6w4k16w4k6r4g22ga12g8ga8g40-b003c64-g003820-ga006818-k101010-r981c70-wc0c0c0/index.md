@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BRKWKWKRGGGGG](/patterns/brkwkwkrggggg/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5235
+Original link http://www.tartansauthority.com/tartan-ferret/display/3256/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1996 — Carson of Rusco (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3256/))
+- undated — Carson of Rusco (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5235))
 
 ## Thread count
 DB/72 P4 K6 N4 K16 N4 K6 P4 DG22 G12 DG8 G8 DG/40

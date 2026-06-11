@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5085
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 06/04/2002 — New York City (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5085))
+- 2002 — New York City (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3812/))
+
 ## Thread count
 B/16 DB24 K8 DB24 N24 G32 DR/8
 ![Sett](sett.png)
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/16 DB24 K8 DB24 N24 G32 DR/8 tartan")
 
 ID: /setts/s7/b16ba24k8ba24r24g32ra8-b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000/
-00000/

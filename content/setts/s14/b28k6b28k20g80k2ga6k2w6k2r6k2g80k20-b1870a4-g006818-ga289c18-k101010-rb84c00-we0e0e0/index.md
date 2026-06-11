@@ -1,13 +1,21 @@
 ---
-title: "Irish Diaspora District Tartan Tartan Number: 5827. Earliest known date: 2003 An assymetric tartan designed by Erica Randall of The House of Edgar in Perth for all those of Irish descent at home in Ireland and around the world. The central stripes incorporate the colours of the Republic of Ireland flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Irish Diaspora"
 date: 2023-03-18
 ---
 In pattern [BKBKGKGKWKRKGK](/patterns/bkbkgkgkwkrkgk/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5827
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/04/2003 — Irish Diaspora (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853))
+- April 2003 — Irish Diaspora (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5827/))
+- undated — Irish Diaspora District Tartan Tartan Number: 5827. Earliest known date: 2003 An assymetric tartan designed by Erica Randall of The House of Edgar in Perth for all those of Irish descent at home in Ireland and around the world. The central stripes incorporate the colours of the Republic of Ireland flag. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5827))
 
 ## Thread count
 Ba/28 K6 Ba28 K20 G80 K2 Ga6 K2 LN6 K2 DO6 K2 G80 K/20

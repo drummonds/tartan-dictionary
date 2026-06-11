@@ -20,5 +20,3 @@ GWGRGR
 |---------------|
 | [Gleneagles USA (Dalgleish)](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/)|
 |![Gleneagles USA (Dalgleish) example sett](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/sett.png)|
-| [Gleneagles USA (Corporate)](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/)|
-|![Gleneagles USA (Corporate) example sett](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/sett.png)|

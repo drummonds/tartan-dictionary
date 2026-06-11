@@ -1,13 +1,20 @@
 ---
-title: "Callum, Blue (Fashion)"
+title: "Callum"
 date: 2023-03-18
 ---
 In pattern [RBBBBBBRYRYR](/patterns/rbbbbbbryryr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1319/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=485
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Callum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=485))
+- 1980 — Callum, Blue (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1319/))
 
 ## Thread count
 DR/6 B32 DB4 B4 DB4 B6 DB12 LT40 N6 LT4 N4 LT/6

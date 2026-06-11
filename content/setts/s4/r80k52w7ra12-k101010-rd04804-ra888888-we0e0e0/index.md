@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7851/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2008 — Oklahoma State University (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7851/))
+- undated — Oklahoma State University American Corporate Tartan Tartan Number: 7851. Earliest known date: Dec. 2008 The official Oklahoma State University Tartan is now a part of the university's tradition. Oklahoma City design, housing and merchandising junior, Stephanie Michalko's weave of orange, black, gray and white threads received the most votes for her original tartan plaid design in on-line balloting In September OSU students who had completed a course in textiles were eligible for the competition to design an original plaid that reflects the OSU spirit. Four finalists were selected and voting began in October. Michalko said she was excited to have her design chosen. 'I am an interior design major, but I am very interested in textiles and their use in interior design,. This was a great experience to be able to apply what I have learned.' Stadium blankets and scarves were woven by Pendleton Woolen Mills of Portland, Oregon. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7851))
+
 ## Thread count
 DO/80 K52 LN7 N/12
 ![Sett](sett.png)

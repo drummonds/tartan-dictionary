@@ -1,6 +1,7 @@
 ---
 title: Patterns by colour sequence
 date: 2023-03-18
+background: /bg/pattern.png
 ---
 Patterns over the six base colours. The two-stripe patterns below are complete; longer patterns are listed where a sett has actually been recorded (the full combinatorial tree is browsed on demand).
 

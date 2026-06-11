@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=781
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1982 — Cowan of Inveresk (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=781))
+- 1982 — Cowan of Inveresk (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1549/))
+
 ## Thread count
 R/8 G32 W4 K30 DBa30 K4 DBa4 Y/4
 ![Sett](sett.png)

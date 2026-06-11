@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=720
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Common Kilt (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=720))
+- 1819? — Common Kilt (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/554/))
+
 ## Thread count
 DB/4 R2 K4 DG50 K56 DB50 K4 R/6
 ![Sett](sett.png)

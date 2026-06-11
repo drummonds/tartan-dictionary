@@ -20,5 +20,3 @@ GWGKRW
 |---------------|
 | [Entre Rios Province (Provisional](/setts/s6/g72w8g16k58r48wa14-g44a054-k101010-rc80000-wa8ace8-wae0e0e0/)|
 |![Entre Rios Province (Provisional example sett](/setts/s6/g72w8g16k58r48wa14-g44a054-k101010-rc80000-wa8ace8-wae0e0e0/sett.png)|
-| [Entre Rios Province (District?)](/setts/s6/g72w8g16k58r48wa14-g44a054-k101010-rc80000-wa8ace8-wae0e0e0/)|
-|![Entre Rios Province (District?) example sett](/setts/s6/g72w8g16k58r48wa14-g44a054-k101010-rc80000-wa8ace8-wae0e0e0/sett.png)|

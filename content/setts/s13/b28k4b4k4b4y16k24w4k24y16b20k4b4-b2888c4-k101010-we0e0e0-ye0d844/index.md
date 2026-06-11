@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5662
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 24/06/2008 — Kernbrownek (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5662))
+- 2008 — Kernbrownek (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7649/))
+
 ## Thread count
 B/28 K4 B4 K4 B4 LG16 K24 LN4 K24 LG16 B20 K4 B/4
 ![Sett](sett.png)

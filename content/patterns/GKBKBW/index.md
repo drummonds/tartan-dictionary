@@ -18,7 +18,5 @@ GKBKBW
 
 | Tartans |
 |---------------|
-| [Pride of Yorkland](/setts/s6/g70k6b52k8ba8w6-b2c2c80-ba1c0070-g006818-k101010-wfcfcfc/)|
-|![Pride of Yorkland example sett](/setts/s6/g70k6b52k8ba8w6-b2c2c80-ba1c0070-g006818-k101010-wfcfcfc/sett.png)|
 | [Pride of Yorkland (Fashion)](/setts/s6/g70k6b52k8ba8w6-b2c2c80-ba1c0070-g006818-k101010-wfcfcfc/)|
 |![Pride of Yorkland (Fashion) example sett](/setts/s6/g70k6b52k8ba8w6-b2c2c80-ba1c0070-g006818-k101010-wfcfcfc/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Ewing Clan Tartan Tartan Number: 11082. Earliest known date: 2014 Following official recognition, this tartan was chosen by the new Commander of Clan Ewing, John Thor Ewing, as the Clan Ewing tartan. The tartan takes its inspiration from the plaid of John Ewing in Heiddykis of Kirkmichael (d.1609), described in his testament as 'sax ellis of reid & blak cullerit claith' The design relates to historical and traditional tartans from the areas and clans among which Clan Ewing has its roots. This tartan is woven to order by Lochcarron on behalf of Clan Ewing. All weavers must seek permission from John Thor Ewing as registrant and copyright holder. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Ewing (Clan)"
 date: 2023-03-18
 ---
 In pattern [KRKRKR](/patterns/krkrkr/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11082
+Original link http://www.tartansauthority.com/tartan-ferret/display/11082/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2014 — Ewing (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11082/))
+- undated — Ewing Clan Tartan Tartan Number: 11082. Earliest known date: 2014 Following official recognition, this tartan was chosen by the new Commander of Clan Ewing, John Thor Ewing, as the Clan Ewing tartan. The tartan takes its inspiration from the plaid of John Ewing in Heiddykis of Kirkmichael (d.1609), described in his testament as 'sax ellis of reid & blak cullerit claith' The design relates to historical and traditional tartans from the areas and clans among which Clan Ewing has its roots. This tartan is woven to order by Lochcarron on behalf of Clan Ewing. All weavers must seek permission from John Thor Ewing as registrant and copyright holder. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11082))
 
 ## Thread count
 K/92 R12 K4 R48 K4 R/12

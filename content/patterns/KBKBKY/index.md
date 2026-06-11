@@ -18,8 +18,6 @@ KBKBKY
 
 | Tartans |
 |---------------|
-| [Scottish National Party](/setts/s6/k6b62k6b6k54y6-b5c5c5c-k101010-ye8c000/)|
-|![Scottish National Party example sett](/setts/s6/k6b62k6b6k54y6-b5c5c5c-k101010-ye8c000/sett.png)|
 | [Scottish National Party (Corporate)](/setts/s6/k6b62k6b6k54y6-b5c5c5c-k101010-ye8c000/)|
 |![Scottish National Party (Corporate) example sett](/setts/s6/k6b62k6b6k54y6-b5c5c5c-k101010-ye8c000/sett.png)|
 | [Pride of the Forth](/setts/s6/k6b46k6b6k40y6-b5c5c5c-k101010-y48a4c0/)|

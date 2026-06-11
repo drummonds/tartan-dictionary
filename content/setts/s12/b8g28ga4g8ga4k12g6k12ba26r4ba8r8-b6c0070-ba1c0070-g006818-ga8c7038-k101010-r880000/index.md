@@ -1,13 +1,20 @@
 ---
-title: "Kinloch Anderson Htg (Corporate)"
+title: "Kinloch Anderson Hunting"
 date: 2023-03-18
 ---
 In pattern [BGGGGKGKBRBR](/patterns/bggggkgkbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2405/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/1997 — Kinloch Anderson Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988))
+- pre 2002 — Kinloch Anderson Htg (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2405/))
 
 ## Thread count
 DR/8 DB8 DR4 DB26 K12 G6 K12 LT4 G8 LT4 G28 P/8

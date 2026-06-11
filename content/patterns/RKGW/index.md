@@ -18,7 +18,5 @@ RKGW
 
 | Tartans |
 |---------------|
-| [Bacon, Red](/setts/s4/r28k6g6w2-g003820-k101010-r880000-we0e0e0/)|
-|![Bacon, Red example sett](/setts/s4/r28k6g6w2-g003820-k101010-r880000-we0e0e0/sett.png)|
 | [Bacon, Red (Fashion)](/setts/s4/r28k6g6w2-g003820-k101010-r880000-we0e0e0/)|
 |![Bacon, Red (Fashion) example sett](/setts/s4/r28k6g6w2-g003820-k101010-r880000-we0e0e0/sett.png)|

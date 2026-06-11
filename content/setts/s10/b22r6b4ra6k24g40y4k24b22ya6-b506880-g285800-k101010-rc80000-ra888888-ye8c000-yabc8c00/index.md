@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5882/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2002 — Wisconsin (US State) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5882/))
+- undated — Wisconsin State American District Tartan Tartan Number: 5882. Earliest known date: 2002 Chosen by the Scottish Community of Wisconsin in 2002. The Wisconsin legislature passed legislation establishing the official Wisconsin tartan in April 2008 and the Act was signed by the governor on 7 April 2008. The colours in the tartan are symbolic of the State history and culture: brown represents the fur trade that opened the state to new settlers; grey represents the lead miners who helped give the state its nickname 'Badgers' (the badger is also the State's mascot and the mascot of the University of Wisconsin); red represents the University system that has given Wisconsin so much innovation and industry; blue represents the state's waters that include the great lakes, commerce and recreation; green represents forests, agriculture and their contribution to Wisconsin; yellow represents both dairy and brewing - two industries that helped build Wisconsin. Yellow and green intersect to represent professional sports in the color combination of one of the state's teams. "The Assembly passed a bill Wednesday night (5th March) that would create an official state tartan, a pattern of criss-crossed horizontal and vertical bands of muted blue, scarlet, gray, black, dark green, dark yellow, black, and brown. " The bill was 'signed into law' by Governor Jim Doyle on 7th April 2008." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5882))
+
 ## Thread count
 B/22 R6 B4 N6 K24 G40 Y4 K24 B22 DY/6
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Black Isle (Corporate)"
+title: "Black Isle"
 date: 2023-03-18
 ---
 In pattern [KRKRKR](/patterns/krkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6183/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=275
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 15/07/2003 — Black Isle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=275))
+- pre 2004 — Black Isle (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6183/))
 
 ## Thread count
 K/106 N44 K20 N20 K4 N/8

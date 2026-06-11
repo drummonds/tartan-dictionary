@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2029
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2007 — Laird Abdullah (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2029))
+- March 2007 — Laird Abdullah (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7176/))
+
 ## Thread count
 K/20 N4 K4 N16 K80 R8 K10 LR/4
 ![Sett](sett.png)

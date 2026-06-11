@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2169
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Lochcarron Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2169))
+- pre 2002 — Lochcarron Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5463/))
+
 ## Thread count
 G/4 R6 G4 R44 K10 R4 K10 R6 DB4 B4 DB4 B6 DB20 R/6
 ![Sett](sett.png)

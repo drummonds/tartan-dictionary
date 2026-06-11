@@ -1,13 +1,20 @@
 ---
-title: "Gullane (Fashion)"
+title: "Gullane"
 date: 2023-03-18
 ---
 In pattern [KBKRWRWRWRWRWRWBWBWBWKW](/patterns/kbkrwrwrwrwrwrwbwbwbwkw/).
 
 
-This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5127/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1559
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Gullane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1559))
+- 1984 — Gullane (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5127/))
 
 ## Thread count
 K/40 N8 K12 R8 LN4 R12 LN4 R16 LN4 Na8 LN4 Na12 LN4 Na16 LN4 N8 LN4 N12 LN4 N16 LN4 K16 LN/8

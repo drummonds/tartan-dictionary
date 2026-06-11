@@ -20,5 +20,3 @@ BKBWBKB
 |---------------|
 | [St. Andrew Society](/setts/s7/b32k32ba32w6ba32k4bb6-b2c2c80-ba1c0070-bb2888c4-k101010-we0e0e0/)|
 |![St. Andrew Society example sett](/setts/s7/b32k32ba32w6ba32k4bb6-b2c2c80-ba1c0070-bb2888c4-k101010-we0e0e0/sett.png)|
-| [St. Andrew Society (Corporate)](/setts/s7/b32k32ba32w6ba32k4bb6-b2c2c80-ba1c0070-bb2888c4-k101010-we0e0e0/)|
-|![St. Andrew Society (Corporate) example sett](/setts/s7/b32k32ba32w6ba32k4bb6-b2c2c80-ba1c0070-bb2888c4-k101010-we0e0e0/sett.png)|

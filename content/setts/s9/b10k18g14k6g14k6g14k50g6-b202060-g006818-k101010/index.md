@@ -1,13 +1,20 @@
 ---
-title: "Menez Du (District)"
+title: "Menez Du"
 date: 2023-03-18
 ---
 In pattern [BKGKGKGKG](/patterns/bkgkgkgkg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6462/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2916
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2004 — Menez Du (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2916))
+- 2004 November — Menez Du (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6462/))
 
 ## Thread count
 DB/10 K18 G14 K6 G14 K6 G14 K50 G/6

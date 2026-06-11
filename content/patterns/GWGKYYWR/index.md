@@ -18,7 +18,5 @@ GWGKYYWR
 
 | Tartans |
 |---------------|
-| [MacShane](/setts/s8/g36w8g36k8y56ya16w8r8-g003820-k101010-rc80000-wfcfcfc-ya08858-yabc8c00/)|
-|![MacShane example sett](/setts/s8/g36w8g36k8y56ya16w8r8-g003820-k101010-rc80000-wfcfcfc-ya08858-yabc8c00/sett.png)|
 | [MacShane (Clan)](/setts/s8/g36w8g36k8y56ya16w8r8-g003820-k101010-rc80000-wfcfcfc-ya08858-yabc8c00/)|
 |![MacShane (Clan) example sett](/setts/s8/g36w8g36k8y56ya16w8r8-g003820-k101010-rc80000-wfcfcfc-ya08858-yabc8c00/sett.png)|

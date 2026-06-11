@@ -1,13 +1,20 @@
 ---
-title: "Bro-Naoned (Corporate)"
+title: "Bro-Naoned"
 date: 2023-03-18
 ---
 In pattern [GBKBRBRYBW](/patterns/gbkbrbrybw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6648/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=378
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2005 — Bro-Naoned (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=378))
+- 2005 May — Bro-Naoned (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6648/))
 
 ## Thread count
 G/10 N4 K4 N58 R4 N4 R30 Y4 N8 W/4

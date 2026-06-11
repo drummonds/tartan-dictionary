@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1044
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1979 — Dunkeld (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1044))
+- pre 1998 — Dunkeld (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2423/))
+
 ## Thread count
 LT/4 K2 DR16 K12 DRa16 K2 LN4 K2 DRa16 K12 LT4 T4 LN24 T4 LT/4
 ![Sett](sett.png)

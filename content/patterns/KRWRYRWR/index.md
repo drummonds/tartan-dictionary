@@ -18,7 +18,5 @@ KRWRYRWR
 
 | Tartans |
 |---------------|
-| [Cornell #2](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/)|
-|![Cornell #2 example sett](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/sett.png)|
 | [Cornell (Corporate)](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/)|
 |![Cornell (Corporate) example sett](/setts/s8/r74w27r13y7r13w13r74k7-k101010-r901c38-we0e0e0-ya0a0a0/sett.png)|

@@ -22,8 +22,6 @@ RBRBRBRBRGRGRBR
 |![Glenfarclas Distillery example sett](/setts/s15/r16b6r6g40r6g6r6b12r6ba6r40b6r6b4r12-b003478-ba788ccc-g146400-r640000/sett.png)|
 | [Drummond - 1819 (Clan)](/setts/s15/r12b4r4g48r4g4r4b16r4ba2r64b4r4b2r12-b440044-ba5c8ca8-g285800-rd40000/)|
 |![Drummond - 1819 (Clan) example sett](/setts/s15/r12b4r4g48r4g4r4b16r4ba2r64b4r4b2r12-b440044-ba5c8ca8-g285800-rd40000/sett.png)|
-| [Glenfarclas Distillery (Corporate)](/setts/s15/r16b6r6g40r6g6r6b12r6ba6r40b6r6b4r12-b003478-ba788ccc-g146400-r640000/)|
-|![Glenfarclas Distillery (Corporate) example sett](/setts/s15/r16b6r6g40r6g6r6b12r6ba6r40b6r6b4r12-b003478-ba788ccc-g146400-r640000/sett.png)|
 | [Grant, or Drummond](/setts/s15/r12b4r4g48r4g4r4b16r4ba2r64b4r4b2r12-b304080-ba5480b0-g008000-rc00000/)|
 |![Grant, or Drummond example sett](/setts/s15/r12b4r4g48r4g4r4b16r4ba2r64b4r4b2r12-b304080-ba5480b0-g008000-rc00000/sett.png)|
 | [Grant](/setts/s15/r12b4r4g48r4g4r4b16r4ba2r64b4r4b2r12-b000052-ba4367ae-g11450d-raa0000/)|

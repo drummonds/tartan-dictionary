@@ -22,5 +22,3 @@ GRKRGRBRKRGR
 |![Nicolson, MacNicol example sett](/setts/s12/r12g2r12k8r2b2r2g16r12k2r12g2-b5480b0-g008000-k000000-rc00000/sett.png)|
 | [MacNicol](/setts/s12/r12g2r12k8r2b2r2g16r12k2r12g2-b4367ae-g11450d-k000000-raa0000/)|
 |![MacNicol example sett](/setts/s12/r12g2r12k8r2b2r2g16r12k2r12g2-b4367ae-g11450d-k000000-raa0000/sett.png)|
-| [MacNicol](/setts/s12/r12g2r12k8r2b2r2g16r12k2r12g2-b4367ae-g11450d-k000000-raa0000/)|
-|![MacNicol example sett](/setts/s12/r12g2r12k8r2b2r2g16r12k2r12g2-b4367ae-g11450d-k000000-raa0000/sett.png)|

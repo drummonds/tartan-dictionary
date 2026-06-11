@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3926/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2001 March — Melrose (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3926/))
+- undated — Melrose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5155))
+
 ## Thread count
 R/128 K4 R4 K12 G4 K4 G4 N4 G12 R10 G4 K12 Y/4
 ![Sett](sett.png)

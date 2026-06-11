@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4862
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Chartered Accountants of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4862))
+- Unknown — Chartered Accountants of Scotland (C (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3950/))
+
 ## Thread count
 K/6 B6 K6 B60 G72 R4 G6 Y/8
 ![Sett](sett.png)

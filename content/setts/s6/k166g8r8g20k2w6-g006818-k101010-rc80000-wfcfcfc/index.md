@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3319
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2003 — Perratt (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3319))
+- pre 2004 — Perratt (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6221/))
+
 ## Thread count
 K/166 G8 R8 G20 K2 W/6
 ![Sett](sett.png)

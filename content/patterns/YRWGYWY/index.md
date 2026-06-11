@@ -20,5 +20,3 @@ YRWGYWY
 |---------------|
 | [Deer Park (Loton) (Personal)](/setts/s7/y120r14w20g32y30w6y30-g003820-rc03824-wf8f8f8-y8ca064/)|
 |![Deer Park (Loton) (Personal) example sett](/setts/s7/y120r14w20g32y30w6y30-g003820-rc03824-wf8f8f8-y8ca064/sett.png)|
-| [Deer Park (Loton) (Personal)](/setts/s7/y120r14w20g32y30w6y30-g003820-rc03824-wf8f8f8-y8ca064/)|
-|![Deer Park (Loton) (Personal) example sett](/setts/s7/y120r14w20g32y30w6y30-g003820-rc03824-wf8f8f8-y8ca064/sett.png)|

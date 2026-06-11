@@ -1,5 +1,5 @@
 ---
-title: "Perthshire District"
+title: "Drummond of Perth"
 date: 2023-03-18
 ---
 In pattern [RWBYGRBBW](/patterns/rwbygrbbw/).
@@ -8,6 +8,13 @@ In pattern [RWBYGRBBW](/patterns/rwbygrbbw/).
 This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Drummond of Perth (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Perthshire District (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
 
 ## Thread count
 LN/2 Ba4 B6 R16 G32 Y2 B6 LN2 R/72

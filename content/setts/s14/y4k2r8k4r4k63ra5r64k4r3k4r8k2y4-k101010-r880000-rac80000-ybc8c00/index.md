@@ -1,13 +1,21 @@
 ---
-title: "German Heritage (Fashion) American Fashion Tartan Tartan Number: 7016. Earliest known date: December 2006 Designed by William C. (Rocky) Roeger III of usakilts.com to honor anyone with German heritage. Itr is a private fashion tartan designed for ANYONE to wear, regardless of clan affiliation or nationality. The Colours were chosen to reflect those of the German flag. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "German Heritage"
 date: 2023-03-18
 ---
 In pattern [YKRKRKRRKRKRKY](/patterns/ykrkrkrrkrkrky/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7016
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1335
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/12/2006 — German Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1335))
+- December 2006 — German Heritage (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7016/))
+- undated — German Heritage (Fashion) American Fashion Tartan Tartan Number: 7016. Earliest known date: December 2006 Designed by William C. (Rocky) Roeger III of usakilts.com to honor anyone with German heritage. Itr is a private fashion tartan designed for ANYONE to wear, regardless of clan affiliation or nationality. The Colours were chosen to reflect those of the German flag. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7016))
 
 ## Thread count
 DY/4 K2 DR8 K4 DR3 K4 DR64 R5 K63 DR4 K4 DR8 K2 DY/4

@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3708
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/05/2007 — Scottish American Athletic Assoc (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3708))
+- May 2007 — Scottish American Athletic Assoc (Co (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7193/))
+- undated — Scottish American Athletic Assoc Corporate Sports Tartan Tartan Number: 7193. Earliest known date: 2007 Designed using the corporate colours of the Scottish American Athletic Association. First worn by David P. Garman, President 326 N. Western Ave. Suite 254 Los Angeles , CA 90004, in 2007 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7193))
+
 ## Thread count
 Na/8 N12 DRa32 K42 Y/64
 ![Sett](sett.png)

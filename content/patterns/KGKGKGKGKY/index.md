@@ -18,5 +18,3 @@ KGKGKGKGKY
 |---------------|
 | [Reagan (Personal)](/setts/s10/k8g24k6g8k6g6k72g6k4y6-g006818-k101010-ye8c000/)|
 |![Reagan (Personal) example sett](/setts/s10/k8g24k6g8k6g6k72g6k4y6-g006818-k101010-ye8c000/sett.png)|
-| [Reagan (Name)](/setts/s10/k8g24k6g8k6g6k72g6k4y6-g006818-k101010-ye8c000/)|
-|![Reagan (Name) example sett](/setts/s10/k8g24k6g8k6g6k72g6k4y6-g006818-k101010-ye8c000/sett.png)|

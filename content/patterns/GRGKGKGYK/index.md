@@ -18,5 +18,3 @@ GRGKGKGYK
 |---------------|
 | [MacKillen](/setts/s9/k8y30g10k6g14k6g60r40g6-g003820-k101010-ra00000-ybc8c00/)|
 |![MacKillen example sett](/setts/s9/k8y30g10k6g14k6g60r40g6-g003820-k101010-ra00000-ybc8c00/sett.png)|
-| [MacKillen (Personal)](/setts/s9/k8y30g10k6g14k6g60r40g6-g003820-k101010-ra00000-ybc8c00/)|
-|![MacKillen (Personal) example sett](/setts/s9/k8y30g10k6g14k6g60r40g6-g003820-k101010-ra00000-ybc8c00/sett.png)|

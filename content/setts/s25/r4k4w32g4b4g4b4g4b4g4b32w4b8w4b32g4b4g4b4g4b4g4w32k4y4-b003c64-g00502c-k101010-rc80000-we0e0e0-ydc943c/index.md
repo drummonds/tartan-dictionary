@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [25 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/1998 — Recovery Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474))
+- 1998 — Recovery Dress (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2441/))
+
 ## Thread count
 O/4 K4 LN32 G4 DB4 G4 DB4 G4 DB4 G4 DB32 LN4 DB8 LN4 DB32 G4 DB4 G4 DB4 G4 DB4 G4 LN32 K4 R/4
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s25/r4k4w32g4b4g4b4g4b4g4b32w4b8w4b32g4b4g4b4g4b4g4w32k4y4-b003c64-g00502c-k101010-rc80000-we0e0e0-ydc943c/
-dc943c/

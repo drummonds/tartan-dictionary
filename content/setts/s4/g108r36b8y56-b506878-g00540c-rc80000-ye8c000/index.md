@@ -1,13 +1,20 @@
 ---
-title: "City of Englehart (District)"
+title: "Englehart, City of"
 date: 2023-03-18
 ---
 In pattern [GRBY](/patterns/grby/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/849/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1112
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1958 — Englehart, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1112))
+- 1958 — City of Englehart (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/849/))
 
 ## Thread count
 G/108 R36 N8 Y/56

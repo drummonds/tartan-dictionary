@@ -1,13 +1,20 @@
 ---
-title: "Lawlis/Lawless (Name)"
+title: "Lawlis/Lawless"
 date: 2023-03-18
 ---
 In pattern [BGBGBGRGR](/patterns/bgbgbgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5399/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Lawlis/Lawless (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068))
+- 1996 — Lawlis/Lawless (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5399/))
 
 ## Thread count
 DB/40 DG4 DB4 DG4 DB4 DG8 DR48 DG4 DR/8

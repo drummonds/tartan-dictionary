@@ -1,13 +1,20 @@
 ---
-title: "Sligo County, Crest Range"
+title: "Sligo County Crest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [YKGRWKYKYKY](/patterns/ykgrwkykyky/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5367
+Original link http://www.tartansauthority.com/tartan-ferret/display/7431/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Sligo County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7431/))
+- 01/05/2005 — Sligo County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5367))
 
 ## Thread count
 N/6 K5 G14 DR20 LN27 K5 N6 K52 N8 K16 O/8

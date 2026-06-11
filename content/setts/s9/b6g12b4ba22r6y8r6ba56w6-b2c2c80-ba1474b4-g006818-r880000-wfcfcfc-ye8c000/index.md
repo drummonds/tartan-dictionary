@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=167
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1993 — Bains of Caithness (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=167))
+- Jun 1993 — Bains - Caithness (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6158/))
+
 ## Thread count
 DB/6 G12 DB4 B22 DR6 Y8 DR6 B56 W/6
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/b6g12b4ba22r6y8r6ba56w6-b2c2c80-ba1474b4-g006818-r880000-wfcfcfc-ye8c000/
-0/

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10007/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Jan. 2004 — Argentine Flag (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10007/))
+- undated — Argentine Flag Fashion Tartan Tartan Number: 10007. Earliest known date: Jan. 2004 This tartan has been created to be a seamlessly tileable version of the Argentine flag for a computer screen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10007))
+
 ## Thread count
 B/52 LN4 Y2 LN6 Y4 LN6 Y/8
 ![Sett](sett.png)

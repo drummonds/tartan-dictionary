@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=268
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1977 — Bisset (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=268))
+- 1977 — Bisset (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1478/))
+
 ## Thread count
 LN/6 DB16 G12 Y6 K6 G12 K12 G36 R/18
 ![Sett](sett.png)

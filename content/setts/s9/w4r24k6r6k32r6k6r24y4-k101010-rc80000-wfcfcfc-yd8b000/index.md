@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1855/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacIver (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1855/))
+- undated — MacIver #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2491))
+
 ## Thread count
 W/4 R24 K6 R6 K32 R6 K6 R24 Y/4
 ![Sett](sett.png)

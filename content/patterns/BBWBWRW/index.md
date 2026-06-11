@@ -18,7 +18,5 @@ BBWBWRW
 
 | Tartans |
 |---------------|
-| [Torridon Royal Blue](/setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/)|
-|![Torridon Royal Blue example sett](/setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/sett.png)|
 | [Torridon, Royal Blue (Dance)](/setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/)|
 |![Torridon, Royal Blue (Dance) example sett](/setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/sett.png)|

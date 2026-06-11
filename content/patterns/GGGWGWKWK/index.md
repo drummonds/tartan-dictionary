@@ -18,5 +18,3 @@ GGGWGWKWK
 |---------------|
 | [Burns Heritage Check](/setts/s9/k12w12k12w12g14w8ga6g4ga6-g408060-ga604000-k101010-wfcfcfc/)|
 |![Burns Heritage Check example sett](/setts/s9/k12w12k12w12g14w8ga6g4ga6-g408060-ga604000-k101010-wfcfcfc/sett.png)|
-| [Burns Heritage Check (Corporate)](/setts/s9/k12w12k12w12g14w8ga6g4ga6-g408060-ga604000-k101010-wfcfcfc/)|
-|![Burns Heritage Check (Corporate) example sett](/setts/s9/k12w12k12w12g14w8ga6g4ga6-g408060-ga604000-k101010-wfcfcfc/sett.png)|

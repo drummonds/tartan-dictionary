@@ -1,13 +1,20 @@
 ---
-title: "York Puppet (Artefact)"
+title: "York Puppet"
 date: 2023-03-18
 ---
 In pattern [BKYRYRYWKYGKWGBGW](/patterns/bkyryrywkygkwgbgw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/348/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4792
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — York Puppet (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4792))
+- pre 2002 — York Puppet (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/348/))
 
 ## Thread count
 LN/4 T4 DB6 T6 LN6 K6 T4 Y4 K4 LN4 O2 R2 O2 R2 O8 K2 P/22

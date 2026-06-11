@@ -1,13 +1,20 @@
 ---
-title: "Glen Trool"
+title: "Glen Trool (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GRGRR](/patterns/grgrr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1401
+Original link http://www.tartansauthority.com/tartan-ferret/display/914/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1984 — Glen Trool (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/914/))
+- 01/01/1988 — Glen Trool (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1401))
 
 ## Thread count
 DG/84 LT20 DG6 DR20 LT/6

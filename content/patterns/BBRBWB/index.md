@@ -20,5 +20,3 @@ BBRBWB
 |---------------|
 | [Corries](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/)|
 |![Corries example sett](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/sett.png)|
-| [Corries (Corporate)](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/)|
-|![Corries (Corporate) example sett](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/sett.png)|

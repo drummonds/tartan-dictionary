@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=569
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Carnegie Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=569))
+- pre 2002 — Carnegie (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4463/))
+
 ## Thread count
 N/4 K4 N4 K4 N4 K4 N4 K2 N2 K2 N2 K2 N2 K2 N2 K2 T/12
 ![Sett](sett.png)
@@ -23,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#502814;"><span style="color:#502814;filter:grayscale(1) invert(1) contrast(100);">#502814</span></code> `#502814` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.19 |
 
 ID: /setts/s17/b12k2y2k2y2k2y2k2y2k2y4k4y4k4y4k4y4-b502814-k000000-yb0b0b0/
-b0b0/

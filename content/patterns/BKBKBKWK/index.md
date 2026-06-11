@@ -20,5 +20,3 @@ BKBKBKWK
 |---------------|
 | [Laksaa (Manx)](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/)|
 |![Laksaa (Manx) example sett](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/sett.png)|
-| [Laksaa (Manx) (District)](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/)|
-|![Laksaa (Manx) (District) example sett](/setts/s8/b44k4b4k4b4k32w32k6-b5c5c5c-k101010-we0e0e0/sett.png)|

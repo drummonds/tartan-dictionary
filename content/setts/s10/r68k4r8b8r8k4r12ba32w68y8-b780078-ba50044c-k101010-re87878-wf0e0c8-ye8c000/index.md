@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7588/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Kyle, Pink (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7588/))
+- undated — Kyle Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5612))
+
 ## Thread count
 LR/68 K4 LR8 P8 LR8 K4 LR12 DP32 W68 Y/8
 ![Sett](sett.png)

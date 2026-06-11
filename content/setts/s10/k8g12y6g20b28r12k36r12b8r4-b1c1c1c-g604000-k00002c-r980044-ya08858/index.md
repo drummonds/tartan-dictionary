@@ -1,13 +1,20 @@
 ---
-title: "Tupper, Sir Charles (Commem)"
+title: "Tupper, Sir Charles"
 date: 2023-03-18
 ---
 In pattern [KGYGBRKRBR](/patterns/kgygbrkrbr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/614/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4157
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Tupper, Sir Charles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4157))
+- pre 2002 — Tupper, Sir Charles (Commem) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/614/))
 
 ## Thread count
 DB/8 T12 LT6 T20 K28 R12 DB36 R12 K8 R/4

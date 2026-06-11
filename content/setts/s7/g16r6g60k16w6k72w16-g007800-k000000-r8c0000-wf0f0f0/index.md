@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GRGKWKW](/patterns/grgkwkw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4144/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=671
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Cleghorn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=671))
+- pre 2002 — Cleghorn (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4144/))
 
 ## Thread count
 G/16 DR6 G60 K16 W6 K72 W/16

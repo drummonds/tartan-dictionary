@@ -1,13 +1,20 @@
 ---
-title: "Lochranza (Corporate?)"
+title: "Lochranza"
 date: 2023-03-18
 ---
 In pattern [BBBGRKBBW](/patterns/bbbgrkbbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4236/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2177
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Lochranza (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2177))
+- pre 2002 — Lochranza (Corporate?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4236/))
 
 ## Thread count
 DB/12 N4 DB40 G12 R4 K12 DB20 N8 Na/4

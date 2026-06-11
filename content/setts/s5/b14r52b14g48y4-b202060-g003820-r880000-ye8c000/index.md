@@ -1,13 +1,20 @@
 ---
-title: "McCarthy, Old (Clan?)"
+title: "McCarthy, Old"
 date: 2023-03-18
 ---
 In pattern [BRBGY](/patterns/brbgy/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4049/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2874
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — McCarthy, Old (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2874))
+- pre 2000 — McCarthy, Old (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4049/))
 
 ## Thread count
 DB/14 DR52 DB14 DG48 Y/4

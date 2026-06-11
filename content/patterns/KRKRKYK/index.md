@@ -18,7 +18,5 @@ KRKRKYK
 
 | Tartans |
 |---------------|
-| [DDB Canada](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/)|
-|![DDB Canada example sett](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/sett.png)|
 | [DDB Canada (Fashion)](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/)|
 |![DDB Canada (Fashion) example sett](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/sett.png)|

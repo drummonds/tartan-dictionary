@@ -1,13 +1,20 @@
 ---
-title: "Craig (Clan)"
+title: "Craig"
 date: 2023-03-18
 ---
 In pattern [RKGKRKRKRRKGKRYGRKR](/patterns/rkgkrkrkrrkgkrygrkr/).
 
 
-This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1574/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=785
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1957 — Craig (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=785))
+- 1957 — Craig (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1574/))
 
 ## Thread count
 DR/4 K8 G8 K8 N8 K4 N8 K4 N8 DR8 K4 G56 K4 N68 Y4 G4 N8 K8 DR/4

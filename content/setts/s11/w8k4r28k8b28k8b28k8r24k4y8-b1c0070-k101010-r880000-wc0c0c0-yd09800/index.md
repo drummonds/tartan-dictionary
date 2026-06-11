@@ -1,13 +1,21 @@
 ---
-title: "Mount Isla (Fashion)"
+title: "Mount Isla"
 date: 2023-03-18
 ---
 In pattern [WKRKBKBKRKY](/patterns/wkrkbkbkrky/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5654/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3030
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Mount Isla (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3030))
+- pre 2002 — Mount Isla (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5654/))
+- undated — Mount Isla Weavers Tartan Tartan Number: 5654. Earliest known date: pre 2002 From D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5654))
 
 ## Thread count
 DY/8 K4 DR24 K8 DB28 K8 DB28 K8 DR28 K4 N/8

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10128/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 4th January 2010 — Herriot (New Zealand) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10128/))
+- undated — Herriot Name Tartan Tartan Number: 10128. Earliest known date: 4th January 2010 A tartan for the use of all those who spell their surname as Herriot, a variant spelling of Heriot. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10128))
+
 ## Thread count
 DB/10 B40 N3 DB5 Y2 LN/15
 ![Sett](sett.png)

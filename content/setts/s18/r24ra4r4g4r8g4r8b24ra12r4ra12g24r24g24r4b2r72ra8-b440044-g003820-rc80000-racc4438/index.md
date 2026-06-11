@@ -1,13 +1,20 @@
 ---
-title: "MacCoul (Clan)"
+title: "MacCoul"
 date: 2023-03-18
 ---
 In pattern [RRBRGRGRRRBRGRGRRR](/patterns/rrbrgrgrrrbrgrgrrr/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1635/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2327
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1850 — MacCoul (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2327))
+- 1850 — MacCoul (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1635/))
 
 ## Thread count
 R/8 Ra72 DP2 Ra4 DG24 Ra24 DG24 R12 Ra4 R12 DP24 Ra8 DG4 Ra8 DG4 Ra4 R4 Ra/24

@@ -20,5 +20,3 @@ GKGRGBW
 |---------------|
 | [Lee (Personal)](/setts/s7/g8k4g48r16g12b36w8-b00008c-g004c00-k000000-r8c0000-wc8c8c8/)|
 |![Lee (Personal) example sett](/setts/s7/g8k4g48r16g12b36w8-b00008c-g004c00-k000000-r8c0000-wc8c8c8/sett.png)|
-| [Lee (Name)](/setts/s7/g8k4g48r16g12b36w8-b00008c-g004c00-k000000-r8c0000-wc8c8c8/)|
-|![Lee (Name) example sett](/setts/s7/g8k4g48r16g12b36w8-b00008c-g004c00-k000000-r8c0000-wc8c8c8/sett.png)|

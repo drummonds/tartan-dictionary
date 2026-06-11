@@ -18,5 +18,3 @@ GBGKYKYKGKG
 |---------------|
 | [Hopetoun](/setts/s11/g52k8g8k44y4k8y4k44g8b4g44-b3850c8-g006818-k101010-yd0cc74/)|
 |![Hopetoun example sett](/setts/s11/g52k8g8k44y4k8y4k44g8b4g44-b3850c8-g006818-k101010-yd0cc74/sett.png)|
-| [Hopetoun (Corporate)](/setts/s11/g52k8g8k44y4k8y4k44g8b4g44-b3850c8-g006818-k101010-yd0cc74/)|
-|![Hopetoun (Corporate) example sett](/setts/s11/g52k8g8k44y4k8y4k44g8b4g44-b3850c8-g006818-k101010-yd0cc74/sett.png)|

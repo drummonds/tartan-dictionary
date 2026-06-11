@@ -20,7 +20,5 @@ GRBRBW
 |---------------|
 | [Galloway Red](/setts/s6/g6r4b44r44b4w6-b2c2c80-g006818-rc80000-wfcfcfc/)|
 |![Galloway Red example sett](/setts/s6/g6r4b44r44b4w6-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
-| [Galloway, Red (District)](/setts/s6/g6r4b44r44b4w6-b2c2c80-g006818-rc80000-wfcfcfc/)|
-|![Galloway, Red (District) example sett](/setts/s6/g6r4b44r44b4w6-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
 | [Galloway, dress](/setts/s6/g2r2b32r32b2w2-b304080-g008000-rc00000-we0e0e0/)|
 |![Galloway, dress example sett](/setts/s6/g2r2b32r32b2w2-b304080-g008000-rc00000-we0e0e0/sett.png)|

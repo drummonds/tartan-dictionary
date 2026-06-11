@@ -18,5 +18,3 @@ BKBKGKBKBKBKR
 |---------------|
 | [Braid (Estimated threadcount)](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/)|
 |![Braid (Estimated threadcount) example sett](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/sett.png)|
-| [Braid (Name)](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/)|
-|![Braid (Name) example sett](/setts/s13/b26k6b10k12g36k4ba18k4b6k4ba22k8r8-b2c2c80-ba780078-g006818-k101010-rc80000/sett.png)|

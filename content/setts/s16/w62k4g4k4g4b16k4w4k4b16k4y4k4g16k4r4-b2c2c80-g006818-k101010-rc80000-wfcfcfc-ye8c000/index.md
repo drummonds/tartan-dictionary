@@ -1,13 +1,20 @@
 ---
-title: "Cockburn of Ormiston Dress (Clan)"
+title: "Cockburn of Ormiston Dress"
 date: 2023-03-18
 ---
 In pattern [RKGKYKBKWKBGKGKW](/patterns/rkgkykbkwkbgkgkw/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1579/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1930 — Cockburn of Ormiston Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705))
+- 1930s — Cockburn of Ormiston Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1579/))
 
 ## Thread count
 R/4 K4 G16 K4 Y4 K4 DB16 K4 W4 K4 DB16 G4 K4 G4 K4 W/62

@@ -18,5 +18,3 @@ GRKRRKRGRK
 |---------------|
 | [Laporte](/setts/s10/g16r12k8r128ra2k56r12g80r12k8-g5c6428-k101010-r880000-ra888888/)|
 |![Laporte example sett](/setts/s10/g16r12k8r128ra2k56r12g80r12k8-g5c6428-k101010-r880000-ra888888/sett.png)|
-| [Laporte (Fashion)](/setts/s10/g16r12k8r128ra2k56r12g80r12k8-g5c6428-k101010-r880000-ra888888/)|
-|![Laporte (Fashion) example sett](/setts/s10/g16r12k8r128ra2k56r12g80r12k8-g5c6428-k101010-r880000-ra888888/sett.png)|

@@ -1,6 +1,7 @@
 ---
 title: Clans & families
 date: 2023-03-18
+background: /bg/clans.png
 ---
 The clans and families of the dictionary, each with its tartans, septs and spellings — or search any name with the box in the navigation bar. Tartans of other kinds are grouped [by type](/type/).
 

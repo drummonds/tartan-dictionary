@@ -18,5 +18,3 @@ BGBGBYBRYR
 |---------------|
 | [Roscommon, County](/setts/s10/r10y6r38b12y10b12g24ba10g24ba6-b441800-ba303070-g003820-rb03000-yd8b000/)|
 |![Roscommon, County example sett](/setts/s10/r10y6r38b12y10b12g24ba10g24ba6-b441800-ba303070-g003820-rb03000-yd8b000/sett.png)|
-| [Roscommon, County (District)](/setts/s10/r10y6r38b12y10b12g24ba10g24ba6-b441800-ba303070-g003820-rb03000-yd8b000/)|
-|![Roscommon, County (District) example sett](/setts/s10/r10y6r38b12y10b12g24ba10g24ba6-b441800-ba303070-g003820-rb03000-yd8b000/sett.png)|

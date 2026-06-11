@@ -1,13 +1,20 @@
 ---
-title: "Spirit of de Jong Name Tartan Tartan Number: 10611. Earliest known date: 3 May 2012 Designed by Marno and Mickey de Jong as a tribute to time spent in Scotland where their eldest son was born. This tartan is based on Spirit of Scotland tartan (STR ref #3865) with added colours red, white, blue and orange representing the national colours of the Netherlands. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Spirit of de Jong"
 date: 2023-03-18
 ---
 In pattern [BKBGBBKWRWKBBRB](/patterns/bkbgbbkwrwkbbrb/).
 
 
-This was sourced from house-of-tartan.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10611
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10611
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2012 — Spirit of de Jong (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10611))
+- undated — Spirit of de Jong Name Tartan Tartan Number: 10611. Earliest known date: 3 May 2012 Designed by Marno and Mickey de Jong as a tribute to time spent in Scotland where their eldest son was born. This tartan is based on Spirit of Scotland tartan (STR ref #3865) with added colours red, white, blue and orange representing the national colours of the Netherlands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10611))
 
 ## Thread count
 DBa/103 Ra12 DBa20 DB7 K5 W5 R5 W5 K5 DB7 DBa5 DG32 DP14 K5 DP/22

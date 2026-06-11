@@ -20,5 +20,3 @@ BW
 |---------------|
 | [Sillitoe](/setts/s2/b20w20-b2c2c80-wf8f8f8/)|
 |![Sillitoe example sett](/setts/s2/b20w20-b2c2c80-wf8f8f8/sett.png)|
-| [Sillitoe (Corporate)](/setts/s2/b20w20-b2c2c80-wf8f8f8/)|
-|![Sillitoe (Corporate) example sett](/setts/s2/b20w20-b2c2c80-wf8f8f8/sett.png)|

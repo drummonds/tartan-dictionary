@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacFie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
+- undated — MacPhie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
+
 ## Thread count
 N/1 R12 G2 R1 G16 R1 G2 R12 Y/1
 ![Sett](sett.png)

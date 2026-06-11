@@ -1,13 +1,20 @@
 ---
-title: "Forbes Dress - 1990 (Clan)"
+title: "Forbes Dress"
 date: 2023-03-18
 ---
 In pattern [BKBKGKWKGKWBWBW](/patterns/bkbkgkwkgkwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/293/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Forbes Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222))
+- pre 2002 — Forbes Dress - 1990 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/293/))
 
 ## Thread count
 DB/4 K4 DB16 K16 G24 K2 W4 K2 G24 K16 W6 DB6 W28 DB4 W/4

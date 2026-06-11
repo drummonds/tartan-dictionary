@@ -1,13 +1,20 @@
 ---
-title: "Gemmell (Name)"
+title: "Gemmell"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKGKBWRW](/patterns/bkbkbkgkgkbwrw/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4125/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1327
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Gemmell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1327))
+- 2001 — Gemmell (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4125/))
 
 ## Thread count
 B/32 K4 B4 K4 B4 K20 G24 K4 G24 K24 DB12 W4 R4 W/4

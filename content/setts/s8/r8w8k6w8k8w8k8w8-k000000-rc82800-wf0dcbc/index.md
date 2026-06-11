@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1378
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1834 — Glen Feshie Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1378))
+- 1834 - 1841 — Glen Feshie (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5008/))
+
 ## Thread count
 R/8 W8 K6 W8 K8 W8 K8 W/8
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 W8 K6 W8 K8 W8 K8 W/8 tartan")
 
 ID: /setts/s8/r8w8k6w8k8w8k8w8-k000000-rc82800-wf0dcbc/
-cbc/

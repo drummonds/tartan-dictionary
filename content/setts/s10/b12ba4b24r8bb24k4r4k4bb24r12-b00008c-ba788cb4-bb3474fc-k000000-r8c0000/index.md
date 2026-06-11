@@ -1,13 +1,20 @@
 ---
-title: "Ballater (Fashion)"
+title: "Ballater"
 date: 2023-03-18
 ---
 In pattern [BBBRBKRKBR](/patterns/bbbrbkrkbr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1708/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=179
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1963 — Ballater (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=179))
+- 1963 — Ballater (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1708/))
 
 ## Thread count
 DB/12 B4 DB24 DR8 Ba24 K4 DR4 K4 Ba24 DR/12

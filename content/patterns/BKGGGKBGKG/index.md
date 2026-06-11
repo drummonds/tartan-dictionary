@@ -18,5 +18,3 @@ BKGGGKBGKG
 |---------------|
 | [Verdon](/setts/s10/b144k12g12ga4g12k12b16g24k4ga8-b1c1c1c-g285800-ga289c18-k101010/)|
 |![Verdon example sett](/setts/s10/b144k12g12ga4g12k12b16g24k4ga8-b1c1c1c-g285800-ga289c18-k101010/sett.png)|
-| [Verdon (Fashion)](/setts/s10/b144k12g12ga4g12k12b16g24k4ga8-b1c1c1c-g285800-ga289c18-k101010/)|
-|![Verdon (Fashion) example sett](/setts/s10/b144k12g12ga4g12k12b16g24k4ga8-b1c1c1c-g285800-ga289c18-k101010/sett.png)|

@@ -20,5 +20,3 @@ KGKGWK
 |---------------|
 | [Melville](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/)|
 |![Melville example sett](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/sett.png)|
-| [Melville (Clan)](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/)|
-|![Melville (Clan) example sett](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/sett.png)|

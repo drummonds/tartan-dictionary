@@ -18,12 +18,10 @@ KGKY
 
 | Tartans |
 |---------------|
-| [Scotch Tape #2](/setts/s4/k6g30k40y6-g006818-k101010-ye8c000/)|
-|![Scotch Tape #2 example sett](/setts/s4/k6g30k40y6-g006818-k101010-ye8c000/sett.png)|
-| [Wallace Htg (Clan)](/setts/s4/k4g32k32y4-g006818-k000000-ydcbc00/)|
-|![Wallace Htg (Clan) example sett](/setts/s4/k4g32k32y4-g006818-k000000-ydcbc00/sett.png)|
 | [Scotch Tape 2 (Corporate)](/setts/s4/k6g30k40y6-g006818-k101010-ye8c000/)|
 |![Scotch Tape 2 (Corporate) example sett](/setts/s4/k6g30k40y6-g006818-k101010-ye8c000/sett.png)|
+| [Wallace Htg (Clan)](/setts/s4/k4g32k32y4-g006818-k000000-ydcbc00/)|
+|![Wallace Htg (Clan) example sett](/setts/s4/k4g32k32y4-g006818-k000000-ydcbc00/sett.png)|
 | [Wallace, hunting](/setts/s4/k8g66k66y8-g008000-k000000-yf0c000/)|
 |![Wallace, hunting example sett](/setts/s4/k8g66k66y8-g008000-k000000-yf0c000/sett.png)|
 | [Wallace Hunting](/setts/s4/k1g8k8y1-g11450d-k000000-yaaaa00/)|

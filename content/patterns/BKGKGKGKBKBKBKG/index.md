@@ -18,8 +18,6 @@ BKGKGKGKBKBKBKG
 |---------------|
 | [Lorne, Marquis of](/setts/s15/b8k4g32k4g4k4g4k32b4k4b4k4b32k4g8-b5c8ca8-g649848-k101010/)|
 |![Lorne, Marquis of example sett](/setts/s15/b8k4g32k4g4k4g4k32b4k4b4k4b32k4g8-b5c8ca8-g649848-k101010/sett.png)|
-| [Lorne (Royal?)](/setts/s15/b8k4g32k4g4k4g4k32b4k4b4k4b32k4g8-b1c0070-g006818-k101010/)|
-|![Lorne (Royal?) example sett](/setts/s15/b8k4g32k4g4k4g4k32b4k4b4k4b32k4g8-b1c0070-g006818-k101010/sett.png)|
 | [5th Royal Scots of Canada (Military)](/setts/s15/b8k4g32k4g4k4g4k32b4k4b4k4b32k4g8-b1c0070-g006818-k101010/)|
 |![5th Royal Scots of Canada (Military) example sett](/setts/s15/b8k4g32k4g4k4g4k32b4k4b4k4b32k4g8-b1c0070-g006818-k101010/sett.png)|
 | [Lorne](/setts/s15/b4k2g16k2g2k2g2k16b2k2b2k2b16k2g4-b304080-g008000-k000000/)|

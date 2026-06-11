@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1992
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Kinnaird (1984) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1992))
+- 1984 — Kinnaird - 1984 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5356/))
+
 ## Thread count
 DR/68 T12 DR8 T4 DR4 T4 DR4 T4 DRa12 DY8 DR4 DY8 LR/4
 ![Sett](sett.png)

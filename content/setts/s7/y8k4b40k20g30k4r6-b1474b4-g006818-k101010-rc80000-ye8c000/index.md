@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2629
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1831 — Green MacLeod (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2629))
+- 1831 — MacLeod (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1583/))
+
 ## Thread count
 R/6 K4 G30 K20 B40 K4 Y/8
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Buckie (District)"
+title: "Buckie"
 date: 2023-03-18
 ---
 In pattern [BRBKGYGKR](/patterns/brbkgygkr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4005/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=432
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2000 — Buckie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=432))
+- pre 2002 — Buckie (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4005/))
 
 ## Thread count
 DB/4 LR4 DB100 K40 DG16 Y2 DG4 K4 N/8

@@ -20,5 +20,3 @@ BKRBGRBR
 |---------------|
 | [McBrayer Blue (Personal)](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/)|
 |![McBrayer Blue (Personal) example sett](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/sett.png)|
-| [McBrayer Blue (Personal)](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/)|
-|![McBrayer Blue (Personal) example sett](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/sett.png)|

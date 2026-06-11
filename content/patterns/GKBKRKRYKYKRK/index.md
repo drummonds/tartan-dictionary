@@ -18,7 +18,3 @@ GKBKRKRYKYKRK
 |---------------|
 | [Ville de Beauport](/setts/s13/g32k2b24k2r24k2ra20y14k2y14k4r2k8-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/)|
 |![Ville de Beauport example sett](/setts/s13/g32k2b24k2r24k2ra20y14k2y14k4r2k8-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/sett.png)|
-| [Ville de Beauport (District)](/setts/s13/g32k2b24k2r24k2ra20y14k2y14k4r2k8-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/)|
-|![Ville de Beauport (District) example sett](/setts/s13/g32k2b24k2r24k2ra20y14k2y14k4r2k8-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/sett.png)|
-| [Ville de Beauport District Canadian Tartan Tartan Number: 2192. Earliest known date: 1991 District tartan for the town of Ville de Beauport - east of Quebec City on the St Lawrence River. Tartan approved in 1991 by Jaques Langlois, Mayor of Beauport. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g32k2b24k2r24k2ra20y14k2y14k4r2k8-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/)|
-|![Ville de Beauport District Canadian Tartan Tartan Number: 2192. Earliest known date: 1991 District tartan for the town of Ville de Beauport - east of Quebec City on the St Lawrence River. Tartan approved in 1991 by Jaques Langlois, Mayor of Beauport. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/g32k2b24k2r24k2ra20y14k2y14k4r2k8-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/sett.png)|

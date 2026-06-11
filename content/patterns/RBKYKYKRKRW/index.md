@@ -18,5 +18,3 @@ RBKYKYKRKRW
 |---------------|
 | [Heritage Plaid](/setts/s11/r88b6k12y4k4y4k20r10k4r6w4-b2c2c80-k101010-rc80000-we0e0e0-ya08858/)|
 |![Heritage Plaid example sett](/setts/s11/r88b6k12y4k4y4k20r10k4r6w4-b2c2c80-k101010-rc80000-we0e0e0-ya08858/sett.png)|
-| [Heritage Plaid (Fashion)](/setts/s11/r88b6k12y4k4y4k20r10k4r6w4-b2c2c80-k101010-rc80000-we0e0e0-ya08858/)|
-|![Heritage Plaid (Fashion) example sett](/setts/s11/r88b6k12y4k4y4k20r10k4r6w4-b2c2c80-k101010-rc80000-we0e0e0-ya08858/sett.png)|

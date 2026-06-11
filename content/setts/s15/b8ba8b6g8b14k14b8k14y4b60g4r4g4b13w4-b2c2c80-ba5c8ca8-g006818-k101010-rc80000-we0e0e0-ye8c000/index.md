@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7857/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2008 — Dickson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7857/))
+- undated — Dickson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5808))
+
 ## Thread count
 DB/8 B8 DB6 G8 DB14 K14 DB8 K14 Y4 DB60 G4 R4 G4 DB13 LN/4
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s15/b8ba8b6g8b14k14b8k14y4b60g4r4g4b13w4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/
-00/

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7432/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- August 2008 — Baker City (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7432/))
+- undated — Baker City (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5501))
+
 ## Thread count
 B/4 G40 B40 Ga/16
 ![Sett](sett.png)
@@ -25,13 +32,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 # Sample pattern
 
 ![Tartan detail](tartan.png "B/4 G40 B40 Ga/16 tartan")
-
-ID: /setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/
-(100);">#2C6464</span></code> `#2C6464` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.13 |
-| LG | <code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> `#789484` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.23 |
-
-# Sample pattern
-
-![Tartan detail](tartan.png "B/4 Ga40 B40 G/16 tartan")
 
 ID: /setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/

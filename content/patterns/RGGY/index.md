@@ -20,5 +20,3 @@ RGGY
 |---------------|
 | [Canadian Irish Regiment](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/)|
 |![Canadian Irish Regiment example sett](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/sett.png)|
-| [Canadian Irish Regiment (Military)](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/)|
-|![Canadian Irish Regiment (Military) example sett](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/sett.png)|

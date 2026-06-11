@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Rui (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617))
+- 1996 — Rui (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5391/))
+
 ## Thread count
 R/4 K20 W8 K4 N48 R/4
 ![Sett](sett.png)

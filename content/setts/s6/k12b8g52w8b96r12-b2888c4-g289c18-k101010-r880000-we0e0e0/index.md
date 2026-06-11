@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4441
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 16/09/1992 — Vance (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4441))
+- December 1994 — Vance (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2208/))
+
 ## Thread count
 DR/12 B96 LN8 Ga52 B8 K/12
 ![Sett](sett.png)

@@ -18,5 +18,3 @@ KRKRWBWRKRKRKGKGKGY
 |---------------|
 | [Princess Beatrice Dress (1880)](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/)|
 |![Princess Beatrice Dress (1880) example sett](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/sett.png)|
-| [Princess Beatrice Dress (1880) (Fash](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/)|
-|![Princess Beatrice Dress (1880) (Fash example sett](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/sett.png)|

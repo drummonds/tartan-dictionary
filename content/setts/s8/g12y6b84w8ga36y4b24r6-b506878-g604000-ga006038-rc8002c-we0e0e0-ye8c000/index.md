@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7480/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- July 2007 — Glasgow High (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7480/))
+- undated — Glasgow High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5522))
+
 ## Thread count
 R/6 N24 Y4 G36 LN8 N84 Y6 T/12
 ![Sett](sett.png)

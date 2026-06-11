@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GBWKGRGR](/patterns/gbwkgrgr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6945/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2811
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Mantle (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2811))
+- pre 2006 — Mantle (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6945/))
 
 ## Thread count
 DR/6 G4 DR6 G36 K28 LN4 DB32 G/6
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/6 G4 DR6 G36 K28 LN4 DB32 G/6 tartan")
 
 ID: /setts/s8/g6b32w4k28g36r6g4r6-b2c2c80-g006818-k101010-r880000-we0e0e0/
-e0/

@@ -18,7 +18,5 @@ BRWRBR
 
 | Tartans |
 |---------------|
-| [Lyon College](/setts/s6/r160b32r4w8r4b32-b1474b4-r880000-wf8f8f8/)|
-|![Lyon College example sett](/setts/s6/r160b32r4w8r4b32-b1474b4-r880000-wf8f8f8/sett.png)|
 | [Lyon College (Corporate)](/setts/s6/r160b32r4w8r4b32-b1474b4-r880000-wf8f8f8/)|
 |![Lyon College (Corporate) example sett](/setts/s6/r160b32r4w8r4b32-b1474b4-r880000-wf8f8f8/sett.png)|

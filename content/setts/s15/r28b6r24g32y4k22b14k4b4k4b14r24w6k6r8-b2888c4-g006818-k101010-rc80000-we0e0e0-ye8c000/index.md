@@ -1,13 +1,20 @@
 ---
-title: "Kidd (Clan?)"
+title: "Kidd"
 date: 2023-03-18
 ---
 In pattern [RBRGYKBKBKBRWKR](/patterns/rbrgykbkbkbrwkr/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1409/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1957
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1790 — Kidd (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1957))
+- 1790s — Kidd (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1409/))
 
 ## Thread count
 R/28 B6 R24 G32 Y4 K22 B14 K4 B4 K4 B14 R24 LN6 K6 R/8

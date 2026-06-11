@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GKBKGKBKYK](/patterns/gkbkgkbkyk/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5719
+Original link http://www.tartansauthority.com/tartan-ferret/display/7736/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1980 — Hope-Vere (Lochcarron) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7736/))
+- undated — Hope-Vere (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5719))
 
 ## Thread count
 G/64 K4 B8 K4 G12 K20 Ba48 K4 Y4 K/12

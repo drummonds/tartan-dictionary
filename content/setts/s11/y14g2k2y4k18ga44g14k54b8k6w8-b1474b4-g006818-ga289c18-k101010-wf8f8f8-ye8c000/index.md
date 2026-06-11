@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6700/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2005 — Gilhooley (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6700/))
+- undated — Gilhooley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4893))
+
 ## Thread count
 W/8 K6 B8 K54 Ga14 G44 K18 Y4 K2 Ga2 Y/14
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/y14g2k2y4k18ga44g14k54b8k6w8-b1474b4-g006818-ga289c18-k101010-wf8f8f8-ye8c000/
-e8c000/

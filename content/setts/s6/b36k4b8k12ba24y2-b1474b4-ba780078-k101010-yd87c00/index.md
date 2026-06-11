@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4615
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Joker, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4615))
+- pre 2005 — Joker, The (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6769/))
+
 ## Thread count
 B/36 K4 B8 K12 P24 O/2
 ![Sett](sett.png)

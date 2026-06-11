@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3241
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2007 — O'Long (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3241))
+- June 2007 — O'Long (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7246/))
+
 ## Thread count
 G/44 P44 G6 P22 LN6 P8 LN/6
 ![Sett](sett.png)

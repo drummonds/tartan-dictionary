@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GBRBG](/patterns/gbrbg/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2580/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4177
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Tyrconnell (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4177))
+- 1998 — Tyrconnell (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2580/))
 
 ## Thread count
 G/4 DB18 R4 DB18 G/88
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/4 DB18 R4 DB18 G/88 tartan")
 
 ID: /setts/s5/g88b18r4b18g4-b202060-g006818-rc80000/
-00/

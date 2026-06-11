@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — Rose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547))
+- 1842 — Rose - 1842 (VS Plate) Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/845/))
+
 ## Thread count
 G/8 R64 DB18 R12 DB4 R6 DB4 R24 W/6
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s9/g8r64b18r12b4r6b4r24w6-b2c2c80-g006818-rc80000-wfcfcfc/
-8-rc80000-wfcfcfc/

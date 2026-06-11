@@ -1,13 +1,21 @@
 ---
-title: "Cusack (Name)"
+title: "Cusack"
 date: 2023-03-18
 ---
 In pattern [BKBKWGRGY](/patterns/bkbkwgrgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4649/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=857
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1999 — Cusack (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=857))
+- pre 2002 — Cusack (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4649/))
+- undated — Cusack Clan/Family Tartan Tartan Number: 4649. Earliest known date: 2002 Designed by Peter MacDonald for Jeremy Cusack, Guernsey, Channel Isles. Copyright Peter MacDonald but can be worn by all Cusacks. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4649))
 
 ## Thread count
 DB/8 K4 DB32 K24 W2 G26 DR4 G4 DY/8

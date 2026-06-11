@@ -20,5 +20,3 @@ BKBKGGGG
 |---------------|
 | [Bedford High School](/setts/s8/b8k6b24k22g26ga2g2ga6-b2c2c80-g006818-ga289c18-k101010/)|
 |![Bedford High School example sett](/setts/s8/b8k6b24k22g26ga2g2ga6-b2c2c80-g006818-ga289c18-k101010/sett.png)|
-| [Bedford High School (Corporate)](/setts/s8/b8k6b24k22g26ga2g2ga6-b2c2c80-g006818-ga289c18-k101010/)|
-|![Bedford High School (Corporate) example sett](/setts/s8/b8k6b24k22g26ga2g2ga6-b2c2c80-g006818-ga289c18-k101010/sett.png)|

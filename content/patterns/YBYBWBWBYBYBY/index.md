@@ -18,5 +18,3 @@ YBYBWBWBYBYBY
 |---------------|
 | [Brown Watch Dress](/setts/s13/y40b6y6b6y6b18w20b6w2b18y20b6y6-b441800-wfcfcfc-ya08858/)|
 |![Brown Watch Dress example sett](/setts/s13/y40b6y6b6y6b18w20b6w2b18y20b6y6-b441800-wfcfcfc-ya08858/sett.png)|
-| [Brown Watch Dress (Fashion)](/setts/s13/y40b6y6b6y6b18w20b6w2b18y20b6y6-b441800-wfcfcfc-ya08858/)|
-|![Brown Watch Dress (Fashion) example sett](/setts/s13/y40b6y6b6y6b18w20b6w2b18y20b6y6-b441800-wfcfcfc-ya08858/sett.png)|

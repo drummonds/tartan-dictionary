@@ -18,5 +18,3 @@ YBKRKBKBGKY
 |---------------|
 | [Montreat](/setts/s11/y4b20k4r10k4b38k4b38g34k4y4-b546488-g007800-k000000-r8c0000-yc88c00/)|
 |![Montreat example sett](/setts/s11/y4b20k4r10k4b38k4b38g34k4y4-b546488-g007800-k000000-r8c0000-yc88c00/sett.png)|
-| [Montreat (Corporate)](/setts/s11/y4b20k4r10k4b38k4b38g34k4y4-b546488-g007800-k000000-r8c0000-yc88c00/)|
-|![Montreat (Corporate) example sett](/setts/s11/y4b20k4r10k4b38k4b38g34k4y4-b546488-g007800-k000000-r8c0000-yc88c00/sett.png)|

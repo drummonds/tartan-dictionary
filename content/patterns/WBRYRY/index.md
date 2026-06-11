@@ -20,5 +20,3 @@ WBRYRY
 |---------------|
 | [Balmer (Personal)](/setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/)|
 |![Balmer (Personal) example sett](/setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Balmer (Personal)](/setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/)|
-|![Balmer (Personal) example sett](/setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|

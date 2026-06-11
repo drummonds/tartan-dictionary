@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10671
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2012 — Barkway Wedding 2012 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10671))
+- undated — Barkway Wedding 2012 Name Tartan Tartan Number: 10671. Earliest known date: Designed by Mr Barkway, using the Scotweb tartan designer, for his wedding in 2012, and as a family tartan. It may be used by anyone with the surname Barkway. Permission to use this tartan can be sought from the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10671))
+
 ## Thread count
 G/6 DG4 G4 DG32 G4 DG4 G4 DG4 G8 N8 K4 N4 K4 N4 K48 R4 K4 W/6
 ![Sett](sett.png)

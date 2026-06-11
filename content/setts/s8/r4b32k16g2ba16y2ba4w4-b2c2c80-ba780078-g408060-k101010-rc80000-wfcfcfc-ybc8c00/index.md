@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1279
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2003 — Freemasons' Universal (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1279))
+- Dec 2003 — Freemasons' Universal (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6245/))
+
 ## Thread count
 R/4 DB32 K16 G2 P16 DY2 P4 W/4
 ![Sett](sett.png)

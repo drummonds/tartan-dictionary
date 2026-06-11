@@ -20,5 +20,3 @@ GRGKWKW
 |---------------|
 | [Cleghorn (Personal)](/setts/s7/g16r6g60k16w6k72w16-g007800-k000000-r8c0000-wf0f0f0/)|
 |![Cleghorn (Personal) example sett](/setts/s7/g16r6g60k16w6k72w16-g007800-k000000-r8c0000-wf0f0f0/sett.png)|
-| [Cleghorn (Personal)](/setts/s7/g16r6g60k16w6k72w16-g007800-k000000-r8c0000-wf0f0f0/)|
-|![Cleghorn (Personal) example sett](/setts/s7/g16r6g60k16w6k72w16-g007800-k000000-r8c0000-wf0f0f0/sett.png)|

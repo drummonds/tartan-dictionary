@@ -1,13 +1,20 @@
 ---
-title: "Greg Wells Personal Tartan Tartan Number: 7886. Earliest known date: 2009 I chose the colors primarily because of my love for the darker, hunting tartans, and because the two main colors are visual representaions of the main sources of income of my home county: fishing and farming. The blue represents the water that surrounds three sides of the county, Calvert County, Maryland. We are bound by the Chesapeake Bay on one side and the Patuxent River on the other; the two bodies of water meet at the southern end of the county. The green represents out farms. For generations tobacco production was the main industry here. It was such an important part of life that a green tobacco leaf is on our county flag. The other colors: red and gold remind me of the brillant autumns around here. See Wells (Red) See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Greg Wells (Personal)"
 date: 2023-03-18
 ---
 In pattern [BKBGKYKGGKRKG](/patterns/bkbgkykggkrkg/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7886
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10111
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 29/01/2009 — Greg Wells (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10111))
+- undated — Greg Wells Personal Tartan Tartan Number: 7886. Earliest known date: 2009 I chose the colors primarily because of my love for the darker, hunting tartans, and because the two main colors are visual representaions of the main sources of income of my home county: fishing and farming. The blue represents the water that surrounds three sides of the county, Calvert County, Maryland. We are bound by the Chesapeake Bay on one side and the Patuxent River on the other; the two bodies of water meet at the southern end of the county. The green represents out farms. For generations tobacco production was the main industry here. It was such an important part of life that a green tobacco leaf is on our county flag. The other colors: red and gold remind me of the brillant autumns around here. See Wells (Red) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7886))
 
 ## Thread count
 G/24 K2 DR4 K2 G24 N4 K24 O2 K24 N4 Na24 K6 Na/24

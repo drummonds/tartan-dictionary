@@ -20,5 +20,3 @@ KYKGYWY
 |---------------|
 | [St Andrews Bay](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/)|
 |![St Andrews Bay example sett](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/sett.png)|
-| [St. Andrews Bay Hotel (Corporate)](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/)|
-|![St. Andrews Bay Hotel (Corporate) example sett](/setts/s7/y60w8y40g40k40ya6k12-g006818-k101010-we0e0e0-ya08858-yad87c00/sett.png)|

@@ -18,5 +18,3 @@ RKWGBGBGBGBWBWBGBGBGBGWKY
 |---------------|
 | [Recovery Dress](/setts/s25/r4k4w32g4b4g4b4g4b4g4b32w4b8w4b32g4b4g4b4g4b4g4w32k4y4-b003c64-g00502c-k101010-rc80000-we0e0e0-ydc943c/)|
 |![Recovery Dress example sett](/setts/s25/r4k4w32g4b4g4b4g4b4g4b32w4b8w4b32g4b4g4b4g4b4g4w32k4y4-b003c64-g00502c-k101010-rc80000-we0e0e0-ydc943c/sett.png)|
-| [Recovery Dress (Corporate)](/setts/s25/r4k4w32g4b4g4b4g4b4g4b32w4b8w4b32g4b4g4b4g4b4g4w32k4y4-b003c64-g00502c-k101010-rc80000-we0e0e0-ydc943c/)|
-|![Recovery Dress (Corporate) example sett](/setts/s25/r4k4w32g4b4g4b4g4b4g4b32w4b8w4b32g4b4g4b4g4b4g4w32k4y4-b003c64-g00502c-k101010-rc80000-we0e0e0-ydc943c/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=372
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — Brodie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=372))
+- 1880 — Brodie Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1334/))
+
 ## Thread count
 R/8 B32 G32 K32 DY4 K32 R/8
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 B32 G32 K32 DY4 K32 R/8 tartan")
 
 ID: /setts/s7/r8b32g32k32y4k32r8-b5c8ca8-g006818-k101010-rc80000-yd09800/
-00/

@@ -20,5 +20,3 @@ WRKRKRKY
 |---------------|
 | [Mens Bigi](/setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/)|
 |![Mens Bigi example sett](/setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/sett.png)|
-| [Mens Bigi (Corporate)](/setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/)|
-|![Mens Bigi (Corporate) example sett](/setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/sett.png)|

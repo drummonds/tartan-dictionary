@@ -1,13 +1,20 @@
 ---
-title: "Lindenwood University Corporate Tartan Tartan Number: 10675. Earliest known date: 01/12/2011 The tartan was designed by James Evans and Judy Shanahan as a full-colour rendition of the Sibley crest. The crest was created in the early 1900s, based on traditional Scottish heraldry, to reflect the strong tradition, heritage, and values of Lindenwood University. (MO 63301, United States) See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Lindenwood University"
 date: 2023-03-18
 ---
 In pattern [BYWKWYKBWKGWKYKRWKWKYWKW](/patterns/bywkwykbwkgwkykrwkwkywkw/).
 
 
-This was sourced from house-of-tartan.  It is a [24 stripes tartan](/stripes/stripes24/).
+This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes/stripes24/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10675
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10675
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2011 — Lindenwood University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10675))
+- undated — Lindenwood University Corporate Tartan Tartan Number: 10675. Earliest known date: 01/12/2011 The tartan was designed by James Evans and Judy Shanahan as a full-colour rendition of the Sibley crest. The crest was created in the early 1900s, based on traditional Scottish heraldry, to reflect the strong tradition, heritage, and values of Lindenwood University. (MO 63301, United States) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10675))
 
 ## Thread count
 B/6 Y8 W6 K2 W8 Y8 K12 DB6 W4 K65 G6 W4 K12 Y18 K12 R6 W4 K2 W4 K34 Y8 W6 K2 W/8

@@ -1,13 +1,20 @@
 ---
-title: "Burberry, Grey (Original) (Fashion)"
+title: "Burberry Grey (Original)"
 date: 2023-03-18
 ---
 In pattern [BGKWK](/patterns/bgkwk/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7268/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=442
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Burberry Grey (Original) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=442))
+- pre 2007 — Burberry, Grey (Original) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7268/))
 
 ## Thread count
 DB/4 N80 K20 LN28 K/20

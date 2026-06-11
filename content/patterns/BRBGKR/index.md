@@ -20,7 +20,5 @@ BRBGKR
 |---------------|
 | [Plummer (Personal)](/setts/s6/r200k30g96b10r14b32-b2c2c80-g006818-k101010-rc80000/)|
 |![Plummer (Personal) example sett](/setts/s6/r200k30g96b10r14b32-b2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Plummer (Name)](/setts/s6/r200k30g96b10r14b32-b2c2c80-g006818-k101010-rc80000/)|
-|![Plummer (Name) example sett](/setts/s6/r200k30g96b10r14b32-b2c2c80-g006818-k101010-rc80000/sett.png)|
 | [Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r60k16g60b8r6b4-b1860a8-g005028-k101010-rc80000/)|
 |![Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/r60k16g60b8r6b4-b1860a8-g005028-k101010-rc80000/sett.png)|

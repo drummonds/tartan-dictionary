@@ -18,5 +18,3 @@ RWBWKWRKRW
 |---------------|
 | [Rothesay, Dress (VS)](/setts/s10/r4w56b8w4k12w4r8k2r4w2-b2c2c80-k101010-rc80000-we0e0e0/)|
 |![Rothesay, Dress (VS) example sett](/setts/s10/r4w56b8w4k12w4r8k2r4w2-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
-| [Rothesay, Dress (VS) (Royal)](/setts/s10/r4w56b8w4k12w4r8k2r4w2-b2c2c80-k101010-rc80000-we0e0e0/)|
-|![Rothesay, Dress (VS) (Royal) example sett](/setts/s10/r4w56b8w4k12w4r8k2r4w2-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|

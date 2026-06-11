@@ -20,8 +20,6 @@ RKRKBGBKRKRKR
 |![MacLachlan example sett](/setts/s13/r32k4r4k4r4k32b32g6b32k32r32k4r4-b202060-g006818-k101010-rc80000/sett.png)|
 | [MacLachlan #2](/setts/s13/r32k4r4k4r4k32b32g6b32k32r32k4r4-b2c4084-g005020-k101010-rdc0000/)|
 |![MacLachlan #2 example sett](/setts/s13/r32k4r4k4r4k32b32g6b32k32r32k4r4-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [MacLachlan (Clan)](/setts/s13/r32k4r4k4r4k32b32g6b32k32r32k4r4-b202060-g006818-k101010-rc80000/)|
-|![MacLachlan (Clan) example sett](/setts/s13/r32k4r4k4r4k32b32g6b32k32r32k4r4-b202060-g006818-k101010-rc80000/sett.png)|
 | [MacLachlan](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2-b000064-g004c00-k000000-rc80000/)|
 |![MacLachlan example sett](/setts/s13/r16k2r2k2r2k16b16g3b16k16r16k2r2-b000064-g004c00-k000000-rc80000/sett.png)|
 | [MacLachlan 3](/setts/s13/r32k4r4k4r4k32b32g6b32k32r32k4r4-b304080-g008000-k000000-rc00000/)|

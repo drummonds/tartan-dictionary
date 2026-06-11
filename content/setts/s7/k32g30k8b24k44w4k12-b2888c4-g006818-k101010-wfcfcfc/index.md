@@ -1,13 +1,20 @@
 ---
-title: "Frame (Personal)"
+title: "Frame (Edinburgh) (Personal)"
 date: 2023-03-18
 ---
 In pattern [KGKBKWK](/patterns/kgkbkwk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6289/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1243
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2004 — Frame (Edinburgh) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1243))
+- June 2004 — Frame (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6289/))
 
 ## Thread count
 K/32 G30 K8 B24 K44 W4 K/12

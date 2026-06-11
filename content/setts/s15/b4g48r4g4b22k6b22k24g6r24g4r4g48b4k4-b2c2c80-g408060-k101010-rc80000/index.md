@@ -1,13 +1,20 @@
 ---
-title: "MacInroy Hunting (Clan?)"
+title: "MacInroy Hunting"
 date: 2023-03-18
 ---
 In pattern [BGRGBKBKGRGRGBK](/patterns/bgrgbkbkgrgrgbk/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6321/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4375
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1982 — MacInroy Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4375))
+- 1982 — MacInroy Hunting (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6321/))
 
 ## Thread count
 DB/4 G48 R4 G4 DB22 K6 DB22 K24 G6 R24 G4 R4 G48 DB4 K/4

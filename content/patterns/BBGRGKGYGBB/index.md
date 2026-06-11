@@ -20,7 +20,3 @@ BBGRGKGYGBB
 |![Pendleton Dress example sett](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/sett.png)|
 | [Pendleton Hunting](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/)|
 |![Pendleton Hunting example sett](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/sett.png)|
-| [Pendleton Htg (Corporate)](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/)|
-|![Pendleton Htg (Corporate) example sett](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/sett.png)|
-| [Pendleton Dress (Corporate)](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/)|
-|![Pendleton Dress (Corporate) example sett](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/sett.png)|

@@ -18,5 +18,3 @@ GKGWRKRWKBKRWK
 |---------------|
 | [MacFarlane Hunting (MacGregor Hastie)](/setts/s14/g84k4g24w4r6k4r6w4k4b24k8r6w8k6-b440044-g006428-k101010-rc80000-wfcfcfc/)|
 |![MacFarlane Hunting (MacGregor Hastie) example sett](/setts/s14/g84k4g24w4r6k4r6w4k4b24k8r6w8k6-b440044-g006428-k101010-rc80000-wfcfcfc/sett.png)|
-| [MacFarlane Htg (Clan)](/setts/s14/g84k4g24w4r6k4r6w4k4b24k8r6w8k6-b440044-g006428-k101010-rc80000-wfcfcfc/)|
-|![MacFarlane Htg (Clan) example sett](/setts/s14/g84k4g24w4r6k4r6w4k4b24k8r6w8k6-b440044-g006428-k101010-rc80000-wfcfcfc/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Hannay Blue Clan/Family Tartan Tartan Number: 6509. Earliest known date: 2005 Jan The Hannay tartan has been long established in the South West of Scotland. An old kilt worn by Commander Alex Hannay (1788 - 1844) was discovered by his descendant, Miss Anne Hannay, in the family chest and came into the possession of Councillor John Hannay, a well known tartan designer and collector. The Hannay Blue is a derivative created for J A Hannah, Balquhidder in 2005. White is exchanged for a muted pale blue. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Hannay Blue"
 date: 2023-03-18
 ---
 In pattern [BKBKBKBBYBBKBKBKBK](/patterns/bkbkbkbbybbkbkbkbk/).
 
 
-This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6509
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Hannay Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588))
+- undated — Hannay Blue Clan/Family Tartan Tartan Number: 6509. Earliest known date: 2005 Jan The Hannay tartan has been long established in the South West of Scotland. An old kilt worn by Commander Alex Hannay (1788 - 1844) was discovered by his descendant, Miss Anne Hannay, in the family chest and came into the possession of Councillor John Hannay, a well known tartan designer and collector. The Hannay Blue is a derivative created for J A Hannah, Balquhidder in 2005. White is exchanged for a muted pale blue. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6509))
 
 ## Thread count
 B/8 K4 B8 K4 B60 K18 B8 DB28 Y4 DB28 B8 K18 B60 K4 B8 K4 B8 K/18

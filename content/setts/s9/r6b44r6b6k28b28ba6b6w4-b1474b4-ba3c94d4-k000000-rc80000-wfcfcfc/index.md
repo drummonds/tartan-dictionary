@@ -1,13 +1,20 @@
 ---
-title: "Fitzgerald Family (Name)"
+title: "Fitzgerald (Family)"
 date: 2023-03-18
 ---
 In pattern [RBRBKBBBW](/patterns/rbrbkbbbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1419/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1970 — Fitzgerald (Family) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1193))
+- 1975 — Fitzgerald Family (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1419/))
 
 ## Thread count
 R/6 B44 R6 B6 K28 B28 Ba6 B6 W/4

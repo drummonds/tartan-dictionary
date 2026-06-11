@@ -34,7 +34,5 @@ GBGR
 |![Barclay example sett](/setts/s4/g2b32g32r2-b000050-g008000-rc00000/sett.png)|
 | [Barclay Hunting](/setts/s4/g2b32g32r2-b000052-g11450d-raa0000/)|
 |![Barclay Hunting example sett](/setts/s4/g2b32g32r2-b000052-g11450d-raa0000/sett.png)|
-| [Barclay Hunting](/setts/s4/g2b32g32r2-b000052-g11450d-raa0000/)|
-|![Barclay Hunting example sett](/setts/s4/g2b32g32r2-b000052-g11450d-raa0000/sett.png)|
 | [Barclay Hunting Clan Tartan Tartan Number: 705. Earliest known date: 1842 The 'Vestiarium' attempted to persuade its readers that the illustrated tartans were of great antiquity. Despite this fault the work contains the earliest record of many tartans some of which have been verified by other means. Innes, Stewart, and W & A K Johnston, also record this sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/g2b32g32r2-b202060-g006818-rc80000/)|
 |![Barclay Hunting Clan Tartan Tartan Number: 705. Earliest known date: 1842 The 'Vestiarium' attempted to persuade its readers that the illustrated tartans were of great antiquity. Despite this fault the work contains the earliest record of many tartans some of which have been verified by other means. Innes, Stewart, and W & A K Johnston, also record this sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/g2b32g32r2-b202060-g006818-rc80000/sett.png)|

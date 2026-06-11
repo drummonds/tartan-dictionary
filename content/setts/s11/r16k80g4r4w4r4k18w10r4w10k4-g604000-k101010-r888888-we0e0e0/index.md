@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1541
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 23/07/1992 — Grey Spencer Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1541))
+- pre 2002 — Grey Spencer Plaid (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2178/))
+
 ## Thread count
 K/4 LN10 N4 LN10 K18 N4 LN4 N4 T4 K80 N/16
 ![Sett](sett.png)

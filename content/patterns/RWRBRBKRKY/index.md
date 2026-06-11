@@ -18,5 +18,3 @@ RWRBRBKRKY
 |---------------|
 | [Locky](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/)|
 |![Locky example sett](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [Locky (Name)](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Locky (Name) example sett](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

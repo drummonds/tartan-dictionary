@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7783/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Scotch Tape 2 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7783/))
+- undated — Scotch Tape #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5752))
+
 ## Thread count
 K/6 G30 K40 Y/6
 ![Sett](sett.png)

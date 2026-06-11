@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=412
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1908 — Buccleuch Check (9 squares) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=412))
+- 1908 — Scott of Buccleuch (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/647/))
+
 ## Thread count
 B/10 LN8 K8 LN8 K8 LN8 K8 LN8 K8 LN8 K/8
 ![Sett](sett.png)

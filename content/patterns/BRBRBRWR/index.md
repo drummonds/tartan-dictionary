@@ -20,5 +20,3 @@ BRBRBRWR
 |---------------|
 | [Corrie](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/)|
 |![Corrie example sett](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/sett.png)|
-| [Corrie (Fashion)](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/)|
-|![Corrie (Fashion) example sett](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/sett.png)|

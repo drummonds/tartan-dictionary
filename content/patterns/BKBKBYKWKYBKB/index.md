@@ -18,5 +18,3 @@ BKBKBYKWKYBKB
 |---------------|
 | [Kernbrownek (Personal)](/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/)|
 |![Kernbrownek (Personal) example sett](/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/sett.png)|
-| [Kernbrownek (Personal)](/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/)|
-|![Kernbrownek (Personal) example sett](/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/sett.png)|

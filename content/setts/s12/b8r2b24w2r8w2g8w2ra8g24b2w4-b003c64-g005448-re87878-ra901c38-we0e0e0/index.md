@@ -1,13 +1,20 @@
 ---
-title: "Glenfalloch (Corporate)"
+title: "Glenfalloch"
 date: 2023-03-18
 ---
 In pattern [BRBWRWGWRGBW](/patterns/brbwrwgwrgbw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2111/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1415
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Glenfalloch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1415))
+- pre 2002 — Glenfalloch (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2111/))
 
 ## Thread count
 DB/8 LR2 DB24 LN2 LR8 LN2 G8 LN2 DR8 G24 DB2 LN/4

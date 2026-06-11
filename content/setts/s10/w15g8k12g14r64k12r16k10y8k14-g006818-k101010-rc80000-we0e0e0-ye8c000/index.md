@@ -1,13 +1,20 @@
 ---
-title: "Carlow County, Crest Range"
+title: "Carlow County Crest (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KYKRKRGKGW](/patterns/kykrkrgkgw/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4931
+Original link http://www.tartansauthority.com/tartan-ferret/display/7449/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Carlow County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7449/))
+- 01/05/2005 — Carlow County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4931))
 
 ## Thread count
 K/14 Y8 K10 R16 K12 R64 G14 K12 G8 LN/15

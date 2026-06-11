@@ -22,8 +22,6 @@ RW
 |![MacMedic example sett](/setts/s2/r40w40-rc80028-we0e0e0/sett.png)|
 | [Spare](/setts/s2/r5w5-rdc0000-we0e0e0/)|
 |![Spare example sett](/setts/s2/r5w5-rdc0000-we0e0e0/sett.png)|
-| [Spare #2](/setts/s2/r5w5-rdc0000-we0e0e0/)|
-|![Spare #2 example sett](/setts/s2/r5w5-rdc0000-we0e0e0/sett.png)|
 | [McMedic (Fashion)](/setts/s2/r40w40-rc8002c-we0e0e0/)|
 |![McMedic (Fashion) example sett](/setts/s2/r40w40-rc8002c-we0e0e0/sett.png)|
 | [English Kilt (Fashion)](/setts/s2/w100r30-rc80000-we0e0e0/)|

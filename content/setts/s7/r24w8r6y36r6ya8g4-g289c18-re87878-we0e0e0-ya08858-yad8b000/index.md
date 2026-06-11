@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1446
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Golden Pheasant (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1446))
+- pre 1972 — Golden Pheasant (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5052/))
+
 ## Thread count
 G/4 Y8 LR6 LT36 LR6 LN8 LR/24
 ![Sett](sett.png)

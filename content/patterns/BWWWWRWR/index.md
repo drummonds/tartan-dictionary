@@ -20,5 +20,3 @@ BWWWWRWR
 |---------------|
 | [Malmo Skyblue](/setts/s8/b28w36wa28w36wa85r3wa3r3-b003c64-rc80000-wf8f8f8-wad8e8e8/)|
 |![Malmo Skyblue example sett](/setts/s8/b28w36wa28w36wa85r3wa3r3-b003c64-rc80000-wf8f8f8-wad8e8e8/sett.png)|
-| [Malmo Skyblue (District)](/setts/s8/b28w36wa28w36wa85r3wa3r3-b003c64-rc80000-wf8f8f8-wad8e8e8/)|
-|![Malmo Skyblue (District) example sett](/setts/s8/b28w36wa28w36wa85r3wa3r3-b003c64-rc80000-wf8f8f8-wad8e8e8/sett.png)|

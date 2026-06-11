@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/212/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1831 — Forbes - 1947 (Lyon Court) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/212/))
+- 01/01/1949 — Forbes, Ancient (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1225))
+
 ## Thread count
 DB/6 K36 DB36 K36 G36 K6 W/6
 ![Sett](sett.png)

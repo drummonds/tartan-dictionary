@@ -1,13 +1,20 @@
 ---
-title: "MacInnes (Clan)"
+title: "MacInnes"
 date: 2023-03-18
 ---
 In pattern [RGBKBKGKGKGKY](/patterns/rgbkbkgkgkgky/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1464/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2471
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1908 — MacInnes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2471))
+- 1908 — MacInnes (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1464/))
 
 ## Thread count
 R/4 G12 DB24 K6 B6 K6 G32 K4 G4 K4 G4 K24 Y/4

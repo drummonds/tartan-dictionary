@@ -1,13 +1,20 @@
 ---
-title: "Jones Welsh Name Tartan Tartan Number: 5764. Earliest known date: 2002 The tartan for this Welsh surname and its variations, John, Jone, Jones, Shone, Sion, Ieuan, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Jones (Welsh Name)"
 date: 2023-03-18
 ---
 In pattern [BBBBGBGBGG](/patterns/bbbbgbgbgg/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5764
+Original link http://www.tartansauthority.com/tartan-ferret/display/5764/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2002 — Jones (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5764/))
+- undated — Jones Welsh Name Tartan Tartan Number: 5764. Earliest known date: 2002 The tartan for this Welsh surname and its variations, John, Jone, Jones, Shone, Sion, Ieuan, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5764))
 
 ## Thread count
 DB/6 B3 DB3 B15 DG7 DB7 DG5 DB17 DG46 G/4

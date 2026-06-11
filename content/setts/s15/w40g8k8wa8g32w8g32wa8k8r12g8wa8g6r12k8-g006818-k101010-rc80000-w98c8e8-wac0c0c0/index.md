@@ -1,13 +1,20 @@
 ---
-title: "Gayre (Clan ?)"
+title: "Gayre"
 date: 2023-03-18
 ---
 In pattern [KRGWGRKWGWGWKGW](/patterns/krgwgrkwgwgwkgw/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/8876/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1319
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1981 — Gayre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1319))
+- ? — Gayre (Clan ?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8876/))
 
 ## Thread count
 K/8 R12 G6 N8 G8 R12 K8 N8 G32 LB8 G32 N8 K8 G8 LB/40

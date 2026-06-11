@@ -1,13 +1,20 @@
 ---
-title: "MacLeod of Raasay (HSL) (Clan)"
+title: "MacLeod of Raasay (Highland Society of London)"
 date: 2023-03-18
 ---
 In pattern [KRKRK](/patterns/krkrk/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1172/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2641
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1845 — MacLeod of Raasay (Highland Society of London) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2641))
+- 1845 — MacLeod of Raasay (HSL) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1172/))
 
 ## Thread count
 K/4 R38 K26 R4 K/26

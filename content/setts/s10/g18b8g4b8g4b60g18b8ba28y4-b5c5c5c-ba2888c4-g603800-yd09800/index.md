@@ -1,13 +1,20 @@
 ---
-title: "Hanna of Leith (Clan)"
+title: "Hanna of Leith (yellow line)"
 date: 2023-03-18
 ---
 In pattern [GBGBGBGBBY](/patterns/gbgbgbgbby/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5144/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1585
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1960 — Hanna of Leith (yellow line) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1585))
+- 1960 — Hanna of Leith (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5144/))
 
 ## Thread count
 DY/4 B28 N8 T18 N60 T4 N8 T4 N8 T/18

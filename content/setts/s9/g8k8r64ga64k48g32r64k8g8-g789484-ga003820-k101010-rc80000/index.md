@@ -1,5 +1,5 @@
 ---
-title: "Graham Dress (1831)"
+title: "Montrose (Graham)"
 date: 2023-03-18
 ---
 In pattern [GKRGKGRKG](/patterns/gkrgkgrkg/).
@@ -7,7 +7,14 @@ In pattern [GKRGKGRKG](/patterns/gkrgkgrkg/).
 
 This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4857
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2996
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1831 — Montrose (Graham) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2996))
+- 01/01/1831 — Graham Dress (1831) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4857))
 
 ## Thread count
 LG/8 K8 R64 DG64 K48 LG32 R64 K8 LG/8

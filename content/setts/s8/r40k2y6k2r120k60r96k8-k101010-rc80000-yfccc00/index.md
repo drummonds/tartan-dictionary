@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KRKRKYKR](/patterns/krkrkykr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2044/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=217
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/1982 — Barkwell (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=217))
+- pre 2002 — Barkwell (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2044/))
 
 ## Thread count
 K/8 R96 K60 R120 K2 Y6 K2 R/40

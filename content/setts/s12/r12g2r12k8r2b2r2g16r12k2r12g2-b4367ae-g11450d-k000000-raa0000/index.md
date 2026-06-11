@@ -7,7 +7,14 @@ In pattern [GRKRGRBRKRGR](/patterns/grkrgrbrkrgr/).
 
 This was sourced from weddslist.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacNicol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacNicol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DG/2 DR12 K2 DR12 DG16 DR2 B2 DR2 K8 DR12 DG2 DR/12
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
 ID: /setts/s12/r12g2r12k8r2b2r2g16r12k2r12g2-b4367ae-g11450d-k000000-raa0000/
-000/

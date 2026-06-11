@@ -1,13 +1,20 @@
 ---
-title: "Holyoke St Patrick's Corporate Tartan Tartan Number: 5780. Earliest known date: 2002 Designed in 2002 by Gerald D Healy (2002 President) & Ralf L Hartwell Jnr for the Holyoke St Patrick's Committee in Holyoke Massachusetts which is home to the second largest St Patrick's parade in the USA. Colours chosen: red, white & blue from the US flag; green white and gold from the Irish flag and the Parade Committee; green & white from the Holyoke Community College; purple & white from the Holyoke Catholic High School and black & gold from the Dean Vocational High School. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Holyoke St. Patrick's"
 date: 2023-03-18
 ---
 In pattern [RBGBGBYBYW](/patterns/rbgbgbybyw/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5780
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10764
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 17/03/2002 — Holyoke St. Patrick's (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10764))
+- undated — Holyoke St Patrick's Corporate Tartan Tartan Number: 5780. Earliest known date: 2002 Designed in 2002 by Gerald D Healy (2002 President) & Ralf L Hartwell Jnr for the Holyoke St Patrick's Committee in Holyoke Massachusetts which is home to the second largest St Patrick's parade in the USA. Colours chosen: red, white & blue from the US flag; green white and gold from the Irish flag and the Parade Committee; green & white from the Holyoke Community College; purple & white from the Holyoke Catholic High School and black & gold from the Dean Vocational High School. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5780))
 
 ## Thread count
 LN/2 Y6 P6 Y2 P2 G54 DB2 G2 DB16 R/16

@@ -20,5 +20,3 @@ BBKBW
 |---------------|
 | [National Ballet of Canada](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/)|
 |![National Ballet of Canada example sett](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/sett.png)|
-| [National Ballet of Canada (Corporate](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/)|
-|![National Ballet of Canada (Corporate example sett](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/sett.png)|

@@ -18,5 +18,3 @@ BBRKRBKWKYKYKRBRBR
 |---------------|
 | [Westwood MacAndreas](/setts/s18/r10b12r4b18r28k10y4k4y4k10w10k10ba46r2k4r2ba10b8-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/)|
 |![Westwood MacAndreas example sett](/setts/s18/r10b12r4b18r28k10y4k4y4k10w10k10ba46r2k4r2ba10b8-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/sett.png)|
-| [Westwood MacAndreas (Fashion)](/setts/s18/r10b12r4b18r28k10y4k4y4k10w10k10ba46r2k4r2ba10b8-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/)|
-|![Westwood MacAndreas (Fashion) example sett](/setts/s18/r10b12r4b18r28k10y4k4y4k10w10k10ba46r2k4r2ba10b8-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3398
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Princess Beatrice Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3398))
+- pre 1980 — Princess Beatrice Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1169/))
+
 ## Thread count
 K/12 DR4 G8 DR8 W80 DB12 W12 DR28 K8 DR8 K8 DR8 K28 G8 K8 G8 K8 G32 Y/12
 ![Sett](sett.png)

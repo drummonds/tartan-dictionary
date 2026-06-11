@@ -1,13 +1,20 @@
 ---
-title: "Lee Cox Personal Tartan Tartan Number: 10205. Earliest known date: 15th Dec. 2009 This tartan combines the basic pattern of the Bell tartan (the designer's wife's maiden name) and the Marshall tartan (the designer's mother's tartan) with an additional pattern representing the designer (red) and his wife (blue), their marriage (white) surrounded by purple happiness. Developed for weaving by House of Tartan See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Lee Cox (Personal)"
 date: 2023-03-18
 ---
 In pattern [BWRBGBKBKBGBKBKGR](/patterns/bwrbgbkbkbgbkbkgr/).
 
 
-This was sourced from house-of-tartan.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10205
+Original link http://www.tartansauthority.com/tartan-ferret/display/10205/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 15th Dec. 2009 — Lee Cox (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10205/))
+- undated — Lee Cox Personal Tartan Tartan Number: 10205. Earliest known date: 15th Dec. 2009 This tartan combines the basic pattern of the Bell tartan (the designer's wife's maiden name) and the Marshall tartan (the designer's mother's tartan) with an additional pattern representing the designer (red) and his wife (blue), their marriage (white) surrounded by purple happiness. Developed for weaving by House of Tartan See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10205))
 
 ## Thread count
 B/6 LN4 R4 P12 G20 B6 K6 B6 K6 B6 G28 B6 K6 B6 K14 G4 R/6

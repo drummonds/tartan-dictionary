@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1831 — Buccleuch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411))
+- 1831 — Buccleuch (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1505/))
+
 ## Thread count
 R/14 G51 R5 P41 R5 K9 R/107
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/14 G51 R5 P41 R5 K9 R/107 tartan")
 
 ID: /setts/s7/r107k9r5b41r5g51r14-b780078-g006818-k000000-rc80000/
-00/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3218
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — O'Connor Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3218))
+- pre 2004 — O'Connor Dress (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6398/))
+
 ## Thread count
 T/4 LR4 LB44 LR20 T/20
 ![Sett](sett.png)

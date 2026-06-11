@@ -1,13 +1,20 @@
 ---
-title: "Calgary, University of (Corporate)"
+title: "Calgary, University of (Estimated Threadcount)"
 date: 2023-03-18
 ---
 In pattern [RKRKRKRKRKRY](/patterns/rkrkrkrkrkry/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4004/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2000 — Calgary, University of (Estimated Threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=478))
+- pre 2002 — Calgary, University of (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4004/))
 
 ## Thread count
 R/16 K2 R2 K10 R2 K2 R16 K2 R2 K60 R2 Y/4

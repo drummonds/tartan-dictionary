@@ -1,13 +1,20 @@
 ---
-title: "Glen Shee #2 (Fashion)"
+title: "Glen Shee"
 date: 2023-03-18
 ---
 In pattern [BGRGRGYG](/patterns/bgrgrgyg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5023/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1397
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1978 — Glen Shee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1397))
+- pre 1978 — Glen Shee #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5023/))
 
 ## Thread count
 P/48 G4 DO4 G4 DO10 G16 LP40 T/8

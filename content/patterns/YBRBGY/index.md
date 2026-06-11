@@ -18,7 +18,5 @@ YBRBGY
 
 | Tartans |
 |---------------|
-| [Inglis](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/)|
-|![Inglis example sett](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/sett.png)|
 | [Inglis (Name)](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/)|
 |![Inglis (Name) example sett](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/sett.png)|

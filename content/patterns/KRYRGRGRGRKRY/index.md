@@ -18,5 +18,3 @@ KRYRGRGRGRKRY
 |---------------|
 | [Bonnie Prince Charlie (Vyella)](/setts/s13/k5r7y23r23g3r11g3r23g18r2k18r5ya5-g285800-k101010-rc80000-ybc8c00-yae8c000/)|
 |![Bonnie Prince Charlie (Vyella) example sett](/setts/s13/k5r7y23r23g3r11g3r23g18r2k18r5ya5-g285800-k101010-rc80000-ybc8c00-yae8c000/sett.png)|
-| [Bonnie Prince Charlie (Fashion)](/setts/s13/k5r7y23r23g3r11g3r23g18r2k18r5ya5-g285800-k101010-rc80000-ybc8c00-yae8c000/)|
-|![Bonnie Prince Charlie (Fashion) example sett](/setts/s13/k5r7y23r23g3r11g3r23g18r2k18r5ya5-g285800-k101010-rc80000-ybc8c00-yae8c000/sett.png)|

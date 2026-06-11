@@ -18,5 +18,3 @@ BWRKBGBRBRWGRWR
 |---------------|
 | [MacFarlane Dress](/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/)|
 |![MacFarlane Dress example sett](/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/sett.png)|
-| [MacFarlane Dress (Clan)](/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/)|
-|![MacFarlane Dress (Clan) example sett](/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/sett.png)|

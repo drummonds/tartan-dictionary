@@ -20,8 +20,6 @@ BRBRBG
 |---------------|
 | [Robbins](/setts/s6/b8r24b8r24b48g8-b1c0070-g006818-r880000/)|
 |![Robbins example sett](/setts/s6/b8r24b8r24b48g8-b1c0070-g006818-r880000/sett.png)|
-| [Robbins (Name)](/setts/s6/b8r24b8r24b48g8-b1c0070-g006818-r880000/)|
-|![Robbins (Name) example sett](/setts/s6/b8r24b8r24b48g8-b1c0070-g006818-r880000/sett.png)|
 | [Robbins](/setts/s6/b4r12b4r12b24g4-b304080-g008000-r900030/)|
 |![Robbins example sett](/setts/s6/b4r12b4r12b24g4-b304080-g008000-r900030/sett.png)|
 | [Royal and Ancient, The](/setts/s6/g98b32r6b4r4b12-b304080-g008000-r806050/)|

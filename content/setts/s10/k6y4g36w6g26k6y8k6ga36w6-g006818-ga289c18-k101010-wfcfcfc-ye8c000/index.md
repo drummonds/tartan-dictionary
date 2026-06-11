@@ -1,13 +1,20 @@
 ---
-title: "Forrester Htg (Clan)"
+title: "Forrester/Foster Hunting"
 date: 2023-03-18
 ---
 In pattern [KYGWGKYKGW](/patterns/kygwgkykgw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2385/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1985 — Forrester/Foster Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234))
+- 1986 — Forrester Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2385/))
 
 ## Thread count
 K/6 Y4 G36 W6 G26 K6 Y8 K6 Ga36 W/6

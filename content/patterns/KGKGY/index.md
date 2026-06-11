@@ -20,8 +20,6 @@ KGKGY
 |---------------|
 | [MacArthur](/setts/s5/k36g12k12g48y8-g006818-k101010-ye8c000/)|
 |![MacArthur example sett](/setts/s5/k36g12k12g48y8-g006818-k101010-ye8c000/sett.png)|
-| [MacArthur (Clan)](/setts/s5/k36g12k12g48y8-g006818-k101010-ye8c000/)|
-|![MacArthur (Clan) example sett](/setts/s5/k36g12k12g48y8-g006818-k101010-ye8c000/sett.png)|
 | [MacArthur](/setts/s5/k32g6k12g30y3-g004c00-k000000-yffff00/)|
 |![MacArthur example sett](/setts/s5/k32g6k12g30y3-g004c00-k000000-yffff00/sett.png)|
 | [MacArthur](/setts/s5/k32g6k12g30y3-g008000-k000000-yf0c000/)|

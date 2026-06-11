@@ -20,8 +20,6 @@ RGBY
 |---------------|
 | [MacLaine of Lochbuie (Coburn)](/setts/s4/r64g16b8y2-b5c8ca8-g285800-rc80000-ye8c000/)|
 |![MacLaine of Lochbuie (Coburn) example sett](/setts/s4/r64g16b8y2-b5c8ca8-g285800-rc80000-ye8c000/sett.png)|
-| [MacLaine of Lochbuie (Clan)](/setts/s4/r64g16b8y2-b5c8ca8-g285800-rc80000-ye8c000/)|
-|![MacLaine of Lochbuie (Clan) example sett](/setts/s4/r64g16b8y2-b5c8ca8-g285800-rc80000-ye8c000/sett.png)|
 | [MacLaine of Lochbuie](/setts/s4/r64g16b8y2-b5480b0-g008000-rc00000-yf0c000/)|
 |![MacLaine of Lochbuie example sett](/setts/s4/r64g16b8y2-b5480b0-g008000-rc00000-yf0c000/sett.png)|
 | [MacLaine of Lochbuie](/setts/s4/r64g16b8y2-b4367ae-g11450d-raa0000-yaaaa00/)|

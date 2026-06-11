@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3430
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2000 — Queensferry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3430))
+- Sep. 2000 — Queensferry (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3138/))
+
 ## Thread count
 DG/12 N4 Na2 DG18 DN4 DG14 DN8 DG8 DN14 DG4 DN40 DR2 DN4 DR2 DRa6 DN6 DR/6
 ![Sett](sett.png)

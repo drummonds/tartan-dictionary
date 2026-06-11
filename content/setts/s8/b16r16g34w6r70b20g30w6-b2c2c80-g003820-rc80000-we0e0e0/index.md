@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7542/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- February 2008 — James of Glencarr (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7542/))
+- undated — James of Glencarr (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5576))
+
 ## Thread count
 DB/16 R16 DG34 LN6 R70 DB20 DG30 LN/6
 ![Sett](sett.png)

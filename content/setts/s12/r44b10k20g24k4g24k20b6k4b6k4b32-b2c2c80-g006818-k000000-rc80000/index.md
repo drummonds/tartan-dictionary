@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4797
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Young Presidents Organisation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4797))
+- c 2000 — Young Presidents Org. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4133/))
+
 ## Thread count
 DBa/32 K4 DBa6 K4 DBa6 K20 G24 K4 G24 K20 DBa10 Ra/44
 ![Sett](sett.png)

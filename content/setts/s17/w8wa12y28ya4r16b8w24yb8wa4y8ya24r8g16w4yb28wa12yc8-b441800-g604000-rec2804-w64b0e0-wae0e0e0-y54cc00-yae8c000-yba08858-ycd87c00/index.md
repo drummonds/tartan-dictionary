@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3911
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Ste-Anne-de-Portneuf (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3911))
+- 2002 — Ste-Anne-de-Portneuf (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5779/))
+
 ## Thread count
 B/8 LN12 G28 Y4 R16 DR8 B24 LT8 LN4 G8 Y24 R8 T16 B4 LT28 LN12 O/8
 ![Sett](sett.png)

@@ -24,8 +24,6 @@ KGKBR
 |![Brotherhood of the Kilt example sett](/setts/s5/k100g40k10b20r10-b7884a8-g505420-k101010-rc80000/sett.png)|
 | [Denholm (Fashion)](/setts/s5/k10g40k36b40r10-b2c2c80-g006818-k000000-rc80000/)|
 |![Denholm (Fashion) example sett](/setts/s5/k10g40k36b40r10-b2c2c80-g006818-k000000-rc80000/sett.png)|
-| [Durham (Fashion)](/setts/s5/k8g16k14b16r8-b2c2c80-g006818-k000000-rc80000/)|
-|![Durham (Fashion) example sett](/setts/s5/k8g16k14b16r8-b2c2c80-g006818-k000000-rc80000/sett.png)|
 | [Denholme](/setts/s5/k4g16k14b16r4-b304080-g008000-k000000-rc00000/)|
 |![Denholme example sett](/setts/s5/k4g16k14b16r4-b304080-g008000-k000000-rc00000/sett.png)|
 | [Denholme Family Tartan Tartan Number: 1084. Earliest known date: Unknown This tartan is remarkably similar to the Durham sett designed by Wilson's of Bannockburn around 1819. The variation in proportions may point to a deliberate modification suggested by the links between the names. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k4g16k14b16r4-b2c2c80-g006818-k101010-rc80000/)|

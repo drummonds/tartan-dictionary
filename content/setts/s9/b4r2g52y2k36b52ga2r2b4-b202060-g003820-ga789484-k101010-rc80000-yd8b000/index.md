@@ -1,13 +1,20 @@
 ---
-title: "Robb (Personal)"
+title: "Robb Hunting (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRGBKYGRB](/patterns/brgbkygrb/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4854
+Original link http://www.tartansauthority.com/tartan-ferret/display/3157/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1994 — Robb Hunting (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3157/))
+- undated — Robb (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4854))
 
 ## Thread count
 DB/4 R2 DG52 Y2 K36 DB52 LG2 R2 DB/4

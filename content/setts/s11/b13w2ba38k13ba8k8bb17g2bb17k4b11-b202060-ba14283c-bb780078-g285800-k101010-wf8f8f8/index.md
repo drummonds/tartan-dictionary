@@ -1,13 +1,20 @@
 ---
-title: "Bute Heather (Fashion)"
+title: "Bute Heather"
 date: 2023-03-18
 ---
 In pattern [BKBGBKBKBWB](/patterns/bkbgbkbkbwb/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6883/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=455
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Bute Heather (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=455))
+- 2004 — Bute Heather (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6883/))
 
 ## Thread count
 DB/11 K4 P17 G2 P17 K8 DN8 K13 DN38 W2 DB/13

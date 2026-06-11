@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BBGWY](/patterns/bbgwy/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6931/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1071
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Edelstein (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1071))
+- pre 2006 — Edelstein (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6931/))
 
 ## Thread count
 P/60 DB60 G60 LN6 Y/6

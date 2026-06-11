@@ -20,5 +20,3 @@ KBRBKBGY
 |---------------|
 | [Montrose of Alabama](/setts/s8/k24b24r8b24k24b22g24y8-b003c64-g006818-k101010-rc80000-ye8c000/)|
 |![Montrose of Alabama example sett](/setts/s8/k24b24r8b24k24b22g24y8-b003c64-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Montrose of Alabama (District)](/setts/s8/k24b24r8b24k24b22g24y8-b003c64-g006818-k101010-rc80000-ye8c000/)|
-|![Montrose of Alabama (District) example sett](/setts/s8/k24b24r8b24k24b22g24y8-b003c64-g006818-k101010-rc80000-ye8c000/sett.png)|

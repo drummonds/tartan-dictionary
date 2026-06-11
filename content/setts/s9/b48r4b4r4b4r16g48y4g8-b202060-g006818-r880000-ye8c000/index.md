@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2228/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1988 — Durie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2228/))
+- 01/01/1994 — Durie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1053))
+
 ## Thread count
 DB/48 DR4 DB4 DR4 DB4 DR16 G48 Y4 G/8
 ![Sett](sett.png)

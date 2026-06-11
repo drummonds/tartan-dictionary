@@ -1,13 +1,20 @@
 ---
-title: "Couper Family Tartan Tartan Number: 74. Earliest known date: 1886 The tartan was originally woven by Messrs Peter MacArthur of Hamilton, for the family of Couper of Gogar. Mr MacArthur said his records went back about 80 years for it, and that it was copied at the time from an old shawl or 'maud', so it is likely to be over 100 years old. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Couper of Gogar"
 date: 2023-03-18
 ---
 In pattern [BWRGBGBKWBWGBKBWBR](/patterns/bwrgbgbkwbwgbkbwbr/).
 
 
-This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=74
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=778
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1886 — Couper of Gogar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=778))
+- undated — Couper Family Tartan Tartan Number: 74. Earliest known date: 1886 The tartan was originally woven by Messrs Peter MacArthur of Hamilton, for the family of Couper of Gogar. Mr MacArthur said his records went back about 80 years for it, and that it was copied at the time from an old shawl or 'maud', so it is likely to be over 100 years old. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=74))
 
 ## Thread count
 DB/4 LP8 R4 G48 DB8 G4 DB8 K20 LP8 DB4 LP8 G16 DB2 K2 DB44 LP8 DB4 R/4

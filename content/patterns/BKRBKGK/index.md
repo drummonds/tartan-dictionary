@@ -20,7 +20,5 @@ BKRBKGK
 |---------------|
 | [Reid and Taylor](/setts/s7/b4k2r2b18k18g20k4-b2c2c80-g006818-k101010-rc80000/)|
 |![Reid and Taylor example sett](/setts/s7/b4k2r2b18k18g20k4-b2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Reid & Taylor (Corporate)](/setts/s7/b4k2r2b18k18g20k4-b2c2c80-g006818-k101010-rc80000/)|
-|![Reid & Taylor (Corporate) example sett](/setts/s7/b4k2r2b18k18g20k4-b2c2c80-g006818-k101010-rc80000/sett.png)|
 | [Reid Taylor, "House Check"](/setts/s7/b4k2r2b18k18g20k4-b304080-g008000-k000000-rc00000/)|
 |![Reid Taylor, "House Check" example sett](/setts/s7/b4k2r2b18k18g20k4-b304080-g008000-k000000-rc00000/sett.png)|

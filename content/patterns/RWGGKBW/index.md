@@ -18,8 +18,6 @@ RWGGKBW
 
 | Tartans |
 |---------------|
-| [Jones](/setts/s7/r8w2g12ga50k16b30w4-b2c2c80-g5c6428-ga006818-k101010-rc80000-wc0c0c0/)|
-|![Jones example sett](/setts/s7/r8w2g12ga50k16b30w4-b2c2c80-g5c6428-ga006818-k101010-rc80000-wc0c0c0/sett.png)|
 | [Jones (Name)](/setts/s7/r8w2g12ga50k16b30w4-b2c2c80-g5c6428-ga006818-k101010-rc80000-wc0c0c0/)|
 |![Jones (Name) example sett](/setts/s7/r8w2g12ga50k16b30w4-b2c2c80-g5c6428-ga006818-k101010-rc80000-wc0c0c0/sett.png)|
 | [Jones, The](/setts/s7/r6w4g20ga74k24b42w4-b000050-g505020-ga004010-k000000-rc00000-we0e0e0/)|

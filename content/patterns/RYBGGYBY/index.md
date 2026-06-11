@@ -20,5 +20,3 @@ RYBGGYBY
 |---------------|
 | [Goddin mab Gododdin (Personal)](/setts/s8/r8y6b48g52ga6y42ba4y8-b1c1c1c-ba780078-g604000-ga006818-ra00000-ya08858/)|
 |![Goddin mab Gododdin (Personal) example sett](/setts/s8/r8y6b48g52ga6y42ba4y8-b1c1c1c-ba780078-g604000-ga006818-ra00000-ya08858/sett.png)|
-| [Goddin mab Gododdin (Personal)](/setts/s8/r8y6b48g52ga6y42ba4y8-b1c1c1c-ba780078-g604000-ga006818-ra00000-ya08858/)|
-|![Goddin mab Gododdin (Personal) example sett](/setts/s8/r8y6b48g52ga6y42ba4y8-b1c1c1c-ba780078-g604000-ga006818-ra00000-ya08858/sett.png)|

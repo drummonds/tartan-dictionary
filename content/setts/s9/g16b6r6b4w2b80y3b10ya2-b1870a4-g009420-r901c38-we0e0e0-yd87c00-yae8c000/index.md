@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1644
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Heart of Strathearn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1644))
+- 2005 — Heart of Strathearn (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6844/))
+
 ## Thread count
 Ga/16 B6 DR6 B4 LN2 B80 O3 B10 Ya/2
 ![Sett](sett.png)

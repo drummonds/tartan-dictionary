@@ -20,8 +20,6 @@ RKGKBY
 |---------------|
 | [MacLeod of Assynt](/setts/s6/r6k4g40k20b40y4-b1474b4-g006818-k101010-rc80000-ye8c000/)|
 |![MacLeod of Assynt example sett](/setts/s6/r6k4g40k20b40y4-b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [MacLeod of Assynt (Clan)](/setts/s6/r6k4g40k20b40y4-b1474b4-g006818-k101010-rc80000-ye8c000/)|
-|![MacLeod of Assynt (Clan) example sett](/setts/s6/r6k4g40k20b40y4-b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
 | [Widows Sons Scotland (MRA)](/setts/s6/r9k16g10k22b67y4-b780078-g003820-k101010-r888888-ye8c000/)|
 |![Widows Sons Scotland (MRA) example sett](/setts/s6/r9k16g10k22b67y4-b780078-g003820-k101010-r888888-ye8c000/sett.png)|
 | [MacLeod of Assynt](/setts/s6/r6k4g30k20b40y4-b304080-g008000-k000000-rc00000-yf0c000/)|

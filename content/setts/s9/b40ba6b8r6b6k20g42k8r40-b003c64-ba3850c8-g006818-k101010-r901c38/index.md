@@ -1,13 +1,20 @@
 ---
-title: "Holland & Sherry"
+title: "Holland & Sherry (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BBBRBKGKR](/patterns/bbbrbkgkr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5706
+Original link http://www.tartansauthority.com/tartan-ferret/display/7720/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- August 2008 — Holland & Sherry (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7720/))
+- undated — Holland & Sherry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5706))
 
 ## Thread count
 DB/40 B6 DB8 DR6 DB6 K20 G42 K8 DR/40
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s9/b40ba6b8r6b6k20g42k8r40-b003c64-ba3850c8-g006818-k101010-r901c38/
-901c38/

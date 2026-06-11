@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2918
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Mensah (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2918))
+- 2003 — Mensah (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6216/))
+
 ## Thread count
 G/4 R74 K30 Y4 K2 DB18 G18 Y/6
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/4 R74 K30 Y4 K2 DB18 G18 Y/6 tartan")
 
 ID: /setts/s8/y6g18b18k2y4k30r74g4-b2c2c80-g006818-k101010-rc80000-ye8c000/
-e8c000/

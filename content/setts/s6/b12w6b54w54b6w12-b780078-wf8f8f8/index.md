@@ -1,13 +1,20 @@
 ---
-title: "Erskine, Purple (Dance)"
+title: "Erskine Purple (Dance)"
 date: 2023-03-18
 ---
 In pattern [BWBWBW](/patterns/bwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6534/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Erskine Purple (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1128))
+- 1980 — Erskine, Purple (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6534/))
 
 ## Thread count
 P/12 W6 P54 W54 P6 W/12

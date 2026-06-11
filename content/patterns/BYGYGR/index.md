@@ -26,5 +26,3 @@ BYGYGR
 |![Balfour Hunting example sett](/setts/s6/b60y6g22y6ga66r12-b1870a4-g604000-ga006818-rc80000-ye8c000/sett.png)|
 | [Balfour (Clan)](/setts/s6/b72y8g24y8g76r12-b2c2c80-g604000-rc80000-ye8c000/)|
 |![Balfour (Clan) example sett](/setts/s6/b72y8g24y8g76r12-b2c2c80-g604000-rc80000-ye8c000/sett.png)|
-| [Balfour Hunting Family Tartan Tartan Number: 684. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b36y4g12y4g38r6-b2c2c80-g604000-rc80000-ye8c000/)|
-|![Balfour Hunting Family Tartan Tartan Number: 684. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b36y4g12y4g38r6-b2c2c80-g604000-rc80000-ye8c000/sett.png)|

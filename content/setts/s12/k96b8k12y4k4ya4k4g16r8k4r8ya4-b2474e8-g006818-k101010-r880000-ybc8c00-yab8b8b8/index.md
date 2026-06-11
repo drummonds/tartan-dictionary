@@ -1,13 +1,20 @@
 ---
-title: "Stewart, Black (Clan)"
+title: "Stewart/Stuart (Black)"
 date: 2023-03-18
 ---
 In pattern [KBKYKYKGRKRY](/patterns/kbkykykgrkry/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1061/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3943
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1960 — Stewart/Stuart (Black) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3943))
+- pre 1960 — Stewart, Black (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1061/))
 
 ## Thread count
 K/96 B8 K12 DY4 K4 N4 K4 G16 DR8 K4 DR8 N/4
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.17 |
 
 ID: /setts/s12/k96b8k12y4k4ya4k4g16r8k4r8ya4-b2474e8-g006818-k101010-r880000-ybc8c00-yab8b8b8/
-8b8/

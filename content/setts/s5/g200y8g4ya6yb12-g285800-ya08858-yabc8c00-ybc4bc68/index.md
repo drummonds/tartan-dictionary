@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2024
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Lagrande (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2024))
+- pre 1972 — Lagrande (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5376/))
+
 ## Thread count
 G/200 LT8 G4 DY6 LG/12
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/200 LT8 G4 DY6 LG/12 tartan")
 
 ID: /setts/s5/g200y8g4ya6yb12-g285800-ya08858-yabc8c00-ybc4bc68/
-bc68/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2587
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacLachlan Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2587))
+- pre 2002 — MacLachlan Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/828/))
+
 ## Thread count
 DR/72 W6 DY8 G48 W48 K6 DY/12
 ![Sett](sett.png)

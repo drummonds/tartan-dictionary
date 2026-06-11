@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1534
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 12/12/2000 — Greig (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1534))
+- 2000 — Greig (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4076/))
+
 ## Thread count
 DG/40 R20 DG40 LN6 K4 R/120
 ![Sett](sett.png)

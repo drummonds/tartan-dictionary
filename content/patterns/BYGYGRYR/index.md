@@ -20,5 +20,3 @@ BYGYGRYR
 |---------------|
 | [Alegre-Wood (Personal)](/setts/s8/r160y4r12g24ya2g2ya4b4-b1870a4-g604000-r880000-yd87c00-yabc8c00/)|
 |![Alegre-Wood (Personal) example sett](/setts/s8/r160y4r12g24ya2g2ya4b4-b1870a4-g604000-r880000-yd87c00-yabc8c00/sett.png)|
-| [Alegre-Wood (Personal)](/setts/s8/r160y4r12g24ya2g2ya4b4-b1870a4-g604000-r880000-yd87c00-yabc8c00/)|
-|![Alegre-Wood (Personal) example sett](/setts/s8/r160y4r12g24ya2g2ya4b4-b1870a4-g604000-r880000-yd87c00-yabc8c00/sett.png)|

@@ -18,5 +18,3 @@ BBBBBBBBRYBYR
 |---------------|
 | [Kinnaird (1984)](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/)|
 |![Kinnaird (1984) example sett](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/sett.png)|
-| [Kinnaird - 1984 (Fashion)](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/)|
-|![Kinnaird - 1984 (Fashion) example sett](/setts/s13/b68ba12b8ba4b4ba4b4ba4r12y8b4y8ra4-b441800-ba4c3428-r800028-rae87878-ybc8c00/sett.png)|

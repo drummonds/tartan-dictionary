@@ -20,5 +20,3 @@ BWKBW
 |---------------|
 | [Furman University](/setts/s5/b4w28k30b28w4-b880088-k101010-wfcfcfc/)|
 |![Furman University example sett](/setts/s5/b4w28k30b28w4-b880088-k101010-wfcfcfc/sett.png)|
-| [Furman University (Corporate)](/setts/s5/b4w28k30b28w4-b880088-k101010-wfcfcfc/)|
-|![Furman University (Corporate) example sett](/setts/s5/b4w28k30b28w4-b880088-k101010-wfcfcfc/sett.png)|

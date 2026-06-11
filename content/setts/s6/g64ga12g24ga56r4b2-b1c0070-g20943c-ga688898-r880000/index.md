@@ -1,13 +1,20 @@
 ---
-title: "Palm Beach Gardens Police (Corporate"
+title: "Palm Beach Gardens Police"
 date: 2023-03-18
 ---
 In pattern [BRGGGG](/patterns/brgggg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5521/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3286
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1994 — Palm Beach Gardens Police (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3286))
+- 1994 — Palm Beach Gardens Police (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5521/))
 
 ## Thread count
 DB/2 DR4 B56 G24 B12 G/64

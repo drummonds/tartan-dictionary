@@ -1,13 +1,20 @@
 ---
-title: "Brown, George (Commemorative)"
+title: "Brown, George"
 date: 2023-03-18
 ---
 In pattern [WRKRGRKGY](/patterns/wrkrgrkgy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1853/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Brown, George (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395))
+- pre 2002 — Brown, George (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1853/))
 
 ## Thread count
 W/6 R6 K8 R12 G44 R8 K36 G48 Y/6

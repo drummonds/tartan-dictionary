@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=591
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1978 — Caskie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=591))
+- pre 1978 — Caskie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5894/))
+
 ## Thread count
 LN/6 K2 B50 R14 G24 K2 Y/6
 ![Sett](sett.png)
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/6 K2 B50 R14 G24 K2 Y/6 tartan")
 
 ID: /setts/s7/w6k2b50r14g24k2y6-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/
-00/

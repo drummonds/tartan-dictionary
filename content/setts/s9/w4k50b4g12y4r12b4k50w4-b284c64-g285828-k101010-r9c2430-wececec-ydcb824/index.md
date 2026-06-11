@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3972
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2007 — Stott (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3972))
+- 2007 — Stott (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7112/))
+- undated — Stott Personal Tartan Tartan Number: 7112. Earliest known date: 2007 The design includes the white Cross of St Piran, the Cornish flag which has connections with the family name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7112))
+
 ## Thread count
 W/4 K50 B4 DR12 Ya4 G12 B4 K50 W/4
 ![Sett](sett.png)
@@ -29,8 +37,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#ECECEC;"><span style="color:#ECECEC;filter:grayscale(1) invert(1) contrast(100);">#ECECEC</span></code> `#ECECEC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.02 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 | Ya | <code style="background-color:#DCB824;"><span style="color:#DCB824;filter:grayscale(1) invert(1) contrast(100);">#DCB824</span></code> `#DCB824` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.03 |
-
-ID: /setts/s9/w4k50b4g12y4r12b4k50w4-b284c64-g285828-k101010-r9c2430-wececec-ydcb824/
-DCB824` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.03 |
 
 ID: /setts/s9/w4k50b4g12y4r12b4k50w4-b284c64-g285828-k101010-r9c2430-wececec-ydcb824/

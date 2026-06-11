@@ -18,9 +18,5 @@ KRGRGRYRW
 |---------------|
 | [Melieres, Michel (Personal)](/setts/s9/k4r2g16r6g6r28y2r2w4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
 |![Melieres, Michel (Personal) example sett](/setts/s9/k4r2g16r6g6r28y2r2w4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Melieres, Michel (Personal)](/setts/s9/k4r2g16r6g6r28y2r2w4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Melieres, Michel (Personal) example sett](/setts/s9/k4r2g16r6g6r28y2r2w4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
 | [Melieres Michel..](/setts/s9/k4r2g16r6g6r28y2r2w4-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
 |![Melieres Michel.. example sett](/setts/s9/k4r2g16r6g6r28y2r2w4-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
-| [Melieres Michel.. Tartan Tartan Number: 1168. Earliest known date: 1966 tba See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k4r2g16r6g6r28y2r2w4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Melieres Michel.. Tartan Tartan Number: 1168. Earliest known date: 1966 tba See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/k4r2g16r6g6r28y2r2w4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

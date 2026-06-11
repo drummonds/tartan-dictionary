@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4642
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Wilson's No.001 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4642))
+- 01/01/1819 — Harden (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5420))
+
 ## Thread count
 K/4 R28 B16 K18 Y2 K4 W4 K4 G20 R30 K8 R24 W4 R24 K8 R30 G20 K4 W4 K4 Y2 K18 B16 R/28
 ![Sett](sett.png)

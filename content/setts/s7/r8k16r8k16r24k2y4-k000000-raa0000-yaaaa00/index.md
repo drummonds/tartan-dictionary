@@ -1,5 +1,5 @@
 ---
-title: "MacKeane"
+title: "MacIain"
 date: 2023-03-18
 ---
 In pattern [RKRKRKY](/patterns/rkrkrky/).
@@ -7,7 +7,16 @@ In pattern [RKRKRKY](/patterns/rkrkrky/).
 
 This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 4 source records; the oldest owns this page.
+
+- undated — MacIain (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacKeane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacIain (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+- undated — MacKeane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/8 K16 DR8 K16 DR24 K2 LG/4

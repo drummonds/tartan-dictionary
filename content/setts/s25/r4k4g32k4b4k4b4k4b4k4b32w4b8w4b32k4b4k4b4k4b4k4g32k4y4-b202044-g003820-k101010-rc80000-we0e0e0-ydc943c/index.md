@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [25 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3475
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/1998 — Recovery Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3475))
+- 1998 — Recovery Htg (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2440/))
+
 ## Thread count
 O/4 K4 DG32 K4 DB4 K4 DB4 K4 DB4 K4 DB32 LN4 DB8 LN4 DB32 K4 DB4 K4 DB4 K4 DB4 K4 DG32 K4 R/4
 ![Sett](sett.png)

@@ -20,5 +20,3 @@ GYGYGRGR
 |---------------|
 | [Oakwood](/setts/s8/g52y8g8y8g16r40ga8r8-g004c00-ga48783c-rc83000-yc89800/)|
 |![Oakwood example sett](/setts/s8/g52y8g8y8g16r40ga8r8-g004c00-ga48783c-rc83000-yc89800/sett.png)|
-| [Oakwood (Fashion)](/setts/s8/g52y8g8y8g16r40ga8r8-g004c00-ga48783c-rc83000-yc89800/)|
-|![Oakwood (Fashion) example sett](/setts/s8/g52y8g8y8g16r40ga8r8-g004c00-ga48783c-rc83000-yc89800/sett.png)|

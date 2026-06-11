@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KGKGKRKWKRKGKGKRKR](/patterns/kgkgkrkwkrkgkgkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5924/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=615
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Chapman (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=615))
+- pre 2003 — Chapman (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5924/))
 
 ## Thread count
 K/72 G4 K4 G4 K36 LP36 K6 W6 K6 LP36 K36 G4 K4 G4 K36 LP36 K6 R/6

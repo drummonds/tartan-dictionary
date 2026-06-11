@@ -20,5 +20,3 @@ BRGBRBR
 |---------------|
 | [Robertson of Struan 1816](/setts/s7/r12b4r4b44g40r8b8-b202060-g006818-rc80000/)|
 |![Robertson of Struan 1816 example sett](/setts/s7/r12b4r4b44g40r8b8-b202060-g006818-rc80000/sett.png)|
-| [Robertson of Struan - 1816 (Clan)](/setts/s7/r12b4r4b44g40r8b8-b202060-g006818-rc80000/)|
-|![Robertson of Struan - 1816 (Clan) example sett](/setts/s7/r12b4r4b44g40r8b8-b202060-g006818-rc80000/sett.png)|

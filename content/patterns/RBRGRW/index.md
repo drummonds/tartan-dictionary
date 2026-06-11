@@ -22,10 +22,6 @@ RBRGRW
 |![Fraser (1745) example sett](/setts/s6/r4b24r4g24r48w2-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
 | [Grant of Lurg](/setts/s6/r4b20r4g20r50w4-b2c2c80-g006818-rc80000-wf8f8f8/)|
 |![Grant of Lurg example sett](/setts/s6/r4b20r4g20r50w4-b2c2c80-g006818-rc80000-wf8f8f8/sett.png)|
-| [Grant of Lurg (Clan)](/setts/s6/r4b20r4g20r50w4-b2c2c80-g006818-rc80000-wf8f8f8/)|
-|![Grant of Lurg (Clan) example sett](/setts/s6/r4b20r4g20r50w4-b2c2c80-g006818-rc80000-wf8f8f8/sett.png)|
-| [Fraser - 1842 (Clan)](/setts/s6/r4b24r4g24r48w2-b2c2c80-g006818-rc80000-wfcfcfc/)|
-|![Fraser - 1842 (Clan) example sett](/setts/s6/r4b24r4g24r48w2-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
 | [Fraser VS](/setts/s6/r1b6r1g6r12w1-b000064-g004c00-rc80000-wd0d0d0/)|
 |![Fraser VS example sett](/setts/s6/r1b6r1g6r12w1-b000064-g004c00-rc80000-wd0d0d0/sett.png)|
 | [Fraser](/setts/s6/r4b24r4g24r48w2-b000050-g003000-rc00000-we0e0e0/)|

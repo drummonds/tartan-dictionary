@@ -20,5 +20,3 @@ GYRGYGR
 |---------------|
 | [Spice Apple](/setts/s7/g16y4r88g48y16g16r16-g006818-rc80000-yd09800/)|
 |![Spice Apple example sett](/setts/s7/g16y4r88g48y16g16r16-g006818-rc80000-yd09800/sett.png)|
-| [Spice Apple (Fashion)](/setts/s7/g16y4r88g48y16g16r16-g006818-rc80000-yd09800/)|
-|![Spice Apple (Fashion) example sett](/setts/s7/g16y4r88g48y16g16r16-g006818-rc80000-yd09800/sett.png)|

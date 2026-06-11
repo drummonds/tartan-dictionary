@@ -18,5 +18,3 @@ BGBGBGKGKGBGB
 |---------------|
 | [Montmorency](/setts/s13/b42g4b6g4b4g28k30g8k30g28b28g4b6-b2c2c80-g006818-k101010/)|
 |![Montmorency example sett](/setts/s13/b42g4b6g4b4g28k30g8k30g28b28g4b6-b2c2c80-g006818-k101010/sett.png)|
-| [Montmorency (Fashion)](/setts/s13/b42g4b6g4b4g28k30g8k30g28b28g4b6-b2c2c80-g006818-k101010/)|
-|![Montmorency (Fashion) example sett](/setts/s13/b42g4b6g4b4g28k30g8k30g28b28g4b6-b2c2c80-g006818-k101010/sett.png)|

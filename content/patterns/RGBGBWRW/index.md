@@ -20,5 +20,3 @@ RGBGBWRW
 |---------------|
 | [Albuquerque, City of](/setts/s8/r4g24b4g16b36w6r4w4-b2c2c80-g006818-rc80000-wf8f8f8/)|
 |![Albuquerque, City of example sett](/setts/s8/r4g24b4g16b36w6r4w4-b2c2c80-g006818-rc80000-wf8f8f8/sett.png)|
-| [Albuquerque, City of (District)](/setts/s8/r4g24b4g16b36w6r4w4-b2c2c80-g006818-rc80000-wf8f8f8/)|
-|![Albuquerque, City of (District) example sett](/setts/s8/r4g24b4g16b36w6r4w4-b2c2c80-g006818-rc80000-wf8f8f8/sett.png)|

@@ -1,13 +1,21 @@
 ---
-title: "St. Piran Dress (District)"
+title: "St. Piran Dress"
 date: 2023-03-18
 ---
 In pattern [RWGWGWKW](/patterns/rwgwgwkw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1685/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1985 — St. Piran Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904))
+- pre 1985 — St. Piran Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1685/))
+- undated — St Piran Dress District Tartan Tartan Number: 1685. Earliest known date: 1984 Padstow, Cornwall See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1685))
 
 ## Thread count
 LN/8 K76 LN16 DG4 LN16 DG4 LN38 R/8

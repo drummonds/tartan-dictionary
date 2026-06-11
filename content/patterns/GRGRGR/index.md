@@ -26,10 +26,6 @@ GRGRGR
 |![MacQuarrie #5 example sett](/setts/s6/r64g4r4g4r16g48-g006818-rc80000/sett.png)|
 | [Unidentified NW Highlands](/setts/s6/g4r4g30r32g4r4-g005020-rdc0000/)|
 |![Unidentified NW Highlands example sett](/setts/s6/g4r4g30r32g4r4-g005020-rdc0000/sett.png)|
-| [Erskine (Clan)](/setts/s6/g12r2g48r56g2r8-g00643c-rc80000/)|
-|![Erskine (Clan) example sett](/setts/s6/g12r2g48r56g2r8-g00643c-rc80000/sett.png)|
-| [MacQuarrie - 1886 (Clan)](/setts/s6/r64g4r4g4r16g48-g006818-rc80000/)|
-|![MacQuarrie - 1886 (Clan) example sett](/setts/s6/r64g4r4g4r16g48-g006818-rc80000/sett.png)|
 | [Confederate Artillery (Military)](/setts/s6/g4r28g16r6g24ra4-g006818-ra0783c-ra8c0000/)|
 |![Confederate Artillery (Military) example sett](/setts/s6/g4r28g16r6g24ra4-g006818-ra0783c-ra8c0000/sett.png)|
 | [Erskine](/setts/s6/g12r2g48r56g2r8-g004c00-rc80000/)|
@@ -46,10 +42,6 @@ GRGRGR
 |![MacQuarrie 7 example sett](/setts/s6/r32g2r2g2r8g24-g004010-rc00000/sett.png)|
 | [Unidentified, NW Highlands](/setts/s6/g4r4g30r32g4r4-g008000-rc00000/)|
 |![Unidentified, NW Highlands example sett](/setts/s6/g4r4g30r32g4r4-g008000-rc00000/sett.png)|
-| [Erskine](/setts/s6/g12r2g48r56g2r8-g11450d-raa0000/)|
-|![Erskine example sett](/setts/s6/g12r2g48r56g2r8-g11450d-raa0000/sett.png)|
-| [MacQuarie](/setts/s6/r32g2r2g2r8g24-g11450d-raa0000/)|
-|![MacQuarie example sett](/setts/s6/r32g2r2g2r8g24-g11450d-raa0000/sett.png)|
 | [Erskine](/setts/s6/g12r2g48r56g2r8-g11450d-raa0000/)|
 |![Erskine example sett](/setts/s6/g12r2g48r56g2r8-g11450d-raa0000/sett.png)|
 | [MacQuarie](/setts/s6/r32g2r2g2r8g24-g11450d-raa0000/)|

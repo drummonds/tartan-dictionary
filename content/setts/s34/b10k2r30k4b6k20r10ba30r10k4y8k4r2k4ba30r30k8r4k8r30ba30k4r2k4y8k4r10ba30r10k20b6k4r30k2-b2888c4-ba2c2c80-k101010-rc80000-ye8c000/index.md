@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [34 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6353/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Grand Lodge of Canada (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6353/))
+- undated — Grand Lodge of Canada (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4892))
+
 ## Thread count
 B/10 K2 R30 K4 B6 K20 R10 DB30 R10 K4 Y8 K4 R2 K4 DB30 R30 K8 R4 K8 R30 DB30 K4 R2 K4 Y8 K4 R10 DB30 R10 K20 B6 K4 R30 K/2
 ![Sett](sett.png)

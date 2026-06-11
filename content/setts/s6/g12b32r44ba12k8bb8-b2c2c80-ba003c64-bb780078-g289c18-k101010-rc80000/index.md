@@ -1,13 +1,20 @@
 ---
-title: "Nicolson of Tiree & Coll"
+title: "Nicolson of Tiree & Coll (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKBRBG](/patterns/bkbrbg/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5817
+Original link http://www.tartansauthority.com/tartan-ferret/display/7870/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2009 — Nicolson of Tiree & Coll (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7870/))
+- undated — Nicolson of Tiree & Coll (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5817))
 
 ## Thread count
 G/12 DB32 R44 DBa12 K8 P/8

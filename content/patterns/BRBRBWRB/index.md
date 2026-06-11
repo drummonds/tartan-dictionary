@@ -20,8 +20,6 @@ BRBRBWRB
 |---------------|
 | [Embrace, The](/setts/s8/b20r48b8r6b48w4r12b12-b000088-r8c0000-wfcfcfc/)|
 |![Embrace, The example sett](/setts/s8/b20r48b8r6b48w4r12b12-b000088-r8c0000-wfcfcfc/sett.png)|
-| [Embrace (Fashion)](/setts/s8/b20r48b8r6b48w4r12b12-b000088-r8c0000-wfcfcfc/)|
-|![Embrace (Fashion) example sett](/setts/s8/b20r48b8r6b48w4r12b12-b000088-r8c0000-wfcfcfc/sett.png)|
 | [Orkney Slate (Corporate)](/setts/s8/b8r74w8b42r11ba2r16b4-b5c5c5c-ba780078-r888888-wc0c0c0/)|
 |![Orkney Slate (Corporate) example sett](/setts/s8/b8r74w8b42r11ba2r16b4-b5c5c5c-ba780078-r888888-wc0c0c0/sett.png)|
 | [Orkney Slate (Fashion)](/setts/s8/b8r74w8b42r11ba2r16b4-b5c5c5c-ba440044-r888888-wc0c0c0/)|

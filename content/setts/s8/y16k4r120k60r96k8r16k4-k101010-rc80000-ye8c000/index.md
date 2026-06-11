@@ -1,13 +1,20 @@
 ---
-title: "Oilmens Corporate Tartan Tartan Number: 2044. Earliest known date: pre 1992 Genuinely asymmetrical design by Don Barkwell. No further details. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Oilmens (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KRKRKRKY](/patterns/krkrkrky/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2044
+Original link http://www.tartansauthority.com/tartan-ferret/display/3843/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Oilmens (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3843/))
+- undated — Oilmens Corporate Tartan Tartan Number: 2044. Earliest known date: pre 1992 Genuinely asymmetrical design by Don Barkwell. No further details. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2044))
 
 ## Thread count
 K/4 R16 K8 R96 K60 R120 K4 Y/16

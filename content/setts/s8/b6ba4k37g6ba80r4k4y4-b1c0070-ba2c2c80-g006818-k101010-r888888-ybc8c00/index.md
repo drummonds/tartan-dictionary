@@ -1,13 +1,20 @@
 ---
-title: "Law Enforcement Officers' Mem. (Cor"
+title: "Law Enforcement Officers' Memorial"
 date: 2023-03-18
 ---
 In pattern [BBKGBRKY](/patterns/bbkgbrky/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7460/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5506
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2007 — Law Enforcement Officers' Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5506))
+- Dec. 2007 — Law Enforcement Officers' Mem. (Cor (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7460/))
 
 ## Thread count
 DBa/6 DB4 K37 G6 DB80 N4 K4 DY/4

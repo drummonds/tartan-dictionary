@@ -1,13 +1,20 @@
 ---
-title: "Lewis Magenta"
+title: "Lewis, Magenta (Dance)"
 date: 2023-03-18
 ---
 In pattern [WRWY](/patterns/wrwy/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5603
+Original link http://www.tartansauthority.com/tartan-ferret/display/7579/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Lewis, Magenta (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7579/))
+- undated — Lewis Magenta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5603))
 
 ## Thread count
 B/8 W70 R62 W/8
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/8 W70 R62 W/8 tartan")
 
 ID: /setts/s4/w8r62w70y8-rb80478-wf0e0c8-y54b8b8/
-8b8/

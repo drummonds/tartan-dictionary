@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4605
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1820 — West Virginia Old Shawl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4605))
+- 1820 — West Virginia Old Shawl (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4252/))
+
 ## Thread count
 Y/4 G4 DB8 R8 G8 R48 B8 G4 R8 G4 Y/4
 ![Sett](sett.png)

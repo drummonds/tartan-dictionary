@@ -22,8 +22,6 @@ BWKGRG
 |![MacFadzean example sett](/setts/s6/b96w4k40g44r6g8-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
 | [Paterson Blue (Personal)](/setts/s6/b44w4k20g22r6g8-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
 |![Paterson Blue (Personal) example sett](/setts/s6/b44w4k20g22r6g8-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Patterson, John (Blue) (Personal)](/setts/s6/b44w4k20g22r6g8-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Patterson, John (Blue) (Personal) example sett](/setts/s6/b44w4k20g22r6g8-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [MacFadzean](/setts/s6/b96w4k40g44r6g8-b304080-g008000-k000000-rc00000-we0e0e0/)|
 |![MacFadzean example sett](/setts/s6/b96w4k40g44r6g8-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
 | [Patterson (blue)](/setts/s6/b44w4k20g22r6g8-b304080-g008000-k000000-rc00000-we0e0e0/)|

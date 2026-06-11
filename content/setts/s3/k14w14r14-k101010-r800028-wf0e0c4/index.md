@@ -1,13 +1,20 @@
 ---
-title: "Dacre (Estate Check)"
+title: "Dacre Estate Check"
 date: 2023-03-18
 ---
 In pattern [KWR](/patterns/kwr/).
 
 
-This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7330/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=862
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1868 — Dacre Estate Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=862))
+- pre 1868 — Dacre (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7330/))
 
 ## Thread count
 DR/14 W14 K/14

@@ -1,13 +1,20 @@
 ---
-title: "Menzies 1819 - Wilsons"
+title: "Menzies #2"
 date: 2023-03-18
 ---
 In pattern [RGWYR](/patterns/rgwyr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1440/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2921
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Menzies #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2921))
+- 1819 — Menzies 1819 - Wilsons (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1440/))
 
 ## Thread count
 R/38 B12 W4 G34 R/44

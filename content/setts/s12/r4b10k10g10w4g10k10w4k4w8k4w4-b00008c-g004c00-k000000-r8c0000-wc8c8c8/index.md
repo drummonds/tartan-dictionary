@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=895
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1978 — Davidson of Tulloch Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=895))
+- pre 1978 — Davidson of Tulloch Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4194/))
+
 ## Thread count
 DR/4 DB10 K10 G10 N4 G10 K10 N4 K4 N8 K4 N/4
 ![Sett](sett.png)

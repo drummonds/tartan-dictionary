@@ -20,10 +20,6 @@ BRBRWRBR
 |---------------|
 | [Edinburgh Marketing](/setts/s8/b24r4b4r8w4r8b4r12-b1c0070-rc80000-wfcfcfc/)|
 |![Edinburgh Marketing example sett](/setts/s8/b24r4b4r8w4r8b4r12-b1c0070-rc80000-wfcfcfc/sett.png)|
-| [Edinburgh TIC](/setts/s8/b64r6b6r8w6r10b8r14-b2c2c80-rc8002c-we0e0e0/)|
-|![Edinburgh TIC example sett](/setts/s8/b64r6b6r8w6r10b8r14-b2c2c80-rc8002c-we0e0e0/sett.png)|
-| [Edinburgh Marketing (Corporate)](/setts/s8/b24r4b4r8w4r8b4r12-b1c0070-rc80000-wfcfcfc/)|
-|![Edinburgh Marketing (Corporate) example sett](/setts/s8/b24r4b4r8w4r8b4r12-b1c0070-rc80000-wfcfcfc/sett.png)|
 | [Edinburgh TIC (Corporate)](/setts/s8/b64r6b6r8w6r10b8r14-b2c2c80-rc8002c-we0e0e0/)|
 |![Edinburgh TIC (Corporate) example sett](/setts/s8/b64r6b6r8w6r10b8r14-b2c2c80-rc8002c-we0e0e0/sett.png)|
 | [Edinburgh Marketing](/setts/s8/b38r6b6r9w5r12b8r16-b000050-rc00000-we0e0e0/)|

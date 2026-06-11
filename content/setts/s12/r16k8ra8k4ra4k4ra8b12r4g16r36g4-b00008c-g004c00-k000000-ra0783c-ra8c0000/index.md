@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5000
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — California Firefighters (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5000))
+- 1995 — California Firefighters (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3787/))
+
 ## Thread count
 G/4 LT36 G16 LT4 DB12 DR8 K4 DR4 K4 DR8 K8 LT/16
 ![Sett](sett.png)

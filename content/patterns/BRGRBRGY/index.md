@@ -20,5 +20,3 @@ BRGRBRGY
 |---------------|
 | [Prince George's Police Pipe Band](/setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/)|
 |![Prince George's Police Pipe Band example sett](/setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/sett.png)|
-| [Prince George's Police (Corporate)](/setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/)|
-|![Prince George's Police (Corporate) example sett](/setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/sett.png)|

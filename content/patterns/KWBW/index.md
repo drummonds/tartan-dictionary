@@ -20,5 +20,3 @@ KWBW
 |---------------|
 | [Hogg](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/)|
 |![Hogg example sett](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/sett.png)|
-| [Hogg (Clan)](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/)|
-|![Hogg (Clan) example sett](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/sett.png)|

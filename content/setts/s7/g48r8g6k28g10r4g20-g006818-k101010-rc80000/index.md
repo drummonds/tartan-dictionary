@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3159
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1992 — Northcroft (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3159))
+- 1998 — Northcroft (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2459/))
+
 ## Thread count
 G/20 R4 G10 K28 G6 R8 G/48
 ![Sett](sett.png)

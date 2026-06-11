@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1924
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1977 — K9 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1924))
+- pre 1977 — K9 (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7187/))
+
 ## Thread count
 R/80 K4 LN2 LT80 K6 LN4 K6 R10 DB44 R6 LN2 K6 R/14
 ![Sett](sett.png)

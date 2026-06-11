@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3589
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2005 — Royal Ashburn Golf Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3589))
+- 2005 August — Royal Ashburn Golf Club (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6779/))
+
 ## Thread count
 G/4 B44 R4 K42 G46 Y/4
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/4 B44 R4 K42 G46 Y/4 tartan")
 
 ID: /setts/s6/g4b44r4k42g46y4-b1474b4-g006818-k101010-rc80000-ye8c000/
-000/

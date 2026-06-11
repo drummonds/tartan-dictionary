@@ -1,13 +1,20 @@
 ---
-title: "New Zealand (2000) (Fashion)"
+title: "New Zealand (2000)"
 date: 2023-03-18
 ---
 In pattern [GKWKWK](/patterns/gkwkwk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4215/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3124
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2000 — New Zealand (2000) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3124))
+- Mar. 2000 March — New Zealand (2000) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4215/))
 
 ## Thread count
 G/8 K52 N36 K20 N8 K/84

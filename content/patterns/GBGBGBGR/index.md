@@ -24,8 +24,6 @@ GBGBGBGR
 |![Crantock example sett](/setts/s8/g48b6g6b6g6b14ga40r6-b4c1864-g647c00-ga004028-rc80000/sett.png)|
 | [Hector, James](/setts/s8/g16b54g22ba4g22b54g16r4-b003c64-ba441800-g003820-r880000/)|
 |![Hector, James example sett](/setts/s8/g16b54g22ba4g22b54g16r4-b003c64-ba441800-g003820-r880000/sett.png)|
-| [Cranston (Clan)](/setts/s8/g28b4g4b4g6b12ga24r4-b5c8ca8-g006818-ga289c18-rc80000/)|
-|![Cranston (Clan) example sett](/setts/s8/g28b4g4b4g6b12ga24r4-b5c8ca8-g006818-ga289c18-rc80000/sett.png)|
 | [Devarr (Fashion)](/setts/s8/g62b6g6b6g6b44ga52r8-b441800-g604000-ga5c6428-r880000/)|
 |![Devarr (Fashion) example sett](/setts/s8/g62b6g6b6g6b44ga52r8-b441800-g604000-ga5c6428-r880000/sett.png)|
 | [Cranstoun](/setts/s8/g28b2g2b2g6b12ga24r4-b304080-g30a010-ga008000-rc00000/)|

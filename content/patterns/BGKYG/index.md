@@ -20,5 +20,3 @@ BGKYG
 |---------------|
 | [Landels (Personal)](/setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/)|
 |![Landels (Personal) example sett](/setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/sett.png)|
-| [Landels (Personal)](/setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/)|
-|![Landels (Personal) example sett](/setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/sett.png)|

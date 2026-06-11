@@ -1,5 +1,5 @@
 ---
-title: "Eldridge (Personal)"
+title: "Connor (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGGYGBWBR](/patterns/bggygbwbr/).
@@ -7,7 +7,14 @@ In pattern [BGGYGBWBR](/patterns/bggygbwbr/).
 
 This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7945/
+Original link http://www.tartansauthority.com/tartan-ferret/display/7944/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Jun. 1956 — Connor (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7944/))
+- Apr. 1962 — Eldridge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7945/))
 
 ## Thread count
 DB/4 T16 G32 Y4 G32 DB48 LN4 DB8 R/4

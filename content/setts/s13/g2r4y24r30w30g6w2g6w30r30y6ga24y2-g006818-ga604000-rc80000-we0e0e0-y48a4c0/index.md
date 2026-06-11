@@ -1,13 +1,20 @@
 ---
-title: "St. John New Brunswick District Tartan Tartan Number: 10132. Earliest known date: 1st Jan. 2010 The Saint John New Brunswick tartan was commissioned by Claudia MacLean of ScotDance New Brunswick as a legacy gift to the City of Saint John, New Brunswick, Canada, following the Highland Games held there in 2006. This tartan can only be woven with the permission of the City of St John New Brunswick. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "St. John New Brunswick (District)"
 date: 2023-03-18
 ---
 In pattern [GRYRWGWGWRYGY](/patterns/gryrwgwgwrygy/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10132
+Original link http://www.tartansauthority.com/tartan-ferret/display/10132/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1st Jan. 2010 — St. John New Brunswick (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10132/))
+- undated — St. John New Brunswick District Tartan Tartan Number: 10132. Earliest known date: 1st Jan. 2010 The Saint John New Brunswick tartan was commissioned by Claudia MacLean of ScotDance New Brunswick as a legacy gift to the City of Saint John, New Brunswick, Canada, following the Highland Games held there in 2006. This tartan can only be woven with the permission of the City of St John New Brunswick. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10132))
 
 ## Thread count
 B/2 T24 B6 R30 LN30 G6 LN2 G6 LN30 R30 B24 R4 G/2

@@ -1,13 +1,20 @@
 ---
-title: "Ontario Provincial Police Canadian Corporate Tartan Tartan Number: 10019. Earliest known date: Feb. 2009 Designed by Davd Brown and Fiona Hall (Lochcarron) for the Ontario Provincial Police Force. Subject to an exclusive contract between Lochcarron's Canadian company (Burnetts & Struth) and the police force. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Ontario Provincial Police (Corporate"
 date: 2023-03-18
 ---
 In pattern [BRBWBKBGBKBYB](/patterns/brbwbkbgbkbyb/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10019
+Original link http://www.tartansauthority.com/tartan-ferret/display/10019/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Feb. 2009 — Ontario Provincial Police (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10019/))
+- undated — Ontario Provincial Police Canadian Corporate Tartan Tartan Number: 10019. Earliest known date: Feb. 2009 Designed by Davd Brown and Fiona Hall (Lochcarron) for the Ontario Provincial Police Force. Subject to an exclusive contract between Lochcarron's Canadian company (Burnetts & Struth) and the police force. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10019))
 
 ## Thread count
 B/8 Y4 DB40 K40 DB32 DG8 DB32 K40 DB8 LN4 DB4 R4 DB/36

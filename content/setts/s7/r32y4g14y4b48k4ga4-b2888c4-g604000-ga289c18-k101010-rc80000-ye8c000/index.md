@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4146
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 24/08/2002 — Traill (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4146))
+- 2002 — Traill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3093/))
+
 ## Thread count
 G/4 K4 B48 Y4 T14 Y4 R/32
 ![Sett](sett.png)

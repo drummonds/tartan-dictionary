@@ -1,13 +1,20 @@
 ---
-title: "Melville (Clan)"
+title: "Melville"
 date: 2023-03-18
 ---
 In pattern [KGKGWK](/patterns/kgkgwk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6328/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2914
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1847 — Melville (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2914))
+- pre 1847 — Melville (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6328/))
 
 ## Thread count
 K/4 B24 K26 G26 W4 K/8

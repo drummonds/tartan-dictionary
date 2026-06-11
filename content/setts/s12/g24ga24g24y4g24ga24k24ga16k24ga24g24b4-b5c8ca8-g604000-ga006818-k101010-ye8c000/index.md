@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1850 — Buchanan Hunting (Scott Adie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428))
+- pre 1850 — Buchanan Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2019/))
+
 ## Thread count
 B/4 T24 G24 K24 G16 K24 G24 T24 Y4 T24 G24 T/24
 ![Sett](sett.png)

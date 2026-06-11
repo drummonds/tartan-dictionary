@@ -20,5 +20,3 @@ KYKRKRGR
 |---------------|
 | [Davis](/setts/s8/k12y8k12r32k32ra32g8ra12-g003820-k101010-r880000-rac80000-ye8c000/)|
 |![Davis example sett](/setts/s8/k12y8k12r32k32ra32g8ra12-g003820-k101010-r880000-rac80000-ye8c000/sett.png)|
-| [Davis (Name)](/setts/s8/k12y8k12r32k32ra32g8ra12-g003820-k101010-r880000-rac80000-ye8c000/)|
-|![Davis (Name) example sett](/setts/s8/k12y8k12r32k32ra32g8ra12-g003820-k101010-r880000-rac80000-ye8c000/sett.png)|

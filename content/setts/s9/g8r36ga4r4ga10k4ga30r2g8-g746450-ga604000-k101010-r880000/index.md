@@ -1,13 +1,20 @@
 ---
-title: "Redwoods (Fashion)"
+title: "Redwoods"
 date: 2023-03-18
 ---
 In pattern [GRGKGRGRG](/patterns/grgkgrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5422/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3484
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Redwoods (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3484))
+- pre 1972 — Redwoods (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5422/))
 
 ## Thread count
 N/8 DR36 T4 DR4 T10 K4 T30 DR2 N/8

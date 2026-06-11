@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3288
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Palmer, Edward (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3288))
+- pre 2002 — Palmer, Edward (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4796/))
+
 ## Thread count
 R/8 G40 K32 Y4 K6 W6 K4 W36 R12 K4 R8 K2 W/4
 ![Sett](sett.png)

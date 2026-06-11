@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=539
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Canadian Autumn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=539))
+- pre 2002 — Canadian Autumn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4440/))
+
 ## Thread count
 G/8 DR56 DB12 G20 K20 G/6
 ![Sett](sett.png)

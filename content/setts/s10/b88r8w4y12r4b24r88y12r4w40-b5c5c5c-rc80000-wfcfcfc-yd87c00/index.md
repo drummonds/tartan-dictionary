@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Glenburnie School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406))
+- 2002 — Glenburnie (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5781/))
+
 ## Thread count
 N/88 R8 W4 O12 R4 N24 R88 O12 R4 Wa/40
 ![Sett](sett.png)

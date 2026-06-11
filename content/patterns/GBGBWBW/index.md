@@ -20,5 +20,3 @@ GBGBWBW
 |---------------|
 | [O'Long (Personal)](/setts/s7/g44b44g6b22w6b8w6-b780078-g006818-we0e0e0/)|
 |![O'Long (Personal) example sett](/setts/s7/g44b44g6b22w6b8w6-b780078-g006818-we0e0e0/sett.png)|
-| [O'Long (Personal)](/setts/s7/g44b44g6b22w6b8w6-b780078-g006818-we0e0e0/)|
-|![O'Long (Personal) example sett](/setts/s7/g44b44g6b22w6b8w6-b780078-g006818-we0e0e0/sett.png)|

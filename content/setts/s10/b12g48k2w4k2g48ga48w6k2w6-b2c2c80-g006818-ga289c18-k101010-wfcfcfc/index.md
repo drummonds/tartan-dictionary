@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2990
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Montgomery, Stuart (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2990))
+- 1998 — Montgomery, Stuart (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6062/))
+
 ## Thread count
 DB/12 Ga48 K2 W4 K2 Ga48 G48 W6 K2 W/6
 ![Sett](sett.png)

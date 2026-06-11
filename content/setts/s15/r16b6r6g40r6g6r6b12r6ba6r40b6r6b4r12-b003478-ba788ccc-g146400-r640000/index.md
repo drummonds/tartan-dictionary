@@ -1,13 +1,20 @@
 ---
-title: "Glenfarclas Distillery (Corporate)"
+title: "Glenfarclas Distillery"
 date: 2023-03-18
 ---
 In pattern [RBRBRBRBRGRGRBR](/patterns/rbrbrbrbrgrgrbr/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4237/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1416
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1994 — Glenfarclas Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1416))
+- 1994 — Glenfarclas Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4237/))
 
 ## Thread count
 DR/12 DB4 DR6 DB6 DR40 B6 DR6 DB12 DR6 G6 DR6 G40 DR6 DB6 DR/16

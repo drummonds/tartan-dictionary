@@ -20,5 +20,3 @@ BGYGBRBR
 |---------------|
 | [Gretna Green](/setts/s8/b4g4y2g60b40r4b4r4-b1c0070-g006818-rc80000-yd8b000/)|
 |![Gretna Green example sett](/setts/s8/b4g4y2g60b40r4b4r4-b1c0070-g006818-rc80000-yd8b000/sett.png)|
-| [Gretna Green (Fashion)](/setts/s8/b4g4y2g60b40r4b4r4-b1c0070-g006818-rc80000-yd8b000/)|
-|![Gretna Green (Fashion) example sett](/setts/s8/b4g4y2g60b40r4b4r4-b1c0070-g006818-rc80000-yd8b000/sett.png)|

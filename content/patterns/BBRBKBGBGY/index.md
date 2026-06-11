@@ -18,5 +18,3 @@ BBRBKBGBGY
 |---------------|
 | [Boyle (Personal)](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/)|
 |![Boyle (Personal) example sett](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/sett.png)|
-| [Boyle (Personal)](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/)|
-|![Boyle (Personal) example sett](/setts/s10/b8ba6r4ba52k6b6g6b6g34y6-b2c2c80-ba202060-g006818-k101010-r880000-ybc8c00/sett.png)|

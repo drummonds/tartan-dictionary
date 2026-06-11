@@ -20,5 +20,3 @@ BRBRB
 |---------------|
 | [Mowbray (Personal)](/setts/s5/b32r4b20r28ba10-b5c5c5c-ba5c8ca8-r880000/)|
 |![Mowbray (Personal) example sett](/setts/s5/b32r4b20r28ba10-b5c5c5c-ba5c8ca8-r880000/sett.png)|
-| [Mowbray (USA) (Personal)](/setts/s5/b32r4b20r28ba10-b5c5c5c-ba5c8ca8-r880000/)|
-|![Mowbray (USA) (Personal) example sett](/setts/s5/b32r4b20r28ba10-b5c5c5c-ba5c8ca8-r880000/sett.png)|

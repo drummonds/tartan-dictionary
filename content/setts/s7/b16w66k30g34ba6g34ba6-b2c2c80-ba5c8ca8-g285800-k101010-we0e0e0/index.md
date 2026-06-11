@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2761
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1997 — MacRobart Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2761))
+- June 1997 — MacRobart Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2399/))
+
 ## Thread count
 B/6 G34 B6 G34 K30 LN66 DB/16
 ![Sett](sett.png)

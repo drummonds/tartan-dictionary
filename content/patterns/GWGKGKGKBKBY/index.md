@@ -18,5 +18,3 @@ GWGKGKGKBKBY
 |---------------|
 | [Bell's Whisky (SA)](/setts/s12/g20w4g36k6g6k6g6k36b48k6b6y6-b784878-g005030-k101010-wd0d0d0-ybc8c00/)|
 |![Bell's Whisky (SA) example sett](/setts/s12/g20w4g36k6g6k6g6k36b48k6b6y6-b784878-g005030-k101010-wd0d0d0-ybc8c00/sett.png)|
-| [Bell's Whisky (SA) (Corporate)](/setts/s12/g20w4g36k6g6k6g6k36b48k6b6y6-b784878-g005030-k101010-wd0d0d0-ybc8c00/)|
-|![Bell's Whisky (SA) (Corporate) example sett](/setts/s12/g20w4g36k6g6k6g6k36b48k6b6y6-b784878-g005030-k101010-wd0d0d0-ybc8c00/sett.png)|

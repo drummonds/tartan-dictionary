@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3368/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacFie Hunting (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3368/))
+- undated — MacFie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5035))
+
 ## Thread count
 DY/4 DR48 G8 DRa8 G64 DRa8 G8 DR48 N/4
 ![Sett](sett.png)

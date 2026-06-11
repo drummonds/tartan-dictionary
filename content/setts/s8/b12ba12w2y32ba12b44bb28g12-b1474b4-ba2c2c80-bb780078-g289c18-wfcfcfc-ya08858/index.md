@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3673
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1850 — Scotia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3673))
+- 1850/1968 — Scotia (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/89/))
+
 ## Thread count
 Ba/12 DB12 W2 LT32 DB12 Ba44 P28 Ga/12
 ![Sett](sett.png)

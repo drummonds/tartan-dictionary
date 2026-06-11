@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6839/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2006 — Mercer, James (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6839/))
+- undated — Mercer, James (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5438))
+
 ## Thread count
 DB/6 R52 DB15 W3 DB4 Y6 DB4 W3 DB/24
 ![Sett](sett.png)

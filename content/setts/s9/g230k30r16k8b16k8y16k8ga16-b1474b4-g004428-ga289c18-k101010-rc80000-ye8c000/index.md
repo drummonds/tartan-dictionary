@@ -1,13 +1,20 @@
 ---
-title: "Granvert (Fashion)"
+title: "Granvert"
 date: 2023-03-18
 ---
 In pattern [GKRKBKYKG](/patterns/gkrkbkykg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7059/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1515
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/1974 — Granvert (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1515))
+- 1974, December — Granvert (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7059/))
 
 ## Thread count
 DG/230 K30 R16 K8 B16 K8 Y16 K8 G/16

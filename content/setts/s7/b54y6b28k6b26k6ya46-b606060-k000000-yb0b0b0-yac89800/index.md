@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1494
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/1988 — Grange School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1494))
+- pre 2002 — Grange School (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5094/))
+
 ## Thread count
 DY/46 K6 N26 K6 N28 Na6 N/54
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/46 K6 N26 K6 N28 Na6 N/54 tartan")
 
 ID: /setts/s7/b54y6b28k6b26k6ya46-b606060-k000000-yb0b0b0-yac89800/
-ac89800/

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3353/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacDougall - 1970 (William) (Comm) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3353/))
+- undated — MacDougall, William (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348))
+
 ## Thread count
 R/10 K10 R10 K10 R10 K28 Ka32 DN28 R6 Ka6 Y/6
 ![Sett](sett.png)

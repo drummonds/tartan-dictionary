@@ -18,9 +18,5 @@ GKBKGYGYG
 |---------------|
 | [Fitzpatrick Hunting](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/)|
 |![Fitzpatrick Hunting example sett](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/sett.png)|
-| [Fitzpatrick Htg (Name)](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/)|
-|![Fitzpatrick Htg (Name) example sett](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/sett.png)|
 | [Fitzpatrick](/setts/s9/g20y4g12y8g32k32b4k32g4-b304080-g008000-k000000-yf0c000/)|
 |![Fitzpatrick example sett](/setts/s9/g20y4g12y8g32k32b4k32g4-b304080-g008000-k000000-yf0c000/sett.png)|
-| [Fitzpatrick Irish Family Tartan Tartan Number: 766. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/)|
-|![Fitzpatrick Irish Family Tartan Tartan Number: 766. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Nassau County Firefighters Pipes & Drums"
+title: "Nassau County Firefighters (P&D)"
 date: 2023-03-18
 ---
 In pattern [KWGRBRYRWK](/patterns/kwgrbryrwk/).
 
 
-This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5689
+Original link http://www.tartansauthority.com/tartan-ferret/display/7690/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Nassau County Firefighters (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7690/))
+- undated — Nassau County Firefighters Pipes & Drums (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5689))
 
 ## Thread count
 K/13 LN13 G22 R26 DB13 R20 O13 R26 LN13 K/13

@@ -1,13 +1,20 @@
 ---
-title: "Made in Scotland (Corporate)"
+title: "Made in Scotland"
 date: 2023-03-18
 ---
 In pattern [BKBKBKBKBKBYBKBKBKBKBKW](/patterns/bkbkbkbkbkbybkbkbkbkbkw/).
 
 
-This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6210/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2779
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2003 — Made in Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2779))
+- pre 2004 — Made in Scotland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6210/))
 
 ## Thread count
 P/4 K4 B4 K2 B4 K2 B4 K2 B4 K2 B40 O4 B40 K2 B4 K2 B4 K2 B4 K2 B4 K18 W/6

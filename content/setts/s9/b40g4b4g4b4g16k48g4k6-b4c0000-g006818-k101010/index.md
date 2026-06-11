@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=564
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Carlow, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=564))
+- 1996 — Carlow, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2275/))
+
 ## Thread count
 DR/40 G4 DR4 G4 DR4 G16 K48 G4 K/6
 ![Sett](sett.png)

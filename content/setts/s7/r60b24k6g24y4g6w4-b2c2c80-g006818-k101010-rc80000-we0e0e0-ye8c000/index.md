@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7369/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2007 — Hewitt (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7369/))
+- undated — Hewitt #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5475))
+
 ## Thread count
 LN/4 G6 Y4 G24 K6 DB24 R/60
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Cherokee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627))
+- 1996 — Cherokee (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4502/))
+
 ## Thread count
 G/8 B4 G18 K8 G4 R12 DB24 W/4
 ![Sett](sett.png)

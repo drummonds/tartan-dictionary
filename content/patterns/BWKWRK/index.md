@@ -20,5 +20,3 @@ BWKWRK
 |---------------|
 | [Bro-Wened](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/)|
 |![Bro-Wened example sett](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/sett.png)|
-| [Bro-Wened (Corporate)](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/)|
-|![Bro-Wened (Corporate) example sett](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/sett.png)|

@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KWKWR](/patterns/kwkwr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7244/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2007 — McPartlin (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901))
+- June 2007 — McPartlin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7244/))
 
 ## Thread count
 K/54 LY58 K10 LY28 R/4

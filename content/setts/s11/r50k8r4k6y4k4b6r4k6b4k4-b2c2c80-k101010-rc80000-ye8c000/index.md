@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/1998 — Glennie, The Rhythms of Evelyn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432))
+- Nov. 1999 — Glennie, The Rhythms of Evelyn (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2586/))
+
 ## Thread count
 K/4 DB4 K6 R4 DB6 K4 Y4 K6 R4 K8 R/50
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/r50k8r4k6y4k4b6r4k6b4k4-b2c2c80-k101010-rc80000-ye8c000/
-/

@@ -16,7 +16,5 @@ BWBYGRGRGRW
 
 | Tartans |
 |---------------|
-| [Currie of Arran](/setts/s11/b32w6b4y8g48r4g8r10g8r4wa16-b3048b4-g009020-rc80000-wf8f8f8-waa4b4cc-ye8c000/)|
-|![Currie of Arran example sett](/setts/s11/b32w6b4y8g48r4g8r10g8r4wa16-b3048b4-g009020-rc80000-wf8f8f8-waa4b4cc-ye8c000/sett.png)|
 | [Currie of Arran (Clan/family)](/setts/s11/b32w6b4y8g48r4g8r10g8r4wa16-b3048b4-g009020-rc80000-wf8f8f8-waa4b4cc-ye8c000/)|
 |![Currie of Arran (Clan/family) example sett](/setts/s11/b32w6b4y8g48r4g8r10g8r4wa16-b3048b4-g009020-rc80000-wf8f8f8-waa4b4cc-ye8c000/sett.png)|

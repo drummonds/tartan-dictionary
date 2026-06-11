@@ -20,5 +20,3 @@ BKWBWKWB
 |---------------|
 | [Lynn (Personal)](/setts/s8/b36w2k6w2b18w2k90b8-b2474e8-k101010-we0e0e0/)|
 |![Lynn (Personal) example sett](/setts/s8/b36w2k6w2b18w2k90b8-b2474e8-k101010-we0e0e0/sett.png)|
-| [Lynn (Name)](/setts/s8/b36w2k6w2b18w2k90b8-b2474e8-k101010-we0e0e0/)|
-|![Lynn (Name) example sett](/setts/s8/b36w2k6w2b18w2k90b8-b2474e8-k101010-we0e0e0/sett.png)|

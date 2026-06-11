@@ -1,13 +1,20 @@
 ---
-title: "Indianapolis MPD Emerald Soc. (Corp)"
+title: "Indianapolis MPD Emerald Society"
 date: 2023-03-18
 ---
 In pattern [BGGRRRGGBGGRYRGGB](/patterns/bggrrrggbggryrggb/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7253/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1822
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Indianapolis MPD Emerald Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1822))
+- pre 2007 — Indianapolis MPD Emerald Soc. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7253/))
 
 ## Thread count
 DB/24 G10 T5 R5 N2 R5 G10 T5 DB4 T5 G10 R5 Y2 R5 G10 T5 DB/67

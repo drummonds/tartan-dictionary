@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6707/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Children 1st (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6707/))
+- undated — Children 1st (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5339))
+
 ## Thread count
 Y/14 DB64 P8 DB8 P16 DB8 P16 G64 Y/6
 ![Sett](sett.png)

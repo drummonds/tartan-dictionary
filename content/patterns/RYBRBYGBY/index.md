@@ -18,5 +18,3 @@ RYBRBYGBY
 |---------------|
 | [Isle of Arran (Personal)](/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/)|
 |![Isle of Arran (Personal) example sett](/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/sett.png)|
-| [Arran, Isle of (Fashion)](/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/)|
-|![Arran, Isle of (Fashion) example sett](/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/sett.png)|

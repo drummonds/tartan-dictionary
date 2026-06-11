@@ -1,13 +1,21 @@
 ---
-title: "M'Kleod (Name)"
+title: "M'Kleod"
 date: 2023-03-18
 ---
 In pattern [RKGRWBKY](/patterns/rkgrwbky/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5985/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2971
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/09/2003 — M'Kleod (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2971))
+- Sept 2003 — M'Kleod (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5985/))
+- undated — M'Kleod Personal Tartan Tartan Number: 5985. Earliest known date: 2003 The unusual spelling raised a query with the recording authority. The recording was passed on the basis that the design was categorised as personal. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5985))
 
 ## Thread count
 N/36 K6 G6 R4 LN6 DB72 K4 Y/12

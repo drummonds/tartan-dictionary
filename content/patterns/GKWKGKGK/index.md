@@ -20,8 +20,6 @@ GKWKGKGK
 |---------------|
 | [MacLean of Duart Hunting](/setts/s8/g6k12w4k12g4k4g32k4-g006428-k101010-we0e0e0/)|
 |![MacLean of Duart Hunting example sett](/setts/s8/g6k12w4k12g4k4g32k4-g006428-k101010-we0e0e0/sett.png)|
-| [MacLean of Duart Htg (VS) (Clan)](/setts/s8/g6k12w4k12g4k4g32k4-g006428-k101010-we0e0e0/)|
-|![MacLean of Duart Htg (VS) (Clan) example sett](/setts/s8/g6k12w4k12g4k4g32k4-g006428-k101010-we0e0e0/sett.png)|
 | [MacLean VS](/setts/s8/g6k12w2k12g4k4g32k2-g004c00-k000000-wd0d0d0/)|
 |![MacLean VS example sett](/setts/s8/g6k12w2k12g4k4g32k2-g004c00-k000000-wd0d0d0/sett.png)|
 | [MacLean of Duart, hunting](/setts/s8/g6k12w2k12g4k4g32k2-g008000-k000000-we0e0e0/)|

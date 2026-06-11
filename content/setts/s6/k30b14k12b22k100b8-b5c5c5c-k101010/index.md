@@ -1,13 +1,20 @@
 ---
-title: "Freedom of Scotland (Fashion)"
+title: "Freedom of Scotland"
 date: 2023-03-18
 ---
 In pattern [BKBKBK](/patterns/bkbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5910/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2003 — Freedom of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278))
+- August 2003 — Freedom of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5910/))
 
 ## Thread count
 K/30 N14 K12 N22 K100 N/8

@@ -20,5 +20,3 @@ KBGRW
 |---------------|
 | [Sachie Hara Scottish Check (Personal)](/setts/s5/k10b8g48r42w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
 |![Sachie Hara Scottish Check (Personal) example sett](/setts/s5/k10b8g48r42w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Sachie Hara (Personal)](/setts/s5/k10b8g48r42w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Sachie Hara (Personal) example sett](/setts/s5/k10b8g48r42w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|

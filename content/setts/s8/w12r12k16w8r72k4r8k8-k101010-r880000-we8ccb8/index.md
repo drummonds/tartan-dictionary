@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2228
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Lougheed (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2228))
+- pre 2003 — Lougheed (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5932/))
+
 ## Thread count
 K/8 DR8 K4 DR72 LR8 K16 DR12 LR/12
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 DR8 K4 DR72 LR8 K16 DR12 LR/12 tartan")
 
 ID: /setts/s8/w12r12k16w8r72k4r8k8-k101010-r880000-we8ccb8/
-b8/

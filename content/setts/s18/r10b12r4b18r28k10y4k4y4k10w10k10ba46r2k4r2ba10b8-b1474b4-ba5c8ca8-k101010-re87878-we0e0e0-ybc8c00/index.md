@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5530
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1993 — Westwood MacAndreas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5530))
+- pre 2008 — Westwood MacAndreas (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7489/))
+
 ## Thread count
 Ba/8 B10 LR2 K4 LR2 B46 K10 LN10 K10 DY4 K4 DY4 K10 LR28 Ba18 LR4 Ba12 LR/10
 ![Sett](sett.png)

@@ -1,5 +1,5 @@
 ---
-title: "Scottish National"
+title: "Scotland's National"
 date: 2023-03-18
 ---
 In pattern [BWBRBKGKGKGKBKRKBKGKGKGKBRBW](/patterns/bwbrbkgkgkgkbkrkbkgkgkgkbrbw/).
@@ -7,7 +7,14 @@ In pattern [BWBRBKGKGKGKBKRKBKGKGKGKBRBW](/patterns/bwbrbkgkgkgkbkrkbkgkgkgkbrbw
 
 This was sourced from register-of-tartans.  It is a [28 stripes tartan](/stripes/stripes28/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3730
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3682
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1993 — Scotland's National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3682))
+- 01/01/1994 — Scottish National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3730))
 
 ## Thread count
 DN/24 LN4 DN4 DR4 DN4 K20 Ga24 K4 Ga8 K4 Ga24 K20 DN24 K4 DR6 K4 DN24 K20 Ga24 K4 Ga8 K4 Ga24 K20 DN4 DR4 DN4 LN/4
@@ -31,4 +38,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
 ID: /setts/s28/b24w4b4r4b4k20g24k4g8k4g24k20b24k4r6k4b24k20g24k4g8k4g24k20b4r4b4w4-b14283c-g00643c-k000000-r8c0000-we0e0e0/
-/

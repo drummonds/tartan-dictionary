@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BRGRGBGW](/patterns/brgrgbgw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5986/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3004
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Moran (Wedding) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3004))
+- 2003 — Moran (Wedding) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5986/))
 
 ## Thread count
 DB/10 R6 Ga4 R6 G24 B68 Ga4 LN/4
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/10 R6 Ga4 R6 G24 B68 Ga4 LN/4 tartan")
 
 ID: /setts/s8/b10r6g4r6ga24ba68g4w4-b303070-ba1870a4-g006818-ga387858-ra00048-we0e0e0/
-e0/

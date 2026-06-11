@@ -1,13 +1,20 @@
 ---
-title: "Loch Lomond (1999) (Fashion)"
+title: "Loch Lomond (1999)"
 date: 2023-03-18
 ---
 In pattern [BBGBRBRYR](/patterns/bbgbrbryr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2616/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2152
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Loch Lomond (1999) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2152))
+- Jul. 1999 — Loch Lomond (1999) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2616/))
 
 ## Thread count
 DP/8 P30 G20 DP16 DR8 DB6 DR6 Y6 DR/56

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=566
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Carnegie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=566))
+- 1819 — Carnegie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/489/))
+
 ## Thread count
 DB/18 R6 DB6 R12 DB36 R6 K36 G36 R12 G6 R6 G12 Y/6
 ![Sett](sett.png)

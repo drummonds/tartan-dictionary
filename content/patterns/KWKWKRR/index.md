@@ -18,7 +18,5 @@ KWKWKRR
 
 | Tartans |
 |---------------|
-| [Dunfermline Athletic Football Club New Pars (2008)](/setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/)|
-|![Dunfermline Athletic Football Club New Pars (2008) example sett](/setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/sett.png)|
 | [Dunfermline Athletic (2008) (Corp)](/setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/)|
 |![Dunfermline Athletic (2008) (Corp) example sett](/setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/sett.png)|

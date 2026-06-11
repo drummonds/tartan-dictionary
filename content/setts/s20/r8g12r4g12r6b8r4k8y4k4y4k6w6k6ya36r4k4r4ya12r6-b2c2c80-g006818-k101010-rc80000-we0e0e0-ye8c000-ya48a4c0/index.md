@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [20 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=82
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1900 — Anderson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=82))
+- pre 1900 — Anderson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1394/))
+
 ## Thread count
 R/6 B12 R4 K4 R4 B36 K6 LN6 K6 Y4 K4 Y4 K8 R4 DBa8 R6 G12 R4 G12 R/8
 ![Sett](sett.png)

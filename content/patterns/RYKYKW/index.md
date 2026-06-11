@@ -20,5 +20,3 @@ RYKYKW
 |---------------|
 | [Livingston Football Club (2001)](/setts/s6/w8k48y10k20y24r2-k101010-rc80000-we0e0e0-ye8c000/)|
 |![Livingston Football Club (2001) example sett](/setts/s6/w8k48y10k20y24r2-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Livingston F. C. (2001) (Sports)](/setts/s6/w8k48y10k20y24r2-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Livingston F. C. (2001) (Sports) example sett](/setts/s6/w8k48y10k20y24r2-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

@@ -20,5 +20,3 @@ BRGBYG
 |---------------|
 | [Harvey](/setts/s6/b8r22g22b44y2g8-b2c2c80-g006818-rc80000-ye8c000/)|
 |![Harvey example sett](/setts/s6/b8r22g22b44y2g8-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
-| [Harvey (Name)](/setts/s6/b8r22g22b44y2g8-b2c2c80-g006818-rc80000-ye8c000/)|
-|![Harvey (Name) example sett](/setts/s6/b8r22g22b44y2g8-b2c2c80-g006818-rc80000-ye8c000/sett.png)|

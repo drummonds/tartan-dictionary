@@ -1,13 +1,20 @@
 ---
-title: "Westwood Gordon Pink"
+title: "Westwood Gordon Pink (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKBKB](/patterns/bkbkbkgrgkbkb/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5532
+Original link http://www.tartansauthority.com/tartan-ferret/display/7491/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Nov 1992 — Westwood Gordon Pink (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7491/))
+- undated — Westwood Gordon Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5532))
 
 ## Thread count
 DB/42 K6 DB6 K6 DB6 K40 G36 LR6 G36 K40 DB36 K6 DB/6

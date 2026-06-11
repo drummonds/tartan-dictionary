@@ -1,13 +1,20 @@
 ---
-title: "Laval, Tartan de (District)"
+title: "Laval, Tartan de"
 date: 2023-03-18
 ---
 In pattern [BWBBW](/patterns/bwbbw/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2120/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2064
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Laval, Tartan de (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2064))
+- 1988 — Laval, Tartan de (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2120/))
 
 ## Thread count
 DB/4 N4 DR16 DB16 N/4

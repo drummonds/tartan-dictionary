@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2621
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacLellan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2621))
+- pre 2002 — MacLellan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/323/))
+
 ## Thread count
 DB/60 K32 G12 R12 G20 K8 Y8 K8 G20 R12 G12 K32 DB32 K/32
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s14/b60k32g12r12g20k8y8k8g20r12g12k32b32k32-b382074-g2c7854-k181818-rc80000-ye8c000/
-/

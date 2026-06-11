@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BRBRBRKGRGRKY](/patterns/brbrbrkgrgrky/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/495/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2764
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — MacSporran (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2764))
+- 1975? — MacSporran (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/495/))
 
 ## Thread count
 DB/32 R4 DB6 R8 DB36 R4 K32 DG32 R8 DG6 R4 K4 Y/20

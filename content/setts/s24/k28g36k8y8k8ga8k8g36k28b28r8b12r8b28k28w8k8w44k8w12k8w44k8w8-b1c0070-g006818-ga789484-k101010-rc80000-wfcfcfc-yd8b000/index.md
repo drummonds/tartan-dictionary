@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2795
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1888 — Malcolm Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2795))
+- pre 1888 — Malcolm Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1977/))
+
 ## Thread count
 K/28 G36 K8 Y8 K8 LG8 K8 G36 K28 DB28 R8 DB12 R8 DB28 K28 W8 K8 W44 K8 W12 K8 W44 K8 W/8
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 
 ID: /setts/s24/k28g36k8y8k8ga8k8g36k28b28r8b12r8b28k28w8k8w44k8w12k8w44k8w8-b1c0070-g006818-ga789484-k101010-rc80000-wfcfcfc-yd8b000/
-0/

@@ -16,7 +16,5 @@ RKBKYKBKBKW
 
 | Tartans |
 |---------------|
-| [McGuffey School](/setts/s11/r28k4b6k2y4k2b6k28b6k2w2-b2c2c80-k101010-r888888-we0e0e0-ye8c000/)|
-|![McGuffey School example sett](/setts/s11/r28k4b6k2y4k2b6k28b6k2w2-b2c2c80-k101010-r888888-we0e0e0-ye8c000/sett.png)|
 | [McGuffey (School)](/setts/s11/r28k4b6k2y4k2b6k28b6k2w2-b2c2c80-k101010-r888888-we0e0e0-ye8c000/)|
 |![McGuffey (School) example sett](/setts/s11/r28k4b6k2y4k2b6k28b6k2w2-b2c2c80-k101010-r888888-we0e0e0-ye8c000/sett.png)|

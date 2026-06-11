@@ -18,5 +18,3 @@ BRBRBRBRBRBRBR
 |---------------|
 | [Hebridean Cairn](/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/)|
 |![Hebridean Cairn example sett](/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/sett.png)|
-| [Hebridean Mist](/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/)|
-|![Hebridean Mist example sett](/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/sett.png)|

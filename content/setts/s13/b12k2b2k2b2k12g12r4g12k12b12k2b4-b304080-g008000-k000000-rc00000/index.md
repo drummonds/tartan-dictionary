@@ -1,5 +1,5 @@
 ---
-title: "New South Wales, Scottish Rifles"
+title: "Murray"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRGKBKB](/patterns/bkbkbkgrgkbkb/).
@@ -8,6 +8,13 @@ In pattern [BKBKBKGRGKBKB](/patterns/bkbkbkgrgkbkb/).
 This was sourced from weddslist.  It is a [13 stripes tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Murray (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — New South Wales, Scottish Rifles (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
 
 ## Thread count
 B/12 K2 B2 K2 B2 K12 G12 R4 G12 K12 B12 K2 B/4

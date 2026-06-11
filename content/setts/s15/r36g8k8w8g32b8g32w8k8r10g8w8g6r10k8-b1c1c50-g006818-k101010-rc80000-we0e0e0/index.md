@@ -1,13 +1,20 @@
 ---
-title: "Gayre Bodyguard #2"
+title: "Gayre Bodyguard (Clan)"
 date: 2023-03-18
 ---
 In pattern [KRGWGRKWGBGWKGR](/patterns/krgwgrkwgbgwkgr/).
 
 
-This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1322
+Original link http://www.tartansauthority.com/tartan-ferret/display/1154/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1800? — Gayre Bodyguard (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1154/))
+- undated — Gayre Bodyguard #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1322))
 
 ## Thread count
 K/8 R10 G6 LN8 G8 R10 K8 LN8 G32 DB8 G32 LN8 K8 G8 R/36

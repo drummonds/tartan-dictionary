@@ -1,13 +1,20 @@
 ---
-title: "Stewart of Fingask Clan Tartan Tartan Number: 1553. Earliest known date: 1745 This tartan is almost identical to the Drummond of Perth. It was one of the valueable relics of the '45, treasured by the Murray-Threipland family of Fingask. It was said to be the pattern of a cloak of Prince Charles Edward, who left it at Fingask after staying there at the time of the '45. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Stewart of Fingask - 1745 (Clan?)"
 date: 2023-03-18
 ---
 In pattern [RGYGRBBW](/patterns/rgygrbbw/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1553
+Original link http://www.tartansauthority.com/tartan-ferret/display/1553/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1745 — Stewart of Fingask - 1745 (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1553/))
+- undated — Stewart of Fingask Clan Tartan Tartan Number: 1553. Earliest known date: 1745 This tartan is almost identical to the Drummond of Perth. It was one of the valueable relics of the '45, treasured by the Murray-Threipland family of Fingask. It was said to be the pattern of a cloak of Prince Charles Edward, who left it at Fingask after staying there at the time of the '45. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1553))
 
 ## Thread count
 LN/2 B6 DB6 R14 G26 Y2 G3 R/72

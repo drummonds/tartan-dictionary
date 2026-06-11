@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=747
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Conroy (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=747))
+- 1986 — Conroy (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1626/))
+
 ## Thread count
 DR/128 K20 DY8 R10 N4 K4 DB6 DY/8
 ![Sett](sett.png)

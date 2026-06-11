@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2004 — Fox, Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241))
+- July 2004 — Fox, Red (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6312/))
+
 ## Thread count
 R/14 DB12 R6 DB8 R6 DB22 R36 N6 R36 G30 R14 G30 R14 G20 R36 Y6 R36 DB22 R6 DB8 R6 DB12 R/14
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s23/r14b12r6b8r6b22r36w6r36g30r14g30r14g20r36y6r36b22r6b8r6b12r14-b2c2c80-g006818-rc80000-wc0c0c0-ye8c000/
-0/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3307
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2007 — PeachyKeen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3307))
+- June 2007 — Peachy Keen (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7208/))
+
 ## Thread count
 Y/5 LG2 Y2 LG35 R20 Y2 R20 Y/2
 ![Sett](sett.png)

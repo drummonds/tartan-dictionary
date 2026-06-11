@@ -36,9 +36,5 @@ RGRGRY
 |![Cameron example sett](/setts/s6/r4g12r4g12r32y2-g11450d-raa0000-yaaaa00/sett.png)|
 | [Cameron Clan D](/setts/s6/r2g12r2g12r30y2-g11450d-raa0000-yaaaa00/)|
 |![Cameron Clan D example sett](/setts/s6/r2g12r2g12r30y2-g11450d-raa0000-yaaaa00/sett.png)|
-| [Cameron](/setts/s6/r4g12r4g12r32y2-g11450d-raa0000-yaaaa00/)|
-|![Cameron example sett](/setts/s6/r4g12r4g12r32y2-g11450d-raa0000-yaaaa00/sett.png)|
-| [Cameron Clan D](/setts/s6/r2g12r2g12r30y2-g11450d-raa0000-yaaaa00/)|
-|![Cameron Clan D example sett](/setts/s6/r2g12r2g12r30y2-g11450d-raa0000-yaaaa00/sett.png)|
 | [Cameron Clan Tartan Tartan Number: 1538. Earliest known date: 1842 First illustrated in the 'Vestiarium Scoticum' this sett is known as the Cameron Clan tartan. It may be derived from the tartan worn by the MacFees who also had a close association with Lochaber. The sett was recorded by Lord Lyon in the Public Register of All Arms and Bearings in 1947. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r4g12r4g12r32y2-g006818-rc80000-ye8c000/)|
 |![Cameron Clan Tartan Tartan Number: 1538. Earliest known date: 1842 First illustrated in the 'Vestiarium Scoticum' this sett is known as the Cameron Clan tartan. It may be derived from the tartan worn by the MacFees who also had a close association with Lochaber. The sett was recorded by Lord Lyon in the Public Register of All Arms and Bearings in 1947. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/r4g12r4g12r32y2-g006818-rc80000-ye8c000/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7841/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Scotland's International - Away (Fas (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7841/))
+- undated — Scotland's International - Away (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5793))
+
 ## Thread count
 LN/4 DB12 LB10 K32 Y4 K4 LN12 K4 DR48 R/48
 ![Sett](sett.png)

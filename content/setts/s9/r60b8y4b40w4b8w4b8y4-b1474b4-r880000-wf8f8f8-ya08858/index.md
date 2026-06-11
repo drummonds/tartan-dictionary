@@ -1,13 +1,20 @@
 ---
-title: "Rafferty (Fashion)"
+title: "Rafferty (Estimated threadcount)"
 date: 2023-03-18
 ---
 In pattern [RBYBWBWBY](/patterns/rbybwbwby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6749/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Rafferty (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439))
+- pre 2005 — Rafferty (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6749/))
 
 ## Thread count
 DR/60 B8 LT4 B40 W4 B8 W4 B8 LT/4
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s9/r60b8y4b40w4b8w4b8y4-b1474b4-r880000-wf8f8f8-ya08858/
--wf8f8f8-ya08858/

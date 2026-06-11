@@ -20,5 +20,3 @@ BYBKRKRK
 |---------------|
 | [Rutherford](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/)|
 |![Rutherford example sett](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/sett.png)|
-| [Rutherford (Name)](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/)|
-|![Rutherford (Name) example sett](/setts/s8/k48r6k6r6k24b66y6b12-b6060c8-k101010-rc80000-ye8c000/sett.png)|

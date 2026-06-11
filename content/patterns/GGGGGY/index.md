@@ -18,8 +18,6 @@ GGGGGY
 
 | Tartans |
 |---------------|
-| [Confederate Cavalry](/setts/s6/g4ga28g16ga6g24y4-g003820-ga8c7038-yd09800/)|
-|![Confederate Cavalry example sett](/setts/s6/g4ga28g16ga6g24y4-g003820-ga8c7038-yd09800/sett.png)|
 | [Confederate Cavalry (Military)](/setts/s6/g4ga28g16ga6g24y4-g003820-ga8c7038-yd09800/)|
 |![Confederate Cavalry (Military) example sett](/setts/s6/g4ga28g16ga6g24y4-g003820-ga8c7038-yd09800/sett.png)|
 | [Park (Estate Check)](/setts/s6/g8ga36gb12ga12gb48y6-g5c6428-ga003820-gb285800-yb8a040/)|

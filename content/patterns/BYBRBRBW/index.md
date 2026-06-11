@@ -20,5 +20,3 @@ BYBRBRBW
 |---------------|
 | [Brigadoon](/setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/)|
 |![Brigadoon example sett](/setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Brigadoon (Fashion)](/setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/)|
-|![Brigadoon (Fashion) example sett](/setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/sett.png)|

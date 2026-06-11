@@ -20,5 +20,3 @@ BBBRKRK
 |---------------|
 | [Pinehurst Resort](/setts/s7/k16r4k16r4b56ba4b4-b0c5454-ba505050-k000034-r8c0000/)|
 |![Pinehurst Resort example sett](/setts/s7/k16r4k16r4b56ba4b4-b0c5454-ba505050-k000034-r8c0000/sett.png)|
-| [Pinehurst Resort (Corporate)](/setts/s7/k16r4k16r4b56ba4b4-b0c5454-ba505050-k000034-r8c0000/)|
-|![Pinehurst Resort (Corporate) example sett](/setts/s7/k16r4k16r4b56ba4b4-b0c5454-ba505050-k000034-r8c0000/sett.png)|

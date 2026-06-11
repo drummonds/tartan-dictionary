@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3513/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Angle Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3513/))
+- undated — Angle Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5266))
+
 ## Thread count
 DY/20 G12 DY20 G32 K/20
 ![Sett](sett.png)

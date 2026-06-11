@@ -1,13 +1,20 @@
 ---
-title: "Labrador District Tartan Tartan Number: 10004. Earliest known date: Feb. 2009 Officially adopted by the combined Councils of Labrador in February 2010. This tartan has been designed to celebrate the Labrador Scottish Heritage. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Labrador (District)"
 date: 2023-03-18
 ---
 In pattern [WKGRGKYKWKW](/patterns/wkgrgkykwkw/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10004
+Original link http://www.tartansauthority.com/tartan-ferret/display/10004/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Feb. 2009 — Labrador (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10004/))
+- undated — Labrador District Tartan Tartan Number: 10004. Earliest known date: Feb. 2009 Officially adopted by the combined Councils of Labrador in February 2010. This tartan has been designed to celebrate the Labrador Scottish Heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10004))
 
 ## Thread count
 LB/22 K4 LB4 K4 DY4 K22 DG60 DR4 DG6 K2 LN/10

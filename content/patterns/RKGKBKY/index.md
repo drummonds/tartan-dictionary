@@ -20,8 +20,6 @@ RKGKBKY
 |---------------|
 | [Green MacLeod](/setts/s7/y8k4b40k20g30k4r6-b1474b4-g006818-k101010-rc80000-ye8c000/)|
 |![Green MacLeod example sett](/setts/s7/y8k4b40k20g30k4r6-b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [MacLeod (Clan)](/setts/s7/y8k4b40k20g30k4r6-b1474b4-g006818-k101010-rc80000-ye8c000/)|
-|![MacLeod (Clan) example sett](/setts/s7/y8k4b40k20g30k4r6-b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
 | [MacLeod](/setts/s7/r3k2g15k10b21k1y2-b00004c-g004c00-k000000-rc80000-yffff00/)|
 |![MacLeod example sett](/setts/s7/r3k2g15k10b21k1y2-b00004c-g004c00-k000000-rc80000-yffff00/sett.png)|
 | [MacLeod, Macleod of Harris](/setts/s7/r6k4g30k20b40k4y4-b304080-g008000-k000000-rc00000-yf0c000/)|

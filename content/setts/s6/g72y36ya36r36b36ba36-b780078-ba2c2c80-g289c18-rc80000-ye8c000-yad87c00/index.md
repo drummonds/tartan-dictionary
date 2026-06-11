@@ -1,13 +1,20 @@
 ---
-title: "Rainbow (Gay Community)"
+title: "Rainbow (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BBRYYG](/patterns/bbryyg/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3445
+Original link http://www.tartansauthority.com/tartan-ferret/display/2647/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1999 — Rainbow (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2647/))
+- 01/09/2000 — Rainbow (Gay Community) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3445))
 
 ## Thread count
 DB/36 P36 R36 O36 Y36 G/72

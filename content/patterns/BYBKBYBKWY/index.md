@@ -16,7 +16,5 @@ BYBKBYBKWY
 
 | Tartans |
 |---------------|
-| [Kyle Grape](/setts/s10/b68y4b8k8b8y4b12k32w68y8-b440044-k101010-wf0e0c8-y58bc70/)|
-|![Kyle Grape example sett](/setts/s10/b68y4b8k8b8y4b12k32w68y8-b440044-k101010-wf0e0c8-y58bc70/sett.png)|
 | [Kyle, Grape (Dance)](/setts/s10/b68y4b8k8b8y4b12k32w68y8-b440044-k101010-wf0e0c8-y58bc70/)|
 |![Kyle, Grape (Dance) example sett](/setts/s10/b68y4b8k8b8y4b12k32w68y8-b440044-k101010-wf0e0c8-y58bc70/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3791
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1830 — Sinclair (Logan) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3791))
+- 1830 — Sinclair (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1436/))
+
 ## Thread count
 R/56 DB12 LN2 K8 G32 R/56
 ![Sett](sett.png)

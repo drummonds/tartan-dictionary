@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GGBGBGBWBW](/patterns/ggbgbgbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6568/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4170
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Tweedsmuir Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4170))
+- Unknown — Tweedsmuir Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6568/))
 
 ## Thread count
 G/4 N60 P4 N4 P4 N8 P24 W60 B4 W/4

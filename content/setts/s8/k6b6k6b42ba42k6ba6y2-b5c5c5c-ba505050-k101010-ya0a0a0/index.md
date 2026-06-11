@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7459/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2007 — Granite City (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7459/))
+- undated — Silver Granite (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5505))
+
 ## Thread count
 K/6 N6 K6 N42 Nb42 K6 Nb6 Na/2
 ![Sett](sett.png)

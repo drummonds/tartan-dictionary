@@ -1,13 +1,20 @@
 ---
-title: "New Club Centenary (Commemorative)"
+title: "New Club Centenary"
 date: 2023-03-18
 ---
 In pattern [BBRBRBGBG](/patterns/bbrbrbgbg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3911/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4986
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — New Club Centenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4986))
+- 2001 — New Club Centenary (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3911/))
 
 ## Thread count
 DG/8 DB6 DG40 DB18 DR4 DB4 DR4 DB36 DP/8

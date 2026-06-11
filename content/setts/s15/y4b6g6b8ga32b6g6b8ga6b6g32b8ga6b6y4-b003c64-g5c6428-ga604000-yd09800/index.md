@@ -1,13 +1,20 @@
 ---
-title: "Kerry, County (District)"
+title: "Kerry, County"
 date: 2023-03-18
 ---
 In pattern [YBGBGBGBGBGBGBY](/patterns/ybgbgbgbgbgbgby/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2263/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1956
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Kerry, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1956))
+- 1997 — Kerry, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2263/))
 
 ## Thread count
 DY/4 DB6 G6 DB8 T32 DB6 G6 DB8 T6 DB6 G32 DB8 T6 DB6 DY/4

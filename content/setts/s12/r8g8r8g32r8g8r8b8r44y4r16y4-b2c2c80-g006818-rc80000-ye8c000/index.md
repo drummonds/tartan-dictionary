@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=448
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1930 — Burns 1930 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=448))
+- 1930 — Burns (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1539/))
+
 ## Thread count
 R/8 G8 R8 G32 R8 G8 R8 DB8 R44 Y4 R16 Y/4
 ![Sett](sett.png)

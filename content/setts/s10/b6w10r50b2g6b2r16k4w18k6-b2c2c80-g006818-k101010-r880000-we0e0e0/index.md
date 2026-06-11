@@ -1,13 +1,20 @@
 ---
-title: "Bro-Zol (Corporate)"
+title: "Bro-Zol"
 date: 2023-03-18
 ---
 In pattern [BWRBGBRKWK](/patterns/bwrbgbrkwk/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6647/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=397
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2005 — Bro-Zol (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=397))
+- 2005 May — Bro-Zol (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6647/))
 
 ## Thread count
 DB/6 LN10 DR50 DB2 G6 DB2 DR16 K4 LN18 K/6

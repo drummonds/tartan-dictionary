@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1524
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Green Mountain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1524))
+- 2002 — Green Mountain (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5849/))
+
 ## Thread count
 DG/52 R4 DG6 Y4 DG16 LN40 DB6 LN/8
 ![Sett](sett.png)

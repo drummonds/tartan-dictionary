@@ -18,5 +18,3 @@ BWBRBKYKG
 |---------------|
 | [St Andrew's College](/setts/s9/b36w4b4r6b42k56y2k2g4-b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ye8c000/)|
 |![St Andrew's College example sett](/setts/s9/b36w4b4r6b42k56y2k2g4-b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
-| [St. Andrew's College (Corporate)](/setts/s9/b36w4b4r6b42k56y2k2g4-b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![St. Andrew's College (Corporate) example sett](/setts/s9/b36w4b4r6b42k56y2k2g4-b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|

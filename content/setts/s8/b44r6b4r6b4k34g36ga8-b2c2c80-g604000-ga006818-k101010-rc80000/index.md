@@ -1,13 +1,20 @@
 ---
-title: "Scotch House 2000 Antique (Fashion)"
+title: "Scotch House 2000 Antique"
 date: 2023-03-18
 ---
 In pattern [BRBRBKGG](/patterns/brbrbkgg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2636/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3668
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Scotch House 2000 Antique (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3668))
+- 1999 — Scotch House 2000 Antique (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2636/))
 
 ## Thread count
 DB/44 R6 DB4 R6 DB4 K34 T36 G/8

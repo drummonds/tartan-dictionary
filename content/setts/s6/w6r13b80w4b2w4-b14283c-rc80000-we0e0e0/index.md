@@ -1,13 +1,20 @@
 ---
-title: "Montrose Football Club (Sports)"
+title: "Montrose Football Club"
 date: 2023-03-18
 ---
 In pattern [WBWBRW](/patterns/wbwbrw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6579/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2999
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Montrose Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2999))
+- pre 2005 — Montrose Football Club (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6579/))
 
 ## Thread count
 LN/4 DN2 LN4 DN80 R13 LN/6

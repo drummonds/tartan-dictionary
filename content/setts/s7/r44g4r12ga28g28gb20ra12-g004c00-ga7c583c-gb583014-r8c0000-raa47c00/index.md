@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3782/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Caledonian Maple (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3782/))
+- undated — Caledonian Maple (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4939))
+
 ## Thread count
 DR/44 G4 DR12 LT28 G28 T20 DY/12
 ![Sett](sett.png)

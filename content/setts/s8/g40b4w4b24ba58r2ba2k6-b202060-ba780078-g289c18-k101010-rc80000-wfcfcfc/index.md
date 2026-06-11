@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2202
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2005 — Longhaugh Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2202))
+- May 2005 — Longhaugh Primary School (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6645/))
+
 ## Thread count
 G/40 DB4 W4 DB24 P58 R2 P2 K/6
 ![Sett](sett.png)

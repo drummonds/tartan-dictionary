@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2493
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — MacIver Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2493))
+- pre 1998 — MacIver Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2697/))
+
 ## Thread count
 LN/4 G24 K6 G6 K32 G6 K6 G24 Y/4
 ![Sett](sett.png)

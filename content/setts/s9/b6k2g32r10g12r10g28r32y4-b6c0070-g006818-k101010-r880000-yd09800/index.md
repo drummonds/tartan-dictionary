@@ -1,13 +1,20 @@
 ---
-title: "Fulton (1982) (Name)"
+title: "Fulton"
 date: 2023-03-18
 ---
 In pattern [BKGRGRGRY](/patterns/bkgrgrgry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2205/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1290
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1982 — Fulton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1290))
+- 1982 — Fulton (1982) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2205/))
 
 ## Thread count
 DY/4 DR32 G28 DR10 G12 DR10 G32 K2 P/6

@@ -18,7 +18,5 @@ BWYW
 
 | Tartans |
 |---------------|
-| [Weir Minerals](/setts/s4/b160w2y16w6-b1c0070-we0e0e0-yd87c00/)|
-|![Weir Minerals example sett](/setts/s4/b160w2y16w6-b1c0070-we0e0e0-yd87c00/sett.png)|
 | [Weir Minerals (Corporate)](/setts/s4/b160w2y16w6-b1c0070-we0e0e0-yd87c00/)|
 |![Weir Minerals (Corporate) example sett](/setts/s4/b160w2y16w6-b1c0070-we0e0e0-yd87c00/sett.png)|

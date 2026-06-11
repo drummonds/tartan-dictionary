@@ -20,9 +20,5 @@ BRBRBW
 |---------------|
 | [Matthews (Personal)](/setts/s6/b6r48b6r6b50w6-b2c2c80-rc80000-we0e0e0/)|
 |![Matthews (Personal) example sett](/setts/s6/b6r48b6r6b50w6-b2c2c80-rc80000-we0e0e0/sett.png)|
-| [Matthews (Name)](/setts/s6/b6r48b6r6b50w6-b2c2c80-rc80000-we0e0e0/)|
-|![Matthews (Name) example sett](/setts/s6/b6r48b6r6b50w6-b2c2c80-rc80000-we0e0e0/sett.png)|
 | [Tokharian](/setts/s6/b4r20b4r20b8w4-b304080-r906030-we0e0e0/)|
 |![Tokharian example sett](/setts/s6/b4r20b4r20b8w4-b304080-r906030-we0e0e0/sett.png)|
-| [Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b6r48b6r6b50w6-b2c2c80-rc80000-we0e0e0/)|
-|![Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b6r48b6r6b50w6-b2c2c80-rc80000-we0e0e0/sett.png)|

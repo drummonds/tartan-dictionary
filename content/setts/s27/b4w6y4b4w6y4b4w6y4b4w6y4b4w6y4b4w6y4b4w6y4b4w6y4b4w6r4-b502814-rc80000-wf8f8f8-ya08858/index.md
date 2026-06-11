@@ -1,13 +1,20 @@
 ---
-title: "Glenmoidart (Estate Check)"
+title: "Glenmoidart"
 date: 2023-03-18
 ---
 In pattern [BWYBWYBWYBWYBWYBWYBWYBWYBWR](/patterns/bwybwybwybwybwybwybwybwybwr/).
 
 
-This was sourced from tartans-authority.  It is a [27 stripes tartan](/stripes/stripes27/).
+This was sourced from register-of-tartans.  It is a [27 stripes tartan](/stripes/stripes27/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5039/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1425
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Glenmoidart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1425))
+- pre 2002 — Glenmoidart (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5039/))
 
 ## Thread count
 R/4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T4 LT4 W6 T/4

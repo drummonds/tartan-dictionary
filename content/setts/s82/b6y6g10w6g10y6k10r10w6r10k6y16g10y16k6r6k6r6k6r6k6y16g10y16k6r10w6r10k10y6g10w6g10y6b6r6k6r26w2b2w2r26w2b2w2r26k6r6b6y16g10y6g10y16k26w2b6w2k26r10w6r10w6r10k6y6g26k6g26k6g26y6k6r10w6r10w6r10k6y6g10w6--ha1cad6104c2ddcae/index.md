@@ -1,14 +1,21 @@
 ---
-title: "Drummond of Strathallan (Clan)"
+title: "Drummond of Strathallan or Ogilvy"
 date: 2023-03-18
 slug_full: "b6y6g10w6g10y6k10r10w6r10k6y16g10y16k6r6k6r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000"
 ---
 In pattern [BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/patterns/bygwgykrwrkygykrkrkrkygykrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
 
 
-This was sourced from tartans-authority.  It is a [82 stripes tartan](/stripes/stripes82/).
+This was sourced from register-of-tartans.  It is a [82 stripes tartan](/stripes/stripes82/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/671/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=992
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1812 — Drummond of Strathallan or Ogilvy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=992))
+- 1812 — Drummond of Strathallan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/671/))
 
 ## Thread count
 DB/6 Y6 G10 W6 G10 Y6 K10 R10 W6 R10 K6 Y16 G10 Y16 K6 R6 K6 R6 K6 R6 K6 Y16 G10 Y16 K6 R10 W6 R10 K10 Y6 G10 W6 G10 Y6 DB6 R6 K6 R26 W2 DB2 W2 R26 W2 DB2 W2 R26 K6 R6 DB6 Y16 G10 Y6 G10 Y16 K26 W2 DB6 W2 K26 R10 W6 R10 W6 R10 K6 Y6 G26 K6 G26 K6 G26 Y6 K6 R10 W6 R10 W6 R10 K6 Y6 G10 W/6

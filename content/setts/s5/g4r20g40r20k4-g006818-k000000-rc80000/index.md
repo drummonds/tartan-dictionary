@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3076
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1745 — Murray, Lord George (Hose) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3076))
+- 1745 — Murray, Lord George (Hose) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5644/))
+
 ## Thread count
 G/4 R20 G40 R20 K/4
 ![Sett](sett.png)

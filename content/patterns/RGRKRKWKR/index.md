@@ -18,8 +18,6 @@ RGRKRKWKR
 |---------------|
 | [Wemyss](/setts/s9/r16k48w4k48r16k16r96g4r16-g006818-k101010-rc80000-wfcfcfc/)|
 |![Wemyss example sett](/setts/s9/r16k48w4k48r16k16r96g4r16-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Wemyss (Clan)](/setts/s9/r16k48w4k48r16k16r96g4r16-g006818-k101010-rc80000-wfcfcfc/)|
-|![Wemyss (Clan) example sett](/setts/s9/r16k48w4k48r16k16r96g4r16-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [Wemyss](/setts/s9/r4k12w1k12r4k4r24g1r4-g004c00-k000000-rc80000-wd0d0d0/)|
 |![Wemyss example sett](/setts/s9/r4k12w1k12r4k4r24g1r4-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
 | [Wemyss](/setts/s9/r8k24w2k24r8k8r48g2r8-g008000-k000000-rc00000-we0e0e0/)|

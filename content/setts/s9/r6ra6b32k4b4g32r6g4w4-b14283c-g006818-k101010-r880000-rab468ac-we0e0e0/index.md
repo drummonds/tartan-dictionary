@@ -1,13 +1,20 @@
 ---
-title: "Chinzei Keiai School (School)"
+title: "Chinzei Keiai School"
 date: 2023-03-18
 ---
 In pattern [RRBKBGRGW](/patterns/rrbkbgrgw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5741/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=637
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Chinzei Keiai School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=637))
+- 2002 — Chinzei Keiai School (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5741/))
 
 ## Thread count
 DR/6 P6 DN32 K4 DN4 G32 DR6 G4 LN/4

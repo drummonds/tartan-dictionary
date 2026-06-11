@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10693
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 03/09/2012 — Galvez-Brown (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10693))
+- undated — Galvez-Brown Name Tartan Tartan Number: 10693. Earliest known date: 6 September 2012 This tartan celebrates the union of the Galvez and Brown families, of Catalan and Scottish origins, and may be used by any of the descendants or relatives of both families. Colours: blue and white represent the Saltire (Scottish Flag); red and yellow represent the colours of the Senyera (Catalan Flag). It was designed using the Tartan Web Designer software. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10693))
+
 ## Thread count
 DB/72 Y10 R24 Ra18 P10 W24 Y/14
 ![Sett](sett.png)

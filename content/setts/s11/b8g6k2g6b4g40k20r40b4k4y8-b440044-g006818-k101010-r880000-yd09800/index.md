@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2976
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1994 — Moffat (1994) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2976))
+- 1994 — Moffat (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5674/))
+
 ## Thread count
 DP/8 G6 K2 G6 DP4 G40 K20 DR40 DP4 K4 DY/8
 ![Sett](sett.png)

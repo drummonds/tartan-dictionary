@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3617/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1996 — British Airways (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3617/))
+- undated — British Airways (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4848))
+
 ## Thread count
 W/2 DB4 Ra2 R4 DB40 B4 Ra4 B4 Ra20 B4 Ra4 B4 DG40 G4 Y/4
 ![Sett](sett.png)

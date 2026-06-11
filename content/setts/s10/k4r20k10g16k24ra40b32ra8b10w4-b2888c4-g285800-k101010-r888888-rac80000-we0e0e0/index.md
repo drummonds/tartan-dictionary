@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Manderson #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802))
+- Unknown — Manderson #2 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5713/))
+
 ## Thread count
 K/4 N20 K10 G16 K24 R40 B32 R8 B10 LN/4
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s10/k4r20k10g16k24ra40b32ra8b10w4-b2888c4-g285800-k101010-r888888-rac80000-we0e0e0/
-0e0e0/

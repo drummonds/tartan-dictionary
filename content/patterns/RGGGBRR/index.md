@@ -20,5 +20,3 @@ RGGGBRR
 |---------------|
 | [Lunting Papi (Personal)](/setts/s7/r5ra8b13g21ga34gb55r3-b440044-g003000-ga003820-gb005028-ra07c58-ra800000/)|
 |![Lunting Papi (Personal) example sett](/setts/s7/r5ra8b13g21ga34gb55r3-b440044-g003000-ga003820-gb005028-ra07c58-ra800000/sett.png)|
-| [Lunting Papi (Personal)](/setts/s7/r5ra8b13g21ga34gb55r3-b440044-g003000-ga003820-gb005028-ra07c58-ra800000/)|
-|![Lunting Papi (Personal) example sett](/setts/s7/r5ra8b13g21ga34gb55r3-b440044-g003000-ga003820-gb005028-ra07c58-ra800000/sett.png)|

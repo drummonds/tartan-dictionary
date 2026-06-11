@@ -20,8 +20,6 @@ KGKBRBR
 |---------------|
 | [National Galleries of Scotland](/setts/s7/k14g44k44b12r4b30r4-b1c0070-g006818-k101010-rc80000/)|
 |![National Galleries of Scotland example sett](/setts/s7/k14g44k44b12r4b30r4-b1c0070-g006818-k101010-rc80000/sett.png)|
-| [National Galleries of Scotland (Corp](/setts/s7/k14g44k44b12r4b30r4-b1c0070-g006818-k101010-rc80000/)|
-|![National Galleries of Scotland (Corp example sett](/setts/s7/k14g44k44b12r4b30r4-b1c0070-g006818-k101010-rc80000/sett.png)|
 | [National Galleries, of Scotland](/setts/s7/k14g44k44b12r4b30r4-b000050-g008000-k000000-rc00000/)|
 |![National Galleries, of Scotland example sett](/setts/s7/k14g44k44b12r4b30r4-b000050-g008000-k000000-rc00000/sett.png)|
 | [National Galleries of Scotland Corporate Tartan Tartan Number: 2050. Earliest known date: November 1991 Based on the Black Watch or Government tartan. The three claret stripes represent the three galleries and the colour is that of William Playfair's original colour scheme for the National Gallery. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k14g44k44b12r4b30r4-b202060-g006818-k101010-rc80000/)|

@@ -18,5 +18,3 @@ BYBYBKYKYKY
 |---------------|
 | [General Choi](/setts/s11/b6y4b6y4b64k56y4k4y4k4y6-b2888c4-k101010-ye8c000/)|
 |![General Choi example sett](/setts/s11/b6y4b6y4b64k56y4k4y4k4y6-b2888c4-k101010-ye8c000/sett.png)|
-| [General Choi (Commemorative)](/setts/s11/b6y4b6y4b64k56y4k4y4k4y6-b2888c4-k101010-ye8c000/)|
-|![General Choi (Commemorative) example sett](/setts/s11/b6y4b6y4b64k56y4k4y4k4y6-b2888c4-k101010-ye8c000/sett.png)|

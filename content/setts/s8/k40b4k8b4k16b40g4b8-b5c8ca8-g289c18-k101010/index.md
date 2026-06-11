@@ -1,13 +1,20 @@
 ---
-title: "Martin's Own (Personal)"
+title: "Martin's Own"
 date: 2023-03-18
 ---
 In pattern [BGBKBKBK](/patterns/bgbkbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6590/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3433
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Martin's Own (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3433))
+- 2004 — Martin's Own (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6590/))
 
 ## Thread count
 B/8 G4 B40 K16 B4 K8 B4 K/40

@@ -20,5 +20,3 @@ RBKGBYBW
 |---------------|
 | [Freemasons' Universal](/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/)|
 |![Freemasons' Universal example sett](/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/sett.png)|
-| [Freemasons' Universal (Corporate)](/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/)|
-|![Freemasons' Universal (Corporate) example sett](/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/sett.png)|

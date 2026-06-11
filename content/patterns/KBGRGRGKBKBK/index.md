@@ -18,5 +18,3 @@ KBGRGRGKBKBK
 |---------------|
 | [Jedforest](/setts/s12/k8b4g48r2g4r2g4k40b48k2b4k8-b1c0070-g006818-k101010-rc80000/)|
 |![Jedforest example sett](/setts/s12/k8b4g48r2g4r2g4k40b48k2b4k8-b1c0070-g006818-k101010-rc80000/sett.png)|
-| [Jedforest (District)](/setts/s12/k8b4g48r2g4r2g4k40b48k2b4k8-b1c0070-g006818-k101010-rc80000/)|
-|![Jedforest (District) example sett](/setts/s12/k8b4g48r2g4r2g4k40b48k2b4k8-b1c0070-g006818-k101010-rc80000/sett.png)|

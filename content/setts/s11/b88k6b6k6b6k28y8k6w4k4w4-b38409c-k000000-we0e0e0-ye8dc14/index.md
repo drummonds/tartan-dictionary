@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7425/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2007 — Kang (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7425/))
+- undated — Kang (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5497))
+
 ## Thread count
 B/88 K6 B6 K6 B6 K28 Y8 K6 LN4 K4 LN/4
 ![Sett](sett.png)

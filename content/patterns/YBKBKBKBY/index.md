@@ -18,5 +18,3 @@ YBKBKBKBY
 |---------------|
 | [Elgin City Band](/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/)|
 |![Elgin City Band example sett](/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/sett.png)|
-| [Elgin City Band (Corporate)](/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/)|
-|![Elgin City Band (Corporate) example sett](/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/sett.png)|

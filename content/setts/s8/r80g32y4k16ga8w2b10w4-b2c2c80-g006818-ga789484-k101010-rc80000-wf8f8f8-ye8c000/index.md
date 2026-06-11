@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=476
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Ancient Caledonian Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=476))
+- pre 2002 — Caledonian Soc., Ancient (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1554/))
+
 ## Thread count
 R/80 G32 Y4 K16 LG8 W2 DB10 W/4
 ![Sett](sett.png)

@@ -16,7 +16,5 @@ RYKWKYRYKW
 
 | Tartans |
 |---------------|
-| [Westwood MacStone](/setts/s10/w4k26y26r4y26k26w4k12y12r2-k101010-r800028-we0e0e0-ya08858/)|
-|![Westwood MacStone example sett](/setts/s10/w4k26y26r4y26k26w4k12y12r2-k101010-r800028-we0e0e0-ya08858/sett.png)|
 | [Westwood MacStone (Fashion)](/setts/s10/w4k26y26r4y26k26w4k12y12r2-k101010-r800028-we0e0e0-ya08858/)|
 |![Westwood MacStone (Fashion) example sett](/setts/s10/w4k26y26r4y26k26w4k12y12r2-k101010-r800028-we0e0e0-ya08858/sett.png)|

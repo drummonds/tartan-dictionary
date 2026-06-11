@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7554/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1981 — McBrayer Blue (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7554/))
+- undated — McBrayer Blue (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5582))
+
 ## Thread count
 DB/114 K2 R24 DB2 G24 R28 DB2 R/4
 ![Sett](sett.png)

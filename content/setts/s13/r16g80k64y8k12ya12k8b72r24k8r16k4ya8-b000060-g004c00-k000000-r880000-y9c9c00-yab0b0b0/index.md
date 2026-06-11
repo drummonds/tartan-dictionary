@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1307
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Galt, Alexander, Sir (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1307))
+- pre 2002 — Galt, Alexander, Sir (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1482/))
+
 ## Thread count
 DR/16 G80 K64 LG8 K12 N12 K8 DB72 DR24 K8 DR16 K4 N/8
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Black Thistle (Artefact)"
+title: "Black Thistle"
 date: 2023-03-18
 ---
 In pattern [BKGKGKRKR](/patterns/bkgkgkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7867/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5815
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2007 — Black Thistle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5815))
+- pre 2007 — Black Thistle (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7867/))
 
 ## Thread count
 B/20 K12 G84 K4 G2 K4 R2 K48 R/4

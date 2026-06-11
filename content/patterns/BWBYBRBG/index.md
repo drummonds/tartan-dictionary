@@ -20,5 +20,3 @@ BWBYBRBG
 |---------------|
 | [Royal Agricultural Winter Fair](/setts/s8/b128w4b4y8b4r4b16g64-b00008c-g003014-r8c0000-wc8c8c8-yc88c00/)|
 |![Royal Agricultural Winter Fair example sett](/setts/s8/b128w4b4y8b4r4b16g64-b00008c-g003014-r8c0000-wc8c8c8-yc88c00/sett.png)|
-| [Royal Agricultural Winter Fair (Comm](/setts/s8/b128w4b4y8b4r4b16g64-b00008c-g003014-r8c0000-wc8c8c8-yc88c00/)|
-|![Royal Agricultural Winter Fair (Comm example sett](/setts/s8/b128w4b4y8b4r4b16g64-b00008c-g003014-r8c0000-wc8c8c8-yc88c00/sett.png)|

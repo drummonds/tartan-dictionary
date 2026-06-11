@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3800
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/1999 — Singh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3800))
+- Apr.1999 — Singh (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2600/))
+
 ## Thread count
 DR/6 N4 G36 DY4 G36 P68 DR6 P/6
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/6 N4 G36 DY4 G36 P68 DR6 P/6 tartan")
 
 ID: /setts/s8/b6r6b68g36y4g36w4r6-b6c0070-g006818-r880000-wc0c0c0-yd09800/
-d09800/

@@ -20,5 +20,3 @@ GWGKRKYY
 |---------------|
 | [Dunedin (NZ)](/setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/)|
 |![Dunedin (NZ) example sett](/setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/sett.png)|
-| [Dunedin (NZ) (District)](/setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/)|
-|![Dunedin (NZ) (District) example sett](/setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/sett.png)|

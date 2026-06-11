@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7694/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- July 2008 — Milan Club Scozia (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7694/))
+- undated — Milan Club Scozia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5692))
+
 ## Thread count
 LN/6 R5 K18 R2 K2 R2 K4 LN1 R4 K2 R2 K2 R4 K2 R2 K2 R/48
 ![Sett](sett.png)

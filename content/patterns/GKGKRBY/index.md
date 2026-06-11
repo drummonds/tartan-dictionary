@@ -20,5 +20,3 @@ GKGKRBY
 |---------------|
 | [Greenock](/setts/s7/g4k4g34k32r4b34y4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
 |![Greenock example sett](/setts/s7/g4k4g34k32r4b34y4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Greenock (Fashion)](/setts/s7/g4k4g34k32r4b34y4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Greenock (Fashion) example sett](/setts/s7/g4k4g34k32r4b34y4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Scotts Valley (Corporate)"
+title: "Scotts Valley"
 date: 2023-03-18
 ---
 In pattern [BWRGWRYRG](/patterns/bwrgwryrg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5350/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3751
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Scotts Valley (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3751))
+- pre 2002 — Scotts Valley (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5350/))
 
 ## Thread count
 DB/20 N4 DR4 G4 N4 DR4 DY4 DR4 G/80

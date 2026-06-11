@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2624
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacLellan/McLellan Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2624))
+- pre 2002 — MacLellan Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1382/))
+
 ## Thread count
 K/8 DB28 K20 R8 DB20 K8 DB20 LN4 DB20 K4 DB20 R8 G28 Y/8
 ![Sett](sett.png)

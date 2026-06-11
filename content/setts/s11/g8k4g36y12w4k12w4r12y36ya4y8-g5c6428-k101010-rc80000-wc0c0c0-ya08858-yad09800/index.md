@@ -1,13 +1,21 @@
 ---
-title: "Asman, Day Tan (Personal)"
+title: "Asman, Day Tan (Name)"
 date: 2023-03-18
 ---
 In pattern [GKGYWKWRYYY](/patterns/gkgywkwryyy/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5273
+Original link http://www.tartansauthority.com/tartan-ferret/display/3529/
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- pre 2002 — Asman, Day Tan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3529/))
+- undated — Asman, Day Tan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5273))
+- undated — Asman Day Tan Family Tartan Tartan Number: 3529. Earliest known date: 2002 Based on a design by Phil Smith, woven by Peter MacDonald at the suggestion of David Asman for whom the original design was done. Intended for "day" wear. "Tan" is the name of the light brown colour. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3529))
 
 ## Thread count
 G/8 K4 G36 LT12 N4 K12 N4 R12 LT36 DY4 LT/8
@@ -24,8 +32,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.21 |
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
-
-ID: /setts/s11/g8k4g36y12w4k12w4r12y36ya4y8-g5c6428-k101010-rc80000-wc0c0c0-ya08858-yad09800/
-olor:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s11/g8k4g36y12w4k12w4r12y36ya4y8-g5c6428-k101010-rc80000-wc0c0c0-ya08858-yad09800/

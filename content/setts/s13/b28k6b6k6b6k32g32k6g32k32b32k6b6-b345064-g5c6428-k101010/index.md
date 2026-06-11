@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=502
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1725 — Campbell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=502))
+- 1725 — Campbell (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1/))
+
 ## Thread count
 N/6 K6 N32 K32 G32 K6 G32 K32 N6 K6 N6 K6 N/28
 ![Sett](sett.png)

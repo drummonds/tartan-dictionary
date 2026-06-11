@@ -20,5 +20,3 @@ KYKYRYKY
 |---------------|
 | [Clyde Valley HOG](/setts/s8/k54y6k6y6r20ya40k6yb3-k101010-r888888-ya0a0a0-yad87c00-ybe8c000/)|
 |![Clyde Valley HOG example sett](/setts/s8/k54y6k6y6r20ya40k6yb3-k101010-r888888-ya0a0a0-yad87c00-ybe8c000/sett.png)|
-| [Clyde Valley HOG (Corporate)](/setts/s8/k54y6k6y6r20ya40k6yb3-k101010-r888888-ya0a0a0-yad87c00-ybe8c000/)|
-|![Clyde Valley HOG (Corporate) example sett](/setts/s8/k54y6k6y6r20ya40k6yb3-k101010-r888888-ya0a0a0-yad87c00-ybe8c000/sett.png)|

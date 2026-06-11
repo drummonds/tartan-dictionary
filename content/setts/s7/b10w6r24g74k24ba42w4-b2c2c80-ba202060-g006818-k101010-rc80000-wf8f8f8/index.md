@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=252
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/2005 — Bergen Scottish (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=252))
+- October 2005 — Bergen Scottish (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6791/))
+
 ## Thread count
 DBa/10 W6 R24 G74 K24 DB42 W/4
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=380
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1993 — Brooke (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=380))
+- pre 1993 — Brooke (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/48/))
+
 ## Thread count
 B/4 LP2 B4 K32 G40 K28 DR4 W4 Y/4
 ![Sett](sett.png)

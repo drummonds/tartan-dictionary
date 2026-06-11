@@ -18,5 +18,3 @@ BKBKYKGKGKRKRK
 |---------------|
 | [Deas](/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/)|
 |![Deas example sett](/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/sett.png)|
-| [Deas (Name)](/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/)|
-|![Deas (Name) example sett](/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/sett.png)|

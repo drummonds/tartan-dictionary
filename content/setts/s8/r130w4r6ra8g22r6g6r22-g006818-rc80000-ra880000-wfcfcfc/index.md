@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1556
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1830 — Gudbrandsdalen, Rondastakken (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1556))
+- pre 1830 — Gudbrandsdalen, Rondastakken (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2086/))
+
 ## Thread count
 R/22 G6 R6 G22 DR8 R6 W4 R/130
 ![Sett](sett.png)

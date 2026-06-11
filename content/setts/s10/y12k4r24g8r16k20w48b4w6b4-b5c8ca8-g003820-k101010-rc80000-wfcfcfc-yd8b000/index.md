@@ -1,13 +1,20 @@
 ---
-title: "Gillies Dress, Red (Dance)"
+title: "Gillies Red Dress"
 date: 2023-03-18
 ---
 In pattern [BWBWKRGRKY](/patterns/bwbwkrgrky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/639/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1345
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Gillies Red Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1345))
+- 1986 — Gillies Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/639/))
 
 ## Thread count
 B/4 W6 B4 W48 K20 R16 DG8 R24 K4 Y/12

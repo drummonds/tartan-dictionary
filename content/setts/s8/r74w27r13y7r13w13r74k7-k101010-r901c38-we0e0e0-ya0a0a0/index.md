@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7829/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Cornell (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7829/))
+- undated — Cornell #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5783))
+
 ## Thread count
 DR/74 LN27 DR13 N7 DR13 LN13 DR74 K/7
 ![Sett](sett.png)

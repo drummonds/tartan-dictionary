@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/478/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1981 — Largs (1981) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/478/))
+- 01/01/1983 — Largs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2051))
+
 ## Thread count
 DB/4 R4 DB44 W6 DB5 LT4 DB3 LT8 DB3 LT16 DB4 R24 W/4
 ![Sett](sett.png)

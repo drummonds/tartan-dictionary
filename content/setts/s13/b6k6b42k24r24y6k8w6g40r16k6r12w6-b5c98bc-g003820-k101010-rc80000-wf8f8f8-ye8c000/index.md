@@ -1,13 +1,20 @@
 ---
-title: "Dykes of Perthshire (Name)"
+title: "Dykes, of Perthshire"
 date: 2023-03-18
 ---
 In pattern [BKBKRYKWGRKRW](/patterns/bkbkrykwgrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7156/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1062
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Dykes, of Perthshire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1062))
+- pre 2007 — Dykes of Perthshire (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7156/))
 
 ## Thread count
 B/6 K6 B42 K24 R24 Y6 K8 W6 DG40 R16 K6 R12 W/6

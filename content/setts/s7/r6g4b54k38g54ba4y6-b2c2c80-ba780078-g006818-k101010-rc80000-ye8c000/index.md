@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=647
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Christian Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=647))
+- 2005 January — Christian Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6830/))
+
 ## Thread count
 R/6 G4 DB54 K38 G54 P4 Y/6
 ![Sett](sett.png)

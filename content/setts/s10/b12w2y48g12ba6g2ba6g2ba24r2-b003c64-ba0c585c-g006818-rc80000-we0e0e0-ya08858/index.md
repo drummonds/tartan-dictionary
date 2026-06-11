@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5756
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 22/01/2008 — Chisholm Colonial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5756))
+- Sep. 2008 — Chisholm Colonial 2008 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7791/))
+
 ## Thread count
 DB/12 LN2 LT48 Ga12 G6 Ga2 G6 Ga2 G24 R/2
 ![Sett](sett.png)

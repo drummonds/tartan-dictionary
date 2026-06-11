@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KBGKGY](/patterns/kbgkgy/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6217/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2944
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2003 — Michaluk (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2944))
+- pre 2004 — Michaluk (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6217/))
 
 ## Thread count
 DY/12 G12 K80 G80 B16 K/12
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/12 G12 K80 G80 B16 K/12 tartan")
 
 ID: /setts/s6/k12b16g80k80g12y12-b1474b4-g408060-k101010-ybc8c00/
-00/

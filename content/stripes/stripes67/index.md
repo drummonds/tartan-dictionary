@@ -11,4 +11,3 @@ Tartan setts with 67 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.07 | [Hash House Harriers Trail (Corp)](/setts/s67/y2ya2y2ya2r8y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2b56g56ba8g56b56y2ya2y2ya2y2ya2y2ya2w8y2ya2y2ya2w8y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2-b441800-ba2c2c80-g006818-rc8000-h141e8c6885d6ba35/) | tartans-authority |
-| 0.08 | [Hash House Harriers Trail](/setts/s67/y2ya2y2ya2r8y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2b56g56ba8g56b56y2ya2y2ya2y2ya2y2ya2w8y2ya2y2ya2w8y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2-b441800-ba2c2c80-g006818-rc8000-h141e8c6885d6ba35/) | register-of-tartans |

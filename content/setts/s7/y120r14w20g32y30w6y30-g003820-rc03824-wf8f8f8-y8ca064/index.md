@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Deer Park (Loton) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904))
+- 1986-1993 — Deer Park (Loton) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7074/))
+
 ## Thread count
 LT/120 R14 W20 DG32 LT30 W6 LT/30
 ![Sett](sett.png)

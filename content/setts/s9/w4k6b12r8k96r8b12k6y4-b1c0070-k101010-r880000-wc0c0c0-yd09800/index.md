@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1713
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1996 — Highland Park (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1713))
+- 1996 — Highland Park (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5190/))
+- undated — Highland Park Corporate Tartan Tartan Number: 5190. Earliest known date: 1996 Designed by Lochcarron in May 1996 for Highland Park Distillery (The Orkney Whisky Company) using the main logo colors. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5190))
+
 ## Thread count
 DY/4 K6 DB12 DR8 K96 DR8 DB12 K6 N/4
 ![Sett](sett.png)
@@ -23,8 +31,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
-
-ID: /setts/s9/w4k6b12r8k96r8b12k6y4-b1c0070-k101010-r880000-wc0c0c0-yd09800/
-lter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
 ID: /setts/s9/w4k6b12r8k96r8b12k6y4-b1c0070-k101010-r880000-wc0c0c0-yd09800/

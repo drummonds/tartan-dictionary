@@ -1,13 +1,20 @@
 ---
-title: "Gillespie (Clan)"
+title: "Gillespie"
 date: 2023-03-18
 ---
 In pattern [RGKYGRKGW](/patterns/rgkygrkgw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1361/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1339
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1860 — Gillespie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1339))
+- 19th century — Gillespie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1361/))
 
 ## Thread count
 R/52 LG4 K12 Y4 DG16 R4 K8 LG4 W/4

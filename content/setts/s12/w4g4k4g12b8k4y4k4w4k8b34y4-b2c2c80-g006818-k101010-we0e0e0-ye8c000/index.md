@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3271
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — O'Sheehan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3271))
+- pre 2007 — O'Sheehan (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7115/))
+
 ## Thread count
 LN/4 G4 K4 G12 DB8 K4 Y4 K4 LN4 K8 DB34 Y/4
 ![Sett](sett.png)

@@ -18,5 +18,3 @@ RGBGBGBRYR
 |---------------|
 | [Chisholm D](/setts/s10/r12y2r48b12g4b2g4b2g24r2-b6e5058-g11450d-raa0000-yaaaaaa/)|
 |![Chisholm D example sett](/setts/s10/r12y2r48b12g4b2g4b2g24r2-b6e5058-g11450d-raa0000-yaaaaaa/sett.png)|
-| [Chisholm D](/setts/s10/r12y2r48b12g4b2g4b2g24r2-b6e5058-g11450d-raa0000-yaaaaaa/)|
-|![Chisholm D example sett](/setts/s10/r12y2r48b12g4b2g4b2g24r2-b6e5058-g11450d-raa0000-yaaaaaa/sett.png)|

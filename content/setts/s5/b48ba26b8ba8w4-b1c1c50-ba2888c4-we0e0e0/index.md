@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7820/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2008 — Gallaecia (Unofficial) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7820/))
+- undated — Gallaecia (Unofficial) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5776))
+
 ## Thread count
 DB/48 B26 DB8 B8 LN/4
 ![Sett](sett.png)

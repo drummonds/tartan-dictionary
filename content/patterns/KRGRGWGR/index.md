@@ -20,8 +20,6 @@ KRGRGWGR
 |---------------|
 | [Cumming #2](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/)|
 |![Cumming #2 example sett](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Cumming - 1850 (Clan)](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/)|
-|![Cumming - 1850 (Clan) example sett](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [Comyn](/setts/s8/k2r18g4r4g8w2g8r2-g004c00-k000000-rc80000-wd0d0d0/)|
 |![Comyn example sett](/setts/s8/k2r18g4r4g8w2g8r2-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
 | [Cumming SM](/setts/s8/r3g9w1g9r3g6r18k2-g004c00-k000000-rc80000-wd0d0d0/)|

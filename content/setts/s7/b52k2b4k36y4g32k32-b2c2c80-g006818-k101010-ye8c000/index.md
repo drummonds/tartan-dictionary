@@ -1,13 +1,21 @@
 ---
-title: "Mowat Clan Tartan Tartan Number: 258. Earliest known date: 1906. Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Mowat"
 date: 2023-03-18
 ---
 In pattern [BKBKYGK](/patterns/bkbkygk/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=258
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1900 — Mowat (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034))
+- pre 2002 — Mowat (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/258/))
+- undated — Mowat Clan Tartan Tartan Number: 258. Earliest known date: 1906. Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=258))
 
 ## Thread count
 DB/52 K2 DB4 K36 Y4 G32 K/32

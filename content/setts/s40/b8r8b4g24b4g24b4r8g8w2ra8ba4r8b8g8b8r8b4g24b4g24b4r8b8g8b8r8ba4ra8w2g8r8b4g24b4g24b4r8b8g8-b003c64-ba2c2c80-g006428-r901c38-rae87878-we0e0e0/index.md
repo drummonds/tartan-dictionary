@@ -1,13 +1,20 @@
 ---
-title: "Otago Peninsula (District)"
+title: "Otago Peninsula"
 date: 2023-03-18
 ---
 In pattern [BRBGBGBRGWRBRBGBRBGBGBRBGBRBRWGRBGBGBRBG](/patterns/brbgbgbrgwrbrbgbrbgbgbrbgbrbrwgrbgbgbrbg/).
 
 
-This was sourced from tartans-authority.  It is a [40 stripes tartan](/stripes/stripes40/).
+This was sourced from register-of-tartans.  It is a [40 stripes tartan](/stripes/stripes40/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2110/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Otago Peninsula (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276))
+- pre 1996 — Otago Peninsula (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2110/))
 
 ## Thread count
 DBa/8 DR8 DBa4 G24 DBa4 G24 DBa4 DR8 G8 LN2 LR8 DB4 DR8 DBa8 G8 DBa8 DR8 DBa4 G24 DBa4 G24 DBa4 DR8 DBa8 G8 DBa8 DR8 DB4 LR8 LN2 G8 DR8 DBa4 G24 DBa4 G24 DBa4 DR8 DBa8 G/8

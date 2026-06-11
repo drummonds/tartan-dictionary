@@ -1,5 +1,5 @@
 ---
-title: "MacKenzie, Seaforth"
+title: "MacKenzie"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGKWKGKBKR](/patterns/bkbkbkgkwkgkbkr/).
@@ -8,6 +8,13 @@ In pattern [BKBKBKGKWKGKBKR](/patterns/bkbkbkgkwkgkbkr/).
 This was sourced from weddslist.  It is a [15 stripes tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacKenzie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — MacKenzie, Seaforth (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
 
 ## Thread count
 B/24 K4 B4 K4 B4 K24 G24 K2 LN4 K2 G24 K24 B24 K2 R/4

@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=907
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Dege of Saville Row (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=907))
+- pre 2002 — Dege of Saville Row (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2112/))
+- undated — Dege of Saville Row Corporate Tartan Tartan Number: 2112. Earliest known date: 1990 The choice of design and colours reflects the history and tradition of Dege of Saville Row and its relationship to country life and sporting activities since 1865. Dege make high quality ceremonial and military dress. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2112))
+
 ## Thread count
 R/4 DBa36 DB4 T12 DBa4 T/44
 ![Sett](sett.png)

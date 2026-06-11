@@ -1,5 +1,5 @@
 ---
-title: "MacPhie"
+title: "MacFie"
 date: 2023-03-18
 ---
 In pattern [YRGRGRGRY](/patterns/yrgrgrgry/).
@@ -8,6 +8,13 @@ In pattern [YRGRGRGRY](/patterns/yrgrgrgry/).
 This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacFie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+- undated — MacPhie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 LG/4 DR24 DG4 DR2 DG64 DR2 DG4 DR24 N/4

@@ -22,8 +22,6 @@ BKBKBKR
 |![MacCorquodale example sett](/setts/s7/r14k8b56k48ba48k8b8-b2888c4-ba5c8ca8-k101010-rc80000/sett.png)|
 | [Royal Scotsman Train](/setts/s7/b10k4b28k28b4k4r4-b141e46-k101010-rdc0000/)|
 |![Royal Scotsman Train example sett](/setts/s7/b10k4b28k28b4k4r4-b141e46-k101010-rdc0000/sett.png)|
-| [MacCorquodale (Clan?)](/setts/s7/r14k8b56k48ba48k8b8-b2888c4-ba5c8ca8-k101010-rc80000/)|
-|![MacCorquodale (Clan?) example sett](/setts/s7/r14k8b56k48ba48k8b8-b2888c4-ba5c8ca8-k101010-rc80000/sett.png)|
 | [Holden Black (Corporate)](/setts/s7/b26k6b6k6b6k70r6-b5c5c5c-k101010-rc80000/)|
 |![Holden Black (Corporate) example sett](/setts/s7/b26k6b6k6b6k70r6-b5c5c5c-k101010-rc80000/sett.png)|
 | [MacCorquodale](/setts/s7/r14k8b56k48ba48k8b8-b304080-ba5480b0-k000000-rc00000/)|

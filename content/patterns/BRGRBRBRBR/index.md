@@ -18,5 +18,3 @@ BRGRBRBRBR
 |---------------|
 | [Nithsdale (Dalgliesh)](/setts/s10/b32r6g6r20b48r6b6r6b6r20-b1c0070-g006818-r880000/)|
 |![Nithsdale (Dalgliesh) example sett](/setts/s10/b32r6g6r20b48r6b6r6b6r20-b1c0070-g006818-r880000/sett.png)|
-| [Nithsdale (District)](/setts/s10/b32r6g6r20b48r6b6r6b6r20-b1c0070-g006818-r880000/)|
-|![Nithsdale (District) example sett](/setts/s10/b32r6g6r20b48r6b6r6b6r20-b1c0070-g006818-r880000/sett.png)|

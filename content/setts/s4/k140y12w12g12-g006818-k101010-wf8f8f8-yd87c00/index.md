@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=928
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Dhillon (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=928))
+- pre 2007 — Dhillon (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7175/))
+
 ## Thread count
 G/12 W12 O12 K/140
 ![Sett](sett.png)

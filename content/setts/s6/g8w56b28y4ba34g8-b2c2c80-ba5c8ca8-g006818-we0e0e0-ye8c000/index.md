@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3031/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1980 — Allanton Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3031/))
+- undated — Allanton Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4830))
+
 ## Thread count
 G/8 B34 Y4 DB28 LN56 G/8
 ![Sett](sett.png)

@@ -30,5 +30,3 @@ GKGKGKGK
 |![Menzies, Green example sett](/setts/s8/k38g20k12g20k24g12k8g28-g008000-k000000/sett.png)|
 | [Douglas VS](/setts/s8/k32g2k2g2k16g32k2g4-g7e7e7e-k000000/)|
 |![Douglas VS example sett](/setts/s8/k32g2k2g2k16g32k2g4-g7e7e7e-k000000/sett.png)|
-| [Douglas VS](/setts/s8/k32g2k2g2k16g32k2g4-g7e7e7e-k000000/)|
-|![Douglas VS example sett](/setts/s8/k32g2k2g2k16g32k2g4-g7e7e7e-k000000/sett.png)|

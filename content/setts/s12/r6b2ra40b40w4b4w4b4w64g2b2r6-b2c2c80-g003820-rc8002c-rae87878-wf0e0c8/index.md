@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7589/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Sunart, Saphire (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7589/))
+- undated — Sunart Saphire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5613))
+
 ## Thread count
 R/6 DB2 DG2 W64 DB4 W4 DB4 W4 DB40 LR40 DB2 R/6
 ![Sett](sett.png)

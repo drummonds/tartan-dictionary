@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1985 — Finzean's Fancy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186))
+- pre 1985? — Finzean's Fancy (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1860/))
+
 ## Thread count
 N/4 DRa2 DR108 K8 N4 G56 DY24 DR12 K4 DR12 DY24 B56 K12 DR12 DY16 N/16
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
 ID: /setts/s16/w16y16r12k12b56y24r12k4r12y24g56w4k8r108ba2w4-b788cb4-ba501414-g007800-k000000-r8c0000-wc8c8c8-yc88c00/
-88c00/

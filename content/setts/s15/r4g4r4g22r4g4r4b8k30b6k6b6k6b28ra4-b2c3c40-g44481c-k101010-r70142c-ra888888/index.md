@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7823/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2008 — Homecoming (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7823/))
+- undated — Homecoming (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5779))
+
 ## Thread count
 DR/4 T4 DR4 T22 DR4 T4 DR4 DN8 K30 DN6 K6 DN6 K6 DN28 N/4
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "McShane (Name)"
+title: "McShane (Personal)"
 date: 2023-03-18
 ---
 In pattern [GWGKGYWR](/patterns/gwgkgywr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4111/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — McShane (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904))
+- pre 2002 — McShane (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4111/))
 
 ## Thread count
 G/36 N8 G36 K8 T56 Y16 N8 R/8
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/36 N8 G36 K8 T56 Y16 N8 R/8 tartan")
 
 ID: /setts/s8/g36w8g36k8ga56y16w8r8-g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000/
-e8c000/

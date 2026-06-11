@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3495
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1991 — Reid, Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3495))
+- 1991 — Reid, Green (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2066/))
+
 ## Thread count
 LN/4 R8 G40 R8 G8 DB32 G8 K32 G8 R8 G40 R8 LN/4
 ![Sett](sett.png)

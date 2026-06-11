@@ -26,8 +26,6 @@ BRBRBRKWGRGRG
 |![MacDonald of Clanranald #3 example sett](/setts/s13/b12r4b4r6b24r4k22w4g22r6g4r4g12-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [Boston Pipe Band, Greater](/setts/s13/b32r4b8r8b48r4k48w4g48r8g8r4g32-b2888c4-g285800-k101010-rc80000-wffffff/)|
 |![Boston Pipe Band, Greater example sett](/setts/s13/b32r4b8r8b48r4k48w4g48r8g8r4g32-b2888c4-g285800-k101010-rc80000-wffffff/sett.png)|
-| [MacDonald of Clanranald - 1819 (Clan](/setts/s13/b12r4b4r6b24r4k22w4g22r6g4r4g12-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![MacDonald of Clanranald - 1819 (Clan example sett](/setts/s13/b12r4b4r6b24r4k22w4g22r6g4r4g12-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [Boston Pipe Band, Greater (Corp)](/setts/s13/b32r4b8r8b48r4k48w4g48r8g8r4g32-b2888c4-g3c8800-k101010-rc80000-wfcfcfc/)|
 |![Boston Pipe Band, Greater (Corp) example sett](/setts/s13/b32r4b8r8b48r4k48w4g48r8g8r4g32-b2888c4-g3c8800-k101010-rc80000-wfcfcfc/sett.png)|
 | [Clanranald, MacDonald of (Clan)](/setts/s13/b32r4b4r14b62r4k64w6g62r14g4r4g32-b000048-g045c38-k000000-rc80000-wc8c8c8/)|

@@ -1,6 +1,7 @@
 ---
 title: Summary of tartans by stripe count
 date: 2023-03-18
+background: /bg/stripe.png
 ---
 Tartans organised by the number of stripes in the half sett, with the most common patterns at each count.
 

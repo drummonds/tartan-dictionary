@@ -20,5 +20,3 @@ RKGBGGKY
 |---------------|
 | [Aberuchill](/setts/s8/r8k2g10b30g30ga55k4y6-b440044-g603800-ga006818-k101010-rb468ac-yd87c00/)|
 |![Aberuchill example sett](/setts/s8/r8k2g10b30g30ga55k4y6-b440044-g603800-ga006818-k101010-rb468ac-yd87c00/sett.png)|
-| [Aberuchill (Fashion)](/setts/s8/r8k2g10b30g30ga55k4y6-b440044-g603800-ga006818-k101010-rb468ac-yd87c00/)|
-|![Aberuchill (Fashion) example sett](/setts/s8/r8k2g10b30g30ga55k4y6-b440044-g603800-ga006818-k101010-rb468ac-yd87c00/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Glen Stewart (Fashion)"
+title: "Glen Stewart"
 date: 2023-03-18
 ---
 In pattern [RBKYKBKRKRW](/patterns/rbkykbkrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5025/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1398
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1985 — Glen Stewart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1398))
+- 1985 — Glen Stewart (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5025/))
 
 ## Thread count
 DR/4 DB60 K8 DY4 K4 B4 K20 DR16 K4 DR8 N/4

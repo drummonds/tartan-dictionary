@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1430
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Glenn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1430))
+- 2000 — Glenn (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5930/))
+
 ## Thread count
 DG/16 B8 DB72 R8 K16 R24 B4 W/4
 ![Sett](sett.png)

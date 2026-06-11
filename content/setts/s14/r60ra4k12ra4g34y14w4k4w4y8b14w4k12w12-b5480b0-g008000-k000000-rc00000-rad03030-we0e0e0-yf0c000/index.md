@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [14 stripes tartan](/stripes/stripes14
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Dundee (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Dundee (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+
 ## Thread count
 LN/12 K12 LN4 B14 Y8 LN4 K4 LN4 Y14 G34 R4 K12 R4 Ra/60
 ![Sett](sett.png)

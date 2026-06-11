@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2002 — Lenaghan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2093))
+- April 2002 — Lenaghan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5835/))
+
 ## Thread count
 DB/20 K2 Y4 K2 G10 DG10 DBa/20
 ![Sett](sett.png)

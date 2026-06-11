@@ -1,13 +1,20 @@
 ---
-title: "Mellor Name Tartan Tartan Number: 10320. Earliest known date: 10th Oct. 2009 Designed by a Phillip Mellor of Oldham who is happy for all of the name to wear it. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Mellor (Name)"
 date: 2023-03-18
 ---
 In pattern [WKGBYW](/patterns/wkgbyw/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10320
+Original link http://www.tartansauthority.com/tartan-ferret/display/10320/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 10th Oct. 2009 — Mellor (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10320/))
+- undated — Mellor Name Tartan Tartan Number: 10320. Earliest known date: 10th Oct. 2009 Designed by a Phillip Mellor of Oldham who is happy for all of the name to wear it. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10320))
 
 ## Thread count
 LN/10 DY10 DB6 G64 K32 LN/16

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/577/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1918 — Duke of York (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/577/))
+- 01/01/1930 — Duke of York (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011))
+
 ## Thread count
 DB/122 DR12 W4 DR16 DY4 DB6 DY4 DB/30
 ![Sett](sett.png)

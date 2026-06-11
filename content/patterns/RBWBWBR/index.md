@@ -18,7 +18,5 @@ RBWBWBR
 
 | Tartans |
 |---------------|
-| [St Andrew's School, Delaware](/setts/s7/r104b52w10b6w4b12r4-b680028-rc80000-wf8f8f8/)|
-|![St Andrew's School, Delaware example sett](/setts/s7/r104b52w10b6w4b12r4-b680028-rc80000-wf8f8f8/sett.png)|
 | [St. Andrews School (Delaware) (Corp)](/setts/s7/r104b52w10b6w4b12r4-b680028-rc80000-wf8f8f8/)|
 |![St. Andrews School (Delaware) (Corp) example sett](/setts/s7/r104b52w10b6w4b12r4-b680028-rc80000-wf8f8f8/sett.png)|

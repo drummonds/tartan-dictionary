@@ -18,5 +18,3 @@ BKBKBKYKBK
 |---------------|
 | [City Building (Glasgow) LLP](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/)|
 |![City Building (Glasgow) LLP example sett](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/sett.png)|
-| [City Building (Glasgow) LLP (Corp)](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/)|
-|![City Building (Glasgow) LLP (Corp) example sett](/setts/s10/b6k4b72k10b6k16y4k16b12k6-b5c5c5c-k101010-ya0a0a0/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/411/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1995 — Alexander Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/411/))
+- 01/01/2002 — Alexander Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=46))
+
 ## Thread count
 DB/24 R4 DB8 R8 K30 DB8 G8 DB4 G/24
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2195
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1933 — London Caledonian Games Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2195))
+- 1933 — London Caledonian Games Assoc.(Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1388/))
+
 ## Thread count
 R/16 P4 R4 G34 R4 G4 R4 P16 R4 LG4 R42 P4 R/18
 ![Sett](sett.png)

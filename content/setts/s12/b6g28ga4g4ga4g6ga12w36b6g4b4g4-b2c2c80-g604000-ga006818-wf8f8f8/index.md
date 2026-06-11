@@ -1,13 +1,20 @@
 ---
-title: "Raibert Check (Fashion)"
+title: "Raibert Check"
 date: 2023-03-18
 ---
 In pattern [BGGGGGGWBGBG](/patterns/bggggggwbgbg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/605/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3440
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1983 — Raibert Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3440))
+- pre 1983 — Raibert Check (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/605/))
 
 ## Thread count
 DB/6 T28 G4 T4 G4 T6 G12 W36 DB6 T4 DB4 T/4

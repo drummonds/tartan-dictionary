@@ -20,5 +20,3 @@ WBWKWKY
 |---------------|
 | [MacPherson Dress (1951)](/setts/s7/w6b6w60k40w6k18y6-b940094-k101010-we0e0e0-ye8c000/)|
 |![MacPherson Dress (1951) example sett](/setts/s7/w6b6w60k40w6k18y6-b940094-k101010-we0e0e0-ye8c000/sett.png)|
-| [MacPherson Dress (1951)](/setts/s7/w6b6w60k40w6k18y6-b940094-k101010-we0e0e0-ye8c000/)|
-|![MacPherson Dress (1951) example sett](/setts/s7/w6b6w60k40w6k18y6-b940094-k101010-we0e0e0-ye8c000/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1855
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/1996 — Irish National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1855))
+- 1996 — Irish National (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2245/))
+
 ## Thread count
 G/106 DG10 Y10 DG18 Ka10 LN10 DG4 G14 DG2 Y/4
 ![Sett](sett.png)

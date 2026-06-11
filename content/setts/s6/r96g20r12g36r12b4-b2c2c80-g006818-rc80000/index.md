@@ -1,13 +1,20 @@
 ---
-title: "MacKintosh, Red Clan/Family Tartan Tartan Number: 5889. Earliest known date: 1951 This is the count for Red MacKintosh as decided by Lord Lyon and sent to Vice Admiral The Mackintosh of Mackintosh on 20th March 1951. It differs from No.521 (MacKintosh Clan) in that here the narrow bands outwith the broad green bands are also green: in No.521 they are blue. Lyon and Mr Kinloch Anderson had readjusted the setts of this and the Hunting tartan to correct discrepancies which they believed to have crept in over the years. It is generally regarded that the Chief of the Clan is the final arbiter of the sett of the Clan tartan, rather than the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacKintosh, Red"
 date: 2023-03-18
 ---
 In pattern [BRGRGR](/patterns/brgrgr/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5889
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2576
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1951 — MacKintosh, Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2576))
+- undated — MacKintosh, Red Clan/Family Tartan Tartan Number: 5889. Earliest known date: 1951 This is the count for Red MacKintosh as decided by Lord Lyon and sent to Vice Admiral The Mackintosh of Mackintosh on 20th March 1951. It differs from No.521 (MacKintosh Clan) in that here the narrow bands outwith the broad green bands are also green: in No.521 they are blue. Lyon and Mr Kinloch Anderson had readjusted the setts of this and the Hunting tartan to correct discrepancies which they believed to have crept in over the years. It is generally regarded that the Chief of the Clan is the final arbiter of the sett of the Clan tartan, rather than the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5889))
 
 ## Thread count
 DB/4 R12 G36 R12 G20 R/96

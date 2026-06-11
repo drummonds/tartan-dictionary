@@ -1,13 +1,20 @@
 ---
-title: "Campbell of Lochlane (Artefact)"
+title: "Campbell of Lochlane"
 date: 2023-03-18
 ---
 In pattern [KRKRKRK](/patterns/krkrkrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3799/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5031
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1730 — Campbell of Lochlane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5031))
+- 1730 — Campbell of Lochlane (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3799/))
 
 ## Thread count
 K/4 DR4 K4 DR24 K24 DR4 K/8

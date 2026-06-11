@@ -1,13 +1,20 @@
 ---
-title: "International College of Dentist Corporate Tartan Tartan Number: 10746. Earliest known date: 14/09/2012 The International College of Dentists (ICD) is a worldwide honorary dental organisation established in 1927. Fellowship is by invitation only and recognises the professional achievements and service of individual dentists. The ICD is dedicated to the progress of dentistry and it funds many humanitarian projects throughout the world. Colours: the green and gold in this tartan are the colours of the ICD and the \"houndstooth\" portion is made up of 15 lines to represent the 15 sections of the College. The Canadian Section is the first section to have its own tartan. The tartan will be woven and made into items such as bow-ties and sashes, and worn at the annual convocation. The Dress version of the tartan is the same as the original design (STR ref.10482) except for the substitution of white 30 instead of dark green 30 in the threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "International College of Dentists (Canadian Section) Dress"
 date: 2023-03-18
 ---
 In pattern [GYGKGKGGGKGGGKGGGKGWGK](/patterns/gygkgkgggkgggkgggkgwgk/).
 
 
-This was sourced from house-of-tartan.  It is a [22 stripes tartan](/stripes/stripes22/).
+This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10746
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10746
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 14/09/2012 — International College of Dentists (Canadian Section) Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10746))
+- undated — International College of Dentist Corporate Tartan Tartan Number: 10746. Earliest known date: 14/09/2012 The International College of Dentists (ICD) is a worldwide honorary dental organisation established in 1927. Fellowship is by invitation only and recognises the professional achievements and service of individual dentists. The ICD is dedicated to the progress of dentistry and it funds many humanitarian projects throughout the world. Colours: the green and gold in this tartan are the colours of the ICD and the "houndstooth" portion is made up of 15 lines to represent the 15 sections of the College. The Canadian Section is the first section to have its own tartan. The tartan will be woven and made into items such as bow-ties and sashes, and worn at the annual convocation. The Dress version of the tartan is the same as the original design (STR ref.10482) except for the substitution of white 30 instead of dark green 30 in the threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10746))
 
 ## Thread count
 G/12 Y12 G2 K30 G4 K4 LT4 G4 LT4 K4 LT4 G4 LT4 K4 LT4 G4 LT4 K4 G4 W30 G2 K/4

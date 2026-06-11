@@ -1,13 +1,20 @@
 ---
-title: "Dundee Dress #1 (Fashion)"
+title: "Dundee Dress"
 date: 2023-03-18
 ---
 In pattern [GBBWYWKWYWRKRR](/patterns/gbbwywkwywrkrr/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/691/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Dundee Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034))
+- pre 2002 — Dundee Dress #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/691/))
 
 ## Thread count
 G/20 DB20 B4 LN24 Y8 LN4 K4 LN4 Y8 LN38 LR4 K32 LR4 R/72

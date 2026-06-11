@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3289
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — Palmer, General W.J. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3289))
+- 1995 — Palmer, General W.J. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4971/))
+
 ## Thread count
 LR/8 DR4 N4 DR46 N4 DR4 LR8 DR4 N4 DR4 N24 DB12 Y4 K8 Na4 N/4
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Argyll / MacCorquodale (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Campbell of Cawdor (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+
 ## Thread count
 Ba/4 K2 G16 K16 B16 K2 R/4
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1834
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Intelligent Finance (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1834))
+- pre 2003 — Intelligent Finance (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5963/))
+
 ## Thread count
 LN/5 DP7 Nb40 N5 Nb5 N32 Nb5 N5 DP40 N/5
 ![Sett](sett.png)

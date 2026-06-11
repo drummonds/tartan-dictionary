@@ -1,13 +1,20 @@
 ---
-title: "Dalrymple of Castleton (Clan)"
+title: "Dalrymple of Castleton #2"
 date: 2023-03-18
 ---
 In pattern [WGRYGWGWGYKYBYRY](/patterns/wgrygwgwgykybyry/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7420/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5494
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1720 — Dalrymple of Castleton #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5494))
+- 1720 — Dalrymple of Castleton (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7420/))
 
 ## Thread count
 W/2 G20 R14 Y4 G20 W2 G12 W2 G20 Y4 K28 Y4 DR4 Y4 R30 Y/4

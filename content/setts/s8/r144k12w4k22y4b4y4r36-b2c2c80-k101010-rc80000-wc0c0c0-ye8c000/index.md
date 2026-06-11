@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1613/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Princess Elizabeth (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1613/))
+- undated — Princess Elizabeth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3402))
+
 ## Thread count
 R/144 K12 N4 K22 Y4 DB4 Y4 R/36
 ![Sett](sett.png)

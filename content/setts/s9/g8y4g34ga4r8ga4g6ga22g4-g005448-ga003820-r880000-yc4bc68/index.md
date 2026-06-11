@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=114
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Armagh, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=114))
+- 1996 — Armagh, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2276/))
+
 ## Thread count
 G/4 DG22 G6 DG4 DR8 DG4 G34 LG4 G/8
 ![Sett](sett.png)

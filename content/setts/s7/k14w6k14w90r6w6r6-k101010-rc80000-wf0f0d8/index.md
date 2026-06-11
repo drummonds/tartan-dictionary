@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7461/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — White Stripes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7461/))
+- undated — White Stripes, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5507))
+
 ## Thread count
 K/14 LY6 K14 LY90 R6 LY6 R/6
 ![Sett](sett.png)

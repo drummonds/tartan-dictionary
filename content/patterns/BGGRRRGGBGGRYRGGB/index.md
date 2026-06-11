@@ -18,5 +18,3 @@ BGGRRRGGBGGRYRGGB
 |---------------|
 | [Indianapolis MPD Emerald Society](/setts/s17/b67g5ga10r5y2r5ga10g5b4g5ga10r5ra2r5g5ga10b24-b2c2c80-g604000-ga006818-rc80000-ra888888-ye8c000/)|
 |![Indianapolis MPD Emerald Society example sett](/setts/s17/b67g5ga10r5y2r5ga10g5b4g5ga10r5ra2r5g5ga10b24-b2c2c80-g604000-ga006818-rc80000-ra888888-ye8c000/sett.png)|
-| [Indianapolis MPD Emerald Soc. (Corp)](/setts/s17/b67g5ga10r5y2r5ga10g5b4g5ga10r5ra2r5g5ga10b24-b2c2c80-g604000-ga006818-rc80000-ra888888-ye8c000/)|
-|![Indianapolis MPD Emerald Soc. (Corp) example sett](/setts/s17/b67g5ga10r5y2r5ga10g5b4g5ga10r5ra2r5g5ga10b24-b2c2c80-g604000-ga006818-rc80000-ra888888-ye8c000/sett.png)|

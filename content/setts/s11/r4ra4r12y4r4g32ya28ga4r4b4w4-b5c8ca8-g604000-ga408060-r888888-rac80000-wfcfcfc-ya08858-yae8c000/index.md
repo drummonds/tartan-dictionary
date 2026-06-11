@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3355
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1956 — Porcupine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3355))
+- pre 1969 — Porcupine (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1303/))
+
 ## Thread count
 N/4 R4 N12 LT4 N4 T32 Y28 G4 N4 B4 W/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s11/r4ra4r12y4r4g32ya28ga4r4b4w4-b5c8ca8-g604000-ga408060-r888888-rac80000-wfcfcfc-ya08858-yae8c000/
-c000/

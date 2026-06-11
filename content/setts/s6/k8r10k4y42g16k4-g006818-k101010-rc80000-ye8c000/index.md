@@ -1,13 +1,20 @@
 ---
-title: "MacDuck Final version Corporate Tartan Tartan Number: 1121. Earliest known date: 1942 Ancient MacDuck, old colours, as worn by Scrooge MacDuck, uncle to the famous cartoon character Donald Duck and great uncle to Huey, Duey and Luey. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacDuck (Corporate)"
 date: 2023-03-18
 ---
 In pattern [KGYKRK](/patterns/kgykrk/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1121
+Original link http://www.tartansauthority.com/tartan-ferret/display/1121/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1942 — MacDuck (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1121/))
+- undated — MacDuck Final version Corporate Tartan Tartan Number: 1121. Earliest known date: 1942 Ancient MacDuck, old colours, as worn by Scrooge MacDuck, uncle to the famous cartoon character Donald Duck and great uncle to Huey, Duey and Luey. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1121))
 
 ## Thread count
 K/4 G16 Y42 K4 R10 K/8

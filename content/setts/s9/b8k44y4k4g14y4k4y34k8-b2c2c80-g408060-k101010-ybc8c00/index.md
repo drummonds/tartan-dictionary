@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=377
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2005 — Bro-Leon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=377))
+- 2005 May — Bro-Leon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6653/))
+
 ## Thread count
 DB/8 K44 DY4 K4 G14 DY4 K4 DY34 K/8
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 
 ID: /setts/s9/b8k44y4k4g14y4k4y34k8-b2c2c80-g408060-k101010-ybc8c00/
-ybc8c00/

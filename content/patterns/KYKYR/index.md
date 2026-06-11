@@ -20,8 +20,6 @@ KYKYR
 |---------------|
 | [MacLeod of Lewis (Vestiarium Scoticum)](/setts/s5/k32y4k32y48r4-k101010-rc80000-yd8b000/)|
 |![MacLeod of Lewis (Vestiarium Scoticum) example sett](/setts/s5/k32y4k32y48r4-k101010-rc80000-yd8b000/sett.png)|
-| [MacLeod of Lewis (Clan)](/setts/s5/k32y4k32y48r4-k101010-rc80000-yd8b000/)|
-|![MacLeod of Lewis (Clan) example sett](/setts/s5/k32y4k32y48r4-k101010-rc80000-yd8b000/sett.png)|
 | [MacLeod of Lewis](/setts/s5/k16y2k16y24r2-k000000-rc80000-yc8c800/)|
 |![MacLeod of Lewis example sett](/setts/s5/k16y2k16y24r2-k000000-rc80000-yc8c800/sett.png)|
 | [MacLeod of Lewis](/setts/s5/k32y4k32y48r4-k000000-rc00000-yf0c000/)|

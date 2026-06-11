@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3853/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Cruikshank (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3853/))
+- undated — Cruikshank (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5444))
+
 ## Thread count
 R/8 G30 DB16 G8 R96 G8 DB16 G8 Y/6
 ![Sett](sett.png)

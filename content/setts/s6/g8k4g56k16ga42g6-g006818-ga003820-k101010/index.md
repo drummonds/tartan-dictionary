@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Dunbar Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017))
+- 1986 — Dunbar Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4744/))
+
 ## Thread count
 G/6 DG42 K16 G56 K4 G/8
 ![Sett](sett.png)

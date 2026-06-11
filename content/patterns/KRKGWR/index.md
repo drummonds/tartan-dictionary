@@ -20,5 +20,3 @@ KRKGWR
 |---------------|
 | [Dutch Dress](/setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/)|
 |![Dutch Dress example sett](/setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/sett.png)|
-| [Dutch Dress (District)](/setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/)|
-|![Dutch Dress (District) example sett](/setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/sett.png)|

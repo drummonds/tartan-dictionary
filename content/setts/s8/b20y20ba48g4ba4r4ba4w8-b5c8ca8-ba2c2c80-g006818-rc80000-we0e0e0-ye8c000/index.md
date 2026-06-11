@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4795
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Hodgkinson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4795))
+- pre 2002 — Hodgkinson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/670/))
+
 ## Thread count
 B/20 Y20 DB48 Ga4 DB4 R4 DB4 LN/8
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Brown Watch (single tramlines)"
+title: "Brown Watch (single) (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BKBKGK](/patterns/bkbkgk/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5770
+Original link http://www.tartansauthority.com/tartan-ferret/display/7812/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1986 — Brown Watch (single) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7812/))
+- undated — Brown Watch (single tramlines) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5770))
 
 ## Thread count
 DR/14 K4 DR24 K20 DG24 K/6

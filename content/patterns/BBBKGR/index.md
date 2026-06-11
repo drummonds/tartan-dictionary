@@ -20,5 +20,3 @@ BBBKGR
 |---------------|
 | [Mackison](/setts/s6/b36ba2b24k28g28r4-b003c64-ba780078-g006818-k101010-rc80000/)|
 |![Mackison example sett](/setts/s6/b36ba2b24k28g28r4-b003c64-ba780078-g006818-k101010-rc80000/sett.png)|
-| [Mackison (Clan?)](/setts/s6/b36ba2b24k28g28r4-b003c64-ba780078-g006818-k101010-rc80000/)|
-|![Mackison (Clan?) example sett](/setts/s6/b36ba2b24k28g28r4-b003c64-ba780078-g006818-k101010-rc80000/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1080
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Edinburgh International Conference Centre, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1080))
+- pre1996 — Edinburgh Int.Conf. Centre (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2213/))
+
 ## Thread count
 DN/6 Ta48 K40 T6 DN40 T/8
 ![Sett](sett.png)

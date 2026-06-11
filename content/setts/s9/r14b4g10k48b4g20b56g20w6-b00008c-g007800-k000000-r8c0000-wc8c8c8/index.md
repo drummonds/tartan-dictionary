@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [RBGKBGBGW](/patterns/rbgkbgbgw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2403/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=709
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1997 — Colgan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=709))
+- pre 2002 — Colgan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2403/))
 
 ## Thread count
 DR/14 DB4 G10 K48 DB4 G20 DB56 G20 N/6

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4804
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Zangenberg (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4804))
+- 2000 — Zangenberg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4045/))
+
 ## Thread count
 P/4 Ra4 P32 K34 G32 K4 Y/4
 ![Sett](sett.png)

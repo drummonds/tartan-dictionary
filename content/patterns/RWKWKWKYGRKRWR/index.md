@@ -18,5 +18,3 @@ RWKWKWKYGRKRWR
 |---------------|
 | [Caledonian Cameron Commando](/setts/s14/r42w18k4w4k4w18k36y6g42r26k6r26wa4r26-g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00/)|
 |![Caledonian Cameron Commando example sett](/setts/s14/r42w18k4w4k4w18k36y6g42r26k6r26wa4r26-g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00/sett.png)|
-| [Caledonian Cameron Commando (Corp)](/setts/s14/r42w18k4w4k4w18k36y6g42r26k6r26wa4r26-g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00/)|
-|![Caledonian Cameron Commando (Corp) example sett](/setts/s14/r42w18k4w4k4w18k36y6g42r26k6r26wa4r26-g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00/sett.png)|

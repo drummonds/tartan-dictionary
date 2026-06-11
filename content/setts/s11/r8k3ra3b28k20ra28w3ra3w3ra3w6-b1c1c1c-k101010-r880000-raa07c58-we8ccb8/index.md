@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2186
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Logan #6 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2186))
+- pre 2002 — Logan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5477/))
+
 ## Thread count
 DR/8 Ka3 LT3 K28 Ka20 LT28 LR3 LT3 LR3 LT3 LR/6
 ![Sett](sett.png)

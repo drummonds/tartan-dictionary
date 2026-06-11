@@ -16,7 +16,5 @@ BGBBRBRBBGB
 
 | Tartans |
 |---------------|
-| [Gravesend Grammar School for Girls](/setts/s11/b8g5b72ba72r5ba16r5ba72b72g5b8-b2c2c80-ba1c1c50-g006818-r9c68a4/)|
-|![Gravesend Grammar School for Girls example sett](/setts/s11/b8g5b72ba72r5ba16r5ba72b72g5b8-b2c2c80-ba1c1c50-g006818-r9c68a4/sett.png)|
 | [Gravesend Grammar School (Corp)](/setts/s11/b8g5b72ba72r5ba16r5ba72b72g5b8-b2c2c80-ba1c1c50-g006818-r9c68a4/)|
 |![Gravesend Grammar School (Corp) example sett](/setts/s11/b8g5b72ba72r5ba16r5ba72b72g5b8-b2c2c80-ba1c1c50-g006818-r9c68a4/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=361
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1967 — British Columbia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=361))
+- 1967 — British Columbia (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/808/))
+
 ## Thread count
 Ga/8 K4 Ga16 N16 Y4 N16 DR16 K4 DR16 N8 DR16 LN/4
 ![Sett](sett.png)

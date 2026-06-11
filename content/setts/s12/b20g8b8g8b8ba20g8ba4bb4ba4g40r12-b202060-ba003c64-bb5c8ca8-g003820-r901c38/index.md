@@ -1,13 +1,20 @@
 ---
-title: "Richards Welsh Name Tartan Tartan Number: 5761. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Pritchard, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Richard of Wales"
 date: 2023-03-18
 ---
 In pattern [BGBGBBGBBBGR](/patterns/bgbgbbgbbbgr/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5761
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3507
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Richard of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3507))
+- undated — Richards Welsh Name Tartan Tartan Number: 5761. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Pritchard, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5761))
 
 ## Thread count
 DB/20 DG8 DB8 DG8 DB8 DBa20 DG8 DBa4 B4 DBa4 DG40 DR/12

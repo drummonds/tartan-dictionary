@@ -20,5 +20,3 @@ BYRYBBG
 |---------------|
 | [F.I.A.T.A. Congress of 1990](/setts/s7/g48b32ba16y8r4y4ba24-b3474fc-ba000064-g004c00-r8c0000-yc89800/)|
 |![F.I.A.T.A. Congress of 1990 example sett](/setts/s7/g48b32ba16y8r4y4ba24-b3474fc-ba000064-g004c00-r8c0000-yc89800/sett.png)|
-| [F.I.A.T.A. Congress 1990 (Corporate)](/setts/s7/g48b32ba16y8r4y4ba24-b3474fc-ba000064-g004c00-r8c0000-yc89800/)|
-|![F.I.A.T.A. Congress 1990 (Corporate) example sett](/setts/s7/g48b32ba16y8r4y4ba24-b3474fc-ba000064-g004c00-r8c0000-yc89800/sett.png)|

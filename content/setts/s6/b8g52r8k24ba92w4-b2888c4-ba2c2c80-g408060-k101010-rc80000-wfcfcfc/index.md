@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1309
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 15/02/2004 — Gamblin Thompson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1309))
+- pre 2004 — Gamblin Thompson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6195/))
+
 ## Thread count
 B/8 G52 R8 K24 DB92 W/4
 ![Sett](sett.png)

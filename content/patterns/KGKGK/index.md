@@ -18,7 +18,5 @@ KGKGK
 
 | Tartans |
 |---------------|
-| [MacCormick Hunting](/setts/s5/k6g40k40ga40k6-g003820-ga006818-k101010/)|
-|![MacCormick Hunting example sett](/setts/s5/k6g40k40ga40k6-g003820-ga006818-k101010/sett.png)|
 | [MacCormick Hunting (Name)](/setts/s5/k6g40k40ga40k6-g003820-ga006818-k101010/)|
 |![MacCormick Hunting (Name) example sett](/setts/s5/k6g40k40ga40k6-g003820-ga006818-k101010/sett.png)|

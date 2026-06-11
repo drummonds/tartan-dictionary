@@ -1,13 +1,20 @@
 ---
-title: "Highlands School (Corporate)"
+title: "Highlands School (North Carolina)"
 date: 2023-03-18
 ---
 In pattern [WBBBBYBY](/patterns/wbbbbyby/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2109/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1732
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1991 — Highlands School (North Carolina) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1732))
+- pre 2002 — Highlands School (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2109/))
 
 ## Thread count
 DY/24 DB4 DY4 DB60 DN4 DB4 DN26 N/8
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/24 DB4 DY4 DB60 DN4 DB4 DN26 N/8 tartan")
 
 ID: /setts/s8/y24b4y4b60ba4b4ba26w8-b1c0070-ba14283c-wc0c0c0-yd09800/
-yd09800/

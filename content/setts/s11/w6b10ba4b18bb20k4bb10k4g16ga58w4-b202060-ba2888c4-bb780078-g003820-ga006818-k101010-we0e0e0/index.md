@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3814/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- December 2001 — Carnegie of Skibo (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3814/))
+- undated — Carnegie of Skibo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5129))
+
 ## Thread count
 LN/6 DB10 B4 DB18 P20 K4 P10 K4 DG16 G58 LN/4
 ![Sett](sett.png)

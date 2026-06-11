@@ -1,5 +1,5 @@
 ---
-title: "Hebridean Mist"
+title: "Hebridean Cairn"
 date: 2023-03-18
 ---
 In pattern [BRBRBRBRBRBRBR](/patterns/brbrbrbrbrbrbr/).
@@ -7,7 +7,14 @@ In pattern [BRBRBRBRBRBRBR](/patterns/brbrbrbrbrbrbr/).
 
 This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2005 — Hebridean Cairn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652))
+- 01/12/2005 — Hebridean Mist (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655))
 
 ## Thread count
 N/4 Na72 N8 Na40 N12 Na12 N12 Na8 N12 Na12 N12 Na40 N8 Na/72

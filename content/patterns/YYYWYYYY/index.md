@@ -20,5 +20,3 @@ YYYWYYYY
 |---------------|
 | [Desert in Bloom](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/)|
 |![Desert in Bloom example sett](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/sett.png)|
-| [Desert in Bloom (Fashion)](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/)|
-|![Desert in Bloom (Fashion) example sett](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7419/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2008 — MacCormick Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7419/))
+- undated — MacCormick Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5493))
+
 ## Thread count
 K/6 DG40 K40 G40 K/6
 ![Sett](sett.png)

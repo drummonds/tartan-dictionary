@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=480
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — California Burns (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=480))
+- 2004 — California Burns (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6663/))
+
 ## Thread count
 DR/6 G6 DB6 G28 DB6 G6 DB6 B10 DB36 Y4 DB16 Y/4
 ![Sett](sett.png)

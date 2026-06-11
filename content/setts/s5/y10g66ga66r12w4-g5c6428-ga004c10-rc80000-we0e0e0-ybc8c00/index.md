@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4060
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2007 — Symington (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4060))
+- April 2007 — Symington (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7178/))
+
 ## Thread count
 DY/10 Ga66 G66 R12 LN/4
 ![Sett](sett.png)

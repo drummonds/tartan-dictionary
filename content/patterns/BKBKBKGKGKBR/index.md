@@ -18,5 +18,3 @@ BKBKBKGKGKBR
 |---------------|
 | [Young Presidents Organisation](/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/)|
 |![Young Presidents Organisation example sett](/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/sett.png)|
-| [Young Presidents Org. (Corporate)](/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/)|
-|![Young Presidents Org. (Corporate) example sett](/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/sett.png)|

@@ -20,5 +20,3 @@ BGBGKG
 |---------------|
 | [Milligan](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/)|
 |![Milligan example sett](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/sett.png)|
-| [Milligan (Fashion)](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/)|
-|![Milligan (Fashion) example sett](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/sett.png)|

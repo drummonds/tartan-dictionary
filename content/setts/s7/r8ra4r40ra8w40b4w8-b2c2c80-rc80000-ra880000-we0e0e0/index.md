@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2098
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Lennox Dress #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2098))
+- 1986 — Lennox Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1649/))
+
 ## Thread count
 LN/8 DB4 LN40 DR8 R40 DR4 R/8
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/8 DB4 LN40 DR8 R40 DR4 R/8 tartan")
 
 ID: /setts/s7/r8ra4r40ra8w40b4w8-b2c2c80-rc80000-ra880000-we0e0e0/
-e0e0/

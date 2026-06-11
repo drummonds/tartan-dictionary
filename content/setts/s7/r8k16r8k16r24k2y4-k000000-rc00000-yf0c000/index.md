@@ -1,5 +1,5 @@
 ---
-title: "MacKeane/MacIan"
+title: "MacDonald of Glencoe/Ardnamurchan"
 date: 2023-03-18
 ---
 In pattern [RKRKRKY](/patterns/rkrkrky/).
@@ -8,6 +8,13 @@ In pattern [RKRKRKY](/patterns/rkrkrky/).
 This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacDonald of Glencoe/Ardnamurchan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — MacKeane/MacIan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
 
 ## Thread count
 R/8 K16 R8 K16 R24 K2 Y/4
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/8 K16 R8 K16 R24 K2 Y/4 tartan")
 
 ID: /setts/s7/r8k16r8k16r24k2y4-k000000-rc00000-yf0c000/
--rc00000-yf0c000/

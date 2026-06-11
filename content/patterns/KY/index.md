@@ -24,5 +24,3 @@ KY
 |![Justus Check (Personal) example sett](/setts/s2/k50y50-k101010-ye8c000/sett.png)|
 | [Shepherd](/setts/s2/k1y1-k000000-yaaaaaa/)|
 |![Shepherd example sett](/setts/s2/k1y1-k000000-yaaaaaa/sett.png)|
-| [Shepherd](/setts/s2/k1y1-k000000-yaaaaaa/)|
-|![Shepherd example sett](/setts/s2/k1y1-k000000-yaaaaaa/sett.png)|

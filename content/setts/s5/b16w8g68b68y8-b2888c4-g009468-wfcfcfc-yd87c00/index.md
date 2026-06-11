@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5047
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Bermuda (1986) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5047))
+- 1986 — Bermuda (1986) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3685/))
+
 ## Thread count
 Ba/16 W8 Bb68 Ba68 O/8
 ![Sett](sett.png)

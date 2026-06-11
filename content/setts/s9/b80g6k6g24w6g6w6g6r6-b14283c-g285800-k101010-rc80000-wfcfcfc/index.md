@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4132
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Todd (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4132))
+- 1996 — Todd (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5107/))
+
 ## Thread count
 DN/80 G6 K6 G24 W6 G6 W6 G6 R/6
 ![Sett](sett.png)

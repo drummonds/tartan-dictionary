@@ -22,8 +22,6 @@ GBRBGW
 |![London Regiment example sett](/setts/s6/g68b54r6b54g68w6-b2c2c80-g603800-rc80000-wfcfcfc/sett.png)|
 | [MacIntyre Hunting (VS)](/setts/s6/g8b24r6b24g64w8-b202060-g006818-rc80000-wfcfcfc/)|
 |![MacIntyre Hunting (VS) example sett](/setts/s6/g8b24r6b24g64w8-b202060-g006818-rc80000-wfcfcfc/sett.png)|
-| [MacIntyre - 1842 (VS) (Clan)](/setts/s6/g8b24r6b24g64w8-b202060-g006818-rc80000-wfcfcfc/)|
-|![MacIntyre - 1842 (VS) (Clan) example sett](/setts/s6/g8b24r6b24g64w8-b202060-g006818-rc80000-wfcfcfc/sett.png)|
 | [London Regiment (Military)](/setts/s6/g68b54r6b54g68w6-b687488-g747c60-rc80000-wfcfcfc/)|
 |![London Regiment (Military) example sett](/setts/s6/g68b54r6b54g68w6-b687488-g747c60-rc80000-wfcfcfc/sett.png)|
 | [MacIntyre L](/setts/s6/g4b12r3b12g32w4-b000064-g004c00-rc80000-wd0d0d0/)|

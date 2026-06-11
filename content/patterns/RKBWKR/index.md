@@ -20,5 +20,3 @@ RKBWKR
 |---------------|
 | [Callaway (Corporate)](/setts/s6/r4k40b8w20k20r4-b5c5c5c-k101010-r880000-wc0c0c0/)|
 |![Callaway (Corporate) example sett](/setts/s6/r4k40b8w20k20r4-b5c5c5c-k101010-r880000-wc0c0c0/sett.png)|
-| [Callaway (Corporate)](/setts/s6/r4k40b8w20k20r4-b5c5c5c-k101010-r880000-wc0c0c0/)|
-|![Callaway (Corporate) example sett](/setts/s6/r4k40b8w20k20r4-b5c5c5c-k101010-r880000-wc0c0c0/sett.png)|

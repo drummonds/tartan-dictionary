@@ -1,13 +1,21 @@
 ---
-title: "Sinclair Hunting Clan Tartan Tartan Number: 889. Earliest known date: 1842 Sinclairs wore a green tartan at the Battle of Flodden where the entire contingent were killed save the drummer. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Sinclair Hunting (VS)"
 date: 2023-03-18
 ---
 In pattern [GRGKWBR](/patterns/grgkwbr/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=889
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3797
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- undated — Sinclair Hunting (VS) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3797))
+- Unknown — Sinclair Htg (VS) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/889/))
+- undated — Sinclair Hunting Clan Tartan Tartan Number: 889. Earliest known date: 1842 Sinclairs wore a green tartan at the Battle of Flodden where the entire contingent were killed save the drummer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=889))
 
 ## Thread count
 G/4 R2 G60 K32 LN2 DB32 R/4

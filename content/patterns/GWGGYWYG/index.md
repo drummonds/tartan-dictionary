@@ -20,5 +20,3 @@ GWGGYWYG
 |---------------|
 | [Longniddry Green Error (Dance)](/setts/s8/g84y2w4y2g10ga24w64g8-g006818-ga003820-wfcfcfc-ye8c000/)|
 |![Longniddry Green Error (Dance) example sett](/setts/s8/g84y2w4y2g10ga24w64g8-g006818-ga003820-wfcfcfc-ye8c000/sett.png)|
-| [Longniddry, Green Error (Dance)](/setts/s8/g84y2w4y2g10ga24w64g8-g006818-ga003820-wfcfcfc-ye8c000/)|
-|![Longniddry, Green Error (Dance) example sett](/setts/s8/g84y2w4y2g10ga24w64g8-g006818-ga003820-wfcfcfc-ye8c000/sett.png)|

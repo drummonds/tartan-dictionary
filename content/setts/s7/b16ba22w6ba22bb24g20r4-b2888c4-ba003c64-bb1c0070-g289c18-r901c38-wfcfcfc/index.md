@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2146
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 30/01/1999 — Loch Katrine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2146))
+- January 1999 — Loch Katrine (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2612/))
+
 ## Thread count
 B/16 DBa22 W6 DBa22 DB24 G20 DR/4
 ![Sett](sett.png)
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/16 DBa22 W6 DBa22 DB24 G20 DR/4 tartan")
 
 ID: /setts/s7/b16ba22w6ba22bb24g20r4-b2888c4-ba003c64-bb1c0070-g289c18-r901c38-wfcfcfc/
-fcfcfc/

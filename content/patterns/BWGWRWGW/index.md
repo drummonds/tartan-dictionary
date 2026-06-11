@@ -20,5 +20,3 @@ BWGWRWGW
 |---------------|
 | [Milne (Personal)](/setts/s8/w48g8w48r68w48g8w20b8-b6840fc-g005448-rd05054-wfcfcfc/)|
 |![Milne (Personal) example sett](/setts/s8/w48g8w48r68w48g8w20b8-b6840fc-g005448-rd05054-wfcfcfc/sett.png)|
-| [Milne (Personal)](/setts/s8/w48g8w48r68w48g8w20b8-b6840fc-g005448-rd05054-wfcfcfc/)|
-|![Milne (Personal) example sett](/setts/s8/w48g8w48r68w48g8w20b8-b6840fc-g005448-rd05054-wfcfcfc/sett.png)|

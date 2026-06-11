@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=161
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2005 — Bailey, The House of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=161))
+- 2005 July — Bailey, The House of (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6675/))
+
 ## Thread count
 DB/28 K4 B4 K4 DB4 K4 G26 K2 Y5 K2 G26 K4 DB40 K4 R/10
 ![Sett](sett.png)

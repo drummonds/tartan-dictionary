@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3779/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Calais (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3779/))
+- undated — Calais (Fashion) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5032))
+
 ## Thread count
 G/44 B16 G24 T44 B4 K4 T/16
 ![Sett](sett.png)

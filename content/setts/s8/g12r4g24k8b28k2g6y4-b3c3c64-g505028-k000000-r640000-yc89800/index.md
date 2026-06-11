@@ -1,13 +1,20 @@
 ---
-title: "Mica Green"
+title: "Mica, Green (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GRGKBKGY](/patterns/grgkbkgy/).
 
 
-This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5003
+Original link http://www.tartansauthority.com/tartan-ferret/display/3472/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Mica, Green (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3472/))
+- undated — Mica Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5003))
 
 ## Thread count
 DY/4 G6 K2 N28 K8 G24 DR4 G/12

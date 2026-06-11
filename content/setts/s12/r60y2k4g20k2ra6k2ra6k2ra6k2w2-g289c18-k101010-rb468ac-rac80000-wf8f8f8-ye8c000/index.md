@@ -1,13 +1,20 @@
 ---
-title: "Tweedmouth Middle School (Corporate"
+title: "Tweedmouth Middle School"
 date: 2023-03-18
 ---
 In pattern [RYKGKRKRKRKW](/patterns/rykgkrkrkrkw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6740/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 30/07/2002 — Tweedmouth Middle School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167))
+- pre 2005 — Tweedmouth Middle School (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6740/))
 
 ## Thread count
 P/60 Y2 K4 G20 K2 R6 K2 R6 K2 R6 K2 W/2

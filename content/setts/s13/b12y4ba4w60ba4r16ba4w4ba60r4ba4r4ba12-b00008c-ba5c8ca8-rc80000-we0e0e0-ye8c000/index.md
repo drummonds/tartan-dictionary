@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7793/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1998 — Federal Memorial Dress (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7793/))
+- undated — Federal Memorial Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5758))
+
 ## Thread count
 B/12 R4 B4 R4 B60 LN4 B4 R16 B4 LN60 B4 Y4 DB/12
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3503/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1950 — MacNicol Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3503/))
+- undated — MacNicol Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5358))
+
 ## Thread count
 B/40 K4 G4 K4 G4 K4 B40 R10 K38 R10 G38 K4 Y4 K4 LN4 K4 G/40
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s17/b40k4g4k4g4k4b40r10k38r10g38k4y4k4w4k4g40-b1474b4-g408060-k101010-rc80000-we0e0e0-ye8c000/
-

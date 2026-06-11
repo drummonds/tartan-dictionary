@@ -20,5 +20,3 @@ BWBYBRBR
 |---------------|
 | [Heriot](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/)|
 |![Heriot example sett](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/sett.png)|
-| [Heriot (Fashion)](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/)|
-|![Heriot (Fashion) example sett](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/sett.png)|

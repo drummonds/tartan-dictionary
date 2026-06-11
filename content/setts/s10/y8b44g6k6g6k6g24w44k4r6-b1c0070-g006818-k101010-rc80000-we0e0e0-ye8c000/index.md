@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2637
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Californian MacLeod (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2637))
+- 1988 — MacLeod (California) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1623/))
+
 ## Thread count
 R/6 K4 LN44 G24 K6 G6 K6 G6 DB44 Y/8
 ![Sett](sett.png)

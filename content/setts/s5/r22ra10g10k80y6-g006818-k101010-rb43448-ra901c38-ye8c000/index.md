@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2763
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — MacShimsi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2763))
+- pre 2007 — MacShimsi (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7318/))
+
 ## Thread count
 R/22 DR10 G10 K80 Y/6
 ![Sett](sett.png)

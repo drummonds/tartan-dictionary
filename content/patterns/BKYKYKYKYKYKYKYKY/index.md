@@ -18,5 +18,3 @@ BKYKYKYKYKYKYKYKY
 |---------------|
 | [Carnegie Check](/setts/s17/b12k2y2k2y2k2y2k2y2k2y4k4y4k4y4k4y4-b502814-k000000-yb0b0b0/)|
 |![Carnegie Check example sett](/setts/s17/b12k2y2k2y2k2y2k2y2k2y4k4y4k4y4k4y4-b502814-k000000-yb0b0b0/sett.png)|
-| [Carnegie (Estate Check)](/setts/s17/b12k2y2k2y2k2y2k2y2k2y4k4y4k4y4k4y4-b502814-k000000-yb0b0b0/)|
-|![Carnegie (Estate Check) example sett](/setts/s17/b12k2y2k2y2k2y2k2y2k2y4k4y4k4y4k4y4-b502814-k000000-yb0b0b0/sett.png)|

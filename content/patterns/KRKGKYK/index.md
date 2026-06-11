@@ -20,5 +20,3 @@ KRKGKYK
 |---------------|
 | [Callaghan](/setts/s7/k10r2k82g16k16y2k10-g003820-k00002c-r943030-yb8a82c/)|
 |![Callaghan example sett](/setts/s7/k10r2k82g16k16y2k10-g003820-k00002c-r943030-yb8a82c/sett.png)|
-| [Callaghan (Name)](/setts/s7/k10r2k82g16k16y2k10-g003820-k00002c-r943030-yb8a82c/)|
-|![Callaghan (Name) example sett](/setts/s7/k10r2k82g16k16y2k10-g003820-k00002c-r943030-yb8a82c/sett.png)|

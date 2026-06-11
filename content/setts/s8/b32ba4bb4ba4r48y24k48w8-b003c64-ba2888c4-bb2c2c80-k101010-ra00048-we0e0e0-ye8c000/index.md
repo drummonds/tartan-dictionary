@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Maryland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847))
+- 2003 — Maryland (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5920/))
+
 ## Thread count
 DBa/32 B4 DB4 B4 R48 Y24 K48 LN/8
 ![Sett](sett.png)
@@ -31,4 +38,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DBa/32 B4 DB4 B4 R48 Y24 K48 LN/8 tartan")
 
 ID: /setts/s8/b32ba4bb4ba4r48y24k48w8-b003c64-ba2888c4-bb2c2c80-k101010-ra00048-we0e0e0-ye8c000/
-e0-ye8c000/

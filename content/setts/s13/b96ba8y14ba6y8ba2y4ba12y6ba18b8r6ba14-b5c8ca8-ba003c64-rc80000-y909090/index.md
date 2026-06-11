@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BBYBYBYBYBBRB](/patterns/bbybybybybbrb/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5773
+Original link http://www.tartansauthority.com/tartan-ferret/display/7816/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2008 — Budge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7816/))
+- undated — Budge (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5773))
 
 ## Thread count
 B/96 DB8 N14 DB6 N8 DB2 N4 DB12 N6 DB18 B8 R6 DB/14

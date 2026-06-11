@@ -1,13 +1,20 @@
 ---
-title: "Brigadoon (Fashion)"
+title: "Brigadoon"
 date: 2023-03-18
 ---
 In pattern [BYBRBRBW](/patterns/bybrbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7349/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5463
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2003 — Brigadoon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5463))
+- pre 2007 — Brigadoon (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7349/))
 
 ## Thread count
 LN/8 DB38 R8 P4 R8 P46 Y8 P/4

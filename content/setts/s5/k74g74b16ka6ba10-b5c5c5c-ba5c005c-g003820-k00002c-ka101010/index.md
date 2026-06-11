@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7424/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2007 — Dallard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7424/))
+- undated — Dallard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5496))
+
 ## Thread count
 DB/74 DG74 N16 K6 P/10
 ![Sett](sett.png)

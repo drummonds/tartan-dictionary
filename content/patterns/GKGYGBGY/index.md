@@ -20,5 +20,3 @@ GKGYGBGY
 |---------------|
 | [Taylor](/setts/s8/g16k4g26y8g24b44g10ya6-b506878-g006818-k101010-yd0908c-yabc8c00/)|
 |![Taylor example sett](/setts/s8/g16k4g26y8g24b44g10ya6-b506878-g006818-k101010-yd0908c-yabc8c00/sett.png)|
-| [Taylor (Clan)](/setts/s8/g16k4g26y8g24b44g10ya6-b506878-g006818-k101010-yd0908c-yabc8c00/)|
-|![Taylor (Clan) example sett](/setts/s8/g16k4g26y8g24b44g10ya6-b506878-g006818-k101010-yd0908c-yabc8c00/sett.png)|

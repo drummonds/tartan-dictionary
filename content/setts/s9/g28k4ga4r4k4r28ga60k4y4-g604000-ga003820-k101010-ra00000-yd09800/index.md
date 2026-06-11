@@ -1,13 +1,20 @@
 ---
-title: "Cozumel (Fashion)"
+title: "Cozumel"
 date: 2023-03-18
 ---
 In pattern [GKGRKRGKY](/patterns/gkgrkrgky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4597/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=784
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Cozumel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=784))
+- 1996 — Cozumel (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4597/))
 
 ## Thread count
 DY/4 K4 DG60 DR28 K4 DR4 DG4 K4 T/28

@@ -1,13 +1,20 @@
 ---
-title: "Rutherford (Name)"
+title: "Rutherford"
 date: 2023-03-18
 ---
 In pattern [BYBKRKRK](/patterns/bybkrkrk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6926/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3621
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2006 — Rutherford (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3621))
+- 2006 May — Rutherford (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6926/))
 
 ## Thread count
 B/12 Y6 B66 K24 R6 K6 R6 K/48

@@ -1,13 +1,20 @@
 ---
-title: "Paisley (District & Clan)"
+title: "Paisley"
 date: 2023-03-18
 ---
 In pattern [BWGBYKYGRGRG](/patterns/bwgbykygrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/640/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3284
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1952 — Paisley (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3284))
+- 1952 — Paisley (District & Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/640/))
 
 ## Thread count
 B/14 LN4 G6 B44 Y4 K30 Y4 G34 R10 G6 R4 G/14

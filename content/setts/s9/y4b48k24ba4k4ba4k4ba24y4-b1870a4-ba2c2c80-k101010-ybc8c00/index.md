@@ -1,13 +1,20 @@
 ---
-title: "Elgin City Band (Corporate)"
+title: "Elgin City Band"
 date: 2023-03-18
 ---
 In pattern [YBKBKBKBY](/patterns/ybkbkbkby/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6247/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1097
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2004 — Elgin City Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1097))
+- Apr 2004 — Elgin City Band (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6247/))
 
 ## Thread count
 DY/4 B48 K24 DB4 K4 DB4 K4 DB24 DY/4

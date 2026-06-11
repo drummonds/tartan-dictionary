@@ -18,5 +18,3 @@ BKBKGYGKGRGK
 |---------------|
 | [Rollo](/setts/s12/b42k6b42k42g42y8g42k42g42r8g42k42-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
 |![Rollo example sett](/setts/s12/b42k6b42k42g42y8g42k42g42r8g42k42-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Rollo (Clan)](/setts/s12/b42k6b42k42g42y8g42k42g42r8g42k42-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Rollo (Clan) example sett](/setts/s12/b42k6b42k42g42y8g42k42g42r8g42k42-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|

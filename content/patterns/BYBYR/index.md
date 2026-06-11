@@ -20,5 +20,3 @@ BYBYR
 |---------------|
 | [Brooks Brothers Tattersall Camel](/setts/s5/b4y36b8y36r4-b202060-r880000-ya08858/)|
 |![Brooks Brothers Tattersall Camel example sett](/setts/s5/b4y36b8y36r4-b202060-r880000-ya08858/sett.png)|
-| [Brooks Bros Tattersall Camel (Fashio](/setts/s5/b4y36b8y36r4-b202060-r880000-ya08858/)|
-|![Brooks Bros Tattersall Camel (Fashio example sett](/setts/s5/b4y36b8y36r4-b202060-r880000-ya08858/sett.png)|

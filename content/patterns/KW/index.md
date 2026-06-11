@@ -26,8 +26,6 @@ KW
 |![Joy's Fancy, Allen (Personal) example sett](/setts/s2/k180w12-k101010-wc0c0c0/sett.png)|
 | [Shepherd Check (Universal)](/setts/s2/k6w6-k101010-we0e0e0/)|
 |![Shepherd Check (Universal) example sett](/setts/s2/k6w6-k101010-we0e0e0/sett.png)|
-| [Joy's Fancy, Allen (Personal)](/setts/s2/k180w12-k101010-wc0c0c0/)|
-|![Joy's Fancy, Allen (Personal) example sett](/setts/s2/k180w12-k101010-wc0c0c0/sett.png)|
 | [Northumberland (District)](/setts/s2/k6w6-k101010-wf8f8f8/)|
 |![Northumberland (District) example sett](/setts/s2/k6w6-k101010-wf8f8f8/sett.png)|
 | [Shepherd](/setts/s2/k15w15-k000000-we0e0e0/)|

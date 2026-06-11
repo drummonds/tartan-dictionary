@@ -16,8 +16,6 @@ RYRYRYRYR
 
 | Tartans |
 |---------------|
-| [MacMillan Dress](/setts/s9/r6y4r24y4r6y16r4y16r4-r901c38-ye8c000/)|
-|![MacMillan Dress example sett](/setts/s9/r6y4r24y4r6y16r4y16r4-r901c38-ye8c000/sett.png)|
 | [MacMillan - 1842 (Dress)](/setts/s9/r6y4r24y4r6y16r4y16r4-r901c38-ye8c000/)|
 |![MacMillan - 1842 (Dress) example sett](/setts/s9/r6y4r24y4r6y16r4y16r4-r901c38-ye8c000/sett.png)|
 | [MacMillan](/setts/s9/r3y1r12y2r3y8r2y8r1-rc80000-yc8c800/)|

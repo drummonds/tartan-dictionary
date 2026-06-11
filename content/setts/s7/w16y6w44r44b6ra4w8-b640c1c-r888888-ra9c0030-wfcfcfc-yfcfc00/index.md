@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3646/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Banff, White (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3646/))
+- undated — Banff (White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4952))
+
 ## Thread count
 W/8 DR4 DRa6 N44 W44 Y6 W/16
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3369/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacFie of Colonsay Dress (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3369/))
+- undated — MacFie of Colonsay Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5124))
+
 ## Thread count
 DY/8 K44 W8 K8 W64 K8 W8 K44 W/8
 ![Sett](sett.png)

@@ -18,5 +18,3 @@ RWRKRGYKBKBRBKBKGYRKRWR
 |---------------|
 | [Cromdale](/setts/s23/r40w2r40k4r40g16y2k8b2k2b8r2b8k2b2k8g16y2r40k4r40w2r40-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
 |![Cromdale example sett](/setts/s23/r40w2r40k4r40g16y2k8b2k2b8r2b8k2b2k8g16y2r40k4r40w2r40-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Cromdale (District)](/setts/s23/r40w2r40k4r40g16y2k8b2k2b8r2b8k2b2k8g16y2r40k4r40w2r40-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Cromdale (District) example sett](/setts/s23/r40w2r40k4r40g16y2k8b2k2b8r2b8k2b2k8g16y2r40k4r40w2r40-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

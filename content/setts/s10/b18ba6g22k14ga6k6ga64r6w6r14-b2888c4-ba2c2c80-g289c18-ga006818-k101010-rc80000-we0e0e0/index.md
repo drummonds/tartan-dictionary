@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2258
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Lyons (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2258))
+- 2002 — Lyons (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6515/))
+
 ## Thread count
 B/18 DB6 Ga22 K14 G6 K6 G64 R6 LN6 R/14
 ![Sett](sett.png)

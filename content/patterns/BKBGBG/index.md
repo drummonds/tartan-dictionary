@@ -20,5 +20,3 @@ BKBGBG
 |---------------|
 | [Falconer of Labhdal (Personal)](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/)|
 |![Falconer of Labhdal (Personal) example sett](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/sett.png)|
-| [Falconer of Labhdal (Personal)](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/)|
-|![Falconer of Labhdal (Personal) example sett](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/sett.png)|

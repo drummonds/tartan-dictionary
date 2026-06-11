@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7750/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- August 2008 — Riyadh Caledonian (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7750/))
+- undated — Riyadh Caledonian (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5731))
+
 ## Thread count
 DB/92 G16 DB4 LN4 DB12 G20 DB4 P16 DB12 Y4 G12 LN4 G/16
 ![Sett](sett.png)

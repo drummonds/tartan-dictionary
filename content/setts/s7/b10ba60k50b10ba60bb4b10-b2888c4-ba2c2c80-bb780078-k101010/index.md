@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4440
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Van Loo (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4440))
+- pre 2005 — Van Loo (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6717/))
+
 ## Thread count
 B/10 DB60 K50 B10 DB60 P4 B/10
 ![Sett](sett.png)

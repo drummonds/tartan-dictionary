@@ -18,8 +18,6 @@ BBRYYG
 
 | Tartans |
 |---------------|
-| [Rainbow (Gay Community)](/setts/s6/g72y36ya36r36b36ba36-b780078-ba2c2c80-g289c18-rc80000-ye8c000-yad87c00/)|
-|![Rainbow (Gay Community) example sett](/setts/s6/g72y36ya36r36b36ba36-b780078-ba2c2c80-g289c18-rc80000-ye8c000-yad87c00/sett.png)|
 | [Rainbow (Fashion)](/setts/s6/g72y36ya36r36b36ba36-b780078-ba2c2c80-g289c18-rc80000-ye8c000-yad87c00/)|
 |![Rainbow (Fashion) example sett](/setts/s6/g72y36ya36r36b36ba36-b780078-ba2c2c80-g289c18-rc80000-ye8c000-yad87c00/sett.png)|
 | [Rainbow](/setts/s6/g72y36ya36r36b36ba36-b800080-ba304080-g30a010-rc00000-yf0c000-yaff8500/)|

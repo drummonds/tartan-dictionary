@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2993
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Montreal (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2993))
+- pre 2002 — Montreal (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6259/))
+
 ## Thread count
 G/86 LT4 G6 LT4 G12 R4 G2 R4 G20 LT/156
 ![Sett](sett.png)

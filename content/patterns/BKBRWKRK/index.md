@@ -18,7 +18,5 @@ BKBRWKRK
 
 | Tartans |
 |---------------|
-| [Ardmore](/setts/s8/k42r4k16w4r32b12k4b16-b5c5c5c-k101010-ra07c58-we0e0e0/)|
-|![Ardmore example sett](/setts/s8/k42r4k16w4r32b12k4b16-b5c5c5c-k101010-ra07c58-we0e0e0/sett.png)|
 | [Ardmore (Fashion)](/setts/s8/k42r4k16w4r32b12k4b16-b5c5c5c-k101010-ra07c58-we0e0e0/)|
 |![Ardmore (Fashion) example sett](/setts/s8/k42r4k16w4r32b12k4b16-b5c5c5c-k101010-ra07c58-we0e0e0/sett.png)|

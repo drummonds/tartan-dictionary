@@ -1,13 +1,20 @@
 ---
-title: "MacDonald of Ardnamurchan"
+title: "MacDonald of Ardnamurchan (Clan?)"
 date: 2023-03-18
 ---
 In pattern [RKRKRKY](/patterns/rkrkrky/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5217
+Original link http://www.tartansauthority.com/tartan-ferret/display/3275/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacDonald of Ardnamurchan (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3275/))
+- undated — MacDonald of Ardnamurchan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5217))
 
 ## Thread count
 R/16 K32 R16 K32 R48 K4 Y/8

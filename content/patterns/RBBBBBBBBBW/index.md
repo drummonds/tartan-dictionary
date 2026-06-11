@@ -18,5 +18,3 @@ RBBBBBBBBBW
 |---------------|
 | [Toronto Blue Jays](/setts/s11/r4b2ba26bb26b8bb8b8bb8ba26b2w4-b280034-ba2888c4-bb646464-rc80000-wfcfcfc/)|
 |![Toronto Blue Jays example sett](/setts/s11/r4b2ba26bb26b8bb8b8bb8ba26b2w4-b280034-ba2888c4-bb646464-rc80000-wfcfcfc/sett.png)|
-| [Toronto Blue Jays (Corporate)](/setts/s11/r4b2ba26bb26b8bb8b8bb8ba26b2w4-b280034-ba2888c4-bb646464-rc80000-wfcfcfc/)|
-|![Toronto Blue Jays (Corporate) example sett](/setts/s11/r4b2ba26bb26b8bb8b8bb8ba26b2w4-b280034-ba2888c4-bb646464-rc80000-wfcfcfc/sett.png)|

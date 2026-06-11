@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=463
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Cairngorm #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=463))
+- pre 2006 — Cairngorm #2 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7071/))
+
 ## Thread count
 N/8 DR8 N44 K30 Na44 B8 Na/10
 ![Sett](sett.png)

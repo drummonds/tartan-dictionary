@@ -20,8 +20,6 @@ GRGRGRGRGKRBRBY
 |![Cochrane example sett](/setts/s15/g68r8g6r4g8r4g6r8g34k34r4b34r8b8y6-b202060-g006818-k101010-rc80000-yd8b000/sett.png)|
 | [Cochrane (1984)](/setts/s15/g32r4g4r2g6r2g4r4g24k24r2b32r4b16y4-b2c4084-g005020-k101010-rdc0000-ye8c000/)|
 |![Cochrane (1984) example sett](/setts/s15/g32r4g4r2g6r2g4r4g24k24r2b32r4b16y4-b2c4084-g005020-k101010-rdc0000-ye8c000/sett.png)|
-| [Cochrane (Clan)](/setts/s15/g68r8g6r4g8r4g6r8g34k34r4b34r8b8y6-b202060-g006818-k101010-rc80000-yd8b000/)|
-|![Cochrane (Clan) example sett](/setts/s15/g68r8g6r4g8r4g6r8g34k34r4b34r8b8y6-b202060-g006818-k101010-rc80000-yd8b000/sett.png)|
 | [Cochrane](/setts/s15/g16r2g2r1g3r1g2r2g12k12r1b16r2b8y2-b000064-g004c00-k000000-rc80000-yffc800/)|
 |![Cochrane example sett](/setts/s15/g16r2g2r1g3r1g2r2g12k12r1b16r2b8y2-b000064-g004c00-k000000-rc80000-yffc800/sett.png)|
 | [Cochrane](/setts/s15/g32r4g4r2g6r2g4r4g24k24r2b32r4b16y4-b304080-g008000-k000000-rc00000-yf0c000/)|

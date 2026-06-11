@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1509
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1810 — Grant of Monymusk (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1509))
+- 1810 — Grant of Monymusk - 1810 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1497/))
+
 ## Thread count
 R/24 G32 R6 G32 R6 G32 R8 B32 R10 K18 R24 G6 R/24
 ![Sett](sett.png)

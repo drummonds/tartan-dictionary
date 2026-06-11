@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7428/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Aug 2007 — Tilburg Hunting (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7428/))
+- undated — Tilburg Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5500))
+
 ## Thread count
 B/12 K6 B74 Y82 LN6 Y12 LN/6
 ![Sett](sett.png)

@@ -20,5 +20,3 @@ KWKBKGY
 |---------------|
 | [Presley of Lonmay](/setts/s7/k4w50k4b16k4g56y4-b1474b4-g408060-k101010-wc0c0c0-ye8c000/)|
 |![Presley of Lonmay example sett](/setts/s7/k4w50k4b16k4g56y4-b1474b4-g408060-k101010-wc0c0c0-ye8c000/sett.png)|
-| [Presley of Lonmay (Fashion)](/setts/s7/k4w50k4b16k4g56y4-b1474b4-g408060-k101010-wc0c0c0-ye8c000/)|
-|![Presley of Lonmay (Fashion) example sett](/setts/s7/k4w50k4b16k4g56y4-b1474b4-g408060-k101010-wc0c0c0-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "MacDonald - 1800 (Clan)"
+title: "MacDonald"
 date: 2023-03-18
 ---
 In pattern [BRBRBRKGRGRG](/patterns/brbrbrkgrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/419/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2334
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — MacDonald (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2334))
+- 1819 — MacDonald - 1800 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/419/))
 
 ## Thread count
 DB/34 R4 DB4 R10 DB58 R4 K62 G58 R10 G4 R4 G/34

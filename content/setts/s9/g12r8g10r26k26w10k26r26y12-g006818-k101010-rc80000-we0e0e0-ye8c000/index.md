@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/997/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1986 — Akins Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/997/))
+- undated — Akins Red Family Tartan Tartan Number: 997. Earliest known date: 1986 . See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=997))
+
 ## Thread count
 G/12 R8 G10 R26 K26 LN10 K26 R26 Y/12
 ![Sett](sett.png)

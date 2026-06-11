@@ -1,13 +1,20 @@
 ---
-title: "Pride of Scotland, Platinum (Fashion"
+title: "Pride of Scotland Platinum"
 date: 2023-03-18
 ---
 In pattern [KBRBKBKWBKR](/patterns/kbrbkbkwbkr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6850/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3380
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Pride of Scotland Platinum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3380))
+- pre 2006 — Pride of Scotland, Platinum (Fashion (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6850/))
 
 ## Thread count
 K/20 N4 Na4 N4 K28 N4 K4 LP2 N24 K48 P/4

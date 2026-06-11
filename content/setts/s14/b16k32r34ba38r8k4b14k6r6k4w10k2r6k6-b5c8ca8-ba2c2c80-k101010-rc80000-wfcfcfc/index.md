@@ -1,13 +1,20 @@
 ---
-title: "Popular (Fashion)"
+title: "Popular"
 date: 2023-03-18
 ---
 In pattern [BKRBRKBKRKWKRK](/patterns/bkrbrkbkrkwkrk/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1987/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3354
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Popular (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3354))
+- pre 2002 — Popular (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1987/))
 
 ## Thread count
 B/16 K32 R34 DB38 R8 K4 B14 K6 R6 K4 W10 K2 R6 K/6

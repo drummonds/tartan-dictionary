@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Presley of Lonmay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383))
+- pre 2004 — Presley of Lonmay (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6224/))
+
 ## Thread count
 K/4 N50 K4 B16 K4 G56 Y/4
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/4 N50 K4 B16 K4 G56 Y/4 tartan")
 
 ID: /setts/s7/k4w50k4b16k4g56y4-b1474b4-g408060-k101010-wc0c0c0-ye8c000/
-c000/

@@ -18,5 +18,3 @@ BRBKBYBYBBBKBY
 |---------------|
 | [Black Rose](/setts/s14/y40b6k16b6ba4b48y4b6y4b48k30b2r6b4-b780078-ba2c2c80-k101010-r888888-ye08070/)|
 |![Black Rose example sett](/setts/s14/y40b6k16b6ba4b48y4b6y4b48k30b2r6b4-b780078-ba2c2c80-k101010-r888888-ye08070/sett.png)|
-| [Black Rose (Corporate)](/setts/s14/y40b6k16b6ba4b48y4b6y4b48k30b2r6b4-b780078-ba2c2c80-k101010-r888888-ye08070/)|
-|![Black Rose (Corporate) example sett](/setts/s14/y40b6k16b6ba4b48y4b6y4b48k30b2r6b4-b780078-ba2c2c80-k101010-r888888-ye08070/sett.png)|

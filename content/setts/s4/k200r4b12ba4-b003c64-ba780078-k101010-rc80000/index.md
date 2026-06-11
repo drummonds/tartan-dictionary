@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10130/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 23rd Nov. 2009 — Alich (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10130/))
+- undated — Alich Dutch Personal Tartan Tartan Number: 10130. Earliest known date: 23rd Nov. 2009 This tartan is for the use of the families of Dirk Alich and his brothers Robert and Carsten. The almost black of the tartan represents the secrets the Alich family is hiding. The red lines represent the bloodlines and the fights that have been won. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10130))
+
 ## Thread count
 K/200 R4 DB12 P/4
 ![Sett](sett.png)

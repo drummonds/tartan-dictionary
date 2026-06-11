@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2902
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2003 — McPrato (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2902))
+- May 2003 — McPrato (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5838/))
+
 ## Thread count
 DB/4 R6 N4 R14 Ga22 N4 G4 N4 Y4 N18 DB24 R/104
 ![Sett](sett.png)

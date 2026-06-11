@@ -18,5 +18,3 @@ GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKY
 |---------------|
 | [Murray, Mungo](/setts/s81/g20y8k4y4k4y4k4y8r2y4r2y8k8y6r14y6r14y2k2y2r14y2k2y2r14y2k2y2r14y6r14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8g2w4g2y4g2w4g2y8k12y2w4y2k12y8g2w4g2y4g2w4g2y8k20y12k4y12k4y12k4-g604000-k101010-r-h1afcfa2c818852b4/)|
 |![Murray, Mungo example sett](/setts/s81/g20y8k4y4k4y4k4y8r2y4r2y8k8y6r14y6r14y2k2y2r14y2k2y2r14y2k2y2r14y6r14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8g2w4g2y4g2w4g2y8k12y2w4y2k12y8g2w4g2y4g2w4g2y8k20y12k4y12k4y12k4-g604000-k101010-r-h1afcfa2c818852b4/sett.png)|
-| [Murray, Mungo (Artefact)](/setts/s81/g20y8k4y4k4y4k4y8r2y4r2y8k8y6r14y6r14y2k2y2r14y2k2y2r14y2k2y2r14y6r14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8g2w4g2y4g2w4g2y8k12y2w4y2k12y8g2w4g2y4g2w4g2y8k20y12k4y12k4y12k4-g604000-k101010-r-h1afcfa2c818852b4/)|
-|![Murray, Mungo (Artefact) example sett](/setts/s81/g20y8k4y4k4y4k4y8r2y4r2y8k8y6r14y6r14y2k2y2r14y2k2y2r14y2k2y2r14y6r14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8g2w4g2y4g2w4g2y8k12y2w4y2k12y8g2w4g2y4g2w4g2y8k20y12k4y12k4y12k4-g604000-k101010-r-h1afcfa2c818852b4/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5741
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2000 — George Heriot's School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5741))
+- 2000 — George Heriot's (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7764/))
+
 ## Thread count
 LN/6 K2 DBa48 DB20 N48 K2 Y/6
 ![Sett](sett.png)

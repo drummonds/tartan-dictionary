@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3777/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Cailean #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3777/))
+- undated — Cailean (Pendleton) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5314))
+
 ## Thread count
 LT/8 N4 LT4 DR6 LT32 DB4 K4 DB4 K4 DB4 K24 LTa/8
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
 ID: /setts/s12/r8k24b4k4b4k4b4ra32ba6ra4y4ra8-b00008c-ba4c0c28-k000000-r8c6428-raa0783c-yb0b0b0/
-0/

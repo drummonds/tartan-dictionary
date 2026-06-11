@@ -20,5 +20,3 @@ GKRKGKGK
 |---------------|
 | [Glenbarr](/setts/s8/g12k24r8k24g12k8g64k4-g006818-k101010-rc80000/)|
 |![Glenbarr example sett](/setts/s8/g12k24r8k24g12k8g64k4-g006818-k101010-rc80000/sett.png)|
-| [Glenbarr (Corporate)](/setts/s8/g12k24r8k24g12k8g64k4-g006818-k101010-rc80000/)|
-|![Glenbarr (Corporate) example sett](/setts/s8/g12k24r8k24g12k8g64k4-g006818-k101010-rc80000/sett.png)|

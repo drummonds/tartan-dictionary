@@ -39,4 +39,3 @@ Tartan setts with 46 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.13 | [Peeper](/setts/s46/r8g18ga2y2ga2y2ga2y2k2r16k2ga2y2ga2y2r12ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2-g006818-ga8c7038-k101010-rb03000-ya08858/) | register-of-tartans |
-| 0.13 | [Peeper (Name)](/setts/s46/r8g18ga2y2ga2y2ga2y2k2r16k2ga2y2ga2y2r12ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2ga2y2-g006818-ga8c7038-k101010-rb03000-ya08858/) | tartans-authority |

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5800
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2008 — Vilaro-Thomas (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5800))
+- Feb 2008 — Vilaro-Thomas (Personal)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7848/))
+
 ## Thread count
 LP/4 LN2 LP30 DB12 LP14 DB6 R2 DB6 LP6 DB52 Y/4
 ![Sett](sett.png)

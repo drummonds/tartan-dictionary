@@ -1,13 +1,20 @@
 ---
-title: "MacDonald, Sir John A (Comm)"
+title: "MacDonald, Sir John A"
 date: 2023-03-18
 ---
 In pattern [RKGWKBKRGRW](/patterns/rkgwkbkrgrw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1581/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2379
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacDonald, Sir John A (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2379))
+- pre 2002 — MacDonald, Sir John A (Comm) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1581/))
 
 ## Thread count
 DR/20 K6 G4 N4 K44 DB8 K44 DR8 G8 DR28 N/6

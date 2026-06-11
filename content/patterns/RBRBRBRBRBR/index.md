@@ -18,5 +18,3 @@ RBRBRBRBRBR
 |---------------|
 | [Bennet](/setts/s11/r128b36r4b6r4b6r28ba16r4ba8r4-b202060-ba2888c4-ra00048/)|
 |![Bennet example sett](/setts/s11/r128b36r4b6r4b6r28ba16r4ba8r4-b202060-ba2888c4-ra00048/sett.png)|
-| [Bennet (Fashion)](/setts/s11/r128b36r4b6r4b6r28ba16r4ba8r4-b202060-ba2888c4-ra00048/)|
-|![Bennet (Fashion) example sett](/setts/s11/r128b36r4b6r4b6r28ba16r4ba8r4-b202060-ba2888c4-ra00048/sett.png)|

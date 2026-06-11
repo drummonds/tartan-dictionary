@@ -20,5 +20,3 @@ KGWGKBKW
 |---------------|
 | [Louisiana](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/)|
 |![Louisiana example sett](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/sett.png)|
-| [Louisiana (District](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/)|
-|![Louisiana (District example sett](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/sett.png)|

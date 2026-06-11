@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3343
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/1996 — Pinney's of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3343))
+- 1996 — Pinney's of Scotland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2284/))
+
 ## Thread count
 DBa/8 G4 DB20 Y2 DB4 G26 DBa22 G26 DB26 Y/4
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s10/b8g4ba20y2ba4g26b22g26ba26y4-b202060-ba2c2c80-g006818-ye8c000/
-e8c000/

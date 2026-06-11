@@ -1,13 +1,20 @@
 ---
-title: "Birnham Blue"
+title: "Birnham, Blue (Dance)"
 date: 2023-03-18
 ---
 In pattern [KWGWBW](/patterns/kwgwbw/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5623
+Original link http://www.tartansauthority.com/tartan-ferret/display/7599/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Birnham, Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7599/))
+- undated — Birnham Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5623))
 
 ## Thread count
 K/6 W50 G32 W6 B50 W/6
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 W50 G32 W6 B50 W/6 tartan")
 
 ID: /setts/s6/k6w50g32w6b50w6-b506880-g006818-k101010-wf0e0c8/
-0c8/

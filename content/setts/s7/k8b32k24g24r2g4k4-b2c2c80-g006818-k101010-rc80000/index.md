@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — Dundas #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027))
+- 1842 — Dundas (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1041/))
+
 ## Thread count
 K/8 DB32 K24 G24 R2 G4 K/4
 ![Sett](sett.png)

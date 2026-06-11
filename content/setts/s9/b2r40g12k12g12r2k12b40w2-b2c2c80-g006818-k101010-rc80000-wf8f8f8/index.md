@@ -1,13 +1,20 @@
 ---
-title: "Bush Pilot (Artefact)"
+title: "Bush Pilot"
 date: 2023-03-18
 ---
 In pattern [BRGKGRKBW](/patterns/brgkgrkbw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7155/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=453
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Bush Pilot (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=453))
+- pre 2006 — Bush Pilot (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7155/))
 
 ## Thread count
 DB/2 R40 G12 K12 G12 R2 K12 DB40 W/2

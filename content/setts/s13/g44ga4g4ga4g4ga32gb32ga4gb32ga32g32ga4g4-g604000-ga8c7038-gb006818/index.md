@@ -1,13 +1,20 @@
 ---
-title: "Tyneside Scottish (Green) (District)"
+title: "Tyneside Scottish (Green)"
 date: 2023-03-18
 ---
 In pattern [GGGGGGGGGGGGG](/patterns/ggggggggggggg/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5084/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4175
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1914 — Tyneside Scottish (Green) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4175))
+- 1914 — Tyneside Scottish (Green) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5084/))
 
 ## Thread count
 T/4 LT4 T32 LT32 G32 LT4 G32 LT32 T4 LT4 T4 LT4 T/44

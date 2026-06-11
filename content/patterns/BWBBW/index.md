@@ -20,8 +20,6 @@ BWBBW
 |---------------|
 | [Laval, Tartan de](/setts/s5/b4w4ba16b16w4-b1c0070-ba680028-wc0c0c0/)|
 |![Laval, Tartan de example sett](/setts/s5/b4w4ba16b16w4-b1c0070-ba680028-wc0c0c0/sett.png)|
-| [Laval, Tartan de (District)](/setts/s5/b4w4ba16b16w4-b1c0070-ba680028-wc0c0c0/)|
-|![Laval, Tartan de (District) example sett](/setts/s5/b4w4ba16b16w4-b1c0070-ba680028-wc0c0c0/sett.png)|
 | [Laval (Tartan de..)](/setts/s5/b4w4ba16b16w2-b000050-ba600030-we0e0e0/)|
 |![Laval (Tartan de..) example sett](/setts/s5/b4w4ba16b16w2-b000050-ba600030-we0e0e0/sett.png)|
 | [Loch Lomond](/setts/s5/b74w18b6ba18w6-b5480b0-ba000050-we0e0e0/)|

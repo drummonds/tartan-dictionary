@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7401/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1995 — Edinburgh & Lothian T.B. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7401/))
+- undated — Edinburgh & Lothian Tourist Board (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5485))
+
 ## Thread count
 DBa/80 DB16 DY6 DB12 K6 DB12 R/8
 ![Sett](sett.png)

@@ -20,5 +20,3 @@ RBRY
 |---------------|
 | [Bryce](/setts/s4/r10b70r92y10-b684038-r880000-ya88000/)|
 |![Bryce example sett](/setts/s4/r10b70r92y10-b684038-r880000-ya88000/sett.png)|
-| [Bryce (Clan)](/setts/s4/r10b70r92y10-b684038-r880000-ya88000/)|
-|![Bryce (Clan) example sett](/setts/s4/r10b70r92y10-b684038-r880000-ya88000/sett.png)|

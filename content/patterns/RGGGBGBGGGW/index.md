@@ -20,8 +20,6 @@ RGGGBGBGGGW
 |![Boys Brigade example sett](/setts/s11/r6g56ga38g6b38g6b38g6ga38g56w6-b2c2c80-g003820-ga006818-rc80000-wfcfcfc/sett.png)|
 | [Fraser Hunting](/setts/s11/r6g36ga20g4b20g4b20g4ga20g36w6-b1c0070-g604000-ga006818-rc80000-wfcfcfc/)|
 |![Fraser Hunting example sett](/setts/s11/r6g36ga20g4b20g4b20g4ga20g36w6-b1c0070-g604000-ga006818-rc80000-wfcfcfc/sett.png)|
-| [Boys' Brigade (Corporate)](/setts/s11/r6g56ga38g6b38g6b38g6ga38g56w6-b2c2c80-g003820-ga006818-rc80000-wfcfcfc/)|
-|![Boys' Brigade (Corporate) example sett](/setts/s11/r6g56ga38g6b38g6b38g6ga38g56w6-b2c2c80-g003820-ga006818-rc80000-wfcfcfc/sett.png)|
 | [Fraser Htg (Clan)](/setts/s11/r6g36ga20g4b20g4b20g4ga20g36w6-b1c0070-g543800-ga004c10-rc80000-wfcfcfc/)|
 |![Fraser Htg (Clan) example sett](/setts/s11/r6g36ga20g4b20g4b20g4ga20g36w6-b1c0070-g543800-ga004c10-rc80000-wfcfcfc/sett.png)|
 | [B.B., Special](/setts/s11/r6g56ga38g6b38g6b38g6ga38g56w6-b304080-g003000-ga008000-rc00000-we0e0e0/)|

@@ -1,13 +1,20 @@
 ---
-title: "MacFadzean/MacPhedran (Clan)"
+title: "MacFadzean/MacPhedran"
 date: 2023-03-18
 ---
 In pattern [GBWKGRG](/patterns/gbwkgrg/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/744/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2431
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1945 — MacFadzean/MacPhedran (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2431))
+- pre 1945 — MacFadzean/MacPhedran (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/744/))
 
 ## Thread count
 G/12 DB48 W4 K48 G52 R8 G/8

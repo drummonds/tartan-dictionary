@@ -1,13 +1,20 @@
 ---
-title: "Inder"
+title: "Inder (Corporate)"
 date: 2023-03-18
 ---
 In pattern [RBKWR](/patterns/rbkwr/).
 
 
-This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5411
+Original link http://www.tartansauthority.com/tartan-ferret/display/6733/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2005 — Inder (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6733/))
+- undated — Inder (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5411))
 
 ## Thread count
 R/4 P16 K16 W2 R/4
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/4 P16 K16 W2 R/4 tartan")
 
 ID: /setts/s5/r4b16k16w2r4-b780078-k101010-rc80000-wf8f8f8/
-f8f8f8/

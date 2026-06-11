@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1716
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/11/1996 — Highland Pub Company (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1716))
+- 1996 — Highland Pub Company (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2289/))
+- undated — Highland Pub Company Corporate Tartan Tartan Number: 2289. Earliest known date: 1996 Designed by Polly Wittering of The House of Edgar for the Highland Pub Co, part of Scottish & Newcastle Breweries. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2289))
+
 ## Thread count
 DY/8 R60 T26 K26 T/32
 ![Sett](sett.png)

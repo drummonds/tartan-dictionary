@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1144
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1990 — F.I.A.T.A. Congress of 1990 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1144))
+- 1990 — F.I.A.T.A. Congress 1990 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4832/))
+
 ## Thread count
 DB/24 DY4 DR4 DY8 DB16 B32 G/48
 ![Sett](sett.png)

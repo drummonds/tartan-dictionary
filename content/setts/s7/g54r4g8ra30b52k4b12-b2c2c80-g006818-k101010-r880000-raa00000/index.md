@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3628/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Feb 2003 — Bailies of Bennachie (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3628/))
+- undated — Bailies of Bennachie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5090))
+
 ## Thread count
 DB/12 K4 DB52 DRa30 G8 DR4 G/54
 ![Sett](sett.png)

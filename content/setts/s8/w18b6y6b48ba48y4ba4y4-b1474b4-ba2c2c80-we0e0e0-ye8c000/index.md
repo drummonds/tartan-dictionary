@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7661/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Halesowen (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7661/))
+- undated — Halesowen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5667))
+
 ## Thread count
 LN/18 B6 Y6 B48 DB48 Y4 DB4 Y/4
 ![Sett](sett.png)

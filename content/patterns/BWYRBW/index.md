@@ -20,5 +20,3 @@ BWYRBW
 |---------------|
 | [Cairngorm](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/)|
 |![Cairngorm example sett](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/sett.png)|
-| [Cairngorm (1963) (District)](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/)|
-|![Cairngorm (1963) (District) example sett](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/sett.png)|

@@ -18,5 +18,3 @@ BKGKYWYKY
 |---------------|
 | [O'Rourke (Estimated threadcount)](/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/)|
 |![O'Rourke (Estimated threadcount) example sett](/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/sett.png)|
-| [O'Rourke (Name?)](/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/)|
-|![O'Rourke (Name?) example sett](/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/sett.png)|

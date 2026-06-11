@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1411
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Gleneagles Gold (Dalgleish) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1411))
+- 1984 — Gleneagles Gold (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1269/))
+
 ## Thread count
 K/8 DY16 K128 DY4 N128 DY16 K/16
 ![Sett](sett.png)

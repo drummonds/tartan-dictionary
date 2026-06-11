@@ -1,13 +1,20 @@
 ---
-title: "Moskova (Corporate)"
+title: "Moskova"
 date: 2023-03-18
 ---
 In pattern [BGKRKGBYKWGK](/patterns/bgkrkgbykwgk/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6360/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3022
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Moskova (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3022))
+- circ 1980 — Moskova (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6360/))
 
 ## Thread count
 DB/8 G36 K4 R24 K4 G16 DB16 Y4 K16 W4 G20 K/8

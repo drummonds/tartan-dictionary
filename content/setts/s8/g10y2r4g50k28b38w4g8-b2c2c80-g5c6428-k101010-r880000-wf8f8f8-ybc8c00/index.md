@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GWBKGRYG](/patterns/gwbkgryg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/922/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4138
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Tooth (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4138))
+- pre 1980 — Tooth (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/922/))
 
 ## Thread count
 G/10 DY2 DR4 G50 K28 DB38 W4 G/8

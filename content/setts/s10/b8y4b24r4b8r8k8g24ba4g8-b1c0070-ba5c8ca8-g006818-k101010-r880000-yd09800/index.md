@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3091
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Nance (1998) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3091))
+- 1998 — Nance (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5634/))
+
 ## Thread count
 DB/8 DY4 DB24 DR4 DB8 DR8 K8 G24 B4 G/8
 ![Sett](sett.png)

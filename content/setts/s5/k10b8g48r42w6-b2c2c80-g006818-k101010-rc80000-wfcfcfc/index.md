@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3633
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2002 — Sachie Hara Scottish Check (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3633))
+- pre 2004 — Sachie Hara (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6228/))
+
 ## Thread count
 K/10 DB8 G48 R42 W/6
 ![Sett](sett.png)

@@ -1,13 +1,21 @@
 ---
-title: "Baru Weavers Tartan Tartan Number: 6005. Earliest known date: pre 2003 Count from woven sample. What appears to be black is a very dark green. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Baru"
 date: 2023-03-18
 ---
 In pattern [BGBGW](/patterns/bgbgw/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6005
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2003 — Baru (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226))
+- pre 2003 — Baru (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6005/))
+- undated — Baru Weavers Tartan Tartan Number: 6005. Earliest known date: pre 2003 Count from woven sample. What appears to be black is a very dark green. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6005))
 
 ## Thread count
 LN/10 DG70 P46 DG16 P/46

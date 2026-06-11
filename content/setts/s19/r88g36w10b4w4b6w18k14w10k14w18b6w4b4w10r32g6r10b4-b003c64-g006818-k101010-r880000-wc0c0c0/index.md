@@ -1,13 +1,20 @@
 ---
-title: "Metcalf"
+title: "Metcalf (Clan)"
 date: 2023-03-18
 ---
 In pattern [BRGRWBWBWKWKWBWBWGR](/patterns/brgrwbwbwkwkwbwbwgr/).
 
 
-This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes/stripes19/).
+This was sourced from tartans-authority.  It is a [19 stripes tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5182
+Original link http://www.tartansauthority.com/tartan-ferret/display/3471/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Metcalf (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3471/))
+- undated — Metcalf (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5182))
 
 ## Thread count
 DB/4 DR10 G6 DR32 N10 DB4 N4 DB6 N18 K14 N10 K14 N18 DB6 N4 DB4 N10 G36 DR/88

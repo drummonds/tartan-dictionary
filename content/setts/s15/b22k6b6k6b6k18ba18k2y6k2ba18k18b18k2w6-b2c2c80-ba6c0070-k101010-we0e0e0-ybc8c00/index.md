@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1420
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1993 — Glengoyne Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1420))
+- 1993 — Glengoyne Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1144/))
+
 ## Thread count
 DB/22 K6 DB6 K6 DB6 K18 P18 K2 DY6 K2 P18 K18 DB18 K2 LN/6
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#6C0070;"><span style="color:#6C0070;filter:grayscale(1) invert(1) contrast(100);">#6C0070</span></code> `#6C0070` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.15 |
 
 ID: /setts/s15/b22k6b6k6b6k18ba18k2y6k2ba18k18b18k2w6-b2c2c80-ba6c0070-k101010-we0e0e0-ybc8c00/
-bc8c00/

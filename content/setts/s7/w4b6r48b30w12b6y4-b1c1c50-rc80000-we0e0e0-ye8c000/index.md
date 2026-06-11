@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7689/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Fazzolettone (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7689/))
+- undated — Fazzolettone (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5688))
+
 ## Thread count
 LN/4 DB6 R48 DB30 LN12 DB6 Y/4
 ![Sett](sett.png)

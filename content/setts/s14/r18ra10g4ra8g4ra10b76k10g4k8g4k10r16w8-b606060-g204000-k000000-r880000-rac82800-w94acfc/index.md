@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5380
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1981 — Berwick-upon-Tweed (symmetric) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5380))
+- 1982 — Berwick-upon-Tweed (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3689/))
+
 ## Thread count
 DR/18 R10 G4 R8 G4 R10 N76 K10 G4 K8 G4 K10 DR16 LP/8
 ![Sett](sett.png)

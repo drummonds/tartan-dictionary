@@ -1,13 +1,21 @@
 ---
-title: "Newman (Personal)"
+title: "Newman"
 date: 2023-03-18
 ---
 In pattern [BKBRKWGRGRG](/patterns/bkbrkwgrgrg/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2629/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3129
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1990 — Newman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3129))
+- 1990 — Newman (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2629/))
+- undated — Newman Clan/Family Tartan Tartan Number: 2629. Earliest known date: 1990 This is 'Newlands' (#2175) with a white line between the black and green. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2629))
 
 ## Thread count
 DB/20 K20 DB20 DR4 K40 W2 G20 DR4 G8 DR4 G/8

@@ -20,5 +20,3 @@ GRGBWR
 |---------------|
 | [MacKintosh Dress (Dance)](/setts/s6/g6r18ga36b16w66r6-b780078-g289c18-ga285800-rc80000-we0e0e0/)|
 |![MacKintosh Dress (Dance) example sett](/setts/s6/g6r18ga36b16w66r6-b780078-g289c18-ga285800-rc80000-we0e0e0/sett.png)|
-| [MacKintosh Dress - 2005 (Dance)](/setts/s6/g6r18ga36b16w66r6-b780078-g289c18-ga285800-rc80000-we0e0e0/)|
-|![MacKintosh Dress - 2005 (Dance) example sett](/setts/s6/g6r18ga36b16w66r6-b780078-g289c18-ga285800-rc80000-we0e0e0/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3474/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Millennium (Langholm) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3474/))
+- undated — Millennium (Langholm) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4947))
+
 ## Thread count
 DP/70 DN4 T2 DN2 N2 DN10 DR4 G10 DY/8
 ![Sett](sett.png)

@@ -22,5 +22,3 @@ KBKGKYK
 |![London Community Gospel Choir example sett](/setts/s7/k50y10k10g50k50b6k20-b1474b4-g006818-k101010-ye8c000/sett.png)|
 | [London Community Gospel Choir, The](/setts/s7/k50y10k10g50k50b6k20-b2c4084-g003c14-k101010-yc89600/)|
 |![London Community Gospel Choir, The example sett](/setts/s7/k50y10k10g50k50b6k20-b2c4084-g003c14-k101010-yc89600/sett.png)|
-| [London Community Gospel Choir (Corp)](/setts/s7/k50y10k10g50k50b6k20-b1474b4-g006818-k101010-ye8c000/)|
-|![London Community Gospel Choir (Corp) example sett](/setts/s7/k50y10k10g50k50b6k20-b1474b4-g006818-k101010-ye8c000/sett.png)|

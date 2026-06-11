@@ -20,5 +20,3 @@ GGWKGYG
 |---------------|
 | [Duffy](/setts/s7/g16ga120w2k66g18y8g8-g006818-ga003c00-k000000-wfcfcfc-ye8c000/)|
 |![Duffy example sett](/setts/s7/g16ga120w2k66g18y8g8-g006818-ga003c00-k000000-wfcfcfc-ye8c000/sett.png)|
-| [Duffy (Clan)](/setts/s7/g16ga120w2k66g18y8g8-g006818-ga003c00-k000000-wfcfcfc-ye8c000/)|
-|![Duffy (Clan) example sett](/setts/s7/g16ga120w2k66g18y8g8-g006818-ga003c00-k000000-wfcfcfc-ye8c000/sett.png)|

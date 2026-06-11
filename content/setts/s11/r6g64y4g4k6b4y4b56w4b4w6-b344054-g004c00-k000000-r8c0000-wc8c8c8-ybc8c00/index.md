@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5447/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- circa 1988 — Pringle (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5447/))
+- 01/01/1998 — Pringle #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3411))
+
 ## Thread count
 DR/6 G64 DY4 G4 K6 Na4 DY4 Na56 N4 Na4 N/6
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#344054;"><span style="color:#344054;filter:grayscale(1) invert(1) contrast(100);">#344054</span></code> `#344054` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.08 |
 
 ID: /setts/s11/r6g64y4g4k6b4y4b56w4b4w6-b344054-g004c00-k000000-r8c0000-wc8c8c8-ybc8c00/
-c8c00/

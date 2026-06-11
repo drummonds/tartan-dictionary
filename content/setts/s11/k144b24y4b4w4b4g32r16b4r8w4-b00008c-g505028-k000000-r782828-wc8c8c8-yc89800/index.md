@@ -1,13 +1,20 @@
 ---
-title: "Flotilla Navy (Fashion)"
+title: "Flotilla Navy"
 date: 2023-03-18
 ---
 In pattern [KBYBWBGRBRW](/patterns/kbybwbgrbrw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4872/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1209
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Flotilla Navy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1209))
+- pre 2002 — Flotilla Navy (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4872/))
 
 ## Thread count
 K/144 DB24 DY4 DB4 N4 DB4 G32 DR16 DB4 DR8 N/4

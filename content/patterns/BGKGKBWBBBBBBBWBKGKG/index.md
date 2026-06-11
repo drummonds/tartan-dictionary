@@ -18,5 +18,3 @@ BGKGKBWBBBBBBBWBKGKG
 |---------------|
 | [Smithers](/setts/s20/g20k4g20k24b16w4b12ba4b24bb8b24ba4b12w4b16k24g20k4g20bb8-b1474b4-ba5c5c5c-bb6c0070-g006818-k101010-wc0c0c0/)|
 |![Smithers example sett](/setts/s20/g20k4g20k24b16w4b12ba4b24bb8b24ba4b12w4b16k24g20k4g20bb8-b1474b4-ba5c5c5c-bb6c0070-g006818-k101010-wc0c0c0/sett.png)|
-| [Smithers Family Tartan Tartan Number: 2227. Earliest known date: pre 2002 Designed by Alfred Arnold Smither. A Canadian family tartan that is open to all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/g20k4g20k24b16w4b12ba4b24bb8b24ba4b12w4b16k24g20k4g20bb8-b1474b4-ba5c5c5c-bb6c0070-g006818-k101010-wc0c0c0/)|
-|![Smithers Family Tartan Tartan Number: 2227. Earliest known date: pre 2002 Designed by Alfred Arnold Smither. A Canadian family tartan that is open to all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s20/g20k4g20k24b16w4b12ba4b24bb8b24ba4b12w4b16k24g20k4g20bb8-b1474b4-ba5c5c5c-bb6c0070-g006818-k101010-wc0c0c0/sett.png)|

@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2045
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1999 — Langston (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2045))
+- 1999 — Langston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4214/))
+- undated — Langston Family Tartan Tartan Number: 4214. Earliest known date: 1999 The Langston family tartan was designed for LCDR Michael W. Langston of Greenville, USA, by Blair Urquhart of the House of Tartan. The light blue colour is described as Teal. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4214))
+
 ## Thread count
 K/28 G4 B28 G6 B28 G4 K28 G28 LN4 G28 K28 R4 G4 R20 Y8 R20 G4 R/4
 ![Sett](sett.png)

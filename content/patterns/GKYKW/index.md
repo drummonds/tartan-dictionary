@@ -20,5 +20,3 @@ GKYKW
 |---------------|
 | [O'Donoghue](/setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/)|
 |![O'Donoghue example sett](/setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/sett.png)|
-| [O'Donoghue (Fashion?)](/setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/)|
-|![O'Donoghue (Fashion?) example sett](/setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/sett.png)|

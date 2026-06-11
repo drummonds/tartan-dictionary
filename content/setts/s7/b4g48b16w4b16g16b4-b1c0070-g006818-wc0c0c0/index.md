@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3888
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — St. Dennis & Cranley School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3888))
+- 1995 — St. Dennis & Cranley (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5310/))
+
 ## Thread count
 DB/4 G16 DB16 N4 DB16 G48 DB/4
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Ruxton Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627))
+- January 1997 — Ruxton Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2379/))
+
 ## Thread count
 DR/32 LN2 DR2 LN6 DR4 DB8 DR30 LN2 DR2 Y6 DB32 K2 DB4 DR16 Y2 DR/34
 ![Sett](sett.png)

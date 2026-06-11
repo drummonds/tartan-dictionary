@@ -20,5 +20,3 @@ BRBRKBKR
 |---------------|
 | [Kilbranan Sound (Personal)](/setts/s8/b16r22b56r8k34ba2k14r4-b005480-ba8c6088-k000000-ra00028/)|
 |![Kilbranan Sound (Personal) example sett](/setts/s8/b16r22b56r8k34ba2k14r4-b005480-ba8c6088-k000000-ra00028/sett.png)|
-| [Kilbranan Sound (Personal)](/setts/s8/b16r22b56r8k34ba2k14r4-b005480-ba8c6088-k000000-ra00028/)|
-|![Kilbranan Sound (Personal) example sett](/setts/s8/b16r22b56r8k34ba2k14r4-b005480-ba8c6088-k000000-ra00028/sett.png)|

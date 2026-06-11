@@ -18,8 +18,6 @@ GRBRBRBRW
 |---------------|
 | [Rose](/setts/s9/g8r64b18r12b4r6b4r24w6-b2c2c80-g006818-rc80000-wfcfcfc/)|
 |![Rose example sett](/setts/s9/g8r64b18r12b4r6b4r24w6-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
-| [Rose - 1842 (VS Plate) Clan)](/setts/s9/g8r64b18r12b4r6b4r24w6-b2c2c80-g006818-rc80000-wfcfcfc/)|
-|![Rose - 1842 (VS Plate) Clan) example sett](/setts/s9/g8r64b18r12b4r6b4r24w6-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
 | [Rose](/setts/s9/g2r28b6r5b2r2b2r11w2-b000064-g004c00-rc80000-wd0d0d0/)|
 |![Rose example sett](/setts/s9/g2r28b6r5b2r2b2r11w2-b000064-g004c00-rc80000-wd0d0d0/sett.png)|
 | [Rose](/setts/s9/g8r64b18r12b4r6b4r24w6-b304080-g008000-rc00000-we0e0e0/)|

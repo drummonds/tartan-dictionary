@@ -30,5 +30,3 @@ BRG
 |![Wilson's, No 161 example sett](/setts/s3/b26r4g26-b5480b0-g008000-rc00000/sett.png)|
 | [Wilson's, No 212](/setts/s3/g36r8b8-b5480b0-g008000-rc00000/)|
 |![Wilson's, No 212 example sett](/setts/s3/g36r8b8-b5480b0-g008000-rc00000/sett.png)|
-| [Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/)|
-|![Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/sett.png)|

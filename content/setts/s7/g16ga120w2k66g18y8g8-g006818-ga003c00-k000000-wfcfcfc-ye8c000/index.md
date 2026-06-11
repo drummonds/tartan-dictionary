@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — Duffy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008))
+- Feb. 1995 — Duffy (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2172/))
+
 ## Thread count
 Ga/16 G120 W2 K66 Ga18 Y8 Ga/8
 ![Sett](sett.png)

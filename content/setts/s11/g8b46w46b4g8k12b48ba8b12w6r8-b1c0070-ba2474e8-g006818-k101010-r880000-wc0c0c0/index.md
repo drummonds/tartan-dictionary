@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3117
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — New Millennium (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3117))
+- pre 2002 — New Millennium (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5622/))
+
 ## Thread count
 DR/8 N6 DB12 B8 DB48 K12 G8 DB4 N46 DB46 G/8
 ![Sett](sett.png)

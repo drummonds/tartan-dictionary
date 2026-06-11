@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Loch Leven (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148))
+- 1975 — Loch Leven (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/108/))
+
 ## Thread count
 B/4 G26 B22 LG8 W18 B/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/4 G26 B22 LG8 W18 B/4 tartan")
 
 ID: /setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/
-fcfc/

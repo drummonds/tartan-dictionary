@@ -1,13 +1,20 @@
 ---
-title: "Gillies (Lochcarron) (Clan)"
+title: "Gillies"
 date: 2023-03-18
 ---
 In pattern [BKGRGKYKGRGKBK](/patterns/bkgrgkykgrgkbk/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/324/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1340
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1940 — Gillies (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1340))
+- 1940 — Gillies (Lochcarron) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/324/))
 
 ## Thread count
 DB/88 K15 G9 R12 G20 K3 Y8 K6 G20 R12 G9 K15 DB24 K/36

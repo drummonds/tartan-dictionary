@@ -18,7 +18,5 @@ BWYKWWW
 
 | Tartans |
 |---------------|
-| [Nunavut Territory](/setts/s7/b120w2y8k8w2wa16w4-b1c1c50-k101010-we0e0e0-wac49cd8-ye8c000/)|
-|![Nunavut Territory example sett](/setts/s7/b120w2y8k8w2wa16w4-b1c1c50-k101010-we0e0e0-wac49cd8-ye8c000/sett.png)|
 | [Nunavut Territory (District)](/setts/s7/b120w2y8k8w2wa16w4-b1c1c50-k101010-we0e0e0-wac49cd8-ye8c000/)|
 |![Nunavut Territory (District) example sett](/setts/s7/b120w2y8k8w2wa16w4-b1c1c50-k101010-we0e0e0-wac49cd8-ye8c000/sett.png)|

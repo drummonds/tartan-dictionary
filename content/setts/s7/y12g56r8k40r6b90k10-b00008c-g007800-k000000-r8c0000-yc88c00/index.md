@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3107
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Nery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3107))
+- pre 2002 — Nery (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4109/))
+
 ## Thread count
 DY/12 G56 DR8 K40 DR6 DB90 K/10
 ![Sett](sett.png)

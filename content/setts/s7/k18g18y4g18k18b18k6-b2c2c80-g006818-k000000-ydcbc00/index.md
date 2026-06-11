@@ -1,13 +1,20 @@
 ---
-title: "Campbell of Breadalbane #3"
+title: "Campbell of Breadalbane (Clan)"
 date: 2023-03-18
 ---
 In pattern [KBKGYGK](/patterns/kbkgygk/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=517
+Original link http://www.tartansauthority.com/tartan-ferret/display/1046/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1750/1819 — Campbell of Breadalbane (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1046/))
+- 01/01/1819 — Campbell of Breadalbane #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=517))
 
 ## Thread count
 K/6 DB18 K18 G18 Y4 G18 K/18

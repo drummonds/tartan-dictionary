@@ -1,13 +1,20 @@
 ---
-title: "Tweedside Htg (District)"
+title: "Tweedside Hunting"
 date: 2023-03-18
 ---
 In pattern [BGKGWGWGK](/patterns/bgkgwgwgk/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/163/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4168
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1968 — Tweedside Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4168))
+- 1968 — Tweedside Htg (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/163/))
 
 ## Thread count
 DB/72 G8 K8 G20 W8 G8 W8 G8 K/8

@@ -1,13 +1,20 @@
 ---
-title: "Ford & Etal (Corporate)"
+title: "Ford & Etal"
 date: 2023-03-18
 ---
 In pattern [KWRKGBKW](/patterns/kwrkgbkw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6193/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1227
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Ford & Etal (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1227))
+- pre 2004 — Ford & Etal (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6193/))
 
 ## Thread count
 K/12 W4 R64 K4 G84 B36 K24 W/4

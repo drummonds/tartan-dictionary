@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2103
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1810 — Leslie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2103))
+- 1850 — Leslie Htg - 1850 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1113/))
+
 ## Thread count
 K/4 G32 LN4 K32 DB32 R/4
 ![Sett](sett.png)

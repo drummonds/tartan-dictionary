@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=36
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Alasdair Dhana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=36))
+- 2006 January — Alasdair Dhana (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6828/))
+
 ## Thread count
 DG/6 DN40 DG32 DR4 DG4 DR6 DG6 DR10 DG32 DN40 Y2 K/4
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Williamson/Smart Name Tartan Tartan Number: 10696. Earliest known date: 12 September 2012 Inspired by time spent in Lochaber and his Scottish heritage, Mr Smart designed this tartan for his wedding using the Scotweb Tartan Designer. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Williamson/Smart"
 date: 2023-03-18
 ---
 In pattern [BGBRKGKR](/patterns/bgbrkgkr/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10696
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10696
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 28/05/2012 — Williamson/Smart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10696))
+- undated — Williamson/Smart Name Tartan Tartan Number: 10696. Earliest known date: 12 September 2012 Inspired by time spent in Lochaber and his Scottish heritage, Mr Smart designed this tartan for his wedding using the Scotweb Tartan Designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10696))
 
 ## Thread count
 DN/20 N6 DN20 DR6 K42 DG40 K30 DR/6

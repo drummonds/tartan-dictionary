@@ -1,13 +1,20 @@
 ---
-title: "Crossnor (Corporate)"
+title: "Crossnor School"
 date: 2023-03-18
 ---
 In pattern [GRGWRGR](/patterns/grgwrgr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6282/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=815
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Crossnor School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=815))
+- 2001 — Crossnor (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6282/))
 
 ## Thread count
 G/8 R4 G26 LR4 R26 G4 R/8

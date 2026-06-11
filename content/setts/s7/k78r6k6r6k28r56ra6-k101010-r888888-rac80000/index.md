@@ -1,13 +1,21 @@
 ---
-title: "Moffat Family Tartan Tartan Number: 1129. Earliest known date: 1983 When Major Francis Moffat of that Ilk M.C. was recognised as Chief of the Name and House of Moffat, by Lord Lyon in 1983, after the family had been without a chief for 420 years, a family tartan based on the Douglas was introduced to commemorate early family connections. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Moffat (1984)"
 date: 2023-03-18
 ---
 In pattern [KRKRKRR](/patterns/krkrkrr/).
 
 
-This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1129
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2975
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1984 — Moffat (1984) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2975))
+- 1984 — Moffat (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1129/))
+- undated — Moffat Family Tartan Tartan Number: 1129. Earliest known date: 1983 When Major Francis Moffat of that Ilk M.C. was recognised as Chief of the Name and House of Moffat, by Lord Lyon in 1983, after the family had been without a chief for 420 years, a family tartan based on the Douglas was introduced to commemorate early family connections. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1129))
 
 ## Thread count
 K/78 N6 K6 N6 K28 N56 R/6

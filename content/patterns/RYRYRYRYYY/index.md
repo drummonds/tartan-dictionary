@@ -18,5 +18,3 @@ RYRYRYRYYY
 |---------------|
 | [Golden Heather, The](/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/)|
 |![Golden Heather, The example sett](/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/sett.png)|
-| [Golden Heather, The (Fashion)](/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/)|
-|![Golden Heather, The (Fashion) example sett](/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/sett.png)|

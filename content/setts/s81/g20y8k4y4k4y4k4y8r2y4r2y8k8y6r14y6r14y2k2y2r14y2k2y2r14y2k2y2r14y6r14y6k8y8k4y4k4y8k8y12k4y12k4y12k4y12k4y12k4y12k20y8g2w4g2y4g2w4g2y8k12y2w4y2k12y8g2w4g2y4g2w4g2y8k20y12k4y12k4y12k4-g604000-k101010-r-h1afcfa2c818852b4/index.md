@@ -10,6 +10,13 @@ This was sourced from register-of-tartans.  It is a [81 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3078
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1670 — Murray, Mungo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3078))
+- circa 1670 — Murray, Mungo (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2173/))
+
 ## Thread count
 K/4 Y12 K4 Y12 K4 Y12 K20 Y8 T2 LN4 T2 Y4 T2 LN4 T2 Y8 K12 Y2 LN4 Y2 K12 Y8 T2 LN4 T2 Y4 T2 LN4 T2 Y8 K20 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K4 Y12 K8 Y8 K4 Y4 K4 Y8 K8 Y6 R14 Y6 R14 Y2 K2 Y2 R14 Y2 K2 Y2 R14 Y2 K2 Y2 R14 Y6 R14 Y6 K8 Y8 R2 Y4 R2 Y8 K4 Y4 K4 Y4 K4 Y8 T/20
 ![Sett](sett.png)

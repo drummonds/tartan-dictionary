@@ -1,13 +1,21 @@
 ---
-title: "Lewis Red Fashion Tartan Tartan Number: 7570. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Lewis, Red (Dance)"
 date: 2023-03-18
 ---
 In pattern [RWRW](/patterns/rwrw/).
 
 
-This was sourced from house-of-tartan.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7570
+Original link http://www.tartansauthority.com/tartan-ferret/display/7570/
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- March 2008 — Lewis, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7570/))
+- undated — Lewis Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5594))
+- undated — Lewis Red Fashion Tartan Tartan Number: 7570. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7570))
 
 ## Thread count
 R/8 W70 R62 W/8

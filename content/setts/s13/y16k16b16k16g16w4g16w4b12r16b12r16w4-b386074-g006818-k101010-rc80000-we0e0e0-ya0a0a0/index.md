@@ -1,13 +1,20 @@
 ---
-title: "Stanners Personal Tartan Tartan Number: 10096. Earliest known date: 2nd Nov. 2009 This tartan is for the use of the Stanners family who lived in Grangepans, Bo'ness, West Lothian, for 200 years. It is for family members, relatives and anyone linked to the family by marriage. Developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Stanners (Personal)"
 date: 2023-03-18
 ---
 In pattern [WRBRBWGWGKBKY](/patterns/wrbrbwgwgkbky/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10096
+Original link http://www.tartansauthority.com/tartan-ferret/display/10096/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2nd Nov. 2009 — Stanners (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10096/))
+- undated — Stanners Personal Tartan Tartan Number: 10096. Earliest known date: 2nd Nov. 2009 This tartan is for the use of the Stanners family who lived in Grangepans, Bo'ness, West Lothian, for 200 years. It is for family members, relatives and anyone linked to the family by marriage. Developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10096))
 
 ## Thread count
 LN/4 R16 B12 R16 B12 LN4 G16 LN4 G16 K16 B16 K16 N/16

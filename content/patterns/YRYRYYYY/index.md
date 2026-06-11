@@ -20,5 +20,3 @@ YRYRYYYY
 |---------------|
 | [PeachyKeen](/setts/s8/y5ya2y2ya35r20y2r20y2-rfc3c00-yfce800-ya3cd454/)|
 |![PeachyKeen example sett](/setts/s8/y5ya2y2ya35r20y2r20y2-rfc3c00-yfce800-ya3cd454/sett.png)|
-| [Peachy Keen (Corporate)](/setts/s8/y5ya2y2ya35r20y2r20y2-rfc3c00-yfce800-ya3cd454/)|
-|![Peachy Keen (Corporate) example sett](/setts/s8/y5ya2y2ya35r20y2r20y2-rfc3c00-yfce800-ya3cd454/sett.png)|

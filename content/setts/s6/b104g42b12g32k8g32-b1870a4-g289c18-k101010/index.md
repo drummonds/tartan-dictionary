@@ -1,13 +1,20 @@
 ---
-title: "Milligan (Fashion)"
+title: "Milligan"
 date: 2023-03-18
 ---
 In pattern [BGBGKG](/patterns/bgbgkg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6035/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Milligan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2952))
+- pre 2003 — Milligan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6035/))
 
 ## Thread count
 B/104 G42 B12 G32 K8 G/32

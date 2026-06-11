@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1863
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Island of Innis, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1863))
+- pre 1972 — Island of Innis, The (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5279/))
+
 ## Thread count
 K/4 DY44 DR12 G4 DR36 K12 G4 K/60
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/4 DY44 DR12 G4 DR36 K12 G4 K/60 tartan")
 
 ID: /setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/
-9800/

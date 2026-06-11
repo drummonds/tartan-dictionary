@@ -1,13 +1,20 @@
 ---
-title: "Mull or Glenlyon District Tartan Tartan Number: 162. Earliest known date: 1819 This sett appears in the pattern books of the 18th century weaving firm, William Wilson and Sons, where it is recorded as pattern No. 53 or Glen Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Mull"
 date: 2023-03-18
 ---
 In pattern [BGK](/patterns/bgk/).
 
 
-This was sourced from house-of-tartan.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=162
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3043
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Mull (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3043))
+- undated — Mull or Glenlyon District Tartan Tartan Number: 162. Earliest known date: 1819 This sett appears in the pattern books of the 18th century weaving firm, William Wilson and Sons, where it is recorded as pattern No. 53 or Glen Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=162))
 
 ## Thread count
 B/4 G8 K/10

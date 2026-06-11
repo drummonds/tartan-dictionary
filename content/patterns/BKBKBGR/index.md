@@ -20,5 +20,3 @@ BKBKBGR
 |---------------|
 | [Bennachie (Whisky)](/setts/s7/b28k10ba10k10b28g64r8-b003c64-ba6c0070-g285800-k101010-r880000/)|
 |![Bennachie (Whisky) example sett](/setts/s7/b28k10ba10k10b28g64r8-b003c64-ba6c0070-g285800-k101010-r880000/sett.png)|
-| [Bennachie Whisky (Corporate)](/setts/s7/b28k10ba10k10b28g64r8-b003c64-ba6c0070-g285800-k101010-r880000/)|
-|![Bennachie Whisky (Corporate) example sett](/setts/s7/b28k10ba10k10b28g64r8-b003c64-ba6c0070-g285800-k101010-r880000/sett.png)|

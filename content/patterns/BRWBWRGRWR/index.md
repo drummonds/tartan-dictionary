@@ -22,9 +22,5 @@ BRWBWRGRWR
 |![Glenfinnan example sett](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b780078-g289c18-rc80000-wfcfcfc/sett.png)|
 | [Glenaladale](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/)|
 |![Glenaladale example sett](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|
-| [Glenaladale (Artefact)](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/)|
-|![Glenaladale (Artefact) example sett](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|
 | [Glenaladale, Plaid](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b304080-g008000-rc00000-we0e0e0/)|
 |![Glenaladale, Plaid example sett](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b304080-g008000-rc00000-we0e0e0/sett.png)|
-| [Glenaladale Plaid District Tartan Tartan Number: 2015. Earliest known date: 1772 Found in Prince Edward Island and said to have been brought from Glenaladale in 1772. (MacDonald of Glenaladale - Clan) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/)|
-|![Glenaladale Plaid District Tartan Tartan Number: 2015. Earliest known date: 1772 Found in Prince Edward Island and said to have been brought from Glenaladale in 1772. (MacDonald of Glenaladale - Clan) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|

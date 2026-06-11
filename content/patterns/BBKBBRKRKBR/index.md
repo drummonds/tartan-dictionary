@@ -18,5 +18,3 @@ BBKBBRKRKBR
 |---------------|
 | [Hudson (Personal)](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/)|
 |![Hudson (Personal) example sett](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/sett.png)|
-| [Hudson (Personal)](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/)|
-|![Hudson (Personal) example sett](/setts/s11/b8ba4k4b24ba8r12k12r56k4ba4r6-b00008c-ba788cb4-k000000-r8c0000/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7614/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2008 — Tarassow Russian Scout (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7614/))
+- undated — Tarassow Russian Scout (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5636))
+
 ## Thread count
 K/8 Y8 K8 Y2 G100 K42 R8 B8 LN8 K21 Y2 K8 Y8 K/8
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Chattan (Chief)"
+title: "Chattan, Chief of Clan"
 date: 2023-03-18
 ---
 In pattern [WRKWGWYRKRYWBKRYW](/patterns/wrkwgwyrkrywbkryw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1852/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=624
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Chattan, Chief of Clan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=624))
+- 1819 — Chattan (Chief) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1852/))
 
 ## Thread count
 W/4 R120 K8 W4 G64 W8 Y14 R14 K4 R14 Y14 W8 B64 K16 R16 Y24 W/8

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7855/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2008 — Hampson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7855/))
+- undated — Hampson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5806))
+
 ## Thread count
 G/4 R10 K4 R34 K4 R4 K4 G34 K4 G4 Y4 K/4
 ![Sett](sett.png)

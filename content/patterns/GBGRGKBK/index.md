@@ -20,5 +20,3 @@ GBGRGKBK
 |---------------|
 | [Wood (Personal)](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/)|
 |![Wood (Personal) example sett](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Wood (Personal)](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/)|
-|![Wood (Personal) example sett](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/sett.png)|

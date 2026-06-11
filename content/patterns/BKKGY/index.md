@@ -20,5 +20,3 @@ BKKGY
 |---------------|
 | [Martin Hunting](/setts/s5/b40k10ka38g38y4-b780078-g006818-k000030-ka101010-ye8c000/)|
 |![Martin Hunting example sett](/setts/s5/b40k10ka38g38y4-b780078-g006818-k000030-ka101010-ye8c000/sett.png)|
-| [Martin Htg (Name)](/setts/s5/b40k10ka38g38y4-b780078-g006818-k000030-ka101010-ye8c000/)|
-|![Martin Htg (Name) example sett](/setts/s5/b40k10ka38g38y4-b780078-g006818-k000030-ka101010-ye8c000/sett.png)|

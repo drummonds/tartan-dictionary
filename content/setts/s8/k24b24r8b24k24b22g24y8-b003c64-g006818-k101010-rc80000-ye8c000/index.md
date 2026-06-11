@@ -1,13 +1,20 @@
 ---
-title: "Montrose of Alabama (District)"
+title: "Montrose of Alabama"
 date: 2023-03-18
 ---
 In pattern [KBRBKBGY](/patterns/kbrbkbgy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2288/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/1996 — Montrose of Alabama (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000))
+- 1996 — Montrose of Alabama (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2288/))
 
 ## Thread count
 K/24 DB24 R8 DB24 K24 DB22 G24 Y/8

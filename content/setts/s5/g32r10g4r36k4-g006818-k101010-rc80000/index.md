@@ -1,13 +1,22 @@
 ---
-title: "MacDonald of the Isles (Red) Portrait Tartan Tartan Number: 873. Earliest known date: 1750 This is MacDonald of Sleat with an extra black overcheck. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacDonald, Lord of The Isles (Artef)"
 date: 2023-03-18
 ---
 In pattern [GRGRK](/patterns/grgrk/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=873
+Original link http://www.tartansauthority.com/tartan-ferret/display/873/
+
+## Attestations
+
+This cloth appears in 4 source records; the oldest owns this page.
+
+- 1750 — MacDonald, Lord of The Isles (Artef) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/873/))
+- 01/01/1845 — MacCullough (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5199))
+- 1845 — MacCullough (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3339/))
+- undated — MacDonald of the Isles (Red) Portrait Tartan Tartan Number: 873. Earliest known date: 1750 This is MacDonald of Sleat with an extra black overcheck. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=873))
 
 ## Thread count
 G/32 R10 G4 R36 K/4

@@ -20,5 +20,3 @@ GRG
 |---------------|
 | [Castle Fraser Check](/setts/s3/g60r3g12-g004c00-rc02000/)|
 |![Castle Fraser Check example sett](/setts/s3/g60r3g12-g004c00-rc02000/sett.png)|
-| [Castle Fraser (Estate Check)](/setts/s3/g60r3g12-g004c00-rc02000/)|
-|![Castle Fraser (Estate Check) example sett](/setts/s3/g60r3g12-g004c00-rc02000/sett.png)|

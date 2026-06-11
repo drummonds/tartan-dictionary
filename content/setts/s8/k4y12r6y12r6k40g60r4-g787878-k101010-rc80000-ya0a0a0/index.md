@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7671/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- June 2008 — Hermitage Academy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7671/))
+- undated — Hermitage Academy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5674))
+
 ## Thread count
 K/4 N12 R6 N12 R6 K40 Na60 R/4
 ![Sett](sett.png)

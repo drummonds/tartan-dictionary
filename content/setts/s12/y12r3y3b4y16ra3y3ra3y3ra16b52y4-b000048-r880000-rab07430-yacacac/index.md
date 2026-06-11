@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=579
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Carsaig (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=579))
+- 1984 — Carsaig (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4472/))
+
 ## Thread count
 N/4 DB52 LT16 N3 LT3 N3 LT3 N16 DB4 N3 DR3 N/12
 ![Sett](sett.png)

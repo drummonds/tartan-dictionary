@@ -1,13 +1,20 @@
 ---
-title: "Glasgow Cathedral 2000 (Corporate)"
+title: "Glasgow Cathedral 2000"
 date: 2023-03-18
 ---
 In pattern [BYRGRBBBRG](/patterns/byrgrbbbrg/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4082/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1354
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — Glasgow Cathedral 2000 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1354))
+- 1995 — Glasgow Cathedral 2000 (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4082/))
 
 ## Thread count
 DB/4 DY4 DR6 G44 DR42 DB20 B4 DB20 DR6 G/44

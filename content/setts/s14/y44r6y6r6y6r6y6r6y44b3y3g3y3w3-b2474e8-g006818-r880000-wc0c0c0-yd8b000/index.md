@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=593
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1992 — Catalan (92 Olympics) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=593))
+- 1992 — Catalan (92 Olympics) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2071/))
+
 ## Thread count
 N/3 Y3 G3 Y3 B3 Y44 DR6 Y6 DR6 Y6 DR6 Y6 DR6 Y/44
 ![Sett](sett.png)

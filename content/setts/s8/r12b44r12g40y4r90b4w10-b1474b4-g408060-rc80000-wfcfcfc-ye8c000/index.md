@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [RBRGYRBW](/patterns/rbrgyrbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6190/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1095
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2001 — Elbrick Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1095))
+- pre 2004 — Elbrick Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6190/))
 
 ## Thread count
 R/12 B44 R12 G40 Y4 R90 B4 W/10
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/12 B44 R12 G40 Y4 R90 B4 W/10 tartan")
 
 ID: /setts/s8/r12b44r12g40y4r90b4w10-b1474b4-g408060-rc80000-wfcfcfc-ye8c000/
-00/

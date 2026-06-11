@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KRGRBR](/patterns/krgrbr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6605/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1963 — Eyre (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143))
+- 1963 — Eyre (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6605/))
 
 ## Thread count
 K/4 R12 G36 R8 DB24 R/6

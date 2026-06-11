@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3234
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1983 — Ogilvie of Inverquharity or Ohio (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3234))
+- 1983 — Ohio (US State?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/651/))
+
 ## Thread count
 DB/64 LN24 R32 DB12 DY4 G4 B12 DB4 G/40
 ![Sett](sett.png)

@@ -18,5 +18,3 @@ BBBBBBYBYBBBB
 |---------------|
 | [Hebron](/setts/s13/b32ba4b4ba4b4ba28y24ba12y24ba28b24ba4b4-b2c2c80-ba14283c-yb8b8b8/)|
 |![Hebron example sett](/setts/s13/b32ba4b4ba4b4ba28y24ba12y24ba28b24ba4b4-b2c2c80-ba14283c-yb8b8b8/sett.png)|
-| [Hebron (Fashion)](/setts/s13/b32ba4b4ba4b4ba28y24ba12y24ba28b24ba4b4-b2c2c80-ba14283c-yb8b8b8/)|
-|![Hebron (Fashion) example sett](/setts/s13/b32ba4b4ba4b4ba28y24ba12y24ba28b24ba4b4-b2c2c80-ba14283c-yb8b8b8/sett.png)|

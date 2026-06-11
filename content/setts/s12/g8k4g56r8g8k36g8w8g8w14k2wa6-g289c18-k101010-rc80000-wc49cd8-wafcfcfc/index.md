@@ -1,13 +1,20 @@
 ---
-title: "Moss (Name)"
+title: "Moss"
 date: 2023-03-18
 ---
 In pattern [GKGRGKGWGWKW](/patterns/gkgrgkgwgwkw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6063/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3023
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Moss (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3023))
+- 2001 — Moss (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6063/))
 
 ## Thread count
 G/8 K4 G56 R8 G8 K36 G8 LP8 G8 LP14 K2 W/6

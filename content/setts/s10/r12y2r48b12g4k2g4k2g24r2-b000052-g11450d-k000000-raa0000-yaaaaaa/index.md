@@ -7,7 +7,14 @@ In pattern [RGKGKGBRYR](/patterns/rgkgkgbryr/).
 
 This was sourced from weddslist.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Chisholm VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Chisholm VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/2 DG24 K2 DG4 K2 DG4 DB12 DR48 N2 DR/12
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#AAAAAA;"><span style="color:#AAAAAA;filter:grayscale(1) invert(1) contrast(100);">#AAAAAA</span></code> `#AAAAAA` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
 
 ID: /setts/s10/r12y2r48b12g4k2g4k2g24r2-b000052-g11450d-k000000-raa0000-yaaaaaa/
-aaa/

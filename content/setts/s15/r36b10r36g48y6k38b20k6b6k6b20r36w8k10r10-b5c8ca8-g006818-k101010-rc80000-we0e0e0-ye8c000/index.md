@@ -1,13 +1,22 @@
 ---
-title: "MacPherson (Caledonia) Clan Tartan Tartan Number: 1410. Earliest known date: 1819 Also known as 'Caledonia' See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "MacPherson #5"
 date: 2023-03-18
 ---
 In pattern [RBRGYKBKBKBRWKR](/patterns/rbrgykbkbkbrwkr/).
 
 
-This was sourced from house-of-tartan.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1410
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2706
+
+## Attestations
+
+This cloth appears in 4 source records; the oldest owns this page.
+
+- 01/01/1819 — MacPherson #5 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2706))
+- 1819 — MacPherson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1410/))
+- undated — Kidd Wilson's No 43 or.. Tartan Tartan Number: 1409. Earliest known date: 1819 This eventually became known as 'Clan MacPherson' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1409))
+- undated — MacPherson (Caledonia) Clan Tartan Tartan Number: 1410. Earliest known date: 1819 Also known as 'Caledonia' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1410))
 
 ## Thread count
 R/36 B10 R36 G48 Y6 K38 B20 K6 B6 K6 B20 R36 LN8 K10 R/10
@@ -26,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s15/r36b10r36g48y6k38b20k6b6k6b20r36w8k10r10-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/
-000-we0e0e0-ye8c000/

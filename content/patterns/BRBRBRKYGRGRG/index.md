@@ -24,7 +24,5 @@ BRBRBRKYGRGRG
 |![MacDonald of Clanranald example sett](/setts/s13/b16r2b4r6b24r2k24y2g24r6g4r2g16-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
 | [MacDonald of Clanranald D](/setts/s13/b12r4b4r6b24r4k22y4g22r6g4r4g12-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
 |![MacDonald of Clanranald D example sett](/setts/s13/b12r4b4r6b24r4k22y4g22r6g4r4g12-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [MacDonald of Clanranald](/setts/s13/b16r2b4r6b24r2k24y2g24r6g4r2g16-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacDonald of Clanranald example sett](/setts/s13/b16r2b4r6b24r2k24y2g24r6g4r2g16-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
 | [MacDonald of Clanranald D](/setts/s13/b6r2b2r3b12r2k11y2g11r3g2r2g6-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
 |![MacDonald of Clanranald D example sett](/setts/s13/b6r2b2r3b12r2k11y2g11r3g2r2g6-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

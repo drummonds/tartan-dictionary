@@ -20,5 +20,3 @@ BKBYWYK
 |---------------|
 | [St. Francis Xavier University](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/)|
 |![St. Francis Xavier University example sett](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/sett.png)|
-| [St. Francis Xavier University (Corp)](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/)|
-|![St. Francis Xavier University (Corp) example sett](/setts/s7/k12y4w36y4b36k12ba4-b00008c-ba788cb4-k000000-wc8c8c8-yc88c00/sett.png)|

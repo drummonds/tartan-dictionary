@@ -20,5 +20,3 @@ BGYGKBK
 |---------------|
 | [MacNiel of Colonsay](/setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/)|
 |![MacNiel of Colonsay example sett](/setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/sett.png)|
-| [MacNiel of Colonsay](/setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/)|
-|![MacNiel of Colonsay example sett](/setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/sett.png)|

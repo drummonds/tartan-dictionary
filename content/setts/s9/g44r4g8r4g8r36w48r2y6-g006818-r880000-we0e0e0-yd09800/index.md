@@ -1,13 +1,20 @@
 ---
-title: "Prince Edward Island, Dress (Distric"
+title: "Prince Edward Island, Dress"
 date: 2023-03-18
 ---
 In pattern [GRGRGRWRY](/patterns/grgrgrwry/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5475/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3390
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1994 — Prince Edward Island, Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3390))
+- pre 1994 — Prince Edward Island, Dress (Distric (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5475/))
 
 ## Thread count
 DY/6 DR2 LN48 DR36 G8 DR4 G8 DR4 G/44

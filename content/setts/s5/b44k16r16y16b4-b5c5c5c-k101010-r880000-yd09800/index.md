@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1812
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1993 — Ikelman #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1812))
+- 1993 January — Ikelman #2 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2211/))
+
 ## Thread count
 N/4 DY16 DR16 K16 N/44
 ![Sett](sett.png)

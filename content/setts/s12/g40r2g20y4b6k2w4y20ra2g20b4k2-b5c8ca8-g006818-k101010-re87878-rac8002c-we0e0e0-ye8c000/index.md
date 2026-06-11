@@ -1,13 +1,20 @@
 ---
-title: "City of Lethbridge (District)"
+title: "Lethbridge, City of"
 date: 2023-03-18
 ---
 In pattern [GRGYBKWYRGBK](/patterns/grgybkwyrgbk/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2672/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2107
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Lethbridge, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2107))
+- Jan. 2000 — City of Lethbridge (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2672/))
 
 ## Thread count
 G/40 LR2 G20 Y4 B6 K2 LN4 Y20 R2 G20 B4 K/2

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Tommy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137))
+- pre 2002 — Tommy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3973/))
+
 ## Thread count
 DO/8 K2 DO10 K8 DB22 LN4 DB22 K8 LN4 DO4 LN30 K4 LN/6
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s13/r8k2r10k8b22w4b22k8w4r4w30k4w6-b202060-k101010-rb84c00-we0e0e0/
-e0e0e0/

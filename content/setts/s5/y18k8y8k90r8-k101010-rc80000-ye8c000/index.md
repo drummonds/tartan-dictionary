@@ -1,13 +1,20 @@
 ---
-title: "Gwynn Name Tartan Tartan Number: 5745. Earliest known date: 2001, June Designed in 2003 by Paul Gwynn of Texas. A Gwynn family tartan based on the Welsh national and incorporating Gwynn family colours. Can be worn by all of the name Gwynn. See also Gwyn (Welsh). See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Gwynn (Name)"
 date: 2023-03-18
 ---
 In pattern [RKYKY](/patterns/rkyky/).
 
 
-This was sourced from house-of-tartan.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5745
+Original link http://www.tartansauthority.com/tartan-ferret/display/5745/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2001, June — Gwynn (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5745/))
+- undated — Gwynn Name Tartan Tartan Number: 5745. Earliest known date: 2001, June Designed in 2003 by Paul Gwynn of Texas. A Gwynn family tartan based on the Welsh national and incorporating Gwynn family colours. Can be worn by all of the name Gwynn. See also Gwyn (Welsh). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5745))
 
 ## Thread count
 R/8 K90 Y8 K8 Y/18

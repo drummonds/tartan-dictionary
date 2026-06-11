@@ -1,13 +1,20 @@
 ---
-title: "Porcupine City of (District)"
+title: "Porcupine City of"
 date: 2023-03-18
 ---
 In pattern [GYBWBBR](/patterns/gybwbbr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5493/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3356
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Porcupine City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3356))
+- 1980 — Porcupine City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5493/))
 
 ## Thread count
 G/20 DY8 DB4 Na32 DB4 N12 R/40

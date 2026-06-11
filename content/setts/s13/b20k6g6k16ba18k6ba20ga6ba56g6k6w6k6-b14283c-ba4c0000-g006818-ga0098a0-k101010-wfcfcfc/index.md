@@ -1,13 +1,20 @@
 ---
-title: "Clifford (Name)"
+title: "Clifford"
 date: 2023-03-18
 ---
 In pattern [BKGKBKBGBGKWK](/patterns/bkgkbkbgbgkwk/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2662/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=687
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Clifford (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=687))
+- 1999 — Clifford (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2662/))
 
 ## Thread count
 DN/20 K6 G6 K16 DR18 K6 DR20 B6 DR56 G6 K6 W6 K/6

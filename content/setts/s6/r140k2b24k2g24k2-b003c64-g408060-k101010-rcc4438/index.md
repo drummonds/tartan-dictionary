@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5398/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1992 — Lawers Estate (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5398/))
+- undated — Lawers Estate Corporate Tartan Tartan Number: 5398. Earliest known date: 1992 From a kilt worn by Mr Gibbons, owner of Lawers Estate near Comrie. Mr Gibbons said that the tartan had been specially woven by the London Kiltmakers based on a historic pattern associated with the estate. Details from Peter E MacDonald. The pattern is asymmetric and uses two thread black stripes to delineate the colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5398))
+
 ## Thread count
 K/2 G24 K2 DB24 K2 R/140
 ![Sett](sett.png)

@@ -18,7 +18,5 @@ RGYGGGY
 
 | Tartans |
 |---------------|
-| [Devon](/setts/s7/r20g16y4g16ga16gb16ya4-g5c6428-ga64340c-gb004c00-r8c8c8c-yb0b0b0-yae8c000/)|
-|![Devon example sett](/setts/s7/r20g16y4g16ga16gb16ya4-g5c6428-ga64340c-gb004c00-r8c8c8c-yb0b0b0-yae8c000/sett.png)|
 | [Devon, Green (District)](/setts/s7/r20g16y4g16ga16gb16ya4-g5c6428-ga64340c-gb004c00-r8c8c8c-yb0b0b0-yae8c000/)|
 |![Devon, Green (District) example sett](/setts/s7/r20g16y4g16ga16gb16ya4-g5c6428-ga64340c-gb004c00-r8c8c8c-yb0b0b0-yae8c000/sett.png)|

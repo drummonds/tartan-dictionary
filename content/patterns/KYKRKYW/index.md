@@ -20,5 +20,3 @@ KYKRKYW
 |---------------|
 | [Richmond de Ellel (Personal)](/setts/s7/k10y50k20r6k20y50w10-k101010-rc80000-wfcfcfc-ya08858/)|
 |![Richmond de Ellel (Personal) example sett](/setts/s7/k10y50k20r6k20y50w10-k101010-rc80000-wfcfcfc-ya08858/sett.png)|
-| [Richmond de Ellel (Personal)](/setts/s7/k10y50k20r6k20y50w10-k101010-rc80000-wfcfcfc-ya08858/)|
-|![Richmond de Ellel (Personal) example sett](/setts/s7/k10y50k20r6k20y50w10-k101010-rc80000-wfcfcfc-ya08858/sett.png)|

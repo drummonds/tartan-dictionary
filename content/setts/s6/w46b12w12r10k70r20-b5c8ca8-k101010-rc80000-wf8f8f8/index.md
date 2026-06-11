@@ -1,13 +1,20 @@
 ---
-title: "Meg Merrilees, Old (1828)"
+title: "Merrilees"
 date: 2023-03-18
 ---
 In pattern [RKRWBW](/patterns/rkrwbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1602/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2938
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1829 — Merrilees (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2938))
+- 1829 — Meg Merrilees, Old (1828) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1602/))
 
 ## Thread count
 R/20 K70 R10 W12 B12 W/46

@@ -16,7 +16,5 @@ WKWKWKWKY
 
 | Tartans |
 |---------------|
-| [MacFie of Colonsay Dress](/setts/s9/w8k44w8k8w64k8w8k44y8-k101010-wfcfcfc-yd09800/)|
-|![MacFie of Colonsay Dress example sett](/setts/s9/w8k44w8k8w64k8w8k44y8-k101010-wfcfcfc-yd09800/sett.png)|
 | [MacFie of Colonsay Dress (Fashion?)](/setts/s9/w8k44w8k8w64k8w8k44y8-k101010-wfcfcfc-yd09800/)|
 |![MacFie of Colonsay Dress (Fashion?) example sett](/setts/s9/w8k44w8k8w64k8w8k44y8-k101010-wfcfcfc-yd09800/sett.png)|

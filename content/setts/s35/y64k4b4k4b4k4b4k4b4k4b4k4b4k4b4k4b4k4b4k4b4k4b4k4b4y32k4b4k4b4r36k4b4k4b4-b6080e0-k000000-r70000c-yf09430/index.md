@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [35 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Coulin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775))
+- pre 2002 — Coulin (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4593/))
+
 ## Thread count
 B/4 K4 B4 K4 DR36 B4 K4 B4 K4 Y32 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 B4 K4 Y/64
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#F09430;"><span style="color:#F09430;filter:grayscale(1) invert(1) contrast(100);">#F09430</span></code> `#F09430` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 
 ID: /setts/s35/y64k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4k4b4y32k4b4k4b4r36k4b4k4b4-b6080e0-k000000-r70000c-yf09430/
-09430/

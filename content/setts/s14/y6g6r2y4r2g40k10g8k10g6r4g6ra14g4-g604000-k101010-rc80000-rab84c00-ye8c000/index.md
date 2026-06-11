@@ -1,13 +1,20 @@
 ---
-title: "Balnagown (Corporate)"
+title: "Balnagowan (Harrods)"
 date: 2023-03-18
 ---
 In pattern [GRGRGKGKGRYRGY](/patterns/grgrgkgkgryrgy/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5824/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=187
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2002 — Balnagowan (Harrods) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=187))
+- May 2003 — Balnagown (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5824/))
 
 ## Thread count
 T/4 DO14 T6 R4 T6 K10 T8 K10 T40 R2 Y4 R2 T6 Y/6

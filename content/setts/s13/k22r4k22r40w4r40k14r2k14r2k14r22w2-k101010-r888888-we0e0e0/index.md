@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7487/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Nov. 1996 — Westwood MacRock (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7487/))
+- undated — Westwood MacRock (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5528))
+
 ## Thread count
 K/22 N4 K22 N40 LN4 N40 K14 N2 K14 N2 K14 N22 LN/2
 ![Sett](sett.png)

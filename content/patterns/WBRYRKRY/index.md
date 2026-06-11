@@ -18,7 +18,5 @@ WBRYRKRY
 
 | Tartans |
 |---------------|
-| [Dalmagarry (Personal)](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/)|
-|![Dalmagarry (Personal) example sett](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/sett.png)|
 | [Dalmagarry (Corporate)](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/)|
 |![Dalmagarry (Corporate) example sett](/setts/s8/y6r8k2r54ya28r8b30w4-b1c1c50-k101010-rf82808-we0e0e0-ye8c000-ya949c40/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Pendleton Htg (Corporate)"
+title: "Pendleton Hunting"
 date: 2023-03-18
 ---
 In pattern [BBGRGKGYGBB](/patterns/bbgrgkgygbb/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2467/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3315
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1998 — Pendleton Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3315))
+- 1998 — Pendleton Htg (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2467/))
 
 ## Thread count
 DB/4 DBa32 DG28 LT6 DG28 K6 DG28 R6 DG28 DBa32 DB/4

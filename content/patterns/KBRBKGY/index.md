@@ -20,5 +20,3 @@ KBRBKGY
 |---------------|
 | [Melrose of Alabama](/setts/s7/k24b24r8b24k24g24y8-b00008c-g007800-k000000-r8c0000-yc88c00/)|
 |![Melrose of Alabama example sett](/setts/s7/k24b24r8b24k24g24y8-b00008c-g007800-k000000-r8c0000-yc88c00/sett.png)|
-| [Melrose of Alabama (Corporate)](/setts/s7/k24b24r8b24k24g24y8-b00008c-g007800-k000000-r8c0000-yc88c00/)|
-|![Melrose of Alabama (Corporate) example sett](/setts/s7/k24b24r8b24k24g24y8-b00008c-g007800-k000000-r8c0000-yc88c00/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Gates, Htg (Name)"
+title: "Gates, Hunting"
 date: 2023-03-18
 ---
 In pattern [BGGGGGGGG](/patterns/bgggggggg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6263/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Gates, Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317))
+- 2002 — Gates, Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6263/))
 
 ## Thread count
 B/6 G60 Ga16 G6 Ga16 G24 Ga8 G6 Ga/48

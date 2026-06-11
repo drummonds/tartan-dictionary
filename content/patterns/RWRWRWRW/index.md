@@ -20,8 +20,6 @@ RWRWRWRW
 |---------------|
 | [Menzies (1815)](/setts/s8/r144w16r12w16r24w8r4w48-rc80000-wfcfcfc/)|
 |![Menzies (1815) example sett](/setts/s8/r144w16r12w16r24w8r4w48-rc80000-wfcfcfc/sett.png)|
-| [Menzies 1815 - Cockburn](/setts/s8/r144w16r12w16r24w8r4w48-rc80000-wfcfcfc/)|
-|![Menzies 1815 - Cockburn example sett](/setts/s8/r144w16r12w16r24w8r4w48-rc80000-wfcfcfc/sett.png)|
 | [Masai Shuka 08 (Artefact)](/setts/s8/r110w40r16w4r16w4r16w4-rc80000-we0e0e0/)|
 |![Masai Shuka 08 (Artefact) example sett](/setts/s8/r110w40r16w4r16w4r16w4-rc80000-we0e0e0/sett.png)|
 | [Menzies Dress](/setts/s8/r72w8r6w8r12w4r2w24-rc80000-wd0d0d0/)|

@@ -1,13 +1,20 @@
 ---
-title: "Lantern, The (Fashion)"
+title: "Lantern, The"
 date: 2023-03-18
 ---
 In pattern [WKRYKYRKW](/patterns/wkrykyrkw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5386/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2048
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1973 — Lantern, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2048))
+- pre 1973 — Lantern, The (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5386/))
 
 ## Thread count
 N/6 K4 R8 DY4 K12 DY4 R64 K4 N/12

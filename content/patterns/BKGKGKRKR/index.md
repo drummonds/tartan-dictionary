@@ -18,5 +18,3 @@ BKGKGKRKR
 |---------------|
 | [Black Thistle](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/)|
 |![Black Thistle example sett](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/sett.png)|
-| [Black Thistle (Artefact)](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/)|
-|![Black Thistle (Artefact) example sett](/setts/s9/b20k12g84k4g2k4r2k48r4-b3850c8-g408060-k101010-rc80000/sett.png)|

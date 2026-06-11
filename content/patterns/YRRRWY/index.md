@@ -18,7 +18,5 @@ YRRRWY
 
 | Tartans |
 |---------------|
-| [Lady Boys of Bangkok](/setts/s6/y23r22ra52r8w6ya18-rc80000-raa45098-we0e0e0-ya08858-yabc8c00/)|
-|![Lady Boys of Bangkok example sett](/setts/s6/y23r22ra52r8w6ya18-rc80000-raa45098-we0e0e0-ya08858-yabc8c00/sett.png)|
 | [Lady Boys of Bangkok (Corporate)](/setts/s6/y23r22ra52r8w6ya18-rc80000-raa45098-we0e0e0-ya08858-yabc8c00/)|
 |![Lady Boys of Bangkok (Corporate) example sett](/setts/s6/y23r22ra52r8w6ya18-rc80000-raa45098-we0e0e0-ya08858-yabc8c00/sett.png)|

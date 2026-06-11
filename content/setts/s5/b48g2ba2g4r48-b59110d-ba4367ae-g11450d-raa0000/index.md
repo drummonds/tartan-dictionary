@@ -1,5 +1,5 @@
 ---
-title: "MacNab WI1"
+title: "MacNab WI 1"
 date: 2023-03-18
 ---
 In pattern [BGBGR](/patterns/bgbgr/).
@@ -7,7 +7,14 @@ In pattern [BGBGR](/patterns/bgbgr/).
 
 This was sourced from weddslist.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacNab WI 1 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacNab WI1 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/48 DG4 B2 DG2 DRa/48

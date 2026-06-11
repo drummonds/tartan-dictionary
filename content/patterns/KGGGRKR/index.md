@@ -20,5 +20,3 @@ KGGGRKR
 |---------------|
 | [PSD: Operation Iraqi Freedom](/setts/s7/k8g4ga48g48r48k4ra8-g8c7038-ga285800-k101010-r880000-rac80000/)|
 |![PSD: Operation Iraqi Freedom example sett](/setts/s7/k8g4ga48g48r48k4ra8-g8c7038-ga285800-k101010-r880000-rac80000/sett.png)|
-| [PSD: Operation Iraqi Freedom (Milita](/setts/s7/k8g4ga48g48r48k4ra8-g8c7038-ga285800-k101010-r880000-rac80000/)|
-|![PSD: Operation Iraqi Freedom (Milita example sett](/setts/s7/k8g4ga48g48r48k4ra8-g8c7038-ga285800-k101010-r880000-rac80000/sett.png)|

@@ -18,7 +18,5 @@ BKBYWYW
 
 | Tartans |
 |---------------|
-| [Tilburg Hunting](/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/)|
-|![Tilburg Hunting example sett](/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/sett.png)|
 | [Tilburg Hunting (District)](/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/)|
 |![Tilburg Hunting (District) example sett](/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/sett.png)|

@@ -24,5 +24,3 @@ BKBKBW
 |![Dollar Academy (1930s) (Corporate) example sett](/setts/s6/b18k18b18k18b84w10-b2c2c80-k101010-we0e0e0/sett.png)|
 | [Dollar, Academy](/setts/s6/b18k18b18k18b84w10-b304080-k000000-we0e0e0/)|
 |![Dollar, Academy example sett](/setts/s6/b18k18b18k18b84w10-b304080-k000000-we0e0e0/sett.png)|
-| [Dollar Academy Corporate Tartan Tartan Number: 290. Earliest known date: pre 2003 No information on the original of this school tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b18k18b18k18b84w10-b2c2c80-k101010-we0e0e0/)|
-|![Dollar Academy Corporate Tartan Tartan Number: 290. Earliest known date: pre 2003 No information on the original of this school tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/b18k18b18k18b84w10-b2c2c80-k101010-we0e0e0/sett.png)|

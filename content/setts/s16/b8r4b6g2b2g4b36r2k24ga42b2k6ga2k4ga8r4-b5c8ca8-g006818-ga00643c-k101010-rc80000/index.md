@@ -1,13 +1,20 @@
 ---
-title: "Munster (District)"
+title: "Munster"
 date: 2023-03-18
 ---
 In pattern [BRBGBGBRKGBKGKGR](/patterns/brbgbgbrkgbkgkgr/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4061/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Munster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052))
+- 1997 — Munster (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4061/))
 
 ## Thread count
 B/8 R4 B6 G2 B2 G4 B36 R2 K24 Ga42 B2 K6 Ga2 K4 Ga8 R/4

@@ -20,11 +20,7 @@ KBKBKBW
 |---------------|
 | [Mountain Rescue Association Honor Guard](/setts/s7/k64b4k12b4k26ba60w4-b0000ff-ba2f4f4f-k101010-wffffff/)|
 |![Mountain Rescue Association Honor Guard example sett](/setts/s7/k64b4k12b4k26ba60w4-b0000ff-ba2f4f4f-k101010-wffffff/sett.png)|
-| [Patriot, The](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/)|
-|![Patriot, The example sett](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/sett.png)|
-| [Mountain Rescue Assoc. (Corporate)](/setts/s7/k64b4k12b4k26ba60w4-b1474b4-ba5c5c5c-k101010-wfcfcfc/)|
-|![Mountain Rescue Assoc. (Corporate) example sett](/setts/s7/k64b4k12b4k26ba60w4-b1474b4-ba5c5c5c-k101010-wfcfcfc/sett.png)|
 | [Patriot, The (Fashion)](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/)|
 |![Patriot, The (Fashion) example sett](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/sett.png)|
-| [Patriot Weavers Tartan Tartan Number: 7343. Earliest known date: pre 2009 The Patriot tartan has been especially designed for those proud of their Scots connections. The colours in the design are navy blue, black, royal blue and white. The influence for the design comes from the Douglas tartan, in homage to one of Scotland's greatest patriots, Sir James (Black) Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/)|
-|![Patriot Weavers Tartan Tartan Number: 7343. Earliest known date: pre 2009 The Patriot tartan has been especially designed for those proud of their Scots connections. The colours in the design are navy blue, black, royal blue and white. The influence for the design comes from the Douglas tartan, in homage to one of Scotland's greatest patriots, Sir James (Black) Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/sett.png)|
+| [Mountain Rescue Assoc. (Corporate)](/setts/s7/k64b4k12b4k26ba60w4-b1474b4-ba5c5c5c-k101010-wfcfcfc/)|
+|![Mountain Rescue Assoc. (Corporate) example sett](/setts/s7/k64b4k12b4k26ba60w4-b1474b4-ba5c5c5c-k101010-wfcfcfc/sett.png)|

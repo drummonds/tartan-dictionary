@@ -1,13 +1,20 @@
 ---
-title: "Pitcairn Heritage"
+title: "Pitcairn Heritage (Name)"
 date: 2023-03-18
 ---
 In pattern [BYRBRBYRGBGBG](/patterns/byrbrbyrgbgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3344
+Original link http://www.tartansauthority.com/tartan-ferret/display/2199/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1994 — Pitcairn Heritage (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2199/))
+- 01/01/1995 — Pitcairn Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3344))
 
 ## Thread count
 B/6 Ba8 B6 Ba8 B6 DR56 DY4 Ba4 R56 Ba12 R18 DY4 Ba/4
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80050;"><span style="color:#C80050;filter:grayscale(1) invert(1) contrast(100);">#C80050</span></code> `#C80050` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.07 |
 
 ID: /setts/s13/g6b8g6b8g6r56y4b4ra56b12ra18y4b4-b1870a4-g009468-ra00000-rac80050-yf09400/
-0/

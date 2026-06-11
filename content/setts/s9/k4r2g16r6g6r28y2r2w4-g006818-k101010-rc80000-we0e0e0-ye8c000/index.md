@@ -5,9 +5,17 @@ date: 2023-03-18
 In pattern [KRGRGRYRW](/patterns/krgrgryrw/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1168/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2912
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1966 — Melieres, Michel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2912))
+- 1966 — Melieres, Michel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1168/))
+- undated — Melieres Michel.. Tartan Tartan Number: 1168. Earliest known date: 1966 tba See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1168))
 
 ## Thread count
 K/4 R2 G16 R6 G6 R28 Y2 R2 LN/4
@@ -25,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/k4r2g16r6g6r28y2r2w4-g006818-k101010-rc80000-we0e0e0-ye8c000/
-00/

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/502/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1964 — Maine, Original State of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/502/))
+- 01/01/1965 — Maine, Original State of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2788))
+
 ## Thread count
 B/4 R4 G66 DB4 B4 DB12 B4 DB4 B46 DB4 G/4
 ![Sett](sett.png)

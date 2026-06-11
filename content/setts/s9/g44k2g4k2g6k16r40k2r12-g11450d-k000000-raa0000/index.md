@@ -7,7 +7,14 @@ In pattern [GKGKGKRKR](/patterns/gkgkgkrkr/).
 
 This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Stewart of Atholl (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Stewart of Atholl (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DG/44 K2 DG4 K2 DG6 K16 DR40 K2 DR/12

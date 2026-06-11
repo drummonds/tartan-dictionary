@@ -7,7 +7,14 @@ In pattern [KRBRKYKR](/patterns/krbrkykr/).
 
 This was sourced from weddslist.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Leslie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Leslie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/8 K12 LG2 K12 DR8 DB32 DR64 K/2

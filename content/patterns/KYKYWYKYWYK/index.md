@@ -18,5 +18,3 @@ KYKYWYKYWYK
 |---------------|
 | [Dundee United Football Club](/setts/s11/k12y4k20y4w20y20k20y4w20y4k4-k000000-wc4c4c4-yd87c00/)|
 |![Dundee United Football Club example sett](/setts/s11/k12y4k20y4w20y20k20y4w20y4k4-k000000-wc4c4c4-yd87c00/sett.png)|
-| [Dundee United Football Club (Corpor)](/setts/s11/k12y4k20y4w20y20k20y4w20y4k4-k000000-wc4c4c4-yd87c00/)|
-|![Dundee United Football Club (Corpor) example sett](/setts/s11/k12y4k20y4w20y20k20y4w20y4k4-k000000-wc4c4c4-yd87c00/sett.png)|

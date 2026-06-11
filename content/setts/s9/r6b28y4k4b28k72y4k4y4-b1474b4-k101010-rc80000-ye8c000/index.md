@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1141
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2002 — Ewbank (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1141))
+- pre 2002 — Ewbank (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5798/))
+
 ## Thread count
 R/6 B28 Y4 K4 B28 K72 Y4 K4 Y/4
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Brown Heather"
+title: "Brown Heather (Fashion)"
 date: 2023-03-18
 ---
 In pattern [BGBGBG](/patterns/bgbgbg/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5332
+Original link http://www.tartansauthority.com/tartan-ferret/display/3737/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1972 — Brown Heather (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3737/))
+- undated — Brown Heather (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5332))
 
 ## Thread count
 K/8 T48 K48 T8 N48 T/8

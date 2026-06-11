@@ -18,8 +18,6 @@ WRKRKRKRY
 |---------------|
 | [MacIver #2](/setts/s9/w6r54k10r10k64r10k10r54y6-k101010-rdc0000-we0e0e0-ye8c000/)|
 |![MacIver #2 example sett](/setts/s9/w6r54k10r10k64r10k10r54y6-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [MacIver #3](/setts/s9/w4r24k6r6k32r6k6r24y4-k101010-rc80000-wfcfcfc-yd8b000/)|
-|![MacIver #3 example sett](/setts/s9/w4r24k6r6k32r6k6r24y4-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|
 | [MacIver (Clan)](/setts/s9/w4r24k6r6k32r6k6r24y4-k101010-rc80000-wfcfcfc-yd8b000/)|
 |![MacIver (Clan) example sett](/setts/s9/w4r24k6r6k32r6k6r24y4-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|
 | [MacIvor](/setts/s9/w1r12k2r2k16r2k2r12y1-k000000-rc80000-wd0d0d0-yffc800/)|

@@ -1,13 +1,20 @@
 ---
-title: "Pride, The Tartan of (Fashion)"
+title: "Pride, The Tartan of"
 date: 2023-03-18
 ---
 In pattern [BBGYYR](/patterns/bbgyyr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7682/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5684
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2008 — Pride, The Tartan of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5684))
+- pre 2008 — Pride, The Tartan of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7682/))
 
 ## Thread count
 P/5 B30 G30 Y15 O20 R/40

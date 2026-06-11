@@ -20,5 +20,3 @@ BRBBBBBW
 |---------------|
 | [A2 (Personal)](/setts/s8/b6r6b60ba6b6ba30b6w6-b003c64-ba5488ac-rc80000-we0e0e0/)|
 |![A2 (Personal) example sett](/setts/s8/b6r6b60ba6b6ba30b6w6-b003c64-ba5488ac-rc80000-we0e0e0/sett.png)|
-| [A2 (Personal)](/setts/s8/b6r6b60ba6b6ba30b6w6-b003c64-ba5488ac-rc80000-we0e0e0/)|
-|![A2 (Personal) example sett](/setts/s8/b6r6b60ba6b6ba30b6w6-b003c64-ba5488ac-rc80000-we0e0e0/sett.png)|

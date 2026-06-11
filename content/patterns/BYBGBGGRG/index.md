@@ -18,5 +18,3 @@ BYBGBGGRG
 |---------------|
 | [Scottish Crofting Foundation](/setts/s9/b12y6b36g4b4g20ga56r4ga8-b441800-g604000-ga5c6428-r880000-ya0b8a4/)|
 |![Scottish Crofting Foundation example sett](/setts/s9/b12y6b36g4b4g20ga56r4ga8-b441800-g604000-ga5c6428-r880000-ya0b8a4/sett.png)|
-| [Scottish Crofting Foundation (Corp)](/setts/s9/b12y6b36g4b4g20ga56r4ga8-b441800-g604000-ga5c6428-r880000-ya0b8a4/)|
-|![Scottish Crofting Foundation (Corp) example sett](/setts/s9/b12y6b36g4b4g20ga56r4ga8-b441800-g604000-ga5c6428-r880000-ya0b8a4/sett.png)|

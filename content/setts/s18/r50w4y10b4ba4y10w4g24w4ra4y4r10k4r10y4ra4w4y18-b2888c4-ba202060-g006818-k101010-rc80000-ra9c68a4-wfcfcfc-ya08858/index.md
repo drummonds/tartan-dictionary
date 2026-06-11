@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=534
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1840 — Campbell, New Louden (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=534))
+- 1840 — Campbell, New Louden (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11/))
+
 ## Thread count
 LT/18 W4 LP4 LT4 R10 K4 R10 LT4 LP4 W4 G24 W4 LT10 DB4 B4 LT10 W4 R/50
 ![Sett](sett.png)

@@ -26,10 +26,6 @@ BKGRGKY
 |![MacLaurin of Brioch example sett](/setts/s7/b72k20g6r6g12k2y4-b2c4084-g005020-k101010-rdc0000-ye8c000/sett.png)|
 | [Regent](/setts/s7/b36k14g10r8g14k2y4-b480048-g006818-k101010-rc80000-ye8c000/)|
 |![Regent example sett](/setts/s7/b36k14g10r8g14k2y4-b480048-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Regent](/setts/s7/b36k14g10r8g14k2y4-b480048-g006818-k101010-rc80000-ye8c000/)|
-|![Regent example sett](/setts/s7/b36k14g10r8g14k2y4-b480048-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [MacLaren (Clan)](/setts/s7/b48k16g16r4g16k4y4-b2c2c80-g408060-k101010-rc80000-yd09800/)|
-|![MacLaren (Clan) example sett](/setts/s7/b48k16g16r4g16k4y4-b2c2c80-g408060-k101010-rc80000-yd09800/sett.png)|
 | [MacLaurin of Broich (Clan)](/setts/s7/b72k16g6r6g12k2y4-b200088-g006818-k101010-r880000-yd09800/)|
 |![MacLaurin of Broich (Clan) example sett](/setts/s7/b72k16g6r6g12k2y4-b200088-g006818-k101010-r880000-yd09800/sett.png)|
 | [MacLaren](/setts/s7/b24k8g8r2g8k1y2-b000064-g004c00-k000000-rc80000-yffc800/)|

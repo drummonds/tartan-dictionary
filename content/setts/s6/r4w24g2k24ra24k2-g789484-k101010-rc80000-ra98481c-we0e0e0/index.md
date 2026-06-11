@@ -1,13 +1,20 @@
 ---
-title: "Dutch Dress (District)"
+title: "Dutch Dress"
 date: 2023-03-18
 ---
 In pattern [KRKGWR](/patterns/krkgwr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1133/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1055
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1965 — Dutch Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1055))
+- 1965 — Dutch Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1133/))
 
 ## Thread count
 K/2 T24 K24 LG2 LN24 R/4

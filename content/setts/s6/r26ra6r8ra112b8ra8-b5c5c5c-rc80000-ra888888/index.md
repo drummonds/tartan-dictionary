@@ -1,13 +1,20 @@
 ---
-title: "Auchairne, Grey (Corporate)"
+title: "Auchairne Grey"
 date: 2023-03-18
 ---
 In pattern [RBRRRR](/patterns/rbrrrr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2479/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Auchairne Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130))
+- 1998 — Auchairne, Grey (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2479/))
 
 ## Thread count
 Na/8 N8 Na112 R8 Na6 R/26

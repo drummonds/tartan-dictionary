@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2007 — U.S. Law Enforcement (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186))
+- April 2007 — U.S. Law Enforcement (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7173/))
+
 ## Thread count
 Na/8 K6 DBa12 DB8 DBa114 N6 DBa6 N6 DBa6 R/6
 ![Sett](sett.png)

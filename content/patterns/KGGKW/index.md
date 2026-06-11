@@ -20,5 +20,3 @@ KGGKW
 |---------------|
 | [Raeside](/setts/s5/k12g8ga88k82w8-g289c18-ga006818-k101010-we0e0e0/)|
 |![Raeside example sett](/setts/s5/k12g8ga88k82w8-g289c18-ga006818-k101010-we0e0e0/sett.png)|
-| [Raeside (Name)](/setts/s5/k12g8ga88k82w8-g289c18-ga006818-k101010-we0e0e0/)|
-|![Raeside (Name) example sett](/setts/s5/k12g8ga88k82w8-g289c18-ga006818-k101010-we0e0e0/sett.png)|

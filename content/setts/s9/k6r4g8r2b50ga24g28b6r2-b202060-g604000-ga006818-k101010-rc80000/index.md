@@ -1,13 +1,20 @@
 ---
-title: "Mann (Name)"
+title: "Mann"
 date: 2023-03-18
 ---
 In pattern [KRGRBGGBR](/patterns/krgrbggbr/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4127/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2809
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Mann (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2809))
+- pre 2002 — Mann (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4127/))
 
 ## Thread count
 K/6 R4 T8 R2 DB50 G24 T28 DB6 R/2

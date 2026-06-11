@@ -18,5 +18,3 @@ GKYKRKGRKRG
 |---------------|
 | [Dryfe](/setts/s11/g84k20y4k4r4k4g20r12k4r6g4-g004c00-k000000-r780028-yfc9898/)|
 |![Dryfe example sett](/setts/s11/g84k20y4k4r4k4g20r12k4r6g4-g004c00-k000000-r780028-yfc9898/sett.png)|
-| [Dryfe (Name)](/setts/s11/g84k20y4k4r4k4g20r12k4r6g4-g004c00-k000000-r780028-yfc9898/)|
-|![Dryfe (Name) example sett](/setts/s11/g84k20y4k4r4k4g20r12k4r6g4-g004c00-k000000-r780028-yfc9898/sett.png)|

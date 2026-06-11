@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3026
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Motherwell Football Club 1991 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3026))
+- pre 2004 — Motherwell Football Club 1991 (Sport (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7013/))
+
 ## Thread count
 DR/12 Y2 DR12 K6 DR24 K30 LR2 DR60 K2 LN/4
 ![Sett](sett.png)

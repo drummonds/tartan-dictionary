@@ -24,7 +24,5 @@ KRBRKYKR
 |![Leslie example sett](/setts/s8/r8k12y2k12r8b32r64k2-b304080-k000000-rc00000-yf0c000/sett.png)|
 | [Leslie Dress](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/)|
 |![Leslie Dress example sett](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/sett.png)|
-| [Leslie Dress](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/)|
-|![Leslie Dress example sett](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/sett.png)|
 | [Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r8k12y2k12r8b32r64k2-b2c2c80-k101010-rc80000-ye8c000/)|
 |![Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/r8k12y2k12r8b32r64k2-b2c2c80-k101010-rc80000-ye8c000/sett.png)|

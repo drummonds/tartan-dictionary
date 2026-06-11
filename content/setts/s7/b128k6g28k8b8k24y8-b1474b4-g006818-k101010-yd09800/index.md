@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3066
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1930 — Murray of Elibank (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3066))
+- 1930 — Murray of Elibank (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/340/))
+
 ## Thread count
 B/128 K6 G28 K8 B8 K24 DY/8
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/128 K6 G28 K8 B8 K24 DY/8 tartan")
 
 ID: /setts/s7/b128k6g28k8b8k24y8-b1474b4-g006818-k101010-yd09800/
-9800/

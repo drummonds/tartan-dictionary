@@ -18,5 +18,3 @@ GWGWKWKWKWYWY
 |---------------|
 | [Glen Flesk](/setts/s13/g4w4g4w8k8w8k8w8k8w8y4w4y4-g003820-k101010-wc0c0c0-ya08858/)|
 |![Glen Flesk example sett](/setts/s13/g4w4g4w8k8w8k8w8k8w8y4w4y4-g003820-k101010-wc0c0c0-ya08858/sett.png)|
-| [Glen Flesk (Fashion)](/setts/s13/g4w4g4w8k8w8k8w8k8w8y4w4y4-g003820-k101010-wc0c0c0-ya08858/)|
-|![Glen Flesk (Fashion) example sett](/setts/s13/g4w4g4w8k8w8k8w8k8w8y4w4y4-g003820-k101010-wc0c0c0-ya08858/sett.png)|

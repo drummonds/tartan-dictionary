@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GKRRR](/patterns/gkrrr/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/811/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1985 — Herbage of Laggan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690))
+- pre 1985 — Herbage of Laggan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/811/))
 
 ## Thread count
 G/136 K44 N56 DR6 N/24
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/136 K44 N56 DR6 N/24 tartan")
 
 ID: /setts/s5/g136k44r56ra6r24-g006818-k101010-r888888-ra880000/
-000/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Coopers & Lybrand (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756))
+- 1996 — Coopers & Lybrand (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2303/))
+
 ## Thread count
 B/8 G8 R2 DB48 B8 K4 G48 R2 DB20 B8 DB/4
 ![Sett](sett.png)

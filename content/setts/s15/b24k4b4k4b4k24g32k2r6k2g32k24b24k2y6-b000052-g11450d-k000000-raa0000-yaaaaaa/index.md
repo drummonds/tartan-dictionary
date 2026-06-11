@@ -7,7 +7,14 @@ In pattern [BKBKBKGKRKGKBKY](/patterns/bkbkbkgkrkgkbky/).
 
 This was sourced from weddslist.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Robertson of Kindeace (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Robertson of Kindeace (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 DG32 K2 DR6 K2 DG32 K24 DB24 K2 N/6

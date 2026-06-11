@@ -20,5 +20,3 @@ WKRKRWY
 |---------------|
 | [Richecourt, Baron of (Personal)](/setts/s7/w8k60r2k2r6w24y6-k101010-rc80000-wfcfcfc-ye8c000/)|
 |![Richecourt, Baron of (Personal) example sett](/setts/s7/w8k60r2k2r6w24y6-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [Richecourt, Baron of (Personal)](/setts/s7/w8k60r2k2r6w24y6-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Richecourt, Baron of (Personal) example sett](/setts/s7/w8k60r2k2r6w24y6-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

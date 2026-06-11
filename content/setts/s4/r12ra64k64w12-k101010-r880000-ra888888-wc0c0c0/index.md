@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3597/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — Thompson, Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3597/))
+- undated — Thompson, Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5157))
+
 ## Thread count
 DR/12 Na64 K64 N/12
 ![Sett](sett.png)

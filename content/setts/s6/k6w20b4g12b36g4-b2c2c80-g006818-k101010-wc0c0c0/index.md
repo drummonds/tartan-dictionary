@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=809
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Crombie House Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=809))
+- pre 1997 — Crombie House Check (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2302/))
+
 ## Thread count
 G/4 DB36 G12 DB4 N20 K/6
 ![Sett](sett.png)

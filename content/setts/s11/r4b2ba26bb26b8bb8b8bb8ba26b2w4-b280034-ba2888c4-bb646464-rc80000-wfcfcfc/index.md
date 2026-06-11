@@ -1,13 +1,20 @@
 ---
-title: "Toronto Blue Jays (Corporate)"
+title: "Toronto Blue Jays"
 date: 2023-03-18
 ---
 In pattern [RBBBBBBBBBW](/patterns/rbbbbbbbbbw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5103/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4139
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Toronto Blue Jays (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4139))
+- 1996 — Toronto Blue Jays (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5103/))
 
 ## Thread count
 R/4 DP2 B26 N26 DP8 N8 DP8 N8 B26 DP2 W/4

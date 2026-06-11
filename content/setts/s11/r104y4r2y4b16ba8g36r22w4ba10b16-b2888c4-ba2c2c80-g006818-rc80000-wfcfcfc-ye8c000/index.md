@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=944
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2004 — Doig (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=944))
+- May 2004 — Doig (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6252/))
+
 ## Thread count
 B/16 DB10 W4 R22 G36 DB8 B16 Y4 R2 Y4 R/104
 ![Sett](sett.png)

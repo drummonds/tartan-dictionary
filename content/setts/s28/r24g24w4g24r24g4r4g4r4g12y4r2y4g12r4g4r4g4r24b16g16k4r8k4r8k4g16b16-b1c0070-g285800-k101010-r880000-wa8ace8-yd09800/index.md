@@ -1,13 +1,20 @@
 ---
-title: "MacMaster (Canada)"
+title: "MacMaster (Name 2001)"
 date: 2023-03-18
 ---
 In pattern [BGKRKRKGBRGRGRGYRYGRGRGRGWGR](/patterns/bgkrkrkgbrgrgrgyrygrgrgrgwgr/).
 
 
-This was sourced from register-of-tartans.  It is a [28 stripes tartan](/stripes/stripes28/).
+This was sourced from tartans-authority.  It is a [28 stripes tartan](/stripes/stripes28/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5207
+Original link http://www.tartansauthority.com/tartan-ferret/display/3492/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2001 — MacMaster (Name 2001) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3492/))
+- undated — MacMaster (Canada) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5207))
 
 ## Thread count
 DB/16 G16 K4 DR8 K4 DR8 K4 G16 DB16 DR24 G4 DR4 G4 DR4 G12 DY4 DR2 DY4 G12 DR4 G4 DR4 G4 DR24 G24 LP4 G24 DR/24

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1380/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1986 — Service of Drymen (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1380/))
+- 01/01/2002 — Service of Drymen (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3768))
+
 ## Thread count
 DR/4 DB28 K4 Na10 G6 N2 G6 N2 G6 K2 G6 K2 G6 Na10 K4 DB28 DY/4
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
 ID: /setts/s17/r4b28k4ra10g6w2g6w2g6k2g6k2g6ra10k4b28y4-b1c0070-g006818-k101010-r880000-ra888888-wc0c0c0-yd09800/
-00/

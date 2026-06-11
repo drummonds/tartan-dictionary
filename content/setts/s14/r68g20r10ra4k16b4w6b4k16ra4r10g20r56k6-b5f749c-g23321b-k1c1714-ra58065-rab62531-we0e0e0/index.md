@@ -1,13 +1,20 @@
 ---
-title: "Lambert (Front Royal) Hunting Name Tartan Tartan Number: 10663. Earliest known date: 29/07/2012 Designed by Charles Lambert,using the Scotweb Tartan Designer, for his family, to celebrate their Scottish and Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Dress tartan(STR #10661) and the Lambert (Front Royal) Dark Night tartan (STR #10669) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Lambert (Front Royal) Hunting"
 date: 2023-03-18
 ---
 In pattern [KRGRRKBWBKRRGR](/patterns/krgrrkbwbkrrgr/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10663
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 29/07/2012 — Lambert (Front Royal) Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663))
+- undated — Lambert (Front Royal) Hunting Name Tartan Tartan Number: 10663. Earliest known date: 29/07/2012 Designed by Charles Lambert,using the Scotweb Tartan Designer, for his family, to celebrate their Scottish and Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Dress tartan(STR #10661) and the Lambert (Front Royal) Dark Night tartan (STR #10669) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10663))
 
 ## Thread count
 Ka/6 LT56 K20 LT10 R4 Ka16 B4 LN6 B4 Ka16 R4 LT10 K20 LT/68

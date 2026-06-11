@@ -20,5 +20,3 @@ WRYWBRY
 |---------------|
 | [Nicolson of the Isles (Personal)](/setts/s7/w4r24y10wa70b8r8ya4-b6080d0-rc80000-we0e0e0-wa98c8e8-y80c86c-yae8c000/)|
 |![Nicolson of the Isles (Personal) example sett](/setts/s7/w4r24y10wa70b8r8ya4-b6080d0-rc80000-we0e0e0-wa98c8e8-y80c86c-yae8c000/sett.png)|
-| [Nicolson of the Isles (Personal)](/setts/s7/w4r24y10wa70b8r8ya4-b6080d0-rc80000-we0e0e0-wa98c8e8-y80c86c-yae8c000/)|
-|![Nicolson of the Isles (Personal) example sett](/setts/s7/w4r24y10wa70b8r8ya4-b6080d0-rc80000-we0e0e0-wa98c8e8-y80c86c-yae8c000/sett.png)|

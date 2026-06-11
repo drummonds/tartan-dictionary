@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1999
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Kintail Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1999))
+- pre 1984 — Kintail Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5363/))
+
 ## Thread count
 Ga/6 G64 Ga72 LT24 K4 LY136 G6 K/4
 ![Sett](sett.png)

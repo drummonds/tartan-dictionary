@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3902/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2001 — Brittany National (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3902/))
+- 13/03/2002 — Brittany National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=364))
+
 ## Thread count
 G/12 DB22 N16 K8 N16 K8 N16 K54 N/8
 ![Sett](sett.png)

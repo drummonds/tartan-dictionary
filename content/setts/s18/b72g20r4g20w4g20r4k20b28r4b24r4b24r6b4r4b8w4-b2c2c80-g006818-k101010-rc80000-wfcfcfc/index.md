@@ -1,13 +1,20 @@
 ---
-title: "Rankin (1932) (Name)"
+title: "Rankin #2"
 date: 2023-03-18
 ---
 In pattern [BGRGWGRKBRBRBRBRBW](/patterns/bgrgwgrkbrbrbrbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/187/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3460
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1932 — Rankin #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3460))
+- pre 1932 — Rankin (1932) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/187/))
 
 ## Thread count
 DB/72 G20 R4 G20 W4 G20 R4 K20 DB28 R4 DB24 R4 DB24 R6 DB4 R4 DB8 W/4

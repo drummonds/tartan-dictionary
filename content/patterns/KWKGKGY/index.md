@@ -22,5 +22,3 @@ KWKGKGY
 |![Lawsons' Whisky example sett](/setts/s7/k9w38k22g31k5g31y5-g006818-k101010-wf8f8f8-ye8c000/sett.png)|
 | [Lawson, William 2002](/setts/s7/k8w38k22g30k6g32y6-g003c14-k101010-we0e0e0-ye8c000/)|
 |![Lawson, William 2002 example sett](/setts/s7/k8w38k22g30k6g32y6-g003c14-k101010-we0e0e0-ye8c000/sett.png)|
-| [Lawsons' Whisky (Corporate)](/setts/s7/k9w38k22g31k5g31y5-g006818-k101010-wf8f8f8-ye8c000/)|
-|![Lawsons' Whisky (Corporate) example sett](/setts/s7/k9w38k22g31k5g31y5-g006818-k101010-wf8f8f8-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Leask (Clan)"
+title: "Leask"
 date: 2023-03-18
 ---
 In pattern [GRWRKRGYGYGRGY](/patterns/grwrkrgygygrgy/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/905/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2076
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/1981 — Leask (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2076))
+- April 1981 — Leask (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/905/))
 
 ## Thread count
 G/8 R4 LN2 R4 K2 R48 G24 Y4 G6 Y4 G24 R4 G6 Y/8

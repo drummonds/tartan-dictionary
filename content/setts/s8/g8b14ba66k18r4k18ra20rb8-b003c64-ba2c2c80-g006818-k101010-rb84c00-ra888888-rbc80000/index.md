@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=93
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 16/02/1998 — Anne Arundel County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=93))
+- 1998 — Anne Arundel County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2453/))
+
 ## Thread count
 G/8 DB14 DBa66 K18 DO4 K18 N20 R/8
 ![Sett](sett.png)
@@ -31,4 +38,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/8 DB14 DBa66 K18 DO4 K18 N20 R/8 tartan")
 
 ID: /setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/
-bc80000/

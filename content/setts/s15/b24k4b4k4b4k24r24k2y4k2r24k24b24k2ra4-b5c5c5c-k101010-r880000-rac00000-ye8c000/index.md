@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1203
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Flaumandrum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1203))
+- 2005 — Flaumandrum (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6805/))
+
 ## Thread count
 N/24 K4 N4 K4 N4 K24 DR24 K2 Y4 K2 DR24 K24 N24 K2 R/4
 ![Sett](sett.png)

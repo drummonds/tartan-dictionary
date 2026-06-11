@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3888/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — St. Mary's Help of... (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3888/))
+- undated — St. Mary's Help of Christians Sch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5231))
+
 ## Thread count
 R/4 K2 DG48 K32 DB4 K4 DB4 K4 DB48 K4 DB4 K4 DB4 K32 DG48 K2 Y/4
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s17/r4k2g48k32b4k4b4k4b48k4b4k4b4k32g48k2y4-b2c2c80-g003820-k101010-rc80000-ye8c000/
-8c000/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3446
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — Raith Rovers Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3446))
+- May 2002 — Raith Rovers (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2424/))
+
 ## Thread count
 DBa/6 LN4 DBb4 LN6 DBa48 R2 DB72 R/2
 ![Sett](sett.png)

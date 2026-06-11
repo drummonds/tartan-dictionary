@@ -20,5 +20,3 @@ GYKGRW
 |---------------|
 | [Merwe](/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
 |![Merwe example sett](/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
-| [Merwe (Name)](/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Merwe (Name) example sett](/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|

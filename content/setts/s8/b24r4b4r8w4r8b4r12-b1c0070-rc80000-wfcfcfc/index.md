@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1082
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Edinburgh Marketing (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1082))
+- pre 2002 — Edinburgh Marketing (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2106/))
+
 ## Thread count
 DB/24 R4 DB4 R8 W4 R8 DB4 R/12
 ![Sett](sett.png)

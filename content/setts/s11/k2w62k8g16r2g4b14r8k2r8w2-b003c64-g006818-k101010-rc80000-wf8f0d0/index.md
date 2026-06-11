@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1747
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2007 — Hohenzollern (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1747))
+- March 2007 — Hohenzollern (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7153/))
+
 ## Thread count
 K/2 LY62 K8 G16 R2 G4 DBa14 R8 K2 R8 LY/2
 ![Sett](sett.png)

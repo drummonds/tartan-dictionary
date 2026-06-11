@@ -1,13 +1,20 @@
 ---
-title: "Miyuki #2 (Fashion)"
+title: "Miyuki #2"
 date: 2023-03-18
 ---
 In pattern [BRWRWRBRWR](/patterns/brwrwrbrwr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2608/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2968
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Miyuki #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2968))
+- 1998 — Miyuki #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2608/))
 
 ## Thread count
 DB/16 R2 LN2 R12 LN2 R2 DB16 R2 LN2 R/80

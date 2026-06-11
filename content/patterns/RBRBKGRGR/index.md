@@ -16,8 +16,6 @@ RBRBKGRGR
 
 | Tartans |
 |---------------|
-| [Alexander (Personal)](/setts/s9/r24b4r8b8k30g8r8g4r24-b2888c4-g006818-k101010-rc80000/)|
-|![Alexander (Personal) example sett](/setts/s9/r24b4r8b8k30g8r8g4r24-b2888c4-g006818-k101010-rc80000/sett.png)|
 | [Alexander - 1985 (Name)](/setts/s9/r24b4r8b8k30g8r8g4r24-b2888c4-g006818-k101010-rc80000/)|
 |![Alexander - 1985 (Name) example sett](/setts/s9/r24b4r8b8k30g8r8g4r24-b2888c4-g006818-k101010-rc80000/sett.png)|
 | [Alexander](/setts/s9/r24b4r8b8k30g8r8g4r24-b304080-g008000-k000000-rc00000/)|

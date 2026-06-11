@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7794/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1973 — MacKnight (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7794/))
+- undated — MacKnight (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5759))
+
 ## Thread count
 K/24 N2 K4 N12 K8 N6 K8 N42 R/8
 ![Sett](sett.png)

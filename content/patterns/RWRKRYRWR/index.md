@@ -18,5 +18,3 @@ RWRKRYRWR
 |---------------|
 | [Middleton, City of](/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/)|
 |![Middleton, City of example sett](/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/sett.png)|
-| [Middleton, City of (District)](/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/)|
-|![Middleton, City of (District) example sett](/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/sett.png)|

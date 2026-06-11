@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5981/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1999 — Glenmorangie (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5981/))
+- 01/01/2003 — Glenmorangie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4868))
+
 ## Thread count
 LT/12 LP4 LT4 LP8 LT26 K24 T26 LP8 T4 LP4 T/12
 ![Sett](sett.png)

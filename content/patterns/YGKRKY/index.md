@@ -20,5 +20,3 @@ YGKRKY
 |---------------|
 | [Drambuie Hunting](/setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/)|
 |![Drambuie Hunting example sett](/setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/sett.png)|
-| [Drambuie Htg (Corporate)](/setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/)|
-|![Drambuie Htg (Corporate) example sett](/setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/sett.png)|

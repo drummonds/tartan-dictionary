@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=292
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1989 — Blair Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=292))
+- 1989 — Blair Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/483/))
+
 ## Thread count
 DB/4 DR4 DB24 K10 G24 DR4 G4 DR4 G24 K10 LN28 DR4 LN/4
 ![Sett](sett.png)

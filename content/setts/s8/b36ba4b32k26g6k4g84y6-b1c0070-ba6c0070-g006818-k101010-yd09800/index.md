@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BBBKGKGY](/patterns/bbbkgkgy/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2656/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2881
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/1999 — McFadden (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2881))
+- March 2000 — McFadden (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2656/))
 
 ## Thread count
 DB/36 P4 DB32 K26 G6 K4 G84 DY/6
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/36 P4 DB32 K26 G6 K4 G84 DY/6 tartan")
 
 ID: /setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/
-00/

@@ -22,5 +22,3 @@ GWKYR
 |![Port Moresby City Pipes & Drums example sett](/setts/s5/g4w6k24y72r4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
 | [Port Moresby City Pipes and Drums](/setts/s5/g4w6k10y66r4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/)|
 |![Port Moresby City Pipes and Drums example sett](/setts/s5/g4w6k10y66r4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Port Moresby City (P&D)](/setts/s5/g4w6k24y72r4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Port Moresby City (P&D) example sett](/setts/s5/g4w6k24y72r4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

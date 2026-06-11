@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3594
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 05/05/1998 — Royal Canadian Mounted Police (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3594))
+- February 1998 — Royal Canadian Mounted Police (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2447/))
+
 ## Thread count
 DN/152 B2 DN4 N2 G28 DR10 DN26 DO2 DY/2
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
 ID: /setts/s9/b152ba2b4w2g28r10b26ra2y2-b14283c-ba0064ac-g006818-r800000-rab84c00-wc0c0c0-yd09000/
-0/

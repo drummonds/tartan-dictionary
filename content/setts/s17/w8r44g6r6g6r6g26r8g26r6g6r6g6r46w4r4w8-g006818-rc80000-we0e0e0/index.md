@@ -1,13 +1,20 @@
 ---
-title: "Duke of Rothesay (Royal)"
+title: "Rothesay, Duke of"
 date: 2023-03-18
 ---
 In pattern [WRGRGRGRGRGRGRWRW](/patterns/wrgrgrgrgrgrgrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/stripes17/).
+This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1845/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Rothesay, Duke of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576))
+- Unknown — Duke of Rothesay (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1845/))
 
 ## Thread count
 LN/8 R44 G6 R6 G6 R6 G26 R8 G26 R6 G6 R6 G6 R46 LN4 R4 LN/8

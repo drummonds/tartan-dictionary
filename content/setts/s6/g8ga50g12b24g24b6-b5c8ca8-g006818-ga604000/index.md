@@ -1,13 +1,20 @@
 ---
-title: "Canadian Fancy (Fashion)"
+title: "Canadian Fancy"
 date: 2023-03-18
 ---
 In pattern [BGBGGG](/patterns/bgbggg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/124/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=547
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1970 — Canadian Fancy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=547))
+- circa 1970 — Canadian Fancy (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/124/))
 
 ## Thread count
 B/6 G24 B24 G12 T50 G/8

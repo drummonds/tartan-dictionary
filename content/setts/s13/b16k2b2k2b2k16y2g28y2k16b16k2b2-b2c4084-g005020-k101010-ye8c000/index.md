@@ -1,5 +1,5 @@
 ---
-title: "Campbell of Breadalbane"
+title: "Black from Cumnock (Personal)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKYGYKBKB](/patterns/bkbkbkygykbkb/).
@@ -7,7 +7,14 @@ In pattern [BKBKBKYGYKBKB](/patterns/bkbkbkygykbkb/).
 
 This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=515
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1890 — Black from Cumnock (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925))
+- undated — Campbell of Breadalbane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=515))
 
 ## Thread count
 B/16 K2 B2 K2 B2 K16 Y2 G28 Y2 K16 B16 K2 B/2

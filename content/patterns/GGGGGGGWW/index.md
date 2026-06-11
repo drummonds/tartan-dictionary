@@ -18,5 +18,3 @@ GGGGGGGWW
 |---------------|
 | [Stirling Millennium](/setts/s9/w40wa20g20ga20gb20gc20g20ga20gc20-g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0/)|
 |![Stirling Millennium example sett](/setts/s9/w40wa20g20ga20gb20gc20g20ga20gc20-g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0/sett.png)|
-| [Stirling Millennium (Corporate)](/setts/s9/w40wa20g20ga20gb20gc20g20ga20gc20-g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0/)|
-|![Stirling Millennium (Corporate) example sett](/setts/s9/w40wa20g20ga20gb20gc20g20ga20gc20-g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0/sett.png)|

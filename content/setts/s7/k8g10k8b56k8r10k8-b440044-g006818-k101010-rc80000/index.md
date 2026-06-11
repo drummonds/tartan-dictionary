@@ -1,13 +1,20 @@
 ---
-title: "Montgomery - 1819 (Clan)"
+title: "Montgomrie/Montgomery of Eglinton"
 date: 2023-03-18
 ---
 In pattern [KGKBKRK](/patterns/kgkbkrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1082/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2991
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Montgomrie/Montgomery of Eglinton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2991))
+- 1819 (1707?) — Montgomery - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1082/))
 
 ## Thread count
 K/8 G10 K8 DP56 K8 R10 K/8
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 G10 K8 DP56 K8 R10 K/8 tartan")
 
 ID: /setts/s7/k8g10k8b56k8r10k8-b440044-g006818-k101010-rc80000/
-010-rc80000/

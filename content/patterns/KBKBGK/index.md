@@ -20,8 +20,6 @@ KBKBGK
 |---------------|
 | [Campbell, Sir Walter Scott](/setts/s6/k4g16b4k18ba14k4-b2c4084-ba5a008c-g005020-k101010/)|
 |![Campbell, Sir Walter Scott example sett](/setts/s6/k4g16b4k18ba14k4-b2c4084-ba5a008c-g005020-k101010/sett.png)|
-| [Scottish Football Association](/setts/s6/k120b4k12ba36g3k6-b203078-ba14283c-g006038-k101010/)|
-|![Scottish Football Association example sett](/setts/s6/k120b4k12ba36g3k6-b203078-ba14283c-g006038-k101010/sett.png)|
 | [Scottish Football Association (Corp)](/setts/s6/k120b4k12ba36g3k6-b203078-ba14283c-g006038-k101010/)|
 |![Scottish Football Association (Corp) example sett](/setts/s6/k120b4k12ba36g3k6-b203078-ba14283c-g006038-k101010/sett.png)|
 | [Campbell, Sir Walter Scott](/setts/s6/k4g16b4k18ba14k4-b304080-ba800080-g008000-k000000/)|

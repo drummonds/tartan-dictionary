@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=555
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Canuck Place (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=555))
+- pre 2007 — Canuck Place (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7182/))
+
 ## Thread count
 DY/2 DR4 LT6 LP48 LT52 DB6 LT30 DB4 LN/2
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#889C5C;"><span style="color:#889C5C;filter:grayscale(1) invert(1) contrast(100);">#889C5C</span></code> `#889C5C` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
 
 ID: /setts/s9/w2b4y30b6y52r48y6ra4ya2-b1c1c50-r9c8098-ra901c38-we0e0e0-y889c5c-yabc8c00/
-abc8c00/

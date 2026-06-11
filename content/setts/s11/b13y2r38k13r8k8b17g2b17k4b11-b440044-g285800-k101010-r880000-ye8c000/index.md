@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6175/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Bute Heather, Autumn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6175/))
+- 2004 — Bute Heather, Weathered (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7181/))
+
 ## Thread count
 DP/11 K4 DP17 G2 DP17 K8 DR8 K13 DR38 Y2 DP/13
 ![Sett](sett.png)

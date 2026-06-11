@@ -1,13 +1,20 @@
 ---
-title: "Varenne (Fashion?)"
+title: "Varenne"
 date: 2023-03-18
 ---
 In pattern [RBRKRWRKRBR](/patterns/rbrkrwrkrbr/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4350/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4443
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Varenne (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4443))
+- pre 2002 — Varenne (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4350/))
 
 ## Thread count
 DR/60 N8 DR4 K16 DR6 Na4 DR6 K16 DR4 N8 LT/64

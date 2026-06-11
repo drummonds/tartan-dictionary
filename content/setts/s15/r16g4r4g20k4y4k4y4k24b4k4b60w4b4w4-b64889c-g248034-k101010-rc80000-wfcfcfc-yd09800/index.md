@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1133
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Estes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1133))
+- 1986 — Estes (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1520/))
+
 ## Thread count
 R/16 G4 R4 G20 K4 DY4 K4 DY4 K24 B4 K4 B60 W4 B4 W/4
 ![Sett](sett.png)

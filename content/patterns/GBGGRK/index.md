@@ -20,5 +20,3 @@ GBGGRK
 |---------------|
 | [Rowardennan](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/)|
 |![Rowardennan example sett](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/sett.png)|
-| [Rowardennan (Fashion)](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/)|
-|![Rowardennan (Fashion) example sett](/setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/sett.png)|

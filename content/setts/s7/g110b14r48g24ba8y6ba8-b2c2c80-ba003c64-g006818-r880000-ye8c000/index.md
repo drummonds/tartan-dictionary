@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=804
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Crieff & Strathearn #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=804))
+- circa 1988 — Crieff & Strathearn #1 (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/664/))
+
 ## Thread count
 DB/8 Y6 DB8 G24 DR48 DBa14 G/110
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 Y6 DB8 G24 DR48 DBa14 G/110 tartan")
 
 ID: /setts/s7/g110b14r48g24ba8y6ba8-b2c2c80-ba003c64-g006818-r880000-ye8c000/
-8c000/

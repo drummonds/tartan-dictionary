@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7666/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- June 2008 — Edinburgh Fire (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7666/))
+- undated — Edinburgh Fire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5669))
+
 ## Thread count
 R/4 N4 LN4 N84 Ra16 T16 Y/8
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7410/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Meath County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7410/))
+- 01/05/2005 — Meath County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5054))
+
 ## Thread count
 DY/21 G28 DB24 G72 LN16 G/20
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/21 G28 DB24 G72 LN16 G/20 tartan")
 
 ID: /setts/s6/y21g28b24g72w16g20-b2c2c80-g006818-we0e0e0-ybc8c00/
-

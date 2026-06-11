@@ -1,13 +1,20 @@
 ---
-title: "Ogilvie of Inverquharity Clan Tartan Tartan Number: 666. Earliest known date: 1842 Adam No 97. The Setts No: 209. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Ogilvie of Inverarity - 1842 (V.S.)"
 date: 2023-03-18
 ---
 In pattern [BYBKGKGR](/patterns/bybkgkgr/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=666
+Original link http://www.tartansauthority.com/tartan-ferret/display/666/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1842 — Ogilvie of Inverarity - 1842 (V.S.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/666/))
+- undated — Ogilvie of Inverquharity Clan Tartan Tartan Number: 666. Earliest known date: 1842 Adam No 97. The Setts No: 209. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=666))
 
 ## Thread count
 DB/56 Y2 DB4 K52 G48 K2 G4 R/6

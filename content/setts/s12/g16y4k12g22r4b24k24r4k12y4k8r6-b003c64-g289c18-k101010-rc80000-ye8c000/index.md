@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2800
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/1997 — Mandela Commemorative (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2800))
+- 1997 — Mandela (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2359/))
+
 ## Thread count
 G/16 Y4 K12 G22 R4 DB24 K24 R4 K12 Y4 K8 R/6
 ![Sett](sett.png)

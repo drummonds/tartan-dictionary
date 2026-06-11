@@ -7,7 +7,14 @@ In pattern [KRKYKR](/patterns/krkykr/).
 
 This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/4 K16 LG2 K16 DR32 K/4
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/4 K16 LG2 K16 DR32 K/4 tartan")
 
 ID: /setts/s6/k4r32k16y2k16r4-k000000-raa0000-yaaaa00/
-a00/

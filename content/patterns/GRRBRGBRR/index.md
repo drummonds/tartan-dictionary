@@ -18,5 +18,3 @@ GRRBRGBRR
 |---------------|
 | [Diana Princess of Wales](/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/)|
 |![Diana Princess of Wales example sett](/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/sett.png)|
-| [Diana Princess of Wales (Fashion)](/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/)|
-|![Diana Princess of Wales (Fashion) example sett](/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/sett.png)|

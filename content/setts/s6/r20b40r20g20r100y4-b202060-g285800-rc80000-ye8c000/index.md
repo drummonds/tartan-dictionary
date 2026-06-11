@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=99
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2001 — AON (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=99))
+- pre 2002 — Aon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4012/))
+
 ## Thread count
 R/20 DB40 R20 G20 R100 Y/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/20 DB40 R20 G20 R100 Y/4 tartan")
 
 ID: /setts/s6/r20b40r20g20r100y4-b202060-g285800-rc80000-ye8c000/
--ye8c000/

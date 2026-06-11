@@ -1,13 +1,20 @@
 ---
-title: "Hebron (Fashion)"
+title: "Hebron"
 date: 2023-03-18
 ---
 In pattern [BBBBBBYBYBBBB](/patterns/bbbbbbybybbbb/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5173/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1675
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1993 — Hebron (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1675))
+- 1993 — Hebron (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5173/))
 
 ## Thread count
 DB/32 DN4 DB4 DN4 DB4 DN28 N24 DN12 N24 DN28 DB24 DN4 DB/4

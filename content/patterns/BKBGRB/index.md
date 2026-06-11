@@ -22,5 +22,3 @@ BKBGRB
 |![MacTavish / Thom(p)son, hunting example sett](/setts/s6/b6r52g8b26k26b4-b5480b0-g008000-k000000-r806050/sett.png)|
 | [MacTavish / Thom(p)son, hunting](/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/)|
 |![MacTavish / Thom(p)son, hunting example sett](/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/sett.png)|
-| [Thom(p)son, Lord (hunting)](/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/)|
-|![Thom(p)son, Lord (hunting) example sett](/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/sett.png)|

@@ -1,13 +1,21 @@
 ---
-title: "Baird Dress Clan Tartan Tartan Number: 233. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Baird Dress"
 date: 2023-03-18
 ---
 In pattern [BKBKGKWBWB](/patterns/bkbkgkwbwb/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=233
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=170
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Baird Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=170))
+- pre 2002 — Baird Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/233/))
+- undated — Baird Dress Clan Tartan Tartan Number: 233. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=233))
 
 ## Thread count
 DB/8 K8 DB46 K24 G20 K2 LN46 P4 LN4 P/8

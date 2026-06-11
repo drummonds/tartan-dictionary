@@ -20,5 +20,3 @@ BBYGGR
 |---------------|
 | [Loch Fyne](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/)|
 |![Loch Fyne example sett](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/sett.png)|
-| [Loch Fyne (District)](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/)|
-|![Loch Fyne (District) example sett](/setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/sett.png)|

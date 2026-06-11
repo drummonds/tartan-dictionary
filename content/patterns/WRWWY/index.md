@@ -20,5 +20,3 @@ WRWWY
 |---------------|
 | [Perry Arisaid (Personal)](/setts/s5/w130r54wa4w8y10-rc80000-wc0c0c0-wafcfcfc-ye8c000/)|
 |![Perry Arisaid (Personal) example sett](/setts/s5/w130r54wa4w8y10-rc80000-wc0c0c0-wafcfcfc-ye8c000/sett.png)|
-| [Perry Arisaid (Personal)](/setts/s5/w130r54wa4w8y10-rc80000-wc0c0c0-wafcfcfc-ye8c000/)|
-|![Perry Arisaid (Personal) example sett](/setts/s5/w130r54wa4w8y10-rc80000-wc0c0c0-wafcfcfc-ye8c000/sett.png)|

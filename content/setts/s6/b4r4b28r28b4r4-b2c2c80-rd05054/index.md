@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2459
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1750 — MacGregor of Glengyle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2459))
+- 1750 — MacGregor of Glengyle - 1750 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/450/))
+
 ## Thread count
 DB/4 DO4 DB28 DO28 DB4 DO/4
 ![Sett](sett.png)

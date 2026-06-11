@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4161
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1980 — Turnbull Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4161))
+- pre 1980 — Turnbull Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1035/))
+
 ## Thread count
 K/12 DB6 G60 R60 Y/6
 ![Sett](sett.png)

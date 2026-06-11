@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3916/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2001 — Scottish Canals (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3916/))
+- undated — Scottish Canals (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5424))
+
 ## Thread count
 G/4 DBa2 DB58 DBa4 G18 DBa52 Y/4
 ![Sett](sett.png)

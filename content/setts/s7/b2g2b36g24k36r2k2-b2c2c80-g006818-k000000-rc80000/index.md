@@ -1,13 +1,20 @@
 ---
-title: "Meoni (Name)"
+title: "Meoni (Personal)"
 date: 2023-03-18
 ---
 In pattern [BGBGKRK](/patterns/bgbgkrk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4124/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2931
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 26/03/2001 — Meoni (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2931))
+- 2001 — Meoni (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4124/))
 
 ## Thread count
 DB/2 G2 DB36 G24 K36 R2 K/2

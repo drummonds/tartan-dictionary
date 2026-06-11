@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [BKBYBKBRBR](/patterns/bkbybkbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6616/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=998
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — D'Souza (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=998))
+- pre 2005 — D'Souza (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6616/))
 
 ## Thread count
 DP/48 K4 DP4 O4 DP4 K40 DB32 N4 DB4 N/6

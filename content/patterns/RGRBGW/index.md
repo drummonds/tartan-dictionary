@@ -24,8 +24,6 @@ RGRBGW
 |![Ruthven (V.S.) example sett](/setts/s6/w12g30b36r60g4r8-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|
 | [Ruthven (V.S.) (Name)](/setts/s6/w12g30b36r60g4r8-b202060-g006818-rc80000-we0e0e0/)|
 |![Ruthven (V.S.) (Name) example sett](/setts/s6/w12g30b36r60g4r8-b202060-g006818-rc80000-we0e0e0/sett.png)|
-| [Nibley (Personal)](/setts/s6/w6g36b44r38g2r4-b202060-g003820-rc80000-we0e0e0/)|
-|![Nibley (Personal) example sett](/setts/s6/w6g36b44r38g2r4-b202060-g003820-rc80000-we0e0e0/sett.png)|
 | [Nibley](/setts/s6/w6g30b36r30g2r4-b304080-g008000-rc00000-we0e0e0/)|
 |![Nibley example sett](/setts/s6/w6g30b36r30g2r4-b304080-g008000-rc00000-we0e0e0/sett.png)|
 | [Ruthven](/setts/s6/w6g30b36r60g2r4-b304080-g008000-rc00000-we0e0e0/)|

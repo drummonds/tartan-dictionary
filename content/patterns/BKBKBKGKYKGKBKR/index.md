@@ -20,8 +20,6 @@ BKBKBKGKYKGKBKR
 |![Bailey, The House of example sett](/setts/s15/b28k4ba4k4b4k4g26k2y5k2g26k4b40k4r10-b2c2c80-ba2888c4-g006818-k101010-rc80000-ye8c000/sett.png)|
 | [Baillie (William Wilson)](/setts/s15/b56k8b8k8b8k56g54k6y10k6g54k56b54k6r10-b2c2c80-g006818-k101010-rc80000-yd8b000/)|
 |![Baillie (William Wilson) example sett](/setts/s15/b56k8b8k8b8k56g54k6y10k6g54k56b54k6r10-b2c2c80-g006818-k101010-rc80000-yd8b000/sett.png)|
-| [Bailey, The House of (Clan)](/setts/s15/b28k4ba4k4b4k4g26k2y5k2g26k4b40k4r10-b2c2c80-ba2888c4-g006818-k101010-rc80000-ye8c000/)|
-|![Bailey, The House of (Clan) example sett](/setts/s15/b28k4ba4k4b4k4g26k2y5k2g26k4b40k4r10-b2c2c80-ba2888c4-g006818-k101010-rc80000-ye8c000/sett.png)|
 | [Baillie](/setts/s15/b28k4b4k4b4k28g26k3y5k3g26k28b26k3r5-b304080-g008000-k000000-rc00000-yf0c000/)|
 |![Baillie example sett](/setts/s15/b28k4b4k4b4k28g26k3y5k3g26k28b26k3r5-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
 | [MacKenzie](/setts/s15/b24k4b4k4b4k24g24k2y4k2g24k24b24k2r4-b000052-g11450d-k000000-raa0000-yaaaaaa/)|

@@ -18,9 +18,5 @@ RBGWGW
 
 | Tartans |
 |---------------|
-| [Westfalia Dress](/setts/s6/w88g36w12g22b2r8-b003c64-g005c30-re86000-wf8f0e4/)|
-|![Westfalia Dress example sett](/setts/s6/w88g36w12g22b2r8-b003c64-g005c30-re86000-wf8f0e4/sett.png)|
 | [Westfalia Dress (Corporate)](/setts/s6/w88g36w12g22b2r8-b003c64-g005c30-re86000-wf8f0e4/)|
 |![Westfalia Dress (Corporate) example sett](/setts/s6/w88g36w12g22b2r8-b003c64-g005c30-re86000-wf8f0e4/sett.png)|
-| [Westfalia Dress Corporate Tartan Tartan Number: 7501. Earliest known date: June 2002 A worsted stole for a German dairy machinery company. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w88g36w12g22b2r8-b003c64-g005c30-re86000-wf8f0e4/)|
-|![Westfalia Dress Corporate Tartan Tartan Number: 7501. Earliest known date: June 2002 A worsted stole for a German dairy machinery company. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/w88g36w12g22b2r8-b003c64-g005c30-re86000-wf8f0e4/sett.png)|

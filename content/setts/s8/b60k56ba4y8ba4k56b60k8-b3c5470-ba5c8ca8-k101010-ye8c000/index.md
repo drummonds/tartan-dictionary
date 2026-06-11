@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3840
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — South African Air Force (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3840))
+- 1995 — South African Air Force (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5317/))
+
 ## Thread count
 B/60 K56 Ba4 Y8 Ba4 K56 B60 K/8
 ![Sett](sett.png)

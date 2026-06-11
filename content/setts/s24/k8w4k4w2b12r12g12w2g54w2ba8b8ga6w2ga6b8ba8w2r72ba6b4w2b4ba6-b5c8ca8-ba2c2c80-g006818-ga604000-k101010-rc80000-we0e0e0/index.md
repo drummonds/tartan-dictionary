@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [24 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1766 — Ross Wedding Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564))
+- 1766 — Unnamed C18th - Wedding Dress/Shawl (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/90/))
+
 ## Thread count
 DB/6 B4 LN2 B4 DB6 R72 LN2 DB8 B8 T6 LN2 T6 B8 DB8 LN2 G54 LN2 G12 R12 B12 LN2 K4 LN4 K/8
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
 ID: /setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ga6w2ga6b8ba8w2r72ba6b4w2b4ba6-b5c8ca8-ba2c2c80-g006818-ga604000-k101010-rc80000-we0e0e0/
-0-we0e0e0/

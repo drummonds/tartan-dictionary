@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [15 stripes tartan](/stripes/stripes15
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Kidd, Wilson's No 43 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — MacPherson, Wilson's No 43 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+
 ## Thread count
 R/36 B10 R36 G48 Y6 K38 B20 K6 B6 K6 B20 R36 LN8 K10 R/10
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#F0C000;"><span style="color:#F0C000;filter:grayscale(1) invert(1) contrast(100);">#F0C000</span></code> `#F0C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.01 |
 
 ID: /setts/s15/r36b10r36g48y6k38b20k6b6k6b20r36w8k10r10-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/
-c000/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1291
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Furman University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1291))
+- pre 2004 — Furman University (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6150/))
+
 ## Thread count
 P/4 W28 K30 P28 W/4
 ![Sett](sett.png)

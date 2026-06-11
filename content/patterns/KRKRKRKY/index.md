@@ -26,5 +26,3 @@ KRKRKRKY
 |![Royal Army PTC Assoc. (Military) example sett](/setts/s8/k118r6k12r6k16r30k4y6-k101010-rc80000-ye8c000/sett.png)|
 | [Barkwell, The](/setts/s8/y16k4r120k60r96k8r16k4-k000000-rc00000-yf0c000/)|
 |![Barkwell, The example sett](/setts/s8/y16k4r120k60r96k8r16k4-k000000-rc00000-yf0c000/sett.png)|
-| [Oilmens Corporate Tartan Tartan Number: 2044. Earliest known date: pre 1992 Genuinely asymmetrical design by Don Barkwell. No further details. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/)|
-|![Oilmens Corporate Tartan Tartan Number: 2044. Earliest known date: pre 1992 Genuinely asymmetrical design by Don Barkwell. No further details. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/sett.png)|

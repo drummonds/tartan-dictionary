@@ -18,5 +18,3 @@ KRKRKRKRKRKRKRKR
 |---------------|
 | [Murray of Ochtertyre](/setts/s16/k4r4k40r40k4r4k4r4k32r4k4r4k4r40k40r4-k000000-rc80000/)|
 |![Murray of Ochtertyre example sett](/setts/s16/k4r4k40r40k4r4k4r4k32r4k4r4k4r40k40r4-k000000-rc80000/sett.png)|
-| [Murray of Ochtertyre - 1746 (Clan)](/setts/s16/k4r4k40r40k4r4k4r4k32r4k4r4k4r40k40r4-k000000-rc80000/)|
-|![Murray of Ochtertyre - 1746 (Clan) example sett](/setts/s16/k4r4k40r40k4r4k4r4k32r4k4r4k4r40k40r4-k000000-rc80000/sett.png)|

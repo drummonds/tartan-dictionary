@@ -1,13 +1,20 @@
 ---
-title: "Melrose of Alabama (Corporate)"
+title: "Melrose of Alabama"
 date: 2023-03-18
 ---
 In pattern [KBRBKGY](/patterns/kbrbkgy/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4151/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2913
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Melrose of Alabama (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2913))
+- pre 2002 — Melrose of Alabama (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4151/))
 
 ## Thread count
 DY/8 G24 K24 DB24 DR8 DB24 K/24

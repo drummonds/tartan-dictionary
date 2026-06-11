@@ -18,8 +18,6 @@ GKGKBYBKGKGKG
 |---------------|
 | [Dewar's Highlander](/setts/s13/g56k6g7k6g7k35b45y6b45k35g45k6g6-b202060-g006818-k101010-ybc8c00/)|
 |![Dewar's Highlander example sett](/setts/s13/g56k6g7k6g7k35b45y6b45k35g45k6g6-b202060-g006818-k101010-ybc8c00/sett.png)|
-| [Dewars Highlander (Corporate)](/setts/s13/g56k6g7k6g7k35b45y6b45k35g45k6g6-b202060-g006818-k101010-ybc8c00/)|
-|![Dewars Highlander (Corporate) example sett](/setts/s13/g56k6g7k6g7k35b45y6b45k35g45k6g6-b202060-g006818-k101010-ybc8c00/sett.png)|
 | [Dewar, Highlander](/setts/s13/g46k5g6k5g6k30b38y6b38k30g36k6g6-b304080-g004010-k000000-yf0c000/)|
 |![Dewar, Highlander example sett](/setts/s13/g46k5g6k5g6k30b38y6b38k30g36k6g6-b304080-g004010-k000000-yf0c000/sett.png)|
 | [Dewar Highlander Corporate Tartan Tartan Number: 694. Earliest known date: 1987. Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g46k5g6k5g6k30b38y6b38k30g36k6g6-b202060-g003820-k101010-ye8c000/)|

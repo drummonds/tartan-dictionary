@@ -1,13 +1,20 @@
 ---
-title: "Wanstall (Name)"
+title: "Wanstall"
 date: 2023-03-18
 ---
 In pattern [BGBBGBGBBY](/patterns/bgbbgbgbby/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6099/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4490
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Wanstall (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4490))
+- Jan 2004 — Wanstall (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6099/))
 
 ## Thread count
 DR/24 DG8 DR16 DN6 DG6 DN6 DG16 DN24 DR76 DY/4

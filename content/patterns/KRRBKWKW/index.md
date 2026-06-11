@@ -20,5 +20,3 @@ KRRBKWKW
 |---------------|
 | [Lootens Jensen (Personal)](/setts/s8/w52k16w6k10b6r10ra6k8-b2c2c80-k101010-rc80000-ra888888-we0e0e0/)|
 |![Lootens Jensen (Personal) example sett](/setts/s8/w52k16w6k10b6r10ra6k8-b2c2c80-k101010-rc80000-ra888888-we0e0e0/sett.png)|
-| [Lootens Jensen (Personal)](/setts/s8/w52k16w6k10b6r10ra6k8-b2c2c80-k101010-rc80000-ra888888-we0e0e0/)|
-|![Lootens Jensen (Personal) example sett](/setts/s8/w52k16w6k10b6r10ra6k8-b2c2c80-k101010-rc80000-ra888888-we0e0e0/sett.png)|

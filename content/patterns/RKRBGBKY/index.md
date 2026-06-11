@@ -20,5 +20,3 @@ RKRBGBKY
 |---------------|
 | [Sandberg of Greenock (Personal)](/setts/s8/y12k48b4g20b48r4k8r4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
 |![Sandberg of Greenock (Personal) example sett](/setts/s8/y12k48b4g20b48r4k8r4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Sandberg of Greenock (Personal)](/setts/s8/y12k48b4g20b48r4k8r4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Sandberg of Greenock (Personal) example sett](/setts/s8/y12k48b4g20b48r4k8r4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|

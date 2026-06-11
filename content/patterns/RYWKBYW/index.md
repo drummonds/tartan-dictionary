@@ -20,5 +20,3 @@ RYWKBYW
 |---------------|
 | [Lachine Historic](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/)|
 |![Lachine Historic example sett](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/sett.png)|
-| [Lachine (Historic) (District)](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/)|
-|![Lachine (Historic) (District) example sett](/setts/s7/w52y52b52k40w28ya4r4-b4ca4d8-k101010-rc80000-wfcfcfc-y68c060-yae8c000/sett.png)|

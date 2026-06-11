@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1182
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — Fife, Duke Of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1182))
+- 1880 — Fife (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/790/))
+
 ## Thread count
 G/128 K24 G16 K32 R4 K/8
 ![Sett](sett.png)

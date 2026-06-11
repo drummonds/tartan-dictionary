@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4084
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Teallach (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4084))
+- Unknown — Teallach (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/832/))
+
 ## Thread count
 DY/8 DO48 T38 LN6 G46 N26 T6 Na26 T/6
 ![Sett](sett.png)

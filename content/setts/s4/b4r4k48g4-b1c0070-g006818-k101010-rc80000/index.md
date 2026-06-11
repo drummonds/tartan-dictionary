@@ -1,13 +1,20 @@
 ---
-title: "MacNathair Sgianach (Personal)"
+title: "MacNathair Sgianach"
 date: 2023-03-18
 ---
 In pattern [BRKG](/patterns/brkg/).
 
 
-This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5204
+Original link http://www.tartansauthority.com/tartan-ferret/display/3497/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacNathair Sgianach (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3497/))
+- undated — MacNathair Sgianach (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5204))
 
 ## Thread count
 DB/4 R4 K48 G/4

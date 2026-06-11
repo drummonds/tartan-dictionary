@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1980
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2006 — King (Austria) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1980))
+- 2006 May — King (Austria) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6939/))
+
 ## Thread count
 G/2 R70 G4 K4 Y4 G32 DB28 R4 LN/4
 ![Sett](sett.png)

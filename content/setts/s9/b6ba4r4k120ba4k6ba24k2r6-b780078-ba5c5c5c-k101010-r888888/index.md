@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10010/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Mar. 2009 — Grassi (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10010/))
+- undated — Grassi Personal Tartan Tartan Number: 10010. Earliest known date: Mar. 2009 Designed to commemorate the wedding of Benjamin Grassi and Lorraine Porter Vaughan on 3rd October 2009. The colours chosen match the bridal bouguet and the wedding venue decor. The Tartan was designed in collaboration with the happy couple and the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10010))
+
 ## Thread count
 Na/6 K2 N24 K6 N4 K120 Na4 N4 P/6
 ![Sett](sett.png)

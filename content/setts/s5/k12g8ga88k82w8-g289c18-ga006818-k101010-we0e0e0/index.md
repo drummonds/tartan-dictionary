@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Raeside (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437))
+- 2005 — Raeside (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6633/))
+
 ## Thread count
 K/12 Ga8 G88 K82 LN/8
 ![Sett](sett.png)

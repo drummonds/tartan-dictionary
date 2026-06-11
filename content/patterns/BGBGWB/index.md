@@ -20,5 +20,3 @@ BGBGWB
 |---------------|
 | [Loch Leven](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/)|
 |![Loch Leven example sett](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/sett.png)|
-| [Loch Leven (District)](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/)|
-|![Loch Leven (District) example sett](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/sett.png)|

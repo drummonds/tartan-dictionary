@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2233
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Louisiana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2233))
+- 2001 — Louisiana (District (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1945/))
+
 ## Thread count
 K/6 G6 N4 G22 K24 DB36 K4 N/6
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/6 G6 N4 G22 K24 DB36 K4 N/6 tartan")
 
 ID: /setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/
-c8c8/

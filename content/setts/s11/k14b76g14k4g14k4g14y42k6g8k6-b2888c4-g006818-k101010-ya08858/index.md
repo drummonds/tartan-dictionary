@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3862/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1999 — Chakraa (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3862/))
+- undated — Chakraa (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5242))
+
 ## Thread count
 K/14 B76 G14 K4 G14 K4 G14 LT42 K6 G8 K/6
 ![Sett](sett.png)

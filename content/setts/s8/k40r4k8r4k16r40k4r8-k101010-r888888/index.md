@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — Douglas, Grey (Vestiarium Scoticum) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957))
+- 1842 — Douglas, Grey (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1127/))
+
 ## Thread count
 K/40 N4 K8 N4 K16 N40 K4 N/8
 ![Sett](sett.png)

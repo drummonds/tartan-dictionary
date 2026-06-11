@@ -22,8 +22,6 @@ BWRBRBW
 |![Coronation example sett](/setts/s7/b14w2r14b8r4b8w4-b2c4084-rdc0000-we0e0e0/sett.png)|
 | [Coronation (1936) #2](/setts/s7/b44w4r48b24r4b24w4-b2c2c80-rc80000-wfcfcfc/)|
 |![Coronation (1936) #2 example sett](/setts/s7/b44w4r48b24r4b24w4-b2c2c80-rc80000-wfcfcfc/sett.png)|
-| [Coronation (1936) #2 (Commemorative)](/setts/s7/b44w4r48b24r4b24w4-b2c2c80-rc80000-wfcfcfc/)|
-|![Coronation (1936) #2 (Commemorative) example sett](/setts/s7/b44w4r48b24r4b24w4-b2c2c80-rc80000-wfcfcfc/sett.png)|
 | [Coronation](/setts/s7/b22w2r24b12r2b12w2-b304080-rc00000-we0e0e0/)|
 |![Coronation example sett](/setts/s7/b22w2r24b12r2b12w2-b304080-rc00000-we0e0e0/sett.png)|
 | [Coronation](/setts/s7/b14w2r14b8r4b8w4-b000050-rc00000-we0e0e0/)|

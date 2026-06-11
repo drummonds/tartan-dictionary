@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3935
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Stewart of Appin Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3935))
+- pre 2002 — Stewart of Appin Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5181/))
+
 ## Thread count
 DG/4 W4 LB4 K4 W46 DG4 R4 DP14 R4 DG4 R6 DG40 R4 LB4 K4 R/6
 ![Sett](sett.png)

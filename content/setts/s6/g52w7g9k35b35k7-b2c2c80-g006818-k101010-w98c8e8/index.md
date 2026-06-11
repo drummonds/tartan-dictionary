@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3482
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Redland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3482))
+- pre 2003 — Redland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6070/))
+
 ## Thread count
 G/52 LB7 G9 K35 DB35 K/7
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "G/52 LB7 G9 K35 DB35 K/7 tartan")
 
 ID: /setts/s6/g52w7g9k35b35k7-b2c2c80-g006818-k101010-w98c8e8/
-98c8e8/

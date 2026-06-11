@@ -1,13 +1,20 @@
 ---
-title: "Cochrane (Clan)"
+title: "Cochrane"
 date: 2023-03-18
 ---
 In pattern [GRGRGRGRGKRBRBY](/patterns/grgrgrgrgkrbrby/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/994/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=695
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Cochrane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=695))
+- pre 1984 — Cochrane (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/994/))
 
 ## Thread count
 G/68 R8 G6 R4 G8 R4 G6 R8 G34 K34 R4 DB34 R8 DB8 Y/6

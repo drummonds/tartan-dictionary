@@ -1,13 +1,21 @@
 ---
-title: "Fitzpatrick Htg (Name)"
+title: "Fitzpatrick Hunting"
 date: 2023-03-18
 ---
 In pattern [GKBKGYGYG](/patterns/gkbkgygyg/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/766/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Fitzpatrick Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200))
+- pre 2002 — Fitzpatrick Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/766/))
+- undated — Fitzpatrick Irish Family Tartan Tartan Number: 766. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=766))
 
 ## Thread count
 G/4 K32 DB4 K32 G32 Y8 G12 Y4 G/20
@@ -24,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/
-/

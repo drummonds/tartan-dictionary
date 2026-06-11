@@ -1,13 +1,20 @@
 ---
-title: "Innes (of Moray) Clan Tartan Tartan Number: 361. Earliest known date: 1938 D C Stewart says, \"Within recent years this sett has been accepted as the tartan appropriate to the Inneses of the Moray district..\" Sir Thomas Innes of Learney was Lord Lyon, King of Arms, 1945 - 69. His younger son, Malcolm Innes of Edingight, became Lord Lyon in 1981. This sett is included in the 'Tartans of the Clans and Families of Scotland' (1938) prior to Sir Thomas's appointment. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Innes (Seven colours) (Clan)"
 date: 2023-03-18
 ---
 In pattern [BKRKRKRYRBRKGKRW](/patterns/bkrkrkryrbrkgkrw/).
 
 
-This was sourced from house-of-tartan.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=361
+Original link http://www.tartansauthority.com/tartan-ferret/display/361/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1938 — Innes (Seven colours) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/361/))
+- undated — Innes (of Moray) Clan Tartan Tartan Number: 361. Earliest known date: 1938 D C Stewart says, "Within recent years this sett has been accepted as the tartan appropriate to the Inneses of the Moray district.." Sir Thomas Innes of Learney was Lord Lyon, King of Arms, 1945 - 69. His younger son, Malcolm Innes of Edingight, became Lord Lyon in 1981. This sett is included in the 'Tartans of the Clans and Families of Scotland' (1938) prior to Sir Thomas's appointment. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=361))
 
 ## Thread count
 B/7 K24 R4 K4 R4 K4 R24 Y4 R6 DB12 R6 K4 G20 K4 R6 LN/4

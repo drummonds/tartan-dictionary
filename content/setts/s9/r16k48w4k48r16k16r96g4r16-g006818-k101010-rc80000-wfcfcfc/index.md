@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4600
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — Wemyss (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4600))
+- 1842 — Wemyss (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1512/))
+
 ## Thread count
 R/16 G4 R96 K16 R16 K48 W4 K48 R/16
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from house-of-tartan.  It is a [7 stripes tartan](/stripes/stri
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1608
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacKeane (MacIan) Clan Tartan Tartan Number: 1608. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1608))
+- undated — MacDonald of Ardnamurchan Clan Tartan Tartan Number: 3211. Earliest known date: pre 2003 This entry duplicates the MacKean tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3211))
+
 ## Thread count
 R/8 K16 R8 K16 R24 K2 Y/4
 ![Sett](sett.png)

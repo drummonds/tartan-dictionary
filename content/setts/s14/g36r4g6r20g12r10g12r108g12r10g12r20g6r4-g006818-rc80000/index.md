@@ -1,13 +1,20 @@
 ---
-title: "Kyle (Green) Family Tartan Tartan Number: 3615. Earliest known date: 1940 Peter MacDonald states that green is the correct colour. The name Kyle or Kile is associated with the Carrick district in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Kyle (Green)"
 date: 2023-03-18
 ---
 In pattern [GRGRGRGRGRGRGR](/patterns/grgrgrgrgrgrgr/).
 
 
-This was sourced from house-of-tartan.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3615
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4996
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Kyle (Green) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4996))
+- undated — Kyle (Green) Family Tartan Tartan Number: 3615. Earliest known date: 1940 Peter MacDonald states that green is the correct colour. The name Kyle or Kile is associated with the Carrick district in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3615))
 
 ## Thread count
 G/36 R4 G6 R20 G12 R10 G12 R108 G12 R10 G12 R20 G6 R/4

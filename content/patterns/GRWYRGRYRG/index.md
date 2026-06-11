@@ -18,5 +18,3 @@ GRWYRGRYRG
 |---------------|
 | [Glendronach Distillery](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/)|
 |![Glendronach Distillery example sett](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/sett.png)|
-| [Glendronach Distillery (Corporate)](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/)|
-|![Glendronach Distillery (Corporate) example sett](/setts/s10/g88r8w4y12r4g24r88y12r4g40-g103010-r70000c-wc4c4c4-yfcac00/sett.png)|

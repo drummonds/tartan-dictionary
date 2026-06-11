@@ -18,8 +18,6 @@ KBRBKGRBK
 |---------------|
 | [MacNaughton (Logan) #2](/setts/s9/k4b4r52g50k26b26r52b4k4-b2c2c80-g285800-k101010-rfc3800/)|
 |![MacNaughton (Logan) #2 example sett](/setts/s9/k4b4r52g50k26b26r52b4k4-b2c2c80-g285800-k101010-rfc3800/sett.png)|
-| [MacNaughton (Clan)](/setts/s9/k4b4r52g50k26b26r52b4k4-b2c2c80-g285800-k101010-rfc3800/)|
-|![MacNaughton (Clan) example sett](/setts/s9/k4b4r52g50k26b26r52b4k4-b2c2c80-g285800-k101010-rfc3800/sett.png)|
 | [MacNaughton](/setts/s9/k2b2r32g32k24b16r32b2k2-b304080-g008000-k000000-rc00000/)|
 |![MacNaughton example sett](/setts/s9/k2b2r32g32k24b16r32b2k2-b304080-g008000-k000000-rc00000/sett.png)|
 | [MacNaughten](/setts/s9/k2b2r32g32k24b16r32b2k2-b4367ae-g11450d-k000000-raa0000/)|

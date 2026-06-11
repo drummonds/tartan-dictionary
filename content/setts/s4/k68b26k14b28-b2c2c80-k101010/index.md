@@ -1,13 +1,20 @@
 ---
-title: "Auchincloss (Name)"
+title: "Auchincloss (Personal)"
 date: 2023-03-18
 ---
 In pattern [BKBK](/patterns/bkbk/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6859/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/2004 — Auchincloss (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082))
+- July 2004 — Auchincloss (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6859/))
 
 ## Thread count
 DB/28 K14 DB26 K/68

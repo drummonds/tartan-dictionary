@@ -18,5 +18,3 @@ WBWBWKGWGKBKBKBKGYGKWBWBW
 |---------------|
 | [Campbell Dress](/setts/s25/w8b4w32b8w6k16g16w4g16k16b16k4b8k4b16k16g16y4g16k16w6b8w32b4w8-b1474b4-g004c00-k000000-wfcfcfc-ye8c000/)|
 |![Campbell Dress example sett](/setts/s25/w8b4w32b8w6k16g16w4g16k16b16k4b8k4b16k16g16y4g16k16w6b8w32b4w8-b1474b4-g004c00-k000000-wfcfcfc-ye8c000/sett.png)|
-| [Campbell Dress (Clan)](/setts/s25/w8b4w32b8w6k16g16w4g16k16b16k4b8k4b16k16g16y4g16k16w6b8w32b4w8-b1474b4-g004c00-k000000-wfcfcfc-ye8c000/)|
-|![Campbell Dress (Clan) example sett](/setts/s25/w8b4w32b8w6k16g16w4g16k16b16k4b8k4b16k16g16y4g16k16w6b8w32b4w8-b1474b4-g004c00-k000000-wfcfcfc-ye8c000/sett.png)|

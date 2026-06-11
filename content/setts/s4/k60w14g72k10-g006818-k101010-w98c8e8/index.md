@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 19/04/1969 — Innes Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831))
+- pre 1969 — Innes Htg (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/368/))
+
 ## Thread count
 K/10 G72 LB14 K/60
 ![Sett](sett.png)

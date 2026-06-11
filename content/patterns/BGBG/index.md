@@ -28,16 +28,12 @@ BGBG
 |![Wilson's No.116 example sett](/setts/s4/g16b16g4b4-b440044-g003820/sett.png)|
 | [Wilson's No.209](/setts/s4/g8b10g8ba4-b440044-ba2888c4-g006818/)|
 |![Wilson's No.209 example sett](/setts/s4/g8b10g8ba4-b440044-ba2888c4-g006818/sett.png)|
-| [Wilson's No.211](/setts/s4/g16b16g4b4-b440044-g003820/)|
-|![Wilson's No.211 example sett](/setts/s4/g16b16g4b4-b440044-g003820/sett.png)|
-| [Baker City (Estimated threadcount)](/setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/)|
-|![Baker City (Estimated threadcount) example sett](/setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/sett.png)|
+| [Baker City (District)](/setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/)|
+|![Baker City (District) example sett](/setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/sett.png)|
 | [Montgomery - 1842 (VS](/setts/s4/g48b16g8b16-b2c2c80-g006818/)|
 |![Montgomery - 1842 (VS example sett](/setts/s4/g48b16g8b16-b2c2c80-g006818/sett.png)|
 | [Elphinstone Check (Clan)](/setts/s4/g120b40g20b40-b440044-g006818/)|
 |![Elphinstone Check (Clan) example sett](/setts/s4/g120b40g20b40-b440044-g006818/sett.png)|
-| [Baker City (District)](/setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/)|
-|![Baker City (District) example sett](/setts/s4/g16b40ga40b4-b5c8ca8-g005044-ga2c6464/sett.png)|
 | [Elphinstone](/setts/s4/g24b6g2b6-b800080-g008000/)|
 |![Elphinstone example sett](/setts/s4/g24b6g2b6-b800080-g008000/sett.png)|
 | [Montgomerie](/setts/s4/g24b6g2b6-b304080-g008000/)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1101
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/11/2006 — Ellenee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1101))
+- November 2006 — Ellene (Personal)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7050/))
+
 ## Thread count
 K/18 DR6 K6 N22 K6 G22 K6 G6 K6 G22 K6 N22 K6 DR6 K18 DR6 K6 G22 K6 N22 K6 N/6
 ![Sett](sett.png)

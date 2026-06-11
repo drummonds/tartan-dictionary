@@ -18,7 +18,5 @@ RKBKGY
 
 | Tartans |
 |---------------|
-| [Loudoun's Highlanders](/setts/s6/r8k4b48k40g40y6-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Loudoun's Highlanders example sett](/setts/s6/r8k4b48k40g40y6-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
 | [Loudoun's Highlanders - 1747 #1 (Mil](/setts/s6/r8k4b48k40g40y6-b1c0070-g006818-k101010-r880000-yd09800/)|
 |![Loudoun's Highlanders - 1747 #1 (Mil example sett](/setts/s6/r8k4b48k40g40y6-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|

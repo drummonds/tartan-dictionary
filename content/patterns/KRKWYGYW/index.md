@@ -20,5 +20,3 @@ KRKWYGYW
 |---------------|
 | [Dunlop Hunting](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/)|
 |![Dunlop Hunting example sett](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/sett.png)|
-| [Dunlop, Htg (Clan)](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/)|
-|![Dunlop, Htg (Clan) example sett](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/sett.png)|

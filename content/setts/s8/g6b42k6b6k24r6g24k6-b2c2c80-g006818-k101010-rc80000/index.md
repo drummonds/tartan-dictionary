@@ -1,13 +1,20 @@
 ---
-title: "Brabender (Name)"
+title: "Brabender"
 date: 2023-03-18
 ---
 In pattern [GBKBKRGK](/patterns/gbkbkrgk/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2639/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=329
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 03/02/1999 — Brabender (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=329))
+- February 1999 — Brabender (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2639/))
 
 ## Thread count
 G/6 DB42 K6 DB6 K24 R6 G24 K/6

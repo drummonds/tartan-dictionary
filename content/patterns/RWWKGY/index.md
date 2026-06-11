@@ -20,5 +20,3 @@ RWWKGY
 |---------------|
 | [Ball Hunting](/setts/s6/y52g32k20w12wa8r4-g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c/)|
 |![Ball Hunting example sett](/setts/s6/y52g32k20w12wa8r4-g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c/sett.png)|
-| [Ball Htg (Name)](/setts/s6/y52g32k20w12wa8r4-g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c/)|
-|![Ball Htg (Name) example sett](/setts/s6/y52g32k20w12wa8r4-g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c/sett.png)|

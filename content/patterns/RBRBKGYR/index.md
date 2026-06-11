@@ -18,7 +18,5 @@ RBRBKGYR
 
 | Tartans |
 |---------------|
-| [MacDonald of Borrodale](/setts/s8/r12b6r6b64k60g60y6r6-b2c2c80-g006818-k000000-rc80000-ye8c000/)|
-|![MacDonald of Borrodale example sett](/setts/s8/r12b6r6b64k60g60y6r6-b2c2c80-g006818-k000000-rc80000-ye8c000/sett.png)|
 | [MacDonald of Borrodale (Clan)](/setts/s8/r12b6r6b64k60g60y6r6-b2c2c80-g006818-k000000-rc80000-ye8c000/)|
 |![MacDonald of Borrodale (Clan) example sett](/setts/s8/r12b6r6b64k60g60y6r6-b2c2c80-g006818-k000000-rc80000-ye8c000/sett.png)|

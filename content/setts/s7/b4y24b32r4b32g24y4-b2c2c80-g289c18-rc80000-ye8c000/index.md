@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7659/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- August 2008 — Hill of Banchory Primary (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7659/))
+- undated — Hill of Banchory Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5666))
+
 ## Thread count
 DB/4 Y24 DB32 R4 DB32 G24 Y/4
 ![Sett](sett.png)
@@ -26,12 +33,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 # Sample pattern
 
 ![Tartan detail](tartan.png "DB/4 Y24 DB32 R4 DB32 G24 Y/4 tartan")
-
-ID: /setts/s7/b4y24b32r4b32g24y4-b2c2c80-g289c18-rc80000-ye8c000/
- | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
-
-# Sample pattern
-
-![Tartan detail](tartan.png "DB/4 Y24 DB32 R4 DB32 Ga24 Y/4 tartan")
 
 ID: /setts/s7/b4y24b32r4b32g24y4-b2c2c80-g289c18-rc80000-ye8c000/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=399
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1797 — Bruce (Vestiarium) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=399))
+- 1797 — Bruce (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1848/))
+
 ## Thread count
 LN/4 R32 G8 R8 G24 R4 G24 R8 G8 R32 Y/4
 ![Sett](sett.png)

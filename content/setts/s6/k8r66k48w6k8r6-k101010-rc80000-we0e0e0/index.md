@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2985
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1996 — Monmouth College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2985))
+- June 1996 — Monmouth College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5672/))
+
 ## Thread count
 K/8 R66 K48 LN6 K8 R/6
 ![Sett](sett.png)

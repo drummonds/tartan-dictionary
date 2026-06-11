@@ -20,7 +20,6 @@ Tartan setts with 2 stripes, grouped by colour-sequence pattern. Each variant is
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.08 | [Hafren (Personal)](/setts/s2/b130g130-b4c6878-g006818/) | register-of-tartans |
-| 0.08 | [Hafren (Personal)](/setts/s2/b130g130-b4c6878-g006818/) | tartans-authority |
 | 0.13 | [Wilson's, No 116](/setts/s2/b16g16-b800080-g008000/) | weddslist |
 | 0.13 | [Wilson's No.210](/setts/s2/g14b12-b2888c4-g006818/) | register-of-tartans |
 | 0.13 | [Wilson's No.116 (light)](/setts/s2/g18b16-b440044-g5c6428/) | register-of-tartans |
@@ -56,7 +55,6 @@ Tartan setts with 2 stripes, grouped by colour-sequence pattern. Each variant is
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Sillitoe (Corporate)](/setts/s2/b20w20-b2c2c80-wf8f8f8/) | tartans-authority |
 | 0.08 | [Sillitoe](/setts/s2/b20w20-b2c2c80-wf8f8f8/) | register-of-tartans |
 
 ### GG
@@ -92,7 +90,6 @@ Tartan setts with 2 stripes, grouped by colour-sequence pattern. Each variant is
 | 0.05 | [Wilson's, No 134](/setts/s2/r42g14-g008000-rc00000/) | weddslist |
 | 0.06 | [Glenlyon (District)](/setts/s2/g80r80-g005020-rdc0000/) | register-of-tartans |
 | 0.08 | [Moncreiffe](/setts/s2/g2r2-g11450d-raa0000/) | weddslist |
-| 0.08 | [Moncreiffe](/setts/s2/g2r2-g11450d-raa0000/) | weddslist |
 | 0.24 | [Une Energie Nouvelle (Corporate) XXX](/setts/s2/g2r2-g789484-rec34c4/) | tartans-authority |
 
 ### GW
@@ -119,7 +116,6 @@ Tartan setts with 2 stripes, grouped by colour-sequence pattern. Each variant is
 | 0.09 | [Rob Roy Macgregor](/setts/s2/k172r172-k101010-rc80000/) | register-of-tartans |
 | 0.09 | [St Kilda](/setts/s2/k144r36-k101010-rc80000/) | register-of-tartans |
 | 0.09 | [St Kilda District Tartan Tartan Number: 1189. Earliest known date: pre 2003 Reconstructed by Dr Phil Smith from a fragment in the Royal Museum of Antiquities late of Queen Street, Edinburgh. Sample in Glasgow City Museum. No other details. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/k24r6-k101010-rc80000/) | house-of-tartan |
-| 0.09 | [St. Kilda (District)](/setts/s2/k144r36-k101010-rc80000/) | tartans-authority |
 | 0.09 | [Wilson's No.234](/setts/s2/r16k6-k101010-rc80000/) | register-of-tartans |
 
 ### KW
@@ -133,7 +129,6 @@ Tartan setts with 2 stripes, grouped by colour-sequence pattern. Each variant is
 | 0.12 | [Shepherd Check (Universal)](/setts/s2/k6w6-k101010-we0e0e0/) | tartans-authority |
 | 0.12 | [Shepherd Historic Tartan Tartan Number: 1253. Earliest known date: 250 A.D. The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/k15w15-k101010-we0e0e0/) | house-of-tartan |
 | 0.14 | [Falkirk Tartan](/setts/s2/k24w24-k1e160e-we8dcc0/) | research |
-| 0.17 | [Joy's Fancy, Allen (Personal)](/setts/s2/k180w12-k101010-wc0c0c0/) | register-of-tartans |
 | 0.17 | [Joy's Fancy, Allen (Personal)](/setts/s2/k180w12-k101010-wc0c0c0/) | tartans-authority |
 
 ### KY
@@ -143,7 +138,6 @@ Tartan setts with 2 stripes, grouped by colour-sequence pattern. Each variant is
 |---|---|---|
 | 0.09 | [Justus Check (Personal)](/setts/s2/k40y40-k101010-ye8c000/) | register-of-tartans |
 | 0.09 | [Justus Check (Personal)](/setts/s2/k50y50-k101010-ye8c000/) | tartans-authority |
-| 0.09 | [Shepherd](/setts/s2/k1y1-k000000-yaaaaaa/) | weddslist |
 | 0.09 | [Shepherd](/setts/s2/k1y1-k000000-yaaaaaa/) | weddslist |
 
 ### RW
@@ -156,7 +150,6 @@ Tartan setts with 2 stripes, grouped by colour-sequence pattern. Each variant is
 | 0.04 | [MacMedic](/setts/s2/r40w40-rc00020-we0e0e0/) | weddslist |
 | 0.04 | [McMedic (Fashion)](/setts/s2/r40w40-rc8002c-we0e0e0/) | tartans-authority |
 | 0.05 | [Spare](/setts/s2/r5w5-rdc0000-we0e0e0/) | register-of-tartans |
-| 0.05 | [Spare #2](/setts/s2/r5w5-rdc0000-we0e0e0/) | register-of-tartans |
 
 ### RY
 <a class="pat" href="/patterns/ry/"><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">RY</span></a>

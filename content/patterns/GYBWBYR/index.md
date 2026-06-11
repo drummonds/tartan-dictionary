@@ -18,7 +18,5 @@ GYBWBYR
 
 | Tartans |
 |---------------|
-| [Ontario, Northern](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/)|
-|![Ontario, Northern example sett](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/sett.png)|
 | [Northern Ontario (District)](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/)|
 |![Northern Ontario (District) example sett](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/sett.png)|

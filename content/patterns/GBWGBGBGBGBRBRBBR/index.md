@@ -18,5 +18,3 @@ GBWGBGBGBGBRBRBBR
 |---------------|
 | [Queensferry](/setts/s17/g12b4w2g18ba4g14ba8g8ba14g4ba40r2ba4r2bb6ba6r6-b5c5c5c-ba14283c-bb4c0000-g003820-r880000-wc0c0c0/)|
 |![Queensferry example sett](/setts/s17/g12b4w2g18ba4g14ba8g8ba14g4ba40r2ba4r2bb6ba6r6-b5c5c5c-ba14283c-bb4c0000-g003820-r880000-wc0c0c0/sett.png)|
-| [Queensferry (District)](/setts/s17/g12b4w2g18ba4g14ba8g8ba14g4ba40r2ba4r2bb6ba6r6-b5c5c5c-ba14283c-bb4c0000-g003820-r880000-wc0c0c0/)|
-|![Queensferry (District) example sett](/setts/s17/g12b4w2g18ba4g14ba8g8ba14g4ba40r2ba4r2bb6ba6r6-b5c5c5c-ba14283c-bb4c0000-g003820-r880000-wc0c0c0/sett.png)|

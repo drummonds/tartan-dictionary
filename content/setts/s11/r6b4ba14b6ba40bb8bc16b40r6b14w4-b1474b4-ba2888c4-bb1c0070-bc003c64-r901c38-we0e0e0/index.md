@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3586
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Royal Air Force (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3586))
+- 1989, July — Royal Air Force (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2123/))
+
 ## Thread count
 DR/6 B4 Ba14 B6 Ba40 DBa8 DB16 B40 DR6 B14 LN/4
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 ID: /setts/s11/r6b4ba14b6ba40bb8bc16b40r6b14w4-b1474b4-ba2888c4-bb1c0070-bc003c64-r901c38-we0e0e0/
-we0e0e0/

@@ -16,7 +16,5 @@ WBGBBBGBRBGY
 
 | Tartans |
 |---------------|
-| [Mayo County, Crest Range](/setts/s12/y18g14b6r56b8g14b10ba8b10ga14b6w12-b2c2c80-ba2888c4-g5c6428-ga006818-rc80000-we0e0e0-ye8c000/)|
-|![Mayo County, Crest Range example sett](/setts/s12/y18g14b6r56b8g14b10ba8b10ga14b6w12-b2c2c80-ba2888c4-g5c6428-ga006818-rc80000-we0e0e0-ye8c000/sett.png)|
 | [Mayo County Crest (Fashion)](/setts/s12/y18g14b6r56b8g14b10ba8b10ga14b6w12-b2c2c80-ba2888c4-g5c6428-ga006818-rc80000-we0e0e0-ye8c000/)|
 |![Mayo County Crest (Fashion) example sett](/setts/s12/y18g14b6r56b8g14b10ba8b10ga14b6w12-b2c2c80-ba2888c4-g5c6428-ga006818-rc80000-we0e0e0-ye8c000/sett.png)|

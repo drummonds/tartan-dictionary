@@ -20,5 +20,3 @@ KRKRBRY
 |---------------|
 | [Cunningham](/setts/s7/k6r2k60r56b2r2y6-b000052-k000000-raa0000-yaaaaaa/)|
 |![Cunningham example sett](/setts/s7/k6r2k60r56b2r2y6-b000052-k000000-raa0000-yaaaaaa/sett.png)|
-| [Cunningham](/setts/s7/k6r2k60r56b2r2y6-b000052-k000000-raa0000-yaaaaaa/)|
-|![Cunningham example sett](/setts/s7/k6r2k60r56b2r2y6-b000052-k000000-raa0000-yaaaaaa/sett.png)|

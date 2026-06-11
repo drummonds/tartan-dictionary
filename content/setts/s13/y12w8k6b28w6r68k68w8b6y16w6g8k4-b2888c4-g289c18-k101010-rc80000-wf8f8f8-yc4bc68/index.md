@@ -1,13 +1,20 @@
 ---
-title: "Nazarian (Name)"
+title: "Mazarian"
 date: 2023-03-18
 ---
 In pattern [KGWYBWKRWBKWY](/patterns/kgwybwkrwbkwy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6728/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Mazarian (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868))
+- pre 2005 — Nazarian (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6728/))
 
 ## Thread count
 K/4 G8 W6 LG16 B6 W8 K68 R68 W6 B28 K6 W8 LG/12

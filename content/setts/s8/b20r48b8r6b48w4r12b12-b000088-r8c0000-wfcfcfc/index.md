@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1972 — Embrace, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108))
+- 1972 — Embrace (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4811/))
+
 ## Thread count
 DB/20 DR48 DB8 DR6 DB48 W4 DR12 DB/12
 ![Sett](sett.png)

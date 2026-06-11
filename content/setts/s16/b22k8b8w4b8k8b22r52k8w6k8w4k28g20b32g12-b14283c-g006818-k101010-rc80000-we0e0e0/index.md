@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4031
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Stuart-Houghton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4031))
+- 2001 — Stuart-Houghton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5843/))
+
 ## Thread count
 DN/22 K8 DN8 LN4 DN8 K8 DN22 R52 K8 LN6 K8 LN4 K28 G20 DN32 G/12
 ![Sett](sett.png)

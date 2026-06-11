@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2031
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1985 — Laksaa (Manx) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2031))
+- pre 1985 — Laksaa (Manx) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1233/))
+
 ## Thread count
 K/6 LN32 K32 N4 K4 N4 K4 N/44
 ![Sett](sett.png)

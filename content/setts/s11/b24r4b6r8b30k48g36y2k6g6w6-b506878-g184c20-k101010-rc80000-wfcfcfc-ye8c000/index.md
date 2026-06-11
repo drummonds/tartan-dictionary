@@ -5,12 +5,19 @@ date: 2023-03-18
 In pattern [BRBRBKGYKGW](/patterns/brbrbkgykgw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6197/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1552
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2000 — Groen (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1552))
+- Sep. 2000 — Groen (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6197/))
 
 ## Thread count
-N/24 R4 N6 R8 N30 K48 G36 Y2 K6 G6 W/6
+N/24 R4 N6 R8 N30 K48 Ga36 Y2 K6 Ga6 W/6
 ![Sett](sett.png)
 
 ## Palette
@@ -18,7 +25,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| G | <code style="background-color:#184C20;"><span style="color:#184C20;filter:grayscale(1) invert(1) contrast(100);">#184C20</span></code> `#184C20` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.09 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.18 |
+| Ga | <code style="background-color:#184C20;"><span style="color:#184C20;filter:grayscale(1) invert(1) contrast(100);">#184C20</span></code> `#184C20` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.09 |
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | N | <code style="background-color:#506878;"><span style="color:#506878;filter:grayscale(1) invert(1) contrast(100);">#506878</span></code> `#506878` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |

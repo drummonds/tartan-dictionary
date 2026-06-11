@@ -20,5 +20,3 @@ KGGRKR
 |---------------|
 | [MacPhail](/setts/s6/r100k28r12g52ga4k8-g006818-ga789484-k101010-rc80000/)|
 |![MacPhail example sett](/setts/s6/r100k28r12g52ga4k8-g006818-ga789484-k101010-rc80000/sett.png)|
-| [MacPhail (Clan)](/setts/s6/r100k28r12g52ga4k8-g006818-ga789484-k101010-rc80000/)|
-|![MacPhail (Clan) example sett](/setts/s6/r100k28r12g52ga4k8-g006818-ga789484-k101010-rc80000/sett.png)|

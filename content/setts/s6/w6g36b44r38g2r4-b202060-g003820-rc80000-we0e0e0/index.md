@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [RGRBGW](/patterns/rgrbgw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2338/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1997 — Nibley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134))
+- 1997 Feb — Nibley (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2338/))
 
 ## Thread count
 LN/6 DG36 DB44 R38 DG2 R/4

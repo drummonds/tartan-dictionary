@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3133
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2007 — Niagara Region (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3133))
+- February 2007 — Niagara Region (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7110/))
+
 ## Thread count
 LN/8 DB4 LN4 DB56 DBa8 DB4 DBa4 R2 DB26 R2 DG26 R/4
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s12/w8k4w4k56b8k4b4r2k26r2g26r4-b1c4c60-g003c28-k00002c-rc80000-we0e0e0/
-0e0e0/

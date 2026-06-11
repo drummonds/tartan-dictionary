@@ -20,5 +20,3 @@ BGBKBKBK
 |---------------|
 | [Martin's Own](/setts/s8/k40b4k8b4k16b40g4b8-b5c8ca8-g289c18-k101010/)|
 |![Martin's Own example sett](/setts/s8/k40b4k8b4k16b40g4b8-b5c8ca8-g289c18-k101010/sett.png)|
-| [Martin's Own (Personal)](/setts/s8/k40b4k8b4k16b40g4b8-b5c8ca8-g289c18-k101010/)|
-|![Martin's Own (Personal) example sett](/setts/s8/k40b4k8b4k16b40g4b8-b5c8ca8-g289c18-k101010/sett.png)|

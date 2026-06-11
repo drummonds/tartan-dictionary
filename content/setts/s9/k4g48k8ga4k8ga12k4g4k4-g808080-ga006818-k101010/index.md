@@ -1,13 +1,20 @@
 ---
-title: "Glen Carron"
+title: "Glen Carron (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KGKGKGKGK](/patterns/kgkgkgkgk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5255
+Original link http://www.tartansauthority.com/tartan-ferret/display/3851/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1983 — Glen Carron (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3851/))
+- undated — Glen Carron (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5255))
 
 ## Thread count
 K/4 N4 K4 G12 K8 G4 K8 N48 K/4
@@ -23,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> `#808080` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.22 |
 
 ID: /setts/s9/k4g48k8ga4k8ga12k4g4k4-g808080-ga006818-k101010/
-1010/

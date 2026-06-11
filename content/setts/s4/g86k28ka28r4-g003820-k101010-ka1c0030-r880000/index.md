@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3879
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2000 — Feddinch Club, St Andrews Limited, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3879))
+- Feb. 2000 — Feddinch Club, St Andrews (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2687/))
+
 ## Thread count
 DG/86 K28 Ka28 DR/4
 ![Sett](sett.png)

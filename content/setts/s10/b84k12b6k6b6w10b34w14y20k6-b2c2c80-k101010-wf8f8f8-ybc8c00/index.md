@@ -1,13 +1,20 @@
 ---
-title: "California Riverside, Uni. (Corp)"
+title: "California Riverside, University of (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BKBKBWBWYK](/patterns/bkbkbwbwyk/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6705/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=481
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 29/01/2001 — California Riverside, University of (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=481))
+- pre 2005 — California Riverside, Uni. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6705/))
 
 ## Thread count
 DB/84 K12 DB6 K6 DB6 W10 DB34 W14 DY20 K/6
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
 ID: /setts/s10/b84k12b6k6b6w10b34w14y20k6-b2c2c80-k101010-wf8f8f8-ybc8c00/
-wf8f8f8-ybc8c00/

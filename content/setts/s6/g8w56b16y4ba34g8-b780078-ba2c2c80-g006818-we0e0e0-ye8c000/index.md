@@ -1,13 +1,20 @@
 ---
-title: "Manx Dress District Tartan Tartan Number: 748. Earliest known date: 1984. Sample loaned by Dr. D.G. Teall in 1985 See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Manx Dress"
 date: 2023-03-18
 ---
 In pattern [GBYBWG](/patterns/gbybwg/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=748
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2814
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1981 — Manx Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2814))
+- undated — Manx Dress District Tartan Tartan Number: 748. Earliest known date: 1984. Sample loaned by Dr. D.G. Teall in 1985 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=748))
 
 ## Thread count
 G/8 DB34 Y4 P16 LN56 G/8

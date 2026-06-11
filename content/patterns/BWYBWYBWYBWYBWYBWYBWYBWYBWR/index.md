@@ -18,5 +18,3 @@ BWYBWYBWYBWYBWYBWYBWYBWYBWR
 |---------------|
 | [Glenmoidart](/setts/s27/b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6r4-b502814-rc80000-wf8f8f8-ya08858/)|
 |![Glenmoidart example sett](/setts/s27/b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6r4-b502814-rc80000-wf8f8f8-ya08858/sett.png)|
-| [Glenmoidart (Estate Check)](/setts/s27/b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6r4-b502814-rc80000-wf8f8f8-ya08858/)|
-|![Glenmoidart (Estate Check) example sett](/setts/s27/b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6y4b4w6r4-b502814-rc80000-wf8f8f8-ya08858/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3512
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2001 — Rikaco Morning Dew #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3512))
+- Dec 2001 — Rikaco Morning Dew 2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6392/))
+
 ## Thread count
 N/6 LB6 N2 LG50 N30 LR10 LB8 Y/4
 ![Sett](sett.png)

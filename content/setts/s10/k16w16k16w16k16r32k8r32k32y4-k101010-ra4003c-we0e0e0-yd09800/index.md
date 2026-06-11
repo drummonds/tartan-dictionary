@@ -1,13 +1,20 @@
 ---
-title: "Little of Morton Rigg (Clan)"
+title: "Little of Morton Rigg"
 date: 2023-03-18
 ---
 In pattern [KWKWKRKRKY](/patterns/kwkwkrkrky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2349/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1991 — Little of Morton Rigg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127))
+- 1991 — Little of Morton Rigg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2349/))
 
 ## Thread count
 DY/4 K32 R32 K8 R32 K16 LN16 K16 LN16 K/16

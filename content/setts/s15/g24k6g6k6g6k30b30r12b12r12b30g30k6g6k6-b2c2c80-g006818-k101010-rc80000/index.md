@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2588
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacLachlan Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2588))
+- pre 2002 — MacLachlan Htg - 2002 (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/775/))
+
 ## Thread count
 G/24 K6 G6 K6 G6 K30 DB30 R12 DB12 R12 DB30 G30 K6 G6 K/6
 ![Sett](sett.png)

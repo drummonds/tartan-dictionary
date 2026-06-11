@@ -1,13 +1,21 @@
 ---
-title: "Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Matthews (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRBRBW](/patterns/brbrbw/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7003
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/09/2006 — Matthews (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914))
+- 2006 September — Matthews (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7003/))
+- undated — Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7003))
 
 ## Thread count
 DB/6 R48 DB6 R6 DB50 LN/6

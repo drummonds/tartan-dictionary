@@ -16,9 +16,5 @@ BYBRWKWBRKR
 
 | Tartans |
 |---------------|
-| [Asman Hunting (Personal)](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/)|
-|![Asman Hunting (Personal) example sett](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/sett.png)|
 | [Asman Hunting (Name)](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/)|
 |![Asman Hunting (Name) example sett](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/sett.png)|
-| [Asman Hunting Family Tartan Tartan Number: 2553. Earliest known date: 1989 Designed by Dr. Philip D.Smith, 1989 for David I Asman. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/)|
-|![Asman Hunting Family Tartan Tartan Number: 2553. Earliest known date: 1989 Designed by Dr. Philip D.Smith, 1989 for David I Asman. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/sett.png)|

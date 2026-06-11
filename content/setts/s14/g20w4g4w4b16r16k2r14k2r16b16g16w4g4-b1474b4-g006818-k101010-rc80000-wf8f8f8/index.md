@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4085
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Teirney (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4085))
+- pre 2005 — Teirney (unreliable) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6748/))
+
 ## Thread count
 G/4 W4 G16 B16 R16 K2 R14 K2 R16 B16 W4 G4 W4 G/20
 ![Sett](sett.png)

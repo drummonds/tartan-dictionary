@@ -1,13 +1,20 @@
 ---
-title: "Crozier (Clan)"
+title: "Crozier/Crosser"
 date: 2023-03-18
 ---
 In pattern [WBRBYKGRKRY](/patterns/wbrbykgrkry/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1779/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=816
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1983 — Crozier/Crosser (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=816))
+- 1983 — Crozier (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1779/))
 
 ## Thread count
 W/8 DB10 R6 DB44 Y8 K6 DG34 R14 K4 R14 Y/4
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#DCBC00;"><span style="color:#DCBC00;filter:grayscale(1) invert(1) contrast(100);">#DCBC00</span></code> `#DCBC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.02 |
 
 ID: /setts/s11/w8b10r6b44y8k6g34r14k4r14y4-b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00/
-00/

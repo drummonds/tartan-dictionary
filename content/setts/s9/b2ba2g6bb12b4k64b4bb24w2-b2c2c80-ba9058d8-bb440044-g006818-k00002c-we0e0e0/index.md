@@ -1,13 +1,21 @@
 ---
-title: "Scottish Heather (Fashion) Fashion Tartan Tartan Number: 3909. Earliest known date: Oct. 2001 Designed for Houston Kiltmakers of Paisley. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Scottish Heather"
 date: 2023-03-18
 ---
 In pattern [BBGBBKBBW](/patterns/bbgbbkbbw/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3909
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3720
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 02/10/2001 — Scottish Heather (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3720))
+- Oct. 2001 — Scottish Heather (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3909/))
+- undated — Scottish Heather (Fashion) Fashion Tartan Tartan Number: 3909. Earliest known date: Oct. 2001 Designed for Houston Kiltmakers of Paisley. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3909))
 
 ## Thread count
 DBa/2 Pa2 G6 DP12 DBa4 DBb64 DBa4 DP24 LN/2

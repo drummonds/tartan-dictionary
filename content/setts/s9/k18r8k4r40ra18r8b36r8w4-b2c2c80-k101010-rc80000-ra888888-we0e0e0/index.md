@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3916
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/2006 — Stephens Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3916))
+- October 2006 — Stephens Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7030/))
+
 ## Thread count
 K/18 R8 K4 R40 N18 R8 DB36 R8 LN/4
 ![Sett](sett.png)

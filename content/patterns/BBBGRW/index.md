@@ -18,7 +18,5 @@ BBBGRW
 
 | Tartans |
 |---------------|
-| [Nicolson of Lewis](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/)|
-|![Nicolson of Lewis example sett](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/sett.png)|
 | [Nicolson of Lewis (Clan?)](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/)|
 |![Nicolson of Lewis (Clan?) example sett](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/sett.png)|

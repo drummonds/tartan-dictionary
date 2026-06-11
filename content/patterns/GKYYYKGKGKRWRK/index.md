@@ -18,5 +18,3 @@ GKYYYKGKGKRWRK
 |---------------|
 | [Scandinavian](/setts/s14/g20k12y20ya8y20k6g20k6g20k6r20w8r20k12-g008040-k101010-rc80000-wfcfcfc-y7098b4-yaf0c800/)|
 |![Scandinavian example sett](/setts/s14/g20k12y20ya8y20k6g20k6g20k6r20w8r20k12-g008040-k101010-rc80000-wfcfcfc-y7098b4-yaf0c800/sett.png)|
-| [Scandinavian (Fashion)](/setts/s14/g20k12y20ya8y20k6g20k6g20k6r20w8r20k12-g008040-k101010-rc80000-wfcfcfc-y7098b4-yaf0c800/)|
-|![Scandinavian (Fashion) example sett](/setts/s14/g20k12y20ya8y20k6g20k6g20k6r20w8r20k12-g008040-k101010-rc80000-wfcfcfc-y7098b4-yaf0c800/sett.png)|

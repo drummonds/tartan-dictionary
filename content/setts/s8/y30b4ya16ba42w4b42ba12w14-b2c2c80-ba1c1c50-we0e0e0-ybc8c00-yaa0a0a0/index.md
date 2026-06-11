@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7412/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2004 — Monaghan County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7412/))
+- 01/05/2005 — Monaghan County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5041))
+
 ## Thread count
 DY/30 DB4 N16 DBa42 LN4 DB42 DBa12 LN/14
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/30 DB4 N16 DBa42 LN4 DB42 DBa12 LN/14 tartan")
 
 ID: /setts/s8/y30b4ya16ba42w4b42ba12w14-b2c2c80-ba1c1c50-we0e0e0-ybc8c00-yaa0a0a0/
-

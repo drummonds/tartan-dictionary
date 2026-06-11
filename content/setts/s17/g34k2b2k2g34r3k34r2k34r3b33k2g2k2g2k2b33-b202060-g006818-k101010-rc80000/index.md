@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [17 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3941
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1745 — Stewart/Stuart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3941))
+- 1819 — Stewart, Old - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/319/))
+
 ## Thread count
 DB/33 K2 G2 K2 G2 K2 DB33 R3 K34 R2 K34 R3 G34 K2 DB2 K2 G/34
 ![Sett](sett.png)

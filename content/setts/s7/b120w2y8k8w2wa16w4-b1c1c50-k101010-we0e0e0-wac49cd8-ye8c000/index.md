@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7705/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Aug 2008 — Nunavut Territory (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7705/))
+- undated — Nunavut Territory (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5697))
+
 ## Thread count
 DB/120 LN2 Y8 K8 LN2 LP16 LN/4
 ![Sett](sett.png)

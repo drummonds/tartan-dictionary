@@ -1,13 +1,21 @@
 ---
-title: "Argyll (District)"
+title: "Argyll"
 date: 2023-03-18
 ---
 In pattern [BKGKBKR](/patterns/bkgkbkr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2079/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=109
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1819 — Argyll (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=109))
+- 1819 — Argyll (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2079/))
+- undated — Argyll District Tartan Tartan Number: 2079. Earliest known date: 1798 W & S Smith (1850) records this pattern as Cawdor Campbell. Wilson records it as Argyll in 1819 (No. 230) and refers to an Argyll tartan in a letter of 1798. W. and A.K. Johnston (1906) calls it Argyll District tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2079))
 
 ## Thread count
 B/4 K2 G16 K16 DB16 K2 R/4
@@ -23,13 +31,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
-
-# Sample pattern
-
-![Tartan detail](tartan.png "B/4 K2 G16 K16 DB16 K2 R/4 tartan")
-
-ID: /setts/s7/b4k2g16k16ba16k2r4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/
-contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 # Sample pattern
 

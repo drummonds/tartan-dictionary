@@ -18,7 +18,5 @@ KBKBBKBY
 
 | Tartans |
 |---------------|
-| [Silver Granite](/setts/s8/k6b6k6b42ba42k6ba6y2-b5c5c5c-ba505050-k101010-ya0a0a0/)|
-|![Silver Granite example sett](/setts/s8/k6b6k6b42ba42k6ba6y2-b5c5c5c-ba505050-k101010-ya0a0a0/sett.png)|
 | [Granite City (Fashion)](/setts/s8/k6b6k6b42ba42k6ba6y2-b5c5c5c-ba505050-k101010-ya0a0a0/)|
 |![Granite City (Fashion) example sett](/setts/s8/k6b6k6b42ba42k6ba6y2-b5c5c5c-ba505050-k101010-ya0a0a0/sett.png)|

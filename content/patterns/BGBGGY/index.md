@@ -20,5 +20,3 @@ BGBGGY
 |---------------|
 | [Dewar (WCWM)](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/)|
 |![Dewar (WCWM) example sett](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/sett.png)|
-| [Dewar (Fashion)](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/)|
-|![Dewar (Fashion) example sett](/setts/s6/b4g4b28g20ga28y4-b084848-g604000-ga8c7038-yb8b8b8/sett.png)|

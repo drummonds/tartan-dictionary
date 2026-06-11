@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2736
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — MacQueen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2736))
+- pre 1842 — MacQueen (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1209/))
+
 ## Thread count
 K/8 R24 K8 R24 K48 Y/4
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 R24 K8 R24 K48 Y/4 tartan")
 
 ID: /setts/s6/k8r24k8r24k48y4-k101010-rc80000-ye8c000/
-0/

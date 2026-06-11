@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=376
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2005 — Bro-Kerne (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=376))
+- 2005 May — Bro-Kerne (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6646/))
+
 ## Thread count
 DY/6 N60 K2 G12 K2 N4 K28 N2 W/6
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3596/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1987 — Thompson Black (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3596/))
+- undated — Thompson Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5196))
+
 ## Thread count
 G/12 K60 R32 G8 N32 K/8
 ![Sett](sett.png)

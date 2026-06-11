@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=404
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Bruce of Kinnaird Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=404))
+- pre 2005 — Bruce of Kinnaird Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6554/))
+
 ## Thread count
 W/4 P24 DB16 K20 Y2 K4 W16 K4 R18 W/90
 ![Sett](sett.png)

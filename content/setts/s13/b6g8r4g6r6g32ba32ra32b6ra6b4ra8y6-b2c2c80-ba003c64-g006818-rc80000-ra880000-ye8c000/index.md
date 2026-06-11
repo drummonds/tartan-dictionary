@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=859
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2006 — Cuthill (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=859))
+- 2006 July — Cuthill (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6954/))
+
 ## Thread count
 DB/6 G8 R4 G6 R6 G32 DBa32 DR32 DB6 DR6 DB4 DR8 Y/6
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3261
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2002 — Oregon, State of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3261))
+- December 2002 — Oregon, State of (US State) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5743/))
+
 ## Thread count
 K/8 B8 DR8 LG48 G16 LN4 G8 P8 G8 P20 Y/12
 ![Sett](sett.png)

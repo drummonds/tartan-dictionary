@@ -1,5 +1,5 @@
 ---
-title: "MacLulich"
+title: "MacBeth"
 date: 2023-03-18
 ---
 In pattern [BRKYKWKGBKBW](/patterns/brkykwkgbkbw/).
@@ -8,6 +8,14 @@ In pattern [BRKYKWKGBKBW](/patterns/brkykwkgbkbw/).
 This was sourced from weddslist.  It is a [12 stripes tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- undated — MacBeth (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — MacLulich (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Stewart Blue (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
 
 ## Thread count
 B/66 R16 K24 Y4 K8 LN8 K8 G24 B16 K8 B8 LN/4

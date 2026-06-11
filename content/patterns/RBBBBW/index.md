@@ -20,5 +20,3 @@ RBBBBW
 |---------------|
 | [MacArthur-Fox Blue (Personal)](/setts/s6/r8b52ba12b12ba64w8-b1474b4-ba4c0000-ra00000-wa8ace8/)|
 |![MacArthur-Fox Blue (Personal) example sett](/setts/s6/r8b52ba12b12ba64w8-b1474b4-ba4c0000-ra00000-wa8ace8/sett.png)|
-| [MacArthur-Fox Blue (Personal)](/setts/s6/r8b52ba12b12ba64w8-b1474b4-ba4c0000-ra00000-wa8ace8/)|
-|![MacArthur-Fox Blue (Personal) example sett](/setts/s6/r8b52ba12b12ba64w8-b1474b4-ba4c0000-ra00000-wa8ace8/sett.png)|

@@ -18,7 +18,5 @@ BRWRWKW
 
 | Tartans |
 |---------------|
-| [Arduaine Red](/setts/s7/w10k4w60r48w6r16b6-b003c64-k101010-rc8002c-wf0e0c8/)|
-|![Arduaine Red example sett](/setts/s7/w10k4w60r48w6r16b6-b003c64-k101010-rc8002c-wf0e0c8/sett.png)|
 | [Arduaine, Red (Dance)](/setts/s7/w10k4w60r48w6r16b6-b003c64-k101010-rc8002c-wf0e0c8/)|
 |![Arduaine, Red (Dance) example sett](/setts/s7/w10k4w60r48w6r16b6-b003c64-k101010-rc8002c-wf0e0c8/sett.png)|

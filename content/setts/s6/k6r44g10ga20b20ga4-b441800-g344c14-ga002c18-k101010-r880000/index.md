@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1978 — Rowardennan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581))
+- pre 1978 — Rowardennan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5409/))
+
 ## Thread count
 DG/4 DR20 DG20 G10 DRa44 K/6
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/4 DR20 DG20 G10 DRa44 K/6 tartan")
 
 ID: /setts/s6/k6r44g10ga20b20ga4-b441800-g344c14-ga002c18-k101010-r880000/
-0000/

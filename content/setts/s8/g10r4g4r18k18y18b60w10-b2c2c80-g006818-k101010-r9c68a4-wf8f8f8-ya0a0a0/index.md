@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=47
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2002 — Alexander of Menstry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=47))
+- 2002 — Alexander of Menstry (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6713/))
+
 ## Thread count
 G/10 LP4 G4 LP18 K18 N18 DB60 W/10
 ![Sett](sett.png)

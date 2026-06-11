@@ -1,13 +1,20 @@
 ---
-title: "British Lions (Corporate)"
+title: "Lions' Pride"
 date: 2023-03-18
 ---
 In pattern [RWRWRKBKYRGW](/patterns/rwrwrkbkyrgw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6636/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2124
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2005 — Lions' Pride (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2124))
+- 2005 March — British Lions (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6636/))
 
 ## Thread count
 DR/92 W4 DR4 W6 DR4 K6 DB14 K4 Y4 DR4 G16 W/6

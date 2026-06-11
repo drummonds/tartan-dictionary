@@ -16,7 +16,5 @@ RKRKGKGRGRGKY
 
 | Tartans |
 |---------------|
-| [Melrose](/setts/s13/r128k4r4k12g4k4g4ra4g12r10g4k12y4-g006818-k101010-rc80000-ra888888-ye8c000/)|
-|![Melrose example sett](/setts/s13/r128k4r4k12g4k4g4ra4g12r10g4k12y4-g006818-k101010-rc80000-ra888888-ye8c000/sett.png)|
 | [Melrose (District)](/setts/s13/r128k4r4k12g4k4g4ra4g12r10g4k12y4-g006818-k101010-rc80000-ra888888-ye8c000/)|
 |![Melrose (District) example sett](/setts/s13/r128k4r4k12g4k4g4ra4g12r10g4k12y4-g006818-k101010-rc80000-ra888888-ye8c000/sett.png)|

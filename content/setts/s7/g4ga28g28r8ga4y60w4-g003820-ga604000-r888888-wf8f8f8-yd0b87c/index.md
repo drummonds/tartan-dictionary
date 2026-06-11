@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3487
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Regalia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3487))
+- pre1975 — Regalia (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5418/))
+
 ## Thread count
 DG/4 T28 DG28 N8 T4 LG60 W/4
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "German MacLeod (Corporate)"
+title: "German MacLeod"
 date: 2023-03-18
 ---
 In pattern [WKGKBKRY](/patterns/wkgkbkry/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6816/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1336
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2005 — German MacLeod (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1336))
+- 2005 December — German MacLeod (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6816/))
 
 ## Thread count
 LB/4 K2 G26 K12 B54 K4 R4 Y/4

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=359
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1990 — British Caledonian Airways #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=359))
+- pre 1990 — British Caledonian Airways #3 (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5453/))
+
 ## Thread count
 DB/68 T5 K9 T3 K3 Na3 K3 N20 DB9 K3 DB5 Na/4
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#98481C;"><span style="color:#98481C;filter:grayscale(1) invert(1) contrast(100);">#98481C</span></code> `#98481C` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.11 |
 
 ID: /setts/s12/b68r5k9r3k3w3k3ba20b9k3b5w4-b1c0070-ba5c5c5c-k101010-r98481c-wc0c0c0/
-0/

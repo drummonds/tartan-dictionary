@@ -1,13 +1,20 @@
 ---
-title: "Riddoch Name Tartan Tartan Number: 3316. Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Riddoch (Name)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKRGRKBKB](/patterns/bkbkbkrgrkbkb/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3316
+Original link http://www.tartansauthority.com/tartan-ferret/display/3316/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1992 — Riddoch (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3316/))
+- undated — Riddoch Name Tartan Tartan Number: 3316. Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3316))
 
 ## Thread count
 B/32 K4 B4 K4 B4 K32 R4 LG56 R4 K32 B32 K4 B/4
@@ -21,7 +28,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | B | <code style="background-color:#688094;"><span style="color:#688094;filter:grayscale(1) invert(1) contrast(100);">#688094</span></code> `#688094` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.21 |
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | LG | <code style="background-color:#689840;"><span style="color:#689840;filter:grayscale(1) invert(1) contrast(100);">#689840</span></code> `#689840` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.19 |
-| N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s13/b32k4b4k4b4k32r4g56r4k32b32k4b4-b688094-g689840-k101010-rc80000/

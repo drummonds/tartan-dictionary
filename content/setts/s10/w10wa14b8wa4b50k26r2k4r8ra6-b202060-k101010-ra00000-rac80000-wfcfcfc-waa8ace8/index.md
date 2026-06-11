@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10715/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2012 — Bell Rock Lighthouse 200th Aniversar (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10715/))
+- 3rd Jan. 2012 — Six Frigates (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10972/))
+
 ## Thread count
 R/6 DR8 K4 DR2 K26 DB50 LP4 DB8 LP14 W/10
 ![Sett](sett.png)

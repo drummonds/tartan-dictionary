@@ -20,5 +20,3 @@ BGGKYKB
 |---------------|
 | [Lenaghan (Personal)](/setts/s7/b20g10ga10k2y4k2ba20-b202060-ba2c2c80-g003820-ga006818-k101010-ye8c000/)|
 |![Lenaghan (Personal) example sett](/setts/s7/b20g10ga10k2y4k2ba20-b202060-ba2c2c80-g003820-ga006818-k101010-ye8c000/sett.png)|
-| [Lenaghan (Personal)](/setts/s7/b20g10ga10k2y4k2ba20-b202060-ba2c2c80-g003820-ga006818-k101010-ye8c000/)|
-|![Lenaghan (Personal) example sett](/setts/s7/b20g10ga10k2y4k2ba20-b202060-ba2c2c80-g003820-ga006818-k101010-ye8c000/sett.png)|

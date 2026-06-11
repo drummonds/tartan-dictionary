@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=807
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Crihfield Family (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=807))
+- 1996 — Crihfield Family (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4614/))
+
 ## Thread count
 DR/8 K4 G12 DR6 G20 K20 G8 K20 G20 DR6 G12 K4 N/8
 ![Sett](sett.png)

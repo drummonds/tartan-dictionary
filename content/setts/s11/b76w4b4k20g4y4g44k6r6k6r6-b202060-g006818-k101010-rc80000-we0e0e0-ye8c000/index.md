@@ -1,13 +1,20 @@
 ---
-title: "Hunnisett /Edinchip Corporate Tartan Tartan Number: 624. Earliest known date: 1986 Accredited 86004 See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Hunnisett/Edinchip (Name)"
 date: 2023-03-18
 ---
 In pattern [BWBKGYGKRKR](/patterns/bwbkgygkrkr/).
 
 
-This was sourced from house-of-tartan.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=624
+Original link http://www.tartansauthority.com/tartan-ferret/display/624/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1986 April — Hunnisett/Edinchip (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/624/))
+- undated — Hunnisett /Edinchip Corporate Tartan Tartan Number: 624. Earliest known date: 1986 Accredited 86004 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=624))
 
 ## Thread count
 DB/76 LN4 DB4 K20 G4 Y4 G44 K6 R6 K6 R/6

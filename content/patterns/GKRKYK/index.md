@@ -18,8 +18,6 @@ GKRKYK
 
 | Tartans |
 |---------------|
-| [Moran (Personal)](/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/)|
-|![Moran (Personal) example sett](/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/sett.png)|
 | [Moran (Name)](/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/)|
 |![Moran (Name) example sett](/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/sett.png)|
 | [Moran](/setts/s6/g110k34r18k22y4k8-g008000-k000000-rc00020-yf0c000/)|

@@ -20,5 +20,3 @@ KBKBWKBR
 |---------------|
 | [Lexington Fire Department](/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/)|
 |![Lexington Fire Department example sett](/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/sett.png)|
-| [Lexington Fire Department (Corporate](/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/)|
-|![Lexington Fire Department (Corporate example sett](/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/sett.png)|

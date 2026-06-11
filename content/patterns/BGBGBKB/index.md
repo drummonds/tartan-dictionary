@@ -20,5 +20,3 @@ BGBGBKB
 |---------------|
 | [Lawrie](/setts/s7/b12g4b2ga50ba32k4ba8-b700070-ba2c2c84-g784400-ga007040-k101010/)|
 |![Lawrie example sett](/setts/s7/b12g4b2ga50ba32k4ba8-b700070-ba2c2c84-g784400-ga007040-k101010/sett.png)|
-| [Lawrie (Name)](/setts/s7/b12g4b2ga50ba32k4ba8-b700070-ba2c2c84-g784400-ga007040-k101010/)|
-|![Lawrie (Name) example sett](/setts/s7/b12g4b2ga50ba32k4ba8-b700070-ba2c2c84-g784400-ga007040-k101010/sett.png)|

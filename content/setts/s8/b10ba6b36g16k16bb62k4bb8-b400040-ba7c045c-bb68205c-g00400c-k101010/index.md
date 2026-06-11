@@ -1,13 +1,20 @@
 ---
-title: "Tartan Spirit Corporate)"
+title: "By Storm"
 date: 2023-03-18
 ---
 In pattern [BBBGKBKB](/patterns/bbbgkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7687/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6018
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2008 — By Storm (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6018))
+- pre 2008 — Tartan Spirit Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7687/))
 
 ## Thread count
 DP/10 Pa6 DP36 DG16 K16 P62 K4 P/8

@@ -1,13 +1,20 @@
 ---
-title: "McBeams Boy (Corporate)"
+title: "McBeams Boy"
 date: 2023-03-18
 ---
 In pattern [BBBYBYBYBWBRBRBR](/patterns/bbbybybybwbrbrbr/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5936/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2003 — McBeams Boy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870))
+- August 2003 — McBeams Boy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5936/))
 
 ## Thread count
 B/38 DB8 B38 LT10 B4 LT38 B4 LT10 B38 LN4 B38 R10 B4 R38 B4 R/10

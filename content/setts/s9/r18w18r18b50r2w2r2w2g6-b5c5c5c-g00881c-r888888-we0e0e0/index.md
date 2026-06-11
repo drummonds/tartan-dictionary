@@ -1,13 +1,20 @@
 ---
-title: "Ailsa, Grey"
+title: "Ailsa, Grey (Fashion)"
 date: 2023-03-18
 ---
 In pattern [GWRWRBRWR](/patterns/gwrwrbrwr/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008
+Original link http://www.tartansauthority.com/tartan-ferret/display/3025/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1985 — Ailsa, Grey (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3025/))
+- undated — Ailsa, Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008))
 
 ## Thread count
 G/6 LN2 Na2 LN2 Na2 N50 Na18 LN18 Na/18
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
 ID: /setts/s9/r18w18r18b50r2w2r2w2g6-b5c5c5c-g00881c-r888888-we0e0e0/
-e0e0/

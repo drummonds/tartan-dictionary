@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Reid and Taylor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493))
+- 1984 — Reid & Taylor (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/355/))
+
 ## Thread count
 DB/4 K2 R2 DB18 K18 G20 K/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/4 K2 R2 DB18 K18 G20 K/4 tartan")
 
 ID: /setts/s7/b4k2r2b18k18g20k4-b2c2c80-g006818-k101010-rc80000/
-000/

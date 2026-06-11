@@ -18,5 +18,3 @@ RWYKYRKWKW
 |---------------|
 | [Sens](/setts/s10/r52w4y2k6y8r16k64w2k2w6-k000040-rc80000-we0e0e0-ye8c000/)|
 |![Sens example sett](/setts/s10/r52w4y2k6y8r16k64w2k2w6-k000040-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Sens (Corporate)](/setts/s10/r52w4y2k6y8r16k64w2k2w6-k000040-rc80000-we0e0e0-ye8c000/)|
-|![Sens (Corporate) example sett](/setts/s10/r52w4y2k6y8r16k64w2k2w6-k000040-rc80000-we0e0e0-ye8c000/sett.png)|

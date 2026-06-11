@@ -18,8 +18,6 @@ BKBKBKGK
 
 | Tartans |
 |---------------|
-| [Nightstalker](/setts/s8/b8k8b16k8b8k64g8k8-b5c5c5c-g006818-k101010/)|
-|![Nightstalker example sett](/setts/s8/b8k8b16k8b8k64g8k8-b5c5c5c-g006818-k101010/sett.png)|
 | [Nightstalker (Corporate)](/setts/s8/b8k8b16k8b8k64g8k8-b5c5c5c-g006818-k101010/)|
 |![Nightstalker (Corporate) example sett](/setts/s8/b8k8b16k8b8k64g8k8-b5c5c5c-g006818-k101010/sett.png)|
 | [Black Watch RHR](/setts/s8/b20k2b6k2b40k50g80k6-b00004c-g004c00-k000000/)|

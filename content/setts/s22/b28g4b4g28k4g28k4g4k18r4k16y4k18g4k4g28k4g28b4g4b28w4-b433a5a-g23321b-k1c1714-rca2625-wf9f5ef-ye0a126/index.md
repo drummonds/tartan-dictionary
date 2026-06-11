@@ -1,13 +1,20 @@
 ---
-title: "Dow - Aerlift Name Tartan Tartan Number: 10704. Earliest known date: 24 September 2012 This tartan, a 6.3\" sett, is based on the Davidson tartan (#891) with complementary strips of red and gold for Buchanan. The surname Dow can be a Sept of either Davidson or Buchanan. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Dow - Aerlift"
 date: 2023-03-18
 ---
 In pattern [BGBGKGKGKRKYKGKGKGBGBW](/patterns/bgbgkgkgkrkykgkgkgbgbw/).
 
 
-This was sourced from house-of-tartan.  It is a [22 stripes tartan](/stripes/stripes22/).
+This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10704
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10704
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 06/09/2012 — Dow - Aerlift (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10704))
+- undated — Dow - Aerlift Name Tartan Tartan Number: 10704. Earliest known date: 24 September 2012 This tartan, a 6.3" sett, is based on the Davidson tartan (#891) with complementary strips of red and gold for Buchanan. The surname Dow can be a Sept of either Davidson or Buchanan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10704))
 
 ## Thread count
 N/28 K4 N4 K28 Ka4 K28 Ka4 K4 Ka18 R4 Ka16 Y4 Ka18 K4 Ka4 K28 Ka4 K28 N4 K4 N28 W/4

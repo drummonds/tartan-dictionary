@@ -7,7 +7,14 @@ In pattern [BRBRY](/patterns/brbry/).
 
 This was sourced from weddslist.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Hamilton (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Hamilton (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DB/12 DR2 DB12 DR18 N/2

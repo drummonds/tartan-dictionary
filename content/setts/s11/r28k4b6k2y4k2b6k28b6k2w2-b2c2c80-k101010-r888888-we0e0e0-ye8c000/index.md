@@ -1,13 +1,20 @@
 ---
-title: "McGuffey School"
+title: "McGuffey (School)"
 date: 2023-03-18
 ---
 In pattern [RKBKYKBKBKW](/patterns/rkbkykbkbkw/).
 
 
-This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5101
+Original link http://www.tartansauthority.com/tartan-ferret/display/3379/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — McGuffey (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3379/))
+- undated — McGuffey School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5101))
 
 ## Thread count
 LN/2 K2 DB6 K28 DB6 K2 Y4 K2 DB6 K4 N/28

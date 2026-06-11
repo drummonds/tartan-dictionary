@@ -1,13 +1,21 @@
 ---
-title: "MacKendrick (Clan)"
+title: "Henderson/MacKendrick"
 date: 2023-03-18
 ---
 In pattern [WBGBGKGKY](/patterns/wbgbgkgky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3404/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1685
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1842 — Henderson/MacKendrick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1685))
+- 1842 — Henderson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1762/))
+- 1842 — MacKendrick (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3404/))
 
 ## Thread count
 LN/4 DB24 G16 DB4 G64 K4 G16 K24 Y/4

@@ -18,5 +18,3 @@ RKRYKWKYRKR
 |---------------|
 | [Wells Red, Greg (Personal)](/setts/s11/r24k4r24y4k24w2k24y4ra24k4ra24-k101010-r888888-raa00048-we0e0e0-ye8c000/)|
 |![Wells Red, Greg (Personal) example sett](/setts/s11/r24k4r24y4k24w2k24y4ra24k4ra24-k101010-r888888-raa00048-we0e0e0-ye8c000/sett.png)|
-| [Wells, Greg # 1 (Personal)](/setts/s11/r24k4r24y4k24w2k24y4ra24k4ra24-k101010-r888888-raa00048-we0e0e0-ye8c000/)|
-|![Wells, Greg # 1 (Personal) example sett](/setts/s11/r24k4r24y4k24w2k24y4ra24k4ra24-k101010-r888888-raa00048-we0e0e0-ye8c000/sett.png)|

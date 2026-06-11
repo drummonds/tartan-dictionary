@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1830 — Duke of Sussex (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1010))
+- 1830 — Duke of Sussex (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5265/))
+
 ## Thread count
 R/18 G2 K2 G2 K10 G2 R/36
 ![Sett](sett.png)
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/18 G2 K2 G2 K10 G2 R/36 tartan")
 
 ID: /setts/s7/r36g2k10g2k2g2r18-g289c18-k000000-rc80000/
-00/

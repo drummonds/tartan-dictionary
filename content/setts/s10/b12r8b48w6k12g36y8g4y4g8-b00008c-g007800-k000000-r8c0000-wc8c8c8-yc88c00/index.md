@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1527
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Greene (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1527))
+- 1999 — Greene (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4187/))
+
 ## Thread count
 DB/12 DR8 DB48 N6 K12 G36 DY8 G4 DY4 G/8
 ![Sett](sett.png)

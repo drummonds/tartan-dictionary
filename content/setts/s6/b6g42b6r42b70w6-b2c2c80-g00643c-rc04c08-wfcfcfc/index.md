@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=951
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2003 — Donnolly (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=951))
+- 2003 — Donnolly (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6034/))
+
 ## Thread count
 DB/6 G42 DB6 DO42 DB70 W/6
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/6 G42 DB6 DO42 DB70 W/6 tartan")
 
 ID: /setts/s6/b6g42b6r42b70w6-b2c2c80-g00643c-rc04c08-wfcfcfc/
-cfcfc/

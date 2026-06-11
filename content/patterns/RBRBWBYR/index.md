@@ -20,5 +20,3 @@ RBRBWBYR
 |---------------|
 | [Norwegian Migration Period](/setts/s8/r120y16b36w8b4ra24b32rb32-b202020-r8c8c8c-raa0783c-rbb00000-wc8c8c8-yd8d898/)|
 |![Norwegian Migration Period example sett](/setts/s8/r120y16b36w8b4ra24b32rb32-b202020-r8c8c8c-raa0783c-rbb00000-wc8c8c8-yd8d898/sett.png)|
-| [Norwegian Migration Period (Artefact](/setts/s8/r120y16b36w8b4ra24b32rb32-b202020-r8c8c8c-raa0783c-rbb00000-wc8c8c8-yd8d898/)|
-|![Norwegian Migration Period (Artefact example sett](/setts/s8/r120y16b36w8b4ra24b32rb32-b202020-r8c8c8c-raa0783c-rbb00000-wc8c8c8-yd8d898/sett.png)|

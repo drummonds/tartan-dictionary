@@ -1,13 +1,20 @@
 ---
-title: "MacKenzie Morgan (Clan)"
+title: "MacKenzie Morgan"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGRWRGKBRB](/patterns/bkbkbkgrwrgkbrb/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6068/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/2003 — MacKenzie Morgan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530))
+- Oct 2003 — MacKenzie Morgan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6068/))
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 G24 R4 W4 R4 G24 K24 DB24 R6 DB/4

@@ -18,5 +18,3 @@ BKBKBYYYKY
 |---------------|
 | [Sonsub](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/)|
 |![Sonsub example sett](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/sett.png)|
-| [Sonsub (Corporate)](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/)|
-|![Sonsub (Corporate) example sett](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/sett.png)|

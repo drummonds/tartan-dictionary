@@ -20,5 +20,3 @@ KBRWRW
 |---------------|
 | [Thompson, D.C. (Personal)](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/)|
 |![Thompson, D.C. (Personal) example sett](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/sett.png)|
-| [Thompson (Personal)](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/)|
-|![Thompson (Personal) example sett](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/sett.png)|

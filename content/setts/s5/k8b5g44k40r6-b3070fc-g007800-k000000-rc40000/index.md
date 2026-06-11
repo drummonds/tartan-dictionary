@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=964
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1920 — Douglas, Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=964))
+- pre 2002 — Douglas, Black (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1029/))
+
 ## Thread count
 K/8 B5 G44 K40 R/6
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 B5 G44 K40 R/6 tartan")
 
 ID: /setts/s5/k8b5g44k40r6-b3070fc-g007800-k000000-rc40000/
-000/

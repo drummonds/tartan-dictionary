@@ -20,8 +20,6 @@ RGRGBGY
 |---------------|
 | [Cameron of Lochiel (Hunting)](/setts/s7/r6g20r6g28b32g6y4-b1c0070-g006818-rc80000-ye8c000/)|
 |![Cameron of Lochiel (Hunting) example sett](/setts/s7/r6g20r6g28b32g6y4-b1c0070-g006818-rc80000-ye8c000/sett.png)|
-| [Cameron of Locheil Htg (1952) (Clan)](/setts/s7/r6g20r6g28b32g6y4-b1c0070-g006818-rc80000-ye8c000/)|
-|![Cameron of Locheil Htg (1952) (Clan) example sett](/setts/s7/r6g20r6g28b32g6y4-b1c0070-g006818-rc80000-ye8c000/sett.png)|
 | [Cameron Hunting](/setts/s7/r3g10r3g14b16g3y2-b000064-g004c00-rc80000-yffc800/)|
 |![Cameron Hunting example sett](/setts/s7/r3g10r3g14b16g3y2-b000064-g004c00-rc80000-yffc800/sett.png)|
 | [Cameron, hunting](/setts/s7/r6g20r6g28b32g6y4-b304080-g008000-rc00000-yf0c000/)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2005 — Wells Red, Greg (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594))
+- 2005 Feb. — Wells, Greg # 1 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6511/))
+
 ## Thread count
 N/24 K4 N24 Y4 K24 LN2 K24 Y4 R24 K4 R/24
 ![Sett](sett.png)

@@ -18,5 +18,3 @@ YRBRWRYWRWY
 |---------------|
 | [Nevis Dress](/setts/s11/y84r20b4r4w4r4y20w12r4w6y4-b646464-r8c0000-wc8c8c8-yd0908c/)|
 |![Nevis Dress example sett](/setts/s11/y84r20b4r4w4r4y20w12r4w6y4-b646464-r8c0000-wc8c8c8-yd0908c/sett.png)|
-| [Nevis Dress (Fashion)](/setts/s11/y84r20b4r4w4r4y20w12r4w6y4-b646464-r8c0000-wc8c8c8-yd0908c/)|
-|![Nevis Dress (Fashion) example sett](/setts/s11/y84r20b4r4w4r4y20w12r4w6y4-b646464-r8c0000-wc8c8c8-yd0908c/sett.png)|

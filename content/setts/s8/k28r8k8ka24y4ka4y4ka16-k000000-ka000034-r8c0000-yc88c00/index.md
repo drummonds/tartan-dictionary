@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Printing Industries of America (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413))
+- 1999 — Printing Industries of America (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5446/))
+
 ## Thread count
 DB/16 DY4 DB4 DY4 DB24 K8 DR8 K/28
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/16 DY4 DB4 DY4 DB24 K8 DR8 K/28 tartan")
 
 ID: /setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/
-/

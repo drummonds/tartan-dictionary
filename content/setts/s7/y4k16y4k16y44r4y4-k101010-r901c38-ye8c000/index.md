@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [YKYKYRY](/patterns/ykykyry/).
 
 
-This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159
+Original link http://www.tartansauthority.com/tartan-ferret/display/2326/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Oct. 1882 — Baileville (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2326/))
+- 01/01/1993 — Baileville (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159))
 
 ## Thread count
 Y/4 DR4 Y44 K16 Y4 K16 Y/4

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2620
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacLeish (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2620))
+- pre 2002 — MacLeish (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5689/))
+
 ## Thread count
 DY/8 K4 G24 R12 G8 K10 DB24 K/36
 ![Sett](sett.png)

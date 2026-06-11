@@ -7,7 +7,14 @@ In pattern [BGYGKBK](/patterns/bgygkbk/).
 
 This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacNiel of Colonsay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacNiel of Colonsay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DB/8 DG12 N2 DG12 K12 DB12 K/4
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 DG12 N2 DG12 K12 DB12 K/4 tartan")
 
 ID: /setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/
-aaa/

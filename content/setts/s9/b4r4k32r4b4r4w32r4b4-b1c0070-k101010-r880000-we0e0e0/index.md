@@ -1,13 +1,20 @@
 ---
-title: "MacPherson of Pitmain (Clan)"
+title: "MacPherson of Pitmain"
 date: 2023-03-18
 ---
 In pattern [BRKRBRWRB](/patterns/brkrbrwrb/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3558/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5222
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1850 — MacPherson of Pitmain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5222))
+- 1850 — MacPherson of Pitmain (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3558/))
 
 ## Thread count
 DB/4 DR4 K32 DR4 DB4 DR4 LN32 DR4 DB/4

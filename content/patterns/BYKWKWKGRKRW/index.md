@@ -20,8 +20,6 @@ BYKWKWKGRKRW
 |![MacBeth example sett](/setts/s12/b144y16k20w4k4w4k8g32r24k4r12w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
 | [MacBeth #2](/setts/s12/b80y8k6w4k6w4k6g20r12k4r8w4-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
 |![MacBeth #2 example sett](/setts/s12/b80y8k6w4k6w4k6g20r12k4r8w4-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [MacBeth (Clan)](/setts/s12/b144y16k20w4k4w4k8g32r24k4r12w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![MacBeth (Clan) example sett](/setts/s12/b144y16k20w4k4w4k8g32r24k4r12w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
 | [MacBeth](/setts/s12/b36y4k6w1k1w1k1g8r6k1r3w1-b00004c-g004c00-k000000-rc80000-wd0d0d0-yffff00/)|
 |![MacBeth example sett](/setts/s12/b36y4k6w1k1w1k1g8r6k1r3w1-b00004c-g004c00-k000000-rc80000-wd0d0d0-yffff00/sett.png)|
 | [MacBeth](/setts/s12/b80y8k6w4k6w4k6g20r12k4r8w4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|

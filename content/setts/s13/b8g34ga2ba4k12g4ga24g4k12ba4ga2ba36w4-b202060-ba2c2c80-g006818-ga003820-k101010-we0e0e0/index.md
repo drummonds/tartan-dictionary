@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5402
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Clack (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5402))
+- Unknown — Clack (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3928/))
+
 ## Thread count
 DBa/8 G34 DG2 DB4 K12 G4 DG24 G4 K12 DB4 DG2 DB36 LN/4
 ![Sett](sett.png)

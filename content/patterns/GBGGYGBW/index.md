@@ -20,5 +20,3 @@ GBGGYGBW
 |---------------|
 | [Elbrick Hunting (Personal)](/setts/s8/g12b44g12ga40y2g90ba2w10-b5c8ca8-ba2888c4-g006818-ga604000-we0e0e0-ye8c000/)|
 |![Elbrick Hunting (Personal) example sett](/setts/s8/g12b44g12ga40y2g90ba2w10-b5c8ca8-ba2888c4-g006818-ga604000-we0e0e0-ye8c000/sett.png)|
-| [Elbrick Hunting (Personal)](/setts/s8/g12b44g12ga40y2g90ba2w10-b5c8ca8-ba2888c4-g006818-ga604000-we0e0e0-ye8c000/)|
-|![Elbrick Hunting (Personal) example sett](/setts/s8/g12b44g12ga40y2g90ba2w10-b5c8ca8-ba2888c4-g006818-ga604000-we0e0e0-ye8c000/sett.png)|

@@ -1,13 +1,21 @@
 ---
-title: "Livingstone (Wedding) (Personal)"
+title: "Livingston (Personal)"
 date: 2023-03-18
 ---
 In pattern [GRKRKRGRWGW](/patterns/grkrkrgrwgw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7372/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1996 — Livingston (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131))
+- 1996 — Livingston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2565/))
+- 1996 — Livingstone (Wedding) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7372/))
 
 ## Thread count
 G/52 R10 K2 R4 K2 R10 G32 R10 LN32 G4 LN/16

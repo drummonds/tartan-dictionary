@@ -18,5 +18,3 @@ GKRGKGWKG
 |---------------|
 | [Graham, Red Dress](/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/)|
 |![Graham, Red Dress example sett](/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/sett.png)|
-| [Graham, Red Dress](/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/)|
-|![Graham, Red Dress example sett](/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/sett.png)|

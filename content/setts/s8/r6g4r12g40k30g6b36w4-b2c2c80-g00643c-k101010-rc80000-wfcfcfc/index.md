@@ -1,13 +1,20 @@
 ---
-title: "Curry (Irish) (Name)"
+title: "Curry (Personal)"
 date: 2023-03-18
 ---
 In pattern [RGRGKGBW](/patterns/rgrgkgbw/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6606/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=856
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1955 — Curry (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=856))
+- 1955 — Curry (Irish) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6606/))
 
 ## Thread count
 R/6 G4 R12 G40 K30 G6 DB36 W/4

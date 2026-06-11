@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2303
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1992 — MacBride (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2303))
+- 1992 — MacBride (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2144/))
+
 ## Thread count
 DY/6 G30 K30 DB30 K4 DB30 K30 G30 P6 G30 K30 G30 DY/6
 ![Sett](sett.png)

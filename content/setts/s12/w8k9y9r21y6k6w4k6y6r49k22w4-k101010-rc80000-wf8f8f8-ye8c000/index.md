@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3148
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/2005 — Normandy (Fashion) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3148))
+- 2005 April — Normandy (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6658/))
+
 ## Thread count
 W/4 K22 R49 Y6 K6 W4 K6 Y6 R21 Y9 K9 W/8
 ![Sett](sett.png)

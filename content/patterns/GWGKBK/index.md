@@ -22,10 +22,6 @@ GWGKBK
 |![Menteith example sett](/setts/s6/g36w4g24k28b28k4-b1c0070-g006818-k101010-wc0c0c0/sett.png)|
 | [Redland](/setts/s6/g52w7g9k35b35k7-b2c2c80-g006818-k101010-w98c8e8/)|
 |![Redland example sett](/setts/s6/g52w7g9k35b35k7-b2c2c80-g006818-k101010-w98c8e8/sett.png)|
-| [Menteith (District)](/setts/s6/g36w4g24k28b28k4-b1c0070-g006818-k101010-wc0c0c0/)|
-|![Menteith (District) example sett](/setts/s6/g36w4g24k28b28k4-b1c0070-g006818-k101010-wc0c0c0/sett.png)|
-| [Redland (Corporate)](/setts/s6/g52w7g9k35b35k7-b2c2c80-g006818-k101010-w98c8e8/)|
-|![Redland (Corporate) example sett](/setts/s6/g52w7g9k35b35k7-b2c2c80-g006818-k101010-w98c8e8/sett.png)|
 | [Graham W](/setts/s6/g21w2g4k17b14k3-b5a3094-g004c00-k000000-wd0d0d0/)|
 |![Graham W example sett](/setts/s6/g21w2g4k17b14k3-b5a3094-g004c00-k000000-wd0d0d0/sett.png)|
 | [Graham of Menteith](/setts/s6/g16w4g2k24b24k2-b000064-g004c00-k000000-wd0d0d0/)|

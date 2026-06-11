@@ -20,5 +20,3 @@ GRGWRGR
 |---------------|
 | [Crossnor School](/setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/)|
 |![Crossnor School example sett](/setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/sett.png)|
-| [Crossnor (Corporate)](/setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/)|
-|![Crossnor (Corporate) example sett](/setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/sett.png)|

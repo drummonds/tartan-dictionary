@@ -1,13 +1,20 @@
 ---
-title: "RSCDS (Corporate)"
+title: "Royal Scottish Country Dance Society"
 date: 2023-03-18
 ---
 In pattern [RBKBKWKBKBKBKBYR](/patterns/rbkbkwkbkbkbkbyr/).
 
 
-This was sourced from tartans-authority.  It is a [16 stripes tartan](/stripes/stripes16/).
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6975/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3610
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2006 — Royal Scottish Country Dance Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3610))
+- June 2006 — RSCDS (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6975/))
 
 ## Thread count
 R/6 DB28 K24 B48 K2 LN6 K2 B48 K24 DB4 K4 DB4 K4 DB16 Y2 R/6

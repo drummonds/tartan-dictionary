@@ -18,8 +18,6 @@ BRWRYBYB
 
 | Tartans |
 |---------------|
-| [Duke of York](/setts/s8/b122r12w4r16y4b6y4b30-b00008c-r8c0000-wfcfcfc-yc88c00/)|
-|![Duke of York example sett](/setts/s8/b122r12w4r16y4b6y4b30-b00008c-r8c0000-wfcfcfc-yc88c00/sett.png)|
 | [Duke of York (Royal)](/setts/s8/b122r12w4r16y4b6y4b30-b00008c-r8c0000-wfcfcfc-yc88c00/)|
 |![Duke of York (Royal) example sett](/setts/s8/b122r12w4r16y4b6y4b30-b00008c-r8c0000-wfcfcfc-yc88c00/sett.png)|
 | [Inverness Htg (Royal)](/setts/s8/b122r12w4r16y4b6y4b30-b1c0070-r880000-wfcfcfc-yd09800/)|

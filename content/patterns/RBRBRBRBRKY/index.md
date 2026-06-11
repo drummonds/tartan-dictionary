@@ -18,5 +18,3 @@ RBRBRBRBRKY
 |---------------|
 | [Stephens](/setts/s11/r18b8r4b8r4b30r18b8ra36k18y4-b2c2c80-k101010-r888888-rac80000-ye8c000/)|
 |![Stephens example sett](/setts/s11/r18b8r4b8r4b30r18b8ra36k18y4-b2c2c80-k101010-r888888-rac80000-ye8c000/sett.png)|
-| [Stephens (Name)](/setts/s11/r18b8r4b8r4b30r18b8ra36k18y4-b2c2c80-k101010-r888888-rac80000-ye8c000/)|
-|![Stephens (Name) example sett](/setts/s11/r18b8r4b8r4b30r18b8ra36k18y4-b2c2c80-k101010-r888888-rac80000-ye8c000/sett.png)|

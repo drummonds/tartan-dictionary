@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [21 stripes tartan](/stripes/stripes21
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Matheson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Matheson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DG/8 DR4 DG16 DB16 DR2 DG2 DR2 DG2 DR16 DG8 DR2 DG2 DR2 DG8 DB16 DR48 DG2 DR2 DG2 DR8 DG/16
 ![Sett](sett.png)

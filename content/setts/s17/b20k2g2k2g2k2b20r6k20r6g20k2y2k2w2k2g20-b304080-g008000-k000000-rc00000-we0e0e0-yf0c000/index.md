@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [17 stripes tartan](/stripes/stripes17
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Cunningham, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+- undated — Nicolson, MacNicol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+
 ## Thread count
 B/20 K2 G2 K2 G2 K2 B20 R6 K20 R6 G20 K2 Y2 K2 LN2 K2 G/20
 ![Sett](sett.png)

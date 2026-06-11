@@ -20,5 +20,3 @@ RGWYR
 |---------------|
 | [Menzies #2](/setts/s5/r44g34w4y12r38-g006818-rc80000-wfcfcfc-y48a4c0/)|
 |![Menzies #2 example sett](/setts/s5/r44g34w4y12r38-g006818-rc80000-wfcfcfc-y48a4c0/sett.png)|
-| [Menzies 1819 - Wilsons](/setts/s5/r44g34w4y12r38-g006818-rc80000-wfcfcfc-y48a4c0/)|
-|![Menzies 1819 - Wilsons example sett](/setts/s5/r44g34w4y12r38-g006818-rc80000-wfcfcfc-y48a4c0/sett.png)|

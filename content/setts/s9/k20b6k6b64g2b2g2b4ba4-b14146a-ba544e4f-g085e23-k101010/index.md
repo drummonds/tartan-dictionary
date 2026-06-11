@@ -1,13 +1,20 @@
 ---
-title: "Orman (Midlothian) (Personal) Name Tartan Tartan Number: 10744. Earliest known date: 26/07/2012 Designed by Geoffrey (Tailor) Highland Crafts for Kevin Orman whose ancestors were from Midlothian, The colours reflect his personal preference. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Orman (Midlothian) (Personal)"
 date: 2023-03-18
 ---
 In pattern [BBGBGBKBK](/patterns/bbgbgbkbk/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10744
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10744
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 26/07/2012 — Orman (Midlothian) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10744))
+- undated — Orman (Midlothian) (Personal) Name Tartan Tartan Number: 10744. Earliest known date: 26/07/2012 Designed by Geoffrey (Tailor) Highland Crafts for Kevin Orman whose ancestors were from Midlothian, The colours reflect his personal preference. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10744))
 
 ## Thread count
 K/20 DB6 K6 DB64 G2 DB2 G2 DB4 N/4

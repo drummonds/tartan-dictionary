@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1558
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/1993 — Guelph, City Of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1558))
+- 1993 — Guelph, City Of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2186/))
+
 ## Thread count
 DY/4 DB40 K40 G8 DR4 G8 K4 G/48
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/4 DB40 K40 G8 DR4 G8 K4 G/48 tartan")
 
 ID: /setts/s8/g48k4g8r4g8k40b40y4-b1c0070-g006818-k101010-r880000-yd09800/
-09800/

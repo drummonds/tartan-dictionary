@@ -20,5 +20,3 @@ BYBYGYRY
 |---------------|
 | [Glen Moray](/setts/s8/b4y4b52ya12g12ya12r4ya4-b2c2c80-g8c7038-rc80000-ybc8c00-yaa08858/)|
 |![Glen Moray example sett](/setts/s8/b4y4b52ya12g12ya12r4ya4-b2c2c80-g8c7038-rc80000-ybc8c00-yaa08858/sett.png)|
-| [Glen Moray (Corporate)](/setts/s8/b4y4b52ya12g12ya12r4ya4-b2c2c80-g8c7038-rc80000-ybc8c00-yaa08858/)|
-|![Glen Moray (Corporate) example sett](/setts/s8/b4y4b52ya12g12ya12r4ya4-b2c2c80-g8c7038-rc80000-ybc8c00-yaa08858/sett.png)|

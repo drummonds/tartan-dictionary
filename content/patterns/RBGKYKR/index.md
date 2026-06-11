@@ -20,8 +20,6 @@ RBGKYKR
 |---------------|
 | [Brodie Hunting](/setts/s7/r8b32g32k32y4k32r8-b5c8ca8-g006818-k101010-rc80000-yd09800/)|
 |![Brodie Hunting example sett](/setts/s7/r8b32g32k32y4k32r8-b5c8ca8-g006818-k101010-rc80000-yd09800/sett.png)|
-| [Brodie Hunting (Clan)](/setts/s7/r8b32g32k32y4k32r8-b5c8ca8-g006818-k101010-rc80000-yd09800/)|
-|![Brodie Hunting (Clan) example sett](/setts/s7/r8b32g32k32y4k32r8-b5c8ca8-g006818-k101010-rc80000-yd09800/sett.png)|
 | [Brodie hunting](/setts/s7/r4b16g16k16y2k16r4-b304080-g008000-k000000-rc00000-yf0c000/)|
 |![Brodie hunting example sett](/setts/s7/r4b16g16k16y2k16r4-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
 | [Brodie Hunting](/setts/s7/r4b16g16k16y2k16r4-b000052-g11450d-k000000-raa0000-yaaaa00/)|

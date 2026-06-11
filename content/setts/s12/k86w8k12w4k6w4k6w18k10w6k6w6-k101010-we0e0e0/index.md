@@ -1,13 +1,20 @@
 ---
-title: "Stewart Mourning Clan Tartan Tartan Number: 1247. Earliest known date: 1880 'Clan Originaux' was published in Paris in 1880 by J. Claude Fres Et Cie. It contains the earliest known record of a number of Irish tartans and many variations of Scottish Clan tartans. The only copy known to exist was discovered recently in America and is now in the possession of Pendleton Mills in Portland, Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Stuart/Stewart Mourning"
 date: 2023-03-18
 ---
 In pattern [KWKWKWKWKWKW](/patterns/kwkwkwkwkwkw/).
 
 
-This was sourced from house-of-tartan.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1247
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4009
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Stuart/Stewart Mourning (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4009))
+- undated — Stewart Mourning Clan Tartan Tartan Number: 1247. Earliest known date: 1880 'Clan Originaux' was published in Paris in 1880 by J. Claude Fres Et Cie. It contains the earliest known record of a number of Irish tartans and many variations of Scottish Clan tartans. The only copy known to exist was discovered recently in America and is now in the possession of Pendleton Mills in Portland, Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1247))
 
 ## Thread count
 K/86 LN8 K12 LN4 K6 LN4 K6 LN18 K10 LN6 K6 LN/6

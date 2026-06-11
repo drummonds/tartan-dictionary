@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7529/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Feb 2008 — Lanyard Blue (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7529/))
+- undated — Lanyard Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5565))
+
 ## Thread count
 DB/90 K10 Y2 K4 LN2 K4 B14 R12 K2 R5 LN/4
 ![Sett](sett.png)

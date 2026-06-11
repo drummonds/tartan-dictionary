@@ -18,5 +18,3 @@ BYGYYYGYGGY
 |---------------|
 | [Annand Family (Personal)](/setts/s11/b8y16g4y4ya4y4g4y4ga12g20y6-b780078-g006818-ga604000-ya08858-yaec8048/)|
 |![Annand Family (Personal) example sett](/setts/s11/b8y16g4y4ya4y4g4y4ga12g20y6-b780078-g006818-ga604000-ya08858-yaec8048/sett.png)|
-| [Annand (Personal)](/setts/s11/b8y16g4y4ya4y4g4y4ga12g20y6-b780078-g006818-ga604000-ya08858-yaec8048/)|
-|![Annand (Personal) example sett](/setts/s11/b8y16g4y4ya4y4g4y4ga12g20y6-b780078-g006818-ga604000-ya08858-yaec8048/sett.png)|

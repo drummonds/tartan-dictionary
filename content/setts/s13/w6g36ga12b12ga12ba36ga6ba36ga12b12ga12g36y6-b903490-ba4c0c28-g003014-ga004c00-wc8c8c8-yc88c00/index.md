@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [WGGBGBGBGBGGY](/patterns/wggbgbgbgbggy/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4223/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=813
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Crosby (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=813))
+- 1999 — Crosby (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4223/))
 
 ## Thread count
 DY/6 DG36 G12 LP12 G12 DR36 G6 DR36 G12 LP12 G12 DG36 N/6

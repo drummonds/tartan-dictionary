@@ -18,7 +18,5 @@ BWBW
 
 | Tartans |
 |---------------|
-| [Lewis Navy](/setts/s4/b8w70b62w8-b1c0070-wf0e0c8/)|
-|![Lewis Navy example sett](/setts/s4/b8w70b62w8-b1c0070-wf0e0c8/sett.png)|
 | [Lewis, Navy (Dance)](/setts/s4/b8w70b62w8-b1c0070-wf0e0c8/)|
 |![Lewis, Navy (Dance) example sett](/setts/s4/b8w70b62w8-b1c0070-wf0e0c8/sett.png)|

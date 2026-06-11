@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=207
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 05/07/2001 — Baptist Union of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=207))
+- July 2001 — Baptist Union of Scotland (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4104/))
+
 ## Thread count
 N/4 DB23 B16 K4 DB23 O/4
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "N/4 DB23 B16 K4 DB23 O/4 tartan")
 
 ID: /setts/s6/w4b23g16k4b23y4-b1c0070-g048888-k101010-wc0c0c0-yd87c00/
-00/

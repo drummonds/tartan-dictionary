@@ -18,5 +18,3 @@ GBGGRGGGG
 |---------------|
 | [Conlon](/setts/s9/g8b4g34ga4r8ga4g6ga22g4-b2c2c80-g005448-ga003820-r880000/)|
 |![Conlon example sett](/setts/s9/g8b4g34ga4r8ga4g6ga22g4-b2c2c80-g005448-ga003820-r880000/sett.png)|
-| [Conlon (Name)](/setts/s9/g8b4g34ga4r8ga4g6ga22g4-b2c2c80-g005448-ga003820-r880000/)|
-|![Conlon (Name) example sett](/setts/s9/g8b4g34ga4r8ga4g6ga22g4-b2c2c80-g005448-ga003820-r880000/sett.png)|

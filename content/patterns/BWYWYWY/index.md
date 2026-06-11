@@ -22,5 +22,3 @@ BWYWYWY
 |![Argentine Flag example sett](/setts/s7/b52w4y2w6y4w6y8-b0099cc-wffffff-yffff00/sett.png)|
 | [Argentine Flag (Fashion)](/setts/s7/b52w4y2w6y4w6y8-b5c8ca8-we0e0e0-ye8c000/)|
 |![Argentine Flag (Fashion) example sett](/setts/s7/b52w4y2w6y4w6y8-b5c8ca8-we0e0e0-ye8c000/sett.png)|
-| [Argentine Flag Fashion Tartan Tartan Number: 10007. Earliest known date: Jan. 2004 This tartan has been created to be a seamlessly tileable version of the Argentine flag for a computer screen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b52w4y2w6y4w6y8-b5c8ca8-we0e0e0-ye8c000/)|
-|![Argentine Flag Fashion Tartan Tartan Number: 10007. Earliest known date: Jan. 2004 This tartan has been created to be a seamlessly tileable version of the Argentine flag for a computer screen. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b52w4y2w6y4w6y8-b5c8ca8-we0e0e0-ye8c000/sett.png)|

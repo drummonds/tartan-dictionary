@@ -20,5 +20,3 @@ GRRKW
 |---------------|
 | [Kenspeckle](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/)|
 |![Kenspeckle example sett](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/sett.png)|
-| [Kenspeckle (Corporate)](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/)|
-|![Kenspeckle (Corporate) example sett](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/sett.png)|

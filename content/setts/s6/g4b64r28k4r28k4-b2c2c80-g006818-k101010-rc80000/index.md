@@ -1,13 +1,20 @@
 ---
-title: "Robinson Dress (Name)"
+title: "Robinson Dress (Pendleton) #1"
 date: 2023-03-18
 ---
 In pattern [GBRKRK](/patterns/gbrkrk/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/739/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3538
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Robinson Dress (Pendleton) #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3538))
+- pre 2002 — Robinson Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/739/))
 
 ## Thread count
 G/4 DB64 R28 K4 R28 K/4

@@ -16,7 +16,5 @@ RKBKRKBKRKY
 
 | Tartans |
 |---------------|
-| [Brooks Brothers (WCWM)](/setts/s11/r96k20b24k4r6k4b24k20ra20k4y6-b003074-k000000-r70000c-ra888888-y9c9c00/)|
-|![Brooks Brothers (WCWM) example sett](/setts/s11/r96k20b24k4r6k4b24k20ra20k4y6-b003074-k000000-r70000c-ra888888-y9c9c00/sett.png)|
 | [Brooks Brothers (Corporate)](/setts/s11/r96k20b24k4r6k4b24k20ra20k4y6-b003074-k000000-r70000c-ra888888-y9c9c00/)|
 |![Brooks Brothers (Corporate) example sett](/setts/s11/r96k20b24k4r6k4b24k20ra20k4y6-b003074-k000000-r70000c-ra888888-y9c9c00/sett.png)|

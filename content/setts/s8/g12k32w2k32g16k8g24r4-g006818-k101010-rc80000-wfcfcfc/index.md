@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2288
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1850 — MacAulay Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2288))
+- pre 1850 — MacAulay Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/827/))
+
 ## Thread count
 G/12 K32 W2 K32 G16 K8 G24 R/4
 ![Sett](sett.png)

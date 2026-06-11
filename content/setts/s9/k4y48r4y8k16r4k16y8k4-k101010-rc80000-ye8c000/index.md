@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2630
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1829 — MacLeod (Snuffbox) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2630))
+- 1829 — MacLeod Snuffbox - 1829 (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1268/))
+
 ## Thread count
 K/4 Y8 K16 R4 K16 Y8 R4 Y48 K/4
 ![Sett](sett.png)
@@ -23,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/k4y48r4y8k16r4k16y8k4-k101010-rc80000-ye8c000/
-00-ye8c000/

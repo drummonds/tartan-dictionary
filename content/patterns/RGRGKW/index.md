@@ -24,8 +24,6 @@ RGRGKW
 |![MacGregor of Cardney example sett](/setts/s6/r72g36r8g12k4w4-g006818-k101010-ra00048-we0e0e0/sett.png)|
 | [MacGregor #4](/setts/s6/r82g38r14g16k2w6-g006818-k101010-rc80000-wfcfcfc/)|
 |![MacGregor #4 example sett](/setts/s6/r82g38r14g16k2w6-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [MacGregor of Cardney - 1930 (Clan)](/setts/s6/r72g36r8g12k4w4-g006818-k101010-ra00048-we0e0e0/)|
-|![MacGregor of Cardney - 1930 (Clan) example sett](/setts/s6/r72g36r8g12k4w4-g006818-k101010-ra00048-we0e0e0/sett.png)|
 | [MacGregor - 1800 (Clan)](/setts/s6/r114g42r16g16k2w6-g008c20-k101010-rc80000-wfcfcfc/)|
 |![MacGregor - 1800 (Clan) example sett](/setts/s6/r114g42r16g16k2w6-g008c20-k101010-rc80000-wfcfcfc/sett.png)|
 | [MacGregor](/setts/s6/r72g36r8g12k2w4-g004c00-k000000-rc80000-wd0d0d0/)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2987
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2006 — Montgomerie, Colin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2987))
+- July 2006 — Montgomerie, Colin (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7252/))
+
 ## Thread count
 B/2 K80 N2 Nb8 Na24 Nb6 R10 K2 N/4
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s9/y4k2r10b6ra24b8y2k80ba2-b5c5c5c-ba5c4494-k101010-rc80000-ra888888-ya0a0a0/
-a0a0a0/

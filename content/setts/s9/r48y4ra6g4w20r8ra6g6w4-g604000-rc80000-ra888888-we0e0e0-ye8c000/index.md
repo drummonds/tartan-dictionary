@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2819
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1981 — Manx Laxey (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2819))
+- 1981 — Manx Laxey, Red (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1721/))
+- undated — Manx Laxey Red District Tartan Tartan Number: 1721. Earliest known date: 1981 Presented by Dr. D.G. Teall in 1981 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1721))
+
 ## Thread count
 LN/4 T6 N6 R8 LN20 T4 N6 Y4 R/48
 ![Sett](sett.png)
@@ -25,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/r48y4ra6g4w20r8ra6g6w4-g604000-rc80000-ra888888-we0e0e0-ye8c000/
-c000/

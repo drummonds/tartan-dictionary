@@ -20,5 +20,3 @@ BRKGBG
 |---------------|
 | [Edinburgh International Conference Centre, The](/setts/s6/g8b40g6k40r48b6-b14283c-g603800-k101010-r98481c/)|
 |![Edinburgh International Conference Centre, The example sett](/setts/s6/g8b40g6k40r48b6-b14283c-g603800-k101010-r98481c/sett.png)|
-| [Edinburgh Int.Conf. Centre (Corp.)](/setts/s6/g8b40g6k40r48b6-b14283c-g603800-k101010-r98481c/)|
-|![Edinburgh Int.Conf. Centre (Corp.) example sett](/setts/s6/g8b40g6k40r48b6-b14283c-g603800-k101010-r98481c/sett.png)|

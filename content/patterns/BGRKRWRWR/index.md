@@ -16,8 +16,6 @@ BGRKRWRWR
 
 | Tartans |
 |---------------|
-| [Royal Scottish Assurance](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Royal Scottish Assurance example sett](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [Royal Scottish Assurance (Corporate)](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
 |![Royal Scottish Assurance (Corporate) example sett](/setts/s9/b52g22r16k4r4w4r8w2r30-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
 | [Royal Scottish Assurance](/setts/s9/b52g22r16k4r4w4r8w2r30-b304080-g004010-k000000-rc00000-we0e0e0/)|

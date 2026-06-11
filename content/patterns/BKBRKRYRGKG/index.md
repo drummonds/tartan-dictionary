@@ -18,5 +18,3 @@ BKBRKRYRGKG
 |---------------|
 | [Bracken (WCWM)](/setts/s11/g60k12g12r12y12ra28k8ra6b28k12b32-b5c5c5c-g603800-k101010-rc80000-raa07c58-ydc943c/)|
 |![Bracken (WCWM) example sett](/setts/s11/g60k12g12r12y12ra28k8ra6b28k12b32-b5c5c5c-g603800-k101010-rc80000-raa07c58-ydc943c/sett.png)|
-| [Bracken (Fashion)](/setts/s11/g60k12g12r12y12ra28k8ra6b28k12b32-b5c5c5c-g603800-k101010-rc80000-raa07c58-ydc943c/)|
-|![Bracken (Fashion) example sett](/setts/s11/g60k12g12r12y12ra28k8ra6b28k12b32-b5c5c5c-g603800-k101010-rc80000-raa07c58-ydc943c/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2695
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1950 — MacPhail (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2695))
+- pre 1950 — MacPhail (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1031/))
+
 ## Thread count
 K/8 LG4 G52 R12 K28 R/100
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/8 LG4 G52 R12 K28 R/100 tartan")
 
 ID: /setts/s6/r100k28r12g52ga4k8-g006818-ga789484-k101010-rc80000/
-0/

@@ -20,5 +20,3 @@ KGBKRW
 |---------------|
 | [Bryant (Dalgleish) (Personal)](/setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/)|
 |![Bryant (Dalgleish) (Personal) example sett](/setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/sett.png)|
-| [Bryant (Dalgleish) (Personal)](/setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/)|
-|![Bryant (Dalgleish) (Personal) example sett](/setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/sett.png)|

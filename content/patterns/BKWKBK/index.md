@@ -20,5 +20,3 @@ BKWKBK
 |---------------|
 | [Scottish Express International](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/)|
 |![Scottish Express International example sett](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/sett.png)|
-| [Scottish Express International (Corp](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/)|
-|![Scottish Express International (Corp example sett](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/sett.png)|

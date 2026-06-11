@@ -1,13 +1,20 @@
 ---
-title: "Bannockbane, Tan (Fashion)"
+title: "Bannockbane Tan"
 date: 2023-03-18
 ---
 In pattern [BYBWYBYB](/patterns/bybwybyb/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/669/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Bannockbane Tan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=206))
+- pre 1975 — Bannockbane, Tan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/669/))
 
 ## Thread count
 B/8 Y4 B26 LN26 Y2 DR26 Y4 DR/8

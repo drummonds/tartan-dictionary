@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [19 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2404
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — MacDougall (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2404))
+- pre 2005 — MacDougall - 2005 (Lochcarron) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6634/))
+
 ## Thread count
 LN/12 R4 G32 R6 G4 R6 G12 LN4 R4 LN4 G12 R14 G12 R4 G4 R32 LN4 R4 LN/4
 ![Sett](sett.png)

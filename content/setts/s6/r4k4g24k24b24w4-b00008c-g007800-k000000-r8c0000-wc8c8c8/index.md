@@ -1,13 +1,20 @@
 ---
-title: "Gaines Center for Humanities (Corp)"
+title: "Gaines Center for the Humanities"
 date: 2023-03-18
 ---
 In pattern [RKGKBW](/patterns/rkgkbw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4190/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1295
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1998 — Gaines Center for the Humanities (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1295))
+- 1998 — Gaines Center for Humanities (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4190/))
 
 ## Thread count
 DR/4 K4 G24 K24 DB24 N/4

@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [11 stripes tartan](/stripes/stripes11
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Napier (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Napier (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 K/8 N4 K4 N4 K4 N8 K4 N4 K8 DB24 N/2
 ![Sett](sett.png)

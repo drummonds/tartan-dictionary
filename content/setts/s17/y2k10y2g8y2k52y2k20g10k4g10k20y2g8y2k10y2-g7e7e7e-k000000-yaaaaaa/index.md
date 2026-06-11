@@ -7,7 +7,14 @@ In pattern [YKYGYKGKGKYKYGYKY](/patterns/ykygykgkgkykygyky/).
 
 This was sourced from weddslist.  It is a [17 stripes tartan](/stripes/stripes17/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Clergy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Clergy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 Na/2 K10 Na2 N8 Na2 K20 N10 K4 N10 K20 Na2 K52 Na2 N8 Na2 K10 Na/2

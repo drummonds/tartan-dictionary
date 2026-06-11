@@ -1,13 +1,20 @@
 ---
-title: "MacGregor - 1975 (Dance, Burgundy)"
+title: "MacGregor Dress Burgundy (Dance)"
 date: 2023-03-18
 ---
 In pattern [RKRWRW](/patterns/rkrwrw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1577/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — MacGregor Dress Burgundy (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452))
+- 1975 — MacGregor - 1975 (Dance, Burgundy) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1577/))
 
 ## Thread count
 LR/6 K2 DR16 W12 DR44 W/104
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LR/6 K2 DR16 W12 DR44 W/104 tartan")
 
 ID: /setts/s6/w104r44w12r16k2ra6-k000000-r800028-rae87878-wf8f8f8/
-/

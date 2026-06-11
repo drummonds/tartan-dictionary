@@ -1,13 +1,21 @@
 ---
-title: "Qaboos (Corporate)"
+title: "Quaboos Pipers Plaid"
 date: 2023-03-18
 ---
 In pattern [WGRW](/patterns/wgrw/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1806/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3420
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Quaboos Pipers Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3420))
+- pre 2002 — Qaboos (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1806/))
+- undated — Quaboos Pipers Plaid Regimental Tartan Tartan Number: 1806. Earliest known date: 1983 The Sultan of Oman is the ruler of Quaboos. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1806))
 
 ## Thread count
 LN/18 G46 R46 LN/18

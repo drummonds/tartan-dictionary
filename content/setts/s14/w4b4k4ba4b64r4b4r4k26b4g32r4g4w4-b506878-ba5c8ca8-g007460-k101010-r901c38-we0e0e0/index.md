@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5729
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2008 — Aberfeldy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5729))
+- August 2008 — Aberfeldy (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7748/))
+
 ## Thread count
 LN/4 G4 DR4 G32 N4 K26 DR4 N4 DR4 N64 B4 K4 N4 LN/4
 ![Sett](sett.png)

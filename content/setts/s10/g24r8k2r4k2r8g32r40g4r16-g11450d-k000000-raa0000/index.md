@@ -7,7 +7,14 @@ In pattern [GRKRKRGRGR](/patterns/grkrkrgrgr/).
 
 This was sourced from weddslist.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Livingston (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Livingston (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DG/24 DR8 K2 DR4 K2 DR8 DG32 DR40 DG4 DR/16

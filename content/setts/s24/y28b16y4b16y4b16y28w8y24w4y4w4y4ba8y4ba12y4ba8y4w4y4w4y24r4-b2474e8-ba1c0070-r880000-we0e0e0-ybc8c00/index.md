@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [24 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2021/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1966 — Ottawa (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2021/))
+- 21/11/1967 — Ottawa (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3277))
+
 ## Thread count
 DR/4 DY24 LN4 DY4 LN4 DY4 DB8 DY4 DB12 DY4 DB8 DY4 LN4 DY4 LN4 DY24 LN8 DY28 B16 DY4 B16 DY4 B16 DY/28
 ![Sett](sett.png)

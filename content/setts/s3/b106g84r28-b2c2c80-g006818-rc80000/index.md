@@ -1,13 +1,20 @@
 ---
-title: "Agnew (Clan)"
+title: "Agnew"
 date: 2023-03-18
 ---
 In pattern [BGR](/patterns/bgr/).
 
 
-This was sourced from tartans-authority.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/182/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=26
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1976 — Agnew (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=26))
+- 1976 — Agnew (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/182/))
 
 ## Thread count
 DB/106 G84 R/28

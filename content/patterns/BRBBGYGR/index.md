@@ -20,5 +20,3 @@ BRBBGYGR
 |---------------|
 | [Moray Council](/setts/s8/b16r4b66ba30g24y4g4r4-b1c0070-ba14283c-g006818-r880000-yd09800/)|
 |![Moray Council example sett](/setts/s8/b16r4b66ba30g24y4g4r4-b1c0070-ba14283c-g006818-r880000-yd09800/sett.png)|
-| [Moray Council (Corporate)](/setts/s8/b16r4b66ba30g24y4g4r4-b1c0070-ba14283c-g006818-r880000-yd09800/)|
-|![Moray Council (Corporate) example sett](/setts/s8/b16r4b66ba30g24y4g4r4-b1c0070-ba14283c-g006818-r880000-yd09800/sett.png)|

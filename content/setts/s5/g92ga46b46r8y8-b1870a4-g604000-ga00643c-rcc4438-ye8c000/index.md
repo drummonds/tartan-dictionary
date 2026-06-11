@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3102/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2002 — McMoosie Htg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3102/))
+- undated — McMoosie Htg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4859))
+
 ## Thread count
 T/92 G46 B46 R8 Y/8
 ![Sett](sett.png)

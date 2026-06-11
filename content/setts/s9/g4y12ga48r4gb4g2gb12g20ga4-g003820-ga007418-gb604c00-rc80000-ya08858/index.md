@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6919/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2005 — Fitzgibbon (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6919/))
+- 01/01/2006 — Fitzgibbon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1198))
+
 ## Thread count
 DG/4 LT12 G48 R4 T4 DG2 T12 DG20 G/4
 ![Sett](sett.png)

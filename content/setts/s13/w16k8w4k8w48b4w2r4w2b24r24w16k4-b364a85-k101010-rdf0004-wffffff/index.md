@@ -1,13 +1,20 @@
 ---
-title: "Spirit of South Korea Fashion Tartan Tartan Number: 10681. Earliest known date: 22 August 2012 Designed for an international fashion show. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Spirit of South Korea"
 date: 2023-03-18
 ---
 In pattern [KWRBWRWBWKWKW](/patterns/kwrbwrwbwkwkw/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10681
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10681
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 15/06/2010 — Spirit of South Korea (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10681))
+- undated — Spirit of South Korea Fashion Tartan Tartan Number: 10681. Earliest known date: 22 August 2012 Designed for an international fashion show. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10681))
 
 ## Thread count
 K/4 W16 R24 B24 W2 R4 W2 B4 W48 K8 W4 K8 W/16

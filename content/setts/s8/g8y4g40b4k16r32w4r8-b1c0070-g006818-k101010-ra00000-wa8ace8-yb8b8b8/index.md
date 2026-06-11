@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3662
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1994 — Sawyer (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3662))
+- 1994 — Sawyer (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2162/))
+
 ## Thread count
 DR/8 LP4 DR32 K16 DB4 G40 N4 G/8
 ![Sett](sett.png)

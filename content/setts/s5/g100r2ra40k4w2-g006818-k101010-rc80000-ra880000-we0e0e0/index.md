@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1949
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2006 — Kenspeckle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1949))
+- 2006 July — Kenspeckle (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6969/))
+
 ## Thread count
 G/100 R2 DR40 K4 LN/2
 ![Sett](sett.png)

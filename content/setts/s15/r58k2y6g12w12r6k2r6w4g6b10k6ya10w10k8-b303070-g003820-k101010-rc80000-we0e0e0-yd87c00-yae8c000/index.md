@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KWYKBGWRKRWGYKR](/patterns/kwykbgwrkrwgykr/).
 
 
-This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+This was sourced from register-of-tartans.  It is a [15 stripes tartan](/stripes/stripes15/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/3998/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2001 — Elmore (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104))
+- pre 2002 — Elmore (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3998/))
 
 ## Thread count
 K/8 LN10 Y10 K6 DB10 DG6 LN4 R6 K2 R6 LN12 DG12 O6 K2 R/58

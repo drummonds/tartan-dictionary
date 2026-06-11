@@ -1,13 +1,20 @@
 ---
-title: "Taylor Dress (Dance?)"
+title: "Taylor Dress"
 date: 2023-03-18
 ---
 In pattern [GKGRGWRWGY](/patterns/gkgrgwrwgy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/810/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4082
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1983 — Taylor Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4082))
+- 1983 — Taylor Dress (Dance?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/810/))
 
 ## Thread count
 G/18 K4 G30 R8 G28 LN6 N6 LN46 G10 Y/6

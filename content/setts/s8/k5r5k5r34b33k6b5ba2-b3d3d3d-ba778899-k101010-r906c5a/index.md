@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10666
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 28/06/2012 — Brave for Men (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10666))
+- undated — Brave for Men Fashion Tartan Tartan Number: 10666. Earliest known date: 28/06/2012 A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10666))
+
 ## Thread count
 K/5 LT5 K5 LT34 Na33 K6 Na5 N/2
 ![Sett](sett.png)

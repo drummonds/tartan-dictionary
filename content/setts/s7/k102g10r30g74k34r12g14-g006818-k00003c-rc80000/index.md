@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=459
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/1998 — Cadence Design Systems (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=459))
+- 1998 — Cadence Design Systems (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2480/))
+
 ## Thread count
 DB/102 G10 R30 G74 DB34 R12 G/14
 ![Sett](sett.png)

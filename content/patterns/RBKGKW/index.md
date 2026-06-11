@@ -22,8 +22,6 @@ RBKGKW
 |![MacPhail Hunting example sett](/setts/s6/r4b46k28g32k4w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
 | [MacPhail Hunting #2](/setts/s6/r8b48k24g28k8w6-b2c2c80-g006818-k101010-rc80000-wc0c0c0/)|
 |![MacPhail Hunting #2 example sett](/setts/s6/r8b48k24g28k8w6-b2c2c80-g006818-k101010-rc80000-wc0c0c0/sett.png)|
-| [MacPhail Htg](/setts/s6/r8b48k24g28k8w6-b2c2c80-g006818-k101010-rc80000-wc0c0c0/)|
-|![MacPhail Htg example sett](/setts/s6/r8b48k24g28k8w6-b2c2c80-g006818-k101010-rc80000-wc0c0c0/sett.png)|
 | [Naysmith (Name)](/setts/s6/r12b64k36g56k2w4-b2c2c80-g006818-k101010-rc80000-w98c8e8/)|
 |![Naysmith (Name) example sett](/setts/s6/r12b64k36g56k2w4-b2c2c80-g006818-k101010-rc80000-w98c8e8/sett.png)|
 | [MacPhail, hunting](/setts/s6/r4b46k28g32k4w4-b304080-g008000-k000000-rc00000-we0e0e0/)|

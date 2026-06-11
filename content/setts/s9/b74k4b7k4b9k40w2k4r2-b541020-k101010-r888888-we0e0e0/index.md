@@ -1,13 +1,20 @@
 ---
-title: "Llewellyn Welsh Name Tartan Tartan Number: 5759. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Flello, Flellos, Hillin, Hilling, Lello, Lellow, Lewelin, Lewhellin, Llew, Llewelin, LLewelyn, LLewellin, Llewelling, Llewellyn, LLewheling, Llewhellin, Llewhelling, Lew, Whellin, Welling, Wellins isactually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Llewellen of Wales"
 date: 2023-03-18
 ---
 In pattern [BKBKBKWKR](/patterns/bkbkbkwkr/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5759
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2138
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Llewellen of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2138))
+- undated — Llewellyn Welsh Name Tartan Tartan Number: 5759. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Flello, Flellos, Hillin, Hilling, Lello, Lellow, Lewelin, Lewhellin, Llew, Llewelin, LLewelyn, LLewellin, Llewelling, Llewellyn, LLewheling, Llewhellin, Llewhelling, Lew, Whellin, Welling, Wellins isactually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5759))
 
 ## Thread count
 DR/74 K4 DR7 K4 DR9 K40 LN2 K4 N/2

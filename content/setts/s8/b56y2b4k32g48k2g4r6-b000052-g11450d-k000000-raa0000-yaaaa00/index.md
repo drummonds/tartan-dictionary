@@ -7,7 +7,14 @@ In pattern [BYBKGKGR](/patterns/bybkgkgr/).
 
 This was sourced from weddslist.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Ogilvy VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Ogilvy VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DB/56 LG2 DB4 K32 DG48 K2 DG4 DR/6

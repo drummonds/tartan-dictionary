@@ -1,13 +1,20 @@
 ---
-title: "MacLeod of Assynt (Clan)"
+title: "MacLeod of Assynt"
 date: 2023-03-18
 ---
 In pattern [RKGKBY](/patterns/rkgkby/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1582/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2636
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1831 — MacLeod of Assynt (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2636))
+- 1831 — MacLeod of Assynt (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1582/))
 
 ## Thread count
 R/6 K4 G40 K20 B40 Y/4

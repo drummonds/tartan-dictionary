@@ -18,5 +18,3 @@ BRGKGRKBW
 |---------------|
 | [Bush Pilot](/setts/s9/b2r40g12k12g12r2k12b40w2-b2c2c80-g006818-k101010-rc80000-wf8f8f8/)|
 |![Bush Pilot example sett](/setts/s9/b2r40g12k12g12r2k12b40w2-b2c2c80-g006818-k101010-rc80000-wf8f8f8/sett.png)|
-| [Bush Pilot (Artefact)](/setts/s9/b2r40g12k12g12r2k12b40w2-b2c2c80-g006818-k101010-rc80000-wf8f8f8/)|
-|![Bush Pilot (Artefact) example sett](/setts/s9/b2r40g12k12g12r2k12b40w2-b2c2c80-g006818-k101010-rc80000-wf8f8f8/sett.png)|

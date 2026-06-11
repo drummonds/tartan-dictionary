@@ -20,5 +20,3 @@ GKYKGKGK
 |---------------|
 | [MacLean VS](/setts/s8/g6k12y2k12g4k4g32k2-g11450d-k000000-yaaaaaa/)|
 |![MacLean VS example sett](/setts/s8/g6k12y2k12g4k4g32k2-g11450d-k000000-yaaaaaa/sett.png)|
-| [MacLean VS](/setts/s8/g6k12y2k12g4k4g32k2-g11450d-k000000-yaaaaaa/)|
-|![MacLean VS example sett](/setts/s8/g6k12y2k12g4k4g32k2-g11450d-k000000-yaaaaaa/sett.png)|

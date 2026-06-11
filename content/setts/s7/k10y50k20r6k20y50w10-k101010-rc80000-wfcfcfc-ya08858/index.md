@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 09/01/1999 — Richmond de Ellel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510))
+- pre 2004 — Richmond de Ellel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6226/))
+
 ## Thread count
 K/10 LT50 K20 R6 K20 LT50 W/10
 ![Sett](sett.png)

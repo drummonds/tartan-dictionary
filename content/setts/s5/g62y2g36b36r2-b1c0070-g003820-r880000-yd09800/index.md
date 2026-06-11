@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Miramichi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962))
+- 1996 — Miramichi (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5678/))
+
 ## Thread count
 DG/62 DY2 DG36 DB36 DR/2
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DG/62 DY2 DG36 DB36 DR/2 tartan")
 
 ID: /setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/
-/

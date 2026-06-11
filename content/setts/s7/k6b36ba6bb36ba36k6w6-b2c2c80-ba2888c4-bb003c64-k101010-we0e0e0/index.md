@@ -1,13 +1,20 @@
 ---
-title: "Mary Washington (Corporate)"
+title: "Mary Washington"
 date: 2023-03-18
 ---
 In pattern [KBBBBKW](/patterns/kbbbbkw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2432/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2845
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 25/08/1998 — Mary Washington (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2845))
+- pre 1998 — Mary Washington (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2432/))
 
 ## Thread count
 K/6 DB36 B6 DBa36 B36 K6 LN/6

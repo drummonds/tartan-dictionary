@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2007 — Press & Journal (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3368))
+- February 2007 — Press & Journal (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7099/))
+
 ## Thread count
 K/18 B6 K56 B50 LN/4
 ![Sett](sett.png)

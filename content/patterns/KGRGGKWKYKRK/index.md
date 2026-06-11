@@ -16,8 +16,6 @@ KGRGGKWKYKRK
 
 | Tartans |
 |---------------|
-| [Murphy/Tara](/setts/s12/k16r4k12y4k4w4k4g32ga48r4ga8k6-g603800-ga285800-k101010-rc80000-wc0c0c0-ybc8c00/)|
-|![Murphy/Tara example sett](/setts/s12/k16r4k12y4k4w4k4g32ga48r4ga8k6-g603800-ga285800-k101010-rc80000-wc0c0c0-ybc8c00/sett.png)|
 | [Tara (District)](/setts/s12/k16r4k12y4k4w4k4g32ga48r4ga8k6-g603800-ga285800-k101010-rc80000-wc0c0c0-ybc8c00/)|
 |![Tara (District) example sett](/setts/s12/k16r4k12y4k4w4k4g32ga48r4ga8k6-g603800-ga285800-k101010-rc80000-wc0c0c0-ybc8c00/sett.png)|
 | [Murphy (District)](/setts/s12/k16r4k12y4k4w4k4g32ga48r4ga8k4-g84642c-ga347430-k101010-rc80000-wfcfcfc-yd8b000/)|

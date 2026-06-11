@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [KBGBKRGBK](/patterns/kbgbkrgbk/).
 
 
-This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5096
+Original link http://www.tartansauthority.com/tartan-ferret/display/3501/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2002 — MacNett (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3501/))
+- undated — MacNett (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5096))
 
 ## Thread count
 K/2 DB2 G32 DB16 K24 R32 G32 DB2 K/2

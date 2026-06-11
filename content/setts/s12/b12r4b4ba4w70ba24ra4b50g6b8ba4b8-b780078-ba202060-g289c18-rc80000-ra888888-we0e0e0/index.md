@@ -1,13 +1,20 @@
 ---
-title: "MacDonald of Glencoe - 2005 (Dance)"
+title: "MacDonald of Glencoe (Dance)"
 date: 2023-03-18
 ---
 In pattern [BBBGBRBWBBRB](/patterns/bbbgbrbwbbrb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6553/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2363
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — MacDonald of Glencoe (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2363))
+- pre 2005 — MacDonald of Glencoe - 2005 (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6553/))
 
 ## Thread count
 P/8 DB4 P8 G6 P50 N4 DB24 LN70 DB4 P4 R4 P/12

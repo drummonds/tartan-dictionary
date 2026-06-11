@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2435
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — MacFarlane Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2435))
+- 1819 — MacFarlane Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/947/))
+
 ## Thread count
 G/4 W8 R7 K7 DB21 G2 W5 R5 K2 R5 W5 G21 K3 R/98
 ![Sett](sett.png)

@@ -18,7 +18,5 @@ WBWBKBY
 
 | Tartans |
 |---------------|
-| [Torridon Saphire](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/)|
-|![Torridon Saphire example sett](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/sett.png)|
 | [Torridon, Saphire (Dance)](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/)|
 |![Torridon, Saphire (Dance) example sett](/setts/s7/w6b4w60ba60k4ba4y6-b2c2c80-ba20008c-k000c14-wf0e0c8-ye8c000/sett.png)|

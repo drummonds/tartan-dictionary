@@ -20,5 +20,3 @@ GBGKYKWR
 |---------------|
 | [Red Deer, City of](/setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/)|
 |![Red Deer, City of example sett](/setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|
-| [Red Deer, City of (District)](/setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/)|
-|![Red Deer, City of (District) example sett](/setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|

@@ -1,13 +1,21 @@
 ---
-title: "Barnes Family Tartan Tartan Number: 2244. Earliest known date: 1996 Woven by K.C. Dalgliesh. this is a \"Black Watch B\" variation. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Barnes Hunting (Personal)"
 date: 2023-03-18
 ---
 In pattern [BKBKBKGYGR](/patterns/bkbkbkgygr/).
 
 
-This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2244
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=218
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1996 — Barnes Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=218))
+- 1996 — Barnes (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2244/))
+- undated — Barnes Family Tartan Tartan Number: 2244. Earliest known date: 1996 Woven by K.C. Dalgliesh. this is a "Black Watch B" variation. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2244))
 
 ## Thread count
 DB/40 K6 DB6 K6 DB6 K32 G6 DY6 G24 DR/4

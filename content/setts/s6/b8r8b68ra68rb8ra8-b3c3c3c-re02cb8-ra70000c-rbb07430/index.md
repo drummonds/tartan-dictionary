@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=861
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Cypress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=861))
+- pre 2002 — Cypress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4650/))
+
 ## Thread count
 DR/8 LT8 DR68 N68 LR8 N/8
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/8 LT8 DR68 N68 LR8 N/8 tartan")
 
 ID: /setts/s6/b8r8b68ra68rb8ra8-b3c3c3c-re02cb8-ra70000c-rbb07430/
-07430/

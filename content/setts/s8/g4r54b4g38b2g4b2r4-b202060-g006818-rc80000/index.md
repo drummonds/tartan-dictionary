@@ -1,13 +1,20 @@
 ---
-title: "Thomas (Werlsh Name)"
+title: "Thomas of Wales"
 date: 2023-03-18
 ---
 In pattern [GRBGBGBR](/patterns/grbgbgbr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5763/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4106
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Thomas of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4106))
+- 2002 — Thomas (Werlsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5763/))
 
 ## Thread count
 G/4 R54 DB4 G38 DB2 G4 DB2 R/4

@@ -1,13 +1,20 @@
 ---
-title: "Malmo Skyblue (District)"
+title: "Malmo Skyblue"
 date: 2023-03-18
 ---
 In pattern [BWWWWRWR](/patterns/bwwwwrwr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7010/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2798
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2006 — Malmo Skyblue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2798))
+- 2006 August — Malmo Skyblue (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7010/))
 
 ## Thread count
 DB/28 W36 LN28 W36 LN85 R3 LN3 R/3
@@ -19,6 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
 | DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.07 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.05 |
 | LN | <code style="background-color:#D8E8E8;"><span style="color:#D8E8E8;filter:grayscale(1) invert(1) contrast(100);">#D8E8E8</span></code> `#D8E8E8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.05 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |

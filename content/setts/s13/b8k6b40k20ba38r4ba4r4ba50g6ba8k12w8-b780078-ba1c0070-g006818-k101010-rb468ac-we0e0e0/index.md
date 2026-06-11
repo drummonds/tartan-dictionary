@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7610/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Highland Destiny (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7610/))
+- undated — Highland Destiny (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5632))
+
 ## Thread count
 LN/8 K12 DB8 G6 DB50 Pa4 DB4 Pa4 DB38 K20 P40 K6 P/8
 ![Sett](sett.png)

@@ -1,13 +1,21 @@
 ---
-title: "Davidson Half.. Clan Tartan Tartan Number: 1076. Earliest known date: 1952 D.C.Stewart calls this sett, 'the more recent Davidson', and the basis for the Henderson tartan. It was published by his father D. W. Stewart in 1893, in a beautifully illustrated book, 'Old and Rare Scottish Tartans', in which each sample was woven in silk. This version omits the white stripe of earlier setts recorded in the Highland Society of London collection and the Moy Hall collection. Uniquely among tartans, there is a 'Half' Davidson and a 'Double' Davidson. The former being simply a reduced pattern and the latter a version woven by Wilson's of Bannockburn around 1847 in which the red and white stripes are doubled. Davidsons of Clan Dhai, as they were known, were part of Clan Chattan confederation. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Davidson, Half"
 date: 2023-03-18
 ---
 In pattern [KGBGBR](/patterns/kgbgbr/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1076
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=897
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/2002 — Davidson, Half (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=897))
+- pre 2002 — Davidson - 1990 (Half) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1076/))
+- undated — Davidson Half.. Clan Tartan Tartan Number: 1076. Earliest known date: 1952 D.C.Stewart calls this sett, 'the more recent Davidson', and the basis for the Henderson tartan. It was published by his father D. W. Stewart in 1893, in a beautifully illustrated book, 'Old and Rare Scottish Tartans', in which each sample was woven in silk. This version omits the white stripe of earlier setts recorded in the Highland Society of London collection and the Moy Hall collection. Uniquely among tartans, there is a 'Half' Davidson and a 'Double' Davidson. The former being simply a reduced pattern and the latter a version woven by Wilson's of Bannockburn around 1847 in which the red and white stripes are doubled. Davidsons of Clan Dhai, as they were known, were part of Clan Chattan confederation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1076))
 
 ## Thread count
 K/6 G44 DB6 G6 DB38 R/6

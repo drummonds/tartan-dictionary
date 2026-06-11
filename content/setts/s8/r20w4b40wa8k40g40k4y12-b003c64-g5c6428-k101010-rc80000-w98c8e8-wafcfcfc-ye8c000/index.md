@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5495
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1746 — Culloden 1746 - Original (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5495))
+- 1746 — Culloden - 1746 (Original) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7422/))
+
 ## Thread count
 R/20 LB4 DB40 W8 K40 G40 K4 Y/12
 ![Sett](sett.png)

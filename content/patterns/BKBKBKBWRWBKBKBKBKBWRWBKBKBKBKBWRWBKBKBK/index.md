@@ -18,5 +18,3 @@ BKBKBKBWRWBKBKBKBKBWRWBKBKBKBKBWRWBKBKBK
 |---------------|
 | [Palatine Union (Personal)](/setts/s40/b26k6b6k6b6k20ba20w8r8w8ba20k20b28k6b6k6b28k20ba16w6r6w6ba16k20b26k6b6k6b26k20ba20w8r8w8ba20k20b6k6b6k6-b2c2c80-ba2888c4-k101010-rc80000-we0e0e0/)|
 |![Palatine Union (Personal) example sett](/setts/s40/b26k6b6k6b6k20ba20w8r8w8ba20k20b28k6b6k6b28k20ba16w6r6w6ba16k20b26k6b6k6b26k20ba20w8r8w8ba20k20b6k6b6k6-b2c2c80-ba2888c4-k101010-rc80000-we0e0e0/sett.png)|
-| [Palatine Union (Personal)](/setts/s40/b26k6b6k6b6k20ba20w8r8w8ba20k20b28k6b6k6b28k20ba16w6r6w6ba16k20b26k6b6k6b26k20ba20w8r8w8ba20k20b6k6b6k6-b2c2c80-ba2888c4-k101010-rc80000-we0e0e0/)|
-|![Palatine Union (Personal) example sett](/setts/s40/b26k6b6k6b6k20ba20w8r8w8ba20k20b28k6b6k6b28k20ba16w6r6w6ba16k20b26k6b6k6b26k20ba20w8r8w8ba20k20b6k6b6k6-b2c2c80-ba2888c4-k101010-rc80000-we0e0e0/sett.png)|

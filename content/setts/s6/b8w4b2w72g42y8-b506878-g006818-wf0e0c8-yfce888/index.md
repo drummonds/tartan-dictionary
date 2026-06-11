@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7601/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Skye, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7601/))
+- undated — Skye Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625))
+
 ## Thread count
 LY/8 G42 W72 N2 W4 N/8
 ![Sett](sett.png)

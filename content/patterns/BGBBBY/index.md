@@ -20,5 +20,3 @@ BGBBBY
 |---------------|
 | [Harbour Town Hilton Head, The](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/)|
 |![Harbour Town Hilton Head, The example sett](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/sett.png)|
-| [Harbour Town (Corporate)](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/)|
-|![Harbour Town (Corporate) example sett](/setts/s6/b6g22b6ba22b36y6-b003c64-ba680028-g006818-ya08858/sett.png)|

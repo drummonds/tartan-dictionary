@@ -22,11 +22,5 @@ KGYGY
 |![Perry Hunting (Green) (Personal) example sett](/setts/s5/k150g52y4g8ya10-g006818-k101010-yb8b8b8-yad09800/sett.png)|
 | [SmartWool](/setts/s5/k200g3y3g3y3-g604000-k101010-yd87c00/)|
 |![SmartWool example sett](/setts/s5/k200g3y3g3y3-g604000-k101010-yd87c00/sett.png)|
-| [Angle Dress](/setts/s5/k20g32y20g12y20-g408060-k101010-ybc8c00/)|
-|![Angle Dress example sett](/setts/s5/k20g32y20g12y20-g408060-k101010-ybc8c00/sett.png)|
-| [Perry Htg (Personal)](/setts/s5/k150g52y4g8ya10-g006818-k101010-yb8b8b8-yad09800/)|
-|![Perry Htg (Personal) example sett](/setts/s5/k150g52y4g8ya10-g006818-k101010-yb8b8b8-yad09800/sett.png)|
 | [Angle Dress (Fashion)](/setts/s5/k20g32y20g12y20-g408060-k101010-ybc8c00/)|
 |![Angle Dress (Fashion) example sett](/setts/s5/k20g32y20g12y20-g408060-k101010-ybc8c00/sett.png)|
-| [SmartWool (Corporate)](/setts/s5/k200g3y3g3y3-g604000-k101010-yd87c00/)|
-|![SmartWool (Corporate) example sett](/setts/s5/k200g3y3g3y3-g604000-k101010-yd87c00/sett.png)|

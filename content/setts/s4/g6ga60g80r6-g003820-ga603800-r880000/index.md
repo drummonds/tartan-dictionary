@@ -1,13 +1,20 @@
 ---
-title: "Sanix Muted (Fashion)"
+title: "Sanix Muted"
 date: 2023-03-18
 ---
 In pattern [GGGR](/patterns/gggr/).
 
 
-This was sourced from tartans-authority.  It is a [4 stripes tartan](/stripes/stripes4/).
+This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/stripes4/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2644/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/1999 — Sanix Muted (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4823))
+- Dec. 1999 — Sanix Muted (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2644/))
 
 ## Thread count
 DG/6 T60 DG80 DR/6

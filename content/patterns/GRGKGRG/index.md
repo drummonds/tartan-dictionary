@@ -18,10 +18,6 @@ GRGKGRG
 
 | Tartans |
 |---------------|
-| [Maxwell Hunting](/setts/s7/g6r32g8k12g56r4g6-g006818-k101010-r880000/)|
-|![Maxwell Hunting example sett](/setts/s7/g6r32g8k12g56r4g6-g006818-k101010-r880000/sett.png)|
-| [Northcroft (Personal)](/setts/s7/g48r8g6k28g10r4g20-g006818-k101010-rc80000/)|
-|![Northcroft (Personal) example sett](/setts/s7/g48r8g6k28g10r4g20-g006818-k101010-rc80000/sett.png)|
 | [Maxwell Htg (Clan)](/setts/s7/g6r32g8k12g56r4g6-g006818-k101010-r880000/)|
 |![Maxwell Htg (Clan) example sett](/setts/s7/g6r32g8k12g56r4g6-g006818-k101010-r880000/sett.png)|
 | [Northcroft (Personal)](/setts/s7/g48r8g6k28g10r4g20-g006818-k101010-rc80000/)|

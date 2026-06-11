@@ -1,13 +1,20 @@
 ---
-title: "Victoria,Yellow (Fashion)"
+title: "Victoria (Yellow)"
 date: 2023-03-18
 ---
 In pattern [RYBYKYKWKGRKRW](/patterns/rybykykwkgrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [14 stripes tartan](/stripes/stripes14/).
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1712/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1847 — Victoria (Yellow) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455))
+- 1847? — Victoria,Yellow (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1712/))
 
 ## Thread count
 R/12 Y120 DB24 Y12 K24 Y4 K4 W4 K4 G36 R36 K6 R8 W/4

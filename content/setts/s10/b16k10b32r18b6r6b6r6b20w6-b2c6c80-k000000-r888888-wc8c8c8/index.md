@@ -1,13 +1,20 @@
 ---
-title: "Digital Equipment Corp. (Corporate)"
+title: "Digital Equipment Corp."
 date: 2023-03-18
 ---
 In pattern [BKBRBRBRBW](/patterns/bkbrbrbrbw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2140/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=937
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1991 — Digital Equipment Corp. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=937))
+- 1991 — Digital Equipment Corp. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2140/))
 
 ## Thread count
 B/16 K10 B32 Na18 B6 Na6 B6 Na6 B20 N/6

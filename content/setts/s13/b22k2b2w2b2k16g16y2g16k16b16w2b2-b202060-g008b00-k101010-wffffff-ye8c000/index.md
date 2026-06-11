@@ -1,13 +1,20 @@
 ---
-title: "Logan Rogers Hunting Name Tartan Tartan Number: 10706. Earliest known date: 24 September 2012 The designer has created a different arrangement of the major colours and design of the Logan Rogers tartan (STR#10691). See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Logan Rogers Hunting"
 date: 2023-03-18
 ---
 In pattern [BKBWBKGYGKBWB](/patterns/bkbwbkgygkbwb/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10706
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10706
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 04/09/2012 — Logan Rogers Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10706))
+- undated — Logan Rogers Hunting Name Tartan Tartan Number: 10706. Earliest known date: 24 September 2012 The designer has created a different arrangement of the major colours and design of the Logan Rogers tartan (STR#10691). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10706))
 
 ## Thread count
 DB/22 K2 DB2 W2 DB2 K16 G16 Y2 G16 K16 DB16 W2 DB/2

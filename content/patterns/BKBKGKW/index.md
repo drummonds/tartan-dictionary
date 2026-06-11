@@ -22,8 +22,6 @@ BKBKGKW
 |![Baillie (Highland Society) example sett](/setts/s7/b6k2b16k12g16k2w4-b5a008c-g005020-k101010-we0e0e0/sett.png)|
 | [Forbes #4](/setts/s7/b2k2b12k12g12k2w2-b2c4084-g005020-k101010-we0e0e0/)|
 |![Forbes #4 example sett](/setts/s7/b2k2b12k12g12k2w2-b2c4084-g005020-k101010-we0e0e0/sett.png)|
-| [Forbes, Ancient](/setts/s7/b6k36b36k36g36k6w6-b2c2c80-g006818-k101010-wfcfcfc/)|
-|![Forbes, Ancient example sett](/setts/s7/b6k36b36k36g36k6w6-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
 | [Forbes - 1947 (Lyon Court)](/setts/s7/b6k36b36k36g36k6w6-b2c2c80-g006818-k101010-wfcfcfc/)|
 |![Forbes - 1947 (Lyon Court) example sett](/setts/s7/b6k36b36k36g36k6w6-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
 | [Forbes LC](/setts/s7/b1k6b6k6g6k1w1-b00004c-g004c00-k000000-wd0d0d0/)|

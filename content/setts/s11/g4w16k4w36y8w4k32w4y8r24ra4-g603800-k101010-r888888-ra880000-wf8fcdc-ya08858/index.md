@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2001
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Kintyre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2001))
+- pre 2002 — Kintyre (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5365/))
+
 ## Thread count
 DR/4 Nb24 LT8 LY4 K32 LY4 LT8 LY36 K4 LY16 T/4
 ![Sett](sett.png)

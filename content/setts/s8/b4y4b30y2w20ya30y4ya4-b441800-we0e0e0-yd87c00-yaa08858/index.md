@@ -1,13 +1,20 @@
 ---
-title: "Bannockbane Trade Tartan Tartan Number: 1743. Earliest known date: pre 2003 The original Bannockbane which was later produced in various colourways See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Bannockbane Orange Stripes"
 date: 2023-03-18
 ---
 In pattern [BYBYWYYY](/patterns/bybywyyy/).
 
 
-This was sourced from house-of-tartan.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1743
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=204
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — Bannockbane Orange Stripes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=204))
+- undated — Bannockbane Trade Tartan Tartan Number: 1743. Earliest known date: pre 2003 The original Bannockbane which was later produced in various colourways See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1743))
 
 ## Thread count
 DR/4 O4 DR30 O2 LN20 LT30 O4 LT/4

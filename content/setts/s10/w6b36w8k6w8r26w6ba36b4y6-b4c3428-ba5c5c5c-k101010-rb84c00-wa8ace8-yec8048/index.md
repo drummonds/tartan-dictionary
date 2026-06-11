@@ -1,13 +1,20 @@
 ---
-title: "Leitrim, County (District)"
+title: "Leitrim, County"
 date: 2023-03-18
 ---
 In pattern [WBWKWRWBBY](/patterns/wbwkwrwbby/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2271/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2092
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1996 — Leitrim, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2092))
+- 1997 — Leitrim, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2271/))
 
 ## Thread count
 LP/6 T36 LP8 K6 LP8 DO26 LP6 N36 T4 O/6

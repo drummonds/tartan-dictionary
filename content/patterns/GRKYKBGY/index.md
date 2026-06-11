@@ -20,5 +20,3 @@ GRKYKBGY
 |---------------|
 | [Mensah](/setts/s8/y6g18b18k2y4k30r74g4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
 |![Mensah example sett](/setts/s8/y6g18b18k2y4k30r74g4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Mensah (Corporate)](/setts/s8/y6g18b18k2y4k30r74g4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Mensah (Corporate) example sett](/setts/s8/y6g18b18k2y4k30r74g4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|

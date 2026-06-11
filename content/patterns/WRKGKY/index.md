@@ -20,5 +20,3 @@ WRKGKY
 |---------------|
 | [MacLamroc](/setts/s6/y8k2g32k32r2w6-g285800-k101010-rc80000-we0e0e0-ye8c000/)|
 |![MacLamroc example sett](/setts/s6/y8k2g32k32r2w6-g285800-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [MacLamrock (Clan)](/setts/s6/y8k2g32k32r2w6-g285800-k101010-rc80000-we0e0e0-ye8c000/)|
-|![MacLamrock (Clan) example sett](/setts/s6/y8k2g32k32r2w6-g285800-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

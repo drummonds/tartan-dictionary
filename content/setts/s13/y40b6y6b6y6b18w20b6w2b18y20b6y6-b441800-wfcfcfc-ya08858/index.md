@@ -1,13 +1,20 @@
 ---
-title: "Brown Watch Dress (Fashion)"
+title: "Brown Watch Dress"
 date: 2023-03-18
 ---
 In pattern [YBYBWBWBYBYBY](/patterns/ybybwbwbybyby/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1746/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=393
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Brown Watch Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=393))
+- pre 2002 — Brown Watch Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1746/))
 
 ## Thread count
 LT/40 DR6 LT6 DR6 LT6 DR18 W20 DR6 W2 DR18 LT20 DR6 LT/6

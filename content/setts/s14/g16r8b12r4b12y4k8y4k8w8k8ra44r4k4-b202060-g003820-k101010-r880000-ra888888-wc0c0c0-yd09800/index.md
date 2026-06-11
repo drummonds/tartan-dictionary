@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5126
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1936 — Ross Anderson (Fashion) #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5126))
+- 1936 — Ross Anderson (Fashion) #2 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3173/))
+
 ## Thread count
 DG/16 DR8 DB12 DR4 DB12 DY4 K8 DY4 K8 Na8 K8 N44 DR4 K/4
 ![Sett](sett.png)

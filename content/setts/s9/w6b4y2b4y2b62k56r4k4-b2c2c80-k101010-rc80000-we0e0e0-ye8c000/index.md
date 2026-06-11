@@ -1,13 +1,20 @@
 ---
-title: "Hill Name Tartan Tartan Number: 10013. Earliest known date: Mar. 2009 An important branch of the Hills was based in Angus from the mid 15th century and this design by James Hill reflects that with its use of the Angus District tartan as its inspiration. The blue, silver and gold are features of the arms of the designer's family and other such families as Hill of Lambhill, Hill of Merrylees and the designer. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Hill (Name)"
 date: 2023-03-18
 ---
 In pattern [KRKBYBYBW](/patterns/krkbybybw/).
 
 
-This was sourced from house-of-tartan.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10013
+Original link http://www.tartansauthority.com/tartan-ferret/display/10013/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Mar. 2009 — Hill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10013/))
+- undated — Hill Name Tartan Tartan Number: 10013. Earliest known date: Mar. 2009 An important branch of the Hills was based in Angus from the mid 15th century and this design by James Hill reflects that with its use of the Angus District tartan as its inspiration. The blue, silver and gold are features of the arms of the designer's family and other such families as Hill of Lambhill, Hill of Merrylees and the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10013))
 
 ## Thread count
 K/4 R4 K56 DB62 Y2 DB4 Y2 DB4 LN/6

@@ -1,13 +1,20 @@
 ---
-title: "Lloyd of Astargus (Name)"
+title: "Lloyd of Astargus"
 date: 2023-03-18
 ---
 In pattern [RBKWRY](/patterns/rbkwry/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5771/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2139
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Lloyd of Astargus (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2139))
+- 2001 — Lloyd of Astargus (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5771/))
 
 ## Thread count
 DY/4 N40 LN4 K26 DB122 R/4

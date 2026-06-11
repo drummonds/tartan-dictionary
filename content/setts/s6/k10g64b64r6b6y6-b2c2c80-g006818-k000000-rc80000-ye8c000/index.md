@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=565
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1907 — Carmichael (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=565))
+- 1907 — Carmichael 1907 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1078/))
+
 ## Thread count
 K/10 G64 DB64 R6 DB6 Y/6
 ![Sett](sett.png)
@@ -29,4 +36,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/10 G64 DB64 R6 DB6 Y/6 tartan")
 
 ID: /setts/s6/k10g64b64r6b6y6-b2c2c80-g006818-k000000-rc80000-ye8c000/
-ye8c000/

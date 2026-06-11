@@ -1,13 +1,20 @@
 ---
-title: "MacArthur-Fox Hunting"
+title: "MacArthur-Fox Htg (Personal)"
 date: 2023-03-18
 ---
 In pattern [RGKGKY](/patterns/rgkgky/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5187
+Original link http://www.tartansauthority.com/tartan-ferret/display/3611/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1997 — MacArthur-Fox Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3611/))
+- undated — MacArthur-Fox Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5187))
 
 ## Thread count
 DR/6 G60 K24 G2 K32 DY/4
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/6 G60 K24 G2 K32 DY/4 tartan")
 
 ID: /setts/s6/r6g60k24g2k32y4-g006818-k101010-r880000-yd09800/
-0/

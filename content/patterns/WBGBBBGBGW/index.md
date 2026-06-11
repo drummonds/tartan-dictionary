@@ -18,5 +18,3 @@ WBGBBBGBGW
 |---------------|
 | [Glen Tilt #1](/setts/s10/w4b4g4b44ba24b4g56b4g4w4-b4c0000-ba1c0070-g006818-wc0c0c0/)|
 |![Glen Tilt #1 example sett](/setts/s10/w4b4g4b44ba24b4g56b4g4w4-b4c0000-ba1c0070-g006818-wc0c0c0/sett.png)|
-| [Glen Tilt #1 (District)](/setts/s10/w4b4g4b44ba24b4g56b4g4w4-b4c0000-ba1c0070-g006818-wc0c0c0/)|
-|![Glen Tilt #1 (District) example sett](/setts/s10/w4b4g4b44ba24b4g56b4g4w4-b4c0000-ba1c0070-g006818-wc0c0c0/sett.png)|

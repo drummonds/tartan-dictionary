@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1915
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Justerini & Brooks (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1915))
+- pre 2002 — Justerini & Brooks (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5318/))
+
 ## Thread count
 G/6 R20 Ga12 R22 K12 G28 R18 Y28 R/96
 ![Sett](sett.png)

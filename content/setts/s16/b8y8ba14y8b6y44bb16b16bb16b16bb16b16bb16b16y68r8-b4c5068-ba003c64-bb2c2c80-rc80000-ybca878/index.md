@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3322
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Perry Golf (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3322))
+- 2004 — Perry Golf (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6893/))
+
 ## Thread count
 N/8 LG8 DBb14 LG8 N6 LG44 DBa16 N16 DBa16 N16 DBa16 N16 DBa16 N16 LG68 R/8
 ![Sett](sett.png)

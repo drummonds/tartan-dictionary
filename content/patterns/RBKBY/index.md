@@ -20,5 +20,3 @@ RBKBY
 |---------------|
 | [Sanix Modern](/setts/s5/r4b32k24ba40y4-b003c64-ba202060-k101010-r880000-yd09800/)|
 |![Sanix Modern example sett](/setts/s5/r4b32k24ba40y4-b003c64-ba202060-k101010-r880000-yd09800/sett.png)|
-| [Sanix Modern (Fashion)](/setts/s5/r4b32k24ba40y4-b003c64-ba202060-k101010-r880000-yd09800/)|
-|![Sanix Modern (Fashion) example sett](/setts/s5/r4b32k24ba40y4-b003c64-ba202060-k101010-r880000-yd09800/sett.png)|

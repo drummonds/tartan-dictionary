@@ -28,8 +28,6 @@ BRBRBRKGRGRG
 |![MacDonald #5 example sett](/setts/s12/b24r4b4r10b52r4k58g54r10g4r4g24-b2c4084-g005020-k101010-rdc0000/sett.png)|
 | [MacDonald #6](/setts/s12/b16r4b4r8b20r4k22g20r8g4r4g16-b2c4084-g005020-k101010-rdc0000/)|
 |![MacDonald #6 example sett](/setts/s12/b16r4b4r8b20r4k22g20r8g4r4g16-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [MacDonald - 1800 (Clan)](/setts/s12/b34r4b4r10b58r4k62g58r10g4r4g34-b2c2c80-g006818-k101010-rc80000/)|
-|![MacDonald - 1800 (Clan) example sett](/setts/s12/b34r4b4r10b58r4k62g58r10g4r4g34-b2c2c80-g006818-k101010-rc80000/sett.png)|
 | [MacDonald](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000064-g004c00-k000000-rc80000/)|
 |![MacDonald example sett](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000064-g004c00-k000000-rc80000/sett.png)|
 | [MacDonald 2](/setts/s12/b16r4b4r8b20r4k22g20r8g4r4g16-b304080-g008000-k000000-rc00000/)|
@@ -44,8 +42,6 @@ BRBRBRKGRGRG
 |![MacDonald 7 example sett](/setts/s12/b22r4b4r8b30r4k30g30r8g4r4g22-b304080-g008000-k000000-rc00000/sett.png)|
 | [MacDonald 8](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b304080-g008000-k000000-rc00000/)|
 |![MacDonald 8 example sett](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b304080-g008000-k000000-rc00000/sett.png)|
-| [MacDonald](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000052-g11450d-k000000-raa0000/)|
-|![MacDonald example sett](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000052-g11450d-k000000-raa0000/sett.png)|
 | [MacDonald](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000052-g11450d-k000000-raa0000/)|
 |![MacDonald example sett](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000052-g11450d-k000000-raa0000/sett.png)|
 | [MacDonald Clan Tartan Tartan Number: 419. Earliest known date: 1810-15 This is oldest recorded version of the Clan sett. It varies slightly from those recorded by Logan, Smibert, Grant etc., but the motif is the same throughout. Of the nine independant branches of the Clan Donald, there are at least 27 different setts. It was not until 1947 that the MacDonalds again had a high chief, MacDhomnuill, who by tradition has the final word on the tartans of the clan. That right was granted to Alexander MacDonald of MacDonald whose son Godfrey is now the 8th Chief. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b2c2c80-g006818-k101010-rc80000/)|

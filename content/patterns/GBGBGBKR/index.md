@@ -20,5 +20,3 @@ GBGBGBKR
 |---------------|
 | [Frederiction Police Force](/setts/s8/r12k110b16g12b20g12b12g8-b2c2c80-g289c18-k101010-rc80000/)|
 |![Frederiction Police Force example sett](/setts/s8/r12k110b16g12b20g12b12g8-b2c2c80-g289c18-k101010-rc80000/sett.png)|
-| [Fredericton Police Force (Corporate)](/setts/s8/r12k110b16g12b20g12b12g8-b2c2c80-g289c18-k101010-rc80000/)|
-|![Fredericton Police Force (Corporate) example sett](/setts/s8/r12k110b16g12b20g12b12g8-b2c2c80-g289c18-k101010-rc80000/sett.png)|

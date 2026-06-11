@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/328/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1979 — AIton - 1979 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/328/))
+- 01/01/1997 — Aiton/Ayton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=31))
+
 ## Thread count
 DB/12 K2 G6 K2 DB6 K2 G20 R/6
 ![Sett](sett.png)

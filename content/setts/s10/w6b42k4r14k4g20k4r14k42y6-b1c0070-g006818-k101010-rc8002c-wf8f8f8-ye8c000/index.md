@@ -1,13 +1,20 @@
 ---
-title: "Tantallon (Corporate)"
+title: "Tantallon"
 date: 2023-03-18
 ---
 In pattern [WBKRKGKRKY](/patterns/wbkrkgkrky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6849/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5294
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/07/2005 — Tantallon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5294))
+- Jul. 2005 — Tantallon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6849/))
 
 ## Thread count
 W/6 DB42 K4 R14 K4 G20 K4 R14 K42 Y/6

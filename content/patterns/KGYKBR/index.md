@@ -20,8 +20,6 @@ KGYKBR
 |---------------|
 | [Forsyth (1795)](/setts/s6/k8g44y4k32b36r8-b1474b4-g007800-k000000-rc80000-ye8c000/)|
 |![Forsyth (1795) example sett](/setts/s6/k8g44y4k32b36r8-b1474b4-g007800-k000000-rc80000-ye8c000/sett.png)|
-| [Forsyth (Clan)](/setts/s6/k8g44y4k32b36r8-b1474b4-g007800-k000000-rc80000-ye8c000/)|
-|![Forsyth (Clan) example sett](/setts/s6/k8g44y4k32b36r8-b1474b4-g007800-k000000-rc80000-ye8c000/sett.png)|
 | [Forsyth](/setts/s6/k8g44y4k32b36r8-b304080-g008000-k000000-rc00000-yf0c000/)|
 |![Forsyth example sett](/setts/s6/k8g44y4k32b36r8-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
 | [Leslie Hunting](/setts/s6/r4b16k16y2g16k2-b000052-g11450d-k000000-raa0000-yaaaaaa/)|

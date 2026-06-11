@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2144
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2005 — Loch Fyne (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2144))
+- 2005 December — Loch Fyne (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6817/))
+
 ## Thread count
 B/4 DN20 LT20 G20 T12 R/4
 ![Sett](sett.png)
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/4 DN20 LT20 G20 T12 R/4 tartan")
 
 ID: /setts/s6/b4ba20y20g20ga12r4-b5c8ca8-ba14283c-g289c18-ga604000-rc80000-ya08858/
-08858/

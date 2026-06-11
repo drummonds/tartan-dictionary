@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7724/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2008 — Dublin Lie-ins (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7724/))
+- undated — Dublin Lie-ins (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5710))
+
 ## Thread count
 DB/16 K6 DB52 K22 B6 DB16 DR8 DB16 B6 K4 LN/6
 ![Sett](sett.png)

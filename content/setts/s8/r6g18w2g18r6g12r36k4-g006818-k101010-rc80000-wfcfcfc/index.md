@@ -1,13 +1,20 @@
 ---
-title: "Cumming - 1850 (Clan)"
+title: "Cumming #2"
 date: 2023-03-18
 ---
 In pattern [KRGRGWGR](/patterns/krgrgwgr/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1157/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1850 — Cumming #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835))
+- 1850 — Cumming - 1850 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1157/))
 
 ## Thread count
 K/4 R36 G12 R6 G18 W2 G18 R/6

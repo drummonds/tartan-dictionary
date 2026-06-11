@@ -1,13 +1,20 @@
 ---
-title: "Heddle (Clan)"
+title: "Heddle"
 date: 2023-03-18
 ---
 In pattern [BBKBBBKBYBKBW](/patterns/bbkbbbkbybkbw/).
 
 
-This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6775/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1677
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2003 — Heddle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1677))
+- 2003 June — Heddle (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6775/))
 
 ## Thread count
 N/16 DB48 K4 DB4 N16 DB4 K4 DB8 Y4 DB8 K4 N24 W/6

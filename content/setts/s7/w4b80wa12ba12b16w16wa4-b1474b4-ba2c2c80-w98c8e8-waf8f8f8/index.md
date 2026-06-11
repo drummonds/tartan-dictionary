@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3909
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — Starr (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3909))
+- pre 2004 — Starr (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6373/))
+
 ## Thread count
 LB/4 B80 W12 DB12 B16 LB16 W/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LB/4 B80 W12 DB12 B16 LB16 W/4 tartan")
 
 ID: /setts/s7/w4b80wa12ba12b16w16wa4-b1474b4-ba2c2c80-w98c8e8-waf8f8f8/
-8/

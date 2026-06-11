@@ -1,13 +1,20 @@
 ---
-title: "Little Dress (Name)"
+title: "Little Dress"
 date: 2023-03-18
 ---
 In pattern [KRKRKWKWKY](/patterns/krkrkwkwky/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4138/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2000 — Little Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126))
+- 2000 — Little Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4138/))
 
 ## Thread count
 DY/4 K32 LN32 K8 LN32 K16 R16 K16 R16 K/16

@@ -1,13 +1,20 @@
 ---
-title: "Lysaght Htg (Clan)"
+title: "Lysaght Hunting"
 date: 2023-03-18
 ---
 In pattern [GBGBKBKBKGKG](/patterns/gbgbkbkbkgkg/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6592/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2261
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2005 — Lysaght Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2261))
+- 2005 March — Lysaght Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6592/))
 
 ## Thread count
 G/24 K16 G24 K44 DB4 K12 DB12 K4 DB44 T24 DB16 T/24

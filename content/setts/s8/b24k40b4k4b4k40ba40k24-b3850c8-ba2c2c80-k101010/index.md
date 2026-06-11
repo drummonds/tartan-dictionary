@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3211
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1983 — Oban (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3211))
+- pre 1983 — Oban (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5529/))
+
 ## Thread count
 B/24 K40 B4 K4 B4 K40 DBa40 K/24
 ![Sett](sett.png)

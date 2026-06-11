@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7657/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- June 2008 — DDB Canada (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7657/))
+- undated — DDB Canada (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5665))
+
 ## Thread count
 K/2 N4 K14 N22 K36 Y4 K/2
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3290
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/1996 — Park (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3290))
+- September 1996 — Park (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2387/))
+
 ## Thread count
 G/6 R4 G6 R8 G68 K4 G4 K4 G8 K32 DB32 R/6
 ![Sett](sett.png)

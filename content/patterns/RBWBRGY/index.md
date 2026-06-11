@@ -18,7 +18,5 @@ RBWBRGY
 
 | Tartans |
 |---------------|
-| [Edinburgh Fire](/setts/s7/y8g16r16b84w4b4ra4-b506078-g604000-rc80000-racc4438-we0e0e0-ye8c000/)|
-|![Edinburgh Fire example sett](/setts/s7/y8g16r16b84w4b4ra4-b506078-g604000-rc80000-racc4438-we0e0e0-ye8c000/sett.png)|
 | [Edinburgh Fire (Corporate)](/setts/s7/y8g16r16b84w4b4ra4-b506078-g604000-rc80000-racc4438-we0e0e0-ye8c000/)|
 |![Edinburgh Fire (Corporate) example sett](/setts/s7/y8g16r16b84w4b4ra4-b506078-g604000-rc80000-racc4438-we0e0e0-ye8c000/sett.png)|

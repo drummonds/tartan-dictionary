@@ -1,13 +1,20 @@
 ---
-title: "Volkswagen Orange Fashion Tartan Tartan Number: 7504. Earliest known date: pre 2008 Small sample of Volkswagen upholstery fabric taken in to The Scottish Shoppe in Calgary, Alberta. Sample didn't show the complete sett but the proportions of what has been reconstructed here are correct. The threadcount has been multiplied by three and the actual sett in the vehicle was probably about 12 inches. The colours would be changed depending upon the body colour of the vehicle. Enquiries are being made with VW (Feb 2008) to try and pin down the patterns. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Volkswagen Orange Trim (Fashion)"
 date: 2023-03-18
 ---
 In pattern [KYGYKY](/patterns/kygyky/).
 
 
-This was sourced from house-of-tartan.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7504
+Original link http://www.tartansauthority.com/tartan-ferret/display/7504/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2008 — Volkswagen Orange Trim (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7504/))
+- undated — Volkswagen Orange Fashion Tartan Tartan Number: 7504. Earliest known date: pre 2008 Small sample of Volkswagen upholstery fabric taken in to The Scottish Shoppe in Calgary, Alberta. Sample didn't show the complete sett but the proportions of what has been reconstructed here are correct. The threadcount has been multiplied by three and the actual sett in the vehicle was probably about 12 inches. The colours would be changed depending upon the body colour of the vehicle. Enquiries are being made with VW (Feb 2008) to try and pin down the patterns. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7504))
 
 ## Thread count
 K/18 O18 G18 O18 K60 O/156

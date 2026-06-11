@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7804/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2003 — Snelgrove Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7804/))
+- undated — Snelgrove Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5766))
+
 ## Thread count
 B/4 T20 G72 DY4 T16 R24 K/6
 ![Sett](sett.png)
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "B/4 T20 G72 DY4 T16 R24 K/6 tartan")
 
 ID: /setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/
-

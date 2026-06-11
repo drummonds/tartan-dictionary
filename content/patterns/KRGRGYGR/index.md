@@ -24,5 +24,3 @@ KRGRGYGR
 |![Cumming SM example sett](/setts/s8/r6g18y2g18r6g12r36k4-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
 | [Comyn](/setts/s8/k1r9g2r2g4y1g4r1-g11450d-k000000-raa0000-yaaaaaa/)|
 |![Comyn example sett](/setts/s8/k1r9g2r2g4y1g4r1-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Cumming SM](/setts/s8/r6g18y2g18r6g12r36k4-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Cumming SM example sett](/setts/s8/r6g18y2g18r6g12r36k4-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

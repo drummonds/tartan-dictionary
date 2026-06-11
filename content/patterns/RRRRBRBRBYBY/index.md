@@ -18,5 +18,3 @@ RRRRBRBRBYBY
 |---------------|
 | [Lysaght](/setts/s12/r24ra16r24ra44b4ra12b12ra4b44y24b16y24-b2c2c80-r880000-ra888888-ybc8c00/)|
 |![Lysaght example sett](/setts/s12/r24ra16r24ra44b4ra12b12ra4b44y24b16y24-b2c2c80-r880000-ra888888-ybc8c00/sett.png)|
-| [Lysaght (Clan)](/setts/s12/r24ra16r24ra44b4ra12b12ra4b44y24b16y24-b2c2c80-r880000-ra888888-ybc8c00/)|
-|![Lysaght (Clan) example sett](/setts/s12/r24ra16r24ra44b4ra12b12ra4b44y24b16y24-b2c2c80-r880000-ra888888-ybc8c00/sett.png)|

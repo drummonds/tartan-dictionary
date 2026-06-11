@@ -7,7 +7,14 @@ In pattern [BRBRGRGRBRBR](/patterns/brbrgrgrbrbr/).
 
 This was sourced from weddslist.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacQuarrie SM (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacQuarrie SM (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 B/2 DR2 DB2 DR12 DG12 DR2 DG12 DR2 DB6 DR12 B2 DR/2

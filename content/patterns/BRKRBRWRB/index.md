@@ -20,8 +20,6 @@ BRKRBRWRB
 |![MacPherson example sett](/setts/s9/b6r6k48r6b6r6w48r6b6-b2c4084-k101010-rdc0000-we0e0e0/sett.png)|
 | [MacPherson of Pitmain](/setts/s9/b4r4k32r4b4r4w32r4b4-b1c0070-k101010-r880000-we0e0e0/)|
 |![MacPherson of Pitmain example sett](/setts/s9/b4r4k32r4b4r4w32r4b4-b1c0070-k101010-r880000-we0e0e0/sett.png)|
-| [MacPherson of Pitmain (Clan)](/setts/s9/b4r4k32r4b4r4w32r4b4-b1c0070-k101010-r880000-we0e0e0/)|
-|![MacPherson of Pitmain (Clan) example sett](/setts/s9/b4r4k32r4b4r4w32r4b4-b1c0070-k101010-r880000-we0e0e0/sett.png)|
 | [Meg Merrilees, New (1831)](/setts/s9/b5r5k58r5b5r5w25r5b4-b5c8ca8-k101010-rc80000-wfcfcfc/)|
 |![Meg Merrilees, New (1831) example sett](/setts/s9/b5r5k58r5b5r5w25r5b4-b5c8ca8-k101010-rc80000-wfcfcfc/sett.png)|
 | [MacPherson 2](/setts/s9/b6r6k48r6b6r6w48r6b6-b304080-k000000-rc00000-we0e0e0/)|

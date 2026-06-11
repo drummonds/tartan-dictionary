@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2354
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — MacDonald of Clanranald #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2354))
+- 1819 — MacDonald of Clanranald - 1819 (Clan (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/427/))
+
 ## Thread count
 DB/12 R4 DB4 R6 DB24 R4 K22 W4 G22 R6 G4 R4 G/12
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s13/b12r4b4r6b24r4k22w4g22r6g4r4g12-b2c2c80-g006818-k101010-rc80000-wfcfcfc/
-cfc/

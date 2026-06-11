@@ -20,5 +20,3 @@ BRGGGG
 |---------------|
 | [Palm Beach Gardens Police](/setts/s6/g64ga12g24ga56r4b2-b1c0070-g20943c-ga688898-r880000/)|
 |![Palm Beach Gardens Police example sett](/setts/s6/g64ga12g24ga56r4b2-b1c0070-g20943c-ga688898-r880000/sett.png)|
-| [Palm Beach Gardens Police (Corporate](/setts/s6/g64ga12g24ga56r4b2-b1c0070-g20943c-ga688898-r880000/)|
-|![Palm Beach Gardens Police (Corporate example sett](/setts/s6/g64ga12g24ga56r4b2-b1c0070-g20943c-ga688898-r880000/sett.png)|

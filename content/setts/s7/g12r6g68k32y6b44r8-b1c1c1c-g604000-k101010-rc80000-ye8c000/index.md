@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=178
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Ballantrae (Macnaughtons) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=178))
+- pre 2002 — Ballantrae - H of E (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5852/))
+
 ## Thread count
 R/8 K44 Y6 Ka32 T68 R6 T/12
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/10/2005 — Henbury (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682))
+- 2005 October — Henbury (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6792/))
+
 ## Thread count
 DP/50 DN75 DP75 DN12 LG12 DP75 DN75 DP50 W12 DN12 DP75 DN75 DP50 W12 DN12 W/12
 ![Sett](sett.png)

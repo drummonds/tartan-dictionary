@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7538/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2005 — Dunfermline Athletic (2008) (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7538/))
+- undated — Dunfermline Athletic Football Club New Pars (2008) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5573))
+
 ## Thread count
 K/88 LN8 K8 LN8 K32 N64 R/8
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/88 LN8 K8 LN8 K32 N64 R/8 tartan")
 
 ID: /setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/
-8-rac80000-we0e0e0/

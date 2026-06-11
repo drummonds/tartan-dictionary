@@ -20,5 +20,3 @@ GWGRRBR
 |---------------|
 | [Leckie (Personal)](/setts/s7/r12b4r48ra12g48w4g8-b00008c-g004c00-rb00000-ra640000-wc8c8c8/)|
 |![Leckie (Personal) example sett](/setts/s7/r12b4r48ra12g48w4g8-b00008c-g004c00-rb00000-ra640000-wc8c8c8/sett.png)|
-| [Leckie (Personal)](/setts/s7/r12b4r48ra12g48w4g8-b00008c-g004c00-rb00000-ra640000-wc8c8c8/)|
-|![Leckie (Personal) example sett](/setts/s7/r12b4r48ra12g48w4g8-b00008c-g004c00-rb00000-ra640000-wc8c8c8/sett.png)|

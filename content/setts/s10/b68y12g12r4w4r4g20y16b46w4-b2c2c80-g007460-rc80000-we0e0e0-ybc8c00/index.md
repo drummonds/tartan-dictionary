@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7648/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- May 2008 — International Pairs (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7648/))
+- undated — International Pairs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5661))
+
 ## Thread count
 DB/68 DY12 G12 R4 LN4 R4 G20 DY16 DB46 LN/4
 ![Sett](sett.png)

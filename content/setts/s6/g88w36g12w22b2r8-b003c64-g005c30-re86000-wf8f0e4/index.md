@@ -9,6 +9,14 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7523/
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- June 2002 — Westfalia (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7523/))
+- undated — Westfalia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5560))
+- undated — Westfalia German Corporate Tartan Tartan Number: 7523. Earliest known date: June 2002 A worsted scarf for a German dairy machinery company. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7523))
+
 ## Thread count
 G/88 LY36 G12 LY22 DB2 O/8
 ![Sett](sett.png)

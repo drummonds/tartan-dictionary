@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1781/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1959 — Ancient Atlantic (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1781/))
+- 01/01/1964 — Ancient Atlantic (SINDEX) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=72))
+
 ## Thread count
 DY/4 DG34 DN4 DR32 DB34 N/6
 ![Sett](sett.png)

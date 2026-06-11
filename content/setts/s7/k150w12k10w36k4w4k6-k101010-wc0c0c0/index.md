@@ -1,13 +1,20 @@
 ---
-title: "Bargain Booze (Corporate)"
+title: "Bargain Booze"
 date: 2023-03-18
 ---
 In pattern [KWKWKWK](/patterns/kwkwkwk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5358/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=216
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2000 — Bargain Booze (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=216))
+- pre 2002 — Bargain Booze (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5358/))
 
 ## Thread count
 K/6 N4 K4 N36 K10 N12 K/150

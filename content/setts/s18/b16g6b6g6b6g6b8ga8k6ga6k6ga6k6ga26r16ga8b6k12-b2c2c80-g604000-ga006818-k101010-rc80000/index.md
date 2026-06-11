@@ -1,13 +1,20 @@
 ---
-title: "Glasgow Celtic Society Corporate Tartan Tartan Number: 594. Earliest known date: c.1857 From MacGregor Hastie notes made of sample or record in Highland Society of London. A slightly different form of this is recorded in Sindex as Unidentified - No.1951. Founded in 1857 the Society promoted Gaelic culture. The first official rules of shinty were presented by the Glasgow Celtic Society in 1879. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Not Specified #2"
 date: 2023-03-18
 ---
 In pattern [BGBGBGBGKGKGKGRGBK](/patterns/bgbgbgbgkgkgkgrgbk/).
 
 
-This was sourced from house-of-tartan.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=594
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4810
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1991 — Not Specified #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4810))
+- undated — Glasgow Celtic Society Corporate Tartan Tartan Number: 594. Earliest known date: c.1857 From MacGregor Hastie notes made of sample or record in Highland Society of London. A slightly different form of this is recorded in Sindex as Unidentified - No.1951. Founded in 1857 the Society promoted Gaelic culture. The first official rules of shinty were presented by the Glasgow Celtic Society in 1879. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=594))
 
 ## Thread count
 DB/16 T6 DB6 T6 DB6 T6 DB8 G8 K6 G6 K6 G6 K6 G26 R16 G8 DB6 K/12

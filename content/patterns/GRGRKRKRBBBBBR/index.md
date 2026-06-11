@@ -18,5 +18,3 @@ GRGRKRKRBBBBBR
 |---------------|
 | [Lochcarron Dress](/setts/s14/r6b20ba6b4ba4b4r6k10r4k10r44g4r6g4-b000064-ba346488-g004c00-k000000-rc80000/)|
 |![Lochcarron Dress example sett](/setts/s14/r6b20ba6b4ba4b4r6k10r4k10r44g4r6g4-b000064-ba346488-g004c00-k000000-rc80000/sett.png)|
-| [Lochcarron Dress (Corporate)](/setts/s14/r6b20ba6b4ba4b4r6k10r4k10r44g4r6g4-b000064-ba346488-g004c00-k000000-rc80000/)|
-|![Lochcarron Dress (Corporate) example sett](/setts/s14/r6b20ba6b4ba4b4r6k10r4k10r44g4r6g4-b000064-ba346488-g004c00-k000000-rc80000/sett.png)|

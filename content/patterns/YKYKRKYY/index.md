@@ -20,5 +20,3 @@ YKYKRKYY
 |---------------|
 | [Crane of Cluny Hunting (Personal)](/setts/s8/y166k12y6k18r4k10y4ya4-k101010-rc80000-ya08858-yae8c000/)|
 |![Crane of Cluny Hunting (Personal) example sett](/setts/s8/y166k12y6k18r4k10y4ya4-k101010-rc80000-ya08858-yae8c000/sett.png)|
-| [Crane of Cluny Htg (Personal)](/setts/s8/y166k12y6k18r4k10y4ya4-k101010-rc80000-ya08858-yae8c000/)|
-|![Crane of Cluny Htg (Personal) example sett](/setts/s8/y166k12y6k18r4k10y4ya4-k101010-rc80000-ya08858-yae8c000/sett.png)|

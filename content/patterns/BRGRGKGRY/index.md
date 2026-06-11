@@ -18,5 +18,3 @@ BRGRGKGRY
 |---------------|
 | [Australia Dress](/setts/s9/y22r8g4k8g4r8g24r40b4-b2888c4-g8c7038-k101010-ra00000-yb8b8b8/)|
 |![Australia Dress example sett](/setts/s9/y22r8g4k8g4r8g24r40b4-b2888c4-g8c7038-k101010-ra00000-yb8b8b8/sett.png)|
-| [Australia Dress (Fashion)](/setts/s9/y22r8g4k8g4r8g24r40b4-b2888c4-g8c7038-k101010-ra00000-yb8b8b8/)|
-|![Australia Dress (Fashion) example sett](/setts/s9/y22r8g4k8g4r8g24r40b4-b2888c4-g8c7038-k101010-ra00000-yb8b8b8/sett.png)|

@@ -20,5 +20,3 @@ GRGYGK
 |---------------|
 | [Cates Armigers (Personal)](/setts/s6/g40r16g40y16ga40k10-g003820-ga006818-k101010-rc80000-ye8c000/)|
 |![Cates Armigers (Personal) example sett](/setts/s6/g40r16g40y16ga40k10-g003820-ga006818-k101010-rc80000-ye8c000/sett.png)|
-| [Cates Armigers (Personal)](/setts/s6/g40r16g40y16ga40k10-g003820-ga006818-k101010-rc80000-ye8c000/)|
-|![Cates Armigers (Personal) example sett](/setts/s6/g40r16g40y16ga40k10-g003820-ga006818-k101010-rc80000-ye8c000/sett.png)|

@@ -18,8 +18,6 @@ WGKRKRKRGW
 |---------------|
 | [Kiernan](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g287438-k101010-rc80000-we0e0e0/)|
 |![Kiernan example sett](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g287438-k101010-rc80000-we0e0e0/sett.png)|
-| [Kiernan (Clan))](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g287438-k101010-rc80000-we0e0e0/)|
-|![Kiernan (Clan)) example sett](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g287438-k101010-rc80000-we0e0e0/sett.png)|
 | [Keirnan](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g008000-k000000-rc00000-we0e0e0/)|
 |![Keirnan example sett](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g008000-k000000-rc00000-we0e0e0/sett.png)|
 | [Keirnan Irish Family Tartan Tartan Number: 1800. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g006818-k101010-rc80000-we0e0e0/)|

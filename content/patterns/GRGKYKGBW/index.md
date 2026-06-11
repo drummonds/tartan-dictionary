@@ -18,5 +18,3 @@ GRGKYKGBW
 |---------------|
 | [Lees-McRae College](/setts/s9/g8r2g24k2y8k2g6b10w4-b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000/)|
 |![Lees-McRae College example sett](/setts/s9/g8r2g24k2y8k2g6b10w4-b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000/sett.png)|
-| [Lees-McRae College (Corporate)](/setts/s9/g8r2g24k2y8k2g6b10w4-b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000/)|
-|![Lees-McRae College (Corporate) example sett](/setts/s9/g8r2g24k2y8k2g6b10w4-b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000/sett.png)|

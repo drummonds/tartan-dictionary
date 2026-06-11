@@ -20,5 +20,3 @@ GGGRGRYG
 |---------------|
 | [Loch Rannoch #2](/setts/s8/g48ga4g10r28ga4r10y34g4-g604000-ga289c18-re86000-ydc943c/)|
 |![Loch Rannoch #2 example sett](/setts/s8/g48ga4g10r28ga4r10y34g4-g604000-ga289c18-re86000-ydc943c/sett.png)|
-| [Loch Rannoch (District)](/setts/s8/g48ga4g10r28ga4r10y34g4-g604000-ga289c18-re86000-ydc943c/)|
-|![Loch Rannoch (District) example sett](/setts/s8/g48ga4g10r28ga4r10y34g4-g604000-ga289c18-re86000-ydc943c/sett.png)|

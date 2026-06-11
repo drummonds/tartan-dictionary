@@ -20,5 +20,3 @@ BKGYGKBR
 |---------------|
 | [Art Pewter Silver](/setts/s8/b24k8g24y2g24k8b16r6-b202060-g5c6428-k101010-rc80000-yd8b000/)|
 |![Art Pewter Silver example sett](/setts/s8/b24k8g24y2g24k8b16r6-b202060-g5c6428-k101010-rc80000-yd8b000/sett.png)|
-| [Art Pewter Silver (Corporate)](/setts/s8/b24k8g24y2g24k8b16r6-b202060-g5c6428-k101010-rc80000-yd8b000/)|
-|![Art Pewter Silver (Corporate) example sett](/setts/s8/b24k8g24y2g24k8b16r6-b202060-g5c6428-k101010-rc80000-yd8b000/sett.png)|

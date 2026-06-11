@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2940
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 05/12/2003 — Merwe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2940))
+- pre 2004 — Merwe (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6215/))
+
 ## Thread count
 G/30 Y4 K60 G64 R6 W/4
 ![Sett](sett.png)

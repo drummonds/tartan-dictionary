@@ -9,6 +9,14 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7519/
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- pre 2008 — Grey Pride of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7519/))
+- undated — Grey Pride of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5557))
+- undated — Grey Pride of Scotland Fashion Tartan Tartan Number: 7519. Earliest known date: pre 2008 Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7519))
+
 ## Thread count
 K/4 N52 K28 N2 K4 N4 K28 N4 K4 N4 K/16
 ![Sett](sett.png)
@@ -20,8 +28,5 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 |---|---|---|---|
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
-
-ID: /setts/s11/k16b4k4b4k28b4k4b2k28b52k4-b5c5c5c-k101010/
-nvert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 
 ID: /setts/s11/k16b4k4b4k28b4k4b2k28b52k4-b5c5c5c-k101010/

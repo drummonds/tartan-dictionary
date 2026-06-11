@@ -18,7 +18,5 @@ RBRBYKW
 
 | Tartans |
 |---------------|
-| [Loch Ness #2](/setts/s7/r4b4r4b42y22k34w4-b5c8ca8-k00002c-rc80000-w98c8e8-y48a4c0/)|
-|![Loch Ness #2 example sett](/setts/s7/r4b4r4b42y22k34w4-b5c8ca8-k00002c-rc80000-w98c8e8-y48a4c0/sett.png)|
 | [Loch Ness (Fashion)](/setts/s7/r4b4r4b42y22k34w4-b5c8ca8-k00002c-rc80000-w98c8e8-y48a4c0/)|
 |![Loch Ness (Fashion) example sett](/setts/s7/r4b4r4b42y22k34w4-b5c8ca8-k00002c-rc80000-w98c8e8-y48a4c0/sett.png)|

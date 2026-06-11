@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3820
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/03/2003 — SmartWool (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3820))
+- March 2003 — SmartWool (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5828/))
+
 ## Thread count
 K/200 T3 O3 T3 O/3
 ![Sett](sett.png)

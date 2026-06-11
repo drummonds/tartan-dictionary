@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2946
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/2000 — Micron (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2946))
+- pre 2002 — Micron (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3822/))
+
 ## Thread count
 B/12 W4 B10 Y6 B80 K/60
 ![Sett](sett.png)

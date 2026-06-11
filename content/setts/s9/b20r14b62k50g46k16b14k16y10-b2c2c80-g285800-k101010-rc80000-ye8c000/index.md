@@ -1,13 +1,20 @@
 ---
-title: "MacCallum of Berwick (Clan)"
+title: "MacCallum of Berwick"
 date: 2023-03-18
 ---
 In pattern [BRBKGKBKY](/patterns/brbkgkbky/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/492/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2309
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacCallum of Berwick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2309))
+- pre 2002 — MacCallum of Berwick (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/492/))
 
 ## Thread count
 DB/20 R14 DB62 K50 G46 K16 DB14 K16 Y/10

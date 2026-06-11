@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1305
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1939 — Galloway Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1305))
+- pre 1939 — Galloway Hunting (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1467/))
+
 ## Thread count
 R/6 G4 Ga64 G64 Ga4 W/6
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "R/6 G4 Ga64 G64 Ga4 W/6 tartan")
 
 ID: /setts/s6/r6g4ga64g64ga4w6-g006428-ga289c18-rc80000-wfcfcfc/
-cfcfc/

@@ -18,5 +18,3 @@ KRGRBGGBR
 |---------------|
 | [Mann](/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/)|
 |![Mann example sett](/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/sett.png)|
-| [Mann (Name)](/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/)|
-|![Mann (Name) example sett](/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/sett.png)|

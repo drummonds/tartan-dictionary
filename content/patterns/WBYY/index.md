@@ -20,5 +20,3 @@ WBYY
 |---------------|
 | [Tarbh Deargh (Red Bull)](/setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/)|
 |![Tarbh Deargh (Red Bull) example sett](/setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/sett.png)|
-| [Tarbh Deargh (Red Bull) (Corporate)](/setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/)|
-|![Tarbh Deargh (Red Bull) (Corporate) example sett](/setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/sett.png)|

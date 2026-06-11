@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3952/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1993 — Fulton (1999) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3952/))
+- undated — Fulton (1999) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5097))
+
 ## Thread count
 DB/12 K20 R8 G8 R12 G48 R24 K4 R/12
 ![Sett](sett.png)

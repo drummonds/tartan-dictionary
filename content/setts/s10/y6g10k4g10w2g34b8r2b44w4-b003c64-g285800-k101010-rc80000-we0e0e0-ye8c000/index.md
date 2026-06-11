@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [WBRBGWGKGY](/patterns/wbrbgwgkgy/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6687/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2869
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1975 — McAvoy (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2869))
+- 1975 — McAvoy (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6687/))
 
 ## Thread count
 LN/4 DB44 R2 DB8 G34 LN2 G10 K4 G10 Y/6

@@ -57,7 +57,6 @@ Tartan setts with 31 stripes, grouped by colour-sequence pattern. Each variant i
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.02 | [MacRae (Red)](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b2c2c80-g006818-rc80000-wfcfcfc/) | register-of-tartans |
-| 0.02 | [MacRae - 1850 (Clan)](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b2c2c80-g006818-rc80000-wfcfcfc/) | tartans-authority |
 | 0.07 | [MacRae](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b304080-g003000-rc00000-we0e0e0/) | weddslist |
 | 0.07 | [MacRae Clan Tartan Tartan Number: 859. Earliest known date: 1850 This plate is taken from the manuscript of William and Andrew Smith's 'Authenticated Tartans of the Clans and Families of Scotland', with a minor error corrected in the count given by D.C.Stewart in 'The Setts of the Scottish Tartans' (1950). The Smith's sources included the findings of George Hunter, who toured the Highlands in search of old tartans prior to 1822. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b2c2c80-g003820-rc80000-we0e0e0/) | house-of-tartan |
 | 0.08 | [Ross #3](/setts/s31/g46r12g46r52g8r18g8r52w6r16b62r12b62r16w6r52b4r4b8r4b4r52b4r4b8r4b4r52g46r12g46-b5a008c-g005020-rdc0000-we0e0e0/) | register-of-tartans |
@@ -108,7 +107,6 @@ Tartan setts with 31 stripes, grouped by colour-sequence pattern. Each variant i
 |---|---|---|
 | 0.03 | [MacDonald of Staffa 2](/setts/s31/r32g2r2g2r2g2r2g2r12g2b2g12k2r2g2r8g2r2b8r8w2r8g8w2g8r2g2r12g2r16w2-b304080-g008000-k000000-rc00000-we0e0e0/) | weddslist |
 | 0.05 | [MacDonald of Staffa (Smith's)](/setts/s31/r32g2r2g2r2g2r2g2r12g2b2g12k2r2g2r8g2r2b8r8w2r8g8w2g8r2g2r12g2r16w2-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) | register-of-tartans |
-| 0.05 | [MacDonald of Staffa - 1850 (Clan)](/setts/s31/r32g2r2g2r2g2r2g2r12g2b2g12k2r2g2r8g2r2b8r8w2r8g8w2g8r2g2r12g2r16w2-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) | tartans-authority |
 | 0.06 | [MacDonald of Staffa Clan Tartan Tartan Number: 1529. Earliest known date: 1850 This plate is taken from the manuscript of William and Andrew Smith's 'Authenticated Tartans of the Clans and Families of Scotland'. The Smith's sources included the findings of George Hunter, an Army clothier, who toured the Highlands in search of old tartans prior to 1822. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s31/r32g2r2g2r2g2r2g2r12g2b2g12k2r2g2r8g2r2b8r8w2r8g8w2g8r2g2r12g2r16w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/) | house-of-tartan |
 
 ### RKGKBKWKBKGKGKGKGKGKBKWKBKYKGKR

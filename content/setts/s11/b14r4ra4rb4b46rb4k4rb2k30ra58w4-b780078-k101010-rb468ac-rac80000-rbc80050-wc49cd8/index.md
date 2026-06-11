@@ -1,13 +1,20 @@
 ---
-title: "MacHatters of the Old Pueblo (Corp)"
+title: "MacHatters of the Old Pueblo"
 date: 2023-03-18
 ---
 In pattern [BRRRBRKRKRW](/patterns/brrrbrkrkrw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7102/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2469
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/02/2007 — MacHatters of the Old Pueblo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2469))
+- February 2007 — MacHatters of the Old Pueblo (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7102/))
 
 ## Thread count
 LP/4 R58 K30 Ra2 K4 Ra4 P46 Ra4 R4 Pa4 P/14

@@ -18,5 +18,3 @@ RGKGKGBRYR
 |---------------|
 | [Chisholm VS](/setts/s10/r12y2r48b12g4k2g4k2g24r2-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
 |![Chisholm VS example sett](/setts/s10/r12y2r48b12g4k2g4k2g24r2-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Chisholm VS](/setts/s10/r12y2r48b12g4k2g4k2g24r2-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Chisholm VS example sett](/setts/s10/r12y2r48b12g4k2g4k2g24r2-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1986 — Cunningham Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846))
+- 1986 — Cunningham Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/563/))
+
 ## Thread count
 DB/8 R4 K4 R68 W68 R4 W/10
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/8 R4 K4 R68 W68 R4 W/10 tartan")
 
 ID: /setts/s7/w10r4w68r68k4r4b8-b1c0070-k101010-rc80000-wf8f8f8/
-f8/

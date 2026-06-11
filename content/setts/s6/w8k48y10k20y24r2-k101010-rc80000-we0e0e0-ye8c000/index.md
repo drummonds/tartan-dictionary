@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2133
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2001 — Livingston Football Club (2001) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2133))
+- Oct. 2001 — Livingston F. C. (2001) (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3986/))
+
 ## Thread count
 LN/8 K48 Y10 K20 Y24 R/2
 ![Sett](sett.png)

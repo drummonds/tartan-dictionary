@@ -1,13 +1,20 @@
 ---
-title: "Java Saint Andrew Soc. Dress (Corp)"
+title: "Java Saint Andrew Society Dress"
 date: 2023-03-18
 ---
 In pattern [BRKRWYR](/patterns/brkrwyr/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5401/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1885
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2000 — Java Saint Andrew Society Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1885))
+- September 2000 — Java Saint Andrew Soc. Dress (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5401/))
 
 ## Thread count
 DB/100 R52 K18 R8 LN4 DY4 R/20

@@ -22,5 +22,3 @@ BWBYKYK
 |![Gothenburg example sett](/setts/s7/b52w56b28y6k2y4k2-b3850c8-k101010-we0e0e0-ye8c000/sett.png)|
 | [Gothenburg/Goteborg](/setts/s7/b52w56b28y6k2y4k2-b2c4084-k101010-we0e0e0-ye8c000/)|
 |![Gothenburg/Goteborg example sett](/setts/s7/b52w56b28y6k2y4k2-b2c4084-k101010-we0e0e0-ye8c000/sett.png)|
-| [Gothenburg (District)](/setts/s7/b52w56b28y6k2y4k2-b3850c8-k101010-we0e0e0-ye8c000/)|
-|![Gothenburg (District) example sett](/setts/s7/b52w56b28y6k2y4k2-b3850c8-k101010-we0e0e0-ye8c000/sett.png)|

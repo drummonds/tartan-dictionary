@@ -20,8 +20,6 @@ KYKY
 |---------------|
 | [Raeburn](/setts/s4/k68y6k68y52-k101010-ye8c000/)|
 |![Raeburn example sett](/setts/s4/k68y6k68y52-k101010-ye8c000/sett.png)|
-| [Raeburn (Name)](/setts/s4/k68y6k68y52-k101010-ye8c000/)|
-|![Raeburn (Name) example sett](/setts/s4/k68y6k68y52-k101010-ye8c000/sett.png)|
 | [Justus #2 (Personal)](/setts/s4/k100y20k20y20-k101010-yd09800/)|
 |![Justus #2 (Personal) example sett](/setts/s4/k100y20k20y20-k101010-yd09800/sett.png)|
 | [Justus](/setts/s4/k60y12k12y12-k000000-yf0c000/)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1993 — Royal and Ancient, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584))
+- 1993 — Royal & Ancient (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2193/))
+
 ## Thread count
 DB/12 T4 DB4 T6 DB32 G/98
 ![Sett](sett.png)

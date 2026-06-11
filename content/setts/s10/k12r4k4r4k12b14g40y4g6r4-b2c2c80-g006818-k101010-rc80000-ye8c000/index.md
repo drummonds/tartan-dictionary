@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7357/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 2007 — Connolly Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7357/))
+- undated — Connolly Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4929))
+
 ## Thread count
 K/12 R4 K4 R4 K12 DB14 G40 Y4 G6 R/4
 ![Sett](sett.png)

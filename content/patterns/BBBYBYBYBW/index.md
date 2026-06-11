@@ -18,5 +18,3 @@ BBBYBYBYBW
 |---------------|
 | [Intelligent Finance](/setts/s10/b5ba40b5y5b32y5b5y40ba7w5-b6c5080-ba580058-we0e0e0-ya0a0a0/)|
 |![Intelligent Finance example sett](/setts/s10/b5ba40b5y5b32y5b5y40ba7w5-b6c5080-ba580058-we0e0e0-ya0a0a0/sett.png)|
-| [Intelligent Finance (Corporate)](/setts/s10/b5ba40b5y5b32y5b5y40ba7w5-b6c5080-ba580058-we0e0e0-ya0a0a0/)|
-|![Intelligent Finance (Corporate) example sett](/setts/s10/b5ba40b5y5b32y5b5y40ba7w5-b6c5080-ba580058-we0e0e0-ya0a0a0/sett.png)|

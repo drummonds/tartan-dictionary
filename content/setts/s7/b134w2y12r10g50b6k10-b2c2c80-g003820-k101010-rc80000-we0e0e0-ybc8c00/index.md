@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7537/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2006 — Guide Dogs (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7537/))
+- undated — Guide Dogs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5572))
+
 ## Thread count
 DB/134 LN2 DY12 R10 DG50 DB6 K/10
 ![Sett](sett.png)

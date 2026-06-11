@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=543
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1966 — Canadian Centennial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=543))
+- 1966 — Canadian Centennial (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1704/))
+
 ## Thread count
 DY/4 DB8 K4 DB72 DG64 R4 LN12 R/6
 ![Sett](sett.png)
@@ -30,4 +37,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/4 DB8 K4 DB72 DG64 R4 LN12 R/6 tartan")
 
 ID: /setts/s8/r6w12r4g64b72k4b8y4-b202060-g003820-k101010-rc80000-we0e0e0-yd09800/
-0e0-yd09800/

@@ -18,5 +18,3 @@ KYKRKRKRKR
 |---------------|
 | [Maier (Personal)](/setts/s10/r14k6r6k44r6k6r6k74y4k8-k101010-rc80000-ye8c000/)|
 |![Maier (Personal) example sett](/setts/s10/r14k6r6k44r6k6r6k74y4k8-k101010-rc80000-ye8c000/sett.png)|
-| [Maier (Personal)](/setts/s10/r14k6r6k44r6k6r6k74y4k8-k101010-rc80000-ye8c000/)|
-|![Maier (Personal) example sett](/setts/s10/r14k6r6k44r6k6r6k74y4k8-k101010-rc80000-ye8c000/sett.png)|

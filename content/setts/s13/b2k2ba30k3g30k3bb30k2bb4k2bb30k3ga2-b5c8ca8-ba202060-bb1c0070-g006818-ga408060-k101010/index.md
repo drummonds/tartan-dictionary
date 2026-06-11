@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [13 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3410/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2002 — Davies (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3410/))
+- undated — Davies Welsh Name Tartan Tartan Number: 3410. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Davy, Davis, Day, David, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3410))
+
 ## Thread count
 B/2 K2 DB30 K3 Ga30 K3 DBa30 K2 DBa4 K2 DBa30 K3 G/2
 ![Sett](sett.png)

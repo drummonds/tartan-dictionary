@@ -20,5 +20,3 @@ RKRKWKW
 |---------------|
 | [White Stripes Hunting](/setts/s7/r16k8r16k112w8k8w8-k101010-rc80000-wfcfcfc/)|
 |![White Stripes Hunting example sett](/setts/s7/r16k8r16k112w8k8w8-k101010-rc80000-wfcfcfc/sett.png)|
-| [White Stripes Hunting (Corporate)](/setts/s7/r16k8r16k112w8k8w8-k101010-rc80000-wfcfcfc/)|
-|![White Stripes Hunting (Corporate) example sett](/setts/s7/r16k8r16k112w8k8w8-k101010-rc80000-wfcfcfc/sett.png)|

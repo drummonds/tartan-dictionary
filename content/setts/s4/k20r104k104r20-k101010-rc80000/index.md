@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1135
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1900 — Ettrick (District) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1135))
+- 1900 — Ettrick (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1191/))
+
 ## Thread count
 K/20 R104 K104 R/20
 ![Sett](sett.png)

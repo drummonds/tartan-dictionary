@@ -1,13 +1,20 @@
 ---
-title: "Thomson Dress (Grey)"
+title: "Thomson Dress (Grey) (Fashion)"
 date: 2023-03-18
 ---
 In pattern [RRKWKY](/patterns/rrkwky/).
 
 
-This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5279
+Original link http://www.tartansauthority.com/tartan-ferret/display/3121/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- circa 1984 — Thomson Dress (Grey) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3121/))
+- undated — Thomson Dress (Grey) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5279))
 
 ## Thread count
 R/8 N50 K12 LN24 K22 Y/6

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5748
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2008 — Torana (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5748))
+- 2008 — Torana (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7778/))
+
 ## Thread count
 DY/26 K26 DY4 O10 K26 R/26
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DY/26 K26 DY4 O10 K26 R/26 tartan")
 
 ID: /setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/
-9800/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2041
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1992 — Land's End Camel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2041))
+- pre 2002 — Land's End, Camel (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2577/))
+
 ## Thread count
 DR/8 LT40 DG30 DR4 LT6 T12 LT6 DR4 LT/48
 ![Sett](sett.png)
@@ -24,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
 ID: /setts/s9/y48b4y6g12y6b4ga30y40b8-b441800-g604000-ga003820-ya08858/
-08858/

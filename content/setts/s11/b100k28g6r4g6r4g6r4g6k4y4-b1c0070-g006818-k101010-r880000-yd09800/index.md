@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3476/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1880 — Minnock (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3476/))
+- undated — Minnick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5192))
+
 ## Thread count
 DB/100 K28 G6 DR4 G6 DR4 G6 DR4 G6 K4 DY/4
 ![Sett](sett.png)

@@ -1,13 +1,20 @@
 ---
-title: "Murray of Atholl Dress - 1880 (Clan)"
+title: "Murray of Atholl Dress"
 date: 2023-03-18
 ---
 In pattern [RBKGRGKWBWBW](/patterns/rbkgrgkwbwbw/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1363/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3064
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1880 — Murray of Atholl Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3064))
+- 1880 — Murray of Atholl Dress - 1880 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1363/))
 
 ## Thread count
 DR/4 DB20 K12 G20 DR4 G20 K12 LN8 DB8 LN32 DB2 LN/10

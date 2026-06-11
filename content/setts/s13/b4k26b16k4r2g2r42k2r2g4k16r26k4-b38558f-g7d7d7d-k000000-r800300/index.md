@@ -1,13 +1,20 @@
 ---
-title: "Alyssa's Theme Fashion Tartan Tartan Number: 10656. Earliest known date: 10/07/2012 This tartan was created for Alyssa Elliott as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Alyssa's Theme"
 date: 2023-03-18
 ---
 In pattern [BKBKRGRKRGKRK](/patterns/bkbkrgrkrgkrk/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10656
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10656
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 10/07/2012 — Alyssa's Theme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10656))
+- undated — Alyssa's Theme Fashion Tartan Tartan Number: 10656. Earliest known date: 10/07/2012 This tartan was created for Alyssa Elliott as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10656))
 
 ## Thread count
 B/4 K26 B16 K4 DR2 N2 DR42 K2 DR2 N4 K16 DR26 K/4

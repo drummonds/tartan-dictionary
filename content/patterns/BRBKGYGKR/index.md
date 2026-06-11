@@ -18,5 +18,3 @@ BRBKGYGKR
 |---------------|
 | [Buckie](/setts/s9/r8k4g4y2g16k40b100ra4b4-b2c2c80-g003820-k101010-r888888-rae87878-ye8c000/)|
 |![Buckie example sett](/setts/s9/r8k4g4y2g16k40b100ra4b4-b2c2c80-g003820-k101010-r888888-rae87878-ye8c000/sett.png)|
-| [Buckie (District)](/setts/s9/r8k4g4y2g16k40b100ra4b4-b2c2c80-g003820-k101010-r888888-rae87878-ye8c000/)|
-|![Buckie (District) example sett](/setts/s9/r8k4g4y2g16k40b100ra4b4-b2c2c80-g003820-k101010-r888888-rae87878-ye8c000/sett.png)|

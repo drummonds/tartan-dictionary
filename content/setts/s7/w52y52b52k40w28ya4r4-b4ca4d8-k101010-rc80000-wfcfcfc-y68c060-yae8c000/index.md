@@ -1,13 +1,20 @@
 ---
-title: "Lachine (Historic) (District)"
+title: "Lachine Historic"
 date: 2023-03-18
 ---
 In pattern [RYWKBYW](/patterns/rywkbyw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6203/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2000 — Lachine Historic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020))
+- pre 2004 — Lachine (Historic) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6203/))
 
 ## Thread count
 R/4 Y4 W28 K40 B52 LG52 W/52

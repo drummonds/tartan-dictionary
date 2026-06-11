@@ -18,7 +18,5 @@ KWKYWKY
 
 | Tartans |
 |---------------|
-| [Kernow Spirit](/setts/s7/k28w8k16y90w6k2y4-k101010-we0e0e0-ye8c000/)|
-|![Kernow Spirit example sett](/setts/s7/k28w8k16y90w6k2y4-k101010-we0e0e0-ye8c000/sett.png)|
 | [Kernow Spirit (Corporate)](/setts/s7/k28w8k16y90w6k2y4-k101010-we0e0e0-ye8c000/)|
 |![Kernow Spirit (Corporate) example sett](/setts/s7/k28w8k16y90w6k2y4-k101010-we0e0e0-ye8c000/sett.png)|

@@ -16,7 +16,5 @@ GWRWRBRWR
 
 | Tartans |
 |---------------|
-| [Ailsa, Grey](/setts/s9/r18w18r18b50r2w2r2w2g6-b5c5c5c-g00881c-r888888-we0e0e0/)|
-|![Ailsa, Grey example sett](/setts/s9/r18w18r18b50r2w2r2w2g6-b5c5c5c-g00881c-r888888-we0e0e0/sett.png)|
 | [Ailsa, Grey (Fashion)](/setts/s9/r18w18r18b50r2w2r2w2g6-b5c5c5c-g00881c-r888888-we0e0e0/)|
 |![Ailsa, Grey (Fashion) example sett](/setts/s9/r18w18r18b50r2w2r2w2g6-b5c5c5c-g00881c-r888888-we0e0e0/sett.png)|

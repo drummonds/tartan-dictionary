@@ -20,5 +20,3 @@ YKYY
 |---------------|
 | [Barclay Dress](/setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/)|
 |![Barclay Dress example sett](/setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/sett.png)|
-| [Barclay Dress](/setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/)|
-|![Barclay Dress example sett](/setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/sett.png)|

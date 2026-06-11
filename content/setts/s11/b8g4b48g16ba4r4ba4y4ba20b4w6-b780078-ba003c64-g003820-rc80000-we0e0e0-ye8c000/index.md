@@ -1,13 +1,20 @@
 ---
-title: "McCartney (Day) (Corporate)"
+title: "McCartney (Day)"
 date: 2023-03-18
 ---
 In pattern [BGBGBRBYBBW](/patterns/bgbgbrbybbw/).
 
 
-This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2593/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2875
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/1997 — McCartney (Day) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2875))
+- June 1997 — McCartney (Day) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2593/))
 
 ## Thread count
 LN/6 P4 DB20 Y4 DB4 R4 DB4 DG16 P48 DG4 P/8

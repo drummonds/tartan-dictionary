@@ -50,7 +50,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | 0.14 | [Glen Lyon or Mull (No.53) District Tartan Tartan Number: 24. Earliest known date: 1820 Appears to be No 185 in Wilson's '1819' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/k10g6b4-b5c8ca8-g006818-k101010/) | house-of-tartan |
 | 0.14 | [Mull](/setts/s3/k10g8b4-b5c8ca8-g006818-k101010/) | register-of-tartans |
 | 0.14 | [Mull (District)](/setts/s3/k10g8b6-b5c8ca8-g006818-k101010/) | tartans-authority |
-| 0.14 | [Mull or Glenlyon District Tartan Tartan Number: 162. Earliest known date: 1819 This sett appears in the pattern books of the 18th century weaving firm, William Wilson and Sons, where it is recorded as pattern No. 53 or Glen Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/k10g8b4-b5c8ca8-g006818-k101010/) | house-of-tartan |
 | 0.15 | [Wilson's No.050](/setts/s3/k20g24b4-b5c8ca8-g006818-k101010/) | register-of-tartans |
 
 ### BGR
@@ -59,7 +58,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.02 | [Agnew](/setts/s3/b106g84r28-b2c2c80-g006818-rc80000/) | register-of-tartans |
-| 0.02 | [Agnew (Clan)](/setts/s3/b106g84r28-b2c2c80-g006818-rc80000/) | tartans-authority |
 | 0.02 | [Agnew Family Tartan Tartan Number: 182. Earliest known date: 1978 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/b53g42r14-b2c2c80-g006818-rc80000/) | house-of-tartan |
 | 0.04 | [Agnew](/setts/s3/b53g42r14-b304080-g008000-rc00000/) | weddslist |
 | 0.04 | [Ferguson](/setts/s3/b24g20r4-b304080-g008000-rc00000/) | weddslist |
@@ -121,7 +119,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.02 | [Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/) | house-of-tartan |
 | 0.02 | [Ferguson - 1930 (Old)](/setts/s3/g34r4b30-b2c2c80-g006818-rc80000/) | tartans-authority |
 | 0.04 | [Ferguson, (Old)](/setts/s3/g34r4b30-b304080-g008000-rc00000/) | weddslist |
 | 0.04 | [Wilson's No 62, (Ferguson)](/setts/s3/b26r4g26-b304080-g008000-rc00000/) | weddslist |
@@ -171,7 +168,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Glen Moriston (Estate Check)](/setts/s3/b8w8wa8-b00243c-wd0d0d0-wad4dce0/) | tartans-authority |
 | 0.12 | [Glen Moriston Estate Check](/setts/s3/b8w8wa8-b00243c-wd0d0d0-wad4dce0/) | register-of-tartans |
 
 ### BYK
@@ -187,7 +183,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.05 | [Nutwood](/setts/s3/b2y120r2-b1474b4-rc80000-ye8c000/) | register-of-tartans |
-| 0.05 | [Nutwood (District)](/setts/s3/b2y120r2-b1474b4-rc80000-ye8c000/) | tartans-authority |
 | 0.14 | [Usa](/setts/s3/b4y4r4-b000052-raa0000-yaaaaaa/) | weddslist |
 
 ### GBK
@@ -213,7 +208,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 |---|---|---|
 | 0.03 | [Unidentified pattern #2](/setts/s3/g48b12y4-b2c4084-g005020-ye8c000/) | register-of-tartans |
 | 0.04 | [Unidentified, pattern](/setts/s3/g48b12y4-b304080-g008000-yf0c000/) | weddslist |
-| 0.18 | [Gearach Woodcock Tweed](/setts/s3/g2b1y1-b5c8ca8-g604000-yd87c00/) | register-of-tartans |
 | 0.18 | [Gearach Woodcock Tweed (Corporate)](/setts/s3/g2b1y1-b5c8ca8-g604000-yd87c00/) | tartans-authority |
 
 ### GGG
@@ -235,7 +229,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [Scotch Tape](/setts/s3/g60k40g6-g006818-k101010/) | register-of-tartans |
 | 0.09 | [Scotch Tape (Corporate)](/setts/s3/g60k40g6-g006818-k101010/) | tartans-authority |
 
 ### GKR
@@ -255,7 +248,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.05 | [Castle Fraser (Estate Check)](/setts/s3/g60r3g12-g004c00-rc02000/) | tartans-authority |
 | 0.05 | [Castle Fraser Check](/setts/s3/g60r3g12-g004c00-rc02000/) | register-of-tartans |
 
 ### GRR
@@ -271,7 +263,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.01 | [McMoosie](/setts/s3/g162r20y40-g006818-rc80000-ye8c000/) | register-of-tartans |
-| 0.01 | [McMoosie (Fashion)](/setts/s3/g162r20y40-g006818-rc80000-ye8c000/) | tartans-authority |
 | 0.08 | [Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/g36r16y4-g006818-r888888-ye8c000/) | house-of-tartan |
 | 0.13 | [Ledford (Name)](/setts/s3/g144r64y16-g008c44-r888888-yf0c800/) | tartans-authority |
 
@@ -282,7 +273,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 |---|---|---|
 | 0.07 | [Juchter (Personal)](/setts/s3/g40w10r6-g003820-rc80000-we0e0e0/) | tartans-authority |
 | 0.08 | [S3](/setts/s3/g120w8r20-g5c6428-r901c38-wfcfcfc/) | register-of-tartans |
-| 0.08 | [Strategic Staffing Solutions (Corpor](/setts/s3/g120w8r20-g5c6428-r901c38-wfcfcfc/) | tartans-authority |
 
 ### GWY
 <a class="pat" href="/patterns/gwy/"><span class="blk" style="background:#006400"></span><span class="blk" style="background:#F4F4F0"></span><span class="blk" style="background:#E8C000"></span><span class="seq">GWY</span></a>
@@ -321,7 +311,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | 0.07 | [Wilson's, No 118](/setts/s3/k10b8y2-b5480b0-k000000-yf0c000/) | weddslist |
 | 0.08 | [Mother's Pride (Corporate)](/setts/s3/k40b40y4-b1c0070-k000000-yd09800/) | tartans-authority |
 | 0.12 | [Westwater (Personal)](/setts/s3/k124b66y2-b1474b4-k101010-yfccc00/) | tartans-authority |
-| 0.13 | [Poulain League](/setts/s3/y12b76k6-b2888c4-k101010-ye8c000/) | register-of-tartans |
 | 0.13 | [Poulain League (Corporate)](/setts/s3/y12b76k6-b2888c4-k101010-ye8c000/) | tartans-authority |
 | 0.15 | [Kazakhstan Relic (Artefact)](/setts/s3/y20b20k12-b202060-k101010-ybc8c00/) | tartans-authority |
 | 0.16 | [Westwater (Edinburgh, 2012)](/setts/s3/k124b66y2-b5f749c-k1c1714-yf8e38c/) | register-of-tartans |
@@ -359,8 +348,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 |---|---|---|
 | 0.09 | [Red Watch](/setts/s3/k40r12k4-k000000-r780028/) | register-of-tartans |
 | 0.16 | [Bodog](/setts/s3/k160r2k120-k101010-r880000/) | register-of-tartans |
-| 0.16 | [Bodog (Corporate)](/setts/s3/k160r2k120-k101010-r880000/) | tartans-authority |
-| 0.16 | [Bodog Corporate Tartan Tartan Number: 10194. Earliest known date: 20th March 2010 The red stripe which delineates the 3 and 4 inch squares, is intended to be almost invisible in certain lights. This design supercedes the original bodog.com tartan (STR ref: 306, STA ref:6889) to reflect the new brand licensing model that now controls all the intellectual property of bodogbrand.com. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/k160r2k120-k101010-r880000/) | house-of-tartan |
 
 ### KRY
 <a class="pat" href="/patterns/kry/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#C80000"></span><span class="blk" style="background:#E8C000"></span><span class="seq">KRY</span></a>
@@ -368,7 +355,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.06 | [Batson (Personal)](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/) | register-of-tartans |
-| 0.06 | [Batson (Personal)](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/) | tartans-authority |
 | 0.12 | [Quenouille (2011)](/setts/s3/y98r32k22-k1c1714-rca2625-yf8e38c/) | register-of-tartans |
 
 ### KWK
@@ -384,12 +370,9 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.07 | [Coigach Tweed](/setts/s3/k6w6r6-k000000-ra43c14-wc8c8c8/) | register-of-tartans |
-| 0.07 | [Coigach Tweed (Estate Check)](/setts/s3/k6w6r6-k000000-ra43c14-wc8c8c8/) | tartans-authority |
 | 0.09 | [St. George's Check (Fashion)](/setts/s3/r35w94k6-k101010-rd40000-we0e0e0/) | tartans-authority |
 | 0.11 | [St Georges Check](/setts/s3/r35w94k6-k101010-rff0000-wffffff/) | register-of-tartans |
-| 0.12 | [International Karate Alliance](/setts/s3/r160w20k20-k101010-r880000-we0e0e0/) | register-of-tartans |
 | 0.12 | [International Karate Fed. (Corporat)](/setts/s3/r160w20k20-k101010-r880000-we0e0e0/) | tartans-authority |
-| 0.13 | [Dacre (Estate Check)](/setts/s3/k14w14r14-k101010-r800028-wf0e0c4/) | tartans-authority |
 | 0.13 | [Dacre Estate Check](/setts/s3/k14w14r14-k101010-r800028-wf0e0c4/) | register-of-tartans |
 
 ### KWW
@@ -411,7 +394,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [National Autistic Society Scotla Corporate Tartan Tartan Number: 10685. Earliest known date: 30 August 2012 A simple and bold design using the highly identifiable colours of the National Autistic Society. This tartan is intended for use by the Scottish members of the Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/r96b64w12-b5c2458-re82460-we8e8e8/) | house-of-tartan |
 | 0.09 | [National Autistic Society Scotland](/setts/s3/r96b64w12-b5c2458-re82460-we8e8e8/) | register-of-tartans |
 | 0.13 | [National Autistic Society Scotland](/setts/s3/r96b64w12-b440044-re87878-wfcfcfc/) | tartans-authority |
 
@@ -453,7 +435,6 @@ Tartan setts with 3 stripes, grouped by colour-sequence pattern. Each variant is
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.00 | [Buie](/setts/s3/r72k12r8-k000000-rc80000/) | register-of-tartans |
-| 0.00 | [Buie (Name)](/setts/s3/r72k12r8-k000000-rc80000/) | tartans-authority |
 | 0.08 | [Buie](/setts/s3/r72k12r8-k000000-r802040/) | weddslist |
 | 0.09 | [Buie Family Tartan Tartan Number: 1590. Earliest known date: pre 2003 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/r72k12r8-k101010-rc80000/) | house-of-tartan |
 

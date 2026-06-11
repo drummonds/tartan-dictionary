@@ -20,8 +20,6 @@ GKGRGKBW
 |---------------|
 | [MacRae Hunting](/setts/s8/g48k8g12r8g12k38b44w10-b14283c-g285800-k101010-rc80000-wf8f8f8/)|
 |![MacRae Hunting example sett](/setts/s8/g48k8g12r8g12k38b44w10-b14283c-g285800-k101010-rc80000-wf8f8f8/sett.png)|
-| [MacRae Htg - 1893 (Clan)](/setts/s8/g48k8g12r8g12k38b44w10-b14283c-g285800-k101010-rc80000-wf8f8f8/)|
-|![MacRae Htg - 1893 (Clan) example sett](/setts/s8/g48k8g12r8g12k38b44w10-b14283c-g285800-k101010-rc80000-wf8f8f8/sett.png)|
 | [Dunfermline Bank of Scotland (Corp)](/setts/s8/g48k10g12r12g12k40b40w4-b1474b4-g285800-k101010-rc80000-wfcfcfc/)|
 |![Dunfermline Bank of Scotland (Corp) example sett](/setts/s8/g48k10g12r12g12k40b40w4-b1474b4-g285800-k101010-rc80000-wfcfcfc/sett.png)|
 | [MacRae, Ancient hunting](/setts/s8/g48k8g12r8g12k38b44w10-b304080-g008000-k000000-rc00000-we0e0e0/)|

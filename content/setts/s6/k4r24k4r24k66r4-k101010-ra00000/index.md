@@ -1,13 +1,20 @@
 ---
-title: "Cameron, Black & Red (Artefact)"
+title: "Cameron Black & Red (Dress)"
 date: 2023-03-18
 ---
 In pattern [KRKRKR](/patterns/krkrkr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1186/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Cameron Black & Red (Dress) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=491))
+- pre 2002 — Cameron, Black & Red (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1186/))
 
 ## Thread count
 DR/4 K66 DR24 K4 DR24 K/4

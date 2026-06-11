@@ -7,7 +7,14 @@ In pattern [RBKGRKR](/patterns/rbkgrkr/).
 
 This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacDuff (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacDuff (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Thread count
 DR/16 DB6 K8 DG12 DR8 K2 DR/8
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DR/16 DB6 K8 DG12 DR8 K2 DR/8 tartan")
 
 ID: /setts/s7/r16b6k8g12r8k2r8-b000052-g11450d-k000000-raa0000/
-000/

@@ -20,5 +20,3 @@ KRKKYKYK
 |---------------|
 | [Printing Industries of America](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/)|
 |![Printing Industries of America example sett](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/sett.png)|
-| [Printing Industries of America (Corp](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/)|
-|![Printing Industries of America (Corp example sett](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Dogwood (Fashion)"
+title: "Dogwood"
 date: 2023-03-18
 ---
 In pattern [BGWBRGBG](/patterns/bgwbrgbg/).
 
 
-This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/stripes8/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/913/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1968 — Dogwood (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943))
+- 1968 — Dogwood (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/913/))
 
 ## Thread count
 G/16 K40 G40 LT24 K4 LY104 G8 K/4

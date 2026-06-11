@@ -1,13 +1,20 @@
 ---
-title: "Fitzgerald Htg (Name)"
+title: "Fitzgerald Hunting"
 date: 2023-03-18
 ---
 In pattern [RRKBRBKBKW](/patterns/rrkbrbkbkw/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1336/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1196
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1901 — Fitzgerald Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1196))
+- 1975 — Fitzgerald Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1336/))
 
 ## Thread count
 R/4 LR6 DG32 Ba8 R4 Ba8 DB72 B6 DB6 W/4
@@ -27,4 +34,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
 ID: /setts/s10/r4ra6k32b8r4b8ka72ba6ka6w4-b0000dc-ba306084-k001c04-ka000030-rc80000-rae02cb8-wfcfcfc/
-

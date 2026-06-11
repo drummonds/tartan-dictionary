@@ -1,13 +1,20 @@
 ---
-title: "Midwives (Corporate)"
+title: "Royal College of Midwives"
 date: 2023-03-18
 ---
 In pattern [WWBWBWKWY](/patterns/wwbwbwkwy/).
 
 
-This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/stripes9/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5766/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2002 — Royal College of Midwives (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596))
+- August 2002 — Midwives (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5766/))
 
 ## Thread count
 W/6 Na86 B6 Na6 N22 Na12 K2 Na6 Y/10
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
 ID: /setts/s9/y10w6k2w12b22w6ba6w86wa6-b5c5c5c-ba1474b4-k101010-wc0c0c0-wafcfcfc-ye8c000/
-ye8c000/

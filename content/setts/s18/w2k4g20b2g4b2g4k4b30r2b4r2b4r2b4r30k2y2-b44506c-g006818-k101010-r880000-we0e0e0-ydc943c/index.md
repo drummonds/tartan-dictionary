@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [WKGBGBGKBRBRBRBRKY](/patterns/wkgbgbgkbrbrbrbrky/).
 
 
-This was sourced from tartans-authority.  It is a [18 stripes tartan](/stripes/stripes18/).
+This was sourced from register-of-tartans.  It is a [18 stripes tartan](/stripes/stripes18/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/7548/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5580
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/12/2008 — Melrose (Newbigging) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5580))
+- pre 2008 — Melrose (Newbigging) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7548/))
 
 ## Thread count
 LN/2 K4 G20 N2 G4 N2 G4 K4 N30 DR2 N4 DR2 N4 DR2 N4 DR30 K2 O/2

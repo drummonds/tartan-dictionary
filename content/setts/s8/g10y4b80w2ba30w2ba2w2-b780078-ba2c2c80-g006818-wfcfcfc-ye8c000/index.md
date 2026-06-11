@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4894
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 22/02/2004 — Jackson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4894))
+- July 2004 — Jackson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6317/))
+
 ## Thread count
 G/10 Y4 P80 W2 DB30 W2 DB2 W/2
 ![Sett](sett.png)

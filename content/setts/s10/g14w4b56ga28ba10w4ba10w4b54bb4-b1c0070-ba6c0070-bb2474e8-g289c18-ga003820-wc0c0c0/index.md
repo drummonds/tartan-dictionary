@@ -1,13 +1,21 @@
 ---
-title: "Head of The Lakes (District)"
+title: "Head of The Lakes"
 date: 2023-03-18
 ---
 In pattern [BBWBWBGBWG](/patterns/bbwbwbgbwg/).
 
 
-This was sourced from tartans-authority.  It is a [10 stripes tartan](/stripes/stripes10/).
+This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes/stripes10/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/2241/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1639
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1995 — Head of The Lakes (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1639))
+- Mar. 1995 — Head of The Lakes (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2241/))
+- undated — Head of the Lakes District Canada Tartan Tartan Number: 2241. Earliest known date: 1996 Designed by Joan Forrester Troniak & Fiona Irwin as a District Tartan to comemorate the 25th anniversary of the Ontario city of Thunder Bay which has adopted it. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2241))
 
 ## Thread count
 B/4 DB54 N4 P10 N4 P10 DG28 DB56 N4 G/14

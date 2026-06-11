@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2361
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1800 — MacDonald of Glencoe #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2361))
+- c1950 — MacDonald of Glencoe - 1950 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1012/))
+
 ## Thread count
 G/16 R2 Ra12 G6 Ra80 LG4 DB24 Ra12 G60 Ra6 DB4 R2 Ra/12
 ![Sett](sett.png)

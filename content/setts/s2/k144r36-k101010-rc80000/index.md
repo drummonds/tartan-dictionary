@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [2 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3896
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1900 — St Kilda (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3896))
+- pre 2002 — St. Kilda (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1189/))
+
 ## Thread count
 K/144 R/36
 ![Sett](sett.png)
@@ -26,4 +33,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "K/144 R/36 tartan")
 
 ID: /setts/s2/k144r36-k101010-rc80000/
-c80000/

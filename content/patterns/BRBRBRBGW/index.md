@@ -16,7 +16,5 @@ BRBRBRBGW
 
 | Tartans |
 |---------------|
-| [American Society of Travel Agents, The](/setts/s9/b4r20b2r2b20ra2b20g20w4-b2c2c80-g006818-r888888-rac80000-we0e0e0/)|
-|![American Society of Travel Agents, The example sett](/setts/s9/b4r20b2r2b20ra2b20g20w4-b2c2c80-g006818-r888888-rac80000-we0e0e0/sett.png)|
 | [American Soc.of Travel Agents (Corp)](/setts/s9/b4r20b2r2b20ra2b20g20w4-b2c2c80-g006818-r888888-rac80000-we0e0e0/)|
 |![American Soc.of Travel Agents (Corp) example sett](/setts/s9/b4r20b2r2b20ra2b20g20w4-b2c2c80-g006818-r888888-rac80000-we0e0e0/sett.png)|

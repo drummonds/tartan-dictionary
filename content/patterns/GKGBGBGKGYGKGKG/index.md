@@ -18,5 +18,3 @@ GKGBGBGKGYGKGKG
 |---------------|
 | [Glen Grant Distillery](/setts/s15/g4k4g4b40g4b4g4k16g4y4g40k4g4k4g4-b003478-g50783c-k000000-ydcc000/)|
 |![Glen Grant Distillery example sett](/setts/s15/g4k4g4b40g4b4g4k16g4y4g40k4g4k4g4-b003478-g50783c-k000000-ydcc000/sett.png)|
-| [Glen Grant Distillery (Corporate)](/setts/s15/g4k4g4b40g4b4g4k16g4y4g40k4g4k4g4-b003478-g50783c-k000000-ydcc000/)|
-|![Glen Grant Distillery (Corporate) example sett](/setts/s15/g4k4g4b40g4b4g4k16g4y4g40k4g4k4g4-b003478-g50783c-k000000-ydcc000/sett.png)|

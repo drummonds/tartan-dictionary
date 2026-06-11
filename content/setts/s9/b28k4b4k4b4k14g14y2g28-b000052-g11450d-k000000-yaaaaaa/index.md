@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/)
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Abercrombie D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Abercrombie D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Thread count
 DB/28 K4 DB4 K4 DB4 K14 DG14 N2 DG/28
 ![Sett](sett.png)

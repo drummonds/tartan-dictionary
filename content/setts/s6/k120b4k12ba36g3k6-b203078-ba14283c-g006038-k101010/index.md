@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6582/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 1993 — Scottish Football Association (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6582/))
+- 01/01/2003 — Scottish Football Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3716))
+
 ## Thread count
 K/120 DB4 K12 DN36 G3 K/6
 ![Sett](sett.png)

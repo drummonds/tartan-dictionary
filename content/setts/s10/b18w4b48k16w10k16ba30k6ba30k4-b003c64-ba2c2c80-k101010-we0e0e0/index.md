@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3711
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/04/1996 — Scottish Claymores (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3711))
+- 1996 — Scottish Claymores (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2308/))
+
 ## Thread count
 DBa/18 LN4 DBa48 K16 LN10 K16 DB30 K6 DB30 K/4
 ![Sett](sett.png)

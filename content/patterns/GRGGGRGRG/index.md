@@ -16,7 +16,5 @@ GRGGGRGRG
 
 | Tartans |
 |---------------|
-| [Macnaughton Hunting](/setts/s9/g2r2ga44gb42g24r22ga44r2g2-g003820-ga145024-gb604000-ra40800/)|
-|![Macnaughton Hunting example sett](/setts/s9/g2r2ga44gb42g24r22ga44r2g2-g003820-ga145024-gb604000-ra40800/sett.png)|
 | [MacNaughton Htg](/setts/s9/g2r2ga44gb42g24r22ga44r2g2-g003820-ga145024-gb604000-ra40800/)|
 |![MacNaughton Htg example sett](/setts/s9/g2r2ga44gb42g24r22ga44r2g2-g003820-ga145024-gb604000-ra40800/sett.png)|

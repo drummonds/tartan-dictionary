@@ -1,13 +1,20 @@
 ---
-title: "McKnight (Personal)"
+title: "McKnight #2 (Personal)"
 date: 2023-03-18
 ---
 In pattern [BYRBKBK](/patterns/byrbkbk/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6213/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2893
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2004 — McKnight #2 (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2893))
+- pre 2004 — McKnight (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6213/))
 
 ## Thread count
 B/16 Y4 R112 DB96 K20 B20 K/12

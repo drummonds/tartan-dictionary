@@ -1,13 +1,21 @@
 ---
-title: "Bodog Corporate Tartan Tartan Number: 10194. Earliest known date: 20th March 2010 The red stripe which delineates the 3 and 4 inch squares, is intended to be almost invisible in certain lights. This design supercedes the original bodog.com tartan (STR ref: 306, STA ref:6889) to reflect the new brand licensing model that now controls all the intellectual property of bodogbrand.com. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Bodog"
 date: 2023-03-18
 ---
 In pattern [KRK](/patterns/krk/).
 
 
-This was sourced from house-of-tartan.  It is a [3 stripes tartan](/stripes/stripes3/).
+This was sourced from register-of-tartans.  It is a [3 stripes tartan](/stripes/stripes3/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10194
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194
+
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 20/03/2010 — Bodog (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194))
+- 20th March 2010 — Bodog (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10194/))
+- undated — Bodog Corporate Tartan Tartan Number: 10194. Earliest known date: 20th March 2010 The red stripe which delineates the 3 and 4 inch squares, is intended to be almost invisible in certain lights. This design supercedes the original bodog.com tartan (STR ref: 306, STA ref:6889) to reflect the new brand licensing model that now controls all the intellectual property of bodogbrand.com. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10194))
 
 ## Thread count
 K/120 DR2 K/160

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1442
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2007 — Goddin mab Gododdin (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1442))
+- pre 2007 — Goddin mab Gododdin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7179/))
+
 ## Thread count
 DR/8 LT6 K48 T52 G6 LT42 P4 LT/8
 ![Sett](sett.png)

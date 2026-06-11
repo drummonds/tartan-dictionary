@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10101/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- June 2009 — Alloway Primary (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10101/))
+- undated — Alloway Primary School Corporate Tartan Tartan Number: 10101. Earliest known date: June 2009 Winning entry in a school competition from Beth Murdoch in the Primary 4 class. The colours reflect those of the school and the winning design was chosen from a short list by Scotland's First Minister Alex Salmond. Brian Wilton of the Scottish Tartans Authority presented the prizes to the winner and finalists on June 19th 2009. First weaving by Ingles Buchan of Glasgow for scarves and ties and for kilts for the Scottish Country Dance team. The competition was organised by the School Parent Council. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10101))
+
 ## Thread count
 LG/36 N20 LN8 DB2 LB60 DB2 LN8 N/20
 ![Sett](sett.png)

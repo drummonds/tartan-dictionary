@@ -18,5 +18,3 @@ GWKWKWKWKWGWKWR
 |---------------|
 | [Halliday](/setts/s15/g8w8k8w8k8w8k8w8k8w8g8w8k8w8r8-g289c18-k101010-rb000b0-wf8f8f8/)|
 |![Halliday example sett](/setts/s15/g8w8k8w8k8w8k8w8k8w8g8w8k8w8r8-g289c18-k101010-rb000b0-wf8f8f8/sett.png)|
-| [Halliday (Name)](/setts/s15/g8w8k8w8k8w8k8w8k8w8g8w8k8w8r8-g289c18-k101010-rb000b0-wf8f8f8/)|
-|![Halliday (Name) example sett](/setts/s15/g8w8k8w8k8w8k8w8k8w8g8w8k8w8r8-g289c18-k101010-rb000b0-wf8f8f8/sett.png)|

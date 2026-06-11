@@ -18,7 +18,5 @@ GBGYGRG
 
 | Tartans |
 |---------------|
-| [Shannon](/setts/s7/g96b22ga32y32g22r6g22-b780078-g604000-ga006818-rc80000-ye8c000/)|
-|![Shannon example sett](/setts/s7/g96b22ga32y32g22r6g22-b780078-g604000-ga006818-rc80000-ye8c000/sett.png)|
 | [Shannon (?)](/setts/s7/g96b22ga32y32g22r6g22-b780078-g604000-ga006818-rc80000-ye8c000/)|
 |![Shannon (?) example sett](/setts/s7/g96b22ga32y32g22r6g22-b780078-g604000-ga006818-rc80000-ye8c000/sett.png)|

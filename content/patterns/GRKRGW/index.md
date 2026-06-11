@@ -20,5 +20,3 @@ GRKRGW
 |---------------|
 | [Chalet](/setts/s6/g16r64k20r200g16w4-g007800-k000000-rc80000-wfcfcfc/)|
 |![Chalet example sett](/setts/s6/g16r64k20r200g16w4-g007800-k000000-rc80000-wfcfcfc/sett.png)|
-| [Chalet (Fashion)](/setts/s6/g16r64k20r200g16w4-g007800-k000000-rc80000-wfcfcfc/)|
-|![Chalet (Fashion) example sett](/setts/s6/g16r64k20r200g16w4-g007800-k000000-rc80000-wfcfcfc/sett.png)|

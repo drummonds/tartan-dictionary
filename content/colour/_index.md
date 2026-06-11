@@ -1,6 +1,7 @@
 ---
 title: Colour
 date: 2023-03-18
+background: /bg/colour.png
 ---
 The named colour palettes tartans are dyed against. Each palette belongs to a supplier — the Dictionary's own colour roles, the Scottish Tartans Authority's working legend, mill shade cards as they are captured — and each colour in it has a name and a reference, the thing quoted on an order.
 

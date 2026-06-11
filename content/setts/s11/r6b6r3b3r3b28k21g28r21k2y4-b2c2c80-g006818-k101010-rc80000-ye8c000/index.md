@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1856 — MacLagan of Glenquiech (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771))
+- pre 1856 — MacLagan of Glenquiech (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7813/))
+
 ## Thread count
 R/6 DB6 R3 DB3 R3 DB28 K21 G28 R21 K2 Y/4
 ![Sett](sett.png)

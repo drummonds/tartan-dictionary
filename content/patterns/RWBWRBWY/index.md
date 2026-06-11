@@ -20,5 +20,3 @@ RWBWRBWY
 |---------------|
 | [Presley of Memphis](/setts/s8/r8w8b8w42ra2b84w2y8-b000088-ra00000-rae87878-wfcfcfc-ye0b000/)|
 |![Presley of Memphis example sett](/setts/s8/r8w8b8w42ra2b84w2y8-b000088-ra00000-rae87878-wfcfcfc-ye0b000/sett.png)|
-| [Presley of Memphis (Fashion)](/setts/s8/r8w8b8w42ra2b84w2y8-b000088-ra00000-rae87878-wfcfcfc-ye0b000/)|
-|![Presley of Memphis (Fashion) example sett](/setts/s8/r8w8b8w42ra2b84w2y8-b000088-ra00000-rae87878-wfcfcfc-ye0b000/sett.png)|

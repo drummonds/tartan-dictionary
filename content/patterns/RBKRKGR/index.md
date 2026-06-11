@@ -20,5 +20,3 @@ RBKRKGR
 |---------------|
 | [Triad Highland Games Proposed](/setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/)|
 |![Triad Highland Games Proposed example sett](/setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/sett.png)|
-| [Triad Highland Games (Corporate)](/setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/)|
-|![Triad Highland Games (Corporate) example sett](/setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/sett.png)|

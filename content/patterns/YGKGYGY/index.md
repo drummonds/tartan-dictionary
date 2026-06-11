@@ -18,7 +18,5 @@ YGKGYGY
 
 | Tartans |
 |---------------|
-| [Angle Green](/setts/s7/y4g44k24g12y4g4y4-g285800-k101010-ybc8c00/)|
-|![Angle Green example sett](/setts/s7/y4g44k24g12y4g4y4-g285800-k101010-ybc8c00/sett.png)|
 | [Angle, Green (Fashion)](/setts/s7/y4g44k24g12y4g4y4-g285800-k101010-ybc8c00/)|
 |![Angle, Green (Fashion) example sett](/setts/s7/y4g44k24g12y4g4y4-g285800-k101010-ybc8c00/sett.png)|

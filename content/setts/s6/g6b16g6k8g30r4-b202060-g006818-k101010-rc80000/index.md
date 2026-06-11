@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [GBGKGR](/patterns/gbgkgr/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/709/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1842 — Lauder (Family) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057))
+- 1842 — Lauder (Family) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/709/))
 
 ## Thread count
 G/6 DB16 G6 K8 G30 R/4

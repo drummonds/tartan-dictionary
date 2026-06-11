@@ -18,5 +18,3 @@ BWGWBWRWRWRWRWRWRWB
 |---------------|
 | [Shaw Dress (Personal)](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/)|
 |![Shaw Dress (Personal) example sett](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/sett.png)|
-| [Shaw Dress (Personal)](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/)|
-|![Shaw Dress (Personal) example sett](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/sett.png)|

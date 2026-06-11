@@ -1,13 +1,20 @@
 ---
-title: "North Sea Commission (Corporate)"
+title: "North Sea Commission"
 date: 2023-03-18
 ---
 In pattern [BBBBY](/patterns/bbbby/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6938/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3154
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/06/2006 — North Sea Commission (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3154))
+- 2006 June — North Sea Commission (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6938/))
 
 ## Thread count
 B/36 N12 B4 N48 Y/4

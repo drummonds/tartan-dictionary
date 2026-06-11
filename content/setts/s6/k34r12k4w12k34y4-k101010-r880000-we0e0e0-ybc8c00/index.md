@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7630/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1945 — Black 1990 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7630/))
+- 01/01/1990 — Black (asymmetric) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5648))
+
 ## Thread count
 DY/4 K34 LN12 K4 DR12 K/34
 ![Sett](sett.png)

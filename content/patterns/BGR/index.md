@@ -24,8 +24,6 @@ BGR
 |![Ferguson example sett](/setts/s3/b24g20r4-b2c4084-g005020-rdc0000/sett.png)|
 | [Wilson's No.061](/setts/s3/b8g14r8-b5c8ca8-g003820-rc80000/)|
 |![Wilson's No.061 example sett](/setts/s3/b8g14r8-b5c8ca8-g003820-rc80000/sett.png)|
-| [Agnew (Clan)](/setts/s3/b106g84r28-b2c2c80-g006818-rc80000/)|
-|![Agnew (Clan) example sett](/setts/s3/b106g84r28-b2c2c80-g006818-rc80000/sett.png)|
 | [Gyle (Corporate)](/setts/s3/b160g20r40-b2888c4-g003820-r880000/)|
 |![Gyle (Corporate) example sett](/setts/s3/b160g20r40-b2888c4-g003820-r880000/sett.png)|
 | [Agnew](/setts/s3/b53g42r14-b304080-g008000-rc00000/)|

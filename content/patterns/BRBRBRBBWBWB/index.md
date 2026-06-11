@@ -18,5 +18,3 @@ BRBRBRBBWBWB
 |---------------|
 | [Eidart](/setts/s12/b56r30b54r4b54r6b52ba40w6ba4w4ba8-b2c2c80-ba5c5c5c-rc80000-wfcfcfc/)|
 |![Eidart example sett](/setts/s12/b56r30b54r4b54r6b52ba40w6ba4w4ba8-b2c2c80-ba5c5c5c-rc80000-wfcfcfc/sett.png)|
-| [Eidart 1980 (Fashion)](/setts/s12/b56r30b54r4b54r6b52ba40w6ba4w4ba8-b2c2c80-ba5c5c5c-rc80000-wfcfcfc/)|
-|![Eidart 1980 (Fashion) example sett](/setts/s12/b56r30b54r4b54r6b52ba40w6ba4w4ba8-b2c2c80-ba5c5c5c-rc80000-wfcfcfc/sett.png)|

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [32 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3937
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1819 — Stewart of Bute (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3937))
+- 1819 — Stewart of Bute - 1963 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5989/))
+
 ## Thread count
 B/66 K4 G4 K4 G4 K4 B66 R6 K68 R4 K68 R6 G68 K4 B4 K4 G68 K4 B4 K4 G68 R6 K68 R4 K68 R6 B66 K4 G4 K4 G4 K/4
 ![Sett](sett.png)

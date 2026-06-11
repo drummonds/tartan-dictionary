@@ -18,7 +18,5 @@ BBGYBRK
 
 | Tartans |
 |---------------|
-| [Snelgrove Hunting](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/)|
-|![Snelgrove Hunting example sett](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/sett.png)|
 | [Snelgrove Htg (Name)](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/)|
 |![Snelgrove Htg (Name) example sett](/setts/s7/k6r24b16y4g72b20ba4-b642000-ba2888c4-g006818-k101010-rc80000-ybc8c00/sett.png)|

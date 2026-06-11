@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3146
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1963 — Nor'Westers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3146))
+- 1963 — Nor'Westers (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1067/))
+
 ## Thread count
 K/2 B12 R4 W24 T4 Y8 T4 Ga60 K/2
 ![Sett](sett.png)

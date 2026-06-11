@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3438
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1989 — RAF Leuchars (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3438))
+- pre 1989 — RAF Leuchars (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5443/))
+
 ## Thread count
 N/8 LG44 R8 LG44 K8 Ba24 B52 K8 B12 Y/8
 ![Sett](sett.png)

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3587
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/05/1993 — Royal Air Force Lossiemouth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3587))
+- 1993 — RAF Lossiemouth (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2188/))
+
 ## Thread count
 DY/6 K10 G4 K40 DB16 G6 B36 DR4 B36 N/6
 ![Sett](sett.png)

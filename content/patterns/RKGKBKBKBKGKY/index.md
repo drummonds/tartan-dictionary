@@ -18,8 +18,6 @@ RKGKBKBKBKGKY
 |---------------|
 | [MacEwen/MacEwan](/setts/s13/r4k4g24k24b24k4b4k4b24k24g24k4y4-b2c2c80-g006818-k101010-rc80000-yd8b000/)|
 |![MacEwen/MacEwan example sett](/setts/s13/r4k4g24k24b24k4b4k4b24k24g24k4y4-b2c2c80-g006818-k101010-rc80000-yd8b000/sett.png)|
-| [MacEwen (Clan)](/setts/s13/r4k4g24k24b24k4b4k4b24k24g24k4y4-b2c2c80-g006818-k101010-rc80000-yd8b000/)|
-|![MacEwen (Clan) example sett](/setts/s13/r4k4g24k24b24k4b4k4b24k24g24k4y4-b2c2c80-g006818-k101010-rc80000-yd8b000/sett.png)|
 | [MacEwan](/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b00004c-g004c00-k000000-rc80000-yffc800/)|
 |![MacEwan example sett](/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b00004c-g004c00-k000000-rc80000-yffc800/sett.png)|
 | [MacEwen / MacEwan](/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b304080-g008000-k000000-rc00000-yf0c000/)|

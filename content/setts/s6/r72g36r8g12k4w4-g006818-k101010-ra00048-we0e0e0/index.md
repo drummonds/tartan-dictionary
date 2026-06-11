@@ -1,13 +1,20 @@
 ---
-title: "MacGregor of Cardney - 1930 (Clan)"
+title: "MacGregor of Cardney"
 date: 2023-03-18
 ---
 In pattern [RGRGKW](/patterns/rgrgkw/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1285/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2457
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacGregor of Cardney (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2457))
+- c1930 — MacGregor of Cardney - 1930 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1285/))
 
 ## Thread count
 LN/4 K4 G12 R8 G36 R/72

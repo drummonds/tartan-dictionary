@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3137
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1845 — Nicolson (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3137))
+- 1845 — Nicolson/MacNichol (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1148/))
+
 ## Thread count
 K/8 R32 G8 R32 G52 R4 K28 LP4 K28 R32 G8 R32 K/8
 ![Sett](sett.png)

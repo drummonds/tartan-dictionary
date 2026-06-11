@@ -20,8 +20,6 @@ GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG
 |![MacRae (Red) example sett](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
 | [Ross #3](/setts/s31/g46r12g46r52g8r18g8r52w6r16b62r12b62r16w6r52b4r4b8r4b4r52b4r4b8r4b4r52g46r12g46-b5a008c-g005020-rdc0000-we0e0e0/)|
 |![Ross #3 example sett](/setts/s31/g46r12g46r52g8r18g8r52w6r16b62r12b62r16w6r52b4r4b8r4b4r52b4r4b8r4b4r52g46r12g46-b5a008c-g005020-rdc0000-we0e0e0/sett.png)|
-| [MacRae - 1850 (Clan)](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b2c2c80-g006818-rc80000-wfcfcfc/)|
-|![MacRae - 1850 (Clan) example sett](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b2c2c80-g006818-rc80000-wfcfcfc/sett.png)|
 | [MacRae](/setts/s31/g4r1g4r4b1r1b1r1b1r4b1r1b1r1b1r4w1r1b4r1b4r1w1r4g1r1g1r4g4r1g4-b000064-g004c00-rc80000-wd0d0d0/)|
 |![MacRae example sett](/setts/s31/g4r1g4r4b1r1b1r1b1r4b1r1b1r1b1r4w1r1b4r1b4r1w1r4g1r1g1r4g4r1g4-b000064-g004c00-rc80000-wd0d0d0/sett.png)|
 | [MacRae](/setts/s31/g16r4g16r16b4r4b4r4b4r16b4r4b4r4b4r16w4r4b16r4b16r4w4r16g4r4g4r16g16r4g16-b304080-g003000-rc00000-we0e0e0/)|

@@ -20,5 +20,3 @@ KGKGKGWK
 |---------------|
 | [Lamont Dress](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/)|
 |![Lamont Dress example sett](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/sett.png)|
-| [Lamont Dress (Fashion)](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/)|
-|![Lamont Dress (Fashion) example sett](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/sett.png)|

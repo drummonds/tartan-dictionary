@@ -1,13 +1,20 @@
 ---
-title: "Wood (Clan/Family)"
+title: "Wood (Clan)"
 date: 2023-03-18
 ---
 In pattern [KYKGKGBRBRBRBRBRBGKGKYK](/patterns/kykgkgbrbrbrbrbrbgkgkyk/).
 
 
-This was sourced from register-of-tartans.  It is a [23 stripes tartan](/stripes/stripes23/).
+This was sourced from tartans-authority.  It is a [23 stripes tartan](/stripes/stripes23/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5069
+Original link http://www.tartansauthority.com/tartan-ferret/display/6630/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2005 — Wood (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6630/))
+- undated — Wood (Clan/Family) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5069))
 
 ## Thread count
 K/6 N4 K12 G6 K6 G42 DB36 R2 DB4 R2 DB4 R6 DB4 R2 DB4 R2 DB36 G42 K6 G6 K12 Y4 K/6

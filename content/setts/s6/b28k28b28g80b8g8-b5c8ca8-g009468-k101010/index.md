@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1145
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/08/2005 — Falconer of Labhdal (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1145))
+- 2005 August — Falconer of Labhdal (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6787/))
+
 ## Thread count
 B/8 Ba8 B80 Ba28 K28 Ba/28
 ![Sett](sett.png)

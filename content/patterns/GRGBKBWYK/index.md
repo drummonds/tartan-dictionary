@@ -18,5 +18,3 @@ GRGBKBWYK
 |---------------|
 | [Dodd of Branford](/setts/s9/g8r4g40b16k16b8w2y4k2-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
 |![Dodd of Branford example sett](/setts/s9/g8r4g40b16k16b8w2y4k2-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
-| [Dodd of Branford (Name)](/setts/s9/g8r4g40b16k16b8w2y4k2-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
-|![Dodd of Branford (Name) example sett](/setts/s9/g8r4g40b16k16b8w2y4k2-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|

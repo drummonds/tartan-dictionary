@@ -20,5 +20,3 @@ GWGGGYG
 |---------------|
 | [Freedom of Derry](/setts/s7/g14y7g14ga50g64w6g7-g289c18-ga003820-we0e0e0-ye8c000/)|
 |![Freedom of Derry example sett](/setts/s7/g14y7g14ga50g64w6g7-g289c18-ga003820-we0e0e0-ye8c000/sett.png)|
-| [Freedom of Derry (Fashion)](/setts/s7/g14y7g14ga50g64w6g7-g289c18-ga003820-we0e0e0-ye8c000/)|
-|![Freedom of Derry (Fashion) example sett](/setts/s7/g14y7g14ga50g64w6g7-g289c18-ga003820-we0e0e0-ye8c000/sett.png)|

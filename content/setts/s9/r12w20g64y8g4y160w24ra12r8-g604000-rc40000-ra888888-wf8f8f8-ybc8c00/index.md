@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5421
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Bell's Whisky (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5421))
+- 1980s — Bell's Whisky (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3674/))
+
 ## Thread count
 R/8 N12 W24 DY160 T4 DY8 T64 W20 R/12
 ![Sett](sett.png)

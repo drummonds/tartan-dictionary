@@ -1,13 +1,20 @@
 ---
-title: "Police College Tulliallan (Corporate"
+title: "Police College Tulliallan"
 date: 2023-03-18
 ---
 In pattern [BKKGKBW](/patterns/bkkgkbw/).
 
 
-This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/4231/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3351
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Police College Tulliallan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3351))
+- 1999 — Police College Tulliallan (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4231/))
 
 ## Thread count
 DB/4 K8 DG72 G2 DBa68 DB8 W/4

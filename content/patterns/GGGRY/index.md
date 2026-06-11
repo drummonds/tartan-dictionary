@@ -18,7 +18,5 @@ GGGRY
 
 | Tartans |
 |---------------|
-| [Ballantyne (Personal) STA](/setts/s5/g120ga26g18r16y8-g787878-ga006818-r880000-ye8c000/)|
-|![Ballantyne (Personal) STA example sett](/setts/s5/g120ga26g18r16y8-g787878-ga006818-r880000-ye8c000/sett.png)|
 | [Ballantyne (Personal)](/setts/s5/g120ga26g18r16y8-g787878-ga006818-r880000-ye8c000/)|
 |![Ballantyne (Personal) example sett](/setts/s5/g120ga26g18r16y8-g787878-ga006818-r880000-ye8c000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Grampian Police (Corporate)"
+title: "Grampian Police"
 date: 2023-03-18
 ---
 In pattern [BBWBKBKBKBKB](/patterns/bbwbkbkbkbkb/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6835/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1490
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2006 — Grampian Police (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1490))
+- pre 2006 — Grampian Police (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6835/))
 
 ## Thread count
 DB/10 B4 W2 B4 K64 DB6 K8 DB58 K4 DBa2 K6 DB/6

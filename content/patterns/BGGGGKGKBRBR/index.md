@@ -18,5 +18,3 @@ BGGGGKGKBRBR
 |---------------|
 | [Kinloch Anderson Hunting](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/)|
 |![Kinloch Anderson Hunting example sett](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/sett.png)|
-| [Kinloch Anderson Htg (Corporate)](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/)|
-|![Kinloch Anderson Htg (Corporate) example sett](/setts/s12/b8g28ga4g8ga4k12g6k12ba26r4ba8r8-b6c0070-ba1c0070-g006818-ga8c7038-k101010-r880000/sett.png)|

@@ -1,13 +1,20 @@
 ---
-title: "Brooks Bros Tattersall Red (Fashion)"
+title: "Brooks Brothers Tattersall Red"
 date: 2023-03-18
 ---
 In pattern [BRBRY](/patterns/brbry/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/6572/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=384
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2005 — Brooks Brothers Tattersall Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=384))
+- pre 2005 — Brooks Bros Tattersall Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6572/))
 
 ## Thread count
 DB/4 DR36 DB8 DR36 LT/4

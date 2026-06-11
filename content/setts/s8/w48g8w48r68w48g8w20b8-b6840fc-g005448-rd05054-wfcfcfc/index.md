@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/634/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1985 — Milne (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/634/))
+- 01/01/2003 — Milne (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2953))
+
 ## Thread count
 P/8 W20 G8 W48 DO68 W48 G8 W/48
 ![Sett](sett.png)

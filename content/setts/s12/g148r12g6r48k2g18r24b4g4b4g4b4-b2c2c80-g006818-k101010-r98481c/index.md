@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7807/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 2008 — Ridgeback (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7807/))
+- undated — Ridgeback (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5767))
+
 ## Thread count
 DB/4 G4 DB4 G4 DB4 T24 G18 K2 T48 G6 T12 G/148
 ![Sett](sett.png)

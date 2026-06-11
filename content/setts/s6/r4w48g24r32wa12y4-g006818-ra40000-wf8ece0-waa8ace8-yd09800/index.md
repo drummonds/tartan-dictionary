@@ -5,9 +5,16 @@ date: 2023-03-18
 In pattern [RWGRWY](/patterns/rwgrwy/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/1686/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2604
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — MacLean Dress (Lumsden) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2604))
+- pre 2002 — MacLean Dress (Lumsden) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1686/))
 
 ## Thread count
 DR/4 LY48 G24 DR32 LP12 DY/4

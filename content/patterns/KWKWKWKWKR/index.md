@@ -18,7 +18,5 @@ KWKWKWKWKR
 |---------------|
 | [Reiver Check](/setts/s10/k108w8k8w8k8w8k8w8k16r20-k101010-rc80000-we0e0e0/)|
 |![Reiver Check example sett](/setts/s10/k108w8k8w8k8w8k8w8k16r20-k101010-rc80000-we0e0e0/sett.png)|
-| [Reiver Check (Fashion)](/setts/s10/k108w8k8w8k8w8k8w8k16r20-k101010-rc80000-we0e0e0/)|
-|![Reiver Check (Fashion) example sett](/setts/s10/k108w8k8w8k8w8k8w8k16r20-k101010-rc80000-we0e0e0/sett.png)|
 | [Reiver Check](/setts/s10/k108w8k8w8k8w8k8w8k16r20-k000000-rc00000-we0e0e0/)|
 |![Reiver Check example sett](/setts/s10/k108w8k8w8k8w8k8w8k16r20-k000000-rc00000-we0e0e0/sett.png)|

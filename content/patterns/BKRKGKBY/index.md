@@ -20,9 +20,5 @@ BKRKGKBY
 |---------------|
 | [Kilgour (Asymmetrical)](/setts/s8/b24k12r56k12g56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
 |![Kilgour (Asymmetrical) example sett](/setts/s8/b24k12r56k12g56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [St. Clement of Rome School](/setts/s8/b36k10r52k10g50k10b36y4-b202060-g006818-k101010-rc80000-ye8c000/)|
-|![St. Clement of Rome School example sett](/setts/s8/b36k10r52k10g50k10b36y4-b202060-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Kilgour (Clan)](/setts/s8/b24k12r56k12g56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Kilgour (Clan) example sett](/setts/s8/b24k12r56k12g56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
 | [St. Clement of Rome (Corporate)](/setts/s8/b36k10r52k10g50k10b36y4-b202060-g006818-k101010-rc80000-ye8c000/)|
 |![St. Clement of Rome (Corporate) example sett](/setts/s8/b36k10r52k10g50k10b36y4-b202060-g006818-k101010-rc80000-ye8c000/sett.png)|

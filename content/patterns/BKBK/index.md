@@ -28,5 +28,3 @@ BKBK
 |![Algarve (Fashion) example sett](/setts/s4/b20k20b20k20-b00008c-k000000/sett.png)|
 | [Leonard Hunting (Name)](/setts/s4/k120b20k40b36-b6c006c-k101010/)|
 |![Leonard Hunting (Name) example sett](/setts/s4/k120b20k40b36-b6c006c-k101010/sett.png)|
-| [Auchincloss (Name)](/setts/s4/k68b26k14b28-b2c2c80-k101010/)|
-|![Auchincloss (Name) example sett](/setts/s4/k68b26k14b28-b2c2c80-k101010/sett.png)|

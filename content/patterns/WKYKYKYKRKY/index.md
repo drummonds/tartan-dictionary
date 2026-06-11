@@ -18,5 +18,3 @@ WKYKYKYKRKY
 |---------------|
 | [Livingston Football Club](/setts/s11/y22k8r4k6ya4k8y30k64y4k10w4-k101010-rb468ac-we0e0e0-yc8a818-yac8e040/)|
 |![Livingston Football Club example sett](/setts/s11/y22k8r4k6ya4k8y30k64y4k10w4-k101010-rb468ac-we0e0e0-yc8a818-yac8e040/sett.png)|
-| [Livingston F. C. (pre 2005) (Sports)](/setts/s11/y22k8r4k6ya4k8y30k64y4k10w4-k101010-rb468ac-we0e0e0-yc8a818-yac8e040/)|
-|![Livingston F. C. (pre 2005) (Sports) example sett](/setts/s11/y22k8r4k6ya4k8y30k64y4k10w4-k101010-rb468ac-we0e0e0-yc8a818-yac8e040/sett.png)|

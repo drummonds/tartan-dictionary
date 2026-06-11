@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1988 — Australia Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139))
+- 1988 — Australia Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/612/))
+
 ## Thread count
 B/4 DR40 LT24 DR8 LT4 K8 LT4 DR8 N/22
 ![Sett](sett.png)
@@ -25,4 +32,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#B8B8B8;"><span style="color:#B8B8B8;filter:grayscale(1) invert(1) contrast(100);">#B8B8B8</span></code> `#B8B8B8` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.17 |
 
 ID: /setts/s9/y22r8g4k8g4r8g24r40b4-b2888c4-g8c7038-k101010-ra00000-yb8b8b8/
-b8b8/

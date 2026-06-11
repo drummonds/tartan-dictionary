@@ -20,5 +20,3 @@ GGKGKG
 |---------------|
 | [Dunbar Hunting](/setts/s6/g8k4g56k16ga42g6-g006818-ga003820-k101010/)|
 |![Dunbar Hunting example sett](/setts/s6/g8k4g56k16ga42g6-g006818-ga003820-k101010/sett.png)|
-| [Dunbar Htg (Clan)](/setts/s6/g8k4g56k16ga42g6-g006818-ga003820-k101010/)|
-|![Dunbar Htg (Clan) example sett](/setts/s6/g8k4g56k16ga42g6-g006818-ga003820-k101010/sett.png)|

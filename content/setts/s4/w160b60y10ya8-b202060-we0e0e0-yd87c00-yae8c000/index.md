@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [4 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/09/2001 — Tarbh Deargh (Red Bull) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072))
+- pre 2002 — Tarbh Deargh (Red Bull) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3974/))
+
 ## Thread count
 LN/160 DB60 O10 Y/8
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "LN/160 DB60 O10 Y/8 tartan")
 
 ID: /setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/
-e8c000/

@@ -20,5 +20,3 @@ RBWBRBW
 |---------------|
 | [Spirit of Ulster](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/)|
 |![Spirit of Ulster example sett](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/sett.png)|
-| [Spirit of Ulster (Fashion)](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/)|
-|![Spirit of Ulster (Fashion) example sett](/setts/s7/w4b8r4b180w4b8r2-b1c0070-rc80000-we0e0e0/sett.png)|

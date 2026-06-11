@@ -1,13 +1,22 @@
 ---
-title: "Erskine (Hunting) (Clan)"
+title: "Erskine Hunting"
 date: 2023-03-18
 ---
 In pattern [GGGGGG](/patterns/gggggg/).
 
 
-This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/stripes6/).
+This was sourced from register-of-tartans.  It is a [6 stripes tartan](/stripes/stripes6/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/755/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1127
+
+## Attestations
+
+This cloth appears in 4 source records; the oldest owns this page.
+
+- 01/01/1948 — Erskine Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1127))
+- 1948 — Erskine (Hunting) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/755/))
+- 01/01/1949 — Royal Scots Fusiliers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3606))
+- 1949 — Royal Scots Fusiliers (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5394/))
 
 ## Thread count
 DG/10 G6 DG48 G48 DG6 G/10

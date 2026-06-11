@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7574/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- March 2008 — Shiel, Claret (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7574/))
+- undated — Shiel Claret (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5598))
+
 ## Thread count
 DB/4 DRa4 W60 DR48 DP20 DRa10 W/16
 ![Sett](sett.png)

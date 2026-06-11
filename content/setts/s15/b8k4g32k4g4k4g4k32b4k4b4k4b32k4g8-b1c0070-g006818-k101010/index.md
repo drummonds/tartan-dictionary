@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5892/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1871 — 5th Royal Scots of Canada (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5892/))
+- 1871 — Lorne (Royal?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6/))
+
 ## Thread count
 DB/8 K4 G32 K4 G4 K4 G4 K32 DB4 K4 DB4 K4 DB32 K4 G/8
 ![Sett](sett.png)

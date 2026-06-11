@@ -20,10 +20,6 @@ RBKGKGKGW
 |![Luker (Personal) example sett](/setts/s9/w8g15k15g5k2g6k40b20r6-b003c64-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [MacDonald of The Isles](/setts/s9/w8g60k2g2k2g6k24b20r6-b202060-g006818-k101010-rc80000-wfcfcfc/)|
 |![MacDonald of The Isles example sett](/setts/s9/w8g60k2g2k2g6k24b20r6-b202060-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [MacDonald of The Isles - 1842 (Fash)](/setts/s9/w8g60k2g2k2g6k24b20r6-b202060-g006818-k101010-rc80000-wfcfcfc/)|
-|![MacDonald of The Isles - 1842 (Fash) example sett](/setts/s9/w8g60k2g2k2g6k24b20r6-b202060-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Luker (Name)](/setts/s9/w8g15k15g5k2g6k40b20r6-b003c64-g006818-k101010-rc80000-we0e0e0/)|
-|![Luker (Name) example sett](/setts/s9/w8g15k15g5k2g6k40b20r6-b003c64-g006818-k101010-rc80000-we0e0e0/sett.png)|
 | [MacDonnald of ye Ylis](/setts/s9/w4g30k1g1k1g3k12b10r3-b00004c-g004c00-k000000-rc80000-wd0d0d0/)|
 |![MacDonnald of ye Ylis example sett](/setts/s9/w4g30k1g1k1g3k12b10r3-b00004c-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
 | [MacDonald of the Isles](/setts/s9/w8g60k2g2k2g6k24b20r6-b304080-g008000-k000000-rc00000-we0e0e0/)|

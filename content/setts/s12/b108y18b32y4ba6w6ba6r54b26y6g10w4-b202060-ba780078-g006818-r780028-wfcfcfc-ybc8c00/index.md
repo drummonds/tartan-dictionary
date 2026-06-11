@@ -1,13 +1,20 @@
 ---
-title: "Queens University Kingston Ontario"
+title: "Queen's University Ont. (Corporate)"
 date: 2023-03-18
 ---
 In pattern [BYBYBWBRBYGW](/patterns/bybybwbrbygw/).
 
 
-This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3429
+Original link http://www.tartansauthority.com/tartan-ferret/display/2103/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1966 — Queen's University Ont. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2103/))
+- 01/01/2002 — Queens University Kingston Ontario (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3429))
 
 ## Thread count
 DB/108 DY18 DB32 DY4 P6 W6 P6 DR54 DB26 DY6 G10 W/4

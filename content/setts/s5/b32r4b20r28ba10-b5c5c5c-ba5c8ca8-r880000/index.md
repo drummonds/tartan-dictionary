@@ -1,13 +1,20 @@
 ---
-title: "Mowbray (USA) (Personal)"
+title: "Mowbray (Personal)"
 date: 2023-03-18
 ---
 In pattern [BRBRB](/patterns/brbrb/).
 
 
-This was sourced from tartans-authority.  It is a [5 stripes tartan](/stripes/stripes5/).
+This was sourced from register-of-tartans.  It is a [5 stripes tartan](/stripes/stripes5/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/565/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3037
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1984 — Mowbray (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3037))
+- 1984 — Mowbray (USA) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/565/))
 
 ## Thread count
 B/10 DR28 N20 DR4 N/32

@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [6 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/675/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 1986 — Moran (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/675/))
+- 01/01/1987 — Moran (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3005))
+
 ## Thread count
 G/110 K34 R18 K22 Y4 K/8
 ![Sett](sett.png)

@@ -18,7 +18,3 @@ GRBGRBGRGBRGBRYR
 |---------------|
 | [Gudbrandsdalen of Mannsdrakt](/setts/s16/g176r12b24g24r8b4g8r40g8b4r8g24b24r12y4r168-b3c2010-g004c00-r8c0000-yb0b0b0/)|
 |![Gudbrandsdalen of Mannsdrakt example sett](/setts/s16/g176r12b24g24r8b4g8r40g8b4r8g24b24r12y4r168-b3c2010-g004c00-r8c0000-yb0b0b0/sett.png)|
-| [Norwegian - Guldbrandsdalen](/setts/s16/g176r12b24g24r8b4g8r40g8b4r8g24b24r12y4r168-b3c2010-g004c00-r8c0000-yb0b0b0/)|
-|![Norwegian - Guldbrandsdalen example sett](/setts/s16/g176r12b24g24r8b4g8r40g8b4r8g24b24r12y4r168-b3c2010-g004c00-r8c0000-yb0b0b0/sett.png)|
-| [Gudbrandsdalen of Mannsdrakt (Dist)](/setts/s16/g176r12b24g24r8b4g8r40g8b4r8g24b24r12y4r168-b3c2010-g004c00-r8c0000-yb0b0b0/)|
-|![Gudbrandsdalen of Mannsdrakt (Dist) example sett](/setts/s16/g176r12b24g24r8b4g8r40g8b4r8g24b24r12y4r168-b3c2010-g004c00-r8c0000-yb0b0b0/sett.png)|

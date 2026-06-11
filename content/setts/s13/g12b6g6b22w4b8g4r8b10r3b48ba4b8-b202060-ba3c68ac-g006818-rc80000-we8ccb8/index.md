@@ -1,13 +1,20 @@
 ---
-title: "Massachusetts American District Tartan Tartan Number: 4543. Earliest known date: 2002 This was accepted as the official tartan of the Commonwealth of Massachusetts and signed by Governor Romney on May 16th 2003, House Bill #627. The colours are blue for the Atlantic Ocean, reservoirs, rivers and ponds; green for the Boston Hills, Worcester Hills and the Berkshire Mountains; tan for the beach line from the North to South Shore, Cape and Island and Buzzards Bay, plus red for the apple and cranberry harvests. See products available Copyright © Blair Urquhart, Comrie, 2015"
+title: "Massachusetts - The Bay State"
 date: 2023-03-18
 ---
 In pattern [BBBRBRGBWBGBG](/patterns/bbbrbrgbwbgbg/).
 
 
-This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4543
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2849
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/2002 — Massachusetts - The Bay State (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2849))
+- undated — Massachusetts American District Tartan Tartan Number: 4543. Earliest known date: 2002 This was accepted as the official tartan of the Commonwealth of Massachusetts and signed by Governor Romney on May 16th 2003, House Bill #627. The colours are blue for the Atlantic Ocean, reservoirs, rivers and ponds; green for the Boston Hills, Worcester Hills and the Berkshire Mountains; tan for the beach line from the North to South Shore, Cape and Island and Buzzards Bay, plus red for the apple and cranberry harvests. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4543))
 
 ## Thread count
 DB/8 B4 DB48 R3 DB10 R8 G4 DB8 LR4 DB22 G6 DB6 G/12

@@ -18,5 +18,3 @@ BKGKBKBGBGKWK
 |---------------|
 | [Clifford](/setts/s13/b20k6g6k16ba18k6ba20ga6ba56g6k6w6k6-b14283c-ba4c0000-g006818-ga0098a0-k101010-wfcfcfc/)|
 |![Clifford example sett](/setts/s13/b20k6g6k16ba18k6ba20ga6ba56g6k6w6k6-b14283c-ba4c0000-g006818-ga0098a0-k101010-wfcfcfc/sett.png)|
-| [Clifford (Name)](/setts/s13/b20k6g6k16ba18k6ba20ga6ba56g6k6w6k6-b14283c-ba4c0000-g006818-ga0098a0-k101010-wfcfcfc/)|
-|![Clifford (Name) example sett](/setts/s13/b20k6g6k16ba18k6ba20ga6ba56g6k6w6k6-b14283c-ba4c0000-g006818-ga0098a0-k101010-wfcfcfc/sett.png)|

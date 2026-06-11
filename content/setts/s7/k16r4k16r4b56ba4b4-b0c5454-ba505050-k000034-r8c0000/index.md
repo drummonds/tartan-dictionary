@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3340
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1995 — Pinehurst Resort (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3340))
+- 1995? — Pinehurst Resort (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4173/))
+
 ## Thread count
 DB/16 DR4 DB16 DR4 G56 N4 G/4
 ![Sett](sett.png)
@@ -28,4 +35,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 ![Tartan detail](tartan.png "DB/16 DR4 DB16 DR4 G56 N4 G/4 tartan")
 
 ID: /setts/s7/k16r4k16r4b56ba4b4-b0c5454-ba505050-k000034-r8c0000/
-8c0000/

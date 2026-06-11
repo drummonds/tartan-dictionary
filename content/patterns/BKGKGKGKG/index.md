@@ -18,5 +18,3 @@ BKGKGKGKG
 |---------------|
 | [Menez Du](/setts/s9/b10k18g14k6g14k6g14k50g6-b202060-g006818-k101010/)|
 |![Menez Du example sett](/setts/s9/b10k18g14k6g14k6g14k50g6-b202060-g006818-k101010/sett.png)|
-| [Menez Du (District)](/setts/s9/b10k18g14k6g14k6g14k50g6-b202060-g006818-k101010/)|
-|![Menez Du (District) example sett](/setts/s9/b10k18g14k6g14k6g14k50g6-b202060-g006818-k101010/sett.png)|

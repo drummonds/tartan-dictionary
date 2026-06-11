@@ -1,13 +1,20 @@
 ---
-title: "Leach 1999 (Name)"
+title: "Leach (1999)"
 date: 2023-03-18
 ---
 In pattern [BRGRGRGBRKRK](/patterns/brgrgrgbrkrk/).
 
 
-This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+This was sourced from register-of-tartans.  It is a [12 stripes tartan](/stripes/stripes12/).
 
-Original link http://www.tartansauthority.com/tartan-ferret/display/5203/
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2074
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1999 — Leach (1999) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2074))
+- pre 1999 — Leach 1999 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5203/))
 
 ## Thread count
 B/4 R12 G48 R4 G8 R4 G20 B8 R48 K6 R6 K/12

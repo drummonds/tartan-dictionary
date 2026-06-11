@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1894
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- 01/01/1985 — Johnnie Walker (1985) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1894))
+- 1985 — Johnnie Walker (1985) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1174/))
+- undated — Johnnie Walker Corporate Tartan Tartan Number: 1174. Earliest known date: 1985 Check this entry... See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1174))
+
 ## Thread count
 K/40 R4 K4 R8 K4 R56 K4 O4 R16 K4 R8 K4 R8 K/60
 ![Sett](sett.png)
@@ -23,4 +31,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s14/k60r8k4r8k4r16y4k4r56k4r8k4r4k40-k101010-rc80000-yd87c00/
-d87c00/

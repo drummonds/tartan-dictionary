@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [17 stripes tartan](/stripes/s
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1805/
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- pre 1906 — Rothesay Hunting (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1805/))
+- 01/01/1940 — Rothesay Hunting, Duke of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3574))
+
 ## Thread count
 LN/8 G4 LN4 G83 R7 G5 R7 G7 R28 G7 R28 G7 R7 G5 R7 G83 LN/8
 ![Sett](sett.png)
@@ -23,4 +30,3 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
 ID: /setts/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8-g006818-rc80000-we0e0e0/
-/

@@ -20,8 +20,6 @@ KWKWKWKW
 |---------------|
 | [Menzies (1938)](/setts/s8/k144w16k12w16k24w8k4w48-k101010-wfcfcfc/)|
 |![Menzies (1938) example sett](/setts/s8/k144w16k12w16k24w8k4w48-k101010-wfcfcfc/sett.png)|
-| [Menzies 1938 - Mourning (Clan)](/setts/s8/k144w16k12w16k24w8k4w48-k101010-wfcfcfc/)|
-|![Menzies 1938 - Mourning (Clan) example sett](/setts/s8/k144w16k12w16k24w8k4w48-k101010-wfcfcfc/sett.png)|
 | [Priest](/setts/s8/k2w16k16w2k16w8k8w2-k000000-wd0d0d0/)|
 |![Priest example sett](/setts/s8/k2w16k16w2k16w8k8w2-k000000-wd0d0d0/sett.png)|
 | [Menzies](/setts/s8/k64w8k4w8k8w4k2w12-k000000-we0e0e0/)|

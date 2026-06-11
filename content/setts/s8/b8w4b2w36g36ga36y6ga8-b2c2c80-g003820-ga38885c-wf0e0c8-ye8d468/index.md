@@ -9,6 +9,14 @@ This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/st
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7603/
 
+## Attestations
+
+This cloth appears in 3 source records; the oldest owns this page.
+
+- March 2008 — Gigha, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7603/))
+- undated — Gigha Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5627))
+- undated — Gigha Green Fashion Tartan Tartan Number: 7603. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7603))
+
 ## Thread count
 DB/8 W4 DB2 W36 DG36 G36 LY6 G/8
 ![Sett](sett.png)
@@ -23,13 +31,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#38885C;"><span style="color:#38885C;filter:grayscale(1) invert(1) contrast(100);">#38885C</span></code> `#38885C` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 | LY | <code style="background-color:#E8D468;"><span style="color:#E8D468;filter:grayscale(1) invert(1) contrast(100);">#E8D468</span></code> `#E8D468` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.06 |
 | W | <code style="background-color:#F0E0C8;"><span style="color:#F0E0C8;filter:grayscale(1) invert(1) contrast(100);">#F0E0C8</span></code> `#F0E0C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
-
-# Sample pattern
-
-![Tartan detail](tartan.png "DB/8 W4 DB2 W36 DG36 G36 LY6 G/8 tartan")
-
-ID: /setts/s8/b8w4b2w36g36ga36y6ga8-b2c2c80-g003820-ga38885c-wf0e0c8-ye8d468/
-#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
 # Sample pattern
 

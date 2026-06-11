@@ -6,6 +6,12 @@ All notable changes to this project are documented here. Format follows
 ## [Unreleased]
 
 ### Added
+- "The Drummonds of Megginch Tartan Collection" post: the whole collection — 1820 plaid, 1849
+  kilt and its faded face, c. 1890 child's kilt, 1967 carpet, 1997 kilt, 2022 proposal and 2023
+  kilt — gathered with thread counts, measured shades and the woven-sample photographs.
+- Printable collection posters: a `collection_poster` shortcode whose items weaver.js weaves on
+  demand into a one-page poster (hero band + grid) at A4, A3 or A2; the per-variant print
+  sample sheets gain A2 alongside A4/A3.
 - The TTD (Total Tartan Dictionary) navigator at `/ttd/`, its own nav entry: the in-browser
   weaver, shade jogging, and the ΔTartan nearest-neighbour list + map now live there instead of
   piggybacking on variant pages; each neighbour opens either in the TTD or on its page.

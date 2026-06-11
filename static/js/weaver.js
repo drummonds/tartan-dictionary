@@ -6,6 +6,8 @@
  * URL that has no static page is woven read-only — the slug alone encodes the whole cloth — and
  * the old .../edit/ and /setts/new/ addresses forward to the TTD editor. On static variant pages
  * the script only hydrates the print controls; the pages must read exactly as they do without it.
+ * Posts carrying a {{< collection_poster >}} shortcode get "Print collection poster: A4 A3 A2"
+ * controls the same way — the poster is woven at print resolution on first click.
  * Plain JS, no framework. */
 (function () {
   'use strict';
@@ -14,6 +16,15 @@
   var NEW_PATH = '/setts/new/';
   var TTD_PATH = '/ttd/edit/';
   var t0 = performance.now();
+
+  /* The paper sizes the print sheets come in. A2 is not a CSS @page keyword, so it goes by
+   * measure; px sizes the woven render so the printed cloth stays comfortably crisp. Assigned
+   * before init() can run — the deferred script calls it synchronously. */
+  var PAPER = {
+    A4: { page: 'A4', px: 1400 },
+    A3: { page: 'A3', px: 2000 },
+    A2: { page: '420mm 594mm', px: 2800 }
+  };
 
   document.addEventListener('DOMContentLoaded', init);
   if (document.readyState !== 'loading') init();
@@ -53,6 +64,7 @@
       });
       return;
     }
+    hydrateCollections();
     hydrateStatic();
   }
 
@@ -73,8 +85,8 @@
         printControls(slug, header ? header.textContent : document.title), text);
     }
 
-    var pm = /[?&]weaverprint=(A[34])/.exec(location.search);
-    if (pm) printSample(slug, pm[1], header ? header.textContent : document.title, true);
+    var pm = /[?&]weaverprint=(A[234])/.exec(location.search);
+    if (pm && PAPER[pm[1]]) printSample(slug, pm[1], header ? header.textContent : document.title, true);
   }
 
   function status(shell, msg) {
@@ -508,13 +520,13 @@
     if (el) el.textContent = (el.textContent ? el.textContent + ' · ' : '') + msg;
   }
 
-  /* "Print sample sheet: A4 A3" — on static variant pages and weaver pages alike. The engine
+  /* "Print sample sheet: A4 A3 A2" — on static variant pages and weaver pages alike. The engine
    * loads on first click, so the buttons cost nothing until used. */
   function printControls(slug, title) {
     var p = document.createElement('p');
     p.id = 'weaver-print-controls';
     p.appendChild(document.createTextNode('Print sample sheet: '));
-    ['A4', 'A3'].forEach(function (size) {
+    Object.keys(PAPER).forEach(function (size) {
       var b = document.createElement('button');
       b.textContent = size;
       b.addEventListener('click', function () { printSample(slug, size, title, false); });
@@ -551,37 +563,120 @@
       document.body.appendChild(sheet);
 
       var settPNG = window.weaver.renderSett(info.slug, 2000, 120);
-      var wovenPNG = window.weaver.renderWoven(info.slug, 2048);
+      var wovenPNG = window.weaver.renderWoven(info.slug, PAPER[size].px);
       if (settPNG.error || wovenPNG.error) throw new Error(settPNG.error || wovenPNG.error);
       var settImg = sheet.querySelector('.weaver-print-sett');
       var wovenImg = sheet.querySelector('.weaver-print-tartan');
       settImg.src = pngURL(settPNG);
       wovenImg.src = pngURL(wovenPNG);
 
-      var style = document.getElementById('weaver-page-size');
-      if (!style) {
-        style = document.createElement('style');
-        style.id = 'weaver-page-size';
-        document.head.appendChild(style);
-      }
-      style.textContent = '@page { size: ' + size + ' }';
-
       // Both images must be decoded before print, or the sheet comes out blank.
-      return Promise.all([settImg.decode(), wovenImg.decode()]).then(function () {
-        if (preview) {
-          sheet.style.display = 'block';
-          return;
-        }
-        document.body.classList.add('weaver-printing');
-        var done = function () {
-          document.body.classList.remove('weaver-printing');
-          window.removeEventListener('afterprint', done);
-        };
-        window.addEventListener('afterprint', done);
-        window.print();
-      });
+      return showAndPrint(sheet, size, preview, Promise.all([settImg.decode(), wovenImg.decode()]));
     }).catch(function (err) {
       alert('Could not build the print sheet: ' + (err.message || err));
+    });
+  }
+
+  /* A post's {{< collection_poster >}} shortcode: the items (name, slug, note) ride hidden in
+   * its markup; the visible part gains the A4/A3/A2 buttons here. ?weaverprint=<size> previews
+   * the poster on screen, as on the variant pages. */
+  function hydrateCollections() {
+    var boxes = document.querySelectorAll('.weaver-collection');
+    Array.prototype.forEach.call(boxes, function (box) {
+      var controls = box.querySelector('.weaver-collection-controls');
+      if (!controls || controls.dataset.hydrated) return;
+      var items = Array.prototype.map.call(
+        box.querySelectorAll('[data-collection-item]'),
+        function (el) {
+          return { name: el.dataset.name, slug: el.dataset.slug, note: el.dataset.note || '' };
+        });
+      if (!items.length) return;
+      controls.dataset.hydrated = '1';
+      Object.keys(PAPER).forEach(function (size) {
+        var b = document.createElement('button');
+        b.textContent = size;
+        b.addEventListener('click', function () { printCollection(box, items, size, false); });
+        controls.appendChild(b);
+        controls.appendChild(document.createTextNode(' '));
+      });
+      var pm = /[?&]weaverprint=(A[234])/.exec(location.search);
+      if (pm && PAPER[pm[1]]) printCollection(box, items, pm[1], true);
+    });
+  }
+
+  /* Builds the collection poster — title and subtitle, the first tartan as a full-width hero
+   * band, the rest as a grid of woven squares, each captioned with its name, note and thread
+   * count — then prints it at the chosen paper size. Same print.css mechanics as the sample
+   * sheet; the weaver-poster classes carry the per-size layout. */
+  function printCollection(box, items, size, preview) {
+    loadEngine().then(function () {
+      var old = document.getElementById('weaver-print-sheet');
+      if (old) old.remove();
+      var sheet = document.createElement('div');
+      sheet.id = 'weaver-print-sheet';
+      sheet.className = 'weaver-poster weaver-poster-' + size.toLowerCase();
+      sheet.style.display = 'none';
+
+      var h = ['<h1>' + esc(box.dataset.title || 'Tartan collection') + '</h1>'];
+      if (box.dataset.subtitle) {
+        h.push('<p class="weaver-poster-subtitle">' + esc(box.dataset.subtitle) + '</p>');
+      }
+      h.push('<div class="weaver-poster-grid">');
+      items.forEach(function (it, i) {
+        var info = window.weaver.parseSlug(it.slug);
+        if (info.error) throw new Error(it.name + ': ' + info.error);
+        h.push('<figure' + (i === 0 ? ' class="weaver-poster-hero"' : '') + '>' +
+          '<img id="weaver-poster-img-' + i + '" alt="' + esc(it.name) + '">' +
+          '<figcaption><strong>' + esc(it.name) + '</strong>' +
+          (it.note ? ' — ' + esc(it.note) : '') +
+          '<br><code>' + esc(info.threadcount) + '</code></figcaption></figure>');
+      });
+      h.push('</div>');
+      h.push('<p class="weaver-print-id">' + esc(location.origin + location.pathname) +
+        ' — every sample woven on demand from its thread count</p>');
+      sheet.innerHTML = h.join('\n');
+      document.body.appendChild(sheet);
+
+      // The hero band runs the full page width; the grid squares sit three to a row, so half
+      // the resolution still prints crisply and weaves in a quarter of the time.
+      var decoded = Promise.all(items.map(function (it, i) {
+        var px = i === 0 ? PAPER[size].px : Math.round(PAPER[size].px / 2);
+        var png = window.weaver.renderWoven(it.slug, px);
+        if (png.error) throw new Error(it.name + ': ' + png.error);
+        var img = document.getElementById('weaver-poster-img-' + i);
+        img.src = pngURL(png);
+        return img.decode();
+      }));
+      return showAndPrint(sheet, size, preview, decoded);
+    }).catch(function (err) {
+      alert('Could not build the poster: ' + (err.message || err));
+    });
+  }
+
+  /* The shared tail of both print paths: inject the @page size, wait for the images to decode
+   * (or the print comes out blank), then either show the sheet on screen (the ?weaverprint=
+   * preview hook) or print it. */
+  function showAndPrint(sheet, size, preview, decoded) {
+    var style = document.getElementById('weaver-page-size');
+    if (!style) {
+      style = document.createElement('style');
+      style.id = 'weaver-page-size';
+      document.head.appendChild(style);
+    }
+    style.textContent = '@page { size: ' + PAPER[size].page + ' }';
+
+    return decoded.then(function () {
+      if (preview) {
+        sheet.style.display = 'block';
+        return;
+      }
+      document.body.classList.add('weaver-printing');
+      var done = function () {
+        document.body.classList.remove('weaver-printing');
+        window.removeEventListener('afterprint', done);
+      };
+      window.addEventListener('afterprint', done);
+      window.print();
     });
   }
 })();

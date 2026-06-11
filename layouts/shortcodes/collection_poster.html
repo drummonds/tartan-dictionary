@@ -1,0 +1,29 @@
+{{- /* A printable collection poster. Inner lines are "Name | slug | note" — one tartan per
+     line, the first becoming the poster's full-width hero band. The items ride hidden in the
+     markup; weaver.js (loaded below) adds the "Print collection poster: A4 A3 A2" buttons and
+     weaves every sample at print resolution in the browser when one is pressed. Usage:
+
+       {{< collection_poster title="…" subtitle="…" >}}
+       1820 Plaid | r26b2…-w98c8e8 | c. 1820, the original at double scale
+       …
+       {{< /collection_poster >}}
+*/ -}}
+{{- $title := .Get "title" | default .Page.Title -}}
+{{- $subtitle := .Get "subtitle" | default "" -}}
+<div class="weaver-collection" data-title="{{ $title }}" data-subtitle="{{ $subtitle }}">
+  <span style="display:none" aria-hidden="true">
+{{- range split (trim .Inner "\n\r\t ") "\n" }}
+{{- $parts := split . "|" }}
+{{- if ge (len $parts) 2 }}
+    <span data-collection-item
+      data-name="{{ trim (index $parts 0) "\t " }}"
+      data-slug="{{ trim (index $parts 1) "\t " }}"
+      data-note="{{ if ge (len $parts) 3 }}{{ trim (index $parts 2) "\t " }}{{ end }}"></span>
+{{- end }}
+{{- end }}
+  </span>
+  <p class="weaver-collection-controls">Print the collection poster:
+    <noscript>the poster is woven in your browser and needs JavaScript.</noscript>
+  </p>
+</div>
+<script src="/js/weaver.js" defer></script>

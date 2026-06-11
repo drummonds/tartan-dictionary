@@ -60,3 +60,78 @@
     page-break-inside: avoid;
   }
 }
+
+/* The collection poster (weaver.js printCollection): title, a full-width hero band woven from
+ * the first tartan, then the rest in a three-column grid of woven squares. Sized to fill one
+ * page at each paper size — the weaver-poster-a4/-a3/-a2 class scales type, gaps and the hero
+ * band. Kept outside @media print so the ?weaverprint= preview shows the real layout. */
+#weaver-print-sheet.weaver-poster {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #000;
+  background: #fff;
+  padding: 6mm;
+}
+#weaver-print-sheet.weaver-poster h1 {
+  text-align: center;
+  margin: 0 0 1mm;
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-subtitle {
+  text-align: center;
+  color: #333;
+  margin: 0 0 5mm;
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-grid figure {
+  margin: 0;
+  break-inside: avoid;
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-grid img {
+  width: 100%;
+  display: block;
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-grid figure.weaver-poster-hero {
+  grid-column: 1 / -1;
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-hero img {
+  object-fit: cover;
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-grid figcaption {
+  line-height: 1.25;
+  margin-top: 1mm;
+}
+#weaver-print-sheet.weaver-poster .weaver-poster-grid figcaption code {
+  font-family: 'Courier New', monospace;
+}
+#weaver-print-sheet.weaver-poster .weaver-print-id {
+  text-align: center;
+  color: #444;
+  word-break: normal;
+  margin: 3mm 0 0;
+}
+
+#weaver-print-sheet.weaver-poster-a4 h1 { font-size: 24pt; }
+#weaver-print-sheet.weaver-poster-a4 .weaver-poster-subtitle { font-size: 11pt; }
+#weaver-print-sheet.weaver-poster-a4 .weaver-poster-grid { gap: 4mm; }
+#weaver-print-sheet.weaver-poster-a4 .weaver-poster-hero img { height: 48mm; }
+#weaver-print-sheet.weaver-poster-a4 .weaver-poster-grid figcaption { font-size: 7.5pt; }
+#weaver-print-sheet.weaver-poster-a4 .weaver-poster-grid figcaption code { font-size: 6pt; }
+#weaver-print-sheet.weaver-poster-a4 .weaver-print-id { font-size: 7pt; }
+
+#weaver-print-sheet.weaver-poster-a3 h1 { font-size: 34pt; }
+#weaver-print-sheet.weaver-poster-a3 .weaver-poster-subtitle { font-size: 15pt; }
+#weaver-print-sheet.weaver-poster-a3 .weaver-poster-grid { gap: 6mm; }
+#weaver-print-sheet.weaver-poster-a3 .weaver-poster-hero img { height: 70mm; }
+#weaver-print-sheet.weaver-poster-a3 .weaver-poster-grid figcaption { font-size: 10.5pt; }
+#weaver-print-sheet.weaver-poster-a3 .weaver-poster-grid figcaption code { font-size: 8.5pt; }
+#weaver-print-sheet.weaver-poster-a3 .weaver-print-id { font-size: 10pt; }
+
+#weaver-print-sheet.weaver-poster-a2 h1 { font-size: 48pt; }
+#weaver-print-sheet.weaver-poster-a2 .weaver-poster-subtitle { font-size: 21pt; }
+#weaver-print-sheet.weaver-poster-a2 .weaver-poster-grid { gap: 8mm; }
+#weaver-print-sheet.weaver-poster-a2 .weaver-poster-hero img { height: 100mm; }
+#weaver-print-sheet.weaver-poster-a2 .weaver-poster-grid figcaption { font-size: 15pt; }
+#weaver-print-sheet.weaver-poster-a2 .weaver-poster-grid figcaption code { font-size: 12pt; }
+#weaver-print-sheet.weaver-poster-a2 .weaver-print-id { font-size: 14pt; }

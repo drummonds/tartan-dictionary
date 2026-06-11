@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{/* The TTD editor: a clean app shell that weaver.js boots in TTD mode — no prose, just the
+     weaver. Arriving with #slug=<slug> in the fragment opens that variant for editing (every
+     variant page's "Edit this in the TTD" link, and the weaver's own neighbour links, land this
+     way); bare /ttd/edit/ starts with a blank entry form. The intro lives on /ttd/. */}}
+<article class="post" id="weaver-app" data-weaver="ttd">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    <p>The weaver needs JavaScript — without it, find tartans by name with the search box above,
+       or start from <a href="/ttd/">what the TTD is</a>.</p>
+  </div>
+</article>
+<script src="{{ "js/weaver.js" | relURL }}" defer></script>
+{{ end }}

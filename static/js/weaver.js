@@ -1,17 +1,18 @@
-/* The in-browser weaver behind the TTD (Total Tartan Dictionary) navigator at /ttd/, plus two
- * smaller jobs. The TTD page boots the Go WASM tartan engine and is where tartans are woven from
- * scratch, varied shade by shade, and explored through their ΔTartan nearest neighbours — arriving
- * with #slug=<slug> opens that variant for editing. On the 404 app-shell, any /setts/s<n>/<slug>/
+/* The in-browser weaver behind the TTD (Total Tartan Dictionary) editor at /ttd/edit/, plus two
+ * smaller jobs. The editor page boots the Go WASM tartan engine and is where tartans are woven
+ * from scratch, varied shade by shade, and explored through their ΔTartan nearest neighbours —
+ * arriving with #slug=<slug> opens that variant for editing (/ttd/ itself is the prose landing
+ * page; it forwards any old #slug= address here). On the 404 app-shell, any /setts/s<n>/<slug>/
  * URL that has no static page is woven read-only — the slug alone encodes the whole cloth — and
- * the old .../edit/ and /setts/new/ addresses forward to the TTD. On static variant pages the
- * script only hydrates the print controls; the pages must read exactly as they do without it.
+ * the old .../edit/ and /setts/new/ addresses forward to the TTD editor. On static variant pages
+ * the script only hydrates the print controls; the pages must read exactly as they do without it.
  * Plain JS, no framework. */
 (function () {
   'use strict';
 
   var SETT_PATH = /^\/setts\/s\d+\/[0-9a-z-]+\/(edit\/)?$/;
   var NEW_PATH = '/setts/new/';
-  var TTD_PATH = '/ttd/';
+  var TTD_PATH = '/ttd/edit/';
   var t0 = performance.now();
 
   document.addEventListener('DOMContentLoaded', init);
@@ -163,27 +164,36 @@
     history.replaceState(null, '', info.path + (hashed ? '#slug=' + info.slug : ''));
   }
 
-  /* Renders a variant into the shell. In the TTD (ttd=true) the entry form, the shade-jog
-   * controls and the nearest-neighbour sections come too; the read-only 404 shell instead links
-   * into the TTD. */
+  /* Renders a variant into the shell. In the TTD editor (ttd=true) the layout is the working
+   * one — woven cloth first, then the sett, the palette with its shade-jog controls, and the
+   * nearest-neighbour sections — kept deliberately spare; the read-only 404 shell keeps the
+   * variant pages' reading order and links into the editor instead. */
   function render(shell, info, ttd) {
     var tWasm = performance.now();
     var h = [];
-    h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a>.</p>');
-    h.push('<p>Woven on demand in your browser. It is a <a href="/stripes/stripes' +
-      info.stripes + '/">' + info.stripes + ' stripes tartan</a>.</p>');
-    h.push('<h2>Thread count</h2>');
-    h.push('<p>' + esc(info.threadcount) + '</p>');
-    h.push('<p><img id="weaver-sett" alt="Sett"></p>');
-    h.push('<h2>Palette</h2>');
-    h.push('<p>Each colour and its ΔE from the base-6 reference it is a variant of.</p>');
-    h.push('<div id="weaver-palette">' + paletteTable(info.palette, ttd ? shadeRowsFor(info) : null) + '</div>');
-    h.push('<h1>Sample pattern</h1>');
-    h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
     if (ttd) {
+      h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
+      h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a> · <a href="/stripes/stripes' +
+        info.stripes + '/">' + info.stripes + ' stripes</a></p>');
+      h.push('<h2>Thread count</h2>');
+      h.push('<p>' + esc(info.threadcount) + '</p>');
+      h.push('<p><img id="weaver-sett" alt="Sett"></p>');
+      h.push('<h2>Palette</h2>');
+      h.push('<div id="weaver-palette">' + paletteTable(info.palette, shadeRowsFor(info)) + '</div>');
       h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
       h.push('<p>ID: <a href="' + info.path + '">' + esc(info.path) + '</a> — this address alone encodes the cloth.</p>');
     } else {
+      h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a>.</p>');
+      h.push('<p>Woven on demand in your browser. It is a <a href="/stripes/stripes' +
+        info.stripes + '/">' + info.stripes + ' stripes tartan</a>.</p>');
+      h.push('<h2>Thread count</h2>');
+      h.push('<p>' + esc(info.threadcount) + '</p>');
+      h.push('<p><img id="weaver-sett" alt="Sett"></p>');
+      h.push('<h2>Palette</h2>');
+      h.push('<p>Each colour and its ΔE from the base-6 reference it is a variant of.</p>');
+      h.push('<div id="weaver-palette">' + paletteTable(info.palette, null) + '</div>');
+      h.push('<h1>Sample pattern</h1>');
+      h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
       h.push('<p>ID: ' + esc(info.path) + '</p>');
     }
     h.push('<p id="weaver-print-slot"></p>');

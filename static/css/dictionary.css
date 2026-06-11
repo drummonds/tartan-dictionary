@@ -36,16 +36,14 @@
 /* External border: a real tartan from the corpus — Drummond of Perth (/setts/s8/…wd0d0d0-yffc800/)
    — tiles behind the centred content column (body.container is max-width 900px, margin auto), so on
    wider screens the plaid shows as a woven frame around the page, like matted artwork. The engine's
-   woven render tiles seamlessly (it's a whole number of setts square). A pale wash layered over it
-   (the first, opaque-ish gradient) mutes the vivid plaid to a faint frame so it never competes with
-   the reading card. On narrow screens the column fills the width and the frame simply isn't seen. */
+   woven render tiles seamlessly (it's a whole number of setts square). The cloth shows at full
+   strength — no translucent wash — and the solid reading card carries the text over it. On narrow
+   screens the column fills the width and the frame simply isn't seen. */
 html {
   background-color: #edf0ea;
-  background-image:
-    linear-gradient(rgba(237, 240, 234, .82), rgba(237, 240, 234, .82)),
-    url('../img/drummond-of-perth.png');
+  background-image: url('../img/drummond-of-perth.png');
   background-repeat: repeat;
-  background-size: auto, 200px 200px;
+  background-size: 200px 200px;
 }
 /* Pin the content column to a solid light card with dark text, regardless of colour scheme. The
    theme's prefers-color-scheme:dark turns text white but our tartan frame stays light, so on a
@@ -199,7 +197,7 @@ body.container a {
   padding: .25em .6em;
   border: 1px solid #0003;
   border-radius: 1em;
-  background: #ffffffd9;
+  background: #ffffff;
   color: inherit;
 }
 .nav-search input:focus {
@@ -216,7 +214,7 @@ body.container a {
   margin: 0;
   padding: .25rem 0;
   list-style: none;
-  background: #fffffff7;
+  background: #ffffff;
   border: 1px solid #0002;
   border-radius: .4rem;
   box-shadow: 0 4px 16px #0002;
@@ -299,18 +297,11 @@ a.tartan img {
 /* ------- per-page tartan backgrounds -------
    Each nav landing page names its own cloth in `background:` front matter (a seamless tile from
    tartan-weaver's `task site:assets`); baseof.html carries it in --tartan-bg. It replaces the
-   site-wide Drummond of Perth frame beside the column, slightly less washed so the page's tartan
-   is recognisable, and shows as a whisper through the reading card itself — so the page keeps its
-   cloth on a phone, where the frame is never seen. Tiles keep their natural pixel size: each was
-   woven to a comparable scale, and scaling would blur the threads. */
+   site-wide Drummond of Perth frame beside the column, at full strength — the page's cloth shown
+   as itself, no translucent wash — while the reading card stays solid so the text never sits on
+   pattern. Tiles keep their natural pixel size: each was woven to a comparable scale, and scaling
+   would blur the threads. */
 html.tartan-bg {
-  background-image:
-    linear-gradient(rgba(237, 240, 234, .72), rgba(237, 240, 234, .72)),
-    var(--tartan-bg);
+  background-image: var(--tartan-bg);
   background-size: auto;
-}
-body.container.tartan-bg {
-  background-image:
-    linear-gradient(rgba(251, 251, 248, .94), rgba(251, 251, 248, .94)),
-    var(--tartan-bg);
 }

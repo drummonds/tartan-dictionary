@@ -1,7 +1,7 @@
 {{ define "main" }}
-{{/* Variant pages: _default/single.html plus one hook into the TTD navigator (/ttd/), which owns
-     editing and nearest-neighbour exploration — the page itself stays plain reading. The slug is
-     normally the URL leaf; hashed-leaf pages carry their full slug in front matter (slug_full)
+{{/* Variant pages: _default/single.html plus one hook into the TTD editor (/ttd/edit/), which
+     owns editing and live neighbour exploration — the page itself stays plain reading. The slug
+     is normally the URL leaf; hashed-leaf pages carry their full slug in front matter (slug_full)
      because the truncated leaf alone cannot be decoded. weaver.js still hydrates the print
      controls. */}}
 {{ $slug := .Params.slug_full | default (path.Base .RelPermalink) }}
@@ -13,7 +13,7 @@
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 02, 2006" }}</time>
       &nbsp;
     {{ end }}
-      <a class="weaver-edit" href="/ttd/#slug={{ $slug }}">⌗ Edit this in the TTD</a>
+      <a class="weaver-edit" href="/ttd/edit/#slug={{ $slug }}">⌗ Edit this in the TTD</a>
     </div>
   </header>
 

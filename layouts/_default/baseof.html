@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {{- /* A page with a `background` front-matter param sits on its own tartan: full-strength cloth
-       beside the column (html), washed near-opaque behind the text (body) — see dictionary.css. */}}
+       beside the column (html), with the solid reading card carrying the text — see dictionary.css. */}}
 <html lang="{{ .Site.Language.Locale | default "en" }}"{{ with .Params.background }} class="tartan-bg" style="--tartan-bg:url('{{ . }}')"{{ end }}>
   {{ partial "head.html" . }}
 <body class="container{{ if .Params.background }} tartan-bg{{ end }}">

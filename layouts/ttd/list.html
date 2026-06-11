@@ -1,8 +1,8 @@
 {{ define "main" }}
-{{/* The TTD navigator. The intro prose comes from content/ttd/_index.md; below it sits the weaver
-     app shell that weaver.js boots in TTD mode — arriving with #slug=<slug> in the fragment opens
-     that variant for editing (every variant page's "Edit this in the TTD" link, and the TTD's own
-     neighbour links, land this way); bare /ttd/ starts with a blank entry form. */}}
+{{/* The TTD landing page: prose from content/ttd/_index.md introducing the navigator, with the
+     editor itself on its own cleaner page at /ttd/edit/ (layouts/ttd/edit.html). Old shared
+     addresses carried the cloth as /ttd/#slug=<slug>; the inline forwarder sends those straight
+     on to the editor so every old link keeps weaving. */}}
 <article class="post">
   <header class="post-header">
     <h1 style="text-align: center;">{{ .Title }}</h1>
@@ -11,14 +11,7 @@
     {{ .Content }}
   </div>
 </article>
-
-<article class="post" id="weaver-app" data-weaver="ttd">
-  <header class="post-header">
-    <h1 style="text-align: center;"></h1>
-  </header>
-  <div class="post-text">
-    <p>The weaver needs JavaScript — without it, find tartans by name with the search box above.</p>
-  </div>
-</article>
-<script src="{{ "js/weaver.js" | relURL }}" defer></script>
+<script>
+  if (/[#&]slug=/.test(location.hash)) location.replace('/ttd/edit/' + location.hash);
+</script>
 {{ end }}

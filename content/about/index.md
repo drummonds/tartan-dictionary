@@ -1,8 +1,9 @@
 ---
 title: About Tartan Dictionary
 date: 2023-02-17
-lastmod: 2026-05-30
+lastmod: 2026-06-11
 author: Humphrey Drummond
+background: /bg/about.png # Drummond of Megginch — the tartan this site grew from
 ---
 
 I'm Humphrey Drummond, and trying to work out the Drummond of Megginch tartan is what drew me

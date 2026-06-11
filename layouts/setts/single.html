@@ -1,9 +1,10 @@
 {{ define "main" }}
-{{/* Variant pages: _default/single.html plus the weaver hooks — an edit link that opens this
-     variant in the in-browser weaver (the /edit/ path has no static page, so it lands on the 404
-     app-shell), and the #weaver-extras placeholder weaver.js hydrates with nearest-neighbour and
-     plot sections. Hashed-leaf pages carry their full slug in front matter (slug_full), passed in
-     the fragment because the truncated URL alone cannot be decoded. */}}
+{{/* Variant pages: _default/single.html plus one hook into the TTD navigator (/ttd/), which owns
+     editing and nearest-neighbour exploration — the page itself stays plain reading. The slug is
+     normally the URL leaf; hashed-leaf pages carry their full slug in front matter (slug_full)
+     because the truncated leaf alone cannot be decoded. weaver.js still hydrates the print
+     controls. */}}
+{{ $slug := .Params.slug_full | default (path.Base .RelPermalink) }}
 <article class="post">
   <header class="post-header">
     <h1 style="text-align: center;" >{{ .Title }}</h1>
@@ -12,19 +13,13 @@
       <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 02, 2006" }}</time>
       &nbsp;
     {{ end }}
-    {{ with .Params.slug_full }}
-      <a class="weaver-edit" href="{{ $.RelPermalink }}edit/#slug={{ . }}">⌗ Vary this tartan in the weaver</a>
-    {{ else }}
-      <a class="weaver-edit" href="{{ .RelPermalink }}edit/">⌗ Vary this tartan in the weaver</a>
-    {{ end }}
+      <a class="weaver-edit" href="/ttd/#slug={{ $slug }}">⌗ Edit this in the TTD</a>
     </div>
   </header>
 
   <div class="post-text">
     {{ .Content }}
   </div>
-
-  <div id="weaver-extras" data-weaver="extras"{{ with .Params.slug_full }} data-slug="{{ . }}"{{ end }}></div>
 
   <div class="comments">
   {{ partial "comments.html" . }}

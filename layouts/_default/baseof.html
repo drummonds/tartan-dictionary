@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Locale | default "en" }}">
+{{- /* A page with a `background` front-matter param sits on its own tartan: full-strength cloth
+       beside the column (html), washed near-opaque behind the text (body) — see dictionary.css. */}}
+<html lang="{{ .Site.Language.Locale | default "en" }}"{{ with .Params.background }} class="tartan-bg" style="--tartan-bg:url('{{ . }}')"{{ end }}>
   {{ partial "head.html" . }}
-<body class="container">
+<body class="container{{ if .Params.background }} tartan-bg{{ end }}">
   {{ partial "navigation.html" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "foot.html" . }}

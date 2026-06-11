@@ -1,13 +1,17 @@
-/* The in-browser weaver: boots the Go WASM tartan engine on the 404 app-shell and renders a full
- * variant page for any /setts/s<n>/<slug>/ URL that has no static page — the slug alone encodes
- * the whole cloth. Three entries: a bare sett URL renders read-only; an .../edit/ URL (linked from
- * every static variant page) adds the entry form pre-filled with that variant; /setts/new/ starts
- * from a blank form. Static pages keep working without this. Plain JS, no framework. */
+/* The in-browser weaver behind the TTD (Total Tartan Dictionary) navigator at /ttd/, plus two
+ * smaller jobs. The TTD page boots the Go WASM tartan engine and is where tartans are woven from
+ * scratch, varied shade by shade, and explored through their ΔTartan nearest neighbours — arriving
+ * with #slug=<slug> opens that variant for editing. On the 404 app-shell, any /setts/s<n>/<slug>/
+ * URL that has no static page is woven read-only — the slug alone encodes the whole cloth — and
+ * the old .../edit/ and /setts/new/ addresses forward to the TTD. On static variant pages the
+ * script only hydrates the print controls; the pages must read exactly as they do without it.
+ * Plain JS, no framework. */
 (function () {
   'use strict';
 
   var SETT_PATH = /^\/setts\/s\d+\/[0-9a-z-]+\/(edit\/)?$/;
   var NEW_PATH = '/setts/new/';
+  var TTD_PATH = '/ttd/';
   var t0 = performance.now();
 
   document.addEventListener('DOMContentLoaded', init);
@@ -18,11 +22,32 @@
     if (booted) return;
     booted = true;
     var shell = document.getElementById('weaver-app');
+    if (shell && shell.dataset.weaver === 'ttd') {
+      bootTTD(shell);
+      // Neighbour "open in TTD" links and shared addresses only change the fragment; bring the
+      // fresh weaving into view, since the click came from deep in the neighbour list.
+      window.addEventListener('hashchange', function () {
+        bootTTD(shell);
+        shell.scrollIntoView();
+      });
+      return;
+    }
     if (shell && shell.dataset.weaver === 'shell') {
       var path = location.pathname;
-      if (path !== NEW_PATH && !SETT_PATH.test(path)) return; // a genuinely unknown page: leave the 404 text
-      var edit = path === NEW_PATH || /edit\/$/.test(path);
-      boot(shell, path.replace(/edit\/$/, ''), edit).catch(function (err) {
+      if (path === NEW_PATH) { // the old blank-form address — the TTD took the job
+        location.replace(TTD_PATH);
+        return;
+      }
+      if (!SETT_PATH.test(path)) return; // a genuinely unknown page: leave the 404 text
+      if (/edit\/$/.test(path)) {
+        // The old in-place editor: forward to the TTD, carrying the slug (hashed-leaf addresses
+        // already carry theirs in the fragment; the leaf serves for everything else).
+        var fm = /[#&]slug=([0-9a-z-]+)/.exec(location.hash);
+        var leaf = path.replace(/edit\/$/, '').replace(/\/$/, '').split('/').pop();
+        location.replace(TTD_PATH + '#slug=' + (fm ? fm[1] : leaf));
+        return;
+      }
+      boot(shell, path).catch(function (err) {
         status(shell, 'The weaver could not start: ' + err);
       });
       return;
@@ -30,42 +55,25 @@
     hydrateStatic();
   }
 
-  /* On a static variant page, fill the layout's #weaver-extras placeholder with the neighbour
-   * list and map — but only once it scrolls near the viewport, so plain reading never pays for
-   * the engine or the index. Failures clear the placeholder: the static page must read exactly
-   * as it did before this script existed. */
+  /* On a static variant page, add the print controls (and honour the ?weaverprint= dev hook).
+   * Editing and neighbour exploration live in the TTD — the page's "Edit this in the TTD" link
+   * is plain HTML in the layout, so reading never pays for the engine. */
   function hydrateStatic() {
-    var extras = document.getElementById('weaver-extras');
-    if (!extras || extras.dataset.weaver !== 'extras') return;
-    var m = /^\/setts\/s\d+\/([0-9a-z-]+)\/$/.exec(location.pathname);
-    var slug = extras.dataset.slug || (m && m[1]);
-    if (!slug) return;
-
     var header = document.querySelector('.post-header h1');
     var text = document.querySelector('.post-text');
-    if (text && !document.getElementById('weaver-print-controls')) {
+    var m = /^\/setts\/s\d+\/([0-9a-z-]+)\/$/.exec(location.pathname);
+    var edit = document.querySelector('a.weaver-edit');
+    var em = edit && /[#&]slug=([0-9a-z-]+)/.exec(edit.getAttribute('href') || '');
+    var slug = (em && em[1]) || (m && m[1]);
+    if (!slug || !text) return;
+
+    if (!document.getElementById('weaver-print-controls')) {
       text.parentNode.insertBefore(
         printControls(slug, header ? header.textContent : document.title), text);
     }
 
-    whenVisible(extras, function () {
-      loadEngine().then(function () {
-        renderExtras(extras, slug, true);
-      }).catch(function () { extras.innerHTML = ''; });
-    });
-
     var pm = /[?&]weaverprint=(A[34])/.exec(location.search);
     if (pm) printSample(slug, pm[1], header ? header.textContent : document.title, true);
-  }
-
-  function whenVisible(el, fn) {
-    if (!('IntersectionObserver' in window)) { fn(); return; }
-    var io = new IntersectionObserver(function (entries) {
-      for (var i = 0; i < entries.length; i++) {
-        if (entries[i].isIntersecting) { io.disconnect(); fn(); return; }
-      }
-    }, { rootMargin: '400px' });
-    io.observe(el);
   }
 
   function status(shell, msg) {
@@ -102,15 +110,33 @@
     return URL.createObjectURL(new Blob([bytes], { type: 'image/png' }));
   }
 
-  function boot(shell, path, edit) {
-    status(shell, 'Weaving this tartan in your browser…');
-    return loadEngine().then(function () {
-      if (path === NEW_PATH) {
+  /* The TTD entry: #slug=<slug> opens that variant for editing; no fragment starts from a blank
+   * form. Re-entered on every fragment change. */
+  function bootTTD(shell) {
+    var m = /[#&]slug=([0-9a-z-]+)/.exec(location.hash);
+    status(shell, m ? 'Weaving this tartan in your browser…' : 'Starting the weaver…');
+    loadEngine().then(function () {
+      if (!m) {
         shell.querySelector('.post-header h1').textContent = 'Weave a tartan';
         shell.querySelector('.post-text').innerHTML = '';
         showForm(shell, { palette: 'K#101010 W#F4F4F0', threadcount: 'K24 W24', name: '' });
         return;
       }
+      var info = window.weaver.parseSlug(m[1]);
+      if (info.error) {
+        status(shell, 'This sett address could not be read: ' + info.error);
+        return;
+      }
+      render(shell, info, true);
+    }).catch(function (err) {
+      status(shell, 'The weaver could not start: ' + err);
+    });
+  }
+
+  /* The 404 app-shell: a sett URL with no static page is woven read-only. */
+  function boot(shell, path) {
+    status(shell, 'Weaving this tartan in your browser…');
+    return loadEngine().then(function () {
       var info = window.weaver.parsePath(path);
       if (info.error && info.hashed) {
         var m = /[#&]slug=([0-9a-z-]+)/.exec(location.hash);
@@ -120,20 +146,27 @@
         status(shell, 'This sett address could not be read: ' + info.error);
         return;
       }
-      if (info.corrected) setAddress(info, edit);
-      render(shell, info, edit);
+      if (info.corrected) setAddress(info, false);
+      render(shell, info, false);
     });
   }
 
-  /* Keeps the address bar on the canonical form of whatever is shown, preserving edit mode and
-   * carrying the full slug in the fragment when the URL's leaf is a hashed file name. */
-  function setAddress(info, edit) {
+  /* Keeps the address bar on the canonical form of whatever is shown. In the TTD the cloth rides
+   * in the fragment; on the 404 shell it is the path itself, with the full slug carried in the
+   * fragment when the URL's leaf is a hashed file name. */
+  function setAddress(info, ttd) {
+    if (ttd) {
+      history.replaceState(null, '', TTD_PATH + '#slug=' + info.slug);
+      return;
+    }
     var hashed = info.path.indexOf(info.slug) === -1;
-    var url = info.path + (edit ? 'edit/' : '') + (hashed ? '#slug=' + info.slug : '');
-    history.replaceState(null, '', url);
+    history.replaceState(null, '', info.path + (hashed ? '#slug=' + info.slug : ''));
   }
 
-  function render(shell, info, edit) {
+  /* Renders a variant into the shell. In the TTD (ttd=true) the entry form, the shade-jog
+   * controls and the nearest-neighbour sections come too; the read-only 404 shell instead links
+   * into the TTD. */
+  function render(shell, info, ttd) {
     var tWasm = performance.now();
     var h = [];
     h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a>.</p>');
@@ -144,21 +177,24 @@
     h.push('<p><img id="weaver-sett" alt="Sett"></p>');
     h.push('<h2>Palette</h2>');
     h.push('<p>Each colour and its ΔE from the base-6 reference it is a variant of.</p>');
-    h.push('<div id="weaver-palette">' + paletteTable(info.palette, edit ? shadeRowsFor(info) : null) + '</div>');
+    h.push('<div id="weaver-palette">' + paletteTable(info.palette, ttd ? shadeRowsFor(info) : null) + '</div>');
     h.push('<h1>Sample pattern</h1>');
     h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
-    h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
-    h.push('<p>ID: ' + esc(info.path) + '</p>');
+    if (ttd) {
+      h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
+      h.push('<p>ID: <a href="' + info.path + '">' + esc(info.path) + '</a> — this address alone encodes the cloth.</p>');
+    } else {
+      h.push('<p>ID: ' + esc(info.path) + '</p>');
+    }
     h.push('<p id="weaver-print-slot"></p>');
-    if (!edit) {
-      h.push('<p><a href="' + info.path + 'edit/' +
-        (info.path.indexOf(info.slug) === -1 ? '#slug=' + info.slug : '') +
-        '">⌗ Vary this tartan in the weaver</a> · <a href="/setts/new/">weave a new one</a></p>');
+    if (!ttd) {
+      h.push('<p><a href="' + TTD_PATH + '#slug=' + info.slug +
+        '">⌗ Edit this in the TTD</a> · <a href="' + TTD_PATH + '">weave a new one</a></p>');
     }
     h.push('<p id="weaver-stats" style="color:#888;font-size:smaller"></p>');
     shell.querySelector('.post-text').innerHTML = h.join('\n');
     shell.querySelector('.post-header h1').textContent = info.name || 'Tartan variant (generated)';
-    if (edit) {
+    if (ttd) {
       showForm(shell, {
         name: info.name || '',
         threadcount: info.threadcount,
@@ -173,14 +209,14 @@
     var woven = window.weaver.renderWoven(info.slug, 480);
     if (!woven.error) document.getElementById('weaver-tartan').src = pngURL(woven);
 
-    if (edit) wireShadeButtons(shell, info);
+    if (ttd) wireShadeButtons(shell, info);
     var slot = document.getElementById('weaver-print-slot');
     if (slot) slot.replaceWith(printControls(info.slug, info.name || 'Tartan variant'));
 
     var tRender = performance.now();
     statLine('engine ' + Math.round(tWasm - t0) + ' ms, images ' + Math.round(tRender - tWasm) + ' ms');
 
-    renderExtras(document.getElementById('weaver-nn'), info.slug, false);
+    if (ttd) renderExtras(document.getElementById('weaver-nn'), info.slug);
   }
 
   /* The embedded supplier shade tables — the palettes (Tartan Dictionary roles, the STA legend,
@@ -213,8 +249,8 @@
   }
 
   /* One jog on the supplier wheel — darker/lighter along the ladder or round the hue ring:
-   * re-derive the variant, move the address bar to its canonical URL, re-render in place. The
-   * palette chooser swaps the supplier and redraws the table without changing the tartan. */
+   * re-derive the variant, move the address bar to its canonical TTD address, re-render in place.
+   * The palette chooser swaps the supplier and redraws the table without changing the tartan. */
   function wireShadeButtons(shell, info) {
     var box = document.getElementById('weaver-palette');
     if (!box) return;
@@ -239,9 +275,8 @@
     });
   }
 
-  /* The entry form, shown above the rendered page in edit mode. Weaving re-renders in place and
-   * moves the address bar to the new variant's canonical URL, so the result is shareable and a
-   * reload lands on the static page when one exists. */
+  /* The entry form, shown above the rendered page in the TTD. Weaving re-renders in place and
+   * moves the address bar to the new variant's TTD address, so the result is shareable. */
   function showForm(shell, fill) {
     var old = document.getElementById('weaver-form');
     if (old) old.remove();
@@ -329,37 +364,46 @@
   }
 
   /* Fetches the shipped ΔTartan index lazily, then fills container with the ten nearest existing
-   * variants and the neighbour map — the same section on weaver pages and hydrated static pages.
-   * quiet failures clear the container instead of explaining themselves. */
-  function renderExtras(container, slug, quiet) {
+   * variants and the neighbour map. Each neighbour can be opened either in the TTD (staying in
+   * the navigator) or on its own page in the dictionary; hashed-leaf URLs cannot be re-encoded as
+   * a fragment slug, so those offer only their page. */
+  function renderExtras(container, slug) {
     container.innerHTML = '<h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p>';
     var tFetch = performance.now();
     loadIndexOnce().then(function (loaded) {
       var nn = window.weaver.neighbours(slug, 10);
       if (nn.error) throw new Error(nn.error);
+      nn.hits.forEach(function (hit) {
+        var dec = window.weaver.parsePath(hit.url);
+        hit.ttdSlug = dec.error ? null : dec.slug;
+      });
       var items = nn.hits.map(function (hit) {
         var name = hit.name || 'Unnamed variant';
-        return '<li><a href="' + hit.url + '">' + esc(name) + '</a> — ΔTartan ' +
-          hit.dist.toFixed(2) + '</li>';
+        return '<li>' +
+          (hit.ttdSlug ? '<a href="' + TTD_PATH + '#slug=' + hit.ttdSlug + '">' + esc(name) + '</a>' : esc(name)) +
+          ' — ΔTartan ' + hit.dist.toFixed(2) +
+          ' · <a href="' + hit.url + '">page</a></li>';
       });
       var pct = Math.round((loaded.explained[0] + loaded.explained[1]) * 100);
-      container.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan distance.</p>' +
+      container.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan ' +
+        'distance. A name opens its neighbour here in the TTD; <em>page</em> steps out to its entry ' +
+        'in the dictionary.</p>' +
         '<ol>' + items.join('') + '</ol>' +
         '<h2>Neighbour map</h2><p>Every grey dot is one of ' + loaded.count +
         ' existing variants placed by the first two principal components of the ΔTartan feature space (' +
-        pct + '% of its variance). Red is this tartan; blue dots are its ten nearest — click one to visit it.</p>';
+        pct + '% of its variance). Red is this tartan; blue dots are its ten nearest — click one to open it here.</p>';
       var cloud = window.weaver.plotCloud(2500);
       if (!cloud.error) drawPlot(container, cloud, nn);
       statLine('neighbours over ' + loaded.count + ' variants in ' +
         Math.round(performance.now() - tFetch) + ' ms (fetch + index + query)');
     }).catch(function (err) {
-      container.innerHTML = quiet ? '' :
-        '<h2>Nearest tartans</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
+      container.innerHTML = '<h2>Nearest tartans</h2><p>Unavailable: ' + esc(err.message || err) + '</p>';
     });
   }
 
-  /* The neighbour map: corpus cloud in grey, the ten nearest in blue (clickable), this tartan in
-   * red. Plain canvas — 2,500 background points is nothing to draw but plenty of shape. */
+  /* The neighbour map: corpus cloud in grey, the ten nearest in blue (clickable, opening in the
+   * TTD where the slug allows, else on their page), this tartan in red. Plain canvas — 2,500
+   * background points is nothing to draw but plenty of shape. */
   function drawPlot(container, cloud, nn) {
     var W = Math.min(640, container.clientWidth || 640), H = 380, pad = 14;
     var canvas = document.createElement('canvas');
@@ -399,7 +443,7 @@
       ctx.fill();
     }
     var marks = nn.hits.map(function (h) {
-      return { x: sx(h.x), y: sy(h.y), url: h.url, name: h.name };
+      return { x: sx(h.x), y: sy(h.y), url: h.url, slug: h.ttdSlug, name: h.name };
     });
     marks.forEach(function (m) { dot(m.x, m.y, 4, '#3465a4'); });
     dot(sx(nn.x), sy(nn.y), 5, '#c00000');
@@ -420,7 +464,9 @@
     });
     canvas.addEventListener('click', function (ev) {
       var m = markAt(ev);
-      if (m) location.href = m.url;
+      if (!m) return;
+      if (m.slug) location.hash = '#slug=' + m.slug; // stays in the TTD; hashchange re-boots
+      else location.href = m.url;
     });
   }
 

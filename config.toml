@@ -16,7 +16,7 @@ pagerSize = 20
   lazyImage = true
   enableMathJax = false # enable it in Front Matter
   enableReadingTime = true
-  favicon = "favicon.ico"
+  favicon = "/favicon.png" # the six-colour Dictionary sett, woven by tartan-weaver's `task site:assets`
   startyear = "2022"
   description = "A simple and concise hugo theme."
   disqus = ""
@@ -54,9 +54,11 @@ pagerSize = 20
   name = "Pattern"
   url = "/pattern/"
   weight = 5
+  # Setts left the menu when the name search and the TTD navigator usurped any listing;
+  # /setts/ itself remains as every variant's address space.
   [[menu.main]]
-  name = "Setts"
-  url = "/setts/"
+  name = "TTD"
+  url = "/ttd/"
   weight = 6
   [[menu.main]]
   name = "Colour"

@@ -10,8 +10,8 @@
   {{- if or .Description .Site.Params.description }}
   <meta name="description" content="{{ .Description | default .Site.Params.description }}">
   {{- end }}
-  {{- if .Params.favicon }}
-  <link rel="icon" href="{{ .Site.Params.favicon }}">
+  {{- with .Site.Params.favicon }}
+  <link rel="icon" type="image/png" href="{{ . }}">
   {{- end }}
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/simpleness.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hint.css">

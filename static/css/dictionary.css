@@ -295,3 +295,22 @@ a.tartan img {
   font-size: .85rem;
   margin-top: .4rem;
 }
+
+/* ------- per-page tartan backgrounds -------
+   Each nav landing page names its own cloth in `background:` front matter (a seamless tile from
+   tartan-weaver's `task site:assets`); baseof.html carries it in --tartan-bg. It replaces the
+   site-wide Drummond of Perth frame beside the column, slightly less washed so the page's tartan
+   is recognisable, and shows as a whisper through the reading card itself — so the page keeps its
+   cloth on a phone, where the frame is never seen. Tiles keep their natural pixel size: each was
+   woven to a comparable scale, and scaling would blur the threads. */
+html.tartan-bg {
+  background-image:
+    linear-gradient(rgba(237, 240, 234, .72), rgba(237, 240, 234, .72)),
+    var(--tartan-bg);
+  background-size: auto;
+}
+body.container.tartan-bg {
+  background-image:
+    linear-gradient(rgba(251, 251, 248, .94), rgba(251, 251, 248, .94)),
+    var(--tartan-bg);
+}

@@ -1,7 +1,7 @@
 // Name search over the static index the weaver exports (task search:export →
-// /search/index.v1.json): clans, families, septs, spellings and types. The index is small
-// (tens of entries), so it is fetched once on first focus and filtered in full on every
-// keystroke — no worker, no tokeniser.
+// /search/index.v1.json): clans, families, septs, spellings, types and tartans. The index is
+// small enough (a few thousand entries) to fetch once on first focus and filter in full on
+// every keystroke — no worker, no tokeniser.
 (function () {
   'use strict';
 

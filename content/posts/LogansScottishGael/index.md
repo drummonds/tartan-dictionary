@@ -156,7 +156,8 @@ white and grey.
 ## The data
 
 The full extraction — page transcription, stitched setts, threadcounts, the named colour
-palette, and the match report — was done by the Tartan Dictionary.
+palette, and the match report — was done by the Tartan Dictionary.  What is really nice that nigh on 200 years later
+the information is perfectly useful.
 
 [^book]: James Logan, *The Scotish Gaël*, London 1831, 2 vols. The Table of Clan Tartans is
     vol. II, Appendix, pp. 401–408. Scans: [vol. I](https://archive.org/details/scotishgalorcel01logagoog),

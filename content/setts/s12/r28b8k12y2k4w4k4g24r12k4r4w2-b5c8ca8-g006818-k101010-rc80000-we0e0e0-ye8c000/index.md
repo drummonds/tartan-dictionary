@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Maclean of Duart (Wilsons) (Clan)](/setts/s11/b16k12y4k4w6k4g32r50b6r8k3-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.62
+1. [MacLean of Duart #3](/setts/s11/b16k12y4k4w6k4g32r50b6r8k3-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.64
+1. [Stewart, Prince Charles Edward](/setts/s12/r28b8k12y2k4w4k4g24r12k4r4w2-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.68
+1. [Ogg of Tarragann](/setts/s12/k4b12w2r28k2r28w2k12g20y2g4y4-b237f97-g14492d-k101010-rcb2610-wffffff-ybe8f2c/) — ΔT 0.69
+1. [Wilson's, No 226](/setts/s14/r50w8k8g50y6k30b26r10b10r30g8r10k4g6-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.69
+1. [Drummond - 1739 Lord John (Artefact)](/setts/s14/k40r12k8r12g30w4ga10w4g30r60k8r10wa4r12-g285800-ga606000-k00002c-rc82428-wf8f8f8-wa98c8e8/) — ΔT 0.70
+1. [MacLean of Duart #4](/setts/s11/b26k12y4k6w8k6g44r62b6r8k4-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.72
+1. [MacLean of Duart 3](/setts/s11/b16k12y4k4w6k4g32r50b6r8k3-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.73
+1. [Ogg of Tarragann (Personal)](/setts/s12/k4b12w2r28k2r28w2k12g20y2g4y4-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 0.73
+1. [Unidentified No 1](/setts/s12/r16b14k16y4k2w4k2g38k2r16b6r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.76
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b16k12y4k4w6k4g32r50b6r8k3-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="174.9" cy="101.0" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s11/b16k12y4k4w6k4g32r50b6r8k3-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="169.3" cy="98.3" r="4" fill="#3465a4"><title>MacLean of Duart #3</title></circle></a><a href="/setts/s12/r28b8k12y2k4w4k4g24r12k4r4w2-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="141.3" cy="108.1" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s12/k4b12w2r28k2r28w2k12g20y2g4y4-b237f97-g14492d-k101010-rcb2610-wffffff-ybe8f2c/"><circle cx="199.1" cy="112.8" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s14/r50w8k8g50y6k30b26r10b10r30g8r10k4g6-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="122.6" cy="113.2" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/setts/s14/k40r12k8r12g30w4ga10w4g30r60k8r10wa4r12-g285800-ga606000-k00002c-rc82428-wf8f8f8-wa98c8e8/"><circle cx="176.3" cy="107.0" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/setts/s11/b26k12y4k6w8k6g44r62b6r8k4-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="156.9" cy="101.0" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/b16k12y4k4w6k4g32r50b6r8k3-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="155.2" cy="95.2" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/k4b12w2r28k2r28w2k12g20y2g4y4-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="200.6" cy="112.5" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s12/r16b14k16y4k2w4k2g38k2r16b6r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="141.7" cy="107.0" r="4" fill="#3465a4"><title>Unidentified No 1</title></circle></a><circle cx="158.8" cy="113.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/r28b8k12y2k4w4k4g24r12k4r4w2-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/

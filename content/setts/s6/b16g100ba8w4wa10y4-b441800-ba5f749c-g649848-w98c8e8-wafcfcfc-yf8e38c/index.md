@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/16 LG100 B8 LB4 W10 LY/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Decatur Presbyterian Church (Corp)](/setts/s7/g82r12g24b16k4y10w16-b2c2c80-g289c18-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.51
+1. [Decatur Presbyterian Church](/setts/s7/g82r12g24b16k4y10w16-b473c8b-g008b00-k101010-rcd0000-wffffff-yffe600/) — ΔT 1.64
+1. [Isle of Raasay](/setts/s5/g120y32r16b4ra6-b3c82af-g005020-r9c68a4-ra98481c-yc4bc68/) — ΔT 1.67
+1. [Rollings Personal Tartan Tartan Number: 3244. Earliest known date: August 2002 Colours reduced from seven to six. Originally the outside white stripes were gray. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g110r8w6b22wa8ba22w6r8g110k8-b780078-ba202060-g289c18-k101010-r880000-wc0c0c0-wae0e0e0/) — ΔT 1.70
+1. [Bundanoon](/setts/s9/b34r6g110b6g8b6g8y6w10-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.75
+1. [Pellicci, Michael (Personal)](/setts/s9/g120b2y10k2r30k2w30k2g30-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ybc8c00/) — ΔT 1.83
+1. [Seattle](/setts/s10/g56w4b8r4g4r4b8w4g16y4-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.84
+1. [Military Medical Memorial (USA)](/setts/s6/b24w12r12g220k40r12-b292e7f-g016819-k101010-rec1a1b-wffffff/) — ΔT 1.84
+1. [Heather Isle (Fashion)](/setts/s8/g160b32ba16bb20g16y2b12r2-b003c64-ba440044-bb780078-g808834-r888888-ybc8c00/) — ΔT 1.84
+1. [Spencer (2013)](/setts/s6/g110y8b30w6r6w10-b2c2c80-g408060-r880000-wfcfcfc-ye8c000/) — ΔT 1.86
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g82r12g24b16k4y10w16-b2c2c80-g289c18-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="323.3" cy="129.7" r="4" fill="#3465a4"><title>Decatur Presbyterian Church (Corp)</title></circle></a><a href="/setts/s7/g82r12g24b16k4y10w16-b473c8b-g008b00-k101010-rcd0000-wffffff-yffe600/"><circle cx="314.3" cy="126.2" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/setts/s5/g120y32r16b4ra6-b3c82af-g005020-r9c68a4-ra98481c-yc4bc68/"><circle cx="422.6" cy="149.2" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/setts/s10/g110r8w6b22wa8ba22w6r8g110k8-b780078-ba202060-g289c18-k101010-r880000-wc0c0c0-wae0e0e0/"><circle cx="364.6" cy="95.7" r="4" fill="#3465a4"><title>Rollings Personal Tartan Tartan Number: 3244. Earliest known date: August 2002 Colours reduced from seven to six. Originally the outside white stripes were gray. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b34r6g110b6g8b6g8y6w10-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="389.3" cy="128.4" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/setts/s9/g120b2y10k2r30k2w30k2g30-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ybc8c00/"><circle cx="379.4" cy="65.0" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/setts/s10/g56w4b8r4g4r4b8w4g16y4-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="381.2" cy="136.4" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/setts/s6/b24w12r12g220k40r12-b292e7f-g016819-k101010-rec1a1b-wffffff/"><circle cx="408.7" cy="148.1" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s8/g160b32ba16bb20g16y2b12r2-b003c64-ba440044-bb780078-g808834-r888888-ybc8c00/"><circle cx="444.7" cy="80.0" r="4" fill="#3465a4"><title>Heather Isle (Fashion)</title></circle></a><a href="/setts/s6/g110y8b30w6r6w10-b2c2c80-g408060-r880000-wfcfcfc-ye8c000/"><circle cx="370.3" cy="142.2" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><circle cx="417.6" cy="112.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b16g100ba8w4wa10y4-b441800-ba5f749c-g649848-w98c8e8-wafcfcfc-yf8e38c/

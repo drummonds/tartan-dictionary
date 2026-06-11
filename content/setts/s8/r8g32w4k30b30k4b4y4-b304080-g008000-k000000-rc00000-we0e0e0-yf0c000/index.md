@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/8 G32 LN4 K30 B30 K4 B4 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Birch (Personal) (Estimated threadcount)](/setts/s9/g4b4g20k12r4k12ba20k2w4-b64008c-ba788cb4-g007800-k000000-r8c0000-wc8c8c8/) — ΔT 0.69
+1. [Cowan of Inveresk (Personal)](/setts/s8/r8g32w4k30b30k4b4y4-b2c2c80-g004c00-k000000-rc80000-wfcfcfc-ye8c000/) — ΔT 0.69
+1. [Council of Scottish Clans & Ass. (Co](/setts/s7/w4r4b32k28g30r4y4-b2c2c80-g289c18-k101010-rc80000-wfcfcfc-yfccc00/) — ΔT 0.76
+1. [Borrodale](/setts/s8/r10b6r6b58k58g58w8r8-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.93
+1. [Blairmore](/setts/s8/b68w10b10r10b10ba52g66ra12-b000050-ba401000-g008000-rc00000-ra806050-we0e0e0/) — ΔT 0.95
+1. [Cowan of Inveresk Family Tartan Tartan Number: 1549. Earliest known date: 1979 This is a modern family tartan designed by the representer of the family of Cowan of Inveresk, in the parish of that name in Musselburgh, Mr Robert Cowan of Atlanta, Georgia. Cowans are a Sept of the Colquhouns, variously spelt Macillechomhghain, Comhain, Comhan and Cowen. Cowans not associated with the Inveresk branch of the family may wear the Colquhoun tartan on which this design is based. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r8g32w4k30b30k4b4y4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.96
+1. [Colquhoun](/setts/s7/r8g32w4k32b32k4b4-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.97
+1. [Stirling, and Bannockburn](/setts/s10/r6g36r8b6r8k26r6ba36g4y6-b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.97
+1. [MacCraig](/setts/s9/b16w8g56r8k56g8ba56r8g16-b4c0000-ba1c0070-g006818-k000000-r880000-wa8ace8/) — ΔT 1.01
+1. [Kagame (Personal)](/setts/s10/k10w28ka6k14g6ka6g14ka12b48wa6-b1c1c50-g289c18-k000000-ka101010-w98c8e8-wae0e0e0/) — ΔT 1.02
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g4b4g20k12r4k12ba20k2w4-b64008c-ba788cb4-g007800-k000000-r8c0000-wc8c8c8/"><circle cx="71.7" cy="157.7" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s8/r8g32w4k30b30k4b4y4-b2c2c80-g004c00-k000000-rc80000-wfcfcfc-ye8c000/"><circle cx="82.9" cy="165.9" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/setts/s7/w4r4b32k28g30r4y4-b2c2c80-g289c18-k101010-rc80000-wfcfcfc-yfccc00/"><circle cx="80.0" cy="166.7" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s8/r10b6r6b58k58g58w8r8-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="109.5" cy="167.0" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/setts/s8/b68w10b10r10b10ba52g66ra12-b000050-ba401000-g008000-rc00000-ra806050-we0e0e0/"><circle cx="114.5" cy="177.1" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/setts/s8/r8g32w4k30b30k4b4y4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="99.5" cy="171.1" r="4" fill="#3465a4"><title>Cowan of Inveresk Family Tartan Tartan Number: 1549. Earliest known date: 1979 This is a modern family tartan designed by the representer of the family of Cowan of Inveresk, in the parish of that name in Musselburgh, Mr Robert Cowan of Atlanta, Georgia. Cowans are a Sept of the Colquhouns, variously spelt Macillechomhghain, Comhain, Comhan and Cowen. Cowans not associated with the Inveresk branch of the family may wear the Colquhoun tartan on which this design is based. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r8g32w4k32b32k4b4-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="106.3" cy="191.3" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s10/r6g36r8b6r8k26r6ba36g4y6-b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/"><circle cx="66.3" cy="144.3" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s9/b16w8g56r8k56g8ba56r8g16-b4c0000-ba1c0070-g006818-k000000-r880000-wa8ace8/"><circle cx="97.5" cy="174.5" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/setts/s10/k10w28ka6k14g6ka6g14ka12b48wa6-b1c1c50-g289c18-k000000-ka101010-w98c8e8-wae0e0e0/"><circle cx="52.2" cy="149.8" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><circle cx="74.2" cy="162.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r8g32w4k30b30k4b4y4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/

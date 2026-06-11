@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unnamed 2](/setts/s9/r10b2r10g26b16ba10r10w2b6-b000050-ba5480b0-g30a010-rc00000-we0e0e0/) — ΔT 0.29
+1. [MacDuff Dress #2](/setts/s10/r16k4r16g32k24w12b8w44b4r8-b1c0070-g006818-k101010-r880000-wc0c0c0/) — ΔT 0.55
+1. [National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g4b16g16r6b2w24g4ga2-b441800-g003820-ga5c6428-rd05054-we0e0e0/) — ΔT 0.85
+1. [Forbes - 1970 (WCWM #1)](/setts/s12/k24g20k24b24w4b40k24w12r4w48r4w12-b4c3428-g408060-k101010-r880000-we0e0e0/) — ΔT 0.90
+1. [Unidentified #9](/setts/s10/r8g14y6g24k32b10r40b10k8b4-b3c82af-g005020-k101010-rdc0000-ye8c000/) — ΔT 0.90
+1. [Unidentified Canadian Tartan Tartan Number: 276. Earliest known date: 1978 This is a duplicate of 277 using ancient azure blue. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r8g14y6g24k32b10r40b10k8b4-b5c8ca8-g006818-k101010-rc80000-ye8c000/) — ΔT 0.91
+1. [Kilgour](/setts/s8/b24k12g56k12r56k12b24y4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.98
+1. [Stewart - Pr Ch Ed (Error?)](/setts/s12/r32b20k28w4k8w6k8g52r22k8r8w4-b5c8ca8-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.02
+1. [MacDuff, dress](/setts/s11/r16k6r14g22k16b16w10r6w45k4r4-b000050-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.04
+1. [MacBrine (Name)](/setts/s11/k8r12g16r32k12b20k4b20k4g16y2-b2c2c80-g00881c-k101010-rc80000-ye8c000/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r10b2r10g26b16ba10r10w2b6-b000050-ba5480b0-g30a010-rc00000-we0e0e0/"><circle cx="116.1" cy="165.4" r="4" fill="#3465a4"><title>Unnamed 2</title></circle></a><a href="/setts/s10/r16k4r16g32k24w12b8w44b4r8-b1c0070-g006818-k101010-r880000-wc0c0c0/"><circle cx="100.3" cy="157.6" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/setts/s8/g4b16g16r6b2w24g4ga2-b441800-g003820-ga5c6428-rd05054-we0e0e0/"><circle cx="119.6" cy="153.0" r="4" fill="#3465a4"><title>National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k24g20k24b24w4b40k24w12r4w48r4w12-b4c3428-g408060-k101010-r880000-we0e0e0/"><circle cx="88.7" cy="151.8" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/setts/s10/r8g14y6g24k32b10r40b10k8b4-b3c82af-g005020-k101010-rdc0000-ye8c000/"><circle cx="111.2" cy="167.6" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/setts/s10/r8g14y6g24k32b10r40b10k8b4-b5c8ca8-g006818-k101010-rc80000-ye8c000/"><circle cx="112.5" cy="168.7" r="4" fill="#3465a4"><title>Unidentified Canadian Tartan Tartan Number: 276. Earliest known date: 1978 This is a duplicate of 277 using ancient azure blue. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b24k12g56k12r56k12b24y4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="109.9" cy="163.7" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/setts/s12/r32b20k28w4k8w6k8g52r22k8r8w4-b5c8ca8-g006818-k101010-rc80000-we0e0e0/"><circle cx="120.6" cy="139.1" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><a href="/setts/s11/r16k6r14g22k16b16w10r6w45k4r4-b000050-g008000-k000000-rc00000-we0e0e0/"><circle cx="89.9" cy="138.2" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s11/k8r12g16r32k12b20k4b20k4g16y2-b2c2c80-g00881c-k101010-rc80000-ye8c000/"><circle cx="120.2" cy="161.1" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><circle cx="116.9" cy="163.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/r10b2r10g26b16ba10r10w2b6-b080848-ba3c82af-g309c18-rdc0000-we0e0e0/

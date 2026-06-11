@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kilburnie](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.68
+1. [Salich-Plaja of St. Genis (Personal)](/setts/s24/b26w6b26k6b6k16b6k30y6r6g6w6r6w6g6r6y6k30b6k16b6k6b26w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.03
+1. [Salich-Plaja of St. Genis (Personal)](/setts/s13/b26w6b26k6b6k16b6k30y6r6g6w6r6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.04
+1. [Shandon (Personal)](/setts/s14/k40g36k4y4k10w4k4g36k40b36ba8b8ba8b36-b780078-ba1474b4-g408060-k101010-wfcfcfc-ye8c000/) — ΔT 1.06
+1. [Haughey (Personal)](/setts/s16/b12r4b4r8b28r4g24r4g6w4g6k22ba18g4ba12w4-b2c2c80-ba780078-g006818-k101010-rc80000-wf8f8f8/) — ΔT 1.08
+1. [South Lanarkshire](/setts/s16/b4ba28k4g24k4bb28w4k8w4bb28k4g24k4ba28b4k4-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/) — ΔT 1.08
+1. [Unidentified fragment](/setts/s18/b94k12r12k12b12k38g38k12g38y12g38k12g38k38b12k12w12k12-b5a008c-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.12
+1. [Greer](/setts/s14/r24b20ba6ra6ba6b6ba32b6ba6ra6ba6b20r24w8-b000064-ba2888c4-r880000-ra888888-wf8f8f8/) — ΔT 1.14
+1. [Scottish Cultural Society](/setts/s16/g32k64y8k8b32w8b8w16b8w8b32k8y8k64g32ba16-b1c0070-ba6c0070-g006818-k101010-wc0c0c0-yd09800/) — ΔT 1.15
+1. [Anderson-Moffat (Personal)](/setts/s13/k5w10wa10k4wa4k4wa4k30b21ba4b4ba24r4-b003c64-ba2474e8-k101010-rdc0000-we0e0e0-wac8c8c8/) — ΔT 1.18
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="64.9" cy="145.2" r="4" fill="#3465a4"><title>Kilburnie</title></circle></a><a href="/setts/s24/b26w6b26k6b6k16b6k30y6r6g6w6r6w6g6r6y6k30b6k16b6k6b26w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="87.6" cy="142.8" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s13/b26w6b26k6b6k16b6k30y6r6g6w6r6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="118.4" cy="170.7" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s14/k40g36k4y4k10w4k4g36k40b36ba8b8ba8b36-b780078-ba1474b4-g408060-k101010-wfcfcfc-ye8c000/"><circle cx="127.8" cy="143.7" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/setts/s16/b12r4b4r8b28r4g24r4g6w4g6k22ba18g4ba12w4-b2c2c80-ba780078-g006818-k101010-rc80000-wf8f8f8/"><circle cx="49.2" cy="146.6" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s16/b4ba28k4g24k4bb28w4k8w4bb28k4g24k4ba28b4k4-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/"><circle cx="79.9" cy="150.4" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><a href="/setts/s18/b94k12r12k12b12k38g38k12g38y12g38k12g38k38b12k12w12k12-b5a008c-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="114.9" cy="147.1" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/setts/s14/r24b20ba6ra6ba6b6ba32b6ba6ra6ba6b20r24w8-b000064-ba2888c4-r880000-ra888888-wf8f8f8/"><circle cx="81.7" cy="181.8" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/setts/s16/g32k64y8k8b32w8b8w16b8w8b32k8y8k64g32ba16-b1c0070-ba6c0070-g006818-k101010-wc0c0c0-yd09800/"><circle cx="119.5" cy="143.3" r="4" fill="#3465a4"><title>Scottish Cultural Society</title></circle></a><a href="/setts/s13/k5w10wa10k4wa4k4wa4k30b21ba4b4ba24r4-b003c64-ba2474e8-k101010-rdc0000-we0e0e0-wac8c8c8/"><circle cx="63.4" cy="135.9" r="4" fill="#3465a4"><title>Anderson-Moffat (Personal)</title></circle></a><circle cx="80.6" cy="149.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/

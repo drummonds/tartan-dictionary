@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#A08858;"><span style="color:#A08858;filter:grayscale(1) invert(1) contrast(100);">#A08858</span></code> `#A08858` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.21 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cameron of Erracht (Clan)](/setts/s11/g16r2g2r6g32k32r2b32r6b16y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.69
+1. [McWilliams Wedding (Personal)](/setts/s9/g4b2k2b28y4b2k24g20r4-b506878-g006818-k101010-rd40000-yfccc3c/) — ΔT 0.78
+1. [Bowie, Black (Name)](/setts/s12/b18r6b6r10b32r4k34g32r10g6y2k18-b1870a4-g285800-k101010-rc80000-yd09800/) — ΔT 0.80
+1. [Logan #7](/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.83
+1. [MacWilliams Wedding Personal Tartan Tartan Number: 7667. Earliest known date: 2008 Designed by Bisell McWilliams for his wedding. Details from Matt Newsome. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g4b2k2b28ka4b2k24g20r4-b506878-g006818-k101010-ka000000-rd40000/) — ΔT 0.84
+1. [MacDonell of Glengarry #3](/setts/s11/b16r5b30r2k33g30r5g2r2g7w4-b202060-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.87
+1. [MacMillan Htg (1906) (Clan)](/setts/s10/b12y4b48k16y8k16g32r8g32r4-b2c2c80-g285800-k101010-rc80000-ye8c000/) — ΔT 0.88
+1. [MacDonell of Glengarry #2](/setts/s11/b16r8b24r2k24g24r6g4r2g8w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 0.88
+1. [MacLennan](/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g285800-k101010-rc80000-ye8c000/) — ΔT 0.89
+1. [Wilson's No.232](/setts/s12/b36k14g10r8g14k2y4k2g14r8g10k14-b1860a8-g006818-k101010-rc80000-ye8c000/) — ΔT 0.91
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g16r2g2r6g32k32r2b32r6b16y4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="169.8" cy="152.6" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s9/g4b2k2b28y4b2k24g20r4-b506878-g006818-k101010-rd40000-yfccc3c/"><circle cx="186.3" cy="156.5" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/setts/s12/b18r6b6r10b32r4k34g32r10g6y2k18-b1870a4-g285800-k101010-rc80000-yd09800/"><circle cx="146.2" cy="153.3" r="4" fill="#3465a4"><title>Bowie, Black (Name)</title></circle></a><a href="/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="166.0" cy="138.8" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/setts/s9/g4b2k2b28ka4b2k24g20r4-b506878-g006818-k101010-ka000000-rd40000/"><circle cx="194.5" cy="162.0" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan Tartan Number: 7667. Earliest known date: 2008 Designed by Bisell McWilliams for his wedding. Details from Matt Newsome. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/b16r5b30r2k33g30r5g2r2g7w4-b202060-g006818-k101010-rc80000-we0e0e0/"><circle cx="176.5" cy="146.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s10/b12y4b48k16y8k16g32r8g32r4-b2c2c80-g285800-k101010-rc80000-ye8c000/"><circle cx="158.4" cy="175.9" r="4" fill="#3465a4"><title>MacMillan Htg (1906) (Clan)</title></circle></a><a href="/setts/s11/b16r8b24r2k24g24r6g4r2g8w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="158.9" cy="170.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g285800-k101010-rc80000-ye8c000/"><circle cx="172.0" cy="140.7" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s12/b36k14g10r8g14k2y4k2g14r8g10k14-b1860a8-g006818-k101010-rc80000-ye8c000/"><circle cx="158.1" cy="153.4" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><circle cx="157.3" cy="155.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/k6b18k4y10b2y10k4g30k2r6-b2c2c80-g285800-k101010-rc80000-ya08858/

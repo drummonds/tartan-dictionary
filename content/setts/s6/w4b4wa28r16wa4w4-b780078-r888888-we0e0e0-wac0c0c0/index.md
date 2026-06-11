@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/4 Na4 N16 Na28 P4 LN/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cairngorm Trade Tartan Tartan Number: 1314. Earliest known date: 1985 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4w4y14wa28b4w4-b5c5c5c-we0e0e0-wac0c0c0-ye8c000/) — ΔT 1.22
+1. [Lochnagar Plaid (District)](/setts/s6/w4b4r28ba16r4w4-b780078-ba5c5c5c-r888888-we0e0e0/) — ΔT 1.28
+1. [Cairngorm](/setts/s6/b4w4y14wa28b4w4-b505050-we0e0e0-wac0c0c0-yf0c000/) — ΔT 1.39
+1. [Dama Classic (Fashion)](/setts/s8/y60w6y6w6y24b60r6b10-b5c5c5c-r888888-wf0dcbc-ya0a0a0/) — ΔT 1.46
+1. [Cairngorm](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/) — ΔT 1.59
+1. [Chambers Bay](/setts/s7/g8b60y20g8b8g28w8-b5f749c-g408060-wffffff-yb0b0b0/) — ΔT 1.64
+1. [Irving of Glentulchan (Personal)](/setts/s6/r6y54ya54k6ya6w6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/) — ΔT 1.75
+1. [Qatar Airways](/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/) — ΔT 1.84
+1. [Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w8b4w36r4b10ra32r4ra4r4ra4-b5c5c5c-rc80000-ra888888-wc0c0c0/) — ΔT 1.85
+1. [Organic](/setts/s9/g50b6g16b26y16ya4yb22g4b6-b9058d8-g669999-yc89800-yaa0a0a0-ybc4bc68/) — ΔT 1.87
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b4w4y14wa28b4w4-b5c5c5c-we0e0e0-wac0c0c0-ye8c000/"><circle cx="275.8" cy="218.2" r="4" fill="#3465a4"><title>Cairngorm Trade Tartan Tartan Number: 1314. Earliest known date: 1985 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/w4b4r28ba16r4w4-b780078-ba5c5c5c-r888888-we0e0e0/"><circle cx="309.8" cy="226.9" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/setts/s6/b4w4y14wa28b4w4-b505050-we0e0e0-wac0c0c0-yf0c000/"><circle cx="262.1" cy="211.7" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/setts/s8/y60w6y6w6y24b60r6b10-b5c5c5c-r888888-wf0dcbc-ya0a0a0/"><circle cx="342.0" cy="202.7" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/"><circle cx="250.3" cy="210.0" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/setts/s7/g8b60y20g8b8g28w8-b5f749c-g408060-wffffff-yb0b0b0/"><circle cx="302.9" cy="236.1" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/setts/s6/r6y54ya54k6ya6w6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/"><circle cx="296.4" cy="207.3" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/"><circle cx="305.0" cy="172.8" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><a href="/setts/s10/w8b4w36r4b10ra32r4ra4r4ra4-b5c5c5c-rc80000-ra888888-wc0c0c0/"><circle cx="260.9" cy="182.4" r="4" fill="#3465a4"><title>Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g50b6g16b26y16ya4yb22g4b6-b9058d8-g669999-yc89800-yaa0a0a0-ybc4bc68/"><circle cx="266.5" cy="184.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><circle cx="317.6" cy="225.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/w4b4wa28r16wa4w4-b780078-r888888-we0e0e0-wac0c0c0/

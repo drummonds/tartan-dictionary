@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/4 K4 P2 DBa60 B2 K24 DG50 DY/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Albannach (Corporate)](/setts/s8/k4b2r7b60g15ba60bb5w3-b482c70-ba384854-bb0c5488-g5c6428-k101010-r880000-we0e0e0/) — ΔT 1.31
+1. [Robb Hunting (Personal)](/setts/s9/b4r2g52y2k36b52ga2r2b4-b202060-g003820-ga789484-k101010-rc80000-yd8b000/) — ΔT 1.52
+1. [Robb (Personal) Personal Tartan Tartan Number: 3157. Earliest known date: 1994 Designed by Peter MacDonald for Martin Robb of Carroglen, Comrie, Perthshire. Can be worn by anyone of the name but Martin Robb would appreciate being advised. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b4r2g52y2k36b52ga2r2b4-b202060-g003820-ga789484-k101010-rc80000-ye8c000/) — ΔT 1.60
+1. [Newlands, Charlie (Personal)](/setts/s11/b12k4ba18w2ba18k4bb8k12bb48wa2b12-b202060-ba440044-bb14283c-k101010-w98c8e8-wae0e0e0/) — ΔT 1.81
+1. [Dalgliesh, Ewen (Personal)](/setts/s10/b45ba6r6ba30g6ba6g30k4ra4k3-b1c1c50-ba440044-g003820-k101010-r888888-ra901c38/) — ΔT 1.96
+1. [Uitwaaien Papi (Personal)](/setts/s7/r5b8ba13bb21g34ga55r3-b441800-ba440044-bb003c64-g003820-ga005448-r880000/) — ΔT 1.99
+1. [Little-Dowse Wedding](/setts/s8/b62g12r6ba62b16ga120g14bb14-b643424-ba202060-bb1870a4-g8c7038-ga406054-r888888/) — ΔT 2.02
+1. [Doane](/setts/s12/b6ba2bb6r16g8r6g34bb22bc12bb8bc42ba2-b843480-ba1c1c1c-bb443048-bc202460-g003820-r780000/) — ΔT 2.09
+1. [West of Wells (Personal)](/setts/s9/g56k4b6k22b6k4b34ba8y4-b1c1c50-ba2c2c80-g003820-k101010-ya0a0a0/) — ΔT 2.10
+1. [McMeeken](/setts/s10/r14g40ga4g8k10b8k4b40k6w2-b143761-g2e4e36-ga6f722d-k101010-r7a1d25-wffffff/) — ΔT 2.12
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k4b2r7b60g15ba60bb5w3-b482c70-ba384854-bb0c5488-g5c6428-k101010-r880000-we0e0e0/"><circle cx="323.3" cy="137.3" r="4" fill="#3465a4"><title>Albannach (Corporate)</title></circle></a><a href="/setts/s9/b4r2g52y2k36b52ga2r2b4-b202060-g003820-ga789484-k101010-rc80000-yd8b000/"><circle cx="303.7" cy="149.3" r="4" fill="#3465a4"><title>Robb Hunting (Personal)</title></circle></a><a href="/setts/s9/b4r2g52y2k36b52ga2r2b4-b202060-g003820-ga789484-k101010-rc80000-ye8c000/"><circle cx="300.5" cy="147.9" r="4" fill="#3465a4"><title>Robb (Personal) Personal Tartan Tartan Number: 3157. Earliest known date: 1994 Designed by Peter MacDonald for Martin Robb of Carroglen, Comrie, Perthshire. Can be worn by anyone of the name but Martin Robb would appreciate being advised. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/b12k4ba18w2ba18k4bb8k12bb48wa2b12-b202060-ba440044-bb14283c-k101010-w98c8e8-wae0e0e0/"><circle cx="301.6" cy="170.3" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><a href="/setts/s10/b45ba6r6ba30g6ba6g30k4ra4k3-b1c1c50-ba440044-g003820-k101010-r888888-ra901c38/"><circle cx="252.7" cy="179.8" r="4" fill="#3465a4"><title>Dalgliesh, Ewen (Personal)</title></circle></a><a href="/setts/s7/r5b8ba13bb21g34ga55r3-b441800-ba440044-bb003c64-g003820-ga005448-r880000/"><circle cx="303.1" cy="215.8" r="4" fill="#3465a4"><title>Uitwaaien Papi (Personal)</title></circle></a><a href="/setts/s8/b62g12r6ba62b16ga120g14bb14-b643424-ba202060-bb1870a4-g8c7038-ga406054-r888888/"><circle cx="280.1" cy="174.5" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/setts/s12/b6ba2bb6r16g8r6g34bb22bc12bb8bc42ba2-b843480-ba1c1c1c-bb443048-bc202460-g003820-r780000/"><circle cx="277.2" cy="182.7" r="4" fill="#3465a4"><title>Doane</title></circle></a><a href="/setts/s9/g56k4b6k22b6k4b34ba8y4-b1c1c50-ba2c2c80-g003820-k101010-ya0a0a0/"><circle cx="310.9" cy="208.8" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/setts/s10/r14g40ga4g8k10b8k4b40k6w2-b143761-g2e4e36-ga6f722d-k101010-r7a1d25-wffffff/"><circle cx="246.5" cy="159.7" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><circle cx="332.8" cy="151.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b4k4ba2bb60bc2k24g50y2-b2c2c80-ba780078-bb1c1c50-bc2888c4-g003820-k101010-ybc8c00/

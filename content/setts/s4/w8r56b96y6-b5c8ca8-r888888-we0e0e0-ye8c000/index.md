@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/8 N56 B96 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [London Regiment (Military)](/setts/s6/g68b54r6b54g68w6-b687488-g747c60-rc80000-wfcfcfc/) — ΔT 1.95
+1. [Outlander #1](/setts/s6/g104y4b48r6ya52b8-b5c5c5c-g808080-r960000-ye8c000-yaa08858/) — ΔT 2.36
+1. [Cairns, David (Personal)](/setts/s5/b88r8b32r64ra8-b5c5c5c-r888888-ra880000/) — ΔT 2.40
+1. [McKerrell of Hillhouse Dress](/setts/s6/b96r56w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/) — ΔT 2.40
+1. [Outlander #1](/setts/s6/r104y4b48ra6ya52b8-b5c5c5c-r888888-raa00000-yfccc00-yaa08858/) — ΔT 2.48
+1. [Laurel Park](/setts/s4/b96g50b26y10-b5c8ca8-g009468-ye8c000/) — ΔT 2.48
+1. [Blue Ridge](/setts/s10/g12b16r4b4y4b32g36b8g8b6-b5c8ca8-g408060-re86000-ye8c000/) — ΔT 2.51
+1. [Blue Ridge (District)](/setts/s10/g24b32r8b8y8b64g72b16g16b12-b5c8ca8-g408060-re86000-ye8c000/) — ΔT 2.51
+1. [Outlander #3](/setts/s4/r112b56y56b16-b5c5c5c-r888888-ya08858/) — ΔT 2.60
+1. [McGuigan, Julia (St Monans, Fife) (Personal)](/setts/s4/g18ga104gb30y8-g70714d-ga5a601e-gb4e3d20-ybfab40/) — ΔT 2.64
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g68b54r6b54g68w6-b687488-g747c60-rc80000-wfcfcfc/"><circle cx="466.6" cy="311.9" r="4" fill="#3465a4"><title>London Regiment (Military)</title></circle></a><a href="/setts/s6/g104y4b48r6ya52b8-b5c5c5c-g808080-r960000-ye8c000-yaa08858/"><circle cx="420.5" cy="215.9" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s5/b88r8b32r64ra8-b5c5c5c-r888888-ra880000/"><circle cx="504.3" cy="299.5" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s6/b96r56w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/"><circle cx="548.3" cy="309.6" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/setts/s6/r104y4b48ra6ya52b8-b5c5c5c-r888888-raa00000-yfccc00-yaa08858/"><circle cx="405.6" cy="208.0" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s4/b96g50b26y10-b5c8ca8-g009468-ye8c000/"><circle cx="514.5" cy="322.3" r="4" fill="#3465a4"><title>Laurel Park</title></circle></a><a href="/setts/s10/g12b16r4b4y4b32g36b8g8b6-b5c8ca8-g408060-re86000-ye8c000/"><circle cx="413.6" cy="259.4" r="4" fill="#3465a4"><title>Blue Ridge</title></circle></a><a href="/setts/s10/g24b32r8b8y8b64g72b16g16b12-b5c8ca8-g408060-re86000-ye8c000/"><circle cx="413.6" cy="259.4" r="4" fill="#3465a4"><title>Blue Ridge (District)</title></circle></a><a href="/setts/s4/r112b56y56b16-b5c5c5c-r888888-ya08858/"><circle cx="406.5" cy="355.5" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/setts/s4/g18ga104gb30y8-g70714d-ga5a601e-gb4e3d20-ybfab40/"><circle cx="536.8" cy="289.9" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><circle cx="499.5" cy="279.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/

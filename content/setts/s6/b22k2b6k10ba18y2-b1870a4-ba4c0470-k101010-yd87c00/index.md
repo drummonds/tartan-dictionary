@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/22 K2 B6 K10 P18 O/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacCorquodale #2](/setts/s6/r16b64k48ba48k6b6-b1474b4-ba2c2c80-k101010-rc80000/) — ΔT 0.99
+1. [Joker, The](/setts/s6/b36k4b8k12ba24y2-b1474b4-ba780078-k101010-yd87c00/) — ΔT 1.00
+1. [Bareback (Corporate)](/setts/s6/b6k6b21k16ba36y4-b5c5c5c-ba2c2c80-k101010-ye8c000/) — ΔT 1.02
+1. [Granger (Personal)](/setts/s6/b80k8b24k42g54w8-b2c2c80-g006818-k101010-we0e0e0/) — ΔT 1.05
+1. [Scottish Open Squash (Corporate)](/setts/s5/b46ba4g22ba48w6-b1c0070-ba440044-g006818-wc0c0c0/) — ΔT 1.08
+1. [Fong (Personal)](/setts/s4/r21b43ba86w10-b1c0070-ba003c64-rc8002c-we8ccb8/) — ΔT 1.16
+1. [Gifford (Personal)](/setts/s7/k30r16y4b50k10b26k10-b2c2c80-k101010-rc80000-ye8c000/) — ΔT 1.22
+1. [Heritage of Scotland](/setts/s7/b12w6b42k32ba12k6ba12-b2c2c80-ba780078-k101010-wf8f8f8/) — ΔT 1.22
+1. [Donnolly](/setts/s6/b6g42b6r42b70w6-b2c2c80-g00643c-rc04c08-wfcfcfc/) — ΔT 1.24
+1. [Brazell (Personal)](/setts/s5/b42y6b42ba66r12-b1c1c50-ba2888c4-rc80000-ye8c000/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r16b64k48ba48k6b6-b1474b4-ba2c2c80-k101010-rc80000/"><circle cx="197.0" cy="224.9" r="4" fill="#3465a4"><title>MacCorquodale #2</title></circle></a><a href="/setts/s6/b36k4b8k12ba24y2-b1474b4-ba780078-k101010-yd87c00/"><circle cx="303.5" cy="196.0" r="4" fill="#3465a4"><title>Joker, The</title></circle></a><a href="/setts/s6/b6k6b21k16ba36y4-b5c5c5c-ba2c2c80-k101010-ye8c000/"><circle cx="229.7" cy="235.8" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/setts/s6/b80k8b24k42g54w8-b2c2c80-g006818-k101010-we0e0e0/"><circle cx="250.7" cy="234.7" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><a href="/setts/s5/b46ba4g22ba48w6-b1c0070-ba440044-g006818-wc0c0c0/"><circle cx="255.5" cy="234.9" r="4" fill="#3465a4"><title>Scottish Open Squash (Corporate)</title></circle></a><a href="/setts/s4/r21b43ba86w10-b1c0070-ba003c64-rc8002c-we8ccb8/"><circle cx="290.0" cy="254.4" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/setts/s7/k30r16y4b50k10b26k10-b2c2c80-k101010-rc80000-ye8c000/"><circle cx="297.3" cy="221.6" r="4" fill="#3465a4"><title>Gifford (Personal)</title></circle></a><a href="/setts/s7/b12w6b42k32ba12k6ba12-b2c2c80-ba780078-k101010-wf8f8f8/"><circle cx="223.2" cy="233.1" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/setts/s6/b6g42b6r42b70w6-b2c2c80-g00643c-rc04c08-wfcfcfc/"><circle cx="262.5" cy="205.0" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/setts/s5/b42y6b42ba66r12-b1c1c50-ba2888c4-rc80000-ye8c000/"><circle cx="263.3" cy="234.1" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><circle cx="260.5" cy="224.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b22k2b6k10ba18y2-b1870a4-ba4c0470-k101010-yd87c00/

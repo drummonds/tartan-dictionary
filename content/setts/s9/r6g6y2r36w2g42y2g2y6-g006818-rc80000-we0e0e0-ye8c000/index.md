@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacDonald of Kingsburgh](/setts/s9/r6g6y2r36w2g42y2g2y6-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 0.44
+1. [Brisbane (Artefact)](/setts/s8/g72w12y4r8y4r12y4r40-g006818-rc80000-wc0c0c0-ye8c000/) — ΔT 0.57
+1. [Brisbane (Artefact)](/setts/s8/g72w12y4r8y4r12y4r40-g006818-rc80000-wffffff-ye8c000/) — ΔT 0.79
+1. [Gleneil](/setts/s8/k4r4k4r48g62k2g4y4-g008000-k000000-rc00000-yf0c000/) — ΔT 0.99
+1. [Crieff](/setts/s13/r4ra10g7ra70g7ra4b21ra4g85ra4g7ra10r4-b800080-g008000-rd03030-rac00000/) — ΔT 1.06
+1. [MacLintock](/setts/s12/g72r6g6r6b18r6ba4r80b6r6b4r12-b304080-ba5480b0-g008000-rc00000/) — ΔT 1.10
+1. [MacPhee, MacFie](/setts/s9/w2r24g4r2g32r2g4r24y2-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.13
+1. [MacDonell of Glengarry](/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/) — ΔT 1.15
+1. [Fort William (Fashion)](/setts/s11/r20w4y6w4b48w8b8r68b4w6b4-b381c0c-rb07430-w94acfc-y38c438/) — ΔT 1.15
+1. [Oriel](/setts/s9/r24b4r6g40k8g40r60k4r2-b304080-g008000-k000000-rc00000/) — ΔT 1.16
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r6g6y2r36w2g42y2g2y6-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="323.8" cy="130.5" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/setts/s8/g72w12y4r8y4r12y4r40-g006818-rc80000-wc0c0c0-ye8c000/"><circle cx="296.0" cy="145.9" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/setts/s8/g72w12y4r8y4r12y4r40-g006818-rc80000-wffffff-ye8c000/"><circle cx="281.1" cy="138.9" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/setts/s8/k4r4k4r48g62k2g4y4-g008000-k000000-rc00000-yf0c000/"><circle cx="339.1" cy="115.6" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/setts/s13/r4ra10g7ra70g7ra4b21ra4g85ra4g7ra10r4-b800080-g008000-rd03030-rac00000/"><circle cx="325.2" cy="112.8" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/setts/s12/g72r6g6r6b18r6ba4r80b6r6b4r12-b304080-ba5480b0-g008000-rc00000/"><circle cx="346.9" cy="120.2" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s9/w2r24g4r2g32r2g4r24y2-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="360.0" cy="155.6" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/"><circle cx="361.7" cy="145.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/r20w4y6w4b48w8b8r68b4w6b4-b381c0c-rb07430-w94acfc-y38c438/"><circle cx="296.0" cy="126.9" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/setts/s9/r24b4r6g40k8g40r60k4r2-b304080-g008000-k000000-rc00000/"><circle cx="323.3" cy="137.5" r="4" fill="#3465a4"><title>Oriel</title></circle></a><circle cx="325.6" cy="130.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/r6g6y2r36w2g42y2g2y6-g006818-rc80000-we0e0e0-ye8c000/

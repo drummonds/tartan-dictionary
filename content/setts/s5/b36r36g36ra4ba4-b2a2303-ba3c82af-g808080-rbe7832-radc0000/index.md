@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/4 R4 N36 DO36 K/36 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Thompson (J.C.'s Fancy) (Personal)](/setts/s6/r12y48b12g24k24g6-b2c2c80-g789484-k101010-rc80000-ya08858/) — ΔT 1.05
+1. [Patterson, John](/setts/s6/g6b24w2ga24r24ga4-b304080-g008000-ga003000-rc00000-we0e0e0/) — ΔT 1.22
+1. [McEachem (Name)](/setts/s6/b28w4r24ba40g40w4-b5c5c5c-ba003c64-g006818-rc80000-we0e0e0/) — ΔT 1.25
+1. [Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r12g48b12ba24k24ba6-b2c2c80-ba5c8ca8-g604000-k101010-rc80000/) — ΔT 1.28
+1. [Logan](/setts/s7/b18r6y2r6g18r6y2-b304080-g008000-rc00000-yf0c000/) — ΔT 1.29
+1. [Canine All Dogs (Fashion)](/setts/s6/r10b6g24ba24r6y3-b2c2c80-ba1c1c50-g006818-rc80000-ye8c000/) — ΔT 1.31
+1. [Pople (Name)](/setts/s5/k2r18b16g16w2-b5c5c5c-g808080-k101010-r880000-we0e0e0/) — ΔT 1.32
+1. [Rothesay](/setts/s7/g8b24y4k20ga20y6ga4-b5c5c5c-g006818-ga8c7038-k101010-yd09800/) — ΔT 1.32
+1. [Caledonian Brewery (Corporate)](/setts/s7/w8g26ga12r32wa4r4ga4-g003820-ga006818-r880000-wc0c0c0-waa8ace8/) — ΔT 1.34
+1. [Strathblane (Fashion)](/setts/s5/g24k8w4r12ra6-g604000-k101010-r888888-rac80000-we0e0e0/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r12y48b12g24k24g6-b2c2c80-g789484-k101010-rc80000-ya08858/"><circle cx="141.8" cy="210.8" r="4" fill="#3465a4"><title>Thompson (J.C.'s Fancy) (Personal)</title></circle></a><a href="/setts/s6/g6b24w2ga24r24ga4-b304080-g008000-ga003000-rc00000-we0e0e0/"><circle cx="166.7" cy="198.6" r="4" fill="#3465a4"><title>Patterson, John</title></circle></a><a href="/setts/s6/b28w4r24ba40g40w4-b5c5c5c-ba003c64-g006818-rc80000-we0e0e0/"><circle cx="127.2" cy="218.6" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><a href="/setts/s6/r12g48b12ba24k24ba6-b2c2c80-ba5c8ca8-g604000-k101010-rc80000/"><circle cx="160.7" cy="222.4" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b18r6y2r6g18r6y2-b304080-g008000-rc00000-yf0c000/"><circle cx="164.7" cy="206.1" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s6/r10b6g24ba24r6y3-b2c2c80-ba1c1c50-g006818-rc80000-ye8c000/"><circle cx="139.1" cy="212.2" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/setts/s5/k2r18b16g16w2-b5c5c5c-g808080-k101010-r880000-we0e0e0/"><circle cx="199.1" cy="232.4" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/setts/s7/g8b24y4k20ga20y6ga4-b5c5c5c-g006818-ga8c7038-k101010-yd09800/"><circle cx="101.7" cy="225.6" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s7/w8g26ga12r32wa4r4ga4-g003820-ga006818-r880000-wc0c0c0-waa8ace8/"><circle cx="182.9" cy="195.2" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/setts/s5/g24k8w4r12ra6-g604000-k101010-r888888-rac80000-we0e0e0/"><circle cx="172.6" cy="229.3" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><circle cx="160.8" cy="219.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/b36r36g36ra4ba4-b2a2303-ba3c82af-g808080-rbe7832-radc0000/

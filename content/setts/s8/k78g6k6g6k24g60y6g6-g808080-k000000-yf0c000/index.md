@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/78 N6 K6 N6 K24 N60 Y6 N/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Moffat](/setts/s7/k78g6k6g6k28g56r6-g808080-k000000-rc00000/) — ΔT 0.61
+1. [TACC](/setts/s7/b68k14b24k80b6k8w6-b666666-k000000-w82cffd/) — ΔT 0.78
+1. [Douglas VS](/setts/s8/k32g2k2g2k16g32k2g4-g7e7e7e-k000000/) — ΔT 0.95
+1. [Douglas VS](/setts/s8/k32g2k2g2k16g32k2g4-g707070-k000000/) — ΔT 1.01
+1. [West Point Regimental Tartan Tartan Number: 1130. Earliest known date: 1986 Wemyss means cave and probably originates from the caves beneath MacDuff castle. There is a long and interesting article on the family of Wemyss in William Anderson's 'The Scottish Nation' published by A Fullarton in 1874. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k78r6k6r6k24r60y6r6-k101010-r888888-ye8c000/) — ΔT 1.10
+1. [West Point](/setts/s8/k78r6k6r6k24r60y6r6-k101010-r888888-yccc018/) — ΔT 1.11
+1. [Moffat (1984)](/setts/s7/k78r6k6r6k28r56ra6-k101010-r888888-rac80000/) — ΔT 1.17
+1. [Douglas, Grey Clan/Family Tartan Tartan Number: 7211. Earliest known date: 01/01/1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. (Estimated threadcount; Original STA ref: 1127) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k36y4k8y4k16y36k4y8-k000000-y909090/) — ΔT 1.24
+1. [DDB Canada (Fashion)](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/) — ΔT 1.29
+1. [Drummond, (Grey)](/setts/s14/k8w4k4b28w4k4w4k8b4k32w4k4w2k8-b505050-k000000-wc0c0c0/) — ΔT 1.32
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k78g6k6g6k28g56r6-g808080-k000000-rc00000/"><circle cx="355.7" cy="196.4" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/setts/s7/b68k14b24k80b6k8w6-b666666-k000000-w82cffd/"><circle cx="312.5" cy="198.7" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/setts/s8/k32g2k2g2k16g32k2g4-g7e7e7e-k000000/"><circle cx="372.6" cy="193.7" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/setts/s8/k32g2k2g2k16g32k2g4-g707070-k000000/"><circle cx="378.4" cy="196.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/setts/s8/k78r6k6r6k24r60y6r6-k101010-r888888-ye8c000/"><circle cx="349.2" cy="182.1" r="4" fill="#3465a4"><title>West Point Regimental Tartan Tartan Number: 1130. Earliest known date: 1986 Wemyss means cave and probably originates from the caves beneath MacDuff castle. There is a long and interesting article on the family of Wemyss in William Anderson's 'The Scottish Nation' published by A Fullarton in 1874. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k78r6k6r6k24r60y6r6-k101010-r888888-yccc018/"><circle cx="349.6" cy="182.5" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/setts/s7/k78r6k6r6k28r56ra6-k101010-r888888-rac80000/"><circle cx="371.5" cy="197.8" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/setts/s8/k36y4k8y4k16y36k4y8-k000000-y909090/"><circle cx="326.1" cy="224.6" r="4" fill="#3465a4"><title>Douglas, Grey Clan/Family Tartan Tartan Number: 7211. Earliest known date: 01/01/1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. (Estimated threadcount; Original STA ref: 1127) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/"><circle cx="394.1" cy="187.5" r="4" fill="#3465a4"><title>DDB Canada (Fashion)</title></circle></a><a href="/setts/s14/k8w4k4b28w4k4w4k8b4k32w4k4w2k8-b505050-k000000-wc0c0c0/"><circle cx="313.6" cy="154.0" r="4" fill="#3465a4"><title>Drummond, (Grey)</title></circle></a><circle cx="335.5" cy="181.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k78g6k6g6k24g60y6g6-g808080-k000000-yf0c000/

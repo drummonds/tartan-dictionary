@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/4 DB21 DG21 N3 DG21 K/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Duncan](/setts/s6/k8g42y6g42b42r8-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.00
+1. [Duncan](/setts/s6/k4g21w3g21b21r4-b000064-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 0.65
+1. [Duncan](/setts/s6/k8g42w6g42b42r8-b202060-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.03
+1. [Cameron Hunting](/setts/s7/r6g20r6g28b32g6y4-b000052-g11450d-raa0000-yaaaa00/) — ΔT 1.05
+1. [Cameron Hunting](/setts/s7/r3g10r3g14b16g3y2-b000052-g11450d-raa0000-yaaaa00/) — ΔT 1.05
+1. [Duncan Clan Tartan Tartan Number: 1112. Earliest known date: 1906 Duncans and Robertsons share a common ancester, one of the ancient Earls of Atholl, 'Fat Duncan', who led the clan at the Battle of Bannockburn. This sett is also known as Leslie of Wardis or Leslie Hunting, (No. 1113) but Duncan lacks the broad black present in the Leslie Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k8g42w6g42b42r8-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.10
+1. [Tennent (Personal)](/setts/s8/r4k28g28k28b28k28r4w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8/) — ΔT 1.14
+1. [Murray](/setts/s6/b6k32g32k32ba6b6-b3c82af-ba2c4084-g005020-k101010/) — ΔT 1.17
+1. [Salvation Army Htg (Corporate)](/setts/s7/b20g32k4y8k4g32b16-b1c1c50-g285800-k101010-ycca800/) — ΔT 1.26
+1. [Cameron Hunting](/setts/s7/r3g10r3g14b16g3y2-b000064-g004c00-rc80000-yffc800/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8g42y6g42b42r8-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="275.4" cy="240.7" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k4g21w3g21b21r4-b000064-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="256.2" cy="232.7" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k8g42w6g42b42r8-b202060-g006818-k101010-rc80000-we0e0e0/"><circle cx="262.8" cy="232.1" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s7/r6g20r6g28b32g6y4-b000052-g11450d-raa0000-yaaaa00/"><circle cx="283.0" cy="237.6" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s7/r3g10r3g14b16g3y2-b000052-g11450d-raa0000-yaaaa00/"><circle cx="283.0" cy="237.6" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/k8g42w6g42b42r8-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="264.3" cy="232.2" r="4" fill="#3465a4"><title>Duncan Clan Tartan Tartan Number: 1112. Earliest known date: 1906 Duncans and Robertsons share a common ancester, one of the ancient Earls of Atholl, 'Fat Duncan', who led the clan at the Battle of Bannockburn. This sett is also known as Leslie of Wardis or Leslie Hunting, (No. 1113) but Duncan lacks the broad black present in the Leslie Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r4k28g28k28b28k28r4w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8/"><circle cx="233.7" cy="228.4" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/setts/s6/b6k32g32k32ba6b6-b3c82af-ba2c4084-g005020-k101010/"><circle cx="298.9" cy="276.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/b20g32k4y8k4g32b16-b1c1c50-g285800-k101010-ycca800/"><circle cx="293.6" cy="247.9" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s7/r3g10r3g14b16g3y2-b000064-g004c00-rc80000-yffc800/"><circle cx="261.3" cy="227.6" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><circle cx="275.4" cy="240.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k4g21y3g21b21r4-b000052-g11450d-k000000-raa0000-yaaaaaa/

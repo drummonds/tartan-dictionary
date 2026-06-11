@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#FA4B00;"><span style="color:#FA4B00;filter:grayscale(1) invert(1) contrast(100);">#FA4B00</span></code> `#FA4B00` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
 | T | <code style="background-color:#503C14;"><span style="color:#503C14;filter:grayscale(1) invert(1) contrast(100);">#503C14</span></code> `#503C14` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.15 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified, Gordon variant](/setts/s13/b8ba4r16ba16bb18y4bb18ba16w8ra8w24ra4w8-b401000-ba304080-bb000050-r806050-ra906030-we0e0e0-yff8500/) — ΔT 0.17
+1. [Cascade Summers](/setts/s12/b6y26r6g12b6k20w4k20b6r22ba26k6-b3c8cfc-ba3474fc-g007800-k000000-rb45050-wc8c8c8-y3cc83c/) — ΔT 1.11
+1. [Hoban (Personal)](/setts/s16/w36k12w16k36g60k36b44wa8b44k36g60k36w16k12w36y12-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/) — ΔT 1.38
+1. [Hoban (Name)](/setts/s9/y12w36k12w16k36g60k36b44wa8-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/) — ΔT 1.40
+1. [St. Margaret's School Edinburgh](/setts/s17/k32g6ga16k6r24k6r24k6ga16k6w24ga16w24ga16g6k32wa6-g006818-ga408060-k101010-rb468ac-wc0c0c0-wafcfcfc/) — ΔT 1.43
+1. [O'Sullivan](/setts/s11/b24k16b40w8ba40g16ba24g36r8g16y8-b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.43
+1. [Clauwaert (Personal)](/setts/s17/b8y4b8w12wa4k4w12wa4k4w26y6k8y6k16b12wa4r8-b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858/) — ΔT 1.45
+1. [Anderson (Blackwood) (Personal)](/setts/s12/k10g30ga16g30k10r8b16w10wa6w10b16r8-b0000cd-g008b00-ga603311-k101010-rff0000-w82cffd-waffffff/) — ΔT 1.46
+1. [Land's End (Unnamed Maroon) (Personal)](/setts/s14/w6b4w14b4w4k14g16k2w4k2g16k14ba14r4-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.46
+1. [Cascade Summers, (The Resort at the Mountain)](/setts/s12/b6g28r6ga12b6k20w4k20b6r22ba28k6-b304080-ba5480b0-g30a010-ga006030-k000000-rd03030-we0e0e0/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b8ba4r16ba16bb18y4bb18ba16w8ra8w24ra4w8-b401000-ba304080-bb000050-r806050-ra906030-we0e0e0-yff8500/"><circle cx="14.0" cy="156.0" r="4" fill="#3465a4"><title>Unidentified, Gordon variant</title></circle></a><a href="/setts/s12/b6y26r6g12b6k20w4k20b6r22ba26k6-b3c8cfc-ba3474fc-g007800-k000000-rb45050-wc8c8c8-y3cc83c/"><circle cx="14.0" cy="148.4" r="4" fill="#3465a4"><title>Cascade Summers</title></circle></a><a href="/setts/s16/w36k12w16k36g60k36b44wa8b44k36g60k36w16k12w36y12-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/"><circle cx="42.5" cy="167.1" r="4" fill="#3465a4"><title>Hoban (Personal)</title></circle></a><a href="/setts/s9/y12w36k12w16k36g60k36b44wa8-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/"><circle cx="46.8" cy="181.0" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/setts/s17/k32g6ga16k6r24k6r24k6ga16k6w24ga16w24ga16g6k32wa6-g006818-ga408060-k101010-rb468ac-wc0c0c0-wafcfcfc/"><circle cx="28.0" cy="163.2" r="4" fill="#3465a4"><title>St. Margaret's School Edinburgh</title></circle></a><a href="/setts/s11/b24k16b40w8ba40g16ba24g36r8g16y8-b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="15.1" cy="187.3" r="4" fill="#3465a4"><title>O'Sullivan</title></circle></a><a href="/setts/s17/b8y4b8w12wa4k4w12wa4k4w26y6k8y6k16b12wa4r8-b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858/"><circle cx="34.0" cy="141.5" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/setts/s12/k10g30ga16g30k10r8b16w10wa6w10b16r8-b0000cd-g008b00-ga603311-k101010-rff0000-w82cffd-waffffff/"><circle cx="14.0" cy="169.5" r="4" fill="#3465a4"><title>Anderson (Blackwood) (Personal)</title></circle></a><a href="/setts/s14/w6b4w14b4w4k14g16k2w4k2g16k14ba14r4-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="21.0" cy="150.6" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon) (Personal)</title></circle></a><a href="/setts/s12/b6g28r6ga12b6k20w4k20b6r22ba28k6-b304080-ba5480b0-g30a010-ga006030-k000000-rd03030-we0e0e0/"><circle cx="14.0" cy="146.1" r="4" fill="#3465a4"><title>Cascade Summers, (The Resort at the Mountain)</title></circle></a><circle cx="14.0" cy="156.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/b8ba4g16ba16bb18r4bb18ba16w8ra8w24ra4w8-b2a2303-ba2c4084-bb080848-g503c14-rfa4b00-rabe7832-we0e0e0/

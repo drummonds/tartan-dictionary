@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/4 R4 DB56 K22 R54 LN4 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [St. George's (Edinburgh) (School)](/setts/s10/r14k6r8k10r50k14y4b44k6b8-b2c2c80-k101010-rc80000-ye8c000/) — ΔT 0.86
+1. [Graham of Menteith (Red)](/setts/s6/r72w6r10k42b48k6-b2c2c80-k101010-rc80000-wa8ace8/) — ΔT 0.90
+1. [Galloway Dress (Yellow Line)](/setts/s6/g4r2b32r32b2y4-b2c2c80-g285800-rc80000-ye8c000/) — ΔT 0.94
+1. [Galloway Dress District Tartan Tartan Number: 850. Earliest known date: 1950 This sett is taken from a sample in MacGregor-Hastie Collection at the Scottish Tartans Museum. It is the more usual form of the dress version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g4r2b32r32b2y4-b2c2c80-g006818-rc80000-ye8c000/) — ΔT 0.95
+1. [Memery (Name)](/setts/s9/w8k12r6k30r6k12r54b18w4-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 1.05
+1. [Girl Guiding Scotland (Corporate)](/setts/s9/k72r6b6r6k16b48r36y6r6-b2c2c80-k101010-rc80050-ye8c000/) — ΔT 1.07
+1. [Galloway Red](/setts/s6/g6r4b44r44b4w6-b2c2c80-g006818-rc80000-wfcfcfc/) — ΔT 1.07
+1. [Robinson, dress](/setts/s6/g2b32r14k2r14k2-b304080-g008000-k000000-rc00000/) — ΔT 1.09
+1. [Cetoloni (Personal)](/setts/s6/b4r48k24y4k24b4-b2c2c80-k101010-rc80000-ye8c000/) — ΔT 1.09
+1. [Black and Red](/setts/s8/r25k2b4k2r8k31ba32k8-b5c5c5c-ba2c2c80-k101010-rc80000/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r14k6r8k10r50k14y4b44k6b8-b2c2c80-k101010-rc80000-ye8c000/"><circle cx="249.7" cy="161.6" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><a href="/setts/s6/r72w6r10k42b48k6-b2c2c80-k101010-rc80000-wa8ace8/"><circle cx="248.1" cy="194.9" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/setts/s6/g4r2b32r32b2y4-b2c2c80-g285800-rc80000-ye8c000/"><circle cx="307.0" cy="167.0" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/setts/s6/g4r2b32r32b2y4-b2c2c80-g006818-rc80000-ye8c000/"><circle cx="305.9" cy="166.7" r="4" fill="#3465a4"><title>Galloway Dress District Tartan Tartan Number: 850. Earliest known date: 1950 This sett is taken from a sample in MacGregor-Hastie Collection at the Scottish Tartans Museum. It is the more usual form of the dress version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w8k12r6k30r6k12r54b18w4-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="235.1" cy="158.2" r="4" fill="#3465a4"><title>Memery (Name)</title></circle></a><a href="/setts/s9/k72r6b6r6k16b48r36y6r6-b2c2c80-k101010-rc80050-ye8c000/"><circle cx="247.8" cy="170.2" r="4" fill="#3465a4"><title>Girl Guiding Scotland (Corporate)</title></circle></a><a href="/setts/s6/g6r4b44r44b4w6-b2c2c80-g006818-rc80000-wfcfcfc/"><circle cx="276.2" cy="179.5" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/g2b32r14k2r14k2-b304080-g008000-k000000-rc00000/"><circle cx="323.4" cy="180.4" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s6/b4r48k24y4k24b4-b2c2c80-k101010-rc80000-ye8c000/"><circle cx="272.8" cy="188.6" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s8/r25k2b4k2r8k31ba32k8-b5c5c5c-ba2c2c80-k101010-rc80000/"><circle cx="237.4" cy="178.9" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><circle cx="268.5" cy="167.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b4r4b56k22r54w4r4-b1c1c50-k101010-rc80000-we0e0e0/

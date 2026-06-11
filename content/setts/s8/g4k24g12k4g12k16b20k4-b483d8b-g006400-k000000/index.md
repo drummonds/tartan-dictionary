@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/4 K24 G12 K4 G12 K16 B20 K/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Strathspey](/setts/s7/k4g20k20b20k4b4k4-b304080-g008000-k000000/) — ΔT 1.08
+1. [Forbes Ancient](/setts/s7/b2k12b12k12g12k2w2-b304080-g008000-k000000-we0e0e0/) — ΔT 1.10
+1. [Black Watch](/setts/s6/k10g46k36b42k66b6-b304080-g008000-k000000/) — ΔT 1.17
+1. [Clergy, (Clark)](/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b304080-g008000-k000000/) — ΔT 1.18
+1. [Forbes LC](/setts/s7/b1k6b6k6g6k1w1-b00004c-g004c00-k000000-wd0d0d0/) — ΔT 1.19
+1. [MacCallum](/setts/s7/g16k4w2g8k12b12k2-b00004c-g004c00-k000000-wd0d0d0/) — ΔT 1.33
+1. [Forbes LC](/setts/s7/b2k12b12k12g12k2y2-b000052-g11450d-k000000-yaaaaaa/) — ΔT 1.39
+1. [Forbes LC](/setts/s7/b1k6b6k6g6k1y1-b000052-g11450d-k000000-yaaaaaa/) — ΔT 1.39
+1. [Murray](/setts/s6/b6k32g32k32ba6b6-b5480b0-ba304080-g008000-k000000/) — ΔT 1.39
+1. [Wilson's, No 108](/setts/s8/k28g28k4g28k28b4ba28k4-b5480b0-ba800080-g008000-k000000/) — ΔT 1.39
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4g20k20b20k4b4k4-b304080-g008000-k000000/"><circle cx="186.2" cy="256.2" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/setts/s7/b2k12b12k12g12k2w2-b304080-g008000-k000000-we0e0e0/"><circle cx="181.7" cy="240.2" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s6/k10g46k36b42k66b6-b304080-g008000-k000000/"><circle cx="268.8" cy="251.9" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b304080-g008000-k000000/"><circle cx="195.4" cy="236.3" r="4" fill="#3465a4"><title>Clergy, (Clark)</title></circle></a><a href="/setts/s7/b1k6b6k6g6k1w1-b00004c-g004c00-k000000-wd0d0d0/"><circle cx="209.4" cy="255.7" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s7/g16k4w2g8k12b12k2-b00004c-g004c00-k000000-wd0d0d0/"><circle cx="190.9" cy="242.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s7/b2k12b12k12g12k2y2-b000052-g11450d-k000000-yaaaaaa/"><circle cx="219.7" cy="259.9" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s7/b1k6b6k6g6k1y1-b000052-g11450d-k000000-yaaaaaa/"><circle cx="219.7" cy="259.9" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s6/b6k32g32k32ba6b6-b5480b0-ba304080-g008000-k000000/"><circle cx="232.4" cy="250.5" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s8/k28g28k4g28k28b4ba28k4-b5480b0-ba800080-g008000-k000000/"><circle cx="161.2" cy="228.4" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><circle cx="224.2" cy="262.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g4k24g12k4g12k16b20k4-b483d8b-g006400-k000000/

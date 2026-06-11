@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 | R | <code style="background-color:#C8002C;"><span style="color:#C8002C;filter:grayscale(1) invert(1) contrast(100);">#C8002C</span></code> `#C8002C` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gordon, Red (Clan/District)](/setts/s16/b32w4r14w4k28ba12w4b30w4g34ba12g12ra16k12ra16k4-b780078-ba5c8ca8-g285800-k101010-re87878-rac8002c-we0e0e0/) — ΔT 0.10
+1. [Gordon, Red](/setts/s16/b32w4r14w4k28ba12w4b30w4g34ba12g12ra16k12ra16k4-b800080-ba5480b0-g008000-k000000-rd03030-rac00020-we0e0e0/) — ΔT 0.64
+1. [Gordon Red](/setts/s15/g36w4b32w4ba12k32w4r16w4b18ra18k12ra18g12ba12-b2c4084-ba3c82af-g005020-k101010-r960028-radc0000-we0e0e0/) — ΔT 0.85
+1. [Walter (Personal)](/setts/s12/r48w6y8g36b36ga6ba8ga6b36g36y8w6-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/) — ΔT 1.00
+1. [Huntly Old](/setts/s16/b32y4ba14y4k28bb12y4b30y4g34bb12g12r16k12r16k4-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.01
+1. [Huntly Old](/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.01
+1. [Alberta Caledonia (Corporate)](/setts/s13/r12b18k4b4k4b18k20y8ba34r10k4r10w8-b2c2c80-ba5c5c5c-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.02
+1. [Kukri](/setts/s18/b16k4b6g6k6r6g20ga6k6w6k6ba32g12k6b12w16k4ba4-b202060-ba780078-g003820-ga006818-k101010-rc80000-wfcfcfc/) — ΔT 1.13
+1. [Clauweart](/setts/s17/b8y4b8ba12w4k4ba12w4k4ba26r6k8r6k16b12w4ra8-b2c4084-ba666666-k101010-rbe7832-radc0000-we0e0e0-yc89600/) — ΔT 1.17
+1. [Gordon, Red](/setts/s15/g36w4b32w4ba12k32w4r16w4b18ra18k12ra18g12ba12-b304080-ba5480b0-g008000-k000000-r900030-rac00000-we0e0e0/) — ΔT 1.20
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/b32w4r14w4k28ba12w4b30w4g34ba12g12ra16k12ra16k4-b780078-ba5c8ca8-g285800-k101010-re87878-rac8002c-we0e0e0/"><circle cx="15.1" cy="122.9" r="4" fill="#3465a4"><title>Gordon, Red (Clan/District)</title></circle></a><a href="/setts/s16/b32w4r14w4k28ba12w4b30w4g34ba12g12ra16k12ra16k4-b800080-ba5480b0-g008000-k000000-rd03030-rac00020-we0e0e0/"><circle cx="14.0" cy="117.0" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/setts/s15/g36w4b32w4ba12k32w4r16w4b18ra18k12ra18g12ba12-b2c4084-ba3c82af-g005020-k101010-r960028-radc0000-we0e0e0/"><circle cx="14.0" cy="134.0" r="4" fill="#3465a4"><title>Gordon Red</title></circle></a><a href="/setts/s12/r48w6y8g36b36ga6ba8ga6b36g36y8w6-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/"><circle cx="63.1" cy="127.8" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s16/b32y4ba14y4k28bb12y4b30y4g34bb12g12r16k12r16k4-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="19.5" cy="133.4" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="19.5" cy="133.4" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/setts/s13/r12b18k4b4k4b18k20y8ba34r10k4r10w8-b2c2c80-ba5c5c5c-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="51.5" cy="150.0" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/setts/s18/b16k4b6g6k6r6g20ga6k6w6k6ba32g12k6b12w16k4ba4-b202060-ba780078-g003820-ga006818-k101010-rc80000-wfcfcfc/"><circle cx="14.0" cy="119.0" r="4" fill="#3465a4"><title>Kukri</title></circle></a><a href="/setts/s17/b8y4b8ba12w4k4ba12w4k4ba26r6k8r6k16b12w4ra8-b2c4084-ba666666-k101010-rbe7832-radc0000-we0e0e0-yc89600/"><circle cx="43.1" cy="141.6" r="4" fill="#3465a4"><title>Clauweart</title></circle></a><a href="/setts/s15/g36w4b32w4ba12k32w4r16w4b18ra18k12ra18g12ba12-b304080-ba5480b0-g008000-k000000-r900030-rac00000-we0e0e0/"><circle cx="14.0" cy="126.9" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><circle cx="15.1" cy="123.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s16/b32w4r14w4k28ba12w4b30w4g34ba12g12ra16k12ra16k4-b780078-ba5c8ca8-g006818-k101010-rd05054-rac8002c-we0e0e0/

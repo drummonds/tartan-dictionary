@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 | W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bahrain, Royal](/setts/s18/k32r2k4r6k2r18k2r6k4r2k12g6w6g10r56wa6r6wa6-g005020-k000028-raf0014-w98d0f0-wae0e0e0/) — ΔT 0.73
+1. [MacDonald of Glenaladale - 1772 (Cla](/setts/s11/k5w2r50k50r5wa2r5g42r50k5wa2-g006818-k00002c-rcc4438-wa8ace8-wafcfcfc/) — ΔT 0.93
+1. [MacFarlane, Red](/setts/s14/r103k8g16w4r9k3r9w4g7b41k14r14w10g6-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.01
+1. [Solberg-Wormald (Personal)](/setts/s12/r155w16k34b48r18y6r9y6r18b48k34w16-b1c0070-k101010-rc80000-w98c8e8-ye8c000/) — ΔT 1.04
+1. [Sutherland de Albergaria (Personal)](/setts/s14/w10k2w2k66y6r48k5r8k5r48y6k66w2k2-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.04
+1. [MacKeever (Personal)](/setts/s13/k72r16w4r4k4r4y4r48k6r4g12r4k16-g006818-k101010-rc80000-wfcfcfc-yfccc00/) — ΔT 1.17
+1. [Unidentified Scarlett #8](/setts/s17/g4r40k4r4g6r4k36r6w2g6r40k4r4k36r4g4y2-g408060-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.18
+1. [MacFarlane, or Lendrum](/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b800080-g008000-k000000-r900030-we0e0e0/) — ΔT 1.20
+1. [Royal Stewart](/setts/s11/r128b24k32y4k8w6g64r16k8r6w4-b5480b0-g003000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.22
+1. [Bro-Zol](/setts/s10/b6w10r50b2g6b2r16k4w18k6-b2c2c80-g006818-k101010-r880000-we0e0e0/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/k32r2k4r6k2r18k2r6k4r2k12g6w6g10r56wa6r6wa6-g005020-k000028-raf0014-w98d0f0-wae0e0e0/"><circle cx="281.7" cy="65.6" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/setts/s11/k5w2r50k50r5wa2r5g42r50k5wa2-g006818-k00002c-rcc4438-wa8ace8-wafcfcfc/"><circle cx="271.1" cy="102.9" r="4" fill="#3465a4"><title>MacDonald of Glenaladale - 1772 (Cla</title></circle></a><a href="/setts/s14/r103k8g16w4r9k3r9w4g7b41k14r14w10g6-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="308.7" cy="56.9" r="4" fill="#3465a4"><title>MacFarlane, Red</title></circle></a><a href="/setts/s12/r155w16k34b48r18y6r9y6r18b48k34w16-b1c0070-k101010-rc80000-w98c8e8-ye8c000/"><circle cx="262.6" cy="89.2" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/setts/s14/w10k2w2k66y6r48k5r8k5r48y6k66w2k2-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="331.7" cy="90.7" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s13/k72r16w4r4k4r4y4r48k6r4g12r4k16-g006818-k101010-rc80000-wfcfcfc-yfccc00/"><circle cx="292.8" cy="98.8" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s17/g4r40k4r4g6r4k36r6w2g6r40k4r4k36r4g4y2-g408060-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="288.7" cy="89.5" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s14/r84k2g24w4r6k2r6w4g4b24k8r6w8g6-b800080-g008000-k000000-r900030-we0e0e0/"><circle cx="329.0" cy="49.9" r="4" fill="#3465a4"><title>MacFarlane, or Lendrum</title></circle></a><a href="/setts/s11/r128b24k32y4k8w6g64r16k8r6w4-b5480b0-g003000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="262.9" cy="61.5" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s10/b6w10r50b2g6b2r16k4w18k6-b2c2c80-g006818-k101010-r880000-we0e0e0/"><circle cx="290.8" cy="96.5" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><circle cx="280.4" cy="72.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s14/k66w2r46k2y12w2y12k2r46w2k66r6w6b6-b2474e8-k101010-rdc0000-wffffff-ya0a0a0/

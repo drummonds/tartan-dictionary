@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/48 DB4 K8 DBa4 K4 DBa16 DG4 K/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [The Caledonian Hotel](/setts/s8/k48k6k6k6k6k36g40r8-g003000-k000030-rc00000/) — ΔT 1.81
+1. [MacKay VS](/setts/s6/b4k12b4k12b32r2-b000052-k000000-raa0000/) — ΔT 1.99
+1. [Home](/setts/s8/k56r2k4r2k16b48g4b6-b000052-g11450d-k000000-raa0000/) — ΔT 2.03
+1. [Home](/setts/s8/k28r1k2r1k8b24g2b3-b000052-g11450d-k000000-raa0000/) — ΔT 2.03
+1. [Silver Thistle (Fashion)](/setts/s7/g8b6k12ba40k92r4k8-b2c2c80-ba303070-g006818-k101010-r888888/) — ΔT 2.07
+1. [Witches' Blood, The](/setts/s10/k44b34k4b8k4b4k74b8k4r6-b505050-k101010-ra00000/) — ΔT 2.11
+1. [Langhein, Alex (Personal)](/setts/s8/k80g30k20r4k20y4k20y4-g003820-k101010-rb03000-yd09800/) — ΔT 2.13
+1. [CI (Corporate)](/setts/s9/k100b8r4k4r4b8k25ba10r4-b440044-ba1c1c50-k101010-r888888/) — ΔT 2.15
+1. [Laird (Name)](/setts/s9/k106g10k10b26ba10b10ba10b10k10-b780078-ba2c2c80-g006818-k101010/) — ΔT 2.15
+1. [Silver Thistle](/setts/s12/g8b6k12ba40k92r4k8r4k92ba40k12b6-b2c2c80-ba303070-g006818-k101010-r888888/) — ΔT 2.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k48k6k6k6k6k36g40r8-g003000-k000030-rc00000/"><circle cx="462.3" cy="266.8" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/setts/s6/b4k12b4k12b32r2-b000052-k000000-raa0000/"><circle cx="446.7" cy="248.8" r="4" fill="#3465a4"><title>MacKay VS</title></circle></a><a href="/setts/s8/k56r2k4r2k16b48g4b6-b000052-g11450d-k000000-raa0000/"><circle cx="420.0" cy="179.3" r="4" fill="#3465a4"><title>Home</title></circle></a><a href="/setts/s8/k28r1k2r1k8b24g2b3-b000052-g11450d-k000000-raa0000/"><circle cx="420.0" cy="179.3" r="4" fill="#3465a4"><title>Home</title></circle></a><a href="/setts/s7/g8b6k12ba40k92r4k8-b2c2c80-ba303070-g006818-k101010-r888888/"><circle cx="471.0" cy="178.8" r="4" fill="#3465a4"><title>Silver Thistle (Fashion)</title></circle></a><a href="/setts/s10/k44b34k4b8k4b4k74b8k4r6-b505050-k101010-ra00000/"><circle cx="512.4" cy="199.7" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/setts/s8/k80g30k20r4k20y4k20y4-g003820-k101010-rb03000-yd09800/"><circle cx="542.8" cy="206.3" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/setts/s9/k100b8r4k4r4b8k25ba10r4-b440044-ba1c1c50-k101010-r888888/"><circle cx="584.6" cy="165.4" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/setts/s9/k106g10k10b26ba10b10ba10b10k10-b780078-ba2c2c80-g006818-k101010/"><circle cx="412.7" cy="188.0" r="4" fill="#3465a4"><title>Laird (Name)</title></circle></a><a href="/setts/s12/g8b6k12ba40k92r4k8r4k92ba40k12b6-b2c2c80-ba303070-g006818-k101010-r888888/"><circle cx="470.3" cy="163.2" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><circle cx="491.0" cy="220.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k48b4k8ba4k4ba16g4k4-b003478-ba000050-g003014-k000000/

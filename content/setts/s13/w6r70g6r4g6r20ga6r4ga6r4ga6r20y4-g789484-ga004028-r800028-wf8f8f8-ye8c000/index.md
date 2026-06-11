@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wilding, Michael John (Personal)](/setts/s13/w4k4b4y4k4r12k2r24k4r12w2r46k2-b2888c4-k101010-r880000-wffffff-yffff00/) — ΔT 1.09
+1. [Wilding, Michael John (Personal)](/setts/s13/w4k4b4y4k4r14k2r24k4r12w2r46k2-b5c8ca8-k101010-ra00000-wfcfcfc-yfccc00/) — ΔT 1.16
+1. [Rose](/setts/s9/g4r56b12r10b4r4b4r22y4-b000052-g11450d-raa0000-yaaaaaa/) — ΔT 1.41
+1. [Rose](/setts/s9/g2r28b6r5b2r2b2r11y2-b000052-g11450d-raa0000-yaaaaaa/) — ΔT 1.41
+1. [Motherwell Football Club 1991](/setts/s10/r12y2r12k6r24k30ra2r60k2w4-k101010-r880000-rae87878-we0e0e0-ye8c000/) — ΔT 1.44
+1. [Fernie (Personal)](/setts/s10/r50b10ra4r24rb2w2rb2r24ra4b10-b1c1c1c-r800028-rae86000-rb888888-wfcfcfc/) — ΔT 1.46
+1. [De Nardi #2 (Personal)](/setts/s8/r136b54r10y6r10g6r26ba6-b1c1c50-ba5c8ca8-g006818-rc80000-ye8c000/) — ΔT 1.48
+1. [De Nardi (Personal)](/setts/s8/r136b52r10y6r10g6r26ra6-b2c2c80-g006818-rc80000-ra888888-ye8c000/) — ΔT 1.52
+1. [Oliver Family Tartan Tartan Number: 1606. Earliest known date: 1973 (1820) Designed for the Oliver Society, based on Tweedside Distict sett of c.1820 in Wilson's notebook now in Museum of Antiquities. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r80k6r4b24r4g4r4g4y6-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.58
+1. [Oliver, dress](/setts/s9/r80k6r4b24r4g4r4g4y6-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 1.58
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w4k4b4y4k4r12k2r24k4r12w2r46k2-b2888c4-k101010-r880000-wffffff-yffff00/"><circle cx="467.4" cy="97.1" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/setts/s13/w4k4b4y4k4r14k2r24k4r12w2r46k2-b5c8ca8-k101010-ra00000-wfcfcfc-yfccc00/"><circle cx="478.3" cy="96.9" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/setts/s9/g4r56b12r10b4r4b4r22y4-b000052-g11450d-raa0000-yaaaaaa/"><circle cx="509.5" cy="157.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/g2r28b6r5b2r2b2r11y2-b000052-g11450d-raa0000-yaaaaaa/"><circle cx="509.5" cy="157.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s10/r12y2r12k6r24k30ra2r60k2w4-k101010-r880000-rae87878-we0e0e0-ye8c000/"><circle cx="471.0" cy="120.9" r="4" fill="#3465a4"><title>Motherwell Football Club 1991</title></circle></a><a href="/setts/s10/r50b10ra4r24rb2w2rb2r24ra4b10-b1c1c1c-r800028-rae86000-rb888888-wfcfcfc/"><circle cx="509.2" cy="136.9" r="4" fill="#3465a4"><title>Fernie (Personal)</title></circle></a><a href="/setts/s8/r136b54r10y6r10g6r26ba6-b1c1c50-ba5c8ca8-g006818-rc80000-ye8c000/"><circle cx="476.5" cy="115.3" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/setts/s8/r136b52r10y6r10g6r26ra6-b2c2c80-g006818-rc80000-ra888888-ye8c000/"><circle cx="490.7" cy="118.5" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/setts/s9/r80k6r4b24r4g4r4g4y6-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="436.8" cy="100.3" r="4" fill="#3465a4"><title>Oliver Family Tartan Tartan Number: 1606. Earliest known date: 1973 (1820) Designed for the Oliver Society, based on Tweedside Distict sett of c.1820 in Wilson's notebook now in Museum of Antiquities. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r80k6r4b24r4g4r4g4y6-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="431.5" cy="99.5" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><circle cx="480.9" cy="110.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/w6r70g6r4g6r20ga6r4ga6r4ga6r20y4-g789484-ga004028-r800028-wf8f8f8-ye8c000/

@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/4 DB16 N4 DB4 K16 R8 K16 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKean](/setts/s8/r8k16r8k16b4w4b16r4-b304080-k000000-rc00000-we0e0e0/) — ΔT 1.02
+1. [Clark, Red](/setts/s8/r52k16g16k16b52k16g16k16-b1c0070-g808080-k101010-rc80000/) — ΔT 1.06
+1. [MacNaughton (Logan)](/setts/s7/b10r34ba32k20b20r34b10-b080848-ba002814-k101010-rdc0000/) — ΔT 1.13
+1. [MacNaughton Clan Tartan Tartan Number: 404. Earliest known date: (1831) MacNaughtons once were found in Lochawe, Glenaray, Loch Fyne and Glenshira. Their stronghold was Dundarave castle. In 1878 the chief was restored as Sir Francis MacNaughton of Dunderawe of Bushmills in Ireland. Logan recorded the sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b10r34g32k20b20r34b10-b202060-g003820-k101010-rc80000/) — ΔT 1.23
+1. [Clerk](/setts/s6/b20k4g4k4r12k4-b304080-g008000-k000000-rc00000/) — ΔT 1.25
+1. [Isle of Gigha (District)](/setts/s7/y16b32k8b32r32y32b8-b202060-k101010-ra00048-ybc8c00/) — ΔT 1.25
+1. [Clerk](/setts/s6/b20k4g4k4r12k4-b2c4084-g005020-k101010-rdc0000/) — ΔT 1.27
+1. [Scott, Sir Walter](/setts/s10/b18k22ba4g18k6g18ba4k22b18k6-b780078-ba5c8ca8-g006818-k101010/) — ΔT 1.31
+1. [Clerk Family Tartan Tartan Number: 326. Earliest known date: 1847 Also referred to as Clark. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b20k4g4k4r12k4-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.32
+1. [MacTavish #2](/setts/s6/b8r48ba8b24k24b8-b5c8ca8-ba1c0070-k101010-r880000/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r8k16r8k16b4w4b16r4-b304080-k000000-rc00000-we0e0e0/"><circle cx="132.0" cy="246.0" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/setts/s8/r52k16g16k16b52k16g16k16-b1c0070-g808080-k101010-rc80000/"><circle cx="103.0" cy="250.9" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/setts/s7/b10r34ba32k20b20r34b10-b080848-ba002814-k101010-rdc0000/"><circle cx="131.6" cy="274.1" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/setts/s7/b10r34g32k20b20r34b10-b202060-g003820-k101010-rc80000/"><circle cx="150.4" cy="282.6" r="4" fill="#3465a4"><title>MacNaughton Clan Tartan Tartan Number: 404. Earliest known date: (1831) MacNaughtons once were found in Lochawe, Glenaray, Loch Fyne and Glenshira. Their stronghold was Dundarave castle. In 1878 the chief was restored as Sir Francis MacNaughton of Dunderawe of Bushmills in Ireland. Logan recorded the sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b20k4g4k4r12k4-b304080-g008000-k000000-rc00000/"><circle cx="170.4" cy="233.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/setts/s7/y16b32k8b32r32y32b8-b202060-k101010-ra00048-ybc8c00/"><circle cx="114.3" cy="249.5" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/setts/s6/b20k4g4k4r12k4-b2c4084-g005020-k101010-rdc0000/"><circle cx="193.7" cy="240.5" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/setts/s10/b18k22ba4g18k6g18ba4k22b18k6-b780078-ba5c8ca8-g006818-k101010/"><circle cx="164.7" cy="247.7" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s6/b20k4g4k4r12k4-b2c2c80-g006818-k101010-rc80000/"><circle cx="198.3" cy="243.3" r="4" fill="#3465a4"><title>Clerk Family Tartan Tartan Number: 326. Earliest known date: 1847 Also referred to as Clark. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b8r48ba8b24k24b8-b5c8ca8-ba1c0070-k101010-r880000/"><circle cx="191.2" cy="233.8" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><circle cx="155.6" cy="253.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r8k16r8k16b4w4b16r4-b2c2c80-k101010-rc80000-wc0c0c0/

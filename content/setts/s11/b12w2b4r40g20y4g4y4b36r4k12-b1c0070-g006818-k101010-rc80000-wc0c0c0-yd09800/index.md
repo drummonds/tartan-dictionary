@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bendigo](/setts/s11/r44w2y14w2g42w2b24w2ra2w2r16-b041b67-g003820-r89051b-ra861031-wddd5af-ye0a126/) — ΔT 0.86
+1. [Steiff](/setts/s10/r15g6b36w2k6w2g30r32k6ba4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.86
+1. [Wcwm 1873-4](/setts/s11/r24b4r8b8r4b16ba56k16bb4k12y4-b3c2010-ba640064-bb0000e0-k000000-r8c8c8c-yc89800/) — ΔT 0.87
+1. [Clinton Wedding](/setts/s12/w10b12r40k12ba10k6b52r4y2r4b6w6-b082c54-ba486488-k101010-re01c18-we8e8e8-yf4bc3c/) — ΔT 0.89
+1. [Scottish Wildcat](/setts/s14/b20w2ba2w4r20b16ba4k34ba4b14r38k6y2k2-b501400-ba441800-k101010-r888888-wfcfcfc-ye8c000/) — ΔT 0.92
+1. [Loch Etive](/setts/s8/w6g4r42k52b36k4b6y6-b2c2c80-g289c18-k101010-rc80000-wc0c0c0-yfccc00/) — ΔT 0.97
+1. [Vinther, Niels Christian (Personal)](/setts/s8/w6r28wa2k4g4k32b40w2-b5c8ca8-g649848-k101010-ra00048-we8ccb8-waf0e0c8/) — ΔT 0.98
+1. [Loch Etive](/setts/s8/w6g4r42k52b36k4b6y6-b2c4084-g00643c-k101010-rdc0000-we0e0e0-yfccc00/) — ΔT 1.00
+1. [MacLean Variation](/setts/s11/b90k24y8k8w12k8g100r114b8r20k8-b5a008c-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.01
+1. [Tribal](/setts/s10/y8k64r20k4ra32k4r20k4b64ya8-b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44w2y14w2g42w2b24w2ra2w2r16-b041b67-g003820-r89051b-ra861031-wddd5af-ye0a126/"><circle cx="195.5" cy="96.4" r="4" fill="#3465a4"><title>Bendigo</title></circle></a><a href="/setts/s10/r15g6b36w2k6w2g30r32k6ba4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0/"><circle cx="154.4" cy="120.9" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/setts/s11/r24b4r8b8r4b16ba56k16bb4k12y4-b3c2010-ba640064-bb0000e0-k000000-r8c8c8c-yc89800/"><circle cx="145.0" cy="116.4" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><a href="/setts/s12/w10b12r40k12ba10k6b52r4y2r4b6w6-b082c54-ba486488-k101010-re01c18-we8e8e8-yf4bc3c/"><circle cx="196.8" cy="79.5" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s14/b20w2ba2w4r20b16ba4k34ba4b14r38k6y2k2-b501400-ba441800-k101010-r888888-wfcfcfc-ye8c000/"><circle cx="152.6" cy="100.7" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s8/w6g4r42k52b36k4b6y6-b2c2c80-g289c18-k101010-rc80000-wc0c0c0-yfccc00/"><circle cx="154.3" cy="135.3" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s8/w6r28wa2k4g4k32b40w2-b5c8ca8-g649848-k101010-ra00048-we8ccb8-waf0e0c8/"><circle cx="153.4" cy="114.1" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/setts/s8/w6g4r42k52b36k4b6y6-b2c4084-g00643c-k101010-rdc0000-we0e0e0-yfccc00/"><circle cx="149.5" cy="132.1" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s11/b90k24y8k8w12k8g100r114b8r20k8-b5a008c-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="148.8" cy="104.0" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s10/y8k64r20k4ra32k4r20k4b64ya8-b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000/"><circle cx="134.7" cy="108.6" r="4" fill="#3465a4"><title>Tribal</title></circle></a><circle cx="166.7" cy="105.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s11/b12w2b4r40g20y4g4y4b36r4k12-b1c0070-g006818-k101010-rc80000-wc0c0c0-yd09800/

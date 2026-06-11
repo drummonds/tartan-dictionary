@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/12 Y8 Ka6 Ka52 Y/150 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Monoch Airline](/setts/s6/y8k12y2k2y32k4-k101010-yd09800/) — ΔT 1.52
+1. [Kernow Spirit (Corporate)](/setts/s7/k28w8k16y90w6k2y4-k101010-we0e0e0-ye8c000/) — ΔT 1.53
+1. [Morris (Welsh Name)](/setts/s8/b6b3y3b2y3b4y48b4-b202060-ye8c000/) — ΔT 1.54
+1. [Baileville (Personal)](/setts/s7/y4k16y4k16y44r4y4-k101010-r901c38-ye8c000/) — ΔT 1.75
+1. [Wilbers](/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/) — ΔT 1.84
+1. [Port Moresby City Pipes & Drums](/setts/s5/g4w6k24y72r4-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.91
+1. [Baillieville](/setts/s7/y4k16y4k16y44r4y4-k000000-r802040-yf0c000/) — ΔT 1.95
+1. [Yellow Pencil](/setts/s8/g96y18g12y18g24y8g4y32-g5b3a15-yf5b92f/) — ΔT 1.97
+1. [Coca Cola (Corporate)](/setts/s5/w15g15w15g80r6-g604000-rc80000-wd4e8f4/) — ΔT 2.04
+1. [Bro-Dreger](/setts/s7/w6k10y6r6y64k4y6-k101010-r880000-we0e0e0-yb0840c/) — ΔT 2.04
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y8k12y2k2y32k4-k101010-yd09800/"><circle cx="448.7" cy="194.1" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><a href="/setts/s7/k28w8k16y90w6k2y4-k101010-we0e0e0-ye8c000/"><circle cx="392.4" cy="108.4" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><a href="/setts/s8/b6b3y3b2y3b4y48b4-b202060-ye8c000/"><circle cx="473.9" cy="116.6" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/setts/s7/y4k16y4k16y44r4y4-k101010-r901c38-ye8c000/"><circle cx="336.4" cy="177.9" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/"><circle cx="400.2" cy="152.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/setts/s5/g4w6k24y72r4-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="348.6" cy="131.9" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/setts/s7/y4k16y4k16y44r4y4-k000000-r802040-yf0c000/"><circle cx="331.5" cy="177.6" r="4" fill="#3465a4"><title>Baillieville</title></circle></a><a href="/setts/s8/g96y18g12y18g24y8g4y32-g5b3a15-yf5b92f/"><circle cx="439.4" cy="172.2" r="4" fill="#3465a4"><title>Yellow Pencil</title></circle></a><a href="/setts/s5/w15g15w15g80r6-g604000-rc80000-wd4e8f4/"><circle cx="446.9" cy="200.1" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/setts/s7/w6k10y6r6y64k4y6-k101010-r880000-we0e0e0-yb0840c/"><circle cx="470.1" cy="145.9" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><circle cx="430.3" cy="153.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/y150k52k6y8k12-k101010-ye8c000/

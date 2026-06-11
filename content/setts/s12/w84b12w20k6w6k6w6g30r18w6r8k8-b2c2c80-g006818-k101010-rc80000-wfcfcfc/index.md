@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Braveheart Dress (Fashion)](/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 0.08
+1. [Braveheart Warrior (Dress)](/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wffffff/) — ΔT 0.08
+1. [Braveheart - Warrior (dress)](/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.51
+1. [Strathyre Dress (Dance)](/setts/s11/w72g12r4g6w4g6ga12b8g4b4w4-b9058d8-g006818-ga604000-r880000-wf8f8f8/) — ΔT 0.96
+1. [Glenmore Green](/setts/s11/w76k20b4k6w4k6g16r6k4r6w4-b441800-g5c6428-k101010-ra07c58-wf0f0d8/) — ΔT 1.04
+1. [Boucherville Dress](/setts/s9/w40y4b10w8ba4b4ba4b4g2-b5c5c5c-ba1c0070-g003820-wffffff-yd09800/) — ΔT 1.09
+1. [Grant of Acharrow Artifact Tartan Tartan Number: 1844. Earliest known date: pre 2003 This tartan can be seen in the form of an Arisaid at Kingussie museum. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w12r4w76g16b12w4b4w4y28r14g4r6w4-b2c2c80-g006818-rc80000-we0e0e0-ya08858/) — ΔT 1.15
+1. [Boucherville Dress (District)](/setts/s9/w40y4b10w8ba4b4ba4b4g2-b5c5c5c-ba1c0070-g003820-we0e0e0-yd09800/) — ΔT 1.17
+1. [Grant of Acharrow](/setts/s13/w12r4w76g16b12w4b4w4ra28r14g4r6w4-b304080-g008000-rc00000-ra906030-we0e0e0/) — ΔT 1.18
+1. [Stuart/Stewart Dress](/setts/s12/w78b6k12y6k6w6k6g16r10k6r6w6-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="245.5" cy="93.9" r="4" fill="#3465a4"><title>Braveheart Dress (Fashion)</title></circle></a><a href="/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wffffff/"><circle cx="244.7" cy="93.4" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="249.0" cy="98.3" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress)</title></circle></a><a href="/setts/s11/w72g12r4g6w4g6ga12b8g4b4w4-b9058d8-g006818-ga604000-r880000-wf8f8f8/"><circle cx="291.6" cy="75.4" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s11/w76k20b4k6w4k6g16r6k4r6w4-b441800-g5c6428-k101010-ra07c58-wf0f0d8/"><circle cx="263.8" cy="76.2" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s9/w40y4b10w8ba4b4ba4b4g2-b5c5c5c-ba1c0070-g003820-wffffff-yd09800/"><circle cx="293.7" cy="91.7" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/setts/s13/w12r4w76g16b12w4b4w4y28r14g4r6w4-b2c2c80-g006818-rc80000-we0e0e0-ya08858/"><circle cx="256.7" cy="80.9" r="4" fill="#3465a4"><title>Grant of Acharrow Artifact Tartan Tartan Number: 1844. Earliest known date: pre 2003 This tartan can be seen in the form of an Arisaid at Kingussie museum. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w40y4b10w8ba4b4ba4b4g2-b5c5c5c-ba1c0070-g003820-we0e0e0-yd09800/"><circle cx="306.6" cy="99.3" r="4" fill="#3465a4"><title>Boucherville Dress (District)</title></circle></a><a href="/setts/s13/w12r4w76g16b12w4b4w4ra28r14g4r6w4-b304080-g008000-rc00000-ra906030-we0e0e0/"><circle cx="257.6" cy="81.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w78b6k12y6k6w6k6g16r10k6r6w6-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="224.7" cy="71.6" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><circle cx="250.1" cy="92.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/w84b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/

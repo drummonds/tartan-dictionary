@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/8 LN4 K56 R60 K2 R/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cunningham](/setts/s7/k6r2k60r56k2r2w6-k101010-rdc0000-we0e0e0/) — ΔT 0.61
+1. [Knights Templar Htg (Corporate)](/setts/s5/k44w2k24r86w2-k101010-rc80000-wf8f8f8/) — ΔT 0.90
+1. [Ramsay (Red)](/setts/s6/k8w2k56r60b2r6-b440044-k101010-rc80000-wf8f8f8/) — ΔT 0.94
+1. [Las Vegas Fire Fighters](/setts/s8/r2k6w4k56r60k2r4w2-k101010-rc80000-wc0c0c0/) — ΔT 0.94
+1. [Masai Shuka 15 (Artefact)](/setts/s5/r40k4r4k30w2-k101010-rc80000-we0e0e0/) — ΔT 0.99
+1. [Cunningham #3](/setts/s7/k6r2k60r56b2r2w6-b2c4084-k101010-rdc0000-we0e0e0/) — ΔT 1.05
+1. [Ramsay of Dalhousie](/setts/s6/k8w4k56r60k2r6-k000000-rc00000-we0e0e0/) — ΔT 1.06
+1. [University of Nebraska Alumni Association](/setts/s8/w12k4w4k62r82k4r4k8-k101010-rc80000-we0e0e0/) — ΔT 1.08
+1. [Rosser (Welsh Name)](/setts/s6/r16k57r36k2r4r2-k101010-rc80000/) — ΔT 1.09
+1. [Aragon (Erskine)](/setts/s6/k12r2k48r56k2r8-k101010-rc80000/) — ΔT 1.09
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k6r2k60r56k2r2w6-k101010-rdc0000-we0e0e0/"><circle cx="376.2" cy="135.4" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/setts/s5/k44w2k24r86w2-k101010-rc80000-wf8f8f8/"><circle cx="410.4" cy="158.2" r="4" fill="#3465a4"><title>Knights Templar Htg (Corporate)</title></circle></a><a href="/setts/s6/k8w2k56r60b2r6-b440044-k101010-rc80000-wf8f8f8/"><circle cx="366.8" cy="141.8" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/setts/s8/r2k6w4k56r60k2r4w2-k101010-rc80000-wc0c0c0/"><circle cx="381.3" cy="128.5" r="4" fill="#3465a4"><title>Las Vegas Fire Fighters</title></circle></a><a href="/setts/s5/r40k4r4k30w2-k101010-rc80000-we0e0e0/"><circle cx="387.3" cy="186.1" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/setts/s7/k6r2k60r56b2r2w6-b2c4084-k101010-rdc0000-we0e0e0/"><circle cx="348.6" cy="119.5" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/setts/s6/k8w4k56r60k2r6-k000000-rc00000-we0e0e0/"><circle cx="360.1" cy="155.2" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><a href="/setts/s8/w12k4w4k62r82k4r4k8-k101010-rc80000-we0e0e0/"><circle cx="334.8" cy="139.7" r="4" fill="#3465a4"><title>University of Nebraska Alumni Association</title></circle></a><a href="/setts/s6/r16k57r36k2r4r2-k101010-rc80000/"><circle cx="361.8" cy="166.5" r="4" fill="#3465a4"><title>Rosser (Welsh Name)</title></circle></a><a href="/setts/s6/k12r2k48r56k2r8-k101010-rc80000/"><circle cx="417.2" cy="184.3" r="4" fill="#3465a4"><title>Aragon (Erskine)</title></circle></a><circle cx="370.5" cy="152.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k8w4k56r60k2r6-k101010-rdc0000-we0e0e0/

@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LP | <code style="background-color:#A8ACE8;"><span style="color:#A8ACE8;filter:grayscale(1) invert(1) contrast(100);">#A8ACE8</span></code> `#A8ACE8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.22 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacDougall 1](/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b8080d0-ba5480b0-k000000-rc00000-we0e0e0/) — ΔT 0.67
+1. [Unnamed - C19th (Annie Oakley)](/setts/s14/w16k4g40k4b28k4w16k4b20k4b8k4r80k8-b202060-g003820-k101010-rd05054-wfcfcfc/) — ΔT 0.75
+1. [Popular](/setts/s14/b16k32r34ba38r8k4b14k6r6k4w10k2r6k6-b5c8ca8-ba2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 0.78
+1. [Popular Fancy Tartan Tartan Number: 1987. Earliest known date: pre 2003 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b16k32r34ba38r8k4b14k6r6k4w10k2r6k6-b5c8ca8-ba2c2c80-k101010-rc80000-we0e0e0/) — ΔT 0.82
+1. [Mars Exploration](/setts/s15/r46b2g2r6b4r2b24k6w12k12b8g4k4g6k4-b1c0070-g00643c-k101010-rfa4b00-wffffff/) — ΔT 0.85
+1. [MacDougall #7](/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b0596fa-ba3c82af-k101010-rdc0000-we0e0e0/) — ΔT 0.91
+1. [Popular](/setts/s14/b16k32r34ba38r8k4b14k6r6k4w10k2r6k6-b5480b0-ba304080-k000000-rc00000-we0e0e0/) — ΔT 1.03
+1. [Harris (Personal)](/setts/s14/w12b8k12b60k20r8k6r8k6r36k2w8k2r8-b2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 1.07
+1. [Willox (Name)](/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k56g10wa2-b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc/) — ΔT 1.09
+1. [Salaberry-de-Valleyfield (District)](/setts/s14/b40w6b8w6b8w6r44g4k2g4y32w2k4w2-b1c0070-g289c18-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b8080d0-ba5480b0-k000000-rc00000-we0e0e0/"><circle cx="172.6" cy="91.7" r="4" fill="#3465a4"><title>MacDougall 1</title></circle></a><a href="/setts/s14/w16k4g40k4b28k4w16k4b20k4b8k4r80k8-b202060-g003820-k101010-rd05054-wfcfcfc/"><circle cx="144.0" cy="85.6" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/setts/s14/b16k32r34ba38r8k4b14k6r6k4w10k2r6k6-b5c8ca8-ba2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="124.8" cy="114.1" r="4" fill="#3465a4"><title>Popular</title></circle></a><a href="/setts/s14/b16k32r34ba38r8k4b14k6r6k4w10k2r6k6-b5c8ca8-ba2c2c80-k101010-rc80000-we0e0e0/"><circle cx="128.6" cy="115.9" r="4" fill="#3465a4"><title>Popular Fancy Tartan Tartan Number: 1987. Earliest known date: pre 2003 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r46b2g2r6b4r2b24k6w12k12b8g4k4g6k4-b1c0070-g00643c-k101010-rfa4b00-wffffff/"><circle cx="174.5" cy="74.3" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><a href="/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b0596fa-ba3c82af-k101010-rdc0000-we0e0e0/"><circle cx="173.4" cy="93.2" r="4" fill="#3465a4"><title>MacDougall #7</title></circle></a><a href="/setts/s14/b16k32r34ba38r8k4b14k6r6k4w10k2r6k6-b5480b0-ba304080-k000000-rc00000-we0e0e0/"><circle cx="114.5" cy="112.4" r="4" fill="#3465a4"><title>Popular</title></circle></a><a href="/setts/s14/w12b8k12b60k20r8k6r8k6r36k2w8k2r8-b2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="203.2" cy="97.3" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k56g10wa2-b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc/"><circle cx="171.7" cy="82.6" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/setts/s14/b40w6b8w6b8w6r44g4k2g4y32w2k4w2-b1c0070-g289c18-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="134.0" cy="64.4" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><circle cx="158.6" cy="96.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/b30w4wa16w4b84k84r84wa16r8wa8r8wa8r20-b2c2c80-k101010-rc80000-wa8ace8-wae0e0e0/

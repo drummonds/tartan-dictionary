@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/12 K4 N12 P16 G/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacTeddy](/setts/s5/b12w40ba40g40r8-b5c8ca8-ba2c2c80-g207810-rc80000-we0e0e0/) — ΔT 1.54
+1. [MacTeddy](/setts/s5/w12wa40b40g40k8-b0000cd-g008b00-k000000-w82cffd-wae0e0e0/) — ΔT 1.62
+1. [Clan Haggis World (Corporate)](/setts/s5/r26y26g26b44w8-b1044ad-g649848-rca2625-wf9f5ef-yf8f85d/) — ΔT 1.71
+1. [Becker (Name)](/setts/s6/w24wa16b24r24k24y8-b2c2c80-k101010-rc80000-w98c8e8-waa8ace8-yfccc00/) — ΔT 1.86
+1. [Pride of the Glen](/setts/s4/g12b12ba16w4-b000080-ba780078-g006818-wffffff/) — ΔT 1.89
+1. [Battle of Prestonpans (1745) Heritage Trust, The](/setts/s5/b36r48g36b20w8-b0000cd-g008b00-re3170d-wffffff/) — ΔT 1.89
+1. [Pride of the Glen](/setts/s4/g12b12ba16w4-b2c2c80-ba780078-g006818-wfcfcfc/) — ΔT 1.90
+1. [Clan Haggis World (Corporate)](/setts/s5/r26y26g26b44w8-b2c2c80-g006818-rc8002c-wfcfcfc-ydc943c/) — ΔT 1.92
+1. [MacBlain (2016)](/setts/s6/b50ba30w20g30k10y10-b2c2c80-ba6c0070-g004c00-k000000-wf8f8f8-yf8e38c/) — ΔT 1.96
+1. [Edinburgh Military Tattoo Dress](/setts/s8/k12w22b22r26ba34w20k4w8-b0596fa-ba2c4084-k101010-rdc0000-we0e0e0/) — ΔT 1.99
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b12w40ba40g40r8-b5c8ca8-ba2c2c80-g207810-rc80000-we0e0e0/"><circle cx="50.3" cy="238.5" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/w12wa40b40g40k8-b0000cd-g008b00-k000000-w82cffd-wae0e0e0/"><circle cx="29.6" cy="236.4" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/r26y26g26b44w8-b1044ad-g649848-rca2625-wf9f5ef-yf8f85d/"><circle cx="50.5" cy="238.6" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s6/w24wa16b24r24k24y8-b2c2c80-k101010-rc80000-w98c8e8-waa8ace8-yfccc00/"><circle cx="14.0" cy="256.2" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><a href="/setts/s4/g12b12ba16w4-b000080-ba780078-g006818-wffffff/"><circle cx="98.8" cy="296.7" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/setts/s5/b36r48g36b20w8-b0000cd-g008b00-re3170d-wffffff/"><circle cx="119.7" cy="253.4" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/setts/s4/g12b12ba16w4-b2c2c80-ba780078-g006818-wfcfcfc/"><circle cx="110.3" cy="298.9" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/setts/s5/r26y26g26b44w8-b2c2c80-g006818-rc8002c-wfcfcfc-ydc943c/"><circle cx="71.5" cy="246.5" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s6/b50ba30w20g30k10y10-b2c2c80-ba6c0070-g004c00-k000000-wf8f8f8-yf8e38c/"><circle cx="32.0" cy="211.1" r="4" fill="#3465a4"><title>MacBlain (2016)</title></circle></a><a href="/setts/s8/k12w22b22r26ba34w20k4w8-b0596fa-ba2c4084-k101010-rdc0000-we0e0e0/"><circle cx="60.8" cy="192.6" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo Dress</title></circle></a><circle cx="14.0" cy="269.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/b12k4w12ba16y12-b275edc-ba761ca0-k101010-wd1d5cd-y0bb43f/

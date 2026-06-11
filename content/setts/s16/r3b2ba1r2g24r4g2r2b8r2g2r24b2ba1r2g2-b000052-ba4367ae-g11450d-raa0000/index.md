@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DG | <code style="background-color:#11450D;"><span style="color:#11450D;filter:grayscale(1) invert(1) contrast(100);">#11450D</span></code> `#11450D` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.10 |
 | DR | <code style="background-color:#AA0000;"><span style="color:#AA0000;filter:grayscale(1) invert(1) contrast(100);">#AA0000</span></code> `#AA0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.06 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Stewart of Appin](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b000052-ba4367ae-g11450d-raa0000/) — ΔT 0.00
+1. [Stewart of Appin - 1906](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b2c2c80-ba5c8ca8-g006818-rc80000/) — ΔT 0.83
+1. [Unidentified Coat](/setts/s14/g12r4g4r48b2ba2r4ba24r4ba2b2r4g48r4-b3c82af-ba2c4084-g005020-rdc0000/) — ΔT 0.90
+1. [Stewart of Appin](/setts/s16/r3b2w1r2g24r4g2r2b8r2g2r24b2w1r2g2-b000064-g004c00-rc80000-wd0d0d0/) — ΔT 0.93
+1. [Drumbeg](/setts/s12/r12b3r3ba4r16ra3r3ra3r3ra16ba52r4-b5c5c5c-ba14283c-rb07430-ra880000/) — ΔT 0.93
+1. [MacDonald of Glenaladale](/setts/s12/r14ra4b4r4g64r12b24r82g4r10ra4g10-b304080-g008000-r900030-rad03030/) — ΔT 1.02
+1. [MacQuarrie 1815](/setts/s13/g4r6g4r104g4r4b56r4g84r4g4r6g4-b000052-g11450d-raa0000/) — ΔT 1.02
+1. [MacQuarrie 1815](/setts/s13/g2r3g2r52g2r2b28r2g42r2g2r3g2-b000052-g11450d-raa0000/) — ΔT 1.02
+1. [Harbor Club (Corporate)](/setts/s10/r94g28k10y4k6g14k6y4k10g28-g006428-k101010-r800028-ye8c000/) — ΔT 1.07
+1. [Grant and Drummond](/setts/s15/r6b4r4g76r4g4r4b20r4w4r74b4r4b4r6-b1c0070-g006818-rc80000-wa8ace8/) — ΔT 1.08
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b000052-ba4367ae-g11450d-raa0000/"><circle cx="330.5" cy="107.6" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b2c2c80-ba5c8ca8-g006818-rc80000/"><circle cx="323.4" cy="99.9" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/setts/s14/g12r4g4r48b2ba2r4ba24r4ba2b2r4g48r4-b3c82af-ba2c4084-g005020-rdc0000/"><circle cx="294.5" cy="106.8" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/setts/s16/r3b2w1r2g24r4g2r2b8r2g2r24b2w1r2g2-b000064-g004c00-rc80000-wd0d0d0/"><circle cx="306.0" cy="93.7" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s12/r12b3r3ba4r16ra3r3ra3r3ra16ba52r4-b5c5c5c-ba14283c-rb07430-ra880000/"><circle cx="305.2" cy="133.1" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><a href="/setts/s12/r14ra4b4r4g64r12b24r82g4r10ra4g10-b304080-g008000-r900030-rad03030/"><circle cx="348.6" cy="132.2" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s13/g4r6g4r104g4r4b56r4g84r4g4r6g4-b000052-g11450d-raa0000/"><circle cx="346.0" cy="123.0" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s13/g2r3g2r52g2r2b28r2g42r2g2r3g2-b000052-g11450d-raa0000/"><circle cx="346.0" cy="123.0" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s10/r94g28k10y4k6g14k6y4k10g28-g006428-k101010-r800028-ye8c000/"><circle cx="321.2" cy="135.7" r="4" fill="#3465a4"><title>Harbor Club (Corporate)</title></circle></a><a href="/setts/s15/r6b4r4g76r4g4r4b20r4w4r74b4r4b4r6-b1c0070-g006818-rc80000-wa8ace8/"><circle cx="318.1" cy="96.0" r="4" fill="#3465a4"><title>Grant and Drummond</title></circle></a><circle cx="330.5" cy="107.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2-b000052-ba4367ae-g11450d-raa0000/

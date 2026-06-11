@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/36 R8 G8 R8 G8 R32 G44 LN/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Confederate Artillery](/setts/s6/g4r28g16r6g24ra4-g003014-ra0783c-ra8c0000/) — ΔT 1.22
+1. [Confederate Infantry](/setts/s6/b4g24r6g16r28g4-b00008c-g003014-ra0783c/) — ΔT 1.27
+1. [Twisted Kilt Society](/setts/s10/g56y24g8y16g8y24g48y8ya8y16-g003c14-ya0a0a0-yae0a126/) — ΔT 1.33
+1. [Princess Marina Royal Tartan Tartan Number: 1468. Earliest known date: pre 2003 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g006818-rc80000-we0e0e0/) — ΔT 1.34
+1. [Leeds, University of (Dance)](/setts/s8/g68r8g8r8g8r24g40w10-g006818-ra00048-we0e0e0/) — ΔT 1.36
+1. [Grange School](/setts/s7/b54y6b28k6b26k6ya46-b606060-k000000-yb0b0b0-yac89800/) — ΔT 1.39
+1. [Princess Marina](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g005020-rdc0000-we0e0e0/) — ΔT 1.42
+1. [Confederate Cavalry (Military)](/setts/s6/g4ga28g16ga6g24y4-g003820-ga8c7038-yd09800/) — ΔT 1.43
+1. [Unidentified #42](/setts/s7/y4r12g28r12g28r12y4-g005020-rdc0000-ye8c000/) — ΔT 1.44
+1. [Ayrton of Laoch (Personal)](/setts/s10/r4g24y4g24b6g4b4g4b8r4-b2c2c80-g006818-rc80000-ye8c000/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g4r28g16r6g24ra4-g003014-ra0783c-ra8c0000/"><circle cx="320.3" cy="261.3" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/setts/s6/b4g24r6g16r28g4-b00008c-g003014-ra0783c/"><circle cx="313.4" cy="260.5" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/setts/s10/g56y24g8y16g8y24g48y8ya8y16-g003c14-ya0a0a0-yae0a126/"><circle cx="295.5" cy="224.9" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><a href="/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g006818-rc80000-we0e0e0/"><circle cx="363.9" cy="207.6" r="4" fill="#3465a4"><title>Princess Marina Royal Tartan Tartan Number: 1468. Earliest known date: pre 2003 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g68r8g8r8g8r24g40w10-g006818-ra00048-we0e0e0/"><circle cx="430.5" cy="224.9" r="4" fill="#3465a4"><title>Leeds, University of (Dance)</title></circle></a><a href="/setts/s7/b54y6b28k6b26k6ya46-b606060-k000000-yb0b0b0-yac89800/"><circle cx="334.3" cy="215.9" r="4" fill="#3465a4"><title>Grange School</title></circle></a><a href="/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g005020-rdc0000-we0e0e0/"><circle cx="354.5" cy="201.9" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/setts/s6/g4ga28g16ga6g24y4-g003820-ga8c7038-yd09800/"><circle cx="336.7" cy="270.6" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/setts/s7/y4r12g28r12g28r12y4-g005020-rdc0000-ye8c000/"><circle cx="302.3" cy="245.0" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><a href="/setts/s10/r4g24y4g24b6g4b4g4b8r4-b2c2c80-g006818-rc80000-ye8c000/"><circle cx="343.7" cy="218.1" r="4" fill="#3465a4"><title>Ayrton of Laoch (Personal)</title></circle></a><circle cx="350.8" cy="249.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g36r8g8r8g8r32g44w8-g006818-ra00048-we0e0e0/

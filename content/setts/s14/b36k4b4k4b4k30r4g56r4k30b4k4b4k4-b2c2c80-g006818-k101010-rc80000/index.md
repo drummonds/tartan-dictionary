@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Black from Cumnock (Personal)](/setts/s13/b16k2b2k2b2k16y2g28y2k16b16k2b2-b2c4084-g005020-k101010-ye8c000/) — ΔT 0.71
+1. [Scottish Tourist Board (1981) (Corp)](/setts/s11/b60k4b4k4b4k64g30r4g8r8g60-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.71
+1. [Stewart/Stuart](/setts/s17/g34k2b2k2g34r3k34r2k34r3b33k2g2k2g2k2b33-b202060-g006818-k101010-rc80000/) — ΔT 0.74
+1. [Campbell of Breadalbane #2](/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b2c4084-g005020-k101010-ye8c000/) — ΔT 0.84
+1. [Hope-Vere/Weir #2](/setts/s14/g38k2g8k2g6k20b40y2k14y2b40k20y6g2-b2c4084-g005020-k101010-ye8c000/) — ΔT 0.88
+1. [Scottish Tourist Board (1981)](/setts/s20/b60k4b4k4b4k64g30r4g8r8g60r8g8r4g30k64b4k4b4k4-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.88
+1. [Campbell of Breadalbane (Military)](/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b202060-g006818-k101010-ye8c000/) — ΔT 0.90
+1. [Stewart of Appin (Clan)](/setts/s17/b24k2g4k2g4k2b24r4k24r2k24r4g24k2b4k2g24-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.93
+1. [Hope-Vere/Weir](/setts/s17/g36k2b6k2g6k16b36k2y2k10y2k2b36k16g4k2b4-b2c2c80-g006818-k101010-ye8c000/) — ΔT 0.94
+1. [Gordon #2](/setts/s10/b56k6b6k6b6k44g44y4g5y8-b2c4084-g005020-k101010-ye8c000/) — ΔT 0.95
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b16k2b2k2b2k16y2g28y2k16b16k2b2-b2c4084-g005020-k101010-ye8c000/"><circle cx="233.1" cy="172.9" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/setts/s11/b60k4b4k4b4k64g30r4g8r8g60-b2c2c80-g006818-k101010-rc80000/"><circle cx="248.8" cy="166.0" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><a href="/setts/s17/g34k2b2k2g34r3k34r2k34r3b33k2g2k2g2k2b33-b202060-g006818-k101010-rc80000/"><circle cx="241.7" cy="149.4" r="4" fill="#3465a4"><title>Stewart/Stuart</title></circle></a><a href="/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b2c4084-g005020-k101010-ye8c000/"><circle cx="209.6" cy="178.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s14/g38k2g8k2g6k20b40y2k14y2b40k20y6g2-b2c4084-g005020-k101010-ye8c000/"><circle cx="249.0" cy="155.9" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/setts/s20/b60k4b4k4b4k64g30r4g8r8g60r8g8r4g30k64b4k4b4k4-b2c2c80-g006818-k101010-rc80000/"><circle cx="237.7" cy="132.5" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981)</title></circle></a><a href="/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b202060-g006818-k101010-ye8c000/"><circle cx="202.3" cy="175.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/setts/s17/b24k2g4k2g4k2b24r4k24r2k24r4g24k2b4k2g24-b2c2c80-g006818-k101010-rc80000/"><circle cx="198.3" cy="164.7" r="4" fill="#3465a4"><title>Stewart of Appin (Clan)</title></circle></a><a href="/setts/s17/g36k2b6k2g6k16b36k2y2k10y2k2b36k16g4k2b4-b2c2c80-g006818-k101010-ye8c000/"><circle cx="277.9" cy="142.0" r="4" fill="#3465a4"><title>Hope-Vere/Weir</title></circle></a><a href="/setts/s10/b56k6b6k6b6k44g44y4g5y8-b2c4084-g005020-k101010-ye8c000/"><circle cx="225.1" cy="173.5" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><circle cx="252.4" cy="155.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s14/b36k4b4k4b4k30r4g56r4k30b4k4b4k4-b2c2c80-g006818-k101010-rc80000/

@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/14 LN8 K42 N32 DB32 R/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mekos, The](/setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/) — ΔT 0.87
+1. [Devon Companion District Tartan Tartan Number: 1283. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, "So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r20b16y4b16k16ba16w4-b202060-ba480800-k101010-r888888-we0e0e0-ye8c000/) — ΔT 0.89
+1. [Eichelberger Family, Jörg (Personal)](/setts/s7/k40r12y16b48g16r16w8-b1a2b47-g124b24-k010512-r89051b-wddd5af-yef8f06/) — ΔT 0.91
+1. [Bro-Menez Are (Corporate)](/setts/s7/b16k50g26r10y10ra10r16-b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00/) — ΔT 0.96
+1. [Devon Companion](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/) — ΔT 0.97
+1. [Jamestown Parish Church (Corporate)](/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.98
+1. [MacCaughan or MacEachain Clan Tartan Tartan Number: 169. Earliest known date: 1972 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r8g24k8b24k4ra8-b2c2c80-g006818-k101010-rb468ac-rac80000/) — ΔT 1.05
+1. [Gracey (2013)](/setts/s7/r6b16g40k40ba34k6y6-b780078-ba202060-g006818-k101010-rc80050-y48a4c0/) — ΔT 1.08
+1. [Cooke (Personal)](/setts/s7/k24b8ba48g32r20k8g12-b2888c4-ba2c2c80-g006818-k101010-rc8002c/) — ΔT 1.10
+1. [MacEachain (Clan)](/setts/s6/r8k4b24k8g24ra8-b1c0070-g006818-k101010-r880000-ra9c68a4/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/"><circle cx="83.2" cy="214.3" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s7/r20b16y4b16k16ba16w4-b202060-ba480800-k101010-r888888-we0e0e0-ye8c000/"><circle cx="52.3" cy="230.6" r="4" fill="#3465a4"><title>Devon Companion District Tartan Tartan Number: 1283. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k40r12y16b48g16r16w8-b1a2b47-g124b24-k010512-r89051b-wddd5af-yef8f06/"><circle cx="63.3" cy="202.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/setts/s7/b16k50g26r10y10ra10r16-b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00/"><circle cx="94.7" cy="210.2" r="4" fill="#3465a4"><title>Bro-Menez Are (Corporate)</title></circle></a><a href="/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/"><circle cx="50.1" cy="229.0" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="70.8" cy="201.2" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/setts/s6/r8g24k8b24k4ra8-b2c2c80-g006818-k101010-rb468ac-rac80000/"><circle cx="113.3" cy="233.1" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan Tartan Number: 169. Earliest known date: 1972 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r6b16g40k40ba34k6y6-b780078-ba202060-g006818-k101010-rc80050-y48a4c0/"><circle cx="106.5" cy="208.0" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/setts/s7/k24b8ba48g32r20k8g12-b2888c4-ba2c2c80-g006818-k101010-rc8002c/"><circle cx="110.4" cy="231.8" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/setts/s6/r8k4b24k8g24ra8-b1c0070-g006818-k101010-r880000-ra9c68a4/"><circle cx="114.7" cy="237.1" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><circle cx="61.1" cy="227.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/g14w8k42b32ba32r10-b5c5c5c-ba2c2c80-g006818-k101010-rc80000-we0e0e0/

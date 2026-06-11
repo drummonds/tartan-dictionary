@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/26 LN4 K8 R/56 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacGregor, Black (Personal)](/setts/s5/r82k38r14k18w6-k101010-rc80000-wfcfcfc/) — ΔT 0.48
+1. [Dunbar (District)](/setts/s4/r56k8w4k26-k101010-rcc4438-we0e0e0/) — ΔT 0.59
+1. [MacKeane](/setts/s5/r8k16r24k2y2-k101010-rc80000-ye8c000/) — ΔT 0.62
+1. [Hopkins (Name)](/setts/s5/r72k36r8k14w4-k101010-rc80000-we0e0e0/) — ΔT 0.64
+1. [Dunbar](/setts/s4/r56k8w4k26-k000000-rc00000-we0e0e0/) — ΔT 0.90
+1. [Masai Shuka 15 (Artefact)](/setts/s5/r40k4r4k30w2-k101010-rc80000-we0e0e0/) — ΔT 0.93
+1. [MacIver](/setts/s5/k32r4k4r24w2-k101010-rdc0000-we0e0e0/) — ΔT 1.05
+1. [Billy Apple® Red](/setts/s4/g6r78k48y6-g006818-k101010-rdc0000-yffe600/) — ΔT 1.06
+1. [MacLeod Black & Red](/setts/s5/r16k2r16k24r2-k101010-rdc0000/) — ΔT 1.17
+1. [Glen Shiel (Fashion)](/setts/s5/r78w18r6g18w6-g003820-r880000-we8ccb8/) — ΔT 1.18
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r82k38r14k18w6-k101010-rc80000-wfcfcfc/"><circle cx="384.8" cy="205.0" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s4/r56k8w4k26-k101010-rcc4438-we0e0e0/"><circle cx="377.0" cy="212.8" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><a href="/setts/s5/r8k16r24k2y2-k101010-rc80000-ye8c000/"><circle cx="387.3" cy="215.9" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/setts/s5/r72k36r8k14w4-k101010-rc80000-we0e0e0/"><circle cx="401.2" cy="192.1" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/setts/s4/r56k8w4k26-k000000-rc00000-we0e0e0/"><circle cx="368.4" cy="210.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s5/r40k4r4k30w2-k101010-rc80000-we0e0e0/"><circle cx="387.3" cy="186.1" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/setts/s5/k32r4k4r24w2-k101010-rdc0000-we0e0e0/"><circle cx="361.0" cy="197.5" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s4/g6r78k48y6-g006818-k101010-rdc0000-yffe600/"><circle cx="331.7" cy="194.6" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/setts/s5/r16k2r16k24r2-k101010-rdc0000/"><circle cx="379.0" cy="239.5" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/setts/s5/r78w18r6g18w6-g003820-r880000-we8ccb8/"><circle cx="420.1" cy="194.9" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><circle cx="385.5" cy="213.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/r56k8w4k26-k101010-rc80000-we0e0e0/

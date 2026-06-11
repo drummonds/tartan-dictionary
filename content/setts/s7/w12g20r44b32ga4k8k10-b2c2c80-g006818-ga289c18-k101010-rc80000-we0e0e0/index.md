@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/10 K8 Ga4 DBa32 R44 G20 LN/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Nicolson of Taransay (Personal)](/setts/s7/w12g20r44b32ga4ga8ga10-b2c2c80-g006818-ga289c18-rc80000-we0e0e0/) — ΔT 0.78
+1. [Manderson #2](/setts/s10/k4r20k10g16k24ra40b32ra8b10w4-b2888c4-g285800-k101010-r888888-rac80000-we0e0e0/) — ΔT 0.97
+1. [Connelly, James (Personal)](/setts/s8/g48b24r4b24b16y32w8y8-b440044-g003820-rc80000-we0e0e0-ye8c000/) — ΔT 0.98
+1. [Wallace Memorial Centenary](/setts/s7/w4y38k4b30g4r40y4-b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0/) — ΔT 1.07
+1. [Comyn/Cumming](/setts/s9/b16k8b16k40y4g40r16w4r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.08
+1. [Wilson's, No 83](/setts/s8/b28w4r6w4r30g36y6k28-b800080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.08
+1. [Unidentified No 14](/setts/s9/r22b6ba10y4r4w4g22ba8y3-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 1.08
+1. [Casey (Personal)](/setts/s7/r10b4ba32k26y26k4w6-b5c8ca8-ba9058d8-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.12
+1. [Eichelberger (Perrsonal)](/setts/s7/k40r12y6b48g6r16w8-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 1.13
+1. [Galvez-Brown (Personal)](/setts/s7/b72y10r24ra18ba10w24y14-b003c64-ba440044-r880000-rac80000-wfcfcfc-ybc8c00/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w12g20r44b32ga4ga8ga10-b2c2c80-g006818-ga289c18-rc80000-we0e0e0/"><circle cx="102.5" cy="161.1" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s10/k4r20k10g16k24ra40b32ra8b10w4-b2888c4-g285800-k101010-r888888-rac80000-we0e0e0/"><circle cx="70.4" cy="156.0" r="4" fill="#3465a4"><title>Manderson #2</title></circle></a><a href="/setts/s8/g48b24r4b24b16y32w8y8-b440044-g003820-rc80000-we0e0e0-ye8c000/"><circle cx="119.8" cy="156.3" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/setts/s7/w4y38k4b30g4r40y4-b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0/"><circle cx="135.4" cy="152.3" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/setts/s9/b16k8b16k40y4g40r16w4r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="81.9" cy="161.5" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s8/b28w4r6w4r30g36y6k28-b800080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="45.0" cy="155.3" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/setts/s9/r22b6ba10y4r4w4g22ba8y3-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="84.5" cy="161.0" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/setts/s7/r10b4ba32k26y26k4w6-b5c8ca8-ba9058d8-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="59.5" cy="160.9" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/setts/s7/k40r12y6b48g6r16w8-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="114.0" cy="168.2" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/setts/s7/b72y10r24ra18ba10w24y14-b003c64-ba440044-r880000-rac80000-wfcfcfc-ybc8c00/"><circle cx="117.3" cy="164.2" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><circle cx="101.6" cy="160.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/w12g20r44b32ga4k8k10-b2c2c80-g006818-ga289c18-k101010-rc80000-we0e0e0/

@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/6 G72 DB56 R4 DB4 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hydesville Tower (Corporate)](/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/) — ΔT 0.74
+1. [Hardie Clan Tartan Tartan Number: 3903. Earliest known date: 2001 Designed by Paul Hardie of Ecclesmachan, West Lothian so that the Hardie family could have their own tartan. Hardie's have worn the MacHardie tartan till now. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r8g18w4g48b74ra6-b2c2c80-g006818-r9c68a4-rac80000-we0e0e0/) — ΔT 0.74
+1. [Singh Name Tartan Tartan Number: 2600. Earliest known date: 1999 Created for the use of those with the name Singh. The proposer was Sirdar Iqubal Singh, Lord of Butley See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b6r6b72g34y4g42w4r6-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.80
+1. [Carmichael](/setts/s6/k6g72b56r4b4y6-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.86
+1. [Singh](/setts/s8/b6r6b72g34y4g42w4r6-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 0.93
+1. [Lowry Clan Tartan Tartan Number: 3203. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b12y4b2g50ba32k4ba8-b440044-ba2c2c80-g006818-k101010-ye8c000/) — ΔT 1.00
+1. [Pride of Yorkland (Fashion)](/setts/s6/g70k6b52k8ba8w6-b2c2c80-ba1c0070-g006818-k101010-wfcfcfc/) — ΔT 1.01
+1. [Militello, Massimiliano (Personal)](/setts/s6/r6w6b72g72k4r4-b1c0070-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.07
+1. [McFadden (Personal)](/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/) — ΔT 1.10
+1. [MX-5 Owners' Club](/setts/s7/r12b54ba4g4ba4g60w8-b2c2c80-ba2888c4-g006818-rc80000-wfcfcfc/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/"><circle cx="303.3" cy="161.0" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/setts/s6/r8g18w4g48b74ra6-b2c2c80-g006818-r9c68a4-rac80000-we0e0e0/"><circle cx="295.2" cy="176.2" r="4" fill="#3465a4"><title>Hardie Clan Tartan Tartan Number: 3903. Earliest known date: 2001 Designed by Paul Hardie of Ecclesmachan, West Lothian so that the Hardie family could have their own tartan. Hardie's have worn the MacHardie tartan till now. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b6r6b72g34y4g42w4r6-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="279.2" cy="154.1" r="4" fill="#3465a4"><title>Singh Name Tartan Tartan Number: 2600. Earliest known date: 1999 Created for the use of those with the name Singh. The proposer was Sirdar Iqubal Singh, Lord of Butley See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k6g72b56r4b4y6-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="292.4" cy="160.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/setts/s8/b6r6b72g34y4g42w4r6-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="277.1" cy="153.0" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/setts/s7/b12y4b2g50ba32k4ba8-b440044-ba2c2c80-g006818-k101010-ye8c000/"><circle cx="280.7" cy="155.0" r="4" fill="#3465a4"><title>Lowry Clan Tartan Tartan Number: 3203. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g70k6b52k8ba8w6-b2c2c80-ba1c0070-g006818-k101010-wfcfcfc/"><circle cx="248.2" cy="184.4" r="4" fill="#3465a4"><title>Pride of Yorkland (Fashion)</title></circle></a><a href="/setts/s6/r6w6b72g72k4r4-b1c0070-g006818-k101010-rc80000-we0e0e0/"><circle cx="269.1" cy="157.3" r="4" fill="#3465a4"><title>Militello, Massimiliano (Personal)</title></circle></a><a href="/setts/s8/b36ba4b32k26g6k4g84y6-b1c0070-ba6c0070-g006818-k101010-yd09800/"><circle cx="265.3" cy="155.6" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><a href="/setts/s7/r12b54ba4g4ba4g60w8-b2c2c80-ba2888c4-g006818-rc80000-wfcfcfc/"><circle cx="238.3" cy="155.9" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><circle cx="308.9" cy="167.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k6g72b56r4b4y6-b2c2c80-g006818-k101010-rc80000-ye8c000/

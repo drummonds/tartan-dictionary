@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/8 G32 K28 Y6 DB32 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dyce #3](/setts/s6/k8y4g24k24b24w4-b2c4084-g005020-k101010-we0e0e0-ye8c000/) — ΔT 0.58
+1. [MacCaughan, or MacEachain](/setts/s6/b8g24k8ba24k4r8-b800070-ba304080-g008000-k000000-rc00000/) — ΔT 0.59
+1. [Dyce Family Tartan Tartan Number: 1266. Earliest known date: 1880 From Ross-Craven research. Black guards on the white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k8y4g24k24b24w4-b2c2c80-g006818-k101010-we0e0e0-ye8c000/) — ΔT 0.64
+1. [Davidson of Tulloch (Clan)](/setts/s5/r6b42k42g42w6-b2c2c80-g006818-k101010-rc8002c-we0e0e0/) — ΔT 0.67
+1. [Mitchell Family Tartan Tartan Number: 2142. Earliest known date: 1816-20 Named in honour of General Billy Mitchell when it was adopted as the tartan of the United States Air Force pipe band. The sett is also known as Russell, Hunter and Galbraith. The earliest reference to the tartan is in the collection of the Highland Society of London where it is labelled Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k6g16k16r4b16w4-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.69
+1. [Cooke (Personal)](/setts/s7/k24b8ba48g32r20k8g12-b2888c4-ba2c2c80-g006818-k101010-rc8002c/) — ΔT 0.70
+1. [MacEachain (Clan)](/setts/s6/r8k4b24k8g24ra8-b1c0070-g006818-k101010-r880000-ra9c68a4/) — ΔT 0.70
+1. [MacCaughan or MacEachain Clan Tartan Tartan Number: 169. Earliest known date: 1972 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r8g24k8b24k4ra8-b2c2c80-g006818-k101010-rb468ac-rac80000/) — ΔT 0.71
+1. [Wellington](/setts/s6/b2r2b12k12g12w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 0.74
+1. [Hogarth of Firhill](/setts/s7/b4g12y2k12ba12k2ba2-b5c8ca8-ba2c2c80-g006818-k101010-ye8c000/) — ΔT 0.76
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8y4g24k24b24w4-b2c4084-g005020-k101010-we0e0e0-ye8c000/"><circle cx="131.8" cy="236.3" r="4" fill="#3465a4"><title>Dyce #3</title></circle></a><a href="/setts/s6/b8g24k8ba24k4r8-b800070-ba304080-g008000-k000000-rc00000/"><circle cx="90.9" cy="224.5" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/setts/s6/k8y4g24k24b24w4-b2c2c80-g006818-k101010-we0e0e0-ye8c000/"><circle cx="122.7" cy="231.8" r="4" fill="#3465a4"><title>Dyce Family Tartan Tartan Number: 1266. Earliest known date: 1880 From Ross-Craven research. Black guards on the white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r6b42k42g42w6-b2c2c80-g006818-k101010-rc8002c-we0e0e0/"><circle cx="122.9" cy="238.6" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/setts/s6/k6g16k16r4b16w4-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="91.9" cy="254.3" r="4" fill="#3465a4"><title>Mitchell Family Tartan Tartan Number: 2142. Earliest known date: 1816-20 Named in honour of General Billy Mitchell when it was adopted as the tartan of the United States Air Force pipe band. The sett is also known as Russell, Hunter and Galbraith. The earliest reference to the tartan is in the collection of the Highland Society of London where it is labelled Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k24b8ba48g32r20k8g12-b2888c4-ba2c2c80-g006818-k101010-rc8002c/"><circle cx="110.4" cy="231.8" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/setts/s6/r8k4b24k8g24ra8-b1c0070-g006818-k101010-r880000-ra9c68a4/"><circle cx="114.7" cy="237.1" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/setts/s6/r8g24k8b24k4ra8-b2c2c80-g006818-k101010-rb468ac-rac80000/"><circle cx="113.3" cy="233.1" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan Tartan Number: 169. Earliest known date: 1972 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b2r2b12k12g12w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="138.3" cy="232.7" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s7/b4g12y2k12ba12k2ba2-b5c8ca8-ba2c2c80-g006818-k101010-ye8c000/"><circle cx="111.6" cy="222.3" r="4" fill="#3465a4"><title>Hogarth of Firhill</title></circle></a><circle cx="104.1" cy="240.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k8g32k28y6b32r8-b2c2c80-g006818-k101010-rc80000-ye8c000/

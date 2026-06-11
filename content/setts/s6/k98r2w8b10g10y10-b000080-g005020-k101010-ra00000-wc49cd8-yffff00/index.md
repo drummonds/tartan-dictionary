@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/98 DR2 LP8 DB10 G10 Y/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Charlotte Fire Department](/setts/s6/k150r20g14y6b4w10-b202060-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 0.78
+1. [Charlotte Fire Department](/setts/s6/k156r20g14y6b4w10-b3c82af-g004c00-k101010-rdc0000-wffffff-yffd700/) — ΔT 0.82
+1. [Washington County Sheriff’s Office (Oregon)](/setts/s8/b12k12b12ba6w2k78y6k6-b778899-ba0000cd-k101010-wffffff-yffd700/) — ΔT 1.16
+1. [Washington County Sheriff's Office](/setts/s8/w12k12w12b6wa2k78y6k6-b1474b4-k101010-wc0c0c0-wae0e0e0-ybc8c00/) — ΔT 1.20
+1. [Christie Hunting (London) (Personal)](/setts/s6/g120w22r10b10k2y8-b1474b4-g003820-k101010-r880000-wf8f0e4-ybc8c00/) — ΔT 1.39
+1. [Cumnock](/setts/s8/g6b32k6ba4k90r2k4y6-b0000cd-baaa00ff-g008b00-k101010-rff0000-yffa500/) — ΔT 1.40
+1. [Pavelka Ltd](/setts/s8/g6k96g10w6g6ga4gb10wa6-g604000-ga006818-gb048888-k101010-wfcfcfc-wa98c8e8/) — ΔT 1.44
+1. [Cumnock District Tartan Tartan Number: 10436. Earliest known date: March 2011 Based on the MacMillan hunting tartan in honour of the founder of the Cumnock Games, Councillor James McMillan. The blue is from the lion rampant in the Cumnock coat of arms. The orange and red commemorate the great iron ore blast furnaces at Lugar and the surrounding black is for the coal mines that fed those furnaces and formed the heart of the Cumnock community. Approved by Cumnock Community Council. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g6b32k6ba4k90r2k4y6-b34349c-ba780078-g289c18-k101010-rf80000-yf88000/) — ΔT 1.46
+1. [Cumnock (District)](/setts/s8/g6b32k6ba4k90r2k4y6-b2c2c80-ba780078-g289c18-k101010-rc80000-yfcb464/) — ΔT 1.51
+1. [Pavelka Limited](/setts/s8/w6g10ga4y6wa6y10k96wa6-g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858/) — ΔT 1.54
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k150r20g14y6b4w10-b202060-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="452.5" cy="96.3" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/setts/s6/k156r20g14y6b4w10-b3c82af-g004c00-k101010-rdc0000-wffffff-yffd700/"><circle cx="458.1" cy="93.0" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/setts/s8/b12k12b12ba6w2k78y6k6-b778899-ba0000cd-k101010-wffffff-yffd700/"><circle cx="443.9" cy="104.5" r="4" fill="#3465a4"><title>Washington County Sheriff’s Office (Oregon)</title></circle></a><a href="/setts/s8/w12k12w12b6wa2k78y6k6-b1474b4-k101010-wc0c0c0-wae0e0e0-ybc8c00/"><circle cx="435.1" cy="98.9" r="4" fill="#3465a4"><title>Washington County Sheriff's Office</title></circle></a><a href="/setts/s6/g120w22r10b10k2y8-b1474b4-g003820-k101010-r880000-wf8f0e4-ybc8c00/"><circle cx="416.7" cy="86.2" r="4" fill="#3465a4"><title>Christie Hunting (London) (Personal)</title></circle></a><a href="/setts/s8/g6b32k6ba4k90r2k4y6-b0000cd-baaa00ff-g008b00-k101010-rff0000-yffa500/"><circle cx="410.5" cy="83.6" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/setts/s8/g6k96g10w6g6ga4gb10wa6-g604000-ga006818-gb048888-k101010-wfcfcfc-wa98c8e8/"><circle cx="383.3" cy="96.1" r="4" fill="#3465a4"><title>Pavelka Ltd</title></circle></a><a href="/setts/s8/g6b32k6ba4k90r2k4y6-b34349c-ba780078-g289c18-k101010-rf80000-yf88000/"><circle cx="430.4" cy="89.4" r="4" fill="#3465a4"><title>Cumnock District Tartan Tartan Number: 10436. Earliest known date: March 2011 Based on the MacMillan hunting tartan in honour of the founder of the Cumnock Games, Councillor James McMillan. The blue is from the lion rampant in the Cumnock coat of arms. The orange and red commemorate the great iron ore blast furnaces at Lugar and the surrounding black is for the coal mines that fed those furnaces and formed the heart of the Cumnock community. Approved by Cumnock Community Council. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g6b32k6ba4k90r2k4y6-b2c2c80-ba780078-g289c18-k101010-rc80000-yfcb464/"><circle cx="434.1" cy="92.0" r="4" fill="#3465a4"><title>Cumnock (District)</title></circle></a><a href="/setts/s8/w6g10ga4y6wa6y10k96wa6-g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858/"><circle cx="358.6" cy="85.4" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><circle cx="429.9" cy="89.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k98r2w8b10g10y10-b000080-g005020-k101010-ra00000-wc49cd8-yffff00/

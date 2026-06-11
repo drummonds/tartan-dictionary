@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/6 R24 Y6 R24 Y6 K24 LN4 R/112 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Princess Elizabeth](/setts/s8/r84k8w2k12y2b2y2r24-b304080-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.90
+1. [Ferguson, Plaid](/setts/s7/r192w12k12g8y24g8r24-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.91
+1. [Brodie (W & A Smith)](/setts/s8/r96w8b8k8r24b8r2y8-b000048-k000000-rc80000-wfcfcfc-ydcbc00/) — ΔT 1.04
+1. [Princess Elizabeth (Royal)](/setts/s8/r144k12w4k22y4b4y4r36-b2c2c80-k101010-rc80000-wc0c0c0-ye8c000/) — ΔT 1.04
+1. [Brodie](/setts/s8/r48w4b4k4r12b4r1y4-b000080-k000000-rc80000-wd0d0d0-yffc800/) — ΔT 1.08
+1. [Brodie, of that Ilk and the Burn](/setts/s8/r96w8b8k8r24b8r2y8-b304080-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.12
+1. [Ferguson the Astronomer](/setts/s7/r192w12k12g8y24g8r24-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.12
+1. [Earl of Inverness (Royal)](/setts/s8/r100b10w5b14y4ba8y4r24-b1c1c50-ba2c2c80-rc80000-we0e0e0-ye8c000/) — ΔT 1.16
+1. [Princess Elizabeth Royal Family Tartan Tartan Number: 1613. Earliest known date: pre 2003 Also Earl of Inverness See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r84k8w2k12y2b2y2r24-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.19
+1. [Hackston (Green stripe) (Portrait)](/setts/s8/r102y4k22ya6r22ya6r22g6-g006818-k101010-rc80000-yb8b8b8-yabc8c00/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r84k8w2k12y2b2y2r24-b304080-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="546.1" cy="75.6" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/setts/s7/r192w12k12g8y24g8r24-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="513.7" cy="100.2" r="4" fill="#3465a4"><title>Ferguson, Plaid</title></circle></a><a href="/setts/s8/r96w8b8k8r24b8r2y8-b000048-k000000-rc80000-wfcfcfc-ydcbc00/"><circle cx="499.8" cy="69.4" r="4" fill="#3465a4"><title>Brodie (W &amp; A Smith)</title></circle></a><a href="/setts/s8/r144k12w4k22y4b4y4r36-b2c2c80-k101010-rc80000-wc0c0c0-ye8c000/"><circle cx="553.0" cy="86.8" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/setts/s8/r48w4b4k4r12b4r1y4-b000080-k000000-rc80000-wd0d0d0-yffc800/"><circle cx="504.8" cy="71.2" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r96w8b8k8r24b8r2y8-b304080-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="514.6" cy="75.5" r="4" fill="#3465a4"><title>Brodie, of that Ilk and the Burn</title></circle></a><a href="/setts/s7/r192w12k12g8y24g8r24-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="520.8" cy="101.5" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/setts/s8/r100b10w5b14y4ba8y4r24-b1c1c50-ba2c2c80-rc80000-we0e0e0-ye8c000/"><circle cx="485.6" cy="101.5" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><a href="/setts/s8/r84k8w2k12y2b2y2r24-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="569.0" cy="82.4" r="4" fill="#3465a4"><title>Princess Elizabeth Royal Family Tartan Tartan Number: 1613. Earliest known date: pre 2003 Also Earl of Inverness See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r102y4k22ya6r22ya6r22g6-g006818-k101010-rc80000-yb8b8b8-yabc8c00/"><circle cx="524.7" cy="116.5" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><circle cx="501.2" cy="99.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r112w4k24y6r24y6r24g6-g008000-k000000-rc00000-we0e0e0-yf0c000/

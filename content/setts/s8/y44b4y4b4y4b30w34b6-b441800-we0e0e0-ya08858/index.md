@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/6 LN34 DR30 LT4 DR4 LT4 DR4 LT/44 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Turnberry, Manx Snaefell](/setts/s8/r44b4r4b4r4b30w34b6-b401000-r906030-we0e0e0/) — ΔT 0.54
+1. [Lindsay Dress Red](/setts/s9/g52r6g6r6g6r22w54r6w10-g005020-rdc0000-we0e0e0/) — ΔT 0.59
+1. [Kildonan Brown (Fashion)](/setts/s9/g44b6g6b6g6b18w56b6w12-b441800-g604000-wc0c0c0/) — ΔT 0.59
+1. [Snaefell (District)](/setts/s8/g44ga4g4ga4g4ga28w32ga6-g685838-ga604000-we8e4d0/) — ΔT 0.87
+1. [Baillie Dress](/setts/s8/y48g6y6g6y6g40w44g8-g604000-we0e0e0-ya08858/) — ΔT 1.03
+1. [Karibu](/setts/s9/g48w4r4w16r4w4r32y8r4-g3c773c-rb3003c-wffffff-yffcc00/) — ΔT 1.07
+1. [Gleneagles USA (Dalgleish)](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/) — ΔT 1.08
+1. [Orange Fanaticos (Corporate)](/setts/s7/b12y75k22w12k22w16b8-b5c788c-k101010-we0e0e0-yd87c00/) — ΔT 1.11
+1. [Lindsay, dress Red](/setts/s9/g52r6g6r6g6r22w54r6w10-g008000-rc00000-we0e0e0/) — ΔT 1.12
+1. [Napier Rose](/setts/s11/k16w8k8w8k8w16k8w8k16y48w4-k101010-we0e0e0-ye08070/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r44b4r4b4r4b30w34b6-b401000-r906030-we0e0e0/"><circle cx="224.4" cy="177.6" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/setts/s9/g52r6g6r6g6r22w54r6w10-g005020-rdc0000-we0e0e0/"><circle cx="202.9" cy="172.0" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/setts/s9/g44b6g6b6g6b18w56b6w12-b441800-g604000-wc0c0c0/"><circle cx="234.3" cy="180.8" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/setts/s8/g44ga4g4ga4g4ga28w32ga6-g685838-ga604000-we8e4d0/"><circle cx="246.1" cy="189.5" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/setts/s8/y48g6y6g6y6g40w44g8-g604000-we0e0e0-ya08858/"><circle cx="210.6" cy="201.8" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s9/g48w4r4w16r4w4r32y8r4-g3c773c-rb3003c-wffffff-yffcc00/"><circle cx="201.8" cy="141.9" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/"><circle cx="239.5" cy="211.3" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/setts/s7/b12y75k22w12k22w16b8-b5c788c-k101010-we0e0e0-yd87c00/"><circle cx="197.6" cy="174.5" r="4" fill="#3465a4"><title>Orange Fanaticos (Corporate)</title></circle></a><a href="/setts/s9/g52r6g6r6g6r22w54r6w10-g008000-rc00000-we0e0e0/"><circle cx="208.5" cy="175.9" r="4" fill="#3465a4"><title>Lindsay, dress Red</title></circle></a><a href="/setts/s11/k16w8k8w8k8w16k8w8k16y48w4-k101010-we0e0e0-ye08070/"><circle cx="186.1" cy="162.2" r="4" fill="#3465a4"><title>Napier Rose</title></circle></a><circle cx="221.3" cy="176.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/y44b4y4b4y4b30w34b6-b441800-we0e0e0-ya08858/

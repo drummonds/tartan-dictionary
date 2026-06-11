@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/10 LR6 B64 K32 G64 P6 G/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ednie (Personal)](/setts/s7/b44k16g16r4g16k4ra4-b1474b4-g006818-k101010-rb468ac-rac80000/) — ΔT 0.68
+1. [Rhode Island, State of](/setts/s7/b8ba56b22w4b4g28y4-b14283c-ba1474b4-g408060-we0e0e0-ye8c000/) — ΔT 0.74
+1. [Boroughmuir](/setts/s7/b6ba47b22g47bb4g4r4-b202060-ba1474b4-bb780078-g006818-r888888/) — ΔT 0.83
+1. [Highlands Country Club](/setts/s7/g20b60ba44w8ba4w4ga16-b304080-ba5480b0-g008000-ga003000-we0e0e0/) — ΔT 0.85
+1. [MacThomas (Clan)](/setts/s7/b10r6b64k32g64w6g10-b1474b4-g003820-k101010-ra00048-wc49cd8/) — ΔT 0.85
+1. [DeLoughery (Personal)](/setts/s6/b40k12y8b6g40w4-b38409c-g006818-k101010-wfcfcfc-ya08858/) — ΔT 0.91
+1. [Alvis of Lee (Personal)](/setts/s5/b18w8g72ba72r8-b1c0070-ba5c8ca8-g00643c-rc80000-we0e0e0/) — ΔT 0.96
+1. [Morneau, Richard (Personal)](/setts/s10/b58ba16g42r6g16b22w6ba6w6g16-b1474b4-ba202060-g006818-rc80000-wfcfcfc/) — ΔT 0.97
+1. [Newmill](/setts/s7/r8ra40b24ba88b24ra40y8-b14283c-ba003c64-r880000-ra888888-yd09800/) — ΔT 1.05
+1. [Afternoon Tea / Earl Grey](/setts/s6/r15b98ba72y25ba8w15-b3682af-ba003c64-re87878-wf0e0c8-yc4bc68/) — ΔT 1.06
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b44k16g16r4g16k4ra4-b1474b4-g006818-k101010-rb468ac-rac80000/"><circle cx="208.5" cy="190.4" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/setts/s7/b8ba56b22w4b4g28y4-b14283c-ba1474b4-g408060-we0e0e0-ye8c000/"><circle cx="241.5" cy="176.4" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/setts/s7/b6ba47b22g47bb4g4r4-b202060-ba1474b4-bb780078-g006818-r888888/"><circle cx="230.6" cy="195.5" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/setts/s7/g20b60ba44w8ba4w4ga16-b304080-ba5480b0-g008000-ga003000-we0e0e0/"><circle cx="193.7" cy="173.9" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/setts/s7/b10r6b64k32g64w6g10-b1474b4-g003820-k101010-ra00048-wc49cd8/"><circle cx="208.9" cy="196.0" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/setts/s6/b40k12y8b6g40w4-b38409c-g006818-k101010-wfcfcfc-ya08858/"><circle cx="202.7" cy="199.9" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/setts/s5/b18w8g72ba72r8-b1c0070-ba5c8ca8-g00643c-rc80000-we0e0e0/"><circle cx="217.8" cy="216.2" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/setts/s10/b58ba16g42r6g16b22w6ba6w6g16-b1474b4-ba202060-g006818-rc80000-wfcfcfc/"><circle cx="190.4" cy="179.6" r="4" fill="#3465a4"><title>Morneau, Richard (Personal)</title></circle></a><a href="/setts/s7/r8ra40b24ba88b24ra40y8-b14283c-ba003c64-r880000-ra888888-yd09800/"><circle cx="201.9" cy="203.6" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/setts/s6/r15b98ba72y25ba8w15-b3682af-ba003c64-re87878-wf0e0c8-yc4bc68/"><circle cx="204.3" cy="183.4" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><circle cx="207.3" cy="193.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b10r6b64k32g64ra6g10-b1474b4-g1b835d-k101010-rcb15ab-rabb62ce/

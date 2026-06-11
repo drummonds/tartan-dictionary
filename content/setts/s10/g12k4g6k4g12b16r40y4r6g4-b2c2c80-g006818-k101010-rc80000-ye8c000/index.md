@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Graham of Montrose Red](/setts/s9/w4k4r40g40k20w20r40k4w4-g006818-k101010-r880000-wa8ace8/) — ΔT 0.78
+1. [Craik of Assington Personal Tartan Tartan Number: 494. Earliest known date: 1981 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b16r44b4g32r8g16k4y8-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.80
+1. [Callum, Brown (Fashion)](/setts/s12/r6g32b4g4b4g6b12ra40y6ra4y4ra6-b000060-g604000-r880000-rab07430-yacacac/) — ΔT 0.87
+1. [MacGuire (Personal)](/setts/s14/w6k4g36r4b16r36g4r4g4r4b4r36g36k4-b2c2c80-g285800-k101010-rc80000-we0e0e0/) — ΔT 0.88
+1. [MacKinnon](/setts/s14/b2r3g2ba2r6g16r2ba4g2r16g8b2r4w2-b5a3094-ba000064-g004c00-rc80000-wd0d0d0/) — ΔT 0.92
+1. [MacKinnon #2](/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0/) — ΔT 0.93
+1. [Sikh (Corporate)](/setts/s8/r60k8r6k8r6g40b40y8-b14283c-g006818-k101010-rb84c00-ye8c000/) — ΔT 0.94
+1. [MacKinnon #5](/setts/s14/k8r6g4b4r12g30r4b8g4r30g14k4r8w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 0.94
+1. [MacKinnon #8](/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b5a008c-ba2c4084-g005020-rdc0000-we0e0e0/) — ΔT 0.95
+1. [MacKinnon](/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b780078-ba2c2c80-g006818-rc80000-we0e0e0/) — ΔT 0.96
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w4k4r40g40k20w20r40k4w4-g006818-k101010-r880000-wa8ace8/"><circle cx="196.6" cy="171.6" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/setts/s8/b16r44b4g32r8g16k4y8-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="193.6" cy="172.2" r="4" fill="#3465a4"><title>Craik of Assington Personal Tartan Tartan Number: 494. Earliest known date: 1981 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r6g32b4g4b4g6b12ra40y6ra4y4ra6-b000060-g604000-r880000-rab07430-yacacac/"><circle cx="200.9" cy="143.5" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s14/w6k4g36r4b16r36g4r4g4r4b4r36g36k4-b2c2c80-g285800-k101010-rc80000-we0e0e0/"><circle cx="223.1" cy="145.7" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s14/b2r3g2ba2r6g16r2ba4g2r16g8b2r4w2-b5a3094-ba000064-g004c00-rc80000-wd0d0d0/"><circle cx="212.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0/"><circle cx="213.4" cy="150.1" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><a href="/setts/s8/r60k8r6k8r6g40b40y8-b14283c-g006818-k101010-rb84c00-ye8c000/"><circle cx="192.7" cy="173.5" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/setts/s14/k8r6g4b4r12g30r4b8g4r30g14k4r8w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="190.5" cy="155.7" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b5a008c-ba2c4084-g005020-rdc0000-we0e0e0/"><circle cx="213.4" cy="149.2" r="4" fill="#3465a4"><title>MacKinnon #8</title></circle></a><a href="/setts/s14/b4r6g4ba4r12g32r4ba8g4r32g16b4r8w4-b780078-ba2c2c80-g006818-rc80000-we0e0e0/"><circle cx="219.2" cy="152.9" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><circle cx="207.4" cy="153.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/g12k4g6k4g12b16r40y4r6g4-b2c2c80-g006818-k101010-rc80000-ye8c000/

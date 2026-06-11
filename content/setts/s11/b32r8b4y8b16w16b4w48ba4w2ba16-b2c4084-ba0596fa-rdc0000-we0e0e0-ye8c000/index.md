@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Payeur, Francois (Personal)](/setts/s12/w12r4w48b24ba6b4ba4b4ba24y2ba2y6-b003c64-ba343498-rc80000-we0e0e0-ybc8c00/) — ΔT 0.76
+1. [Xain (Personal)](/setts/s10/b126ba42w32ba4w8ba8w24r12w32k42-b5c8ca8-ba5a008c-k101010-rc47000-we0e0e0/) — ΔT 0.95
+1. [Xain (Personal)](/setts/s11/b126ba42w32ba4w8ba8w24y12w32ba8k42-b5c8ca8-ba780078-k101010-we0e0e0-yd87c00/) — ΔT 1.10
+1. [Forfar](/setts/s10/b6y2b46w40ya2w8ba44b8ba8r2-b5c8ca8-ba2c2c80-rc80000-wfcfcfc-ye8c000-yaa08858/) — ΔT 1.10
+1. [Lorne Dress (Dance)](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g006818-k101010-we0e0e0/) — ΔT 1.17
+1. [Balamory](/setts/s14/b18w8ba4w4ba4w8ba20b2w32b18wa4b18wb4b18-b1888d8-ba1c1c1c-wecccb8-wafcec94-wb98c8e8/) — ΔT 1.20
+1. [MacGillivray Dress, Janice](/setts/s13/w8b2ba2w44b4w4ba24r4g32r8b2r8ba4-b007fff-ba001fe2-g008b00-rff0000-wffffff/) — ΔT 1.20
+1. [Unidentified #43](/setts/s9/b96r20w4r20g34k6w34k6w68-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.21
+1. [Lorne Dress (Dance)](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g289c18-k101010-we0e0e0/) — ΔT 1.25
+1. [Ferguson Dress Clan Tartan Tartan Number: 92. Earliest known date: 1980 See also 371 where the dark blue is changed to black. These are problably one and the same tartan. Dark blue being the correct colour. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b68ba48w36r6w36g4w6-b588ca8-ba202060-g006818-r880000-we0e0e0/) — ΔT 1.26
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w12r4w48b24ba6b4ba4b4ba24y2ba2y6-b003c64-ba343498-rc80000-we0e0e0-ybc8c00/"><circle cx="197.5" cy="88.5" r="4" fill="#3465a4"><title>Payeur, Francois (Personal)</title></circle></a><a href="/setts/s10/b126ba42w32ba4w8ba8w24r12w32k42-b5c8ca8-ba5a008c-k101010-rc47000-we0e0e0/"><circle cx="183.7" cy="95.3" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/setts/s11/b126ba42w32ba4w8ba8w24y12w32ba8k42-b5c8ca8-ba780078-k101010-we0e0e0-yd87c00/"><circle cx="183.2" cy="86.8" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/setts/s10/b6y2b46w40ya2w8ba44b8ba8r2-b5c8ca8-ba2c2c80-rc80000-wfcfcfc-ye8c000-yaa08858/"><circle cx="160.2" cy="88.6" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g006818-k101010-we0e0e0/"><circle cx="216.9" cy="77.8" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><a href="/setts/s14/b18w8ba4w4ba4w8ba20b2w32b18wa4b18wb4b18-b1888d8-ba1c1c1c-wecccb8-wafcec94-wb98c8e8/"><circle cx="180.5" cy="132.5" r="4" fill="#3465a4"><title>Balamory</title></circle></a><a href="/setts/s13/w8b2ba2w44b4w4ba24r4g32r8b2r8ba4-b007fff-ba001fe2-g008b00-rff0000-wffffff/"><circle cx="149.6" cy="78.1" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/setts/s9/b96r20w4r20g34k6w34k6w68-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="164.6" cy="113.5" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g289c18-k101010-we0e0e0/"><circle cx="218.1" cy="77.8" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><a href="/setts/s7/b68ba48w36r6w36g4w6-b588ca8-ba202060-g006818-r880000-we0e0e0/"><circle cx="164.4" cy="152.5" r="4" fill="#3465a4"><title>Ferguson Dress Clan Tartan Tartan Number: 92. Earliest known date: 1980 See also 371 where the dark blue is changed to black. These are problably one and the same tartan. Dark blue being the correct colour. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="192.7" cy="106.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s11/b32r8b4y8b16w16b4w48ba4w2ba16-b2c4084-ba0596fa-rdc0000-we0e0e0-ye8c000/

@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Faskin Family (Aberdeenshire)](/setts/s9/b2ba20k20g24k2g24b4g32w2-b2d8acd-ba770676-g016817-k101010-wffffff/) — ΔT 0.10
+1. [Henderson/MacKendrick](/setts/s9/w4b24g16b4g64k4g16k24y4-b2c2c80-g006818-k101010-we0e0e0-ye8c000/) — ΔT 0.89
+1. [MacKendrick](/setts/s9/w2b12g8b2g32k2g8k12y2-b2c2c80-g006818-k101010-we0e0e0-ye8c000/) — ΔT 0.89
+1. [Otago Peninsula](/setts/s12/g8k8r8k4g24k4g24k4r8g8w2ra8-g006030-k000030-r802040-rad03030-we0e0e0/) — ΔT 1.01
+1. [Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g26b2g2b2g6ba10k8y4-b780078-ba2c2c80-g006818-k101010-ye8c000/) — ΔT 1.10
+1. [Taylor](/setts/s8/g16k4g26r8g24b44g10y6-b304080-g008000-k000000-rd03030-yf0c000/) — ΔT 1.12
+1. [Marshall Field](/setts/s8/g80b8w8b8y8b48g64r8-b2c2c80-g006818-rc80000-wfcfcfc-ye8c000/) — ΔT 1.16
+1. [Ronald, Clan (Clan)](/setts/s11/b8r4g40r4k24g48r8g4r4g12w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.17
+1. [William & Mary GALA (Corporate)](/setts/s11/k6b20g50y4g4y6g4y4g50b20w6-b2c2c80-g285800-k101010-wf8f8f8-ye8c000/) — ΔT 1.22
+1. [State Seal of Maine (Fashion)](/setts/s10/g98k16y40ya6g46r12k10b6g20y20-b2888c4-g003820-k101010-rc80000-ya08858-yabc8c00/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b2ba20k20g24k2g24b4g32w2-b2d8acd-ba770676-g016817-k101010-wffffff/"><circle cx="315.2" cy="179.4" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/setts/s9/w4b24g16b4g64k4g16k24y4-b2c2c80-g006818-k101010-we0e0e0-ye8c000/"><circle cx="323.2" cy="162.1" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/w2b12g8b2g32k2g8k12y2-b2c2c80-g006818-k101010-we0e0e0-ye8c000/"><circle cx="323.2" cy="162.1" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s12/g8k8r8k4g24k4g24k4r8g8w2ra8-g006030-k000030-r802040-rad03030-we0e0e0/"><circle cx="278.3" cy="177.4" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/setts/s8/g26b2g2b2g6ba10k8y4-b780078-ba2c2c80-g006818-k101010-ye8c000/"><circle cx="285.7" cy="170.0" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g16k4g26r8g24b44g10y6-b304080-g008000-k000000-rd03030-yf0c000/"><circle cx="263.4" cy="197.0" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s8/g80b8w8b8y8b48g64r8-b2c2c80-g006818-rc80000-wfcfcfc-ye8c000/"><circle cx="323.6" cy="183.7" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/setts/s11/b8r4g40r4k24g48r8g4r4g12w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="321.0" cy="158.6" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s11/k6b20g50y4g4y6g4y4g50b20w6-b2c2c80-g285800-k101010-wf8f8f8-ye8c000/"><circle cx="320.5" cy="150.9" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s10/g98k16y40ya6g46r12k10b6g20y20-b2888c4-g003820-k101010-rc80000-ya08858-yabc8c00/"><circle cx="309.8" cy="143.5" r="4" fill="#3465a4"><title>State Seal of Maine (Fashion)</title></circle></a><circle cx="318.2" cy="180.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b2ba20k20g24k2g24b4g32w2-b2888c4-ba780078-g006818-k101010-we0e0e0/

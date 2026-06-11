@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DG/92 K36 DG12 K26 R8 K8 LN/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Forbes #6](/setts/s6/r2g32k16g8k8y2-g005020-k101010-rdc0000-ye8c000/) — ΔT 0.97
+1. [Harley (Leslie), Robert](/setts/s8/g8k12y4k12g8b32g64k4-b202060-g006818-k101010-ye8c000/) — ΔT 0.99
+1. [Wcwm 1255](/setts/s5/g12r4k56g56y4-g006818-k101010-r880000-yd09800/) — ΔT 1.01
+1. [Harley (Leslie), Robert](/setts/s8/g8k12y4k12g8b32g64k4-b000048-g005020-k101010-yffe600/) — ΔT 1.03
+1. [U.S. Marine Corps (Military?)](/setts/s8/g80r6g8r6g24b64y8r6-b2c2c80-g005810-rc80000-ye8c000/) — ΔT 1.07
+1. [MacArthur (Variant)](/setts/s6/r6g60k24g12k32y4-g006818-k101010-rc80000-ye8c000/) — ΔT 1.09
+1. [Leatherneck](/setts/s8/g80r6g8r6g24b64y8r6-b1c0070-g006818-r880000-yd09800/) — ΔT 1.11
+1. [Grass of Rasunda (Commemorative)](/setts/s7/k56g28k8ga32k16y8k4-g003820-ga5c6428-k101010-ye8c000/) — ΔT 1.12
+1. [Childers](/setts/s10/k8g26k8ga16k88ga16k8g26k8w6-g006818-ga408060-k101010-we0e0e0/) — ΔT 1.13
+1. [Hartmann (Personal)](/setts/s8/b8k16w6k16g8k8g64k8-b2888c4-g006818-k101010-we0e0e0/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r2g32k16g8k8y2-g005020-k101010-rdc0000-ye8c000/"><circle cx="386.2" cy="216.9" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/setts/s8/g8k12y4k12g8b32g64k4-b202060-g006818-k101010-ye8c000/"><circle cx="334.2" cy="184.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s5/g12r4k56g56y4-g006818-k101010-r880000-yd09800/"><circle cx="335.2" cy="219.8" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s8/g8k12y4k12g8b32g64k4-b000048-g005020-k101010-yffe600/"><circle cx="342.0" cy="190.5" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s8/g80r6g8r6g24b64y8r6-b2c2c80-g005810-rc80000-ye8c000/"><circle cx="339.3" cy="184.7" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/setts/s6/r6g60k24g12k32y4-g006818-k101010-rc80000-ye8c000/"><circle cx="317.1" cy="211.1" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/setts/s8/g80r6g8r6g24b64y8r6-b1c0070-g006818-r880000-yd09800/"><circle cx="327.9" cy="181.8" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/setts/s7/k56g28k8ga32k16y8k4-g003820-ga5c6428-k101010-ye8c000/"><circle cx="310.2" cy="214.1" r="4" fill="#3465a4"><title>Grass of Rasunda (Commemorative)</title></circle></a><a href="/setts/s10/k8g26k8ga16k88ga16k8g26k8w6-g006818-ga408060-k101010-we0e0e0/"><circle cx="325.7" cy="167.9" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s8/b8k16w6k16g8k8g64k8-b2888c4-g006818-k101010-we0e0e0/"><circle cx="301.9" cy="188.2" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><circle cx="341.2" cy="205.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g92k36g12k26r8k8w8-g004810-k101010-rc80000-we0e0e0/

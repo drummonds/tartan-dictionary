@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DG/4 LP12 R10 Y4 DG48 K/17 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Highlands of Durham (Corporate)](/setts/s6/r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/) — ΔT 0.88
+1. [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b486c9c-g58442c-k101010-we8e8e8-ydcbc1c/) — ΔT 0.90
+1. [New York State Troopers](/setts/s7/b12ba8b4w4b50k52y8-b575757-ba551a8b-k101010-wffffff-yd9d919/) — ΔT 0.92
+1. [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/) — ΔT 0.94
+1. [Drambuie Dress](/setts/s6/w6g36k48r4k5y6-g604000-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.01
+1. [Asheville Firefighters, The](/setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/) — ΔT 1.02
+1. [Vance (Family Association)](/setts/s6/r16b96w8g52b8k12-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.02
+1. [Dundhuin Hunting (Personal)](/setts/s5/g124ga34y24b16r16-b5f749c-g23321b-ga649848-r905966-yf8e38c/) — ΔT 1.05
+1. [Lee (Personal)](/setts/s7/g8k4g48r16g12b36w8-b00008c-g004c00-k000000-r8c0000-wc8c8c8/) — ΔT 1.08
+1. [New York State Troopers (Corporate)](/setts/s7/r12b8r4w4r48k50y8-b780078-k101010-r888888-we0e0e0-ybc8c00/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/"><circle cx="298.5" cy="157.8" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/setts/s6/g60y10b20k20w4k4-b486c9c-g58442c-k101010-we8e8e8-ydcbc1c/"><circle cx="265.0" cy="169.9" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s7/b12ba8b4w4b50k52y8-b575757-ba551a8b-k101010-wffffff-yd9d919/"><circle cx="254.8" cy="165.5" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/"><circle cx="250.2" cy="161.2" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s6/w6g36k48r4k5y6-g604000-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="264.4" cy="173.2" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/"><circle cx="275.8" cy="187.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s6/r16b96w8g52b8k12-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="273.9" cy="176.7" r="4" fill="#3465a4"><title>Vance (Family Association)</title></circle></a><a href="/setts/s5/g124ga34y24b16r16-b5f749c-g23321b-ga649848-r905966-yf8e38c/"><circle cx="267.5" cy="199.2" r="4" fill="#3465a4"><title>Dundhuin Hunting (Personal)</title></circle></a><a href="/setts/s7/g8k4g48r16g12b36w8-b00008c-g004c00-k000000-r8c0000-wc8c8c8/"><circle cx="244.8" cy="191.9" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/setts/s7/r12b8r4w4r48k50y8-b780078-k101010-r888888-we0e0e0-ybc8c00/"><circle cx="239.5" cy="158.3" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><circle cx="259.2" cy="177.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k17g48y4r10w12g4-g004028-k101010-rc80000-wa8ace8-yffe600/

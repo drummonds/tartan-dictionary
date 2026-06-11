@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/12 G78 O78 LN/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dunoon](/setts/s4/w12g78y78w12-g008000-we0e0e0-yff8500/) — ΔT 0.62
+1. [Dunoon Irish (Corporate)](/setts/s4/w12g78r78w12-g006c3c-rb84c00-wfcfcfc/) — ΔT 0.79
+1. [Wilson's, No 195](/setts/s4/y20g28k4b4-b5480b0-g008000-k000000-yff8500/) — ΔT 1.34
+1. [Wilson's, No 179](/setts/s5/g24y4r4b8r8-b5480b0-g008000-rc00000-yf0c000/) — ΔT 1.37
+1. [Unidentfied (Ligioner Highland Games](/setts/s6/b8g50y20g6y36r8-b441800-g006818-rc80000-yfcb464/) — ΔT 1.41
+1. [Wilson's, No 203](/setts/s4/b8r16g20y4-b5480b0-g008000-rc00000-yf0c000/) — ΔT 1.62
+1. [Dunoon Irish](/setts/s4/w12g78r78w12-g003820-rb84c00-wfcfcfc/) — ΔT 1.71
+1. [Gleneagles USA (Dalgleish)](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/) — ΔT 1.71
+1. [Harmony 8](/setts/s5/b8g40r60b40g8-b2a2303-g808080-rbe7832/) — ΔT 1.75
+1. [Wilson's, No 193](/setts/s5/g24k4r4b8r8-b5480b0-g008000-k000000-rc00000/) — ΔT 1.76
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/w12g78y78w12-g008000-we0e0e0-yff8500/"><circle cx="251.8" cy="256.0" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/setts/s4/w12g78r78w12-g006c3c-rb84c00-wfcfcfc/"><circle cx="249.7" cy="258.0" r="4" fill="#3465a4"><title>Dunoon Irish (Corporate)</title></circle></a><a href="/setts/s4/y20g28k4b4-b5480b0-g008000-k000000-yff8500/"><circle cx="237.1" cy="236.4" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/setts/s5/g24y4r4b8r8-b5480b0-g008000-rc00000-yf0c000/"><circle cx="244.6" cy="241.9" r="4" fill="#3465a4"><title>Wilson's, No 179</title></circle></a><a href="/setts/s6/b8g50y20g6y36r8-b441800-g006818-rc80000-yfcb464/"><circle cx="222.0" cy="206.8" r="4" fill="#3465a4"><title>Unidentfied (Ligioner Highland Games</title></circle></a><a href="/setts/s4/b8r16g20y4-b5480b0-g008000-rc00000-yf0c000/"><circle cx="181.4" cy="278.1" r="4" fill="#3465a4"><title>Wilson's, No 203</title></circle></a><a href="/setts/s4/w12g78r78w12-g003820-rb84c00-wfcfcfc/"><circle cx="233.9" cy="251.6" r="4" fill="#3465a4"><title>Dunoon Irish</title></circle></a><a href="/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/"><circle cx="239.5" cy="211.3" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/setts/s5/b8g40r60b40g8-b2a2303-g808080-rbe7832/"><circle cx="228.9" cy="260.8" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s5/g24k4r4b8r8-b5480b0-g008000-k000000-rc00000/"><circle cx="224.1" cy="236.5" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><circle cx="253.9" cy="260.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/w12g78y78w12-g006818-we0e0e0-yd87c00/

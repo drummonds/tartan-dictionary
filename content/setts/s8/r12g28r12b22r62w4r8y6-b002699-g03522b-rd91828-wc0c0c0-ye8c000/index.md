@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/12 G28 R12 DB22 R62 N4 R8 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Loch Lochy (District)](/setts/s8/r12g28r12b24r62w4r8y6-b2c2c80-g006818-rc80000-wc0c0c0-yfccc00/) — ΔT 0.53
+1. [Loch Linnhe](/setts/s10/g6r12b24r10w4g20r62b4r8y6-b0000cd-g007800-rdc0000-w82cffd-yfccc00/) — ΔT 0.87
+1. [Hoben (Personal)](/setts/s11/k6w2r40b8r8g20r8b8r40k2w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 0.98
+1. [Hoben (Personal)](/setts/s11/k6w2r40b8r8g20r8b8r40k2w6-b2c2c80-g006818-k101010-rc80000-wffffff/) — ΔT 0.98
+1. [Loch Creran (District)](/setts/s11/r12g16y4g16r12b16r58g6w4r10b6-b003c64-g003820-rc80000-w98c8e8-ye8c000/) — ΔT 1.04
+1. [Sturrock Family Tartan Tartan Number: 1359. Earliest known date: From collection dating 1930-5 The thread count of the cloth sample has been divided by two for display. The Register contains two Sturrock counts. In this version blue replaces part of the black stripe, making a small change to the appearance that could easily go unnoticed. It is likely that the second pattern came about by the use of a very dark blue that was later mistaken for black. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r52b16k16g22r16y3r16-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.12
+1. [Hart (Texas) (Personal)](/setts/s11/y8k6w4b14r14k8r10b8r60w4b6-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.13
+1. [Sturrock, Blue/Black (Clan)](/setts/s7/r104b32k32g44r32y6r32-b1870a4-g006818-k101010-rc80000-yd09800/) — ΔT 1.16
+1. [Dobrain (Personal)](/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/) — ΔT 1.20
+1. [MacDuff](/setts/s7/r96b16ba34g48r18k6r9-b2c4084-ba002814-g005020-k101010-rdc0000/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r12g28r12b24r62w4r8y6-b2c2c80-g006818-rc80000-wc0c0c0-yfccc00/"><circle cx="334.9" cy="149.9" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><a href="/setts/s10/g6r12b24r10w4g20r62b4r8y6-b0000cd-g007800-rdc0000-w82cffd-yfccc00/"><circle cx="306.8" cy="118.5" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/setts/s11/k6w2r40b8r8g20r8b8r40k2w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="362.1" cy="117.8" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/setts/s11/k6w2r40b8r8g20r8b8r40k2w6-b2c2c80-g006818-k101010-rc80000-wffffff/"><circle cx="361.4" cy="117.5" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/setts/s11/r12g16y4g16r12b16r58g6w4r10b6-b003c64-g003820-rc80000-w98c8e8-ye8c000/"><circle cx="316.3" cy="136.1" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/setts/s7/r52b16k16g22r16y3r16-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="314.4" cy="171.6" r="4" fill="#3465a4"><title>Sturrock Family Tartan Tartan Number: 1359. Earliest known date: From collection dating 1930-5 The thread count of the cloth sample has been divided by two for display. The Register contains two Sturrock counts. In this version blue replaces part of the black stripe, making a small change to the appearance that could easily go unnoticed. It is likely that the second pattern came about by the use of a very dark blue that was later mistaken for black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/y8k6w4b14r14k8r10b8r60w4b6-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="313.7" cy="108.5" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s7/r104b32k32g44r32y6r32-b1870a4-g006818-k101010-rc80000-yd09800/"><circle cx="317.4" cy="173.3" r="4" fill="#3465a4"><title>Sturrock, Blue/Black (Clan)</title></circle></a><a href="/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/"><circle cx="334.0" cy="156.8" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/setts/s7/r96b16ba34g48r18k6r9-b2c4084-ba002814-g005020-k101010-rdc0000/"><circle cx="293.4" cy="156.1" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><circle cx="332.6" cy="144.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r12g28r12b22r62w4r8y6-b002699-g03522b-rd91828-wc0c0c0-ye8c000/

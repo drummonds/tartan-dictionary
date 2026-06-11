@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Rikaco Classic (Fashion)](/setts/s10/b8ba8b2g48b20r2b4ra10ba6r4-b202060-ba1474b4-g003820-rc80000-ra880000/) — ΔT 0.74
+1. [Kinfauns Castle](/setts/s10/r8b20g4b4g48ba4g4ba32g4w2-b2c2c80-ba783055-g003820-rc80000-we0e0e0/) — ΔT 0.79
+1. [Evans (Welsh Name)](/setts/s11/b2k2r30k36ba30k2ba4k2ba30k3ra2-b5c8ca8-ba003c64-k101010-r901c38-rac80000/) — ΔT 0.96
+1. [Mann](/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/) — ΔT 1.04
+1. [Kingsbarns Golf Links](/setts/s10/b8y3k4g4k48b48g4b4r3k8-b0a394d-g00643c-k101010-r880000-ye0a126/) — ΔT 1.10
+1. [Laurie](/setts/s7/b12r4b2g50ba32k4ba8-b6c006c-ba28287c-g005c34-k101010-rc80000/) — ΔT 1.12
+1. [Stansbury](/setts/s8/g56r6k56b16ba2g16r4k6-b2c2c80-ba5c8ca8-g003820-k101010-rc80000/) — ΔT 1.15
+1. [Walker, Gauvin (Personal)](/setts/s12/y2g6b4ga10ba8ga2b28g2b8ga50g4y2-b1c1c1c-ba540a59-g5e6d66-ga30644d-ycfa543/) — ΔT 1.15
+1. [McClafferty](/setts/s10/r6g20k24b6k4b4k4b60r8w2-b202060-g006818-k101010-r880000-we0e0e0/) — ΔT 1.18
+1. [Stephen-Mathieson](/setts/s12/b64g4b4g4b4k48g4b4g4b4g24ba8-b202060-ba6c0070-g006818-k101010/) — ΔT 1.30
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b8ba8b2g48b20r2b4ra10ba6r4-b202060-ba1474b4-g003820-rc80000-ra880000/"><circle cx="293.1" cy="146.0" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/setts/s10/r8b20g4b4g48ba4g4ba32g4w2-b2c2c80-ba783055-g003820-rc80000-we0e0e0/"><circle cx="314.8" cy="146.5" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/setts/s11/b2k2r30k36ba30k2ba4k2ba30k3ra2-b5c8ca8-ba003c64-k101010-r901c38-rac80000/"><circle cx="303.7" cy="159.8" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/"><circle cx="289.8" cy="152.7" r="4" fill="#3465a4"><title>Mann</title></circle></a><a href="/setts/s10/b8y3k4g4k48b48g4b4r3k8-b0a394d-g00643c-k101010-r880000-ye0a126/"><circle cx="356.7" cy="174.6" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/setts/s7/b12r4b2g50ba32k4ba8-b6c006c-ba28287c-g005c34-k101010-rc80000/"><circle cx="319.2" cy="170.4" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/setts/s8/g56r6k56b16ba2g16r4k6-b2c2c80-ba5c8ca8-g003820-k101010-rc80000/"><circle cx="343.8" cy="174.5" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/setts/s12/y2g6b4ga10ba8ga2b28g2b8ga50g4y2-b1c1c1c-ba540a59-g5e6d66-ga30644d-ycfa543/"><circle cx="337.1" cy="130.8" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/setts/s10/r6g20k24b6k4b4k4b60r8w2-b202060-g006818-k101010-r880000-we0e0e0/"><circle cx="335.3" cy="133.1" r="4" fill="#3465a4"><title>McClafferty</title></circle></a><a href="/setts/s12/b64g4b4g4b4k48g4b4g4b4g24ba8-b202060-ba6c0070-g006818-k101010/"><circle cx="322.7" cy="165.0" r="4" fill="#3465a4"><title>Stephen-Mathieson</title></circle></a><circle cx="340.2" cy="150.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b94g28ba10bb4r6g14r6bb4ba10g28-b202060-ba440044-bb4c3428-g285800-r880000/

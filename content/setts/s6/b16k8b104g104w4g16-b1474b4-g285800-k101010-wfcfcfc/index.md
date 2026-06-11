@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/16 K8 B104 G104 W4 G/16 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oliphant Family Tartan Tartan Number: 242. Earliest known date: 1842 Also The Setts No: 210. W & A K Johnston, 1906. Often referred to as 'Oliphant and Melville'. There is a similar pattern listed under 'Melville' which is also worn by the Oliphants. There is no definitive provenance to distinguish one from the other, though the Vestiarium has proved unreliable in many cases. See MELVILLE. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b8k8b48g64w2g4-b2c2c80-g006818-k101010-we0e0e0/) — ΔT 0.92
+1. [Oliphant (Clan)](/setts/s6/b16k16b96g128w4g8-b2c2c80-g006818-k101010-wfcfcfc/) — ΔT 0.96
+1. [Greenlaw, American (Name)](/setts/s8/b92r4b6r4b28g76k6g8-b1474b4-g006818-k101010-rc80000/) — ΔT 1.16
+1. [MacAuliffe/McAucliffe](/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/) — ΔT 1.32
+1. [Corries](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/) — ΔT 1.35
+1. [Phoenix Police Honor Guard (Corp.)](/setts/s5/b10k3ba65g56y6-b202060-ba2888c4-g006818-k101010-ye8c000/) — ΔT 1.37
+1. [Port Authority of NY & NJ](/setts/s6/b18ba4b78bb66y4bb10-b5c8ca8-ba1c0070-bb003c64-ybc8c00/) — ΔT 1.39
+1. [Oliphant](/setts/s6/b8k8b48g64w2g4-b304080-g008000-k000000-we0e0e0/) — ΔT 1.40
+1. [Unidentified #6](/setts/s7/b8g6b4g38ba48g2ba4-b2c4084-ba3c82af-g005020/) — ΔT 1.40
+1. [Unidentified 1](/setts/s7/b8g6b4g38ba48g2ba4-b304080-ba5480b0-g008000/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b8k8b48g64w2g4-b2c2c80-g006818-k101010-we0e0e0/"><circle cx="374.1" cy="174.6" r="4" fill="#3465a4"><title>Oliphant Family Tartan Tartan Number: 242. Earliest known date: 1842 Also The Setts No: 210. W &amp; A K Johnston, 1906. Often referred to as 'Oliphant and Melville'. There is a similar pattern listed under 'Melville' which is also worn by the Oliphants. There is no definitive provenance to distinguish one from the other, though the Vestiarium has proved unreliable in many cases. See MELVILLE. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b16k16b96g128w4g8-b2c2c80-g006818-k101010-wfcfcfc/"><circle cx="370.5" cy="173.0" r="4" fill="#3465a4"><title>Oliphant (Clan)</title></circle></a><a href="/setts/s8/b92r4b6r4b28g76k6g8-b1474b4-g006818-k101010-rc80000/"><circle cx="406.2" cy="176.0" r="4" fill="#3465a4"><title>Greenlaw, American (Name)</title></circle></a><a href="/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/"><circle cx="360.4" cy="173.5" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/"><circle cx="378.1" cy="173.7" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s5/b10k3ba65g56y6-b202060-ba2888c4-g006818-k101010-ye8c000/"><circle cx="290.0" cy="181.1" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><a href="/setts/s6/b18ba4b78bb66y4bb10-b5c8ca8-ba1c0070-bb003c64-ybc8c00/"><circle cx="378.1" cy="197.2" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/setts/s6/b8k8b48g64w2g4-b304080-g008000-k000000-we0e0e0/"><circle cx="346.3" cy="162.7" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/setts/s7/b8g6b4g38ba48g2ba4-b2c4084-ba3c82af-g005020/"><circle cx="388.5" cy="204.0" r="4" fill="#3465a4"><title>Unidentified #6</title></circle></a><a href="/setts/s7/b8g6b4g38ba48g2ba4-b304080-ba5480b0-g008000/"><circle cx="382.7" cy="199.5" r="4" fill="#3465a4"><title>Unidentified 1</title></circle></a><circle cx="366.3" cy="187.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b16k8b104g104w4g16-b1474b4-g285800-k101010-wfcfcfc/

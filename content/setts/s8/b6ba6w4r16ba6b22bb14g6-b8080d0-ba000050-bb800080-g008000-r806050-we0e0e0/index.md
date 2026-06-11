@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/6 DB6 LN4 LT16 DB6 B22 P14 G/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scotia Trade Tartan Tartan Number: 89. Earliest known date: 1968 Originally designed by James Allan of East Kilbride and woven by him in 1850. The sett was reconstructed by David Easton, Galashiels, as a National tartan for Scotland. It did not catch on and the tartan is rarely seen today. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b6ba6w4g16ba6b22bb14ga6-b2888c4-ba202060-bb780078-g604000-ga006818-we0e0e0/) — ΔT 0.78
+1. [Lopatinsky (Personal)](/setts/s10/b24r6w6r6w6r6b25k12ba36y6-b2c2c80-ba1480c8-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.13
+1. [Waterford County Crest (Fashion)](/setts/s8/w16b10ba60y8b26y26g10ya10-b1c1c50-ba2c2c80-g006818-we0e0e0-ya0a0a0-yabc8c00/) — ΔT 1.20
+1. [Cherokee](/setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/) — ΔT 1.36
+1. [Meh Dundee](/setts/s6/b78y12r24g12ba48w12-b2c2c80-ba2888c4-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.37
+1. [McLion (Corporate)](/setts/s9/w4b24g4b4g4b4ba16r20y4-b2c2c80-ba1c0070-g006818-r901c38-we0e0e0-yd87c00/) — ΔT 1.40
+1. [Unidentified #47](/setts/s10/b40ba20y8ba8w8ba20r16ba8r16w8-b000064-ba788cb4-ra0783c-wc8c8c8-yc48800/) — ΔT 1.42
+1. [Galway County Crest (Fashion)](/setts/s9/r20b10ba30k6ba30k10ra50k6w8-b2888c4-ba2c2c80-k101010-r888888-ra880000-we0e0e0/) — ΔT 1.42
+1. [Devon Companion](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/) — ΔT 1.43
+1. [Mitsukoshi](/setts/s10/g24k6w6k6w6k6g26b12ba34r6-b07648c-ba141e46-g808080-k101010-r960000-we0e0e0/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b6ba6w4g16ba6b22bb14ga6-b2888c4-ba202060-bb780078-g604000-ga006818-we0e0e0/"><circle cx="82.2" cy="208.0" r="4" fill="#3465a4"><title>Scotia Trade Tartan Tartan Number: 89. Earliest known date: 1968 Originally designed by James Allan of East Kilbride and woven by him in 1850. The sett was reconstructed by David Easton, Galashiels, as a National tartan for Scotland. It did not catch on and the tartan is rarely seen today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/b24r6w6r6w6r6b25k12ba36y6-b2c2c80-ba1480c8-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="86.8" cy="166.3" r="4" fill="#3465a4"><title>Lopatinsky (Personal)</title></circle></a><a href="/setts/s8/w16b10ba60y8b26y26g10ya10-b1c1c50-ba2c2c80-g006818-we0e0e0-ya0a0a0-yabc8c00/"><circle cx="94.8" cy="170.2" r="4" fill="#3465a4"><title>Waterford County Crest (Fashion)</title></circle></a><a href="/setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/"><circle cx="86.6" cy="189.8" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/setts/s6/b78y12r24g12ba48w12-b2c2c80-ba2888c4-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="133.2" cy="187.7" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/setts/s9/w4b24g4b4g4b4ba16r20y4-b2c2c80-ba1c0070-g006818-r901c38-we0e0e0-yd87c00/"><circle cx="133.2" cy="182.0" r="4" fill="#3465a4"><title>McLion (Corporate)</title></circle></a><a href="/setts/s10/b40ba20y8ba8w8ba20r16ba8r16w8-b000064-ba788cb4-ra0783c-wc8c8c8-yc48800/"><circle cx="93.3" cy="204.6" r="4" fill="#3465a4"><title>Unidentified #47</title></circle></a><a href="/setts/s9/r20b10ba30k6ba30k10ra50k6w8-b2888c4-ba2c2c80-k101010-r888888-ra880000-we0e0e0/"><circle cx="120.4" cy="170.6" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/"><circle cx="50.1" cy="229.0" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/setts/s10/g24k6w6k6w6k6g26b12ba34r6-b07648c-ba141e46-g808080-k101010-r960000-we0e0e0/"><circle cx="92.5" cy="174.2" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><circle cx="75.7" cy="199.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b6ba6w4r16ba6b22bb14g6-b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0/

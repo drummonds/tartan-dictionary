@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/8 B56 K12 LN24 K24 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacTavish Dress](/setts/s6/r8b56k12w24k24y6-b5c8ca8-k101010-r880000-wc0c0c0-yd09800/) — ΔT 0.41
+1. [Thomson Dress (Grey) (Fashion)](/setts/s6/r8ra50k12w24k22y6-k101010-rc80000-ra888888-we0e0e0-ye8c000/) — ΔT 0.71
+1. [Thomson Dress (Blue)](/setts/s6/r6b60k12w24k24y6-b1870a4-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.72
+1. [MacTavish / Thom(p)son, dress](/setts/s6/r8b56k12w24k24y6-b5480b0-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.72
+1. [Tombow 140th Anniversary, The](/setts/s7/g8y14r18y18b40w4b4-b2c2c80-g006818-rb84c00-wfcfcfc-ye8c000/) — ΔT 0.80
+1. [Afternoon Tea / Earl Grey](/setts/s6/r15b98ba72y25ba8w15-b5c8ca8-ba202060-rc80000-wfcfcfc-yfccc00/) — ΔT 0.82
+1. [Unidentified (Winterbottom)](/setts/s6/b26w26b8y4g16r6-b2c2c80-g006818-rc80000-we0e0e0-yd4c028/) — ΔT 0.92
+1. [Clunie (Name)](/setts/s6/w12b48k14r22k4y12-b202060-k101010-r888888-wf8f8f8-ye8c000/) — ΔT 0.98
+1. [Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r4ra40k10w20k20r4-k101010-rc80000-ra888888-we0e0e0/) — ΔT 1.05
+1. [Pengelly, The Cornish (Name)](/setts/s7/w10k52y8w48b16k6r8-b780078-k101010-rc80000-wcccccc-ye8c000/) — ΔT 1.06
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r8b56k12w24k24y6-b5c8ca8-k101010-r880000-wc0c0c0-yd09800/"><circle cx="165.5" cy="187.3" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/setts/s6/r8ra50k12w24k22y6-k101010-rc80000-ra888888-we0e0e0-ye8c000/"><circle cx="139.3" cy="186.6" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/setts/s6/r6b60k12w24k24y6-b1870a4-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="176.6" cy="178.5" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/setts/s6/r8b56k12w24k24y6-b5480b0-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="145.3" cy="179.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/setts/s7/g8y14r18y18b40w4b4-b2c2c80-g006818-rb84c00-wfcfcfc-ye8c000/"><circle cx="153.9" cy="172.0" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/setts/s6/r15b98ba72y25ba8w15-b5c8ca8-ba202060-rc80000-wfcfcfc-yfccc00/"><circle cx="182.7" cy="168.3" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s6/b26w26b8y4g16r6-b2c2c80-g006818-rc80000-we0e0e0-yd4c028/"><circle cx="111.2" cy="207.1" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><a href="/setts/s6/w12b48k14r22k4y12-b202060-k101010-r888888-wf8f8f8-ye8c000/"><circle cx="151.4" cy="176.8" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/setts/s6/r4ra40k10w20k20r4-k101010-rc80000-ra888888-we0e0e0/"><circle cx="172.8" cy="194.0" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w10k52y8w48b16k6r8-b780078-k101010-rc80000-wcccccc-ye8c000/"><circle cx="150.1" cy="164.4" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><circle cx="155.4" cy="181.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/r8b56k12w24k24y6-b5c8ca8-k101010-rc80000-we0e0e0-ye8c000/

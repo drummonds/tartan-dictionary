@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Montrose Clan Tartan Tartan Number: 350. Earliest known date: 1819 Canadian fancy. Presented by Mrs K Sinclair See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b2k2r24g24k12b10r24k2b2-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.53
+1. [MacNaughton](/setts/s9/b4k4r54g54k24b24r54k4b4-b3c82af-g005020-k101010-rdc0000/) — ΔT 0.67
+1. [MacNaughten](/setts/s9/k2b2r32g32k24b16r32b2k2-b4367ae-g11450d-k000000-raa0000/) — ΔT 0.68
+1. [MacNaughten](/setts/s9/k1b1r16g16k12b8r16b1k1-b4367ae-g11450d-k000000-raa0000/) — ΔT 0.68
+1. [James of Glencarr (Personal)](/setts/s8/b16r16g34w6r70b20g30w6-b2c2c80-g003820-rc80000-we0e0e0/) — ΔT 0.78
+1. [Geddes](/setts/s7/b4r20g60r12b36r40w4-b440044-g006818-rc80000-we0e0e0/) — ΔT 0.79
+1. [MacNaughton](/setts/s9/k2b2r32g32k24b16r32b2k2-b304080-g008000-k000000-rc00000/) — ΔT 0.85
+1. [Logan - 1819 (with yellow)](/setts/s7/b32r12y4r12g56r12y4-b440044-g285800-rc80000-ye8c000/) — ΔT 0.85
+1. [New Glasgow (Canada)](/setts/s8/g56r8b50w10r44g54r8b4-b440044-g285800-rc80000-wfcfcfc/) — ΔT 0.87
+1. [Glenaladale](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 0.88
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b2k2r24g24k12b10r24k2b2-b2c2c80-g006818-k101010-rc80000/"><circle cx="247.7" cy="177.5" r="4" fill="#3465a4"><title>Montrose Clan Tartan Tartan Number: 350. Earliest known date: 1819 Canadian fancy. Presented by Mrs K Sinclair See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b4k4r54g54k24b24r54k4b4-b3c82af-g005020-k101010-rdc0000/"><circle cx="251.0" cy="166.3" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s9/k2b2r32g32k24b16r32b2k2-b4367ae-g11450d-k000000-raa0000/"><circle cx="229.5" cy="167.1" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s9/k1b1r16g16k12b8r16b1k1-b4367ae-g11450d-k000000-raa0000/"><circle cx="229.5" cy="167.1" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s8/b16r16g34w6r70b20g30w6-b2c2c80-g003820-rc80000-we0e0e0/"><circle cx="226.7" cy="185.2" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><a href="/setts/s7/b4r20g60r12b36r40w4-b440044-g006818-rc80000-we0e0e0/"><circle cx="242.4" cy="187.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/setts/s9/k2b2r32g32k24b16r32b2k2-b304080-g008000-k000000-rc00000/"><circle cx="217.1" cy="160.0" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s7/b32r12y4r12g56r12y4-b440044-g285800-rc80000-ye8c000/"><circle cx="246.7" cy="179.3" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/setts/s8/g56r8b50w10r44g54r8b4-b440044-g285800-rc80000-wfcfcfc/"><circle cx="248.2" cy="188.1" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="263.3" cy="160.1" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><circle cx="240.6" cy="168.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/k2b2r32g32k24b16r32b2k2-b2c2c80-g006818-k101010-rc80000/

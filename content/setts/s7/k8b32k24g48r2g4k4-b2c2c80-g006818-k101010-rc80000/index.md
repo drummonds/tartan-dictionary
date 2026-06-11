@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/8 DB32 K24 G48 R2 G4 K/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacTaggart](/setts/s7/g60b8g4k40b36r2b8-b2c2c80-g285800-k101010-rc80000/) — ΔT 0.80
+1. [Maine Acadia (Fashion)](/setts/s9/g10k2y4k2g38k30y4b40g6-b003c64-g006038-k101010-ye8c000/) — ΔT 0.82
+1. [Cathcart](/setts/s8/g16y8b42g12r14g2r2g16-b003c64-g006818-ra00000-yb8b8b8/) — ΔT 0.96
+1. [Common Kilt Tartan Tartan Number: 554. Earliest known date: c. 1790 A version of the Blatck Watch tartan produced by Wilson's of Bannockburn before the widespread use of clan names for tartan. The military Black Watch tartan was also woven with a red stripe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r6k4b50k56g50k4r2b4-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.96
+1. [Pitceathley Chamberlain (Personal)](/setts/s10/b4k6g10k18b42k4b10k4g40w2-b2c2c80-g006818-k101010-we0e0e0/) — ΔT 1.00
+1. [Mowat](/setts/s7/b52k2b4k36y4g32k32-b2c2c80-g006818-k101010-ye8c000/) — ΔT 1.00
+1. [Johnstone/Johnston](/setts/s8/k6b6k6b44g52k4b2y6-b2c4084-g005020-k101010-ye8c000/) — ΔT 1.02
+1. [Louisville Spalding (Personal)](/setts/s5/k40b100g100r6k6-b1c1c50-g006818-k101010-rc80000/) — ΔT 1.04
+1. [Johnstone Clan Tartan Tartan Number: 1062. Earliest known date: pre 2003 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6b6k6b44g52k4b2y6-b2c2c80-g006818-k101010-ye8c000/) — ΔT 1.04
+1. [Colquhoun](/setts/s7/b8k4b32w2k16g48r8-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.06
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g60b8g4k40b36r2b8-b2c2c80-g285800-k101010-rc80000/"><circle cx="306.5" cy="185.4" r="4" fill="#3465a4"><title>MacTaggart</title></circle></a><a href="/setts/s9/g10k2y4k2g38k30y4b40g6-b003c64-g006038-k101010-ye8c000/"><circle cx="257.7" cy="176.1" r="4" fill="#3465a4"><title>Maine Acadia (Fashion)</title></circle></a><a href="/setts/s8/g16y8b42g12r14g2r2g16-b003c64-g006818-ra00000-yb8b8b8/"><circle cx="267.1" cy="187.5" r="4" fill="#3465a4"><title>Cathcart</title></circle></a><a href="/setts/s8/r6k4b50k56g50k4r2b4-b2c2c80-g006818-k101010-rc80000/"><circle cx="268.2" cy="162.9" r="4" fill="#3465a4"><title>Common Kilt Tartan Tartan Number: 554. Earliest known date: c. 1790 A version of the Blatck Watch tartan produced by Wilson's of Bannockburn before the widespread use of clan names for tartan. The military Black Watch tartan was also woven with a red stripe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/b4k6g10k18b42k4b10k4g40w2-b2c2c80-g006818-k101010-we0e0e0/"><circle cx="268.9" cy="167.8" r="4" fill="#3465a4"><title>Pitceathley Chamberlain (Personal)</title></circle></a><a href="/setts/s7/b52k2b4k36y4g32k32-b2c2c80-g006818-k101010-ye8c000/"><circle cx="282.6" cy="193.5" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s8/k6b6k6b44g52k4b2y6-b2c4084-g005020-k101010-ye8c000/"><circle cx="315.6" cy="164.5" r="4" fill="#3465a4"><title>Johnstone/Johnston</title></circle></a><a href="/setts/s5/k40b100g100r6k6-b1c1c50-g006818-k101010-rc80000/"><circle cx="279.0" cy="225.5" r="4" fill="#3465a4"><title>Louisville Spalding (Personal)</title></circle></a><a href="/setts/s8/k6b6k6b44g52k4b2y6-b2c2c80-g006818-k101010-ye8c000/"><circle cx="291.1" cy="152.5" r="4" fill="#3465a4"><title>Johnstone Clan Tartan Tartan Number: 1062. Earliest known date: pre 2003 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b8k4b32w2k16g48r8-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="260.4" cy="169.1" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><circle cx="287.5" cy="185.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/k8b32k24g48r2g4k4-b2c2c80-g006818-k101010-rc80000/

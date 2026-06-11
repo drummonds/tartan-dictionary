@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Chisholm](/setts/s10/r12w2r48b12g4b2g4b2g24r2-b2c2c80-g006818-rc80000-wfcfcfc/) — ΔT 0.71
+1. [Jenkins (Name)](/setts/s10/b4r60g16r6g16r12b8r6b24w4-b202060-g006818-rc80000-we0e0e0/) — ΔT 0.75
+1. [Chisholm of Strathglass](/setts/s10/r14w4r72b12g6b6g6b6g24r8-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.78
+1. [Chisholm - 1842 (Clan)](/setts/s10/r12w2r48b12g4b2g4b2g24r2-b2c2c80-g00881c-rc80000-wfcfcfc/) — ΔT 0.79
+1. [Chisholm, The](/setts/s10/r12w2r48b12g4b2g4b2g24r2-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.80
+1. [MacLintock - 1880 (Clan)](/setts/s12/g72r6g6r6b18r6ba4r80b6r6b4r12-b1c0070-ba5c8ca8-g006818-rc80000/) — ΔT 0.81
+1. [Chisholm of Strathglass Clan Tartan Tartan Number: 1455. Earliest known date: 1830 A slight variation in proportions from the Chisholm sett in the collection of the Highland Society of London. Logan gives this sett as Chisholm, as do Smibert(1850) and the Smiths (1850), but Grant (1886) shows the Vestiarium design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r14w4r72b12g6b6g6b6g24r8-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 0.81
+1. [Chisholm D](/setts/s10/r12w2r48b12g4b2g4b2g24r2-b5a3094-g004c00-rc80000-wd0d0d0/) — ΔT 0.84
+1. [MacLintock](/setts/s12/g76r6g6r6b18r6ba4r80b6r6b4r12-b1c0070-ba5c8ca8-g006818-rc80000/) — ΔT 0.85
+1. [Chisholm, hunting](/setts/s10/r14w4r64b14g6b4g6b4g32r6-b304080-g008000-r900030-we0e0e0/) — ΔT 0.85
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r12w2r48b12g4b2g4b2g24r2-b2c2c80-g006818-rc80000-wfcfcfc/"><circle cx="363.3" cy="122.6" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/b4r60g16r6g16r12b8r6b24w4-b202060-g006818-rc80000-we0e0e0/"><circle cx="314.4" cy="150.2" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/setts/s10/r14w4r72b12g6b6g6b6g24r8-b304080-g008000-rc00000-we0e0e0/"><circle cx="378.8" cy="134.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s10/r12w2r48b12g4b2g4b2g24r2-b2c2c80-g00881c-rc80000-wfcfcfc/"><circle cx="355.3" cy="119.0" r="4" fill="#3465a4"><title>Chisholm - 1842 (Clan)</title></circle></a><a href="/setts/s10/r12w2r48b12g4b2g4b2g24r2-b304080-g008000-rc00000-we0e0e0/"><circle cx="366.2" cy="124.9" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s12/g72r6g6r6b18r6ba4r80b6r6b4r12-b1c0070-ba5c8ca8-g006818-rc80000/"><circle cx="338.6" cy="116.2" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s10/r14w4r72b12g6b6g6b6g24r8-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="377.1" cy="133.1" r="4" fill="#3465a4"><title>Chisholm of Strathglass Clan Tartan Tartan Number: 1455. Earliest known date: 1830 A slight variation in proportions from the Chisholm sett in the collection of the Highland Society of London. Logan gives this sett as Chisholm, as do Smibert(1850) and the Smiths (1850), but Grant (1886) shows the Vestiarium design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r12w2r48b12g4b2g4b2g24r2-b5a3094-g004c00-rc80000-wd0d0d0/"><circle cx="371.9" cy="124.8" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s12/g76r6g6r6b18r6ba4r80b6r6b4r12-b1c0070-ba5c8ca8-g006818-rc80000/"><circle cx="335.5" cy="115.9" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s10/r14w4r64b14g6b4g6b4g32r6-b304080-g008000-r900030-we0e0e0/"><circle cx="342.8" cy="149.2" r="4" fill="#3465a4"><title>Chisholm, hunting</title></circle></a><circle cx="332.9" cy="140.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/r8g30b16g8r96g8b16g8y6-b2c2c80-g006818-rc80000-yfccc00/

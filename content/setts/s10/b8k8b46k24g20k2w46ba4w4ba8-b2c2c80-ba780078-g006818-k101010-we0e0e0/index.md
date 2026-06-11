@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Baird, dress](/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b304080-ba800080-g008000-k000000-we0e0e0/) — ΔT 0.38
+1. [Willox](/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k54g10wa4-b483d8b-g5c6428-k101010-wa8ace8-wafcfcfc/) — ΔT 0.86
+1. [Chieftain, The](/setts/s12/b34r12y4r12k4w4k4w20k2w4k2y6-b00008c-k000000-r880000-wf8f8f8-yc88c00/) — ΔT 0.91
+1. [Sean F Forrester (Personal)](/setts/s9/w12y16w4y60b96ba60ya4ba16ya12-b663399-ba333333-wffffff-y999999-yaffee00/) — ΔT 1.06
+1. [Willox (Name)](/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k56g10wa2-b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc/) — ΔT 1.17
+1. [Gordon Dress #4](/setts/s13/b48k8g16y8g16k8w8k8w48k2w4k2y6-b2c4084-g005020-k101010-we0e0e0-ye8c000/) — ΔT 1.18
+1. [Unidentified #43](/setts/s9/b96r20w4r20g34k6w34k6w68-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.18
+1. [MacManus (Estimated threadcount)](/setts/s9/w12y8g32k8y12k8b60k4y8-b2c2c80-g006818-k101010-wf8f8f8-yc4bc68/) — ΔT 1.22
+1. [Unidentified 18](/setts/s9/b96r20w4r20g34k6w34k6w68-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.23
+1. [Xain (Personal)](/setts/s10/b126ba42w32ba4w8ba8w24r12w32k42-b5c8ca8-ba5a008c-k101010-rc47000-we0e0e0/) — ΔT 1.26
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b304080-ba800080-g008000-k000000-we0e0e0/"><circle cx="121.7" cy="112.2" r="4" fill="#3465a4"><title>Baird, dress</title></circle></a><a href="/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k54g10wa4-b483d8b-g5c6428-k101010-wa8ace8-wafcfcfc/"><circle cx="157.1" cy="88.2" r="4" fill="#3465a4"><title>Willox</title></circle></a><a href="/setts/s12/b34r12y4r12k4w4k4w20k2w4k2y6-b00008c-k000000-r880000-wf8f8f8-yc88c00/"><circle cx="109.0" cy="104.3" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/setts/s9/w12y16w4y60b96ba60ya4ba16ya12-b663399-ba333333-wffffff-y999999-yaffee00/"><circle cx="178.3" cy="118.7" r="4" fill="#3465a4"><title>Sean F Forrester (Personal)</title></circle></a><a href="/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k56g10wa2-b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc/"><circle cx="171.7" cy="82.6" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/setts/s13/b48k8g16y8g16k8w8k8w48k2w4k2y6-b2c4084-g005020-k101010-we0e0e0-ye8c000/"><circle cx="130.3" cy="88.9" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/setts/s9/b96r20w4r20g34k6w34k6w68-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="164.6" cy="113.5" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/setts/s9/w12y8g32k8y12k8b60k4y8-b2c2c80-g006818-k101010-wf8f8f8-yc4bc68/"><circle cx="155.8" cy="135.5" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><a href="/setts/s9/b96r20w4r20g34k6w34k6w68-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="161.7" cy="113.1" r="4" fill="#3465a4"><title>Unidentified 18</title></circle></a><a href="/setts/s10/b126ba42w32ba4w8ba8w24r12w32k42-b5c8ca8-ba5a008c-k101010-rc47000-we0e0e0/"><circle cx="183.7" cy="95.3" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><circle cx="129.0" cy="114.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b8k8b46k24g20k2w46ba4w4ba8-b2c2c80-ba780078-g006818-k101010-we0e0e0/

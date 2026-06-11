@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/8 G40 N40 B8 N8 Y/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacGiboney Dress](/setts/s10/g40w40b8w8y8w8b8w40g40wa8-b5c8ca8-g006818-wc0c0c0-wae0e0e0-ye8c000/) — ΔT 1.18
+1. [MacGiboney Clan Tartan Tartan Number: 3839. Earliest known date: 1999 Designed by Greg McGibonney from Fremont, California. The sett shown here was submitted as a woven sample by Greg McGibboney. Colours here are from the woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g20w20b4w4y4w4b4w20g20wa4-b5c8ca8-g006818-wc0c0c0-wae0e0e0-ye8c000/) — ΔT 1.18
+1. [Manitoba Dress (Dance)](/setts/s8/g6r20w4ga6w26gb4w4gb6-g289c18-ga006818-gb408060-r880000-wc0c0c0/) — ΔT 1.44
+1. [Deeside](/setts/s7/w4g4b8g28ga4gb20y4-b800080-g808080-ga008000-gb30a010-we0e0e0-yf0c000/) — ΔT 1.50
+1. [Cotswolds Distillery](/setts/s9/g8y30ya34y8b6y6b6y24k8-b646464-g604000-k000000-ycbc1a4-ya97967d/) — ΔT 1.54
+1. [Birnham, Blue (Dance)](/setts/s6/k6w50g32w6b50w6-b506880-g006818-k101010-wf0e0c8/) — ΔT 1.54
+1. [Supporter.com](/setts/s7/b60g9r7y12g33y33b26-b2888c4-g006818-rc80000-yfccc00/) — ΔT 1.54
+1. [Bannockbane Dark Green](/setts/s7/g8ga6g48w30y42gb6y8-g003820-ga289c18-gb006818-we0e0e0-ya08858/) — ΔT 1.56
+1. [Beck-McSorley](/setts/s8/r6g6w6wa42g42w6g6w6-g285800-re87878-wc49cd8-wac0c0c0/) — ΔT 1.57
+1. [Alvis of Lee (Personal)](/setts/s5/b9w4g36ba36r4-b1c0070-ba5c8ca8-g228b22-rc80000-we0e0e0/) — ΔT 1.59
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g40w40b8w8y8w8b8w40g40wa8-b5c8ca8-g006818-wc0c0c0-wae0e0e0-ye8c000/"><circle cx="181.1" cy="198.9" r="4" fill="#3465a4"><title>MacGiboney Dress</title></circle></a><a href="/setts/s10/g20w20b4w4y4w4b4w20g20wa4-b5c8ca8-g006818-wc0c0c0-wae0e0e0-ye8c000/"><circle cx="181.1" cy="198.9" r="4" fill="#3465a4"><title>MacGiboney Clan Tartan Tartan Number: 3839. Earliest known date: 1999 Designed by Greg McGibonney from Fremont, California. The sett shown here was submitted as a woven sample by Greg McGibboney. Colours here are from the woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g6r20w4ga6w26gb4w4gb6-g289c18-ga006818-gb408060-r880000-wc0c0c0/"><circle cx="171.8" cy="181.2" r="4" fill="#3465a4"><title>Manitoba Dress (Dance)</title></circle></a><a href="/setts/s7/w4g4b8g28ga4gb20y4-b800080-g808080-ga008000-gb30a010-we0e0e0-yf0c000/"><circle cx="186.9" cy="184.7" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s9/g8y30ya34y8b6y6b6y24k8-b646464-g604000-k000000-ycbc1a4-ya97967d/"><circle cx="201.5" cy="191.0" r="4" fill="#3465a4"><title>Cotswolds Distillery</title></circle></a><a href="/setts/s6/k6w50g32w6b50w6-b506880-g006818-k101010-wf0e0c8/"><circle cx="178.8" cy="200.4" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/setts/s7/b60g9r7y12g33y33b26-b2888c4-g006818-rc80000-yfccc00/"><circle cx="206.9" cy="215.9" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/setts/s7/g8ga6g48w30y42gb6y8-g003820-ga289c18-gb006818-we0e0e0-ya08858/"><circle cx="141.9" cy="184.6" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/setts/s8/r6g6w6wa42g42w6g6w6-g285800-re87878-wc49cd8-wac0c0c0/"><circle cx="222.0" cy="184.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s5/b9w4g36ba36r4-b1c0070-ba5c8ca8-g228b22-rc80000-we0e0e0/"><circle cx="210.3" cy="212.6" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><circle cx="169.2" cy="212.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/w8g40wa40b8wa8y8-b5c8ca8-g006818-we0e0e0-wac0c0c0-ye8c000/

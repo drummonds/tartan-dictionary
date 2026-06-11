@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/14 LB6 G36 DB36 LN/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bath](/setts/s5/k16b8g52ba52w8-b1474b4-ba2c2c80-g006818-k101010-we0e0e0/) — ΔT 0.59
+1. [Turnbull Hunting Clan Tartan Tartan Number: 1265. Earliest known date: pre 2003 An unusual dress tartan having no white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k14y6g56b56w6-b2c2c80-g006818-k101010-we0e0e0-ye8c000/) — ΔT 0.61
+1. [Inglis (Name)](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/) — ΔT 0.77
+1. [DeLoughery (Personal)](/setts/s6/b40k12y8b6g40w4-b38409c-g006818-k101010-wfcfcfc-ya08858/) — ΔT 0.79
+1. [Turnbull Hunting (1983) #2](/setts/s5/k12y6g60b60w6-b2c2c80-g006818-k101010-wfcfcfc-ye8c000/) — ΔT 0.82
+1. [MacLeod of Assynt](/setts/s6/r6k4g40k20b40y4-b1474b4-g006818-k101010-rc80000-ye8c000/) — ΔT 0.86
+1. [Highlander Highland Laddie](/setts/s5/k14r6g60b56w6-b1c0070-g006818-k101010-r880000-wc0c0c0/) — ΔT 0.87
+1. [Highlander, Highland Laddie Kilts](/setts/s5/k14r6g58b58w6-b304080-g008000-k000000-r802040-we0e0e0/) — ΔT 0.89
+1. [Royal Ashburn Golf Club](/setts/s6/g4b44r4k42g46y4-b1474b4-g006818-k101010-rc80000-ye8c000/) — ΔT 0.91
+1. [MacLeod of Assynt Clan Tartan Tartan Number: 1582. Earliest known date: 1906 In a portrait of the 24th chief, John Norman, painted posthumously (perhaps by Julius Jacobson, born 1811) in 1835, John Norman is shown in the costume worn for the visit of George IV to Edinburgh in 1822. The snuff-box may be evidence that the Vestiarium 'loud' design, which is very similar to that of the snuff box, had particular significance for John Norman or his wife, Ann Stephenson. (Ruairidh MacLeod, Tartans of Clan MacLeod, 1990.) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r6k4g30k20b40y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.91
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k16b8g52ba52w8-b1474b4-ba2c2c80-g006818-k101010-we0e0e0/"><circle cx="166.5" cy="232.5" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/setts/s5/k14y6g56b56w6-b2c2c80-g006818-k101010-we0e0e0-ye8c000/"><circle cx="200.6" cy="208.9" r="4" fill="#3465a4"><title>Turnbull Hunting Clan Tartan Tartan Number: 1265. Earliest known date: pre 2003 An unusual dress tartan having no white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/"><circle cx="180.1" cy="207.4" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s6/b40k12y8b6g40w4-b38409c-g006818-k101010-wfcfcfc-ya08858/"><circle cx="202.7" cy="199.9" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/setts/s5/k12y6g60b60w6-b2c2c80-g006818-k101010-wfcfcfc-ye8c000/"><circle cx="211.8" cy="202.2" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/setts/s6/r6k4g40k20b40y4-b1474b4-g006818-k101010-rc80000-ye8c000/"><circle cx="165.1" cy="199.7" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/setts/s5/k14r6g60b56w6-b1c0070-g006818-k101010-r880000-wc0c0c0/"><circle cx="218.4" cy="210.5" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/setts/s5/k14r6g58b58w6-b304080-g008000-k000000-r802040-we0e0e0/"><circle cx="194.6" cy="203.1" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/setts/s6/g4b44r4k42g46y4-b1474b4-g006818-k101010-rc80000-ye8c000/"><circle cx="171.0" cy="196.0" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/setts/s6/r6k4g30k20b40y4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="182.0" cy="204.6" r="4" fill="#3465a4"><title>MacLeod of Assynt Clan Tartan Tartan Number: 1582. Earliest known date: 1906 In a portrait of the 24th chief, John Norman, painted posthumously (perhaps by Julius Jacobson, born 1811) in 1835, John Norman is shown in the costume worn for the visit of George IV to Edinburgh in 1822. The snuff-box may be evidence that the Vestiarium 'loud' design, which is very similar to that of the snuff box, had particular significance for John Norman or his wife, Ann Stephenson. (Ruairidh MacLeod, Tartans of Clan MacLeod, 1990.) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="164.0" cy="218.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/k14w6g36b36wa4-b2c2c80-g006818-k101010-w98c8e8-wae0e0e0/

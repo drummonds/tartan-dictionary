@@ -38,4 +38,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/4 Y8 LR6 LT36 LR6 LN8 LR/24 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Susan G Komen 06](/setts/s7/w6y27b6r40ya44w8r4-b581c24-rc46864-wfcf8e0-ya89480-yae09ca0/) — ΔT 1.50
+1. [Jardine of Castlemilk Family Tartan Tartan Number: 1432. Earliest known date: c.1978 The chiefly house is Jardine of Applegirth, a baronetcy created in 1672. The Jardines of Castlemilk in Dumfriesshire settled there in the early fourteenth century. The tartan is approved by Col Jardine. The darker brown is recorded as "J.Br", and the lighter as "Olive Br" in the Lyon Books. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r36ra36g36rb4b4ra36b4rb4-b5494bc-g686868-r88582c-rab87c00-rb7c0000/) — ΔT 1.59
+1. [Unidentified from Winnipeg](/setts/s8/r48y16b4y16b4y16ra30g4-b401000-g008000-ra08060-ra806050-yff8500/) — ΔT 1.70
+1. [Golden Heather, The](/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/) — ΔT 1.80
+1. [Tasmanian](/setts/s11/r10w4g48y4g4y4g12y16r12y16ya8-g8c7038-r901c38-wf4c4c4-ya0a0a0-yac4bc68/) — ΔT 1.82
+1. [Cladish](/setts/s8/g10y5g54y2w32ya54b4ya10-b1474b4-g8c7038-we8ccb8-ydc943c-yaa08858/) — ΔT 1.95
+1. [Unidentified, Sett](/setts/s9/y4r2ra20rb24r20y12ra20r2y4-r806050-rac00000-rb906030-yb0b0b0/) — ΔT 1.97
+1. [O'Monaghan (Personal)](/setts/s10/g50w4b8y14b8w4ya50w4b8y14-b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00/) — ΔT 2.03
+1. [Trinity Bicycles](/setts/s5/g8y22g28r60ra8-g6b4226-r8b7355-racd0000-y6ca6cd/) — ΔT 2.07
+1. [Froach's Grian](/setts/s8/y4r48ya28y50ya28y50yb40y4-r9c68a4-y94acc4-yaa08858-ybe8c000/) — ΔT 2.10
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w6y27b6r40ya44w8r4-b581c24-rc46864-wfcf8e0-ya89480-yae09ca0/"><circle cx="217.2" cy="190.8" r="4" fill="#3465a4"><title>Susan G Komen 06</title></circle></a><a href="/setts/s8/r36ra36g36rb4b4ra36b4rb4-b5494bc-g686868-r88582c-rab87c00-rb7c0000/"><circle cx="313.8" cy="231.2" r="4" fill="#3465a4"><title>Jardine of Castlemilk Family Tartan Tartan Number: 1432. Earliest known date: c.1978 The chiefly house is Jardine of Applegirth, a baronetcy created in 1672. The Jardines of Castlemilk in Dumfriesshire settled there in the early fourteenth century. The tartan is approved by Col Jardine. The darker brown is recorded as &quot;J.Br&quot;, and the lighter as &quot;Olive Br&quot; in the Lyon Books. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r48y16b4y16b4y16ra30g4-b401000-g008000-ra08060-ra806050-yff8500/"><circle cx="228.7" cy="183.6" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/"><circle cx="250.0" cy="141.0" r="4" fill="#3465a4"><title>Golden Heather, The</title></circle></a><a href="/setts/s11/r10w4g48y4g4y4g12y16r12y16ya8-g8c7038-r901c38-wf4c4c4-ya0a0a0-yac4bc68/"><circle cx="290.5" cy="170.2" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/setts/s8/g10y5g54y2w32ya54b4ya10-b1474b4-g8c7038-we8ccb8-ydc943c-yaa08858/"><circle cx="318.3" cy="167.1" r="4" fill="#3465a4"><title>Cladish</title></circle></a><a href="/setts/s9/y4r2ra20rb24r20y12ra20r2y4-r806050-rac00000-rb906030-yb0b0b0/"><circle cx="259.6" cy="214.1" r="4" fill="#3465a4"><title>Unidentified, Sett</title></circle></a><a href="/setts/s10/g50w4b8y14b8w4ya50w4b8y14-b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00/"><circle cx="208.3" cy="164.4" r="4" fill="#3465a4"><title>O'Monaghan (Personal)</title></circle></a><a href="/setts/s5/g8y22g28r60ra8-g6b4226-r8b7355-racd0000-y6ca6cd/"><circle cx="316.6" cy="263.5" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/setts/s8/y4r48ya28y50ya28y50yb40y4-r9c68a4-y94acc4-yaa08858-ybe8c000/"><circle cx="265.8" cy="237.8" r="4" fill="#3465a4"><title>Froach's Grian</title></circle></a><circle cx="282.1" cy="212.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r24w8r6y36r6ya8g4-g289c18-re87878-we0e0e0-ya08858-yad8b000/

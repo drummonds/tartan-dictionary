@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DBa/10 W6 R24 G74 K24 DB42 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [James (Personal)](/setts/s7/r8k24y4g48y4b24w8-b242470-g004828-k101010-rc80000-wb4bcc0-yb0b430/) — ΔT 0.82
+1. [Froben, Christian (Personal)](/setts/s8/k4w4k16y16b48g26k6r2-b141e46-g004c00-k101010-r781c38-wfcfcfc-ydc9436/) — ΔT 0.82
+1. [Minnesota (District)](/setts/s8/k12w6k4b60r18k8g40y6-b2c2c80-g289c18-k101010-ra00024-we0e0e0-ye8c000/) — ΔT 0.84
+1. [Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g6b8g46k20r4k20ba36k2w6-b780078-ba5c8ca8-g006818-k101010-rc8002c-we0e0e0/) — ΔT 0.86
+1. [Froben, Christian (Personal)](/setts/s8/k4w4k16y16b48g26k6r2-b202060-g006818-k101010-r880000-wfcfcfc-yfccc00/) — ΔT 0.86
+1. [East Lothian](/setts/s7/b12ba34bb8ba4k22g66y8-b5480b0-ba304080-bb800080-g008000-k000000-yf0c000/) — ΔT 0.94
+1. [Vienna Highlander (Fashion)](/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/) — ΔT 0.96
+1. [Macneil of Barra - Chief (Personal)](/setts/s7/w2r4b32k28g30k6y2-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 0.97
+1. [Jones (Name)](/setts/s7/r8w2g12ga50k16b30w4-b2c2c80-g5c6428-ga006818-k101010-rc80000-wc0c0c0/) — ΔT 0.99
+1. [Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.02
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r8k24y4g48y4b24w8-b242470-g004828-k101010-rc80000-wb4bcc0-yb0b430/"><circle cx="158.7" cy="166.4" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/setts/s8/k4w4k16y16b48g26k6r2-b141e46-g004c00-k101010-r781c38-wfcfcfc-ydc9436/"><circle cx="182.3" cy="127.4" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s8/k12w6k4b60r18k8g40y6-b2c2c80-g289c18-k101010-ra00024-we0e0e0-ye8c000/"><circle cx="149.5" cy="131.5" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s9/g6b8g46k20r4k20ba36k2w6-b780078-ba5c8ca8-g006818-k101010-rc8002c-we0e0e0/"><circle cx="155.2" cy="125.7" r="4" fill="#3465a4"><title>Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k4w4k16y16b48g26k6r2-b202060-g006818-k101010-r880000-wfcfcfc-yfccc00/"><circle cx="162.0" cy="116.9" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s7/b12ba34bb8ba4k22g66y8-b5480b0-ba304080-bb800080-g008000-k000000-yf0c000/"><circle cx="165.6" cy="142.7" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/"><circle cx="196.7" cy="117.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s7/w2r4b32k28g30k6y2-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="146.7" cy="152.8" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/setts/s7/r8w2g12ga50k16b30w4-b2c2c80-g5c6428-ga006818-k101010-rc80000-wc0c0c0/"><circle cx="204.3" cy="142.6" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="215.0" cy="129.3" r="4" fill="#3465a4"><title>Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="165.2" cy="143.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b10w6r24g74k24ba42w4-b2c2c80-ba202060-g006818-k101010-rc80000-wf8f8f8/

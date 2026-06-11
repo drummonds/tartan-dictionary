@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKeever (Personal)](/setts/s13/k72r16w4r4k4r4y4r48k6r4g12r4k16-g006818-k101010-rc80000-wfcfcfc-yfccc00/) — ΔT 0.66
+1. [Unidentified Scarlett #8](/setts/s17/g4r40k4r4g6r4k36r6w2g6r40k4r4k36r4g4y2-g408060-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 0.67
+1. [Regimbal, Leonel–Jean (Personal)](/setts/s10/r64b4r4y4r16k72w4k4w4k4-b3c82af-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 0.82
+1. [First Special Service Force](/setts/s13/r8k14r6y6r34k10r6w6r6k64r44b9r6-b2c2c80-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 0.85
+1. [State Seal of Alabama (Fashion)](/setts/s9/r120y8k44g10k50b16k8r8k8-b2888c4-g006818-k101010-rc80000-ybc8c00/) — ΔT 0.94
+1. [Hallingdal (District)](/setts/s12/g4y2r4k24r4k4r4k4r26k4y2r4-g006818-k101010-rc80000-ye8c000/) — ΔT 1.04
+1. [Plowman #2 (Personal)](/setts/s17/r4b34r4g6r4b4r40g2y2r2g4r4b36g4r48g6w2-b280032-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 1.07
+1. [Unidentified #53](/setts/s12/r64g16k12y4k8ya4k12g16r16k4r16ya4-g004c00-k000000-r8c0000-yc89800-yab0b0b0/) — ΔT 1.12
+1. [Unknown U.S. kilt](/setts/s14/k20g6k56r56y2k6y2r20k2g6k2r56k56y6-g808080-k101010-rc80000-ye8c000/) — ΔT 1.14
+1. [Chisholm VS](/setts/s10/r12w2r48b12g4k2g4k2g24r2-b000064-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k72r16w4r4k4r4y4r48k6r4g12r4k16-g006818-k101010-rc80000-wfcfcfc-yfccc00/"><circle cx="292.8" cy="98.8" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s17/g4r40k4r4g6r4k36r6w2g6r40k4r4k36r4g4y2-g408060-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="288.7" cy="89.5" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s10/r64b4r4y4r16k72w4k4w4k4-b3c82af-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="291.6" cy="99.8" r="4" fill="#3465a4"><title>Regimbal, Leonel–Jean (Personal)</title></circle></a><a href="/setts/s13/r8k14r6y6r34k10r6w6r6k64r44b9r6-b2c2c80-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="266.1" cy="128.3" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s9/r120y8k44g10k50b16k8r8k8-b2888c4-g006818-k101010-rc80000-ybc8c00/"><circle cx="277.4" cy="128.7" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s12/g4y2r4k24r4k4r4k4r26k4y2r4-g006818-k101010-rc80000-ye8c000/"><circle cx="294.5" cy="138.8" r="4" fill="#3465a4"><title>Hallingdal (District)</title></circle></a><a href="/setts/s17/r4b34r4g6r4b4r40g2y2r2g4r4b36g4r48g6w2-b280032-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="310.6" cy="73.9" r="4" fill="#3465a4"><title>Plowman #2 (Personal)</title></circle></a><a href="/setts/s12/r64g16k12y4k8ya4k12g16r16k4r16ya4-g004c00-k000000-r8c0000-yc89800-yab0b0b0/"><circle cx="286.1" cy="125.3" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/setts/s14/k20g6k56r56y2k6y2r20k2g6k2r56k56y6-g808080-k101010-rc80000-ye8c000/"><circle cx="319.3" cy="110.4" r="4" fill="#3465a4"><title>Unknown U.S. kilt</title></circle></a><a href="/setts/s10/r12w2r48b12g4k2g4k2g24r2-b000064-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="329.5" cy="103.1" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><circle cx="293.5" cy="104.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/r8k18r6y6r36k8r4w4r4k72r48b8r6-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/

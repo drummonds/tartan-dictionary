@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/54 Na6 K6 Na6 N20 O40 K6 Y/3 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dalveen (Fashion)](/setts/s8/g6ga4g42ga2w22k42ga4k6-g744c00-ga006818-k101010-we0e0e0/) — ΔT 0.90
+1. [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/) — ΔT 0.96
+1. [Braemar or Blair Atholl](/setts/s8/b8w8k24b12k8r56k4r4-b441800-k101010-ra07c58-wffffff/) — ΔT 0.98
+1. [Southdown (Fashion)](/setts/s9/k6r2k6w10k10w6k10g46r6-g604000-k101010-rc80000-wf8f8f8/) — ΔT 0.99
+1. [Cates Dress (Clan)](/setts/s12/y4w2r4k40r18k40y14ra40k10y2k2r2-k101010-rc80000-ra888888-wf8f8f8-ye8c000/) — ΔT 1.01
+1. [Dunlop Hunting](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/) — ΔT 1.02
+1. [Stewart, Fawn](/setts/s10/r48k10ra4k4w4b16w6k4w4r4-b505050-k000000-r906030-rac00000-we0e0e0/) — ΔT 1.05
+1. [Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4w16k28g50w4k4w4-g604000-k101010-rc80000-we0e0e0/) — ΔT 1.06
+1. [Blair Atholl (Fashion)](/setts/s8/b8y8k24b12k8r56k4r4-b441800-k101010-ra07c58-yb8b8b8/) — ΔT 1.09
+1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4b16r2k31b2-b666666-k101010-rff0000-wffffff/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g6ga4g42ga2w22k42ga4k6-g744c00-ga006818-k101010-we0e0e0/"><circle cx="194.4" cy="130.6" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/"><circle cx="250.2" cy="161.2" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s8/b8w8k24b12k8r56k4r4-b441800-k101010-ra07c58-wffffff/"><circle cx="254.2" cy="155.3" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s9/k6r2k6w10k10w6k10g46r6-g604000-k101010-rc80000-wf8f8f8/"><circle cx="250.5" cy="127.9" r="4" fill="#3465a4"><title>Southdown (Fashion)</title></circle></a><a href="/setts/s12/y4w2r4k40r18k40y14ra40k10y2k2r2-k101010-rc80000-ra888888-wf8f8f8-ye8c000/"><circle cx="245.1" cy="111.7" r="4" fill="#3465a4"><title>Cates Dress (Clan)</title></circle></a><a href="/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/"><circle cx="263.0" cy="119.5" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s10/r48k10ra4k4w4b16w6k4w4r4-b505050-k000000-r906030-rac00000-we0e0e0/"><circle cx="229.4" cy="119.6" r="4" fill="#3465a4"><title>Stewart, Fawn</title></circle></a><a href="/setts/s7/r4w16k28g50w4k4w4-g604000-k101010-rc80000-we0e0e0/"><circle cx="231.9" cy="164.0" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b8y8k24b12k8r56k4r4-b441800-k101010-ra07c58-yb8b8b8/"><circle cx="265.7" cy="160.8" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s8/r12k2w8k4b16r2k31b2-b666666-k101010-rff0000-wffffff/"><circle cx="235.5" cy="151.6" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><circle cx="226.2" cy="132.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k54y6k6y6r20ya40k6yb3-k101010-r888888-ya0a0a0-yad87c00-ybe8c000/

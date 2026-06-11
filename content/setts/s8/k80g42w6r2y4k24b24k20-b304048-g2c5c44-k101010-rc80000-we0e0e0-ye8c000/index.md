@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/80 N42 LN6 R2 Y4 K24 Na24 K/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pilkington (2016)](/setts/s10/w4g30b16g4b64wa2b16k26r4wa2-b141e46-g005020-k101010-rc82828-wffffff-wac8c8c8/) — ΔT 1.29
+1. [Kilmaine Saints (Corporate)](/setts/s6/k108r22g26y2b26w2-b1474b4-g006818-k101010-r888888-we0e0e0-ybc8c00/) — ΔT 1.31
+1. [Wells (2014)](/setts/s7/b100g50y6r16ra2w2ra2-b141e46-g285800-r888888-ra960028-wf8f8f8-yd87c00/) — ΔT 1.39
+1. [Alamudi (Corporate)](/setts/s12/k13w3r3k34g21k13g8k5g3k2g1b1-b282874-g005830-k101010-r880000-we0e0e0/) — ΔT 1.43
+1. [Hebridean Heather](/setts/s9/b8ba4b14bb60b16bb14r10ba2w4-b5c5c5c-ba003c64-bb1c1c1c-r800028-wf8f8f8/) — ΔT 1.47
+1. [Ataç, H.M. & I.C. (Personal)](/setts/s8/b18g10w2g30k4g2k88r2-b000080-g006400-k101010-rff0000-wffffff/) — ΔT 1.47
+1. [Kilmaine Saints](/setts/s6/k108b22g26y2ba26w2-b666666-ba0000cd-g008b00-k101010-wffffff-yffe700/) — ΔT 1.49
+1. [Victorian Highland Pipe Band Association (Australia)](/setts/s8/b92w2y6g26w2r14ga6w2-b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00/) — ΔT 1.51
+1. [Hot Boontjie](/setts/s8/r8g8k2w4k2g36k64ra8-g005448-k101010-ra00048-rac80000-we0e0e0/) — ΔT 1.53
+1. [New York Caledonian Club Day](/setts/s11/g18r2g4ra6g56k32w2g16w2b16ra2-b1c1c50-g3c6838-k101010-rd85c28-radc0000-w98c8e8/) — ΔT 1.53
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w4g30b16g4b64wa2b16k26r4wa2-b141e46-g005020-k101010-rc82828-wffffff-wac8c8c8/"><circle cx="337.0" cy="121.7" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/setts/s6/k108r22g26y2b26w2-b1474b4-g006818-k101010-r888888-we0e0e0-ybc8c00/"><circle cx="337.8" cy="107.3" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/setts/s7/b100g50y6r16ra2w2ra2-b141e46-g285800-r888888-ra960028-wf8f8f8-yd87c00/"><circle cx="366.4" cy="99.0" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s12/k13w3r3k34g21k13g8k5g3k2g1b1-b282874-g005830-k101010-r880000-we0e0e0/"><circle cx="406.7" cy="132.3" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/setts/s9/b8ba4b14bb60b16bb14r10ba2w4-b5c5c5c-ba003c64-bb1c1c1c-r800028-wf8f8f8/"><circle cx="364.6" cy="137.1" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/setts/s8/b18g10w2g30k4g2k88r2-b000080-g006400-k101010-rff0000-wffffff/"><circle cx="397.2" cy="115.2" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s6/k108b22g26y2ba26w2-b666666-ba0000cd-g008b00-k101010-wffffff-yffe700/"><circle cx="331.2" cy="106.0" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/setts/s8/b92w2y6g26w2r14ga6w2-b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00/"><circle cx="397.4" cy="90.5" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/setts/s8/r8g8k2w4k2g36k64ra8-g005448-k101010-ra00048-rac80000-we0e0e0/"><circle cx="335.5" cy="126.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s11/g18r2g4ra6g56k32w2g16w2b16ra2-b1c1c50-g3c6838-k101010-rd85c28-radc0000-w98c8e8/"><circle cx="341.1" cy="110.4" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><circle cx="361.9" cy="128.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k80g42w6r2y4k24b24k20-b304048-g2c5c44-k101010-rc80000-we0e0e0-ye8c000/

@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/128 K6 G28 K8 B8 K24 DY/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oliver, hunting](/setts/s9/b80g6b4g24k4g4y4g4k6-b304080-g008000-k000000-yf0c000/) — ΔT 1.09
+1. [Tern House](/setts/s7/g23b3k8b4g4b56y8-b2c2c80-g006818-k101010-yd8b000/) — ΔT 1.18
+1. [Roxburgh](/setts/s8/b32w2b2w2b16g32r2b4-b304080-g008000-rc00000-we0e0e0/) — ΔT 1.18
+1. [Oliver Hunting Family Tartan Tartan Number: 126. Earliest known date: 1973 Designed for the Oliver Society in 1973 and based on a cottage weavers formula named 'Tweedside', dating from around 1820. The Tweedside District sett also appeared in one of the notebooks belonging to Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b80g6b4g24k4g4y4g4k6-b2c2c80-g006818-k101010-ye8c000/) — ΔT 1.26
+1. [Lauder Primary School (Corporate)](/setts/s6/r8b84r8ba24y4r4-b2888c4-ba2c2c80-rc80000-ye8c000/) — ΔT 1.26
+1. [Leblant-Macqueron (Personal)](/setts/s7/w10g12wa4ga14wa4b88wa4-b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0/) — ΔT 1.28
+1. [Salvation Army, Hunting](/setts/s7/b160g32k4y8k4g32b20-b304080-g008000-k000000-yf0c000/) — ΔT 1.35
+1. [Federal Bureaux (FBI) Corporate Tartan Tartan Number: 83. Earliest known date: 1989 Discovered (in 1991) to be the same as a previously accredited tartan, "S.C.O.T.S." designed by Kinloch Anderson in 1988. Twenty kilts have been produced for the F.B.I. pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b120ba38w6ba4r4ba14-b5c8ca8-ba2c2c80-rc80000-we0e0e0/) — ΔT 1.36
+1. [A2 (Personal)](/setts/s8/b6r6b60ba6b6ba30b6w6-b003c64-ba5488ac-rc80000-we0e0e0/) — ΔT 1.40
+1. [Roxburgh, Green (District)](/setts/s8/b92w4b4w4b32g88r4b12-b1c0070-g006818-rc80000-wf8f8f8/) — ΔT 1.40
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b80g6b4g24k4g4y4g4k6-b304080-g008000-k000000-yf0c000/"><circle cx="393.7" cy="136.2" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/setts/s7/g23b3k8b4g4b56y8-b2c2c80-g006818-k101010-yd8b000/"><circle cx="367.5" cy="171.2" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s8/b32w2b2w2b16g32r2b4-b304080-g008000-rc00000-we0e0e0/"><circle cx="366.1" cy="177.1" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s9/b80g6b4g24k4g4y4g4k6-b2c2c80-g006818-k101010-ye8c000/"><circle cx="420.0" cy="147.6" r="4" fill="#3465a4"><title>Oliver Hunting Family Tartan Tartan Number: 126. Earliest known date: 1973 Designed for the Oliver Society in 1973 and based on a cottage weavers formula named 'Tweedside', dating from around 1820. The Tweedside District sett also appeared in one of the notebooks belonging to Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r8b84r8ba24y4r4-b2888c4-ba2c2c80-rc80000-ye8c000/"><circle cx="411.3" cy="161.8" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s7/w10g12wa4ga14wa4b88wa4-b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0/"><circle cx="395.2" cy="133.9" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/setts/s7/b160g32k4y8k4g32b20-b304080-g008000-k000000-yf0c000/"><circle cx="483.7" cy="139.2" r="4" fill="#3465a4"><title>Salvation Army, Hunting</title></circle></a><a href="/setts/s6/b120ba38w6ba4r4ba14-b5c8ca8-ba2c2c80-rc80000-we0e0e0/"><circle cx="456.7" cy="154.7" r="4" fill="#3465a4"><title>Federal Bureaux (FBI) Corporate Tartan Tartan Number: 83. Earliest known date: 1989 Discovered (in 1991) to be the same as a previously accredited tartan, &quot;S.C.O.T.S.&quot; designed by Kinloch Anderson in 1988. Twenty kilts have been produced for the F.B.I. pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b6r6b60ba6b6ba30b6w6-b003c64-ba5488ac-rc80000-we0e0e0/"><circle cx="369.2" cy="190.0" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/setts/s8/b92w4b4w4b32g88r4b12-b1c0070-g006818-rc80000-wf8f8f8/"><circle cx="370.8" cy="155.0" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><circle cx="409.7" cy="157.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b128k6g28k8b8k24y8-b1474b4-g006818-k101010-yd09800/

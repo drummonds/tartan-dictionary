@@ -37,4 +37,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "T/4 LR4 LB44 LR20 T/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Walsh, Michael Edward (Personal)](/setts/s6/r56w30r8ra10r3ra20-r888888-rac80000-wfcfcfc/) — ΔT 1.18
+1. [Trinity Bicycles (Corporate)](/setts/s5/g8w22g28wa60r8-g704400-rc80000-wb4c0c8-wac8c8bc/) — ΔT 1.27
+1. [Walsh, Michael Edward (Personal)](/setts/s6/y56w30y8r10y3r20-rc80000-wffffff-ya0a0a0/) — ΔT 1.27
+1. [Thompson, D.C. (Personal)](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/) — ΔT 1.27
+1. [Gleneagles USA (Dalgleish)](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/) — ΔT 1.33
+1. [Masai Shuka 24 (Artefact)](/setts/s4/b60w8r80w12-b2888c4-rc80000-we0e0e0/) — ΔT 1.41
+1. [Lister (Misty Mountain)](/setts/s7/b16y58b16ya6b16y16ya6-b5d321f-yccbaaf-yae0a126/) — ΔT 1.47
+1. [Islander Dress](/setts/s5/k6w58r18wa38k6-k101010-r9c68a4-we0e0e0-wa98c8e8/) — ΔT 1.52
+1. [Louisburg](/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/) — ΔT 1.55
+1. [Winnipeg Embroiders' Guild (Corp.)](/setts/s6/r24b4y4w4b8w6-b003c64-re87878-we8ccb8-ye8c000/) — ΔT 1.62
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r56w30r8ra10r3ra20-r888888-rac80000-wfcfcfc/"><circle cx="319.0" cy="184.2" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s5/g8w22g28wa60r8-g704400-rc80000-wb4c0c8-wac8c8bc/"><circle cx="234.5" cy="221.1" r="4" fill="#3465a4"><title>Trinity Bicycles (Corporate)</title></circle></a><a href="/setts/s6/y56w30y8r10y3r20-rc80000-wffffff-ya0a0a0/"><circle cx="321.2" cy="183.3" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/"><circle cx="202.8" cy="196.5" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/"><circle cx="239.5" cy="211.3" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/setts/s4/b60w8r80w12-b2888c4-rc80000-we0e0e0/"><circle cx="302.0" cy="232.0" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/setts/s7/b16y58b16ya6b16y16ya6-b5d321f-yccbaaf-yae0a126/"><circle cx="312.8" cy="202.0" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s5/k6w58r18wa38k6-k101010-r9c68a4-we0e0e0-wa98c8e8/"><circle cx="214.8" cy="200.7" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/"><circle cx="219.5" cy="237.2" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s6/r24b4y4w4b8w6-b003c64-re87878-we8ccb8-ye8c000/"><circle cx="221.7" cy="203.5" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><circle cx="272.9" cy="218.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/

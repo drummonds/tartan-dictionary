@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pride of Glencoe](/setts/s6/k6g4r6b60ba64w6-b2c2c80-ba6c0070-g006818-k101010-rc04094-we0e0e0/) — ΔT 1.15
+1. [Gretna Gold (Fashion)](/setts/s8/w6b4y4b76ba56r4ba4ra4-b6c0070-ba202060-rb468ac-rac80000-we0e0e0-ybc8c00/) — ΔT 1.30
+1. [Gretna Gold](/setts/s14/b4r4b56ba76y4ba4w6ba4y4ba76b56r4b4ra4-b202060-ba6c0070-rb468ac-rac80000-we0e0e0-ybc8c00/) — ΔT 1.32
+1. [Gretna Gold Fashion Tartan Tartan Number: 6032. Earliest known date: 01/01/2003 Presumably a fashion tartan. Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b4r4b56ba76k4ba4w6ba4k4ba76b56r4b4ra4-b202060-ba6c0070-k000000-rb468ac-rac80000-we0e0e0/) — ΔT 1.35
+1. [Albannach](/setts/s8/k4b2r7b60g15ba60bb5w3-b440044-ba2c2c80-bb1474b4-g5c6428-k101010-rc80000-we0e0e0/) — ΔT 1.59
+1. [Custer Personal Tartan Tartan Number: 6421. Earliest known date: 2004 For the wedding of Patrick Custer and Eliabeth Hull See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/b40w2ba16bb2r4k6r4bb2ba40b16ba40bb2r4k6r4bb2ba16w2-b2c2c80-ba780078-bb2888c4-k101010-rc80000-we0e0e0/) — ΔT 1.61
+1. [First](/setts/s8/b2r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/) — ΔT 1.66
+1. [Wardlaw](/setts/s10/k8b60k6b4ba4r4g24k6ba36r6-b780078-ba2c2c80-g006818-k101010-rc80000/) — ΔT 1.79
+1. [Alba](/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/) — ΔT 1.81
+1. [First (Corporate)](/setts/s7/r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/) — ΔT 1.82
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k6g4r6b60ba64w6-b2c2c80-ba6c0070-g006818-k101010-rc04094-we0e0e0/"><circle cx="297.6" cy="163.7" r="4" fill="#3465a4"><title>Pride of Glencoe</title></circle></a><a href="/setts/s8/w6b4y4b76ba56r4ba4ra4-b6c0070-ba202060-rb468ac-rac80000-we0e0e0-ybc8c00/"><circle cx="341.9" cy="125.0" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/setts/s14/b4r4b56ba76y4ba4w6ba4y4ba76b56r4b4ra4-b202060-ba6c0070-rb468ac-rac80000-we0e0e0-ybc8c00/"><circle cx="362.9" cy="116.8" r="4" fill="#3465a4"><title>Gretna Gold</title></circle></a><a href="/setts/s14/b4r4b56ba76k4ba4w6ba4k4ba76b56r4b4ra4-b202060-ba6c0070-k000000-rb468ac-rac80000-we0e0e0/"><circle cx="364.5" cy="118.5" r="4" fill="#3465a4"><title>Gretna Gold Fashion Tartan Tartan Number: 6032. Earliest known date: 01/01/2003 Presumably a fashion tartan. Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k4b2r7b60g15ba60bb5w3-b440044-ba2c2c80-bb1474b4-g5c6428-k101010-rc80000-we0e0e0/"><circle cx="272.3" cy="109.1" r="4" fill="#3465a4"><title>Albannach</title></circle></a><a href="/setts/s18/b40w2ba16bb2r4k6r4bb2ba40b16ba40bb2r4k6r4bb2ba16w2-b2c2c80-ba780078-bb2888c4-k101010-rc80000-we0e0e0/"><circle cx="326.9" cy="100.7" r="4" fill="#3465a4"><title>Custer Personal Tartan Tartan Number: 6421. Earliest known date: 2004 For the wedding of Patrick Custer and Eliabeth Hull See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b2r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/"><circle cx="250.0" cy="166.0" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/setts/s10/k8b60k6b4ba4r4g24k6ba36r6-b780078-ba2c2c80-g006818-k101010-rc80000/"><circle cx="244.4" cy="148.1" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/"><circle cx="232.0" cy="148.7" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/setts/s7/r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/"><circle cx="248.1" cy="177.7" r="4" fill="#3465a4"><title>First (Corporate)</title></circle></a><circle cx="299.1" cy="137.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b40w2ba16bb2r4k6r4bb2ba40b16-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/

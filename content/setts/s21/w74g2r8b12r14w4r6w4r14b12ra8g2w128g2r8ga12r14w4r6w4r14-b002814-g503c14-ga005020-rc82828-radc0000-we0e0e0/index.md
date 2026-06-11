@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Ra | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 | T | <code style="background-color:#503C14;"><span style="color:#503C14;filter:grayscale(1) invert(1) contrast(100);">#503C14</span></code> `#503C14` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.15 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacIntosh, Blanket](/setts/s21/w74r2ra8g12ra14w4ra6w4ra14g12rb8r2w128r2ra8ga12ra14w4ra6w4ra14-g003000-ga008000-r806050-rad03030-rbc00000-we0e0e0/) — ΔT 0.22
+1. [Wallenberg, Nicolas Dress (Personal)](/setts/s16/y56r2y8b24y4ba8ya4ba8y4b24y8r2y96r6w6ba6-b780078-ba2c4084-rff0000-wffffff-yb0b0b0-yaffe600/) — ΔT 1.65
+1. [McDougall, Miss Anne (Personal)](/setts/s19/b2r6ra6w52ba6w6g28w72ra6r2ra6w72ba28w4g6w52r6ra6b2-b5c8ca8-ba2c2c80-g006818-r880000-rac80000-we0e0e0/) — ΔT 1.66
+1. [Stewart Dress (Artefact)](/setts/s13/w100b12w4k12y4k6w4k6g12r12k4r4w4-b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000/) — ΔT 1.67
+1. [Seller, Sillar](/setts/s12/w126k8b18y4b8y4b8r22ra16b4ra8w10-b5480b0-k000000-r806050-rac00000-we0e0e0-yf0c000/) — ΔT 1.67
+1. [Seller Dress (Personal)](/setts/s12/w126k8wa18y4wa8y4wa8g22r16wa4r8w10-g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000/) — ΔT 1.71
+1. [Diana, Plaid dress](/setts/s12/w92r6w14b4y4b4w4b22ra12ba4ra6w4-b401000-ba8080d0-rc00000-ra906030-we0e0e0-yf0c000/) — ΔT 1.72
+1. [Snowy Owl](/setts/s14/w80r2w12r6b2r14b6ba2b16ba6k2ba18k4w16-b544b4e-ba3c3233-k101010-r91827b-wffffff/) — ΔT 1.77
+1. [Druid](/setts/s16/b3ba2b3y2w4y2k8y2w4y2r8y2w20y2w62y2-b00008b-ba778899-k000000-r8b0000-wffffff-ydaa520/) — ΔT 1.78
+1. [Confederate Memorial Dress](/setts/s14/b36w8r12w8y8w72g8w8g8w72r24w2ba8w6-b2888c4-ba00008c-g7c7c7c-rc82800-wfcfcfc-yc88c00/) — ΔT 1.88
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/w74r2ra8g12ra14w4ra6w4ra14g12rb8r2w128r2ra8ga12ra14w4ra6w4ra14-g003000-ga008000-r806050-rad03030-rbc00000-we0e0e0/"><circle cx="352.4" cy="14.0" r="4" fill="#3465a4"><title>MacIntosh, Blanket</title></circle></a><a href="/setts/s16/y56r2y8b24y4ba8ya4ba8y4b24y8r2y96r6w6ba6-b780078-ba2c4084-rff0000-wffffff-yb0b0b0-yaffe600/"><circle cx="392.8" cy="31.7" r="4" fill="#3465a4"><title>Wallenberg, Nicolas Dress (Personal)</title></circle></a><a href="/setts/s19/b2r6ra6w52ba6w6g28w72ra6r2ra6w72ba28w4g6w52r6ra6b2-b5c8ca8-ba2c2c80-g006818-r880000-rac80000-we0e0e0/"><circle cx="363.0" cy="35.9" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s13/w100b12w4k12y4k6w4k6g12r12k4r4w4-b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000/"><circle cx="307.6" cy="33.8" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s12/w126k8b18y4b8y4b8r22ra16b4ra8w10-b5480b0-k000000-r806050-rac00000-we0e0e0-yf0c000/"><circle cx="301.5" cy="35.6" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s12/w126k8wa18y4wa8y4wa8g22r16wa4r8w10-g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000/"><circle cx="295.0" cy="28.8" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s12/w92r6w14b4y4b4w4b22ra12ba4ra6w4-b401000-ba8080d0-rc00000-ra906030-we0e0e0-yf0c000/"><circle cx="334.9" cy="45.9" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/setts/s14/w80r2w12r6b2r14b6ba2b16ba6k2ba18k4w16-b544b4e-ba3c3233-k101010-r91827b-wffffff/"><circle cx="300.4" cy="37.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s16/b3ba2b3y2w4y2k8y2w4y2r8y2w20y2w62y2-b00008b-ba778899-k000000-r8b0000-wffffff-ydaa520/"><circle cx="369.5" cy="14.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/setts/s14/b36w8r12w8y8w72g8w8g8w72r24w2ba8w6-b2888c4-ba00008c-g7c7c7c-rc82800-wfcfcfc-yc88c00/"><circle cx="310.6" cy="46.8" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><circle cx="348.1" cy="14.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s21/w74g2r8b12r14w4r6w4r14b12ra8g2w128g2r8ga12r14w4r6w4r14-b002814-g503c14-ga005020-rc82828-radc0000-we0e0e0/

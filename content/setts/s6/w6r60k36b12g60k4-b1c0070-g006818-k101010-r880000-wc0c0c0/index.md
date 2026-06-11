@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/4 G60 DB12 K36 DR60 N/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Patterson, John](/setts/s6/g6b24w2ga24r24ga4-b304080-g008000-ga003000-rc00000-we0e0e0/) — ΔT 0.72
+1. [Bennett, J P. (Personal)](/setts/s7/r4g36k4g6k40ga60w4-g74787c-ga604000-k101010-rc80000-we0e0e0/) — ΔT 0.87
+1. [Craik of Assington (Personal)](/setts/s8/b16r44b4g32r8g16k4y8-b1c0070-g006818-k101010-r880000-yd09800/) — ΔT 1.00
+1. [Patterson, John (Personal)](/setts/s6/g6b24w2ga24r24ga4-b2c2c80-g006818-ga003820-rc80000-wfcfcfc/) — ΔT 1.06
+1. [Patterson, John (Personal)](/setts/s6/g6b24w2ba24r24ba4-b2c4084-ba002814-g005020-rdc0000-we0e0e0/) — ΔT 1.08
+1. [St. Clement of Rome (Corporate)](/setts/s8/b36k10r52k10g50k10b36y4-b202060-g006818-k101010-rc80000-ye8c000/) — ΔT 1.10
+1. [Kilgour (Asymmetrical)](/setts/s8/b24k12r56k12g56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.10
+1. [Kilgour (Cant)](/setts/s8/b24y4b24k12r56k12g56k12-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.10
+1. [Kilgour (Symmetrical)](/setts/s8/b24k12g56k12r56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.10
+1. [Eachaidh (Personal)](/setts/s6/k12b2r36ba12g36k4-b2888c4-ba2c2c80-g005c30-k101010-r880000/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g6b24w2ga24r24ga4-b304080-g008000-ga003000-rc00000-we0e0e0/"><circle cx="166.7" cy="198.6" r="4" fill="#3465a4"><title>Patterson, John</title></circle></a><a href="/setts/s7/r4g36k4g6k40ga60w4-g74787c-ga604000-k101010-rc80000-we0e0e0/"><circle cx="228.6" cy="169.2" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/setts/s8/b16r44b4g32r8g16k4y8-b1c0070-g006818-k101010-r880000-yd09800/"><circle cx="206.4" cy="184.3" r="4" fill="#3465a4"><title>Craik of Assington (Personal)</title></circle></a><a href="/setts/s6/g6b24w2ga24r24ga4-b2c2c80-g006818-ga003820-rc80000-wfcfcfc/"><circle cx="166.0" cy="197.6" r="4" fill="#3465a4"><title>Patterson, John (Personal)</title></circle></a><a href="/setts/s6/g6b24w2ba24r24ba4-b2c4084-ba002814-g005020-rdc0000-we0e0e0/"><circle cx="160.3" cy="194.1" r="4" fill="#3465a4"><title>Patterson, John (Personal)</title></circle></a><a href="/setts/s8/b36k10r52k10g50k10b36y4-b202060-g006818-k101010-rc80000-ye8c000/"><circle cx="155.3" cy="183.0" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/setts/s8/b24k12r56k12g56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="133.1" cy="172.2" r="4" fill="#3465a4"><title>Kilgour (Asymmetrical)</title></circle></a><a href="/setts/s8/b24y4b24k12r56k12g56k12-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="133.1" cy="172.2" r="4" fill="#3465a4"><title>Kilgour (Cant)</title></circle></a><a href="/setts/s8/b24k12g56k12r56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="133.1" cy="172.2" r="4" fill="#3465a4"><title>Kilgour (Symmetrical)</title></circle></a><a href="/setts/s6/k12b2r36ba12g36k4-b2888c4-ba2c2c80-g005c30-k101010-r880000/"><circle cx="233.7" cy="192.6" r="4" fill="#3465a4"><title>Eachaidh (Personal)</title></circle></a><circle cx="190.0" cy="187.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/

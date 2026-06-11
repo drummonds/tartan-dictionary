@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "O/2 DB28 R56 G28 R2 G28 O/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKintosh Geddes](/setts/s7/b4r20g72r16b36r40w4-b2c4084-g005020-rdc0000-we0e0e0/) — ΔT 0.81
+1. [Ruthven](/setts/s6/w6g30b36r60g2r4-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.82
+1. [MacKintosh, Geddes](/setts/s7/b4r20g72r16b36r40w4-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.85
+1. [Unidentified #15](/setts/s6/k12r4g34r32k2b4-b3c82af-g005020-k101010-rdc0000/) — ΔT 1.05
+1. [Ruthven Clan Tartan Tartan Number: 1521. Earliest known date: 1842 The name Ruthven comes from the old Barony of Ruthven in Angus. Ruthvens were Earls of Gowrie at the time of James VI of Scotland. More recently Sir Alexander Hore- Ruthven of Freeland, Governor General of Australia, was created Earl of Gowrie in 1945. The Ruthven tartan was not named until the publication of the romantic fiction known as the Vestiarium Scoticum in 1842. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w6g30b36r60g2r4-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 1.06
+1. [Georgia, State of (District)](/setts/s8/g72k4g4k4g6k24b20r40-b5c8ca8-g5c6428-k101010-rc8002c/) — ΔT 1.09
+1. [Cook (Name)](/setts/s7/g24ga12g12r30k2r2k4-g003820-ga048888-k101010-rc80000/) — ΔT 1.10
+1. [McCook/Cook (Name)](/setts/s7/g48b24g24r60k4r4k8-b2888c4-g006818-k101010-rc80000/) — ΔT 1.10
+1. [Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r60k16g60b8r6b4-b1860a8-g005028-k101010-rc80000/) — ΔT 1.11
+1. [Logan with Yellow](/setts/s7/b32r12y4r12g56r12y4-b780078-g006818-rc80000-ye8c000/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b4r20g72r16b36r40w4-b2c4084-g005020-rdc0000-we0e0e0/"><circle cx="248.0" cy="179.1" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/setts/s6/w6g30b36r60g2r4-b304080-g008000-rc00000-we0e0e0/"><circle cx="297.8" cy="155.8" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/setts/s7/b4r20g72r16b36r40w4-b304080-g008000-rc00000-we0e0e0/"><circle cx="247.3" cy="180.9" r="4" fill="#3465a4"><title>MacKintosh, Geddes</title></circle></a><a href="/setts/s6/k12r4g34r32k2b4-b3c82af-g005020-k101010-rdc0000/"><circle cx="257.1" cy="178.1" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><a href="/setts/s6/w6g30b36r60g2r4-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="295.0" cy="153.8" r="4" fill="#3465a4"><title>Ruthven Clan Tartan Tartan Number: 1521. Earliest known date: 1842 The name Ruthven comes from the old Barony of Ruthven in Angus. Ruthvens were Earls of Gowrie at the time of James VI of Scotland. More recently Sir Alexander Hore- Ruthven of Freeland, Governor General of Australia, was created Earl of Gowrie in 1945. The Ruthven tartan was not named until the publication of the romantic fiction known as the Vestiarium Scoticum in 1842. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g72k4g4k4g6k24b20r40-b5c8ca8-g5c6428-k101010-rc8002c/"><circle cx="287.8" cy="164.2" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/setts/s7/g24ga12g12r30k2r2k4-g003820-ga048888-k101010-rc80000/"><circle cx="251.2" cy="189.4" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/setts/s7/g48b24g24r60k4r4k8-b2888c4-g006818-k101010-rc80000/"><circle cx="247.4" cy="187.4" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s6/r60k16g60b8r6b4-b1860a8-g005028-k101010-rc80000/"><circle cx="278.9" cy="186.1" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b32r12y4r12g56r12y4-b780078-g006818-rc80000-ye8c000/"><circle cx="245.6" cy="177.1" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><circle cx="276.5" cy="160.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/y2b28r56g28r2g28y2-b2c2c80-g006818-rc80000-ydc943c/

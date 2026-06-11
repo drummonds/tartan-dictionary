@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DN/6 P10 DN6 DR42 Y6 B42 G/42 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Falardeau-Murphy (Canada) (Personal)](/setts/s7/g42b42y6r42ba6bb10ba6-b5c8ca8-ba5c5c5c-bb780078-g006818-ra00000-yfccc00/) — ΔT 0.79
+1. [Atlantic, Ancient](/setts/s6/w6b34r32ba4g34y4-b304080-ba000050-g003000-r806050-we0e0e0-yf0c000/) — ΔT 1.00
+1. [Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w6b34g32ba4ga34y4-b2c2c80-ba202060-g604000-ga003820-we0e0e0-ye8c000/) — ΔT 1.08
+1. [Leitrim, County](/setts/s10/w6b36w8k6w8r26w6ba36b4y6-b4c3428-ba5c5c5c-k101010-rb84c00-wa8ace8-yec8048/) — ΔT 1.09
+1. [Orkney](/setts/s8/r12g4b24k4g24r18k4y4-b304080-g607030-k000000-r802040-yd08010/) — ΔT 1.13
+1. [Labrador Club of Scotland (Corporate](/setts/s8/r42y8g10y8r10k42ga42ya10-g604000-ga006818-k101010-ra478a0-y98a46c-yabc8c00/) — ΔT 1.14
+1. [Mekos, The](/setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/) — ΔT 1.14
+1. [Black Hills (Corporate)](/setts/s9/b6w4g28r28k4b14k18y4k4-b2c2c80-g408060-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.16
+1. [Derry Family (Olney, Buckinghamshire) (Personal)](/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b5e71a0-g49543f-ga343f23-rbf1a33-wffffff-yccb78e/) — ΔT 1.16
+1. [YPO Dress](/setts/s8/b6g32b4ba24ga24b4r32w6-b281414-ba28003c-g886000-ga003800-r7c2810-wc8c8c8/) — ΔT 1.16
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g42b42y6r42ba6bb10ba6-b5c8ca8-ba5c5c5c-bb780078-g006818-ra00000-yfccc00/"><circle cx="108.5" cy="190.2" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s6/w6b34r32ba4g34y4-b304080-ba000050-g003000-r806050-we0e0e0-yf0c000/"><circle cx="115.1" cy="194.5" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/setts/s6/w6b34g32ba4ga34y4-b2c2c80-ba202060-g604000-ga003820-we0e0e0-ye8c000/"><circle cx="127.9" cy="201.9" r="4" fill="#3465a4"><title>Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w6b36w8k6w8r26w6ba36b4y6-b4c3428-ba5c5c5c-k101010-rb84c00-wa8ace8-yec8048/"><circle cx="110.2" cy="153.9" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/setts/s8/r12g4b24k4g24r18k4y4-b304080-g607030-k000000-r802040-yd08010/"><circle cx="138.2" cy="214.4" r="4" fill="#3465a4"><title>Orkney</title></circle></a><a href="/setts/s8/r42y8g10y8r10k42ga42ya10-g604000-ga006818-k101010-ra478a0-y98a46c-yabc8c00/"><circle cx="66.8" cy="190.6" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/"><circle cx="83.2" cy="214.3" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s9/b6w4g28r28k4b14k18y4k4-b2c2c80-g408060-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="58.5" cy="163.7" r="4" fill="#3465a4"><title>Black Hills (Corporate)</title></circle></a><a href="/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b5e71a0-g49543f-ga343f23-rbf1a33-wffffff-yccb78e/"><circle cx="104.3" cy="160.6" r="4" fill="#3465a4"><title>Derry Family (Olney, Buckinghamshire) (Personal)</title></circle></a><a href="/setts/s8/b6g32b4ba24ga24b4r32w6-b281414-ba28003c-g886000-ga003800-r7c2810-wc8c8c8/"><circle cx="87.4" cy="190.6" r="4" fill="#3465a4"><title>YPO Dress</title></circle></a><circle cx="101.0" cy="188.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g42b42y6r42ba6bb10ba6-b5f749c-ba14283c-bb5a008c-g004c00-r960028-yffe600/

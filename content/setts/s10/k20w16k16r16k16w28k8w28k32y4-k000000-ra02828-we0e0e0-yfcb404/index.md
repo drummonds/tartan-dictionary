@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | Y | <code style="background-color:#FCB404;"><span style="color:#FCB404;filter:grayscale(1) invert(1) contrast(100);">#FCB404</span></code> `#FCB404` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Little Dress](/setts/s10/k16r16k16r16k16w32k8w32k32y4-k101010-rac0040-we0e0e0-yd09800/) — ΔT 0.96
+1. [Little of Morton Rigg](/setts/s10/k16w16k16w16k16r32k8r32k32y4-k101010-ra4003c-we0e0e0-yd09800/) — ΔT 1.34
+1. [North Carolina State University - Pack Plaid](/setts/s12/w30b50r20w10b50w14b32k18b34k20b46r18-b1c1c1c-k000000-rc80000-wffffff/) — ΔT 1.41
+1. [Kennison](/setts/s8/k44w32y4w28y4w32k44b6-b00008c-k000000-wf8f8f8-yc89800/) — ΔT 1.46
+1. [Little of Morton Rig Family/Clan Tartan Tartan Number: 2349. Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rigg, Dumfries, for the newly organized Clan Little Society. Registered with TECA 12 June1992. Incorporates elements of the Wallace and Shepherd setts. from Pat Little via JCT. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k16w16k16w16k16b32k8b32k32y4-b680028-k101010-wc0c0c0-yd09800/) — ΔT 1.49
+1. [Little of Morton Rig](/setts/s10/k10w7k8w7k8b14k4b14k16y2-b600030-k000000-we0e0e0-yf0c000/) — ΔT 1.49
+1. [Canyon County Idaho Sheriff](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/) — ΔT 1.67
+1. [Sanley-Cantamessa (Personal)](/setts/s7/k32w30k8b24k44r4k12-b14465c-k101010-rda412d-wfcfcfc/) — ΔT 1.68
+1. [Cavan County Crest (Fashion)](/setts/s10/y32b10k52b10w5k24b16w10k11y15-b2c2c80-k101010-we0e0e0-yd87c00/) — ΔT 1.68
+1. [Malliou, Despina (Personal)](/setts/s8/k16r14w8k16g10r14k36wa4-g008b00-k101010-re3170d-wffff7e-wa82cffd/) — ΔT 1.68
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k16r16k16r16k16w32k8w32k32y4-k101010-rac0040-we0e0e0-yd09800/"><circle cx="161.1" cy="206.5" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/setts/s10/k16w16k16w16k16r32k8r32k32y4-k101010-ra4003c-we0e0e0-yd09800/"><circle cx="178.7" cy="211.9" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/setts/s12/w30b50r20w10b50w14b32k18b34k20b46r18-b1c1c1c-k000000-rc80000-wffffff/"><circle cx="219.1" cy="232.1" r="4" fill="#3465a4"><title>North Carolina State University - Pack Plaid</title></circle></a><a href="/setts/s8/k44w32y4w28y4w32k44b6-b00008c-k000000-wf8f8f8-yc89800/"><circle cx="207.9" cy="188.7" r="4" fill="#3465a4"><title>Kennison</title></circle></a><a href="/setts/s10/k16w16k16w16k16b32k8b32k32y4-b680028-k101010-wc0c0c0-yd09800/"><circle cx="191.9" cy="223.2" r="4" fill="#3465a4"><title>Little of Morton Rig Family/Clan Tartan Tartan Number: 2349. Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rigg, Dumfries, for the newly organized Clan Little Society. Registered with TECA 12 June1992. Incorporates elements of the Wallace and Shepherd setts. from Pat Little via JCT. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k10w7k8w7k8b14k4b14k16y2-b600030-k000000-we0e0e0-yf0c000/"><circle cx="189.0" cy="223.5" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/"><circle cx="187.4" cy="255.8" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/setts/s7/k32w30k8b24k44r4k12-b14465c-k101010-rda412d-wfcfcfc/"><circle cx="276.7" cy="212.6" r="4" fill="#3465a4"><title>Sanley-Cantamessa (Personal)</title></circle></a><a href="/setts/s10/y32b10k52b10w5k24b16w10k11y15-b2c2c80-k101010-we0e0e0-yd87c00/"><circle cx="195.6" cy="183.2" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/setts/s8/k16r14w8k16g10r14k36wa4-g008b00-k101010-re3170d-wffff7e-wa82cffd/"><circle cx="226.3" cy="194.7" r="4" fill="#3465a4"><title>Malliou, Despina (Personal)</title></circle></a><circle cx="176.1" cy="217.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/k20w16k16r16k16w28k8w28k32y4-k000000-ra02828-we0e0e0-yfcb404/

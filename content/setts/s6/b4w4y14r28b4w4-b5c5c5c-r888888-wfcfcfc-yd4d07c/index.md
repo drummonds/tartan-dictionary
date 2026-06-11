@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "N/4 W4 LG14 Na28 N4 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cairngorm](/setts/s6/b4w4y14wa28b4w4-b505050-we0e0e0-wac0c0c0-yf0c000/) — ΔT 0.86
+1. [Trinity Bicycles (Corporate)](/setts/s5/g8w22g28wa60r8-g704400-rc80000-wb4c0c8-wac8c8bc/) — ΔT 1.09
+1. [Cairngorm Trade Tartan Tartan Number: 1314. Earliest known date: 1985 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4w4y14wa28b4w4-b5c5c5c-we0e0e0-wac0c0c0-ye8c000/) — ΔT 1.24
+1. [Lochnagar Plaid (District)](/setts/s6/w4b4r28ba16r4w4-b780078-ba5c5c5c-r888888-we0e0e0/) — ΔT 1.45
+1. [S.I.D.E. (Corporate)](/setts/s5/y30r18b60w6ba8-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ye8c000/) — ΔT 1.46
+1. [MacPherson Dress Blue (Dance) #2](/setts/s7/w10r6w52g42w6g16y6-g408060-r800028-we0e0e0-ye8c000/) — ΔT 1.51
+1. [Beck-McSorley](/setts/s8/r6g6w6wa42g42w6g6w6-g285800-re87878-wc49cd8-wac0c0c0/) — ΔT 1.53
+1. [Bagpipe Shop (Switzerland)](/setts/s5/b100w30y30g10r10-b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8/) — ΔT 1.56
+1. [Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w4b4wa28r16wa4w4-b780078-r888888-we0e0e0-wac0c0c0/) — ΔT 1.59
+1. [MacGibboney (Name)](/setts/s6/w8g40wa40b8wa8y8-b5c8ca8-g006818-we0e0e0-wac0c0c0-ye8c000/) — ΔT 1.62
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b4w4y14wa28b4w4-b505050-we0e0e0-wac0c0c0-yf0c000/"><circle cx="262.1" cy="211.7" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/setts/s5/g8w22g28wa60r8-g704400-rc80000-wb4c0c8-wac8c8bc/"><circle cx="234.5" cy="221.1" r="4" fill="#3465a4"><title>Trinity Bicycles (Corporate)</title></circle></a><a href="/setts/s6/b4w4y14wa28b4w4-b5c5c5c-we0e0e0-wac0c0c0-ye8c000/"><circle cx="275.8" cy="218.2" r="4" fill="#3465a4"><title>Cairngorm Trade Tartan Tartan Number: 1314. Earliest known date: 1985 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/w4b4r28ba16r4w4-b780078-ba5c5c5c-r888888-we0e0e0/"><circle cx="309.8" cy="226.9" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/setts/s5/y30r18b60w6ba8-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ye8c000/"><circle cx="229.5" cy="192.7" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/setts/s7/w10r6w52g42w6g16y6-g408060-r800028-we0e0e0-ye8c000/"><circle cx="261.8" cy="190.2" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s8/r6g6w6wa42g42w6g6w6-g285800-re87878-wc49cd8-wac0c0c0/"><circle cx="222.0" cy="184.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s5/b100w30y30g10r10-b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8/"><circle cx="276.7" cy="187.7" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/setts/s6/w4b4wa28r16wa4w4-b780078-r888888-we0e0e0-wac0c0c0/"><circle cx="317.6" cy="225.7" r="4" fill="#3465a4"><title>Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/w8g40wa40b8wa8y8-b5c8ca8-g006818-we0e0e0-wac0c0c0-ye8c000/"><circle cx="169.2" cy="212.7" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><circle cx="250.3" cy="210.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/

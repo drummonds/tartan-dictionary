@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/22 DB10 G8 W6 R6 K32 DB56 LB/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Anne Arundel County](/setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/) — ΔT 0.87
+1. [Unidentified Lady's kilt](/setts/s8/b78g6k28g6ba28y8w4bb4-b2c4084-ba3c82af-bb2a2303-g503c14-k101010-we0e0e0-ye8c000/) — ΔT 1.00
+1. [St. Columba (one green)](/setts/s8/b40g2w2y6ga28ba8g2bb8-b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858/) — ΔT 1.03
+1. [Suzugamine (Corporate)](/setts/s9/b8g10ga38ba10g10k10g10b72y6-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/) — ΔT 1.04
+1. [Scottish Italian](/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.05
+1. [Highland, Blue (Corporate)](/setts/s10/b8g26ba10y6bb12y6ba10bc12ba56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wf8f8f8-ye8c000/) — ΔT 1.11
+1. [Anne Arundel County](/setts/s8/g8k14b66ka18ga4ka18gb20r8-b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000/) — ΔT 1.15
+1. [Fitzgerald Hunting Family Tartan Tartan Number: 1336. Earliest known date: 1985 Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w4b6ba6b26k26b8r4b8g24wa6r2-b202060-ba5c8ca8-g006818-k101010-rc80000-we0e0e0-wac49cd8/) — ΔT 1.19
+1. [Renfrewshire](/setts/s7/b8ba4bb16ba50k16g26y8-b780078-ba2c2c80-bb5c8ca8-g006818-k101010-ye8c000/) — ΔT 1.24
+1. [MacLeroy and Troine 1987](/setts/s10/k4b6w4b6ba8b37y12ba46r6ya4-b00688b-ba3b3131-k000000-r8b1a1a-wf3efed-yacb1b4-yad98719/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/"><circle cx="190.4" cy="137.6" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s8/b78g6k28g6ba28y8w4bb4-b2c4084-ba3c82af-bb2a2303-g503c14-k101010-we0e0e0-ye8c000/"><circle cx="225.2" cy="110.3" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/setts/s8/b40g2w2y6ga28ba8g2bb8-b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858/"><circle cx="200.3" cy="116.2" r="4" fill="#3465a4"><title>St. Columba (one green)</title></circle></a><a href="/setts/s9/b8g10ga38ba10g10k10g10b72y6-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/"><circle cx="218.7" cy="151.0" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/"><circle cx="203.0" cy="152.3" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s10/b8g26ba10y6bb12y6ba10bc12ba56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wf8f8f8-ye8c000/"><circle cx="200.1" cy="119.1" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s8/g8k14b66ka18ga4ka18gb20r8-b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000/"><circle cx="156.4" cy="124.8" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s11/w4b6ba6b26k26b8r4b8g24wa6r2-b202060-ba5c8ca8-g006818-k101010-rc80000-we0e0e0-wac49cd8/"><circle cx="128.1" cy="130.9" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan Tartan Number: 1336. Earliest known date: 1985 Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b8ba4bb16ba50k16g26y8-b780078-ba2c2c80-bb5c8ca8-g006818-k101010-ye8c000/"><circle cx="163.3" cy="170.3" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/setts/s10/k4b6w4b6ba8b37y12ba46r6ya4-b00688b-ba3b3131-k000000-r8b1a1a-wf3efed-yacb1b4-yad98719/"><circle cx="178.1" cy="123.5" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><circle cx="189.4" cy="142.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b22ba10g8w6r6k32ba56wa4-b2c4084-ba003c64-g006400-k101010-rc80000-wffffff-wa98c8e8/

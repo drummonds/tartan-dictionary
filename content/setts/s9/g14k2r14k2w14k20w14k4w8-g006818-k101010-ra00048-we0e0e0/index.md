@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#A00048;"><span style="color:#A00048;filter:grayscale(1) invert(1) contrast(100);">#A00048</span></code> `#A00048` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.11 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Borthwick Dress (Clan)](/setts/s9/g28k4r32k8w28k40w28k8w16-g006818-k101010-r901c38-wfcfcfc/) — ΔT 0.31
+1. [Borthwick, dress](/setts/s9/g14k2r14k2w14k20w14k4w8-g008000-k000000-r900030-we0e0e0/) — ΔT 0.52
+1. [Borthwick Dress](/setts/s9/g24k4r24k6w14k32w14k6w12-g006818-k101010-r880000-wfcfcfc/) — ΔT 0.68
+1. [Unidentified](/setts/s7/w16k4g24k22w2r12g8-g808080-k101010-r960000-we0e0e0/) — ΔT 0.83
+1. [Because You Care](/setts/s7/g32b8g16b26k6w52b20-b440044-g005020-k101010-wffffff/) — ΔT 0.87
+1. [Bannockbane Grey #1](/setts/s8/k8y4k26y2w16r26y4r8-k101010-r888888-wfcfcfc-ye8c000/) — ΔT 0.94
+1. [Bannockbane, Dark Tan](/setts/s8/b8y4b26y2w16ba26y4ba8-b401000-ba5480b0-we0e0e0-yf0c000/) — ΔT 1.01
+1. [Bannockbane Light Tan](/setts/s8/k8y4k26y2w16ya26y4ya8-k101010-we0e0e0-ye8c000-yaa08858/) — ΔT 1.11
+1. [Fraser Dress](/setts/s6/r6k14r6g14w27k4-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.12
+1. [Bannockbane Blue Trade Tartan Tartan Number: 665. Earliest known date: c.1984 A fashion pattern from the early 1970s. Other variants of the design appeared up to 1984. No place or family of the name is known and the pattern has no association with Bannockburn, or famous battle of 1314. Donald Broun may have been a designer with Edinburgh Woollen Mills. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b8y4b26w16y2k26y4k8-b5c8ca8-k101010-we0e0e0-ye8c000/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g28k4r32k8w28k40w28k8w16-g006818-k101010-r901c38-wfcfcfc/"><circle cx="109.3" cy="190.2" r="4" fill="#3465a4"><title>Borthwick Dress (Clan)</title></circle></a><a href="/setts/s9/g14k2r14k2w14k20w14k4w8-g008000-k000000-r900030-we0e0e0/"><circle cx="119.4" cy="189.4" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><a href="/setts/s9/g24k4r24k6w14k32w14k6w12-g006818-k101010-r880000-wfcfcfc/"><circle cx="97.4" cy="196.9" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/setts/s7/w16k4g24k22w2r12g8-g808080-k101010-r960000-we0e0e0/"><circle cx="141.5" cy="194.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/setts/s7/g32b8g16b26k6w52b20-b440044-g005020-k101010-wffffff/"><circle cx="117.8" cy="200.8" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/setts/s8/k8y4k26y2w16r26y4r8-k101010-r888888-wfcfcfc-ye8c000/"><circle cx="149.5" cy="168.7" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/setts/s8/b8y4b26y2w16ba26y4ba8-b401000-ba5480b0-we0e0e0-yf0c000/"><circle cx="161.3" cy="171.9" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/setts/s8/k8y4k26y2w16ya26y4ya8-k101010-we0e0e0-ye8c000-yaa08858/"><circle cx="154.9" cy="169.9" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><a href="/setts/s6/r6k14r6g14w27k4-g005020-k101010-rdc0000-we0e0e0/"><circle cx="119.2" cy="210.6" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/setts/s8/b8y4b26w16y2k26y4k8-b5c8ca8-k101010-we0e0e0-ye8c000/"><circle cx="150.7" cy="173.2" r="4" fill="#3465a4"><title>Bannockbane Blue Trade Tartan Tartan Number: 665. Earliest known date: c.1984 A fashion pattern from the early 1970s. Other variants of the design appeared up to 1984. No place or family of the name is known and the pattern has no association with Bannockburn, or famous battle of 1314. Donald Broun may have been a designer with Edinburgh Woollen Mills. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="125.5" cy="189.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/g14k2r14k2w14k20w14k4w8-g006818-k101010-ra00048-we0e0e0/

@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Nickel Lodge Centennial Corporate Tartan Tartan Number: 920. Earliest known date: 1988 1989 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r36y2r4y2r4b12w8g2ga12-b2c2c80-g604000-ga006818-r888888-we0e0e0-ye8c000/) — ΔT 0.40
+1. [Nickel Lodge, Centennial](/setts/s9/g36y2g4y2g4b12w8r2ga12-b304080-g808080-ga008000-r806050-we0e0e0-yf0c000/) — ΔT 0.68
+1. [State Seal of West Virginia (Fash)](/setts/s8/r98y6b26g16k46b20r28ra8-b1474b4-g604000-k101010-r888888-rac80000-ybc8c00/) — ΔT 0.92
+1. [O'Donohue Personal)](/setts/s10/b48w4b12g18r12b6r12g70k4y4-b3850c8-g009468-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 1.04
+1. [Caskie](/setts/s7/w6k2b50r14g24k2y6-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.08
+1. [Wynberg Boys' High School](/setts/s9/w4r13g54ga22k4gb20g48r13w4-g048888-ga285800-gb8c7038-k000000-r800028-wf8f4d0/) — ΔT 1.09
+1. [State Seal of Delaware (Fashion)](/setts/s10/w76b36w8y6g20ya6g8w6ya34r8-b003c64-g006818-rc80000-wc0c0c0-yfccc00-yaa08858/) — ΔT 1.15
+1. [Gallagher Ancient](/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-re87878-we0e0e0-ya08858/) — ΔT 1.16
+1. [Guszcza, The (Personal)](/setts/s9/b56r4b6w4b34g16wa32y6wa6-b505050-g808080-rdc0000-we0e0e0-wac0c0c0-ybe9650/) — ΔT 1.19
+1. [WCWM 3947](/setts/s8/r4b60y6b4r32ra4g32w4-b3850c8-g289c18-r888888-rac80000-we0e0e0-ye8c000/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r36y2r4y2r4b12w8g2ga12-b2c2c80-g604000-ga006818-r888888-we0e0e0-ye8c000/"><circle cx="267.8" cy="118.7" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan Tartan Number: 920. Earliest known date: 1988 1989 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g36y2g4y2g4b12w8r2ga12-b304080-g808080-ga008000-r806050-we0e0e0-yf0c000/"><circle cx="282.8" cy="126.1" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/setts/s8/r98y6b26g16k46b20r28ra8-b1474b4-g604000-k101010-r888888-rac80000-ybc8c00/"><circle cx="239.9" cy="144.9" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/setts/s10/b48w4b12g18r12b6r12g70k4y4-b3850c8-g009468-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="236.3" cy="119.6" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/setts/s7/w6k2b50r14g24k2y6-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="237.2" cy="116.8" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/setts/s9/w4r13g54ga22k4gb20g48r13w4-g048888-ga285800-gb8c7038-k000000-r800028-wf8f4d0/"><circle cx="263.6" cy="158.1" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/setts/s10/w76b36w8y6g20ya6g8w6ya34r8-b003c64-g006818-rc80000-wc0c0c0-yfccc00-yaa08858/"><circle cx="172.7" cy="121.0" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s9/b8g82y8ga8y8ga18r36y8w8-b202060-g005448-ga008c54-re87878-we0e0e0-ya08858/"><circle cx="198.8" cy="140.0" r="4" fill="#3465a4"><title>Gallagher Ancient</title></circle></a><a href="/setts/s9/b56r4b6w4b34g16wa32y6wa6-b505050-g808080-rdc0000-we0e0e0-wac0c0c0-ybe9650/"><circle cx="298.2" cy="143.5" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><a href="/setts/s8/r4b60y6b4r32ra4g32w4-b3850c8-g289c18-r888888-rac80000-we0e0e0-ye8c000/"><circle cx="211.0" cy="135.7" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><circle cx="243.7" cy="128.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/r32y2r4y2r4b12w8g2ga12-b003c64-g604000-ga005834-r888888-we0e0e0-ye8c000/

@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DN/8 K18 DGa40 P4 DG40 K10 DN12 N/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ithilien Heather (Personal)](/setts/s9/g40r4ga6b24k40r4ba6b8ba6-b1c2448-ba4c5474-g203824-ga486038-k101010-r8c1c38/) — ΔT 1.23
+1. [Cowal Highland Gathering](/setts/s9/g8ga32b4ga4b4ga4b32ba36bb4-b14283c-ba003c64-bb5c5c5c-g003820-ga5c6428/) — ΔT 1.50
+1. [Lunting Papi (Personal)](/setts/s7/r5ra8b13g21ga34gb55r3-b440044-g003000-ga003820-gb005028-ra07c58-ra800000/) — ΔT 1.52
+1. [Sound of Mull](/setts/s9/b60ba8g12bb8g12bc12g24bc26bd8-b141e46-ba003c64-bb505050-bc646464-bd4c0000-g503c14/) — ΔT 1.56
+1. [Brocéliande (Restricted)](/setts/s8/k6g22ga30gb10ga20gc28gb28y4-g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a/) — ΔT 1.65
+1. [Linden](/setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/) — ΔT 1.66
+1. [Brydon (Scottish Borders)](/setts/s10/b4g32ba32bb4ba4bb4ba4bb30bc6y4-b780078-ba1c1c1c-bb14283c-bc000080-g004028-yd87c00/) — ΔT 1.68
+1. [House of Bruar (Corporate)](/setts/s6/b12ba52bb56g52bb16ga6-b4c0000-ba4c3428-bb14283c-g006818-ga8c7038/) — ΔT 1.68
+1. [Myres Castle](/setts/s7/b6g24ba12ga6bb30gb4bb4-b233d30-ba282d4b-bb200a4a-g0e3820-ga2d503c-gb8d815b/) — ΔT 1.72
+1. [Staley (2014)](/setts/s6/b18w4ba50bb20k30bc8-b2c4084-ba002814-bb441800-bc3d1130-k101010-wf8f4d0/) — ΔT 1.73
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g40r4ga6b24k40r4ba6b8ba6-b1c2448-ba4c5474-g203824-ga486038-k101010-r8c1c38/"><circle cx="220.7" cy="210.5" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/setts/s9/g8ga32b4ga4b4ga4b32ba36bb4-b14283c-ba003c64-bb5c5c5c-g003820-ga5c6428/"><circle cx="250.1" cy="226.6" r="4" fill="#3465a4"><title>Cowal Highland Gathering</title></circle></a><a href="/setts/s7/r5ra8b13g21ga34gb55r3-b440044-g003000-ga003820-gb005028-ra07c58-ra800000/"><circle cx="277.6" cy="205.0" r="4" fill="#3465a4"><title>Lunting Papi (Personal)</title></circle></a><a href="/setts/s9/b60ba8g12bb8g12bc12g24bc26bd8-b141e46-ba003c64-bb505050-bc646464-bd4c0000-g503c14/"><circle cx="218.5" cy="217.7" r="4" fill="#3465a4"><title>Sound of Mull</title></circle></a><a href="/setts/s8/k6g22ga30gb10ga20gc28gb28y4-g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a/"><circle cx="171.6" cy="261.4" r="4" fill="#3465a4"><title>Brocéliande (Restricted)</title></circle></a><a href="/setts/s8/b8k18g40ba4ga40k10b12w4-b14283c-ba780078-g006818-ga003820-k101010-wc0c0c0/"><circle cx="153.2" cy="200.2" r="4" fill="#3465a4"><title>Linden</title></circle></a><a href="/setts/s10/b4g32ba32bb4ba4bb4ba4bb30bc6y4-b780078-ba1c1c1c-bb14283c-bc000080-g004028-yd87c00/"><circle cx="248.3" cy="219.9" r="4" fill="#3465a4"><title>Brydon (Scottish Borders)</title></circle></a><a href="/setts/s6/b12ba52bb56g52bb16ga6-b4c0000-ba4c3428-bb14283c-g006818-ga8c7038/"><circle cx="247.7" cy="262.3" r="4" fill="#3465a4"><title>House of Bruar (Corporate)</title></circle></a><a href="/setts/s7/b6g24ba12ga6bb30gb4bb4-b233d30-ba282d4b-bb200a4a-g0e3820-ga2d503c-gb8d815b/"><circle cx="249.5" cy="245.5" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/setts/s6/b18w4ba50bb20k30bc8-b2c4084-ba002814-bb441800-bc3d1130-k101010-wf8f4d0/"><circle cx="204.2" cy="219.9" r="4" fill="#3465a4"><title>Staley (2014)</title></circle></a><circle cx="193.8" cy="221.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b8k18g40ba4ga40k10b12y4-b002c48-ba780078-g004810-ga002c18-k101010-yc0b8b4/

@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/220 DB20 LN20 Y/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Varrie Commemorative Tartan Tartan Number: 9113. Earliest known date: 2009 November I have designed this tartan in remembrance of my mother Jean Alexander Varrie and for her Scottish Heritage, and all the Varrie Family's can used this design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b180ba20w20y20-b2888c4-ba2c2c80-we0e0e0-ye8c000/) — ΔT 0.72
+1. [Poulain League (Corporate)](/setts/s3/y12b76k6-b2888c4-k101010-ye8c000/) — ΔT 1.49
+1. [Laidlaw's Highland Drovers](/setts/s6/b70k20b8w4b6r4-b1474b4-k101010-rc80000-wf8f8f8/) — ΔT 1.95
+1. [Gyle (Corporate)](/setts/s3/b160g20r40-b2888c4-g003820-r880000/) — ΔT 2.01
+1. [Dominion (Fashion)](/setts/s7/y12r2y34b6y6b16y2-b2c2c80-rc80000-y6c9cb4/) — ΔT 2.18
+1. [GulfMark](/setts/s5/b144ba12b24ba34w12-b3c4266-ba6675a0-wffffff/) — ΔT 2.21
+1. [Tokyo Bluebells (Corporate)](/setts/s8/b72r4b4r4b4k28b52w8-b1474b4-k101010-rc80000-we0e0e0/) — ΔT 2.22
+1. [Loch Lomond Trade Tartan Tartan Number: 628. Earliest known date: pre 1984 Sent to the Scottish Tartans Society in Comrie by Lumsden of Toronto. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/b74ba18b6bb18w6-b5c8ca8-ba1870a4-bb202060-we0e0e0/) — ΔT 2.25
+1. [RAAF #3](/setts/s9/b96w4b14w4b14w4b40ba22r4-b5c8ca8-ba2c2c80-rc80000-we0e0e0/) — ΔT 2.29
+1. [Gyle](/setts/s4/r40g20b160g20-b2888c4-g003820-r880000/) — ΔT 2.32
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b180ba20w20y20-b2888c4-ba2c2c80-we0e0e0-ye8c000/"><circle cx="460.8" cy="223.0" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan Tartan Number: 9113. Earliest known date: 2009 November I have designed this tartan in remembrance of my mother Jean Alexander Varrie and for her Scottish Heritage, and all the Varrie Family's can used this design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/y12b76k6-b2888c4-k101010-ye8c000/"><circle cx="530.3" cy="247.3" r="4" fill="#3465a4"><title>Poulain League (Corporate)</title></circle></a><a href="/setts/s6/b70k20b8w4b6r4-b1474b4-k101010-rc80000-wf8f8f8/"><circle cx="470.2" cy="173.1" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/setts/s3/b160g20r40-b2888c4-g003820-r880000/"><circle cx="453.6" cy="278.6" r="4" fill="#3465a4"><title>Gyle (Corporate)</title></circle></a><a href="/setts/s7/y12r2y34b6y6b16y2-b2c2c80-rc80000-y6c9cb4/"><circle cx="452.5" cy="205.1" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/setts/s5/b144ba12b24ba34w12-b3c4266-ba6675a0-wffffff/"><circle cx="511.5" cy="233.0" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/setts/s8/b72r4b4r4b4k28b52w8-b1474b4-k101010-rc80000-we0e0e0/"><circle cx="458.9" cy="168.5" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><a href="/setts/s5/b74ba18b6bb18w6-b5c8ca8-ba1870a4-bb202060-we0e0e0/"><circle cx="415.5" cy="218.7" r="4" fill="#3465a4"><title>Loch Lomond Trade Tartan Tartan Number: 628. Earliest known date: pre 1984 Sent to the Scottish Tartans Society in Comrie by Lumsden of Toronto. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b96w4b14w4b14w4b40ba22r4-b5c8ca8-ba2c2c80-rc80000-we0e0e0/"><circle cx="572.4" cy="161.6" r="4" fill="#3465a4"><title>RAAF #3</title></circle></a><a href="/setts/s4/r40g20b160g20-b2888c4-g003820-r880000/"><circle cx="405.3" cy="252.9" r="4" fill="#3465a4"><title>Gyle</title></circle></a><circle cx="510.9" cy="216.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/b220ba20w20y20-b2888c4-ba2c2c80-we0e0e0-ye8c000/

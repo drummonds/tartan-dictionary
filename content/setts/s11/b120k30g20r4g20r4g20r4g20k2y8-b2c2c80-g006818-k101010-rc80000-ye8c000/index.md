@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [State Seal of Connecticut (Fashion)](/setts/s10/b8g12ba8g56w8g12ba12bb92ba2w8-b440044-ba003c64-bb2c2c80-g006818-we8ccb8/) — ΔT 0.77
+1. [Cooper Family Tartan Tartan Number: 332. Earliest known date: pre 2003 See Couper. (Couper of Gogar) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b116k4g22r7b3r7k26b7g3b7g66b4r7ra4-b2c2c80-g006818-k101010-rd05054-rac80000/) — ΔT 0.77
+1. [Prestoungrange (Personal)](/setts/s14/g6b4g6r8g30k4g4k4g6ba70k4ba4k2ba4-b2888c4-ba2c2c80-g006818-k101010-rc80000/) — ΔT 1.02
+1. [Brighton Mac Dermott (Fashion)](/setts/s9/b94y2k54r8g10y2r16ba2k2-b5c5c5c-ba1474b4-g003820-k00002c-r888888-ydc943c/) — ΔT 1.04
+1. [Cooper](/setts/s14/b116k4g22r7b3r7k26b7g3b7g66b4r7ra4-b304080-g008000-k000000-rd03030-rac00000/) — ΔT 1.05
+1. [More / Muir](/setts/s11/b120k30g20r4g20r4g20r4g20k2y8-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 1.06
+1. [Prestoungrange/Dolphinstoun/Wills](/setts/s14/g6b4g6r8g30k4g4k4g6ba70k4ba4k2ba4-b8080d0-ba304080-g008000-k000000-rc00000/) — ΔT 1.10
+1. [Sinclair-Brown (Personal)](/setts/s8/b128k22r4k8r4k8g64y8-b2c2c80-g006818-k101010-rc80000-ybc8c00/) — ΔT 1.13
+1. [Mulcahy](/setts/s11/b66k2b10k15g15r4g15r4g30y2w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.17
+1. [Bro-Kerne](/setts/s9/w6b2k28b4k2g12k2b60y6-b34445c-g587c40-k101010-wf8f8f8-ybc8c00/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b8g12ba8g56w8g12ba12bb92ba2w8-b440044-ba003c64-bb2c2c80-g006818-we8ccb8/"><circle cx="287.1" cy="102.6" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/setts/s14/b116k4g22r7b3r7k26b7g3b7g66b4r7ra4-b2c2c80-g006818-k101010-rd05054-rac80000/"><circle cx="328.4" cy="84.5" r="4" fill="#3465a4"><title>Cooper Family Tartan Tartan Number: 332. Earliest known date: pre 2003 See Couper. (Couper of Gogar) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/g6b4g6r8g30k4g4k4g6ba70k4ba4k2ba4-b2888c4-ba2c2c80-g006818-k101010-rc80000/"><circle cx="342.8" cy="90.2" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/setts/s9/b94y2k54r8g10y2r16ba2k2-b5c5c5c-ba1474b4-g003820-k00002c-r888888-ydc943c/"><circle cx="309.8" cy="77.3" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/setts/s14/b116k4g22r7b3r7k26b7g3b7g66b4r7ra4-b304080-g008000-k000000-rd03030-rac00000/"><circle cx="298.5" cy="71.7" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s11/b120k30g20r4g20r4g20r4g20k2y8-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="292.9" cy="76.9" r="4" fill="#3465a4"><title>More / Muir</title></circle></a><a href="/setts/s14/g6b4g6r8g30k4g4k4g6ba70k4ba4k2ba4-b8080d0-ba304080-g008000-k000000-rc00000/"><circle cx="312.1" cy="76.9" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/setts/s8/b128k22r4k8r4k8g64y8-b2c2c80-g006818-k101010-rc80000-ybc8c00/"><circle cx="342.3" cy="126.7" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/setts/s11/b66k2b10k15g15r4g15r4g30y2w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="267.8" cy="97.7" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/setts/s9/w6b2k28b4k2g12k2b60y6-b34445c-g587c40-k101010-wf8f8f8-ybc8c00/"><circle cx="328.0" cy="113.0" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><circle cx="321.0" cy="88.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s11/b120k30g20r4g20r4g20r4g20k2y8-b2c2c80-g006818-k101010-rc80000-ye8c000/

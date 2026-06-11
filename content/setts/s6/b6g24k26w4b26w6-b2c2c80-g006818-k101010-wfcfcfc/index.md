@@ -38,4 +38,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DBa/6 G24 K26 W4 DBa26 W/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Edinburgh Tattoo 50th (Commemorative](/setts/s5/k4b32r24g32k4-b000090-g008854-k000000-rc80000/) — ΔT 0.76
+1. [Unidentified No 26](/setts/s6/w4b4g22k20b20w3-b2c4084-g005020-k101010-we0e0e0/) — ΔT 0.77
+1. [Unnamed, No 26](/setts/s6/w4b4g22k20b20w3-b304080-g008000-k000000-we0e0e0/) — ΔT 0.81
+1. [Murray](/setts/s6/b4k4b24k16g22r4-b304080-g008000-k000000-rc00000/) — ΔT 0.86
+1. [Campbell, The White Stripe](/setts/s6/b4k4b24k22g24w4-b304080-g008000-k000000-we0e0e0/) — ΔT 0.89
+1. [Melville](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/) — ΔT 0.90
+1. [Douglas Green](/setts/s5/k4w2g8b8w1-b000064-g004c00-k000000-wd0d0d0/) — ΔT 0.91
+1. [Fletcher of Dunans](/setts/s7/b12k2b12k16r2g16r4-b304080-g008000-k000000-rc00000/) — ΔT 0.92
+1. [Wellington, or Waterloo](/setts/s6/b6g12k12b8r2b2-b5480b0-g008000-k000000-rc00000/) — ΔT 0.93
+1. [Wellington, or Waterloo](/setts/s6/b6g24k28b22r6b6-b5480b0-g008000-k000000-rc00000/) — ΔT 0.95
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k4b32r24g32k4-b000090-g008854-k000000-rc80000/"><circle cx="139.8" cy="232.0" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/setts/s6/w4b4g22k20b20w3-b2c4084-g005020-k101010-we0e0e0/"><circle cx="146.4" cy="236.9" r="4" fill="#3465a4"><title>Unidentified No 26</title></circle></a><a href="/setts/s6/w4b4g22k20b20w3-b304080-g008000-k000000-we0e0e0/"><circle cx="114.6" cy="224.1" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s6/b4k4b24k16g22r4-b304080-g008000-k000000-rc00000/"><circle cx="149.3" cy="238.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s6/b4k4b24k22g24w4-b304080-g008000-k000000-we0e0e0/"><circle cx="126.2" cy="235.3" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/"><circle cx="164.1" cy="237.3" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s5/k4w2g8b8w1-b000064-g004c00-k000000-wd0d0d0/"><circle cx="132.3" cy="241.9" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/setts/s7/b12k2b12k16r2g16r4-b304080-g008000-k000000-rc00000/"><circle cx="144.1" cy="226.6" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/setts/s6/b6g12k12b8r2b2-b5480b0-g008000-k000000-rc00000/"><circle cx="126.0" cy="243.8" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/b6g24k28b22r6b6-b5480b0-g008000-k000000-rc00000/"><circle cx="113.2" cy="248.3" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><circle cx="123.0" cy="235.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b6g24k26w4b26w6-b2c2c80-g006818-k101010-wfcfcfc/

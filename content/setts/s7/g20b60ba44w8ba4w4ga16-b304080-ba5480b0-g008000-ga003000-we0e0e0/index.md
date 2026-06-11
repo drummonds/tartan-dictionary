@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DG/16 LN4 Ba4 LN8 Ba44 B60 G/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Highlands Country Club Corporate Tartan Tartan Number: 687. Earliest known date: 1984 Weft uses a dark green. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/g20b60ba44w8ba4w4ga16-b2c2c80-ba5c8ca8-g006818-ga003820-we0e0e0/) — ΔT 0.39
+1. [Rhode Island, State of](/setts/s7/b8ba56b22w4b4g28y4-b14283c-ba1474b4-g408060-we0e0e0-ye8c000/) — ΔT 0.81
+1. [MacThomas](/setts/s7/b10r6b64k32g64ra6g10-b1474b4-g1b835d-k101010-rcb15ab-rabb62ce/) — ΔT 0.85
+1. [Afternoon Tea / Earl Grey](/setts/s6/r15b98ba72y25ba8w15-b3682af-ba003c64-re87878-wf0e0c8-yc4bc68/) — ΔT 0.87
+1. [MacCord / McCord (Personal)](/setts/s7/g12r4b2r6b32ga40w4-b202060-g285800-ga048888-rc80000-we0e0e0/) — ΔT 0.88
+1. [Ednie (Personal)](/setts/s7/b44k16g16r4g16k4ra4-b1474b4-g006818-k101010-rb468ac-rac80000/) — ΔT 1.01
+1. [Icelandair](/setts/s7/b6ba48k22b40w4b10y6-b2c4084-ba2888c4-k101010-wffffff-yd87c00/) — ΔT 1.07
+1. [Banff and Buchan District Tartan Tartan Number: 2150. Earliest known date: 1992 This tartan has been designed for the District of Banff and Buchan. It is based on the sett of the Ogilvy Tartan which originates from this district. The colours are taken from the surrounding landscape - the blues of the mountains and the sea, also of the sky, with touches of white. The yellow is reminiscent of the cornfields. (J.Roberts) The tartan is produced by Macnaughtons of Pitlochry. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b52w4b6ba30bb52ba4bb6y8-b202060-ba2c2c80-bb5c8ca8-we0e0e0-ye8c000/) — ΔT 1.11
+1. [Newmill](/setts/s7/r8ra40b24ba88b24ra40y8-b14283c-ba003c64-r880000-ra888888-yd09800/) — ΔT 1.13
+1. [MacWilliam (Clan)](/setts/s6/g8ga48k40r4b64r8-b1474b4-g604000-ga006818-k101010-rc80000/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g20b60ba44w8ba4w4ga16-b2c2c80-ba5c8ca8-g006818-ga003820-we0e0e0/"><circle cx="186.6" cy="170.4" r="4" fill="#3465a4"><title>Highlands Country Club Corporate Tartan Tartan Number: 687. Earliest known date: 1984 Weft uses a dark green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b8ba56b22w4b4g28y4-b14283c-ba1474b4-g408060-we0e0e0-ye8c000/"><circle cx="241.5" cy="176.4" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/setts/s7/b10r6b64k32g64ra6g10-b1474b4-g1b835d-k101010-rcb15ab-rabb62ce/"><circle cx="207.3" cy="193.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s6/r15b98ba72y25ba8w15-b3682af-ba003c64-re87878-wf0e0c8-yc4bc68/"><circle cx="204.3" cy="183.4" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s7/g12r4b2r6b32ga40w4-b202060-g285800-ga048888-rc80000-we0e0e0/"><circle cx="221.6" cy="154.2" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><a href="/setts/s7/b44k16g16r4g16k4ra4-b1474b4-g006818-k101010-rb468ac-rac80000/"><circle cx="208.5" cy="190.4" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/setts/s7/b6ba48k22b40w4b10y6-b2c4084-ba2888c4-k101010-wffffff-yd87c00/"><circle cx="202.1" cy="184.1" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/setts/s8/b52w4b6ba30bb52ba4bb6y8-b202060-ba2c2c80-bb5c8ca8-we0e0e0-ye8c000/"><circle cx="190.8" cy="164.6" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan Tartan Number: 2150. Earliest known date: 1992 This tartan has been designed for the District of Banff and Buchan. It is based on the sett of the Ogilvy Tartan which originates from this district. The colours are taken from the surrounding landscape - the blues of the mountains and the sea, also of the sky, with touches of white. The yellow is reminiscent of the cornfields. (J.Roberts) The tartan is produced by Macnaughtons of Pitlochry. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r8ra40b24ba88b24ra40y8-b14283c-ba003c64-r880000-ra888888-yd09800/"><circle cx="201.9" cy="203.6" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/setts/s6/g8ga48k40r4b64r8-b1474b4-g604000-ga006818-k101010-rc80000/"><circle cx="188.9" cy="187.6" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><circle cx="193.7" cy="173.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g20b60ba44w8ba4w4ga16-b304080-ba5480b0-g008000-ga003000-we0e0e0/

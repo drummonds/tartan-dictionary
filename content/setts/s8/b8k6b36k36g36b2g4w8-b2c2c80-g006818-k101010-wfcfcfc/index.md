@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/8 K6 DB36 K36 G36 DB2 G4 W/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Blair](/setts/s7/b8r2b36k40g36r2g8-b2c2c80-g006818-k000000-rc80000/) — ΔT 0.82
+1. [Herd Family Tartan Tartan Number: 170. Earliest known date: 1978 Woven for the wedding of William Hurd to Heather Petit. From JCT: STS monitoring committee recorded 1978. In march 2005. STS Record has the application being made by Councillor R J Herd, C.Eng, M.I.C.E., A.M.B.I.M. who had been granted arms by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4g24k26w2b26w4-b2c2c80-g006818-k101010-we0e0e0/) — ΔT 0.85
+1. [Baird](/setts/s8/r7g3r2g33k31b31k3b3-b304080-g008000-k000000-r900030/) — ΔT 0.92
+1. [Hebridean Old](/setts/s9/b4k4b36ba2k26ba2g32b6k4-b304080-ba8080d0-g008000-k000000/) — ΔT 0.97
+1. [Lochaber District](/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/) — ΔT 0.98
+1. [Glenturret Distillery](/setts/s6/y8b48g6k42g46k2-b1c0070-g006818-k101010-yd09800/) — ΔT 0.99
+1. [MacCormick](/setts/s7/w6k2g40k32b40k2y6-b2c2c80-g006818-k101010-we0e0e0-ye8c000/) — ΔT 1.00
+1. [Whitson #2](/setts/s8/w8k2g36k34b26r2b6r2-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.03
+1. [Bedford High School](/setts/s8/b8k6b24k22g26ga2g2ga6-b2c2c80-g006818-ga289c18-k101010/) — ΔT 1.10
+1. [Oceanic (Corporate?)](/setts/s7/y8k4r39k37b36k6b7-b003c64-k101010-r888888-ye8c000/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b8r2b36k40g36r2g8-b2c2c80-g006818-k000000-rc80000/"><circle cx="200.4" cy="182.0" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s6/b4g24k26w2b26w4-b2c2c80-g006818-k101010-we0e0e0/"><circle cx="183.8" cy="210.4" r="4" fill="#3465a4"><title>Herd Family Tartan Tartan Number: 170. Earliest known date: 1978 Woven for the wedding of William Hurd to Heather Petit. From JCT: STS monitoring committee recorded 1978. In march 2005. STS Record has the application being made by Councillor R J Herd, C.Eng, M.I.C.E., A.M.B.I.M. who had been granted arms by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r7g3r2g33k31b31k3b3-b304080-g008000-k000000-r900030/"><circle cx="174.1" cy="168.1" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s9/b4k4b36ba2k26ba2g32b6k4-b304080-ba8080d0-g008000-k000000/"><circle cx="215.3" cy="158.1" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/"><circle cx="204.4" cy="164.7" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/setts/s6/y8b48g6k42g46k2-b1c0070-g006818-k101010-yd09800/"><circle cx="221.4" cy="194.3" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/setts/s7/w6k2g40k32b40k2y6-b2c2c80-g006818-k101010-we0e0e0-ye8c000/"><circle cx="166.8" cy="157.7" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/setts/s8/w8k2g36k34b26r2b6r2-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="173.5" cy="157.2" r="4" fill="#3465a4"><title>Whitson #2</title></circle></a><a href="/setts/s8/b8k6b24k22g26ga2g2ga6-b2c2c80-g006818-ga289c18-k101010/"><circle cx="193.0" cy="207.5" r="4" fill="#3465a4"><title>Bedford High School</title></circle></a><a href="/setts/s7/y8k4r39k37b36k6b7-b003c64-k101010-r888888-ye8c000/"><circle cx="169.4" cy="207.2" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><circle cx="192.4" cy="177.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/

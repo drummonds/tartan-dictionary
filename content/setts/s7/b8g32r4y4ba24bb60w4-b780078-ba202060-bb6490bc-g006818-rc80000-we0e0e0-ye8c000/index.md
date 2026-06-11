@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/4 B60 DB24 Y4 R4 G32 P/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b4g12r2y2ba6bb20w2-b780078-ba202060-bb2888c4-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.75
+1. [Manx National](/setts/s7/b8g31r4ga4ba17bb64w4-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/) — ΔT 0.77
+1. [Manx National](/setts/s7/b4g12r2ga2ba6bb20w2-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/) — ΔT 0.92
+1. [O'Reilly (Estimated threadcount)](/setts/s9/r8b6y4k4y24k4ba20bb50w4-b1474b4-ba2c2c80-bb5c8ca8-k101010-rc80000-wf8f8f8-ya0a0a0/) — ΔT 1.06
+1. [WCWM 3947](/setts/s8/r4b60y6b4r32ra4g32w4-b3850c8-g289c18-r888888-rac80000-we0e0e0-ye8c000/) — ΔT 1.09
+1. [Scout Mapping Service #1 (Corporate)](/setts/s7/b48r16g16ra4ga16k2y4-b2c2c80-g006818-ga289c18-k101010-r901c38-rac80000-yfccc00/) — ΔT 1.18
+1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/w2wa4g24k4w4k4b30w4y2-b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f/) — ΔT 1.19
+1. [Glen Lyon (Fashion)](/setts/s7/r12b4r44w4k20ba56y12-b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00/) — ΔT 1.22
+1. [Highland, Blue (Corporate)](/setts/s10/b8g26ba10y6bb12y6ba10bc12ba56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wf8f8f8-ye8c000/) — ΔT 1.23
+1. [MacLeroy and Troine 1987](/setts/s10/k4b6w4b6ba8b37y12ba46r6ya4-b00688b-ba3b3131-k000000-r8b1a1a-wf3efed-yacb1b4-yad98719/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b4g12r2y2ba6bb20w2-b780078-ba202060-bb2888c4-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="140.5" cy="147.9" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b8g31r4ga4ba17bb64w4-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/"><circle cx="204.4" cy="114.3" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s7/b4g12r2ga2ba6bb20w2-b800080-ba000050-bb8080d0-g008000-ga908000-rc00000-we0e0e0/"><circle cx="133.5" cy="139.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s9/r8b6y4k4y24k4ba20bb50w4-b1474b4-ba2c2c80-bb5c8ca8-k101010-rc80000-wf8f8f8-ya0a0a0/"><circle cx="155.8" cy="118.8" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><a href="/setts/s8/r4b60y6b4r32ra4g32w4-b3850c8-g289c18-r888888-rac80000-we0e0e0-ye8c000/"><circle cx="211.0" cy="135.7" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><a href="/setts/s7/b48r16g16ra4ga16k2y4-b2c2c80-g006818-ga289c18-k101010-r901c38-rac80000-yfccc00/"><circle cx="199.4" cy="115.3" r="4" fill="#3465a4"><title>Scout Mapping Service #1 (Corporate)</title></circle></a><a href="/setts/s9/w2wa4g24k4w4k4b30w4y2-b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f/"><circle cx="176.8" cy="120.9" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s7/r12b4r44w4k20ba56y12-b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00/"><circle cx="176.9" cy="160.5" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s10/b8g26ba10y6bb12y6ba10bc12ba56w4-b780078-ba2c2c80-bb5c8ca8-bc5c5c5c-g006818-wf8f8f8-ye8c000/"><circle cx="200.1" cy="119.1" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s10/k4b6w4b6ba8b37y12ba46r6ya4-b00688b-ba3b3131-k000000-r8b1a1a-wf3efed-yacb1b4-yad98719/"><circle cx="178.1" cy="123.5" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><circle cx="180.8" cy="127.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b8g32r4y4ba24bb60w4-b780078-ba202060-bb6490bc-g006818-rc80000-we0e0e0-ye8c000/

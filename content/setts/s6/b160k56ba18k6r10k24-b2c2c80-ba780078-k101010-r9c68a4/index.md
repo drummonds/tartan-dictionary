@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/160 K56 P18 K6 LP10 K/24 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Deighan (Burham Kent) (Name)](/setts/s5/b8ba86k40b14r4-b5c5c5c-ba000068-k101010-r888888/) — ΔT 1.18
+1. [Home or Hume Clan Tartan Tartan Number: 127. Earliest known date: 1842 D.W.Stewart says, "The tartan of the ancient and notable family of Home, though differing in colour, has the same scheme as the Grey Douglas. Both first appear in the Vestiarium Scoticum." Border 'Clans' are mentioned in an Act of the Scottish Parliament in 1587, but no evidence of a Clan tartan exists before the earliest date given here. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k56r2k4r2k16b48g4b6-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.24
+1. [Potts (Personal)](/setts/s6/g2b72ba56b6g6y2-b202060-ba441800-g74846c-yfccc00/) — ΔT 1.29
+1. [Royal British Legion Scotland (Corp)](/setts/s8/y8b4ba60k6b16ba10b2r4-b440044-ba202060-k101010-rc80000-ybc8c00/) — ΔT 1.39
+1. [Potts (Personal)](/setts/s6/g2b72ba56b6g6k2-b202060-ba441800-g74846c-k000000/) — ΔT 1.40
+1. [Round Table (1997)](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/) — ΔT 1.42
+1. [S.C.O.T.S.](/setts/s6/b110ba36w6ba4r4ba12-b304080-ba000050-rc00020-we0e0e0/) — ΔT 1.44
+1. [Scotland's Own (Fashion)](/setts/s12/b8g2b60k30ba8b4k4b4k20b8ba4b4-b2c2c80-ba780078-g808080-k101010/) — ΔT 1.46
+1. [Home or Hume (Vestiarium Scoticum)](/setts/s8/k56r2k4r2k16b48g4b6-b2c4084-g005020-k101010-rdc0000/) — ΔT 1.49
+1. [Ardee (Corporate)](/setts/s5/b16r4b72ba72y4-b1c1c50-ba5c5c5c-rc80000-ya0a0a0/) — ΔT 1.55
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b8ba86k40b14r4-b5c5c5c-ba000068-k101010-r888888/"><circle cx="398.8" cy="217.4" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/setts/s8/k56r2k4r2k16b48g4b6-b2c2c80-g006818-k101010-rc80000/"><circle cx="431.4" cy="176.1" r="4" fill="#3465a4"><title>Home or Hume Clan Tartan Tartan Number: 127. Earliest known date: 1842 D.W.Stewart says, &quot;The tartan of the ancient and notable family of Home, though differing in colour, has the same scheme as the Grey Douglas. Both first appear in the Vestiarium Scoticum.&quot; Border 'Clans' are mentioned in an Act of the Scottish Parliament in 1587, but no evidence of a Clan tartan exists before the earliest date given here. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g2b72ba56b6g6y2-b202060-ba441800-g74846c-yfccc00/"><circle cx="449.4" cy="178.8" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s8/y8b4ba60k6b16ba10b2r4-b440044-ba202060-k101010-rc80000-ybc8c00/"><circle cx="446.6" cy="146.5" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/setts/s6/g2b72ba56b6g6k2-b202060-ba441800-g74846c-k000000/"><circle cx="468.8" cy="187.9" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/"><circle cx="438.1" cy="183.1" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s6/b110ba36w6ba4r4ba12-b304080-ba000050-rc00020-we0e0e0/"><circle cx="464.6" cy="172.8" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/setts/s12/b8g2b60k30ba8b4k4b4k20b8ba4b4-b2c2c80-ba780078-g808080-k101010/"><circle cx="441.8" cy="158.0" r="4" fill="#3465a4"><title>Scotland's Own (Fashion)</title></circle></a><a href="/setts/s8/k56r2k4r2k16b48g4b6-b2c4084-g005020-k101010-rdc0000/"><circle cx="420.2" cy="171.0" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/setts/s5/b16r4b72ba72y4-b1c1c50-ba5c5c5c-rc80000-ya0a0a0/"><circle cx="397.3" cy="221.4" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><circle cx="449.1" cy="192.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b160k56ba18k6r10k24-b2c2c80-ba780078-k101010-r9c68a4/

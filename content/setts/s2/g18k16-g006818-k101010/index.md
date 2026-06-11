@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/18 K/16 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Robin Hood (Fashion)](/setts/s2/g100k100-g285800-k101010/) — ΔT 1.18
+1. [MacKillen Hunting](/setts/s2/g168k168-g006428-k001e00/) — ΔT 1.65
+1. [Wilson's, No 219](/setts/s2/g18ga18-g003000-ga008000/) — ΔT 1.78
+1. [Rob Roy, Black & Tan (Fashion)](/setts/s2/g100k100-g8c7038-k101010/) — ΔT 1.95
+1. [Wilson's No.116 (light)](/setts/s2/g18b16-b440044-g5c6428/) — ΔT 2.19
+1. [Robin Hood / Rob Roy hunting](/setts/s2/g66k66-g008000-k000000/) — ΔT 2.21
+1. [Wilson's No.210](/setts/s2/g14b12-b2888c4-g006818/) — ΔT 2.41
+1. [Wilson's, No 116](/setts/s2/b16g16-b800080-g008000/) — ΔT 2.48
+1. [Wilson's No.172](/setts/s2/k18b16-b2888c4-k101010/) — ΔT 2.59
+1. [Wilson's No.187](/setts/s4/g8r8g8k8-g006818-k101010-rc80000/) — ΔT 2.64
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/g100k100-g285800-k101010/"><circle cx="218.5" cy="366.0" r="4" fill="#3465a4"><title>Robin Hood (Fashion)</title></circle></a><a href="/setts/s2/g168k168-g006428-k001e00/"><circle cx="228.7" cy="366.0" r="4" fill="#3465a4"><title>MacKillen Hunting</title></circle></a><a href="/setts/s2/g18ga18-g003000-ga008000/"><circle cx="206.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 219</title></circle></a><a href="/setts/s2/g100k100-g8c7038-k101010/"><circle cx="167.7" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy, Black &amp; Tan (Fashion)</title></circle></a><a href="/setts/s2/g18b16-b440044-g5c6428/"><circle cx="239.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/setts/s2/g66k66-g008000-k000000/"><circle cx="133.0" cy="366.0" r="4" fill="#3465a4"><title>Robin Hood / Rob Roy hunting</title></circle></a><a href="/setts/s2/g14b12-b2888c4-g006818/"><circle cx="249.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.210</title></circle></a><a href="/setts/s2/b16g16-b800080-g008000/"><circle cx="167.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/setts/s2/k18b16-b2888c4-k101010/"><circle cx="176.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.172</title></circle></a><a href="/setts/s4/g8r8g8k8-g006818-k101010-rc80000/"><circle cx="94.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.187</title></circle></a><circle cx="220.1" cy="366.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s2/g18k16-g006818-k101010/

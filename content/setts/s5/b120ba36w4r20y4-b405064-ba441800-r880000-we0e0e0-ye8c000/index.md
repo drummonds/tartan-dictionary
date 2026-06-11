@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "N/120 DR36 LN4 DRa20 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Caledonian Mist](/setts/s7/b108k20ba8r4ba4w4ba20-b5c5c5c-ba780078-k101010-r888888-wfcfcfc/) — ΔT 1.31
+1. [Meaux (Personal)](/setts/s4/b124r48y10g6-b003c64-g003820-r880000-ybc8c00/) — ΔT 1.42
+1. [MacWilliam Htg](/setts/s7/g4ga64ga24k20r2b32r4-b2c2c80-g285800-ga604000-k101010-rc80000/) — ΔT 1.43
+1. [National Ballet of Canada](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/) — ΔT 1.44
+1. [Unidentified 21](/setts/s7/b26k6b40r140b40r60w6-b304080-k000000-r806050-we0e0e0/) — ΔT 1.50
+1. [Suttle (Personal)](/setts/s8/b72k36b10ba14b10k14r2g4-b5c5c5c-ba003c64-g006818-k101010-rc80000/) — ΔT 1.51
+1. [Round Table (1997)](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/) — ΔT 1.53
+1. [Michie Dress, Andrew](/setts/s5/b124g10ga40y10k2-b751857-g509721-ga124b24-k120a01-y82adba/) — ΔT 1.55
+1. [Raymond of Doune](/setts/s8/r8g20y2w2b8w2b50r4-b14283c-g003820-r880000-wc0c0c0-yd09800/) — ΔT 1.55
+1. [Puxty-Dunne](/setts/s7/b36w4k2w8g26b80r4-b3f4441-g052f14-k120a01-r89051b-wddd5af/) — ΔT 1.55
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b108k20ba8r4ba4w4ba20-b5c5c5c-ba780078-k101010-r888888-wfcfcfc/"><circle cx="438.0" cy="131.8" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/setts/s4/b124r48y10g6-b003c64-g003820-r880000-ybc8c00/"><circle cx="470.0" cy="220.5" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/setts/s7/g4ga64ga24k20r2b32r4-b2c2c80-g285800-ga604000-k101010-rc80000/"><circle cx="409.7" cy="171.5" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/"><circle cx="462.8" cy="202.0" r="4" fill="#3465a4"><title>National Ballet of Canada</title></circle></a><a href="/setts/s7/b26k6b40r140b40r60w6-b304080-k000000-r806050-we0e0e0/"><circle cx="459.1" cy="196.9" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/setts/s8/b72k36b10ba14b10k14r2g4-b5c5c5c-ba003c64-g006818-k101010-rc80000/"><circle cx="393.4" cy="146.5" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/"><circle cx="438.1" cy="183.1" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s5/b124g10ga40y10k2-b751857-g509721-ga124b24-k120a01-y82adba/"><circle cx="485.8" cy="136.3" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/setts/s8/r8g20y2w2b8w2b50r4-b14283c-g003820-r880000-wc0c0c0-yd09800/"><circle cx="411.9" cy="155.0" r="4" fill="#3465a4"><title>Raymond of Doune</title></circle></a><a href="/setts/s7/b36w4k2w8g26b80r4-b3f4441-g052f14-k120a01-r89051b-wddd5af/"><circle cx="501.5" cy="147.6" r="4" fill="#3465a4"><title>Puxty-Dunne</title></circle></a><circle cx="463.4" cy="170.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/b120ba36w4r20y4-b405064-ba441800-r880000-we0e0e0-ye8c000/

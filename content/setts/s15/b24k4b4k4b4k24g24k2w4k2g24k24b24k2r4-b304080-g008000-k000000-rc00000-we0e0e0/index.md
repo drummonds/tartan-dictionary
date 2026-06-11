@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacEwen / MacEwan](/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.37
+1. [Baillie](/setts/s15/b28k4b4k4b4k28g26k3y5k3g26k28b26k3r5-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.41
+1. [Dyce](/setts/s15/b32k4b4k4b4k24g24y4k4y4g24k32b32k2w6-b304080-g008000-k000000-we0e0e0-yf0c000/) — ΔT 0.49
+1. [Dyce](/setts/s14/b18k2b2k2b2k16g16y2k2y2g16k16b16w2-b304080-g008000-k000000-we0e0e0-yf0c000/) — ΔT 0.54
+1. [Loch Carron](/setts/s13/g10b50k38g46k4w4k10w4k4g46k38b60r10-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.58
+1. [Robertson of Kindeace](/setts/s15/b24k4b4k4b4k24g32k2r4k2g32k24b24k2w6-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.59
+1. [MacLeod of Skye](/setts/s14/b20k2b2k2b2k12g12k2y4k2g12k12b12r6-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.59
+1. [Stephenson, hunting](/setts/s15/g10k6b50k50g50k6w6k12w6k6g50k50b50k6r10-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.60
+1. [MacKenzie](/setts/s14/b20k4b4k4b4k16g16k2w4k2g16k16b18r4-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.62
+1. [Urquhart](/setts/s14/g2k2g16k16b16r2b16k16g2k2g2k2g6w2-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.65
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="132.6" cy="153.0" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s15/b28k4b4k4b4k28g26k3y5k3g26k28b26k3r5-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="133.6" cy="153.9" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s15/b32k4b4k4b4k24g24y4k4y4g24k32b32k2w6-b304080-g008000-k000000-we0e0e0-yf0c000/"><circle cx="141.0" cy="130.1" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s14/b18k2b2k2b2k16g16y2k2y2g16k16b16w2-b304080-g008000-k000000-we0e0e0-yf0c000/"><circle cx="116.3" cy="155.5" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s13/g10b50k38g46k4w4k10w4k4g46k38b60r10-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="137.1" cy="145.2" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/setts/s15/b24k4b4k4b4k24g32k2r4k2g32k24b24k2w6-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="138.4" cy="129.9" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s14/b20k2b2k2b2k12g12k2y4k2g12k12b12r6-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="116.3" cy="157.9" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s15/g10k6b50k50g50k6w6k12w6k6g50k50b50k6r10-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="122.1" cy="157.4" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s14/b20k4b4k4b4k16g16k2w4k2g16k16b18r4-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="118.5" cy="164.9" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s14/g2k2g16k16b16r2b16k16g2k2g2k2g6w2-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="134.9" cy="159.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><circle cx="138.3" cy="144.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/b24k4b4k4b4k24g24k2w4k2g24k24b24k2r4-b304080-g008000-k000000-rc00000-we0e0e0/

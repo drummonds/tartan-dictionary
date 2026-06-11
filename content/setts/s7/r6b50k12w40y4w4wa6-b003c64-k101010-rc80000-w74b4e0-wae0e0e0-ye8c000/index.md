@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 LB4 Y4 LB40 K12 DB50 R/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hodgkinson](/setts/s8/b20y20ba48g4ba4r4ba4w8-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.94
+1. [Yorkshire C.C.C. Corporate Tartan Tartan Number: 670. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b10y10ba24g2ba2r2ba2w4-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.94
+1. [Curd (2013)](/setts/s8/b4ba36w12y12b36y4g4r4-b202060-ba2888c4-g006818-rc80000-wfcfcfc-ye8c000/) — ΔT 0.96
+1. [Dignan School of Dancing](/setts/s7/y8r4b64k20ba8w42ba4-b2474e8-ba6c0070-k101010-r880000-wc0c0c0-yd09800/) — ΔT 0.98
+1. [Loch Ness (Fashion)](/setts/s7/r4b4r4b42y22k34w4-b5c8ca8-k00002c-rc80000-w98c8e8-y48a4c0/) — ΔT 1.01
+1. [Yorkshire, C.C.C.](/setts/s8/b10y10ba24g2ba2r2ba2w4-b5480b0-ba304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.02
+1. [Arran (Pendleton)](/setts/s8/b48k4b4k4b4ba32w36g8-b3c82af-ba080848-g808080-k101010-we0e0e0/) — ΔT 1.03
+1. [Unidentified (Woven sample)](/setts/s8/k16w6k4b64r19k8g42y6-b3850c8-g006818-k101010-r981c70-wf8f8f8-ye8c000/) — ΔT 1.03
+1. [Minnesota Dress](/setts/s9/b8k4w6k4ba60g18k8w40y6-b780078-ba2c2c80-g289c18-k101010-we0e0e0-ye8c000/) — ΔT 1.03
+1. [Fulbright Foundation](/setts/s8/r6y50b12ba6r4bb10ba36w6-b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0/) — ΔT 1.08
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b20y20ba48g4ba4r4ba4w8-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="199.0" cy="131.3" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s8/b10y10ba24g2ba2r2ba2w4-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="199.0" cy="131.3" r="4" fill="#3465a4"><title>Yorkshire C.C.C. Corporate Tartan Tartan Number: 670. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b4ba36w12y12b36y4g4r4-b202060-ba2888c4-g006818-rc80000-wfcfcfc-ye8c000/"><circle cx="104.5" cy="143.3" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s7/y8r4b64k20ba8w42ba4-b2474e8-ba6c0070-k101010-r880000-wc0c0c0-yd09800/"><circle cx="173.3" cy="127.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s7/r4b4r4b42y22k34w4-b5c8ca8-k00002c-rc80000-w98c8e8-y48a4c0/"><circle cx="165.0" cy="169.1" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s8/b10y10ba24g2ba2r2ba2w4-b5480b0-ba304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="206.6" cy="134.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/setts/s8/b48k4b4k4b4ba32w36g8-b3c82af-ba080848-g808080-k101010-we0e0e0/"><circle cx="153.6" cy="147.7" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><a href="/setts/s8/k16w6k4b64r19k8g42y6-b3850c8-g006818-k101010-r981c70-wf8f8f8-ye8c000/"><circle cx="156.2" cy="133.1" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/setts/s9/b8k4w6k4ba60g18k8w40y6-b780078-ba2c2c80-g289c18-k101010-we0e0e0-ye8c000/"><circle cx="137.5" cy="106.0" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s8/r6y50b12ba6r4bb10ba36w6-b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0/"><circle cx="148.4" cy="132.6" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><circle cx="167.0" cy="138.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r6b50k12w40y4w4wa6-b003c64-k101010-rc80000-w74b4e0-wae0e0e0-ye8c000/

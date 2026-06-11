@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/12 DB22 N16 K8 N16 K54 N8 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Soutar (Name)](/setts/s9/k40w6b40k6r6g40r20w6k40-b2888c4-g285800-k101010-rc80000-we0e0e0/) — ΔT 0.75
+1. [Lindley-Highfield (Name)](/setts/s7/g56b24w8ga16g8r16b8-b780078-g003820-ga289c18-re87878-we0e0e0/) — ΔT 0.85
+1. [Wilson's, No 183](/setts/s6/k8b4ba24g24r4g4-b5480b0-ba800080-g008000-k000000-rc00000/) — ΔT 0.87
+1. [Kervegant, Suzanne (Personal)](/setts/s10/g12b22w16k8w16r8w16k54w8r8-b2c2c80-g006818-k101010-rdc0000-wc8c8c8/) — ΔT 0.87
+1. [Dunbog, Primary School](/setts/s6/r24b6g10ba32y4g4-b304080-ba000050-g008000-rc00000-yf0c000/) — ΔT 0.92
+1. [Scotsburn Croft](/setts/s9/w16k3w16k26b4k26ba20wa3ba8-b780078-ba646464-k101010-w82cffd-waffffff/) — ΔT 0.93
+1. [Ryukoku University Heian Junior High School](/setts/s10/w8k32y10b16y4ba4y4ba4b16k6-b555555-ba663399-k000000-wcc99ff-ybbbbbb/) — ΔT 0.97
+1. [Brittany National (District)](/setts/s9/g12b22y16k8y16k8y16k54y8-b2c2c80-g006818-k101010-yb8b8b8/) — ΔT 1.00
+1. [Jewell of Kernow (Personal)](/setts/s6/w12k58r58b14k6ra6-b600060-k101010-r888888-rac80000-we0e0e0/) — ΔT 1.02
+1. [Kile (Red line) (Personal)](/setts/s8/b36w6b6w6r6w6k10y24-b1c0070-k101010-r880000-wfcfcfc-yd8b000/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k40w6b40k6r6g40r20w6k40-b2888c4-g285800-k101010-rc80000-we0e0e0/"><circle cx="131.7" cy="194.8" r="4" fill="#3465a4"><title>Soutar (Name)</title></circle></a><a href="/setts/s7/g56b24w8ga16g8r16b8-b780078-g003820-ga289c18-re87878-we0e0e0/"><circle cx="182.9" cy="193.6" r="4" fill="#3465a4"><title>Lindley-Highfield (Name)</title></circle></a><a href="/setts/s6/k8b4ba24g24r4g4-b5480b0-ba800080-g008000-k000000-rc00000/"><circle cx="159.0" cy="205.5" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/setts/s10/g12b22w16k8w16r8w16k54w8r8-b2c2c80-g006818-k101010-rdc0000-wc8c8c8/"><circle cx="104.9" cy="169.7" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s6/r24b6g10ba32y4g4-b304080-ba000050-g008000-rc00000-yf0c000/"><circle cx="157.1" cy="193.2" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/setts/s9/w16k3w16k26b4k26ba20wa3ba8-b780078-ba646464-k101010-w82cffd-waffffff/"><circle cx="147.6" cy="185.3" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/setts/s10/w8k32y10b16y4ba4y4ba4b16k6-b555555-ba663399-k000000-wcc99ff-ybbbbbb/"><circle cx="109.4" cy="166.1" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/setts/s9/g12b22y16k8y16k8y16k54y8-b2c2c80-g006818-k101010-yb8b8b8/"><circle cx="169.7" cy="200.2" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/setts/s6/w12k58r58b14k6ra6-b600060-k101010-r888888-rac80000-we0e0e0/"><circle cx="185.9" cy="177.7" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/setts/s8/b36w6b6w6r6w6k10y24-b1c0070-k101010-r880000-wfcfcfc-yd8b000/"><circle cx="118.5" cy="173.0" r="4" fill="#3465a4"><title>Kile (Red line) (Personal)</title></circle></a><circle cx="142.1" cy="184.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g12b22w16k8w16k54w8r8-b2c2c80-g006818-k101010-rc80000-wc0c0c0/

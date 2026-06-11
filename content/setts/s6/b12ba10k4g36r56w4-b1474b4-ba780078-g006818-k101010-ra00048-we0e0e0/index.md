@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/12 P10 K4 G36 R56 LN/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pubcrawlers, The](/setts/s7/w6r8g4r44b10ra32y6-b1e1e1e-g1b3b1d-r846247-ra680d0d-wdfdfdf-ydfaf00/) — ΔT 1.01
+1. [MacLeod Society of Scotland](/setts/s6/g6ga6r44k10b44y4-b2c2c80-g006818-ga289c18-k101010-rc80000-ye8c000/) — ΔT 1.01
+1. [Gordon of Abergeldie (Portrait)](/setts/s6/r126w8k8b36y8g100-b780078-g005830-k101010-rc80000-wfcfcfc-yd8b000/) — ΔT 1.02
+1. [Hewitt (Name)](/setts/s7/r60b24k6g24y4g6w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.08
+1. [Traill Clan/Family Weavers Tartan Tartan Number: 3093. Earliest known date: 2002 The Traill tartan is for anyone tracing their ancestry to the Scottish 'Traills' - Traill of Blebo and descendants in Orkney and elsewhere. Blue is poor. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r32y4g14y4b48k4ga4-b1474b4-g604000-ga006818-k101010-r800000-ye8c000/) — ΔT 1.14
+1. [Hewitt](/setts/s7/r60b24k12g24y4g6w4-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.16
+1. [Dundhuin](/setts/s6/y12r10k4g36ra56w4-g6a8a67-k1c1714-r905966-ra9d2123-wf9f5ef-y99a3ba/) — ΔT 1.16
+1. [Scottish American Society of Michigan (Official)](/setts/s6/r96b32y10g34w16k6-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/) — ΔT 1.18
+1. [Moray of Abercairney Clan Tartan Tartan Number: 51. Earliest known date: 1735 The sett is derived from the portrait of James, 14th Laird, painted about 1735. Historians have made different interpretations of the tartan. The tartan is similar to other Perthshire setts but not to the Clan Murray tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b12ba4k4r48ra4g36r4ba4b12-b2c2c80-ba2888c4-g006818-k101010-rc80000-rad05054/) — ΔT 1.19
+1. [Traill (Personal)](/setts/s7/r32y4g14y4b48k4ga4-b2888c4-g604000-ga289c18-k101010-rc80000-ye8c000/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w6r8g4r44b10ra32y6-b1e1e1e-g1b3b1d-r846247-ra680d0d-wdfdfdf-ydfaf00/"><circle cx="235.7" cy="162.3" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><a href="/setts/s6/g6ga6r44k10b44y4-b2c2c80-g006818-ga289c18-k101010-rc80000-ye8c000/"><circle cx="185.4" cy="157.2" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/setts/s6/r126w8k8b36y8g100-b780078-g005830-k101010-rc80000-wfcfcfc-yd8b000/"><circle cx="240.4" cy="140.5" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/setts/s7/r60b24k6g24y4g6w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="228.6" cy="129.5" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/setts/s7/r32y4g14y4b48k4ga4-b1474b4-g604000-ga006818-k101010-r800000-ye8c000/"><circle cx="208.2" cy="149.7" r="4" fill="#3465a4"><title>Traill Clan/Family Weavers Tartan Tartan Number: 3093. Earliest known date: 2002 The Traill tartan is for anyone tracing their ancestry to the Scottish 'Traills' - Traill of Blebo and descendants in Orkney and elsewhere. Blue is poor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r60b24k12g24y4g6w4-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="205.4" cy="131.5" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s6/y12r10k4g36ra56w4-g6a8a67-k1c1714-r905966-ra9d2123-wf9f5ef-y99a3ba/"><circle cx="255.8" cy="160.2" r="4" fill="#3465a4"><title>Dundhuin</title></circle></a><a href="/setts/s6/r96b32y10g34w16k6-b5f749c-g23321b-k000000-rb62531-wf9f5ef-ye0a126/"><circle cx="230.5" cy="135.6" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/setts/s9/b12ba4k4r48ra4g36r4ba4b12-b2c2c80-ba2888c4-g006818-k101010-rc80000-rad05054/"><circle cx="198.0" cy="131.1" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan Tartan Number: 51. Earliest known date: 1735 The sett is derived from the portrait of James, 14th Laird, painted about 1735. Historians have made different interpretations of the tartan. The tartan is similar to other Perthshire setts but not to the Clan Murray tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r32y4g14y4b48k4ga4-b2888c4-g604000-ga289c18-k101010-rc80000-ye8c000/"><circle cx="200.0" cy="140.2" r="4" fill="#3465a4"><title>Traill (Personal)</title></circle></a><circle cx="237.3" cy="155.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b12ba10k4g36r56w4-b1474b4-ba780078-g006818-k101010-ra00048-we0e0e0/

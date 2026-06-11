@@ -33,4 +33,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/8 DY16 K128 DY4 N128 DY16 K/16 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gleneagles](/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/) — ΔT 0.56
+1. [Gleneagles, Hotel](/setts/s7/k8g8w70g2k72g8k4-g908000-k000000-we0e0e0/) — ΔT 0.66
+1. [Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b76w4b24w4b8w8y8w4y72-b1c1c50-we0e0e0-ye8c000/) — ΔT 1.09
+1. [Swansea City AFC](/setts/s9/k2b2w4b6w27b15k42b2w2-b5c5c5c-k101010-we0e0e0/) — ΔT 1.10
+1. [Highland Park High School (Texas)](/setts/s9/b76w4b24w4b8w8y8w4y72-b1c1c50-we0e0e0-ye0a126/) — ΔT 1.10
+1. [Gretna Football Club (Corporate)](/setts/s7/w36k8w36k95w4k4r6-k101010-rc80000-wfcfcdc/) — ΔT 1.14
+1. [Lebrun](/setts/s10/w80k22r16w4r16k12w4k32w2k32-k101010-r985428-wf8f4d0/) — ΔT 1.17
+1. [Highland Park High School (Texas)](/setts/s9/b76w4b24w4b8w8y8w4y72-b202060-wfcfcfc-ye8c000/) — ΔT 1.19
+1. [Richecourt, Baron of (Personal)](/setts/s7/w8k60r2k2r6w24y6-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.21
+1. [Nowell/Noel 1951 (Name)](/setts/s8/y6k48y12k16w8k16y70k4-k101010-we0e0e0-ya0a0a0/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4r4w35r1k36r4k2-k000000-ra07c58-wfcfcfc/"><circle cx="309.9" cy="127.1" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/setts/s7/k8g8w70g2k72g8k4-g908000-k000000-we0e0e0/"><circle cx="312.2" cy="130.1" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/setts/s9/b76w4b24w4b8w8y8w4y72-b1c1c50-we0e0e0-ye8c000/"><circle cx="305.7" cy="139.4" r="4" fill="#3465a4"><title>Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k2b2w4b6w27b15k42b2w2-b5c5c5c-k101010-we0e0e0/"><circle cx="252.1" cy="137.7" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/setts/s9/b76w4b24w4b8w8y8w4y72-b1c1c50-we0e0e0-ye0a126/"><circle cx="313.7" cy="141.5" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6-k101010-rc80000-wfcfcdc/"><circle cx="344.9" cy="146.7" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s10/w80k22r16w4r16k12w4k32w2k32-k101010-r985428-wf8f4d0/"><circle cx="273.0" cy="117.1" r="4" fill="#3465a4"><title>Lebrun</title></circle></a><a href="/setts/s9/b76w4b24w4b8w8y8w4y72-b202060-wfcfcfc-ye8c000/"><circle cx="304.2" cy="138.2" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/setts/s7/w8k60r2k2r6w24y6-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="327.4" cy="114.8" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s8/y6k48y12k16w8k16y70k4-k101010-we0e0e0-ya0a0a0/"><circle cx="303.0" cy="170.4" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><circle cx="311.2" cy="136.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/k16y16w128y4k128y16k8-k101010-wc0c0c0-ybc8c00/

@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/40 K12 LT8 DB6 K32 G40 LN/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacDonald (Flora.. )](/setts/s7/g34y4k28r4b18r4b20-b2c4084-g005020-k101010-rdc0000-ye8c000/) — ΔT 0.55
+1. [Russell or Mitchell or Hunter or Galbraith](/setts/s6/k4g24k24r2b24w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 0.55
+1. [Argyll](/setts/s7/b4k2g16k16ba16k2r4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/) — ΔT 0.59
+1. [Campbell of Cawdor](/setts/s7/b8k4g32k32ba32k4r8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/) — ΔT 0.59
+1. [Mitchell (Clan)](/setts/s6/k4g34k32r4b34y4-b1c0070-g006818-k101010-r880000-yb8b8b8/) — ΔT 0.60
+1. [Loudoun's Highlanders - 1747 #1 (Mil](/setts/s6/r8k4b48k40g40y6-b1c0070-g006818-k101010-r880000-yd09800/) — ΔT 0.62
+1. [Campbell of Cawdor Clan Tartan Tartan Number: 2. Earliest known date: 1798 Campbell of Cawdor is one of Wilson's variations based on the military sett. It was originally a numbered pattern, acquiring the name 'Argyle' in 1798 and 'Argylle' in 1819. It is not until W. and A. Smith's work of 1850 that the full title is given, 'Campbell of Cawdor'. This sett is authorized by the present Clan Chief, MacCailien Mor. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/g4k2ga16k16b16k2r4-b2c2c80-g789484-ga006818-k101010-rc80000/) — ΔT 0.67
+1. [Fruin Colquhoun (Commemorative?)](/setts/s7/r10g38w6k38b38k6b4-b2c2c80-g00643c-k101010-rc80000-we0e0e0/) — ΔT 0.67
+1. [McEwan '1856', The](/setts/s7/b4g6b32k36ga36k4r4-b2c2c80-g604000-ga006818-k101010-rc8002c/) — ΔT 0.68
+1. [Wood (Personal)](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/) — ΔT 0.68
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g34y4k28r4b18r4b20-b2c4084-g005020-k101010-rdc0000-ye8c000/"><circle cx="156.7" cy="216.1" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/setts/s6/k4g24k24r2b24w4-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="176.0" cy="206.9" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/setts/s7/b4k2g16k16ba16k2r4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/"><circle cx="146.5" cy="212.7" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/setts/s7/b8k4g32k32ba32k4r8-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/"><circle cx="146.5" cy="212.7" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s6/k4g34k32r4b34y4-b1c0070-g006818-k101010-r880000-yb8b8b8/"><circle cx="158.5" cy="217.2" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/setts/s6/r8k4b48k40g40y6-b1c0070-g006818-k101010-r880000-yd09800/"><circle cx="168.8" cy="206.3" r="4" fill="#3465a4"><title>Loudoun's Highlanders - 1747 #1 (Mil</title></circle></a><a href="/setts/s7/g4k2ga16k16b16k2r4-b2c2c80-g789484-ga006818-k101010-rc80000/"><circle cx="145.2" cy="211.9" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan Tartan Number: 2. Earliest known date: 1798 Campbell of Cawdor is one of Wilson's variations based on the military sett. It was originally a numbered pattern, acquiring the name 'Argyle' in 1798 and 'Argylle' in 1819. It is not until W. and A. Smith's work of 1850 that the full title is given, 'Campbell of Cawdor'. This sett is authorized by the present Clan Chief, MacCailien Mor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r10g38w6k38b38k6b4-b2c2c80-g00643c-k101010-rc80000-we0e0e0/"><circle cx="143.5" cy="199.7" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/setts/s7/b4g6b32k36ga36k4r4-b2c2c80-g604000-ga006818-k101010-rc8002c/"><circle cx="181.7" cy="208.9" r="4" fill="#3465a4"><title>McEwan '1856', The</title></circle></a><a href="/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/"><circle cx="167.8" cy="212.0" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><circle cx="162.4" cy="210.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b40k12r8b6k32g40w4-b202c7c-g006434-k101010-r886448-we8e8e8/

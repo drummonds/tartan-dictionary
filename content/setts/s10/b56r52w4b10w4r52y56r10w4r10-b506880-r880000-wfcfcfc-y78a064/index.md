@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LG | <code style="background-color:#78A064;"><span style="color:#78A064;filter:grayscale(1) invert(1) contrast(100);">#78A064</span></code> `#78A064` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glenaladale, Plaid](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.37
+1. [MacKillop](/setts/s10/g6r4b4r26ba2b8r4g14r4b4-b304080-ba5480b0-g008000-rc00000/) — ΔT 0.48
+1. [MacKillop (Clan)](/setts/s10/g24r16b16r112ba8b32r16g96r16b16-b2c2c80-ba2474e8-g006818-rc80000/) — ΔT 0.55
+1. [MacKillop Clan Tartan Tartan Number: 512. Earliest known date: pre 2003 The MacKillops are a Sept of MacDonald of Keppoch, whose tartan this sett closely resembles. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g6r4b4r26ba2b8r4g14r4b4-b2c2c80-ba5c8ca8-g006818-rc80000/) — ΔT 0.58
+1. [Glenaladale](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 0.71
+1. [Harkness Dress (Name)](/setts/s10/b40r8w8r64g24r4g8r4g12r24-b1474b4-g006818-rc80000-wfcfcfc/) — ΔT 0.74
+1. [Harkness](/setts/s10/b20r4w4r32g12r2g4r2g6r12-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.76
+1. [Glenaladale Plaid](/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c4084-g005020-rdc0000-we0e0e0/) — ΔT 0.78
+1. [Leitrim](/setts/s10/g6b36g8b6g8r26g6g36b4y6-b401000-g808080-rc00000-yff8500/) — ΔT 0.79
+1. [Annan](/setts/s10/r60g4r8ra8r8g4r12k32g40r12-g808080-k101010-rbe7832-rafa4b00/) — ΔT 0.83
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b56r52w4b10w4r52g56r10w4r10-b304080-g008000-rc00000-we0e0e0/"><circle cx="266.4" cy="162.3" r="4" fill="#3465a4"><title>Glenaladale, Plaid</title></circle></a><a href="/setts/s10/g6r4b4r26ba2b8r4g14r4b4-b304080-ba5480b0-g008000-rc00000/"><circle cx="291.0" cy="171.0" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s10/g24r16b16r112ba8b32r16g96r16b16-b2c2c80-ba2474e8-g006818-rc80000/"><circle cx="276.5" cy="161.3" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/setts/s10/g6r4b4r26ba2b8r4g14r4b4-b2c2c80-ba5c8ca8-g006818-rc80000/"><circle cx="288.9" cy="169.2" r="4" fill="#3465a4"><title>MacKillop Clan Tartan Tartan Number: 512. Earliest known date: pre 2003 The MacKillops are a Sept of MacDonald of Keppoch, whose tartan this sett closely resembles. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="263.3" cy="160.1" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/setts/s10/b40r8w8r64g24r4g8r4g12r24-b1474b4-g006818-rc80000-wfcfcfc/"><circle cx="301.0" cy="153.1" r="4" fill="#3465a4"><title>Harkness Dress (Name)</title></circle></a><a href="/setts/s10/b20r4w4r32g12r2g4r2g6r12-b304080-g008000-rc00000-we0e0e0/"><circle cx="305.6" cy="155.4" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/setts/s10/b56r52w4b10w4r52g56r10w4r10-b2c4084-g005020-rdc0000-we0e0e0/"><circle cx="263.4" cy="158.3" r="4" fill="#3465a4"><title>Glenaladale Plaid</title></circle></a><a href="/setts/s10/g6b36g8b6g8r26g6g36b4y6-b401000-g808080-rc00000-yff8500/"><circle cx="246.4" cy="184.5" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/setts/s10/r60g4r8ra8r8g4r12k32g40r12-g808080-k101010-rbe7832-rafa4b00/"><circle cx="307.4" cy="161.1" r="4" fill="#3465a4"><title>Annan</title></circle></a><circle cx="272.0" cy="166.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b56r52w4b10w4r52y56r10w4r10-b506880-r880000-wfcfcfc-y78a064/

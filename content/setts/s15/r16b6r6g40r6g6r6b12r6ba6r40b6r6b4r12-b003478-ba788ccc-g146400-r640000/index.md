@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DR | <code style="background-color:#640000;"><span style="color:#640000;filter:grayscale(1) invert(1) contrast(100);">#640000</span></code> `#640000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.22 |
 | G | <code style="background-color:#146400;"><span style="color:#146400;filter:grayscale(1) invert(1) contrast(100);">#146400</span></code> `#146400` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Aberlour Bicentenary (Commemorative)](/setts/s15/g16b6g6ba46g5ba8g5b10g6y8g48b6g6b6g16-b440044-ba2c2c80-g5c6428-ybc8c00/) — ΔT 1.12
+1. [Walker Family Tartan Tartan Number: 2068. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1991. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. Marroon Red. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/y4b2r7b15r4b3r4b7r28g7r6g2-b003c64-g003820-r880022-ye8c000/) — ΔT 1.17
+1. [CBS (Corporate)](/setts/s15/b18ba16r11ba20k7ba7k11ba7k7ba35k52ba71r7k7r12-b2c2c80-ba5c5c5c-k101010-r888888/) — ΔT 1.19
+1. [MacDonald of Aird & Valley (Clan?)](/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g32-b1c0070-g006818-r880000/) — ΔT 1.22
+1. [Matheson (WCWM)](/setts/s21/g8r8g4r4g4r36b8g8r4g4r4g6r8g4r4g4r4b8g8r4g8-b1c0070-g006818-r880000/) — ΔT 1.31
+1. [Waddell (Name)](/setts/s11/r6b4r48b16g4b4g4b4g20r6w4-b2c2c80-g285800-r880000-we0e0e0/) — ΔT 1.32
+1. [Cornwall](/setts/s15/b8r24b8k28b72r6b72k28b8r24b8r24k28b72y6-b0c585c-k101010-r880000-ybc8c00/) — ΔT 1.32
+1. [Aberlour Bicentenary](/setts/s15/g16b6g6ba46g5ba8g5b10g6y8g48b6g6b6g16-b580b5b-ba25375f-g5c6428-yc88c00/) — ΔT 1.38
+1. [McCall/MacCall](/setts/s11/b16k10b16g54b26g6b26r54b16r6b6-b600030-g006030-k000000-r806050/) — ΔT 1.42
+1. [Shieldhall (Fashion)](/setts/s12/b48r4b8r4b8w8b12ra36r4ra8r4ra12-b4c3428-rc80000-ra888888-wc0c0c0/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g16b6g6ba46g5ba8g5b10g6y8g48b6g6b6g16-b440044-ba2c2c80-g5c6428-ybc8c00/"><circle cx="324.7" cy="179.4" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/setts/s12/y4b2r7b15r4b3r4b7r28g7r6g2-b003c64-g003820-r880022-ye8c000/"><circle cx="349.1" cy="174.2" r="4" fill="#3465a4"><title>Walker Family Tartan Tartan Number: 2068. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1991. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. Marroon Red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/b18ba16r11ba20k7ba7k11ba7k7ba35k52ba71r7k7r12-b2c2c80-ba5c5c5c-k101010-r888888/"><circle cx="309.3" cy="179.5" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><a href="/setts/s14/r48b4r4g32r8b4r4b12r4b4r48g4r4g32-b1c0070-g006818-r880000/"><circle cx="379.4" cy="179.4" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><a href="/setts/s21/g8r8g4r4g4r36b8g8r4g4r4g6r8g4r4g4r4b8g8r4g8-b1c0070-g006818-r880000/"><circle cx="320.6" cy="182.8" r="4" fill="#3465a4"><title>Matheson (WCWM)</title></circle></a><a href="/setts/s11/r6b4r48b16g4b4g4b4g20r6w4-b2c2c80-g285800-r880000-we0e0e0/"><circle cx="314.5" cy="162.1" r="4" fill="#3465a4"><title>Waddell (Name)</title></circle></a><a href="/setts/s15/b8r24b8k28b72r6b72k28b8r24b8r24k28b72y6-b0c585c-k101010-r880000-ybc8c00/"><circle cx="359.1" cy="194.2" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/setts/s15/g16b6g6ba46g5ba8g5b10g6y8g48b6g6b6g16-b580b5b-ba25375f-g5c6428-yc88c00/"><circle cx="347.6" cy="190.0" r="4" fill="#3465a4"><title>Aberlour Bicentenary</title></circle></a><a href="/setts/s11/b16k10b16g54b26g6b26r54b16r6b6-b600030-g006030-k000000-r806050/"><circle cx="263.2" cy="209.8" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/setts/s12/b48r4b8r4b8w8b12ra36r4ra8r4ra12-b4c3428-rc80000-ra888888-wc0c0c0/"><circle cx="301.5" cy="165.6" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><circle cx="331.2" cy="182.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/r16b6r6g40r6g6r6b12r6ba6r40b6r6b4r12-b003478-ba788ccc-g146400-r640000/

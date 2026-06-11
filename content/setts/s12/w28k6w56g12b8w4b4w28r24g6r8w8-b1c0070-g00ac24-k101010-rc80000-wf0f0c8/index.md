@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LY | <code style="background-color:#F0F0C8;"><span style="color:#F0F0C8;filter:grayscale(1) invert(1) contrast(100);">#F0F0C8</span></code> `#F0F0C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.05 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Grant of Acharrow](/setts/s12/w24k6w56g12k8w4k4w28r22g6r8w8-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.16
+1. [Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w84b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.44
+1. [Braveheart Warrior (Dress)](/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wffffff/) — ΔT 1.44
+1. [Braveheart Dress (Fashion)](/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.45
+1. [Braveheart - Warrior (dress)](/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.56
+1. [Balmoral](/setts/s13/w8r4w22g4k4w2g2w2g8w4k2w2r2-g707070-k000000-rc80000-wd0d0d0/) — ΔT 1.61
+1. [Milne dress green](/setts/s9/w28b6w28y2g40w30b6w14ba6-b3c82af-ba5a008c-g006428-we0e0e0-ye8c000/) — ΔT 1.65
+1. [Ivanka Trump (Personal)](/setts/s15/r24w4k8w8k2w48r4w4r4w4b2w2ra6k4w24-b2888c4-k101010-re87878-ra9c68a4-wf8f8f8/) — ΔT 1.68
+1. [Portmeirion](/setts/s15/w56g5w5b10w33r14w5ba27w33b10g5w33ba27w5r14-b2888c4-ba780078-g289c18-r880000-wfcfcfc/) — ΔT 1.74
+1. [MacLeod, Arisaid](/setts/s19/b2r6ra6w40ba6w6g24w36ra6r2ra6w36ba24w6g6w40ra6r6b2-b5480b0-ba304080-g008000-r900030-rac00000-we0e0e0/) — ΔT 1.74
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w24k6w56g12k8w4k4w28r22g6r8w8-g008000-k000000-rc00000-we0e0e0/"><circle cx="304.8" cy="130.3" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w84b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="250.1" cy="92.0" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wffffff/"><circle cx="244.7" cy="93.4" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="245.5" cy="93.9" r="4" fill="#3465a4"><title>Braveheart Dress (Fashion)</title></circle></a><a href="/setts/s12/w82b12w20k6w6k6w6g30r18w6r8k8-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="249.0" cy="98.3" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress)</title></circle></a><a href="/setts/s13/w8r4w22g4k4w2g2w2g8w4k2w2r2-g707070-k000000-rc80000-wd0d0d0/"><circle cx="286.5" cy="132.7" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s9/w28b6w28y2g40w30b6w14ba6-b3c82af-ba5a008c-g006428-we0e0e0-ye8c000/"><circle cx="295.3" cy="143.2" r="4" fill="#3465a4"><title>Milne dress green</title></circle></a><a href="/setts/s15/r24w4k8w8k2w48r4w4r4w4b2w2ra6k4w24-b2888c4-k101010-re87878-ra9c68a4-wf8f8f8/"><circle cx="327.1" cy="64.3" r="4" fill="#3465a4"><title>Ivanka Trump (Personal)</title></circle></a><a href="/setts/s15/w56g5w5b10w33r14w5ba27w33b10g5w33ba27w5r14-b2888c4-ba780078-g289c18-r880000-wfcfcfc/"><circle cx="234.3" cy="121.0" r="4" fill="#3465a4"><title>Portmeirion</title></circle></a><a href="/setts/s19/b2r6ra6w40ba6w6g24w36ra6r2ra6w36ba24w6g6w40ra6r6b2-b5480b0-ba304080-g008000-r900030-rac00000-we0e0e0/"><circle cx="264.2" cy="69.4" r="4" fill="#3465a4"><title>MacLeod, Arisaid</title></circle></a><circle cx="291.2" cy="115.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/w28k6w56g12b8w4b4w28r24g6r8w8-b1c0070-g00ac24-k101010-rc80000-wf0f0c8/

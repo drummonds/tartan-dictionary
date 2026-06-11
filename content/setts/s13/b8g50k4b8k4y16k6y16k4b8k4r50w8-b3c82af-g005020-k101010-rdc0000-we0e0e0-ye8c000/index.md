@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Buchanan #3](/setts/s13/b4g24k2b4k2y6k2y6k2b4k2r24w4-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.20
+1. [Buchanan Clan Tartan Tartan Number: 174. Earliest known date: pre 2003 Colours similar to Logan's (171) but thread count is proportionately larger. Also known as Baxter. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.34
+1. [Buchanan 1](/setts/s13/b4g24k2b4k2y6k2y6k2b4k2r24w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.44
+1. [Buchanan 9](/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.48
+1. [Buchanan #2](/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.68
+1. [Buchanan (Logan)](/setts/s13/b8g64k4b8k4y16k4y16k4b8k4r64w8-b3c82af-g003c14-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.71
+1. [Robieson Playfield (School)](/setts/s13/w6k6y48g6y6b48k6g48r6b6r48k6y6-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.76
+1. [Buchanan 8](/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.82
+1. [Buchanan 5](/setts/s13/b8g64k4b8k4y16k4y16k4b8k4r64w8-b5480b0-g004010-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.82
+1. [MacWhirter](/setts/s12/b4g32k4b8k4y8k4b8k4r32w4b4-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.87
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b4g24k2b4k2y6k2y6k2b4k2r24w4-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="89.8" cy="95.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="85.2" cy="97.4" r="4" fill="#3465a4"><title>Buchanan Clan Tartan Tartan Number: 174. Earliest known date: pre 2003 Colours similar to Logan's (171) but thread count is proportionately larger. Also known as Baxter. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/b4g24k2b4k2y6k2y6k2b4k2r24w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="79.5" cy="92.9" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="72.4" cy="93.0" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><a href="/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="125.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/b8g64k4b8k4y16k4y16k4b8k4r64w8-b3c82af-g003c14-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="120.8" cy="77.1" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/w6k6y48g6y6b48k6g48r6b6r48k6y6-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="53.2" cy="116.3" r="4" fill="#3465a4"><title>Robieson Playfield (School)</title></circle></a><a href="/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="116.2" cy="76.8" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/b8g64k4b8k4y16k4y16k4b8k4r64w8-b5480b0-g004010-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="116.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan 5</title></circle></a><a href="/setts/s12/b4g32k4b8k4y8k4b8k4r32w4b4-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="83.6" cy="125.7" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><circle cx="82.4" cy="95.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/

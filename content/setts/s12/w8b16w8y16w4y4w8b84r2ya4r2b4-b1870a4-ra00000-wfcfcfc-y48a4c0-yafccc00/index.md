@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 | Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Akashi](/setts/s12/w8b8w4b64ba6wa6b4wa6ba10b30y2w5-b1474b4-ba202060-wfcfcfc-wa98c8e8-yd87c00/) — ΔT 1.12
+1. [Stratford, (Oregon) City of (Dist.)](/setts/s10/b168w20b4w4y36b4g8w4b4r4-b1474b4-g00643c-rc80000-we0e0e0-ybc8c00/) — ΔT 1.24
+1. [London Fog Blue (Fashion)](/setts/s12/b144k9b13w9b4k9b4y13w9b4w13k4-b2888c4-k101010-wd4d4c4-yccc0a4/) — ΔT 1.37
+1. [Laing (Clan)](/setts/s15/b4k12b4k16b4w4b104r4b4y16b4y12b4y4r4-b1474b4-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 1.39
+1. [StammBar](/setts/s12/w8b16w8wa16w4wa4w8b84r2y4r2b4-b003c64-rc80000-wffffff-wa82cffd-yfccc00/) — ΔT 1.43
+1. [Parr](/setts/s10/b106r3b4r6b8k28g8w4g12k8-b1474b4-g408060-k101010-rc80000-we8ccb8/) — ΔT 1.44
+1. [Spirit of India](/setts/s13/b64w4ba2w4b8ba2g16w16r16ba2b32ba2w8-b3399ff-ba071239-g3a6629-rff5721-wffffff/) — ΔT 1.48
+1. [Glen Innes (Australia)](/setts/s8/b142ba12bb24w7bb5w5bb5r10-b0099cc-ba000080-bb0000cd-rcc1100-wffffff/) — ΔT 1.54
+1. [Goil Dress](/setts/s11/b84ba20y4ba4w4ba4b20w12ba4w6b4-b688ca4-ba1c0070-wc0c0c0-yd09800/) — ΔT 1.59
+1. [Summerwood](/setts/s12/b76w3r4w3g4w3ga8b20wa20b3wa8w10-b2e4b95-g09401f-ga024f21-rdc0000-wffffff-wa66e7e9/) — ΔT 1.62
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w8b8w4b64ba6wa6b4wa6ba10b30y2w5-b1474b4-ba202060-wfcfcfc-wa98c8e8-yd87c00/"><circle cx="406.6" cy="96.2" r="4" fill="#3465a4"><title>Akashi</title></circle></a><a href="/setts/s10/b168w20b4w4y36b4g8w4b4r4-b1474b4-g00643c-rc80000-we0e0e0-ybc8c00/"><circle cx="477.0" cy="79.1" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/setts/s12/b144k9b13w9b4k9b4y13w9b4w13k4-b2888c4-k101010-wd4d4c4-yccc0a4/"><circle cx="478.0" cy="84.7" r="4" fill="#3465a4"><title>London Fog Blue (Fashion)</title></circle></a><a href="/setts/s15/b4k12b4k16b4w4b104r4b4y16b4y12b4y4r4-b1474b4-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="366.3" cy="62.8" r="4" fill="#3465a4"><title>Laing (Clan)</title></circle></a><a href="/setts/s12/w8b16w8wa16w4wa4w8b84r2y4r2b4-b003c64-rc80000-wffffff-wa82cffd-yfccc00/"><circle cx="370.9" cy="56.8" r="4" fill="#3465a4"><title>StammBar</title></circle></a><a href="/setts/s10/b106r3b4r6b8k28g8w4g12k8-b1474b4-g408060-k101010-rc80000-we8ccb8/"><circle cx="397.6" cy="94.3" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s13/b64w4ba2w4b8ba2g16w16r16ba2b32ba2w8-b3399ff-ba071239-g3a6629-rff5721-wffffff/"><circle cx="308.5" cy="78.4" r="4" fill="#3465a4"><title>Spirit of India</title></circle></a><a href="/setts/s8/b142ba12bb24w7bb5w5bb5r10-b0099cc-ba000080-bb0000cd-rcc1100-wffffff/"><circle cx="412.5" cy="102.9" r="4" fill="#3465a4"><title>Glen Innes (Australia)</title></circle></a><a href="/setts/s11/b84ba20y4ba4w4ba4b20w12ba4w6b4-b688ca4-ba1c0070-wc0c0c0-yd09800/"><circle cx="406.9" cy="121.4" r="4" fill="#3465a4"><title>Goil Dress</title></circle></a><a href="/setts/s12/b76w3r4w3g4w3ga8b20wa20b3wa8w10-b2e4b95-g09401f-ga024f21-rdc0000-wffffff-wa66e7e9/"><circle cx="306.4" cy="68.3" r="4" fill="#3465a4"><title>Summerwood</title></circle></a><circle cx="398.2" cy="67.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/w8b16w8y16w4y4w8b84r2ya4r2b4-b1870a4-ra00000-wfcfcfc-y48a4c0-yafccc00/

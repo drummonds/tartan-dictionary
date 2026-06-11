@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#58697D;"><span style="color:#58697D;filter:grayscale(1) invert(1) contrast(100);">#58697D</span></code> `#58697D` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
 | T | <code style="background-color:#622217;"><span style="color:#622217;filter:grayscale(1) invert(1) contrast(100);">#622217</span></code> `#622217` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.19 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [GOLF (Corporate)](/setts/s15/k30b4ba2r2bb2k30r2ba4k30bb2k30b8ba4bb2k30-b440044-ba14283c-bb2888c4-k101010-rc80000/) — ΔT 1.05
+1. [Dickie (Glasgow) (Personal)](/setts/s17/k20b4k4ba4k12ba4k4b4k12b4k4g4k64g4k4ba4k8-b003c64-ba5c5c5c-g003820-k101010/) — ΔT 1.44
+1. [Dickie (Glasgow)](/setts/s17/k20b4k4ba4k12ba4k4b4k12b4k4g4k64g4k4ba4k8-b000080-ba2f4f4f-g006400-k101010/) — ΔT 1.73
+1. [Williams (Welsh Name)](/setts/s15/k52r4k26k4k6r4k12k2k12r4k6k4k60r4k4-k101010-r901c38/) — ΔT 2.20
+1. [Graeme Brodie Tartan Tartan Number: 3243. Earliest known date: August 2002 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/r2k38b8r8ra2b6r4b6k74b4ba4b4k74b6r4b6ra2r8b8k38r2-b4c2424-ba5c5c5c-k101010-r880000-rac80000/) — ΔT 2.46
+1. [Kalkofen](/setts/s10/k80g30k20r4k20y4k20r4k20g30-g003820-k101010-rb03000-yd09800/) — ΔT 2.50
+1. [Colliers International (Corporate)](/setts/s24/b14ba14b80y6b80ba14b14ba14b14ba14b80r6b80ba14b14ba14b14ba14b80bb6b80ba14b14ba14-b1c1c50-ba5c5c5c-bb2888c4-rc80000-ye8c000/) — ΔT 2.52
+1. [Pisniak (Personal)](/setts/s7/b80g6ba8b56y4ya4b14-b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8/) — ΔT 2.53
+1. [Langhein Family Tartan Tartan Number: 3235. Earliest known date: April 2002 Based on Black Watch Sett See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k80g30k20r4k20y4k20-g003820-k101010-rc80000-ye8c000/) — ΔT 2.59
+1. [Kalkofen (Name)](/setts/s6/k80g30k20r4k20y4-g003820-k101010-rb03000-yd09800/) — ΔT 2.64
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/k30b4ba2r2bb2k30r2ba4k30bb2k30b8ba4bb2k30-b440044-ba14283c-bb2888c4-k101010-rc80000/"><circle cx="579.7" cy="189.5" r="4" fill="#3465a4"><title>GOLF (Corporate)</title></circle></a><a href="/setts/s17/k20b4k4ba4k12ba4k4b4k12b4k4g4k64g4k4ba4k8-b003c64-ba5c5c5c-g003820-k101010/"><circle cx="619.9" cy="181.4" r="4" fill="#3465a4"><title>Dickie (Glasgow) (Personal)</title></circle></a><a href="/setts/s17/k20b4k4ba4k12ba4k4b4k12b4k4g4k64g4k4ba4k8-b000080-ba2f4f4f-g006400-k101010/"><circle cx="602.9" cy="174.1" r="4" fill="#3465a4"><title>Dickie (Glasgow)</title></circle></a><a href="/setts/s15/k52r4k26k4k6r4k12k2k12r4k6k4k60r4k4-k101010-r901c38/"><circle cx="626.0" cy="197.6" r="4" fill="#3465a4"><title>Williams (Welsh Name)</title></circle></a><a href="/setts/s21/r2k38b8r8ra2b6r4b6k74b4ba4b4k74b6r4b6ra2r8b8k38r2-b4c2424-ba5c5c5c-k101010-r880000-rac80000/"><circle cx="561.4" cy="117.4" r="4" fill="#3465a4"><title>Graeme Brodie Tartan Tartan Number: 3243. Earliest known date: August 2002 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k80g30k20r4k20y4k20r4k20g30-g003820-k101010-rb03000-yd09800/"><circle cx="508.4" cy="220.1" r="4" fill="#3465a4"><title>Kalkofen</title></circle></a><a href="/setts/s24/b14ba14b80y6b80ba14b14ba14b14ba14b80r6b80ba14b14ba14b14ba14b80bb6b80ba14b14ba14-b1c1c50-ba5c5c5c-bb2888c4-rc80000-ye8c000/"><circle cx="526.2" cy="165.8" r="4" fill="#3465a4"><title>Colliers International (Corporate)</title></circle></a><a href="/setts/s7/b80g6ba8b56y4ya4b14-b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8/"><circle cx="626.0" cy="197.5" r="4" fill="#3465a4"><title>Pisniak (Personal)</title></circle></a><a href="/setts/s7/k80g30k20r4k20y4k20-g003820-k101010-rc80000-ye8c000/"><circle cx="567.4" cy="225.7" r="4" fill="#3465a4"><title>Langhein Family Tartan Tartan Number: 3235. Earliest known date: April 2002 Based on Black Watch Sett See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k80g30k20r4k20y4-g003820-k101010-rb03000-yd09800/"><circle cx="564.9" cy="234.5" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><circle cx="610.8" cy="204.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/k30b4ka2ba2bb2k30ba2ka4k30bb2k30b8ka4bb2k30-b3c084a-ba622217-bb58697d-k101010-ka000000/

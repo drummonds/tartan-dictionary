@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Children 1st (Corporate)](/setts/s9/y14b64ba8b8ba16b8ba16g64y6-b202060-ba780078-g006818-ye8c000/) — ΔT 0.58
+1. [Kinnaird (Australia) (Name)](/setts/s8/r66k8r8k10r8k14b82ra8-b2c2c80-k101010-r888888-rac80000/) — ΔT 0.74
+1. [Philadelphia Police and Fire P&D](/setts/s12/b18y8b8ba82b8r8ba8r30ba8r8b82y8-b202060-ba5c8ca8-rc80000-ye8c000/) — ΔT 0.98
+1. [Brady 60th (Personal)](/setts/s10/r4ra4r28k12r4k4r4k4b36y4-b2c2c80-k101010-r888888-rae87878-yfccc00/) — ΔT 1.02
+1. [Cahonas Scotland](/setts/s9/b10w6b46k50b8ba46k6ba6k10-b646464-ba1870a4-k101010-wc8c8c8/) — ΔT 1.04
+1. [Elgin City Band](/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/) — ΔT 1.06
+1. [Ballantyne (Personal) STWR](/setts/s8/b34g9y3g9ga30r3ga11r5-b000064-g503c14-ga808080-r960028-yfadc00/) — ΔT 1.07
+1. [Central Newcastle School](/setts/s7/w10b9r59b9k59b9w5-b780078-k101010-r888888-wc49cd8/) — ΔT 1.10
+1. [Scottish Knights Templar MTS (Corp)](/setts/s10/w8r4b40k12w10k8w6k4r4b4-b2c2c80-k101010-rc80000-wc0c0c0/) — ΔT 1.13
+1. [Forbes #5](/setts/s9/b56k6b12k6b12k40g56k6w12-b2c4084-g503c14-k101010-we0e0e0/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/y14b64ba8b8ba16b8ba16g64y6-b202060-ba780078-g006818-ye8c000/"><circle cx="203.9" cy="177.9" r="4" fill="#3465a4"><title>Children 1st (Corporate)</title></circle></a><a href="/setts/s8/r66k8r8k10r8k14b82ra8-b2c2c80-k101010-r888888-rac80000/"><circle cx="244.2" cy="179.1" r="4" fill="#3465a4"><title>Kinnaird (Australia) (Name)</title></circle></a><a href="/setts/s12/b18y8b8ba82b8r8ba8r30ba8r8b82y8-b202060-ba5c8ca8-rc80000-ye8c000/"><circle cx="228.0" cy="148.6" r="4" fill="#3465a4"><title>Philadelphia Police and Fire P&amp;D</title></circle></a><a href="/setts/s10/r4ra4r28k12r4k4r4k4b36y4-b2c2c80-k101010-r888888-rae87878-yfccc00/"><circle cx="178.9" cy="152.7" r="4" fill="#3465a4"><title>Brady 60th (Personal)</title></circle></a><a href="/setts/s9/b10w6b46k50b8ba46k6ba6k10-b646464-ba1870a4-k101010-wc8c8c8/"><circle cx="194.4" cy="202.7" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/"><circle cx="236.2" cy="178.5" r="4" fill="#3465a4"><title>Elgin City Band</title></circle></a><a href="/setts/s8/b34g9y3g9ga30r3ga11r5-b000064-g503c14-ga808080-r960028-yfadc00/"><circle cx="183.1" cy="171.9" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/setts/s7/w10b9r59b9k59b9w5-b780078-k101010-r888888-wc49cd8/"><circle cx="201.2" cy="173.6" r="4" fill="#3465a4"><title>Central Newcastle School</title></circle></a><a href="/setts/s10/w8r4b40k12w10k8w6k4r4b4-b2c2c80-k101010-rc80000-wc0c0c0/"><circle cx="205.1" cy="161.3" r="4" fill="#3465a4"><title>Scottish Knights Templar MTS (Corp)</title></circle></a><a href="/setts/s9/b56k6b12k6b12k40g56k6w12-b2c4084-g503c14-k101010-we0e0e0/"><circle cx="214.9" cy="203.2" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><circle cx="209.9" cy="171.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b44r4k32r4b4r4ra32r4b4-b1860a8-k101010-rc80000-ra888888/

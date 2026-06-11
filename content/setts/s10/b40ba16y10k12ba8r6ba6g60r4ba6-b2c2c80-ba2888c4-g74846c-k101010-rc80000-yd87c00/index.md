@@ -33,4 +33,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/w2wa4g24k4w4k4b30w4y2-b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f/) — ΔT 0.87
+1. [Brighton & Hove](/setts/s11/b64ba32y4ba4w4ba4bb24g12ba4g12w4-b141e46-ba5f749c-bb5c8ca8-g048888-wffffff-yd09800/) — ΔT 0.98
+1. [Buffalo (Fashion)](/setts/s12/b12r6k8y6k6r6k6g28ba56r6ba6k4-b2c2c80-ba5c8ca8-g00643c-k101010-r888888-ye8c000/) — ΔT 0.99
+1. [McMeeken (Name)](/setts/s10/r14g40y4g8k10b8k4b40k6w2-b185ca8-g0c643c-k101010-ra41414-we0e0e0-yfccc3c/) — ΔT 1.05
+1. [Connecticut](/setts/s10/b80g8w4g20ga32y4ga8r4ga32g64-b304080-g808080-ga004010-rc00020-we0e0e0-yf0c000/) — ΔT 1.05
+1. [Edinburgh District](/setts/s9/w6b50r6ra6r6ra10g20r6k4-b1474b4-g006818-k101010-r980044-rac80000-wffffff/) — ΔT 1.09
+1. [Glen Lyon (Fashion)](/setts/s7/r12b4r44w4k20ba56y12-b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00/) — ΔT 1.12
+1. [Ayrton (amended)](/setts/s11/r8k4g50k4b20k4g8k4ba50k4y8-b3c82af-ba2c4084-g005020-k101010-rdc0000-ye8c000/) — ΔT 1.14
+1. [State Seal of Nebraska (Fashion)](/setts/s10/y14g22b8ba62b8g22ga8b28w6b8-b2c2c80-ba2888c4-g006818-ga604000-we8ccb8-ybc8c00/) — ΔT 1.14
+1. [O'Reilly (Estimated threadcount)](/setts/s9/r8b6y4k4y24k4ba20bb50w4-b1474b4-ba2c2c80-bb5c8ca8-k101010-rc80000-wf8f8f8-ya0a0a0/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2wa4g24k4w4k4b30w4y2-b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f/"><circle cx="176.8" cy="120.9" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s11/b64ba32y4ba4w4ba4bb24g12ba4g12w4-b141e46-ba5f749c-bb5c8ca8-g048888-wffffff-yd09800/"><circle cx="169.0" cy="112.9" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/setts/s12/b12r6k8y6k6r6k6g28ba56r6ba6k4-b2c2c80-ba5c8ca8-g00643c-k101010-r888888-ye8c000/"><circle cx="177.8" cy="117.1" r="4" fill="#3465a4"><title>Buffalo (Fashion)</title></circle></a><a href="/setts/s10/r14g40y4g8k10b8k4b40k6w2-b185ca8-g0c643c-k101010-ra41414-we0e0e0-yfccc3c/"><circle cx="184.2" cy="129.1" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/setts/s10/b80g8w4g20ga32y4ga8r4ga32g64-b304080-g808080-ga004010-rc00020-we0e0e0-yf0c000/"><circle cx="212.1" cy="134.2" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/setts/s9/w6b50r6ra6r6ra10g20r6k4-b1474b4-g006818-k101010-r980044-rac80000-wffffff/"><circle cx="187.9" cy="127.4" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/setts/s7/r12b4r44w4k20ba56y12-b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00/"><circle cx="176.9" cy="160.5" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s11/r8k4g50k4b20k4g8k4ba50k4y8-b3c82af-ba2c4084-g005020-k101010-rdc0000-ye8c000/"><circle cx="166.3" cy="132.9" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/setts/s10/y14g22b8ba62b8g22ga8b28w6b8-b2c2c80-ba2888c4-g006818-ga604000-we8ccb8-ybc8c00/"><circle cx="131.9" cy="160.2" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/setts/s9/r8b6y4k4y24k4ba20bb50w4-b1474b4-ba2c2c80-bb5c8ca8-k101010-rc80000-wf8f8f8-ya0a0a0/"><circle cx="155.8" cy="118.8" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="166.3" cy="129.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b40ba16y10k12ba8r6ba6g60r4ba6-b2c2c80-ba2888c4-g74846c-k101010-rc80000-yd87c00/

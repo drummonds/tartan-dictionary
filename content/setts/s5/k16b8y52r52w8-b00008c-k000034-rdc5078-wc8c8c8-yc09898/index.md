@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/16 DBa8 Na52 LR52 N/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Siddle, New (Corporate)](/setts/s5/r30b20w15wa3y3-b202060-rc80000-we0e0e0-wa98c8e8-yfccc00/) — ΔT 1.25
+1. [Ballater Victoria Week](/setts/s5/b64y48k16r8w8-b780078-k101010-r888888-wfcfcfc-ye8c000/) — ΔT 1.30
+1. [Drumfintley (Fashion)](/setts/s5/r60k14ra40y8k8-k101010-rb468ac-ra888888-yfccc00/) — ΔT 1.35
+1. [Pownall (2015)](/setts/s5/b60y14w12ba60ya16-b780078-ba2c4084-wf8f8f8-ya08858-yafccc00/) — ΔT 1.42
+1. [Little's (Corporate)](/setts/s6/b6r48w6b24ra48w6-b1c1c50-r888888-ra901c38-we0e0e0/) — ΔT 1.47
+1. [Thousand Islands Int. Council (Corp)](/setts/s8/r44w4b22y8b22ra12b4w20-b2c2c80-re87878-rac80000-we0e0e0-ye8c000/) — ΔT 1.47
+1. [Ballater Victoria Week](/setts/s5/b64y48k16g8w8-b5a008c-g808080-k101010-wf9f5ef-ye8c000/) — ΔT 1.48
+1. [Culloden, Red (dress)](/setts/s8/g16b8r45w6b45w44b6w12-b800080-g008000-rc00000-we0e0e0/) — ΔT 1.51
+1. [Common Ground Dress (Fashion)](/setts/s5/w6r54w32b54y6-b2c2c80-r880000-we0e0e0-ybc8c00/) — ΔT 1.51
+1. [McGill University](/setts/s5/w6r48b24g16y6-b23138d-g063928-rff0000-wffffff-ycea12c/) — ΔT 1.54
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r30b20w15wa3y3-b202060-rc80000-we0e0e0-wa98c8e8-yfccc00/"><circle cx="171.2" cy="181.4" r="4" fill="#3465a4"><title>Siddle, New (Corporate)</title></circle></a><a href="/setts/s5/b64y48k16r8w8-b780078-k101010-r888888-wfcfcfc-ye8c000/"><circle cx="177.2" cy="183.7" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/setts/s5/r60k14ra40y8k8-k101010-rb468ac-ra888888-yfccc00/"><circle cx="233.3" cy="219.5" r="4" fill="#3465a4"><title>Drumfintley (Fashion)</title></circle></a><a href="/setts/s5/b60y14w12ba60ya16-b780078-ba2c4084-wf8f8f8-ya08858-yafccc00/"><circle cx="132.9" cy="223.0" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/setts/s6/b6r48w6b24ra48w6-b1c1c50-r888888-ra901c38-we0e0e0/"><circle cx="182.0" cy="208.2" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s8/r44w4b22y8b22ra12b4w20-b2c2c80-re87878-rac80000-we0e0e0-ye8c000/"><circle cx="131.5" cy="160.6" r="4" fill="#3465a4"><title>Thousand Islands Int. Council (Corp)</title></circle></a><a href="/setts/s5/b64y48k16g8w8-b5a008c-g808080-k101010-wf9f5ef-ye8c000/"><circle cx="171.4" cy="186.4" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/setts/s8/g16b8r45w6b45w44b6w12-b800080-g008000-rc00000-we0e0e0/"><circle cx="141.1" cy="182.6" r="4" fill="#3465a4"><title>Culloden, Red (dress)</title></circle></a><a href="/setts/s5/w6r54w32b54y6-b2c2c80-r880000-we0e0e0-ybc8c00/"><circle cx="164.0" cy="210.1" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/setts/s5/w6r48b24g16y6-b23138d-g063928-rff0000-wffffff-ycea12c/"><circle cx="197.3" cy="185.0" r="4" fill="#3465a4"><title>McGill University</title></circle></a><circle cx="166.5" cy="203.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/k16b8y52r52w8-b00008c-k000034-rdc5078-wc8c8c8-yc09898/

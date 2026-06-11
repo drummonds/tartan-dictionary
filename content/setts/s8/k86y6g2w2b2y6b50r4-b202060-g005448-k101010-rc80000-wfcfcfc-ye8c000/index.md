@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/86 Y6 G2 W2 DB2 Y6 DB50 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Montgomerie, Colin](/setts/s9/y4k2r10b6ra24b8y2k80ba2-b5c5c5c-ba5c4494-k101010-rc80000-ra888888-ya0a0a0/) — ΔT 0.96
+1. [Victorian Highland Pipe Band Assoc](/setts/s8/b92y2ya6g26y2r14ga6y2-b202060-g003820-ga006818-r880000-yfccc00-yae8c000/) — ΔT 0.97
+1. [Italian American](/setts/s9/r4k2w6k2b40k80g10w6r3-b0d3b6d-g004b11-k101010-r92130d-wffffff/) — ΔT 1.07
+1. [Melrose Newbigging Grey](/setts/s10/b2k12ba70k12k4bb6b2k12k4w2-b385064-ba686468-bb481478-k000000-wece8d0/) — ΔT 1.09
+1. [Voluntary Service Aberdeen](/setts/s10/r8w2k70b2ba4ra8w2ba28ra16w2-b5c5c5c-ba003c64-k101010-r888888-ra984c90-we0e0e0/) — ΔT 1.15
+1. [Wells (2014)](/setts/s7/b100g50y6r16ra2w2ra2-b141e46-g285800-r888888-ra960028-wf8f8f8-yd87c00/) — ΔT 1.18
+1. [Scottish Heritage Society (Corporate](/setts/s12/b76r6k6b24g17k4ra10k4g17b4k2w6-b1c1c50-g006818-k101010-ra400a4-rac80000-we0e0e0/) — ΔT 1.19
+1. [Earthrise](/setts/s12/k4b6k4r4b29r6k64ba10k4ba6bb4w2-b5c5c5c-ba202060-bb5c8ca8-k101010-r888888-wfcfcfc/) — ΔT 1.19
+1. [Victorian Highland Pipe Band Association (Australia)](/setts/s8/b92w2y6g26w2r14ga6w2-b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00/) — ΔT 1.22
+1. [Brighton Mac Dermotte](/setts/s9/b94y2ba54ya8g10y2ya16bb2ba2-b1e2025-ba3d3134-bb5f749c-g23321b-yf8e38c-yaccbaaf/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/y4k2r10b6ra24b8y2k80ba2-b5c5c5c-ba5c4494-k101010-rc80000-ra888888-ya0a0a0/"><circle cx="351.8" cy="72.6" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><a href="/setts/s8/b92y2ya6g26y2r14ga6y2-b202060-g003820-ga006818-r880000-yfccc00-yae8c000/"><circle cx="385.9" cy="84.0" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/setts/s9/r4k2w6k2b40k80g10w6r3-b0d3b6d-g004b11-k101010-r92130d-wffffff/"><circle cx="336.1" cy="94.1" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s10/b2k12ba70k12k4bb6b2k12k4w2-b385064-ba686468-bb481478-k000000-wece8d0/"><circle cx="314.0" cy="67.8" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/setts/s10/r8w2k70b2ba4ra8w2ba28ra16w2-b5c5c5c-ba003c64-k101010-r888888-ra984c90-we0e0e0/"><circle cx="282.8" cy="80.3" r="4" fill="#3465a4"><title>Voluntary Service Aberdeen</title></circle></a><a href="/setts/s7/b100g50y6r16ra2w2ra2-b141e46-g285800-r888888-ra960028-wf8f8f8-yd87c00/"><circle cx="366.4" cy="99.0" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s12/b76r6k6b24g17k4ra10k4g17b4k2w6-b1c1c50-g006818-k101010-ra400a4-rac80000-we0e0e0/"><circle cx="346.5" cy="82.7" r="4" fill="#3465a4"><title>Scottish Heritage Society (Corporate</title></circle></a><a href="/setts/s12/k4b6k4r4b29r6k64ba10k4ba6bb4w2-b5c5c5c-ba202060-bb5c8ca8-k101010-r888888-wfcfcfc/"><circle cx="314.1" cy="84.0" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/setts/s8/b92w2y6g26w2r14ga6w2-b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00/"><circle cx="397.4" cy="90.5" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/setts/s9/b94y2ba54ya8g10y2ya16bb2ba2-b1e2025-ba3d3134-bb5f749c-g23321b-yf8e38c-yaccbaaf/"><circle cx="316.9" cy="80.7" r="4" fill="#3465a4"><title>Brighton Mac Dermotte</title></circle></a><circle cx="348.6" cy="86.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k86y6g2w2b2y6b50r4-b202060-g005448-k101010-rc80000-wfcfcfc-ye8c000/

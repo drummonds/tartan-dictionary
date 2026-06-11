@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#1C1C1C;"><span style="color:#1C1C1C;filter:grayscale(1) invert(1) contrast(100);">#1C1C1C</span></code> `#1C1C1C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.20 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Invertere, (Daks)](/setts/s8/r5g12ra4b4ra22g3ra4r5-b000050-g003000-r900030-ra906030/) — ΔT 0.83
+1. [Burnett of Powis (Personal)](/setts/s8/b6r42g6r6g38y6g38r6-b2888c4-g5c6428-rc80000-ye8c000/) — ΔT 1.03
+1. [MacNab VS](/setts/s7/g12r4b4g8b4r24k2-b59110d-g11450d-k000000-raa0000/) — ΔT 1.13
+1. [Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b48g4b10y28g4y10ga34b4-b441800-g006818-ga604000-ya08858/) — ΔT 1.14
+1. [Loch Rannoch](/setts/s8/b48g4b10r28g4r10ra34b4-b401000-g008000-r906030-ra806050/) — ΔT 1.18
+1. [Chisholm](/setts/s8/r24b4y2b4r6g16r6b2-b6e5058-g11450d-raa0000-yaaaaaa/) — ΔT 1.20
+1. [Chisholm](/setts/s8/r12b2y1b2r3g8r3b1-b6e5058-g11450d-raa0000-yaaaaaa/) — ΔT 1.20
+1. [MacKinnon Hunting](/setts/s7/g2r16g16ra2g16r16w2-g004c00-ra52a2a-rac80000-wd0d0d0/) — ΔT 1.22
+1. [Bruce](/setts/s11/y2r16g4r4g12r2g12r4g4r16ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.23
+1. [Burnett](/setts/s8/g8r58ga6r8ga28y6ga28r8-g789484-ga006818-rc80000-yd8b000/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5g12ra4b4ra22g3ra4r5-b000050-g003000-r900030-ra906030/"><circle cx="284.3" cy="221.4" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/setts/s8/b6r42g6r6g38y6g38r6-b2888c4-g5c6428-rc80000-ye8c000/"><circle cx="352.4" cy="222.4" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/setts/s7/g12r4b4g8b4r24k2-b59110d-g11450d-k000000-raa0000/"><circle cx="319.1" cy="208.4" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/setts/s8/b48g4b10y28g4y10ga34b4-b441800-g006818-ga604000-ya08858/"><circle cx="275.4" cy="202.0" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b48g4b10r28g4r10ra34b4-b401000-g008000-r906030-ra806050/"><circle cx="290.4" cy="207.2" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/setts/s8/r24b4y2b4r6g16r6b2-b6e5058-g11450d-raa0000-yaaaaaa/"><circle cx="376.9" cy="202.9" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s8/r12b2y1b2r3g8r3b1-b6e5058-g11450d-raa0000-yaaaaaa/"><circle cx="376.9" cy="202.9" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s7/g2r16g16ra2g16r16w2-g004c00-ra52a2a-rac80000-wd0d0d0/"><circle cx="303.5" cy="238.0" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s11/y2r16g4r4g12r2g12r4g4r16ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/"><circle cx="327.4" cy="209.1" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s8/g8r58ga6r8ga28y6ga28r8-g789484-ga006818-rc80000-yd8b000/"><circle cx="308.4" cy="193.1" r="4" fill="#3465a4"><title>Burnett</title></circle></a><circle cx="316.5" cy="208.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b10r38ba4g16r6g36ba4g18ba4-b003c64-ba1c1c1c-g5c6428-rc80000/

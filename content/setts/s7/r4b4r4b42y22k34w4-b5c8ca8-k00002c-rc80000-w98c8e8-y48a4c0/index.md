@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LB/4 DB34 Ba22 B42 R4 B4 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Loch Ness in Scotland](/setts/s7/g8b56y24ya4g4ya24r4-b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0/) — ΔT 0.72
+1. [Arran (Pendleton)](/setts/s8/b48k4b4k4b4ba32w36g8-b3c82af-ba080848-g808080-k101010-we0e0e0/) — ΔT 0.77
+1. [Mina Perhonen](/setts/s7/w8k48y4b48ba10k8y8-b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000/) — ΔT 0.80
+1. [Arran, (Navy)](/setts/s8/b48k4b4k4b4ba32w36g8-b5480b0-ba000050-g808080-k000000-we0e0e0/) — ΔT 0.82
+1. [Sneddon, Jonathan Taylor (Personal)](/setts/s8/b60k8w8k8w8k64y88ya8-b0000ff-k101010-wffffff-ya0a0a0-yaffff00/) — ΔT 0.89
+1. [Thomson Dress (Blue)](/setts/s6/r6b60k12w24k24y6-b1870a4-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.89
+1. [Afternoon Tea / Earl Grey](/setts/s6/r15b98ba72y25ba8w15-b5c8ca8-ba202060-rc80000-wfcfcfc-yfccc00/) — ΔT 0.97
+1. [Madras College (Corporate)](/setts/s7/r6b50k12w40y4w4wa6-b003c64-k101010-rc80000-w74b4e0-wae0e0e0-ye8c000/) — ΔT 1.01
+1. [Utah State University](/setts/s11/w14b20k14b14wa14b90k42g42wa8k8w14-b304faa-g0d671f-k101010-wffffff-wa3ca7f7/) — ΔT 1.02
+1. [Bahamas District Tartan Tartan Number: 2089. Earliest known date: 1966 Designed by Gordon Rees of the Scottish Shop in Nassau, now owned by Colin and Beverley Honnes. It was intended to perpetuate the memory of early Scottish settlers in the Bahamas including Thompson, Sands, Forsythe, Munroe, Johnston, Russell, Christie, Roberts, Kelly, MacKinney, Saunders, Malcolm, Crawford, MacPherson, Clark and Rae. The tartan was formally approved by the Bahamas Government in 1966. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b12y4b44g14r4w22g22b6-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.07
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g8b56y24ya4g4ya24r4-b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0/"><circle cx="195.2" cy="155.1" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/setts/s8/b48k4b4k4b4ba32w36g8-b3c82af-ba080848-g808080-k101010-we0e0e0/"><circle cx="153.6" cy="147.7" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><a href="/setts/s7/w8k48y4b48ba10k8y8-b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000/"><circle cx="182.5" cy="166.8" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/setts/s8/b48k4b4k4b4ba32w36g8-b5480b0-ba000050-g808080-k000000-we0e0e0/"><circle cx="149.7" cy="145.7" r="4" fill="#3465a4"><title>Arran, (Navy)</title></circle></a><a href="/setts/s8/b60k8w8k8w8k64y88ya8-b0000ff-k101010-wffffff-ya0a0a0-yaffff00/"><circle cx="129.8" cy="147.3" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/setts/s6/r6b60k12w24k24y6-b1870a4-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="176.6" cy="178.5" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/setts/s6/r15b98ba72y25ba8w15-b5c8ca8-ba202060-rc80000-wfcfcfc-yfccc00/"><circle cx="182.7" cy="168.3" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s7/r6b50k12w40y4w4wa6-b003c64-k101010-rc80000-w74b4e0-wae0e0e0-ye8c000/"><circle cx="167.0" cy="138.9" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/setts/s11/w14b20k14b14wa14b90k42g42wa8k8w14-b304faa-g0d671f-k101010-wffffff-wa3ca7f7/"><circle cx="163.9" cy="149.2" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><a href="/setts/s8/b12y4b44g14r4w22g22b6-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="197.5" cy="173.8" r="4" fill="#3465a4"><title>Bahamas District Tartan Tartan Number: 2089. Earliest known date: 1966 Designed by Gordon Rees of the Scottish Shop in Nassau, now owned by Colin and Beverley Honnes. It was intended to perpetuate the memory of early Scottish settlers in the Bahamas including Thompson, Sands, Forsythe, Munroe, Johnston, Russell, Christie, Roberts, Kelly, MacKinney, Saunders, Malcolm, Crawford, MacPherson, Clark and Rae. The tartan was formally approved by the Bahamas Government in 1966. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="165.0" cy="169.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r4b4r4b42y22k34w4-b5c8ca8-k00002c-rc80000-w98c8e8-y48a4c0/

@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/24 B5 LN24 DB36 LN28 B6 LN12 R/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Milne Royal Blue Dress (Dance)](/setts/s8/w48b8w48ba68w48b8w20r8-b2888c4-ba1c0070-rc80000-we0e0e0/) — ΔT 0.55
+1. [Boswell Dress Personal Tartan Tartan Number: 6359. Earliest known date: 2004 A tartan for William Boswell of Balmuto in Fife. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w26r6w4k10w4r6w26b16-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 0.89
+1. [Henderson Dress (Dance)](/setts/s9/w4b12w12b4w20k4w8k12y4-b3850c8-k101010-wfcfcfc-yd09800/) — ΔT 1.24
+1. [Unidentified (Shirt)](/setts/s6/w14b32w40b6w6y6-b304080-we0e0e0-yf0c000/) — ΔT 1.28
+1. [Unidentified (Shirt)](/setts/s6/w14b32w40b6w6y6-b2c4084-we0e0e0-ye8c000/) — ΔT 1.29
+1. [Milne Purple Dress (Dance)](/setts/s8/w48b8w48r68w48b8w20ra8-b202060-rb468ac-rac80000-wfcfcfc/) — ΔT 1.35
+1. [Buchanan, dress Blue](/setts/s6/w10b32w10b32w66r6-b304080-rc00000-we0e0e0/) — ΔT 1.52
+1. [Dijkgraaf, Markus Jack (Personal)](/setts/s10/w10k10w20r4w20b16w30b16wa6k6-b780078-k101010-rc80000-wffffff-wac8c8c8/) — ΔT 1.53
+1. [MacPherson, Blue & White](/setts/s7/w10r6w52b42w6b16y6-b304080-rc00000-we0e0e0-yf0c000/) — ΔT 1.57
+1. [Buchanan Dress Blue Clan Tartan Tartan Number: 1672. Earliest known date: pre 2003 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w10b32w10b32w66r6-b2c2c80-rc80000-we0e0e0/) — ΔT 1.59
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w48b8w48ba68w48b8w20r8-b2888c4-ba1c0070-rc80000-we0e0e0/"><circle cx="281.5" cy="191.3" r="4" fill="#3465a4"><title>Milne Royal Blue Dress (Dance)</title></circle></a><a href="/setts/s8/w26r6w4k10w4r6w26b16-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="246.9" cy="194.2" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan Tartan Number: 6359. Earliest known date: 2004 A tartan for William Boswell of Balmuto in Fife. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w4b12w12b4w20k4w8k12y4-b3850c8-k101010-wfcfcfc-yd09800/"><circle cx="173.9" cy="208.6" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s6/w14b32w40b6w6y6-b304080-we0e0e0-yf0c000/"><circle cx="286.9" cy="221.2" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/setts/s6/w14b32w40b6w6y6-b2c4084-we0e0e0-ye8c000/"><circle cx="286.4" cy="221.4" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/setts/s8/w48b8w48r68w48b8w20ra8-b202060-rb468ac-rac80000-wfcfcfc/"><circle cx="299.0" cy="186.8" r="4" fill="#3465a4"><title>Milne Purple Dress (Dance)</title></circle></a><a href="/setts/s6/w10b32w10b32w66r6-b304080-rc00000-we0e0e0/"><circle cx="299.0" cy="203.7" r="4" fill="#3465a4"><title>Buchanan, dress Blue</title></circle></a><a href="/setts/s10/w10k10w20r4w20b16w30b16wa6k6-b780078-k101010-rc80000-wffffff-wac8c8c8/"><circle cx="189.8" cy="173.2" r="4" fill="#3465a4"><title>Dijkgraaf, Markus Jack (Personal)</title></circle></a><a href="/setts/s7/w10r6w52b42w6b16y6-b304080-rc00000-we0e0e0-yf0c000/"><circle cx="240.5" cy="180.1" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/setts/s6/w10b32w10b32w66r6-b2c2c80-rc80000-we0e0e0/"><circle cx="294.8" cy="202.1" r="4" fill="#3465a4"><title>Buchanan Dress Blue Clan Tartan Tartan Number: 1672. Earliest known date: pre 2003 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="262.6" cy="204.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w24b5w24ba36w28b6w12r6-b20608c-ba2c2c80-rc80000-we0e0e0/

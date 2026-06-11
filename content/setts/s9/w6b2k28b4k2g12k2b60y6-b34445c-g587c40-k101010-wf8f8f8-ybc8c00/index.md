@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#34445C;"><span style="color:#34445C;filter:grayscale(1) invert(1) contrast(100);">#34445C</span></code> `#34445C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.07 |
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Sinclair-Brown](/setts/s8/b128k22r4k8r4k8g64ga8-b304080-g008000-ga908000-k000000-rc00000/) — ΔT 0.74
+1. [Holyrood Golden Jubilee II (Commemo)](/setts/s10/b96ba24y6w6y6r22b10r4y14w4-b003c64-ba5c8ca8-r880000-wf8f8f8-ybc8c00/) — ΔT 0.86
+1. [Hot Boontjie](/setts/s8/r8g8k2w4k2g36k64ra8-g005448-k101010-ra00048-rac80000-we0e0e0/) — ΔT 0.91
+1. [Ballarat](/setts/s10/w10b76g6ba22g2ba22g6b8w10y2-b505050-ba141e46-g808080-wf8f4d0-yd87c00/) — ΔT 0.94
+1. [Strachan (Name)](/setts/s9/r4k6b84k6y4k6g44k6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.99
+1. [Hutchens (Personal)](/setts/s9/b20k24g6k2g2k2g60w8y8-b1c1c50-g003820-k101010-we0e0e0-ybc8c00/) — ΔT 1.02
+1. [William Glen and Son](/setts/s11/r12k6b8k20b10ba4k4b62w2b4w4-b2f4f4f-ba778899-k101010-re3170d-wffffff/) — ΔT 1.02
+1. [Royal College of G.P.s (Corporate)](/setts/s8/y16k100r30g12r12b6r12y4-b2c2c80-g003820-k101010-r888888-yd87c00/) — ΔT 1.02
+1. [Italian American](/setts/s9/r4k2w6k2b40k80g10w6r3-b0d3b6d-g004b11-k101010-r92130d-wffffff/) — ΔT 1.02
+1. [Law, of Heather Athol](/setts/s12/b12r4b4r8b48g22r8g4r4g6k2y4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b128k22r4k8r4k8g64ga8-b304080-g008000-ga908000-k000000-rc00000/"><circle cx="307.5" cy="112.7" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/setts/s10/b96ba24y6w6y6r22b10r4y14w4-b003c64-ba5c8ca8-r880000-wf8f8f8-ybc8c00/"><circle cx="308.1" cy="105.6" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s8/r8g8k2w4k2g36k64ra8-g005448-k101010-ra00048-rac80000-we0e0e0/"><circle cx="335.5" cy="126.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s10/w10b76g6ba22g2ba22g6b8w10y2-b505050-ba141e46-g808080-wf8f4d0-yd87c00/"><circle cx="302.0" cy="92.5" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/setts/s9/r4k6b84k6y4k6g44k6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="316.7" cy="127.6" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/setts/s9/b20k24g6k2g2k2g60w8y8-b1c1c50-g003820-k101010-we0e0e0-ybc8c00/"><circle cx="306.3" cy="128.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/setts/s11/r12k6b8k20b10ba4k4b62w2b4w4-b2f4f4f-ba778899-k101010-re3170d-wffffff/"><circle cx="374.1" cy="104.0" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/setts/s8/y16k100r30g12r12b6r12y4-b2c2c80-g003820-k101010-r888888-yd87c00/"><circle cx="293.2" cy="119.9" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s9/r4k2w6k2b40k80g10w6r3-b0d3b6d-g004b11-k101010-r92130d-wffffff/"><circle cx="336.1" cy="94.1" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s12/b12r4b4r8b48g22r8g4r4g6k2y4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="291.7" cy="112.6" r="4" fill="#3465a4"><title>Law, of Heather Athol</title></circle></a><circle cx="328.0" cy="113.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/w6b2k28b4k2g12k2b60y6-b34445c-g587c40-k101010-wf8f8f8-ybc8c00/

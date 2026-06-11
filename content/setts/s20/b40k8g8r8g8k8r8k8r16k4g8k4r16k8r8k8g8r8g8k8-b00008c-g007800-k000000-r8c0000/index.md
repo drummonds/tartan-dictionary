@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 | P | <code style="background-color:#64008C;"><span style="color:#64008C;filter:grayscale(1) invert(1) contrast(100);">#64008C</span></code> `#64008C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.13 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified Sample #2](/setts/s13/r16b6r36b6r6k12g24r6g24k12b24k4b14-b00008c-g007800-k000000-r8c0000/) — ΔT 1.10
+1. [Young Presidents Organisation](/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/) — ΔT 1.16
+1. [Stewart, Ancient](/setts/s15/b17g4k4g4b17r6k12r4k12r6g17k4b2k4g17-b304080-g008000-k000000-rc00000/) — ΔT 1.21
+1. [Sackett](/setts/s18/k32r32k4r32k32y4g32k4g32k32g32k4g32y4k32r32k4r32-g004028-k000000-r907048-ya0a0a0/) — ΔT 1.27
+1. [Deas](/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/) — ΔT 1.33
+1. [Atholl](/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b304080-g008000-k000000-rc00000/) — ΔT 1.34
+1. [Bonner, (Bonnar)](/setts/s13/r26k2r6g20r10k4r6k24b4k4b4k4b24-b304080-g008000-k000000-rc00000/) — ΔT 1.37
+1. [Frankfurt & Disttrict P & D (Corpora](/setts/s15/b43k4b4k4b4k26r32k4w10k4r32k26b32k4r10-b003c64-k101010-rc80000-we0e0e0/) — ΔT 1.37
+1. [Graham of Airth](/setts/s18/b12k4b12k24b6k26y4g36b6r6b6g36y4k26b30r10b6r10-b5a008c-g005020-k101010-rdc0000-ye8c000/) — ΔT 1.38
+1. [MacLachlan 1](/setts/s15/r24k4r4k4r4k20b20k2g6k2b24k20r24k4r4-b304080-g008000-k000000-rc00000/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r16b6r36b6r6k12g24r6g24k12b24k4b14-b00008c-g007800-k000000-r8c0000/"><circle cx="125.1" cy="194.3" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/"><circle cx="113.2" cy="176.0" r="4" fill="#3465a4"><title>Young Presidents Organisation</title></circle></a><a href="/setts/s15/b17g4k4g4b17r6k12r4k12r6g17k4b2k4g17-b304080-g008000-k000000-rc00000/"><circle cx="105.0" cy="187.5" r="4" fill="#3465a4"><title>Stewart, Ancient</title></circle></a><a href="/setts/s18/k32r32k4r32k32y4g32k4g32k32g32k4g32y4k32r32k4r32-g004028-k000000-r907048-ya0a0a0/"><circle cx="126.2" cy="195.2" r="4" fill="#3465a4"><title>Sackett</title></circle></a><a href="/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/"><circle cx="129.9" cy="144.6" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b304080-g008000-k000000-rc00000/"><circle cx="140.3" cy="177.3" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/setts/s13/r26k2r6g20r10k4r6k24b4k4b4k4b24-b304080-g008000-k000000-rc00000/"><circle cx="155.0" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s15/b43k4b4k4b4k26r32k4w10k4r32k26b32k4r10-b003c64-k101010-rc80000-we0e0e0/"><circle cx="177.6" cy="161.4" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s18/b12k4b12k24b6k26y4g36b6r6b6g36y4k26b30r10b6r10-b5a008c-g005020-k101010-rdc0000-ye8c000/"><circle cx="118.1" cy="158.7" r="4" fill="#3465a4"><title>Graham of Airth</title></circle></a><a href="/setts/s15/r24k4r4k4r4k20b20k2g6k2b24k20r24k4r4-b304080-g008000-k000000-rc00000/"><circle cx="172.9" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><circle cx="118.6" cy="162.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s20/b40k8g8r8g8k8r8k8r16k4g8k4r16k8r8k8g8r8g8k8-b00008c-g007800-k000000-r8c0000/

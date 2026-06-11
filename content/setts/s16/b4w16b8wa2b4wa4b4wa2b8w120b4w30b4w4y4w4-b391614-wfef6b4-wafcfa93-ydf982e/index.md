@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LYa | <code style="background-color:#FEF6B4;"><span style="color:#FEF6B4;filter:grayscale(1) invert(1) contrast(100);">#FEF6B4</span></code> `#FEF6B4` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.08 |
 | Y | <code style="background-color:#DF982E;"><span style="color:#DF982E;filter:grayscale(1) invert(1) contrast(100);">#DF982E</span></code> `#DF982E` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [UPS No. 2 (Corporate)](/setts/s16/w16b4w4y4w4b4w30b4w120b8wa2b4wa4b4wa2b8-b381414-wfcf4b4-wafcf890-ydc982c/) — ΔT 0.07
+1. [UPS No.1](/setts/s15/b8y120b4y30b4y4ya4b4y16b8w2b4w4b4w2-b391614-wfcfa93-yfad183-yadf982e/) — ΔT 0.92
+1. [UPS No. 1 (Corporate)](/setts/s16/y16b4y4ya4y4b4y30b4y120b8w2b4w4b4w2b8-b381414-wfcf890-yf8d080-yadc982c/) — ΔT 0.93
+1. [Old England House Check](/setts/s12/w92y8w18k16w18r8w18b4w4b4w4b4-b4c3428-k101010-rdc0000-wf8f4d0-ya0a0a0/) — ΔT 1.96
+1. [Wilson's Blanket Sett - Border](/setts/s13/w200r28w26g26w26k2r28k2w26g26w26r24w200-g408060-k101010-rc80000-wfcfcfc/) — ΔT 1.97
+1. [Crane of Cluny Dress (Personal)](/setts/s8/w166k12w6k18r4k10w4y4-k101010-rff0000-wfcfcfc-ye8c000/) — ΔT 2.09
+1. [Crane of Cluny Dress (Personal)](/setts/s8/w166k12w6k18r4k10w4y4-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 2.09
+1. [Summer Spirit](/setts/s14/y4k2w18k16w56k4w4r4w4k4w56k16w18k2-k101010-rc80000-wfcfcec-ye8c000/) — ΔT 2.16
+1. [Virginia Quadricentennial](/setts/s13/w40r3w10r6w20k3w2k3w10ra4w2ra8w2-k101010-rbe7832-ra960032-wfafa96/) — ΔT 2.17
+1. [Shaw Dress (Personal)](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/) — ΔT 2.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/w16b4w4y4w4b4w30b4w120b8wa2b4wa4b4wa2b8-b381414-wfcf4b4-wafcf890-ydc982c/"><circle cx="510.8" cy="24.9" r="4" fill="#3465a4"><title>UPS No. 2 (Corporate)</title></circle></a><a href="/setts/s15/b8y120b4y30b4y4ya4b4y16b8w2b4w4b4w2-b391614-wfcfa93-yfad183-yadf982e/"><circle cx="522.7" cy="32.3" r="4" fill="#3465a4"><title>UPS No.1</title></circle></a><a href="/setts/s16/y16b4y4ya4y4b4y30b4y120b8w2b4w4b4w2b8-b381414-wfcf890-yf8d080-yadc982c/"><circle cx="526.0" cy="29.0" r="4" fill="#3465a4"><title>UPS No. 1 (Corporate)</title></circle></a><a href="/setts/s12/w92y8w18k16w18r8w18b4w4b4w4b4-b4c3428-k101010-rdc0000-wf8f4d0-ya0a0a0/"><circle cx="439.2" cy="72.2" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/setts/s13/w200r28w26g26w26k2r28k2w26g26w26r24w200-g408060-k101010-rc80000-wfcfcfc/"><circle cx="506.6" cy="65.7" r="4" fill="#3465a4"><title>Wilson's Blanket Sett - Border</title></circle></a><a href="/setts/s8/w166k12w6k18r4k10w4y4-k101010-rff0000-wfcfcfc-ye8c000/"><circle cx="506.4" cy="63.6" r="4" fill="#3465a4"><title>Crane of Cluny Dress (Personal)</title></circle></a><a href="/setts/s8/w166k12w6k18r4k10w4y4-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="506.2" cy="63.7" r="4" fill="#3465a4"><title>Crane of Cluny Dress (Personal)</title></circle></a><a href="/setts/s14/y4k2w18k16w56k4w4r4w4k4w56k16w18k2-k101010-rc80000-wfcfcec-ye8c000/"><circle cx="422.8" cy="83.4" r="4" fill="#3465a4"><title>Summer Spirit</title></circle></a><a href="/setts/s13/w40r3w10r6w20k3w2k3w10ra4w2ra8w2-k101010-rbe7832-ra960032-wfafa96/"><circle cx="428.9" cy="101.8" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/"><circle cx="424.3" cy="40.8" r="4" fill="#3465a4"><title>Shaw Dress (Personal)</title></circle></a><circle cx="510.6" cy="24.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s16/b4w16b8wa2b4wa4b4wa2b8w120b4w30b4w4y4w4-b391614-wfef6b4-wafcfa93-ydf982e/

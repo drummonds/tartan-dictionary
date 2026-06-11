@@ -33,4 +33,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/12 K8 B72 K72 N8 K/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Swan 2015, Brian E (Personal)](/setts/s7/k8b36k8b36k52w4k8-b0000cd-k101010-wffffff/) — ΔT 1.34
+1. [Salem Scottish Dancer's Wee Bluet](/setts/s8/k10b10k60w9k7b36w6k6-b0a648c-k000028-we0e0e0/) — ΔT 1.37
+1. [Swan, Brian E](/setts/s6/k12b34k12b34k54w6-b0000cd-k101010-wffffff/) — ΔT 1.37
+1. [Carrick High School](/setts/s7/k12y4k32b12k6ba36k4-b788cb4-ba00008c-k000000-yc88c00/) — ΔT 1.42
+1. [Scottish Express International](/setts/s6/b6k29ba6k29b50ka6-b304080-ba8080d0-k000000-ka000030/) — ΔT 1.60
+1. [MacKay, Blue](/setts/s5/k30b8k30b56r4-b304080-k000000-rc00000/) — ΔT 1.68
+1. [Marchmont](/setts/s7/k4b48k48g4k48b48w4-b304080-g407050-k000000-we0e0e0/) — ΔT 1.69
+1. [MacKay](/setts/s6/b4k12b4k12b32r2-b304080-k000000-rc00000/) — ΔT 1.74
+1. [Slanj (Corporate)](/setts/s6/r8k56b6k6b50k6-b1474b4-k101010-r9c68a4/) — ΔT 1.77
+1. [Fenston/Morris (Personal)](/setts/s5/k66b16k8b70ba6-b0000cd-baaa00ff-k101010/) — ΔT 1.78
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k8b36k8b36k52w4k8-b0000cd-k101010-wffffff/"><circle cx="318.9" cy="226.1" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/setts/s8/k10b10k60w9k7b36w6k6-b0a648c-k000028-we0e0e0/"><circle cx="312.9" cy="202.2" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/setts/s6/k12b34k12b34k54w6-b0000cd-k101010-wffffff/"><circle cx="289.0" cy="256.0" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/setts/s7/k12y4k32b12k6ba36k4-b788cb4-ba00008c-k000000-yc88c00/"><circle cx="246.1" cy="215.9" r="4" fill="#3465a4"><title>Carrick High School</title></circle></a><a href="/setts/s6/b6k29ba6k29b50ka6-b304080-ba8080d0-k000000-ka000030/"><circle cx="252.6" cy="232.3" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/setts/s5/k30b8k30b56r4-b304080-k000000-rc00000/"><circle cx="323.8" cy="244.1" r="4" fill="#3465a4"><title>MacKay, Blue</title></circle></a><a href="/setts/s7/k4b48k48g4k48b48w4-b304080-g407050-k000000-we0e0e0/"><circle cx="281.7" cy="216.1" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/setts/s6/b4k12b4k12b32r2-b304080-k000000-rc00000/"><circle cx="387.2" cy="215.2" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s6/r8k56b6k6b50k6-b1474b4-k101010-r9c68a4/"><circle cx="320.9" cy="225.1" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/setts/s5/k66b16k8b70ba6-b0000cd-baaa00ff-k101010/"><circle cx="343.3" cy="245.8" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><circle cx="295.0" cy="227.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b12k8b72k72w8k12-b002cc0-k000000-wc8c8c8/

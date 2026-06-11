@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/4 R2 Y2 G16 K30 G4 P/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Coalfields Regeneration Trust, The](/setts/s7/k8r4y4g32k60g8b4-b780078-g789484-k101010-ra00000-ye8c000/) — ΔT 0.49
+1. [Highlands of Durham (Corporate)](/setts/s6/r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/) — ΔT 0.84
+1. [Vipont (Yellow line)](/setts/s7/r6g28k4b4g28k72y6-b9058d8-g006818-k101010-rc80000-ye8c000/) — ΔT 0.90
+1. [Hydesville Tower (Corporate)](/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/) — ΔT 1.03
+1. [Highlands of Durham](/setts/s10/b74g54w4b8r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/) — ΔT 1.04
+1. [Todd](/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/) — ΔT 1.08
+1. [Highlands of Durham #2](/setts/s10/k74g54w4k8r12k8w4g54k74y4-g006818-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 1.15
+1. [New York State Troopers](/setts/s7/b12ba8b4w4b50k52y8-b575757-ba551a8b-k101010-wffffff-yd9d919/) — ΔT 1.15
+1. [Asheville Firefighters, The](/setts/s6/k17g48y4r10w12g4-g004028-k101010-rc80000-wa8ace8-yffe600/) — ΔT 1.16
+1. [Corrie](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k8r4y4g32k60g8b4-b780078-g789484-k101010-ra00000-ye8c000/"><circle cx="307.7" cy="149.0" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s6/r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/"><circle cx="298.5" cy="157.8" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/setts/s7/r6g28k4b4g28k72y6-b9058d8-g006818-k101010-rc80000-ye8c000/"><circle cx="300.1" cy="158.4" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/"><circle cx="303.3" cy="161.0" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/setts/s10/b74g54w4b8r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/"><circle cx="308.4" cy="146.8" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/"><circle cx="299.9" cy="135.0" r="4" fill="#3465a4"><title>Todd</title></circle></a><a href="/setts/s10/k74g54w4k8r12k8w4g54k74y4-g006818-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="308.9" cy="151.2" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s7/b12ba8b4w4b50k52y8-b575757-ba551a8b-k101010-wffffff-yd9d919/"><circle cx="254.8" cy="165.5" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/setts/s6/k17g48y4r10w12g4-g004028-k101010-rc80000-wa8ace8-yffe600/"><circle cx="259.2" cy="177.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/"><circle cx="323.2" cy="165.1" r="4" fill="#3465a4"><title>Corrie</title></circle></a><circle cx="317.0" cy="155.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/k4r2y2g16k30g4b2-b780078-g408060-k101010-rc8002c-yfccc00/

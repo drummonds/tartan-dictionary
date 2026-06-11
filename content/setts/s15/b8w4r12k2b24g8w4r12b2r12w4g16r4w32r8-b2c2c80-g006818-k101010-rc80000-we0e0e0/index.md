@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacFarlane Dress](/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/) — ΔT 0.50
+1. [Carnegie #2](/setts/s14/b20r4b4r8b24r4k28w26r8w4r4w8r2y6-b2c4084-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.74
+1. [Saint John New Brunswick](/setts/s13/b2g24b6r30w30ga6w2ga6w30r30b24r4ga2-b0099cc-g5c3317-ga006b54-raf1e29-wffffff/) — ΔT 0.76
+1. [St. John New Brunswick (District)](/setts/s13/g2r4y24r30w30g6w2g6w30r30y6ga24y2-g006818-ga604000-rc80000-we0e0e0-y48a4c0/) — ΔT 0.94
+1. [MacDuff Dress #4](/setts/s11/r16k6r14g22k16b16w10r6w45k4r4-b080848-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.01
+1. [MacFarlane, dress](/setts/s14/b8w4r12k2b24g8w4r12ra12w4g16r4w32r8-b304080-g008000-k000000-rc00000-rad00000-we0e0e0/) — ΔT 1.02
+1. [Catalunya Escocia](/setts/s10/y12r12y12r12y12k2b36w4b2w8-b2c2c80-k101010-rc80000-wfcfcfc-yfccc00/) — ΔT 1.04
+1. [Dalrymple of Castleton](/setts/s14/y4r30y6b4y6k28y4ba12w4ba12y4r14ba20w2-b4c0000-ba2888c4-k101010-rcc4438-wf8f8f8-yd09800/) — ΔT 1.05
+1. [MacDuff Dress Tartan Tartan Number: 1441. Earliest known date: 0 From Scott Adie pattern. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r10k2r10g18k14w6b6w30b2r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.06
+1. [Carnegie](/setts/s14/b20r4b4r8b24r4k28w26r8w4r4w8r2y6-b304080-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.07
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/"><circle cx="105.1" cy="109.6" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/setts/s14/b20r4b4r8b24r4k28w26r8w4r4w8r2y6-b2c4084-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="102.2" cy="118.3" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/setts/s13/b2g24b6r30w30ga6w2ga6w30r30b24r4ga2-b0099cc-g5c3317-ga006b54-raf1e29-wffffff/"><circle cx="111.2" cy="116.7" r="4" fill="#3465a4"><title>Saint John New Brunswick</title></circle></a><a href="/setts/s13/g2r4y24r30w30g6w2g6w30r30y6ga24y2-g006818-ga604000-rc80000-we0e0e0-y48a4c0/"><circle cx="127.3" cy="122.3" r="4" fill="#3465a4"><title>St. John New Brunswick (District)</title></circle></a><a href="/setts/s11/r16k6r14g22k16b16w10r6w45k4r4-b080848-g005020-k101010-rdc0000-we0e0e0/"><circle cx="96.3" cy="137.8" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s14/b8w4r12k2b24g8w4r12ra12w4g16r4w32r8-b304080-g008000-k000000-rc00000-rad00000-we0e0e0/"><circle cx="75.0" cy="104.1" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/setts/s10/y12r12y12r12y12k2b36w4b2w8-b2c2c80-k101010-rc80000-wfcfcfc-yfccc00/"><circle cx="133.4" cy="119.4" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/setts/s14/y4r30y6b4y6k28y4ba12w4ba12y4r14ba20w2-b4c0000-ba2888c4-k101010-rcc4438-wf8f8f8-yd09800/"><circle cx="90.6" cy="107.5" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s10/r10k2r10g18k14w6b6w30b2r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="115.7" cy="130.6" r="4" fill="#3465a4"><title>MacDuff Dress Tartan Tartan Number: 1441. Earliest known date: 0 From Scott Adie pattern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/b20r4b4r8b24r4k28w26r8w4r4w8r2y6-b304080-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="96.2" cy="117.9" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><circle cx="114.6" cy="113.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/b8w4r12k2b24g8w4r12b2r12w4g16r4w32r8-b2c2c80-g006818-k101010-rc80000-we0e0e0/

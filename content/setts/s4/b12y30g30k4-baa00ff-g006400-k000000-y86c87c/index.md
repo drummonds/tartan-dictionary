@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "P/12 LG30 G30 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Thistle and Kudzu Scottish Society](/setts/s4/b12y30g30w4-baa00ff-g006400-wffffff-y86c87c/) — ΔT 0.50
+1. [Delroeux, John Michael Name Tartan Tartan Number: 10654. Earliest known date: 25/06/1985 Designed by Jean Michael Delroeux to show his affinity with Scotland. Colours: red, yellow and blue appear in the Delroeux coat of arms; green is for the landscapes of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b30g60y10r30-b0000cd-g008b00-rff0000-yffe600/) — ΔT 0.95
+1. [MacKinnon Dress](/setts/s4/g36ga28w28r4-g005020-ga482800-rdc0000-we0e0e0/) — ΔT 1.16
+1. [MacKinnon Dress Trade Tartan Tartan Number: 921. Earliest known date: 1970-80 Canada. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/g36b28w28r4-b480800-g006818-rc80000-we0e0e0/) — ΔT 1.26
+1. [MacKinnon, dress](/setts/s4/g36r28w28ra4-g008000-r703000-rac00000-we0e0e0/) — ΔT 1.27
+1. [MacKay, Dress (Corporate)](/setts/s6/k8g28k28g4w28b6-b1474b4-g006818-k101010-we0e0e0/) — ΔT 1.34
+1. [Lawsons' Whisky](/setts/s7/k9w38k22g31k5g31y5-g006818-k101010-wf8f8f8-ye8c000/) — ΔT 1.35
+1. [MacIntosh, dress](/setts/s6/r6w16b8g28r8b4-b304080-g008000-rc00000-we0e0e0/) — ΔT 1.42
+1. [Harbison (2015)](/setts/s4/b42g68r28w12-b2c2c80-g006818-rc80000-wfcfcfc/) — ΔT 1.47
+1. [Davidson of Tulloch](/setts/s5/r4b20k10g24w4-b2c2c80-g289c18-k101010-rc80000-wfcfcfc/) — ΔT 1.50
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b12y30g30w4-baa00ff-g006400-wffffff-y86c87c/"><circle cx="161.5" cy="246.2" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><a href="/setts/s4/b30g60y10r30-b0000cd-g008b00-rff0000-yffe600/"><circle cx="163.1" cy="255.6" r="4" fill="#3465a4"><title>Delroeux, John Michael Name Tartan Tartan Number: 10654. Earliest known date: 25/06/1985 Designed by Jean Michael Delroeux to show his affinity with Scotland. Colours: red, yellow and blue appear in the Delroeux coat of arms; green is for the landscapes of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g36ga28w28r4-g005020-ga482800-rdc0000-we0e0e0/"><circle cx="142.8" cy="248.4" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/setts/s4/g36b28w28r4-b480800-g006818-rc80000-we0e0e0/"><circle cx="139.8" cy="245.4" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan Tartan Number: 921. Earliest known date: 1970-80 Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g36r28w28ra4-g008000-r703000-rac00000-we0e0e0/"><circle cx="149.2" cy="248.2" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><a href="/setts/s6/k8g28k28g4w28b6-b1474b4-g006818-k101010-we0e0e0/"><circle cx="117.9" cy="223.5" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s7/k9w38k22g31k5g31y5-g006818-k101010-wf8f8f8-ye8c000/"><circle cx="149.7" cy="213.5" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><a href="/setts/s6/r6w16b8g28r8b4-b304080-g008000-rc00000-we0e0e0/"><circle cx="149.6" cy="216.9" r="4" fill="#3465a4"><title>MacIntosh, dress</title></circle></a><a href="/setts/s4/b42g68r28w12-b2c2c80-g006818-rc80000-wfcfcfc/"><circle cx="177.9" cy="268.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s5/r4b20k10g24w4-b2c2c80-g289c18-k101010-rc80000-wfcfcfc/"><circle cx="116.7" cy="224.9" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><circle cx="156.6" cy="246.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/b12y30g30k4-baa00ff-g006400-k000000-y86c87c/

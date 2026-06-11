@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/100 R/100 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Rob Roy Macgregor](/setts/s2/k172r172-k101010-rc80000/) — ΔT 0.00
+1. [Masai Shuka 03 (Artefact)](/setts/s2/k20r20-k101010-rc80000/) — ΔT 0.00
+1. [Rob Roy Clan Tartan Tartan Number: 1504. Earliest known date: 1815 - 16 A specimen of the Rob Roy sett exists in the collection of the Highland Society of London, bearing the Seal of Arms of Sir John MacGregor Murray of MacGregor, Baronet, and signed John M. Murray. The specimens were collected during the period 1815-16. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/k16r16-k101010-rc80000/) — ΔT 0.00
+1. [Dice (Name?)](/setts/s2/b100r100-b1c1c50-rc80000/) — ΔT 1.10
+1. [Rob Roy](/setts/s2/k66r66-k000000-rc00000/) — ΔT 1.15
+1. [Rob Roy](/setts/s2/k4r4-k000000-rc80000/) — ΔT 1.15
+1. [Rob Roy](/setts/s2/k8r8-k000000-raa0000/) — ΔT 1.18
+1. [Rob Roy](/setts/s2/k4r4-k000000-raa0000/) — ΔT 1.18
+1. [Glenlyon (District)](/setts/s2/g80r80-g005020-rdc0000/) — ΔT 1.58
+1. [Masai Shuka 02 (Artefact)](/setts/s2/b20r20-b2c2c80-rc80000/) — ΔT 1.76
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k172r172-k101010-rc80000/"><circle cx="178.5" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy Macgregor</title></circle></a><a href="/setts/s2/k20r20-k101010-rc80000/"><circle cx="178.5" cy="366.0" r="4" fill="#3465a4"><title>Masai Shuka 03 (Artefact)</title></circle></a><a href="/setts/s2/k16r16-k101010-rc80000/"><circle cx="178.5" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy Clan Tartan Tartan Number: 1504. Earliest known date: 1815 - 16 A specimen of the Rob Roy sett exists in the collection of the Highland Society of London, bearing the Seal of Arms of Sir John MacGregor Murray of MacGregor, Baronet, and signed John M. Murray. The specimens were collected during the period 1815-16. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s2/b100r100-b1c1c50-rc80000/"><circle cx="187.4" cy="366.0" r="4" fill="#3465a4"><title>Dice (Name?)</title></circle></a><a href="/setts/s2/k66r66-k000000-rc00000/"><circle cx="157.7" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy</title></circle></a><a href="/setts/s2/k4r4-k000000-rc80000/"><circle cx="156.0" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy</title></circle></a><a href="/setts/s2/k8r8-k000000-raa0000/"><circle cx="163.4" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy</title></circle></a><a href="/setts/s2/k4r4-k000000-raa0000/"><circle cx="163.4" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy</title></circle></a><a href="/setts/s2/g80r80-g005020-rdc0000/"><circle cx="187.5" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon (District)</title></circle></a><a href="/setts/s2/b20r20-b2c2c80-rc80000/"><circle cx="194.7" cy="366.0" r="4" fill="#3465a4"><title>Masai Shuka 02 (Artefact)</title></circle></a><circle cx="178.5" cy="366.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s2/k100r100-k101010-rc80000/

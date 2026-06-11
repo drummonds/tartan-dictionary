@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/4 DB12 R10 Y4 G48 K/17 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g26b2g2b2g6ba10k8y4-b780078-ba2c2c80-g006818-k101010-ye8c000/) — ΔT 0.82
+1. [Gorman, George (Personal)](/setts/s6/g108ga12b24ga12ba48r12-b7028c0-ba1c1c50-g006818-ga289c18-rc80000/) — ΔT 1.01
+1. [Asheville Firefighters, The](/setts/s6/k17g48y4r10w12g4-g004028-k101010-rc80000-wa8ace8-yffe600/) — ΔT 1.02
+1. [Merwe](/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.04
+1. [Wardrope (Personal)](/setts/s9/r3g32k4g4k11b3k7r4w3-b2c2c80-g006818-k101010-r880000-we8ccb8/) — ΔT 1.06
+1. [St Johns County Sheriff Office (Cor)](/setts/s5/r34b14y16g116k12-b1c0070-g006818-k101010-rc80000-ybc8c00/) — ΔT 1.07
+1. [Lossiemouth/Hersbruck](/setts/s6/g52b6g24k20ba30w4-b2c2c80-ba780078-g006818-k101010-we0e0e0/) — ΔT 1.12
+1. [Dundhuin Hunting (Personal)](/setts/s5/g124ga34y24b16r16-b5f749c-g23321b-ga649848-r905966-yf8e38c/) — ΔT 1.14
+1. [Arkansas](/setts/s7/g12w4g48r24g12k12ga8-g004010-ga008000-k000000-rc00020-we0e0e0/) — ΔT 1.15
+1. [Chiti, Cristiano (Personal)](/setts/s6/g40b22w12r4ba6w2-b002814-ba780078-g004c00-r880000-wc0c0c0/) — ΔT 1.16
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g26b2g2b2g6ba10k8y4-b780078-ba2c2c80-g006818-k101010-ye8c000/"><circle cx="285.7" cy="170.0" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g108ga12b24ga12ba48r12-b7028c0-ba1c1c50-g006818-ga289c18-rc80000/"><circle cx="243.5" cy="199.1" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/setts/s6/k17g48y4r10w12g4-g004028-k101010-rc80000-wa8ace8-yffe600/"><circle cx="259.2" cy="177.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="310.3" cy="182.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/setts/s9/r3g32k4g4k11b3k7r4w3-b2c2c80-g006818-k101010-r880000-we8ccb8/"><circle cx="264.7" cy="164.8" r="4" fill="#3465a4"><title>Wardrope (Personal)</title></circle></a><a href="/setts/s5/r34b14y16g116k12-b1c0070-g006818-k101010-rc80000-ybc8c00/"><circle cx="323.9" cy="198.0" r="4" fill="#3465a4"><title>St Johns County Sheriff Office (Cor)</title></circle></a><a href="/setts/s6/g52b6g24k20ba30w4-b2c2c80-ba780078-g006818-k101010-we0e0e0/"><circle cx="273.2" cy="205.0" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/setts/s5/g124ga34y24b16r16-b5f749c-g23321b-ga649848-r905966-yf8e38c/"><circle cx="267.5" cy="199.2" r="4" fill="#3465a4"><title>Dundhuin Hunting (Personal)</title></circle></a><a href="/setts/s7/g12w4g48r24g12k12ga8-g004010-ga008000-k000000-rc00020-we0e0e0/"><circle cx="293.1" cy="189.3" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s6/g40b22w12r4ba6w2-b002814-ba780078-g004c00-r880000-wc0c0c0/"><circle cx="241.2" cy="167.1" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><circle cx="275.8" cy="187.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/

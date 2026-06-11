@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Akins Clan (Personal)](/setts/s8/r42ra6r6ra6r6b38g44w6-b00008b-g008000-r800000-radc143c-w87cefa/) — ΔT 0.64
+1. [Akins](/setts/s8/r42ra6r6ra6r6b38g44ba6-b000050-ba8080d0-g008000-r802040-ra900030/) — ΔT 0.66
+1. [Clare](/setts/s11/r6b28g28b4r28b4r28b4ga28b4y6-b000050-g30a010-ga008000-r802040-yf0c000/) — ΔT 0.75
+1. [Curry (Personal)](/setts/s8/r6g4r12g40k30g6b36w4-b2c2c80-g00643c-k101010-rc80000-wfcfcfc/) — ΔT 0.76
+1. [MacMillan Hunting Clan Tartan Tartan Number: 668. Earliest known date: 1906 The Setts No: 160. W & A K Johnston See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b12y4b36k12y6k12g28r6g20r4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.78
+1. [Heart of the Highlands](/setts/s9/r36k6r8w6r8k36b40k4ra8-b5c5c5c-k101010-r888888-raa00048-wc0c0c0/) — ΔT 0.79
+1. [Nelson Mandela (Personal)](/setts/s7/b54g10y16k40y6g30r6-b202060-g006818-k101010-rc80000-yd8b000/) — ΔT 0.79
+1. [Rattray of Lude](/setts/s10/k4g32k16r4b32r4b4r32g4w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 0.79
+1. [Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g8r6g22k20w4b44w4k20g22r6-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.81
+1. [Nelson Mandela (Personal)](/setts/s7/b54g10y16k40y6g30r6-b202060-g006818-k101010-rc80000-ye8c000/) — ΔT 0.83
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r42ra6r6ra6r6b38g44w6-b00008b-g008000-r800000-radc143c-w87cefa/"><circle cx="142.1" cy="180.3" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/setts/s8/r42ra6r6ra6r6b38g44ba6-b000050-ba8080d0-g008000-r802040-ra900030/"><circle cx="155.0" cy="188.0" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/setts/s11/r6b28g28b4r28b4r28b4ga28b4y6-b000050-g30a010-ga008000-r802040-yf0c000/"><circle cx="118.3" cy="180.1" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/setts/s8/r6g4r12g40k30g6b36w4-b2c2c80-g00643c-k101010-rc80000-wfcfcfc/"><circle cx="159.2" cy="184.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s10/b12y4b36k12y6k12g28r6g20r4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="131.6" cy="186.5" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan Tartan Number: 668. Earliest known date: 1906 The Setts No: 160. W &amp; A K Johnston See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r36k6r8w6r8k36b40k4ra8-b5c5c5c-k101010-r888888-raa00048-wc0c0c0/"><circle cx="157.2" cy="172.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s7/b54g10y16k40y6g30r6-b202060-g006818-k101010-rc80000-yd8b000/"><circle cx="123.2" cy="197.2" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/setts/s10/k4g32k16r4b32r4b4r32g4w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="119.8" cy="164.6" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/setts/s10/g8r6g22k20w4b44w4k20g22r6-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="134.4" cy="176.3" r="4" fill="#3465a4"><title>Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b54g10y16k40y6g30r6-b202060-g006818-k101010-rc80000-ye8c000/"><circle cx="117.4" cy="194.4" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><circle cx="124.8" cy="182.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b32k4g8k4ga8k24g32k4w8-b780078-g006818-ga604000-k101010-we0e0e0/

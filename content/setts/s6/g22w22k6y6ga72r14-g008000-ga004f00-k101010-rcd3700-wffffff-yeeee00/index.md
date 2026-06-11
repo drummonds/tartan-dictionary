@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DO/14 G72 Y6 K6 W22 Ga/22 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Driver (Name)](/setts/s6/g22w22k6y6ga72ya14-g006818-ga003820-k101010-we0e0e0-ye8c000-yad87c00/) — ΔT 0.83
+1. [Lethcoe (Thousand Oaks) (Personal)](/setts/s6/k64w16y8g124b16ba16-b5f749c-ba433a5a-g649848-k000000-wf9f5ef-yf8e38c/) — ΔT 1.11
+1. [Alberta](/setts/s7/g72k8y8k8b12k8ya24-b5480b0-g008000-k000000-ye0a0a0-yaf0c000/) — ΔT 1.14
+1. [Mellor (Name)](/setts/s6/w16k32g64b6y10w10-b003c64-g006818-k101010-we0e0e0-ybc8c00/) — ΔT 1.21
+1. [Alberta District Tartan Tartan Number: 2055. Earliest known date: 1961 Designed for the Edmonton Rehabilitation Society as a project for handloom weaving by disabled students. The Provincial Legislative of Alberta gave formal approval for the Alberta tartan in 1961. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/g24k2r2k2b4k2y8-b5c8ca8-g006818-k101010-rd05054-ye8c000/) — ΔT 1.37
+1. [Mayo](/setts/s7/k8g32b22r32g50y4ba6-b304080-ba5480b0-g008000-k000000-rc00000-yf0c000/) — ΔT 1.38
+1. [Kilkenny](/setts/s7/r10g54ra4ga50y14g6r6-g003000-ga30a010-r802040-ra906030-yf0c000/) — ΔT 1.39
+1. [Keeling Dress (Fashion)](/setts/s7/y34w14y12g86k10r12k26-g289c18-k101010-r888888-we0e0e0-ye8c000/) — ΔT 1.39
+1. [Alberta (District)](/setts/s7/g96k8r8k8b16k8y32-b2474e8-g006818-k101010-re87878-yd8b000/) — ΔT 1.43
+1. [Hamilton of Brandon (Fashion)](/setts/s6/y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/) — ΔT 1.43
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g22w22k6y6ga72ya14-g006818-ga003820-k101010-we0e0e0-ye8c000-yad87c00/"><circle cx="198.5" cy="154.4" r="4" fill="#3465a4"><title>Driver (Name)</title></circle></a><a href="/setts/s6/k64w16y8g124b16ba16-b5f749c-ba433a5a-g649848-k000000-wf9f5ef-yf8e38c/"><circle cx="204.2" cy="134.1" r="4" fill="#3465a4"><title>Lethcoe (Thousand Oaks) (Personal)</title></circle></a><a href="/setts/s7/g72k8y8k8b12k8ya24-b5480b0-g008000-k000000-ye0a0a0-yaf0c000/"><circle cx="206.5" cy="160.1" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s6/w16k32g64b6y10w10-b003c64-g006818-k101010-we0e0e0-ybc8c00/"><circle cx="184.1" cy="178.5" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><a href="/setts/s7/g24k2r2k2b4k2y8-b5c8ca8-g006818-k101010-rd05054-ye8c000/"><circle cx="267.3" cy="154.1" r="4" fill="#3465a4"><title>Alberta District Tartan Tartan Number: 2055. Earliest known date: 1961 Designed for the Edmonton Rehabilitation Society as a project for handloom weaving by disabled students. The Provincial Legislative of Alberta gave formal approval for the Alberta tartan in 1961. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k8g32b22r32g50y4ba6-b304080-ba5480b0-g008000-k000000-rc00000-yf0c000/"><circle cx="220.4" cy="174.1" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/setts/s7/r10g54ra4ga50y14g6r6-g003000-ga30a010-r802040-ra906030-yf0c000/"><circle cx="199.0" cy="163.6" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s7/y34w14y12g86k10r12k26-g289c18-k101010-r888888-we0e0e0-ye8c000/"><circle cx="161.5" cy="171.6" r="4" fill="#3465a4"><title>Keeling Dress (Fashion)</title></circle></a><a href="/setts/s7/g96k8r8k8b16k8y32-b2474e8-g006818-k101010-re87878-yd8b000/"><circle cx="267.4" cy="155.1" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/setts/s6/y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/"><circle cx="213.3" cy="162.6" r="4" fill="#3465a4"><title>Hamilton of Brandon (Fashion)</title></circle></a><circle cx="191.2" cy="150.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/g22w22k6y6ga72r14-g008000-ga004f00-k101010-rcd3700-wffffff-yeeee00/

@@ -22,4 +22,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tweedside Variation (silk sample)](/setts/s9/k100w6k6r8w6r6w10r6k6-k101010-rc80000-wfcfcfc/) — ΔT 1.11
+1. [Brockton](/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-wffffff/) — ΔT 1.11
+1. [Reiver Check](/setts/s10/k108w8k8w8k8w8k8w8k16r20-k101010-rc80000-we0e0e0/) — ΔT 1.12
+1. [Clergy #3](/setts/s12/k20g10k4g10k20w2k52w2g8w2k10w2-g808080-k101010-we0e0e0/) — ΔT 1.15
+1. [Royal Army PTC Assoc. (Military)](/setts/s8/k118r6k12r6k16r30k4y6-k101010-rc80000-ye8c000/) — ΔT 1.23
+1. [State University of New York College at Buffalo](/setts/s8/k70r5k3w4b4w4k3r12-b64008c-k101010-rfa4b00-wc8c8c8/) — ΔT 1.26
+1. [Brockton (Corporate)](/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-we0e0e0/) — ΔT 1.29
+1. [Erck, Georges van (Personal),](/setts/s8/k76y2w14y2k8y4k6y4-k1c1714-we5e0d2-ye0a126/) — ΔT 1.36
+1. [Bunnahabhain](/setts/s9/y16k14r6k14r6k76w4k6y12-k101010-rc80000-wf8f8f8-ybc8c00/) — ΔT 1.39
+1. [Valdres Kvam and Vang District Tartan Tartan Number: 2124. Earliest known date: 1850's One of the many designs produced in this secluded valley in the middle of Norway. Unlike Gudbrandsdalen, no connection with Scottish tartans can be found, but further research is planned. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k4w1r4k2g2r3k2k20r2k2r2-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k100w6k6r8w6r6w10r6k6-k101010-rc80000-wfcfcfc/"><circle cx="457.4" cy="135.8" r="4" fill="#3465a4"><title>Tweedside Variation (silk sample)</title></circle></a><a href="/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-wffffff/"><circle cx="520.7" cy="155.5" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s10/k108w8k8w8k8w8k8w8k16r20-k101010-rc80000-we0e0e0/"><circle cx="451.8" cy="152.0" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/setts/s12/k20g10k4g10k20w2k52w2g8w2k10w2-g808080-k101010-we0e0e0/"><circle cx="477.3" cy="149.7" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s8/k118r6k12r6k16r30k4y6-k101010-rc80000-ye8c000/"><circle cx="539.0" cy="148.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s8/k70r5k3w4b4w4k3r12-b64008c-k101010-rfa4b00-wc8c8c8/"><circle cx="462.1" cy="120.8" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-we0e0e0/"><circle cx="530.2" cy="159.5" r="4" fill="#3465a4"><title>Brockton (Corporate)</title></circle></a><a href="/setts/s8/k76y2w14y2k8y4k6y4-k1c1714-we5e0d2-ye0a126/"><circle cx="529.4" cy="121.1" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s9/y16k14r6k14r6k76w4k6y12-k101010-rc80000-wf8f8f8-ybc8c00/"><circle cx="428.9" cy="144.8" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2-g006818-k101010-rc80000-we0e0e0/"><circle cx="429.1" cy="135.8" r="4" fill="#3465a4"><title>Valdres Kvam and Vang District Tartan Tartan Number: 2124. Earliest known date: 1850's One of the many designs produced in this secluded valley in the middle of Norway. Unlike Gudbrandsdalen, no connection with Scottish tartans can be found, but further research is planned. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="485.9" cy="125.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/k100w8k20r4k4w4r4k28r22k4r8w4-k101010-rc80000-wf8f8f8/

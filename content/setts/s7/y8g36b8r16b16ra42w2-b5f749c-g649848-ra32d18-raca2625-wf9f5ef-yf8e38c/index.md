@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LY/8 LG36 B8 Ra16 B16 R42 W/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bathija (Name)](/setts/s7/y8g36b8r16b16ra42w2-b1474b4-g006818-ra00000-rac80000-wfcfcfc-yfccc00/) — ΔT 1.03
+1. [Etienne, Paschal Tache Sir...](/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/) — ΔT 1.40
+1. [Elystan Glodrydd (Name)](/setts/s7/w6g48r26ga8y22r16b4-b1c0070-g006818-ga048888-rc80000-we0e0e0-ybc8c00/) — ΔT 1.53
+1. [Henry, W.A.](/setts/s9/r48ra48w6g42y4ra2y4r12ra4-g008000-r806050-rac00000-we0e0e0-yf0c000/) — ΔT 1.55
+1. [Barbour Dress](/setts/s7/r8b4r42ba22w4ra40rb6-b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8/) — ΔT 1.56
+1. [Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.57
+1. [Northern Ontario (District)](/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/) — ΔT 1.58
+1. [Porcupine City of](/setts/s7/r40b12ba4w32ba4y8g20-b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800/) — ΔT 1.58
+1. [Wilson's, No 227](/setts/s9/r52b14ba16y6r6w6g40ba20w4-b5480b0-ba800080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.66
+1. [Dundhuin](/setts/s6/y12r10k4g36ra56w4-g6a8a67-k1c1714-r905966-ra9d2123-wf9f5ef-y99a3ba/) — ΔT 1.67
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/y8g36b8r16b16ra42w2-b1474b4-g006818-ra00000-rac80000-wfcfcfc-yfccc00/"><circle cx="151.7" cy="140.9" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/"><circle cx="226.1" cy="112.6" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/setts/s7/w6g48r26ga8y22r16b4-b1c0070-g006818-ga048888-rc80000-we0e0e0-ybc8c00/"><circle cx="160.1" cy="164.9" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s9/r48ra48w6g42y4ra2y4r12ra4-g008000-r806050-rac00000-we0e0e0-yf0c000/"><circle cx="243.6" cy="134.0" r="4" fill="#3465a4"><title>Henry, W.A.</title></circle></a><a href="/setts/s7/r8b4r42ba22w4ra40rb6-b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8/"><circle cx="186.9" cy="165.1" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/"><circle cx="224.1" cy="112.2" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r38y10b4w24b4ya8g16-b1474b4-g408060-rdc4038-wf8e4bc-ya0a0a0-yac8a400/"><circle cx="133.6" cy="160.4" r="4" fill="#3465a4"><title>Northern Ontario (District)</title></circle></a><a href="/setts/s7/r40b12ba4w32ba4y8g20-b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800/"><circle cx="113.6" cy="162.7" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/setts/s9/r52b14ba16y6r6w6g40ba20w4-b5480b0-ba800080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="142.8" cy="131.3" r="4" fill="#3465a4"><title>Wilson's, No 227</title></circle></a><a href="/setts/s6/y12r10k4g36ra56w4-g6a8a67-k1c1714-r905966-ra9d2123-wf9f5ef-y99a3ba/"><circle cx="255.8" cy="160.2" r="4" fill="#3465a4"><title>Dundhuin</title></circle></a><circle cx="173.7" cy="146.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/y8g36b8r16b16ra42w2-b5f749c-g649848-ra32d18-raca2625-wf9f5ef-yf8e38c/

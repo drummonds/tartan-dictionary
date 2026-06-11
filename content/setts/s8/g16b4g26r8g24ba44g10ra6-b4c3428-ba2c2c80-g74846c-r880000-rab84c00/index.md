@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DO/6 N10 DB44 N24 DR8 N26 T4 N/16 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [HMS Duncan (Military)](/setts/s6/b6r30ba30ra4ba30y6-b780078-ba003c64-r888888-rac80000-ycca800/) — ΔT 1.15
+1. [Kildare, County](/setts/s14/g16b4g26r8g24ba44g10ra6g10ba44g24r8g26b4-b4c3428-ba2c2c80-g74846c-r880000-rab84c00/) — ΔT 1.15
+1. [Cameron Hunting](/setts/s6/b30r10b60ba64b8y6-b4c3428-ba1474b4-rc80000-yd09800/) — ΔT 1.20
+1. [Bahamas](/setts/s8/b16y4b44g12r4w20g24b6-b40647c-g004800-rc80000-wc8c8c8-y9c9c00/) — ΔT 1.30
+1. [Bute Heather, Grey (Fashion)](/setts/s11/y13ya2b38k13b8k8b17k2b17k4r11-b5c5c5c-k101010-r888888-ya0a0a0-yab8b8b8/) — ΔT 1.30
+1. [Bermuda Plaid (1947) (District)](/setts/s7/b66r16ba24g24b16ba4b16-b5c8ca8-ba2c2c80-g006818-rc80000/) — ΔT 1.31
+1. [Wellington (Wilson 122)](/setts/s8/g28b22ba6k4ba6b22g28y2-b440044-ba2888c4-g408060-k101010-ye8c000/) — ΔT 1.32
+1. [Donegal Irish County Tartan Tartan Number: 2247. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/y6g34b6g6b6k10b36r4b16r4-b406088-g508c60-k000000-r8c0020-yd09000/) — ΔT 1.35
+1. [Donegal](/setts/s10/g6ga34b6ga6b6ba10b36r4b16r4-b304080-ba401000-g908000-ga008000-rc00000/) — ΔT 1.38
+1. [Donegal, County](/setts/s10/y6g34b6g6b6ba10b36r4b16r4-b1474b4-ba441800-g285800-r880000-ybc8c00/) — ΔT 1.41
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b6r30ba30ra4ba30y6-b780078-ba003c64-r888888-rac80000-ycca800/"><circle cx="277.3" cy="228.6" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/setts/s14/g16b4g26r8g24ba44g10ra6g10ba44g24r8g26b4-b4c3428-ba2c2c80-g74846c-r880000-rab84c00/"><circle cx="282.0" cy="180.5" r="4" fill="#3465a4"><title>Kildare, County</title></circle></a><a href="/setts/s6/b30r10b60ba64b8y6-b4c3428-ba1474b4-rc80000-yd09800/"><circle cx="347.3" cy="230.0" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s8/b16y4b44g12r4w20g24b6-b40647c-g004800-rc80000-wc8c8c8-y9c9c00/"><circle cx="246.1" cy="192.4" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/setts/s11/y13ya2b38k13b8k8b17k2b17k4r11-b5c5c5c-k101010-r888888-ya0a0a0-yab8b8b8/"><circle cx="330.5" cy="163.1" r="4" fill="#3465a4"><title>Bute Heather, Grey (Fashion)</title></circle></a><a href="/setts/s7/b66r16ba24g24b16ba4b16-b5c8ca8-ba2c2c80-g006818-rc80000/"><circle cx="344.7" cy="206.2" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/setts/s8/g28b22ba6k4ba6b22g28y2-b440044-ba2888c4-g408060-k101010-ye8c000/"><circle cx="242.3" cy="186.7" r="4" fill="#3465a4"><title>Wellington (Wilson 122)</title></circle></a><a href="/setts/s10/y6g34b6g6b6k10b36r4b16r4-b406088-g508c60-k000000-r8c0020-yd09000/"><circle cx="245.3" cy="180.7" r="4" fill="#3465a4"><title>Donegal Irish County Tartan Tartan Number: 2247. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g6ga34b6ga6b6ba10b36r4b16r4-b304080-ba401000-g908000-ga008000-rc00000/"><circle cx="255.2" cy="186.3" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/setts/s10/y6g34b6g6b6ba10b36r4b16r4-b1474b4-ba441800-g285800-r880000-ybc8c00/"><circle cx="262.2" cy="190.7" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><circle cx="300.6" cy="203.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g16b4g26r8g24ba44g10ra6-b4c3428-ba2c2c80-g74846c-r880000-rab84c00/

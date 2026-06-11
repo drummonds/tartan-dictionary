@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/74 N36 K74 R4 K4 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Sandberg](/setts/s7/r12k48g16b48r4k8r4-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.85
+1. [Monarchs](/setts/s6/b76k16ba4k16g36ba4-b304080-ba600030-g006030-k000000/) — ΔT 1.06
+1. [Mowat](/setts/s7/b52k2b4k36y4g32k32-b2c2c80-g006818-k101010-ye8c000/) — ΔT 1.13
+1. [205 (Scottish) Field Hospital (Mil.)](/setts/s6/r6ra36k4g36k48rb2-g003820-k00002c-r888888-ra901c38-rbc80000/) — ΔT 1.15
+1. [Dundas #2](/setts/s7/k8b32k24g24r2g4k4-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.21
+1. [New England (Fashion)](/setts/s6/k4w2k24g10b22r2-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.24
+1. [Gammell (1978) (Personal)](/setts/s7/b6r4b44k22g44r4g6-b1c0070-g006818-k101010-rc80000/) — ΔT 1.24
+1. [Diaspora](/setts/s6/b6g2r44k24b56w6-b003478-g003800-k000034-r8c0000-wc8c8c8/) — ΔT 1.25
+1. [MacRobart (Personal)](/setts/s6/b60k20g20w4g30w4-b202060-g006818-k101010-wa8ace8/) — ΔT 1.29
+1. [Brown Family Tartan Tartan Number: 432. Earliest known date: 1850 The Scott Adie collection, a book of manufacturers samples, was recently sold at auction. The book is dated 1850 and the samples are thought to represent the tartans available for purchase between 1840-50. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b24r4b8r4b8k72r32g8-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.32
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r12k48g16b48r4k8r4-b2c2c80-g006818-k101010-rc80000/"><circle cx="240.0" cy="202.4" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/setts/s6/b76k16ba4k16g36ba4-b304080-ba600030-g006030-k000000/"><circle cx="300.9" cy="189.5" r="4" fill="#3465a4"><title>Monarchs</title></circle></a><a href="/setts/s7/b52k2b4k36y4g32k32-b2c2c80-g006818-k101010-ye8c000/"><circle cx="282.6" cy="193.5" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/r6ra36k4g36k48rb2-g003820-k00002c-r888888-ra901c38-rbc80000/"><circle cx="242.8" cy="175.4" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/setts/s7/k8b32k24g24r2g4k4-b2c2c80-g006818-k101010-rc80000/"><circle cx="244.3" cy="210.9" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/setts/s6/k4w2k24g10b22r2-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="234.3" cy="199.6" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><a href="/setts/s7/b6r4b44k22g44r4g6-b1c0070-g006818-k101010-rc80000/"><circle cx="227.3" cy="206.4" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/setts/s6/b6g2r44k24b56w6-b003478-g003800-k000034-r8c0000-wc8c8c8/"><circle cx="277.8" cy="161.9" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s6/b60k20g20w4g30w4-b202060-g006818-k101010-wa8ace8/"><circle cx="260.3" cy="212.9" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/setts/s8/b24r4b8r4b8k72r32g8-b2c2c80-g006818-k101010-rc80000/"><circle cx="281.4" cy="161.9" r="4" fill="#3465a4"><title>Brown Family Tartan Tartan Number: 432. Earliest known date: 1850 The Scott Adie collection, a book of manufacturers samples, was recently sold at auction. The book is dated 1850 and the samples are thought to represent the tartans available for purchase between 1840-50. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="268.8" cy="191.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b74r36k74ra4k4ra4-b202060-k101010-r888888-rac80000/

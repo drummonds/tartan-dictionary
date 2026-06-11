@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/10 K8 LT48 K8 G90 R10 G10 LN/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Alberta District Tartan Tartan Number: 2055. Earliest known date: 1961 Designed for the Edmonton Rehabilitation Society as a project for handloom weaving by disabled students. The Provincial Legislative of Alberta gave formal approval for the Alberta tartan in 1961. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/g24k2r2k2b4k2y8-b5c8ca8-g006818-k101010-rd05054-ye8c000/) — ΔT 0.55
+1. [O'Neill (Name)](/setts/s8/w12g10r10g90k8y48k8g10-g006818-k101010-ra00024-we0e0e0-ya08858/) — ΔT 0.66
+1. [Alberta (Province)](/setts/s7/g104k8r8k8b16k8y32-b2474e8-g006818-k101010-re87878-yd8b000/) — ΔT 0.73
+1. [Alberta (District)](/setts/s7/g96k8r8k8b16k8y32-b2474e8-g006818-k101010-re87878-yd8b000/) — ΔT 0.74
+1. [Manitoba](/setts/s8/b8g4b4g48ga8g4r24y8-b5480b0-g008000-ga003000-r802040-yf0c000/) — ΔT 0.91
+1. [Humphries (Name)](/setts/s8/g72r4w8k4w8r4ra24k8-g007800-k000000-r8c0000-ra8c6428-wc8c8c8/) — ΔT 0.92
+1. [Manitoba](/setts/s8/b4g2b2g24r4g2ra12y4-b5480b0-g008000-rc00000-ra900030-yf0c000/) — ΔT 1.09
+1. [Canadian Caledonian](/setts/s10/b6g32y2r2w2r12g6r2g6w2-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.09
+1. [Casey of West Virginia (Personal)](/setts/s9/g16y4b4y4b8g36r4b24w4-b14283c-g007800-rc80000-wf8f8f8-yc88c00/) — ΔT 1.16
+1. [Hall (P.I.E.) (Personal)](/setts/s8/y10g6y6g106r14b10r26w8-b2c2c80-g006818-r901c38-wf8f8f8-ye8c000/) — ΔT 1.18
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g24k2r2k2b4k2y8-b5c8ca8-g006818-k101010-rd05054-ye8c000/"><circle cx="267.3" cy="154.1" r="4" fill="#3465a4"><title>Alberta District Tartan Tartan Number: 2055. Earliest known date: 1961 Designed for the Edmonton Rehabilitation Society as a project for handloom weaving by disabled students. The Provincial Legislative of Alberta gave formal approval for the Alberta tartan in 1961. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w12g10r10g90k8y48k8g10-g006818-k101010-ra00024-we0e0e0-ya08858/"><circle cx="296.6" cy="164.5" r="4" fill="#3465a4"><title>O'Neill (Name)</title></circle></a><a href="/setts/s7/g104k8r8k8b16k8y32-b2474e8-g006818-k101010-re87878-yd8b000/"><circle cx="287.4" cy="151.1" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/setts/s7/g96k8r8k8b16k8y32-b2474e8-g006818-k101010-re87878-yd8b000/"><circle cx="267.4" cy="155.1" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/setts/s8/b8g4b4g48ga8g4r24y8-b5480b0-g008000-ga003000-r802040-yf0c000/"><circle cx="264.1" cy="164.2" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/setts/s8/g72r4w8k4w8r4ra24k8-g007800-k000000-r8c0000-ra8c6428-wc8c8c8/"><circle cx="286.0" cy="127.6" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/setts/s8/b4g2b2g24r4g2ra12y4-b5480b0-g008000-rc00000-ra900030-yf0c000/"><circle cx="266.2" cy="159.6" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/setts/s10/b6g32y2r2w2r12g6r2g6w2-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="337.6" cy="132.2" r="4" fill="#3465a4"><title>Canadian Caledonian</title></circle></a><a href="/setts/s9/g16y4b4y4b8g36r4b24w4-b14283c-g007800-rc80000-wf8f8f8-yc88c00/"><circle cx="237.1" cy="178.1" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/setts/s8/y10g6y6g106r14b10r26w8-b2c2c80-g006818-r901c38-wf8f8f8-ye8c000/"><circle cx="342.2" cy="129.9" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><circle cx="280.7" cy="157.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w12g10r10g90k8ra48k8g10-g008000-k000000-rc00020-ra906030-we0e0e0/

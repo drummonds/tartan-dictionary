@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LTa | <code style="background-color:#8C6428;"><span style="color:#8C6428;filter:grayscale(1) invert(1) contrast(100);">#8C6428</span></code> `#8C6428` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.16 |
 | N | <code style="background-color:#B0B0B0;"><span style="color:#B0B0B0;filter:grayscale(1) invert(1) contrast(100);">#B0B0B0</span></code> `#B0B0B0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fowdar (Personal)](/setts/s12/k9w6k46b24r8b6r6b6r16g6r6y6-b000080-g488214-k101010-rcc1100-wffffff-yeeee00/) — ΔT 0.81
+1. [Sligo County Crest (Fashion)](/setts/s11/y8k16ya8k52ya6k5w27r20g14k5ya6-g5c6428-k101010-r880000-we0e0e0-ydc943c-yaa0a0a0/) — ΔT 0.89
+1. [Kapasi (Personal)](/setts/s13/w4k24g4k4g4k4g32k6wa6k6r24g12y4-g408060-k101010-rc80000-wc49cd8-wafcfcfc-yd87c00/) — ΔT 0.95
+1. [Dublin County Crest (Fashion)](/setts/s11/y9k8y30k4w8k4b24k54r14k4ya8-b2c2c80-k101010-r880000-wa8ace8-ybc8c00-yaa0a0a0/) — ΔT 0.96
+1. [Crozier/Crosser](/setts/s11/w8b10r6b44y8k6g34r14k4r14y4-b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00/) — ΔT 1.01
+1. [McMuldroch (2014)](/setts/s10/g38k36r36w4y4b4y4w4r16b6-b780078-g006818-k000000-r960028-wf8f8f8-yfccc00/) — ΔT 1.06
+1. [Unnamed No 158, Silk Fragment](/setts/s13/b16k2r8k2r8k2r8k2g16k2y2r2w2-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.07
+1. [Hislop Hunting (Name)](/setts/s11/r4b16g18k4w6k2y2k14y4k16r4-b202060-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.08
+1. [Quebec, Plaid Du](/setts/s12/b50g10b4y4k4r6g40r40b4w4k4r4-b000050-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.10
+1. [Hislop/Hyslop Hunting #2](/setts/s11/r4b16g18k4w6k2y2k14y4k16r4-b080848-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k9w6k46b24r8b6r6b6r16g6r6y6-b000080-g488214-k101010-rcc1100-wffffff-yeeee00/"><circle cx="114.7" cy="134.9" r="4" fill="#3465a4"><title>Fowdar (Personal)</title></circle></a><a href="/setts/s11/y8k16ya8k52ya6k5w27r20g14k5ya6-g5c6428-k101010-r880000-we0e0e0-ydc943c-yaa0a0a0/"><circle cx="146.4" cy="128.6" r="4" fill="#3465a4"><title>Sligo County Crest (Fashion)</title></circle></a><a href="/setts/s13/w4k24g4k4g4k4g32k6wa6k6r24g12y4-g408060-k101010-rc80000-wc49cd8-wafcfcfc-yd87c00/"><circle cx="127.0" cy="135.5" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/setts/s11/y9k8y30k4w8k4b24k54r14k4ya8-b2c2c80-k101010-r880000-wa8ace8-ybc8c00-yaa0a0a0/"><circle cx="169.5" cy="121.9" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/setts/s11/w8b10r6b44y8k6g34r14k4r14y4-b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00/"><circle cx="101.7" cy="128.6" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s10/g38k36r36w4y4b4y4w4r16b6-b780078-g006818-k000000-r960028-wf8f8f8-yfccc00/"><circle cx="102.5" cy="130.2" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s13/b16k2r8k2r8k2r8k2g16k2y2r2w2-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="103.4" cy="129.2" r="4" fill="#3465a4"><title>Unnamed No 158, Silk Fragment</title></circle></a><a href="/setts/s11/r4b16g18k4w6k2y2k14y4k16r4-b202060-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="101.0" cy="154.2" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s12/b50g10b4y4k4r6g40r40b4w4k4r4-b000050-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="133.3" cy="105.5" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s11/r4b16g18k4w6k2y2k14y4k16r4-b080848-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="106.0" cy="157.5" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting #2</title></circle></a><circle cx="132.2" cy="130.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/r8k24b4k4b4k4b4ra32ba6ra4y4ra8-b00008c-ba4c0c28-k000000-r8c6428-raa0783c-yb0b0b0/

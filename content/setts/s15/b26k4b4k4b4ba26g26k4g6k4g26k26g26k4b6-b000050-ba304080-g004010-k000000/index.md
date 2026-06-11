@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DG | <code style="background-color:#004010;"><span style="color:#004010;filter:grayscale(1) invert(1) contrast(100);">#004010</span></code> `#004010` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.12 |
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Forbes](/setts/s15/b16k2b4k2b4k12g16k2y4k2g16k12b16k2b4-b000052-g11450d-k000000-yaaaaaa/) — ΔT 0.95
+1. [Forbes](/setts/s15/b8k1b2k1b2k6g8k1y2k1g8k6b8k1b2-b000052-g11450d-k000000-yaaaaaa/) — ΔT 0.95
+1. [Urquhart L](/setts/s13/g16k2g2k2g2k16b16r2b16k16g16k2g2-b000052-g11450d-k000000-raa0000/) — ΔT 0.99
+1. [Urquhart L](/setts/s13/g8k1g1k1g1k8b8r1b8k8g8k1g1-b000052-g11450d-k000000-raa0000/) — ΔT 0.99
+1. [Lorne, Louise of](/setts/s15/b4r2g16k4g4k4g4k16b4k4b4k4b16k2g4-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.99
+1. [Lochinvar Marine Harvest](/setts/s13/g20k4g4k4g4k14b16ba4b16k14g16k4g4-b000050-ba800080-g004010-k000000/) — ΔT 1.00
+1. [Lamberton (?)](/setts/s13/b30k5b5k5b5k24g24y6g24k24b24k5b5-b1c1c50-g006818-k101010-ye8c000/) — ΔT 1.00
+1. [Gordon](/setts/s13/b24k4b4k4b4k24g24y4g24k24b22k4b4-b000052-g11450d-k000000-yaaaa00/) — ΔT 1.04
+1. [Gordon](/setts/s13/b12k2b2k2b2k12g12y2g12k12b11k2b2-b000052-g11450d-k000000-yaaaa00/) — ΔT 1.04
+1. [MacKinlay (2/4 black stripes)](/setts/s15/b12k4b4k4b4k12g16k2r3k2g16k12b16k4b4-b1c0070-g006818-k101010-r880000/) — ΔT 1.06
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b16k2b4k2b4k12g16k2y4k2g16k12b16k2b4-b000052-g11450d-k000000-yaaaaaa/"><circle cx="185.8" cy="203.7" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/b8k1b2k1b2k6g8k1y2k1g8k6b8k1b2-b000052-g11450d-k000000-yaaaaaa/"><circle cx="185.8" cy="203.7" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/g16k2g2k2g2k16b16r2b16k16g16k2g2-b000052-g11450d-k000000-raa0000/"><circle cx="192.4" cy="210.7" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s13/g8k1g1k1g1k8b8r1b8k8g8k1g1-b000052-g11450d-k000000-raa0000/"><circle cx="192.4" cy="210.7" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s15/b4r2g16k4g4k4g4k16b4k4b4k4b16k2g4-b2c2c80-g006818-k101010-rc80000/"><circle cx="201.5" cy="202.6" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/setts/s13/g20k4g4k4g4k14b16ba4b16k14g16k4g4-b000050-ba800080-g004010-k000000/"><circle cx="175.8" cy="246.3" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/setts/s13/b30k5b5k5b5k24g24y6g24k24b24k5b5-b1c1c50-g006818-k101010-ye8c000/"><circle cx="183.1" cy="229.9" r="4" fill="#3465a4"><title>Lamberton (?)</title></circle></a><a href="/setts/s13/b24k4b4k4b4k24g24y4g24k24b22k4b4-b000052-g11450d-k000000-yaaaa00/"><circle cx="170.4" cy="225.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/b12k2b2k2b2k12g12y2g12k12b11k2b2-b000052-g11450d-k000000-yaaaa00/"><circle cx="170.4" cy="225.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s15/b12k4b4k4b4k12g16k2r3k2g16k12b16k4b4-b1c0070-g006818-k101010-r880000/"><circle cx="185.9" cy="215.1" r="4" fill="#3465a4"><title>MacKinlay (2/4 black stripes)</title></circle></a><circle cx="202.8" cy="214.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/b26k4b4k4b4ba26g26k4g6k4g26k26g26k4b6-b000050-ba304080-g004010-k000000/

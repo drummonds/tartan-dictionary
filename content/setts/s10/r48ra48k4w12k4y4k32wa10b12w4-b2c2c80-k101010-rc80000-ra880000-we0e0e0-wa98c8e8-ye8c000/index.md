@@ -33,4 +33,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Filipino American](/setts/s11/r60w8y4w8b32g16ba6g16k20r6k8-b2c2c80-ba780078-g003820-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.07
+1. [Unnamed 18th century plaid (Carlisle Museum)](/setts/s11/r4b4k6y6r6k6g20k24ra6r32w2-b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000/) — ΔT 1.20
+1. [Colville (Personal)](/setts/s11/r32ra6k24g20k6r6y6k6b4r4w2-b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000/) — ΔT 1.20
+1. [Bruce of Kinnaird](/setts/s10/r48g44k4w12k4y4k30ga12ra12w4-g408060-ga789484-k101010-rc80000-rae87878-wfcfcfc-yd8b000/) — ΔT 1.21
+1. [Walter (Personal)](/setts/s12/r48w6y8g36b36ga6ba8ga6b36g36y8w6-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/) — ΔT 1.26
+1. [MacLean, Variation](/setts/s11/b90k24y8k8w12k8g100r114b8r20k8-b800080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.27
+1. [Bruce of Kinnaird Clan Tartan Tartan Number: 1483. Earliest known date: 18th Century Authorized by Lord Bruce of Kinnaird around 1953. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r48g44k4w12k4y4k30b12ra12w4-b5c8ca8-g006818-k101010-rc80000-rad05054-we0e0e0-ye8c000/) — ΔT 1.29
+1. [Walter](/setts/s7/r48w6y8g36b36ga6ba8-b800080-ba5480b0-g003000-ga505020-rc00000-we0e0e0-yf0c000/) — ΔT 1.30
+1. [Walter (Personal)](/setts/s7/r48w6y8g36b36ga6ba8-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/) — ΔT 1.32
+1. [Culloden](/setts/s8/r10b4ba28w4k26y26k4ya6-b5c8ca8-ba780078-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r60w8y4w8b32g16ba6g16k20r6k8-b2c2c80-ba780078-g003820-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="110.9" cy="95.7" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/setts/s11/r4b4k6y6r6k6g20k24ra6r32w2-b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000/"><circle cx="141.9" cy="101.3" r="4" fill="#3465a4"><title>Unnamed 18th century plaid (Carlisle Museum)</title></circle></a><a href="/setts/s11/r32ra6k24g20k6r6y6k6b4r4w2-b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000/"><circle cx="141.9" cy="101.3" r="4" fill="#3465a4"><title>Colville (Personal)</title></circle></a><a href="/setts/s10/r48g44k4w12k4y4k30ga12ra12w4-g408060-ga789484-k101010-rc80000-rae87878-wfcfcfc-yd8b000/"><circle cx="60.6" cy="103.2" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/setts/s12/r48w6y8g36b36ga6ba8ga6b36g36y8w6-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/"><circle cx="63.1" cy="127.8" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s11/b90k24y8k8w12k8g100r114b8r20k8-b800080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="138.0" cy="99.1" r="4" fill="#3465a4"><title>MacLean, Variation</title></circle></a><a href="/setts/s10/r48g44k4w12k4y4k30b12ra12w4-b5c8ca8-g006818-k101010-rc80000-rad05054-we0e0e0-ye8c000/"><circle cx="64.4" cy="107.4" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan Tartan Number: 1483. Earliest known date: 18th Century Authorized by Lord Bruce of Kinnaird around 1953. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r48w6y8g36b36ga6ba8-b800080-ba5480b0-g003000-ga505020-rc00000-we0e0e0-yf0c000/"><circle cx="92.3" cy="151.0" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/setts/s7/r48w6y8g36b36ga6ba8-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/"><circle cx="91.0" cy="150.0" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s8/r10b4ba28w4k26y26k4ya6-b5c8ca8-ba780078-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/"><circle cx="39.9" cy="145.4" r="4" fill="#3465a4"><title>Culloden</title></circle></a><circle cx="75.9" cy="101.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/r48ra48k4w12k4y4k32wa10b12w4-b2c2c80-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-ye8c000/

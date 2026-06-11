@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKean Hunting Family Tartan Tartan Number: 985. Earliest known date: 1987 1987 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/g4r8g4k32g8k32g8k4g4k4g8k8b16k2w4-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.53
+1. [Heneghan (Personal)](/setts/s14/g64r12ra4b8g16r8b16g8r4y4ya4y4b24g48-b202060-g003820-rc80000-ra888888-yd87c00-yae8c000/) — ΔT 1.23
+1. [Hydesville Tower](/setts/s12/b30y4b4r4b12g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-ye8c000/) — ΔT 1.28
+1. [Kennedy](/setts/s17/b4g4y2g6r2g4r2g26b8k6b6k6b6k6b8g46r4-b00004c-g004c00-k000000-rc80000-yffc800/) — ΔT 1.30
+1. [Lochcarron Hunting Corporate Tartan Tartan Number: 5464. Earliest known date: 01/01/2002 Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g6b20k6b4k4b4g6k10g4k10g44r4g6r4-b000064-g004c00-k000000-r8c0000/) — ΔT 1.31
+1. [Lochcarron Hunting](/setts/s14/g6b20ba6b4ba4b4g6k10g4k10g44r4g6r4-b000064-ba346488-g004c00-k000000-r8c0000/) — ΔT 1.31
+1. [Moggach (Strathspey)](/setts/s11/k8b8k8b36k18r4k18y2b36ba4k6-b545458-ba438cbf-k101010-rcf1222-y94a494/) — ΔT 1.32
+1. [Kells Irish Pubs (Corporate)](/setts/s12/k34r4k6g4k6g4k48b16g8b8g6b16-b1474b4-g006818-k101010-r888888/) — ΔT 1.33
+1. [Apache](/setts/s12/k30b14r6k26r6b14k46r6b14y4ba8y4-b2c2c80-ba780078-k101010-r888888-ye8c000/) — ΔT 1.36
+1. [Moggach (Strathspey)](/setts/s11/k8b8k8b36k18r8k18ra2b36ba4k6-b5c5c5c-ba003c64-k101010-rc80000-ra888888/) — ΔT 1.36
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g4r8g4k32g8k32g8k4g4k4g8k8b16k2w4-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="287.9" cy="142.4" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan Tartan Number: 985. Earliest known date: 1987 1987 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/g64r12ra4b8g16r8b16g8r4y4ya4y4b24g48-b202060-g003820-rc80000-ra888888-yd87c00-yae8c000/"><circle cx="332.5" cy="129.7" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><a href="/setts/s12/b30y4b4r4b12g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-ye8c000/"><circle cx="300.4" cy="137.8" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/setts/s17/b4g4y2g6r2g4r2g26b8k6b6k6b6k6b8g46r4-b00004c-g004c00-k000000-rc80000-yffc800/"><circle cx="330.0" cy="110.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s14/g6b20k6b4k4b4g6k10g4k10g44r4g6r4-b000064-g004c00-k000000-r8c0000/"><circle cx="244.0" cy="153.6" r="4" fill="#3465a4"><title>Lochcarron Hunting Corporate Tartan Tartan Number: 5464. Earliest known date: 01/01/2002 Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/g6b20ba6b4ba4b4g6k10g4k10g44r4g6r4-b000064-ba346488-g004c00-k000000-r8c0000/"><circle cx="245.4" cy="153.4" r="4" fill="#3465a4"><title>Lochcarron Hunting</title></circle></a><a href="/setts/s11/k8b8k8b36k18r4k18y2b36ba4k6-b545458-ba438cbf-k101010-rcf1222-y94a494/"><circle cx="336.1" cy="167.6" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><a href="/setts/s12/k34r4k6g4k6g4k48b16g8b8g6b16-b1474b4-g006818-k101010-r888888/"><circle cx="321.2" cy="177.0" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/setts/s12/k30b14r6k26r6b14k46r6b14y4ba8y4-b2c2c80-ba780078-k101010-r888888-ye8c000/"><circle cx="276.8" cy="170.2" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/setts/s11/k8b8k8b36k18r8k18ra2b36ba4k6-b5c5c5c-ba003c64-k101010-rc80000-ra888888/"><circle cx="316.4" cy="167.0" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><circle cx="312.3" cy="147.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/g4r8g4k32g4k32g8k4g4k4g8k8b16k2w4-b1c0070-g006818-k101010-r880000-wc0c0c0/

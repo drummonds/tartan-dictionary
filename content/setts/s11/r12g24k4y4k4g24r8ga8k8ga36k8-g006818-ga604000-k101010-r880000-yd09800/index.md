@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacAart (Personal)](/setts/s10/g36k8g8r8ga24k4y4k4ga24r12-g604000-ga006818-k101010-r880000-yd09800/) — ΔT 0.45
+1. [MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g18k4g4r4ga12k2y2k2ga12r6-g604000-ga006818-k101010-rc80000-ye8c000/) — ΔT 0.82
+1. [Anderson (Coulson Bonner #1)](/setts/s14/k6r14k8g14ra6g14k8ga6k6ga38k4ga4k4ra6-g503c14-ga005020-k101010-r960000-radc0000/) — ΔT 0.90
+1. [Cavan, County](/setts/s10/g6k4ga52k8gb18g6gb18k8r18k6-g8c7038-ga006818-gb604000-k101010-rc80000/) — ΔT 0.96
+1. [MacDonald of Denovan Htg (Clan)](/setts/s12/g20b4g6r8g26k26r4ga26r8ga6r4ga20-b6c0070-g285800-ga408060-k101010-r880000/) — ΔT 1.07
+1. [Cameron of Erracht (WCWM)](/setts/s11/b20r8b8r8b40k40r6g40r8g8y8-b4c3428-g408060-k101010-r880000-ybc8c00/) — ΔT 1.17
+1. [MacVicker (Name)](/setts/s13/b24g4y4g4b4g20ga20g6ga24g20b22r4y4-b003c64-g604000-ga407c38-rc80000-ye8c000/) — ΔT 1.24
+1. [Henry, W. A.](/setts/s9/g64r64y12ga64gb8r4gb8g24r8-g484800-ga004c00-gb9c8000-r9c0030-yb0b0b0/) — ΔT 1.26
+1. [Maple Leaf](/setts/s12/g48r8g8r32ga32r32g8r8g48ra16ga16gb32-g003000-ga008000-gb607030-r900030-ra806050/) — ΔT 1.28
+1. [Fitzsimmons](/setts/s10/g6k4ga36k8g30k8r12k8g4y6-g886c34-ga003820-k101010-r8c5818-ybcac6c/) — ΔT 1.28
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g36k8g8r8ga24k4y4k4ga24r12-g604000-ga006818-k101010-r880000-yd09800/"><circle cx="213.6" cy="208.8" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/setts/s10/g18k4g4r4ga12k2y2k2ga12r6-g604000-ga006818-k101010-rc80000-ye8c000/"><circle cx="187.1" cy="194.1" r="4" fill="#3465a4"><title>MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k6r14k8g14ra6g14k8ga6k6ga38k4ga4k4ra6-g503c14-ga005020-k101010-r960000-radc0000/"><circle cx="185.5" cy="180.0" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #1)</title></circle></a><a href="/setts/s10/g6k4ga52k8gb18g6gb18k8r18k6-g8c7038-ga006818-gb604000-k101010-rc80000/"><circle cx="202.3" cy="170.9" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/setts/s12/g20b4g6r8g26k26r4ga26r8ga6r4ga20-b6c0070-g285800-ga408060-k101010-r880000/"><circle cx="145.0" cy="211.4" r="4" fill="#3465a4"><title>MacDonald of Denovan Htg (Clan)</title></circle></a><a href="/setts/s11/b20r8b8r8b40k40r6g40r8g8y8-b4c3428-g408060-k101010-r880000-ybc8c00/"><circle cx="163.8" cy="200.5" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/setts/s13/b24g4y4g4b4g20ga20g6ga24g20b22r4y4-b003c64-g604000-ga407c38-rc80000-ye8c000/"><circle cx="160.7" cy="212.1" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/setts/s9/g64r64y12ga64gb8r4gb8g24r8-g484800-ga004c00-gb9c8000-r9c0030-yb0b0b0/"><circle cx="234.3" cy="176.5" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/setts/s12/g48r8g8r32ga32r32g8r8g48ra16ga16gb32-g003000-ga008000-gb607030-r900030-ra806050/"><circle cx="155.8" cy="220.1" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/setts/s10/g6k4ga36k8g30k8r12k8g4y6-g886c34-ga003820-k101010-r8c5818-ybcac6c/"><circle cx="159.2" cy="182.5" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><circle cx="191.0" cy="200.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s11/r12g24k4y4k4g24r8ga8k8ga36k8-g006818-ga604000-k101010-r880000-yd09800/

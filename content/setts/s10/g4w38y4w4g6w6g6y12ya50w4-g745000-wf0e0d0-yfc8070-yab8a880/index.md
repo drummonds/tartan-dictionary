@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#745000;"><span style="color:#745000;filter:grayscale(1) invert(1) contrast(100);">#745000</span></code> `#745000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 | W | <code style="background-color:#F0E0D0;"><span style="color:#F0E0D0;filter:grayscale(1) invert(1) contrast(100);">#F0E0D0</span></code> `#F0E0D0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w8b4w36r4b10ra32r4ra4r4ra4-b5c5c5c-rc80000-ra888888-wc0c0c0/) — ΔT 1.36
+1. [Clyde](/setts/s10/w8b4w36r4b10g32r4g4r4g4-b505050-g808080-rc00000-wc0c0c0/) — ΔT 1.46
+1. [North American Sheep Breeders Association](/setts/s7/r4w2y34r28w30r4w4-r888888-wf8e8d8-ya08858/) — ΔT 1.61
+1. [Sakura (Japanese Four Seasons)](/setts/s14/w12wa4w50g4wa18y4ya8y4wa18y4ya30g4ya4g8-g604000-wf4c8c8-wae0e0e0-y00c02c-yaa0d090/) — ΔT 1.63
+1. [Nike Golf Light](/setts/s17/r10w40y2w4y2w4y4w4y10ra4y4ra4y4ra6y4ra20w6-rff0000-ra888888-weeeeee-ybbbbbb/) — ΔT 1.66
+1. [Bannockbane Grey #2](/setts/s8/r4g4r30g4w20y30g4y4-g604000-r888888-we0e0e0-ya08858/) — ΔT 1.71
+1. [Rutlin (Personal)](/setts/s9/g12b4g2w34g2b4g32y54ga4-b2c4084-g808080-ga005020-we0e0e0-ybe9650/) — ΔT 1.76
+1. [Cairngorm](/setts/s6/b4w4y14wa28b4w4-b505050-we0e0e0-wac0c0c0-yf0c000/) — ΔT 1.78
+1. [Cairngorm Trade Tartan Tartan Number: 1314. Earliest known date: 1985 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4w4y14wa28b4w4-b5c5c5c-we0e0e0-wac0c0c0-ye8c000/) — ΔT 1.81
+1. [Qatar Airways](/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/) — ΔT 1.82
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w8b4w36r4b10ra32r4ra4r4ra4-b5c5c5c-rc80000-ra888888-wc0c0c0/"><circle cx="260.9" cy="182.4" r="4" fill="#3465a4"><title>Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w8b4w36r4b10g32r4g4r4g4-b505050-g808080-rc00000-wc0c0c0/"><circle cx="247.4" cy="176.9" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s7/r4w2y34r28w30r4w4-r888888-wf8e8d8-ya08858/"><circle cx="273.1" cy="198.0" r="4" fill="#3465a4"><title>North American Sheep Breeders Association</title></circle></a><a href="/setts/s14/w12wa4w50g4wa18y4ya8y4wa18y4ya30g4ya4g8-g604000-wf4c8c8-wae0e0e0-y00c02c-yaa0d090/"><circle cx="190.5" cy="131.9" r="4" fill="#3465a4"><title>Sakura (Japanese Four Seasons)</title></circle></a><a href="/setts/s17/r10w40y2w4y2w4y4w4y10ra4y4ra4y4ra6y4ra20w6-rff0000-ra888888-weeeeee-ybbbbbb/"><circle cx="273.6" cy="110.1" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/setts/s8/r4g4r30g4w20y30g4y4-g604000-r888888-we0e0e0-ya08858/"><circle cx="211.9" cy="209.7" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/setts/s9/g12b4g2w34g2b4g32y54ga4-b2c4084-g808080-ga005020-we0e0e0-ybe9650/"><circle cx="248.3" cy="124.1" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/setts/s6/b4w4y14wa28b4w4-b505050-we0e0e0-wac0c0c0-yf0c000/"><circle cx="262.1" cy="211.7" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/setts/s6/b4w4y14wa28b4w4-b5c5c5c-we0e0e0-wac0c0c0-ye8c000/"><circle cx="275.8" cy="218.2" r="4" fill="#3465a4"><title>Cairngorm Trade Tartan Tartan Number: 1314. Earliest known date: 1985 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/"><circle cx="305.0" cy="172.8" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><circle cx="263.7" cy="152.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/g4w38y4w4g6w6g6y12ya50w4-g745000-wf0e0d0-yfc8070-yab8a880/

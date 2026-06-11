@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "P/48 K8 N20 DB6 P6 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ayllu Thuban](/setts/s5/b46k6g9y9r4-b820bbb-g009900-k000000-ree0000-yffcc11/) — ΔT 0.69
+1. [Loughborough Sport](/setts/s7/r30b6w20b14ba80w6ba12-b5c5c5c-ba780078-re87878-wfcfcfc/) — ΔT 1.28
+1. [Unnamed C21st (Lady's Jacket) (Fash)](/setts/s7/r12g32r12b32r80w8r8-b202060-g285800-rc04094-wfcfcfc/) — ΔT 1.37
+1. [Western Illinois University](/setts/s8/k4w6b10y8w6y8b50y4-b5a008c-k101010-wffffff-ye0a126/) — ΔT 1.40
+1. [Cramer (Personal)](/setts/s6/r48k8w20b6r6wa4-b2c2c80-k101010-rb468ac-wc0c0c0-wafcfcfc/) — ΔT 1.42
+1. [Widows Sons Scotland Dress](/setts/s6/w12g12k12g24b75y4-b780078-g006818-k101010-wc0c0c0-yfccc00/) — ΔT 1.53
+1. [Kilsyth (District)](/setts/s6/g8y6b70r26ba16w6-b2c2c80-ba780078-g289c18-rc80000-we0e0e0-ye8c000/) — ΔT 1.53
+1. [Regan](/setts/s10/b8k8w8b80y8ba16k8ba16w8y8-b780078-ba2c2c80-k101010-we0e0e0-ye8c000/) — ΔT 1.54
+1. [Loughborough Sport](/setts/s7/k30b6w20b14ba80w6ba12-b646464-ba5a008c-k000000-wfcfcfc/) — ΔT 1.56
+1. [Masai Shuka 17 (Artefact)](/setts/s6/k8b64r60b4w10k4-b4444bc-k101010-rc80000-we0e0e0/) — ΔT 1.58
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b46k6g9y9r4-b820bbb-g009900-k000000-ree0000-yffcc11/"><circle cx="308.6" cy="159.3" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/setts/s7/r30b6w20b14ba80w6ba12-b5c5c5c-ba780078-re87878-wfcfcfc/"><circle cx="290.8" cy="156.1" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/setts/s7/r12g32r12b32r80w8r8-b202060-g285800-rc04094-wfcfcfc/"><circle cx="334.3" cy="185.9" r="4" fill="#3465a4"><title>Unnamed C21st (Lady's Jacket) (Fash)</title></circle></a><a href="/setts/s8/k4w6b10y8w6y8b50y4-b5a008c-k101010-wffffff-ye0a126/"><circle cx="335.3" cy="142.9" r="4" fill="#3465a4"><title>Western Illinois University</title></circle></a><a href="/setts/s6/r48k8w20b6r6wa4-b2c2c80-k101010-rb468ac-wc0c0c0-wafcfcfc/"><circle cx="306.9" cy="159.4" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/setts/s6/w12g12k12g24b75y4-b780078-g006818-k101010-wc0c0c0-yfccc00/"><circle cx="296.1" cy="149.3" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/setts/s6/g8y6b70r26ba16w6-b2c2c80-ba780078-g289c18-rc80000-we0e0e0-ye8c000/"><circle cx="246.1" cy="150.6" r="4" fill="#3465a4"><title>Kilsyth (District)</title></circle></a><a href="/setts/s10/b8k8w8b80y8ba16k8ba16w8y8-b780078-ba2c2c80-k101010-we0e0e0-ye8c000/"><circle cx="250.5" cy="127.3" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/setts/s7/k30b6w20b14ba80w6ba12-b646464-ba5a008c-k000000-wfcfcfc/"><circle cx="267.8" cy="161.9" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/setts/s6/k8b64r60b4w10k4-b4444bc-k101010-rc80000-we0e0e0/"><circle cx="283.0" cy="162.8" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><circle cx="297.6" cy="157.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b48k8w20ba6b6wa4-b780078-ba2c2c80-k101010-wc0c0c0-wafcfcfc/

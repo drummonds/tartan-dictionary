@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | G | <code style="background-color:#008000;"><span style="color:#008000;filter:grayscale(1) invert(1) contrast(100);">#008000</span></code> `#008000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.09 |
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gordon 3](/setts/s10/b56k6b6k6b6k44g44y4g5y8-b304080-g008000-k000000-yf0c000/) — ΔT 0.71
+1. [Rangers F.C.](/setts/s11/r6g28k24b80k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00020/) — ΔT 0.77
+1. [Rangers F.C.](/setts/s11/r6g32k24b68k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00000/) — ΔT 0.83
+1. [Baird](/setts/s8/r7g3r2g33k31b31k3b3-b304080-g008000-k000000-r900030/) — ΔT 0.89
+1. [Lochaber District](/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/) — ΔT 0.89
+1. [Common Kilt](/setts/s8/r6k4b50k56g50k4r2b4-b304080-g008000-k000000-rc00000/) — ΔT 0.92
+1. [Dress Watch](/setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/) — ΔT 0.97
+1. [Meoni (Personal)](/setts/s7/b2g2b36g24k36r2k2-b2c2c80-g006818-k000000-rc80000/) — ΔT 0.97
+1. [Hope-Vere / Weir](/setts/s14/g38k2g8k2g6k20b40y2k14y2b40k20y6g2-b304080-g008000-k000000-yf0c000/) — ΔT 0.98
+1. [Campbell of Breadalbane](/setts/s13/b16k2b2k2b2k16y2g28y2k16b16k2b2-b304080-g008000-k000000-yf0c000/) — ΔT 0.99
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b56k6b6k6b6k44g44y4g5y8-b304080-g008000-k000000-yf0c000/"><circle cx="180.5" cy="154.9" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s11/r6g28k24b80k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00020/"><circle cx="216.4" cy="128.7" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s11/r6g32k24b68k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00000/"><circle cx="182.4" cy="140.3" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s8/r7g3r2g33k31b31k3b3-b304080-g008000-k000000-r900030/"><circle cx="174.1" cy="168.1" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/"><circle cx="204.4" cy="164.7" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/setts/s8/r6k4b50k56g50k4r2b4-b304080-g008000-k000000-rc00000/"><circle cx="219.5" cy="143.9" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/"><circle cx="192.4" cy="177.1" r="4" fill="#3465a4"><title>Dress Watch</title></circle></a><a href="/setts/s7/b2g2b36g24k36r2k2-b2c2c80-g006818-k000000-rc80000/"><circle cx="227.0" cy="174.9" r="4" fill="#3465a4"><title>Meoni (Personal)</title></circle></a><a href="/setts/s14/g38k2g8k2g6k20b40y2k14y2b40k20y6g2-b304080-g008000-k000000-yf0c000/"><circle cx="198.3" cy="134.5" r="4" fill="#3465a4"><title>Hope-Vere / Weir</title></circle></a><a href="/setts/s13/b16k2b2k2b2k16y2g28y2k16b16k2b2-b304080-g008000-k000000-yf0c000/"><circle cx="176.4" cy="149.3" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><circle cx="215.3" cy="158.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b4k4b36ba2k26ba2g32b6k4-b304080-ba8080d0-g008000-k000000/

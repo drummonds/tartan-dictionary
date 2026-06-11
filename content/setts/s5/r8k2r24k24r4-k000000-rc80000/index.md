@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/4 K24 R24 K2 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacLeod, Black & Red](/setts/s5/r16k2r16k24r2-k000000-rc00000/) — ΔT 0.32
+1. [MacLeod Black & Red](/setts/s5/r16k2r16k24r2-k101010-rdc0000/) — ΔT 0.99
+1. [Erskine](/setts/s6/k62r8k94r94k8r62-k000000-rc00000/) — ΔT 1.08
+1. [Erskine](/setts/s6/k12r6k56r56k6r12-k000000-rc00000/) — ΔT 1.11
+1. [Dunbar](/setts/s4/r56k8w4k26-k000000-rc00000-we0e0e0/) — ΔT 1.11
+1. [Lendrum, or MacFarlane](/setts/s4/k67r32k6r32-k000000-rc00000/) — ΔT 1.16
+1. [MacLeod of Raasay](/setts/s5/k24r4k24r36k4-k000000-rc00000/) — ΔT 1.17
+1. [Erskine (Paton)](/setts/s6/k62r8k94r94k8r62-k101010-rdc0000/) — ΔT 1.20
+1. [Campbell, Red](/setts/s5/r8k2r48k44r4-k000000-rc00000/) — ΔT 1.22
+1. [Erskine (MacGregor-Hastie)](/setts/s6/k12r6k56r56k6r12-k101010-rdc0000/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r16k2r16k24r2-k000000-rc00000/"><circle cx="366.3" cy="241.0" r="4" fill="#3465a4"><title>MacLeod, Black &amp; Red</title></circle></a><a href="/setts/s5/r16k2r16k24r2-k101010-rdc0000/"><circle cx="379.0" cy="239.5" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/setts/s6/k62r8k94r94k8r62-k000000-rc00000/"><circle cx="328.7" cy="244.3" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/setts/s6/k12r6k56r56k6r12-k000000-rc00000/"><circle cx="342.1" cy="229.4" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/setts/s4/r56k8w4k26-k000000-rc00000-we0e0e0/"><circle cx="368.4" cy="210.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s4/k67r32k6r32-k000000-rc00000/"><circle cx="345.0" cy="266.6" r="4" fill="#3465a4"><title>Lendrum, or MacFarlane</title></circle></a><a href="/setts/s5/k24r4k24r36k4-k000000-rc00000/"><circle cx="350.0" cy="261.8" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/setts/s6/k62r8k94r94k8r62-k101010-rdc0000/"><circle cx="340.6" cy="242.4" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/setts/s5/r8k2r48k44r4-k000000-rc00000/"><circle cx="410.1" cy="196.5" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s6/k12r6k56r56k6r12-k101010-rdc0000/"><circle cx="354.0" cy="227.5" r="4" fill="#3465a4"><title>Erskine (MacGregor-Hastie)</title></circle></a><circle cx="376.1" cy="233.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/r8k2r24k24r4-k000000-rc80000/

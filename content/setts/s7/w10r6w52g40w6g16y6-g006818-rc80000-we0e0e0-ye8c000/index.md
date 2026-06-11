@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/10 R6 LN52 G40 LN6 G16 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacPherson, dress green](/setts/s7/w10r6w52g40w6g16y6-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 0.50
+1. [MacPherson Dress Blue (Dance) #2](/setts/s7/w10r6w52g42w6g16y6-g408060-r800028-we0e0e0-ye8c000/) — ΔT 0.92
+1. [MacDiarmid, dress](/setts/s9/w38r12w37g32k3w4k3g32r4-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.92
+1. [MacDiarmid Dress](/setts/s9/w76r24w74g64k6w8k6g64r8-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.99
+1. [MacDiarmid Dress Clan Tartan Tartan Number: 1486. Earliest known date: c.1830 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w38r12w37g32k3w4k3g32r4-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.99
+1. [Uist, Green (Dance)](/setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/) — ΔT 1.23
+1. [Fraser Yellow #2](/setts/s6/w4y32g12y4b12y4-b2c4084-g005020-we0e0e0-ye8c000/) — ΔT 1.24
+1. [Tilburg Hunting (District)](/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/) — ΔT 1.36
+1. [O'Neill](/setts/s9/w4g2w4r12w20g12w4r2w4-g008000-r806050-we0e0e0/) — ΔT 1.37
+1. [Fraser, Yellow](/setts/s6/w4y32g12y4b12y4-b304080-g008000-we0e0e0-yf0c000/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w10r6w52g40w6g16y6-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="251.7" cy="187.8" r="4" fill="#3465a4"><title>MacPherson, dress green</title></circle></a><a href="/setts/s7/w10r6w52g42w6g16y6-g408060-r800028-we0e0e0-ye8c000/"><circle cx="261.8" cy="190.2" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4-g008000-k000000-rc00000-we0e0e0/"><circle cx="223.0" cy="163.9" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s9/w76r24w74g64k6w8k6g64r8-g006818-k101010-rc80000-we0e0e0/"><circle cx="224.7" cy="164.1" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4-g006818-k101010-rc80000-we0e0e0/"><circle cx="224.7" cy="164.1" r="4" fill="#3465a4"><title>MacDiarmid Dress Clan Tartan Tartan Number: 1486. Earliest known date: c.1830 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/"><circle cx="265.2" cy="146.6" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s6/w4y32g12y4b12y4-b2c4084-g005020-we0e0e0-ye8c000/"><circle cx="272.5" cy="194.2" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/"><circle cx="285.9" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s9/w4g2w4r12w20g12w4r2w4-g008000-r806050-we0e0e0/"><circle cx="286.0" cy="192.9" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s6/w4y32g12y4b12y4-b304080-g008000-we0e0e0-yf0c000/"><circle cx="279.8" cy="196.0" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><circle cx="244.7" cy="184.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/w10r6w52g40w6g16y6-g006818-rc80000-we0e0e0-ye8c000/

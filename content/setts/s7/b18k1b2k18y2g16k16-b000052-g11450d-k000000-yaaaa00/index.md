@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/18 K1 DB2 K18 LG2 DG16 K/16 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mowat](/setts/s7/b36k2b4k36y4g32k32-b000052-g11450d-k000000-yaaaa00/) — ΔT 0.00
+1. [Mowat](/setts/s7/b18k1b2k18y2g16k16-b00004c-g004c00-k000000-yffc800/) — ΔT 0.37
+1. [Abercrombie](/setts/s9/g28y2g14k14b4k4b4k4b14-b000052-g11450d-k000000-yaaaaaa/) — ΔT 1.12
+1. [Graham of Menteith](/setts/s6/g32b4g2k24ba24k2-b4367ae-ba000052-g11450d-k000000/) — ΔT 1.15
+1. [Dundas](/setts/s7/k8b32k24g48r2g4k4-b000052-g11450d-k000000-raa0000/) — ΔT 1.16
+1. [Dundas](/setts/s7/k8b32k24g48r2g4k4-b000064-g004c00-k000000-rc80000/) — ΔT 1.23
+1. [Abercrombie D](/setts/s9/b28k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/) — ΔT 1.24
+1. [Granger Family Tartan Tartan Number: 2226. Earliest known date: 1994 Designed by Steve Granger as a private family tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k80b8k24b42g34k8-b1c1c1c-g00643c-k000000/) — ΔT 1.26
+1. [Abercrombie](/setts/s9/g28w2g14k14b4k4b4k4b14-b00004c-g004c00-k000000-wd0d0d0/) — ΔT 1.31
+1. [Gunn](/setts/s6/g4b24g2k24g24r4-b000052-g11450d-k000000-raa0000/) — ΔT 1.32
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b36k2b4k36y4g32k32-b000052-g11450d-k000000-yaaaa00/"><circle cx="274.2" cy="215.1" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s7/b18k1b2k18y2g16k16-b00004c-g004c00-k000000-yffc800/"><circle cx="263.6" cy="210.5" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s9/g28y2g14k14b4k4b4k4b14-b000052-g11450d-k000000-yaaaaaa/"><circle cx="264.3" cy="203.5" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s6/g32b4g2k24ba24k2-b4367ae-ba000052-g11450d-k000000/"><circle cx="238.2" cy="214.8" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/setts/s7/k8b32k24g48r2g4k4-b000052-g11450d-k000000-raa0000/"><circle cx="284.0" cy="188.5" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/setts/s7/k8b32k24g48r2g4k4-b000064-g004c00-k000000-rc80000/"><circle cx="270.3" cy="183.0" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/setts/s9/b28k4b4k4b4k14g14y2g28-b000052-g11450d-k000000-yaaaaaa/"><circle cx="247.7" cy="201.9" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/setts/s6/k80b8k24b42g34k8-b1c1c1c-g00643c-k000000/"><circle cx="297.6" cy="246.1" r="4" fill="#3465a4"><title>Granger Family Tartan Tartan Number: 2226. Earliest known date: 1994 Designed by Steve Granger as a private family tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g28w2g14k14b4k4b4k4b14-b00004c-g004c00-k000000-wd0d0d0/"><circle cx="252.3" cy="199.0" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s6/g4b24g2k24g24r4-b000052-g11450d-k000000-raa0000/"><circle cx="213.7" cy="230.7" r="4" fill="#3465a4"><title>Gunn</title></circle></a><circle cx="274.2" cy="215.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b18k1b2k18y2g16k16-b000052-g11450d-k000000-yaaaa00/

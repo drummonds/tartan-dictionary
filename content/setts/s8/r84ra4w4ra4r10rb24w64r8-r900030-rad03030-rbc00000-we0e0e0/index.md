@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/8 LN64 Ra24 DR10 R4 LN4 R4 DR/84 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Longniddry Dress, Red (Dance)](/setts/s8/r70b4w4b4r8ra20w50r6-b2c2c80-rc80000-ra780028-we0e0e0/) — ΔT 0.47
+1. [Longniddry Burgundy (Dance)](/setts/s8/r84ra4w4ra4r10rb24w64r8-r880000-rae87878-rbc80000-we0e0e0/) — ΔT 0.48
+1. [O'Meehan (Name)](/setts/s9/y54k8w8r128w8r8k8r8k24-k101010-rc80050-we0e0e0-ye8c000/) — ΔT 1.00
+1. [Citylink Gold (Corporate)](/setts/s8/r50b4r6y4r6b22w26y2-b506878-r880000-wf0e0cc-ybc8c00/) — ΔT 1.10
+1. [31, Tartan (The.. )](/setts/s9/b4r42b2w8b14w4b4w4r4-b304080-rc00000-we0e0e0/) — ΔT 1.11
+1. [Cameron, Hose for E](/setts/s8/r6k4r46ra6r6w46r6ra6-k000000-rc00000-rad00000-we0e0e0/) — ΔT 1.14
+1. [Masai Shuka 14 (Artefact)](/setts/s8/r80w80k10w4k12w4k10w12-k101010-rc80000-wf8d0d0/) — ΔT 1.15
+1. [Cunningham Dress Clan Tartan Tartan Number: 563. Earliest known date: c.1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w10r4w68r68k4r4b8-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 1.15
+1. [Cunningham, dress](/setts/s7/w10r4w68r68k4r4b8-b304080-k000000-rc00000-we0e0e0/) — ΔT 1.16
+1. [Snoozzzeee (Corporate)](/setts/s9/w6r3b36r4b12w24r72w8b4-b2c2c80-rc80000-we8ccb8/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r70b4w4b4r8ra20w50r6-b2c2c80-rc80000-ra780028-we0e0e0/"><circle cx="297.8" cy="125.3" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/setts/s8/r84ra4w4ra4r10rb24w64r8-r880000-rae87878-rbc80000-we0e0e0/"><circle cx="301.2" cy="119.2" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><a href="/setts/s9/y54k8w8r128w8r8k8r8k24-k101010-rc80050-we0e0e0-ye8c000/"><circle cx="326.9" cy="113.0" r="4" fill="#3465a4"><title>O'Meehan (Name)</title></circle></a><a href="/setts/s8/r50b4r6y4r6b22w26y2-b506878-r880000-wf0e0cc-ybc8c00/"><circle cx="303.4" cy="129.5" r="4" fill="#3465a4"><title>Citylink Gold (Corporate)</title></circle></a><a href="/setts/s9/b4r42b2w8b14w4b4w4r4-b304080-rc00000-we0e0e0/"><circle cx="346.9" cy="132.3" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/setts/s8/r6k4r46ra6r6w46r6ra6-k000000-rc00000-rad00000-we0e0e0/"><circle cx="286.0" cy="140.7" r="4" fill="#3465a4"><title>Cameron, Hose for E</title></circle></a><a href="/setts/s8/r80w80k10w4k12w4k10w12-k101010-rc80000-wf8d0d0/"><circle cx="295.9" cy="129.8" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4b8-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="299.3" cy="128.4" r="4" fill="#3465a4"><title>Cunningham Dress Clan Tartan Tartan Number: 563. Earliest known date: c.1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4b8-b304080-k000000-rc00000-we0e0e0/"><circle cx="296.0" cy="128.1" r="4" fill="#3465a4"><title>Cunningham, dress</title></circle></a><a href="/setts/s9/w6r3b36r4b12w24r72w8b4-b2c2c80-rc80000-we8ccb8/"><circle cx="306.3" cy="131.0" r="4" fill="#3465a4"><title>Snoozzzeee (Corporate)</title></circle></a><circle cx="305.4" cy="119.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r84ra4w4ra4r10rb24w64r8-r900030-rad03030-rbc00000-we0e0e0/

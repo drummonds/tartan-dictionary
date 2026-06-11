@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Karibu](/setts/s9/g48w4r4w16r4w4r32y8r4-g3c773c-rb3003c-wffffff-yffcc00/) — ΔT 1.03
+1. [Bannock Bane M.405](/setts/s8/b8r6b42r4w28ra44r6ra8-b3c3c3c-rdc0000-rabe7832-we0e0e0/) — ΔT 1.08
+1. [Robertson, dress hunting](/setts/s15/w8g6r20w40b8r8b52r8g52r8b8w40r20g6w8-b304080-g008000-rc00000-we0e0e0/) — ΔT 1.14
+1. [Bannockbane Orange Stripes](/setts/s8/b4y4b30y2w20ya30y4ya4-b441800-we0e0e0-yd87c00-yaa08858/) — ΔT 1.16
+1. [MacKellar, dress](/setts/s11/r70w8r6y14r6w8r14b30g8w72g10-b401000-g808080-r906030-we0e0e0-yf0c000/) — ΔT 1.17
+1. [Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/y4b2r7b15r3b3r3b7w28r7w6r2-b003c64-ra00048-we0e0e0-ye8c000/) — ΔT 1.19
+1. [Raibert, Check](/setts/s12/b6r28g4r4g4r6g12w36b6r4b4r4-b304080-g008000-r806050-we0e0e0/) — ΔT 1.19
+1. [Robertson Dress Hunting Clan Tartan Tartan Number: 1804. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/w8g6r20w40b8r8b52r8g52r8b8w40r20g6w8-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 1.21
+1. [St. John New Brunswick (District)](/setts/s13/g2r4y24r30w30g6w2g6w30r30y6ga24y2-g006818-ga604000-rc80000-we0e0e0-y48a4c0/) — ΔT 1.22
+1. [Heriot](/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g48w4r4w16r4w4r32y8r4-g3c773c-rb3003c-wffffff-yffcc00/"><circle cx="201.8" cy="141.9" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s8/b8r6b42r4w28ra44r6ra8-b3c3c3c-rdc0000-rabe7832-we0e0e0/"><circle cx="183.8" cy="171.9" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/setts/s15/w8g6r20w40b8r8b52r8g52r8b8w40r20g6w8-b304080-g008000-rc00000-we0e0e0/"><circle cx="115.0" cy="148.4" r="4" fill="#3465a4"><title>Robertson, dress hunting</title></circle></a><a href="/setts/s8/b4y4b30y2w20ya30y4ya4-b441800-we0e0e0-yd87c00-yaa08858/"><circle cx="183.4" cy="152.4" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/setts/s11/r70w8r6y14r6w8r14b30g8w72g10-b401000-g808080-r906030-we0e0e0-yf0c000/"><circle cx="177.2" cy="121.2" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/setts/s12/y4b2r7b15r3b3r3b7w28r7w6r2-b003c64-ra00048-we0e0e0-ye8c000/"><circle cx="182.7" cy="129.0" r="4" fill="#3465a4"><title>Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/b6r28g4r4g4r6g12w36b6r4b4r4-b304080-g008000-r806050-we0e0e0/"><circle cx="179.8" cy="153.7" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/setts/s15/w8g6r20w40b8r8b52r8g52r8b8w40r20g6w8-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="112.4" cy="147.0" r="4" fill="#3465a4"><title>Robertson Dress Hunting Clan Tartan Tartan Number: 1804. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g2r4y24r30w30g6w2g6w30r30y6ga24y2-g006818-ga604000-rc80000-we0e0e0-y48a4c0/"><circle cx="127.3" cy="122.3" r="4" fill="#3465a4"><title>St. John New Brunswick (District)</title></circle></a><a href="/setts/s8/r40b4r4b4y6b24w36b6-b1c1c50-rb04800-we0e0e0-ybc8c00/"><circle cx="166.5" cy="163.4" r="4" fill="#3465a4"><title>Heriot</title></circle></a><circle cx="180.2" cy="142.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/w8g8r12g8r12g8r12g8r8g12wa52r4-g006818-rc80000-wfcfcfc-waa8ace8/

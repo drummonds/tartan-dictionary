@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Whitworth (Name)](/setts/s18/b120y4b4y4b10k30b10g40r4k6r4g40b10k30g10b40y4g8-b2c2c80-g006818-k101010-rc80000-yfccc00/) — ΔT 0.65
+1. [Riyadh Caledonian (Corporate)](/setts/s13/b92g16b4w4b12g20b4ba16b12y4g12w4g16-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/) — ΔT 0.94
+1. [Polkemmet (Corporate)](/setts/s11/k7y3b62r16g5r5g5r5g16b16k4-b2c2c80-g006818-k101010-r888888-ybc8c00/) — ΔT 0.96
+1. [Prestoungrange (Personal)](/setts/s14/g6b4g6r8g30k4g4k4g6ba70k4ba4k2ba4-b2888c4-ba2c2c80-g006818-k101010-rc80000/) — ΔT 0.99
+1. [Angove, the Black Swan](/setts/s15/b36ba4k4b4ba4k2b4k16g2y2g12k16b28k4g4-b373875-ba433a5a-g649848-k1c1714-yf8e38c/) — ΔT 1.03
+1. [Craig (Personal)](/setts/s18/r4k4b6y2b40k2g36k2r4b4k2b4k2b4k4g4k4r4-b1c0070-g006818-k101010-r880000-yd09800/) — ΔT 1.03
+1. [Spirit of Morningside](/setts/s19/b4ba5b3ba50k15g3k5g32w2g3w2g32k5g5k15ba50b3k5b3-b780078-ba2c2c80-g006818-k101010-we0e0e0/) — ΔT 1.04
+1. [British Caledonian Airways #1](/setts/s12/b68r5k9r3k3w3k3ra20b9k3b5w4-b003c64-k101010-r98481c-ra888888-wc0c0c0/) — ΔT 1.06
+1. [Cooper Family Tartan Tartan Number: 332. Earliest known date: pre 2003 See Couper. (Couper of Gogar) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b116k4g22r7b3r7k26b7g3b7g66b4r7ra4-b2c2c80-g006818-k101010-rd05054-rac80000/) — ΔT 1.11
+1. [Cockburn Blue](/setts/s17/b30k2g2k2g2k2b10k2w2k2b10k2y2k2g10k2r2-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.14
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/b120y4b4y4b10k30b10g40r4k6r4g40b10k30g10b40y4g8-b2c2c80-g006818-k101010-rc80000-yfccc00/"><circle cx="306.9" cy="92.0" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/setts/s13/b92g16b4w4b12g20b4ba16b12y4g12w4g16-b2c2c80-ba780078-g006818-we0e0e0-ye8c000/"><circle cx="347.7" cy="112.5" r="4" fill="#3465a4"><title>Riyadh Caledonian (Corporate)</title></circle></a><a href="/setts/s11/k7y3b62r16g5r5g5r5g16b16k4-b2c2c80-g006818-k101010-r888888-ybc8c00/"><circle cx="317.7" cy="130.7" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/setts/s14/g6b4g6r8g30k4g4k4g6ba70k4ba4k2ba4-b2888c4-ba2c2c80-g006818-k101010-rc80000/"><circle cx="342.8" cy="90.2" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/setts/s15/b36ba4k4b4ba4k2b4k16g2y2g12k16b28k4g4-b373875-ba433a5a-g649848-k1c1714-yf8e38c/"><circle cx="297.1" cy="139.2" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/setts/s18/r4k4b6y2b40k2g36k2r4b4k2b4k2b4k4g4k4r4-b1c0070-g006818-k101010-r880000-yd09800/"><circle cx="262.0" cy="97.7" r="4" fill="#3465a4"><title>Craig (Personal)</title></circle></a><a href="/setts/s19/b4ba5b3ba50k15g3k5g32w2g3w2g32k5g5k15ba50b3k5b3-b780078-ba2c2c80-g006818-k101010-we0e0e0/"><circle cx="262.0" cy="104.0" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/setts/s12/b68r5k9r3k3w3k3ra20b9k3b5w4-b003c64-k101010-r98481c-ra888888-wc0c0c0/"><circle cx="371.6" cy="108.6" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/setts/s14/b116k4g22r7b3r7k26b7g3b7g66b4r7ra4-b2c2c80-g006818-k101010-rd05054-rac80000/"><circle cx="328.4" cy="84.5" r="4" fill="#3465a4"><title>Cooper Family Tartan Tartan Number: 332. Earliest known date: pre 2003 See Couper. (Couper of Gogar) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/b30k2g2k2g2k2b10k2w2k2b10k2y2k2g10k2r2-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="313.2" cy="104.8" r="4" fill="#3465a4"><title>Cockburn Blue</title></circle></a><circle cx="313.7" cy="109.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s16/k6b84k6y4k6g44k6r4k6g44k6y4k6b84k6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/

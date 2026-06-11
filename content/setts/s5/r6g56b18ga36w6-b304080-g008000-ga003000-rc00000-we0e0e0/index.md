@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 DG36 B18 G56 R/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wcwm 1716](/setts/s6/g12y6g52ga20b60w6-b202020-g007c00-ga004c00-wc8c8c8-yc89800/) — ΔT 0.73
+1. [Simple Technology (Corporate)](/setts/s5/r6g56b18ga36w6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/) — ΔT 0.93
+1. [MPS Emerald Society NCLEES 2012](/setts/s6/y8g60ga30b10ba20y8-b002f58-ba1977a8-g01351e-ga006217-yffe155/) — ΔT 1.01
+1. [MPS Emerald Society](/setts/s6/y8g60ga30b10ba20y8-b2c2c80-ba1474b4-g003820-ga006818-yfccc00/) — ΔT 1.02
+1. [New Mexico](/setts/s7/g10b42r5ga42g42y5g10-b304080-g008000-ga003000-rc00000-yf0c000/) — ΔT 1.04
+1. [Leahy (Australia) (Personal)](/setts/s6/b8k24g8k24ga48y4-b2c2c80-g289c18-ga006818-k101010-ye8c000/) — ΔT 1.19
+1. [Gorman, George (Personal)](/setts/s6/g108ga12b24ga12ba48r12-b7028c0-ba1c1c50-g006818-ga289c18-rc80000/) — ΔT 1.23
+1. [Turnbull, hunting](/setts/s5/r14y6g56b56w6-b304080-g008000-r800000-we0e0e0-yf0c000/) — ΔT 1.27
+1. [MacSween Hunting (Lochs, Isle of Lew](/setts/s7/g3r3g31ga18g4k22y3-g006818-ga003820-k101010-rc80000-ye8c000/) — ΔT 1.29
+1. [Cultoquhey Hotel](/setts/s5/r6b44k22g64y6-b202060-g006818-k101010-rc80000-ye8c000/) — ΔT 1.30
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g12y6g52ga20b60w6-b202020-g007c00-ga004c00-wc8c8c8-yc89800/"><circle cx="212.7" cy="208.1" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/setts/s5/r6g56b18ga36w6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/"><circle cx="231.4" cy="226.9" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/setts/s6/y8g60ga30b10ba20y8-b002f58-ba1977a8-g01351e-ga006217-yffe155/"><circle cx="170.9" cy="210.2" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/setts/s6/y8g60ga30b10ba20y8-b2c2c80-ba1474b4-g003820-ga006818-yfccc00/"><circle cx="174.7" cy="210.9" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/setts/s7/g10b42r5ga42g42y5g10-b304080-g008000-ga003000-rc00000-yf0c000/"><circle cx="183.9" cy="213.8" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s6/b8k24g8k24ga48y4-b2c2c80-g289c18-ga006818-k101010-ye8c000/"><circle cx="213.5" cy="204.9" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/setts/s6/g108ga12b24ga12ba48r12-b7028c0-ba1c1c50-g006818-ga289c18-rc80000/"><circle cx="243.5" cy="199.1" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/setts/s5/r14y6g56b56w6-b304080-g008000-r800000-we0e0e0-yf0c000/"><circle cx="204.0" cy="206.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/setts/s7/g3r3g31ga18g4k22y3-g006818-ga003820-k101010-rc80000-ye8c000/"><circle cx="236.1" cy="202.7" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lew</title></circle></a><a href="/setts/s5/r6b44k22g64y6-b202060-g006818-k101010-rc80000-ye8c000/"><circle cx="223.1" cy="214.4" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><circle cx="212.1" cy="218.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/r6g56b18ga36w6-b304080-g008000-ga003000-rc00000-we0e0e0/

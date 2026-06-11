@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/6 G48 K56 G38 Y6 G6 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacAulay of Lewis](/setts/s8/g12k32r6k32g56k8g24w6-g006818-k101010-rc80000-wf8f8f8/) — ΔT 0.74
+1. [Daks, Muted Loden](/setts/s8/r5g12ga4ra4ga27g3ga4r5-g30a010-ga003000-r806050-rac00000/) — ΔT 0.79
+1. [Paton (Personal)](/setts/s7/r6g40k40g40y4g4y4-g006818-k101010-r880000-yd09800/) — ΔT 0.84
+1. [MacIver Hunting](/setts/s9/w4g24k6g6k32g6k6g24y4-g507830-k101010-we0e0e0-yd8b000/) — ΔT 0.86
+1. [Hartmann (Personal)](/setts/s8/b8k16w6k16g8k8g64k8-b2888c4-g006818-k101010-we0e0e0/) — ΔT 0.86
+1. [Lauder](/setts/s6/g6b16g6k8g30r4-b304080-g008000-k000000-rc00000/) — ΔT 0.93
+1. [MacArthur (Variant)](/setts/s6/r6g60k24g12k32y4-g006818-k101010-rc80000-ye8c000/) — ΔT 0.97
+1. [MacKintosh Hunting](/setts/s7/y4g24b12r6g24r8b2-b000064-g004c00-rc80000-yffff00/) — ΔT 1.00
+1. [Moore Caledonian (Personal)](/setts/s6/r6k36g36y6g36y6-g006818-k101010-rc8002c-yfccc00/) — ΔT 1.03
+1. [Keppoch](/setts/s7/k10g4k10g4b16g50w8-b2c2c80-g006818-k101010-wf8f8f8/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g12k32r6k32g56k8g24w6-g006818-k101010-rc80000-wf8f8f8/"><circle cx="277.9" cy="219.7" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s8/r5g12ga4ra4ga27g3ga4r5-g30a010-ga003000-r806050-rac00000/"><circle cx="289.8" cy="204.6" r="4" fill="#3465a4"><title>Daks, Muted Loden</title></circle></a><a href="/setts/s7/r6g40k40g40y4g4y4-g006818-k101010-r880000-yd09800/"><circle cx="345.8" cy="218.2" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/setts/s9/w4g24k6g6k32g6k6g24y4-g507830-k101010-we0e0e0-yd8b000/"><circle cx="271.9" cy="204.4" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s8/b8k16w6k16g8k8g64k8-b2888c4-g006818-k101010-we0e0e0/"><circle cx="301.9" cy="188.2" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s6/g6b16g6k8g30r4-b304080-g008000-k000000-rc00000/"><circle cx="286.7" cy="232.0" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s6/r6g60k24g12k32y4-g006818-k101010-rc80000-ye8c000/"><circle cx="317.1" cy="211.1" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/setts/s7/y4g24b12r6g24r8b2-b000064-g004c00-rc80000-yffff00/"><circle cx="300.9" cy="208.7" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s6/r6k36g36y6g36y6-g006818-k101010-rc8002c-yfccc00/"><circle cx="261.6" cy="242.7" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><a href="/setts/s7/k10g4k10g4b16g50w8-b2c2c80-g006818-k101010-wf8f8f8/"><circle cx="294.3" cy="185.1" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><circle cx="294.7" cy="211.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r6g48k56g38y6g6y6-g006818-k101010-rc80000-ye8c000/

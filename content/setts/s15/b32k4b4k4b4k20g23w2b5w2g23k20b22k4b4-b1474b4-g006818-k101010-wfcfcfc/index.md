@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Stuart-Houghton Hunting (Personal)](/setts/s16/b22r8b8w4b8r8b22g52r8w6r8w4r28g20b32g12-b202060-g285800-r888888-wfcfcfc/) — ΔT 0.93
+1. [Atholl (District)](/setts/s13/b50k8b8k8b8k52g50r12g50k52b50k4r12-b1474b4-g006818-k101010-rc80000/) — ΔT 1.03
+1. [Sempill (Clan)](/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b1474b4-g006818-k101010-rc80000-wa8ace8/) — ΔT 1.08
+1. [Hebrides #9](/setts/s14/b4k4b36k26b2g32b2k4b2g32b2k26b36k4-b5c8ca8-g006818-k101010/) — ΔT 1.11
+1. [Unidentified B'gowrie Unknown Tartan Tartan Number: 2144. Earliest known date: c. 1945 Do you recognise this tartan. It was discovered by Robin Birch of Connell Reid Kiltmakers in Blairgowrie, attached to a Teddy Bear that he thought had a regimental connection dating from 1945. The unidentified sample was recorded here on 2nd February, 1995. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/g60y4g10y4g8k30b58r4b58k30g10y4g8y4g34-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.13
+1. [Pinney's of Scotland](/setts/s10/k8g4b20y2b4g26k22g26b26y4-b304080-g008000-k000030-yf0c000/) — ΔT 1.13
+1. [Princess Louise](/setts/s15/b8r5g39k5g5k5g5k24b5k5b5k5b28k4g8-b1474b4-g006818-k101010-rc80000/) — ΔT 1.14
+1. [MacOrrell](/setts/s16/b36y4b10y4b36g28w3g3w3g8y6g8w3g3w3g28-b2c2c80-g00781c-we0e0e0-ye8c000/) — ΔT 1.15
+1. [Guthrie](/setts/s16/g48k48r4k4r4k48b48r4b48k48r4k4r4k48g48k4-b1474b4-g408060-k101010-rc80000/) — ΔT 1.17
+1. [Bijral](/setts/s11/b4k4b10k4b4k4b8k20g20r2k4-b2888c4-g285800-k101010-rc80000/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/b22r8b8w4b8r8b22g52r8w6r8w4r28g20b32g12-b202060-g285800-r888888-wfcfcfc/"><circle cx="176.6" cy="161.0" r="4" fill="#3465a4"><title>Stuart-Houghton Hunting (Personal)</title></circle></a><a href="/setts/s13/b50k8b8k8b8k52g50r12g50k52b50k4r12-b1474b4-g006818-k101010-rc80000/"><circle cx="169.6" cy="181.6" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b1474b4-g006818-k101010-rc80000-wa8ace8/"><circle cx="196.0" cy="126.5" r="4" fill="#3465a4"><title>Sempill (Clan)</title></circle></a><a href="/setts/s14/b4k4b36k26b2g32b2k4b2g32b2k26b36k4-b5c8ca8-g006818-k101010/"><circle cx="240.2" cy="165.5" r="4" fill="#3465a4"><title>Hebrides #9</title></circle></a><a href="/setts/s15/g60y4g10y4g8k30b58r4b58k30g10y4g8y4g34-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="204.5" cy="141.8" r="4" fill="#3465a4"><title>Unidentified B'gowrie Unknown Tartan Tartan Number: 2144. Earliest known date: c. 1945 Do you recognise this tartan. It was discovered by Robin Birch of Connell Reid Kiltmakers in Blairgowrie, attached to a Teddy Bear that he thought had a regimental connection dating from 1945. The unidentified sample was recorded here on 2nd February, 1995. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k8g4b20y2b4g26k22g26b26y4-b304080-g008000-k000030-yf0c000/"><circle cx="186.6" cy="195.2" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/setts/s15/b8r5g39k5g5k5g5k24b5k5b5k5b28k4g8-b1474b4-g006818-k101010-rc80000/"><circle cx="194.6" cy="170.4" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/setts/s16/b36y4b10y4b36g28w3g3w3g8y6g8w3g3w3g28-b2c2c80-g00781c-we0e0e0-ye8c000/"><circle cx="229.2" cy="145.8" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s16/g48k48r4k4r4k48b48r4b48k48r4k4r4k48g48k4-b1474b4-g408060-k101010-rc80000/"><circle cx="235.3" cy="167.0" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/setts/s11/b4k4b10k4b4k4b8k20g20r2k4-b2888c4-g285800-k101010-rc80000/"><circle cx="205.6" cy="191.8" r="4" fill="#3465a4"><title>Bijral</title></circle></a><circle cx="209.8" cy="158.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/b32k4b4k4b4k20g23w2b5w2g23k20b22k4b4-b1474b4-g006818-k101010-wfcfcfc/

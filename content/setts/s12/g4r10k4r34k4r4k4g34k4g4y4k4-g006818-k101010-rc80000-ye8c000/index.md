@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Leach (1999)](/setts/s12/k12r6k6r48b8g20r4g8r4g48r12b4-b2888c4-g006818-k101010-rc80000/) — ΔT 0.81
+1. [Bates](/setts/s12/k12r6k6r48b8k20r4g8r4g48r12b4-b5c8ca8-g289c18-k101010-rc80000/) — ΔT 0.88
+1. [Lindsay](/setts/s9/g24k2g2k2g2r10ra20k2ra4-g008000-k000000-r900030-rac00000/) — ΔT 0.88
+1. [Lindsay #2](/setts/s9/g24b2g2b2g2k10r20k2r4-b002814-g005020-k101010-rdc0000/) — ΔT 1.01
+1. [Duns Pipe Band](/setts/s12/r48k6r6k6r6k30g6k6g40k4g4w6-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.03
+1. [Glen Tilt District Tartan Tartan Number: 2076. Earliest known date: pre 1923 Recorded as having been woven at 'Clunes Farm' which is probably Clunes Lodge near the southern entrance to Glen Tilt. The thread count is taken from a home-woven, home dyed sample in the archives of Perth museum. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w4g4r4g56r4b24r44g4r4w4-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 1.13
+1. [MacGuire (Personal)](/setts/s14/w6k4g36r4b16r36g4r4g4r4b4r36g36k4-b2c2c80-g285800-k101010-rc80000-we0e0e0/) — ΔT 1.14
+1. [Unidentified Specimen #2](/setts/s10/w4g4r4g56r4b24r44g4r4w4-b2c4084-g005020-rdc0000-we0e0e0/) — ΔT 1.14
+1. [Lindsay #3](/setts/s9/g24k2g2k2g2r10ra20k2ra4-g005020-k101010-r960028-radc0000/) — ΔT 1.15
+1. [Stewart of Appin 3](/setts/s16/r6k4b4r4g38r6g4r4ba12r4g4r42k4b4r4g4-b5480b0-ba304080-g008000-k000000-rc00000/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k12r6k6r48b8g20r4g8r4g48r12b4-b2888c4-g006818-k101010-rc80000/"><circle cx="253.8" cy="157.4" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/setts/s12/k12r6k6r48b8k20r4g8r4g48r12b4-b5c8ca8-g289c18-k101010-rc80000/"><circle cx="210.4" cy="144.5" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/setts/s9/g24k2g2k2g2r10ra20k2ra4-g008000-k000000-r900030-rac00000/"><circle cx="233.1" cy="158.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/g24b2g2b2g2k10r20k2r4-b002814-g005020-k101010-rdc0000/"><circle cx="244.9" cy="165.8" r="4" fill="#3465a4"><title>Lindsay #2</title></circle></a><a href="/setts/s12/r48k6r6k6r6k30g6k6g40k4g4w6-g006818-k101010-rc80000-wfcfcfc/"><circle cx="198.1" cy="144.8" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/setts/s10/w4g4r4g56r4b24r44g4r4w4-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="257.8" cy="143.0" r="4" fill="#3465a4"><title>Glen Tilt District Tartan Tartan Number: 2076. Earliest known date: pre 1923 Recorded as having been woven at 'Clunes Farm' which is probably Clunes Lodge near the southern entrance to Glen Tilt. The thread count is taken from a home-woven, home dyed sample in the archives of Perth museum. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/w6k4g36r4b16r36g4r4g4r4b4r36g36k4-b2c2c80-g285800-k101010-rc80000-we0e0e0/"><circle cx="223.1" cy="145.7" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s10/w4g4r4g56r4b24r44g4r4w4-b2c4084-g005020-rdc0000-we0e0e0/"><circle cx="257.2" cy="141.2" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/setts/s9/g24k2g2k2g2r10ra20k2ra4-g005020-k101010-r960028-radc0000/"><circle cx="257.2" cy="165.7" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/setts/s16/r6k4b4r4g38r6g4r4ba12r4g4r42k4b4r4g4-b5480b0-ba304080-g008000-k000000-rc00000/"><circle cx="243.6" cy="112.4" r="4" fill="#3465a4"><title>Stewart of Appin 3</title></circle></a><circle cx="235.9" cy="155.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/g4r10k4r34k4r4k4g34k4g4y4k4-g006818-k101010-rc80000-ye8c000/

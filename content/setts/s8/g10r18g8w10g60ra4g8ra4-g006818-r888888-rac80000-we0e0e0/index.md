@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/10 N18 G8 LN10 G60 R4 G8 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glenlivet](/setts/s8/g18r6g75b6g13ga35g12b6-b0000ff-g228b22-ga604000-rff0000/) — ΔT 0.57
+1. [Welsh Assembly](/setts/s8/g10ga18g8w10g60r4g8r4-g008000-ga808080-rc00000-we0e0e0/) — ΔT 0.77
+1. [Island Weavers (Corporate)](/setts/s10/g66b4g66r4b24r24g8r4g8w6-b1c0070-g006818-rc80000-we0e0e0/) — ΔT 1.02
+1. [St. Christopher (Corporate)](/setts/s8/g10r6g6y4g2ya16g48y4-g285800-rc80000-ybc8c00-yac4bc68/) — ΔT 1.05
+1. [Duke of York, hunting](/setts/s8/g99b20w8b30y8b10y8g46-b304080-g008000-we0e0e0-yf0c000/) — ΔT 1.05
+1. [Welsh Assembly](/setts/s14/r18g8w10g60ra4g8ra4g8ra4g60w10g8r18g10-g006818-r888888-rac80000-we0e0e0/) — ΔT 1.14
+1. [Annapolis Valley](/setts/s6/g120b32g20w16g20r8-b2888c4-g006818-rc80000-w98c8e8/) — ΔT 1.18
+1. [McGirr (Letterkenny) David, (Pers.)](/setts/s8/g16r4g60b20r4w20g16r4-b68889c-g006818-rc8002c-we0e0e0/) — ΔT 1.24
+1. [MacKintosh, hunting](/setts/s7/b2r6g22r4b10g22y2-b304080-g008000-rc00000-yf0c000/) — ΔT 1.26
+1. [Green Watch](/setts/s7/g40r4g4r4y8g4r4-g004c00-ra0783c-yb0b0b0/) — ΔT 1.28
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g18r6g75b6g13ga35g12b6-b0000ff-g228b22-ga604000-rff0000/"><circle cx="417.8" cy="196.4" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s8/g10ga18g8w10g60r4g8r4-g008000-ga808080-rc00000-we0e0e0/"><circle cx="440.5" cy="183.2" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s10/g66b4g66r4b24r24g8r4g8w6-b1c0070-g006818-rc80000-we0e0e0/"><circle cx="412.5" cy="165.4" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/setts/s8/g10r6g6y4g2ya16g48y4-g285800-rc80000-ybc8c00-yac4bc68/"><circle cx="440.8" cy="156.1" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><a href="/setts/s8/g99b20w8b30y8b10y8g46-b304080-g008000-we0e0e0-yf0c000/"><circle cx="360.3" cy="188.5" r="4" fill="#3465a4"><title>Duke of York, hunting</title></circle></a><a href="/setts/s14/r18g8w10g60ra4g8ra4g8ra4g60w10g8r18g10-g006818-r888888-rac80000-we0e0e0/"><circle cx="418.3" cy="157.5" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s6/g120b32g20w16g20r8-b2888c4-g006818-rc80000-w98c8e8/"><circle cx="476.8" cy="208.6" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s8/g16r4g60b20r4w20g16r4-b68889c-g006818-rc8002c-we0e0e0/"><circle cx="351.6" cy="179.0" r="4" fill="#3465a4"><title>McGirr (Letterkenny) David, (Pers.)</title></circle></a><a href="/setts/s7/b2r6g22r4b10g22y2-b304080-g008000-rc00000-yf0c000/"><circle cx="364.2" cy="214.8" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/setts/s7/g40r4g4r4y8g4r4-g004c00-ra0783c-yb0b0b0/"><circle cx="458.3" cy="211.4" r="4" fill="#3465a4"><title>Green Watch</title></circle></a><circle cx="432.4" cy="179.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g10r18g8w10g60ra4g8ra4-g006818-r888888-rac80000-we0e0e0/

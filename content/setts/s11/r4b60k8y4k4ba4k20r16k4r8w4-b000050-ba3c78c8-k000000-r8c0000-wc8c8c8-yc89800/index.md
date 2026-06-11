@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Heart of Oak](/setts/s10/b6g6w2k50ba50k4ba4g2r6w4-b440044-ba000064-g006400-k101010-rdc0000-wffffff/) — ΔT 1.24
+1. [Scottish Spirit](/setts/s12/b18r6b64ba24k10ba4k8ba4k34bb8k4w4-b505050-ba646464-bb9058d8-k000000-r781c38-wc8c8c8/) — ΔT 1.27
+1. [Héritage Séquane](/setts/s12/b5r2y7r2b42g28k5b10k15g5w3r3-b2b0064-g004a2f-k101010-raf011c-wffffff-yd5aa02/) — ΔT 1.29
+1. [Scottish Hockey Union (Sports)](/setts/s11/b100k20b12k20b12g10w10g10ba16g46wa10-b202060-ba944090-g004c00-k000000-wc49cd8-wafcfcfc/) — ΔT 1.30
+1. [St Andrews Golf Club](/setts/s9/r4g12ga4g20k4g4k36b48w4-b141c50-g40584c-ga5c8898-k000000-rec5c28-we0e0d8/) — ΔT 1.34
+1. [Astrobiology](/setts/s15/k46b2g2r6b4r2b24y2k2w2k12b8g4k4g6-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/) — ΔT 1.35
+1. [Broager (Name)](/setts/s12/b53g10k20y5k5w5k7r18b10k6b6w6-b1c0070-g006818-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 1.38
+1. [United Arrows House Check](/setts/s9/b80r8k32w6g16ra8g6ra16k20-b1c0070-g603800-k101010-rc80000-ra880000-wfcfcfc/) — ΔT 1.42
+1. [Fitzgerald Hunting](/setts/s10/r4ra6k32b8r4b8ka72ba6ka6w4-b0000dc-ba306084-k001c04-ka000030-rc80000-rae02cb8-wfcfcfc/) — ΔT 1.43
+1. [Heirloom Dark Alba (Fashion)](/setts/s9/k8y4k68b20ya8b8ba8b46w6-b202060-ba780078-k101010-we0e0e0-ybc8c00-yaa0a0a0/) — ΔT 1.46
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b6g6w2k50ba50k4ba4g2r6w4-b440044-ba000064-g006400-k101010-rdc0000-wffffff/"><circle cx="241.7" cy="101.6" r="4" fill="#3465a4"><title>Heart of Oak</title></circle></a><a href="/setts/s12/b18r6b64ba24k10ba4k8ba4k34bb8k4w4-b505050-ba646464-bb9058d8-k000000-r781c38-wc8c8c8/"><circle cx="198.7" cy="113.5" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s12/b5r2y7r2b42g28k5b10k15g5w3r3-b2b0064-g004a2f-k101010-raf011c-wffffff-yd5aa02/"><circle cx="224.2" cy="109.1" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/setts/s11/b100k20b12k20b12g10w10g10ba16g46wa10-b202060-ba944090-g004c00-k000000-wc49cd8-wafcfcfc/"><circle cx="186.8" cy="137.5" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s9/r4g12ga4g20k4g4k36b48w4-b141c50-g40584c-ga5c8898-k000000-rec5c28-we0e0d8/"><circle cx="152.0" cy="144.3" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/setts/s15/k46b2g2r6b4r2b24y2k2w2k12b8g4k4g6-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/"><circle cx="274.3" cy="84.8" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/setts/s12/b53g10k20y5k5w5k7r18b10k6b6w6-b1c0070-g006818-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="168.5" cy="123.2" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s9/b80r8k32w6g16ra8g6ra16k20-b1c0070-g603800-k101010-rc80000-ra880000-wfcfcfc/"><circle cx="201.4" cy="143.7" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/setts/s10/r4ra6k32b8r4b8ka72ba6ka6w4-b0000dc-ba306084-k001c04-ka000030-rc80000-rae02cb8-wfcfcfc/"><circle cx="241.7" cy="94.8" r="4" fill="#3465a4"><title>Fitzgerald Hunting</title></circle></a><a href="/setts/s9/k8y4k68b20ya8b8ba8b46w6-b202060-ba780078-k101010-we0e0e0-ybc8c00-yaa0a0a0/"><circle cx="252.4" cy="141.1" r="4" fill="#3465a4"><title>Heirloom Dark Alba (Fashion)</title></circle></a><circle cx="211.6" cy="111.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s11/r4b60k8y4k4ba4k20r16k4r8w4-b000050-ba3c78c8-k000000-r8c0000-wc8c8c8-yc89800/

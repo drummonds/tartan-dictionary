@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/6 G28 K4 P4 G28 K72 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Highlands of Durham (Corporate)](/setts/s6/r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/) — ΔT 0.87
+1. [Coalfields Regeneration Trust, The](/setts/s7/k4r2y2g16k30g4b2-b780078-g408060-k101010-rc8002c-yfccc00/) — ΔT 0.90
+1. [Highlands of Durham #2](/setts/s10/k74g54w4k8r12k8w4g54k74y4-g006818-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 0.91
+1. [Hydesville Tower (Corporate)](/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/) — ΔT 0.95
+1. [MacHardy (Clans Originaux)](/setts/s8/g8r8k24w4k24g64r8k6-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.04
+1. [Merwe](/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.06
+1. [Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g110k34r18k22y4b8-b202060-g006818-k101010-rc8002c-ye8c000/) — ΔT 1.07
+1. [Bomb Disposal](/setts/s10/k56r6y4r6k26g56w2g6w2g32-g006818-k101010-r880000-we0e0e0-ye8c000/) — ΔT 1.11
+1. [Highlands of Durham](/setts/s10/b74g54w4b8r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/) — ΔT 1.14
+1. [Henderson](/setts/s9/w2b12g8b2g32k2g8k12y2-b00004c-g004c00-k000000-wd0d0d0-yffc800/) — ΔT 1.14
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/"><circle cx="298.5" cy="157.8" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/setts/s7/k4r2y2g16k30g4b2-b780078-g408060-k101010-rc8002c-yfccc00/"><circle cx="317.0" cy="155.9" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s10/k74g54w4k8r12k8w4g54k74y4-g006818-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="308.9" cy="151.2" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/"><circle cx="303.3" cy="161.0" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/setts/s8/g8r8k24w4k24g64r8k6-g006818-k101010-rc80000-we0e0e0/"><circle cx="293.6" cy="174.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="310.3" cy="182.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/setts/s6/g110k34r18k22y4b8-b202060-g006818-k101010-rc8002c-ye8c000/"><circle cx="341.8" cy="152.6" r="4" fill="#3465a4"><title>Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k56r6y4r6k26g56w2g6w2g32-g006818-k101010-r880000-we0e0e0-ye8c000/"><circle cx="299.0" cy="133.3" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s10/b74g54w4b8r12b8w4g54b74y4-b1c1c1c-g408060-rc80000-wfcfcfc-ye8c000/"><circle cx="308.4" cy="146.8" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/setts/s9/w2b12g8b2g32k2g8k12y2-b00004c-g004c00-k000000-wd0d0d0-yffc800/"><circle cx="310.5" cy="160.2" r="4" fill="#3465a4"><title>Henderson</title></circle></a><circle cx="300.1" cy="158.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r6g28k4b4g28k72y6-b9058d8-g006818-k101010-rc80000-ye8c000/

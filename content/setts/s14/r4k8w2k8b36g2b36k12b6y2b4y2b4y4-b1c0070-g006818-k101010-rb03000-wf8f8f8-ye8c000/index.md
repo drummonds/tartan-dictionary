@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Warren Wilson College](/setts/s14/g40y12b40ya6b96r12b8r12b8r12b96ya6b40y12-b1c0070-g006818-r880000-ya0a0a0-yae8c000/) — ΔT 1.24
+1. [HMS Neptune](/setts/s11/g8k2b18k2g6k2ba54r2ba54w2r6-b2c4084-ba1c1c50-g289c18-k101010-rdc0000-wffffff/) — ΔT 1.33
+1. [Wupper](/setts/s26/b4y2b4y2b6k12b36g2b36k8w2k8r4k8w2k8b36g2b36k12b6y2b4y2b4y4-b1c0070-g006818-k101010-rb03000-wf8f8f8-ye8c000/) — ΔT 1.34
+1. [Quigley of Knockcroghery (Pers)](/setts/s12/b50w4k4b30y4b2y4b30k4w4g32r2-b2c2c80-g00643c-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 1.35
+1. [Dickson (Personal)](/setts/s15/b8ba8b6g8b14k14b8k14y4b60g4r4g4b13w4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.40
+1. [Massachusetts-The Bay State](/setts/s13/g12b6g6b22w4b8g4r8b10r4b48ba4b8-b080848-ba0596fa-g005020-rdc0000-wf5dca0/) — ΔT 1.42
+1. [Blue Brough from Orkney](/setts/s13/b4k4b2ba2k4r14k4ba4b23y6b54ba8k4-b000080-ba666666-k101010-rff0000-yffe600/) — ΔT 1.44
+1. [HMS Neptune (Military)](/setts/s11/g8k2b18k2g6k2ba54r2ba54w2r6-b003c64-ba202060-g289c18-k101010-rc80000-wfcfcfc/) — ΔT 1.51
+1. [Quigley of Knockcroghery (Modern)](/setts/s12/b50w4k4b30y4b2y4b30k4w4g32r2-b172d60-g124b24-k120a01-rdd1212-wf5f1ea-ye0a126/) — ΔT 1.53
+1. [Head of The Lakes](/setts/s10/g14w4b56ga28ba10w4ba10w4b54bb4-b1c0070-ba6c0070-bb2474e8-g289c18-ga003820-wc0c0c0/) — ΔT 1.54
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g40y12b40ya6b96r12b8r12b8r12b96ya6b40y12-b1c0070-g006818-r880000-ya0a0a0-yae8c000/"><circle cx="401.3" cy="140.1" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/setts/s11/g8k2b18k2g6k2ba54r2ba54w2r6-b2c4084-ba1c1c50-g289c18-k101010-rdc0000-wffffff/"><circle cx="417.7" cy="105.3" r="4" fill="#3465a4"><title>HMS Neptune</title></circle></a><a href="/setts/s26/b4y2b4y2b6k12b36g2b36k8w2k8r4k8w2k8b36g2b36k12b6y2b4y2b4y4-b1c0070-g006818-k101010-rb03000-wf8f8f8-ye8c000/"><circle cx="368.5" cy="91.0" r="4" fill="#3465a4"><title>Wupper</title></circle></a><a href="/setts/s12/b50w4k4b30y4b2y4b30k4w4g32r2-b2c2c80-g00643c-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="370.9" cy="112.8" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/setts/s15/b8ba8b6g8b14k14b8k14y4b60g4r4g4b13w4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="308.3" cy="101.6" r="4" fill="#3465a4"><title>Dickson (Personal)</title></circle></a><a href="/setts/s13/g12b6g6b22w4b8g4r8b10r4b48ba4b8-b080848-ba0596fa-g005020-rdc0000-wf5dca0/"><circle cx="382.1" cy="154.8" r="4" fill="#3465a4"><title>Massachusetts-The Bay State</title></circle></a><a href="/setts/s13/b4k4b2ba2k4r14k4ba4b23y6b54ba8k4-b000080-ba666666-k101010-rff0000-yffe600/"><circle cx="343.1" cy="94.9" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/setts/s11/g8k2b18k2g6k2ba54r2ba54w2r6-b003c64-ba202060-g289c18-k101010-rc80000-wfcfcfc/"><circle cx="426.2" cy="110.2" r="4" fill="#3465a4"><title>HMS Neptune (Military)</title></circle></a><a href="/setts/s12/b50w4k4b30y4b2y4b30k4w4g32r2-b172d60-g124b24-k120a01-rdd1212-wf5f1ea-ye0a126/"><circle cx="365.6" cy="113.1" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/setts/s10/g14w4b56ga28ba10w4ba10w4b54bb4-b1c0070-ba6c0070-bb2474e8-g289c18-ga003820-wc0c0c0/"><circle cx="281.5" cy="141.1" r="4" fill="#3465a4"><title>Head of The Lakes</title></circle></a><circle cx="356.0" cy="110.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s14/r4k8w2k8b36g2b36k12b6y2b4y2b4y4-b1c0070-g006818-k101010-rb03000-wf8f8f8-ye8c000/

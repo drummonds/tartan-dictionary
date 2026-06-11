@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LT | <code style="background-color:#806050;"><span style="color:#806050;filter:grayscale(1) invert(1) contrast(100);">#806050</span></code> `#806050` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.17 |
 | Y | <code style="background-color:#F0C000;"><span style="color:#F0C000;filter:grayscale(1) invert(1) contrast(100);">#F0C000</span></code> `#F0C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tupper. Sir Charles.. Family Tartan Tartan Number: 614. Earliest known date: 1983 From Canada. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b8g14y6g24ga30g10b40g10ga8g4-b2c2c80-g604000-ga006818-ye8c000/) — ΔT 0.70
+1. [Buchanan, hunting](/setts/s11/b6r28g28r4b28r4b28r4g28r28ra6-b304080-g008000-r806050-rac00000/) — ΔT 0.86
+1. [Strange of Balcaskie (Personal)](/setts/s12/g64ga14g14ga32b64y6ga16y6b64ga32g14ga14-b2c2c80-g006818-ga604000-ye8c000/) — ΔT 0.91
+1. [Strange Of Balcaskie](/setts/s7/g64r14g14r32b64y6r16-b304080-g008000-r806050-yf0c000/) — ΔT 0.92
+1. [Strange of Balcaskie (Clan)](/setts/s7/g64ga14g14ga32b64y6ga16-b2c2c80-g006818-ga604000-ye8c000/) — ΔT 1.04
+1. [Antrim, County](/setts/s10/g10b4g36y4b10y4r10b34g4y8-b14283c-g406054-rc04c08-ybc8c00/) — ΔT 1.09
+1. [Fraser hunting](/setts/s11/r6ra36g20ra4b20ra4b20ra4g20ra36w6-b304080-g008000-rc00000-ra806050-we0e0e0/) — ΔT 1.10
+1. [Universal Ancient](/setts/s8/b24g4b4g4b4ga16gb16ga2-b3c82af-g005020-ga503c14-gb309c18/) — ΔT 1.12
+1. [Unidentified, Fragment](/setts/s15/r8g20b15r6g4r8b4r6g20r8b6r4ba2r4b6-b304080-ba8080d0-g008000-r806050/) — ΔT 1.14
+1. [Montmorency](/setts/s13/b42g4b6g4b4g28r30g8r30g28b28g4b6-b304080-g008000-r806050/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b8g14y6g24ga30g10b40g10ga8g4-b2c2c80-g604000-ga006818-ye8c000/"><circle cx="238.1" cy="220.0" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan Tartan Number: 614. Earliest known date: 1983 From Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/b6r28g28r4b28r4b28r4g28r28ra6-b304080-g008000-r806050-rac00000/"><circle cx="211.4" cy="239.8" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s12/g64ga14g14ga32b64y6ga16y6b64ga32g14ga14-b2c2c80-g006818-ga604000-ye8c000/"><circle cx="225.9" cy="205.4" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/setts/s7/g64r14g14r32b64y6r16-b304080-g008000-r806050-yf0c000/"><circle cx="234.7" cy="229.6" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/setts/s7/g64ga14g14ga32b64y6ga16-b2c2c80-g006818-ga604000-ye8c000/"><circle cx="240.3" cy="234.1" r="4" fill="#3465a4"><title>Strange of Balcaskie (Clan)</title></circle></a><a href="/setts/s10/g10b4g36y4b10y4r10b34g4y8-b14283c-g406054-rc04c08-ybc8c00/"><circle cx="245.7" cy="201.3" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><a href="/setts/s11/r6ra36g20ra4b20ra4b20ra4g20ra36w6-b304080-g008000-rc00000-ra806050-we0e0e0/"><circle cx="246.5" cy="202.0" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/setts/s8/b24g4b4g4b4ga16gb16ga2-b3c82af-g005020-ga503c14-gb309c18/"><circle cx="250.7" cy="212.8" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/setts/s15/r8g20b15r6g4r8b4r6g20r8b6r4ba2r4b6-b304080-ba8080d0-g008000-r806050/"><circle cx="230.2" cy="215.5" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><a href="/setts/s13/b42g4b6g4b4g28r30g8r30g28b28g4b6-b304080-g008000-r806050/"><circle cx="265.6" cy="223.9" r="4" fill="#3465a4"><title>Montmorency</title></circle></a><circle cx="238.8" cy="217.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b8r14y6r24g30r10b40r10g8r4-b304080-g008000-r806050-yf0c000/

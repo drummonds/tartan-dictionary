@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/40 LN80 Ta26 T34 K26 N/134 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacGregor-Ryan (Personal)](/setts/s6/w124b26y34g26wa80ba40-b1c1c1c-ba5f749c-g603800-we8ccb8-wafcfcfc-ya08858/) — ΔT 0.68
+1. [SCH '67 Class](/setts/s6/b6r4y30w20k4ya6-b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126/) — ΔT 1.11
+1. [Montessori School of Denver](/setts/s6/g25r9b3y7w3ba11-b6495ed-ba4b0082-g008b8b-rff6347-wffffff-yffff00/) — ΔT 1.11
+1. [Fraser, Red dress](/setts/s7/r8b36ra8g38w50r20w8-b304080-g008000-rc00000-ra800000-we0e0e0/) — ΔT 1.30
+1. [Ontario, Northern](/setts/s7/r34g10b4w24b4y8ga14-b304080-g808080-ga008000-r806050-we0e0e0-yf0c000/) — ΔT 1.34
+1. [Edmonton, City of](/setts/s9/b32y8g16y8ba16y8b32w60ya8-b2888c4-ba780078-g289c18-wf0f0d8-ye8c000-yabc8c00/) — ΔT 1.36
+1. [Reekie (Edmonton)](/setts/s6/k16r24w16g30b60y10-b5f7490-g23321b-k1c1714-rb62531-wf9f5ef-yf8e380/) — ΔT 1.40
+1. [Desang (Corporate)](/setts/s8/b16w8k12wa32g8wa32w8r16-b2c2c88-g3c9000-k101010-ra8003c-we0e0e0-wae8ccb8/) — ΔT 1.41
+1. [Fraser Red Dress](/setts/s7/r8b36ra8g38w50r20w8-b2c4084-g005020-rdc0000-ra960000-we0e0e0/) — ΔT 1.41
+1. [Game Fair (Corporate)](/setts/s7/g6b24g24w24g4w24g6-b1870a4-g003820-we0e0e0/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w124b26y34g26wa80ba40-b1c1c1c-ba5f749c-g603800-we8ccb8-wafcfcfc-ya08858/"><circle cx="68.1" cy="191.6" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/setts/s6/b6r4y30w20k4ya6-b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126/"><circle cx="131.0" cy="157.8" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/setts/s6/g25r9b3y7w3ba11-b6495ed-ba4b0082-g008b8b-rff6347-wffffff-yffff00/"><circle cx="124.0" cy="168.6" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/setts/s7/r8b36ra8g38w50r20w8-b304080-g008000-rc00000-ra800000-we0e0e0/"><circle cx="84.5" cy="194.1" r="4" fill="#3465a4"><title>Fraser, Red dress</title></circle></a><a href="/setts/s7/r34g10b4w24b4y8ga14-b304080-g808080-ga008000-r806050-we0e0e0-yf0c000/"><circle cx="101.8" cy="172.6" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/setts/s9/b32y8g16y8ba16y8b32w60ya8-b2888c4-ba780078-g289c18-wf0f0d8-ye8c000-yabc8c00/"><circle cx="84.8" cy="153.4" r="4" fill="#3465a4"><title>Edmonton, City of</title></circle></a><a href="/setts/s6/k16r24w16g30b60y10-b5f7490-g23321b-k1c1714-rb62531-wf9f5ef-yf8e380/"><circle cx="84.4" cy="197.5" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/setts/s8/b16w8k12wa32g8wa32w8r16-b2c2c88-g3c9000-k101010-ra8003c-we0e0e0-wae8ccb8/"><circle cx="96.5" cy="193.5" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/setts/s7/r8b36ra8g38w50r20w8-b2c4084-g005020-rdc0000-ra960000-we0e0e0/"><circle cx="83.8" cy="192.7" r="4" fill="#3465a4"><title>Fraser Red Dress</title></circle></a><a href="/setts/s7/g6b24g24w24g4w24g6-b1870a4-g003820-we0e0e0/"><circle cx="84.1" cy="194.5" r="4" fill="#3465a4"><title>Game Fair (Corporate)</title></circle></a><circle cx="87.8" cy="191.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/w134k26b34g26wa80ba40-b643424-ba5c8ca8-g603800-k101010-wc0c0c0-wae0e0e0/

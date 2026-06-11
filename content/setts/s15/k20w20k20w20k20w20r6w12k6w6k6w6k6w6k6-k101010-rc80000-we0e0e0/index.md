@@ -22,4 +22,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Blackcraig (Personal)](/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wfcfcfc/) — ΔT 0.52
+1. [Blackcraig (Personal)](/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wffffff/) — ΔT 0.55
+1. [Blackcraig](/setts/s15/k20w20k20w20k20w20r6w12k6w6k6w6k6w6k6-k000000-rc00000-we0e0e0/) — ΔT 0.71
+1. [Prince of Wales Check](/setts/s21/w8b8w8b8w8ba16w8b4w4b4w4b4w4b4w4b4w4b4w4b4w4-b441800-ba003c64-wc0c0c0/) — ΔT 1.17
+1. [Prince of Wales (Estate Check)](/setts/s22/w8b8w8b8w8ba16w4b4w4b4w4b4w4b4w4b4w4b4w4b4w4b4-b441800-ba003c64-wc0c0c0/) — ΔT 1.30
+1. [Stewart/Stuart Royal (B,W. & Grey)](/setts/s20/r11k16r4k4w4k4w19k14w4k14w4k14w19k4w4k4r4k16r11k8-k101010-r888888-we0e0e0/) — ΔT 1.31
+1. [Scott (Sir Walter Scott) (Personal)](/setts/s20/w8k4w24k24w8k4w4k4w8k24w24k24w8k4w4k4w8k24w24k4-k101010-wf8f8f8/) — ΔT 1.61
+1. [Poulter SG ? Black & white (Fashion)](/setts/s13/w25k8w8k8w8k46w46wa8w46k46w46k8w8-k101010-we0e0e0-waf4fc84/) — ΔT 1.63
+1. [Ogilvie (B&W) (Fashion?)](/setts/s20/k24w4k24w4k12w4k14w12k4w12k4w4k12w4k12w4k4w24k4w24-k101010-we0e0e0/) — ΔT 1.65
+1. [Scott Black and White Personal Tartan Tartan Number: 1826. Earliest known date: 1822 Smibert (1850) publishes this design which he says, "..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w24k24w8k4w4k4w8k24w24k4w8-k101010-we0e0e0/) — ΔT 1.67
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wfcfcfc/"><circle cx="184.0" cy="229.3" r="4" fill="#3465a4"><title>Blackcraig (Personal)</title></circle></a><a href="/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wffffff/"><circle cx="183.5" cy="229.0" r="4" fill="#3465a4"><title>Blackcraig (Personal)</title></circle></a><a href="/setts/s15/k20w20k20w20k20w20r6w12k6w6k6w6k6w6k6-k000000-rc00000-we0e0e0/"><circle cx="183.1" cy="234.1" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/setts/s21/w8b8w8b8w8ba16w8b4w4b4w4b4w4b4w4b4w4b4w4b4w4-b441800-ba003c64-wc0c0c0/"><circle cx="171.3" cy="219.3" r="4" fill="#3465a4"><title>Prince of Wales Check</title></circle></a><a href="/setts/s22/w8b8w8b8w8ba16w4b4w4b4w4b4w4b4w4b4w4b4w4b4w4b4-b441800-ba003c64-wc0c0c0/"><circle cx="159.4" cy="216.6" r="4" fill="#3465a4"><title>Prince of Wales (Estate Check)</title></circle></a><a href="/setts/s20/r11k16r4k4w4k4w19k14w4k14w4k14w19k4w4k4r4k16r11k8-k101010-r888888-we0e0e0/"><circle cx="191.9" cy="204.5" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (B,W. &amp; Grey)</title></circle></a><a href="/setts/s20/w8k4w24k24w8k4w4k4w8k24w24k24w8k4w4k4w8k24w24k4-k101010-wf8f8f8/"><circle cx="243.0" cy="193.7" r="4" fill="#3465a4"><title>Scott (Sir Walter Scott) (Personal)</title></circle></a><a href="/setts/s13/w25k8w8k8w8k46w46wa8w46k46w46k8w8-k101010-we0e0e0-waf4fc84/"><circle cx="268.0" cy="195.4" r="4" fill="#3465a4"><title>Poulter SG ? Black &amp; white (Fashion)</title></circle></a><a href="/setts/s20/k24w4k24w4k12w4k14w12k4w12k4w4k12w4k12w4k4w24k4w24-k101010-we0e0e0/"><circle cx="262.1" cy="200.2" r="4" fill="#3465a4"><title>Ogilvie (B&amp;W) (Fashion?)</title></circle></a><a href="/setts/s11/w24k24w8k4w4k4w8k24w24k4w8-k101010-we0e0e0/"><circle cx="277.8" cy="221.9" r="4" fill="#3465a4"><title>Scott Black and White Personal Tartan Tartan Number: 1826. Earliest known date: 1822 Smibert (1850) publishes this design which he says, &quot;..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="185.0" cy="231.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/k20w20k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-we0e0e0/

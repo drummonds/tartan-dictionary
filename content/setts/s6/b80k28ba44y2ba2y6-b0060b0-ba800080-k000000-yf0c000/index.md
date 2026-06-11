@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/80 K28 P44 Y2 P2 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Finnie (Personal)](/setts/s8/b8w8b74k40w2ba10w2k8-b2c2c80-ba780078-k101010-we0e0e0/) — ΔT 1.27
+1. [Gorman Family (Canada) (Personal)](/setts/s6/g12b32ba98bb28ba4w12-b405068-ba1c0070-bb487088-g289c18-we0e0e0/) — ΔT 1.50
+1. [Scottish Knights Templar Int. (Corp)](/setts/s9/r6b40k12w10k8w6k4r2b4-b2c2c80-k101010-rc80000-wc0c0c0/) — ΔT 1.52
+1. [Historic Scotland](/setts/s9/b8w2b2w6b48g18k2g18k6-b000050-g808080-k000000-we0e0e0/) — ΔT 1.55
+1. [Raith Rovers F.C.](/setts/s8/b12w4g4w6b48r2ba70r4-b000050-ba304080-g30a010-rc00000-we0e0e0/) — ΔT 1.56
+1. [Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b84w4wa4w4b10ba24wa64b8-b202060-ba003c64-wa8ace8-wac0c0c0/) — ΔT 1.56
+1. [Knights Templar International Corporate Tartan Tartan Number: 560. Earliest known date: 1989 Alternative sett (International Branch). Stuart Davidson was a founder member of the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r6b40k12w10k8w6k4r2b4-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 1.56
+1. [Bro-Spirit of Northmen (Corporate)](/setts/s5/r6k2b54k54w6-b1474b4-k101010-r880000-we0e0e0/) — ΔT 1.57
+1. [Eildon (1980)](/setts/s8/b84w4wa4w4b10ba24wa64b8-b000050-ba003478-w94acfc-wac8c8c8/) — ΔT 1.61
+1. [British Energy Corporate Tartan Tartan Number: 2324. Earliest known date: 1996 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w80k28b44y2b2y6-b780078-k101010-wa8ace8-ye8c000/) — ΔT 1.62
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b8w8b74k40w2ba10w2k8-b2c2c80-ba780078-k101010-we0e0e0/"><circle cx="360.6" cy="132.1" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s6/g12b32ba98bb28ba4w12-b405068-ba1c0070-bb487088-g289c18-we0e0e0/"><circle cx="301.3" cy="155.7" r="4" fill="#3465a4"><title>Gorman Family (Canada) (Personal)</title></circle></a><a href="/setts/s9/r6b40k12w10k8w6k4r2b4-b2c2c80-k101010-rc80000-wc0c0c0/"><circle cx="262.2" cy="144.4" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/setts/s9/b8w2b2w6b48g18k2g18k6-b000050-g808080-k000000-we0e0e0/"><circle cx="297.1" cy="136.3" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s8/b12w4g4w6b48r2ba70r4-b000050-ba304080-g30a010-rc00000-we0e0e0/"><circle cx="308.9" cy="117.8" r="4" fill="#3465a4"><title>Raith Rovers F.C.</title></circle></a><a href="/setts/s8/b84w4wa4w4b10ba24wa64b8-b202060-ba003c64-wa8ace8-wac0c0c0/"><circle cx="285.4" cy="138.3" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r6b40k12w10k8w6k4r2b4-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="250.8" cy="138.9" r="4" fill="#3465a4"><title>Knights Templar International Corporate Tartan Tartan Number: 560. Earliest known date: 1989 Alternative sett (International Branch). Stuart Davidson was a founder member of the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r6k2b54k54w6-b1474b4-k101010-r880000-we0e0e0/"><circle cx="300.1" cy="172.3" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen (Corporate)</title></circle></a><a href="/setts/s8/b84w4wa4w4b10ba24wa64b8-b000050-ba003478-w94acfc-wac8c8c8/"><circle cx="270.7" cy="136.8" r="4" fill="#3465a4"><title>Eildon (1980)</title></circle></a><a href="/setts/s6/w80k28b44y2b2y6-b780078-k101010-wa8ace8-ye8c000/"><circle cx="296.8" cy="123.1" r="4" fill="#3465a4"><title>British Energy Corporate Tartan Tartan Number: 2324. Earliest known date: 1996 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="306.1" cy="139.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b80k28ba44y2ba2y6-b0060b0-ba800080-k000000-yf0c000/

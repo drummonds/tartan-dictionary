@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | O | <code style="background-color:#C8904C;"><span style="color:#C8904C;filter:grayscale(1) invert(1) contrast(100);">#C8904C</span></code> `#C8904C` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.15 |
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Michigan, State of](/setts/s10/g36w2g8w2y8ga2y4ga24r4ga8-g408060-ga2f4f2f-r8c1717-wffffff-ydeb887/) — ΔT 0.81
+1. [Dalwhinnie (Fashion)](/setts/s9/g70y6ya28ga56ya5ga11ya5ga11r12-g004c00-ga288028-rc80000-ye8c000-yaa0a0a0/) — ΔT 1.14
+1. [Dalwhinnie](/setts/s9/g70y6ya28ga56ya5ga11ya5ga11r12-g004c00-ga288028-rc80000-yffd700-yaa0a0a0/) — ΔT 1.18
+1. [Gift of Life Michigan (Corporate)](/setts/s7/r4b2r2b22g32ga2w2-b2888c4-g289c18-ga003820-rc80000-wfcfcfc/) — ΔT 1.42
+1. [Carter (Savannah) (Personal)](/setts/s10/g8ga52w2ga4w4g8y52g8gb6ya6-g604000-ga006818-gb289c18-wb4ccbc-y48a4c0-yae8c000/) — ΔT 1.46
+1. [Cranstoun](/setts/s8/g28b2g2b2g6b12ga24r4-b304080-g30a010-ga008000-rc00000/) — ΔT 1.46
+1. [Sheffield, City of](/setts/s14/b10g10k8r62ga6r6ga124r6ga6r62k8g10b10ra6-b2888c4-g289c18-ga006818-k101010-r888888-rac80000/) — ΔT 1.46
+1. [Chartered Accountants of Scotland](/setts/s8/y8g6r4g72b60k6b6k6-b1870a4-g006818-k101010-rc8002c-ye8c000/) — ΔT 1.47
+1. [Boucherville](/setts/s9/g40y4r10w8g4r4g4r4b12-b1474b4-g289c18-r888888-wfcfcfc-ye8c000/) — ΔT 1.47
+1. [Downie (Name)](/setts/s10/b48k4r4b4ba24g56r8g10b6g6-b5c8ca8-ba202060-g006818-k101010-rc80000/) — ΔT 1.48
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g36w2g8w2y8ga2y4ga24r4ga8-g408060-ga2f4f2f-r8c1717-wffffff-ydeb887/"><circle cx="264.2" cy="143.8" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/setts/s9/g70y6ya28ga56ya5ga11ya5ga11r12-g004c00-ga288028-rc80000-ye8c000-yaa0a0a0/"><circle cx="221.6" cy="167.5" r="4" fill="#3465a4"><title>Dalwhinnie (Fashion)</title></circle></a><a href="/setts/s9/g70y6ya28ga56ya5ga11ya5ga11r12-g004c00-ga288028-rc80000-yffd700-yaa0a0a0/"><circle cx="217.6" cy="165.6" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s7/r4b2r2b22g32ga2w2-b2888c4-g289c18-ga003820-rc80000-wfcfcfc/"><circle cx="285.4" cy="153.0" r="4" fill="#3465a4"><title>Gift of Life Michigan (Corporate)</title></circle></a><a href="/setts/s10/g8ga52w2ga4w4g8y52g8gb6ya6-g604000-ga006818-gb289c18-wb4ccbc-y48a4c0-yae8c000/"><circle cx="222.0" cy="107.2" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><a href="/setts/s8/g28b2g2b2g6b12ga24r4-b304080-g30a010-ga008000-rc00000/"><circle cx="277.2" cy="197.4" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/setts/s14/b10g10k8r62ga6r6ga124r6ga6r62k8g10b10ra6-b2888c4-g289c18-ga006818-k101010-r888888-rac80000/"><circle cx="267.9" cy="102.6" r="4" fill="#3465a4"><title>Sheffield, City of</title></circle></a><a href="/setts/s8/y8g6r4g72b60k6b6k6-b1870a4-g006818-k101010-rc8002c-ye8c000/"><circle cx="299.1" cy="153.7" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/setts/s9/g40y4r10w8g4r4g4r4b12-b1474b4-g289c18-r888888-wfcfcfc-ye8c000/"><circle cx="268.4" cy="166.7" r="4" fill="#3465a4"><title>Boucherville</title></circle></a><a href="/setts/s10/b48k4r4b4ba24g56r8g10b6g6-b5c8ca8-ba202060-g006818-k101010-rc80000/"><circle cx="238.8" cy="155.2" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><circle cx="276.3" cy="150.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/g36w2g8w2y8ga2y4ga24r4ga8-g509884-ga006818-r940000-wfcfcfc-yc8904c/

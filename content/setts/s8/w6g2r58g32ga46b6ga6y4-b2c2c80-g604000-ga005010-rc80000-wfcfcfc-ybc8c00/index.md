@@ -37,4 +37,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DY/4 G6 DB6 G46 T32 R58 T2 W/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.30
+1. [Etienne, Paschal Tache Sir...](/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/) — ΔT 0.72
+1. [Hamish Bicknell (Personal)](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.02
+1. [Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g48r48w6ga42y4r2y4g12r4-g604000-ga006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.05
+1. [Westwood (Fashion?)](/setts/s10/r30y60k2w12k2y4g32b8r12w2-b5c8ca8-g003820-k101010-rc80000-we0e0e0-ya08858/) — ΔT 1.15
+1. [Bicknell, The Hamish (Personal)](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/) — ΔT 1.22
+1. [Telfer (Name)](/setts/s9/g18y4g12r70b12w2ra40b10w4-b1c1c50-g006818-rc80000-ra880000-wa8ace8-ye8c000/) — ΔT 1.22
+1. [Carolina, States of (District)](/setts/s13/r64g28k32y6k8ya8k8r2ga56r26k8r8ya4-g789484-ga5c6428-k101010-ra00000-yc4bc68-yab8b8b8/) — ΔT 1.23
+1. [Forrester (Clan)](/setts/s9/w12b16w4b60r96g60y4g16y12-b283854-g285800-rc80000-we0e0e0-ye8c000/) — ΔT 1.24
+1. [Moray of Abercairny](/setts/s11/w2b6ba4r36ra4g32ra4r4ra4b6w2-b5c8ca8-ba1c1c50-g006818-r880000-rad05054-wf8f8f8/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/"><circle cx="224.1" cy="112.2" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/"><circle cx="226.1" cy="112.6" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="216.8" cy="84.6" r="4" fill="#3465a4"><title>Hamish Bicknell (Personal)</title></circle></a><a href="/setts/s9/g48r48w6ga42y4r2y4g12r4-g604000-ga006818-rc80000-we0e0e0-ye8c000/"><circle cx="237.1" cy="132.4" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r30y60k2w12k2y4g32b8r12w2-b5c8ca8-g003820-k101010-rc80000-we0e0e0-ya08858/"><circle cx="204.8" cy="85.6" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/"><circle cx="203.5" cy="80.4" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s9/g18y4g12r70b12w2ra40b10w4-b1c1c50-g006818-rc80000-ra880000-wa8ace8-ye8c000/"><circle cx="247.4" cy="91.2" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/setts/s13/r64g28k32y6k8ya8k8r2ga56r26k8r8ya4-g789484-ga5c6428-k101010-ra00000-yc4bc68-yab8b8b8/"><circle cx="201.4" cy="86.6" r="4" fill="#3465a4"><title>Carolina, States of (District)</title></circle></a><a href="/setts/s9/w12b16w4b60r96g60y4g16y12-b283854-g285800-rc80000-we0e0e0-ye8c000/"><circle cx="196.5" cy="123.2" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/setts/s11/w2b6ba4r36ra4g32ra4r4ra4b6w2-b5c8ca8-ba1c1c50-g006818-r880000-rad05054-wf8f8f8/"><circle cx="204.3" cy="100.3" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><circle cx="222.8" cy="111.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga005010-rc80000-wfcfcfc-ybc8c00/

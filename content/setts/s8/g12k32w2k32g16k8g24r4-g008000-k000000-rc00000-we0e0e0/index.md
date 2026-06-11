@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/12 K32 LN2 K32 G16 K8 G24 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacAulay Hunting](/setts/s8/g12k32w2k32g16k8g24r4-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 1.03
+1. [Gunn](/setts/s6/g4k24g2k24g24r4-g008000-k000000-rc00000/) — ΔT 1.21
+1. [MacArthur, ?](/setts/s6/r6g60k24g12k32y4-g008000-k000000-rc00000-yf0c000/) — ΔT 1.22
+1. [Wilson's, No 167](/setts/s6/k40b4k12g32ba8k18-b5480b0-ba800080-g008000-k000000/) — ΔT 1.31
+1. [Forbes VS](/setts/s6/r1g16k8g3k4y1-g004c00-k000000-rc80000-yffc800/) — ΔT 1.31
+1. [MacAulay Hunting](/setts/s8/g12k32y2k32g16k8g24r4-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.39
+1. [MacArthur](/setts/s5/k32g6k12g30y3-g008000-k000000-yf0c000/) — ΔT 1.46
+1. [MacDiarmid](/setts/s9/k24r4k56g24k2w6k2g24r8-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.50
+1. [Hopetoun, Rejected design](/setts/s14/g44b4k4g8k48y4k48g8k8g44k8g8k48y4-b304080-g008000-k000000-yf0c000/) — ΔT 1.52
+1. [Douglas, (Black)](/setts/s5/k24b6g46k46r6-b304080-g008000-k000000-rc00000/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g12k32w2k32g16k8g24r4-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="310.8" cy="211.8" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s6/g4k24g2k24g24r4-g008000-k000000-rc00000/"><circle cx="322.5" cy="233.2" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/r6g60k24g12k32y4-g008000-k000000-rc00000-yf0c000/"><circle cx="275.2" cy="196.4" r="4" fill="#3465a4"><title>MacArthur, ?</title></circle></a><a href="/setts/s6/k40b4k12g32ba8k18-b5480b0-ba800080-g008000-k000000/"><circle cx="297.5" cy="231.7" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/setts/s6/r1g16k8g3k4y1-g004c00-k000000-rc80000-yffc800/"><circle cx="337.9" cy="196.7" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s8/g12k32y2k32g16k8g24r4-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="321.2" cy="215.7" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s5/k32g6k12g30y3-g008000-k000000-yf0c000/"><circle cx="291.2" cy="245.2" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s9/k24r4k56g24k2w6k2g24r8-g008000-k000000-rc00000-we0e0e0/"><circle cx="311.3" cy="144.2" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s14/g44b4k4g8k48y4k48g8k8g44k8g8k48y4-b304080-g008000-k000000-yf0c000/"><circle cx="290.6" cy="166.3" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s5/k24b6g46k46r6-b304080-g008000-k000000-rc00000/"><circle cx="257.3" cy="244.4" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><circle cx="284.2" cy="200.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g12k32w2k32g16k8g24r4-g008000-k000000-rc00000-we0e0e0/

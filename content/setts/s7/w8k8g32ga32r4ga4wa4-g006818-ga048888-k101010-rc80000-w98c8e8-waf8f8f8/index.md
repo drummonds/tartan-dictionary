@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LB/8 K8 G32 B32 R4 B4 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Porteous](/setts/s6/k2y2b16g20ba14w2-b304080-ba5480b0-g008000-k000000-we0e0e0-yf0c000/) — ΔT 0.93
+1. [Ayrshire](/setts/s8/b8r4b40w4ra16g32y4g8-b304080-g008000-rc00000-ra806050-we0e0e0-yf0c000/) — ΔT 1.03
+1. [Royal British Legion, The](/setts/s7/r12b4g40k6ba16ga4b8-b8080d0-ba304080-g008000-ga30a010-k000000-rc00000/) — ΔT 1.10
+1. [Mission](/setts/s8/y8b56k4g44k8w8ga8k4-b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500/) — ΔT 1.15
+1. [Crofters (Personal)](/setts/s7/b40r4g18w12y8k4g16-b2c4084-g309c18-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.28
+1. [Mission](/setts/s8/r8b56k4g44k8y8ga8k4-b5480b0-g008000-ga407050-k000000-r703000-ye0a0a0/) — ΔT 1.29
+1. [WestJet](/setts/s9/y6b6ya6b30g6b10y40w12yb6-b003c64-g048888-w98c8e8-y5abf9e-yac4bc68-ybf8e38c/) — ΔT 1.30
+1. [Alvis, of Lee](/setts/s5/b9w4g36ba36r4-b000050-ba5480b0-g008000-rc00000-we0e0e0/) — ΔT 1.31
+1. [Royal British Legion (Corporate)](/setts/s7/r6w4g40k6b16ga4w4-b2c2c80-g006818-ga289c18-k101010-rc80000-w98c8e8/) — ΔT 1.31
+1. [Dick (Personal)](/setts/s7/k10g60y6b30k30b14w6-b1474b4-g28802c-k101010-we0e0e0-ye8c000/) — ΔT 1.32
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2y2b16g20ba14w2-b304080-ba5480b0-g008000-k000000-we0e0e0-yf0c000/"><circle cx="137.7" cy="183.5" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/setts/s8/b8r4b40w4ra16g32y4g8-b304080-g008000-rc00000-ra806050-we0e0e0-yf0c000/"><circle cx="187.5" cy="168.6" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/setts/s7/r12b4g40k6ba16ga4b8-b8080d0-ba304080-g008000-ga30a010-k000000-rc00000/"><circle cx="164.5" cy="162.2" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/setts/s8/y8b56k4g44k8w8ga8k4-b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500/"><circle cx="176.4" cy="133.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s7/b40r4g18w12y8k4g16-b2c4084-g309c18-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="126.6" cy="163.2" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/setts/s8/r8b56k4g44k8y8ga8k4-b5480b0-g008000-ga407050-k000000-r703000-ye0a0a0/"><circle cx="169.1" cy="132.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s9/y6b6ya6b30g6b10y40w12yb6-b003c64-g048888-w98c8e8-y5abf9e-yac4bc68-ybf8e38c/"><circle cx="117.7" cy="165.6" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/setts/s5/b9w4g36ba36r4-b000050-ba5480b0-g008000-rc00000-we0e0e0/"><circle cx="199.9" cy="209.7" r="4" fill="#3465a4"><title>Alvis, of Lee</title></circle></a><a href="/setts/s7/r6w4g40k6b16ga4w4-b2c2c80-g006818-ga289c18-k101010-rc80000-w98c8e8/"><circle cx="214.8" cy="157.8" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><a href="/setts/s7/k10g60y6b30k30b14w6-b1474b4-g28802c-k101010-we0e0e0-ye8c000/"><circle cx="155.9" cy="188.5" r="4" fill="#3465a4"><title>Dick (Personal)</title></circle></a><circle cx="153.1" cy="177.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/w8k8g32ga32r4ga4wa4-g006818-ga048888-k101010-rc80000-w98c8e8-waf8f8f8/

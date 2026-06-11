@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#949494;"><span style="color:#949494;filter:grayscale(1) invert(1) contrast(100);">#949494</span></code> `#949494` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.23 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKellar, dress](/setts/s11/r70w8r6y14r6w8r14b30g8w72g10-b401000-g808080-r906030-we0e0e0-yf0c000/) — ΔT 0.54
+1. [Hutt #1 (Personal)](/setts/s11/b8y8b4y8b4w60b16r4y8g28y4-b5c5c5c-g003820-rc80000-wc0c0c0-ye8c000/) — ΔT 1.06
+1. [Hutt Tartan](/setts/s11/b8y8b4y8b4w60b16r4y8g28y4-b505050-g003000-rc00000-wc0c0c0-yf0c000/) — ΔT 1.16
+1. [MacLean of Duart (Reproduction Colours)](/setts/s12/g24b4ba8y4ba6w6ba6r40w58b4w8ba4-b3c82af-ba2a2303-g808080-rbe7832-we0e0e0-ye8c000/) — ΔT 1.19
+1. [Liama, The](/setts/s10/b4w40r4w4b6w6g6r16g52w4-b441800-g8c7038-rc80000-we8ccb8/) — ΔT 1.21
+1. [Dunblane](/setts/s12/g12y10w2g4w2g10w2g4w2r30b4w2-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.25
+1. [Karibu](/setts/s9/g48w4r4w16r4w4r32y8r4-g3c773c-rb3003c-wffffff-yffcc00/) — ΔT 1.29
+1. [MacLean of Duart 7](/setts/s12/g24b4ba8y4ba6w6ba6r40w58b4w8ba4-b5480b0-ba401000-g808080-r906030-we0e0e0-yf0c000/) — ΔT 1.29
+1. [Dunblane District Tartan Tartan Number: 1022. Earliest known date: 1729 Peregrine, 2nd Viscount Dunblane in a portrait hanging in Hornby Castle, Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g12y10w2g4w2g10w2g4w2r30b4w2-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.32
+1. [MacRae Grey (Fashion)](/setts/s11/r4ra18w8wa4b44wa4w8wa44b4wa16r4-b5c5c5c-r880000-ra888888-wc0c0c0-wafcfcfc/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r70w8r6y14r6w8r14b30g8w72g10-b401000-g808080-r906030-we0e0e0-yf0c000/"><circle cx="177.2" cy="121.2" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/setts/s11/b8y8b4y8b4w60b16r4y8g28y4-b5c5c5c-g003820-rc80000-wc0c0c0-ye8c000/"><circle cx="178.3" cy="111.5" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s11/b8y8b4y8b4w60b16r4y8g28y4-b505050-g003000-rc00000-wc0c0c0-yf0c000/"><circle cx="171.4" cy="108.8" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/setts/s12/g24b4ba8y4ba6w6ba6r40w58b4w8ba4-b3c82af-ba2a2303-g808080-rbe7832-we0e0e0-ye8c000/"><circle cx="165.2" cy="87.9" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/setts/s10/b4w40r4w4b6w6g6r16g52w4-b441800-g8c7038-rc80000-we8ccb8/"><circle cx="246.6" cy="138.8" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/setts/s12/g12y10w2g4w2g10w2g4w2r30b4w2-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="176.6" cy="111.3" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s9/g48w4r4w16r4w4r32y8r4-g3c773c-rb3003c-wffffff-yffcc00/"><circle cx="201.8" cy="141.9" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s12/g24b4ba8y4ba6w6ba6r40w58b4w8ba4-b5480b0-ba401000-g808080-r906030-we0e0e0-yf0c000/"><circle cx="162.8" cy="87.0" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/setts/s12/g12y10w2g4w2g10w2g4w2r30b4w2-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="175.5" cy="110.4" r="4" fill="#3465a4"><title>Dunblane District Tartan Tartan Number: 1022. Earliest known date: 1729 Peregrine, 2nd Viscount Dunblane in a portrait hanging in Hornby Castle, Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r4ra18w8wa4b44wa4w8wa44b4wa16r4-b5c5c5c-r880000-ra888888-wc0c0c0-wafcfcfc/"><circle cx="172.6" cy="122.6" r="4" fill="#3465a4"><title>MacRae Grey (Fashion)</title></circle></a><circle cx="184.2" cy="122.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s11/r70w8r6y14r6w8r14b30ya8w72ya10-b2a2303-rbe7832-we0e0e0-ye8c000-ya949494/

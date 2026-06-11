@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/160 DB60 O10 Y/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Triplett, Jack Arnold](/setts/s4/w112b40r8ba8-b1870a4-ba5c8ca8-rc80000-wfcfcfc/) — ΔT 1.16
+1. [Triplett, Jack Arnold](/setts/s4/w70b24r4ba4-b335280-ba666666-rff0000-wf8eeb7/) — ΔT 1.24
+1. [Butties](/setts/s6/w93r6w13b35w12r6-b202060-r888888-wfcfcfc/) — ΔT 1.53
+1. [WaterAid](/setts/s6/b46w16wa4k10w88b8-b00008c-k101010-wffffff-wa98c8e8/) — ΔT 1.58
+1. [Clackson Arisaid (Name?)](/setts/s7/w48g4w16b10y8b10y8-b2c2c80-g006818-we0e0e0-ye8c000/) — ΔT 1.75
+1. [MacPherson #10](/setts/s6/r4w56k24w4k12y4-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.76
+1. [Legary (Name)](/setts/s6/y10b30w10b10w80y6-b1c1c50-w98c8e8-ye8c000/) — ΔT 1.80
+1. [Legary](/setts/s6/y10b30w10b10w80y6-b00006b-wabcdd9-yeff265/) — ΔT 1.84
+1. [Fraser Arisaid Red (Dance)](/setts/s5/w64r24b24w4b6-b000060-r880000-wf8f8f8/) — ΔT 1.92
+1. [Butties](/setts/s6/w93y6w13b35w12y6-b3850c8-wffffff-yb0b0b0/) — ΔT 1.92
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/w112b40r8ba8-b1870a4-ba5c8ca8-rc80000-wfcfcfc/"><circle cx="367.8" cy="177.6" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/setts/s4/w70b24r4ba4-b335280-ba666666-rff0000-wf8eeb7/"><circle cx="394.5" cy="166.6" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/setts/s6/w93r6w13b35w12r6-b202060-r888888-wfcfcfc/"><circle cx="408.0" cy="160.3" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s6/b46w16wa4k10w88b8-b00008c-k101010-wffffff-wa98c8e8/"><circle cx="318.0" cy="137.8" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><a href="/setts/s7/w48g4w16b10y8b10y8-b2c2c80-g006818-we0e0e0-ye8c000/"><circle cx="304.0" cy="164.1" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s6/r4w56k24w4k12y4-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="300.4" cy="153.0" r="4" fill="#3465a4"><title>MacPherson #10</title></circle></a><a href="/setts/s6/y10b30w10b10w80y6-b1c1c50-w98c8e8-ye8c000/"><circle cx="342.0" cy="180.4" r="4" fill="#3465a4"><title>Legary (Name)</title></circle></a><a href="/setts/s6/y10b30w10b10w80y6-b00006b-wabcdd9-yeff265/"><circle cx="332.6" cy="177.6" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/setts/s5/w64r24b24w4b6-b000060-r880000-wf8f8f8/"><circle cx="287.7" cy="179.9" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/setts/s6/w93y6w13b35w12y6-b3850c8-wffffff-yb0b0b0/"><circle cx="424.0" cy="165.3" r="4" fill="#3465a4"><title>Butties</title></circle></a><circle cx="380.6" cy="162.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/

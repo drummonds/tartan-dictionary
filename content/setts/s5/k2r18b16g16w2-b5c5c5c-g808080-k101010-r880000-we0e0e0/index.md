@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/2 DR18 N16 Na16 LN/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [McCurdy-Stribbling (Personal)](/setts/s5/b30ba40bb24r68w6-b2c2c80-ba506878-bb404040-rc80000-wcccccc/) — ΔT 1.19
+1. [Callum (Buchan) (Name)](/setts/s5/b56r8ba48r64y8-b5c5c5c-ba344054-rc80000-ya0a0a0/) — ΔT 1.24
+1. [Jardine #2](/setts/s5/b36r36g36ra4ba4-b2a2303-ba3c82af-g808080-rbe7832-radc0000/) — ΔT 1.32
+1. [Bristol Gramar School Check (School)](/setts/s6/r4b3ba12bb8b2r4-b447084-ba5c5c5c-bb1c1c50-rc80000/) — ΔT 1.37
+1. [McHale (Personal)](/setts/s6/g30k20b60r22w6g10-b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc/) — ΔT 1.44
+1. [Andover (Fashion)](/setts/s6/r4b48k24y4ba40r4-b5c5c5c-ba4c3428-k101010-rc80000-yfccc00/) — ΔT 1.45
+1. [Orban-Prentice (Personal)](/setts/s7/g50b8r48b42ga50b8g6-b2c2c80-g285800-ga604000-rc80000/) — ΔT 1.45
+1. [McCurdy-Stribbling (Personal)](/setts/s5/b30ba40k24r68g6-b262753-ba236b8e-g7d776b-k111214-r80252e/) — ΔT 1.47
+1. [Balfour](/setts/s6/b60y6r22y6g66ra12-b304080-g808080-r806050-rac00000-yf0c000/) — ΔT 1.48
+1. [Buchanhaven Heritage](/setts/s7/b48r54g40y12g40r4w6-b5c8ca8-g408060-rc82828-we0e0e0-ye0a126/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b30ba40bb24r68w6-b2c2c80-ba506878-bb404040-rc80000-wcccccc/"><circle cx="205.2" cy="219.8" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s5/b56r8ba48r64y8-b5c5c5c-ba344054-rc80000-ya0a0a0/"><circle cx="258.0" cy="258.4" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s5/b36r36g36ra4ba4-b2a2303-ba3c82af-g808080-rbe7832-radc0000/"><circle cx="160.8" cy="219.5" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/setts/s6/r4b3ba12bb8b2r4-b447084-ba5c5c5c-bb1c1c50-rc80000/"><circle cx="195.7" cy="260.9" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s6/g30k20b60r22w6g10-b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc/"><circle cx="197.8" cy="213.9" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/setts/s6/r4b48k24y4ba40r4-b5c5c5c-ba4c3428-k101010-rc80000-yfccc00/"><circle cx="238.3" cy="202.6" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/setts/s7/g50b8r48b42ga50b8g6-b2c2c80-g285800-ga604000-rc80000/"><circle cx="167.7" cy="239.2" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/setts/s5/b30ba40k24r68g6-b262753-ba236b8e-g7d776b-k111214-r80252e/"><circle cx="228.9" cy="241.8" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s6/b60y6r22y6g66ra12-b304080-g808080-r806050-rac00000-yf0c000/"><circle cx="225.9" cy="199.3" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/setts/s7/b48r54g40y12g40r4w6-b5c8ca8-g408060-rc82828-we0e0e0-ye0a126/"><circle cx="223.2" cy="203.6" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><circle cx="199.1" cy="232.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/k2r18b16g16w2-b5c5c5c-g808080-k101010-r880000-we0e0e0/

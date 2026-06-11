@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/4 DG6 T52 DY/200 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Canadian Irish Regiment](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/) — ΔT 0.46
+1. [Reid (1939)](/setts/s6/g80r16g8w4g8y10-g8c7038-rc80000-we0e0e0-ye8c000/) — ΔT 1.95
+1. [Reece, Mathew](/setts/s7/w4r88b16r4b4r6ra2-b3f4059-ra58065-rab13836-we5e0d2/) — ΔT 2.38
+1. [Reece (Name)](/setts/s7/w4y88b16y4b4y6r2-b2c2c80-rc80000-we0e0e0-ya08858/) — ΔT 2.40
+1. [KIltwalk, The (Corporate)](/setts/s9/g4w4y8g10y10g92y14g2wa4-g604000-w98c8e8-wafcfcfc-ya08858/) — ΔT 2.46
+1. [Perry, Arisaid](/setts/s5/g130r54w4g8y10-g808080-rc00000-we0e0e0-yf0c000/) — ΔT 2.46
+1. [MacLaine of Lochbuie](/setts/s4/r64g16b8y2-b5480b0-g008000-rc00000-yf0c000/) — ΔT 2.48
+1. [Dutch Football (Corporate)](/setts/s4/y264r11w11b11-b003c64-rc80000-we0e0e0-ybc8c00/) — ΔT 2.52
+1. [Kenspeckle](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/) — ΔT 2.52
+1. [Unnamed Brown (Teddy Bear)](/setts/s5/r2g14ra50g14r2-g503c14-rdc0000-rabe7832/) — ΔT 2.53
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/"><circle cx="604.5" cy="167.2" r="4" fill="#3465a4"><title>Canadian Irish Regiment</title></circle></a><a href="/setts/s6/g80r16g8w4g8y10-g8c7038-rc80000-we0e0e0-ye8c000/"><circle cx="566.8" cy="183.5" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s7/w4r88b16r4b4r6ra2-b3f4059-ra58065-rab13836-we5e0d2/"><circle cx="626.0" cy="131.7" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/setts/s7/w4y88b16y4b4y6r2-b2c2c80-rc80000-we0e0e0-ya08858/"><circle cx="589.0" cy="116.9" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s9/g4w4y8g10y10g92y14g2wa4-g604000-w98c8e8-wafcfcfc-ya08858/"><circle cx="549.7" cy="110.7" r="4" fill="#3465a4"><title>KIltwalk, The (Corporate)</title></circle></a><a href="/setts/s5/g130r54w4g8y10-g808080-rc00000-we0e0e0-yf0c000/"><circle cx="508.0" cy="170.7" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/setts/s4/r64g16b8y2-b5480b0-g008000-rc00000-yf0c000/"><circle cx="513.9" cy="169.6" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/setts/s4/y264r11w11b11-b003c64-rc80000-we0e0e0-ybc8c00/"><circle cx="626.0" cy="186.1" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/"><circle cx="496.4" cy="142.8" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><a href="/setts/s5/r2g14ra50g14r2-g503c14-rdc0000-rabe7832/"><circle cx="476.0" cy="197.7" r="4" fill="#3465a4"><title>Unnamed Brown (Teddy Bear)</title></circle></a><circle cx="591.5" cy="161.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/y200g52ga6b4-b680028-g604000-ga003820-ybc8c00/

@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> `#808080` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.22 |
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Manhattan Financial](/setts/s16/w48r2wa6ra18w20ra8wa6g2ra6wa6ra4k20wa8k14w24b4-b2c2c80-g006818-k101010-rc80000-ra888888-we0e0e0-wafcfcfc/) — ΔT 0.48
+1. [Fothergill (Personal)](/setts/s11/w50b3w8b8ba12r4ba12g16ga12ra4w4-b2c2c80-ba202060-g006818-ga003820-rc80000-ra888888-wfcfcfc/) — ΔT 1.09
+1. [Tom Morris (Official)](/setts/s13/w38b5w6b5w4k20w38g12wa3ba30wa3ba2wa7-b982699-ba57565c-g797876-k01083e-wc5c1bd-waffffff/) — ΔT 1.31
+1. [Fothergill, Baron of Kinross (Personal)](/setts/s11/w50b3w8b8ba12r4ba12g16ga12bb4w4-b0000cd-ba000080-bb666666-g008b00-ga006400-rff0000-wffffff/) — ΔT 1.33
+1. [Highlands of Haliburton Dress](/setts/s15/b8w4b2w38r4ba8b16g8w4b6ra4g4ba4r4ra4-b2683bc-ba3f1000-g006718-rbe120e-rab17d0d-wffffff/) — ΔT 1.36
+1. [Scotland the Brave Dress (Dance)](/setts/s18/w12k4w80b4ba24g24r12g4r4g8r4g4r12g24ba24b4w80k4-b780078-ba2c2c80-g006818-k101010-rb468ac-wf8f8f8/) — ΔT 1.38
+1. [Antarctic](/setts/s12/b2w76wa4w4wa11r11y7k11w4b11ba32w2-b5480b0-ba102040-k000000-rf07040-we0e0e0-wac0c0c0-yffe000/) — ΔT 1.40
+1. [Antarctic](/setts/s12/b2w76r4w4r11y11ya7k11w4b11ba32w2-b5c8ca8-ba1c0070-k101010-r888888-we0e0e0-yd87c00-yae8c000/) — ΔT 1.47
+1. [Hay - Stewart (Fashion)](/setts/s14/w18r10w58b6k20y4k6w6k6g24r12k6r6w4-b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00/) — ΔT 1.47
+1. [Stewart Victoria (Royal)](/setts/s14/r8w96b12w12k24y4k4w4k4g32r16k4r8w4-b2474e8-g006818-k101010-r880000-we0e0e0-yd09800/) — ΔT 1.51
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/w48r2wa6ra18w20ra8wa6g2ra6wa6ra4k20wa8k14w24b4-b2c2c80-g006818-k101010-rc80000-ra888888-we0e0e0-wafcfcfc/"><circle cx="150.0" cy="51.3" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s11/w50b3w8b8ba12r4ba12g16ga12ra4w4-b2c2c80-ba202060-g006818-ga003820-rc80000-ra888888-wfcfcfc/"><circle cx="134.9" cy="72.7" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/setts/s13/w38b5w6b5w4k20w38g12wa3ba30wa3ba2wa7-b982699-ba57565c-g797876-k01083e-wc5c1bd-waffffff/"><circle cx="193.8" cy="89.5" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s11/w50b3w8b8ba12r4ba12g16ga12bb4w4-b0000cd-ba000080-bb666666-g008b00-ga006400-rff0000-wffffff/"><circle cx="129.8" cy="72.8" r="4" fill="#3465a4"><title>Fothergill, Baron of Kinross (Personal)</title></circle></a><a href="/setts/s15/b8w4b2w38r4ba8b16g8w4b6ra4g4ba4r4ra4-b2683bc-ba3f1000-g006718-rbe120e-rab17d0d-wffffff/"><circle cx="128.4" cy="66.6" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/setts/s18/w12k4w80b4ba24g24r12g4r4g8r4g4r12g24ba24b4w80k4-b780078-ba2c2c80-g006818-k101010-rb468ac-wf8f8f8/"><circle cx="202.1" cy="48.4" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s12/b2w76wa4w4wa11r11y7k11w4b11ba32w2-b5480b0-ba102040-k000000-rf07040-we0e0e0-wac0c0c0-yffe000/"><circle cx="200.6" cy="19.9" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s12/b2w76r4w4r11y11ya7k11w4b11ba32w2-b5c8ca8-ba1c0070-k101010-r888888-we0e0e0-yd87c00-yae8c000/"><circle cx="205.2" cy="22.3" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s14/w18r10w58b6k20y4k6w6k6g24r12k6r6w4-b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00/"><circle cx="146.5" cy="79.8" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/setts/s14/r8w96b12w12k24y4k4w4k4g32r16k4r8w4-b2474e8-g006818-k101010-r880000-we0e0e0-yd09800/"><circle cx="212.4" cy="45.8" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><circle cx="148.1" cy="49.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s16/w48r2g5wa18w20wa8g6ga2wa6g5wa4k20g8k14w24b4-b304080-g808080-ga008000-k000000-rc00000-we0e0e0-wac0c0c0/

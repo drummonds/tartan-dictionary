@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/8 DG46 K44 P6 DB44 DR2 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacNeil](/setts/s7/y2k6g30k28b32r4ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 0.78
+1. [MacNeil](/setts/s7/y1k3g15k14b16r2ya1-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 0.78
+1. [National Wedding (Fashion)](/setts/s9/g44y4g8b6g8k40ba40k2w6-b64008c-ba000064-g003014-k000000-wc8c8c8-yc48800/) — ΔT 0.92
+1. [National Wedding](/setts/s9/g44y4g8b6g8k40ba40k2w6-b64008c-ba000080-g003014-k000000-wc8c8c8-yc48800/) — ΔT 0.97
+1. [MacNeil](/setts/s7/w2r4b32k28g30k6y2-b000064-g004c00-k000000-rc80000-wd0d0d0-yffff00/) — ΔT 1.05
+1. [Ayre (Personal)](/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 1.39
+1. [MacLeod](/setts/s7/r3k2g15k10b21k1y2-b00004c-g004c00-k000000-rc80000-yffff00/) — ΔT 1.41
+1. [MacNeil - 1840 (Chief's sett)](/setts/s7/w4r6b66k66g66k12y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.45
+1. [St Andrews Golf Club](/setts/s9/r4g12ga4g20k4g4k36b48w4-b141c50-g40584c-ga5c8898-k000000-rec5c28-we0e0d8/) — ΔT 1.46
+1. [Colqhoun VS](/setts/s7/b8k4b32y2k16g48r8-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/y2k6g30k28b32r4ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="162.4" cy="165.0" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s7/y1k3g15k14b16r2ya1-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="162.4" cy="165.0" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s9/g44y4g8b6g8k40ba40k2w6-b64008c-ba000064-g003014-k000000-wc8c8c8-yc48800/"><circle cx="188.3" cy="137.0" r="4" fill="#3465a4"><title>National Wedding (Fashion)</title></circle></a><a href="/setts/s9/g44y4g8b6g8k40ba40k2w6-b64008c-ba000080-g003014-k000000-wc8c8c8-yc48800/"><circle cx="183.3" cy="134.6" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/w2r4b32k28g30k6y2-b000064-g004c00-k000000-rc80000-wd0d0d0-yffff00/"><circle cx="144.6" cy="157.2" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="154.3" cy="150.8" r="4" fill="#3465a4"><title>Ayre (Personal)</title></circle></a><a href="/setts/s7/r3k2g15k10b21k1y2-b00004c-g004c00-k000000-rc80000-yffff00/"><circle cx="197.4" cy="158.7" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s7/w4r6b66k66g66k12y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="176.8" cy="156.5" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/setts/s9/r4g12ga4g20k4g4k36b48w4-b141c50-g40584c-ga5c8898-k000000-rec5c28-we0e0d8/"><circle cx="152.0" cy="144.3" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/setts/s7/b8k4b32y2k16g48r8-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="243.2" cy="166.2" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><circle cx="158.8" cy="151.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b8g46k44ba6bb44b2w4-b3c0014-ba9800a0-bb000048-g004028-k000000-wfcfcfc/

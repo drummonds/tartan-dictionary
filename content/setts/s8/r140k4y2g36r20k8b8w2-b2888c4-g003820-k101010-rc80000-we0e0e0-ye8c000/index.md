@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/2 B8 K8 R20 DG36 Y2 K4 R/140 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Prince Charles Cloak](/setts/s8/r96b6y2g28r16b6w8ya2-b00004c-g004c00-rc80000-wd0d0d0-yc8c800-yab0b0b0/) — ΔT 0.89
+1. [Zamzam (Personal)](/setts/s8/r140b2r4g24k4g2k20w2-b1474b4-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.91
+1. [MacAulay (MacGregor)](/setts/s9/r192b2g48b2r20b2g24k2w8-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.02
+1. [Inverness Cathedral (Corporate)](/setts/s9/r144b12y2b24k8w2ba8w2k10-b2c2c80-ba5c5c5c-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.03
+1. [MacAulay of Ardincaple (Clan)](/setts/s9/r100b6g12b2r6b2g16k2w6-b2c2c80-g006818-k101010-rc80000-wc0c0c0/) — ΔT 1.09
+1. [Brodie](/setts/s8/r96y8b8k8r24b8r2ya8-b000052-k000000-raa0000-yaaaaaa-yaaaaa00/) — ΔT 1.12
+1. [Brodie](/setts/s8/r48y4b4k4r12b4r1ya4-b000052-k000000-raa0000-yaaaaaa-yaaaaa00/) — ΔT 1.12
+1. [Royal Stewart - 1819](/setts/s12/r134b10k14y2k3w3k3g21r11k3r4w2-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.12
+1. [Brodie of that Ilk & the Burn Clan Tartan Tartan Number: 1684. Earliest known date: 1856 Peters' book, 'The Baronage of Angus and Mearns' (1856), provides the full title of this tartan which also appears in the manuscript prepared for the Vestiarium Scoticum. Peters did not give any clue to the origin of the tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r96w8b8k8r24b8r2y8-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.13
+1. [Prince Charles Cloak](/setts/s8/r96b6y2g28r16b6ba8ya2-b000052-ba4367ae-g11450d-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r96b6y2g28r16b6w8ya2-b00004c-g004c00-rc80000-wd0d0d0-yc8c800-yab0b0b0/"><circle cx="443.5" cy="61.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/setts/s8/r140b2r4g24k4g2k20w2-b1474b4-g006818-k101010-rc80000-we0e0e0/"><circle cx="527.2" cy="68.4" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/setts/s9/r192b2g48b2r20b2g24k2w8-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="513.5" cy="62.5" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/setts/s9/r144b12y2b24k8w2ba8w2k10-b2c2c80-ba5c5c5c-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="465.8" cy="43.2" r="4" fill="#3465a4"><title>Inverness Cathedral (Corporate)</title></circle></a><a href="/setts/s9/r100b6g12b2r6b2g16k2w6-b2c2c80-g006818-k101010-rc80000-wc0c0c0/"><circle cx="506.0" cy="66.4" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/setts/s8/r96y8b8k8r24b8r2ya8-b000052-k000000-raa0000-yaaaaaa-yaaaaa00/"><circle cx="517.8" cy="82.6" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r48y4b4k4r12b4r1ya4-b000052-k000000-raa0000-yaaaaaa-yaaaaa00/"><circle cx="517.8" cy="82.6" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s12/r134b10k14y2k3w3k3g21r11k3r4w2-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="483.7" cy="23.6" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/setts/s8/r96w8b8k8r24b8r2y8-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="522.4" cy="77.1" r="4" fill="#3465a4"><title>Brodie of that Ilk &amp; the Burn Clan Tartan Tartan Number: 1684. Earliest known date: 1856 Peters' book, 'The Baronage of Angus and Mearns' (1856), provides the full title of this tartan which also appears in the manuscript prepared for the Vestiarium Scoticum. Peters did not give any clue to the origin of the tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r96b6y2g28r16b6ba8ya2-b000052-ba4367ae-g11450d-raa0000-yaaaa00-yaaaaaaa/"><circle cx="470.4" cy="78.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><circle cx="503.2" cy="60.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r140k4y2g36r20k8b8w2-b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/

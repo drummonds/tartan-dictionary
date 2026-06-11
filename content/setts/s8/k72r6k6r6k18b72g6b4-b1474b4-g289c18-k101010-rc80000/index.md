@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/4 G6 B72 K18 R6 K6 R6 K/72 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ewbank](/setts/s9/r6b28y4k4b28k72y4k4y4-b1474b4-k101010-rc80000-ye8c000/) — ΔT 0.60
+1. [Sorbie (Name)](/setts/s6/r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/) — ΔT 0.83
+1. [Sorbie](/setts/s10/k4b68k68b4r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/) — ΔT 0.89
+1. [Rhys (Welsh Name)](/setts/s10/y6b3y3b15ba7y7ba5y17ba46y4-b202060-ba000048-ya08858/) — ΔT 0.92
+1. [Gracie](/setts/s8/g94r6g12b70y6b70g12r6-b1c0070-g006818-r880000-yd09800/) — ΔT 0.92
+1. [Colvin](/setts/s8/b72w8b8w8b32g128r18b12-b00008c-g004c00-r8c0000-wc8c8c8/) — ΔT 0.96
+1. [Greenways Marketing Intl (Corporate)](/setts/s7/b48g6b6g6y4g36r4-b1c0070-g006818-r880000-yd09800/) — ΔT 1.00
+1. [Frederiction Police Force](/setts/s8/r12k110b16g12b20g12b12g8-b2c2c80-g289c18-k101010-rc80000/) — ΔT 1.03
+1. [MacRobart](/setts/s6/b144k42g32ba6g34ba6-b304080-ba5480b0-g008000-k000000/) — ΔT 1.04
+1. [Kunbi](/setts/s8/k76b11k3y6k3b13k11r76-b003c64-k101010-r888888-ye8c000/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r6b28y4k4b28k72y4k4y4-b1474b4-k101010-rc80000-ye8c000/"><circle cx="304.7" cy="141.9" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/setts/s6/r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/"><circle cx="312.0" cy="170.7" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/setts/s10/k4b68k68b4r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/"><circle cx="311.3" cy="161.5" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/setts/s10/y6b3y3b15ba7y7ba5y17ba46y4-b202060-ba000048-ya08858/"><circle cx="281.0" cy="156.5" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><a href="/setts/s8/g94r6g12b70y6b70g12r6-b1c0070-g006818-r880000-yd09800/"><circle cx="322.4" cy="185.9" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/setts/s8/b72w8b8w8b32g128r18b12-b00008c-g004c00-r8c0000-wc8c8c8/"><circle cx="285.6" cy="173.5" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/setts/s7/b48g6b6g6y4g36r4-b1c0070-g006818-r880000-yd09800/"><circle cx="308.6" cy="193.5" r="4" fill="#3465a4"><title>Greenways Marketing Intl (Corporate)</title></circle></a><a href="/setts/s8/r12k110b16g12b20g12b12g8-b2c2c80-g289c18-k101010-rc80000/"><circle cx="317.8" cy="165.9" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/setts/s6/b144k42g32ba6g34ba6-b304080-ba5480b0-g008000-k000000/"><circle cx="323.8" cy="169.9" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/setts/s8/k76b11k3y6k3b13k11r76-b003c64-k101010-r888888-ye8c000/"><circle cx="294.6" cy="138.0" r="4" fill="#3465a4"><title>Kunbi</title></circle></a><circle cx="314.6" cy="158.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k72r6k6r6k18b72g6b4-b1474b4-g289c18-k101010-rc80000/

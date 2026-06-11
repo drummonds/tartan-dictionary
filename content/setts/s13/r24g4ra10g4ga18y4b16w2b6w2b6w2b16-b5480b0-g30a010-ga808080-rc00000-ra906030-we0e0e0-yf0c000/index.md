@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 | Y | <code style="background-color:#F0C000;"><span style="color:#F0C000;filter:grayscale(1) invert(1) contrast(100);">#F0C000</span></code> `#F0C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Meath](/setts/s12/r10b4ra28ba18g16bb6ra6bb6ra6bb6g38w6-b304080-ba401000-bb5480b0-g407050-r906030-rac00000-we0e0e0/) — ΔT 1.20
+1. [Saint Joseph de Sorel #2](/setts/s13/b32r48g8y20g8w36ya12b32wa4b12wa4b12wa4-b2888c4-g289c18-rc80000-wc0c0c0-wafcfcfc-ya08858-yae8c000/) — ΔT 1.24
+1. [Wisconsin](/setts/s11/b44r6b4w6ba28g40wa4g40ba28b22y12-b6299b7-ba3a3532-g4a7472-rff7163-wf6ede8-wafef67a-ya99c8b/) — ΔT 1.33
+1. [Saint Joseph de Sorel](/setts/s16/b16w2b6w2b6w2b16y4r18g4ya10g4ra24b16b6b6-b5c8ca8-g289c18-r888888-rac80000-wfcfcfc-ye8c000-yaa08858/) — ΔT 1.40
+1. [Jewel Look JTB (Corporate)](/setts/s15/g4r2ra4w3ra4r4ra6rb21r4g2r2g20r4g2y4-g408060-r888888-rac80000-rb9c68a4-we0e0e0-ye8c000/) — ΔT 1.42
+1. [Scotland Forever Antique (Fashion)](/setts/s11/r12k6b38k12b8k6ra24y8ra24w4r10-b5c5c5c-k101010-r888894-ra888888-wfcfcfc-ya0a0a0/) — ΔT 1.49
+1. [Isle of Man (District)](/setts/s13/r4b44y8w6g14ya4g8w4g18ra12ya4ra8w4-b5c8ca8-g006818-rc80000-rab468ac-we0e0e0-ya08858-yafccc00/) — ΔT 1.50
+1. [Australian Heavy Horse](/setts/s10/b8ba4b36k4bb10bc32w4bb4y4b8-b817d8c-ba2b6072-bb676278-bc4f2817-k101010-wffffff-yb98a76/) — ΔT 1.54
+1. [Asman Hunting](/setts/s11/b8y6b34r14w4ra14w4b14g34ra6g8-b304080-g407050-rc00000-ra806050-we0e0e0-yf0c000/) — ΔT 1.54
+1. [Commonwealth Games 1998 (Corporate)](/setts/s11/g20r4g4ra8g32b32ra4ba36y4ba16ra6-b780078-ba788cb4-g006818-rb42864-raa00048-yc88c00/) — ΔT 1.55
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r10b4ra28ba18g16bb6ra6bb6ra6bb6g38w6-b304080-ba401000-bb5480b0-g407050-r906030-rac00000-we0e0e0/"><circle cx="126.6" cy="137.7" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/setts/s13/b32r48g8y20g8w36ya12b32wa4b12wa4b12wa4-b2888c4-g289c18-rc80000-wc0c0c0-wafcfcfc-ya08858-yae8c000/"><circle cx="105.5" cy="116.4" r="4" fill="#3465a4"><title>Saint Joseph de Sorel #2</title></circle></a><a href="/setts/s11/b44r6b4w6ba28g40wa4g40ba28b22y12-b6299b7-ba3a3532-g4a7472-rff7163-wf6ede8-wafef67a-ya99c8b/"><circle cx="126.1" cy="156.7" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s16/b16w2b6w2b6w2b16y4r18g4ya10g4ra24b16b6b6-b5c8ca8-g289c18-r888888-rac80000-wfcfcfc-ye8c000-yaa08858/"><circle cx="213.0" cy="134.3" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s15/g4r2ra4w3ra4r4ra6rb21r4g2r2g20r4g2y4-g408060-r888888-rac80000-rb9c68a4-we0e0e0-ye8c000/"><circle cx="169.4" cy="134.2" r="4" fill="#3465a4"><title>Jewel Look JTB (Corporate)</title></circle></a><a href="/setts/s11/r12k6b38k12b8k6ra24y8ra24w4r10-b5c5c5c-k101010-r888894-ra888888-wfcfcfc-ya0a0a0/"><circle cx="116.1" cy="169.2" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/setts/s13/r4b44y8w6g14ya4g8w4g18ra12ya4ra8w4-b5c8ca8-g006818-rc80000-rab468ac-we0e0e0-ya08858-yafccc00/"><circle cx="102.2" cy="110.9" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><a href="/setts/s10/b8ba4b36k4bb10bc32w4bb4y4b8-b817d8c-ba2b6072-bb676278-bc4f2817-k101010-wffffff-yb98a76/"><circle cx="200.5" cy="139.1" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s11/b8y6b34r14w4ra14w4b14g34ra6g8-b304080-g407050-rc00000-ra806050-we0e0e0-yf0c000/"><circle cx="150.3" cy="169.4" r="4" fill="#3465a4"><title>Asman Hunting</title></circle></a><a href="/setts/s11/g20r4g4ra8g32b32ra4ba36y4ba16ra6-b780078-ba788cb4-g006818-rb42864-raa00048-yc88c00/"><circle cx="137.8" cy="160.6" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><circle cx="145.8" cy="130.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/r24g4ra10g4ga18y4b16w2b6w2b6w2b16-b5480b0-g30a010-ga808080-rc00000-ra906030-we0e0e0-yf0c000/

@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DR | <code style="background-color:#AA0000;"><span style="color:#AA0000;filter:grayscale(1) invert(1) contrast(100);">#AA0000</span></code> `#AA0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.06 |
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacDonald](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000064-g004c00-k000000-rc80000/) — ΔT 0.52
+1. [Murray of Atholl](/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b000052-g11450d-k000000-raa0000/) — ΔT 0.65
+1. [Murray of Atholl](/setts/s13/b12k2b2k2b2k12g12r3g12k12b12k1r3-b000052-g11450d-k000000-raa0000/) — ΔT 0.65
+1. [Murray of Atholl](/setts/s13/b12k2b2k2b2k12g12r3g12k12b12k1r3-b000064-g004c00-k000000-rc80000/) — ΔT 0.68
+1. [Urquhart D](/setts/s9/r6b12k2b2k2b2k12g18k4-b000052-g11450d-k000000-raa0000/) — ΔT 0.83
+1. [MacDonald of Clanranald](/setts/s13/b16r2b4r6b24r2k24y2g24r6g4r2g16-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.89
+1. [Campbell of Breadalbane (Military)](/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b202060-g006818-k101010-ye8c000/) — ΔT 0.91
+1. [Dewar, Highlander](/setts/s13/g46k5g6k5g6k30b38y6b38k30g36k6g6-b304080-g004010-k000000-yf0c000/) — ΔT 0.91
+1. [MacDonell of Glengarry](/setts/s11/b16r8b24r2k24g24r6g4r2g8y2-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.92
+1. [Murray of Atholl #3](/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.93
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000064-g004c00-k000000-rc80000/"><circle cx="165.4" cy="181.1" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b000052-g11450d-k000000-raa0000/"><circle cx="179.5" cy="198.4" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s13/b12k2b2k2b2k12g12r3g12k12b12k1r3-b000052-g11450d-k000000-raa0000/"><circle cx="179.5" cy="198.4" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s13/b12k2b2k2b2k12g12r3g12k12b12k1r3-b000064-g004c00-k000000-rc80000/"><circle cx="164.9" cy="191.9" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s9/r6b12k2b2k2b2k12g18k4-b000052-g11450d-k000000-raa0000/"><circle cx="174.7" cy="210.6" r="4" fill="#3465a4"><title>Urquhart D</title></circle></a><a href="/setts/s13/b16r2b4r6b24r2k24y2g24r6g4r2g16-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="155.8" cy="162.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b202060-g006818-k101010-ye8c000/"><circle cx="202.3" cy="175.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/setts/s13/g46k5g6k5g6k30b38y6b38k30g36k6g6-b304080-g004010-k000000-yf0c000/"><circle cx="187.6" cy="196.6" r="4" fill="#3465a4"><title>Dewar, Highlander</title></circle></a><a href="/setts/s11/b16r8b24r2k24g24r6g4r2g8y2-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="148.9" cy="172.4" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b2c2c80-g006818-k101010-rc80000/"><circle cx="185.3" cy="194.8" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><circle cx="180.5" cy="188.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b000052-g11450d-k000000-raa0000/

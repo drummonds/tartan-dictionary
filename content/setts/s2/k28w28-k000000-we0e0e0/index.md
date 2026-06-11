@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/28 LN/28 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Shepherd](/setts/s2/k15w15-k000000-we0e0e0/) — ΔT 0.00
+1. [Shepherd](/setts/s2/k1y1-k000000-yaaaaaa/) — ΔT 0.73
+1. [Shepherd Check (Universal)](/setts/s2/k6w6-k101010-we0e0e0/) — ΔT 0.75
+1. [Shepherd Historic Tartan Tartan Number: 1253. Earliest known date: 250 A.D. The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/k15w15-k101010-we0e0e0/) — ΔT 0.75
+1. [Northumberland (District)](/setts/s2/k6w6-k101010-wf8f8f8/) — ΔT 1.04
+1. [Falkirk Tartan](/setts/s2/k24w24-k1e160e-we8dcc0/) — ΔT 1.06
+1. [Northumberland](/setts/s3/k10w10k10-k101010-wf8f8f8/) — ΔT 1.64
+1. [Shepherd or Falkirk](/setts/s4/k6w6k6w6-k101010-wf8e8d8/) — ΔT 1.68
+1. [Wilson's, No 116](/setts/s2/b16g16-b800080-g008000/) — ΔT 1.76
+1. [Justus Check (Personal)](/setts/s2/k40y40-k101010-ye8c000/) — ΔT 1.79
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k15w15-k000000-we0e0e0/"><circle cx="115.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd</title></circle></a><a href="/setts/s2/k1y1-k000000-yaaaaaa/"><circle cx="123.7" cy="366.0" r="4" fill="#3465a4"><title>Shepherd</title></circle></a><a href="/setts/s2/k6w6-k101010-we0e0e0/"><circle cx="117.1" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Check (Universal)</title></circle></a><a href="/setts/s2/k15w15-k101010-we0e0e0/"><circle cx="117.1" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Historic Tartan Tartan Number: 1253. Earliest known date: 250 A.D. The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s2/k6w6-k101010-wf8f8f8/"><circle cx="113.1" cy="366.0" r="4" fill="#3465a4"><title>Northumberland (District)</title></circle></a><a href="/setts/s2/k24w24-k1e160e-we8dcc0/"><circle cx="120.6" cy="366.0" r="4" fill="#3465a4"><title>Falkirk Tartan</title></circle></a><a href="/setts/s3/k10w10k10-k101010-wf8f8f8/"><circle cx="186.2" cy="366.0" r="4" fill="#3465a4"><title>Northumberland</title></circle></a><a href="/setts/s4/k6w6k6w6-k101010-wf8e8d8/"><circle cx="101.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><a href="/setts/s2/b16g16-b800080-g008000/"><circle cx="167.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/setts/s2/k40y40-k101010-ye8c000/"><circle cx="124.7" cy="366.0" r="4" fill="#3465a4"><title>Justus Check (Personal)</title></circle></a><circle cx="115.6" cy="366.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s2/k28w28-k000000-we0e0e0/

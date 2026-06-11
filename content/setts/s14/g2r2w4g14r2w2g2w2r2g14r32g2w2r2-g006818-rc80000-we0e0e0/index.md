@@ -22,4 +22,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mordente (Personal)](/setts/s14/g4r2w4g14r2w2g2w2r2g14r32g2w2r4-g006818-rc80000-wfcfcfc/) — ΔT 0.34
+1. [Mordente (Personal)](/setts/s14/g8r4w8g28r4w4g4w4r4g28r64g4w4r8-g006818-rc80000-wfcfcfc/) — ΔT 0.34
+1. [Mordente](/setts/s14/g2r2w4g14r2w2g2w2r2g14r32g2w2r2-g008000-rc00000-we0e0e0/) — ΔT 0.37
+1. [Bruce, Old](/setts/s14/r45b4r4g48r4b4r4b15r4b4r40g4r4g30-b304080-g008000-rc00000/) — ΔT 1.14
+1. [MacQuarrie #4](/setts/s13/g2r2g2r2g28r2k20r2g2r42g2r2k2-g005020-k101010-rdc0000/) — ΔT 1.26
+1. [MacDonell of Glengarry](/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/) — ΔT 1.26
+1. [Fort William (Fashion)](/setts/s11/r20w4y6w4b48w8b8r68b4w6b4-b381c0c-rb07430-w94acfc-y38c438/) — ΔT 1.27
+1. [Crieff](/setts/s13/r4ra10g7ra70g7ra4b21ra4g85ra4g7ra10r4-b800080-g008000-rd03030-rac00000/) — ΔT 1.28
+1. [Bruce Old](/setts/s14/r45b4r4g48r4b4r4b15r4b4r40g4r4g30-b2c4084-g005020-rdc0000/) — ΔT 1.28
+1. [Hayes (Fashion)](/setts/s14/r8g4y4g48r4g4r4g16r68g12r8g4r8ya8-g004c00-rc80000-yc89800-yab0b0b0/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g4r2w4g14r2w2g2w2r2g14r32g2w2r4-g006818-rc80000-wfcfcfc/"><circle cx="309.7" cy="125.2" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/setts/s14/g8r4w8g28r4w4g4w4r4g28r64g4w4r8-g006818-rc80000-wfcfcfc/"><circle cx="309.7" cy="125.2" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/setts/s14/g2r2w4g14r2w2g2w2r2g14r32g2w2r2-g008000-rc00000-we0e0e0/"><circle cx="319.0" cy="124.9" r="4" fill="#3465a4"><title>Mordente</title></circle></a><a href="/setts/s14/r45b4r4g48r4b4r4b15r4b4r40g4r4g30-b304080-g008000-rc00000/"><circle cx="320.2" cy="163.7" r="4" fill="#3465a4"><title>Bruce, Old</title></circle></a><a href="/setts/s13/g2r2g2r2g28r2k20r2g2r42g2r2k2-g005020-k101010-rdc0000/"><circle cx="329.6" cy="116.7" r="4" fill="#3465a4"><title>MacQuarrie #4</title></circle></a><a href="/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/"><circle cx="361.7" cy="145.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/r20w4y6w4b48w8b8r68b4w6b4-b381c0c-rb07430-w94acfc-y38c438/"><circle cx="296.0" cy="126.9" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/setts/s13/r4ra10g7ra70g7ra4b21ra4g85ra4g7ra10r4-b800080-g008000-rd03030-rac00000/"><circle cx="325.2" cy="112.8" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/setts/s14/r45b4r4g48r4b4r4b15r4b4r40g4r4g30-b2c4084-g005020-rdc0000/"><circle cx="318.2" cy="160.0" r="4" fill="#3465a4"><title>Bruce Old</title></circle></a><a href="/setts/s14/r8g4y4g48r4g4r4g16r68g12r8g4r8ya8-g004c00-rc80000-yc89800-yab0b0b0/"><circle cx="345.3" cy="123.6" r="4" fill="#3465a4"><title>Hayes (Fashion)</title></circle></a><circle cx="320.7" cy="124.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s14/g2r2w4g14r2w2g2w2r2g14r32g2w2r2-g006818-rc80000-we0e0e0/

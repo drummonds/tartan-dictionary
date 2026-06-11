@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/38 G46 DY6 DB30 DRa22 LY/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hawkes, Norman (Personal)](/setts/s6/g14w8k42b32ba32r10-b5c5c5c-ba2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.87
+1. [Eichelberger Family, Jörg (Personal)](/setts/s7/k40r12y16b48g16r16w8-b1a2b47-g124b24-k010512-r89051b-wddd5af-yef8f06/) — ΔT 0.97
+1. [Mekos, The](/setts/s6/g38ga46y6b30r22w10-b2c2c80-g603800-ga006818-rc80000-wfcfcfc-yfccc00/) — ΔT 1.06
+1. [Bro-Menez Are (Corporate)](/setts/s7/b16k50g26r10y10ra10r16-b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00/) — ΔT 1.09
+1. [Glen Chalmadale](/setts/s9/g26w4g20k10r26k6r10b30ra10-b003c64-g006818-k101010-rc80000-ra843c50-we0e0e0/) — ΔT 1.10
+1. [Falardeau-Murphy (Canada) (Personal)](/setts/s7/g42b42y6r42ba6bb10ba6-b5f749c-ba14283c-bb5a008c-g004c00-r960028-yffe600/) — ΔT 1.14
+1. [Atlantic, Ancient](/setts/s6/w6b34r32ba4g34y4-b304080-ba000050-g003000-r806050-we0e0e0-yf0c000/) — ΔT 1.19
+1. [Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w6b34g32ba4ga34y4-b2c2c80-ba202060-g604000-ga003820-we0e0e0-ye8c000/) — ΔT 1.20
+1. [Jamestown Parish Church (Corporate)](/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.21
+1. [Gracey (2013)](/setts/s7/r6b16g40k40ba34k6y6-b780078-ba202060-g006818-k101010-rc80050-y48a4c0/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g14w8k42b32ba32r10-b5c5c5c-ba2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="61.1" cy="227.8" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/setts/s7/k40r12y16b48g16r16w8-b1a2b47-g124b24-k010512-r89051b-wddd5af-yef8f06/"><circle cx="63.3" cy="202.7" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/setts/s6/g38ga46y6b30r22w10-b2c2c80-g603800-ga006818-rc80000-wfcfcfc-yfccc00/"><circle cx="67.6" cy="204.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s7/b16k50g26r10y10ra10r16-b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00/"><circle cx="94.7" cy="210.2" r="4" fill="#3465a4"><title>Bro-Menez Are (Corporate)</title></circle></a><a href="/setts/s9/g26w4g20k10r26k6r10b30ra10-b003c64-g006818-k101010-rc80000-ra843c50-we0e0e0/"><circle cx="87.8" cy="194.7" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/setts/s7/g42b42y6r42ba6bb10ba6-b5f749c-ba14283c-bb5a008c-g004c00-r960028-yffe600/"><circle cx="101.0" cy="188.6" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s6/w6b34r32ba4g34y4-b304080-ba000050-g003000-r806050-we0e0e0-yf0c000/"><circle cx="115.1" cy="194.5" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/setts/s6/w6b34g32ba4ga34y4-b2c2c80-ba202060-g604000-ga003820-we0e0e0-ye8c000/"><circle cx="127.9" cy="201.9" r="4" fill="#3465a4"><title>Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="70.8" cy="201.2" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/setts/s7/r6b16g40k40ba34k6y6-b780078-ba202060-g006818-k101010-rc80050-y48a4c0/"><circle cx="106.5" cy="208.0" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><circle cx="83.2" cy="214.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b38g46y6ba30r22w10-b441800-ba202060-g005448-r960028-wf8f4d0-yc88c00/

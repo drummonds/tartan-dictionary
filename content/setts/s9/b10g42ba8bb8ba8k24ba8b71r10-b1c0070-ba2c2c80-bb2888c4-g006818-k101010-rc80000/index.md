@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Schmidt (2014)](/setts/s10/k6b40ba16b8g40k4g4r4g6y6-b000048-ba202060-g005448-k101010-rc8002c-ye0a126/) — ΔT 0.81
+1. [Remember the Somme 1916](/setts/s8/g20ga8b8ba60r8bb8g20r8-b1870a4-ba000048-bb788cb4-g003c14-ga408060-r880000/) — ΔT 0.81
+1. [Suzugamine (Corporate)](/setts/s9/b8g10ga38ba10g10k10g10b72y6-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/) — ΔT 0.93
+1. [Scottish Italian](/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.13
+1. [Blairmore House](/setts/s8/b68w8b8r8b8ba48bb64y12-b003478-ba3c2010-bb0c5454-r8c0000-wffffff-yc88c00/) — ΔT 1.13
+1. [Yates](/setts/s8/k74r8b60ba14k20w10ba20g14-b000064-ba505050-g808080-k101010-rdc0000-we0e0e0/) — ΔT 1.16
+1. [Fed. of Circles & Solitaries (Corp.)](/setts/s10/b18k60b18ba6b10r6b10y6b10g6-b202060-ba2888c4-g006818-k101010-rc80000-ye8c000/) — ΔT 1.18
+1. [State Seal of North Dakota (Fashion)](/setts/s11/g74b10g10b24ba20bb10ba10bb80ga8bb8y8-b440044-ba1474b4-bb2c2c80-g006818-ga604000-ybc8c00/) — ΔT 1.22
+1. [Creiff Highland Gathering](/setts/s9/k6b32g10b6ba4b4k24bb46w4-b780078-ba9058d8-bb003c64-g006818-k101010-wfcfcfc/) — ΔT 1.22
+1. [Ertico](/setts/s10/k12y4b4ba24r8ba4r4ba4b40w4-b2c4084-ba141e46-k000000-ra00048-we0e0e0-yf8e38c/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k6b40ba16b8g40k4g4r4g6y6-b000048-ba202060-g005448-k101010-rc8002c-ye0a126/"><circle cx="186.1" cy="165.1" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/setts/s8/g20ga8b8ba60r8bb8g20r8-b1870a4-ba000048-bb788cb4-g003c14-ga408060-r880000/"><circle cx="184.6" cy="183.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s9/b8g10ga38ba10g10k10g10b72y6-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/"><circle cx="218.7" cy="151.0" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/"><circle cx="203.0" cy="152.3" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s8/b68w8b8r8b8ba48bb64y12-b003478-ba3c2010-bb0c5454-r8c0000-wffffff-yc88c00/"><circle cx="171.5" cy="183.8" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s8/k74r8b60ba14k20w10ba20g14-b000064-ba505050-g808080-k101010-rdc0000-we0e0e0/"><circle cx="169.7" cy="175.1" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s10/b18k60b18ba6b10r6b10y6b10g6-b202060-ba2888c4-g006818-k101010-rc80000-ye8c000/"><circle cx="232.6" cy="160.3" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries (Corp.)</title></circle></a><a href="/setts/s11/g74b10g10b24ba20bb10ba10bb80ga8bb8y8-b440044-ba1474b4-bb2c2c80-g006818-ga604000-ybc8c00/"><circle cx="188.4" cy="155.3" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s9/k6b32g10b6ba4b4k24bb46w4-b780078-ba9058d8-bb003c64-g006818-k101010-wfcfcfc/"><circle cx="163.0" cy="155.0" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/setts/s10/k12y4b4ba24r8ba4r4ba4b40w4-b2c4084-ba141e46-k000000-ra00048-we0e0e0-yf8e38c/"><circle cx="166.4" cy="140.5" r="4" fill="#3465a4"><title>Ertico</title></circle></a><circle cx="187.6" cy="170.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b10g42ba8bb8ba8k24ba8b71r10-b1c0070-ba2c2c80-bb2888c4-g006818-k101010-rc80000/

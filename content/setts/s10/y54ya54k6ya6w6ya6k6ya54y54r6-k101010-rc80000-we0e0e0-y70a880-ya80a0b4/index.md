@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Irving of Glentulchan (Personal)](/setts/s6/r6y54ya54k6ya6w6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/) — ΔT 1.27
+1. [Highland Road (Fashion)](/setts/s9/k6y30b6y8b6y8b20g60w6-b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0/) — ΔT 1.46
+1. [Chambers Bay](/setts/s7/g8b60y20g8b8g28w8-b5f749c-g408060-wffffff-yb0b0b0/) — ΔT 1.58
+1. [Un-named (D C Dalgliesh) #2](/setts/s10/b10y4b4y18k6b18g6b6g50ya4-b1474b4-g408060-k101010-y84a8b0-yaacb0b8/) — ΔT 1.64
+1. [Organic](/setts/s9/g50b6g16b26y16ya4yb22g4b6-b9058d8-g669999-yc89800-yaa0a0a0-ybc4bc68/) — ΔT 1.75
+1. [Irvine of Drum](/setts/s8/b6k6b42g98b42k6b6w6-b5c8ca8-g408060-k101010-wfcfcfc/) — ΔT 1.78
+1. [Kildare](/setts/s8/g16b4g26r8g24ba44g10ga6-b401000-ba5480b0-g407040-ga908000-rc00000/) — ΔT 1.80
+1. [Universal, Ancient](/setts/s8/b24g4b4g4b4r16ga16r2-b5480b0-g008000-ga30a010-r806050/) — ΔT 1.86
+1. [Clyde (WCWM Fashion)](/setts/s9/y4b56k4w4k4g52b6g10y4-b5c5c5c-g147880-k101010-wf8f8f8-yd87c00/) — ΔT 1.89
+1. [Dama Classic (Fashion)](/setts/s8/y60w6y6w6y24b60r6b10-b5c5c5c-r888888-wf0dcbc-ya0a0a0/) — ΔT 1.94
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r6y54ya54k6ya6w6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/"><circle cx="296.4" cy="207.3" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s9/k6y30b6y8b6y8b20g60w6-b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0/"><circle cx="263.7" cy="192.9" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/setts/s7/g8b60y20g8b8g28w8-b5f749c-g408060-wffffff-yb0b0b0/"><circle cx="302.9" cy="236.1" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/setts/s10/b10y4b4y18k6b18g6b6g50ya4-b1474b4-g408060-k101010-y84a8b0-yaacb0b8/"><circle cx="281.2" cy="180.6" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #2</title></circle></a><a href="/setts/s9/g50b6g16b26y16ya4yb22g4b6-b9058d8-g669999-yc89800-yaa0a0a0-ybc4bc68/"><circle cx="266.5" cy="184.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/setts/s8/b6k6b42g98b42k6b6w6-b5c8ca8-g408060-k101010-wfcfcfc/"><circle cx="363.3" cy="192.4" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/setts/s8/g16b4g26r8g24ba44g10ga6-b401000-ba5480b0-g407040-ga908000-rc00000/"><circle cx="346.9" cy="230.0" r="4" fill="#3465a4"><title>Kildare</title></circle></a><a href="/setts/s8/b24g4b4g4b4r16ga16r2-b5480b0-g008000-ga30a010-r806050/"><circle cx="286.4" cy="226.0" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/setts/s9/y4b56k4w4k4g52b6g10y4-b5c5c5c-g147880-k101010-wf8f8f8-yd87c00/"><circle cx="321.6" cy="170.7" r="4" fill="#3465a4"><title>Clyde (WCWM Fashion)</title></circle></a><a href="/setts/s8/y60w6y6w6y24b60r6b10-b5c5c5c-r888888-wf0dcbc-ya0a0a0/"><circle cx="342.0" cy="202.7" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><circle cx="311.8" cy="201.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/y54ya54k6ya6w6ya6k6ya54y54r6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/

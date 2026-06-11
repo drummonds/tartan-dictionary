@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Anderson Old (Makinlay)](/setts/s20/r16b32k2r8k2b104w16k2y4k8y4k28r4b28g32k2r8k2g32r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.44
+1. [Anderson, Old](/setts/s20/r16b32k2r8k2b104w16k2y4k8y4k28r4b28g32k2r8k2g32r16-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.70
+1. [Heather Isle](/setts/s14/g160b32ba16bb20g16y2b12r2b12y2g16bb20ba16b32-b003c64-ba440044-bb780078-g808834-r888888-ybc8c00/) — ΔT 1.43
+1. [Sillars](/setts/s22/g128k8b18y4b8y4b8g22r16b4r8w6r8b4r16g22b8y4b8y4b18k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.48
+1. [O'Mahony, The](/setts/s18/g4r4g36ra12b80y2b2y8w4y8b2y2b80ra12g36r4g4w2-b202060-g289c18-rc80000-ra888888-we0e0e0-ybc8c00/) — ΔT 1.49
+1. [Penman Clan Tartan Tartan Number: 166. Earliest known date: 1984 From design by the late William Penman. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r22b12g12y2b4y2g12b12r72k2ra6k2g10b10-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/) — ΔT 1.50
+1. [Coigach](/setts/s15/r6w6k6w6r6b16k2y4k2b16k4g60k2g20k4-b2c2c80-g006818-k101010-r800028-we8ccb8-ye8c000/) — ΔT 1.51
+1. [Westwood](/setts/s18/r12b8g32y4k2w12k2y60r30y60k2w12k2y4g32b8r12w2-b5c8ca8-g003820-k101010-rc80000-we0e0e0-ya08858/) — ΔT 1.52
+1. [Alexander-Johnstone (Personal)](/setts/s14/y6b4k2b48k4b4k4b4k4g16ba4g16k2w4-b5c8ca8-ba440044-g006818-k101010-wfcfcfc-ye8c000/) — ΔT 1.58
+1. [State Seal of Georgia (Fashion)](/setts/s11/k20b26k6w14k2y40ya6w26r10y94k6-b2c2c80-k101010-rc80000-w98c8e8-ya08858-yabc8c00/) — ΔT 1.60
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/r16b32k2r8k2b104w16k2y4k8y4k28r4b28g32k2r8k2g32r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="240.0" cy="32.6" r="4" fill="#3465a4"><title>Anderson Old (Makinlay)</title></circle></a><a href="/setts/s20/r16b32k2r8k2b104w16k2y4k8y4k28r4b28g32k2r8k2g32r16-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="224.5" cy="25.9" r="4" fill="#3465a4"><title>Anderson, Old</title></circle></a><a href="/setts/s14/g160b32ba16bb20g16y2b12r2b12y2g16bb20ba16b32-b003c64-ba440044-bb780078-g808834-r888888-ybc8c00/"><circle cx="332.0" cy="50.3" r="4" fill="#3465a4"><title>Heather Isle</title></circle></a><a href="/setts/s22/g128k8b18y4b8y4b8g22r16b4r8w6r8b4r16g22b8y4b8y4b18k8-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="279.5" cy="36.6" r="4" fill="#3465a4"><title>Sillars</title></circle></a><a href="/setts/s18/g4r4g36ra12b80y2b2y8w4y8b2y2b80ra12g36r4g4w2-b202060-g289c18-rc80000-ra888888-we0e0e0-ybc8c00/"><circle cx="291.9" cy="43.1" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s14/r22b12g12y2b4y2g12b12r72k2ra6k2g10b10-b2c2c80-g006818-k101010-r888888-rac80000-ye8c000/"><circle cx="308.6" cy="71.9" r="4" fill="#3465a4"><title>Penman Clan Tartan Tartan Number: 166. Earliest known date: 1984 From design by the late William Penman. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r6w6k6w6r6b16k2y4k2b16k4g60k2g20k4-b2c2c80-g006818-k101010-r800028-we8ccb8-ye8c000/"><circle cx="252.2" cy="70.8" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/setts/s18/r12b8g32y4k2w12k2y60r30y60k2w12k2y4g32b8r12w2-b5c8ca8-g003820-k101010-rc80000-we0e0e0-ya08858/"><circle cx="208.0" cy="61.1" r="4" fill="#3465a4"><title>Westwood</title></circle></a><a href="/setts/s14/y6b4k2b48k4b4k4b4k4g16ba4g16k2w4-b5c8ca8-ba440044-g006818-k101010-wfcfcfc-ye8c000/"><circle cx="242.9" cy="76.7" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/setts/s11/k20b26k6w14k2y40ya6w26r10y94k6-b2c2c80-k101010-rc80000-w98c8e8-ya08858-yabc8c00/"><circle cx="281.5" cy="67.2" r="4" fill="#3465a4"><title>State Seal of Georgia (Fashion)</title></circle></a><circle cx="242.8" cy="32.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s20/r16b32k2r8k2b104w16k2y4k8y4k28r4b28g32k2r8k2g32r16-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/

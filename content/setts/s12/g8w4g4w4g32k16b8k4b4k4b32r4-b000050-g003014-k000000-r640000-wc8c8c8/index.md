@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.13 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Campbell of Loudon](/setts/s13/y4k2g24k24b24k2b4k2b24k24g24k2ya4-b000052-g11450d-k000000-yaaaa00-yaaaaaaa/) — ΔT 0.92
+1. [MacDonell of Glengarry D](/setts/s13/b16r2b4r6b24r2k24g24r6g4r2g8y2-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.94
+1. [MacDonell of Glengarry D](/setts/s13/b8r1b2r3b12r1k12g12r3g2r1g4y1-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.94
+1. [MacEwan](/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b000052-g11450d-k000000-raa0000-yaaaa00/) — ΔT 0.94
+1. [Barnes Hunting (Personal)](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/) — ΔT 0.95
+1. [MacKenzie](/setts/s15/b24k4b4k4b4k24g24k2y4k2g24k24b24k2r4-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.97
+1. [MacKenzie](/setts/s15/b12k2b2k2b2k12g12k1y2k1g12k12b12k1r2-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.97
+1. [MacKenzie](/setts/s15/b12k2b2k2b2k12g12k1w2k1g12k12b12k1r2-b000064-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 0.98
+1. [MacDonald of Clanranald](/setts/s13/b16r2b4r6b24r2k24y2g24r6g4r2g16-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 0.99
+1. [MacEwan](/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b00004c-g004c00-k000000-rc80000-yffc800/) — ΔT 1.01
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/y4k2g24k24b24k2b4k2b24k24g24k2ya4-b000052-g11450d-k000000-yaaaa00-yaaaaaaa/"><circle cx="163.2" cy="171.0" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/b16r2b4r6b24r2k24g24r6g4r2g8y2-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="162.7" cy="158.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/b8r1b2r3b12r1k12g12r3g2r1g4y1-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="162.7" cy="158.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b000052-g11450d-k000000-raa0000-yaaaa00/"><circle cx="170.3" cy="173.5" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/"><circle cx="193.3" cy="180.5" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/setts/s15/b24k4b4k4b4k24g24k2y4k2g24k24b24k2r4-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="177.7" cy="165.2" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/b12k2b2k2b2k12g12k1y2k1g12k12b12k1r2-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="177.7" cy="165.2" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/b12k2b2k2b2k12g12k1w2k1g12k12b12k1r2-b000064-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="162.7" cy="158.7" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s13/b16r2b4r6b24r2k24y2g24r6g4r2g16-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="155.8" cy="162.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/r4k2g24k24b24k2b4k2b24k24g24k2y4-b00004c-g004c00-k000000-rc80000-yffc800/"><circle cx="158.9" cy="168.5" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><circle cx="163.6" cy="175.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/g8w4g4w4g32k16b8k4b4k4b32r4-b000050-g003014-k000000-r640000-wc8c8c8/

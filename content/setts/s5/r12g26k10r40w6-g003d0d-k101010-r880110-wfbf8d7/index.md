@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/12 DG26 K10 DR40 LY/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ryutokukan Junior High School (Corp)](/setts/s5/r12g26k10r40w6-g003820-k101010-r880000-wfcfcfc/) — ΔT 0.14
+1. [MacTavish](/setts/s7/r24g4r24b4g12k12g12-b202060-g006818-k101010-rc80000/) — ΔT 1.08
+1. [MacTavish Clan Tartan Tartan Number: 797. Earliest known date: 1850 This plate is taken from the manuscript of William and Andrew Smith's 'Authenticated Tartans of the Clans and Families of Scotland'. The Smith's sources included the findings of George Hunter, an Army clothier, who toured the Highlands in search of old tartans prior to 1822. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r24g4r24b4g12k12g12-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.09
+1. [Nisbet](/setts/s6/r20g48k20r56w6r12-g006818-k101010-rc80000-wc0c0c0/) — ΔT 1.12
+1. [Bronte House Check](/setts/s6/r10g60b13y24b24g8-b2c294f-g6b380d-rfc0fc0-yd4ad7d/) — ΔT 1.25
+1. [MacTavish](/setts/s7/r24g4r24b4g12k12g12-b304080-g008000-k000000-rc00000/) — ΔT 1.30
+1. [Portrait, The](/setts/s6/b8r44b8k44b64w8-b441800-k101010-ra07c58-we8ccb8/) — ΔT 1.32
+1. [Skinner](/setts/s6/r32k32y4k32r32b4-b2c2c80-k101010-rc80000-yd09800/) — ΔT 1.35
+1. [MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, "It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined." James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r32b12k16g24r16k4r16-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.36
+1. [Denny Hunting](/setts/s6/k8g10k4g10r34b4-b00008c-g004c00-k000000-r8c0000/) — ΔT 1.36
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r12g26k10r40w6-g003820-k101010-r880000-wfcfcfc/"><circle cx="280.7" cy="246.0" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/setts/s7/r24g4r24b4g12k12g12-b202060-g006818-k101010-rc80000/"><circle cx="248.0" cy="240.8" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s7/r24g4r24b4g12k12g12-b2c2c80-g006818-k101010-rc80000/"><circle cx="248.2" cy="240.8" r="4" fill="#3465a4"><title>MacTavish Clan Tartan Tartan Number: 797. Earliest known date: 1850 This plate is taken from the manuscript of William and Andrew Smith's 'Authenticated Tartans of the Clans and Families of Scotland'. The Smith's sources included the findings of George Hunter, an Army clothier, who toured the Highlands in search of old tartans prior to 1822. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r20g48k20r56w6r12-g006818-k101010-rc80000-wc0c0c0/"><circle cx="287.6" cy="217.8" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/setts/s6/r10g60b13y24b24g8-b2c294f-g6b380d-rfc0fc0-yd4ad7d/"><circle cx="248.2" cy="221.9" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/setts/s7/r24g4r24b4g12k12g12-b304080-g008000-k000000-rc00000/"><circle cx="224.5" cy="232.5" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s6/b8r44b8k44b64w8-b441800-k101010-ra07c58-we8ccb8/"><circle cx="231.5" cy="224.8" r="4" fill="#3465a4"><title>Portrait, The</title></circle></a><a href="/setts/s6/r32k32y4k32r32b4-b2c2c80-k101010-rc80000-yd09800/"><circle cx="259.8" cy="235.3" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/setts/s7/r32b12k16g24r16k4r16-b2c2c80-g006818-k101010-rc80000/"><circle cx="241.0" cy="240.2" r="4" fill="#3465a4"><title>MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, &quot;It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined.&quot; James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k8g10k4g10r34b4-b00008c-g004c00-k000000-r8c0000/"><circle cx="265.3" cy="214.7" r="4" fill="#3465a4"><title>Denny Hunting</title></circle></a><circle cx="281.4" cy="246.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/r12g26k10r40w6-g003d0d-k101010-r880110-wfbf8d7/

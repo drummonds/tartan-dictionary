@@ -33,4 +33,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/44 DY16 DR16 K16 DR/44 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wilson's, No 134](/setts/s2/r42g14-g008000-rc00000/) — ΔT 2.32
+1. [Wilson's No.134](/setts/s2/r42g14-g285800-rc80000/) — ΔT 2.34
+1. [Wilson's No.234](/setts/s2/r16k6-k101010-rc80000/) — ΔT 2.35
+1. [Sinclair](/setts/s5/r30g12k5w8r30-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 2.39
+1. [Wilson's, No 138](/setts/s2/r42b14-b5480b0-rc00000/) — ΔT 2.50
+1. [MacAn of Lurgyvallan (Hose)](/setts/s6/r36k4r20g24r16k8-g006818-k101010-r880000/) — ΔT 2.55
+1. [Wilson's No.138](/setts/s2/r42b14-b5c8ca8-rc80000/) — ΔT 2.55
+1. [Sinclair Dress](/setts/s5/r28g16k4w7r28-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 2.58
+1. [Unidentified Early 18th Centuary #2](/setts/s12/r18g4r6g4r18g6r6b6r6g6r6b6-b2c4084-g005020-rdc0000/) — ΔT 2.64
+1. [Macan, of Lurgyvallan (Hose)](/setts/s6/r20k2r8g12r8k2-g008000-k000000-rc00000/) — ΔT 2.70
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/r42g14-g008000-rc00000/"><circle cx="477.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 134</title></circle></a><a href="/setts/s2/r42g14-g285800-rc80000/"><circle cx="493.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.134</title></circle></a><a href="/setts/s2/r16k6-k101010-rc80000/"><circle cx="425.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.234</title></circle></a><a href="/setts/s5/r30g12k5w8r30-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="368.7" cy="238.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s2/r42b14-b5480b0-rc00000/"><circle cx="495.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 138</title></circle></a><a href="/setts/s6/r36k4r20g24r16k8-g006818-k101010-r880000/"><circle cx="424.1" cy="274.6" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/setts/s2/r42b14-b5c8ca8-rc80000/"><circle cx="494.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.138</title></circle></a><a href="/setts/s5/r28g16k4w7r28-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="350.9" cy="237.3" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s12/r18g4r6g4r18g6r6b6r6g6r6b6-b2c4084-g005020-rdc0000/"><circle cx="343.9" cy="240.0" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/setts/s6/r20k2r8g12r8k2-g008000-k000000-rc00000/"><circle cx="411.3" cy="227.7" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><circle cx="435.1" cy="322.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/r44k16r16y16r44-k101010-r880000-yd09800/

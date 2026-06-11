@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/8 LN2 DB34 DR56 DP34 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bute Heather, Autumn (Fashion)](/setts/s11/b13y2r38k13r8k8b17g2b17k4b11-b440044-g285800-k101010-r880000-ye8c000/) — ΔT 1.59
+1. [Heather Mead (Personal)](/setts/s8/b26g32ga8ba2ga8ba68y2ba2-b780078-ba440044-g003820-ga006818-ye8c000/) — ΔT 1.60
+1. [First (Corporate)](/setts/s7/r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/) — ΔT 1.65
+1. [Dempster, Ross (Personal)](/setts/s7/b8g4r34ra18g20b60ba4-b1c1c50-ba5c5c5c-g285800-ra02c24-ra880000/) — ΔT 1.73
+1. [First](/setts/s8/b2r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/) — ΔT 1.75
+1. [Faulkner (Personal)](/setts/s11/g20r2k6b44r2b16k4ra52y2ra12k6-b780078-g006818-k101010-r888888-ra901c38-ybc8c00/) — ΔT 1.78
+1. [Thomson, Reona Ellen (Personal)](/setts/s7/w4b10r68k10ba18k24b2-b5a008c-ba646464-k101010-r781c38-wffffff/) — ΔT 1.79
+1. [Murdoch (Geoffrey)](/setts/s6/k8b4ba68b68bb4y8-b680028-ba003c64-bb202060-k101010-ye8c000/) — ΔT 1.79
+1. [Miller, Reverend Ian (Personal](/setts/s6/b4g36b30r48k2y4-b780078-g006818-k101010-r880000-yc4bc68/) — ΔT 1.82
+1. [Diana Princess of Wales](/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/) — ΔT 1.85
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b13y2r38k13r8k8b17g2b17k4b11-b440044-g285800-k101010-r880000-ye8c000/"><circle cx="304.1" cy="175.8" r="4" fill="#3465a4"><title>Bute Heather, Autumn (Fashion)</title></circle></a><a href="/setts/s8/b26g32ga8ba2ga8ba68y2ba2-b780078-ba440044-g003820-ga006818-ye8c000/"><circle cx="346.7" cy="140.1" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/setts/s7/r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/"><circle cx="248.1" cy="177.7" r="4" fill="#3465a4"><title>First (Corporate)</title></circle></a><a href="/setts/s7/b8g4r34ra18g20b60ba4-b1c1c50-ba5c5c5c-g285800-ra02c24-ra880000/"><circle cx="277.9" cy="189.4" r="4" fill="#3465a4"><title>Dempster, Ross (Personal)</title></circle></a><a href="/setts/s8/b2r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/"><circle cx="250.0" cy="166.0" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/setts/s11/g20r2k6b44r2b16k4ra52y2ra12k6-b780078-g006818-k101010-r888888-ra901c38-ybc8c00/"><circle cx="270.8" cy="113.0" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/setts/s7/w4b10r68k10ba18k24b2-b5a008c-ba646464-k101010-r781c38-wffffff/"><circle cx="328.8" cy="133.7" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/setts/s6/k8b4ba68b68bb4y8-b680028-ba003c64-bb202060-k101010-ye8c000/"><circle cx="324.3" cy="178.1" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/setts/s6/b4g36b30r48k2y4-b780078-g006818-k101010-r880000-yc4bc68/"><circle cx="262.1" cy="165.4" r="4" fill="#3465a4"><title>Miller, Reverend Ian (Personal</title></circle></a><a href="/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/"><circle cx="305.9" cy="185.1" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><circle cx="310.5" cy="177.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b8w2b34r56ba34ra4-b2c2c80-ba440044-r880000-rab00024-we0e0e0/

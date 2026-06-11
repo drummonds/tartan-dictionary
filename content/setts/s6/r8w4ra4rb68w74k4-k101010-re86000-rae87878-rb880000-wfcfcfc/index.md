@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/4 W74 DR68 LR4 W4 O/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tomomi](/setts/s5/w60r80y8g4ya4-g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0/) — ΔT 0.97
+1. [Cunningham Dress Burgundy (Dance)](/setts/s7/w10r4w68r68k4r4y8-k101010-r800028-wf8f8f8-ye8c000/) — ΔT 1.00
+1. [Cunningham Dress](/setts/s7/w10r4w68r68k4r4b8-b1c0070-k101010-rc80000-wf8f8f8/) — ΔT 1.04
+1. [Cunningham, dress](/setts/s7/w10r4w68r68k4r4b8-b304080-k000000-rc00000-we0e0e0/) — ΔT 1.08
+1. [Torridon, Burgundy (Dance)](/setts/s7/w6y4w60r60b4r4y6-b843470-r800028-wf0e0c8-y58bc60/) — ΔT 1.09
+1. [Cunningham Dress Clan Tartan Tartan Number: 563. Earliest known date: c.1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w10r4w68r68k4r4b8-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 1.13
+1. [Cunningham, Burgundy dress](/setts/s7/w10r4w68r68k4r4y8-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.13
+1. [Torridon, Cherry (Dance)](/setts/s7/r6ra4b4ra60w60b4w6-b1c1c50-r880000-rab80000-wf0e0c8/) — ΔT 1.23
+1. [Cunningham Burgandy Dress Clan Tartan Tartan Number: 1873. Earliest known date: pre 2003 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w10r4w68r68k4r4y8-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.25
+1. [Lennox, dress](/setts/s7/r16b4r48ba10w52ra4w16-b800080-ba304080-rc00000-ra703000-we0e0e0/) — ΔT 1.26
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/w60r80y8g4ya4-g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0/"><circle cx="290.2" cy="126.2" r="4" fill="#3465a4"><title>Tomomi</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4y8-k101010-r800028-wf8f8f8-ye8c000/"><circle cx="280.3" cy="125.0" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4b8-b1c0070-k101010-rc80000-wf8f8f8/"><circle cx="287.6" cy="122.5" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4b8-b304080-k000000-rc00000-we0e0e0/"><circle cx="296.0" cy="128.1" r="4" fill="#3465a4"><title>Cunningham, dress</title></circle></a><a href="/setts/s7/w6y4w60r60b4r4y6-b843470-r800028-wf0e0c8-y58bc60/"><circle cx="275.4" cy="132.1" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4b8-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="299.3" cy="128.4" r="4" fill="#3465a4"><title>Cunningham Dress Clan Tartan Tartan Number: 563. Earliest known date: c.1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4y8-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="298.2" cy="127.6" r="4" fill="#3465a4"><title>Cunningham, Burgundy dress</title></circle></a><a href="/setts/s7/r6ra4b4ra60w60b4w6-b1c1c50-r880000-rab80000-wf0e0c8/"><circle cx="284.6" cy="130.2" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s7/w10r4w68r68k4r4y8-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="303.4" cy="128.8" r="4" fill="#3465a4"><title>Cunningham Burgandy Dress Clan Tartan Tartan Number: 1873. Earliest known date: pre 2003 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r16b4r48ba10w52ra4w16-b800080-ba304080-rc00000-ra703000-we0e0e0/"><circle cx="232.7" cy="144.7" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><circle cx="264.0" cy="112.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/r8w4ra4rb68w74k4-k101010-re86000-rae87878-rb880000-wfcfcfc/

@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/2 R18 G6 K6 G6 R2 K18 LN/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dickie](/setts/s8/g16r4g24k12g6b12r48k8-b00008c-g146400-k000000-rc82800/) — ΔT 0.56
+1. [Earle's Flame](/setts/s8/k20g48r6g6r48ga6g12k12-g845c00-ga285800-k000000-r880000/) — ΔT 0.80
+1. [Private SA Club](/setts/s8/k6r16k6r16y38r14b72r6-b14283c-k101010-r880000-yd8a028/) — ΔT 0.82
+1. [Wcwm 1062](/setts/s7/g6r40g32k44y12k6g4-g006818-k101010-rc80000-yd09800/) — ΔT 0.84
+1. [Montrose](/setts/s9/b4k4r28g30k16b14r28k4b4-b4367ae-g11450d-k000000-raa0000/) — ΔT 0.84
+1. [Montrose](/setts/s9/b2k2r14g15k8b7r14k2b2-b4367ae-g11450d-k000000-raa0000/) — ΔT 0.84
+1. [O'Neill (District)](/setts/s9/w4r24k8r4k4r4k12g10w4-g006818-k101010-r880000-wc0c0c0/) — ΔT 0.85
+1. [MacMillan - 2002 (Black - Unofficial](/setts/s6/g6k62r34g12y36k6-g004810-k101010-r880000-ybc8c00/) — ΔT 0.85
+1. [Blackstock Red (Dress)](/setts/s7/y8g28k24r44k4r4y8-g285800-k000000-rb00000-yc89800/) — ΔT 0.87
+1. [Daks](/setts/s8/r6k14r4w4ra24k4ra4r6-k000000-r806050-ra906030-we0e0e0/) — ΔT 0.89
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g16r4g24k12g6b12r48k8-b00008c-g146400-k000000-rc82800/"><circle cx="198.6" cy="180.8" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/setts/s8/k20g48r6g6r48ga6g12k12-g845c00-ga285800-k000000-r880000/"><circle cx="224.4" cy="200.8" r="4" fill="#3465a4"><title>Earle's Flame</title></circle></a><a href="/setts/s8/k6r16k6r16y38r14b72r6-b14283c-k101010-r880000-yd8a028/"><circle cx="227.1" cy="172.4" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/setts/s7/g6r40g32k44y12k6g4-g006818-k101010-rc80000-yd09800/"><circle cx="177.5" cy="196.4" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/setts/s9/b4k4r28g30k16b14r28k4b4-b4367ae-g11450d-k000000-raa0000/"><circle cx="182.4" cy="202.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/b2k2r14g15k8b7r14k2b2-b4367ae-g11450d-k000000-raa0000/"><circle cx="182.4" cy="202.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/w4r24k8r4k4r4k12g10w4-g006818-k101010-r880000-wc0c0c0/"><circle cx="195.6" cy="211.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/setts/s6/g6k62r34g12y36k6-g004810-k101010-r880000-ybc8c00/"><circle cx="216.4" cy="209.9" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><a href="/setts/s7/y8g28k24r44k4r4y8-g285800-k000000-rb00000-yc89800/"><circle cx="187.0" cy="184.1" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/setts/s8/r6k14r4w4ra24k4ra4r6-k000000-r806050-ra906030-we0e0e0/"><circle cx="173.0" cy="203.3" r="4" fill="#3465a4"><title>Daks</title></circle></a><circle cx="201.4" cy="192.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g2r18g6k6g6r2k18w2-g006818-k101010-rc80000-we0e0e0/

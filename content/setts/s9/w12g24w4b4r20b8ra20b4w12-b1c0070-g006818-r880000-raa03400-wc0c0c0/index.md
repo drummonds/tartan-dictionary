@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 | R | <code style="background-color:#A03400;"><span style="color:#A03400;filter:grayscale(1) invert(1) contrast(100);">#A03400</span></code> `#A03400` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.08 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Strathblane](/setts/s8/r12w4k8g24k8w4r12ra6-g604000-k101010-r888888-rac80000-we0e0e0/) — ΔT 0.65
+1. [Utah Centennial](/setts/s8/w12r16g48r16b12ra16b16w6-b304080-g008000-rc00000-rac00020-we0e0e0/) — ΔT 1.03
+1. [Toorak Chapler](/setts/s9/b18r6y6b6r18b18y18ya36ba6-b3d3134-ba72393f-ra58065-yafb8bb-yaf5d38b/) — ΔT 1.12
+1. [Kilkenny County Crest (Fashion)](/setts/s8/y12r16k8w12g32k26ya38k10-g5c6428-k101010-r880000-we0e0e0-ybc8c00-yaa0a0a0/) — ΔT 1.13
+1. [Graham, Red Dress](/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/) — ΔT 1.15
+1. [Rothesay](/setts/s7/g6ga24y4k20r20y6r4-g006030-ga808080-k000000-r806050-yf0c000/) — ΔT 1.16
+1. [Wombles #2](/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b2c4084-ba080848-g005020-rdc0000-we0e0e0/) — ΔT 1.17
+1. [Womble](/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b304080-ba000050-g008000-rc00000-we0e0e0/) — ΔT 1.18
+1. [Equorian Olympic](/setts/s8/b2g1r1ga6w3r3r1g1-b2c4084-g808080-ga003c14-rbe7832-wf5dca0/) — ΔT 1.23
+1. [Unnamed No 14 Tartan Tartan Number: 1326. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r22b6ba10y4r4w4g22ba8y3-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r12w4k8g24k8w4r12ra6-g604000-k101010-r888888-rac80000-we0e0e0/"><circle cx="85.2" cy="205.9" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s8/w12r16g48r16b12ra16b16w6-b304080-g008000-rc00000-rac00020-we0e0e0/"><circle cx="105.3" cy="189.3" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/setts/s9/b18r6y6b6r18b18y18ya36ba6-b3d3134-ba72393f-ra58065-yafb8bb-yaf5d38b/"><circle cx="77.5" cy="190.6" r="4" fill="#3465a4"><title>Toorak Chapler</title></circle></a><a href="/setts/s8/y12r16k8w12g32k26ya38k10-g5c6428-k101010-r880000-we0e0e0-ybc8c00-yaa0a0a0/"><circle cx="18.0" cy="203.5" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/"><circle cx="28.2" cy="164.8" r="4" fill="#3465a4"><title>Graham, Red Dress</title></circle></a><a href="/setts/s7/g6ga24y4k20r20y6r4-g006030-ga808080-k000000-r806050-yf0c000/"><circle cx="64.8" cy="201.9" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b2c4084-ba080848-g005020-rdc0000-we0e0e0/"><circle cx="42.1" cy="178.9" r="4" fill="#3465a4"><title>Wombles #2</title></circle></a><a href="/setts/s9/w8b16w2ba2g12ba6r12ba2w8-b304080-ba000050-g008000-rc00000-we0e0e0/"><circle cx="39.9" cy="179.3" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s8/b2g1r1ga6w3r3r1g1-b2c4084-g808080-ga003c14-rbe7832-wf5dca0/"><circle cx="93.3" cy="194.5" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/setts/s9/r22b6ba10y4r4w4g22ba8y3-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="83.6" cy="161.5" r="4" fill="#3465a4"><title>Unnamed No 14 Tartan Tartan Number: 1326. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="48.2" cy="199.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/w12g24w4b4r20b8ra20b4w12-b1c0070-g006818-r880000-raa03400-wc0c0c0/

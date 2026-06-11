@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DN/120 N8 K24 DB12 R12 DB12 K24 N/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Peter of Lee (Chief) (Personal)](/setts/s8/r8g8k4g58b42k6b6y6-b2c2c80-g003820-k101010-rc80000-ye8c000/) — ΔT 0.89
+1. [City of Rome Pipe Band (Corporate)](/setts/s7/r12y6k88b45k6b6ya6-b2c2c80-k101010-r901c38-yd87c00-yae8c000/) — ΔT 1.00
+1. [Moray Council](/setts/s8/b16r4b66ba30g24y4g4r4-b1c0070-ba14283c-g006818-r880000-yd09800/) — ΔT 1.09
+1. [American National](/setts/s8/k6r6g8b14k6ba78b30w6-b2c2c80-ba14283c-g285800-k101010-rc80000-wf8f8f8/) — ΔT 1.11
+1. [Strachan (Name)](/setts/s9/r4k6b84k6y4k6g44k6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.13
+1. [MacBeth (Fashion)](/setts/s8/b84k12y4k6y4g20r14k4-b1c0070-g006818-k101010-r880000-yd09800/) — ΔT 1.18
+1. [Six Frigates (US)](/setts/s10/b6k2y4k2ba20k34ba4b2g2r2-b5f749c-ba141e46-g603800-k1c1714-rc82828-ye0a126/) — ΔT 1.18
+1. [Dugan (Personal)](/setts/s10/k20b8k68ba6g6ba6g6ba52bb4w6-b506878-ba1c1c50-bb84407c-g006818-k101010-wccd8e4/) — ΔT 1.23
+1. [Edinburgh and Lothian Tourist Board](/setts/s7/k80b16r6b12ka6b12ra8-b141e46-k000028-ka101010-rc87814-radc0000/) — ΔT 1.24
+1. [Black Raven (Fashion)](/setts/s7/k124b30ba30g40y10b10k30-b2c2c80-ba1870a4-g604000-k101010-yc4bc68/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r8g8k4g58b42k6b6y6-b2c2c80-g003820-k101010-rc80000-ye8c000/"><circle cx="292.8" cy="170.7" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/setts/s7/r12y6k88b45k6b6ya6-b2c2c80-k101010-r901c38-yd87c00-yae8c000/"><circle cx="332.8" cy="163.5" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/setts/s8/b16r4b66ba30g24y4g4r4-b1c0070-ba14283c-g006818-r880000-yd09800/"><circle cx="321.8" cy="174.2" r="4" fill="#3465a4"><title>Moray Council</title></circle></a><a href="/setts/s8/k6r6g8b14k6ba78b30w6-b2c2c80-ba14283c-g285800-k101010-rc80000-wf8f8f8/"><circle cx="287.4" cy="156.0" r="4" fill="#3465a4"><title>American National</title></circle></a><a href="/setts/s9/r4k6b84k6y4k6g44k6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="316.7" cy="127.6" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/setts/s8/b84k12y4k6y4g20r14k4-b1c0070-g006818-k101010-r880000-yd09800/"><circle cx="338.1" cy="135.3" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/setts/s10/b6k2y4k2ba20k34ba4b2g2r2-b5f749c-ba141e46-g603800-k1c1714-rc82828-ye0a126/"><circle cx="291.5" cy="130.8" r="4" fill="#3465a4"><title>Six Frigates (US)</title></circle></a><a href="/setts/s10/k20b8k68ba6g6ba6g6ba52bb4w6-b506878-ba1c1c50-bb84407c-g006818-k101010-wccd8e4/"><circle cx="295.1" cy="143.6" r="4" fill="#3465a4"><title>Dugan (Personal)</title></circle></a><a href="/setts/s7/k80b16r6b12ka6b12ra8-b141e46-k000028-ka101010-rc87814-radc0000/"><circle cx="363.9" cy="184.6" r="4" fill="#3465a4"><title>Edinburgh and Lothian Tourist Board</title></circle></a><a href="/setts/s7/k124b30ba30g40y10b10k30-b2c2c80-ba1870a4-g604000-k101010-yc4bc68/"><circle cx="301.3" cy="191.7" r="4" fill="#3465a4"><title>Black Raven (Fashion)</title></circle></a><circle cx="326.2" cy="159.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b120w8k24ba12r12ba12k24w8-b14283c-ba2c2c80-k101010-rc80000-wc0c0c0/

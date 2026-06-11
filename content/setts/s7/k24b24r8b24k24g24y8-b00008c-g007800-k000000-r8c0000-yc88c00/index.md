@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DY/8 G24 K24 DB24 DR8 DB24 K/24 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Montrose of Alabama](/setts/s7/k24ka24r8ka24k24g24y8-g30a010-k000000-ka000030-rc00000-yf0c000/) — ΔT 0.96
+1. [Denholm](/setts/s8/g16k14b16r4b16k14g16k4-b2c2c80-g006818-k000000-rc80000/) — ΔT 1.24
+1. [Davidson Double](/setts/s8/b3r2b8k8g8k3w2g3-b000064-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 1.34
+1. [Davidson Double](/setts/s8/b6r4b16k16g16k6y4k6-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.45
+1. [Davidson Double](/setts/s8/b3r2b8k8g8k3y2k3-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.45
+1. [Davidson, Double..](/setts/s8/b6r4b16k16g16k6w4k6-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.49
+1. [MacKean dress](/setts/s9/r6k12g24k6g6k12b18k6w6-b304080-g004010-k000000-rc00000-we0e0e0/) — ΔT 1.57
+1. [Denholm (Fashion)](/setts/s5/k10g40k36b40r10-b2c2c80-g006818-k000000-rc80000/) — ΔT 1.59
+1. [Davidson, Double](/setts/s8/b6r4b16k16g16k6w4k6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.61
+1. [Graham of Montrose](/setts/s7/k4g4w1g4k4b4k1-b00004c-g004c00-k000000-wd0d0d0/) — ΔT 1.62
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k24ka24r8ka24k24g24y8-g30a010-k000000-ka000030-rc00000-yf0c000/"><circle cx="41.7" cy="279.3" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/setts/s8/g16k14b16r4b16k14g16k4-b2c2c80-g006818-k000000-rc80000/"><circle cx="84.5" cy="282.6" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/setts/s8/b3r2b8k8g8k3w2g3-b000064-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="62.1" cy="242.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/b6r4b16k16g16k6y4k6-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="107.7" cy="250.1" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/b3r2b8k8g8k3y2k3-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="107.7" cy="250.1" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/b6r4b16k16g16k6w4k6-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="79.1" cy="233.7" r="4" fill="#3465a4"><title>Davidson, Double..</title></circle></a><a href="/setts/s9/r6k12g24k6g6k12b18k6w6-b304080-g004010-k000000-rc00000-we0e0e0/"><circle cx="85.9" cy="232.8" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/setts/s5/k10g40k36b40r10-b2c2c80-g006818-k000000-rc80000/"><circle cx="108.1" cy="283.4" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s8/b6r4b16k16g16k6w4k6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="101.2" cy="240.8" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/setts/s7/k4g4w1g4k4b4k1-b00004c-g004c00-k000000-wd0d0d0/"><circle cx="132.0" cy="290.0" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><circle cx="48.2" cy="283.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/k24b24r8b24k24g24y8-b00008c-g007800-k000000-r8c0000-yc88c00/

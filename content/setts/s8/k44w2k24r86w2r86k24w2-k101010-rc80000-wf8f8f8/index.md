@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/44 W2 K24 R86 W2 R86 K24 W/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oilmens (Corporate)](/setts/s8/y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/) — ΔT 1.15
+1. [Maxwell](/setts/s7/r3g16r4k6r28g1r3-g004c00-k000000-rc80000/) — ΔT 1.16
+1. [Barkwell, The](/setts/s8/y16k4r120k60r96k8r16k4-k000000-rc00000-yf0c000/) — ΔT 1.16
+1. [Maxwell Ancient](/setts/s7/r6g32r8k12r56g2r6-g005020-k101010-rdc0000/) — ΔT 1.23
+1. [Lovat or Fraser #2](/setts/s6/r160b38r16g72r20b4-b5a008c-g005020-rdc0000/) — ΔT 1.29
+1. [Knights Templar Htg (Corporate)](/setts/s5/k44w2k24r86w2-k101010-rc80000-wf8f8f8/) — ΔT 1.36
+1. [Maxwell](/setts/s7/r6g32r8k12r56g2r6-g11450d-k000000-raa0000/) — ΔT 1.42
+1. [Maxwell](/setts/s7/r3g16r4k6r28g1r3-g11450d-k000000-raa0000/) — ΔT 1.42
+1. [Maxwell; Maxwell Ancient](/setts/s7/r6g32r8k12r56g2r6-g008000-k000000-rc00000/) — ΔT 1.46
+1. [MacKintosh](/setts/s6/r48b12r6g24r8b2-b000064-g004c00-rc80000/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/"><circle cx="495.8" cy="146.6" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/setts/s7/r3g16r4k6r28g1r3-g004c00-k000000-rc80000/"><circle cx="419.9" cy="157.0" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s8/y16k4r120k60r96k8r16k4-k000000-rc00000-yf0c000/"><circle cx="474.3" cy="140.8" r="4" fill="#3465a4"><title>Barkwell, The</title></circle></a><a href="/setts/s7/r6g32r8k12r56g2r6-g005020-k101010-rdc0000/"><circle cx="429.7" cy="157.5" r="4" fill="#3465a4"><title>Maxwell Ancient</title></circle></a><a href="/setts/s6/r160b38r16g72r20b4-b5a008c-g005020-rdc0000/"><circle cx="456.7" cy="153.3" r="4" fill="#3465a4"><title>Lovat or Fraser #2</title></circle></a><a href="/setts/s5/k44w2k24r86w2-k101010-rc80000-wf8f8f8/"><circle cx="410.4" cy="158.2" r="4" fill="#3465a4"><title>Knights Templar Htg (Corporate)</title></circle></a><a href="/setts/s7/r6g32r8k12r56g2r6-g11450d-k000000-raa0000/"><circle cx="436.7" cy="167.9" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s7/r3g16r4k6r28g1r3-g11450d-k000000-raa0000/"><circle cx="436.7" cy="167.9" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s7/r6g32r8k12r56g2r6-g008000-k000000-rc00000/"><circle cx="413.7" cy="155.3" r="4" fill="#3465a4"><title>Maxwell; Maxwell Ancient</title></circle></a><a href="/setts/s6/r48b12r6g24r8b2-b000064-g004c00-rc80000/"><circle cx="411.9" cy="179.7" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="451.0" cy="138.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k44w2k24r86w2r86k24w2-k101010-rc80000-wf8f8f8/

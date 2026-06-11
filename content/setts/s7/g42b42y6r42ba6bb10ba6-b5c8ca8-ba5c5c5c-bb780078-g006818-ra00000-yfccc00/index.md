@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/42 B42 Y6 DR42 N6 P10 N/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Falardeau-Murphy (Canada) (Personal)](/setts/s7/g42b42y6r42ba6bb10ba6-b5f749c-ba14283c-bb5a008c-g004c00-r960028-yffe600/) — ΔT 0.79
+1. [Christmas Hill Game Farm](/setts/s7/g10y40r6ga26g26b6w6-b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858/) — ΔT 0.83
+1. [Crossbill](/setts/s7/k4r30g30ga30ra4ga6y4-g604000-ga00643c-k101010-r9c68a4-rac80000-ye8c000/) — ΔT 0.83
+1. [Leitrim, County](/setts/s10/w6b36w8k6w8r26w6ba36b4y6-b4c3428-ba5c5c5c-k101010-rb84c00-wa8ace8-yec8048/) — ΔT 1.09
+1. [Derry Family (Personal)](/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b2888c4-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/) — ΔT 1.10
+1. [Christmas Hill Game Farm (Corporate)](/setts/s7/g10y40r6ga26g26b6gb6-b141440-g4c3400-ga004828-gb006464-ra00000-ya08858/) — ΔT 1.10
+1. [Derry Family (Olney, Buckinghamshire) (Personal)](/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b5e71a0-g49543f-ga343f23-rbf1a33-wffffff-yccb78e/) — ΔT 1.13
+1. [Adamson (Personal)](/setts/s9/r4g28b12ga4ra12ga4b12ga28w4-b2c2c80-g604000-ga006818-rc80000-ra888888-we0e0e0/) — ΔT 1.16
+1. [Royal Pharmaceutical Society](/setts/s9/g6r4ga38r12ga4r12y28ra8w4-g604000-ga003820-r888888-ra901c38-we0e0e0-ya08858/) — ΔT 1.19
+1. [Brittany National Walking](/setts/s9/b8g54y16k8y16k8y16r22ya6-b2888c4-g604000-k101010-rb03000-ya08858-yae8c000/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g42b42y6r42ba6bb10ba6-b5f749c-ba14283c-bb5a008c-g004c00-r960028-yffe600/"><circle cx="101.0" cy="188.6" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s7/g10y40r6ga26g26b6w6-b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858/"><circle cx="131.4" cy="202.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/setts/s7/k4r30g30ga30ra4ga6y4-g604000-ga00643c-k101010-r9c68a4-rac80000-ye8c000/"><circle cx="159.8" cy="195.8" r="4" fill="#3465a4"><title>Crossbill</title></circle></a><a href="/setts/s10/w6b36w8k6w8r26w6ba36b4y6-b4c3428-ba5c5c5c-k101010-rb84c00-wa8ace8-yec8048/"><circle cx="110.2" cy="153.9" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b2888c4-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/"><circle cx="92.3" cy="159.7" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/setts/s7/g10y40r6ga26g26b6gb6-b141440-g4c3400-ga004828-gb006464-ra00000-ya08858/"><circle cx="145.6" cy="210.4" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/setts/s9/w6b36y12g19ga6r6ga6r28ga4-b5e71a0-g49543f-ga343f23-rbf1a33-wffffff-yccb78e/"><circle cx="104.3" cy="160.6" r="4" fill="#3465a4"><title>Derry Family (Olney, Buckinghamshire) (Personal)</title></circle></a><a href="/setts/s9/r4g28b12ga4ra12ga4b12ga28w4-b2c2c80-g604000-ga006818-rc80000-ra888888-we0e0e0/"><circle cx="125.5" cy="191.4" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/setts/s9/g6r4ga38r12ga4r12y28ra8w4-g604000-ga003820-r888888-ra901c38-we0e0e0-ya08858/"><circle cx="147.5" cy="161.2" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s9/b8g54y16k8y16k8y16r22ya6-b2888c4-g604000-k101010-rb03000-ya08858-yae8c000/"><circle cx="149.3" cy="166.9" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><circle cx="108.5" cy="190.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g42b42y6r42ba6bb10ba6-b5c8ca8-ba5c5c5c-bb780078-g006818-ra00000-yfccc00/

@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/8 K76 LN16 DG4 LN16 DG4 LN38 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [St Piran, Cornish dress](/setts/s8/r8w38g4w16g4w16k76w8-g003000-k000000-rc00000-we0e0e0/) — ΔT 0.70
+1. [MacPherson - 1842 (VS) Dress](/setts/s7/w4r8w68k44w8k16y4-k101010-ra00048-we0e0e0-yd8b000/) — ΔT 0.82
+1. [Brodie (WCWM)](/setts/s6/r4w60k30y4k30r4-k101010-rc80000-wf0ecd4-ybc8c00/) — ΔT 0.93
+1. [Hannay](/setts/s10/k18w8k4w8k4w60k18w8b28y4-b304080-k000000-we0e0e0-yf0c000/) — ΔT 1.01
+1. [Clemens and August (Personal)](/setts/s8/y70b6r8b6r16b60w6b8-b1c0070-rc80000-we0e0e0-ye8c000/) — ΔT 1.03
+1. [MacRae Dress Clan Tartan Tartan Number: 2186. Earliest known date: pre 2003 Also known as Scott Dress. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r4w12b4w32b6w2k32w2b4k8r4-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 1.06
+1. [Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b76w4b24w4b8w8y8w4y72-b1c1c50-we0e0e0-ye8c000/) — ΔT 1.08
+1. [Highland Park High School (Texas)](/setts/s9/b76w4b24w4b8w8y8w4y72-b202060-wfcfcfc-ye8c000/) — ΔT 1.08
+1. [Scott, (MacRae)](/setts/s11/r4w12b4w32b6w2k32w2b4k8r4-b304080-k000000-rc00000-we0e0e0/) — ΔT 1.11
+1. [Virginia Commonwealth University](/setts/s7/k60w4y8ya20w18k6y10-k101010-wffffff-ya0a0a0-yad87c00/) — ΔT 1.12
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r8w38g4w16g4w16k76w8-g003000-k000000-rc00000-we0e0e0/"><circle cx="252.8" cy="136.5" r="4" fill="#3465a4"><title>St Piran, Cornish dress</title></circle></a><a href="/setts/s7/w4r8w68k44w8k16y4-k101010-ra00048-we0e0e0-yd8b000/"><circle cx="280.2" cy="142.9" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s6/r4w60k30y4k30r4-k101010-rc80000-wf0ecd4-ybc8c00/"><circle cx="241.4" cy="162.3" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/setts/s10/k18w8k4w8k4w60k18w8b28y4-b304080-k000000-we0e0e0-yf0c000/"><circle cx="240.3" cy="133.3" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/setts/s8/y70b6r8b6r16b60w6b8-b1c0070-rc80000-we0e0e0-ye8c000/"><circle cx="225.1" cy="147.7" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s11/r4w12b4w32b6w2k32w2b4k8r4-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="208.6" cy="124.1" r="4" fill="#3465a4"><title>MacRae Dress Clan Tartan Tartan Number: 2186. Earliest known date: pre 2003 Also known as Scott Dress. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b76w4b24w4b8w8y8w4y72-b1c1c50-we0e0e0-ye8c000/"><circle cx="305.7" cy="139.4" r="4" fill="#3465a4"><title>Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b76w4b24w4b8w8y8w4y72-b202060-wfcfcfc-ye8c000/"><circle cx="304.2" cy="138.2" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/setts/s11/r4w12b4w32b6w2k32w2b4k8r4-b304080-k000000-rc00000-we0e0e0/"><circle cx="204.9" cy="125.4" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/setts/s7/k60w4y8ya20w18k6y10-k101010-wffffff-ya0a0a0-yad87c00/"><circle cx="246.0" cy="154.5" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><circle cx="255.1" cy="133.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r8w38g4w16g4w16k76w8-g003820-k101010-rc80000-we0e0e0/

@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/2 DB32 K12 P24 R2 P2 R8 P/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [First (Corporate)](/setts/s7/r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/) — ΔT 0.38
+1. [Wardlaw](/setts/s10/k8b60k6b4ba4r4g24k6ba36r6-b780078-ba2c2c80-g006818-k101010-rc80000/) — ΔT 0.65
+1. [Alba](/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/) — ΔT 1.02
+1. [Charleston Police Department](/setts/s7/b22y10b6ya18b50ba71k6-b440044-ba202060-k101010-ybc8c00-yaa0a0a0/) — ΔT 1.02
+1. [KPMG (Corporate)](/setts/s10/r24y4b6k6b60k40ba12k20y4ba8-b2c2c80-ba680028-k101010-rc80000-ya08858/) — ΔT 1.18
+1. [D'Souza (Personal)](/setts/s10/b48k4b4y4b4k40ba32r4ba4r6-b440044-ba202060-k101010-r888888-yec8048/) — ΔT 1.35
+1. [Rangers Football Club Dress](/setts/s11/r4b12y4b4k18ba60k18b10y8b4r4-b1c0070-ba2c2c80-k101010-r880000-yb8b8b8/) — ΔT 1.43
+1. [Murdoch](/setts/s6/k8r4b68r68ba4y8-b304080-ba102040-k000000-r802040-yf0c000/) — ΔT 1.44
+1. [Riley's Theme (Fashion)](/setts/s6/b40k8g10ba28w2b4-b2c2c80-ba440044-g006818-k101010-wfcfcfc/) — ΔT 1.46
+1. [Scotch House 2000 Antique](/setts/s8/b44r6b4r6b4k34g36ga8-b2c2c80-g604000-ga006818-k101010-rc80000/) — ΔT 1.49
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/"><circle cx="248.1" cy="177.7" r="4" fill="#3465a4"><title>First (Corporate)</title></circle></a><a href="/setts/s10/k8b60k6b4ba4r4g24k6ba36r6-b780078-ba2c2c80-g006818-k101010-rc80000/"><circle cx="244.4" cy="148.1" r="4" fill="#3465a4"><title>Wardlaw</title></circle></a><a href="/setts/s8/b48ba4g6r4g6k22ba58w4-b780078-ba2c2c4c-g006818-k101010-r9c68a4-wfcfcfc/"><circle cx="232.0" cy="148.7" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/setts/s7/b22y10b6ya18b50ba71k6-b440044-ba202060-k101010-ybc8c00-yaa0a0a0/"><circle cx="258.3" cy="194.9" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/setts/s10/r24y4b6k6b60k40ba12k20y4ba8-b2c2c80-ba680028-k101010-rc80000-ya08858/"><circle cx="213.0" cy="159.3" r="4" fill="#3465a4"><title>KPMG (Corporate)</title></circle></a><a href="/setts/s10/b48k4b4y4b4k40ba32r4ba4r6-b440044-ba202060-k101010-r888888-yec8048/"><circle cx="256.5" cy="176.9" r="4" fill="#3465a4"><title>D'Souza (Personal)</title></circle></a><a href="/setts/s11/r4b12y4b4k18ba60k18b10y8b4r4-b1c0070-ba2c2c80-k101010-r880000-yb8b8b8/"><circle cx="235.2" cy="146.2" r="4" fill="#3465a4"><title>Rangers Football Club Dress</title></circle></a><a href="/setts/s6/k8r4b68r68ba4y8-b304080-ba102040-k000000-r802040-yf0c000/"><circle cx="311.2" cy="168.0" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/setts/s6/b40k8g10ba28w2b4-b2c2c80-ba440044-g006818-k101010-wfcfcfc/"><circle cx="306.9" cy="190.2" r="4" fill="#3465a4"><title>Riley's Theme (Fashion)</title></circle></a><a href="/setts/s8/b44r6b4r6b4k34g36ga8-b2c2c80-g604000-ga006818-k101010-rc80000/"><circle cx="208.7" cy="191.8" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><circle cx="250.0" cy="166.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b2r8b2r2b24k12ba32w2-b780078-ba003c64-k101010-ra00048-we0e0e0/

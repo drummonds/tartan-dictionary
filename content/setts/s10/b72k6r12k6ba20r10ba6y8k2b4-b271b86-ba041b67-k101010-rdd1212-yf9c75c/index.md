@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LG | <code style="background-color:#F9C75C;"><span style="color:#F9C75C;filter:grayscale(1) invert(1) contrast(100);">#F9C75C</span></code> `#F9C75C` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
 | R | <code style="background-color:#DD1212;"><span style="color:#DD1212;filter:grayscale(1) invert(1) contrast(100);">#DD1212</span></code> `#DD1212` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.05 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mead (Personal)](/setts/s10/b72k6r12k6ba20r10ba6y8k2b4-b3850c8-ba003c64-k101010-rc80000-yfccc00/) — ΔT 0.89
+1. [Union Memorial Tartan](/setts/s10/b24b8r8b8y4ba112r36w2ba8ba6-b2888c4-ba1c0070-ra00000-wc0c0c0-ye8c000/) — ΔT 1.16
+1. [Raith Rovers F.C.](/setts/s8/b12w4g4w6b48r2ba70r4-b000050-ba304080-g30a010-rc00000-we0e0e0/) — ΔT 1.21
+1. [Solway Spirit (District)](/setts/s11/w8b80g4b4g4b4g4b6g32ba30r6-b440044-ba2c2c80-g408060-rc04094-we0e0e0/) — ΔT 1.22
+1. [Hill (Name)](/setts/s9/w6b4y2b4y2b62k56r4k4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.25
+1. [Finnie (Personal)](/setts/s8/b8w8b74k40w2ba10w2k8-b2c2c80-ba780078-k101010-we0e0e0/) — ΔT 1.27
+1. [Royal Navy](/setts/s12/b4ba8b3ba2b64bb24r4bc3bb4bc3w8r4-b141e46-ba5a008c-bb3c82af-bc000064-rdc0000-we0e0e0/) — ΔT 1.31
+1. [Fremont Presbyterian Church (P)](/setts/s8/k12r4k12r24w4b72y2g6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.34
+1. [Locky](/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.37
+1. [Heart of Scotland Fancy Tartan Tartan Number: 4230. Earliest known date: 1999 October 1999. Designed by Lochcarron of Scotland for 'Gavin' Kiltmaker. They use it for their hire kilts. Colour checked against sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b10w2b88r2g24k24r10k4wa4k6-b1c0070-g006818-k101010-rc04094-wc0c0c0-wac49cd8/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b72k6r12k6ba20r10ba6y8k2b4-b3850c8-ba003c64-k101010-rc80000-yfccc00/"><circle cx="305.8" cy="92.3" r="4" fill="#3465a4"><title>Mead (Personal)</title></circle></a><a href="/setts/s10/b24b8r8b8y4ba112r36w2ba8ba6-b2888c4-ba1c0070-ra00000-wc0c0c0-ye8c000/"><circle cx="377.6" cy="80.7" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/setts/s8/b12w4g4w6b48r2ba70r4-b000050-ba304080-g30a010-rc00000-we0e0e0/"><circle cx="308.9" cy="117.8" r="4" fill="#3465a4"><title>Raith Rovers F.C.</title></circle></a><a href="/setts/s11/w8b80g4b4g4b4g4b6g32ba30r6-b440044-ba2c2c80-g408060-rc04094-we0e0e0/"><circle cx="304.3" cy="113.9" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/setts/s9/w6b4y2b4y2b62k56r4k4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="332.2" cy="109.8" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/setts/s8/b8w8b74k40w2ba10w2k8-b2c2c80-ba780078-k101010-we0e0e0/"><circle cx="360.6" cy="132.1" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s12/b4ba8b3ba2b64bb24r4bc3bb4bc3w8r4-b141e46-ba5a008c-bb3c82af-bc000064-rdc0000-we0e0e0/"><circle cx="299.2" cy="66.8" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/setts/s8/k12r4k12r24w4b72y2g6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="307.2" cy="91.3" r="4" fill="#3465a4"><title>Fremont Presbyterian Church (P)</title></circle></a><a href="/setts/s10/r6w4r4b4r4b48k56r4k6y2-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="290.7" cy="104.4" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/setts/s10/b10w2b88r2g24k24r10k4wa4k6-b1c0070-g006818-k101010-rc04094-wc0c0c0-wac49cd8/"><circle cx="345.8" cy="83.0" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan Tartan Number: 4230. Earliest known date: 1999 October 1999. Designed by Lochcarron of Scotland for 'Gavin' Kiltmaker. They use it for their hire kilts. Colour checked against sample. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="312.9" cy="96.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b72k6r12k6ba20r10ba6y8k2b4-b271b86-ba041b67-k101010-rdd1212-yf9c75c/

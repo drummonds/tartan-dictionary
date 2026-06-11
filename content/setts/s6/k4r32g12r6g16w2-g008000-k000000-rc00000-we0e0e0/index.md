@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/4 R32 G12 R6 G16 LN/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacAulay (Clan)](/setts/s6/k8r64g24r12g32w4-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.59
+1. [MacAulay Tartan Tartan Number: 1164. Earliest known date: 1881 This shorter version tallies with the count published by M'Intyre North in 1881 as having been given him by Logan. There are two Clans of the name associated with districts as far apart as Dumbarton and Lewis and they have no family connection with each other. They are the MacAulays of Ardencaple associated with the MacGregors and the MacAulays of Lewis who are associated with the MacLeods. This sett in its shortened form begins to resemble the MacGregor tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k4r32g12r6g16w2-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.59
+1. [Denny, hunting](/setts/s6/b2r32g12k2g12k2-b304080-g008000-k000000-rc00000/) — ΔT 0.63
+1. [MacAulay](/setts/s6/k2r16g6r3g8w1-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 0.67
+1. [MacAulay](/setts/s6/k4r32g12r6g16w2-g006818-k101010-rc80000-wc0c0c0/) — ΔT 0.71
+1. [MacGregor of Balquidder (Logan)](/setts/s6/g18r4g18r28k2w4-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.72
+1. [Comyn, or MacAulay](/setts/s8/r6g18w2g18r6g12r36k4-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.93
+1. [Starr (1978) (Name)](/setts/s7/k8r16w4r40g48r8w8-g00881c-k101010-rc80000-we0e0e0/) — ΔT 0.93
+1. [Wilson's, No 5](/setts/s6/r64b10g34r8g10w4-b5480b0-g008000-rc00000-we0e0e0/) — ΔT 0.96
+1. [Cumming #2](/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/) — ΔT 0.97
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8r64g24r12g32w4-g006818-k101010-rc80000-we0e0e0/"><circle cx="331.9" cy="188.0" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s6/k4r32g12r6g16w2-g006818-k101010-rc80000-we0e0e0/"><circle cx="331.9" cy="188.0" r="4" fill="#3465a4"><title>MacAulay Tartan Tartan Number: 1164. Earliest known date: 1881 This shorter version tallies with the count published by M'Intyre North in 1881 as having been given him by Logan. There are two Clans of the name associated with districts as far apart as Dumbarton and Lewis and they have no family connection with each other. They are the MacAulays of Ardencaple associated with the MacGregors and the MacAulays of Lewis who are associated with the MacLeods. This sett in its shortened form begins to resemble the MacGregor tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b2r32g12k2g12k2-b304080-g008000-k000000-rc00000/"><circle cx="323.2" cy="170.1" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="322.4" cy="184.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k4r32g12r6g16w2-g006818-k101010-rc80000-wc0c0c0/"><circle cx="335.9" cy="189.9" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/g18r4g18r28k2w4-g006818-k101010-rc80000-we0e0e0/"><circle cx="297.9" cy="199.1" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/setts/s8/r6g18w2g18r6g12r36k4-g008000-k000000-rc00000-we0e0e0/"><circle cx="300.4" cy="172.9" r="4" fill="#3465a4"><title>Comyn, or MacAulay</title></circle></a><a href="/setts/s7/k8r16w4r40g48r8w8-g00881c-k101010-rc80000-we0e0e0/"><circle cx="264.5" cy="178.7" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s6/r64b10g34r8g10w4-b5480b0-g008000-rc00000-we0e0e0/"><circle cx="352.6" cy="177.7" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/setts/s8/r6g18w2g18r6g12r36k4-g006818-k101010-rc80000-wfcfcfc/"><circle cx="312.8" cy="177.0" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><circle cx="315.4" cy="182.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k4r32g12r6g16w2-g008000-k000000-rc00000-we0e0e0/

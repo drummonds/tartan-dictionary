@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.11 |
 | W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lashbrooke of Barrowfield](/setts/s12/b6w6r6w48y8ba12b6r4b32bb24y4b6-b202060-ba643424-bb3850c8-rc80000-wfcfcfc-ye8c000/) — ΔT 1.26
+1. [Skye Dress, Blue, Earl of (Dance)](/setts/s16/b8ba4bb8ba4b8w6b6ba4w8ba4b8r28w44b4w10r8-b00008c-ba3474fc-bb646464-r8c0000-we0e0e0/) — ΔT 1.39
+1. [Sound of Iona](/setts/s9/w60b8ba12bb8ba12g12ba24g26wa8-b2888c4-ba202060-bb780078-g0098a0-wfcfcfc-wa98c8e8/) — ΔT 1.40
+1. [Euphoria](/setts/s13/w6k6wa48w6k6w48wa6b48wa6k6w48r6wa6-b0000ff-k101010-rff0000-wc0c0c0-waffffff/) — ΔT 1.41
+1. [Shanghai Scottish](/setts/s11/w4wa13b5wa8b27wa15ba16r3ba3r23y4-b0000cd-ba000080-rff0000-wffffff-wa82cffd-yffe600/) — ΔT 1.44
+1. [Praetorian Blue](/setts/s14/w6k6y6b48ka6wa6w48wa6ka48wa6w6b48wa6w6-b004080-k000040-ka101010-wffffff-wac0c0c0-yffff00/) — ΔT 1.46
+1. [Letang (Personal)](/setts/s14/b28w4y4w4b50k12wa34r6wa6r6wa6r6wa6r6-b1474b4-k101010-rc80000-w98c8e8-wae0e0e0-yfccc00/) — ΔT 1.51
+1. [Daughters of the American Revolution](/setts/s13/w4wa4b10wa4w8b10w12b28ba36r8wa4r4wa4-b38409c-ba202060-rc80000-w98c8e8-wafcfcfc/) — ΔT 1.53
+1. [Praetorian Imperatur (Fashion)](/setts/s14/w6k6y6b48k6ya6w48ya6k48ya6w6b48ya6w6-b5c20a0-k101010-we0e0e0-ye8c000-yaa0a0a0/) — ΔT 1.54
+1. [Diana Princess of Wales Memorial, The](/setts/s12/w8wa4w48b24k12wb4wa4wb16wa8k4wa4r4-b304080-k000000-rc00000-wd0f0f0-wae0e0e0-wb90d0f0/) — ΔT 1.56
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/b6w6r6w48y8ba12b6r4b32bb24y4b6-b202060-ba643424-bb3850c8-rc80000-wfcfcfc-ye8c000/"><circle cx="84.5" cy="99.4" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield</title></circle></a><a href="/setts/s16/b8ba4bb8ba4b8w6b6ba4w8ba4b8r28w44b4w10r8-b00008c-ba3474fc-bb646464-r8c0000-we0e0e0/"><circle cx="142.8" cy="106.1" r="4" fill="#3465a4"><title>Skye Dress, Blue, Earl of (Dance)</title></circle></a><a href="/setts/s9/w60b8ba12bb8ba12g12ba24g26wa8-b2888c4-ba202060-bb780078-g0098a0-wfcfcfc-wa98c8e8/"><circle cx="73.0" cy="143.7" r="4" fill="#3465a4"><title>Sound of Iona</title></circle></a><a href="/setts/s13/w6k6wa48w6k6w48wa6b48wa6k6w48r6wa6-b0000ff-k101010-rff0000-wc0c0c0-waffffff/"><circle cx="146.8" cy="124.7" r="4" fill="#3465a4"><title>Euphoria</title></circle></a><a href="/setts/s11/w4wa13b5wa8b27wa15ba16r3ba3r23y4-b0000cd-ba000080-rff0000-wffffff-wa82cffd-yffe600/"><circle cx="44.0" cy="138.4" r="4" fill="#3465a4"><title>Shanghai Scottish</title></circle></a><a href="/setts/s14/w6k6y6b48ka6wa6w48wa6ka48wa6w6b48wa6w6-b004080-k000040-ka101010-wffffff-wac0c0c0-yffff00/"><circle cx="91.3" cy="110.2" r="4" fill="#3465a4"><title>Praetorian Blue</title></circle></a><a href="/setts/s14/b28w4y4w4b50k12wa34r6wa6r6wa6r6wa6r6-b1474b4-k101010-rc80000-w98c8e8-wae0e0e0-yfccc00/"><circle cx="161.1" cy="96.7" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/setts/s13/w4wa4b10wa4w8b10w12b28ba36r8wa4r4wa4-b38409c-ba202060-rc80000-w98c8e8-wafcfcfc/"><circle cx="109.8" cy="138.9" r="4" fill="#3465a4"><title>Daughters of the American Revolution</title></circle></a><a href="/setts/s14/w6k6y6b48k6ya6w48ya6k48ya6w6b48ya6w6-b5c20a0-k101010-we0e0e0-ye8c000-yaa0a0a0/"><circle cx="127.1" cy="125.4" r="4" fill="#3465a4"><title>Praetorian Imperatur (Fashion)</title></circle></a><a href="/setts/s12/w8wa4w48b24k12wb4wa4wb16wa8k4wa4r4-b304080-k000000-rc00000-wd0f0f0-wae0e0e0-wb90d0f0/"><circle cx="103.9" cy="92.5" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial, The</title></circle></a><circle cx="96.0" cy="107.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/w6r6b48wa6k6w48k6y48wa6y6b48wa6y6-b0000ff-k101010-rff0000-wffffff-wac0c0c0-yff8000/

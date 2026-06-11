@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wilson's, No 33](/setts/s9/b8g34ba6r6ba6k38y4g34r8-b304080-ba5480b0-g008000-k000000-rc00000-yf0c000/) — ΔT 0.10
+1. [Wilson's, No 225](/setts/s9/g32ga4b26ba4k12y4g32ba4k24-b800080-ba5480b0-g008000-ga30a010-k000000-yf0c000/) — ΔT 0.63
+1. [Madewell (Name)](/setts/s9/r4k4w4k28g26ga12y4k4w4-g005c34-ga289c18-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.96
+1. [Stephenson](/setts/s11/k12g40b4r10b4k40y6ba40g52r6ba10-b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.96
+1. [MacKellar](/setts/s12/g60w6g8y10g8w6g12k28b6k28ba36w8-b5480b0-ba304080-g008000-k000000-we0e0e0-yf0c000/) — ΔT 0.99
+1. [Louth County Crest (Fashion)](/setts/s9/y16ya5k8ya8k68g46w8k8r8-g006818-k101010-re87878-we0e0e0-ye8c000-yabc8c00/) — ΔT 1.02
+1. [Madewell](/setts/s9/r4k4w4k28g26ga12y4k4w4-g003820-ga289c18-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.04
+1. [Kelsey, William (Personal)](/setts/s12/g24r4g4r10g32b6y4k4y6b12k40ya6-b2c4084-g289c18-k000000-rdc0000-ya0a0a0-yac89800/) — ΔT 1.04
+1. [MacKellar](/setts/s12/g60w6g8y10g8w6g12k28b6k28ba36w8-b5c8ca8-ba202060-g006818-k101010-wfcfcfc-yd8b000/) — ΔT 1.11
+1. [Wellecomme, Bernard (Personal)](/setts/s10/b8g16k16b8y6g42k6w8k6w8-b000080-g004c00-k1c1714-we8ccb8-yffff00/) — ΔT 1.12
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b8g34ba6r6ba6k38y4g34r8-b304080-ba5480b0-g008000-k000000-rc00000-yf0c000/"><circle cx="155.7" cy="154.4" r="4" fill="#3465a4"><title>Wilson's, No 33</title></circle></a><a href="/setts/s9/g32ga4b26ba4k12y4g32ba4k24-b800080-ba5480b0-g008000-ga30a010-k000000-yf0c000/"><circle cx="131.1" cy="168.5" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/setts/s9/r4k4w4k28g26ga12y4k4w4-g005c34-ga289c18-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="118.5" cy="157.4" r="4" fill="#3465a4"><title>Madewell (Name)</title></circle></a><a href="/setts/s11/k12g40b4r10b4k40y6ba40g52r6ba10-b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/"><circle cx="135.0" cy="135.8" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/setts/s12/g60w6g8y10g8w6g12k28b6k28ba36w8-b5480b0-ba304080-g008000-k000000-we0e0e0-yf0c000/"><circle cx="107.9" cy="132.8" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s9/y16ya5k8ya8k68g46w8k8r8-g006818-k101010-re87878-we0e0e0-ye8c000-yabc8c00/"><circle cx="193.8" cy="123.8" r="4" fill="#3465a4"><title>Louth County Crest (Fashion)</title></circle></a><a href="/setts/s9/r4k4w4k28g26ga12y4k4w4-g003820-ga289c18-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="120.8" cy="158.9" r="4" fill="#3465a4"><title>Madewell</title></circle></a><a href="/setts/s12/g24r4g4r10g32b6y4k4y6b12k40ya6-b2c4084-g289c18-k000000-rdc0000-ya0a0a0-yac89800/"><circle cx="108.4" cy="127.2" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/setts/s12/g60w6g8y10g8w6g12k28b6k28ba36w8-b5c8ca8-ba202060-g006818-k101010-wfcfcfc-yd8b000/"><circle cx="122.6" cy="137.6" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s10/b8g16k16b8y6g42k6w8k6w8-b000080-g004c00-k1c1714-we8ccb8-yffff00/"><circle cx="159.4" cy="178.9" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><circle cx="154.6" cy="154.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b8g34ba6r6ba6k38w4g34r8-b304080-ba5480b0-g008000-k000000-rc00000-we0e0e0/

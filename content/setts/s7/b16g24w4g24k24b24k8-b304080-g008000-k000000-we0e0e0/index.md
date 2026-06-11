@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/16 G24 LN4 G24 K24 B24 K/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKay](/setts/s7/b16g16b2g16k16b16y4-b304080-g008000-k000000-yf0c000/) — ΔT 0.57
+1. [MacIntyre](/setts/s7/k24g24k4g24k24b24ba6-b304080-ba5480b0-g008000-k000000/) — ΔT 0.61
+1. [Unnamed, No 31](/setts/s7/k16g16k2g16k16b16w4-b8080d0-g008000-k000000-we0e0e0/) — ΔT 0.72
+1. [Unidentified No 31](/setts/s7/k16g16k2g16k16b16w4-b0596fa-g005020-k101010-we0e0e0/) — ΔT 0.76
+1. [MacCallum](/setts/s7/k12g12r2g12k12b12k2-b304080-g008000-k000000-rc00000/) — ΔT 0.80
+1. [Fletcher #2](/setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/) — ΔT 0.88
+1. [MacLaggan](/setts/s7/k28g24w4g24k28b28k4-b304080-g008000-k000000-we0e0e0/) — ΔT 0.89
+1. [Wellington, or Waterloo](/setts/s6/b6g12k12b8r2b2-b5480b0-g008000-k000000-rc00000/) — ΔT 0.89
+1. [Graham of Montrose](/setts/s7/k16g16w4g16k16b16k4-b304080-g008000-k000000-we0e0e0/) — ΔT 0.89
+1. [Campbell of Breadalbane](/setts/s7/k18g18y4g18k18b18k6-b304080-g008000-k000000-yf0c000/) — ΔT 0.93
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b16g16b2g16k16b16y4-b304080-g008000-k000000-yf0c000/"><circle cx="142.5" cy="247.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s7/k24g24k4g24k24b24ba6-b304080-ba5480b0-g008000-k000000/"><circle cx="128.1" cy="261.4" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s7/k16g16k2g16k16b16w4-b8080d0-g008000-k000000-we0e0e0/"><circle cx="126.1" cy="240.2" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/setts/s7/k16g16k2g16k16b16w4-b0596fa-g005020-k101010-we0e0e0/"><circle cx="149.5" cy="250.4" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/setts/s7/k12g12r2g12k12b12k2-b304080-g008000-k000000-rc00000/"><circle cx="138.9" cy="257.3" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/"><circle cx="128.4" cy="237.6" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/setts/s7/k28g24w4g24k28b28k4-b304080-g008000-k000000-we0e0e0/"><circle cx="149.9" cy="248.5" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s6/b6g12k12b8r2b2-b5480b0-g008000-k000000-rc00000/"><circle cx="126.0" cy="243.8" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/k16g16w4g16k16b16k4-b304080-g008000-k000000-we0e0e0/"><circle cx="107.3" cy="276.8" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k18g18y4g18k18b18k6-b304080-g008000-k000000-yf0c000/"><circle cx="117.0" cy="276.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><circle cx="117.3" cy="260.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b16g24w4g24k24b24k8-b304080-g008000-k000000-we0e0e0/

@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "Ga/6 Ba32 K6 P4 K90 R2 K4 O/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cumnock (District)](/setts/s8/g6b32k6ba4k90r2k4y6-b2c2c80-ba780078-g289c18-k101010-rc80000-yfcb464/) — ΔT 0.21
+1. [Cumnock](/setts/s8/g6b32k6ba4k90r2k4y6-b0000cd-baaa00ff-g008b00-k101010-rff0000-yffa500/) — ΔT 0.81
+1. [Victorian Highland Pipe Band Assoc](/setts/s8/b92y2ya6g26y2r14ga6y2-b202060-g003820-ga006818-r880000-yfccc00-yae8c000/) — ΔT 1.17
+1. [Mohammed, Abu Hassan (Personal)](/setts/s9/b120w2b12g20r2g14k4y4w4-b1c1c50-g006818-k101010-rc80000-wfcfcec-ybc8c00/) — ΔT 1.23
+1. [Ravetta (Name)](/setts/s6/g20r10y2b100w1ga10-b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/) — ΔT 1.30
+1. [Watt (Corporate/Name)](/setts/s12/k96b8k12ba3k3ba3k3g20r8k3r4w4-b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.32
+1. [Royal Yacht Britannia](/setts/s8/k86y6g2w2b2y6b50r4-b202060-g005448-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.33
+1. [Coleburn (Corporate)](/setts/s10/b48y4b8y2b6k6g2k100r2ra6-b5c5c5c-g003820-k101010-rc80000-ra880000-ybc8c00/) — ΔT 1.37
+1. [Christie (London) Hunting](/setts/s6/b120y22r10ba10k2ra8-b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093/) — ΔT 1.38
+1. [Calgary HOG (Corporate)](/setts/s9/w8b12k8r4ra20k88b2k2w4-b5c5c5c-k101010-rc80000-raa00000-wc0c0c0/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g6b32k6ba4k90r2k4y6-b2c2c80-ba780078-g289c18-k101010-rc80000-yfcb464/"><circle cx="434.1" cy="92.0" r="4" fill="#3465a4"><title>Cumnock (District)</title></circle></a><a href="/setts/s8/g6b32k6ba4k90r2k4y6-b0000cd-baaa00ff-g008b00-k101010-rff0000-yffa500/"><circle cx="410.5" cy="83.6" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/setts/s8/b92y2ya6g26y2r14ga6y2-b202060-g003820-ga006818-r880000-yfccc00-yae8c000/"><circle cx="385.9" cy="84.0" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/setts/s9/b120w2b12g20r2g14k4y4w4-b1c1c50-g006818-k101010-rc80000-wfcfcec-ybc8c00/"><circle cx="483.2" cy="73.3" r="4" fill="#3465a4"><title>Mohammed, Abu Hassan (Personal)</title></circle></a><a href="/setts/s6/g20r10y2b100w1ga10-b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/"><circle cx="466.0" cy="104.6" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/setts/s12/k96b8k12ba3k3ba3k3g20r8k3r4w4-b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0/"><circle cx="441.2" cy="73.3" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/setts/s8/k86y6g2w2b2y6b50r4-b202060-g005448-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="348.6" cy="86.8" r="4" fill="#3465a4"><title>Royal Yacht Britannia</title></circle></a><a href="/setts/s10/b48y4b8y2b6k6g2k100r2ra6-b5c5c5c-g003820-k101010-rc80000-ra880000-ybc8c00/"><circle cx="404.2" cy="74.2" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/setts/s6/b120y22r10ba10k2ra8-b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093/"><circle cx="467.1" cy="105.0" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/setts/s9/w8b12k8r4ra20k88b2k2w4-b5c5c5c-k101010-rc80000-raa00000-wc0c0c0/"><circle cx="427.0" cy="87.1" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><circle cx="430.4" cy="89.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g6b32k6ba4k90r2k4y6-b34349c-ba780078-g289c18-k101010-rf80000-yf88000/

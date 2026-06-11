@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/4 R44 T22 LG4 T22 B/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cetoloni Family Tartan Tartan Number: 2049. Earliest known date: November 1991 The Cetoloni tartan was designed with the colours of the Border Hills, 'the sky at its best, the rooftop skyline of Siena and the golden sun of Tuscany'. Franco Cetoloni of Liddlevale was born in Badia Roti Bucine in Arezzo, Italy. Jayne was a designer at Pringle's knitwear in Hawick. Red is Sienna red. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4r44g22y4g22b4-b2c2c80-g604000-ra03400-ye8c000/) — ΔT 0.87
+1. [Chisholm](/setts/s8/r24b4y2b4r6g16r6b2-b6e5058-g11450d-raa0000-yaaaaaa/) — ΔT 1.34
+1. [Chisholm](/setts/s8/r12b2y1b2r3g8r3b1-b6e5058-g11450d-raa0000-yaaaaaa/) — ΔT 1.34
+1. [Cypress](/setts/s6/b8r8b68ra68rb8ra8-b3c3c3c-re02cb8-ra70000c-rbb07430/) — ΔT 1.47
+1. [Wasko (Personal)](/setts/s7/r16y4ra60g24ra6g24ra6-g003c20-r9c0000-ra640000-yb0b0b0/) — ΔT 1.55
+1. [Cairn O'Mount (Personal)](/setts/s6/r116b24r10g56r14y10-b647480-g648468-rb40000-ybc8c00/) — ΔT 1.57
+1. [Dewar (Name)](/setts/s6/g6r6g42r24ra42r6-g285800-ra00000-rac80000/) — ΔT 1.59
+1. [MacNab VS](/setts/s7/g12r4b4g8b4r24k2-b59110d-g11450d-k000000-raa0000/) — ΔT 1.61
+1. [MacIver of Strathendry Htg (Personal](/setts/s9/r6ra56b10ra10b66ra10b10ra56y6-b441800-r880000-ra98481c-ybc8c00/) — ΔT 1.63
+1. [Callum (Buchan) (Name)](/setts/s5/b56r8ba48r64y8-b5c5c5c-ba344054-rc80000-ya0a0a0/) — ΔT 1.70
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b4r44g22y4g22b4-b2c2c80-g604000-ra03400-ye8c000/"><circle cx="356.9" cy="236.0" r="4" fill="#3465a4"><title>Cetoloni Family Tartan Tartan Number: 2049. Earliest known date: November 1991 The Cetoloni tartan was designed with the colours of the Border Hills, 'the sky at its best, the rooftop skyline of Siena and the golden sun of Tuscany'. Franco Cetoloni of Liddlevale was born in Badia Roti Bucine in Arezzo, Italy. Jayne was a designer at Pringle's knitwear in Hawick. Red is Sienna red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r24b4y2b4r6g16r6b2-b6e5058-g11450d-raa0000-yaaaaaa/"><circle cx="376.9" cy="202.9" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s8/r12b2y1b2r3g8r3b1-b6e5058-g11450d-raa0000-yaaaaaa/"><circle cx="376.9" cy="202.9" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s6/b8r8b68ra68rb8ra8-b3c3c3c-re02cb8-ra70000c-rbb07430/"><circle cx="377.7" cy="243.0" r="4" fill="#3465a4"><title>Cypress</title></circle></a><a href="/setts/s7/r16y4ra60g24ra6g24ra6-g003c20-r9c0000-ra640000-yb0b0b0/"><circle cx="384.1" cy="219.1" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/setts/s6/r116b24r10g56r14y10-b647480-g648468-rb40000-ybc8c00/"><circle cx="428.5" cy="211.5" r="4" fill="#3465a4"><title>Cairn O'Mount (Personal)</title></circle></a><a href="/setts/s6/g6r6g42r24ra42r6-g285800-ra00000-rac80000/"><circle cx="285.8" cy="259.7" r="4" fill="#3465a4"><title>Dewar (Name)</title></circle></a><a href="/setts/s7/g12r4b4g8b4r24k2-b59110d-g11450d-k000000-raa0000/"><circle cx="319.1" cy="208.4" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/setts/s9/r6ra56b10ra10b66ra10b10ra56y6-b441800-r880000-ra98481c-ybc8c00/"><circle cx="420.4" cy="211.8" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/setts/s5/b56r8ba48r64y8-b5c5c5c-ba344054-rc80000-ya0a0a0/"><circle cx="258.0" cy="258.4" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><circle cx="354.0" cy="227.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b4r44g22ga4g22b4-b304080-g604000-ga908000-rc00020/

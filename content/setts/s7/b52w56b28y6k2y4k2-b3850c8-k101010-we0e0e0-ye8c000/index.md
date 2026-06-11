@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "Ba/52 LN56 Ba28 Y6 K2 Y4 K/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gothenburg/Goteborg](/setts/s7/b52w56b28y6k2y4k2-b2c4084-k101010-we0e0e0-ye8c000/) — ΔT 0.93
+1. [Harmony, Eildon](/setts/s8/b82ba4w4ba4b10bb24w62b8-b304080-ba5480b0-bb8080d0-we0e0e0/) — ΔT 0.99
+1. [Harmony Eildon (Dance)](/setts/s8/b82ba4w4ba4b10bb24w62b8-b2c2c80-ba5c8ca8-bb2888c4-we0e0e0/) — ΔT 1.05
+1. [Cunningham, Dress Blue (Dance) Fashion Tartan Tartan Number: 4642. Earliest known date: 01/01/2002 Like so many of the invented 'Dance' tartans this one is not known by the relevant Clan Cunningham Association (USA). /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b8ba4k4ba80w80ba4w8-b2888c4-ba2c2c80-k101010-we0e0e0/) — ΔT 1.13
+1. [Jack Sinclair (Personal)](/setts/s7/b8r4b80k22g4w32r4-b6495ed-g006818-k101010-rcc1100-wf8f8f8/) — ΔT 1.19
+1. [Longniddry, dress (Turquoise)](/setts/s8/b84k4w4k4b10ba24w64b8-b5480b0-ba606080-k000000-we0e0e0/) — ΔT 1.31
+1. [Mount Vernon Primary School](/setts/s5/w100b44r20wa4k4-b000080-k101010-rff0000-w87ceeb-waffffff/) — ΔT 1.31
+1. [Mount Vernon Primary School (Corp)](/setts/s5/w100b44r20wa4k4-b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0/) — ΔT 1.36
+1. [WaterAid](/setts/s6/b46w16wa4k10w88b8-b00008c-k101010-wffffff-wa98c8e8/) — ΔT 1.37
+1. [Thorburn #1 (Name)](/setts/s9/b48w8b8ba24b16w12b16w72r4-b2c2c80-ba2888c4-rc80000-w98c8e8/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b52w56b28y6k2y4k2-b2c4084-k101010-we0e0e0-ye8c000/"><circle cx="306.1" cy="133.4" r="4" fill="#3465a4"><title>Gothenburg/Goteborg</title></circle></a><a href="/setts/s8/b82ba4w4ba4b10bb24w62b8-b304080-ba5480b0-bb8080d0-we0e0e0/"><circle cx="283.1" cy="135.1" r="4" fill="#3465a4"><title>Harmony, Eildon</title></circle></a><a href="/setts/s8/b82ba4w4ba4b10bb24w62b8-b2c2c80-ba5c8ca8-bb2888c4-we0e0e0/"><circle cx="275.4" cy="133.9" r="4" fill="#3465a4"><title>Harmony Eildon (Dance)</title></circle></a><a href="/setts/s7/b8ba4k4ba80w80ba4w8-b2888c4-ba2c2c80-k101010-we0e0e0/"><circle cx="286.0" cy="130.0" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance) Fashion Tartan Tartan Number: 4642. Earliest known date: 01/01/2002 Like so many of the invented 'Dance' tartans this one is not known by the relevant Clan Cunningham Association (USA). /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b8r4b80k22g4w32r4-b6495ed-g006818-k101010-rcc1100-wf8f8f8/"><circle cx="283.7" cy="120.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/setts/s8/b84k4w4k4b10ba24w64b8-b5480b0-ba606080-k000000-we0e0e0/"><circle cx="293.9" cy="137.0" r="4" fill="#3465a4"><title>Longniddry, dress (Turquoise)</title></circle></a><a href="/setts/s5/w100b44r20wa4k4-b000080-k101010-rff0000-w87ceeb-waffffff/"><circle cx="298.0" cy="134.0" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/setts/s5/w100b44r20wa4k4-b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0/"><circle cx="312.7" cy="136.6" r="4" fill="#3465a4"><title>Mount Vernon Primary School (Corp)</title></circle></a><a href="/setts/s6/b46w16wa4k10w88b8-b00008c-k101010-wffffff-wa98c8e8/"><circle cx="318.0" cy="137.8" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><a href="/setts/s9/b48w8b8ba24b16w12b16w72r4-b2c2c80-ba2888c4-rc80000-w98c8e8/"><circle cx="245.9" cy="156.0" r="4" fill="#3465a4"><title>Thorburn #1 (Name)</title></circle></a><circle cx="310.3" cy="134.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b52w56b28y6k2y4k2-b3850c8-k101010-we0e0e0-ye8c000/

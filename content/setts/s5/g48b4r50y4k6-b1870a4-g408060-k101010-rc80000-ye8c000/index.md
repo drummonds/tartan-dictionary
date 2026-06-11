@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/48 B4 R50 Y4 K/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Eglinton, Duke of (Artefact)](/setts/s5/g60y4b16w4r60-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.84
+1. [Turnbull Dress](/setts/s5/k12b6g60r60y6-b2c2c80-g006818-k101010-rc80000-yd8b000/) — ΔT 1.01
+1. [Prince of Orange #2](/setts/s5/b12y50g32k4b6-b2c2c80-g604000-k101010-yd87c00/) — ΔT 1.11
+1. [Spragg, Andrew](/setts/s7/r4g32ra2r4ra24y2ga2-g165041-ga547c73-ra62a2a-racc1100-yffe600/) — ΔT 1.13
+1. [Cetoloni (Personal)](/setts/s6/b4r48g24y4g24b4-b2c2c80-g006818-rc80000-ye8c000/) — ΔT 1.14
+1. [Leckie (Personal)](/setts/s7/r12b4r48ra12g48w4g8-b00008c-g004c00-rb00000-ra640000-wc8c8c8/) — ΔT 1.17
+1. [Afternoon Tea / Milk Tea](/setts/s6/w15y98b72r25b8ya15-b4c3428-re87878-we0e0e0-ya08858-ya48a4c0/) — ΔT 1.18
+1. [Spragg (Name)](/setts/s7/r4g32ra2r4ra24y2b2-b5c8ca8-g048888-r901c38-rac80000-ye8c000/) — ΔT 1.19
+1. [Hutcheson (Name)](/setts/s6/b16g8r60ga60y6ga8-b003c64-g789484-ga00643c-rcc4438-ydc943c/) — ΔT 1.21
+1. [Turnbull Dress Clan Tartan Tartan Number: 1035. Earliest known date: 1979 An unusual dress tartan having no white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k14b6g56r56y6-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 1.23
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g60y4b16w4r60-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="248.8" cy="176.8" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/setts/s5/k12b6g60r60y6-b2c2c80-g006818-k101010-rc80000-yd8b000/"><circle cx="234.6" cy="193.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/setts/s5/b12y50g32k4b6-b2c2c80-g604000-k101010-yd87c00/"><circle cx="277.0" cy="200.5" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s7/r4g32ra2r4ra24y2ga2-g165041-ga547c73-ra62a2a-racc1100-yffe600/"><circle cx="300.3" cy="151.7" r="4" fill="#3465a4"><title>Spragg, Andrew</title></circle></a><a href="/setts/s6/b4r48g24y4g24b4-b2c2c80-g006818-rc80000-ye8c000/"><circle cx="287.6" cy="197.2" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s7/r12b4r48ra12g48w4g8-b00008c-g004c00-rb00000-ra640000-wc8c8c8/"><circle cx="273.2" cy="178.7" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><a href="/setts/s6/w15y98b72r25b8ya15-b4c3428-re87878-we0e0e0-ya08858-ya48a4c0/"><circle cx="225.8" cy="179.9" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/setts/s7/r4g32ra2r4ra24y2b2-b5c8ca8-g048888-r901c38-rac80000-ye8c000/"><circle cx="296.8" cy="149.8" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/setts/s6/b16g8r60ga60y6ga8-b003c64-g789484-ga00643c-rcc4438-ydc943c/"><circle cx="253.8" cy="196.6" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/setts/s5/k14b6g56r56y6-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="215.5" cy="197.2" r="4" fill="#3465a4"><title>Turnbull Dress Clan Tartan Tartan Number: 1035. Earliest known date: 1979 An unusual dress tartan having no white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="283.0" cy="181.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/g48b4r50y4k6-b1870a4-g408060-k101010-rc80000-ye8c000/

@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/6 R4 G54 DG6 W60 DG4 W/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Longniddry Green (Dance)](/setts/s8/g84ga4w4ga4g10b24w64g8-b1c1c1c-g006818-ga289c18-wfcfcfc/) — ΔT 0.97
+1. [Longniddry Green District Tartan Tartan Number: 764. Earliest known date: pre 1992 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g84ga4w4ga4g10gb24w64g8-g006818-ga289c18-gb003820-we0e0e0/) — ΔT 1.09
+1. [Tilburg Hunting (District)](/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/) — ΔT 1.16
+1. [Bundy, Dress Black Personal)](/setts/s8/g4g4w4g60w60g4w4g4-g006818-wf8f8f8/) — ΔT 1.18
+1. [Longniddry, Green](/setts/s8/g84ga4w4ga4g10gb24w64g8-g008000-ga30a010-gb003000-we0e0e0/) — ΔT 1.19
+1. [MacDiarmid, dress](/setts/s9/w38r12w37g32k3w4k3g32r4-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.23
+1. [Cunningham Dress Green (Dance)](/setts/s7/w10g4w68g68k4g4y8-g289c18-k101010-wf8f8f8-ye8c000/) — ΔT 1.23
+1. [MacPherson Dress Green (Dance)](/setts/s7/w10r6w52g40w6g16y6-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.23
+1. [MacDiarmid Dress](/setts/s9/w76r24w74g64k6w8k6g64r8-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.29
+1. [MacDiarmid Dress Clan Tartan Tartan Number: 1486. Earliest known date: c.1830 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w38r12w37g32k3w4k3g32r4-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g84ga4w4ga4g10b24w64g8-b1c1c1c-g006818-ga289c18-wfcfcfc/"><circle cx="263.3" cy="130.3" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/setts/s8/g84ga4w4ga4g10gb24w64g8-g006818-ga289c18-gb003820-we0e0e0/"><circle cx="277.1" cy="138.2" r="4" fill="#3465a4"><title>Longniddry Green District Tartan Tartan Number: 764. Earliest known date: pre 1992 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b12k6b74y82w6y12w6-b1068a4-k101010-we0e0e0-yd8a810/"><circle cx="285.9" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s8/g4g4w4g60w60g4w4g4-g006818-wf8f8f8/"><circle cx="293.5" cy="145.6" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/setts/s8/g84ga4w4ga4g10gb24w64g8-g008000-ga30a010-gb003000-we0e0e0/"><circle cx="277.6" cy="138.5" r="4" fill="#3465a4"><title>Longniddry, Green</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4-g008000-k000000-rc00000-we0e0e0/"><circle cx="223.0" cy="163.9" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s7/w10g4w68g68k4g4y8-g289c18-k101010-wf8f8f8-ye8c000/"><circle cx="280.2" cy="141.9" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/setts/s7/w10r6w52g40w6g16y6-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="244.7" cy="184.8" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/setts/s9/w76r24w74g64k6w8k6g64r8-g006818-k101010-rc80000-we0e0e0/"><circle cx="224.7" cy="164.1" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4-g006818-k101010-rc80000-we0e0e0/"><circle cx="224.7" cy="164.1" r="4" fill="#3465a4"><title>MacDiarmid Dress Clan Tartan Tartan Number: 1486. Earliest known date: c.1830 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="265.2" cy="146.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/

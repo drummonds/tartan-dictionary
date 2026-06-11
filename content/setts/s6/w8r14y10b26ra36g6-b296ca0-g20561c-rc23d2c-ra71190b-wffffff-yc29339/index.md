@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/6 DR36 B26 O10 R14 W/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Nicolson of Lewis (Clan?)](/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/) — ΔT 0.47
+1. [Reekie (Edmonton)](/setts/s6/k16r24w16g30b60y10-b5f7490-g23321b-k1c1714-rb62531-wf9f5ef-yf8e380/) — ΔT 0.96
+1. [Nicolson of Tiree & Coll (Clan)](/setts/s6/g12b32r44ba12k8bb8-b2c2c80-ba003c64-bb780078-g289c18-k101010-rc80000/) — ΔT 1.09
+1. [Unidentified No 14](/setts/s9/r22b6ba10y4r4w4g22ba8y3-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 1.14
+1. [Unnamed No 14 Tartan Tartan Number: 1326. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r22b6ba10y4r4w4g22ba8y3-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.18
+1. [Thompson (J.C.'s Fancy) (Personal)](/setts/s6/r12y48b12g24k24g6-b2c2c80-g789484-k101010-rc80000-ya08858/) — ΔT 1.19
+1. [Nicolson of Taransay (Personal)](/setts/s7/w12g20r44b32ga4ga8ga10-b2c2c80-g006818-ga289c18-rc80000-we0e0e0/) — ΔT 1.20
+1. [Porcupine City of](/setts/s7/r40b12ba4w32ba4y8g20-b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800/) — ΔT 1.20
+1. [Mekos, The](/setts/s6/g38ga46y6b30r22w10-b2c2c80-g603800-ga006818-rc80000-wfcfcfc-yfccc00/) — ΔT 1.21
+1. [Deeside District](/setts/s7/y2b8r2ra10ba4ra2y2-b536c9a-ba5d002c-r9b4000-ra96815c-yffc800/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b12ba20bb8g20r44w12-b344054-ba003c64-bb5c5c5c-g003820-rc80000-we0e0e0/"><circle cx="97.7" cy="207.2" r="4" fill="#3465a4"><title>Nicolson of Lewis (Clan?)</title></circle></a><a href="/setts/s6/k16r24w16g30b60y10-b5f7490-g23321b-k1c1714-rb62531-wf9f5ef-yf8e380/"><circle cx="84.4" cy="197.5" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/setts/s6/g12b32r44ba12k8bb8-b2c2c80-ba003c64-bb780078-g289c18-k101010-rc80000/"><circle cx="125.9" cy="202.9" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/setts/s9/r22b6ba10y4r4w4g22ba8y3-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="84.5" cy="161.0" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/setts/s9/r22b6ba10y4r4w4g22ba8y3-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="83.6" cy="161.5" r="4" fill="#3465a4"><title>Unnamed No 14 Tartan Tartan Number: 1326. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r12y48b12g24k24g6-b2c2c80-g789484-k101010-rc80000-ya08858/"><circle cx="141.8" cy="210.8" r="4" fill="#3465a4"><title>Thompson (J.C.'s Fancy) (Personal)</title></circle></a><a href="/setts/s7/w12g20r44b32ga4ga8ga10-b2c2c80-g006818-ga289c18-rc80000-we0e0e0/"><circle cx="102.5" cy="161.1" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s7/r40b12ba4w32ba4y8g20-b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800/"><circle cx="113.6" cy="162.7" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/setts/s6/g38ga46y6b30r22w10-b2c2c80-g603800-ga006818-rc80000-wfcfcfc-yfccc00/"><circle cx="67.6" cy="204.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s7/y2b8r2ra10ba4ra2y2-b536c9a-ba5d002c-r9b4000-ra96815c-yffc800/"><circle cx="139.3" cy="203.3" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><circle cx="100.6" cy="200.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/w8r14y10b26ra36g6-b296ca0-g20561c-rc23d2c-ra71190b-wffffff-yc29339/

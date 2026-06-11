@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/18 R2 B60 LN8 B16 DB/102 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Edzell, U.S. Navy](/setts/s6/b90ba14w6ba54r2ba14-b000050-ba304080-rc00000-we0e0e0/) — ΔT 1.20
+1. [Edzell, U.S. Navy](/setts/s6/b104ba16w8ba66r3ba16-b000050-ba304080-rc00000-we0e0e0/) — ΔT 1.22
+1. [NHS Grampian](/setts/s7/b8ba72k32w2b4w2k8-b2888c4-ba2c2c80-k101010-wfcfcfc/) — ΔT 1.49
+1. [Corries](/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/) — ΔT 1.52
+1. [Ewell Castle School](/setts/s6/b16w4b72ba72r4ba16-b1474b4-ba202060-rc80000-wfcfcfc/) — ΔT 1.55
+1. [St Andrews Earl of Royal family Tartan Tartan Number: 85. Earliest known date: c.1930 Count taken from a 'MacKinlay Strip'. Prince George is reputed to have worn this tartan at a Scottish Society dinner in 1919 and kept everyone guessing the name of the tartan. However, MacKinlay's record shows the design dating to 1930. No further details can be found. The sett has much in common with the Clan Donald. Royal titles of territorial origin provide a precedent for considering tartans of the name, District tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b104ba56w6ba4w4ba20-b2888c4-ba2c2c80-we0e0e0/) — ΔT 1.56
+1. [St. Andrews, Earl of (District)](/setts/s6/b104ba56w10ba6w4ba20-b1870a4-ba1c0070-wf8f8f8/) — ΔT 1.59
+1. [Danzas](/setts/s7/y8b6y2b34ba80b4ba6-b1870a4-ba2c2c80-ye8c000/) — ΔT 1.59
+1. [Bousie (Personal)](/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wf8f8f8/) — ΔT 1.60
+1. [Koot Wedding (Personal)](/setts/s6/b96k64r2k16r6w6-b2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 1.61
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b90ba14w6ba54r2ba14-b000050-ba304080-rc00000-we0e0e0/"><circle cx="404.5" cy="172.4" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/setts/s6/b104ba16w8ba66r3ba16-b000050-ba304080-rc00000-we0e0e0/"><circle cx="382.2" cy="179.8" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/setts/s7/b8ba72k32w2b4w2k8-b2888c4-ba2c2c80-k101010-wfcfcfc/"><circle cx="390.6" cy="142.9" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/setts/s6/b56ba30r4ba4w2ba12-b5c8ca8-ba003c64-rc80000-we0e0e0/"><circle cx="378.1" cy="173.7" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s6/b16w4b72ba72r4ba16-b1474b4-ba202060-rc80000-wfcfcfc/"><circle cx="341.6" cy="199.4" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/setts/s6/b104ba56w6ba4w4ba20-b2888c4-ba2c2c80-we0e0e0/"><circle cx="397.8" cy="186.7" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan Tartan Number: 85. Earliest known date: c.1930 Count taken from a 'MacKinlay Strip'. Prince George is reputed to have worn this tartan at a Scottish Society dinner in 1919 and kept everyone guessing the name of the tartan. However, MacKinlay's record shows the design dating to 1930. No further details can be found. The sett has much in common with the Clan Donald. Royal titles of territorial origin provide a precedent for considering tartans of the name, District tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b104ba56w10ba6w4ba20-b1870a4-ba1c0070-wf8f8f8/"><circle cx="357.7" cy="180.6" r="4" fill="#3465a4"><title>St. Andrews, Earl of (District)</title></circle></a><a href="/setts/s7/y8b6y2b34ba80b4ba6-b1870a4-ba2c2c80-ye8c000/"><circle cx="465.9" cy="161.2" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wf8f8f8/"><circle cx="315.9" cy="116.3" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><a href="/setts/s6/b96k64r2k16r6w6-b2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="386.0" cy="151.2" r="4" fill="#3465a4"><title>Koot Wedding (Personal)</title></circle></a><circle cx="384.1" cy="157.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b102ba16w8ba60r2ba18-b202060-ba1474b4-rc80000-we0e0e0/

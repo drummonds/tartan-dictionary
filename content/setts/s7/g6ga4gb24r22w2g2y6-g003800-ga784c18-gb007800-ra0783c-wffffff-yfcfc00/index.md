@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/6 T4 Ga24 LT22 W2 G2 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Jolley (Personal)](/setts/s8/g8b4ga48gb20y24r2y24ga4-b5c5c5c-g289c18-ga006818-gb604000-rc80000-yc4bc68/) — ΔT 1.22
+1. [McShane (Personal)](/setts/s8/g36w8g36k8ga56y16w8r8-g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000/) — ΔT 1.36
+1. [Breacan](/setts/s12/r6w2r2w6g2w2g20ga4g2ga20y4ra4-g006818-ga289c18-rc04c08-ra880000-wfcfcfc-ye8c000/) — ΔT 1.36
+1. [Dalwhinnie Trade Tartan Tartan Number: 1018. Earliest known date: 1982 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g70y6r28ga56r5ga11r5ga11ya12-g003820-ga289c18-r888888-ye8c000-yad87c00/) — ΔT 1.41
+1. [Royal Pharmaceutical, Society](/setts/s9/r6w4g38w12g4w12ra28rb8wa4-g008000-r806050-raa08060-rb802040-wc0c0c0-wae0e0e0/) — ΔT 1.45
+1. [Dalwhinnie](/setts/s9/g70y6ga28gb56ga5gb11ga5gb11ya12-g003000-ga808080-gb008000-yf0c000-yaff8500/) — ΔT 1.48
+1. [Dalwhinnie](/setts/s9/g70y6ya28ga56ya5ga11ya5ga11r12-g004c00-ga288028-rc80000-yffd700-yaa0a0a0/) — ΔT 1.51
+1. [Layton (Name)](/setts/s8/g8r6g48k2w14k2ga48y6-g006818-ga288028-k101010-rc80000-wfcfcfc-yfccc00/) — ΔT 1.52
+1. [Botherston (Name)](/setts/s8/r4y48r4y6r4g48k16ya4-g006818-k101010-r880000-ya08858-yae8c000/) — ΔT 1.53
+1. [Kilkenny](/setts/s7/r10g54ra4ga50y14g6r6-g003000-ga30a010-r802040-ra906030-yf0c000/) — ΔT 1.54
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g8b4ga48gb20y24r2y24ga4-b5c5c5c-g289c18-ga006818-gb604000-rc80000-yc4bc68/"><circle cx="203.3" cy="135.3" r="4" fill="#3465a4"><title>Jolley (Personal)</title></circle></a><a href="/setts/s8/g36w8g36k8ga56y16w8r8-g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000/"><circle cx="153.3" cy="186.6" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/setts/s12/r6w2r2w6g2w2g20ga4g2ga20y4ra4-g006818-ga289c18-rc04c08-ra880000-wfcfcfc-ye8c000/"><circle cx="107.4" cy="125.2" r="4" fill="#3465a4"><title>Breacan</title></circle></a><a href="/setts/s9/g70y6r28ga56r5ga11r5ga11ya12-g003820-ga289c18-r888888-ye8c000-yad87c00/"><circle cx="198.7" cy="158.0" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan Tartan Number: 1018. Earliest known date: 1982 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r6w4g38w12g4w12ra28rb8wa4-g008000-r806050-raa08060-rb802040-wc0c0c0-wae0e0e0/"><circle cx="151.0" cy="160.8" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/setts/s9/g70y6ga28gb56ga5gb11ga5gb11ya12-g003000-ga808080-gb008000-yf0c000-yaff8500/"><circle cx="202.0" cy="160.6" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s9/g70y6ya28ga56ya5ga11ya5ga11r12-g004c00-ga288028-rc80000-yffd700-yaa0a0a0/"><circle cx="217.6" cy="165.6" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s8/g8r6g48k2w14k2ga48y6-g006818-ga288028-k101010-rc80000-wfcfcfc-yfccc00/"><circle cx="219.2" cy="120.4" r="4" fill="#3465a4"><title>Layton (Name)</title></circle></a><a href="/setts/s8/r4y48r4y6r4g48k16ya4-g006818-k101010-r880000-ya08858-yae8c000/"><circle cx="223.3" cy="159.3" r="4" fill="#3465a4"><title>Botherston (Name)</title></circle></a><a href="/setts/s7/r10g54ra4ga50y14g6r6-g003000-ga30a010-r802040-ra906030-yf0c000/"><circle cx="199.0" cy="163.6" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><circle cx="154.9" cy="156.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g6ga4gb24r22w2g2y6-g003800-ga784c18-gb007800-ra0783c-wffffff-yfcfc00/

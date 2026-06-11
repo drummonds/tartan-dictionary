@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Murray of Atholl #3](/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.62
+1. [MacDonald](/setts/s12/b34r4b4r10b58r4k62g58r10g4r4g34-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.62
+1. [MacDonald #5](/setts/s12/b24r4b4r10b52r4k58g54r10g4r4g24-b2c4084-g005020-k101010-rdc0000/) — ΔT 0.76
+1. [Atholl](/setts/s13/b50k8b8k8b8k52g50r18g50k52b50k4r18-b1474b4-g006818-k101010-rc80000/) — ΔT 0.81
+1. [MacDonald #2](/setts/s12/b22r4b4r8b30r4k30g30r8g4r4g22-b2c4084-g005020-k101010-rdc0000/) — ΔT 0.81
+1. [Atholl (District)](/setts/s13/b50k8b8k8b8k52g50r12g50k52b50k4r12-b1474b4-g006818-k101010-rc80000/) — ΔT 0.82
+1. [Campbell of Breadalbane #2](/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b2c4084-g005020-k101010-ye8c000/) — ΔT 0.82
+1. [MacDonald #3](/setts/s12/b32r4b4r10b58r4k62g58r10g4r4g32-b2c4084-g005020-k101010-rdc0000/) — ΔT 0.85
+1. [Campbell of Breadalbane (Military)](/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b202060-g006818-k101010-ye8c000/) — ΔT 0.85
+1. [Wilson's No.150](/setts/s10/g38b4g8k26ba24k6ba24k26g8b4-b5c8ca8-ba780078-g006818-k101010/) — ΔT 0.87
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b2c2c80-g006818-k101010-rc80000/"><circle cx="185.3" cy="194.8" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/setts/s12/b34r4b4r10b58r4k62g58r10g4r4g34-b2c2c80-g006818-k101010-rc80000/"><circle cx="205.2" cy="165.4" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s12/b24r4b4r10b52r4k58g54r10g4r4g24-b2c4084-g005020-k101010-rdc0000/"><circle cx="208.0" cy="170.1" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/setts/s13/b50k8b8k8b8k52g50r18g50k52b50k4r18-b1474b4-g006818-k101010-rc80000/"><circle cx="156.1" cy="183.4" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/setts/s12/b22r4b4r8b30r4k30g30r8g4r4g22-b2c4084-g005020-k101010-rdc0000/"><circle cx="166.1" cy="205.8" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/setts/s13/b50k8b8k8b8k52g50r12g50k52b50k4r12-b1474b4-g006818-k101010-rc80000/"><circle cx="169.6" cy="181.6" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b2c4084-g005020-k101010-ye8c000/"><circle cx="209.6" cy="178.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s12/b32r4b4r10b58r4k62g58r10g4r4g32-b2c4084-g005020-k101010-rdc0000/"><circle cx="218.2" cy="171.0" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b202060-g006818-k101010-ye8c000/"><circle cx="202.3" cy="175.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/setts/s10/g38b4g8k26ba24k6ba24k26g8b4-b5c8ca8-ba780078-g006818-k101010/"><circle cx="176.0" cy="210.6" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><circle cx="183.5" cy="183.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b2c2c80-g006818-k101010-rc80000/

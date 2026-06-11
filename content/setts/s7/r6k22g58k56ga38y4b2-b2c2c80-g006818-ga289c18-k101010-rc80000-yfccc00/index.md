@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/2 Y4 G38 K56 Ga58 K22 R/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [PMMC](/setts/s7/r6k22g58k56ga38y4b2-b0000ff-g005020-ga289c18-k101010-rff0000-yffe600/) — ΔT 0.30
+1. [Cates Hunting (Clan)](/setts/s9/g46r14ga50y10g34k10y2w2r2-g003820-ga006818-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 1.08
+1. [Cates Hunting](/setts/s9/b46r14g50y10b34k10y2w2r2-b002814-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.13
+1. [Tooth](/setts/s8/g10y2r4g50k28b38w8g4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.14
+1. [McGeachie (Personal)](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.16
+1. [Hughes](/setts/s7/g80ga56b36y8b36k4w8-b304080-g008000-ga003000-k000000-we0e0e0-yf0c000/) — ΔT 1.23
+1. [Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.25
+1. [Leinster Ancestry](/setts/s9/k8g66k36y20ga38y6g30k2ya6-g1f5123-ga338513-k101010-yc4950c-yaf5c70d/) — ΔT 1.28
+1. [Lawson, William](/setts/s8/r6g2k32w6k30ga26g44y6-g005020-ga003c14-k101010-rdc0000-we0e0e0-yc89600/) — ΔT 1.31
+1. [Chiti, Cristiano (Personal)](/setts/s6/g40b22w12r4ba6w2-b002814-ba780078-g004c00-r880000-wc0c0c0/) — ΔT 1.32
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r6k22g58k56ga38y4b2-b0000ff-g005020-ga289c18-k101010-rff0000-yffe600/"><circle cx="207.8" cy="138.9" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/setts/s9/g46r14ga50y10g34k10y2w2r2-g003820-ga006818-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="243.7" cy="130.3" r="4" fill="#3465a4"><title>Cates Hunting (Clan)</title></circle></a><a href="/setts/s9/b46r14g50y10b34k10y2w2r2-b002814-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="242.2" cy="129.7" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/setts/s8/g10y2r4g50k28b38w8g4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="189.0" cy="119.3" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="207.0" cy="117.2" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s7/g80ga56b36y8b36k4w8-b304080-g008000-ga003000-k000000-we0e0e0-yf0c000/"><circle cx="161.6" cy="156.4" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="215.0" cy="129.3" r="4" fill="#3465a4"><title>Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k8g66k36y20ga38y6g30k2ya6-g1f5123-ga338513-k101010-yc4950c-yaf5c70d/"><circle cx="243.7" cy="142.9" r="4" fill="#3465a4"><title>Leinster Ancestry</title></circle></a><a href="/setts/s8/r6g2k32w6k30ga26g44y6-g005020-ga003c14-k101010-rdc0000-we0e0e0-yc89600/"><circle cx="199.6" cy="157.5" r="4" fill="#3465a4"><title>Lawson, William</title></circle></a><a href="/setts/s6/g40b22w12r4ba6w2-b002814-ba780078-g004c00-r880000-wc0c0c0/"><circle cx="241.2" cy="167.1" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><circle cx="207.5" cy="138.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r6k22g58k56ga38y4b2-b2c2c80-g006818-ga289c18-k101010-rc80000-yfccc00/

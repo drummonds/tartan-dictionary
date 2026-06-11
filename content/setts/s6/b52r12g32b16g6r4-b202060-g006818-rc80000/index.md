@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/52 R12 G32 DB16 G6 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Press & Journal](/setts/s5/k18b6k56b50w4-b4c5484-k101010-we0e0e0/) — ΔT 0.92
+1. [Connaught Green](/setts/s6/r2b24g10b4g8w2-b202060-g5c6428-ra00000-wc0c0c0/) — ΔT 0.96
+1. [Mackay (Blue)](/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/) — ΔT 0.97
+1. [Tartan Army Children's Charity (Corp](/setts/s7/b68k14b24k78b6k8y6-b5c5c5c-k101010-y48a4c0/) — ΔT 1.04
+1. [Cadence](/setts/s7/b102g10r30g74b34r12g10-b000050-g004010-rc00000/) — ΔT 1.04
+1. [TACC (Corporate)](/setts/s7/b68k14b24k80b6k8ba6-b5c5c5c-ba5c8ca8-k101010/) — ΔT 1.05
+1. [Campbell of Loch Awe](/setts/s5/k4b22k52g22k4-b1474b4-g006818-k101010/) — ΔT 1.07
+1. [Korner-MacPherson (Personal)](/setts/s7/b10r6b70k56b8k22b4-b5c5c5c-k101010-rc80000/) — ΔT 1.11
+1. [Robertson of Struan 1816](/setts/s7/r12b4r4b44g40r8b8-b202060-g006818-rc80000/) — ΔT 1.15
+1. [Dege, of Saville Row](/setts/s6/r44b4r12ba4b36ra4-b000050-ba304080-r806050-rac00000/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k18b6k56b50w4-b4c5484-k101010-we0e0e0/"><circle cx="369.2" cy="239.1" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/setts/s6/r2b24g10b4g8w2-b202060-g5c6428-ra00000-wc0c0c0/"><circle cx="351.4" cy="215.8" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/setts/s6/b8k24b8k24b64r8-b506878-k101010-rc80000/"><circle cx="361.2" cy="244.2" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/setts/s7/b68k14b24k78b6k8y6-b5c5c5c-k101010-y48a4c0/"><circle cx="360.8" cy="219.3" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/setts/s7/b102g10r30g74b34r12g10-b000050-g004010-rc00000/"><circle cx="308.4" cy="235.5" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/setts/s7/b68k14b24k80b6k8ba6-b5c5c5c-ba5c8ca8-k101010/"><circle cx="367.7" cy="219.5" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><a href="/setts/s5/k4b22k52g22k4-b1474b4-g006818-k101010/"><circle cx="348.3" cy="240.8" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/setts/s7/b10r6b70k56b8k22b4-b5c5c5c-k101010-rc80000/"><circle cx="387.1" cy="208.1" r="4" fill="#3465a4"><title>Korner-MacPherson (Personal)</title></circle></a><a href="/setts/s7/r12b4r4b44g40r8b8-b202060-g006818-rc80000/"><circle cx="293.1" cy="216.5" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s6/r44b4r12ba4b36ra4-b000050-ba304080-r806050-rac00000/"><circle cx="327.1" cy="206.2" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><circle cx="351.3" cy="233.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b52r12g32b16g6r4-b202060-g006818-rc80000/

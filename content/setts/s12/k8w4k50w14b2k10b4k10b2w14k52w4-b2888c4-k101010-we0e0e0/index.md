@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | LNa | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k14y4w4y4k26y4k4b2y26k52b4-b3850c8-k101010-we0e0e0-yb0b0b0/) — ΔT 0.97
+1. [Glasgow Caledonian University Corporate Tartan Tartan Number: 2418. Earliest known date: pre 1998 Estimated thread count for display purposes only. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k10r4k60b16w2k18w4k18w2b16k60r6-b2888c4-k101010-rc80000-we0e0e0/) — ΔT 1.11
+1. [Clergy #3](/setts/s12/k20g10k4g10k20w2k52w2g8w2k10w2-g808080-k101010-we0e0e0/) — ΔT 1.17
+1. [Glasgow Caledonian University](/setts/s17/k10r4k60b16w2k18w4k18w2b16k60r6k60b16w2k18w4-b2888c4-k101010-rc80000-we0e0e0/) — ΔT 1.29
+1. [Ashers of Nairn](/setts/s10/y2k3w3k44y4k22wa22w3k3y2-k101010-wfcfcfc-wac0c0c0-yfccc00/) — ΔT 1.33
+1. [Capco](/setts/s8/k124w4k8w8b12k8ba16w8-b14283c-ba5f749c-k1c1714-wf8f8f8/) — ΔT 1.38
+1. [Bunnahabhain](/setts/s9/y16k14r6k14r6k76w4k6y12-k101010-rc80000-wf8f8f8-ybc8c00/) — ΔT 1.40
+1. [O'Boyle](/setts/s12/k90r18k24ra2k2g24k2ra2k24r18k90g18-g289c18-k101010-r9c68a4-rac80000/) — ΔT 1.46
+1. [Washington County Sheriff's Office](/setts/s8/w12k12w12b6wa2k78y6k6-b1474b4-k101010-wc0c0c0-wae0e0e0-ybc8c00/) — ΔT 1.51
+1. [Knights Templar Dress (Corporate)](/setts/s12/k100w8k20r4k4w4r4k28r22k4r8w4-k101010-rc80000-wf8f8f8/) — ΔT 1.55
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k14y4w4y4k26y4k4b2y26k52b4-b3850c8-k101010-we0e0e0-yb0b0b0/"><circle cx="386.7" cy="125.9" r="4" fill="#3465a4"><title>Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k10r4k60b16w2k18w4k18w2b16k60r6-b2888c4-k101010-rc80000-we0e0e0/"><circle cx="479.9" cy="136.6" r="4" fill="#3465a4"><title>Glasgow Caledonian University Corporate Tartan Tartan Number: 2418. Earliest known date: pre 1998 Estimated thread count for display purposes only. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k20g10k4g10k20w2k52w2g8w2k10w2-g808080-k101010-we0e0e0/"><circle cx="477.3" cy="149.7" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s17/k10r4k60b16w2k18w4k18w2b16k60r6k60b16w2k18w4-b2888c4-k101010-rc80000-we0e0e0/"><circle cx="472.9" cy="122.5" r="4" fill="#3465a4"><title>Glasgow Caledonian University</title></circle></a><a href="/setts/s10/y2k3w3k44y4k22wa22w3k3y2-k101010-wfcfcfc-wac0c0c0-yfccc00/"><circle cx="370.0" cy="122.9" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s8/k124w4k8w8b12k8ba16w8-b14283c-ba5f749c-k1c1714-wf8f8f8/"><circle cx="481.5" cy="116.6" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/setts/s9/y16k14r6k14r6k76w4k6y12-k101010-rc80000-wf8f8f8-ybc8c00/"><circle cx="428.9" cy="144.8" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s12/k90r18k24ra2k2g24k2ra2k24r18k90g18-g289c18-k101010-r9c68a4-rac80000/"><circle cx="477.5" cy="119.8" r="4" fill="#3465a4"><title>O'Boyle</title></circle></a><a href="/setts/s8/w12k12w12b6wa2k78y6k6-b1474b4-k101010-wc0c0c0-wae0e0e0-ybc8c00/"><circle cx="435.1" cy="98.9" r="4" fill="#3465a4"><title>Washington County Sheriff's Office</title></circle></a><a href="/setts/s12/k100w8k20r4k4w4r4k28r22k4r8w4-k101010-rc80000-wf8f8f8/"><circle cx="485.9" cy="125.0" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><circle cx="434.1" cy="123.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/k8w4k50w14b2k10b4k10b2w14k52w4-b2888c4-k101010-we0e0e0/

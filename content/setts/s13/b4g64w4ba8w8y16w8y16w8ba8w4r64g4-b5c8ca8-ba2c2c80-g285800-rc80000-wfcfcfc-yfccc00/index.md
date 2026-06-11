@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 | Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `#FCCC00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.04 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Buchanan 8](/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.71
+1. [Buchanan #2](/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.72
+1. [Buchanan (Logan)](/setts/s13/b8g64k4b8k4y16k4y16k4b8k4r64w8-b3c82af-g003c14-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.83
+1. [Baxter of Balgavies](/setts/s11/w4r32k2b4k2y8k2b4k2g32b2-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.89
+1. [Aguilar Gorrondona Family (Personal)](/setts/s11/r60y60b10w10g10k10g6b6k6w6y6-b2c2c80-g006818-k101010-ra00000-wfcfcfc-ye8c000/) — ΔT 0.90
+1. [Buchanan #4](/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.94
+1. [Buchanan Clan Tartan Tartan Number: 174. Earliest known date: pre 2003 Colours similar to Logan's (171) but thread count is proportionately larger. Also known as Baxter. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.95
+1. [Buchanan 1](/setts/s13/b4g24k2b4k2y6k2y6k2b4k2r24w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.96
+1. [Aguilar Gorrondona Family (Personal)](/setts/s11/r60y60b10w10g10k10g6b6k6w6y6-b788cb4-g289c18-k101010-r960000-wffffff-ye0a126/) — ΔT 0.97
+1. [Buchanan 9](/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.97
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="116.2" cy="76.8" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/b6g62k4b8k4y16k4y16k4b8k4r62w6-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="125.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/b8g64k4b8k4y16k4y16k4b8k4r64w8-b3c82af-g003c14-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="120.8" cy="77.1" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s11/w4r32k2b4k2y8k2b4k2g32b2-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="149.3" cy="84.8" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s11/r60y60b10w10g10k10g6b6k6w6y6-b2c2c80-g006818-k101010-ra00000-wfcfcfc-ye8c000/"><circle cx="115.8" cy="97.9" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="82.4" cy="95.5" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="85.2" cy="97.4" r="4" fill="#3465a4"><title>Buchanan Clan Tartan Tartan Number: 174. Earliest known date: pre 2003 Colours similar to Logan's (171) but thread count is proportionately larger. Also known as Baxter. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/b4g24k2b4k2y6k2y6k2b4k2r24w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="79.5" cy="92.9" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s11/r60y60b10w10g10k10g6b6k6w6y6-b788cb4-g289c18-k101010-r960000-wffffff-ye0a126/"><circle cx="127.1" cy="101.4" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/b8g50k4b8k4y16k6y16k4b8k4r50w8-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="72.4" cy="93.0" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><circle cx="119.0" cy="72.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/b4g64w4ba8w8y16w8y16w8ba8w4r64g4-b5c8ca8-ba2c2c80-g285800-rc80000-wfcfcfc-yfccc00/

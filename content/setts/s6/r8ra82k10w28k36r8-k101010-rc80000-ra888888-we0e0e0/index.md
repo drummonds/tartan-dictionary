@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/8 K36 LN28 K10 N82 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Yusra (Personal)](/setts/s7/r24y6w28b20y4b48r4-b003c64-rc80000-we0e0e0-yfccc00/) — ΔT 0.74
+1. [Yusra (Malay) (Personal)](/setts/s7/r24y6w28b20y4b48r4-b003c64-rc80000-we0e0e0-ye8c000/) — ΔT 0.75
+1. [Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r4ra40k10w20k20r4-k101010-rc80000-ra888888-we0e0e0/) — ΔT 0.80
+1. [Thomson Camel](/setts/s6/r8y60k12w26k26w6-k101010-rc80000-we0e0e0-ya08858/) — ΔT 0.81
+1. [Thomson, Camel (Fashion)](/setts/s6/r8y60k12w26k26w6-k101010-rc80000-we0e0e0-yb8a47c/) — ΔT 0.91
+1. [Oban Grey (Fashion)](/setts/s5/k16w16k16r60ra8-k101010-r888888-ra880000-wc0c0c0/) — ΔT 0.94
+1. [Thompson Camel Clan Tartan Tartan Number: 2421. Earliest known date: 1967 Designed by Scotty Thompson. It it a simple colour variation on the usual blue Thompson, but is often confused with the Burberry Check. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r4y40k10w20k20w4-k101010-rc80000-we0e0e0-ya08858/) — ΔT 0.95
+1. [Yale College of Wrexham (Corporate)](/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/) — ΔT 0.95
+1. [Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k24w24k24y84r8-k101010-rc80000-we0e0e0-ya08858/) — ΔT 0.96
+1. [Thom(p)son camel](/setts/s6/r8ra60k12w26k26w6-k000000-rc00000-ra806050-we0e0e0/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r24y6w28b20y4b48r4-b003c64-rc80000-we0e0e0-yfccc00/"><circle cx="227.3" cy="181.2" r="4" fill="#3465a4"><title>Yusra (Personal)</title></circle></a><a href="/setts/s7/r24y6w28b20y4b48r4-b003c64-rc80000-we0e0e0-ye8c000/"><circle cx="228.5" cy="182.0" r="4" fill="#3465a4"><title>Yusra (Malay) (Personal)</title></circle></a><a href="/setts/s6/r4ra40k10w20k20r4-k101010-rc80000-ra888888-we0e0e0/"><circle cx="172.8" cy="194.0" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r8y60k12w26k26w6-k101010-rc80000-we0e0e0-ya08858/"><circle cx="189.3" cy="189.1" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><a href="/setts/s6/r8y60k12w26k26w6-k101010-rc80000-we0e0e0-yb8a47c/"><circle cx="184.7" cy="185.9" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/setts/s5/k16w16k16r60ra8-k101010-r888888-ra880000-wc0c0c0/"><circle cx="241.6" cy="218.6" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/setts/s6/r4y40k10w20k20w4-k101010-rc80000-we0e0e0-ya08858/"><circle cx="175.0" cy="192.2" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan Tartan Number: 2421. Earliest known date: 1967 Designed by Scotty Thompson. It it a simple colour variation on the usual blue Thompson, but is often confused with the Burberry Check. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/"><circle cx="223.5" cy="167.4" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/setts/s5/k24w24k24y84r8-k101010-rc80000-we0e0e0-ya08858/"><circle cx="244.3" cy="199.8" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r8ra60k12w26k26w6-k000000-rc00000-ra806050-we0e0e0/"><circle cx="183.4" cy="189.7" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><circle cx="222.6" cy="183.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/r8ra82k10w28k36r8-k101010-rc80000-ra888888-we0e0e0/

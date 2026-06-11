@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/4 LN12 B4 LN18 B18 LN4 B12 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [North Vancouver Island District Tartan Tartan Number: 1682. Earliest known date: 1985 Originally designed for the North Island Highlanders Pipe & Drum Band by Robert Fells of Port Hardy, B.C. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r4w12b4w18b18w4b12y4-b2c2c80-rc80000-we0e0e0-ye8c000/) — ΔT 0.38
+1. [North Vancouver Island (Corporate)](/setts/s8/r8w24b8w36b36w8b24y8-b2c2c80-rc80000-wfcfcfc-ye8c000/) — ΔT 0.53
+1. [North Vancouver Island](/setts/s8/r8w24b8w36b36w8b24y8-b2c2c80-rc80000-wffffff-ye8c000/) — ΔT 0.55
+1. [Henderson Dress (Dance)](/setts/s9/w4b12w12b4w20k4w8k12y4-b3850c8-k101010-wfcfcfc-yd09800/) — ΔT 1.16
+1. [Boswell Dress Check (Personal)](/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wf8f8f8/) — ΔT 1.42
+1. [Boswell Dress (Personal)](/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wffffff/) — ΔT 1.44
+1. [City of Pointe-Claire](/setts/s10/b16w4r4k8b16r8w4r4w4r4-b285e99-k000000-r866c5a-wffffff/) — ΔT 1.48
+1. [Investors Group](/setts/s10/w28k8wa8k8wa8k8w28b16k40wa8-b2888c4-k101010-wa8ace8-waf8f8f8/) — ΔT 1.50
+1. [MacPherson, Blue & White](/setts/s7/w10r6w52b42w6b16y6-b304080-rc00000-we0e0e0-yf0c000/) — ΔT 1.52
+1. [Ship Hector, The (Commemorative)](/setts/s8/k6b20y10b32g6w32g10w6-b2c2c80-g006818-k101010-wfcfcfc-yfccc00/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4w12b4w18b18w4b12y4-b2c2c80-rc80000-we0e0e0-ye8c000/"><circle cx="164.9" cy="222.1" r="4" fill="#3465a4"><title>North Vancouver Island District Tartan Tartan Number: 1682. Earliest known date: 1985 Originally designed for the North Island Highlanders Pipe &amp; Drum Band by Robert Fells of Port Hardy, B.C. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r8w24b8w36b36w8b24y8-b2c2c80-rc80000-wfcfcfc-ye8c000/"><circle cx="156.9" cy="217.3" r="4" fill="#3465a4"><title>North Vancouver Island (Corporate)</title></circle></a><a href="/setts/s8/r8w24b8w36b36w8b24y8-b2c2c80-rc80000-wffffff-ye8c000/"><circle cx="156.2" cy="216.9" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/setts/s9/w4b12w12b4w20k4w8k12y4-b3850c8-k101010-wfcfcfc-yd09800/"><circle cx="173.9" cy="208.6" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wf8f8f8/"><circle cx="166.4" cy="218.0" r="4" fill="#3465a4"><title>Boswell Dress Check (Personal)</title></circle></a><a href="/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wffffff/"><circle cx="164.8" cy="216.9" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/setts/s10/b16w4r4k8b16r8w4r4w4r4-b285e99-k000000-r866c5a-wffffff/"><circle cx="128.6" cy="221.0" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/setts/s10/w28k8wa8k8wa8k8w28b16k40wa8-b2888c4-k101010-wa8ace8-waf8f8f8/"><circle cx="116.8" cy="201.8" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s7/w10r6w52b42w6b16y6-b304080-rc00000-we0e0e0-yf0c000/"><circle cx="240.5" cy="180.1" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/setts/s8/k6b20y10b32g6w32g10w6-b2c2c80-g006818-k101010-wfcfcfc-yfccc00/"><circle cx="107.3" cy="191.1" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><circle cx="169.0" cy="223.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r4w12b4w18b18w4b12y4-b304080-rc00000-we0e0e0-yf0c000/

@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Atholl](/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b304080-g008000-k000000-rc00000/) — ΔT 0.30
+1. [MacDonald 8](/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b304080-g008000-k000000-rc00000/) — ΔT 0.64
+1. [Campbell of Breadalbane](/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b304080-g008000-k000000-yf0c000/) — ΔT 0.76
+1. [Stephenson, hunting](/setts/s13/b36k36g36k4w4k8w4k4g36k36b36k4g8-b304080-g008000-k000000-we0e0e0/) — ΔT 0.76
+1. [Gordon 2](/setts/s15/b46k6b6k6b6k34g44k4y8k4g44k34b44k6b6-b304080-g008000-k000000-yf0c000/) — ΔT 0.78
+1. [MacDonald 5](/setts/s12/b32r4b4r10b58r4k62g58r10g4r4g32-b304080-g008000-k000000-rc00000/) — ΔT 0.85
+1. [Safeway](/setts/s15/b38k6b6k6b6k40g38k4r9k4g38k40b38k6b6-b304080-g008000-k000000-rc00000/) — ΔT 0.85
+1. [MacDonald 3](/setts/s12/b24r4b4r10b52r4k58g54r10g4r4g24-b304080-g008000-k000000-rc00000/) — ΔT 0.85
+1. [Urquhart](/setts/s13/g16k2g2k2g2k16b16r2b16k16g16k2g2-b304080-g008000-k000000-rc00000/) — ΔT 0.86
+1. [Newlands](/setts/s10/b18k18b18r4k36g24r4g8r4g8-b304080-g008000-k000000-rc00000/) — ΔT 0.88
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b24k4b4k4b4k24g24r6g24k24b24k2r6-b304080-g008000-k000000-rc00000/"><circle cx="140.3" cy="177.3" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/setts/s12/b16r2b4r6b24r2k24g24r6g4r2g16-b304080-g008000-k000000-rc00000/"><circle cx="150.2" cy="170.6" r="4" fill="#3465a4"><title>MacDonald 8</title></circle></a><a href="/setts/s13/b52k8b8k8b8k54y10g94y10k54b50k8b8-b304080-g008000-k000000-yf0c000/"><circle cx="161.0" cy="158.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s13/b36k36g36k4w4k8w4k4g36k36b36k4g8-b304080-g008000-k000000-we0e0e0/"><circle cx="144.9" cy="182.4" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/b46k6b6k6b6k34g44k4y8k4g44k34b44k6b6-b304080-g008000-k000000-yf0c000/"><circle cx="161.7" cy="161.5" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s12/b32r4b4r10b58r4k62g58r10g4r4g32-b304080-g008000-k000000-rc00000/"><circle cx="167.3" cy="150.0" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/setts/s15/b38k6b6k6b6k40g38k4r9k4g38k40b38k6b6-b304080-g008000-k000000-rc00000/"><circle cx="161.3" cy="170.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s12/b24r4b4r10b52r4k58g54r10g4r4g24-b304080-g008000-k000000-rc00000/"><circle cx="159.7" cy="150.5" r="4" fill="#3465a4"><title>MacDonald 3</title></circle></a><a href="/setts/s13/g16k2g2k2g2k16b16r2b16k16g16k2g2-b304080-g008000-k000000-rc00000/"><circle cx="144.7" cy="186.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s10/b18k18b18r4k36g24r4g8r4g8-b304080-g008000-k000000-rc00000/"><circle cx="146.0" cy="200.8" r="4" fill="#3465a4"><title>Newlands</title></circle></a><circle cx="142.0" cy="175.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/b50k4b4k4b4k42g46r10g46k40b38r10-b304080-g008000-k000000-rc00000/

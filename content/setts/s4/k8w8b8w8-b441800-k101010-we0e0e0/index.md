@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/8 LN8 DR8 LN/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Shepherd or Falkirk](/setts/s4/k6w6k6w6-k101010-wf8e8d8/) — ΔT 1.46
+1. [Buccleuch Check Regimental Tartan Tartan Number: 647. Earliest known date: 1908 Designed by the Colonel of the 4th Battalion Kings Own Scottish Borderers in 1908 and used for the pipers' plaids. Originally woven by Ballantynes of Walkerburn. Earl Haig's family adopted it since he was also a Colonel of the battalion.This - according to J Cant - is the correct version of the Buccleuch check with nine black squares between the blue. The black and white squares measure 5/16 inch and the blue 3/8 inch (about 2 threads more?). Sample in STA Dalgety Collection has 8 black squares between the blue lines and label saying woven by Ballantynes of Walkerburn. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b12w12k12w12k12w12k12w12-b2c2c80-k101010-we0e0e0/) — ΔT 1.59
+1. [Buccleuch, Check](/setts/s8/b12w12k12w12k12w12k12w12-b304080-k000000-we0e0e0/) — ΔT 1.67
+1. [Haig Check (Estate Check)](/setts/s8/b12w12k12w12k12w12k12w12-b1474b4-k101010-wfcfcfc/) — ΔT 1.70
+1. [Dacre Estate Check](/setts/s3/k14w14r14-k101010-r800028-wf0e0c4/) — ΔT 1.83
+1. [Border Bell](/setts/s7/b16k16w16k16w16r16k16-b2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 1.86
+1. [Bell, Border (Name)](/setts/s7/b14k14w14k14w14r14k14-b2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 1.86
+1. [Glen Feshie Check](/setts/s8/r8w8k6w8k8w8k8w8-k000000-rc82800-wf0dcbc/) — ΔT 1.88
+1. [Coigach Tweed](/setts/s3/k6w6r6-k000000-ra43c14-wc8c8c8/) — ΔT 1.91
+1. [Glen Moriston Estate Check](/setts/s3/b8w8wa8-b00243c-wd0d0d0-wad4dce0/) — ΔT 1.95
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k6w6k6w6-k101010-wf8e8d8/"><circle cx="101.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><a href="/setts/s8/b12w12k12w12k12w12k12w12-b2c2c80-k101010-we0e0e0/"><circle cx="34.0" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch Check Regimental Tartan Tartan Number: 647. Earliest known date: 1908 Designed by the Colonel of the 4th Battalion Kings Own Scottish Borderers in 1908 and used for the pipers' plaids. Originally woven by Ballantynes of Walkerburn. Earl Haig's family adopted it since he was also a Colonel of the battalion.This - according to J Cant - is the correct version of the Buccleuch check with nine black squares between the blue. The black and white squares measure 5/16 inch and the blue 3/8 inch (about 2 threads more?). Sample in STA Dalgety Collection has 8 black squares between the blue lines and label saying woven by Ballantynes of Walkerburn. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b12w12k12w12k12w12k12w12-b304080-k000000-we0e0e0/"><circle cx="31.0" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch, Check</title></circle></a><a href="/setts/s8/b12w12k12w12k12w12k12w12-b1474b4-k101010-wfcfcfc/"><circle cx="27.4" cy="366.0" r="4" fill="#3465a4"><title>Haig Check (Estate Check)</title></circle></a><a href="/setts/s3/k14w14r14-k101010-r800028-wf0e0c4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dacre Estate Check</title></circle></a><a href="/setts/s7/b16k16w16k16w16r16k16-b2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Border Bell</title></circle></a><a href="/setts/s7/b14k14w14k14w14r14k14-b2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, Border (Name)</title></circle></a><a href="/setts/s8/r8w8k6w8k8w8k8w8-k000000-rc82800-wf0dcbc/"><circle cx="73.5" cy="363.3" r="4" fill="#3465a4"><title>Glen Feshie Check</title></circle></a><a href="/setts/s3/k6w6r6-k000000-ra43c14-wc8c8c8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Coigach Tweed</title></circle></a><a href="/setts/s3/b8w8wa8-b00243c-wd0d0d0-wad4dce0/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><circle cx="40.5" cy="366.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/

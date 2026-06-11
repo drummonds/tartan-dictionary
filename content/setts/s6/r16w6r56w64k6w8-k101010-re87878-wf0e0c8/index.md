@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LR/16 W6 LR56 W64 K6 W/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Walsh, Michael Edward (Personal)](/setts/s6/y56w30y8r10y3r20-rc80000-wffffff-ya0a0a0/) — ΔT 1.42
+1. [MacPherson Dress Red](/setts/s7/w8r4w50ra42w6ra16y6-r960000-radc0000-we0e0e0-ye8c000/) — ΔT 1.59
+1. [Walsh, Michael Edward (Personal)](/setts/s6/r56w30r8ra10r3ra20-r888888-rac80000-wfcfcfc/) — ΔT 1.62
+1. [MacPherson Dress Red (Dance)](/setts/s7/w10b6w52r40w6r16y6-b780078-rc80000-we0e0e0-ye8c000/) — ΔT 1.69
+1. [Erskine (Red)](/setts/s6/r12w4r58w58r4w12-rdc0000-we0e0e0/) — ΔT 1.70
+1. [Buchele Check (Fashion?)](/setts/s6/r16y4r12ya4y32ya8-r901c38-ydcc08c-yad0c830/) — ΔT 1.72
+1. [MacPherson, Red](/setts/s7/w10b6w52r40w6r16y6-b800080-rc00000-we0e0e0-yf0c000/) — ΔT 1.73
+1. [Buchanan VS](/setts/s6/w2r4w2r4w9k1-k000000-rff0000-wd0d0d0/) — ΔT 1.73
+1. [MacPherson, dress red](/setts/s7/w8r4w50ra42w6ra16y6-r800000-rac00000-we0e0e0-yf0c000/) — ΔT 1.74
+1. [Ailsa, Red V2 (Dance)](/setts/s6/r16ra6r56w64ra6w8-rc8002c-ra880000-wf0e0c8/) — ΔT 1.74
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y56w30y8r10y3r20-rc80000-wffffff-ya0a0a0/"><circle cx="321.2" cy="183.3" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s7/w8r4w50ra42w6ra16y6-r960000-radc0000-we0e0e0-ye8c000/"><circle cx="290.4" cy="157.9" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/setts/s6/r56w30r8ra10r3ra20-r888888-rac80000-wfcfcfc/"><circle cx="319.0" cy="184.2" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s7/w10b6w52r40w6r16y6-b780078-rc80000-we0e0e0-ye8c000/"><circle cx="267.8" cy="172.6" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/setts/s6/r12w4r58w58r4w12-rdc0000-we0e0e0/"><circle cx="368.0" cy="189.4" r="4" fill="#3465a4"><title>Erskine (Red)</title></circle></a><a href="/setts/s6/r16y4r12ya4y32ya8-r901c38-ydcc08c-yad0c830/"><circle cx="261.8" cy="218.5" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/setts/s7/w10b6w52r40w6r16y6-b800080-rc00000-we0e0e0-yf0c000/"><circle cx="266.2" cy="172.5" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><a href="/setts/s6/w2r4w2r4w9k1-k000000-rff0000-wd0d0d0/"><circle cx="324.6" cy="210.1" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s7/w8r4w50ra42w6ra16y6-r800000-rac00000-we0e0e0-yf0c000/"><circle cx="281.9" cy="157.0" r="4" fill="#3465a4"><title>MacPherson, dress red</title></circle></a><a href="/setts/s6/r16ra6r56w64ra6w8-rc8002c-ra880000-wf0e0c8/"><circle cx="294.7" cy="183.4" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><circle cx="342.2" cy="199.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/r16w6r56w64k6w8-k101010-re87878-wf0e0c8/

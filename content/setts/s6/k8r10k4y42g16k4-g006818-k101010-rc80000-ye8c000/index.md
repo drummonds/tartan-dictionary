@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/4 G16 Y42 K4 R10 K/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacDuck, Final version](/setts/s6/k8r10k4y42g16k4-g008000-k000000-rc00000-yf0c000/) — ΔT 0.40
+1. [MacDuck #2](/setts/s6/k8r10k4y42g16k4-g006818-k101010-rc80000-yd09800/) — ΔT 0.79
+1. [Shepherd Piping (Personal)](/setts/s6/k20y8g28ya72g8w8-g604000-k101010-we0e0e0-yf0e490-yad8bc0c/) — ΔT 0.93
+1. [Unidentfied (Ligioner Highland Games](/setts/s6/b8g50y20g6y36r8-b441800-g006818-rc80000-yfcb464/) — ΔT 1.20
+1. [MacMillan, Society of Glasgow](/setts/s9/r32k6r32g88k6g16k6y40k8-g008000-k000000-rc00000-yf0c000/) — ΔT 1.30
+1. [Harmer](/setts/s7/y18g8y44k18y18g72r8-g003000-k000000-rc00000-yf0c000/) — ΔT 1.33
+1. [Fraser Yellow Tartan Tartan Number: 1709. Earliest known date: pre 2003 Similar to Vestiarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4w4y54g28y4b28y4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.37
+1. [Fraser Yellow](/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 1.37
+1. [Fraser, Yellow](/setts/s7/r4w4y54g28y4b28y4-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.40
+1. [Shepherd, Derek (Piping)](/setts/s6/k20y8g28w72g8wa8-g603311-k101010-wffec8b-waffffff-yfee885/) — ΔT 1.42
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8r10k4y42g16k4-g008000-k000000-rc00000-yf0c000/"><circle cx="217.7" cy="171.5" r="4" fill="#3465a4"><title>MacDuck, Final version</title></circle></a><a href="/setts/s6/k8r10k4y42g16k4-g006818-k101010-rc80000-yd09800/"><circle cx="246.5" cy="183.0" r="4" fill="#3465a4"><title>MacDuck #2</title></circle></a><a href="/setts/s6/k20y8g28ya72g8w8-g604000-k101010-we0e0e0-yf0e490-yad8bc0c/"><circle cx="207.2" cy="164.7" r="4" fill="#3465a4"><title>Shepherd Piping (Personal)</title></circle></a><a href="/setts/s6/b8g50y20g6y36r8-b441800-g006818-rc80000-yfcb464/"><circle cx="222.0" cy="206.8" r="4" fill="#3465a4"><title>Unidentfied (Ligioner Highland Games</title></circle></a><a href="/setts/s9/r32k6r32g88k6g16k6y40k8-g008000-k000000-rc00000-yf0c000/"><circle cx="213.2" cy="150.6" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/setts/s7/y18g8y44k18y18g72r8-g003000-k000000-rc00000-yf0c000/"><circle cx="195.2" cy="189.9" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="220.9" cy="143.1" r="4" fill="#3465a4"><title>Fraser Yellow Tartan Tartan Number: 1709. Earliest known date: pre 2003 Similar to Vestiarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="222.0" cy="143.6" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="226.9" cy="144.7" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s6/k20y8g28w72g8wa8-g603311-k101010-wffec8b-waffffff-yfee885/"><circle cx="191.9" cy="154.7" r="4" fill="#3465a4"><title>Shepherd, Derek (Piping)</title></circle></a><circle cx="227.4" cy="174.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/k8r10k4y42g16k4-g006818-k101010-rc80000-ye8c000/

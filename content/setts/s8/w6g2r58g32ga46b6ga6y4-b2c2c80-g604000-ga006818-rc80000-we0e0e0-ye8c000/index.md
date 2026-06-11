@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 T2 R58 T32 G46 DB6 G6 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tache, Sir Etienne Paschal #2](/setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga005010-rc80000-wfcfcfc-ybc8c00/) — ΔT 0.30
+1. [Etienne, Paschal Tache Sir...](/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/) — ΔT 0.44
+1. [Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g48r48w6ga42y4r2y4g12r4-g604000-ga006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.97
+1. [Hamish Bicknell (Personal)](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.99
+1. [Westwood (Fashion?)](/setts/s10/r30y60k2w12k2y4g32b8r12w2-b5c8ca8-g003820-k101010-rc80000-we0e0e0-ya08858/) — ΔT 1.11
+1. [Henry, W.A.](/setts/s9/r48ra48w6g42y4ra2y4r12ra4-g008000-r806050-rac00000-we0e0e0-yf0c000/) — ΔT 1.18
+1. [Bicknell, The Hamish (Personal)](/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/) — ΔT 1.19
+1. [Gordon of Abergeldie (Red..) Portrait Tartan Tartan Number: 955. Earliest known date: 1723 This sett was reconstructed from a scarf in a painting of Rachael Gordon, hanging in Abergeldie Castle, painted by Alexander in 1723. The count and colour desciption was taken by the Lord Lyon in 1953. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r40w2k2ra12y2g36-g006818-k101010-rc80000-rab468ac-we0e0e0-ye8c000/) — ΔT 1.26
+1. [Moray of Abercairny](/setts/s11/w2b6ba4r36ra4g32ra4r4ra4b6w2-b5c8ca8-ba1c1c50-g006818-r880000-rad05054-wf8f8f8/) — ΔT 1.29
+1. [Forrester (Clan)](/setts/s9/w12b16w4b60r96g60y4g16y12-b283854-g285800-rc80000-we0e0e0-ye8c000/) — ΔT 1.31
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga005010-rc80000-wfcfcfc-ybc8c00/"><circle cx="222.8" cy="111.9" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><a href="/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/"><circle cx="226.1" cy="112.6" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/setts/s9/g48r48w6ga42y4r2y4g12r4-g604000-ga006818-rc80000-we0e0e0-ye8c000/"><circle cx="237.1" cy="132.4" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g604000-ga006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="216.8" cy="84.6" r="4" fill="#3465a4"><title>Hamish Bicknell (Personal)</title></circle></a><a href="/setts/s10/r30y60k2w12k2y4g32b8r12w2-b5c8ca8-g003820-k101010-rc80000-we0e0e0-ya08858/"><circle cx="204.8" cy="85.6" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s9/r48ra48w6g42y4ra2y4r12ra4-g008000-r806050-rac00000-we0e0e0-yf0c000/"><circle cx="243.6" cy="134.0" r="4" fill="#3465a4"><title>Henry, W.A.</title></circle></a><a href="/setts/s11/w6k2r50k4g4ga50g4y4g20k2r4-g603311-ga008000-k101010-raf1e2d-wffffff-yffe600/"><circle cx="203.5" cy="80.4" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s6/r40w2k2ra12y2g36-g006818-k101010-rc80000-rab468ac-we0e0e0-ye8c000/"><circle cx="252.0" cy="132.1" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan Tartan Number: 955. Earliest known date: 1723 This sett was reconstructed from a scarf in a painting of Rachael Gordon, hanging in Abergeldie Castle, painted by Alexander in 1723. The count and colour desciption was taken by the Lord Lyon in 1953. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2b6ba4r36ra4g32ra4r4ra4b6w2-b5c8ca8-ba1c1c50-g006818-r880000-rad05054-wf8f8f8/"><circle cx="204.3" cy="100.3" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s9/w12b16w4b60r96g60y4g16y12-b283854-g285800-rc80000-we0e0e0-ye8c000/"><circle cx="196.5" cy="123.2" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><circle cx="224.1" cy="112.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w6g2r58g32ga46b6ga6y4-b2c2c80-g604000-ga006818-rc80000-we0e0e0-ye8c000/

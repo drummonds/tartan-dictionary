@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/4 B72 Ba72 LN6 Ba72 B72 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mercer, Charles](/setts/s8/b36ba8b8y4ba28b8r4ba16-b2c2c80-ba1474b4-rc80000-ye8c000/) — ΔT 1.63
+1. [MacKerrell](/setts/s12/b68ba120y6ba120b68w8b68ba120r6ba120b68w8-b5480b0-ba304080-rc00000-we0e0e0-yf0c000/) — ΔT 1.65
+1. [Leonard (Name)](/setts/s8/b72ba12b10r6k4r6b10ba36-b1870a4-ba2c2c80-k101010-rc80000/) — ΔT 1.70
+1. [Bermuda, Plaid](/setts/s7/b66r16ba24g24b16ba4b16-b5480b0-ba304080-g008000-rc00000/) — ΔT 1.70
+1. [Port Authority of NY & NJ](/setts/s6/b18ba4b78bb66y4bb10-b5c8ca8-ba1c0070-bb003c64-ybc8c00/) — ΔT 1.73
+1. [Clydebank (Fashion)](/setts/s12/g4b6g2b30ba6b18ba18b4ba32r2ba6r4-b145c88-ba6c28b8-g289c18-rc80000/) — ΔT 1.87
+1. [Reflections of the Sea](/setts/s12/b6ba12g24b28g4ba34b6g2b6ba34g4y6-b1474b4-ba3850c8-g285800-y0cdcb4/) — ΔT 1.90
+1. [Riley's Theme](/setts/s6/b40ba8g10bb28y2b4-b667aa3-ba292929-bb683c66-g6f8070-yccc7ad/) — ΔT 1.92
+1. [Ewell Castle School](/setts/s6/b16w4b72ba72r4ba16-b1474b4-ba202060-rc80000-wfcfcfc/) — ΔT 1.93
+1. [Thorburn (Lochcarron)](/setts/s6/b6ba28b6r32b68ra6-b003c64-ba5c8ca8-r888888-rac80000/) — ΔT 1.93
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b36ba8b8y4ba28b8r4ba16-b2c2c80-ba1474b4-rc80000-ye8c000/"><circle cx="302.1" cy="231.6" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><a href="/setts/s12/b68ba120y6ba120b68w8b68ba120r6ba120b68w8-b5480b0-ba304080-rc00000-we0e0e0-yf0c000/"><circle cx="396.8" cy="190.7" r="4" fill="#3465a4"><title>MacKerrell</title></circle></a><a href="/setts/s8/b72ba12b10r6k4r6b10ba36-b1870a4-ba2c2c80-k101010-rc80000/"><circle cx="413.6" cy="190.0" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/setts/s7/b66r16ba24g24b16ba4b16-b5480b0-ba304080-g008000-rc00000/"><circle cx="361.9" cy="214.7" r="4" fill="#3465a4"><title>Bermuda, Plaid</title></circle></a><a href="/setts/s6/b18ba4b78bb66y4bb10-b5c8ca8-ba1c0070-bb003c64-ybc8c00/"><circle cx="378.1" cy="197.2" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/setts/s12/g4b6g2b30ba6b18ba18b4ba32r2ba6r4-b145c88-ba6c28b8-g289c18-rc80000/"><circle cx="350.6" cy="188.5" r="4" fill="#3465a4"><title>Clydebank (Fashion)</title></circle></a><a href="/setts/s12/b6ba12g24b28g4ba34b6g2b6ba34g4y6-b1474b4-ba3850c8-g285800-y0cdcb4/"><circle cx="307.4" cy="193.0" r="4" fill="#3465a4"><title>Reflections of the Sea</title></circle></a><a href="/setts/s6/b40ba8g10bb28y2b4-b667aa3-ba292929-bb683c66-g6f8070-yccc7ad/"><circle cx="341.5" cy="199.3" r="4" fill="#3465a4"><title>Riley's Theme</title></circle></a><a href="/setts/s6/b16w4b72ba72r4ba16-b1474b4-ba202060-rc80000-wfcfcfc/"><circle cx="341.6" cy="199.4" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/setts/s6/b6ba28b6r32b68ra6-b003c64-ba5c8ca8-r888888-rac80000/"><circle cx="329.9" cy="220.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><circle cx="342.0" cy="206.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r4b72ba72w6ba72b72y4-b304080-ba5480b0-rc00000-we0e0e0-yf0c000/

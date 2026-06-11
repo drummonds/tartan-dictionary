@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#808080;"><span style="color:#808080;filter:grayscale(1) invert(1) contrast(100);">#808080</span></code> `#808080` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.22 |
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Poulter SG 103 (Fashion)](/setts/s13/r25k8r8k8r8k46w46ra8w46k46r46k8r8-k101010-r888888-rac80000-we0e0e0/) — ΔT 0.53
+1. [Black and White Corporate Tartan Tartan Number: 2042. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-we0e0e0/) — ΔT 0.61
+1. [Black and White](/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-wfcfcfc/) — ΔT 0.81
+1. [Black and White Colourway](/setts/s15/w40g6w40g6w18g24w6g30b6g12b38w6b10r8b38-b2c2c80-g604000-rc80000-wfcfcfc/) — ΔT 0.95
+1. [Poulter, Grey (Corporate)](/setts/s13/w50k8w8k8w8k46b46w8b46k46w46k8w8-b5c5c5c-k101010-we0e0e0/) — ΔT 0.97
+1. [Gordon (Clan)](/setts/s13/b46k6b6k6b6k34y44k8y44k34b44k6b6-b2c2c80-k101010-ye8c000/) — ΔT 0.97
+1. [Poulter Hoylake](/setts/s13/w69g14w13g14w13g69b72y13b72g69w68g14w13-b000048-g003820-wffffff-yf8e38c/) — ΔT 0.99
+1. [Kernbrownek (Personal)](/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/) — ΔT 1.03
+1. [Flora MacDonald dancing](/setts/s13/r6g16b10w6g40w6b10w6b10w44b6w16r6-b304080-g003000-rc00000-we0e0e0/) — ΔT 1.04
+1. [Merchiston Castle School Pipe Band](/setts/s11/k24w12k12w12r8w26k6w8k16b48r6-b202060-k101010-rc80000-wfcfcfc/) — ΔT 1.06
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r25k8r8k8r8k46w46ra8w46k46r46k8r8-k101010-r888888-rac80000-we0e0e0/"><circle cx="119.8" cy="180.6" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-we0e0e0/"><circle cx="120.0" cy="169.6" r="4" fill="#3465a4"><title>Black and White Corporate Tartan Tartan Number: 2042. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-wfcfcfc/"><circle cx="113.6" cy="165.6" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s15/w40g6w40g6w18g24w6g30b6g12b38w6b10r8b38-b2c2c80-g604000-rc80000-wfcfcfc/"><circle cx="118.9" cy="167.2" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s13/w50k8w8k8w8k46b46w8b46k46w46k8w8-b5c5c5c-k101010-we0e0e0/"><circle cx="147.1" cy="194.3" r="4" fill="#3465a4"><title>Poulter, Grey (Corporate)</title></circle></a><a href="/setts/s13/b46k6b6k6b6k34y44k8y44k34b44k6b6-b2c2c80-k101010-ye8c000/"><circle cx="139.6" cy="174.6" r="4" fill="#3465a4"><title>Gordon (Clan)</title></circle></a><a href="/setts/s13/w69g14w13g14w13g69b72y13b72g69w68g14w13-b000048-g003820-wffffff-yf8e38c/"><circle cx="94.1" cy="187.1" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/"><circle cx="135.8" cy="180.8" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><a href="/setts/s13/r6g16b10w6g40w6b10w6b10w44b6w16r6-b304080-g003000-rc00000-we0e0e0/"><circle cx="154.6" cy="159.5" r="4" fill="#3465a4"><title>Flora MacDonald dancing</title></circle></a><a href="/setts/s11/k24w12k12w12r8w26k6w8k16b48r6-b202060-k101010-rc80000-wfcfcfc/"><circle cx="102.6" cy="174.7" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><circle cx="113.5" cy="169.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/k38g12k6g30w6g24w18g6w40g6w40k38r8k10w6-g808080-k000000-rc00000-we0e0e0/

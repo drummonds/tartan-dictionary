@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | N | <code style="background-color:#AAAAAA;"><span style="color:#AAAAAA;filter:grayscale(1) invert(1) contrast(100);">#AAAAAA</span></code> `#AAAAAA` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Drummond C](/setts/s15/r6b2r2b2r12w2r2k4r2g2r2g12r2k2r6-b000064-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 0.67
+1. [London Caledonian](/setts/s13/r16b4r28g4r4b12r4ga4r4ga22r4ba4r12-b440044-ba202060-g789484-ga003820-rc80000/) — ΔT 1.20
+1. [Hunter (USA)](/setts/s11/g12r4g28r28b4r28w4g28b4g8y6-b202060-g003820-rc80000-wfcfcfc-yd8b000/) — ΔT 1.23
+1. [MacNicol D](/setts/s13/k4r20g4r20g26r4k12b4k16r20g4r20k4-b4367ae-g11450d-k000000-raa0000/) — ΔT 1.29
+1. [MacNicol D](/setts/s13/k2r10g2r10g13r2k6b2k8r10g2r10k2-b4367ae-g11450d-k000000-raa0000/) — ΔT 1.29
+1. [MacKinnon #3](/setts/s14/b6r8g6ba6r14g34r6ba10g8r42g14b6r12w6-b5a008c-ba2c4084-g005020-rdc0000-we0e0e0/) — ΔT 1.30
+1. [Order of the Holy Sepulchre (Corp)](/setts/s20/w4r28k28r4k28w4r28w4k28r4k28w4y8w4k32r4k32r28w4ya4-k101010-rc80000-we0e0e0-ybc8c00-yae8c000/) — ΔT 1.32
+1. [City of New Bern 300 (District)](/setts/s18/r24k4y4k4r4k4y4k4r24k2ka4ka6ka4k2r24k4y4k4-k101010-ka000000-r880000-ye8c000/) — ΔT 1.34
+1. [MacDougall #6](/setts/s19/k2r8g16r4g2r4b8r4w2r2w2r4g8r6g8r2k2r16w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.34
+1. [Seton](/setts/s18/r16g8r80k16r8b16r16g48w8g24w8g48r16b16r8k16r80g8-b780078-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.37
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6b2r2b2r12w2r2k4r2g2r2g12r2k2r6-b000064-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="237.4" cy="156.4" r="4" fill="#3465a4"><title>Drummond C</title></circle></a><a href="/setts/s13/r16b4r28g4r4b12r4ga4r4ga22r4ba4r12-b440044-ba202060-g789484-ga003820-rc80000/"><circle cx="296.9" cy="170.9" r="4" fill="#3465a4"><title>London Caledonian</title></circle></a><a href="/setts/s11/g12r4g28r28b4r28w4g28b4g8y6-b202060-g003820-rc80000-wfcfcfc-yd8b000/"><circle cx="227.9" cy="181.4" r="4" fill="#3465a4"><title>Hunter (USA)</title></circle></a><a href="/setts/s13/k4r20g4r20g26r4k12b4k16r20g4r20k4-b4367ae-g11450d-k000000-raa0000/"><circle cx="235.8" cy="200.9" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/setts/s13/k2r10g2r10g13r2k6b2k8r10g2r10k2-b4367ae-g11450d-k000000-raa0000/"><circle cx="235.8" cy="200.9" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/setts/s14/b6r8g6ba6r14g34r6ba10g8r42g14b6r12w6-b5a008c-ba2c4084-g005020-rdc0000-we0e0e0/"><circle cx="205.3" cy="158.8" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/setts/s20/w4r28k28r4k28w4r28w4k28r4k28w4y8w4k32r4k32r28w4ya4-k101010-rc80000-we0e0e0-ybc8c00-yae8c000/"><circle cx="241.6" cy="143.5" r="4" fill="#3465a4"><title>Order of the Holy Sepulchre (Corp)</title></circle></a><a href="/setts/s18/r24k4y4k4r4k4y4k4r24k2ka4ka6ka4k2r24k4y4k4-k101010-ka000000-r880000-ye8c000/"><circle cx="290.4" cy="118.2" r="4" fill="#3465a4"><title>City of New Bern 300 (District)</title></circle></a><a href="/setts/s19/k2r8g16r4g2r4b8r4w2r2w2r4g8r6g8r2k2r16w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="208.6" cy="142.1" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><a href="/setts/s18/r16g8r80k16r8b16r16g48w8g24w8g48r16b16r8k16r80g8-b780078-g006818-k101010-rc80000-wfcfcfc/"><circle cx="242.0" cy="128.2" r="4" fill="#3465a4"><title>Seton</title></circle></a><circle cx="252.5" cy="166.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/r6b2r2b2r12y2r2k4r2g2r2g12r2k2r6-b000052-g11450d-k000000-raa0000-yaaaaaa/

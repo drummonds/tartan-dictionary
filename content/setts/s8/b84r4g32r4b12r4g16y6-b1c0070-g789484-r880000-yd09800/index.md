@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/84 DR4 LG32 DR4 DB12 DR4 LG16 DY/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hannah (Personal)](/setts/s6/w4b70k18w6k18y4-b30308c-k101010-we0e0e0-ye8c000/) — ΔT 0.77
+1. [Roxburgh, Green (District)](/setts/s8/b92w4b4w4b32g88r4b12-b1c0070-g006818-rc80000-wf8f8f8/) — ΔT 1.07
+1. [Fujisankei Serene (Corporate)](/setts/s9/r4w24b16w4b64ba4b16ba24w4-b2c2c80-ba5c5c5c-r888888-wc0c0c0/) — ΔT 1.09
+1. [Jon's Theme](/setts/s6/b2y4b6ba24b36w2-b010542-ba555b7c-wffffff-y9e8f00/) — ΔT 1.12
+1. [California Riverside, University of (Corporate)](/setts/s10/b84k12b6k6b6w10b34w14y20k6-b2c2c80-k101010-wf8f8f8-ybc8c00/) — ΔT 1.15
+1. [Historic Scotland](/setts/s9/b8w2b2w6b48g18k2g18k6-b000050-g808080-k000000-we0e0e0/) — ΔT 1.17
+1. [Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b112ba12w4ba12b16w8bb4w20-b2c2c80-ba480800-bb780078-we0e0e0/) — ΔT 1.19
+1. [Ikelman #4 (Personal)](/setts/s7/r40b60g8b8w4b4w4-b1c0070-g006818-r880000-we0e0e0/) — ΔT 1.21
+1. [Blue Rust](/setts/s8/b84ba8w4ba8b4r8b4ra24-b000088-ba606060-r880000-ra886024-wffffff/) — ΔT 1.23
+1. [Yamaue (Corporate)](/setts/s12/w4r10b8g16b8r10w4r10b80g16b8w4-b283c94-g006818-rc80000-we0e0e0/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w4b70k18w6k18y4-b30308c-k101010-we0e0e0-ye8c000/"><circle cx="346.4" cy="169.9" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s8/b92w4b4w4b32g88r4b12-b1c0070-g006818-rc80000-wf8f8f8/"><circle cx="370.8" cy="155.0" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/setts/s9/r4w24b16w4b64ba4b16ba24w4-b2c2c80-ba5c5c5c-r888888-wc0c0c0/"><circle cx="341.6" cy="165.8" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s6/b2y4b6ba24b36w2-b010542-ba555b7c-wffffff-y9e8f00/"><circle cx="363.0" cy="184.0" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/setts/s10/b84k12b6k6b6w10b34w14y20k6-b2c2c80-k101010-wf8f8f8-ybc8c00/"><circle cx="349.8" cy="148.0" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/setts/s9/b8w2b2w6b48g18k2g18k6-b000050-g808080-k000000-we0e0e0/"><circle cx="297.1" cy="136.3" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s8/b112ba12w4ba12b16w8bb4w20-b2c2c80-ba480800-bb780078-we0e0e0/"><circle cx="425.0" cy="121.5" r="4" fill="#3465a4"><title>Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r40b60g8b8w4b4w4-b1c0070-g006818-r880000-we0e0e0/"><circle cx="337.5" cy="168.4" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s8/b84ba8w4ba8b4r8b4ra24-b000088-ba606060-r880000-ra886024-wffffff/"><circle cx="378.5" cy="129.8" r="4" fill="#3465a4"><title>Blue Rust</title></circle></a><a href="/setts/s12/w4r10b8g16b8r10w4r10b80g16b8w4-b283c94-g006818-rc80000-we0e0e0/"><circle cx="346.6" cy="124.0" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><circle cx="362.0" cy="144.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/

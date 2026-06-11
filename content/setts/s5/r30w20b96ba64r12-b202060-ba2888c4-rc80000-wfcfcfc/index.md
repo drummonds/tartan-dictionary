@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/12 B64 DB96 W20 R/30 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lands of Liberty](/setts/s5/r40w20b120ba80r12-b2c4084-ba0596fa-rc80000-wffffff/) — ΔT 0.85
+1. [Thorntons Law (Corporate)](/setts/s4/b20g20r10w2-b1c0070-g0098a0-rc80000-wf8f8f8/) — ΔT 0.97
+1. [Hydro-Electric (Corporate)](/setts/s6/r12k4w20k16b44r4-b2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 1.02
+1. [Thorntons Law Corporate Tartan Tartan Number: 6862. Earliest known date: 2005 Thorntons WS is a Dundee based solictors, estate agents and investment consultants. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b20g20r10w2-b1c0070-g00ac94-rc80030-we0e0e0/) — ΔT 1.08
+1. [Tilburg (District)](/setts/s5/b18y18b18ba46r6-b1c1c50-ba1c6894-rc80000-yc8c44c/) — ΔT 1.10
+1. [Hawick Rugby Club (Corporate)](/setts/s6/b12y6b42w6k42w12-b2c2c80-k101010-we0e0e0-ye8c000/) — ΔT 1.11
+1. [Bryson (1988) (Name)](/setts/s5/y16r8b56ba56w8-b78849c-ba000064-rc80000-wc8d8dc-ya0a0a0/) — ΔT 1.12
+1. [Thom(p)son, Navy](/setts/s7/r6b30w26ra12b4ra4r4-b000050-r900030-ra806050-we0e0e0/) — ΔT 1.16
+1. [Crombie House Check](/setts/s6/k6w20b4g12b36g4-b2c2c80-g006818-k101010-wc0c0c0/) — ΔT 1.20
+1. [Over Mountain](/setts/s7/r4w2b16w16g16w2g2-b1c0070-g8c7038-r880000-wa8ace8/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r40w20b120ba80r12-b2c4084-ba0596fa-rc80000-wffffff/"><circle cx="208.2" cy="215.1" r="4" fill="#3465a4"><title>Lands of Liberty</title></circle></a><a href="/setts/s4/b20g20r10w2-b1c0070-g0098a0-rc80000-wf8f8f8/"><circle cx="176.3" cy="241.5" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/setts/s6/r12k4w20k16b44r4-b2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="184.9" cy="186.2" r="4" fill="#3465a4"><title>Hydro-Electric (Corporate)</title></circle></a><a href="/setts/s4/b20g20r10w2-b1c0070-g00ac94-rc80030-we0e0e0/"><circle cx="170.5" cy="239.2" r="4" fill="#3465a4"><title>Thorntons Law Corporate Tartan Tartan Number: 6862. Earliest known date: 2005 Thorntons WS is a Dundee based solictors, estate agents and investment consultants. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/b18y18b18ba46r6-b1c1c50-ba1c6894-rc80000-yc8c44c/"><circle cx="192.5" cy="244.2" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/setts/s6/b12y6b42w6k42w12-b2c2c80-k101010-we0e0e0-ye8c000/"><circle cx="194.5" cy="217.5" r="4" fill="#3465a4"><title>Hawick Rugby Club (Corporate)</title></circle></a><a href="/setts/s5/y16r8b56ba56w8-b78849c-ba000064-rc80000-wc8d8dc-ya0a0a0/"><circle cx="157.8" cy="211.0" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/setts/s7/r6b30w26ra12b4ra4r4-b000050-r900030-ra806050-we0e0e0/"><circle cx="149.0" cy="190.2" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/setts/s6/k6w20b4g12b36g4-b2c2c80-g006818-k101010-wc0c0c0/"><circle cx="224.3" cy="207.5" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/setts/s7/r4w2b16w16g16w2g2-b1c0070-g8c7038-r880000-wa8ace8/"><circle cx="156.0" cy="198.1" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><circle cx="184.1" cy="223.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/r30w20b96ba64r12-b202060-ba2888c4-rc80000-wfcfcfc/

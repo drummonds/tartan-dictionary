@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "O/4 N10 DB6 N10 DG11 N32 K66 Y/11 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Turnbull, Dress Bruce (Personal)](/setts/s8/r11k66g32b11g10ba6g10ra4-b002814-ba2c4084-g808080-k101010-rc87814-rae13200/) — ΔT 0.45
+1. [Legion of Frontiersmen (Corporate)](/setts/s8/k90y20g14r6w8b26w18r12-b202060-g006818-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 0.70
+1. [Otago](/setts/s10/g32k4g12k4r4k4b30ga2b2w4-b304080-g908000-ga008000-k000000-rc00000-we0e0e0/) — ΔT 0.78
+1. [Vienna Highlander (Fashion)](/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/) — ΔT 0.84
+1. [Dublin County Crest (Fashion)](/setts/s11/y9k8y30k4w8k4b24k54r14k4ya8-b2c2c80-k101010-r880000-wa8ace8-ybc8c00-yaa0a0a0/) — ΔT 0.94
+1. [Letter Dress (2014)](/setts/s9/r58k46y2g18y4ra8k28w4k8-g006818-k101010-r888888-rac80000-wfcfcfc-yd09800/) — ΔT 0.94
+1. [Milne-Murtaugh (Personal)](/setts/s7/r10b4k60ba52y4ba4bb8-b5c8ca8-ba5c5c5c-bb1c1c50-k101010-re87878-ye8c000/) — ΔT 0.95
+1. [Roderick Dhu](/setts/s9/b12k8r8k48g40y4k4g8w8-b3850c8-g006818-k101010-rc80000-wa8ace8-ye8c000/) — ΔT 0.98
+1. [Minnesota (District)](/setts/s8/k12w6k4b60r18k8g40y6-b2c2c80-g289c18-k101010-ra00024-we0e0e0-ye8c000/) — ΔT 0.99
+1. [Shawlands International (Commem.)](/setts/s6/k6g88b54y12r20w6-b1c0070-g006818-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 1.00
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r11k66g32b11g10ba6g10ra4-b002814-ba2c4084-g808080-k101010-rc87814-rae13200/"><circle cx="214.5" cy="131.7" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/setts/s8/k90y20g14r6w8b26w18r12-b202060-g006818-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="178.5" cy="121.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/setts/s10/g32k4g12k4r4k4b30ga2b2w4-b304080-g908000-ga008000-k000000-rc00000-we0e0e0/"><circle cx="201.9" cy="110.1" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/"><circle cx="196.7" cy="117.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s11/y9k8y30k4w8k4b24k54r14k4ya8-b2c2c80-k101010-r880000-wa8ace8-ybc8c00-yaa0a0a0/"><circle cx="169.5" cy="121.9" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/setts/s9/r58k46y2g18y4ra8k28w4k8-g006818-k101010-r888888-rac80000-wfcfcfc-yd09800/"><circle cx="228.4" cy="105.9" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s7/r10b4k60ba52y4ba4bb8-b5c8ca8-ba5c5c5c-bb1c1c50-k101010-re87878-ye8c000/"><circle cx="230.8" cy="141.5" r="4" fill="#3465a4"><title>Milne-Murtaugh (Personal)</title></circle></a><a href="/setts/s9/b12k8r8k48g40y4k4g8w8-b3850c8-g006818-k101010-rc80000-wa8ace8-ye8c000/"><circle cx="182.4" cy="143.6" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/setts/s8/k12w6k4b60r18k8g40y6-b2c2c80-g289c18-k101010-ra00024-we0e0e0-ye8c000/"><circle cx="149.5" cy="131.5" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s6/k6g88b54y12r20w6-b1c0070-g006818-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="207.1" cy="149.2" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><circle cx="201.8" cy="125.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/y11k66r32g11r10b6r10ya4-b2c2c80-g003820-k101010-r888888-yffa500-yad87c00/

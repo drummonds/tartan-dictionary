@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/128 K16 W6 K16 W6 B8 W6 DR/36 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Anthony Plaid Red](/setts/s9/r72k4y12k4ya4r12k8r8ya8-k101010-r880000-ye8c000-yab8b8b8/) — ΔT 0.87
+1. [Aberdeen F. C. (2002) (Sports)](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rc80000-wfcfcfc-yfccc00/) — ΔT 1.03
+1. [Highlands of Wyomissing (Corporate)](/setts/s8/r70w6r16y4g22y4r16w6-g003820-r880000-we8ccb8-ye8c000/) — ΔT 1.05
+1. [Unnamed C20th - Skirt](/setts/s10/r116k24r8k4y4k4r20w10k4y8-k101010-rb03000-wfcfcfc-ye8c000/) — ΔT 1.21
+1. [Aberdeen Football Club (2002)](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.26
+1. [Rose](/setts/s9/g4r56b12r10b4r4b4r22y4-b000052-g11450d-raa0000-yaaaaaa/) — ΔT 1.31
+1. [Rose](/setts/s9/g2r28b6r5b2r2b2r11y2-b000052-g11450d-raa0000-yaaaaaa/) — ΔT 1.31
+1. [Rose](/setts/s9/g2r28b6r5b2r2b2r11w2-b000064-g004c00-rc80000-wd0d0d0/) — ΔT 1.34
+1. [Stuart of Bute](/setts/s9/r24g12k2g4k2g2k12r48y4-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.36
+1. [Wilding, Michael John (Personal)](/setts/s13/w4k4b4y4k4r12k2r24k4r12w2r46k2-b2888c4-k101010-r880000-wffffff-yffff00/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r72k4y12k4ya4r12k8r8ya8-k101010-r880000-ye8c000-yab8b8b8/"><circle cx="442.5" cy="127.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/setts/s8/k8r8y4r82k8r8k24w4-k101010-rc80000-wfcfcfc-yfccc00/"><circle cx="438.6" cy="122.7" r="4" fill="#3465a4"><title>Aberdeen F. C. (2002) (Sports)</title></circle></a><a href="/setts/s8/r70w6r16y4g22y4r16w6-g003820-r880000-we8ccb8-ye8c000/"><circle cx="449.1" cy="152.2" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s10/r116k24r8k4y4k4r20w10k4y8-k101010-rb03000-wfcfcfc-ye8c000/"><circle cx="477.4" cy="92.6" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s8/k8r8y4r82k8r8k24w4-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="436.7" cy="119.2" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/setts/s9/g4r56b12r10b4r4b4r22y4-b000052-g11450d-raa0000-yaaaaaa/"><circle cx="509.5" cy="157.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/g2r28b6r5b2r2b2r11y2-b000052-g11450d-raa0000-yaaaaaa/"><circle cx="509.5" cy="157.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/g2r28b6r5b2r2b2r11w2-b000064-g004c00-rc80000-wd0d0d0/"><circle cx="494.1" cy="145.8" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/r24g12k2g4k2g2k12r48y4-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="413.9" cy="130.7" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s13/w4k4b4y4k4r12k2r24k4r12w2r46k2-b2888c4-k101010-r880000-wffffff-yffff00/"><circle cx="467.4" cy="97.1" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><circle cx="484.9" cy="128.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r128k16w6k16w6b8w6r36-b3850c8-k101010-r880000-wfcfcfc/

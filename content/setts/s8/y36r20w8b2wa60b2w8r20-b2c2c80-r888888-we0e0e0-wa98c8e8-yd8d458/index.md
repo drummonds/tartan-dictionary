@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LG/36 N20 LN8 DB2 LB60 DB2 LN8 N/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Alloway Primary School (Ayr)](/setts/s8/y36g20w8b2wa60b2w8g20-b14256b-g798a92-wffffff-wab2e5ff-yebaf01/) — ΔT 1.24
+1. [Rutlin (Personal)](/setts/s9/g12b4g2w34g2b4g32y54ga4-b2c4084-g808080-ga005020-we0e0e0-ybe9650/) — ΔT 1.31
+1. [Bouguet, Adrian Dress (Personal)](/setts/s11/w32g10y40wa6g6wa6y8ga28y4wa4r2-g306754-ga767e52-ra00000-w98c8e8-wac8c8c8-yebb790/) — ΔT 1.49
+1. [Delta Dental Association (Corporate)](/setts/s13/b8r2y58r12w26r26w12r26w26r12y58r2g8-b2888c4-g289c18-r888888-wfcfcfc-ya08858/) — ΔT 1.53
+1. [Banatherton Union](/setts/s10/y20r16ya2w10wa10y56r4ya2w16wa10-r888888-wc0c0c0-wafcfcfc-y48a4c0-yafccc00/) — ΔT 1.60
+1. [Highlands Country Club (Corporate)](/setts/s7/g20w60wa44w8wa4w4g16-g006818-wa8ace8-wac0c0c0/) — ΔT 1.72
+1. [Dalveen (2004)](/setts/s7/y44w2g12r12g12ya6ga24-g0098a0-ga408060-rc8002c-wf8f8f8-y48a4c0-yae8c000/) — ΔT 1.83
+1. [Gift of Life Michigan](/setts/s7/r4w2r2w22y32g2wa2-g006400-rff0000-w82cffd-waffffff-y86c67c/) — ΔT 1.92
+1. [O'Rourke (Estimated threadcount)](/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/) — ΔT 1.93
+1. [South Aiken Presby Church (Corporate](/setts/s6/y60g6b4w4b60ya8-b2888c4-g00a424-w98c8e8-yd0b06c-yad87c00/) — ΔT 1.96
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y36g20w8b2wa60b2w8g20-b14256b-g798a92-wffffff-wab2e5ff-yebaf01/"><circle cx="222.3" cy="122.2" r="4" fill="#3465a4"><title>Alloway Primary School (Ayr)</title></circle></a><a href="/setts/s9/g12b4g2w34g2b4g32y54ga4-b2c4084-g808080-ga005020-we0e0e0-ybe9650/"><circle cx="248.3" cy="124.1" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/setts/s11/w32g10y40wa6g6wa6y8ga28y4wa4r2-g306754-ga767e52-ra00000-w98c8e8-wac8c8c8-yebb790/"><circle cx="189.4" cy="121.4" r="4" fill="#3465a4"><title>Bouguet, Adrian Dress (Personal)</title></circle></a><a href="/setts/s13/b8r2y58r12w26r26w12r26w26r12y58r2g8-b2888c4-g289c18-r888888-wfcfcfc-ya08858/"><circle cx="248.7" cy="124.3" r="4" fill="#3465a4"><title>Delta Dental Association (Corporate)</title></circle></a><a href="/setts/s10/y20r16ya2w10wa10y56r4ya2w16wa10-r888888-wc0c0c0-wafcfcfc-y48a4c0-yafccc00/"><circle cx="330.2" cy="140.8" r="4" fill="#3465a4"><title>Banatherton Union</title></circle></a><a href="/setts/s7/g20w60wa44w8wa4w4g16-g006818-wa8ace8-wac0c0c0/"><circle cx="238.0" cy="187.1" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/setts/s7/y44w2g12r12g12ya6ga24-g0098a0-ga408060-rc8002c-wf8f8f8-y48a4c0-yae8c000/"><circle cx="227.5" cy="169.5" r="4" fill="#3465a4"><title>Dalveen (2004)</title></circle></a><a href="/setts/s7/r4w2r2w22y32g2wa2-g006400-rff0000-w82cffd-waffffff-y86c67c/"><circle cx="304.3" cy="150.5" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><a href="/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/"><circle cx="233.4" cy="111.5" r="4" fill="#3465a4"><title>O'Rourke (Estimated threadcount)</title></circle></a><a href="/setts/s6/y60g6b4w4b60ya8-b2888c4-g00a424-w98c8e8-yd0b06c-yad87c00/"><circle cx="302.0" cy="172.5" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><circle cx="254.5" cy="140.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/y36r20w8b2wa60b2w8r20-b2c2c80-r888888-we0e0e0-wa98c8e8-yd8d458/

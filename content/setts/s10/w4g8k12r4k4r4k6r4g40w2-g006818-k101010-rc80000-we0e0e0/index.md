@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kiernan](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g287438-k101010-rc80000-we0e0e0/) — ΔT 0.35
+1. [Valdres, Kvam & Vang #2](/setts/s11/k8w2r8k4g4r6k4g40r4k4r4-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.81
+1. [Danareth](/setts/s10/k7g6y3k12r19k12g62k62g12r7-g008b00-k101010-r8b0000-yffe600/) — ΔT 0.94
+1. [Keirnan](/setts/s10/w4g8k12r4k4r4k6r4g40w2-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.94
+1. [Park](/setts/s12/g6r4g6r8g68k4g4k4g8k32b32r6-b304080-g008000-k000000-rc00000/) — ΔT 0.96
+1. [MacHardy (Clans Originaux)](/setts/s8/g8r8k24w4k24g64r8k6-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.02
+1. [MacMillan Ancient (a)](/setts/s12/g4k2g36k2g4k2b24g8y12k2y12k2-b59110d-g11450d-k000000-yaaaa00/) — ΔT 1.03
+1. [MacMillan Ancient](/setts/s12/g2k1g18k1g2k1b12g4y6k1y6k1-b59110d-g11450d-k000000-yaaaa00/) — ΔT 1.03
+1. [Fort William](/setts/s11/g34b4y4b4k42b4k6g60k4b4k8-b5c8ca8-g5c6428-k101010-y9c9c00/) — ΔT 1.17
+1. [MacMillan - 1847 (Clan)](/setts/s12/g14k6g106k6g16k6b48g16y36k6y36k6-b680028-g006818-k101010-ybc8c00/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w4g8k12r4k4r4k6r4g40w2-g287438-k101010-rc80000-we0e0e0/"><circle cx="309.8" cy="135.1" r="4" fill="#3465a4"><title>Kiernan</title></circle></a><a href="/setts/s11/k8w2r8k4g4r6k4g40r4k4r4-g006818-k101010-rc80000-we0e0e0/"><circle cx="303.1" cy="130.2" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/setts/s10/k7g6y3k12r19k12g62k62g12r7-g008b00-k101010-r8b0000-yffe600/"><circle cx="274.0" cy="149.0" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/setts/s10/w4g8k12r4k4r4k6r4g40w2-g008000-k000000-rc00000-we0e0e0/"><circle cx="284.6" cy="128.6" r="4" fill="#3465a4"><title>Keirnan</title></circle></a><a href="/setts/s12/g6r4g6r8g68k4g4k4g8k32b32r6-b304080-g008000-k000000-rc00000/"><circle cx="259.3" cy="131.8" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/setts/s8/g8r8k24w4k24g64r8k6-g006818-k101010-rc80000-we0e0e0/"><circle cx="293.6" cy="174.1" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s12/g4k2g36k2g4k2b24g8y12k2y12k2-b59110d-g11450d-k000000-yaaaa00/"><circle cx="257.6" cy="139.5" r="4" fill="#3465a4"><title>MacMillan Ancient (a)</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1b12g4y6k1y6k1-b59110d-g11450d-k000000-yaaaa00/"><circle cx="257.6" cy="139.5" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/setts/s11/g34b4y4b4k42b4k6g60k4b4k8-b5c8ca8-g5c6428-k101010-y9c9c00/"><circle cx="336.6" cy="158.0" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s12/g14k6g106k6g16k6b48g16y36k6y36k6-b680028-g006818-k101010-ybc8c00/"><circle cx="291.1" cy="146.8" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><circle cx="310.5" cy="137.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/w4g8k12r4k4r4k6r4g40w2-g006818-k101010-rc80000-we0e0e0/

@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.17 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Virginia Tech (Corporate)](/setts/s10/r12y4r72y36r4y8r4y12w6b8-b2c2c80-r880000-we0e0e0-yd87c00/) — ΔT 0.22
+1. [Chisholm of Strathglass Clan Tartan Tartan Number: 1455. Earliest known date: 1830 A slight variation in proportions from the Chisholm sett in the collection of the Highland Society of London. Logan gives this sett as Chisholm, as do Smibert(1850) and the Smiths (1850), but Grant (1886) shows the Vestiarium design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r14w4r72b12g6b6g6b6g24r8-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 0.75
+1. [Chisholm of Strathglass](/setts/s10/r14w4r72b12g6b6g6b6g24r8-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.79
+1. [Chisholm, The (MacGregor-Hastie)](/setts/s10/r24w4r74b12g6b6r8b6g42r8-b1474b4-g006818-rc80000-wfcfcfc/) — ΔT 0.82
+1. [Chisholm, The](/setts/s10/r24w4r74b12g6b6r8b6g42r8-b304080-g008000-rc00000-we0e0e0/) — ΔT 0.82
+1. [Chisholm of Strathglass (Clan)](/setts/s10/r14w4r72b12g6b6g6b6g24r8-b1474b4-g00643c-rc80000-wfcfcfc/) — ΔT 0.89
+1. [Baluch Regiment (Military)](/setts/s9/r10g40r10g6r8g10r72b4w8-b4c3428-g006818-rc80000-wfcfcfc/) — ΔT 0.90
+1. [MacDonell of Keppoch](/setts/s10/g4r4b2r48ba2b12r6g24r8b2-b2c2c80-ba5c8ca8-g285800-rc80000/) — ΔT 0.96
+1. [MacColl #3](/setts/s14/r24g2r2ga16r4g2r2b6r2g2r24ga2r2ga8-b2c4084-g503c14-ga005020-rdc0000/) — ΔT 0.97
+1. [MacDougall #8](/setts/s11/r8g16k12ra16r12g4r4g4r48g2r6-g005020-k101010-rdc0000-ra960028/) — ΔT 0.97
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r12y4r72y36r4y8r4y12w6b8-b2c2c80-r880000-we0e0e0-yd87c00/"><circle cx="377.3" cy="132.4" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/setts/s10/r14w4r72b12g6b6g6b6g24r8-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="377.1" cy="133.1" r="4" fill="#3465a4"><title>Chisholm of Strathglass Clan Tartan Tartan Number: 1455. Earliest known date: 1830 A slight variation in proportions from the Chisholm sett in the collection of the Highland Society of London. Logan gives this sett as Chisholm, as do Smibert(1850) and the Smiths (1850), but Grant (1886) shows the Vestiarium design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r14w4r72b12g6b6g6b6g24r8-b304080-g008000-rc00000-we0e0e0/"><circle cx="378.8" cy="134.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s10/r24w4r74b12g6b6r8b6g42r8-b1474b4-g006818-rc80000-wfcfcfc/"><circle cx="379.0" cy="140.1" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/setts/s10/r24w4r74b12g6b6r8b6g42r8-b304080-g008000-rc00000-we0e0e0/"><circle cx="380.6" cy="141.4" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/r14w4r72b12g6b6g6b6g24r8-b1474b4-g00643c-rc80000-wfcfcfc/"><circle cx="379.7" cy="134.5" r="4" fill="#3465a4"><title>Chisholm of Strathglass (Clan)</title></circle></a><a href="/setts/s9/r10g40r10g6r8g10r72b4w8-b4c3428-g006818-rc80000-wfcfcfc/"><circle cx="384.0" cy="142.1" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s10/g4r4b2r48ba2b12r6g24r8b2-b2c2c80-ba5c8ca8-g285800-rc80000/"><circle cx="399.6" cy="129.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s14/r24g2r2ga16r4g2r2b6r2g2r24ga2r2ga8-b2c4084-g503c14-ga005020-rdc0000/"><circle cx="374.2" cy="142.6" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/setts/s11/r8g16k12ra16r12g4r4g4r48g2r6-g005020-k101010-rdc0000-ra960028/"><circle cx="376.8" cy="131.2" r="4" fill="#3465a4"><title>MacDougall #8</title></circle></a><circle cx="369.8" cy="138.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/r12y4r64y30r4y6r4y12w6b8-b2c2c80-r880000-we0e0e0-yd87c00/

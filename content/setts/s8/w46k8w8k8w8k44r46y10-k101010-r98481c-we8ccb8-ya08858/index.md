@@ -37,4 +37,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LR/46 K8 LR8 K8 LR8 K44 T46 LT/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Holden Beige (Corporate)](/setts/s8/w26k6w6k6w6k30y36r6-k101010-rc80000-we8ccb8-ya08858/) — ΔT 0.31
+1. [Holden Brown (Corporate)](/setts/s8/w26k6w6k6w6k30g36r6-g604000-k101010-rc80000-we8ccb8/) — ΔT 0.47
+1. [Edinburgh, City of](/setts/s10/w20k6wa6k6wa6k6w20r12k30r6-k101010-rc80000-wc0c0c0-wafcfcfc/) — ΔT 0.95
+1. [Fraser Dress](/setts/s6/r6k14r6g14w27k4-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.03
+1. [Thompson Grey Dress](/setts/s6/r8ra48k8w24k24r8-k101010-r880000-ra888888-we0e0e0/) — ΔT 1.03
+1. [Merrilees](/setts/s6/w46b12w12r10k70r20-b5c8ca8-k101010-rc80000-wf8f8f8/) — ΔT 1.05
+1. [Al Suwaidi of Abu Dhabi (Personal)](/setts/s8/w10r35g35k35r10g10k10w5-g005020-k101010-rdc0000-wffffff/) — ΔT 1.08
+1. [Daks (Brown)](/setts/s8/g6k14g4w4y24k4y4g6-g604000-k101010-wfcfcfc-ya08858/) — ΔT 1.09
+1. [Meg Merrilees Fancy Tartan Tartan Number: 1602. Earliest known date: 1831 Miss McDougall, Inverness library, says in her notes:The first mention I had of this tartan was in an advertisment by D MacDougall, Draper, 27 High St., Inverness in 1831 . . . Meg Merrilees and other winter shawls. From Dalgety Archives. STS notes that it was sold by Forsyth's in Glasgow in 1840. Meg Merrilees was a character in one of Scotts novels, Guy Mannering. BU See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w46b12w12r10k70r20-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 1.10
+1. [MacKintosh Dress (Scott Adie)](/setts/s6/r12w32b16g56r16b8-b2c2c80-g285800-rc80000-we0e0e0/) — ΔT 1.13
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w26k6w6k6w6k30y36r6-k101010-rc80000-we8ccb8-ya08858/"><circle cx="127.1" cy="193.5" r="4" fill="#3465a4"><title>Holden Beige (Corporate)</title></circle></a><a href="/setts/s8/w26k6w6k6w6k30g36r6-g604000-k101010-rc80000-we8ccb8/"><circle cx="131.1" cy="197.4" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/setts/s10/w20k6wa6k6wa6k6w20r12k30r6-k101010-rc80000-wc0c0c0-wafcfcfc/"><circle cx="124.6" cy="198.6" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/setts/s6/r6k14r6g14w27k4-g005020-k101010-rdc0000-we0e0e0/"><circle cx="119.2" cy="210.6" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/setts/s6/r8ra48k8w24k24r8-k101010-r880000-ra888888-we0e0e0/"><circle cx="143.4" cy="215.9" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/setts/s6/w46b12w12r10k70r20-b5c8ca8-k101010-rc80000-wf8f8f8/"><circle cx="156.1" cy="196.8" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/setts/s8/w10r35g35k35r10g10k10w5-g005020-k101010-rdc0000-wffffff/"><circle cx="109.8" cy="205.2" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><a href="/setts/s8/g6k14g4w4y24k4y4g6-g604000-k101010-wfcfcfc-ya08858/"><circle cx="177.7" cy="204.7" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/setts/s6/w46b12w12r10k70r20-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="161.4" cy="200.3" r="4" fill="#3465a4"><title>Meg Merrilees Fancy Tartan Tartan Number: 1602. Earliest known date: 1831 Miss McDougall, Inverness library, says in her notes:The first mention I had of this tartan was in an advertisment by D MacDougall, Draper, 27 High St., Inverness in 1831 . . . Meg Merrilees and other winter shawls. From Dalgety Archives. STS notes that it was sold by Forsyth's in Glasgow in 1840. Meg Merrilees was a character in one of Scotts novels, Guy Mannering. BU See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r12w32b16g56r16b8-b2c2c80-g285800-rc80000-we0e0e0/"><circle cx="149.2" cy="215.1" r="4" fill="#3465a4"><title>MacKintosh Dress (Scott Adie)</title></circle></a><circle cx="129.4" cy="194.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w46k8w8k8w8k44r46y10-k101010-r98481c-we8ccb8-ya08858/

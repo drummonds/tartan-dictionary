@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/8 K76 LN16 DG4 LN16 DG4 LN38 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [St. Piran Dress](/setts/s8/r8w38g4w16g4w16k76w8-g003820-k101010-rc80000-we0e0e0/) — ΔT 0.70
+1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/w8k4w32k8w8k74g24k8y8-g005020-k101010-we0e0e0-ye8c000/) — ΔT 0.91
+1. [Gordon Dress (Variation) Trade Tartan Tartan Number: 1831. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w8k4w32k8w8k74g24k8y8-g006818-k101010-we0e0e0-ye8c000/) — ΔT 0.94
+1. [Phantom](/setts/s7/w6r20k76wa22r12k4w6-k101010-r945067-wf7feee-waeeeeec/) — ΔT 0.97
+1. [Virginia Commonwealth University](/setts/s7/k60w4y8ya20w18k6y10-k101010-wffffff-ya0a0a0-yad87c00/) — ΔT 1.04
+1. [Scott, (MacRae)](/setts/s11/r4w12b4w32b6w2k32w2b4k8r4-b304080-k000000-rc00000-we0e0e0/) — ΔT 1.06
+1. [Merric, Dark Camel..](/setts/s7/r4w16k28ra50w4k4w4-k000000-rc00000-ra806050-we0e0e0/) — ΔT 1.12
+1. [MacPherson Dress](/setts/s7/w3r1w30k20w3k9y1-k000000-rc80000-wd0d0d0-yffc800/) — ΔT 1.15
+1. [Unidentified #49](/setts/s10/w64k16r4k8w4k24g24k4g24w4-g003014-k000000-rb43c00-wc8c8c8/) — ΔT 1.17
+1. [MacPherson Dress](/setts/s7/y6r2y60k40y6k18ya2-k000000-raa0000-yaaaaaa-yaaaaa00/) — ΔT 1.18
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r8w38g4w16g4w16k76w8-g003820-k101010-rc80000-we0e0e0/"><circle cx="255.1" cy="133.9" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/setts/s9/w8k4w32k8w8k74g24k8y8-g005020-k101010-we0e0e0-ye8c000/"><circle cx="273.1" cy="137.1" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/setts/s9/w8k4w32k8w8k74g24k8y8-g006818-k101010-we0e0e0-ye8c000/"><circle cx="272.1" cy="136.6" r="4" fill="#3465a4"><title>Gordon Dress (Variation) Trade Tartan Tartan Number: 1831. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w6r20k76wa22r12k4w6-k101010-r945067-wf7feee-waeeeeec/"><circle cx="284.2" cy="141.7" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s7/k60w4y8ya20w18k6y10-k101010-wffffff-ya0a0a0-yad87c00/"><circle cx="246.0" cy="154.5" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/setts/s11/r4w12b4w32b6w2k32w2b4k8r4-b304080-k000000-rc00000-we0e0e0/"><circle cx="204.9" cy="125.4" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/setts/s7/r4w16k28ra50w4k4w4-k000000-rc00000-ra806050-we0e0e0/"><circle cx="219.2" cy="158.3" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9y1-k000000-rc80000-wd0d0d0-yffc800/"><circle cx="320.3" cy="127.6" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s10/w64k16r4k8w4k24g24k4g24w4-g003014-k000000-rb43c00-wc8c8c8/"><circle cx="190.8" cy="140.9" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/setts/s7/y6r2y60k40y6k18ya2-k000000-raa0000-yaaaaaa-yaaaaa00/"><circle cx="326.6" cy="133.1" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><circle cx="252.8" cy="136.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r8w38g4w16g4w16k76w8-g003000-k000000-rc00000-we0e0e0/

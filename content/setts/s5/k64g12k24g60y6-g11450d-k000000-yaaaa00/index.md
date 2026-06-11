@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/64 DG12 K24 DG60 LG/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacArthur](/setts/s5/k32g6k12g30y3-g11450d-k000000-yaaaa00/) — ΔT 0.00
+1. [MacArthur](/setts/s5/k32g6k12g30y3-g004c00-k000000-yffff00/) — ΔT 0.58
+1. [Wallace Hunting](/setts/s4/k1g8k8y1-g11450d-k000000-yaaaa00/) — ΔT 0.76
+1. [Gunn VS](/setts/s6/g2k16g2k16g30r2-g004c00-k000000-rc80000/) — ΔT 0.98
+1. [Gunn VS](/setts/s6/g4k32g4k32g60r4-g11450d-k000000-raa0000/) — ΔT 1.01
+1. [Gunn VS](/setts/s6/g2k16g2k16g30r2-g11450d-k000000-raa0000/) — ΔT 1.01
+1. [Gunn](/setts/s6/g4k24g2k24g24r4-g008000-k000000-rc00000/) — ΔT 1.14
+1. [Campbell of Lochawe](/setts/s5/k4b22k52g22k4-b304080-g008000-k000000/) — ΔT 1.19
+1. [Wallace Htg (Clan)](/setts/s4/k4g32k32y4-g006818-k000000-ydcbc00/) — ΔT 1.29
+1. [Wallace Hunting](/setts/s6/g32k32y4k32g32k4-g006818-k000000-ydcbc00/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k32g6k12g30y3-g11450d-k000000-yaaaa00/"><circle cx="326.1" cy="259.7" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s5/k32g6k12g30y3-g004c00-k000000-yffff00/"><circle cx="309.4" cy="253.3" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s4/k1g8k8y1-g11450d-k000000-yaaaa00/"><circle cx="301.2" cy="271.1" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/setts/s6/g2k16g2k16g30r2-g004c00-k000000-rc80000/"><circle cx="341.2" cy="223.8" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/setts/s6/g4k32g4k32g60r4-g11450d-k000000-raa0000/"><circle cx="351.0" cy="227.3" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/setts/s6/g2k16g2k16g30r2-g11450d-k000000-raa0000/"><circle cx="351.0" cy="227.3" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/setts/s6/g4k24g2k24g24r4-g008000-k000000-rc00000/"><circle cx="322.5" cy="233.2" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s5/k4b22k52g22k4-b304080-g008000-k000000/"><circle cx="321.1" cy="232.6" r="4" fill="#3465a4"><title>Campbell of Lochawe</title></circle></a><a href="/setts/s4/k4g32k32y4-g006818-k000000-ydcbc00/"><circle cx="279.4" cy="261.8" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/setts/s6/g32k32y4k32g32k4-g006818-k000000-ydcbc00/"><circle cx="264.0" cy="267.6" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><circle cx="326.1" cy="259.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/k64g12k24g60y6-g11450d-k000000-yaaaa00/

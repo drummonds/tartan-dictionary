@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | Y | <code style="background-color:#FFFF00;"><span style="color:#FFFF00;filter:grayscale(1) invert(1) contrast(100);">#FFFF00</span></code> `#FFFF00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.16 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gordon VS](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b000052-g11450d-k000000-yaaaa00/) — ΔT 0.69
+1. [Gordon VS](/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4-b000052-g11450d-k000000-yaaaa00/) — ΔT 0.69
+1. [Wcwm 1538](/setts/s21/r12k8b8g96b4k16b8k24g24r8g40r8g24k24b8k16b4k96g8b16r4-b0000e0-g004c00-k000000-ra0783c/) — ΔT 0.91
+1. [Hope-Vere / Weir](/setts/s17/g36k2b6k2g6k16b36k2y2k10y2k2b36k16g4k2b4-b304080-g008000-k000000-yf0c000/) — ΔT 1.20
+1. [Urquhart](/setts/s12/b4w2b24k2b4k2b8k24g48k2g4r2-b00004c-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 1.21
+1. [Sutherland](/setts/s12/g6w2g24k12b3k2b2k2b12r1b1r3-b000064-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 1.29
+1. [Sutherland](/setts/s12/g12y4g48k24b6k4b4k4b24r2b2r6-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.31
+1. [Sutherland](/setts/s12/g6y2g24k12b3k2b2k2b12r1b1r3-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.31
+1. [Gordon, Ancient](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b304080-g008000-k000000-yf0c000/) — ΔT 1.32
+1. [Urquhart](/setts/s12/b8y4b48k6b6k6b16k48g96k6g6r4-b000052-g11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b000052-g11450d-k000000-yaaaa00/"><circle cx="272.1" cy="127.0" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4-b000052-g11450d-k000000-yaaaa00/"><circle cx="272.1" cy="127.0" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/setts/s21/r12k8b8g96b4k16b8k24g24r8g40r8g24k24b8k16b4k96g8b16r4-b0000e0-g004c00-k000000-ra0783c/"><circle cx="244.0" cy="109.6" r="4" fill="#3465a4"><title>Wcwm 1538</title></circle></a><a href="/setts/s17/g36k2b6k2g6k16b36k2y2k10y2k2b36k16g4k2b4-b304080-g008000-k000000-yf0c000/"><circle cx="232.6" cy="123.7" r="4" fill="#3465a4"><title>Hope-Vere / Weir</title></circle></a><a href="/setts/s12/b4w2b24k2b4k2b8k24g48k2g4r2-b00004c-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="252.7" cy="119.8" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s12/g6w2g24k12b3k2b2k2b12r1b1r3-b000064-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="226.5" cy="120.0" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s12/g12y4g48k24b6k4b4k4b24r2b2r6-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="241.6" cy="126.4" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s12/g6y2g24k12b3k2b2k2b12r1b1r3-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="241.6" cy="126.4" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b304080-g008000-k000000-yf0c000/"><circle cx="233.1" cy="105.1" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/setts/s12/b8y4b48k6b6k6b16k48g96k6g6r4-b000052-g11450d-k000000-raa0000-yaaaaaa/"><circle cx="257.4" cy="124.8" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><circle cx="252.3" cy="118.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4-b00004c-g004c00-k000000-yffff00/

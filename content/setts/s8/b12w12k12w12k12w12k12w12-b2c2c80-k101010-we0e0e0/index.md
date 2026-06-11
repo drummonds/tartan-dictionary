@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/12 LN12 K12 LN12 K12 LN12 K12 LN/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Buccleuch, Check](/setts/s8/b12w12k12w12k12w12k12w12-b304080-k000000-we0e0e0/) — ΔT 0.54
+1. [Haig Check (Estate Check)](/setts/s8/b12w12k12w12k12w12k12w12-b1474b4-k101010-wfcfcfc/) — ΔT 0.60
+1. [Buccleuch Check (9 squares)](/setts/s11/b10w8k8w8k8w8k8w8k8w8k8-b1474b4-k101010-we0e0e0/) — ΔT 1.16
+1. [Haig Check](/setts/s15/b12w12k12w12k12w12k12w12k12w12k12w12k12w12b12-b1474b4-k101010-wfcfcfc/) — ΔT 1.37
+1. [Strathspey (Estate Check)](/setts/s9/b6w6k6w6ba6w6k6w6ba6-b003c64-ba441800-k101010-wf0e0c4/) — ΔT 1.57
+1. [Hogg](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/) — ΔT 1.59
+1. [Glen Feshie Check](/setts/s8/r8w8k6w8k8w8k8w8-k000000-rc82800-wf0dcbc/) — ΔT 1.63
+1. [Border Bell](/setts/s7/b16k16w16k16w16r16k16-b2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 1.68
+1. [Bell, Border (Name)](/setts/s7/b14k14w14k14w14r14k14-b2c2c80-k101010-rc80000-wfcfcfc/) — ΔT 1.68
+1. [Dupplin Check](/setts/s9/b6w6k6w6b6w6k6w6r6-b3c2010-k000000-rc82800-wc8c8c8/) — ΔT 1.73
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b12w12k12w12k12w12k12w12-b304080-k000000-we0e0e0/"><circle cx="31.0" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch, Check</title></circle></a><a href="/setts/s8/b12w12k12w12k12w12k12w12-b1474b4-k101010-wfcfcfc/"><circle cx="27.4" cy="366.0" r="4" fill="#3465a4"><title>Haig Check (Estate Check)</title></circle></a><a href="/setts/s11/b10w8k8w8k8w8k8w8k8w8k8-b1474b4-k101010-we0e0e0/"><circle cx="35.7" cy="362.3" r="4" fill="#3465a4"><title>Buccleuch Check (9 squares)</title></circle></a><a href="/setts/s15/b12w12k12w12k12w12k12w12k12w12k12w12k12w12b12-b1474b4-k101010-wfcfcfc/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Haig Check</title></circle></a><a href="/setts/s9/b6w6k6w6ba6w6k6w6ba6-b003c64-ba441800-k101010-wf0e0c4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Strathspey (Estate Check)</title></circle></a><a href="/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/"><circle cx="40.5" cy="366.0" r="4" fill="#3465a4"><title>Hogg</title></circle></a><a href="/setts/s8/r8w8k6w8k8w8k8w8-k000000-rc82800-wf0dcbc/"><circle cx="73.5" cy="363.3" r="4" fill="#3465a4"><title>Glen Feshie Check</title></circle></a><a href="/setts/s7/b16k16w16k16w16r16k16-b2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Border Bell</title></circle></a><a href="/setts/s7/b14k14w14k14w14r14k14-b2c2c80-k101010-rc80000-wfcfcfc/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, Border (Name)</title></circle></a><a href="/setts/s9/b6w6k6w6b6w6k6w6r6-b3c2010-k000000-rc82800-wc8c8c8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dupplin Check</title></circle></a><circle cx="34.0" cy="366.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b12w12k12w12k12w12k12w12-b2c2c80-k101010-we0e0e0/

@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/8 R36 K38 Y6 K4 LN6 G/44 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scotch House 2000, dress](/setts/s7/g44w6k4y6k38r36ga8-g004010-ga30a010-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.82
+1. [Hackett Hunting (Personal)](/setts/s8/k40y8r8y40g40w10g4ga4-g5c6428-ga006818-k101010-rc80000-we8ccb8-ya08858/) — ΔT 0.85
+1. [Comyn/Cumming](/setts/s9/b16k8b16k40y4g40r16w4r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.90
+1. [Barbour](/setts/s7/r6k40w4b22ra42y4ra4-b642400-k101010-rc80000-ra946434-wfcfcfc-ye8c000/) — ΔT 0.96
+1. [National Trade Tartan Tartan Number: 1775. Earliest known date: 1934 This sett was designed by the National Association of Scottish Woollen Manufacturers in 1934. (STS archives) Some 60 years later (1994) a new 'National' tartan has been developed. See 'Scottish National' and 'Scottish National Dress'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w4b6r12k16g24y2b8k4w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.99
+1. [Comyn, Cumming](/setts/s9/b16k8b16k40y4g40r16w4r16-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.03
+1. [South Africa 1994 (Fashion)](/setts/s7/k40y8b26w8g60w8r26-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.03
+1. [Barbour - Classic](/setts/s7/r8y4r42b22w4k40ra6-b642400-k101010-r946434-rac80000-wfcfcfc-ye8c000/) — ΔT 1.05
+1. [McMuldroch (2014)](/setts/s10/g38k36r36y4w4b4y4w4r16b6-b780078-g006818-k101010-ra00000-wfcfcfc-yfccc00/) — ΔT 1.05
+1. [Kilgour](/setts/s8/b24k12g56k12r56k12b24y4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 1.07
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g44w6k4y6k38r36ga8-g004010-ga30a010-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="97.1" cy="155.5" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/setts/s8/k40y8r8y40g40w10g4ga4-g5c6428-ga006818-k101010-rc80000-we8ccb8-ya08858/"><circle cx="113.7" cy="157.7" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/setts/s9/b16k8b16k40y4g40r16w4r16-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="81.9" cy="161.5" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s7/r6k40w4b22ra42y4ra4-b642400-k101010-rc80000-ra946434-wfcfcfc-ye8c000/"><circle cx="164.1" cy="155.4" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/setts/s9/w4b6r12k16g24y2b8k4w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="76.7" cy="147.9" r="4" fill="#3465a4"><title>National Trade Tartan Tartan Number: 1775. Earliest known date: 1934 This sett was designed by the National Association of Scottish Woollen Manufacturers in 1934. (STS archives) Some 60 years later (1994) a new 'National' tartan has been developed. See 'Scottish National' and 'Scottish National Dress'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b16k8b16k40y4g40r16w4r16-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="60.6" cy="154.8" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s7/k40y8b26w8g60w8r26-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="76.0" cy="178.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/setts/s7/r8y4r42b22w4k40ra6-b642400-k101010-r946434-rac80000-wfcfcfc-ye8c000/"><circle cx="169.8" cy="159.9" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/setts/s10/g38k36r36y4w4b4y4w4r16b6-b780078-g006818-k101010-ra00000-wfcfcfc-yfccc00/"><circle cx="115.4" cy="133.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s8/b24k12g56k12r56k12b24y4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="109.9" cy="163.7" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><circle cx="109.0" cy="157.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g44w6k4y6k38r36b8-b1c0070-g006818-k101010-rc80000-we0e0e0-ye8c000/

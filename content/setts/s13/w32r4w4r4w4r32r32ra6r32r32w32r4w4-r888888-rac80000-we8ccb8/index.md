@@ -22,4 +22,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Twilfit](/setts/s9/b25r46w11r11w7r11w11r46b12-b5c8ca8-re87878-wffffff/) — ΔT 1.94
+1. [Mortell (Personal)](/setts/s10/b40ba4w10r4b20ba10b40ba4w10r10-b4c6c80-ba5c8ca8-rc80000-we0e0e0/) — ΔT 2.07
+1. [Dama Classic (Fashion)](/setts/s8/y60w6y6w6y24b60r6b10-b5c5c5c-r888888-wf0dcbc-ya0a0a0/) — ΔT 2.19
+1. [Lister (Name)](/setts/s7/g16r58g16y6g16r16y6-g604000-r888888-ye8c000/) — ΔT 2.25
+1. [Qatar Airways](/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/) — ΔT 2.25
+1. [Frater (Name)](/setts/s11/r12ra4rb30r30k4r30ra4rb12ra4r16w4-k101010-r888888-ra800028-rbe87878-wd4d4d4/) — ΔT 2.25
+1. [Frater](/setts/s11/r12ra4rb30r30k4r30ra4rb12ra4r16w4-k101010-r888888-ra800028-rbe87878-wf8f8f8/) — ΔT 2.27
+1. [Weaving for Life](/setts/s8/y48b4y12r6y12w12y12w12-b5c5c5c-ra43454-wfcfcd4-yec9898/) — ΔT 2.30
+1. [Balmoral (Lavender) (Royal)](/setts/s13/r8ra4r32rb8k8r4rb4r4rb16r8k4r4ra4-k101010-r888888-rac80000-rb9c68a4/) — ΔT 2.36
+1. [Miyuki #3](/setts/s18/b12w14r3ra6w10b28w10ra6r3w8ra10w8r3ra6w40b6w6b6-b5c5c5c-rc80000-ra888888-wc0c0c0/) — ΔT 2.37
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b25r46w11r11w7r11w11r46b12-b5c8ca8-re87878-wffffff/"><circle cx="365.6" cy="226.7" r="4" fill="#3465a4"><title>Twilfit</title></circle></a><a href="/setts/s10/b40ba4w10r4b20ba10b40ba4w10r10-b4c6c80-ba5c8ca8-rc80000-we0e0e0/"><circle cx="373.8" cy="199.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s8/y60w6y6w6y24b60r6b10-b5c5c5c-r888888-wf0dcbc-ya0a0a0/"><circle cx="342.0" cy="202.7" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/setts/s7/g16r58g16y6g16r16y6-g604000-r888888-ye8c000/"><circle cx="361.8" cy="230.7" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/"><circle cx="305.0" cy="172.8" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><a href="/setts/s11/r12ra4rb30r30k4r30ra4rb12ra4r16w4-k101010-r888888-ra800028-rbe87878-wd4d4d4/"><circle cx="330.1" cy="197.3" r="4" fill="#3465a4"><title>Frater (Name)</title></circle></a><a href="/setts/s11/r12ra4rb30r30k4r30ra4rb12ra4r16w4-k101010-r888888-ra800028-rbe87878-wf8f8f8/"><circle cx="322.1" cy="193.5" r="4" fill="#3465a4"><title>Frater</title></circle></a><a href="/setts/s8/y48b4y12r6y12w12y12w12-b5c5c5c-ra43454-wfcfcd4-yec9898/"><circle cx="452.2" cy="187.8" r="4" fill="#3465a4"><title>Weaving for Life</title></circle></a><a href="/setts/s13/r8ra4r32rb8k8r4rb4r4rb16r8k4r4ra4-k101010-r888888-rac80000-rb9c68a4/"><circle cx="310.4" cy="188.3" r="4" fill="#3465a4"><title>Balmoral (Lavender) (Royal)</title></circle></a><a href="/setts/s18/b12w14r3ra6w10b28w10ra6r3w8ra10w8r3ra6w40b6w6b6-b5c5c5c-rc80000-ra888888-wc0c0c0/"><circle cx="288.4" cy="151.0" r="4" fill="#3465a4"><title>Miyuki #3</title></circle></a><circle cx="410.2" cy="220.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/w32r4w4r4w4r32r32ra6r32r32w32r4w4-r888888-rac80000-we8ccb8/

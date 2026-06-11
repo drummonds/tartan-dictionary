@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LP/42 LG8 DR10 LG8 LP10 K42 G42 Y/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Caledonian Labrador Retrievers](/setts/s8/r42b8ba10b8r10k42g42y10-b000048-ba501400-g006818-k101010-r9c68a4-yfccc00/) — ΔT 0.43
+1. [Labrador Club of Scotland (Corporate](/setts/s8/r42y8g10y8r10k42ga42ya10-g604000-ga006818-k101010-ra478a0-y98a46c-yabc8c00/) — ΔT 0.48
+1. [Burnfoot Check](/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/) — ΔT 0.92
+1. [South Africa 1994 (Fashion)](/setts/s7/k40y8b26w8g60w8r26-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.92
+1. [Mitsukoshi Sendai](/setts/s10/r24k6w6k6w6k6r24b12g36ra6-b4c6484-g0c5e41-k000000-r848589-raa50313-wfffff0/) — ΔT 0.95
+1. [Cherokee](/setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/) — ΔT 0.96
+1. [McLion](/setts/s9/w4b24g4b4g4b4ga16r20y4-b304080-g008000-ga30a010-r802040-we0e0e0-yff8500/) — ΔT 0.97
+1. [Black Hills (Corporate)](/setts/s9/b6w4g28r28k4b14k18y4k4-b2c2c80-g408060-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.98
+1. [Black Hills](/setts/s9/b6w4g28r28k4b14k18y4k4-b2c2c80-g408060-k101010-rc80000-wffffff-ye8c000/) — ΔT 0.99
+1. [Mitsukoshi](/setts/s10/g24k6w6k6w6k6g26b12ba34r6-b07648c-ba141e46-g808080-k101010-r960000-we0e0e0/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r42b8ba10b8r10k42g42y10-b000048-ba501400-g006818-k101010-r9c68a4-yfccc00/"><circle cx="58.6" cy="188.5" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/setts/s8/r42y8g10y8r10k42ga42ya10-g604000-ga006818-k101010-ra478a0-y98a46c-yabc8c00/"><circle cx="66.8" cy="190.6" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/setts/s8/r6g4b4g6k12ba4ra20ba4-b646464-ba00008c-g004c00-k000000-r8c0000-raa0783c/"><circle cx="57.0" cy="191.5" r="4" fill="#3465a4"><title>Burnfoot Check</title></circle></a><a href="/setts/s7/k40y8b26w8g60w8r26-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="76.0" cy="178.8" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/setts/s10/r24k6w6k6w6k6r24b12g36ra6-b4c6484-g0c5e41-k000000-r848589-raa50313-wfffff0/"><circle cx="74.9" cy="164.9" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/"><circle cx="86.6" cy="189.8" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/setts/s9/w4b24g4b4g4b4ga16r20y4-b304080-g008000-ga30a010-r802040-we0e0e0-yff8500/"><circle cx="116.6" cy="175.1" r="4" fill="#3465a4"><title>McLion</title></circle></a><a href="/setts/s9/b6w4g28r28k4b14k18y4k4-b2c2c80-g408060-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="58.5" cy="163.7" r="4" fill="#3465a4"><title>Black Hills (Corporate)</title></circle></a><a href="/setts/s9/b6w4g28r28k4b14k18y4k4-b2c2c80-g408060-k101010-rc80000-wffffff-ye8c000/"><circle cx="55.4" cy="162.2" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s10/g24k6w6k6w6k6g26b12ba34r6-b07648c-ba141e46-g808080-k101010-r960000-we0e0e0/"><circle cx="92.5" cy="174.2" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><circle cx="60.6" cy="187.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r42y8b10y8r10k42g42ya10-b441800-g00643c-k101010-r9c68a4-y86c67c-yae0a126/

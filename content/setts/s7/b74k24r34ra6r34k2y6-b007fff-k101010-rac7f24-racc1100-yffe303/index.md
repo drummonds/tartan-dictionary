@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/74 K24 LT34 R6 LT34 K2 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Vancouver Centennial Commemorative Tartan Tartan Number: 2083. Earliest known date: 1988 Registered by Lord Lyon on 30th August, 1991. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g8y4g48w24b52r2-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.10
+1. [Sandelin (Personal)](/setts/s8/w20b4w2b70g20y6g20r8-b2c2c80-g006818-rc80000-we0e0e0-ybc8c00/) — ΔT 1.13
+1. [Xain (Personal)](/setts/s10/b126ba42w32ba4w8ba8w24r12w32k42-b5c8ca8-ba5a008c-k101010-rc47000-we0e0e0/) — ΔT 1.19
+1. [Crookstoun, James (West Lothian) (Personal)](/setts/s6/b106w54r10k38y2g22-b5f749c-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/) — ΔT 1.22
+1. [Unidentified #43](/setts/s9/b96r20w4r20g34k6w34k6w68-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.30
+1. [Crookstoun (Personal)](/setts/s6/b106w54r10k38y2g22-b1474b4-g006818-k101010-rc8002c-wfcfcfc-ybc8c00/) — ΔT 1.30
+1. [Big Sur MacLaren (Personal)](/setts/s7/y62k36g26r6g26k2ya6-g005030-k101010-rc80000-y88acb8-yae8c000/) — ΔT 1.31
+1. [Unidentified 18](/setts/s9/b96r20w4r20g34k6w34k6w68-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.32
+1. [(1) Stewart, modern](/setts/s9/g44b2g4b2g6k16r40b2y11-b00009e-g4d9e8a-k000000-rb24d6d-ydfc29a/) — ΔT 1.37
+1. [Palazzo Bloise (Personal)](/setts/s6/b74g54r44w2ba15y10-b0000cd-baaa00ff-g008b00-re3170d-wffffff-yffe600/) — ΔT 1.40
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g8y4g48w24b52r2-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="214.4" cy="148.7" r="4" fill="#3465a4"><title>Vancouver Centennial Commemorative Tartan Tartan Number: 2083. Earliest known date: 1988 Registered by Lord Lyon on 30th August, 1991. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w20b4w2b70g20y6g20r8-b2c2c80-g006818-rc80000-we0e0e0-ybc8c00/"><circle cx="269.0" cy="111.0" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/setts/s10/b126ba42w32ba4w8ba8w24r12w32k42-b5c8ca8-ba5a008c-k101010-rc47000-we0e0e0/"><circle cx="183.7" cy="95.3" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/setts/s6/b106w54r10k38y2g22-b5f749c-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/"><circle cx="218.1" cy="96.2" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/setts/s9/b96r20w4r20g34k6w34k6w68-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="164.6" cy="113.5" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/setts/s6/b106w54r10k38y2g22-b1474b4-g006818-k101010-rc8002c-wfcfcfc-ybc8c00/"><circle cx="208.3" cy="97.8" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/setts/s7/y62k36g26r6g26k2ya6-g005030-k101010-rc80000-y88acb8-yae8c000/"><circle cx="193.9" cy="138.4" r="4" fill="#3465a4"><title>Big Sur MacLaren (Personal)</title></circle></a><a href="/setts/s9/b96r20w4r20g34k6w34k6w68-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="161.7" cy="113.1" r="4" fill="#3465a4"><title>Unidentified 18</title></circle></a><a href="/setts/s9/g44b2g4b2g6k16r40b2y11-b00009e-g4d9e8a-k000000-rb24d6d-ydfc29a/"><circle cx="211.2" cy="112.6" r="4" fill="#3465a4"><title>(1) Stewart, modern</title></circle></a><a href="/setts/s6/b74g54r44w2ba15y10-b0000cd-baaa00ff-g008b00-re3170d-wffffff-yffe600/"><circle cx="158.5" cy="117.7" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><circle cx="229.2" cy="122.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b74k24r34ra6r34k2y6-b007fff-k101010-rac7f24-racc1100-yffe303/

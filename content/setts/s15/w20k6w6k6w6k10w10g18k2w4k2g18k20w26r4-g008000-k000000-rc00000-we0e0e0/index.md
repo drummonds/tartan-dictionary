@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacKenzie (MacGregor-Hastie)](/setts/s15/w20k6w6k6w6k10w10g18k2w4k2g18k20w26r4-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.41
+1. [Avalon - Calvert House](/setts/s14/w6k2g30k12g10k6g16k4g10y6w4y8k2w6-g408060-k101010-wf8f8f8-ye8c000/) — ΔT 1.16
+1. [Ferguson Dress Blue (Dance)](/setts/s12/w6k4w36r6w36k46b70k46w36r6w36k4-b2888c4-k000000-r880000-wfcfcfc/) — ΔT 1.31
+1. [Avalon - Washington House](/setts/s14/w6k2r30k12r10k6r16k4r10y6w4y8k2w6-k101010-r888888-wf8f8f8-ye8c000/) — ΔT 1.32
+1. [MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g34b6g34k30w66ba16w66k30g34b6g34b6-b5c8ca8-ba2c2c80-g285800-k101010-we0e0e0/) — ΔT 1.35
+1. [Abergavenny](/setts/s17/w36k41w4wa6k8r24w12wa4r4k6wa4w4k48r4w8k22w18-k101010-ra07c58-we8ccb8-wac0c0c0/) — ΔT 1.35
+1. [Flora MacDonald dancing](/setts/s13/r6g16b10w6g40w6b10w6b10w44b6w16r6-b304080-g003000-rc00000-we0e0e0/) — ΔT 1.40
+1. [Liberty Square](/setts/s12/w24wa4k10wa4k20wa4k30wa4k40wa4g50wa4-g8b7500-k101010-wffffff-wac0c0c0/) — ΔT 1.41
+1. [Auld Lang Syne, Grey (Fashion)](/setts/s12/k8w4k18k6r6w6r6w46k20w4k12w4-k101010-r880000-we0e0e0/) — ΔT 1.46
+1. [Southwick (Name)](/setts/s19/r4k24g4w10g4k4r4k10wa20k4wa8k4wa8k4wa8k20w4k2r4-g006818-k101010-rc80000-wfcfcfc-wac0c0c0/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w20k6w6k6w6k10w10g18k2w4k2g18k20w26r4-g006818-k101010-rc80000-we0e0e0/"><circle cx="170.2" cy="149.1" r="4" fill="#3465a4"><title>MacKenzie (MacGregor-Hastie)</title></circle></a><a href="/setts/s14/w6k2g30k12g10k6g16k4g10y6w4y8k2w6-g408060-k101010-wf8f8f8-ye8c000/"><circle cx="233.6" cy="148.8" r="4" fill="#3465a4"><title>Avalon - Calvert House</title></circle></a><a href="/setts/s12/w6k4w36r6w36k46b70k46w36r6w36k4-b2888c4-k000000-r880000-wfcfcfc/"><circle cx="178.0" cy="139.0" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/setts/s14/w6k2r30k12r10k6r16k4r10y6w4y8k2w6-k101010-r888888-wf8f8f8-ye8c000/"><circle cx="238.0" cy="142.4" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/setts/s12/g34b6g34k30w66ba16w66k30g34b6g34b6-b5c8ca8-ba2c2c80-g285800-k101010-we0e0e0/"><circle cx="110.5" cy="159.2" r="4" fill="#3465a4"><title>MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/w36k41w4wa6k8r24w12wa4r4k6wa4w4k48r4w8k22w18-k101010-ra07c58-we8ccb8-wac0c0c0/"><circle cx="213.5" cy="130.2" r="4" fill="#3465a4"><title>Abergavenny</title></circle></a><a href="/setts/s13/r6g16b10w6g40w6b10w6b10w44b6w16r6-b304080-g003000-rc00000-we0e0e0/"><circle cx="154.6" cy="159.5" r="4" fill="#3465a4"><title>Flora MacDonald dancing</title></circle></a><a href="/setts/s12/w24wa4k10wa4k20wa4k30wa4k40wa4g50wa4-g8b7500-k101010-wffffff-wac0c0c0/"><circle cx="219.8" cy="146.6" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/setts/s12/k8w4k18k6r6w6r6w46k20w4k12w4-k101010-r880000-we0e0e0/"><circle cx="209.2" cy="139.3" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s19/r4k24g4w10g4k4r4k10wa20k4wa8k4wa8k4wa8k20w4k2r4-g006818-k101010-rc80000-wfcfcfc-wac0c0c0/"><circle cx="164.2" cy="121.4" r="4" fill="#3465a4"><title>Southwick (Name)</title></circle></a><circle cx="164.1" cy="148.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/w20k6w6k6w6k10w10g18k2w4k2g18k20w26r4-g008000-k000000-rc00000-we0e0e0/

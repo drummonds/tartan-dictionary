@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/16 W6 Y20 N/44 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brun, Pierre Emmanuel (Personal)](/setts/s4/y80b16k40g22-b2474e8-g00643c-k000000-yf8e38c/) — ΔT 0.82
+1. [Burberry (Genuine)](/setts/s5/k18w18k18y60r6-k101010-rc80000-wf8f4d0-yb8a47c/) — ΔT 0.88
+1. [Delroeux, John Michael Name Tartan Tartan Number: 10654. Earliest known date: 25/06/1985 Designed by Jean Michael Delroeux to show his affinity with Scotland. Colours: red, yellow and blue appear in the Delroeux coat of arms; green is for the landscapes of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b30g60y10r30-b0000cd-g008b00-rff0000-yffe600/) — ΔT 0.97
+1. [(6) Burberry](/setts/s5/k18w18k18y60r6-k000000-rc80000-wf8f4d0-yb8a47c/) — ΔT 1.00
+1. [Louisburg](/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/) — ΔT 1.03
+1. [Ikelman No 2](/setts/s5/g52k20r20y20g6-g808080-k000000-rc00000-yf0c000/) — ΔT 1.09
+1. [Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k24w24k24y84r8-k101010-rc80000-we0e0e0-ya08858/) — ΔT 1.12
+1. [Loch Lomond #3](/setts/s4/g44w28r14y4-g006818-rc80000-wfcfcfc-yd8b000/) — ΔT 1.15
+1. [Delroeux, John Michael (Personal)](/setts/s4/b30g60y10r30-b0000cd-g125d24-rff0000-yffe600/) — ΔT 1.22
+1. [Bonhill Primary School](/setts/s4/r8k50y50w8-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/y80b16k40g22-b2474e8-g00643c-k000000-yf8e38c/"><circle cx="168.0" cy="243.3" r="4" fill="#3465a4"><title>Brun, Pierre Emmanuel (Personal)</title></circle></a><a href="/setts/s5/k18w18k18y60r6-k101010-rc80000-wf8f4d0-yb8a47c/"><circle cx="223.2" cy="197.8" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/setts/s4/b30g60y10r30-b0000cd-g008b00-rff0000-yffe600/"><circle cx="163.1" cy="255.6" r="4" fill="#3465a4"><title>Delroeux, John Michael Name Tartan Tartan Number: 10654. Earliest known date: 25/06/1985 Designed by Jean Michael Delroeux to show his affinity with Scotland. Colours: red, yellow and blue appear in the Delroeux coat of arms; green is for the landscapes of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k18w18k18y60r6-k000000-rc80000-wf8f4d0-yb8a47c/"><circle cx="214.5" cy="196.4" r="4" fill="#3465a4"><title>(6) Burberry</title></circle></a><a href="/setts/s4/r44y20w6b16-b1c0070-r888888-wf8f8f8-ye8c000/"><circle cx="219.5" cy="237.2" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s5/g52k20r20y20g6-g808080-k000000-rc00000-yf0c000/"><circle cx="200.0" cy="217.9" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/setts/s5/k24w24k24y84r8-k101010-rc80000-we0e0e0-ya08858/"><circle cx="244.3" cy="199.8" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g44w28r14y4-g006818-rc80000-wfcfcfc-yd8b000/"><circle cx="214.8" cy="215.8" r="4" fill="#3465a4"><title>Loch Lomond #3</title></circle></a><a href="/setts/s4/b30g60y10r30-b0000cd-g125d24-rff0000-yffe600/"><circle cx="170.5" cy="258.1" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/setts/s4/r8k50y50w8-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="186.0" cy="228.2" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><circle cx="201.1" cy="230.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/r44y20w6k16-k000000-r888888-wf8f8f8-ye8c000/

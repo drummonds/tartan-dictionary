@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 | Y | <code style="background-color:#F0C000;"><span style="color:#F0C000;filter:grayscale(1) invert(1) contrast(100);">#F0C000</span></code> `#F0C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Musselburgh District Tartan Tartan Number: 620. Earliest known date: 1958 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b28w2b6y4b6w2b8ba48r6-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ye8c000/) — ΔT 0.91
+1. [U.S. Merchant Marine Academy (Corpo](/setts/s7/r74y4ra12y4r16b98r6-b2c2c80-r888888-ra901c38-ybc8c00/) — ΔT 1.26
+1. [Gorman Blue (Personal)](/setts/s8/w8b2y4b44ba40w4ba8w4-b5c8ca8-ba3850c8-we0e0e0-ybc8c00/) — ΔT 1.32
+1. [Edinburgh, '86](/setts/s11/b6w2b2w2b4w6b28ba4b4ba45r4-b304080-ba8080d0-rc00000-we0e0e0/) — ΔT 1.33
+1. [Browne (Personal)](/setts/s8/b20ba2b2ba2b2r47ba24w2-b5c5c5c-ba2c2c80-r888888-we0e0e0/) — ΔT 1.36
+1. [Coopers & Lybrand](/setts/s11/b8g8r2ba48b8k4g48r2ba20b8ba4-b2888c4-ba2c2c80-g006818-k101010-rc80000/) — ΔT 1.37
+1. [Blue Ridge Highlands Heritage](/setts/s8/b54ba18w6g12ba66w6bb6y4-b5c8ca8-ba2c2c80-bb680028-g00643c-wa8ace8-ye8c000/) — ΔT 1.38
+1. [Schiehallion (Corporate)](/setts/s11/b28ba8g4ba4ga6ba4b34ba62b2ba2w4-b1870a4-ba202060-g408060-ga006818-wfcfcfc/) — ΔT 1.38
+1. [Bousie (Personal)](/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wf8f8f8/) — ΔT 1.42
+1. [Polkemmet (Corporate)](/setts/s11/k7y3b62r16g5r5g5r5g16b16k4-b2c2c80-g006818-k101010-r888888-ybc8c00/) — ΔT 1.44
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b28w2b6y4b6w2b8ba48r6-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ye8c000/"><circle cx="281.9" cy="123.5" r="4" fill="#3465a4"><title>Musselburgh District Tartan Tartan Number: 620. Earliest known date: 1958 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r74y4ra12y4r16b98r6-b2c2c80-r888888-ra901c38-ybc8c00/"><circle cx="342.8" cy="157.9" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/setts/s8/w8b2y4b44ba40w4ba8w4-b5c8ca8-ba3850c8-we0e0e0-ybc8c00/"><circle cx="293.2" cy="156.4" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s11/b6w2b2w2b4w6b28ba4b4ba45r4-b304080-ba8080d0-rc00000-we0e0e0/"><circle cx="320.2" cy="125.5" r="4" fill="#3465a4"><title>Edinburgh, '86</title></circle></a><a href="/setts/s8/b20ba2b2ba2b2r47ba24w2-b5c5c5c-ba2c2c80-r888888-we0e0e0/"><circle cx="341.1" cy="159.2" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/setts/s11/b8g8r2ba48b8k4g48r2ba20b8ba4-b2888c4-ba2c2c80-g006818-k101010-rc80000/"><circle cx="285.3" cy="136.7" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/setts/s8/b54ba18w6g12ba66w6bb6y4-b5c8ca8-ba2c2c80-bb680028-g00643c-wa8ace8-ye8c000/"><circle cx="258.4" cy="141.5" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s11/b28ba8g4ba4ga6ba4b34ba62b2ba2w4-b1870a4-ba202060-g408060-ga006818-wfcfcfc/"><circle cx="349.8" cy="122.3" r="4" fill="#3465a4"><title>Schiehallion (Corporate)</title></circle></a><a href="/setts/s7/w6b76ba76w2bb6w2r4-b2888c4-ba2c2c80-bb5c8ca8-rc80000-wf8f8f8/"><circle cx="315.9" cy="116.3" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><a href="/setts/s11/k7y3b62r16g5r5g5r5g16b16k4-b2c2c80-g006818-k101010-r888888-ybc8c00/"><circle cx="317.7" cy="130.7" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><circle cx="306.4" cy="135.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b28w2b6y4b6w2b8ba48r6-b5480b0-ba304080-rc00000-we0e0e0-yf0c000/

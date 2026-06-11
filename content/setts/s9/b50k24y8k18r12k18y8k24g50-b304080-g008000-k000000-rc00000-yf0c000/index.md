@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 | Y | <code style="background-color:#F0C000;"><span style="color:#F0C000;filter:grayscale(1) invert(1) contrast(100);">#F0C000</span></code> `#F0C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacCallum, of Berwick](/setts/s9/b20r14b62k50g46k16b14k16y10-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.69
+1. [BlackRock (Asymmetrical)](/setts/s7/w16r8k16ka40kb12ka6kb10-k101010-ka001e00-kb000028-rdc0000-we0e0e0/) — ΔT 0.75
+1. [Maitland](/setts/s9/g3b9g3k4g8y2b2y2r2-b00004c-g004c00-k000000-rc80000-yc8c800/) — ΔT 0.77
+1. [Brodie hunting](/setts/s7/r4b16g16k16y2k16r4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.84
+1. [Hunter](/setts/s10/g16k2g16k16r2b16w2b16r2k16-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.88
+1. [Mandela, Commemorative](/setts/s13/g16y4g4k12g22r4ka24k24r4k12y4k8r6-g30a010-k000000-ka000030-rc00000-yf0c000/) — ΔT 0.92
+1. [Davidson, Double..](/setts/s8/b6r4b16k16g16k6w4k6-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.92
+1. [MacRae, Ancient hunting](/setts/s8/g48k8g12r8g12k38b44w10-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.93
+1. [Black Watch, Plaid of Pipers...](/setts/s13/b24k4r4k4r4k24g22y4g22k24b22k4r4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.93
+1. [MacKean dress](/setts/s9/r6k12g24k6g6k12b18k6w6-b304080-g004010-k000000-rc00000-we0e0e0/) — ΔT 0.97
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b20r14b62k50g46k16b14k16y10-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="116.3" cy="205.4" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s7/w16r8k16ka40kb12ka6kb10-k101010-ka001e00-kb000028-rdc0000-we0e0e0/"><circle cx="128.9" cy="209.1" r="4" fill="#3465a4"><title>BlackRock (Asymmetrical)</title></circle></a><a href="/setts/s9/g3b9g3k4g8y2b2y2r2-b00004c-g004c00-k000000-rc80000-yc8c800/"><circle cx="105.7" cy="220.3" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s7/r4b16g16k16y2k16r4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="135.4" cy="213.4" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s10/g16k2g16k16r2b16w2b16r2k16-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="100.6" cy="194.1" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/setts/s13/g16y4g4k12g22r4ka24k24r4k12y4k8r6-g30a010-k000000-ka000030-rc00000-yf0c000/"><circle cx="89.9" cy="182.9" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><a href="/setts/s8/b6r4b16k16g16k6w4k6-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="79.1" cy="233.7" r="4" fill="#3465a4"><title>Davidson, Double..</title></circle></a><a href="/setts/s8/g48k8g12r8g12k38b44w10-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="115.1" cy="202.5" r="4" fill="#3465a4"><title>MacRae, Ancient hunting</title></circle></a><a href="/setts/s13/b24k4r4k4r4k24g22y4g22k24b22k4r4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="98.7" cy="183.0" r="4" fill="#3465a4"><title>Black Watch, Plaid of Pipers...</title></circle></a><a href="/setts/s9/r6k12g24k6g6k12b18k6w6-b304080-g004010-k000000-rc00000-we0e0e0/"><circle cx="85.9" cy="232.8" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><circle cx="102.0" cy="203.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b50k24y8k18r12k18y8k24g50-b304080-g008000-k000000-rc00000-yf0c000/

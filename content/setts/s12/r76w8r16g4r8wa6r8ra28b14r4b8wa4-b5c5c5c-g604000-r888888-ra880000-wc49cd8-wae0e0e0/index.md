@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Na | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Portree Check](/setts/s12/r76b8r16y4r8w6r8ra28ba14r4ba8w4-b2c2c80-ba5c5c5c-r888888-ra901c38-wfcfcfc-ya08858/) — ΔT 0.30
+1. [Portree, Check](/setts/s12/g76b8g16r4g8w6g8ra28ba14g4ba8w4-b304080-ba505050-g808080-r906030-ra802040-we0e0e0/) — ΔT 0.57
+1. [Diana, hunting Plaid](/setts/s12/r92b6r14g4ra4g4w4g22b12ba4b6ra4-b8080d0-ba000050-g008000-r806050-rac00000-we0e0e0/) — ΔT 1.04
+1. [Dabney Grey (Personal)](/setts/s11/r4y4r2y48ra2b6k6y6ra24y8r2-b5c5c5c-k101010-ra00000-ra888888-ya0a0a0/) — ΔT 1.21
+1. [Toyokawa Check](/setts/s11/b72ba20y4ba10g4ba10y20b10y4b20w4-b5c5c5c-ba680028-g408060-we0e0e0-ya08858/) — ΔT 1.42
+1. [Unidentified #25](/setts/s12/b12g6b6w6g27y81r12y81g27w6b6g6-b1474b4-g604000-rc80000-we0e0e0-ya08858/) — ΔT 1.42
+1. [Sarna](/setts/s13/g8y2r4b4g3b4r42g4ra3g4r4b5ra3-b800080-g008000-r806050-rac00000-yf0c000/) — ΔT 1.43
+1. [Edinburgh Fire (Corporate)](/setts/s7/y8g16r16b84w4b4ra4-b506078-g604000-rc80000-racc4438-we0e0e0-ye8c000/) — ΔT 1.45
+1. [Canuck Place](/setts/s9/w2b4y30b6y52r48y6ra4ya2-b1c1c50-r9c8098-ra901c38-we0e0e0-y889c5c-yabc8c00/) — ΔT 1.45
+1. [Middleton, City of](/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r76b8r16y4r8w6r8ra28ba14r4ba8w4-b2c2c80-ba5c5c5c-r888888-ra901c38-wfcfcfc-ya08858/"><circle cx="359.5" cy="110.2" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/setts/s12/g76b8g16r4g8w6g8ra28ba14g4ba8w4-b304080-ba505050-g808080-r906030-ra802040-we0e0e0/"><circle cx="378.3" cy="120.5" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/r92b6r14g4ra4g4w4g22b12ba4b6ra4-b8080d0-ba000050-g008000-r806050-rac00000-we0e0e0/"><circle cx="395.4" cy="96.3" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s11/r4y4r2y48ra2b6k6y6ra24y8r2-b5c5c5c-k101010-ra00000-ra888888-ya0a0a0/"><circle cx="390.8" cy="124.2" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/setts/s11/b72ba20y4ba10g4ba10y20b10y4b20w4-b5c5c5c-ba680028-g408060-we0e0e0-ya08858/"><circle cx="381.4" cy="151.3" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s12/b12g6b6w6g27y81r12y81g27w6b6g6-b1474b4-g604000-rc80000-we0e0e0-ya08858/"><circle cx="356.1" cy="143.8" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/setts/s13/g8y2r4b4g3b4r42g4ra3g4r4b5ra3-b800080-g008000-r806050-rac00000-yf0c000/"><circle cx="376.0" cy="115.9" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/setts/s7/y8g16r16b84w4b4ra4-b506078-g604000-rc80000-racc4438-we0e0e0-ye8c000/"><circle cx="405.7" cy="126.4" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/setts/s9/w2b4y30b6y52r48y6ra4ya2-b1c1c50-r9c8098-ra901c38-we0e0e0-y889c5c-yabc8c00/"><circle cx="380.6" cy="131.2" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/"><circle cx="432.8" cy="157.7" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><circle cx="366.4" cy="112.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/r76w8r16g4r8wa6r8ra28b14r4b8wa4-b5c5c5c-g604000-r888888-ra880000-wc49cd8-wae0e0e0/

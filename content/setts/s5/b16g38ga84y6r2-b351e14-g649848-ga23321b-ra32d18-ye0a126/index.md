@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "Ka/16 LG38 K84 Y6 R/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g110k34r18k22y4b8-b202060-g006818-k101010-rc8002c-ye8c000/) — ΔT 0.93
+1. [McGuinness, Tam (Personal)](/setts/s5/y4b8g120ba60w2-b2c2c80-ba780078-g006818-we0e0e0-yfcb464/) — ΔT 1.27
+1. [Moran (Name)](/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/) — ΔT 1.31
+1. [Shaw of Tordarroch Green (Htg) (Clan](/setts/s8/b10k2g60ba30r16g60r16ba4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/) — ΔT 1.33
+1. [MacWilliam Hunting](/setts/s6/g4ga88k20r2b32r2-b2c2c80-g604000-ga285800-k101010-rc80000/) — ΔT 1.38
+1. [Herbage Family Tartan Tartan Number: 811. Earliest known date: 1983 Designed by the Scottish Tartans Society for Mr Herbage, Laggan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/g100k32r40ra4r12-g006818-k101010-r888888-rac80000/) — ΔT 1.44
+1. [MacArthur-Fox Htg (Personal)](/setts/s6/r6g60k24g2k32y4-g006818-k101010-r880000-yd09800/) — ΔT 1.46
+1. [Abadia Da Cova (Corporate)](/setts/s6/g60ga2g6r60k2y6-g006818-ga289c18-k101010-r880000-ye8c000/) — ΔT 1.55
+1. [MacDiarmid #2](/setts/s8/k166r32g112k4w10k4g112r10-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.59
+1. [Isle of Raasay](/setts/s5/g120y32r16b4ra6-b3c82af-g005020-r9c68a4-ra98481c-yc4bc68/) — ΔT 1.61
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g110k34r18k22y4b8-b202060-g006818-k101010-rc8002c-ye8c000/"><circle cx="341.8" cy="152.6" r="4" fill="#3465a4"><title>Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/y4b8g120ba60w2-b2c2c80-ba780078-g006818-we0e0e0-yfcb464/"><circle cx="423.8" cy="133.2" r="4" fill="#3465a4"><title>McGuinness, Tam (Personal)</title></circle></a><a href="/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/"><circle cx="367.0" cy="168.2" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/setts/s8/b10k2g60ba30r16g60r16ba4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000/"><circle cx="362.4" cy="157.1" r="4" fill="#3465a4"><title>Shaw of Tordarroch Green (Htg) (Clan</title></circle></a><a href="/setts/s6/g4ga88k20r2b32r2-b2c2c80-g604000-ga285800-k101010-rc80000/"><circle cx="423.7" cy="148.2" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/setts/s5/g100k32r40ra4r12-g006818-k101010-r888888-rac80000/"><circle cx="336.8" cy="195.0" r="4" fill="#3465a4"><title>Herbage Family Tartan Tartan Number: 811. Earliest known date: 1983 Designed by the Scottish Tartans Society for Mr Herbage, Laggan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r6g60k24g2k32y4-g006818-k101010-r880000-yd09800/"><circle cx="344.9" cy="180.9" r="4" fill="#3465a4"><title>MacArthur-Fox Htg (Personal)</title></circle></a><a href="/setts/s6/g60ga2g6r60k2y6-g006818-ga289c18-k101010-r880000-ye8c000/"><circle cx="359.9" cy="145.2" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/setts/s8/k166r32g112k4w10k4g112r10-g005020-k101010-rdc0000-we0e0e0/"><circle cx="354.6" cy="147.6" r="4" fill="#3465a4"><title>MacDiarmid #2</title></circle></a><a href="/setts/s5/g120y32r16b4ra6-b3c82af-g005020-r9c68a4-ra98481c-yc4bc68/"><circle cx="422.6" cy="149.2" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><circle cx="375.0" cy="153.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/b16g38ga84y6r2-b351e14-g649848-ga23321b-ra32d18-ye0a126/

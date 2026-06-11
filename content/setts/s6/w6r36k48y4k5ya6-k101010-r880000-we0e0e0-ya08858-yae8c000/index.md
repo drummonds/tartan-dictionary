@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 DR36 K48 LT4 K5 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tott (Personal))](/setts/s7/k102r42y8r24g16b8r10-b2c2c80-g006818-k101010-rc80000-yc4bc68/) — ΔT 0.51
+1. [Drambuie Dress](/setts/s6/w6g36k48r4k5y6-g604000-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.77
+1. [Totté (from Hofstade de Baerebeeck) (Personal)](/setts/s7/k102r42y8r24g16b8r10-b0000cd-g008b00-k101010-rff0000-yffe600/) — ΔT 0.92
+1. [Papua New Guinea](/setts/s5/g6y10r28k72w6-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.93
+1. [Drambuie](/setts/s6/w6r36k48ra4k5y6-k000000-r800000-ra906030-we0e0e0-yf0c000/) — ΔT 1.01
+1. [Wormeck (2013) Germany](/setts/s5/b8y8r66k60w4-b271b86-k120a01-ra90725-wf7f1e8-yebaa57/) — ΔT 1.08
+1. [Drambuie dress](/setts/s6/w6r36k48ra4k5y6-k000000-r806050-rac00000-we0e0e0-yf0c000/) — ΔT 1.09
+1. [Papua New Guinea Pipes and Drums](/setts/s5/g6y10r26k66w4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.10
+1. [Sreijsener (Name)](/setts/s8/r8ra12k6ra33k72rb6k8w6-k101010-rc8002c-ra980044-rb888888-we0e0e0/) — ΔT 1.26
+1. [Hoffman Texas German](/setts/s7/k46r54b6r10w6k28y12-b0000cd-k1c1714-rca2625-wffffff-yffe700/) — ΔT 1.31
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k102r42y8r24g16b8r10-b2c2c80-g006818-k101010-rc80000-yc4bc68/"><circle cx="266.2" cy="156.6" r="4" fill="#3465a4"><title>Tott (Personal))</title></circle></a><a href="/setts/s6/w6g36k48r4k5y6-g604000-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="264.4" cy="173.2" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/setts/s7/k102r42y8r24g16b8r10-b0000cd-g008b00-k101010-rff0000-yffe600/"><circle cx="244.9" cy="143.6" r="4" fill="#3465a4"><title>Totté (from Hofstade de Baerebeeck) (Personal)</title></circle></a><a href="/setts/s5/g6y10r28k72w6-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="297.7" cy="170.7" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/setts/s6/w6r36k48ra4k5y6-k000000-r800000-ra906030-we0e0e0-yf0c000/"><circle cx="250.7" cy="165.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/setts/s5/b8y8r66k60w4-b271b86-k120a01-ra90725-wf7f1e8-yebaa57/"><circle cx="266.5" cy="164.5" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/setts/s6/w6r36k48ra4k5y6-k000000-r806050-rac00000-we0e0e0-yf0c000/"><circle cx="240.1" cy="164.4" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/setts/s5/g6y10r26k66w4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="306.2" cy="157.0" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/setts/s8/r8ra12k6ra33k72rb6k8w6-k101010-rc8002c-ra980044-rb888888-we0e0e0/"><circle cx="317.3" cy="152.9" r="4" fill="#3465a4"><title>Sreijsener (Name)</title></circle></a><a href="/setts/s7/k46r54b6r10w6k28y12-b0000cd-k1c1714-rca2625-wffffff-yffe700/"><circle cx="206.5" cy="175.4" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><circle cx="264.5" cy="167.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/w6r36k48y4k5ya6-k101010-r880000-we0e0e0-ya08858-yae8c000/

@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/36 Y6 K36 Y/36 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Raeburn](/setts/s4/k36y6k36y36-k000000-yf0c000/) — ΔT 0.94
+1. [Raeburn](/setts/s4/k68y6k68y52-k101010-ye8c000/) — ΔT 1.31
+1. [MacFarlane VS](/setts/s4/k14y12k2y12-k000000-yaaaaaa/) — ΔT 1.37
+1. [MacFarlane VS](/setts/s4/k7y6k1y6-k000000-yaaaaaa/) — ΔT 1.37
+1. [MacFarlane VS](/setts/s4/k7w6k1w6-k000000-wd0d0d0/) — ΔT 1.62
+1. [MacFarlane, Lendrum Black and White](/setts/s4/k28w24k4w24-k000000-we0e0e0/) — ΔT 1.77
+1. [Lauder](/setts/s6/y4k8y4k4y10r2-k000000-rc00000-yf0c000/) — ΔT 1.92
+1. [MacLeod Dress Clan Tartan Tartan Number: 1272. Earliest known date: 1829 See illustration in Bain where red is 4 threads. Sir Thomas Dick Lauder in a letter to Sir Walter Scott in 1829 wrote, MacLeod has got a sketch of this splendid tartan, "three black stryps upon ain yellow fylde," See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k16y4k16y24r4-k101010-rc80000-ye8c000/) — ΔT 1.93
+1. [Special Saffron](/setts/s6/g86y44g21y44g86b10-b2888c4-g003820-ydc943c/) — ΔT 1.94
+1. [Longford County, Crest Range](/setts/s6/w14k12y30k32k16w6-k101010-we0e0e0-ybc8c00/) — ΔT 1.95
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k36y6k36y36-k000000-yf0c000/"><circle cx="315.3" cy="309.4" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/setts/s4/k68y6k68y52-k101010-ye8c000/"><circle cx="393.4" cy="281.1" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/setts/s4/k14y12k2y12-k000000-yaaaaaa/"><circle cx="302.2" cy="296.4" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k7y6k1y6-k000000-yaaaaaa/"><circle cx="302.2" cy="296.4" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k7w6k1w6-k000000-wd0d0d0/"><circle cx="295.4" cy="290.7" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k28w24k4w24-k000000-we0e0e0/"><circle cx="293.2" cy="288.6" r="4" fill="#3465a4"><title>MacFarlane, Lendrum Black and White</title></circle></a><a href="/setts/s6/y4k8y4k4y10r2-k000000-rc00000-yf0c000/"><circle cx="235.1" cy="259.4" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s5/k16y4k16y24r4-k101010-rc80000-ye8c000/"><circle cx="235.9" cy="254.2" r="4" fill="#3465a4"><title>MacLeod Dress Clan Tartan Tartan Number: 1272. Earliest known date: 1829 See illustration in Bain where red is 4 threads. Sir Thomas Dick Lauder in a letter to Sir Walter Scott in 1829 wrote, MacLeod has got a sketch of this splendid tartan, &quot;three black stryps upon ain yellow fylde,&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g86y44g21y44g86b10-b2888c4-g003820-ydc943c/"><circle cx="356.0" cy="257.0" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/setts/s6/w14k12y30k32k16w6-k101010-we0e0e0-ybc8c00/"><circle cx="218.7" cy="263.8" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><circle cx="318.2" cy="306.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/k36y6k36y36-k101010-ye8c000/

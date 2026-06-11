@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/4 LN4 Y54 G28 Y4 DB28 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fraser Yellow](/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 0.07
+1. [Fraser, Yellow](/setts/s7/r4w4y54g28y4b28y4-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 0.45
+1. [Regalia](/setts/s7/g4ga28g28r8ga4y60w4-g003820-ga604000-r888888-wf8f8f8-yd0b87c/) — ΔT 0.83
+1. [Shepherd Piping (Personal)](/setts/s6/k20y8g28ya72g8w8-g604000-k101010-we0e0e0-yf0e490-yad8bc0c/) — ΔT 1.03
+1. [Drummond of Perth Dress (Dance)](/setts/s9/g82y6ga14b6w48g20ga14b14w6-b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00/) — ΔT 1.05
+1. [Shepherd, Derek (Piping)](/setts/s6/k20y8g28w72g8wa8-g603311-k101010-wffec8b-waffffff-yfee885/) — ΔT 1.18
+1. [Hamilton of Brandon (Fashion)](/setts/s6/y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/) — ΔT 1.23
+1. [Nova Scotia, dress](/setts/s9/g6w58g6b6g6b12g26y6r4-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.33
+1. [Uist, Green (Dance)](/setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/) — ΔT 1.36
+1. [MacDuck (Corporate)](/setts/s6/k8r10k4y42g16k4-g006818-k101010-rc80000-ye8c000/) — ΔT 1.37
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="222.0" cy="143.6" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="226.9" cy="144.7" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s7/g4ga28g28r8ga4y60w4-g003820-ga604000-r888888-wf8f8f8-yd0b87c/"><circle cx="208.6" cy="144.8" r="4" fill="#3465a4"><title>Regalia</title></circle></a><a href="/setts/s6/k20y8g28ya72g8w8-g604000-k101010-we0e0e0-yf0e490-yad8bc0c/"><circle cx="207.2" cy="164.7" r="4" fill="#3465a4"><title>Shepherd Piping (Personal)</title></circle></a><a href="/setts/s9/g82y6ga14b6w48g20ga14b14w6-b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00/"><circle cx="209.1" cy="136.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s6/k20y8g28w72g8wa8-g603311-k101010-wffec8b-waffffff-yfee885/"><circle cx="191.9" cy="154.7" r="4" fill="#3465a4"><title>Shepherd, Derek (Piping)</title></circle></a><a href="/setts/s6/y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/"><circle cx="213.3" cy="162.6" r="4" fill="#3465a4"><title>Hamilton of Brandon (Fashion)</title></circle></a><a href="/setts/s9/g6w58g6b6g6b12g26y6r4-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="207.2" cy="121.1" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/"><circle cx="265.2" cy="146.6" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s6/k8r10k4y42g16k4-g006818-k101010-rc80000-ye8c000/"><circle cx="227.4" cy="174.8" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><circle cx="220.9" cy="143.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r4w4y54g28y4b28y4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/

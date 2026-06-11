@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Seattle (District)](/setts/s10/g16w4b8r4g4r4b8w4g56y4-b1c0070-g006818-re87878-wc0c0c0-yd09800/) — ΔT 0.64
+1. [Seattle District Tartan Tartan Number: 2113. Earliest known date: 1990 Emerald green for the Emerald city - Seattle, Aegean blue for the waters around the city, primrose pink for the wild rhododendrons native to the region, white for the snowy mountains and for the golden sunshine of summer. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g56w4b8r4g4r4b8w4g16y4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.74
+1. [Mullikin (2013)](/setts/s8/r10w8b12ba4g86ba4b8r6-b2c2c80-ba202060-g006818-rc80000-wfcfcfc/) — ΔT 0.78
+1. [Scotts Valley](/setts/s9/g80r4y4r4w4g4r4w4b20-b00008c-g004c00-r8c0000-wc8c8c8-yc89800/) — ΔT 0.78
+1. [Bundanoon](/setts/s9/b34r6g110b6g8b6g8y6w10-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 0.86
+1. [Savoy](/setts/s13/g64k32g4k4w4g4w4y4g4k4r4g16k4-g408060-k101010-r888888-wc0c0c0-yd09800/) — ΔT 1.01
+1. [Sarros (Personal) XX](/setts/s8/k4w4b16k8g66r4g32w4-b2c2c80-g006818-k101010-rc8002c-wfcfcfc/) — ΔT 1.04
+1. [Selvon-Bruce (Personal)](/setts/s7/k12g8k12g72r8b8y4-b1c1c50-g288028-k101010-r880000-ybc8c00/) — ΔT 1.06
+1. [Military Medical Memorial (USA)](/setts/s6/b24w12r12g220k40r12-b292e7f-g016819-k101010-rec1a1b-wffffff/) — ΔT 1.07
+1. [Military Medical Memorial (USA)(Corp](/setts/s6/b24w12r12g220k40r12-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g16w4b8r4g4r4b8w4g56y4-b1c0070-g006818-re87878-wc0c0c0-yd09800/"><circle cx="379.8" cy="136.9" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s10/g56w4b8r4g4r4b8w4g16y4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="379.7" cy="135.7" r="4" fill="#3465a4"><title>Seattle District Tartan Tartan Number: 2113. Earliest known date: 1990 Emerald green for the Emerald city - Seattle, Aegean blue for the waters around the city, primrose pink for the wild rhododendrons native to the region, white for the snowy mountains and for the golden sunshine of summer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r10w8b12ba4g86ba4b8r6-b2c2c80-ba202060-g006818-rc80000-wfcfcfc/"><circle cx="363.5" cy="119.5" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/setts/s9/g80r4y4r4w4g4r4w4b20-b00008c-g004c00-r8c0000-wc8c8c8-yc89800/"><circle cx="398.9" cy="119.6" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/setts/s9/b34r6g110b6g8b6g8y6w10-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="389.3" cy="128.4" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/setts/s13/g64k32g4k4w4g4w4y4g4k4r4g16k4-g408060-k101010-r888888-wc0c0c0-yd09800/"><circle cx="340.0" cy="112.2" r="4" fill="#3465a4"><title>Savoy</title></circle></a><a href="/setts/s8/k4w4b16k8g66r4g32w4-b2c2c80-g006818-k101010-rc8002c-wfcfcfc/"><circle cx="403.8" cy="153.7" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/setts/s7/k12g8k12g72r8b8y4-b1c1c50-g288028-k101010-r880000-ybc8c00/"><circle cx="376.3" cy="152.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s6/b24w12r12g220k40r12-b292e7f-g016819-k101010-rec1a1b-wffffff/"><circle cx="408.7" cy="148.1" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s6/b24w12r12g220k40r12-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="419.5" cy="153.3" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)(Corp</title></circle></a><circle cx="382.1" cy="125.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b34r6g110b6g8b6g8y6w10-b2c2c80-g006818-rc80000-wfcfcfc-ye8c000/

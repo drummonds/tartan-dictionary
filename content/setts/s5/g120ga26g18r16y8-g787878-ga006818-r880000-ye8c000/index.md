@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "N/120 G26 N18 DR16 Y/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/r120g26r18ra16y8-g245024-r8c8c8c-ra701820-yc8a438/) — ΔT 0.80
+1. [Lloyd of Wales](/setts/s5/r40ra2r20g19b2-b202060-g006818-r888888-rac80000/) — ΔT 1.00
+1. [St. Giles Cathedral (Corporate)](/setts/s6/b8ba8w4ba72w8r8-b202060-ba5c5c5c-r880000-wc0c0c0/) — ΔT 1.52
+1. [Johore (District)](/setts/s5/r114w10g40r10y20-g006818-r888888-we0e0e0-yd09800/) — ΔT 1.57
+1. [Auchairne Grey](/setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/) — ΔT 1.66
+1. [Auchairne grey](/setts/s6/r26g6r8g112b8g8-b505050-g808080-rc00000/) — ΔT 1.68
+1. [Norsemen (Corporate)](/setts/s6/b130k4b8y4b20r48-b506880-k101010-r880000-ya0a0a0/) — ΔT 1.74
+1. [Turnberry](/setts/s9/b28y6b4r16b10r4k4b50w4-b5c5c5c-k101010-r888888-wc0c0c0-y48a4c0/) — ΔT 1.76
+1. [Reid (1939)](/setts/s6/g80r16g8w4g8y10-g8c7038-rc80000-we0e0e0-ye8c000/) — ΔT 1.76
+1. [Jahore](/setts/s5/g57w5ga20g5y10-g808080-ga008000-we0e0e0-yf0c000/) — ΔT 1.79
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r120g26r18ra16y8-g245024-r8c8c8c-ra701820-yc8a438/"><circle cx="506.7" cy="208.5" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r40ra2r20g19b2-b202060-g006818-r888888-rac80000/"><circle cx="512.3" cy="227.4" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/setts/s6/b8ba8w4ba72w8r8-b202060-ba5c5c5c-r880000-wc0c0c0/"><circle cx="520.6" cy="181.1" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/setts/s5/r114w10g40r10y20-g006818-r888888-we0e0e0-yd09800/"><circle cx="420.7" cy="223.8" r="4" fill="#3465a4"><title>Johore (District)</title></circle></a><a href="/setts/s6/r26ra6r8ra112b8ra8-b5c5c5c-rc80000-ra888888/"><circle cx="603.9" cy="206.9" r="4" fill="#3465a4"><title>Auchairne Grey</title></circle></a><a href="/setts/s6/r26g6r8g112b8g8-b505050-g808080-rc00000/"><circle cx="609.8" cy="210.8" r="4" fill="#3465a4"><title>Auchairne grey</title></circle></a><a href="/setts/s6/b130k4b8y4b20r48-b506880-k101010-r880000-ya0a0a0/"><circle cx="578.1" cy="179.7" r="4" fill="#3465a4"><title>Norsemen (Corporate)</title></circle></a><a href="/setts/s9/b28y6b4r16b10r4k4b50w4-b5c5c5c-k101010-r888888-wc0c0c0-y48a4c0/"><circle cx="499.8" cy="199.7" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/setts/s6/g80r16g8w4g8y10-g8c7038-rc80000-we0e0e0-ye8c000/"><circle cx="566.8" cy="183.5" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s5/g57w5ga20g5y10-g808080-ga008000-we0e0e0-yf0c000/"><circle cx="409.3" cy="219.0" r="4" fill="#3465a4"><title>Jahore</title></circle></a><circle cx="527.3" cy="219.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/g120ga26g18r16y8-g787878-ga006818-r880000-ye8c000/

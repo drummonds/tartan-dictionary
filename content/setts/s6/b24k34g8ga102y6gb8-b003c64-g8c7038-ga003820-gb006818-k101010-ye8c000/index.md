@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/24 K34 LT8 DG102 Y6 G/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glencross (Tynron) (Personal)](/setts/s6/b6g26ba26y4ga68w6-b680018-ba084555-g3b522f-ga052f14-wddd5af-yc58310/) — ΔT 0.85
+1. [Unidentified, Toy Bear](/setts/s8/g94y4g10y4g8k30b38r4-b141e46-g003c14-k101010-rdc0000-ye8c000/) — ΔT 1.30
+1. [Dobson (Palm Bay) (Personal)](/setts/s6/g90y6b12ba30k24ga30-b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126/) — ΔT 1.36
+1. [Green Swamp Youth Campers](/setts/s6/k16r4k26y4g96b12-b2c2c80-g003820-k101010-rc80000-ye8c000/) — ΔT 1.37
+1. [Waterford, County](/setts/s6/g84y4ga32b14ba32r10-b202060-ba441800-g003820-ga5c6428-rc80000-yd09800/) — ΔT 1.40
+1. [Telfer Green (Name)](/setts/s8/g14y4g10ga74b12r32b10ba4-b1c1c50-ba1870a4-g006818-ga004c2c-r880000-ybc8c00/) — ΔT 1.44
+1. [Zorra Caledonian Society (Corporate](/setts/s10/g6w4g78k6b6k6g6k40ga20r4-b5c8ca8-g003820-ga00643c-k101010-rc80000-wfcfcfc/) — ΔT 1.46
+1. [Telfer Green](/setts/s8/g14y4g10ga74b12r32b10ba4-b1c1c50-ba3850c8-g006818-ga104c20-r880000-yf09400/) — ΔT 1.50
+1. [Bressuire](/setts/s7/b4g16ga4g12b16ba60w4-b680b2a-ba283a48-g062e14-ga8e7c34-wffffff/) — ΔT 1.51
+1. [Java Saint Andrew Society Hunting](/setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/) — ΔT 1.58
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b6g26ba26y4ga68w6-b680018-ba084555-g3b522f-ga052f14-wddd5af-yc58310/"><circle cx="297.5" cy="185.0" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/setts/s8/g94y4g10y4g8k30b38r4-b141e46-g003c14-k101010-rdc0000-ye8c000/"><circle cx="387.2" cy="164.2" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/setts/s6/g90y6b12ba30k24ga30-b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126/"><circle cx="261.3" cy="198.8" r="4" fill="#3465a4"><title>Dobson (Palm Bay) (Personal)</title></circle></a><a href="/setts/s6/k16r4k26y4g96b12-b2c2c80-g003820-k101010-rc80000-ye8c000/"><circle cx="434.0" cy="183.8" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/setts/s6/g84y4ga32b14ba32r10-b202060-ba441800-g003820-ga5c6428-rc80000-yd09800/"><circle cx="297.9" cy="183.0" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/setts/s8/g14y4g10ga74b12r32b10ba4-b1c1c50-ba1870a4-g006818-ga004c2c-r880000-ybc8c00/"><circle cx="289.2" cy="160.3" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/setts/s10/g6w4g78k6b6k6g6k40ga20r4-b5c8ca8-g003820-ga00643c-k101010-rc80000-wfcfcfc/"><circle cx="311.3" cy="134.4" r="4" fill="#3465a4"><title>Zorra Caledonian Society (Corporate</title></circle></a><a href="/setts/s8/g14y4g10ga74b12r32b10ba4-b1c1c50-ba3850c8-g006818-ga104c20-r880000-yf09400/"><circle cx="280.2" cy="155.4" r="4" fill="#3465a4"><title>Telfer Green</title></circle></a><a href="/setts/s7/b4g16ga4g12b16ba60w4-b680b2a-ba283a48-g062e14-ga8e7c34-wffffff/"><circle cx="334.5" cy="186.2" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/"><circle cx="349.2" cy="172.9" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><circle cx="346.7" cy="182.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b24k34g8ga102y6gb8-b003c64-g8c7038-ga003820-gb006818-k101010-ye8c000/

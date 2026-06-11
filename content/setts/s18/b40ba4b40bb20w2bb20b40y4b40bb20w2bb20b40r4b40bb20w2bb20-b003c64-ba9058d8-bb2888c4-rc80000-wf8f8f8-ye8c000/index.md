@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Vilario (Personal)](/setts/s18/b20ba40bb4ba40b20w2b20ba40r4ba40b20w2b20ba40y4ba40b20w2-b2888c4-ba003c64-bb9058d8-rc80000-wf8f8f8-ye8c000/) — ΔT 0.00
+1. [Cambridge](/setts/s15/b73k4ba6k4b73g73r4g73b73k4ba4k4b73g73y4-b2c2c80-ba2888c4-g006818-k101010-rc80000-ye8c000/) — ΔT 1.63
+1. [Pounds](/setts/s16/b42k6b30k8r12k6b4ra6b2y4b2ba6b36k4b4k4-b3c6488-ba880078-k101010-r888888-ra8c0020-yc8a438/) — ΔT 1.73
+1. [Pounds Name Tartan Tartan Number: 10070. Earliest known date: 5th August 2009 For anyone of the name. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/b42k6b30k8r12k6b4ra6b2y4b2ba6b36k4b4k4-b406080-ba780078-k101010-r888888-ra880000-ybc8c00/) — ΔT 1.85
+1. [Quigley of Knockcroghery (Pers)](/setts/s12/b50w4k4b30y4b2y4b30k4w4g32r2-b2c2c80-g00643c-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 1.89
+1. [MacKerrell](/setts/s12/b68ba120y6ba120b68w8b68ba120r6ba120b68w8-b5480b0-ba304080-rc00000-we0e0e0-yf0c000/) — ΔT 1.93
+1. [Matchpoint Hunting](/setts/s15/b6y2g24b4g8b6g6b8g3b10ba14b4r3b34w4-b2c2c80-ba5c5c5c-g006818-rc80000-wc0c0c0-ye8c000/) — ΔT 1.94
+1. [Fife (Mann)](/setts/s12/b8w4b48y12b28g8y4b8k4ga16w4b8-b1474b4-g604000-ga006818-k101010-wfcfcfc-ybc8c00/) — ΔT 1.97
+1. [Cian of Ely (Clan)](/setts/s11/b76ba4g4b40ba16y36bb16b36g4ba4ya8-b3874c4-ba2c2c80-bb900090-g789484-yc4b48c-yac49400/) — ΔT 1.99
+1. [Dublin Lie-ins (Corporate)](/setts/s11/b16k6b52k22ba6b16r8b16ba6k4w6-b003c64-ba2888c4-k101010-r901c38-we0e0e0/) — ΔT 2.00
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/b20ba40bb4ba40b20w2b20ba40r4ba40b20w2b20ba40y4ba40b20w2-b2888c4-ba003c64-bb9058d8-rc80000-wf8f8f8-ye8c000/"><circle cx="339.9" cy="145.2" r="4" fill="#3465a4"><title>Vilario (Personal)</title></circle></a><a href="/setts/s15/b73k4ba6k4b73g73r4g73b73k4ba4k4b73g73y4-b2c2c80-ba2888c4-g006818-k101010-rc80000-ye8c000/"><circle cx="312.7" cy="138.2" r="4" fill="#3465a4"><title>Cambridge</title></circle></a><a href="/setts/s16/b42k6b30k8r12k6b4ra6b2y4b2ba6b36k4b4k4-b3c6488-ba880078-k101010-r888888-ra8c0020-yc8a438/"><circle cx="396.6" cy="114.0" r="4" fill="#3465a4"><title>Pounds</title></circle></a><a href="/setts/s16/b42k6b30k8r12k6b4ra6b2y4b2ba6b36k4b4k4-b406080-ba780078-k101010-r888888-ra880000-ybc8c00/"><circle cx="404.2" cy="117.0" r="4" fill="#3465a4"><title>Pounds Name Tartan Tartan Number: 10070. Earliest known date: 5th August 2009 For anyone of the name. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/b50w4k4b30y4b2y4b30k4w4g32r2-b2c2c80-g00643c-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="370.9" cy="112.8" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/setts/s12/b68ba120y6ba120b68w8b68ba120r6ba120b68w8-b5480b0-ba304080-rc00000-we0e0e0-yf0c000/"><circle cx="396.8" cy="190.7" r="4" fill="#3465a4"><title>MacKerrell</title></circle></a><a href="/setts/s15/b6y2g24b4g8b6g6b8g3b10ba14b4r3b34w4-b2c2c80-ba5c5c5c-g006818-rc80000-wc0c0c0-ye8c000/"><circle cx="277.3" cy="133.0" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/setts/s12/b8w4b48y12b28g8y4b8k4ga16w4b8-b1474b4-g604000-ga006818-k101010-wfcfcfc-ybc8c00/"><circle cx="322.4" cy="143.3" r="4" fill="#3465a4"><title>Fife (Mann)</title></circle></a><a href="/setts/s11/b76ba4g4b40ba16y36bb16b36g4ba4ya8-b3874c4-ba2c2c80-bb900090-g789484-yc4b48c-yac49400/"><circle cx="339.6" cy="135.4" r="4" fill="#3465a4"><title>Cian of Ely (Clan)</title></circle></a><a href="/setts/s11/b16k6b52k22ba6b16r8b16ba6k4w6-b003c64-ba2888c4-k101010-r901c38-we0e0e0/"><circle cx="346.9" cy="177.4" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><circle cx="339.9" cy="145.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s18/b40ba4b40bb20w2bb20b40y4b40bb20w2bb20b40r4b40bb20w2bb20-b003c64-ba9058d8-bb2888c4-rc80000-wf8f8f8-ye8c000/

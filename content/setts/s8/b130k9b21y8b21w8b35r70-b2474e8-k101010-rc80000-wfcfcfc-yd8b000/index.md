@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/130 K9 B21 Y8 B21 W8 B35 R/70 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Jouy (Personal)](/setts/s13/b10w10b10w10b30w2r4w2b42y4b10k4y8-b3850c8-k101010-rb84c00-we8ccb8-yfccc00/) — ΔT 1.19
+1. [Carlisle Family (Name)](/setts/s7/b132y24r12y24k12y60b128-b3474fc-k000000-r8c0000-yc88c00/) — ΔT 1.32
+1. [Edinburgh Festival](/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yfca098/) — ΔT 1.59
+1. [Edinburgh Festival(Corporate)](/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yec9898/) — ΔT 1.60
+1. [Wheadon (Name)](/setts/s6/b80g14y6g14b30r10-b34349c-g008c20-rc80000-ye8c000/) — ΔT 1.63
+1. [Gonzaga University's True Blue and W](/setts/s7/w12b4w6b4g4b40r2-b2c2c80-g006818-rc80000-wfcfcfc/) — ΔT 1.64
+1. [Fujisankei Serene (Corporate)](/setts/s9/r4w24b16w4b64ba4b16ba24w4-b2c2c80-ba5c5c5c-r888888-wc0c0c0/) — ΔT 1.73
+1. [Mortell (Personal)](/setts/s10/b40ba4w10r4b20ba10b40ba4w10r10-b2c2c80-ba1870a4-rc80000-we0e0e0/) — ΔT 1.74
+1. [Starr](/setts/s7/w4b80wa12ba12b16w16wa4-b1474b4-ba2c2c80-w98c8e8-waf8f8f8/) — ΔT 1.75
+1. [Tokyo Bluebells (Corporate)](/setts/s8/b72r4b4r4b4k28b52w8-b1474b4-k101010-rc80000-we0e0e0/) — ΔT 1.76
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b10w10b10w10b30w2r4w2b42y4b10k4y8-b3850c8-k101010-rb84c00-we8ccb8-yfccc00/"><circle cx="369.5" cy="118.1" r="4" fill="#3465a4"><title>Jouy (Personal)</title></circle></a><a href="/setts/s7/b132y24r12y24k12y60b128-b3474fc-k000000-r8c0000-yc88c00/"><circle cx="359.2" cy="194.0" r="4" fill="#3465a4"><title>Carlisle Family (Name)</title></circle></a><a href="/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yfca098/"><circle cx="335.4" cy="126.8" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><a href="/setts/s8/b92ba6y6ba6y8ba24w6k6-b1474b4-ba64008c-k000000-wfcfcfc-yec9898/"><circle cx="338.3" cy="128.3" r="4" fill="#3465a4"><title>Edinburgh Festival(Corporate)</title></circle></a><a href="/setts/s6/b80g14y6g14b30r10-b34349c-g008c20-rc80000-ye8c000/"><circle cx="426.3" cy="199.7" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/setts/s7/w12b4w6b4g4b40r2-b2c2c80-g006818-rc80000-wfcfcfc/"><circle cx="377.9" cy="140.3" r="4" fill="#3465a4"><title>Gonzaga University's True Blue and W</title></circle></a><a href="/setts/s9/r4w24b16w4b64ba4b16ba24w4-b2c2c80-ba5c5c5c-r888888-wc0c0c0/"><circle cx="341.6" cy="165.8" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s10/b40ba4w10r4b20ba10b40ba4w10r10-b2c2c80-ba1870a4-rc80000-we0e0e0/"><circle cx="335.5" cy="185.6" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s7/w4b80wa12ba12b16w16wa4-b1474b4-ba2c2c80-w98c8e8-waf8f8f8/"><circle cx="400.5" cy="159.6" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/setts/s8/b72r4b4r4b4k28b52w8-b1474b4-k101010-rc80000-we0e0e0/"><circle cx="458.9" cy="168.5" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><circle cx="384.8" cy="147.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b130k9b21y8b21w8b35r70-b2474e8-k101010-rc80000-wfcfcfc-yd8b000/

@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/4 R32 K32 DY/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Connel Clan Tartan Tartan Number: 1854. Earliest known date: c. 1890 Whether the Wallace, which is known to date from at least 1842, and the Connel tartan are related is uncertain, although the close similarity leads one to suspect that the later 'Connel' is based on the Wallace. The Connels and MacConnels are both claimed as septs of Clan Donald. (P.E. MacDonald) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/w2r16k16y2-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.61
+1. [Connel (Clan)](/setts/s4/w4r32k32y4-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 0.70
+1. [Bonhill Primary School](/setts/s4/r8k50ra50w8-k101010-rc80000-rab84c00-wffffff/) — ΔT 0.95
+1. [Connel](/setts/s4/w2r16k16y2-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.07
+1. [Wallace](/setts/s4/k6r48k48y6-k101010-rc80000-ye8c000/) — ΔT 1.09
+1. [Wallace (Clan)](/setts/s4/k4r32k32y4-k101010-rc80000-ye8c000/) — ΔT 1.09
+1. [Cetoloni (Personal)](/setts/s6/b4r48k24y4k24b4-b2c2c80-k101010-rc80000-ye8c000/) — ΔT 1.10
+1. [Masai Shuka 01 (Artefact)](/setts/s4/w4k40r40w4-k101010-rc80000-wf8f8f8/) — ΔT 1.16
+1. [Templar Grand Priory USA](/setts/s4/b6k64r54w4-b2c2c80-k101010-rc80000-we0e0e0/) — ΔT 1.22
+1. [Skinner](/setts/s6/r32k32y4k32r32b4-b2c2c80-k101010-rc80000-yd09800/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/w2r16k16y2-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="243.2" cy="222.1" r="4" fill="#3465a4"><title>Connel Clan Tartan Tartan Number: 1854. Earliest known date: c. 1890 Whether the Wallace, which is known to date from at least 1842, and the Connel tartan are related is uncertain, although the close similarity leads one to suspect that the later 'Connel' is based on the Wallace. The Connels and MacConnels are both claimed as septs of Clan Donald. (P.E. MacDonald) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/w4r32k32y4-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="240.3" cy="220.7" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/setts/s4/r8k50ra50w8-k101010-rc80000-rab84c00-wffffff/"><circle cx="215.1" cy="237.4" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/setts/s4/w2r16k16y2-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="231.6" cy="221.3" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/setts/s4/k6r48k48y6-k101010-rc80000-ye8c000/"><circle cx="307.2" cy="245.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s4/k4r32k32y4-k101010-rc80000-ye8c000/"><circle cx="307.2" cy="245.1" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/setts/s6/b4r48k24y4k24b4-b2c2c80-k101010-rc80000-ye8c000/"><circle cx="272.8" cy="188.6" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s4/w4k40r40w4-k101010-rc80000-wf8f8f8/"><circle cx="279.5" cy="225.3" r="4" fill="#3465a4"><title>Masai Shuka 01 (Artefact)</title></circle></a><a href="/setts/s4/b6k64r54w4-b2c2c80-k101010-rc80000-we0e0e0/"><circle cx="315.5" cy="200.9" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/setts/s6/r32k32y4k32r32b4-b2c2c80-k101010-rc80000-yd09800/"><circle cx="259.8" cy="235.3" r="4" fill="#3465a4"><title>Skinner</title></circle></a><circle cx="259.1" cy="230.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s4/b4r32k32y4-b2c2c80-k101010-rc80000-yd09800/

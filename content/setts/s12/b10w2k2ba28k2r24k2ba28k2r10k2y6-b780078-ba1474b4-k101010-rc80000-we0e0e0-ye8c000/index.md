@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Yukon](/setts/s10/b8ba32y2ba2y2ba10y8g8w8r8-b800080-ba304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 0.88
+1. [Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b8ba32y2ba2y2ba10y8g8w8r8-b780078-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.95
+1. [Selkirk High (Corporate)](/setts/s10/w6r36k36y2ra4b4ra4y2r36b4-b1474b4-k101010-r9c68a4-rac80000-wf8f8f8-ye8c000/) — ΔT 1.02
+1. [Sydney Academy](/setts/s14/b62k8b8k8b8k8b12w10k8r6ba38r6b8ra6-b5c5c5c-ba780078-k101010-rb84c00-rac80000-wfcfcfc/) — ΔT 1.03
+1. [Yukon](/setts/s10/b8ba40y2ba4y2ba8y8g8w8r8-b800080-ba304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.06
+1. [Asman Hunting (Name)](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/) — ΔT 1.07
+1. [Tasmania (District)](/setts/s11/r10w4b48y4b4y4b12y16r12y16ya8-b2c2c80-r901c38-wf4c4c4-ya0a0a0-yac4bc68/) — ΔT 1.09
+1. [Hogeboom (Toronto) (Personal)](/setts/s9/g8ga6g18b28y16b4r70w4r6-b0000ff-g417f86-ga5c6428-rc82828-wc49cd8-yf4b22a/) — ΔT 1.10
+1. [Clare County Crest (Fashion)](/setts/s15/b62y3k3r15b18w3y28ra12k3ra5y5ra5b6k12w8-b2c2c80-k101010-rc8002c-ra888888-we0e0e0-ybc8c00/) — ΔT 1.11
+1. [Wisconsin in Scotland (Corporate)](/setts/s15/w8b88y8r16ra8r16rb16w8rb16r16ra8r16y8b88y8-b2c2c80-r901c38-ra888888-rbc80000-we0e0e0-ye8c000/) — ΔT 1.11
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b8ba32y2ba2y2ba10y8g8w8r8-b800080-ba304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="198.3" cy="117.5" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s10/b8ba32y2ba2y2ba10y8g8w8r8-b780078-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="194.7" cy="116.4" r="4" fill="#3465a4"><title>Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w6r36k36y2ra4b4ra4y2r36b4-b1474b4-k101010-r9c68a4-rac80000-wf8f8f8-ye8c000/"><circle cx="257.7" cy="102.3" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/setts/s14/b62k8b8k8b8k8b12w10k8r6ba38r6b8ra6-b5c5c5c-ba780078-k101010-rb84c00-rac80000-wfcfcfc/"><circle cx="225.5" cy="120.9" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/setts/s10/b8ba40y2ba4y2ba8y8g8w8r8-b800080-ba304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="244.9" cy="102.4" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/"><circle cx="152.2" cy="129.3" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/setts/s11/r10w4b48y4b4y4b12y16r12y16ya8-b2c2c80-r901c38-wf4c4c4-ya0a0a0-yac4bc68/"><circle cx="219.1" cy="144.9" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/setts/s9/g8ga6g18b28y16b4r70w4r6-b0000ff-g417f86-ga5c6428-rc82828-wc49cd8-yf4b22a/"><circle cx="224.2" cy="102.1" r="4" fill="#3465a4"><title>Hogeboom (Toronto) (Personal)</title></circle></a><a href="/setts/s15/b62y3k3r15b18w3y28ra12k3ra5y5ra5b6k12w8-b2c2c80-k101010-rc8002c-ra888888-we0e0e0-ybc8c00/"><circle cx="198.4" cy="77.9" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/setts/s15/w8b88y8r16ra8r16rb16w8rb16r16ra8r16y8b88y8-b2c2c80-r901c38-ra888888-rbc80000-we0e0e0-ye8c000/"><circle cx="239.9" cy="103.8" r="4" fill="#3465a4"><title>Wisconsin in Scotland (Corporate)</title></circle></a><circle cx="213.8" cy="112.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/b10w2k2ba28k2r24k2ba28k2r10k2y6-b780078-ba1474b4-k101010-rc80000-we0e0e0-ye8c000/

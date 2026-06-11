@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E8E8E8;"><span style="color:#E8E8E8;filter:grayscale(1) invert(1) contrast(100);">#E8E8E8</span></code> `#E8E8E8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.04 |
 | N | <code style="background-color:#A4A8A8;"><span style="color:#A4A8A8;filter:grayscale(1) invert(1) contrast(100);">#A4A8A8</span></code> `#A4A8A8` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wcwm 9275-1510-1](/setts/s10/b120y4b20k18w4k4r4k4g56y6-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/) — ΔT 1.05
+1. [Wcwm 1105](/setts/s12/b84r3k16y4k4w4k4g20b8k4b8w4-b00008c-g004c00-k000000-r8c0000-wc8c8c8-yc89800/) — ΔT 1.14
+1. [Astrobiology](/setts/s15/k46b2g2r6b4r2b24y2k2w2k12b8g4k4g6-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/) — ΔT 1.14
+1. [Northfield Academy](/setts/s15/r4b2ba4b4ra2ba24b4ra2rb20b56ba2b6ba4b6w2-b14283c-ba2474e8-r888888-raff0000-rb901c38-wffffff/) — ΔT 1.15
+1. [Royal Navy](/setts/s12/b4ba8b3ba2b64bb24r4bc3bb4bc3w8r4-b141e46-ba5a008c-bb3c82af-bc000064-rdc0000-we0e0e0/) — ΔT 1.16
+1. [Dama Weekend](/setts/s11/k84b4k4b8g8y4g12ka18g4ka4r4-b2f4f4f-g777733-k000033-ka101010-rff0000-ye6b426/) — ΔT 1.17
+1. [Wcwm 1571](/setts/s13/b128r6k6w4b6r56g52b6r6k6y4b6g32-b00008c-g004c00-k000000-r8c0000-wc8c8c8-yc89800/) — ΔT 1.18
+1. [Crombie, Harry (Personal)](/setts/s14/b10g2ba60y4ba8y6ba6y8ba4y10ba4bb18ba2w4-b64008c-ba141e46-bb0596fa-g146400-wf8f8f8-y48a4c0/) — ΔT 1.21
+1. [MacBeth](/setts/s12/b72y8k12ya2k2ya2k2g16r12k2r6ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.21
+1. [MacBeth](/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b120y4b20k18w4k4r4k4g56y6-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/"><circle cx="342.8" cy="93.0" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/setts/s12/b84r3k16y4k4w4k4g20b8k4b8w4-b00008c-g004c00-k000000-r8c0000-wc8c8c8-yc89800/"><circle cx="336.4" cy="78.5" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/setts/s15/k46b2g2r6b4r2b24y2k2w2k12b8g4k4g6-b1c0070-g00643c-k101010-rff0000-wffffff-yffff00/"><circle cx="274.3" cy="84.8" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/setts/s15/r4b2ba4b4ra2ba24b4ra2rb20b56ba2b6ba4b6w2-b14283c-ba2474e8-r888888-raff0000-rb901c38-wffffff/"><circle cx="309.3" cy="70.1" r="4" fill="#3465a4"><title>Northfield Academy</title></circle></a><a href="/setts/s12/b4ba8b3ba2b64bb24r4bc3bb4bc3w8r4-b141e46-ba5a008c-bb3c82af-bc000064-rdc0000-we0e0e0/"><circle cx="299.2" cy="66.8" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/setts/s11/k84b4k4b8g8y4g12ka18g4ka4r4-b2f4f4f-g777733-k000033-ka101010-rff0000-ye6b426/"><circle cx="314.0" cy="94.0" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/setts/s13/b128r6k6w4b6r56g52b6r6k6y4b6g32-b00008c-g004c00-k000000-r8c0000-wc8c8c8-yc89800/"><circle cx="265.8" cy="76.9" r="4" fill="#3465a4"><title>Wcwm 1571</title></circle></a><a href="/setts/s14/b10g2ba60y4ba8y6ba6y8ba4y10ba4bb18ba2w4-b64008c-ba141e46-bb0596fa-g146400-wf8f8f8-y48a4c0/"><circle cx="297.8" cy="71.0" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/setts/s12/b72y8k12ya2k2ya2k2g16r12k2r6ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="283.1" cy="60.1" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="283.1" cy="60.1" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><circle cx="301.8" cy="76.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s15/y4b2ba4b4k2ba24b4k2k20b56ba2b6ba4b6w2-b101448-ba0070a4-k000000-we8e8e8-ya4a8a8/

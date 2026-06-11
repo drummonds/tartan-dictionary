@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DBa/8 G36 DBa28 P4 DBa6 P4 DBa/40 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [City of Kincardine](/setts/s6/g8b72y12g32b32g6-b202060-g006818-y48a4c0/) — ΔT 1.20
+1. [Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b4k12b4k12b32r4-b2c2c80-k101010-rc80000/) — ΔT 1.26
+1. [Gallaecia - Galicia National](/setts/s5/b48ba26b8ba8w4-b141e46-ba07648c-we0e0e0/) — ΔT 1.35
+1. [Sligo, County](/setts/s6/b100ba8b24ba46y8ba8-b303070-ba441800-yd8b000/) — ΔT 1.41
+1. [Open Championship, The](/setts/s5/g4b8ba20b44y4-b141e46-ba2c4084-g005020-ye8c000/) — ΔT 1.42
+1. [Oban](/setts/s8/b24k40b4k4b4k40ba40k24-b3850c8-ba2c2c80-k101010/) — ΔT 1.50
+1. [Largan (?)](/setts/s6/b8k39b8k39b87r6-b2c2c80-k101010-rc80000/) — ΔT 1.51
+1. [Hepburn](/setts/s6/b52ba4b12ba24y4ba4-b304080-ba8080d0-yf0c000/) — ΔT 1.54
+1. [Scottish Nuclear](/setts/s6/b36k16w4k16b36r4-b2c2c80-k101010-rc80000-wc0c0c0/) — ΔT 1.55
+1. [Orlando, City of (District)](/setts/s9/b48y4g64b4g4b56g12b56r8-b2c2c80-g006818-rc80000-yfccc00/) — ΔT 1.57
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g8b72y12g32b32g6-b202060-g006818-y48a4c0/"><circle cx="408.7" cy="245.0" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/setts/s6/b4k12b4k12b32r4-b2c2c80-k101010-rc80000/"><circle cx="402.4" cy="265.7" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/b48ba26b8ba8w4-b141e46-ba07648c-we0e0e0/"><circle cx="395.2" cy="249.4" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/setts/s6/b100ba8b24ba46y8ba8-b303070-ba441800-yd8b000/"><circle cx="470.8" cy="241.3" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><a href="/setts/s5/g4b8ba20b44y4-b141e46-ba2c4084-g005020-ye8c000/"><circle cx="421.9" cy="242.3" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/setts/s8/b24k40b4k4b4k40ba40k24-b3850c8-ba2c2c80-k101010/"><circle cx="365.4" cy="257.9" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/setts/s6/b8k39b8k39b87r6-b2c2c80-k101010-rc80000/"><circle cx="427.2" cy="247.4" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/setts/s6/b52ba4b12ba24y4ba4-b304080-ba8080d0-yf0c000/"><circle cx="442.5" cy="223.7" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/setts/s6/b36k16w4k16b36r4-b2c2c80-k101010-rc80000-wc0c0c0/"><circle cx="380.6" cy="252.6" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/setts/s9/b48y4g64b4g4b56g12b56r8-b2c2c80-g006818-rc80000-yfccc00/"><circle cx="402.1" cy="198.1" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><circle cx="433.0" cy="257.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b40ba4b6ba4b28g36b8-b2c2c80-ba64008c-g146400/

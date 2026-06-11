@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 Y3 DB3 Y2 DB3 Y4 DB48 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Morris of Wales](/setts/s8/w4y3b3y2b3y4b48y4-b202060-we0e0e0-ye8c000/) — ΔT 0.36
+1. [University of North Carolina at Greensboro, The](/setts/s9/b96y11b8y11b16y6w4y16w8-b2c2c80-wfcfcfc-ye8c000/) — ΔT 1.05
+1. [George, Stuart (Personal)](/setts/s9/b124w4b8w10b12y4r16y6w8-b202060-ra00000-wfcfcfc-ye8c000/) — ΔT 1.09
+1. [George, Stuart (Personal)](/setts/s9/b124w4b8w10b12y4r16y6w8-b1c1c50-r800028-wffffff-ye0a126/) — ΔT 1.13
+1. [Baker (Name)](/setts/s8/b112y12w4y12b16w8ba4w20-b202060-ba780078-wf8f4d0-ya08858/) — ΔT 1.28
+1. [Baker](/setts/s8/b112r12w4r12b16w8ba4w20-b202060-ba780078-ra07c58-wf8f4d0/) — ΔT 1.28
+1. [Montrose Football Club](/setts/s6/w6r13b80w4b2w4-b14283c-rc80000-we0e0e0/) — ΔT 1.31
+1. [Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b64w8b4w8b8w4b2w12-b003c64-we0e0e0/) — ΔT 1.43
+1. [Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b112y12w4y12b16w8r4w20-b2c2c80-rc80000-we0e0e0-ye8c000/) — ΔT 1.46
+1. [St. John (Corporate?)](/setts/s5/b67w10y14b10w2-b1c1c50-we0e0e0-ye8c000/) — ΔT 1.46
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4y3b3y2b3y4b48y4-b202060-we0e0e0-ye8c000/"><circle cx="501.0" cy="133.5" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/setts/s9/b96y11b8y11b16y6w4y16w8-b2c2c80-wfcfcfc-ye8c000/"><circle cx="423.3" cy="130.8" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s9/b124w4b8w10b12y4r16y6w8-b202060-ra00000-wfcfcfc-ye8c000/"><circle cx="479.7" cy="101.1" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s9/b124w4b8w10b12y4r16y6w8-b1c1c50-r800028-wffffff-ye0a126/"><circle cx="481.3" cy="102.5" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s8/b112y12w4y12b16w8ba4w20-b202060-ba780078-wf8f4d0-ya08858/"><circle cx="410.5" cy="115.7" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/setts/s8/b112r12w4r12b16w8ba4w20-b202060-ba780078-ra07c58-wf8f4d0/"><circle cx="411.7" cy="116.0" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s6/w6r13b80w4b2w4-b14283c-rc80000-we0e0e0/"><circle cx="522.5" cy="137.0" r="4" fill="#3465a4"><title>Montrose Football Club</title></circle></a><a href="/setts/s8/b64w8b4w8b8w4b2w12-b003c64-we0e0e0/"><circle cx="481.8" cy="148.2" r="4" fill="#3465a4"><title>Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b112y12w4y12b16w8r4w20-b2c2c80-rc80000-we0e0e0-ye8c000/"><circle cx="409.9" cy="113.1" r="4" fill="#3465a4"><title>Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/b67w10y14b10w2-b1c1c50-we0e0e0-ye8c000/"><circle cx="481.8" cy="165.5" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><circle cx="478.4" cy="132.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w6y3b3y2b3y4b48y4-b202060-we0e0e0-ye8c000/

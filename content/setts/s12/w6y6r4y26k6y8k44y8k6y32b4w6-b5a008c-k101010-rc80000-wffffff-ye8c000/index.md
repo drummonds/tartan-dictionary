@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Loch Sween](/setts/s12/w6y6r4y26k6y8k44y8k6y32b4w6-b9058d8-k101010-rc80000-wfcfcfc-yfccc00/) — ΔT 0.26
+1. [Bracken](/setts/s9/y20b27r6b15y8b11y78ba10r12-b000050-ba304080-rc00000-yf0c000/) — ΔT 1.27
+1. [Bracken](/setts/s9/y10b18r6b10y4b8y52ba6r8-b202060-ba5c8ca8-rc80000-ye8c000/) — ΔT 1.29
+1. [Braken Tartan Tartan Number: 1449. Earliest known date: pre 1992 Originally spelt 'Braken'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/y20b27r6b15y8b11y78ba10r12-b202060-ba2c2c80-rc80000-ye8c000/) — ΔT 1.32
+1. [Burns Battalion (Fashion)](/setts/s10/g44b4g6y8g6b4g24b8w38g6-b1474b4-g604000-wf8f4d0-ye8c000/) — ΔT 1.36
+1. [Hay, or Stewart](/setts/s13/w18r10w58k20y4k6w6k6g24r12k6r6w4-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.43
+1. [Rosemount Course, Blairgowrie Golf Club](/setts/s11/w6y60g6b6r6y6b16ga6y6b6w6-b000048-g003c14-ga048888-r960028-wffffff-yd09800/) — ΔT 1.44
+1. [Hay or Stewart](/setts/s13/w18r10w58k20y4k6w6k6g24r12k6r6w4-g285800-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.54
+1. [Courtet-Meyer (Personal)](/setts/s14/k30w2k2w2k2w2k2g30r2g30y4r10y4w6-g649848-k1c1714-rca2625-wf9f5ef-ye0a126/) — ΔT 1.55
+1. [Fraser Yellow](/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 1.56
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w6y6r4y26k6y8k44y8k6y32b4w6-b9058d8-k101010-rc80000-wfcfcfc-yfccc00/"><circle cx="214.3" cy="121.2" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><a href="/setts/s9/y20b27r6b15y8b11y78ba10r12-b000050-ba304080-rc00000-yf0c000/"><circle cx="274.1" cy="143.1" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s9/y10b18r6b10y4b8y52ba6r8-b202060-ba5c8ca8-rc80000-ye8c000/"><circle cx="269.1" cy="142.2" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s9/y20b27r6b15y8b11y78ba10r12-b202060-ba2c2c80-rc80000-ye8c000/"><circle cx="281.1" cy="144.2" r="4" fill="#3465a4"><title>Braken Tartan Tartan Number: 1449. Earliest known date: pre 1992 Originally spelt 'Braken'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g44b4g6y8g6b4g24b8w38g6-b1474b4-g604000-wf8f4d0-ye8c000/"><circle cx="281.1" cy="156.3" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><a href="/setts/s13/w18r10w58k20y4k6w6k6g24r12k6r6w4-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="179.4" cy="102.2" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/setts/s11/w6y60g6b6r6y6b16ga6y6b6w6-b000048-g003c14-ga048888-r960028-wffffff-yd09800/"><circle cx="227.4" cy="97.4" r="4" fill="#3465a4"><title>Rosemount Course, Blairgowrie Golf Club</title></circle></a><a href="/setts/s13/w18r10w58k20y4k6w6k6g24r12k6r6w4-g285800-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="186.3" cy="102.8" r="4" fill="#3465a4"><title>Hay or Stewart</title></circle></a><a href="/setts/s14/k30w2k2w2k2w2k2g30r2g30y4r10y4w6-g649848-k1c1714-rca2625-wf9f5ef-ye0a126/"><circle cx="210.4" cy="101.5" r="4" fill="#3465a4"><title>Courtet-Meyer (Personal)</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="222.0" cy="143.6" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><circle cx="216.4" cy="123.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/w6y6r4y26k6y8k44y8k6y32b4w6-b5a008c-k101010-rc80000-wffffff-ye8c000/

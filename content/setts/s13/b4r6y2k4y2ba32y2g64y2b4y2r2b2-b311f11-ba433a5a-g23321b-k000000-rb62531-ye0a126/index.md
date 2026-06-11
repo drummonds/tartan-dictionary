@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#B62531;"><span style="color:#B62531;filter:grayscale(1) invert(1) contrast(100);">#B62531</span></code> `#B62531` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
 | Y | <code style="background-color:#E0A126;"><span style="color:#E0A126;filter:grayscale(1) invert(1) contrast(100);">#E0A126</span></code> `#E0A126` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.08 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Knox (Personal)](/setts/s13/g110ga40w4ga6k4ga6w4ga6b36k4ga8y4ga6-b2c2c80-g003820-ga744c34-k101010-we0e0e0-ye8c000/) — ΔT 0.78
+1. [Donohoe Grey, Peter (Commemorative)](/setts/s11/b18w4r2w4b6k18g6b2ba70k6ba4-b441800-ba5c5c5c-g003820-k101010-rc80000-w98c8e8/) — ΔT 1.05
+1. [Donohoe Grey, Peter](/setts/s11/g18b4r2b4g6k18ga6g2ba70k6ba4-b0000cd-ba666666-g603311-ga008b00-k101010-rff0000/) — ΔT 1.12
+1. [Trew 40th (Personal)](/setts/s15/r8g6k22b6ba6b60k2w8k2g6k6g6k6b24r4-b3c3c3c-ba1c0070-g405844-k101010-rc80000-we0e0e0/) — ΔT 1.20
+1. [Afghanistan Memorial](/setts/s13/b16ba6g2ba2g78ba6r6g4b22ba16g4ba6w4-b2a2a2a-ba2e1a01-g70572e-r770101-wffffff/) — ΔT 1.32
+1. [Highland Gathering (Fashion?)](/setts/s10/k45r4k4b4y16b76ba8y6ba2w4-b383838-ba003c64-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 1.39
+1. [Father's Pride, The](/setts/s11/k90b8ka10b3ka4g4ka3r16ka14y6ka28-b5c5c5c-g006818-k300500-ka101010-rc80000-yfccc00/) — ΔT 1.40
+1. [GRM (Fashion)](/setts/s12/k78b6g16y4g4r4g4ga16ra10g4ra6r4-b3850c8-g604000-ga003820-k101010-rc80000-ra880000-ya08858/) — ΔT 1.42
+1. [Austrian Bowhunters Hunting](/setts/s20/g80k4r6k4g6k6ra6k6ra6k6r10y2r10k6g6k4r6k4g6k6-g003820-k101010-r880000-rac80000-ye8c000/) — ΔT 1.45
+1. [Belk Heritage (Fashion)](/setts/s15/k32y2k8w4k8r2g82y4r72k2g6k2r6k2g8-g003820-k101010-r880000-we8ccb8-ybc8c00/) — ΔT 1.46
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g110ga40w4ga6k4ga6w4ga6b36k4ga8y4ga6-b2c2c80-g003820-ga744c34-k101010-we0e0e0-ye8c000/"><circle cx="300.2" cy="87.6" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/setts/s11/b18w4r2w4b6k18g6b2ba70k6ba4-b441800-ba5c5c5c-g003820-k101010-rc80000-w98c8e8/"><circle cx="331.3" cy="83.4" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/setts/s11/g18b4r2b4g6k18ga6g2ba70k6ba4-b0000cd-ba666666-g603311-ga008b00-k101010-rff0000/"><circle cx="336.6" cy="85.5" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/setts/s15/r8g6k22b6ba6b60k2w8k2g6k6g6k6b24r4-b3c3c3c-ba1c0070-g405844-k101010-rc80000-we0e0e0/"><circle cx="305.6" cy="90.6" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/setts/s13/b16ba6g2ba2g78ba6r6g4b22ba16g4ba6w4-b2a2a2a-ba2e1a01-g70572e-r770101-wffffff/"><circle cx="376.0" cy="100.4" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s10/k45r4k4b4y16b76ba8y6ba2w4-b383838-ba003c64-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="293.8" cy="86.3" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/setts/s11/k90b8ka10b3ka4g4ka3r16ka14y6ka28-b5c5c5c-g006818-k300500-ka101010-rc80000-yfccc00/"><circle cx="320.9" cy="96.8" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/setts/s12/k78b6g16y4g4r4g4ga16ra10g4ra6r4-b3850c8-g604000-ga003820-k101010-rc80000-ra880000-ya08858/"><circle cx="283.6" cy="89.0" r="4" fill="#3465a4"><title>GRM (Fashion)</title></circle></a><a href="/setts/s20/g80k4r6k4g6k6ra6k6ra6k6r10y2r10k6g6k4r6k4g6k6-g003820-k101010-r880000-rac80000-ye8c000/"><circle cx="376.9" cy="76.3" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><a href="/setts/s15/k32y2k8w4k8r2g82y4r72k2g6k2r6k2g8-g003820-k101010-r880000-we8ccb8-ybc8c00/"><circle cx="317.6" cy="83.1" r="4" fill="#3465a4"><title>Belk Heritage (Fashion)</title></circle></a><circle cx="333.5" cy="76.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/b4r6y2k4y2ba32y2g64y2b4y2r2b2-b311f11-ba433a5a-g23321b-k000000-rb62531-ye0a126/

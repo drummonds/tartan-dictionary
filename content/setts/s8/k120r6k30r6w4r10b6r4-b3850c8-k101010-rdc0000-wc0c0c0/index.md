@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/120 R6 K30 R6 N4 R10 B6 R/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Whitaker (2014)](/setts/s8/k120r6k30r6w4r10b6r4-b2c2c80-k101010-rc80000-wc0c0c0/) — ΔT 0.41
+1. [Dellen](/setts/s6/k160r12g6r24k4w4-g006818-k101010-rcc4438-wfcfcfc/) — ΔT 0.86
+1. [Auld Bernensis](/setts/s8/k124r6k6y6k6r6k18ya10-k101010-rff0000-ye0a126-yab0b0b0/) — ΔT 0.93
+1. [Noordermeer (Personal)](/setts/s10/k128r2k8r2k12r14w4r14k12b4-b2888c4-k101010-rc80000-we0e0e0/) — ΔT 0.95
+1. [Auld Bernensis](/setts/s8/k124r6k6y6k6r6k18ra10-k101010-rc80000-ra888888-yd09800/) — ΔT 0.96
+1. [Payne of Wallins Creek (Personal)](/setts/s10/w2k2b8k10b8k64w2k8y1k1-b780078-k101010-wf8f8f8-ye8c000/) — ΔT 1.03
+1. [Dellen](/setts/s6/k160r12b6r24k4w4-b06392b-k1c1714-rb62531-wf9f5ef/) — ΔT 1.08
+1. [Black Country (District)](/setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.15
+1. [Royal Army PTC Assoc. (Military)](/setts/s8/k118r6k12r6k16r30k4y6-k101010-rc80000-ye8c000/) — ΔT 1.18
+1. [Brockton (Corporate)](/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-we0e0e0/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k120r6k30r6w4r10b6r4-b2c2c80-k101010-rc80000-wc0c0c0/"><circle cx="578.4" cy="137.6" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s6/k160r12g6r24k4w4-g006818-k101010-rcc4438-wfcfcfc/"><circle cx="556.0" cy="130.2" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s8/k124r6k6y6k6r6k18ya10-k101010-rff0000-ye0a126-yab0b0b0/"><circle cx="577.7" cy="141.2" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/setts/s10/k128r2k8r2k12r14w4r14k12b4-b2888c4-k101010-rc80000-we0e0e0/"><circle cx="584.5" cy="96.7" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/setts/s8/k124r6k6y6k6r6k18ra10-k101010-rc80000-ra888888-yd09800/"><circle cx="597.9" cy="150.3" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/setts/s10/w2k2b8k10b8k64w2k8y1k1-b780078-k101010-wf8f8f8-ye8c000/"><circle cx="579.2" cy="102.3" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/setts/s6/k160r12b6r24k4w4-b06392b-k1c1714-rb62531-wf9f5ef/"><circle cx="581.4" cy="139.0" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="527.3" cy="134.1" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/setts/s8/k118r6k12r6k16r30k4y6-k101010-rc80000-ye8c000/"><circle cx="539.0" cy="148.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s8/k4w2k4r12k12r6k56w4-k101010-r880000-we0e0e0/"><circle cx="530.2" cy="159.5" r="4" fill="#3465a4"><title>Brockton (Corporate)</title></circle></a><circle cx="566.6" cy="132.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k120r6k30r6w4r10b6r4-b3850c8-k101010-rdc0000-wc0c0c0/

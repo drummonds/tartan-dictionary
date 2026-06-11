@@ -37,4 +37,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/120 LR30 LN6 LR6 LN6 LR6 LN10 LR/30 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Amazon](/setts/s8/w16wa60w120wa30y4wa4y4wa10-wffffff-wae0e0e0-yd87c00/) — ΔT 2.33
+1. [Amazon](/setts/s8/w16wa60w120wa30y4wa4y4wa10-wfcfcfc-wac0c0c0-yd87c00/) — ΔT 3.13
+1. [Takla Makan #2](/setts/s6/b8y30b8y30b8w4-b5c8ca8-we0e0e0-ya08858/) — ΔT 3.43
+1. [Masai Shuka 13 (Artefact)](/setts/s6/w100wa20r4wa4r4wa80-rc80000-w98c8e8-waf8e4e4/) — ΔT 3.45
+1. [Hebridean Cairn (Fashion)](/setts/s8/b8r12b12r12b40r8b72r4-b5c5c5c-r888888/) — ΔT 3.51
+1. [Young in Australia (Name)](/setts/s4/y162g12ya16g16-g00884c-ya08858-yabc8c00/) — ΔT 3.52
+1. [Orkney Slate (Corporate)](/setts/s8/b8r74w8b42r11ba2r16b4-b5c5c5c-ba780078-r888888-wc0c0c0/) — ΔT 3.64
+1. [Orkney Slate (Fashion)](/setts/s8/b8r74w8b42r11ba2r16b4-b5c5c5c-ba440044-r888888-wc0c0c0/) — ΔT 3.75
+1. [Hebridean Cairn](/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/) — ΔT 3.77
+1. [McKerrell of Hillhouse Dress (Clan)](/setts/s4/w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/) — ΔT 3.82
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w16wa60w120wa30y4wa4y4wa10-wffffff-wae0e0e0-yd87c00/"><circle cx="565.0" cy="212.8" r="4" fill="#3465a4"><title>Amazon</title></circle></a><a href="/setts/s8/w16wa60w120wa30y4wa4y4wa10-wfcfcfc-wac0c0c0-yd87c00/"><circle cx="481.6" cy="171.1" r="4" fill="#3465a4"><title>Amazon</title></circle></a><a href="/setts/s6/b8y30b8y30b8w4-b5c8ca8-we0e0e0-ya08858/"><circle cx="522.4" cy="304.5" r="4" fill="#3465a4"><title>Takla Makan #2</title></circle></a><a href="/setts/s6/w100wa20r4wa4r4wa80-rc80000-w98c8e8-waf8e4e4/"><circle cx="447.2" cy="198.5" r="4" fill="#3465a4"><title>Masai Shuka 13 (Artefact)</title></circle></a><a href="/setts/s8/b8r12b12r12b40r8b72r4-b5c5c5c-r888888/"><circle cx="626.0" cy="283.2" r="4" fill="#3465a4"><title>Hebridean Cairn (Fashion)</title></circle></a><a href="/setts/s4/y162g12ya16g16-g00884c-ya08858-yabc8c00/"><circle cx="626.0" cy="298.5" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><a href="/setts/s8/b8r74w8b42r11ba2r16b4-b5c5c5c-ba780078-r888888-wc0c0c0/"><circle cx="527.4" cy="185.9" r="4" fill="#3465a4"><title>Orkney Slate (Corporate)</title></circle></a><a href="/setts/s8/b8r74w8b42r11ba2r16b4-b5c5c5c-ba440044-r888888-wc0c0c0/"><circle cx="521.8" cy="183.5" r="4" fill="#3465a4"><title>Orkney Slate (Fashion)</title></circle></a><a href="/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/"><circle cx="626.0" cy="264.8" r="4" fill="#3465a4"><title>Hebridean Cairn</title></circle></a><a href="/setts/s4/w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/"><circle cx="499.5" cy="279.5" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress (Clan)</title></circle></a><circle cx="626.0" cy="229.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/

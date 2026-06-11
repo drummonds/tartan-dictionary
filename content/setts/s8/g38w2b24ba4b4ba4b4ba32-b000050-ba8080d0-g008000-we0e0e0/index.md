@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/32 DB4 B4 DB4 B4 DB24 LN2 G/38 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified No 52](/setts/s8/g38w2b24ba4b4ba4b4ba32-b080848-ba0596fa-g005020-we0e0e0/) — ΔT 0.76
+1. [Pitceathly Chamberlain (Personal)](/setts/s10/b4k6g10k18b42k4b10k4g40w2-b0000cd-g008b00-k101010-wffffff/) — ΔT 1.08
+1. [Norwich No.052](/setts/s8/g38w2b24ba4b4ba4b4ba32-b1c1c50-ba5c8ca8-g006818-wfcfcfc/) — ΔT 1.11
+1. [Keela (Corporate)](/setts/s7/b14w6b4w12b32ba52r8-b003c64-ba5c8ca8-r880000-wfcfcfc/) — ΔT 1.14
+1. [Lochaber District](/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/) — ΔT 1.15
+1. [Gorman Blue (Personal)](/setts/s8/w8b2y4b44ba40w4ba8w4-b3e647a-ba14465c-wf7f1e8-ybfab40/) — ΔT 1.22
+1. [Dress Watch](/setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/) — ΔT 1.23
+1. [Bannockbane Silver](/setts/s8/b6ba4b36ba2w20r36ba4r6-b202060-ba480800-r888888-we0e0e0/) — ΔT 1.27
+1. [MacOrrell Family Tartan Tartan Number: 672. Earliest known date: Date unknown The MacOrrell tartan has similarities with the MacDonald, Lord of the Isles sett, which may point a connection with the name MacDonnell or MacDonald. The name Orr was used by a sept of the MacGregors and also of the Campbells of Argyll, suggesting that the root of the name originated in the Lochaber and Argyll districts. There is an undated sample of the tartan in the cloth archive of the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b10y4b34g28w2g2w2g8y4-b2c2c80-g006818-we0e0e0-ye8c000/) — ΔT 1.33
+1. [MacOrrell](/setts/s9/b10y4b36g28w3g3w3g8y6-b2c2c80-g00781c-we0e0e0-ye8c000/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g38w2b24ba4b4ba4b4ba32-b080848-ba0596fa-g005020-we0e0e0/"><circle cx="205.3" cy="164.1" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/setts/s10/b4k6g10k18b42k4b10k4g40w2-b0000cd-g008b00-k101010-wffffff/"><circle cx="217.0" cy="149.3" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/setts/s8/g38w2b24ba4b4ba4b4ba32-b1c1c50-ba5c8ca8-g006818-wfcfcfc/"><circle cx="231.3" cy="171.5" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/setts/s7/b14w6b4w12b32ba52r8-b003c64-ba5c8ca8-r880000-wfcfcfc/"><circle cx="209.9" cy="180.9" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/setts/s8/b2g1b16r1k12g16r1g2-b3c779d-g2d783e-k000000-rc80000/"><circle cx="204.4" cy="164.7" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/setts/s8/w8b2y4b44ba40w4ba8w4-b3e647a-ba14465c-wf7f1e8-ybfab40/"><circle cx="273.6" cy="151.9" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/"><circle cx="192.4" cy="177.1" r="4" fill="#3465a4"><title>Dress Watch</title></circle></a><a href="/setts/s8/b6ba4b36ba2w20r36ba4r6-b202060-ba480800-r888888-we0e0e0/"><circle cx="198.2" cy="152.1" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/setts/s9/b10y4b34g28w2g2w2g8y4-b2c2c80-g006818-we0e0e0-ye8c000/"><circle cx="277.3" cy="158.4" r="4" fill="#3465a4"><title>MacOrrell Family Tartan Tartan Number: 672. Earliest known date: Date unknown The MacOrrell tartan has similarities with the MacDonald, Lord of the Isles sett, which may point a connection with the name MacDonnell or MacDonald. The name Orr was used by a sept of the MacGregors and also of the Campbells of Argyll, suggesting that the root of the name originated in the Lochaber and Argyll districts. There is an undated sample of the tartan in the cloth archive of the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b10y4b36g28w3g3w3g8y6-b2c2c80-g00781c-we0e0e0-ye8c000/"><circle cx="239.1" cy="169.1" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><circle cx="203.0" cy="158.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g38w2b24ba4b4ba4b4ba32-b000050-ba8080d0-g008000-we0e0e0/

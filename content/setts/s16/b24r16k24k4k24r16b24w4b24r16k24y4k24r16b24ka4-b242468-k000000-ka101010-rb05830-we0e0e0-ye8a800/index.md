@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 | Y | <code style="background-color:#E8A800;"><span style="color:#E8A800;filter:grayscale(1) invert(1) contrast(100);">#E8A800</span></code> `#E8A800` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.06 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wcwm 1572-2](/setts/s17/b16g24r8k24w8b16w8k24y4k8r8g8r8k8y4k24w8-b3c2010-g004c00-k000000-r8c0000-wc8c8c8-yc89800/) — ΔT 1.69
+1. [Highland Titles (Corporate)](/setts/s16/r40b25k20ba15y6ba15k20b25r40b25k20ba15w4ba15k20b25-b003c64-ba1c0070-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 1.79
+1. [Chattahoochee](/setts/s12/g6ga30k6ga6k6ga8k16b16r22ka6r6w6-b304080-g908000-ga004010-k000030-ka000000-rc00020-we0e0e0/) — ΔT 1.80
+1. [Malcolm (1840)](/setts/s15/b21r4b6y4b4b21k21g21k6ya4k6w4k6g21k21-b2c2c80-g285800-k101010-rc80000-w98c8e8-ye08070-yae8c000/) — ΔT 1.81
+1. [Innes](/setts/s16/b14k48r8k8r8k8r48y8r12ba24r12k8g40k8r12ya8-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.90
+1. [Innes](/setts/s16/b7k24r4k4r4k4r24y4r6ba12r6k4g20k4r6ya4-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.90
+1. [Innes D](/setts/s16/b6k24r4k4r4k4r24y4r6ba12r6k4g20k4r6ya4-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.92
+1. [Innes D](/setts/s16/b3k12r2k2r2k2r12y2r3ba6r3k2g10k2r3ya2-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.92
+1. [Kilburnie](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.94
+1. [Hoban (Personal)](/setts/s16/w36k12w16k36g60k36b44wa8b44k36g60k36w16k12w36y12-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/) — ΔT 1.95
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/b16g24r8k24w8b16w8k24y4k8r8g8r8k8y4k24w8-b3c2010-g004c00-k000000-r8c0000-wc8c8c8-yc89800/"><circle cx="72.2" cy="167.9" r="4" fill="#3465a4"><title>Wcwm 1572-2</title></circle></a><a href="/setts/s16/r40b25k20ba15y6ba15k20b25r40b25k20ba15w4ba15k20b25-b003c64-ba1c0070-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="68.1" cy="176.7" r="4" fill="#3465a4"><title>Highland Titles (Corporate)</title></circle></a><a href="/setts/s12/g6ga30k6ga6k6ga8k16b16r22ka6r6w6-b304080-g908000-ga004010-k000030-ka000000-rc00020-we0e0e0/"><circle cx="36.3" cy="165.1" r="4" fill="#3465a4"><title>Chattahoochee</title></circle></a><a href="/setts/s15/b21r4b6y4b4b21k21g21k6ya4k6w4k6g21k21-b2c2c80-g285800-k101010-rc80000-w98c8e8-ye08070-yae8c000/"><circle cx="84.4" cy="168.7" r="4" fill="#3465a4"><title>Malcolm (1840)</title></circle></a><a href="/setts/s16/b14k48r8k8r8k8r48y8r12ba24r12k8g40k8r12ya8-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="71.6" cy="128.8" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b7k24r4k4r4k4r24y4r6ba12r6k4g20k4r6ya4-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="71.6" cy="128.8" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b6k24r4k4r4k4r24y4r6ba12r6k4g20k4r6ya4-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="74.5" cy="128.2" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/setts/s16/b3k12r2k2r2k2r12y2r3ba6r3k2g10k2r3ya2-b4367ae-ba000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="74.5" cy="128.2" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b304080-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="64.9" cy="145.2" r="4" fill="#3465a4"><title>Kilburnie</title></circle></a><a href="/setts/s16/w36k12w16k36g60k36b44wa8b44k36g60k36w16k12w36y12-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/"><circle cx="42.5" cy="167.1" r="4" fill="#3465a4"><title>Hoban (Personal)</title></circle></a><circle cx="51.0" cy="172.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s16/b24r16k24k4k24r16b24w4b24r16k24y4k24r16b24ka4-b242468-k000000-ka101010-rb05830-we0e0e0-ye8a800/

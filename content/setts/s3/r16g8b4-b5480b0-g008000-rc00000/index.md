@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/4 G8 R/16 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wilson's No.188](/setts/s4/g8r16g8b4-b2888c4-g006818-rc80000/) — ΔT 1.44
+1. [Royal Guard of Oman 4th Band Squadro](/setts/s4/g76r48k18r18-g006818-k101010-rc80000/) — ΔT 1.52
+1. [Menzies](/setts/s5/r10g10y2b4r10-b4367ae-g11450d-raa0000-yaaaaaa/) — ΔT 1.63
+1. [Menzies](/setts/s5/r5g5y1b2r5-b4367ae-g11450d-raa0000-yaaaaaa/) — ΔT 1.63
+1. [MacGowan](/setts/s5/r24b24r6g24r24-b2c2c80-g006818-rc80000/) — ΔT 1.81
+1. [MacKinnon 11](/setts/s4/r12g80r100w12-g008000-rc00000-we0e0e0/) — ΔT 1.83
+1. [Bryce Family Tartan Tartan Number: 1537. Earliest known date: c.1953 The threadcount for the Bryce tartan was supplied by J. Dalgety Esq., of Forfar who in turn obtained it from the late James Cant of Dundee. There is a marked similarity with the Bruce tartan, but there is no historical link between the names. Bruce derives from Robert de Bruis (or Brus), whereas Bryce derives from St Bricius, a Gaulish saint from the 5th century. An old Lennox family of Bryce is known to have fought along side the MacFarlanes in 1619, and although the Lennoxes are acknowledged as a name within the clan, only descendants of this particular Bryce family could claim protection from Clan MacFarlane. However, no such distinction prevents all of the name Bryce from wearing the Bryce tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/r4g28r36y4-g006818-rc80000-ye8c000/) — ΔT 1.84
+1. [Wilson's, No 208](/setts/s3/g14b4r8-b5480b0-g008000-rc00000/) — ΔT 1.87
+1. [MacGregor of Glenstrae #2](/setts/s4/r34g18r4g18-g005020-rdc0000/) — ΔT 1.87
+1. [Lugo (2013)](/setts/s4/r80g32y8g32-g003820-rb03000-ye0a126/) — ΔT 1.89
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g8r16g8b4-b2888c4-g006818-rc80000/"><circle cx="242.2" cy="313.6" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><a href="/setts/s4/g76r48k18r18-g006818-k101010-rc80000/"><circle cx="260.2" cy="296.3" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadro</title></circle></a><a href="/setts/s5/r10g10y2b4r10-b4367ae-g11450d-raa0000-yaaaaaa/"><circle cx="277.4" cy="283.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r5g5y1b2r5-b4367ae-g11450d-raa0000-yaaaaaa/"><circle cx="277.4" cy="283.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r24b24r6g24r24-b2c2c80-g006818-rc80000/"><circle cx="242.1" cy="316.6" r="4" fill="#3465a4"><title>MacGowan</title></circle></a><a href="/setts/s4/r12g80r100w12-g008000-rc00000-we0e0e0/"><circle cx="341.8" cy="247.6" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/setts/s4/r4g28r36y4-g006818-rc80000-ye8c000/"><circle cx="362.3" cy="247.7" r="4" fill="#3465a4"><title>Bryce Family Tartan Tartan Number: 1537. Earliest known date: c.1953 The threadcount for the Bryce tartan was supplied by J. Dalgety Esq., of Forfar who in turn obtained it from the late James Cant of Dundee. There is a marked similarity with the Bruce tartan, but there is no historical link between the names. Bruce derives from Robert de Bruis (or Brus), whereas Bryce derives from St Bricius, a Gaulish saint from the 5th century. An old Lennox family of Bryce is known to have fought along side the MacFarlanes in 1619, and although the Lennoxes are acknowledged as a name within the clan, only descendants of this particular Bryce family could claim protection from Clan MacFarlane. However, no such distinction prevents all of the name Bryce from wearing the Bryce tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/g14b4r8-b5480b0-g008000-rc00000/"><circle cx="270.8" cy="338.1" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/setts/s4/r34g18r4g18-g005020-rdc0000/"><circle cx="352.8" cy="288.4" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/setts/s4/r80g32y8g32-g003820-rb03000-ye0a126/"><circle cx="351.0" cy="262.8" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><circle cx="312.0" cy="317.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s3/r16g8b4-b5480b0-g008000-rc00000/

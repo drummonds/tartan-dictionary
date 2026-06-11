@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/72 R72 P8 G48 DB4 G48 P8 R/72 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Skene, of Cromar](/setts/s8/k4r37b37r2b37g37r37k4-b304080-g008000-k000000-rc00000/) — ΔT 0.65
+1. [Skene of Cromar - 1950 (Clan)](/setts/s8/k8r74b74r4b74g74r74k8-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.75
+1. [MacKintosh Geddes](/setts/s7/b4r20g72r16b36r40w4-b2c4084-g005020-rdc0000-we0e0e0/) — ΔT 0.77
+1. [Geddes](/setts/s7/b4r20g60r12b36r40w4-b440044-g006818-rc80000-we0e0e0/) — ΔT 0.79
+1. [MacQuarrie #6](/setts/s7/r12g32r8b24r32ba2r4-b2c4084-ba3c82af-g005020-rdc0000/) — ΔT 0.80
+1. [MacQuarrie 2](/setts/s7/r12g32r8b24r32ba2r4-b304080-ba5480b0-g008000-rc00000/) — ΔT 0.90
+1. [MacNaughton Clan Tartan Tartan Number: 1066. Earliest known date: 1831 James Logan collected information for his book 'The Scottish Gael' between 1826 and 1831. The MacNaughton tartan is also recorded by William and Andrew Smith in their 'Authenticated Tartans of the Clans and Families of Scotland' (1850). Other works contain a commonly reproduced error. The tartan closely resembles the MacDuff, which may bear out the claim that the MacNaughtons were originally a Moray tribe transplanted by Malcolm IV. The MacNaughton tartan is worn by the 'Vale of Athol' pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k2b2r32g32k24b16r32b2k2-b2c2c80-g006818-k101010-rc80000/) — ΔT 0.91
+1. [MacBean/MacElvain](/setts/s7/k4r24b12r6g24r8b2-b2c4084-g005020-k101010-rdc0000/) — ΔT 0.92
+1. [MacEdward (Personal)](/setts/s10/r12y4r38g25b8g10b8g8b25r3-b2c2c80-g285800-rc80000-ye8c000/) — ΔT 0.93
+1. [MacQuarrie LO](/setts/s7/r12g32r8b24r32ba2r4-b000052-ba4367ae-g11450d-raa0000/) — ΔT 0.97
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k4r37b37r2b37g37r37k4-b304080-g008000-k000000-rc00000/"><circle cx="226.8" cy="187.0" r="4" fill="#3465a4"><title>Skene, of Cromar</title></circle></a><a href="/setts/s8/k8r74b74r4b74g74r74k8-b2c2c80-g006818-k101010-rc80000/"><circle cx="232.9" cy="188.7" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/setts/s7/b4r20g72r16b36r40w4-b2c4084-g005020-rdc0000-we0e0e0/"><circle cx="248.0" cy="179.1" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/setts/s7/b4r20g60r12b36r40w4-b440044-g006818-rc80000-we0e0e0/"><circle cx="242.4" cy="187.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/setts/s7/r12g32r8b24r32ba2r4-b2c4084-ba3c82af-g005020-rdc0000/"><circle cx="284.8" cy="190.0" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/setts/s7/r12g32r8b24r32ba2r4-b304080-ba5480b0-g008000-rc00000/"><circle cx="288.0" cy="194.1" r="4" fill="#3465a4"><title>MacQuarrie 2</title></circle></a><a href="/setts/s9/k2b2r32g32k24b16r32b2k2-b2c2c80-g006818-k101010-rc80000/"><circle cx="240.6" cy="168.1" r="4" fill="#3465a4"><title>MacNaughton Clan Tartan Tartan Number: 1066. Earliest known date: 1831 James Logan collected information for his book 'The Scottish Gael' between 1826 and 1831. The MacNaughton tartan is also recorded by William and Andrew Smith in their 'Authenticated Tartans of the Clans and Families of Scotland' (1850). Other works contain a commonly reproduced error. The tartan closely resembles the MacDuff, which may bear out the claim that the MacNaughtons were originally a Moray tribe transplanted by Malcolm IV. The MacNaughton tartan is worn by the 'Vale of Athol' pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k4r24b12r6g24r8b2-b2c4084-g005020-k101010-rdc0000/"><circle cx="259.5" cy="198.0" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/setts/s10/r12y4r38g25b8g10b8g8b25r3-b2c2c80-g285800-rc80000-ye8c000/"><circle cx="213.3" cy="182.5" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/setts/s7/r12g32r8b24r32ba2r4-b000052-ba4367ae-g11450d-raa0000/"><circle cx="288.5" cy="198.9" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><circle cx="250.5" cy="187.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b72r72ba8g48b4g48ba8r72-b2c2c80-ba780078-g006818-rc80000/

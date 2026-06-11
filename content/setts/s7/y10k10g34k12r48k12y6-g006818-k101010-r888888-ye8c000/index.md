@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "Y/10 K10 G34 K12 N48 K12 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cape Breton](/setts/s7/y10k10g34k12ga48k12y6-g008000-ga808080-k000000-yf0c000/) — ΔT 0.78
+1. [Wilson's No.193](/setts/s8/g24k4r4b8r8b8r4k4-b2888c4-g006818-k101010-rc80000/) — ΔT 0.92
+1. [Un-named (D C Dalgliesh) #3](/setts/s6/g6y48k30r6g50k6-g408060-k101010-ra888b4-ye09894/) — ΔT 0.99
+1. [Bannockbane, Green](/setts/s7/g8ga6g48w31r42gb6r8-g003000-ga30a010-gb008000-r906030-we0e0e0/) — ΔT 1.00
+1. [MacIntosh Dress Clan Tartan Tartan Number: 538. Earliest known date: pre 2003 From an old pattern book in possesion of Messrs Scott Adie of London. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r6w16b8g28r8b4-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 1.00
+1. [Cercle de Fermieres de St-Elie . . .](/setts/s7/r12y6b48r6g42y6r12-b1474b4-g006818-rc80000-yfccc00/) — ΔT 1.00
+1. [MacIntosh, dress](/setts/s6/r6w16b8g28r8b4-b304080-g008000-rc00000-we0e0e0/) — ΔT 1.02
+1. [Wilson's No.179](/setts/s8/g24y4r4b8r8b8r4y4-b2888c4-g006818-rc80000-ye8c000/) — ΔT 1.05
+1. [Bannockbane Dark Green](/setts/s7/g8ga6g48w30y42gb6y8-g003820-ga289c18-gb006818-we0e0e0-ya08858/) — ΔT 1.06
+1. [Dalveen (1981)](/setts/s8/g18ga12g60ga6w66k60ga12k18-g604000-ga006818-k101010-we0e0e0/) — ΔT 1.09
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/y10k10g34k12ga48k12y6-g008000-ga808080-k000000-yf0c000/"><circle cx="130.0" cy="200.8" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/setts/s8/g24k4r4b8r8b8r4k4-b2888c4-g006818-k101010-rc80000/"><circle cx="161.7" cy="216.6" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/setts/s6/g6y48k30r6g50k6-g408060-k101010-ra888b4-ye09894/"><circle cx="178.0" cy="206.2" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/setts/s7/g8ga6g48w31r42gb6r8-g003000-ga30a010-gb008000-r906030-we0e0e0/"><circle cx="140.3" cy="184.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/setts/s6/r6w16b8g28r8b4-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="147.6" cy="215.8" r="4" fill="#3465a4"><title>MacIntosh Dress Clan Tartan Tartan Number: 538. Earliest known date: pre 2003 From an old pattern book in possesion of Messrs Scott Adie of London. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r12y6b48r6g42y6r12-b1474b4-g006818-rc80000-yfccc00/"><circle cx="182.6" cy="201.8" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/setts/s6/r6w16b8g28r8b4-b304080-g008000-rc00000-we0e0e0/"><circle cx="149.6" cy="216.9" r="4" fill="#3465a4"><title>MacIntosh, dress</title></circle></a><a href="/setts/s8/g24y4r4b8r8b8r4y4-b2888c4-g006818-rc80000-ye8c000/"><circle cx="160.0" cy="211.9" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/setts/s7/g8ga6g48w30y42gb6y8-g003820-ga289c18-gb006818-we0e0e0-ya08858/"><circle cx="141.9" cy="184.6" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/setts/s8/g18ga12g60ga6w66k60ga12k18-g604000-ga006818-k101010-we0e0e0/"><circle cx="123.2" cy="182.4" r="4" fill="#3465a4"><title>Dalveen (1981)</title></circle></a><circle cx="149.7" cy="207.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/y10k10g34k12r48k12y6-g006818-k101010-r888888-ye8c000/

@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/8 LN2 B24 G24 B2 G/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hamilton Hunting](/setts/s5/b22g4b30g36w4-b2c4084-g005020-we0e0e0/) — ΔT 0.96
+1. [Sugiyama](/setts/s6/b14ba4b50ba20g42ba4-b2c4084-ba1c1c50-g408060/) — ΔT 1.30
+1. [Sugiyama Jogakuen University (Corp)](/setts/s6/b14ba4b50ba20g42ba4-b2c2c80-ba202060-g006818/) — ΔT 1.33
+1. [Barclay](/setts/s4/g2b32g32r2-b2c2c80-g006818-rc80000/) — ΔT 1.41
+1. [Barclay Htg (Clan)](/setts/s4/g4b64g64r4-b2c2c80-g006818-rc80000/) — ΔT 1.41
+1. [North Sea Commission](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/) — ΔT 1.47
+1. [Unidentified No 17](/setts/s7/g20b4g4b12ba10b2ba4-b2c4084-ba3c82af-g005020/) — ΔT 1.49
+1. [Gammell (Brown) (Personal)](/setts/s8/b40g4b4g4b4g12ga30g4-b2c2c80-g604000-ga006818/) — ΔT 1.51
+1. [St. Andrews New Golf Club](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b780078-ba003c64-g006818-r880000/) — ΔT 1.53
+1. [Devlin, Craig (Personal)](/setts/s6/g16w6b12ba22b60ba10-b5c5c5c-ba2c2c80-g006818-we0e0e0/) — ΔT 1.54
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b22g4b30g36w4-b2c4084-g005020-we0e0e0/"><circle cx="364.1" cy="285.3" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/setts/s6/b14ba4b50ba20g42ba4-b2c4084-ba1c1c50-g408060/"><circle cx="342.3" cy="258.8" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/setts/s6/b14ba4b50ba20g42ba4-b2c2c80-ba202060-g006818/"><circle cx="344.2" cy="262.5" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/setts/s4/g2b32g32r2-b2c2c80-g006818-rc80000/"><circle cx="383.3" cy="251.0" r="4" fill="#3465a4"><title>Barclay</title></circle></a><a href="/setts/s4/g4b64g64r4-b2c2c80-g006818-rc80000/"><circle cx="383.3" cy="251.0" r="4" fill="#3465a4"><title>Barclay Htg (Clan)</title></circle></a><a href="/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/"><circle cx="396.6" cy="247.5" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/setts/s7/g20b4g4b12ba10b2ba4-b2c4084-ba3c82af-g005020/"><circle cx="305.7" cy="268.2" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/setts/s8/b40g4b4g4b4g12ga30g4-b2c2c80-g604000-ga006818/"><circle cx="337.0" cy="231.4" r="4" fill="#3465a4"><title>Gammell (Brown) (Personal)</title></circle></a><a href="/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b780078-ba003c64-g006818-r880000/"><circle cx="337.3" cy="224.9" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/setts/s6/g16w6b12ba22b60ba10-b5c5c5c-ba2c2c80-g006818-we0e0e0/"><circle cx="355.4" cy="236.0" r="4" fill="#3465a4"><title>Devlin, Craig (Personal)</title></circle></a><circle cx="383.0" cy="261.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b8w2b24g24b2g8-b2c4084-g005020-we0e0e0/

@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/100 G52 K18 G8 N4 DR4 G/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Lawrie Clan Tartan Tartan Number: 3202. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b12r4b2g50ba32k4ba8-b440044-ba2c2c80-g006818-k101010-r945008/) — ΔT 1.08
+1. [Lowry](/setts/s7/b12y4b2g50ba32k4ba8-b440044-ba282878-g006438-k101010-yd8b000/) — ΔT 1.24
+1. [Dollar Academy (1999)](/setts/s8/w8b76k16b16k16g36ba8k4-b003c64-ba1c0070-g006818-k101010-wc0c0c0/) — ΔT 1.26
+1. [Laurie Clan Tartan Tartan Number: 3201. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b12r4b2g50ba32k4ba8-b440044-ba2c2c80-g006818-k101010-rc80000/) — ΔT 1.26
+1. [Lawrie](/setts/s7/b12g4b2ga50ba32k4ba8-b700070-ba2c2c84-g784400-ga007040-k101010/) — ΔT 1.28
+1. [Unidentified, Toy Bear](/setts/s8/g94y4g10y4g8k30b38r4-b141e46-g003c14-k101010-rdc0000-ye8c000/) — ΔT 1.36
+1. [Laurie](/setts/s7/b12r4b2g50ba32k4ba8-b6c006c-ba28287c-g005c34-k101010-rc80000/) — ΔT 1.37
+1. [Chan (Name?)](/setts/s8/r4g26r4g26k26b60k2y4-b003c64-g285800-k101010-r880000-ye8c000/) — ΔT 1.38
+1. [MacAuliffe/McAucliffe](/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/) — ΔT 1.38
+1. [Johnstone/Johnston](/setts/s8/k6b6k6b44g52k4b2y6-b2c4084-g005020-k101010-ye8c000/) — ΔT 1.40
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b12r4b2g50ba32k4ba8-b440044-ba2c2c80-g006818-k101010-r945008/"><circle cx="299.5" cy="163.5" r="4" fill="#3465a4"><title>Lawrie Clan Tartan Tartan Number: 3202. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b12y4b2g50ba32k4ba8-b440044-ba282878-g006438-k101010-yd8b000/"><circle cx="298.8" cy="163.2" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/setts/s8/w8b76k16b16k16g36ba8k4-b003c64-ba1c0070-g006818-k101010-wc0c0c0/"><circle cx="301.1" cy="175.5" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/setts/s7/b12r4b2g50ba32k4ba8-b440044-ba2c2c80-g006818-k101010-rc80000/"><circle cx="294.7" cy="160.4" r="4" fill="#3465a4"><title>Laurie Clan Tartan Tartan Number: 3201. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b12g4b2ga50ba32k4ba8-b700070-ba2c2c84-g784400-ga007040-k101010/"><circle cx="305.8" cy="164.7" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/setts/s8/g94y4g10y4g8k30b38r4-b141e46-g003c14-k101010-rdc0000-ye8c000/"><circle cx="387.2" cy="164.2" r="4" fill="#3465a4"><title>Unidentified, Toy Bear</title></circle></a><a href="/setts/s7/b12r4b2g50ba32k4ba8-b6c006c-ba28287c-g005c34-k101010-rc80000/"><circle cx="319.2" cy="170.4" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/setts/s8/r4g26r4g26k26b60k2y4-b003c64-g285800-k101010-r880000-ye8c000/"><circle cx="278.7" cy="161.5" r="4" fill="#3465a4"><title>Chan (Name?)</title></circle></a><a href="/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/"><circle cx="360.4" cy="173.5" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/setts/s8/k6b6k6b44g52k4b2y6-b2c4084-g005020-k101010-ye8c000/"><circle cx="315.6" cy="164.5" r="4" fill="#3465a4"><title>Johnstone/Johnston</title></circle></a><circle cx="349.2" cy="172.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b100g52k18g8w4r4g20-b003c64-g006818-k101010-r880000-wc0c0c0/

@@ -33,4 +33,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/6 B76 Y/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Varrie](/setts/s4/b220ba20w20y20-b2888c4-ba2c2c80-we0e0e0-ye8c000/) — ΔT 1.49
+1. [Varrie Commemorative Tartan Tartan Number: 9113. Earliest known date: 2009 November I have designed this tartan in remembrance of my mother Jean Alexander Varrie and for her Scottish Heritage, and all the Varrie Family's can used this design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b180ba20w20y20-b2888c4-ba2c2c80-we0e0e0-ye8c000/) — ΔT 1.65
+1. [Gyle (Corporate)](/setts/s3/b160g20r40-b2888c4-g003820-r880000/) — ΔT 1.71
+1. [Westfield (Corporate?)](/setts/s4/b102y11b14w11-b003c64-we0e0e0-yeca4a4/) — ΔT 1.94
+1. [The Poulain League](/setts/s5/y12b76k6b76y12-b8080d0-k000000-yf0c000/) — ΔT 1.96
+1. [Loevenstein Castle #2](/setts/s4/y80b4y16b12-b00008c-yb0b0b0/) — ΔT 2.16
+1. [MacLaine of Lochbuie](/setts/s4/b64r6b8y6-b2c4084-rdc0000-ye8c000/) — ΔT 2.22
+1. [MacLaine of Lochbuie](/setts/s4/b64r6b8y6-b304080-rc00000-yf0c000/) — ΔT 2.27
+1. [Laidlaw's Highland Drovers](/setts/s6/b70k20b8w4b6r4-b1474b4-k101010-rc80000-wf8f8f8/) — ΔT 2.31
+1. [Coinean Dubh](/setts/s4/b100k24b42w10-b003c64-k101010-wffffff/) — ΔT 2.33
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b220ba20w20y20-b2888c4-ba2c2c80-we0e0e0-ye8c000/"><circle cx="510.9" cy="216.7" r="4" fill="#3465a4"><title>Varrie</title></circle></a><a href="/setts/s4/b180ba20w20y20-b2888c4-ba2c2c80-we0e0e0-ye8c000/"><circle cx="460.8" cy="223.0" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan Tartan Number: 9113. Earliest known date: 2009 November I have designed this tartan in remembrance of my mother Jean Alexander Varrie and for her Scottish Heritage, and all the Varrie Family's can used this design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/b160g20r40-b2888c4-g003820-r880000/"><circle cx="453.6" cy="278.6" r="4" fill="#3465a4"><title>Gyle (Corporate)</title></circle></a><a href="/setts/s4/b102y11b14w11-b003c64-we0e0e0-yeca4a4/"><circle cx="541.0" cy="240.1" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/setts/s5/y12b76k6b76y12-b8080d0-k000000-yf0c000/"><circle cx="542.6" cy="226.1" r="4" fill="#3465a4"><title>The Poulain League</title></circle></a><a href="/setts/s4/y80b4y16b12-b00008c-yb0b0b0/"><circle cx="603.3" cy="216.7" r="4" fill="#3465a4"><title>Loevenstein Castle #2</title></circle></a><a href="/setts/s4/b64r6b8y6-b2c4084-rdc0000-ye8c000/"><circle cx="591.5" cy="238.1" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/setts/s4/b64r6b8y6-b304080-rc00000-yf0c000/"><circle cx="596.8" cy="239.8" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/setts/s6/b70k20b8w4b6r4-b1474b4-k101010-rc80000-wf8f8f8/"><circle cx="470.2" cy="173.1" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/setts/s4/b100k24b42w10-b003c64-k101010-wffffff/"><circle cx="508.8" cy="274.2" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><circle cx="530.3" cy="247.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s3/y12b76k6-b2888c4-k101010-ye8c000/

@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/6 K12 LN2 K12 G4 K4 G32 K/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fife, Duchess of..](/setts/s6/g60k24g12k12b4k10-b304080-g008000-k000000/) — ΔT 0.70
+1. [Duchess of Fife](/setts/s6/g140k52g24k28b6k32-b1474b4-g007800-k000000/) — ΔT 0.91
+1. [Forbes](/setts/s6/r2g32k16g8k8y2-g008000-k000000-rc00000-yf0c000/) — ΔT 1.13
+1. [MacIver hunting](/setts/s9/w6g54k10g10k64g10k10g54y6-g008000-k000000-we0e0e0-yf0c000/) — ΔT 1.13
+1. [MacLean VS](/setts/s8/g6k12w2k12g4k4g32k2-g004c00-k000000-wd0d0d0/) — ΔT 1.28
+1. [Hartmann](/setts/s8/b8k16w6k16g8k8g64k8-b8080d0-g008000-k000000-we0e0e0/) — ΔT 1.31
+1. [MacArthur, ?](/setts/s6/r6g60k24g12k32y4-g008000-k000000-rc00000-yf0c000/) — ΔT 1.34
+1. [Fort William](/setts/s11/g34b4ga4b4k42b4k6g60k4b4k8-b5480b0-g008000-ga30a010-k000000/) — ΔT 1.38
+1. [Sin-Cos](/setts/s10/k60g64ga5g8ga5g64k60y8k8y8-g228b22-ga006400-k000000-yffd700/) — ΔT 1.47
+1. [Paton](/setts/s7/r6g48k56g38y6g6y6-g008000-k000000-rc00000-yf0c000/) — ΔT 1.48
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g60k24g12k12b4k10-b304080-g008000-k000000/"><circle cx="342.1" cy="210.7" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/setts/s6/g140k52g24k28b6k32-b1474b4-g007800-k000000/"><circle cx="361.2" cy="196.1" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/setts/s6/r2g32k16g8k8y2-g008000-k000000-rc00000-yf0c000/"><circle cx="316.4" cy="189.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s9/w6g54k10g10k64g10k10g54y6-g008000-k000000-we0e0e0-yf0c000/"><circle cx="284.0" cy="184.6" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s8/g6k12w2k12g4k4g32k2-g004c00-k000000-wd0d0d0/"><circle cx="361.9" cy="199.9" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/setts/s8/b8k16w6k16g8k8g64k8-b8080d0-g008000-k000000-we0e0e0/"><circle cx="267.3" cy="175.2" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/setts/s6/r6g60k24g12k32y4-g008000-k000000-rc00000-yf0c000/"><circle cx="275.2" cy="196.4" r="4" fill="#3465a4"><title>MacArthur, ?</title></circle></a><a href="/setts/s11/g34b4ga4b4k42b4k6g60k4b4k8-b5480b0-g008000-ga30a010-k000000/"><circle cx="284.0" cy="146.3" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s10/k60g64ga5g8ga5g64k60y8k8y8-g228b22-ga006400-k000000-yffd700/"><circle cx="235.2" cy="170.3" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/setts/s7/r6g48k56g38y6g6y6-g008000-k000000-rc00000-yf0c000/"><circle cx="260.9" cy="199.2" r="4" fill="#3465a4"><title>Paton</title></circle></a><circle cx="332.1" cy="187.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g6k12w2k12g4k4g32k2-g008000-k000000-we0e0e0/

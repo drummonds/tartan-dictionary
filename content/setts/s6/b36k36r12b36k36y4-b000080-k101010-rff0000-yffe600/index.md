@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/36 K36 R12 DB36 K36 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [College of Radiographers](/setts/s5/k30y4k20b36w6-b00008c-k101010-wc8c8c8-yc88c00/) — ΔT 1.04
+1. [St. Johnstone F.C. (Sports)](/setts/s7/k24w12k32b28y8b28w4-b2c2c80-k101010-wc0c0c0-yd09800/) — ΔT 1.18
+1. [College of Radiographers Corporate Tartan Tartan Number: 1274. Earliest known date: 1988 Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k30y4k20b36w6-b2c2c80-k101010-we0e0e0-ye8c000/) — ΔT 1.23
+1. [Grampian T.V. Corporate Tartan Tartan Number: 1058. Earliest known date: pre 1992 Created by Johnstons of Elgin See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k10b2k10b14w4-b2c2c80-k101010-we0e0e0/) — ΔT 1.26
+1. [Britannia](/setts/s5/k28r8k50b60w8-b202060-k101010-rc80000-we0e0e0/) — ΔT 1.38
+1. [Scottish Express International](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/) — ΔT 1.40
+1. [Scottish Express International](/setts/s6/b6k29ba6k29b50ka6-b304080-ba8080d0-k000000-ka000030/) — ΔT 1.41
+1. [Allianz Deutschland 2012](/setts/s7/b12ba6b12ba40k40ba16w8-b20608c-ba141c50-k000000-we8e8e8/) — ΔT 1.43
+1. [Old Brigade](/setts/s6/b36k36r12b36k36y4-b202060-k101010-rc80000-yfccc00/) — ΔT 1.44
+1. [Lexington Fire Department](/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/) — ΔT 1.45
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k30y4k20b36w6-b00008c-k101010-wc8c8c8-yc88c00/"><circle cx="271.3" cy="250.2" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/setts/s7/k24w12k32b28y8b28w4-b2c2c80-k101010-wc0c0c0-yd09800/"><circle cx="178.2" cy="241.5" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/setts/s5/k30y4k20b36w6-b2c2c80-k101010-we0e0e0-ye8c000/"><circle cx="265.6" cy="243.3" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan Tartan Number: 1274. Earliest known date: 1988 Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k10b2k10b14w4-b2c2c80-k101010-we0e0e0/"><circle cx="255.5" cy="279.9" r="4" fill="#3465a4"><title>Grampian T.V. Corporate Tartan Tartan Number: 1058. Earliest known date: pre 1992 Created by Johnstons of Elgin See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k28r8k50b60w8-b202060-k101010-rc80000-we0e0e0/"><circle cx="283.6" cy="259.1" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/"><circle cx="282.8" cy="252.5" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/setts/s6/b6k29ba6k29b50ka6-b304080-ba8080d0-k000000-ka000030/"><circle cx="252.6" cy="232.3" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/setts/s7/b12ba6b12ba40k40ba16w8-b20608c-ba141c50-k000000-we8e8e8/"><circle cx="196.3" cy="234.2" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/setts/s6/b36k36r12b36k36y4-b202060-k101010-rc80000-yfccc00/"><circle cx="268.9" cy="275.1" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/setts/s8/k40b40k10b10w10k25b25r10-b1c0070-k101010-rc80000-we0e0e0/"><circle cx="199.4" cy="266.1" r="4" fill="#3465a4"><title>Lexington Fire Department</title></circle></a><circle cx="231.3" cy="261.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b36k36r12b36k36y4-b000080-k101010-rff0000-yffe600/

@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 R2 K32 G32 K2 Y/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unidentified 20th Centuary](/setts/s7/r4k2g30k14ga30k2y4-g007800-ga784c18-k000000-r8c0000-yc88c00/) — ΔT 1.02
+1. [Afternoon Tea / Afternoon Tea](/setts/s6/w15k8r25k72g98y15-g408060-k1c1714-r781638-we0e0e0-yc89800/) — ΔT 1.07
+1. [Chiti, Cristiano (Personal)](/setts/s6/g40b22w12r4ba6w2-b002814-ba780078-g004c00-r880000-wc0c0c0/) — ΔT 1.07
+1. [Hackett (Personal)](/setts/s7/k40w8r8g40w10g4ga4-g006818-ga289c18-k101010-rc80000-wfcfcfc/) — ΔT 1.08
+1. [Dalveen (Fashion)](/setts/s8/g6ga4g42ga2w22k42ga4k6-g744c00-ga006818-k101010-we0e0e0/) — ΔT 1.12
+1. [Colquhoun](/setts/s7/b8k4b32w2k16g48r8-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.14
+1. [MacFadzean, MacPhedran](/setts/s7/g6b24w2k24g26r4g4-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.14
+1. [MacPhadran](/setts/s7/g6b24y2k24g26r4g4-b304080-g008000-k000000-rc00000-yb0b0b0/) — ΔT 1.14
+1. [MacNeil 3](/setts/s8/g90w4r6k30r6b30r6b30-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.14
+1. [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/) — ΔT 1.20
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r4k2g30k14ga30k2y4-g007800-ga784c18-k000000-r8c0000-yc88c00/"><circle cx="179.0" cy="161.4" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/setts/s6/w15k8r25k72g98y15-g408060-k1c1714-r781638-we0e0e0-yc89800/"><circle cx="198.3" cy="179.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/setts/s6/g40b22w12r4ba6w2-b002814-ba780078-g004c00-r880000-wc0c0c0/"><circle cx="241.2" cy="167.1" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/setts/s7/k40w8r8g40w10g4ga4-g006818-ga289c18-k101010-rc80000-wfcfcfc/"><circle cx="149.8" cy="166.4" r="4" fill="#3465a4"><title>Hackett (Personal)</title></circle></a><a href="/setts/s8/g6ga4g42ga2w22k42ga4k6-g744c00-ga006818-k101010-we0e0e0/"><circle cx="194.4" cy="130.6" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/setts/s7/b8k4b32w2k16g48r8-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="208.1" cy="146.8" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s7/g6b24w2k24g26r4g4-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="162.5" cy="177.8" r="4" fill="#3465a4"><title>MacFadzean, MacPhedran</title></circle></a><a href="/setts/s7/g6b24y2k24g26r4g4-b304080-g008000-k000000-rc00000-yb0b0b0/"><circle cx="164.5" cy="178.8" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/setts/s8/g90w4r6k30r6b30r6b30-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="225.6" cy="133.3" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/"><circle cx="250.2" cy="161.2" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><circle cx="209.2" cy="162.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/y8k2g32k32r2w6-g285800-k101010-rc80000-we0e0e0-ye8c000/

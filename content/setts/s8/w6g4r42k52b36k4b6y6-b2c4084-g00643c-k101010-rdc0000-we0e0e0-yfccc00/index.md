@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 G4 R42 K52 B36 K4 B6 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Loch Etive](/setts/s8/w6g4r42k52b36k4b6y6-b2c2c80-g289c18-k101010-rc80000-wc0c0c0-yfccc00/) — ΔT 0.26
+1. [Dean/Dundas (Melbourne, Australia) (Personal)](/setts/s9/r34k10b8k12y10ba62k10g12b6-b666666-ba271b86-g509721-k120a01-rdd1212-yf9c75c/) — ΔT 0.79
+1. [Culloden, Grey](/setts/s8/g12k4g46k46w4b48ba6r12-b800080-ba304080-g808080-k000000-rc00000-we0e0e0/) — ΔT 0.86
+1. [Dean/Dundas (Personal)](/setts/s9/r34k10w8k12y10b62k10g12w6-b2c2c80-g289c18-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 0.89
+1. [MacCreary (Personal)](/setts/s9/k8b24w6b8g16y4r48b8r8-b1c0070-g006818-k101010-rcc4438-wa8ace8-yd09800/) — ΔT 0.91
+1. [Wishart Dress (Clan)](/setts/s7/k14b8r62ba6y4ba54w8-b2c2c80-ba202060-k000000-rc80000-wc8c8c8-ye8c000/) — ΔT 0.93
+1. [Tribal](/setts/s10/y8k64r20k4ra32k4r20k4b64ya8-b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000/) — ΔT 1.00
+1. [Aberdeen Asset Management (Corp)](/setts/s11/b12w2b4r40g20y4g4y4b36r4k12-b1c0070-g006818-k101010-rc80000-wc0c0c0-yd09800/) — ΔT 1.00
+1. [Asman Red (Personal)](/setts/s10/b8y6b44r12w4k12w4ra52k6ra8-b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000/) — ΔT 1.00
+1. [MacLeod Society of Scotland](/setts/s6/g6ga6r44k10b44y4-b2c2c80-g006818-ga289c18-k101010-rc80000-ye8c000/) — ΔT 1.01
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w6g4r42k52b36k4b6y6-b2c2c80-g289c18-k101010-rc80000-wc0c0c0-yfccc00/"><circle cx="154.3" cy="135.3" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s9/r34k10b8k12y10ba62k10g12b6-b666666-ba271b86-g509721-k120a01-rdd1212-yf9c75c/"><circle cx="128.0" cy="136.7" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><a href="/setts/s8/g12k4g46k46w4b48ba6r12-b800080-ba304080-g808080-k000000-rc00000-we0e0e0/"><circle cx="115.6" cy="141.0" r="4" fill="#3465a4"><title>Culloden, Grey</title></circle></a><a href="/setts/s9/r34k10w8k12y10b62k10g12w6-b2c2c80-g289c18-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="118.2" cy="132.1" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/setts/s9/k8b24w6b8g16y4r48b8r8-b1c0070-g006818-k101010-rcc4438-wa8ace8-yd09800/"><circle cx="179.4" cy="134.7" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/setts/s7/k14b8r62ba6y4ba54w8-b2c2c80-ba202060-k000000-rc80000-wc8c8c8-ye8c000/"><circle cx="196.9" cy="127.0" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/setts/s10/y8k64r20k4ra32k4r20k4b64ya8-b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000/"><circle cx="134.7" cy="108.6" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s11/b12w2b4r40g20y4g4y4b36r4k12-b1c0070-g006818-k101010-rc80000-wc0c0c0-yd09800/"><circle cx="166.7" cy="105.0" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/setts/s10/b8y6b44r12w4k12w4ra52k6ra8-b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000/"><circle cx="165.5" cy="111.6" r="4" fill="#3465a4"><title>Asman Red (Personal)</title></circle></a><a href="/setts/s6/g6ga6r44k10b44y4-b2c2c80-g006818-ga289c18-k101010-rc80000-ye8c000/"><circle cx="185.4" cy="157.2" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><circle cx="149.5" cy="132.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/w6g4r42k52b36k4b6y6-b2c4084-g00643c-k101010-rdc0000-we0e0e0-yfccc00/

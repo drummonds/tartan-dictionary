@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/2 K46 Y6 B32 Y6 K44 R2 W/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Indiana #2](/setts/s8/b100y8b6y8b16k4ba24w10-b141e46-ba2c4084-k101010-we0e0e0-ye8c000/) — ΔT 1.09
+1. [Universal Scientific Indust (Corp.)](/setts/s9/k76b4r48w4k32r12b4k6b10-b2888c4-k101010-r9c68a4-wf8f8f8/) — ΔT 1.16
+1. [State Seal of Massachusetts Fash)](/setts/s10/k124b8k14ba58k6y8k6w8k22b32-b1474b4-ba2c2c80-k101010-we8ccb8-ybc8c00/) — ΔT 1.18
+1. [Warren Wilson College (Corporate)](/setts/s8/g40y12b40ya6b96r12b8r12-b1c0070-g006818-r880000-ya0a0a0-yae8c000/) — ΔT 1.19
+1. [Chestico](/setts/s7/b40g2b2g2ga16k2w6-b202060-g603800-ga003820-k101010-wfcfcfc/) — ΔT 1.24
+1. [Unidentified Plaid #5](/setts/s10/b52g12b52r4g52w2r12b4r12b26-b080848-g006428-rdc0000-we0e0e0/) — ΔT 1.30
+1. [MacLaurin, of Brioch](/setts/s7/b72k20g6r6g12k2y4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 1.32
+1. [Round Table of Britain and Ireland, RtbI.](/setts/s6/b94g28ba10r4ra6g14-b000050-ba401000-g008000-r806050-rac00000/) — ΔT 1.33
+1. [Genet, Edmond Charles 'Citizen' (Personal)](/setts/s7/r8k18g18ka80r4ka4w4-g285800-k101010-ka000028-rdc0000-wf8f8f8/) — ΔT 1.35
+1. [Boxing Scotland](/setts/s8/b52r4ba32b46ba32r4w4y2-b141e46-ba3c82af-rc80000-wffffff-yffe600/) — ΔT 1.36
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b100y8b6y8b16k4ba24w10-b141e46-ba2c4084-k101010-we0e0e0-ye8c000/"><circle cx="408.8" cy="121.9" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/setts/s9/k76b4r48w4k32r12b4k6b10-b2888c4-k101010-r9c68a4-wf8f8f8/"><circle cx="336.6" cy="149.4" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/setts/s10/k124b8k14ba58k6y8k6w8k22b32-b1474b4-ba2c2c80-k101010-we8ccb8-ybc8c00/"><circle cx="349.4" cy="134.4" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/setts/s8/g40y12b40ya6b96r12b8r12-b1c0070-g006818-r880000-ya0a0a0-yae8c000/"><circle cx="347.5" cy="162.4" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s7/b40g2b2g2ga16k2w6-b202060-g603800-ga003820-k101010-wfcfcfc/"><circle cx="348.7" cy="141.5" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/setts/s10/b52g12b52r4g52w2r12b4r12b26-b080848-g006428-rdc0000-we0e0e0/"><circle cx="345.7" cy="161.0" r="4" fill="#3465a4"><title>Unidentified Plaid #5</title></circle></a><a href="/setts/s7/b72k20g6r6g12k2y4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="348.6" cy="113.5" r="4" fill="#3465a4"><title>MacLaurin, of Brioch</title></circle></a><a href="/setts/s6/b94g28ba10r4ra6g14-b000050-ba401000-g008000-r806050-rac00000/"><circle cx="355.5" cy="151.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/setts/s7/r8k18g18ka80r4ka4w4-g285800-k101010-ka000028-rdc0000-wf8f8f8/"><circle cx="354.2" cy="143.9" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/setts/s8/b52r4ba32b46ba32r4w4y2-b141e46-ba3c82af-rc80000-wffffff-yffe600/"><circle cx="318.4" cy="150.6" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><circle cx="365.0" cy="142.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r2b46y6ba32y6b44r2w2-b1c1c1c-ba3850c8-rc8002c-wf8f8f8-ye0a126/

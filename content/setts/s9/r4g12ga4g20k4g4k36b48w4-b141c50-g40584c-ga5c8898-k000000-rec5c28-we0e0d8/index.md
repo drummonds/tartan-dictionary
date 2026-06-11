@@ -32,4 +32,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#40584C;"><span style="color:#40584C;filter:grayscale(1) invert(1) contrast(100);">#40584C</span></code> `#40584C` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.12 |
 | O | <code style="background-color:#EC5C28;"><span style="color:#EC5C28;filter:grayscale(1) invert(1) contrast(100);">#EC5C28</span></code> `#EC5C28` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.14 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Leung (Personal)](/setts/s9/r8k14r4b50k38w4g26k4y6-b2c2c80-g006818-k101010-rb468ac-wfcfcfc-ye8c000/) — ΔT 0.81
+1. [St. Andrews Golf Club (Corporate)](/setts/s9/w4b48k36g4k4g20wa4g12y4-b2c2c80-g00643c-k101010-wfcfcfc-wa98c8e8-yec8048/) — ΔT 0.98
+1. [Tantallon #2](/setts/s10/w6b44k4r14k4g20k4r14k44y6-b000064-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 1.00
+1. [MacNeil](/setts/s7/w2r4b32k28g30k6y2-b000064-g004c00-k000000-rc80000-wd0d0d0-yffff00/) — ΔT 1.03
+1. [Tindal](/setts/s11/r6k4g36k36b6k6b6k6b36y4w6-b202060-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.03
+1. [Loch Awe](/setts/s9/w6k4r6g40k48b40r6k4y6-b2c2c80-g006818-k101010-rc80000-wc0c0c0-yfccc00/) — ΔT 1.04
+1. [Royal College of Surgeons of Edinburgh](/setts/s9/b8ba32k4ba4k4ba4k26bb40w8-b5480b0-ba102040-bb505050-k000000-we0e0e0/) — ΔT 1.06
+1. [Yates](/setts/s8/k74r8b60ba14k20w10ba20g14-b000064-ba505050-g808080-k101010-rdc0000-we0e0e0/) — ΔT 1.09
+1. [National Wedding](/setts/s9/g44y4g8b6g8k40ba40k2w6-b64008c-ba000080-g003014-k000000-wc8c8c8-yc48800/) — ΔT 1.11
+1. [MacNeil](/setts/s7/y2k6g30k28b32r4ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/) — ΔT 1.12
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r8k14r4b50k38w4g26k4y6-b2c2c80-g006818-k101010-rb468ac-wfcfcfc-ye8c000/"><circle cx="146.8" cy="145.1" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s9/w4b48k36g4k4g20wa4g12y4-b2c2c80-g00643c-k101010-wfcfcfc-wa98c8e8-yec8048/"><circle cx="158.4" cy="145.9" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s10/w6b44k4r14k4g20k4r14k44y6-b000064-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="120.2" cy="138.8" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/setts/s7/w2r4b32k28g30k6y2-b000064-g004c00-k000000-rc80000-wd0d0d0-yffff00/"><circle cx="144.6" cy="157.2" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s11/r6k4g36k36b6k6b6k6b36y4w6-b202060-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="135.1" cy="150.3" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/setts/s9/w6k4r6g40k48b40r6k4y6-b2c2c80-g006818-k101010-rc80000-wc0c0c0-yfccc00/"><circle cx="139.6" cy="141.6" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s9/b8ba32k4ba4k4ba4k26bb40w8-b5480b0-ba102040-bb505050-k000000-we0e0e0/"><circle cx="128.4" cy="168.6" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s8/k74r8b60ba14k20w10ba20g14-b000064-ba505050-g808080-k101010-rdc0000-we0e0e0/"><circle cx="169.7" cy="175.1" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s9/g44y4g8b6g8k40ba40k2w6-b64008c-ba000080-g003014-k000000-wc8c8c8-yc48800/"><circle cx="183.3" cy="134.6" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/y2k6g30k28b32r4ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/"><circle cx="162.4" cy="165.0" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><circle cx="152.0" cy="144.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/r4g12ga4g20k4g4k36b48w4-b141c50-g40584c-ga5c8898-k000000-rec5c28-we0e0d8/

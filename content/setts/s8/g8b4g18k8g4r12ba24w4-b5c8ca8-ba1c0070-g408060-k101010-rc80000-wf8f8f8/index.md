@@ -37,4 +37,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/8 B4 G18 K8 G4 R12 DB24 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Mitsukoshi](/setts/s10/g24k6w6k6w6k6g26b12ba34r6-b07648c-ba141e46-g808080-k101010-r960000-we0e0e0/) — ΔT 0.63
+1. [Reekie (Name)](/setts/s6/k16r24w16g30b60y10-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.79
+1. [Hoban (Name)](/setts/s9/y12w36k12w16k36g60k36b44wa8-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/) — ΔT 0.81
+1. [Caledonian Labrador Retrievers](/setts/s8/r42b8ba10b8r10k42g42y10-b000048-ba501400-g006818-k101010-r9c68a4-yfccc00/) — ΔT 0.90
+1. [Waterford County Crest (Fashion)](/setts/s8/w16b10ba60y8b26y26g10ya10-b1c1c50-ba2c2c80-g006818-we0e0e0-ya0a0a0-yabc8c00/) — ΔT 0.94
+1. [Caledonian Labrador Retrievers](/setts/s8/r42y8b10y8r10k42g42ya10-b441800-g00643c-k101010-r9c68a4-y86c67c-yae0a126/) — ΔT 0.96
+1. [Celtic Women International](/setts/s9/r6b32ra4b4ra24k16g24k24w6-b2c2c80-g006818-k101010-rc80000-rab468ac-we0e0e0/) — ΔT 1.00
+1. [Sustainability (Fashion)](/setts/s8/b40k6g36r24ba8r24b30y8-b2c2c80-ba2888c4-g006818-k101010-rc80000-ye8c000/) — ΔT 1.04
+1. [Jamestown Parish Church (Corporate)](/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.04
+1. [East Lothian](/setts/s7/b12ba34bb8ba4k22g6y8-b5c8ca8-ba2c2c80-bb780078-g006818-k101010-ye8c000/) — ΔT 1.08
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g24k6w6k6w6k6g26b12ba34r6-b07648c-ba141e46-g808080-k101010-r960000-we0e0e0/"><circle cx="92.5" cy="174.2" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><a href="/setts/s6/k16r24w16g30b60y10-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="81.3" cy="199.7" r="4" fill="#3465a4"><title>Reekie (Name)</title></circle></a><a href="/setts/s9/y12w36k12w16k36g60k36b44wa8-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/"><circle cx="46.8" cy="181.0" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/setts/s8/r42b8ba10b8r10k42g42y10-b000048-ba501400-g006818-k101010-r9c68a4-yfccc00/"><circle cx="58.6" cy="188.5" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/setts/s8/w16b10ba60y8b26y26g10ya10-b1c1c50-ba2c2c80-g006818-we0e0e0-ya0a0a0-yabc8c00/"><circle cx="94.8" cy="170.2" r="4" fill="#3465a4"><title>Waterford County Crest (Fashion)</title></circle></a><a href="/setts/s8/r42y8b10y8r10k42g42ya10-b441800-g00643c-k101010-r9c68a4-y86c67c-yae0a126/"><circle cx="60.6" cy="187.6" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/setts/s9/r6b32ra4b4ra24k16g24k24w6-b2c2c80-g006818-k101010-rc80000-rab468ac-we0e0e0/"><circle cx="61.5" cy="178.5" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/setts/s8/b40k6g36r24ba8r24b30y8-b2c2c80-ba2888c4-g006818-k101010-rc80000-ye8c000/"><circle cx="118.7" cy="201.6" r="4" fill="#3465a4"><title>Sustainability (Fashion)</title></circle></a><a href="/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="70.8" cy="201.2" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/setts/s7/b12ba34bb8ba4k22g6y8-b5c8ca8-ba2c2c80-bb780078-g006818-k101010-ye8c000/"><circle cx="131.2" cy="183.7" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><circle cx="86.6" cy="189.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/

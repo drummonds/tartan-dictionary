@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DY/12 DR16 K8 LN12 G32 K26 N38 K/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Isle of Arran (Personal)](/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/) — ΔT 0.73
+1. [Spirit of 1994 (Fashion)](/setts/s9/b26w8g30w8r26w8g30y8k26-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 0.82
+1. [Alabama (Fashion)](/setts/s7/r6w16k18g32r24b24y6-b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800/) — ΔT 0.87
+1. [Tipperary County Crest (Fashion)](/setts/s9/r10y36k24r30ya8k16w18b16ya9-b2c2c80-k101010-r880000-we0e0e0-ya0a0a0-yabc8c00/) — ΔT 0.89
+1. [Belwade](/setts/s11/b16g16b16w4ba4w4r16y16w4g16r16-b2c4084-ba141e46-g007800-r781c38-wffffff-ydc943c/) — ΔT 0.95
+1. [Eusa (District)](/setts/s7/k32y32r32g6b14w14k14-b2c2c80-g00881c-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.01
+1. [Eusa](/setts/s7/k32y32r32g6b14w14k14-b2c2c80-g288028-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.01
+1. [Somerset #2](/setts/s8/g28w28b24y16ga6k6ga6k10-b2c4084-g005020-ga503c14-k101010-wc0c0c0-yec9d9d/) — ΔT 1.01
+1. [Devon Rural Skills Trust](/setts/s8/w10g8b2g8r8b2ga8y2-b8080d0-g607030-ga004010-rc00000-we0e0e0-yf0c000/) — ΔT 1.04
+1. [Bhutan](/setts/s9/r6w4b12w4ba16y4g12y4r4-b1c0070-ba4c0000-g006818-r981c70-wc0c0c0-yd09800/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/"><circle cx="14.0" cy="210.7" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/setts/s9/b26w8g30w8r26w8g30y8k26-b2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="20.9" cy="209.8" r="4" fill="#3465a4"><title>Spirit of 1994 (Fashion)</title></circle></a><a href="/setts/s7/r6w16k18g32r24b24y6-b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800/"><circle cx="23.2" cy="216.8" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s9/r10y36k24r30ya8k16w18b16ya9-b2c2c80-k101010-r880000-we0e0e0-ya0a0a0-yabc8c00/"><circle cx="14.0" cy="201.7" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/setts/s11/b16g16b16w4ba4w4r16y16w4g16r16-b2c4084-ba141e46-g007800-r781c38-wffffff-ydc943c/"><circle cx="14.0" cy="204.9" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/setts/s7/k32y32r32g6b14w14k14-b2c2c80-g00881c-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="23.6" cy="200.6" r="4" fill="#3465a4"><title>Eusa (District)</title></circle></a><a href="/setts/s7/k32y32r32g6b14w14k14-b2c2c80-g288028-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="23.9" cy="200.6" r="4" fill="#3465a4"><title>Eusa</title></circle></a><a href="/setts/s8/g28w28b24y16ga6k6ga6k10-b2c4084-g005020-ga503c14-k101010-wc0c0c0-yec9d9d/"><circle cx="14.0" cy="200.7" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/setts/s8/w10g8b2g8r8b2ga8y2-b8080d0-g607030-ga004010-rc00000-we0e0e0-yf0c000/"><circle cx="42.7" cy="203.2" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s9/r6w4b12w4ba16y4g12y4r4-b1c0070-ba4c0000-g006818-r981c70-wc0c0c0-yd09800/"><circle cx="14.0" cy="198.8" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><circle cx="18.0" cy="203.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/y12r16k8w12g32k26ya38k10-g5c6428-k101010-r880000-we0e0e0-ybc8c00-yaa0a0a0/

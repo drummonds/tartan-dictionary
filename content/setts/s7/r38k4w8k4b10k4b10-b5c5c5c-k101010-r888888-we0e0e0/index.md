@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "N/10 K4 N10 K4 LN8 K4 Na/38 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kyle](/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k101010-we0e0e0/) — ΔT 0.66
+1. [Kyle](/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k000000-we0e0e0/) — ΔT 1.00
+1. [Auld Lang Syne (Philip King Tailoring)](/setts/s8/k6b6k6b42g42k6g6w6-b5c8ca8-g8c7038-k101010-w98c8e8/) — ΔT 1.10
+1. [Tiree Grey](/setts/s6/w12k12w12k12r60ra4-k101010-r888888-ra880000-wc0c0c0/) — ΔT 1.11
+1. [Beck-McSorley](/setts/s8/r6g6r6g42ra42r6ra6rb6-g003820-r9c68a4-ra888888-rbe87878/) — ΔT 1.11
+1. [Yale College of Wrexham (Corporate)](/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/) — ΔT 1.16
+1. [Newall (Dumbarton) (Personal)](/setts/s7/b60ba30w8g24w18b16w6-b5f749c-ba433a5a-g23321b-we5e0d2/) — ΔT 1.18
+1. [Downside (Corporate)](/setts/s6/r8ra82k10w28k36r8-k101010-rc80000-ra888888-we0e0e0/) — ΔT 1.18
+1. [Sonsub](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/) — ΔT 1.19
+1. [Beck-McSorley](/setts/s8/r6g6w6wa42g42w6g6w6-g285800-re87878-wc49cd8-wac0c0c0/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k101010-we0e0e0/"><circle cx="290.4" cy="190.2" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k000000-we0e0e0/"><circle cx="261.1" cy="178.4" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/setts/s8/k6b6k6b42g42k6g6w6-b5c8ca8-g8c7038-k101010-w98c8e8/"><circle cx="231.4" cy="199.7" r="4" fill="#3465a4"><title>Auld Lang Syne (Philip King Tailoring)</title></circle></a><a href="/setts/s6/w12k12w12k12r60ra4-k101010-r888888-ra880000-wc0c0c0/"><circle cx="289.6" cy="171.0" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/setts/s8/r6g6r6g42ra42r6ra6rb6-g003820-r9c68a4-ra888888-rbe87878/"><circle cx="232.6" cy="200.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/"><circle cx="223.5" cy="167.4" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/setts/s7/b60ba30w8g24w18b16w6-b5f749c-ba433a5a-g23321b-we5e0d2/"><circle cx="211.8" cy="205.2" r="4" fill="#3465a4"><title>Newall (Dumbarton) (Personal)</title></circle></a><a href="/setts/s6/r8ra82k10w28k36r8-k101010-rc80000-ra888888-we0e0e0/"><circle cx="222.6" cy="183.1" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/"><circle cx="253.4" cy="171.4" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/setts/s8/r6g6w6wa42g42w6g6w6-g285800-re87878-wc49cd8-wac0c0c0/"><circle cx="222.0" cy="184.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><circle cx="253.3" cy="187.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r38k4w8k4b10k4b10-b5c5c5c-k101010-r888888-we0e0e0/

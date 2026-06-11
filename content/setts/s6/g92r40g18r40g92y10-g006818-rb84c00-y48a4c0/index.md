@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/10 G92 DO40 G18 DO40 G/92 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [O'Neill (Australia)](/setts/s6/r40g80w10g80r40g18-g006818-r98481c-we0e0e0/) — ΔT 0.55
+1. [O'Neill, Red (Corporate?)](/setts/s4/g18r40g92y10-g006818-rb84c00-y48a4c0/) — ΔT 0.99
+1. [O'Neill (Australia) (Name)](/setts/s4/g18r40g80w10-g006818-r98481c-we0e0e0/) — ΔT 1.35
+1. [Highland Spring (Green)](/setts/s4/g14r6g46ra14-g008000-rc00000-ra802040/) — ΔT 1.50
+1. [Scott Autumn (Fashion)](/setts/s7/g32y6g28r32g4r4g6-g004c00-r8c0000-yc89800/) — ΔT 1.63
+1. [Logan](/setts/s7/g40r16g4r16g60ra16g4-g008000-rd03030-rac00000/) — ΔT 1.66
+1. [Colonial Marine (Corporate)](/setts/s4/g112ga26y26y10-g006818-ga604000-ybc8c00/) — ΔT 1.69
+1. [O'Neill](/setts/s4/g18y40g80w10-g008000-we0e0e0-yd08010/) — ΔT 1.76
+1. [Highland Spring (1997) (Corporate)](/setts/s4/b14g46r6g14-b440044-g006818-rc80000/) — ΔT 1.78
+1. [Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/g36r16y4-g006818-r888888-ye8c000/) — ΔT 1.79
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r40g80w10g80r40g18-g006818-r98481c-we0e0e0/"><circle cx="422.7" cy="290.1" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/setts/s4/g18r40g92y10-g006818-rb84c00-y48a4c0/"><circle cx="464.4" cy="283.7" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/setts/s4/g18r40g80w10-g006818-r98481c-we0e0e0/"><circle cx="414.1" cy="283.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/setts/s4/g14r6g46ra14-g008000-rc00000-ra802040/"><circle cx="475.8" cy="285.8" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/setts/s7/g32y6g28r32g4r4g6-g004c00-r8c0000-yc89800/"><circle cx="406.6" cy="258.2" r="4" fill="#3465a4"><title>Scott Autumn (Fashion)</title></circle></a><a href="/setts/s7/g40r16g4r16g60ra16g4-g008000-rd03030-rac00000/"><circle cx="445.4" cy="220.8" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s4/g112ga26y26y10-g006818-ga604000-ybc8c00/"><circle cx="459.0" cy="274.0" r="4" fill="#3465a4"><title>Colonial Marine (Corporate)</title></circle></a><a href="/setts/s4/g18y40g80w10-g008000-we0e0e0-yd08010/"><circle cx="406.7" cy="278.8" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s4/b14g46r6g14-b440044-g006818-rc80000/"><circle cx="472.9" cy="286.5" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/setts/s3/g36r16y4-g006818-r888888-ye8c000/"><circle cx="416.4" cy="299.3" r="4" fill="#3465a4"><title>Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="456.3" cy="281.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/g92r40g18r40g92y10-g006818-rb84c00-y48a4c0/

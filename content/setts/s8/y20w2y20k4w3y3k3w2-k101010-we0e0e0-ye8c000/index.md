@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/2 K3 Y3 LN3 K4 Y20 LN2 Y/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Guzzo Check (Personal)](/setts/s8/y20w2y20k4w3y3k3w2-k101010-wffffff-yffe600/) — ΔT 0.97
+1. [Virginia Quadricentennial](/setts/s13/w40r3w10r6w20k3w2k3w10ra4w2ra8w2-k101010-rbe7832-ra960032-wfafa96/) — ΔT 1.94
+1. [Morris (Welsh Name)](/setts/s8/b6b3y3b2y3b4y48b4-b202060-ye8c000/) — ΔT 2.03
+1. [Virginia Quadricentennial (District)](/setts/s13/y80ya6y20ya12y40k6y4k6y20r8y4r16y4-k101010-r901c38-yc4bc68-yaa08858/) — ΔT 2.12
+1. [Wilbers](/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/) — ΔT 2.19
+1. [Port Moresby City Pipes and Drums](/setts/s5/g4w6k10y66r4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 2.24
+1. [Bro-Dreger](/setts/s7/w6k10y6r6y64k4y6-k101010-r880000-we0e0e0-yb0840c/) — ΔT 2.24
+1. [Monoch Airline](/setts/s6/y8k12y2k2y32k4-k101010-yd09800/) — ΔT 2.26
+1. [Perry Ancient (Personal)](/setts/s5/y150k52k6y8k12-k101010-ye8c000/) — ΔT 2.27
+1. [Burt's Highlanders (Fashion)](/setts/s5/y80g26y12b26y44-b2c2c80-g006818-yfcb464/) — ΔT 2.27
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y20w2y20k4w3y3k3w2-k101010-wffffff-yffe600/"><circle cx="416.4" cy="170.9" r="4" fill="#3465a4"><title>Guzzo Check (Personal)</title></circle></a><a href="/setts/s13/w40r3w10r6w20k3w2k3w10ra4w2ra8w2-k101010-rbe7832-ra960032-wfafa96/"><circle cx="428.9" cy="101.8" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s8/b6b3y3b2y3b4y48b4-b202060-ye8c000/"><circle cx="473.9" cy="116.6" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/setts/s13/y80ya6y20ya12y40k6y4k6y20r8y4r16y4-k101010-r901c38-yc4bc68-yaa08858/"><circle cx="468.3" cy="123.8" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/"><circle cx="400.2" cy="152.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/setts/s5/g4w6k10y66r4-g309c18-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="423.3" cy="132.2" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/setts/s7/w6k10y6r6y64k4y6-k101010-r880000-we0e0e0-yb0840c/"><circle cx="470.1" cy="145.9" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/setts/s6/y8k12y2k2y32k4-k101010-yd09800/"><circle cx="448.7" cy="194.1" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><a href="/setts/s5/y150k52k6y8k12-k101010-ye8c000/"><circle cx="430.3" cy="153.4" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s5/y80g26y12b26y44-b2c2c80-g006818-yfcb464/"><circle cx="378.3" cy="248.9" r="4" fill="#3465a4"><title>Burt's Highlanders (Fashion)</title></circle></a><circle cx="432.9" cy="178.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/y20w2y20k4w3y3k3w2-k101010-we0e0e0-ye8c000/

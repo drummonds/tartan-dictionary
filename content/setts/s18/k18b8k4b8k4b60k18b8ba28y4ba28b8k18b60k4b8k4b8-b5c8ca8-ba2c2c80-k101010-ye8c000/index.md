@@ -33,4 +33,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | O | <code style="background-color:#DC943C;"><span style="color:#DC943C;filter:grayscale(1) invert(1) contrast(100);">#DC943C</span></code> `#DC943C` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.12 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Katsushika](/setts/s14/b44y4b2y4b20g4ga22g12ga22g4b20y4b2y4-b2c2c80-g808080-ga006818-ye8c000/) — ΔT 1.07
+1. [Blanton](/setts/s13/b48k4b4k4b4k20g10ba6g10k20b22k4b8-b1474b4-ba780078-g006818-k101010/) — ΔT 1.09
+1. [Home (Clans Originaux)](/setts/s14/g6b72k18r6k6r6k72r6k6r6k18b72g6b4-b1474b4-g289c18-k101010-rc80000/) — ΔT 1.16
+1. [Rankin](/setts/s16/b72g20r4g20w4g20r4k20b28r4b24r6b4r4b8w4-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.21
+1. [Rankin #2](/setts/s18/b72g20r4g20w4g20r4k20b28r4b24r4b24r6b4r4b8w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.23
+1. [State Seal of Oregon (Fashion)](/setts/s13/b8k14y6k6b68k34b8k10b8k14ya22b10y8-b1474b4-k101010-ybc8c00-yaa08858/) — ΔT 1.24
+1. [Hannay Blue (Fashion?)](/setts/s10/k18b8k4b8k4b60k18b8ba28y4-b5c8ca8-ba2c2c80-k101010-ye8c000/) — ΔT 1.28
+1. [Beck (Personal)](/setts/s15/k8w4b30r12b50w4k8w4b30w8k4w8k4w8k4-b2888c4-k101010-rcd0000-we0e0e0/) — ΔT 1.30
+1. [Illinois St.Andrews Society](/setts/s24/b12r6ba48b24y12ba12r4ba12y12ba24b4r4b12r4b4ba24y12ba12r4ba12y12b24ba48r6-b202060-ba5c8ca8-r880000-yb8b8b8/) — ΔT 1.31
+1. [Salem Scottish Dancers (Dance) #2](/setts/s14/b10ba10b60w8b8ba36w6b6w6ba36b8w8b60ba10-b14283c-ba1474b4-wf8f8f8/) — ΔT 1.32
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/b44y4b2y4b20g4ga22g12ga22g4b20y4b2y4-b2c2c80-g808080-ga006818-ye8c000/"><circle cx="289.3" cy="140.1" r="4" fill="#3465a4"><title>Katsushika</title></circle></a><a href="/setts/s13/b48k4b4k4b4k20g10ba6g10k20b22k4b8-b1474b4-ba780078-g006818-k101010/"><circle cx="278.1" cy="172.1" r="4" fill="#3465a4"><title>Blanton</title></circle></a><a href="/setts/s14/g6b72k18r6k6r6k72r6k6r6k18b72g6b4-b1474b4-g289c18-k101010-rc80000/"><circle cx="288.9" cy="129.9" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/setts/s16/b72g20r4g20w4g20r4k20b28r4b24r6b4r4b8w4-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="277.4" cy="115.3" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s18/b72g20r4g20w4g20r4k20b28r4b24r4b24r6b4r4b8w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="308.0" cy="119.1" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/setts/s13/b8k14y6k6b68k34b8k10b8k14ya22b10y8-b1474b4-k101010-ybc8c00-yaa08858/"><circle cx="240.6" cy="161.2" r="4" fill="#3465a4"><title>State Seal of Oregon (Fashion)</title></circle></a><a href="/setts/s10/k18b8k4b8k4b60k18b8ba28y4-b5c8ca8-ba2c2c80-k101010-ye8c000/"><circle cx="280.9" cy="159.2" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><a href="/setts/s15/k8w4b30r12b50w4k8w4b30w8k4w8k4w8k4-b2888c4-k101010-rcd0000-we0e0e0/"><circle cx="283.3" cy="136.4" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/setts/s24/b12r6ba48b24y12ba12r4ba12y12ba24b4r4b12r4b4ba24y12ba12r4ba12y12b24ba48r6-b202060-ba5c8ca8-r880000-yb8b8b8/"><circle cx="265.8" cy="147.6" r="4" fill="#3465a4"><title>Illinois St.Andrews Society</title></circle></a><a href="/setts/s14/b10ba10b60w8b8ba36w6b6w6ba36b8w8b60ba10-b14283c-ba1474b4-wf8f8f8/"><circle cx="297.2" cy="179.1" r="4" fill="#3465a4"><title>Salem Scottish Dancers (Dance) #2</title></circle></a><circle cx="295.2" cy="136.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s18/k18b8k4b8k4b60k18b8ba28y4ba28b8k18b60k4b8k4b8-b5c8ca8-ba2c2c80-k101010-ye8c000/

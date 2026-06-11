@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/20 K6 B20 K28 R4 G28 K/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fletcher](/setts/s7/b12k2b12k16r2g16k4-b304080-g008000-k000000-rc00000/) — ΔT 0.64
+1. [Campbell, The White Stripe](/setts/s6/b4k4b24k22g24w4-b304080-g008000-k000000-we0e0e0/) — ΔT 0.73
+1. [Wellington, or Waterloo](/setts/s6/b6g12k12b8r2b2-b5480b0-g008000-k000000-rc00000/) — ΔT 0.77
+1. [Fletcher of Dunans](/setts/s7/b12k2b12k16r2g16r4-b304080-g008000-k000000-rc00000/) — ΔT 0.81
+1. [Murray](/setts/s6/b4k4b24k16g22r4-b304080-g008000-k000000-rc00000/) — ΔT 0.83
+1. [Unnamed, No 115](/setts/s8/b20k12ba2g12k2g12ba2k12-b304080-ba5480b0-g008000-k000000/) — ΔT 0.83
+1. [Morrison](/setts/s6/k6g28k28g4b28r6-b304080-g008000-k000000-rc00000/) — ΔT 0.84
+1. [Unnamed, No 26](/setts/s6/w4b4g22k20b20w3-b304080-g008000-k000000-we0e0e0/) — ΔT 0.87
+1. [MacNeil of Colonsay](/setts/s7/b16g24w4g24k24b24k8-b304080-g008000-k000000-we0e0e0/) — ΔT 0.88
+1. [Unidentified No 31](/setts/s7/k16g16k2g16k16b16w4-b0596fa-g005020-k101010-we0e0e0/) — ΔT 0.89
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b12k2b12k16r2g16k4-b304080-g008000-k000000-rc00000/"><circle cx="154.8" cy="230.8" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s6/b4k4b24k22g24w4-b304080-g008000-k000000-we0e0e0/"><circle cx="126.2" cy="235.3" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/setts/s6/b6g12k12b8r2b2-b5480b0-g008000-k000000-rc00000/"><circle cx="126.0" cy="243.8" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/b12k2b12k16r2g16r4-b304080-g008000-k000000-rc00000/"><circle cx="144.1" cy="226.6" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/setts/s6/b4k4b24k16g22r4-b304080-g008000-k000000-rc00000/"><circle cx="149.3" cy="238.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s8/b20k12ba2g12k2g12ba2k12-b304080-ba5480b0-g008000-k000000/"><circle cx="142.4" cy="213.3" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s6/k6g28k28g4b28r6-b304080-g008000-k000000-rc00000/"><circle cx="133.8" cy="234.5" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s6/w4b4g22k20b20w3-b304080-g008000-k000000-we0e0e0/"><circle cx="114.6" cy="224.1" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s7/b16g24w4g24k24b24k8-b304080-g008000-k000000-we0e0e0/"><circle cx="117.3" cy="260.5" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k16g16k2g16k16b16w4-b0596fa-g005020-k101010-we0e0e0/"><circle cx="149.5" cy="250.4" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><circle cx="128.4" cy="237.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b20k6b20k28r4g28k8-b1474b4-g007800-k000000-rc80000/

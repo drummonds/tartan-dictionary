@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DG/4 T28 DG28 N8 T4 LG60 W/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hamilton of Brandon (Fashion)](/setts/s6/y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/) — ΔT 0.75
+1. [Fraser Yellow](/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 0.78
+1. [Fraser Yellow Tartan Tartan Number: 1709. Earliest known date: pre 2003 Similar to Vestiarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4w4y54g28y4b28y4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 0.83
+1. [Fraser, Yellow](/setts/s7/r4w4y54g28y4b28y4-b304080-g008000-rc00000-we0e0e0-yf0c000/) — ΔT 1.04
+1. [MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r68w6g8ga46w48k6g8-g006428-ga006818-k101010-rd05054-we0e0e0/) — ΔT 1.18
+1. [Drummond of Perth Dress (Dance)](/setts/s9/g82y6ga14b6w48g20ga14b14w6-b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00/) — ΔT 1.20
+1. [MacLachlan, dress](/setts/s7/r68w6g8ga46w48k6g8-g006030-ga008000-k000000-rd03030-we0e0e0/) — ΔT 1.20
+1. [Mostyn](/setts/s9/r40k4r4k4r4k16g48b4g6-b202060-g289c18-k101010-re87878/) — ΔT 1.20
+1. [Cornish National Small Set Tartan Tartan Number: 7651. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w4k22y22b6k2r2-b5c8ca8-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.22
+1. [Golden Wedding (Fashion)](/setts/s8/r8y44k32w2ra52k7ra7w3-k101010-rc80000-ra888888-we0e0e0-ybc8c00/) — ΔT 1.26
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y64k28w4g28k4ya12-g006818-k101010-we0e0e0-ya08858-yae8c000/"><circle cx="213.3" cy="162.6" r="4" fill="#3465a4"><title>Hamilton of Brandon (Fashion)</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b2c4084-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="222.0" cy="143.6" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="220.9" cy="143.1" r="4" fill="#3465a4"><title>Fraser Yellow Tartan Tartan Number: 1709. Earliest known date: pre 2003 Similar to Vestiarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4w4y54g28y4b28y4-b304080-g008000-rc00000-we0e0e0-yf0c000/"><circle cx="226.9" cy="144.7" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s7/r68w6g8ga46w48k6g8-g006428-ga006818-k101010-rd05054-we0e0e0/"><circle cx="152.2" cy="156.2" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g82y6ga14b6w48g20ga14b14w6-b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00/"><circle cx="209.1" cy="136.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s7/r68w6g8ga46w48k6g8-g006030-ga008000-k000000-rd03030-we0e0e0/"><circle cx="146.7" cy="152.6" r="4" fill="#3465a4"><title>MacLachlan, dress</title></circle></a><a href="/setts/s9/r40k4r4k4r4k16g48b4g6-b202060-g289c18-k101010-re87878/"><circle cx="221.1" cy="149.5" r="4" fill="#3465a4"><title>Mostyn</title></circle></a><a href="/setts/s6/w4k22y22b6k2r2-b5c8ca8-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="171.6" cy="160.4" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan Tartan Number: 7651. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r8y44k32w2ra52k7ra7w3-k101010-rc80000-ra888888-we0e0e0-ybc8c00/"><circle cx="204.9" cy="123.2" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><circle cx="208.6" cy="144.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g4ga28g28r8ga4y60w4-g003820-ga604000-r888888-wf8f8f8-yd0b87c/

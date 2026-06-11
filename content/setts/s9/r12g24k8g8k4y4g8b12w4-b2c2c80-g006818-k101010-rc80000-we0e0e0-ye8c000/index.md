@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Bisset](/setts/s9/r12g24k8g8k4y4g8b12w4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.74
+1. [Presbyterian Synod (US) (Corporate)](/setts/s11/b12r4b12y6g12k2g4w4g4k2g12-b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000/) — ΔT 0.80
+1. [Bisset](/setts/s9/r18g36k12g12k6y6g12b16w6-b000048-g408060-k000000-rc80000-we0e0e0-yfcb000/) — ΔT 0.88
+1. [MacShane (Clan)](/setts/s8/g36w8g36k8y56ya16w8r8-g003820-k101010-rc80000-wfcfcfc-ya08858-yabc8c00/) — ΔT 1.07
+1. [Presbyterian Synod of Living Waters (USA)](/setts/s14/b12r4b12y6g12k2g4w4g4k2g12k2g4w4-b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000/) — ΔT 1.11
+1. [Hislop (Name)](/setts/s8/w8k4b36g36k36wa6k36r6-b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8/) — ΔT 1.15
+1. [CSCA (Corporate)](/setts/s8/g10r8g38k20g16w8b36r8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.15
+1. [Wilson's, No 225](/setts/s9/g32ga4b26ba4k12y4g32ba4k24-b800080-ba5480b0-g008000-ga30a010-k000000-yf0c000/) — ΔT 1.16
+1. [Moskova](/setts/s12/b8g36k4r24k4g16b16y4k16w4g20k8-b2c2c80-g408060-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 1.21
+1. [Patel (2013)](/setts/s9/g6y4r20g20ga40g24ra6ga20w4-g003820-ga048888-r880000-rac80000-wfcfcfc-ye8c000/) — ΔT 1.24
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r12g24k8g8k4y4g8b12w4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="115.5" cy="186.5" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/setts/s11/b12r4b12y6g12k2g4w4g4k2g12-b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000/"><circle cx="119.6" cy="192.6" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/setts/s9/r18g36k12g12k6y6g12b16w6-b000048-g408060-k000000-rc80000-we0e0e0-yfcb000/"><circle cx="121.0" cy="183.5" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/setts/s8/g36w8g36k8y56ya16w8r8-g003820-k101010-rc80000-wfcfcfc-ya08858-yabc8c00/"><circle cx="125.0" cy="170.8" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/setts/s14/b12r4b12y6g12k2g4w4g4k2g12k2g4w4-b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000/"><circle cx="105.5" cy="174.8" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/setts/s8/w8k4b36g36k36wa6k36r6-b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8/"><circle cx="141.9" cy="174.5" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/setts/s8/g10r8g38k20g16w8b36r8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="138.1" cy="223.4" r="4" fill="#3465a4"><title>CSCA (Corporate)</title></circle></a><a href="/setts/s9/g32ga4b26ba4k12y4g32ba4k24-b800080-ba5480b0-g008000-ga30a010-k000000-yf0c000/"><circle cx="131.1" cy="168.5" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/setts/s12/b8g36k4r24k4g16b16y4k16w4g20k8-b2c2c80-g408060-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="144.2" cy="157.8" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/setts/s9/g6y4r20g20ga40g24ra6ga20w4-g003820-ga048888-r880000-rac80000-wfcfcfc-ye8c000/"><circle cx="163.4" cy="176.2" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><circle cx="134.6" cy="193.6" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/r12g24k8g8k4y4g8b12w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/

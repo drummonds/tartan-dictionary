@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Ka | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
 | N | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [McFly School](/setts/s13/r28k4b6k2y4k2b6k28b4b2k1k1w2-b1c0070-k101010-r888888-wc0c0c0-yd09800/) — ΔT 0.73
+1. [New Hampshire](/setts/s11/g112k4g4k24w4k24b4k4b16r12b56-b780078-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.77
+1. [El Dorado Hills Firefighters Pipes and Drums](/setts/s14/k10r2w4r2k52r6y2b20w2r6w2b20w2r6-b3f4441-k1c1714-rca2625-we5e0d2-ye0a126/) — ΔT 0.87
+1. [Cochrane Hunting](/setts/s15/g46r6g6r2g8r2g6r2g6b36r2ba47r6ba24y6-b480800-ba000048-g408060-ra00000-yfccc00/) — ΔT 0.94
+1. [Applestone](/setts/s14/b44r4b4r12b4r4b76k92r4ba84g4ba4g4ba30-b1870a4-ba441800-g808080-k000000-rff0000/) — ΔT 0.95
+1. [Gillies](/setts/s14/b176k30g18r24g40k6y16k6g40r24g18k30b48k72-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.97
+1. [MacDonald of Clanranald 3](/setts/s14/b40r4b6r12b64r4k64w4g60r12g8r4g8w2-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 0.97
+1. [El Dorado Hills P & D (Corporate)](/setts/s14/k10r2w4r2k52r6y2b20w2r6w2b20w2r6-b5c5c5c-k101010-rc80000-wfcfcfc-ybc8c00/) — ΔT 0.99
+1. [Sutherland (Clan)](/setts/s12/g12w4g48k24b6k4b4k4b24r2b2r6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.09
+1. [Jardine Dress Family Tartan Tartan Number: 2084. Earliest known date: pre 2003 Registered by Lord Lyon on 11th September, 1991. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r26k2r6k2r6k20w2b44w2k6g64k3-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.10
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r28k4b6k2y4k2b6k28b4b2k1k1w2-b1c0070-k101010-r888888-wc0c0c0-yd09800/"><circle cx="238.1" cy="89.2" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/setts/s11/g112k4g4k24w4k24b4k4b16r12b56-b780078-g006818-k101010-rc80000-we0e0e0/"><circle cx="269.8" cy="103.4" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/setts/s14/k10r2w4r2k52r6y2b20w2r6w2b20w2r6-b3f4441-k1c1714-rca2625-we5e0d2-ye0a126/"><circle cx="266.5" cy="88.4" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6b36r2ba47r6ba24y6-b480800-ba000048-g408060-ra00000-yfccc00/"><circle cx="191.5" cy="101.7" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s14/b44r4b4r12b4r4b76k92r4ba84g4ba4g4ba30-b1870a4-ba441800-g808080-k000000-rff0000/"><circle cx="188.9" cy="97.2" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/setts/s14/b176k30g18r24g40k6y16k6g40r24g18k30b48k72-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="200.2" cy="98.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s14/b40r4b6r12b64r4k64w4g60r12g8r4g8w2-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="191.8" cy="89.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald 3</title></circle></a><a href="/setts/s14/k10r2w4r2k52r6y2b20w2r6w2b20w2r6-b5c5c5c-k101010-rc80000-wfcfcfc-ybc8c00/"><circle cx="250.0" cy="80.3" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/setts/s12/g12w4g48k24b6k4b4k4b24r2b2r6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/"><circle cx="235.8" cy="119.2" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/setts/s12/r26k2r6k2r6k20w2b44w2k6g64k3-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="211.6" cy="93.2" r="4" fill="#3465a4"><title>Jardine Dress Family Tartan Tartan Number: 2084. Earliest known date: pre 2003 Registered by Lord Lyon on 11th September, 1991. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="246.5" cy="94.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/r56k8k12k4y8k4k12k56k8k4k2k2b4-b1c0070-k101010-r888888-yd09800/

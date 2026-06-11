@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/8 DR26 K22 N110 LN4 K5 LN/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Edinburgh, The University of](/setts/s7/k8r26k22b110w4k5w4-b145064-k101010-r781c38-we0e0e0/) — ΔT 0.77
+1. [Caledonian Mist](/setts/s7/b108k20ba8r4ba4w4ba20-b5c5c5c-ba780078-k101010-r888888-wfcfcfc/) — ΔT 1.04
+1. [Lion Brand Sportswear](/setts/s7/y8b2r30b84r12b8ya2-b142836-r800028-ya0a0a0-yac88c00/) — ΔT 1.21
+1. [Orkney Slate](/setts/s8/b8g74k8b42g11k2g16b4-b222222-g6a6a6a-k000000/) — ΔT 1.23
+1. [Connecticut State Police PB (Cor.)](/setts/s6/b84ba4b4ba34y16ba8-b646464-ba00008c-yc88c00/) — ΔT 1.29
+1. [Lochnagar Dress (Fashion)](/setts/s10/g10k2g66b2g18k18b10k2r4k8-b440044-g686868-k101010-r880000/) — ΔT 1.30
+1. [Connecticut State Police Pipe Band](/setts/s6/k84b4k4b34ba16y8-b5c5c5c-ba00008c-k141414-yc88c00/) — ΔT 1.30
+1. [McBrayer Blue (Personal)](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.31
+1. [Melrose Newbigging Grey (Name)](/setts/s10/b2k12b70k12b4ba6b2k12b4w2-b5c5c5c-ba440044-k101010-we0e0e0/) — ΔT 1.33
+1. [MacLaurin of Brioch](/setts/s7/b72k20g6r6g12k2y4-b2c4084-g005020-k101010-rdc0000-ye8c000/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k8r26k22b110w4k5w4-b145064-k101010-r781c38-we0e0e0/"><circle cx="423.6" cy="154.6" r="4" fill="#3465a4"><title>Edinburgh, The University of</title></circle></a><a href="/setts/s7/b108k20ba8r4ba4w4ba20-b5c5c5c-ba780078-k101010-r888888-wfcfcfc/"><circle cx="438.0" cy="131.8" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/setts/s7/y8b2r30b84r12b8ya2-b142836-r800028-ya0a0a0-yac88c00/"><circle cx="492.9" cy="150.5" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><a href="/setts/s8/b8g74k8b42g11k2g16b4-b222222-g6a6a6a-k000000/"><circle cx="429.3" cy="147.1" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/setts/s6/b84ba4b4ba34y16ba8-b646464-ba00008c-yc88c00/"><circle cx="378.2" cy="175.4" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/setts/s10/g10k2g66b2g18k18b10k2r4k8-b440044-g686868-k101010-r880000/"><circle cx="465.4" cy="133.3" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/setts/s6/k84b4k4b34ba16y8-b5c5c5c-ba00008c-k141414-yc88c00/"><circle cx="385.1" cy="182.8" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/"><circle cx="429.8" cy="112.1" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s10/b2k12b70k12b4ba6b2k12b4w2-b5c5c5c-ba440044-k101010-we0e0e0/"><circle cx="472.3" cy="121.8" r="4" fill="#3465a4"><title>Melrose Newbigging Grey (Name)</title></circle></a><a href="/setts/s7/b72k20g6r6g12k2y4-b2c4084-g005020-k101010-rdc0000-ye8c000/"><circle cx="389.0" cy="130.7" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><circle cx="429.4" cy="150.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/k8r26k22b110w4k5w4-b484c68-k101010-r780028-we0e0e0/

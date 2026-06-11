@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "Ba/12 B34 P8 B4 K22 G66 Y/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Tooth](/setts/s8/g10y2r4g50k28b38w8g4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.86
+1. [Shawlands International (Commem.)](/setts/s6/k6g88b54y12r20w6-b1c0070-g006818-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 0.89
+1. [Mission](/setts/s8/r8b56k4g44k8y8ga8k4-b5480b0-g008000-ga407050-k000000-r703000-ye0a0a0/) — ΔT 0.94
+1. [Bergen Scottish](/setts/s7/b10w6r24g74k24ba42w4-b2c2c80-ba202060-g006818-k101010-rc80000-wf8f8f8/) — ΔT 0.94
+1. [Iroquois Falls Centenary](/setts/s8/g36y12ga6w2ga6w2wa12b12-b000080-g006400-ga603311-wffffff-wa82cffd-y86c67c/) — ΔT 0.97
+1. [Hogg Dress (Name)](/setts/s9/b34r3b8ba4b8k24g34k2w6-b4880a0-ba1c1c50-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.98
+1. [Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.01
+1. [Souza Nery](/setts/s7/y8g44r6k34r6b74w6-b304080-g008000-k000000-rc00020-we0e0e0-yf0c000/) — ΔT 1.02
+1. [Macneil of Barra - Chief (Personal)](/setts/s7/w2r4b32k28g30k6y2-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.05
+1. [Wishart, hunting](/setts/s7/k4b4g32ba4y2ba26w4-b304080-ba000050-g008000-k000000-we0e0e0-yf0c000/) — ΔT 1.05
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g10y2r4g50k28b38w8g4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="189.0" cy="119.3" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/setts/s6/k6g88b54y12r20w6-b1c0070-g006818-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="207.1" cy="149.2" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/setts/s8/r8b56k4g44k8y8ga8k4-b5480b0-g008000-ga407050-k000000-r703000-ye0a0a0/"><circle cx="169.1" cy="132.9" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s7/b10w6r24g74k24ba42w4-b2c2c80-ba202060-g006818-k101010-rc80000-wf8f8f8/"><circle cx="165.2" cy="143.9" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/setts/s8/g36y12ga6w2ga6w2wa12b12-b000080-g006400-ga603311-wffffff-wa82cffd-y86c67c/"><circle cx="141.6" cy="127.4" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/setts/s9/b34r3b8ba4b8k24g34k2w6-b4880a0-ba1c1c50-g006818-k101010-rc80000-we0e0e0/"><circle cx="176.1" cy="138.4" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="215.0" cy="129.3" r="4" fill="#3465a4"><title>Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/y8g44r6k34r6b74w6-b304080-g008000-k000000-rc00020-we0e0e0-yf0c000/"><circle cx="152.1" cy="145.9" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/setts/s7/w2r4b32k28g30k6y2-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="146.7" cy="152.8" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/setts/s7/k4b4g32ba4y2ba26w4-b304080-ba000050-g008000-k000000-we0e0e0-yf0c000/"><circle cx="188.6" cy="137.1" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><circle cx="165.6" cy="142.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b12ba34bb8ba4k22g66y8-b5480b0-ba304080-bb800080-g008000-k000000-yf0c000/

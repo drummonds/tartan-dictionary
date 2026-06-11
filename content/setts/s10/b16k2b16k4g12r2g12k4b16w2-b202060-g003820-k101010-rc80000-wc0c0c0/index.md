@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.16 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Pendleton Dress](/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/) — ΔT 1.17
+1. [Pendleton Hunting](/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/) — ΔT 1.25
+1. [Hutchesons' Grammar School](/setts/s10/b8r6b60ba60ra8bb16ra8ba60b60r6-b14283c-ba2c2c80-bb5c8ca8-rc80000-ra888888/) — ΔT 1.45
+1. [de Vere-Austin (Clan)](/setts/s11/g28k16g42k4y10k4g42k22b36k4r10-b202060-g003820-k101010-r880000-ybc8c00/) — ΔT 1.46
+1. [Daks Muted blue Trade Tartan Tartan Number: 1725. Earliest known date: 1987 Submitted in 1981 as a potential Currie sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g5b12ba4y4ba22b3ba4g5-b2c2c80-ba202060-g604000-ya08858/) — ΔT 1.52
+1. [Dalmeny](/setts/s10/b16k2b16k4g12r2g12k4b16w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.53
+1. [New Club Centenary](/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b440044-ba2c2c80-g003820-r880000/) — ΔT 1.54
+1. [MacConnell](/setts/s10/b40g12b12w4g40r16g12r8g20y6-b003c64-g003820-r880000-wa8ace8-yb8b8b8/) — ΔT 1.58
+1. [Daks (Blue)](/setts/s8/g6b12ba4y4ba22b4ba4g6-b2c2c80-ba202060-g604000-ya08858/) — ΔT 1.64
+1. [Romantic Scotland (Madonna)](/setts/s9/b20ba4b16bb16b28bb32w4bb8y4-b14283c-ba780078-bb2c2c80-wf8f8f8-ye8c000/) — ΔT 1.66
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b6ba40g34r5g34k6g34y5g34ba40b6-b2c2c80-ba202060-g003820-k101010-rc80000-ye8c000/"><circle cx="315.4" cy="227.6" r="4" fill="#3465a4"><title>Pendleton Dress</title></circle></a><a href="/setts/s11/b4ba32g28r6g28k6g28y6g28ba32b4-b2c2c80-ba202060-g003820-k101010-rc80000-ya08858/"><circle cx="316.3" cy="233.0" r="4" fill="#3465a4"><title>Pendleton Hunting</title></circle></a><a href="/setts/s10/b8r6b60ba60ra8bb16ra8ba60b60r6-b14283c-ba2c2c80-bb5c8ca8-rc80000-ra888888/"><circle cx="285.1" cy="209.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/setts/s11/g28k16g42k4y10k4g42k22b36k4r10-b202060-g003820-k101010-r880000-ybc8c00/"><circle cx="298.7" cy="223.5" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s8/g5b12ba4y4ba22b3ba4g5-b2c2c80-ba202060-g604000-ya08858/"><circle cx="331.7" cy="256.4" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan Tartan Number: 1725. Earliest known date: 1987 Submitted in 1981 as a potential Currie sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/b16k2b16k4g12r2g12k4b16w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="288.5" cy="222.8" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/setts/s9/b8ba36r4ba4r4ba18g40ba6g8-b440044-ba2c2c80-g003820-r880000/"><circle cx="372.7" cy="238.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/setts/s10/b40g12b12w4g40r16g12r8g20y6-b003c64-g003820-r880000-wa8ace8-yb8b8b8/"><circle cx="275.1" cy="217.4" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/setts/s8/g6b12ba4y4ba22b4ba4g6-b2c2c80-ba202060-g604000-ya08858/"><circle cx="301.8" cy="270.6" r="4" fill="#3465a4"><title>Daks (Blue)</title></circle></a><a href="/setts/s9/b20ba4b16bb16b28bb32w4bb8y4-b14283c-ba780078-bb2c2c80-wf8f8f8-ye8c000/"><circle cx="268.0" cy="228.5" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><circle cx="326.9" cy="242.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b16k2b16k4g12r2g12k4b16w2-b202060-g003820-k101010-rc80000-wc0c0c0/

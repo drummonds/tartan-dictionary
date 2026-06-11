@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/10 B4 P28 LN4 K26 Y26 K4 Ya/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Culloden](/setts/s8/r10b4ba28w4k26y26k4ya6-b5c8ca8-ba780078-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/) — ΔT 0.94
+1. [Wilson's, No 110](/setts/s9/b6ba20w6k6g38r28b6k4y6-b5480b0-ba800080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.03
+1. [Bruce of Kinnaird](/setts/s10/r48g44k4w12k4y4k30ga12ra12w4-g408060-ga789484-k101010-rc80000-rae87878-wfcfcfc-yd8b000/) — ΔT 1.16
+1. [Young Presidents Organisation Dress](/setts/s8/r12y30b8ba24g24ga8r50w10-b441800-ba2c2c80-g006818-ga604000-rc80000-wfcfcfc-ye8c000/) — ΔT 1.19
+1. [Barrington Municipality](/setts/s7/y5ya3b6r8w5ra17k2-b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/) — ΔT 1.27
+1. [Casey (Personal)](/setts/s7/r10b4ba32k26y26k4w6-b5c8ca8-ba9058d8-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.28
+1. [Unidentified No 14](/setts/s9/r22b6ba10y4r4w4g22ba8y3-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0-ye8c000/) — ΔT 1.29
+1. [Unnamed No 14 Tartan Tartan Number: 1326. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r22b6ba10y4r4w4g22ba8y3-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/) — ΔT 1.30
+1. [Gordon, dress 5](/setts/s13/w12b6w36k10w10ba20r34y8r34ba20bb20ba4bb8-b304080-ba401000-bb5480b0-k000000-r906030-we0e0e0-yf0c000/) — ΔT 1.33
+1. [Wilson's, No 121](/setts/s7/b16ba12g4ga36w4r32k4-b5480b0-ba800080-g30a010-ga008000-k000000-rc00000-we0e0e0/) — ΔT 1.33
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r10b4ba28w4k26y26k4ya6-b5c8ca8-ba780078-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/"><circle cx="39.9" cy="145.4" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s9/b6ba20w6k6g38r28b6k4y6-b5480b0-ba800080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="62.2" cy="123.3" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/setts/s10/r48g44k4w12k4y4k30ga12ra12w4-g408060-ga789484-k101010-rc80000-rae87878-wfcfcfc-yd8b000/"><circle cx="60.6" cy="103.2" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/setts/s8/r12y30b8ba24g24ga8r50w10-b441800-ba2c2c80-g006818-ga604000-rc80000-wfcfcfc-ye8c000/"><circle cx="63.3" cy="157.9" r="4" fill="#3465a4"><title>Young Presidents Organisation Dress</title></circle></a><a href="/setts/s7/y5ya3b6r8w5ra17k2-b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/"><circle cx="70.0" cy="139.2" r="4" fill="#3465a4"><title>Barrington Municipality</title></circle></a><a href="/setts/s7/r10b4ba32k26y26k4w6-b5c8ca8-ba9058d8-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="59.5" cy="160.9" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/setts/s9/r22b6ba10y4r4w4g22ba8y3-b3c82af-ba2c4084-g005020-rdc0000-we0e0e0-ye8c000/"><circle cx="84.5" cy="161.0" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/setts/s9/r22b6ba10y4r4w4g22ba8y3-b5c8ca8-ba2c2c80-g006818-rc80000-we0e0e0-ye8c000/"><circle cx="83.6" cy="161.5" r="4" fill="#3465a4"><title>Unnamed No 14 Tartan Tartan Number: 1326. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w12b6w36k10w10ba20r34y8r34ba20bb20ba4bb8-b304080-ba401000-bb5480b0-k000000-r906030-we0e0e0-yf0c000/"><circle cx="25.6" cy="126.7" r="4" fill="#3465a4"><title>Gordon, dress 5</title></circle></a><a href="/setts/s7/b16ba12g4ga36w4r32k4-b5480b0-ba800080-g30a010-ga008000-k000000-rc00000-we0e0e0/"><circle cx="93.7" cy="149.2" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><circle cx="28.1" cy="138.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r10b4ra28w4k26y26k4y6-b5c8ca8-k101010-rc80000-rab468ac-we0e0e0-ye8c000/

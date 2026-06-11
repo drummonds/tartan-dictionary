@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Nb | <code style="background-color:#888888;"><span style="color:#888888;filter:grayscale(1) invert(1) contrast(100);">#888888</span></code> `#888888` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.24 |
 | W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/b26k6b6k6b6k20ba20w8r8w8ba20k20b28k6b6-b2c2c80-ba2888c4-k101010-rc80000-we0e0e0/) — ΔT 0.83
+1. [Trinity Presbyterian Church](/setts/s12/b6k12g6k8ba32k8g6k12b24r6b6r6-b2888c4-ba2c2c80-g289c18-k101010-rc80000/) — ΔT 0.90
+1. [Trinity Presbyterian Church (Corpora](/setts/s12/r6y6r6y24k12g6k8b32k8g6k12y6-b2c2c80-g5c6428-k101010-rc80000-y8098ac/) — ΔT 0.93
+1. [Meeting Professionals International](/setts/s10/r20k6w6k6w6k6r20k14b40ra6-b2c2c80-k101010-r888888-rac80000-we0e0e0/) — ΔT 0.99
+1. [Kilburnie (Fashion)](/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.14
+1. [Naysmith, William A (Personal)](/setts/s10/w8r4b28k8w8k6w6k4r4wa4-b1c0070-k101010-r880000-wc0c0c0-waa8ace8/) — ΔT 1.17
+1. [Rainbow (Canada)](/setts/s12/b12g4ga8b24r6y4r16y6ga12y6ga12y6-b1c0070-g048888-ga006818-ra00000-yb8b8b8/) — ΔT 1.24
+1. [Lopatinsky (Personal)](/setts/s10/b24r6w6r6w6r6b25k12ba36y6-b2c2c80-ba1480c8-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.26
+1. [Unidentified #47](/setts/s10/b40ba20y8ba8w8ba20r16ba8r16w8-b000064-ba788cb4-ra0783c-wc8c8c8-yc48800/) — ΔT 1.30
+1. [Caitriot](/setts/s9/w6b4ba28y16b28bb32ba26b4w6-b5f749c-ba505050-bb000048-wffffff-ya0a0a0/) — ΔT 1.34
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b26k6b6k6b6k20ba20w8r8w8ba20k20b28k6b6-b2c2c80-ba2888c4-k101010-rc80000-we0e0e0/"><circle cx="86.7" cy="198.3" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/b6k12g6k8ba32k8g6k12b24r6b6r6-b2888c4-ba2c2c80-g289c18-k101010-rc80000/"><circle cx="77.4" cy="193.0" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/setts/s12/r6y6r6y24k12g6k8b32k8g6k12y6-b2c2c80-g5c6428-k101010-rc80000-y8098ac/"><circle cx="81.5" cy="190.2" r="4" fill="#3465a4"><title>Trinity Presbyterian Church (Corpora</title></circle></a><a href="/setts/s10/r20k6w6k6w6k6r20k14b40ra6-b2c2c80-k101010-r888888-rac80000-we0e0e0/"><circle cx="96.9" cy="176.6" r="4" fill="#3465a4"><title>Meeting Professionals International</title></circle></a><a href="/setts/s17/b24k4b4k4r6k4ba12k4w4k4ba12k4y4k4b12k4r4-b2c2c80-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="80.6" cy="149.9" r="4" fill="#3465a4"><title>Kilburnie (Fashion)</title></circle></a><a href="/setts/s10/w8r4b28k8w8k6w6k4r4wa4-b1c0070-k101010-r880000-wc0c0c0-waa8ace8/"><circle cx="104.6" cy="166.3" r="4" fill="#3465a4"><title>Naysmith, William A (Personal)</title></circle></a><a href="/setts/s12/b12g4ga8b24r6y4r16y6ga12y6ga12y6-b1c0070-g048888-ga006818-ra00000-yb8b8b8/"><circle cx="65.3" cy="196.5" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/setts/s10/b24r6w6r6w6r6b25k12ba36y6-b2c2c80-ba1480c8-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="86.8" cy="166.3" r="4" fill="#3465a4"><title>Lopatinsky (Personal)</title></circle></a><a href="/setts/s10/b40ba20y8ba8w8ba20r16ba8r16w8-b000064-ba788cb4-ra0783c-wc8c8c8-yc48800/"><circle cx="93.3" cy="204.6" r="4" fill="#3465a4"><title>Unidentified #47</title></circle></a><a href="/setts/s9/w6b4ba28y16b28bb32ba26b4w6-b5f749c-ba505050-bb000048-wffffff-ya0a0a0/"><circle cx="110.0" cy="191.9" r="4" fill="#3465a4"><title>Caitriot</title></circle></a><circle cx="81.7" cy="181.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s14/r24b20ba6ra6ba6b6ba32b6ba6ra6ba6b20r24w8-b000064-ba2888c4-r880000-ra888888-wf8f8f8/

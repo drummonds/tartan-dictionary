@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LG/4 K12 LN12 LG4 K60 LN4 K12 R/40 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cunard O' The Clyde Corporate Tartan Tartan Number: 11296. Earliest known date: 2015 The Cunard on the Clyde tartan has been created to celebrate the historical link between the Cunard and the Clyde as part of the Cunard's 175th anniversary celebrations. It was presented to Cunard by Peel Ports on May 21st 2015. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r40k12w4k60y4w12k12y4-k101010-rbc1828-we0e0e0-yc4bc68/) — ΔT 0.16
+1. [Braemar, or Blair Atholl](/setts/s10/r4w8k20r12k4ra20k4ra44k4ra4-k000000-r806050-ra906030-we0e0e0/) — ΔT 0.99
+1. [Bro-Wened](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/) — ΔT 1.05
+1. [Woodberry Forest School (Corporate)](/setts/s10/r12k6w6k6w6k68r12g10r12k10-g289c18-k101010-rb03000-wf8f8f8/) — ΔT 1.08
+1. [Barbecue Plaid Tartan Tartan Number: 1607. Earliest known date: pre 1964 From STS member, Alex Lumsden in Toronto, Canada. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/y4k4r4w16k28r2k2r2k2r2-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.09
+1. [Barbecue Plaid (Fashion)](/setts/s10/y4k4r4w16k28r2k2r2k2r2-k000000-rc80000-wfcfcfc-ye8c000/) — ΔT 1.09
+1. [Fraser Gathering, Red](/setts/s9/r4b24r4g22r8b10g4r48w4-b000050-g008000-rc00000-we0e0e0/) — ΔT 1.09
+1. [Barbecue, Plaid](/setts/s10/y4k4r4w16k28r2k2r2k2r2-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.10
+1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4b16r2k31b2-b666666-k101010-rff0000-wffffff/) — ΔT 1.12
+1. [Phantom (Corporate)](/setts/s7/w6b20k76g22b12k4w6-b6c142c-g848484-k101010-we0e0e0/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r40k12w4k60y4w12k12y4-k101010-rbc1828-we0e0e0-yc4bc68/"><circle cx="302.5" cy="154.9" r="4" fill="#3465a4"><title>Cunard O' The Clyde Corporate Tartan Tartan Number: 11296. Earliest known date: 2015 The Cunard on the Clyde tartan has been created to celebrate the historical link between the Cunard and the Clyde as part of the Cunard's 175th anniversary celebrations. It was presented to Cunard by Peel Ports on May 21st 2015. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4w8k20r12k4ra20k4ra44k4ra4-k000000-r806050-ra906030-we0e0e0/"><circle cx="268.6" cy="160.6" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/"><circle cx="315.5" cy="163.9" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/setts/s10/r12k6w6k6w6k68r12g10r12k10-g289c18-k101010-rb03000-wf8f8f8/"><circle cx="323.5" cy="150.8" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/setts/s10/y4k4r4w16k28r2k2r2k2r2-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="274.3" cy="128.1" r="4" fill="#3465a4"><title>Barbecue Plaid Tartan Tartan Number: 1607. Earliest known date: pre 1964 From STS member, Alex Lumsden in Toronto, Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/y4k4r4w16k28r2k2r2k2r2-k000000-rc80000-wfcfcfc-ye8c000/"><circle cx="268.5" cy="129.0" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><a href="/setts/s9/r4b24r4g22r8b10g4r48w4-b000050-g008000-rc00000-we0e0e0/"><circle cx="261.7" cy="159.7" r="4" fill="#3465a4"><title>Fraser Gathering, Red</title></circle></a><a href="/setts/s10/y4k4r4w16k28r2k2r2k2r2-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="270.9" cy="130.9" r="4" fill="#3465a4"><title>Barbecue, Plaid</title></circle></a><a href="/setts/s8/r12k2w8k4b16r2k31b2-b666666-k101010-rff0000-wffffff/"><circle cx="235.5" cy="151.6" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s7/w6b20k76g22b12k4w6-b6c142c-g848484-k101010-we0e0e0/"><circle cx="312.1" cy="156.2" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><circle cx="301.9" cy="153.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/r40k12w4k60y4w12k12y4-k101010-rc80000-we0e0e0-yc4bc68/

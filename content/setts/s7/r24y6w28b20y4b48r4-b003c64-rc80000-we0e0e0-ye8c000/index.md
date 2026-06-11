@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/4 DB48 Y4 DB20 LN28 Y6 R/24 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Yusra (Personal)](/setts/s7/r24y6w28b20y4b48r4-b003c64-rc80000-we0e0e0-yfccc00/) — ΔT 0.05
+1. [Yusra Personal Tartan Tartan Number: 10455. Earliest known date: 6th April 2011 The colours used in the design are based on the colours of the Malaysian flag (blue/navy, red, yellow and white/cream) to represent the country of origin of part of the Yusra family. A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Archives of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r24k6w28b20k4b48r4-b003c64-k000000-rc80000-we0e0e0/) — ΔT 0.59
+1. [Downside (Corporate)](/setts/s6/r8ra82k10w28k36r8-k101010-rc80000-ra888888-we0e0e0/) — ΔT 0.75
+1. [Yale College of Wrexham (Corporate)](/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/) — ΔT 0.85
+1. [Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r4ra40k10w20k20r4-k101010-rc80000-ra888888-we0e0e0/) — ΔT 1.03
+1. [MacMillan](/setts/s9/k12r4k24g6k12w32g6w32k4-g8c7038-k101010-r980044-wc0c0c0/) — ΔT 1.08
+1. [Tiree Grey](/setts/s6/w12k12w12k12r60ra4-k101010-r888888-ra880000-wc0c0c0/) — ΔT 1.14
+1. [Oban Grey (Fashion)](/setts/s5/k16w16k16r60ra8-k101010-r888888-ra880000-wc0c0c0/) — ΔT 1.14
+1. [Hill of Banchory Primary (School)](/setts/s7/b4y24b32r4b32g24y4-b2c2c80-g289c18-rc80000-ye8c000/) — ΔT 1.19
+1. [Burberry Grey (Original)](/setts/s5/k20w28k20g80b4-b2c2c80-g7c7c7c-k101010-we0e0e0/) — ΔT 1.19
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r24y6w28b20y4b48r4-b003c64-rc80000-we0e0e0-yfccc00/"><circle cx="227.3" cy="181.2" r="4" fill="#3465a4"><title>Yusra (Personal)</title></circle></a><a href="/setts/s7/r24k6w28b20k4b48r4-b003c64-k000000-rc80000-we0e0e0/"><circle cx="226.2" cy="184.0" r="4" fill="#3465a4"><title>Yusra Personal Tartan Tartan Number: 10455. Earliest known date: 6th April 2011 The colours used in the design are based on the colours of the Malaysian flag (blue/navy, red, yellow and white/cream) to represent the country of origin of part of the Yusra family. A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Archives of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r8ra82k10w28k36r8-k101010-rc80000-ra888888-we0e0e0/"><circle cx="222.6" cy="183.1" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/"><circle cx="223.5" cy="167.4" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/setts/s6/r4ra40k10w20k20r4-k101010-rc80000-ra888888-we0e0e0/"><circle cx="172.8" cy="194.0" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k12r4k24g6k12w32g6w32k4-g8c7038-k101010-r980044-wc0c0c0/"><circle cx="207.1" cy="188.9" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/setts/s6/w12k12w12k12r60ra4-k101010-r888888-ra880000-wc0c0c0/"><circle cx="289.6" cy="171.0" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/setts/s5/k16w16k16r60ra8-k101010-r888888-ra880000-wc0c0c0/"><circle cx="241.6" cy="218.6" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/setts/s7/b4y24b32r4b32g24y4-b2c2c80-g289c18-rc80000-ye8c000/"><circle cx="232.9" cy="213.1" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/setts/s5/k20w28k20g80b4-b2c2c80-g7c7c7c-k101010-we0e0e0/"><circle cx="278.9" cy="176.9" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><circle cx="228.5" cy="182.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r24y6w28b20y4b48r4-b003c64-rc80000-we0e0e0-ye8c000/

@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacNiven](/setts/s9/g18ga2b5r45ba3b18ba3r5w2-b000050-ba304080-g008000-ga30a010-rc00000-we0e0e0/) — ΔT 0.63
+1. [MacNiven](/setts/s9/g36ga4b10r90w6b36w6r16wa4-b1c0070-g006818-ga289c18-r880000-wa8ace8-wac0c0c0/) — ΔT 0.72
+1. [King (Austria) (Personal)](/setts/s9/w4r4b28g32y4k4g4r70g2-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.82
+1. [Hogeboom (Personal)](/setts/s9/b8g6b18ba28y16ba4r70ra4r6-b5c8ca8-ba003c64-g006818-rc80000-rae87878-yfccc00/) — ΔT 0.91
+1. [MacLean of Duart #5](/setts/s11/b28k16y4k6w8k6g42r96b8r10k6-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/) — ΔT 0.92
+1. [MacArthur-Fox Dress (Personal)](/setts/s11/b8k4ba6r66g18w6r10ba20r12g4k4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-wfceca0/) — ΔT 0.98
+1. [Follower's Plaid Artifact Tartan Tartan Number: 1376. Earliest known date: 1745 Red pivot = 192 threads in original. W & Y are silk. Sindex title See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r96b16k20y4k6w4g50r20k6r6w4-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.99
+1. [Banause-Zunft zu Olte](/setts/s11/y4g8b2r6b6g6ga2r64b28w6y4-b003c64-g285800-ga289c18-r880000-we0e0e0-ye8c000/) — ΔT 1.02
+1. [Hewitt (Name)](/setts/s7/r60b24k6g24y4g6w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.03
+1. [Followers' Plaid](/setts/s11/r96b16k20y4k6w4g50r20k6r6w4-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g18ga2b5r45ba3b18ba3r5w2-b000050-ba304080-g008000-ga30a010-rc00000-we0e0e0/"><circle cx="253.9" cy="94.2" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s9/g36ga4b10r90w6b36w6r16wa4-b1c0070-g006818-ga289c18-r880000-wa8ace8-wac0c0c0/"><circle cx="277.4" cy="108.0" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s9/w4r4b28g32y4k4g4r70g2-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="286.1" cy="76.1" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/setts/s9/b8g6b18ba28y16ba4r70ra4r6-b5c8ca8-ba003c64-g006818-rc80000-rae87878-yfccc00/"><circle cx="234.0" cy="104.0" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/setts/s11/b28k16y4k6w8k6g42r96b8r10k6-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/"><circle cx="230.1" cy="74.7" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s11/b8k4ba6r66g18w6r10ba20r12g4k4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-wfceca0/"><circle cx="285.6" cy="97.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s11/r96b16k20y4k6w4g50r20k6r6w4-b5c8ca8-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="282.1" cy="78.0" r="4" fill="#3465a4"><title>Follower's Plaid Artifact Tartan Tartan Number: 1376. Earliest known date: 1745 Red pivot = 192 threads in original. W &amp; Y are silk. Sindex title See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/y4g8b2r6b6g6ga2r64b28w6y4-b003c64-g285800-ga289c18-r880000-we0e0e0-ye8c000/"><circle cx="305.8" cy="71.2" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/setts/s7/r60b24k6g24y4g6w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="228.6" cy="129.5" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/setts/s11/r96b16k20y4k6w4g50r20k6r6w4-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="278.8" cy="76.5" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><circle cx="271.1" cy="98.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/g18ga2b5r45ba3b18ba3r5w2-b202060-ba2c2c80-g006818-ga289c18-rc80000-we0e0e0/

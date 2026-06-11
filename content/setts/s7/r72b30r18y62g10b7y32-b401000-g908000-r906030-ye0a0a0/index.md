@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LR/32 DR7 LG10 LR62 LT18 DR30 LT/72 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Sydney (Nova Scotia) (District)](/setts/s8/r32k8w4k8r12ra22r4ra32-k101010-r888888-rab84c00-we0e0e0/) — ΔT 0.74
+1. [St Andrews](/setts/s8/r22b2r22w20b2ra22b2ra22-b304080-r806050-rac00000-we0e0e0/) — ΔT 0.77
+1. [Plaid Wine](/setts/s6/r96b20ra36b8ra36w36-b5c5c5c-r880000-raa07c58-we8ccb8/) — ΔT 0.77
+1. [Manhattan Ethnic](/setts/s7/y72b30y18r62ya10b8r32-b441800-re87878-ya08858-yabc8c00/) — ΔT 1.01
+1. [St. Andrews (Queens University) (Cor](/setts/s8/g22b2g22w20b2r22b2r22-b2c2c80-g604000-rc80000-we0e0e0/) — ΔT 1.03
+1. [Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r32k8w4k8r12ra22r4ra32-k101010-r888888-rac80000-we0e0e0/) — ΔT 1.03
+1. [Logan, Light](/setts/s7/b18r8b2r8g30ra8b2-b800080-g30a010-rd03030-rac00000/) — ΔT 1.10
+1. [Bannock Bane M.405](/setts/s8/b8r6b42r4w28ra44r6ra8-b3c3c3c-rdc0000-rabe7832-we0e0e0/) — ΔT 1.14
+1. [Prince of Orange](/setts/s5/b12y50r32k4b6-b304080-k000000-r806050-yff8500/) — ΔT 1.24
+1. [Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r24w4y6w4r6k10r4y36w4-k101010-rc80000-we0e0e0-ya08858/) — ΔT 1.27
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r32k8w4k8r12ra22r4ra32-k101010-r888888-rab84c00-we0e0e0/"><circle cx="243.8" cy="212.3" r="4" fill="#3465a4"><title>Sydney (Nova Scotia) (District)</title></circle></a><a href="/setts/s8/r22b2r22w20b2ra22b2ra22-b304080-r806050-rac00000-we0e0e0/"><circle cx="217.4" cy="198.1" r="4" fill="#3465a4"><title>St Andrews</title></circle></a><a href="/setts/s6/r96b20ra36b8ra36w36-b5c5c5c-r880000-raa07c58-we8ccb8/"><circle cx="233.9" cy="205.8" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/setts/s7/y72b30y18r62ya10b8r32-b441800-re87878-ya08858-yabc8c00/"><circle cx="245.0" cy="218.3" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/setts/s8/g22b2g22w20b2r22b2r22-b2c2c80-g604000-rc80000-we0e0e0/"><circle cx="200.4" cy="191.5" r="4" fill="#3465a4"><title>St. Andrews (Queens University) (Cor</title></circle></a><a href="/setts/s8/r32k8w4k8r12ra22r4ra32-k101010-r888888-rac80000-we0e0e0/"><circle cx="236.5" cy="203.2" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b18r8b2r8g30ra8b2-b800080-g30a010-rd03030-rac00000/"><circle cx="217.2" cy="173.5" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/setts/s8/b8r6b42r4w28ra44r6ra8-b3c3c3c-rdc0000-rabe7832-we0e0e0/"><circle cx="183.8" cy="171.9" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/setts/s5/b12y50r32k4b6-b304080-k000000-r806050-yff8500/"><circle cx="266.7" cy="190.6" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s9/r24w4y6w4r6k10r4y36w4-k101010-rc80000-we0e0e0-ya08858/"><circle cx="229.2" cy="166.0" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="226.8" cy="203.8" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r72b30r18y62g10b7y32-b401000-g908000-r906030-ye0a0a0/

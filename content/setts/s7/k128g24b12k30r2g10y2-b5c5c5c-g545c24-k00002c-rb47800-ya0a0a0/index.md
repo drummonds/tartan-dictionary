@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DB/128 G24 N12 DB30 DY2 G10 Na/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gibson, Robert (Personal)](/setts/s7/k20b60k20ba4k140r4k8-b0000cd-ba1474b4-k101010-rb458ac/) — ΔT 1.11
+1. [Scotch Whisky, Heritage](/setts/s8/b73g16b10r8b10k4b10w2-b000050-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.12
+1. [London Scottish Rugby Club](/setts/s6/r10k80w2k26g16ka8-g008000-k000030-ka000000-rc00000-we0e0e0/) — ΔT 1.17
+1. [Marine Harvest (Scotland)](/setts/s8/b20ba4k4b2k12ba2k90y4-b0000cd-ba778899-k101010-yffa500/) — ΔT 1.19
+1. [Scotch Whisky Heritage Centre](/setts/s8/b146g32b20r16b20k8b20w4-b202060-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.36
+1. [Scotch Whisky Heritage Corporate Tartan Tartan Number: 1920. Earliest known date: 1987 Half actual count for display. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b73g16b10r8b10k4b10w2-b202060-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.36
+1. [Brooks Brothers Signature (Corporate](/setts/s9/k10y2g14r2k90r10y6k8y6-g003820-k00002c-r880000-ybc8c00/) — ΔT 1.37
+1. [Center (Name)](/setts/s8/k100b4k26w2k26b10g30r4-b1474b4-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.43
+1. [Forand (Personal)](/setts/s5/k200r2ra20b20y4-b1c0070-k101010-rc80000-ra888888-ye8c000/) — ΔT 1.49
+1. [Marine Harvest Scotland (Corporate)](/setts/s8/b20w4k4b2k12w2k90y4-b1474b4-k101010-wc0c0c0-yd87c00/) — ΔT 1.62
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k20b60k20ba4k140r4k8-b0000cd-ba1474b4-k101010-rb458ac/"><circle cx="521.7" cy="162.7" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/setts/s8/b73g16b10r8b10k4b10w2-b000050-g008000-k000000-rc00000-we0e0e0/"><circle cx="499.9" cy="128.8" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/setts/s6/r10k80w2k26g16ka8-g008000-k000030-ka000000-rc00000-we0e0e0/"><circle cx="473.4" cy="146.9" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/setts/s8/b20ba4k4b2k12ba2k90y4-b0000cd-ba778899-k101010-yffa500/"><circle cx="547.8" cy="122.3" r="4" fill="#3465a4"><title>Marine Harvest (Scotland)</title></circle></a><a href="/setts/s8/b146g32b20r16b20k8b20w4-b202060-g006818-k101010-rc80000-we0e0e0/"><circle cx="538.0" cy="137.3" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/setts/s8/b73g16b10r8b10k4b10w2-b202060-g006818-k101010-rc80000-we0e0e0/"><circle cx="538.0" cy="137.3" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Corporate Tartan Tartan Number: 1920. Earliest known date: 1987 Half actual count for display. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k10y2g14r2k90r10y6k8y6-g003820-k00002c-r880000-ybc8c00/"><circle cx="505.5" cy="116.4" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/setts/s8/k100b4k26w2k26b10g30r4-b1474b4-g006818-k101010-rc80000-we0e0e0/"><circle cx="511.9" cy="129.0" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/setts/s5/k200r2ra20b20y4-b1c0070-k101010-rc80000-ra888888-ye8c000/"><circle cx="596.2" cy="135.4" r="4" fill="#3465a4"><title>Forand (Personal)</title></circle></a><a href="/setts/s8/b20w4k4b2k12w2k90y4-b1474b4-k101010-wc0c0c0-yd87c00/"><circle cx="536.6" cy="115.9" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><circle cx="531.6" cy="127.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/k128g24b12k30r2g10y2-b5c5c5c-g545c24-k00002c-rb47800-ya0a0a0/

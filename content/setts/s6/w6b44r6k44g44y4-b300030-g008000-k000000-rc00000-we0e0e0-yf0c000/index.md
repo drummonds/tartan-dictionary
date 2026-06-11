@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LN/6 DP44 R6 K44 G44 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scotch House 2000, dress](/setts/s7/g44w6k4y6k38r36ga8-g004010-ga30a010-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.94
+1. [Cowan, of Inveresk](/setts/s8/r8g32w4k30b30k4b4y4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.05
+1. [MacNeil 7](/setts/s7/w2r4b32k28g30k6y2-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.06
+1. [Cowan of Inveresk (Personal)](/setts/s8/r8g32w4k30b30k4b4y4-b2c2c80-g004c00-k000000-rc80000-wfcfcfc-ye8c000/) — ΔT 1.06
+1. [James](/setts/s7/b10ba24y4g50y4k24r10-b5480b0-ba000050-g003000-k000000-rc00000-yf0c000/) — ΔT 1.12
+1. [MacWilliam](/setts/s6/r10b24r4k30g36ba5-b304080-ba000050-g008000-k000000-rc00000/) — ΔT 1.13
+1. [Cumming LO](/setts/s9/b8k4b8k20g2ga20r8y2r8-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.14
+1. [Cumming LO](/setts/s9/b4k2b4k10g1ga10r4y1r4-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/) — ΔT 1.14
+1. [Forsyth](/setts/s6/k8g44y4k32b36r8-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 1.16
+1. [Leslie, hunting](/setts/s6/r4b16k16w2g16k2-b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.18
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g44w6k4y6k38r36ga8-g004010-ga30a010-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="97.1" cy="155.5" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/setts/s8/r8g32w4k30b30k4b4y4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="74.2" cy="162.0" r="4" fill="#3465a4"><title>Cowan, of Inveresk</title></circle></a><a href="/setts/s7/w2r4b32k28g30k6y2-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="129.4" cy="146.6" r="4" fill="#3465a4"><title>MacNeil 7</title></circle></a><a href="/setts/s8/r8g32w4k30b30k4b4y4-b2c2c80-g004c00-k000000-rc80000-wfcfcfc-ye8c000/"><circle cx="82.9" cy="165.9" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/setts/s7/b10ba24y4g50y4k24r10-b5480b0-ba000050-g003000-k000000-rc00000-yf0c000/"><circle cx="138.3" cy="163.0" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/setts/s6/r10b24r4k30g36ba5-b304080-ba000050-g008000-k000000-rc00000/"><circle cx="105.7" cy="205.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s9/b8k4b8k20g2ga20r8y2r8-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/"><circle cx="80.0" cy="164.7" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s9/b4k2b4k10g1ga10r4y1r4-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/"><circle cx="80.0" cy="164.7" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s6/k8g44y4k32b36r8-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="123.2" cy="196.1" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/setts/s6/r4b16k16w2g16k2-b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="103.6" cy="205.8" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><circle cx="96.7" cy="171.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/w6b44r6k44g44y4-b300030-g008000-k000000-rc00000-we0e0e0-yf0c000/

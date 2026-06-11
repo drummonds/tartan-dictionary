@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/92 R4 B6 R4 B28 G76 K6 G/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Strathdee (Personal)](/setts/s10/g50b20w2b10w2b20g50r2g6r4-b3850c8-g007460-rc80000-wf8f8f8/) — ΔT 1.01
+1. [Oliver Hunting - 1973 (Clan)](/setts/s9/b124g10b6g44k6g6y6g6k12-b2888c4-g408060-k101010-ye8c000/) — ΔT 1.10
+1. [Melville (Two black lines)](/setts/s6/b16k8b104g104w4g16-b1474b4-g285800-k101010-wfcfcfc/) — ΔT 1.16
+1. [Lockhart](/setts/s9/g26k4g68k12b32r4b32k4g26-b1474b4-g408060-k101010-rc80000/) — ΔT 1.27
+1. [Unidentified #6](/setts/s7/b8g6b4g38ba48g2ba4-b2c4084-ba3c82af-g005020/) — ΔT 1.33
+1. [Roxburgh](/setts/s8/b32w2b2w2b16g32r2b4-b2c4084-g005020-rdc0000-we0e0e0/) — ΔT 1.35
+1. [St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g100b40k6b4ga4b10-b2c2c80-g006818-ga604000-k101010/) — ΔT 1.35
+1. [Port Authority of NY & NJ](/setts/s6/b18ba4b78bb66y4bb10-b5c8ca8-ba1c0070-bb003c64-ybc8c00/) — ΔT 1.36
+1. [MacAuliffe/McAucliffe](/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/) — ΔT 1.37
+1. [Unidentified 1](/setts/s7/b8g6b4g38ba48g2ba4-b304080-ba5480b0-g008000/) — ΔT 1.43
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g50b20w2b10w2b20g50r2g6r4-b3850c8-g007460-rc80000-wf8f8f8/"><circle cx="436.1" cy="169.2" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/setts/s9/b124g10b6g44k6g6y6g6k12-b2888c4-g408060-k101010-ye8c000/"><circle cx="410.4" cy="151.6" r="4" fill="#3465a4"><title>Oliver Hunting - 1973 (Clan)</title></circle></a><a href="/setts/s6/b16k8b104g104w4g16-b1474b4-g285800-k101010-wfcfcfc/"><circle cx="366.3" cy="187.4" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/setts/s9/g26k4g68k12b32r4b32k4g26-b1474b4-g408060-k101010-rc80000/"><circle cx="370.6" cy="206.2" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/setts/s7/b8g6b4g38ba48g2ba4-b2c4084-ba3c82af-g005020/"><circle cx="388.5" cy="204.0" r="4" fill="#3465a4"><title>Unidentified #6</title></circle></a><a href="/setts/s8/b32w2b2w2b16g32r2b4-b2c4084-g005020-rdc0000-we0e0e0/"><circle cx="395.3" cy="191.4" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s6/g100b40k6b4ga4b10-b2c2c80-g006818-ga604000-k101010/"><circle cx="443.7" cy="182.5" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b18ba4b78bb66y4bb10-b5c8ca8-ba1c0070-bb003c64-ybc8c00/"><circle cx="378.1" cy="197.2" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/setts/s8/g76w4g12b48r12b4r6b4-b2c4084-g005020-rc87814-we0e0e0/"><circle cx="360.4" cy="173.5" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/setts/s7/b8g6b4g38ba48g2ba4-b304080-ba5480b0-g008000/"><circle cx="382.7" cy="199.5" r="4" fill="#3465a4"><title>Unidentified 1</title></circle></a><circle cx="406.2" cy="176.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/b92r4b6r4b28g76k6g8-b1474b4-g006818-k101010-rc80000/

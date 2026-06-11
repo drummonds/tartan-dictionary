@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LT/10 O5 LT54 O2 LR32 LTa54 B4 LTa/10 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Broons, The (DC Thomson)](/setts/s9/r6k2g16y2ga14y2g38gb50k2-g556b2f-ga603311-gb8b6508-k101010-rff0000-yffd700/) — ΔT 1.72
+1. [Desert in Bloom](/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/) — ΔT 1.82
+1. [O'Monaghan (Personal)](/setts/s10/g50w4b8y14b8w4ya50w4b8y14-b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00/) — ΔT 1.88
+1. [Willsher Wedding (Personal)](/setts/s9/b16r8w4r8b2r24g18b48ra8-b5c5c5c-g006818-r888888-ra880000-we8ccb8/) — ΔT 1.90
+1. [Rikaco Eve (Fashion)](/setts/s10/g8b8g4y72b28y4ba8g14r10y6-b5c5c5c-ba2888c4-g006818-rc80000-ya08858/) — ΔT 1.90
+1. [Golden Pheasant](/setts/s7/r24w8r6y36r6ya8g4-g289c18-re87878-we0e0e0-ya08858-yad8b000/) — ΔT 1.95
+1. [Clarks No.1](/setts/s10/b10ba4b22g4b4g12r34ra18b2r2-b32485c-ba6d8399-g5e633e-ra73e1d-rab07d0f/) — ΔT 1.96
+1. [Rikaco Morning Dew #2](/setts/s8/y6w6y2g50y30ya10w8yb4-g789484-w98c8e8-yb8b8b8-yae08070-ybe8c000/) — ΔT 2.00
+1. [Tricor](/setts/s12/g16w4g16ga24gb24r16g92r16gb24ga24g16w4-g8c7038-ga00643c-gb604000-r98481c-wc0c0c0/) — ΔT 2.04
+1. [Tasmanian](/setts/s11/r10w4g48y4g4y4g12y16r12y16ya8-g8c7038-r901c38-wf4c4c4-ya0a0a0-yac4bc68/) — ΔT 2.09
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r6k2g16y2ga14y2g38gb50k2-g556b2f-ga603311-gb8b6508-k101010-rff0000-yffd700/"><circle cx="317.0" cy="144.4" r="4" fill="#3465a4"><title>Broons, The (DC Thomson)</title></circle></a><a href="/setts/s8/y6ya24y24w6ya4yb52y6ya2-wf8f8f8-yf88410-yae8c000-yba89448/"><circle cx="374.5" cy="180.0" r="4" fill="#3465a4"><title>Desert in Bloom</title></circle></a><a href="/setts/s10/g50w4b8y14b8w4ya50w4b8y14-b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00/"><circle cx="208.3" cy="164.4" r="4" fill="#3465a4"><title>O'Monaghan (Personal)</title></circle></a><a href="/setts/s9/b16r8w4r8b2r24g18b48ra8-b5c5c5c-g006818-r888888-ra880000-we8ccb8/"><circle cx="345.6" cy="180.3" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s10/g8b8g4y72b28y4ba8g14r10y6-b5c5c5c-ba2888c4-g006818-rc80000-ya08858/"><circle cx="352.4" cy="156.6" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/setts/s7/r24w8r6y36r6ya8g4-g289c18-re87878-we0e0e0-ya08858-yad8b000/"><circle cx="282.1" cy="212.5" r="4" fill="#3465a4"><title>Golden Pheasant</title></circle></a><a href="/setts/s10/b10ba4b22g4b4g12r34ra18b2r2-b32485c-ba6d8399-g5e633e-ra73e1d-rab07d0f/"><circle cx="255.7" cy="178.4" r="4" fill="#3465a4"><title>Clarks No.1</title></circle></a><a href="/setts/s8/y6w6y2g50y30ya10w8yb4-g789484-w98c8e8-yb8b8b8-yae08070-ybe8c000/"><circle cx="370.3" cy="179.3" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/setts/s12/g16w4g16ga24gb24r16g92r16gb24ga24g16w4-g8c7038-ga00643c-gb604000-r98481c-wc0c0c0/"><circle cx="381.3" cy="178.7" r="4" fill="#3465a4"><title>Tricor</title></circle></a><a href="/setts/s11/r10w4g48y4g4y4g12y16r12y16ya8-g8c7038-r901c38-wf4c4c4-ya0a0a0-yac4bc68/"><circle cx="290.5" cy="170.2" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><circle cx="318.3" cy="167.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/g10y5g54y2w32ya54b4ya10-b1474b4-g8c7038-we8ccb8-ydc943c-yaa08858/

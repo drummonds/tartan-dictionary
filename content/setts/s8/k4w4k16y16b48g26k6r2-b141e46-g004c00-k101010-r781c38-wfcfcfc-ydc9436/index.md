@@ -29,4 +29,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DR/2 K6 G26 DB48 O16 K16 W4 K/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Vienna Highlander (Fashion)](/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/) — ΔT 0.71
+1. [Froben, Christian (Personal)](/setts/s8/k4w4k16y16b48g26k6r2-b202060-g006818-k101010-r880000-wfcfcfc-yfccc00/) — ΔT 0.78
+1. [Bergen Scottish](/setts/s7/b10w6r24g74k24ba42w4-b2c2c80-ba202060-g006818-k101010-rc80000-wf8f8f8/) — ΔT 0.82
+1. [Jones, The](/setts/s7/r6w4g20ga74k24b42w4-b000050-g505020-ga004010-k000000-rc00000-we0e0e0/) — ΔT 0.87
+1. [Whitson Family Tartan Tartan Number: 1422. Earliest known date: 1984 UK Design No 514358 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w8k2g38y2k38b26r4b8r4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.89
+1. [McGeachie (Personal)](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 0.92
+1. [Groen (Personal)](/setts/s11/b24r4b6r8b30k48g36y2k6g6w6-b506878-g184c20-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 0.95
+1. [MacNeil - 1840 (Chief's sett)](/setts/s7/w4r6b66k66g66k12y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 0.97
+1. [Ayre (Personal)](/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/) — ΔT 0.98
+1. [Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/"><circle cx="196.7" cy="117.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s8/k4w4k16y16b48g26k6r2-b202060-g006818-k101010-r880000-wfcfcfc-yfccc00/"><circle cx="162.0" cy="116.9" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s7/b10w6r24g74k24ba42w4-b2c2c80-ba202060-g006818-k101010-rc80000-wf8f8f8/"><circle cx="165.2" cy="143.9" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/setts/s7/r6w4g20ga74k24b42w4-b000050-g505020-ga004010-k000000-rc00000-we0e0e0/"><circle cx="193.7" cy="149.9" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/setts/s9/w8k2g38y2k38b26r4b8r4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="138.3" cy="124.8" r="4" fill="#3465a4"><title>Whitson Family Tartan Tartan Number: 1422. Earliest known date: 1984 UK Design No 514358 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="207.0" cy="117.2" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s11/b24r4b6r8b30k48g36y2k6g6w6-b506878-g184c20-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="170.2" cy="117.2" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/setts/s7/w4r6b66k66g66k12y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="176.8" cy="156.5" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/setts/s8/y6g28k18r4k18b36k6w2-b1c0070-g5c6428-k101010-rc80000-wf8f8f8-ye8c000/"><circle cx="154.3" cy="150.8" r="4" fill="#3465a4"><title>Ayre (Personal)</title></circle></a><a href="/setts/s8/g10y2r4g50k28b38w8g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="215.0" cy="129.3" r="4" fill="#3465a4"><title>Tooth Family Tartan Tartan Number: 922. Earliest known date: 1980 STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="182.3" cy="127.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k4w4k16y16b48g26k6r2-b141e46-g004c00-k101010-r781c38-wfcfcfc-ydc9436/

@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/4 B4 K4 B28 G32 K4 G4 Y/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Graden (Personal)](/setts/s9/b44g8k8g28w6g8w6g8k6-b203078-g006818-k101010-wc0c0c0/) — ΔT 0.84
+1. [Brunton (Personal)](/setts/s8/k14r6k54g54y6g6y6g6-g007c48-k101010-rc80000-yc4bc68/) — ΔT 0.91
+1. [Banff Centennial](/setts/s8/k4b4k4b48g48k4g4y4-b1870a4-g004c00-k000000-yfcb000/) — ΔT 0.95
+1. [Tweedside Hunting District Tartan Tartan Number: 163. Earliest known date: 20th Century A variation of Wilson's design. There is no record of this sett in any of the old collections which points to dating it in this century. It is the most popular of Tweedside district tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b42g10k10g30w6g10w6g10k6-b2c2c80-g006818-k101010-we0e0e0/) — ΔT 0.95
+1. [Michaluk (Personal)](/setts/s6/k12b16g80k80g12y12-b1474b4-g408060-k101010-ybc8c00/) — ΔT 1.06
+1. [Aiton](/setts/s8/b12k2g6k2b6k2g20r6-b304080-g008000-k000000-rc00000/) — ΔT 1.07
+1. [Louise](/setts/s11/g8k4b36k28g4k4g4k4g36r4g4-b304080-g008000-k000000-rc00000/) — ΔT 1.10
+1. [Flower of Scotland](/setts/s6/b3g28b3k16b28r3-b304080-g008000-k000000-rc00000/) — ΔT 1.12
+1. [Tweedside, hunting](/setts/s9/b42g10k10g30w6g10w6g10k6-b304080-g008000-k000000-we0e0e0/) — ΔT 1.13
+1. [Davidson, Half..](/setts/s6/k6g44b6g6b38r6-b304080-g008000-k000000-rc00000/) — ΔT 1.15
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b44g8k8g28w6g8w6g8k6-b203078-g006818-k101010-wc0c0c0/"><circle cx="213.1" cy="205.5" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/setts/s8/k14r6k54g54y6g6y6g6-g007c48-k101010-rc80000-yc4bc68/"><circle cx="248.8" cy="187.3" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/setts/s8/k4b4k4b48g48k4g4y4-b1870a4-g004c00-k000000-yfcb000/"><circle cx="271.2" cy="173.2" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/setts/s9/b42g10k10g30w6g10w6g10k6-b2c2c80-g006818-k101010-we0e0e0/"><circle cx="204.9" cy="208.9" r="4" fill="#3465a4"><title>Tweedside Hunting District Tartan Tartan Number: 163. Earliest known date: 20th Century A variation of Wilson's design. There is no record of this sett in any of the old collections which points to dating it in this century. It is the most popular of Tweedside district tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k12b16g80k80g12y12-b1474b4-g408060-k101010-ybc8c00/"><circle cx="231.2" cy="225.4" r="4" fill="#3465a4"><title>Michaluk (Personal)</title></circle></a><a href="/setts/s8/b12k2g6k2b6k2g20r6-b304080-g008000-k000000-rc00000/"><circle cx="222.0" cy="199.3" r="4" fill="#3465a4"><title>Aiton</title></circle></a><a href="/setts/s11/g8k4b36k28g4k4g4k4g36r4g4-b304080-g008000-k000000-rc00000/"><circle cx="190.3" cy="171.2" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s6/b3g28b3k16b28r3-b304080-g008000-k000000-rc00000/"><circle cx="203.7" cy="214.4" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s9/b42g10k10g30w6g10w6g10k6-b304080-g008000-k000000-we0e0e0/"><circle cx="185.6" cy="201.3" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/setts/s6/k6g44b6g6b38r6-b304080-g008000-k000000-rc00000/"><circle cx="262.5" cy="223.2" r="4" fill="#3465a4"><title>Davidson, Half..</title></circle></a><circle cx="220.5" cy="193.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s8/k4b4k4b28g32k4g4y4-b1870a4-g004c00-k000000-yfcb000/

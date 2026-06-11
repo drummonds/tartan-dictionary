@@ -30,4 +30,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "N/4 B64 DB16 DY4 DR4 DG32 P/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Anne Arundel County](/setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/) — ΔT 1.17
+1. [Unidentified Lady's kilt](/setts/s8/b78g6k28g6ba28y8w4bb4-b2c4084-ba3c82af-bb2a2303-g503c14-k101010-we0e0e0-ye8c000/) — ΔT 1.22
+1. [Scottish Italian](/setts/s8/b22ba10g8w6r6k32ba56wa4-b2c4084-ba003c64-g006400-k101010-rc80000-wffffff-wa98c8e8/) — ΔT 1.42
+1. [Stewmann (2009) (Personal)](/setts/s9/g48w8g6b22ba16b74k6b4y8-b00137c-ba6a1058-g003807-k101010-w5ea0f4-yd7a0b5/) — ΔT 1.44
+1. [Blue Ridge Highlands Heritage](/setts/s8/b54ba18w6g12ba66w6bb6y4-b5c8ca8-ba2c2c80-bb680028-g00643c-wa8ace8-ye8c000/) — ΔT 1.45
+1. [Freemasons' Universal](/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/) — ΔT 1.45
+1. [Margach, William (Personal)](/setts/s6/r8k6b36ra6ba68w6-b1474b4-ba003c64-k101010-ra8088c-rac8002c-we0e0e0/) — ΔT 1.48
+1. [Scottish Italian](/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/) — ΔT 1.48
+1. [U.S. 2001 Air Force (Military?)](/setts/s7/b98g6k44r4ba66bb6ba14-b2c2c80-ba1474b4-bb1c0070-g006818-k101010-rc80000/) — ΔT 1.49
+1. [Gamblin Thompson (Personal)](/setts/s6/b8g52r8k24ba92w4-b2888c4-ba2c2c80-g408060-k101010-rc80000-wfcfcfc/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/"><circle cx="190.4" cy="137.6" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s8/b78g6k28g6ba28y8w4bb4-b2c4084-ba3c82af-bb2a2303-g503c14-k101010-we0e0e0-ye8c000/"><circle cx="225.2" cy="110.3" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/setts/s8/b22ba10g8w6r6k32ba56wa4-b2c4084-ba003c64-g006400-k101010-rc80000-wffffff-wa98c8e8/"><circle cx="189.4" cy="142.0" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s9/g48w8g6b22ba16b74k6b4y8-b00137c-ba6a1058-g003807-k101010-w5ea0f4-yd7a0b5/"><circle cx="281.9" cy="144.1" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><a href="/setts/s8/b54ba18w6g12ba66w6bb6y4-b5c8ca8-ba2c2c80-bb680028-g00643c-wa8ace8-ye8c000/"><circle cx="258.4" cy="141.5" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s8/r4b32k16g2ba16y2ba4w4-b2c2c80-ba780078-g408060-k101010-rc80000-wfcfcfc-ybc8c00/"><circle cx="170.8" cy="120.2" r="4" fill="#3465a4"><title>Freemasons' Universal</title></circle></a><a href="/setts/s6/r8k6b36ra6ba68w6-b1474b4-ba003c64-k101010-ra8088c-rac8002c-we0e0e0/"><circle cx="271.3" cy="170.9" r="4" fill="#3465a4"><title>Margach, William (Personal)</title></circle></a><a href="/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/"><circle cx="203.0" cy="152.3" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s7/b98g6k44r4ba66bb6ba14-b2c2c80-ba1474b4-bb1c0070-g006818-k101010-rc80000/"><circle cx="256.2" cy="151.5" r="4" fill="#3465a4"><title>U.S. 2001 Air Force (Military?)</title></circle></a><a href="/setts/s6/b8g52r8k24ba92w4-b2888c4-ba2c2c80-g408060-k101010-rc80000-wfcfcfc/"><circle cx="263.4" cy="144.9" r="4" fill="#3465a4"><title>Gamblin Thompson (Personal)</title></circle></a><circle cx="242.4" cy="135.4" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/b8g32r4y4ba16bb64w4-b64008c-ba000050-bb4830a0-g003014-r8c0000-wc8c8c8-yc88c00/

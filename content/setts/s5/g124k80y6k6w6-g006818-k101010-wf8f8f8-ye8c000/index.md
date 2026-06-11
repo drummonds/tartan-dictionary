@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/124 K80 Y6 K6 W/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Moran (Name)](/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/) — ΔT 0.84
+1. [Wcwm 1255](/setts/s5/g12r4k56g56y4-g006818-k101010-r880000-yd09800/) — ΔT 1.13
+1. [MacArthur (Variant)](/setts/s6/r6g60k24g12k32y4-g006818-k101010-rc80000-ye8c000/) — ΔT 1.15
+1. [Merwe](/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.16
+1. [Shaw](/setts/s6/g48k4b6k4b16r4-b304080-g008000-k000000-rc00000/) — ΔT 1.18
+1. [Irvine](/setts/s5/g72b36k4b4w4-b304080-g008000-k000000-we0e0e0/) — ΔT 1.22
+1. [MacArthur-Fox Htg (Personal)](/setts/s6/r6g60k24g2k32y4-g006818-k101010-r880000-yd09800/) — ΔT 1.27
+1. [Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g110k34r18k22y4b8-b202060-g006818-k101010-rc8002c-ye8c000/) — ΔT 1.28
+1. [Moran](/setts/s6/g110k34r18k22y4k8-g008000-k000000-rc00020-yf0c000/) — ΔT 1.29
+1. [Forbes VS](/setts/s6/r1g16k8g3k4y1-g004c00-k000000-rc80000-yffc800/) — ΔT 1.31
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g110k34r18k22y4k8-g006818-k101010-rc8002c-ye8c000/"><circle cx="367.0" cy="168.2" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/setts/s5/g12r4k56g56y4-g006818-k101010-r880000-yd09800/"><circle cx="335.2" cy="219.8" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s6/r6g60k24g12k32y4-g006818-k101010-rc80000-ye8c000/"><circle cx="317.1" cy="211.1" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/setts/s6/g30y4k60g64r6w4-g006818-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="310.3" cy="182.3" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/setts/s6/g48k4b6k4b16r4-b304080-g008000-k000000-rc00000/"><circle cx="329.1" cy="188.2" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s5/g72b36k4b4w4-b304080-g008000-k000000-we0e0e0/"><circle cx="377.1" cy="190.4" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/setts/s6/r6g60k24g2k32y4-g006818-k101010-r880000-yd09800/"><circle cx="344.9" cy="180.9" r="4" fill="#3465a4"><title>MacArthur-Fox Htg (Personal)</title></circle></a><a href="/setts/s6/g110k34r18k22y4b8-b202060-g006818-k101010-rc8002c-ye8c000/"><circle cx="341.8" cy="152.6" r="4" fill="#3465a4"><title>Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g110k34r18k22y4k8-g008000-k000000-rc00020-yf0c000/"><circle cx="326.0" cy="153.4" r="4" fill="#3465a4"><title>Moran</title></circle></a><a href="/setts/s6/r1g16k8g3k4y1-g004c00-k000000-rc80000-yffc800/"><circle cx="337.9" cy="196.7" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><circle cx="360.0" cy="185.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/

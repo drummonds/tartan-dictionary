@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/2 DB8 G8 K8 Y1 G8 R/2 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brodie hunting](/setts/s7/r4b16g16k16y2k16r4-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 0.68
+1. [Lanark](/setts/s6/g62y8g12k38b36ba18-b304080-ba5480b0-g004010-k000000-yf0c000/) — ΔT 0.74
+1. [Rose Hunting](/setts/s6/g4w1g10k10b10r2-b00004c-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 0.87
+1. [BlackRock (Asymmetrical)](/setts/s7/w16r8k16ka40kb12ka6kb10-k101010-ka001e00-kb000028-rdc0000-we0e0e0/) — ΔT 0.89
+1. [Brodie Hunting](/setts/s7/r8b32g32k32y4k32r8-b5c8ca8-g006818-k101010-rc80000-yd09800/) — ΔT 0.93
+1. [Brodie Hunting Clan Tartan Tartan Number: 1334. Earliest known date: 1891 The Hunting Brodie first appears in Whyte's first edition of 1891, published by W. and A.K. Johnston, at which time it seems to have been a recent design. D.W. Stewart remarks in his book, 'Old And Rare..'(1893), "of late a green tartan has been sold as undress or hunting Brodie..." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4b16g16k16y2k16r4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.94
+1. [MacLeish](/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/) — ΔT 0.95
+1. [Brodie Hunting](/setts/s7/r4b16g16k16y2k16r4-b000052-g11450d-k000000-raa0000-yaaaa00/) — ΔT 1.01
+1. [Brodie Hunting](/setts/s7/r2b8g8k8y1k8r2-b000052-g11450d-k000000-raa0000-yaaaa00/) — ΔT 1.01
+1. [Vosko](/setts/s9/b50k24y8k18r12k18y8k24g50-b304080-g008000-k000000-rc00000-yf0c000/) — ΔT 1.06
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r4b16g16k16y2k16r4-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="135.4" cy="213.4" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s6/g62y8g12k38b36ba18-b304080-ba5480b0-g004010-k000000-yf0c000/"><circle cx="150.5" cy="225.7" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/setts/s6/g4w1g10k10b10r2-b00004c-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="153.0" cy="221.6" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/setts/s7/w16r8k16ka40kb12ka6kb10-k101010-ka001e00-kb000028-rdc0000-we0e0e0/"><circle cx="128.9" cy="209.1" r="4" fill="#3465a4"><title>BlackRock (Asymmetrical)</title></circle></a><a href="/setts/s7/r8b32g32k32y4k32r8-b5c8ca8-g006818-k101010-rc80000-yd09800/"><circle cx="152.9" cy="216.7" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/r4b16g16k16y2k16r4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="168.7" cy="224.9" r="4" fill="#3465a4"><title>Brodie Hunting Clan Tartan Tartan Number: 1334. Earliest known date: 1891 The Hunting Brodie first appears in Whyte's first edition of 1891, published by W. and A.K. Johnston, at which time it seems to have been a recent design. D.W. Stewart remarks in his book, 'Old And Rare..'(1893), &quot;of late a green tartan has been sold as undress or hunting Brodie...&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k36b24k10g8r12g24k4y8-b1c0070-g006818-k101010-rc80000-ybc8c00/"><circle cx="152.8" cy="207.1" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/setts/s7/r4b16g16k16y2k16r4-b000052-g11450d-k000000-raa0000-yaaaa00/"><circle cx="162.0" cy="228.3" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/r2b8g8k8y1k8r2-b000052-g11450d-k000000-raa0000-yaaaa00/"><circle cx="162.0" cy="228.3" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s9/b50k24y8k18r12k18y8k24g50-b304080-g008000-k000000-rc00000-yf0c000/"><circle cx="102.0" cy="203.5" r="4" fill="#3465a4"><title>Vosko</title></circle></a><circle cx="150.8" cy="222.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r2b8g8k8y1g8r2-b00004c-g004c00-k000000-rc80000-yffc800/

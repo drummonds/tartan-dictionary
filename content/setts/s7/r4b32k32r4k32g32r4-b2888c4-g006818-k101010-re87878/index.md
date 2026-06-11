@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "LR/4 B32 K32 LR4 K32 G32 LR/4 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Melville](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/) — ΔT 0.74
+1. [Flower of Scotland](/setts/s6/b3g28b3k16b28r3-b304080-g008000-k000000-rc00000/) — ΔT 0.79
+1. [Daks, Navy](/setts/s8/r5g12b4ba4b22g18b4r5-b000050-ba304080-g008000-rc00000/) — ΔT 0.83
+1. [MacArthur of Milton, hunting](/setts/s6/g28b4g4k16ba18k4-b304080-ba800080-g008000-k000000/) — ΔT 0.85
+1. [Scotsburn Croft](/setts/s9/y16k3y16k26b4k26r20k3r8-b780078-k101010-r888888-y48a4c0/) — ΔT 0.89
+1. [Blair](/setts/s7/b12r4b40k32g40r4g12-b304080-g008000-k000000-rc00000/) — ΔT 0.92
+1. [MacTavish / Thom(p)son, hunting](/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/) — ΔT 0.93
+1. [Fletcher of Dunans](/setts/s7/b12k2b12k16r2g16r4-b304080-g008000-k000000-rc00000/) — ΔT 0.94
+1. [U.S. Border Patrol](/setts/s8/k20b20k30g80k30b20k20y6-b1474b4-g408060-k101010-ye8c000/) — ΔT 0.95
+1. [Unidentified #28](/setts/s6/g4b8k12ba2g18k4-b0596fa-ba3c82af-g005020-k101010/) — ΔT 0.95
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/"><circle cx="164.1" cy="237.3" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/b3g28b3k16b28r3-b304080-g008000-k000000-rc00000/"><circle cx="203.7" cy="214.4" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s8/r5g12b4ba4b22g18b4r5-b000050-ba304080-g008000-rc00000/"><circle cx="172.1" cy="229.7" r="4" fill="#3465a4"><title>Daks, Navy</title></circle></a><a href="/setts/s6/g28b4g4k16ba18k4-b304080-ba800080-g008000-k000000/"><circle cx="175.4" cy="224.5" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/setts/s9/y16k3y16k26b4k26r20k3r8-b780078-k101010-r888888-y48a4c0/"><circle cx="194.9" cy="209.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/setts/s7/b12r4b40k32g40r4g12-b304080-g008000-k000000-rc00000/"><circle cx="163.7" cy="212.0" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/"><circle cx="199.9" cy="211.8" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><a href="/setts/s7/b12k2b12k16r2g16r4-b304080-g008000-k000000-rc00000/"><circle cx="144.1" cy="226.6" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/setts/s8/k20b20k30g80k30b20k20y6-b1474b4-g408060-k101010-ye8c000/"><circle cx="225.0" cy="201.4" r="4" fill="#3465a4"><title>U.S. Border Patrol</title></circle></a><a href="/setts/s6/g4b8k12ba2g18k4-b0596fa-ba3c82af-g005020-k101010/"><circle cx="226.1" cy="239.3" r="4" fill="#3465a4"><title>Unidentified #28</title></circle></a><circle cx="192.2" cy="224.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/

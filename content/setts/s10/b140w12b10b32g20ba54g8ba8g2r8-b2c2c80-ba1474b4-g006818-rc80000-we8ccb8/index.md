@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | LR | <code style="background-color:#E8CCB8;"><span style="color:#E8CCB8;filter:grayscale(1) invert(1) contrast(100);">#E8CCB8</span></code> `#E8CCB8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.11 |
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Connaught Ancestry (Fashion)](/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b2c2c80-ba5c5c5c-k101010-we8ccb8-ye8c000/) — ΔT 0.99
+1. [Connaught Ancestry](/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b0d4f8b-ba332c2c-k101010-wffffff-ycc7f32/) — ΔT 1.16
+1. [Glasgow Clyde College](/setts/s9/b96r2ba20r2b20y4ba54w2ra6-b5f749c-ba202060-rff0000-raa00048-wf8f8f8-ya0a0a0/) — ΔT 1.21
+1. [Schiehallion (Corporate)](/setts/s11/b28ba8g4ba4ga6ba4b34ba62b2ba2w4-b1870a4-ba202060-g408060-ga006818-wfcfcfc/) — ΔT 1.23
+1. [Seacliff Academy](/setts/s10/b92w2k6wa8k6ba6k4ba22k2wa4-b003c64-ba2474e8-k101010-wffffff-wa82cffd/) — ΔT 1.31
+1. [Parr Family Tartan Tartan Number: 439. Earliest known date: pre 2003 Almost nothing known about this tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/b124r2b4r2b8k28g8w4g12k8-b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.34
+1. [Skye District Tartan Tartan Number: 385. Earliest known date: 1984 See also 'Isle of Skye'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b90k20r4k4y4k4r20b10k2b10y2-b2c2c80-k101010-r888888-ye8c000/) — ΔT 1.40
+1. [Guide Dogs (Corporate)](/setts/s7/b134w2y12r10g50b6k10-b2c2c80-g003820-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 1.41
+1. [MacLaurin of Broich (Clan)](/setts/s7/b72k16g6r6g12k2y4-b200088-g006818-k101010-r880000-yd09800/) — ΔT 1.41
+1. [Glasgow Clyde College](/setts/s9/b96r2ba20r2b20bb4ba54w2ra6-b5c8ca8-ba202060-bb5c5c5c-rc80000-ra9c68a4-wfcfcfc/) — ΔT 1.44
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b2c2c80-ba5c5c5c-k101010-we8ccb8-ye8c000/"><circle cx="392.0" cy="124.4" r="4" fill="#3465a4"><title>Connaught Ancestry (Fashion)</title></circle></a><a href="/setts/s11/b8ba42b16k8b8y8b18ba18b76k2w6-b0d4f8b-ba332c2c-k101010-wffffff-ycc7f32/"><circle cx="395.9" cy="130.9" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/setts/s9/b96r2ba20r2b20y4ba54w2ra6-b5f749c-ba202060-rff0000-raa00048-wf8f8f8-ya0a0a0/"><circle cx="386.3" cy="90.8" r="4" fill="#3465a4"><title>Glasgow Clyde College</title></circle></a><a href="/setts/s11/b28ba8g4ba4ga6ba4b34ba62b2ba2w4-b1870a4-ba202060-g408060-ga006818-wfcfcfc/"><circle cx="349.8" cy="122.3" r="4" fill="#3465a4"><title>Schiehallion (Corporate)</title></circle></a><a href="/setts/s10/b92w2k6wa8k6ba6k4ba22k2wa4-b003c64-ba2474e8-k101010-wffffff-wa82cffd/"><circle cx="390.1" cy="81.9" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/setts/s10/b124r2b4r2b8k28g8w4g12k8-b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="488.8" cy="92.8" r="4" fill="#3465a4"><title>Parr Family Tartan Tartan Number: 439. Earliest known date: pre 2003 Almost nothing known about this tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/b90k20r4k4y4k4r20b10k2b10y2-b2c2c80-k101010-r888888-ye8c000/"><circle cx="449.2" cy="102.9" r="4" fill="#3465a4"><title>Skye District Tartan Tartan Number: 385. Earliest known date: 1984 See also 'Isle of Skye'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b134w2y12r10g50b6k10-b2c2c80-g003820-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="425.5" cy="107.0" r="4" fill="#3465a4"><title>Guide Dogs (Corporate)</title></circle></a><a href="/setts/s7/b72k16g6r6g12k2y4-b200088-g006818-k101010-r880000-yd09800/"><circle cx="394.6" cy="127.4" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/setts/s9/b96r2ba20r2b20bb4ba54w2ra6-b5c8ca8-ba202060-bb5c5c5c-rc80000-ra9c68a4-wfcfcfc/"><circle cx="366.9" cy="84.3" r="4" fill="#3465a4"><title>Glasgow Clyde College</title></circle></a><circle cx="420.2" cy="105.2" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/b140w12b10b32g20ba54g8ba8g2r8-b2c2c80-ba1474b4-g006818-rc80000-we8ccb8/

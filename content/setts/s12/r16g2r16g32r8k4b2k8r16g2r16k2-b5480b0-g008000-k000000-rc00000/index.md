@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacLeod and MacNicol](/setts/s12/r16g2r16g32r8k4b2k8r16g2r16k2-b3c82af-g005020-k101010-rdc0000/) — ΔT 0.76
+1. [MacQuarrie, Ancient](/setts/s12/r4b2r20k8r4g16r4g16r14k2r4b2-b304080-g008000-k000000-rc00000/) — ΔT 1.02
+1. [Drummond of Megginch - Child's Kilt (c.1890)](/setts/s15/r12b4r6g24r4g4r4b8r4w4r28b4r4b2r12-b000064-g004c00-rc80000-w98c8e8/) — ΔT 1.06
+1. [MacKillop](/setts/s10/g8r8k4r40b2k14r4g20r6k4-b5480b0-g008000-k000000-rc00000/) — ΔT 1.09
+1. [MacKillop Clan Tartan Tartan Number: 1001. Earliest known date: pre 2003 The MacKillops are a Sept of MacDonald of Keppoch, whose tartan this sett closely resembles. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g8r8k4r40b2k14r4g20r6k4-b5c8ca8-g006818-k101010-rc80000/) — ΔT 1.11
+1. [Grant, Kilt](/setts/s15/r10k2r4k4r32b4r4k18r4g4r4g26r4k4r8-b5480b0-g008000-k000000-rc00000/) — ΔT 1.13
+1. [Unidentified No 3 #2](/setts/s15/r10k2r4k4r32b4r4k18r4g4r4g26r4k4r8-b3c82af-g005020-k101010-rdc0000/) — ΔT 1.14
+1. [Cumming VS](/setts/s10/r4g8w1g8r4g4r2g4r24k2-g004c00-k000000-rc80000-wd0d0d0/) — ΔT 1.15
+1. [MacQuarrie Ancient](/setts/s12/r4b2r20k8r4g16r4g16r14k2r4b2-b2c4084-g005020-k101010-rdc0000/) — ΔT 1.15
+1. [MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)](/setts/s11/r32g8r32k32b4k12r8g60r32k8r24-b1c0070-g006818-k101010-rc80000/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r16g2r16g32r8k4b2k8r16g2r16k2-b3c82af-g005020-k101010-rdc0000/"><circle cx="333.6" cy="152.8" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/setts/s12/r4b2r20k8r4g16r4g16r14k2r4b2-b304080-g008000-k000000-rc00000/"><circle cx="258.4" cy="172.4" r="4" fill="#3465a4"><title>MacQuarrie, Ancient</title></circle></a><a href="/setts/s15/r12b4r6g24r4g4r4b8r4w4r28b4r4b2r12-b000064-g004c00-rc80000-w98c8e8/"><circle cx="326.2" cy="142.6" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/setts/s10/g8r8k4r40b2k14r4g20r6k4-b5480b0-g008000-k000000-rc00000/"><circle cx="291.6" cy="135.1" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s10/g8r8k4r40b2k14r4g20r6k4-b5c8ca8-g006818-k101010-rc80000/"><circle cx="317.6" cy="143.8" r="4" fill="#3465a4"><title>MacKillop Clan Tartan Tartan Number: 1001. Earliest known date: pre 2003 The MacKillops are a Sept of MacDonald of Keppoch, whose tartan this sett closely resembles. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r10k2r4k4r32b4r4k18r4g4r4g26r4k4r8-b5480b0-g008000-k000000-rc00000/"><circle cx="274.5" cy="124.7" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s15/r10k2r4k4r32b4r4k18r4g4r4g26r4k4r8-b3c82af-g005020-k101010-rdc0000/"><circle cx="294.9" cy="128.7" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s10/r4g8w1g8r4g4r2g4r24k2-g004c00-k000000-rc80000-wd0d0d0/"><circle cx="371.6" cy="137.7" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s12/r4b2r20k8r4g16r4g16r14k2r4b2-b2c4084-g005020-k101010-rdc0000/"><circle cx="275.8" cy="175.9" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/setts/s11/r32g8r32k32b4k12r8g60r32k8r24-b1c0070-g006818-k101010-rc80000/"><circle cx="270.7" cy="174.7" r="4" fill="#3465a4"><title>MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)</title></circle></a><circle cx="316.5" cy="149.9" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s12/r16g2r16g32r8k4b2k8r16g2r16k2-b5480b0-g008000-k000000-rc00000/

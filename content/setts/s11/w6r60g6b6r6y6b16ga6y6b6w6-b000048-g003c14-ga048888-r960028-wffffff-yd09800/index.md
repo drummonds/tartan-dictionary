@@ -25,4 +25,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 | W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.03 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacGlashan (Clan?)](/setts/s16/r48k4w4b12w4y4r4k4r4y4w4ba12k4r6y6w4-b5c5c5c-ba2474e8-k101010-r880000-we0e0e0-yd09800/) — ΔT 1.13
+1. [Strathclyde Fire Services (Corporate](/setts/s12/r74k6r14w6g6y6g4b20k12b6g6w8-b1c0070-g003820-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 1.18
+1. [Hueg Scottish Blue Thistle (Personal](/setts/s15/r4g8k4b50g8b8y4b4w4b10g6r14k4r6w4-b440044-g006818-k101010-rc80000-we8ccb8-ybc8c00/) — ΔT 1.21
+1. [McLinden, Thomas (Personal)](/setts/s11/r12b4r4b8r48ba4r4k16w4g24r4-b00008c-ba1474b4-g285800-k101010-rdc0000-wffffff/) — ΔT 1.23
+1. [Kilmorie](/setts/s11/k6r60g20k6y4k6w4k12r4b24w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.23
+1. [Robieson](/setts/s13/w6k6r48g6r6ka48r6g48r6ka6r48k6y6-g004000-k101010-ka000040-rff0000-wffffff-yffff00/) — ΔT 1.24
+1. [Gillespie](/setts/s9/r52b4k12y4g16r4k8b4w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.28
+1. [Gillespie](/setts/s9/r52g4k12y4ga16r4k8g4w4-g789484-ga003820-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.28
+1. [Hello Kitty Red](/setts/s10/w4g8k12g12r4b6r42g6r6y4-b0596fa-g603800-k000000-rb03000-wffffff-yffe600/) — ΔT 1.31
+1. [Royal & Ancient/Golfing Stewart](/setts/s10/y8r4k18r50k6r4k6r8b30w6-b2c2c80-k101010-rc80000-wffffff-ye8c000/) — ΔT 1.31
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r48k4w4b12w4y4r4k4r4y4w4ba12k4r6y6w4-b5c5c5c-ba2474e8-k101010-r880000-we0e0e0-yd09800/"><circle cx="202.1" cy="77.7" r="4" fill="#3465a4"><title>MacGlashan (Clan?)</title></circle></a><a href="/setts/s12/r74k6r14w6g6y6g4b20k12b6g6w8-b1c0070-g003820-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="250.6" cy="72.1" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/setts/s15/r4g8k4b50g8b8y4b4w4b10g6r14k4r6w4-b440044-g006818-k101010-rc80000-we8ccb8-ybc8c00/"><circle cx="243.8" cy="98.3" r="4" fill="#3465a4"><title>Hueg Scottish Blue Thistle (Personal</title></circle></a><a href="/setts/s11/r12b4r4b8r48ba4r4k16w4g24r4-b00008c-ba1474b4-g285800-k101010-rdc0000-wffffff/"><circle cx="247.2" cy="109.0" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/setts/s11/k6r60g20k6y4k6w4k12r4b24w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="186.2" cy="96.4" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s13/w6k6r48g6r6ka48r6g48r6ka6r48k6y6-g004000-k101010-ka000040-rff0000-wffffff-yffff00/"><circle cx="165.1" cy="113.4" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/setts/s9/r52b4k12y4g16r4k8b4w4-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="230.5" cy="102.3" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/setts/s9/r52g4k12y4ga16r4k8g4w4-g789484-ga003820-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="245.6" cy="106.1" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/setts/s10/w4g8k12g12r4b6r42g6r6y4-b0596fa-g603800-k000000-rb03000-wffffff-yffe600/"><circle cx="214.3" cy="120.8" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/setts/s10/y8r4k18r50k6r4k6r8b30w6-b2c2c80-k101010-rc80000-wffffff-ye8c000/"><circle cx="220.8" cy="129.6" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><circle cx="216.3" cy="100.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s11/w6r60g6b6r6y6b16ga6y6b6w6-b000048-g003c14-ga048888-r960028-wffffff-yd09800/

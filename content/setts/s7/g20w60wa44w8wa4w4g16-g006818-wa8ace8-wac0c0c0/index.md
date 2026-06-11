@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/16 LP4 N4 LP8 N44 LPa60 G/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Conquergood Family Tartan Tartan Number: 2095. Earliest known date: 1982 Designed to represent Canadian landscape in winter and sandy beaches in summer. Robert Conquergood, born in 1818 in Ormston, in the Parish of Roxburgh, Scotland, emigrated to Ontario, Canada with his father, also Robert, who was born in 1781. The Conquergood family in Canada approved this tartan at their 1990 biennial family reunion held at Kelowna, British Columbia. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b4ba4w22ba10r10w4b2ba4-b003c64-ba2888c4-r888888-we0e0e0/) — ΔT 1.57
+1. [Organic](/setts/s9/g50b6g16b26y16ya4yb22g4b6-b9058d8-g669999-yc89800-yaa0a0a0-ybc4bc68/) — ΔT 1.60
+1. [Ailsa, Grey (Fashion)](/setts/s9/r18w18r18b50r2w2r2w2g6-b5c5c5c-g00881c-r888888-we0e0e0/) — ΔT 1.60
+1. [North American Sheep Breeders Association](/setts/s7/r4w2y34r28w30r4w4-r888888-wf8e8d8-ya08858/) — ΔT 1.62
+1. [South Aiken Presby Church (Corporate](/setts/s6/y60g6b4w4b60ya8-b2888c4-g00a424-w98c8e8-yd0b06c-yad87c00/) — ΔT 1.66
+1. [Clyde](/setts/s10/w8b4w36r4b10g32r4g4r4g4-b505050-g808080-rc00000-wc0c0c0/) — ΔT 1.70
+1. [Alloway Primary (Corporate)](/setts/s8/y36r20w8b2wa60b2w8r20-b2c2c80-r888888-we0e0e0-wa98c8e8-yd8d458/) — ΔT 1.72
+1. [Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w8b4w36r4b10ra32r4ra4r4ra4-b5c5c5c-rc80000-ra888888-wc0c0c0/) — ΔT 1.73
+1. [Bannockbane Grey #2](/setts/s8/r4g4r30g4w20y30g4y4-g604000-r888888-we0e0e0-ya08858/) — ΔT 1.79
+1. [Hawaii (District)](/setts/s8/b16r4y4b48ba16g40y4r12-b5c8ca8-ba4c3428-g406054-rc80000-ye8c000/) — ΔT 1.84
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b4ba4w22ba10r10w4b2ba4-b003c64-ba2888c4-r888888-we0e0e0/"><circle cx="205.1" cy="183.8" r="4" fill="#3465a4"><title>Conquergood Family Tartan Tartan Number: 2095. Earliest known date: 1982 Designed to represent Canadian landscape in winter and sandy beaches in summer. Robert Conquergood, born in 1818 in Ormston, in the Parish of Roxburgh, Scotland, emigrated to Ontario, Canada with his father, also Robert, who was born in 1781. The Conquergood family in Canada approved this tartan at their 1990 biennial family reunion held at Kelowna, British Columbia. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g50b6g16b26y16ya4yb22g4b6-b9058d8-g669999-yc89800-yaa0a0a0-ybc4bc68/"><circle cx="266.5" cy="184.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/setts/s9/r18w18r18b50r2w2r2w2g6-b5c5c5c-g00881c-r888888-we0e0e0/"><circle cx="293.9" cy="144.5" r="4" fill="#3465a4"><title>Ailsa, Grey (Fashion)</title></circle></a><a href="/setts/s7/r4w2y34r28w30r4w4-r888888-wf8e8d8-ya08858/"><circle cx="273.1" cy="198.0" r="4" fill="#3465a4"><title>North American Sheep Breeders Association</title></circle></a><a href="/setts/s6/y60g6b4w4b60ya8-b2888c4-g00a424-w98c8e8-yd0b06c-yad87c00/"><circle cx="302.0" cy="172.5" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/setts/s10/w8b4w36r4b10g32r4g4r4g4-b505050-g808080-rc00000-wc0c0c0/"><circle cx="247.4" cy="176.9" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s8/y36r20w8b2wa60b2w8r20-b2c2c80-r888888-we0e0e0-wa98c8e8-yd8d458/"><circle cx="254.5" cy="140.1" r="4" fill="#3465a4"><title>Alloway Primary (Corporate)</title></circle></a><a href="/setts/s10/w8b4w36r4b10ra32r4ra4r4ra4-b5c5c5c-rc80000-ra888888-wc0c0c0/"><circle cx="260.9" cy="182.4" r="4" fill="#3465a4"><title>Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r4g4r30g4w20y30g4y4-g604000-r888888-we0e0e0-ya08858/"><circle cx="211.9" cy="209.7" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/setts/s8/b16r4y4b48ba16g40y4r12-b5c8ca8-ba4c3428-g406054-rc80000-ye8c000/"><circle cx="246.3" cy="185.6" r="4" fill="#3465a4"><title>Hawaii (District)</title></circle></a><circle cx="238.0" cy="187.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g20w60wa44w8wa4w4g16-g006818-wa8ace8-wac0c0c0/

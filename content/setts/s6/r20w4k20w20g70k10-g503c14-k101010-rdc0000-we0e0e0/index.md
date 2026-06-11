@@ -27,4 +27,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/10 T70 LN20 K20 LN4 R/20 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Loch Ness Trade Tartan Tartan Number: 1219. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r20w4k20w20g70k10-g604000-k101010-rc80000-we0e0e0/) — ΔT 0.22
+1. [Loch Ness](/setts/s6/r20w4k20w20ra70k10-k000000-rc00000-ra806050-we0e0e0/) — ΔT 0.58
+1. [Thomson Camel (Jedburgh Mill)](/setts/s6/r8k4w20k20g56k6-g8c7038-k101010-rc80000-wc0c0c0/) — ΔT 0.74
+1. [Braemar or Blair Atholl](/setts/s8/b8w8k24b12k8r56k4r4-b441800-k101010-ra07c58-wffffff/) — ΔT 0.90
+1. [Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4w16k28g50w4k4w4-g604000-k101010-rc80000-we0e0e0/) — ΔT 0.90
+1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4b16r2k31b2-b666666-k101010-rff0000-wffffff/) — ΔT 0.96
+1. [Ruthven (V.S.) (Name)](/setts/s6/w12g30b36r60g4r8-b202060-g006818-rc80000-we0e0e0/) — ΔT 0.97
+1. [Blair Atholl (Fashion)](/setts/s8/b8y8k24b12k8r56k4r4-b441800-k101010-ra07c58-yb8b8b8/) — ΔT 0.97
+1. [Unidentified 12](/setts/s6/k12r4g34r32k2b4-b5480b0-g008000-k000000-rc00000/) — ΔT 0.99
+1. [Island of Innis, The](/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/) — ΔT 1.00
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r20w4k20w20g70k10-g604000-k101010-rc80000-we0e0e0/"><circle cx="254.5" cy="170.2" r="4" fill="#3465a4"><title>Loch Ness Trade Tartan Tartan Number: 1219. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r20w4k20w20ra70k10-k000000-rc00000-ra806050-we0e0e0/"><circle cx="239.5" cy="162.9" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s6/r8k4w20k20g56k6-g8c7038-k101010-rc80000-wc0c0c0/"><circle cx="259.7" cy="177.5" r="4" fill="#3465a4"><title>Thomson Camel (Jedburgh Mill)</title></circle></a><a href="/setts/s8/b8w8k24b12k8r56k4r4-b441800-k101010-ra07c58-wffffff/"><circle cx="254.2" cy="155.3" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s7/r4w16k28g50w4k4w4-g604000-k101010-rc80000-we0e0e0/"><circle cx="231.9" cy="164.0" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r12k2w8k4b16r2k31b2-b666666-k101010-rff0000-wffffff/"><circle cx="235.5" cy="151.6" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s6/w12g30b36r60g4r8-b202060-g006818-rc80000-we0e0e0/"><circle cx="238.3" cy="184.7" r="4" fill="#3465a4"><title>Ruthven (V.S.) (Name)</title></circle></a><a href="/setts/s8/b8y8k24b12k8r56k4r4-b441800-k101010-ra07c58-yb8b8b8/"><circle cx="265.7" cy="160.8" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s6/k12r4g34r32k2b4-b5480b0-g008000-k000000-rc00000/"><circle cx="233.6" cy="171.5" r="4" fill="#3465a4"><title>Unidentified 12</title></circle></a><a href="/setts/s8/k60g4k12r36g4r12y44k4-g285800-k101010-ra00000-yd09800/"><circle cx="231.7" cy="163.5" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><circle cx="251.5" cy="170.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/r20w4k20w20g70k10-g503c14-k101010-rdc0000-we0e0e0/

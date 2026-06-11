@@ -34,4 +34,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/8 G16 K14 DB16 R/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Burnicle (2015)](/setts/s6/r56k28b56k28g56k28-b2c2c80-g146400-k101010-rdc0000/) — ΔT 1.26
+1. [Burnicle (2015)](/setts/s6/r56k28b56k28g56k28-b2c2c80-g006818-k101010-rc80000/) — ΔT 1.31
+1. [Austin (Wilson's No 173)](/setts/s5/b6k6b6g12y4-b5a008c-g005020-k101010-ye8c000/) — ΔT 1.43
+1. [Montrose of Alabama](/setts/s7/k24ka24r8ka24k24g24y8-g30a010-k000000-ka000030-rc00000-yf0c000/) — ΔT 1.50
+1. [Austin / Wilson's No 137](/setts/s5/b6k6b6g12r4-b800080-g008000-k000000-rc00000/) — ΔT 1.54
+1. [Austin WI](/setts/s5/b6k6b6g12k4-b6e5058-g11450d-k000000/) — ΔT 1.62
+1. [Austin WI](/setts/s5/b3k3b3g6k2-b6e5058-g11450d-k000000/) — ΔT 1.62
+1. [Melrose of Alabama](/setts/s7/k24b24r8b24k24g24y8-b00008c-g007800-k000000-r8c0000-yc88c00/) — ΔT 1.63
+1. [Denholm (Fashion)](/setts/s5/k10g40k36b40r10-b2c2c80-g006818-k000000-rc80000/) — ΔT 1.71
+1. [Denholm](/setts/s8/g16k14b16r4b16k14g16k4-b2c2c80-g006818-k000000-rc80000/) — ΔT 1.71
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r56k28b56k28g56k28-b2c2c80-g146400-k101010-rdc0000/"><circle cx="59.1" cy="322.1" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><a href="/setts/s6/r56k28b56k28g56k28-b2c2c80-g006818-k101010-rc80000/"><circle cx="65.0" cy="325.8" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><a href="/setts/s5/b6k6b6g12y4-b5a008c-g005020-k101010-ye8c000/"><circle cx="92.6" cy="303.7" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s7/k24ka24r8ka24k24g24y8-g30a010-k000000-ka000030-rc00000-yf0c000/"><circle cx="41.7" cy="279.3" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/setts/s5/b6k6b6g12r4-b800080-g008000-k000000-rc00000/"><circle cx="85.1" cy="294.8" r="4" fill="#3465a4"><title>Austin / Wilson's No 137</title></circle></a><a href="/setts/s5/b6k6b6g12k4-b6e5058-g11450d-k000000/"><circle cx="140.0" cy="332.9" r="4" fill="#3465a4"><title>Austin WI</title></circle></a><a href="/setts/s5/b3k3b3g6k2-b6e5058-g11450d-k000000/"><circle cx="140.0" cy="332.9" r="4" fill="#3465a4"><title>Austin WI</title></circle></a><a href="/setts/s7/k24b24r8b24k24g24y8-b00008c-g007800-k000000-r8c0000-yc88c00/"><circle cx="48.2" cy="283.1" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/setts/s5/k10g40k36b40r10-b2c2c80-g006818-k000000-rc80000/"><circle cx="108.1" cy="283.4" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s8/g16k14b16r4b16k14g16k4-b2c2c80-g006818-k000000-rc80000/"><circle cx="84.5" cy="282.6" r="4" fill="#3465a4"><title>Denholm</title></circle></a><circle cx="50.2" cy="336.1" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/k8g16k14b16r8-b2c2c80-g006818-k000000-rc80000/

@@ -36,4 +36,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/2 P6 B4 N58 W/36 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Cornish, National Day](/setts/s5/k10w4y72b94r6-b8080d0-k000000-rc00000-we0e0e0-yf0c000/) — ΔT 0.91
+1. [Cornish National Day District Tartan Tartan Number: 1262. Earliest known date: 1984 Sample presented by D.G.Teall. Proportionally similar to the usual Cornish National. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k10w4y72b94r6-b2888c4-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.12
+1. [Oliver Dress Pink](/setts/s5/k10w4y72b94r6-b2888c4-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.12
+1. [Galicia](/setts/s6/b106k4w106k4r8y14-b788cb4-k000000-r9c0000-wfcfcfc-yc89800/) — ΔT 1.20
+1. [Mount Vernon Primary School (Corp)](/setts/s5/w100b44r20wa4k4-b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0/) — ΔT 1.32
+1. [Kimon Andreou Family (Personal)](/setts/s4/w80b80r2k8-b5f749c-k1c1714-rca2625-wf9f5ef/) — ΔT 1.50
+1. [Cornish National Day](/setts/s8/k10w4y72b94r6b94y72w4-b2888c4-k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.53
+1. [Herriot (New Zealand) (Name)](/setts/s6/w15y2b5ya3ba40b10-b003c64-ba64809c-we0e0e0-ye8c000-yaa0a0a0/) — ΔT 1.55
+1. [Tartan Lassie (Fashion)](/setts/s6/w6b46y88b52g8ya4-b444890-g248814-we0e0e0-yeca0a0-yae8c000/) — ΔT 1.56
+1. [Nicolson of the Isles (Personal)](/setts/s7/w4r24y10wa70b8r8ya4-b6080d0-rc80000-we0e0e0-wa98c8e8-y80c86c-yae8c000/) — ΔT 1.57
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k10w4y72b94r6-b8080d0-k000000-rc00000-we0e0e0-yf0c000/"><circle cx="286.6" cy="135.9" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s5/k10w4y72b94r6-b2888c4-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="288.8" cy="144.9" r="4" fill="#3465a4"><title>Cornish National Day District Tartan Tartan Number: 1262. Earliest known date: 1984 Sample presented by D.G.Teall. Proportionally similar to the usual Cornish National. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k10w4y72b94r6-b2888c4-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="287.6" cy="144.3" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s6/b106k4w106k4r8y14-b788cb4-k000000-r9c0000-wfcfcfc-yc89800/"><circle cx="258.4" cy="111.7" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/setts/s5/w100b44r20wa4k4-b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0/"><circle cx="312.7" cy="136.6" r="4" fill="#3465a4"><title>Mount Vernon Primary School (Corp)</title></circle></a><a href="/setts/s4/w80b80r2k8-b5f749c-k1c1714-rca2625-wf9f5ef/"><circle cx="312.0" cy="152.1" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/setts/s8/k10w4y72b94r6b94y72w4-b2888c4-k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="294.0" cy="138.8" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/setts/s6/w15y2b5ya3ba40b10-b003c64-ba64809c-we0e0e0-ye8c000-yaa0a0a0/"><circle cx="291.5" cy="150.8" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s6/w6b46y88b52g8ya4-b444890-g248814-we0e0e0-yeca0a0-yae8c000/"><circle cx="288.4" cy="148.8" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/setts/s7/w4r24y10wa70b8r8ya4-b6080d0-rc80000-we0e0e0-wa98c8e8-y80c86c-yae8c000/"><circle cx="287.8" cy="113.9" r="4" fill="#3465a4"><title>Nicolson of the Isles (Personal)</title></circle></a><circle cx="322.4" cy="132.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/w36r58b4ba6k2-b2888c4-ba780078-k101010-r888888-wf8f8f8/

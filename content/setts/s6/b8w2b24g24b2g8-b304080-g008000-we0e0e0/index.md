@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "B/8 LN2 B24 G24 B2 G/8 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hamilton, hunting](/setts/s5/b22g4b30g36w4-b304080-g008000-we0e0e0/) — ΔT 0.88
+1. [Milligan](/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/) — ΔT 1.15
+1. [Harmony, 12](/setts/s6/b12g4b58g58b4g12-b304080-g008000/) — ΔT 1.16
+1. [Falconer of Labhdal (Personal)](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/) — ΔT 1.19
+1. [Hamilton, hunting](/setts/s5/b40g16b40g64w8-b304080-g008000-we0e0e0/) — ΔT 1.20
+1. [St. Dennis & Cranley School](/setts/s7/b4g48b16w4b16g16b4-b1c0070-g006818-wc0c0c0/) — ΔT 1.23
+1. [MacIntyre Hunting Clan Tartan Tartan Number: 743. Earliest known date: 1800 There is a doublet in Kingussie Museum dated 1800 in this tartan. It also appeared in the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g8b24r6b24g64w8-b2c2c80-g006818-rc80000-we0e0e0/) — ΔT 1.25
+1. [Outdoorsmen (Fashion)](/setts/s7/b12k4g16k4b16g36k8-b2474e8-g408060-k101010/) — ΔT 1.26
+1. [Rowan (Personal)](/setts/s5/g48y4b32k4b4-b2c2c80-g006818-k101010-yd09800/) — ΔT 1.31
+1. [Letham (S.Australia)](/setts/s8/g80k40b20k8b14g26k8b8-b2888c4-g006818-k101010/) — ΔT 1.35
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b22g4b30g36w4-b304080-g008000-we0e0e0/"><circle cx="327.2" cy="267.3" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s6/b104g42b12g32k8g32-b1870a4-g289c18-k101010/"><circle cx="351.0" cy="242.7" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/setts/s6/b12g4b58g58b4g12-b304080-g008000/"><circle cx="398.6" cy="245.7" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/"><circle cx="294.0" cy="244.7" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s5/b40g16b40g64w8-b304080-g008000-we0e0e0/"><circle cx="284.1" cy="280.1" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s7/b4g48b16w4b16g16b4-b1c0070-g006818-wc0c0c0/"><circle cx="367.2" cy="221.9" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s6/g8b24r6b24g64w8-b2c2c80-g006818-rc80000-we0e0e0/"><circle cx="303.6" cy="213.4" r="4" fill="#3465a4"><title>MacIntyre Hunting Clan Tartan Tartan Number: 743. Earliest known date: 1800 There is a doublet in Kingussie Museum dated 1800 in this tartan. It also appeared in the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b12k4g16k4b16g36k8-b2474e8-g408060-k101010/"><circle cx="296.0" cy="242.2" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/setts/s5/g48y4b32k4b4-b2c2c80-g006818-k101010-yd09800/"><circle cx="337.2" cy="221.4" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/setts/s8/g80k40b20k8b14g26k8b8-b2888c4-g006818-k101010/"><circle cx="296.5" cy="223.1" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><circle cx="337.5" cy="240.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s6/b8w2b24g24b2g8-b304080-g008000-we0e0e0/

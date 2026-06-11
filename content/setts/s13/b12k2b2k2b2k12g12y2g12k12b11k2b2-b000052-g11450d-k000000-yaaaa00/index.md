@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
 | LG | <code style="background-color:#AAAA00;"><span style="color:#AAAA00;filter:grayscale(1) invert(1) contrast(100);">#AAAA00</span></code> `#AAAA00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gordon](/setts/s13/b24k4b4k4b4k24g24y4g24k24b22k4b4-b000052-g11450d-k000000-yaaaa00/) — ΔT 0.00
+1. [Murray](/setts/s13/b6k1b1k1b1k6g6r2g6k6b6k1b2-b00004c-g004c00-k000000-rc80000/) — ΔT 0.34
+1. [Murray](/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b000052-g11450d-k000000-raa0000/) — ΔT 0.39
+1. [Murray](/setts/s13/b6k1b1k1b1k6g6r2g6k6b6k1b2-b000052-g11450d-k000000-raa0000/) — ΔT 0.39
+1. [Gordon](/setts/s13/b12k2b2k2b2k12g12y2g12k12b11k2b2-b00004c-g004c00-k000000-yffc800/) — ΔT 0.39
+1. [Urquhart L](/setts/s13/g16k2g2k2g2k16b16r2b16k16g16k2g2-b000052-g11450d-k000000-raa0000/) — ΔT 0.59
+1. [Urquhart L](/setts/s13/g8k1g1k1g1k8b8r1b8k8g8k1g1-b000052-g11450d-k000000-raa0000/) — ΔT 0.59
+1. [Urquhart L](/setts/s13/g8k1g1k1g1k8b8r1b8k8g8k1g1-b000064-g004c00-k000000-rc80000/) — ΔT 0.62
+1. [MacKinlay](/setts/s15/b12k4b4k4b4k12g16k2r4k2g16k12b16k4b4-b000052-g11450d-k000000-raa0000/) — ΔT 0.64
+1. [Forbes](/setts/s15/b16k2b4k2b4k12g16k2y4k2g16k12b16k2b4-b000052-g11450d-k000000-yaaaaaa/) — ΔT 0.65
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b24k4b4k4b4k24g24y4g24k24b22k4b4-b000052-g11450d-k000000-yaaaa00/"><circle cx="170.4" cy="225.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/b6k1b1k1b1k6g6r2g6k6b6k1b2-b00004c-g004c00-k000000-rc80000/"><circle cx="158.8" cy="228.2" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s13/b12k2b2k2b2k12g12r4g12k12b12k2b4-b000052-g11450d-k000000-raa0000/"><circle cx="167.6" cy="231.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s13/b6k1b1k1b1k6g6r2g6k6b6k1b2-b000052-g11450d-k000000-raa0000/"><circle cx="167.6" cy="231.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s13/b12k2b2k2b2k12g12y2g12k12b11k2b2-b00004c-g004c00-k000000-yffc800/"><circle cx="159.5" cy="220.4" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/g16k2g2k2g2k16b16r2b16k16g16k2g2-b000052-g11450d-k000000-raa0000/"><circle cx="192.4" cy="210.7" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s13/g8k1g1k1g1k8b8r1b8k8g8k1g1-b000052-g11450d-k000000-raa0000/"><circle cx="192.4" cy="210.7" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s13/g8k1g1k1g1k8b8r1b8k8g8k1g1-b000064-g004c00-k000000-rc80000/"><circle cx="178.3" cy="204.9" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s15/b12k4b4k4b4k12g16k2r4k2g16k12b16k4b4-b000052-g11450d-k000000-raa0000/"><circle cx="174.6" cy="216.9" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/setts/s15/b16k2b4k2b4k12g16k2y4k2g16k12b16k2b4-b000052-g11450d-k000000-yaaaaaa/"><circle cx="185.8" cy="203.7" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="170.4" cy="225.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s13/b12k2b2k2b2k12g12y2g12k12b11k2b2-b000052-g11450d-k000000-yaaaa00/

@@ -23,4 +23,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | N | <code style="background-color:#A0A0A0;"><span style="color:#A0A0A0;filter:grayscale(1) invert(1) contrast(100);">#A0A0A0</span></code> `#A0A0A0` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.20 |
 | T | <code style="background-color:#604000;"><span style="color:#604000;filter:grayscale(1) invert(1) contrast(100);">#604000</span></code> `#604000` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Shepherd, Derek (Modern)](/setts/s19/y4g2y4g2w2g2w16k80y10g80w20g2w10k30g2w14g2w2g2-g004f00-k101010-we8e8e8-ye47833/) — ΔT 1.05
+1. [Cooper](/setts/s18/r4ra6b4g64b6g2b6k28ra6b4ra6g24b2k2b60ra6b4ra4-b304080-g008000-k000000-rc00000-rad03030/) — ΔT 1.06
+1. [Gordon, Ancient](/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b304080-g008000-k000000-yf0c000/) — ΔT 1.30
+1. [Undiscovered Scotland](/setts/s20/w6k36w10k10g12ga2k12gb6g12gb100g12gb6k12ga2g12k10w10k36w6ga2-g006818-ga289c18-gb003820-k101010-w98c8e8/) — ΔT 1.33
+1. [Hammarby Football Club](/setts/s14/k2y4k36w4g4w4g4w4g4w4g44k2y4k2-g006818-k101010-wc0c0c0-yd09800/) — ΔT 1.42
+1. [Harbor Club](/setts/s18/g28k10y4k6g14k6y4k10g28r94g28k10y4k6g14k6y4k10-g006428-k101010-r800028-ye8c000/) — ΔT 1.50
+1. [Rankin, John (Personal)](/setts/s16/b4k2g30w4g30k2b4k2r4k40b4k4b4k4b50k2-b5f749c-g285800-k101010-rc82828-we0e0e0/) — ΔT 1.52
+1. [Black Onyx (Fashion)](/setts/s15/k60r66k2y2k2r16k2y4k2r6k2y6w4k2y14-k101010-r888888-we0e0e0-ya08858/) — ΔT 1.53
+1. [Nova Scotia (CIDD 20899)](/setts/s36/b50y16b8g8y1g1y1g1y1g1y1g1y1g1y1g1y20g40b12g24ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y28ga6g4-b2c2c80-g003820-ga289c18-ybc8c00/) — ΔT 1.56
+1. [13, Centennial Warp](/setts/s36/g52k4r6b28r1b1r1b1r1b1r1b1r1b1r1b1r8k24g12k4b20k1b1k1b1k1b1k1b1k1b1k1b1k8g8b16-b304080-g008000-k000000-r806050/) — ΔT 1.59
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s19/y4g2y4g2w2g2w16k80y10g80w20g2w10k30g2w14g2w2g2-g004f00-k101010-we8e8e8-ye47833/"><circle cx="231.1" cy="53.3" r="4" fill="#3465a4"><title>Shepherd, Derek (Modern)</title></circle></a><a href="/setts/s18/r4ra6b4g64b6g2b6k28ra6b4ra6g24b2k2b60ra6b4ra4-b304080-g008000-k000000-rc00000-rad03030/"><circle cx="219.9" cy="67.8" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s17/b56k2b2k2b6k24g48y2g2y4g2y2g48k24b36k2b8-b304080-g008000-k000000-yf0c000/"><circle cx="233.1" cy="105.1" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/setts/s20/w6k36w10k10g12ga2k12gb6g12gb100g12gb6k12ga2g12k10w10k36w6ga2-g006818-ga289c18-gb003820-k101010-w98c8e8/"><circle cx="244.0" cy="64.9" r="4" fill="#3465a4"><title>Undiscovered Scotland</title></circle></a><a href="/setts/s14/k2y4k36w4g4w4g4w4g4w4g44k2y4k2-g006818-k101010-wc0c0c0-yd09800/"><circle cx="270.2" cy="104.8" r="4" fill="#3465a4"><title>Hammarby Football Club</title></circle></a><a href="/setts/s18/g28k10y4k6g14k6y4k10g28r94g28k10y4k6g14k6y4k10-g006428-k101010-r800028-ye8c000/"><circle cx="258.2" cy="106.6" r="4" fill="#3465a4"><title>Harbor Club</title></circle></a><a href="/setts/s16/b4k2g30w4g30k2b4k2r4k40b4k4b4k4b50k2-b5f749c-g285800-k101010-rc82828-we0e0e0/"><circle cx="219.1" cy="96.2" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/setts/s15/k60r66k2y2k2r16k2y4k2r6k2y6w4k2y14-k101010-r888888-we0e0e0-ya08858/"><circle cx="304.6" cy="76.4" r="4" fill="#3465a4"><title>Black Onyx (Fashion)</title></circle></a><a href="/setts/s36/b50y16b8g8y1g1y1g1y1g1y1g1y1g1y1g1y20g40b12g24ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y28ga6g4-b2c2c80-g003820-ga289c18-ybc8c00/"><circle cx="239.0" cy="27.4" r="4" fill="#3465a4"><title>Nova Scotia (CIDD 20899)</title></circle></a><a href="/setts/s36/g52k4r6b28r1b1r1b1r1b1r1b1r1b1r1b1r8k24g12k4b20k1b1k1b1k1b1k1b1k1b1k1b1k8g8b16-b304080-g008000-k000000-r806050/"><circle cx="238.2" cy="27.1" r="4" fill="#3465a4"><title>13, Centennial Warp</title></circle></a><circle cx="259.4" cy="69.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s19/g80ga10k80y16g2y2g2ga4g2ga4g2y2g2y14g2k30y10g2y20-g006818-ga604000-k101010-ya0a0a0/

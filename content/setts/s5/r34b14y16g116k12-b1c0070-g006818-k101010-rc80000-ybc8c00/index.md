@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "K/12 G116 DY16 DB14 R/34 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Asheville Firefighters, The](/setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/) — ΔT 1.07
+1. [Tulloch Homes](/setts/s7/g6ga14r9b7r9ga54y6-b102040-g30a010-ga004010-r800000-yffe000/) — ΔT 1.10
+1. [Tulloch Homes](/setts/s7/g6ga14r9b7r9ga54y6-b14283c-g289c18-ga006818-rc80000-ye8c000/) — ΔT 1.12
+1. [Dundhuin Hunting (Personal)](/setts/s5/g124ga34y24b16r16-b5f749c-g23321b-ga649848-r905966-yf8e38c/) — ΔT 1.13
+1. [Wilson's No.192](/setts/s4/b8g20r2y2-b440044-g006818-rc80000-ye8c000/) — ΔT 1.22
+1. [O'Neill (Name)](/setts/s8/w12g10r10g90k8y48k8g10-g006818-k101010-ra00024-we0e0e0-ya08858/) — ΔT 1.27
+1. [Crieff and Strathearn District Tartan Tartan Number: 664. Earliest known date: 1988 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/g110b14r48g24ba8y6ba8-b780078-ba2c2c80-g006818-rc80000-ye8c000/) — ΔT 1.29
+1. [Bacon, Green (Fashion)](/setts/s4/g28k6r6y4-g006818-k101010-r880000-yb8b8b8/) — ΔT 1.31
+1. [Clare (Prince George) (Personal)](/setts/s5/b10y10ba26g82r6-b433a5a-ba5d321f-g649848-rca2625-ye0a126/) — ΔT 1.34
+1. [Crieff, and Strathearn](/setts/s7/g110b14r48g24ba8y6ba8-b800080-ba304080-g008000-rc00000-yf0c000/) — ΔT 1.35
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k17g48y4r10b12g4-b202060-g006818-k101010-rc80000-ye8c000/"><circle cx="275.8" cy="187.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s7/g6ga14r9b7r9ga54y6-b102040-g30a010-ga004010-r800000-yffe000/"><circle cx="350.4" cy="190.7" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/setts/s7/g6ga14r9b7r9ga54y6-b14283c-g289c18-ga006818-rc80000-ye8c000/"><circle cx="355.4" cy="189.3" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/setts/s5/g124ga34y24b16r16-b5f749c-g23321b-ga649848-r905966-yf8e38c/"><circle cx="267.5" cy="199.2" r="4" fill="#3465a4"><title>Dundhuin Hunting (Personal)</title></circle></a><a href="/setts/s4/b8g20r2y2-b440044-g006818-rc80000-ye8c000/"><circle cx="356.7" cy="229.4" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/setts/s8/w12g10r10g90k8y48k8g10-g006818-k101010-ra00024-we0e0e0-ya08858/"><circle cx="296.6" cy="164.5" r="4" fill="#3465a4"><title>O'Neill (Name)</title></circle></a><a href="/setts/s7/g110b14r48g24ba8y6ba8-b780078-ba2c2c80-g006818-rc80000-ye8c000/"><circle cx="363.7" cy="155.5" r="4" fill="#3465a4"><title>Crieff and Strathearn District Tartan Tartan Number: 664. Earliest known date: 1988 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g28k6r6y4-g006818-k101010-r880000-yb8b8b8/"><circle cx="346.8" cy="248.5" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s5/b10y10ba26g82r6-b433a5a-ba5d321f-g649848-rca2625-ye0a126/"><circle cx="363.9" cy="187.5" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/setts/s7/g110b14r48g24ba8y6ba8-b800080-ba304080-g008000-rc00000-yf0c000/"><circle cx="356.6" cy="152.7" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><circle cx="323.9" cy="198.0" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/r34b14y16g116k12-b1c0070-g006818-k101010-rc80000-ybc8c00/

@@ -24,4 +24,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.00 |
 | Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unnamed C20th - Unregistered Error](/setts/s13/b26r4b4r12b50r4k54y4g50r12g4r4g26-b202060-g285800-k101010-rc80000-yfccc00/) — ΔT 0.70
+1. [MacDonell of Glengarry #3](/setts/s11/b16r5b30r2k33g30r5g2r2g7w4-b202060-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.75
+1. [MacNeil of Colonsay (Highland Society of London)](/setts/s13/g16k5g4k8g44k40g4b52r10b4r4b10w6-b2c2c80-g285800-k101010-rc80000-we0e0e0/) — ΔT 0.75
+1. [MacLennan](/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g285800-k101010-rc80000-ye8c000/) — ΔT 0.77
+1. [MacDonald of Clanranald #2](/setts/s13/b32r4b4r14b62r4k64w6g62r14g4r4g32-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 0.81
+1. [Logan #7](/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/) — ΔT 0.83
+1. [MacWilliams Wedding Personal Tartan Tartan Number: 7667. Earliest known date: 2008 Designed by Bisell McWilliams for his wedding. Details from Matt Newsome. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g4b2k2b28ka4b2k24g20r4-b506878-g006818-k101010-ka000000-rd40000/) — ΔT 0.84
+1. [Bell's Whisky (SA)](/setts/s12/g20w4g36k6g6k6g6k36b48k6b6y6-b784878-g005030-k101010-wd0d0d0-ybc8c00/) — ΔT 0.88
+1. [MacCandlish Dress Grey](/setts/s11/w12k4b48k4b4k8b4k24r48k4y4-b4c3428-k101010-r888888-wa8ace8-yd09800/) — ΔT 0.92
+1. [Ofally, County](/setts/s10/r12b4g10b36g20b4k56b4g20y6-b1c0070-g006818-k101010-rd05054-yd09800/) — ΔT 0.93
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b26r4b4r12b50r4k54y4g50r12g4r4g26-b202060-g285800-k101010-rc80000-yfccc00/"><circle cx="170.1" cy="149.5" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/setts/s11/b16r5b30r2k33g30r5g2r2g7w4-b202060-g006818-k101010-rc80000-we0e0e0/"><circle cx="176.5" cy="146.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s13/g16k5g4k8g44k40g4b52r10b4r4b10w6-b2c2c80-g285800-k101010-rc80000-we0e0e0/"><circle cx="177.8" cy="146.4" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g285800-k101010-rc80000-ye8c000/"><circle cx="172.0" cy="140.7" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s13/b32r4b4r14b62r4k64w6g62r14g4r4g32-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="176.3" cy="140.7" r="4" fill="#3465a4"><title>MacDonald of Clanranald #2</title></circle></a><a href="/setts/s11/r12b6r4b4r4b32k24g32r2k2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/"><circle cx="166.0" cy="138.8" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/setts/s9/g4b2k2b28ka4b2k24g20r4-b506878-g006818-k101010-ka000000-rd40000/"><circle cx="194.5" cy="162.0" r="4" fill="#3465a4"><title>MacWilliams Wedding Personal Tartan Tartan Number: 7667. Earliest known date: 2008 Designed by Bisell McWilliams for his wedding. Details from Matt Newsome. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g20w4g36k6g6k6g6k36b48k6b6y6-b784878-g005030-k101010-wd0d0d0-ybc8c00/"><circle cx="204.9" cy="163.1" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/setts/s11/w12k4b48k4b4k8b4k24r48k4y4-b4c3428-k101010-r888888-wa8ace8-yd09800/"><circle cx="174.3" cy="138.5" r="4" fill="#3465a4"><title>MacCandlish Dress Grey</title></circle></a><a href="/setts/s10/r12b4g10b36g20b4k56b4g20y6-b1c0070-g006818-k101010-rd05054-yd09800/"><circle cx="166.2" cy="160.0" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><circle cx="188.6" cy="149.7" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s10/g80k16r8k8r16k8r8k16b80y6-b202060-g285800-k101010-rc80000-ye8c000/

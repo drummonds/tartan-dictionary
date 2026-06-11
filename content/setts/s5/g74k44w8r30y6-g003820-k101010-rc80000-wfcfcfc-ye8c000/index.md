@@ -28,4 +28,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "DG/74 K44 W8 R30 Y/6 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Oakley (2015)](/setts/s5/g74k44w8r30y6-g003c14-k1c1714-rc80000-wf9f5ef-ye0a126/) — ΔT 0.37
+1. [Afternoon Tea / Afternoon Tea](/setts/s6/w15k8r25k72g98y15-g408060-k1c1714-r781638-we0e0e0-yc89800/) — ΔT 1.08
+1. [Drambuie Dress](/setts/s6/w6g36k48r4k5y6-g604000-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.11
+1. [Unidentified No 79](/setts/s6/r10g36y4k28b10k8-b3c82af-g005020-k101010-rdc0000-ye8c000/) — ΔT 1.12
+1. [MacMillan - 2002 (Black - Unofficial](/setts/s6/g6k62r34g12y36k6-g004810-k101010-r880000-ybc8c00/) — ΔT 1.16
+1. [Teylu Coleman (Cornwall)](/setts/s5/w6k50b18ba34y6-b3d3134-ba433a5a-k1c1714-wf9f5ef-ye1f231/) — ΔT 1.17
+1. [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/) — ΔT 1.20
+1. [Unnamed No 5 Tartan Tartan Number: 1257. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k20y4g22r22w2r2w2k18-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.22
+1. [Afternoon Tea / Darjeeling](/setts/s6/w15g98b72r25b8y15-b14283c-g005448-r800028-wf0e0c8-yffe600/) — ΔT 1.23
+1. [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b486c9c-g58442c-k101010-we8e8e8-ydcbc1c/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g74k44w8r30y6-g003c14-k1c1714-rc80000-wf9f5ef-ye0a126/"><circle cx="218.6" cy="199.0" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/setts/s6/w15k8r25k72g98y15-g408060-k1c1714-r781638-we0e0e0-yc89800/"><circle cx="198.3" cy="179.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/setts/s6/w6g36k48r4k5y6-g604000-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="264.4" cy="173.2" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/setts/s6/r10g36y4k28b10k8-b3c82af-g005020-k101010-rdc0000-ye8c000/"><circle cx="167.7" cy="210.7" r="4" fill="#3465a4"><title>Unidentified No 79</title></circle></a><a href="/setts/s6/g6k62r34g12y36k6-g004810-k101010-r880000-ybc8c00/"><circle cx="216.4" cy="209.9" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><a href="/setts/s5/w6k50b18ba34y6-b3d3134-ba433a5a-k1c1714-wf9f5ef-ye1f231/"><circle cx="195.7" cy="219.6" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><a href="/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/"><circle cx="250.2" cy="161.2" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s8/k20y4g22r22w2r2w2k18-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="171.1" cy="171.0" r="4" fill="#3465a4"><title>Unnamed No 5 Tartan Tartan Number: 1257. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/w15g98b72r25b8y15-b14283c-g005448-r800028-wf0e0c8-yffe600/"><circle cx="202.4" cy="185.3" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/setts/s6/g60y10b20k20w4k4-b486c9c-g58442c-k101010-we8e8e8-ydcbc1c/"><circle cx="265.0" cy="169.9" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><circle cx="211.1" cy="196.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/g74k44w8r30y6-g003820-k101010-rc80000-wfcfcfc-ye8c000/

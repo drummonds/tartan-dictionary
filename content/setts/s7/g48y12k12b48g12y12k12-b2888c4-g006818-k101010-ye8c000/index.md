@@ -35,4 +35,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "G/48 Y12 K12 B48 G12 Y12 K/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wellington or Waterloo Commemorative Tartan Tartan Number: 154. Earliest known date: pre 2003 Name derived from Wilson letters 1821 and 1824 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b6g12k12b8r2b2-b5c8ca8-g006818-k101010-rc80000/) — ΔT 1.31
+1. [Cape Breton District Tartan Tartan Number: 1883. Earliest known date: 1957 In 1907, Mrs Lillian Crewe Walsh of Glace Bay, Cape Breton, wrote a poem in praise of Cape Breton. This poem was given by Mrs Walsh to Mrs Grant in 1957 and the tartan designed to accord with the poem. Grey for our Cape Breton Steel, Green for our lofty See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/y10k10g34k12r48k12y6-g006818-k101010-r888888-ye8c000/) — ΔT 1.36
+1. [State Seal of North Carolina (Fash.)](/setts/s7/w94g12b26ga40g12b12g56-b1474b4-g006818-ga604000-w98c8e8/) — ΔT 1.41
+1. [Melville](/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/) — ΔT 1.44
+1. [MacKay, Dress (Corporate)](/setts/s6/k8g28k28g4w28b6-b1474b4-g006818-k101010-we0e0e0/) — ΔT 1.44
+1. [Wilson's No.193](/setts/s8/g24k4r4b8r8b8r4k4-b2888c4-g006818-k101010-rc80000/) — ΔT 1.46
+1. [Tweedside, hunting](/setts/s9/b42g10k10g30w6g10w6g10k6-b304080-g008000-k000000-we0e0e0/) — ΔT 1.47
+1. [Queen of the South](/setts/s8/w6b20b24g22ba6g22ga8g4-b102040-ba304080-g30a010-ga008000-we0e0e0/) — ΔT 1.49
+1. [Loch Leven](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/) — ΔT 1.51
+1. [Loch Leven, Check](/setts/s6/k4g26k22b8w18k4-b5480b0-g008000-k000030-we0e0e0/) — ΔT 1.52
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b6g12k12b8r2b2-b5c8ca8-g006818-k101010-rc80000/"><circle cx="154.5" cy="253.7" r="4" fill="#3465a4"><title>Wellington or Waterloo Commemorative Tartan Tartan Number: 154. Earliest known date: pre 2003 Name derived from Wilson letters 1821 and 1824 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/y10k10g34k12r48k12y6-g006818-k101010-r888888-ye8c000/"><circle cx="149.7" cy="207.2" r="4" fill="#3465a4"><title>Cape Breton District Tartan Tartan Number: 1883. Earliest known date: 1957 In 1907, Mrs Lillian Crewe Walsh of Glace Bay, Cape Breton, wrote a poem in praise of Cape Breton. This poem was given by Mrs Walsh to Mrs Grant in 1957 and the tartan designed to accord with the poem. Grey for our Cape Breton Steel, Green for our lofty See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w94g12b26ga40g12b12g56-b1474b4-g006818-ga604000-w98c8e8/"><circle cx="162.6" cy="212.0" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/setts/s6/k8w4g26k26ga24k4-g408060-ga608c9c-k101010-wfcfcfc/"><circle cx="164.1" cy="237.3" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/k8g28k28g4w28b6-b1474b4-g006818-k101010-we0e0e0/"><circle cx="117.9" cy="223.5" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s8/g24k4r4b8r8b8r4k4-b2888c4-g006818-k101010-rc80000/"><circle cx="161.7" cy="216.6" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/setts/s9/b42g10k10g30w6g10w6g10k6-b304080-g008000-k000000-we0e0e0/"><circle cx="185.6" cy="201.3" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/setts/s8/w6b20b24g22ba6g22ga8g4-b102040-ba304080-g30a010-ga008000-we0e0e0/"><circle cx="138.9" cy="223.9" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/"><circle cx="128.8" cy="232.5" r="4" fill="#3465a4"><title>Loch Leven</title></circle></a><a href="/setts/s6/k4g26k22b8w18k4-b5480b0-g008000-k000030-we0e0e0/"><circle cx="110.1" cy="228.5" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><circle cx="128.1" cy="240.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s7/g48y12k12b48g12y12k12-b2888c4-g006818-k101010-ye8c000/

@@ -31,4 +31,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.16 |
 | G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.02 |
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scotch House 2000 Antique](/setts/s8/b44r6b4r6b4k34g36ga8-b2c2c80-g604000-ga006818-k101010-rc80000/) — ΔT 0.99
+1. [Antique 2000](/setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/) — ΔT 0.99
+1. [Ormiston (Personal)](/setts/s9/g52b6r6b40r6b6r60w6k4-b2c4084-g005020-k101010-r960000-wc0c0c0/) — ΔT 1.04
+1. [Dunbartonshire](/setts/s9/g44k8g4r16b4r16b52ba8b4-b2c2c80-ba5c8ca8-g006818-k101010-r901c38/) — ΔT 1.08
+1. [Akins (Clan)](/setts/s8/r42ra6r6ra6r6b38g44ba6-b202060-ba2888c4-g006818-ra00048-rac8002c/) — ΔT 1.08
+1. [Land's End (Unnamed Maroon)](/setts/s9/k46g4r6b14r6g4ga30r42g10-b304080-g908000-ga004010-k000030-r802040/) — ΔT 1.09
+1. [MacDonell of Glengarry #2](/setts/s11/b16r8b24r2k24g24r6g4r2g8w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.10
+1. [Holland & Sherry (Corporate)](/setts/s9/b40ba6b8r6b6k20g42k8r40-b003c64-ba3850c8-g006818-k101010-r901c38/) — ΔT 1.10
+1. [Andover (Fashion)](/setts/s6/r4b48k24y4ba40r4-b5c5c5c-ba4c3428-k101010-rc80000-yfccc00/) — ΔT 1.19
+1. [Berkshire #2](/setts/s10/b24ba12k4r40b48g24k4g24b4ba8-b606060-ba00008c-g144800-k000000-r888888/) — ΔT 1.20
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b44r6b4r6b4k34g36ga8-b2c2c80-g604000-ga006818-k101010-rc80000/"><circle cx="208.7" cy="191.8" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/setts/s8/b20r2b2r2b2k12g18ba4-b003c64-ba1870a4-g8c7038-k101010-rc80000/"><circle cx="199.7" cy="184.9" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/setts/s9/g52b6r6b40r6b6r60w6k4-b2c4084-g005020-k101010-r960000-wc0c0c0/"><circle cx="250.3" cy="159.7" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/setts/s9/g44k8g4r16b4r16b52ba8b4-b2c2c80-ba5c8ca8-g006818-k101010-r901c38/"><circle cx="223.5" cy="172.0" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s8/r42ra6r6ra6r6b38g44ba6-b202060-ba2888c4-g006818-ra00048-rac8002c/"><circle cx="177.0" cy="191.3" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s9/k46g4r6b14r6g4ga30r42g10-b304080-g908000-ga004010-k000030-r802040/"><circle cx="166.6" cy="175.3" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s11/b16r8b24r2k24g24r6g4r2g8w2-b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="158.9" cy="170.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/setts/s9/b40ba6b8r6b6k20g42k8r40-b003c64-ba3850c8-g006818-k101010-r901c38/"><circle cx="152.7" cy="211.8" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s6/r4b48k24y4ba40r4-b5c5c5c-ba4c3428-k101010-rc80000-yfccc00/"><circle cx="238.3" cy="202.6" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/setts/s10/b24ba12k4r40b48g24k4g24b4ba8-b606060-ba00008c-g144800-k000000-r888888/"><circle cx="193.6" cy="186.3" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><circle cx="181.8" cy="178.5" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s9/b46y4r6ba14r6y4g30r42y10-b003c64-ba2c2c80-g006818-r901c38-ybc8c00/

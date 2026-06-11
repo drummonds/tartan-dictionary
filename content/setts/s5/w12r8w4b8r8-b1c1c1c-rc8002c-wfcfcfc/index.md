@@ -26,4 +26,25 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 ![Tartan detail](tartan.png "R/8 K8 W4 R8 W/12 tartan")
 
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Havel](/setts/s5/r42k42w20k20w42-k101010-rff0000-wffffff/) — ΔT 0.92
+1. [Havel (Fashion)](/setts/s5/r42k42w20k20w42-k101010-rc80000-we0e0e0/) — ΔT 1.34
+1. [Quaboos Pipers Plaid](/setts/s4/w18g46r46w18-g006818-rc80000-we0e0e0/) — ΔT 1.85
+1. [Harazeen](/setts/s8/r40g20w20k20r40g20w20k20-g008b00-k101010-rff0000-wffffff/) — ΔT 1.92
+1. [Haggis Hostels](/setts/s4/r80b40w40ba32-b5f749c-ba14283c-r960028-we8ccb8/) — ΔT 2.06
+1. [Quaboos, Pipers Plaid](/setts/s4/w18g46r46w18-g008000-rc00000-we0e0e0/) — ΔT 2.08
+1. [Omani Regiment 2nd Pipe Sqn. (Mil.)](/setts/s4/w18g46r46w18-g289c18-rc80000-wf8f8f8/) — ΔT 2.08
+1. [Omani Regiment 2nd Pipe Sqn.](/setts/s6/g46r46w18r46g46w18-g289c18-rc80000-wf8f8f8/) — ΔT 2.12
+1. [SAL Glindrande Stiernan](/setts/s4/r60g20k60w20-g008b00-k101010-rff0000-wffffff/) — ΔT 2.12
+1. [Thomas Newcomen's Combustion Engine](/setts/s4/k28r20w12b8-b0000cd-k101010-rff0000-wffffff/) — ΔT 2.12
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r42k42w20k20w42-k101010-rff0000-wffffff/"><circle cx="78.3" cy="311.5" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/setts/s5/r42k42w20k20w42-k101010-rc80000-we0e0e0/"><circle cx="83.8" cy="318.1" r="4" fill="#3465a4"><title>Havel (Fashion)</title></circle></a><a href="/setts/s4/w18g46r46w18-g006818-rc80000-we0e0e0/"><circle cx="123.3" cy="310.2" r="4" fill="#3465a4"><title>Quaboos Pipers Plaid</title></circle></a><a href="/setts/s8/r40g20w20k20r40g20w20k20-g008b00-k101010-rff0000-wffffff/"><circle cx="47.4" cy="274.1" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/setts/s4/r80b40w40ba32-b5f749c-ba14283c-r960028-we8ccb8/"><circle cx="114.7" cy="306.5" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/setts/s4/w18g46r46w18-g008000-rc00000-we0e0e0/"><circle cx="123.8" cy="311.1" r="4" fill="#3465a4"><title>Quaboos, Pipers Plaid</title></circle></a><a href="/setts/s4/w18g46r46w18-g289c18-rc80000-wf8f8f8/"><circle cx="115.9" cy="305.4" r="4" fill="#3465a4"><title>Omani Regiment 2nd Pipe Sqn. (Mil.)</title></circle></a><a href="/setts/s6/g46r46w18r46g46w18-g289c18-rc80000-wf8f8f8/"><circle cx="140.1" cy="306.2" r="4" fill="#3465a4"><title>Omani Regiment 2nd Pipe Sqn.</title></circle></a><a href="/setts/s4/r60g20k60w20-g008b00-k101010-rff0000-wffffff/"><circle cx="104.7" cy="273.8" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/setts/s4/k28r20w12b8-b0000cd-k101010-rff0000-wffffff/"><circle cx="105.8" cy="275.3" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><circle cx="113.1" cy="298.3" r="5" fill="#c00000"/></svg>
+
 ID: /setts/s5/w12r8w4b8r8-b1c1c1c-rc8002c-wfcfcfc/

@@ -151,7 +151,7 @@ white and grey.
 ## The data
 
 The full extraction — page transcription, stitched setts, threadcounts, the named colour
-palette, and the match report — lives in the tartan-weaver repository under `sources/logan`,
+palette, and the match report — lives in the tartan-weaver repository under `sources/logan-1831`,
 alongside the 1831 scans it was read from.
 
 [^book]: James Logan, *The Scotish Gaël*, London 1831, 2 vols. The Table of Clan Tartans is

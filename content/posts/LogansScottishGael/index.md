@@ -60,7 +60,12 @@ versus full square, half-width versus full-width pivots — cannot hide a real m
 
 ## The Duke of Sussex plate
 
-![The Duke of Sussex plate](SussexPlate.png "Pattern of the Tartan worn by H.R.H. The Duke of Sussex — J. Logan del.")
+<figure style="max-width: 380px; margin: 0 auto;">
+<img src="SussexPlate.png" style="width: 100%;"
+     alt="Pattern of the Tartan worn by H.R.H. The Duke of Sussex — J. Logan del.">
+<figcaption>The hand-coloured plate facing p.&nbsp;401 — "Pattern of the Tartan worn by His
+Royal Highness The Duke of Sussex", drawn by Logan himself.</figcaption>
+</figure>
 
 Facing the table sits a hand-coloured copper plate, drawn by Logan himself: a square of plaid
 **at full size**, with an engraved scale down the margin — the pattern "peculiar to himself" worn
@@ -151,8 +156,7 @@ white and grey.
 ## The data
 
 The full extraction — page transcription, stitched setts, threadcounts, the named colour
-palette, and the match report — lives in the tartan-weaver repository under `sources/logan-1831`,
-alongside the 1831 scans it was read from.
+palette, and the match report — was done by the Tartan Dictionary.
 
 [^book]: James Logan, *The Scotish Gaël*, London 1831, 2 vols. The Table of Clan Tartans is
     vol. II, Appendix, pp. 401–408. Scans: [vol. I](https://archive.org/details/scotishgalorcel01logagoog),

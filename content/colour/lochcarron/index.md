@@ -1,5 +1,5 @@
 ---
-title: Loch Carron palette
+title: Lochcarron palette
 date: 2023-03-18
 ---
 Measured samples.
@@ -8,18 +8,18 @@ Measured samples.
 
 ## Red
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#A93936;"><span style="color:#A93936;filter:grayscale(1) invert(1) contrast(100);">#A93936</span></code> | R1 | Red Hay | `#A93936` | 0.51 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#A93936;"><span style="color:#A93936;filter:grayscale(1) invert(1) contrast(100);">#A93936</span></code> | R1 | Red Hay | `#A93936` | 0.506 | +0.133 | +0.063 |
 
 ## Green
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#3F7954;"><span style="color:#3F7954;filter:grayscale(1) invert(1) contrast(100);">#3F7954</span></code> | G1 | Fraser Green | `#3F7954` | 0.53 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#3F7954;"><span style="color:#3F7954;filter:grayscale(1) invert(1) contrast(100);">#3F7954</span></code> | G1 | Fraser Green | `#3F7954` | 0.526 | -0.077 | +0.037 |
 
 ## Blue
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#284050;"><span style="color:#284050;filter:grayscale(1) invert(1) contrast(100);">#284050</span></code> | B1 | French Navy | `#284050` | 0.36 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#284050;"><span style="color:#284050;filter:grayscale(1) invert(1) contrast(100);">#284050</span></code> | B1 | French Navy | `#284050` | 0.359 | -0.021 | -0.035 |

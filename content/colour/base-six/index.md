@@ -12,31 +12,31 @@ These six colours are not a designer's choice but a statistical one: they are ch
 
 ## White · Grey · Black
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | W | White | `#F4F4F0` | 0.97 |
-| <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | K | Black | `#000000` | 0.00 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | W | White | `#F4F4F0` | 0.966 | -0.002 | +0.005 |
+| <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | K | Black | `#000000` | 0.000 | +0.000 | +0.000 |
 
 ## Red
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | R | Red | `#C80000` | 0.52 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | R | Red | `#C80000` | 0.523 | +0.187 | +0.105 |
 
 ## Yellow
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | Y | Yellow | `#E8C000` | 0.82 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | Y | Yellow | `#E8C000` | 0.819 | -0.011 | +0.167 |
 
 ## Green
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | G | Green | `#006400` | 0.44 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | G | Green | `#006400` | 0.436 | -0.118 | +0.090 |
 
 ## Blue
 
-| Shade | Code | Name | sRGB | L (OKLab) |
-|---|---|---|---|---|
-| <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | B | Blue | `#2C4084` | 0.39 |
+| Shade | Code | Name | sRGB | OKLab L | a | b |
+|---|---|---|---|---|---|---|
+| <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | B | Blue | `#2C4084` | 0.394 | -0.003 | -0.117 |

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Black Watch",
+    "url": "/setts/s6/k10g46k36b42k66b6-b304080-g008000-k000000/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:6;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:66;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:42;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:36;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:46;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:10;background:#000000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Royal Stewart",
+    "url": "/setts/s8/r14b4k4y2k4r4k2w2-b304080-k000000-rc00000-we0e0e0-yf0c000/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:2;background:#E0E0E0\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#F0C000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:14;background:#C00000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "MacLeod of Lewis",
+    "url": "/setts/s5/k16y2k16y24r2-k000000-rc80000-yc8c800/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:16;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#C8C800\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:24;background:#C8C800\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#C80000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Cameron of Erracht",
+    "url": "/setts/s11/g16r2g2r6g32k32r2b32r6b16y4-b304080-g008000-k000000-rc00000-yf0c000/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:16;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:6;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:32;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:32;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:32;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:6;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#F0C000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "MacKenzie",
+    "url": "/setts/s14/b20k4b4k4b4k16g16k2w4k2g16k16b18r4-b304080-g008000-k000000-rc00000-we0e0e0/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:20;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#E0E0E0\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:18;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#C00000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Campbell of Glenlyon",
+    "url": "/setts/s5/g14k12b14k2b4-b1474b4-g006818-k101010/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:4;background:#1474B4\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#101010\"\u003e\u003c/span\u003e\u003cspan style=\"flex:14;background:#1474B4\"\u003e\u003c/span\u003e\u003cspan style=\"flex:12;background:#101010\"\u003e\u003c/span\u003e\u003cspan style=\"flex:14;background:#006818\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Wallace",
+    "url": "/setts/s4/k2r16k16y2-k000000-raa0000-yaaaa00/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:2;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#AA0000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#000000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:2;background:#AAAA00\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Robertson",
+    "url": "/setts/s6/r4g40r4b16r72g2-b2c4084-g005020-rdc0000/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:2;background:#005020\"\u003e\u003c/span\u003e\u003cspan style=\"flex:72;background:#DC0000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#2C4084\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#DC0000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:40;background:#005020\"\u003e\u003c/span\u003e\u003cspan style=\"flex:4;background:#DC0000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Rob Roy MacGregor",
+    "url": "/setts/s2/k16r16-k101010-rc80000/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:16;background:#101010\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#C80000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Stewart of Appin",
+    "url": "/setts/s10/g16r6g6r10g52b14ba6b56r6b12-b304080-ba5480b0-g008000-rc00000/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:12;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:6;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:56;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:6;background:#5480B0\"\u003e\u003c/span\u003e\u003cspan style=\"flex:14;background:#304080\"\u003e\u003c/span\u003e\u003cspan style=\"flex:52;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:10;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:6;background:#008000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:6;background:#C00000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:16;background:#008000\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Castle Fraser",
+    "url": "/setts/s3/g60r3g12-g004c00-rc02000/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:12;background:#004C00\"\u003e\u003c/span\u003e\u003cspan style=\"flex:3;background:#C02000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:60;background:#004C00\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  },
+  {
+    "name": "Buchanan Dress Blue",
+    "url": "/setts/s6/w10b32w10b32w66r6-b1c0070-r880000-wf8f8f8/",
+    "bar": "\u003cspan class=\"ttd-bar\"\u003e\u003cspan style=\"flex:6;background:#880000\"\u003e\u003c/span\u003e\u003cspan style=\"flex:66;background:#F8F8F8\"\u003e\u003c/span\u003e\u003cspan style=\"flex:32;background:#1C0070\"\u003e\u003c/span\u003e\u003cspan style=\"flex:10;background:#F8F8F8\"\u003e\u003c/span\u003e\u003cspan style=\"flex:32;background:#1C0070\"\u003e\u003c/span\u003e\u003cspan style=\"flex:10;background:#F8F8F8\"\u003e\u003c/span\u003e\u003c/span\u003e"
+  }
+]

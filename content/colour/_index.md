@@ -38,3 +38,7 @@ Every palette is arranged as a wheel: an achromatic spine from white down to bla
 ## [OKLab grid](/colour/oklab-grid/)
 
 And underneath them all, the reference frame: the OKLab colour space itself, sampled evenly at cloth resolution — a few thousand colours, each one perceptual step from its neighbours, every supplier's dye within a step of one of them.
+
+## [Colour dictionary](/colour/named/)
+
+A page for each named colour — the six base roles and the human tier — with its place on the grid and the nearest named colours to it.

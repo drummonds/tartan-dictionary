@@ -1,0 +1,12 @@
+{{/* Colour dictionary index: render the generated chip-grid body (the default list layout groups
+     child pages by date and ignores .Content, which is not what this page wants). */}}
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

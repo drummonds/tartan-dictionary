@@ -18,9 +18,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| DB | <code style="background-color:#000080;"><span style="color:#000080;filter:grayscale(1) invert(1) contrast(100);">#000080</span></code> `#000080` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
-| P | <code style="background-color:#9400D3;"><span style="color:#9400D3;filter:grayscale(1) invert(1) contrast(100);">#9400D3</span></code> `#9400D3` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.22 |
-| W | <code style="background-color:#ECECC6;"><span style="color:#ECECC6;filter:grayscale(1) invert(1) contrast(100);">#ECECC6</span></code> `#ECECC6` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
+| DB | <code style="background-color:#000080;"><span style="color:#000080;filter:grayscale(1) invert(1) contrast(100);">#000080</span></code> `#000080` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| P | <code style="background-color:#9400D3;"><span style="color:#9400D3;filter:grayscale(1) invert(1) contrast(100);">#9400D3</span></code> `#9400D3` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| W | <code style="background-color:#ECECC6;"><span style="color:#ECECC6;filter:grayscale(1) invert(1) contrast(100);">#ECECC6</span></code> `#ECECC6` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
 
 ## Nearest tartans
 

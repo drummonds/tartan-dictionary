@@ -1,0 +1,20 @@
+---
+title: Pattern GRKRGRKYBYKRGRW
+date: 2023-03-18
+---
+GRKRGRKYBYKRGRW
+
+It is a 15 stripes tartan.
+
+
+
+## Colour Sequence
+GRKRGRKYBYKRGRW
+
+
+## List of tartans with this colour sequence
+
+| Tartans |
+|---------------|
+| [Livingstone (Australia) Official](/setts/s15/g20r6k4r6g20r16k4y2b2y2k4r40g8r16w2-b5d6878-g04220c-k1e1917-rbd133b-wf5f1ea-ye1ad29/)|
+|![Livingstone (Australia) Official example sett](/setts/s15/g20r6k4r6g20r16k4y2b2y2k4r40g8r16w2-b5d6878-g04220c-k1e1917-rbd133b-wf5f1ea-ye1ad29/sett.png)|

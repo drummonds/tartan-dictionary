@@ -6,7 +6,7 @@ BGBGGGRY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6g2b2g41ga6g2r21y6-b5480b0-g30a010-ga003000-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s8/b6g2b2g41ga6g2r21y6-b3c82af-g309c18-ga002814-rdc0000-ye8c000/tartan.png)
 
 
 
@@ -18,6 +18,8 @@ BGBGGGRY
 
 | Tartans |
 |---------------|
+| [Manitoba](/setts/s8/b6g2b2g41ga6g2r21y6-b3c82af-g309c18-ga002814-rdc0000-ye8c000/)|
+|![Manitoba example sett](/setts/s8/b6g2b2g41ga6g2r21y6-b3c82af-g309c18-ga002814-rdc0000-ye8c000/sett.png)|
 | [Manitoba](/setts/s8/b6g2b2g41ga6g2r21y6-b5480b0-g30a010-ga003000-rc00000-yf0c000/)|
 |![Manitoba example sett](/setts/s8/b6g2b2g41ga6g2r21y6-b5480b0-g30a010-ga003000-rc00000-yf0c000/sett.png)|
 | [Manitoba](/setts/s8/b8g4b4g48ga8g4r24y8-b5480b0-g008000-ga003000-r802040-yf0c000/)|

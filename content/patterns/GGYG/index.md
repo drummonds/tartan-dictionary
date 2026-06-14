@@ -6,7 +6,7 @@ GGYG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/tartan.png)
+![Woven sample](/setts/s4/g40y4g120ga12-g483824-ga789484-ye4cca4/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ GGYG
 
 | Tartans |
 |---------------|
+| [Pasteur](/setts/s4/g40y4g120ga12-g483824-ga789484-ye4cca4/)|
+|![Pasteur example sett](/setts/s4/g40y4g120ga12-g483824-ga789484-ye4cca4/sett.png)|
 | [Pilgrims (Bedford)](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/)|
 |![Pilgrims (Bedford) example sett](/setts/s4/g6y12ga8g4-g007800-ga003800-yfccc00/sett.png)|

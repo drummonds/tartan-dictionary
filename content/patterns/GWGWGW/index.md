@@ -20,8 +20,6 @@ GWGWGW
 |---------------|
 | [Erskine Green](/setts/s6/g12w4g58w58g4w12-g005020-we0e0e0/)|
 |![Erskine Green example sett](/setts/s6/g12w4g58w58g4w12-g005020-we0e0e0/sett.png)|
-| [Fallow Deer, The](/setts/s6/g12w68g44w8g44w8-g9c8000-wf8f4d0/)|
-|![Fallow Deer, The example sett](/setts/s6/g12w68g44w8g44w8-g9c8000-wf8f4d0/sett.png)|
 | [Erskine, Green (Dance)](/setts/s6/g12w4g58w58g4w12-g006818-wfcfcfc/)|
 |![Erskine, Green (Dance) example sett](/setts/s6/g12w4g58w58g4w12-g006818-wfcfcfc/sett.png)|
 | [Erskine, Green](/setts/s6/g12w4g58w58g4w12-g008000-we0e0e0/)|

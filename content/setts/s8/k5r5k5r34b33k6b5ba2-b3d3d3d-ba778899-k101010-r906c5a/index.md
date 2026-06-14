@@ -26,9 +26,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| LT | <code style="background-color:#906C5A;"><span style="color:#906C5A;filter:grayscale(1) invert(1) contrast(100);">#906C5A</span></code> `#906C5A` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.17 |
-| N | <code style="background-color:#778899;"><span style="color:#778899;filter:grayscale(1) invert(1) contrast(100);">#778899</span></code> `#778899` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.24 |
-| Na | <code style="background-color:#3D3D3D;"><span style="color:#3D3D3D;filter:grayscale(1) invert(1) contrast(100);">#3D3D3D</span></code> `#3D3D3D` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.12 |
+| LT | <code style="background-color:#906C5A;"><span style="color:#906C5A;filter:grayscale(1) invert(1) contrast(100);">#906C5A</span></code> `#906C5A` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| N | <code style="background-color:#778899;"><span style="color:#778899;filter:grayscale(1) invert(1) contrast(100);">#778899</span></code> `#778899` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.24 |
+| Na | <code style="background-color:#3D3D3D;"><span style="color:#3D3D3D;filter:grayscale(1) invert(1) contrast(100);">#3D3D3D</span></code> `#3D3D3D` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
 
 # Sample pattern
 

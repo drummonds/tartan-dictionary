@@ -18,12 +18,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| B | <code style="background-color:#3F0FFE;"><span style="color:#3F0FFE;filter:grayscale(1) invert(1) contrast(100);">#3F0FFE</span></code> `#3F0FFE` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.20 |
-| Ba | <code style="background-color:#0596FA;"><span style="color:#0596FA;filter:grayscale(1) invert(1) contrast(100);">#0596FA</span></code> `#0596FA` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.28 |
-| LG | <code style="background-color:#82C880;"><span style="color:#82C880;filter:grayscale(1) invert(1) contrast(100);">#82C880</span></code> `#82C880` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.14 |
-| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.04 |
-| Ra | <code style="background-color:#E13205;"><span style="color:#E13205;filter:grayscale(1) invert(1) contrast(100);">#E13205</span></code> `#E13205` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.07 |
-| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.00 |
+| B | <code style="background-color:#3F0FFE;"><span style="color:#3F0FFE;filter:grayscale(1) invert(1) contrast(100);">#3F0FFE</span></code> `#3F0FFE` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| Ba | <code style="background-color:#0596FA;"><span style="color:#0596FA;filter:grayscale(1) invert(1) contrast(100);">#0596FA</span></code> `#0596FA` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.27 |
+| LG | <code style="background-color:#82C880;"><span style="color:#82C880;filter:grayscale(1) invert(1) contrast(100);">#82C880</span></code> `#82C880` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.15 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+| Ra | <code style="background-color:#E13205;"><span style="color:#E13205;filter:grayscale(1) invert(1) contrast(100);">#E13205</span></code> `#E13205` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.06 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
 
 ## Nearest tartans
 

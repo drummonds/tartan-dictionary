@@ -20,7 +20,5 @@ BRYBYB
 |---------------|
 | [Unidentified Sample](/setts/s6/b22r8y18b8y4b22-b2c4084-rdc0000-ye8c000/)|
 |![Unidentified Sample example sett](/setts/s6/b22r8y18b8y4b22-b2c4084-rdc0000-ye8c000/sett.png)|
-| [French Freemasons' Pride](/setts/s6/b128r8y41ba4y4ba4-b000080-ba2f4f4f-r8b0000-y5f9ea0/)|
-|![French Freemasons' Pride example sett](/setts/s6/b128r8y41ba4y4ba4-b000080-ba2f4f4f-r8b0000-y5f9ea0/sett.png)|
 | [Unidentified, Sample](/setts/s6/b22r8y18b8y4b22-b304080-rc00000-yf0c000/)|
 |![Unidentified, Sample example sett](/setts/s6/b22r8y18b8y4b22-b304080-rc00000-yf0c000/sett.png)|

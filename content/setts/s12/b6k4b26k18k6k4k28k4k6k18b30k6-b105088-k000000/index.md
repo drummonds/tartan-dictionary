@@ -18,10 +18,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| B | <code style="background-color:#105088;"><span style="color:#105088;filter:grayscale(1) invert(1) contrast(100);">#105088</span></code> `#105088` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.05 |
-| DB | <code style="background-color:#141C50;"><span style="color:#141C50;filter:grayscale(1) invert(1) contrast(100);">#141C50</span></code> `#141C50` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
+| B | <code style="background-color:#105088;"><span style="color:#105088;filter:grayscale(1) invert(1) contrast(100);">#105088</span></code> `#105088` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.04 |
+| DB | <code style="background-color:#141C50;"><span style="color:#141C50;filter:grayscale(1) invert(1) contrast(100);">#141C50</span></code> `#141C50` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
 | K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
-| T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
+| T | <code style="background-color:#4C3428;"><span style="color:#4C3428;filter:grayscale(1) invert(1) contrast(100);">#4C3428</span></code> `#4C3428` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
 
 ## Nearest tartans
 

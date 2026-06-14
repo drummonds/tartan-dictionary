@@ -20,8 +20,6 @@ BWGBR
 |---------------|
 | [Alvis of Lee (Personal)](/setts/s5/b9w4g36ba36r4-b1c0070-ba5c8ca8-g228b22-rc80000-we0e0e0/)|
 |![Alvis of Lee (Personal) example sett](/setts/s5/b9w4g36ba36r4-b1c0070-ba5c8ca8-g228b22-rc80000-we0e0e0/sett.png)|
-| [Vass (Personal)](/setts/s5/b24w4g24ba48r8-b141e46-ba2a2303-g503c14-rdc0000-we0e0e0/)|
-|![Vass (Personal) example sett](/setts/s5/b24w4g24ba48r8-b141e46-ba2a2303-g503c14-rdc0000-we0e0e0/sett.png)|
 | [Alvis of Lee (Personal)](/setts/s5/b18w8g72ba72r8-b1c0070-ba5c8ca8-g00643c-rc80000-we0e0e0/)|
 |![Alvis of Lee (Personal) example sett](/setts/s5/b18w8g72ba72r8-b1c0070-ba5c8ca8-g00643c-rc80000-we0e0e0/sett.png)|
 | [Alvis, of Lee](/setts/s5/b9w4g36ba36r4-b000050-ba5480b0-g008000-rc00000-we0e0e0/)|

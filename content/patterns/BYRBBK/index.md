@@ -20,3 +20,5 @@ BYRBBK
 |---------------|
 | [Meeson Hunting](/setts/s6/k52b20ba38r12y4bb18-b646464-ba184458-bb105088-k101010-r880000-yc89800/)|
 |![Meeson Hunting example sett](/setts/s6/k52b20ba38r12y4bb18-b646464-ba184458-bb105088-k101010-r880000-yc89800/sett.png)|
+| [Meeson Hunting Name Tartan Tartan Number: 6027. Earliest known date: 2007 Hunting version. The black and gray were originally woven with a melange or marled yarn. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k52b20ba38r12y4bb18-b787478-ba184458-bb105088-k101010-r880000-yc4a820/)|
+|![Meeson Hunting Name Tartan Tartan Number: 6027. Earliest known date: 2007 Hunting version. The black and gray were originally woven with a melange or marled yarn. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/k52b20ba38r12y4bb18-b787478-ba184458-bb105088-k101010-r880000-yc4a820/sett.png)|

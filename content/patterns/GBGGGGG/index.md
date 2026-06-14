@@ -20,3 +20,5 @@ GBGGGGG
 |---------------|
 | [de Meuron (Neuchâtel) Day, The](/setts/s7/g80b10g12ga52gb26gc18ga6-b2613cd-g4f310f-ga214211-gb184f06-gc1e5b30/)|
 |![de Meuron (Neuchâtel) Day, The example sett](/setts/s7/g80b10g12ga52gb26gc18ga6-b2613cd-g4f310f-ga214211-gb184f06-gc1e5b30/sett.png)|
+| [Gleneagles (Corporate)](/setts/s7/g24ga24gb4ga24g20b24g4-b083454-g581c00-ga003820-gb684800/)|
+|![Gleneagles (Corporate) example sett](/setts/s7/g24ga24gb4ga24g20b24g4-b083454-g581c00-ga003820-gb684800/sett.png)|

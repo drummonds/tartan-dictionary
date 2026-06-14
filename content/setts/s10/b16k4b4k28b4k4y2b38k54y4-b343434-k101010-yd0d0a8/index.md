@@ -25,9 +25,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| DN | <code style="background-color:#343434;"><span style="color:#343434;filter:grayscale(1) invert(1) contrast(100);">#343434</span></code> `#343434` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
+| DN | <code style="background-color:#343434;"><span style="color:#343434;filter:grayscale(1) invert(1) contrast(100);">#343434</span></code> `#343434` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| LR | <code style="background-color:#D0D0A8;"><span style="color:#D0D0A8;filter:grayscale(1) invert(1) contrast(100);">#D0D0A8</span></code> `#D0D0A8` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.12 |
+| LR | <code style="background-color:#D0D0A8;"><span style="color:#D0D0A8;filter:grayscale(1) invert(1) contrast(100);">#D0D0A8</span></code> `#D0D0A8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
 
 ## Nearest tartans
 

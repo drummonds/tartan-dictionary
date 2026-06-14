@@ -18,9 +18,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| DR | <code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> `#A50313` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.07 |
-| DRa | <code style="background-color:#962121;"><span style="color:#962121;filter:grayscale(1) invert(1) contrast(100);">#962121</span></code> `#962121` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.10 |
-| R | <code style="background-color:#EE2E24;"><span style="color:#EE2E24;filter:grayscale(1) invert(1) contrast(100);">#EE2E24</span></code> `#EE2E24` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.09 |
+| DR | <code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> `#A50313` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| DRa | <code style="background-color:#962121;"><span style="color:#962121;filter:grayscale(1) invert(1) contrast(100);">#962121</span></code> `#962121` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
+| R | <code style="background-color:#EE2E24;"><span style="color:#EE2E24;filter:grayscale(1) invert(1) contrast(100);">#EE2E24</span></code> `#EE2E24` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
 
 ## Nearest tartans
 

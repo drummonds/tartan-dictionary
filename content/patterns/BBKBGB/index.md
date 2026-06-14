@@ -20,8 +20,6 @@ BBKBGB
 |---------------|
 | [Scottish Airports](/setts/s6/b8g36b6k34b36ba8-b3c505c-ba9058d8-g006818-k101010/)|
 |![Scottish Airports example sett](/setts/s6/b8g36b6k34b36ba8-b3c505c-ba9058d8-g006818-k101010/sett.png)|
-| [St Andrews Old Course Hotel, Golf Course and Spa](/setts/s6/b90ba28k6ba4g4ba10-b002814-ba000048-g604000-k101010/)|
-|![St Andrews Old Course Hotel, Golf Course and Spa example sett](/setts/s6/b90ba28k6ba4g4ba10-b002814-ba000048-g604000-k101010/sett.png)|
 | [Haut Family (by Dundee)](/setts/s6/b92ba30k24bb16g16bc16-b3f4441-ba3d2e60-bb805a90-bc3d1130-g509721-k120a01/)|
 |![Haut Family (by Dundee) example sett](/setts/s6/b92ba30k24bb16g16bc16-b3f4441-ba3d2e60-bb805a90-bc3d1130-g509721-k120a01/sett.png)|
 | [Scottish Airports (Corporate)](/setts/s6/b8g36b6k34b36ba8-b3c505c-ba780078-g006818-k101010/)|

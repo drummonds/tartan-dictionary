@@ -16,6 +16,8 @@ GRGRGRGRGR
 
 | Tartans |
 |---------------|
+| [Connacht (1993)](/setts/s10/r128g12r4g6r4g12r128ga4r4ga12-g005020-ga2a2303-rc87814/)|
+|![Connacht (1993) example sett](/setts/s10/r128g12r4g6r4g12r128ga4r4ga12-g005020-ga2a2303-rc87814/sett.png)|
 | [Donachie](/setts/s10/r48g4r4g80r50g4r4g4r4g40-g008440-rc80000/)|
 |![Donachie example sett](/setts/s10/r48g4r4g80r50g4r4g4r4g40-g008440-rc80000/sett.png)|
 | [Donachie of Brockloch](/setts/s10/r48g4r4g40r50g4r4g4r4g40-g003c24-r6c0000/)|

@@ -18,10 +18,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| B | <code style="background-color:#335280;"><span style="color:#335280;filter:grayscale(1) invert(1) contrast(100);">#335280</span></code> `#335280` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.06 |
-| LY | <code style="background-color:#F8EEB7;"><span style="color:#F8EEB7;filter:grayscale(1) invert(1) contrast(100);">#F8EEB7</span></code> `#F8EEB7` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.07 |
-| N | <code style="background-color:#666666;"><span style="color:#666666;filter:grayscale(1) invert(1) contrast(100);">#666666</span></code> `#666666` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.16 |
-| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.11 |
+| B | <code style="background-color:#335280;"><span style="color:#335280;filter:grayscale(1) invert(1) contrast(100);">#335280</span></code> `#335280` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| LY | <code style="background-color:#F8EEB7;"><span style="color:#F8EEB7;filter:grayscale(1) invert(1) contrast(100);">#F8EEB7</span></code> `#F8EEB7` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.08 |
+| N | <code style="background-color:#666666;"><span style="color:#666666;filter:grayscale(1) invert(1) contrast(100);">#666666</span></code> `#666666` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `#FF0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
 
 # Sample pattern
 

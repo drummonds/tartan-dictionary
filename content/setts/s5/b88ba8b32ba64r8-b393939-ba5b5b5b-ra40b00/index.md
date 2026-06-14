@@ -18,9 +18,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| DR | <code style="background-color:#A40B00;"><span style="color:#A40B00;filter:grayscale(1) invert(1) contrast(100);">#A40B00</span></code> `#A40B00` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.08 |
-| N | <code style="background-color:#393939;"><span style="color:#393939;filter:grayscale(1) invert(1) contrast(100);">#393939</span></code> `#393939` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.13 |
-| Na | <code style="background-color:#5B5B5B;"><span style="color:#5B5B5B;filter:grayscale(1) invert(1) contrast(100);">#5B5B5B</span></code> `#5B5B5B` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
+| DR | <code style="background-color:#A40B00;"><span style="color:#A40B00;filter:grayscale(1) invert(1) contrast(100);">#A40B00</span></code> `#A40B00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| N | <code style="background-color:#393939;"><span style="color:#393939;filter:grayscale(1) invert(1) contrast(100);">#393939</span></code> `#393939` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| Na | <code style="background-color:#5B5B5B;"><span style="color:#5B5B5B;filter:grayscale(1) invert(1) contrast(100);">#5B5B5B</span></code> `#5B5B5B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
 
 # Sample pattern
 

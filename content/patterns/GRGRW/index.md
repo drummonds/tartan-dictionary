@@ -20,3 +20,5 @@ GRGRW
 |---------------|
 | [MacGregor of Balquhidder](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/)|
 |![MacGregor of Balquhidder example sett](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/sett.png)|
+| [Unidentified Plaid #3](/setts/s5/g24r3g16r33w4-g002814-rc82828-we0e0e0/)|
+|![Unidentified Plaid #3 example sett](/setts/s5/g24r3g16r33w4-g002814-rc82828-we0e0e0/sett.png)|

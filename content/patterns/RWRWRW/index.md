@@ -20,6 +20,8 @@ RWRWRW
 |---------------|
 | [Erskine (Red)](/setts/s6/r12w4r58w58r4w12-rdc0000-we0e0e0/)|
 |![Erskine (Red) example sett](/setts/s6/r12w4r58w58r4w12-rdc0000-we0e0e0/sett.png)|
+| [Fallow Deer, The](/setts/s6/r12w68r44w8r44w8-r9c8000-wf8f4d0/)|
+|![Fallow Deer, The example sett](/setts/s6/r12w68r44w8r44w8-r9c8000-wf8f4d0/sett.png)|
 | [Erskine, Burgundy (Dance)](/setts/s6/r12w4r58w58r4w12-r800028-wfcfcfc/)|
 |![Erskine, Burgundy (Dance) example sett](/setts/s6/r12w4r58w58r4w12-r800028-wfcfcfc/sett.png)|
 | [Erskine Red & White (Dance)](/setts/s6/r12w6r54w54r6w12-rc80000-wfcfcfc/)|

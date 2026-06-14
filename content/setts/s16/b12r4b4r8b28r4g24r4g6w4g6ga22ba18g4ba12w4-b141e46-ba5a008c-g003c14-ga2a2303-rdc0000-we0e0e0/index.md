@@ -1,0 +1,49 @@
+---
+title: "Haughey (Personal)"
+date: 2023-03-18
+---
+In pattern [BRBRBRGRGWGGBGBW](/patterns/brbrbrgrgwggbgbw/).
+
+
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5958
+
+## Thread count
+DB/12 R4 DB4 R8 DB28 R4 DG24 R4 DG6 LN4 DG6 K22 P18 DG4 P12 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#141E46;"><span style="color:#141E46;filter:grayscale(1) invert(1) contrast(100);">#141E46</span></code> `#141E46` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.16 |
+| DG | <code style="background-color:#003C14;"><span style="color:#003C14;filter:grayscale(1) invert(1) contrast(100);">#003C14</span></code> `#003C14` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.13 |
+| K | <code style="background-color:#2A2303;"><span style="color:#2A2303;filter:grayscale(1) invert(1) contrast(100);">#2A2303</span></code> `#2A2303` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.21 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#5A008C;"><span style="color:#5A008C;filter:grayscale(1) invert(1) contrast(100);">#5A008C</span></code> `#5A008C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Haughey (Personal)](/setts/s16/b12r4b4r8b28r4g24r4g6w4g6k22ba18g4ba12w4-b2c2c80-ba780078-g006818-k101010-rc80000-wf8f8f8/) — ΔT 0.67
+1. [Kinloch Anderson Old Dress](/setts/s12/r8g28w4b8w4k12g6k12ba26r4ba8r8-b4c3428-ba1c0070-g8c7038-k101010-r880000-wc0c0c0/) — ΔT 0.80
+1. [South Lanarkshire](/setts/s16/b4ba28k4g24k4bb28w4k8w4bb28k4g24k4ba28b4k4-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/) — ΔT 0.87
+1. [South Australia #2](/setts/s11/r6b24r3ba12r7ba12k3g8y3g8k3-b2c4084-ba141e46-g005020-k101010-rdc0000-ye8c000/) — ΔT 0.87
+1. [Kinloch Anderson Castle Grey](/setts/s12/b8g8b4g28k12ba6k12r4ba8r4ba29y6-b3e3e3e-ba2c2c2c-g696969-k000000-r960028-y999999/) — ΔT 1.04
+1. [Tawain Scottish (Commemorative)](/setts/s14/r26w4r26k6ra26g42b6k36b18k4b4k4b30w4-b2c2c80-g006818-k101010-rc80000-ra880000-we0e0e0/) — ΔT 1.09
+1. [Cunningham Hunting](/setts/s17/b24k4g4k4g4k4b26r12k20r12g26k4y4k4w4k4g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/) — ΔT 1.12
+1. [North of Scotland Tartan Army](/setts/s13/b6k6b20k22g28ba6g28k22w6y6ba30y4w4-b780078-ba2c2c80-g006818-k101010-we0e0e0-ya0a0a0/) — ΔT 1.16
+1. [Alberta Caledonia (Corporate)](/setts/s13/r12b18k4b4k4b18k20y8ba34r10k4r10w8-b2c2c80-ba5c5c5c-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.16
+1. [MacKusick (Piper) #2 (Personal)](/setts/s13/b6k4b10w4ba24r2ba4k2g18b6g10k24ba4-b6c0070-ba2c2c80-g006818-k101010-rc80000-wc0c0c0/) — ΔT 1.17
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/b12r4b4r8b28r4g24r4g6w4g6k22ba18g4ba12w4-b2c2c80-ba780078-g006818-k101010-rc80000-wf8f8f8/"><circle cx="49.2" cy="146.6" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s12/r8g28w4b8w4k12g6k12ba26r4ba8r8-b4c3428-ba1c0070-g8c7038-k101010-r880000-wc0c0c0/"><circle cx="59.0" cy="166.2" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/setts/s16/b4ba28k4g24k4bb28w4k8w4bb28k4g24k4ba28b4k4-b2888c4-ba2c2c80-bb780078-g006818-k101010-we0e0e0/"><circle cx="79.9" cy="150.4" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><a href="/setts/s11/r6b24r3ba12r7ba12k3g8y3g8k3-b2c4084-ba141e46-g005020-k101010-rdc0000-ye8c000/"><circle cx="80.8" cy="172.1" r="4" fill="#3465a4"><title>South Australia #2</title></circle></a><a href="/setts/s12/b8g8b4g28k12ba6k12r4ba8r4ba29y6-b3e3e3e-ba2c2c2c-g696969-k000000-r960028-y999999/"><circle cx="105.3" cy="170.6" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/setts/s14/r26w4r26k6ra26g42b6k36b18k4b4k4b30w4-b2c2c80-g006818-k101010-rc80000-ra880000-we0e0e0/"><circle cx="67.5" cy="137.4" r="4" fill="#3465a4"><title>Tawain Scottish (Commemorative)</title></circle></a><a href="/setts/s17/b24k4g4k4g4k4b26r12k20r12g26k4y4k4w4k4g24-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/"><circle cx="91.7" cy="157.3" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/setts/s13/b6k6b20k22g28ba6g28k22w6y6ba30y4w4-b780078-ba2c2c80-g006818-k101010-we0e0e0-ya0a0a0/"><circle cx="60.5" cy="165.7" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/setts/s13/r12b18k4b4k4b18k20y8ba34r10k4r10w8-b2c2c80-ba5c5c5c-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="51.5" cy="150.0" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/setts/s13/b6k4b10w4ba24r2ba4k2g18b6g10k24ba4-b6c0070-ba2c2c80-g006818-k101010-rc80000-wc0c0c0/"><circle cx="110.1" cy="148.0" r="4" fill="#3465a4"><title>MacKusick (Piper) #2 (Personal)</title></circle></a><circle cx="62.8" cy="155.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/b12r4b4r8b28r4g24r4g6w4g6ga22ba18g4ba12w4-b141e46-ba5a008c-g003c14-ga2a2303-rdc0000-we0e0e0/

@@ -18,12 +18,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| B | <code style="background-color:#576982;"><span style="color:#576982;filter:grayscale(1) invert(1) contrast(100);">#576982</span></code> `#576982` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
-| DB | <code style="background-color:#172D60;"><span style="color:#172D60;filter:grayscale(1) invert(1) contrast(100);">#172D60</span></code> `#172D60` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.09 |
-| DR | <code style="background-color:#A20D22;"><span style="color:#A20D22;filter:grayscale(1) invert(1) contrast(100);">#A20D22</span></code> `#A20D22` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.08 |
-| G | <code style="background-color:#588658;"><span style="color:#588658;filter:grayscale(1) invert(1) contrast(100);">#588658</span></code> `#588658` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.15 |
-| LG | <code style="background-color:#F9C75C;"><span style="color:#F9C75C;filter:grayscale(1) invert(1) contrast(100);">#F9C75C</span></code> `#F9C75C` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
-| N | <code style="background-color:#75786C;"><span style="color:#75786C;filter:grayscale(1) invert(1) contrast(100);">#75786C</span></code> `#75786C` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.19 |
+| B | <code style="background-color:#576982;"><span style="color:#576982;filter:grayscale(1) invert(1) contrast(100);">#576982</span></code> `#576982` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DB | <code style="background-color:#172D60;"><span style="color:#172D60;filter:grayscale(1) invert(1) contrast(100);">#172D60</span></code> `#172D60` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.09 |
+| DR | <code style="background-color:#A20D22;"><span style="color:#A20D22;filter:grayscale(1) invert(1) contrast(100);">#A20D22</span></code> `#A20D22` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| G | <code style="background-color:#588658;"><span style="color:#588658;filter:grayscale(1) invert(1) contrast(100);">#588658</span></code> `#588658` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
+| LG | <code style="background-color:#F9C75C;"><span style="color:#F9C75C;filter:grayscale(1) invert(1) contrast(100);">#F9C75C</span></code> `#F9C75C` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.05 |
+| N | <code style="background-color:#75786C;"><span style="color:#75786C;filter:grayscale(1) invert(1) contrast(100);">#75786C</span></code> `#75786C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
 
 # Sample pattern
 

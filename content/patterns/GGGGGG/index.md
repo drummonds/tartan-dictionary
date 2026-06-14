@@ -26,7 +26,5 @@ GGGGGG
 |![Harmony 11 #2 example sett](/setts/s6/g12ga4g58ga58g4ga12-g005020-ga503c14/sett.png)|
 | [Harmony 12 #2](/setts/s6/g12ga4g58ga58g4ga12-g503c14-ga808080/)|
 |![Harmony 12 #2 example sett](/setts/s6/g12ga4g58ga58g4ga12-g503c14-ga808080/sett.png)|
-| [Rob Roy (Film) (Corporate)](/setts/s6/g12ga4g40ga16gb40g8-g708490-ga003820-gb604000/)|
-|![Rob Roy (Film) (Corporate) example sett](/setts/s6/g12ga4g40ga16gb40g8-g708490-ga003820-gb604000/sett.png)|
 | [Erskine, hunting](/setts/s6/g10ga6g48ga48g6ga10-g003000-ga008000/)|
 |![Erskine, hunting example sett](/setts/s6/g10ga6g48ga48g6ga10-g003000-ga008000/sett.png)|

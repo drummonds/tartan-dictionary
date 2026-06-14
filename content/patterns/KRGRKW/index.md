@@ -6,7 +6,7 @@ KRGRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k160r12g6r24k4w4-g006818-k101010-rcc4438-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/k160r12g6r24k4w4-g06392b-k1c1714-rb62531-wf9f5ef/tartan.png)
 
 
 
@@ -18,5 +18,7 @@ KRGRKW
 
 | Tartans |
 |---------------|
+| [Dellen](/setts/s6/k160r12g6r24k4w4-g06392b-k1c1714-rb62531-wf9f5ef/)|
+|![Dellen example sett](/setts/s6/k160r12g6r24k4w4-g06392b-k1c1714-rb62531-wf9f5ef/sett.png)|
 | [Dellen](/setts/s6/k160r12g6r24k4w4-g006818-k101010-rcc4438-wfcfcfc/)|
 |![Dellen example sett](/setts/s6/k160r12g6r24k4w4-g006818-k101010-rcc4438-wfcfcfc/sett.png)|

@@ -25,9 +25,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| LG | <code style="background-color:#3CD454;"><span style="color:#3CD454;filter:grayscale(1) invert(1) contrast(100);">#3CD454</span></code> `#3CD454` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.18 |
-| R | <code style="background-color:#FC3C00;"><span style="color:#FC3C00;filter:grayscale(1) invert(1) contrast(100);">#FC3C00</span></code> `#FC3C00` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.13 |
-| Y | <code style="background-color:#FCE800;"><span style="color:#FCE800;filter:grayscale(1) invert(1) contrast(100);">#FCE800</span></code> `#FCE800` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
+| LG | <code style="background-color:#3CD454;"><span style="color:#3CD454;filter:grayscale(1) invert(1) contrast(100);">#3CD454</span></code> `#3CD454` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.19 |
+| R | <code style="background-color:#FC3C00;"><span style="color:#FC3C00;filter:grayscale(1) invert(1) contrast(100);">#FC3C00</span></code> `#FC3C00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| Y | <code style="background-color:#FCE800;"><span style="color:#FCE800;filter:grayscale(1) invert(1) contrast(100);">#FCE800</span></code> `#FCE800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
 
 # Sample pattern
 

@@ -16,8 +16,6 @@ BWBWBWBWBWGWG
 
 | Tartans |
 |---------------|
-| [MacDonald Hunting](/setts/s13/g48w2g4w4b4w2b24w2b4w4b4w2ba24-b443428-ba002814-g309c18-we0e0e0/)|
-|![MacDonald Hunting example sett](/setts/s13/g48w2g4w4b4w2b24w2b4w4b4w2ba24-b443428-ba002814-g309c18-we0e0e0/sett.png)|
 | [MacDonald Lord of the Isles](/setts/s13/g48w2g4w4b4w2b2w2b4w4b4w2b24-b2c4084-g005020-we0e0e0/)|
 |![MacDonald Lord of the Isles example sett](/setts/s13/g48w2g4w4b4w2b2w2b4w4b4w2b24-b2c4084-g005020-we0e0e0/sett.png)|
 | [MacDonald, Lord of the Isles Hunting #2](/setts/s13/g48w2g4w4b4w2b24w2b4w4b4w2b24-b1c0070-g006818-wc0c0c0/)|

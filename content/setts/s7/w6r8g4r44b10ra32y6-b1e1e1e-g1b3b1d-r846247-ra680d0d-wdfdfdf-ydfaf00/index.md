@@ -25,12 +25,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| DG | <code style="background-color:#1B3B1D;"><span style="color:#1B3B1D;filter:grayscale(1) invert(1) contrast(100);">#1B3B1D</span></code> `#1B3B1D` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.14 |
-| DR | <code style="background-color:#680D0D;"><span style="color:#680D0D;filter:grayscale(1) invert(1) contrast(100);">#680D0D</span></code> `#680D0D` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.21 |
-| K | <code style="background-color:#1E1E1E;"><span style="color:#1E1E1E;filter:grayscale(1) invert(1) contrast(100);">#1E1E1E</span></code> `#1E1E1E` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.20 |
-| LN | <code style="background-color:#DFDFDF;"><span style="color:#DFDFDF;filter:grayscale(1) invert(1) contrast(100);">#DFDFDF</span></code> `#DFDFDF` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.06 |
-| LT | <code style="background-color:#846247;"><span style="color:#846247;filter:grayscale(1) invert(1) contrast(100);">#846247</span></code> `#846247` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.17 |
-| Y | <code style="background-color:#DFAF00;"><span style="color:#DFAF00;filter:grayscale(1) invert(1) contrast(100);">#DFAF00</span></code> `#DFAF00` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.05 |
+| DG | <code style="background-color:#1B3B1D;"><span style="color:#1B3B1D;filter:grayscale(1) invert(1) contrast(100);">#1B3B1D</span></code> `#1B3B1D` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.13 |
+| DR | <code style="background-color:#680D0D;"><span style="color:#680D0D;filter:grayscale(1) invert(1) contrast(100);">#680D0D</span></code> `#680D0D` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.22 |
+| K | <code style="background-color:#1E1E1E;"><span style="color:#1E1E1E;filter:grayscale(1) invert(1) contrast(100);">#1E1E1E</span></code> `#1E1E1E` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| LN | <code style="background-color:#DFDFDF;"><span style="color:#DFDFDF;filter:grayscale(1) invert(1) contrast(100);">#DFDFDF</span></code> `#DFDFDF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#846247;"><span style="color:#846247;filter:grayscale(1) invert(1) contrast(100);">#846247</span></code> `#846247` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| Y | <code style="background-color:#DFAF00;"><span style="color:#DFAF00;filter:grayscale(1) invert(1) contrast(100);">#DFAF00</span></code> `#DFAF00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.05 |
 
 # Sample pattern
 

@@ -6,7 +6,7 @@ BRBRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b24r3b16r33w4-b002814-rc82828-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b32r8b32r60w8-b2c2c80-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,8 +18,6 @@ BRBRW
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid #3](/setts/s5/b24r3b16r33w4-b002814-rc82828-we0e0e0/)|
-|![Unidentified Plaid #3 example sett](/setts/s5/b24r3b16r33w4-b002814-rc82828-we0e0e0/sett.png)|
 | [Hamilton (Clan)](/setts/s5/b32r8b32r60w8-b2c2c80-rc80000-we0e0e0/)|
 |![Hamilton (Clan) example sett](/setts/s5/b32r8b32r60w8-b2c2c80-rc80000-we0e0e0/sett.png)|
 | [U.S. Coast Guard (Corporate)](/setts/s5/b24r4b24r20w20-b2c2c80-rc80000-we0e0e0/)|

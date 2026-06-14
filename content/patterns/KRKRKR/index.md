@@ -46,3 +46,5 @@ KRKRKR
 |![Erskine example sett](/setts/s6/k62r8k94r94k8r62-k000000-rc00000/sett.png)|
 | [The Mary Erskine](/setts/s6/k12r4k64r64k4r12-k000030-rc00000/)|
 |![The Mary Erskine example sett](/setts/s6/k12r4k64r64k4r12-k000030-rc00000/sett.png)|
+| [Black Isle Corporate Tartan Tartan Number: 6183. Earliest known date: 15/07/2003 Designed for Black Isle Pewter Limited by Robert Howarth Guibal of Black Isle Pewter. Threadcount taken from a Marton Mills swatch book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k96r44k20r20k4r8-k000000-r8e8e8e/)|
+|![Black Isle Corporate Tartan Tartan Number: 6183. Earliest known date: 15/07/2003 Designed for Black Isle Pewter Limited by Robert Howarth Guibal of Black Isle Pewter. Threadcount taken from a Marton Mills swatch book. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/k96r44k20r20k4r8-k000000-r8e8e8e/sett.png)|

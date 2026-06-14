@@ -18,9 +18,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| DB | <code style="background-color:#000088;"><span style="color:#000088;filter:grayscale(1) invert(1) contrast(100);">#000088</span></code> `#000088` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
-| G | <code style="background-color:#004800;"><span style="color:#004800;filter:grayscale(1) invert(1) contrast(100);">#004800</span></code> `#004800` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.09 |
-| K | <code style="background-color:#381C0C;"><span style="color:#381C0C;filter:grayscale(1) invert(1) contrast(100);">#381C0C</span></code> `#381C0C` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.21 |
+| DB | <code style="background-color:#000088;"><span style="color:#000088;filter:grayscale(1) invert(1) contrast(100);">#000088</span></code> `#000088` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#004800;"><span style="color:#004800;filter:grayscale(1) invert(1) contrast(100);">#004800</span></code> `#004800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.08 |
+| K | <code style="background-color:#381C0C;"><span style="color:#381C0C;filter:grayscale(1) invert(1) contrast(100);">#381C0C</span></code> `#381C0C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
 
 # Sample pattern
 

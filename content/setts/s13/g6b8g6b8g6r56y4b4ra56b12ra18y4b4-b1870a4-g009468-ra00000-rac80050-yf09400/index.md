@@ -25,11 +25,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| B | <code style="background-color:#009468;"><span style="color:#009468;filter:grayscale(1) invert(1) contrast(100);">#009468</span></code> `#009468` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.16 |
-| Ba | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> | 0.14 |
-| DR | <code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> `#A00000` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.09 |
-| DY | <code style="background-color:#F09400;"><span style="color:#F09400;filter:grayscale(1) invert(1) contrast(100);">#F09400</span></code> `#F09400` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.11 |
-| R | <code style="background-color:#C80050;"><span style="color:#C80050;filter:grayscale(1) invert(1) contrast(100);">#C80050</span></code> `#C80050` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.07 |
+| B | <code style="background-color:#009468;"><span style="color:#009468;filter:grayscale(1) invert(1) contrast(100);">#009468</span></code> `#009468` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| Ba | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DR | <code style="background-color:#A00000;"><span style="color:#A00000;filter:grayscale(1) invert(1) contrast(100);">#A00000</span></code> `#A00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
+| DY | <code style="background-color:#F09400;"><span style="color:#F09400;filter:grayscale(1) invert(1) contrast(100);">#F09400</span></code> `#F09400` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+| R | <code style="background-color:#C80050;"><span style="color:#C80050;filter:grayscale(1) invert(1) contrast(100);">#C80050</span></code> `#C80050` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.07 |
 
 ## Nearest tartans
 

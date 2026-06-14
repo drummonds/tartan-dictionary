@@ -20,5 +20,7 @@ BRBGBG
 |---------------|
 | [MacNab (Macgregor - Hastie)](/setts/s6/b6r38b36g38b6g6-b500050-g005020-rdc0000/)|
 |![MacNab (Macgregor - Hastie) example sett](/setts/s6/b6r38b36g38b6g6-b500050-g005020-rdc0000/sett.png)|
+| [Palm Beach Gardens Police](/setts/s6/g64b12g24b56r4ba2-b688898-ba1c0070-g20943c-r880000/)|
+|![Palm Beach Gardens Police example sett](/setts/s6/g64b12g24b56r4ba2-b688898-ba1c0070-g20943c-r880000/sett.png)|
 | [MacNab 1](/setts/s6/b6r38b36g38b6g6-b500060-g008000-rc00000/)|
 |![MacNab 1 example sett](/setts/s6/b6r38b36g38b6g6-b500060-g008000-rc00000/sett.png)|

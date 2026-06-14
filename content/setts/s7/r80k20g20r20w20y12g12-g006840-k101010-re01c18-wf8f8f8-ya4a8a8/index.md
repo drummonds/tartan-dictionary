@@ -18,11 +18,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 | Colour | Shade | Base | ΔE (OKLab) |
 |---|---|---|---|
-| G | <code style="background-color:#006840;"><span style="color:#006840;filter:grayscale(1) invert(1) contrast(100);">#006840</span></code> `#006840` | G <code style="background-color:#006400;"><span style="color:#006400;filter:grayscale(1) invert(1) contrast(100);">#006400</span></code> | 0.06 |
+| G | <code style="background-color:#006840;"><span style="color:#006840;filter:grayscale(1) invert(1) contrast(100);">#006840</span></code> `#006840` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
 | K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| N | <code style="background-color:#A4A8A8;"><span style="color:#A4A8A8;filter:grayscale(1) invert(1) contrast(100);">#A4A8A8</span></code> `#A4A8A8` | Y <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> | 0.19 |
-| R | <code style="background-color:#E01C18;"><span style="color:#E01C18;filter:grayscale(1) invert(1) contrast(100);">#E01C18</span></code> `#E01C18` | R <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> | 0.06 |
-| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F4F4F0;"><span style="color:#F4F4F0;filter:grayscale(1) invert(1) contrast(100);">#F4F4F0</span></code> | 0.01 |
+| N | <code style="background-color:#A4A8A8;"><span style="color:#A4A8A8;filter:grayscale(1) invert(1) contrast(100);">#A4A8A8</span></code> `#A4A8A8` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.20 |
+| R | <code style="background-color:#E01C18;"><span style="color:#E01C18;filter:grayscale(1) invert(1) contrast(100);">#E01C18</span></code> `#E01C18` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.05 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
 
 # Sample pattern
 

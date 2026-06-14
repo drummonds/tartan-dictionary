@@ -360,15 +360,18 @@
   }
 
   /* The jog cell: the matched standard shade (≈ when the dye is not exactly standard, [ref] when
-   * the supplier has a catalogue number), ▼/▲ one rung darker/lighter — past a family's ends the
-   * black and white caps — and ◀/▶ one stop round the hue ring at the same lightness. */
+   * the supplier has a catalogue number) and the three jog axes — ▼/▲ one rung darker/lighter
+   * (past a family's ends the black and white caps), ◀/▶ one stop round the hue ring at the same
+   * lightness, ⊖/⊕ one dye duller/brighter (past the dullest dye, the spine's grey). */
   function shadeCell(code, row) {
     if (!row || !row.match) return '—';
     var html = stepBtn(code, row.prev, '◀', 'previous hue');
     html += ' ' + stepBtn(code, row.darker, '▼', 'darker');
+    html += ' ' + stepBtn(code, row.duller, '⊖', 'duller (less saturated)');
     html += ' ' + (row.exact ? '' : '≈ ') + esc(row.match.name) +
       (row.match.ref ? ' [' + esc(row.match.ref) + ']' : '') + ' ' + swatch(row.match.hex) + ' ';
-    html += stepBtn(code, row.lighter, '▲', 'lighter');
+    html += stepBtn(code, row.brighter, '⊕', 'brighter (more saturated)');
+    html += ' ' + stepBtn(code, row.lighter, '▲', 'lighter');
     html += ' ' + stepBtn(code, row.next, '▶', 'next hue');
     return html;
   }

@@ -12,7 +12,10 @@ dyes, at different states of fading. This post gathers the whole collection in o
 artefact, every thread count, every shade we have measured, and a printable poster of the lot.
 
 Family tradition ties the first wearing to the royal visit of George IV to Edinburgh, and the
-oldest surviving cloth dates from about then. Each piece has its own post with the detective
+oldest surviving cloth dates from about then. Admiral Adam Drummond worte on August 27th, 1823 "Our
+gaietes I am happy to say is nrealy at an end, and the affection, loyalty, good order and dignity of our countryman
+on this memorable occasion will neve I am sure be effaced from the  mind of the King or his friends who
+accopmpanied him.  He leaves us on the 29th and embarks in his yacht.  Rober, James, Charles and their cousins all marched in the procession of the highanders fullu accoutred in their Highland garb, and look all I could desire and wish. You may tell our Chief and clansmen Mr Drummond that we set our feet to support the ancient House of Concraog." p223 Castle of Dreams by Cherry Drummond.   Each piece has its own post with the detective
 work; this is the catalogue.
 
 ## The collection at a glance

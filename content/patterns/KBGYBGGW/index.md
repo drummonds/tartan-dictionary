@@ -6,7 +6,7 @@ KBGYBGGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k10b6g8y2ba26g26ga58w4-b1474b4-ba2c2c80-g604000-ga006818-k101010-we0e0e0-yd8b000/tartan.png)
+![Woven sample](/setts/s8/k5b3g4y1ba13g13ga29w2~b1474b4-ba2c2c80-g604000-ga006818-k101010-we0e0e0-yd8b000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBGYBGGW
 
 | Tartans |
 |---------------|
-| [Teviotdale](/setts/s8/k10b6g8y2ba26g26ga58w4-b1474b4-ba2c2c80-g604000-ga006818-k101010-we0e0e0-yd8b000/)|
-|![Teviotdale example sett](/setts/s8/k10b6g8y2ba26g26ga58w4-b1474b4-ba2c2c80-g604000-ga006818-k101010-we0e0e0-yd8b000/sett.png)|
+| [Teviotdale](/setts/s8/k5b3g4y1ba13g13ga29w2~b1474b4-ba2c2c80-g604000-ga006818-k101010-we0e0e0-yd8b000~x2/)|
+|![Teviotdale example sett](/setts/s8/k5b3g4y1ba13g13ga29w2~b1474b4-ba2c2c80-g604000-ga006818-k101010-we0e0e0-yd8b000~x2/sett.png)|

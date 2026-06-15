@@ -6,7 +6,7 @@ GWGRGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s6/g4w31g7r14g11r3~g006818-r880000-wc0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGRGR
 
 | Tartans |
 |---------------|
-| [Gleneagles USA (Dalgleish)](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/)|
-|![Gleneagles USA (Dalgleish) example sett](/setts/s6/g8w62g14r28g22r6-g006818-r880000-wc0c0c0/sett.png)|
+| [Gleneagles USA (Dalgleish)](/setts/s6/g4w31g7r14g11r3~g006818-r880000-wc0c0c0~x2/)|
+|![Gleneagles USA (Dalgleish) example sett](/setts/s6/g4w31g7r14g11r3~g006818-r880000-wc0c0c0~x2/sett.png)|

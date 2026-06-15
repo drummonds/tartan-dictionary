@@ -16,5 +16,5 @@ GBRBRBRWK
 
 | Tartans |
 |---------------|
-| [Ormiston (Personal)](/setts/s9/g52b6r6b40r6b6r60w6k4-b2c4084-g005020-k101010-r960000-wc0c0c0/)|
-|![Ormiston (Personal) example sett](/setts/s9/g52b6r6b40r6b6r60w6k4-b2c4084-g005020-k101010-r960000-wc0c0c0/sett.png)|
+| [Ormiston (Personal)](/setts/s9/g26b3r3b20r3b3r30w3k2~b2c4084-g005020-k101010-r960000-wc0c0c0~x2/)|
+|![Ormiston (Personal) example sett](/setts/s9/g26b3r3b20r3b3r30w3k2~b2c4084-g005020-k101010-r960000-wc0c0c0~x2/sett.png)|

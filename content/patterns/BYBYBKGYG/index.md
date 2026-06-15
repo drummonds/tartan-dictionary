@@ -16,5 +16,5 @@ BYBYBKGYG
 
 | Tartans |
 |---------------|
-| [Marie Curie Fields Of Hope](/setts/s9/b48y4b8y4b12k20g40y4g8-b1474b4-g006818-k101010-yd09800/)|
-|![Marie Curie Fields Of Hope example sett](/setts/s9/b48y4b8y4b12k20g40y4g8-b1474b4-g006818-k101010-yd09800/sett.png)|
+| [Marie Curie Fields Of Hope](/setts/s9/b12y1b2y1b3k5g10y1g2~b1474b4-g006818-k101010-yd09800~x4/)|
+|![Marie Curie Fields Of Hope example sett](/setts/s9/b12y1b2y1b3k5g10y1g2~b1474b4-g006818-k101010-yd09800~x4/sett.png)|

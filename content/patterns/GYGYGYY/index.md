@@ -6,7 +6,7 @@ GYGYGYY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g16y58g16ya6g16y16ya6-g5d321f-yccbaaf-yae0a126/tartan.png)
+![Woven sample](/setts/s7/g8y29g8ya3g8y8ya3~g5d321f-yccbaaf-yae0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGYGYY
 
 | Tartans |
 |---------------|
-| [Lister (Misty Mountain)](/setts/s7/g16y58g16ya6g16y16ya6-g5d321f-yccbaaf-yae0a126/)|
-|![Lister (Misty Mountain) example sett](/setts/s7/g16y58g16ya6g16y16ya6-g5d321f-yccbaaf-yae0a126/sett.png)|
+| [Lister (Misty Mountain)](/setts/s7/g8y29g8ya3g8y8ya3~g5d321f-yccbaaf-yae0a126~x2/)|
+|![Lister (Misty Mountain) example sett](/setts/s7/g8y29g8ya3g8y8ya3~g5d321f-yccbaaf-yae0a126~x2/sett.png)|

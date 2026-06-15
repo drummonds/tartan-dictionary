@@ -6,7 +6,7 @@ RWRYGYRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r70w6r16y4g22y4r16w6-g003820-r880000-we8ccb8-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r35w3r8y2g11y2r8w3~g003820-r880000-we8ccb8-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWRYGYRW
 
 | Tartans |
 |---------------|
-| [Highlands of Wyomissing (Corporate)](/setts/s8/r70w6r16y4g22y4r16w6-g003820-r880000-we8ccb8-ye8c000/)|
-|![Highlands of Wyomissing (Corporate) example sett](/setts/s8/r70w6r16y4g22y4r16w6-g003820-r880000-we8ccb8-ye8c000/sett.png)|
+| [Highlands of Wyomissing (Corporate)](/setts/s8/r35w3r8y2g11y2r8w3~g003820-r880000-we8ccb8-ye8c000~x2/)|
+|![Highlands of Wyomissing (Corporate) example sett](/setts/s8/r35w3r8y2g11y2r8w3~g003820-r880000-we8ccb8-ye8c000~x2/sett.png)|

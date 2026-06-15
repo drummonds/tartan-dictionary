@@ -6,7 +6,7 @@ KGBKRGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k128g24b12k30r2g10y2-b5c5c5c-g545c24-k00002c-rb47800-ya0a0a0/tartan.png)
+![Woven sample](/setts/s7/k64g12b6k15r1g5y1~b5c5c5c-g545c24-k00002c-rb47800-ya0a0a0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGBKRGY
 
 | Tartans |
 |---------------|
-| [McCann of Castlecraig (Personal)](/setts/s7/k128g24b12k30r2g10y2-b5c5c5c-g545c24-k00002c-rb47800-ya0a0a0/)|
-|![McCann of Castlecraig (Personal) example sett](/setts/s7/k128g24b12k30r2g10y2-b5c5c5c-g545c24-k00002c-rb47800-ya0a0a0/sett.png)|
+| [McCann of Castlecraig (Personal)](/setts/s7/k64g12b6k15r1g5y1~b5c5c5c-g545c24-k00002c-rb47800-ya0a0a0~x2/)|
+|![McCann of Castlecraig (Personal) example sett](/setts/s7/k64g12b6k15r1g5y1~b5c5c5c-g545c24-k00002c-rb47800-ya0a0a0~x2/sett.png)|

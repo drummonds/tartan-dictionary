@@ -16,5 +16,5 @@ RKGKRKYKY
 
 | Tartans |
 |---------------|
-| [Magdalene](/setts/s9/y4k8y2k8r10k100g2k4r2-g787878-k101010-rc10003-yeabf00/)|
-|![Magdalene example sett](/setts/s9/y4k8y2k8r10k100g2k4r2-g787878-k101010-rc10003-yeabf00/sett.png)|
+| [Magdalene](/setts/s9/y2k4y1k4r5k50g1k2r1~g787878-k101010-rc10003-yeabf00~x2/)|
+|![Magdalene example sett](/setts/s9/y2k4y1k4r5k50g1k2r1~g787878-k101010-rc10003-yeabf00~x2/sett.png)|

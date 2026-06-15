@@ -6,7 +6,7 @@ BKGWK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b24k34g38w4k10-b2c4084-g005020-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b12k17g19w2k5~b2c4084-g005020-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKGWK
 
 | Tartans |
 |---------------|
-| [Wilson's Folio 131](/setts/s5/b24k34g38w4k10-b2c4084-g005020-k101010-we0e0e0/)|
-|![Wilson's Folio 131 example sett](/setts/s5/b24k34g38w4k10-b2c4084-g005020-k101010-we0e0e0/sett.png)|
-| [Wilson's, Folio 131](/setts/s5/b24k34g38w4k10-b304080-g008000-k000000-we0e0e0/)|
-|![Wilson's, Folio 131 example sett](/setts/s5/b24k34g38w4k10-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Wilson's Folio 131](/setts/s5/b12k17g19w2k5~b2c4084-g005020-k101010-we0e0e0~x2/)|
+|![Wilson's Folio 131 example sett](/setts/s5/b12k17g19w2k5~b2c4084-g005020-k101010-we0e0e0~x2/sett.png)|
+| [Wilson's, Folio 131](/setts/s5/b12k17g19w2k5~b304080-g008000-k000000-we0e0e0~x2/)|
+|![Wilson's, Folio 131 example sett](/setts/s5/b12k17g19w2k5~b304080-g008000-k000000-we0e0e0~x2/sett.png)|

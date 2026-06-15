@@ -16,5 +16,5 @@ GBGBGBGGYGGBYBGGRG
 
 | Tartans |
 |---------------|
-| [Turcan Connell](/setts/s18/g54b6g16b8g16b6g28ga16y10g10ga28b24y12b24g30ga18r8ga18-b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0/)|
-|![Turcan Connell example sett](/setts/s18/g54b6g16b8g16b6g28ga16y10g10ga28b24y12b24g30ga18r8ga18-b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0/sett.png)|
+| [Turcan Connell](/setts/s18/g27b3g8b4g8b3g14ga8y5g5ga14b12y6b12g15ga9r4ga9~b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0~x2/)|
+|![Turcan Connell example sett](/setts/s18/g27b3g8b4g8b3g14ga8y5g5ga14b12y6b12g15ga9r4ga9~b1c1c1c-g604000-ga00643c-rc80000-ya0a0a0~x2/sett.png)|

@@ -16,5 +16,5 @@ YRBRBRBRBRY
 
 | Tartans |
 |---------------|
-| [Griffiths (Welsh Name)](/setts/s11/y4r37b17r4b8r6ba2r5b2r3y4-b202060-ba441800-rc80000-ya08858/)|
-|![Griffiths (Welsh Name) example sett](/setts/s11/y4r37b17r4b8r6ba2r5b2r3y4-b202060-ba441800-rc80000-ya08858/sett.png)|
+| [Griffiths (Welsh Name)](/setts/s11/y4r37b17r4b8r6ba2r5b2r3y4~b202060-ba441800-rc80000-ya08858/)|
+|![Griffiths (Welsh Name) example sett](/setts/s11/y4r37b17r4b8r6ba2r5b2r3y4~b202060-ba441800-rc80000-ya08858/sett.png)|

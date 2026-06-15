@@ -16,5 +16,5 @@ BRGBWBGRBR
 
 | Tartans |
 |---------------|
-| [Wilton (Toronto) (Personal)](/setts/s10/b18r2g18ba38w4ba38g18r2b18ra2-b5c5c5c-ba202060-g006818-rc80000-ra880000-we0e0e0/)|
-|![Wilton (Toronto) (Personal) example sett](/setts/s10/b18r2g18ba38w4ba38g18r2b18ra2-b5c5c5c-ba202060-g006818-rc80000-ra880000-we0e0e0/sett.png)|
+| [Wilton (Toronto) (Personal)](/setts/s10/b9r1g9ba19w2ba19g9r1b9ra1~b5c5c5c-ba202060-g006818-rc80000-ra880000-we0e0e0~x2/)|
+|![Wilton (Toronto) (Personal) example sett](/setts/s10/b9r1g9ba19w2ba19g9r1b9ra1~b5c5c5c-ba202060-g006818-rc80000-ra880000-we0e0e0~x2/sett.png)|

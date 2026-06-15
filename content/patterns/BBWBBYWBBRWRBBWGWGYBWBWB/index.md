@@ -16,5 +16,5 @@ BBWBBYWBBRWRBBWGWGYBWBWB
 
 | Tartans |
 |---------------|
-| [Stewart, Silk](/setts/s24/b8w4b4w2ba10y10g10w2g40w2b8ba8r6w2r6ba8b8w2y60b4ba4w2ba4b4-b304080-ba5480b0-g008000-r806050-we0e0e0-yff8500/)|
-|![Stewart, Silk example sett](/setts/s24/b8w4b4w2ba10y10g10w2g40w2b8ba8r6w2r6ba8b8w2y60b4ba4w2ba4b4-b304080-ba5480b0-g008000-r806050-we0e0e0-yff8500/sett.png)|
+| [Stewart, Silk](/setts/s24/b4w2b2w1ba5y5g5w1g20w1b4ba4r3w1r3ba4b4w1y30b2ba2w1ba2b2~b304080-ba5480b0-g008000-r806050-we0e0e0-yff8500~x2/)|
+|![Stewart, Silk example sett](/setts/s24/b4w2b2w1ba5y5g5w1g20w1b4ba4r3w1r3ba4b4w1y30b2ba2w1ba2b2~b304080-ba5480b0-g008000-r806050-we0e0e0-yff8500~x2/sett.png)|

@@ -16,5 +16,5 @@ GRKBRBKRYRK
 
 | Tartans |
 |---------------|
-| [Faulkner (Personal)](/setts/s11/g20r2k6b44r2b16k4ra52y2ra12k6-b780078-g006818-k101010-r888888-ra901c38-ybc8c00/)|
-|![Faulkner (Personal) example sett](/setts/s11/g20r2k6b44r2b16k4ra52y2ra12k6-b780078-g006818-k101010-r888888-ra901c38-ybc8c00/sett.png)|
+| [Faulkner (Personal)](/setts/s11/g10r1k3b22r1b8k2ra26y1ra6k3~b780078-g006818-k101010-r888888-ra901c38-ybc8c00~x2/)|
+|![Faulkner (Personal) example sett](/setts/s11/g10r1k3b22r1b8k2ra26y1ra6k3~b780078-g006818-k101010-r888888-ra901c38-ybc8c00~x2/sett.png)|

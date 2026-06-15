@@ -6,7 +6,7 @@ GKBWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r28w12b76k6g4-b0000cd-g006400-k101010-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s5/r14w6b38k3g2~b0000cd-g006400-k101010-rff0000-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBWR
 
 | Tartans |
 |---------------|
-| [Doten (2013)](/setts/s5/r28w12b76k6g4-b0000cd-g006400-k101010-rff0000-wffffff/)|
-|![Doten (2013) example sett](/setts/s5/r28w12b76k6g4-b0000cd-g006400-k101010-rff0000-wffffff/sett.png)|
+| [Doten (2013)](/setts/s5/r14w6b38k3g2~b0000cd-g006400-k101010-rff0000-wffffff~x2/)|
+|![Doten (2013) example sett](/setts/s5/r14w6b38k3g2~b0000cd-g006400-k101010-rff0000-wffffff~x2/sett.png)|

@@ -16,5 +16,5 @@ WKBKRYGKBYBYBY
 
 | Tartans |
 |---------------|
-| [Ethiopia](/setts/s14/w8k2b48k2r16y16g16k2b32y4b2y4b2y8-b0596fa-g309c18-k101010-rdc0000-we0e0e0-yc89600/)|
-|![Ethiopia example sett](/setts/s14/w8k2b48k2r16y16g16k2b32y4b2y4b2y8-b0596fa-g309c18-k101010-rdc0000-we0e0e0-yc89600/sett.png)|
+| [Ethiopia](/setts/s14/w4k1b24k1r8y8g8k1b16y2b1y2b1y4~b0596fa-g309c18-k101010-rdc0000-we0e0e0-yc89600~x2/)|
+|![Ethiopia example sett](/setts/s14/w4k1b24k1r8y8g8k1b16y2b1y2b1y4~b0596fa-g309c18-k101010-rdc0000-we0e0e0-yc89600~x2/sett.png)|

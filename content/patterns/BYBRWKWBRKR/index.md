@@ -16,5 +16,5 @@ BYBRWKWBRKR
 
 | Tartans |
 |---------------|
-| [Asman Hunting (Name)](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/)|
-|![Asman Hunting (Name) example sett](/setts/s11/b8y6b44r12w4k12w4b12ra40k6ra8-b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000/sett.png)|
+| [Asman Hunting (Name)](/setts/s11/b4y3b22r6w2k6w2b6ra20k3ra4~b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000~x2/)|
+|![Asman Hunting (Name) example sett](/setts/s11/b4y3b22r6w2k6w2b6ra20k3ra4~b2c2c80-k101010-rc80000-ra888888-wfcfcfc-ye8c000~x2/sett.png)|

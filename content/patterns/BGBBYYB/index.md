@@ -6,7 +6,7 @@ BGBBYYB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b80g6ba8b56y4ya4b14-b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8/tartan.png)
+![Woven sample](/setts/s7/b40g3ba4b28y2ya2b7~b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBBYYB
 
 | Tartans |
 |---------------|
-| [Pisniak (Personal)](/setts/s7/b80g6ba8b56y4ya4b14-b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8/)|
-|![Pisniak (Personal) example sett](/setts/s7/b80g6ba8b56y4ya4b14-b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8/sett.png)|
+| [Pisniak (Personal)](/setts/s7/b40g3ba4b28y2ya2b7~b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8~x2/)|
+|![Pisniak (Personal) example sett](/setts/s7/b40g3ba4b28y2ya2b7~b1c1c1c-ba440044-g003820-ybc8c00-yab8b8b8~x2/sett.png)|

@@ -16,5 +16,5 @@ YGYGYBWBWY
 
 | Tartans |
 |---------------|
-| [Henry, David G (Personal)](/setts/s10/y8w4b16w4b4y4g48y4g8y4-b000064-g003c14-wffffff-yd87c00/)|
-|![Henry, David G (Personal) example sett](/setts/s10/y8w4b16w4b4y4g48y4g8y4-b000064-g003c14-wffffff-yd87c00/sett.png)|
+| [Henry, David G (Personal)](/setts/s10/y2w1b4w1b1y1g12y1g2y1~b000064-g003c14-wffffff-yd87c00~x4/)|
+|![Henry, David G (Personal) example sett](/setts/s10/y2w1b4w1b1y1g12y1g2y1~b000064-g003c14-wffffff-yd87c00~x4/sett.png)|

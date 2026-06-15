@@ -6,7 +6,7 @@ BGBBRG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/tartan.png)
+![Woven sample](/setts/s6/b47g14ba5bb2r3g7~b202060-ba440044-bb4c3428-g285800-r880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBBRG
 
 | Tartans |
 |---------------|
-| [Round Table (1997)](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/)|
-|![Round Table (1997) example sett](/setts/s6/b94g28ba10bb4r6g14-b202060-ba440044-bb4c3428-g285800-r880000/sett.png)|
+| [Round Table (1997)](/setts/s6/b47g14ba5bb2r3g7~b202060-ba440044-bb4c3428-g285800-r880000~x2/)|
+|![Round Table (1997) example sett](/setts/s6/b47g14ba5bb2r3g7~b202060-ba440044-bb4c3428-g285800-r880000~x2/sett.png)|

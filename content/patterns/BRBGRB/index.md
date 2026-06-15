@@ -6,7 +6,7 @@ BRBGRB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b18r6b2g18r6b2-b2c2c80-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s6/b9r3b1g9r3b1~b2c2c80-g006818-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBGRB
 
 | Tartans |
 |---------------|
-| [Logan #5](/setts/s6/b18r6b2g18r6b2-b2c2c80-g006818-rc80000/)|
-|![Logan #5 example sett](/setts/s6/b18r6b2g18r6b2-b2c2c80-g006818-rc80000/sett.png)|
+| [Logan #5](/setts/s6/b9r3b1g9r3b1~b2c2c80-g006818-rc80000~x2/)|
+|![Logan #5 example sett](/setts/s6/b9r3b1g9r3b1~b2c2c80-g006818-rc80000~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKRKRKWKWKRK
 
 | Tartans |
 |---------------|
-| [Edinburgh International Film Festival](/setts/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20-k101010-rc80000-wffffff/)|
-|![Edinburgh International Film Festival example sett](/setts/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20-k101010-rc80000-wffffff/sett.png)|
+| [Edinburgh International Film Festival](/setts/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20~k101010-rc80000-wffffff/)|
+|![Edinburgh International Film Festival example sett](/setts/s13/k184r1k2r2k2r1k2w1k6w1k4r10k20~k101010-rc80000-wffffff/sett.png)|

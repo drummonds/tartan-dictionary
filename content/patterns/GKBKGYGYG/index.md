@@ -16,7 +16,7 @@ GKBKGYGYG
 
 | Tartans |
 |---------------|
-| [Fitzpatrick Hunting](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/)|
-|![Fitzpatrick Hunting example sett](/setts/s9/g20y4g12y8g32k32b4k32g4-b2c2c80-g006818-k101010-ye8c000/sett.png)|
-| [Fitzpatrick](/setts/s9/g20y4g12y8g32k32b4k32g4-b304080-g008000-k000000-yf0c000/)|
-|![Fitzpatrick example sett](/setts/s9/g20y4g12y8g32k32b4k32g4-b304080-g008000-k000000-yf0c000/sett.png)|
+| [Fitzpatrick Hunting](/setts/s9/g5y1g3y2g8k8b1k8g1~b2c2c80-g006818-k101010-ye8c000~x4/)|
+|![Fitzpatrick Hunting example sett](/setts/s9/g5y1g3y2g8k8b1k8g1~b2c2c80-g006818-k101010-ye8c000~x4/sett.png)|
+| [Fitzpatrick](/setts/s9/g5y1g3y2g8k8b1k8g1~b304080-g008000-k000000-yf0c000~x4/)|
+|![Fitzpatrick example sett](/setts/s9/g5y1g3y2g8k8b1k8g1~b304080-g008000-k000000-yf0c000~x4/sett.png)|

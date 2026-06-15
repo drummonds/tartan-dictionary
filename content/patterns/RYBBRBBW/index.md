@@ -6,7 +6,7 @@ RYBBRBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6y50b12ba6r4bb10ba36w6-b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0/tartan.png)
+![Woven sample](/setts/s8/r3y25b6ba3r2bb5ba18w3~b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYBBRBBW
 
 | Tartans |
 |---------------|
-| [Fulbright Foundation](/setts/s8/r6y50b12ba6r4bb10ba36w6-b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0/)|
-|![Fulbright Foundation example sett](/setts/s8/r6y50b12ba6r4bb10ba36w6-b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0/sett.png)|
+| [Fulbright Foundation](/setts/s8/r3y25b6ba3r2bb5ba18w3~b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0~x2/)|
+|![Fulbright Foundation example sett](/setts/s8/r3y25b6ba3r2bb5ba18w3~b1c1c50-ba1c0070-bb507c94-rc8002c-we0e0e0-ya0a0a0~x2/sett.png)|

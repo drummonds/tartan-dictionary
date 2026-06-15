@@ -6,7 +6,7 @@ BWBBGKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8w4b40ba4g40k4g8-b64008c-ba00008c-g808080-k101010-wc49cd8/tartan.png)
+![Woven sample](/setts/s7/b2w1b10ba1g10k1g2~b64008c-ba00008c-g808080-k101010-wc49cd8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBBGKG
 
 | Tartans |
 |---------------|
-| [Lennox Primary School](/setts/s7/b8w4b40ba4g40k4g8-b64008c-ba00008c-g808080-k101010-wc49cd8/)|
-|![Lennox Primary School example sett](/setts/s7/b8w4b40ba4g40k4g8-b64008c-ba00008c-g808080-k101010-wc49cd8/sett.png)|
+| [Lennox Primary School](/setts/s7/b2w1b10ba1g10k1g2~b64008c-ba00008c-g808080-k101010-wc49cd8~x4/)|
+|![Lennox Primary School example sett](/setts/s7/b2w1b10ba1g10k1g2~b64008c-ba00008c-g808080-k101010-wc49cd8~x4/sett.png)|

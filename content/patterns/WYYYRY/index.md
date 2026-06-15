@@ -6,7 +6,7 @@ WYYYRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4y24ya36yb36r36y4-rcc1100-wffffff-y4cbb17-yaffd700-ybff8000/tartan.png)
+![Woven sample](/setts/s6/w1y6ya9yb9r9y1~rcc1100-wffffff-y4cbb17-yaffd700-ybff8000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYYYRY
 
 | Tartans |
 |---------------|
-| [Max Reger, The](/setts/s6/w4y24ya36yb36r36y4-rcc1100-wffffff-y4cbb17-yaffd700-ybff8000/)|
-|![Max Reger, The example sett](/setts/s6/w4y24ya36yb36r36y4-rcc1100-wffffff-y4cbb17-yaffd700-ybff8000/sett.png)|
+| [Max Reger, The](/setts/s6/w1y6ya9yb9r9y1~rcc1100-wffffff-y4cbb17-yaffd700-ybff8000~x4/)|
+|![Max Reger, The example sett](/setts/s6/w1y6ya9yb9r9y1~rcc1100-wffffff-y4cbb17-yaffd700-ybff8000~x4/sett.png)|

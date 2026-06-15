@@ -6,7 +6,7 @@ GYGRRRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g8y4g40r8ra40r4ra8-g006818-r880000-rac80000-yb8b8b8/tartan.png)
+![Woven sample](/setts/s7/g2y1g10r2ra10r1ra2~g006818-r880000-rac80000-yb8b8b8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGRRRR
 
 | Tartans |
 |---------------|
-| [Lennox](/setts/s7/g8y4g40r8ra40r4ra8-g006818-r880000-rac80000-yb8b8b8/)|
-|![Lennox example sett](/setts/s7/g8y4g40r8ra40r4ra8-g006818-r880000-rac80000-yb8b8b8/sett.png)|
+| [Lennox](/setts/s7/g2y1g10r2ra10r1ra2~g006818-r880000-rac80000-yb8b8b8~x4/)|
+|![Lennox example sett](/setts/s7/g2y1g10r2ra10r1ra2~g006818-r880000-rac80000-yb8b8b8~x4/sett.png)|

@@ -16,5 +16,5 @@ BBRBRBYBYBY
 
 | Tartans |
 |---------------|
-| [Rourke-Frew (Ontario)](/setts/s11/b12ba6r4ba6r62ba12y4ba12y26ba4y4-b433a5a-ba311f11-rb62531-ye0a126/)|
-|![Rourke-Frew (Ontario) example sett](/setts/s11/b12ba6r4ba6r62ba12y4ba12y26ba4y4-b433a5a-ba311f11-rb62531-ye0a126/sett.png)|
+| [Rourke-Frew (Ontario)](/setts/s11/b6ba3r2ba3r31ba6y2ba6y13ba2y2~b433a5a-ba311f11-rb62531-ye0a126~x2/)|
+|![Rourke-Frew (Ontario) example sett](/setts/s11/b6ba3r2ba3r31ba6y2ba6y13ba2y2~b433a5a-ba311f11-rb62531-ye0a126~x2/sett.png)|

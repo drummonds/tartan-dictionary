@@ -6,7 +6,7 @@ BYRYGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b60y6r22y6g66ra12-b304080-g808080-r806050-rac00000-yf0c000/tartan.png)
+![Woven sample](/setts/s6/b30y3r11y3g33ra6~b304080-g808080-r806050-rac00000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRYGR
 
 | Tartans |
 |---------------|
-| [Balfour](/setts/s6/b60y6r22y6g66ra12-b304080-g808080-r806050-rac00000-yf0c000/)|
-|![Balfour example sett](/setts/s6/b60y6r22y6g66ra12-b304080-g808080-r806050-rac00000-yf0c000/sett.png)|
+| [Balfour](/setts/s6/b30y3r11y3g33ra6~b304080-g808080-r806050-rac00000-yf0c000~x2/)|
+|![Balfour example sett](/setts/s6/b30y3r11y3g33ra6~b304080-g808080-r806050-rac00000-yf0c000~x2/sett.png)|

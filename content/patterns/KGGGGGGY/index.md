@@ -6,7 +6,7 @@ KGGGGGGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k6g22ga30gb10ga20gc28gb28y4-g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a/tartan.png)
+![Woven sample](/setts/s8/k3g11ga15gb5ga10gc14gb14y2~g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGGGGGGY
 
 | Tartans |
 |---------------|
-| [Brocéliande (Restricted)](/setts/s8/k6g22ga30gb10ga20gc28gb28y4-g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a/)|
-|![Brocéliande (Restricted) example sett](/setts/s8/k6g22ga30gb10ga20gc28gb28y4-g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a/sett.png)|
+| [Brocéliande (Restricted)](/setts/s8/k3g11ga15gb5ga10gc14gb14y2~g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a~x2/)|
+|![Brocéliande (Restricted) example sett](/setts/s8/k3g11ga15gb5ga10gc14gb14y2~g4f8e95-ga244528-gb0f3c2d-gc193a1d-k101010-yc4be6a~x2/sett.png)|

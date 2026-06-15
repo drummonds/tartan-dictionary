@@ -6,7 +6,7 @@ BWRY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y264r11w11b11-b003c64-rc80000-we0e0e0-ybc8c00/tartan.png)
+![Woven sample](/setts/s4/y24r1w1b1~b003c64-rc80000-we0e0e0-ybc8c00~x11/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWRY
 
 | Tartans |
 |---------------|
-| [Dutch Football (Corporate)](/setts/s4/y264r11w11b11-b003c64-rc80000-we0e0e0-ybc8c00/)|
-|![Dutch Football (Corporate) example sett](/setts/s4/y264r11w11b11-b003c64-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Dutch Football (Corporate)](/setts/s4/y24r1w1b1~b003c64-rc80000-we0e0e0-ybc8c00~x11/)|
+|![Dutch Football (Corporate) example sett](/setts/s4/y24r1w1b1~b003c64-rc80000-we0e0e0-ybc8c00~x11/sett.png)|

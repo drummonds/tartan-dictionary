@@ -16,5 +16,5 @@ KWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Ogilvie (Black and White)](/setts/s38/k24w4k24w4k12w4k14w12k4w12k4w4k12w4k12w4k4w24k4w24k4w24k4w4k12w4k12w4k4w12k4w12k14w4k12w4k24w4-k101010-we0e0e0/)|
-|![Ogilvie (Black and White) example sett](/setts/s38/k24w4k24w4k12w4k14w12k4w12k4w4k12w4k12w4k4w24k4w24k4w24k4w4k12w4k12w4k4w12k4w12k14w4k12w4k24w4-k101010-we0e0e0/sett.png)|
+| [Ogilvie (Black and White)](/setts/s38/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12k2w12k2w2k6w2k6w2k2w6k2w6k7w2k6w2k12w2~k101010-we0e0e0~x2/)|
+|![Ogilvie (Black and White) example sett](/setts/s38/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12k2w12k2w2k6w2k6w2k2w6k2w6k7w2k6w2k12w2~k101010-we0e0e0~x2/sett.png)|

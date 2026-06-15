@@ -16,5 +16,5 @@ BRBRBRBGWGWG
 
 | Tartans |
 |---------------|
-| [Eidart, Scotch House](/setts/s12/g8w4g4w6g40b12r6b4r4b4r34b6-b304080-g808080-rc00000-we0e0e0/)|
-|![Eidart, Scotch House example sett](/setts/s12/g8w4g4w6g40b12r6b4r4b4r34b6-b304080-g808080-rc00000-we0e0e0/sett.png)|
+| [Eidart, Scotch House](/setts/s12/g4w2g2w3g20b6r3b2r2b2r17b3~b304080-g808080-rc00000-we0e0e0~x2/)|
+|![Eidart, Scotch House example sett](/setts/s12/g4w2g2w3g20b6r3b2r2b2r17b3~b304080-g808080-rc00000-we0e0e0~x2/sett.png)|

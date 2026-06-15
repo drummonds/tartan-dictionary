@@ -16,5 +16,5 @@ BBBBBBBBBBBRBGBWBWBWBWBWBWBGBR
 
 | Tartans |
 |---------------|
-| [Edinburgh, '86 Border](/setts/s30/b2ba4b4ba4b4ba78b4ba4b4ba4b2r2b2g2b20w6b4w2b2w2b6w2b2w2b4w6b20g2b2r2-b304080-ba8080d0-g808080-rc00000-we0e0e0/)|
-|![Edinburgh, '86 Border example sett](/setts/s30/b2ba4b4ba4b4ba78b4ba4b4ba4b2r2b2g2b20w6b4w2b2w2b6w2b2w2b4w6b20g2b2r2-b304080-ba8080d0-g808080-rc00000-we0e0e0/sett.png)|
+| [Edinburgh, '86 Border](/setts/s30/b1ba2b2ba2b2ba39b2ba2b2ba2b1r1b1g1b10w3b2w1b1w1b3w1b1w1b2w3b10g1b1r1~b304080-ba8080d0-g808080-rc00000-we0e0e0~x2/)|
+|![Edinburgh, '86 Border example sett](/setts/s30/b1ba2b2ba2b2ba39b2ba2b2ba2b1r1b1g1b10w3b2w1b1w1b3w1b1w1b2w3b10g1b1r1~b304080-ba8080d0-g808080-rc00000-we0e0e0~x2/sett.png)|

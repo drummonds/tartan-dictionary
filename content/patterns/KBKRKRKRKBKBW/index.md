@@ -16,5 +16,5 @@ KBKRKRKRKBKBW
 
 | Tartans |
 |---------------|
-| [Kennedy](/setts/s13/k4b8k28r6k12ra4k4ra4k20ba12k4ba6w2-b8080d0-ba304080-k000000-rd03030-ra806050-we0e0e0/)|
-|![Kennedy example sett](/setts/s13/k4b8k28r6k12ra4k4ra4k20ba12k4ba6w2-b8080d0-ba304080-k000000-rd03030-ra806050-we0e0e0/sett.png)|
+| [Kennedy](/setts/s13/k2b4k14r3k6ra2k2ra2k10ba6k2ba3w1~b8080d0-ba304080-k000000-rd03030-ra806050-we0e0e0~x2/)|
+|![Kennedy example sett](/setts/s13/k2b4k14r3k6ra2k2ra2k10ba6k2ba3w1~b8080d0-ba304080-k000000-rd03030-ra806050-we0e0e0~x2/sett.png)|

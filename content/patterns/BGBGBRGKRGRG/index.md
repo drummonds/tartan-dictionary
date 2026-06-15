@@ -16,5 +16,5 @@ BGBGBRGKRGRG
 
 | Tartans |
 |---------------|
-| [Ridgeback (Corporate)](/setts/s12/g148r12g6r48k2g18r24b4g4b4g4b4-b2c2c80-g006818-k101010-r98481c/)|
-|![Ridgeback (Corporate) example sett](/setts/s12/g148r12g6r48k2g18r24b4g4b4g4b4-b2c2c80-g006818-k101010-r98481c/sett.png)|
+| [Ridgeback (Corporate)](/setts/s12/g74r6g3r24k1g9r12b2g2b2g2b2~b2c2c80-g006818-k101010-r98481c~x2/)|
+|![Ridgeback (Corporate) example sett](/setts/s12/g74r6g3r24k1g9r12b2g2b2g2b2~b2c2c80-g006818-k101010-r98481c~x2/sett.png)|

@@ -6,7 +6,7 @@ BRYKYRBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4r4y4k60y60r4b4y4-b5f749c-k1c1714-rb03000-ye0a126/tartan.png)
+![Woven sample](/setts/s8/b1r1y1k15y15r1b1y1~b5f749c-k1c1714-rb03000-ye0a126~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYKYRBY
 
 | Tartans |
 |---------------|
-| [Pittsburgh St Andrew's Society](/setts/s8/b4r4y4k60y60r4b4y4-b5f749c-k1c1714-rb03000-ye0a126/)|
-|![Pittsburgh St Andrew's Society example sett](/setts/s8/b4r4y4k60y60r4b4y4-b5f749c-k1c1714-rb03000-ye0a126/sett.png)|
+| [Pittsburgh St Andrew's Society](/setts/s8/b1r1y1k15y15r1b1y1~b5f749c-k1c1714-rb03000-ye0a126~x4/)|
+|![Pittsburgh St Andrew's Society example sett](/setts/s8/b1r1y1k15y15r1b1y1~b5f749c-k1c1714-rb03000-ye0a126~x4/sett.png)|

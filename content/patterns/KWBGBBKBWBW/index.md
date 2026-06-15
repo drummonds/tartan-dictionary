@@ -16,5 +16,5 @@ KWBGBBKBWBW
 
 | Tartans |
 |---------------|
-| [Lomond Mist](/setts/s11/k16w2b2g20b32ba4k6bb66w2bb6wa4-b8f8fbc-ba7a378b-bb2f4f4f-g733d1a-k101010-waaaaff-waffffff/)|
-|![Lomond Mist example sett](/setts/s11/k16w2b2g20b32ba4k6bb66w2bb6wa4-b8f8fbc-ba7a378b-bb2f4f4f-g733d1a-k101010-waaaaff-waffffff/sett.png)|
+| [Lomond Mist](/setts/s11/k8w1b1g10b16ba2k3bb33w1bb3wa2~b8f8fbc-ba7a378b-bb2f4f4f-g733d1a-k101010-waaaaff-waffffff~x2/)|
+|![Lomond Mist example sett](/setts/s11/k8w1b1g10b16ba2k3bb33w1bb3wa2~b8f8fbc-ba7a378b-bb2f4f4f-g733d1a-k101010-waaaaff-waffffff~x2/sett.png)|

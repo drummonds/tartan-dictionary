@@ -16,5 +16,5 @@ RGGGBGGGR
 
 | Tartans |
 |---------------|
-| [Amazing Union (Personal)](/setts/s9/r8g60ga48g8b48g8ga48g60ra8-b101034-g682400-ga005c34-ra47800-raa80020/)|
-|![Amazing Union (Personal) example sett](/setts/s9/r8g60ga48g8b48g8ga48g60ra8-b101034-g682400-ga005c34-ra47800-raa80020/sett.png)|
+| [Amazing Union (Personal)](/setts/s9/r2g15ga12g2b12g2ga12g15ra2~b101034-g682400-ga005c34-ra47800-raa80020~x4/)|
+|![Amazing Union (Personal) example sett](/setts/s9/r2g15ga12g2b12g2ga12g15ra2~b101034-g682400-ga005c34-ra47800-raa80020~x4/sett.png)|

@@ -16,5 +16,5 @@ BBBBKBKGGWGGKBKBBBBW
 
 | Tartans |
 |---------------|
-| [Inverclyde Green](/setts/s20/b10ba4b18bb20k4bb8k4g20ga66w4ga66g20k4bb8k4bb20b18ba4b10w6-b202060-ba2474e8-bb780078-g006818-ga408060-k101010-wf8f8f8/)|
-|![Inverclyde Green example sett](/setts/s20/b10ba4b18bb20k4bb8k4g20ga66w4ga66g20k4bb8k4bb20b18ba4b10w6-b202060-ba2474e8-bb780078-g006818-ga408060-k101010-wf8f8f8/sett.png)|
+| [Inverclyde Green](/setts/s20/b5ba2b9bb10k2bb4k2g10ga33w2ga33g10k2bb4k2bb10b9ba2b5w3~b202060-ba2474e8-bb780078-g006818-ga408060-k101010-wf8f8f8~x2/)|
+|![Inverclyde Green example sett](/setts/s20/b5ba2b9bb10k2bb4k2g10ga33w2ga33g10k2bb4k2bb10b9ba2b5w3~b202060-ba2474e8-bb780078-g006818-ga408060-k101010-wf8f8f8~x2/sett.png)|

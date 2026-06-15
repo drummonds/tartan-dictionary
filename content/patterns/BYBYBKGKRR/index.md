@@ -16,5 +16,5 @@ BYBYBKGKRR
 
 | Tartans |
 |---------------|
-| [Coleburn (Corporate)](/setts/s10/b48y4b8y2b6k6g2k100r2ra6-b5c5c5c-g003820-k101010-rc80000-ra880000-ybc8c00/)|
-|![Coleburn (Corporate) example sett](/setts/s10/b48y4b8y2b6k6g2k100r2ra6-b5c5c5c-g003820-k101010-rc80000-ra880000-ybc8c00/sett.png)|
+| [Coleburn (Corporate)](/setts/s10/b24y2b4y1b3k3g1k50r1ra3~b5c5c5c-g003820-k101010-rc80000-ra880000-ybc8c00~x2/)|
+|![Coleburn (Corporate) example sett](/setts/s10/b24y2b4y1b3k3g1k50r1ra3~b5c5c5c-g003820-k101010-rc80000-ra880000-ybc8c00~x2/sett.png)|

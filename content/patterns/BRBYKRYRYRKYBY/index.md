@@ -16,5 +16,5 @@ BRBYKRYRYRKYBY
 
 | Tartans |
 |---------------|
-| [Ogilvy D](/setts/s14/b8r2b8y2k2r12ya2r8ya2r12k2y2b8ya2-b4367ae-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![Ogilvy D example sett](/setts/s14/b8r2b8y2k2r12ya2r8ya2r12k2y2b8ya2-b4367ae-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [Ogilvy D](/setts/s14/b4r1b4y1k1r6ya1r4ya1r6k1y1b4ya1~b4367ae-k000000-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![Ogilvy D example sett](/setts/s14/b4r1b4y1k1r6ya1r4ya1r6k1y1b4ya1~b4367ae-k000000-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|

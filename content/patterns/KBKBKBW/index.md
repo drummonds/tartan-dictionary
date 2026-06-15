@@ -6,7 +6,7 @@ KBKBKBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k64b4k12b4k26ba60w4-b0000ff-ba2f4f4f-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s7/k32b2k6b2k13ba30w2~b0000ff-ba2f4f4f-k101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ KBKBKBW
 
 | Tartans |
 |---------------|
-| [Mountain Rescue Association Honor Guard](/setts/s7/k64b4k12b4k26ba60w4-b0000ff-ba2f4f4f-k101010-wffffff/)|
-|![Mountain Rescue Association Honor Guard example sett](/setts/s7/k64b4k12b4k26ba60w4-b0000ff-ba2f4f4f-k101010-wffffff/sett.png)|
-| [Patriot, The (Fashion)](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/)|
-|![Patriot, The (Fashion) example sett](/setts/s7/k20b8k68ba4k4ba60w6-b1c0070-ba2c3c44-k101010-we0e0e0/sett.png)|
-| [Mountain Rescue Assoc. (Corporate)](/setts/s7/k64b4k12b4k26ba60w4-b1474b4-ba5c5c5c-k101010-wfcfcfc/)|
-|![Mountain Rescue Assoc. (Corporate) example sett](/setts/s7/k64b4k12b4k26ba60w4-b1474b4-ba5c5c5c-k101010-wfcfcfc/sett.png)|
+| [Mountain Rescue Association Honor Guard](/setts/s7/k32b2k6b2k13ba30w2~b0000ff-ba2f4f4f-k101010-wffffff~x2/)|
+|![Mountain Rescue Association Honor Guard example sett](/setts/s7/k32b2k6b2k13ba30w2~b0000ff-ba2f4f4f-k101010-wffffff~x2/sett.png)|
+| [Patriot, The (Fashion)](/setts/s7/k10b4k34ba2k2ba30w3~b1c0070-ba2c3c44-k101010-we0e0e0~x2/)|
+|![Patriot, The (Fashion) example sett](/setts/s7/k10b4k34ba2k2ba30w3~b1c0070-ba2c3c44-k101010-we0e0e0~x2/sett.png)|
+| [Mountain Rescue Assoc. (Corporate)](/setts/s7/k32b2k6b2k13ba30w2~b1474b4-ba5c5c5c-k101010-wfcfcfc~x2/)|
+|![Mountain Rescue Assoc. (Corporate) example sett](/setts/s7/k32b2k6b2k13ba30w2~b1474b4-ba5c5c5c-k101010-wfcfcfc~x2/sett.png)|

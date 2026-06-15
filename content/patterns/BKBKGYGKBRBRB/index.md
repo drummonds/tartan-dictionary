@@ -16,5 +16,5 @@ BKBKGYGKBRBRB
 
 | Tartans |
 |---------------|
-| [Keith (District)](/setts/s13/b18r5b3r5b3k20g18y4g18k20b20k6b6-b1474b4-g006818-k101010-rc80000-ye8c000/)|
-|![Keith (District) example sett](/setts/s13/b18r5b3r5b3k20g18y4g18k20b20k6b6-b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Keith (District)](/setts/s13/b18r5b3r5b3k20g18y4g18k20b20k6b6~b1474b4-g006818-k101010-rc80000-ye8c000/)|
+|![Keith (District) example sett](/setts/s13/b18r5b3r5b3k20g18y4g18k20b20k6b6~b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|

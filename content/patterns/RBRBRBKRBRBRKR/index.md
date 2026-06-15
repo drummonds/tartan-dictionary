@@ -16,5 +16,5 @@ RBRBRBKRBRBRKR
 
 | Tartans |
 |---------------|
-| [Chisholm, Christopher (Personal)](/setts/s14/r4b4r2b4r2b56k12r4ba2r4ba2r48k2ra2-b003c64-ba3474fc-k101010-r960000-raff0000/)|
-|![Chisholm, Christopher (Personal) example sett](/setts/s14/r4b4r2b4r2b56k12r4ba2r4ba2r48k2ra2-b003c64-ba3474fc-k101010-r960000-raff0000/sett.png)|
+| [Chisholm, Christopher (Personal)](/setts/s14/r2b2r1b2r1b28k6r2ba1r2ba1r24k1ra1~b003c64-ba3474fc-k101010-r960000-raff0000~x2/)|
+|![Chisholm, Christopher (Personal) example sett](/setts/s14/r2b2r1b2r1b28k6r2ba1r2ba1r24k1ra1~b003c64-ba3474fc-k101010-r960000-raff0000~x2/sett.png)|

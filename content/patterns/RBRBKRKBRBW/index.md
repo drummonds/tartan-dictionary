@@ -16,5 +16,5 @@ RBRBKRKBRBW
 
 | Tartans |
 |---------------|
-| [IRPA](/setts/s11/r12b4r4b46k4r8k4ba42r4ba4w12-b778899-ba187efc-k101010-rd4124f-wffffff/)|
-|![IRPA example sett](/setts/s11/r12b4r4b46k4r8k4ba42r4ba4w12-b778899-ba187efc-k101010-rd4124f-wffffff/sett.png)|
+| [IRPA](/setts/s11/r6b2r2b23k2r4k2ba21r2ba2w6~b778899-ba187efc-k101010-rd4124f-wffffff~x2/)|
+|![IRPA example sett](/setts/s11/r6b2r2b23k2r4k2ba21r2ba2w6~b778899-ba187efc-k101010-rd4124f-wffffff~x2/sett.png)|

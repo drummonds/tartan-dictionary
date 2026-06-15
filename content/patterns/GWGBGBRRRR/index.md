@@ -16,5 +16,5 @@ GWGBGBRRRR
 
 | Tartans |
 |---------------|
-| [Bell of Ardbel (Name)](/setts/s10/r14ra8r8ra50b2g64b8g4w4g10-b740074-g54603c-r6c2400-ra880000-wfcfcfc/)|
-|![Bell of Ardbel (Name) example sett](/setts/s10/r14ra8r8ra50b2g64b8g4w4g10-b740074-g54603c-r6c2400-ra880000-wfcfcfc/sett.png)|
+| [Bell of Ardbel (Name)](/setts/s10/r7ra4r4ra25b1g32b4g2w2g5~b740074-g54603c-r6c2400-ra880000-wfcfcfc~x2/)|
+|![Bell of Ardbel (Name) example sett](/setts/s10/r7ra4r4ra25b1g32b4g2w2g5~b740074-g54603c-r6c2400-ra880000-wfcfcfc~x2/sett.png)|

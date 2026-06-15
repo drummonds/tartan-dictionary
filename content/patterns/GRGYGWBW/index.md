@@ -6,7 +6,7 @@ GRGYGWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g52r4g6y4g16w40b6w8-b1c0070-g003820-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g26r2g3y2g8w20b3w4~b1c0070-g003820-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGYGWBW
 
 | Tartans |
 |---------------|
-| [Green Mountain](/setts/s8/g52r4g6y4g16w40b6w8-b1c0070-g003820-rc80000-we0e0e0-ye8c000/)|
-|![Green Mountain example sett](/setts/s8/g52r4g6y4g16w40b6w8-b1c0070-g003820-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Green Mountain](/setts/s8/g26r2g3y2g8w20b3w4~b1c0070-g003820-rc80000-we0e0e0-ye8c000~x2/)|
+|![Green Mountain example sett](/setts/s8/g26r2g3y2g8w20b3w4~b1c0070-g003820-rc80000-we0e0e0-ye8c000~x2/sett.png)|

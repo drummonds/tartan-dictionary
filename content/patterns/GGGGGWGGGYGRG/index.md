@@ -16,5 +16,5 @@ GGGGGWGGGYGRG
 
 | Tartans |
 |---------------|
-| [O'Neill (Personal)](/setts/s13/g48ga4g8ga32g2w4g2ga32g6y2g24r4g10-g004828-ga006810-r888888-wc0c0c0-ye8c000/)|
-|![O'Neill (Personal) example sett](/setts/s13/g48ga4g8ga32g2w4g2ga32g6y2g24r4g10-g004828-ga006810-r888888-wc0c0c0-ye8c000/sett.png)|
+| [O'Neill (Personal)](/setts/s13/g24ga2g4ga16g1w2g1ga16g3y1g12r2g5~g004828-ga006810-r888888-wc0c0c0-ye8c000~x2/)|
+|![O'Neill (Personal) example sett](/setts/s13/g24ga2g4ga16g1w2g1ga16g3y1g12r2g5~g004828-ga006810-r888888-wc0c0c0-ye8c000~x2/sett.png)|

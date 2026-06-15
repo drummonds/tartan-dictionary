@@ -6,7 +6,7 @@ GKBY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y80b16k40g22-b2474e8-g00643c-k000000-yf8e38c/tartan.png)
+![Woven sample](/setts/s4/y40b8k20g11~b2474e8-g00643c-k000000-yf8e38c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBY
 
 | Tartans |
 |---------------|
-| [Brun, Pierre Emmanuel (Personal)](/setts/s4/y80b16k40g22-b2474e8-g00643c-k000000-yf8e38c/)|
-|![Brun, Pierre Emmanuel (Personal) example sett](/setts/s4/y80b16k40g22-b2474e8-g00643c-k000000-yf8e38c/sett.png)|
+| [Brun, Pierre Emmanuel (Personal)](/setts/s4/y40b8k20g11~b2474e8-g00643c-k000000-yf8e38c~x2/)|
+|![Brun, Pierre Emmanuel (Personal) example sett](/setts/s4/y40b8k20g11~b2474e8-g00643c-k000000-yf8e38c~x2/sett.png)|

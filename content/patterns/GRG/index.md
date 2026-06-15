@@ -6,7 +6,7 @@ GRG
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/g60r3g12-g004c00-rc02000/tartan.png)
+![Woven sample](/setts/s3/g20r1g4~g004c00-rc02000~x3/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRG
 
 | Tartans |
 |---------------|
-| [Castle Fraser Check](/setts/s3/g60r3g12-g004c00-rc02000/)|
-|![Castle Fraser Check example sett](/setts/s3/g60r3g12-g004c00-rc02000/sett.png)|
+| [Castle Fraser Check](/setts/s3/g20r1g4~g004c00-rc02000~x3/)|
+|![Castle Fraser Check example sett](/setts/s3/g20r1g4~g004c00-rc02000~x3/sett.png)|

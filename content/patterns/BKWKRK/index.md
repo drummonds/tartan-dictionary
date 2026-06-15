@@ -6,7 +6,7 @@ BKWKRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b10k2w22k2r84k2-b5c8ca8-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b5k1w11k1r42k1~b5c8ca8-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWKRK
 
 | Tartans |
 |---------------|
-| [Davet (2014)](/setts/s6/b10k2w22k2r84k2-b5c8ca8-k101010-rc80000-wfcfcfc/)|
-|![Davet (2014) example sett](/setts/s6/b10k2w22k2r84k2-b5c8ca8-k101010-rc80000-wfcfcfc/sett.png)|
+| [Davet (2014)](/setts/s6/b5k1w11k1r42k1~b5c8ca8-k101010-rc80000-wfcfcfc~x2/)|
+|![Davet (2014) example sett](/setts/s6/b5k1w11k1r42k1~b5c8ca8-k101010-rc80000-wfcfcfc~x2/sett.png)|

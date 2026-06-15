@@ -16,7 +16,7 @@ BKGWGKGWGKBK
 
 | Tartans |
 |---------------|
-| [Graham of Montrose #2](/setts/s12/b18k18g18w4g18k18g18w4g18k18b18k6-b2c2c80-g006818-k101010-wfcfcfc/)|
-|![Graham of Montrose #2 example sett](/setts/s12/b18k18g18w4g18k18g18w4g18k18b18k6-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
-| [Wilson's No.064 #2](/setts/s12/b24k26g24w4g24k26g24w4g24k26b24k4-b440044-g006818-k101010-wc0c0c0/)|
-|![Wilson's No.064 #2 example sett](/setts/s12/b24k26g24w4g24k26g24w4g24k26b24k4-b440044-g006818-k101010-wc0c0c0/sett.png)|
+| [Graham of Montrose #2](/setts/s12/b9k9g9w2g9k9g9w2g9k9b9k3~b2c2c80-g006818-k101010-wfcfcfc~x2/)|
+|![Graham of Montrose #2 example sett](/setts/s12/b9k9g9w2g9k9g9w2g9k9b9k3~b2c2c80-g006818-k101010-wfcfcfc~x2/sett.png)|
+| [Wilson's No.064 #2](/setts/s12/b12k13g12w2g12k13g12w2g12k13b12k2~b440044-g006818-k101010-wc0c0c0~x2/)|
+|![Wilson's No.064 #2 example sett](/setts/s12/b12k13g12w2g12k13g12w2g12k13b12k2~b440044-g006818-k101010-wc0c0c0~x2/sett.png)|

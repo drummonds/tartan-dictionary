@@ -16,5 +16,5 @@ KRKRKBGYGR
 
 | Tartans |
 |---------------|
-| [Connolly Hunting (Name)](/setts/s10/k12r4k4r4k12b14g40y4g6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Connolly Hunting (Name) example sett](/setts/s10/k12r4k4r4k12b14g40y4g6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Connolly Hunting (Name)](/setts/s10/k6r2k2r2k6b7g20y2g3r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Connolly Hunting (Name) example sett](/setts/s10/k6r2k2r2k6b7g20y2g3r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

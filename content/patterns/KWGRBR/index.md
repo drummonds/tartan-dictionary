@@ -6,7 +6,7 @@ KWGRBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k4w2g10r2b36ra4-b5c8ca8-g006818-k101010-r880000-raff0000-wffffff/tartan.png)
+![Woven sample](/setts/s6/k2w1g5r1b18ra2~b5c8ca8-g006818-k101010-r880000-raff0000-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KWGRBR
 
 | Tartans |
 |---------------|
-| [Norris (1998)](/setts/s6/k4w2g10r2b36ra4-b5c8ca8-g006818-k101010-r880000-raff0000-wffffff/)|
-|![Norris (1998) example sett](/setts/s6/k4w2g10r2b36ra4-b5c8ca8-g006818-k101010-r880000-raff0000-wffffff/sett.png)|
-| [Norris (1998) (Name)](/setts/s6/k4w2g10r2b36r4-b5c8ca8-g006818-k101010-r880000-we0e0e0/)|
-|![Norris (1998) (Name) example sett](/setts/s6/k4w2g10r2b36r4-b5c8ca8-g006818-k101010-r880000-we0e0e0/sett.png)|
+| [Norris (1998)](/setts/s6/k2w1g5r1b18ra2~b5c8ca8-g006818-k101010-r880000-raff0000-wffffff~x2/)|
+|![Norris (1998) example sett](/setts/s6/k2w1g5r1b18ra2~b5c8ca8-g006818-k101010-r880000-raff0000-wffffff~x2/sett.png)|
+| [Norris (1998) (Name)](/setts/s6/k2w1g5r1b18r2~b5c8ca8-g006818-k101010-r880000-we0e0e0~x2/)|
+|![Norris (1998) (Name) example sett](/setts/s6/k2w1g5r1b18r2~b5c8ca8-g006818-k101010-r880000-we0e0e0~x2/sett.png)|

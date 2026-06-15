@@ -16,5 +16,5 @@ KRKBRBKRKKBR
 
 | Tartans |
 |---------------|
-| [Pride of Scotland Silver](/setts/s12/k18r4k4b4r36b4k4ra2k2k38b66ra4-b5c5c5c-k101010-r888888-rac80000/)|
-|![Pride of Scotland Silver example sett](/setts/s12/k18r4k4b4r36b4k4ra2k2k38b66ra4-b5c5c5c-k101010-r888888-rac80000/sett.png)|
+| [Pride of Scotland Silver](/setts/s12/k9r2k2b2r18b2k2ra1k1k19b33ra2~b5c5c5c-k101010-r888888-rac80000~x2/)|
+|![Pride of Scotland Silver example sett](/setts/s12/k9r2k2b2r18b2k2ra1k1k19b33ra2~b5c5c5c-k101010-r888888-rac80000~x2/sett.png)|

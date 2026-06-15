@@ -6,7 +6,7 @@ RRBYKWKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8ra4b30y4k28w28k4w8-b8080d0-k000000-rd03030-ra806050-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s8/r4ra2b15y2k14w14k2w4~b8080d0-k000000-rd03030-ra806050-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRBYKWKW
 
 | Tartans |
 |---------------|
-| [Culloden, Stirling](/setts/s8/r8ra4b30y4k28w28k4w8-b8080d0-k000000-rd03030-ra806050-we0e0e0-yf0c000/)|
-|![Culloden, Stirling example sett](/setts/s8/r8ra4b30y4k28w28k4w8-b8080d0-k000000-rd03030-ra806050-we0e0e0-yf0c000/sett.png)|
+| [Culloden, Stirling](/setts/s8/r4ra2b15y2k14w14k2w4~b8080d0-k000000-rd03030-ra806050-we0e0e0-yf0c000~x2/)|
+|![Culloden, Stirling example sett](/setts/s8/r4ra2b15y2k14w14k2w4~b8080d0-k000000-rd03030-ra806050-we0e0e0-yf0c000~x2/sett.png)|

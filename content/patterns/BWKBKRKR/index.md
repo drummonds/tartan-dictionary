@@ -6,7 +6,7 @@ BWKBKRKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8w8k24b12k8r56k4r4-b441800-k101010-ra07c58-wffffff/tartan.png)
+![Woven sample](/setts/s8/b2w2k6b3k2r14k1r1~b441800-k101010-ra07c58-wffffff~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKBKRKR
 
 | Tartans |
 |---------------|
-| [Braemar or Blair Atholl](/setts/s8/b8w8k24b12k8r56k4r4-b441800-k101010-ra07c58-wffffff/)|
-|![Braemar or Blair Atholl example sett](/setts/s8/b8w8k24b12k8r56k4r4-b441800-k101010-ra07c58-wffffff/sett.png)|
+| [Braemar or Blair Atholl](/setts/s8/b2w2k6b3k2r14k1r1~b441800-k101010-ra07c58-wffffff~x4/)|
+|![Braemar or Blair Atholl example sett](/setts/s8/b2w2k6b3k2r14k1r1~b441800-k101010-ra07c58-wffffff~x4/sett.png)|

@@ -16,5 +16,5 @@ RRBWRBYWYY
 
 | Tartans |
 |---------------|
-| [Union Memorial Tartan (Military)](/setts/s10/y24y8w8y8b4r112w36b2r8r6-b1c0070-ra00000-wc0c0c0-ye8c000/)|
-|![Union Memorial Tartan (Military) example sett](/setts/s10/y24y8w8y8b4r112w36b2r8r6-b1c0070-ra00000-wc0c0c0-ye8c000/sett.png)|
+| [Union Memorial Tartan (Military)](/setts/s10/y12y4w4y4b2r56w18b1r4r3~b1c0070-ra00000-wc0c0c0-ye8c000~x2/)|
+|![Union Memorial Tartan (Military) example sett](/setts/s10/y12y4w4y4b2r56w18b1r4r3~b1c0070-ra00000-wc0c0c0-ye8c000~x2/sett.png)|

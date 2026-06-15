@@ -16,5 +16,5 @@ WKYBYBYBYBYKYKYKW
 
 | Tartans |
 |---------------|
-| [Cornish Pascoe, The](/setts/s17/w4k64y10b6y4b6y4b6y2b12ya6k4ya2ka6ya4k4w2-b292929-k101010-ka000000-wffffff-yb0b0b0-yaffcc11/)|
-|![Cornish Pascoe, The example sett](/setts/s17/w4k64y10b6y4b6y4b6y2b12ya6k4ya2ka6ya4k4w2-b292929-k101010-ka000000-wffffff-yb0b0b0-yaffcc11/sett.png)|
+| [Cornish Pascoe, The](/setts/s17/w2k32y5b3y2b3y2b3y1b6ya3k2ya1ka3ya2k2w1~b292929-k101010-ka000000-wffffff-yb0b0b0-yaffcc11~x2/)|
+|![Cornish Pascoe, The example sett](/setts/s17/w2k32y5b3y2b3y2b3y1b6ya3k2ya1ka3ya2k2w1~b292929-k101010-ka000000-wffffff-yb0b0b0-yaffcc11~x2/sett.png)|

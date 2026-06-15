@@ -6,7 +6,7 @@ KRBRBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8r4b68r68ba4y8-b304080-ba102040-k000000-r802040-yf0c000/tartan.png)
+![Woven sample](/setts/s6/k2r1b17r17ba1y2~b304080-ba102040-k000000-r802040-yf0c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRBRBY
 
 | Tartans |
 |---------------|
-| [Murdoch](/setts/s6/k8r4b68r68ba4y8-b304080-ba102040-k000000-r802040-yf0c000/)|
-|![Murdoch example sett](/setts/s6/k8r4b68r68ba4y8-b304080-ba102040-k000000-r802040-yf0c000/sett.png)|
+| [Murdoch](/setts/s6/k2r1b17r17ba1y2~b304080-ba102040-k000000-r802040-yf0c000~x4/)|
+|![Murdoch example sett](/setts/s6/k2r1b17r17ba1y2~b304080-ba102040-k000000-r802040-yf0c000~x4/sett.png)|

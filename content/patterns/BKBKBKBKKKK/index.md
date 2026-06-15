@@ -16,5 +16,5 @@ BKBKBKBKKKK
 
 | Tartans |
 |---------------|
-| [Lunar (Fashion)](/setts/s11/k40k4k12k28b4k4b4k4b4k4b28-b646464-k000000/)|
-|![Lunar (Fashion) example sett](/setts/s11/k40k4k12k28b4k4b4k4b4k4b28-b646464-k000000/sett.png)|
+| [Lunar (Fashion)](/setts/s11/k10k1k3k7b1k1b1k1b1k1b7~b646464-k000000~x4/)|
+|![Lunar (Fashion) example sett](/setts/s11/k10k1k3k7b1k1b1k1b1k1b7~b646464-k000000~x4/sett.png)|

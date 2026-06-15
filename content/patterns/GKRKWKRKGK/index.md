@@ -16,5 +16,5 @@ GKRKWKRKGK
 
 | Tartans |
 |---------------|
-| [Henkel](/setts/s10/g56k6r44k16w6k16r44k6g56k6-g808080-k101010-rc80000-wfcfcfc/)|
-|![Henkel example sett](/setts/s10/g56k6r44k16w6k16r44k6g56k6-g808080-k101010-rc80000-wfcfcfc/sett.png)|
+| [Henkel](/setts/s10/g28k3r22k8w3k8r22k3g28k3~g808080-k101010-rc80000-wfcfcfc~x2/)|
+|![Henkel example sett](/setts/s10/g28k3r22k8w3k8r22k3g28k3~g808080-k101010-rc80000-wfcfcfc~x2/sett.png)|

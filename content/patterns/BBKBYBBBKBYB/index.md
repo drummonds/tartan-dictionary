@@ -16,5 +16,5 @@ BBKBYBBBKBYB
 
 | Tartans |
 |---------------|
-| [Scottish Womens Rural Institute (Cor](/setts/s12/b40y36b44k4b12ba4b40y36b44k4b12ba4-b202060-ba5c8ca8-k101010-yd09800/)|
-|![Scottish Womens Rural Institute (Cor example sett](/setts/s12/b40y36b44k4b12ba4b40y36b44k4b12ba4-b202060-ba5c8ca8-k101010-yd09800/sett.png)|
+| [Scottish Womens Rural Institute (Cor](/setts/s12/b10y9b11k1b3ba1b10y9b11k1b3ba1~b202060-ba5c8ca8-k101010-yd09800~x4/)|
+|![Scottish Womens Rural Institute (Cor example sett](/setts/s12/b10y9b11k1b3ba1b10y9b11k1b3ba1~b202060-ba5c8ca8-k101010-yd09800~x4/sett.png)|

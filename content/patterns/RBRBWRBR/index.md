@@ -6,7 +6,7 @@ RBRBWRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r22b2r22w20b2ra22b2ra22-b304080-r806050-rac00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r11b1r11w10b1ra11b1ra11~b304080-r806050-rac00000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRBWRBR
 
 | Tartans |
 |---------------|
-| [St Andrews](/setts/s8/r22b2r22w20b2ra22b2ra22-b304080-r806050-rac00000-we0e0e0/)|
-|![St Andrews example sett](/setts/s8/r22b2r22w20b2ra22b2ra22-b304080-r806050-rac00000-we0e0e0/sett.png)|
+| [St Andrews](/setts/s8/r11b1r11w10b1ra11b1ra11~b304080-r806050-rac00000-we0e0e0~x2/)|
+|![St Andrews example sett](/setts/s8/r11b1r11w10b1ra11b1ra11~b304080-r806050-rac00000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ RBRYRYRBW
 
 | Tartans |
 |---------------|
-| [Khosla, Sarah and Jatin (Personal)](/setts/s9/r8b20ra36y6ra6y10rb16b18w8-b1c1c1c-rb458ac-raa00048-rbe87878-wf8f4d0-yf8e38c/)|
-|![Khosla, Sarah and Jatin (Personal) example sett](/setts/s9/r8b20ra36y6ra6y10rb16b18w8-b1c1c1c-rb458ac-raa00048-rbe87878-wf8f4d0-yf8e38c/sett.png)|
+| [Khosla, Sarah and Jatin (Personal)](/setts/s9/r4b10ra18y3ra3y5rb8b9w4~b1c1c1c-rb458ac-raa00048-rbe87878-wf8f4d0-yf8e38c~x2/)|
+|![Khosla, Sarah and Jatin (Personal) example sett](/setts/s9/r4b10ra18y3ra3y5rb8b9w4~b1c1c1c-rb458ac-raa00048-rbe87878-wf8f4d0-yf8e38c~x2/sett.png)|

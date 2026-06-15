@@ -16,5 +16,5 @@ RYBWGRBBW
 
 | Tartans |
 |---------------|
-| [Drummond, Ancient](/setts/s9/r76y2b6w2g26r12b6ba6w2-b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/)|
-|![Drummond, Ancient example sett](/setts/s9/r76y2b6w2g26r12b6ba6w2-b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Drummond, Ancient](/setts/s9/r38y1b3w1g13r6b3ba3w1~b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Drummond, Ancient example sett](/setts/s9/r38y1b3w1g13r6b3ba3w1~b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

@@ -6,7 +6,7 @@ GBGWBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g22b2g22w20b2r22b2r22-b2c2c80-g604000-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g11b1g11w10b1r11b1r11~b2c2c80-g604000-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGWBRBR
 
 | Tartans |
 |---------------|
-| [St. Andrews (Queens University) (Cor](/setts/s8/g22b2g22w20b2r22b2r22-b2c2c80-g604000-rc80000-we0e0e0/)|
-|![St. Andrews (Queens University) (Cor example sett](/setts/s8/g22b2g22w20b2r22b2r22-b2c2c80-g604000-rc80000-we0e0e0/sett.png)|
+| [St. Andrews (Queens University) (Cor](/setts/s8/g11b1g11w10b1r11b1r11~b2c2c80-g604000-rc80000-we0e0e0~x2/)|
+|![St. Andrews (Queens University) (Cor example sett](/setts/s8/g11b1g11w10b1r11b1r11~b2c2c80-g604000-rc80000-we0e0e0~x2/sett.png)|

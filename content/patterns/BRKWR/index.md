@@ -6,7 +6,7 @@ BRKWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b64r4k64w4r4-b3474fc-k000000-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s5/b16r1k16w1r1~b3474fc-k000000-rff0000-wffffff~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRKWR
 
 | Tartans |
 |---------------|
-| [Christie (2016)](/setts/s5/b64r4k64w4r4-b3474fc-k000000-rff0000-wffffff/)|
-|![Christie (2016) example sett](/setts/s5/b64r4k64w4r4-b3474fc-k000000-rff0000-wffffff/sett.png)|
+| [Christie (2016)](/setts/s5/b16r1k16w1r1~b3474fc-k000000-rff0000-wffffff~x4/)|
+|![Christie (2016) example sett](/setts/s5/b16r1k16w1r1~b3474fc-k000000-rff0000-wffffff~x4/sett.png)|

@@ -16,5 +16,5 @@ BKBKYKBKBWB
 
 | Tartans |
 |---------------|
-| [Haus of RvR](/setts/s11/b26w4b26k6ba26k42y6k36b18k4b4-b2c4084-ba141e46-k101010-we0e0e0-yc88c00/)|
-|![Haus of RvR example sett](/setts/s11/b26w4b26k6ba26k42y6k36b18k4b4-b2c4084-ba141e46-k101010-we0e0e0-yc88c00/sett.png)|
+| [Haus of RvR](/setts/s11/b13w2b13k3ba13k21y3k18b9k2b2~b2c4084-ba141e46-k101010-we0e0e0-yc88c00~x2/)|
+|![Haus of RvR example sett](/setts/s11/b13w2b13k3ba13k21y3k18b9k2b2~b2c4084-ba141e46-k101010-we0e0e0-yc88c00~x2/sett.png)|

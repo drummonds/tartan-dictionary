@@ -6,7 +6,7 @@ GWRYWBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w80b10w12y52r26w18g6-b440044-g604000-r888888-we8ccb8-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w40b5w6y26r13w9g3~b440044-g604000-r888888-we8ccb8-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWRYWBW
 
 | Tartans |
 |---------------|
-| [de Meuron Dress (Family)](/setts/s7/w80b10w12y52r26w18g6-b440044-g604000-r888888-we8ccb8-ye8c000/)|
-|![de Meuron Dress (Family) example sett](/setts/s7/w80b10w12y52r26w18g6-b440044-g604000-r888888-we8ccb8-ye8c000/sett.png)|
+| [de Meuron Dress (Family)](/setts/s7/w40b5w6y26r13w9g3~b440044-g604000-r888888-we8ccb8-ye8c000~x2/)|
+|![de Meuron Dress (Family) example sett](/setts/s7/w40b5w6y26r13w9g3~b440044-g604000-r888888-we8ccb8-ye8c000~x2/sett.png)|

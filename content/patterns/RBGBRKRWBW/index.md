@@ -16,5 +16,5 @@ RBGBRKRWBW
 
 | Tartans |
 |---------------|
-| [Jaggy Thistle (Fashion)](/setts/s10/w18b8w10r8k6r24b36g8b36r12-b5c5c5c-g5c6428-k101010-r888888-wc49cd8/)|
-|![Jaggy Thistle (Fashion) example sett](/setts/s10/w18b8w10r8k6r24b36g8b36r12-b5c5c5c-g5c6428-k101010-r888888-wc49cd8/sett.png)|
+| [Jaggy Thistle (Fashion)](/setts/s10/w9b4w5r4k3r12b18g4b18r6~b5c5c5c-g5c6428-k101010-r888888-wc49cd8~x2/)|
+|![Jaggy Thistle (Fashion) example sett](/setts/s10/w9b4w5r4k3r12b18g4b18r6~b5c5c5c-g5c6428-k101010-r888888-wc49cd8~x2/sett.png)|

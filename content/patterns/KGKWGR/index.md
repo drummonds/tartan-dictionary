@@ -6,7 +6,7 @@ KGKWGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r16g24w10k22g84k6-g347400-k101010-rc80000-wf4f8c8/tartan.png)
+![Woven sample](/setts/s6/r8g12w5k11g42k3~g347400-k101010-rc80000-wf4f8c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKWGR
 
 | Tartans |
 |---------------|
-| [Sir Billi (Corporate)](/setts/s6/r16g24w10k22g84k6-g347400-k101010-rc80000-wf4f8c8/)|
-|![Sir Billi (Corporate) example sett](/setts/s6/r16g24w10k22g84k6-g347400-k101010-rc80000-wf4f8c8/sett.png)|
+| [Sir Billi (Corporate)](/setts/s6/r8g12w5k11g42k3~g347400-k101010-rc80000-wf4f8c8~x2/)|
+|![Sir Billi (Corporate) example sett](/setts/s6/r8g12w5k11g42k3~g347400-k101010-rc80000-wf4f8c8~x2/sett.png)|

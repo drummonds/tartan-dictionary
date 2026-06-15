@@ -16,5 +16,5 @@ YBKRKRKRKY
 
 | Tartans |
 |---------------|
-| [Tribal](/setts/s10/y8k64r20k4ra32k4r20k4b64ya8-b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000/)|
-|![Tribal example sett](/setts/s10/y8k64r20k4ra32k4r20k4b64ya8-b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000/sett.png)|
+| [Tribal](/setts/s10/y2k16r5k1ra8k1r5k1b16ya2~b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000~x4/)|
+|![Tribal example sett](/setts/s10/y2k16r5k1ra8k1r5k1b16ya2~b5a008c-k101010-rdc0000-rafa4b00-y00c814-yae8c000~x4/sett.png)|

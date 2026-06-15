@@ -16,5 +16,5 @@ KBGRKRKBW
 
 | Tartans |
 |---------------|
-| [Edinburgh](/setts/s9/w8b50k4r8k6r12g17ba7k4-b304080-ba800080-g008000-k000000-rc00000-we0e0e0/)|
-|![Edinburgh example sett](/setts/s9/w8b50k4r8k6r12g17ba7k4-b304080-ba800080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Edinburgh](/setts/s9/w8b50k4r8k6r12g17ba7k4~b304080-ba800080-g008000-k000000-rc00000-we0e0e0/)|
+|![Edinburgh example sett](/setts/s9/w8b50k4r8k6r12g17ba7k4~b304080-ba800080-g008000-k000000-rc00000-we0e0e0/sett.png)|

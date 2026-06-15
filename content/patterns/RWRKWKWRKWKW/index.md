@@ -16,5 +16,5 @@ RWRKWKWRKWKW
 
 | Tartans |
 |---------------|
-| [Westgaard of Kileughtero](/setts/s12/r30w14r20k14w6ka6w6r20k10w6ka6w6-k000030-ka000000-rc00000-we0e0e0/)|
-|![Westgaard of Kileughtero example sett](/setts/s12/r30w14r20k14w6ka6w6r20k10w6ka6w6-k000030-ka000000-rc00000-we0e0e0/sett.png)|
+| [Westgaard of Kileughtero](/setts/s12/r15w7r10k7w3ka3w3r10k5w3ka3w3~k000030-ka000000-rc00000-we0e0e0~x2/)|
+|![Westgaard of Kileughtero example sett](/setts/s12/r15w7r10k7w3ka3w3r10k5w3ka3w3~k000030-ka000000-rc00000-we0e0e0~x2/sett.png)|

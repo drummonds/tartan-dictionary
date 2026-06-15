@@ -16,5 +16,5 @@ GBGGGGGBY
 
 | Tartans |
 |---------------|
-| [Roast Den, The](/setts/s9/y124b24g2ga8gb4ga8g2b24gb24-b501400-g289c18-ga006818-gb003820-ya08858/)|
-|![Roast Den, The example sett](/setts/s9/y124b24g2ga8gb4ga8g2b24gb24-b501400-g289c18-ga006818-gb003820-ya08858/sett.png)|
+| [Roast Den, The](/setts/s9/y62b12g1ga4gb2ga4g1b12gb12~b501400-g289c18-ga006818-gb003820-ya08858~x2/)|
+|![Roast Den, The example sett](/setts/s9/y62b12g1ga4gb2ga4g1b12gb12~b501400-g289c18-ga006818-gb003820-ya08858~x2/sett.png)|

@@ -16,5 +16,5 @@ WGKGKGKBYBY
 
 | Tartans |
 |---------------|
-| [Clark of Ulva (Clan)](/setts/s11/w6g6k8g28k8g6k28b36y2b8y4-b000048-g285800-k000000-w00fcfc-yd87c00/)|
-|![Clark of Ulva (Clan) example sett](/setts/s11/w6g6k8g28k8g6k28b36y2b8y4-b000048-g285800-k000000-w00fcfc-yd87c00/sett.png)|
+| [Clark of Ulva (Clan)](/setts/s11/w3g3k4g14k4g3k14b18y1b4y2~b000048-g285800-k000000-w00fcfc-yd87c00~x2/)|
+|![Clark of Ulva (Clan) example sett](/setts/s11/w3g3k4g14k4g3k14b18y1b4y2~b000048-g285800-k000000-w00fcfc-yd87c00~x2/sett.png)|

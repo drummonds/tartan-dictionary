@@ -16,5 +16,5 @@ RBGBWBRGBGBY
 
 | Tartans |
 |---------------|
-| [Langholm Millennium](/setts/s12/r86b6g2b4w2b12ra4ga2b2ga6b2y6-b2c2c80-g604000-ga006818-r901c38-rac80000-we0e0e0-ye8c000/)|
-|![Langholm Millennium example sett](/setts/s12/r86b6g2b4w2b12ra4ga2b2ga6b2y6-b2c2c80-g604000-ga006818-r901c38-rac80000-we0e0e0-ye8c000/sett.png)|
+| [Langholm Millennium](/setts/s12/r43b3g1b2w1b6ra2ga1b1ga3b1y3~b2c2c80-g604000-ga006818-r901c38-rac80000-we0e0e0-ye8c000~x2/)|
+|![Langholm Millennium example sett](/setts/s12/r43b3g1b2w1b6ra2ga1b1ga3b1y3~b2c2c80-g604000-ga006818-r901c38-rac80000-we0e0e0-ye8c000~x2/sett.png)|

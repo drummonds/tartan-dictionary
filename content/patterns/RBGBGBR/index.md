@@ -6,7 +6,7 @@ RBGBGBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4b28g28b28g28ba28r4-b304080-ba401000-g008000-rc00000/tartan.png)
+![Woven sample](/setts/s7/r1b7g7b7g7ba7r1~b304080-ba401000-g008000-rc00000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBGBGBR
 
 | Tartans |
 |---------------|
-| [Tennant](/setts/s7/r4b28g28b28g28ba28r4-b304080-ba401000-g008000-rc00000/)|
-|![Tennant example sett](/setts/s7/r4b28g28b28g28ba28r4-b304080-ba401000-g008000-rc00000/sett.png)|
+| [Tennant](/setts/s7/r1b7g7b7g7ba7r1~b304080-ba401000-g008000-rc00000~x4/)|
+|![Tennant example sett](/setts/s7/r1b7g7b7g7ba7r1~b304080-ba401000-g008000-rc00000~x4/sett.png)|

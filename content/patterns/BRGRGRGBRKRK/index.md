@@ -16,5 +16,5 @@ BRGRGRGBRKRK
 
 | Tartans |
 |---------------|
-| [Leach (1999)](/setts/s12/k12r6k6r48b8g20r4g8r4g48r12b4-b2888c4-g006818-k101010-rc80000/)|
-|![Leach (1999) example sett](/setts/s12/k12r6k6r48b8g20r4g8r4g48r12b4-b2888c4-g006818-k101010-rc80000/sett.png)|
+| [Leach (1999)](/setts/s12/k6r3k3r24b4g10r2g4r2g24r6b2~b2888c4-g006818-k101010-rc80000~x2/)|
+|![Leach (1999) example sett](/setts/s12/k6r3k3r24b4g10r2g4r2g24r6b2~b2888c4-g006818-k101010-rc80000~x2/sett.png)|

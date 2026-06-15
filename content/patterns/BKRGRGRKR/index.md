@@ -16,5 +16,5 @@ BKRGRGRKR
 
 | Tartans |
 |---------------|
-| [Fulton (1999) (Name)](/setts/s9/b12k20r8g8r12g48r24k4r12-b2c2c80-g006818-k101010-rc80000/)|
-|![Fulton (1999) (Name) example sett](/setts/s9/b12k20r8g8r12g48r24k4r12-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Fulton (1999) (Name)](/setts/s9/b3k5r2g2r3g12r6k1r3~b2c2c80-g006818-k101010-rc80000~x4/)|
+|![Fulton (1999) (Name) example sett](/setts/s9/b3k5r2g2r3g12r6k1r3~b2c2c80-g006818-k101010-rc80000~x4/sett.png)|

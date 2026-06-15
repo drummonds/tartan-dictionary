@@ -16,5 +16,5 @@ BRKRRKBRRR
 
 | Tartans |
 |---------------|
-| [Dobrain (Personal)](/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/)|
-|![Dobrain (Personal) example sett](/setts/s10/r48ra4r8b4k12ra4r28k6ra8b16-b646464-k000000-rc82800-ra8c8c8c/sett.png)|
+| [Dobrain (Personal)](/setts/s10/r24ra2r4b2k6ra2r14k3ra4b8~b646464-k000000-rc82800-ra8c8c8c~x2/)|
+|![Dobrain (Personal) example sett](/setts/s10/r24ra2r4b2k6ra2r14k3ra4b8~b646464-k000000-rc82800-ra8c8c8c~x2/sett.png)|

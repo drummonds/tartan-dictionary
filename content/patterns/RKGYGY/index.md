@@ -6,7 +6,7 @@ RKGYGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6k36g36y6g36y6-g006818-k101010-rc8002c-yfccc00/tartan.png)
+![Woven sample](/setts/s6/r1k6g6y1g6y1~g006818-k101010-rc8002c-yfccc00~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGYGY
 
 | Tartans |
 |---------------|
-| [Moore Caledonian (Personal)](/setts/s6/r6k36g36y6g36y6-g006818-k101010-rc8002c-yfccc00/)|
-|![Moore Caledonian (Personal) example sett](/setts/s6/r6k36g36y6g36y6-g006818-k101010-rc8002c-yfccc00/sett.png)|
+| [Moore Caledonian (Personal)](/setts/s6/r1k6g6y1g6y1~g006818-k101010-rc8002c-yfccc00~x6/)|
+|![Moore Caledonian (Personal) example sett](/setts/s6/r1k6g6y1g6y1~g006818-k101010-rc8002c-yfccc00~x6/sett.png)|

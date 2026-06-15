@@ -6,7 +6,7 @@ RGRRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r74ra18r6g18ra6-g008000-r900030-ra806050/tartan.png)
+![Woven sample](/setts/s5/r37ra9r3g9ra3~g008000-r900030-ra806050~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGRRR
 
 | Tartans |
 |---------------|
-| [Glen Shee](/setts/s5/r74ra18r6g18ra6-g008000-r900030-ra806050/)|
-|![Glen Shee example sett](/setts/s5/r74ra18r6g18ra6-g008000-r900030-ra806050/sett.png)|
+| [Glen Shee](/setts/s5/r37ra9r3g9ra3~g008000-r900030-ra806050~x2/)|
+|![Glen Shee example sett](/setts/s5/r37ra9r3g9ra3~g008000-r900030-ra806050~x2/sett.png)|

@@ -6,7 +6,7 @@ BBYWB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b72ba42y8w24bb4-b003c64-ba5c8ca8-bb5a008c-wc0c0c0-yffe600/tartan.png)
+![Woven sample](/setts/s5/b36ba21y4w12bb2~b003c64-ba5c8ca8-bb5a008c-wc0c0c0-yffe600~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBYWB
 
 | Tartans |
 |---------------|
-| [Emond, Kenneth (Personal)](/setts/s5/b72ba42y8w24bb4-b003c64-ba5c8ca8-bb5a008c-wc0c0c0-yffe600/)|
-|![Emond, Kenneth (Personal) example sett](/setts/s5/b72ba42y8w24bb4-b003c64-ba5c8ca8-bb5a008c-wc0c0c0-yffe600/sett.png)|
+| [Emond, Kenneth (Personal)](/setts/s5/b36ba21y4w12bb2~b003c64-ba5c8ca8-bb5a008c-wc0c0c0-yffe600~x2/)|
+|![Emond, Kenneth (Personal) example sett](/setts/s5/b36ba21y4w12bb2~b003c64-ba5c8ca8-bb5a008c-wc0c0c0-yffe600~x2/sett.png)|

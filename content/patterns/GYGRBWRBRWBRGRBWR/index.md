@@ -16,5 +16,5 @@ GYGRBWRBRWBRGRBWR
 
 | Tartans |
 |---------------|
-| [King George IV - 1824 (Artefact)](/setts/s17/r48w2b2r6g48r6b2w2r6b12r6w2b2r48g6y6g6-b280034-g285800-rc80000-wf8f8f8-yfca098/)|
-|![King George IV - 1824 (Artefact) example sett](/setts/s17/r48w2b2r6g48r6b2w2r6b12r6w2b2r48g6y6g6-b280034-g285800-rc80000-wf8f8f8-yfca098/sett.png)|
+| [King George IV - 1824 (Artefact)](/setts/s17/r24w1b1r3g24r3b1w1r3b6r3w1b1r24g3y3g3~b280034-g285800-rc80000-wf8f8f8-yfca098~x2/)|
+|![King George IV - 1824 (Artefact) example sett](/setts/s17/r24w1b1r3g24r3b1w1r3b6r3w1b1r24g3y3g3~b280034-g285800-rc80000-wf8f8f8-yfca098~x2/sett.png)|

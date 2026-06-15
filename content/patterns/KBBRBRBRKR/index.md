@@ -16,5 +16,5 @@ KBBRBRBRKR
 
 | Tartans |
 |---------------|
-| [Ryukoku University Heian JHS (Corp)](/setts/s10/r8k32ra10b16ra4ba4ra4ba4b16k6-b5c5c5c-ba780078-k101010-rb468ac-ra888888/)|
-|![Ryukoku University Heian JHS (Corp) example sett](/setts/s10/r8k32ra10b16ra4ba4ra4ba4b16k6-b5c5c5c-ba780078-k101010-rb468ac-ra888888/sett.png)|
+| [Ryukoku University Heian JHS (Corp)](/setts/s10/r4k16ra5b8ra2ba2ra2ba2b8k3~b5c5c5c-ba780078-k101010-rb468ac-ra888888~x2/)|
+|![Ryukoku University Heian JHS (Corp) example sett](/setts/s10/r4k16ra5b8ra2ba2ra2ba2b8k3~b5c5c5c-ba780078-k101010-rb468ac-ra888888~x2/sett.png)|

@@ -16,7 +16,7 @@ GBGBGGGRR
 
 | Tartans |
 |---------------|
-| [Lawrence's Seven Pillars of Khaki](/setts/s9/g6b24g20b12g16ga12g16r46ra6-b5f749c-g767e52-ga008b00-rbe7832-rac8002c/)|
-|![Lawrence's Seven Pillars of Khaki example sett](/setts/s9/g6b24g20b12g16ga12g16r46ra6-b5f749c-g767e52-ga008b00-rbe7832-rac8002c/sett.png)|
-| [Lawrence's Seven Pillars of Khaki](/setts/s9/g6b24g20b12g16ga12g16r46ra6-b5c8ca8-g006818-ga289c18-r98481c-rab03000/)|
-|![Lawrence's Seven Pillars of Khaki example sett](/setts/s9/g6b24g20b12g16ga12g16r46ra6-b5c8ca8-g006818-ga289c18-r98481c-rab03000/sett.png)|
+| [Lawrence's Seven Pillars of Khaki](/setts/s9/g3b12g10b6g8ga6g8r23ra3~b5f749c-g767e52-ga008b00-rbe7832-rac8002c~x2/)|
+|![Lawrence's Seven Pillars of Khaki example sett](/setts/s9/g3b12g10b6g8ga6g8r23ra3~b5f749c-g767e52-ga008b00-rbe7832-rac8002c~x2/sett.png)|
+| [Lawrence's Seven Pillars of Khaki](/setts/s9/g3b12g10b6g8ga6g8r23ra3~b5c8ca8-g006818-ga289c18-r98481c-rab03000~x2/)|
+|![Lawrence's Seven Pillars of Khaki example sett](/setts/s9/g3b12g10b6g8ga6g8r23ra3~b5c8ca8-g006818-ga289c18-r98481c-rab03000~x2/sett.png)|

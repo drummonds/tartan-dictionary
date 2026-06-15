@@ -6,7 +6,7 @@ RBKRKGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/tartan.png)
+![Woven sample](/setts/s7/r1b8k8r1k8g8r1~b2888c4-g006818-k101010-re87878~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKRKGR
 
 | Tartans |
 |---------------|
-| [Triad Highland Games Proposed](/setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/)|
-|![Triad Highland Games Proposed example sett](/setts/s7/r4b32k32r4k32g32r4-b2888c4-g006818-k101010-re87878/sett.png)|
+| [Triad Highland Games Proposed](/setts/s7/r1b8k8r1k8g8r1~b2888c4-g006818-k101010-re87878~x4/)|
+|![Triad Highland Games Proposed example sett](/setts/s7/r1b8k8r1k8g8r1~b2888c4-g006818-k101010-re87878~x4/sett.png)|

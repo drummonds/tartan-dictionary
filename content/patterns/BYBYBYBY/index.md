@@ -6,7 +6,7 @@ BYBYBYBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b12y4b42y4b12y48b4y12-b6840fc-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b6y2b21y2b6y24b2y6~b6840fc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBYBYBY
 
 | Tartans |
 |---------------|
-| [MacLachlan (Chief's Dress) Blue](/setts/s8/b12y4b42y4b12y48b4y12-b6840fc-ye8c000/)|
-|![MacLachlan (Chief's Dress) Blue example sett](/setts/s8/b12y4b42y4b12y48b4y12-b6840fc-ye8c000/sett.png)|
+| [MacLachlan (Chief's Dress) Blue](/setts/s8/b6y2b21y2b6y24b2y6~b6840fc-ye8c000~x2/)|
+|![MacLachlan (Chief's Dress) Blue example sett](/setts/s8/b6y2b21y2b6y24b2y6~b6840fc-ye8c000~x2/sett.png)|

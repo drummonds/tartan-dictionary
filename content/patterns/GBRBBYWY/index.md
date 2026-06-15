@@ -6,7 +6,7 @@ GBRBBYWY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g48b24r4b24b16y32w8y8-b440044-g003820-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g12b6r1b6b4y8w2y2~b440044-g003820-rc80000-we0e0e0-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRBBYWY
 
 | Tartans |
 |---------------|
-| [Connelly, James (Personal)](/setts/s8/g48b24r4b24b16y32w8y8-b440044-g003820-rc80000-we0e0e0-ye8c000/)|
-|![Connelly, James (Personal) example sett](/setts/s8/g48b24r4b24b16y32w8y8-b440044-g003820-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Connelly, James (Personal)](/setts/s8/g12b6r1b6b4y8w2y2~b440044-g003820-rc80000-we0e0e0-ye8c000~x4/)|
+|![Connelly, James (Personal) example sett](/setts/s8/g12b6r1b6b4y8w2y2~b440044-g003820-rc80000-we0e0e0-ye8c000~x4/sett.png)|

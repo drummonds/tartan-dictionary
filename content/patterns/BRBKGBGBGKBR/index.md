@@ -16,5 +16,5 @@ BRBKGBGBGKBR
 
 | Tartans |
 |---------------|
-| [MacTaggart (Johnstons)](/setts/s12/b8r8b48k48g8ba16g72ba16g8k48b48r8-b1c0070-ba2474e8-g006818-k101010-r880000/)|
-|![MacTaggart (Johnstons) example sett](/setts/s12/b8r8b48k48g8ba16g72ba16g8k48b48r8-b1c0070-ba2474e8-g006818-k101010-r880000/sett.png)|
+| [MacTaggart (Johnstons)](/setts/s12/b1r1b6k6g1ba2g9ba2g1k6b6r1~b1c0070-ba2474e8-g006818-k101010-r880000~x8/)|
+|![MacTaggart (Johnstons) example sett](/setts/s12/b1r1b6k6g1ba2g9ba2g1k6b6r1~b1c0070-ba2474e8-g006818-k101010-r880000~x8/sett.png)|

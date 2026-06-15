@@ -6,7 +6,7 @@ KYGYGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k20y8g28ya72g8w8-g603311-k101010-wffffff-yfee885-yaffec8b/tartan.png)
+![Woven sample](/setts/s6/k5y2g7ya18g2w2~g603311-k101010-wffffff-yfee885-yaffec8b~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KYGYGW
 
 | Tartans |
 |---------------|
-| [Shepherd, Derek (Piping)](/setts/s6/k20y8g28ya72g8w8-g603311-k101010-wffffff-yfee885-yaffec8b/)|
-|![Shepherd, Derek (Piping) example sett](/setts/s6/k20y8g28ya72g8w8-g603311-k101010-wffffff-yfee885-yaffec8b/sett.png)|
-| [Shepherd Piping (Personal)](/setts/s6/k20y8g28ya72g8w8-g604000-k101010-we0e0e0-yf0e490-yad8bc0c/)|
-|![Shepherd Piping (Personal) example sett](/setts/s6/k20y8g28ya72g8w8-g604000-k101010-we0e0e0-yf0e490-yad8bc0c/sett.png)|
+| [Shepherd, Derek (Piping)](/setts/s6/k5y2g7ya18g2w2~g603311-k101010-wffffff-yfee885-yaffec8b~x4/)|
+|![Shepherd, Derek (Piping) example sett](/setts/s6/k5y2g7ya18g2w2~g603311-k101010-wffffff-yfee885-yaffec8b~x4/sett.png)|
+| [Shepherd Piping (Personal)](/setts/s6/k5y2g7ya18g2w2~g604000-k101010-we0e0e0-yf0e490-yad8bc0c~x4/)|
+|![Shepherd Piping (Personal) example sett](/setts/s6/k5y2g7ya18g2w2~g604000-k101010-we0e0e0-yf0e490-yad8bc0c~x4/sett.png)|

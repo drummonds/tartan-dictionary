@@ -16,5 +16,5 @@ GKRKBKYKG
 
 | Tartans |
 |---------------|
-| [Granvert](/setts/s9/g230k30r16k8b16k8y16k8ga16-b1474b4-g004428-ga289c18-k101010-rc80000-ye8c000/)|
-|![Granvert example sett](/setts/s9/g230k30r16k8b16k8y16k8ga16-b1474b4-g004428-ga289c18-k101010-rc80000-ye8c000/sett.png)|
+| [Granvert](/setts/s9/g115k15r8k4b8k4y8k4ga8~b1474b4-g004428-ga289c18-k101010-rc80000-ye8c000~x2/)|
+|![Granvert example sett](/setts/s9/g115k15r8k4b8k4y8k4ga8~b1474b4-g004428-ga289c18-k101010-rc80000-ye8c000~x2/sett.png)|

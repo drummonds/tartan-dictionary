@@ -16,5 +16,5 @@ KGRGRGRGRK
 
 | Tartans |
 |---------------|
-| [MacDonald of Belfinlay](/setts/s10/k16g8r8g6r64g6r8g6r8k8-g447c34-k101010-rc80000/)|
-|![MacDonald of Belfinlay example sett](/setts/s10/k16g8r8g6r64g6r8g6r8k8-g447c34-k101010-rc80000/sett.png)|
+| [MacDonald of Belfinlay](/setts/s10/k8g4r4g3r32g3r4g3r4k4~g447c34-k101010-rc80000~x2/)|
+|![MacDonald of Belfinlay example sett](/setts/s10/k8g4r4g3r32g3r4g3r4k4~g447c34-k101010-rc80000~x2/sett.png)|

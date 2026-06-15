@@ -16,5 +16,5 @@ GRGWGBGBWBGBGWGRGW
 
 | Tartans |
 |---------------|
-| [Strathyre Dress (Dance)](/setts/s18/w110g24r4g6w4ga20b18g4b12w4b12g4b18ga20w4g6r4g24-b780078-g285800-ga006818-rc80000-wf8f8f8/)|
-|![Strathyre Dress (Dance) example sett](/setts/s18/w110g24r4g6w4ga20b18g4b12w4b12g4b18ga20w4g6r4g24-b780078-g285800-ga006818-rc80000-wf8f8f8/sett.png)|
+| [Strathyre Dress (Dance)](/setts/s18/w55g12r2g3w2ga10b9g2b6w2b6g2b9ga10w2g3r2g12~b780078-g285800-ga006818-rc80000-wf8f8f8~x2/)|
+|![Strathyre Dress (Dance) example sett](/setts/s18/w55g12r2g3w2ga10b9g2b6w2b6g2b9ga10w2g3r2g12~b780078-g285800-ga006818-rc80000-wf8f8f8~x2/sett.png)|

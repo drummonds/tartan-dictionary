@@ -16,5 +16,5 @@ BWBWGWBWBWBBW
 
 | Tartans |
 |---------------|
-| [McGillivray, Pauline (Personal)](/setts/s13/w12b2ba2w114b4w4ba46w8g60w12b2w12ba4-b5c8ca8-ba2c2c80-g006818-wf8f8f8/)|
-|![McGillivray, Pauline (Personal) example sett](/setts/s13/w12b2ba2w114b4w4ba46w8g60w12b2w12ba4-b5c8ca8-ba2c2c80-g006818-wf8f8f8/sett.png)|
+| [McGillivray, Pauline (Personal)](/setts/s13/w6b1ba1w57b2w2ba23w4g30w6b1w6ba2~b5c8ca8-ba2c2c80-g006818-wf8f8f8~x2/)|
+|![McGillivray, Pauline (Personal) example sett](/setts/s13/w6b1ba1w57b2w2ba23w4g30w6b1w6ba2~b5c8ca8-ba2c2c80-g006818-wf8f8f8~x2/sett.png)|

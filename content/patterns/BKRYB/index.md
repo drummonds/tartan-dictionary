@@ -6,7 +6,7 @@ BKRYB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b44k16r16y16b4-b5c5c5c-k101010-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s5/b11k4r4y4b1~b5c5c5c-k101010-r880000-yd09800~x4/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BKRYB
 
 | Tartans |
 |---------------|
-| [Ikelman #2 (Personal)](/setts/s5/b44k16r16y16b4-b5c5c5c-k101010-r880000-yd09800/)|
-|![Ikelman #2 (Personal) example sett](/setts/s5/b44k16r16y16b4-b5c5c5c-k101010-r880000-yd09800/sett.png)|
-| [Ikelman #3a (Personal)](/setts/s5/b44k16r16y16b44-b5c5c5c-k101010-r880000-yd09800/)|
-|![Ikelman #3a (Personal) example sett](/setts/s5/b44k16r16y16b44-b5c5c5c-k101010-r880000-yd09800/sett.png)|
-| [Prince of Orange](/setts/s5/b12y50r32k4b6-b304080-k000000-r806050-yff8500/)|
-|![Prince of Orange example sett](/setts/s5/b12y50r32k4b6-b304080-k000000-r806050-yff8500/sett.png)|
+| [Ikelman #2 (Personal)](/setts/s5/b11k4r4y4b1~b5c5c5c-k101010-r880000-yd09800~x4/)|
+|![Ikelman #2 (Personal) example sett](/setts/s5/b11k4r4y4b1~b5c5c5c-k101010-r880000-yd09800~x4/sett.png)|
+| [Ikelman #3a (Personal)](/setts/s5/b11k4r4y4b11~b5c5c5c-k101010-r880000-yd09800~x4/)|
+|![Ikelman #3a (Personal) example sett](/setts/s5/b11k4r4y4b11~b5c5c5c-k101010-r880000-yd09800~x4/sett.png)|
+| [Prince of Orange](/setts/s5/b6y25r16k2b3~b304080-k000000-r806050-yff8500~x2/)|
+|![Prince of Orange example sett](/setts/s5/b6y25r16k2b3~b304080-k000000-r806050-yff8500~x2/sett.png)|

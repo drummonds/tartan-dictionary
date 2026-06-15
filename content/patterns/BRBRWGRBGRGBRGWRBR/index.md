@@ -16,5 +16,5 @@ BRBRWGRBGRGBRGWRBR
 
 | Tartans |
 |---------------|
-| [Unnamed C18/19th - Antigonish (A)](/setts/s18/b26r12b4r12w2g52r4b52g12r52g12b52r4g52w2r12b4r12-b1c1c1c-g5c6428-rc40400-we0e0e0/)|
-|![Unnamed C18/19th - Antigonish (A) example sett](/setts/s18/b26r12b4r12w2g52r4b52g12r52g12b52r4g52w2r12b4r12-b1c1c1c-g5c6428-rc40400-we0e0e0/sett.png)|
+| [Unnamed C18/19th - Antigonish (A)](/setts/s18/b13r6b2r6w1g26r2b26g6r26g6b26r2g26w1r6b2r6~b1c1c1c-g5c6428-rc40400-we0e0e0~x2/)|
+|![Unnamed C18/19th - Antigonish (A) example sett](/setts/s18/b13r6b2r6w1g26r2b26g6r26g6b26r2g26w1r6b2r6~b1c1c1c-g5c6428-rc40400-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ KWKWKWKWKWWKWK
 
 | Tartans |
 |---------------|
-| [Drummond, Grey (Clans Originaux)](/setts/s14/k10w6k6wa20w6k6w4k12w2k30w6k6w4k10-k101010-wfcfcfc-wac0c0c0/)|
-|![Drummond, Grey (Clans Originaux) example sett](/setts/s14/k10w6k6wa20w6k6w4k12w2k30w6k6w4k10-k101010-wfcfcfc-wac0c0c0/sett.png)|
+| [Drummond, Grey (Clans Originaux)](/setts/s14/k5w3k3wa10w3k3w2k6w1k15w3k3w2k5~k101010-wfcfcfc-wac0c0c0~x2/)|
+|![Drummond, Grey (Clans Originaux) example sett](/setts/s14/k5w3k3wa10w3k3w2k6w1k15w3k3w2k5~k101010-wfcfcfc-wac0c0c0~x2/sett.png)|

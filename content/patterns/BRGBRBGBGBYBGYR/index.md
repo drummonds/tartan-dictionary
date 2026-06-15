@@ -16,5 +16,5 @@ BRGBRBGBGBYBGYR
 
 | Tartans |
 |---------------|
-| [Howells](/setts/s15/b32r2g6b10r2b10g6b8g24b28y2b28g24y4r12-b785050-g005020-rdc0000-ye8c000/)|
-|![Howells example sett](/setts/s15/b32r2g6b10r2b10g6b8g24b28y2b28g24y4r12-b785050-g005020-rdc0000-ye8c000/sett.png)|
+| [Howells](/setts/s15/b16r1g3b5r1b5g3b4g12b14y1b14g12y2r6~b785050-g005020-rdc0000-ye8c000~x2/)|
+|![Howells example sett](/setts/s15/b16r1g3b5r1b5g3b4g12b14y1b14g12y2r6~b785050-g005020-rdc0000-ye8c000~x2/sett.png)|

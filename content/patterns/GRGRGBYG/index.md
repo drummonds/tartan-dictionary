@@ -6,7 +6,7 @@ GRGRGBYG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g16y8b42g12r14g2r2g16-b003c64-g006818-ra00000-yb8b8b8/tartan.png)
+![Woven sample](/setts/s8/g8y4b21g6r7g1r1g8~b003c64-g006818-ra00000-yb8b8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRGBYG
 
 | Tartans |
 |---------------|
-| [Cathcart](/setts/s8/g16y8b42g12r14g2r2g16-b003c64-g006818-ra00000-yb8b8b8/)|
-|![Cathcart example sett](/setts/s8/g16y8b42g12r14g2r2g16-b003c64-g006818-ra00000-yb8b8b8/sett.png)|
+| [Cathcart](/setts/s8/g8y4b21g6r7g1r1g8~b003c64-g006818-ra00000-yb8b8b8~x2/)|
+|![Cathcart example sett](/setts/s8/g8y4b21g6r7g1r1g8~b003c64-g006818-ra00000-yb8b8b8~x2/sett.png)|

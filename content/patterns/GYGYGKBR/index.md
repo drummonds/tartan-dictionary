@@ -6,7 +6,7 @@ GYGYGKBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g94y4g10y4g8k30b38r4-b141e46-g003c14-k101010-rdc0000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g47y2g5y2g4k15b19r2~b141e46-g003c14-k101010-rdc0000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGYGKBR
 
 | Tartans |
 |---------------|
-| [Unidentified, Toy Bear](/setts/s8/g94y4g10y4g8k30b38r4-b141e46-g003c14-k101010-rdc0000-ye8c000/)|
-|![Unidentified, Toy Bear example sett](/setts/s8/g94y4g10y4g8k30b38r4-b141e46-g003c14-k101010-rdc0000-ye8c000/sett.png)|
+| [Unidentified, Toy Bear](/setts/s8/g47y2g5y2g4k15b19r2~b141e46-g003c14-k101010-rdc0000-ye8c000~x2/)|
+|![Unidentified, Toy Bear example sett](/setts/s8/g47y2g5y2g4k15b19r2~b141e46-g003c14-k101010-rdc0000-ye8c000~x2/sett.png)|

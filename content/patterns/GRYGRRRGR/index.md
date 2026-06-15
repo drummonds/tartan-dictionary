@@ -16,5 +16,5 @@ GRYGRRRGR
 
 | Tartans |
 |---------------|
-| [Henry, W. A.](/setts/s9/g64r64y12ga64ra8r4ra8g24r8-g484800-ga004c00-r9c0030-ra9c8000-yb0b0b0/)|
-|![Henry, W. A. example sett](/setts/s9/g64r64y12ga64ra8r4ra8g24r8-g484800-ga004c00-r9c0030-ra9c8000-yb0b0b0/sett.png)|
+| [Henry, W. A.](/setts/s9/g16r16y3ga16ra2r1ra2g6r2~g484800-ga004c00-r9c0030-ra9c8000-yb0b0b0~x4/)|
+|![Henry, W. A. example sett](/setts/s9/g16r16y3ga16ra2r1ra2g6r2~g484800-ga004c00-r9c0030-ra9c8000-yb0b0b0~x4/sett.png)|

@@ -16,5 +16,5 @@ GKGKGKGGGWGGGGKGKGKGGWG
 
 | Tartans |
 |---------------|
-| [Scottish National, dress](/setts/s23/g22k4g6k4g22k16ga4ga4ga4w4ga22ga4ga4ga4k16g22k4g6k4g22ga24w22ga6-g004010-ga30a010-k000000-we0e0e0/)|
-|![Scottish National, dress example sett](/setts/s23/g22k4g6k4g22k16ga4ga4ga4w4ga22ga4ga4ga4k16g22k4g6k4g22ga24w22ga6-g004010-ga30a010-k000000-we0e0e0/sett.png)|
+| [Scottish National, dress](/setts/s23/g11k2g3k2g11k8ga2ga2ga2w2ga11ga2ga2ga2k8g11k2g3k2g11ga12w11ga3~g004010-ga30a010-k000000-we0e0e0~x2/)|
+|![Scottish National, dress example sett](/setts/s23/g11k2g3k2g11k8ga2ga2ga2w2ga11ga2ga2ga2k8g11k2g3k2g11ga12w11ga3~g004010-ga30a010-k000000-we0e0e0~x2/sett.png)|

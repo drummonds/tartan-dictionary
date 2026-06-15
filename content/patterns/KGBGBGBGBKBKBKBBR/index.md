@@ -16,5 +16,5 @@ KGBGBGBGBKBKBKBBR
 
 | Tartans |
 |---------------|
-| [Rendell, Charles (Personal)](/setts/s17/k4g4b2g4b2g4b2g24ba8k6ba6k6ba6k6ba8bb48r4-b9058d8-ba38409c-bb440044-g006818-k101010-rc80000/)|
-|![Rendell, Charles (Personal) example sett](/setts/s17/k4g4b2g4b2g4b2g24ba8k6ba6k6ba6k6ba8bb48r4-b9058d8-ba38409c-bb440044-g006818-k101010-rc80000/sett.png)|
+| [Rendell, Charles (Personal)](/setts/s17/k2g2b1g2b1g2b1g12ba4k3ba3k3ba3k3ba4bb24r2~b9058d8-ba38409c-bb440044-g006818-k101010-rc80000~x2/)|
+|![Rendell, Charles (Personal) example sett](/setts/s17/k2g2b1g2b1g2b1g12ba4k3ba3k3ba3k3ba4bb24r2~b9058d8-ba38409c-bb440044-g006818-k101010-rc80000~x2/sett.png)|

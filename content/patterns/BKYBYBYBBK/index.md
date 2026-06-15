@@ -16,5 +16,5 @@ BKYBYBYBBK
 
 | Tartans |
 |---------------|
-| [Ryukoku University Heian Senior High School](/setts/s10/b10k30y10ba18y4bb4y4bb4ba18k6-b3333ff-ba555555-bb3300cc-k000000-ybbbbbb/)|
-|![Ryukoku University Heian Senior High School example sett](/setts/s10/b10k30y10ba18y4bb4y4bb4ba18k6-b3333ff-ba555555-bb3300cc-k000000-ybbbbbb/sett.png)|
+| [Ryukoku University Heian Senior High School](/setts/s10/b5k15y5ba9y2bb2y2bb2ba9k3~b3333ff-ba555555-bb3300cc-k000000-ybbbbbb~x2/)|
+|![Ryukoku University Heian Senior High School example sett](/setts/s10/b5k15y5ba9y2bb2y2bb2ba9k3~b3333ff-ba555555-bb3300cc-k000000-ybbbbbb~x2/sett.png)|

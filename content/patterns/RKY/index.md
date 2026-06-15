@@ -6,7 +6,7 @@ RKY
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/r120k40y12-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s3/r30k10y3~k101010-rc80000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKY
 
 | Tartans |
 |---------------|
-| [Masai Shuka 20 (Artefact)](/setts/s3/r120k40y12-k101010-rc80000-ye8c000/)|
-|![Masai Shuka 20 (Artefact) example sett](/setts/s3/r120k40y12-k101010-rc80000-ye8c000/sett.png)|
+| [Masai Shuka 20 (Artefact)](/setts/s3/r30k10y3~k101010-rc80000-ye8c000~x4/)|
+|![Masai Shuka 20 (Artefact) example sett](/setts/s3/r30k10y3~k101010-rc80000-ye8c000~x4/sett.png)|

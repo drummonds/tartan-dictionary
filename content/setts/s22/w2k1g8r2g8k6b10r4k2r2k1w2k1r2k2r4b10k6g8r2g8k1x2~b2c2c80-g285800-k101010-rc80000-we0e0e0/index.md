@@ -1,0 +1,48 @@
+---
+title: "Hargis"
+date: 2023-03-18
+---
+In pattern [KGRGKBRKRKWKRKRBKGRGKW](/patterns/kgrgkbrkrkwkrkrbkgrgkw/).
+
+
+This was sourced from register-of-tartans.  It is a [22 stripes tartan](/stripes/stripes22/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5099
+
+## Thread count
+K/2 G16 R4 G16 K12 DB20 R8 K4 R4 K2 LN4 K2 R4 K4 R8 DB20 K12 G16 R4 G16 K2 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacMillan Hunting #2](/setts/s18/b3y1b12k4y2k4g8r2g8r1g8r2g8k4y2k4b12y1x4~b2c2c80-g285800-k101010-rc80000-ye8c000/) — ΔT 0.84
+1. [Stuart-Houghton (Personal)](/setts/s16/b11k4b4w2b4k4b11r26k4w3k4w2k14g10b16g6x2~b14283c-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.91
+1. [Schneidersohne Centenary Corporate Tartan Tartan Number: 4533. Earliest known date: April 2002 100 year celebration of German paper mill, Schneidersohne. The tartan design was prepared and presented to them by Inveresk in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/r5k3b10k3g20k3r5k3b5k3r5b5k3b5r5k3b5k3r5k3g20k3b10k3r5w3x2~b2c2c80-g006818-k101010-rc80028-we0e0e0/) — ΔT 1.01
+1. [Schneidersohne Centenary](/setts/s26/r5k3b10k3g20k3r5k3b5k3r5b5k3b5r5k3b5k3r5k3g20k3b10k3r5w3x2~b2c2c80-g006818-k101010-rc8002c-we0e0e0/) — ΔT 1.02
+1. [Black Scottish National Tartan Tartan Number: 6622. Earliest known date: Marton Mills./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r8w1r1b1r1k7ba7k1ba3k1ba7k7r7k1b3x2~b58486c-ba534e4b-k080808-r928d89-we0e0e0/) — ΔT 1.07
+1. [Gordonstoun](/setts/s22/k2r2k20r2g11r11w2b11r2g19y5g19r2b11w2r11g11r2k20r2k2w2x2~b5c8ca8-g408060-k101010-r800028-wa8ace8-ye8c000/) — ΔT 1.08
+1. [Graham of Airth](/setts/s18/b6k2b6k12b3k13y2g18b3r3b3g18y2k13b15r5b3r5x2~b5a008c-g005020-k101010-rdc0000-ye8c000/) — ΔT 1.09
+1. [MacDonald of Pr Edward Island Tartan Tartan Number: 1973. Earliest known date: 1772 Estimated count from Coulson Bonner drawing. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/r12b6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9b11k1w2k1b11k9b8x2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.10
+1. [Pride of Loch Leven (Fashion?)](/setts/s19/g8k1g1k1g1k4r10w2r10k3g3k6g3k6g3k3r10w3ra4x2~g003820-k101010-r9c68a4-rac80000-wf8f8f8/) — ΔT 1.12
+1. [Gordonstoun (1957)](/setts/s25/r8g8r2k14r2k2b2r2k14r2g8r8b2ba8r2g14y2g2y3g2y2g14r2ba8b2x2~b3c82af-ba2c4084-g005020-k101010-rdc0000-ye8c000/) — ΔT 1.14
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/b3y1b12k4y2k4g8r2g8r1g8r2g8k4y2k4b12y1x4~b2c2c80-g285800-k101010-rc80000-ye8c000/"><circle cx="150.4" cy="153.0" r="4" fill="#3465a4"><title>MacMillan Hunting #2</title></circle></a><a href="/setts/s16/b11k4b4w2b4k4b11r26k4w3k4w2k14g10b16g6x2~b14283c-g006818-k101010-rc80000-we0e0e0/"><circle cx="149.2" cy="142.1" r="4" fill="#3465a4"><title>Stuart-Houghton (Personal)</title></circle></a><a href="/setts/s26/r5k3b10k3g20k3r5k3b5k3r5b5k3b5r5k3b5k3r5k3g20k3b10k3r5w3x2~b2c2c80-g006818-k101010-rc80028-we0e0e0/"><circle cx="82.9" cy="144.7" r="4" fill="#3465a4"><title>Schneidersohne Centenary Corporate Tartan Tartan Number: 4533. Earliest known date: April 2002 100 year celebration of German paper mill, Schneidersohne. The tartan design was prepared and presented to them by Inveresk in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s26/r5k3b10k3g20k3r5k3b5k3r5b5k3b5r5k3b5k3r5k3g20k3b10k3r5w3x2~b2c2c80-g006818-k101010-rc8002c-we0e0e0/"><circle cx="82.9" cy="144.7" r="4" fill="#3465a4"><title>Schneidersohne Centenary</title></circle></a><a href="/setts/s15/r8w1r1b1r1k7ba7k1ba3k1ba7k7r7k1b3x2~b58486c-ba534e4b-k080808-r928d89-we0e0e0/"><circle cx="115.2" cy="164.8" r="4" fill="#3465a4"><title>Black Scottish National Tartan Tartan Number: 6622. Earliest known date: Marton Mills./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s22/k2r2k20r2g11r11w2b11r2g19y5g19r2b11w2r11g11r2k20r2k2w2x2~b5c8ca8-g408060-k101010-r800028-wa8ace8-ye8c000/"><circle cx="107.6" cy="115.1" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s18/b6k2b6k12b3k13y2g18b3r3b3g18y2k13b15r5b3r5x2~b5a008c-g005020-k101010-rdc0000-ye8c000/"><circle cx="120.1" cy="157.3" r="4" fill="#3465a4"><title>Graham of Airth</title></circle></a><a href="/setts/s24/r12b6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9b11k1w2k1b11k9b8x2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="104.4" cy="113.4" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan Tartan Number: 1973. Earliest known date: 1772 Estimated count from Coulson Bonner drawing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/g8k1g1k1g1k4r10w2r10k3g3k6g3k6g3k3r10w3ra4x2~g003820-k101010-r9c68a4-rac80000-wf8f8f8/"><circle cx="118.8" cy="145.2" r="4" fill="#3465a4"><title>Pride of Loch Leven (Fashion?)</title></circle></a><a href="/setts/s25/r8g8r2k14r2k2b2r2k14r2g8r8b2ba8r2g14y2g2y3g2y2g14r2ba8b2x2~b3c82af-ba2c4084-g005020-k101010-rdc0000-ye8c000/"><circle cx="88.8" cy="124.1" r="4" fill="#3465a4"><title>Gordonstoun (1957)</title></circle></a><circle cx="118.4" cy="144.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s22/w2k1g8r2g8k6b10r4k2r2k1w2k1r2k2r4b10k6g8r2g8k1x2~b2c2c80-g285800-k101010-rc80000-we0e0e0/

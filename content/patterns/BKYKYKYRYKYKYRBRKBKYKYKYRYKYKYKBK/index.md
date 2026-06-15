@@ -16,5 +16,5 @@ BKYKYKYRYKYKYRBRKBKYKYKYRYKYKYKBK
 
 | Tartans |
 |---------------|
-| [Hawick (District)](/setts/s33/k40b4k20y4k4y4k4y4r8y4k4y4k4y4k20b4k20r20b4r20y4k4y4k4y4r8y4k4y4k4y4k20b4-b1c0070-k101010-r880000-yd09800/)|
-|![Hawick (District) example sett](/setts/s33/k40b4k20y4k4y4k4y4r8y4k4y4k4y4k20b4k20r20b4r20y4k4y4k4y4r8y4k4y4k4y4k20b4-b1c0070-k101010-r880000-yd09800/sett.png)|
+| [Hawick (District)](/setts/s33/k10b1k5y1k1y1k1y1r2y1k1y1k1y1k5b1k5r5b1r5y1k1y1k1y1r2y1k1y1k1y1k5b1~b1c0070-k101010-r880000-yd09800~x4/)|
+|![Hawick (District) example sett](/setts/s33/k10b1k5y1k1y1k1y1r2y1k1y1k1y1k5b1k5r5b1r5y1k1y1k1y1r2y1k1y1k1y1k5b1~b1c0070-k101010-r880000-yd09800~x4/sett.png)|

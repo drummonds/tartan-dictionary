@@ -16,5 +16,5 @@ GRRGRGKRGRKRR
 
 | Tartans |
 |---------------|
-| [MacDonald of Glencoe #3](/setts/s13/g16r2ra12g6ra80ga4k24ra12g60ra6k4r2ra12-g006818-ga789484-k00002c-rcc4438-rac80000/)|
-|![MacDonald of Glencoe #3 example sett](/setts/s13/g16r2ra12g6ra80ga4k24ra12g60ra6k4r2ra12-g006818-ga789484-k00002c-rcc4438-rac80000/sett.png)|
+| [MacDonald of Glencoe #3](/setts/s13/g8r1ra6g3ra40ga2k12ra6g30ra3k2r1ra6~g006818-ga789484-k00002c-rcc4438-rac80000~x2/)|
+|![MacDonald of Glencoe #3 example sett](/setts/s13/g8r1ra6g3ra40ga2k12ra6g30ra3k2r1ra6~g006818-ga789484-k00002c-rcc4438-rac80000~x2/sett.png)|

@@ -6,7 +6,7 @@ RBBRBRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6b8ba22r22ba22ra6r6-b5480b0-ba304080-rc00000-ra806050/tartan.png)
+![Woven sample](/setts/s7/r3b4ba11r11ba11ra3r3~b5480b0-ba304080-rc00000-ra806050~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBRBRR
 
 | Tartans |
 |---------------|
-| [Stewart, Fragment](/setts/s7/r6b8ba22r22ba22ra6r6-b5480b0-ba304080-rc00000-ra806050/)|
-|![Stewart, Fragment example sett](/setts/s7/r6b8ba22r22ba22ra6r6-b5480b0-ba304080-rc00000-ra806050/sett.png)|
+| [Stewart, Fragment](/setts/s7/r3b4ba11r11ba11ra3r3~b5480b0-ba304080-rc00000-ra806050~x2/)|
+|![Stewart, Fragment example sett](/setts/s7/r3b4ba11r11ba11ra3r3~b5480b0-ba304080-rc00000-ra806050~x2/sett.png)|

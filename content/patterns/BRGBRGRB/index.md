@@ -6,7 +6,7 @@ BRGBRGRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4r2g52r36b52ga2r2b4-b440044-g003820-ga789484-rc80000/tartan.png)
+![Woven sample](/setts/s8/b2r1g26r18b26ga1r1b2~b440044-g003820-ga789484-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGBRGRB
 
 | Tartans |
 |---------------|
-| [Robb Dress (Personal)](/setts/s8/b4r2g52r36b52ga2r2b4-b440044-g003820-ga789484-rc80000/)|
-|![Robb Dress (Personal) example sett](/setts/s8/b4r2g52r36b52ga2r2b4-b440044-g003820-ga789484-rc80000/sett.png)|
+| [Robb Dress (Personal)](/setts/s8/b2r1g26r18b26ga1r1b2~b440044-g003820-ga789484-rc80000~x2/)|
+|![Robb Dress (Personal) example sett](/setts/s8/b2r1g26r18b26ga1r1b2~b440044-g003820-ga789484-rc80000~x2/sett.png)|

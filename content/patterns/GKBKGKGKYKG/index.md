@@ -16,5 +16,5 @@ GKBKGKGKYKG
 
 | Tartans |
 |---------------|
-| [Choinka Family (Personal)](/setts/s11/g8k4b6k4g40k18ga14k4y6k4ga8-b5c8ca8-g006818-ga604000-k101010-ydc943c/)|
-|![Choinka Family (Personal) example sett](/setts/s11/g8k4b6k4g40k18ga14k4y6k4ga8-b5c8ca8-g006818-ga604000-k101010-ydc943c/sett.png)|
+| [Choinka Family (Personal)](/setts/s11/g4k2b3k2g20k9ga7k2y3k2ga4~b5c8ca8-g006818-ga604000-k101010-ydc943c~x2/)|
+|![Choinka Family (Personal) example sett](/setts/s11/g4k2b3k2g20k9ga7k2y3k2ga4~b5c8ca8-g006818-ga604000-k101010-ydc943c~x2/sett.png)|

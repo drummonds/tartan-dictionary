@@ -16,5 +16,5 @@ KBBGGGBBKR
 
 | Tartans |
 |---------------|
-| [Haughfoot](/setts/s10/k30b8ba30g48ga8g48ba30b8k30r8-b5c8ca8-ba14283c-g003820-ga789484-k101010-rc80000/)|
-|![Haughfoot example sett](/setts/s10/k30b8ba30g48ga8g48ba30b8k30r8-b5c8ca8-ba14283c-g003820-ga789484-k101010-rc80000/sett.png)|
+| [Haughfoot](/setts/s10/k15b4ba15g24ga4g24ba15b4k15r4~b5c8ca8-ba14283c-g003820-ga789484-k101010-rc80000~x2/)|
+|![Haughfoot example sett](/setts/s10/k15b4ba15g24ga4g24ba15b4k15r4~b5c8ca8-ba14283c-g003820-ga789484-k101010-rc80000~x2/sett.png)|

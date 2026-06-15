@@ -16,5 +16,5 @@ WGBGGBYBGBBY
 
 | Tartans |
 |---------------|
-| [Holroyd, John (Personal)](/setts/s12/w6g14b4g10ga16b6y6b6g6b24ba42y6-b141e46-ba0596fa-g00643c-ga336666-wffffff-ye0a126/)|
-|![Holroyd, John (Personal) example sett](/setts/s12/w6g14b4g10ga16b6y6b6g6b24ba42y6-b141e46-ba0596fa-g00643c-ga336666-wffffff-ye0a126/sett.png)|
+| [Holroyd, John (Personal)](/setts/s12/w3g7b2g5ga8b3y3b3g3b12ba21y3~b141e46-ba0596fa-g00643c-ga336666-wffffff-ye0a126~x2/)|
+|![Holroyd, John (Personal) example sett](/setts/s12/w3g7b2g5ga8b3y3b3g3b12ba21y3~b141e46-ba0596fa-g00643c-ga336666-wffffff-ye0a126~x2/sett.png)|

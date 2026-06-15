@@ -6,7 +6,7 @@ BKBKBRB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b10r6b70k56b8k22b4-b5c5c5c-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/b5r3b35k28b4k11b2~b5c5c5c-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKBRB
 
 | Tartans |
 |---------------|
-| [Korner-MacPherson (Personal)](/setts/s7/b10r6b70k56b8k22b4-b5c5c5c-k101010-rc80000/)|
-|![Korner-MacPherson (Personal) example sett](/setts/s7/b10r6b70k56b8k22b4-b5c5c5c-k101010-rc80000/sett.png)|
+| [Korner-MacPherson (Personal)](/setts/s7/b5r3b35k28b4k11b2~b5c5c5c-k101010-rc80000~x2/)|
+|![Korner-MacPherson (Personal) example sett](/setts/s7/b5r3b35k28b4k11b2~b5c5c5c-k101010-rc80000~x2/sett.png)|

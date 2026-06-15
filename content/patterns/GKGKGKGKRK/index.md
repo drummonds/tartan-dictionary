@@ -16,5 +16,5 @@ GKGKGKGKRK
 
 | Tartans |
 |---------------|
-| [Ulster (Peat) (District](/setts/s10/g56k4g56k4g4k4ga58k4r4k4-g7c5428-ga604000-k101010-rc80000/)|
-|![Ulster (Peat) (District example sett](/setts/s10/g56k4g56k4g4k4ga58k4r4k4-g7c5428-ga604000-k101010-rc80000/sett.png)|
+| [Ulster (Peat) (District](/setts/s10/g28k2g28k2g2k2ga29k2r2k2~g7c5428-ga604000-k101010-rc80000~x2/)|
+|![Ulster (Peat) (District example sett](/setts/s10/g28k2g28k2g2k2ga29k2r2k2~g7c5428-ga604000-k101010-rc80000~x2/sett.png)|

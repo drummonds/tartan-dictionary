@@ -16,5 +16,5 @@ WRKBWBWYW
 
 | Tartans |
 |---------------|
-| [Wrens (WRNS) (Military)](/setts/s9/w32y6w18b28w2b16k64r2wa8-b1474b4-k000000-r8c0000-w98c8e8-waf0f0f0-ye8c000/)|
-|![Wrens (WRNS) (Military) example sett](/setts/s9/w32y6w18b28w2b16k64r2wa8-b1474b4-k000000-r8c0000-w98c8e8-waf0f0f0-ye8c000/sett.png)|
+| [Wrens (WRNS) (Military)](/setts/s9/w16y3w9b14w1b8k32r1wa4~b1474b4-k000000-r8c0000-w98c8e8-waf0f0f0-ye8c000~x2/)|
+|![Wrens (WRNS) (Military) example sett](/setts/s9/w16y3w9b14w1b8k32r1wa4~b1474b4-k000000-r8c0000-w98c8e8-waf0f0f0-ye8c000~x2/sett.png)|

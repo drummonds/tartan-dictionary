@@ -6,7 +6,7 @@ BRWBRBWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b66w14b10r4b10w4r26b6-b1c1c50-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b33w7b5r2b5w2r13b3~b1c1c50-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWBRBWB
 
 | Tartans |
 |---------------|
-| [Americana - 1978 (Fashion)](/setts/s8/b66w14b10r4b10w4r26b6-b1c1c50-rc80000-we0e0e0/)|
-|![Americana - 1978 (Fashion) example sett](/setts/s8/b66w14b10r4b10w4r26b6-b1c1c50-rc80000-we0e0e0/sett.png)|
+| [Americana - 1978 (Fashion)](/setts/s8/b33w7b5r2b5w2r13b3~b1c1c50-rc80000-we0e0e0~x2/)|
+|![Americana - 1978 (Fashion) example sett](/setts/s8/b33w7b5r2b5w2r13b3~b1c1c50-rc80000-we0e0e0~x2/sett.png)|

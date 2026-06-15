@@ -16,5 +16,5 @@ BWBYBWBGBBBW
 
 | Tartans |
 |---------------|
-| [Shaughnessy](/setts/s12/b136w8ba20y4ba6wa6ba6g22b16ba6b6wa6-b003c64-ba4c2424-g408060-w98c8e8-wafcfcfc-ye8c000/)|
-|![Shaughnessy example sett](/setts/s12/b136w8ba20y4ba6wa6ba6g22b16ba6b6wa6-b003c64-ba4c2424-g408060-w98c8e8-wafcfcfc-ye8c000/sett.png)|
+| [Shaughnessy](/setts/s12/b68w4ba10y2ba3wa3ba3g11b8ba3b3wa3~b003c64-ba4c2424-g408060-w98c8e8-wafcfcfc-ye8c000~x2/)|
+|![Shaughnessy example sett](/setts/s12/b68w4ba10y2ba3wa3ba3g11b8ba3b3wa3~b003c64-ba4c2424-g408060-w98c8e8-wafcfcfc-ye8c000~x2/sett.png)|

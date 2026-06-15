@@ -6,7 +6,7 @@ BKRYBYRK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b44k16r16y16b44y16r16k16-b5c5c5c-k101010-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s8/b11k4r4y4b11y4r4k4~b5c5c5c-k101010-r880000-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRYBYRK
 
 | Tartans |
 |---------------|
-| [Ikelman #3 (Personal)](/setts/s8/b44k16r16y16b44y16r16k16-b5c5c5c-k101010-r880000-yd09800/)|
-|![Ikelman #3 (Personal) example sett](/setts/s8/b44k16r16y16b44y16r16k16-b5c5c5c-k101010-r880000-yd09800/sett.png)|
+| [Ikelman #3 (Personal)](/setts/s8/b11k4r4y4b11y4r4k4~b5c5c5c-k101010-r880000-yd09800~x4/)|
+|![Ikelman #3 (Personal) example sett](/setts/s8/b11k4r4y4b11y4r4k4~b5c5c5c-k101010-r880000-yd09800~x4/sett.png)|

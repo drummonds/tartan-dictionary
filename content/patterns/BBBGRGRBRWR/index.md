@@ -16,7 +16,7 @@ BBBGRGRBRWR
 
 | Tartans |
 |---------------|
-| [Hueg (Munich) Formal (Personal)](/setts/s11/b8ba6b26g16r24ga8r24b8r10w8r8-b5f749c-ba433a5a-g23321b-ga124b24-rca2625-wf9f5ef/)|
-|![Hueg (Munich) Formal (Personal) example sett](/setts/s11/b8ba6b26g16r24ga8r24b8r10w8r8-b5f749c-ba433a5a-g23321b-ga124b24-rca2625-wf9f5ef/sett.png)|
-| [Hueg (Formal) (Personal)](/setts/s11/b8ba6b26g16r24ga8r24b8r10w8r8-b1474b4-ba003c64-g006818-ga00643c-rc8002c-wfcfcfc/)|
-|![Hueg (Formal) (Personal) example sett](/setts/s11/b8ba6b26g16r24ga8r24b8r10w8r8-b1474b4-ba003c64-g006818-ga00643c-rc8002c-wfcfcfc/sett.png)|
+| [Hueg (Munich) Formal (Personal)](/setts/s11/b4ba3b13g8r12ga4r12b4r5w4r4~b5f749c-ba433a5a-g23321b-ga124b24-rca2625-wf9f5ef~x2/)|
+|![Hueg (Munich) Formal (Personal) example sett](/setts/s11/b4ba3b13g8r12ga4r12b4r5w4r4~b5f749c-ba433a5a-g23321b-ga124b24-rca2625-wf9f5ef~x2/sett.png)|
+| [Hueg (Formal) (Personal)](/setts/s11/b4ba3b13g8r12ga4r12b4r5w4r4~b1474b4-ba003c64-g006818-ga00643c-rc8002c-wfcfcfc~x2/)|
+|![Hueg (Formal) (Personal) example sett](/setts/s11/b4ba3b13g8r12ga4r12b4r5w4r4~b1474b4-ba003c64-g006818-ga00643c-rc8002c-wfcfcfc~x2/sett.png)|

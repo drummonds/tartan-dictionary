@@ -16,5 +16,5 @@ BKGBGBGBRBGBGBGK
 
 | Tartans |
 |---------------|
-| [Orlando, City of](/setts/s16/b48k4g64b4g4b56g12b56r8b56g12b56g4b4g64k4-b2c2c80-g006818-k000000-rc80000/)|
-|![Orlando, City of example sett](/setts/s16/b48k4g64b4g4b56g12b56r8b56g12b56g4b4g64k4-b2c2c80-g006818-k000000-rc80000/sett.png)|
+| [Orlando, City of](/setts/s16/b12k1g16b1g1b14g3b14r2b14g3b14g1b1g16k1~b2c2c80-g006818-k000000-rc80000~x4/)|
+|![Orlando, City of example sett](/setts/s16/b12k1g16b1g1b14g3b14r2b14g3b14g1b1g16k1~b2c2c80-g006818-k000000-rc80000~x4/sett.png)|

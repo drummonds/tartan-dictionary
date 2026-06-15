@@ -16,5 +16,5 @@ GYGYGYGYBYGYGYBYGYGYGY
 
 | Tartans |
 |---------------|
-| [Houston (Personal)](/setts/s22/g4y2ga4y2g4y2ga4y64b4y24ga4y4ga4y24b4y64ga4y2g4y2ga4y2-b441800-g006818-ga604000-ybc8c00/)|
-|![Houston (Personal) example sett](/setts/s22/g4y2ga4y2g4y2ga4y64b4y24ga4y4ga4y24b4y64ga4y2g4y2ga4y2-b441800-g006818-ga604000-ybc8c00/sett.png)|
+| [Houston (Personal)](/setts/s22/g2y1ga2y1g2y1ga2y32b2y12ga2y2ga2y12b2y32ga2y1g2y1ga2y1~b441800-g006818-ga604000-ybc8c00~x2/)|
+|![Houston (Personal) example sett](/setts/s22/g2y1ga2y1g2y1ga2y32b2y12ga2y2ga2y12b2y32ga2y1g2y1ga2y1~b441800-g006818-ga604000-ybc8c00~x2/sett.png)|

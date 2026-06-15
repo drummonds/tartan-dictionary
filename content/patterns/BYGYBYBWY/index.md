@@ -16,5 +16,5 @@ BYGYBYBWY
 
 | Tartans |
 |---------------|
-| [Edmonton, City of](/setts/s9/b32y8g16y8ba16y8b32w60ya8-b2888c4-ba780078-g289c18-wf0f0d8-ye8c000-yabc8c00/)|
-|![Edmonton, City of example sett](/setts/s9/b32y8g16y8ba16y8b32w60ya8-b2888c4-ba780078-g289c18-wf0f0d8-ye8c000-yabc8c00/sett.png)|
+| [Edmonton, City of](/setts/s9/b8y2g4y2ba4y2b8w15ya2~b2888c4-ba780078-g289c18-wf0f0d8-ye8c000-yabc8c00~x4/)|
+|![Edmonton, City of example sett](/setts/s9/b8y2g4y2ba4y2b8w15ya2~b2888c4-ba780078-g289c18-wf0f0d8-ye8c000-yabc8c00~x4/sett.png)|

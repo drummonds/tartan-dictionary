@@ -6,7 +6,7 @@ RYBY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y120b6y8r6-b441800-ra00000-ya08858/tartan.png)
+![Woven sample](/setts/s4/y60b3y4r3~b441800-ra00000-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYBY
 
 | Tartans |
 |---------------|
-| [Rabbie's Dram (Fashion)](/setts/s4/y120b6y8r6-b441800-ra00000-ya08858/)|
-|![Rabbie's Dram (Fashion) example sett](/setts/s4/y120b6y8r6-b441800-ra00000-ya08858/sett.png)|
+| [Rabbie's Dram (Fashion)](/setts/s4/y60b3y4r3~b441800-ra00000-ya08858~x2/)|
+|![Rabbie's Dram (Fashion) example sett](/setts/s4/y60b3y4r3~b441800-ra00000-ya08858~x2/sett.png)|

@@ -16,7 +16,7 @@ BGBGKGBGBWKGKY
 
 | Tartans |
 |---------------|
-| [MacAlpine (1906)](/setts/s14/b16g4b4g24k4g24b4g4b16w4k16g4k16y4-b202060-g006818-k101010-we0e0e0-ye8c000/)|
-|![MacAlpine (1906) example sett](/setts/s14/b16g4b4g24k4g24b4g4b16w4k16g4k16y4-b202060-g006818-k101010-we0e0e0-ye8c000/sett.png)|
-| [MacAlpine](/setts/s14/b16g4b4g24k4g24b4g4b16w4k16g4k16y8-b102040-g008000-k000000-we0e0e0-yf0c000/)|
-|![MacAlpine example sett](/setts/s14/b16g4b4g24k4g24b4g4b16w4k16g4k16y8-b102040-g008000-k000000-we0e0e0-yf0c000/sett.png)|
+| [MacAlpine (1906)](/setts/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y1~b202060-g006818-k101010-we0e0e0-ye8c000~x4/)|
+|![MacAlpine (1906) example sett](/setts/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y1~b202060-g006818-k101010-we0e0e0-ye8c000~x4/sett.png)|
+| [MacAlpine](/setts/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~b102040-g008000-k000000-we0e0e0-yf0c000~x4/)|
+|![MacAlpine example sett](/setts/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~b102040-g008000-k000000-we0e0e0-yf0c000~x4/sett.png)|

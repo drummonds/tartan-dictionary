@@ -6,7 +6,7 @@ BRGRGRGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g70ga38r6gb16r6ga16r6b6-b5f749c-g604000-ga003c14-gb767e52-rc80000/tartan.png)
+![Woven sample](/setts/s8/g35ga19r3gb8r3ga8r3b3~b5f749c-g604000-ga003c14-gb767e52-rc80000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRGRGRGG
 
 | Tartans |
 |---------------|
-| [John Muir Way](/setts/s8/g70ga38r6gb16r6ga16r6b6-b5f749c-g604000-ga003c14-gb767e52-rc80000/)|
-|![John Muir Way example sett](/setts/s8/g70ga38r6gb16r6ga16r6b6-b5f749c-g604000-ga003c14-gb767e52-rc80000/sett.png)|
-| [John Muir Way](/setts/s8/g70ga38r6gb16r6ga16r6b6-b2c2c80-g603800-ga003820-gb408060-rc80000/)|
-|![John Muir Way example sett](/setts/s8/g70ga38r6gb16r6ga16r6b6-b2c2c80-g603800-ga003820-gb408060-rc80000/sett.png)|
+| [John Muir Way](/setts/s8/g35ga19r3gb8r3ga8r3b3~b5f749c-g604000-ga003c14-gb767e52-rc80000~x2/)|
+|![John Muir Way example sett](/setts/s8/g35ga19r3gb8r3ga8r3b3~b5f749c-g604000-ga003c14-gb767e52-rc80000~x2/sett.png)|
+| [John Muir Way](/setts/s8/g35ga19r3gb8r3ga8r3b3~b2c2c80-g603800-ga003820-gb408060-rc80000~x2/)|
+|![John Muir Way example sett](/setts/s8/g35ga19r3gb8r3ga8r3b3~b2c2c80-g603800-ga003820-gb408060-rc80000~x2/sett.png)|

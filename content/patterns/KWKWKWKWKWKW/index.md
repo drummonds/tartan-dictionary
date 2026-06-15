@@ -16,9 +16,9 @@ KWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Mourning](/setts/s12/k86w8k12w4k6w4k6w18k10w6k6w6-k101010-we0e0e0/)|
-|![Stuart/Stewart Mourning example sett](/setts/s12/k86w8k12w4k6w4k6w18k10w6k6w6-k101010-we0e0e0/sett.png)|
-| [Scott](/setts/s12/k124w8k16w4k4w4k4w4k4w4k12w12-k000000-we0e0e0/)|
-|![Scott example sett](/setts/s12/k124w8k16w4k4w4k4w4k4w4k12w12-k000000-we0e0e0/sett.png)|
-| [Stewart Mourning](/setts/s12/k86w8k12w4k6w4k6w18k10w6k6w6-k000000-we0e0e0/)|
-|![Stewart Mourning example sett](/setts/s12/k86w8k12w4k6w4k6w18k10w6k6w6-k000000-we0e0e0/sett.png)|
+| [Stuart/Stewart Mourning](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~k101010-we0e0e0~x2/)|
+|![Stuart/Stewart Mourning example sett](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~k101010-we0e0e0~x2/sett.png)|
+| [Scott](/setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~k000000-we0e0e0~x4/)|
+|![Scott example sett](/setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~k000000-we0e0e0~x4/sett.png)|
+| [Stewart Mourning](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~k000000-we0e0e0~x2/)|
+|![Stewart Mourning example sett](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~k000000-we0e0e0~x2/sett.png)|

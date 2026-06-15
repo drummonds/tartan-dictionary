@@ -6,7 +6,7 @@ BRWRBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b96r56w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b48r28w4r28b48y3~b5c8ca8-r888888-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRWRBY
 
 | Tartans |
 |---------------|
-| [McKerrell of Hillhouse Dress](/setts/s6/b96r56w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/)|
-|![McKerrell of Hillhouse Dress example sett](/setts/s6/b96r56w8r56b96y6-b5c8ca8-r888888-we0e0e0-ye8c000/sett.png)|
-| [Unidentified Lindley](/setts/s6/b48r48w8r48b48y8-b1474b4-re86000-wfcfcfc-ye8c000/)|
-|![Unidentified Lindley example sett](/setts/s6/b48r48w8r48b48y8-b1474b4-re86000-wfcfcfc-ye8c000/sett.png)|
+| [McKerrell of Hillhouse Dress](/setts/s6/b48r28w4r28b48y3~b5c8ca8-r888888-we0e0e0-ye8c000~x2/)|
+|![McKerrell of Hillhouse Dress example sett](/setts/s6/b48r28w4r28b48y3~b5c8ca8-r888888-we0e0e0-ye8c000~x2/sett.png)|
+| [Unidentified Lindley](/setts/s6/b6r6w1r6b6y1~b1474b4-re86000-wfcfcfc-ye8c000~x8/)|
+|![Unidentified Lindley example sett](/setts/s6/b6r6w1r6b6y1~b1474b4-re86000-wfcfcfc-ye8c000~x8/sett.png)|

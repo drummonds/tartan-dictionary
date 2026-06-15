@@ -6,7 +6,7 @@ WRYRY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w10r60y40r40ya10-r844c04-wf0e4cc-ya08858-yabc8c00/tartan.png)
+![Woven sample](/setts/s5/w1r6y4r4ya1~r844c04-wf0e4cc-ya08858-yabc8c00~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRYRY
 
 | Tartans |
 |---------------|
-| [Amber Rose (Fashion)](/setts/s5/w10r60y40r40ya10-r844c04-wf0e4cc-ya08858-yabc8c00/)|
-|![Amber Rose (Fashion) example sett](/setts/s5/w10r60y40r40ya10-r844c04-wf0e4cc-ya08858-yabc8c00/sett.png)|
+| [Amber Rose (Fashion)](/setts/s5/w1r6y4r4ya1~r844c04-wf0e4cc-ya08858-yabc8c00~x10/)|
+|![Amber Rose (Fashion) example sett](/setts/s5/w1r6y4r4ya1~r844c04-wf0e4cc-ya08858-yabc8c00~x10/sett.png)|

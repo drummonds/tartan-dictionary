@@ -16,5 +16,5 @@ BKBKBKBGRKRGBKGBKGKBGKBGRKRGBKBKBK
 
 | Tartans |
 |---------------|
-| [Whitworth (2003)](/setts/s34/b120k4b4k4b10ka30b10g40r4ka6r4g40b10ka30g10b40k4g8k4b40g10ka30b10g40r4ka6r4g40b10ka30b10k4b4k4-b2c2c80-g006818-k000000-ka101010-rc80000/)|
-|![Whitworth (2003) example sett](/setts/s34/b120k4b4k4b10ka30b10g40r4ka6r4g40b10ka30g10b40k4g8k4b40g10ka30b10g40r4ka6r4g40b10ka30b10k4b4k4-b2c2c80-g006818-k000000-ka101010-rc80000/sett.png)|
+| [Whitworth (2003)](/setts/s34/b60k2b2k2b5ka15b5g20r2ka3r2g20b5ka15g5b20k2g4k2b20g5ka15b5g20r2ka3r2g20b5ka15b5k2b2k2~b2c2c80-g006818-k000000-ka101010-rc80000~x2/)|
+|![Whitworth (2003) example sett](/setts/s34/b60k2b2k2b5ka15b5g20r2ka3r2g20b5ka15g5b20k2g4k2b20g5ka15b5g20r2ka3r2g20b5ka15b5k2b2k2~b2c2c80-g006818-k000000-ka101010-rc80000~x2/sett.png)|

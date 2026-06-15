@@ -16,7 +16,7 @@ WKGKGKGKGKY
 
 | Tartans |
 |---------------|
-| [MacCandlish Hunting Green](/setts/s11/w12k4g48k4g4k8g4k24g48k4y4-g006818-k101010-wa8ace8-yd09800/)|
-|![MacCandlish Hunting Green example sett](/setts/s11/w12k4g48k4g4k8g4k24g48k4y4-g006818-k101010-wa8ace8-yd09800/sett.png)|
-| [McCandlish Htg, Green (Name)](/setts/s11/w12k4g48k4g4k8g4k24ga48k4y4-g006c3c-ga00841c-k101010-wa8ace8-yd09800/)|
-|![McCandlish Htg, Green (Name) example sett](/setts/s11/w12k4g48k4g4k8g4k24ga48k4y4-g006c3c-ga00841c-k101010-wa8ace8-yd09800/sett.png)|
+| [MacCandlish Hunting Green](/setts/s11/w3k1g12k1g1k2g1k6g12k1y1~g006818-k101010-wa8ace8-yd09800~x4/)|
+|![MacCandlish Hunting Green example sett](/setts/s11/w3k1g12k1g1k2g1k6g12k1y1~g006818-k101010-wa8ace8-yd09800~x4/sett.png)|
+| [McCandlish Htg, Green (Name)](/setts/s11/w3k1g12k1g1k2g1k6ga12k1y1~g006c3c-ga00841c-k101010-wa8ace8-yd09800~x4/)|
+|![McCandlish Htg, Green (Name) example sett](/setts/s11/w3k1g12k1g1k2g1k6ga12k1y1~g006c3c-ga00841c-k101010-wa8ace8-yd09800~x4/sett.png)|

@@ -16,5 +16,5 @@ GKGBGKGKBKYR
 
 | Tartans |
 |---------------|
-| [Old Dobbs County (District)](/setts/s12/g40k4g40b4g4k4g4k4b40k4y4r4-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Old Dobbs County (District) example sett](/setts/s12/g40k4g40b4g4k4g4k4b40k4y4r4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
+| [Old Dobbs County (District)](/setts/s12/g10k1g10b1g1k1g1k1b10k1y1r1~b1c0070-g006818-k101010-r880000-yd09800~x4/)|
+|![Old Dobbs County (District) example sett](/setts/s12/g10k1g10b1g1k1g1k1b10k1y1r1~b1c0070-g006818-k101010-r880000-yd09800~x4/sett.png)|

@@ -16,5 +16,5 @@ WKBKBKBKBKBKY
 
 | Tartans |
 |---------------|
-| [Swedish](/setts/s13/y14k2b44k4b2k4b8k4b2k4b8k36w10-b2c4084-k000028-we0e0e0-ye8c000/)|
-|![Swedish example sett](/setts/s13/y14k2b44k4b2k4b8k4b2k4b8k36w10-b2c4084-k000028-we0e0e0-ye8c000/sett.png)|
+| [Swedish](/setts/s13/y7k1b22k2b1k2b4k2b1k2b4k18w5~b2c4084-k000028-we0e0e0-ye8c000~x2/)|
+|![Swedish example sett](/setts/s13/y7k1b22k2b1k2b4k2b1k2b4k18w5~b2c4084-k000028-we0e0e0-ye8c000~x2/sett.png)|

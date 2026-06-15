@@ -6,7 +6,7 @@ BKGBWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b40k8g10ba28w2b4-b2c2c80-ba440044-g006818-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b20k4g5ba14w1b2~b2c2c80-ba440044-g006818-k101010-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGBWB
 
 | Tartans |
 |---------------|
-| [Riley's Theme (Fashion)](/setts/s6/b40k8g10ba28w2b4-b2c2c80-ba440044-g006818-k101010-wfcfcfc/)|
-|![Riley's Theme (Fashion) example sett](/setts/s6/b40k8g10ba28w2b4-b2c2c80-ba440044-g006818-k101010-wfcfcfc/sett.png)|
+| [Riley's Theme (Fashion)](/setts/s6/b20k4g5ba14w1b2~b2c2c80-ba440044-g006818-k101010-wfcfcfc~x2/)|
+|![Riley's Theme (Fashion) example sett](/setts/s6/b20k4g5ba14w1b2~b2c2c80-ba440044-g006818-k101010-wfcfcfc~x2/sett.png)|

@@ -16,9 +16,9 @@ GRGRBRGRGRG
 
 | Tartans |
 |---------------|
-| [MacDonell of Glengarry #4](/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b2c4084-g005020-rdc0000/)|
-|![MacDonell of Glengarry #4 example sett](/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b2c4084-g005020-rdc0000/sett.png)|
-| [MacDonald of Vallay (Uist) (?)](/setts/s11/g36r6g4r4b12r4g4r48g4r4g12-b506878-g006818-rc80000/)|
-|![MacDonald of Vallay (Uist) (?) example sett](/setts/s11/g36r6g4r4b12r4g4r48g4r4g12-b506878-g006818-rc80000/sett.png)|
-| [MacDonell of Glengarry](/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/)|
-|![MacDonell of Glengarry example sett](/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/sett.png)|
+| [MacDonell of Glengarry #4](/setts/s11/g18r3g2r2b6r2g2r24g1r2g6~b2c4084-g005020-rdc0000~x2/)|
+|![MacDonell of Glengarry #4 example sett](/setts/s11/g18r3g2r2b6r2g2r24g1r2g6~b2c4084-g005020-rdc0000~x2/sett.png)|
+| [MacDonald of Vallay (Uist) (?)](/setts/s11/g18r3g2r2b6r2g2r24g2r2g6~b506878-g006818-rc80000~x2/)|
+|![MacDonald of Vallay (Uist) (?) example sett](/setts/s11/g18r3g2r2b6r2g2r24g2r2g6~b506878-g006818-rc80000~x2/sett.png)|
+| [MacDonell of Glengarry](/setts/s11/g18r3g2r2b6r2g2r24g1r2g6~b304080-g008000-rc00000~x2/)|
+|![MacDonell of Glengarry example sett](/setts/s11/g18r3g2r2b6r2g2r24g1r2g6~b304080-g008000-rc00000~x2/sett.png)|

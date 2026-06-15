@@ -6,7 +6,7 @@ BBWBYBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6ba4w2ba100y2ba4r6-b5f749c-ba141e46-rdc0000-wffffff-yd8b000/tartan.png)
+![Woven sample](/setts/s7/b3ba2w1ba50y1ba2r3~b5f749c-ba141e46-rdc0000-wffffff-yd8b000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBYBR
 
 | Tartans |
 |---------------|
-| [Easton (2014)](/setts/s7/b6ba4w2ba100y2ba4r6-b5f749c-ba141e46-rdc0000-wffffff-yd8b000/)|
-|![Easton (2014) example sett](/setts/s7/b6ba4w2ba100y2ba4r6-b5f749c-ba141e46-rdc0000-wffffff-yd8b000/sett.png)|
+| [Easton (2014)](/setts/s7/b3ba2w1ba50y1ba2r3~b5f749c-ba141e46-rdc0000-wffffff-yd8b000~x2/)|
+|![Easton (2014) example sett](/setts/s7/b3ba2w1ba50y1ba2r3~b5f749c-ba141e46-rdc0000-wffffff-yd8b000~x2/sett.png)|

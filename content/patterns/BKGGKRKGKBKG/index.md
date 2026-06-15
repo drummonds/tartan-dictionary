@@ -16,5 +16,5 @@ BKGGKRKGKBKG
 
 | Tartans |
 |---------------|
-| [Tomatin Distillery](/setts/s12/b18k16g30ga100k6r4k4gb2k4b2k2ga18-b4c3428-g808080-ga604000-gb004028-k101010-r800028/)|
-|![Tomatin Distillery example sett](/setts/s12/b18k16g30ga100k6r4k4gb2k4b2k2ga18-b4c3428-g808080-ga604000-gb004028-k101010-r800028/sett.png)|
+| [Tomatin Distillery](/setts/s12/b9k8g15ga50k3r2k2gb1k2b1k1ga9~b4c3428-g808080-ga604000-gb004028-k101010-r800028~x2/)|
+|![Tomatin Distillery example sett](/setts/s12/b9k8g15ga50k3r2k2gb1k2b1k1ga9~b4c3428-g808080-ga604000-gb004028-k101010-r800028~x2/sett.png)|

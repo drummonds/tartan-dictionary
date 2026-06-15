@@ -16,5 +16,5 @@ BRWGKRBKBYB
 
 | Tartans |
 |---------------|
-| [Czech National (District)](/setts/s11/b8y4b48k4b10r6k28g28w6r6b6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Czech National (District) example sett](/setts/s11/b8y4b48k4b10r6k28g28w6r6b6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Czech National (District)](/setts/s11/b4y2b24k2b5r3k14g14w3r3b3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Czech National (District) example sett](/setts/s11/b4y2b24k2b5r3k14g14w3r3b3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

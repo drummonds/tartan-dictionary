@@ -16,5 +16,5 @@ BWBWGRWGWRGWBWGRWB
 
 | Tartans |
 |---------------|
-| [Miyuki, House Check Grey, 1003A](/setts/s18/b12w14r3g6w10b28w10g6r3w8g10w8r3g6w40b6w6b6-b505050-g808080-rc00000-wc0c0c0/)|
-|![Miyuki, House Check Grey, 1003A example sett](/setts/s18/b12w14r3g6w10b28w10g6r3w8g10w8r3g6w40b6w6b6-b505050-g808080-rc00000-wc0c0c0/sett.png)|
+| [Miyuki, House Check Grey, 1003A](/setts/s18/b12w14r3g6w10b28w10g6r3w8g10w8r3g6w40b6w6b6~b505050-g808080-rc00000-wc0c0c0/)|
+|![Miyuki, House Check Grey, 1003A example sett](/setts/s18/b12w14r3g6w10b28w10g6r3w8g10w8r3g6w40b6w6b6~b505050-g808080-rc00000-wc0c0c0/sett.png)|

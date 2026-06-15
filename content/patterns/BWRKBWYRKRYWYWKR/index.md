@@ -16,5 +16,5 @@ BWRKBWYRKRYWYWKR
 
 | Tartans |
 |---------------|
-| [MacGlashan #3](/setts/s16/r40k6w4y50w4ya10r8k4r8ya10w6b8k10r12w2b2-b5c8ca8-k101010-rc80000-we0e0e0-ya08858-yae8c000/)|
-|![MacGlashan #3 example sett](/setts/s16/r40k6w4y50w4ya10r8k4r8ya10w6b8k10r12w2b2-b5c8ca8-k101010-rc80000-we0e0e0-ya08858-yae8c000/sett.png)|
+| [MacGlashan #3](/setts/s16/r20k3w2y25w2ya5r4k2r4ya5w3b4k5r6w1b1~b5c8ca8-k101010-rc80000-we0e0e0-ya08858-yae8c000~x2/)|
+|![MacGlashan #3 example sett](/setts/s16/r20k3w2y25w2ya5r4k2r4ya5w3b4k5r6w1b1~b5c8ca8-k101010-rc80000-we0e0e0-ya08858-yae8c000~x2/sett.png)|

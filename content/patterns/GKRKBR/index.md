@@ -6,7 +6,7 @@ GKRKBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g6k5r4k48b36ra6-b401000-g908000-k000000-rc00000-ra906030/tartan.png)
+![Woven sample](/setts/s6/g6k5r4k48b36ra6~b401000-g908000-k000000-rc00000-ra906030/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRKBR
 
 | Tartans |
 |---------------|
-| [Drambuie hunting](/setts/s6/g6k5r4k48b36ra6-b401000-g908000-k000000-rc00000-ra906030/)|
-|![Drambuie hunting example sett](/setts/s6/g6k5r4k48b36ra6-b401000-g908000-k000000-rc00000-ra906030/sett.png)|
+| [Drambuie hunting](/setts/s6/g6k5r4k48b36ra6~b401000-g908000-k000000-rc00000-ra906030/)|
+|![Drambuie hunting example sett](/setts/s6/g6k5r4k48b36ra6~b401000-g908000-k000000-rc00000-ra906030/sett.png)|

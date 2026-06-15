@@ -6,7 +6,7 @@ RRRRWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r56w30r8ra10r3ra20-r888888-rac80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/r56w30r8ra10r3ra20~r888888-rac80000-wfcfcfc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRRWR
 
 | Tartans |
 |---------------|
-| [Walsh, Michael Edward (Personal)](/setts/s6/r56w30r8ra10r3ra20-r888888-rac80000-wfcfcfc/)|
-|![Walsh, Michael Edward (Personal) example sett](/setts/s6/r56w30r8ra10r3ra20-r888888-rac80000-wfcfcfc/sett.png)|
+| [Walsh, Michael Edward (Personal)](/setts/s6/r56w30r8ra10r3ra20~r888888-rac80000-wfcfcfc/)|
+|![Walsh, Michael Edward (Personal) example sett](/setts/s6/r56w30r8ra10r3ra20~r888888-rac80000-wfcfcfc/sett.png)|

@@ -16,5 +16,5 @@ GWKWKWKWRKRW
 
 | Tartans |
 |---------------|
-| [Waverley Check (Corporate)](/setts/s12/g88w8k12w4k4w4k4w28r20k4r8w4-g8c640c-k101010-ra07c58-wf8f4d0/)|
-|![Waverley Check (Corporate) example sett](/setts/s12/g88w8k12w4k4w4k4w28r20k4r8w4-g8c640c-k101010-ra07c58-wf8f4d0/sett.png)|
+| [Waverley Check (Corporate)](/setts/s12/g22w2k3w1k1w1k1w7r5k1r2w1~g8c640c-k101010-ra07c58-wf8f4d0~x4/)|
+|![Waverley Check (Corporate) example sett](/setts/s12/g22w2k3w1k1w1k1w7r5k1r2w1~g8c640c-k101010-ra07c58-wf8f4d0~x4/sett.png)|

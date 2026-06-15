@@ -16,5 +16,5 @@ GRBBGBBRGYBYBRBYBYGRBBGBBR
 
 | Tartans |
 |---------------|
-| [Westmeath](/setts/s26/g22r12b12ba4g6ba4b12r12g72y4ba6y4b10r10b10y4ba6y4g72r12b12ba4g6ba4b12r12-b003c64-ba4c3428-g006818-r880000-yd09800/)|
-|![Westmeath example sett](/setts/s26/g22r12b12ba4g6ba4b12r12g72y4ba6y4b10r10b10y4ba6y4g72r12b12ba4g6ba4b12r12-b003c64-ba4c3428-g006818-r880000-yd09800/sett.png)|
+| [Westmeath](/setts/s26/g11r6b6ba2g3ba2b6r6g36y2ba3y2b5r5b5y2ba3y2g36r6b6ba2g3ba2b6r6~b003c64-ba4c3428-g006818-r880000-yd09800~x2/)|
+|![Westmeath example sett](/setts/s26/g11r6b6ba2g3ba2b6r6g36y2ba3y2b5r5b5y2ba3y2g36r6b6ba2g3ba2b6r6~b003c64-ba4c3428-g006818-r880000-yd09800~x2/sett.png)|

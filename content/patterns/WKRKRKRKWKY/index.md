@@ -16,7 +16,7 @@ WKRKRKRKWKY
 
 | Tartans |
 |---------------|
-| [MacCandlish Arisaid Red](/setts/s11/w12k4r48k4r4k8r4k24wa48k4y4-k101010-r880000-wa8ace8-wac0c0c0-yd09800/)|
-|![MacCandlish Arisaid Red example sett](/setts/s11/w12k4r48k4r4k8r4k24wa48k4y4-k101010-r880000-wa8ace8-wac0c0c0-yd09800/sett.png)|
-| [McCandlish Arisaid, Red (Name)](/setts/s11/w12k4r48k4r4k8r4k24wa48k4y4-k101010-r880000-wa8ace8-wae0e0e0-yd09800/)|
-|![McCandlish Arisaid, Red (Name) example sett](/setts/s11/w12k4r48k4r4k8r4k24wa48k4y4-k101010-r880000-wa8ace8-wae0e0e0-yd09800/sett.png)|
+| [MacCandlish Arisaid Red](/setts/s11/w3k1r12k1r1k2r1k6wa12k1y1~k101010-r880000-wa8ace8-wac0c0c0-yd09800~x4/)|
+|![MacCandlish Arisaid Red example sett](/setts/s11/w3k1r12k1r1k2r1k6wa12k1y1~k101010-r880000-wa8ace8-wac0c0c0-yd09800~x4/sett.png)|
+| [McCandlish Arisaid, Red (Name)](/setts/s11/w3k1r12k1r1k2r1k6wa12k1y1~k101010-r880000-wa8ace8-wae0e0e0-yd09800~x4/)|
+|![McCandlish Arisaid, Red (Name) example sett](/setts/s11/w3k1r12k1r1k2r1k6wa12k1y1~k101010-r880000-wa8ace8-wae0e0e0-yd09800~x4/sett.png)|

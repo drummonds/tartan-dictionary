@@ -6,7 +6,7 @@ KWKRWRKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k44w2k24r86w2r86k24w2-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/k22w1k12r43w1r43k12w1~k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKRWRKW
 
 | Tartans |
 |---------------|
-| [Knights Templar Hunting](/setts/s8/k44w2k24r86w2r86k24w2-k101010-rc80000-wf8f8f8/)|
-|![Knights Templar Hunting example sett](/setts/s8/k44w2k24r86w2r86k24w2-k101010-rc80000-wf8f8f8/sett.png)|
+| [Knights Templar Hunting](/setts/s8/k22w1k12r43w1r43k12w1~k101010-rc80000-wf8f8f8~x2/)|
+|![Knights Templar Hunting example sett](/setts/s8/k22w1k12r43w1r43k12w1~k101010-rc80000-wf8f8f8~x2/sett.png)|

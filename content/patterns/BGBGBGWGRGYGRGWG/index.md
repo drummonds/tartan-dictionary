@@ -16,5 +16,5 @@ BGBGBGWGRGYGRGWG
 
 | Tartans |
 |---------------|
-| [Scottish Borders Tourist Board](/setts/s16/b48g8b6g8b48g12w6g8r6g16y6g16r6g8w6g12-b202060-g5c6428-rc80000-we8ccb8-ybc8c00/)|
-|![Scottish Borders Tourist Board example sett](/setts/s16/b48g8b6g8b48g12w6g8r6g16y6g16r6g8w6g12-b202060-g5c6428-rc80000-we8ccb8-ybc8c00/sett.png)|
+| [Scottish Borders Tourist Board](/setts/s16/b24g4b3g4b24g6w3g4r3g8y3g8r3g4w3g6~b202060-g5c6428-rc80000-we8ccb8-ybc8c00~x2/)|
+|![Scottish Borders Tourist Board example sett](/setts/s16/b24g4b3g4b24g6w3g4r3g8y3g8r3g4w3g6~b202060-g5c6428-rc80000-we8ccb8-ybc8c00~x2/sett.png)|

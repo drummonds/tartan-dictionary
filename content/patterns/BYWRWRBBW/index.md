@@ -16,5 +16,5 @@ BYWRWRBBW
 
 | Tartans |
 |---------------|
-| [Wcwm 1893-11](/setts/s9/b4y28w4r12w4r28b16ba52w4-b202020-ba6400e0-ra0783c-wf0f0b0-yfc9494/)|
-|![Wcwm 1893-11 example sett](/setts/s9/b4y28w4r12w4r28b16ba52w4-b202020-ba6400e0-ra0783c-wf0f0b0-yfc9494/sett.png)|
+| [Wcwm 1893-11](/setts/s9/b1y7w1r3w1r7b4ba13w1~b202020-ba6400e0-ra0783c-wf0f0b0-yfc9494~x4/)|
+|![Wcwm 1893-11 example sett](/setts/s9/b1y7w1r3w1r7b4ba13w1~b202020-ba6400e0-ra0783c-wf0f0b0-yfc9494~x4/sett.png)|

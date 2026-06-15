@@ -6,7 +6,7 @@ RBGRGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r8b38g20ra20ga30y4-b505874-g307840-ga744c00-rc80000-ra888888-yb49830/tartan.png)
+![Woven sample](/setts/s6/r4b19g10ra10ga15y2~b505874-g307840-ga744c00-rc80000-ra888888-yb49830~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBGRGY
 
 | Tartans |
 |---------------|
-| [Isle of Rona (District)](/setts/s6/r8b38g20ra20ga30y4-b505874-g307840-ga744c00-rc80000-ra888888-yb49830/)|
-|![Isle of Rona (District) example sett](/setts/s6/r8b38g20ra20ga30y4-b505874-g307840-ga744c00-rc80000-ra888888-yb49830/sett.png)|
+| [Isle of Rona (District)](/setts/s6/r4b19g10ra10ga15y2~b505874-g307840-ga744c00-rc80000-ra888888-yb49830~x2/)|
+|![Isle of Rona (District) example sett](/setts/s6/r4b19g10ra10ga15y2~b505874-g307840-ga744c00-rc80000-ra888888-yb49830~x2/sett.png)|

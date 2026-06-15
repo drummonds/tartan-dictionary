@@ -16,5 +16,5 @@ RKYKRBKRKY
 
 | Tartans |
 |---------------|
-| [Braemar, Castle](/setts/s10/r104k10y10k16ra10b10k4r12k2y4-b401000-k000000-rc00000-ra906030-yf0c000/)|
-|![Braemar, Castle example sett](/setts/s10/r104k10y10k16ra10b10k4r12k2y4-b401000-k000000-rc00000-ra906030-yf0c000/sett.png)|
+| [Braemar, Castle](/setts/s10/r52k5y5k8ra5b5k2r6k1y2~b401000-k000000-rc00000-ra906030-yf0c000~x2/)|
+|![Braemar, Castle example sett](/setts/s10/r52k5y5k8ra5b5k2r6k1y2~b401000-k000000-rc00000-ra906030-yf0c000~x2/sett.png)|

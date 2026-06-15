@@ -6,7 +6,7 @@ GBGK
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k20g56b48g16-b2c2c80-g006818-k101010/tartan.png)
+![Woven sample](/setts/s4/k5g14b12g4~b2c2c80-g006818-k101010~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGK
 
 | Tartans |
 |---------------|
-| [MacCurdie (Clan?)](/setts/s4/k20g56b48g16-b2c2c80-g006818-k101010/)|
-|![MacCurdie (Clan?) example sett](/setts/s4/k20g56b48g16-b2c2c80-g006818-k101010/sett.png)|
+| [MacCurdie (Clan?)](/setts/s4/k5g14b12g4~b2c2c80-g006818-k101010~x4/)|
+|![MacCurdie (Clan?) example sett](/setts/s4/k5g14b12g4~b2c2c80-g006818-k101010~x4/sett.png)|

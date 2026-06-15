@@ -6,7 +6,7 @@ BYRBKBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y16b32k8b32r32y32b8-b202060-k101010-ra00048-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/y2b4k1b4r4y4b1~b202060-k101010-ra00048-ybc8c00~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRBKBY
 
 | Tartans |
 |---------------|
-| [Isle of Gigha (District)](/setts/s7/y16b32k8b32r32y32b8-b202060-k101010-ra00048-ybc8c00/)|
-|![Isle of Gigha (District) example sett](/setts/s7/y16b32k8b32r32y32b8-b202060-k101010-ra00048-ybc8c00/sett.png)|
+| [Isle of Gigha (District)](/setts/s7/y2b4k1b4r4y4b1~b202060-k101010-ra00048-ybc8c00~x8/)|
+|![Isle of Gigha (District) example sett](/setts/s7/y2b4k1b4r4y4b1~b202060-k101010-ra00048-ybc8c00~x8/sett.png)|

@@ -16,5 +16,5 @@ BBBBBWBWBWWWW
 
 | Tartans |
 |---------------|
-| [Diamond Jubilee (McGill) (Fashion)](/setts/s13/b72ba16b4ba16b2w4b8w4b8w36wa4w2wa8-b440044-ba780078-wc0c0c0-wae0e0e0/)|
-|![Diamond Jubilee (McGill) (Fashion) example sett](/setts/s13/b72ba16b4ba16b2w4b8w4b8w36wa4w2wa8-b440044-ba780078-wc0c0c0-wae0e0e0/sett.png)|
+| [Diamond Jubilee (McGill) (Fashion)](/setts/s13/b36ba8b2ba8b1w2b4w2b4w18wa2w1wa4~b440044-ba780078-wc0c0c0-wae0e0e0~x2/)|
+|![Diamond Jubilee (McGill) (Fashion) example sett](/setts/s13/b36ba8b2ba8b1w2b4w2b4w18wa2w1wa4~b440044-ba780078-wc0c0c0-wae0e0e0~x2/sett.png)|

@@ -16,7 +16,7 @@ KGYGKGKGBYBGR
 
 | Tartans |
 |---------------|
-| [Bartlett from Winnetka, Illinois](/setts/s13/r8g80b24y4b24g60k4g8k4g8y4g6k6-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Bartlett from Winnetka, Illinois example sett](/setts/s13/r8g80b24y4b24g60k4g8k4g8y4g6k6-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
-| [Bartlett from Winnetka, Illinois](/setts/s13/k6g6y4g8k4g6k4g48b20y4b20g60r6-b304080-g008000-k000000-rc00000-yf0c000/)|
-|![Bartlett from Winnetka, Illinois example sett](/setts/s13/k6g6y4g8k4g6k4g48b20y4b20g60r6-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Bartlett from Winnetka, Illinois](/setts/s13/r4g40b12y2b12g30k2g4k2g4y2g3k3~b1c0070-g006818-k101010-r880000-yd09800~x2/)|
+|![Bartlett from Winnetka, Illinois example sett](/setts/s13/r4g40b12y2b12g30k2g4k2g4y2g3k3~b1c0070-g006818-k101010-r880000-yd09800~x2/sett.png)|
+| [Bartlett from Winnetka, Illinois](/setts/s13/k3g3y2g4k2g3k2g24b10y2b10g30r3~b304080-g008000-k000000-rc00000-yf0c000~x2/)|
+|![Bartlett from Winnetka, Illinois example sett](/setts/s13/k3g3y2g4k2g3k2g24b10y2b10g30r3~b304080-g008000-k000000-rc00000-yf0c000~x2/sett.png)|

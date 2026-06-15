@@ -16,5 +16,5 @@ RBRGRBRWRBRWRGGRGGRWRBRWR
 
 | Tartans |
 |---------------|
-| [MacAlister Modern (Lochcarron)](/setts/s25/r36b2r2g16r2b2r12w2r2ba8r2w2r4g6ga2r4ga2g6r6w2r2ba4r2w2r16-b2888c4-ba2c2c80-g006818-ga289c18-rc80000-we0e0e0/)|
-|![MacAlister Modern (Lochcarron) example sett](/setts/s25/r36b2r2g16r2b2r12w2r2ba8r2w2r4g6ga2r4ga2g6r6w2r2ba4r2w2r16-b2888c4-ba2c2c80-g006818-ga289c18-rc80000-we0e0e0/sett.png)|
+| [MacAlister Modern (Lochcarron)](/setts/s25/r18b1r1g8r1b1r6w1r1ba4r1w1r2g3ga1r2ga1g3r3w1r1ba2r1w1r8~b2888c4-ba2c2c80-g006818-ga289c18-rc80000-we0e0e0~x2/)|
+|![MacAlister Modern (Lochcarron) example sett](/setts/s25/r18b1r1g8r1b1r6w1r1ba4r1w1r2g3ga1r2ga1g3r3w1r1ba2r1w1r8~b2888c4-ba2c2c80-g006818-ga289c18-rc80000-we0e0e0~x2/sett.png)|

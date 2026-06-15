@@ -6,7 +6,7 @@ BRYG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b124r48y10g6-b003c64-g003820-r880000-ybc8c00/tartan.png)
+![Woven sample](/setts/s4/b62r24y5g3~b003c64-g003820-r880000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYG
 
 | Tartans |
 |---------------|
-| [Meaux (Personal)](/setts/s4/b124r48y10g6-b003c64-g003820-r880000-ybc8c00/)|
-|![Meaux (Personal) example sett](/setts/s4/b124r48y10g6-b003c64-g003820-r880000-ybc8c00/sett.png)|
+| [Meaux (Personal)](/setts/s4/b62r24y5g3~b003c64-g003820-r880000-ybc8c00~x2/)|
+|![Meaux (Personal) example sett](/setts/s4/b62r24y5g3~b003c64-g003820-r880000-ybc8c00~x2/sett.png)|

@@ -16,5 +16,5 @@ KWKWBKBKBWKW
 
 | Tartans |
 |---------------|
-| [Glasgow Caledonian University (Corp)](/setts/s12/k8w4k50w14b2k10b4k10b2w14k52w4-b2888c4-k101010-we0e0e0/)|
-|![Glasgow Caledonian University (Corp) example sett](/setts/s12/k8w4k50w14b2k10b4k10b2w14k52w4-b2888c4-k101010-we0e0e0/sett.png)|
+| [Glasgow Caledonian University (Corp)](/setts/s12/k4w2k25w7b1k5b2k5b1w7k26w2~b2888c4-k101010-we0e0e0~x2/)|
+|![Glasgow Caledonian University (Corp) example sett](/setts/s12/k4w2k25w7b1k5b2k5b1w7k26w2~b2888c4-k101010-we0e0e0~x2/sett.png)|

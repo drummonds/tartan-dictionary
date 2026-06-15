@@ -6,7 +6,7 @@ GYGRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g8y22g28r60ra8-g6b4226-r8b7355-racd0000-y6ca6cd/tartan.png)
+![Woven sample](/setts/s5/g4y11g14r30ra4~g6b4226-r8b7355-racd0000-y6ca6cd~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGRR
 
 | Tartans |
 |---------------|
-| [Trinity Bicycles](/setts/s5/g8y22g28r60ra8-g6b4226-r8b7355-racd0000-y6ca6cd/)|
-|![Trinity Bicycles example sett](/setts/s5/g8y22g28r60ra8-g6b4226-r8b7355-racd0000-y6ca6cd/sett.png)|
+| [Trinity Bicycles](/setts/s5/g4y11g14r30ra4~g6b4226-r8b7355-racd0000-y6ca6cd~x2/)|
+|![Trinity Bicycles example sett](/setts/s5/g4y11g14r30ra4~g6b4226-r8b7355-racd0000-y6ca6cd~x2/sett.png)|

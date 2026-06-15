@@ -16,5 +16,5 @@ BRBWBKBGBKBYW
 
 | Tartans |
 |---------------|
-| [Ontario Provincial Police](/setts/s13/b36r4b4w4b8k40b32g8b32k40b40y4wa8-b191970-g2e8b57-k000000-rff0000-wffffff-wa87cefa-yffd700/)|
-|![Ontario Provincial Police example sett](/setts/s13/b36r4b4w4b8k40b32g8b32k40b40y4wa8-b191970-g2e8b57-k000000-rff0000-wffffff-wa87cefa-yffd700/sett.png)|
+| [Ontario Provincial Police](/setts/s13/b9r1b1w1b2k10b8g2b8k10b10y1wa2~b191970-g2e8b57-k000000-rff0000-wffffff-wa87cefa-yffd700~x4/)|
+|![Ontario Provincial Police example sett](/setts/s13/b9r1b1w1b2k10b8g2b8k10b10y1wa2~b191970-g2e8b57-k000000-rff0000-wffffff-wa87cefa-yffd700~x4/sett.png)|

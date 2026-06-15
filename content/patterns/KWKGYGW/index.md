@@ -6,7 +6,7 @@ KWKGYGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k38w16k38g32y8g32w4-g30a010-k000000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s7/k19w8k19g16y4g16w2~g30a010-k000000-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKGYGW
 
 | Tartans |
 |---------------|
-| [St Johnstone F.C.](/setts/s7/k38w16k38g32y8g32w4-g30a010-k000000-we0e0e0-yf0c000/)|
-|![St Johnstone F.C. example sett](/setts/s7/k38w16k38g32y8g32w4-g30a010-k000000-we0e0e0-yf0c000/sett.png)|
+| [St Johnstone F.C.](/setts/s7/k19w8k19g16y4g16w2~g30a010-k000000-we0e0e0-yf0c000~x2/)|
+|![St Johnstone F.C. example sett](/setts/s7/k19w8k19g16y4g16w2~g30a010-k000000-we0e0e0-yf0c000~x2/sett.png)|

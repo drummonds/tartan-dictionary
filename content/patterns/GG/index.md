@@ -6,7 +6,7 @@ GG
 
 It is a 2 stripes tartan.
 
-![Woven sample](/setts/s2/g14ga12-g003820-ga5c6428/tartan.png)
+![Woven sample](/setts/s2/g7ga6~g003820-ga5c6428~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GG
 
 | Tartans |
 |---------------|
-| [Wilson's No.219](/setts/s2/g14ga12-g003820-ga5c6428/)|
-|![Wilson's No.219 example sett](/setts/s2/g14ga12-g003820-ga5c6428/sett.png)|
-| [Wilson's, No 219](/setts/s2/g18ga18-g003000-ga008000/)|
-|![Wilson's, No 219 example sett](/setts/s2/g18ga18-g003000-ga008000/sett.png)|
+| [Wilson's No.219](/setts/s2/g7ga6~g003820-ga5c6428~x2/)|
+|![Wilson's No.219 example sett](/setts/s2/g7ga6~g003820-ga5c6428~x2/sett.png)|
+| [Wilson's, No 219](/setts/s2/g1ga1~g003000-ga008000~x18/)|
+|![Wilson's, No 219 example sett](/setts/s2/g1ga1~g003000-ga008000~x18/sett.png)|

@@ -6,7 +6,7 @@ BWBRRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b140w16b40r12ra12r12-b00009c-r8b1c62-rab0171f-wffffff/tartan.png)
+![Woven sample](/setts/s6/b35w4b10r3ra3r3~b00009c-r8b1c62-rab0171f-wffffff~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWBRRR
 
 | Tartans |
 |---------------|
-| [Steffen, Markus (Personal)](/setts/s6/b140w16b40r12ra12r12-b00009c-r8b1c62-rab0171f-wffffff/)|
-|![Steffen, Markus (Personal) example sett](/setts/s6/b140w16b40r12ra12r12-b00009c-r8b1c62-rab0171f-wffffff/sett.png)|
-| [Steffen, Morris (Personal)](/setts/s6/b140w16b40r12ra12r12-b2c2c80-r901c38-rac80000-we0e0e0/)|
-|![Steffen, Morris (Personal) example sett](/setts/s6/b140w16b40r12ra12r12-b2c2c80-r901c38-rac80000-we0e0e0/sett.png)|
+| [Steffen, Markus (Personal)](/setts/s6/b35w4b10r3ra3r3~b00009c-r8b1c62-rab0171f-wffffff~x4/)|
+|![Steffen, Markus (Personal) example sett](/setts/s6/b35w4b10r3ra3r3~b00009c-r8b1c62-rab0171f-wffffff~x4/sett.png)|
+| [Steffen, Morris (Personal)](/setts/s6/b35w4b10r3ra3r3~b2c2c80-r901c38-rac80000-we0e0e0~x4/)|
+|![Steffen, Morris (Personal) example sett](/setts/s6/b35w4b10r3ra3r3~b2c2c80-r901c38-rac80000-we0e0e0~x4/sett.png)|

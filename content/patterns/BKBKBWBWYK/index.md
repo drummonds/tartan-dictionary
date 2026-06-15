@@ -16,5 +16,5 @@ BKBKBWBWYK
 
 | Tartans |
 |---------------|
-| [California Riverside, University of (Corporate)](/setts/s10/b84k12b6k6b6w10b34w14y20k6-b2c2c80-k101010-wf8f8f8-ybc8c00/)|
-|![California Riverside, University of (Corporate) example sett](/setts/s10/b84k12b6k6b6w10b34w14y20k6-b2c2c80-k101010-wf8f8f8-ybc8c00/sett.png)|
+| [California Riverside, University of (Corporate)](/setts/s10/b42k6b3k3b3w5b17w7y10k3~b2c2c80-k101010-wf8f8f8-ybc8c00~x2/)|
+|![California Riverside, University of (Corporate) example sett](/setts/s10/b42k6b3k3b3w5b17w7y10k3~b2c2c80-k101010-wf8f8f8-ybc8c00~x2/sett.png)|

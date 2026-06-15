@@ -16,5 +16,5 @@ BKBKGRGWGKBK
 
 | Tartans |
 |---------------|
-| [Spar (UK) Ltd](/setts/s12/b8k4b40k36g36r4g8w4g36k36b40k8-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![Spar (UK) Ltd example sett](/setts/s12/b8k4b40k36g36r4g8w4g36k36b40k8-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Spar (UK) Ltd](/setts/s12/b2k1b10k9g9r1g2w1g9k9b10k2~b304080-g008000-k000000-rc00000-we0e0e0~x4/)|
+|![Spar (UK) Ltd example sett](/setts/s12/b2k1b10k9g9r1g2w1g9k9b10k2~b304080-g008000-k000000-rc00000-we0e0e0~x4/sett.png)|

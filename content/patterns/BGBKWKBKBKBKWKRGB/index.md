@@ -16,7 +16,7 @@ BGBKWKBKBKBKWKRGB
 
 | Tartans |
 |---------------|
-| [Selkirk, New (District)](/setts/s17/b48g4r24k4w4k6ba4k6b8k6ba4k6w4k4bb24g4bb48-b1474b4-ba780078-bb2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Selkirk, New (District) example sett](/setts/s17/b48g4r24k4w4k6ba4k6b8k6ba4k6w4k4bb24g4bb48-b1474b4-ba780078-bb2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Selkirk](/setts/s17/b48g4b24k4w4k6ba4k6bb8k6ba4k6w4k4r24g4bb48-b000050-ba800070-bb304080-g407040-k000000-rc00000-we0e0e0/)|
-|![Selkirk example sett](/setts/s17/b48g4b24k4w4k6ba4k6bb8k6ba4k6w4k4r24g4bb48-b000050-ba800070-bb304080-g407040-k000000-rc00000-we0e0e0/sett.png)|
+| [Selkirk, New (District)](/setts/s17/b24g2r12k2w2k3ba2k3b4k3ba2k3w2k2bb12g2bb24~b1474b4-ba780078-bb2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Selkirk, New (District) example sett](/setts/s17/b24g2r12k2w2k3ba2k3b4k3ba2k3w2k2bb12g2bb24~b1474b4-ba780078-bb2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [Selkirk](/setts/s17/b24g2b12k2w2k3ba2k3bb4k3ba2k3w2k2r12g2bb24~b000050-ba800070-bb304080-g407040-k000000-rc00000-we0e0e0~x2/)|
+|![Selkirk example sett](/setts/s17/b24g2b12k2w2k3ba2k3bb4k3ba2k3w2k2r12g2bb24~b000050-ba800070-bb304080-g407040-k000000-rc00000-we0e0e0~x2/sett.png)|

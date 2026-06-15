@@ -16,5 +16,5 @@ GKRKRKRKRKYGRKYKYKYRKY
 
 | Tartans |
 |---------------|
-| [New Brunswick](/setts/s22/g28k4r4k4r4k4r4k4r4k4y50g16r8k8y6k2y6k2y8r20k4y4-g008000-k000000-rc00000-yf0c000/)|
-|![New Brunswick example sett](/setts/s22/g28k4r4k4r4k4r4k4r4k4y50g16r8k8y6k2y6k2y8r20k4y4-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [New Brunswick](/setts/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~g008000-k000000-rc00000-yf0c000~x2/)|
+|![New Brunswick example sett](/setts/s22/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2~g008000-k000000-rc00000-yf0c000~x2/sett.png)|

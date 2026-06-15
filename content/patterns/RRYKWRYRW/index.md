@@ -16,5 +16,5 @@ RRYKWRYRW
 
 | Tartans |
 |---------------|
-| [Etive, Burgundy (Dance)](/setts/s9/r60ra4y12k4w44r12y12ra12w4-k101010-r800028-rae87878-wf0e0c8-y84c0a0/)|
-|![Etive, Burgundy (Dance) example sett](/setts/s9/r60ra4y12k4w44r12y12ra12w4-k101010-r800028-rae87878-wf0e0c8-y84c0a0/sett.png)|
+| [Etive, Burgundy (Dance)](/setts/s9/r15ra1y3k1w11r3y3ra3w1~k101010-r800028-rae87878-wf0e0c8-y84c0a0~x4/)|
+|![Etive, Burgundy (Dance) example sett](/setts/s9/r15ra1y3k1w11r3y3ra3w1~k101010-r800028-rae87878-wf0e0c8-y84c0a0~x4/sett.png)|

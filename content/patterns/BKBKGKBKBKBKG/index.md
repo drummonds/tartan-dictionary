@@ -16,5 +16,5 @@ BKBKGKBKBKBKG
 
 | Tartans |
 |---------------|
-| [Davies (Welsh Name)](/setts/s13/b2k2ba30k3g30k3bb30k2bb4k2bb30k3ga2-b5c8ca8-ba202060-bb1c0070-g006818-ga408060-k101010/)|
-|![Davies (Welsh Name) example sett](/setts/s13/b2k2ba30k3g30k3bb30k2bb4k2bb30k3ga2-b5c8ca8-ba202060-bb1c0070-g006818-ga408060-k101010/sett.png)|
+| [Davies (Welsh Name)](/setts/s13/b2k2ba30k3g30k3bb30k2bb4k2bb30k3ga2~b5c8ca8-ba202060-bb1c0070-g006818-ga408060-k101010/)|
+|![Davies (Welsh Name) example sett](/setts/s13/b2k2ba30k3g30k3bb30k2bb4k2bb30k3ga2~b5c8ca8-ba202060-bb1c0070-g006818-ga408060-k101010/sett.png)|

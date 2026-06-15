@@ -16,5 +16,5 @@ BGBGYGYGW
 
 | Tartans |
 |---------------|
-| [Titanium](/setts/s9/b88g16b16g44y8g8y22g4w4-b292929-g707070-wffffff-y979797/)|
-|![Titanium example sett](/setts/s9/b88g16b16g44y8g8y22g4w4-b292929-g707070-wffffff-y979797/sett.png)|
+| [Titanium](/setts/s9/b44g8b8g22y4g4y11g2w2~b292929-g707070-wffffff-y979797~x2/)|
+|![Titanium example sett](/setts/s9/b44g8b8g22y4g4y11g2w2~b292929-g707070-wffffff-y979797~x2/sett.png)|

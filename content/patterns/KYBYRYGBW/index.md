@@ -16,5 +16,5 @@ KYBYRYGBW
 
 | Tartans |
 |---------------|
-| [Coats (New Zealand)](/setts/s9/k18y12b18ya4r6ya4g34b34w10-b2c2c80-g005020-k101010-rb07430-w98c8e8-yc89800-yab0b0b0/)|
-|![Coats (New Zealand) example sett](/setts/s9/k18y12b18ya4r6ya4g34b34w10-b2c2c80-g005020-k101010-rb07430-w98c8e8-yc89800-yab0b0b0/sett.png)|
+| [Coats (New Zealand)](/setts/s9/k9y6b9ya2r3ya2g17b17w5~b2c2c80-g005020-k101010-rb07430-w98c8e8-yc89800-yab0b0b0~x2/)|
+|![Coats (New Zealand) example sett](/setts/s9/k9y6b9ya2r3ya2g17b17w5~b2c2c80-g005020-k101010-rb07430-w98c8e8-yc89800-yab0b0b0~x2/sett.png)|

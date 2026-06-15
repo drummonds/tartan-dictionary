@@ -6,7 +6,7 @@ GYBYBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g40y12b40ya6b96r12b8r12-b1c0070-g006818-r880000-ya0a0a0-yae8c000/tartan.png)
+![Woven sample](/setts/s8/g20y6b20ya3b48r6b4r6~b1c0070-g006818-r880000-ya0a0a0-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYBYBRBR
 
 | Tartans |
 |---------------|
-| [Warren Wilson College (Corporate)](/setts/s8/g40y12b40ya6b96r12b8r12-b1c0070-g006818-r880000-ya0a0a0-yae8c000/)|
-|![Warren Wilson College (Corporate) example sett](/setts/s8/g40y12b40ya6b96r12b8r12-b1c0070-g006818-r880000-ya0a0a0-yae8c000/sett.png)|
+| [Warren Wilson College (Corporate)](/setts/s8/g20y6b20ya3b48r6b4r6~b1c0070-g006818-r880000-ya0a0a0-yae8c000~x2/)|
+|![Warren Wilson College (Corporate) example sett](/setts/s8/g20y6b20ya3b48r6b4r6~b1c0070-g006818-r880000-ya0a0a0-yae8c000~x2/sett.png)|

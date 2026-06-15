@@ -6,7 +6,7 @@ KRKYKRKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k21r1k1y1k1r1k3w3~k101010-rc80000-we0e0e0-ye8c000~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKYKRKW
 
 | Tartans |
 |---------------|
-| [Black Country (District)](/setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Black Country (District) example sett](/setts/s8/k126r6k6y6k6r6k18w18-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Black Country (District)](/setts/s8/k21r1k1y1k1r1k3w3~k101010-rc80000-we0e0e0-ye8c000~x6/)|
+|![Black Country (District) example sett](/setts/s8/k21r1k1y1k1r1k3w3~k101010-rc80000-we0e0e0-ye8c000~x6/sett.png)|

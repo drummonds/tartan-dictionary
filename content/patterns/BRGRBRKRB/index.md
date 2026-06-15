@@ -16,7 +16,7 @@ BRGRBRKRB
 
 | Tartans |
 |---------------|
-| [MacPherson of Pitmain](/setts/s9/b4r4g32r4b4r4k32r4b4-b304080-g808080-k000000-rc00000/)|
-|![MacPherson of Pitmain example sett](/setts/s9/b4r4g32r4b4r4k32r4b4-b304080-g808080-k000000-rc00000/sett.png)|
-| [MacPherson Hunting](/setts/s9/b2r2g16r2b2r2k16r2b2-b000052-g7e7e7e-k000000-raa0000/)|
-|![MacPherson Hunting example sett](/setts/s9/b2r2g16r2b2r2k16r2b2-b000052-g7e7e7e-k000000-raa0000/sett.png)|
+| [MacPherson of Pitmain](/setts/s9/b1r1g8r1b1r1k8r1b1~b304080-g808080-k000000-rc00000~x4/)|
+|![MacPherson of Pitmain example sett](/setts/s9/b1r1g8r1b1r1k8r1b1~b304080-g808080-k000000-rc00000~x4/sett.png)|
+| [MacPherson Hunting](/setts/s9/b1r1g8r1b1r1k8r1b1~b000052-g7e7e7e-k000000-raa0000~x2/)|
+|![MacPherson Hunting example sett](/setts/s9/b1r1g8r1b1r1k8r1b1~b000052-g7e7e7e-k000000-raa0000~x2/sett.png)|

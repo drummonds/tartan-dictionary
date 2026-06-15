@@ -6,7 +6,7 @@ YBYBYBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y112b4y38b2y4b2y4-b202060-ya08858/tartan.png)
+![Woven sample](/setts/s7/y56b2y19b1y2b1y2~b202060-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YBYBYBY
 
 | Tartans |
 |---------------|
-| [Lewis (Welsh Name)](/setts/s7/y112b4y38b2y4b2y4-b202060-ya08858/)|
-|![Lewis (Welsh Name) example sett](/setts/s7/y112b4y38b2y4b2y4-b202060-ya08858/sett.png)|
+| [Lewis (Welsh Name)](/setts/s7/y56b2y19b1y2b1y2~b202060-ya08858~x2/)|
+|![Lewis (Welsh Name) example sett](/setts/s7/y56b2y19b1y2b1y2~b202060-ya08858~x2/sett.png)|

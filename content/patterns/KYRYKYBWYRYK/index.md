@@ -16,5 +16,5 @@ KYRYKYBWYRYK
 
 | Tartans |
 |---------------|
-| [McMillen Memorial, Hugh E. (Personal](/setts/s12/k16y4r36y6k16y36b8w6y24ra2y4k4-b780078-k101010-r888888-rae87878-wfcfcfc-yfccc00/)|
-|![McMillen Memorial, Hugh E. (Personal example sett](/setts/s12/k16y4r36y6k16y36b8w6y24ra2y4k4-b780078-k101010-r888888-rae87878-wfcfcfc-yfccc00/sett.png)|
+| [McMillen Memorial, Hugh E. (Personal](/setts/s12/k8y2r18y3k8y18b4w3y12ra1y2k2~b780078-k101010-r888888-rae87878-wfcfcfc-yfccc00~x2/)|
+|![McMillen Memorial, Hugh E. (Personal example sett](/setts/s12/k8y2r18y3k8y18b4w3y12ra1y2k2~b780078-k101010-r888888-rae87878-wfcfcfc-yfccc00~x2/sett.png)|

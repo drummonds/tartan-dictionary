@@ -16,5 +16,5 @@ BYBYGBGBRGRGKW
 
 | Tartans |
 |---------------|
-| [Jones-MacGregor](/setts/s14/b4y4b6y16g8b8g6b16r24g14r6g4k2w2-b123d59-g085e23-k101010-rd82819-wf7f1e8-y78a692/)|
-|![Jones-MacGregor example sett](/setts/s14/b4y4b6y16g8b8g6b16r24g14r6g4k2w2-b123d59-g085e23-k101010-rd82819-wf7f1e8-y78a692/sett.png)|
+| [Jones-MacGregor](/setts/s14/b2y2b3y8g4b4g3b8r12g7r3g2k1w1~b123d59-g085e23-k101010-rd82819-wf7f1e8-y78a692~x2/)|
+|![Jones-MacGregor example sett](/setts/s14/b2y2b3y8g4b4g3b8r12g7r3g2k1w1~b123d59-g085e23-k101010-rd82819-wf7f1e8-y78a692~x2/sett.png)|

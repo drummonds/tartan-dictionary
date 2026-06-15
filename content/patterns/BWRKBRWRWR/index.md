@@ -16,5 +16,5 @@ BWRKBRWRWR
 
 | Tartans |
 |---------------|
-| [City of Pointe-Claire](/setts/s10/b16w4r4k8b16r8w4r4w4r4-b285e99-k000000-r866c5a-wffffff/)|
-|![City of Pointe-Claire example sett](/setts/s10/b16w4r4k8b16r8w4r4w4r4-b285e99-k000000-r866c5a-wffffff/sett.png)|
+| [City of Pointe-Claire](/setts/s10/b4w1r1k2b4r2w1r1w1r1~b285e99-k000000-r866c5a-wffffff~x4/)|
+|![City of Pointe-Claire example sett](/setts/s10/b4w1r1k2b4r2w1r1w1r1~b285e99-k000000-r866c5a-wffffff~x4/sett.png)|

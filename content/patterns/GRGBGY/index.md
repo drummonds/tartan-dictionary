@@ -6,7 +6,7 @@ GRGBGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g30r10g60b64g8y6-b2c2c80-g604000-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/g15r5g30b32g4y3~b2c2c80-g604000-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGBGY
 
 | Tartans |
 |---------------|
-| [Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g30r10g60b64g8y6-b2c2c80-g604000-rc80000-ye8c000/)|
-|![Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/g30r10g60b64g8y6-b2c2c80-g604000-rc80000-ye8c000/sett.png)|
+| [Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g15r5g30b32g4y3~b2c2c80-g604000-rc80000-ye8c000~x2/)|
+|![Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/g15r5g30b32g4y3~b2c2c80-g604000-rc80000-ye8c000~x2/sett.png)|

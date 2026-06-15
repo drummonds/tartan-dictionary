@@ -16,5 +16,5 @@ GBYBYRBGBW
 
 | Tartans |
 |---------------|
-| [State Seal of Arizona (Fashion)](/setts/s10/g8b42y20b10y8r8ba20g12ba60w8-b441800-ba2c2c80-g006818-r880000-we8ccb8-ya08858/)|
-|![State Seal of Arizona (Fashion) example sett](/setts/s10/g8b42y20b10y8r8ba20g12ba60w8-b441800-ba2c2c80-g006818-r880000-we8ccb8-ya08858/sett.png)|
+| [State Seal of Arizona (Fashion)](/setts/s10/g4b21y10b5y4r4ba10g6ba30w4~b441800-ba2c2c80-g006818-r880000-we8ccb8-ya08858~x2/)|
+|![State Seal of Arizona (Fashion) example sett](/setts/s10/g4b21y10b5y4r4ba10g6ba30w4~b441800-ba2c2c80-g006818-r880000-we8ccb8-ya08858~x2/sett.png)|

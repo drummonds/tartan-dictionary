@@ -16,5 +16,5 @@ RWYGYWGWYGW
 
 | Tartans |
 |---------------|
-| [Bouguet, Adrian Dress (Personal)](/setts/s11/w32g10y40wa6g6wa6y8ga28y4wa4r2-g306754-ga767e52-ra00000-w98c8e8-wac8c8c8-yebb790/)|
-|![Bouguet, Adrian Dress (Personal) example sett](/setts/s11/w32g10y40wa6g6wa6y8ga28y4wa4r2-g306754-ga767e52-ra00000-w98c8e8-wac8c8c8-yebb790/sett.png)|
+| [Bouguet, Adrian Dress (Personal)](/setts/s11/w16g5y20wa3g3wa3y4ga14y2wa2r1~g306754-ga767e52-ra00000-w98c8e8-wac8c8c8-yebb790~x2/)|
+|![Bouguet, Adrian Dress (Personal) example sett](/setts/s11/w16g5y20wa3g3wa3y4ga14y2wa2r1~g306754-ga767e52-ra00000-w98c8e8-wac8c8c8-yebb790~x2/sett.png)|

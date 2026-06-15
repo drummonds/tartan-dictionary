@@ -16,5 +16,5 @@ GBKBKGRGKGKGKGKGRGKBKBG
 
 | Tartans |
 |---------------|
-| [Gunning, Robert Maxwell Stewart (Personal)](/setts/s23/g4b10k4b4k6g30r4g30k6g4k10g4k10g4k6g30ra4g30k6b4k4b10g4-b5c8ca8-g002814-k101010-r800028-raec34c4/)|
-|![Gunning, Robert Maxwell Stewart (Personal) example sett](/setts/s23/g4b10k4b4k6g30r4g30k6g4k10g4k10g4k6g30ra4g30k6b4k4b10g4-b5c8ca8-g002814-k101010-r800028-raec34c4/sett.png)|
+| [Gunning, Robert Maxwell Stewart (Personal)](/setts/s23/g2b5k2b2k3g15r2g15k3g2k5g2k5g2k3g15ra2g15k3b2k2b5g2~b5c8ca8-g002814-k101010-r800028-raec34c4~x2/)|
+|![Gunning, Robert Maxwell Stewart (Personal) example sett](/setts/s23/g2b5k2b2k3g15r2g15k3g2k5g2k5g2k3g15ra2g15k3b2k2b5g2~b5c8ca8-g002814-k101010-r800028-raec34c4~x2/sett.png)|

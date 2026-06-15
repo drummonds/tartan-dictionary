@@ -6,7 +6,7 @@ KGGGGGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k4g4g38g4g4g38r4-g006818-k000000-r880000/tartan.png)
+![Woven sample](/setts/s7/k2g2g19g2g2g19r2~g006818-k000000-r880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGGGGGR
 
 | Tartans |
 |---------------|
-| [Kenmore Hunting (Fashion)](/setts/s7/k4g4g38g4g4g38r4-g006818-k000000-r880000/)|
-|![Kenmore Hunting (Fashion) example sett](/setts/s7/k4g4g38g4g4g38r4-g006818-k000000-r880000/sett.png)|
+| [Kenmore Hunting (Fashion)](/setts/s7/k2g2g19g2g2g19r2~g006818-k000000-r880000~x2/)|
+|![Kenmore Hunting (Fashion) example sett](/setts/s7/k2g2g19g2g2g19r2~g006818-k000000-r880000~x2/sett.png)|

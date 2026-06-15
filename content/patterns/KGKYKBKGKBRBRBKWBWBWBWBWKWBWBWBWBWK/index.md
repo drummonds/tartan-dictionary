@@ -16,5 +16,5 @@ KGKYKBKGKBRBRBKWBWBWBWBWKWBWBWBWBWK
 
 | Tartans |
 |---------------|
-| [Malcolm Dress (Lochcarron 2005)](/setts/s35/k28g36k8y8k8b8k8g36k28b28r8b12r8b28k28w8b8w44b8w12b8w44b8w8k28w8b8w44b8w12b8w44b8w8k28-b1c0070-g006818-k101010-rc80000-wfcfcfc-yd8b000/)|
-|![Malcolm Dress (Lochcarron 2005) example sett](/setts/s35/k28g36k8y8k8b8k8g36k28b28r8b12r8b28k28w8b8w44b8w12b8w44b8w8k28w8b8w44b8w12b8w44b8w8k28-b1c0070-g006818-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|
+| [Malcolm Dress (Lochcarron 2005)](/setts/s35/k7g9k2y2k2b2k2g9k7b7r2b3r2b7k7w2b2w11b2w3b2w11b2w2k7w2b2w11b2w3b2w11b2w2k7~b1c0070-g006818-k101010-rc80000-wfcfcfc-yd8b000~x4/)|
+|![Malcolm Dress (Lochcarron 2005) example sett](/setts/s35/k7g9k2y2k2b2k2g9k7b7r2b3r2b7k7w2b2w11b2w3b2w11b2w2k7w2b2w11b2w3b2w11b2w2k7~b1c0070-g006818-k101010-rc80000-wfcfcfc-yd8b000~x4/sett.png)|

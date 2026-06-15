@@ -16,5 +16,5 @@ BYBRWKWRKR
 
 | Tartans |
 |---------------|
-| [Asman Red (Personal)](/setts/s10/b8y6b44r12w4k12w4ra52k6ra8-b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000/)|
-|![Asman Red (Personal) example sett](/setts/s10/b8y6b44r12w4k12w4ra52k6ra8-b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000/sett.png)|
+| [Asman Red (Personal)](/setts/s10/b4y3b22r6w2k6w2ra26k3ra4~b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000~x2/)|
+|![Asman Red (Personal) example sett](/setts/s10/b4y3b22r6w2k6w2ra26k3ra4~b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ GGRGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r74g18r6ga18g6-g503c14-ga005020-r960028/tartan.png)
+![Woven sample](/setts/s5/r37g9r3ga9g3~g503c14-ga005020-r960028~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GGRGR
 
 | Tartans |
 |---------------|
-| [Glenshee #2](/setts/s5/r74g18r6ga18g6-g503c14-ga005020-r960028/)|
-|![Glenshee #2 example sett](/setts/s5/r74g18r6ga18g6-g503c14-ga005020-r960028/sett.png)|
-| [Glen Shee Trade Tartan Tartan Number: 1662. Earliest known date: pre 2003 May have been obtained from a hand made design procured in the Highlands for The Highland Society of London. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/r74g18r6ga18g6-g604000-ga006818-ra00048/)|
-|![Glen Shee Trade Tartan Tartan Number: 1662. Earliest known date: pre 2003 May have been obtained from a hand made design procured in the Highlands for The Highland Society of London. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/r74g18r6ga18g6-g604000-ga006818-ra00048/sett.png)|
+| [Glenshee #2](/setts/s5/r37g9r3ga9g3~g503c14-ga005020-r960028~x2/)|
+|![Glenshee #2 example sett](/setts/s5/r37g9r3ga9g3~g503c14-ga005020-r960028~x2/sett.png)|
+| [Glen Shee Trade Tartan Tartan Number: 1662. Earliest known date: pre 2003 May have been obtained from a hand made design procured in the Highlands for The Highland Society of London. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/r37g9r3ga9g3~g604000-ga006818-ra00048~x2/)|
+|![Glen Shee Trade Tartan Tartan Number: 1662. Earliest known date: pre 2003 May have been obtained from a hand made design procured in the Highlands for The Highland Society of London. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/r37g9r3ga9g3~g604000-ga006818-ra00048~x2/sett.png)|

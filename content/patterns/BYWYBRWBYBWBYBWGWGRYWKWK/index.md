@@ -16,5 +16,5 @@ BYWYBRWBYBWBYBWGWGRYWKWK
 
 | Tartans |
 |---------------|
-| [Wedding Dress:1766](/setts/s24/k16w8k8w4y24r24g24w4g108w4b16y16ba12w4ba12y16b16w4r144b12y8w4y8b12-b003c64-ba441800-g003820-k101010-rb03000-wc0c0c0-y48a4c0/)|
-|![Wedding Dress:1766 example sett](/setts/s24/k16w8k8w4y24r24g24w4g108w4b16y16ba12w4ba12y16b16w4r144b12y8w4y8b12-b003c64-ba441800-g003820-k101010-rb03000-wc0c0c0-y48a4c0/sett.png)|
+| [Wedding Dress:1766](/setts/s24/k4w2k2w1y6r6g6w1g27w1b4y4ba3w1ba3y4b4w1r36b3y2w1y2b3~b003c64-ba441800-g003820-k101010-rb03000-wc0c0c0-y48a4c0~x4/)|
+|![Wedding Dress:1766 example sett](/setts/s24/k4w2k2w1y6r6g6w1g27w1b4y4ba3w1ba3y4b4w1r36b3y2w1y2b3~b003c64-ba441800-g003820-k101010-rb03000-wc0c0c0-y48a4c0~x4/sett.png)|

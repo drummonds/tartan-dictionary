@@ -16,5 +16,5 @@ BGRGBKBKGRGRGBK
 
 | Tartans |
 |---------------|
-| [MacInroy Hunting](/setts/s15/b4g48r4g4b22k6b22k24g6r24g4r4g48b4k4-b2c2c80-g408060-k101010-rc80000/)|
-|![MacInroy Hunting example sett](/setts/s15/b4g48r4g4b22k6b22k24g6r24g4r4g48b4k4-b2c2c80-g408060-k101010-rc80000/sett.png)|
+| [MacInroy Hunting](/setts/s15/b2g24r2g2b11k3b11k12g3r12g2r2g24b2k2~b2c2c80-g408060-k101010-rc80000~x2/)|
+|![MacInroy Hunting example sett](/setts/s15/b2g24r2g2b11k3b11k12g3r12g2r2g24b2k2~b2c2c80-g408060-k101010-rc80000~x2/sett.png)|

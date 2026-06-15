@@ -16,5 +16,5 @@ KGWGBGBGBKBKBKBGR
 
 | Tartans |
 |---------------|
-| [MacGlynn](/setts/s17/k6g6w6g6b6g6b6g30ba6k6ba6k6ba6k6ba6g38r6-b780078-ba440044-g003820-k101010-rc80000-wfcfcfc/)|
-|![MacGlynn example sett](/setts/s17/k6g6w6g6b6g6b6g30ba6k6ba6k6ba6k6ba6g38r6-b780078-ba440044-g003820-k101010-rc80000-wfcfcfc/sett.png)|
+| [MacGlynn](/setts/s17/k3g3w3g3b3g3b3g15ba3k3ba3k3ba3k3ba3g19r3~b780078-ba440044-g003820-k101010-rc80000-wfcfcfc~x2/)|
+|![MacGlynn example sett](/setts/s17/k3g3w3g3b3g3b3g15ba3k3ba3k3ba3k3ba3g19r3~b780078-ba440044-g003820-k101010-rc80000-wfcfcfc~x2/sett.png)|

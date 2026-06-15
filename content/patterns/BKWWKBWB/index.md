@@ -6,7 +6,7 @@ BKWWKBWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b20k14w4wa4k54ba14w4ba14-b505050-ba1870a4-k1c1714-w82cffd-wae8ccb8/tartan.png)
+![Woven sample](/setts/s8/b10k7w2wa2k27ba7w2ba7~b505050-ba1870a4-k1c1714-w82cffd-wae8ccb8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWWKBWB
 
 | Tartans |
 |---------------|
-| [Croy, Jake (Personal)](/setts/s8/b20k14w4wa4k54ba14w4ba14-b505050-ba1870a4-k1c1714-w82cffd-wae8ccb8/)|
-|![Croy, Jake (Personal) example sett](/setts/s8/b20k14w4wa4k54ba14w4ba14-b505050-ba1870a4-k1c1714-w82cffd-wae8ccb8/sett.png)|
+| [Croy, Jake (Personal)](/setts/s8/b10k7w2wa2k27ba7w2ba7~b505050-ba1870a4-k1c1714-w82cffd-wae8ccb8~x2/)|
+|![Croy, Jake (Personal) example sett](/setts/s8/b10k7w2wa2k27ba7w2ba7~b505050-ba1870a4-k1c1714-w82cffd-wae8ccb8~x2/sett.png)|

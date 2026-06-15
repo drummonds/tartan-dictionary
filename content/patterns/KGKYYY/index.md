@@ -6,7 +6,7 @@ KGKYYY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k10g50k20y30ya2y10-g589058-k101010-y9cc484-yae8c000/tartan.png)
+![Woven sample](/setts/s6/k5g25k10y15ya1y5~g589058-k101010-y9cc484-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKYYY
 
 | Tartans |
 |---------------|
-| [Delaware Fine Spirits Guild (Corp)](/setts/s6/k10g50k20y30ya2y10-g589058-k101010-y9cc484-yae8c000/)|
-|![Delaware Fine Spirits Guild (Corp) example sett](/setts/s6/k10g50k20y30ya2y10-g589058-k101010-y9cc484-yae8c000/sett.png)|
+| [Delaware Fine Spirits Guild (Corp)](/setts/s6/k5g25k10y15ya1y5~g589058-k101010-y9cc484-yae8c000~x2/)|
+|![Delaware Fine Spirits Guild (Corp) example sett](/setts/s6/k5g25k10y15ya1y5~g589058-k101010-y9cc484-yae8c000~x2/sett.png)|

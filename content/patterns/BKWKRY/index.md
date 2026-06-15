@@ -6,7 +6,7 @@ BKWKRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b106k4w106k4r8y14-b788cb4-k000000-r9c0000-wfcfcfc-yc89800/tartan.png)
+![Woven sample](/setts/s6/b53k2w53k2r4y7~b788cb4-k000000-r9c0000-wfcfcfc-yc89800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWKRY
 
 | Tartans |
 |---------------|
-| [Galicia](/setts/s6/b106k4w106k4r8y14-b788cb4-k000000-r9c0000-wfcfcfc-yc89800/)|
-|![Galicia example sett](/setts/s6/b106k4w106k4r8y14-b788cb4-k000000-r9c0000-wfcfcfc-yc89800/sett.png)|
+| [Galicia](/setts/s6/b53k2w53k2r4y7~b788cb4-k000000-r9c0000-wfcfcfc-yc89800~x2/)|
+|![Galicia example sett](/setts/s6/b53k2w53k2r4y7~b788cb4-k000000-r9c0000-wfcfcfc-yc89800~x2/sett.png)|

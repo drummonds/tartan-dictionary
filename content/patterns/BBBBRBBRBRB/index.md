@@ -16,5 +16,5 @@ BBBBRBBRBRB
 
 | Tartans |
 |---------------|
-| [Loch Monar (Fashion)](/setts/s11/b84b20b4b4r4b4b20r12b4r6b4-b1c0070-r800028/)|
-|![Loch Monar (Fashion) example sett](/setts/s11/b84b20b4b4r4b4b20r12b4r6b4-b1c0070-r800028/sett.png)|
+| [Loch Monar (Fashion)](/setts/s11/b42b10b2b2r2b2b10r6b2r3b2~b1c0070-r800028~x2/)|
+|![Loch Monar (Fashion) example sett](/setts/s11/b42b10b2b2r2b2b10r6b2r3b2~b1c0070-r800028~x2/sett.png)|

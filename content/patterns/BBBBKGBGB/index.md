@@ -16,7 +16,7 @@ BBBBKGBGB
 
 | Tartans |
 |---------------|
-| [Laois, County](/setts/s9/b30ba4b10ba10k36g10b10g4b30-b441800-ba202060-g604000-k101010/)|
-|![Laois, County example sett](/setts/s9/b30ba4b10ba10k36g10b10g4b30-b441800-ba202060-g604000-k101010/sett.png)|
-| [Laois](/setts/s9/b40ba4b10ba10k36g10b10g4b30-b401000-ba304080-g008000-k000000/)|
-|![Laois example sett](/setts/s9/b40ba4b10ba10k36g10b10g4b30-b401000-ba304080-g008000-k000000/sett.png)|
+| [Laois, County](/setts/s9/b15ba2b5ba5k18g5b5g2b15~b441800-ba202060-g604000-k101010~x2/)|
+|![Laois, County example sett](/setts/s9/b15ba2b5ba5k18g5b5g2b15~b441800-ba202060-g604000-k101010~x2/sett.png)|
+| [Laois](/setts/s9/b20ba2b5ba5k18g5b5g2b15~b401000-ba304080-g008000-k000000~x2/)|
+|![Laois example sett](/setts/s9/b20ba2b5ba5k18g5b5g2b15~b401000-ba304080-g008000-k000000~x2/sett.png)|

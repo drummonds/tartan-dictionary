@@ -16,5 +16,5 @@ RWBWGRBBW
 
 | Tartans |
 |---------------|
-| [Spens (Lochcarron)](/setts/s9/r80w2b14w2g24r16b12ba4w2-b2c2c80-ba5c8ca8-g408060-rc80000-wf8f8f8/)|
-|![Spens (Lochcarron) example sett](/setts/s9/r80w2b14w2g24r16b12ba4w2-b2c2c80-ba5c8ca8-g408060-rc80000-wf8f8f8/sett.png)|
+| [Spens (Lochcarron)](/setts/s9/r40w1b7w1g12r8b6ba2w1~b2c2c80-ba5c8ca8-g408060-rc80000-wf8f8f8~x2/)|
+|![Spens (Lochcarron) example sett](/setts/s9/r40w1b7w1g12r8b6ba2w1~b2c2c80-ba5c8ca8-g408060-rc80000-wf8f8f8~x2/sett.png)|

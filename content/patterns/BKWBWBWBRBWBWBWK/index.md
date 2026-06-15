@@ -16,5 +16,5 @@ BKWBWBWBRBWBWBWK
 
 | Tartans |
 |---------------|
-| [Orlando Dress, City of](/setts/s16/b48k4w64b4w4b56w12b56r8b56w12b56w4b4w64k4-b1870a4-k000000-rc80000-wfcfcfc/)|
-|![Orlando Dress, City of example sett](/setts/s16/b48k4w64b4w4b56w12b56r8b56w12b56w4b4w64k4-b1870a4-k000000-rc80000-wfcfcfc/sett.png)|
+| [Orlando Dress, City of](/setts/s16/b12k1w16b1w1b14w3b14r2b14w3b14w1b1w16k1~b1870a4-k000000-rc80000-wfcfcfc~x4/)|
+|![Orlando Dress, City of example sett](/setts/s16/b12k1w16b1w1b14w3b14r2b14w3b14w1b1w16k1~b1870a4-k000000-rc80000-wfcfcfc~x4/sett.png)|

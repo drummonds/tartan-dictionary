@@ -16,5 +16,5 @@ BRBBKBKBKBKW
 
 | Tartans |
 |---------------|
-| [Scottish Spirit](/setts/s12/b18r6b64ba24k10ba4k8ba4k34bb8k4w4-b505050-ba646464-bb9058d8-k000000-r781c38-wc8c8c8/)|
-|![Scottish Spirit example sett](/setts/s12/b18r6b64ba24k10ba4k8ba4k34bb8k4w4-b505050-ba646464-bb9058d8-k000000-r781c38-wc8c8c8/sett.png)|
+| [Scottish Spirit](/setts/s12/b9r3b32ba12k5ba2k4ba2k17bb4k2w2~b505050-ba646464-bb9058d8-k000000-r781c38-wc8c8c8~x2/)|
+|![Scottish Spirit example sett](/setts/s12/b9r3b32ba12k5ba2k4ba2k17bb4k2w2~b505050-ba646464-bb9058d8-k000000-r781c38-wc8c8c8~x2/sett.png)|

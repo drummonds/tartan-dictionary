@@ -16,5 +16,5 @@ BKGKRKBKGBGBGBGBGK
 
 | Tartans |
 |---------------|
-| [Quraysh](/setts/s18/b16k100g4k4r4k48b16k4g4ba2g4ba16g4ba16g4ba2g4k4-b003c64-ba505050-g808080-k101010-rb07430/)|
-|![Quraysh example sett](/setts/s18/b16k100g4k4r4k48b16k4g4ba2g4ba16g4ba16g4ba2g4k4-b003c64-ba505050-g808080-k101010-rb07430/sett.png)|
+| [Quraysh](/setts/s18/b8k50g2k2r2k24b8k2g2ba1g2ba8g2ba8g2ba1g2k2~b003c64-ba505050-g808080-k101010-rb07430~x2/)|
+|![Quraysh example sett](/setts/s18/b8k50g2k2r2k24b8k2g2ba1g2ba8g2ba8g2ba1g2k2~b003c64-ba505050-g808080-k101010-rb07430~x2/sett.png)|

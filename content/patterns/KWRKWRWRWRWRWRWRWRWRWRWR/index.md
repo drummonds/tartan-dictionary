@@ -16,5 +16,5 @@ KWRKWRWRWRWRWRWRWRWRWRWR
 
 | Tartans |
 |---------------|
-| [Sobieski-Stewart](/setts/s24/k126w4r16k20w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4ra130w4rb12-k101010-ra07c58-ra888888-rbc80000-we0e0e0/)|
-|![Sobieski-Stewart example sett](/setts/s24/k126w4r16k20w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4r4w4ra130w4rb12-k101010-ra07c58-ra888888-rbc80000-we0e0e0/sett.png)|
+| [Sobieski-Stewart](/setts/s24/k63w2r8k10w2r2w2r2w2r2w2r2w2r2w2r2w2r2w2r2w2ra65w2rb6~k101010-ra07c58-ra888888-rbc80000-we0e0e0~x2/)|
+|![Sobieski-Stewart example sett](/setts/s24/k63w2r8k10w2r2w2r2w2r2w2r2w2r2w2r2w2r2w2r2w2ra65w2rb6~k101010-ra07c58-ra888888-rbc80000-we0e0e0~x2/sett.png)|

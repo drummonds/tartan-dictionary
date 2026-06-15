@@ -6,7 +6,7 @@ BGBRWK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b25g25b25r25w25k25-b000080-g008b00-k101010-rff0000-w82cffd/tartan.png)
+![Woven sample](/setts/s6/b1g1b1r1w1k1~b000080-g008b00-k101010-rff0000-w82cffd~x25/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRWK
 
 | Tartans |
 |---------------|
-| [Antonelli (Oklahoma), John (Personal)](/setts/s6/b25g25b25r25w25k25-b000080-g008b00-k101010-rff0000-w82cffd/)|
-|![Antonelli (Oklahoma), John (Personal) example sett](/setts/s6/b25g25b25r25w25k25-b000080-g008b00-k101010-rff0000-w82cffd/sett.png)|
+| [Antonelli (Oklahoma), John (Personal)](/setts/s6/b1g1b1r1w1k1~b000080-g008b00-k101010-rff0000-w82cffd~x25/)|
+|![Antonelli (Oklahoma), John (Personal) example sett](/setts/s6/b1g1b1r1w1k1~b000080-g008b00-k101010-rff0000-w82cffd~x25/sett.png)|

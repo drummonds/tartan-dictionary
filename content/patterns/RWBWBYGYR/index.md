@@ -16,5 +16,5 @@ RWBWBYGYR
 
 | Tartans |
 |---------------|
-| [Bhutan](/setts/s9/r6w4b12w4ba16y4g12y4r4-b1c0070-ba4c0000-g006818-r981c70-wc0c0c0-yd09800/)|
-|![Bhutan example sett](/setts/s9/r6w4b12w4ba16y4g12y4r4-b1c0070-ba4c0000-g006818-r981c70-wc0c0c0-yd09800/sett.png)|
+| [Bhutan](/setts/s9/r3w2b6w2ba8y2g6y2r2~b1c0070-ba4c0000-g006818-r981c70-wc0c0c0-yd09800~x2/)|
+|![Bhutan example sett](/setts/s9/r3w2b6w2ba8y2g6y2r2~b1c0070-ba4c0000-g006818-r981c70-wc0c0c0-yd09800~x2/sett.png)|

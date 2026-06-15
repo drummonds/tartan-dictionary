@@ -6,7 +6,7 @@ GKGKKKKK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8k12g64k16k4k16k20k8-g007800-k000000/tartan.png)
+![Woven sample](/setts/s8/g2k3g16k4k1k4k5k2~g007800-k000000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKKKKK
 
 | Tartans |
 |---------------|
-| [Arundel County (District)](/setts/s8/g8k12g64k16k4k16k20k8-g007800-k000000/)|
-|![Arundel County (District) example sett](/setts/s8/g8k12g64k16k4k16k20k8-g007800-k000000/sett.png)|
+| [Arundel County (District)](/setts/s8/g2k3g16k4k1k4k5k2~g007800-k000000~x4/)|
+|![Arundel County (District) example sett](/setts/s8/g2k3g16k4k1k4k5k2~g007800-k000000~x4/sett.png)|

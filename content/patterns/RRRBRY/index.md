@@ -6,7 +6,7 @@ RRRBRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r30ra10r60b64r8y6-b304080-r806050-rac00000-yf0c000/tartan.png)
+![Woven sample](/setts/s6/r15ra5r30b32r4y3~b304080-r806050-rac00000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRBRY
 
 | Tartans |
 |---------------|
-| [Cameron, hunting](/setts/s6/r30ra10r60b64r8y6-b304080-r806050-rac00000-yf0c000/)|
-|![Cameron, hunting example sett](/setts/s6/r30ra10r60b64r8y6-b304080-r806050-rac00000-yf0c000/sett.png)|
+| [Cameron, hunting](/setts/s6/r15ra5r30b32r4y3~b304080-r806050-rac00000-yf0c000~x2/)|
+|![Cameron, hunting example sett](/setts/s6/r15ra5r30b32r4y3~b304080-r806050-rac00000-yf0c000~x2/sett.png)|

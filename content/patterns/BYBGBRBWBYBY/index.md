@@ -16,5 +16,5 @@ BYBGBRBWBYBY
 
 | Tartans |
 |---------------|
-| [O Savanao (District)](/setts/s12/y14b10y50b52w8b8r6b8g8b52y50b10-b1c0070-g289c18-rc80000-wa8ace8-ye8c000/)|
-|![O Savanao (District) example sett](/setts/s12/y14b10y50b52w8b8r6b8g8b52y50b10-b1c0070-g289c18-rc80000-wa8ace8-ye8c000/sett.png)|
+| [O Savanao (District)](/setts/s12/y7b5y25b26w4b4r3b4g4b26y25b5~b1c0070-g289c18-rc80000-wa8ace8-ye8c000~x2/)|
+|![O Savanao (District) example sett](/setts/s12/y7b5y25b26w4b4r3b4g4b26y25b5~b1c0070-g289c18-rc80000-wa8ace8-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ BYRBYR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r104y4b48ra6ya52b8-b5c5c5c-r888888-raa00000-yfccc00-yaa08858/tartan.png)
+![Woven sample](/setts/s6/r52y2b24ra3ya26b4~b5c5c5c-r888888-raa00000-yfccc00-yaa08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRBYR
 
 | Tartans |
 |---------------|
-| [Outlander #1](/setts/s6/r104y4b48ra6ya52b8-b5c5c5c-r888888-raa00000-yfccc00-yaa08858/)|
-|![Outlander #1 example sett](/setts/s6/r104y4b48ra6ya52b8-b5c5c5c-r888888-raa00000-yfccc00-yaa08858/sett.png)|
+| [Outlander #1](/setts/s6/r52y2b24ra3ya26b4~b5c5c5c-r888888-raa00000-yfccc00-yaa08858~x2/)|
+|![Outlander #1 example sett](/setts/s6/r52y2b24ra3ya26b4~b5c5c5c-r888888-raa00000-yfccc00-yaa08858~x2/sett.png)|

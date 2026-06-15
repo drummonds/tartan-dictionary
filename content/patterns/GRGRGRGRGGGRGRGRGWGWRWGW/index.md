@@ -16,5 +16,5 @@ GRGRGRGRGGGRGRGRGWGWRWGW
 
 | Tartans |
 |---------------|
-| [Maple Leaf Dress (Dance)](/setts/s24/g24r20g24r4g4r36ga12r12ga12g36g4r4g24r20g24r4g4w4g4w48r4w48g4w4-g006818-ga003820-r880000-wfcfcfc/)|
-|![Maple Leaf Dress (Dance) example sett](/setts/s24/g24r20g24r4g4r36ga12r12ga12g36g4r4g24r20g24r4g4w4g4w48r4w48g4w4-g006818-ga003820-r880000-wfcfcfc/sett.png)|
+| [Maple Leaf Dress (Dance)](/setts/s24/g6r5g6r1g1r9ga3r3ga3g9g1r1g6r5g6r1g1w1g1w12r1w12g1w1~g006818-ga003820-r880000-wfcfcfc~x4/)|
+|![Maple Leaf Dress (Dance) example sett](/setts/s24/g6r5g6r1g1r9ga3r3ga3g9g1r1g6r5g6r1g1w1g1w12r1w12g1w1~g006818-ga003820-r880000-wfcfcfc~x4/sett.png)|

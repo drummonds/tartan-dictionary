@@ -6,7 +6,7 @@ WYRYRGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w38y24r8ya16ra8g12yb32-g408060-rec34c4-ra888888-w98c8e8-ydc943c-yae0a126-yb86c87c/tartan.png)
+![Woven sample](/setts/s7/w19y12r4ya8ra4g6yb16~g408060-rec34c4-ra888888-w98c8e8-ydc943c-yae0a126-yb86c87c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYRYRGY
 
 | Tartans |
 |---------------|
-| [Aberdeenshire Home Colours](/setts/s7/w38y24r8ya16ra8g12yb32-g408060-rec34c4-ra888888-w98c8e8-ydc943c-yae0a126-yb86c87c/)|
-|![Aberdeenshire Home Colours example sett](/setts/s7/w38y24r8ya16ra8g12yb32-g408060-rec34c4-ra888888-w98c8e8-ydc943c-yae0a126-yb86c87c/sett.png)|
+| [Aberdeenshire Home Colours](/setts/s7/w19y12r4ya8ra4g6yb16~g408060-rec34c4-ra888888-w98c8e8-ydc943c-yae0a126-yb86c87c~x2/)|
+|![Aberdeenshire Home Colours example sett](/setts/s7/w19y12r4ya8ra4g6yb16~g408060-rec34c4-ra888888-w98c8e8-ydc943c-yae0a126-yb86c87c~x2/sett.png)|

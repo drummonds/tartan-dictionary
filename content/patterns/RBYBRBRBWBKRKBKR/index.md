@@ -16,5 +16,5 @@ RBYBRBRBWBKRKBKR
 
 | Tartans |
 |---------------|
-| [Crieff High (Corporate)](/setts/s16/r10b2y2b6r4b6r6b4w2b70k2r6k2b4k2r10-b587488-k000000-rc80000-wc8c8c8-ybc8c00/)|
-|![Crieff High (Corporate) example sett](/setts/s16/r10b2y2b6r4b6r6b4w2b70k2r6k2b4k2r10-b587488-k000000-rc80000-wc8c8c8-ybc8c00/sett.png)|
+| [Crieff High (Corporate)](/setts/s16/r5b1y1b3r2b3r3b2w1b35k1r3k1b2k1r5~b587488-k000000-rc80000-wc8c8c8-ybc8c00~x2/)|
+|![Crieff High (Corporate) example sett](/setts/s16/r5b1y1b3r2b3r3b2w1b35k1r3k1b2k1r5~b587488-k000000-rc80000-wc8c8c8-ybc8c00~x2/sett.png)|

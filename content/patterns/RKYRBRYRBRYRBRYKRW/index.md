@@ -16,5 +16,5 @@ RKYRBRYRBRYRBRYKRW
 
 | Tartans |
 |---------------|
-| [Selkirk High School](/setts/s18/r36k36y2ra4b4ra4y2r36b4r36y2ra4b4ra4y2k36r36w6-b1474b4-k101010-r9c68a4-rac80000-wf8f8f8-ye8c000/)|
-|![Selkirk High School example sett](/setts/s18/r36k36y2ra4b4ra4y2r36b4r36y2ra4b4ra4y2k36r36w6-b1474b4-k101010-r9c68a4-rac80000-wf8f8f8-ye8c000/sett.png)|
+| [Selkirk High School](/setts/s18/r18k18y1ra2b2ra2y1r18b2r18y1ra2b2ra2y1k18r18w3~b1474b4-k101010-r9c68a4-rac80000-wf8f8f8-ye8c000~x2/)|
+|![Selkirk High School example sett](/setts/s18/r18k18y1ra2b2ra2y1r18b2r18y1ra2b2ra2y1k18r18w3~b1474b4-k101010-r9c68a4-rac80000-wf8f8f8-ye8c000~x2/sett.png)|

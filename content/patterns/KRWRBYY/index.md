@@ -6,7 +6,7 @@ KRWRBYY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y5ya3b6r8w5ra17k2-b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/tartan.png)
+![Woven sample](/setts/s7/y5ya3b6r8w5ra17k2~b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWRBYY
 
 | Tartans |
 |---------------|
-| [Barrington Municipality](/setts/s7/y5ya3b6r8w5ra17k2-b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/)|
-|![Barrington Municipality example sett](/setts/s7/y5ya3b6r8w5ra17k2-b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/sett.png)|
+| [Barrington Municipality](/setts/s7/y5ya3b6r8w5ra17k2~b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/)|
+|![Barrington Municipality example sett](/setts/s7/y5ya3b6r8w5ra17k2~b00008c-k101010-r98481c-radc0000-wf8f8f8-yffe600-yaa0a0a0/sett.png)|

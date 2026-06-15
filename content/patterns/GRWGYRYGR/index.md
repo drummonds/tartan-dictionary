@@ -16,5 +16,5 @@ GRWGYRYGR
 
 | Tartans |
 |---------------|
-| [Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g48r48w6ga42y4r2y4g12r4-g604000-ga006818-rc80000-we0e0e0-ye8c000/)|
-|![Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/g48r48w6ga42y4r2y4g12r4-g604000-ga006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g24r24w3ga21y2r1y2g6r2~g604000-ga006818-rc80000-we0e0e0-ye8c000~x2/)|
+|![Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/g24r24w3ga21y2r1y2g6r2~g604000-ga006818-rc80000-we0e0e0-ye8c000~x2/sett.png)|

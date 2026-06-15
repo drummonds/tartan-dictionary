@@ -6,7 +6,7 @@ KRKRKRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k78r6k6r6k28r56ra6-k101010-r888888-rac80000/tartan.png)
+![Woven sample](/setts/s7/k39r3k3r3k14r28ra3~k101010-r888888-rac80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKRKRR
 
 | Tartans |
 |---------------|
-| [Moffat (1984)](/setts/s7/k78r6k6r6k28r56ra6-k101010-r888888-rac80000/)|
-|![Moffat (1984) example sett](/setts/s7/k78r6k6r6k28r56ra6-k101010-r888888-rac80000/sett.png)|
+| [Moffat (1984)](/setts/s7/k39r3k3r3k14r28ra3~k101010-r888888-rac80000~x2/)|
+|![Moffat (1984) example sett](/setts/s7/k39r3k3r3k14r28ra3~k101010-r888888-rac80000~x2/sett.png)|

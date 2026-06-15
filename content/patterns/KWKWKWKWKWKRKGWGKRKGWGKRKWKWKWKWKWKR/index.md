@@ -16,5 +16,5 @@ KWKWKWKWKWKRKGWGKRKGWGKRKWKWKWKWKWKR
 
 | Tartans |
 |---------------|
-| [Southwick](/setts/s36/r4k2w4k20wa8k4wa8k4wa8k4wa20k10r4k4g4w10g4k24r4k24g4w10g4k4r4k10wa20k4wa8k4wa8k4wa8k20w4k2-g006818-k101010-rc80000-wfcfcfc-wac0c0c0/)|
-|![Southwick example sett](/setts/s36/r4k2w4k20wa8k4wa8k4wa8k4wa20k10r4k4g4w10g4k24r4k24g4w10g4k4r4k10wa20k4wa8k4wa8k4wa8k20w4k2-g006818-k101010-rc80000-wfcfcfc-wac0c0c0/sett.png)|
+| [Southwick](/setts/s36/r2k1w2k10wa4k2wa4k2wa4k2wa10k5r2k2g2w5g2k12r2k12g2w5g2k2r2k5wa10k2wa4k2wa4k2wa4k10w2k1~g006818-k101010-rc80000-wfcfcfc-wac0c0c0~x2/)|
+|![Southwick example sett](/setts/s36/r2k1w2k10wa4k2wa4k2wa4k2wa10k5r2k2g2w5g2k12r2k12g2w5g2k2r2k5wa10k2wa4k2wa4k2wa4k10w2k1~g006818-k101010-rc80000-wfcfcfc-wac0c0c0~x2/sett.png)|

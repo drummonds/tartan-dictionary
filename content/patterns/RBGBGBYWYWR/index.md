@@ -16,5 +16,5 @@ RBGBGBYWYWR
 
 | Tartans |
 |---------------|
-| [Canice-Moodie (Personal)](/setts/s11/r6b12g10b2g2b6y12w12y4w12r4-b202060-g006818-rc80000-we0e0e0-ye8c000/)|
-|![Canice-Moodie (Personal) example sett](/setts/s11/r6b12g10b2g2b6y12w12y4w12r4-b202060-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Canice-Moodie (Personal)](/setts/s11/r3b6g5b1g1b3y6w6y2w6r2~b202060-g006818-rc80000-we0e0e0-ye8c000~x2/)|
+|![Canice-Moodie (Personal) example sett](/setts/s11/r3b6g5b1g1b3y6w6y2w6r2~b202060-g006818-rc80000-we0e0e0-ye8c000~x2/sett.png)|

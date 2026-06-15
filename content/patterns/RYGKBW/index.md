@@ -6,7 +6,7 @@ RYGKBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r3y2g12k12b14w3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYGKBW
 
 | Tartans |
 |---------------|
-| [Jamestown Parish Church (Corporate)](/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Jamestown Parish Church (Corporate) example sett](/setts/s6/r6y4g24k24b28w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Jamestown Parish Church (Corporate)](/setts/s6/r3y2g12k12b14w3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Jamestown Parish Church (Corporate) example sett](/setts/s6/r3y2g12k12b14w3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

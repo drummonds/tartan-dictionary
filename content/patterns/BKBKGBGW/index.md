@@ -6,7 +6,7 @@ BKBKGBGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b4k3b18k18g18b1g2w4~b2c2c80-g006818-k101010-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKGBGW
 
 | Tartans |
 |---------------|
-| [Dress Watch](/setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/)|
-|![Dress Watch example sett](/setts/s8/b8k6b36k36g36b2g4w8-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
+| [Dress Watch](/setts/s8/b4k3b18k18g18b1g2w4~b2c2c80-g006818-k101010-wfcfcfc~x2/)|
+|![Dress Watch example sett](/setts/s8/b4k3b18k18g18b1g2w4~b2c2c80-g006818-k101010-wfcfcfc~x2/sett.png)|

@@ -6,7 +6,7 @@ RRRRRRRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6r16ra6r40ra40rb6ra16rb6-r806050-ra906030-rbc00000/tartan.png)
+![Woven sample](/setts/s8/r3r8ra3r20ra20rb3ra8rb3~r806050-ra906030-rbc00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRRRRRR
 
 | Tartans |
 |---------------|
-| [Miyuki, House Check Tan, 1004A](/setts/s8/r6r16ra6r40ra40rb6ra16rb6-r806050-ra906030-rbc00000/)|
-|![Miyuki, House Check Tan, 1004A example sett](/setts/s8/r6r16ra6r40ra40rb6ra16rb6-r806050-ra906030-rbc00000/sett.png)|
+| [Miyuki, House Check Tan, 1004A](/setts/s8/r3r8ra3r20ra20rb3ra8rb3~r806050-ra906030-rbc00000~x2/)|
+|![Miyuki, House Check Tan, 1004A example sett](/setts/s8/r3r8ra3r20ra20rb3ra8rb3~r806050-ra906030-rbc00000~x2/sett.png)|

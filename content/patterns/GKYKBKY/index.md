@@ -6,7 +6,7 @@ GKYKBKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g72k8y8k8b12k8ya24-b5480b0-g008000-k000000-ye0a0a0-yaf0c000/tartan.png)
+![Woven sample](/setts/s7/g18k2y2k2b3k2ya6~b5480b0-g008000-k000000-ye0a0a0-yaf0c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKYKBKY
 
 | Tartans |
 |---------------|
-| [Alberta](/setts/s7/g72k8y8k8b12k8ya24-b5480b0-g008000-k000000-ye0a0a0-yaf0c000/)|
-|![Alberta example sett](/setts/s7/g72k8y8k8b12k8ya24-b5480b0-g008000-k000000-ye0a0a0-yaf0c000/sett.png)|
+| [Alberta](/setts/s7/g18k2y2k2b3k2ya6~b5480b0-g008000-k000000-ye0a0a0-yaf0c000~x4/)|
+|![Alberta example sett](/setts/s7/g18k2y2k2b3k2ya6~b5480b0-g008000-k000000-ye0a0a0-yaf0c000~x4/sett.png)|

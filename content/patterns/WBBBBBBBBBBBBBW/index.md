@@ -16,5 +16,5 @@ WBBBBBBBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Ferring Pharmaceuticals](/setts/s15/w12b4ba8bb24b96bb16bc16bd20bc18bb16bc48bb16b12bb8w8-b1474b4-ba1c0070-bb202060-bc2474e8-bd2888c4-w98c8e8/)|
-|![Ferring Pharmaceuticals example sett](/setts/s15/w12b4ba8bb24b96bb16bc16bd20bc18bb16bc48bb16b12bb8w8-b1474b4-ba1c0070-bb202060-bc2474e8-bd2888c4-w98c8e8/sett.png)|
+| [Ferring Pharmaceuticals](/setts/s15/w6b2ba4bb12b48bb8bc8bd10bc9bb8bc24bb8b6bb4w4~b1474b4-ba1c0070-bb202060-bc2474e8-bd2888c4-w98c8e8~x2/)|
+|![Ferring Pharmaceuticals example sett](/setts/s15/w6b2ba4bb12b48bb8bc8bd10bc9bb8bc24bb8b6bb4w4~b1474b4-ba1c0070-bb202060-bc2474e8-bd2888c4-w98c8e8~x2/sett.png)|

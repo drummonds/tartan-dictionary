@@ -16,5 +16,5 @@ BGRGBGRGBGBGRG
 
 | Tartans |
 |---------------|
-| [ASDA Wal-Mart](/setts/s14/g136r8g12b8ga68b8g12r8g136b8ga32r8ga38b8-b202060-g289c18-ga006428-rc80000/)|
-|![ASDA Wal-Mart example sett](/setts/s14/g136r8g12b8ga68b8g12r8g136b8ga32r8ga38b8-b202060-g289c18-ga006428-rc80000/sett.png)|
+| [ASDA Wal-Mart](/setts/s14/g68r4g6b4ga34b4g6r4g68b4ga16r4ga19b4~b202060-g289c18-ga006428-rc80000~x2/)|
+|![ASDA Wal-Mart example sett](/setts/s14/g68r4g6b4ga34b4g6r4g68b4ga16r4ga19b4~b202060-g289c18-ga006428-rc80000~x2/sett.png)|

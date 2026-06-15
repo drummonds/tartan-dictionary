@@ -6,7 +6,7 @@ KYGW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k82y32g28w4-g003c14-k101010-we0e0e0-y48a4c0/tartan.png)
+![Woven sample](/setts/s4/k41y16g14w2~g003c14-k101010-we0e0e0-y48a4c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYGW
 
 | Tartans |
 |---------------|
-| [Hamworthy Association](/setts/s4/k82y32g28w4-g003c14-k101010-we0e0e0-y48a4c0/)|
-|![Hamworthy Association example sett](/setts/s4/k82y32g28w4-g003c14-k101010-we0e0e0-y48a4c0/sett.png)|
+| [Hamworthy Association](/setts/s4/k41y16g14w2~g003c14-k101010-we0e0e0-y48a4c0~x2/)|
+|![Hamworthy Association example sett](/setts/s4/k41y16g14w2~g003c14-k101010-we0e0e0-y48a4c0~x2/sett.png)|

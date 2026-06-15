@@ -6,7 +6,7 @@ GRGKGWBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g10r8g38k20g16w8b36r8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/g5r4g19k10g8w4b18r4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGKGWBR
 
 | Tartans |
 |---------------|
-| [CSCA (Corporate)](/setts/s8/g10r8g38k20g16w8b36r8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![CSCA (Corporate) example sett](/setts/s8/g10r8g38k20g16w8b36r8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [CSCA (Corporate)](/setts/s8/g5r4g19k10g8w4b18r4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![CSCA (Corporate) example sett](/setts/s8/g5r4g19k10g8w4b18r4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

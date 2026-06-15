@@ -6,7 +6,7 @@ BWBYRBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16w4ba48y48r16bb4w8-b2c2c80-ba5c5c5c-bb2888c4-rb458ac-we0e0e0-ya0a0a0/tartan.png)
+![Woven sample](/setts/s7/b4w1ba12y12r4bb1w2~b2c2c80-ba5c5c5c-bb2888c4-rb458ac-we0e0e0-ya0a0a0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBYRBW
 
 | Tartans |
 |---------------|
-| [Ontex](/setts/s7/b16w4ba48y48r16bb4w8-b2c2c80-ba5c5c5c-bb2888c4-rb458ac-we0e0e0-ya0a0a0/)|
-|![Ontex example sett](/setts/s7/b16w4ba48y48r16bb4w8-b2c2c80-ba5c5c5c-bb2888c4-rb458ac-we0e0e0-ya0a0a0/sett.png)|
+| [Ontex](/setts/s7/b4w1ba12y12r4bb1w2~b2c2c80-ba5c5c5c-bb2888c4-rb458ac-we0e0e0-ya0a0a0~x4/)|
+|![Ontex example sett](/setts/s7/b4w1ba12y12r4bb1w2~b2c2c80-ba5c5c5c-bb2888c4-rb458ac-we0e0e0-ya0a0a0~x4/sett.png)|

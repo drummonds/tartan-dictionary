@@ -6,7 +6,7 @@ GRYW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g72r25y8w5-g006818-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s4/g72r25y8w5~g006818-rc80000-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRYW
 
 | Tartans |
 |---------------|
-| [Sugell (Name?)](/setts/s4/g72r25y8w5-g006818-rc80000-we0e0e0-ye8c000/)|
-|![Sugell (Name?) example sett](/setts/s4/g72r25y8w5-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Sugell (Name?)](/setts/s4/g72r25y8w5~g006818-rc80000-we0e0e0-ye8c000/)|
+|![Sugell (Name?) example sett](/setts/s4/g72r25y8w5~g006818-rc80000-we0e0e0-ye8c000/sett.png)|

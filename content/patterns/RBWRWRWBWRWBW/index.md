@@ -16,5 +16,5 @@ RBWRWRWBWRWBW
 
 | Tartans |
 |---------------|
-| [Fiona](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/)|
-|![Fiona example sett](/setts/s13/w64b8w8r8w8b96wa8r4wa4r4wa48b4r8-b3c3c3c-ra0783c-wfcc8d8-waf8f4d0/sett.png)|
+| [Fiona](/setts/s13/w16b2w2r2w2b24wa2r1wa1r1wa12b1r2~b3c3c3c-ra0783c-wfcc8d8-waf8f4d0~x4/)|
+|![Fiona example sett](/setts/s13/w16b2w2r2w2b24wa2r1wa1r1wa12b1r2~b3c3c3c-ra0783c-wfcc8d8-waf8f4d0~x4/sett.png)|

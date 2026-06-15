@@ -16,5 +16,5 @@ WGRWGWGYGWGRW
 
 | Tartans |
 |---------------|
-| [Veron](/setts/s13/w24g4r4w10g62w10g4y10g4w22g4r4w4-g003820-ra03400-we0e0e0-ye8c000/)|
-|![Veron example sett](/setts/s13/w24g4r4w10g62w10g4y10g4w22g4r4w4-g003820-ra03400-we0e0e0-ye8c000/sett.png)|
+| [Veron](/setts/s13/w12g2r2w5g31w5g2y5g2w11g2r2w2~g003820-ra03400-we0e0e0-ye8c000~x2/)|
+|![Veron example sett](/setts/s13/w12g2r2w5g31w5g2y5g2w11g2r2w2~g003820-ra03400-we0e0e0-ye8c000~x2/sett.png)|

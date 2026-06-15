@@ -6,7 +6,7 @@ GYRYGYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g8y8r8y8g8y8r8-g006818-rc80000-yc4bc68/tartan.png)
+![Woven sample](/setts/s7/g1y1r1y1g1y1r1~g006818-rc80000-yc4bc68~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYRYGYR
 
 | Tartans |
 |---------------|
-| [Lochwood (Estate Check)](/setts/s7/g8y8r8y8g8y8r8-g006818-rc80000-yc4bc68/)|
-|![Lochwood (Estate Check) example sett](/setts/s7/g8y8r8y8g8y8r8-g006818-rc80000-yc4bc68/sett.png)|
+| [Lochwood (Estate Check)](/setts/s7/g1y1r1y1g1y1r1~g006818-rc80000-yc4bc68~x8/)|
+|![Lochwood (Estate Check) example sett](/setts/s7/g1y1r1y1g1y1r1~g006818-rc80000-yc4bc68~x8/sett.png)|

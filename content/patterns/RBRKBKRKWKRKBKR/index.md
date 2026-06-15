@@ -16,7 +16,7 @@ RBRKBKRKWKRKBKR
 
 | Tartans |
 |---------------|
-| [MacDougall #7](/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b0596fa-ba3c82af-k101010-rdc0000-we0e0e0/)|
-|![MacDougall #7 example sett](/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b0596fa-ba3c82af-k101010-rdc0000-we0e0e0/sett.png)|
-| [MacDougall 1](/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b8080d0-ba5480b0-k000000-rc00000-we0e0e0/)|
-|![MacDougall 1 example sett](/setts/s15/r40b72r8k4ba14k8r4k4w6k4r6k8ba14k26r40-b8080d0-ba5480b0-k000000-rc00000-we0e0e0/sett.png)|
+| [MacDougall #7](/setts/s15/r20b36r4k2ba7k4r2k2w3k2r3k4ba7k13r20~b0596fa-ba3c82af-k101010-rdc0000-we0e0e0~x2/)|
+|![MacDougall #7 example sett](/setts/s15/r20b36r4k2ba7k4r2k2w3k2r3k4ba7k13r20~b0596fa-ba3c82af-k101010-rdc0000-we0e0e0~x2/sett.png)|
+| [MacDougall 1](/setts/s15/r20b36r4k2ba7k4r2k2w3k2r3k4ba7k13r20~b8080d0-ba5480b0-k000000-rc00000-we0e0e0~x2/)|
+|![MacDougall 1 example sett](/setts/s15/r20b36r4k2ba7k4r2k2w3k2r3k4ba7k13r20~b8080d0-ba5480b0-k000000-rc00000-we0e0e0~x2/sett.png)|

@@ -16,7 +16,7 @@ RKRKWBWKWR
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Fawn](/setts/s10/r48k10ra4k4w4b16w6k4w4r4-b505050-k101010-rbe7832-radc0000-we0e0e0/)|
-|![Stuart/Stewart Fawn example sett](/setts/s10/r48k10ra4k4w4b16w6k4w4r4-b505050-k101010-rbe7832-radc0000-we0e0e0/sett.png)|
-| [Stewart, Fawn](/setts/s10/r48k10ra4k4w4b16w6k4w4r4-b505050-k000000-r906030-rac00000-we0e0e0/)|
-|![Stewart, Fawn example sett](/setts/s10/r48k10ra4k4w4b16w6k4w4r4-b505050-k000000-r906030-rac00000-we0e0e0/sett.png)|
+| [Stuart/Stewart Fawn](/setts/s10/r24k5ra2k2w2b8w3k2w2r2~b505050-k101010-rbe7832-radc0000-we0e0e0~x2/)|
+|![Stuart/Stewart Fawn example sett](/setts/s10/r24k5ra2k2w2b8w3k2w2r2~b505050-k101010-rbe7832-radc0000-we0e0e0~x2/sett.png)|
+| [Stewart, Fawn](/setts/s10/r24k5ra2k2w2b8w3k2w2r2~b505050-k000000-r906030-rac00000-we0e0e0~x2/)|
+|![Stewart, Fawn example sett](/setts/s10/r24k5ra2k2w2b8w3k2w2r2~b505050-k000000-r906030-rac00000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ RGRKR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r12g40r40k40r12-g006818-k00002c-rc80000/tartan.png)
+![Woven sample](/setts/s5/r3g10r10k10r3~g006818-k00002c-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGRKR
 
 | Tartans |
 |---------------|
-| [Unidentified (Gow-like)](/setts/s5/r12g40r40k40r12-g006818-k00002c-rc80000/)|
-|![Unidentified (Gow-like) example sett](/setts/s5/r12g40r40k40r12-g006818-k00002c-rc80000/sett.png)|
+| [Unidentified (Gow-like)](/setts/s5/r3g10r10k10r3~g006818-k00002c-rc80000~x4/)|
+|![Unidentified (Gow-like) example sett](/setts/s5/r3g10r10k10r3~g006818-k00002c-rc80000~x4/sett.png)|

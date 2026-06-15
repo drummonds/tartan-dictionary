@@ -16,5 +16,5 @@ BKYKBKGGGGKGKRK
 
 | Tartans |
 |---------------|
-| [Wells, Edward G. (Personal)](/setts/s15/b16k8y6k8b28k8g8ga12g6ga20k20ga18k6r6k8-b2c2c80-g285800-ga006818-k101010-rc80000-ye8c000/)|
-|![Wells, Edward G. (Personal) example sett](/setts/s15/b16k8y6k8b28k8g8ga12g6ga20k20ga18k6r6k8-b2c2c80-g285800-ga006818-k101010-rc80000-ye8c000/sett.png)|
+| [Wells, Edward G. (Personal)](/setts/s15/b8k4y3k4b14k4g4ga6g3ga10k10ga9k3r3k4~b2c2c80-g285800-ga006818-k101010-rc80000-ye8c000~x2/)|
+|![Wells, Edward G. (Personal) example sett](/setts/s15/b8k4y3k4b14k4g4ga6g3ga10k10ga9k3r3k4~b2c2c80-g285800-ga006818-k101010-rc80000-ye8c000~x2/sett.png)|

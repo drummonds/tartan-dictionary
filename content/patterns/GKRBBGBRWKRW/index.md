@@ -16,5 +16,5 @@ GKRBBGBRWKRW
 
 | Tartans |
 |---------------|
-| [Vine (2015)](/setts/s12/g38k40r2b16ba16g16b6r2w24k16r2w2-b141e46-ba1870a4-g005020-k000000-rb458ac-wc0c0c0/)|
-|![Vine (2015) example sett](/setts/s12/g38k40r2b16ba16g16b6r2w24k16r2w2-b141e46-ba1870a4-g005020-k000000-rb458ac-wc0c0c0/sett.png)|
+| [Vine (2015)](/setts/s12/g19k20r1b8ba8g8b3r1w12k8r1w1~b141e46-ba1870a4-g005020-k000000-rb458ac-wc0c0c0~x2/)|
+|![Vine (2015) example sett](/setts/s12/g19k20r1b8ba8g8b3r1w12k8r1w1~b141e46-ba1870a4-g005020-k000000-rb458ac-wc0c0c0~x2/sett.png)|

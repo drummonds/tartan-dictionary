@@ -16,5 +16,5 @@ BRBRBBBWBYBBBRBRB
 
 | Tartans |
 |---------------|
-| [Great Glen (Fashion)](/setts/s17/b5r4b4r38ba34b4ba4w2ba2y2ba4b4ba34r38b4r4b2-b1c1c1c-ba5c5c5c-r888888-wc0c0c0-ye8c000/)|
-|![Great Glen (Fashion) example sett](/setts/s17/b5r4b4r38ba34b4ba4w2ba2y2ba4b4ba34r38b4r4b2-b1c1c1c-ba5c5c5c-r888888-wc0c0c0-ye8c000/sett.png)|
+| [Great Glen (Fashion)](/setts/s17/b5r4b4r38ba34b4ba4w2ba2y2ba4b4ba34r38b4r4b2~b1c1c1c-ba5c5c5c-r888888-wc0c0c0-ye8c000/)|
+|![Great Glen (Fashion) example sett](/setts/s17/b5r4b4r38ba34b4ba4w2ba2y2ba4b4ba34r38b4r4b2~b1c1c1c-ba5c5c5c-r888888-wc0c0c0-ye8c000/sett.png)|

@@ -16,7 +16,7 @@ RBWBRBBBRBRW
 
 | Tartans |
 |---------------|
-| [Ramblers Red Hat Society](/setts/s12/w8r4b4r4ba4b76ba4r24b4w2b6r4-b440044-ba780078-rc8002c-we0e0e0/)|
-|![Ramblers Red Hat Society example sett](/setts/s12/w8r4b4r4ba4b76ba4r24b4w2b6r4-b440044-ba780078-rc8002c-we0e0e0/sett.png)|
-| [Ramblers Red Hat Society (Corporate)](/setts/s12/w8r4b4r4ba4b76ba4r24b4w2b6r4-b300030-ba6460b8-rac0024-we0e0e0/)|
-|![Ramblers Red Hat Society (Corporate) example sett](/setts/s12/w8r4b4r4ba4b76ba4r24b4w2b6r4-b300030-ba6460b8-rac0024-we0e0e0/sett.png)|
+| [Ramblers Red Hat Society](/setts/s12/w4r2b2r2ba2b38ba2r12b2w1b3r2~b440044-ba780078-rc8002c-we0e0e0~x2/)|
+|![Ramblers Red Hat Society example sett](/setts/s12/w4r2b2r2ba2b38ba2r12b2w1b3r2~b440044-ba780078-rc8002c-we0e0e0~x2/sett.png)|
+| [Ramblers Red Hat Society (Corporate)](/setts/s12/w4r2b2r2ba2b38ba2r12b2w1b3r2~b300030-ba6460b8-rac0024-we0e0e0~x2/)|
+|![Ramblers Red Hat Society (Corporate) example sett](/setts/s12/w4r2b2r2ba2b38ba2r12b2w1b3r2~b300030-ba6460b8-rac0024-we0e0e0~x2/sett.png)|

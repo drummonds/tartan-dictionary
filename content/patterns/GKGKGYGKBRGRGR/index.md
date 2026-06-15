@@ -16,5 +16,5 @@ GKGKGYGKBRGRGR
 
 | Tartans |
 |---------------|
-| [Humble, Gordon (Personal)](/setts/s14/r8g4r28g8r8b2k16ga26y6ga26k16g20k6g6-b9058d8-g603800-ga002814-k101010-r888888-yd8b000/)|
-|![Humble, Gordon (Personal) example sett](/setts/s14/r8g4r28g8r8b2k16ga26y6ga26k16g20k6g6-b9058d8-g603800-ga002814-k101010-r888888-yd8b000/sett.png)|
+| [Humble, Gordon (Personal)](/setts/s14/r4g2r14g4r4b1k8ga13y3ga13k8g10k3g3~b9058d8-g603800-ga002814-k101010-r888888-yd8b000~x2/)|
+|![Humble, Gordon (Personal) example sett](/setts/s14/r4g2r14g4r4b1k8ga13y3ga13k8g10k3g3~b9058d8-g603800-ga002814-k101010-r888888-yd8b000~x2/sett.png)|

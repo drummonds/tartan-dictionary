@@ -6,7 +6,7 @@ BGBKGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4g6b32k36ga36k4r4-b2c2c80-g604000-ga006818-k101010-rc8002c/tartan.png)
+![Woven sample](/setts/s7/b2g3b16k18ga18k2r2~b2c2c80-g604000-ga006818-k101010-rc8002c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBKGKR
 
 | Tartans |
 |---------------|
-| [McEwan '1856', The](/setts/s7/b4g6b32k36ga36k4r4-b2c2c80-g604000-ga006818-k101010-rc8002c/)|
-|![McEwan '1856', The example sett](/setts/s7/b4g6b32k36ga36k4r4-b2c2c80-g604000-ga006818-k101010-rc8002c/sett.png)|
+| [McEwan '1856', The](/setts/s7/b2g3b16k18ga18k2r2~b2c2c80-g604000-ga006818-k101010-rc8002c~x2/)|
+|![McEwan '1856', The example sett](/setts/s7/b2g3b16k18ga18k2r2~b2c2c80-g604000-ga006818-k101010-rc8002c~x2/sett.png)|

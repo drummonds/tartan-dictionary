@@ -16,5 +16,5 @@ RBBRBBBBBRBBRW
 
 | Tartans |
 |---------------|
-| [Greer](/setts/s14/r24b20ba6ra6ba6b6ba32b6ba6ra6ba6b20r24w8-b000064-ba2888c4-r880000-ra888888-wf8f8f8/)|
-|![Greer example sett](/setts/s14/r24b20ba6ra6ba6b6ba32b6ba6ra6ba6b20r24w8-b000064-ba2888c4-r880000-ra888888-wf8f8f8/sett.png)|
+| [Greer](/setts/s14/r12b10ba3ra3ba3b3ba16b3ba3ra3ba3b10r12w4~b000064-ba2888c4-r880000-ra888888-wf8f8f8~x2/)|
+|![Greer example sett](/setts/s14/r12b10ba3ra3ba3b3ba16b3ba3ra3ba3b10r12w4~b000064-ba2888c4-r880000-ra888888-wf8f8f8~x2/sett.png)|

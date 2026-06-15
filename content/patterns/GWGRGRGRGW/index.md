@@ -16,5 +16,5 @@ GWGRGRGRGW
 
 | Tartans |
 |---------------|
-| [Dundee, Green](/setts/s10/g6w4g6r2g12r6g6r2g4w6-g008000-rc00000-we0e0e0/)|
-|![Dundee, Green example sett](/setts/s10/g6w4g6r2g12r6g6r2g4w6-g008000-rc00000-we0e0e0/sett.png)|
+| [Dundee, Green](/setts/s10/g3w2g3r1g6r3g3r1g2w3~g008000-rc00000-we0e0e0~x2/)|
+|![Dundee, Green example sett](/setts/s10/g3w2g3r1g6r3g3r1g2w3~g008000-rc00000-we0e0e0~x2/sett.png)|

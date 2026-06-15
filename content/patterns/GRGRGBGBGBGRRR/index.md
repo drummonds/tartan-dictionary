@@ -16,5 +16,5 @@ GRGRGBGBGBGRRR
 
 | Tartans |
 |---------------|
-| [Allen - Northumbrian Hunting (Personal)](/setts/s14/g32r4g6r8g4b24g36ba4g36b24g24ra4r4ra4-b2f4f4f-ba65787f-g603311-r6f1d1f-ra9f7136/)|
-|![Allen - Northumbrian Hunting (Personal) example sett](/setts/s14/g32r4g6r8g4b24g36ba4g36b24g24ra4r4ra4-b2f4f4f-ba65787f-g603311-r6f1d1f-ra9f7136/sett.png)|
+| [Allen - Northumbrian Hunting (Personal)](/setts/s14/g16r2g3r4g2b12g18ba2g18b12g12ra2r2ra2~b2f4f4f-ba65787f-g603311-r6f1d1f-ra9f7136~x2/)|
+|![Allen - Northumbrian Hunting (Personal) example sett](/setts/s14/g16r2g3r4g2b12g18ba2g18b12g12ra2r2ra2~b2f4f4f-ba65787f-g603311-r6f1d1f-ra9f7136~x2/sett.png)|

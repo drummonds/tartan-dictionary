@@ -6,7 +6,7 @@ RRRWRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r16ra6r56w64ra6w8-rc8002c-ra880000-wf0e0c8/tartan.png)
+![Woven sample](/setts/s6/r8ra3r28w32ra3w4~rc8002c-ra880000-wf0e0c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRWRW
 
 | Tartans |
 |---------------|
-| [Ailsa, Red V2 (Dance)](/setts/s6/r16ra6r56w64ra6w8-rc8002c-ra880000-wf0e0c8/)|
-|![Ailsa, Red V2 (Dance) example sett](/setts/s6/r16ra6r56w64ra6w8-rc8002c-ra880000-wf0e0c8/sett.png)|
+| [Ailsa, Red V2 (Dance)](/setts/s6/r8ra3r28w32ra3w4~rc8002c-ra880000-wf0e0c8~x2/)|
+|![Ailsa, Red V2 (Dance) example sett](/setts/s6/r8ra3r28w32ra3w4~rc8002c-ra880000-wf0e0c8~x2/sett.png)|

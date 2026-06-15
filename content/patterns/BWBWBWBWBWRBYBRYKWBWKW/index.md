@@ -16,5 +16,5 @@ BWBWBWBWBWRBYBRYKWBWKW
 
 | Tartans |
 |---------------|
-| [Khalsa](/setts/s22/b10w2b10w2b10w2b10w2b10w2r10ba2y10ba2r10y2k72w2ba6w2k144w2-b003c64-ba0000cd-k101010-re86000-wffffff-yfccc00/)|
-|![Khalsa example sett](/setts/s22/b10w2b10w2b10w2b10w2b10w2r10ba2y10ba2r10y2k72w2ba6w2k144w2-b003c64-ba0000cd-k101010-re86000-wffffff-yfccc00/sett.png)|
+| [Khalsa](/setts/s22/b5w1b5w1b5w1b5w1b5w1r5ba1y5ba1r5y1k36w1ba3w1k72w1~b003c64-ba0000cd-k101010-re86000-wffffff-yfccc00~x2/)|
+|![Khalsa example sett](/setts/s22/b5w1b5w1b5w1b5w1b5w1r5ba1y5ba1r5y1k36w1ba3w1k72w1~b003c64-ba0000cd-k101010-re86000-wffffff-yfccc00~x2/sett.png)|

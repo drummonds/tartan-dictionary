@@ -16,7 +16,7 @@ GBGBGBGBRKRBGBGBGBGY
 
 | Tartans |
 |---------------|
-| [Murphy and his Gang (Phoenix Arizona) (Personal)](/setts/s20/g58b2g4b4g4b6g4b10r2k2r2b10g4b6g4b4g4b2g28y6-b576982-g124b24-k120a01-r861031-yef8f06/)|
-|![Murphy and his Gang (Phoenix Arizona) (Personal) example sett](/setts/s20/g58b2g4b4g4b6g4b10r2k2r2b10g4b6g4b4g4b2g28y6-b576982-g124b24-k120a01-r861031-yef8f06/sett.png)|
-| [Murphy & his Gang (Personal)](/setts/s20/g58b2g4b4g4b6g4b10r2k2r2b10g4b6g4b4g4b2g28y6-b1474b4-g006818-k101010-rc80000-ybc8c00/)|
-|![Murphy & his Gang (Personal) example sett](/setts/s20/g58b2g4b4g4b6g4b10r2k2r2b10g4b6g4b4g4b2g28y6-b1474b4-g006818-k101010-rc80000-ybc8c00/sett.png)|
+| [Murphy and his Gang (Phoenix Arizona) (Personal)](/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14y3~b576982-g124b24-k120a01-r861031-yef8f06~x2/)|
+|![Murphy and his Gang (Phoenix Arizona) (Personal) example sett](/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14y3~b576982-g124b24-k120a01-r861031-yef8f06~x2/sett.png)|
+| [Murphy & his Gang (Personal)](/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14y3~b1474b4-g006818-k101010-rc80000-ybc8c00~x2/)|
+|![Murphy & his Gang (Personal) example sett](/setts/s20/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14y3~b1474b4-g006818-k101010-rc80000-ybc8c00~x2/sett.png)|

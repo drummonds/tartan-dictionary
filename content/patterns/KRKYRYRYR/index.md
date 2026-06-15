@@ -16,7 +16,7 @@ KRKYRYRYR
 
 | Tartans |
 |---------------|
-| [Brecheen](/setts/s9/k12r4k56y56r4y4r4y4r8-k000000-r8c0000-yc88c00/)|
-|![Brecheen example sett](/setts/s9/k12r4k56y56r4y4r4y4r8-k000000-r8c0000-yc88c00/sett.png)|
-| [Brecheen (Name)](/setts/s9/k12r4k56y56r4y4r4y4r8-k000000-r8c0000-yb8983c/)|
-|![Brecheen (Name) example sett](/setts/s9/k12r4k56y56r4y4r4y4r8-k000000-r8c0000-yb8983c/sett.png)|
+| [Brecheen](/setts/s9/k3r1k14y14r1y1r1y1r2~k000000-r8c0000-yc88c00~x4/)|
+|![Brecheen example sett](/setts/s9/k3r1k14y14r1y1r1y1r2~k000000-r8c0000-yc88c00~x4/sett.png)|
+| [Brecheen (Name)](/setts/s9/k3r1k14y14r1y1r1y1r2~k000000-r8c0000-yb8983c~x4/)|
+|![Brecheen (Name) example sett](/setts/s9/k3r1k14y14r1y1r1y1r2~k000000-r8c0000-yb8983c~x4/sett.png)|

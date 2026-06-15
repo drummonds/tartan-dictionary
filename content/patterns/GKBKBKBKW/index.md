@@ -16,5 +16,5 @@ GKBKBKBKW
 
 | Tartans |
 |---------------|
-| [Unidentified (School)](/setts/s9/g70k6b4k10b6k2b40k6w6-b38409c-g5c6428-k101010-we0e0e0/)|
-|![Unidentified (School) example sett](/setts/s9/g70k6b4k10b6k2b40k6w6-b38409c-g5c6428-k101010-we0e0e0/sett.png)|
+| [Unidentified (School)](/setts/s9/g35k3b2k5b3k1b20k3w3~b38409c-g5c6428-k101010-we0e0e0~x2/)|
+|![Unidentified (School) example sett](/setts/s9/g35k3b2k5b3k1b20k3w3~b38409c-g5c6428-k101010-we0e0e0~x2/sett.png)|

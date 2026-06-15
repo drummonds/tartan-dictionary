@@ -1,0 +1,58 @@
+---
+title: "MacCrimmon from Skye"
+date: 2023-03-18
+---
+In pattern [RKBKBKY](/patterns/rkbkbky/).
+
+
+This was sourced from register-of-tartans.  It is a [7 stripes tartan](/stripes/stripes7/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2328
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1981 — MacCrimmon from Skye (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2328))
+- pre 2002 — MacCrimmon from Skye (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2610/))
+
+## Thread count
+R/10 K6 B44 K34 B44 K6 Y/10
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "R/10 K6 B44 K34 B44 K6 Y/10 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Hill of Banchory Primary (School)](/setts/s7/b1y6b8r1b8g6y1~b2c2c80-g289c18-rc80000-ye8c000~x4/) — ΔT 0.55
+1. [MacCrimmon from Skye](/setts/s7/r5k3b22k17b22k3y5~b5480b0-k000000-rc00000-yf0c000~x2/) — ΔT 0.94
+1. [New York State Police Pipe Band](/setts/s5/r5b3r18k16y3~b780078-k101010-r888888-ye8c000~x4/) — ΔT 1.12
+1. [Oban Grey (Fashion)](/setts/s5/k4w4k4r15ra2~k101010-r888888-ra880000-wc0c0c0~x4/) — ΔT 1.17
+1. [Cameron of Lochiel (Hunting)](/setts/s7/r3g10r3g14b16g3y2~b1c0070-g006818-rc80000-ye8c000~x2/) — ΔT 1.20
+1. [Perkins 2015](/setts/s7/k3b10y5b29k10r6k2~b5c8ca8-k101010-rc80000-ye8c000~x2/) — ΔT 1.23
+1. [Australian Police](/setts/s8/k5w5k5b11k3g17k30b3~b2888c4-g808080-k101010-we0e0e0~x2/) — ΔT 1.26
+1. [MacMillan](/setts/s9/k6r2k12g3k6w16g3w16k2~g8c7038-k101010-r980044-wc0c0c0~x2/) — ΔT 1.27
+1. [Kile](/setts/s8/b20w3b3w3b3w3k5y10~b304080-k000000-we0e0e0-yf0c000~x2/) — ΔT 1.28
+1. [MacHardy, Blue](/setts/s8/b6r3g26b26w4b26r5g5~b2c2c80-g006818-rc80000-wfcfcfc~x2/) — ΔT 1.29
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b1y6b8r1b8g6y1~b2c2c80-g289c18-rc80000-ye8c000~x4/"><circle cx="231.8" cy="215.5" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/setts/s7/r5k3b22k17b22k3y5~b5480b0-k000000-rc00000-yf0c000~x2/"><circle cx="246.8" cy="214.5" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/setts/s5/r5b3r18k16y3~b780078-k101010-r888888-ye8c000~x4/"><circle cx="233.3" cy="237.6" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><a href="/setts/s5/k4w4k4r15ra2~k101010-r888888-ra880000-wc0c0c0~x4/"><circle cx="240.5" cy="220.9" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/setts/s7/r3g10r3g14b16g3y2~b1c0070-g006818-rc80000-ye8c000~x2/"><circle cx="257.2" cy="225.1" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/setts/s7/k3b10y5b29k10r6k2~b5c8ca8-k101010-rc80000-ye8c000~x2/"><circle cx="315.1" cy="179.1" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/setts/s8/k5w5k5b11k3g17k30b3~b2888c4-g808080-k101010-we0e0e0~x2/"><circle cx="254.9" cy="191.0" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/setts/s9/k6r2k12g3k6w16g3w16k2~g8c7038-k101010-r980044-wc0c0c0~x2/"><circle cx="206.2" cy="191.4" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/setts/s8/b20w3b3w3b3w3k5y10~b304080-k000000-we0e0e0-yf0c000~x2/"><circle cx="205.3" cy="187.8" r="4" fill="#3465a4"><title>Kile</title></circle></a><a href="/setts/s8/b6r3g26b26w4b26r5g5~b2c2c80-g006818-rc80000-wfcfcfc~x2/"><circle cx="300.9" cy="214.6" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><circle cx="262.3" cy="217.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/r5k3b22k17b22k3y5~b5c8ca8-k101010-rc80000-ye8c000~x2/

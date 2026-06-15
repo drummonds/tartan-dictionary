@@ -16,5 +16,5 @@ RBRBKRBBKBKBKR
 
 | Tartans |
 |---------------|
-| [Katie Targett-Adams](/setts/s14/r4b10r4b20k32ra12ba4bb28k2bb28k12b24k32ra2-b280032-ba0596fa-bb5a008c-k101010-raf0014-rac464fa/)|
-|![Katie Targett-Adams example sett](/setts/s14/r4b10r4b20k32ra12ba4bb28k2bb28k12b24k32ra2-b280032-ba0596fa-bb5a008c-k101010-raf0014-rac464fa/sett.png)|
+| [Katie Targett-Adams](/setts/s14/r2b5r2b10k16ra6ba2bb14k1bb14k6b12k16ra1~b280032-ba0596fa-bb5a008c-k101010-raf0014-rac464fa~x2/)|
+|![Katie Targett-Adams example sett](/setts/s14/r2b5r2b10k16ra6ba2bb14k1bb14k6b12k16ra1~b280032-ba0596fa-bb5a008c-k101010-raf0014-rac464fa~x2/sett.png)|

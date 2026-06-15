@@ -16,5 +16,5 @@ BYRYRYRYRYRYRYRYBKBRBRBRBRBRBRBRBKRK
 
 | Tartans |
 |---------------|
-| [Newfoundland (Commemorative)](/setts/s36/k100r32k16b16r2b2r2b2r2b2r2b2r2b2r2b2r40b80k24b48y16r2y2r2y2r2y2r2y2r2y2r2y2r56y12b8-b441800-k000000-rc80000-ybc8c00/)|
-|![Newfoundland (Commemorative) example sett](/setts/s36/k100r32k16b16r2b2r2b2r2b2r2b2r2b2r2b2r40b80k24b48y16r2y2r2y2r2y2r2y2r2y2r2y2r56y12b8-b441800-k000000-rc80000-ybc8c00/sett.png)|
+| [Newfoundland (Commemorative)](/setts/s36/k50r16k8b8r1b1r1b1r1b1r1b1r1b1r1b1r20b40k12b24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6b4~b441800-k000000-rc80000-ybc8c00~x2/)|
+|![Newfoundland (Commemorative) example sett](/setts/s36/k50r16k8b8r1b1r1b1r1b1r1b1r1b1r1b1r20b40k12b24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6b4~b441800-k000000-rc80000-ybc8c00~x2/sett.png)|

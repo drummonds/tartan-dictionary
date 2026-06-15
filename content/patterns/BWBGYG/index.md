@@ -6,7 +6,7 @@ BWBGYG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b10w6b72g76y10g10-b2c2c80-g006818-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b5w3b36g38y5g5~b2c2c80-g006818-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBGYG
 
 | Tartans |
 |---------------|
-| [St. Andrew Society, Sao Paulo (Corp)](/setts/s6/b10w6b72g76y10g10-b2c2c80-g006818-we0e0e0-ye8c000/)|
-|![St. Andrew Society, Sao Paulo (Corp) example sett](/setts/s6/b10w6b72g76y10g10-b2c2c80-g006818-we0e0e0-ye8c000/sett.png)|
+| [St. Andrew Society, Sao Paulo (Corp)](/setts/s6/b5w3b36g38y5g5~b2c2c80-g006818-we0e0e0-ye8c000~x2/)|
+|![St. Andrew Society, Sao Paulo (Corp) example sett](/setts/s6/b5w3b36g38y5g5~b2c2c80-g006818-we0e0e0-ye8c000~x2/sett.png)|

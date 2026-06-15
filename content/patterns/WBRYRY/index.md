@@ -6,7 +6,7 @@ WBRYRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/w2b49r5y2r5y2~b2c2c80-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBRYRY
 
 | Tartans |
 |---------------|
-| [Balmer (Personal)](/setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/)|
-|![Balmer (Personal) example sett](/setts/s6/w4b98r10y4r10y4-b2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Balmer (Personal)](/setts/s6/w2b49r5y2r5y2~b2c2c80-rc80000-we0e0e0-ye8c000~x2/)|
+|![Balmer (Personal) example sett](/setts/s6/w2b49r5y2r5y2~b2c2c80-rc80000-we0e0e0-ye8c000~x2/sett.png)|

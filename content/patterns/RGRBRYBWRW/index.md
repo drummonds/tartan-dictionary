@@ -16,5 +16,5 @@ RGRBRYBWRW
 
 | Tartans |
 |---------------|
-| [Swiss Country](/setts/s10/r216g6r4b4r4y4ba10w4r12w12-b000080-ba505050-g00643c-rff0000-wffffff-yfccc00/)|
-|![Swiss Country example sett](/setts/s10/r216g6r4b4r4y4ba10w4r12w12-b000080-ba505050-g00643c-rff0000-wffffff-yfccc00/sett.png)|
+| [Swiss Country](/setts/s10/r108g3r2b2r2y2ba5w2r6w6~b000080-ba505050-g00643c-rff0000-wffffff-yfccc00~x2/)|
+|![Swiss Country example sett](/setts/s10/r108g3r2b2r2y2ba5w2r6w6~b000080-ba505050-g00643c-rff0000-wffffff-yfccc00~x2/sett.png)|

@@ -6,7 +6,7 @@ RKRKWRKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r45k2r2k28w16r4k4y2-k000000-rc80000-wfcfcfc-yc88c00/tartan.png)
+![Woven sample](/setts/s8/r45k2r2k28w16r4k4y2~k000000-rc80000-wfcfcfc-yc88c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRKWRKY
 
 | Tartans |
 |---------------|
-| [Barbecue Plaid](/setts/s8/r45k2r2k28w16r4k4y2-k000000-rc80000-wfcfcfc-yc88c00/)|
-|![Barbecue Plaid example sett](/setts/s8/r45k2r2k28w16r4k4y2-k000000-rc80000-wfcfcfc-yc88c00/sett.png)|
+| [Barbecue Plaid](/setts/s8/r45k2r2k28w16r4k4y2~k000000-rc80000-wfcfcfc-yc88c00/)|
+|![Barbecue Plaid example sett](/setts/s8/r45k2r2k28w16r4k4y2~k000000-rc80000-wfcfcfc-yc88c00/sett.png)|

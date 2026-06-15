@@ -16,5 +16,5 @@ BKBGKRGGKWKRGKBYKR
 
 | Tartans |
 |---------------|
-| [Kukri](/setts/s18/b16k4b6g6k6r6g20ga6k6w6k6ra32g12k6b16y26k4ra4-b082c54-g003820-ga289c18-k000000-rc80000-raec34c4-wfcfcfc-yf8e38c/)|
-|![Kukri example sett](/setts/s18/b16k4b6g6k6r6g20ga6k6w6k6ra32g12k6b16y26k4ra4-b082c54-g003820-ga289c18-k000000-rc80000-raec34c4-wfcfcfc-yf8e38c/sett.png)|
+| [Kukri](/setts/s18/b8k2b3g3k3r3g10ga3k3w3k3ra16g6k3b8y13k2ra2~b082c54-g003820-ga289c18-k000000-rc80000-raec34c4-wfcfcfc-yf8e38c~x2/)|
+|![Kukri example sett](/setts/s18/b8k2b3g3k3r3g10ga3k3w3k3ra16g6k3b8y13k2ra2~b082c54-g003820-ga289c18-k000000-rc80000-raec34c4-wfcfcfc-yf8e38c~x2/sett.png)|

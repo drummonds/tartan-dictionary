@@ -16,5 +16,5 @@ KGBGBGKGWGKRGRYRGR
 
 | Tartans |
 |---------------|
-| [Langston (Personal)](/setts/s18/k28g4b28g6b28g4k28g28w4g28k28r4g4r20y8r20g4r4-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Langston (Personal) example sett](/setts/s18/k28g4b28g6b28g4k28g28w4g28k28r4g4r20y8r20g4r4-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Langston (Personal)](/setts/s18/k14g2b14g3b14g2k14g14w2g14k14r2g2r10y4r10g2r2~b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Langston (Personal) example sett](/setts/s18/k14g2b14g3b14g2k14g14w2g14k14r2g2r10y4r10g2r2~b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,7 +16,7 @@ KWBWRKRYRW
 
 | Tartans |
 |---------------|
-| [Blaylock](/setts/s10/k8w4b16w6r32k4r10y4r10w4-b2c2c80-k101010-rc80000-wffffff-ye8c000/)|
-|![Blaylock example sett](/setts/s10/k8w4b16w6r32k4r10y4r10w4-b2c2c80-k101010-rc80000-wffffff-ye8c000/sett.png)|
-| [Blaylock (Name)](/setts/s10/k8w4b16w6r32k4r10y4r10w4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Blaylock (Name) example sett](/setts/s10/k8w4b16w6r32k4r10y4r10w4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Blaylock](/setts/s10/k4w2b8w3r16k2r5y2r5w2~b2c2c80-k101010-rc80000-wffffff-ye8c000~x2/)|
+|![Blaylock example sett](/setts/s10/k4w2b8w3r16k2r5y2r5w2~b2c2c80-k101010-rc80000-wffffff-ye8c000~x2/sett.png)|
+| [Blaylock (Name)](/setts/s10/k4w2b8w3r16k2r5y2r5w2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Blaylock (Name) example sett](/setts/s10/k4w2b8w3r16k2r5y2r5w2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ RKGKBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4k4g24k24b24w4-b00008c-g007800-k000000-r8c0000-wc8c8c8/tartan.png)
+![Woven sample](/setts/s6/r1k1g6k6b6w1~b00008c-g007800-k000000-r8c0000-wc8c8c8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGKBW
 
 | Tartans |
 |---------------|
-| [Gaines Center for the Humanities](/setts/s6/r4k4g24k24b24w4-b00008c-g007800-k000000-r8c0000-wc8c8c8/)|
-|![Gaines Center for the Humanities example sett](/setts/s6/r4k4g24k24b24w4-b00008c-g007800-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Gaines Center for the Humanities](/setts/s6/r1k1g6k6b6w1~b00008c-g007800-k000000-r8c0000-wc8c8c8~x4/)|
+|![Gaines Center for the Humanities example sett](/setts/s6/r1k1g6k6b6w1~b00008c-g007800-k000000-r8c0000-wc8c8c8~x4/sett.png)|

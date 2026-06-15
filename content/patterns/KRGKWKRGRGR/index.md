@@ -16,5 +16,5 @@ KRGKWKRGRGR
 
 | Tartans |
 |---------------|
-| [Episcopal Clergy (Corporate)](/setts/s11/k4r4g28k32w4k32r4g8r4g16r4-g006818-k000000-r880000-wc8c8c8/)|
-|![Episcopal Clergy (Corporate) example sett](/setts/s11/k4r4g28k32w4k32r4g8r4g16r4-g006818-k000000-r880000-wc8c8c8/sett.png)|
+| [Episcopal Clergy (Corporate)](/setts/s11/k1r1g7k8w1k8r1g2r1g4r1~g006818-k000000-r880000-wc8c8c8~x4/)|
+|![Episcopal Clergy (Corporate) example sett](/setts/s11/k1r1g7k8w1k8r1g2r1g4r1~g006818-k000000-r880000-wc8c8c8~x4/sett.png)|

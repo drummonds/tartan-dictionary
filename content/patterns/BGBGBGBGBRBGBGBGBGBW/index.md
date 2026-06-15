@@ -16,5 +16,5 @@ BGBGBGBGBRBGBGBGBGBW
 
 | Tartans |
 |---------------|
-| [Solway Spirit](/setts/s20/b80g4b4g4b4g4b6g32ba30r6ba30g32b6g4b4g4b4g4b80w8-b440044-ba2c2c80-g408060-rc04094-we0e0e0/)|
-|![Solway Spirit example sett](/setts/s20/b80g4b4g4b4g4b6g32ba30r6ba30g32b6g4b4g4b4g4b80w8-b440044-ba2c2c80-g408060-rc04094-we0e0e0/sett.png)|
+| [Solway Spirit](/setts/s20/b40g2b2g2b2g2b3g16ba15r3ba15g16b3g2b2g2b2g2b40w4~b440044-ba2c2c80-g408060-rc04094-we0e0e0~x2/)|
+|![Solway Spirit example sett](/setts/s20/b40g2b2g2b2g2b3g16ba15r3ba15g16b3g2b2g2b2g2b40w4~b440044-ba2c2c80-g408060-rc04094-we0e0e0~x2/sett.png)|

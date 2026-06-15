@@ -6,7 +6,7 @@ KBKBYRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k30r16y4b50k10b26k10-b2c2c80-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s7/k15r8y2b25k5b13k5~b2c2c80-k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKBYRK
 
 | Tartans |
 |---------------|
-| [Gifford (Personal)](/setts/s7/k30r16y4b50k10b26k10-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Gifford (Personal) example sett](/setts/s7/k30r16y4b50k10b26k10-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Gifford (Personal)](/setts/s7/k15r8y2b25k5b13k5~b2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![Gifford (Personal) example sett](/setts/s7/k15r8y2b25k5b13k5~b2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

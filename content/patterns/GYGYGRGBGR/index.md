@@ -16,5 +16,5 @@ GYGYGRGBGR
 
 | Tartans |
 |---------------|
-| [Hutcheson](/setts/s10/g60y6g8y6g60r60ga8b16ga8r60-b003c64-g00643c-ga789484-rcc4438-ydc943c/)|
-|![Hutcheson example sett](/setts/s10/g60y6g8y6g60r60ga8b16ga8r60-b003c64-g00643c-ga789484-rcc4438-ydc943c/sett.png)|
+| [Hutcheson](/setts/s10/g30y3g4y3g30r30ga4b8ga4r30~b003c64-g00643c-ga789484-rcc4438-ydc943c~x2/)|
+|![Hutcheson example sett](/setts/s10/g30y3g4y3g30r30ga4b8ga4r30~b003c64-g00643c-ga789484-rcc4438-ydc943c~x2/sett.png)|

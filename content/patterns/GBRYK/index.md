@@ -6,7 +6,7 @@ GBRYK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g48b4r50y4k6-b1870a4-g408060-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s5/g24b2r25y2k3~b1870a4-g408060-k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRYK
 
 | Tartans |
 |---------------|
-| [Bronte](/setts/s5/g48b4r50y4k6-b1870a4-g408060-k101010-rc80000-ye8c000/)|
-|![Bronte example sett](/setts/s5/g48b4r50y4k6-b1870a4-g408060-k101010-rc80000-ye8c000/sett.png)|
+| [Bronte](/setts/s5/g24b2r25y2k3~b1870a4-g408060-k101010-rc80000-ye8c000~x2/)|
+|![Bronte example sett](/setts/s5/g24b2r25y2k3~b1870a4-g408060-k101010-rc80000-ye8c000~x2/sett.png)|

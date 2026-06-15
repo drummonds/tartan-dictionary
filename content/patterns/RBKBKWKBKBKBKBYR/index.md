@@ -16,5 +16,5 @@ RBKBKWKBKBKBKBYR
 
 | Tartans |
 |---------------|
-| [Royal Scottish Country Dance Society](/setts/s16/r6b28k24ba48k2w6k2ba48k24b4k4b4k4b16y2r6-b003c64-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Royal Scottish Country Dance Society example sett](/setts/s16/r6b28k24ba48k2w6k2ba48k24b4k4b4k4b16y2r6-b003c64-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Royal Scottish Country Dance Society](/setts/s16/r3b14k12ba24k1w3k1ba24k12b2k2b2k2b8y1r3~b003c64-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Royal Scottish Country Dance Society example sett](/setts/s16/r3b14k12ba24k1w3k1ba24k12b2k2b2k2b8y1r3~b003c64-ba5c8ca8-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ BBBWBWBRB
 
 | Tartans |
 |---------------|
-| [Wyckoff, Ann Grainger Phillips](/setts/s9/b140ba10b6w10b6w10b6r10b16-b50729f-ba0000cd-rff0000-wffffff/)|
-|![Wyckoff, Ann Grainger Phillips example sett](/setts/s9/b140ba10b6w10b6w10b6r10b16-b50729f-ba0000cd-rff0000-wffffff/sett.png)|
+| [Wyckoff, Ann Grainger Phillips](/setts/s9/b70ba5b3w5b3w5b3r5b8~b50729f-ba0000cd-rff0000-wffffff~x2/)|
+|![Wyckoff, Ann Grainger Phillips example sett](/setts/s9/b70ba5b3w5b3w5b3r5b8~b50729f-ba0000cd-rff0000-wffffff~x2/sett.png)|

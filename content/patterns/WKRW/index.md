@@ -6,7 +6,7 @@ WKRW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/w4k40r40w4-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s4/w1k10r10w1~k101010-rc80000-wf8f8f8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKRW
 
 | Tartans |
 |---------------|
-| [Masai Shuka 01 (Artefact)](/setts/s4/w4k40r40w4-k101010-rc80000-wf8f8f8/)|
-|![Masai Shuka 01 (Artefact) example sett](/setts/s4/w4k40r40w4-k101010-rc80000-wf8f8f8/sett.png)|
+| [Masai Shuka 01 (Artefact)](/setts/s4/w1k10r10w1~k101010-rc80000-wf8f8f8~x4/)|
+|![Masai Shuka 01 (Artefact) example sett](/setts/s4/w1k10r10w1~k101010-rc80000-wf8f8f8~x4/sett.png)|

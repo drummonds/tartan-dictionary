@@ -16,5 +16,5 @@ BGGBKGGGKBGBWBGBKGGGKBGG
 
 | Tartans |
 |---------------|
-| [Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/g34ga2b4k12g4ga24g4k12b4ga2b36w4b36ga2b4k12g4ga24g4k12b4ga2g34ba8-b2c2c80-ba202060-g006818-ga003820-k101010-we0e0e0/)|
-|![Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/g34ga2b4k12g4ga24g4k12b4ga2b36w4b36ga2b4k12g4ga24g4k12b4ga2g34ba8-b2c2c80-ba202060-g006818-ga003820-k101010-we0e0e0/sett.png)|
+| [Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/g17ga1b2k6g2ga12g2k6b2ga1b18w2b18ga1b2k6g2ga12g2k6b2ga1g17ba4~b2c2c80-ba202060-g006818-ga003820-k101010-we0e0e0~x2/)|
+|![Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/g17ga1b2k6g2ga12g2k6b2ga1b18w2b18ga1b2k6g2ga12g2k6b2ga1g17ba4~b2c2c80-ba202060-g006818-ga003820-k101010-we0e0e0~x2/sett.png)|

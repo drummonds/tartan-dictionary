@@ -16,5 +16,5 @@ RBRBRBRBRKY
 
 | Tartans |
 |---------------|
-| [Stephens](/setts/s11/r18b8r4b8r4b30r18b8ra36k18y4-b2c2c80-k101010-r888888-rac80000-ye8c000/)|
-|![Stephens example sett](/setts/s11/r18b8r4b8r4b30r18b8ra36k18y4-b2c2c80-k101010-r888888-rac80000-ye8c000/sett.png)|
+| [Stephens](/setts/s11/r9b4r2b4r2b15r9b4ra18k9y2~b2c2c80-k101010-r888888-rac80000-ye8c000~x2/)|
+|![Stephens example sett](/setts/s11/r9b4r2b4r2b15r9b4ra18k9y2~b2c2c80-k101010-r888888-rac80000-ye8c000~x2/sett.png)|

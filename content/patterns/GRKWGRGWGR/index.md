@@ -16,5 +16,5 @@ GRKWGRGWGR
 
 | Tartans |
 |---------------|
-| [Scott Dress #2](/setts/s10/g14r6k6w108g48r10g10w10g10r10-g005020-k101010-rdc0000-we0e0e0/)|
-|![Scott Dress #2 example sett](/setts/s10/g14r6k6w108g48r10g10w10g10r10-g005020-k101010-rdc0000-we0e0e0/sett.png)|
+| [Scott Dress #2](/setts/s10/g7r3k3w54g24r5g5w5g5r5~g005020-k101010-rdc0000-we0e0e0~x2/)|
+|![Scott Dress #2 example sett](/setts/s10/g7r3k3w54g24r5g5w5g5r5~g005020-k101010-rdc0000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ BBBBBBBWBBRB
 
 | Tartans |
 |---------------|
-| [Caledonian Club](/setts/s12/b24ba4b4ba4b4ba20bb32w4bb32ba35r5ba4-b0f6fbd-ba052e70-bb76528e-rbe042c-wdcdadc/)|
-|![Caledonian Club example sett](/setts/s12/b24ba4b4ba4b4ba20bb32w4bb32ba35r5ba4-b0f6fbd-ba052e70-bb76528e-rbe042c-wdcdadc/sett.png)|
+| [Caledonian Club](/setts/s12/b24ba4b4ba4b4ba20bb32w4bb32ba35r5ba4~b0f6fbd-ba052e70-bb76528e-rbe042c-wdcdadc/)|
+|![Caledonian Club example sett](/setts/s12/b24ba4b4ba4b4ba20bb32w4bb32ba35r5ba4~b0f6fbd-ba052e70-bb76528e-rbe042c-wdcdadc/sett.png)|

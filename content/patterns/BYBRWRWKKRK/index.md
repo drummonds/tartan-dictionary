@@ -16,5 +16,5 @@ BYBRWRWKKRK
 
 | Tartans |
 |---------------|
-| [Asman, Dress (Name)](/setts/s11/b8y6b44r12w4ra12w4k12k40ra6k8-b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000/)|
-|![Asman, Dress (Name) example sett](/setts/s11/b8y6b44r12w4ra12w4k12k40ra6k8-b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000/sett.png)|
+| [Asman, Dress (Name)](/setts/s11/b4y3b22r6w2ra6w2k6k20ra3k4~b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000~x2/)|
+|![Asman, Dress (Name) example sett](/setts/s11/b4y3b22r6w2ra6w2k6k20ra3k4~b2c2c80-k101010-r888888-rac80000-wfcfcfc-ye8c000~x2/sett.png)|

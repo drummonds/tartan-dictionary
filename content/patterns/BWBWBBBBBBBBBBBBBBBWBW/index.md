@@ -16,5 +16,5 @@ BWBWBBBBBBBBBBBBBBBWBW
 
 | Tartans |
 |---------------|
-| [Highland Sky](/setts/s22/b14w8b40wa2b2ba4b4bb22b2b4ba4b86ba4b4b2bb22b4ba4b2wa2b40w8-b485074-ba003c64-bb14283c-we8ccb8-waa8ace8/)|
-|![Highland Sky example sett](/setts/s22/b14w8b40wa2b2ba4b4bb22b2b4ba4b86ba4b4b2bb22b4ba4b2wa2b40w8-b485074-ba003c64-bb14283c-we8ccb8-waa8ace8/sett.png)|
+| [Highland Sky](/setts/s22/b7w4b20wa1b1ba2b2bb11b1b2ba2b43ba2b2b1bb11b2ba2b1wa1b20w4~b485074-ba003c64-bb14283c-we8ccb8-waa8ace8~x2/)|
+|![Highland Sky example sett](/setts/s22/b7w4b20wa1b1ba2b2bb11b1b2ba2b43ba2b2b1bb11b2ba2b1wa1b20w4~b485074-ba003c64-bb14283c-we8ccb8-waa8ace8~x2/sett.png)|

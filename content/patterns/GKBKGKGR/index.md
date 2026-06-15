@@ -6,7 +6,7 @@ GKBKGKGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8k14b66ka18ga4ka18gb20r8-b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000/tartan.png)
+![Woven sample](/setts/s8/g4k7b33ka9ga2ka9gb10r4~b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBKGKGR
 
 | Tartans |
 |---------------|
-| [Anne Arundel County](/setts/s8/g8k14b66ka18ga4ka18gb20r8-b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000/)|
-|![Anne Arundel County example sett](/setts/s8/g8k14b66ka18ga4ka18gb20r8-b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000/sett.png)|
+| [Anne Arundel County](/setts/s8/g4k7b33ka9ga2ka9gb10r4~b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000~x2/)|
+|![Anne Arundel County example sett](/setts/s8/g4k7b33ka9ga2ka9gb10r4~b304080-g008000-ga604000-gb808080-k000030-ka000000-rc00000~x2/sett.png)|

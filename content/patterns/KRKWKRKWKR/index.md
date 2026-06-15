@@ -16,5 +16,5 @@ KRKWKRKWKR
 
 | Tartans |
 |---------------|
-| [Buckleigh Dress (Fashion)](/setts/s10/k12r4k4w80k40r8k8w8k8r8-k00002c-rc80000-wf8f8f8/)|
-|![Buckleigh Dress (Fashion) example sett](/setts/s10/k12r4k4w80k40r8k8w8k8r8-k00002c-rc80000-wf8f8f8/sett.png)|
+| [Buckleigh Dress (Fashion)](/setts/s10/k3r1k1w20k10r2k2w2k2r2~k00002c-rc80000-wf8f8f8~x4/)|
+|![Buckleigh Dress (Fashion) example sett](/setts/s10/k3r1k1w20k10r2k2w2k2r2~k00002c-rc80000-wf8f8f8~x4/sett.png)|

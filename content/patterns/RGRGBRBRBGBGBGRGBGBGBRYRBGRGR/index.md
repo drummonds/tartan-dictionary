@@ -16,5 +16,5 @@ RGRGBRBRBGBGBGRGBGBGBRYRBGRGR
 
 | Tartans |
 |---------------|
-| [Shearer](/setts/s29/r4g8ra4g22b18rb24b4rb24b18g4b4g4b4g12r4g12b4g4b4g4b18rb24y4rb24b18g22ra4g8r4-b14283c-g006818-rc80000-ra888888-rb880000-yd09800/)|
-|![Shearer example sett](/setts/s29/r4g8ra4g22b18rb24b4rb24b18g4b4g4b4g12r4g12b4g4b4g4b18rb24y4rb24b18g22ra4g8r4-b14283c-g006818-rc80000-ra888888-rb880000-yd09800/sett.png)|
+| [Shearer](/setts/s29/r2g4ra2g11b9rb12b2rb12b9g2b2g2b2g6r2g6b2g2b2g2b9rb12y2rb12b9g11ra2g4r2~b14283c-g006818-rc80000-ra888888-rb880000-yd09800~x2/)|
+|![Shearer example sett](/setts/s29/r2g4ra2g11b9rb12b2rb12b9g2b2g2b2g6r2g6b2g2b2g2b9rb12y2rb12b9g11ra2g4r2~b14283c-g006818-rc80000-ra888888-rb880000-yd09800~x2/sett.png)|

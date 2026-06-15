@@ -16,5 +16,5 @@ BKRBBGRGBG
 
 | Tartans |
 |---------------|
-| [Downie (Name)](/setts/s10/b48k4r4b4ba24g56r8g10b6g6-b5c8ca8-ba202060-g006818-k101010-rc80000/)|
-|![Downie (Name) example sett](/setts/s10/b48k4r4b4ba24g56r8g10b6g6-b5c8ca8-ba202060-g006818-k101010-rc80000/sett.png)|
+| [Downie (Name)](/setts/s10/b24k2r2b2ba12g28r4g5b3g3~b5c8ca8-ba202060-g006818-k101010-rc80000~x2/)|
+|![Downie (Name) example sett](/setts/s10/b24k2r2b2ba12g28r4g5b3g3~b5c8ca8-ba202060-g006818-k101010-rc80000~x2/sett.png)|

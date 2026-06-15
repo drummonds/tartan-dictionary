@@ -16,5 +16,5 @@ KYKRKYKRKYKRWKR
 
 | Tartans |
 |---------------|
-| [Black Onyx](/setts/s15/k60y66k2r2k2y16k2r4k2y6k2r6w4k2r14-k101010-ra67d3d-wffffff-y949494/)|
-|![Black Onyx example sett](/setts/s15/k60y66k2r2k2y16k2r4k2y6k2r6w4k2r14-k101010-ra67d3d-wffffff-y949494/sett.png)|
+| [Black Onyx](/setts/s15/k30y33k1r1k1y8k1r2k1y3k1r3w2k1r7~k101010-ra67d3d-wffffff-y949494~x2/)|
+|![Black Onyx example sett](/setts/s15/k30y33k1r1k1y8k1r2k1y3k1r3w2k1r7~k101010-ra67d3d-wffffff-y949494~x2/sett.png)|

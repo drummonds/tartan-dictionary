@@ -16,5 +16,5 @@ KRKRGRGRKRKRK
 
 | Tartans |
 |---------------|
-| [42nd Regiment (Musicians) (Mil.)](/setts/s13/k28r4k4r4k4r27g26r4g26r27k28r4k4-g285800-k00002c-rd40000/)|
-|![42nd Regiment (Musicians) (Mil.) example sett](/setts/s13/k28r4k4r4k4r27g26r4g26r27k28r4k4-g285800-k00002c-rd40000/sett.png)|
+| [42nd Regiment (Musicians) (Mil.)](/setts/s13/k28r4k4r4k4r27g26r4g26r27k28r4k4~g285800-k00002c-rd40000/)|
+|![42nd Regiment (Musicians) (Mil.) example sett](/setts/s13/k28r4k4r4k4r27g26r4g26r27k28r4k4~g285800-k00002c-rd40000/sett.png)|

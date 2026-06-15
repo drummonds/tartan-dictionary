@@ -16,5 +16,5 @@ WBYWBWBYW
 
 | Tartans |
 |---------------|
-| [Silver (Personal)](/setts/s9/w48b48y12w2ba8w40b20y6w8-b2474b4-ba202060-we0e0e0-y7c98bc/)|
-|![Silver (Personal) example sett](/setts/s9/w48b48y12w2ba8w40b20y6w8-b2474b4-ba202060-we0e0e0-y7c98bc/sett.png)|
+| [Silver (Personal)](/setts/s9/w24b24y6w1ba4w20b10y3w4~b2474b4-ba202060-we0e0e0-y7c98bc~x2/)|
+|![Silver (Personal) example sett](/setts/s9/w24b24y6w1ba4w20b10y3w4~b2474b4-ba202060-we0e0e0-y7c98bc~x2/sett.png)|

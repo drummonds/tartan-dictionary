@@ -6,7 +6,7 @@ BWG
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/b12w24g12-b202060-g604000-we0e0e0/tartan.png)
+![Woven sample](/setts/s3/b1w2g1~b202060-g604000-we0e0e0~x12/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWG
 
 | Tartans |
 |---------------|
-| [Aquascutum](/setts/s3/b12w24g12-b202060-g604000-we0e0e0/)|
-|![Aquascutum example sett](/setts/s3/b12w24g12-b202060-g604000-we0e0e0/sett.png)|
+| [Aquascutum](/setts/s3/b1w2g1~b202060-g604000-we0e0e0~x12/)|
+|![Aquascutum example sett](/setts/s3/b1w2g1~b202060-g604000-we0e0e0~x12/sett.png)|

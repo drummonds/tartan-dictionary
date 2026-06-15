@@ -16,5 +16,5 @@ RBWYWBRWRBWGWBRWRBWGWBRWRBWYWBRW
 
 | Tartans |
 |---------------|
-| [Jacobite (1712)](/setts/s32/r8b8w4y32w4b8r8w4r8b8w4g32w4b8r8w4r8b8w4g32w4b8r8w4r8b8w4y32w4b8r8w4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/)|
-|![Jacobite (1712) example sett](/setts/s32/r8b8w4y32w4b8r8w4r8b8w4g32w4b8r8w4r8b8w4g32w4b8r8w4r8b8w4y32w4b8r8w4-b2c2c80-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Jacobite (1712)](/setts/s32/r2b2w1y8w1b2r2w1r2b2w1g8w1b2r2w1r2b2w1g8w1b2r2w1r2b2w1y8w1b2r2w1~b2c2c80-g006818-rc80000-we0e0e0-ye8c000~x4/)|
+|![Jacobite (1712) example sett](/setts/s32/r2b2w1y8w1b2r2w1r2b2w1g8w1b2r2w1r2b2w1g8w1b2r2w1r2b2w1y8w1b2r2w1~b2c2c80-g006818-rc80000-we0e0e0-ye8c000~x4/sett.png)|

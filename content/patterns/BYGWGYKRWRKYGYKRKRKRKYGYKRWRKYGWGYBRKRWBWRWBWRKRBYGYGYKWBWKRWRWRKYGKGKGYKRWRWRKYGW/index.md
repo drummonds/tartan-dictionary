@@ -16,5 +16,5 @@ BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKY
 
 | Tartans |
 |---------------|
-| [Drummond of Strathallan or Ogilvy](/setts/s82/b6y6g10w6g10y6k10r10w6r10k6y16g10y16k6r6k6r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6--ha1cad6104c2ddcae/)|
-|![Drummond of Strathallan or Ogilvy example sett](/setts/s82/b6y6g10w6g10y6k10r10w6r10k6y16g10y16k6r6k6r6k6r6k6y16g10y16k6r10w6r10k10y6g10w6g10y6b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y16g10y6g10y16k26w2b6w2k26r10w6r10w6r10k6y6g26k6g26k6g26y6k6r10w6r10w6r10k6y6g10w6--ha1cad6104c2ddcae/sett.png)|
+| [Drummond of Strathallan or Ogilvy](/setts/s82/b3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3b3r3k3r13w1b1w1r13w1b1w1r13k3r3b3y8g5y3g5y8k13w1b3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~b2c2c80-g006818-k101010-rc8-h6f405c0707afa598/)|
+|![Drummond of Strathallan or Ogilvy example sett](/setts/s82/b3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3b3r3k3r13w1b1w1r13w1b1w1r13k3r3b3y8g5y3g5y8k13w1b3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3~b2c2c80-g006818-k101010-rc8-h6f405c0707afa598/sett.png)|

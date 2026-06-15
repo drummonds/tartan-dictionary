@@ -6,7 +6,7 @@ RWBWRWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w48b8w48r68w48b8w20ra8-b202060-rb468ac-rac80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/w12b2w12r17w12b2w5ra2~b202060-rb468ac-rac80000-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWBWRWBW
 
 | Tartans |
 |---------------|
-| [Milne Purple Dress (Dance)](/setts/s8/w48b8w48r68w48b8w20ra8-b202060-rb468ac-rac80000-wfcfcfc/)|
-|![Milne Purple Dress (Dance) example sett](/setts/s8/w48b8w48r68w48b8w20ra8-b202060-rb468ac-rac80000-wfcfcfc/sett.png)|
+| [Milne Purple Dress (Dance)](/setts/s8/w12b2w12r17w12b2w5ra2~b202060-rb468ac-rac80000-wfcfcfc~x4/)|
+|![Milne Purple Dress (Dance) example sett](/setts/s8/w12b2w12r17w12b2w5ra2~b202060-rb468ac-rac80000-wfcfcfc~x4/sett.png)|

@@ -16,5 +16,5 @@ BKGBKGRBGKY
 
 | Tartans |
 |---------------|
-| [Amarillo](/setts/s11/b72k8g8b36k16ga36r16b36g8k8y4-b003c64-g408060-ga006818-k101010-ra00000-ybc8c00/)|
-|![Amarillo example sett](/setts/s11/b72k8g8b36k16ga36r16b36g8k8y4-b003c64-g408060-ga006818-k101010-ra00000-ybc8c00/sett.png)|
+| [Amarillo](/setts/s11/b18k2g2b9k4ga9r4b9g2k2y1~b003c64-g408060-ga006818-k101010-ra00000-ybc8c00~x4/)|
+|![Amarillo example sett](/setts/s11/b18k2g2b9k4ga9r4b9g2k2y1~b003c64-g408060-ga006818-k101010-ra00000-ybc8c00~x4/sett.png)|

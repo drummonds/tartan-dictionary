@@ -16,7 +16,7 @@ RBYBWBWBWRBBBW
 
 | Tartans |
 |---------------|
-| [Submariners](/setts/s14/w8b2ba24b2r16w16b16w4b2w4b48y8b2r4-b000080-ba0000cd-rff0000-wffffff-yffe600/)|
-|![Submariners example sett](/setts/s14/w8b2ba24b2r16w16b16w4b2w4b48y8b2r4-b000080-ba0000cd-rff0000-wffffff-yffe600/sett.png)|
-| [Submariners (Unofficial)](/setts/s14/w8b2ba24b2r16w16b16w4b2w4b48y8b2r4-b003c64-ba2c2c80-rc80000-wfcfcfc-yfccc00/)|
-|![Submariners (Unofficial) example sett](/setts/s14/w8b2ba24b2r16w16b16w4b2w4b48y8b2r4-b003c64-ba2c2c80-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Submariners](/setts/s14/w4b1ba12b1r8w8b8w2b1w2b24y4b1r2~b000080-ba0000cd-rff0000-wffffff-yffe600~x2/)|
+|![Submariners example sett](/setts/s14/w4b1ba12b1r8w8b8w2b1w2b24y4b1r2~b000080-ba0000cd-rff0000-wffffff-yffe600~x2/sett.png)|
+| [Submariners (Unofficial)](/setts/s14/w4b1ba12b1r8w8b8w2b1w2b24y4b1r2~b003c64-ba2c2c80-rc80000-wfcfcfc-yfccc00~x2/)|
+|![Submariners (Unofficial) example sett](/setts/s14/w4b1ba12b1r8w8b8w2b1w2b24y4b1r2~b003c64-ba2c2c80-rc80000-wfcfcfc-yfccc00~x2/sett.png)|

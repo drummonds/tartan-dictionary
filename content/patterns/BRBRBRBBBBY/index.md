@@ -16,5 +16,5 @@ BRBRBRBBBBY
 
 | Tartans |
 |---------------|
-| [NHK Asaichi](/setts/s11/b8r44ba4r4ba4r4ba16bb24b4bb4y4-b4c0000-ba440044-bb3850c8-rff0000-yffcc00/)|
-|![NHK Asaichi example sett](/setts/s11/b8r44ba4r4ba4r4ba16bb24b4bb4y4-b4c0000-ba440044-bb3850c8-rff0000-yffcc00/sett.png)|
+| [NHK Asaichi](/setts/s11/b2r11ba1r1ba1r1ba4bb6b1bb1y1~b4c0000-ba440044-bb3850c8-rff0000-yffcc00~x4/)|
+|![NHK Asaichi example sett](/setts/s11/b2r11ba1r1ba1r1ba4bb6b1bb1y1~b4c0000-ba440044-bb3850c8-rff0000-yffcc00~x4/sett.png)|

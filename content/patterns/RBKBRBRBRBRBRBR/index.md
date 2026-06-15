@@ -16,5 +16,5 @@ RBKBRBRBRBRBRBR
 
 | Tartans |
 |---------------|
-| [Ettrick (Fashion)](/setts/s15/r16b48k48b16ra72b4r4b4ra8b4r8b4ra16b4r16-b606060-k000000-rb07430-ra888888/)|
-|![Ettrick (Fashion) example sett](/setts/s15/r16b48k48b16ra72b4r4b4ra8b4r8b4ra16b4r16-b606060-k000000-rb07430-ra888888/sett.png)|
+| [Ettrick (Fashion)](/setts/s15/r4b12k12b4ra18b1r1b1ra2b1r2b1ra4b1r4~b606060-k000000-rb07430-ra888888~x4/)|
+|![Ettrick (Fashion) example sett](/setts/s15/r4b12k12b4ra18b1r1b1ra2b1r2b1ra4b1r4~b606060-k000000-rb07430-ra888888~x4/sett.png)|

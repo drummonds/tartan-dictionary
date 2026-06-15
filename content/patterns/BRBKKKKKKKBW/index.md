@@ -16,5 +16,5 @@ BRBKKKKKKKBW
 
 | Tartans |
 |---------------|
-| [McWilliams Dress (2014)](/setts/s12/b6r4b26k18ka6k4ka28k4ka6k18b30w6-b202060-k101010-ka300500-r880000-wfcfcfc/)|
-|![McWilliams Dress (2014) example sett](/setts/s12/b6r4b26k18ka6k4ka28k4ka6k18b30w6-b202060-k101010-ka300500-r880000-wfcfcfc/sett.png)|
+| [McWilliams Dress (2014)](/setts/s12/b3r2b13k9ka3k2ka14k2ka3k9b15w3~b202060-k101010-ka300500-r880000-wfcfcfc~x2/)|
+|![McWilliams Dress (2014) example sett](/setts/s12/b3r2b13k9ka3k2ka14k2ka3k9b15w3~b202060-k101010-ka300500-r880000-wfcfcfc~x2/sett.png)|

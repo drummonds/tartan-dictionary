@@ -16,5 +16,5 @@ KKKRKBKBR
 
 | Tartans |
 |---------------|
-| [Wyse (2016)](/setts/s9/k16k6k16r4k40b12k16b12ra4-b788cb4-k000000-rb03000-raa07c58/)|
-|![Wyse (2016) example sett](/setts/s9/k16k6k16r4k40b12k16b12ra4-b788cb4-k000000-rb03000-raa07c58/sett.png)|
+| [Wyse (2016)](/setts/s9/k8k3k8r2k20b6k8b6ra2~b788cb4-k000000-rb03000-raa07c58~x2/)|
+|![Wyse (2016) example sett](/setts/s9/k8k3k8r2k20b6k8b6ra2~b788cb4-k000000-rb03000-raa07c58~x2/sett.png)|

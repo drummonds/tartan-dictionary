@@ -16,5 +16,5 @@ GGKYKWGGKGW
 
 | Tartans |
 |---------------|
-| [Suffolk County Police](/setts/s11/g148g12k24y6k6w6g32g16k6g8w6-g30a010-k000000-we0e0e0-yffe000/)|
-|![Suffolk County Police example sett](/setts/s11/g148g12k24y6k6w6g32g16k6g8w6-g30a010-k000000-we0e0e0-yffe000/sett.png)|
+| [Suffolk County Police](/setts/s11/g74g6k12y3k3w3g16g8k3g4w3~g30a010-k000000-we0e0e0-yffe000~x2/)|
+|![Suffolk County Police example sett](/setts/s11/g74g6k12y3k3w3g16g8k3g4w3~g30a010-k000000-we0e0e0-yffe000~x2/sett.png)|

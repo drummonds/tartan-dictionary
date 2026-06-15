@@ -16,5 +16,5 @@ KBKBBKBKKBKBKBK
 
 | Tartans |
 |---------------|
-| [GOLF (Wonderland Publications)](/setts/s15/k30b4ka2ba2bb2k30ba2ka4k30bb2k30b8ka4bb2k30-b3c084a-ba622217-bb58697d-k101010-ka000000/)|
-|![GOLF (Wonderland Publications) example sett](/setts/s15/k30b4ka2ba2bb2k30ba2ka4k30bb2k30b8ka4bb2k30-b3c084a-ba622217-bb58697d-k101010-ka000000/sett.png)|
+| [GOLF (Wonderland Publications)](/setts/s15/k15b2ka1ba1bb1k15ba1ka2k15bb1k15b4ka2bb1k15~b3c084a-ba622217-bb58697d-k101010-ka000000~x2/)|
+|![GOLF (Wonderland Publications) example sett](/setts/s15/k15b2ka1ba1bb1k15ba1ka2k15bb1k15b4ka2bb1k15~b3c084a-ba622217-bb58697d-k101010-ka000000~x2/sett.png)|

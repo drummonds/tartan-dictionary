@@ -16,5 +16,5 @@ GYKBGRKBYBKRGBKY
 
 | Tartans |
 |---------------|
-| [Inches of Perth](/setts/s16/g88y4k8b4g30r12k6ba6y4ba6k6r12g30b4k8y4-b780078-ba5c8ca8-g604000-k101010-ra00048-ye8c000/)|
-|![Inches of Perth example sett](/setts/s16/g88y4k8b4g30r12k6ba6y4ba6k6r12g30b4k8y4-b780078-ba5c8ca8-g604000-k101010-ra00048-ye8c000/sett.png)|
+| [Inches of Perth](/setts/s16/g44y2k4b2g15r6k3ba3y2ba3k3r6g15b2k4y2~b780078-ba5c8ca8-g604000-k101010-ra00048-ye8c000~x2/)|
+|![Inches of Perth example sett](/setts/s16/g44y2k4b2g15r6k3ba3y2ba3k3r6g15b2k4y2~b780078-ba5c8ca8-g604000-k101010-ra00048-ye8c000~x2/sett.png)|

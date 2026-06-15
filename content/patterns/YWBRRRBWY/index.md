@@ -16,5 +16,5 @@ YWBRRRBWY
 
 | Tartans |
 |---------------|
-| [Wedding Day (Fashion)](/setts/s9/y8w2b96r4ra6r4b6w2y8-b780078-rc80000-rae87878-wfcfcfc-ybc8c00/)|
-|![Wedding Day (Fashion) example sett](/setts/s9/y8w2b96r4ra6r4b6w2y8-b780078-rc80000-rae87878-wfcfcfc-ybc8c00/sett.png)|
+| [Wedding Day (Fashion)](/setts/s9/y4w1b48r2ra3r2b3w1y4~b780078-rc80000-rae87878-wfcfcfc-ybc8c00~x2/)|
+|![Wedding Day (Fashion) example sett](/setts/s9/y4w1b48r2ra3r2b3w1y4~b780078-rc80000-rae87878-wfcfcfc-ybc8c00~x2/sett.png)|

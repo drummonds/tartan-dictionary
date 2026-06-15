@@ -16,5 +16,5 @@ KBKBKBKBK
 
 | Tartans |
 |---------------|
-| [Saul (Personal)](/setts/s9/k16b40k8b8k16ba20k24ba24k16-b2c2c80-ba1474b4-k101010/)|
-|![Saul (Personal) example sett](/setts/s9/k16b40k8b8k16ba20k24ba24k16-b2c2c80-ba1474b4-k101010/sett.png)|
+| [Saul (Personal)](/setts/s9/k4b10k2b2k4ba5k6ba6k4~b2c2c80-ba1474b4-k101010~x4/)|
+|![Saul (Personal) example sett](/setts/s9/k4b10k2b2k4ba5k6ba6k4~b2c2c80-ba1474b4-k101010~x4/sett.png)|

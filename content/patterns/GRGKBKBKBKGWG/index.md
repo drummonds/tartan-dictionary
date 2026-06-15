@@ -16,5 +16,5 @@ GRGKBKBKBKGWG
 
 | Tartans |
 |---------------|
-| [Mack Original (Personal)](/setts/s13/g4r4g42k16b16k4b56k4b16k16g42w4g4-b2888c4-g006818-k101010-rc80000-wfcfcfc/)|
-|![Mack Original (Personal) example sett](/setts/s13/g4r4g42k16b16k4b56k4b16k16g42w4g4-b2888c4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Mack Original (Personal)](/setts/s13/g2r2g21k8b8k2b28k2b8k8g21w2g2~b2888c4-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Mack Original (Personal) example sett](/setts/s13/g2r2g21k8b8k2b28k2b8k8g21w2g2~b2888c4-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

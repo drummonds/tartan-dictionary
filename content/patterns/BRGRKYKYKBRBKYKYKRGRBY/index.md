@@ -16,5 +16,5 @@ BRGRKYKYKBRBKYKYKRGRBY
 
 | Tartans |
 |---------------|
-| [Hepburn](/setts/s22/b12r8g16r28k8y8k8y8k20b16r84b16k20y8k8y8k8r28g16r8b12y8-b240094-g00841c-k101010-re43418-ye8c000/)|
-|![Hepburn example sett](/setts/s22/b12r8g16r28k8y8k8y8k20b16r84b16k20y8k8y8k8r28g16r8b12y8-b240094-g00841c-k101010-re43418-ye8c000/sett.png)|
+| [Hepburn](/setts/s22/b3r2g4r7k2y2k2y2k5b4r21b4k5y2k2y2k2r7g4r2b3y2~b240094-g00841c-k101010-re43418-ye8c000~x4/)|
+|![Hepburn example sett](/setts/s22/b3r2g4r7k2y2k2y2k5b4r21b4k5y2k2y2k2r7g4r2b3y2~b240094-g00841c-k101010-re43418-ye8c000~x4/sett.png)|

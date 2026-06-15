@@ -6,7 +6,7 @@ GWRKWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g106w2r40k2w4r14-g006818-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/g53w1r20k1w2r7~g006818-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWRKWR
 
 | Tartans |
 |---------------|
-| [Masai Shuka 10 (Artefact)](/setts/s6/g106w2r40k2w4r14-g006818-k101010-rc80000-we0e0e0/)|
-|![Masai Shuka 10 (Artefact) example sett](/setts/s6/g106w2r40k2w4r14-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Masai Shuka 10 (Artefact)](/setts/s6/g53w1r20k1w2r7~g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Masai Shuka 10 (Artefact) example sett](/setts/s6/g53w1r20k1w2r7~g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

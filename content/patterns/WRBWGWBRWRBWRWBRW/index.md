@@ -16,5 +16,5 @@ WRBWGWBRWRBWRWBRW
 
 | Tartans |
 |---------------|
-| [Jacobite](/setts/s17/w4r8b8w4g36w4b8r8w4r8b8w4ra36w4b8r8w4-b2c4084-g005020-rdc0000-rafa4b00-we0e0e0/)|
-|![Jacobite example sett](/setts/s17/w4r8b8w4g36w4b8r8w4r8b8w4ra36w4b8r8w4-b2c4084-g005020-rdc0000-rafa4b00-we0e0e0/sett.png)|
+| [Jacobite](/setts/s17/w1r2b2w1g9w1b2r2w1r2b2w1ra9w1b2r2w1~b2c4084-g005020-rdc0000-rafa4b00-we0e0e0~x4/)|
+|![Jacobite example sett](/setts/s17/w1r2b2w1g9w1b2r2w1r2b2w1ra9w1b2r2w1~b2c4084-g005020-rdc0000-rafa4b00-we0e0e0~x4/sett.png)|

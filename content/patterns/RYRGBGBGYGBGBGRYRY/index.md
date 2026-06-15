@@ -16,5 +16,5 @@ RYRGBGBGYGBGBGRYRY
 
 | Tartans |
 |---------------|
-| [Rice of Wales](/setts/s18/r42y2r42g16b8g10b8g8y8g8b8g10b8g16r42y2r42y8-b202060-g5c6428-r901c38-ybc8c00/)|
-|![Rice of Wales example sett](/setts/s18/r42y2r42g16b8g10b8g8y8g8b8g10b8g16r42y2r42y8-b202060-g5c6428-r901c38-ybc8c00/sett.png)|
+| [Rice of Wales](/setts/s18/r21y1r21g8b4g5b4g4y4g4b4g5b4g8r21y1r21y4~b202060-g5c6428-r901c38-ybc8c00~x2/)|
+|![Rice of Wales example sett](/setts/s18/r21y1r21g8b4g5b4g4y4g4b4g5b4g8r21y1r21y4~b202060-g5c6428-r901c38-ybc8c00~x2/sett.png)|

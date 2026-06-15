@@ -6,7 +6,7 @@ RBRBRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12w6r34b6r6b50r6-b003c64-rc80000-wffffff/tartan.png)
+![Woven sample](/setts/s7/r6w3r17b3r3b25r3~b003c64-rc80000-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBRBRWR
 
 | Tartans |
 |---------------|
-| [Bon Accord](/setts/s7/r12w6r34b6r6b50r6-b003c64-rc80000-wffffff/)|
-|![Bon Accord example sett](/setts/s7/r12w6r34b6r6b50r6-b003c64-rc80000-wffffff/sett.png)|
-| [Bon Accord (District)](/setts/s7/r12w6r34b6r6b50r6-b003c64-rc80000-wfcfcfc/)|
-|![Bon Accord (District) example sett](/setts/s7/r12w6r34b6r6b50r6-b003c64-rc80000-wfcfcfc/sett.png)|
+| [Bon Accord](/setts/s7/r6w3r17b3r3b25r3~b003c64-rc80000-wffffff~x2/)|
+|![Bon Accord example sett](/setts/s7/r6w3r17b3r3b25r3~b003c64-rc80000-wffffff~x2/sett.png)|
+| [Bon Accord (District)](/setts/s7/r6w3r17b3r3b25r3~b003c64-rc80000-wfcfcfc~x2/)|
+|![Bon Accord (District) example sett](/setts/s7/r6w3r17b3r3b25r3~b003c64-rc80000-wfcfcfc~x2/sett.png)|

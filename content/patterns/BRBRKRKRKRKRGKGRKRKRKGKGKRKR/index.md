@@ -16,7 +16,7 @@ BRBRKRKRKRKRGKGRKRKRKGKGKRKR
 
 | Tartans |
 |---------------|
-| [MacInroy #2](/setts/s28/r36k6r6k22g18k4g18k22r4k22r6k6r18g4k6g4r18k6r6k22r4k22r6k6r36b4r6b4-b2c4084-g005020-k101010-rdc0000/)|
-|![MacInroy #2 example sett](/setts/s28/r36k6r6k22g18k4g18k22r4k22r6k6r18g4k6g4r18k6r6k22r4k22r6k6r36b4r6b4-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [MacInroy](/setts/s28/r36k6r6k22g18k4g18k22r4k22r6k6r18g4k6g4r18k6r6k22r4k22r6k6r36b4r6b4-b304080-g008000-k000000-rc00000/)|
-|![MacInroy example sett](/setts/s28/r36k6r6k22g18k4g18k22r4k22r6k6r18g4k6g4r18k6r6k22r4k22r6k6r36b4r6b4-b304080-g008000-k000000-rc00000/sett.png)|
+| [MacInroy #2](/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18b2r3b2~b2c4084-g005020-k101010-rdc0000~x2/)|
+|![MacInroy #2 example sett](/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18b2r3b2~b2c4084-g005020-k101010-rdc0000~x2/sett.png)|
+| [MacInroy](/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18b2r3b2~b304080-g008000-k000000-rc00000~x2/)|
+|![MacInroy example sett](/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18b2r3b2~b304080-g008000-k000000-rc00000~x2/sett.png)|

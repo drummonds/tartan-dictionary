@@ -16,5 +16,5 @@ BRYRYRBKBKBK
 
 | Tartans |
 |---------------|
-| [Falkirk](/setts/s12/b16r54y4ra6y4r54b44k4b8k4b8k8-b304080-k000000-r806050-rac00000-yf0c000/)|
-|![Falkirk example sett](/setts/s12/b16r54y4ra6y4r54b44k4b8k4b8k8-b304080-k000000-r806050-rac00000-yf0c000/sett.png)|
+| [Falkirk](/setts/s12/b8r27y2ra3y2r27b22k2b4k2b4k4~b304080-k000000-r806050-rac00000-yf0c000~x2/)|
+|![Falkirk example sett](/setts/s12/b8r27y2ra3y2r27b22k2b4k2b4k4~b304080-k000000-r806050-rac00000-yf0c000~x2/sett.png)|

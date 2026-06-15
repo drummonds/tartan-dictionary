@@ -6,7 +6,7 @@ KKKRKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8k24k6r14k52r6-k000030-r806050/tartan.png)
+![Woven sample](/setts/s6/k4k12k3r7k26r3~k000030-r806050~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KKKRKR
 
 | Tartans |
 |---------------|
-| [Crombie House Check](/setts/s6/k8k24k6r14k52r6-k000030-r806050/)|
-|![Crombie House Check example sett](/setts/s6/k8k24k6r14k52r6-k000030-r806050/sett.png)|
+| [Crombie House Check](/setts/s6/k4k12k3r7k26r3~k000030-r806050~x2/)|
+|![Crombie House Check example sett](/setts/s6/k4k12k3r7k26r3~k000030-r806050~x2/sett.png)|

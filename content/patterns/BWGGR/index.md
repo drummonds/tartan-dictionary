@@ -6,7 +6,7 @@ BWGGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b24w4g24ga48r8-b141e46-g503c14-ga2a2303-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b6w1g6ga12r2~b141e46-g503c14-ga2a2303-rdc0000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWGGR
 
 | Tartans |
 |---------------|
-| [Vass (Personal)](/setts/s5/b24w4g24ga48r8-b141e46-g503c14-ga2a2303-rdc0000-we0e0e0/)|
-|![Vass (Personal) example sett](/setts/s5/b24w4g24ga48r8-b141e46-g503c14-ga2a2303-rdc0000-we0e0e0/sett.png)|
+| [Vass (Personal)](/setts/s5/b6w1g6ga12r2~b141e46-g503c14-ga2a2303-rdc0000-we0e0e0~x4/)|
+|![Vass (Personal) example sett](/setts/s5/b6w1g6ga12r2~b141e46-g503c14-ga2a2303-rdc0000-we0e0e0~x4/sett.png)|

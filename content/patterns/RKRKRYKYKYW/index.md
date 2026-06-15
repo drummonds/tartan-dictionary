@@ -16,5 +16,5 @@ RKRKRYKYKYW
 
 | Tartans |
 |---------------|
-| [Lunch with an Old Bag (Fundraising Committee)](/setts/s11/r6k30r4k4r12y32k6y4k6y18w4-k101010-rec34c4-wffffff-yb8b8b8/)|
-|![Lunch with an Old Bag (Fundraising Committee) example sett](/setts/s11/r6k30r4k4r12y32k6y4k6y18w4-k101010-rec34c4-wffffff-yb8b8b8/sett.png)|
+| [Lunch with an Old Bag (Fundraising Committee)](/setts/s11/r3k15r2k2r6y16k3y2k3y9w2~k101010-rec34c4-wffffff-yb8b8b8~x2/)|
+|![Lunch with an Old Bag (Fundraising Committee) example sett](/setts/s11/r3k15r2k2r6y16k3y2k3y9w2~k101010-rec34c4-wffffff-yb8b8b8~x2/sett.png)|

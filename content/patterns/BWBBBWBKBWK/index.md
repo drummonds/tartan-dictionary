@@ -16,5 +16,5 @@ BWBBBWBKBWK
 
 | Tartans |
 |---------------|
-| [MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b46w4b6ba8b6w4b10k22bb4w46k6-b2c2c80-ba2888c4-bb8c008c-k101010-we0e0e0/)|
-|![MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b46w4b6ba8b6w4b10k22bb4w46k6-b2c2c80-ba2888c4-bb8c008c-k101010-we0e0e0/sett.png)|
+| [MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/b23w2b3ba4b3w2b5k11bb2w23k3~b2c2c80-ba2888c4-bb8c008c-k101010-we0e0e0~x2/)|
+|![MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/b23w2b3ba4b3w2b5k11bb2w23k3~b2c2c80-ba2888c4-bb8c008c-k101010-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ BYBGGWGGBYBR
 
 | Tartans |
 |---------------|
-| [Wagland](/setts/s12/b12y4b30g24ga78w6ga78g24b30y4b12r6-b2c2c80-g006818-ga285800-rc80000-we0e0e0-ye8c000/)|
-|![Wagland example sett](/setts/s12/b12y4b30g24ga78w6ga78g24b30y4b12r6-b2c2c80-g006818-ga285800-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Wagland](/setts/s12/b6y2b15g12ga39w3ga39g12b15y2b6r3~b2c2c80-g006818-ga285800-rc80000-we0e0e0-ye8c000~x2/)|
+|![Wagland example sett](/setts/s12/b6y2b15g12ga39w3ga39g12b15y2b6r3~b2c2c80-g006818-ga285800-rc80000-we0e0e0-ye8c000~x2/sett.png)|

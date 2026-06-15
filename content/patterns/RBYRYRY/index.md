@@ -6,7 +6,7 @@ RBYRYRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r160b32y32r16y4r16ya32-b202060-r800028-yd09800-yab8b8b8/tartan.png)
+![Woven sample](/setts/s7/r40b8y8r4y1r4ya8~b202060-r800028-yd09800-yab8b8b8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBYRYRY
 
 | Tartans |
 |---------------|
-| [Wcwm 4907-1](/setts/s7/r160b32y32r16y4r16ya32-b202060-r800028-yd09800-yab8b8b8/)|
-|![Wcwm 4907-1 example sett](/setts/s7/r160b32y32r16y4r16ya32-b202060-r800028-yd09800-yab8b8b8/sett.png)|
+| [Wcwm 4907-1](/setts/s7/r40b8y8r4y1r4ya8~b202060-r800028-yd09800-yab8b8b8~x4/)|
+|![Wcwm 4907-1 example sett](/setts/s7/r40b8y8r4y1r4ya8~b202060-r800028-yd09800-yab8b8b8~x4/sett.png)|

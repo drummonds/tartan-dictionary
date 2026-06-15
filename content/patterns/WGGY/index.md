@@ -6,7 +6,7 @@ WGGY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/w18g104ga30y8-g5c6428-ga604000-wc0c0c0-yfccc00/tartan.png)
+![Woven sample](/setts/s4/w9g52ga15y4~g5c6428-ga604000-wc0c0c0-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGGY
 
 | Tartans |
 |---------------|
-| [McGuigan, Julia (Personal)](/setts/s4/w18g104ga30y8-g5c6428-ga604000-wc0c0c0-yfccc00/)|
-|![McGuigan, Julia (Personal) example sett](/setts/s4/w18g104ga30y8-g5c6428-ga604000-wc0c0c0-yfccc00/sett.png)|
+| [McGuigan, Julia (Personal)](/setts/s4/w9g52ga15y4~g5c6428-ga604000-wc0c0c0-yfccc00~x2/)|
+|![McGuigan, Julia (Personal) example sett](/setts/s4/w9g52ga15y4~g5c6428-ga604000-wc0c0c0-yfccc00~x2/sett.png)|

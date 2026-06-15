@@ -16,5 +16,5 @@ BYBBBBBBYBBBBBBY
 
 | Tartans |
 |---------------|
-| [Orlando Police Department](/setts/s16/b48y4ba64b4ba4b56ba12b56y4b56ba12b56ba4b4ba64y4-b2c2c80-ba2888c4-ye8c000/)|
-|![Orlando Police Department example sett](/setts/s16/b48y4ba64b4ba4b56ba12b56y4b56ba12b56ba4b4ba64y4-b2c2c80-ba2888c4-ye8c000/sett.png)|
+| [Orlando Police Department](/setts/s16/b12y1ba16b1ba1b14ba3b14y1b14ba3b14ba1b1ba16y1~b2c2c80-ba2888c4-ye8c000~x4/)|
+|![Orlando Police Department example sett](/setts/s16/b12y1ba16b1ba1b14ba3b14y1b14ba3b14ba1b1ba16y1~b2c2c80-ba2888c4-ye8c000~x4/sett.png)|

@@ -6,7 +6,7 @@ RBKWGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r2b38k20w1g20r2-b141e46-g003c14-k101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r2b38k20w1g20r2~b141e46-g003c14-k101010-rdc0000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKWGR
 
 | Tartans |
 |---------------|
-| [Waterfront](/setts/s6/r2b38k20w1g20r2-b141e46-g003c14-k101010-rdc0000-we0e0e0/)|
-|![Waterfront example sett](/setts/s6/r2b38k20w1g20r2-b141e46-g003c14-k101010-rdc0000-we0e0e0/sett.png)|
+| [Waterfront](/setts/s6/r2b38k20w1g20r2~b141e46-g003c14-k101010-rdc0000-we0e0e0/)|
+|![Waterfront example sett](/setts/s6/r2b38k20w1g20r2~b141e46-g003c14-k101010-rdc0000-we0e0e0/sett.png)|

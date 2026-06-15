@@ -6,7 +6,7 @@ RWRGW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r78w18r6g18w6-g003820-r880000-we8ccb8/tartan.png)
+![Woven sample](/setts/s5/r13w3r1g3w1~g003820-r880000-we8ccb8~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWRGW
 
 | Tartans |
 |---------------|
-| [Glen Shiel (Fashion)](/setts/s5/r78w18r6g18w6-g003820-r880000-we8ccb8/)|
-|![Glen Shiel (Fashion) example sett](/setts/s5/r78w18r6g18w6-g003820-r880000-we8ccb8/sett.png)|
+| [Glen Shiel (Fashion)](/setts/s5/r13w3r1g3w1~g003820-r880000-we8ccb8~x6/)|
+|![Glen Shiel (Fashion) example sett](/setts/s5/r13w3r1g3w1~g003820-r880000-we8ccb8~x6/sett.png)|

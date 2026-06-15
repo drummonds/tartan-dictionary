@@ -16,5 +16,5 @@ BGGGBGBGGGR
 
 | Tartans |
 |---------------|
-| [Buchanan Hunting](/setts/s11/b6g28ga28g4b28g4b28g4ga28g28r6-b2c4084-g503c14-ga005020-rdc0000/)|
-|![Buchanan Hunting example sett](/setts/s11/b6g28ga28g4b28g4b28g4ga28g28r6-b2c4084-g503c14-ga005020-rdc0000/sett.png)|
+| [Buchanan Hunting](/setts/s11/b3g14ga14g2b14g2b14g2ga14g14r3~b2c4084-g503c14-ga005020-rdc0000~x2/)|
+|![Buchanan Hunting example sett](/setts/s11/b3g14ga14g2b14g2b14g2ga14g14r3~b2c4084-g503c14-ga005020-rdc0000~x2/sett.png)|

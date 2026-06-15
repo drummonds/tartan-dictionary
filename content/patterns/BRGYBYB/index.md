@@ -6,7 +6,7 @@ BRGYBYB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b36y16b4y16g60r16b4-b440044-g00801c-rc8002c-ye08070/tartan.png)
+![Woven sample](/setts/s7/b9y4b1y4g15r4b1~b440044-g00801c-rc8002c-ye08070~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGYBYB
 
 | Tartans |
 |---------------|
-| [Logan #3](/setts/s7/b36y16b4y16g60r16b4-b440044-g00801c-rc8002c-ye08070/)|
-|![Logan #3 example sett](/setts/s7/b36y16b4y16g60r16b4-b440044-g00801c-rc8002c-ye08070/sett.png)|
+| [Logan #3](/setts/s7/b9y4b1y4g15r4b1~b440044-g00801c-rc8002c-ye08070~x4/)|
+|![Logan #3 example sett](/setts/s7/b9y4b1y4g15r4b1~b440044-g00801c-rc8002c-ye08070~x4/sett.png)|

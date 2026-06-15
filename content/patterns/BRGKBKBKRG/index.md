@@ -16,9 +16,9 @@ BRGKBKBKRG
 
 | Tartans |
 |---------------|
-| [Famous Grouse, The](/setts/s10/b6r8g52k6b8k32b8k6r52g4-b64008c-g649848-k101010-ra00048/)|
-|![Famous Grouse, The example sett](/setts/s10/b6r8g52k6b8k32b8k6r52g4-b64008c-g649848-k101010-ra00048/sett.png)|
-| [Matthew Gloag & Son Ltd (Corporate)](/setts/s10/g6r40k4b6k24b6k4g40r6b4-b003c64-g006818-k101010-r880000/)|
-|![Matthew Gloag & Son Ltd (Corporate) example sett](/setts/s10/g6r40k4b6k24b6k4g40r6b4-b003c64-g006818-k101010-r880000/sett.png)|
-| [Matthew Gloag](/setts/s10/g6r40k4b6k26b6k4g40r6b4-b304080-g008000-k000000-rc00000/)|
-|![Matthew Gloag example sett](/setts/s10/g6r40k4b6k26b6k4g40r6b4-b304080-g008000-k000000-rc00000/sett.png)|
+| [Famous Grouse, The](/setts/s10/b3r4g26k3b4k16b4k3r26g2~b64008c-g649848-k101010-ra00048~x2/)|
+|![Famous Grouse, The example sett](/setts/s10/b3r4g26k3b4k16b4k3r26g2~b64008c-g649848-k101010-ra00048~x2/sett.png)|
+| [Matthew Gloag & Son Ltd (Corporate)](/setts/s10/g3r20k2b3k12b3k2g20r3b2~b003c64-g006818-k101010-r880000~x2/)|
+|![Matthew Gloag & Son Ltd (Corporate) example sett](/setts/s10/g3r20k2b3k12b3k2g20r3b2~b003c64-g006818-k101010-r880000~x2/sett.png)|
+| [Matthew Gloag](/setts/s10/g3r20k2b3k13b3k2g20r3b2~b304080-g008000-k000000-rc00000~x2/)|
+|![Matthew Gloag example sett](/setts/s10/g3r20k2b3k13b3k2g20r3b2~b304080-g008000-k000000-rc00000~x2/sett.png)|

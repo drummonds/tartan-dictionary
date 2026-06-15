@@ -6,7 +6,7 @@ GGRKBYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g6ga6r44k10b44y4w4-b2c2c80-g006818-ga289c18-k101010-rc80000-wf0d0b4-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g3ga3r22k5b22y2w2~b2c2c80-g006818-ga289c18-k101010-rc80000-wf0d0b4-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGRKBYW
 
 | Tartans |
 |---------------|
-| [MacLeod Soc. of Scotland, (Comm)](/setts/s7/g6ga6r44k10b44y4w4-b2c2c80-g006818-ga289c18-k101010-rc80000-wf0d0b4-ye8c000/)|
-|![MacLeod Soc. of Scotland, (Comm) example sett](/setts/s7/g6ga6r44k10b44y4w4-b2c2c80-g006818-ga289c18-k101010-rc80000-wf0d0b4-ye8c000/sett.png)|
+| [MacLeod Soc. of Scotland, (Comm)](/setts/s7/g3ga3r22k5b22y2w2~b2c2c80-g006818-ga289c18-k101010-rc80000-wf0d0b4-ye8c000~x2/)|
+|![MacLeod Soc. of Scotland, (Comm) example sett](/setts/s7/g3ga3r22k5b22y2w2~b2c2c80-g006818-ga289c18-k101010-rc80000-wf0d0b4-ye8c000~x2/sett.png)|

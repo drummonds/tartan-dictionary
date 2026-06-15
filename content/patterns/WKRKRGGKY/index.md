@@ -16,5 +16,5 @@ WKRKRGGKY
 
 | Tartans |
 |---------------|
-| [Thirkill](/setts/s9/w8k4r30k4r10g14ga14k4y8-g5c6428-ga003820-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Thirkill example sett](/setts/s9/w8k4r30k4r10g14ga14k4y8-g5c6428-ga003820-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Thirkill](/setts/s9/w4k2r15k2r5g7ga7k2y4~g5c6428-ga003820-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Thirkill example sett](/setts/s9/w4k2r15k2r5g7ga7k2y4~g5c6428-ga003820-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

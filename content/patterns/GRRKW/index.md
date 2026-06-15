@@ -6,7 +6,7 @@ GRRKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/g50r1ra20k2w1~g006818-k101010-rc80000-ra880000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRRKW
 
 | Tartans |
 |---------------|
-| [Kenspeckle](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/)|
-|![Kenspeckle example sett](/setts/s5/g100r2ra40k4w2-g006818-k101010-rc80000-ra880000-we0e0e0/sett.png)|
+| [Kenspeckle](/setts/s5/g50r1ra20k2w1~g006818-k101010-rc80000-ra880000-we0e0e0~x2/)|
+|![Kenspeckle example sett](/setts/s5/g50r1ra20k2w1~g006818-k101010-rc80000-ra880000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ GWR
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/g120w8r20-g5c6428-r901c38-wfcfcfc/tartan.png)
+![Woven sample](/setts/s3/g30w2r5~g5c6428-r901c38-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GWR
 
 | Tartans |
 |---------------|
-| [S3](/setts/s3/g120w8r20-g5c6428-r901c38-wfcfcfc/)|
-|![S3 example sett](/setts/s3/g120w8r20-g5c6428-r901c38-wfcfcfc/sett.png)|
-| [Juchter (Personal)](/setts/s3/g40w10r6-g003820-rc80000-we0e0e0/)|
-|![Juchter (Personal) example sett](/setts/s3/g40w10r6-g003820-rc80000-we0e0e0/sett.png)|
+| [S3](/setts/s3/g30w2r5~g5c6428-r901c38-wfcfcfc~x4/)|
+|![S3 example sett](/setts/s3/g30w2r5~g5c6428-r901c38-wfcfcfc~x4/sett.png)|
+| [Juchter (Personal)](/setts/s3/g20w5r3~g003820-rc80000-we0e0e0~x2/)|
+|![Juchter (Personal) example sett](/setts/s3/g20w5r3~g003820-rc80000-we0e0e0~x2/sett.png)|

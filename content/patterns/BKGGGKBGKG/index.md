@@ -16,5 +16,5 @@ BKGGGKBGKG
 
 | Tartans |
 |---------------|
-| [Verdon](/setts/s10/b144k12g12ga4g12k12b16g24k4ga8-b1c1c1c-g285800-ga289c18-k101010/)|
-|![Verdon example sett](/setts/s10/b144k12g12ga4g12k12b16g24k4ga8-b1c1c1c-g285800-ga289c18-k101010/sett.png)|
+| [Verdon](/setts/s10/b36k3g3ga1g3k3b4g6k1ga2~b1c1c1c-g285800-ga289c18-k101010~x4/)|
+|![Verdon example sett](/setts/s10/b36k3g3ga1g3k3b4g6k1ga2~b1c1c1c-g285800-ga289c18-k101010~x4/sett.png)|

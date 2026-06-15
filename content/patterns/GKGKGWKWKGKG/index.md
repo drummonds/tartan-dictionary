@@ -16,5 +16,5 @@ GKGKGWKWKGKG
 
 | Tartans |
 |---------------|
-| [Grey Watch](/setts/s12/g50k8g8k8g8w40k10w40k40g8k8g8-g808080-k000000-we0e0e0/)|
-|![Grey Watch example sett](/setts/s12/g50k8g8k8g8w40k10w40k40g8k8g8-g808080-k000000-we0e0e0/sett.png)|
+| [Grey Watch](/setts/s12/g25k4g4k4g4w20k5w20k20g4k4g4~g808080-k000000-we0e0e0~x2/)|
+|![Grey Watch example sett](/setts/s12/g25k4g4k4g4w20k5w20k20g4k4g4~g808080-k000000-we0e0e0~x2/sett.png)|

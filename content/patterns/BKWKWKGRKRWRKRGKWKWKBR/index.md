@@ -16,5 +16,5 @@ BKWKWKGRKRWRKRGKWKWKBR
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart - Prince Charles Edward](/setts/s22/r32b20k28w4k8w6k8g52r22k8r8w4r8k8r22g52k8w6k8w4k28b20-b5c8ca8-g006818-k101010-rc80000-we0e0e0/)|
-|![Stewart/Stuart - Prince Charles Edward example sett](/setts/s22/r32b20k28w4k8w6k8g52r22k8r8w4r8k8r22g52k8w6k8w4k28b20-b5c8ca8-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Stewart/Stuart - Prince Charles Edward](/setts/s22/r16b10k14w2k4w3k4g26r11k4r4w2r4k4r11g26k4w3k4w2k14b10~b5c8ca8-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Stewart/Stuart - Prince Charles Edward example sett](/setts/s22/r16b10k14w2k4w3k4g26r11k4r4w2r4k4r11g26k4w3k4w2k14b10~b5c8ca8-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

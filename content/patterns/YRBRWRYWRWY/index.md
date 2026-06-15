@@ -16,5 +16,5 @@ YRBRWRYWRWY
 
 | Tartans |
 |---------------|
-| [Nevis Dress](/setts/s11/y84r20b4r4w4r4y20w12r4w6y4-b646464-r8c0000-wc8c8c8-yd0908c/)|
-|![Nevis Dress example sett](/setts/s11/y84r20b4r4w4r4y20w12r4w6y4-b646464-r8c0000-wc8c8c8-yd0908c/sett.png)|
+| [Nevis Dress](/setts/s11/y42r10b2r2w2r2y10w6r2w3y2~b646464-r8c0000-wc8c8c8-yd0908c~x2/)|
+|![Nevis Dress example sett](/setts/s11/y42r10b2r2w2r2y10w6r2w3y2~b646464-r8c0000-wc8c8c8-yd0908c~x2/sett.png)|

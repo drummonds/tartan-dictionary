@@ -16,5 +16,5 @@ GWGKRYYWGGK
 
 | Tartans |
 |---------------|
-| [International Bear Pride](/setts/s11/k70g22ga6w2y6ya2r10k10ga4w4g44-g603800-ga808080-k000000-rbe7832-wffffff-yf8e38c-yae0a126/)|
-|![International Bear Pride example sett](/setts/s11/k70g22ga6w2y6ya2r10k10ga4w4g44-g603800-ga808080-k000000-rbe7832-wffffff-yf8e38c-yae0a126/sett.png)|
+| [International Bear Pride](/setts/s11/k35g11ga3w1y3ya1r5k5ga2w2g22~g603800-ga808080-k000000-rbe7832-wffffff-yf8e38c-yae0a126~x2/)|
+|![International Bear Pride example sett](/setts/s11/k35g11ga3w1y3ya1r5k5ga2w2g22~g603800-ga808080-k000000-rbe7832-wffffff-yf8e38c-yae0a126~x2/sett.png)|

@@ -6,7 +6,7 @@ GBGBWBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g44b44g6b22w6b8w6-b780078-g006818-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/g22b22g3b11w3b4w3~b780078-g006818-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBWBW
 
 | Tartans |
 |---------------|
-| [O'Long (Personal)](/setts/s7/g44b44g6b22w6b8w6-b780078-g006818-we0e0e0/)|
-|![O'Long (Personal) example sett](/setts/s7/g44b44g6b22w6b8w6-b780078-g006818-we0e0e0/sett.png)|
+| [O'Long (Personal)](/setts/s7/g22b22g3b11w3b4w3~b780078-g006818-we0e0e0~x2/)|
+|![O'Long (Personal) example sett](/setts/s7/g22b22g3b11w3b4w3~b780078-g006818-we0e0e0~x2/sett.png)|

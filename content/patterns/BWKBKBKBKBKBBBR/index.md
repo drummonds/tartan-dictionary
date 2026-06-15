@@ -16,5 +16,5 @@ BWKBKBKBKBKBBBR
 
 | Tartans |
 |---------------|
-| [Passion of Scotland, Purple (Fashion](/setts/s15/b14w2k6ba6k6b6k26ba4k4ba4k4ba46bb6ba4r4-b1c1c50-ba54204c-bb1c0070-k101010-r9c68a4-we0e0e0/)|
-|![Passion of Scotland, Purple (Fashion example sett](/setts/s15/b14w2k6ba6k6b6k26ba4k4ba4k4ba46bb6ba4r4-b1c1c50-ba54204c-bb1c0070-k101010-r9c68a4-we0e0e0/sett.png)|
+| [Passion of Scotland, Purple (Fashion](/setts/s15/b7w1k3ba3k3b3k13ba2k2ba2k2ba23bb3ba2r2~b1c1c50-ba54204c-bb1c0070-k101010-r9c68a4-we0e0e0~x2/)|
+|![Passion of Scotland, Purple (Fashion example sett](/setts/s15/b7w1k3ba3k3b3k13ba2k2ba2k2ba23bb3ba2r2~b1c1c50-ba54204c-bb1c0070-k101010-r9c68a4-we0e0e0~x2/sett.png)|

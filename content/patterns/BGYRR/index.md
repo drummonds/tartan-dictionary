@@ -6,7 +6,7 @@ BGYRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b30g30y22r34ra30-b1870a4-g006818-rc80000-rac04094-yd87c00/tartan.png)
+![Woven sample](/setts/s5/b15g15y11r17ra15~b1870a4-g006818-rc80000-rac04094-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYRR
 
 | Tartans |
 |---------------|
-| [Highland Princess, The](/setts/s5/b30g30y22r34ra30-b1870a4-g006818-rc80000-rac04094-yd87c00/)|
-|![Highland Princess, The example sett](/setts/s5/b30g30y22r34ra30-b1870a4-g006818-rc80000-rac04094-yd87c00/sett.png)|
+| [Highland Princess, The](/setts/s5/b15g15y11r17ra15~b1870a4-g006818-rc80000-rac04094-yd87c00~x2/)|
+|![Highland Princess, The example sett](/setts/s5/b15g15y11r17ra15~b1870a4-g006818-rc80000-rac04094-yd87c00~x2/sett.png)|

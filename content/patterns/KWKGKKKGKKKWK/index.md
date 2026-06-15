@@ -16,5 +16,5 @@ KWKGKKKGKKKWK
 
 | Tartans |
 |---------------|
-| [Chess](/setts/s13/k6w6k48g6k6ka48k6g48k6ka6k48w6k6-g004000-k101010-ka000040-wffffff/)|
-|![Chess example sett](/setts/s13/k6w6k48g6k6ka48k6g48k6ka6k48w6k6-g004000-k101010-ka000040-wffffff/sett.png)|
+| [Chess](/setts/s13/k1w1k8g1k1ka8k1g8k1ka1k8w1k1~g004000-k101010-ka000040-wffffff~x6/)|
+|![Chess example sett](/setts/s13/k1w1k8g1k1ka8k1g8k1ka1k8w1k1~g004000-k101010-ka000040-wffffff~x6/sett.png)|

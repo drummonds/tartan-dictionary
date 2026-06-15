@@ -16,5 +16,5 @@ BYYBBBBBGBBBG
 
 | Tartans |
 |---------------|
-| [ENABLE Scotland](/setts/s13/g6b6ba4bb28g32ba36b4ba6b28bb8y6ya2b4-b5c5c5c-ba440044-bb2c2c80-g408060-ye8c000-yad87c00/)|
-|![ENABLE Scotland example sett](/setts/s13/g6b6ba4bb28g32ba36b4ba6b28bb8y6ya2b4-b5c5c5c-ba440044-bb2c2c80-g408060-ye8c000-yad87c00/sett.png)|
+| [ENABLE Scotland](/setts/s13/g3b3ba2bb14g16ba18b2ba3b14bb4y3ya1b2~b5c5c5c-ba440044-bb2c2c80-g408060-ye8c000-yad87c00~x2/)|
+|![ENABLE Scotland example sett](/setts/s13/g3b3ba2bb14g16ba18b2ba3b14bb4y3ya1b2~b5c5c5c-ba440044-bb2c2c80-g408060-ye8c000-yad87c00~x2/sett.png)|

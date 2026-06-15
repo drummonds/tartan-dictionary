@@ -16,5 +16,5 @@ GGBGBGBBW
 
 | Tartans |
 |---------------|
-| [Cowal Gathering](/setts/s9/g8ga32b4ga4b4ga4b32ba40w4-b102040-ba304080-g003000-ga407050-we0e0e0/)|
-|![Cowal Gathering example sett](/setts/s9/g8ga32b4ga4b4ga4b32ba40w4-b102040-ba304080-g003000-ga407050-we0e0e0/sett.png)|
+| [Cowal Gathering](/setts/s9/g2ga8b1ga1b1ga1b8ba10w1~b102040-ba304080-g003000-ga407050-we0e0e0~x4/)|
+|![Cowal Gathering example sett](/setts/s9/g2ga8b1ga1b1ga1b8ba10w1~b102040-ba304080-g003000-ga407050-we0e0e0~x4/sett.png)|

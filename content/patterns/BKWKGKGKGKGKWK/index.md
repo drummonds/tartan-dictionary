@@ -16,5 +16,5 @@ BKWKGKGKGKGKWK
 
 | Tartans |
 |---------------|
-| [Hartmann (Personal)](/setts/s14/k16w6k16g8k8g64k8g64k8g8k16w6k16b8-b2888c4-g006818-k101010-we0e0e0/)|
-|![Hartmann (Personal) example sett](/setts/s14/k16w6k16g8k8g64k8g64k8g8k16w6k16b8-b2888c4-g006818-k101010-we0e0e0/sett.png)|
+| [Hartmann (Personal)](/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8b4~b2888c4-g006818-k101010-we0e0e0~x2/)|
+|![Hartmann (Personal) example sett](/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8b4~b2888c4-g006818-k101010-we0e0e0~x2/sett.png)|

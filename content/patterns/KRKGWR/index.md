@@ -6,7 +6,7 @@ KRKGWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r2w12g1k12ra12k1~g789484-k101010-rc80000-ra98481c-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKGWR
 
 | Tartans |
 |---------------|
-| [Dutch Dress](/setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/)|
-|![Dutch Dress example sett](/setts/s6/r4w24g2k24ra24k2-g789484-k101010-rc80000-ra98481c-we0e0e0/sett.png)|
+| [Dutch Dress](/setts/s6/r2w12g1k12ra12k1~g789484-k101010-rc80000-ra98481c-we0e0e0~x2/)|
+|![Dutch Dress example sett](/setts/s6/r2w12g1k12ra12k1~g789484-k101010-rc80000-ra98481c-we0e0e0~x2/sett.png)|

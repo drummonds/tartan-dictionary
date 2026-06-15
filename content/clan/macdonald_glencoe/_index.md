@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s5/k74w18k6g18w6-g008000-k000000-we0e0e0/"><img src="/setts/s5/k74w18k6g18w6-g008000-k000000-we0e0e0/sett.png" alt="Glencoe" width="240"><br>Glencoe</a>
+<a class="tartan" href="/setts/s5/k37w9k3g9w3~g008000-k000000-we0e0e0~x2/"><img src="/setts/s5/k37w9k3g9w3~g008000-k000000-we0e0e0~x2/sett.png" alt="Glencoe" width="240"><br>Glencoe</a>
 

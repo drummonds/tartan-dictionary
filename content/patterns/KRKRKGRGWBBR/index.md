@@ -16,5 +16,5 @@ KRKRKGRGWBBR
 
 | Tartans |
 |---------------|
-| [Princess Diana](/setts/s12/k28r4k4r4k4g36r4g36w2b24ba2r16-b00008c-ba788cb4-g007800-k000000-r8c0000-wc8c8c8/)|
-|![Princess Diana example sett](/setts/s12/k28r4k4r4k4g36r4g36w2b24ba2r16-b00008c-ba788cb4-g007800-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Princess Diana](/setts/s12/k14r2k2r2k2g18r2g18w1b12ba1r8~b00008c-ba788cb4-g007800-k000000-r8c0000-wc8c8c8~x2/)|
+|![Princess Diana example sett](/setts/s12/k14r2k2r2k2g18r2g18w1b12ba1r8~b00008c-ba788cb4-g007800-k000000-r8c0000-wc8c8c8~x2/sett.png)|

@@ -6,7 +6,7 @@ BGBRKGKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/tartan.png)
+![Woven sample](/setts/s8/b10g3b10r3k21ga20k15r3~b1a2b47-g75786c-ga052f14-k120a01-r89051b~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRKGKR
 
 | Tartans |
 |---------------|
-| [Williamson/Smart](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/)|
-|![Williamson/Smart example sett](/setts/s8/b20g6b20r6k42ga40k30r6-b1a2b47-g75786c-ga052f14-k120a01-r89051b/sett.png)|
+| [Williamson/Smart](/setts/s8/b10g3b10r3k21ga20k15r3~b1a2b47-g75786c-ga052f14-k120a01-r89051b~x2/)|
+|![Williamson/Smart example sett](/setts/s8/b10g3b10r3k21ga20k15r3~b1a2b47-g75786c-ga052f14-k120a01-r89051b~x2/sett.png)|

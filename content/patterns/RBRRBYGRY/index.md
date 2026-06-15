@@ -16,5 +16,5 @@ RBRRBYGRY
 
 | Tartans |
 |---------------|
-| [Down](/setts/s9/r130b18ra22r10ba4y4g10r4y26-b401000-ba5480b0-g808080-r806050-rac00000-yd09060/)|
-|![Down example sett](/setts/s9/r130b18ra22r10ba4y4g10r4y26-b401000-ba5480b0-g808080-r806050-rac00000-yd09060/sett.png)|
+| [Down](/setts/s9/r65b9ra11r5ba2y2g5r2y13~b401000-ba5480b0-g808080-r806050-rac00000-yd09060~x2/)|
+|![Down example sett](/setts/s9/r65b9ra11r5ba2y2g5r2y13~b401000-ba5480b0-g808080-r806050-rac00000-yd09060~x2/sett.png)|

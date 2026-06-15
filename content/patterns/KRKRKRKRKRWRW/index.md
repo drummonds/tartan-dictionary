@@ -16,7 +16,7 @@ KRKRKRKRKRWRW
 
 | Tartans |
 |---------------|
-| [Jupiter Shop Channel Co Ltd](/setts/s13/k12r2k2r2k2r10k4r10k8r4w2r80w2-k101010-rfc68b4-wffffff/)|
-|![Jupiter Shop Channel Co Ltd example sett](/setts/s13/k12r2k2r2k2r10k4r10k8r4w2r80w2-k101010-rfc68b4-wffffff/sett.png)|
-| [Jupiter Shop Channel Co., Ltd (Corp)](/setts/s13/k12r2k2r2k2r10k4r10k8r4w2r80w2-k101010-rc80000-wfcfcfc/)|
-|![Jupiter Shop Channel Co., Ltd (Corp) example sett](/setts/s13/k12r2k2r2k2r10k4r10k8r4w2r80w2-k101010-rc80000-wfcfcfc/sett.png)|
+| [Jupiter Shop Channel Co Ltd](/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~k101010-rfc68b4-wffffff~x2/)|
+|![Jupiter Shop Channel Co Ltd example sett](/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~k101010-rfc68b4-wffffff~x2/sett.png)|
+| [Jupiter Shop Channel Co., Ltd (Corp)](/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~k101010-rc80000-wfcfcfc~x2/)|
+|![Jupiter Shop Channel Co., Ltd (Corp) example sett](/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~k101010-rc80000-wfcfcfc~x2/sett.png)|

@@ -6,7 +6,7 @@ GWGWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g8w22g28wa60r8-g704400-rc80000-wb4c0c8-wac8c8bc/tartan.png)
+![Woven sample](/setts/s5/g4w11g14wa30r4~g704400-rc80000-wb4c0c8-wac8c8bc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGWR
 
 | Tartans |
 |---------------|
-| [Trinity Bicycles (Corporate)](/setts/s5/g8w22g28wa60r8-g704400-rc80000-wb4c0c8-wac8c8bc/)|
-|![Trinity Bicycles (Corporate) example sett](/setts/s5/g8w22g28wa60r8-g704400-rc80000-wb4c0c8-wac8c8bc/sett.png)|
+| [Trinity Bicycles (Corporate)](/setts/s5/g4w11g14wa30r4~g704400-rc80000-wb4c0c8-wac8c8bc~x2/)|
+|![Trinity Bicycles (Corporate) example sett](/setts/s5/g4w11g14wa30r4~g704400-rc80000-wb4c0c8-wac8c8bc~x2/sett.png)|

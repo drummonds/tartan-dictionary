@@ -16,7 +16,7 @@ BWBKRKYKR
 
 | Tartans |
 |---------------|
-| [Superstition Fire Honor Guard Pipes & Drums](/setts/s9/b24w2b4k6r30k2y4k78r4-b5f749c-k101010-rff0000-wffffff-ye0a126/)|
-|![Superstition Fire Honor Guard Pipes & Drums example sett](/setts/s9/b24w2b4k6r30k2y4k78r4-b5f749c-k101010-rff0000-wffffff-ye0a126/sett.png)|
-| [Superstition Fire Honor Guard Pipes](/setts/s9/b24w2b4k6r30k2y4k78r4-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Superstition Fire Honor Guard Pipes example sett](/setts/s9/b24w2b4k6r30k2y4k78r4-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Superstition Fire Honor Guard Pipes & Drums](/setts/s9/b12w1b2k3r15k1y2k39r2~b5f749c-k101010-rff0000-wffffff-ye0a126~x2/)|
+|![Superstition Fire Honor Guard Pipes & Drums example sett](/setts/s9/b12w1b2k3r15k1y2k39r2~b5f749c-k101010-rff0000-wffffff-ye0a126~x2/sett.png)|
+| [Superstition Fire Honor Guard Pipes](/setts/s9/b12w1b2k3r15k1y2k39r2~b2c2c80-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Superstition Fire Honor Guard Pipes example sett](/setts/s9/b12w1b2k3r15k1y2k39r2~b2c2c80-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

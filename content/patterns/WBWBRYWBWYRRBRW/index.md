@@ -16,5 +16,5 @@ WBWBRYWBWYRRBRW
 
 | Tartans |
 |---------------|
-| [Hudson Bay Company Artifact](/setts/s15/w18r28b22r6ra22y14w2b6w2y14r14b6w4ba4w4-b401000-ba8080d0-r806050-ra906030-we0e0e0-yf0c000/)|
-|![Hudson Bay Company Artifact example sett](/setts/s15/w18r28b22r6ra22y14w2b6w2y14r14b6w4ba4w4-b401000-ba8080d0-r806050-ra906030-we0e0e0-yf0c000/sett.png)|
+| [Hudson Bay Company Artifact](/setts/s15/w9r14b11r3ra11y7w1b3w1y7r7b3w2ba2w2~b401000-ba8080d0-r806050-ra906030-we0e0e0-yf0c000~x2/)|
+|![Hudson Bay Company Artifact example sett](/setts/s15/w9r14b11r3ra11y7w1b3w1y7r7b3w2ba2w2~b401000-ba8080d0-r806050-ra906030-we0e0e0-yf0c000~x2/sett.png)|

@@ -16,5 +16,5 @@ BYKYKWKRBKBW
 
 | Tartans |
 |---------------|
-| [Stevens #4](/setts/s12/b54y4k6ya4k4w4k4r12b6k4b4w4-b900090-k101010-r888888-wf8f8f8-ye8c000-yabc8c00/)|
-|![Stevens #4 example sett](/setts/s12/b54y4k6ya4k4w4k4r12b6k4b4w4-b900090-k101010-r888888-wf8f8f8-ye8c000-yabc8c00/sett.png)|
+| [Stevens #4](/setts/s12/b27y2k3ya2k2w2k2r6b3k2b2w2~b900090-k101010-r888888-wf8f8f8-ye8c000-yabc8c00~x2/)|
+|![Stevens #4 example sett](/setts/s12/b27y2k3ya2k2w2k2r6b3k2b2w2~b900090-k101010-r888888-wf8f8f8-ye8c000-yabc8c00~x2/sett.png)|

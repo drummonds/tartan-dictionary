@@ -16,5 +16,5 @@ BRBRBGYGKBRBRWRBRBKGYGBRBR
 
 | Tartans |
 |---------------|
-| [Hyndman](/setts/s26/b16r8b12r16b32g16y8g8k8b24r16b8r8w8r8b8r16b24k8g8y8g16b32r16b12r8-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Hyndman example sett](/setts/s26/b16r8b12r16b32g16y8g8k8b24r16b8r8w8r8b8r16b24k8g8y8g16b32r16b12r8-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Hyndman](/setts/s26/b4r2b3r4b8g4y2g2k2b6r4b2r2w2r2b2r4b6k2g2y2g4b8r4b3r2~b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/)|
+|![Hyndman example sett](/setts/s26/b4r2b3r4b8g4y2g2k2b6r4b2r2w2r2b2r4b6k2g2y2g4b8r4b3r2~b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/sett.png)|

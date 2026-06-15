@@ -16,5 +16,5 @@ BRBRBGGWGGBYRY
 
 | Tartans |
 |---------------|
-| [Allen - 2001 (Personal)](/setts/s14/b32r4b6r8b4g24ga36w4ga36g24b24y4r4y4-b14283c-g604000-ga006818-rc80000-wfcfcfc-ye8c000/)|
-|![Allen - 2001 (Personal) example sett](/setts/s14/b32r4b6r8b4g24ga36w4ga36g24b24y4r4y4-b14283c-g604000-ga006818-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Allen - 2001 (Personal)](/setts/s14/b16r2b3r4b2g12ga18w2ga18g12b12y2r2y2~b14283c-g604000-ga006818-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Allen - 2001 (Personal) example sett](/setts/s14/b16r2b3r4b2g12ga18w2ga18g12b12y2r2y2~b14283c-g604000-ga006818-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

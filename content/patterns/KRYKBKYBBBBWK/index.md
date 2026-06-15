@@ -16,5 +16,5 @@ KRYKBKYBBBBWK
 
 | Tartans |
 |---------------|
-| [Solberg-Bell Hunting](/setts/s13/k8r4y8k4b16k4y8ba32b8ba16b16w4k8-b2c4084-ba202060-k101010-r888888-we0e0e0-ya08858/)|
-|![Solberg-Bell Hunting example sett](/setts/s13/k8r4y8k4b16k4y8ba32b8ba16b16w4k8-b2c4084-ba202060-k101010-r888888-we0e0e0-ya08858/sett.png)|
+| [Solberg-Bell Hunting](/setts/s13/k2r1y2k1b4k1y2ba8b2ba4b4w1k2~b2c4084-ba202060-k101010-r888888-we0e0e0-ya08858~x4/)|
+|![Solberg-Bell Hunting example sett](/setts/s13/k2r1y2k1b4k1y2ba8b2ba4b4w1k2~b2c4084-ba202060-k101010-r888888-we0e0e0-ya08858~x4/sett.png)|

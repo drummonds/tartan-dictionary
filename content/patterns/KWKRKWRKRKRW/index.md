@@ -16,5 +16,5 @@ KWKRKWRKRKRW
 
 | Tartans |
 |---------------|
-| [Knights Templar Dress (Corporate)](/setts/s12/k100w8k20r4k4w4r4k28r22k4r8w4-k101010-rc80000-wf8f8f8/)|
-|![Knights Templar Dress (Corporate) example sett](/setts/s12/k100w8k20r4k4w4r4k28r22k4r8w4-k101010-rc80000-wf8f8f8/sett.png)|
+| [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~k101010-rc80000-wf8f8f8~x2/)|
+|![Knights Templar Dress (Corporate) example sett](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~k101010-rc80000-wf8f8f8~x2/sett.png)|

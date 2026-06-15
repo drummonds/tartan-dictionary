@@ -16,5 +16,5 @@ BKBGBGBKBRB
 
 | Tartans |
 |---------------|
-| [Dunbarton Weft](/setts/s11/b60r4b4k10b6g4b6g44b6k4b6-b0596fa-g503c14-k101010-rdc0000/)|
-|![Dunbarton Weft example sett](/setts/s11/b60r4b4k10b6g4b6g44b6k4b6-b0596fa-g503c14-k101010-rdc0000/sett.png)|
+| [Dunbarton Weft](/setts/s11/b30r2b2k5b3g2b3g22b3k2b3~b0596fa-g503c14-k101010-rdc0000~x2/)|
+|![Dunbarton Weft example sett](/setts/s11/b30r2b2k5b3g2b3g22b3k2b3~b0596fa-g503c14-k101010-rdc0000~x2/sett.png)|

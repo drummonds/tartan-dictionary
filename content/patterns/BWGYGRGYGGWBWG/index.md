@@ -16,5 +16,5 @@ BWGYGRGYGGWBWG
 
 | Tartans |
 |---------------|
-| [Freiburg](/setts/s14/b10w10g72y6g6r6g6y6g18ga16w6b6w6ga6-b2c4084-g808080-ga003c14-rdc0000-we0e0e0-ye8c000/)|
-|![Freiburg example sett](/setts/s14/b10w10g72y6g6r6g6y6g18ga16w6b6w6ga6-b2c4084-g808080-ga003c14-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Freiburg](/setts/s14/b5w5g36y3g3r3g3y3g9ga8w3b3w3ga3~b2c4084-g808080-ga003c14-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Freiburg example sett](/setts/s14/b5w5g36y3g3r3g3y3g9ga8w3b3w3ga3~b2c4084-g808080-ga003c14-rdc0000-we0e0e0-ye8c000~x2/sett.png)|

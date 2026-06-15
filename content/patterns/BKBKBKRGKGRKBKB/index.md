@@ -16,7 +16,7 @@ BKBKBKRGKGRKBKB
 
 | Tartans |
 |---------------|
-| [Fletcher](/setts/s15/b22k6b6k6b6k22r6g26k6g26r6k22b22k6b6-b2c4084-g005020-k101010-rdc0000/)|
-|![Fletcher example sett](/setts/s15/b22k6b6k6b6k22r6g26k6g26r6k22b22k6b6-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [Fletcher](/setts/s15/b22k6b6k6b6k22r6g26k6g26r6k22b22k6b6-b304080-g008000-k000000-rc00000/)|
-|![Fletcher example sett](/setts/s15/b22k6b6k6b6k22r6g26k6g26r6k22b22k6b6-b304080-g008000-k000000-rc00000/sett.png)|
+| [Fletcher](/setts/s15/b11k3b3k3b3k11r3g13k3g13r3k11b11k3b3~b2c4084-g005020-k101010-rdc0000~x2/)|
+|![Fletcher example sett](/setts/s15/b11k3b3k3b3k11r3g13k3g13r3k11b11k3b3~b2c4084-g005020-k101010-rdc0000~x2/sett.png)|
+| [Fletcher](/setts/s15/b11k3b3k3b3k11r3g13k3g13r3k11b11k3b3~b304080-g008000-k000000-rc00000~x2/)|
+|![Fletcher example sett](/setts/s15/b11k3b3k3b3k11r3g13k3g13r3k11b11k3b3~b304080-g008000-k000000-rc00000~x2/sett.png)|

@@ -16,5 +16,5 @@ YYGBYWGWRGRYY
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Red (Personal)](/setts/s13/y4ya2r84g4r12w2g2w2y8b8g2ya2y2-b507898-g289c18-rc80000-wfcfcec-yec8048-yae8c000/)|
-|![Kerr of Ardgowan Red (Personal) example sett](/setts/s13/y4ya2r84g4r12w2g2w2y8b8g2ya2y2-b507898-g289c18-rc80000-wfcfcec-yec8048-yae8c000/sett.png)|
+| [Kerr of Ardgowan Red (Personal)](/setts/s13/y2ya1r42g2r6w1g1w1y4b4g1ya1y1~b507898-g289c18-rc80000-wfcfcec-yec8048-yae8c000~x2/)|
+|![Kerr of Ardgowan Red (Personal) example sett](/setts/s13/y2ya1r42g2r6w1g1w1y4b4g1ya1y1~b507898-g289c18-rc80000-wfcfcec-yec8048-yae8c000~x2/sett.png)|

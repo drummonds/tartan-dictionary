@@ -6,7 +6,7 @@ RBKWWW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w40wa4w10k4b20r6-b3c3cb8-k101010-rc80000-w98c8e8-wae0e0e0/tartan.png)
+![Woven sample](/setts/s6/w20wa2w5k2b10r3~b3c3cb8-k101010-rc80000-w98c8e8-wae0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKWWW
 
 | Tartans |
 |---------------|
-| [St. Christopher's School (Corporate)](/setts/s6/w40wa4w10k4b20r6-b3c3cb8-k101010-rc80000-w98c8e8-wae0e0e0/)|
-|![St. Christopher's School (Corporate) example sett](/setts/s6/w40wa4w10k4b20r6-b3c3cb8-k101010-rc80000-w98c8e8-wae0e0e0/sett.png)|
+| [St. Christopher's School (Corporate)](/setts/s6/w20wa2w5k2b10r3~b3c3cb8-k101010-rc80000-w98c8e8-wae0e0e0~x2/)|
+|![St. Christopher's School (Corporate) example sett](/setts/s6/w20wa2w5k2b10r3~b3c3cb8-k101010-rc80000-w98c8e8-wae0e0e0~x2/sett.png)|

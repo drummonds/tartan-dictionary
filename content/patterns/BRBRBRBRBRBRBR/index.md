@@ -16,5 +16,5 @@ BRBRBRBRBRBRBR
 
 | Tartans |
 |---------------|
-| [Hebridean Cairn](/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/)|
-|![Hebridean Cairn example sett](/setts/s14/b72r8b40r12b12r12b8r12b12r12b40r8b72r4-b5c5c5c-r888888/sett.png)|
+| [Hebridean Cairn](/setts/s14/b18r2b10r3b3r3b2r3b3r3b10r2b18r1~b5c5c5c-r888888~x4/)|
+|![Hebridean Cairn example sett](/setts/s14/b18r2b10r3b3r3b2r3b3r3b10r2b18r1~b5c5c5c-r888888~x4/sett.png)|

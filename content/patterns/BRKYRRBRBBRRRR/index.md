@@ -16,5 +16,5 @@ BRKYRRBRBBRRRR
 
 | Tartans |
 |---------------|
-| [Chafee of Glenmary (Personal)](/setts/s14/b4r6k12y8r34r4b32r4b32b4r30r32r4r4-b000088-k000000-rc40000-y9c9c00/)|
-|![Chafee of Glenmary (Personal) example sett](/setts/s14/b4r6k12y8r34r4b32r4b32b4r30r32r4r4-b000088-k000000-rc40000-y9c9c00/sett.png)|
+| [Chafee of Glenmary (Personal)](/setts/s14/b2r3k6y4r17r2b16r2b16b2r15r16r2r2~b000088-k000000-rc40000-y9c9c00~x2/)|
+|![Chafee of Glenmary (Personal) example sett](/setts/s14/b2r3k6y4r17r2b16r2b16b2r15r16r2r2~b000088-k000000-rc40000-y9c9c00~x2/sett.png)|

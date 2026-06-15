@@ -16,5 +16,5 @@ GKYKGKYKGRGKYKGKYK
 
 | Tartans |
 |---------------|
-| [Harbor Club](/setts/s18/g28k10y4k6g14k6y4k10g28r94g28k10y4k6g14k6y4k10-g006428-k101010-r800028-ye8c000/)|
-|![Harbor Club example sett](/setts/s18/g28k10y4k6g14k6y4k10g28r94g28k10y4k6g14k6y4k10-g006428-k101010-r800028-ye8c000/sett.png)|
+| [Harbor Club](/setts/s18/g14k5y2k3g7k3y2k5g14r47g14k5y2k3g7k3y2k5~g006428-k101010-r800028-ye8c000~x2/)|
+|![Harbor Club example sett](/setts/s18/g14k5y2k3g7k3y2k5g14r47g14k5y2k3g7k3y2k5~g006428-k101010-r800028-ye8c000~x2/sett.png)|

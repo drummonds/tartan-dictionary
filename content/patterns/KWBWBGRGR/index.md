@@ -16,5 +16,5 @@ KWBWBGRGR
 
 | Tartans |
 |---------------|
-| [Antigonish Centennial](/setts/s9/k8w4b10w14b18g28r8g2r8-b1c0070-g006818-k101010-r888888-wc0c0c0/)|
-|![Antigonish Centennial example sett](/setts/s9/k8w4b10w14b18g28r8g2r8-b1c0070-g006818-k101010-r888888-wc0c0c0/sett.png)|
+| [Antigonish Centennial](/setts/s9/k4w2b5w7b9g14r4g1r4~b1c0070-g006818-k101010-r888888-wc0c0c0~x2/)|
+|![Antigonish Centennial example sett](/setts/s9/k4w2b5w7b9g14r4g1r4~b1c0070-g006818-k101010-r888888-wc0c0c0~x2/sett.png)|

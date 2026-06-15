@@ -6,7 +6,7 @@ BRBBYGRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4r22ba18b22y4g26r42w4-b300030-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s8/b2r11ba9b11y2g13r21w2~b300030-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBBYGRW
 
 | Tartans |
 |---------------|
-| [Wilson's, No 2](/setts/s8/b4r22ba18b22y4g26r42w4-b300030-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/)|
-|![Wilson's, No 2 example sett](/setts/s8/b4r22ba18b22y4g26r42w4-b300030-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Wilson's, No 2](/setts/s8/b2r11ba9b11y2g13r21w2~b300030-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Wilson's, No 2 example sett](/setts/s8/b2r11ba9b11y2g13r21w2~b300030-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

@@ -6,7 +6,7 @@ BWBKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b78w18b6k18w6-b2474e8-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/b13w3b1k3w1~b2474e8-k101010-wfcfcfc~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBKW
 
 | Tartans |
 |---------------|
-| [Loch Lomond #2](/setts/s5/b78w18b6k18w6-b2474e8-k101010-wfcfcfc/)|
-|![Loch Lomond #2 example sett](/setts/s5/b78w18b6k18w6-b2474e8-k101010-wfcfcfc/sett.png)|
+| [Loch Lomond #2](/setts/s5/b13w3b1k3w1~b2474e8-k101010-wfcfcfc~x6/)|
+|![Loch Lomond #2 example sett](/setts/s5/b13w3b1k3w1~b2474e8-k101010-wfcfcfc~x6/sett.png)|

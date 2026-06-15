@@ -6,7 +6,7 @@ RRBRWBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6ra4b4ra60w60b4w6-b1c1c50-r880000-rab80000-wf0e0c8/tartan.png)
+![Woven sample](/setts/s7/r3ra2b2ra30w30b2w3~b1c1c50-r880000-rab80000-wf0e0c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRBRWBW
 
 | Tartans |
 |---------------|
-| [Torridon, Cherry (Dance)](/setts/s7/r6ra4b4ra60w60b4w6-b1c1c50-r880000-rab80000-wf0e0c8/)|
-|![Torridon, Cherry (Dance) example sett](/setts/s7/r6ra4b4ra60w60b4w6-b1c1c50-r880000-rab80000-wf0e0c8/sett.png)|
+| [Torridon, Cherry (Dance)](/setts/s7/r3ra2b2ra30w30b2w3~b1c1c50-r880000-rab80000-wf0e0c8~x2/)|
+|![Torridon, Cherry (Dance) example sett](/setts/s7/r3ra2b2ra30w30b2w3~b1c1c50-r880000-rab80000-wf0e0c8~x2/sett.png)|

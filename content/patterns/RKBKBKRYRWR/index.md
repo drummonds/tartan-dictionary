@@ -16,5 +16,5 @@ RKBKBKRYRWR
 
 | Tartans |
 |---------------|
-| [Scotland Forever Antique (Fashion)](/setts/s11/r12k6b38k12b8k6ra24y8ra24w4r10-b5c5c5c-k101010-r888894-ra888888-wfcfcfc-ya0a0a0/)|
-|![Scotland Forever Antique (Fashion) example sett](/setts/s11/r12k6b38k12b8k6ra24y8ra24w4r10-b5c5c5c-k101010-r888894-ra888888-wfcfcfc-ya0a0a0/sett.png)|
+| [Scotland Forever Antique (Fashion)](/setts/s11/r6k3b19k6b4k3ra12y4ra12w2r5~b5c5c5c-k101010-r888894-ra888888-wfcfcfc-ya0a0a0~x2/)|
+|![Scotland Forever Antique (Fashion) example sett](/setts/s11/r6k3b19k6b4k3ra12y4ra12w2r5~b5c5c5c-k101010-r888894-ra888888-wfcfcfc-ya0a0a0~x2/sett.png)|

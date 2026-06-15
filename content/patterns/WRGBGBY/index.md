@@ -6,7 +6,7 @@ WRGBGBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w6r10g10b8ga14ba76y6-b6c0070-ba00008c-g048888-ga004c00-rc80000-wffffff-ye0a126/tartan.png)
+![Woven sample](/setts/s7/w3r5g5b4ga7ba38y3~b6c0070-ba00008c-g048888-ga004c00-rc80000-wffffff-ye0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRGBGBY
 
 | Tartans |
 |---------------|
-| [Blairgowrie Golf Club, The](/setts/s7/w6r10g10b8ga14ba76y6-b6c0070-ba00008c-g048888-ga004c00-rc80000-wffffff-ye0a126/)|
-|![Blairgowrie Golf Club, The example sett](/setts/s7/w6r10g10b8ga14ba76y6-b6c0070-ba00008c-g048888-ga004c00-rc80000-wffffff-ye0a126/sett.png)|
+| [Blairgowrie Golf Club, The](/setts/s7/w3r5g5b4ga7ba38y3~b6c0070-ba00008c-g048888-ga004c00-rc80000-wffffff-ye0a126~x2/)|
+|![Blairgowrie Golf Club, The example sett](/setts/s7/w3r5g5b4ga7ba38y3~b6c0070-ba00008c-g048888-ga004c00-rc80000-wffffff-ye0a126~x2/sett.png)|

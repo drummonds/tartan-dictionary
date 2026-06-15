@@ -16,5 +16,5 @@ KBKBKBKBBY
 
 | Tartans |
 |---------------|
-| [Hannay Blue (Fashion?)](/setts/s10/k18b8k4b8k4b60k18b8ba28y4-b5c8ca8-ba2c2c80-k101010-ye8c000/)|
-|![Hannay Blue (Fashion?) example sett](/setts/s10/k18b8k4b8k4b60k18b8ba28y4-b5c8ca8-ba2c2c80-k101010-ye8c000/sett.png)|
+| [Hannay Blue (Fashion?)](/setts/s10/k9b4k2b4k2b30k9b4ba14y2~b5c8ca8-ba2c2c80-k101010-ye8c000~x2/)|
+|![Hannay Blue (Fashion?) example sett](/setts/s10/k9b4k2b4k2b30k9b4ba14y2~b5c8ca8-ba2c2c80-k101010-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ RBRBRBWBWBRBR
 
 | Tartans |
 |---------------|
-| [Brown, Watch dress](/setts/s13/r40b6r6b6r6b18w20b6w2b18r20b6r6-b401000-r906030-we0e0e0/)|
-|![Brown, Watch dress example sett](/setts/s13/r40b6r6b6r6b18w20b6w2b18r20b6r6-b401000-r906030-we0e0e0/sett.png)|
+| [Brown, Watch dress](/setts/s13/r20b3r3b3r3b9w10b3w1b9r10b3r3~b401000-r906030-we0e0e0~x2/)|
+|![Brown, Watch dress example sett](/setts/s13/r20b3r3b3r3b9w10b3w1b9r10b3r3~b401000-r906030-we0e0e0~x2/sett.png)|

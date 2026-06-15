@@ -16,5 +16,5 @@ KBKWKBKGK
 
 | Tartans |
 |---------------|
-| [Rainford (Personal)](/setts/s9/k24b20k6w8k6b20k24g24k4-b141e46-g003c14-k101010-w82f5fa/)|
-|![Rainford (Personal) example sett](/setts/s9/k24b20k6w8k6b20k24g24k4-b141e46-g003c14-k101010-w82f5fa/sett.png)|
+| [Rainford (Personal)](/setts/s9/k12b10k3w4k3b10k12g12k2~b141e46-g003c14-k101010-w82f5fa~x2/)|
+|![Rainford (Personal) example sett](/setts/s9/k12b10k3w4k3b10k12g12k2~b141e46-g003c14-k101010-w82f5fa~x2/sett.png)|

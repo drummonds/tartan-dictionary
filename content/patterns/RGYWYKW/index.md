@@ -6,7 +6,7 @@ RGYWYKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r10g6y12w6y10k110w10-g006818-k101010-rc80000-wf8f8f8-ye8c000/tartan.png)
+![Woven sample](/setts/s7/r5g3y6w3y5k55w5~g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGYWYKW
 
 | Tartans |
 |---------------|
-| [Avalon](/setts/s7/r10g6y12w6y10k110w10-g006818-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Avalon example sett](/setts/s7/r10g6y12w6y10k110w10-g006818-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Avalon](/setts/s7/r5g3y6w3y5k55w5~g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Avalon example sett](/setts/s7/r5g3y6w3y5k55w5~g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

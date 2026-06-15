@@ -16,5 +16,5 @@ RWRYRWRGYWY
 
 | Tartans |
 |---------------|
-| [MacKellar Dress (Reproduction colours)](/setts/s11/r70w8r6y14r6w8r14g30ya8w72ya10-g2a2303-rbe7832-we0e0e0-ye8c000-ya949494/)|
-|![MacKellar Dress (Reproduction colours) example sett](/setts/s11/r70w8r6y14r6w8r14g30ya8w72ya10-g2a2303-rbe7832-we0e0e0-ye8c000-ya949494/sett.png)|
+| [MacKellar Dress (Reproduction colours)](/setts/s11/r35w4r3y7r3w4r7g15ya4w36ya5~g2a2303-rbe7832-we0e0e0-ye8c000-ya949494~x2/)|
+|![MacKellar Dress (Reproduction colours) example sett](/setts/s11/r35w4r3y7r3w4r7g15ya4w36ya5~g2a2303-rbe7832-we0e0e0-ye8c000-ya949494~x2/sett.png)|

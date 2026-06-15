@@ -6,7 +6,7 @@ GWRW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g40w10r6w10-g003820-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s4/g20w5r3w5~g003820-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWRW
 
 | Tartans |
 |---------------|
-| [Juchter (Personal)](/setts/s4/g40w10r6w10-g003820-rc80000-we0e0e0/)|
-|![Juchter (Personal) example sett](/setts/s4/g40w10r6w10-g003820-rc80000-we0e0e0/sett.png)|
+| [Juchter (Personal)](/setts/s4/g20w5r3w5~g003820-rc80000-we0e0e0~x2/)|
+|![Juchter (Personal) example sett](/setts/s4/g20w5r3w5~g003820-rc80000-we0e0e0~x2/sett.png)|

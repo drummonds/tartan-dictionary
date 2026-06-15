@@ -16,5 +16,5 @@ BKGKBKGKBW
 
 | Tartans |
 |---------------|
-| [Isle of Harris](/setts/s10/b80k8g16k16ba24k16g16k8b80w8-b2c2c80-ba2888c4-g289c18-k101010-wfcfcfc/)|
-|![Isle of Harris example sett](/setts/s10/b80k8g16k16ba24k16g16k8b80w8-b2c2c80-ba2888c4-g289c18-k101010-wfcfcfc/sett.png)|
+| [Isle of Harris](/setts/s10/b10k1g2k2ba3k2g2k1b10w1~b2c2c80-ba2888c4-g289c18-k101010-wfcfcfc~x8/)|
+|![Isle of Harris example sett](/setts/s10/b10k1g2k2ba3k2g2k1b10w1~b2c2c80-ba2888c4-g289c18-k101010-wfcfcfc~x8/sett.png)|

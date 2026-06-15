@@ -16,5 +16,5 @@ GKWGWGWGWGWGWKRKWGWGWGWGWGWKG
 
 | Tartans |
 |---------------|
-| [Alliance of Border Scots](/setts/s29/g8k48w8ga8w8ga8w8ga8w8ga8w8ga8w8k48r8k48w8ga8w8ga8w8ga8w8ga8w8ga8w8k48g8-g006818-ga64340c-k000000-r9c8000-we0e0e0/)|
-|![Alliance of Border Scots example sett](/setts/s29/g8k48w8ga8w8ga8w8ga8w8ga8w8ga8w8k48r8k48w8ga8w8ga8w8ga8w8ga8w8ga8w8k48g8-g006818-ga64340c-k000000-r9c8000-we0e0e0/sett.png)|
+| [Alliance of Border Scots](/setts/s29/g1k6w1ga1w1ga1w1ga1w1ga1w1ga1w1k6r1k6w1ga1w1ga1w1ga1w1ga1w1ga1w1k6g1~g006818-ga64340c-k000000-r9c8000-we0e0e0~x8/)|
+|![Alliance of Border Scots example sett](/setts/s29/g1k6w1ga1w1ga1w1ga1w1ga1w1ga1w1k6r1k6w1ga1w1ga1w1ga1w1ga1w1ga1w1k6g1~g006818-ga64340c-k000000-r9c8000-we0e0e0~x8/sett.png)|

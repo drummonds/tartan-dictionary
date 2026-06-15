@@ -16,5 +16,5 @@ KBKRKWKGBW
 
 | Tartans |
 |---------------|
-| [Rikaco Holiday (Fashion)](/setts/s10/k10b10k4r94k36w4k10g18b14w6-b202060-g003820-k101010-rc80000-we0e0e0/)|
-|![Rikaco Holiday (Fashion) example sett](/setts/s10/k10b10k4r94k36w4k10g18b14w6-b202060-g003820-k101010-rc80000-we0e0e0/sett.png)|
+| [Rikaco Holiday (Fashion)](/setts/s10/k5b5k2r47k18w2k5g9b7w3~b202060-g003820-k101010-rc80000-we0e0e0~x2/)|
+|![Rikaco Holiday (Fashion) example sett](/setts/s10/k5b5k2r47k18w2k5g9b7w3~b202060-g003820-k101010-rc80000-we0e0e0~x2/sett.png)|

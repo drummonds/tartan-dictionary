@@ -16,5 +16,5 @@ GKWGGGWKWGGGKGGGKGWGKGGGKGWG
 
 | Tartans |
 |---------------|
-| [MacPerl (Personal)](/setts/s28/g36k10w6g2g6g2w6k10w16g2g36g36k10g2g2g2k6g2w6g2k6g2g2g2k10g36w16g2-g003820-k00002c-we0e0e0/)|
-|![MacPerl (Personal) example sett](/setts/s28/g36k10w6g2g6g2w6k10w16g2g36g36k10g2g2g2k6g2w6g2k6g2g2g2k10g36w16g2-g003820-k00002c-we0e0e0/sett.png)|
+| [MacPerl (Personal)](/setts/s28/g18k5w3g1g3g1w3k5w8g1g18g18k5g1g1g1k3g1w3g1k3g1g1g1k5g18w8g1~g003820-k00002c-we0e0e0~x2/)|
+|![MacPerl (Personal) example sett](/setts/s28/g18k5w3g1g3g1w3k5w8g1g18g18k5g1g1g1k3g1w3g1k3g1g1g1k5g18w8g1~g003820-k00002c-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ WYWKYKWY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w24y24w24k10y90k10wa10y20-k101010-wf8f8f8-wa98c8e8-yd87c00/tartan.png)
+![Woven sample](/setts/s8/w12y12w12k5y45k5wa5y10~k101010-wf8f8f8-wa98c8e8-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYWKYKWY
 
 | Tartans |
 |---------------|
-| [Tennessee Volunteer](/setts/s8/w24y24w24k10y90k10wa10y20-k101010-wf8f8f8-wa98c8e8-yd87c00/)|
-|![Tennessee Volunteer example sett](/setts/s8/w24y24w24k10y90k10wa10y20-k101010-wf8f8f8-wa98c8e8-yd87c00/sett.png)|
+| [Tennessee Volunteer](/setts/s8/w12y12w12k5y45k5wa5y10~k101010-wf8f8f8-wa98c8e8-yd87c00~x2/)|
+|![Tennessee Volunteer example sett](/setts/s8/w12y12w12k5y45k5wa5y10~k101010-wf8f8f8-wa98c8e8-yd87c00~x2/sett.png)|

@@ -16,5 +16,5 @@ BGKRKGBYKWGK
 
 | Tartans |
 |---------------|
-| [Moskova](/setts/s12/b8g36k4r24k4g16b16y4k16w4g20k8-b2c2c80-g408060-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Moskova example sett](/setts/s12/b8g36k4r24k4g16b16y4k16w4g20k8-b2c2c80-g408060-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Moskova](/setts/s12/b2g9k1r6k1g4b4y1k4w1g5k2~b2c2c80-g408060-k101010-rc80000-wf8f8f8-ye8c000~x4/)|
+|![Moskova example sett](/setts/s12/b2g9k1r6k1g4b4y1k4w1g5k2~b2c2c80-g408060-k101010-rc80000-wf8f8f8-ye8c000~x4/sett.png)|

@@ -6,7 +6,7 @@ BYRRBWY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b72y10r24ra18ba10w24y14-b212160-ba551a8b-re3170d-raff0000-wffffff-yffb90f/tartan.png)
+![Woven sample](/setts/s7/b36y5r12ra9ba5w12y7~b212160-ba551a8b-re3170d-raff0000-wffffff-yffb90f~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYRRBWY
 
 | Tartans |
 |---------------|
-| [Galvez-Brown](/setts/s7/b72y10r24ra18ba10w24y14-b212160-ba551a8b-re3170d-raff0000-wffffff-yffb90f/)|
-|![Galvez-Brown example sett](/setts/s7/b72y10r24ra18ba10w24y14-b212160-ba551a8b-re3170d-raff0000-wffffff-yffb90f/sett.png)|
-| [Galvez-Brown (Personal)](/setts/s7/b72y10r24ra18ba10w24y14-b003c64-ba440044-r880000-rac80000-wfcfcfc-ybc8c00/)|
-|![Galvez-Brown (Personal) example sett](/setts/s7/b72y10r24ra18ba10w24y14-b003c64-ba440044-r880000-rac80000-wfcfcfc-ybc8c00/sett.png)|
+| [Galvez-Brown](/setts/s7/b36y5r12ra9ba5w12y7~b212160-ba551a8b-re3170d-raff0000-wffffff-yffb90f~x2/)|
+|![Galvez-Brown example sett](/setts/s7/b36y5r12ra9ba5w12y7~b212160-ba551a8b-re3170d-raff0000-wffffff-yffb90f~x2/sett.png)|
+| [Galvez-Brown (Personal)](/setts/s7/b36y5r12ra9ba5w12y7~b003c64-ba440044-r880000-rac80000-wfcfcfc-ybc8c00~x2/)|
+|![Galvez-Brown (Personal) example sett](/setts/s7/b36y5r12ra9ba5w12y7~b003c64-ba440044-r880000-rac80000-wfcfcfc-ybc8c00~x2/sett.png)|

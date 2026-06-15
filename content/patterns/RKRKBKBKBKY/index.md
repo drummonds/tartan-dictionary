@@ -16,5 +16,5 @@ RKRKBKBKBKY
 
 | Tartans |
 |---------------|
-| [Brotherhood of Dirk, The](/setts/s11/r18k6r18k4b8k8ba8k6ba4k64y12-b576982-ba3d2e60-k1c1714-r89051b-yb7d38b/)|
-|![Brotherhood of Dirk, The example sett](/setts/s11/r18k6r18k4b8k8ba8k6ba4k64y12-b576982-ba3d2e60-k1c1714-r89051b-yb7d38b/sett.png)|
+| [Brotherhood of Dirk, The](/setts/s11/r9k3r9k2b4k4ba4k3ba2k32y6~b576982-ba3d2e60-k1c1714-r89051b-yb7d38b~x2/)|
+|![Brotherhood of Dirk, The example sett](/setts/s11/r9k3r9k2b4k4ba4k3ba2k32y6~b576982-ba3d2e60-k1c1714-r89051b-yb7d38b~x2/sett.png)|

@@ -16,5 +16,5 @@ BGWGGYGRGG
 
 | Tartans |
 |---------------|
-| [Connecticut](/setts/s10/b80g8w4g20ga32y4ga8r4ga32g64-b304080-g808080-ga004010-rc00020-we0e0e0-yf0c000/)|
-|![Connecticut example sett](/setts/s10/b80g8w4g20ga32y4ga8r4ga32g64-b304080-g808080-ga004010-rc00020-we0e0e0-yf0c000/sett.png)|
+| [Connecticut](/setts/s10/b20g2w1g5ga8y1ga2r1ga8g16~b304080-g808080-ga004010-rc00020-we0e0e0-yf0c000~x4/)|
+|![Connecticut example sett](/setts/s10/b20g2w1g5ga8y1ga2r1ga8g16~b304080-g808080-ga004010-rc00020-we0e0e0-yf0c000~x4/sett.png)|

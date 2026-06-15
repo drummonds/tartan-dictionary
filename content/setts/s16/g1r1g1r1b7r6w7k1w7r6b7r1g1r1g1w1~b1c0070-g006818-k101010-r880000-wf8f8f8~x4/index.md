@@ -1,0 +1,49 @@
+---
+title: "Oliver Dress (Dance)"
+date: 2023-03-18
+---
+In pattern [GRGRBRWKWRBRGRGW](/patterns/grgrbrwkwrbrgrgw/).
+
+
+This was sourced from register-of-tartans.  It is a [16 stripes tartan](/stripes/stripes16/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3238
+
+## Thread count
+G/4 DR4 G4 DR4 DB28 DR24 W28 K4 W28 DR24 DB28 DR4 G4 DR4 G4 W/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| W | <code style="background-color:#F8F8F8;"><span style="color:#F8F8F8;filter:grayscale(1) invert(1) contrast(100);">#F8F8F8</span></code> `#F8F8F8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.00 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kinloch Anderson Dress](/setts/s12/r8w30g5w8g5k12w6k12b28r4b8r8~b080848-g636f57-k101010-r9e0508-wffffff/) — ΔT 0.96
+1. [Edinburgh Military Tattoo (Dance)](/setts/s14/k4r6b3r16ba18w4k4w4k4w4k4w4b18r4~b202060-ba5c8ca8-k101010-rc80000-wfcfcfc~x2/) — ΔT 0.98
+1. [Alaskan Scottish](/setts/s17/w4b1g9b9r9b1y4b1r9b9g1b1g1b1g4b1w4~b202060-g006818-rc80000-wfcfcfc-ye8c000~x2/) — ΔT 1.01
+1. [Cameron Erracht Dress Trade Tartan Tartan Number: 1871. Earliest known date: 1936 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w2r1w2r2w9k9r1b10r2k2y2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/) — ΔT 1.03
+1. [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1b10r2k2y2~b2c2c80-k101010-rc80000-wfcfcfc-ye8c000~x2/) — ΔT 1.04
+1. [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2b8k2r1k2y1~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x4/) — ΔT 1.05
+1. [Unidentified #11](/setts/s15/b2k1b6k1r5y3r5k2w3k2w9k1w2k1y2~b080848-k101010-r960000-we0e0e0-ye8c000~x2/) — ΔT 1.06
+1. [Unidentified 32](/setts/s15/b2k1b6k1r5y3r5k2w3k2w9k1w2k1y2~b000050-k000000-r800000-we0e0e0-yf0c000~x2/) — ΔT 1.09
+1. [Cameron Erracht, dress](/setts/s11/w2r1w2r2w9k9r1b10r2k2y2~b304080-k000000-rc00000-we0e0e0-yf0c000~x2/) — ΔT 1.15
+1. [Carnegie #2](/setts/s14/b10r2b2r4b12r2k14w13r4w2r2w4r1y3~b2c4084-k101010-rdc0000-we0e0e0-ye8c000~x2/) — ΔT 1.16
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8w30g5w8g5k12w6k12b28r4b8r8~b080848-g636f57-k101010-r9e0508-wffffff/"><circle cx="63.3" cy="153.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s14/k4r6b3r16ba18w4k4w4k4w4k4w4b18r4~b202060-ba5c8ca8-k101010-rc80000-wfcfcfc~x2/"><circle cx="41.0" cy="151.3" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s17/w4b1g9b9r9b1y4b1r9b9g1b1g1b1g4b1w4~b202060-g006818-rc80000-wfcfcfc-ye8c000~x2/"><circle cx="102.4" cy="131.2" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1b10r2k2y2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/"><circle cx="90.8" cy="135.8" r="4" fill="#3465a4"><title>Cameron Erracht Dress Trade Tartan Tartan Number: 1871. Earliest known date: 1936 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1b10r2k2y2~b2c2c80-k101010-rc80000-wfcfcfc-ye8c000~x2/"><circle cx="85.0" cy="132.5" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s11/r1k2w8k2r1k2b8k2r1k2y1~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x4/"><circle cx="101.8" cy="146.4" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/setts/s15/b2k1b6k1r5y3r5k2w3k2w9k1w2k1y2~b080848-k101010-r960000-we0e0e0-ye8c000~x2/"><circle cx="59.2" cy="135.9" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/setts/s15/b2k1b6k1r5y3r5k2w3k2w9k1w2k1y2~b000050-k000000-r800000-we0e0e0-yf0c000~x2/"><circle cx="54.5" cy="137.0" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1b10r2k2y2~b304080-k000000-rc00000-we0e0e0-yf0c000~x2/"><circle cx="85.3" cy="135.7" r="4" fill="#3465a4"><title>Cameron Erracht, dress</title></circle></a><a href="/setts/s14/b10r2b2r4b12r2k14w13r4w2r2w4r1y3~b2c4084-k101010-rdc0000-we0e0e0-ye8c000~x2/"><circle cx="103.7" cy="118.2" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><circle cx="85.4" cy="132.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/g1r1g1r1b7r6w7k1w7r6b7r1g1r1g1w1~b1c0070-g006818-k101010-r880000-wf8f8f8~x4/

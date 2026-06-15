@@ -16,5 +16,5 @@ KRKRGWGWGRKRWR
 
 | Tartans |
 |---------------|
-| [Drummond - 1739 Lord John (Artefact)](/setts/s14/k40r12k8r12g30w4ga10w4g30r60k8r10wa4r12-g285800-ga606000-k00002c-rc82428-wf8f8f8-wa98c8e8/)|
-|![Drummond - 1739 Lord John (Artefact) example sett](/setts/s14/k40r12k8r12g30w4ga10w4g30r60k8r10wa4r12-g285800-ga606000-k00002c-rc82428-wf8f8f8-wa98c8e8/sett.png)|
+| [Drummond - 1739 Lord John (Artefact)](/setts/s14/k20r6k4r6g15w2ga5w2g15r30k4r5wa2r6~g285800-ga606000-k00002c-rc82428-wf8f8f8-wa98c8e8~x2/)|
+|![Drummond - 1739 Lord John (Artefact) example sett](/setts/s14/k20r6k4r6g15w2ga5w2g15r30k4r5wa2r6~g285800-ga606000-k00002c-rc82428-wf8f8f8-wa98c8e8~x2/sett.png)|

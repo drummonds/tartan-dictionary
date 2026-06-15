@@ -16,5 +16,5 @@ GGGGGGGGGGRWR
 
 | Tartans |
 |---------------|
-| [Pino (Personal)](/setts/s13/g50ga14g50ga14gb10g50ga14g50ga14gb10r4w4r4-g285800-ga006818-gb289c18-r880000-we0e0e0/)|
-|![Pino (Personal) example sett](/setts/s13/g50ga14g50ga14gb10g50ga14g50ga14gb10r4w4r4-g285800-ga006818-gb289c18-r880000-we0e0e0/sett.png)|
+| [Pino (Personal)](/setts/s13/g25ga7g25ga7gb5g25ga7g25ga7gb5r2w2r2~g285800-ga006818-gb289c18-r880000-we0e0e0~x2/)|
+|![Pino (Personal) example sett](/setts/s13/g25ga7g25ga7gb5g25ga7g25ga7gb5r2w2r2~g285800-ga006818-gb289c18-r880000-we0e0e0~x2/sett.png)|

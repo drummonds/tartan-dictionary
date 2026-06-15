@@ -6,7 +6,7 @@ RWBGW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r6w70b8g94wa6-b304080-g008000-r802040-wc0c0c0-wae0e0e0/tartan.png)
+![Woven sample](/setts/s5/r3w35b4g47wa3~b304080-g008000-r802040-wc0c0c0-wae0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWBGW
 
 | Tartans |
 |---------------|
-| [Exabyte](/setts/s5/r6w70b8g94wa6-b304080-g008000-r802040-wc0c0c0-wae0e0e0/)|
-|![Exabyte example sett](/setts/s5/r6w70b8g94wa6-b304080-g008000-r802040-wc0c0c0-wae0e0e0/sett.png)|
+| [Exabyte](/setts/s5/r3w35b4g47wa3~b304080-g008000-r802040-wc0c0c0-wae0e0e0~x2/)|
+|![Exabyte example sett](/setts/s5/r3w35b4g47wa3~b304080-g008000-r802040-wc0c0c0-wae0e0e0~x2/sett.png)|

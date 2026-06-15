@@ -16,5 +16,5 @@ KBBBBBBKWK
 
 | Tartans |
 |---------------|
-| [Nunavut (District)](/setts/s10/k12b4ba4b6ba4b4ba60k40w12k8-b5c8ca8-ba5c5c5c-k101010-we0e0e0/)|
-|![Nunavut (District) example sett](/setts/s10/k12b4ba4b6ba4b4ba60k40w12k8-b5c8ca8-ba5c5c5c-k101010-we0e0e0/sett.png)|
+| [Nunavut (District)](/setts/s10/k6b2ba2b3ba2b2ba30k20w6k4~b5c8ca8-ba5c5c5c-k101010-we0e0e0~x2/)|
+|![Nunavut (District) example sett](/setts/s10/k6b2ba2b3ba2b2ba30k20w6k4~b5c8ca8-ba5c5c5c-k101010-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ KGKYRKRBWBKRBYKGKR
 
 | Tartans |
 |---------------|
-| [Derbyshire](/setts/s18/r10k6g44k6y6b14r14k4b8w4b8r14k4r14y6k6g44k4-b5a008c-g289c18-k000000-rc8002c-wffffff-yfccc00/)|
-|![Derbyshire example sett](/setts/s18/r10k6g44k6y6b14r14k4b8w4b8r14k4r14y6k6g44k4-b5a008c-g289c18-k000000-rc8002c-wffffff-yfccc00/sett.png)|
+| [Derbyshire](/setts/s18/r5k3g22k3y3b7r7k2b4w2b4r7k2r7y3k3g22k2~b5a008c-g289c18-k000000-rc8002c-wffffff-yfccc00~x2/)|
+|![Derbyshire example sett](/setts/s18/r5k3g22k3y3b7r7k2b4w2b4r7k2r7y3k3g22k2~b5a008c-g289c18-k000000-rc8002c-wffffff-yfccc00~x2/sett.png)|

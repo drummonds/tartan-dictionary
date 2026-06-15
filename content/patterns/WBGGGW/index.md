@@ -6,7 +6,7 @@ WBGGGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4b4g28g16g4w4-b800080-g808080-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/w1b1g7g4g1w1~b800080-g808080-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBGGGW
 
 | Tartans |
 |---------------|
-| [Lochnagar](/setts/s6/w4b4g28g16g4w4-b800080-g808080-we0e0e0/)|
-|![Lochnagar example sett](/setts/s6/w4b4g28g16g4w4-b800080-g808080-we0e0e0/sett.png)|
+| [Lochnagar](/setts/s6/w1b1g7g4g1w1~b800080-g808080-we0e0e0~x4/)|
+|![Lochnagar example sett](/setts/s6/w1b1g7g4g1w1~b800080-g808080-we0e0e0~x4/sett.png)|

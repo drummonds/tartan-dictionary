@@ -6,7 +6,7 @@ WYWYRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y22r4y22w12y14w12-rc80000-we0e0e0-ybc8c00/tartan.png)
+![Woven sample](/setts/s6/y11r2y11w6y7w6~rc80000-we0e0e0-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYWYRY
 
 | Tartans |
 |---------------|
-| [Virgin One](/setts/s6/y22r4y22w12y14w12-rc80000-we0e0e0-ybc8c00/)|
-|![Virgin One example sett](/setts/s6/y22r4y22w12y14w12-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Virgin One](/setts/s6/y11r2y11w6y7w6~rc80000-we0e0e0-ybc8c00~x2/)|
+|![Virgin One example sett](/setts/s6/y11r2y11w6y7w6~rc80000-we0e0e0-ybc8c00~x2/sett.png)|

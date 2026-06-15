@@ -16,5 +16,5 @@ BKGKGKBRKKKRGKBKBKG
 
 | Tartans |
 |---------------|
-| [O'Connor / Ochiltree](/setts/s19/b48k4g8k4g8k4b48r8k48ka4k48r8g48k4b8k4b8k4g48-b1c0070-g006818-k101010-ka000000-r880000/)|
-|![O'Connor / Ochiltree example sett](/setts/s19/b48k4g8k4g8k4b48r8k48ka4k48r8g48k4b8k4b8k4g48-b1c0070-g006818-k101010-ka000000-r880000/sett.png)|
+| [O'Connor / Ochiltree](/setts/s19/b12k1g2k1g2k1b12r2k12ka1k12r2g12k1b2k1b2k1g12~b1c0070-g006818-k101010-ka000000-r880000~x4/)|
+|![O'Connor / Ochiltree example sett](/setts/s19/b12k1g2k1g2k1b12r2k12ka1k12r2g12k1b2k1b2k1g12~b1c0070-g006818-k101010-ka000000-r880000~x4/sett.png)|

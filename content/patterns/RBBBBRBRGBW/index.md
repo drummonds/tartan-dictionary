@@ -16,7 +16,7 @@ RBBBBRBRGBW
 
 | Tartans |
 |---------------|
-| [Queen of the South Football Club](/setts/s11/w6b2g36r6ba8r6bb8b6bb4b48ra2-b2c2c80-ba2888c4-bb202060-g009468-rc8002c-rac80000-we0e0e0/)|
-|![Queen of the South Football Club example sett](/setts/s11/w6b2g36r6ba8r6bb8b6bb4b48ra2-b2c2c80-ba2888c4-bb202060-g009468-rc8002c-rac80000-we0e0e0/sett.png)|
-| [Coldstream](/setts/s11/w12b2g70r12ba16r12bb16b10bb8b96ra4-b304080-ba8080d0-bb102040-g008080-rc00020-rac00000-we0e0e0/)|
-|![Coldstream example sett](/setts/s11/w12b2g70r12ba16r12bb16b10bb8b96ra4-b304080-ba8080d0-bb102040-g008080-rc00020-rac00000-we0e0e0/sett.png)|
+| [Queen of the South Football Club](/setts/s11/w3b1g18r3ba4r3bb4b3bb2b24ra1~b2c2c80-ba2888c4-bb202060-g009468-rc8002c-rac80000-we0e0e0~x2/)|
+|![Queen of the South Football Club example sett](/setts/s11/w3b1g18r3ba4r3bb4b3bb2b24ra1~b2c2c80-ba2888c4-bb202060-g009468-rc8002c-rac80000-we0e0e0~x2/sett.png)|
+| [Coldstream](/setts/s11/w6b1g35r6ba8r6bb8b5bb4b48ra2~b304080-ba8080d0-bb102040-g008080-rc00020-rac00000-we0e0e0~x2/)|
+|![Coldstream example sett](/setts/s11/w6b1g35r6ba8r6bb8b5bb4b48ra2~b304080-ba8080d0-bb102040-g008080-rc00020-rac00000-we0e0e0~x2/sett.png)|

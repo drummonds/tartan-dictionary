@@ -16,5 +16,5 @@ BGBRYBBYG
 
 | Tartans |
 |---------------|
-| [Crichton (Clan)](/setts/s9/b160g2b4r8y2ba10b16ya4g4-b000048-ba5c5c5c-g005430-r880000-ya0a0a0-yabc8c00/)|
-|![Crichton (Clan) example sett](/setts/s9/b160g2b4r8y2ba10b16ya4g4-b000048-ba5c5c5c-g005430-r880000-ya0a0a0-yabc8c00/sett.png)|
+| [Crichton (Clan)](/setts/s9/b80g1b2r4y1ba5b8ya2g2~b000048-ba5c5c5c-g005430-r880000-ya0a0a0-yabc8c00~x2/)|
+|![Crichton (Clan) example sett](/setts/s9/b80g1b2r4y1ba5b8ya2g2~b000048-ba5c5c5c-g005430-r880000-ya0a0a0-yabc8c00~x2/sett.png)|

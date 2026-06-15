@@ -6,7 +6,7 @@ GBBKBBGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g28b22ba6k4ba6b22g28y2-b440044-ba2888c4-g408060-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g14b11ba3k2ba3b11g14y1~b440044-ba2888c4-g408060-k101010-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBBKBBGY
 
 | Tartans |
 |---------------|
-| [Wellington (Wilson 122)](/setts/s8/g28b22ba6k4ba6b22g28y2-b440044-ba2888c4-g408060-k101010-ye8c000/)|
-|![Wellington (Wilson 122) example sett](/setts/s8/g28b22ba6k4ba6b22g28y2-b440044-ba2888c4-g408060-k101010-ye8c000/sett.png)|
+| [Wellington (Wilson 122)](/setts/s8/g14b11ba3k2ba3b11g14y1~b440044-ba2888c4-g408060-k101010-ye8c000~x2/)|
+|![Wellington (Wilson 122) example sett](/setts/s8/g14b11ba3k2ba3b11g14y1~b440044-ba2888c4-g408060-k101010-ye8c000~x2/sett.png)|

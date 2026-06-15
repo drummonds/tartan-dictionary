@@ -16,5 +16,5 @@ RGWRBGGBGBGGBY
 
 | Tartans |
 |---------------|
-| [McGran (Personal)](/setts/s14/r6g2w2r4b4g20ga6b8ga8b4ga64g6b6y4-b780078-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/)|
-|![McGran (Personal) example sett](/setts/s14/r6g2w2r4b4g20ga6b8ga8b4ga64g6b6y4-b780078-g289c18-ga006818-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [McGran (Personal)](/setts/s14/r3g1w1r2b2g10ga3b4ga4b2ga32g3b3y2~b780078-g289c18-ga006818-rc80000-we0e0e0-ybc8c00~x2/)|
+|![McGran (Personal) example sett](/setts/s14/r3g1w1r2b2g10ga3b4ga4b2ga32g3b3y2~b780078-g289c18-ga006818-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

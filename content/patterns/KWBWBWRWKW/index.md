@@ -16,5 +16,5 @@ KWBWBWRWKW
 
 | Tartans |
 |---------------|
-| [Dijkgraaf, Markus Jack (Personal)](/setts/s10/w10k10w20r4w20b16w30b16wa6k6-b780078-k101010-rc80000-wffffff-wac8c8c8/)|
-|![Dijkgraaf, Markus Jack (Personal) example sett](/setts/s10/w10k10w20r4w20b16w30b16wa6k6-b780078-k101010-rc80000-wffffff-wac8c8c8/sett.png)|
+| [Dijkgraaf, Markus Jack (Personal)](/setts/s10/w5k5w10r2w10b8w15b8wa3k3~b780078-k101010-rc80000-wffffff-wac8c8c8~x2/)|
+|![Dijkgraaf, Markus Jack (Personal) example sett](/setts/s10/w5k5w10r2w10b8w15b8wa3k3~b780078-k101010-rc80000-wffffff-wac8c8c8~x2/sett.png)|

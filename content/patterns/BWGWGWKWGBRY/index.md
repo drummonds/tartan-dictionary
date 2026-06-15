@@ -16,5 +16,5 @@ BWGWGWKWGBRY
 
 | Tartans |
 |---------------|
-| [Robitaille, Jean-Francois (Personal)](/setts/s12/b42w4g6w4g4w4k24w4ga12b30r4y8-b000080-g8b6508-ga008b00-k101010-rff0000-wffffff-yffe600/)|
-|![Robitaille, Jean-Francois (Personal) example sett](/setts/s12/b42w4g6w4g4w4k24w4ga12b30r4y8-b000080-g8b6508-ga008b00-k101010-rff0000-wffffff-yffe600/sett.png)|
+| [Robitaille, Jean-Francois (Personal)](/setts/s12/b21w2g3w2g2w2k12w2ga6b15r2y4~b000080-g8b6508-ga008b00-k101010-rff0000-wffffff-yffe600~x2/)|
+|![Robitaille, Jean-Francois (Personal) example sett](/setts/s12/b21w2g3w2g2w2k12w2ga6b15r2y4~b000080-g8b6508-ga008b00-k101010-rff0000-wffffff-yffe600~x2/sett.png)|

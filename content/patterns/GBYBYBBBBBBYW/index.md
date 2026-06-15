@@ -16,5 +16,5 @@ GBYBYBBBBBBYW
 
 | Tartans |
 |---------------|
-| [Scottish Tourist Guides Assoc. (Corp](/setts/s13/g24b6y6b6y6b24ba6b6ba4b4ba28ya2w6-b440044-ba2c2c80-g003820-we0e0e0-ya0a0a0-yabc8c00/)|
-|![Scottish Tourist Guides Assoc. (Corp example sett](/setts/s13/g24b6y6b6y6b24ba6b6ba4b4ba28ya2w6-b440044-ba2c2c80-g003820-we0e0e0-ya0a0a0-yabc8c00/sett.png)|
+| [Scottish Tourist Guides Assoc. (Corp](/setts/s13/g12b3y3b3y3b12ba3b3ba2b2ba14ya1w3~b440044-ba2c2c80-g003820-we0e0e0-ya0a0a0-yabc8c00~x2/)|
+|![Scottish Tourist Guides Assoc. (Corp example sett](/setts/s13/g12b3y3b3y3b12ba3b3ba2b2ba14ya1w3~b440044-ba2c2c80-g003820-we0e0e0-ya0a0a0-yabc8c00~x2/sett.png)|

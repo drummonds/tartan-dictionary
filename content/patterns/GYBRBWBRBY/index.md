@@ -16,5 +16,5 @@ GYBRBWBRBY
 
 | Tartans |
 |---------------|
-| [Kilsyth](/setts/s10/g8y6b70r26ba16w6ba16r26b70y6-b2c2c80-ba780078-g289c18-rc80000-we0e0e0-ye8c000/)|
-|![Kilsyth example sett](/setts/s10/g8y6b70r26ba16w6ba16r26b70y6-b2c2c80-ba780078-g289c18-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Kilsyth](/setts/s10/g4y3b35r13ba8w3ba8r13b35y3~b2c2c80-ba780078-g289c18-rc80000-we0e0e0-ye8c000~x2/)|
+|![Kilsyth example sett](/setts/s10/g4y3b35r13ba8w3ba8r13b35y3~b2c2c80-ba780078-g289c18-rc80000-we0e0e0-ye8c000~x2/sett.png)|

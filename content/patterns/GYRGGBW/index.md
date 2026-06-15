@@ -6,7 +6,7 @@ GYRGGBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g10y40r6ga26g26b6w6-b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858/tartan.png)
+![Woven sample](/setts/s7/g5y20r3ga13g13b3w3~b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYRGGBW
 
 | Tartans |
 |---------------|
-| [Christmas Hill Game Farm](/setts/s7/g10y40r6ga26g26b6w6-b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858/)|
-|![Christmas Hill Game Farm example sett](/setts/s7/g10y40r6ga26g26b6w6-b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858/sett.png)|
+| [Christmas Hill Game Farm](/setts/s7/g5y20r3ga13g13b3w3~b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858~x2/)|
+|![Christmas Hill Game Farm example sett](/setts/s7/g5y20r3ga13g13b3w3~b500050-g4c3400-ga004828-ra00000-w00ccd0-ya08858~x2/sett.png)|

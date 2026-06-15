@@ -16,5 +16,5 @@ GWGYGYGYGWGW
 
 | Tartans |
 |---------------|
-| [Australian Spirit](/setts/s12/g8w4g48y16g4y8g4y32g16w4g2w8-g005020-wffffff-yfccc00/)|
-|![Australian Spirit example sett](/setts/s12/g8w4g48y16g4y8g4y32g16w4g2w8-g005020-wffffff-yfccc00/sett.png)|
+| [Australian Spirit](/setts/s12/g4w2g24y8g2y4g2y16g8w2g1w4~g005020-wffffff-yfccc00~x2/)|
+|![Australian Spirit example sett](/setts/s12/g4w2g24y8g2y4g2y16g8w2g1w4~g005020-wffffff-yfccc00~x2/sett.png)|

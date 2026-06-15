@@ -16,7 +16,7 @@ WBRKRKRKW
 
 | Tartans |
 |---------------|
-| [Memery (Reston, USA)](/setts/s9/w8k12r6k30r6k12r54b18w4-b271b86-k120a01-rda412d-wf7f1e8/)|
-|![Memery (Reston, USA) example sett](/setts/s9/w8k12r6k30r6k12r54b18w4-b271b86-k120a01-rda412d-wf7f1e8/sett.png)|
-| [Memery (Name)](/setts/s9/w8k12r6k30r6k12r54b18w4-b2c2c80-k101010-rc80000-we0e0e0/)|
-|![Memery (Name) example sett](/setts/s9/w8k12r6k30r6k12r54b18w4-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
+| [Memery (Reston, USA)](/setts/s9/w4k6r3k15r3k6r27b9w2~b271b86-k120a01-rda412d-wf7f1e8~x2/)|
+|![Memery (Reston, USA) example sett](/setts/s9/w4k6r3k15r3k6r27b9w2~b271b86-k120a01-rda412d-wf7f1e8~x2/sett.png)|
+| [Memery (Name)](/setts/s9/w4k6r3k15r3k6r27b9w2~b2c2c80-k101010-rc80000-we0e0e0~x2/)|
+|![Memery (Name) example sett](/setts/s9/w4k6r3k15r3k6r27b9w2~b2c2c80-k101010-rc80000-we0e0e0~x2/sett.png)|

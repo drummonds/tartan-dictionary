@@ -16,5 +16,5 @@ KRKWRWGWRGKW
 
 | Tartans |
 |---------------|
-| [Glenfalloch](/setts/s12/k8r2k24w2r8w2g8w2ra8g24k2w4-g006030-k000030-rd03030-ra802040-we0e0e0/)|
-|![Glenfalloch example sett](/setts/s12/k8r2k24w2r8w2g8w2ra8g24k2w4-g006030-k000030-rd03030-ra802040-we0e0e0/sett.png)|
+| [Glenfalloch](/setts/s12/k4r1k12w1r4w1g4w1ra4g12k1w2~g006030-k000030-rd03030-ra802040-we0e0e0~x2/)|
+|![Glenfalloch example sett](/setts/s12/k4r1k12w1r4w1g4w1ra4g12k1w2~g006030-k000030-rd03030-ra802040-we0e0e0~x2/sett.png)|

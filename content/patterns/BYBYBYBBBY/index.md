@@ -16,5 +16,5 @@ BYBYBYBBBY
 
 | Tartans |
 |---------------|
-| [Kenmore (Fashion)](/setts/s10/b44y22b4y8b4y12b32b80b4ya12-b3c2010-yc89800-yab0b0b0/)|
-|![Kenmore (Fashion) example sett](/setts/s10/b44y22b4y8b4y12b32b80b4ya12-b3c2010-yc89800-yab0b0b0/sett.png)|
+| [Kenmore (Fashion)](/setts/s10/b22y11b2y4b2y6b16b40b2ya6~b3c2010-yc89800-yab0b0b0~x2/)|
+|![Kenmore (Fashion) example sett](/setts/s10/b22y11b2y4b2y6b16b40b2ya6~b3c2010-yc89800-yab0b0b0~x2/sett.png)|

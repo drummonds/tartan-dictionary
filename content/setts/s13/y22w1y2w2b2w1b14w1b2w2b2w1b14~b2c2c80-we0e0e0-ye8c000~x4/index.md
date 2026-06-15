@@ -1,0 +1,53 @@
+---
+title: "Highland Park HS Pipe Band"
+date: 2023-03-18
+---
+In pattern [BWBWBWBWBWYWY](/patterns/bwbwbwbwbwywy/).
+
+
+This was sourced from register-of-tartans.  It is a [13 stripes tartan](/stripes/stripes13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1714
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- 01/01/1940 — Highland Park HS Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1714))
+- pre 1940 — Highland Park HS Pipe Band (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5191/))
+
+## Thread count
+DB/56 LN4 DB8 LN8 DB8 LN4 DB56 LN4 DB8 LN8 Y8 LN4 Y/88
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Menzies Black Dress](/setts/s12/w4k1w2k3w23b5k3b1k1b1k19w2~b2c4084-k101010-we0e0e0~x2/) — ΔT 0.62
+1. [Menzies Black Dress Clan Tartan Tartan Number: 1812. Earliest known date: 1988 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w4k1w2k3w23b5k3b1k1b1k19w2~b2c2c80-k101010-we0e0e0~x2/) — ΔT 0.65
+1. [Buckleigh Dress (Fashion)](/setts/s10/k3r1k1w20k10r2k2w2k2r2~k00002c-rc80000-wf8f8f8~x4/) — ΔT 0.90
+1. [Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w30r5k6r2k2w2k13r5k2r2w2~k080808-r888888-we0e0e0~x2/) — ΔT 0.91
+1. [Highland Park High School (Texas)](/setts/s9/b19w1b6w1b2w2y2w1y18~b202060-wfcfcfc-ye8c000~x4/) — ΔT 0.95
+1. [Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b19w1b6w1b2w2y2w1y18~b1c1c50-we0e0e0-ye8c000~x4/) — ΔT 1.09
+1. [Highland Park High School (Texas)](/setts/s9/b19w1b6w1b2w2y2w1y18~b1c1c50-we0e0e0-ye0a126~x4/) — ΔT 1.14
+1. [Menzies, Black dress](/setts/s12/w4k1w2k3w23b5k3b1k1b1k19w2~b304080-k000000-we0e0e0~x2/) — ΔT 1.17
+1. [Grotto Dove](/setts/s11/w26k7g1k1w1k1g5b3k1b2w1~b6c0070-g5c6428-k101010-wc0c0c0~x4/) — ΔT 1.22
+1. [Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/k8w13b2w1b2w1b2w1b2w1b2w1b2~b2c2c80-k101010-we0e0e0~x2/) — ΔT 1.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w4k1w2k3w23b5k3b1k1b1k19w2~b2c4084-k101010-we0e0e0~x2/"><circle cx="286.6" cy="115.9" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/setts/s12/w4k1w2k3w23b5k3b1k1b1k19w2~b2c2c80-k101010-we0e0e0~x2/"><circle cx="286.7" cy="115.9" r="4" fill="#3465a4"><title>Menzies Black Dress Clan Tartan Tartan Number: 1812. Earliest known date: 1988 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k3r1k1w20k10r2k2w2k2r2~k00002c-rc80000-wf8f8f8~x4/"><circle cx="282.7" cy="125.3" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><a href="/setts/s11/w30r5k6r2k2w2k13r5k2r2w2~k080808-r888888-we0e0e0~x2/"><circle cx="255.1" cy="133.0" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b19w1b6w1b2w2y2w1y18~b202060-wfcfcfc-ye8c000~x4/"><circle cx="304.1" cy="142.1" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/setts/s9/b19w1b6w1b2w2y2w1y18~b1c1c50-we0e0e0-ye8c000~x4/"><circle cx="305.6" cy="143.3" r="4" fill="#3465a4"><title>Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b19w1b6w1b2w2y2w1y18~b1c1c50-we0e0e0-ye0a126~x4/"><circle cx="313.7" cy="145.4" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/setts/s12/w4k1w2k3w23b5k3b1k1b1k19w2~b304080-k000000-we0e0e0~x2/"><circle cx="284.0" cy="118.1" r="4" fill="#3465a4"><title>Menzies, Black dress</title></circle></a><a href="/setts/s11/w26k7g1k1w1k1g5b3k1b2w1~b6c0070-g5c6428-k101010-wc0c0c0~x4/"><circle cx="326.2" cy="87.3" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/setts/s13/k8w13b2w1b2w1b2w1b2w1b2w1b2~b2c2c80-k101010-we0e0e0~x2/"><circle cx="239.9" cy="138.4" r="4" fill="#3465a4"><title>Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="304.8" cy="115.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/y22w1y2w2b2w1b14w1b2w2b2w1b14~b2c2c80-we0e0e0-ye8c000~x4/

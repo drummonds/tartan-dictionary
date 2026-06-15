@@ -16,5 +16,5 @@ GKGKGKGKGKGY
 
 | Tartans |
 |---------------|
-| [Norwich No.039 (Mackinlay)](/setts/s12/g8k8g8k2g8k8g8k2g8k8g8y2-g006818-k000000-ydcbc00/)|
-|![Norwich No.039 (Mackinlay) example sett](/setts/s12/g8k8g8k2g8k8g8k2g8k8g8y2-g006818-k000000-ydcbc00/sett.png)|
+| [Norwich No.039 (Mackinlay)](/setts/s12/g4k4g4k1g4k4g4k1g4k4g4y1~g006818-k000000-ydcbc00~x2/)|
+|![Norwich No.039 (Mackinlay) example sett](/setts/s12/g4k4g4k1g4k4g4k1g4k4g4y1~g006818-k000000-ydcbc00~x2/sett.png)|

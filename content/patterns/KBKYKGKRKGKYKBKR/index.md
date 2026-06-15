@@ -16,5 +16,5 @@ KBKYKGKRKGKYKBKR
 
 | Tartans |
 |---------------|
-| [Strachan](/setts/s16/k6b84k6y4k6g44k6r4k6g44k6y4k6b84k6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Strachan example sett](/setts/s16/k6b84k6y4k6g44k6r4k6g44k6y4k6b84k6r4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Strachan](/setts/s16/k3b42k3y2k3g22k3r2k3g22k3y2k3b42k3r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Strachan example sett](/setts/s16/k3b42k3y2k3g22k3r2k3g22k3y2k3b42k3r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

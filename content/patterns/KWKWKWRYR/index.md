@@ -16,5 +16,5 @@ KWKWKWRYR
 
 | Tartans |
 |---------------|
-| [Falkirk (District)](/setts/s9/k8w8k4w8k4w44r54y4ra6-k101010-r906c50-rac80000-w98c8e8-ye8c000/)|
-|![Falkirk (District) example sett](/setts/s9/k8w8k4w8k4w44r54y4ra6-k101010-r906c50-rac80000-w98c8e8-ye8c000/sett.png)|
+| [Falkirk (District)](/setts/s9/k4w4k2w4k2w22r27y2ra3~k101010-r906c50-rac80000-w98c8e8-ye8c000~x2/)|
+|![Falkirk (District) example sett](/setts/s9/k4w4k2w4k2w22r27y2ra3~k101010-r906c50-rac80000-w98c8e8-ye8c000~x2/sett.png)|

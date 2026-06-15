@@ -6,7 +6,7 @@ KRWGGBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k6r36w4g42ga4b14ba10w4-b800080-ba5480b0-g008000-ga30a010-k000000-rc00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k3r18w2g21ga2b7ba5w2~b800080-ba5480b0-g008000-ga30a010-k000000-rc00000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWGGBBW
 
 | Tartans |
 |---------------|
-| [Wilson's, No 132](/setts/s8/k6r36w4g42ga4b14ba10w4-b800080-ba5480b0-g008000-ga30a010-k000000-rc00000-we0e0e0/)|
-|![Wilson's, No 132 example sett](/setts/s8/k6r36w4g42ga4b14ba10w4-b800080-ba5480b0-g008000-ga30a010-k000000-rc00000-we0e0e0/sett.png)|
+| [Wilson's, No 132](/setts/s8/k3r18w2g21ga2b7ba5w2~b800080-ba5480b0-g008000-ga30a010-k000000-rc00000-we0e0e0~x2/)|
+|![Wilson's, No 132 example sett](/setts/s8/k3r18w2g21ga2b7ba5w2~b800080-ba5480b0-g008000-ga30a010-k000000-rc00000-we0e0e0~x2/sett.png)|

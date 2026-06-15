@@ -16,5 +16,5 @@ WBYGBYRBGYW
 
 | Tartans |
 |---------------|
-| [Rosemount Course, Blairgowrie Golf Club](/setts/s11/w6y60g6b6r6y6b16ga6y6b6w6-b000048-g003c14-ga048888-r960028-wffffff-yd09800/)|
-|![Rosemount Course, Blairgowrie Golf Club example sett](/setts/s11/w6y60g6b6r6y6b16ga6y6b6w6-b000048-g003c14-ga048888-r960028-wffffff-yd09800/sett.png)|
+| [Rosemount Course, Blairgowrie Golf Club](/setts/s11/w3y30g3b3r3y3b8ga3y3b3w3~b000048-g003c14-ga048888-r960028-wffffff-yd09800~x2/)|
+|![Rosemount Course, Blairgowrie Golf Club example sett](/setts/s11/w3y30g3b3r3y3b8ga3y3b3w3~b000048-g003c14-ga048888-r960028-wffffff-yd09800~x2/sett.png)|

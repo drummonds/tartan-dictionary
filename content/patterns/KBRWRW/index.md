@@ -6,7 +6,7 @@ KBRWRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/k4b28r6w12r12w3~b5c8ca8-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRWRW
 
 | Tartans |
 |---------------|
-| [Thompson, D.C. (Personal)](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/)|
-|![Thompson, D.C. (Personal) example sett](/setts/s6/k8b56r12w24r24w6-b5c8ca8-k101010-rc80000-we0e0e0/sett.png)|
+| [Thompson, D.C. (Personal)](/setts/s6/k4b28r6w12r12w3~b5c8ca8-k101010-rc80000-we0e0e0~x2/)|
+|![Thompson, D.C. (Personal) example sett](/setts/s6/k4b28r6w12r12w3~b5c8ca8-k101010-rc80000-we0e0e0~x2/sett.png)|

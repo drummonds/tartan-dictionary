@@ -16,7 +16,7 @@ GGBGBWBGGG
 
 | Tartans |
 |---------------|
-| [MacScott Family (America) (Personal)](/setts/s10/g46ga10b26g10b10w6b10g10ga18g18-b0000cd-g008b00-ga603311-wffffff/)|
-|![MacScott Family (America) (Personal) example sett](/setts/s10/g46ga10b26g10b10w6b10g10ga18g18-b0000cd-g008b00-ga603311-wffffff/sett.png)|
-| [MacScott (Personal)](/setts/s10/g46ga10b26g10b10w6b10g10ga18g18-b2c2c80-g006818-ga604000-we0e0e0/)|
-|![MacScott (Personal) example sett](/setts/s10/g46ga10b26g10b10w6b10g10ga18g18-b2c2c80-g006818-ga604000-we0e0e0/sett.png)|
+| [MacScott Family (America) (Personal)](/setts/s10/g23ga5b13g5b5w3b5g5ga9g9~b0000cd-g008b00-ga603311-wffffff~x2/)|
+|![MacScott Family (America) (Personal) example sett](/setts/s10/g23ga5b13g5b5w3b5g5ga9g9~b0000cd-g008b00-ga603311-wffffff~x2/sett.png)|
+| [MacScott (Personal)](/setts/s10/g23ga5b13g5b5w3b5g5ga9g9~b2c2c80-g006818-ga604000-we0e0e0~x2/)|
+|![MacScott (Personal) example sett](/setts/s10/g23ga5b13g5b5w3b5g5ga9g9~b2c2c80-g006818-ga604000-we0e0e0~x2/sett.png)|

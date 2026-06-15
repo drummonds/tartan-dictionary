@@ -16,5 +16,5 @@ BKRKBKWKGKGGKWKGGKGKWKBKRK
 
 | Tartans |
 |---------------|
-| [Strathclyde, University of](/setts/s26/b14k2r6k2b48k2w6k6g6k6g6ga38k4w8k4ga38g6k6g6k6w6k2b48k2r6k2-b2c2c80-g5c6428-ga006818-k101010-rc80000-we0e0e0/)|
-|![Strathclyde, University of example sett](/setts/s26/b14k2r6k2b48k2w6k6g6k6g6ga38k4w8k4ga38g6k6g6k6w6k2b48k2r6k2-b2c2c80-g5c6428-ga006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Strathclyde, University of](/setts/s26/b7k1r3k1b24k1w3k3g3k3g3ga19k2w4k2ga19g3k3g3k3w3k1b24k1r3k1~b2c2c80-g5c6428-ga006818-k101010-rc80000-we0e0e0~x2/)|
+|![Strathclyde, University of example sett](/setts/s26/b7k1r3k1b24k1w3k3g3k3g3ga19k2w4k2ga19g3k3g3k3w3k1b24k1r3k1~b2c2c80-g5c6428-ga006818-k101010-rc80000-we0e0e0~x2/sett.png)|

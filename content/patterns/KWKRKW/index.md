@@ -6,7 +6,7 @@ KWKRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k26w4k8r56k8w4-k101010-rcc4438-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/k13w2k4r28k4w2~k101010-rcc4438-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKRKW
 
 | Tartans |
 |---------------|
-| [Dunbar Ancient](/setts/s6/k26w4k8r56k8w4-k101010-rcc4438-we0e0e0/)|
-|![Dunbar Ancient example sett](/setts/s6/k26w4k8r56k8w4-k101010-rcc4438-we0e0e0/sett.png)|
+| [Dunbar Ancient](/setts/s6/k13w2k4r28k4w2~k101010-rcc4438-we0e0e0~x2/)|
+|![Dunbar Ancient example sett](/setts/s6/k13w2k4r28k4w2~k101010-rcc4438-we0e0e0~x2/sett.png)|

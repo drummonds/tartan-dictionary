@@ -16,5 +16,5 @@ KGGGKRBBWBBR
 
 | Tartans |
 |---------------|
-| [Anderson (Blackwood) (Personal)](/setts/s12/k10g30ga16g30k10r8b16ba10w6ba10b16r8-b2c2c80-ba5c8ca8-g006818-ga604000-k101010-rc80000-we0e0e0/)|
-|![Anderson (Blackwood) (Personal) example sett](/setts/s12/k10g30ga16g30k10r8b16ba10w6ba10b16r8-b2c2c80-ba5c8ca8-g006818-ga604000-k101010-rc80000-we0e0e0/sett.png)|
+| [Anderson (Blackwood) (Personal)](/setts/s12/k5g15ga8g15k5r4b8ba5w3ba5b8r4~b2c2c80-ba5c8ca8-g006818-ga604000-k101010-rc80000-we0e0e0~x2/)|
+|![Anderson (Blackwood) (Personal) example sett](/setts/s12/k5g15ga8g15k5r4b8ba5w3ba5b8r4~b2c2c80-ba5c8ca8-g006818-ga604000-k101010-rc80000-we0e0e0~x2/sett.png)|

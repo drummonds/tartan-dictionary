@@ -6,7 +6,7 @@ GKYKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g32k32y4k32g32k4-g006818-k000000-ydcbc00/tartan.png)
+![Woven sample](/setts/s6/g8k8y1k8g8k1~g006818-k000000-ydcbc00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKYKGK
 
 | Tartans |
 |---------------|
-| [Wallace Hunting](/setts/s6/g32k32y4k32g32k4-g006818-k000000-ydcbc00/)|
-|![Wallace Hunting example sett](/setts/s6/g32k32y4k32g32k4-g006818-k000000-ydcbc00/sett.png)|
+| [Wallace Hunting](/setts/s6/g8k8y1k8g8k1~g006818-k000000-ydcbc00~x4/)|
+|![Wallace Hunting example sett](/setts/s6/g8k8y1k8g8k1~g006818-k000000-ydcbc00~x4/sett.png)|

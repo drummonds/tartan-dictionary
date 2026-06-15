@@ -16,5 +16,5 @@ RYGYGYGYGY
 
 | Tartans |
 |---------------|
-| [Unidentified #62](/setts/s10/r64y2g16y2g16y2g16y2g16y2-g006818-r880000-yd09800/)|
-|![Unidentified #62 example sett](/setts/s10/r64y2g16y2g16y2g16y2g16y2-g006818-r880000-yd09800/sett.png)|
+| [Unidentified #62](/setts/s10/r32y1g8y1g8y1g8y1g8y1~g006818-r880000-yd09800~x2/)|
+|![Unidentified #62 example sett](/setts/s10/r32y1g8y1g8y1g8y1g8y1~g006818-r880000-yd09800~x2/sett.png)|

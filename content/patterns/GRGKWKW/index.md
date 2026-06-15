@@ -6,7 +6,7 @@ GRGKWKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g16r6g60k16w6k72w16-g007800-k000000-r8c0000-wf0f0f0/tartan.png)
+![Woven sample](/setts/s7/g8r3g30k8w3k36w8~g007800-k000000-r8c0000-wf0f0f0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGKWKW
 
 | Tartans |
 |---------------|
-| [Cleghorn (Personal)](/setts/s7/g16r6g60k16w6k72w16-g007800-k000000-r8c0000-wf0f0f0/)|
-|![Cleghorn (Personal) example sett](/setts/s7/g16r6g60k16w6k72w16-g007800-k000000-r8c0000-wf0f0f0/sett.png)|
+| [Cleghorn (Personal)](/setts/s7/g8r3g30k8w3k36w8~g007800-k000000-r8c0000-wf0f0f0~x2/)|
+|![Cleghorn (Personal) example sett](/setts/s7/g8r3g30k8w3k36w8~g007800-k000000-r8c0000-wf0f0f0~x2/sett.png)|

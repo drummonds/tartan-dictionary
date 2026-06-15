@@ -16,5 +16,5 @@ RBRBRKRBKY
 
 | Tartans |
 |---------------|
-| [Keogh (Name)](/setts/s10/r8b36r8ba6r8k24r6b48k4y6-b1474b4-ba5c8ca8-k101010-rc80000-yfccc00/)|
-|![Keogh (Name) example sett](/setts/s10/r8b36r8ba6r8k24r6b48k4y6-b1474b4-ba5c8ca8-k101010-rc80000-yfccc00/sett.png)|
+| [Keogh (Name)](/setts/s10/r4b18r4ba3r4k12r3b24k2y3~b1474b4-ba5c8ca8-k101010-rc80000-yfccc00~x2/)|
+|![Keogh (Name) example sett](/setts/s10/r4b18r4ba3r4k12r3b24k2y3~b1474b4-ba5c8ca8-k101010-rc80000-yfccc00~x2/sett.png)|

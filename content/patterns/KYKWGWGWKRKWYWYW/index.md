@@ -16,5 +16,5 @@ KYKWGWGWKRKWYWYW
 
 | Tartans |
 |---------------|
-| [Kinnison (Clan?)](/setts/s16/k34y4k34w24g4w24g4w24k34r4k34w24y4w24y4w24-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Kinnison (Clan?) example sett](/setts/s16/k34y4k34w24g4w24g4w24k34r4k34w24y4w24y4w24-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Kinnison (Clan?)](/setts/s16/k17y2k17w12g2w12g2w12k17r2k17w12y2w12y2w12~g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Kinnison (Clan?) example sett](/setts/s16/k17y2k17w12g2w12g2w12k17r2k17w12y2w12y2w12~g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

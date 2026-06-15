@@ -16,5 +16,5 @@ WRKRKWRWKRKWGWKRKRWY
 
 | Tartans |
 |---------------|
-| [Order of the Holy Sepulchre of Jerusalem](/setts/s20/w4r28k28r4k28w4r28w4k28r4k28w4g8w4k32r4k32r28w4y4-g908000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Order of the Holy Sepulchre of Jerusalem example sett](/setts/s20/w4r28k28r4k28w4r28w4k28r4k28w4g8w4k32r4k32r28w4y4-g908000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Order of the Holy Sepulchre of Jerusalem](/setts/s20/w1r7k7r1k7w1r7w1k7r1k7w1g2w1k8r1k8r7w1y1~g908000-k000000-rc00000-we0e0e0-yf0c000~x4/)|
+|![Order of the Holy Sepulchre of Jerusalem example sett](/setts/s20/w1r7k7r1k7w1r7w1k7r1k7w1g2w1k8r1k8r7w1y1~g908000-k000000-rc00000-we0e0e0-yf0c000~x4/sett.png)|

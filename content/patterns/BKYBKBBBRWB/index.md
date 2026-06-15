@@ -16,5 +16,5 @@ BKYBKBBBRWB
 
 | Tartans |
 |---------------|
-| [Arran Mist](/setts/s11/b16w2r2ba20bb32b4k6ba66y2ka6b4-b4c3428-ba141e46-bb505050-k101010-ka1c1714-r888888-wffffff-yb0b0b0/)|
-|![Arran Mist example sett](/setts/s11/b16w2r2ba20bb32b4k6ba66y2ka6b4-b4c3428-ba141e46-bb505050-k101010-ka1c1714-r888888-wffffff-yb0b0b0/sett.png)|
+| [Arran Mist](/setts/s11/b8w1r1ba10bb16b2k3ba33y1ka3b2~b4c3428-ba141e46-bb505050-k101010-ka1c1714-r888888-wffffff-yb0b0b0~x2/)|
+|![Arran Mist example sett](/setts/s11/b8w1r1ba10bb16b2k3ba33y1ka3b2~b4c3428-ba141e46-bb505050-k101010-ka1c1714-r888888-wffffff-yb0b0b0~x2/sett.png)|

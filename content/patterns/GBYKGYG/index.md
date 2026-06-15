@@ -6,7 +6,7 @@ GBYKGYG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g8b24y4k20ga20y6ga4-b5c5c5c-g006818-ga8c7038-k101010-yd09800/tartan.png)
+![Woven sample](/setts/s7/g4b12y2k10ga10y3ga2~b5c5c5c-g006818-ga8c7038-k101010-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBYKGYG
 
 | Tartans |
 |---------------|
-| [Rothesay](/setts/s7/g8b24y4k20ga20y6ga4-b5c5c5c-g006818-ga8c7038-k101010-yd09800/)|
-|![Rothesay example sett](/setts/s7/g8b24y4k20ga20y6ga4-b5c5c5c-g006818-ga8c7038-k101010-yd09800/sett.png)|
+| [Rothesay](/setts/s7/g4b12y2k10ga10y3ga2~b5c5c5c-g006818-ga8c7038-k101010-yd09800~x2/)|
+|![Rothesay example sett](/setts/s7/g4b12y2k10ga10y3ga2~b5c5c5c-g006818-ga8c7038-k101010-yd09800~x2/sett.png)|

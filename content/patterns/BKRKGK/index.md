@@ -6,7 +6,7 @@ BKRKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b24k2r140k2g24k2-b003c64-g408060-k101010-rff0000/tartan.png)
+![Woven sample](/setts/s6/b12k1r70k1g12k1~b003c64-g408060-k101010-rff0000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRKGK
 
 | Tartans |
 |---------------|
-| [Lawers Estate](/setts/s6/b24k2r140k2g24k2-b003c64-g408060-k101010-rff0000/)|
-|![Lawers Estate example sett](/setts/s6/b24k2r140k2g24k2-b003c64-g408060-k101010-rff0000/sett.png)|
+| [Lawers Estate](/setts/s6/b12k1r70k1g12k1~b003c64-g408060-k101010-rff0000~x2/)|
+|![Lawers Estate example sett](/setts/s6/b12k1r70k1g12k1~b003c64-g408060-k101010-rff0000~x2/sett.png)|

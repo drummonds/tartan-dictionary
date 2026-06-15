@@ -16,5 +16,5 @@ BKBGKGBKBK
 
 | Tartans |
 |---------------|
-| [Scott, Sir Walter](/setts/s10/b18k22ba4g18k6g18ba4k22b18k6-b780078-ba5c8ca8-g006818-k101010/)|
-|![Scott, Sir Walter example sett](/setts/s10/b18k22ba4g18k6g18ba4k22b18k6-b780078-ba5c8ca8-g006818-k101010/sett.png)|
+| [Scott, Sir Walter](/setts/s10/b9k11ba2g9k3g9ba2k11b9k3~b780078-ba5c8ca8-g006818-k101010~x2/)|
+|![Scott, Sir Walter example sett](/setts/s10/b9k11ba2g9k3g9ba2k11b9k3~b780078-ba5c8ca8-g006818-k101010~x2/sett.png)|

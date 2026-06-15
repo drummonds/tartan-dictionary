@@ -6,7 +6,7 @@ BRGWKWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b26r2g26w2k2w14k6-b5c8ca8-g288028-k101010-r880000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b13r1g13w1k1w7k3~b5c8ca8-g288028-k101010-r880000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGWKWK
 
 | Tartans |
 |---------------|
-| [Chambers, Christopher J (Personal)](/setts/s7/b26r2g26w2k2w14k6-b5c8ca8-g288028-k101010-r880000-wfcfcfc/)|
-|![Chambers, Christopher J (Personal) example sett](/setts/s7/b26r2g26w2k2w14k6-b5c8ca8-g288028-k101010-r880000-wfcfcfc/sett.png)|
+| [Chambers, Christopher J (Personal)](/setts/s7/b13r1g13w1k1w7k3~b5c8ca8-g288028-k101010-r880000-wfcfcfc~x2/)|
+|![Chambers, Christopher J (Personal) example sett](/setts/s7/b13r1g13w1k1w7k3~b5c8ca8-g288028-k101010-r880000-wfcfcfc~x2/sett.png)|

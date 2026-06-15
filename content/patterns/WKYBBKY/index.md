@@ -6,7 +6,7 @@ WKYBBKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w8k48y4b48ba10k8y8-b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w4k24y2b24ba5k4y4~b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKYBBKY
 
 | Tartans |
 |---------------|
-| [Mina Perhonen](/setts/s7/w8k48y4b48ba10k8y8-b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000/)|
-|![Mina Perhonen example sett](/setts/s7/w8k48y4b48ba10k8y8-b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000/sett.png)|
+| [Mina Perhonen](/setts/s7/w4k24y2b24ba5k4y4~b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000~x2/)|
+|![Mina Perhonen example sett](/setts/s7/w4k24y2b24ba5k4y4~b006080-ba5c8ca8-k00003c-we0e0e0-ye8c000~x2/sett.png)|

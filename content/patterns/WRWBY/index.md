@@ -6,7 +6,7 @@ WRWBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w6r54w32b54y6-b001f5c-r930601-wffffff-yf0e200/tartan.png)
+![Woven sample](/setts/s5/w3r27w16b27y3~b001f5c-r930601-wffffff-yf0e200~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WRWBY
 
 | Tartans |
 |---------------|
-| [Common Ground (Dress)](/setts/s5/w6r54w32b54y6-b001f5c-r930601-wffffff-yf0e200/)|
-|![Common Ground (Dress) example sett](/setts/s5/w6r54w32b54y6-b001f5c-r930601-wffffff-yf0e200/sett.png)|
-| [Common Ground Dress (Fashion)](/setts/s5/w6r54w32b54y6-b2c2c80-r880000-we0e0e0-ybc8c00/)|
-|![Common Ground Dress (Fashion) example sett](/setts/s5/w6r54w32b54y6-b2c2c80-r880000-we0e0e0-ybc8c00/sett.png)|
+| [Common Ground (Dress)](/setts/s5/w3r27w16b27y3~b001f5c-r930601-wffffff-yf0e200~x2/)|
+|![Common Ground (Dress) example sett](/setts/s5/w3r27w16b27y3~b001f5c-r930601-wffffff-yf0e200~x2/sett.png)|
+| [Common Ground Dress (Fashion)](/setts/s5/w3r27w16b27y3~b2c2c80-r880000-we0e0e0-ybc8c00~x2/)|
+|![Common Ground Dress (Fashion) example sett](/setts/s5/w3r27w16b27y3~b2c2c80-r880000-we0e0e0-ybc8c00~x2/sett.png)|

@@ -16,5 +16,5 @@ GYBGBWBGRBRW
 
 | Tartans |
 |---------------|
-| [Maciocia (Personal)](/setts/s12/g92y16b22ga6b6w6b6gb32r18b6r2w6-b1c1c1c-g886c3c-ga706420-gb505444-ra42430-wf0d0b4-ya49468/)|
-|![Maciocia (Personal) example sett](/setts/s12/g92y16b22ga6b6w6b6gb32r18b6r2w6-b1c1c1c-g886c3c-ga706420-gb505444-ra42430-wf0d0b4-ya49468/sett.png)|
+| [Maciocia (Personal)](/setts/s12/g46y8b11ga3b3w3b3gb16r9b3r1w3~b1c1c1c-g886c3c-ga706420-gb505444-ra42430-wf0d0b4-ya49468~x2/)|
+|![Maciocia (Personal) example sett](/setts/s12/g46y8b11ga3b3w3b3gb16r9b3r1w3~b1c1c1c-g886c3c-ga706420-gb505444-ra42430-wf0d0b4-ya49468~x2/sett.png)|

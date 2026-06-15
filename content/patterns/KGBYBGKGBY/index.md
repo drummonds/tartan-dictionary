@@ -16,5 +16,5 @@ KGBYBGKGBY
 
 | Tartans |
 |---------------|
-| [Pinney's of Scotland](/setts/s10/k8g4b20y2b4g26k22g26b26y4-b304080-g008000-k000030-yf0c000/)|
-|![Pinney's of Scotland example sett](/setts/s10/k8g4b20y2b4g26k22g26b26y4-b304080-g008000-k000030-yf0c000/sett.png)|
+| [Pinney's of Scotland](/setts/s10/k4g2b10y1b2g13k11g13b13y2~b304080-g008000-k000030-yf0c000~x2/)|
+|![Pinney's of Scotland example sett](/setts/s10/k4g2b10y1b2g13k11g13b13y2~b304080-g008000-k000030-yf0c000~x2/sett.png)|

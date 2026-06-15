@@ -6,7 +6,7 @@ BRBGBWBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b28r6b28g12b28w8b28y6-b2c2c80-g604000-rb468ac-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b14r3b14g6b14w4b14y3~b2c2c80-g604000-rb468ac-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBGBWBY
 
 | Tartans |
 |---------------|
-| [Columba of Iona (School)](/setts/s8/b28r6b28g12b28w8b28y6-b2c2c80-g604000-rb468ac-we0e0e0-ye8c000/)|
-|![Columba of Iona (School) example sett](/setts/s8/b28r6b28g12b28w8b28y6-b2c2c80-g604000-rb468ac-we0e0e0-ye8c000/sett.png)|
+| [Columba of Iona (School)](/setts/s8/b14r3b14g6b14w4b14y3~b2c2c80-g604000-rb468ac-we0e0e0-ye8c000~x2/)|
+|![Columba of Iona (School) example sett](/setts/s8/b14r3b14g6b14w4b14y3~b2c2c80-g604000-rb468ac-we0e0e0-ye8c000~x2/sett.png)|

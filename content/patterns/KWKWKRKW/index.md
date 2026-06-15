@@ -6,7 +6,7 @@ KWKWKRKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k80w4k4w12k4r4k4w4-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k20w1k1w3k1r1k1w1~k101010-rc80000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKWKRKW
 
 | Tartans |
 |---------------|
-| [Volkswagen Black Trim (Fashion)](/setts/s8/k80w4k4w12k4r4k4w4-k101010-rc80000-we0e0e0/)|
-|![Volkswagen Black Trim (Fashion) example sett](/setts/s8/k80w4k4w12k4r4k4w4-k101010-rc80000-we0e0e0/sett.png)|
+| [Volkswagen Black Trim (Fashion)](/setts/s8/k20w1k1w3k1r1k1w1~k101010-rc80000-we0e0e0~x4/)|
+|![Volkswagen Black Trim (Fashion) example sett](/setts/s8/k20w1k1w3k1r1k1w1~k101010-rc80000-we0e0e0~x4/sett.png)|

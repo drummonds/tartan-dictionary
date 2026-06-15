@@ -16,5 +16,5 @@ BRBKBKBKBY
 
 | Tartans |
 |---------------|
-| [Brady 60th, Keith James (Personal)](/setts/s10/b4r4b28k12b4k4b4k4ba36y4-b666666-ba141f5f-k101010-r8f5b33-yc18d13/)|
-|![Brady 60th, Keith James (Personal) example sett](/setts/s10/b4r4b28k12b4k4b4k4ba36y4-b666666-ba141f5f-k101010-r8f5b33-yc18d13/sett.png)|
+| [Brady 60th, Keith James (Personal)](/setts/s10/b1r1b7k3b1k1b1k1ba9y1~b666666-ba141f5f-k101010-r8f5b33-yc18d13~x4/)|
+|![Brady 60th, Keith James (Personal) example sett](/setts/s10/b1r1b7k3b1k1b1k1ba9y1~b666666-ba141f5f-k101010-r8f5b33-yc18d13~x4/sett.png)|

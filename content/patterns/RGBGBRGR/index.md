@@ -6,7 +6,7 @@ RGBGBRGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r56g4r8b36g46b4g6ra8-b000050-g008000-r806050-ra906030/tartan.png)
+![Woven sample](/setts/s8/r28g2r4b18g23b2g3ra4~b000050-g008000-r806050-ra906030~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGBGBRGR
 
 | Tartans |
 |---------------|
-| [Dalbraith-Eastern Western Motor Group](/setts/s8/r56g4r8b36g46b4g6ra8-b000050-g008000-r806050-ra906030/)|
-|![Dalbraith-Eastern Western Motor Group example sett](/setts/s8/r56g4r8b36g46b4g6ra8-b000050-g008000-r806050-ra906030/sett.png)|
+| [Dalbraith-Eastern Western Motor Group](/setts/s8/r28g2r4b18g23b2g3ra4~b000050-g008000-r806050-ra906030~x2/)|
+|![Dalbraith-Eastern Western Motor Group example sett](/setts/s8/r28g2r4b18g23b2g3ra4~b000050-g008000-r806050-ra906030~x2/sett.png)|

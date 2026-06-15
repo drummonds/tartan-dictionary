@@ -6,7 +6,7 @@ RBKBRBRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r30b10k4b10r30ba6r30w4-b003c64-ba9050d8-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r15b5k2b5r15ba3r15w2~b003c64-ba9050d8-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKBRBRW
 
 | Tartans |
 |---------------|
-| [Goodwillie (Fashion)](/setts/s8/r30b10k4b10r30ba6r30w4-b003c64-ba9050d8-k101010-rc80000-we0e0e0/)|
-|![Goodwillie (Fashion) example sett](/setts/s8/r30b10k4b10r30ba6r30w4-b003c64-ba9050d8-k101010-rc80000-we0e0e0/sett.png)|
+| [Goodwillie (Fashion)](/setts/s8/r15b5k2b5r15ba3r15w2~b003c64-ba9050d8-k101010-rc80000-we0e0e0~x2/)|
+|![Goodwillie (Fashion) example sett](/setts/s8/r15b5k2b5r15ba3r15w2~b003c64-ba9050d8-k101010-rc80000-we0e0e0~x2/sett.png)|

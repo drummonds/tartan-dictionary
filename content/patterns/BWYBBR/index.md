@@ -6,7 +6,7 @@ BWYBBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b40w16y16ba16b66r6-baa00ff-ba0000cd-rff0000-w82cffd-y86c67c/tartan.png)
+![Woven sample](/setts/s6/b20w8y8ba8b33r3~baa00ff-ba0000cd-rff0000-w82cffd-y86c67c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWYBBR
 
 | Tartans |
 |---------------|
-| [McIntosh, Stuart (Personal)](/setts/s6/b40w16y16ba16b66r6-baa00ff-ba0000cd-rff0000-w82cffd-y86c67c/)|
-|![McIntosh, Stuart (Personal) example sett](/setts/s6/b40w16y16ba16b66r6-baa00ff-ba0000cd-rff0000-w82cffd-y86c67c/sett.png)|
+| [McIntosh, Stuart (Personal)](/setts/s6/b20w8y8ba8b33r3~baa00ff-ba0000cd-rff0000-w82cffd-y86c67c~x2/)|
+|![McIntosh, Stuart (Personal) example sett](/setts/s6/b20w8y8ba8b33r3~baa00ff-ba0000cd-rff0000-w82cffd-y86c67c~x2/sett.png)|

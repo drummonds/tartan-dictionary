@@ -16,5 +16,5 @@ BKYKBKBKBKBKBKBRBKBKBKBKW
 
 | Tartans |
 |---------------|
-| [Arnold (California)](/setts/s25/b8k2y4k2b6k2b4k4b4k8b4k4b4k2b6r2b8k38ba2k4ba6k8b8k2w4-b00008c-ba4b3971-k000000-rff0000-wffffff-ye0a126/)|
-|![Arnold (California) example sett](/setts/s25/b8k2y4k2b6k2b4k4b4k8b4k4b4k2b6r2b8k38ba2k4ba6k8b8k2w4-b00008c-ba4b3971-k000000-rff0000-wffffff-ye0a126/sett.png)|
+| [Arnold (California)](/setts/s25/b4k1y2k1b3k1b2k2b2k4b2k2b2k1b3r1b4k19ba1k2ba3k4b4k1w2~b00008c-ba4b3971-k000000-rff0000-wffffff-ye0a126~x2/)|
+|![Arnold (California) example sett](/setts/s25/b4k1y2k1b3k1b2k2b2k4b2k2b2k1b3r1b4k19ba1k2ba3k4b4k1w2~b00008c-ba4b3971-k000000-rff0000-wffffff-ye0a126~x2/sett.png)|

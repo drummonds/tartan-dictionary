@@ -16,5 +16,5 @@ KGKGBKKKKKKK
 
 | Tartans |
 |---------------|
-| [Daks (Chino Check)](/setts/s12/k44k6ka14k4ka4k4ka4b20g12ka4g6k4-b1c0070-g5c6428-k000000-ka101010/)|
-|![Daks (Chino Check) example sett](/setts/s12/k44k6ka14k4ka4k4ka4b20g12ka4g6k4-b1c0070-g5c6428-k000000-ka101010/sett.png)|
+| [Daks (Chino Check)](/setts/s12/k22k3ka7k2ka2k2ka2b10g6ka2g3k2~b1c0070-g5c6428-k000000-ka101010~x2/)|
+|![Daks (Chino Check) example sett](/setts/s12/k22k3ka7k2ka2k2ka2b10g6ka2g3k2~b1c0070-g5c6428-k000000-ka101010~x2/sett.png)|

@@ -6,7 +6,7 @@ RWKYR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r18w18k18y60ra6-k101010-r98481c-rac80000-wf8f4d0-ya08858/tartan.png)
+![Woven sample](/setts/s5/r3w3k3y10ra1~k101010-r98481c-rac80000-wf8f4d0-ya08858~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKYR
 
 | Tartans |
 |---------------|
-| [Burberry Counterfeit](/setts/s5/r18w18k18y60ra6-k101010-r98481c-rac80000-wf8f4d0-ya08858/)|
-|![Burberry Counterfeit example sett](/setts/s5/r18w18k18y60ra6-k101010-r98481c-rac80000-wf8f4d0-ya08858/sett.png)|
+| [Burberry Counterfeit](/setts/s5/r3w3k3y10ra1~k101010-r98481c-rac80000-wf8f4d0-ya08858~x6/)|
+|![Burberry Counterfeit example sett](/setts/s5/r3w3k3y10ra1~k101010-r98481c-rac80000-wf8f4d0-ya08858~x6/sett.png)|

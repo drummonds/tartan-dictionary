@@ -6,7 +6,7 @@ BRWRWKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w10k4w60r48w6r16b6-b003c64-k101010-rc8002c-wf0e0c8/tartan.png)
+![Woven sample](/setts/s7/w5k2w30r24w3r8b3~b003c64-k101010-rc8002c-wf0e0c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWRWKW
 
 | Tartans |
 |---------------|
-| [Arduaine, Red (Dance)](/setts/s7/w10k4w60r48w6r16b6-b003c64-k101010-rc8002c-wf0e0c8/)|
-|![Arduaine, Red (Dance) example sett](/setts/s7/w10k4w60r48w6r16b6-b003c64-k101010-rc8002c-wf0e0c8/sett.png)|
+| [Arduaine, Red (Dance)](/setts/s7/w5k2w30r24w3r8b3~b003c64-k101010-rc8002c-wf0e0c8~x2/)|
+|![Arduaine, Red (Dance) example sett](/setts/s7/w5k2w30r24w3r8b3~b003c64-k101010-rc8002c-wf0e0c8~x2/sett.png)|

@@ -6,7 +6,7 @@ GKBR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g86k28b28r4-b102040-g004010-k000000-r800000/tartan.png)
+![Woven sample](/setts/s4/g43k14b14r2~b102040-g004010-k000000-r800000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBR
 
 | Tartans |
 |---------------|
-| [St. Andrews International Golf Club](/setts/s4/g86k28b28r4-b102040-g004010-k000000-r800000/)|
-|![St. Andrews International Golf Club example sett](/setts/s4/g86k28b28r4-b102040-g004010-k000000-r800000/sett.png)|
+| [St. Andrews International Golf Club](/setts/s4/g43k14b14r2~b102040-g004010-k000000-r800000~x2/)|
+|![St. Andrews International Golf Club example sett](/setts/s4/g43k14b14r2~b102040-g004010-k000000-r800000~x2/sett.png)|

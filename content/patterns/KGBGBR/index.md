@@ -6,7 +6,7 @@ KGBGBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k6g44b6g6b38r6-b2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/k3g22b3g3b19r3~b2c2c80-g006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ KGBGBR
 
 | Tartans |
 |---------------|
-| [Davidson, Half](/setts/s6/k6g44b6g6b38r6-b2c2c80-g006818-k101010-rc80000/)|
-|![Davidson, Half example sett](/setts/s6/k6g44b6g6b38r6-b2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Hutton](/setts/s6/k12g42b12g42b96r6-b00004c-g005030-k101010-rc80000/)|
-|![Hutton example sett](/setts/s6/k12g42b12g42b96r6-b00004c-g005030-k101010-rc80000/sett.png)|
-| [Davidson, Half..](/setts/s6/k6g44b6g6b38r6-b304080-g008000-k000000-rc00000/)|
-|![Davidson, Half.. example sett](/setts/s6/k6g44b6g6b38r6-b304080-g008000-k000000-rc00000/sett.png)|
+| [Davidson, Half](/setts/s6/k3g22b3g3b19r3~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Davidson, Half example sett](/setts/s6/k3g22b3g3b19r3~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|
+| [Hutton](/setts/s6/k2g7b2g7b16r1~b00004c-g005030-k101010-rc80000~x6/)|
+|![Hutton example sett](/setts/s6/k2g7b2g7b16r1~b00004c-g005030-k101010-rc80000~x6/sett.png)|
+| [Davidson, Half..](/setts/s6/k3g22b3g3b19r3~b304080-g008000-k000000-rc00000~x2/)|
+|![Davidson, Half.. example sett](/setts/s6/k3g22b3g3b19r3~b304080-g008000-k000000-rc00000~x2/sett.png)|

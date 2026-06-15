@@ -16,5 +16,5 @@ KRGKKKGKGW
 
 | Tartans |
 |---------------|
-| [Scottish Chieftain](/setts/s10/k38r2g6k4k6k4g4k4g40w4-g005020-k101010-rdc0000-we0e0e0/)|
-|![Scottish Chieftain example sett](/setts/s10/k38r2g6k4k6k4g4k4g40w4-g005020-k101010-rdc0000-we0e0e0/sett.png)|
+| [Scottish Chieftain](/setts/s10/k19r1g3k2k3k2g2k2g20w2~g005020-k101010-rdc0000-we0e0e0~x2/)|
+|![Scottish Chieftain example sett](/setts/s10/k19r1g3k2k3k2g2k2g20w2~g005020-k101010-rdc0000-we0e0e0~x2/sett.png)|

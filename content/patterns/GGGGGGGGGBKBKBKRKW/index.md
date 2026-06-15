@@ -16,7 +16,7 @@ GGGGGGGGGBKBKBKRKW
 
 | Tartans |
 |---------------|
-| [Barkway Wedding 2012](/setts/s18/g6ga4g4ga32g4ga4g4ga4g8b8k4b4k4b4k48r4k4w6-b3f4441-g124b24-ga052f14-k1c1714-rb62531-we5e0d2/)|
-|![Barkway Wedding 2012 example sett](/setts/s18/g6ga4g4ga32g4ga4g4ga4g8b8k4b4k4b4k48r4k4w6-b3f4441-g124b24-ga052f14-k1c1714-rb62531-we5e0d2/sett.png)|
-| [Barkway (Name)](/setts/s18/g6ga4g4ga32g4ga4g4ga4g8b8k4b4k4b4k48r4k4w6-b5c5c5c-g408060-ga006818-k101010-rc8002c-we0e0e0/)|
-|![Barkway (Name) example sett](/setts/s18/g6ga4g4ga32g4ga4g4ga4g8b8k4b4k4b4k48r4k4w6-b5c5c5c-g408060-ga006818-k101010-rc8002c-we0e0e0/sett.png)|
+| [Barkway Wedding 2012](/setts/s18/g3ga2g2ga16g2ga2g2ga2g4b4k2b2k2b2k24r2k2w3~b3f4441-g124b24-ga052f14-k1c1714-rb62531-we5e0d2~x2/)|
+|![Barkway Wedding 2012 example sett](/setts/s18/g3ga2g2ga16g2ga2g2ga2g4b4k2b2k2b2k24r2k2w3~b3f4441-g124b24-ga052f14-k1c1714-rb62531-we5e0d2~x2/sett.png)|
+| [Barkway (Name)](/setts/s18/g3ga2g2ga16g2ga2g2ga2g4b4k2b2k2b2k24r2k2w3~b5c5c5c-g408060-ga006818-k101010-rc8002c-we0e0e0~x2/)|
+|![Barkway (Name) example sett](/setts/s18/g3ga2g2ga16g2ga2g2ga2g4b4k2b2k2b2k24r2k2w3~b5c5c5c-g408060-ga006818-k101010-rc8002c-we0e0e0~x2/sett.png)|

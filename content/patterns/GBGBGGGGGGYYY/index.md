@@ -16,5 +16,5 @@ GBGBGGGGGGYYY
 
 | Tartans |
 |---------------|
-| [Balmoral Hotel Edinburgh](/setts/s13/g20b4g4b4g4ga12g12ga4g12ga12y12ya4y4-b64008c-g5c6428-ga005020-yf8e38c-ya9c9c00/)|
-|![Balmoral Hotel Edinburgh example sett](/setts/s13/g20b4g4b4g4ga12g12ga4g12ga12y12ya4y4-b64008c-g5c6428-ga005020-yf8e38c-ya9c9c00/sett.png)|
+| [Balmoral Hotel Edinburgh](/setts/s13/g5b1g1b1g1ga3g3ga1g3ga3y3ya1y1~b64008c-g5c6428-ga005020-yf8e38c-ya9c9c00~x4/)|
+|![Balmoral Hotel Edinburgh example sett](/setts/s13/g5b1g1b1g1ga3g3ga1g3ga3y3ya1y1~b64008c-g5c6428-ga005020-yf8e38c-ya9c9c00~x4/sett.png)|

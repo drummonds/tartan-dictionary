@@ -16,7 +16,7 @@ GKGKYKYKY
 
 | Tartans |
 |---------------|
-| [Jamaican National](/setts/s9/y48k4y6k4y6k16g48k4g10-g154d1e-k101010-ye8e50c/)|
-|![Jamaican National example sett](/setts/s9/y48k4y6k4y6k16g48k4g10-g154d1e-k101010-ye8e50c/sett.png)|
-| [Jamaican National (District)](/setts/s9/y48k4y6k4y6k16g48k4g10-g006818-k101010-yfccc00/)|
-|![Jamaican National (District) example sett](/setts/s9/y48k4y6k4y6k16g48k4g10-g006818-k101010-yfccc00/sett.png)|
+| [Jamaican National](/setts/s9/y24k2y3k2y3k8g24k2g5~g154d1e-k101010-ye8e50c~x2/)|
+|![Jamaican National example sett](/setts/s9/y24k2y3k2y3k8g24k2g5~g154d1e-k101010-ye8e50c~x2/sett.png)|
+| [Jamaican National (District)](/setts/s9/y24k2y3k2y3k8g24k2g5~g006818-k101010-yfccc00~x2/)|
+|![Jamaican National (District) example sett](/setts/s9/y24k2y3k2y3k8g24k2g5~g006818-k101010-yfccc00~x2/sett.png)|

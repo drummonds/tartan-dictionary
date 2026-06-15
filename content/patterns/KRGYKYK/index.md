@@ -6,7 +6,7 @@ KRGYKYK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k36y16k4y16g60r16k4-g003820-k101010-rc80000-ye08070/tartan.png)
+![Woven sample](/setts/s7/k9y4k1y4g15r4k1~g003820-k101010-rc80000-ye08070~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRGYKYK
 
 | Tartans |
 |---------------|
-| [Logan - 1797 (Dark)](/setts/s7/k36y16k4y16g60r16k4-g003820-k101010-rc80000-ye08070/)|
-|![Logan - 1797 (Dark) example sett](/setts/s7/k36y16k4y16g60r16k4-g003820-k101010-rc80000-ye08070/sett.png)|
+| [Logan - 1797 (Dark)](/setts/s7/k9y4k1y4g15r4k1~g003820-k101010-rc80000-ye08070~x4/)|
+|![Logan - 1797 (Dark) example sett](/setts/s7/k9y4k1y4g15r4k1~g003820-k101010-rc80000-ye08070~x4/sett.png)|

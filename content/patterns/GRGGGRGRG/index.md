@@ -16,5 +16,5 @@ GRGGGRGRG
 
 | Tartans |
 |---------------|
-| [MacNaughton Htg](/setts/s9/g2r2ga44gb42g24r22ga44r2g2-g003820-ga145024-gb604000-ra40800/)|
-|![MacNaughton Htg example sett](/setts/s9/g2r2ga44gb42g24r22ga44r2g2-g003820-ga145024-gb604000-ra40800/sett.png)|
+| [MacNaughton Htg](/setts/s9/g1r1ga22gb21g12r11ga22r1g1~g003820-ga145024-gb604000-ra40800~x2/)|
+|![MacNaughton Htg example sett](/setts/s9/g1r1ga22gb21g12r11ga22r1g1~g003820-ga145024-gb604000-ra40800~x2/sett.png)|

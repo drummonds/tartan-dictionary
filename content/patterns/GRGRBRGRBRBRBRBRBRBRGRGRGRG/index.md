@@ -16,5 +16,5 @@ GRGRBRGRBRBRBRBRBRBRGRGRGRG
 
 | Tartans |
 |---------------|
-| [Ross (Clan)](/setts/s27/g36r4g36r36g4r8g4r36b36r4b36r36b2r2b4r2b2r36b2r2g4r2b2r36g36r4g36-b2c2c80-g006818-rc80000/)|
-|![Ross (Clan) example sett](/setts/s27/g36r4g36r36g4r8g4r36b36r4b36r36b2r2b4r2b2r36b2r2g4r2b2r36g36r4g36-b2c2c80-g006818-rc80000/sett.png)|
+| [Ross (Clan)](/setts/s27/g18r2g18r18g2r4g2r18b18r2b18r18b1r1b2r1b1r18b1r1g2r1b1r18g18r2g18~b2c2c80-g006818-rc80000~x2/)|
+|![Ross (Clan) example sett](/setts/s27/g18r2g18r18g2r4g2r18b18r2b18r18b1r1b2r1b1r18b1r1g2r1b1r18g18r2g18~b2c2c80-g006818-rc80000~x2/sett.png)|

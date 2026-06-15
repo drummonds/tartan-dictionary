@@ -16,9 +16,9 @@ BKBKBKGRGKBR
 
 | Tartans |
 |---------------|
-| [Glenalmond College](/setts/s12/b24k4b4k4b4k24g24r6g24k24b24r6-b2c2c80-g306048-k101010-rc80000/)|
-|![Glenalmond College example sett](/setts/s12/b24k4b4k4b4k24g24r6g24k24b24r6-b2c2c80-g306048-k101010-rc80000/sett.png)|
-| [Murray of Atholl #2](/setts/s12/b50k4b4k4b4k42g46r10g46k40b38r10-b2c4084-g005020-k101010-rdc0000/)|
-|![Murray of Atholl #2 example sett](/setts/s12/b50k4b4k4b4k42g46r10g46k40b38r10-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [Murray of Atholl](/setts/s12/b50k4b4k4b4k42g46r10g46k40b38r10-b304080-g008000-k000000-rc00000/)|
-|![Murray of Atholl example sett](/setts/s12/b50k4b4k4b4k42g46r10g46k40b38r10-b304080-g008000-k000000-rc00000/sett.png)|
+| [Glenalmond College](/setts/s12/b12k2b2k2b2k12g12r3g12k12b12r3~b2c2c80-g306048-k101010-rc80000~x2/)|
+|![Glenalmond College example sett](/setts/s12/b12k2b2k2b2k12g12r3g12k12b12r3~b2c2c80-g306048-k101010-rc80000~x2/sett.png)|
+| [Murray of Atholl #2](/setts/s12/b25k2b2k2b2k21g23r5g23k20b19r5~b2c4084-g005020-k101010-rdc0000~x2/)|
+|![Murray of Atholl #2 example sett](/setts/s12/b25k2b2k2b2k21g23r5g23k20b19r5~b2c4084-g005020-k101010-rdc0000~x2/sett.png)|
+| [Murray of Atholl](/setts/s12/b25k2b2k2b2k21g23r5g23k20b19r5~b304080-g008000-k000000-rc00000~x2/)|
+|![Murray of Atholl example sett](/setts/s12/b25k2b2k2b2k21g23r5g23k20b19r5~b304080-g008000-k000000-rc00000~x2/sett.png)|

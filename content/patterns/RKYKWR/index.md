@@ -6,7 +6,7 @@ RKYKWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4w60k30y4k30r4-k101010-rc80000-wf0ecd4-ybc8c00/tartan.png)
+![Woven sample](/setts/s6/r2w30k15y2k15r2~k101010-rc80000-wf0ecd4-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKYKWR
 
 | Tartans |
 |---------------|
-| [Brodie (WCWM)](/setts/s6/r4w60k30y4k30r4-k101010-rc80000-wf0ecd4-ybc8c00/)|
-|![Brodie (WCWM) example sett](/setts/s6/r4w60k30y4k30r4-k101010-rc80000-wf0ecd4-ybc8c00/sett.png)|
+| [Brodie (WCWM)](/setts/s6/r2w30k15y2k15r2~k101010-rc80000-wf0ecd4-ybc8c00~x2/)|
+|![Brodie (WCWM) example sett](/setts/s6/r2w30k15y2k15r2~k101010-rc80000-wf0ecd4-ybc8c00~x2/sett.png)|

@@ -16,7 +16,7 @@ GKGKGRRKR
 
 | Tartans |
 |---------------|
-| [Lindsay #3](/setts/s9/g24k2g2k2g2r10ra20k2ra4-g005020-k101010-r960028-radc0000/)|
-|![Lindsay #3 example sett](/setts/s9/g24k2g2k2g2r10ra20k2ra4-g005020-k101010-r960028-radc0000/sett.png)|
-| [Lindsay](/setts/s9/g24k2g2k2g2r10ra20k2ra4-g008000-k000000-r900030-rac00000/)|
-|![Lindsay example sett](/setts/s9/g24k2g2k2g2r10ra20k2ra4-g008000-k000000-r900030-rac00000/sett.png)|
+| [Lindsay #3](/setts/s9/g12k1g1k1g1r5ra10k1ra2~g005020-k101010-r960028-radc0000~x2/)|
+|![Lindsay #3 example sett](/setts/s9/g12k1g1k1g1r5ra10k1ra2~g005020-k101010-r960028-radc0000~x2/sett.png)|
+| [Lindsay](/setts/s9/g12k1g1k1g1r5ra10k1ra2~g008000-k000000-r900030-rac00000~x2/)|
+|![Lindsay example sett](/setts/s9/g12k1g1k1g1r5ra10k1ra2~g008000-k000000-r900030-rac00000~x2/sett.png)|

@@ -16,5 +16,5 @@ BKBKGKGKWBWBWBWBWKGKGKBK
 
 | Tartans |
 |---------------|
-| [Sutherland Dress (Fashion)](/setts/s24/b12k10b20k20g26k6g26k20w8b8w36b4w6b4w36b8w8k20g26k6g26k20b20k10-b2c2c80-g006818-k101010-we0e0e0/)|
-|![Sutherland Dress (Fashion) example sett](/setts/s24/b12k10b20k20g26k6g26k20w8b8w36b4w6b4w36b8w8k20g26k6g26k20b20k10-b2c2c80-g006818-k101010-we0e0e0/sett.png)|
+| [Sutherland Dress (Fashion)](/setts/s24/b6k5b10k10g13k3g13k10w4b4w18b2w3b2w18b4w4k10g13k3g13k10b10k5~b2c2c80-g006818-k101010-we0e0e0~x2/)|
+|![Sutherland Dress (Fashion) example sett](/setts/s24/b6k5b10k10g13k3g13k10w4b4w18b2w3b2w18b4w4k10g13k3g13k10b10k5~b2c2c80-g006818-k101010-we0e0e0~x2/sett.png)|

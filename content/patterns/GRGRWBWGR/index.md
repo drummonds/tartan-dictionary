@@ -16,5 +16,5 @@ GRGRWBWGR
 
 | Tartans |
 |---------------|
-| [Christmas Morning](/setts/s9/g6r24g30r4w2b60w2g4r4-b000080-g008b00-rff0000-wffffff/)|
-|![Christmas Morning example sett](/setts/s9/g6r24g30r4w2b60w2g4r4-b000080-g008b00-rff0000-wffffff/sett.png)|
+| [Christmas Morning](/setts/s9/g3r12g15r2w1b30w1g2r2~b000080-g008b00-rff0000-wffffff~x2/)|
+|![Christmas Morning example sett](/setts/s9/g3r12g15r2w1b30w1g2r2~b000080-g008b00-rff0000-wffffff~x2/sett.png)|

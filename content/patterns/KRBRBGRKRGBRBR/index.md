@@ -16,5 +16,5 @@ KRBRBGRKRGBRBR
 
 | Tartans |
 |---------------|
-| [Skene of Cromar](/setts/s14/r74b74r4b74g74r74k8r74g74b74r4b74r74k8-b2c2c80-g006818-k101010-rc80000/)|
-|![Skene of Cromar example sett](/setts/s14/r74b74r4b74g74r74k8r74g74b74r4b74r74k8-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Skene of Cromar](/setts/s14/r37b37r2b37g37r37k4r37g37b37r2b37r37k4~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Skene of Cromar example sett](/setts/s14/r37b37r2b37g37r37k4r37g37b37r2b37r37k4~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

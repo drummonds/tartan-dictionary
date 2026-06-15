@@ -16,5 +16,5 @@ BKBKBKWKWKRYRKWKWKBKB
 
 | Tartans |
 |---------------|
-| [Tartan Army](/setts/s21/b44k4b8k4b8k16w4k4w4k20r10y4r10k20w4k4w4k16b36k4b8-b304080-k000030-rc00000-we0e0e0-yf0c000/)|
-|![Tartan Army example sett](/setts/s21/b44k4b8k4b8k16w4k4w4k20r10y4r10k20w4k4w4k16b36k4b8-b304080-k000030-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Tartan Army](/setts/s21/b22k2b4k2b4k8w2k2w2k10r5y2r5k10w2k2w2k8b18k2b4~b304080-k000030-rc00000-we0e0e0-yf0c000~x2/)|
+|![Tartan Army example sett](/setts/s21/b22k2b4k2b4k8w2k2w2k10r5y2r5k10w2k2w2k8b18k2b4~b304080-k000030-rc00000-we0e0e0-yf0c000~x2/sett.png)|

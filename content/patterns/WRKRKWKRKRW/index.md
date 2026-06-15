@@ -16,5 +16,5 @@ WRKRKWKRKRW
 
 | Tartans |
 |---------------|
-| [Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w60r10k12r4k4w4k26r10k4r4w4-k080808-r888888-we0e0e0/)|
-|![Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/w60r10k12r4k4w4k26r10k4r4w4-k080808-r888888-we0e0e0/sett.png)|
+| [Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w30r5k6r2k2w2k13r5k2r2w2~k080808-r888888-we0e0e0~x2/)|
+|![Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/w30r5k6r2k2w2k13r5k2r2w2~k080808-r888888-we0e0e0~x2/sett.png)|

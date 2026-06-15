@@ -16,5 +16,5 @@ BRBYBYBYBRBYBYBYBYBYBRBYBYBYB
 
 | Tartans |
 |---------------|
-| [Delmarva (District)](/setts/s29/b16r4b4y2b2y2b2y2b4r4b12ya2b24ya2b12y2b2yb8b2y2b4r6b6y2b2yb4b2y2b16-b5c5c5c-ra00048-ya0a0a0-yac4acc4-yba08858/)|
-|![Delmarva (District) example sett](/setts/s29/b16r4b4y2b2y2b2y2b4r4b12ya2b24ya2b12y2b2yb8b2y2b4r6b6y2b2yb4b2y2b16-b5c5c5c-ra00048-ya0a0a0-yac4acc4-yba08858/sett.png)|
+| [Delmarva (District)](/setts/s29/b8r2b2y1b1y1b1y1b2r2b6ya1b12ya1b6y1b1yb4b1y1b2r3b3y1b1yb2b1y1b8~b5c5c5c-ra00048-ya0a0a0-yac4acc4-yba08858~x2/)|
+|![Delmarva (District) example sett](/setts/s29/b8r2b2y1b1y1b1y1b2r2b6ya1b12ya1b6y1b1yb4b1y1b2r3b3y1b1yb2b1y1b8~b5c5c5c-ra00048-ya0a0a0-yac4acc4-yba08858~x2/sett.png)|

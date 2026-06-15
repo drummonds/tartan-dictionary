@@ -16,5 +16,5 @@ KBYBWBGRBRW
 
 | Tartans |
 |---------------|
-| [Flotilla Navy](/setts/s11/k144b24y4b4w4b4g32r16b4r8w4-b00008c-g505028-k000000-r782828-wc8c8c8-yc89800/)|
-|![Flotilla Navy example sett](/setts/s11/k144b24y4b4w4b4g32r16b4r8w4-b00008c-g505028-k000000-r782828-wc8c8c8-yc89800/sett.png)|
+| [Flotilla Navy](/setts/s11/k36b6y1b1w1b1g8r4b1r2w1~b00008c-g505028-k000000-r782828-wc8c8c8-yc89800~x4/)|
+|![Flotilla Navy example sett](/setts/s11/k36b6y1b1w1b1g8r4b1r2w1~b00008c-g505028-k000000-r782828-wc8c8c8-yc89800~x4/sett.png)|

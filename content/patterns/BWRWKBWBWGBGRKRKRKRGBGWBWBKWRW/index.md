@@ -16,5 +16,5 @@ BWRWKBWBWGBGRKRKRKRGBGWBWBKWRW
 
 | Tartans |
 |---------------|
-| [Gordon, Red (1819)](/setts/s30/b32w4r14w4k28ba12w4b30w4g34ba12g12ra16k12ra16k4ra16k12ra16g12ba12g34w4b30w4ba12k28w4r14w4-b780078-ba5c8ca8-g285800-k101010-re87878-rac8002c-we0e0e0/)|
-|![Gordon, Red (1819) example sett](/setts/s30/b32w4r14w4k28ba12w4b30w4g34ba12g12ra16k12ra16k4ra16k12ra16g12ba12g34w4b30w4ba12k28w4r14w4-b780078-ba5c8ca8-g285800-k101010-re87878-rac8002c-we0e0e0/sett.png)|
+| [Gordon, Red (1819)](/setts/s30/b16w2r7w2k14ba6w2b15w2g17ba6g6ra8k6ra8k2ra8k6ra8g6ba6g17w2b15w2ba6k14w2r7w2~b780078-ba5c8ca8-g285800-k101010-re87878-rac8002c-we0e0e0~x2/)|
+|![Gordon, Red (1819) example sett](/setts/s30/b16w2r7w2k14ba6w2b15w2g17ba6g6ra8k6ra8k2ra8k6ra8g6ba6g17w2b15w2ba6k14w2r7w2~b780078-ba5c8ca8-g285800-k101010-re87878-rac8002c-we0e0e0~x2/sett.png)|

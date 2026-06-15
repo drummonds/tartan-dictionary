@@ -16,5 +16,5 @@ WBWBBYBBWBWW
 
 | Tartans |
 |---------------|
-| [Seaside](/setts/s12/w12wa8b16wa56ba8bb56y8bb56ba8wa56b16wa8-b9058d8-ba346488-bb2888c4-wfcfcfc-wac8c8c8-yc88c00/)|
-|![Seaside example sett](/setts/s12/w12wa8b16wa56ba8bb56y8bb56ba8wa56b16wa8-b9058d8-ba346488-bb2888c4-wfcfcfc-wac8c8c8-yc88c00/sett.png)|
+| [Seaside](/setts/s12/w3wa2b4wa14ba2bb14y2bb14ba2wa14b4wa2~b9058d8-ba346488-bb2888c4-wfcfcfc-wac8c8c8-yc88c00~x4/)|
+|![Seaside example sett](/setts/s12/w3wa2b4wa14ba2bb14y2bb14ba2wa14b4wa2~b9058d8-ba346488-bb2888c4-wfcfcfc-wac8c8c8-yc88c00~x4/sett.png)|

@@ -16,5 +16,5 @@ BGBWBWBRG
 
 | Tartans |
 |---------------|
-| [Mounth, The](/setts/s9/b4g26ba24w6ba20w6ba24r26ga4-b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc/)|
-|![Mounth, The example sett](/setts/s9/b4g26ba24w6ba20w6ba24r26ga4-b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc/sett.png)|
+| [Mounth, The](/setts/s9/b2g13ba12w3ba10w3ba12r13ga2~b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc~x2/)|
+|![Mounth, The example sett](/setts/s9/b2g13ba12w3ba10w3ba12r13ga2~b780078-ba1870a4-g408060-ga006818-r888888-wfcfcfc~x2/sett.png)|

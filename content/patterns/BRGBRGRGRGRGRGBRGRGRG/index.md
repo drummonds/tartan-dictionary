@@ -16,5 +16,5 @@ BRGBRGRGRGRGRGBRGRGRG
 
 | Tartans |
 |---------------|
-| [Matheson (Lochcarron)](/setts/s21/g14r4g4r4g4r54b18g4r4g4r4g4r12g4r4g4r4b20g12r4b10-b1c0070-g006818-r880000/)|
-|![Matheson (Lochcarron) example sett](/setts/s21/g14r4g4r4g4r54b18g4r4g4r4g4r12g4r4g4r4b20g12r4b10-b1c0070-g006818-r880000/sett.png)|
+| [Matheson (Lochcarron)](/setts/s21/g7r2g2r2g2r27b9g2r2g2r2g2r6g2r2g2r2b10g6r2b5~b1c0070-g006818-r880000~x2/)|
+|![Matheson (Lochcarron) example sett](/setts/s21/g7r2g2r2g2r27b9g2r2g2r2g2r6g2r2g2r2b10g6r2b5~b1c0070-g006818-r880000~x2/sett.png)|

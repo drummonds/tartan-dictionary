@@ -16,5 +16,5 @@ GRGKKKKKKYWKWKYK
 
 | Tartans |
 |---------------|
-| [Glendinning (Personal)](/setts/s16/g10r2g20k10k2k2k4k4k20y10w4k4w2k4y6k2-g289c18-k101010-rc80000-w98c8e8-ye8c000/)|
-|![Glendinning (Personal) example sett](/setts/s16/g10r2g20k10k2k2k4k4k20y10w4k4w2k4y6k2-g289c18-k101010-rc80000-w98c8e8-ye8c000/sett.png)|
+| [Glendinning (Personal)](/setts/s16/g5r1g10k5k1k1k2k2k10y5w2k2w1k2y3k1~g289c18-k101010-rc80000-w98c8e8-ye8c000~x2/)|
+|![Glendinning (Personal) example sett](/setts/s16/g5r1g10k5k1k1k2k2k10y5w2k2w1k2y3k1~g289c18-k101010-rc80000-w98c8e8-ye8c000~x2/sett.png)|

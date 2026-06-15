@@ -16,5 +16,5 @@ BRGRBRGRBRBRGRBRBRBRBRBRBGBRGRBRBRG
 
 | Tartans |
 |---------------|
-| [Murray of Polmaise](/setts/s35/b12r16g4r12b12r28g12r12b36r48b4r4g4r4b4r4b24r4b4r4b4r4b4r4b24g4b4r4g4r4b4r48b36r12g12-b5c8ca8-g006818-rc80000/)|
-|![Murray of Polmaise example sett](/setts/s35/b12r16g4r12b12r28g12r12b36r48b4r4g4r4b4r4b24r4b4r4b4r4b4r4b24g4b4r4g4r4b4r48b36r12g12-b5c8ca8-g006818-rc80000/sett.png)|
+| [Murray of Polmaise](/setts/s35/b3r4g1r3b3r7g3r3b9r12b1r1g1r1b1r1b6r1b1r1b1r1b1r1b6g1b1r1g1r1b1r12b9r3g3~b5c8ca8-g006818-rc80000~x4/)|
+|![Murray of Polmaise example sett](/setts/s35/b3r4g1r3b3r7g3r3b9r12b1r1g1r1b1r1b6r1b1r1b1r1b1r1b6g1b1r1g1r1b1r12b9r3g3~b5c8ca8-g006818-rc80000~x4/sett.png)|

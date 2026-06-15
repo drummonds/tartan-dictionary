@@ -16,9 +16,9 @@ GBGBGKGKBGK
 
 | Tartans |
 |---------------|
-| [Clergy (Clark)](/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b2c4084-g005020-k101010/)|
-|![Clergy (Clark) example sett](/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b2c4084-g005020-k101010/sett.png)|
-| [Clergy (Clark) (Clan)](/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b2c2c80-g006818-k101010/)|
-|![Clergy (Clark) (Clan) example sett](/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b2c2c80-g006818-k101010/sett.png)|
-| [Clergy, (Clark)](/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b304080-g008000-k000000/)|
-|![Clergy, (Clark) example sett](/setts/s11/g4b10g4b6g4k20g4k20b20g4k4-b304080-g008000-k000000/sett.png)|
+| [Clergy (Clark)](/setts/s11/g2b5g2b3g2k10g2k10b10g2k2~b2c4084-g005020-k101010~x2/)|
+|![Clergy (Clark) example sett](/setts/s11/g2b5g2b3g2k10g2k10b10g2k2~b2c4084-g005020-k101010~x2/sett.png)|
+| [Clergy (Clark) (Clan)](/setts/s11/g2b5g2b3g2k10g2k10b10g2k2~b2c2c80-g006818-k101010~x2/)|
+|![Clergy (Clark) (Clan) example sett](/setts/s11/g2b5g2b3g2k10g2k10b10g2k2~b2c2c80-g006818-k101010~x2/sett.png)|
+| [Clergy, (Clark)](/setts/s11/g2b5g2b3g2k10g2k10b10g2k2~b304080-g008000-k000000~x2/)|
+|![Clergy, (Clark) example sett](/setts/s11/g2b5g2b3g2k10g2k10b10g2k2~b304080-g008000-k000000~x2/sett.png)|

@@ -16,5 +16,5 @@ GKGKRBWBRKR
 
 | Tartans |
 |---------------|
-| [Hunter of Peebleshire (Clan?)](/setts/s11/g32k4g32k32r4b32w4b32r4k32r4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Hunter of Peebleshire (Clan?) example sett](/setts/s11/g32k4g32k32r4b32w4b32r4k32r4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Hunter of Peebleshire (Clan?)](/setts/s11/g8k1g8k8r1b8w1b8r1k8r1~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x4/)|
+|![Hunter of Peebleshire (Clan?) example sett](/setts/s11/g8k1g8k8r1b8w1b8r1k8r1~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x4/sett.png)|

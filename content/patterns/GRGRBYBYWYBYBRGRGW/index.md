@@ -16,5 +16,5 @@ GRGRBYBYWYBYBRGRGW
 
 | Tartans |
 |---------------|
-| [O'Mahony, The](/setts/s18/g4r4g36ra12b80y2b2y8w4y8b2y2b80ra12g36r4g4w2-b202060-g289c18-rc80000-ra888888-we0e0e0-ybc8c00/)|
-|![O'Mahony, The example sett](/setts/s18/g4r4g36ra12b80y2b2y8w4y8b2y2b80ra12g36r4g4w2-b202060-g289c18-rc80000-ra888888-we0e0e0-ybc8c00/sett.png)|
+| [O'Mahony, The](/setts/s18/g2r2g18ra6b40y1b1y4w2y4b1y1b40ra6g18r2g2w1~b202060-g289c18-rc80000-ra888888-we0e0e0-ybc8c00~x2/)|
+|![O'Mahony, The example sett](/setts/s18/g2r2g18ra6b40y1b1y4w2y4b1y1b40ra6g18r2g2w1~b202060-g289c18-rc80000-ra888888-we0e0e0-ybc8c00~x2/sett.png)|

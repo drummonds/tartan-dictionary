@@ -6,7 +6,7 @@ BBGBGBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b60ba60g8ba8g8ba10r12-b640044-ba000048-g808080-r880000/tartan.png)
+![Woven sample](/setts/s7/b30ba30g4ba4g4ba5r6~b640044-ba000048-g808080-r880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGBGBR
 
 | Tartans |
 |---------------|
-| [Komissarov, Dmitry (Personal)](/setts/s7/b60ba60g8ba8g8ba10r12-b640044-ba000048-g808080-r880000/)|
-|![Komissarov, Dmitry (Personal) example sett](/setts/s7/b60ba60g8ba8g8ba10r12-b640044-ba000048-g808080-r880000/sett.png)|
+| [Komissarov, Dmitry (Personal)](/setts/s7/b30ba30g4ba4g4ba5r6~b640044-ba000048-g808080-r880000~x2/)|
+|![Komissarov, Dmitry (Personal) example sett](/setts/s7/b30ba30g4ba4g4ba5r6~b640044-ba000048-g808080-r880000~x2/sett.png)|

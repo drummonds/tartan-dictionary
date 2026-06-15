@@ -16,5 +16,5 @@ BGBYBYBGRGRB
 
 | Tartans |
 |---------------|
-| [Harmony 1](/setts/s12/b22g6b8y6b6y8b6ga26r68g6r8ba6-b401000-ba506060-g008000-ga908000-r906030-yf0c000/)|
-|![Harmony 1 example sett](/setts/s12/b22g6b8y6b6y8b6ga26r68g6r8ba6-b401000-ba506060-g008000-ga908000-r906030-yf0c000/sett.png)|
+| [Harmony 1](/setts/s12/b11g3b4y3b3y4b3ga13r34g3r4ba3~b401000-ba506060-g008000-ga908000-r906030-yf0c000~x2/)|
+|![Harmony 1 example sett](/setts/s12/b11g3b4y3b3y4b3ga13r34g3r4ba3~b401000-ba506060-g008000-ga908000-r906030-yf0c000~x2/sett.png)|

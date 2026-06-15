@@ -6,7 +6,7 @@ RWKWRWRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r28w70k8w70r28w16r28w16-k000000-r880000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/r14w35k4w35r14w8r14w8~k000000-r880000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKWRWRW
 
 | Tartans |
 |---------------|
-| [Clayton Dress (Dance)](/setts/s8/r28w70k8w70r28w16r28w16-k000000-r880000-wfcfcfc/)|
-|![Clayton Dress (Dance) example sett](/setts/s8/r28w70k8w70r28w16r28w16-k000000-r880000-wfcfcfc/sett.png)|
+| [Clayton Dress (Dance)](/setts/s8/r14w35k4w35r14w8r14w8~k000000-r880000-wfcfcfc~x2/)|
+|![Clayton Dress (Dance) example sett](/setts/s8/r14w35k4w35r14w8r14w8~k000000-r880000-wfcfcfc~x2/sett.png)|

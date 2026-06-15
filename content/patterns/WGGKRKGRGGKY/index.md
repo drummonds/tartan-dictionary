@@ -16,5 +16,5 @@ WGGKRKGRGGKY
 
 | Tartans |
 |---------------|
-| [Walsh (Name)](/setts/s12/w2g24ga2k4r4k2ga32ra2ga32g2k2y2-g289c18-ga007440-k101010-rb468ac-rac80000-we0e0e0-ye8c000/)|
-|![Walsh (Name) example sett](/setts/s12/w2g24ga2k4r4k2ga32ra2ga32g2k2y2-g289c18-ga007440-k101010-rb468ac-rac80000-we0e0e0-ye8c000/sett.png)|
+| [Walsh (Name)](/setts/s12/w1g12ga1k2r2k1ga16ra1ga16g1k1y1~g289c18-ga007440-k101010-rb468ac-rac80000-we0e0e0-ye8c000~x2/)|
+|![Walsh (Name) example sett](/setts/s12/w1g12ga1k2r2k1ga16ra1ga16g1k1y1~g289c18-ga007440-k101010-rb468ac-rac80000-we0e0e0-ye8c000~x2/sett.png)|

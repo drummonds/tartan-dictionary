@@ -6,7 +6,7 @@ KWBYWYBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k4w6b10y8w6y8b50y4-b5a008c-k101010-wffffff-ye0a126/tartan.png)
+![Woven sample](/setts/s8/k2w3b5y4w3y4b25y2~b5a008c-k101010-wffffff-ye0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWBYWYBY
 
 | Tartans |
 |---------------|
-| [Western Illinois University](/setts/s8/k4w6b10y8w6y8b50y4-b5a008c-k101010-wffffff-ye0a126/)|
-|![Western Illinois University example sett](/setts/s8/k4w6b10y8w6y8b50y4-b5a008c-k101010-wffffff-ye0a126/sett.png)|
+| [Western Illinois University](/setts/s8/k2w3b5y4w3y4b25y2~b5a008c-k101010-wffffff-ye0a126~x2/)|
+|![Western Illinois University example sett](/setts/s8/k2w3b5y4w3y4b25y2~b5a008c-k101010-wffffff-ye0a126~x2/sett.png)|

@@ -16,5 +16,5 @@ KBKBKRKBKRKBKBKBYKYKRKR
 
 | Tartans |
 |---------------|
-| [Zibrant](/setts/s23/k16b2k6b2k16r18k12b8k12r18k16b2k6b2k16b26y2k26ya10k6ra10k6ra10-b505050-k101010-r960000-rafa4b00-yc89600-yae8c000/)|
-|![Zibrant example sett](/setts/s23/k16b2k6b2k16r18k12b8k12r18k16b2k6b2k16b26y2k26ya10k6ra10k6ra10-b505050-k101010-r960000-rafa4b00-yc89600-yae8c000/sett.png)|
+| [Zibrant](/setts/s23/k8b1k3b1k8r9k6b4k6r9k8b1k3b1k8b13y1k13ya5k3ra5k3ra5~b505050-k101010-r960000-rafa4b00-yc89600-yae8c000~x2/)|
+|![Zibrant example sett](/setts/s23/k8b1k3b1k8r9k6b4k6r9k8b1k3b1k8b13y1k13ya5k3ra5k3ra5~b505050-k101010-r960000-rafa4b00-yc89600-yae8c000~x2/sett.png)|

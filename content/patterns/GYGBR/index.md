@@ -6,7 +6,7 @@ GYGBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s5/g31y1g18b18r1~b1c0070-g003820-r880000-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGBR
 
 | Tartans |
 |---------------|
-| [Miramichi](/setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/)|
-|![Miramichi example sett](/setts/s5/g62y2g36b36r2-b1c0070-g003820-r880000-yd09800/sett.png)|
+| [Miramichi](/setts/s5/g31y1g18b18r1~b1c0070-g003820-r880000-yd09800~x2/)|
+|![Miramichi example sett](/setts/s5/g31y1g18b18r1~b1c0070-g003820-r880000-yd09800~x2/sett.png)|

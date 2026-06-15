@@ -6,7 +6,7 @@ GKRBRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g42k42r2b40r40k4-b2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/g21k21r1b20r20k2~b2c2c80-g006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRBRK
 
 | Tartans |
 |---------------|
-| [Skene of Cromar (Cant version)](/setts/s6/g42k42r2b40r40k4-b2c2c80-g006818-k101010-rc80000/)|
-|![Skene of Cromar (Cant version) example sett](/setts/s6/g42k42r2b40r40k4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Skene of Cromar (Cant version)](/setts/s6/g21k21r1b20r20k2~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Skene of Cromar (Cant version) example sett](/setts/s6/g21k21r1b20r20k2~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

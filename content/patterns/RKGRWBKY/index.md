@@ -6,7 +6,7 @@ RKGRWBKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r36k6g6ra4w6b72k4y12-b2c2c80-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r18k3g3ra2w3b36k2y6~b2c2c80-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGRWBKY
 
 | Tartans |
 |---------------|
-| [M'Kleod](/setts/s8/r36k6g6ra4w6b72k4y12-b2c2c80-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000/)|
-|![M'Kleod example sett](/setts/s8/r36k6g6ra4w6b72k4y12-b2c2c80-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000/sett.png)|
+| [M'Kleod](/setts/s8/r18k3g3ra2w3b36k2y6~b2c2c80-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000~x2/)|
+|![M'Kleod example sett](/setts/s8/r18k3g3ra2w3b36k2y6~b2c2c80-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000~x2/sett.png)|

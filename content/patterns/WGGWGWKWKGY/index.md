@@ -16,5 +16,5 @@ WGGWGWKWKGY
 
 | Tartans |
 |---------------|
-| [New World Irish](/setts/s11/w18g4ga4w6ga36w4k4w2k38g66y4-g006400-ga008b00-k101010-wffffff-yffa500/)|
-|![New World Irish example sett](/setts/s11/w18g4ga4w6ga36w4k4w2k38g66y4-g006400-ga008b00-k101010-wffffff-yffa500/sett.png)|
+| [New World Irish](/setts/s11/w9g2ga2w3ga18w2k2w1k19g33y2~g006400-ga008b00-k101010-wffffff-yffa500~x2/)|
+|![New World Irish example sett](/setts/s11/w9g2ga2w3ga18w2k2w1k19g33y2~g006400-ga008b00-k101010-wffffff-yffa500~x2/sett.png)|

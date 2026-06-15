@@ -16,5 +16,5 @@ RWRWBYKBKY
 
 | Tartans |
 |---------------|
-| [Jong Nederland Born Union (Corp)](/setts/s10/r8w4r4w52b48y8k8b8k4ya4-b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000/)|
-|![Jong Nederland Born Union (Corp) example sett](/setts/s10/r8w4r4w52b48y8k8b8k4ya4-b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000/sett.png)|
+| [Jong Nederland Born Union (Corp)](/setts/s10/r2w1r1w13b12y2k2b2k1ya1~b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000~x4/)|
+|![Jong Nederland Born Union (Corp) example sett](/setts/s10/r2w1r1w13b12y2k2b2k1ya1~b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000~x4/sett.png)|

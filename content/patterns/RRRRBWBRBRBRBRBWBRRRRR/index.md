@@ -16,5 +16,5 @@ RRRRBWBRBRBRBRBWBRRRRR
 
 | Tartans |
 |---------------|
-| [Shieldhall](/setts/s22/r12ra4r8ra4r36b12w8b8ra4b8ra4b48ra4b8ra4b8w8b12r36ra4r8ra4-b4c3428-r888888-rac80000-wc0c0c0/)|
-|![Shieldhall example sett](/setts/s22/r12ra4r8ra4r36b12w8b8ra4b8ra4b48ra4b8ra4b8w8b12r36ra4r8ra4-b4c3428-r888888-rac80000-wc0c0c0/sett.png)|
+| [Shieldhall](/setts/s22/r3ra1r2ra1r9b3w2b2ra1b2ra1b12ra1b2ra1b2w2b3r9ra1r2ra1~b4c3428-r888888-rac80000-wc0c0c0~x4/)|
+|![Shieldhall example sett](/setts/s22/r3ra1r2ra1r9b3w2b2ra1b2ra1b12ra1b2ra1b2w2b3r9ra1r2ra1~b4c3428-r888888-rac80000-wc0c0c0~x4/sett.png)|

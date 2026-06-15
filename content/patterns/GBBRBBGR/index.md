@@ -6,7 +6,7 @@ GBBRBBGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g46b22ba44r4ba44b22g46r4-b2c2c80-ba1474b4-g406054-rc80000/tartan.png)
+![Woven sample](/setts/s8/g23b11ba22r2ba22b11g23r2~b2c2c80-ba1474b4-g406054-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBBRBBGR
 
 | Tartans |
 |---------------|
-| [Skibo](/setts/s8/g46b22ba44r4ba44b22g46r4-b2c2c80-ba1474b4-g406054-rc80000/)|
-|![Skibo example sett](/setts/s8/g46b22ba44r4ba44b22g46r4-b2c2c80-ba1474b4-g406054-rc80000/sett.png)|
+| [Skibo](/setts/s8/g23b11ba22r2ba22b11g23r2~b2c2c80-ba1474b4-g406054-rc80000~x2/)|
+|![Skibo example sett](/setts/s8/g23b11ba22r2ba22b11g23r2~b2c2c80-ba1474b4-g406054-rc80000~x2/sett.png)|

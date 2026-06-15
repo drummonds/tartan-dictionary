@@ -16,5 +16,5 @@ KRKGKGKGRWRYRGKGKGKR
 
 | Tartans |
 |---------------|
-| [Kinnear, Barony of (Personal)](/setts/s20/k8r4k16g6k16g72k16g6r8w4r6y4r8g6k16g72k16g6k16r4-g006818-k101010-rc80000-wc0c0c0-yd09800/)|
-|![Kinnear, Barony of (Personal) example sett](/setts/s20/k8r4k16g6k16g72k16g6r8w4r6y4r8g6k16g72k16g6k16r4-g006818-k101010-rc80000-wc0c0c0-yd09800/sett.png)|
+| [Kinnear, Barony of (Personal)](/setts/s20/k4r2k8g3k8g36k8g3r4w2r3y2r4g3k8g36k8g3k8r2~g006818-k101010-rc80000-wc0c0c0-yd09800~x2/)|
+|![Kinnear, Barony of (Personal) example sett](/setts/s20/k4r2k8g3k8g36k8g3r4w2r3y2r4g3k8g36k8g3k8r2~g006818-k101010-rc80000-wc0c0c0-yd09800~x2/sett.png)|

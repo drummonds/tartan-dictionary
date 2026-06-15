@@ -16,5 +16,5 @@ GWKWKGGKGGGGGKGGKWKW
 
 | Tartans |
 |---------------|
-| [Undiscovered Scotland](/setts/s20/w6k36w10k10g12ga2k12gb6g12gb100g12gb6k12ga2g12k10w10k36w6ga2-g006818-ga289c18-gb003820-k101010-w98c8e8/)|
-|![Undiscovered Scotland example sett](/setts/s20/w6k36w10k10g12ga2k12gb6g12gb100g12gb6k12ga2g12k10w10k36w6ga2-g006818-ga289c18-gb003820-k101010-w98c8e8/sett.png)|
+| [Undiscovered Scotland](/setts/s20/w3k18w5k5g6ga1k6gb3g6gb50g6gb3k6ga1g6k5w5k18w3ga1~g006818-ga289c18-gb003820-k101010-w98c8e8~x2/)|
+|![Undiscovered Scotland example sett](/setts/s20/w3k18w5k5g6ga1k6gb3g6gb50g6gb3k6ga1g6k5w5k18w3ga1~g006818-ga289c18-gb003820-k101010-w98c8e8~x2/sett.png)|

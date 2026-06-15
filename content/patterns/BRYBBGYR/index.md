@@ -6,7 +6,7 @@ BRYBBGYR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b16r4y4b48ba16g40y4r12-b5c8ca8-ba4c3428-g406054-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b4r1y1b12ba4g10y1r3~b5c8ca8-ba4c3428-g406054-rc80000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYBBGYR
 
 | Tartans |
 |---------------|
-| [Hawaii (District)](/setts/s8/b16r4y4b48ba16g40y4r12-b5c8ca8-ba4c3428-g406054-rc80000-ye8c000/)|
-|![Hawaii (District) example sett](/setts/s8/b16r4y4b48ba16g40y4r12-b5c8ca8-ba4c3428-g406054-rc80000-ye8c000/sett.png)|
+| [Hawaii (District)](/setts/s8/b4r1y1b12ba4g10y1r3~b5c8ca8-ba4c3428-g406054-rc80000-ye8c000~x4/)|
+|![Hawaii (District) example sett](/setts/s8/b4r1y1b12ba4g10y1r3~b5c8ca8-ba4c3428-g406054-rc80000-ye8c000~x4/sett.png)|

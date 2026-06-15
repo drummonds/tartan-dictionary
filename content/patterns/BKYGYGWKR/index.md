@@ -16,5 +16,5 @@ BKYGYGWKR
 
 | Tartans |
 |---------------|
-| [Morgan in Maryland (USA)](/setts/s9/b8k2y36g4y22g22w36k2r8-b41418c-g645541-k000000-raa3746-wb4bee6-ya5cdb4/)|
-|![Morgan in Maryland (USA) example sett](/setts/s9/b8k2y36g4y22g22w36k2r8-b41418c-g645541-k000000-raa3746-wb4bee6-ya5cdb4/sett.png)|
+| [Morgan in Maryland (USA)](/setts/s9/b4k1y18g2y11g11w18k1r4~b41418c-g645541-k000000-raa3746-wb4bee6-ya5cdb4~x2/)|
+|![Morgan in Maryland (USA) example sett](/setts/s9/b4k1y18g2y11g11w18k1r4~b41418c-g645541-k000000-raa3746-wb4bee6-ya5cdb4~x2/sett.png)|

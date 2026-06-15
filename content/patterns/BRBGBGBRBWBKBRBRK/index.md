@@ -16,5 +16,5 @@ BRBGBGBRBWBKBRBRK
 
 | Tartans |
 |---------------|
-| [Isla Grant (Personal)](/setts/s17/b8r6b6g22b6g6b6r8b6w6b6k6b10r6b6r4k8-b202060-g003820-k101010-rc80000-wfcfcfc/)|
-|![Isla Grant (Personal) example sett](/setts/s17/b8r6b6g22b6g6b6r8b6w6b6k6b10r6b6r4k8-b202060-g003820-k101010-rc80000-wfcfcfc/sett.png)|
+| [Isla Grant (Personal)](/setts/s17/b4r3b3g11b3g3b3r4b3w3b3k3b5r3b3r2k4~b202060-g003820-k101010-rc80000-wfcfcfc~x2/)|
+|![Isla Grant (Personal) example sett](/setts/s17/b4r3b3g11b3g3b3r4b3w3b3k3b5r3b3r2k4~b202060-g003820-k101010-rc80000-wfcfcfc~x2/sett.png)|

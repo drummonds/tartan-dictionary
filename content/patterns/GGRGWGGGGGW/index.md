@@ -16,5 +16,5 @@ GGRGWGGGGGW
 
 | Tartans |
 |---------------|
-| [Williams](/setts/s11/g92ga12r6ga6w6ga6gb20g16ga6g12w6-g503c14-ga2a2303-gb003c14-rfa4b00-wf5dca0/)|
-|![Williams example sett](/setts/s11/g92ga12r6ga6w6ga6gb20g16ga6g12w6-g503c14-ga2a2303-gb003c14-rfa4b00-wf5dca0/sett.png)|
+| [Williams](/setts/s11/g46ga6r3ga3w3ga3gb10g8ga3g6w3~g503c14-ga2a2303-gb003c14-rfa4b00-wf5dca0~x2/)|
+|![Williams example sett](/setts/s11/g46ga6r3ga3w3ga3gb10g8ga3g6w3~g503c14-ga2a2303-gb003c14-rfa4b00-wf5dca0~x2/sett.png)|

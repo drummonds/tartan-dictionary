@@ -16,5 +16,5 @@ BRKRKRKRBR
 
 | Tartans |
 |---------------|
-| [Masai Shuka 27 (Artefact)](/setts/s10/r60b16r4k2r4k2r4k2r4b16-b2c2c80-k101010-rc80000/)|
-|![Masai Shuka 27 (Artefact) example sett](/setts/s10/r60b16r4k2r4k2r4k2r4b16-b2c2c80-k101010-rc80000/sett.png)|
+| [Masai Shuka 27 (Artefact)](/setts/s10/r30b8r2k1r2k1r2k1r2b8~b2c2c80-k101010-rc80000~x2/)|
+|![Masai Shuka 27 (Artefact) example sett](/setts/s10/r30b8r2k1r2k1r2k1r2b8~b2c2c80-k101010-rc80000~x2/sett.png)|

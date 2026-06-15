@@ -6,7 +6,7 @@ BGKBKB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b76k16ba4k16g36ba4-b2c2c80-ba680028-g005448-k101010/tartan.png)
+![Woven sample](/setts/s6/b19k4ba1k4g9ba1~b2c2c80-ba680028-g005448-k101010~x4/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGKBKB
 
 | Tartans |
 |---------------|
-| [Monarchs](/setts/s6/b76k16ba4k16g36ba4-b2c2c80-ba680028-g005448-k101010/)|
-|![Monarchs example sett](/setts/s6/b76k16ba4k16g36ba4-b2c2c80-ba680028-g005448-k101010/sett.png)|
-| [Monarchs](/setts/s6/b76k16ba4k16g36ba4-b304080-ba600030-g006030-k000000/)|
-|![Monarchs example sett](/setts/s6/b76k16ba4k16g36ba4-b304080-ba600030-g006030-k000000/sett.png)|
-| [Wilson's, No 166](/setts/s6/b6g24k28b22k6b6-b5480b0-g008000-k000000/)|
-|![Wilson's, No 166 example sett](/setts/s6/b6g24k28b22k6b6-b5480b0-g008000-k000000/sett.png)|
+| [Monarchs](/setts/s6/b19k4ba1k4g9ba1~b2c2c80-ba680028-g005448-k101010~x4/)|
+|![Monarchs example sett](/setts/s6/b19k4ba1k4g9ba1~b2c2c80-ba680028-g005448-k101010~x4/sett.png)|
+| [Monarchs](/setts/s6/b19k4ba1k4g9ba1~b304080-ba600030-g006030-k000000~x4/)|
+|![Monarchs example sett](/setts/s6/b19k4ba1k4g9ba1~b304080-ba600030-g006030-k000000~x4/sett.png)|
+| [Wilson's, No 166](/setts/s6/b3g12k14b11k3b3~b5480b0-g008000-k000000~x2/)|
+|![Wilson's, No 166 example sett](/setts/s6/b3g12k14b11k3b3~b5480b0-g008000-k000000~x2/sett.png)|

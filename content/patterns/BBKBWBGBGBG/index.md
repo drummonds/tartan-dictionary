@@ -16,5 +16,5 @@ BBKBWBGBGBG
 
 | Tartans |
 |---------------|
-| [DunBroch](/setts/s11/b8ba16k4ba10w4ba10g16bb14g4bb14g6-b483d8b-ba539dc2-bb700038-g00572b-k101010-we1cdb2/)|
-|![DunBroch example sett](/setts/s11/b8ba16k4ba10w4ba10g16bb14g4bb14g6-b483d8b-ba539dc2-bb700038-g00572b-k101010-we1cdb2/sett.png)|
+| [DunBroch](/setts/s11/b4ba8k2ba5w2ba5g8bb7g2bb7g3~b483d8b-ba539dc2-bb700038-g00572b-k101010-we1cdb2~x2/)|
+|![DunBroch example sett](/setts/s11/b4ba8k2ba5w2ba5g8bb7g2bb7g3~b483d8b-ba539dc2-bb700038-g00572b-k101010-we1cdb2~x2/sett.png)|

@@ -16,5 +16,5 @@ GKWYBYBGRWRW
 
 | Tartans |
 |---------------|
-| [Seller (Personal)](/setts/s12/g126k8w18y4b8y4b8g22r16w4r8wa10-b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000/)|
-|![Seller (Personal) example sett](/setts/s12/g126k8w18y4b8y4b8g22r16w4r8wa10-b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000/sett.png)|
+| [Seller (Personal)](/setts/s12/g63k4w9y2b4y2b4g11r8w2r4wa5~b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000~x2/)|
+|![Seller (Personal) example sett](/setts/s12/g63k4w9y2b4y2b4g11r8w2r4wa5~b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000~x2/sett.png)|

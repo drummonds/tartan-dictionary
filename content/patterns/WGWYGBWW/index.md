@@ -6,7 +6,7 @@ WGWYGBWW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w16wa48b42g36y8wb6ga4wc2-b2c2c80-g649848-ga603800-wf9f5ef-wa00fcfc-wbc8c8c8-wce8ccb8-ye0a126/tartan.png)
+![Woven sample](/setts/s8/w8wa24b21g18y4wb3ga2wc1~b2c2c80-g649848-ga603800-wf9f5ef-wa00fcfc-wbc8c8c8-wce8ccb8-ye0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGWYGBWW
 
 | Tartans |
 |---------------|
-| [Philpotts, Brian](/setts/s8/w16wa48b42g36y8wb6ga4wc2-b2c2c80-g649848-ga603800-wf9f5ef-wa00fcfc-wbc8c8c8-wce8ccb8-ye0a126/)|
-|![Philpotts, Brian example sett](/setts/s8/w16wa48b42g36y8wb6ga4wc2-b2c2c80-g649848-ga603800-wf9f5ef-wa00fcfc-wbc8c8c8-wce8ccb8-ye0a126/sett.png)|
+| [Philpotts, Brian](/setts/s8/w8wa24b21g18y4wb3ga2wc1~b2c2c80-g649848-ga603800-wf9f5ef-wa00fcfc-wbc8c8c8-wce8ccb8-ye0a126~x2/)|
+|![Philpotts, Brian example sett](/setts/s8/w8wa24b21g18y4wb3ga2wc1~b2c2c80-g649848-ga603800-wf9f5ef-wa00fcfc-wbc8c8c8-wce8ccb8-ye0a126~x2/sett.png)|

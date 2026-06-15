@@ -16,7 +16,7 @@ KWKWKWKWRWKWK
 
 | Tartans |
 |---------------|
-| [Blackcraig (Personal)](/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wffffff/)|
-|![Blackcraig (Personal) example sett](/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wffffff/sett.png)|
-| [Blackcraig (Personal)](/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wfcfcfc/)|
-|![Blackcraig (Personal) example sett](/setts/s13/k20w20k20w20r6w12k6w6k6w6k6w6k6-k101010-rc80000-wfcfcfc/sett.png)|
+| [Blackcraig (Personal)](/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~k101010-rc80000-wffffff~x2/)|
+|![Blackcraig (Personal) example sett](/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~k101010-rc80000-wffffff~x2/sett.png)|
+| [Blackcraig (Personal)](/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~k101010-rc80000-wfcfcfc~x2/)|
+|![Blackcraig (Personal) example sett](/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~k101010-rc80000-wfcfcfc~x2/sett.png)|

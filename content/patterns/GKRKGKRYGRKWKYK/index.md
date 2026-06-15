@@ -16,5 +16,5 @@ GKRKGKRYGRKWKYK
 
 | Tartans |
 |---------------|
-| [Belk Heritage (Fashion)](/setts/s15/k32y2k8w4k8r2g82y4r72k2g6k2r6k2g8-g003820-k101010-r880000-we8ccb8-ybc8c00/)|
-|![Belk Heritage (Fashion) example sett](/setts/s15/k32y2k8w4k8r2g82y4r72k2g6k2r6k2g8-g003820-k101010-r880000-we8ccb8-ybc8c00/sett.png)|
+| [Belk Heritage (Fashion)](/setts/s15/k16y1k4w2k4r1g41y2r36k1g3k1r3k1g4~g003820-k101010-r880000-we8ccb8-ybc8c00~x2/)|
+|![Belk Heritage (Fashion) example sett](/setts/s15/k16y1k4w2k4r1g41y2r36k1g3k1r3k1g4~g003820-k101010-r880000-we8ccb8-ybc8c00~x2/sett.png)|

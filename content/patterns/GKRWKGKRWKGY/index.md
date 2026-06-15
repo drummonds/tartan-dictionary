@@ -16,7 +16,7 @@ GKRWKGKRWKGY
 
 | Tartans |
 |---------------|
-| [Schwarzen Keiler, Die](/setts/s12/g24k24r4w4k24g128k24r4w4k24g24y8-g0a2a1b-k101010-rff0000-wffffff-yffe600/)|
-|![Schwarzen Keiler, Die example sett](/setts/s12/g24k24r4w4k24g128k24r4w4k24g24y8-g0a2a1b-k101010-rff0000-wffffff-yffe600/sett.png)|
-| [Schwarzen Keiler, Die](/setts/s12/g24k24r4w4k24g128k24r4w4k24g24y8-g003820-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Schwarzen Keiler, Die example sett](/setts/s12/g24k24r4w4k24g128k24r4w4k24g24y8-g003820-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Schwarzen Keiler, Die](/setts/s12/g6k6r1w1k6g32k6r1w1k6g6y2~g0a2a1b-k101010-rff0000-wffffff-yffe600~x4/)|
+|![Schwarzen Keiler, Die example sett](/setts/s12/g6k6r1w1k6g32k6r1w1k6g6y2~g0a2a1b-k101010-rff0000-wffffff-yffe600~x4/sett.png)|
+| [Schwarzen Keiler, Die](/setts/s12/g6k6r1w1k6g32k6r1w1k6g6y2~g003820-k101010-rc80000-wfcfcfc-ye8c000~x4/)|
+|![Schwarzen Keiler, Die example sett](/setts/s12/g6k6r1w1k6g32k6r1w1k6g6y2~g003820-k101010-rc80000-wfcfcfc-ye8c000~x4/sett.png)|

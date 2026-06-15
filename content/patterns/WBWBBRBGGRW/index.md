@@ -16,5 +16,5 @@ WBWBBRBGGRW
 
 | Tartans |
 |---------------|
-| [Fothergill (Personal)](/setts/s11/w50b3w8b8ba12r4ba12g16ga12ra4w4-b2c2c80-ba202060-g006818-ga003820-rc80000-ra888888-wfcfcfc/)|
-|![Fothergill (Personal) example sett](/setts/s11/w50b3w8b8ba12r4ba12g16ga12ra4w4-b2c2c80-ba202060-g006818-ga003820-rc80000-ra888888-wfcfcfc/sett.png)|
+| [Fothergill (Personal)](/setts/s11/w50b3w8b8ba12r4ba12g16ga12ra4w4~b2c2c80-ba202060-g006818-ga003820-rc80000-ra888888-wfcfcfc/)|
+|![Fothergill (Personal) example sett](/setts/s11/w50b3w8b8ba12r4ba12g16ga12ra4w4~b2c2c80-ba202060-g006818-ga003820-rc80000-ra888888-wfcfcfc/sett.png)|

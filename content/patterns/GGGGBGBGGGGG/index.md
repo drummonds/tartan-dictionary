@@ -16,5 +16,5 @@ GGGGBGBGGGGG
 
 | Tartans |
 |---------------|
-| [de Meuron (Family)](/setts/s12/g18ga26gb52gc12b10gc80b10gc12gb52ga26g18gb6-b440044-g5c6428-ga006818-gb003820-gc604000/)|
-|![de Meuron (Family) example sett](/setts/s12/g18ga26gb52gc12b10gc80b10gc12gb52ga26g18gb6-b440044-g5c6428-ga006818-gb003820-gc604000/sett.png)|
+| [de Meuron (Family)](/setts/s12/g9ga13gb26gc6b5gc40b5gc6gb26ga13g9gb3~b440044-g5c6428-ga006818-gb003820-gc604000~x2/)|
+|![de Meuron (Family) example sett](/setts/s12/g9ga13gb26gc6b5gc40b5gc6gb26ga13g9gb3~b440044-g5c6428-ga006818-gb003820-gc604000~x2/sett.png)|

@@ -16,7 +16,7 @@ KYGRKYKRGYKR
 
 | Tartans |
 |---------------|
-| [Scrymgeour](/setts/s12/r90k6y12g18r12k6y90k6r12g18y12k6-g408060-k101010-rc80000-yd09800/)|
-|![Scrymgeour example sett](/setts/s12/r90k6y12g18r12k6y90k6r12g18y12k6-g408060-k101010-rc80000-yd09800/sett.png)|
-| [Scrimgeour of Glassary](/setts/s12/r64k6y12g20r12k6y64k6r12g20y12k6-g408060-k101010-rc80000-yd09800/)|
-|![Scrimgeour of Glassary example sett](/setts/s12/r64k6y12g20r12k6y64k6r12g20y12k6-g408060-k101010-rc80000-yd09800/sett.png)|
+| [Scrymgeour](/setts/s12/r15k1y2g3r2k1y15k1r2g3y2k1~g408060-k101010-rc80000-yd09800~x6/)|
+|![Scrymgeour example sett](/setts/s12/r15k1y2g3r2k1y15k1r2g3y2k1~g408060-k101010-rc80000-yd09800~x6/sett.png)|
+| [Scrimgeour of Glassary](/setts/s12/r32k3y6g10r6k3y32k3r6g10y6k3~g408060-k101010-rc80000-yd09800~x2/)|
+|![Scrimgeour of Glassary example sett](/setts/s12/r32k3y6g10r6k3y32k3r6g10y6k3~g408060-k101010-rc80000-yd09800~x2/sett.png)|

@@ -16,5 +16,5 @@ RKGKGKGKGKGKGKBKBKBKBKBKBWR
 
 | Tartans |
 |---------------|
-| [St. Andrews Soc. of New York (Corp)](/setts/s27/r16w4b68k2b10k4b8k6b6k8b4k10b2k72g2k10g4k8g6k6g8k4g10k2g68k8ra16-b2c2c80-g006818-k101010-rc80000-rae87878-wfcfcfc/)|
-|![St. Andrews Soc. of New York (Corp) example sett](/setts/s27/r16w4b68k2b10k4b8k6b6k8b4k10b2k72g2k10g4k8g6k6g8k4g10k2g68k8ra16-b2c2c80-g006818-k101010-rc80000-rae87878-wfcfcfc/sett.png)|
+| [St. Andrews Soc. of New York (Corp)](/setts/s27/r8w2b34k1b5k2b4k3b3k4b2k5b1k36g1k5g2k4g3k3g4k2g5k1g34k4ra8~b2c2c80-g006818-k101010-rc80000-rae87878-wfcfcfc~x2/)|
+|![St. Andrews Soc. of New York (Corp) example sett](/setts/s27/r8w2b34k1b5k2b4k3b3k4b2k5b1k36g1k5g2k4g3k3g4k2g5k1g34k4ra8~b2c2c80-g006818-k101010-rc80000-rae87878-wfcfcfc~x2/sett.png)|

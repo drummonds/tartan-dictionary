@@ -6,7 +6,7 @@ BKRBKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b36k36r12b36k36y4-b000080-k101010-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s6/b9k9r3b9k9y1~b000080-k101010-rff0000-yffe600~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKRBKY
 
 | Tartans |
 |---------------|
-| [Old Brigade](/setts/s6/b36k36r12b36k36y4-b000080-k101010-rff0000-yffe600/)|
-|![Old Brigade example sett](/setts/s6/b36k36r12b36k36y4-b000080-k101010-rff0000-yffe600/sett.png)|
-| [Old Brigade](/setts/s6/b36k36r12b36k36y4-b202060-k101010-rc80000-yfccc00/)|
-|![Old Brigade example sett](/setts/s6/b36k36r12b36k36y4-b202060-k101010-rc80000-yfccc00/sett.png)|
+| [Old Brigade](/setts/s6/b9k9r3b9k9y1~b000080-k101010-rff0000-yffe600~x4/)|
+|![Old Brigade example sett](/setts/s6/b9k9r3b9k9y1~b000080-k101010-rff0000-yffe600~x4/sett.png)|
+| [Old Brigade](/setts/s6/b9k9r3b9k9y1~b202060-k101010-rc80000-yfccc00~x4/)|
+|![Old Brigade example sett](/setts/s6/b9k9r3b9k9y1~b202060-k101010-rc80000-yfccc00~x4/sett.png)|

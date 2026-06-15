@@ -16,5 +16,5 @@ KRWBWBWBW
 
 | Tartans |
 |---------------|
-| [Yudo (Corporate)](/setts/s9/k8r36w8b8w16b8w8b80w8-b2c2c80-k101010-rc80000-wf8f8f8/)|
-|![Yudo (Corporate) example sett](/setts/s9/k8r36w8b8w16b8w8b80w8-b2c2c80-k101010-rc80000-wf8f8f8/sett.png)|
+| [Yudo (Corporate)](/setts/s9/k2r9w2b2w4b2w2b20w2~b2c2c80-k101010-rc80000-wf8f8f8~x4/)|
+|![Yudo (Corporate) example sett](/setts/s9/k2r9w2b2w4b2w2b20w2~b2c2c80-k101010-rc80000-wf8f8f8~x4/sett.png)|

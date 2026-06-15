@@ -16,5 +16,5 @@ KGYGYGYGYGYGYGYGKKKYKYKYKYKYKYKYKKYK
 
 | Tartans |
 |---------------|
-| [Prince Edward Island (Commemorative)](/setts/s36/k100y32k16ka16y2ka2y2ka2y2ka2y2ka2y2ka2y2ka2y40ka80k24ka48g16y2g2y2g2y2g2y2g2y2g2y2g2y56g12ka8-g003820-k000000-ka101010-ybc8c00/)|
-|![Prince Edward Island (Commemorative) example sett](/setts/s36/k100y32k16ka16y2ka2y2ka2y2ka2y2ka2y2ka2y2ka2y40ka80k24ka48g16y2g2y2g2y2g2y2g2y2g2y2g2y56g12ka8-g003820-k000000-ka101010-ybc8c00/sett.png)|
+| [Prince Edward Island (Commemorative)](/setts/s36/k50y16k8ka8y1ka1y1ka1y1ka1y1ka1y1ka1y1ka1y20ka40k12ka24g8y1g1y1g1y1g1y1g1y1g1y1g1y28g6ka4~g003820-k000000-ka101010-ybc8c00~x2/)|
+|![Prince Edward Island (Commemorative) example sett](/setts/s36/k50y16k8ka8y1ka1y1ka1y1ka1y1ka1y1ka1y1ka1y20ka40k12ka24g8y1g1y1g1y1g1y1g1y1g1y1g1y28g6ka4~g003820-k000000-ka101010-ybc8c00~x2/sett.png)|

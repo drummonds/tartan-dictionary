@@ -6,7 +6,7 @@ BKGRGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b44k16g16r4g16k4ra4-b1474b4-g006818-k101010-rb468ac-rac80000/tartan.png)
+![Woven sample](/setts/s7/b11k4g4r1g4k1ra1~b1474b4-g006818-k101010-rb468ac-rac80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGRGKR
 
 | Tartans |
 |---------------|
-| [Ednie (Personal)](/setts/s7/b44k16g16r4g16k4ra4-b1474b4-g006818-k101010-rb468ac-rac80000/)|
-|![Ednie (Personal) example sett](/setts/s7/b44k16g16r4g16k4ra4-b1474b4-g006818-k101010-rb468ac-rac80000/sett.png)|
+| [Ednie (Personal)](/setts/s7/b11k4g4r1g4k1ra1~b1474b4-g006818-k101010-rb468ac-rac80000~x4/)|
+|![Ednie (Personal) example sett](/setts/s7/b11k4g4r1g4k1ra1~b1474b4-g006818-k101010-rb468ac-rac80000~x4/sett.png)|

@@ -16,5 +16,5 @@ GRKRGRGRKRKRGRKRKRKRK
 
 | Tartans |
 |---------------|
-| [Murray of Tullibardine - Artefact](/setts/s21/k8r6k6r8k44r8k6r6g8r6k6r88k60r20g20r80g60r54k20r28g6-g003820-k00002c-rc80000/)|
-|![Murray of Tullibardine - Artefact example sett](/setts/s21/k8r6k6r8k44r8k6r6g8r6k6r88k60r20g20r80g60r54k20r28g6-g003820-k00002c-rc80000/sett.png)|
+| [Murray of Tullibardine - Artefact](/setts/s21/k4r3k3r4k22r4k3r3g4r3k3r44k30r10g10r40g30r27k10r14g3~g003820-k00002c-rc80000~x2/)|
+|![Murray of Tullibardine - Artefact example sett](/setts/s21/k4r3k3r4k22r4k3r3g4r3k3r44k30r10g10r40g30r27k10r14g3~g003820-k00002c-rc80000~x2/sett.png)|

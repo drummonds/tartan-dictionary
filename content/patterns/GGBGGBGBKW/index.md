@@ -16,5 +16,5 @@ GGBGGBGBKW
 
 | Tartans |
 |---------------|
-| [Camenisch Enveglan Family (Personal)](/setts/s10/g56ga12b8ga12g10ba8g10b22k2w4-b003c64-ba5a008c-g005020-ga003820-k101010-wf8f4d0/)|
-|![Camenisch Enveglan Family (Personal) example sett](/setts/s10/g56ga12b8ga12g10ba8g10b22k2w4-b003c64-ba5a008c-g005020-ga003820-k101010-wf8f4d0/sett.png)|
+| [Camenisch Enveglan Family (Personal)](/setts/s10/g28ga6b4ga6g5ba4g5b11k1w2~b003c64-ba5a008c-g005020-ga003820-k101010-wf8f4d0~x2/)|
+|![Camenisch Enveglan Family (Personal) example sett](/setts/s10/g28ga6b4ga6g5ba4g5b11k1w2~b003c64-ba5a008c-g005020-ga003820-k101010-wf8f4d0~x2/sett.png)|

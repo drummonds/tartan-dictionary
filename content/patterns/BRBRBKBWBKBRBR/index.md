@@ -16,5 +16,5 @@ BRBRBKBWBKBRBR
 
 | Tartans |
 |---------------|
-| [Tokyo Bluebells (Dance)](/setts/s14/b72r4b4r4b4k28b52w8b52k28b4r4b4r4-b1474b4-k101010-rc80000-we0e0e0/)|
-|![Tokyo Bluebells (Dance) example sett](/setts/s14/b72r4b4r4b4k28b52w8b52k28b4r4b4r4-b1474b4-k101010-rc80000-we0e0e0/sett.png)|
+| [Tokyo Bluebells (Dance)](/setts/s14/b18r1b1r1b1k7b13w2b13k7b1r1b1r1~b1474b4-k101010-rc80000-we0e0e0~x4/)|
+|![Tokyo Bluebells (Dance) example sett](/setts/s14/b18r1b1r1b1k7b13w2b13k7b1r1b1r1~b1474b4-k101010-rc80000-we0e0e0~x4/sett.png)|

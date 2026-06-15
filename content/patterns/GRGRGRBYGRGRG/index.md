@@ -16,5 +16,5 @@ GRGRGRBYGRGRG
 
 | Tartans |
 |---------------|
-| [Barbecue Presbyterian Church (Corp)](/setts/s13/g34r4g4r10g58r4b62y4ga58r10ga4r4ga34-b202060-g003820-ga006818-rc80000-yfccc3c/)|
-|![Barbecue Presbyterian Church (Corp) example sett](/setts/s13/g34r4g4r10g58r4b62y4ga58r10ga4r4ga34-b202060-g003820-ga006818-rc80000-yfccc3c/sett.png)|
+| [Barbecue Presbyterian Church (Corp)](/setts/s13/g17r2g2r5g29r2b31y2ga29r5ga2r2ga17~b202060-g003820-ga006818-rc80000-yfccc3c~x2/)|
+|![Barbecue Presbyterian Church (Corp) example sett](/setts/s13/g17r2g2r5g29r2b31y2ga29r5ga2r2ga17~b202060-g003820-ga006818-rc80000-yfccc3c~x2/sett.png)|

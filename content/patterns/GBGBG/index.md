@@ -6,7 +6,7 @@ GBGBG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g54b18g6b66g6-b304080-g808080/tartan.png)
+![Woven sample](/setts/s5/g9b3g1b11g1~b304080-g808080~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBG
 
 | Tartans |
 |---------------|
-| [MacCallum, High School](/setts/s5/g54b18g6b66g6-b304080-g808080/)|
-|![MacCallum, High School example sett](/setts/s5/g54b18g6b66g6-b304080-g808080/sett.png)|
+| [MacCallum, High School](/setts/s5/g9b3g1b11g1~b304080-g808080~x6/)|
+|![MacCallum, High School example sett](/setts/s5/g9b3g1b11g1~b304080-g808080~x6/sett.png)|

@@ -16,5 +16,5 @@ WRWKYKGRGY
 
 | Tartans |
 |---------------|
-| [Spanish shirt](/setts/s10/w14r2w28k12y4k12g28r4g20y2-g007800-k000000-rd40000-we0e0e0-yc88c00/)|
-|![Spanish shirt example sett](/setts/s10/w14r2w28k12y4k12g28r4g20y2-g007800-k000000-rd40000-we0e0e0-yc88c00/sett.png)|
+| [Spanish shirt](/setts/s10/w7r1w14k6y2k6g14r2g10y1~g007800-k000000-rd40000-we0e0e0-yc88c00~x2/)|
+|![Spanish shirt example sett](/setts/s10/w7r1w14k6y2k6g14r2g10y1~g007800-k000000-rd40000-we0e0e0-yc88c00~x2/sett.png)|

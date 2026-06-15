@@ -16,5 +16,5 @@ BYKYKYRKRBKBKBRKRYKYKYBK
 
 | Tartans |
 |---------------|
-| [Franklin](/setts/s24/b12y20k4y8k4y20r12k8r12b24k4b4k4b24r12k8r12y20k4y8k4y20b12k8-b1474b4-k101010-rc80000-ye8c000/)|
-|![Franklin example sett](/setts/s24/b12y20k4y8k4y20r12k8r12b24k4b4k4b24r12k8r12y20k4y8k4y20b12k8-b1474b4-k101010-rc80000-ye8c000/sett.png)|
+| [Franklin](/setts/s24/b3y5k1y2k1y5r3k2r3b6k1b1k1b6r3k2r3y5k1y2k1y5b3k2~b1474b4-k101010-rc80000-ye8c000~x4/)|
+|![Franklin example sett](/setts/s24/b3y5k1y2k1y5r3k2r3b6k1b1k1b6r3k2r3y5k1y2k1y5b3k2~b1474b4-k101010-rc80000-ye8c000~x4/sett.png)|

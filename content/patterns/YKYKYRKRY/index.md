@@ -16,5 +16,5 @@ YKYKYRKRY
 
 | Tartans |
 |---------------|
-| [Anthony Plaid Ecru](/setts/s9/y72k4ya12k4y8r8k8r8y8-k101010-r880000-yb8b8b8-yae8c000/)|
-|![Anthony Plaid Ecru example sett](/setts/s9/y72k4ya12k4y8r8k8r8y8-k101010-r880000-yb8b8b8-yae8c000/sett.png)|
+| [Anthony Plaid Ecru](/setts/s9/y18k1ya3k1y2r2k2r2y2~k101010-r880000-yb8b8b8-yae8c000~x4/)|
+|![Anthony Plaid Ecru example sett](/setts/s9/y18k1ya3k1y2r2k2r2y2~k101010-r880000-yb8b8b8-yae8c000~x4/sett.png)|

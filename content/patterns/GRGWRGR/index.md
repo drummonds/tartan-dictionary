@@ -6,7 +6,7 @@ GRGWRGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/tartan.png)
+![Woven sample](/setts/s7/g4r2g13w2r13g2r4~g285800-rb03000-we8ccb8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGWRGR
 
 | Tartans |
 |---------------|
-| [Crossnor School](/setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/)|
-|![Crossnor School example sett](/setts/s7/g8r4g26w4r26g4r8-g285800-rb03000-we8ccb8/sett.png)|
+| [Crossnor School](/setts/s7/g4r2g13w2r13g2r4~g285800-rb03000-we8ccb8~x2/)|
+|![Crossnor School example sett](/setts/s7/g4r2g13w2r13g2r4~g285800-rb03000-we8ccb8~x2/sett.png)|

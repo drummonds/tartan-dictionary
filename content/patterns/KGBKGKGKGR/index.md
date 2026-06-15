@@ -16,7 +16,7 @@ KGBKGKGKGR
 
 | Tartans |
 |---------------|
-| [MacAndreis](/setts/s10/k6g8b50k32g6k6g6k6g12r6-b383c60-g28442c-k101010-r883834/)|
-|![MacAndreis example sett](/setts/s10/k6g8b50k32g6k6g6k6g12r6-b383c60-g28442c-k101010-r883834/sett.png)|
-| [MacAndreis (Personal)](/setts/s10/k6g8b50k32g6k6g6k6g12r6-b2c2c80-g003820-k101010-re87878/)|
-|![MacAndreis (Personal) example sett](/setts/s10/k6g8b50k32g6k6g6k6g12r6-b2c2c80-g003820-k101010-re87878/sett.png)|
+| [MacAndreis](/setts/s10/k3g4b25k16g3k3g3k3g6r3~b383c60-g28442c-k101010-r883834~x2/)|
+|![MacAndreis example sett](/setts/s10/k3g4b25k16g3k3g3k3g6r3~b383c60-g28442c-k101010-r883834~x2/sett.png)|
+| [MacAndreis (Personal)](/setts/s10/k3g4b25k16g3k3g3k3g6r3~b2c2c80-g003820-k101010-re87878~x2/)|
+|![MacAndreis (Personal) example sett](/setts/s10/k3g4b25k16g3k3g3k3g6r3~b2c2c80-g003820-k101010-re87878~x2/sett.png)|

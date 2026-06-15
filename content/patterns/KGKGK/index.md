@@ -6,7 +6,7 @@ KGKGK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k6g40k40ga40k6-g003820-ga006818-k101010/tartan.png)
+![Woven sample](/setts/s5/k3g20k20ga20k3~g003820-ga006818-k101010~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKGK
 
 | Tartans |
 |---------------|
-| [MacCormick Hunting (Name)](/setts/s5/k6g40k40ga40k6-g003820-ga006818-k101010/)|
-|![MacCormick Hunting (Name) example sett](/setts/s5/k6g40k40ga40k6-g003820-ga006818-k101010/sett.png)|
+| [MacCormick Hunting (Name)](/setts/s5/k3g20k20ga20k3~g003820-ga006818-k101010~x2/)|
+|![MacCormick Hunting (Name) example sett](/setts/s5/k3g20k20ga20k3~g003820-ga006818-k101010~x2/sett.png)|

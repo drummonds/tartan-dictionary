@@ -16,5 +16,5 @@ KBKYBWRWRWRWBYKBKY
 
 | Tartans |
 |---------------|
-| [Jong Nederland Born Union, Dress](/setts/s18/k4b8k8y8b48w52r4w4r8w4r4w52b48y8k8b8k4ya4-b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000/)|
-|![Jong Nederland Born Union, Dress example sett](/setts/s18/k4b8k8y8b48w52r4w4r8w4r4w52b48y8k8b8k4ya4-b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000/sett.png)|
+| [Jong Nederland Born Union, Dress](/setts/s18/k1b2k2y2b12w13r1w1r2w1r1w13b12y2k2b2k1ya1~b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000~x4/)|
+|![Jong Nederland Born Union, Dress example sett](/setts/s18/k1b2k2y2b12w13r1w1r2w1r1w13b12y2k2b2k1ya1~b2888c4-k101010-r880000-we0e0e0-yc4bc68-yae8c000~x4/sett.png)|

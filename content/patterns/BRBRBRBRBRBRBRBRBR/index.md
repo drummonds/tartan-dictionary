@@ -16,5 +16,5 @@ BRBRBRBRBRBRBRBRBR
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Prince Charles Edward #2](/setts/s18/b80r80b88r4b4r80b4r4b4r14b4r4b4r80b4r4b88r80-b2c2c80-rc80000/)|
-|![Unnamed C18th - Prince Charles Edward #2 example sett](/setts/s18/b80r80b88r4b4r80b4r4b4r14b4r4b4r80b4r4b88r80-b2c2c80-rc80000/sett.png)|
+| [Unnamed C18th - Prince Charles Edward #2](/setts/s18/b40r40b44r2b2r40b2r2b2r7b2r2b2r40b2r2b44r40~b2c2c80-rc80000~x2/)|
+|![Unnamed C18th - Prince Charles Edward #2 example sett](/setts/s18/b40r40b44r2b2r40b2r2b2r7b2r2b2r40b2r2b44r40~b2c2c80-rc80000~x2/sett.png)|

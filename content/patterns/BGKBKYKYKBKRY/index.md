@@ -16,7 +16,7 @@ BGKBKYKYKBKRY
 
 | Tartans |
 |---------------|
-| [Buchanan D](/setts/s13/b4g32k2b4k2y8k2y8k2b4k2r32ya4-b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![Buchanan D example sett](/setts/s13/b4g32k2b4k2y8k2y8k2b4k2r32ya4-b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
-| [Buchanan D](/setts/s13/b2g16k1b2k1y4k1y4k1b2k1r16ya2-b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![Buchanan D example sett](/setts/s13/b2g16k1b2k1y4k1y4k1b2k1r16ya2-b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [Buchanan D](/setts/s13/b2g16k1b2k1y4k1y4k1b2k1r16ya2~b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![Buchanan D example sett](/setts/s13/b2g16k1b2k1y4k1y4k1b2k1r16ya2~b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|
+| [Buchanan D](/setts/s13/b2g16k1b2k1y4k1y4k1b2k1r16ya2~b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![Buchanan D example sett](/setts/s13/b2g16k1b2k1y4k1y4k1b2k1r16ya2~b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|

@@ -16,5 +16,5 @@ BRKRKRRYKYKYKYK
 
 | Tartans |
 |---------------|
-| [Caithness (District)](/setts/s15/b56r6k4ra4k4r6ra16y4k16y10k6ya4k4y6k2-b441800-k101010-rc80000-ra888888-ya08858-yac4bc68/)|
-|![Caithness (District) example sett](/setts/s15/b56r6k4ra4k4r6ra16y4k16y10k6ya4k4y6k2-b441800-k101010-rc80000-ra888888-ya08858-yac4bc68/sett.png)|
+| [Caithness (District)](/setts/s15/b28r3k2ra2k2r3ra8y2k8y5k3ya2k2y3k1~b441800-k101010-rc80000-ra888888-ya08858-yac4bc68~x2/)|
+|![Caithness (District) example sett](/setts/s15/b28r3k2ra2k2r3ra8y2k8y5k3ya2k2y3k1~b441800-k101010-rc80000-ra888888-ya08858-yac4bc68~x2/sett.png)|

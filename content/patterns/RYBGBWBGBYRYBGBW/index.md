@@ -16,5 +16,5 @@ RYBGBWBGBYRYBGBW
 
 | Tartans |
 |---------------|
-| [Hirter Karo (Corporate)](/setts/s16/r6y6b36g30ba32w6ba32g30ba36y6r6y6ba36g30ba32w6-b202060-ba2474e8-g604000-rc80000-wf8f8f8-ye8c000/)|
-|![Hirter Karo (Corporate) example sett](/setts/s16/r6y6b36g30ba32w6ba32g30ba36y6r6y6ba36g30ba32w6-b202060-ba2474e8-g604000-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Hirter Karo (Corporate)](/setts/s16/r3y3b18g15ba16w3ba16g15ba18y3r3y3ba18g15ba16w3~b202060-ba2474e8-g604000-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Hirter Karo (Corporate) example sett](/setts/s16/r3y3b18g15ba16w3ba16g15ba18y3r3y3ba18g15ba16w3~b202060-ba2474e8-g604000-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ KRBBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k16r32b16ba80y16-b5c8ca8-ba1c1c50-k101010-rc80000-ybc8c00/tartan.png)
+![Woven sample](/setts/s5/k1r2b1ba5y1~b5c8ca8-ba1c1c50-k101010-rc80000-ybc8c00~x16/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRBBY
 
 | Tartans |
 |---------------|
-| [Trinity College, Toronto Uni. (Corp](/setts/s5/k16r32b16ba80y16-b5c8ca8-ba1c1c50-k101010-rc80000-ybc8c00/)|
-|![Trinity College, Toronto Uni. (Corp example sett](/setts/s5/k16r32b16ba80y16-b5c8ca8-ba1c1c50-k101010-rc80000-ybc8c00/sett.png)|
-| [Rose, Danny and Hanna (Personal)](/setts/s5/y22b38ba76r14k14-b2c2c80-ba14283c-k101010-r880000-y48a4c0/)|
-|![Rose, Danny and Hanna (Personal) example sett](/setts/s5/y22b38ba76r14k14-b2c2c80-ba14283c-k101010-r880000-y48a4c0/sett.png)|
+| [Trinity College, Toronto Uni. (Corp](/setts/s5/k1r2b1ba5y1~b5c8ca8-ba1c1c50-k101010-rc80000-ybc8c00~x16/)|
+|![Trinity College, Toronto Uni. (Corp example sett](/setts/s5/k1r2b1ba5y1~b5c8ca8-ba1c1c50-k101010-rc80000-ybc8c00~x16/sett.png)|
+| [Rose, Danny and Hanna (Personal)](/setts/s5/y11b19ba38r7k7~b2c2c80-ba14283c-k101010-r880000-y48a4c0~x2/)|
+|![Rose, Danny and Hanna (Personal) example sett](/setts/s5/y11b19ba38r7k7~b2c2c80-ba14283c-k101010-r880000-y48a4c0~x2/sett.png)|

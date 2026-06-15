@@ -16,5 +16,5 @@ GWGBGBGYR
 
 | Tartans |
 |---------------|
-| [Nova Scotia, dress](/setts/s9/g6w58g6b6g6b12g26y6r4-b304080-g008000-rc00000-we0e0e0-yf0c000/)|
-|![Nova Scotia, dress example sett](/setts/s9/g6w58g6b6g6b12g26y6r4-b304080-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Nova Scotia, dress](/setts/s9/g3w29g3b3g3b6g13y3r2~b304080-g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Nova Scotia, dress example sett](/setts/s9/g3w29g3b3g3b6g13y3r2~b304080-g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

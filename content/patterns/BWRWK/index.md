@@ -6,7 +6,7 @@ BWRWK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wffffff/tartan.png)
+![Woven sample](/setts/s5/b8w13r3w2k5~b3850c8-k101010-rc80000-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWRWK
 
 | Tartans |
 |---------------|
-| [Boswell Dress (Personal)](/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wffffff/)|
-|![Boswell Dress (Personal) example sett](/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wffffff/sett.png)|
-| [Boswell Dress Check (Personal)](/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wf8f8f8/)|
-|![Boswell Dress Check (Personal) example sett](/setts/s5/b16w26r6w4k10-b3850c8-k101010-rc80000-wf8f8f8/sett.png)|
+| [Boswell Dress (Personal)](/setts/s5/b8w13r3w2k5~b3850c8-k101010-rc80000-wffffff~x2/)|
+|![Boswell Dress (Personal) example sett](/setts/s5/b8w13r3w2k5~b3850c8-k101010-rc80000-wffffff~x2/sett.png)|
+| [Boswell Dress Check (Personal)](/setts/s5/b8w13r3w2k5~b3850c8-k101010-rc80000-wf8f8f8~x2/)|
+|![Boswell Dress Check (Personal) example sett](/setts/s5/b8w13r3w2k5~b3850c8-k101010-rc80000-wf8f8f8~x2/sett.png)|

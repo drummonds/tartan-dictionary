@@ -16,5 +16,5 @@ WRKRGKWKYKBWRW
 
 | Tartans |
 |---------------|
-| [Hay - Stewart (Fashion)](/setts/s14/w18r10w58b6k20y4k6w6k6g24r12k6r6w4-b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00/)|
-|![Hay - Stewart (Fashion) example sett](/setts/s14/w18r10w58b6k20y4k6w6k6g24r12k6r6w4-b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00/sett.png)|
+| [Hay - Stewart (Fashion)](/setts/s14/w9r5w29b3k10y2k3w3k3g12r6k3r3w2~b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00~x2/)|
+|![Hay - Stewart (Fashion) example sett](/setts/s14/w9r5w29b3k10y2k3w3k3g12r6k3r3w2~b000048-g044028-k000000-rc80000-wfcfcfc-ydcbc00~x2/sett.png)|

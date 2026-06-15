@@ -6,7 +6,7 @@ RWRWBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r94w12ra48w6b10y6-b003c64-r888888-rac80000-we0e0e0-ybc8c00/tartan.png)
+![Woven sample](/setts/s6/r47w6ra24w3b5y3~b003c64-r888888-rac80000-we0e0e0-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWRWBY
 
 | Tartans |
 |---------------|
-| [Duminiak (Personal)](/setts/s6/r94w12ra48w6b10y6-b003c64-r888888-rac80000-we0e0e0-ybc8c00/)|
-|![Duminiak (Personal) example sett](/setts/s6/r94w12ra48w6b10y6-b003c64-r888888-rac80000-we0e0e0-ybc8c00/sett.png)|
+| [Duminiak (Personal)](/setts/s6/r47w6ra24w3b5y3~b003c64-r888888-rac80000-we0e0e0-ybc8c00~x2/)|
+|![Duminiak (Personal) example sett](/setts/s6/r47w6ra24w3b5y3~b003c64-r888888-rac80000-we0e0e0-ybc8c00~x2/sett.png)|

@@ -6,7 +6,7 @@ BWBGBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8w2b24g24b2g8-b2c4084-g005020-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/b4w1b12g12b1g4~b2c4084-g005020-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWBGBG
 
 | Tartans |
 |---------------|
-| [Unidentified Tweed](/setts/s6/b8w2b24g24b2g8-b2c4084-g005020-we0e0e0/)|
-|![Unidentified Tweed example sett](/setts/s6/b8w2b24g24b2g8-b2c4084-g005020-we0e0e0/sett.png)|
-| [Unidentified, Tweed](/setts/s6/b8w2b24g24b2g8-b304080-g008000-we0e0e0/)|
-|![Unidentified, Tweed example sett](/setts/s6/b8w2b24g24b2g8-b304080-g008000-we0e0e0/sett.png)|
+| [Unidentified Tweed](/setts/s6/b4w1b12g12b1g4~b2c4084-g005020-we0e0e0~x2/)|
+|![Unidentified Tweed example sett](/setts/s6/b4w1b12g12b1g4~b2c4084-g005020-we0e0e0~x2/sett.png)|
+| [Unidentified, Tweed](/setts/s6/b4w1b12g12b1g4~b304080-g008000-we0e0e0~x2/)|
+|![Unidentified, Tweed example sett](/setts/s6/b4w1b12g12b1g4~b304080-g008000-we0e0e0~x2/sett.png)|

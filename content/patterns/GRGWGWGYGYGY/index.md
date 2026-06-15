@@ -16,5 +16,5 @@ GRGWGWGYGYGY
 
 | Tartans |
 |---------------|
-| [O'Brien](/setts/s12/y26g12ya4g6ya4g12w6g4w6g24r6g12-g408060-rc80000-wa8ace8-yd87c00-yae8c000/)|
-|![O'Brien example sett](/setts/s12/y26g12ya4g6ya4g12w6g4w6g24r6g12-g408060-rc80000-wa8ace8-yd87c00-yae8c000/sett.png)|
+| [O'Brien](/setts/s12/y13g6ya2g3ya2g6w3g2w3g12r3g6~g408060-rc80000-wa8ace8-yd87c00-yae8c000~x2/)|
+|![O'Brien example sett](/setts/s12/y13g6ya2g3ya2g6w3g2w3g12r3g6~g408060-rc80000-wa8ace8-yd87c00-yae8c000~x2/sett.png)|

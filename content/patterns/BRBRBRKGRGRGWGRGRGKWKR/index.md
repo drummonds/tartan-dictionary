@@ -16,7 +16,7 @@ BRBRBRKGRGRGWGRGRGKWKR
 
 | Tartans |
 |---------------|
-| [MacDonell of Glengarry Dress](/setts/s22/b12r4b14r4b14r4k14g16r4g6r4g10w4g10r4g6r4g16k18w30k18r4-b2c2c80-g285800-k101010-rc80000-we0e0e0/)|
-|![MacDonell of Glengarry Dress example sett](/setts/s22/b12r4b14r4b14r4k14g16r4g6r4g10w4g10r4g6r4g16k18w30k18r4-b2c2c80-g285800-k101010-rc80000-we0e0e0/sett.png)|
-| [MacDonell of Glengarry, dress](/setts/s22/b12r4b14r4b14r4k14g16r4g6r4g10w4g10r4g6r4g16k18w30k18r4-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![MacDonell of Glengarry, dress example sett](/setts/s22/b12r4b14r4b14r4k14g16r4g6r4g10w4g10r4g6r4g16k18w30k18r4-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacDonell of Glengarry Dress](/setts/s22/b6r2b7r2b7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~b2c2c80-g285800-k101010-rc80000-we0e0e0~x2/)|
+|![MacDonell of Glengarry Dress example sett](/setts/s22/b6r2b7r2b7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~b2c2c80-g285800-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [MacDonell of Glengarry, dress](/setts/s22/b6r2b7r2b7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacDonell of Glengarry, dress example sett](/setts/s22/b6r2b7r2b7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

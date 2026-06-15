@@ -6,7 +6,7 @@ GBBKBKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g48b12ba6k12b24k30g8-b2c2c80-ba5c8ca8-g006818-k101010/tartan.png)
+![Woven sample](/setts/s7/g24b6ba3k6b12k15g4~b2c2c80-ba5c8ca8-g006818-k101010~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBBKBKG
 
 | Tartans |
 |---------------|
-| [Blaylock Annandale (Name)](/setts/s7/g48b12ba6k12b24k30g8-b2c2c80-ba5c8ca8-g006818-k101010/)|
-|![Blaylock Annandale (Name) example sett](/setts/s7/g48b12ba6k12b24k30g8-b2c2c80-ba5c8ca8-g006818-k101010/sett.png)|
+| [Blaylock Annandale (Name)](/setts/s7/g24b6ba3k6b12k15g4~b2c2c80-ba5c8ca8-g006818-k101010~x2/)|
+|![Blaylock Annandale (Name) example sett](/setts/s7/g24b6ba3k6b12k15g4~b2c2c80-ba5c8ca8-g006818-k101010~x2/sett.png)|

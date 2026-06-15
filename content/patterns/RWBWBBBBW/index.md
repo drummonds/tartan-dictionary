@@ -16,5 +16,5 @@ RWBWBBBBW
 
 | Tartans |
 |---------------|
-| [Fujisankei Serene (Corporate)](/setts/s9/r4w24b16w4b64ba4b16ba24w4-b2c2c80-ba5c5c5c-r888888-wc0c0c0/)|
-|![Fujisankei Serene (Corporate) example sett](/setts/s9/r4w24b16w4b64ba4b16ba24w4-b2c2c80-ba5c5c5c-r888888-wc0c0c0/sett.png)|
+| [Fujisankei Serene (Corporate)](/setts/s9/r1w6b4w1b16ba1b4ba6w1~b2c2c80-ba5c5c5c-r888888-wc0c0c0~x4/)|
+|![Fujisankei Serene (Corporate) example sett](/setts/s9/r1w6b4w1b16ba1b4ba6w1~b2c2c80-ba5c5c5c-r888888-wc0c0c0~x4/sett.png)|

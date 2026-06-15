@@ -16,5 +16,5 @@ BRGKGKGKBKG
 
 | Tartans |
 |---------------|
-| [Princess Louise (Royal)](/setts/s11/g8k4b36k28g4k4g4k4g36r4b4-b2c2c80-g006818-k101010-rc80000/)|
-|![Princess Louise (Royal) example sett](/setts/s11/g8k4b36k28g4k4g4k4g36r4b4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Princess Louise (Royal)](/setts/s11/g2k1b9k7g1k1g1k1g9r1b1~b2c2c80-g006818-k101010-rc80000~x4/)|
+|![Princess Louise (Royal) example sett](/setts/s11/g2k1b9k7g1k1g1k1g9r1b1~b2c2c80-g006818-k101010-rc80000~x4/sett.png)|

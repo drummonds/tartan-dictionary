@@ -16,5 +16,5 @@ BWKWKWKWKWKWKWB
 
 | Tartans |
 |---------------|
-| [Haig Check](/setts/s15/b12w12k12w12k12w12k12w12k12w12k12w12k12w12b12-b1474b4-k101010-wfcfcfc/)|
-|![Haig Check example sett](/setts/s15/b12w12k12w12k12w12k12w12k12w12k12w12k12w12b12-b1474b4-k101010-wfcfcfc/sett.png)|
+| [Haig Check](/setts/s15/b1w1k1w1k1w1k1w1k1w1k1w1k1w1b1~b1474b4-k101010-wfcfcfc~x12/)|
+|![Haig Check example sett](/setts/s15/b1w1k1w1k1w1k1w1k1w1k1w1k1w1b1~b1474b4-k101010-wfcfcfc~x12/sett.png)|

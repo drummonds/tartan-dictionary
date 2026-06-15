@@ -6,7 +6,7 @@ KRKWKWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k9r9k25w30k5w5r7-k101010-rc80000-wf0e4cc/tartan.png)
+![Woven sample](/setts/s7/k9r9k25w30k5w5r7~k101010-rc80000-wf0e4cc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKWKWR
 
 | Tartans |
 |---------------|
-| [Rocket Dog (Fashion)](/setts/s7/k9r9k25w30k5w5r7-k101010-rc80000-wf0e4cc/)|
-|![Rocket Dog (Fashion) example sett](/setts/s7/k9r9k25w30k5w5r7-k101010-rc80000-wf0e4cc/sett.png)|
+| [Rocket Dog (Fashion)](/setts/s7/k9r9k25w30k5w5r7~k101010-rc80000-wf0e4cc/)|
+|![Rocket Dog (Fashion) example sett](/setts/s7/k9r9k25w30k5w5r7~k101010-rc80000-wf0e4cc/sett.png)|

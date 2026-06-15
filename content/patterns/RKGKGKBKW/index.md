@@ -16,7 +16,7 @@ RKGKGKBKW
 
 | Tartans |
 |---------------|
-| [MacKean Dress (Personal)](/setts/s9/r6k12g24k6g6k12b18k6w6-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![MacKean Dress (Personal) example sett](/setts/s9/r6k12g24k6g6k12b18k6w6-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [MacKean dress](/setts/s9/r6k12g24k6g6k12b18k6w6-b304080-g004010-k000000-rc00000-we0e0e0/)|
-|![MacKean dress example sett](/setts/s9/r6k12g24k6g6k12b18k6w6-b304080-g004010-k000000-rc00000-we0e0e0/sett.png)|
+| [MacKean Dress (Personal)](/setts/s9/r1k2g4k1g1k2b3k1w1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x6/)|
+|![MacKean Dress (Personal) example sett](/setts/s9/r1k2g4k1g1k2b3k1w1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x6/sett.png)|
+| [MacKean dress](/setts/s9/r1k2g4k1g1k2b3k1w1~b304080-g004010-k000000-rc00000-we0e0e0~x6/)|
+|![MacKean dress example sett](/setts/s9/r1k2g4k1g1k2b3k1w1~b304080-g004010-k000000-rc00000-we0e0e0~x6/sett.png)|

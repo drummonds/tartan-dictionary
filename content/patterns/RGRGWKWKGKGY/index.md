@@ -16,7 +16,7 @@ RGRGWKWKGKGY
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Authentic Grey](/setts/s12/r2g40r2g6w2k2w2k8g6k2g4y2-g808080-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Stuart/Stewart Authentic Grey example sett](/setts/s12/r2g40r2g6w2k2w2k8g6k2g4y2-g808080-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Stewart, Authentic Grey](/setts/s12/r2g40r2g6w2k2w2k8g6k2g4y2-g808080-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Stewart, Authentic Grey example sett](/setts/s12/r2g40r2g6w2k2w2k8g6k2g4y2-g808080-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Stuart/Stewart Authentic Grey](/setts/s12/r1g20r1g3w1k1w1k4g3k1g2y1~g808080-k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Stuart/Stewart Authentic Grey example sett](/setts/s12/r1g20r1g3w1k1w1k4g3k1g2y1~g808080-k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [Stewart, Authentic Grey](/setts/s12/r1g20r1g3w1k1w1k4g3k1g2y1~g808080-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Stewart, Authentic Grey example sett](/setts/s12/r1g20r1g3w1k1w1k4g3k1g2y1~g808080-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

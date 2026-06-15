@@ -6,7 +6,7 @@ RGKGW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r22g6k3g16w22-g25571a-k101010-rda0501-wffffff/tartan.png)
+![Woven sample](/setts/s5/r22g6k3g16w22~g25571a-k101010-rda0501-wffffff/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ RGKGW
 
 | Tartans |
 |---------------|
-| [Inverness Basque](/setts/s5/r22g6k3g16w22-g25571a-k101010-rda0501-wffffff/)|
-|![Inverness Basque example sett](/setts/s5/r22g6k3g16w22-g25571a-k101010-rda0501-wffffff/sett.png)|
-| [Basque (Corporate)](/setts/s5/r44g6k3g16w22-g006818-k101010-rc80000-we0e0e0/)|
-|![Basque (Corporate) example sett](/setts/s5/r44g6k3g16w22-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Inverness Basque (District)](/setts/s5/r66g18k10g48w66-g006818-k101010-rc80000-we0e0e0/)|
-|![Inverness Basque (District) example sett](/setts/s5/r66g18k10g48w66-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Inverness Basque](/setts/s5/r22g6k3g16w22~g25571a-k101010-rda0501-wffffff/)|
+|![Inverness Basque example sett](/setts/s5/r22g6k3g16w22~g25571a-k101010-rda0501-wffffff/sett.png)|
+| [Basque (Corporate)](/setts/s5/r44g6k3g16w22~g006818-k101010-rc80000-we0e0e0/)|
+|![Basque (Corporate) example sett](/setts/s5/r44g6k3g16w22~g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Inverness Basque (District)](/setts/s5/r33g9k5g24w33~g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Inverness Basque (District) example sett](/setts/s5/r33g9k5g24w33~g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

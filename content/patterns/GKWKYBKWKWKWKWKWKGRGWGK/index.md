@@ -16,9 +16,9 @@ GKWKYBKWKWKWKWKWKGRGWGK
 
 | Tartans |
 |---------------|
-| [Abbotsford Check](/setts/s23/g10k4w6k6y4b8k6w6k6w6k6w6k6w6k6w6k6g8r6g6w4g4k10-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Abbotsford Check example sett](/setts/s23/g10k4w6k6y4b8k6w6k6w6k6w6k6w6k6w6k6g8r6g6w4g4k10-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Abbotsford (Commemorative)](/setts/s23/g10k4w6k6y4b8k6w6k6w6k6w6k6w6k6w6k6g8r6g6w4g4k10-b2c2c80-g007c1c-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Abbotsford (Commemorative) example sett](/setts/s23/g10k4w6k6y4b8k6w6k6w6k6w6k6w6k6w6k6g8r6g6w4g4k10-b2c2c80-g007c1c-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Abbotsford](/setts/s23/g10k4w6k6y4b8k6w6k6w6k6w6k6w6k6w6k6g8r6g6w4g4k10-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Abbotsford example sett](/setts/s23/g10k4w6k6y4b8k6w6k6w6k6w6k6w6k6w6k6g8r6g6w4g4k10-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Abbotsford Check](/setts/s23/g5k2w3k3y2b4k3w3k3w3k3w3k3w3k3w3k3g4r3g3w2g2k5~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Abbotsford Check example sett](/setts/s23/g5k2w3k3y2b4k3w3k3w3k3w3k3w3k3w3k3g4r3g3w2g2k5~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|
+| [Abbotsford (Commemorative)](/setts/s23/g5k2w3k3y2b4k3w3k3w3k3w3k3w3k3w3k3g4r3g3w2g2k5~b2c2c80-g007c1c-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Abbotsford (Commemorative) example sett](/setts/s23/g5k2w3k3y2b4k3w3k3w3k3w3k3w3k3w3k3g4r3g3w2g2k5~b2c2c80-g007c1c-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|
+| [Abbotsford](/setts/s23/g5k2w3k3y2b4k3w3k3w3k3w3k3w3k3w3k3g4r3g3w2g2k5~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Abbotsford example sett](/setts/s23/g5k2w3k3y2b4k3w3k3w3k3w3k3w3k3w3k3g4r3g3w2g2k5~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

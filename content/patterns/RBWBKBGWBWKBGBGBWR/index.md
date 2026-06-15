@@ -16,5 +16,5 @@ RBWBKBGWBWKBGBGBWR
 
 | Tartans |
 |---------------|
-| [Couper of Gogar (Clan)](/setts/s18/r4w8b4g48b8g4b8k20w8b4w8g16b2k4b44w8b4r4-b2c2c80-g006818-k101010-rc80000-wc49cd8/)|
-|![Couper of Gogar (Clan) example sett](/setts/s18/r4w8b4g48b8g4b8k20w8b4w8g16b2k4b44w8b4r4-b2c2c80-g006818-k101010-rc80000-wc49cd8/sett.png)|
+| [Couper of Gogar (Clan)](/setts/s18/r2w4b2g24b4g2b4k10w4b2w4g8b1k2b22w4b2r2~b2c2c80-g006818-k101010-rc80000-wc49cd8~x2/)|
+|![Couper of Gogar (Clan) example sett](/setts/s18/r2w4b2g24b4g2b4k10w4b2w4g8b1k2b22w4b2r2~b2c2c80-g006818-k101010-rc80000-wc49cd8~x2/sett.png)|

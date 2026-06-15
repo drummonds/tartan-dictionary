@@ -16,5 +16,5 @@ BRBRBWBRBWBBBYB
 
 | Tartans |
 |---------------|
-| [Federal Memorial](/setts/s15/b12r4b4r4b60w4b4r16b4w4b4ba60b4y4b12-b00008c-ba5c8ca8-rc80000-we0e0e0-ye8c000/)|
-|![Federal Memorial example sett](/setts/s15/b12r4b4r4b60w4b4r16b4w4b4ba60b4y4b12-b00008c-ba5c8ca8-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Federal Memorial](/setts/s15/b3r1b1r1b15w1b1r4b1w1b1ba15b1y1b3~b00008c-ba5c8ca8-rc80000-we0e0e0-ye8c000~x4/)|
+|![Federal Memorial example sett](/setts/s15/b3r1b1r1b15w1b1r4b1w1b1ba15b1y1b3~b00008c-ba5c8ca8-rc80000-we0e0e0-ye8c000~x4/sett.png)|

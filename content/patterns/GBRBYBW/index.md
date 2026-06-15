@@ -6,7 +6,7 @@ GBRBYBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/tartan.png)
+![Woven sample](/setts/s7/g30b6r2b2y2b15w2~b202060-g285800-rc80000-we0e0e0-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRBYBW
 
 | Tartans |
 |---------------|
-| [Hydesville Tower (Corporate)](/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/)|
-|![Hydesville Tower (Corporate) example sett](/setts/s7/g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-yfccc00/sett.png)|
+| [Hydesville Tower (Corporate)](/setts/s7/g30b6r2b2y2b15w2~b202060-g285800-rc80000-we0e0e0-yfccc00~x2/)|
+|![Hydesville Tower (Corporate) example sett](/setts/s7/g30b6r2b2y2b15w2~b202060-g285800-rc80000-we0e0e0-yfccc00~x2/sett.png)|

@@ -16,5 +16,5 @@ YRRRRYRRY
 
 | Tartans |
 |---------------|
-| [Unidentified, Sett](/setts/s9/y4r2ra20rb24r20y12ra20r2y4-r806050-rac00000-rb906030-yb0b0b0/)|
-|![Unidentified, Sett example sett](/setts/s9/y4r2ra20rb24r20y12ra20r2y4-r806050-rac00000-rb906030-yb0b0b0/sett.png)|
+| [Unidentified, Sett](/setts/s9/y2r1ra10rb12r10y6ra10r1y2~r806050-rac00000-rb906030-yb0b0b0~x2/)|
+|![Unidentified, Sett example sett](/setts/s9/y2r1ra10rb12r10y6ra10r1y2~r806050-rac00000-rb906030-yb0b0b0~x2/sett.png)|

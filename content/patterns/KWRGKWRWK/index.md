@@ -16,5 +16,5 @@ KWRGKWRWK
 
 | Tartans |
 |---------------|
-| [MacNaughton](/setts/s9/k2w2r32g32k24w16r32w2k2-g004c00-k000000-rc80000-wd0d0d0/)|
-|![MacNaughton example sett](/setts/s9/k2w2r32g32k24w16r32w2k2-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
+| [MacNaughton](/setts/s9/k1w1r16g16k12w8r16w1k1~g004c00-k000000-rc80000-wd0d0d0~x2/)|
+|![MacNaughton example sett](/setts/s9/k1w1r16g16k12w8r16w1k1~g004c00-k000000-rc80000-wd0d0d0~x2/sett.png)|

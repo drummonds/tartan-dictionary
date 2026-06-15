@@ -16,5 +16,5 @@ KKRKKKBWKRKK
 
 | Tartans |
 |---------------|
-| [McMillen Memorial, Hugh E. (Personal)](/setts/s12/k16ka4r36ka6k16ka36b8w6ka24ra2ka4k4-b780078-k101010-ka000000-r888888-rae87878-wfcfcfc/)|
-|![McMillen Memorial, Hugh E. (Personal) example sett](/setts/s12/k16ka4r36ka6k16ka36b8w6ka24ra2ka4k4-b780078-k101010-ka000000-r888888-rae87878-wfcfcfc/sett.png)|
+| [McMillen Memorial, Hugh E. (Personal)](/setts/s12/k8ka2r18ka3k8ka18b4w3ka12ra1ka2k2~b780078-k101010-ka000000-r888888-rae87878-wfcfcfc~x2/)|
+|![McMillen Memorial, Hugh E. (Personal) example sett](/setts/s12/k8ka2r18ka3k8ka18b4w3ka12ra1ka2k2~b780078-k101010-ka000000-r888888-rae87878-wfcfcfc~x2/sett.png)|

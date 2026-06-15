@@ -16,5 +16,5 @@ RRRRWKWKRKRY
 
 | Tartans |
 |---------------|
-| [Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r2ra40r2ra6w2k2w2k8ra6k2ra4y2-k101010-rc80000-ra888888-we0e0e0-ye8c000/)|
-|![Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r2ra40r2ra6w2k2w2k8ra6k2ra4y2-k101010-rc80000-ra888888-we0e0e0-ye8c000/sett.png)|
+| [Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r1ra20r1ra3w1k1w1k4ra3k1ra2y1~k101010-rc80000-ra888888-we0e0e0-ye8c000~x2/)|
+|![Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r1ra20r1ra3w1k1w1k4ra3k1ra2y1~k101010-rc80000-ra888888-we0e0e0-ye8c000~x2/sett.png)|

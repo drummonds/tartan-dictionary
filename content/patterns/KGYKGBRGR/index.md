@@ -16,7 +16,7 @@ KGYKGBRGR
 
 | Tartans |
 |---------------|
-| [Mackay, John W. (Personal)](/setts/s9/k8g70y2k36g6b36r6g6r6-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Mackay, John W. (Personal) example sett](/setts/s9/k8g70y2k36g6b36r6g6r6-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
-| [John.W.Mackay, Restricted](/setts/s9/k8g68y2k36g6b36r6g6r6-b304080-g008000-k000000-rc00020-yf0c000/)|
-|![John.W.Mackay, Restricted example sett](/setts/s9/k8g68y2k36g6b36r6g6r6-b304080-g008000-k000000-rc00020-yf0c000/sett.png)|
+| [Mackay, John W. (Personal)](/setts/s9/k4g35y1k18g3b18r3g3r3~b1c0070-g006818-k101010-r880000-yd09800~x2/)|
+|![Mackay, John W. (Personal) example sett](/setts/s9/k4g35y1k18g3b18r3g3r3~b1c0070-g006818-k101010-r880000-yd09800~x2/sett.png)|
+| [John.W.Mackay, Restricted](/setts/s9/k4g34y1k18g3b18r3g3r3~b304080-g008000-k000000-rc00020-yf0c000~x2/)|
+|![John.W.Mackay, Restricted example sett](/setts/s9/k4g34y1k18g3b18r3g3r3~b304080-g008000-k000000-rc00020-yf0c000~x2/sett.png)|

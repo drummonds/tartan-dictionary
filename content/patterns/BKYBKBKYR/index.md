@@ -16,5 +16,5 @@ BKYBKBKYR
 
 | Tartans |
 |---------------|
-| [Midnight Glen (Fashion)](/setts/s9/b6k80y6b12k20b20k6y2r6-b542050-k101010-rb45c6c-yd0c4b4/)|
-|![Midnight Glen (Fashion) example sett](/setts/s9/b6k80y6b12k20b20k6y2r6-b542050-k101010-rb45c6c-yd0c4b4/sett.png)|
+| [Midnight Glen (Fashion)](/setts/s9/b3k40y3b6k10b10k3y1r3~b542050-k101010-rb45c6c-yd0c4b4~x2/)|
+|![Midnight Glen (Fashion) example sett](/setts/s9/b3k40y3b6k10b10k3y1r3~b542050-k101010-rb45c6c-yd0c4b4~x2/sett.png)|

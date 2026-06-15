@@ -16,5 +16,5 @@ BBKWBWKWKWB
 
 | Tartans |
 |---------------|
-| [MacRae, Dress Purple (Dance)](/setts/s11/b6ba18k12w6ba48w6k12w54k6w18b6-b2888c4-ba780078-k101010-wf8f8f8/)|
-|![MacRae, Dress Purple (Dance) example sett](/setts/s11/b6ba18k12w6ba48w6k12w54k6w18b6-b2888c4-ba780078-k101010-wf8f8f8/sett.png)|
+| [MacRae, Dress Purple (Dance)](/setts/s11/b1ba3k2w1ba8w1k2w9k1w3b1~b2888c4-ba780078-k101010-wf8f8f8~x6/)|
+|![MacRae, Dress Purple (Dance) example sett](/setts/s11/b1ba3k2w1ba8w1k2w9k1w3b1~b2888c4-ba780078-k101010-wf8f8f8~x6/sett.png)|

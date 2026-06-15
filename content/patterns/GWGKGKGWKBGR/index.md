@@ -16,5 +16,5 @@ GWGKGKGWKBGR
 
 | Tartans |
 |---------------|
-| [MacInnes Dress (Dalgliesh)](/setts/s12/g4w24g3k3g3k3g24w4k4b24g16r4-b2c2c80-g006818-k101010-rc80000-wf8f8f8/)|
-|![MacInnes Dress (Dalgliesh) example sett](/setts/s12/g4w24g3k3g3k3g24w4k4b24g16r4-b2c2c80-g006818-k101010-rc80000-wf8f8f8/sett.png)|
+| [MacInnes Dress (Dalgliesh)](/setts/s12/g4w24g3k3g3k3g24w4k4b24g16r4~b2c2c80-g006818-k101010-rc80000-wf8f8f8/)|
+|![MacInnes Dress (Dalgliesh) example sett](/setts/s12/g4w24g3k3g3k3g24w4k4b24g16r4~b2c2c80-g006818-k101010-rc80000-wf8f8f8/sett.png)|

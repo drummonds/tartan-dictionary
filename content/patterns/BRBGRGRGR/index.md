@@ -16,5 +16,5 @@ BRBGRGRGR
 
 | Tartans |
 |---------------|
-| [Breckon Hunting (Name)](/setts/s9/b12r4b56g56r4g4r4g4r8-b1c1c50-g003820-r880000/)|
-|![Breckon Hunting (Name) example sett](/setts/s9/b12r4b56g56r4g4r4g4r8-b1c1c50-g003820-r880000/sett.png)|
+| [Breckon Hunting (Name)](/setts/s9/b3r1b14g14r1g1r1g1r2~b1c1c50-g003820-r880000~x4/)|
+|![Breckon Hunting (Name) example sett](/setts/s9/b3r1b14g14r1g1r1g1r2~b1c1c50-g003820-r880000~x4/sett.png)|

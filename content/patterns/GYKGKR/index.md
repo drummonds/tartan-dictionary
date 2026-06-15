@@ -6,7 +6,7 @@ GYKGKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g10y2k10ga92k10r6-g808080-ga003000-k000000-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s6/g5y1k5ga46k5r3~g808080-ga003000-k000000-rc00000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYKGKR
 
 | Tartans |
 |---------------|
-| [Touch](/setts/s6/g10y2k10ga92k10r6-g808080-ga003000-k000000-rc00000-yf0c000/)|
-|![Touch example sett](/setts/s6/g10y2k10ga92k10r6-g808080-ga003000-k000000-rc00000-yf0c000/sett.png)|
+| [Touch](/setts/s6/g5y1k5ga46k5r3~g808080-ga003000-k000000-rc00000-yf0c000~x2/)|
+|![Touch example sett](/setts/s6/g5y1k5ga46k5r3~g808080-ga003000-k000000-rc00000-yf0c000~x2/sett.png)|

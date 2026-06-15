@@ -16,5 +16,5 @@ KBKRKRKRKRKRGR
 
 | Tartans |
 |---------------|
-| [Black (Hebridean) (Artefact)](/setts/s14/k34b6k8r2k34r4k6r4k34r6k34r6g6r6-b2c2c80-g006818-k101010-rc80000/)|
-|![Black (Hebridean) (Artefact) example sett](/setts/s14/k34b6k8r2k34r4k6r4k34r6k34r6g6r6-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Black (Hebridean) (Artefact)](/setts/s14/k17b3k4r1k17r2k3r2k17r3k17r3g3r3~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Black (Hebridean) (Artefact) example sett](/setts/s14/k17b3k4r1k17r2k3r2k17r3k17r3g3r3~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

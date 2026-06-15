@@ -16,5 +16,5 @@ RKYKBYKRKRWY
 
 | Tartans |
 |---------------|
-| [Cates Dress](/setts/s12/y4w2r4k40r18k40y14b40k10y2k2r2-b505050-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Cates Dress example sett](/setts/s12/y4w2r4k40r18k40y14b40k10y2k2r2-b505050-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Cates Dress](/setts/s12/y2w1r2k20r9k20y7b20k5y1k1r1~b505050-k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Cates Dress example sett](/setts/s12/y2w1r2k20r9k20y7b20k5y1k1r1~b505050-k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|

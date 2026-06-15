@@ -1,0 +1,49 @@
+---
+title: "MacIntosh, Blanket"
+date: 2023-03-18
+---
+In pattern [RWRWRGRRWRRGRWRWRGRRW](/patterns/rwrwrgrrwrrgrwrwrgrrw/).
+
+
+This was sourced from weddslist.  It is a [21 stripes tartan](/stripes/stripes21/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+LN/74 LT2 R8 DG12 R14 LN4 R6 LN4 R14 DG12 Ra8 LT2 LN128 LT2 R8 G12 R14 LN4 R6 LN4 R/14
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DG | <code style="background-color:#003000;"><span style="color:#003000;filter:grayscale(1) invert(1) contrast(100);">#003000</span></code> `#003000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| G | <code style="background-color:#008000;"><span style="color:#008000;filter:grayscale(1) invert(1) contrast(100);">#008000</span></code> `#008000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LT | <code style="background-color:#806050;"><span style="color:#806050;filter:grayscale(1) invert(1) contrast(100);">#806050</span></code> `#806050` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| R | <code style="background-color:#D03030;"><span style="color:#D03030;filter:grayscale(1) invert(1) contrast(100);">#D03030</span></code> `#D03030` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.04 |
+| Ra | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `#C00000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacIntosh Blanket](/setts/s21/w37g1r4ga6r7w2r3w2r7ga6ra4g1w64g1r4gb6r7w2r3w2r7~g503c14-ga002814-gb005020-rc82828-radc0000-we0e0e0~x2/) — ΔT 0.22
+1. [McDougall, Miss Anne (Personal)](/setts/s19/b1r3ra3w26ba3w3g14w36ra3r1ra3w36ba14w2g3w26r3ra3b1~b5c8ca8-ba2c2c80-g006818-r880000-rac80000-we0e0e0~x2/) — ΔT 1.65
+1. [Wallenberg, Nicolas Dress (Personal)](/setts/s16/y28r1y4b12y2ba4ya2ba4y2b12y4r1y48r3w3ba3~b780078-ba2c4084-rff0000-wffffff-yb0b0b0-yaffe600~x2/) — ΔT 1.66
+1. [Seller, Sillar](/setts/s12/w63k4b9y2b4y2b4r11ra8b2ra4w5~b5480b0-k000000-r806050-rac00000-we0e0e0-yf0c000~x2/) — ΔT 1.67
+1. [Seller Dress (Personal)](/setts/s12/w63k4wa9y2wa4y2wa4g11r8wa2r4w5~g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000~x2/) — ΔT 1.69
+1. [Stewart Dress (Artefact)](/setts/s13/w50b6w2k6y2k3w2k3g6r6k2r2w2~b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000~x2/) — ΔT 1.74
+1. [Diana, Plaid dress](/setts/s12/w46r3w7b2y2b2w2b11ra6ba2ra3w2~b401000-ba8080d0-rc00000-ra906030-we0e0e0-yf0c000~x2/) — ΔT 1.75
+1. [Druid](/setts/s16/b3ba2b3y2w4y2k8y2w4y2r8y2w20y2w62y2~b00008b-ba778899-k000000-r8b0000-wffffff-ydaa520/) — ΔT 1.79
+1. [Snowy Owl](/setts/s14/w40r1w6r3b1r7b3ba1b8ba3k1ba9k2w8~b544b4e-ba3c3233-k101010-r91827b-wffffff~x2/) — ΔT 1.82
+1. [Snowy Owl (Fashion)](/setts/s14/w40r1w6r3y1r7y3b1y8b3k1b9k2w8~b5c5c5c-k101010-r888888-we0e0e0-ya08858~x2/) — ΔT 1.84
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/w37g1r4ga6r7w2r3w2r7ga6ra4g1w64g1r4gb6r7w2r3w2r7~g503c14-ga002814-gb005020-rc82828-radc0000-we0e0e0~x2/"><circle cx="351.1" cy="14.0" r="4" fill="#3465a4"><title>MacIntosh Blanket</title></circle></a><a href="/setts/s19/b1r3ra3w26ba3w3g14w36ra3r1ra3w36ba14w2g3w26r3ra3b1~b5c8ca8-ba2c2c80-g006818-r880000-rac80000-we0e0e0~x2/"><circle cx="364.8" cy="38.5" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s16/y28r1y4b12y2ba4ya2ba4y2b12y4r1y48r3w3ba3~b780078-ba2c4084-rff0000-wffffff-yb0b0b0-yaffe600~x2/"><circle cx="395.6" cy="33.7" r="4" fill="#3465a4"><title>Wallenberg, Nicolas Dress (Personal)</title></circle></a><a href="/setts/s12/w63k4b9y2b4y2b4r11ra8b2ra4w5~b5480b0-k000000-r806050-rac00000-we0e0e0-yf0c000~x2/"><circle cx="304.0" cy="37.1" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s12/w63k4wa9y2wa4y2wa4g11r8wa2r4w5~g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000~x2/"><circle cx="297.4" cy="30.4" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s13/w50b6w2k6y2k3w2k3g6r6k2r2w2~b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000~x2/"><circle cx="309.7" cy="36.2" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s12/w46r3w7b2y2b2w2b11ra6ba2ra3w2~b401000-ba8080d0-rc00000-ra906030-we0e0e0-yf0c000~x2/"><circle cx="336.5" cy="48.6" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/setts/s16/b3ba2b3y2w4y2k8y2w4y2r8y2w20y2w62y2~b00008b-ba778899-k000000-r8b0000-wffffff-ydaa520/"><circle cx="371.4" cy="14.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/setts/s14/w40r1w6r3b1r7b3ba1b8ba3k1ba9k2w8~b544b4e-ba3c3233-k101010-r91827b-wffffff~x2/"><circle cx="302.3" cy="40.1" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s14/w40r1w6r3y1r7y3b1y8b3k1b9k2w8~b5c5c5c-k101010-r888888-we0e0e0-ya08858~x2/"><circle cx="338.8" cy="55.1" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><circle cx="355.5" cy="14.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s21/w37r1ra4g6ra7w2ra3w2ra7g6rb4r1w64r1ra4ga6ra7w2ra3w2ra7~g003000-ga008000-r806050-rad03030-rbc00000-we0e0e0~x2/

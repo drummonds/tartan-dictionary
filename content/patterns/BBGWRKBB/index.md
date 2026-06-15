@@ -6,7 +6,7 @@ BBGWRKBB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b11ba5g4w3r3k16ba28b2~b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGWRKBB
 
 | Tartans |
 |---------------|
-| [Scottish Italian](/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/)|
-|![Scottish Italian example sett](/setts/s8/b22ba10g8w6r6k32ba56b4-b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Scottish Italian](/setts/s8/b11ba5g4w3r3k16ba28b2~b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Scottish Italian example sett](/setts/s8/b11ba5g4w3r3k16ba28b2~b1474b4-ba202060-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

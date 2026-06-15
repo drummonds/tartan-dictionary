@@ -6,7 +6,7 @@ KWYBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k4w28y28b64ya4-b4444bc-k101010-we0e0e0-yd48428-yae8c000/tartan.png)
+![Woven sample](/setts/s5/k1w7y7b16ya1~b4444bc-k101010-we0e0e0-yd48428-yae8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWYBY
 
 | Tartans |
 |---------------|
-| [Prehospital EMS (Corporate)](/setts/s5/k4w28y28b64ya4-b4444bc-k101010-we0e0e0-yd48428-yae8c000/)|
-|![Prehospital EMS (Corporate) example sett](/setts/s5/k4w28y28b64ya4-b4444bc-k101010-we0e0e0-yd48428-yae8c000/sett.png)|
+| [Prehospital EMS (Corporate)](/setts/s5/k1w7y7b16ya1~b4444bc-k101010-we0e0e0-yd48428-yae8c000~x4/)|
+|![Prehospital EMS (Corporate) example sett](/setts/s5/k1w7y7b16ya1~b4444bc-k101010-we0e0e0-yd48428-yae8c000~x4/sett.png)|

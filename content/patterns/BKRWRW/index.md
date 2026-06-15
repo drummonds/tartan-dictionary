@@ -6,7 +6,7 @@ BKRWRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w104r44w12r16k2b6-b2c2c80-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s6/w52r22w6r8k1b3~b2c2c80-k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRWRW
 
 | Tartans |
 |---------------|
-| [MacGregor Dress Red (Dance)](/setts/s6/w104r44w12r16k2b6-b2c2c80-k101010-rc80000-wf8f8f8/)|
-|![MacGregor Dress Red (Dance) example sett](/setts/s6/w104r44w12r16k2b6-b2c2c80-k101010-rc80000-wf8f8f8/sett.png)|
+| [MacGregor Dress Red (Dance)](/setts/s6/w52r22w6r8k1b3~b2c2c80-k101010-rc80000-wf8f8f8~x2/)|
+|![MacGregor Dress Red (Dance) example sett](/setts/s6/w52r22w6r8k1b3~b2c2c80-k101010-rc80000-wf8f8f8~x2/sett.png)|

@@ -16,5 +16,5 @@ GBGBYGYBYYKYKRKR
 
 | Tartans |
 |---------------|
-| [Du Lion](/setts/s16/g16b16g6b2y4g20y4b4y30y6k6y30k2r6k16r16-b202060-g604000-k101010-rc80000-ye8c000/)|
-|![Du Lion example sett](/setts/s16/g16b16g6b2y4g20y4b4y30y6k6y30k2r6k16r16-b202060-g604000-k101010-rc80000-ye8c000/sett.png)|
+| [Du Lion](/setts/s16/g8b8g3b1y2g10y2b2y15y3k3y15k1r3k8r8~b202060-g604000-k101010-rc80000-ye8c000~x2/)|
+|![Du Lion example sett](/setts/s16/g8b8g3b1y2g10y2b2y15y3k3y15k1r3k8r8~b202060-g604000-k101010-rc80000-ye8c000~x2/sett.png)|

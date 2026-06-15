@@ -16,5 +16,5 @@ RGRGRWBWBW
 
 | Tartans |
 |---------------|
-| [Prince of Denmark](/setts/s10/r102g4r4g4r6w6b4w4b4w16-b2c2c80-g503c14-rdc0000-we0e0e0/)|
-|![Prince of Denmark example sett](/setts/s10/r102g4r4g4r6w6b4w4b4w16-b2c2c80-g503c14-rdc0000-we0e0e0/sett.png)|
+| [Prince of Denmark](/setts/s10/r51g2r2g2r3w3b2w2b2w8~b2c2c80-g503c14-rdc0000-we0e0e0~x2/)|
+|![Prince of Denmark example sett](/setts/s10/r51g2r2g2r3w3b2w2b2w8~b2c2c80-g503c14-rdc0000-we0e0e0~x2/sett.png)|

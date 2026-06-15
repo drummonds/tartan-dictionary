@@ -16,7 +16,7 @@ GWGWGWGWBW
 
 | Tartans |
 |---------------|
-| [Spirit of Pakistan, The](/setts/s10/g32w16ga4w2ga4w8ga48w16b32w8-b000048-g006400-ga003614-wffffff/)|
-|![Spirit of Pakistan, The example sett](/setts/s10/g32w16ga4w2ga4w8ga48w16b32w8-b000048-g006400-ga003614-wffffff/sett.png)|
-| [Spirit of Pakistan, The](/setts/s10/g32w16ga4w2ga4w8ga48w16b32w8-b202060-g006818-ga003820-wfcfcfc/)|
-|![Spirit of Pakistan, The example sett](/setts/s10/g32w16ga4w2ga4w8ga48w16b32w8-b202060-g006818-ga003820-wfcfcfc/sett.png)|
+| [Spirit of Pakistan, The](/setts/s10/g16w8ga2w1ga2w4ga24w8b16w4~b000048-g006400-ga003614-wffffff~x2/)|
+|![Spirit of Pakistan, The example sett](/setts/s10/g16w8ga2w1ga2w4ga24w8b16w4~b000048-g006400-ga003614-wffffff~x2/sett.png)|
+| [Spirit of Pakistan, The](/setts/s10/g16w8ga2w1ga2w4ga24w8b16w4~b202060-g006818-ga003820-wfcfcfc~x2/)|
+|![Spirit of Pakistan, The example sett](/setts/s10/g16w8ga2w1ga2w4ga24w8b16w4~b202060-g006818-ga003820-wfcfcfc~x2/sett.png)|

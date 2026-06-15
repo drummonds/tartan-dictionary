@@ -16,5 +16,5 @@ GWRRGRRWKGKWBWWWBWR
 
 | Tartans |
 |---------------|
-| [MacBean](/setts/s19/r48w2b4wa2w2wa2b4w2k2g12k2w2r4ra4g2ra4r4w2g6-b00004c-g004c00-k000000-rc80000-raff0000-wc0c0c0-wad0d0d0/)|
-|![MacBean example sett](/setts/s19/r48w2b4wa2w2wa2b4w2k2g12k2w2r4ra4g2ra4r4w2g6-b00004c-g004c00-k000000-rc80000-raff0000-wc0c0c0-wad0d0d0/sett.png)|
+| [MacBean](/setts/s19/r24w1b2wa1w1wa1b2w1k1g6k1w1r2ra2g1ra2r2w1g3~b00004c-g004c00-k000000-rc80000-raff0000-wc0c0c0-wad0d0d0~x2/)|
+|![MacBean example sett](/setts/s19/r24w1b2wa1w1wa1b2w1k1g6k1w1r2ra2g1ra2r2w1g3~b00004c-g004c00-k000000-rc80000-raff0000-wc0c0c0-wad0d0d0~x2/sett.png)|

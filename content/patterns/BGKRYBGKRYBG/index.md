@@ -16,5 +16,5 @@ BGKRYBGKRYBG
 
 | Tartans |
 |---------------|
-| [Chieftain's](/setts/s12/b32g32k4r4y4b8g8k4r4y4b32g32-b1870a4-g549c68-k101010-rc80000-ye0e0a0/)|
-|![Chieftain's example sett](/setts/s12/b32g32k4r4y4b8g8k4r4y4b32g32-b1870a4-g549c68-k101010-rc80000-ye0e0a0/sett.png)|
+| [Chieftain's](/setts/s12/b8g8k1r1y1b2g2k1r1y1b8g8~b1870a4-g549c68-k101010-rc80000-ye0e0a0~x4/)|
+|![Chieftain's example sett](/setts/s12/b8g8k1r1y1b2g2k1r1y1b8g8~b1870a4-g549c68-k101010-rc80000-ye0e0a0~x4/sett.png)|

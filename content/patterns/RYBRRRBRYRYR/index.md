@@ -16,5 +16,5 @@ RYBRRRBRYRYR
 
 | Tartans |
 |---------------|
-| [Lakin (Personal)](/setts/s12/r20y4r4ya4r4b20ra24r4ra24b20ya20r4-b5c5c5c-r880000-ra888888-ya0a0a0-ya98acb8/)|
-|![Lakin (Personal) example sett](/setts/s12/r20y4r4ya4r4b20ra24r4ra24b20ya20r4-b5c5c5c-r880000-ra888888-ya0a0a0-ya98acb8/sett.png)|
+| [Lakin (Personal)](/setts/s12/r5y1r1ya1r1b5ra6r1ra6b5ya5r1~b5c5c5c-r880000-ra888888-ya0a0a0-ya98acb8~x4/)|
+|![Lakin (Personal) example sett](/setts/s12/r5y1r1ya1r1b5ra6r1ra6b5ya5r1~b5c5c5c-r880000-ra888888-ya0a0a0-ya98acb8~x4/sett.png)|

@@ -16,7 +16,7 @@ GWGBRBRBR
 
 | Tartans |
 |---------------|
-| [George (Personal)](/setts/s9/r12b4r2b32r6b32g56w4g8-b2c4084-g005020-rdc0000-we0e0e0/)|
-|![George (Personal) example sett](/setts/s9/r12b4r2b32r6b32g56w4g8-b2c4084-g005020-rdc0000-we0e0e0/sett.png)|
-| [George (Personal)](/setts/s9/r12b4r2b16r6b32g56w4g8-b2c2c80-g006818-rc80000-we0e0e0/)|
-|![George (Personal) example sett](/setts/s9/r12b4r2b16r6b32g56w4g8-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|
+| [George (Personal)](/setts/s9/r6b2r1b16r3b16g28w2g4~b2c4084-g005020-rdc0000-we0e0e0~x2/)|
+|![George (Personal) example sett](/setts/s9/r6b2r1b16r3b16g28w2g4~b2c4084-g005020-rdc0000-we0e0e0~x2/sett.png)|
+| [George (Personal)](/setts/s9/r6b2r1b8r3b16g28w2g4~b2c2c80-g006818-rc80000-we0e0e0~x2/)|
+|![George (Personal) example sett](/setts/s9/r6b2r1b8r3b16g28w2g4~b2c2c80-g006818-rc80000-we0e0e0~x2/sett.png)|

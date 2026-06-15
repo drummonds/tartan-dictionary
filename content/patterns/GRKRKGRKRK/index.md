@@ -16,5 +16,5 @@ GRKRKGRKRK
 
 | Tartans |
 |---------------|
-| [Dinwoodie (Name)](/setts/s10/g24r4k4r84k26ga50r12k4ra8k20-g604000-ga006818-k101010-r888888-rac80000/)|
-|![Dinwoodie (Name) example sett](/setts/s10/g24r4k4r84k26ga50r12k4ra8k20-g604000-ga006818-k101010-r888888-rac80000/sett.png)|
+| [Dinwoodie (Name)](/setts/s10/g12r2k2r42k13ga25r6k2ra4k10~g604000-ga006818-k101010-r888888-rac80000~x2/)|
+|![Dinwoodie (Name) example sett](/setts/s10/g12r2k2r42k13ga25r6k2ra4k10~g604000-ga006818-k101010-r888888-rac80000~x2/sett.png)|

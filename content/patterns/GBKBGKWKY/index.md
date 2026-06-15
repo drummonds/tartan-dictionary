@@ -16,5 +16,5 @@ GBKBGKWKY
 
 | Tartans |
 |---------------|
-| [Smoke Showing (UFES)](/setts/s9/g6b10k8b66g24k8w4k36y6-b505050-g289c18-k101010-wffffff-ye0a126/)|
-|![Smoke Showing (UFES) example sett](/setts/s9/g6b10k8b66g24k8w4k36y6-b505050-g289c18-k101010-wffffff-ye0a126/sett.png)|
+| [Smoke Showing (UFES)](/setts/s9/g3b5k4b33g12k4w2k18y3~b505050-g289c18-k101010-wffffff-ye0a126~x2/)|
+|![Smoke Showing (UFES) example sett](/setts/s9/g3b5k4b33g12k4w2k18y3~b505050-g289c18-k101010-wffffff-ye0a126~x2/sett.png)|

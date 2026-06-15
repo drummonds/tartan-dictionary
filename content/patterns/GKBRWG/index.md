@@ -6,7 +6,7 @@ GKBRWG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g30k20b60r22w6g10-b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/g15k10b30r11w3g5~b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBRWG
 
 | Tartans |
 |---------------|
-| [McHale (Personal)](/setts/s6/g30k20b60r22w6g10-b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc/)|
-|![McHale (Personal) example sett](/setts/s6/g30k20b60r22w6g10-b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc/sett.png)|
+| [McHale (Personal)](/setts/s6/g15k10b30r11w3g5~b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc~x2/)|
+|![McHale (Personal) example sett](/setts/s6/g15k10b30r11w3g5~b5c5c5c-g74846c-k101010-ra07c58-wfcfcfc~x2/sett.png)|

@@ -6,7 +6,7 @@ RRRRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r46ra8r46ra64r8-r880000-rab84c00/tartan.png)
+![Woven sample](/setts/s5/r23ra4r23ra32r4~r880000-rab84c00~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RRRRR
 
 | Tartans |
 |---------------|
-| [Hamilton, Red (Fashion?)](/setts/s5/r46ra8r46ra64r8-r880000-rab84c00/)|
-|![Hamilton, Red (Fashion?) example sett](/setts/s5/r46ra8r46ra64r8-r880000-rab84c00/sett.png)|
-| [Unnamed Brown (Teddy Bear)](/setts/s5/r2ra14rb50ra14r2-rc00000-ra806050-rb906030/)|
-|![Unnamed Brown (Teddy Bear) example sett](/setts/s5/r2ra14rb50ra14r2-rc00000-ra806050-rb906030/sett.png)|
+| [Hamilton, Red (Fashion?)](/setts/s5/r23ra4r23ra32r4~r880000-rab84c00~x2/)|
+|![Hamilton, Red (Fashion?) example sett](/setts/s5/r23ra4r23ra32r4~r880000-rab84c00~x2/sett.png)|
+| [Unnamed Brown (Teddy Bear)](/setts/s5/r1ra7rb25ra7r1~rc00000-ra806050-rb906030~x2/)|
+|![Unnamed Brown (Teddy Bear) example sett](/setts/s5/r1ra7rb25ra7r1~rc00000-ra806050-rb906030~x2/sett.png)|

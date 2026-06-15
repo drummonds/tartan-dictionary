@@ -6,7 +6,7 @@ KGKGKGWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k11g3k3g3k3g9w18k3~g006818-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKGKGWK
 
 | Tartans |
 |---------------|
-| [Lamont Dress](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/)|
-|![Lamont Dress example sett](/setts/s8/k22g6k6g6k6g18w36k6-g006818-k101010-we0e0e0/sett.png)|
+| [Lamont Dress](/setts/s8/k11g3k3g3k3g9w18k3~g006818-k101010-we0e0e0~x2/)|
+|![Lamont Dress example sett](/setts/s8/k11g3k3g3k3g9w18k3~g006818-k101010-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ KBKBRBKBBBWBK
 
 | Tartans |
 |---------------|
-| [Pride of Norway (Fashion)](/setts/s13/k14b4k12b36r6b36k8ba4b4ba4w4ba8k8-b2c2c80-ba2c2cbc-k101010-rc80000-we0e0e0/)|
-|![Pride of Norway (Fashion) example sett](/setts/s13/k14b4k12b36r6b36k8ba4b4ba4w4ba8k8-b2c2c80-ba2c2cbc-k101010-rc80000-we0e0e0/sett.png)|
+| [Pride of Norway (Fashion)](/setts/s13/k7b2k6b18r3b18k4ba2b2ba2w2ba4k4~b2c2c80-ba2c2cbc-k101010-rc80000-we0e0e0~x2/)|
+|![Pride of Norway (Fashion) example sett](/setts/s13/k7b2k6b18r3b18k4ba2b2ba2w2ba4k4~b2c2c80-ba2c2cbc-k101010-rc80000-we0e0e0~x2/sett.png)|

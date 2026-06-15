@@ -16,5 +16,5 @@ BWBGBGBGKGKGKGKGBKWK
 
 | Tartans |
 |---------------|
-| [Wilson-Blyth](/setts/s20/b44w4b6g6b6g6b6g42k6g6k6g6k6g42k30g6b6k12w4k30-b202060-g003820-k101010-wfcfcfc/)|
-|![Wilson-Blyth example sett](/setts/s20/b44w4b6g6b6g6b6g42k6g6k6g6k6g42k30g6b6k12w4k30-b202060-g003820-k101010-wfcfcfc/sett.png)|
+| [Wilson-Blyth](/setts/s20/b22w2b3g3b3g3b3g21k3g3k3g3k3g21k15g3b3k6w2k15~b202060-g003820-k101010-wfcfcfc~x2/)|
+|![Wilson-Blyth example sett](/setts/s20/b22w2b3g3b3g3b3g21k3g3k3g3k3g21k15g3b3k6w2k15~b202060-g003820-k101010-wfcfcfc~x2/sett.png)|

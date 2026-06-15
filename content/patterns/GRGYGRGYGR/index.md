@@ -16,5 +16,5 @@ GRGYGRGYGR
 
 | Tartans |
 |---------------|
-| [Buccleuch Dress (Fashion)](/setts/s10/g10r4g4y68g36r8g8y8g8r8-g006800-r8c0000-yb0b0b0/)|
-|![Buccleuch Dress (Fashion) example sett](/setts/s10/g10r4g4y68g36r8g8y8g8r8-g006800-r8c0000-yb0b0b0/sett.png)|
+| [Buccleuch Dress (Fashion)](/setts/s10/g5r2g2y34g18r4g4y4g4r4~g006800-r8c0000-yb0b0b0~x2/)|
+|![Buccleuch Dress (Fashion) example sett](/setts/s10/g5r2g2y34g18r4g4y4g4r4~g006800-r8c0000-yb0b0b0~x2/sett.png)|

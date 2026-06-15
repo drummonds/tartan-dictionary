@@ -16,5 +16,5 @@ GBYGKRKRKBGKRKY
 
 | Tartans |
 |---------------|
-| [Anderson Green](/setts/s15/g128b4y4g4k4r4k4r4k4b12g8k4r16k4y4-b4c3428-g003820-k101010-ra07c58-ydc943c/)|
-|![Anderson Green example sett](/setts/s15/g128b4y4g4k4r4k4r4k4b12g8k4r16k4y4-b4c3428-g003820-k101010-ra07c58-ydc943c/sett.png)|
+| [Anderson Green](/setts/s15/g32b1y1g1k1r1k1r1k1b3g2k1r4k1y1~b4c3428-g003820-k101010-ra07c58-ydc943c~x4/)|
+|![Anderson Green example sett](/setts/s15/g32b1y1g1k1r1k1r1k1b3g2k1r4k1y1~b4c3428-g003820-k101010-ra07c58-ydc943c~x4/sett.png)|

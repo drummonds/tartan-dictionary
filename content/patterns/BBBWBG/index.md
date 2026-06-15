@@ -6,7 +6,7 @@ BBBWBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g30b4w4b22ba56b8-b102040-ba606080-g407050-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/g15b2w2b11ba28b4~b102040-ba606080-g407050-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBWBG
 
 | Tartans |
 |---------------|
-| [Rhode Island, The State of](/setts/s6/g30b4w4b22ba56b8-b102040-ba606080-g407050-we0e0e0/)|
-|![Rhode Island, The State of example sett](/setts/s6/g30b4w4b22ba56b8-b102040-ba606080-g407050-we0e0e0/sett.png)|
+| [Rhode Island, The State of](/setts/s6/g15b2w2b11ba28b4~b102040-ba606080-g407050-we0e0e0~x2/)|
+|![Rhode Island, The State of example sett](/setts/s6/g15b2w2b11ba28b4~b102040-ba606080-g407050-we0e0e0~x2/sett.png)|

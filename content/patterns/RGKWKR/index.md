@@ -6,7 +6,7 @@ RGKWKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4g40k10w20k20r4-g808080-k000000-rc00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r2g20k5w10k10r2~g808080-k000000-rc00000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKWKR
 
 | Tartans |
 |---------------|
-| [Thom(p)son, Grey](/setts/s6/r4g40k10w20k20r4-g808080-k000000-rc00000-we0e0e0/)|
-|![Thom(p)son, Grey example sett](/setts/s6/r4g40k10w20k20r4-g808080-k000000-rc00000-we0e0e0/sett.png)|
+| [Thom(p)son, Grey](/setts/s6/r2g20k5w10k10r2~g808080-k000000-rc00000-we0e0e0~x2/)|
+|![Thom(p)son, Grey example sett](/setts/s6/r2g20k5w10k10r2~g808080-k000000-rc00000-we0e0e0~x2/sett.png)|

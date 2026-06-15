@@ -16,5 +16,5 @@ KGKKGKGKGKGKGKGKGKKKRGRGRGRGRGRGRGRK
 
 | Tartans |
 |---------------|
-| [New Brunswick (Commemorative)](/setts/s36/k100g32k16ka16g2ka2g2ka2g2ka2g2ka2g2ka2g2ka2g40ka80k24ka48r16g2r2g2r2g2r2g2r2g2r2g2r2g56r12ka8-g003820-k000000-ka101010-rc80000/)|
-|![New Brunswick (Commemorative) example sett](/setts/s36/k100g32k16ka16g2ka2g2ka2g2ka2g2ka2g2ka2g2ka2g40ka80k24ka48r16g2r2g2r2g2r2g2r2g2r2g2r2g56r12ka8-g003820-k000000-ka101010-rc80000/sett.png)|
+| [New Brunswick (Commemorative)](/setts/s36/k50g16k8ka8g1ka1g1ka1g1ka1g1ka1g1ka1g1ka1g20ka40k12ka24r8g1r1g1r1g1r1g1r1g1r1g1r1g28r6ka4~g003820-k000000-ka101010-rc80000~x2/)|
+|![New Brunswick (Commemorative) example sett](/setts/s36/k50g16k8ka8g1ka1g1ka1g1ka1g1ka1g1ka1g1ka1g20ka40k12ka24r8g1r1g1r1g1r1g1r1g1r1g1r1g28r6ka4~g003820-k000000-ka101010-rc80000~x2/sett.png)|

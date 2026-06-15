@@ -16,5 +16,5 @@ KKKKGYKBKYGKKKKKK
 
 | Tartans |
 |---------------|
-| [Polaris (Military)](/setts/s17/k24ka4k4ka4k4ka28g24y4ka4b4ka4y4g24ka28k28ka4k4-b1c0070-g006818-k000000-ka101010-ybc8c00/)|
-|![Polaris (Military) example sett](/setts/s17/k24ka4k4ka4k4ka28g24y4ka4b4ka4y4g24ka28k28ka4k4-b1c0070-g006818-k000000-ka101010-ybc8c00/sett.png)|
+| [Polaris (Military)](/setts/s17/k6ka1k1ka1k1ka7g6y1ka1b1ka1y1g6ka7k7ka1k1~b1c0070-g006818-k000000-ka101010-ybc8c00~x4/)|
+|![Polaris (Military) example sett](/setts/s17/k6ka1k1ka1k1ka7g6y1ka1b1ka1y1g6ka7k7ka1k1~b1c0070-g006818-k000000-ka101010-ybc8c00~x4/sett.png)|

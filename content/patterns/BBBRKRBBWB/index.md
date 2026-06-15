@@ -16,5 +16,5 @@ BBBRKRBBWB
 
 | Tartans |
 |---------------|
-| [Custer (Personal)](/setts/s10/b40w2ba16bb2r4k6r4bb2ba40b16-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/)|
-|![Custer (Personal) example sett](/setts/s10/b40w2ba16bb2r4k6r4bb2ba40b16-b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8/sett.png)|
+| [Custer (Personal)](/setts/s10/b20w1ba8bb1r2k3r2bb1ba20b8~b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8~x2/)|
+|![Custer (Personal) example sett](/setts/s10/b20w1ba8bb1r2k3r2bb1ba20b8~b2c2c80-ba780078-bb2888c4-k101010-rc80000-wf8f8f8~x2/sett.png)|

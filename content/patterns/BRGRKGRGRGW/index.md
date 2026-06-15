@@ -16,5 +16,5 @@ BRGRKGRGRGW
 
 | Tartans |
 |---------------|
-| [Ronald, Clan (Clan)](/setts/s11/b8r4g40r4k24g48r8g4r4g12w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Ronald, Clan (Clan) example sett](/setts/s11/b8r4g40r4k24g48r8g4r4g12w8-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Ronald, Clan (Clan)](/setts/s11/b2r1g10r1k6g12r2g1r1g3w2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x4/)|
+|![Ronald, Clan (Clan) example sett](/setts/s11/b2r1g10r1k6g12r2g1r1g3w2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x4/sett.png)|

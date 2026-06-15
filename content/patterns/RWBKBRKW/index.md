@@ -6,7 +6,7 @@ RWBKBRKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r9w5b57k5b9r29k18w9~b2888c4-k101010-rc80000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWBKBRKW
 
 | Tartans |
 |---------------|
-| [Yale College of Wrexham (Corporate)](/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/)|
-|![Yale College of Wrexham (Corporate) example sett](/setts/s8/r9w5b57k5b9r29k18w9-b2888c4-k101010-rc80000-we0e0e0/sett.png)|
+| [Yale College of Wrexham (Corporate)](/setts/s8/r9w5b57k5b9r29k18w9~b2888c4-k101010-rc80000-we0e0e0/)|
+|![Yale College of Wrexham (Corporate) example sett](/setts/s8/r9w5b57k5b9r29k18w9~b2888c4-k101010-rc80000-we0e0e0/sett.png)|

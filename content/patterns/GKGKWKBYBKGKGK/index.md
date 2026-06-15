@@ -16,7 +16,7 @@ GKGKWKBYBKGKGK
 
 | Tartans |
 |---------------|
-| [Simon and Friends (Hamburg) (Personal)](/setts/s14/k12g10k12g24k46b26y12b26k24w4k46g24k12g10-b483225-g273f37-k101010-wffffff-ycf963b/)|
-|![Simon and Friends (Hamburg) (Personal) example sett](/setts/s14/k12g10k12g24k46b26y12b26k24w4k46g24k12g10-b483225-g273f37-k101010-wffffff-ycf963b/sett.png)|
-| [Simon and Friends (Hamburg) (Persona](/setts/s14/k12g10k12g24k46b26y12ba26k24w4k46g24k12g10-b441800-ba202060-g003820-k101010-wfcfcfc-ye8c000/)|
-|![Simon and Friends (Hamburg) (Persona example sett](/setts/s14/k12g10k12g24k46b26y12ba26k24w4k46g24k12g10-b441800-ba202060-g003820-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Simon and Friends (Hamburg) (Personal)](/setts/s14/k6g5k6g12k23b13y6b13k12w2k23g12k6g5~b483225-g273f37-k101010-wffffff-ycf963b~x2/)|
+|![Simon and Friends (Hamburg) (Personal) example sett](/setts/s14/k6g5k6g12k23b13y6b13k12w2k23g12k6g5~b483225-g273f37-k101010-wffffff-ycf963b~x2/sett.png)|
+| [Simon and Friends (Hamburg) (Persona](/setts/s14/k6g5k6g12k23b13y6ba13k12w2k23g12k6g5~b441800-ba202060-g003820-k101010-wfcfcfc-ye8c000~x2/)|
+|![Simon and Friends (Hamburg) (Persona example sett](/setts/s14/k6g5k6g12k23b13y6ba13k12w2k23g12k6g5~b441800-ba202060-g003820-k101010-wfcfcfc-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ RYBGYGBGYBGYR
 
 | Tartans |
 |---------------|
-| [Callanish, The](/setts/s13/r4y4b4g4y12ga6b6g8y4b6ga4y4r4-b383131-g6b560f-ga647052-r7c1000-ycbc1b9/)|
-|![Callanish, The example sett](/setts/s13/r4y4b4g4y12ga6b6g8y4b6ga4y4r4-b383131-g6b560f-ga647052-r7c1000-ycbc1b9/sett.png)|
+| [Callanish, The](/setts/s13/r2y2b2g2y6ga3b3g4y2b3ga2y2r2~b383131-g6b560f-ga647052-r7c1000-ycbc1b9~x2/)|
+|![Callanish, The example sett](/setts/s13/r2y2b2g2y6ga3b3g4y2b3ga2y2r2~b383131-g6b560f-ga647052-r7c1000-ycbc1b9~x2/sett.png)|

@@ -16,5 +16,5 @@ KGYGYGYGYGYGYGYGKRKYKYKYKYKYKYKYKRYR
 
 | Tartans |
 |---------------|
-| [Prince Edward Island (CIDD 28100)](/setts/s36/r100y32r16k16y2k2y2k2y2k2y2k2y2k2y2k2y40k80r24k48g16y2g2y2g2y2g2y2g2y2g2y2g2y56g12k8-g003820-k101010-rc80000-ybc8c00/)|
-|![Prince Edward Island (CIDD 28100) example sett](/setts/s36/r100y32r16k16y2k2y2k2y2k2y2k2y2k2y2k2y40k80r24k48g16y2g2y2g2y2g2y2g2y2g2y2g2y56g12k8-g003820-k101010-rc80000-ybc8c00/sett.png)|
+| [Prince Edward Island (CIDD 28100)](/setts/s36/r50y16r8k8y1k1y1k1y1k1y1k1y1k1y1k1y20k40r12k24g8y1g1y1g1y1g1y1g1y1g1y1g1y28g6k4~g003820-k101010-rc80000-ybc8c00~x2/)|
+|![Prince Edward Island (CIDD 28100) example sett](/setts/s36/r50y16r8k8y1k1y1k1y1k1y1k1y1k1y1k1y20k40r12k24g8y1g1y1g1y1g1y1g1y1g1y1g1y28g6k4~g003820-k101010-rc80000-ybc8c00~x2/sett.png)|

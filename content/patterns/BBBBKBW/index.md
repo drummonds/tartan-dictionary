@@ -6,7 +6,7 @@ BBBBKBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b12ba6b12ba40k40ba16w8-b20608c-ba141c50-k000000-we8e8e8/tartan.png)
+![Woven sample](/setts/s7/b6ba3b6ba20k20ba8w4~b20608c-ba141c50-k000000-we8e8e8~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBBBKBW
 
 | Tartans |
 |---------------|
-| [Allianz Deutschland 2012](/setts/s7/b12ba6b12ba40k40ba16w8-b20608c-ba141c50-k000000-we8e8e8/)|
-|![Allianz Deutschland 2012 example sett](/setts/s7/b12ba6b12ba40k40ba16w8-b20608c-ba141c50-k000000-we8e8e8/sett.png)|
-| [Allianz Deutschland 2012 (Corporate)](/setts/s7/b12ba6b12ba40k40ba16w8-b2c2c80-ba202060-k101010-wfcfcfc/)|
-|![Allianz Deutschland 2012 (Corporate) example sett](/setts/s7/b12ba6b12ba40k40ba16w8-b2c2c80-ba202060-k101010-wfcfcfc/sett.png)|
+| [Allianz Deutschland 2012](/setts/s7/b6ba3b6ba20k20ba8w4~b20608c-ba141c50-k000000-we8e8e8~x2/)|
+|![Allianz Deutschland 2012 example sett](/setts/s7/b6ba3b6ba20k20ba8w4~b20608c-ba141c50-k000000-we8e8e8~x2/sett.png)|
+| [Allianz Deutschland 2012 (Corporate)](/setts/s7/b6ba3b6ba20k20ba8w4~b2c2c80-ba202060-k101010-wfcfcfc~x2/)|
+|![Allianz Deutschland 2012 (Corporate) example sett](/setts/s7/b6ba3b6ba20k20ba8w4~b2c2c80-ba202060-k101010-wfcfcfc~x2/sett.png)|

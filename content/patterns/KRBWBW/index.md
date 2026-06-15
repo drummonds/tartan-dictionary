@@ -6,7 +6,7 @@ KRBWBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k12r44b12w4b12w4-b38409c-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/k3r11b3w1b3w1~b38409c-k101010-rc80000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRBWBW
 
 | Tartans |
 |---------------|
-| [Suntan (Masai Shuka) (District?)](/setts/s6/k12r44b12w4b12w4-b38409c-k101010-rc80000-we0e0e0/)|
-|![Suntan (Masai Shuka) (District?) example sett](/setts/s6/k12r44b12w4b12w4-b38409c-k101010-rc80000-we0e0e0/sett.png)|
+| [Suntan (Masai Shuka) (District?)](/setts/s6/k3r11b3w1b3w1~b38409c-k101010-rc80000-we0e0e0~x4/)|
+|![Suntan (Masai Shuka) (District?) example sett](/setts/s6/k3r11b3w1b3w1~b38409c-k101010-rc80000-we0e0e0~x4/sett.png)|

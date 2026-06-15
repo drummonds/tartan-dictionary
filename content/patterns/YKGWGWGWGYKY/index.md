@@ -16,7 +16,7 @@ YKGWGWGWGYKY
 
 | Tartans |
 |---------------|
-| [Delta Lambda Phi](/setts/s12/y10k2y12g40w2g6w2g6w2g60k2y4-g006400-k101010-wffffff-yffcc33/)|
-|![Delta Lambda Phi example sett](/setts/s12/y10k2y12g40w2g6w2g6w2g60k2y4-g006400-k101010-wffffff-yffcc33/sett.png)|
-| [Delta Lambda Phi (Corporate)](/setts/s12/y10k2y12g40w2g6w2g6w2g60k2y4-g006818-k101010-wfcfcfc-ybc8c00/)|
-|![Delta Lambda Phi (Corporate) example sett](/setts/s12/y10k2y12g40w2g6w2g6w2g60k2y4-g006818-k101010-wfcfcfc-ybc8c00/sett.png)|
+| [Delta Lambda Phi](/setts/s12/y5k1y6g20w1g3w1g3w1g30k1y2~g006400-k101010-wffffff-yffcc33~x2/)|
+|![Delta Lambda Phi example sett](/setts/s12/y5k1y6g20w1g3w1g3w1g30k1y2~g006400-k101010-wffffff-yffcc33~x2/sett.png)|
+| [Delta Lambda Phi (Corporate)](/setts/s12/y5k1y6g20w1g3w1g3w1g30k1y2~g006818-k101010-wfcfcfc-ybc8c00~x2/)|
+|![Delta Lambda Phi (Corporate) example sett](/setts/s12/y5k1y6g20w1g3w1g3w1g30k1y2~g006818-k101010-wfcfcfc-ybc8c00~x2/sett.png)|

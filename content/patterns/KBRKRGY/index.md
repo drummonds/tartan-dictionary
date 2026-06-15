@@ -6,7 +6,7 @@ KBRKRGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s7/y6g28r4k20r3b45k5~b00008c-g007800-k000000-r8c0000-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRKRGY
 
 | Tartans |
 |---------------|
-| [Nery](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/)|
-|![Nery example sett](/setts/s7/y12g56r8k40r6b90k10-b00008c-g007800-k000000-r8c0000-yc88c00/sett.png)|
+| [Nery](/setts/s7/y6g28r4k20r3b45k5~b00008c-g007800-k000000-r8c0000-yc88c00~x2/)|
+|![Nery example sett](/setts/s7/y6g28r4k20r3b45k5~b00008c-g007800-k000000-r8c0000-yc88c00~x2/sett.png)|

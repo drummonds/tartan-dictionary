@@ -16,5 +16,5 @@ BRBYGKGWGKGKGW
 
 | Tartans |
 |---------------|
-| [Presbyterian Synod of Living Waters (USA)](/setts/s14/b12r4b12y6g12k2g4w4g4k2g12k2g4w4-b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000/)|
-|![Presbyterian Synod of Living Waters (USA) example sett](/setts/s14/b12r4b12y6g12k2g4w4g4k2g12k2g4w4-b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000/sett.png)|
+| [Presbyterian Synod of Living Waters (USA)](/setts/s14/b6r2b6y3g6k1g2w2g2k1g6k1g2w2~b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000~x2/)|
+|![Presbyterian Synod of Living Waters (USA) example sett](/setts/s14/b6r2b6y3g6k1g2w2g2k1g6k1g2w2~b202060-g006818-k101010-rb03000-wc0c0c0-ye8c000~x2/sett.png)|

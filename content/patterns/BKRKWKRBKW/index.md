@@ -16,5 +16,5 @@ BKRKWKRBKW
 
 | Tartans |
 |---------------|
-| [Skye (Fashion)](/setts/s10/b100k24r4k4w4k4r24b14k14w4-b3c5c70-k000000-r888888-wf8f8f8/)|
-|![Skye (Fashion) example sett](/setts/s10/b100k24r4k4w4k4r24b14k14w4-b3c5c70-k000000-r888888-wf8f8f8/sett.png)|
+| [Skye (Fashion)](/setts/s10/b50k12r2k2w2k2r12b7k7w2~b3c5c70-k000000-r888888-wf8f8f8~x2/)|
+|![Skye (Fashion) example sett](/setts/s10/b50k12r2k2w2k2r12b7k7w2~b3c5c70-k000000-r888888-wf8f8f8~x2/sett.png)|

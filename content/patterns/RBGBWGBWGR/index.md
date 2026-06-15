@@ -16,5 +16,5 @@ RBGBWGBWGR
 
 | Tartans |
 |---------------|
-| [Kerry County, Crest Range](/setts/s10/r28b10g50b10w4g22b14w10g12r10-b080848-g005020-rc87814-we0e0e0/)|
-|![Kerry County, Crest Range example sett](/setts/s10/r28b10g50b10w4g22b14w10g12r10-b080848-g005020-rc87814-we0e0e0/sett.png)|
+| [Kerry County, Crest Range](/setts/s10/r14b5g25b5w2g11b7w5g6r5~b080848-g005020-rc87814-we0e0e0~x2/)|
+|![Kerry County, Crest Range example sett](/setts/s10/r14b5g25b5w2g11b7w5g6r5~b080848-g005020-rc87814-we0e0e0~x2/sett.png)|

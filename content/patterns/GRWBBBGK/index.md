@@ -6,7 +6,7 @@ GRWBBBGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4r10w12b14ba14b14ga10k4-b8080d0-ba4000ff-g008000-ga607030-k000030-r906030-wc0a0e0/tartan.png)
+![Woven sample](/setts/s8/g2r5w6b7ba7b7ga5k2~b8080d0-ba4000ff-g008000-ga607030-k000030-r906030-wc0a0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWBBBGK
 
 | Tartans |
 |---------------|
-| [Stewarton](/setts/s8/g4r10w12b14ba14b14ga10k4-b8080d0-ba4000ff-g008000-ga607030-k000030-r906030-wc0a0e0/)|
-|![Stewarton example sett](/setts/s8/g4r10w12b14ba14b14ga10k4-b8080d0-ba4000ff-g008000-ga607030-k000030-r906030-wc0a0e0/sett.png)|
+| [Stewarton](/setts/s8/g2r5w6b7ba7b7ga5k2~b8080d0-ba4000ff-g008000-ga607030-k000030-r906030-wc0a0e0~x2/)|
+|![Stewarton example sett](/setts/s8/g2r5w6b7ba7b7ga5k2~b8080d0-ba4000ff-g008000-ga607030-k000030-r906030-wc0a0e0~x2/sett.png)|

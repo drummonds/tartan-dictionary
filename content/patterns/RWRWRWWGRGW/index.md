@@ -16,5 +16,5 @@ RWRWRWWGRGW
 
 | Tartans |
 |---------------|
-| [Ben Cleuch (Fashion)](/setts/s11/r136w6r6w16r6w6w48g32ra6g40w6-g64340c-ra07c58-ra90000c-wf8f4d0/)|
-|![Ben Cleuch (Fashion) example sett](/setts/s11/r136w6r6w16r6w6w48g32ra6g40w6-g64340c-ra07c58-ra90000c-wf8f4d0/sett.png)|
+| [Ben Cleuch (Fashion)](/setts/s11/r68w3r3w8r3w3w24g16ra3g20w3~g64340c-ra07c58-ra90000c-wf8f4d0~x2/)|
+|![Ben Cleuch (Fashion) example sett](/setts/s11/r68w3r3w8r3w3w24g16ra3g20w3~g64340c-ra07c58-ra90000c-wf8f4d0~x2/sett.png)|

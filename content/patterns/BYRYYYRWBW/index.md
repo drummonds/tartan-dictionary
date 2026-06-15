@@ -16,5 +16,5 @@ BYRYYYRWBW
 
 | Tartans |
 |---------------|
-| [Confederate Memorial (Military)](/setts/s10/b24y8r8y8ya4y112r36w2ba8w6-b2888c4-ba2c2c80-rc80000-wfcfcfc-yb8b090-yafccc00/)|
-|![Confederate Memorial (Military) example sett](/setts/s10/b24y8r8y8ya4y112r36w2ba8w6-b2888c4-ba2c2c80-rc80000-wfcfcfc-yb8b090-yafccc00/sett.png)|
+| [Confederate Memorial (Military)](/setts/s10/b12y4r4y4ya2y56r18w1ba4w3~b2888c4-ba2c2c80-rc80000-wfcfcfc-yb8b090-yafccc00~x2/)|
+|![Confederate Memorial (Military) example sett](/setts/s10/b12y4r4y4ya2y56r18w1ba4w3~b2888c4-ba2c2c80-rc80000-wfcfcfc-yb8b090-yafccc00~x2/sett.png)|

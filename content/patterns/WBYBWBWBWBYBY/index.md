@@ -16,5 +16,5 @@ WBYBWBWBWBYBY
 
 | Tartans |
 |---------------|
-| [Delta Dental Association](/setts/s13/w8b2y58b12wa26b26wa12b26wa26b12y58b2ya8-b666666-wd3e1ff-waffffff-yd9bc9a-ya9ee07c/)|
-|![Delta Dental Association example sett](/setts/s13/w8b2y58b12wa26b26wa12b26wa26b12y58b2ya8-b666666-wd3e1ff-waffffff-yd9bc9a-ya9ee07c/sett.png)|
+| [Delta Dental Association](/setts/s13/w4b1y29b6wa13b13wa6b13wa13b6y29b1ya4~b666666-wd3e1ff-waffffff-yd9bc9a-ya9ee07c~x2/)|
+|![Delta Dental Association example sett](/setts/s13/w4b1y29b6wa13b13wa6b13wa13b6y29b1ya4~b666666-wd3e1ff-waffffff-yd9bc9a-ya9ee07c~x2/sett.png)|

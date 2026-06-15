@@ -16,5 +16,5 @@ BKWBWBGKWG
 
 | Tartans |
 |---------------|
-| [Head of the Lakes](/setts/s10/g12w2k24ga12b4w2b4w2k24ba2-b800080-ba5480b0-g30a010-ga008000-k000030-we0e0e0/)|
-|![Head of the Lakes example sett](/setts/s10/g12w2k24ga12b4w2b4w2k24ba2-b800080-ba5480b0-g30a010-ga008000-k000030-we0e0e0/sett.png)|
+| [Head of the Lakes](/setts/s10/g6w1k12ga6b2w1b2w1k12ba1~b800080-ba5480b0-g30a010-ga008000-k000030-we0e0e0~x2/)|
+|![Head of the Lakes example sett](/setts/s10/g6w1k12ga6b2w1b2w1k12ba1~b800080-ba5480b0-g30a010-ga008000-k000030-we0e0e0~x2/sett.png)|

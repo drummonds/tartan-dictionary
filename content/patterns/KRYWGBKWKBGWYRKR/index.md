@@ -16,5 +16,5 @@ KRYWGBKWKBGWYRKR
 
 | Tartans |
 |---------------|
-| [Hebridean Arisaid Red (Dance)](/setts/s16/r12k8r46y4w4g24b24k8w74k8b24g24w4y4r46k8-b2c2c80-g006818-k101010-r800028-we0e0e0-ye08070/)|
-|![Hebridean Arisaid Red (Dance) example sett](/setts/s16/r12k8r46y4w4g24b24k8w74k8b24g24w4y4r46k8-b2c2c80-g006818-k101010-r800028-we0e0e0-ye08070/sett.png)|
+| [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23y2w2g12b12k4w37k4b12g12w2y2r23k4~b2c2c80-g006818-k101010-r800028-we0e0e0-ye08070~x2/)|
+|![Hebridean Arisaid Red (Dance) example sett](/setts/s16/r6k4r23y2w2g12b12k4w37k4b12g12w2y2r23k4~b2c2c80-g006818-k101010-r800028-we0e0e0-ye08070~x2/sett.png)|

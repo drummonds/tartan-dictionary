@@ -6,7 +6,7 @@ GGBGKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g108ga12b24ga12k48r12-b450082-g003000-ga026306-k020031-rcb080c/tartan.png)
+![Woven sample](/setts/s6/g9ga1b2ga1k4r1~b450082-g003000-ga026306-k020031-rcb080c~x12/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGBGKR
 
 | Tartans |
 |---------------|
-| [Gorman, George (Personal)](/setts/s6/g108ga12b24ga12k48r12-b450082-g003000-ga026306-k020031-rcb080c/)|
-|![Gorman, George (Personal) example sett](/setts/s6/g108ga12b24ga12k48r12-b450082-g003000-ga026306-k020031-rcb080c/sett.png)|
+| [Gorman, George (Personal)](/setts/s6/g9ga1b2ga1k4r1~b450082-g003000-ga026306-k020031-rcb080c~x12/)|
+|![Gorman, George (Personal) example sett](/setts/s6/g9ga1b2ga1k4r1~b450082-g003000-ga026306-k020031-rcb080c~x12/sett.png)|

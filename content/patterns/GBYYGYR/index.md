@@ -6,7 +6,7 @@ GBYYGYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g8b56y24ya4g4ya24r4-b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0/tartan.png)
+![Woven sample](/setts/s7/g2b14y6ya1g1ya6r1~b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBYYGYR
 
 | Tartans |
 |---------------|
-| [Loch Ness in Scotland](/setts/s7/g8b56y24ya4g4ya24r4-b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0/)|
-|![Loch Ness in Scotland example sett](/setts/s7/g8b56y24ya4g4ya24r4-b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0/sett.png)|
+| [Loch Ness in Scotland](/setts/s7/g2b14y6ya1g1ya6r1~b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0~x4/)|
+|![Loch Ness in Scotland example sett](/setts/s7/g2b14y6ya1g1ya6r1~b000064-g289c18-rc8002c-y48a4c0-yaa0a0a0~x4/sett.png)|

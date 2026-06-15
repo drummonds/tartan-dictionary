@@ -16,5 +16,5 @@ GBWBWBGRGR
 
 | Tartans |
 |---------------|
-| [Strathdee (Personal)](/setts/s10/g50b20w2b10w2b20g50r2g6r4-b3850c8-g007460-rc80000-wf8f8f8/)|
-|![Strathdee (Personal) example sett](/setts/s10/g50b20w2b10w2b20g50r2g6r4-b3850c8-g007460-rc80000-wf8f8f8/sett.png)|
+| [Strathdee (Personal)](/setts/s10/g25b10w1b5w1b10g25r1g3r2~b3850c8-g007460-rc80000-wf8f8f8~x2/)|
+|![Strathdee (Personal) example sett](/setts/s10/g25b10w1b5w1b10g25r1g3r2~b3850c8-g007460-rc80000-wf8f8f8~x2/sett.png)|

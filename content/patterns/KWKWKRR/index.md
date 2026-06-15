@@ -6,7 +6,7 @@ KWKWKRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/k11w1k1w1k4r8ra1~k101010-r888888-rac80000-we0e0e0~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKWKRR
 
 | Tartans |
 |---------------|
-| [Dunfermline Athletic (2008) (Corp)](/setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/)|
-|![Dunfermline Athletic (2008) (Corp) example sett](/setts/s7/k88w8k8w8k32r64ra8-k101010-r888888-rac80000-we0e0e0/sett.png)|
+| [Dunfermline Athletic (2008) (Corp)](/setts/s7/k11w1k1w1k4r8ra1~k101010-r888888-rac80000-we0e0e0~x8/)|
+|![Dunfermline Athletic (2008) (Corp) example sett](/setts/s7/k11w1k1w1k4r8ra1~k101010-r888888-rac80000-we0e0e0~x8/sett.png)|

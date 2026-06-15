@@ -6,7 +6,7 @@ GGGBBGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g40ga40gb40b40ba40ga80w16-b000048-ba2c2c80-g289c18-ga005020-gb007800-wffffff/tartan.png)
+![Woven sample](/setts/s7/g5ga5gb5b5ba5ga10w2~b000048-ba2c2c80-g289c18-ga005020-gb007800-wffffff~x8/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GGGBBGW
 
 | Tartans |
 |---------------|
-| [Pollard (2014)](/setts/s7/g40ga40gb40b40ba40ga80w16-b000048-ba2c2c80-g289c18-ga005020-gb007800-wffffff/)|
-|![Pollard (2014) example sett](/setts/s7/g40ga40gb40b40ba40ga80w16-b000048-ba2c2c80-g289c18-ga005020-gb007800-wffffff/sett.png)|
-| [Pollard (2014)](/setts/s7/g40ga40gb40b40ba40ga80w16-b202060-ba2c2c80-g289c18-ga003820-gb006818-wfcfcfc/)|
-|![Pollard (2014) example sett](/setts/s7/g40ga40gb40b40ba40ga80w16-b202060-ba2c2c80-g289c18-ga003820-gb006818-wfcfcfc/sett.png)|
+| [Pollard (2014)](/setts/s7/g5ga5gb5b5ba5ga10w2~b000048-ba2c2c80-g289c18-ga005020-gb007800-wffffff~x8/)|
+|![Pollard (2014) example sett](/setts/s7/g5ga5gb5b5ba5ga10w2~b000048-ba2c2c80-g289c18-ga005020-gb007800-wffffff~x8/sett.png)|
+| [Pollard (2014)](/setts/s7/g5ga5gb5b5ba5ga10w2~b202060-ba2c2c80-g289c18-ga003820-gb006818-wfcfcfc~x8/)|
+|![Pollard (2014) example sett](/setts/s7/g5ga5gb5b5ba5ga10w2~b202060-ba2c2c80-g289c18-ga003820-gb006818-wfcfcfc~x8/sett.png)|

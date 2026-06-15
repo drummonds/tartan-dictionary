@@ -16,5 +16,5 @@ BKBKRGRKRGKRK
 
 | Tartans |
 |---------------|
-| [Alyssa's Theme](/setts/s13/b4k26b16k4r2g2r42k2r2g4k16r26k4-b38558f-g7d7d7d-k000000-r800300/)|
-|![Alyssa's Theme example sett](/setts/s13/b4k26b16k4r2g2r42k2r2g4k16r26k4-b38558f-g7d7d7d-k000000-r800300/sett.png)|
+| [Alyssa's Theme](/setts/s13/b2k13b8k2r1g1r21k1r1g2k8r13k2~b38558f-g7d7d7d-k000000-r800300~x2/)|
+|![Alyssa's Theme example sett](/setts/s13/b2k13b8k2r1g1r21k1r1g2k8r13k2~b38558f-g7d7d7d-k000000-r800300~x2/sett.png)|

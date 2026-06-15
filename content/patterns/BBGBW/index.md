@@ -6,7 +6,7 @@ BBGBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b46ba4g22ba48w6-b1c0070-ba440044-g006818-wc0c0c0/tartan.png)
+![Woven sample](/setts/s5/b23ba2g11ba24w3~b1c0070-ba440044-g006818-wc0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGBW
 
 | Tartans |
 |---------------|
-| [Scottish Open Squash (Corporate)](/setts/s5/b46ba4g22ba48w6-b1c0070-ba440044-g006818-wc0c0c0/)|
-|![Scottish Open Squash (Corporate) example sett](/setts/s5/b46ba4g22ba48w6-b1c0070-ba440044-g006818-wc0c0c0/sett.png)|
+| [Scottish Open Squash (Corporate)](/setts/s5/b23ba2g11ba24w3~b1c0070-ba440044-g006818-wc0c0c0~x2/)|
+|![Scottish Open Squash (Corporate) example sett](/setts/s5/b23ba2g11ba24w3~b1c0070-ba440044-g006818-wc0c0c0~x2/sett.png)|

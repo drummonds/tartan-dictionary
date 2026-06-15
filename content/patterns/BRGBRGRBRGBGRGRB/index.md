@@ -16,5 +16,5 @@ BRGBRGRBRGBGRGRB
 
 | Tartans |
 |---------------|
-| [Crieff Hydro Hotel](/setts/s16/b4r4g24b32r4g4r4b32r24g4b4g4r24g24r4b4-b2c2c80-g006818-rc80000/)|
-|![Crieff Hydro Hotel example sett](/setts/s16/b4r4g24b32r4g4r4b32r24g4b4g4r24g24r4b4-b2c2c80-g006818-rc80000/sett.png)|
+| [Crieff Hydro Hotel](/setts/s16/b1r1g6b8r1g1r1b8r6g1b1g1r6g6r1b1~b2c2c80-g006818-rc80000~x4/)|
+|![Crieff Hydro Hotel example sett](/setts/s16/b1r1g6b8r1g1r1b8r6g1b1g1r6g6r1b1~b2c2c80-g006818-rc80000~x4/sett.png)|

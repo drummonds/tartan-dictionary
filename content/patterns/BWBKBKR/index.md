@@ -6,7 +6,7 @@ BWBKBKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16w8b100k24b8k30r10-b6840fc-k101010-re40018-wf8f8f8/tartan.png)
+![Woven sample](/setts/s7/b8w4b50k12b4k15r5~b6840fc-k101010-re40018-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBKBKR
 
 | Tartans |
 |---------------|
-| [Instakilt, Blue (Fashion)](/setts/s7/b16w8b100k24b8k30r10-b6840fc-k101010-re40018-wf8f8f8/)|
-|![Instakilt, Blue (Fashion) example sett](/setts/s7/b16w8b100k24b8k30r10-b6840fc-k101010-re40018-wf8f8f8/sett.png)|
+| [Instakilt, Blue (Fashion)](/setts/s7/b8w4b50k12b4k15r5~b6840fc-k101010-re40018-wf8f8f8~x2/)|
+|![Instakilt, Blue (Fashion) example sett](/setts/s7/b8w4b50k12b4k15r5~b6840fc-k101010-re40018-wf8f8f8~x2/sett.png)|

@@ -6,7 +6,7 @@ WRBGKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w10r50b36g8k4y10-b5c8ca8-g289c18-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/w5r25b18g4k2y5~b5c8ca8-g289c18-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRBGKY
 
 | Tartans |
 |---------------|
-| [Christie (London) (Personal)](/setts/s6/w10r50b36g8k4y10-b5c8ca8-g289c18-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Christie (London) (Personal) example sett](/setts/s6/w10r50b36g8k4y10-b5c8ca8-g289c18-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Christie (London) (Personal)](/setts/s6/w5r25b18g4k2y5~b5c8ca8-g289c18-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Christie (London) (Personal) example sett](/setts/s6/w5r25b18g4k2y5~b5c8ca8-g289c18-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

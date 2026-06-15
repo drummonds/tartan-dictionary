@@ -16,5 +16,5 @@ BBGBGBBGBBGY
 
 | Tartans |
 |---------------|
-| [Reflections of the Sea](/setts/s12/b6ba12g24b28g4ba34b6g2b6ba34g4y6-b1474b4-ba3850c8-g285800-y0cdcb4/)|
-|![Reflections of the Sea example sett](/setts/s12/b6ba12g24b28g4ba34b6g2b6ba34g4y6-b1474b4-ba3850c8-g285800-y0cdcb4/sett.png)|
+| [Reflections of the Sea](/setts/s12/b3ba6g12b14g2ba17b3g1b3ba17g2y3~b1474b4-ba3850c8-g285800-y0cdcb4~x2/)|
+|![Reflections of the Sea example sett](/setts/s12/b3ba6g12b14g2ba17b3g1b3ba17g2y3~b1474b4-ba3850c8-g285800-y0cdcb4~x2/sett.png)|

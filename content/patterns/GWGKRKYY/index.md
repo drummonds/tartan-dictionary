@@ -6,7 +6,7 @@ GWGKRKYY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/tartan.png)
+![Woven sample](/setts/s8/g1w1g4k1r1k1y4ya1~g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGKRKYY
 
 | Tartans |
 |---------------|
-| [Dunedin (NZ)](/setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/)|
-|![Dunedin (NZ) example sett](/setts/s8/g8w8g32k8r8k8y32ya8-g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000/sett.png)|
+| [Dunedin (NZ)](/setts/s8/g1w1g4k1r1k1y4ya1~g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000~x8/)|
+|![Dunedin (NZ) example sett](/setts/s8/g1w1g4k1r1k1y4ya1~g048888-k101010-rc80000-wfcfcfc-y70a870-yae8c000~x8/sett.png)|

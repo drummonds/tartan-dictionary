@@ -16,5 +16,5 @@ RGRBRBGGW
 
 | Tartans |
 |---------------|
-| [Inchforth (Personal)](/setts/s9/r8g4r14b60r16b14ga10g2w4-b5c5c5c-g003820-ga006818-r888888-wfcfcfc/)|
-|![Inchforth (Personal) example sett](/setts/s9/r8g4r14b60r16b14ga10g2w4-b5c5c5c-g003820-ga006818-r888888-wfcfcfc/sett.png)|
+| [Inchforth (Personal)](/setts/s9/r4g2r7b30r8b7ga5g1w2~b5c5c5c-g003820-ga006818-r888888-wfcfcfc~x2/)|
+|![Inchforth (Personal) example sett](/setts/s9/r4g2r7b30r8b7ga5g1w2~b5c5c5c-g003820-ga006818-r888888-wfcfcfc~x2/sett.png)|

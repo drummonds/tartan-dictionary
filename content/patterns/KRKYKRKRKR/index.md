@@ -16,5 +16,5 @@ KRKYKRKRKR
 
 | Tartans |
 |---------------|
-| [Tyndrum](/setts/s10/r48k8r8k8r16k32y48k8r16k16-k101010-r888888-ya08858/)|
-|![Tyndrum example sett](/setts/s10/r48k8r8k8r16k32y48k8r16k16-k101010-r888888-ya08858/sett.png)|
+| [Tyndrum](/setts/s10/r6k1r1k1r2k4y6k1r2k2~k101010-r888888-ya08858~x8/)|
+|![Tyndrum example sett](/setts/s10/r6k1r1k1r2k4y6k1r2k2~k101010-r888888-ya08858~x8/sett.png)|

@@ -16,5 +16,5 @@ RRWYGYGWR
 
 | Tartans |
 |---------------|
-| [Bell's Whisky](/setts/s9/r12w20g64y8g4y160w24ra12r8-g604000-rc40000-ra888888-wf8f8f8-ybc8c00/)|
-|![Bell's Whisky example sett](/setts/s9/r12w20g64y8g4y160w24ra12r8-g604000-rc40000-ra888888-wf8f8f8-ybc8c00/sett.png)|
+| [Bell's Whisky](/setts/s9/r3w5g16y2g1y40w6ra3r2~g604000-rc40000-ra888888-wf8f8f8-ybc8c00~x4/)|
+|![Bell's Whisky example sett](/setts/s9/r3w5g16y2g1y40w6ra3r2~g604000-rc40000-ra888888-wf8f8f8-ybc8c00~x4/sett.png)|

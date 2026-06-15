@@ -16,5 +16,5 @@ WKBGYRBKW
 
 | Tartans |
 |---------------|
-| [Stott (Personal)](/setts/s9/w4k50b4g12y4r12b4k50w4-b284c64-g285828-k101010-r9c2430-wececec-ydcb824/)|
-|![Stott (Personal) example sett](/setts/s9/w4k50b4g12y4r12b4k50w4-b284c64-g285828-k101010-r9c2430-wececec-ydcb824/sett.png)|
+| [Stott (Personal)](/setts/s9/w2k25b2g6y2r6b2k25w2~b284c64-g285828-k101010-r9c2430-wececec-ydcb824~x2/)|
+|![Stott (Personal) example sett](/setts/s9/w2k25b2g6y2r6b2k25w2~b284c64-g285828-k101010-r9c2430-wececec-ydcb824~x2/sett.png)|

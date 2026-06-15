@@ -16,5 +16,5 @@ BYBBWKBWKBRKRKBWR
 
 | Tartans |
 |---------------|
-| [Clauweart](/setts/s17/b8y4b8ba12w4k4ba12w4k4ba26r6k8r6k16b12w4ra8-b2c4084-ba666666-k101010-rbe7832-radc0000-we0e0e0-yc89600/)|
-|![Clauweart example sett](/setts/s17/b8y4b8ba12w4k4ba12w4k4ba26r6k8r6k16b12w4ra8-b2c4084-ba666666-k101010-rbe7832-radc0000-we0e0e0-yc89600/sett.png)|
+| [Clauweart](/setts/s17/b4y2b4ba6w2k2ba6w2k2ba13r3k4r3k8b6w2ra4~b2c4084-ba666666-k101010-rbe7832-radc0000-we0e0e0-yc89600~x2/)|
+|![Clauweart example sett](/setts/s17/b4y2b4ba6w2k2ba6w2k2ba13r3k4r3k8b6w2ra4~b2c4084-ba666666-k101010-rbe7832-radc0000-we0e0e0-yc89600~x2/sett.png)|

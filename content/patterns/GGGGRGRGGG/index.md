@@ -16,5 +16,5 @@ GGGGRGRGGG
 
 | Tartans |
 |---------------|
-| [Dewar](/setts/s10/g4ga4g28ga16r28ga4r28ga16g28ga4-g006818-ga604000-rc80000/)|
-|![Dewar example sett](/setts/s10/g4ga4g28ga16r28ga4r28ga16g28ga4-g006818-ga604000-rc80000/sett.png)|
+| [Dewar](/setts/s10/g1ga1g7ga4r7ga1r7ga4g7ga1~g006818-ga604000-rc80000~x4/)|
+|![Dewar example sett](/setts/s10/g1ga1g7ga4r7ga1r7ga4g7ga1~g006818-ga604000-rc80000~x4/sett.png)|

@@ -6,7 +6,7 @@ RGKYKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6g54k12y26k28r6-g808080-k101010-rdc0000-yc89664/tartan.png)
+![Woven sample](/setts/s6/r3g27k6y13k14r3~g808080-k101010-rdc0000-yc89664~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKYKR
 
 | Tartans |
 |---------------|
-| [Thompson/Thomson/MacTavish special grey](/setts/s6/r6g54k12y26k28r6-g808080-k101010-rdc0000-yc89664/)|
-|![Thompson/Thomson/MacTavish special grey example sett](/setts/s6/r6g54k12y26k28r6-g808080-k101010-rdc0000-yc89664/sett.png)|
+| [Thompson/Thomson/MacTavish special grey](/setts/s6/r3g27k6y13k14r3~g808080-k101010-rdc0000-yc89664~x2/)|
+|![Thompson/Thomson/MacTavish special grey example sett](/setts/s6/r3g27k6y13k14r3~g808080-k101010-rdc0000-yc89664~x2/sett.png)|

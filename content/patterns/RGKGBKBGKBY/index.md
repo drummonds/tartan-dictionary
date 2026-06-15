@@ -16,5 +16,5 @@ RGKGBKBGKBY
 
 | Tartans |
 |---------------|
-| [King (Personal)](/setts/s11/r6g4k2g4b52k24b8g30k2b2y6-b305878-g5c6428-k101010-rc80000-yc09c00/)|
-|![King (Personal) example sett](/setts/s11/r6g4k2g4b52k24b8g30k2b2y6-b305878-g5c6428-k101010-rc80000-yc09c00/sett.png)|
+| [King (Personal)](/setts/s11/r3g2k1g2b26k12b4g15k1b1y3~b305878-g5c6428-k101010-rc80000-yc09c00~x2/)|
+|![King (Personal) example sett](/setts/s11/r3g2k1g2b26k12b4g15k1b1y3~b305878-g5c6428-k101010-rc80000-yc09c00~x2/sett.png)|

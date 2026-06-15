@@ -6,7 +6,7 @@ BWBWRWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w48b8w48r68w48b8w20ba8-b2888c4-ba780078-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/w12b2w12r17w12b2w5ba2~b2888c4-ba780078-rc80000-wf8f8f8~x4/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BWBWRWBW
 
 | Tartans |
 |---------------|
-| [Milne, Dress (Dance)](/setts/s8/w48b8w48r68w48b8w20ba8-b2888c4-ba780078-rc80000-wf8f8f8/)|
-|![Milne, Dress (Dance) example sett](/setts/s8/w48b8w48r68w48b8w20ba8-b2888c4-ba780078-rc80000-wf8f8f8/sett.png)|
-| [Milne, dress](/setts/s8/w18b4w18r30w18b4w9ba4-b304080-ba800080-rc00000-we0e0e0/)|
-|![Milne, dress example sett](/setts/s8/w18b4w18r30w18b4w9ba4-b304080-ba800080-rc00000-we0e0e0/sett.png)|
-| [Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w18b4w18r30w18b4w9ba4-b2c2c80-ba780078-rc80000-we0e0e0/)|
-|![Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/w18b4w18r30w18b4w9ba4-b2c2c80-ba780078-rc80000-we0e0e0/sett.png)|
+| [Milne, Dress (Dance)](/setts/s8/w12b2w12r17w12b2w5ba2~b2888c4-ba780078-rc80000-wf8f8f8~x4/)|
+|![Milne, Dress (Dance) example sett](/setts/s8/w12b2w12r17w12b2w5ba2~b2888c4-ba780078-rc80000-wf8f8f8~x4/sett.png)|
+| [Milne, dress](/setts/s8/w18b4w18r30w18b4w9ba4~b304080-ba800080-rc00000-we0e0e0/)|
+|![Milne, dress example sett](/setts/s8/w18b4w18r30w18b4w9ba4~b304080-ba800080-rc00000-we0e0e0/sett.png)|
+| [Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w18b4w18r30w18b4w9ba4~b2c2c80-ba780078-rc80000-we0e0e0/)|
+|![Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/w18b4w18r30w18b4w9ba4~b2c2c80-ba780078-rc80000-we0e0e0/sett.png)|

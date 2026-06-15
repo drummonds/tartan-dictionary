@@ -16,5 +16,5 @@ BRBWBWBWBWBWBRBW
 
 | Tartans |
 |---------------|
-| [Jeux Canada Games '87](/setts/s16/b12r10b6w4b6w4b6w32b6w4b6w4b6r10b12w4-b2c2c80-rc80000-we0e0e0/)|
-|![Jeux Canada Games '87 example sett](/setts/s16/b12r10b6w4b6w4b6w32b6w4b6w4b6r10b12w4-b2c2c80-rc80000-we0e0e0/sett.png)|
+| [Jeux Canada Games '87](/setts/s16/b6r5b3w2b3w2b3w16b3w2b3w2b3r5b6w2~b2c2c80-rc80000-we0e0e0~x2/)|
+|![Jeux Canada Games '87 example sett](/setts/s16/b6r5b3w2b3w2b3w16b3w2b3w2b3r5b6w2~b2c2c80-rc80000-we0e0e0~x2/sett.png)|

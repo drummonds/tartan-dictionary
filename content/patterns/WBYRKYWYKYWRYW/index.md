@@ -16,5 +16,5 @@ WBYRKYWYKYWRYW
 
 | Tartans |
 |---------------|
-| [Praetorian (Fashion)](/setts/s14/w6b6y6r48k6ya6w48ya6k48ya6w6r48ya6w6-b780078-k101010-rc80000-we0e0e0-ye8c000-yaa0a0a0/)|
-|![Praetorian (Fashion) example sett](/setts/s14/w6b6y6r48k6ya6w48ya6k48ya6w6r48ya6w6-b780078-k101010-rc80000-we0e0e0-ye8c000-yaa0a0a0/sett.png)|
+| [Praetorian (Fashion)](/setts/s14/w1b1y1r8k1ya1w8ya1k8ya1w1r8ya1w1~b780078-k101010-rc80000-we0e0e0-ye8c000-yaa0a0a0~x6/)|
+|![Praetorian (Fashion) example sett](/setts/s14/w1b1y1r8k1ya1w8ya1k8ya1w1r8ya1w1~b780078-k101010-rc80000-we0e0e0-ye8c000-yaa0a0a0~x6/sett.png)|

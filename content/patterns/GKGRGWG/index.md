@@ -6,7 +6,7 @@ GKGRGWG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g12w4g48r24g12k12g8-g006818-k101010-rc8002c-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/g3w1g12r6g3k3g2~g006818-k101010-rc8002c-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKGRGWG
 
 | Tartans |
 |---------------|
-| [Arkansas](/setts/s7/g12w4g48r24g12k12g8-g006818-k101010-rc8002c-wfcfcfc/)|
-|![Arkansas example sett](/setts/s7/g12w4g48r24g12k12g8-g006818-k101010-rc8002c-wfcfcfc/sett.png)|
-| [Arkansas](/setts/s7/g12w4g48r24g12k12ga8-g004010-ga008000-k000000-rc00020-we0e0e0/)|
-|![Arkansas example sett](/setts/s7/g12w4g48r24g12k12ga8-g004010-ga008000-k000000-rc00020-we0e0e0/sett.png)|
+| [Arkansas](/setts/s7/g3w1g12r6g3k3g2~g006818-k101010-rc8002c-wfcfcfc~x4/)|
+|![Arkansas example sett](/setts/s7/g3w1g12r6g3k3g2~g006818-k101010-rc8002c-wfcfcfc~x4/sett.png)|
+| [Arkansas](/setts/s7/g3w1g12r6g3k3ga2~g004010-ga008000-k000000-rc00020-we0e0e0~x4/)|
+|![Arkansas example sett](/setts/s7/g3w1g12r6g3k3ga2~g004010-ga008000-k000000-rc00020-we0e0e0~x4/sett.png)|

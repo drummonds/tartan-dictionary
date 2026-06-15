@@ -16,5 +16,5 @@ BGKGYKRKRKYGKGBR
 
 | Tartans |
 |---------------|
-| [Shanahan](/setts/s16/b34g32k4g48y6k8r4k4r4k8y6g48k4g32b34r4-b1870a4-g00643c-k101010-rcc4438-ybc8c00/)|
-|![Shanahan example sett](/setts/s16/b34g32k4g48y6k8r4k4r4k8y6g48k4g32b34r4-b1870a4-g00643c-k101010-rcc4438-ybc8c00/sett.png)|
+| [Shanahan](/setts/s16/b17g16k2g24y3k4r2k2r2k4y3g24k2g16b17r2~b1870a4-g00643c-k101010-rcc4438-ybc8c00~x2/)|
+|![Shanahan example sett](/setts/s16/b17g16k2g24y3k4r2k2r2k4y3g24k2g16b17r2~b1870a4-g00643c-k101010-rcc4438-ybc8c00~x2/sett.png)|

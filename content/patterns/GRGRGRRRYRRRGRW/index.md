@@ -16,5 +16,5 @@ GRGRGRRRYRRRGRW
 
 | Tartans |
 |---------------|
-| [Prince Edward Island](/setts/s15/g32r2g4r2g4r24ra24r2y4r2ra24r24g24r2w4-g008000-r806050-ra900030-we0e0e0-yf0c000/)|
-|![Prince Edward Island example sett](/setts/s15/g32r2g4r2g4r24ra24r2y4r2ra24r24g24r2w4-g008000-r806050-ra900030-we0e0e0-yf0c000/sett.png)|
+| [Prince Edward Island](/setts/s15/g16r1g2r1g2r12ra12r1y2r1ra12r12g12r1w2~g008000-r806050-ra900030-we0e0e0-yf0c000~x2/)|
+|![Prince Edward Island example sett](/setts/s15/g16r1g2r1g2r12ra12r1y2r1ra12r12g12r1w2~g008000-r806050-ra900030-we0e0e0-yf0c000~x2/sett.png)|

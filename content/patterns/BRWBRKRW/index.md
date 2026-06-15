@@ -6,7 +6,7 @@ BRWBRKRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b2r4w2b60r60k2r4w2-b1c0070-k101010-ra00000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b1r2w1b30r30k1r2w1~b1c0070-k101010-ra00000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWBRKRW
 
 | Tartans |
 |---------------|
-| [Knights Templar - Grand Priory (Corp](/setts/s8/b2r4w2b60r60k2r4w2-b1c0070-k101010-ra00000-wfcfcfc/)|
-|![Knights Templar - Grand Priory (Corp example sett](/setts/s8/b2r4w2b60r60k2r4w2-b1c0070-k101010-ra00000-wfcfcfc/sett.png)|
+| [Knights Templar - Grand Priory (Corp](/setts/s8/b1r2w1b30r30k1r2w1~b1c0070-k101010-ra00000-wfcfcfc~x2/)|
+|![Knights Templar - Grand Priory (Corp example sett](/setts/s8/b1r2w1b30r30k1r2w1~b1c0070-k101010-ra00000-wfcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ GKGKGKRKGY
 
 | Tartans |
 |---------------|
-| [Fitzsimmons](/setts/s10/g6k4ga36k8g30k8r12k8g4y6-g886c34-ga003820-k101010-r8c5818-ybcac6c/)|
-|![Fitzsimmons example sett](/setts/s10/g6k4ga36k8g30k8r12k8g4y6-g886c34-ga003820-k101010-r8c5818-ybcac6c/sett.png)|
+| [Fitzsimmons](/setts/s10/g3k2ga18k4g15k4r6k4g2y3~g886c34-ga003820-k101010-r8c5818-ybcac6c~x2/)|
+|![Fitzsimmons example sett](/setts/s10/g3k2ga18k4g15k4r6k4g2y3~g886c34-ga003820-k101010-r8c5818-ybcac6c~x2/sett.png)|

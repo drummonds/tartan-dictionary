@@ -6,7 +6,7 @@ GBGKYKWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/tartan.png)
+![Woven sample](/setts/s8/g16b4g8k2y1k6w8r10~b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGKYKWR
 
 | Tartans |
 |---------------|
-| [Red Deer, City of](/setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/)|
-|![Red Deer, City of example sett](/setts/s8/g32b8g16k4y2k12w16r20-b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|
+| [Red Deer, City of](/setts/s8/g16b4g8k2y1k6w8r10~b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00~x2/)|
+|![Red Deer, City of example sett](/setts/s8/g16b4g8k2y1k6w8r10~b00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00~x2/sett.png)|

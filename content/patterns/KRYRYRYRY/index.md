@@ -16,5 +16,5 @@ KRYRYRYRY
 
 | Tartans |
 |---------------|
-| [Fueglistal (Aargau) (Personal)](/setts/s9/k6r12y26ra4y4ra64y2ra4y4-k101010-rc27c05-rac50000-y9da39d/)|
-|![Fueglistal (Aargau) (Personal) example sett](/setts/s9/k6r12y26ra4y4ra64y2ra4y4-k101010-rc27c05-rac50000-y9da39d/sett.png)|
+| [Fueglistal (Aargau) (Personal)](/setts/s9/k3r6y13ra2y2ra32y1ra2y2~k101010-rc27c05-rac50000-y9da39d~x2/)|
+|![Fueglistal (Aargau) (Personal) example sett](/setts/s9/k3r6y13ra2y2ra32y1ra2y2~k101010-rc27c05-rac50000-y9da39d~x2/sett.png)|

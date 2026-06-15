@@ -16,5 +16,5 @@ BWBRKGRGBG
 
 | Tartans |
 |---------------|
-| [Scotland the Brave (Fashion)](/setts/s10/b12w2b80r2k24g24r12g4ba4g8-b202060-ba780078-g285800-k101010-rb468ac-wf8f8f8/)|
-|![Scotland the Brave (Fashion) example sett](/setts/s10/b12w2b80r2k24g24r12g4ba4g8-b202060-ba780078-g285800-k101010-rb468ac-wf8f8f8/sett.png)|
+| [Scotland the Brave (Fashion)](/setts/s10/b6w1b40r1k12g12r6g2ba2g4~b202060-ba780078-g285800-k101010-rb468ac-wf8f8f8~x2/)|
+|![Scotland the Brave (Fashion) example sett](/setts/s10/b6w1b40r1k12g12r6g2ba2g4~b202060-ba780078-g285800-k101010-rb468ac-wf8f8f8~x2/sett.png)|

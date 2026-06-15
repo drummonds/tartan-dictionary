@@ -16,5 +16,5 @@ GYBYBYGYBY
 
 | Tartans |
 |---------------|
-| [Unidentified Printing #2](/setts/s10/g12y4b12y4b12y4g12y4b12y4-b00008c-g004c00-yc89800/)|
-|![Unidentified Printing #2 example sett](/setts/s10/g12y4b12y4b12y4g12y4b12y4-b00008c-g004c00-yc89800/sett.png)|
+| [Unidentified Printing #2](/setts/s10/g3y1b3y1b3y1g3y1b3y1~b00008c-g004c00-yc89800~x4/)|
+|![Unidentified Printing #2 example sett](/setts/s10/g3y1b3y1b3y1g3y1b3y1~b00008c-g004c00-yc89800~x4/sett.png)|

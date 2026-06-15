@@ -16,5 +16,5 @@ BKRGRKRKRKRKRKRKRKRKRKRKRKRKRKRGRK
 
 | Tartans |
 |---------------|
-| [Hebrides #3](/setts/s34/k20r4g4r4k20r4k20r2k4r2k20r2k4r2k20r2k4r2k20r2k4r2k20r2k4r2k20r4k20r4g4r4k20b4-b1860a8-g00643c-k101010-rc80000/)|
-|![Hebrides #3 example sett](/setts/s34/k20r4g4r4k20r4k20r2k4r2k20r2k4r2k20r2k4r2k20r2k4r2k20r2k4r2k20r4k20r4g4r4k20b4-b1860a8-g00643c-k101010-rc80000/sett.png)|
+| [Hebrides #3](/setts/s34/k10r2g2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2g2r2k10b2~b1860a8-g00643c-k101010-rc80000~x2/)|
+|![Hebrides #3 example sett](/setts/s34/k10r2g2r2k10r2k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r1k2r1k10r2k10r2g2r2k10b2~b1860a8-g00643c-k101010-rc80000~x2/sett.png)|

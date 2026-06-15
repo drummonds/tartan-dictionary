@@ -16,5 +16,5 @@ BGRGRGRYRWRKGKRW
 
 | Tartans |
 |---------------|
-| [MacInnes (MacGregor Hastie) (Clan)](/setts/s16/w8r8k4g16k4r4w8r4y4r24g4r4g4r4g24b4-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/)|
-|![MacInnes (MacGregor Hastie) (Clan) example sett](/setts/s16/w8r8k4g16k4r4w8r4y4r24g4r4g4r4g24b4-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [MacInnes (MacGregor Hastie) (Clan)](/setts/s16/w2r2k1g4k1r1w2r1y1r6g1r1g1r1g6b1~b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000~x4/)|
+|![MacInnes (MacGregor Hastie) (Clan) example sett](/setts/s16/w2r2k1g4k1r1w2r1y1r6g1r1g1r1g6b1~b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000~x4/sett.png)|

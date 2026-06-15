@@ -16,5 +16,5 @@ GRGRGBYGGBW
 
 | Tartans |
 |---------------|
-| [Porcupine](/setts/s11/g2r2g6ra2g2b16y14ga2g2ba2w2-b401000-ba5480b0-g808080-ga008000-rc00000-ra906030-we0e0e0-yf0c000/)|
-|![Porcupine example sett](/setts/s11/g2r2g6ra2g2b16y14ga2g2ba2w2-b401000-ba5480b0-g808080-ga008000-rc00000-ra906030-we0e0e0-yf0c000/sett.png)|
+| [Porcupine](/setts/s11/g1r1g3ra1g1b8y7ga1g1ba1w1~b401000-ba5480b0-g808080-ga008000-rc00000-ra906030-we0e0e0-yf0c000~x2/)|
+|![Porcupine example sett](/setts/s11/g1r1g3ra1g1b8y7ga1g1ba1w1~b401000-ba5480b0-g808080-ga008000-rc00000-ra906030-we0e0e0-yf0c000~x2/sett.png)|

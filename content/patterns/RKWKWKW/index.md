@@ -6,7 +6,7 @@ RKWKWKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w36k8w36k95w4k4r6-k101010-rc80000-wfcfcdc/tartan.png)
+![Woven sample](/setts/s7/w36k8w36k95w4k4r6~k101010-rc80000-wfcfcdc/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKWKWKW
 
 | Tartans |
 |---------------|
-| [Gretna Football Club (Corporate)](/setts/s7/w36k8w36k95w4k4r6-k101010-rc80000-wfcfcdc/)|
-|![Gretna Football Club (Corporate) example sett](/setts/s7/w36k8w36k95w4k4r6-k101010-rc80000-wfcfcdc/sett.png)|
+| [Gretna Football Club (Corporate)](/setts/s7/w36k8w36k95w4k4r6~k101010-rc80000-wfcfcdc/)|
+|![Gretna Football Club (Corporate) example sett](/setts/s7/w36k8w36k95w4k4r6~k101010-rc80000-wfcfcdc/sett.png)|

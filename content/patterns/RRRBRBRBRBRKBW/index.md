@@ -16,5 +16,5 @@ RRRBRBRBRBRKBW
 
 | Tartans |
 |---------------|
-| [New Jersey](/setts/s14/r8ra4r48b4r2b4r8b4r2b4r16k2b32w8-b2c4084-k101010-rbe7832-ra960000-we0e0e0/)|
-|![New Jersey example sett](/setts/s14/r8ra4r48b4r2b4r8b4r2b4r16k2b32w8-b2c4084-k101010-rbe7832-ra960000-we0e0e0/sett.png)|
+| [New Jersey](/setts/s14/r4ra2r24b2r1b2r4b2r1b2r8k1b16w4~b2c4084-k101010-rbe7832-ra960000-we0e0e0~x2/)|
+|![New Jersey example sett](/setts/s14/r4ra2r24b2r1b2r4b2r1b2r8k1b16w4~b2c4084-k101010-rbe7832-ra960000-we0e0e0~x2/sett.png)|

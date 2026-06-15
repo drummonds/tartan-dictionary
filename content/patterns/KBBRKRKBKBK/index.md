@@ -16,5 +16,5 @@ KBBRKRKBKBK
 
 | Tartans |
 |---------------|
-| [Moggach (Strathspey)](/setts/s11/k8b8k8b36k18r8k18ra2b36ba4k6-b5c5c5c-ba003c64-k101010-rc80000-ra888888/)|
-|![Moggach (Strathspey) example sett](/setts/s11/k8b8k8b36k18r8k18ra2b36ba4k6-b5c5c5c-ba003c64-k101010-rc80000-ra888888/sett.png)|
+| [Moggach (Strathspey)](/setts/s11/k4b4k4b18k9r4k9ra1b18ba2k3~b5c5c5c-ba003c64-k101010-rc80000-ra888888~x2/)|
+|![Moggach (Strathspey) example sett](/setts/s11/k4b4k4b18k9r4k9ra1b18ba2k3~b5c5c5c-ba003c64-k101010-rc80000-ra888888~x2/sett.png)|

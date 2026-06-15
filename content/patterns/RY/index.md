@@ -6,7 +6,7 @@ RY
 
 It is a 2 stripes tartan.
 
-![Woven sample](/setts/s2/r180y20-r8c0000-yb0b0b0/tartan.png)
+![Woven sample](/setts/s2/r9y1~r8c0000-yb0b0b0~x20/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RY
 
 | Tartans |
 |---------------|
-| [Roddy "Rowdy" Piper (Personal)](/setts/s2/r180y20-r8c0000-yb0b0b0/)|
-|![Roddy "Rowdy" Piper (Personal) example sett](/setts/s2/r180y20-r8c0000-yb0b0b0/sett.png)|
+| [Roddy "Rowdy" Piper (Personal)](/setts/s2/r9y1~r8c0000-yb0b0b0~x20/)|
+|![Roddy "Rowdy" Piper (Personal) example sett](/setts/s2/r9y1~r8c0000-yb0b0b0~x20/sett.png)|

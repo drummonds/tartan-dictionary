@@ -16,5 +16,5 @@ RYBYKYGKWKGYKYBY
 
 | Tartans |
 |---------------|
-| [Stirling](/setts/s16/r4y4b40y4k26y4g40k4w8k4g40y4k26y4b40y4-b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0/)|
-|![Stirling example sett](/setts/s16/r4y4b40y4k26y4g40k4w8k4g40y4k26y4b40y4-b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0/sett.png)|
+| [Stirling](/setts/s16/r2y2b20y2k13y2g20k2w4k2g20y2k13y2b20y2~b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0~x2/)|
+|![Stirling example sett](/setts/s16/r2y2b20y2k13y2g20k2w4k2g20y2k13y2b20y2~b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0~x2/sett.png)|

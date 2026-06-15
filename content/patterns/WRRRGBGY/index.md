@@ -6,7 +6,7 @@ WRRRGBGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s8/w3r1ra29r16g23b3g3y2~b304080-g008000-r806050-rac00000-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRRRGBGY
 
 | Tartans |
 |---------------|
-| [Etienne, Paschal Tache Sir...](/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/)|
-|![Etienne, Paschal Tache Sir... example sett](/setts/s8/w6r2ra58r32g46b6g6y4-b304080-g008000-r806050-rac00000-we0e0e0-yf0c000/sett.png)|
+| [Etienne, Paschal Tache Sir...](/setts/s8/w3r1ra29r16g23b3g3y2~b304080-g008000-r806050-rac00000-we0e0e0-yf0c000~x2/)|
+|![Etienne, Paschal Tache Sir... example sett](/setts/s8/w3r1ra29r16g23b3g3y2~b304080-g008000-r806050-rac00000-we0e0e0-yf0c000~x2/sett.png)|

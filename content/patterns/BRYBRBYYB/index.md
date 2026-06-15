@@ -16,5 +16,5 @@ BRYBRBYYB
 
 | Tartans |
 |---------------|
-| [Toorak Chapler](/setts/s9/b18r6y6b6r18b18y18ya36ba6-b3d3134-ba72393f-ra58065-yafb8bb-yaf5d38b/)|
-|![Toorak Chapler example sett](/setts/s9/b18r6y6b6r18b18y18ya36ba6-b3d3134-ba72393f-ra58065-yafb8bb-yaf5d38b/sett.png)|
+| [Toorak Chapler](/setts/s9/b3r1y1b1r3b3y3ya6ba1~b3d3134-ba72393f-ra58065-yafb8bb-yaf5d38b~x6/)|
+|![Toorak Chapler example sett](/setts/s9/b3r1y1b1r3b3y3ya6ba1~b3d3134-ba72393f-ra58065-yafb8bb-yaf5d38b~x6/sett.png)|

@@ -16,5 +16,5 @@ KRKWKGKBRY
 
 | Tartans |
 |---------------|
-| [Twempy](/setts/s10/k2r8k2w6k2g14k4b32ra4y2-b2c2c80-g006818-k101010-r901c38-rac80000-wf8f8f8-ybc8c00/)|
-|![Twempy example sett](/setts/s10/k2r8k2w6k2g14k4b32ra4y2-b2c2c80-g006818-k101010-r901c38-rac80000-wf8f8f8-ybc8c00/sett.png)|
+| [Twempy](/setts/s10/k1r4k1w3k1g7k2b16ra2y1~b2c2c80-g006818-k101010-r901c38-rac80000-wf8f8f8-ybc8c00~x2/)|
+|![Twempy example sett](/setts/s10/k1r4k1w3k1g7k2b16ra2y1~b2c2c80-g006818-k101010-r901c38-rac80000-wf8f8f8-ybc8c00~x2/sett.png)|

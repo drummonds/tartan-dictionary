@@ -6,7 +6,7 @@ BYRRBKBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6y4r38ra8ba12k72ba4y6-b440044-ba780078-k101010-rc8002c-rab03000-ydc943c/tartan.png)
+![Woven sample](/setts/s8/b3y2r19ra4ba6k36ba2y3~b440044-ba780078-k101010-rc8002c-rab03000-ydc943c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRRBKBY
 
 | Tartans |
 |---------------|
-| [Hyland Evening (Personal)](/setts/s8/b6y4r38ra8ba12k72ba4y6-b440044-ba780078-k101010-rc8002c-rab03000-ydc943c/)|
-|![Hyland Evening (Personal) example sett](/setts/s8/b6y4r38ra8ba12k72ba4y6-b440044-ba780078-k101010-rc8002c-rab03000-ydc943c/sett.png)|
+| [Hyland Evening (Personal)](/setts/s8/b3y2r19ra4ba6k36ba2y3~b440044-ba780078-k101010-rc8002c-rab03000-ydc943c~x2/)|
+|![Hyland Evening (Personal) example sett](/setts/s8/b3y2r19ra4ba6k36ba2y3~b440044-ba780078-k101010-rc8002c-rab03000-ydc943c~x2/sett.png)|

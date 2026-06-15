@@ -16,5 +16,5 @@ RWRKYKYKYR
 
 | Tartans |
 |---------------|
-| [Motherwell F.C. Fir Park Dress (Spor](/setts/s10/r12w4r80k12y8k8y8k8y24ra12-k000000-rb40000-rac80000-wc8c8c8-yc89800/)|
-|![Motherwell F.C. Fir Park Dress (Spor example sett](/setts/s10/r12w4r80k12y8k8y8k8y24ra12-k000000-rb40000-rac80000-wc8c8c8-yc89800/sett.png)|
+| [Motherwell F.C. Fir Park Dress (Spor](/setts/s10/r3w1r20k3y2k2y2k2y6ra3~k000000-rb40000-rac80000-wc8c8c8-yc89800~x4/)|
+|![Motherwell F.C. Fir Park Dress (Spor example sett](/setts/s10/r3w1r20k3y2k2y2k2y6ra3~k000000-rb40000-rac80000-wc8c8c8-yc89800~x4/sett.png)|

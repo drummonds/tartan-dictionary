@@ -16,5 +16,5 @@ GGGGGGGGGGRGYG
 
 | Tartans |
 |---------------|
-| [New South Wales](/setts/s14/g12y4g12r4g56ga8g12ga4g12gb4g8gb4g8gb8-g006818-ga003820-gb408060-rc80000-yd09800/)|
-|![New South Wales example sett](/setts/s14/g12y4g12r4g56ga8g12ga4g12gb4g8gb4g8gb8-g006818-ga003820-gb408060-rc80000-yd09800/sett.png)|
+| [New South Wales](/setts/s14/g3y1g3r1g14ga2g3ga1g3gb1g2gb1g2gb2~g006818-ga003820-gb408060-rc80000-yd09800~x4/)|
+|![New South Wales example sett](/setts/s14/g3y1g3r1g14ga2g3ga1g3gb1g2gb1g2gb2~g006818-ga003820-gb408060-rc80000-yd09800~x4/sett.png)|

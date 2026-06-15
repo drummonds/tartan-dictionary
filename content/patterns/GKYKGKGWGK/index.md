@@ -16,5 +16,5 @@ GKYKGKGWGK
 
 | Tartans |
 |---------------|
-| [Smeaton Hunting (Name)](/setts/s10/k12g8w6g88k64g6k6y6k4g6-g006818-k101010-wc0c0c0-yd09800/)|
-|![Smeaton Hunting (Name) example sett](/setts/s10/k12g8w6g88k64g6k6y6k4g6-g006818-k101010-wc0c0c0-yd09800/sett.png)|
+| [Smeaton Hunting (Name)](/setts/s10/k6g4w3g44k32g3k3y3k2g3~g006818-k101010-wc0c0c0-yd09800~x2/)|
+|![Smeaton Hunting (Name) example sett](/setts/s10/k6g4w3g44k32g3k3y3k2g3~g006818-k101010-wc0c0c0-yd09800~x2/sett.png)|

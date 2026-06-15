@@ -16,5 +16,5 @@ GWGBRBGWGR
 
 | Tartans |
 |---------------|
-| [Hardie](/setts/s10/g18w4g48b74r6b74g48w4g18ra8-b202044-g003820-rc80000-rab468ac-we0e0e0/)|
-|![Hardie example sett](/setts/s10/g18w4g48b74r6b74g48w4g18ra8-b202044-g003820-rc80000-rab468ac-we0e0e0/sett.png)|
+| [Hardie](/setts/s10/g9w2g24b37r3b37g24w2g9ra4~b202044-g003820-rc80000-rab468ac-we0e0e0~x2/)|
+|![Hardie example sett](/setts/s10/g9w2g24b37r3b37g24w2g9ra4~b202044-g003820-rc80000-rab468ac-we0e0e0~x2/sett.png)|

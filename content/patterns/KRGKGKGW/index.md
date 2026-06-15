@@ -6,7 +6,7 @@ KRGKGKGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k40r2g6k16g4k4g40w4-g003820-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k20r1g3k8g2k2g20w2~g003820-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRGKGKGW
 
 | Tartans |
 |---------------|
-| [Scottish Chieftain (Universal)](/setts/s8/k40r2g6k16g4k4g40w4-g003820-k101010-rc80000-we0e0e0/)|
-|![Scottish Chieftain (Universal) example sett](/setts/s8/k40r2g6k16g4k4g40w4-g003820-k101010-rc80000-we0e0e0/sett.png)|
+| [Scottish Chieftain (Universal)](/setts/s8/k20r1g3k8g2k2g20w2~g003820-k101010-rc80000-we0e0e0~x2/)|
+|![Scottish Chieftain (Universal) example sett](/setts/s8/k20r1g3k8g2k2g20w2~g003820-k101010-rc80000-we0e0e0~x2/sett.png)|

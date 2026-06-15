@@ -6,7 +6,7 @@ GYGGBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g12y6g52ga20b60w6-b202020-g007c00-ga004c00-wc8c8c8-yc89800/tartan.png)
+![Woven sample](/setts/s6/g6y3g26ga10b30w3~b202020-g007c00-ga004c00-wc8c8c8-yc89800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGGBW
 
 | Tartans |
 |---------------|
-| [Wcwm 1716](/setts/s6/g12y6g52ga20b60w6-b202020-g007c00-ga004c00-wc8c8c8-yc89800/)|
-|![Wcwm 1716 example sett](/setts/s6/g12y6g52ga20b60w6-b202020-g007c00-ga004c00-wc8c8c8-yc89800/sett.png)|
+| [Wcwm 1716](/setts/s6/g6y3g26ga10b30w3~b202020-g007c00-ga004c00-wc8c8c8-yc89800~x2/)|
+|![Wcwm 1716 example sett](/setts/s6/g6y3g26ga10b30w3~b202020-g007c00-ga004c00-wc8c8c8-yc89800~x2/sett.png)|

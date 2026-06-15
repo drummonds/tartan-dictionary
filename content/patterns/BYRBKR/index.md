@@ -6,7 +6,7 @@ BYRBKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b120y22r10ba10k2ra8-b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093/tartan.png)
+![Woven sample](/setts/s6/b60y11r5ba5k1ra4~b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRBKR
 
 | Tartans |
 |---------------|
-| [Christie (London) Hunting](/setts/s6/b120y22r10ba10k2ra8-b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093/)|
-|![Christie (London) Hunting example sett](/setts/s6/b120y22r10ba10k2ra8-b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093/sett.png)|
+| [Christie (London) Hunting](/setts/s6/b60y11r5ba5k1ra4~b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093~x2/)|
+|![Christie (London) Hunting example sett](/setts/s6/b60y11r5ba5k1ra4~b1e2925-ba47426a-k101010-r8b2316-raa37a28-ya2a093~x2/sett.png)|

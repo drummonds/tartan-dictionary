@@ -6,7 +6,7 @@ WKYRYKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w6k10y6r6y64k4y6-k101010-r880000-we0e0e0-yb0840c/tartan.png)
+![Woven sample](/setts/s7/w3k5y3r3y32k2y3~k101010-r880000-we0e0e0-yb0840c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKYRYKY
 
 | Tartans |
 |---------------|
-| [Bro-Dreger](/setts/s7/w6k10y6r6y64k4y6-k101010-r880000-we0e0e0-yb0840c/)|
-|![Bro-Dreger example sett](/setts/s7/w6k10y6r6y64k4y6-k101010-r880000-we0e0e0-yb0840c/sett.png)|
+| [Bro-Dreger](/setts/s7/w3k5y3r3y32k2y3~k101010-r880000-we0e0e0-yb0840c~x2/)|
+|![Bro-Dreger example sett](/setts/s7/w3k5y3r3y32k2y3~k101010-r880000-we0e0e0-yb0840c~x2/sett.png)|

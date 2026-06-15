@@ -16,5 +16,5 @@ RWRWRKRWWY
 
 | Tartans |
 |---------------|
-| [Stirling & Bannockburn Dress (Dist)](/setts/s10/r10w56r10wa6r10k42r10wa56w6y10-k101010-rc80000-we0e0e0-wa98c8e8-ye8c000/)|
-|![Stirling & Bannockburn Dress (Dist) example sett](/setts/s10/r10w56r10wa6r10k42r10wa56w6y10-k101010-rc80000-we0e0e0-wa98c8e8-ye8c000/sett.png)|
+| [Stirling & Bannockburn Dress (Dist)](/setts/s10/r5w28r5wa3r5k21r5wa28w3y5~k101010-rc80000-we0e0e0-wa98c8e8-ye8c000~x2/)|
+|![Stirling & Bannockburn Dress (Dist) example sett](/setts/s10/r5w28r5wa3r5k21r5wa28w3y5~k101010-rc80000-we0e0e0-wa98c8e8-ye8c000~x2/sett.png)|

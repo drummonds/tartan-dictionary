@@ -16,5 +16,5 @@ GRWGRBKYKBRGWR
 
 | Tartans |
 |---------------|
-| [Stirling University #2](/setts/s14/g88r12w4g8r12b64k12y8k12b64r12g8w4r12-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Stirling University #2 example sett](/setts/s14/g88r12w4g8r12b64k12y8k12b64r12g8w4r12-b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Stirling University #2](/setts/s14/g22r3w1g2r3b16k3y2k3b16r3g2w1r3~b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/)|
+|![Stirling University #2 example sett](/setts/s14/g22r3w1g2r3b16k3y2k3b16r3g2w1r3~b5c8ca8-g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/sett.png)|

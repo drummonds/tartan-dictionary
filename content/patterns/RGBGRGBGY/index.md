@@ -16,5 +16,5 @@ RGBGRGBGY
 
 | Tartans |
 |---------------|
-| [Cruikshank (Name)](/setts/s9/r8g30b16g8r96g8b16g8y6-b2c2c80-g006818-rc80000-yfccc00/)|
-|![Cruikshank (Name) example sett](/setts/s9/r8g30b16g8r96g8b16g8y6-b2c2c80-g006818-rc80000-yfccc00/sett.png)|
+| [Cruikshank (Name)](/setts/s9/r4g15b8g4r48g4b8g4y3~b2c2c80-g006818-rc80000-yfccc00~x2/)|
+|![Cruikshank (Name) example sett](/setts/s9/r4g15b8g4r48g4b8g4y3~b2c2c80-g006818-rc80000-yfccc00~x2/sett.png)|

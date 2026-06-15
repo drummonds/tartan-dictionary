@@ -6,7 +6,7 @@ GRGRKYBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g10r4g4r18k18y18b60w10-b2c2c80-g006818-k101010-r9c68a4-wf8f8f8-ya0a0a0/tartan.png)
+![Woven sample](/setts/s8/g5r2g2r9k9y9b30w5~b2c2c80-g006818-k101010-r9c68a4-wf8f8f8-ya0a0a0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRKYBW
 
 | Tartans |
 |---------------|
-| [Alexander of Menstry](/setts/s8/g10r4g4r18k18y18b60w10-b2c2c80-g006818-k101010-r9c68a4-wf8f8f8-ya0a0a0/)|
-|![Alexander of Menstry example sett](/setts/s8/g10r4g4r18k18y18b60w10-b2c2c80-g006818-k101010-r9c68a4-wf8f8f8-ya0a0a0/sett.png)|
+| [Alexander of Menstry](/setts/s8/g5r2g2r9k9y9b30w5~b2c2c80-g006818-k101010-r9c68a4-wf8f8f8-ya0a0a0~x2/)|
+|![Alexander of Menstry example sett](/setts/s8/g5r2g2r9k9y9b30w5~b2c2c80-g006818-k101010-r9c68a4-wf8f8f8-ya0a0a0~x2/sett.png)|

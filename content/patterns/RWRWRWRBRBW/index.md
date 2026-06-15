@@ -16,5 +16,5 @@ RWRWRWRBRBW
 
 | Tartans |
 |---------------|
-| [Ben Vorlich (Fashion)](/setts/s11/r136w6r6w16r6w6r48b32ra6b40w6-b1c1c1c-r888888-ra70000c-we0e0e0/)|
-|![Ben Vorlich (Fashion) example sett](/setts/s11/r136w6r6w16r6w6r48b32ra6b40w6-b1c1c1c-r888888-ra70000c-we0e0e0/sett.png)|
+| [Ben Vorlich (Fashion)](/setts/s11/r68w3r3w8r3w3r24b16ra3b20w3~b1c1c1c-r888888-ra70000c-we0e0e0~x2/)|
+|![Ben Vorlich (Fashion) example sett](/setts/s11/r68w3r3w8r3w3r24b16ra3b20w3~b1c1c1c-r888888-ra70000c-we0e0e0~x2/sett.png)|

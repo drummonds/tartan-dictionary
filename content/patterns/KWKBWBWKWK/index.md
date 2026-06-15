@@ -16,5 +16,5 @@ KWKBWBWKWK
 
 | Tartans |
 |---------------|
-| [Fraser, Arisaid](/setts/s10/k28w4k6w4b20w64b20k20w4k6-b600030-k000030-we0e0e0/)|
-|![Fraser, Arisaid example sett](/setts/s10/k28w4k6w4b20w64b20k20w4k6-b600030-k000030-we0e0e0/sett.png)|
+| [Fraser, Arisaid](/setts/s10/k14w2k3w2b10w32b10k10w2k3~b600030-k000030-we0e0e0~x2/)|
+|![Fraser, Arisaid example sett](/setts/s10/k14w2k3w2b10w32b10k10w2k3~b600030-k000030-we0e0e0~x2/sett.png)|

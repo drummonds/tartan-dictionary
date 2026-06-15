@@ -16,5 +16,5 @@ GRGKYKGBW
 
 | Tartans |
 |---------------|
-| [Lees-McRae College](/setts/s9/g8r2g24k2y8k2g6b10w4-b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000/)|
-|![Lees-McRae College example sett](/setts/s9/g8r2g24k2y8k2g6b10w4-b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000/sett.png)|
+| [Lees-McRae College](/setts/s9/g4r1g12k1y4k1g3b5w2~b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000~x2/)|
+|![Lees-McRae College example sett](/setts/s9/g4r1g12k1y4k1g3b5w2~b1474b4-g003820-k101010-r880000-wfcfcfc-yd8b000~x2/sett.png)|

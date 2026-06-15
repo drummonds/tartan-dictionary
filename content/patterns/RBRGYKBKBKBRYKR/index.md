@@ -16,5 +16,5 @@ RBRGYKBKBKBRYKR
 
 | Tartans |
 |---------------|
-| [MacPherson](/setts/s15/r24b4r24g16y2k12b8k2b2k2b8r24ya2k2r2-b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacPherson example sett](/setts/s15/r24b4r24g16y2k12b8k2b2k2b8r24ya2k2r2-b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [MacPherson](/setts/s15/r12b2r12g8y1k6b4k1b1k1b4r12ya1k1r1~b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![MacPherson example sett](/setts/s15/r12b2r12g8y1k6b4k1b1k1b4r12ya1k1r1~b4367ae-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|

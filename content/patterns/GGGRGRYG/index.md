@@ -6,7 +6,7 @@ GGGRGRYG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g48ga4g10r28ga4r10y34g4-g604000-ga289c18-re86000-ydc943c/tartan.png)
+![Woven sample](/setts/s8/g24ga2g5r14ga2r5y17g2~g604000-ga289c18-re86000-ydc943c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGRGRYG
 
 | Tartans |
 |---------------|
-| [Loch Rannoch #2](/setts/s8/g48ga4g10r28ga4r10y34g4-g604000-ga289c18-re86000-ydc943c/)|
-|![Loch Rannoch #2 example sett](/setts/s8/g48ga4g10r28ga4r10y34g4-g604000-ga289c18-re86000-ydc943c/sett.png)|
+| [Loch Rannoch #2](/setts/s8/g24ga2g5r14ga2r5y17g2~g604000-ga289c18-re86000-ydc943c~x2/)|
+|![Loch Rannoch #2 example sett](/setts/s8/g24ga2g5r14ga2r5y17g2~g604000-ga289c18-re86000-ydc943c~x2/sett.png)|

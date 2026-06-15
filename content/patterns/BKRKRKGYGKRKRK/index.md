@@ -16,5 +16,5 @@ BKRKRKGYGKRKRK
 
 | Tartans |
 |---------------|
-| [Sinclair-Brown (Personal)](/setts/s14/b128k22r4k8r4k8g64y8g64k8r4k8r4k22-b2c2c80-g006818-k101010-rc80000-ybc8c00/)|
-|![Sinclair-Brown (Personal) example sett](/setts/s14/b128k22r4k8r4k8g64y8g64k8r4k8r4k22-b2c2c80-g006818-k101010-rc80000-ybc8c00/sett.png)|
+| [Sinclair-Brown (Personal)](/setts/s14/b64k11r2k4r2k4g32y4g32k4r2k4r2k11~b2c2c80-g006818-k101010-rc80000-ybc8c00~x2/)|
+|![Sinclair-Brown (Personal) example sett](/setts/s14/b64k11r2k4r2k4g32y4g32k4r2k4r2k11~b2c2c80-g006818-k101010-rc80000-ybc8c00~x2/sett.png)|

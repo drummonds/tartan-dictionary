@@ -16,5 +16,5 @@ GKBGBGBGBKYKYKGKG
 
 | Tartans |
 |---------------|
-| [Fermanagh, County](/setts/s17/g6k4g4k4y4k4y4k26b8g6b6g6b6g6b8k40ga6-b1c0070-g003820-ga604000-k000000-ydc943c/)|
-|![Fermanagh, County example sett](/setts/s17/g6k4g4k4y4k4y4k26b8g6b6g6b6g6b8k40ga6-b1c0070-g003820-ga604000-k000000-ydc943c/sett.png)|
+| [Fermanagh, County](/setts/s17/g3k2g2k2y2k2y2k13b4g3b3g3b3g3b4k20ga3~b1c0070-g003820-ga604000-k000000-ydc943c~x2/)|
+|![Fermanagh, County example sett](/setts/s17/g3k2g2k2y2k2y2k13b4g3b3g3b3g3b4k20ga3~b1c0070-g003820-ga604000-k000000-ydc943c~x2/sett.png)|

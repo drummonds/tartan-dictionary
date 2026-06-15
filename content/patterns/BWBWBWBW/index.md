@@ -6,7 +6,7 @@ BWBWBWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b64w8b4w8b8w4b2w12-b003c64-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b32w4b2w4b4w2b1w6~b003c64-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWBWBW
 
 | Tartans |
 |---------------|
-| [Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b64w8b4w8b8w4b2w12-b003c64-we0e0e0/)|
-|![Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b64w8b4w8b8w4b2w12-b003c64-we0e0e0/sett.png)|
+| [Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b32w4b2w4b4w2b1w6~b003c64-we0e0e0~x2/)|
+|![Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b32w4b2w4b4w2b1w6~b003c64-we0e0e0~x2/sett.png)|

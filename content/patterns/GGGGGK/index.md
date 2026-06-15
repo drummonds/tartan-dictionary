@@ -6,7 +6,7 @@ GGGGGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8ga36gb12ga12gb48k6-g5c6428-ga003820-gb285800-k000000/tartan.png)
+![Woven sample](/setts/s6/g4ga18gb6ga6gb24k3~g5c6428-ga003820-gb285800-k000000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGGGK
 
 | Tartans |
 |---------------|
-| [Park Estate](/setts/s6/g8ga36gb12ga12gb48k6-g5c6428-ga003820-gb285800-k000000/)|
-|![Park Estate example sett](/setts/s6/g8ga36gb12ga12gb48k6-g5c6428-ga003820-gb285800-k000000/sett.png)|
+| [Park Estate](/setts/s6/g4ga18gb6ga6gb24k3~g5c6428-ga003820-gb285800-k000000~x2/)|
+|![Park Estate example sett](/setts/s6/g4ga18gb6ga6gb24k3~g5c6428-ga003820-gb285800-k000000~x2/sett.png)|

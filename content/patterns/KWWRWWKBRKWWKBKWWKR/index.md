@@ -16,7 +16,7 @@ KWWRWWKBRKWWKBKWWKR
 
 | Tartans |
 |---------------|
-| [JCM Customs](/setts/s19/k6w2wa2r10wa2w2k2b2r2k2w2wa2k2b8k2wa2w8k80r6-b141e46-k101010-rc80000-wffffff-waf8f4d0/)|
-|![JCM Customs example sett](/setts/s19/k6w2wa2r10wa2w2k2b2r2k2w2wa2k2b8k2wa2w8k80r6-b141e46-k101010-rc80000-wffffff-waf8f4d0/sett.png)|
-| [J.C.M. Customs](/setts/s19/k6w2wa2r10wa2w2k2b2r2k2wa2w2k2b8k2wa2w8k80r6-b2c2c80-k101010-rc80000-wfcfcfc-wac0c0c0/)|
-|![J.C.M. Customs example sett](/setts/s19/k6w2wa2r10wa2w2k2b2r2k2wa2w2k2b8k2wa2w8k80r6-b2c2c80-k101010-rc80000-wfcfcfc-wac0c0c0/sett.png)|
+| [JCM Customs](/setts/s19/k3w1wa1r5wa1w1k1b1r1k1w1wa1k1b4k1wa1w4k40r3~b141e46-k101010-rc80000-wffffff-waf8f4d0~x2/)|
+|![JCM Customs example sett](/setts/s19/k3w1wa1r5wa1w1k1b1r1k1w1wa1k1b4k1wa1w4k40r3~b141e46-k101010-rc80000-wffffff-waf8f4d0~x2/sett.png)|
+| [J.C.M. Customs](/setts/s19/k3w1wa1r5wa1w1k1b1r1k1wa1w1k1b4k1wa1w4k40r3~b2c2c80-k101010-rc80000-wfcfcfc-wac0c0c0~x2/)|
+|![J.C.M. Customs example sett](/setts/s19/k3w1wa1r5wa1w1k1b1r1k1wa1w1k1b4k1wa1w4k40r3~b2c2c80-k101010-rc80000-wfcfcfc-wac0c0c0~x2/sett.png)|

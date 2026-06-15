@@ -16,5 +16,5 @@ BKBKBKGKBKGKBKB
 
 | Tartans |
 |---------------|
-| [Rogers (Personal)](/setts/s15/b32k4b8k4b8k24g32k4ba8k4g32k24b32k4b8-b202060-ba5c8ca8-g003820-k101010/)|
-|![Rogers (Personal) example sett](/setts/s15/b32k4b8k4b8k24g32k4ba8k4g32k24b32k4b8-b202060-ba5c8ca8-g003820-k101010/sett.png)|
+| [Rogers (Personal)](/setts/s15/b8k1b2k1b2k6g8k1ba2k1g8k6b8k1b2~b202060-ba5c8ca8-g003820-k101010~x4/)|
+|![Rogers (Personal) example sett](/setts/s15/b8k1b2k1b2k6g8k1ba2k1g8k6b8k1b2~b202060-ba5c8ca8-g003820-k101010~x4/sett.png)|

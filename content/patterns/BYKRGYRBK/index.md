@@ -16,5 +16,5 @@ BYKRGYRBK
 
 | Tartans |
 |---------------|
-| [Brighton Mac Dermott (Fashion)](/setts/s9/b94y2k54r8g10y2r16ba2k2-b5c5c5c-ba1474b4-g003820-k00002c-r888888-ydc943c/)|
-|![Brighton Mac Dermott (Fashion) example sett](/setts/s9/b94y2k54r8g10y2r16ba2k2-b5c5c5c-ba1474b4-g003820-k00002c-r888888-ydc943c/sett.png)|
+| [Brighton Mac Dermott (Fashion)](/setts/s9/b47y1k27r4g5y1r8ba1k1~b5c5c5c-ba1474b4-g003820-k00002c-r888888-ydc943c~x2/)|
+|![Brighton Mac Dermott (Fashion) example sett](/setts/s9/b47y1k27r4g5y1r8ba1k1~b5c5c5c-ba1474b4-g003820-k00002c-r888888-ydc943c~x2/sett.png)|

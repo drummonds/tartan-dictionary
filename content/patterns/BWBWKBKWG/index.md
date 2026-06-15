@@ -16,5 +16,5 @@ BWBWKBKWG
 
 | Tartans |
 |---------------|
-| [Queen Margaret University](/setts/s9/b8w6b34wa20k2ba10k2wa12g6-b2c4084-ba5a008c-g005020-k101010-we0e0e0-wac0c0c0/)|
-|![Queen Margaret University example sett](/setts/s9/b8w6b34wa20k2ba10k2wa12g6-b2c4084-ba5a008c-g005020-k101010-we0e0e0-wac0c0c0/sett.png)|
+| [Queen Margaret University](/setts/s9/b4w3b17wa10k1ba5k1wa6g3~b2c4084-ba5a008c-g005020-k101010-we0e0e0-wac0c0c0~x2/)|
+|![Queen Margaret University example sett](/setts/s9/b4w3b17wa10k1ba5k1wa6g3~b2c4084-ba5a008c-g005020-k101010-we0e0e0-wac0c0c0~x2/sett.png)|

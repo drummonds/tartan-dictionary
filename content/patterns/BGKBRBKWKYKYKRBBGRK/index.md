@@ -16,5 +16,5 @@ BGKBRBKWKYKYKRBBGRK
 
 | Tartans |
 |---------------|
-| [Anderson of Ardbrake](/setts/s19/k26r4g18b10ba6r4k8y4k4y4k6w8k6b4r44ba2k6g8ba4-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Anderson of Ardbrake example sett](/setts/s19/k26r4g18b10ba6r4k8y4k4y4k6w8k6b4r44ba2k6g8ba4-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Anderson of Ardbrake](/setts/s19/k13r2g9b5ba3r2k4y2k2y2k3w4k3b2r22ba1k3g4ba2~b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Anderson of Ardbrake example sett](/setts/s19/k13r2g9b5ba3r2k4y2k2y2k3w4k3b2r22ba1k3g4ba2~b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ BRBRWBYB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b114r10b4r16w4b6y4b28-b440044-ra00048-wc8c8c8-yf8e38c/tartan.png)
+![Woven sample](/setts/s8/b57r5b2r8w2b3y2b14~b440044-ra00048-wc8c8c8-yf8e38c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRWBYB
 
 | Tartans |
 |---------------|
-| [Cairngorms National Park](/setts/s8/b114r10b4r16w4b6y4b28-b440044-ra00048-wc8c8c8-yf8e38c/)|
-|![Cairngorms National Park example sett](/setts/s8/b114r10b4r16w4b6y4b28-b440044-ra00048-wc8c8c8-yf8e38c/sett.png)|
+| [Cairngorms National Park](/setts/s8/b57r5b2r8w2b3y2b14~b440044-ra00048-wc8c8c8-yf8e38c~x2/)|
+|![Cairngorms National Park example sett](/setts/s8/b57r5b2r8w2b3y2b14~b440044-ra00048-wc8c8c8-yf8e38c~x2/sett.png)|

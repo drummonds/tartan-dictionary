@@ -16,5 +16,5 @@ BGWBBWBBWGBK
 
 | Tartans |
 |---------------|
-| [Weisfeld](/setts/s12/k12b6g56w2ba56b4w6b4ba56w2g56b6-b2c2c80-ba202060-g00643c-k101010-we0e0e0/)|
-|![Weisfeld example sett](/setts/s12/k12b6g56w2ba56b4w6b4ba56w2g56b6-b2c2c80-ba202060-g00643c-k101010-we0e0e0/sett.png)|
+| [Weisfeld](/setts/s12/k6b3g28w1ba28b2w3b2ba28w1g28b3~b2c2c80-ba202060-g00643c-k101010-we0e0e0~x2/)|
+|![Weisfeld example sett](/setts/s12/k6b3g28w1ba28b2w3b2ba28w1g28b3~b2c2c80-ba202060-g00643c-k101010-we0e0e0~x2/sett.png)|

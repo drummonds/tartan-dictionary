@@ -16,5 +16,5 @@ RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRW
 
 | Tartans |
 |---------------|
-| [Miss Peffer's Plaid Artifact Tartan Tartan Number: 1313. Earliest known date: pre 2003 First grey is N270. Shortened for display. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s33/r70w4r4w4r4w4r4w4r4w4r28w76k8r8w8r8k8w8k8r8w8r8k8w32k72r38w4r8w8r6w8r4w26-k101010-r888888-we0e0e0/)|
-|![Miss Peffer's Plaid Artifact Tartan Tartan Number: 1313. Earliest known date: pre 2003 First grey is N270. Shortened for display. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s33/r70w4r4w4r4w4r4w4r4w4r28w76k8r8w8r8k8w8k8r8w8r8k8w32k72r38w4r8w8r6w8r4w26-k101010-r888888-we0e0e0/sett.png)|
+| [Miss Peffer's Plaid Artifact Tartan Tartan Number: 1313. Earliest known date: pre 2003 First grey is N270. Shortened for display. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s33/r35w2r2w2r2w2r2w2r2w2r14w38k4r4w4r4k4w4k4r4w4r4k4w16k36r19w2r4w4r3w4r2w13~k101010-r888888-we0e0e0~x2/)|
+|![Miss Peffer's Plaid Artifact Tartan Tartan Number: 1313. Earliest known date: pre 2003 First grey is N270. Shortened for display. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s33/r35w2r2w2r2w2r2w2r2w2r14w38k4r4w4r4k4w4k4r4w4r4k4w16k36r19w2r4w4r3w4r2w13~k101010-r888888-we0e0e0~x2/sett.png)|

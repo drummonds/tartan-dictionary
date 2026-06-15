@@ -16,5 +16,5 @@ BKBKBRBKRBKB
 
 | Tartans |
 |---------------|
-| [Balmoral (Pendleton)](/setts/s12/b12k8b76r12k4b12r16b12k4b8k4b8-b5c5c5c-k101010-rc80000/)|
-|![Balmoral (Pendleton) example sett](/setts/s12/b12k8b76r12k4b12r16b12k4b8k4b8-b5c5c5c-k101010-rc80000/sett.png)|
+| [Balmoral (Pendleton)](/setts/s12/b3k2b19r3k1b3r4b3k1b2k1b2~b5c5c5c-k101010-rc80000~x4/)|
+|![Balmoral (Pendleton) example sett](/setts/s12/b3k2b19r3k1b3r4b3k1b2k1b2~b5c5c5c-k101010-rc80000~x4/sett.png)|

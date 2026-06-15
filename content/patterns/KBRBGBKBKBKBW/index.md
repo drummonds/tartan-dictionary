@@ -16,5 +16,5 @@ KBRBGBKBKBKBW
 
 | Tartans |
 |---------------|
-| [Spirit of Bannockburn (Fashion)](/setts/s13/k4b8r8b6g40b10k8b6k14b6k6ba70w4-b780078-ba2c2c80-g006818-k101010-rb468ac-wfcfcfc/)|
-|![Spirit of Bannockburn (Fashion) example sett](/setts/s13/k4b8r8b6g40b10k8b6k14b6k6ba70w4-b780078-ba2c2c80-g006818-k101010-rb468ac-wfcfcfc/sett.png)|
+| [Spirit of Bannockburn (Fashion)](/setts/s13/k2b4r4b3g20b5k4b3k7b3k3ba35w2~b780078-ba2c2c80-g006818-k101010-rb468ac-wfcfcfc~x2/)|
+|![Spirit of Bannockburn (Fashion) example sett](/setts/s13/k2b4r4b3g20b5k4b3k7b3k3ba35w2~b780078-ba2c2c80-g006818-k101010-rb468ac-wfcfcfc~x2/sett.png)|

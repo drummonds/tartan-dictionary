@@ -16,5 +16,5 @@ BGGGGYGGGGGBGY
 
 | Tartans |
 |---------------|
-| [State Seal of Vermont (Fashion)](/setts/s14/b8g2ga28gb16g8y6g8gb16g130gb10g6ba24g2y6-b2c2c80-ba1474b4-g003820-ga289c18-gb604000-ybc8c00/)|
-|![State Seal of Vermont (Fashion) example sett](/setts/s14/b8g2ga28gb16g8y6g8gb16g130gb10g6ba24g2y6-b2c2c80-ba1474b4-g003820-ga289c18-gb604000-ybc8c00/sett.png)|
+| [State Seal of Vermont (Fashion)](/setts/s14/b4g1ga14gb8g4y3g4gb8g65gb5g3ba12g1y3~b2c2c80-ba1474b4-g003820-ga289c18-gb604000-ybc8c00~x2/)|
+|![State Seal of Vermont (Fashion) example sett](/setts/s14/b4g1ga14gb8g4y3g4gb8g65gb5g3ba12g1y3~b2c2c80-ba1474b4-g003820-ga289c18-gb604000-ybc8c00~x2/sett.png)|

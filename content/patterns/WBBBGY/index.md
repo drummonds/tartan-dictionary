@@ -6,7 +6,7 @@ WBBBGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w6b34ba32bb4g34y4-b1c0070-ba441800-bb14283c-g003820-wc0c0c0-yd09800/tartan.png)
+![Woven sample](/setts/s6/w3b17ba16bb2g17y2~b1c0070-ba441800-bb14283c-g003820-wc0c0c0-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBBBGY
 
 | Tartans |
 |---------------|
-| [Ancient Atlantic (Fashion)](/setts/s6/w6b34ba32bb4g34y4-b1c0070-ba441800-bb14283c-g003820-wc0c0c0-yd09800/)|
-|![Ancient Atlantic (Fashion) example sett](/setts/s6/w6b34ba32bb4g34y4-b1c0070-ba441800-bb14283c-g003820-wc0c0c0-yd09800/sett.png)|
+| [Ancient Atlantic (Fashion)](/setts/s6/w3b17ba16bb2g17y2~b1c0070-ba441800-bb14283c-g003820-wc0c0c0-yd09800~x2/)|
+|![Ancient Atlantic (Fashion) example sett](/setts/s6/w3b17ba16bb2g17y2~b1c0070-ba441800-bb14283c-g003820-wc0c0c0-yd09800~x2/sett.png)|

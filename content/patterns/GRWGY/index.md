@@ -6,7 +6,7 @@ GRWGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g130r54w4g8y10-g808080-rc00000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s5/g65r27w2g4y5~g808080-rc00000-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWGY
 
 | Tartans |
 |---------------|
-| [Perry, Arisaid](/setts/s5/g130r54w4g8y10-g808080-rc00000-we0e0e0-yf0c000/)|
-|![Perry, Arisaid example sett](/setts/s5/g130r54w4g8y10-g808080-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Perry, Arisaid](/setts/s5/g65r27w2g4y5~g808080-rc00000-we0e0e0-yf0c000~x2/)|
+|![Perry, Arisaid example sett](/setts/s5/g65r27w2g4y5~g808080-rc00000-we0e0e0-yf0c000~x2/sett.png)|

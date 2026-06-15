@@ -6,7 +6,7 @@ GRBWYK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k66y8w6b66r4g4-b000064-g005020-k101010-rdc0000-we0e0e0-yfadc00/tartan.png)
+![Woven sample](/setts/s6/k33y4w3b33r2g2~b000064-g005020-k101010-rdc0000-we0e0e0-yfadc00~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRBWYK
 
 | Tartans |
 |---------------|
-| [Atlantic Police Academy](/setts/s6/k66y8w6b66r4g4-b000064-g005020-k101010-rdc0000-we0e0e0-yfadc00/)|
-|![Atlantic Police Academy example sett](/setts/s6/k66y8w6b66r4g4-b000064-g005020-k101010-rdc0000-we0e0e0-yfadc00/sett.png)|
-| [Atlantic Police Academy (Corporate)](/setts/s6/k66y8w6b66r4g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Atlantic Police Academy (Corporate) example sett](/setts/s6/k66y8w6b66r4g4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Atlantic Police Academy](/setts/s6/k33y4w3b33r2g2~b000064-g005020-k101010-rdc0000-we0e0e0-yfadc00~x2/)|
+|![Atlantic Police Academy example sett](/setts/s6/k33y4w3b33r2g2~b000064-g005020-k101010-rdc0000-we0e0e0-yfadc00~x2/sett.png)|
+| [Atlantic Police Academy (Corporate)](/setts/s6/k33y4w3b33r2g2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Atlantic Police Academy (Corporate) example sett](/setts/s6/k33y4w3b33r2g2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

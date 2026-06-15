@@ -16,5 +16,5 @@ BGBGBGBGBG
 
 | Tartans |
 |---------------|
-| [Inkster](/setts/s10/b12g4b4g6b20ga50b20g6b4g4-b1c0070-g604000-ga006818/)|
-|![Inkster example sett](/setts/s10/b12g4b4g6b20ga50b20g6b4g4-b1c0070-g604000-ga006818/sett.png)|
+| [Inkster](/setts/s10/b6g2b2g3b10ga25b10g3b2g2~b1c0070-g604000-ga006818~x2/)|
+|![Inkster example sett](/setts/s10/b6g2b2g3b10ga25b10g3b2g2~b1c0070-g604000-ga006818~x2/sett.png)|

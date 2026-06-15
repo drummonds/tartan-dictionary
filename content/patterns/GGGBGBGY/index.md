@@ -6,7 +6,7 @@ GGGBGBGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g56ga4g8b36ga46b4ga6y8-b202060-g604000-ga006818-ya08858/tartan.png)
+![Woven sample](/setts/s8/g28ga2g4b18ga23b2ga3y4~b202060-g604000-ga006818-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGBGBGY
 
 | Tartans |
 |---------------|
-| [Eastern Western Motor Group, Dalbraith](/setts/s8/g56ga4g8b36ga46b4ga6y8-b202060-g604000-ga006818-ya08858/)|
-|![Eastern Western Motor Group, Dalbraith example sett](/setts/s8/g56ga4g8b36ga46b4ga6y8-b202060-g604000-ga006818-ya08858/sett.png)|
+| [Eastern Western Motor Group, Dalbraith](/setts/s8/g28ga2g4b18ga23b2ga3y4~b202060-g604000-ga006818-ya08858~x2/)|
+|![Eastern Western Motor Group, Dalbraith example sett](/setts/s8/g28ga2g4b18ga23b2ga3y4~b202060-g604000-ga006818-ya08858~x2/sett.png)|

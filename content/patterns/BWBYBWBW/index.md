@@ -6,7 +6,7 @@ BWBYBWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b18w54b4y8b4w20b4wa6-b2c2c80-w98c8e8-wafcfcfc-yfccc00/tartan.png)
+![Woven sample](/setts/s8/b9w27b2y4b2w10b2wa3~b2c2c80-w98c8e8-wafcfcfc-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBYBWBW
 
 | Tartans |
 |---------------|
-| [Alaska Highlanders P & D (Corporate)](/setts/s8/b18w54b4y8b4w20b4wa6-b2c2c80-w98c8e8-wafcfcfc-yfccc00/)|
-|![Alaska Highlanders P & D (Corporate) example sett](/setts/s8/b18w54b4y8b4w20b4wa6-b2c2c80-w98c8e8-wafcfcfc-yfccc00/sett.png)|
+| [Alaska Highlanders P & D (Corporate)](/setts/s8/b9w27b2y4b2w10b2wa3~b2c2c80-w98c8e8-wafcfcfc-yfccc00~x2/)|
+|![Alaska Highlanders P & D (Corporate) example sett](/setts/s8/b9w27b2y4b2w10b2wa3~b2c2c80-w98c8e8-wafcfcfc-yfccc00~x2/sett.png)|

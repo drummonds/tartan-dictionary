@@ -6,7 +6,7 @@ BRKG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b4r4k48g4-b1c0070-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s4/b1r1k12g1~b1c0070-g006818-k101010-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRKG
 
 | Tartans |
 |---------------|
-| [MacNathair Sgianach](/setts/s4/b4r4k48g4-b1c0070-g006818-k101010-rc80000/)|
-|![MacNathair Sgianach example sett](/setts/s4/b4r4k48g4-b1c0070-g006818-k101010-rc80000/sett.png)|
+| [MacNathair Sgianach](/setts/s4/b1r1k12g1~b1c0070-g006818-k101010-rc80000~x4/)|
+|![MacNathair Sgianach example sett](/setts/s4/b1r1k12g1~b1c0070-g006818-k101010-rc80000~x4/sett.png)|

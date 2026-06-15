@@ -16,5 +16,5 @@ BRGRBRBRBR
 
 | Tartans |
 |---------------|
-| [Nithsdale (Dalgliesh)](/setts/s10/b32r6g6r20b48r6b6r6b6r20-b1c0070-g006818-r880000/)|
-|![Nithsdale (Dalgliesh) example sett](/setts/s10/b32r6g6r20b48r6b6r6b6r20-b1c0070-g006818-r880000/sett.png)|
+| [Nithsdale (Dalgliesh)](/setts/s10/b16r3g3r10b24r3b3r3b3r10~b1c0070-g006818-r880000~x2/)|
+|![Nithsdale (Dalgliesh) example sett](/setts/s10/b16r3g3r10b24r3b3r3b3r10~b1c0070-g006818-r880000~x2/sett.png)|

@@ -6,7 +6,7 @@ KBBKBKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k6b36ba6ka36ba36k6w6-b304080-ba8080d0-k000000-ka000030-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/k1b6ba1ka6ba6k1w1~b304080-ba8080d0-k000000-ka000030-we0e0e0~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBBKBKW
 
 | Tartans |
 |---------------|
-| [Mary Washington](/setts/s7/k6b36ba6ka36ba36k6w6-b304080-ba8080d0-k000000-ka000030-we0e0e0/)|
-|![Mary Washington example sett](/setts/s7/k6b36ba6ka36ba36k6w6-b304080-ba8080d0-k000000-ka000030-we0e0e0/sett.png)|
+| [Mary Washington](/setts/s7/k1b6ba1ka6ba6k1w1~b304080-ba8080d0-k000000-ka000030-we0e0e0~x6/)|
+|![Mary Washington example sett](/setts/s7/k1b6ba1ka6ba6k1w1~b304080-ba8080d0-k000000-ka000030-we0e0e0~x6/sett.png)|

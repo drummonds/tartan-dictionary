@@ -6,7 +6,7 @@ GWRKGKGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g20w8r8k16g40ka12g6ka20-g003820-k101010-ka00002c-r880000-wffffff/tartan.png)
+![Woven sample](/setts/s8/g10w4r4k8g20ka6g3ka10~g003820-k101010-ka00002c-r880000-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GWRKGKGK
 
 | Tartans |
 |---------------|
-| [BlackRock (Symmetrical)](/setts/s8/g20w8r8k16g40ka12g6ka20-g003820-k101010-ka00002c-r880000-wffffff/)|
-|![BlackRock (Symmetrical) example sett](/setts/s8/g20w8r8k16g40ka12g6ka20-g003820-k101010-ka00002c-r880000-wffffff/sett.png)|
-| [Blackrock (Corporate)](/setts/s8/g20w8r8k16g40ka12g6ka20-g003820-k101010-ka00002c-r880000-wfcfcfc/)|
-|![Blackrock (Corporate) example sett](/setts/s8/g20w8r8k16g40ka12g6ka20-g003820-k101010-ka00002c-r880000-wfcfcfc/sett.png)|
+| [BlackRock (Symmetrical)](/setts/s8/g10w4r4k8g20ka6g3ka10~g003820-k101010-ka00002c-r880000-wffffff~x2/)|
+|![BlackRock (Symmetrical) example sett](/setts/s8/g10w4r4k8g20ka6g3ka10~g003820-k101010-ka00002c-r880000-wffffff~x2/sett.png)|
+| [Blackrock (Corporate)](/setts/s8/g10w4r4k8g20ka6g3ka10~g003820-k101010-ka00002c-r880000-wfcfcfc~x2/)|
+|![Blackrock (Corporate) example sett](/setts/s8/g10w4r4k8g20ka6g3ka10~g003820-k101010-ka00002c-r880000-wfcfcfc~x2/sett.png)|

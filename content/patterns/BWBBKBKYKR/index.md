@@ -16,5 +16,5 @@ BWBBKBKYKR
 
 | Tartans |
 |---------------|
-| [Cumnock Hunting (District)](/setts/s10/b46w2b4ba32k6ba4k60y2k4r6-b780078-ba2c2c80-k101010-rc80000-we0e0e0-yfcb464/)|
-|![Cumnock Hunting (District) example sett](/setts/s10/b46w2b4ba32k6ba4k60y2k4r6-b780078-ba2c2c80-k101010-rc80000-we0e0e0-yfcb464/sett.png)|
+| [Cumnock Hunting (District)](/setts/s10/b23w1b2ba16k3ba2k30y1k2r3~b780078-ba2c2c80-k101010-rc80000-we0e0e0-yfcb464~x2/)|
+|![Cumnock Hunting (District) example sett](/setts/s10/b23w1b2ba16k3ba2k30y1k2r3~b780078-ba2c2c80-k101010-rc80000-we0e0e0-yfcb464~x2/sett.png)|

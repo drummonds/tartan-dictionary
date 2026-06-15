@@ -6,7 +6,7 @@ RRR
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/r10r20ra10-r703000-rac00000/tartan.png)
+![Woven sample](/setts/s3/r1r2ra1~r703000-rac00000~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRR
 
 | Tartans |
 |---------------|
-| [Glenmorangie, Check](/setts/s3/r10r20ra10-r703000-rac00000/)|
-|![Glenmorangie, Check example sett](/setts/s3/r10r20ra10-r703000-rac00000/sett.png)|
+| [Glenmorangie, Check](/setts/s3/r1r2ra1~r703000-rac00000~x10/)|
+|![Glenmorangie, Check example sett](/setts/s3/r1r2ra1~r703000-rac00000~x10/sett.png)|

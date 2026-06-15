@@ -16,5 +16,5 @@ KWKYKYKGKRKRY
 
 | Tartans |
 |---------------|
-| [BeeJay](/setts/s13/k4w32k4y4k4ya32k4g32k4r4k4r32y4-g289c18-k101010-rc80000-w98c8e8-yec8048-yac4bc68/)|
-|![BeeJay example sett](/setts/s13/k4w32k4y4k4ya32k4g32k4r4k4r32y4-g289c18-k101010-rc80000-w98c8e8-yec8048-yac4bc68/sett.png)|
+| [BeeJay](/setts/s13/k1w8k1y1k1ya8k1g8k1r1k1r8y1~g289c18-k101010-rc80000-w98c8e8-yec8048-yac4bc68~x4/)|
+|![BeeJay example sett](/setts/s13/k1w8k1y1k1ya8k1g8k1r1k1r8y1~g289c18-k101010-rc80000-w98c8e8-yec8048-yac4bc68~x4/sett.png)|

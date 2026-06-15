@@ -16,5 +16,5 @@ BKGKGKGKGKBK
 
 | Tartans |
 |---------------|
-| [Norwich No.063](/setts/s12/b8k6g8k2g8k6g8k2g8k6b8k2-b2c2c80-g006818-k000000/)|
-|![Norwich No.063 example sett](/setts/s12/b8k6g8k2g8k6g8k2g8k6b8k2-b2c2c80-g006818-k000000/sett.png)|
+| [Norwich No.063](/setts/s12/b4k3g4k1g4k3g4k1g4k3b4k1~b2c2c80-g006818-k000000~x2/)|
+|![Norwich No.063 example sett](/setts/s12/b4k3g4k1g4k3g4k1g4k3b4k1~b2c2c80-g006818-k000000~x2/sett.png)|

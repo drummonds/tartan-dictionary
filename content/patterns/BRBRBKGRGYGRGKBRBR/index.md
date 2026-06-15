@@ -16,5 +16,5 @@ BRBRBKGRGYGRGKBRBR
 
 | Tartans |
 |---------------|
-| [Lobban (Personal)](/setts/s18/b4r4b4r4b24k18g24r4g4y10g4r4g24k18b24r4b4r4-b2888c4-g006818-k101010-rc80000-ye8c000/)|
-|![Lobban (Personal) example sett](/setts/s18/b4r4b4r4b24k18g24r4g4y10g4r4g24k18b24r4b4r4-b2888c4-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Lobban (Personal)](/setts/s18/b2r2b2r2b12k9g12r2g2y5g2r2g12k9b12r2b2r2~b2888c4-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Lobban (Personal) example sett](/setts/s18/b2r2b2r2b12k9g12r2g2y5g2r2g12k9b12r2b2r2~b2888c4-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

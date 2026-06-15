@@ -16,5 +16,5 @@ GKWGKGKGKGKGKW
 
 | Tartans |
 |---------------|
-| [Wcwm 9275-1415](/setts/s14/g140k4w8g4k4ga4k4ga4k28g16k4ga24k4w6-g8c7038-ga005448-k101010-wc0c0c0/)|
-|![Wcwm 9275-1415 example sett](/setts/s14/g140k4w8g4k4ga4k4ga4k28g16k4ga24k4w6-g8c7038-ga005448-k101010-wc0c0c0/sett.png)|
+| [Wcwm 9275-1415](/setts/s14/g70k2w4g2k2ga2k2ga2k14g8k2ga12k2w3~g8c7038-ga005448-k101010-wc0c0c0~x2/)|
+|![Wcwm 9275-1415 example sett](/setts/s14/g70k2w4g2k2ga2k2ga2k14g8k2ga12k2w3~g8c7038-ga005448-k101010-wc0c0c0~x2/sett.png)|

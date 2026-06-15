@@ -6,7 +6,7 @@ BKRBKGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b40k12r8b6k32g40w4-b202c7c-g006434-k101010-r886448-we8e8e8/tartan.png)
+![Woven sample](/setts/s7/b20k6r4b3k16g20w2~b202c7c-g006434-k101010-r886448-we8e8e8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRBKGW
 
 | Tartans |
 |---------------|
-| [Deloughery, Paul](/setts/s7/b40k12r8b6k32g40w4-b202c7c-g006434-k101010-r886448-we8e8e8/)|
-|![Deloughery, Paul example sett](/setts/s7/b40k12r8b6k32g40w4-b202c7c-g006434-k101010-r886448-we8e8e8/sett.png)|
+| [Deloughery, Paul](/setts/s7/b20k6r4b3k16g20w2~b202c7c-g006434-k101010-r886448-we8e8e8~x2/)|
+|![Deloughery, Paul example sett](/setts/s7/b20k6r4b3k16g20w2~b202c7c-g006434-k101010-r886448-we8e8e8~x2/sett.png)|

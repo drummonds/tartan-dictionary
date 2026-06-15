@@ -16,5 +16,5 @@ WBRKWGYRKRYBKRYW
 
 | Tartans |
 |---------------|
-| [Finzean's Fancy](/setts/s16/w16y16r12k12b56y24r12k4r12y24g56w4k8r108ba2w4-b788cb4-ba501414-g007800-k000000-r8c0000-wc8c8c8-yc88c00/)|
-|![Finzean's Fancy example sett](/setts/s16/w16y16r12k12b56y24r12k4r12y24g56w4k8r108ba2w4-b788cb4-ba501414-g007800-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|
+| [Finzean's Fancy](/setts/s16/w8y8r6k6b28y12r6k2r6y12g28w2k4r54ba1w2~b788cb4-ba501414-g007800-k000000-r8c0000-wc8c8c8-yc88c00~x2/)|
+|![Finzean's Fancy example sett](/setts/s16/w8y8r6k6b28y12r6k2r6y12g28w2k4r54ba1w2~b788cb4-ba501414-g007800-k000000-r8c0000-wc8c8c8-yc88c00~x2/sett.png)|

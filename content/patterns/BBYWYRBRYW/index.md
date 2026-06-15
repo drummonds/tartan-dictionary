@@ -16,5 +16,5 @@ BBYWYRBRYW
 
 | Tartans |
 |---------------|
-| [Holyrood Golden Jubilee II (Commemo)](/setts/s10/b96ba24y6w6y6r22b10r4y14w4-b003c64-ba5c8ca8-r880000-wf8f8f8-ybc8c00/)|
-|![Holyrood Golden Jubilee II (Commemo) example sett](/setts/s10/b96ba24y6w6y6r22b10r4y14w4-b003c64-ba5c8ca8-r880000-wf8f8f8-ybc8c00/sett.png)|
+| [Holyrood Golden Jubilee II (Commemo)](/setts/s10/b48ba12y3w3y3r11b5r2y7w2~b003c64-ba5c8ca8-r880000-wf8f8f8-ybc8c00~x2/)|
+|![Holyrood Golden Jubilee II (Commemo) example sett](/setts/s10/b48ba12y3w3y3r11b5r2y7w2~b003c64-ba5c8ca8-r880000-wf8f8f8-ybc8c00~x2/sett.png)|

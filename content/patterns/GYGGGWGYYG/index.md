@@ -16,5 +16,5 @@ GYGGGWGYYG
 
 | Tartans |
 |---------------|
-| [Rams Timeless](/setts/s10/g12y6ya16ga10w6ga8g12ga70y9ga7-g289c18-ga006818-wfcfcfc-yd09800-yad87c00/)|
-|![Rams Timeless example sett](/setts/s10/g12y6ya16ga10w6ga8g12ga70y9ga7-g289c18-ga006818-wfcfcfc-yd09800-yad87c00/sett.png)|
+| [Rams Timeless](/setts/s10/g12y6ya16ga10w6ga8g12ga70y9ga7~g289c18-ga006818-wfcfcfc-yd09800-yad87c00/)|
+|![Rams Timeless example sett](/setts/s10/g12y6ya16ga10w6ga8g12ga70y9ga7~g289c18-ga006818-wfcfcfc-yd09800-yad87c00/sett.png)|

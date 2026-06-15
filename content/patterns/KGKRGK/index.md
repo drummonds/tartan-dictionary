@@ -6,7 +6,7 @@ KGKRGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8g10k4r42ga16k4-g003000-ga30a010-k000000-r806050/tartan.png)
+![Woven sample](/setts/s6/k4g5k2r21ga8k2~g003000-ga30a010-k000000-r806050~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKRGK
 
 | Tartans |
 |---------------|
-| [MacDuck](/setts/s6/k8g10k4r42ga16k4-g003000-ga30a010-k000000-r806050/)|
-|![MacDuck example sett](/setts/s6/k8g10k4r42ga16k4-g003000-ga30a010-k000000-r806050/sett.png)|
+| [MacDuck](/setts/s6/k4g5k2r21ga8k2~g003000-ga30a010-k000000-r806050~x2/)|
+|![MacDuck example sett](/setts/s6/k4g5k2r21ga8k2~g003000-ga30a010-k000000-r806050~x2/sett.png)|

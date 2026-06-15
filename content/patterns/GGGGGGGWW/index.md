@@ -16,5 +16,5 @@ GGGGGGGWW
 
 | Tartans |
 |---------------|
-| [Stirling Millennium](/setts/s9/w40wa20g20ga20gb20gc20g20ga20gc20-g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0/)|
-|![Stirling Millennium example sett](/setts/s9/w40wa20g20ga20gb20gc20g20ga20gc20-g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0/sett.png)|
+| [Stirling Millennium](/setts/s9/w2wa1g1ga1gb1gc1g1ga1gc1~g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0~x20/)|
+|![Stirling Millennium example sett](/setts/s9/w2wa1g1ga1gb1gc1g1ga1gc1~g8c7038-ga289c18-gb006818-gc003820-wc49cd8-wae0e0e0~x20/sett.png)|

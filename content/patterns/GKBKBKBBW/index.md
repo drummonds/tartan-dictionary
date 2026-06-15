@@ -16,5 +16,5 @@ GKBKBKBBW
 
 | Tartans |
 |---------------|
-| [West of Wells](/setts/s9/g56k4b6k22b6k4b34ba8w4-b000080-ba0000cd-g006400-k000000-we6e6fa/)|
-|![West of Wells example sett](/setts/s9/g56k4b6k22b6k4b34ba8w4-b000080-ba0000cd-g006400-k000000-we6e6fa/sett.png)|
+| [West of Wells](/setts/s9/g28k2b3k11b3k2b17ba4w2~b000080-ba0000cd-g006400-k000000-we6e6fa~x2/)|
+|![West of Wells example sett](/setts/s9/g28k2b3k11b3k2b17ba4w2~b000080-ba0000cd-g006400-k000000-we6e6fa~x2/sett.png)|

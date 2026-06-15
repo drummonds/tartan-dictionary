@@ -16,5 +16,5 @@ WRRRKRWRGRRRKRWRWRWRRW
 
 | Tartans |
 |---------------|
-| [MacDougal (Dress)](/setts/s22/w4r4ra4r32k4r4w12r14g12ra4r4ra4k12r6w4r6w4r6w32r4ra4w4-g003820-k101010-rc80000-rae87878-wf8f8f8/)|
-|![MacDougal (Dress) example sett](/setts/s22/w4r4ra4r32k4r4w12r14g12ra4r4ra4k12r6w4r6w4r6w32r4ra4w4-g003820-k101010-rc80000-rae87878-wf8f8f8/sett.png)|
+| [MacDougal (Dress)](/setts/s22/w2r2ra2r16k2r2w6r7g6ra2r2ra2k6r3w2r3w2r3w16r2ra2w2~g003820-k101010-rc80000-rae87878-wf8f8f8~x2/)|
+|![MacDougal (Dress) example sett](/setts/s22/w2r2ra2r16k2r2w6r7g6ra2r2ra2k6r3w2r3w2r3w16r2ra2w2~g003820-k101010-rc80000-rae87878-wf8f8f8~x2/sett.png)|

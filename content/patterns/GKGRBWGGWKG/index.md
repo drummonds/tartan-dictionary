@@ -16,5 +16,5 @@ GKGRBWGGWKG
 
 | Tartans |
 |---------------|
-| [MacCulloch Dress (Name)](/setts/s11/g10k6ga4r40b20w4ga2g2w40k8g6-b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0/)|
-|![MacCulloch Dress (Name) example sett](/setts/s11/g10k6ga4r40b20w4ga2g2w40k8g6-b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0/sett.png)|
+| [MacCulloch Dress (Name)](/setts/s11/g5k3ga2r20b10w2ga1g1w20k4g3~b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0~x2/)|
+|![MacCulloch Dress (Name) example sett](/setts/s11/g5k3ga2r20b10w2ga1g1w20k4g3~b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0~x2/sett.png)|

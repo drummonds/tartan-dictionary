@@ -6,7 +6,7 @@ BRGKGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r24g20k20g20r24b4-b5c8ca8-g006818-k000000-rc80000/tartan.png)
+![Woven sample](/setts/s6/r6g5k5g5r6b1~b5c8ca8-g006818-k000000-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGKGR
 
 | Tartans |
 |---------------|
-| [Norwich No.028](/setts/s6/r24g20k20g20r24b4-b5c8ca8-g006818-k000000-rc80000/)|
-|![Norwich No.028 example sett](/setts/s6/r24g20k20g20r24b4-b5c8ca8-g006818-k000000-rc80000/sett.png)|
+| [Norwich No.028](/setts/s6/r6g5k5g5r6b1~b5c8ca8-g006818-k000000-rc80000~x4/)|
+|![Norwich No.028 example sett](/setts/s6/r6g5k5g5r6b1~b5c8ca8-g006818-k000000-rc80000~x4/sett.png)|

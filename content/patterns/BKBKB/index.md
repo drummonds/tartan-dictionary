@@ -6,7 +6,7 @@ BKBKB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b8k52b124k4b4-b5c5c5c-k101010/tartan.png)
+![Woven sample](/setts/s5/b2k13b31k1b1~b5c5c5c-k101010~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBKB
 
 | Tartans |
 |---------------|
-| [Silver Mist](/setts/s5/b8k52b124k4b4-b5c5c5c-k101010/)|
-|![Silver Mist example sett](/setts/s5/b8k52b124k4b4-b5c5c5c-k101010/sett.png)|
+| [Silver Mist](/setts/s5/b2k13b31k1b1~b5c5c5c-k101010~x4/)|
+|![Silver Mist example sett](/setts/s5/b2k13b31k1b1~b5c5c5c-k101010~x4/sett.png)|

@@ -6,7 +6,7 @@ KBRKBKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k8b16r60k16b12k16b24w6-b680028-k101010-ra00048-wffffff/tartan.png)
+![Woven sample](/setts/s8/k4b8r30k8b6k8b12w3~b680028-k101010-ra00048-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRKBKBW
 
 | Tartans |
 |---------------|
-| [Believe - Corinna](/setts/s8/k8b16r60k16b12k16b24w6-b680028-k101010-ra00048-wffffff/)|
-|![Believe - Corinna example sett](/setts/s8/k8b16r60k16b12k16b24w6-b680028-k101010-ra00048-wffffff/sett.png)|
+| [Believe - Corinna](/setts/s8/k4b8r30k8b6k8b12w3~b680028-k101010-ra00048-wffffff~x2/)|
+|![Believe - Corinna example sett](/setts/s8/k4b8r30k8b6k8b12w3~b680028-k101010-ra00048-wffffff~x2/sett.png)|

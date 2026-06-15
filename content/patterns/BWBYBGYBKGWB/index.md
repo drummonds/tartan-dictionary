@@ -16,5 +16,5 @@ BWBYBGYBKGWB
 
 | Tartans |
 |---------------|
-| [Fife (Mann)](/setts/s12/b8w4b48y12b28g8y4b8k4ga16w4b8-b1474b4-g604000-ga006818-k101010-wfcfcfc-ybc8c00/)|
-|![Fife (Mann) example sett](/setts/s12/b8w4b48y12b28g8y4b8k4ga16w4b8-b1474b4-g604000-ga006818-k101010-wfcfcfc-ybc8c00/sett.png)|
+| [Fife (Mann)](/setts/s12/b2w1b12y3b7g2y1b2k1ga4w1b2~b1474b4-g604000-ga006818-k101010-wfcfcfc-ybc8c00~x4/)|
+|![Fife (Mann) example sett](/setts/s12/b2w1b12y3b7g2y1b2k1ga4w1b2~b1474b4-g604000-ga006818-k101010-wfcfcfc-ybc8c00~x4/sett.png)|

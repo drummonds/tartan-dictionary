@@ -6,7 +6,7 @@ RKYW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r8k50y50w8-k101010-rc80000-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s4/r4k25y25w4~k101010-rc80000-wfcfcfc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKYW
 
 | Tartans |
 |---------------|
-| [Bonhill Primary School](/setts/s4/r8k50y50w8-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Bonhill Primary School example sett](/setts/s4/r8k50y50w8-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Bonhill Primary School](/setts/s4/r4k25y25w4~k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Bonhill Primary School example sett](/setts/s4/r4k25y25w4~k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

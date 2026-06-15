@@ -6,7 +6,7 @@ RKRGRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r144k16r8g32r14ra4-g006818-k101010-rc80000-ra888888/tartan.png)
+![Woven sample](/setts/s6/r72k8r4g16r7ra2~g006818-k101010-rc80000-ra888888~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRGRR
 
 | Tartans |
 |---------------|
-| [MacAndrew Dress (Name)](/setts/s6/r144k16r8g32r14ra4-g006818-k101010-rc80000-ra888888/)|
-|![MacAndrew Dress (Name) example sett](/setts/s6/r144k16r8g32r14ra4-g006818-k101010-rc80000-ra888888/sett.png)|
+| [MacAndrew Dress (Name)](/setts/s6/r72k8r4g16r7ra2~g006818-k101010-rc80000-ra888888~x2/)|
+|![MacAndrew Dress (Name) example sett](/setts/s6/r72k8r4g16r7ra2~g006818-k101010-rc80000-ra888888~x2/sett.png)|

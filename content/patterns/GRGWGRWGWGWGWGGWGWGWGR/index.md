@@ -16,5 +16,5 @@ GRGWGRWGWGWGWGGWGWGWGR
 
 | Tartans |
 |---------------|
-| [Glen Elg](/setts/s22/g8r4g128w4g24r4w4g12w8ga4w8g8w8ga8g12w4ga12w16ga4w16g4r8-g447438-ga004c00-r9c8000-we0e0e0/)|
-|![Glen Elg example sett](/setts/s22/g8r4g128w4g24r4w4g12w8ga4w8g8w8ga8g12w4ga12w16ga4w16g4r8-g447438-ga004c00-r9c8000-we0e0e0/sett.png)|
+| [Glen Elg](/setts/s22/g2r1g32w1g6r1w1g3w2ga1w2g2w2ga2g3w1ga3w4ga1w4g1r2~g447438-ga004c00-r9c8000-we0e0e0~x4/)|
+|![Glen Elg example sett](/setts/s22/g2r1g32w1g6r1w1g3w2ga1w2g2w2ga2g3w1ga3w4ga1w4g1r2~g447438-ga004c00-r9c8000-we0e0e0~x4/sett.png)|

@@ -16,5 +16,5 @@ KGWKRKWGKY
 
 | Tartans |
 |---------------|
-| [Highlands of Durham #2](/setts/s10/k74g54w4k8r12k8w4g54k74y4-g006818-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Highlands of Durham #2 example sett](/setts/s10/k74g54w4k8r12k8w4g54k74y4-g006818-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Highlands of Durham #2](/setts/s10/k37g27w2k4r6k4w2g27k37y2~g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Highlands of Durham #2 example sett](/setts/s10/k37g27w2k4r6k4w2g27k37y2~g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

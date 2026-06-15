@@ -16,5 +16,5 @@ BYGRGBYBRGBGYRYGBGRBYBGRGYBG
 
 | Tartans |
 |---------------|
-| [Platt (Name)](/setts/s28/g32b12y4g24r4g28b28y2b24r4g12b48g12y4r4y4g12b48g12r4b24y2b28g28r4g24y4b12-b2c2c80-g408060-rc80000-ye8c000/)|
-|![Platt (Name) example sett](/setts/s28/g32b12y4g24r4g28b28y2b24r4g12b48g12y4r4y4g12b48g12r4b24y2b28g28r4g24y4b12-b2c2c80-g408060-rc80000-ye8c000/sett.png)|
+| [Platt (Name)](/setts/s28/g16b6y2g12r2g14b14y1b12r2g6b24g6y2r2y2g6b24g6r2b12y1b14g14r2g12y2b6~b2c2c80-g408060-rc80000-ye8c000~x2/)|
+|![Platt (Name) example sett](/setts/s28/g16b6y2g12r2g14b14y1b12r2g6b24g6y2r2y2g6b24g6r2b12y1b14g14r2g12y2b6~b2c2c80-g408060-rc80000-ye8c000~x2/sett.png)|

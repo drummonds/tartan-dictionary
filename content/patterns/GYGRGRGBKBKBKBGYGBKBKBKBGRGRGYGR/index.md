@@ -16,5 +16,5 @@ GYGRGRGBKBKBKBGYGBKBKBKBGRGRGYGR
 
 | Tartans |
 |---------------|
-| [King Edward VII](/setts/s32/r6g5y3g10r3g6r3g62b21k10b10k10b10k10b21g84y8g84b21k10b10k10b10k10b21g62r3g6r3g10y3g5-b1474b4-g006818-k101010-rc80000-ye8c000/)|
-|![King Edward VII example sett](/setts/s32/r6g5y3g10r3g6r3g62b21k10b10k10b10k10b21g84y8g84b21k10b10k10b10k10b21g62r3g6r3g10y3g5-b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [King Edward VII](/setts/s32/r6g5y3g10r3g6r3g62b21k10b10k10b10k10b21g84y8g84b21k10b10k10b10k10b21g62r3g6r3g10y3g5~b1474b4-g006818-k101010-rc80000-ye8c000/)|
+|![King Edward VII example sett](/setts/s32/r6g5y3g10r3g6r3g62b21k10b10k10b10k10b21g84y8g84b21k10b10k10b10k10b21g62r3g6r3g10y3g5~b1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|

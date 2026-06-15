@@ -16,5 +16,5 @@ RWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Kerr Shepherd's Plaid](/setts/s38/r8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8-k101010-rc80000-we0e0e0/)|
-|![Kerr Shepherd's Plaid example sett](/setts/s38/r8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8k8w8-k101010-rc80000-we0e0e0/sett.png)|
+| [Kerr Shepherd's Plaid](/setts/s38/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~k101010-rc80000-we0e0e0~x8/)|
+|![Kerr Shepherd's Plaid example sett](/setts/s38/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~k101010-rc80000-we0e0e0~x8/sett.png)|

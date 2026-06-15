@@ -16,5 +16,5 @@ KWKRGRKRYRRRYRKRGRKWKY
 
 | Tartans |
 |---------------|
-| [West Lothian Woolen Mill](/setts/s22/k68w4k4r54g2r4k6r4y2r4ra4r4y2r4k6r4g2r54k4w4k68ya4-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000-yad87c00/)|
-|![West Lothian Woolen Mill example sett](/setts/s22/k68w4k4r54g2r4k6r4y2r4ra4r4y2r4k6r4g2r54k4w4k68ya4-g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000-yad87c00/sett.png)|
+| [West Lothian Woolen Mill](/setts/s22/k34w2k2r27g1r2k3r2y1r2ra2r2y1r2k3r2g1r27k2w2k34ya2~g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000-yad87c00~x2/)|
+|![West Lothian Woolen Mill example sett](/setts/s22/k34w2k2r27g1r2k3r2y1r2ra2r2y1r2k3r2g1r27k2w2k34ya2~g289c18-k101010-r888888-rac80000-we0e0e0-ye8c000-yad87c00~x2/sett.png)|

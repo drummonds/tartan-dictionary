@@ -16,5 +16,5 @@ BRBYBRBYBRGRG
 
 | Tartans |
 |---------------|
-| [Crowne Plaza (Corporate)](/setts/s13/g54r4g6r6b6y4b28r4b6y6b6r4b28-b405468-g285c30-rc80000-ybc8c00/)|
-|![Crowne Plaza (Corporate) example sett](/setts/s13/g54r4g6r6b6y4b28r4b6y6b6r4b28-b405468-g285c30-rc80000-ybc8c00/sett.png)|
+| [Crowne Plaza (Corporate)](/setts/s13/g27r2g3r3b3y2b14r2b3y3b3r2b14~b405468-g285c30-rc80000-ybc8c00~x2/)|
+|![Crowne Plaza (Corporate) example sett](/setts/s13/g27r2g3r3b3y2b14r2b3y3b3r2b14~b405468-g285c30-rc80000-ybc8c00~x2/sett.png)|

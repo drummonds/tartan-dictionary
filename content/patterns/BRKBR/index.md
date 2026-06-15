@@ -6,7 +6,7 @@ BRKBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b12r8k64b75r8-b43146f-k101010-rdc0000/tartan.png)
+![Woven sample](/setts/s5/b12r8k64b75r8~b43146f-k101010-rdc0000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRKBR
 
 | Tartans |
 |---------------|
-| [Laurel Cadre, The](/setts/s5/b12r8k64b75r8-b43146f-k101010-rdc0000/)|
-|![Laurel Cadre, The example sett](/setts/s5/b12r8k64b75r8-b43146f-k101010-rdc0000/sett.png)|
+| [Laurel Cadre, The](/setts/s5/b12r8k64b75r8~b43146f-k101010-rdc0000/)|
+|![Laurel Cadre, The example sett](/setts/s5/b12r8k64b75r8~b43146f-k101010-rdc0000/sett.png)|

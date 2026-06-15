@@ -16,7 +16,7 @@ RWGRGRGRGRGW
 
 | Tartans |
 |---------------|
-| [Princess Marina #2](/setts/s12/r8w88g12r8g8r12g8r12g8r12g8wa8-g006818-rc80000-wa8ace8-wafcfcfc/)|
-|![Princess Marina #2 example sett](/setts/s12/r8w88g12r8g8r12g8r12g8r12g8wa8-g006818-rc80000-wa8ace8-wafcfcfc/sett.png)|
-| [Princess Marina (Fashion)](/setts/s12/w8g8r12g8r12g8r12g8r8g12wa52r4-g006818-rc80000-wfcfcfc-waa8ace8/)|
-|![Princess Marina (Fashion) example sett](/setts/s12/w8g8r12g8r12g8r12g8r8g12wa52r4-g006818-rc80000-wfcfcfc-waa8ace8/sett.png)|
+| [Princess Marina #2](/setts/s12/r2w22g3r2g2r3g2r3g2r3g2wa2~g006818-rc80000-wa8ace8-wafcfcfc~x4/)|
+|![Princess Marina #2 example sett](/setts/s12/r2w22g3r2g2r3g2r3g2r3g2wa2~g006818-rc80000-wa8ace8-wafcfcfc~x4/sett.png)|
+| [Princess Marina (Fashion)](/setts/s12/w2g2r3g2r3g2r3g2r2g3wa13r1~g006818-rc80000-wfcfcfc-waa8ace8~x4/)|
+|![Princess Marina (Fashion) example sett](/setts/s12/w2g2r3g2r3g2r3g2r2g3wa13r1~g006818-rc80000-wfcfcfc-waa8ace8~x4/sett.png)|

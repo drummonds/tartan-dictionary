@@ -16,5 +16,5 @@ BBBWBYBBBGBB
 
 | Tartans |
 |---------------|
-| [Harmony (Fashion)](/setts/s12/b22ba6b8w6b6y8b6bb26bc68g6bc8b6-b202060-ba5c8ca8-bb2c2c80-bc2888c4-g005448-wfcfcfc-ya08858/)|
-|![Harmony (Fashion) example sett](/setts/s12/b22ba6b8w6b6y8b6bb26bc68g6bc8b6-b202060-ba5c8ca8-bb2c2c80-bc2888c4-g005448-wfcfcfc-ya08858/sett.png)|
+| [Harmony (Fashion)](/setts/s12/b11ba3b4w3b3y4b3bb13bc34g3bc4b3~b202060-ba5c8ca8-bb2c2c80-bc2888c4-g005448-wfcfcfc-ya08858~x2/)|
+|![Harmony (Fashion) example sett](/setts/s12/b11ba3b4w3b3y4b3bb13bc34g3bc4b3~b202060-ba5c8ca8-bb2c2c80-bc2888c4-g005448-wfcfcfc-ya08858~x2/sett.png)|

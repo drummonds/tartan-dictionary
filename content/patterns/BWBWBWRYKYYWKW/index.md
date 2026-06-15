@@ -16,5 +16,5 @@ BWBWBWRYKYYWKW
 
 | Tartans |
 |---------------|
-| [Salaberry-de-Valleyfield Traditional](/setts/s14/b40w6b8w6b8w6r44y4k2y4ya32w2k4w2-b0000cd-k101010-rff0000-wffffff-y86c67c-yaffd700/)|
-|![Salaberry-de-Valleyfield Traditional example sett](/setts/s14/b40w6b8w6b8w6r44y4k2y4ya32w2k4w2-b0000cd-k101010-rff0000-wffffff-y86c67c-yaffd700/sett.png)|
+| [Salaberry-de-Valleyfield Traditional](/setts/s14/b20w3b4w3b4w3r22y2k1y2ya16w1k2w1~b0000cd-k101010-rff0000-wffffff-y86c67c-yaffd700~x2/)|
+|![Salaberry-de-Valleyfield Traditional example sett](/setts/s14/b20w3b4w3b4w3r22y2k1y2ya16w1k2w1~b0000cd-k101010-rff0000-wffffff-y86c67c-yaffd700~x2/sett.png)|

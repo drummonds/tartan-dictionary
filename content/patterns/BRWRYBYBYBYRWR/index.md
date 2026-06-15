@@ -16,5 +16,5 @@ BRWRYBYBYBYRWR
 
 | Tartans |
 |---------------|
-| [Inverness Hunting](/setts/s14/b122r12w4r16y4b6y4b30y4b6y4r16w4r12-b1c0070-r880000-wfcfcfc-yd09800/)|
-|![Inverness Hunting example sett](/setts/s14/b122r12w4r16y4b6y4b30y4b6y4r16w4r12-b1c0070-r880000-wfcfcfc-yd09800/sett.png)|
+| [Inverness Hunting](/setts/s14/b61r6w2r8y2b3y2b15y2b3y2r8w2r6~b1c0070-r880000-wfcfcfc-yd09800~x2/)|
+|![Inverness Hunting example sett](/setts/s14/b61r6w2r8y2b3y2b15y2b3y2r8w2r6~b1c0070-r880000-wfcfcfc-yd09800~x2/sett.png)|

@@ -16,5 +16,5 @@ BYRYBKGKWKGK
 
 | Tartans |
 |---------------|
-| [Curnow of Kernow (Personal)](/setts/s12/b52y4r6y4b52k26g4k16w6k16g4k26-b440044-g709098-k101010-rc8002c-we0e0e0-ye8c000/)|
-|![Curnow of Kernow (Personal) example sett](/setts/s12/b52y4r6y4b52k26g4k16w6k16g4k26-b440044-g709098-k101010-rc8002c-we0e0e0-ye8c000/sett.png)|
+| [Curnow of Kernow (Personal)](/setts/s12/b26y2r3y2b26k13g2k8w3k8g2k13~b440044-g709098-k101010-rc8002c-we0e0e0-ye8c000~x2/)|
+|![Curnow of Kernow (Personal) example sett](/setts/s12/b26y2r3y2b26k13g2k8w3k8g2k13~b440044-g709098-k101010-rc8002c-we0e0e0-ye8c000~x2/sett.png)|

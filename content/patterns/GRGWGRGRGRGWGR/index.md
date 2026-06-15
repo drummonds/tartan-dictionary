@@ -16,5 +16,5 @@ GRGWGRGRGRGWGR
 
 | Tartans |
 |---------------|
-| [Welsh Assembly](/setts/s14/r18g8w10g60ra4g8ra4g8ra4g60w10g8r18g10-g006818-r888888-rac80000-we0e0e0/)|
-|![Welsh Assembly example sett](/setts/s14/r18g8w10g60ra4g8ra4g8ra4g60w10g8r18g10-g006818-r888888-rac80000-we0e0e0/sett.png)|
+| [Welsh Assembly](/setts/s14/r9g4w5g30ra2g4ra2g4ra2g30w5g4r9g5~g006818-r888888-rac80000-we0e0e0~x2/)|
+|![Welsh Assembly example sett](/setts/s14/r9g4w5g30ra2g4ra2g4ra2g30w5g4r9g5~g006818-r888888-rac80000-we0e0e0~x2/sett.png)|

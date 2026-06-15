@@ -6,7 +6,7 @@ BBGY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b2ba8g20y2-b2888c4-ba202060-g006818-ye8c000/tartan.png)
+![Woven sample](/setts/s4/b1ba4g10y1~b2888c4-ba202060-g006818-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBGY
 
 | Tartans |
 |---------------|
-| [Wilson's No.174](/setts/s4/b2ba8g20y2-b2888c4-ba202060-g006818-ye8c000/)|
-|![Wilson's No.174 example sett](/setts/s4/b2ba8g20y2-b2888c4-ba202060-g006818-ye8c000/sett.png)|
-| [Wilson's, No 174](/setts/s4/b2ba8g20y2-b5480b0-ba304080-g008000-yf0c000/)|
-|![Wilson's, No 174 example sett](/setts/s4/b2ba8g20y2-b5480b0-ba304080-g008000-yf0c000/sett.png)|
+| [Wilson's No.174](/setts/s4/b1ba4g10y1~b2888c4-ba202060-g006818-ye8c000~x2/)|
+|![Wilson's No.174 example sett](/setts/s4/b1ba4g10y1~b2888c4-ba202060-g006818-ye8c000~x2/sett.png)|
+| [Wilson's, No 174](/setts/s4/b1ba4g10y1~b5480b0-ba304080-g008000-yf0c000~x2/)|
+|![Wilson's, No 174 example sett](/setts/s4/b1ba4g10y1~b5480b0-ba304080-g008000-yf0c000~x2/sett.png)|

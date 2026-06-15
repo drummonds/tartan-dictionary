@@ -6,7 +6,7 @@ RYRYRGKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4y48r4y6r4g48k16ya4-g006818-k101010-r880000-ya08858-yae8c000/tartan.png)
+![Woven sample](/setts/s8/r2y24r2y3r2g24k8ya2~g006818-k101010-r880000-ya08858-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYRYRGKY
 
 | Tartans |
 |---------------|
-| [Botherston (Name)](/setts/s8/r4y48r4y6r4g48k16ya4-g006818-k101010-r880000-ya08858-yae8c000/)|
-|![Botherston (Name) example sett](/setts/s8/r4y48r4y6r4g48k16ya4-g006818-k101010-r880000-ya08858-yae8c000/sett.png)|
+| [Botherston (Name)](/setts/s8/r2y24r2y3r2g24k8ya2~g006818-k101010-r880000-ya08858-yae8c000~x2/)|
+|![Botherston (Name) example sett](/setts/s8/r2y24r2y3r2g24k8ya2~g006818-k101010-r880000-ya08858-yae8c000~x2/sett.png)|

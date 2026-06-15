@@ -6,7 +6,7 @@ KBWWWBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k216b8w8wa4w8b2ba4wa4-b5c5c5c-ba202060-k101010-wc0c0c0-wafcfcfc/tartan.png)
+![Woven sample](/setts/s8/k108b4w4wa2w4b1ba2wa2~b5c5c5c-ba202060-k101010-wc0c0c0-wafcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBWWWBBW
 
 | Tartans |
 |---------------|
-| [Modern Craft (Masonic)](/setts/s8/k216b8w8wa4w8b2ba4wa4-b5c5c5c-ba202060-k101010-wc0c0c0-wafcfcfc/)|
-|![Modern Craft (Masonic) example sett](/setts/s8/k216b8w8wa4w8b2ba4wa4-b5c5c5c-ba202060-k101010-wc0c0c0-wafcfcfc/sett.png)|
+| [Modern Craft (Masonic)](/setts/s8/k108b4w4wa2w4b1ba2wa2~b5c5c5c-ba202060-k101010-wc0c0c0-wafcfcfc~x2/)|
+|![Modern Craft (Masonic) example sett](/setts/s8/k108b4w4wa2w4b1ba2wa2~b5c5c5c-ba202060-k101010-wc0c0c0-wafcfcfc~x2/sett.png)|

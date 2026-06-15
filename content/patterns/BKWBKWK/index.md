@@ -6,7 +6,7 @@ BKWBKWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b112k8w2b12k40w4k40-b202060-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b56k4w1b6k20w2k20~b202060-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWBKWK
 
 | Tartans |
 |---------------|
-| [Dalziel Rugby Club (Corporate)](/setts/s7/b112k8w2b12k40w4k40-b202060-k101010-we0e0e0/)|
-|![Dalziel Rugby Club (Corporate) example sett](/setts/s7/b112k8w2b12k40w4k40-b202060-k101010-we0e0e0/sett.png)|
+| [Dalziel Rugby Club (Corporate)](/setts/s7/b56k4w1b6k20w2k20~b202060-k101010-we0e0e0~x2/)|
+|![Dalziel Rugby Club (Corporate) example sett](/setts/s7/b56k4w1b6k20w2k20~b202060-k101010-we0e0e0~x2/sett.png)|

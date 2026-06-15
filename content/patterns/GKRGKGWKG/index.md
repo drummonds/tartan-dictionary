@@ -16,5 +16,5 @@ GKRGKGWKG
 
 | Tartans |
 |---------------|
-| [Graham, Red Dress](/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/)|
-|![Graham, Red Dress example sett](/setts/s9/g4k4r32g16k24ga32w32k4g4-g789484-ga003820-k101010-rc80000-wfcfcfc/sett.png)|
+| [Graham, Red Dress](/setts/s9/g1k1r8g4k6ga8w8k1g1~g789484-ga003820-k101010-rc80000-wfcfcfc~x4/)|
+|![Graham, Red Dress example sett](/setts/s9/g1k1r8g4k6ga8w8k1g1~g789484-ga003820-k101010-rc80000-wfcfcfc~x4/sett.png)|

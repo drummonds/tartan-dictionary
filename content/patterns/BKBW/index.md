@@ -6,7 +6,7 @@ BKBW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b24k16ba30w16-b2e2528-ba5f749c-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s4/b12k8ba15w8~b2e2528-ba5f749c-k101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,11 +18,11 @@ BKBW
 
 | Tartans |
 |---------------|
-| [Equity Vision Ltd](/setts/s4/b24k16ba30w16-b2e2528-ba5f749c-k101010-wffffff/)|
-|![Equity Vision Ltd example sett](/setts/s4/b24k16ba30w16-b2e2528-ba5f749c-k101010-wffffff/sett.png)|
-| [Osborne, Luke Alexander (Personal)](/setts/s4/b124k32ba16w8-b141e46-ba3d2e60-k1c1714-wf8f8f8/)|
-|![Osborne, Luke Alexander (Personal) example sett](/setts/s4/b124k32ba16w8-b141e46-ba3d2e60-k1c1714-wf8f8f8/sett.png)|
-| [Coinean Dubh](/setts/s4/b100k24b42w10-b003c64-k101010-wffffff/)|
-|![Coinean Dubh example sett](/setts/s4/b100k24b42w10-b003c64-k101010-wffffff/sett.png)|
-| [Graham Grey - 1820 (Fashion?)](/setts/s4/b100k36b40w8-b5c5c5c-k101010-wfcfcfc/)|
-|![Graham Grey - 1820 (Fashion?) example sett](/setts/s4/b100k36b40w8-b5c5c5c-k101010-wfcfcfc/sett.png)|
+| [Equity Vision Ltd](/setts/s4/b12k8ba15w8~b2e2528-ba5f749c-k101010-wffffff~x2/)|
+|![Equity Vision Ltd example sett](/setts/s4/b12k8ba15w8~b2e2528-ba5f749c-k101010-wffffff~x2/sett.png)|
+| [Osborne, Luke Alexander (Personal)](/setts/s4/b31k8ba4w2~b141e46-ba3d2e60-k1c1714-wf8f8f8~x4/)|
+|![Osborne, Luke Alexander (Personal) example sett](/setts/s4/b31k8ba4w2~b141e46-ba3d2e60-k1c1714-wf8f8f8~x4/sett.png)|
+| [Coinean Dubh](/setts/s4/b50k12b21w5~b003c64-k101010-wffffff~x2/)|
+|![Coinean Dubh example sett](/setts/s4/b50k12b21w5~b003c64-k101010-wffffff~x2/sett.png)|
+| [Graham Grey - 1820 (Fashion?)](/setts/s4/b25k9b10w2~b5c5c5c-k101010-wfcfcfc~x4/)|
+|![Graham Grey - 1820 (Fashion?) example sett](/setts/s4/b25k9b10w2~b5c5c5c-k101010-wfcfcfc~x4/sett.png)|

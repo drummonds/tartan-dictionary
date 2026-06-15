@@ -16,5 +16,5 @@ BYBBBRBRBRBY
 
 | Tartans |
 |---------------|
-| [Philadelphia Police and Fire P&D](/setts/s12/b18y8b8ba82b8r8ba8r30ba8r8b82y8-b202060-ba5c8ca8-rc80000-ye8c000/)|
-|![Philadelphia Police and Fire P&D example sett](/setts/s12/b18y8b8ba82b8r8ba8r30ba8r8b82y8-b202060-ba5c8ca8-rc80000-ye8c000/sett.png)|
+| [Philadelphia Police and Fire P&D](/setts/s12/b9y4b4ba41b4r4ba4r15ba4r4b41y4~b202060-ba5c8ca8-rc80000-ye8c000~x2/)|
+|![Philadelphia Police and Fire P&D example sett](/setts/s12/b9y4b4ba41b4r4ba4r15ba4r4b41y4~b202060-ba5c8ca8-rc80000-ye8c000~x2/sett.png)|

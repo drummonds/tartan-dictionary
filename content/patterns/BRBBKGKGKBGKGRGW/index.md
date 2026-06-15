@@ -16,5 +16,5 @@ BRBBKGKGKBGKGRGW
 
 | Tartans |
 |---------------|
-| [Annandale (Personal)](/setts/s16/b6r4ba4b32k4g4k4g4k4b32g4k20g8r8g24w6-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0/)|
-|![Annandale (Personal) example sett](/setts/s16/b6r4ba4b32k4g4k4g4k4b32g4k20g8r8g24w6-b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Annandale (Personal)](/setts/s16/b3r2ba2b16k2g2k2g2k2b16g2k10g4r4g12w3~b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Annandale (Personal) example sett](/setts/s16/b3r2ba2b16k2g2k2g2k2b16g2k10g4r4g12w3~b2c2c80-ba2888c4-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

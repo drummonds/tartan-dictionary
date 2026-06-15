@@ -6,7 +6,7 @@ GW
 
 It is a 2 stripes tartan.
 
-![Woven sample](/setts/s2/g6w6-g604000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s2/g1w1~g604000-wc0c0c0~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GW
 
 | Tartans |
 |---------------|
-| [Shepherd Brown & White (Fashion?)](/setts/s2/g6w6-g604000-wc0c0c0/)|
-|![Shepherd Brown & White (Fashion?) example sett](/setts/s2/g6w6-g604000-wc0c0c0/sett.png)|
+| [Shepherd Brown & White (Fashion?)](/setts/s2/g1w1~g604000-wc0c0c0~x6/)|
+|![Shepherd Brown & White (Fashion?) example sett](/setts/s2/g1w1~g604000-wc0c0c0~x6/sett.png)|

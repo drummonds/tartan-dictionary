@@ -6,7 +6,7 @@ GYKRGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g6y48k30r6g50k6-g408060-k101010-ra888b4-ye09894/tartan.png)
+![Woven sample](/setts/s6/g3y24k15r3g25k3~g408060-k101010-ra888b4-ye09894~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYKRGK
 
 | Tartans |
 |---------------|
-| [Un-named (D C Dalgliesh) #3](/setts/s6/g6y48k30r6g50k6-g408060-k101010-ra888b4-ye09894/)|
-|![Un-named (D C Dalgliesh) #3 example sett](/setts/s6/g6y48k30r6g50k6-g408060-k101010-ra888b4-ye09894/sett.png)|
+| [Un-named (D C Dalgliesh) #3](/setts/s6/g3y24k15r3g25k3~g408060-k101010-ra888b4-ye09894~x2/)|
+|![Un-named (D C Dalgliesh) #3 example sett](/setts/s6/g3y24k15r3g25k3~g408060-k101010-ra888b4-ye09894~x2/sett.png)|

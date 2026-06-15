@@ -16,5 +16,5 @@ GKGKRKRKW
 
 | Tartans |
 |---------------|
-| [New Golf Club](/setts/s9/g8k8g46k22r4k4r4k40w8-g004010-k000030-rc00000-we0e0e0/)|
-|![New Golf Club example sett](/setts/s9/g8k8g46k22r4k4r4k40w8-g004010-k000030-rc00000-we0e0e0/sett.png)|
+| [New Golf Club](/setts/s9/g4k4g23k11r2k2r2k20w4~g004010-k000030-rc00000-we0e0e0~x2/)|
+|![New Golf Club example sett](/setts/s9/g4k4g23k11r2k2r2k20w4~g004010-k000030-rc00000-we0e0e0~x2/sett.png)|

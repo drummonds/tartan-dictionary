@@ -16,5 +16,5 @@ KRBRRBWBR
 
 | Tartans |
 |---------------|
-| [Salt Lake Scots](/setts/s9/r34b4w4b4r40ra36ba6ra12k4-b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc/)|
-|![Salt Lake Scots example sett](/setts/s9/r34b4w4b4r40ra36ba6ra12k4-b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc/sett.png)|
+| [Salt Lake Scots](/setts/s9/r17b2w2b2r20ra18ba3ra6k2~b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc~x2/)|
+|![Salt Lake Scots example sett](/setts/s9/r17b2w2b2r20ra18ba3ra6k2~b788cb4-ba000064-k000000-r640000-ra8c8c8c-wfcfcfc~x2/sett.png)|

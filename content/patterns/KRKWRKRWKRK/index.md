@@ -16,5 +16,5 @@ KRKWRKRWKRK
 
 | Tartans |
 |---------------|
-| [Oregon State University](/setts/s11/k12r16k26w2r22k2r22w8k4r2k4-k000000-rd8732c-wffffff/)|
-|![Oregon State University example sett](/setts/s11/k12r16k26w2r22k2r22w8k4r2k4-k000000-rd8732c-wffffff/sett.png)|
+| [Oregon State University](/setts/s11/k6r8k13w1r11k1r11w4k2r1k2~k000000-rd8732c-wffffff~x2/)|
+|![Oregon State University example sett](/setts/s11/k6r8k13w1r11k1r11w4k2r1k2~k000000-rd8732c-wffffff~x2/sett.png)|

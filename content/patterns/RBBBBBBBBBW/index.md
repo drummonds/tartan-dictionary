@@ -16,5 +16,5 @@ RBBBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Toronto Blue Jays](/setts/s11/r4b2ba26bb26b8bb8b8bb8ba26b2w4-b280034-ba2888c4-bb646464-rc80000-wfcfcfc/)|
-|![Toronto Blue Jays example sett](/setts/s11/r4b2ba26bb26b8bb8b8bb8ba26b2w4-b280034-ba2888c4-bb646464-rc80000-wfcfcfc/sett.png)|
+| [Toronto Blue Jays](/setts/s11/r2b1ba13bb13b4bb4b4bb4ba13b1w2~b280034-ba2888c4-bb646464-rc80000-wfcfcfc~x2/)|
+|![Toronto Blue Jays example sett](/setts/s11/r2b1ba13bb13b4bb4b4bb4ba13b1w2~b280034-ba2888c4-bb646464-rc80000-wfcfcfc~x2/sett.png)|

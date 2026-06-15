@@ -16,5 +16,5 @@ BRYWYWYWYYWY
 
 | Tartans |
 |---------------|
-| [Gary (Personal)](/setts/s12/b8r4y16w8y48w32y48w8y8y8w4y8-b6c0070-rc80000-wfcfcfc-yd87c00/)|
-|![Gary (Personal) example sett](/setts/s12/b8r4y16w8y48w32y48w8y8y8w4y8-b6c0070-rc80000-wfcfcfc-yd87c00/sett.png)|
+| [Gary (Personal)](/setts/s12/b2r1y4w2y12w8y12w2y2y2w1y2~b6c0070-rc80000-wfcfcfc-yd87c00~x4/)|
+|![Gary (Personal) example sett](/setts/s12/b2r1y4w2y12w8y12w2y2y2w1y2~b6c0070-rc80000-wfcfcfc-yd87c00~x4/sett.png)|

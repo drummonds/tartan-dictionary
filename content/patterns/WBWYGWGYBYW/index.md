@@ -16,5 +16,5 @@ WBWYGWGYBYW
 
 | Tartans |
 |---------------|
-| [Bouguet, Adrian (Personal)](/setts/s11/w28b18w28y8g6wa6g6y8b28y4wb6-b5c8ca8-g005448-w98c8e8-wac8c8c8-wbffffff-yebb790/)|
-|![Bouguet, Adrian (Personal) example sett](/setts/s11/w28b18w28y8g6wa6g6y8b28y4wb6-b5c8ca8-g005448-w98c8e8-wac8c8c8-wbffffff-yebb790/sett.png)|
+| [Bouguet, Adrian (Personal)](/setts/s11/w14b9w14y4g3wa3g3y4b14y2wb3~b5c8ca8-g005448-w98c8e8-wac8c8c8-wbffffff-yebb790~x2/)|
+|![Bouguet, Adrian (Personal) example sett](/setts/s11/w14b9w14y4g3wa3g3y4b14y2wb3~b5c8ca8-g005448-w98c8e8-wac8c8c8-wbffffff-yebb790~x2/sett.png)|

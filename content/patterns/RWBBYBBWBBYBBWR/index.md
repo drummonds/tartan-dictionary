@@ -16,5 +16,5 @@ RWBBYBBWBBYBBWR
 
 | Tartans |
 |---------------|
-| [Buchanan, John & Isabella (Commemor)](/setts/s15/r6w6b48ba72y6ba6b12w18b36ba6y6ba6b6w6r6-b1c1c50-ba2888c4-rc80000-we0e0e0-ye8c000/)|
-|![Buchanan, John & Isabella (Commemor) example sett](/setts/s15/r6w6b48ba72y6ba6b12w18b36ba6y6ba6b6w6r6-b1c1c50-ba2888c4-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Buchanan, John & Isabella (Commemor)](/setts/s15/r1w1b8ba12y1ba1b2w3b6ba1y1ba1b1w1r1~b1c1c50-ba2888c4-rc80000-we0e0e0-ye8c000~x6/)|
+|![Buchanan, John & Isabella (Commemor) example sett](/setts/s15/r1w1b8ba12y1ba1b2w3b6ba1y1ba1b1w1r1~b1c1c50-ba2888c4-rc80000-we0e0e0-ye8c000~x6/sett.png)|

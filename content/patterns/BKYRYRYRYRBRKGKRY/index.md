@@ -16,5 +16,5 @@ BKYRYRYRYRBRKGKRY
 
 | Tartans |
 |---------------|
-| [Innes Dress, Red (Dance)](/setts/s17/b6k4y40r4y6r4y6r8ya6r4ba8r4k4g12k6r4y6-b2474e8-ba1c0070-g006818-k101010-r880000-yb8b8b8-yad09800/)|
-|![Innes Dress, Red (Dance) example sett](/setts/s17/b6k4y40r4y6r4y6r8ya6r4ba8r4k4g12k6r4y6-b2474e8-ba1c0070-g006818-k101010-r880000-yb8b8b8-yad09800/sett.png)|
+| [Innes Dress, Red (Dance)](/setts/s17/b3k2y20r2y3r2y3r4ya3r2ba4r2k2g6k3r2y3~b2474e8-ba1c0070-g006818-k101010-r880000-yb8b8b8-yad09800~x2/)|
+|![Innes Dress, Red (Dance) example sett](/setts/s17/b3k2y20r2y3r2y3r4ya3r2ba4r2k2g6k3r2y3~b2474e8-ba1c0070-g006818-k101010-r880000-yb8b8b8-yad09800~x2/sett.png)|

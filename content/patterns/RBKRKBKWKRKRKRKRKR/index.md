@@ -16,5 +16,5 @@ RBKRKBKWKRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Royal Canadian Air Force #3](/setts/s18/r8b16k2r8k2b32k4w6k4r8k4r6k8r6k12r6k16r8-b3c82af-k101010-rdc0000-we0e0e0/)|
-|![Royal Canadian Air Force #3 example sett](/setts/s18/r8b16k2r8k2b32k4w6k4r8k4r6k8r6k12r6k16r8-b3c82af-k101010-rdc0000-we0e0e0/sett.png)|
+| [Royal Canadian Air Force #3](/setts/s18/r4b8k1r4k1b16k2w3k2r4k2r3k4r3k6r3k8r4~b3c82af-k101010-rdc0000-we0e0e0~x2/)|
+|![Royal Canadian Air Force #3 example sett](/setts/s18/r4b8k1r4k1b16k2w3k2r4k2r3k4r3k6r3k8r4~b3c82af-k101010-rdc0000-we0e0e0~x2/sett.png)|

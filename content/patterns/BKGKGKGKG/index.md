@@ -16,5 +16,5 @@ BKGKGKGKG
 
 | Tartans |
 |---------------|
-| [Menez Du](/setts/s9/b10k18g14k6g14k6g14k50g6-b202060-g006818-k101010/)|
-|![Menez Du example sett](/setts/s9/b10k18g14k6g14k6g14k50g6-b202060-g006818-k101010/sett.png)|
+| [Menez Du](/setts/s9/b5k9g7k3g7k3g7k25g3~b202060-g006818-k101010~x2/)|
+|![Menez Du example sett](/setts/s9/b5k9g7k3g7k3g7k25g3~b202060-g006818-k101010~x2/sett.png)|

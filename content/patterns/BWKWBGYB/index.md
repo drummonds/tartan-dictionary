@@ -6,7 +6,7 @@ BWKWBGYB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b124w8k4w14ba4g6y4b32-b141e46-ba5a008c-g005020-k101010-wffffff-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b62w4k2w7ba2g3y2b16~b141e46-ba5a008c-g005020-k101010-wffffff-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKWBGYB
 
 | Tartans |
 |---------------|
-| [Boat of Garten](/setts/s8/b124w8k4w14ba4g6y4b32-b141e46-ba5a008c-g005020-k101010-wffffff-ye8c000/)|
-|![Boat of Garten example sett](/setts/s8/b124w8k4w14ba4g6y4b32-b141e46-ba5a008c-g005020-k101010-wffffff-ye8c000/sett.png)|
+| [Boat of Garten](/setts/s8/b62w4k2w7ba2g3y2b16~b141e46-ba5a008c-g005020-k101010-wffffff-ye8c000~x2/)|
+|![Boat of Garten example sett](/setts/s8/b62w4k2w7ba2g3y2b16~b141e46-ba5a008c-g005020-k101010-wffffff-ye8c000~x2/sett.png)|

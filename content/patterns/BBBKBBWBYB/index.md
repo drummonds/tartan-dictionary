@@ -16,5 +16,5 @@ BBBKBBWBYB
 
 | Tartans |
 |---------------|
-| [Australian Heavy Horse](/setts/s10/b8ba4b36k4bb10bc32w4bb4y4b8-b817d8c-ba2b6072-bb676278-bc4f2817-k101010-wffffff-yb98a76/)|
-|![Australian Heavy Horse example sett](/setts/s10/b8ba4b36k4bb10bc32w4bb4y4b8-b817d8c-ba2b6072-bb676278-bc4f2817-k101010-wffffff-yb98a76/sett.png)|
+| [Australian Heavy Horse](/setts/s10/b4ba2b18k2bb5bc16w2bb2y2b4~b817d8c-ba2b6072-bb676278-bc4f2817-k101010-wffffff-yb98a76~x2/)|
+|![Australian Heavy Horse example sett](/setts/s10/b4ba2b18k2bb5bc16w2bb2y2b4~b817d8c-ba2b6072-bb676278-bc4f2817-k101010-wffffff-yb98a76~x2/sett.png)|

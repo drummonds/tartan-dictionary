@@ -16,5 +16,5 @@ BKGKYWYKY
 
 | Tartans |
 |---------------|
-| [O'Rourke (Estimated threadcount)](/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/)|
-|![O'Rourke (Estimated threadcount) example sett](/setts/s9/b100k4g24k4y40w12y40k4ya12-b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000/sett.png)|
+| [O'Rourke (Estimated threadcount)](/setts/s9/b25k1g6k1y10w3y10k1ya3~b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000~x4/)|
+|![O'Rourke (Estimated threadcount) example sett](/setts/s9/b25k1g6k1y10w3y10k1ya3~b5c8ca8-g603800-k101010-wf8f8f8-ya0a0a0-yae8c000~x4/sett.png)|

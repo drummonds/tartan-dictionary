@@ -16,5 +16,5 @@ WYGYKYBKY
 
 | Tartans |
 |---------------|
-| [MacManus](/setts/s9/w12y8g32y8k12y8b60k4y8-b3c5c6c-g006818-k101010-wf8f8f8-yc4bc68/)|
-|![MacManus example sett](/setts/s9/w12y8g32y8k12y8b60k4y8-b3c5c6c-g006818-k101010-wf8f8f8-yc4bc68/sett.png)|
+| [MacManus](/setts/s9/w3y2g8y2k3y2b15k1y2~b3c5c6c-g006818-k101010-wf8f8f8-yc4bc68~x4/)|
+|![MacManus example sett](/setts/s9/w3y2g8y2k3y2b15k1y2~b3c5c6c-g006818-k101010-wf8f8f8-yc4bc68~x4/sett.png)|

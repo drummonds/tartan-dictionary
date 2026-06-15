@@ -6,7 +6,7 @@ KRBRKYKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8k12y4k12r8b32r64k4-b2c2c80-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r2k3y1k3r2b8r16k1~b2c2c80-k101010-rc80000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,11 +18,11 @@ KRBRKYKR
 
 | Tartans |
 |---------------|
-| [Leslie Red (VS) (Clan)](/setts/s8/r8k12y4k12r8b32r64k4-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Leslie Red (VS) (Clan) example sett](/setts/s8/r8k12y4k12r8b32r64k4-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
-| [Leslie](/setts/s8/r8k12y2k12r8b32r64k2-b304080-k000000-rc00000-yf0c000/)|
-|![Leslie example sett](/setts/s8/r8k12y2k12r8b32r64k2-b304080-k000000-rc00000-yf0c000/sett.png)|
-| [Leslie Dress](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/)|
-|![Leslie Dress example sett](/setts/s8/r8k12y2k12r8b32r64k2-b000052-k000000-raa0000-yaaaa00/sett.png)|
-| [Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r8k12y2k12r8b32r64k2-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/r8k12y2k12r8b32r64k2-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Leslie Red (VS) (Clan)](/setts/s8/r2k3y1k3r2b8r16k1~b2c2c80-k101010-rc80000-ye8c000~x4/)|
+|![Leslie Red (VS) (Clan) example sett](/setts/s8/r2k3y1k3r2b8r16k1~b2c2c80-k101010-rc80000-ye8c000~x4/sett.png)|
+| [Leslie](/setts/s8/r4k6y1k6r4b16r32k1~b304080-k000000-rc00000-yf0c000~x2/)|
+|![Leslie example sett](/setts/s8/r4k6y1k6r4b16r32k1~b304080-k000000-rc00000-yf0c000~x2/sett.png)|
+| [Leslie Dress](/setts/s8/r4k6y1k6r4b16r32k1~b000052-k000000-raa0000-yaaaa00~x2/)|
+|![Leslie Dress example sett](/setts/s8/r4k6y1k6r4b16r32k1~b000052-k000000-raa0000-yaaaa00~x2/sett.png)|
+| [Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r4k6y1k6r4b16r32k1~b2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/r4k6y1k6r4b16r32k1~b2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

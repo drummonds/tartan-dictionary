@@ -6,7 +6,7 @@ BYBBBWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b100y4b24ba4b24w16bb12wa4-b34349c-ba1474b4-bb4888bc-w98c8e8-wae0e0e0-yd87c00/tartan.png)
+![Woven sample](/setts/s8/b25y1b6ba1b6w4bb3wa1~b34349c-ba1474b4-bb4888bc-w98c8e8-wae0e0e0-yd87c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBBBWBW
 
 | Tartans |
 |---------------|
-| [PSN Test](/setts/s8/b100y4b24ba4b24w16bb12wa4-b34349c-ba1474b4-bb4888bc-w98c8e8-wae0e0e0-yd87c00/)|
-|![PSN Test example sett](/setts/s8/b100y4b24ba4b24w16bb12wa4-b34349c-ba1474b4-bb4888bc-w98c8e8-wae0e0e0-yd87c00/sett.png)|
+| [PSN Test](/setts/s8/b25y1b6ba1b6w4bb3wa1~b34349c-ba1474b4-bb4888bc-w98c8e8-wae0e0e0-yd87c00~x4/)|
+|![PSN Test example sett](/setts/s8/b25y1b6ba1b6w4bb3wa1~b34349c-ba1474b4-bb4888bc-w98c8e8-wae0e0e0-yd87c00~x4/sett.png)|

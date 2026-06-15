@@ -16,5 +16,5 @@ BBRBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Sunart, Pink (Dance)](/setts/s11/b6ba2r40ba40w4ba4w4ba4w64ba2wa6-b780078-ba440044-re87878-wf0e0c8-wac49cd8/)|
-|![Sunart, Pink (Dance) example sett](/setts/s11/b6ba2r40ba40w4ba4w4ba4w64ba2wa6-b780078-ba440044-re87878-wf0e0c8-wac49cd8/sett.png)|
+| [Sunart, Pink (Dance)](/setts/s11/b3ba1r20ba20w2ba2w2ba2w32ba1wa3~b780078-ba440044-re87878-wf0e0c8-wac49cd8~x2/)|
+|![Sunart, Pink (Dance) example sett](/setts/s11/b3ba1r20ba20w2ba2w2ba2w32ba1wa3~b780078-ba440044-re87878-wf0e0c8-wac49cd8~x2/sett.png)|

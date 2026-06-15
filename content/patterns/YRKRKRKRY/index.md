@@ -16,7 +16,7 @@ YRKRKRKRY
 
 | Tartans |
 |---------------|
-| [MacIver](/setts/s9/y2r24k4r4k32r4k4r24ya2-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacIver example sett](/setts/s9/y2r24k4r4k32r4k4r24ya2-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
-| [MacIver](/setts/s9/y2r12k2r2k32r2k2r12ya2-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacIver example sett](/setts/s9/y2r12k2r2k32r2k2r12ya2-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [MacIver](/setts/s9/y1r12k2r2k16r2k2r12ya1~k000000-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![MacIver example sett](/setts/s9/y1r12k2r2k16r2k2r12ya1~k000000-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|
+| [MacIver](/setts/s9/y1r6k1r1k16r1k1r6ya1~k000000-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![MacIver example sett](/setts/s9/y1r6k1r1k16r1k1r6ya1~k000000-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|

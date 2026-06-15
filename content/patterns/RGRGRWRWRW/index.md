@@ -16,5 +16,5 @@ RGRGRWRWRW
 
 | Tartans |
 |---------------|
-| [Ben Cleuch](/setts/s10/w136r6w6r16w6r54g32ra6g40r6-g64340c-ra07c58-ra90000c-wf8f4d0/)|
-|![Ben Cleuch example sett](/setts/s10/w136r6w6r16w6r54g32ra6g40r6-g64340c-ra07c58-ra90000c-wf8f4d0/sett.png)|
+| [Ben Cleuch](/setts/s10/w68r3w3r8w3r27g16ra3g20r3~g64340c-ra07c58-ra90000c-wf8f4d0~x2/)|
+|![Ben Cleuch example sett](/setts/s10/w68r3w3r8w3r27g16ra3g20r3~g64340c-ra07c58-ra90000c-wf8f4d0~x2/sett.png)|

@@ -6,7 +6,7 @@ GKGKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k24g12k12g44k4g8-g004c00-k28140c/tartan.png)
+![Woven sample](/setts/s6/k6g3k3g11k1g2~g004c00-k28140c~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKGK
 
 | Tartans |
 |---------------|
-| [Carnet (Fashion)](/setts/s6/k24g12k12g44k4g8-g004c00-k28140c/)|
-|![Carnet (Fashion) example sett](/setts/s6/k24g12k12g44k4g8-g004c00-k28140c/sett.png)|
+| [Carnet (Fashion)](/setts/s6/k6g3k3g11k1g2~g004c00-k28140c~x4/)|
+|![Carnet (Fashion) example sett](/setts/s6/k6g3k3g11k1g2~g004c00-k28140c~x4/sett.png)|

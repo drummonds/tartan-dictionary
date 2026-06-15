@@ -16,5 +16,5 @@ BKBKKKWKGKGKGK
 
 | Tartans |
 |---------------|
-| [Strathtummel](/setts/s14/b74k4b4k6ka26k20w4k20g2k4g4k4g18k26-b000680-g434f04-k23001f-ka101010-wffffff/)|
-|![Strathtummel example sett](/setts/s14/b74k4b4k6ka26k20w4k20g2k4g4k4g18k26-b000680-g434f04-k23001f-ka101010-wffffff/sett.png)|
+| [Strathtummel](/setts/s14/b37k2b2k3ka13k10w2k10g1k2g2k2g9k13~b000680-g434f04-k23001f-ka101010-wffffff~x2/)|
+|![Strathtummel example sett](/setts/s14/b37k2b2k3ka13k10w2k10g1k2g2k2g9k13~b000680-g434f04-k23001f-ka101010-wffffff~x2/sett.png)|

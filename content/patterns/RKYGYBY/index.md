@@ -6,7 +6,7 @@ RKYGYBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r8k24y4g48y4b24ya8-b242470-g004828-k101010-rc80000-yb0b430-yab4bcc0/tartan.png)
+![Woven sample](/setts/s7/r2k6y1g12y1b6ya2~b242470-g004828-k101010-rc80000-yb0b430-yab4bcc0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKYGYBY
 
 | Tartans |
 |---------------|
-| [James (Personal)](/setts/s7/r8k24y4g48y4b24ya8-b242470-g004828-k101010-rc80000-yb0b430-yab4bcc0/)|
-|![James (Personal) example sett](/setts/s7/r8k24y4g48y4b24ya8-b242470-g004828-k101010-rc80000-yb0b430-yab4bcc0/sett.png)|
+| [James (Personal)](/setts/s7/r2k6y1g12y1b6ya2~b242470-g004828-k101010-rc80000-yb0b430-yab4bcc0~x4/)|
+|![James (Personal) example sett](/setts/s7/r2k6y1g12y1b6ya2~b242470-g004828-k101010-rc80000-yb0b430-yab4bcc0~x4/sett.png)|

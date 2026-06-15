@@ -16,5 +16,5 @@ BYBWGBBBWBBBGWBYBW
 
 | Tartans |
 |---------------|
-| [Stewart Dress Purple Dance Tartan Tartan Number: 6551. Earliest known date: pre 1992 A D C Dalgliesh Dance variation of Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/w110b24y4b6w4g20ba18b4ba12w4ba12b4ba18g20w4b6y4b24-b440044-ba780078-g006818-wf0ece4-ybc8c00/)|
-|![Stewart Dress Purple Dance Tartan Tartan Number: 6551. Earliest known date: pre 1992 A D C Dalgliesh Dance variation of Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/w110b24y4b6w4g20ba18b4ba12w4ba12b4ba18g20w4b6y4b24-b440044-ba780078-g006818-wf0ece4-ybc8c00/sett.png)|
+| [Stewart Dress Purple Dance Tartan Tartan Number: 6551. Earliest known date: pre 1992 A D C Dalgliesh Dance variation of Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/w55b12y2b3w2g10ba9b2ba6w2ba6b2ba9g10w2b3y2b12~b440044-ba780078-g006818-wf0ece4-ybc8c00~x2/)|
+|![Stewart Dress Purple Dance Tartan Tartan Number: 6551. Earliest known date: pre 1992 A D C Dalgliesh Dance variation of Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s18/w55b12y2b3w2g10ba9b2ba6w2ba6b2ba9g10w2b3y2b12~b440044-ba780078-g006818-wf0ece4-ybc8c00~x2/sett.png)|

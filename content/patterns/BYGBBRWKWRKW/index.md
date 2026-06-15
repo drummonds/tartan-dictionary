@@ -16,5 +16,5 @@ BYGBBRWKWRKW
 
 | Tartans |
 |---------------|
-| [Queen Mary, RMS](/setts/s12/b48y8g8ba8b48r8w6k36w18r8k6w4-b304080-ba800080-g808080-k000000-rc00020-we0e0e0-yf0c000/)|
-|![Queen Mary, RMS example sett](/setts/s12/b48y8g8ba8b48r8w6k36w18r8k6w4-b304080-ba800080-g808080-k000000-rc00020-we0e0e0-yf0c000/sett.png)|
+| [Queen Mary, RMS](/setts/s12/b24y4g4ba4b24r4w3k18w9r4k3w2~b304080-ba800080-g808080-k000000-rc00020-we0e0e0-yf0c000~x2/)|
+|![Queen Mary, RMS example sett](/setts/s12/b24y4g4ba4b24r4w3k18w9r4k3w2~b304080-ba800080-g808080-k000000-rc00020-we0e0e0-yf0c000~x2/sett.png)|

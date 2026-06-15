@@ -6,7 +6,7 @@ BWGGKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w134k26g34ga26wa80b40-b5c8ca8-g643424-ga603800-k101010-wc0c0c0-wae0e0e0/tartan.png)
+![Woven sample](/setts/s6/w67k13g17ga13wa40b20~b5c8ca8-g643424-ga603800-k101010-wc0c0c0-wae0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWGGKW
 
 | Tartans |
 |---------------|
-| [MacGregor-Ryan (Personal)](/setts/s6/w134k26g34ga26wa80b40-b5c8ca8-g643424-ga603800-k101010-wc0c0c0-wae0e0e0/)|
-|![MacGregor-Ryan (Personal) example sett](/setts/s6/w134k26g34ga26wa80b40-b5c8ca8-g643424-ga603800-k101010-wc0c0c0-wae0e0e0/sett.png)|
+| [MacGregor-Ryan (Personal)](/setts/s6/w67k13g17ga13wa40b20~b5c8ca8-g643424-ga603800-k101010-wc0c0c0-wae0e0e0~x2/)|
+|![MacGregor-Ryan (Personal) example sett](/setts/s6/w67k13g17ga13wa40b20~b5c8ca8-g643424-ga603800-k101010-wc0c0c0-wae0e0e0~x2/sett.png)|

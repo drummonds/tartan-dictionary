@@ -6,7 +6,7 @@ GBBYGBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4b24ba22y12ga12b24g4-b680028-ba1c1c50-g285800-ga604000-ya08858/tartan.png)
+![Woven sample](/setts/s7/g2b12ba11y6ga6b12g2~b680028-ba1c1c50-g285800-ga604000-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBBYGBG
 
 | Tartans |
 |---------------|
-| [Heather MacRae](/setts/s7/g4b24ba22y12ga12b24g4-b680028-ba1c1c50-g285800-ga604000-ya08858/)|
-|![Heather MacRae example sett](/setts/s7/g4b24ba22y12ga12b24g4-b680028-ba1c1c50-g285800-ga604000-ya08858/sett.png)|
+| [Heather MacRae](/setts/s7/g2b12ba11y6ga6b12g2~b680028-ba1c1c50-g285800-ga604000-ya08858~x2/)|
+|![Heather MacRae example sett](/setts/s7/g2b12ba11y6ga6b12g2~b680028-ba1c1c50-g285800-ga604000-ya08858~x2/sett.png)|

@@ -16,7 +16,7 @@ GYGRGYGYGRGYG
 
 | Tartans |
 |---------------|
-| [Terry](/setts/s13/g66y2g6r6ga6y2ga42y2ga6r6ga6y2ga42-g5c6428-ga006818-rc80000-yd09800/)|
-|![Terry example sett](/setts/s13/g66y2g6r6ga6y2ga42y2ga6r6ga6y2ga42-g5c6428-ga006818-rc80000-yd09800/sett.png)|
-| [Terry](/setts/s13/g66y2g6r6ga6y2ga42y2ga6r6ga6y2ga42-g30a010-ga008000-rc00000-yf0c000/)|
-|![Terry example sett](/setts/s13/g66y2g6r6ga6y2ga42y2ga6r6ga6y2ga42-g30a010-ga008000-rc00000-yf0c000/sett.png)|
+| [Terry](/setts/s13/g33y1g3r3ga3y1ga21y1ga3r3ga3y1ga21~g5c6428-ga006818-rc80000-yd09800~x2/)|
+|![Terry example sett](/setts/s13/g33y1g3r3ga3y1ga21y1ga3r3ga3y1ga21~g5c6428-ga006818-rc80000-yd09800~x2/sett.png)|
+| [Terry](/setts/s13/g33y1g3r3ga3y1ga21y1ga3r3ga3y1ga21~g30a010-ga008000-rc00000-yf0c000~x2/)|
+|![Terry example sett](/setts/s13/g33y1g3r3ga3y1ga21y1ga3r3ga3y1ga21~g30a010-ga008000-rc00000-yf0c000~x2/sett.png)|

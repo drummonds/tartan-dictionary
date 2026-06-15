@@ -6,7 +6,7 @@ BBKGBBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6ba84k4g34ba18b6w4-b64008c-ba14283c-g005448-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s7/b3ba42k2g17ba9b3w2~b64008c-ba14283c-g005448-k101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKGBBW
 
 | Tartans |
 |---------------|
-| [Barrance, Paul and Kelly (Personal)](/setts/s7/b6ba84k4g34ba18b6w4-b64008c-ba14283c-g005448-k101010-wffffff/)|
-|![Barrance, Paul and Kelly (Personal) example sett](/setts/s7/b6ba84k4g34ba18b6w4-b64008c-ba14283c-g005448-k101010-wffffff/sett.png)|
+| [Barrance, Paul and Kelly (Personal)](/setts/s7/b3ba42k2g17ba9b3w2~b64008c-ba14283c-g005448-k101010-wffffff~x2/)|
+|![Barrance, Paul and Kelly (Personal) example sett](/setts/s7/b3ba42k2g17ba9b3w2~b64008c-ba14283c-g005448-k101010-wffffff~x2/sett.png)|

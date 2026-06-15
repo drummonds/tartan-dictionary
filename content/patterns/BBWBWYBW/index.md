@@ -6,7 +6,7 @@ BBWBWYBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w6b18y2wa6ba18wa2b80ba4-b14283c-ba780078-we0e0e0-waa8ace8-ye8c000/tartan.png)
+![Woven sample](/setts/s8/w3b9y1wa3ba9wa1b40ba2~b14283c-ba780078-we0e0e0-waa8ace8-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBWYBW
 
 | Tartans |
 |---------------|
-| [Parkin](/setts/s8/w6b18y2wa6ba18wa2b80ba4-b14283c-ba780078-we0e0e0-waa8ace8-ye8c000/)|
-|![Parkin example sett](/setts/s8/w6b18y2wa6ba18wa2b80ba4-b14283c-ba780078-we0e0e0-waa8ace8-ye8c000/sett.png)|
+| [Parkin](/setts/s8/w3b9y1wa3ba9wa1b40ba2~b14283c-ba780078-we0e0e0-waa8ace8-ye8c000~x2/)|
+|![Parkin example sett](/setts/s8/w3b9y1wa3ba9wa1b40ba2~b14283c-ba780078-we0e0e0-waa8ace8-ye8c000~x2/sett.png)|

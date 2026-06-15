@@ -6,7 +6,7 @@ KYKYKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k9y48k12y9k36w6-k000030-we0e0e0-yb0b0b0/tartan.png)
+![Woven sample](/setts/s6/k3y16k4y3k12w2~k000030-we0e0e0-yb0b0b0~x3/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKYKW
 
 | Tartans |
 |---------------|
-| [MacMugen](/setts/s6/k9y48k12y9k36w6-k000030-we0e0e0-yb0b0b0/)|
-|![MacMugen example sett](/setts/s6/k9y48k12y9k36w6-k000030-we0e0e0-yb0b0b0/sett.png)|
+| [MacMugen](/setts/s6/k3y16k4y3k12w2~k000030-we0e0e0-yb0b0b0~x3/)|
+|![MacMugen example sett](/setts/s6/k3y16k4y3k12w2~k000030-we0e0e0-yb0b0b0~x3/sett.png)|

@@ -6,7 +6,7 @@ BRR
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/b20r20ra6-b1474b4-rc80000-raac0000/tartan.png)
+![Woven sample](/setts/s3/b10r10ra3~b1474b4-rc80000-raac0000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRR
 
 | Tartans |
 |---------------|
-| [Masai Shuka 19 (Artefact)](/setts/s3/b20r20ra6-b1474b4-rc80000-raac0000/)|
-|![Masai Shuka 19 (Artefact) example sett](/setts/s3/b20r20ra6-b1474b4-rc80000-raac0000/sett.png)|
+| [Masai Shuka 19 (Artefact)](/setts/s3/b10r10ra3~b1474b4-rc80000-raac0000~x2/)|
+|![Masai Shuka 19 (Artefact) example sett](/setts/s3/b10r10ra3~b1474b4-rc80000-raac0000~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKWKRWRW
 
 | Tartans |
 |---------------|
-| [Southern Illinois University (Corp.)](/setts/s9/k10r80k8w4k8r20w8r10w2-k101010-r901c38-we0e0e0/)|
-|![Southern Illinois University (Corp.) example sett](/setts/s9/k10r80k8w4k8r20w8r10w2-k101010-r901c38-we0e0e0/sett.png)|
+| [Southern Illinois University (Corp.)](/setts/s9/k5r40k4w2k4r10w4r5w1~k101010-r901c38-we0e0e0~x2/)|
+|![Southern Illinois University (Corp.) example sett](/setts/s9/k5r40k4w2k4r10w4r5w1~k101010-r901c38-we0e0e0~x2/sett.png)|

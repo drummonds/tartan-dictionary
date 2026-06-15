@@ -16,5 +16,5 @@ BBWBKBKBKBKB
 
 | Tartans |
 |---------------|
-| [Grampian Police](/setts/s12/b10ba4w2ba4k64b6k8b58k4bb2k6b6-b003c64-ba2074a8-bb2c2c80-k101010-wf8f8f8/)|
-|![Grampian Police example sett](/setts/s12/b10ba4w2ba4k64b6k8b58k4bb2k6b6-b003c64-ba2074a8-bb2c2c80-k101010-wf8f8f8/sett.png)|
+| [Grampian Police](/setts/s12/b5ba2w1ba2k32b3k4b29k2bb1k3b3~b003c64-ba2074a8-bb2c2c80-k101010-wf8f8f8~x2/)|
+|![Grampian Police example sett](/setts/s12/b5ba2w1ba2k32b3k4b29k2bb1k3b3~b003c64-ba2074a8-bb2c2c80-k101010-wf8f8f8~x2/sett.png)|

@@ -16,5 +16,5 @@ GKGKRBWBRKRKRBWBRKGK
 
 | Tartans |
 |---------------|
-| [Hunter of Peebleshire](/setts/s20/g32k4g32k32r4b32w4b32r4k32r4k32r4b32w4b32r4k32g32k4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Hunter of Peebleshire example sett](/setts/s20/g32k4g32k32r4b32w4b32r4k32r4k32r4b32w4b32r4k32g32k4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Hunter of Peebleshire](/setts/s20/g8k1g8k8r1b8w1b8r1k8r1k8r1b8w1b8r1k8g8k1~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x4/)|
+|![Hunter of Peebleshire example sett](/setts/s20/g8k1g8k8r1b8w1b8r1k8r1k8r1b8w1b8r1k8g8k1~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x4/sett.png)|

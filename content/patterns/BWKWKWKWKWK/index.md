@@ -16,5 +16,5 @@ BWKWKWKWKWK
 
 | Tartans |
 |---------------|
-| [Buccleuch Check (9 squares)](/setts/s11/b10w8k8w8k8w8k8w8k8w8k8-b1474b4-k101010-we0e0e0/)|
-|![Buccleuch Check (9 squares) example sett](/setts/s11/b10w8k8w8k8w8k8w8k8w8k8-b1474b4-k101010-we0e0e0/sett.png)|
+| [Buccleuch Check (9 squares)](/setts/s11/b5w4k4w4k4w4k4w4k4w4k4~b1474b4-k101010-we0e0e0~x2/)|
+|![Buccleuch Check (9 squares) example sett](/setts/s11/b5w4k4w4k4w4k4w4k4w4k4~b1474b4-k101010-we0e0e0~x2/sett.png)|

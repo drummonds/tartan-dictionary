@@ -16,5 +16,5 @@ KWBRYRBWKWBWKWKWK
 
 | Tartans |
 |---------------|
-| [Beck (Personal)](/setts/s17/k4w4b30r12y24r12b50w4k8w4b30w8k4w8k4w8k2-b2888c4-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Beck (Personal) example sett](/setts/s17/k4w4b30r12y24r12b50w4k8w4b30w8k4w8k4w8k2-b2888c4-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Beck (Personal)](/setts/s17/k2w2b15r6y12r6b25w2k4w2b15w4k2w4k2w4k1~b2888c4-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Beck (Personal) example sett](/setts/s17/k2w2b15r6y12r6b25w2k4w2b15w4k2w4k2w4k1~b2888c4-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

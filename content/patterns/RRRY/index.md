@@ -6,7 +6,7 @@ RRRY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r48ra24r8y4-r806050-ra906030-yf0c000/tartan.png)
+![Woven sample](/setts/s4/r12ra6r2y1~r806050-ra906030-yf0c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRY
 
 | Tartans |
 |---------------|
-| [Loch Garth](/setts/s4/r48ra24r8y4-r806050-ra906030-yf0c000/)|
-|![Loch Garth example sett](/setts/s4/r48ra24r8y4-r806050-ra906030-yf0c000/sett.png)|
+| [Loch Garth](/setts/s4/r12ra6r2y1~r806050-ra906030-yf0c000~x4/)|
+|![Loch Garth example sett](/setts/s4/r12ra6r2y1~r806050-ra906030-yf0c000~x4/sett.png)|

@@ -16,5 +16,5 @@ KBWBWBKBRBRBW
 
 | Tartans |
 |---------------|
-| [Yarrow Dress, Purple (Dance)](/setts/s13/k4b4w4b4w46b4k18b4r4b42r4b4w4-b780078-k101010-rc04094-we0e0e0/)|
-|![Yarrow Dress, Purple (Dance) example sett](/setts/s13/k4b4w4b4w46b4k18b4r4b42r4b4w4-b780078-k101010-rc04094-we0e0e0/sett.png)|
+| [Yarrow Dress, Purple (Dance)](/setts/s13/k2b2w2b2w23b2k9b2r2b21r2b2w2~b780078-k101010-rc04094-we0e0e0~x2/)|
+|![Yarrow Dress, Purple (Dance) example sett](/setts/s13/k2b2w2b2w23b2k9b2r2b21r2b2w2~b780078-k101010-rc04094-we0e0e0~x2/sett.png)|

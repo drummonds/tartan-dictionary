@@ -1,0 +1,48 @@
+---
+title: "Kilkenny Irish County Tartan Tartan Number: 2280. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+In pattern [GBGRBYGBGYBRG](/patterns/gbgrbygbgybrg/).
+
+
+This was sourced from house-of-tartan.  It is a [13 stripes tartan](/stripes/stripes13/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2280
+
+## Thread count
+G/4 DP10 G54 LT4 DB50 DY10 G6 DP6 G6 DY10 DB50 LT4 G/50
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C1084;"><span style="color:#2C1084;filter:grayscale(1) invert(1) contrast(100);">#2C1084</span></code> `#2C1084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.10 |
+| DP | <code style="background-color:#300438;"><span style="color:#300438;filter:grayscale(1) invert(1) contrast(100);">#300438</span></code> `#300438` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
+| DY | <code style="background-color:#C0A010;"><span style="color:#C0A010;filter:grayscale(1) invert(1) contrast(100);">#C0A010</span></code> `#C0A010` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| G | <code style="background-color:#005438;"><span style="color:#005438;filter:grayscale(1) invert(1) contrast(100);">#005438</span></code> `#005438` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.08 |
+| LT | <code style="background-color:#A46458;"><span style="color:#A46458;filter:grayscale(1) invert(1) contrast(100);">#A46458</span></code> `#A46458` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scottish Rugby Union (Sports)](/setts/s11/b6k2b24k10g2r2g2r2g10k2w3x2~b2c2c80-g006818-k101010-r9c68a4-wc0c0c0/) — ΔT 0.80
+1. [Angove, the Black Swan](/setts/s15/b18ba2k2b2ba2k1b2k8g1y1g6k8b14k2g2x2~b373875-ba433a5a-g649848-k1c1714-yf8e38c/) — ΔT 0.87
+1. [Sverker](/setts/s10/w2b8ba16g3b20g3b3g3ba4wa2x2~b14283c-ba496f81-g503c14-w82cffd-waf8f8f8/) — ΔT 0.88
+1. [Rankin](/setts/s16/b36g10r2g10w2g10r2g10k14r2b12r3b2r2b4w2x2~b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 0.90
+1. [American Society of Travel Agents, The (2001)](/setts/s11/b4g32b4g4b32r6b32ga4b3ga32w4~b141e46-g808080-ga003c14-rfa6496-we0e0e0/) — ΔT 0.97
+1. [Forth](/setts/s11/b4k3b23k9g2ba2g2ba2g8k2y3x2~b2c2c80-ba5c8ca8-g006818-k101010-ye8c000/) — ΔT 0.99
+1. [Glenorchy - National Archives](/setts/s15/g3b2r1b17ra2g8ra4ba1b8ra2g17ra2r1b3ba1x2~b2c2c80-ba5c8ca8-g006818-re87878-rac80000/) — ΔT 1.05
+1. [Unidentified (Teddy Bear)](/setts/s15/g30y2g5y2g4k15b29r2b29k15g5y2g4y2g17x2~b2c4084-g005020-k101010-rdc0000-ye8c000/) — ΔT 1.05
+1. [Falkirk District Tartan Tartan Number: 2347. Earliest known date: 1989 The original Falkirk "Tartan" , now in the National Museum of Scotland, has a place in history as one of the earliest examples of Scottish cloth in existence. It is a direct link back to the Roman occupation of the area around 250 A.D.and was found stuffed into a pot filled with over 2000 silver coins. This early Celtic tweed used undyed yarn to give a herringbone pattern in brown hues and is considered to be a "poor man's plaid". The Falkirk District Tartan is alive with vibrant colour to reflect that part of Scotland as it is seen today. It was the winning entry by Jim McGeorge (aided by Tony Murray of Stirling) in a public competition run by Falkirk Town Centre Management to create a new image for an area that was rising from the ashes of its former industrial glory. Brown - represents the dominant colour of the original cloth; blue - links Falkirk district with sea via the River Forth and the canals. It is also the colour of the Falkirk "Bairns." Red - is the colour of the blast furnace flames from the Falkirk foundries and yellow - signifies wealth and prosperity. Black - the black lines intersect on blue to show Falkirk at the crossroads of all roads through the region. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/r3y2g27b22k2b4k2b4k4b4k2b4k2b22g27y2x2~b1474b4-g604000-k101010-rc80000-ye8c000/) — ΔT 1.08
+1. [Los Angeles Police Bagpipe Band](/setts/s12/r2b6g15ba6b4ba4b28ba4b4ba6g6y2x2~b14283c-ba2c2c80-g006818-rc80000-ye8c000/) — ΔT 1.08
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b6k2b24k10g2r2g2r2g10k2w3x2~b2c2c80-g006818-k101010-r9c68a4-wc0c0c0/"><circle cx="236.7" cy="154.1" r="4" fill="#3465a4"><title>Scottish Rugby Union (Sports)</title></circle></a><a href="/setts/s15/b18ba2k2b2ba2k1b2k8g1y1g6k8b14k2g2x2~b373875-ba433a5a-g649848-k1c1714-yf8e38c/"><circle cx="299.8" cy="138.7" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/setts/s10/w2b8ba16g3b20g3b3g3ba4wa2x2~b14283c-ba496f81-g503c14-w82cffd-waf8f8f8/"><circle cx="252.8" cy="178.7" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/setts/s16/b36g10r2g10w2g10r2g10k14r2b12r3b2r2b4w2x2~b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="248.0" cy="125.1" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s11/b4g32b4g4b32r6b32ga4b3ga32w4~b141e46-g808080-ga003c14-rfa6496-we0e0e0/"><circle cx="231.4" cy="166.8" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/setts/s11/b4k3b23k9g2ba2g2ba2g8k2y3x2~b2c2c80-ba5c8ca8-g006818-k101010-ye8c000/"><circle cx="221.8" cy="152.3" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/setts/s15/g3b2r1b17ra2g8ra4ba1b8ra2g17ra2r1b3ba1x2~b2c2c80-ba5c8ca8-g006818-re87878-rac80000/"><circle cx="246.6" cy="127.0" r="4" fill="#3465a4"><title>Glenorchy - National Archives</title></circle></a><a href="/setts/s15/g30y2g5y2g4k15b29r2b29k15g5y2g4y2g17x2~b2c4084-g005020-k101010-rdc0000-ye8c000/"><circle cx="227.3" cy="150.0" r="4" fill="#3465a4"><title>Unidentified (Teddy Bear)</title></circle></a><a href="/setts/s16/r3y2g27b22k2b4k2b4k4b4k2b4k2b22g27y2x2~b1474b4-g604000-k101010-rc80000-ye8c000/"><circle cx="265.7" cy="131.8" r="4" fill="#3465a4"><title>Falkirk District Tartan Tartan Number: 2347. Earliest known date: 1989 The original Falkirk &quot;Tartan&quot; , now in the National Museum of Scotland, has a place in history as one of the earliest examples of Scottish cloth in existence. It is a direct link back to the Roman occupation of the area around 250 A.D.and was found stuffed into a pot filled with over 2000 silver coins. This early Celtic tweed used undyed yarn to give a herringbone pattern in brown hues and is considered to be a &quot;poor man's plaid&quot;. The Falkirk District Tartan is alive with vibrant colour to reflect that part of Scotland as it is seen today. It was the winning entry by Jim McGeorge (aided by Tony Murray of Stirling) in a public competition run by Falkirk Town Centre Management to create a new image for an area that was rising from the ashes of its former industrial glory. Brown - represents the dominant colour of the original cloth; blue - links Falkirk district with sea via the River Forth and the canals. It is also the colour of the Falkirk &quot;Bairns.&quot; Red - is the colour of the blast furnace flames from the Falkirk foundries and yellow - signifies wealth and prosperity. Black - the black lines intersect on blue to show Falkirk at the crossroads of all roads through the region. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r2b6g15ba6b4ba4b28ba4b4ba6g6y2x2~b14283c-ba2c2c80-g006818-rc80000-ye8c000/"><circle cx="286.7" cy="172.4" r="4" fill="#3465a4"><title>Los Angeles Police Bagpipe Band</title></circle></a><circle cx="260.6" cy="155.4" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/g25r2b25y5g3ba3g3y5b25r2g27ba5g2x2~b2c1084-ba300438-g005438-ra46458-yc0a010/

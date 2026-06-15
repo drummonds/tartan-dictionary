@@ -16,7 +16,7 @@ KGWYBWKRWBKWY
 
 | Tartans |
 |---------------|
-| [Mazarian](/setts/s13/y12w8k6b28w6r68k68w8b6y16w6g8k4-b2888c4-g289c18-k101010-rc80000-wf8f8f8-yc4bc68/)|
-|![Mazarian example sett](/setts/s13/y12w8k6b28w6r68k68w8b6y16w6g8k4-b2888c4-g289c18-k101010-rc80000-wf8f8f8-yc4bc68/sett.png)|
-| [Nazarian (Personal)](/setts/s13/y12w8k6b28w6r68k68w8b6y16w6g8k4-b2888c4-g289c18-k101010-rc80000-we0e0e0-ybc8c00/)|
-|![Nazarian (Personal) example sett](/setts/s13/y12w8k6b28w6r68k68w8b6y16w6g8k4-b2888c4-g289c18-k101010-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Mazarian](/setts/s13/y6w4k3b14w3r34k34w4b3y8w3g4k2~b2888c4-g289c18-k101010-rc80000-wf8f8f8-yc4bc68~x2/)|
+|![Mazarian example sett](/setts/s13/y6w4k3b14w3r34k34w4b3y8w3g4k2~b2888c4-g289c18-k101010-rc80000-wf8f8f8-yc4bc68~x2/sett.png)|
+| [Nazarian (Personal)](/setts/s13/y6w4k3b14w3r34k34w4b3y8w3g4k2~b2888c4-g289c18-k101010-rc80000-we0e0e0-ybc8c00~x2/)|
+|![Nazarian (Personal) example sett](/setts/s13/y6w4k3b14w3r34k34w4b3y8w3g4k2~b2888c4-g289c18-k101010-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

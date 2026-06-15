@@ -16,5 +16,5 @@ GGBWBYBGGW
 
 | Tartans |
 |---------------|
-| [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/g44ga44b4w12b4y4b32gb10g16w4-b501400-g604000-ga8c7038-gb0098a0-wc0c0c0-yd09800/)|
-|![Bruce of Kinnaird (Vivienne Westwood Design) example sett](/setts/s10/g44ga44b4w12b4y4b32gb10g16w4-b501400-g604000-ga8c7038-gb0098a0-wc0c0c0-yd09800/sett.png)|
+| [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/g22ga22b2w6b2y2b16gb5g8w2~b501400-g604000-ga8c7038-gb0098a0-wc0c0c0-yd09800~x2/)|
+|![Bruce of Kinnaird (Vivienne Westwood Design) example sett](/setts/s10/g22ga22b2w6b2y2b16gb5g8w2~b501400-g604000-ga8c7038-gb0098a0-wc0c0c0-yd09800~x2/sett.png)|

@@ -6,7 +6,7 @@ BGRBGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b66g6r2b66g6r2-b2c2c80-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s6/b33g3r1b33g3r1~b2c2c80-g006818-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRBGR
 
 | Tartans |
 |---------------|
-| [Norwich No.030](/setts/s6/b66g6r2b66g6r2-b2c2c80-g006818-rc80000/)|
-|![Norwich No.030 example sett](/setts/s6/b66g6r2b66g6r2-b2c2c80-g006818-rc80000/sett.png)|
+| [Norwich No.030](/setts/s6/b33g3r1b33g3r1~b2c2c80-g006818-rc80000~x2/)|
+|![Norwich No.030 example sett](/setts/s6/b33g3r1b33g3r1~b2c2c80-g006818-rc80000~x2/sett.png)|

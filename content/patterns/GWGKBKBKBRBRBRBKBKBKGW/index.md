@@ -16,5 +16,5 @@ GWGKBKBKBRBRBRBKBKBKGW
 
 | Tartans |
 |---------------|
-| [Sutherland](/setts/s22/g12w4g48k24b6k4b4k4b24r2b2r6b2r2b24k4b4k4b6k24g48w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Sutherland example sett](/setts/s22/g12w4g48k24b6k4b4k4b24r2b2r6b2r2b24k4b4k4b6k24g48w4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Sutherland](/setts/s22/g6w2g24k12b3k2b2k2b12r1b1r3b1r1b12k2b2k2b3k12g24w2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Sutherland example sett](/setts/s22/g6w2g24k12b3k2b2k2b12r1b1r3b1r1b12k2b2k2b3k12g24w2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ RKRKRKRKRKRKRW
 
 | Tartans |
 |---------------|
-| [Chicago, University of](/setts/s14/r60k16r4k4r8k4r64k4r8k4r4k16r60w6-k000000-r8c0000-wc8c8c8/)|
-|![Chicago, University of example sett](/setts/s14/r60k16r4k4r8k4r64k4r8k4r4k16r60w6-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Chicago, University of](/setts/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30w3~k000000-r8c0000-wc8c8c8~x2/)|
+|![Chicago, University of example sett](/setts/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30w3~k000000-r8c0000-wc8c8c8~x2/sett.png)|

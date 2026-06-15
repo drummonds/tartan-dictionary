@@ -16,5 +16,5 @@ GWGWGWGWGW
 
 | Tartans |
 |---------------|
-| [Cowper (Personal)](/setts/s10/g4w4g32w4g32w4g8w4g16w4-g006818-wfcfcfc/)|
-|![Cowper (Personal) example sett](/setts/s10/g4w4g32w4g32w4g8w4g16w4-g006818-wfcfcfc/sett.png)|
+| [Cowper (Personal)](/setts/s10/g1w1g8w1g8w1g2w1g4w1~g006818-wfcfcfc~x4/)|
+|![Cowper (Personal) example sett](/setts/s10/g1w1g8w1g8w1g2w1g4w1~g006818-wfcfcfc~x4/sett.png)|

@@ -16,5 +16,5 @@ BBBBYKYGKBKW
 
 | Tartans |
 |---------------|
-| [Tanzania](/setts/s12/b8ba2b4ba32y4k16y4g32k2b48k2w8-b2c4084-ba0596fa-g309c18-k101010-we0e0e0-ye8c000/)|
-|![Tanzania example sett](/setts/s12/b8ba2b4ba32y4k16y4g32k2b48k2w8-b2c4084-ba0596fa-g309c18-k101010-we0e0e0-ye8c000/sett.png)|
+| [Tanzania](/setts/s12/b4ba1b2ba16y2k8y2g16k1b24k1w4~b2c4084-ba0596fa-g309c18-k101010-we0e0e0-ye8c000~x2/)|
+|![Tanzania example sett](/setts/s12/b4ba1b2ba16y2k8y2g16k1b24k1w4~b2c4084-ba0596fa-g309c18-k101010-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,7 +16,7 @@ GRGRGRBRBR
 
 | Tartans |
 |---------------|
-| [Unidentified Plaid #15](/setts/s10/r8b6r64ba60r8g64r6g64r6g6-b3c82af-ba2c4084-g005020-rdc0000/)|
-|![Unidentified Plaid #15 example sett](/setts/s10/r8b6r64ba60r8g64r6g64r6g6-b3c82af-ba2c4084-g005020-rdc0000/sett.png)|
-| [Unidentified Plaid 6](/setts/s10/r8b6r64ba60r8g64r6g64r6g6-b5480b0-ba304080-g008000-rc00000/)|
-|![Unidentified Plaid 6 example sett](/setts/s10/r8b6r64ba60r8g64r6g64r6g6-b5480b0-ba304080-g008000-rc00000/sett.png)|
+| [Unidentified Plaid #15](/setts/s10/r4b3r32ba30r4g32r3g32r3g3~b3c82af-ba2c4084-g005020-rdc0000~x2/)|
+|![Unidentified Plaid #15 example sett](/setts/s10/r4b3r32ba30r4g32r3g32r3g3~b3c82af-ba2c4084-g005020-rdc0000~x2/sett.png)|
+| [Unidentified Plaid 6](/setts/s10/r4b3r32ba30r4g32r3g32r3g3~b5480b0-ba304080-g008000-rc00000~x2/)|
+|![Unidentified Plaid 6 example sett](/setts/s10/r4b3r32ba30r4g32r3g32r3g3~b5480b0-ba304080-g008000-rc00000~x2/sett.png)|

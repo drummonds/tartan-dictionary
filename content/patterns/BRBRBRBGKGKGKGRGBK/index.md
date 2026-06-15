@@ -16,5 +16,5 @@ BRBRBRBGKGKGKGRGBK
 
 | Tartans |
 |---------------|
-| [Glasgow, Celtic Society](/setts/s18/b16r6b6r6b6r6b8g8k6g6k6g6k6g26ra16g8b6k12-b304080-g008000-k000000-r806050-rac00000/)|
-|![Glasgow, Celtic Society example sett](/setts/s18/b16r6b6r6b6r6b8g8k6g6k6g6k6g26ra16g8b6k12-b304080-g008000-k000000-r806050-rac00000/sett.png)|
+| [Glasgow, Celtic Society](/setts/s18/b8r3b3r3b3r3b4g4k3g3k3g3k3g13ra8g4b3k6~b304080-g008000-k000000-r806050-rac00000~x2/)|
+|![Glasgow, Celtic Society example sett](/setts/s18/b8r3b3r3b3r3b4g4k3g3k3g3k3g13ra8g4b3k6~b304080-g008000-k000000-r806050-rac00000~x2/sett.png)|

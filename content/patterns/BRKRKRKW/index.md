@@ -6,7 +6,7 @@ BRKRKRKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6r6k12r42k42r6k12w6-b2c4084-k101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b1r1k2r7k7r1k2w1~b2c4084-k101010-rdc0000-we0e0e0~x6/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRKRKRKW
 
 | Tartans |
 |---------------|
-| [Nakayama (Personal)](/setts/s8/b6r6k12r42k42r6k12w6-b2c4084-k101010-rdc0000-we0e0e0/)|
-|![Nakayama (Personal) example sett](/setts/s8/b6r6k12r42k42r6k12w6-b2c4084-k101010-rdc0000-we0e0e0/sett.png)|
-| [Nakayama (Fashion)](/setts/s8/b6r6k12r42k42r6k12w6-b3850c8-k101010-rc80000-we0e0e0/)|
-|![Nakayama (Fashion) example sett](/setts/s8/b6r6k12r42k42r6k12w6-b3850c8-k101010-rc80000-we0e0e0/sett.png)|
+| [Nakayama (Personal)](/setts/s8/b1r1k2r7k7r1k2w1~b2c4084-k101010-rdc0000-we0e0e0~x6/)|
+|![Nakayama (Personal) example sett](/setts/s8/b1r1k2r7k7r1k2w1~b2c4084-k101010-rdc0000-we0e0e0~x6/sett.png)|
+| [Nakayama (Fashion)](/setts/s8/b1r1k2r7k7r1k2w1~b3850c8-k101010-rc80000-we0e0e0~x6/)|
+|![Nakayama (Fashion) example sett](/setts/s8/b1r1k2r7k7r1k2w1~b3850c8-k101010-rc80000-we0e0e0~x6/sett.png)|

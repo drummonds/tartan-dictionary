@@ -6,7 +6,7 @@ KRKBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k28r8k50b60w8-b202060-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/k14r4k25b30w4~b202060-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKBW
 
 | Tartans |
 |---------------|
-| [Britannia](/setts/s5/k28r8k50b60w8-b202060-k101010-rc80000-we0e0e0/)|
-|![Britannia example sett](/setts/s5/k28r8k50b60w8-b202060-k101010-rc80000-we0e0e0/sett.png)|
+| [Britannia](/setts/s5/k14r4k25b30w4~b202060-k101010-rc80000-we0e0e0~x2/)|
+|![Britannia example sett](/setts/s5/k14r4k25b30w4~b202060-k101010-rc80000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ RYBKBKBKYBYKBKBKBY
 
 | Tartans |
 |---------------|
-| [KPMG](/setts/s18/r24y4b6k6b60k40ba12k20y4ba8y4k20ba12k40b60k6b6y4-b2c2c80-ba680028-k101010-rc80000-ya08858/)|
-|![KPMG example sett](/setts/s18/r24y4b6k6b60k40ba12k20y4ba8y4k20ba12k40b60k6b6y4-b2c2c80-ba680028-k101010-rc80000-ya08858/sett.png)|
+| [KPMG](/setts/s18/r12y2b3k3b30k20ba6k10y2ba4y2k10ba6k20b30k3b3y2~b2c2c80-ba680028-k101010-rc80000-ya08858~x2/)|
+|![KPMG example sett](/setts/s18/r12y2b3k3b30k20ba6k10y2ba4y2k10ba6k20b30k3b3y2~b2c2c80-ba680028-k101010-rc80000-ya08858~x2/sett.png)|

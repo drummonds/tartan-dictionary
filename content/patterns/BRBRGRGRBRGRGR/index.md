@@ -16,5 +16,5 @@ BRBRGRGRBRGRGR
 
 | Tartans |
 |---------------|
-| [Manx Heritage](/setts/s14/b6r6b4r6g4r4g4r34ba20r4g4r4g38ra6-b5c8ca8-ba2c2c80-g006438-rc8002c-ra888888/)|
-|![Manx Heritage example sett](/setts/s14/b6r6b4r6g4r4g4r34ba20r4g4r4g38ra6-b5c8ca8-ba2c2c80-g006438-rc8002c-ra888888/sett.png)|
+| [Manx Heritage](/setts/s14/b3r3b2r3g2r2g2r17ba10r2g2r2g19ra3~b5c8ca8-ba2c2c80-g006438-rc8002c-ra888888~x2/)|
+|![Manx Heritage example sett](/setts/s14/b3r3b2r3g2r2g2r17ba10r2g2r2g19ra3~b5c8ca8-ba2c2c80-g006438-rc8002c-ra888888~x2/sett.png)|

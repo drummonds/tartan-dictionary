@@ -6,7 +6,7 @@ KGKRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k6g56k6r44k16w6-g808080-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/k3g28k3r22k8w3~g808080-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKRKW
 
 | Tartans |
 |---------------|
-| [Henkel (Corporate)](/setts/s6/k6g56k6r44k16w6-g808080-k101010-rc80000-wfcfcfc/)|
-|![Henkel (Corporate) example sett](/setts/s6/k6g56k6r44k16w6-g808080-k101010-rc80000-wfcfcfc/sett.png)|
+| [Henkel (Corporate)](/setts/s6/k3g28k3r22k8w3~g808080-k101010-rc80000-wfcfcfc~x2/)|
+|![Henkel (Corporate) example sett](/setts/s6/k3g28k3r22k8w3~g808080-k101010-rc80000-wfcfcfc~x2/sett.png)|

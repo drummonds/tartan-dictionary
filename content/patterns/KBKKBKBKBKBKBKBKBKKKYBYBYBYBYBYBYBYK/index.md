@@ -16,5 +16,5 @@ KBKKBKBKBKBKBKBKBKKKYBYBYBYBYBYBYBYK
 
 | Tartans |
 |---------------|
-| [Manitoba (Commemorative)](/setts/s36/k100b32k16ka16b2ka2b2ka2b2ka2b2ka2b2ka2b2ka2b40ka80k24ka48y16b2y2b2y2b2y2b2y2b2y2b2y2b56y12ka8-b2c2c80-k000000-ka101010-ybc8c00/)|
-|![Manitoba (Commemorative) example sett](/setts/s36/k100b32k16ka16b2ka2b2ka2b2ka2b2ka2b2ka2b2ka2b40ka80k24ka48y16b2y2b2y2b2y2b2y2b2y2b2y2b56y12ka8-b2c2c80-k000000-ka101010-ybc8c00/sett.png)|
+| [Manitoba (Commemorative)](/setts/s36/k50b16k8ka8b1ka1b1ka1b1ka1b1ka1b1ka1b1ka1b20ka40k12ka24y8b1y1b1y1b1y1b1y1b1y1b1y1b28y6ka4~b2c2c80-k000000-ka101010-ybc8c00~x2/)|
+|![Manitoba (Commemorative) example sett](/setts/s36/k50b16k8ka8b1ka1b1ka1b1ka1b1ka1b1ka1b1ka1b20ka40k12ka24y8b1y1b1y1b1y1b1y1b1y1b1y1b28y6ka4~b2c2c80-k000000-ka101010-ybc8c00~x2/sett.png)|

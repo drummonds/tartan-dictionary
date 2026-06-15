@@ -16,5 +16,5 @@ RGBKGKGKY
 
 | Tartans |
 |---------------|
-| [Trades House](/setts/s9/r8g8b36k40ga48k4g4k4y4-b0c585c-g789484-ga00643c-k101010-rc80000-ye8c000/)|
-|![Trades House example sett](/setts/s9/r8g8b36k40ga48k4g4k4y4-b0c585c-g789484-ga00643c-k101010-rc80000-ye8c000/sett.png)|
+| [Trades House](/setts/s9/r2g2b9k10ga12k1g1k1y1~b0c585c-g789484-ga00643c-k101010-rc80000-ye8c000~x4/)|
+|![Trades House example sett](/setts/s9/r2g2b9k10ga12k1g1k1y1~b0c585c-g789484-ga00643c-k101010-rc80000-ye8c000~x4/sett.png)|

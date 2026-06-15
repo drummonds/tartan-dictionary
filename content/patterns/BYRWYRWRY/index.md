@@ -16,5 +16,5 @@ BYRWYRWRY
 
 | Tartans |
 |---------------|
-| [Hybelius, J-A (Personal)](/setts/s9/b116y4r2w8y4r4w14r16y12-b14283c-rfa4b00-w98c8e8-yffff00/)|
-|![Hybelius, J-A (Personal) example sett](/setts/s9/b116y4r2w8y4r4w14r16y12-b14283c-rfa4b00-w98c8e8-yffff00/sett.png)|
+| [Hybelius, J-A (Personal)](/setts/s9/b58y2r1w4y2r2w7r8y6~b14283c-rfa4b00-w98c8e8-yffff00~x2/)|
+|![Hybelius, J-A (Personal) example sett](/setts/s9/b58y2r1w4y2r2w7r8y6~b14283c-rfa4b00-w98c8e8-yffff00~x2/sett.png)|

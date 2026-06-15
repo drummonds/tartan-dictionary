@@ -6,7 +6,7 @@ BBKBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/tartan.png)
+![Woven sample](/setts/s5/b40ba19k2ba2w2~b441800-ba5c5c5c-k101010-wc0c0c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKBW
 
 | Tartans |
 |---------------|
-| [National Ballet of Canada](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/)|
-|![National Ballet of Canada example sett](/setts/s5/b160ba76k8ba8w8-b441800-ba5c5c5c-k101010-wc0c0c0/sett.png)|
+| [National Ballet of Canada](/setts/s5/b40ba19k2ba2w2~b441800-ba5c5c5c-k101010-wc0c0c0~x4/)|
+|![National Ballet of Canada example sett](/setts/s5/b40ba19k2ba2w2~b441800-ba5c5c5c-k101010-wc0c0c0~x4/sett.png)|

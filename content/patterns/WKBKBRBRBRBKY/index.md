@@ -16,5 +16,5 @@ WKBKBRBRBRBKY
 
 | Tartans |
 |---------------|
-| [Aberdale (Fashion)](/setts/s13/w8k2b28k16b12r4b12r6b12r4b12k4y4-b1c0070-k101010-r880000-wa8ace8-yd09800/)|
-|![Aberdale (Fashion) example sett](/setts/s13/w8k2b28k16b12r4b12r6b12r4b12k4y4-b1c0070-k101010-r880000-wa8ace8-yd09800/sett.png)|
+| [Aberdale (Fashion)](/setts/s13/w4k1b14k8b6r2b6r3b6r2b6k2y2~b1c0070-k101010-r880000-wa8ace8-yd09800~x2/)|
+|![Aberdale (Fashion) example sett](/setts/s13/w4k1b14k8b6r2b6r3b6r2b6k2y2~b1c0070-k101010-r880000-wa8ace8-yd09800~x2/sett.png)|

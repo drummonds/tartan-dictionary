@@ -6,7 +6,7 @@ GBGWGBGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g56b18ga36w6ga36b18g56r6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g28b9ga18w3ga18b9g28r3~b2c2c80-g006818-ga003820-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGWGBGR
 
 | Tartans |
 |---------------|
-| [Simple Technology](/setts/s8/g56b18ga36w6ga36b18g56r6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/)|
-|![Simple Technology example sett](/setts/s8/g56b18ga36w6ga36b18g56r6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/sett.png)|
+| [Simple Technology](/setts/s8/g28b9ga18w3ga18b9g28r3~b2c2c80-g006818-ga003820-rc80000-we0e0e0~x2/)|
+|![Simple Technology example sett](/setts/s8/g28b9ga18w3ga18b9g28r3~b2c2c80-g006818-ga003820-rc80000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ WGWGBWBGWGWGW
 
 | Tartans |
 |---------------|
-| [Poulter SG 096 (Fashion)](/setts/s13/w25g8w8g8w8g46b46wa8b46g46w46g8w8-b64889c-g508034-we0e0e0-waf4fc84/)|
-|![Poulter SG 096 (Fashion) example sett](/setts/s13/w25g8w8g8w8g46b46wa8b46g46w46g8w8-b64889c-g508034-we0e0e0-waf4fc84/sett.png)|
+| [Poulter SG 096 (Fashion)](/setts/s13/w25g8w8g8w8g46b46wa8b46g46w46g8w8~b64889c-g508034-we0e0e0-waf4fc84/)|
+|![Poulter SG 096 (Fashion) example sett](/setts/s13/w25g8w8g8w8g46b46wa8b46g46w46g8w8~b64889c-g508034-we0e0e0-waf4fc84/sett.png)|

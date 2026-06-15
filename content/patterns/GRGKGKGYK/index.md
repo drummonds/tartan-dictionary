@@ -16,5 +16,5 @@ GRGKGKGYK
 
 | Tartans |
 |---------------|
-| [MacKillen](/setts/s9/k8y30g10k6g14k6g60r40g6-g003820-k101010-ra00000-ybc8c00/)|
-|![MacKillen example sett](/setts/s9/k8y30g10k6g14k6g60r40g6-g003820-k101010-ra00000-ybc8c00/sett.png)|
+| [MacKillen](/setts/s9/k4y15g5k3g7k3g30r20g3~g003820-k101010-ra00000-ybc8c00~x2/)|
+|![MacKillen example sett](/setts/s9/k4y15g5k3g7k3g30r20g3~g003820-k101010-ra00000-ybc8c00~x2/sett.png)|

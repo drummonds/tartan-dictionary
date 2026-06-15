@@ -16,5 +16,5 @@ BRKRKRKRKBRW
 
 | Tartans |
 |---------------|
-| [MacKinnon Black (Personal)](/setts/s12/b6r8k10r24k48r6k20r52k24b6r12w6-b780078-k101010-rc80000-we0e0e0/)|
-|![MacKinnon Black (Personal) example sett](/setts/s12/b6r8k10r24k48r6k20r52k24b6r12w6-b780078-k101010-rc80000-we0e0e0/sett.png)|
+| [MacKinnon Black (Personal)](/setts/s12/b3r4k5r12k24r3k10r26k12b3r6w3~b780078-k101010-rc80000-we0e0e0~x2/)|
+|![MacKinnon Black (Personal) example sett](/setts/s12/b3r4k5r12k24r3k10r26k12b3r6w3~b780078-k101010-rc80000-we0e0e0~x2/sett.png)|

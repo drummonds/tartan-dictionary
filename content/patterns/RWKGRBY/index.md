@@ -6,7 +6,7 @@ RWKGRBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6w16k18g32r24b24y6-b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800/tartan.png)
+![Woven sample](/setts/s7/r3w8k9g16r12b12y3~b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKGRBY
 
 | Tartans |
 |---------------|
-| [Alabama (Fashion)](/setts/s7/r6w16k18g32r24b24y6-b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800/)|
-|![Alabama (Fashion) example sett](/setts/s7/r6w16k18g32r24b24y6-b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800/sett.png)|
+| [Alabama (Fashion)](/setts/s7/r3w8k9g16r12b12y3~b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800~x2/)|
+|![Alabama (Fashion) example sett](/setts/s7/r3w8k9g16r12b12y3~b5c5c5c-g006818-k101010-rc80000-wc0c0c0-yd09800~x2/sett.png)|

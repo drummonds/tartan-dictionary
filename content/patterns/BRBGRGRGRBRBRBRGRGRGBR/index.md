@@ -16,5 +16,5 @@ BRBGRGRGRBRBRBRGRGRGBR
 
 | Tartans |
 |---------------|
-| [Inverness Fencibles](/setts/s22/b2r2b20g20r26g4r26g20r2b2r2b20r2b2r2g20r26g4r26g20b20r2-b2c2c80-g006818-rc80000/)|
-|![Inverness Fencibles example sett](/setts/s22/b2r2b20g20r26g4r26g20r2b2r2b20r2b2r2g20r26g4r26g20b20r2-b2c2c80-g006818-rc80000/sett.png)|
+| [Inverness Fencibles](/setts/s22/b1r1b10g10r13g2r13g10r1b1r1b10r1b1r1g10r13g2r13g10b10r1~b2c2c80-g006818-rc80000~x2/)|
+|![Inverness Fencibles example sett](/setts/s22/b1r1b10g10r13g2r13g10r1b1r1b10r1b1r1g10r13g2r13g10b10r1~b2c2c80-g006818-rc80000~x2/sett.png)|

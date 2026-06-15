@@ -16,5 +16,5 @@ GBGGYKWKWG
 
 | Tartans |
 |---------------|
-| [Order of Saint Lazarus](/setts/s10/g18w18k4w4k4y4ga56g4b24g8-b1c0070-g008b00-ga003820-k101010-wffffff-yfccc00/)|
-|![Order of Saint Lazarus example sett](/setts/s10/g18w18k4w4k4y4ga56g4b24g8-b1c0070-g008b00-ga003820-k101010-wffffff-yfccc00/sett.png)|
+| [Order of Saint Lazarus](/setts/s10/g9w9k2w2k2y2ga28g2b12g4~b1c0070-g008b00-ga003820-k101010-wffffff-yfccc00~x2/)|
+|![Order of Saint Lazarus example sett](/setts/s10/g9w9k2w2k2y2ga28g2b12g4~b1c0070-g008b00-ga003820-k101010-wffffff-yfccc00~x2/sett.png)|

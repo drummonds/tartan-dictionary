@@ -16,5 +16,5 @@ GRRRWYRRK
 
 | Tartans |
 |---------------|
-| [Australian Donkey (Corporate)](/setts/s9/g8r6ra4r50w6y14rb6rc26k8-g604000-k101010-rbc8064-rac80000-rbe87878-rc888888-wf8f8f8-ya0a0a0/)|
-|![Australian Donkey (Corporate) example sett](/setts/s9/g8r6ra4r50w6y14rb6rc26k8-g604000-k101010-rbc8064-rac80000-rbe87878-rc888888-wf8f8f8-ya0a0a0/sett.png)|
+| [Australian Donkey (Corporate)](/setts/s9/g4r3ra2r25w3y7rb3rc13k4~g604000-k101010-rbc8064-rac80000-rbe87878-rc888888-wf8f8f8-ya0a0a0~x2/)|
+|![Australian Donkey (Corporate) example sett](/setts/s9/g4r3ra2r25w3y7rb3rc13k4~g604000-k101010-rbc8064-rac80000-rbe87878-rc888888-wf8f8f8-ya0a0a0~x2/sett.png)|

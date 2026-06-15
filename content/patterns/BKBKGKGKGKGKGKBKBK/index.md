@@ -16,5 +16,5 @@ BKBKGKGKGKGKGKBKBK
 
 | Tartans |
 |---------------|
-| [Kerr Hunting](/setts/s18/k6b4k4b38k20g8k4g4k4g32k4g4k4g8k20b38k4b4-b1474b4-g006818-k101010/)|
-|![Kerr Hunting example sett](/setts/s18/k6b4k4b38k20g8k4g4k4g32k4g4k4g8k20b38k4b4-b1474b4-g006818-k101010/sett.png)|
+| [Kerr Hunting](/setts/s18/k3b2k2b19k10g4k2g2k2g16k2g2k2g4k10b19k2b2~b1474b4-g006818-k101010~x2/)|
+|![Kerr Hunting example sett](/setts/s18/k3b2k2b19k10g4k2g2k2g16k2g2k2g4k10b19k2b2~b1474b4-g006818-k101010~x2/sett.png)|

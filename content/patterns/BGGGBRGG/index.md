@@ -6,7 +6,7 @@ BGGGBRGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g62ga12r6b62g16gb120ga14ba14-b202060-ba1870a4-g643424-ga8c7038-gb406054-r888888/tartan.png)
+![Woven sample](/setts/s8/g31ga6r3b31g8gb60ga7ba7~b202060-ba1870a4-g643424-ga8c7038-gb406054-r888888~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGGBRGG
 
 | Tartans |
 |---------------|
-| [Little-Dowse Wedding](/setts/s8/g62ga12r6b62g16gb120ga14ba14-b202060-ba1870a4-g643424-ga8c7038-gb406054-r888888/)|
-|![Little-Dowse Wedding example sett](/setts/s8/g62ga12r6b62g16gb120ga14ba14-b202060-ba1870a4-g643424-ga8c7038-gb406054-r888888/sett.png)|
+| [Little-Dowse Wedding](/setts/s8/g31ga6r3b31g8gb60ga7ba7~b202060-ba1870a4-g643424-ga8c7038-gb406054-r888888~x2/)|
+|![Little-Dowse Wedding example sett](/setts/s8/g31ga6r3b31g8gb60ga7ba7~b202060-ba1870a4-g643424-ga8c7038-gb406054-r888888~x2/sett.png)|

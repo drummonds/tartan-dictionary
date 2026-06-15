@@ -16,5 +16,5 @@ BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR
 
 | Tartans |
 |---------------|
-| [MacDonald Dress](/setts/s32/b24r6b4r2b16r2b4r6b24r2k24g24r6g4r2g16r2g4r6g24k24w4b8w32k2r8k2w32b8w4k24r2-b202060-g006818-k101010-rc80000-we0e0e0/)|
-|![MacDonald Dress example sett](/setts/s32/b24r6b4r2b16r2b4r6b24r2k24g24r6g4r2g16r2g4r6g24k24w4b8w32k2r8k2w32b8w4k24r2-b202060-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [MacDonald Dress](/setts/s32/b12r3b2r1b8r1b2r3b12r1k12g12r3g2r1g8r1g2r3g12k12w2b4w16k1r4k1w16b4w2k12r1~b202060-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![MacDonald Dress example sett](/setts/s32/b12r3b2r1b8r1b2r3b12r1k12g12r3g2r1g8r1g2r3g12k12w2b4w16k1r4k1w16b4w2k12r1~b202060-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ RBBBRBBRBW
 
 | Tartans |
 |---------------|
-| [Scottish N. A. Business Council (Co](/setts/s10/r8b24ba24b8r8b16ba24r8b8w4-b1c0070-ba003c64-rc80000-we0e0e0/)|
-|![Scottish N. A. Business Council (Co example sett](/setts/s10/r8b24ba24b8r8b16ba24r8b8w4-b1c0070-ba003c64-rc80000-we0e0e0/sett.png)|
+| [Scottish N. A. Business Council (Co](/setts/s10/r2b6ba6b2r2b4ba6r2b2w1~b1c0070-ba003c64-rc80000-we0e0e0~x4/)|
+|![Scottish N. A. Business Council (Co example sett](/setts/s10/r2b6ba6b2r2b4ba6r2b2w1~b1c0070-ba003c64-rc80000-we0e0e0~x4/sett.png)|

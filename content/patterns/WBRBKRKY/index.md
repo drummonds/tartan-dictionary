@@ -6,7 +6,7 @@ WBRBKRKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/tartan.png)
+![Woven sample](/setts/s8/y3k2r15k10b23ra2b1w2~b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBRBKRKY
 
 | Tartans |
 |---------------|
-| [Vienna Highlander (Fashion)](/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/)|
-|![Vienna Highlander (Fashion) example sett](/setts/s8/y6k4r30k20b46ra4b2w4-b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800/sett.png)|
+| [Vienna Highlander (Fashion)](/setts/s8/y3k2r15k10b23ra2b1w2~b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800~x2/)|
+|![Vienna Highlander (Fashion) example sett](/setts/s8/y3k2r15k10b23ra2b1w2~b14283c-k101010-r888888-rac8002c-wfcfcfc-yd09800~x2/sett.png)|

@@ -6,7 +6,7 @@ GWGKGRGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4w4g24k24g24r4g4y4-g008000-k000030-rc00000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s8/g1w1g6k6g6r1g1y1~g008000-k000030-rc00000-we0e0e0-yf0c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGKGRGY
 
 | Tartans |
 |---------------|
-| [Vermont](/setts/s8/g4w4g24k24g24r4g4y4-g008000-k000030-rc00000-we0e0e0-yf0c000/)|
-|![Vermont example sett](/setts/s8/g4w4g24k24g24r4g4y4-g008000-k000030-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Vermont](/setts/s8/g1w1g6k6g6r1g1y1~g008000-k000030-rc00000-we0e0e0-yf0c000~x4/)|
+|![Vermont example sett](/setts/s8/g1w1g6k6g6r1g1y1~g008000-k000030-rc00000-we0e0e0-yf0c000~x4/sett.png)|

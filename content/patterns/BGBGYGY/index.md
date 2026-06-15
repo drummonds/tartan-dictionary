@@ -6,7 +6,7 @@ BGBGYGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6g4b60g38y28g4y6-b202060-g808080-ya08858/tartan.png)
+![Woven sample](/setts/s7/b3g2b30g19y14g2y3~b202060-g808080-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGYGY
 
 | Tartans |
 |---------------|
-| [Bannockbane Brown #2](/setts/s7/b6g4b60g38y28g4y6-b202060-g808080-ya08858/)|
-|![Bannockbane Brown #2 example sett](/setts/s7/b6g4b60g38y28g4y6-b202060-g808080-ya08858/sett.png)|
+| [Bannockbane Brown #2](/setts/s7/b3g2b30g19y14g2y3~b202060-g808080-ya08858~x2/)|
+|![Bannockbane Brown #2 example sett](/setts/s7/b3g2b30g19y14g2y3~b202060-g808080-ya08858~x2/sett.png)|

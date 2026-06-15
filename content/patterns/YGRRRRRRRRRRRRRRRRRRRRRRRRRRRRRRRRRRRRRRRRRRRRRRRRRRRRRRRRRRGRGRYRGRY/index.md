@@ -16,5 +16,5 @@ YGRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGRGRYRGRY
 
 | Tartans |
 |---------------|
-| [Collinet (Personal)](/setts/s69/y204r12g12r12ya12r12ga12r12ga12ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2rb16ga8ya8-g888c50-ga00644-hf21e9f7471ad5eb9/)|
-|![Collinet (Personal) example sett](/setts/s69/y204r12g12r12ya12r12ga12r12ga12ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2r2ra2rb16ga8ya8-g888c50-ga00644-hf21e9f7471ad5eb9/sett.png)|
+| [Collinet (Personal)](/setts/s69/y102r6g6r6ya6r6ga6r6ga6ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1rb8ga4ya4~g888c50-ga006444-rcc4438-h3e656c2474121b9d/)|
+|![Collinet (Personal) example sett](/setts/s69/y102r6g6r6ya6r6ga6r6ga6ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1r1ra1rb8ga4ya4~g888c50-ga006444-rcc4438-h3e656c2474121b9d/sett.png)|

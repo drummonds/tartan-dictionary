@@ -6,7 +6,7 @@ RGGY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/tartan.png)
+![Woven sample](/setts/s4/y100g26ga3r2~g604000-ga006818-rc80000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGGY
 
 | Tartans |
 |---------------|
-| [Canadian Irish Regiment](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/)|
-|![Canadian Irish Regiment example sett](/setts/s4/y200g52ga6r4-g604000-ga006818-rc80000-ybc8c00/sett.png)|
+| [Canadian Irish Regiment](/setts/s4/y100g26ga3r2~g604000-ga006818-rc80000-ybc8c00~x2/)|
+|![Canadian Irish Regiment example sett](/setts/s4/y100g26ga3r2~g604000-ga006818-rc80000-ybc8c00~x2/sett.png)|

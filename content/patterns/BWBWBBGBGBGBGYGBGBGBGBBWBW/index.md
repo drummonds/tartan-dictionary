@@ -16,5 +16,5 @@ BWBWBBGBGBGBGYGBGBGBGBBWBW
 
 | Tartans |
 |---------------|
-| [St. Andrews](/setts/s26/b96w6b8w6b6ba32g4ba10g6ba8g8ba6g10y4g10ba6g8ba8g6ba10g4ba32b6w6b8w6-b1c0070-ba1870a4-g006818-we0e0e0-ye8c000/)|
-|![St. Andrews example sett](/setts/s26/b96w6b8w6b6ba32g4ba10g6ba8g8ba6g10y4g10ba6g8ba8g6ba10g4ba32b6w6b8w6-b1c0070-ba1870a4-g006818-we0e0e0-ye8c000/sett.png)|
+| [St. Andrews](/setts/s26/b48w3b4w3b3ba16g2ba5g3ba4g4ba3g5y2g5ba3g4ba4g3ba5g2ba16b3w3b4w3~b1c0070-ba1870a4-g006818-we0e0e0-ye8c000~x2/)|
+|![St. Andrews example sett](/setts/s26/b48w3b4w3b3ba16g2ba5g3ba4g4ba3g5y2g5ba3g4ba4g3ba5g2ba16b3w3b4w3~b1c0070-ba1870a4-g006818-we0e0e0-ye8c000~x2/sett.png)|

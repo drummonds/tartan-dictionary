@@ -16,5 +16,5 @@ GBKWKBKBGKGR
 
 | Tartans |
 |---------------|
-| [Canmore Highland Games](/setts/s12/g140b6k18w8k8ba8k6b24g18k8g8r8-b000099-ba660066-g006666-k101010-r996600-wffffff/)|
-|![Canmore Highland Games example sett](/setts/s12/g140b6k18w8k8ba8k6b24g18k8g8r8-b000099-ba660066-g006666-k101010-r996600-wffffff/sett.png)|
+| [Canmore Highland Games](/setts/s12/g70b3k9w4k4ba4k3b12g9k4g4r4~b000099-ba660066-g006666-k101010-r996600-wffffff~x2/)|
+|![Canmore Highland Games example sett](/setts/s12/g70b3k9w4k4ba4k3b12g9k4g4r4~b000099-ba660066-g006666-k101010-r996600-wffffff~x2/sett.png)|

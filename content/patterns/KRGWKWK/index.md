@@ -6,7 +6,7 @@ KRGWKWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k72w6k20w6g56r12k36-g00643c-k101010-r901c38-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/k36w3k10w3g28r6k18~g00643c-k101010-r901c38-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRGWKWK
 
 | Tartans |
 |---------------|
-| [Wild Highlanders (Corporate)](/setts/s7/k72w6k20w6g56r12k36-g00643c-k101010-r901c38-wfcfcfc/)|
-|![Wild Highlanders (Corporate) example sett](/setts/s7/k72w6k20w6g56r12k36-g00643c-k101010-r901c38-wfcfcfc/sett.png)|
+| [Wild Highlanders (Corporate)](/setts/s7/k36w3k10w3g28r6k18~g00643c-k101010-r901c38-wfcfcfc~x2/)|
+|![Wild Highlanders (Corporate) example sett](/setts/s7/k36w3k10w3g28r6k18~g00643c-k101010-r901c38-wfcfcfc~x2/sett.png)|

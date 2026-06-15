@@ -16,7 +16,7 @@ GYGKRKYYY
 
 | Tartans |
 |---------------|
-| [Eire](/setts/s9/g24y8g40k12r4k12ya40y8ya24-g004c00-k000000-r8c0000-yb0b0b0-yad87c00/)|
-|![Eire example sett](/setts/s9/g24y8g40k12r4k12ya40y8ya24-g004c00-k000000-r8c0000-yb0b0b0-yad87c00/sett.png)|
-| [Eire (District?)](/setts/s9/g24y8g40k12r4k12ya40y8ya24-g006400-k000000-r8c0000-yb0b0b0-yad87c00/)|
-|![Eire (District?) example sett](/setts/s9/g24y8g40k12r4k12ya40y8ya24-g006400-k000000-r8c0000-yb0b0b0-yad87c00/sett.png)|
+| [Eire](/setts/s9/g6y2g10k3r1k3ya10y2ya6~g004c00-k000000-r8c0000-yb0b0b0-yad87c00~x4/)|
+|![Eire example sett](/setts/s9/g6y2g10k3r1k3ya10y2ya6~g004c00-k000000-r8c0000-yb0b0b0-yad87c00~x4/sett.png)|
+| [Eire (District?)](/setts/s9/g6y2g10k3r1k3ya10y2ya6~g006400-k000000-r8c0000-yb0b0b0-yad87c00~x4/)|
+|![Eire (District?) example sett](/setts/s9/g6y2g10k3r1k3ya10y2ya6~g006400-k000000-r8c0000-yb0b0b0-yad87c00~x4/sett.png)|

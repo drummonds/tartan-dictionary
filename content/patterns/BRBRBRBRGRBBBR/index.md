@@ -16,5 +16,5 @@ BRBRBRBRGRBBBR
 
 | Tartans |
 |---------------|
-| [Minster](/setts/s14/b12r4ba4r6ba6r36b32r4g36ra4b6bb6b4r12-b1c1c50-ba2c2c80-bb48788c-g006818-r880000-rac80000/)|
-|![Minster example sett](/setts/s14/b12r4ba4r6ba6r36b32r4g36ra4b6bb6b4r12-b1c1c50-ba2c2c80-bb48788c-g006818-r880000-rac80000/sett.png)|
+| [Minster](/setts/s14/b6r2ba2r3ba3r18b16r2g18ra2b3bb3b2r6~b1c1c50-ba2c2c80-bb48788c-g006818-r880000-rac80000~x2/)|
+|![Minster example sett](/setts/s14/b6r2ba2r3ba3r18b16r2g18ra2b3bb3b2r6~b1c1c50-ba2c2c80-bb48788c-g006818-r880000-rac80000~x2/sett.png)|

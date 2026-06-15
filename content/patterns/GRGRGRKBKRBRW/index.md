@@ -16,5 +16,5 @@ GRGRGRKBKRBRW
 
 | Tartans |
 |---------------|
-| [Canadian Estate](/setts/s13/g72r4g8r8g64r4k64b4k8r8ba80r4w8-b646464-ba00008c-g007c00-k000000-r8c0000-wc8c8c8/)|
-|![Canadian Estate example sett](/setts/s13/g72r4g8r8g64r4k64b4k8r8ba80r4w8-b646464-ba00008c-g007c00-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Canadian Estate](/setts/s13/g18r1g2r2g16r1k16b1k2r2ba20r1w2~b646464-ba00008c-g007c00-k000000-r8c0000-wc8c8c8~x4/)|
+|![Canadian Estate example sett](/setts/s13/g18r1g2r2g16r1k16b1k2r2ba20r1w2~b646464-ba00008c-g007c00-k000000-r8c0000-wc8c8c8~x4/sett.png)|

@@ -16,5 +16,5 @@ GBGYGWGRWBWG
 
 | Tartans |
 |---------------|
-| [MacLean of Duart (Reproduction Colours)](/setts/s12/g24b4ga8y4ga6w6ga6r40w58b4w8ga4-b3c82af-g808080-ga2a2303-rbe7832-we0e0e0-ye8c000/)|
-|![MacLean of Duart (Reproduction Colours) example sett](/setts/s12/g24b4ga8y4ga6w6ga6r40w58b4w8ga4-b3c82af-g808080-ga2a2303-rbe7832-we0e0e0-ye8c000/sett.png)|
+| [MacLean of Duart (Reproduction Colours)](/setts/s12/g12b2ga4y2ga3w3ga3r20w29b2w4ga2~b3c82af-g808080-ga2a2303-rbe7832-we0e0e0-ye8c000~x2/)|
+|![MacLean of Duart (Reproduction Colours) example sett](/setts/s12/g12b2ga4y2ga3w3ga3r20w29b2w4ga2~b3c82af-g808080-ga2a2303-rbe7832-we0e0e0-ye8c000~x2/sett.png)|

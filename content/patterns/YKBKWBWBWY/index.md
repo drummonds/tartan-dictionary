@@ -16,5 +16,5 @@ YKBKWBWBWY
 
 | Tartans |
 |---------------|
-| [Chieftain](/setts/s10/y4k16b8k40w4b8w40b4w16y4-b00008c-k000000-wf4f8d0-ye8c000/)|
-|![Chieftain example sett](/setts/s10/y4k16b8k40w4b8w40b4w16y4-b00008c-k000000-wf4f8d0-ye8c000/sett.png)|
+| [Chieftain](/setts/s10/y1k4b2k10w1b2w10b1w4y1~b00008c-k000000-wf4f8d0-ye8c000~x4/)|
+|![Chieftain example sett](/setts/s10/y1k4b2k10w1b2w10b1w4y1~b00008c-k000000-wf4f8d0-ye8c000~x4/sett.png)|

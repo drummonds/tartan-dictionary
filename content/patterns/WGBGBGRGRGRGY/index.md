@@ -16,5 +16,5 @@ WGBGBGRGRGRGY
 
 | Tartans |
 |---------------|
-| [Glencross (Kirkbampton) (Personal)](/setts/s13/w6g70b6g4b6g20r6g4r6g4r6g20y4-b202060-g004028-r800028-wf8f4d0-ye0a126/)|
-|![Glencross (Kirkbampton) (Personal) example sett](/setts/s13/w6g70b6g4b6g20r6g4r6g4r6g20y4-b202060-g004028-r800028-wf8f4d0-ye0a126/sett.png)|
+| [Glencross (Kirkbampton) (Personal)](/setts/s13/w3g35b3g2b3g10r3g2r3g2r3g10y2~b202060-g004028-r800028-wf8f4d0-ye0a126~x2/)|
+|![Glencross (Kirkbampton) (Personal) example sett](/setts/s13/w3g35b3g2b3g10r3g2r3g2r3g10y2~b202060-g004028-r800028-wf8f4d0-ye0a126~x2/sett.png)|

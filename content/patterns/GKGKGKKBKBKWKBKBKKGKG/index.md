@@ -16,5 +16,5 @@ GKGKGKKBKBKWKBKBKKGKG
 
 | Tartans |
 |---------------|
-| [Dorris](/setts/s21/g48k6g6k6g6k36ka4b4ka4b4ka26w6ka26b4ka4b4ka4k36g38k8g8-b2888c4-g006818-k000000-ka000034-wfcfcfc/)|
-|![Dorris example sett](/setts/s21/g48k6g6k6g6k36ka4b4ka4b4ka26w6ka26b4ka4b4ka4k36g38k8g8-b2888c4-g006818-k000000-ka000034-wfcfcfc/sett.png)|
+| [Dorris](/setts/s21/g24k3g3k3g3k18ka2b2ka2b2ka13w3ka13b2ka2b2ka2k18g19k4g4~b2888c4-g006818-k000000-ka000034-wfcfcfc~x2/)|
+|![Dorris example sett](/setts/s21/g24k3g3k3g3k18ka2b2ka2b2ka13w3ka13b2ka2b2ka2k18g19k4g4~b2888c4-g006818-k000000-ka000034-wfcfcfc~x2/sett.png)|

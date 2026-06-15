@@ -16,5 +16,5 @@ GGGKBKGKYKGGGKW
 
 | Tartans |
 |---------------|
-| [Eastern Shore Police Emerald Society](/setts/s15/g8ga80g8k16b8k16g10k4y8k4ga2g4ga4k2w2-b407088-g328472-ga1d4b44-k101010-wd9d9d5-yffcc33/)|
-|![Eastern Shore Police Emerald Society example sett](/setts/s15/g8ga80g8k16b8k16g10k4y8k4ga2g4ga4k2w2-b407088-g328472-ga1d4b44-k101010-wd9d9d5-yffcc33/sett.png)|
+| [Eastern Shore Police Emerald Society](/setts/s15/g4ga40g4k8b4k8g5k2y4k2ga1g2ga2k1w1~b407088-g328472-ga1d4b44-k101010-wd9d9d5-yffcc33~x2/)|
+|![Eastern Shore Police Emerald Society example sett](/setts/s15/g4ga40g4k8b4k8g5k2y4k2ga1g2ga2k1w1~b407088-g328472-ga1d4b44-k101010-wd9d9d5-yffcc33~x2/sett.png)|

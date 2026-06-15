@@ -16,5 +16,5 @@ KGWGKGKYKGKGWGK
 
 | Tartans |
 |---------------|
-| [MacGiboney / MacGibboney](/setts/s15/k4g8w4g38k4ga20k2y4k2ga20k4gb38w4gb8k4-g004010-ga808080-gb30a010-k000000-we0e0e0-yf0c000/)|
-|![MacGiboney / MacGibboney example sett](/setts/s15/k4g8w4g38k4ga20k2y4k2ga20k4gb38w4gb8k4-g004010-ga808080-gb30a010-k000000-we0e0e0-yf0c000/sett.png)|
+| [MacGiboney / MacGibboney](/setts/s15/k2g4w2g19k2ga10k1y2k1ga10k2gb19w2gb4k2~g004010-ga808080-gb30a010-k000000-we0e0e0-yf0c000~x2/)|
+|![MacGiboney / MacGibboney example sett](/setts/s15/k2g4w2g19k2ga10k1y2k1ga10k2gb19w2gb4k2~g004010-ga808080-gb30a010-k000000-we0e0e0-yf0c000~x2/sett.png)|

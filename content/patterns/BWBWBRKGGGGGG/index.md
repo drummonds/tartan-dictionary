@@ -16,5 +16,5 @@ BWBWBRKGGGGGG
 
 | Tartans |
 |---------------|
-| [Roach (2015)](/setts/s13/b72w4b4w4b16r16k4g48ga4g4ga4g4ga4-b2c2c80-g006818-ga603800-k101010-ra00000-wfcfcfc/)|
-|![Roach (2015) example sett](/setts/s13/b72w4b4w4b16r16k4g48ga4g4ga4g4ga4-b2c2c80-g006818-ga603800-k101010-ra00000-wfcfcfc/sett.png)|
+| [Roach (2015)](/setts/s13/b18w1b1w1b4r4k1g12ga1g1ga1g1ga1~b2c2c80-g006818-ga603800-k101010-ra00000-wfcfcfc~x4/)|
+|![Roach (2015) example sett](/setts/s13/b18w1b1w1b4r4k1g12ga1g1ga1g1ga1~b2c2c80-g006818-ga603800-k101010-ra00000-wfcfcfc~x4/sett.png)|

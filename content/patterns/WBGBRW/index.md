@@ -6,7 +6,7 @@ WBGBRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4b30g4ba40r18w4-b304080-ba000050-g808080-rc00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/w2b15g2ba20r9w2~b304080-ba000050-g808080-rc00000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBGBRW
 
 | Tartans |
 |---------------|
-| [The Open Championship](/setts/s6/w4b30g4ba40r18w4-b304080-ba000050-g808080-rc00000-we0e0e0/)|
-|![The Open Championship example sett](/setts/s6/w4b30g4ba40r18w4-b304080-ba000050-g808080-rc00000-we0e0e0/sett.png)|
+| [The Open Championship](/setts/s6/w2b15g2ba20r9w2~b304080-ba000050-g808080-rc00000-we0e0e0~x2/)|
+|![The Open Championship example sett](/setts/s6/w2b15g2ba20r9w2~b304080-ba000050-g808080-rc00000-we0e0e0~x2/sett.png)|

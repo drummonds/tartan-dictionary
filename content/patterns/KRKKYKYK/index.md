@@ -6,7 +6,7 @@ KRKKYKYK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s8/k7r2k2ka6y1ka1y1ka4~k000000-ka000034-r8c0000-yc88c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKKYKYK
 
 | Tartans |
 |---------------|
-| [Printing Industries of America](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/)|
-|![Printing Industries of America example sett](/setts/s8/k28r8k8ka24y4ka4y4ka16-k000000-ka000034-r8c0000-yc88c00/sett.png)|
+| [Printing Industries of America](/setts/s8/k7r2k2ka6y1ka1y1ka4~k000000-ka000034-r8c0000-yc88c00~x4/)|
+|![Printing Industries of America example sett](/setts/s8/k7r2k2ka6y1ka1y1ka4~k000000-ka000034-r8c0000-yc88c00~x4/sett.png)|

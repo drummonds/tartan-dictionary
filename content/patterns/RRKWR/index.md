@@ -6,7 +6,7 @@ RRKWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r96w8k16r8ra8-k000000-ra0783c-ra8c0000-wc8c8c8/tartan.png)
+![Woven sample](/setts/s5/r12w1k2r1ra1~k000000-ra0783c-ra8c0000-wc8c8c8~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRKWR
 
 | Tartans |
 |---------------|
-| [Lochcarron Camel](/setts/s5/r96w8k16r8ra8-k000000-ra0783c-ra8c0000-wc8c8c8/)|
-|![Lochcarron Camel example sett](/setts/s5/r96w8k16r8ra8-k000000-ra0783c-ra8c0000-wc8c8c8/sett.png)|
+| [Lochcarron Camel](/setts/s5/r12w1k2r1ra1~k000000-ra0783c-ra8c0000-wc8c8c8~x8/)|
+|![Lochcarron Camel example sett](/setts/s5/r12w1k2r1ra1~k000000-ra0783c-ra8c0000-wc8c8c8~x8/sett.png)|

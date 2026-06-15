@@ -16,7 +16,7 @@ WBKGKBKBKBKW
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne, Blue (Fashion)](/setts/s12/w8k4b18k6ba6k6ba6k46g20k4ba12w4-b3c4c6c-ba780078-g006818-k101010-we0e0e0/)|
-|![Auld Lang Syne, Blue (Fashion) example sett](/setts/s12/w8k4b18k6ba6k6ba6k46g20k4ba12w4-b3c4c6c-ba780078-g006818-k101010-we0e0e0/sett.png)|
-| [Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w8k4b18k6ba6k6ba6k50g20k4ba12w4-b3a70dd-ba9173b3-g004505-k101010-we0e0e0/)|
-|![Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/w8k4b18k6ba6k6ba6k50g20k4ba12w4-b3a70dd-ba9173b3-g004505-k101010-we0e0e0/sett.png)|
+| [Auld Lang Syne, Blue (Fashion)](/setts/s12/w4k2b9k3ba3k3ba3k23g10k2ba6w2~b3c4c6c-ba780078-g006818-k101010-we0e0e0~x2/)|
+|![Auld Lang Syne, Blue (Fashion) example sett](/setts/s12/w4k2b9k3ba3k3ba3k23g10k2ba6w2~b3c4c6c-ba780078-g006818-k101010-we0e0e0~x2/sett.png)|
+| [Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w4k2b9k3ba3k3ba3k25g10k2ba6w2~b3a70dd-ba9173b3-g004505-k101010-we0e0e0~x2/)|
+|![Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/w4k2b9k3ba3k3ba3k25g10k2ba6w2~b3a70dd-ba9173b3-g004505-k101010-we0e0e0~x2/sett.png)|

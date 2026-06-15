@@ -16,5 +16,5 @@ GBYGRGGGG
 
 | Tartans |
 |---------------|
-| [Connemara (District)](/setts/s9/g6ga2gb6ga32r64ga2y2b8gb4-b202060-g789484-ga285800-gb289c18-r800000-yf0c400/)|
-|![Connemara (District) example sett](/setts/s9/g6ga2gb6ga32r64ga2y2b8gb4-b202060-g789484-ga285800-gb289c18-r800000-yf0c400/sett.png)|
+| [Connemara (District)](/setts/s9/g3ga1gb3ga16r32ga1y1b4gb2~b202060-g789484-ga285800-gb289c18-r800000-yf0c400~x2/)|
+|![Connemara (District) example sett](/setts/s9/g3ga1gb3ga16r32ga1y1b4gb2~b202060-g789484-ga285800-gb289c18-r800000-yf0c400~x2/sett.png)|

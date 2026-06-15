@@ -6,7 +6,7 @@ BKWKBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b36k16w4k16b36r4-b2c2c80-k101010-rc80000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s6/b9k4w1k4b9r1~b2c2c80-k101010-rc80000-wc0c0c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWKBR
 
 | Tartans |
 |---------------|
-| [Scottish Nuclear](/setts/s6/b36k16w4k16b36r4-b2c2c80-k101010-rc80000-wc0c0c0/)|
-|![Scottish Nuclear example sett](/setts/s6/b36k16w4k16b36r4-b2c2c80-k101010-rc80000-wc0c0c0/sett.png)|
+| [Scottish Nuclear](/setts/s6/b9k4w1k4b9r1~b2c2c80-k101010-rc80000-wc0c0c0~x4/)|
+|![Scottish Nuclear example sett](/setts/s6/b9k4w1k4b9r1~b2c2c80-k101010-rc80000-wc0c0c0~x4/sett.png)|

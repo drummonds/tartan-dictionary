@@ -6,7 +6,7 @@ RBKGYGKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4b22k16g16y4ga16k2y4-b2c2c80-g006818-ga289c18-k101010-r901c38-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r2b11k8g8y2ga8k1y2~b2c2c80-g006818-ga289c18-k101010-r901c38-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKGYGKY
 
 | Tartans |
 |---------------|
-| [Scout Mapping Service #2 (Corporate)](/setts/s8/r4b22k16g16y4ga16k2y4-b2c2c80-g006818-ga289c18-k101010-r901c38-ye8c000/)|
-|![Scout Mapping Service #2 (Corporate) example sett](/setts/s8/r4b22k16g16y4ga16k2y4-b2c2c80-g006818-ga289c18-k101010-r901c38-ye8c000/sett.png)|
+| [Scout Mapping Service #2 (Corporate)](/setts/s8/r2b11k8g8y2ga8k1y2~b2c2c80-g006818-ga289c18-k101010-r901c38-ye8c000~x2/)|
+|![Scout Mapping Service #2 (Corporate) example sett](/setts/s8/r2b11k8g8y2ga8k1y2~b2c2c80-g006818-ga289c18-k101010-r901c38-ye8c000~x2/sett.png)|

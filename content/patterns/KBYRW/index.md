@@ -6,7 +6,7 @@ KBYRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k16b8y52r52w8-b00008c-k000034-rdc5078-wc8c8c8-yc09898/tartan.png)
+![Woven sample](/setts/s5/k4b2y13r13w2~b00008c-k000034-rdc5078-wc8c8c8-yc09898~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBYRW
 
 | Tartans |
 |---------------|
-| [Think Pink (ICF)](/setts/s5/k16b8y52r52w8-b00008c-k000034-rdc5078-wc8c8c8-yc09898/)|
-|![Think Pink (ICF) example sett](/setts/s5/k16b8y52r52w8-b00008c-k000034-rdc5078-wc8c8c8-yc09898/sett.png)|
+| [Think Pink (ICF)](/setts/s5/k4b2y13r13w2~b00008c-k000034-rdc5078-wc8c8c8-yc09898~x4/)|
+|![Think Pink (ICF) example sett](/setts/s5/k4b2y13r13w2~b00008c-k000034-rdc5078-wc8c8c8-yc09898~x4/sett.png)|

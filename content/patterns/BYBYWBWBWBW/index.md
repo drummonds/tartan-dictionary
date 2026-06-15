@@ -16,5 +16,5 @@ BYBYWBWBWBW
 
 | Tartans |
 |---------------|
-| [Dunn](/setts/s11/b90y12b6y12w6ba10w6ba10w40b4w6-b07648c-ba280032-wc0c0c0-yc89600/)|
-|![Dunn example sett](/setts/s11/b90y12b6y12w6ba10w6ba10w40b4w6-b07648c-ba280032-wc0c0c0-yc89600/sett.png)|
+| [Dunn](/setts/s11/b45y6b3y6w3ba5w3ba5w20b2w3~b07648c-ba280032-wc0c0c0-yc89600~x2/)|
+|![Dunn example sett](/setts/s11/b45y6b3y6w3ba5w3ba5w20b2w3~b07648c-ba280032-wc0c0c0-yc89600~x2/sett.png)|

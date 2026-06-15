@@ -16,5 +16,5 @@ BKRKBRKRWRWKRWR
 
 | Tartans |
 |---------------|
-| [Anderson Blue](/setts/s15/b16k2r2k2b44r2k28r2w4r2w12k6r2w6r2-b6480ac-k101010-ra07c58-we0e0e0/)|
-|![Anderson Blue example sett](/setts/s15/b16k2r2k2b44r2k28r2w4r2w12k6r2w6r2-b6480ac-k101010-ra07c58-we0e0e0/sett.png)|
+| [Anderson Blue](/setts/s15/b8k1r1k1b22r1k14r1w2r1w6k3r1w3r1~b6480ac-k101010-ra07c58-we0e0e0~x2/)|
+|![Anderson Blue example sett](/setts/s15/b8k1r1k1b22r1k14r1w2r1w6k3r1w3r1~b6480ac-k101010-ra07c58-we0e0e0~x2/sett.png)|

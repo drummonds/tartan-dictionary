@@ -16,5 +16,5 @@ KWRKRKYKRGKRKW
 
 | Tartans |
 |---------------|
-| [Murphy, Andrew (Personal)](/setts/s14/k16w4r4k12r4k4y2k4ra32g60k2r4k8w4-g004c00-k101010-rc80000-rab03000-w82cffd-yfccc00/)|
-|![Murphy, Andrew (Personal) example sett](/setts/s14/k16w4r4k12r4k4y2k4ra32g60k2r4k8w4-g004c00-k101010-rc80000-rab03000-w82cffd-yfccc00/sett.png)|
+| [Murphy, Andrew (Personal)](/setts/s14/k8w2r2k6r2k2y1k2ra16g30k1r2k4w2~g004c00-k101010-rc80000-rab03000-w82cffd-yfccc00~x2/)|
+|![Murphy, Andrew (Personal) example sett](/setts/s14/k8w2r2k6r2k2y1k2ra16g30k1r2k4w2~g004c00-k101010-rc80000-rab03000-w82cffd-yfccc00~x2/sett.png)|

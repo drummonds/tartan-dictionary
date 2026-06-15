@@ -16,5 +16,5 @@ BGGGGGGGG
 
 | Tartans |
 |---------------|
-| [Gates, Hunting](/setts/s9/g48ga6g8ga24g16ga6g16ga60b6-b1474b4-g006818-ga289c18/)|
-|![Gates, Hunting example sett](/setts/s9/g48ga6g8ga24g16ga6g16ga60b6-b1474b4-g006818-ga289c18/sett.png)|
+| [Gates, Hunting](/setts/s9/g24ga3g4ga12g8ga3g8ga30b3~b1474b4-g006818-ga289c18~x2/)|
+|![Gates, Hunting example sett](/setts/s9/g24ga3g4ga12g8ga3g8ga30b3~b1474b4-g006818-ga289c18~x2/sett.png)|

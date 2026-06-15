@@ -16,5 +16,5 @@ KRWRKWRWRW
 
 | Tartans |
 |---------------|
-| [Forbes (Fashion)](/setts/s10/k184r32w4r32k32w24ra24w56ra4w24-k000000-r8c0000-rac87018-wc4c4c4/)|
-|![Forbes (Fashion) example sett](/setts/s10/k184r32w4r32k32w24ra24w56ra4w24-k000000-r8c0000-rac87018-wc4c4c4/sett.png)|
+| [Forbes (Fashion)](/setts/s10/k46r8w1r8k8w6ra6w14ra1w6~k000000-r8c0000-rac87018-wc4c4c4~x4/)|
+|![Forbes (Fashion) example sett](/setts/s10/k46r8w1r8k8w6ra6w14ra1w6~k000000-r8c0000-rac87018-wc4c4c4~x4/sett.png)|

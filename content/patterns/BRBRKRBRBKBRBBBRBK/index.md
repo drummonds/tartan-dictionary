@@ -16,5 +16,5 @@ BRBRKRBRBKBRBBBRBK
 
 | Tartans |
 |---------------|
-| [Asile](/setts/s18/b6r2ba4r2k12r2ba4r2b32k32ba2r4ba2b12ba2r4ba2k6-b003c64-ba780078-k101010-r888888/)|
-|![Asile example sett](/setts/s18/b6r2ba4r2k12r2ba4r2b32k32ba2r4ba2b12ba2r4ba2k6-b003c64-ba780078-k101010-r888888/sett.png)|
+| [Asile](/setts/s18/b3r1ba2r1k6r1ba2r1b16k16ba1r2ba1b6ba1r2ba1k3~b003c64-ba780078-k101010-r888888~x2/)|
+|![Asile example sett](/setts/s18/b3r1ba2r1k6r1ba2r1b16k16ba1r2ba1b6ba1r2ba1k3~b003c64-ba780078-k101010-r888888~x2/sett.png)|

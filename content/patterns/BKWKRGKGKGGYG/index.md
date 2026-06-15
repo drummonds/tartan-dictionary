@@ -16,5 +16,5 @@ BKWKRGKGKGGYG
 
 | Tartans |
 |---------------|
-| [Wild Geese](/setts/s13/b16k2w10k2r10g26k4ga8k4ga22g40y14g10-b2c2c80-g003820-ga289c18-k101010-rc80000-we0e0e0-ybc8c00/)|
-|![Wild Geese example sett](/setts/s13/b16k2w10k2r10g26k4ga8k4ga22g40y14g10-b2c2c80-g003820-ga289c18-k101010-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Wild Geese](/setts/s13/b8k1w5k1r5g13k2ga4k2ga11g20y7g5~b2c2c80-g003820-ga289c18-k101010-rc80000-we0e0e0-ybc8c00~x2/)|
+|![Wild Geese example sett](/setts/s13/b8k1w5k1r5g13k2ga4k2ga11g20y7g5~b2c2c80-g003820-ga289c18-k101010-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

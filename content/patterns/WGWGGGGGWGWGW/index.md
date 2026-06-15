@@ -16,5 +16,5 @@ WGWGGGGGWGWGW
 
 | Tartans |
 |---------------|
-| [MacLachlan, Brown Dress (Fashion)](/setts/s13/w32g4w4g4w4g32g32ga6g32g32w32g4w4-g604000-ga006818-we8ccb8/)|
-|![MacLachlan, Brown Dress (Fashion) example sett](/setts/s13/w32g4w4g4w4g32g32ga6g32g32w32g4w4-g604000-ga006818-we8ccb8/sett.png)|
+| [MacLachlan, Brown Dress (Fashion)](/setts/s13/w16g2w2g2w2g16g16ga3g16g16w16g2w2~g604000-ga006818-we8ccb8~x2/)|
+|![MacLachlan, Brown Dress (Fashion) example sett](/setts/s13/w16g2w2g2w2g16g16ga3g16g16w16g2w2~g604000-ga006818-we8ccb8~x2/sett.png)|

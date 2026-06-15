@@ -1,0 +1,58 @@
+---
+title: "Black Country (District)"
+date: 2023-03-18
+---
+In pattern [KRKYKRKW](/patterns/krkykrkw/).
+
+
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7844/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Dec. 2008 — Black Country (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7844/))
+- undated — Black Country (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796))
+
+## Thread count
+K/126 R6 K6 Y6 K6 R6 K18 LN/18
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/126 R6 K6 Y6 K6 R6 K18 LN/18 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Auld Bernensis](/setts/s8/k62r3k3y3k3r3k9ya5~k101010-rff0000-ye0a126-yab0b0b0~x2/) — ΔT 0.86
+1. [London Fog Black](/setts/s6/k10y2w5y4k50b2~b1474b4-k101010-we0e0e0-yb8b8b8~x2/) — ΔT 0.87
+1. [Volkswagen Black Trim (Fashion)](/setts/s8/k20w1k1w3k1r1k1w1~k101010-rc80000-we0e0e0~x4/) — ΔT 0.97
+1. [Whitaker (2014)](/setts/s8/k60r3k15r3w2r5b3r2~b3850c8-k101010-rdc0000-wc0c0c0~x2/) — ΔT 1.16
+1. [Capco](/setts/s8/k31w1k2w2b3k2ba4w2~b14283c-ba5f749c-k1c1714-wf8f8f8~x4/) — ΔT 1.31
+1. [Crane of Cluny Mourning](/setts/s8/k83w6k3w9r2w5k2y2~k101010-rc20029-wffffff-yc2812d~x2/) — ΔT 1.34
+1. [State University of New York College at Buffalo](/setts/s8/k70r5k3w4b4w4k3r12~b64008c-k101010-rfa4b00-wc8c8c8/) — ΔT 1.41
+1. [Brockton](/setts/s8/k2w1k2r6k6r3k28w2~k101010-r880000-wffffff~x2/) — ΔT 1.43
+1. [Dellen](/setts/s6/k80r6g3r12k2w2~g006818-k101010-rcc4438-wfcfcfc~x2/) — ΔT 1.43
+1. [Auld Bernensis](/setts/s8/k62r3k3y3k3r3k9ra5~k101010-rc80000-ra888888-yd09800~x2/) — ΔT 1.47
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k62r3k3y3k3r3k9ya5~k101010-rff0000-ye0a126-yab0b0b0~x2/"><circle cx="577.3" cy="148.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/setts/s6/k10y2w5y4k50b2~b1474b4-k101010-we0e0e0-yb8b8b8~x2/"><circle cx="537.5" cy="159.7" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~k101010-rc80000-we0e0e0~x4/"><circle cx="524.3" cy="150.2" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s8/k60r3k15r3w2r5b3r2~b3850c8-k101010-rdc0000-wc0c0c0~x2/"><circle cx="566.8" cy="138.4" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s8/k31w1k2w2b3k2ba4w2~b14283c-ba5f749c-k1c1714-wf8f8f8~x4/"><circle cx="482.0" cy="122.3" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/setts/s8/k83w6k3w9r2w5k2y2~k101010-rc20029-wffffff-yc2812d~x2/"><circle cx="525.8" cy="99.4" r="4" fill="#3465a4"><title>Crane of Cluny Mourning</title></circle></a><a href="/setts/s8/k70r5k3w4b4w4k3r12~b64008c-k101010-rfa4b00-wc8c8c8/"><circle cx="462.4" cy="126.4" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s8/k2w1k2r6k6r3k28w2~k101010-r880000-wffffff~x2/"><circle cx="520.4" cy="161.7" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s6/k80r6g3r12k2w2~g006818-k101010-rcc4438-wfcfcfc~x2/"><circle cx="556.3" cy="136.6" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s8/k62r3k3y3k3r3k9ra5~k101010-rc80000-ra888888-yd09800~x2/"><circle cx="597.8" cy="156.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="526.9" cy="140.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/k21r1k1y1k1r1k3w3~k101010-rc80000-we0e0e0-ye8c000~x6/

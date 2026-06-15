@@ -16,5 +16,5 @@ BKBKBKWKBKBKBK
 
 | Tartans |
 |---------------|
-| [Slanj Dress](/setts/s14/b72k8b8k68ba6k6w8k6ba6k68b8k8b72k8-b202060-ba3850c8-k101010-we0e0e0/)|
-|![Slanj Dress example sett](/setts/s14/b72k8b8k68ba6k6w8k6ba6k68b8k8b72k8-b202060-ba3850c8-k101010-we0e0e0/sett.png)|
+| [Slanj Dress](/setts/s14/b36k4b4k34ba3k3w4k3ba3k34b4k4b36k4~b202060-ba3850c8-k101010-we0e0e0~x2/)|
+|![Slanj Dress example sett](/setts/s14/b36k4b4k34ba3k3w4k3ba3k34b4k4b36k4~b202060-ba3850c8-k101010-we0e0e0~x2/sett.png)|

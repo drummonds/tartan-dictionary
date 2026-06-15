@@ -16,5 +16,5 @@ BYBYBYWGWYBYBYBYWG
 
 | Tartans |
 |---------------|
-| [Lamont Heather (Corporate)](/setts/s18/b36y6b6y6b6y32w32g6w32y32b34y6b6y6b34y32w32g6-b4c3428-g5c6428-we0e0e0-ya08858/)|
-|![Lamont Heather (Corporate) example sett](/setts/s18/b36y6b6y6b6y32w32g6w32y32b34y6b6y6b34y32w32g6-b4c3428-g5c6428-we0e0e0-ya08858/sett.png)|
+| [Lamont Heather (Corporate)](/setts/s18/b18y3b3y3b3y16w16g3w16y16b17y3b3y3b17y16w16g3~b4c3428-g5c6428-we0e0e0-ya08858~x2/)|
+|![Lamont Heather (Corporate) example sett](/setts/s18/b18y3b3y3b3y16w16g3w16y16b17y3b3y3b17y16w16g3~b4c3428-g5c6428-we0e0e0-ya08858~x2/sett.png)|

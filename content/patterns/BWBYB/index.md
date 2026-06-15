@@ -6,7 +6,7 @@ BWBYB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b19w6b105y4b5-b1c0070-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b19w6b105y4b5~b1c0070-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBYB
 
 | Tartans |
 |---------------|
-| [Greenock Morton F. C. (Corporate)](/setts/s5/b19w6b105y4b5-b1c0070-we0e0e0-ye8c000/)|
-|![Greenock Morton F. C. (Corporate) example sett](/setts/s5/b19w6b105y4b5-b1c0070-we0e0e0-ye8c000/sett.png)|
+| [Greenock Morton F. C. (Corporate)](/setts/s5/b19w6b105y4b5~b1c0070-we0e0e0-ye8c000/)|
+|![Greenock Morton F. C. (Corporate) example sett](/setts/s5/b19w6b105y4b5~b1c0070-we0e0e0-ye8c000/sett.png)|

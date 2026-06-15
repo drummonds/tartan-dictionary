@@ -6,7 +6,7 @@ BYBYRGYG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4y8b4y24r100g22y2g4-b2c2c80-g003820-r880000-ya08858/tartan.png)
+![Woven sample](/setts/s8/b2y4b2y12r50g11y1g2~b2c2c80-g003820-r880000-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBYRGYG
 
 | Tartans |
 |---------------|
-| [Slessor (Personal)](/setts/s8/b4y8b4y24r100g22y2g4-b2c2c80-g003820-r880000-ya08858/)|
-|![Slessor (Personal) example sett](/setts/s8/b4y8b4y24r100g22y2g4-b2c2c80-g003820-r880000-ya08858/sett.png)|
+| [Slessor (Personal)](/setts/s8/b2y4b2y12r50g11y1g2~b2c2c80-g003820-r880000-ya08858~x2/)|
+|![Slessor (Personal) example sett](/setts/s8/b2y4b2y12r50g11y1g2~b2c2c80-g003820-r880000-ya08858~x2/sett.png)|

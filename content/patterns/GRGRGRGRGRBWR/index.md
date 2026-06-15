@@ -16,5 +16,5 @@ GRGRGRGRGRBWR
 
 | Tartans |
 |---------------|
-| [Hans, Jaswinder (Personal)](/setts/s13/g4r2g60ra2g6ra2g20rb18g4ra10b6w2ra2-b2c2c80-g006400-re87878-radc0000-rbe86000-wffffff/)|
-|![Hans, Jaswinder (Personal) example sett](/setts/s13/g4r2g60ra2g6ra2g20rb18g4ra10b6w2ra2-b2c2c80-g006400-re87878-radc0000-rbe86000-wffffff/sett.png)|
+| [Hans, Jaswinder (Personal)](/setts/s13/g2r1g30ra1g3ra1g10rb9g2ra5b3w1ra1~b2c2c80-g006400-re87878-radc0000-rbe86000-wffffff~x2/)|
+|![Hans, Jaswinder (Personal) example sett](/setts/s13/g2r1g30ra1g3ra1g10rb9g2ra5b3w1ra1~b2c2c80-g006400-re87878-radc0000-rbe86000-wffffff~x2/sett.png)|

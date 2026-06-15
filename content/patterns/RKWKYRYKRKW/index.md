@@ -16,5 +16,5 @@ RKWKYRYKRKW
 
 | Tartans |
 |---------------|
-| [Glennie (Personal)](/setts/s11/r96k2w2k12y8r4y8k16r4k2w4-k000000-rb00000-wc8c8c8-ydcc000/)|
-|![Glennie (Personal) example sett](/setts/s11/r96k2w2k12y8r4y8k16r4k2w4-k000000-rb00000-wc8c8c8-ydcc000/sett.png)|
+| [Glennie (Personal)](/setts/s11/r48k1w1k6y4r2y4k8r2k1w2~k000000-rb00000-wc8c8c8-ydcc000~x2/)|
+|![Glennie (Personal) example sett](/setts/s11/r48k1w1k6y4r2y4k8r2k1w2~k000000-rb00000-wc8c8c8-ydcc000~x2/sett.png)|

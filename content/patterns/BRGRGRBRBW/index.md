@@ -16,5 +16,5 @@ BRGRGRBRBW
 
 | Tartans |
 |---------------|
-| [Jenkins (Name)](/setts/s10/b4r60g16r6g16r12b8r6b24w4-b202060-g006818-rc80000-we0e0e0/)|
-|![Jenkins (Name) example sett](/setts/s10/b4r60g16r6g16r12b8r6b24w4-b202060-g006818-rc80000-we0e0e0/sett.png)|
+| [Jenkins (Name)](/setts/s10/b2r30g8r3g8r6b4r3b12w2~b202060-g006818-rc80000-we0e0e0~x2/)|
+|![Jenkins (Name) example sett](/setts/s10/b2r30g8r3g8r6b4r3b12w2~b202060-g006818-rc80000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ RW
 
 It is a 2 stripes tartan.
 
-![Woven sample](/setts/s2/r40w40-rc80028-we0e0e0/tartan.png)
+![Woven sample](/setts/s2/r1w1~rc80028-we0e0e0~x40/tartan.png)
 
 
 
@@ -18,13 +18,13 @@ RW
 
 | Tartans |
 |---------------|
-| [MacMedic](/setts/s2/r40w40-rc80028-we0e0e0/)|
-|![MacMedic example sett](/setts/s2/r40w40-rc80028-we0e0e0/sett.png)|
-| [Spare](/setts/s2/r5w5-rdc0000-we0e0e0/)|
-|![Spare example sett](/setts/s2/r5w5-rdc0000-we0e0e0/sett.png)|
-| [McMedic (Fashion)](/setts/s2/r40w40-rc8002c-we0e0e0/)|
-|![McMedic (Fashion) example sett](/setts/s2/r40w40-rc8002c-we0e0e0/sett.png)|
-| [English Kilt (Fashion)](/setts/s2/w100r30-rc80000-we0e0e0/)|
-|![English Kilt (Fashion) example sett](/setts/s2/w100r30-rc80000-we0e0e0/sett.png)|
-| [MacMedic](/setts/s2/r40w40-rc00020-we0e0e0/)|
-|![MacMedic example sett](/setts/s2/r40w40-rc00020-we0e0e0/sett.png)|
+| [MacMedic](/setts/s2/r1w1~rc80028-we0e0e0~x40/)|
+|![MacMedic example sett](/setts/s2/r1w1~rc80028-we0e0e0~x40/sett.png)|
+| [Spare](/setts/s2/r1w1~rdc0000-we0e0e0~x5/)|
+|![Spare example sett](/setts/s2/r1w1~rdc0000-we0e0e0~x5/sett.png)|
+| [McMedic (Fashion)](/setts/s2/r1w1~rc8002c-we0e0e0~x40/)|
+|![McMedic (Fashion) example sett](/setts/s2/r1w1~rc8002c-we0e0e0~x40/sett.png)|
+| [English Kilt (Fashion)](/setts/s2/w10r3~rc80000-we0e0e0~x10/)|
+|![English Kilt (Fashion) example sett](/setts/s2/w10r3~rc80000-we0e0e0~x10/sett.png)|
+| [MacMedic](/setts/s2/r1w1~rc00020-we0e0e0~x40/)|
+|![MacMedic example sett](/setts/s2/r1w1~rc00020-we0e0e0~x40/sett.png)|

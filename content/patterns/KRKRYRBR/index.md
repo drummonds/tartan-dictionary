@@ -6,7 +6,7 @@ KRKRYRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k6r16k6r16y38r14b72r6-b14283c-k101010-r880000-yd8a028/tartan.png)
+![Woven sample](/setts/s8/k3r8k3r8y19r7b36r3~b14283c-k101010-r880000-yd8a028~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKRYRBR
 
 | Tartans |
 |---------------|
-| [Private SA Club](/setts/s8/k6r16k6r16y38r14b72r6-b14283c-k101010-r880000-yd8a028/)|
-|![Private SA Club example sett](/setts/s8/k6r16k6r16y38r14b72r6-b14283c-k101010-r880000-yd8a028/sett.png)|
+| [Private SA Club](/setts/s8/k3r8k3r8y19r7b36r3~b14283c-k101010-r880000-yd8a028~x2/)|
+|![Private SA Club example sett](/setts/s8/k3r8k3r8y19r7b36r3~b14283c-k101010-r880000-yd8a028~x2/sett.png)|

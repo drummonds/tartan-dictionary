@@ -16,5 +16,5 @@ BBGBGBGBGGGGGGGGYR
 
 | Tartans |
 |---------------|
-| [Norwegian Night (Fashion)](/setts/s18/b4ba18g2ba8g4ba4g8b2g30ga2g6ga6g4ga8g2ga14y2r4-b5c5c5c-ba003c64-g789484-ga006818-rc80000-yfccc00/)|
-|![Norwegian Night (Fashion) example sett](/setts/s18/b4ba18g2ba8g4ba4g8b2g30ga2g6ga6g4ga8g2ga14y2r4-b5c5c5c-ba003c64-g789484-ga006818-rc80000-yfccc00/sett.png)|
+| [Norwegian Night (Fashion)](/setts/s18/b2ba9g1ba4g2ba2g4b1g15ga1g3ga3g2ga4g1ga7y1r2~b5c5c5c-ba003c64-g789484-ga006818-rc80000-yfccc00~x2/)|
+|![Norwegian Night (Fashion) example sett](/setts/s18/b2ba9g1ba4g2ba2g4b1g15ga1g3ga3g2ga4g1ga7y1r2~b5c5c5c-ba003c64-g789484-ga006818-rc80000-yfccc00~x2/sett.png)|

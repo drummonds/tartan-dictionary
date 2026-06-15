@@ -16,5 +16,5 @@ RBRRRRRRRRRR
 
 | Tartans |
 |---------------|
-| [Ferguson Red, George (Personal)](/setts/s12/r8b48ra6rb48ra3rb6ra6rb4ra8rb2ra22rc8-b680028-r880000-rae87878-rbc80000-rcd05054/)|
-|![Ferguson Red, George (Personal) example sett](/setts/s12/r8b48ra6rb48ra3rb6ra6rb4ra8rb2ra22rc8-b680028-r880000-rae87878-rbc80000-rcd05054/sett.png)|
+| [Ferguson Red, George (Personal)](/setts/s12/r8b48ra6rb48ra3rb6ra6rb4ra8rb2ra22rc8~b680028-r880000-rae87878-rbc80000-rcd05054/)|
+|![Ferguson Red, George (Personal) example sett](/setts/s12/r8b48ra6rb48ra3rb6ra6rb4ra8rb2ra22rc8~b680028-r880000-rae87878-rbc80000-rcd05054/sett.png)|

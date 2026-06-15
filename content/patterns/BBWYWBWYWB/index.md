@@ -16,5 +16,5 @@ BBWYWBWYWB
 
 | Tartans |
 |---------------|
-| [Vetoclock](/setts/s10/b220w6y28wa2ba20wa2y12w6ba8b4-b505050-ba780078-wc49cd8-waf8f8f8-ya0a0a0/)|
-|![Vetoclock example sett](/setts/s10/b220w6y28wa2ba20wa2y12w6ba8b4-b505050-ba780078-wc49cd8-waf8f8f8-ya0a0a0/sett.png)|
+| [Vetoclock](/setts/s10/b110w3y14wa1ba10wa1y6w3ba4b2~b505050-ba780078-wc49cd8-waf8f8f8-ya0a0a0~x2/)|
+|![Vetoclock example sett](/setts/s10/b110w3y14wa1ba10wa1y6w3ba4b2~b505050-ba780078-wc49cd8-waf8f8f8-ya0a0a0~x2/sett.png)|

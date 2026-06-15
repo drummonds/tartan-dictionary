@@ -6,7 +6,7 @@ RGRKWGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w40g4w40k16r40g6r4-g006818-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s7/w20g2w20k8r20g3r2~g006818-k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGRKWGW
 
 | Tartans |
 |---------------|
-| [Bull-Dog Sauce](/setts/s7/w40g4w40k16r40g6r4-g006818-k101010-rc80000-wf8f8f8/)|
-|![Bull-Dog Sauce example sett](/setts/s7/w40g4w40k16r40g6r4-g006818-k101010-rc80000-wf8f8f8/sett.png)|
+| [Bull-Dog Sauce](/setts/s7/w20g2w20k8r20g3r2~g006818-k101010-rc80000-wf8f8f8~x2/)|
+|![Bull-Dog Sauce example sett](/setts/s7/w20g2w20k8r20g3r2~g006818-k101010-rc80000-wf8f8f8~x2/sett.png)|

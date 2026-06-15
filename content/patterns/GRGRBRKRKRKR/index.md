@@ -16,5 +16,5 @@ GRGRBRKRKRKR
 
 | Tartans |
 |---------------|
-| [California Firefighters (Corporate)](/setts/s12/r16k8ra8k4ra4k4ra8b12r4g16r36g4-b00008c-g004c00-k000000-ra0783c-ra8c0000/)|
-|![California Firefighters (Corporate) example sett](/setts/s12/r16k8ra8k4ra4k4ra8b12r4g16r36g4-b00008c-g004c00-k000000-ra0783c-ra8c0000/sett.png)|
+| [California Firefighters (Corporate)](/setts/s12/r4k2ra2k1ra1k1ra2b3r1g4r9g1~b00008c-g004c00-k000000-ra0783c-ra8c0000~x4/)|
+|![California Firefighters (Corporate) example sett](/setts/s12/r4k2ra2k1ra1k1ra2b3r1g4r9g1~b00008c-g004c00-k000000-ra0783c-ra8c0000~x4/sett.png)|

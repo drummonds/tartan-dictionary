@@ -16,5 +16,5 @@ BRBRBBRBRBRWRWRBRBRBBRBR
 
 | Tartans |
 |---------------|
-| [LOOK Keith](/setts/s24/b20r4b4r4b4ba10ra50bb12ra4bb4ra2w6ra6w6ra22bb4ra4bb12ra50ba10b4r4b4r4-b5c5c5c-ba14283c-bb202060-rc80000-ra888888-wc0c0c0/)|
-|![LOOK Keith example sett](/setts/s24/b20r4b4r4b4ba10ra50bb12ra4bb4ra2w6ra6w6ra22bb4ra4bb12ra50ba10b4r4b4r4-b5c5c5c-ba14283c-bb202060-rc80000-ra888888-wc0c0c0/sett.png)|
+| [LOOK Keith](/setts/s24/b10r2b2r2b2ba5ra25bb6ra2bb2ra1w3ra3w3ra11bb2ra2bb6ra25ba5b2r2b2r2~b5c5c5c-ba14283c-bb202060-rc80000-ra888888-wc0c0c0~x2/)|
+|![LOOK Keith example sett](/setts/s24/b10r2b2r2b2ba5ra25bb6ra2bb2ra1w3ra3w3ra11bb2ra2bb6ra25ba5b2r2b2r2~b5c5c5c-ba14283c-bb202060-rc80000-ra888888-wc0c0c0~x2/sett.png)|

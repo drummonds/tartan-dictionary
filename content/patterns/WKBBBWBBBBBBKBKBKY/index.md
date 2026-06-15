@@ -16,5 +16,5 @@ WKBBBWBBBBBBKBKBKY
 
 | Tartans |
 |---------------|
-| [Van Ingelgem Dress (Personal)](/setts/s18/y6k36b6k6b6k6b34ba6b6ba6b6ba24w4ba24b18ba24k4w4-b003c64-ba0000cd-k101010-wffffff-ydaa520/)|
-|![Van Ingelgem Dress (Personal) example sett](/setts/s18/y6k36b6k6b6k6b34ba6b6ba6b6ba24w4ba24b18ba24k4w4-b003c64-ba0000cd-k101010-wffffff-ydaa520/sett.png)|
+| [Van Ingelgem Dress (Personal)](/setts/s18/y3k18b3k3b3k3b17ba3b3ba3b3ba12w2ba12b9ba12k2w2~b003c64-ba0000cd-k101010-wffffff-ydaa520~x2/)|
+|![Van Ingelgem Dress (Personal) example sett](/setts/s18/y3k18b3k3b3k3b17ba3b3ba3b3ba12w2ba12b9ba12k2w2~b003c64-ba0000cd-k101010-wffffff-ydaa520~x2/sett.png)|

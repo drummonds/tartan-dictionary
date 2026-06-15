@@ -16,5 +16,5 @@ GKYKYKYKYKYKYKYKY
 
 | Tartans |
 |---------------|
-| [Carnegie Check](/setts/s17/g12k2y2k2y2k2y2k2y2k2y4k4y4k4y4k4y4-g502814-k000000-yb0b0b0/)|
-|![Carnegie Check example sett](/setts/s17/g12k2y2k2y2k2y2k2y2k2y4k4y4k4y4k4y4-g502814-k000000-yb0b0b0/sett.png)|
+| [Carnegie Check](/setts/s17/g6k1y1k1y1k1y1k1y1k1y2k2y2k2y2k2y2~g502814-k000000-yb0b0b0~x2/)|
+|![Carnegie Check example sett](/setts/s17/g6k1y1k1y1k1y1k1y1k1y2k2y2k2y2k2y2~g502814-k000000-yb0b0b0~x2/sett.png)|

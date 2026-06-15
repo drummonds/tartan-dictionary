@@ -16,5 +16,5 @@ RYRYGRGBGRY
 
 | Tartans |
 |---------------|
-| [Vassseur Mignon ({Personal)](/setts/s11/r4y4r4y4g10ra10g22b22g10ra22y4-b5c5c5c-g006818-rc80000-ra888888-yfccc00/)|
-|![Vassseur Mignon ({Personal) example sett](/setts/s11/r4y4r4y4g10ra10g22b22g10ra22y4-b5c5c5c-g006818-rc80000-ra888888-yfccc00/sett.png)|
+| [Vassseur Mignon ({Personal)](/setts/s11/r2y2r2y2g5ra5g11b11g5ra11y2~b5c5c5c-g006818-rc80000-ra888888-yfccc00~x2/)|
+|![Vassseur Mignon ({Personal) example sett](/setts/s11/r2y2r2y2g5ra5g11b11g5ra11y2~b5c5c5c-g006818-rc80000-ra888888-yfccc00~x2/sett.png)|

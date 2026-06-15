@@ -16,5 +16,5 @@ RWRRWBWWWBWGYWBWYGWGGWGGWWBWBWWRRWRWRRWWBWBWWGGYWYGGWRRWR
 
 | Tartans |
 |---------------|
-| [Waggrall (Clan)](/setts/s57/r8w2ra22r4w4b22wa8w4wa8b22w4g8y8w2b10w2y8g8w4ga20g8w4g8ga20w4wa4b12w2b12wa4w4r4ra22w2r8w2ra22r4w4wa4b12w2b12wa4w4ga12g4y4w2y4g4ga12w4r4ra22w2r8-b440044-g5c6428-ga003820-rc80050-rac80000-wf8f8f8-wa98c8-h5fbcaa637fad5542/)|
-|![Waggrall (Clan) example sett](/setts/s57/r8w2ra22r4w4b22wa8w4wa8b22w4g8y8w2b10w2y8g8w4ga20g8w4g8ga20w4wa4b12w2b12wa4w4r4ra22w2r8w2ra22r4w4wa4b12w2b12wa4w4ga12g4y4w2y4g4ga12w4r4ra22w2r8-b440044-g5c6428-ga003820-rc80050-rac80000-wf8f8f8-wa98c8-h5fbcaa637fad5542/sett.png)|
+| [Waggrall (Clan)](/setts/s57/r4w1ra11r2w2b11wa4w2wa4b11w2g4y4w1b5w1y4g4w2ga10g4w2g4ga10w2wa2b6w1b6wa2w2r2ra11w1r4w1ra11r2w2wa2b6w1b6wa2w2ga6g2y2w1y2g2ga6w2r2ra11w1r4~b440044-g5c6428-ga003820-rc80050-rac80000-wf8f8f8-wa98c8e8-yd8b-hfbee2a4c97f5a818/)|
+|![Waggrall (Clan) example sett](/setts/s57/r4w1ra11r2w2b11wa4w2wa4b11w2g4y4w1b5w1y4g4w2ga10g4w2g4ga10w2wa2b6w1b6wa2w2r2ra11w1r4w1ra11r2w2wa2b6w1b6wa2w2ga6g2y2w1y2g2ga6w2r2ra11w1r4~b440044-g5c6428-ga003820-rc80050-rac80000-wf8f8f8-wa98c8e8-yd8b-hfbee2a4c97f5a818/sett.png)|

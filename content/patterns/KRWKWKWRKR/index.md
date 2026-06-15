@@ -16,5 +16,5 @@ KRWKWKWRKR
 
 | Tartans |
 |---------------|
-| [Brice](/setts/s10/k18r36w4k4w8k4w4r24k18r12-k101010-rc80000-wfcfcfc/)|
-|![Brice example sett](/setts/s10/k18r36w4k4w8k4w4r24k18r12-k101010-rc80000-wfcfcfc/sett.png)|
+| [Brice](/setts/s10/k9r18w2k2w4k2w2r12k9r6~k101010-rc80000-wfcfcfc~x2/)|
+|![Brice example sett](/setts/s10/k9r18w2k2w4k2w2r12k9r6~k101010-rc80000-wfcfcfc~x2/sett.png)|

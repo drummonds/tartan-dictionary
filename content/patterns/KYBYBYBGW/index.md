@@ -16,5 +16,5 @@ KYBYBYBGW
 
 | Tartans |
 |---------------|
-| [Highland Road (Fashion)](/setts/s9/k6y30b6y8b6y8b20g60w6-b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0/)|
-|![Highland Road (Fashion) example sett](/setts/s9/k6y30b6y8b6y8b20g60w6-b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0/sett.png)|
+| [Highland Road (Fashion)](/setts/s9/k3y15b3y4b3y4b10g30w3~b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0~x2/)|
+|![Highland Road (Fashion) example sett](/setts/s9/k3y15b3y4b3y4b10g30w3~b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0~x2/sett.png)|

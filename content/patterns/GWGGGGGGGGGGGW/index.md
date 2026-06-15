@@ -16,5 +16,5 @@ GWGGGGGGGGGGGW
 
 | Tartans |
 |---------------|
-| [Snaefell](/setts/s14/w32g28ga4g4ga4g4ga44g4ga4g4ga4g28w32g6-g604000-ga685838-we8e4d0/)|
-|![Snaefell example sett](/setts/s14/w32g28ga4g4ga4g4ga44g4ga4g4ga4g28w32g6-g604000-ga685838-we8e4d0/sett.png)|
+| [Snaefell](/setts/s14/w16g14ga2g2ga2g2ga22g2ga2g2ga2g14w16g3~g604000-ga685838-we8e4d0~x2/)|
+|![Snaefell example sett](/setts/s14/w16g14ga2g2ga2g2ga22g2ga2g2ga2g14w16g3~g604000-ga685838-we8e4d0~x2/sett.png)|

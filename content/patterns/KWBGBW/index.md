@@ -6,7 +6,7 @@ KWBGBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w10b64g24b4w60k8-b2c2c80-g289c18-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/w5b32g12b2w30k4~b2c2c80-g289c18-k101010-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWBGBW
 
 | Tartans |
 |---------------|
-| [Bonnie Royal](/setts/s6/w10b64g24b4w60k8-b2c2c80-g289c18-k101010-wfcfcfc/)|
-|![Bonnie Royal example sett](/setts/s6/w10b64g24b4w60k8-b2c2c80-g289c18-k101010-wfcfcfc/sett.png)|
+| [Bonnie Royal](/setts/s6/w5b32g12b2w30k4~b2c2c80-g289c18-k101010-wfcfcfc~x2/)|
+|![Bonnie Royal example sett](/setts/s6/w5b32g12b2w30k4~b2c2c80-g289c18-k101010-wfcfcfc~x2/sett.png)|

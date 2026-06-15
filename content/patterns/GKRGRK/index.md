@@ -6,7 +6,7 @@ GKRGRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g12k60r32g8ra32k8-g006818-k101010-rc80000-ra888888/tartan.png)
+![Woven sample](/setts/s6/g3k15r8g2ra8k2~g006818-k101010-rc80000-ra888888~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKRGRK
 
 | Tartans |
 |---------------|
-| [Thompson Black (Fashion)](/setts/s6/g12k60r32g8ra32k8-g006818-k101010-rc80000-ra888888/)|
-|![Thompson Black (Fashion) example sett](/setts/s6/g12k60r32g8ra32k8-g006818-k101010-rc80000-ra888888/sett.png)|
-| [Lindsay Htg (Clan?)](/setts/s6/g12k60r32g8ra32k8-g006818-k101010-r880000-ra888888/)|
-|![Lindsay Htg (Clan?) example sett](/setts/s6/g12k60r32g8ra32k8-g006818-k101010-r880000-ra888888/sett.png)|
+| [Thompson Black (Fashion)](/setts/s6/g3k15r8g2ra8k2~g006818-k101010-rc80000-ra888888~x4/)|
+|![Thompson Black (Fashion) example sett](/setts/s6/g3k15r8g2ra8k2~g006818-k101010-rc80000-ra888888~x4/sett.png)|
+| [Lindsay Htg (Clan?)](/setts/s6/g3k15r8g2ra8k2~g006818-k101010-r880000-ra888888~x4/)|
+|![Lindsay Htg (Clan?) example sett](/setts/s6/g3k15r8g2ra8k2~g006818-k101010-r880000-ra888888~x4/sett.png)|

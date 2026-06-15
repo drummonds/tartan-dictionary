@@ -16,7 +16,7 @@ BKYKYKBKBKBKW
 
 | Tartans |
 |---------------|
-| [Bredillet (Personal)](/setts/s13/b32k4y4k4y4k30b28k4b28k30b32k8w2-b202060-k101010-wffffff-ybc8c00/)|
-|![Bredillet (Personal) example sett](/setts/s13/b32k4y4k4y4k30b28k4b28k30b32k8w2-b202060-k101010-wffffff-ybc8c00/sett.png)|
-| [Bredillet (Personal)](/setts/s13/b32k4y4k4y4k30b28k4b28k30b32k8w2-b202060-k101010-wfcfcfc-ybc8c00/)|
-|![Bredillet (Personal) example sett](/setts/s13/b32k4y4k4y4k30b28k4b28k30b32k8w2-b202060-k101010-wfcfcfc-ybc8c00/sett.png)|
+| [Bredillet (Personal)](/setts/s13/b16k2y2k2y2k15b14k2b14k15b16k4w1~b202060-k101010-wffffff-ybc8c00~x2/)|
+|![Bredillet (Personal) example sett](/setts/s13/b16k2y2k2y2k15b14k2b14k15b16k4w1~b202060-k101010-wffffff-ybc8c00~x2/sett.png)|
+| [Bredillet (Personal)](/setts/s13/b16k2y2k2y2k15b14k2b14k15b16k4w1~b202060-k101010-wfcfcfc-ybc8c00~x2/)|
+|![Bredillet (Personal) example sett](/setts/s13/b16k2y2k2y2k15b14k2b14k15b16k4w1~b202060-k101010-wfcfcfc-ybc8c00~x2/sett.png)|

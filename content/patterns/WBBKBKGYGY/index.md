@@ -16,5 +16,5 @@ WBBKBKGYGY
 
 | Tartans |
 |---------------|
-| [Pinewoods Jubilee](/setts/s10/w6b76ba4k8bb8k8g60y2g2y4-b1870a4-ba5c8ca8-bb780078-g408060-k101010-wf8f8f8-ye8c000/)|
-|![Pinewoods Jubilee example sett](/setts/s10/w6b76ba4k8bb8k8g60y2g2y4-b1870a4-ba5c8ca8-bb780078-g408060-k101010-wf8f8f8-ye8c000/sett.png)|
+| [Pinewoods Jubilee](/setts/s10/w3b38ba2k4bb4k4g30y1g1y2~b1870a4-ba5c8ca8-bb780078-g408060-k101010-wf8f8f8-ye8c000~x2/)|
+|![Pinewoods Jubilee example sett](/setts/s10/w3b38ba2k4bb4k4g30y1g1y2~b1870a4-ba5c8ca8-bb780078-g408060-k101010-wf8f8f8-ye8c000~x2/sett.png)|

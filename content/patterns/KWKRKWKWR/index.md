@@ -16,5 +16,5 @@ KWKRKWKWR
 
 | Tartans |
 |---------------|
-| [Burberry (Counterfeit #4)](/setts/s9/k20w20k20r64k4w4k4w4ra10-k000000-rb07430-ra880000-we0e0e0/)|
-|![Burberry (Counterfeit #4) example sett](/setts/s9/k20w20k20r64k4w4k4w4ra10-k000000-rb07430-ra880000-we0e0e0/sett.png)|
+| [Burberry (Counterfeit #4)](/setts/s9/k10w10k10r32k2w2k2w2ra5~k000000-rb07430-ra880000-we0e0e0~x2/)|
+|![Burberry (Counterfeit #4) example sett](/setts/s9/k10w10k10r32k2w2k2w2ra5~k000000-rb07430-ra880000-we0e0e0~x2/sett.png)|

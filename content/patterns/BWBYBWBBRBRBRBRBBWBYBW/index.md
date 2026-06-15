@@ -16,5 +16,5 @@ BWBYBWBBRBRBRBRBBWBYBW
 
 | Tartans |
 |---------------|
-| [House of Edgar Shotts & Dykehead](/setts/s22/b20w4ba6y4ba4w4ba4bb28r44b4r12ba4r12b4r44bb28ba4w4ba4y4ba6w4-b2c2c80-ba202060-bb5c5c5c-rc80000-we0e0e0-ye8c000/)|
-|![House of Edgar Shotts & Dykehead example sett](/setts/s22/b20w4ba6y4ba4w4ba4bb28r44b4r12ba4r12b4r44bb28ba4w4ba4y4ba6w4-b2c2c80-ba202060-bb5c5c5c-rc80000-we0e0e0-ye8c000/sett.png)|
+| [House of Edgar Shotts & Dykehead](/setts/s22/b10w2ba3y2ba2w2ba2bb14r22b2r6ba2r6b2r22bb14ba2w2ba2y2ba3w2~b2c2c80-ba202060-bb5c5c5c-rc80000-we0e0e0-ye8c000~x2/)|
+|![House of Edgar Shotts & Dykehead example sett](/setts/s22/b10w2ba3y2ba2w2ba2bb14r22b2r6ba2r6b2r22bb14ba2w2ba2y2ba3w2~b2c2c80-ba202060-bb5c5c5c-rc80000-we0e0e0-ye8c000~x2/sett.png)|

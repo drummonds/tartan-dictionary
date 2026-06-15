@@ -16,5 +16,5 @@ BRKBKBKBY
 
 | Tartans |
 |---------------|
-| [Chinzei Keiai Senior High School](/setts/s9/b6r6k32b4k4b32k6b4y4-b505050-k101010-r888888-yb0b0b0/)|
-|![Chinzei Keiai Senior High School example sett](/setts/s9/b6r6k32b4k4b32k6b4y4-b505050-k101010-r888888-yb0b0b0/sett.png)|
+| [Chinzei Keiai Senior High School](/setts/s9/b3r3k16b2k2b16k3b2y2~b505050-k101010-r888888-yb0b0b0~x2/)|
+|![Chinzei Keiai Senior High School example sett](/setts/s9/b3r3k16b2k2b16k3b2y2~b505050-k101010-r888888-yb0b0b0~x2/sett.png)|

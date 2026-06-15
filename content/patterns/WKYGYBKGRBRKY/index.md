@@ -16,7 +16,7 @@ WKYGYBKGRBRKY
 
 | Tartans |
 |---------------|
-| [Robieson Playfield](/setts/s13/w6k6y48g6y6b48k6g48r6b6r48k6y6-b004080-g008000-k101010-rff0000-wffffff-yffff00/)|
-|![Robieson Playfield example sett](/setts/s13/w6k6y48g6y6b48k6g48r6b6r48k6y6-b004080-g008000-k101010-rff0000-wffffff-yffff00/sett.png)|
-| [Robieson Playfield (School)](/setts/s13/w6k6y48g6y6b48k6g48r6b6r48k6y6-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Robieson Playfield (School) example sett](/setts/s13/w6k6y48g6y6b48k6g48r6b6r48k6y6-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Robieson Playfield](/setts/s13/w1k1y8g1y1b8k1g8r1b1r8k1y1~b004080-g008000-k101010-rff0000-wffffff-yffff00~x6/)|
+|![Robieson Playfield example sett](/setts/s13/w1k1y8g1y1b8k1g8r1b1r8k1y1~b004080-g008000-k101010-rff0000-wffffff-yffff00~x6/sett.png)|
+| [Robieson Playfield (School)](/setts/s13/w1k1y8g1y1b8k1g8r1b1r8k1y1~b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000~x6/)|
+|![Robieson Playfield (School) example sett](/setts/s13/w1k1y8g1y1b8k1g8r1b1r8k1y1~b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000~x6/sett.png)|

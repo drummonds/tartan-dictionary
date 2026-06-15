@@ -16,5 +16,5 @@ GBRBGBRBRBRG
 
 | Tartans |
 |---------------|
-| [Frame (Ferniegair) (Personal)](/setts/s12/g16b56r4b4g4b4r4b56r56b4r4g4-b3d1903-g00480d-rad0000/)|
-|![Frame (Ferniegair) (Personal) example sett](/setts/s12/g16b56r4b4g4b4r4b56r56b4r4g4-b3d1903-g00480d-rad0000/sett.png)|
+| [Frame (Ferniegair) (Personal)](/setts/s12/g4b14r1b1g1b1r1b14r14b1r1g1~b3d1903-g00480d-rad0000~x4/)|
+|![Frame (Ferniegair) (Personal) example sett](/setts/s12/g4b14r1b1g1b1r1b14r14b1r1g1~b3d1903-g00480d-rad0000~x4/sett.png)|

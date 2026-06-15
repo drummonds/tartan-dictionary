@@ -16,5 +16,5 @@ RBGBKBGBGW
 
 | Tartans |
 |---------------|
-| [Colgan, USA, Robert James](/setts/s10/r14b4g10b4k48b4g20b56g20w6-b304080-g30a010-k000000-rc00000-we0e0e0/)|
-|![Colgan, USA, Robert James example sett](/setts/s10/r14b4g10b4k48b4g20b56g20w6-b304080-g30a010-k000000-rc00000-we0e0e0/sett.png)|
+| [Colgan, USA, Robert James](/setts/s10/r7b2g5b2k24b2g10b28g10w3~b304080-g30a010-k000000-rc00000-we0e0e0~x2/)|
+|![Colgan, USA, Robert James example sett](/setts/s10/r7b2g5b2k24b2g10b28g10w3~b304080-g30a010-k000000-rc00000-we0e0e0~x2/sett.png)|

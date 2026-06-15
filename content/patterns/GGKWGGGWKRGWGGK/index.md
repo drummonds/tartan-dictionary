@@ -16,5 +16,5 @@ GGKWGGGWKRGWGGK
 
 | Tartans |
 |---------------|
-| [Gayre Dress (Clan)](/setts/s15/g28ga8k8w8ga24g8ga24w8k8r12ga8w8ga6g8k8-g789484-ga006818-k101010-rc80000-wfcfcfc/)|
-|![Gayre Dress (Clan) example sett](/setts/s15/g28ga8k8w8ga24g8ga24w8k8r12ga8w8ga6g8k8-g789484-ga006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Gayre Dress (Clan)](/setts/s15/g14ga4k4w4ga12g4ga12w4k4r6ga4w4ga3g4k4~g789484-ga006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Gayre Dress (Clan) example sett](/setts/s15/g14ga4k4w4ga12g4ga12w4k4r6ga4w4ga3g4k4~g789484-ga006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

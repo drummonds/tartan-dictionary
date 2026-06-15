@@ -16,5 +16,5 @@ WWYYRBWYWYYRGWYWY
 
 | Tartans |
 |---------------|
-| [Ste-Anne-de-Portneuf](/setts/s17/w8wa12y28ya4r16b8w24yb8wa4y8ya24r8g16w4yb28wa12yc8-b441800-g604000-rec2804-w64b0e0-wae0e0e0-y54cc00-yae8c000-yba08858-ycd87c00/)|
-|![Ste-Anne-de-Portneuf example sett](/setts/s17/w8wa12y28ya4r16b8w24yb8wa4y8ya24r8g16w4yb28wa12yc8-b441800-g604000-rec2804-w64b0e0-wae0e0e0-y54cc00-yae8c000-yba08858-ycd87c00/sett.png)|
+| [Ste-Anne-de-Portneuf](/setts/s17/w2wa3y7ya1r4b2w6yb2wa1y2ya6r2g4w1yb7wa3yc2~b441800-g604000-rec2804-w64b0e0-wae0e0e0-y54cc00-yae8c000-yba08858-ycd87c00~x4/)|
+|![Ste-Anne-de-Portneuf example sett](/setts/s17/w2wa3y7ya1r4b2w6yb2wa1y2ya6r2g4w1yb7wa3yc2~b441800-g604000-rec2804-w64b0e0-wae0e0e0-y54cc00-yae8c000-yba08858-ycd87c00~x4/sett.png)|

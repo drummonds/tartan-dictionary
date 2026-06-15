@@ -6,7 +6,7 @@ WYKBGRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w4y38k4b30g4r40y4-b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0/tartan.png)
+![Woven sample](/setts/s7/w2y19k2b15g2r20y2~b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYKBGRY
 
 | Tartans |
 |---------------|
-| [Wallace Memorial Centenary](/setts/s7/w4y38k4b30g4r40y4-b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0/)|
-|![Wallace Memorial Centenary example sett](/setts/s7/w4y38k4b30g4r40y4-b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0/sett.png)|
+| [Wallace Memorial Centenary](/setts/s7/w2y19k2b15g2r20y2~b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0~x2/)|
+|![Wallace Memorial Centenary example sett](/setts/s7/w2y19k2b15g2r20y2~b14283c-g006818-k101010-rc80000-w98c8e8-y48a4c0~x2/sett.png)|

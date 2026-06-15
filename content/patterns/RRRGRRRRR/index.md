@@ -16,7 +16,7 @@ RRRGRRRRR
 
 | Tartans |
 |---------------|
-| [Valdres, Kvam & Vang](/setts/s9/r8ra4r2g32ra4r22ra2r2ra4-g003820-rc80000-rac80050/)|
-|![Valdres, Kvam & Vang example sett](/setts/s9/r8ra4r2g32ra4r22ra2r2ra4-g003820-rc80000-rac80050/sett.png)|
-| [Valdres, Kvam & Vang (Artefact)](/setts/s9/r20ra8r4g64ra8r44ra4r4ra8-g006c3c-rc80000-radc0058/)|
-|![Valdres, Kvam & Vang (Artefact) example sett](/setts/s9/r20ra8r4g64ra8r44ra4r4ra8-g006c3c-rc80000-radc0058/sett.png)|
+| [Valdres, Kvam & Vang](/setts/s9/r4ra2r1g16ra2r11ra1r1ra2~g003820-rc80000-rac80050~x2/)|
+|![Valdres, Kvam & Vang example sett](/setts/s9/r4ra2r1g16ra2r11ra1r1ra2~g003820-rc80000-rac80050~x2/sett.png)|
+| [Valdres, Kvam & Vang (Artefact)](/setts/s9/r5ra2r1g16ra2r11ra1r1ra2~g006c3c-rc80000-radc0058~x4/)|
+|![Valdres, Kvam & Vang (Artefact) example sett](/setts/s9/r5ra2r1g16ra2r11ra1r1ra2~g006c3c-rc80000-radc0058~x4/sett.png)|

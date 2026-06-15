@@ -6,7 +6,7 @@ KRGRGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k4r32g12r6g16y2-g11450d-k000000-raa0000-yaaaaaa/tartan.png)
+![Woven sample](/setts/s6/k2r16g6r3g8y1~g11450d-k000000-raa0000-yaaaaaa~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRGRGY
 
 | Tartans |
 |---------------|
-| [MacAulay](/setts/s6/k4r32g12r6g16y2-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacAulay example sett](/setts/s6/k4r32g12r6g16y2-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [MacAulay](/setts/s6/k2r16g6r3g8y1-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacAulay example sett](/setts/s6/k2r16g6r3g8y1-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacAulay](/setts/s6/k2r16g6r3g8y1~g11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![MacAulay example sett](/setts/s6/k2r16g6r3g8y1~g11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|
+| [MacAulay](/setts/s6/k2r16g6r3g8y1~g11450d-k000000-raa0000-yaaaaaa/)|
+|![MacAulay example sett](/setts/s6/k2r16g6r3g8y1~g11450d-k000000-raa0000-yaaaaaa/sett.png)|

@@ -16,5 +16,5 @@ KYKRKYKBRKRY
 
 | Tartans |
 |---------------|
-| [Wcwm 849-3](/setts/s12/k84y6k12r4k4ya4k4b20ra12ka4ra8ya4-b3c2010-k0c0c04-ka000000-r9c589c-raa0783c-y00c8c8-yac09898/)|
-|![Wcwm 849-3 example sett](/setts/s12/k84y6k12r4k4ya4k4b20ra12ka4ra8ya4-b3c2010-k0c0c04-ka000000-r9c589c-raa0783c-y00c8c8-yac09898/sett.png)|
+| [Wcwm 849-3](/setts/s12/k42y3k6r2k2ya2k2b10ra6ka2ra4ya2~b3c2010-k0c0c04-ka000000-r9c589c-raa0783c-y00c8c8-yac09898~x2/)|
+|![Wcwm 849-3 example sett](/setts/s12/k42y3k6r2k2ya2k2b10ra6ka2ra4ya2~b3c2010-k0c0c04-ka000000-r9c589c-raa0783c-y00c8c8-yac09898~x2/sett.png)|

@@ -6,7 +6,7 @@ KGWKGKBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y8b56k4g44k8w8ga8k4-b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500/tartan.png)
+![Woven sample](/setts/s8/y2b14k1g11k2w2ga2k1~b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGWKGKBY
 
 | Tartans |
 |---------------|
-| [Mission](/setts/s8/y8b56k4g44k8w8ga8k4-b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500/)|
-|![Mission example sett](/setts/s8/y8b56k4g44k8w8ga8k4-b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500/sett.png)|
+| [Mission](/setts/s8/y2b14k1g11k2w2ga2k1~b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500~x4/)|
+|![Mission example sett](/setts/s8/y2b14k1g11k2w2ga2k1~b5c8ca8-g006818-ga408060-k101010-wffe1ff-yffa500~x4/sett.png)|

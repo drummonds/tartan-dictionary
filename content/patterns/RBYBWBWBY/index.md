@@ -16,5 +16,5 @@ RBYBWBWBY
 
 | Tartans |
 |---------------|
-| [Rafferty (Estimated threadcount)](/setts/s9/r60b8y4b40w4b8w4b8y4-b1474b4-r880000-wf8f8f8-ya08858/)|
-|![Rafferty (Estimated threadcount) example sett](/setts/s9/r60b8y4b40w4b8w4b8y4-b1474b4-r880000-wf8f8f8-ya08858/sett.png)|
+| [Rafferty (Estimated threadcount)](/setts/s9/r15b2y1b10w1b2w1b2y1~b1474b4-r880000-wf8f8f8-ya08858~x4/)|
+|![Rafferty (Estimated threadcount) example sett](/setts/s9/r15b2y1b10w1b2w1b2y1~b1474b4-r880000-wf8f8f8-ya08858~x4/sett.png)|

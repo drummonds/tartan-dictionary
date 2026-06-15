@@ -16,5 +16,5 @@ BKYKRKBKY
 
 | Tartans |
 |---------------|
-| [United States](/setts/s9/b7k5y6k5r7k2b2k70y2-b304080-k000030-rc00000-yb0b0b0/)|
-|![United States example sett](/setts/s9/b7k5y6k5r7k2b2k70y2-b304080-k000030-rc00000-yb0b0b0/sett.png)|
+| [United States](/setts/s9/b7k5y6k5r7k2b2k70y2~b304080-k000030-rc00000-yb0b0b0/)|
+|![United States example sett](/setts/s9/b7k5y6k5r7k2b2k70y2~b304080-k000030-rc00000-yb0b0b0/sett.png)|

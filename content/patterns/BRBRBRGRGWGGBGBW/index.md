@@ -16,5 +16,5 @@ BRBRBRGRGWGGBGBW
 
 | Tartans |
 |---------------|
-| [Haughey (Personal)](/setts/s16/b12r4b4r8b28r4g24r4g6w4g6ga22ba18g4ba12w4-b141e46-ba5a008c-g003c14-ga2a2303-rdc0000-we0e0e0/)|
-|![Haughey (Personal) example sett](/setts/s16/b12r4b4r8b28r4g24r4g6w4g6ga22ba18g4ba12w4-b141e46-ba5a008c-g003c14-ga2a2303-rdc0000-we0e0e0/sett.png)|
+| [Haughey (Personal)](/setts/s16/b6r2b2r4b14r2g12r2g3w2g3ga11ba9g2ba6w2~b141e46-ba5a008c-g003c14-ga2a2303-rdc0000-we0e0e0~x2/)|
+|![Haughey (Personal) example sett](/setts/s16/b6r2b2r4b14r2g12r2g3w2g3ga11ba9g2ba6w2~b141e46-ba5a008c-g003c14-ga2a2303-rdc0000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ WKRKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w6k70r48k2y6-k101010-r888888-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s5/w3k35r24k1y3~k101010-r888888-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKRKY
 
 | Tartans |
 |---------------|
-| [George Heriots](/setts/s5/w6k70r48k2y6-k101010-r888888-we0e0e0-ye8c000/)|
-|![George Heriots example sett](/setts/s5/w6k70r48k2y6-k101010-r888888-we0e0e0-ye8c000/sett.png)|
+| [George Heriots](/setts/s5/w3k35r24k1y3~k101010-r888888-we0e0e0-ye8c000~x2/)|
+|![George Heriots example sett](/setts/s5/w3k35r24k1y3~k101010-r888888-we0e0e0-ye8c000~x2/sett.png)|

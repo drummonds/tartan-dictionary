@@ -1,0 +1,48 @@
+---
+title: "Scottish Rugby Union (City of Nagasaki)"
+date: 2023-03-18
+---
+In pattern [GKGKBBBBBKW](/patterns/gkgkbbbbbkw/).
+
+
+This was sourced from register-of-tartans.  It is a [11 stripes tartan](/stripes/stripes11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11651
+
+## Thread count
+G/12 K4 G48 K20 DN4 P4 DN4 P4 DN20 K4 N/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DN | <code style="background-color:#14283C;"><span style="color:#14283C;filter:grayscale(1) invert(1) contrast(100);">#14283C</span></code> `#14283C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+| P | <code style="background-color:#9058D8;"><span style="color:#9058D8;filter:grayscale(1) invert(1) contrast(100);">#9058D8</span></code> `#9058D8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Fraser Gathering Hunting Trade Tartan Tartan Number: 2363. Earliest known date: 1997 Unknown until House of Edgar published their own Old and Rare. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r2b12g2ga11g4b5ga2g24w2~b202060-g003820-ga289c18-rc80000-we0e0e0~x2/) — ΔT 0.60
+1. [Semple Family Tartan Tartan Number: 2292. Earliest known date: 1996 Designed by Iain Semple of Tamworth for anyone of the name. Very similar design to Sempill # 2420. See the Semple Family website (www.semple.org). Clan/Family Chief is Lord Semple who lives in Leith, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r4b11k3b3k3b4k15g36w3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/) — ΔT 0.73
+1. [Maitland Chief](/setts/s9/g5b24g7k10g24y2b2y2r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/) — ΔT 0.73
+1. [Princess Beatrice Hunting](/setts/s13/b10g5b5g60b13g10ba67g5k5g5k5g13y10~b1c0070-ba202060-g006818-k101010-ye8c000/) — ΔT 0.82
+1. [Semple (Name)](/setts/s9/r4b11k3b3k3b4k15g36w3~b1474b4-g006818-k101010-rc80000-wfcfcfc~x2/) — ΔT 0.83
+1. [Connolly Hunting (Name)](/setts/s10/k6r2k2r2k6b7g20y2g3r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/) — ΔT 0.86
+1. [Fraser Gathering, Green (1997)](/setts/s9/r2b12g2ga11g4b5ga2g24w2~b1c0070-g003820-ga006818-rc80000-wfcfcfc~x2/) — ΔT 0.92
+1. [Semple](/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~b1474b4-g006818-k101010-rc80000-wfcfcfc~x2/) — ΔT 0.92
+1. [Rourke-Frew Hunting](/setts/s11/b6k3r2k3g31k6g2k6y13k2g2~b202060-g003820-k101010-rc80000-yd09800~x2/) — ΔT 0.93
+1. [Letham Hunting (Name)](/setts/s15/b2k2g6ba4k2ba5k4g20k4bb5k2ba4g6k2b2~b780078-ba2888c4-bb2c2c80-g006818-k101010~x2/) — ΔT 0.94
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r2b12g2ga11g4b5ga2g24w2~b202060-g003820-ga289c18-rc80000-we0e0e0~x2/"><circle cx="234.2" cy="170.5" r="4" fill="#3465a4"><title>Fraser Gathering Hunting Trade Tartan Tartan Number: 2363. Earliest known date: 1997 Unknown until House of Edgar published their own Old and Rare. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r4b11k3b3k3b4k15g36w3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/"><circle cx="218.9" cy="154.6" r="4" fill="#3465a4"><title>Semple Family Tartan Tartan Number: 2292. Earliest known date: 1996 Designed by Iain Semple of Tamworth for anyone of the name. Very similar design to Sempill # 2420. See the Semple Family website (www.semple.org). Clan/Family Chief is Lord Semple who lives in Leith, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g5b24g7k10g24y2b2y2r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/"><circle cx="238.6" cy="169.4" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/setts/s13/b10g5b5g60b13g10ba67g5k5g5k5g13y10~b1c0070-ba202060-g006818-k101010-ye8c000/"><circle cx="250.2" cy="137.8" r="4" fill="#3465a4"><title>Princess Beatrice Hunting</title></circle></a><a href="/setts/s9/r4b11k3b3k3b4k15g36w3~b1474b4-g006818-k101010-rc80000-wfcfcfc~x2/"><circle cx="212.4" cy="152.5" r="4" fill="#3465a4"><title>Semple (Name)</title></circle></a><a href="/setts/s10/k6r2k2r2k6b7g20y2g3r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/"><circle cx="204.8" cy="162.7" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/setts/s9/r2b12g2ga11g4b5ga2g24w2~b1c0070-g003820-ga006818-rc80000-wfcfcfc~x2/"><circle cx="247.9" cy="177.5" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~b1474b4-g006818-k101010-rc80000-wfcfcfc~x2/"><circle cx="222.8" cy="136.6" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s11/b6k3r2k3g31k6g2k6y13k2g2~b202060-g003820-k101010-rc80000-yd09800~x2/"><circle cx="247.5" cy="136.6" r="4" fill="#3465a4"><title>Rourke-Frew Hunting</title></circle></a><a href="/setts/s15/b2k2g6ba4k2ba5k4g20k4bb5k2ba4g6k2b2~b780078-ba2888c4-bb2c2c80-g006818-k101010~x2/"><circle cx="201.5" cy="158.5" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><circle cx="232.0" cy="155.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/g6k2g24k10b2ba2b2ba2b10k2w3~b14283c-ba9058d8-g006818-k101010-wc0c0c0~x2/

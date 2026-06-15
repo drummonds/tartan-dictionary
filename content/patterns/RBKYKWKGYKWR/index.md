@@ -16,7 +16,7 @@ RBKYKWKGYKWR
 
 | Tartans |
 |---------------|
-| [Drummond Relic](/setts/s12/r104w4k32y4g52k4w16k4y8k16b12r32-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Drummond Relic example sett](/setts/s12/r104w4k32y4g52k4w16k4y8k16b12r32-b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Drummond, Relic](/setts/s12/r104w4k32y4g52k4w16k4y8k16b12r32-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Drummond, Relic example sett](/setts/s12/r104w4k32y4g52k4w16k4y8k16b12r32-b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Drummond Relic](/setts/s12/r26w1k8y1g13k1w4k1y2k4b3r8~b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000~x4/)|
+|![Drummond Relic example sett](/setts/s12/r26w1k8y1g13k1w4k1y2k4b3r8~b3c82af-g005020-k101010-rdc0000-we0e0e0-ye8c000~x4/sett.png)|
+| [Drummond, Relic](/setts/s12/r26w1k8y1g13k1w4k1y2k4b3r8~b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000~x4/)|
+|![Drummond, Relic example sett](/setts/s12/r26w1k8y1g13k1w4k1y2k4b3r8~b5480b0-g008000-k000000-rc00000-we0e0e0-yf0c000~x4/sett.png)|

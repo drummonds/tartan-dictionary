@@ -16,5 +16,5 @@ BWBBBBBBBBBBBBBR
 
 | Tartans |
 |---------------|
-| [Help for Heroes (Corporate)](/setts/s16/r12b50ba20bb2ba10bb4ba8bb6ba6bb6ba4bb8ba2bb32w12bb6-b5c8ca8-ba003c64-bb1c0070-rc80000-wc0c0c0/)|
-|![Help for Heroes (Corporate) example sett](/setts/s16/r12b50ba20bb2ba10bb4ba8bb6ba6bb6ba4bb8ba2bb32w12bb6-b5c8ca8-ba003c64-bb1c0070-rc80000-wc0c0c0/sett.png)|
+| [Help for Heroes (Corporate)](/setts/s16/r6b25ba10bb1ba5bb2ba4bb3ba3bb3ba2bb4ba1bb16w6bb3~b5c8ca8-ba003c64-bb1c0070-rc80000-wc0c0c0~x2/)|
+|![Help for Heroes (Corporate) example sett](/setts/s16/r6b25ba10bb1ba5bb2ba4bb3ba3bb3ba2bb4ba1bb16w6bb3~b5c8ca8-ba003c64-bb1c0070-rc80000-wc0c0c0~x2/sett.png)|

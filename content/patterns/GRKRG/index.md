@@ -6,7 +6,7 @@ GRKRG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g124r14k8r8g124-g005020-k101010-rdc0000/tartan.png)
+![Woven sample](/setts/s5/g62r7k4r4g62~g005020-k101010-rdc0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRKRG
 
 | Tartans |
 |---------------|
-| [MacNab, Ancient](/setts/s5/g124r14k8r8g124-g005020-k101010-rdc0000/)|
-|![MacNab, Ancient example sett](/setts/s5/g124r14k8r8g124-g005020-k101010-rdc0000/sett.png)|
-| [Timespan, (MacKay)](/setts/s5/g36r6k36r6ga36-g008000-ga808080-k000000-rc00000/)|
-|![Timespan, (MacKay) example sett](/setts/s5/g36r6k36r6ga36-g008000-ga808080-k000000-rc00000/sett.png)|
+| [MacNab, Ancient](/setts/s5/g62r7k4r4g62~g005020-k101010-rdc0000~x2/)|
+|![MacNab, Ancient example sett](/setts/s5/g62r7k4r4g62~g005020-k101010-rdc0000~x2/sett.png)|
+| [Timespan, (MacKay)](/setts/s5/g6r1k6r1ga6~g008000-ga808080-k000000-rc00000~x6/)|
+|![Timespan, (MacKay) example sett](/setts/s5/g6r1k6r1ga6~g008000-ga808080-k000000-rc00000~x6/sett.png)|

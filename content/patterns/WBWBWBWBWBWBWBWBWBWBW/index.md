@@ -16,5 +16,5 @@ WBWBWBWBWBWBWBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Prince of Wales Check](/setts/s21/w8b8w8b8w8ba16w8b4w4b4w4b4w4b4w4b4w4b4w4b4w4-b441800-ba003c64-wc0c0c0/)|
-|![Prince of Wales Check example sett](/setts/s21/w8b8w8b8w8ba16w8b4w4b4w4b4w4b4w4b4w4b4w4b4w4-b441800-ba003c64-wc0c0c0/sett.png)|
+| [Prince of Wales Check](/setts/s21/w2b2w2b2w2ba4w2b1w1b1w1b1w1b1w1b1w1b1w1b1w1~b441800-ba003c64-wc0c0c0~x4/)|
+|![Prince of Wales Check example sett](/setts/s21/w2b2w2b2w2ba4w2b1w1b1w1b1w1b1w1b1w1b1w1b1w1~b441800-ba003c64-wc0c0c0~x4/sett.png)|

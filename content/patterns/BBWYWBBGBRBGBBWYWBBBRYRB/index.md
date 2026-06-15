@@ -16,5 +16,5 @@ BBWYWBBGBRBGBBWYWBBBRYRB
 
 | Tartans |
 |---------------|
-| [Commonwealth Bid (Corporate)](/setts/s24/b120r14y4r4b40ba30b10w4ya4w12b10ba4g6ba2ra6ba2g6ba4b10w12ya4w4b10ba30-b1474b4-ba2c2c80-g289c18-rb84c00-rac80000-w98c8e8-yc4bc68-yae8c000/)|
-|![Commonwealth Bid (Corporate) example sett](/setts/s24/b120r14y4r4b40ba30b10w4ya4w12b10ba4g6ba2ra6ba2g6ba4b10w12ya4w4b10ba30-b1474b4-ba2c2c80-g289c18-rb84c00-rac80000-w98c8e8-yc4bc68-yae8c000/sett.png)|
+| [Commonwealth Bid (Corporate)](/setts/s24/b60r7y2r2b20ba15b5w2ya2w6b5ba2g3ba1ra3ba1g3ba2b5w6ya2w2b5ba15~b1474b4-ba2c2c80-g289c18-rb84c00-rac80000-w98c8e8-yc4bc68-yae8c000~x2/)|
+|![Commonwealth Bid (Corporate) example sett](/setts/s24/b60r7y2r2b20ba15b5w2ya2w6b5ba2g3ba1ra3ba1g3ba2b5w6ya2w2b5ba15~b1474b4-ba2c2c80-g289c18-rb84c00-rac80000-w98c8e8-yc4bc68-yae8c000~x2/sett.png)|

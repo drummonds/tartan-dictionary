@@ -16,5 +16,5 @@ RBBBBBBRYRYR
 
 | Tartans |
 |---------------|
-| [Callum](/setts/s12/r6b32ba4b4ba4b6ba12ra40y6ra4y4ra6-b306084-ba000060-r880000-rab07430-yacacac/)|
-|![Callum example sett](/setts/s12/r6b32ba4b4ba4b6ba12ra40y6ra4y4ra6-b306084-ba000060-r880000-rab07430-yacacac/sett.png)|
+| [Callum](/setts/s12/r3b16ba2b2ba2b3ba6ra20y3ra2y2ra3~b306084-ba000060-r880000-rab07430-yacacac~x2/)|
+|![Callum example sett](/setts/s12/r3b16ba2b2ba2b3ba6ra20y3ra2y2ra3~b306084-ba000060-r880000-rab07430-yacacac~x2/sett.png)|

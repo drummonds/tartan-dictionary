@@ -16,5 +16,5 @@ GRGYKRWRWRKYGW
 
 | Tartans |
 |---------------|
-| [Ogilvie (D.C. Stewart)](/setts/s14/g32r8g32y8k8r48w8r32w8r48k8y8g32w8-g789484-k101010-rc80000-we0e0e0-yd8b000/)|
-|![Ogilvie (D.C. Stewart) example sett](/setts/s14/g32r8g32y8k8r48w8r32w8r48k8y8g32w8-g789484-k101010-rc80000-we0e0e0-yd8b000/sett.png)|
+| [Ogilvie (D.C. Stewart)](/setts/s14/g4r1g4y1k1r6w1r4w1r6k1y1g4w1~g789484-k101010-rc80000-we0e0e0-yd8b000~x8/)|
+|![Ogilvie (D.C. Stewart) example sett](/setts/s14/g4r1g4y1k1r6w1r4w1r6k1y1g4w1~g789484-k101010-rc80000-we0e0e0-yd8b000~x8/sett.png)|

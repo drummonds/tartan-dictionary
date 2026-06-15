@@ -6,7 +6,7 @@ GKBGKG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g12k32g32b12k72g8-b5480b0-g008000-k000030/tartan.png)
+![Woven sample](/setts/s6/g3k8g8b3k18g2~b5480b0-g008000-k000030~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBGKG
 
 | Tartans |
 |---------------|
-| [Kincardine City](/setts/s6/g12k32g32b12k72g8-b5480b0-g008000-k000030/)|
-|![Kincardine City example sett](/setts/s6/g12k32g32b12k72g8-b5480b0-g008000-k000030/sett.png)|
+| [Kincardine City](/setts/s6/g3k8g8b3k18g2~b5480b0-g008000-k000030~x4/)|
+|![Kincardine City example sett](/setts/s6/g3k8g8b3k18g2~b5480b0-g008000-k000030~x4/sett.png)|

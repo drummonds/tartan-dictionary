@@ -16,5 +16,5 @@ BRKRBRKRKRKRKRKRB
 
 | Tartans |
 |---------------|
-| [Mary Stuart (Fashion?](/setts/s17/b16r4k4r4b16r4k4r4k16r4k4r4k16r4k4r4b16-b2c2c80-k101010-rc80000/)|
-|![Mary Stuart (Fashion? example sett](/setts/s17/b16r4k4r4b16r4k4r4k16r4k4r4k16r4k4r4b16-b2c2c80-k101010-rc80000/sett.png)|
+| [Mary Stuart (Fashion?](/setts/s17/b4r1k1r1b4r1k1r1k4r1k1r1k4r1k1r1b4~b2c2c80-k101010-rc80000~x4/)|
+|![Mary Stuart (Fashion? example sett](/setts/s17/b4r1k1r1b4r1k1r1k4r1k1r1k4r1k1r1b4~b2c2c80-k101010-rc80000~x4/sett.png)|

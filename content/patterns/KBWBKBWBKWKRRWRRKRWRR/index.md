@@ -16,5 +16,5 @@ KBWBKBWBKWKRRWRRKRWRR
 
 | Tartans |
 |---------------|
-| [Aberdeen Dress (Dance)](/setts/s21/k2b8w26b2k10ba8w2ba8k10w2k6r10ra6w2ra6r10k26r2w40ra6r2-b780078-ba9050d8-k101010-rc80000-ra888888-we0e0e0/)|
-|![Aberdeen Dress (Dance) example sett](/setts/s21/k2b8w26b2k10ba8w2ba8k10w2k6r10ra6w2ra6r10k26r2w40ra6r2-b780078-ba9050d8-k101010-rc80000-ra888888-we0e0e0/sett.png)|
+| [Aberdeen Dress (Dance)](/setts/s21/k1b4w13b1k5ba4w1ba4k5w1k3r5ra3w1ra3r5k13r1w20ra3r1~b780078-ba9050d8-k101010-rc80000-ra888888-we0e0e0~x2/)|
+|![Aberdeen Dress (Dance) example sett](/setts/s21/k1b4w13b1k5ba4w1ba4k5w1k3r5ra3w1ra3r5k13r1w20ra3r1~b780078-ba9050d8-k101010-rc80000-ra888888-we0e0e0~x2/sett.png)|

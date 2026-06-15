@@ -16,7 +16,7 @@ GBKGKRKRKG
 
 | Tartans |
 |---------------|
-| [Arizona Jones](/setts/s10/g36k2r18k24r18k2g36k2b12g2-b575757-g006400-k101010-r8b0000/)|
-|![Arizona Jones example sett](/setts/s10/g36k2r18k24r18k2g36k2b12g2-b575757-g006400-k101010-r8b0000/sett.png)|
-| [Jones (Arizona) (Name)](/setts/s10/g36k2r18k24r18k2g36k2b12g2-b5c5c5c-g005c34-k101010-r880000/)|
-|![Jones (Arizona) (Name) example sett](/setts/s10/g36k2r18k24r18k2g36k2b12g2-b5c5c5c-g005c34-k101010-r880000/sett.png)|
+| [Arizona Jones](/setts/s10/g18k1r9k12r9k1g18k1b6g1~b575757-g006400-k101010-r8b0000~x2/)|
+|![Arizona Jones example sett](/setts/s10/g18k1r9k12r9k1g18k1b6g1~b575757-g006400-k101010-r8b0000~x2/sett.png)|
+| [Jones (Arizona) (Name)](/setts/s10/g18k1r9k12r9k1g18k1b6g1~b5c5c5c-g005c34-k101010-r880000~x2/)|
+|![Jones (Arizona) (Name) example sett](/setts/s10/g18k1r9k12r9k1g18k1b6g1~b5c5c5c-g005c34-k101010-r880000~x2/sett.png)|

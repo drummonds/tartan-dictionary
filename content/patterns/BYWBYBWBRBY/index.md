@@ -16,5 +16,5 @@ BYWBYBWBRBY
 
 | Tartans |
 |---------------|
-| [Ottawa Fire Service (Corporate)](/setts/s11/b126y6w6b16y6b6w6b6r28b18y6-b202060-rc80000-we0e0e0-ybc8c00/)|
-|![Ottawa Fire Service (Corporate) example sett](/setts/s11/b126y6w6b16y6b6w6b6r28b18y6-b202060-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Ottawa Fire Service (Corporate)](/setts/s11/b63y3w3b8y3b3w3b3r14b9y3~b202060-rc80000-we0e0e0-ybc8c00~x2/)|
+|![Ottawa Fire Service (Corporate) example sett](/setts/s11/b63y3w3b8y3b3w3b3r14b9y3~b202060-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

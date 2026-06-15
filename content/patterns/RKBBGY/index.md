@@ -6,7 +6,7 @@ RKBBGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r20k34b20ba34g80y20-b2888c4-ba780078-g006818-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r10k17b10ba17g40y10~b2888c4-ba780078-g006818-k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RKBBGY
 
 | Tartans |
 |---------------|
-| [Gallowater, Original](/setts/s6/r20k34b20ba34g80y20-b2888c4-ba780078-g006818-k101010-rc80000-ye8c000/)|
-|![Gallowater, Original example sett](/setts/s6/r20k34b20ba34g80y20-b2888c4-ba780078-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Gallowater](/setts/s6/r10k18b10ba18g40y5-b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/)|
-|![Gallowater example sett](/setts/s6/r10k18b10ba18g40y5-b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Gallowater, Original](/setts/s6/r10k17b10ba17g40y10~b2888c4-ba780078-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Gallowater, Original example sett](/setts/s6/r10k17b10ba17g40y10~b2888c4-ba780078-g006818-k101010-rc80000-ye8c000~x2/sett.png)|
+| [Gallowater](/setts/s6/r10k18b10ba18g40y5~b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/)|
+|![Gallowater example sett](/setts/s6/r10k18b10ba18g40y5~b5480b0-ba304080-g008000-k000000-rc00000-yf0c000/sett.png)|

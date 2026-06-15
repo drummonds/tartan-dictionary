@@ -16,5 +16,5 @@ BRBRYRYRBWBWGRGR
 
 | Tartans |
 |---------------|
-| [Riley-Utter Union (Personal)](/setts/s16/b26r4b18r8y2r8y4r10ba6w10ba12w4g14r4g26r14-b0f19eb-ba442415-g026b00-rf50600-wffffff-yf0f000/)|
-|![Riley-Utter Union (Personal) example sett](/setts/s16/b26r4b18r8y2r8y4r10ba6w10ba12w4g14r4g26r14-b0f19eb-ba442415-g026b00-rf50600-wffffff-yf0f000/sett.png)|
+| [Riley-Utter Union (Personal)](/setts/s16/b13r2b9r4y1r4y2r5ba3w5ba6w2g7r2g13r7~b0f19eb-ba442415-g026b00-rf50600-wffffff-yf0f000~x2/)|
+|![Riley-Utter Union (Personal) example sett](/setts/s16/b13r2b9r4y1r4y2r5ba3w5ba6w2g7r2g13r7~b0f19eb-ba442415-g026b00-rf50600-wffffff-yf0f000~x2/sett.png)|

@@ -6,7 +6,7 @@ RBRRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4b16ra40rb8w4-b531039-ra35879-ra970f0f-rbad681d-wffffff/tartan.png)
+![Woven sample](/setts/s5/r1b4ra10rb2w1~b531039-ra35879-ra970f0f-rbad681d-wffffff~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRRW
 
 | Tartans |
 |---------------|
-| [Love](/setts/s5/r4b16ra40rb8w4-b531039-ra35879-ra970f0f-rbad681d-wffffff/)|
-|![Love example sett](/setts/s5/r4b16ra40rb8w4-b531039-ra35879-ra970f0f-rbad681d-wffffff/sett.png)|
+| [Love](/setts/s5/r1b4ra10rb2w1~b531039-ra35879-ra970f0f-rbad681d-wffffff~x4/)|
+|![Love example sett](/setts/s5/r1b4ra10rb2w1~b531039-ra35879-ra970f0f-rbad681d-wffffff~x4/sett.png)|

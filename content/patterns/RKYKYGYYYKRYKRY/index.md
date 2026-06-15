@@ -16,5 +16,5 @@ RKYKYGYYYKRYKRY
 
 | Tartans |
 |---------------|
-| [Purdy, R Scott (Personal)](/setts/s15/r2k2y2k2ya12g6ya14y2ya24k2r42y2k2r2ya2-g006818-k101010-rc80000-yfccc00-yae8c000/)|
-|![Purdy, R Scott (Personal) example sett](/setts/s15/r2k2y2k2ya12g6ya14y2ya24k2r42y2k2r2ya2-g006818-k101010-rc80000-yfccc00-yae8c000/sett.png)|
+| [Purdy, R Scott (Personal)](/setts/s15/r1k1y1k1ya6g3ya7y1ya12k1r21y1k1r1ya1~g006818-k101010-rc80000-yfccc00-yae8c000~x2/)|
+|![Purdy, R Scott (Personal) example sett](/setts/s15/r1k1y1k1ya6g3ya7y1ya12k1r21y1k1r1ya1~g006818-k101010-rc80000-yfccc00-yae8c000~x2/sett.png)|

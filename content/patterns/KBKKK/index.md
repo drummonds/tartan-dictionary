@@ -6,7 +6,7 @@ KBKKK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k4ka46k46b46ka4-b003c64-k000000-ka101010/tartan.png)
+![Woven sample](/setts/s5/k2ka23k23b23ka2~b003c64-k000000-ka101010~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKKK
 
 | Tartans |
 |---------------|
-| [McTear's Auctioneers](/setts/s5/k4ka46k46b46ka4-b003c64-k000000-ka101010/)|
-|![McTear's Auctioneers example sett](/setts/s5/k4ka46k46b46ka4-b003c64-k000000-ka101010/sett.png)|
+| [McTear's Auctioneers](/setts/s5/k2ka23k23b23ka2~b003c64-k000000-ka101010~x2/)|
+|![McTear's Auctioneers example sett](/setts/s5/k2ka23k23b23ka2~b003c64-k000000-ka101010~x2/sett.png)|

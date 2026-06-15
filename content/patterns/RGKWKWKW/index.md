@@ -6,7 +6,7 @@ RGKWKWKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w26k6w6k6w6k30g36r6-g604000-k101010-rc80000-we8ccb8/tartan.png)
+![Woven sample](/setts/s8/w13k3w3k3w3k15g18r3~g604000-k101010-rc80000-we8ccb8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKWKWKW
 
 | Tartans |
 |---------------|
-| [Holden Brown (Corporate)](/setts/s8/w26k6w6k6w6k30g36r6-g604000-k101010-rc80000-we8ccb8/)|
-|![Holden Brown (Corporate) example sett](/setts/s8/w26k6w6k6w6k30g36r6-g604000-k101010-rc80000-we8ccb8/sett.png)|
+| [Holden Brown (Corporate)](/setts/s8/w13k3w3k3w3k15g18r3~g604000-k101010-rc80000-we8ccb8~x2/)|
+|![Holden Brown (Corporate) example sett](/setts/s8/w13k3w3k3w3k15g18r3~g604000-k101010-rc80000-we8ccb8~x2/sett.png)|

@@ -6,7 +6,7 @@ BKBGBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/tartan.png)
+![Woven sample](/setts/s6/b7k7b7g20b2g2~b5c8ca8-g009468-k101010~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBGBG
 
 | Tartans |
 |---------------|
-| [Falconer of Labhdal (Personal)](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/)|
-|![Falconer of Labhdal (Personal) example sett](/setts/s6/b28k28b28g80b8g8-b5c8ca8-g009468-k101010/sett.png)|
+| [Falconer of Labhdal (Personal)](/setts/s6/b7k7b7g20b2g2~b5c8ca8-g009468-k101010~x4/)|
+|![Falconer of Labhdal (Personal) example sett](/setts/s6/b7k7b7g20b2g2~b5c8ca8-g009468-k101010~x4/sett.png)|

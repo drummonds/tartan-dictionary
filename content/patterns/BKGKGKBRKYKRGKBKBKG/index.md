@@ -16,9 +16,9 @@ BKGKGKBRKYKRGKBKBKG
 
 | Tartans |
 |---------------|
-| [Ochiltree (Name)](/setts/s19/b48k4g8k4g8k4b48r8k48y4k48r8g48k4b8k4b8k4g48-b1c0070-g006818-k101010-r880000-yfccc00/)|
-|![Ochiltree (Name) example sett](/setts/s19/b48k4g8k4g8k4b48r8k48y4k48r8g48k4b8k4b8k4g48-b1c0070-g006818-k101010-r880000-yfccc00/sett.png)|
-| [Ochiltree](/setts/s19/b24k2g4k2g4k2b24r4k24y2k24r4g24k2b4k2b4k2g24-b304080-g008000-k000000-rc00000-yf0c000/)|
-|![Ochiltree example sett](/setts/s19/b24k2g4k2g4k2b24r4k24y2k24r4g24k2b4k2b4k2g24-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
-| [Ochiltree Family Tartan Tartan Number: 321. Earliest known date: 1988 O'Sullivan McCragh was designed by Chris Aitken for Geoffrey (Tailor) Highland Crafts Ltd. in June 1994. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/b24k2g4k2g4k2b24r4k24y2k24r4g24k2b4k2b4k2g24-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Ochiltree Family Tartan Tartan Number: 321. Earliest known date: 1988 O'Sullivan McCragh was designed by Chris Aitken for Geoffrey (Tailor) Highland Crafts Ltd. in June 1994. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s19/b24k2g4k2g4k2b24r4k24y2k24r4g24k2b4k2b4k2g24-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Ochiltree (Name)](/setts/s19/b12k1g2k1g2k1b12r2k12y1k12r2g12k1b2k1b2k1g12~b1c0070-g006818-k101010-r880000-yfccc00~x4/)|
+|![Ochiltree (Name) example sett](/setts/s19/b12k1g2k1g2k1b12r2k12y1k12r2g12k1b2k1b2k1g12~b1c0070-g006818-k101010-r880000-yfccc00~x4/sett.png)|
+| [Ochiltree](/setts/s19/b12k1g2k1g2k1b12r2k12y1k12r2g12k1b2k1b2k1g12~b304080-g008000-k000000-rc00000-yf0c000~x2/)|
+|![Ochiltree example sett](/setts/s19/b12k1g2k1g2k1b12r2k12y1k12r2g12k1b2k1b2k1g12~b304080-g008000-k000000-rc00000-yf0c000~x2/sett.png)|
+| [Ochiltree Family Tartan Tartan Number: 321. Earliest known date: 1988 O'Sullivan McCragh was designed by Chris Aitken for Geoffrey (Tailor) Highland Crafts Ltd. in June 1994. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/b12k1g2k1g2k1b12r2k12y1k12r2g12k1b2k1b2k1g12~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Ochiltree Family Tartan Tartan Number: 321. Earliest known date: 1988 O'Sullivan McCragh was designed by Chris Aitken for Geoffrey (Tailor) Highland Crafts Ltd. in June 1994. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s19/b12k1g2k1g2k1b12r2k12y1k12r2g12k1b2k1b2k1g12~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ RKRWRKRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6k14r4w4ra24k4ra4r6-k000000-r806050-ra906030-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r3k7r2w2ra12k2ra2r3~k000000-r806050-ra906030-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRWRKRR
 
 | Tartans |
 |---------------|
-| [Daks](/setts/s8/r6k14r4w4ra24k4ra4r6-k000000-r806050-ra906030-we0e0e0/)|
-|![Daks example sett](/setts/s8/r6k14r4w4ra24k4ra4r6-k000000-r806050-ra906030-we0e0e0/sett.png)|
+| [Daks](/setts/s8/r3k7r2w2ra12k2ra2r3~k000000-r806050-ra906030-we0e0e0~x2/)|
+|![Daks example sett](/setts/s8/r3k7r2w2ra12k2ra2r3~k000000-r806050-ra906030-we0e0e0~x2/sett.png)|

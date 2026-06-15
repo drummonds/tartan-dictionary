@@ -6,7 +6,7 @@ KRGRBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6b24r8g36r12k4-b202060-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/r3b12r4g18r6k2~b202060-g006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRGRBR
 
 | Tartans |
 |---------------|
-| [Eyre (Personal)](/setts/s6/r6b24r8g36r12k4-b202060-g006818-k101010-rc80000/)|
-|![Eyre (Personal) example sett](/setts/s6/r6b24r8g36r12k4-b202060-g006818-k101010-rc80000/sett.png)|
-| [Finnigan (Estimated threadcount)](/setts/s6/r6b30r6g16r40k4-b2c2c80-g006818-k101010-rc80000/)|
-|![Finnigan (Estimated threadcount) example sett](/setts/s6/r6b30r6g16r40k4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Eyre (Personal)](/setts/s6/r3b12r4g18r6k2~b202060-g006818-k101010-rc80000~x2/)|
+|![Eyre (Personal) example sett](/setts/s6/r3b12r4g18r6k2~b202060-g006818-k101010-rc80000~x2/sett.png)|
+| [Finnigan (Estimated threadcount)](/setts/s6/r3b15r3g8r20k2~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Finnigan (Estimated threadcount) example sett](/setts/s6/r3b15r3g8r20k2~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

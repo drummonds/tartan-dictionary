@@ -6,7 +6,7 @@ GGGRWGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g6ga4gb24r22w2g2y6-g003800-ga784c18-gb007800-ra0783c-wffffff-yfcfc00/tartan.png)
+![Woven sample](/setts/s7/g3ga2gb12r11w1g1y3~g003800-ga784c18-gb007800-ra0783c-wffffff-yfcfc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGRWGY
 
 | Tartans |
 |---------------|
-| [Braemar House](/setts/s7/g6ga4gb24r22w2g2y6-g003800-ga784c18-gb007800-ra0783c-wffffff-yfcfc00/)|
-|![Braemar House example sett](/setts/s7/g6ga4gb24r22w2g2y6-g003800-ga784c18-gb007800-ra0783c-wffffff-yfcfc00/sett.png)|
+| [Braemar House](/setts/s7/g3ga2gb12r11w1g1y3~g003800-ga784c18-gb007800-ra0783c-wffffff-yfcfc00~x2/)|
+|![Braemar House example sett](/setts/s7/g3ga2gb12r11w1g1y3~g003800-ga784c18-gb007800-ra0783c-wffffff-yfcfc00~x2/sett.png)|

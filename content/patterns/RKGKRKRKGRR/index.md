@@ -16,5 +16,5 @@ RKGKRKRKGRR
 
 | Tartans |
 |---------------|
-| [Fountain of the Strong](/setts/s11/r12k6g6k12ra4k4ra4k12g6r28rb4-g184800-k000000-rc06430-ra880000-rbb82c28/)|
-|![Fountain of the Strong example sett](/setts/s11/r12k6g6k12ra4k4ra4k12g6r28rb4-g184800-k000000-rc06430-ra880000-rbb82c28/sett.png)|
+| [Fountain of the Strong](/setts/s11/r6k3g3k6ra2k2ra2k6g3r14rb2~g184800-k000000-rc06430-ra880000-rbb82c28~x2/)|
+|![Fountain of the Strong example sett](/setts/s11/r6k3g3k6ra2k2ra2k6g3r14rb2~g184800-k000000-rc06430-ra880000-rbb82c28~x2/sett.png)|

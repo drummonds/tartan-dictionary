@@ -16,5 +16,5 @@ BRBBRBGRWRWB
 
 | Tartans |
 |---------------|
-| [Lashbrooke of Barrowfield (Personal)](/setts/s12/b6r4ba24b28ra4b8g12r8w48ra4w4b6-b141e46-ba1870a4-g604000-rb07430-ra880000-wf8f4d0/)|
-|![Lashbrooke of Barrowfield (Personal) example sett](/setts/s12/b6r4ba24b28ra4b8g12r8w48ra4w4b6-b141e46-ba1870a4-g604000-rb07430-ra880000-wf8f4d0/sett.png)|
+| [Lashbrooke of Barrowfield (Personal)](/setts/s12/b3r2ba12b14ra2b4g6r4w24ra2w2b3~b141e46-ba1870a4-g604000-rb07430-ra880000-wf8f4d0~x2/)|
+|![Lashbrooke of Barrowfield (Personal) example sett](/setts/s12/b3r2ba12b14ra2b4g6r4w24ra2w2b3~b141e46-ba1870a4-g604000-rb07430-ra880000-wf8f4d0~x2/sett.png)|

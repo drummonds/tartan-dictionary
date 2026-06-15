@@ -16,5 +16,5 @@ GWKWKWKWRKRWRKRWKWKWKW
 
 | Tartans |
 |---------------|
-| [Waverley Check](/setts/s22/g88w8k12w4k4w4k4w28r20k4r8w4r8k4r20w28k4w4k4w4k12w8-g8c640c-k101010-ra07c58-wf8f4d0/)|
-|![Waverley Check example sett](/setts/s22/g88w8k12w4k4w4k4w28r20k4r8w4r8k4r20w28k4w4k4w4k12w8-g8c640c-k101010-ra07c58-wf8f4d0/sett.png)|
+| [Waverley Check](/setts/s22/g22w2k3w1k1w1k1w7r5k1r2w1r2k1r5w7k1w1k1w1k3w2~g8c640c-k101010-ra07c58-wf8f4d0~x4/)|
+|![Waverley Check example sett](/setts/s22/g22w2k3w1k1w1k1w7r5k1r2w1r2k1r5w7k1w1k1w1k3w2~g8c640c-k101010-ra07c58-wf8f4d0~x4/sett.png)|

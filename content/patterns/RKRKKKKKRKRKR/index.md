@@ -16,5 +16,5 @@ RKRKKKKKRKRKR
 
 | Tartans |
 |---------------|
-| [Red, White, Blue Watch (Dance)](/setts/s13/r24k4r4k4r4k20k24k6k24k20r24k4r4-k000000-r8c0000/)|
-|![Red, White, Blue Watch (Dance) example sett](/setts/s13/r24k4r4k4r4k20k24k6k24k20r24k4r4-k000000-r8c0000/sett.png)|
+| [Red, White, Blue Watch (Dance)](/setts/s13/r12k2r2k2r2k10k12k3k12k10r12k2r2~k000000-r8c0000~x2/)|
+|![Red, White, Blue Watch (Dance) example sett](/setts/s13/r12k2r2k2r2k10k12k3k12k10r12k2r2~k000000-r8c0000~x2/sett.png)|

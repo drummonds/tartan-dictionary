@@ -16,5 +16,5 @@ BKGKRGRBRGKWK
 
 | Tartans |
 |---------------|
-| [Clifford](/setts/s13/b20k6g6k16r18g6r20ba6r56g6k6w6k6-b102040-ba8080d0-g008000-k000000-r802040-we0e0e0/)|
-|![Clifford example sett](/setts/s13/b20k6g6k16r18g6r20ba6r56g6k6w6k6-b102040-ba8080d0-g008000-k000000-r802040-we0e0e0/sett.png)|
+| [Clifford](/setts/s13/b10k3g3k8r9g3r10ba3r28g3k3w3k3~b102040-ba8080d0-g008000-k000000-r802040-we0e0e0~x2/)|
+|![Clifford example sett](/setts/s13/b10k3g3k8r9g3r10ba3r28g3k3w3k3~b102040-ba8080d0-g008000-k000000-r802040-we0e0e0~x2/sett.png)|

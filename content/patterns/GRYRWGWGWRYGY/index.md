@@ -16,5 +16,5 @@ GRYRWGWGWRYGY
 
 | Tartans |
 |---------------|
-| [St. John New Brunswick (District)](/setts/s13/g2r4y24r30w30g6w2g6w30r30y6ga24y2-g006818-ga604000-rc80000-we0e0e0-y48a4c0/)|
-|![St. John New Brunswick (District) example sett](/setts/s13/g2r4y24r30w30g6w2g6w30r30y6ga24y2-g006818-ga604000-rc80000-we0e0e0-y48a4c0/sett.png)|
+| [St. John New Brunswick (District)](/setts/s13/g1r2y12r15w15g3w1g3w15r15y3ga12y1~g006818-ga604000-rc80000-we0e0e0-y48a4c0~x2/)|
+|![St. John New Brunswick (District) example sett](/setts/s13/g1r2y12r15w15g3w1g3w15r15y3ga12y1~g006818-ga604000-rc80000-we0e0e0-y48a4c0~x2/sett.png)|

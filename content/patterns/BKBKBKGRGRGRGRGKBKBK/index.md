@@ -16,5 +16,5 @@ BKBKBKGRGRGRGRGKBKBK
 
 | Tartans |
 |---------------|
-| [Scottish Tourist Board (1981)](/setts/s20/b60k4b4k4b4k64g30r4g8r8g60r8g8r4g30k64b4k4b4k4-b2c2c80-g006818-k101010-rc80000/)|
-|![Scottish Tourist Board (1981) example sett](/setts/s20/b60k4b4k4b4k64g30r4g8r8g60r8g8r4g30k64b4k4b4k4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Scottish Tourist Board (1981)](/setts/s20/b30k2b2k2b2k32g15r2g4r4g30r4g4r2g15k32b2k2b2k2~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Scottish Tourist Board (1981) example sett](/setts/s20/b30k2b2k2b2k32g15r2g4r4g30r4g4r2g15k32b2k2b2k2~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

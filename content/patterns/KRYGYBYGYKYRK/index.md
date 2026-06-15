@@ -16,5 +16,5 @@ KRYGYBYGYKYRK
 
 | Tartans |
 |---------------|
-| [Neumann - German Pipe Smokers (Corp)](/setts/s13/k4r6y2g4y2b32y2ga64y2k4y2r2k2-b003c64-g604000-ga006818-k101010-rc8002c-ye8c000/)|
-|![Neumann - German Pipe Smokers (Corp) example sett](/setts/s13/k4r6y2g4y2b32y2ga64y2k4y2r2k2-b003c64-g604000-ga006818-k101010-rc8002c-ye8c000/sett.png)|
+| [Neumann - German Pipe Smokers (Corp)](/setts/s13/k2r3y1g2y1b16y1ga32y1k2y1r1k1~b003c64-g604000-ga006818-k101010-rc8002c-ye8c000~x2/)|
+|![Neumann - German Pipe Smokers (Corp) example sett](/setts/s13/k2r3y1g2y1b16y1ga32y1k2y1r1k1~b003c64-g604000-ga006818-k101010-rc8002c-ye8c000~x2/sett.png)|

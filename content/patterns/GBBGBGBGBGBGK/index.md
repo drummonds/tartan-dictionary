@@ -16,5 +16,5 @@ GBBGBGBGBGBGK
 
 | Tartans |
 |---------------|
-| [Glen Affric (Artefact)](/setts/s13/g8b4ba56g8b20g8b28g8b28g8b40g8k8-b5c5c5c-ba4c0000-g006818-k101010/)|
-|![Glen Affric (Artefact) example sett](/setts/s13/g8b4ba56g8b20g8b28g8b28g8b40g8k8-b5c5c5c-ba4c0000-g006818-k101010/sett.png)|
+| [Glen Affric (Artefact)](/setts/s13/g2b1ba14g2b5g2b7g2b7g2b10g2k2~b5c5c5c-ba4c0000-g006818-k101010~x4/)|
+|![Glen Affric (Artefact) example sett](/setts/s13/g2b1ba14g2b5g2b7g2b7g2b10g2k2~b5c5c5c-ba4c0000-g006818-k101010~x4/sett.png)|

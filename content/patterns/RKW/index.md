@@ -6,7 +6,7 @@ RKW
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/r52k4w52-k000000-rc80000-wc8c8c8/tartan.png)
+![Woven sample](/setts/s3/r13k1w13~k000000-rc80000-wc8c8c8~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RKW
 
 | Tartans |
 |---------------|
-| [Hose (Dunmore)](/setts/s3/r52k4w52-k000000-rc80000-wc8c8c8/)|
-|![Hose (Dunmore) example sett](/setts/s3/r52k4w52-k000000-rc80000-wc8c8c8/sett.png)|
-| [Hose](/setts/s3/w74k4r72-k000000-rc00000-we0e0e0/)|
-|![Hose example sett](/setts/s3/w74k4r72-k000000-rc00000-we0e0e0/sett.png)|
+| [Hose (Dunmore)](/setts/s3/r13k1w13~k000000-rc80000-wc8c8c8~x4/)|
+|![Hose (Dunmore) example sett](/setts/s3/r13k1w13~k000000-rc80000-wc8c8c8~x4/sett.png)|
+| [Hose](/setts/s3/w37k2r36~k000000-rc00000-we0e0e0~x2/)|
+|![Hose example sett](/setts/s3/w37k2r36~k000000-rc00000-we0e0e0~x2/sett.png)|

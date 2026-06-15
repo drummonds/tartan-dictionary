@@ -6,7 +6,7 @@ KKRKKGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k24ka24r8ka24k24g24y8-g30a010-k000000-ka000030-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s7/k3ka3r1ka3k3g3y1~g30a010-k000000-ka000030-rc00000-yf0c000~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KKRKKGY
 
 | Tartans |
 |---------------|
-| [Montrose of Alabama](/setts/s7/k24ka24r8ka24k24g24y8-g30a010-k000000-ka000030-rc00000-yf0c000/)|
-|![Montrose of Alabama example sett](/setts/s7/k24ka24r8ka24k24g24y8-g30a010-k000000-ka000030-rc00000-yf0c000/sett.png)|
+| [Montrose of Alabama](/setts/s7/k3ka3r1ka3k3g3y1~g30a010-k000000-ka000030-rc00000-yf0c000~x8/)|
+|![Montrose of Alabama example sett](/setts/s7/k3ka3r1ka3k3g3y1~g30a010-k000000-ka000030-rc00000-yf0c000~x8/sett.png)|

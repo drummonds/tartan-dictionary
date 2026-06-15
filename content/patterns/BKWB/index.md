@@ -6,7 +6,7 @@ BKWB
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b124w22k8ba34-b3f4441-ba50818e-k120a01-wf7f1e8/tartan.png)
+![Woven sample](/setts/s4/b62w11k4ba17~b3f4441-ba50818e-k120a01-wf7f1e8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWB
 
 | Tartans |
 |---------------|
-| [Thunderlord (Celtic Group, USA)](/setts/s4/b124w22k8ba34-b3f4441-ba50818e-k120a01-wf7f1e8/)|
-|![Thunderlord (Celtic Group, USA) example sett](/setts/s4/b124w22k8ba34-b3f4441-ba50818e-k120a01-wf7f1e8/sett.png)|
+| [Thunderlord (Celtic Group, USA)](/setts/s4/b62w11k4ba17~b3f4441-ba50818e-k120a01-wf7f1e8~x2/)|
+|![Thunderlord (Celtic Group, USA) example sett](/setts/s4/b62w11k4ba17~b3f4441-ba50818e-k120a01-wf7f1e8~x2/sett.png)|

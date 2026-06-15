@@ -6,7 +6,7 @@ BWKWRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/tartan.png)
+![Woven sample](/setts/s6/k43r10w3k3w15b3~b202060-k101010-r880000-wf8e8d8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKWRK
 
 | Tartans |
 |---------------|
-| [Bro-Wened](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/)|
-|![Bro-Wened example sett](/setts/s6/k86r20w6k6w30b6-b202060-k101010-r880000-wf8e8d8/sett.png)|
+| [Bro-Wened](/setts/s6/k43r10w3k3w15b3~b202060-k101010-r880000-wf8e8d8~x2/)|
+|![Bro-Wened example sett](/setts/s6/k43r10w3k3w15b3~b202060-k101010-r880000-wf8e8d8~x2/sett.png)|

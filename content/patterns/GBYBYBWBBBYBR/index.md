@@ -16,5 +16,5 @@ GBYBYBWBBBYBR
 
 | Tartans |
 |---------------|
-| [Registers of Scotland, The (Corp)](/setts/s13/g4b2y2b6ya4ba4w2ba2b10ba4yb2ba84r4-b54585c-ba2c2c44-g888c48-r983020-wa8ace8-ybcc090-yac0a494-yba8a098/)|
-|![Registers of Scotland, The (Corp) example sett](/setts/s13/g4b2y2b6ya4ba4w2ba2b10ba4yb2ba84r4-b54585c-ba2c2c44-g888c48-r983020-wa8ace8-ybcc090-yac0a494-yba8a098/sett.png)|
+| [Registers of Scotland, The (Corp)](/setts/s13/g2b1y1b3ya2ba2w1ba1b5ba2yb1ba42r2~b54585c-ba2c2c44-g888c48-r983020-wa8ace8-ybcc090-yac0a494-yba8a098~x2/)|
+|![Registers of Scotland, The (Corp) example sett](/setts/s13/g2b1y1b3ya2ba2w1ba1b5ba2yb1ba42r2~b54585c-ba2c2c44-g888c48-r983020-wa8ace8-ybcc090-yac0a494-yba8a098~x2/sett.png)|

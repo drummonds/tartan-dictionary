@@ -16,5 +16,5 @@ BRKYKRKYKRBRK
 
 | Tartans |
 |---------------|
-| [Leslie (J Cant)](/setts/s13/b100r4k6y4k6r4k6y4k6r4b6r24k4-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Leslie (J Cant) example sett](/setts/s13/b100r4k6y4k6r4k6y4k6r4b6r24k4-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Leslie (J Cant)](/setts/s13/b50r2k3y2k3r2k3y2k3r2b3r12k2~b2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![Leslie (J Cant) example sett](/setts/s13/b50r2k3y2k3r2k3y2k3r2b3r12k2~b2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

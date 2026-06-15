@@ -6,7 +6,7 @@ RKBKGYKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4k8b46k28g32y2k8y4-b14283c-g285800-k101010-rdc0000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r2k4b23k14g16y1k4y2~b14283c-g285800-k101010-rdc0000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RKBKGYKY
 
 | Tartans |
 |---------------|
-| [Thomas, baron of Craigie, Robert (Personal)](/setts/s8/r4k8b46k28g32y2k8y4-b14283c-g285800-k101010-rdc0000-ye8c000/)|
-|![Thomas, baron of Craigie, Robert (Personal) example sett](/setts/s8/r4k8b46k28g32y2k8y4-b14283c-g285800-k101010-rdc0000-ye8c000/sett.png)|
-| [Thomas of Craigie (Personal)](/setts/s8/y4k8y2g32k28b46k8r2-b202060-g285800-k101010-rc80000-ye8c000/)|
-|![Thomas of Craigie (Personal) example sett](/setts/s8/y4k8y2g32k28b46k8r2-b202060-g285800-k101010-rc80000-ye8c000/sett.png)|
+| [Thomas, baron of Craigie, Robert (Personal)](/setts/s8/r2k4b23k14g16y1k4y2~b14283c-g285800-k101010-rdc0000-ye8c000~x2/)|
+|![Thomas, baron of Craigie, Robert (Personal) example sett](/setts/s8/r2k4b23k14g16y1k4y2~b14283c-g285800-k101010-rdc0000-ye8c000~x2/sett.png)|
+| [Thomas of Craigie (Personal)](/setts/s8/y2k4y1g16k14b23k4r1~b202060-g285800-k101010-rc80000-ye8c000~x2/)|
+|![Thomas of Craigie (Personal) example sett](/setts/s8/y2k4y1g16k14b23k4r1~b202060-g285800-k101010-rc80000-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ GRGRBRWKWRBRGRGW
 
 | Tartans |
 |---------------|
-| [Oliver Dress (Dance)](/setts/s16/g4r4g4r4b28r24w28k4w28r24b28r4g4r4g4w4-b1c0070-g006818-k101010-r880000-wf8f8f8/)|
-|![Oliver Dress (Dance) example sett](/setts/s16/g4r4g4r4b28r24w28k4w28r24b28r4g4r4g4w4-b1c0070-g006818-k101010-r880000-wf8f8f8/sett.png)|
+| [Oliver Dress (Dance)](/setts/s16/g1r1g1r1b7r6w7k1w7r6b7r1g1r1g1w1~b1c0070-g006818-k101010-r880000-wf8f8f8~x4/)|
+|![Oliver Dress (Dance) example sett](/setts/s16/g1r1g1r1b7r6w7k1w7r6b7r1g1r1g1w1~b1c0070-g006818-k101010-r880000-wf8f8f8~x4/sett.png)|

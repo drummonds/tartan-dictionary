@@ -6,7 +6,7 @@ GRWRGYBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g124r10w2r8ga10y8b8w4-b1c1c1c-g003c14-ga649848-rc80000-wf8f8f8-ye0a126/tartan.png)
+![Woven sample](/setts/s8/g62r5w1r4ga5y4b4w2~b1c1c1c-g003c14-ga649848-rc80000-wf8f8f8-ye0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWRGYBW
 
 | Tartans |
 |---------------|
-| [Greeven, Wolfgang H (Personal)](/setts/s8/g124r10w2r8ga10y8b8w4-b1c1c1c-g003c14-ga649848-rc80000-wf8f8f8-ye0a126/)|
-|![Greeven, Wolfgang H (Personal) example sett](/setts/s8/g124r10w2r8ga10y8b8w4-b1c1c1c-g003c14-ga649848-rc80000-wf8f8f8-ye0a126/sett.png)|
+| [Greeven, Wolfgang H (Personal)](/setts/s8/g62r5w1r4ga5y4b4w2~b1c1c1c-g003c14-ga649848-rc80000-wf8f8f8-ye0a126~x2/)|
+|![Greeven, Wolfgang H (Personal) example sett](/setts/s8/g62r5w1r4ga5y4b4w2~b1c1c1c-g003c14-ga649848-rc80000-wf8f8f8-ye0a126~x2/sett.png)|

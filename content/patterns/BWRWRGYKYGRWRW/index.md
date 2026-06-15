@@ -16,5 +16,5 @@ BWRWRGYKYGRWRW
 
 | Tartans |
 |---------------|
-| [Wilson's No.083](/setts/s14/b28w4r6w4r30g36y6k28y6g36r30w4r6w4-b780078-g408060-k101010-rc80000-wf8f8f8-yd8b000/)|
-|![Wilson's No.083 example sett](/setts/s14/b28w4r6w4r30g36y6k28y6g36r30w4r6w4-b780078-g408060-k101010-rc80000-wf8f8f8-yd8b000/sett.png)|
+| [Wilson's No.083](/setts/s14/b14w2r3w2r15g18y3k14y3g18r15w2r3w2~b780078-g408060-k101010-rc80000-wf8f8f8-yd8b000~x2/)|
+|![Wilson's No.083 example sett](/setts/s14/b14w2r3w2r15g18y3k14y3g18r15w2r3w2~b780078-g408060-k101010-rc80000-wf8f8f8-yd8b000~x2/sett.png)|

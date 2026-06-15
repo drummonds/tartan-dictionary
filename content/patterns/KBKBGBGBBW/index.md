@@ -16,5 +16,5 @@ KBKBGBGBBW
 
 | Tartans |
 |---------------|
-| [Dugan (Personal)](/setts/s10/k20b8k68ba6g6ba6g6ba52bb4w6-b506878-ba1c1c50-bb84407c-g006818-k101010-wccd8e4/)|
-|![Dugan (Personal) example sett](/setts/s10/k20b8k68ba6g6ba6g6ba52bb4w6-b506878-ba1c1c50-bb84407c-g006818-k101010-wccd8e4/sett.png)|
+| [Dugan (Personal)](/setts/s10/k10b4k34ba3g3ba3g3ba26bb2w3~b506878-ba1c1c50-bb84407c-g006818-k101010-wccd8e4~x2/)|
+|![Dugan (Personal) example sett](/setts/s10/k10b4k34ba3g3ba3g3ba26bb2w3~b506878-ba1c1c50-bb84407c-g006818-k101010-wccd8e4~x2/sett.png)|

@@ -16,5 +16,5 @@ BYBGBGGRG
 
 | Tartans |
 |---------------|
-| [Scottish Crofting Foundation](/setts/s9/b12y6b36g4b4g20ga56r4ga8-b441800-g604000-ga5c6428-r880000-ya0b8a4/)|
-|![Scottish Crofting Foundation example sett](/setts/s9/b12y6b36g4b4g20ga56r4ga8-b441800-g604000-ga5c6428-r880000-ya0b8a4/sett.png)|
+| [Scottish Crofting Foundation](/setts/s9/b6y3b18g2b2g10ga28r2ga4~b441800-g604000-ga5c6428-r880000-ya0b8a4~x2/)|
+|![Scottish Crofting Foundation example sett](/setts/s9/b6y3b18g2b2g10ga28r2ga4~b441800-g604000-ga5c6428-r880000-ya0b8a4~x2/sett.png)|

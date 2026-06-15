@@ -16,5 +16,5 @@ GRGKWGYKWKGRW
 
 | Tartans |
 |---------------|
-| [Campagna Center (Corporate)](/setts/s13/g4r72g22k10w2g2y2k2w2k2g32r10w2-g007460-k101010-rf80000-we0e0e0-ye8c000/)|
-|![Campagna Center (Corporate) example sett](/setts/s13/g4r72g22k10w2g2y2k2w2k2g32r10w2-g007460-k101010-rf80000-we0e0e0-ye8c000/sett.png)|
+| [Campagna Center (Corporate)](/setts/s13/g2r36g11k5w1g1y1k1w1k1g16r5w1~g007460-k101010-rf80000-we0e0e0-ye8c000~x2/)|
+|![Campagna Center (Corporate) example sett](/setts/s13/g2r36g11k5w1g1y1k1w1k1g16r5w1~g007460-k101010-rf80000-we0e0e0-ye8c000~x2/sett.png)|

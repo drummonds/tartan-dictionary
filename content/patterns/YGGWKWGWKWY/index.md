@@ -16,5 +16,5 @@ YGGWKWGWKWY
 
 | Tartans |
 |---------------|
-| [Tiree](/setts/s11/y4g24ga8w4k32w4ga8w36k4w16ya4-g60949c-ga006818-k101010-wf8f4d0-ya08858-yac4bc68/)|
-|![Tiree example sett](/setts/s11/y4g24ga8w4k32w4ga8w36k4w16ya4-g60949c-ga006818-k101010-wf8f4d0-ya08858-yac4bc68/sett.png)|
+| [Tiree](/setts/s11/y1g6ga2w1k8w1ga2w9k1w4ya1~g60949c-ga006818-k101010-wf8f4d0-ya08858-yac4bc68~x4/)|
+|![Tiree example sett](/setts/s11/y1g6ga2w1k8w1ga2w9k1w4ya1~g60949c-ga006818-k101010-wf8f4d0-ya08858-yac4bc68~x4/sett.png)|

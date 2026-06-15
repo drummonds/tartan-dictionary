@@ -16,5 +16,5 @@ KRKWKWKRKY
 
 | Tartans |
 |---------------|
-| [Ambassador](/setts/s10/k170r12k2w6k6w6k2r12k12y2-k101010-rc80000-wffffff-ye0a126/)|
-|![Ambassador example sett](/setts/s10/k170r12k2w6k6w6k2r12k12y2-k101010-rc80000-wffffff-ye0a126/sett.png)|
+| [Ambassador](/setts/s10/k85r6k1w3k3w3k1r6k6y1~k101010-rc80000-wffffff-ye0a126~x2/)|
+|![Ambassador example sett](/setts/s10/k85r6k1w3k3w3k1r6k6y1~k101010-rc80000-wffffff-ye0a126~x2/sett.png)|

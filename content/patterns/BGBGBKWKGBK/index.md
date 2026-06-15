@@ -16,5 +16,5 @@ BGBGBKWKGBK
 
 | Tartans |
 |---------------|
-| [Episcopal Clergy](/setts/s11/b4g16b4g8b4k32w4k32g28b4k4-b64003c-g003014-k000000-wc8c8c8/)|
-|![Episcopal Clergy example sett](/setts/s11/b4g16b4g8b4k32w4k32g28b4k4-b64003c-g003014-k000000-wc8c8c8/sett.png)|
+| [Episcopal Clergy](/setts/s11/b1g4b1g2b1k8w1k8g7b1k1~b64003c-g003014-k000000-wc8c8c8~x4/)|
+|![Episcopal Clergy example sett](/setts/s11/b1g4b1g2b1k8w1k8g7b1k1~b64003c-g003014-k000000-wc8c8c8~x4/sett.png)|

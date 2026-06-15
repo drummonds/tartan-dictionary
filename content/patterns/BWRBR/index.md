@@ -6,7 +6,7 @@ BWRBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b30w4r40b4r8-b2c2c80-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b15w2r20b2r4~b2c2c80-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWRBR
 
 | Tartans |
 |---------------|
-| [Masai Shuka 25 (Artefact)](/setts/s5/b30w4r40b4r8-b2c2c80-rc80000-we0e0e0/)|
-|![Masai Shuka 25 (Artefact) example sett](/setts/s5/b30w4r40b4r8-b2c2c80-rc80000-we0e0e0/sett.png)|
+| [Masai Shuka 25 (Artefact)](/setts/s5/b15w2r20b2r4~b2c2c80-rc80000-we0e0e0~x2/)|
+|![Masai Shuka 25 (Artefact) example sett](/setts/s5/b15w2r20b2r4~b2c2c80-rc80000-we0e0e0~x2/sett.png)|

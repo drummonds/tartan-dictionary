@@ -16,5 +16,5 @@ BYBYBYBBBBBBBBYR
 
 | Tartans |
 |---------------|
-| [Perry Golf](/setts/s16/b8y8ba14y8b6y44bb16b16bb16b16bb16b16bb16b16y68r8-b4c5068-ba003c64-bb2c2c80-rc80000-ybca878/)|
-|![Perry Golf example sett](/setts/s16/b8y8ba14y8b6y44bb16b16bb16b16bb16b16bb16b16y68r8-b4c5068-ba003c64-bb2c2c80-rc80000-ybca878/sett.png)|
+| [Perry Golf](/setts/s16/b4y4ba7y4b3y22bb8b8bb8b8bb8b8bb8b8y34r4~b4c5068-ba003c64-bb2c2c80-rc80000-ybca878~x2/)|
+|![Perry Golf example sett](/setts/s16/b4y4ba7y4b3y22bb8b8bb8b8bb8b8bb8b8y34r4~b4c5068-ba003c64-bb2c2c80-rc80000-ybca878~x2/sett.png)|

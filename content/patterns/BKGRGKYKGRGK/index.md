@@ -16,5 +16,5 @@ BKGRGKYKGRGK
 
 | Tartans |
 |---------------|
-| [Wilson's No.232](/setts/s12/b36k14g10r8g14k2y4k2g14r8g10k14-b1860a8-g006818-k101010-rc80000-ye8c000/)|
-|![Wilson's No.232 example sett](/setts/s12/b36k14g10r8g14k2y4k2g14r8g10k14-b1860a8-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Wilson's No.232](/setts/s12/b18k7g5r4g7k1y2k1g7r4g5k7~b1860a8-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Wilson's No.232 example sett](/setts/s12/b18k7g5r4g7k1y2k1g7r4g5k7~b1860a8-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

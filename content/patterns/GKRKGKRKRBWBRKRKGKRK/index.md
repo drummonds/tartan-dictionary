@@ -16,5 +16,5 @@ GKRKGKRKRBWBRKRKGKRK
 
 | Tartans |
 |---------------|
-| [Storrie](/setts/s20/g40k2r2k2g40k20r4k4ra4b40w2b40ra4k4r4k20g40k2r2k2-b2c2c80-g006818-k101010-r888888-rac8002c-wfcfcfc/)|
-|![Storrie example sett](/setts/s20/g40k2r2k2g40k20r4k4ra4b40w2b40ra4k4r4k20g40k2r2k2-b2c2c80-g006818-k101010-r888888-rac8002c-wfcfcfc/sett.png)|
+| [Storrie](/setts/s20/g20k1r1k1g20k10r2k2ra2b20w1b20ra2k2r2k10g20k1r1k1~b2c2c80-g006818-k101010-r888888-rac8002c-wfcfcfc~x2/)|
+|![Storrie example sett](/setts/s20/g20k1r1k1g20k10r2k2ra2b20w1b20ra2k2r2k10g20k1r1k1~b2c2c80-g006818-k101010-r888888-rac8002c-wfcfcfc~x2/sett.png)|

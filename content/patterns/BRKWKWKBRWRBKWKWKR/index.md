@@ -16,5 +16,5 @@ BRKWKWKBRWRBKWKWKR
 
 | Tartans |
 |---------------|
-| [Scottish Knights Templar Militi Templi Scotia](/setts/s18/b4r4k4w6k8w10k12b40r4w8r4b40k12w10k8w6k4r4-b2c2c80-k101010-rc80000-wc0c0c0/)|
-|![Scottish Knights Templar Militi Templi Scotia example sett](/setts/s18/b4r4k4w6k8w10k12b40r4w8r4b40k12w10k8w6k4r4-b2c2c80-k101010-rc80000-wc0c0c0/sett.png)|
+| [Scottish Knights Templar Militi Templi Scotia](/setts/s18/b2r2k2w3k4w5k6b20r2w4r2b20k6w5k4w3k2r2~b2c2c80-k101010-rc80000-wc0c0c0~x2/)|
+|![Scottish Knights Templar Militi Templi Scotia example sett](/setts/s18/b2r2k2w3k4w5k6b20r2w4r2b20k6w5k4w3k2r2~b2c2c80-k101010-rc80000-wc0c0c0~x2/sett.png)|

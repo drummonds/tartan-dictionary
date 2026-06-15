@@ -16,5 +16,5 @@ RGWBRBYBRW
 
 | Tartans |
 |---------------|
-| [State Seal of Texas (Fashion)](/setts/s10/r10g50w6b10ra30b10y6b88ra2w8-b1474b4-g289c18-r880000-ra888888-we8ccb8-ybc8c00/)|
-|![State Seal of Texas (Fashion) example sett](/setts/s10/r10g50w6b10ra30b10y6b88ra2w8-b1474b4-g289c18-r880000-ra888888-we8ccb8-ybc8c00/sett.png)|
+| [State Seal of Texas (Fashion)](/setts/s10/r5g25w3b5ra15b5y3b44ra1w4~b1474b4-g289c18-r880000-ra888888-we8ccb8-ybc8c00~x2/)|
+|![State Seal of Texas (Fashion) example sett](/setts/s10/r5g25w3b5ra15b5y3b44ra1w4~b1474b4-g289c18-r880000-ra888888-we8ccb8-ybc8c00~x2/sett.png)|

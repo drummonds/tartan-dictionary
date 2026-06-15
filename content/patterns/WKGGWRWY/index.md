@@ -6,7 +6,7 @@ WKGGWRWY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w4k2g12ga22w52r4w2y4-g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/w2k1g6ga11w26r2w1y2~g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKGGWRWY
 
 | Tartans |
 |---------------|
-| [Saskatchewan Dress (Dance)](/setts/s8/w4k2g12ga22w52r4w2y4-g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Saskatchewan Dress (Dance) example sett](/setts/s8/w4k2g12ga22w52r4w2y4-g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Saskatchewan Dress (Dance)](/setts/s8/w2k1g6ga11w26r2w1y2~g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Saskatchewan Dress (Dance) example sett](/setts/s8/w2k1g6ga11w26r2w1y2~g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

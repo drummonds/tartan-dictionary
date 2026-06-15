@@ -16,5 +16,5 @@ BRWYBWYRKG
 
 | Tartans |
 |---------------|
-| [McMuldroch (2014)](/setts/s10/g38k36r36y4w4b4y4w4r16b6-b780078-g006818-k101010-ra00000-wfcfcfc-yfccc00/)|
-|![McMuldroch (2014) example sett](/setts/s10/g38k36r36y4w4b4y4w4r16b6-b780078-g006818-k101010-ra00000-wfcfcfc-yfccc00/sett.png)|
+| [McMuldroch (2014)](/setts/s10/g19k18r18y2w2b2y2w2r8b3~b780078-g006818-k101010-ra00000-wfcfcfc-yfccc00~x2/)|
+|![McMuldroch (2014) example sett](/setts/s10/g19k18r18y2w2b2y2w2r8b3~b780078-g006818-k101010-ra00000-wfcfcfc-yfccc00~x2/sett.png)|

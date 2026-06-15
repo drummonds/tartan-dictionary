@@ -16,7 +16,7 @@ BBRRGRGRBBRRRBGRGRBRBRRB
 
 | Tartans |
 |---------------|
-| [MacDougall of MacDougall](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b3c82af-ba5a008c-bb2c4084-g005020-rc82828-radc0000/)|
-|![MacDougall of MacDougall example sett](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b3c82af-ba5a008c-bb2c4084-g005020-rc82828-radc0000/sett.png)|
-| [MacDougall, of MacDougall](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b5480b0-ba800080-bb304080-g008000-rd03030-rac00000/)|
-|![MacDougall, of MacDougall example sett](/setts/s24/b4ba20r6ra8g144ra14g8ra20bb48ba12r10ra8r10ba14g48ra48g48ra6bb6ra148ba14r10ra12b4-b5480b0-ba800080-bb304080-g008000-rd03030-rac00000/sett.png)|
+| [MacDougall of MacDougall](/setts/s24/b2ba10r3ra4g72ra7g4ra10bb24ba6r5ra4r5ba7g24ra24g24ra3bb3ra74ba7r5ra6b2~b3c82af-ba5a008c-bb2c4084-g005020-rc82828-radc0000~x2/)|
+|![MacDougall of MacDougall example sett](/setts/s24/b2ba10r3ra4g72ra7g4ra10bb24ba6r5ra4r5ba7g24ra24g24ra3bb3ra74ba7r5ra6b2~b3c82af-ba5a008c-bb2c4084-g005020-rc82828-radc0000~x2/sett.png)|
+| [MacDougall, of MacDougall](/setts/s24/b2ba10r3ra4g72ra7g4ra10bb24ba6r5ra4r5ba7g24ra24g24ra3bb3ra74ba7r5ra6b2~b5480b0-ba800080-bb304080-g008000-rd03030-rac00000~x2/)|
+|![MacDougall, of MacDougall example sett](/setts/s24/b2ba10r3ra4g72ra7g4ra10bb24ba6r5ra4r5ba7g24ra24g24ra3bb3ra74ba7r5ra6b2~b5480b0-ba800080-bb304080-g008000-rd03030-rac00000~x2/sett.png)|

@@ -16,7 +16,7 @@ GRGYGYWGWG
 
 | Tartans |
 |---------------|
-| [Michigan, State of](/setts/s10/g36w2g8w2y8ga2y4ga24r4ga8-g408060-ga2f4f2f-r8c1717-wffffff-ydeb887/)|
-|![Michigan, State of example sett](/setts/s10/g36w2g8w2y8ga2y4ga24r4ga8-g408060-ga2f4f2f-r8c1717-wffffff-ydeb887/sett.png)|
-| [Michigan, State of (District)](/setts/s10/g36w2g8w2y8ga2y4ga24r4ga8-g509884-ga006818-r940000-wfcfcfc-yc8904c/)|
-|![Michigan, State of (District) example sett](/setts/s10/g36w2g8w2y8ga2y4ga24r4ga8-g509884-ga006818-r940000-wfcfcfc-yc8904c/sett.png)|
+| [Michigan, State of](/setts/s10/g18w1g4w1y4ga1y2ga12r2ga4~g408060-ga2f4f2f-r8c1717-wffffff-ydeb887~x2/)|
+|![Michigan, State of example sett](/setts/s10/g18w1g4w1y4ga1y2ga12r2ga4~g408060-ga2f4f2f-r8c1717-wffffff-ydeb887~x2/sett.png)|
+| [Michigan, State of (District)](/setts/s10/g18w1g4w1y4ga1y2ga12r2ga4~g509884-ga006818-r940000-wfcfcfc-yc8904c~x2/)|
+|![Michigan, State of (District) example sett](/setts/s10/g18w1g4w1y4ga1y2ga12r2ga4~g509884-ga006818-r940000-wfcfcfc-yc8904c~x2/sett.png)|

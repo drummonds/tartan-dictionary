@@ -16,5 +16,5 @@ BKBKBKGBGBGKBKB
 
 | Tartans |
 |---------------|
-| [Blanton (Name)](/setts/s15/b24k4b4k4b4k20g10ba6g4ba6g10k20b22k4b4-b1474b4-ba780078-g006818-k101010/)|
-|![Blanton (Name) example sett](/setts/s15/b24k4b4k4b4k20g10ba6g4ba6g10k20b22k4b4-b1474b4-ba780078-g006818-k101010/sett.png)|
+| [Blanton (Name)](/setts/s15/b12k2b2k2b2k10g5ba3g2ba3g5k10b11k2b2~b1474b4-ba780078-g006818-k101010~x2/)|
+|![Blanton (Name) example sett](/setts/s15/b12k2b2k2b2k10g5ba3g2ba3g5k10b11k2b2~b1474b4-ba780078-g006818-k101010~x2/sett.png)|

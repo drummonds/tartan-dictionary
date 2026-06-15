@@ -16,5 +16,5 @@ GRGRBRGRBRGRGRGRGRBRGRBRGR
 
 | Tartans |
 |---------------|
-| [Stewart of Killiecrankie](/setts/s26/g12r4g4r36b18r6g6r6b18r6g48r4g4r8g4r4g48r6b18r6g6r6b18r36g4r4-b440044-g006818-rc80000/)|
-|![Stewart of Killiecrankie example sett](/setts/s26/g12r4g4r36b18r6g6r6b18r6g48r4g4r8g4r4g48r6b18r6g6r6b18r36g4r4-b440044-g006818-rc80000/sett.png)|
+| [Stewart of Killiecrankie](/setts/s26/g6r2g2r18b9r3g3r3b9r3g24r2g2r4g2r2g24r3b9r3g3r3b9r18g2r2~b440044-g006818-rc80000~x2/)|
+|![Stewart of Killiecrankie example sett](/setts/s26/g6r2g2r18b9r3g3r3b9r3g24r2g2r4g2r2g24r3b9r3g3r3b9r18g2r2~b440044-g006818-rc80000~x2/sett.png)|

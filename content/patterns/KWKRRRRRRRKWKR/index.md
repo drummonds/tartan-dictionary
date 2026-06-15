@@ -16,7 +16,7 @@ KWKRRRRRRRKWKR
 
 | Tartans |
 |---------------|
-| [Sydney (Nova Scotia)](/setts/s14/r24k8w4k8r12ra24r4ra24r4ra24r12k8w4k8-k000000-r888888-rac80000-wf8f8f8/)|
-|![Sydney (Nova Scotia) example sett](/setts/s14/r24k8w4k8r12ra24r4ra24r4ra24r12k8w4k8-k000000-r888888-rac80000-wf8f8f8/sett.png)|
-| [Sydney (Nova Scotia) #2](/setts/s14/r32k8w4k8r12ra22r4ra32r4ra22r12k8w4k8-k101010-r888888-rab84c00-we0e0e0/)|
-|![Sydney (Nova Scotia) #2 example sett](/setts/s14/r32k8w4k8r12ra22r4ra32r4ra22r12k8w4k8-k101010-r888888-rab84c00-we0e0e0/sett.png)|
+| [Sydney (Nova Scotia)](/setts/s14/r6k2w1k2r3ra6r1ra6r1ra6r3k2w1k2~k000000-r888888-rac80000-wf8f8f8~x4/)|
+|![Sydney (Nova Scotia) example sett](/setts/s14/r6k2w1k2r3ra6r1ra6r1ra6r3k2w1k2~k000000-r888888-rac80000-wf8f8f8~x4/sett.png)|
+| [Sydney (Nova Scotia) #2](/setts/s14/r16k4w2k4r6ra11r2ra16r2ra11r6k4w2k4~k101010-r888888-rab84c00-we0e0e0~x2/)|
+|![Sydney (Nova Scotia) #2 example sett](/setts/s14/r16k4w2k4r6ra11r2ra16r2ra11r6k4w2k4~k101010-r888888-rab84c00-we0e0e0~x2/sett.png)|

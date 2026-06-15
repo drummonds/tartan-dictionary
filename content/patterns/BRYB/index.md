@@ -6,7 +6,7 @@ BRYB
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b12y56r40b6-b5480b0-r806050-yff8500/tartan.png)
+![Woven sample](/setts/s4/b6y28r20b3~b5480b0-r806050-yff8500~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYB
 
 | Tartans |
 |---------------|
-| [Prince of Orange](/setts/s4/b12y56r40b6-b5480b0-r806050-yff8500/)|
-|![Prince of Orange example sett](/setts/s4/b12y56r40b6-b5480b0-r806050-yff8500/sett.png)|
+| [Prince of Orange](/setts/s4/b6y28r20b3~b5480b0-r806050-yff8500~x2/)|
+|![Prince of Orange example sett](/setts/s4/b6y28r20b3~b5480b0-r806050-yff8500~x2/sett.png)|

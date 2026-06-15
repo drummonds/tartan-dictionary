@@ -6,7 +6,7 @@ WGBYRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4r90y6b16g16w4-b084555-g052f14-r680018-wddd5af-yc58310/tartan.png)
+![Woven sample](/setts/s6/w2r45y3b8g8w2~b084555-g052f14-r680018-wddd5af-yc58310~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGBYRW
 
 | Tartans |
 |---------------|
-| [Glencross (Moniaive) (Personal)](/setts/s6/w4r90y6b16g16w4-b084555-g052f14-r680018-wddd5af-yc58310/)|
-|![Glencross (Moniaive) (Personal) example sett](/setts/s6/w4r90y6b16g16w4-b084555-g052f14-r680018-wddd5af-yc58310/sett.png)|
+| [Glencross (Moniaive) (Personal)](/setts/s6/w2r45y3b8g8w2~b084555-g052f14-r680018-wddd5af-yc58310~x2/)|
+|![Glencross (Moniaive) (Personal) example sett](/setts/s6/w2r45y3b8g8w2~b084555-g052f14-r680018-wddd5af-yc58310~x2/sett.png)|

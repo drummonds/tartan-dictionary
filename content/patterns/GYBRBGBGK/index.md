@@ -16,5 +16,5 @@ GYBRBGBGK
 
 | Tartans |
 |---------------|
-| [Blarney Castle](/setts/s9/g64y12b36r12b36g24b12g12k12-b2c2c80-g00643c-k101010-rdc0000-ye0a126/)|
-|![Blarney Castle example sett](/setts/s9/g64y12b36r12b36g24b12g12k12-b2c2c80-g00643c-k101010-rdc0000-ye0a126/sett.png)|
+| [Blarney Castle](/setts/s9/g16y3b9r3b9g6b3g3k3~b2c2c80-g00643c-k101010-rdc0000-ye0a126~x4/)|
+|![Blarney Castle example sett](/setts/s9/g16y3b9r3b9g6b3g3k3~b2c2c80-g00643c-k101010-rdc0000-ye0a126~x4/sett.png)|

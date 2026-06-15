@@ -6,7 +6,7 @@ GBWBRBGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y6g24b28r8b2w52b4g2-b441800-g604000-ra00000-wf8f4d0-ya08858/tartan.png)
+![Woven sample](/setts/s8/y3g12b14r4b1w26b2g1~b441800-g604000-ra00000-wf8f4d0-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBWBRBGY
 
 | Tartans |
 |---------------|
-| [Turnberry](/setts/s8/y6g24b28r8b2w52b4g2-b441800-g604000-ra00000-wf8f4d0-ya08858/)|
-|![Turnberry example sett](/setts/s8/y6g24b28r8b2w52b4g2-b441800-g604000-ra00000-wf8f4d0-ya08858/sett.png)|
+| [Turnberry](/setts/s8/y3g12b14r4b1w26b2g1~b441800-g604000-ra00000-wf8f4d0-ya08858~x2/)|
+|![Turnberry example sett](/setts/s8/y3g12b14r4b1w26b2g1~b441800-g604000-ra00000-wf8f4d0-ya08858~x2/sett.png)|

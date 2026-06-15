@@ -16,5 +16,5 @@ BGBGRGRGRGBGBY
 
 | Tartans |
 |---------------|
-| [Hyland Day (Personal)](/setts/s14/y6b4g58b12g8r52g4r6g4r52g8b12g58b4-b441800-g604000-rb03000-ydc943c/)|
-|![Hyland Day (Personal) example sett](/setts/s14/y6b4g58b12g8r52g4r6g4r52g8b12g58b4-b441800-g604000-rb03000-ydc943c/sett.png)|
+| [Hyland Day (Personal)](/setts/s14/y3b2g29b6g4r26g2r3g2r26g4b6g29b2~b441800-g604000-rb03000-ydc943c~x2/)|
+|![Hyland Day (Personal) example sett](/setts/s14/y3b2g29b6g4r26g2r3g2r26g4b6g29b2~b441800-g604000-rb03000-ydc943c~x2/sett.png)|

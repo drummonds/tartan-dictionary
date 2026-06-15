@@ -6,7 +6,7 @@ KYKBKBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k6y4k72b32k10b4w6-b344454-k00002c-we0e0e0-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/k3y2k36b16k5b2w3~b344454-k00002c-we0e0e0-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKBKBW
 
 | Tartans |
 |---------------|
-| [Pride of Nova Scotia (Corporate)](/setts/s7/k6y4k72b32k10b4w6-b344454-k00002c-we0e0e0-ybc8c00/)|
-|![Pride of Nova Scotia (Corporate) example sett](/setts/s7/k6y4k72b32k10b4w6-b344454-k00002c-we0e0e0-ybc8c00/sett.png)|
+| [Pride of Nova Scotia (Corporate)](/setts/s7/k3y2k36b16k5b2w3~b344454-k00002c-we0e0e0-ybc8c00~x2/)|
+|![Pride of Nova Scotia (Corporate) example sett](/setts/s7/k3y2k36b16k5b2w3~b344454-k00002c-we0e0e0-ybc8c00~x2/sett.png)|

@@ -16,5 +16,5 @@ BYBRBYBRBY
 
 | Tartans |
 |---------------|
-| [South Australian Pipes & Drums](/setts/s10/b120y12b22r50b22y12b22r50b22y12-b2c2c80-rc80000-ye8c000/)|
-|![South Australian Pipes & Drums example sett](/setts/s10/b120y12b22r50b22y12b22r50b22y12-b2c2c80-rc80000-ye8c000/sett.png)|
+| [South Australian Pipes & Drums](/setts/s10/b60y6b11r25b11y6b11r25b11y6~b2c2c80-rc80000-ye8c000~x2/)|
+|![South Australian Pipes & Drums example sett](/setts/s10/b60y6b11r25b11y6b11r25b11y6~b2c2c80-rc80000-ye8c000~x2/sett.png)|

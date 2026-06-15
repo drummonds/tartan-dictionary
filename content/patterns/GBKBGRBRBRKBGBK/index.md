@@ -16,5 +16,5 @@ GBKBGRBRBRKBGBK
 
 | Tartans |
 |---------------|
-| [Lumsden Green](/setts/s15/g28b4k4b4g26r4b24r4b24r4k28b4g4b4k28-b000080-g007800-k101010-rc80000/)|
-|![Lumsden Green example sett](/setts/s15/g28b4k4b4g26r4b24r4b24r4k28b4g4b4k28-b000080-g007800-k101010-rc80000/sett.png)|
+| [Lumsden Green](/setts/s15/g14b2k2b2g13r2b12r2b12r2k14b2g2b2k14~b000080-g007800-k101010-rc80000~x2/)|
+|![Lumsden Green example sett](/setts/s15/g14b2k2b2g13r2b12r2b12r2k14b2g2b2k14~b000080-g007800-k101010-rc80000~x2/sett.png)|

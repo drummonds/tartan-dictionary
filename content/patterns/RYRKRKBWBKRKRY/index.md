@@ -16,5 +16,5 @@ RYRKRKBWBKRKRY
 
 | Tartans |
 |---------------|
-| [Hebridean Granite](/setts/s14/y8r8k8r36k6b72w6b72k6r36k8r8y8r6-b5c5c5c-k101010-r888888-wf8f8f8-ya0a0a0/)|
-|![Hebridean Granite example sett](/setts/s14/y8r8k8r36k6b72w6b72k6r36k8r8y8r6-b5c5c5c-k101010-r888888-wf8f8f8-ya0a0a0/sett.png)|
+| [Hebridean Granite](/setts/s14/y4r4k4r18k3b36w3b36k3r18k4r4y4r3~b5c5c5c-k101010-r888888-wf8f8f8-ya0a0a0~x2/)|
+|![Hebridean Granite example sett](/setts/s14/y4r4k4r18k3b36w3b36k3r18k4r4y4r3~b5c5c5c-k101010-r888888-wf8f8f8-ya0a0a0~x2/sett.png)|

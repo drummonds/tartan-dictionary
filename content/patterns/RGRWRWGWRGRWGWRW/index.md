@@ -16,5 +16,5 @@ RGRWRWGWRGRWGWRW
 
 | Tartans |
 |---------------|
-| [Sekai Fushigi Hakken](/setts/s16/w36r4w6g4w54ra6g4rb6w54g4w6r4w36rb6g4ra6-g285800-re87878-ra901c38-rbc8002c-we0e0e0/)|
-|![Sekai Fushigi Hakken example sett](/setts/s16/w36r4w6g4w54ra6g4rb6w54g4w6r4w36rb6g4ra6-g285800-re87878-ra901c38-rbc8002c-we0e0e0/sett.png)|
+| [Sekai Fushigi Hakken](/setts/s16/w18r2w3g2w27ra3g2rb3w27g2w3r2w18rb3g2ra3~g285800-re87878-ra901c38-rbc8002c-we0e0e0~x2/)|
+|![Sekai Fushigi Hakken example sett](/setts/s16/w18r2w3g2w27ra3g2rb3w27g2w3r2w18rb3g2ra3~g285800-re87878-ra901c38-rbc8002c-we0e0e0~x2/sett.png)|

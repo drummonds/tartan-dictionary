@@ -16,5 +16,5 @@ RBBBBGKBRBW
 
 | Tartans |
 |---------------|
-| [Air Force](/setts/s11/w8b16r6b50k26g8ba58b6ba16b4r6-b304080-ba5480b0-g30a010-k000000-r802040-we0e0e0/)|
-|![Air Force example sett](/setts/s11/w8b16r6b50k26g8ba58b6ba16b4r6-b304080-ba5480b0-g30a010-k000000-r802040-we0e0e0/sett.png)|
+| [Air Force](/setts/s11/w4b8r3b25k13g4ba29b3ba8b2r3~b304080-ba5480b0-g30a010-k000000-r802040-we0e0e0~x2/)|
+|![Air Force example sett](/setts/s11/w4b8r3b25k13g4ba29b3ba8b2r3~b304080-ba5480b0-g30a010-k000000-r802040-we0e0e0~x2/sett.png)|

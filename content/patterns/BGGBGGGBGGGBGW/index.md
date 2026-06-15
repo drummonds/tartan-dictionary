@@ -16,5 +16,5 @@ BGGBGGGBGGGBGW
 
 | Tartans |
 |---------------|
-| [MacKinnon 4](/setts/s14/b4g6ga4ba4g12ga32g4ba8ga4g32ga16b4g8w4-b800080-ba304080-g608080-ga008000-we0e0e0/)|
-|![MacKinnon 4 example sett](/setts/s14/b4g6ga4ba4g12ga32g4ba8ga4g32ga16b4g8w4-b800080-ba304080-g608080-ga008000-we0e0e0/sett.png)|
+| [MacKinnon 4](/setts/s14/b2g3ga2ba2g6ga16g2ba4ga2g16ga8b2g4w2~b800080-ba304080-g608080-ga008000-we0e0e0~x2/)|
+|![MacKinnon 4 example sett](/setts/s14/b2g3ga2ba2g6ga16g2ba4ga2g16ga8b2g4w2~b800080-ba304080-g608080-ga008000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ GRKRKRKGKGYK
 
 | Tartans |
 |---------------|
-| [Hampson (Name)](/setts/s12/g4r10k4r34k4r4k4g34k4g4y4k4-g006818-k101010-rc80000-ye8c000/)|
-|![Hampson (Name) example sett](/setts/s12/g4r10k4r34k4r4k4g34k4g4y4k4-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Hampson (Name)](/setts/s12/g2r5k2r17k2r2k2g17k2g2y2k2~g006818-k101010-rc80000-ye8c000~x2/)|
+|![Hampson (Name) example sett](/setts/s12/g2r5k2r17k2r2k2g17k2g2y2k2~g006818-k101010-rc80000-ye8c000~x2/sett.png)|

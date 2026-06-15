@@ -6,7 +6,7 @@ GKWGGWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r68w6g8ga46w48k6g8-g006030-ga008000-k000000-rd03030-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/r34w3g4ga23w24k3g4~g006030-ga008000-k000000-rd03030-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKWGGWR
 
 | Tartans |
 |---------------|
-| [MacLachlan, dress](/setts/s7/r68w6g8ga46w48k6g8-g006030-ga008000-k000000-rd03030-we0e0e0/)|
-|![MacLachlan, dress example sett](/setts/s7/r68w6g8ga46w48k6g8-g006030-ga008000-k000000-rd03030-we0e0e0/sett.png)|
-| [MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r68w6g8ga46w48k6g8-g006428-ga006818-k101010-rd05054-we0e0e0/)|
-|![MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r68w6g8ga46w48k6g8-g006428-ga006818-k101010-rd05054-we0e0e0/sett.png)|
+| [MacLachlan, dress](/setts/s7/r34w3g4ga23w24k3g4~g006030-ga008000-k000000-rd03030-we0e0e0~x2/)|
+|![MacLachlan, dress example sett](/setts/s7/r34w3g4ga23w24k3g4~g006030-ga008000-k000000-rd03030-we0e0e0~x2/sett.png)|
+| [MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r34w3g4ga23w24k3g4~g006428-ga006818-k101010-rd05054-we0e0e0~x2/)|
+|![MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r34w3g4ga23w24k3g4~g006428-ga006818-k101010-rd05054-we0e0e0~x2/sett.png)|

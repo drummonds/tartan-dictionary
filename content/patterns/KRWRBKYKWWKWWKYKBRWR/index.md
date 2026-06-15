@@ -16,5 +16,5 @@ KRWRBKYKWWKWWKYKBRWR
 
 | Tartans |
 |---------------|
-| [Hewett](/setts/s20/r18w9r24b21k12y6k6wa12w24k15w24wa12k6y6k12b21r24w9r18k12-b2888c4-k101010-rc80000-wf8f8f8-wa98c8e8-ye8c000/)|
-|![Hewett example sett](/setts/s20/r18w9r24b21k12y6k6wa12w24k15w24wa12k6y6k12b21r24w9r18k12-b2888c4-k101010-rc80000-wf8f8f8-wa98c8e8-ye8c000/sett.png)|
+| [Hewett](/setts/s20/r6w3r8b7k4y2k2wa4w8k5w8wa4k2y2k4b7r8w3r6k4~b2888c4-k101010-rc80000-wf8f8f8-wa98c8e8-ye8c000~x3/)|
+|![Hewett example sett](/setts/s20/r6w3r8b7k4y2k2wa4w8k5w8wa4k2y2k4b7r8w3r6k4~b2888c4-k101010-rc80000-wf8f8f8-wa98c8e8-ye8c000~x3/sett.png)|

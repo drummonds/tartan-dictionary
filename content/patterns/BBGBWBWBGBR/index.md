@@ -16,5 +16,5 @@ BBGBWBWBGBR
 
 | Tartans |
 |---------------|
-| [Fraser Hunting Dress](/setts/s11/b8ba30g22ba6w22ba6w22ba6g22ba30r8-b2474e8-ba441800-g006818-ra00000-wc0c0c0/)|
-|![Fraser Hunting Dress example sett](/setts/s11/b8ba30g22ba6w22ba6w22ba6g22ba30r8-b2474e8-ba441800-g006818-ra00000-wc0c0c0/sett.png)|
+| [Fraser Hunting Dress](/setts/s11/b4ba15g11ba3w11ba3w11ba3g11ba15r4~b2474e8-ba441800-g006818-ra00000-wc0c0c0~x2/)|
+|![Fraser Hunting Dress example sett](/setts/s11/b4ba15g11ba3w11ba3w11ba3g11ba15r4~b2474e8-ba441800-g006818-ra00000-wc0c0c0~x2/sett.png)|

@@ -16,5 +16,5 @@ WBBBBBBBGRW
 
 | Tartans |
 |---------------|
-| [Inverclyde (Corporate)](/setts/s11/w6b10ba4b18bb20bc4bb8bc4g20r66w4-b202060-ba2c2c80-bb5c5c5c-bc2888c4-g006818-rc80000-we0e0e0/)|
-|![Inverclyde (Corporate) example sett](/setts/s11/w6b10ba4b18bb20bc4bb8bc4g20r66w4-b202060-ba2c2c80-bb5c5c5c-bc2888c4-g006818-rc80000-we0e0e0/sett.png)|
+| [Inverclyde (Corporate)](/setts/s11/w3b5ba2b9bb10bc2bb4bc2g10r33w2~b202060-ba2c2c80-bb5c5c5c-bc2888c4-g006818-rc80000-we0e0e0~x2/)|
+|![Inverclyde (Corporate) example sett](/setts/s11/w3b5ba2b9bb10bc2bb4bc2g10r33w2~b202060-ba2c2c80-bb5c5c5c-bc2888c4-g006818-rc80000-we0e0e0~x2/sett.png)|

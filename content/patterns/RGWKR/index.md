@@ -6,7 +6,7 @@ RGWKR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r24k8w4g12ra6-g808080-k000000-r806050-rac00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/r12k4w2g6ra3~g808080-k000000-r806050-rac00000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGWKR
 
 | Tartans |
 |---------------|
-| [Strathblane](/setts/s5/r24k8w4g12ra6-g808080-k000000-r806050-rac00000-we0e0e0/)|
-|![Strathblane example sett](/setts/s5/r24k8w4g12ra6-g808080-k000000-r806050-rac00000-we0e0e0/sett.png)|
+| [Strathblane](/setts/s5/r12k4w2g6ra3~g808080-k000000-r806050-rac00000-we0e0e0~x2/)|
+|![Strathblane example sett](/setts/s5/r12k4w2g6ra3~g808080-k000000-r806050-rac00000-we0e0e0~x2/sett.png)|

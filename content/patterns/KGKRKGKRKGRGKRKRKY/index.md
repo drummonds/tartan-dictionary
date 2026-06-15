@@ -16,5 +16,5 @@ KGKRKGKRKGRGKRKRKY
 
 | Tartans |
 |---------------|
-| [New House Highland (Corporate)](/setts/s18/y6k2r44k2r2k20g2r2g22k2r8k2g16k2r8k2g96k2-g285800-k101010-r780028-ybc8c00/)|
-|![New House Highland (Corporate) example sett](/setts/s18/y6k2r44k2r2k20g2r2g22k2r8k2g16k2r8k2g96k2-g285800-k101010-r780028-ybc8c00/sett.png)|
+| [New House Highland (Corporate)](/setts/s18/y3k1r22k1r1k10g1r1g11k1r4k1g8k1r4k1g48k1~g285800-k101010-r780028-ybc8c00~x2/)|
+|![New House Highland (Corporate) example sett](/setts/s18/y3k1r22k1r1k10g1r1g11k1r4k1g8k1r4k1g48k1~g285800-k101010-r780028-ybc8c00~x2/sett.png)|

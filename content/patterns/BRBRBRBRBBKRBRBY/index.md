@@ -16,5 +16,5 @@ BRBRBRBRBBKRBRBY
 
 | Tartans |
 |---------------|
-| [Dundonald](/setts/s16/b50r6b6r4b8r4b6r6b16b20k32r2b32r6b16y4-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Dundonald example sett](/setts/s16/b50r6b6r4b8r4b6r6b16b20k32r2b32r6b16y4-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Dundonald](/setts/s16/b25r3b3r2b4r2b3r3b8b10k16r1b16r3b8y2~b2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![Dundonald example sett](/setts/s16/b25r3b3r2b4r2b3r3b8b10k16r1b16r3b8y2~b2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ BGGGGGGGYGG
 
 | Tartans |
 |---------------|
-| [State Seal of Indiana (Fashion)](/setts/s11/b98g38ga10gb12ga10gb12ga70gb2y8gb2ga8-b2c2c80-g604000-ga289c18-gb003820-yfcb464/)|
-|![State Seal of Indiana (Fashion) example sett](/setts/s11/b98g38ga10gb12ga10gb12ga70gb2y8gb2ga8-b2c2c80-g604000-ga289c18-gb003820-yfcb464/sett.png)|
+| [State Seal of Indiana (Fashion)](/setts/s11/b49g19ga5gb6ga5gb6ga35gb1y4gb1ga4~b2c2c80-g604000-ga289c18-gb003820-yfcb464~x2/)|
+|![State Seal of Indiana (Fashion) example sett](/setts/s11/b49g19ga5gb6ga5gb6ga35gb1y4gb1ga4~b2c2c80-g604000-ga289c18-gb003820-yfcb464~x2/sett.png)|

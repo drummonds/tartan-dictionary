@@ -6,7 +6,7 @@ GRKRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g36r6k36r6ra36-g006818-k101010-rc80000-ra888888/tartan.png)
+![Woven sample](/setts/s5/g6r1k6r1ra6~g006818-k101010-rc80000-ra888888~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRKRR
 
 | Tartans |
 |---------------|
-| [Timespan](/setts/s5/g36r6k36r6ra36-g006818-k101010-rc80000-ra888888/)|
-|![Timespan example sett](/setts/s5/g36r6k36r6ra36-g006818-k101010-rc80000-ra888888/sett.png)|
+| [Timespan](/setts/s5/g6r1k6r1ra6~g006818-k101010-rc80000-ra888888~x6/)|
+|![Timespan example sett](/setts/s5/g6r1k6r1ra6~g006818-k101010-rc80000-ra888888~x6/sett.png)|

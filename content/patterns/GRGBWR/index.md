@@ -6,7 +6,7 @@ GRGBWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g6r18ga36b16w66r6-b780078-g289c18-ga285800-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/g3r9ga18b8w33r3~b780078-g289c18-ga285800-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGBWR
 
 | Tartans |
 |---------------|
-| [MacKintosh Dress (Dance)](/setts/s6/g6r18ga36b16w66r6-b780078-g289c18-ga285800-rc80000-we0e0e0/)|
-|![MacKintosh Dress (Dance) example sett](/setts/s6/g6r18ga36b16w66r6-b780078-g289c18-ga285800-rc80000-we0e0e0/sett.png)|
+| [MacKintosh Dress (Dance)](/setts/s6/g3r9ga18b8w33r3~b780078-g289c18-ga285800-rc80000-we0e0e0~x2/)|
+|![MacKintosh Dress (Dance) example sett](/setts/s6/g3r9ga18b8w33r3~b780078-g289c18-ga285800-rc80000-we0e0e0~x2/sett.png)|

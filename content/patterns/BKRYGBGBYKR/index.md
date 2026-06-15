@@ -16,7 +16,7 @@ BKRYGBGBYKR
 
 | Tartans |
 |---------------|
-| [Berwick Friendship](/setts/s11/b48k12r12y24g12b12g12b24y2k2r4-b2c4084-g005020-k101010-rc80028-ye8c000/)|
-|![Berwick Friendship example sett](/setts/s11/b48k12r12y24g12b12g12b24y2k2r4-b2c4084-g005020-k101010-rc80028-ye8c000/sett.png)|
-| [Berwick Friendship (Corporate)](/setts/s11/b48k12r12y24g12b12g12b24y2k2r4-b1474b4-g408060-k101010-rc80000-ye8c000/)|
-|![Berwick Friendship (Corporate) example sett](/setts/s11/b48k12r12y24g12b12g12b24y2k2r4-b1474b4-g408060-k101010-rc80000-ye8c000/sett.png)|
+| [Berwick Friendship](/setts/s11/b24k6r6y12g6b6g6b12y1k1r2~b2c4084-g005020-k101010-rc80028-ye8c000~x2/)|
+|![Berwick Friendship example sett](/setts/s11/b24k6r6y12g6b6g6b12y1k1r2~b2c4084-g005020-k101010-rc80028-ye8c000~x2/sett.png)|
+| [Berwick Friendship (Corporate)](/setts/s11/b24k6r6y12g6b6g6b12y1k1r2~b1474b4-g408060-k101010-rc80000-ye8c000~x2/)|
+|![Berwick Friendship (Corporate) example sett](/setts/s11/b24k6r6y12g6b6g6b12y1k1r2~b1474b4-g408060-k101010-rc80000-ye8c000~x2/sett.png)|

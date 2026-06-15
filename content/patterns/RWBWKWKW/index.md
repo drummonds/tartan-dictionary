@@ -6,7 +6,7 @@ RWBWKWKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w8k8w8k8w8b6w4r4-b2800a8-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/w4k4w4k4w4b3w2r2~b2800a8-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWBWKWKW
 
 | Tartans |
 |---------------|
-| [Scott, Sir Walter - 1971 (Fashion)](/setts/s8/w8k8w8k8w8b6w4r4-b2800a8-k101010-rc80000-wfcfcfc/)|
-|![Scott, Sir Walter - 1971 (Fashion) example sett](/setts/s8/w8k8w8k8w8b6w4r4-b2800a8-k101010-rc80000-wfcfcfc/sett.png)|
+| [Scott, Sir Walter - 1971 (Fashion)](/setts/s8/w4k4w4k4w4b3w2r2~b2800a8-k101010-rc80000-wfcfcfc~x2/)|
+|![Scott, Sir Walter - 1971 (Fashion) example sett](/setts/s8/w4k4w4k4w4b3w2r2~b2800a8-k101010-rc80000-wfcfcfc~x2/sett.png)|

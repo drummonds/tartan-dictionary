@@ -16,5 +16,5 @@ GBKRKBGKY
 
 | Tartans |
 |---------------|
-| [Manroth (Personal)](/setts/s9/g30b40k4r8k4b40g30k4y4-b202060-g285800-k101010-rc80000-ye8c000/)|
-|![Manroth (Personal) example sett](/setts/s9/g30b40k4r8k4b40g30k4y4-b202060-g285800-k101010-rc80000-ye8c000/sett.png)|
+| [Manroth (Personal)](/setts/s9/g15b20k2r4k2b20g15k2y2~b202060-g285800-k101010-rc80000-ye8c000~x2/)|
+|![Manroth (Personal) example sett](/setts/s9/g15b20k2r4k2b20g15k2y2~b202060-g285800-k101010-rc80000-ye8c000~x2/sett.png)|

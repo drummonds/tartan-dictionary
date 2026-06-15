@@ -16,5 +16,5 @@ WGKGKGKBYBYBY
 
 | Tartans |
 |---------------|
-| [Clerke of Ulva](/setts/s13/w6g6k8g28k8g6k28b36y2b8y4b8y2-b000048-g285800-k000000-w00fcfc-yd87c00/)|
-|![Clerke of Ulva example sett](/setts/s13/w6g6k8g28k8g6k28b36y2b8y4b8y2-b000048-g285800-k000000-w00fcfc-yd87c00/sett.png)|
+| [Clerke of Ulva](/setts/s13/w3g3k4g14k4g3k14b18y1b4y2b4y1~b000048-g285800-k000000-w00fcfc-yd87c00~x2/)|
+|![Clerke of Ulva example sett](/setts/s13/w3g3k4g14k4g3k14b18y1b4y2b4y1~b000048-g285800-k000000-w00fcfc-yd87c00~x2/sett.png)|

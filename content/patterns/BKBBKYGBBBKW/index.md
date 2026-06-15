@@ -16,5 +16,5 @@ BKBBKYGBBBKW
 
 | Tartans |
 |---------------|
-| [Veere](/setts/s12/b8k6b4ba12k30y4g32ba8b4ba4k16w8-b5480b0-ba304080-g008000-k000000-we0e0e0-yf0c000/)|
-|![Veere example sett](/setts/s12/b8k6b4ba12k30y4g32ba8b4ba4k16w8-b5480b0-ba304080-g008000-k000000-we0e0e0-yf0c000/sett.png)|
+| [Veere](/setts/s12/b4k3b2ba6k15y2g16ba4b2ba2k8w4~b5480b0-ba304080-g008000-k000000-we0e0e0-yf0c000~x2/)|
+|![Veere example sett](/setts/s12/b4k3b2ba6k15y2g16ba4b2ba2k8w4~b5480b0-ba304080-g008000-k000000-we0e0e0-yf0c000~x2/sett.png)|

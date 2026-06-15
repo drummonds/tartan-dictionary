@@ -16,5 +16,5 @@ GBGGGRGGGBGBGGGW
 
 | Tartans |
 |---------------|
-| [Fraser Hunting (unmarked sample)](/setts/s16/w8g56ga28g4b28g4b28g4ga28g56r8g56ga28g4b28g4-b2c4084-g503c14-ga005020-rdc0000-we0e0e0/)|
-|![Fraser Hunting (unmarked sample) example sett](/setts/s16/w8g56ga28g4b28g4b28g4ga28g56r8g56ga28g4b28g4-b2c4084-g503c14-ga005020-rdc0000-we0e0e0/sett.png)|
+| [Fraser Hunting (unmarked sample)](/setts/s16/w2g14ga7g1b7g1b7g1ga7g14r2g14ga7g1b7g1~b2c4084-g503c14-ga005020-rdc0000-we0e0e0~x4/)|
+|![Fraser Hunting (unmarked sample) example sett](/setts/s16/w2g14ga7g1b7g1b7g1ga7g14r2g14ga7g1b7g1~b2c4084-g503c14-ga005020-rdc0000-we0e0e0~x4/sett.png)|

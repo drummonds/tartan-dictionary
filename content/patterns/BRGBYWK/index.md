@@ -6,7 +6,7 @@ BRGBYWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16r22g10ba6y6w10k6-b2c2c80-ba1c1c50-g006818-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b8r11g5ba3y3w5k3~b2c2c80-ba1c1c50-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGBYWK
 
 | Tartans |
 |---------------|
-| [Nicolson of Assynt & Coigach (Name)](/setts/s7/b16r22g10ba6y6w10k6-b2c2c80-ba1c1c50-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Nicolson of Assynt & Coigach (Name) example sett](/setts/s7/b16r22g10ba6y6w10k6-b2c2c80-ba1c1c50-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Nicolson of Assynt & Coigach (Name)](/setts/s7/b8r11g5ba3y3w5k3~b2c2c80-ba1c1c50-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Nicolson of Assynt & Coigach (Name) example sett](/setts/s7/b8r11g5ba3y3w5k3~b2c2c80-ba1c1c50-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ GKRKYKRKGK
 
 | Tartans |
 |---------------|
-| [Kalkofen](/setts/s10/k80g30k20r4k20y4k20r4k20g30-g003820-k101010-rb03000-yd09800/)|
-|![Kalkofen example sett](/setts/s10/k80g30k20r4k20y4k20r4k20g30-g003820-k101010-rb03000-yd09800/sett.png)|
+| [Kalkofen](/setts/s10/k40g15k10r2k10y2k10r2k10g15~g003820-k101010-rb03000-yd09800~x2/)|
+|![Kalkofen example sett](/setts/s10/k40g15k10r2k10y2k10r2k10g15~g003820-k101010-rb03000-yd09800~x2/sett.png)|

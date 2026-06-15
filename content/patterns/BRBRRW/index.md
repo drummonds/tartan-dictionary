@@ -6,7 +6,7 @@ BRBRRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b108r12b24r12r48w12-b2c2c80-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/b9r1b2r1r4w1~b2c2c80-rc80000-we0e0e0~x12/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRRW
 
 | Tartans |
 |---------------|
-| [McIntosh, Georgina (Personal)](/setts/s6/b108r12b24r12r48w12-b2c2c80-rc80000-we0e0e0/)|
-|![McIntosh, Georgina (Personal) example sett](/setts/s6/b108r12b24r12r48w12-b2c2c80-rc80000-we0e0e0/sett.png)|
+| [McIntosh, Georgina (Personal)](/setts/s6/b9r1b2r1r4w1~b2c2c80-rc80000-we0e0e0~x12/)|
+|![McIntosh, Georgina (Personal) example sett](/setts/s6/b9r1b2r1r4w1~b2c2c80-rc80000-we0e0e0~x12/sett.png)|

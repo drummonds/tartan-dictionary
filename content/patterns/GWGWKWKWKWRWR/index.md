@@ -16,5 +16,5 @@ GWGWKWKWKWRWR
 
 | Tartans |
 |---------------|
-| [Glen Flesk](/setts/s13/g4w4g4w8k8w8k8w8k8w8r4w4r4-g008000-k000000-r806050-we0e0e0/)|
-|![Glen Flesk example sett](/setts/s13/g4w4g4w8k8w8k8w8k8w8r4w4r4-g008000-k000000-r806050-we0e0e0/sett.png)|
+| [Glen Flesk](/setts/s13/g1w1g1w2k2w2k2w2k2w2r1w1r1~g008000-k000000-r806050-we0e0e0~x4/)|
+|![Glen Flesk example sett](/setts/s13/g1w1g1w2k2w2k2w2k2w2r1w1r1~g008000-k000000-r806050-we0e0e0~x4/sett.png)|

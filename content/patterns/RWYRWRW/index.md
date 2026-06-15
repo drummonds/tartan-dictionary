@@ -6,7 +6,7 @@ RWYRWRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4w2y34r28w30r4w4-r888888-wf8e8d8-ya08858/tartan.png)
+![Woven sample](/setts/s7/r2w1y17r14w15r2w2~r888888-wf8e8d8-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWYRWRW
 
 | Tartans |
 |---------------|
-| [North American Sheep Breeders Association](/setts/s7/r4w2y34r28w30r4w4-r888888-wf8e8d8-ya08858/)|
-|![North American Sheep Breeders Association example sett](/setts/s7/r4w2y34r28w30r4w4-r888888-wf8e8d8-ya08858/sett.png)|
+| [North American Sheep Breeders Association](/setts/s7/r2w1y17r14w15r2w2~r888888-wf8e8d8-ya08858~x2/)|
+|![North American Sheep Breeders Association example sett](/setts/s7/r2w1y17r14w15r2w2~r888888-wf8e8d8-ya08858~x2/sett.png)|

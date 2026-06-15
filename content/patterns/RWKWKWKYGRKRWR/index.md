@@ -16,5 +16,5 @@ RWKWKWKYGRKRWR
 
 | Tartans |
 |---------------|
-| [Caledonian Cameron Commando](/setts/s14/r42w18k4w4k4w18k36y6g42r26k6r26wa4r26-g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00/)|
-|![Caledonian Cameron Commando example sett](/setts/s14/r42w18k4w4k4w18k36y6g42r26k6r26wa4r26-g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00/sett.png)|
+| [Caledonian Cameron Commando](/setts/s14/r21w9k2w2k2w9k18y3g21r13k3r13wa2r13~g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00~x2/)|
+|![Caledonian Cameron Commando example sett](/setts/s14/r21w9k2w2k2w9k18y3g21r13k3r13wa2r13~g044028-k000000-rc80000-w00fcfc-wafcfcfc-ydcbc00~x2/sett.png)|

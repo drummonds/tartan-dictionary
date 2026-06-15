@@ -6,7 +6,7 @@ RGWKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r30g6w4k20w10-g007800-k000000-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s5/r15g3w2k10w5~g007800-k000000-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGWKW
 
 | Tartans |
 |---------------|
-| [SAL Cubiska Stenen](/setts/s5/r30g6w4k20w10-g007800-k000000-rc80000-wf8f8f8/)|
-|![SAL Cubiska Stenen example sett](/setts/s5/r30g6w4k20w10-g007800-k000000-rc80000-wf8f8f8/sett.png)|
+| [SAL Cubiska Stenen](/setts/s5/r15g3w2k10w5~g007800-k000000-rc80000-wf8f8f8~x2/)|
+|![SAL Cubiska Stenen example sett](/setts/s5/r15g3w2k10w5~g007800-k000000-rc80000-wf8f8f8~x2/sett.png)|

@@ -16,5 +16,5 @@ KGKGRGKYKGR
 
 | Tartans |
 |---------------|
-| [MacAart (Personal)](/setts/s11/r12g24k4y4k4g24r8ga8k8ga36k8-g006818-ga604000-k101010-r880000-yd09800/)|
-|![MacAart (Personal) example sett](/setts/s11/r12g24k4y4k4g24r8ga8k8ga36k8-g006818-ga604000-k101010-r880000-yd09800/sett.png)|
+| [MacAart (Personal)](/setts/s11/r3g6k1y1k1g6r2ga2k2ga9k2~g006818-ga604000-k101010-r880000-yd09800~x4/)|
+|![MacAart (Personal) example sett](/setts/s11/r3g6k1y1k1g6r2ga2k2ga9k2~g006818-ga604000-k101010-r880000-yd09800~x4/sett.png)|

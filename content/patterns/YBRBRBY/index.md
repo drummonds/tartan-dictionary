@@ -6,7 +6,7 @@ YBRBRBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y8b2r30b84r12b8ya2-b142836-r800028-ya0a0a0-yac88c00/tartan.png)
+![Woven sample](/setts/s7/y4b1r15b42r6b4ya1~b142836-r800028-ya0a0a0-yac88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YBRBRBY
 
 | Tartans |
 |---------------|
-| [Lion Brand Sportswear](/setts/s7/y8b2r30b84r12b8ya2-b142836-r800028-ya0a0a0-yac88c00/)|
-|![Lion Brand Sportswear example sett](/setts/s7/y8b2r30b84r12b8ya2-b142836-r800028-ya0a0a0-yac88c00/sett.png)|
+| [Lion Brand Sportswear](/setts/s7/y4b1r15b42r6b4ya1~b142836-r800028-ya0a0a0-yac88c00~x2/)|
+|![Lion Brand Sportswear example sett](/setts/s7/y4b1r15b42r6b4ya1~b142836-r800028-ya0a0a0-yac88c00~x2/sett.png)|

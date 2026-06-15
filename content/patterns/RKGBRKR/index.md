@@ -6,7 +6,7 @@ RKGBRKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12k48g16b48r4k8r4-b2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/r3k12g4b12r1k2r1~b2c2c80-g006818-k101010-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGBRKR
 
 | Tartans |
 |---------------|
-| [Sandberg](/setts/s7/r12k48g16b48r4k8r4-b2c2c80-g006818-k101010-rc80000/)|
-|![Sandberg example sett](/setts/s7/r12k48g16b48r4k8r4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Sandberg](/setts/s7/r3k12g4b12r1k2r1~b2c2c80-g006818-k101010-rc80000~x4/)|
+|![Sandberg example sett](/setts/s7/r3k12g4b12r1k2r1~b2c2c80-g006818-k101010-rc80000~x4/sett.png)|

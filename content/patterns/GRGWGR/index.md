@@ -6,7 +6,7 @@ GRGWGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r40g80w10g80r40g18-g006818-r98481c-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r20g40w5g40r20g9~g006818-r98481c-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGWGR
 
 | Tartans |
 |---------------|
-| [O'Neill (Australia)](/setts/s6/r40g80w10g80r40g18-g006818-r98481c-we0e0e0/)|
-|![O'Neill (Australia) example sett](/setts/s6/r40g80w10g80r40g18-g006818-r98481c-we0e0e0/sett.png)|
+| [O'Neill (Australia)](/setts/s6/r20g40w5g40r20g9~g006818-r98481c-we0e0e0~x2/)|
+|![O'Neill (Australia) example sett](/setts/s6/r20g40w5g40r20g9~g006818-r98481c-we0e0e0~x2/sett.png)|

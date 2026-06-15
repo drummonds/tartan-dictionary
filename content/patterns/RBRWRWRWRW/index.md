@@ -16,5 +16,5 @@ RBRWRWRWRW
 
 | Tartans |
 |---------------|
-| [Swiss Red](/setts/s10/w72r36w4r4w8r4w4r36b12r16-b2c2c80-rc80000-we0e0e0/)|
-|![Swiss Red example sett](/setts/s10/w72r36w4r4w8r4w4r36b12r16-b2c2c80-rc80000-we0e0e0/sett.png)|
+| [Swiss Red](/setts/s10/w18r9w1r1w2r1w1r9b3r4~b2c2c80-rc80000-we0e0e0~x4/)|
+|![Swiss Red example sett](/setts/s10/w18r9w1r1w2r1w1r9b3r4~b2c2c80-rc80000-we0e0e0~x4/sett.png)|

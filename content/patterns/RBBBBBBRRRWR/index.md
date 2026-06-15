@@ -16,5 +16,5 @@ RBBBBBBRRRWR
 
 | Tartans |
 |---------------|
-| [Scotch, House Cailean](/setts/s12/r8w4r4ra6r38b12ba6b4ba4b4ba30r6-b8080d0-ba304080-r806050-rac00000-we0e0e0/)|
-|![Scotch, House Cailean example sett](/setts/s12/r8w4r4ra6r38b12ba6b4ba4b4ba30r6-b8080d0-ba304080-r806050-rac00000-we0e0e0/sett.png)|
+| [Scotch, House Cailean](/setts/s12/r4w2r2ra3r19b6ba3b2ba2b2ba15r3~b8080d0-ba304080-r806050-rac00000-we0e0e0~x2/)|
+|![Scotch, House Cailean example sett](/setts/s12/r4w2r2ra3r19b6ba3b2ba2b2ba15r3~b8080d0-ba304080-r806050-rac00000-we0e0e0~x2/sett.png)|

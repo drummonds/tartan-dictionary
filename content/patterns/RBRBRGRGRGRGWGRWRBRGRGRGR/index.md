@@ -16,5 +16,5 @@ RBRBRGRGRGRGWGRWRBRGRGRGR
 
 | Tartans |
 |---------------|
-| [Staffa (Silk)](/setts/s25/r34g28r8g8r34g8r8b24r26w10r26g28w6g28r8g8r34g8r8g16r8b8r8b8r28-b2c2c80-g003820-rc80000-we0e0e0/)|
-|![Staffa (Silk) example sett](/setts/s25/r34g28r8g8r34g8r8b24r26w10r26g28w6g28r8g8r34g8r8g16r8b8r8b8r28-b2c2c80-g003820-rc80000-we0e0e0/sett.png)|
+| [Staffa (Silk)](/setts/s25/r17g14r4g4r17g4r4b12r13w5r13g14w3g14r4g4r17g4r4g8r4b4r4b4r14~b2c2c80-g003820-rc80000-we0e0e0~x2/)|
+|![Staffa (Silk) example sett](/setts/s25/r17g14r4g4r17g4r4b12r13w5r13g14w3g14r4g4r17g4r4g8r4b4r4b4r14~b2c2c80-g003820-rc80000-we0e0e0~x2/sett.png)|

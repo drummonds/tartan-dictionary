@@ -16,5 +16,5 @@ RYYYKBKYRY
 
 | Tartans |
 |---------------|
-| [VeMMA](/setts/s10/r48y4ya14y6k4b8k4y2r8y2-b6b747b-k101010-rff4000-yadadad-yaff9f80/)|
-|![VeMMA example sett](/setts/s10/r48y4ya14y6k4b8k4y2r8y2-b6b747b-k101010-rff4000-yadadad-yaff9f80/sett.png)|
+| [VeMMA](/setts/s10/r24y2ya7y3k2b4k2y1r4y1~b6b747b-k101010-rff4000-yadadad-yaff9f80~x2/)|
+|![VeMMA example sett](/setts/s10/r24y2ya7y3k2b4k2y1r4y1~b6b747b-k101010-rff4000-yadadad-yaff9f80~x2/sett.png)|

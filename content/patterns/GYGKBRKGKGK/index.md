@@ -16,5 +16,5 @@ GYGKBRKGKGK
 
 | Tartans |
 |---------------|
-| [State Seal of South Dakota (Fashion)](/setts/s11/g98y6g12k14b42r8k32ga24k2g24k6-b1474b4-g604000-ga006818-k101010-rc80000-ybc8c00/)|
-|![State Seal of South Dakota (Fashion) example sett](/setts/s11/g98y6g12k14b42r8k32ga24k2g24k6-b1474b4-g604000-ga006818-k101010-rc80000-ybc8c00/sett.png)|
+| [State Seal of South Dakota (Fashion)](/setts/s11/g49y3g6k7b21r4k16ga12k1g12k3~b1474b4-g604000-ga006818-k101010-rc80000-ybc8c00~x2/)|
+|![State Seal of South Dakota (Fashion) example sett](/setts/s11/g49y3g6k7b21r4k16ga12k1g12k3~b1474b4-g604000-ga006818-k101010-rc80000-ybc8c00~x2/sett.png)|

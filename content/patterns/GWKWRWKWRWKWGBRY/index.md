@@ -16,5 +16,5 @@ GWKWRWKWRWKWGBRY
 
 | Tartans |
 |---------------|
-| [City Of Dorval](/setts/s16/g8w2k6w2r4w2k6w2r4w2k6w2g6b28ra2y4-b3366cc-g669900-k000000-r996600-raff3333-wfffafa-yffff33/)|
-|![City Of Dorval example sett](/setts/s16/g8w2k6w2r4w2k6w2r4w2k6w2g6b28ra2y4-b3366cc-g669900-k000000-r996600-raff3333-wfffafa-yffff33/sett.png)|
+| [City Of Dorval](/setts/s16/g4w1k3w1r2w1k3w1r2w1k3w1g3b14ra1y2~b3366cc-g669900-k000000-r996600-raff3333-wfffafa-yffff33~x2/)|
+|![City Of Dorval example sett](/setts/s16/g4w1k3w1r2w1k3w1r2w1k3w1g3b14ra1y2~b3366cc-g669900-k000000-r996600-raff3333-wfffafa-yffff33~x2/sett.png)|

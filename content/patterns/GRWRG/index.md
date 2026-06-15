@@ -6,7 +6,7 @@ GRWRG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/tartan.png)
+![Woven sample](/setts/s5/g5r5w11r1g1~g604000-re87878-w98c8e8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWRG
 
 | Tartans |
 |---------------|
-| [O'Connor Dress](/setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/)|
-|![O'Connor Dress example sett](/setts/s5/g20r20w44r4g4-g604000-re87878-w98c8e8/sett.png)|
+| [O'Connor Dress](/setts/s5/g5r5w11r1g1~g604000-re87878-w98c8e8~x4/)|
+|![O'Connor Dress example sett](/setts/s5/g5r5w11r1g1~g604000-re87878-w98c8e8~x4/sett.png)|

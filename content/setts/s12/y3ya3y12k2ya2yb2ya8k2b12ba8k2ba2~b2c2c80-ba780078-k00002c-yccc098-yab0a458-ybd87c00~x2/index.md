@@ -1,0 +1,56 @@
+---
+title: "Merise and Lars (Personal)"
+date: 2023-03-18
+---
+In pattern [BKBBKYYYKYYY](/patterns/bkbbkyyykyyy/).
+
+
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7743/
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- Sept. 2008 — Merise and Lars (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7743/))
+- undated — Merise and Lars (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5724))
+
+## Thread count
+N/6 LT6 N24 DBa4 LT4 O4 LT16 DBa4 DB24 P16 DBa4 P/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DBa | <code style="background-color:#00002C;"><span style="color:#00002C;filter:grayscale(1) invert(1) contrast(100);">#00002C</span></code> `#00002C` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.16 |
+| LT | <code style="background-color:#B0A458;"><span style="color:#B0A458;filter:grayscale(1) invert(1) contrast(100);">#B0A458</span></code> `#B0A458` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.14 |
+| N | <code style="background-color:#CCC098;"><span style="color:#CCC098;filter:grayscale(1) invert(1) contrast(100);">#CCC098</span></code> `#CCC098` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Dykes, of Perthshire](/setts/s13/b3k3b21k12r12y3k4w3g20r8k3r6w3~b5c98bc-g003820-k101010-rc80000-wf8f8f8-ye8c000~x2/) — ΔT 1.02
+1. [Badminton World Federation](/setts/s13/k3r19b12k3y3g3k2w11b3w4b4k2w3~b3850c8-g649848-k101010-rdc0000-we0e0e0-ydc943c~x2/) — ΔT 1.05
+1. [Edinburgh Military Tattoo (Dance)](/setts/s14/k4r6b3r16ba18w4k4w4k4w4k4w4b18r4~b202060-ba5c8ca8-k101010-rc80000-wfcfcfc~x2/) — ΔT 1.11
+1. [MacSheehy](/setts/s12/g2w10k2wa2k2g2k2b3ga3k2ga2wa2~b1c0070-g604000-ga006818-k101010-wc0c0c0-wae0e0e0~x4/) — ΔT 1.12
+1. [MacPherson Dress](/setts/s15/w13b3w13g10y2k7b5k2b2k2b5r8w2k2r2~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/) — ΔT 1.17
+1. [Badminton Cup](/setts/s13/w3k2b4w4b3w11k2g3y3k3b12r19k2~b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/) — ΔT 1.17
+1. [MacPherson Dress Clan Tartan Tartan Number: 1615. Earliest known date: pre 2003 There are a great number of variations of the Dress MacPherson, many of them modern trade designs which are popular with country dancers. Hugh Macpherson of Edinburgh, kiltmaker and tartan designer some decades ago, supplied samples of these to the Scottish Tartan Society around 1980. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/w13b3w13g10y2k7b5k2b2k2b5r8w2k2r2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/) — ΔT 1.18
+1. [Coulter (Personal)](/setts/s17/b7k9ka2k2ka2r14g14w2b3w2g14r14k2b7k9ka2k2~b2888c4-g009468-k101010-ka000000-re87878-wfcfcfc~x2/) — ΔT 1.19
+1. [Clauwaert (Personal)](/setts/s17/b4y2b4w6wa2k2w6wa2k2w13y3k4y3k8b6wa2r4~b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858~x2/) — ΔT 1.20
+1. [Manderson #1 (Personal)](/setts/s11/b8g22g8w16b24w8w32wa32w7wa12w4~b4c0000-g005448-wa8ace8-wac0c0c0/) — ΔT 1.21
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b3k3b21k12r12y3k4w3g20r8k3r6w3~b5c98bc-g003820-k101010-rc80000-wf8f8f8-ye8c000~x2/"><circle cx="39.5" cy="139.1" r="4" fill="#3465a4"><title>Dykes, of Perthshire</title></circle></a><a href="/setts/s13/k3r19b12k3y3g3k2w11b3w4b4k2w3~b3850c8-g649848-k101010-rdc0000-we0e0e0-ydc943c~x2/"><circle cx="56.9" cy="110.9" r="4" fill="#3465a4"><title>Badminton World Federation</title></circle></a><a href="/setts/s14/k4r6b3r16ba18w4k4w4k4w4k4w4b18r4~b202060-ba5c8ca8-k101010-rc80000-wfcfcfc~x2/"><circle cx="41.0" cy="151.3" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s12/g2w10k2wa2k2g2k2b3ga3k2ga2wa2~b1c0070-g604000-ga006818-k101010-wc0c0c0-wae0e0e0~x4/"><circle cx="15.1" cy="154.7" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><a href="/setts/s15/w13b3w13g10y2k7b5k2b2k2b5r8w2k2r2~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/"><circle cx="48.8" cy="132.2" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s13/w3k2b4w4b3w11k2g3y3k3b12r19k2~b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/"><circle cx="52.8" cy="107.7" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/setts/s15/w13b3w13g10y2k7b5k2b2k2b5r8w2k2r2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/"><circle cx="48.0" cy="132.3" r="4" fill="#3465a4"><title>MacPherson Dress Clan Tartan Tartan Number: 1615. Earliest known date: pre 2003 There are a great number of variations of the Dress MacPherson, many of them modern trade designs which are popular with country dancers. Hugh Macpherson of Edinburgh, kiltmaker and tartan designer some decades ago, supplied samples of these to the Scottish Tartan Society around 1980. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/b7k9ka2k2ka2r14g14w2b3w2g14r14k2b7k9ka2k2~b2888c4-g009468-k101010-ka000000-re87878-wfcfcfc~x2/"><circle cx="24.2" cy="130.2" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/setts/s17/b4y2b4w6wa2k2w6wa2k2w13y3k4y3k8b6wa2r4~b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858~x2/"><circle cx="35.3" cy="140.2" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/setts/s11/b8g22g8w16b24w8w32wa32w7wa12w4~b4c0000-g005448-wa8ace8-wac0c0c0/"><circle cx="40.4" cy="159.6" r="4" fill="#3465a4"><title>Manderson #1 (Personal)</title></circle></a><circle cx="27.1" cy="145.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/y3ya3y12k2ya2yb2ya8k2b12ba8k2ba2~b2c2c80-ba780078-k00002c-yccc098-yab0a458-ybd87c00~x2/

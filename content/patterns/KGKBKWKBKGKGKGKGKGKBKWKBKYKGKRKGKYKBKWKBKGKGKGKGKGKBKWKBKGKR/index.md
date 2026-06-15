@@ -16,5 +16,5 @@ KGKBKWKBKGKGKGKGKGKBKWKBKYKGKRKGKYKBKWKBKGKGKGKGKGKBKWKBKGKR
 
 | Tartans |
 |---------------|
-| [Cockburn #4](/setts/s60/r5k2g25k6b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k2y5k2g30k2r5k2g30k2y5k2b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k6g25k2-b202060-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Cockburn #4 example sett](/setts/s60/r5k2g25k6b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k2y5k2g30k2r5k2g30k2y5k2b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k6g25k2-b202060-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Cockburn #4](/setts/s60/r5k2g25k6b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k2y5k2g30k2r5k2g30k2y5k2b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k6g25k2~b202060-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
+|![Cockburn #4 example sett](/setts/s60/r5k2g25k6b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k2y5k2g30k2r5k2g30k2y5k2b31k2w5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2w5k2b31k6g25k2~b202060-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|

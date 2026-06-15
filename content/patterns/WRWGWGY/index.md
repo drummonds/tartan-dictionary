@@ -6,7 +6,7 @@ WRWGWGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w10r6w52g42w6g16y6-g408060-r800028-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w5r3w26g21w3g8y3~g408060-r800028-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ WRWGWGY
 
 | Tartans |
 |---------------|
-| [MacPherson Dress Blue (Dance) #2](/setts/s7/w10r6w52g42w6g16y6-g408060-r800028-we0e0e0-ye8c000/)|
-|![MacPherson Dress Blue (Dance) #2 example sett](/setts/s7/w10r6w52g42w6g16y6-g408060-r800028-we0e0e0-ye8c000/sett.png)|
-| [MacPherson Dress Green (Dance)](/setts/s7/w10r6w52g40w6g16y6-g006818-rc80000-we0e0e0-ye8c000/)|
-|![MacPherson Dress Green (Dance) example sett](/setts/s7/w10r6w52g40w6g16y6-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
-| [MacPherson, dress green](/setts/s7/w10r6w52g40w6g16y6-g008000-rc00000-we0e0e0-yf0c000/)|
-|![MacPherson, dress green example sett](/setts/s7/w10r6w52g40w6g16y6-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [MacPherson Dress Blue (Dance) #2](/setts/s7/w5r3w26g21w3g8y3~g408060-r800028-we0e0e0-ye8c000~x2/)|
+|![MacPherson Dress Blue (Dance) #2 example sett](/setts/s7/w5r3w26g21w3g8y3~g408060-r800028-we0e0e0-ye8c000~x2/sett.png)|
+| [MacPherson Dress Green (Dance)](/setts/s7/w5r3w26g20w3g8y3~g006818-rc80000-we0e0e0-ye8c000~x2/)|
+|![MacPherson Dress Green (Dance) example sett](/setts/s7/w5r3w26g20w3g8y3~g006818-rc80000-we0e0e0-ye8c000~x2/sett.png)|
+| [MacPherson, dress green](/setts/s7/w5r3w26g20w3g8y3~g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![MacPherson, dress green example sett](/setts/s7/w5r3w26g20w3g8y3~g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

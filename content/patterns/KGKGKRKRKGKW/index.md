@@ -16,5 +16,5 @@ KGKGKRKRKGKW
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne Brown Tartan Tartan Number: 2401. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w8k4g16k4r4k4r4k46g20k4g14k4-g352406-k130d00-r977957-wffffda/)|
-|![Auld Lang Syne Brown Tartan Tartan Number: 2401. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/w8k4g16k4r4k4r4k46g20k4g14k4-g352406-k130d00-r977957-wffffda/sett.png)|
+| [Auld Lang Syne Brown Tartan Tartan Number: 2401. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w4k2g8k2r2k2r2k23g10k2g7k2~g352406-k130d00-r977957-wffffda~x2/)|
+|![Auld Lang Syne Brown Tartan Tartan Number: 2401. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/w4k2g8k2r2k2r2k23g10k2g7k2~g352406-k130d00-r977957-wffffda~x2/sett.png)|

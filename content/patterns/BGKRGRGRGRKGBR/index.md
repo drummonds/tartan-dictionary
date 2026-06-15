@@ -16,5 +16,5 @@ BGKRGRGRGRKGBR
 
 | Tartans |
 |---------------|
-| [Sheffield, City of](/setts/s14/b10g10k8r62ga6r6ga124r6ga6r62k8g10b10ra6-b2888c4-g289c18-ga006818-k101010-r888888-rac80000/)|
-|![Sheffield, City of example sett](/setts/s14/b10g10k8r62ga6r6ga124r6ga6r62k8g10b10ra6-b2888c4-g289c18-ga006818-k101010-r888888-rac80000/sett.png)|
+| [Sheffield, City of](/setts/s14/b5g5k4r31ga3r3ga62r3ga3r31k4g5b5ra3~b2888c4-g289c18-ga006818-k101010-r888888-rac80000~x2/)|
+|![Sheffield, City of example sett](/setts/s14/b5g5k4r31ga3r3ga62r3ga3r31k4g5b5ra3~b2888c4-g289c18-ga006818-k101010-r888888-rac80000~x2/sett.png)|

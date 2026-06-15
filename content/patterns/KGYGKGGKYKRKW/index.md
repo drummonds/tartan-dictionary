@@ -16,5 +16,5 @@ KGYGKGGKYKRKW
 
 | Tartans |
 |---------------|
-| [Donegal County Crest (Fashion)](/setts/s13/k8g20y8g20k8ga40g10k4y12k4r20k4w8-g003820-ga006818-k101010-rc80000-we0e0e0-ybc8c00/)|
-|![Donegal County Crest (Fashion) example sett](/setts/s13/k8g20y8g20k8ga40g10k4y12k4r20k4w8-g003820-ga006818-k101010-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Donegal County Crest (Fashion)](/setts/s13/k4g10y4g10k4ga20g5k2y6k2r10k2w4~g003820-ga006818-k101010-rc80000-we0e0e0-ybc8c00~x2/)|
+|![Donegal County Crest (Fashion) example sett](/setts/s13/k4g10y4g10k4ga20g5k2y6k2r10k2w4~g003820-ga006818-k101010-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

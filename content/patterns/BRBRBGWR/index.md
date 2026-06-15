@@ -6,7 +6,7 @@ BRBRBGWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b24r4b4r4b4g20w24ra6-b304080-g008000-rc00000-ra806050-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b12r2b2r2b2g10w12ra3~b304080-g008000-rc00000-ra806050-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRBGWR
 
 | Tartans |
 |---------------|
-| [Idaho, Centennial](/setts/s8/b24r4b4r4b4g20w24ra6-b304080-g008000-rc00000-ra806050-we0e0e0/)|
-|![Idaho, Centennial example sett](/setts/s8/b24r4b4r4b4g20w24ra6-b304080-g008000-rc00000-ra806050-we0e0e0/sett.png)|
+| [Idaho, Centennial](/setts/s8/b12r2b2r2b2g10w12ra3~b304080-g008000-rc00000-ra806050-we0e0e0~x2/)|
+|![Idaho, Centennial example sett](/setts/s8/b12r2b2r2b2g10w12ra3~b304080-g008000-rc00000-ra806050-we0e0e0~x2/sett.png)|

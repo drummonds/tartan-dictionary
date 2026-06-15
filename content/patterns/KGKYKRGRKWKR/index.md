@@ -16,5 +16,5 @@ KGKYKRGRKWKR
 
 | Tartans |
 |---------------|
-| [Quebec, Plaid du](/setts/s12/k50g10k4y4ka4r6g40r40k4w4ka4r4-g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000/)|
-|![Quebec, Plaid du example sett](/setts/s12/k50g10k4y4ka4r6g40r40k4w4ka4r4-g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000/sett.png)|
+| [Quebec, Plaid du](/setts/s12/k25g5k2y2ka2r3g20r20k2w2ka2r2~g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000~x2/)|
+|![Quebec, Plaid du example sett](/setts/s12/k25g5k2y2ka2r3g20r20k2w2ka2r2~g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000~x2/sett.png)|

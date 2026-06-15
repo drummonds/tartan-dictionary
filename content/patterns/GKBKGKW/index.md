@@ -6,7 +6,7 @@ GKBKGKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g30k16b30k16g46ka16w6-b141e46-g003c14-k101010-ka000028-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/g15k8b15k8g23ka8w3~b141e46-g003c14-k101010-ka000028-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBKGKW
 
 | Tartans |
 |---------------|
-| [Marchant](/setts/s7/g30k16b30k16g46ka16w6-b141e46-g003c14-k101010-ka000028-we0e0e0/)|
-|![Marchant example sett](/setts/s7/g30k16b30k16g46ka16w6-b141e46-g003c14-k101010-ka000028-we0e0e0/sett.png)|
+| [Marchant](/setts/s7/g15k8b15k8g23ka8w3~b141e46-g003c14-k101010-ka000028-we0e0e0~x2/)|
+|![Marchant example sett](/setts/s7/g15k8b15k8g23ka8w3~b141e46-g003c14-k101010-ka000028-we0e0e0~x2/sett.png)|

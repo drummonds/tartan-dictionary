@@ -16,5 +16,5 @@ GBKBGKYGRGWG
 
 | Tartans |
 |---------------|
-| [Forfar Farmington](/setts/s12/g10w6g30r6g30y6k20g38b6k6b6g6-b2c2c80-g003820-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Forfar Farmington example sett](/setts/s12/g10w6g30r6g30y6k20g38b6k6b6g6-b2c2c80-g003820-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Forfar Farmington](/setts/s12/g5w3g15r3g15y3k10g19b3k3b3g3~b2c2c80-g003820-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Forfar Farmington example sett](/setts/s12/g5w3g15r3g15y3k10g19b3k3b3g3~b2c2c80-g003820-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

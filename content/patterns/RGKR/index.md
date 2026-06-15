@@ -6,7 +6,7 @@ RGKR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r4k100g4r2-g696969-k000000-rff0000/tartan.png)
+![Woven sample](/setts/s4/r2k50g2r1~g696969-k000000-rff0000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKR
 
 | Tartans |
 |---------------|
-| [Galloway Family](/setts/s4/r4k100g4r2-g696969-k000000-rff0000/)|
-|![Galloway Family example sett](/setts/s4/r4k100g4r2-g696969-k000000-rff0000/sett.png)|
+| [Galloway Family](/setts/s4/r2k50g2r1~g696969-k000000-rff0000~x2/)|
+|![Galloway Family example sett](/setts/s4/r2k50g2r1~g696969-k000000-rff0000~x2/sett.png)|

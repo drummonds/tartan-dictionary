@@ -16,5 +16,5 @@ WKGGBGBGBGGKY
 
 | Tartans |
 |---------------|
-| [Campbell Brown](/setts/s13/w18k2g62ga60b72ga6b6ga6b72ga60g62k2y18-b2c4084-g503c14-ga005020-k101010-we0e0e0-ye8c000/)|
-|![Campbell Brown example sett](/setts/s13/w18k2g62ga60b72ga6b6ga6b72ga60g62k2y18-b2c4084-g503c14-ga005020-k101010-we0e0e0-ye8c000/sett.png)|
+| [Campbell Brown](/setts/s13/w9k1g31ga30b36ga3b3ga3b36ga30g31k1y9~b2c4084-g503c14-ga005020-k101010-we0e0e0-ye8c000~x2/)|
+|![Campbell Brown example sett](/setts/s13/w9k1g31ga30b36ga3b3ga3b36ga30g31k1y9~b2c4084-g503c14-ga005020-k101010-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,7 +16,7 @@ YBYBWGWRWBYBY
 
 | Tartans |
 |---------------|
-| [Aelfleda Arisaid (Personal)](/setts/s13/y8b10y8b10w16g4w48r4w16b10y8b10y8-b2c2c80-g006400-rff0000-wf9f5ef-yffd700/)|
-|![Aelfleda Arisaid (Personal) example sett](/setts/s13/y8b10y8b10w16g4w48r4w16b10y8b10y8-b2c2c80-g006400-rff0000-wf9f5ef-yffd700/sett.png)|
-| [Aelfleda Arisaid (Personal)](/setts/s13/y8b10y8b10w16g4w48r4w16b10y8b10y8-b202060-g285800-rc80000-we8ccb8-ye8c000/)|
-|![Aelfleda Arisaid (Personal) example sett](/setts/s13/y8b10y8b10w16g4w48r4w16b10y8b10y8-b202060-g285800-rc80000-we8ccb8-ye8c000/sett.png)|
+| [Aelfleda Arisaid (Personal)](/setts/s13/y4b5y4b5w8g2w24r2w8b5y4b5y4~b2c2c80-g006400-rff0000-wf9f5ef-yffd700~x2/)|
+|![Aelfleda Arisaid (Personal) example sett](/setts/s13/y4b5y4b5w8g2w24r2w8b5y4b5y4~b2c2c80-g006400-rff0000-wf9f5ef-yffd700~x2/sett.png)|
+| [Aelfleda Arisaid (Personal)](/setts/s13/y4b5y4b5w8g2w24r2w8b5y4b5y4~b202060-g285800-rc80000-we8ccb8-ye8c000~x2/)|
+|![Aelfleda Arisaid (Personal) example sett](/setts/s13/y4b5y4b5w8g2w24r2w8b5y4b5y4~b202060-g285800-rc80000-we8ccb8-ye8c000~x2/sett.png)|

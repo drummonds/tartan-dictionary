@@ -16,5 +16,5 @@ GGGGGKGGGYGGG
 
 | Tartans |
 |---------------|
-| [O'Neill, Martin](/setts/s13/g48ga4g8ga32g2k4g2ga32g6y2g24gb4g10-g006400-ga008b00-gb737373-k000000-yffe600/)|
-|![O'Neill, Martin example sett](/setts/s13/g48ga4g8ga32g2k4g2ga32g6y2g24gb4g10-g006400-ga008b00-gb737373-k000000-yffe600/sett.png)|
+| [O'Neill, Martin](/setts/s13/g24ga2g4ga16g1k2g1ga16g3y1g12gb2g5~g006400-ga008b00-gb737373-k000000-yffe600~x2/)|
+|![O'Neill, Martin example sett](/setts/s13/g24ga2g4ga16g1k2g1ga16g3y1g12gb2g5~g006400-ga008b00-gb737373-k000000-yffe600~x2/sett.png)|

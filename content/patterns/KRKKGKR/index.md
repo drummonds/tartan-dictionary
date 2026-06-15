@@ -6,7 +6,7 @@ KRKKGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k3r6k32ka36g36ka4ra3-g003000-k000030-ka000000-r806050-rac00020/tartan.png)
+![Woven sample](/setts/s7/k3r6k32ka36g36ka4ra3~g003000-k000030-ka000000-r806050-rac00020/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKKGKR
 
 | Tartans |
 |---------------|
-| [McEwan "1856", The](/setts/s7/k3r6k32ka36g36ka4ra3-g003000-k000030-ka000000-r806050-rac00020/)|
-|![McEwan "1856", The example sett](/setts/s7/k3r6k32ka36g36ka4ra3-g003000-k000030-ka000000-r806050-rac00020/sett.png)|
+| [McEwan "1856", The](/setts/s7/k3r6k32ka36g36ka4ra3~g003000-k000030-ka000000-r806050-rac00020/)|
+|![McEwan "1856", The example sett](/setts/s7/k3r6k32ka36g36ka4ra3~g003000-k000030-ka000000-r806050-rac00020/sett.png)|

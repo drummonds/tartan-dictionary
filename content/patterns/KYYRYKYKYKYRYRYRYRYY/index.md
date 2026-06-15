@@ -16,5 +16,5 @@ KYYRYKYKYKYRYRYRYRYY
 
 | Tartans |
 |---------------|
-| [Highland Aircraft](/setts/s20/k4y8ya10r4ya2k2ya4k24ya4k2ya4r12y14r6ya24r2ya8r2ya24y2-k101010-rb84c00-ydc943c-yad87c00/)|
-|![Highland Aircraft example sett](/setts/s20/k4y8ya10r4ya2k2ya4k24ya4k2ya4r12y14r6ya24r2ya8r2ya24y2-k101010-rb84c00-ydc943c-yad87c00/sett.png)|
+| [Highland Aircraft](/setts/s20/k2y4ya5r2ya1k1ya2k12ya2k1ya2r6y7r3ya12r1ya4r1ya12y1~k101010-rb84c00-ydc943c-yad87c00~x2/)|
+|![Highland Aircraft example sett](/setts/s20/k2y4ya5r2ya1k1ya2k12ya2k1ya2r6y7r3ya12r1ya4r1ya12y1~k101010-rb84c00-ydc943c-yad87c00~x2/sett.png)|

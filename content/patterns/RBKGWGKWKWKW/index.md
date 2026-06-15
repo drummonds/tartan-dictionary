@@ -16,5 +16,5 @@ RBKGWGKWKWKW
 
 | Tartans |
 |---------------|
-| [Davidson of Tulloch Dress](/setts/s12/r4b10k10g10w4g10k10w4k4w8k4w4-b00008c-g004c00-k000000-r8c0000-wc8c8c8/)|
-|![Davidson of Tulloch Dress example sett](/setts/s12/r4b10k10g10w4g10k10w4k4w8k4w4-b00008c-g004c00-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Davidson of Tulloch Dress](/setts/s12/r2b5k5g5w2g5k5w2k2w4k2w2~b00008c-g004c00-k000000-r8c0000-wc8c8c8~x2/)|
+|![Davidson of Tulloch Dress example sett](/setts/s12/r2b5k5g5w2g5k5w2k2w4k2w2~b00008c-g004c00-k000000-r8c0000-wc8c8c8~x2/sett.png)|

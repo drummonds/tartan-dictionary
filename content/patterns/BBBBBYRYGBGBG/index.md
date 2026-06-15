@@ -16,5 +16,5 @@ BBBBBYRYGBGBG
 
 | Tartans |
 |---------------|
-| [McCulloch, Grant (Personal)](/setts/s13/b24ba4b4ba4b12y8r4y8g12ba4g4ba4g24-b5c748c-ba2c2c80-g5c6428-rc80000-ya0a0a0/)|
-|![McCulloch, Grant (Personal) example sett](/setts/s13/b24ba4b4ba4b12y8r4y8g12ba4g4ba4g24-b5c748c-ba2c2c80-g5c6428-rc80000-ya0a0a0/sett.png)|
+| [McCulloch, Grant (Personal)](/setts/s13/b6ba1b1ba1b3y2r1y2g3ba1g1ba1g6~b5c748c-ba2c2c80-g5c6428-rc80000-ya0a0a0~x4/)|
+|![McCulloch, Grant (Personal) example sett](/setts/s13/b6ba1b1ba1b3y2r1y2g3ba1g1ba1g6~b5c748c-ba2c2c80-g5c6428-rc80000-ya0a0a0~x4/sett.png)|

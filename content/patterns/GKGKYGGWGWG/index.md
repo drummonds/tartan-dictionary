@@ -16,5 +16,5 @@ GKGKYGGWGWG
 
 | Tartans |
 |---------------|
-| [Parkhead](/setts/s11/g4k4g36k28y4g20ga16w8ga4w4g4-g006818-ga289c18-k101010-wfcfcfc-ye8c000/)|
-|![Parkhead example sett](/setts/s11/g4k4g36k28y4g20ga16w8ga4w4g4-g006818-ga289c18-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Parkhead](/setts/s11/g1k1g9k7y1g5ga4w2ga1w1g1~g006818-ga289c18-k101010-wfcfcfc-ye8c000~x4/)|
+|![Parkhead example sett](/setts/s11/g1k1g9k7y1g5ga4w2ga1w1g1~g006818-ga289c18-k101010-wfcfcfc-ye8c000~x4/sett.png)|

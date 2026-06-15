@@ -16,5 +16,5 @@ BRGKGRKRKRGKGRBR
 
 | Tartans |
 |---------------|
-| [Oriel #1](/setts/s16/r24b4r6g40k8g40r60k4r2k4r60g40k8g40r6b4-b2c2c80-g006818-k101010-rc80000/)|
-|![Oriel #1 example sett](/setts/s16/r24b4r6g40k8g40r60k4r2k4r60g40k8g40r6b4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Oriel #1](/setts/s16/r12b2r3g20k4g20r30k2r1k2r30g20k4g20r3b2~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Oriel #1 example sett](/setts/s16/r12b2r3g20k4g20r30k2r1k2r30g20k4g20r3b2~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

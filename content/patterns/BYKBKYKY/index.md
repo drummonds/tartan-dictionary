@@ -6,7 +6,7 @@ BYKBKYKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b20y4k4b2k36y2k90y4-b1474b4-k101010-ya0a0a0/tartan.png)
+![Woven sample](/setts/s8/b10y2k2b1k18y1k45y2~b1474b4-k101010-ya0a0a0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYKBKYKY
 
 | Tartans |
 |---------------|
-| [Downs (Name)](/setts/s8/b20y4k4b2k36y2k90y4-b1474b4-k101010-ya0a0a0/)|
-|![Downs (Name) example sett](/setts/s8/b20y4k4b2k36y2k90y4-b1474b4-k101010-ya0a0a0/sett.png)|
+| [Downs (Name)](/setts/s8/b10y2k2b1k18y1k45y2~b1474b4-k101010-ya0a0a0~x2/)|
+|![Downs (Name) example sett](/setts/s8/b10y2k2b1k18y1k45y2~b1474b4-k101010-ya0a0a0~x2/sett.png)|

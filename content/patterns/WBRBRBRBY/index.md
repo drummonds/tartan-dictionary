@@ -16,5 +16,5 @@ WBRBRBRBY
 
 | Tartans |
 |---------------|
-| [Louisville Fire & Rescue P&D](/setts/s9/w4b32r12b8r4b8r12b32y4-b2c2c80-rc80000-we0e0e0-ybc8c00/)|
-|![Louisville Fire & Rescue P&D example sett](/setts/s9/w4b32r12b8r4b8r12b32y4-b2c2c80-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Louisville Fire & Rescue P&D](/setts/s9/w1b8r3b2r1b2r3b8y1~b2c2c80-rc80000-we0e0e0-ybc8c00~x4/)|
+|![Louisville Fire & Rescue P&D example sett](/setts/s9/w1b8r3b2r1b2r3b8y1~b2c2c80-rc80000-we0e0e0-ybc8c00~x4/sett.png)|

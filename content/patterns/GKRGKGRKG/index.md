@@ -16,5 +16,5 @@ GKRGKGRKG
 
 | Tartans |
 |---------------|
-| [Montrose (Graham)](/setts/s9/g8k8r64ga64k48g32r64k8g8-g789484-ga003820-k101010-rc80000/)|
-|![Montrose (Graham) example sett](/setts/s9/g8k8r64ga64k48g32r64k8g8-g789484-ga003820-k101010-rc80000/sett.png)|
+| [Montrose (Graham)](/setts/s9/g1k1r8ga8k6g4r8k1g1~g789484-ga003820-k101010-rc80000~x8/)|
+|![Montrose (Graham) example sett](/setts/s9/g1k1r8ga8k6g4r8k1g1~g789484-ga003820-k101010-rc80000~x8/sett.png)|

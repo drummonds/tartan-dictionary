@@ -16,5 +16,5 @@ KRWRKRGRGWBKW
 
 | Tartans |
 |---------------|
-| [Peacock (Personal)](/setts/s13/w8k4b8wa4g16r4g16r12k12r48wa4r8k4-b1474b4-g285800-k101010-rc80000-wfcfcfc-wa98c8e8/)|
-|![Peacock (Personal) example sett](/setts/s13/w8k4b8wa4g16r4g16r12k12r48wa4r8k4-b1474b4-g285800-k101010-rc80000-wfcfcfc-wa98c8e8/sett.png)|
+| [Peacock (Personal)](/setts/s13/w2k1b2wa1g4r1g4r3k3r12wa1r2k1~b1474b4-g285800-k101010-rc80000-wfcfcfc-wa98c8e8~x4/)|
+|![Peacock (Personal) example sett](/setts/s13/w2k1b2wa1g4r1g4r3k3r12wa1r2k1~b1474b4-g285800-k101010-rc80000-wfcfcfc-wa98c8e8~x4/sett.png)|

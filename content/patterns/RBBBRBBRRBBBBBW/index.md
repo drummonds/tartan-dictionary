@@ -16,5 +16,5 @@ RBBBRBBRRBBBBBW
 
 | Tartans |
 |---------------|
-| [Northfield Academy](/setts/s15/r4b2ba4b4ra2ba24b4ra2rb20b56ba2b6ba4b6w2-b14283c-ba2474e8-r888888-raff0000-rb901c38-wffffff/)|
-|![Northfield Academy example sett](/setts/s15/r4b2ba4b4ra2ba24b4ra2rb20b56ba2b6ba4b6w2-b14283c-ba2474e8-r888888-raff0000-rb901c38-wffffff/sett.png)|
+| [Northfield Academy](/setts/s15/r2b1ba2b2ra1ba12b2ra1rb10b28ba1b3ba2b3w1~b14283c-ba2474e8-r888888-raff0000-rb901c38-wffffff~x2/)|
+|![Northfield Academy example sett](/setts/s15/r2b1ba2b2ra1ba12b2ra1rb10b28ba1b3ba2b3w1~b14283c-ba2474e8-r888888-raff0000-rb901c38-wffffff~x2/sett.png)|

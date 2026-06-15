@@ -6,7 +6,7 @@ KYKYWRYR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k8y4k26y2w16r26y4r8-k101010-r888888-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k4y2k13y1w8r13y2r4~k101010-r888888-wfcfcfc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KYKYWRYR
 
 | Tartans |
 |---------------|
-| [Bannockbane Grey #1](/setts/s8/k8y4k26y2w16r26y4r8-k101010-r888888-wfcfcfc-ye8c000/)|
-|![Bannockbane Grey #1 example sett](/setts/s8/k8y4k26y2w16r26y4r8-k101010-r888888-wfcfcfc-ye8c000/sett.png)|
-| [Bannockbane, Light Tan](/setts/s8/k8y4k26y2w16r26y4r8-k000000-r906030-we0e0e0-yf0c000/)|
-|![Bannockbane, Light Tan example sett](/setts/s8/k8y4k26y2w16r26y4r8-k000000-r906030-we0e0e0-yf0c000/sett.png)|
+| [Bannockbane Grey #1](/setts/s8/k4y2k13y1w8r13y2r4~k101010-r888888-wfcfcfc-ye8c000~x2/)|
+|![Bannockbane Grey #1 example sett](/setts/s8/k4y2k13y1w8r13y2r4~k101010-r888888-wfcfcfc-ye8c000~x2/sett.png)|
+| [Bannockbane, Light Tan](/setts/s8/k4y2k13y1w8r13y2r4~k000000-r906030-we0e0e0-yf0c000~x2/)|
+|![Bannockbane, Light Tan example sett](/setts/s8/k4y2k13y1w8r13y2r4~k000000-r906030-we0e0e0-yf0c000~x2/sett.png)|

@@ -16,5 +16,5 @@ RRRBRGWGWGW
 
 | Tartans |
 |---------------|
-| [Isle of Skye (District)](/setts/s11/w48g6w6g6w6g20r24b24r24r4r6-b440044-g003820-r8c5c00-wc0c0c0/)|
-|![Isle of Skye (District) example sett](/setts/s11/w48g6w6g6w6g20r24b24r24r4r6-b440044-g003820-r8c5c00-wc0c0c0/sett.png)|
+| [Isle of Skye (District)](/setts/s11/w24g3w3g3w3g10r12b12r12r2r3~b440044-g003820-r8c5c00-wc0c0c0~x2/)|
+|![Isle of Skye (District) example sett](/setts/s11/w24g3w3g3w3g10r12b12r12r2r3~b440044-g003820-r8c5c00-wc0c0c0~x2/sett.png)|

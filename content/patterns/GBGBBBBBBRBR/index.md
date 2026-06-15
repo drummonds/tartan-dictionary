@@ -16,5 +16,5 @@ GBGBBBBBBRBR
 
 | Tartans |
 |---------------|
-| [Clydebank (Fashion)](/setts/s12/g4b6g2b30ba6b18ba18b4ba32r2ba6r4-b145c88-ba6c28b8-g289c18-rc80000/)|
-|![Clydebank (Fashion) example sett](/setts/s12/g4b6g2b30ba6b18ba18b4ba32r2ba6r4-b145c88-ba6c28b8-g289c18-rc80000/sett.png)|
+| [Clydebank (Fashion)](/setts/s12/g2b3g1b15ba3b9ba9b2ba16r1ba3r2~b145c88-ba6c28b8-g289c18-rc80000~x2/)|
+|![Clydebank (Fashion) example sett](/setts/s12/g2b3g1b15ba3b9ba9b2ba16r1ba3r2~b145c88-ba6c28b8-g289c18-rc80000~x2/sett.png)|

@@ -16,5 +16,5 @@ KYKWYKYWKYK
 
 | Tartans |
 |---------------|
-| [Oregon State University (Corporate)](/setts/s11/k12y16k26w2y22k2y22w8k4y2k4-k101010-wf8f8f8-yd87c00/)|
-|![Oregon State University (Corporate) example sett](/setts/s11/k12y16k26w2y22k2y22w8k4y2k4-k101010-wf8f8f8-yd87c00/sett.png)|
+| [Oregon State University (Corporate)](/setts/s11/k6y8k13w1y11k1y11w4k2y1k2~k101010-wf8f8f8-yd87c00~x2/)|
+|![Oregon State University (Corporate) example sett](/setts/s11/k6y8k13w1y11k1y11w4k2y1k2~k101010-wf8f8f8-yd87c00~x2/sett.png)|

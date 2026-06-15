@@ -16,5 +16,5 @@ KYWRWRWRW
 
 | Tartans |
 |---------------|
-| [Fueglistal](/setts/s9/k6y12w26r4w4r64w2r4w2-k101010-rc80000-wc0c0c0-ybc8c00/)|
-|![Fueglistal example sett](/setts/s9/k6y12w26r4w4r64w2r4w2-k101010-rc80000-wc0c0c0-ybc8c00/sett.png)|
+| [Fueglistal](/setts/s9/k3y6w13r2w2r32w1r2w1~k101010-rc80000-wc0c0c0-ybc8c00~x2/)|
+|![Fueglistal example sett](/setts/s9/k3y6w13r2w2r32w1r2w1~k101010-rc80000-wc0c0c0-ybc8c00~x2/sett.png)|

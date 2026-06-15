@@ -6,7 +6,7 @@ GRWRGRKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r12k8r12g48r12w4r4g4-g006818-k101010-r880000-wffffff/tartan.png)
+![Woven sample](/setts/s8/r3k2r3g12r3w1r1g1~g006818-k101010-r880000-wffffff~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWRGRKR
 
 | Tartans |
 |---------------|
-| [MacCall/McCall](/setts/s8/r12k8r12g48r12w4r4g4-g006818-k101010-r880000-wffffff/)|
-|![MacCall/McCall example sett](/setts/s8/r12k8r12g48r12w4r4g4-g006818-k101010-r880000-wffffff/sett.png)|
+| [MacCall/McCall](/setts/s8/r3k2r3g12r3w1r1g1~g006818-k101010-r880000-wffffff~x4/)|
+|![MacCall/McCall example sett](/setts/s8/r3k2r3g12r3w1r1g1~g006818-k101010-r880000-wffffff~x4/sett.png)|

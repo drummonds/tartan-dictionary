@@ -6,7 +6,7 @@ KBBGYGK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k24g16y2ga26b2ba62k16-b5c8ca8-ba202060-g006818-ga003820-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s7/k12g8y1ga13b1ba31k8~b5c8ca8-ba202060-g006818-ga003820-k101010-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBBGYGK
 
 | Tartans |
 |---------------|
-| [Chesters, Eric (Personal)](/setts/s7/k24g16y2ga26b2ba62k16-b5c8ca8-ba202060-g006818-ga003820-k101010-ye8c000/)|
-|![Chesters, Eric (Personal) example sett](/setts/s7/k24g16y2ga26b2ba62k16-b5c8ca8-ba202060-g006818-ga003820-k101010-ye8c000/sett.png)|
+| [Chesters, Eric (Personal)](/setts/s7/k12g8y1ga13b1ba31k8~b5c8ca8-ba202060-g006818-ga003820-k101010-ye8c000~x2/)|
+|![Chesters, Eric (Personal) example sett](/setts/s7/k12g8y1ga13b1ba31k8~b5c8ca8-ba202060-g006818-ga003820-k101010-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKRWBWRKRKRKGKGKGY
 
 | Tartans |
 |---------------|
-| [Princess Beatrice Dress (1880)](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/)|
-|![Princess Beatrice Dress (1880) example sett](/setts/s19/k6r2k4r4w40b6w6r16k4r4k4r4k16g4k4g4k4g16y4-b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000/sett.png)|
+| [Princess Beatrice Dress (1880)](/setts/s19/k3r1k2r2w20b3w3r8k2r2k2r2k8g2k2g2k2g8y2~b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000~x2/)|
+|![Princess Beatrice Dress (1880) example sett](/setts/s19/k3r1k2r2w20b3w3r8k2r2k2r2k8g2k2g2k2g8y2~b2c2c80-g006818-k101010-rc80000-wf8f4d0-ye8c000~x2/sett.png)|

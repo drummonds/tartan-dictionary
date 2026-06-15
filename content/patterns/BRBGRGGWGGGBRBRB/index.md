@@ -16,5 +16,5 @@ BRBGRGGWGGGBRBRB
 
 | Tartans |
 |---------------|
-| [Forbes, of Druminnor](/setts/s16/b12r4b4r4b4g12ga16g2w4g2ga16r4g8b16r4b4-b304080-g402000-ga008000-r703000-we0e0e0/)|
-|![Forbes, of Druminnor example sett](/setts/s16/b12r4b4r4b4g12ga16g2w4g2ga16r4g8b16r4b4-b304080-g402000-ga008000-r703000-we0e0e0/sett.png)|
+| [Forbes, of Druminnor](/setts/s16/b6r2b2r2b2g6ga8g1w2g1ga8r2g4b8r2b2~b304080-g402000-ga008000-r703000-we0e0e0~x2/)|
+|![Forbes, of Druminnor example sett](/setts/s16/b6r2b2r2b2g6ga8g1w2g1ga8r2g4b8r2b2~b304080-g402000-ga008000-r703000-we0e0e0~x2/sett.png)|

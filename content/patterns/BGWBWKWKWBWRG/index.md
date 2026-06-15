@@ -16,5 +16,5 @@ BGWBWKWKWBWRG
 
 | Tartans |
 |---------------|
-| [Gibbs/Gibson](/setts/s13/b4g64w4ba8w8k16w8k16w8ba8w4r64g4-b5c8ca8-ba2c2c80-g285800-k000000-rc80000-wfcfcfc/)|
-|![Gibbs/Gibson example sett](/setts/s13/b4g64w4ba8w8k16w8k16w8ba8w4r64g4-b5c8ca8-ba2c2c80-g285800-k000000-rc80000-wfcfcfc/sett.png)|
+| [Gibbs/Gibson](/setts/s13/b1g16w1ba2w2k4w2k4w2ba2w1r16g1~b5c8ca8-ba2c2c80-g285800-k000000-rc80000-wfcfcfc~x4/)|
+|![Gibbs/Gibson example sett](/setts/s13/b1g16w1ba2w2k4w2k4w2ba2w1r16g1~b5c8ca8-ba2c2c80-g285800-k000000-rc80000-wfcfcfc~x4/sett.png)|

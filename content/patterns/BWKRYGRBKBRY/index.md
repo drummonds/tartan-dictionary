@@ -16,5 +16,5 @@ BWKRYGRBKBRY
 
 | Tartans |
 |---------------|
-| [Wren (Name)](/setts/s12/b12w4k4r12y4g24r12ba6k6ba6r56y8-b2c2c80-ba5c8ca8-g289c18-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Wren (Name) example sett](/setts/s12/b12w4k4r12y4g24r12ba6k6ba6r56y8-b2c2c80-ba5c8ca8-g289c18-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Wren (Name)](/setts/s12/b6w2k2r6y2g12r6ba3k3ba3r28y4~b2c2c80-ba5c8ca8-g289c18-k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Wren (Name) example sett](/setts/s12/b6w2k2r6y2g12r6ba3k3ba3r28y4~b2c2c80-ba5c8ca8-g289c18-k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

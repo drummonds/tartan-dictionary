@@ -16,5 +16,5 @@ BRBRKGRGRGY
 
 | Tartans |
 |---------------|
-| [MacDonell of Glengarry](/setts/s11/b16r8b24r2k24g24r6g4r2g8y2-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacDonell of Glengarry example sett](/setts/s11/b16r8b24r2k24g24r6g4r2g8y2-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacDonell of Glengarry](/setts/s11/b8r4b12r1k12g12r3g2r1g4y1~b000052-g11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![MacDonell of Glengarry example sett](/setts/s11/b8r4b12r1k12g12r3g2r1g4y1~b000052-g11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|

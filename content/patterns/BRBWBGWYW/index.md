@@ -16,5 +16,5 @@ BRBWBGWYW
 
 | Tartans |
 |---------------|
-| [Guszcza, The (Personal)](/setts/s9/b56r4b6w4b34g16wa32y6wa6-b505050-g808080-rdc0000-we0e0e0-wac0c0c0-ybe9650/)|
-|![Guszcza, The (Personal) example sett](/setts/s9/b56r4b6w4b34g16wa32y6wa6-b505050-g808080-rdc0000-we0e0e0-wac0c0c0-ybe9650/sett.png)|
+| [Guszcza, The (Personal)](/setts/s9/b28r2b3w2b17g8wa16y3wa3~b505050-g808080-rdc0000-we0e0e0-wac0c0c0-ybe9650~x2/)|
+|![Guszcza, The (Personal) example sett](/setts/s9/b28r2b3w2b17g8wa16y3wa3~b505050-g808080-rdc0000-we0e0e0-wac0c0c0-ybe9650~x2/sett.png)|

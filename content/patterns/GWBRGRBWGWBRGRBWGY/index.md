@@ -16,5 +16,5 @@ GWBRGRBWGWBRGRBWGY
 
 | Tartans |
 |---------------|
-| [Seattle](/setts/s18/g56w4b8r4g4r4b8w4g16w4b8r4g4r4b8w4g56y4-b1c0070-g006818-re87878-wc0c0c0-yd09800/)|
-|![Seattle example sett](/setts/s18/g56w4b8r4g4r4b8w4g16w4b8r4g4r4b8w4g56y4-b1c0070-g006818-re87878-wc0c0c0-yd09800/sett.png)|
+| [Seattle](/setts/s18/g14w1b2r1g1r1b2w1g4w1b2r1g1r1b2w1g14y1~b1c0070-g006818-re87878-wc0c0c0-yd09800~x4/)|
+|![Seattle example sett](/setts/s18/g14w1b2r1g1r1b2w1g4w1b2r1g1r1b2w1g14y1~b1c0070-g006818-re87878-wc0c0c0-yd09800~x4/sett.png)|

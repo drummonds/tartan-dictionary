@@ -16,7 +16,7 @@ RWRWRWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [d'Andeville, Xavier (Personal)](/setts/s14/r26w18r26w32r20w4k2w4k2w4k2w4k2w4-k1c1714-rff0000-wf9f5ef/)|
-|![d'Andeville, Xavier (Personal) example sett](/setts/s14/r26w18r26w32r20w4k2w4k2w4k2w4k2w4-k1c1714-rff0000-wf9f5ef/sett.png)|
-| [D'Andeville, Xavier (Personal)](/setts/s14/r26w18r26w32r20w4k2w4k2w4k2w4k2w4-k101010-rc80000-wf8f8f8/)|
-|![D'Andeville, Xavier (Personal) example sett](/setts/s14/r26w18r26w32r20w4k2w4k2w4k2w4k2w4-k101010-rc80000-wf8f8f8/sett.png)|
+| [d'Andeville, Xavier (Personal)](/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~k1c1714-rff0000-wf9f5ef~x2/)|
+|![d'Andeville, Xavier (Personal) example sett](/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~k1c1714-rff0000-wf9f5ef~x2/sett.png)|
+| [D'Andeville, Xavier (Personal)](/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~k101010-rc80000-wf8f8f8~x2/)|
+|![D'Andeville, Xavier (Personal) example sett](/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~k101010-rc80000-wf8f8f8~x2/sett.png)|

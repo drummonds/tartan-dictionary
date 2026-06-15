@@ -16,5 +16,5 @@ GGRGGGRGRGRGRGRGRGRGRGRGRGGGRG
 
 | Tartans |
 |---------------|
-| [Sarna (Town)](/setts/s30/g14ga4r2ga4g4ga4r2ga22r10ga4r2ga4r4ga4r2ga26r2ga4r4ga4r2ga4r10ga22r2ga4g4ga4r2ga4-g006818-ga604000-rc80000/)|
-|![Sarna (Town) example sett](/setts/s30/g14ga4r2ga4g4ga4r2ga22r10ga4r2ga4r4ga4r2ga26r2ga4r4ga4r2ga4r10ga22r2ga4g4ga4r2ga4-g006818-ga604000-rc80000/sett.png)|
+| [Sarna (Town)](/setts/s30/g7ga2r1ga2g2ga2r1ga11r5ga2r1ga2r2ga2r1ga13r1ga2r2ga2r1ga2r5ga11r1ga2g2ga2r1ga2~g006818-ga604000-rc80000~x2/)|
+|![Sarna (Town) example sett](/setts/s30/g7ga2r1ga2g2ga2r1ga11r5ga2r1ga2r2ga2r1ga13r1ga2r2ga2r1ga2r5ga11r1ga2g2ga2r1ga2~g006818-ga604000-rc80000~x2/sett.png)|

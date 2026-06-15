@@ -16,7 +16,7 @@ BGWBWYWGBWBWY
 
 | Tartans |
 |---------------|
-| [Entrelacs](/setts/s13/b56g16w16b4w8y8w8g48b16w8b8w8y4-b2888c4-g003820-we0e0e0-ybc8c00/)|
-|![Entrelacs example sett](/setts/s13/b56g16w16b4w8y8w8g48b16w8b8w8y4-b2888c4-g003820-we0e0e0-ybc8c00/sett.png)|
-| [Entrelacs (District)](/setts/s13/b56g16w16b4w8y8w8g48b16w8b8w8y4-b2888c4-g007040-we0e0e0-ybc8c00/)|
-|![Entrelacs (District) example sett](/setts/s13/b56g16w16b4w8y8w8g48b16w8b8w8y4-b2888c4-g007040-we0e0e0-ybc8c00/sett.png)|
+| [Entrelacs](/setts/s13/b14g4w4b1w2y2w2g12b4w2b2w2y1~b2888c4-g003820-we0e0e0-ybc8c00~x4/)|
+|![Entrelacs example sett](/setts/s13/b14g4w4b1w2y2w2g12b4w2b2w2y1~b2888c4-g003820-we0e0e0-ybc8c00~x4/sett.png)|
+| [Entrelacs (District)](/setts/s13/b14g4w4b1w2y2w2g12b4w2b2w2y1~b2888c4-g007040-we0e0e0-ybc8c00~x4/)|
+|![Entrelacs (District) example sett](/setts/s13/b14g4w4b1w2y2w2g12b4w2b2w2y1~b2888c4-g007040-we0e0e0-ybc8c00~x4/sett.png)|

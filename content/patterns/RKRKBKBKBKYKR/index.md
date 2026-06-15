@@ -16,5 +16,5 @@ RKRKBKBKBKYKR
 
 | Tartans |
 |---------------|
-| [Edinburgh Castle (Corporate?)](/setts/s13/r4k8r4k44b2k6b2k6b2k44y2k16r2-b5c5c5c-k101010-r880000-ye8c000/)|
-|![Edinburgh Castle (Corporate?) example sett](/setts/s13/r4k8r4k44b2k6b2k6b2k44y2k16r2-b5c5c5c-k101010-r880000-ye8c000/sett.png)|
+| [Edinburgh Castle (Corporate?)](/setts/s13/r2k4r2k22b1k3b1k3b1k22y1k8r1~b5c5c5c-k101010-r880000-ye8c000~x2/)|
+|![Edinburgh Castle (Corporate?) example sett](/setts/s13/r2k4r2k22b1k3b1k3b1k22y1k8r1~b5c5c5c-k101010-r880000-ye8c000~x2/sett.png)|

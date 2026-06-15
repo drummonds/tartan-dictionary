@@ -16,5 +16,5 @@ GWKWKGKYKRGKGKGKGKR
 
 | Tartans |
 |---------------|
-| [Douglas, Ancient dress](/setts/s19/r12k12g2k12g2k4g10k2g10r6k4y6k4g6k16w22k4w8g4-g808080-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Douglas, Ancient dress example sett](/setts/s19/r12k12g2k12g2k4g10k2g10r6k4y6k4g6k16w22k4w8g4-g808080-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Douglas, Ancient dress](/setts/s19/r6k6g1k6g1k2g5k1g5r3k2y3k2g3k8w11k2w4g2~g808080-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Douglas, Ancient dress example sett](/setts/s19/r6k6g1k6g1k2g5k1g5r3k2y3k2g3k8w11k2w4g2~g808080-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

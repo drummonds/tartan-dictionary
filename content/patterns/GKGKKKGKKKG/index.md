@@ -16,5 +16,5 @@ GKGKKKGKKKG
 
 | Tartans |
 |---------------|
-| [Laggen Dress (Fashion)](/setts/s11/g84k20g4k4k4k4g20k12k4k6g4-g648860-k000000/)|
-|![Laggen Dress (Fashion) example sett](/setts/s11/g84k20g4k4k4k4g20k12k4k6g4-g648860-k000000/sett.png)|
+| [Laggen Dress (Fashion)](/setts/s11/g42k10g2k2k2k2g10k6k2k3g2~g648860-k000000~x2/)|
+|![Laggen Dress (Fashion) example sett](/setts/s11/g42k10g2k2k2k2g10k6k2k3g2~g648860-k000000~x2/sett.png)|

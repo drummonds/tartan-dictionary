@@ -16,5 +16,5 @@ RBKBRBRRBKR
 
 | Tartans |
 |---------------|
-| [Brodie, Graeme (Personal)](/setts/s11/r4b4k74b6ra4b6rb2ra8b8k38ra2-b4c2424-k101010-r888888-ra880000-rbc80000/)|
-|![Brodie, Graeme (Personal) example sett](/setts/s11/r4b4k74b6ra4b6rb2ra8b8k38ra2-b4c2424-k101010-r888888-ra880000-rbc80000/sett.png)|
+| [Brodie, Graeme (Personal)](/setts/s11/r2b2k37b3ra2b3rb1ra4b4k19ra1~b4c2424-k101010-r888888-ra880000-rbc80000~x2/)|
+|![Brodie, Graeme (Personal) example sett](/setts/s11/r2b2k37b3ra2b3rb1ra4b4k19ra1~b4c2424-k101010-r888888-ra880000-rbc80000~x2/sett.png)|

@@ -6,7 +6,7 @@ GRGRKGBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g124r6g6r62k8ga10b10ra6-b2888c4-g006818-ga289c18-k101010-r888888-rac80000/tartan.png)
+![Woven sample](/setts/s8/g62r3g3r31k4ga5b5ra3~b2888c4-g006818-ga289c18-k101010-r888888-rac80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRKGBR
 
 | Tartans |
 |---------------|
-| [Sheffield, City of (District)](/setts/s8/g124r6g6r62k8ga10b10ra6-b2888c4-g006818-ga289c18-k101010-r888888-rac80000/)|
-|![Sheffield, City of (District) example sett](/setts/s8/g124r6g6r62k8ga10b10ra6-b2888c4-g006818-ga289c18-k101010-r888888-rac80000/sett.png)|
+| [Sheffield, City of (District)](/setts/s8/g62r3g3r31k4ga5b5ra3~b2888c4-g006818-ga289c18-k101010-r888888-rac80000~x2/)|
+|![Sheffield, City of (District) example sett](/setts/s8/g62r3g3r31k4ga5b5ra3~b2888c4-g006818-ga289c18-k101010-r888888-rac80000~x2/sett.png)|

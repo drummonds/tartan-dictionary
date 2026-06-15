@@ -16,5 +16,5 @@ WGBKBKWKWKWY
 
 | Tartans |
 |---------------|
-| [MacDowall](/setts/s12/w6g28b6k14b96k14w6k6w6k6w24y6-b506878-g006818-k101010-we0e0e0-ye8c000/)|
-|![MacDowall example sett](/setts/s12/w6g28b6k14b96k14w6k6w6k6w24y6-b506878-g006818-k101010-we0e0e0-ye8c000/sett.png)|
+| [MacDowall](/setts/s12/w3g14b3k7b48k7w3k3w3k3w12y3~b506878-g006818-k101010-we0e0e0-ye8c000~x2/)|
+|![MacDowall example sett](/setts/s12/w3g14b3k7b48k7w3k3w3k3w12y3~b506878-g006818-k101010-we0e0e0-ye8c000~x2/sett.png)|

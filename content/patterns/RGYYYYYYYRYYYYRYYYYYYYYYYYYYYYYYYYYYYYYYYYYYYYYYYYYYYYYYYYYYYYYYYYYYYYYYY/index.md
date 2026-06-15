@@ -16,5 +16,5 @@ RGYYYYYYYRYYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 
 | Tartans |
 |---------------|
-| [Unidentified (2013)](/setts/s73/r10g20y2ya2y2ya2y2ya2y2r18y2y2ya2y2r14y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2-g003820-rc80000--h1c79169f2d6e02ff/)|
-|![Unidentified (2013) example sett](/setts/s73/r10g20y2ya2y2ya2y2ya2y2r18y2y2ya2y2r14y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2y2ya2-g003820-rc80000--h1c79169f2d6e02ff/sett.png)|
+| [Unidentified (2013)](/setts/s73/r5g10y1ya1y1ya1y1ya1y1r9y1y1ya1y1r7y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1~g003820-rc80000-ydc-ha0efd47988a17da8/)|
+|![Unidentified (2013) example sett](/setts/s73/r5g10y1ya1y1ya1y1ya1y1r9y1y1ya1y1r7y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1y1ya1~g003820-rc80000-ydc-ha0efd47988a17da8/sett.png)|

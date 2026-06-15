@@ -16,5 +16,5 @@ WBBWBWBWBWBWBWBY
 
 | Tartans |
 |---------------|
-| [Ryder Cup, The](/setts/s16/w6b42ba16wa2ba8wa2ba6wa4ba4wa4ba2wa6ba2wa24bb10y6-b003c64-ba3c82af-bb1c0070-wffffff-wa82cffd-yffd700/)|
-|![Ryder Cup, The example sett](/setts/s16/w6b42ba16wa2ba8wa2ba6wa4ba4wa4ba2wa6ba2wa24bb10y6-b003c64-ba3c82af-bb1c0070-wffffff-wa82cffd-yffd700/sett.png)|
+| [Ryder Cup, The](/setts/s16/w3b21ba8wa1ba4wa1ba3wa2ba2wa2ba1wa3ba1wa12bb5y3~b003c64-ba3c82af-bb1c0070-wffffff-wa82cffd-yffd700~x2/)|
+|![Ryder Cup, The example sett](/setts/s16/w3b21ba8wa1ba4wa1ba3wa2ba2wa2ba1wa3ba1wa12bb5y3~b003c64-ba3c82af-bb1c0070-wffffff-wa82cffd-yffd700~x2/sett.png)|

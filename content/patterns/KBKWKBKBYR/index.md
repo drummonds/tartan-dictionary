@@ -16,5 +16,5 @@ KBKWKBKBYR
 
 | Tartans |
 |---------------|
-| [Estonian National Tartan (District)](/setts/s10/k106b6k4w2k4b6k10b64y2r6-b1870a4-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Estonian National Tartan (District) example sett](/setts/s10/k106b6k4w2k4b6k10b64y2r6-b1870a4-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Estonian National Tartan (District)](/setts/s10/k53b3k2w1k2b3k5b32y1r3~b1870a4-k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Estonian National Tartan (District) example sett](/setts/s10/k53b3k2w1k2b3k5b32y1r3~b1870a4-k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

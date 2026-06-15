@@ -6,7 +6,7 @@ KBGRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k10b8g48r42w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/k5b4g24r21w3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBGRW
 
 | Tartans |
 |---------------|
-| [Sachie Hara Scottish Check (Personal)](/setts/s5/k10b8g48r42w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Sachie Hara Scottish Check (Personal) example sett](/setts/s5/k10b8g48r42w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Sachie Hara Scottish Check (Personal)](/setts/s5/k5b4g24r21w3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Sachie Hara Scottish Check (Personal) example sett](/setts/s5/k5b4g24r21w3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

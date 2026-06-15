@@ -6,7 +6,7 @@ WGBGWW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w14g14b4g14w14wa2-b2c2c80-g006818-w00fcfc-wafcfcfc/tartan.png)
+![Woven sample](/setts/s6/w7g7b2g7w7wa1~b2c2c80-g006818-w00fcfc-wafcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGBGWW
 
 | Tartans |
 |---------------|
-| [Norwich No.078](/setts/s6/w14g14b4g14w14wa2-b2c2c80-g006818-w00fcfc-wafcfcfc/)|
-|![Norwich No.078 example sett](/setts/s6/w14g14b4g14w14wa2-b2c2c80-g006818-w00fcfc-wafcfcfc/sett.png)|
+| [Norwich No.078](/setts/s6/w7g7b2g7w7wa1~b2c2c80-g006818-w00fcfc-wafcfcfc~x2/)|
+|![Norwich No.078 example sett](/setts/s6/w7g7b2g7w7wa1~b2c2c80-g006818-w00fcfc-wafcfcfc~x2/sett.png)|

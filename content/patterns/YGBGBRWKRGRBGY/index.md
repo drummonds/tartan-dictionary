@@ -16,5 +16,5 @@ YGBGBRWKRGRBGY
 
 | Tartans |
 |---------------|
-| [West Virginia](/setts/s14/y8g8b16g16ba12r54w2k6r54g16r16b16g8y8-b2c2c80-ba5c8ca8-g006818-k101010-rc8002c-we0e0e0-ybc8c00/)|
-|![West Virginia example sett](/setts/s14/y8g8b16g16ba12r54w2k6r54g16r16b16g8y8-b2c2c80-ba5c8ca8-g006818-k101010-rc8002c-we0e0e0-ybc8c00/sett.png)|
+| [West Virginia](/setts/s14/y4g4b8g8ba6r27w1k3r27g8r8b8g4y4~b2c2c80-ba5c8ca8-g006818-k101010-rc8002c-we0e0e0-ybc8c00~x2/)|
+|![West Virginia example sett](/setts/s14/y4g4b8g8ba6r27w1k3r27g8r8b8g4y4~b2c2c80-ba5c8ca8-g006818-k101010-rc8002c-we0e0e0-ybc8c00~x2/sett.png)|

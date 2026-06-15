@@ -16,5 +16,5 @@ RKRKGKGKRKRKR
 
 | Tartans |
 |---------------|
-| [Brown, Watch](/setts/s13/r22k2r2k2r2k16g16k2g16k16r16k2r2-g008000-k000000-r806050/)|
-|![Brown, Watch example sett](/setts/s13/r22k2r2k2r2k16g16k2g16k16r16k2r2-g008000-k000000-r806050/sett.png)|
+| [Brown, Watch](/setts/s13/r11k1r1k1r1k8g8k1g8k8r8k1r1~g008000-k000000-r806050~x2/)|
+|![Brown, Watch example sett](/setts/s13/r11k1r1k1r1k8g8k1g8k8r8k1r1~g008000-k000000-r806050~x2/sett.png)|

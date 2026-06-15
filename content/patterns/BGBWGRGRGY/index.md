@@ -16,5 +16,5 @@ BGBWGRGRGY
 
 | Tartans |
 |---------------|
-| [MacConnell](/setts/s10/b40g12b12w4g40r16g12r8g20y6-b003c64-g003820-r880000-wa8ace8-yb8b8b8/)|
-|![MacConnell example sett](/setts/s10/b40g12b12w4g40r16g12r8g20y6-b003c64-g003820-r880000-wa8ace8-yb8b8b8/sett.png)|
+| [MacConnell](/setts/s10/b20g6b6w2g20r8g6r4g10y3~b003c64-g003820-r880000-wa8ace8-yb8b8b8~x2/)|
+|![MacConnell example sett](/setts/s10/b20g6b6w2g20r8g6r4g10y3~b003c64-g003820-r880000-wa8ace8-yb8b8b8~x2/sett.png)|

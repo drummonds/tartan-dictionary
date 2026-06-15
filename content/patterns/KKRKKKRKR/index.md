@@ -16,7 +16,7 @@ KKRKKKRKR
 
 | Tartans |
 |---------------|
-| [Arrol (Corporate)](/setts/s9/r8k16r16k16k4k16r16k16k4-k000000-r8c0000/)|
-|![Arrol (Corporate) example sett](/setts/s9/r8k16r16k16k4k16r16k16k4-k000000-r8c0000/sett.png)|
-| [Dupplin (Estate Check)](/setts/s9/k6k6r6k6k6k6r6k6r6-k000000-rc82800/)|
-|![Dupplin (Estate Check) example sett](/setts/s9/k6k6r6k6k6k6r6k6r6-k000000-rc82800/sett.png)|
+| [Arrol (Corporate)](/setts/s9/r2k4r4k4k1k4r4k4k1~k000000-r8c0000~x4/)|
+|![Arrol (Corporate) example sett](/setts/s9/r2k4r4k4k1k4r4k4k1~k000000-r8c0000~x4/sett.png)|
+| [Dupplin (Estate Check)](/setts/s9/k1k1r1k1k1k1r1k1r1~k000000-rc82800~x6/)|
+|![Dupplin (Estate Check) example sett](/setts/s9/k1k1r1k1k1k1r1k1r1~k000000-rc82800~x6/sett.png)|

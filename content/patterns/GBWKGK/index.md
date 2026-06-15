@@ -6,7 +6,7 @@ GBWKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8b30w4k32g38k8-b2c4084-g005020-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/g4b15w2k16g19k4~b2c4084-g005020-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBWKGK
 
 | Tartans |
 |---------------|
-| [Graham of Montrose](/setts/s6/g8b30w4k32g38k8-b2c4084-g005020-k101010-we0e0e0/)|
-|![Graham of Montrose example sett](/setts/s6/g8b30w4k32g38k8-b2c4084-g005020-k101010-we0e0e0/sett.png)|
-| [Graham of Montrose](/setts/s6/g8b30w4k32g38k8-b304080-g008000-k000000-we0e0e0/)|
-|![Graham of Montrose example sett](/setts/s6/g8b30w4k32g38k8-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Graham of Montrose](/setts/s6/g4b15w2k16g19k4~b2c4084-g005020-k101010-we0e0e0~x2/)|
+|![Graham of Montrose example sett](/setts/s6/g4b15w2k16g19k4~b2c4084-g005020-k101010-we0e0e0~x2/sett.png)|
+| [Graham of Montrose](/setts/s6/g4b15w2k16g19k4~b304080-g008000-k000000-we0e0e0~x2/)|
+|![Graham of Montrose example sett](/setts/s6/g4b15w2k16g19k4~b304080-g008000-k000000-we0e0e0~x2/sett.png)|

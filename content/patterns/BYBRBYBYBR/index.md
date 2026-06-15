@@ -16,5 +16,5 @@ BYBRBYBYBR
 
 | Tartans |
 |---------------|
-| [Miyuki](/setts/s10/b80y2b2r18b2y2b12y2b2r18-b003c64-rc80000-ybc8c00/)|
-|![Miyuki example sett](/setts/s10/b80y2b2r18b2y2b12y2b2r18-b003c64-rc80000-ybc8c00/sett.png)|
+| [Miyuki](/setts/s10/b40y1b1r9b1y1b6y1b1r9~b003c64-rc80000-ybc8c00~x2/)|
+|![Miyuki example sett](/setts/s10/b40y1b1r9b1y1b6y1b1r9~b003c64-rc80000-ybc8c00~x2/sett.png)|

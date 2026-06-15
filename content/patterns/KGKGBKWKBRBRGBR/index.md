@@ -16,5 +16,5 @@ KGKGBKWKBRBRGBR
 
 | Tartans |
 |---------------|
-| [Mars Exploration](/setts/s15/r46b2g2r6b4r2b24k6w12k12b8g4k4g6k4-b1c0070-g00643c-k101010-rfa4b00-wffffff/)|
-|![Mars Exploration example sett](/setts/s15/r46b2g2r6b4r2b24k6w12k12b8g4k4g6k4-b1c0070-g00643c-k101010-rfa4b00-wffffff/sett.png)|
+| [Mars Exploration](/setts/s15/r23b1g1r3b2r1b12k3w6k6b4g2k2g3k2~b1c0070-g00643c-k101010-rfa4b00-wffffff~x2/)|
+|![Mars Exploration example sett](/setts/s15/r23b1g1r3b2r1b12k3w6k6b4g2k2g3k2~b1c0070-g00643c-k101010-rfa4b00-wffffff~x2/sett.png)|

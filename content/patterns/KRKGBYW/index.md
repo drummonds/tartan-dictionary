@@ -6,7 +6,7 @@ KRKGBYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k20r10k10g110b4y2w2-b00008c-g002814-k000000-r880000-wffffff-yd09800/tartan.png)
+![Woven sample](/setts/s7/k10r5k5g55b2y1w1~b00008c-g002814-k000000-r880000-wffffff-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKGBYW
 
 | Tartans |
 |---------------|
-| [Moeller, Karsten (Personal)](/setts/s7/k20r10k10g110b4y2w2-b00008c-g002814-k000000-r880000-wffffff-yd09800/)|
-|![Moeller, Karsten (Personal) example sett](/setts/s7/k20r10k10g110b4y2w2-b00008c-g002814-k000000-r880000-wffffff-yd09800/sett.png)|
+| [Moeller, Karsten (Personal)](/setts/s7/k10r5k5g55b2y1w1~b00008c-g002814-k000000-r880000-wffffff-yd09800~x2/)|
+|![Moeller, Karsten (Personal) example sett](/setts/s7/k10r5k5g55b2y1w1~b00008c-g002814-k000000-r880000-wffffff-yd09800~x2/sett.png)|

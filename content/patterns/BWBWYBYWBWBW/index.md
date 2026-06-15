@@ -16,5 +16,5 @@ BWBWYBYWBWBW
 
 | Tartans |
 |---------------|
-| [St John's](/setts/s12/w12b6w90ba72w6y18b6y18w6ba72w90b6-b1c0070-ba2888c4-we0e0e0-ye8c000/)|
-|![St John's example sett](/setts/s12/w12b6w90ba72w6y18b6y18w6ba72w90b6-b1c0070-ba2888c4-we0e0e0-ye8c000/sett.png)|
+| [St John's](/setts/s12/w2b1w15ba12w1y3b1y3w1ba12w15b1~b1c0070-ba2888c4-we0e0e0-ye8c000~x6/)|
+|![St John's example sett](/setts/s12/w2b1w15ba12w1y3b1y3w1ba12w15b1~b1c0070-ba2888c4-we0e0e0-ye8c000~x6/sett.png)|

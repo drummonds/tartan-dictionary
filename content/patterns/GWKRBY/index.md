@@ -6,7 +6,7 @@ GWKRBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y52b32r20k12w8g4-b1474b4-g006818-k101010-rc80000-wfcfcfc-ydc943c/tartan.png)
+![Woven sample](/setts/s6/y13b8r5k3w2g1~b1474b4-g006818-k101010-rc80000-wfcfcfc-ydc943c~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWKRBY
 
 | Tartans |
 |---------------|
-| [Ball](/setts/s6/y52b32r20k12w8g4-b1474b4-g006818-k101010-rc80000-wfcfcfc-ydc943c/)|
-|![Ball example sett](/setts/s6/y52b32r20k12w8g4-b1474b4-g006818-k101010-rc80000-wfcfcfc-ydc943c/sett.png)|
+| [Ball](/setts/s6/y13b8r5k3w2g1~b1474b4-g006818-k101010-rc80000-wfcfcfc-ydc943c~x4/)|
+|![Ball example sett](/setts/s6/y13b8r5k3w2g1~b1474b4-g006818-k101010-rc80000-wfcfcfc-ydc943c~x4/sett.png)|

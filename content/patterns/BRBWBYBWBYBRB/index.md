@@ -16,7 +16,7 @@ BRBWBYBWBYBRB
 
 | Tartans |
 |---------------|
-| [Clackson (Personal)](/setts/s13/b58r4b20w10b8y10b8w10b8y10b20r4b58-b000048-rc80000-we0e0e0-ye0a126/)|
-|![Clackson (Personal) example sett](/setts/s13/b58r4b20w10b8y10b8w10b8y10b20r4b58-b000048-rc80000-we0e0e0-ye0a126/sett.png)|
-| [Clackson (Personal)](/setts/s13/b48r4b16w10b8y10b8w10b8y10b16r4b48-b2c2c80-rc80000-we0e0e0-ye8c000/)|
-|![Clackson (Personal) example sett](/setts/s13/b48r4b16w10b8y10b8w10b8y10b16r4b48-b2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Clackson (Personal)](/setts/s13/b29r2b10w5b4y5b4w5b4y5b10r2b29~b000048-rc80000-we0e0e0-ye0a126~x2/)|
+|![Clackson (Personal) example sett](/setts/s13/b29r2b10w5b4y5b4w5b4y5b10r2b29~b000048-rc80000-we0e0e0-ye0a126~x2/sett.png)|
+| [Clackson (Personal)](/setts/s13/b24r2b8w5b4y5b4w5b4y5b8r2b24~b2c2c80-rc80000-we0e0e0-ye8c000~x2/)|
+|![Clackson (Personal) example sett](/setts/s13/b24r2b8w5b4y5b4w5b4y5b8r2b24~b2c2c80-rc80000-we0e0e0-ye8c000~x2/sett.png)|

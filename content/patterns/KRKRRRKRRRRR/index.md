@@ -16,5 +16,5 @@ KRKRRRKRRRRR
 
 | Tartans |
 |---------------|
-| [Black Forest](/setts/s12/k80r16k80ra8r8ra28k8r8ra8r28ra8r8-k000000-r78240c-rab07430/)|
-|![Black Forest example sett](/setts/s12/k80r16k80ra8r8ra28k8r8ra8r28ra8r8-k000000-r78240c-rab07430/sett.png)|
+| [Black Forest](/setts/s12/k20r4k20ra2r2ra7k2r2ra2r7ra2r2~k000000-r78240c-rab07430~x4/)|
+|![Black Forest example sett](/setts/s12/k20r4k20ra2r2ra7k2r2ra2r7ra2r2~k000000-r78240c-rab07430~x4/sett.png)|

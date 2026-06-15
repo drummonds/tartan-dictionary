@@ -16,5 +16,5 @@ RBKBKGKBGKGY
 
 | Tartans |
 |---------------|
-| [van der Watt Personal)](/setts/s12/r4b24k4b4k32g4k32ba8g4k4g24y4-b202060-ba440044-g006818-k101010-rc80000-yd09800/)|
-|![van der Watt Personal) example sett](/setts/s12/r4b24k4b4k32g4k32ba8g4k4g24y4-b202060-ba440044-g006818-k101010-rc80000-yd09800/sett.png)|
+| [van der Watt Personal)](/setts/s12/r1b6k1b1k8g1k8ba2g1k1g6y1~b202060-ba440044-g006818-k101010-rc80000-yd09800~x4/)|
+|![van der Watt Personal) example sett](/setts/s12/r1b6k1b1k8g1k8ba2g1k1g6y1~b202060-ba440044-g006818-k101010-rc80000-yd09800~x4/sett.png)|

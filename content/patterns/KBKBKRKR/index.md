@@ -6,7 +6,7 @@ KBKBKRKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k20b4k4b16k80r8k10ra4-b5c5c5c-k101010-rc80000-rae87878/tartan.png)
+![Woven sample](/setts/s8/k10b2k2b8k40r4k5ra2~b5c5c5c-k101010-rc80000-rae87878~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKBKRKR
 
 | Tartans |
 |---------------|
-| [Laird Abdullah (Personal)](/setts/s8/k20b4k4b16k80r8k10ra4-b5c5c5c-k101010-rc80000-rae87878/)|
-|![Laird Abdullah (Personal) example sett](/setts/s8/k20b4k4b16k80r8k10ra4-b5c5c5c-k101010-rc80000-rae87878/sett.png)|
+| [Laird Abdullah (Personal)](/setts/s8/k10b2k2b8k40r4k5ra2~b5c5c5c-k101010-rc80000-rae87878~x2/)|
+|![Laird Abdullah (Personal) example sett](/setts/s8/k10b2k2b8k40r4k5ra2~b5c5c5c-k101010-rc80000-rae87878~x2/sett.png)|

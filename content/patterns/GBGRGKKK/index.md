@@ -6,7 +6,7 @@ GBGRGKKK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g36b4g10r4g10k42ka40k10-b2c4084-g002814-k101010-ka000028-rdc0000/tartan.png)
+![Woven sample](/setts/s8/g18b2g5r2g5k21ka20k5~b2c4084-g002814-k101010-ka000028-rdc0000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGRGKKK
 
 | Tartans |
 |---------------|
-| [MacRae, Special Hunting](/setts/s8/g36b4g10r4g10k42ka40k10-b2c4084-g002814-k101010-ka000028-rdc0000/)|
-|![MacRae, Special Hunting example sett](/setts/s8/g36b4g10r4g10k42ka40k10-b2c4084-g002814-k101010-ka000028-rdc0000/sett.png)|
+| [MacRae, Special Hunting](/setts/s8/g18b2g5r2g5k21ka20k5~b2c4084-g002814-k101010-ka000028-rdc0000~x2/)|
+|![MacRae, Special Hunting example sett](/setts/s8/g18b2g5r2g5k21ka20k5~b2c4084-g002814-k101010-ka000028-rdc0000~x2/sett.png)|

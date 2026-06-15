@@ -16,5 +16,5 @@ WBWKYRYRYRYRYKWRY
 
 | Tartans |
 |---------------|
-| [Espana](/setts/s17/w68b10w6k2y4r4y4r4y4r4y4r4y4k2w6r8y16-b1474b4-k101010-rc80000-we8ccb8-ye8c000/)|
-|![Espana example sett](/setts/s17/w68b10w6k2y4r4y4r4y4r4y4r4y4k2w6r8y16-b1474b4-k101010-rc80000-we8ccb8-ye8c000/sett.png)|
+| [Espana](/setts/s17/w34b5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~b1474b4-k101010-rc80000-we8ccb8-ye8c000~x2/)|
+|![Espana example sett](/setts/s17/w34b5w3k1y2r2y2r2y2r2y2r2y2k1w3r4y8~b1474b4-k101010-rc80000-we8ccb8-ye8c000~x2/sett.png)|

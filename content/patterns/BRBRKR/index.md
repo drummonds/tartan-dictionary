@@ -6,7 +6,7 @@ BRBRKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b72r36b8r12k4ra4-b1c1c50-k101010-rc80000-ra888888/tartan.png)
+![Woven sample](/setts/s6/b18r9b2r3k1ra1~b1c1c50-k101010-rc80000-ra888888~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRKR
 
 | Tartans |
 |---------------|
-| [MacGregor, Modern](/setts/s6/b72r36b8r12k4ra4-b1c1c50-k101010-rc80000-ra888888/)|
-|![MacGregor, Modern example sett](/setts/s6/b72r36b8r12k4ra4-b1c1c50-k101010-rc80000-ra888888/sett.png)|
+| [MacGregor, Modern](/setts/s6/b18r9b2r3k1ra1~b1c1c50-k101010-rc80000-ra888888~x4/)|
+|![MacGregor, Modern example sett](/setts/s6/b18r9b2r3k1ra1~b1c1c50-k101010-rc80000-ra888888~x4/sett.png)|

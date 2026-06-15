@@ -6,7 +6,7 @@ GYBR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g60y6b16r50-b5f749c-g649848-ra32d18-ye0a126/tartan.png)
+![Woven sample](/setts/s4/g30y3b8r25~b5f749c-g649848-ra32d18-ye0a126~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYBR
 
 | Tartans |
 |---------------|
-| [Dohmen Family (Zuid-Nederland)](/setts/s4/g60y6b16r50-b5f749c-g649848-ra32d18-ye0a126/)|
-|![Dohmen Family (Zuid-Nederland) example sett](/setts/s4/g60y6b16r50-b5f749c-g649848-ra32d18-ye0a126/sett.png)|
-| [Dohmen (Personal)](/setts/s4/g60y6b16r50-b2c2c80-g006818-ra00000-yfccc00/)|
-|![Dohmen (Personal) example sett](/setts/s4/g60y6b16r50-b2c2c80-g006818-ra00000-yfccc00/sett.png)|
+| [Dohmen Family (Zuid-Nederland)](/setts/s4/g30y3b8r25~b5f749c-g649848-ra32d18-ye0a126~x2/)|
+|![Dohmen Family (Zuid-Nederland) example sett](/setts/s4/g30y3b8r25~b5f749c-g649848-ra32d18-ye0a126~x2/sett.png)|
+| [Dohmen (Personal)](/setts/s4/g30y3b8r25~b2c2c80-g006818-ra00000-yfccc00~x2/)|
+|![Dohmen (Personal) example sett](/setts/s4/g30y3b8r25~b2c2c80-g006818-ra00000-yfccc00~x2/sett.png)|

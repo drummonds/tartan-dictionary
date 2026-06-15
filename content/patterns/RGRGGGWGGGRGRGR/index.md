@@ -16,5 +16,5 @@ RGRGGGWGGGRGRGR
 
 | Tartans |
 |---------------|
-| [Mauthe Unidentified (Name?)](/setts/s15/r40g4r4g4r4g30ga26g4w4g4ga26g30r28g4r4-g603800-ga006818-rc80000-we0e0e0/)|
-|![Mauthe Unidentified (Name?) example sett](/setts/s15/r40g4r4g4r4g30ga26g4w4g4ga26g30r28g4r4-g603800-ga006818-rc80000-we0e0e0/sett.png)|
+| [Mauthe Unidentified (Name?)](/setts/s15/r20g2r2g2r2g15ga13g2w2g2ga13g15r14g2r2~g603800-ga006818-rc80000-we0e0e0~x2/)|
+|![Mauthe Unidentified (Name?) example sett](/setts/s15/r20g2r2g2r2g15ga13g2w2g2ga13g15r14g2r2~g603800-ga006818-rc80000-we0e0e0~x2/sett.png)|

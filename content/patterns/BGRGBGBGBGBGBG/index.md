@@ -16,5 +16,5 @@ BGRGBGBGBGBGBG
 
 | Tartans |
 |---------------|
-| [Devarr](/setts/s14/b44g52r8g52b44ga6b6ga6b6ga62b6ga6b6ga6-b441800-g5c6428-ga604000-r880000/)|
-|![Devarr example sett](/setts/s14/b44g52r8g52b44ga6b6ga6b6ga62b6ga6b6ga6-b441800-g5c6428-ga604000-r880000/sett.png)|
+| [Devarr](/setts/s14/b22g26r4g26b22ga3b3ga3b3ga31b3ga3b3ga3~b441800-g5c6428-ga604000-r880000~x2/)|
+|![Devarr example sett](/setts/s14/b22g26r4g26b22ga3b3ga3b3ga31b3ga3b3ga3~b441800-g5c6428-ga604000-r880000~x2/sett.png)|

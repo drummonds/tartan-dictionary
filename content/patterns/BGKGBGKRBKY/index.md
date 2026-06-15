@@ -16,5 +16,5 @@ BGKGBGKRBKY
 
 | Tartans |
 |---------------|
-| [Moffat (1994)](/setts/s11/b8g6k2g6b4g40k20r40b4k4y8-b440044-g006818-k101010-r880000-yd09800/)|
-|![Moffat (1994) example sett](/setts/s11/b8g6k2g6b4g40k20r40b4k4y8-b440044-g006818-k101010-r880000-yd09800/sett.png)|
+| [Moffat (1994)](/setts/s11/b4g3k1g3b2g20k10r20b2k2y4~b440044-g006818-k101010-r880000-yd09800~x2/)|
+|![Moffat (1994) example sett](/setts/s11/b4g3k1g3b2g20k10r20b2k2y4~b440044-g006818-k101010-r880000-yd09800~x2/sett.png)|

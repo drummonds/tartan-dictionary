@@ -6,7 +6,7 @@ KBBBBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8b4ba68b68bb4y8-b680028-ba003c64-bb202060-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s6/k2b1ba17b17bb1y2~b680028-ba003c64-bb202060-k101010-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBBBBY
 
 | Tartans |
 |---------------|
-| [Murdoch (Geoffrey)](/setts/s6/k8b4ba68b68bb4y8-b680028-ba003c64-bb202060-k101010-ye8c000/)|
-|![Murdoch (Geoffrey) example sett](/setts/s6/k8b4ba68b68bb4y8-b680028-ba003c64-bb202060-k101010-ye8c000/sett.png)|
+| [Murdoch (Geoffrey)](/setts/s6/k2b1ba17b17bb1y2~b680028-ba003c64-bb202060-k101010-ye8c000~x4/)|
+|![Murdoch (Geoffrey) example sett](/setts/s6/k2b1ba17b17bb1y2~b680028-ba003c64-bb202060-k101010-ye8c000~x4/sett.png)|

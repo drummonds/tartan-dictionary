@@ -16,7 +16,7 @@ KRWRKRKRKYBKW
 
 | Tartans |
 |---------------|
-| [Wilding, Michael John (Personal)](/setts/s13/w4k4b4y4k4r12k2r24k4r12w2r46k2-b2888c4-k101010-r880000-wffffff-yffff00/)|
-|![Wilding, Michael John (Personal) example sett](/setts/s13/w4k4b4y4k4r12k2r24k4r12w2r46k2-b2888c4-k101010-r880000-wffffff-yffff00/sett.png)|
-| [Wilding, Michael John (Personal)](/setts/s13/w4k4b4y4k4r14k2r24k4r12w2r46k2-b5c8ca8-k101010-ra00000-wfcfcfc-yfccc00/)|
-|![Wilding, Michael John (Personal) example sett](/setts/s13/w4k4b4y4k4r14k2r24k4r12w2r46k2-b5c8ca8-k101010-ra00000-wfcfcfc-yfccc00/sett.png)|
+| [Wilding, Michael John (Personal)](/setts/s13/w2k2b2y2k2r6k1r12k2r6w1r23k1~b2888c4-k101010-r880000-wffffff-yffff00~x2/)|
+|![Wilding, Michael John (Personal) example sett](/setts/s13/w2k2b2y2k2r6k1r12k2r6w1r23k1~b2888c4-k101010-r880000-wffffff-yffff00~x2/sett.png)|
+| [Wilding, Michael John (Personal)](/setts/s13/w2k2b2y2k2r7k1r12k2r6w1r23k1~b5c8ca8-k101010-ra00000-wfcfcfc-yfccc00~x2/)|
+|![Wilding, Michael John (Personal) example sett](/setts/s13/w2k2b2y2k2r7k1r12k2r6w1r23k1~b5c8ca8-k101010-ra00000-wfcfcfc-yfccc00~x2/sett.png)|

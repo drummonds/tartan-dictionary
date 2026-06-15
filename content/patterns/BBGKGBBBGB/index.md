@@ -16,5 +16,5 @@ BBGKGBBBGB
 
 | Tartans |
 |---------------|
-| [Berkshire #1 (District)](/setts/s10/b20g12b4ba32b40g20k4g20b4bb8-b606060-ba000060-bb3070fc-g007800-k000000/)|
-|![Berkshire #1 (District) example sett](/setts/s10/b20g12b4ba32b40g20k4g20b4bb8-b606060-ba000060-bb3070fc-g007800-k000000/sett.png)|
+| [Berkshire #1 (District)](/setts/s10/b5g3b1ba8b10g5k1g5b1bb2~b606060-ba000060-bb3070fc-g007800-k000000~x4/)|
+|![Berkshire #1 (District) example sett](/setts/s10/b5g3b1ba8b10g5k1g5b1bb2~b606060-ba000060-bb3070fc-g007800-k000000~x4/sett.png)|

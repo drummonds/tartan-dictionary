@@ -16,5 +16,5 @@ KWKWKWKWRWKWKW
 
 | Tartans |
 |---------------|
-| [Pars, Dress (Sports)](/setts/s14/w20k2w10k14w14r4w14k100w14k4w14k14w10k2-k101010-rc80000-wfcfcfc/)|
-|![Pars, Dress (Sports) example sett](/setts/s14/w20k2w10k14w14r4w14k100w14k4w14k14w10k2-k101010-rc80000-wfcfcfc/sett.png)|
+| [Pars, Dress (Sports)](/setts/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~k101010-rc80000-wfcfcfc~x2/)|
+|![Pars, Dress (Sports) example sett](/setts/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~k101010-rc80000-wfcfcfc~x2/sett.png)|

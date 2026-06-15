@@ -16,5 +16,5 @@ RBKRKRKRKRW
 
 | Tartans |
 |---------------|
-| [Hilton Plaid](/setts/s11/r88b6k12ra4k4ra4k20r10k4r6w4-b304080-k000000-rc00000-ra906030-we0e0e0/)|
-|![Hilton Plaid example sett](/setts/s11/r88b6k12ra4k4ra4k20r10k4r6w4-b304080-k000000-rc00000-ra906030-we0e0e0/sett.png)|
+| [Hilton Plaid](/setts/s11/r44b3k6ra2k2ra2k10r5k2r3w2~b304080-k000000-rc00000-ra906030-we0e0e0~x2/)|
+|![Hilton Plaid example sett](/setts/s11/r44b3k6ra2k2ra2k10r5k2r3w2~b304080-k000000-rc00000-ra906030-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ BYBGBGRBRY
 
 | Tartans |
 |---------------|
-| [Unidentified #64](/setts/s10/b114y4b20g8b8g18r24b8r8ya4-b2c4084-g003c14-rdc0000-ye8c000-yab0b0b0/)|
-|![Unidentified #64 example sett](/setts/s10/b114y4b20g8b8g18r24b8r8ya4-b2c4084-g003c14-rdc0000-ye8c000-yab0b0b0/sett.png)|
+| [Unidentified #64](/setts/s10/b57y2b10g4b4g9r12b4r4ya2~b2c4084-g003c14-rdc0000-ye8c000-yab0b0b0~x2/)|
+|![Unidentified #64 example sett](/setts/s10/b57y2b10g4b4g9r12b4r4ya2~b2c4084-g003c14-rdc0000-ye8c000-yab0b0b0~x2/sett.png)|

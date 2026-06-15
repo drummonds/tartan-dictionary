@@ -16,5 +16,5 @@ RGYWKWYGWRW
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Pr Ch Ed Plaid?](/setts/s11/r40g12y12w4k8w4y12g48w8r12w4-g003820-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Unnamed C18th - Pr Ch Ed Plaid? example sett](/setts/s11/r40g12y12w4k8w4y12g48w8r12w4-g003820-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Unnamed C18th - Pr Ch Ed Plaid?](/setts/s11/r10g3y3w1k2w1y3g12w2r3w1~g003820-k101010-rc80000-wfcfcfc-ye8c000~x4/)|
+|![Unnamed C18th - Pr Ch Ed Plaid? example sett](/setts/s11/r10g3y3w1k2w1y3g12w2r3w1~g003820-k101010-rc80000-wfcfcfc-ye8c000~x4/sett.png)|

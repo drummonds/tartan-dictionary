@@ -16,5 +16,5 @@ RKRGRKRGRKRGRKRR
 
 | Tartans |
 |---------------|
-| [Seaforth Estate Check](/setts/s16/r12ra12k12ra12g12ra12k12ra12g12ra12k12ra12g12ra12k12ra12-g886000-k000000-r8c0000-raa0783c/)|
-|![Seaforth Estate Check example sett](/setts/s16/r12ra12k12ra12g12ra12k12ra12g12ra12k12ra12g12ra12k12ra12-g886000-k000000-r8c0000-raa0783c/sett.png)|
+| [Seaforth Estate Check](/setts/s16/r1ra1k1ra1g1ra1k1ra1g1ra1k1ra1g1ra1k1ra1~g886000-k000000-r8c0000-raa0783c~x12/)|
+|![Seaforth Estate Check example sett](/setts/s16/r1ra1k1ra1g1ra1k1ra1g1ra1k1ra1g1ra1k1ra1~g886000-k000000-r8c0000-raa0783c~x12/sett.png)|

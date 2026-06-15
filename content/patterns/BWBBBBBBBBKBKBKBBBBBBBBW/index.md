@@ -16,5 +16,5 @@ BWBBBBBBBBKBKBKBBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Institute of Directors (Corporate)](/setts/s24/b50w4b12ba4b10ba8b4ba6b4ba10k12ba5k42ba6k12ba10b4ba6b4ba8b10ba4b12w4-b440044-ba543478-k101010-we0e0e0/)|
-|![Institute of Directors (Corporate) example sett](/setts/s24/b50w4b12ba4b10ba8b4ba6b4ba10k12ba5k42ba6k12ba10b4ba6b4ba8b10ba4b12w4-b440044-ba543478-k101010-we0e0e0/sett.png)|
+| [Institute of Directors (Corporate)](/setts/s24/b50w4b12ba4b10ba8b4ba6b4ba10k12ba5k42ba6k12ba10b4ba6b4ba8b10ba4b12w4~b440044-ba543478-k101010-we0e0e0/)|
+|![Institute of Directors (Corporate) example sett](/setts/s24/b50w4b12ba4b10ba8b4ba6b4ba10k12ba5k42ba6k12ba10b4ba6b4ba8b10ba4b12w4~b440044-ba543478-k101010-we0e0e0/sett.png)|

@@ -6,7 +6,7 @@ RWBW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r16w16b92w16-b433a5a-rb62531-wf9f5ef/tartan.png)
+![Woven sample](/setts/s4/r4w4b23w4~b433a5a-rb62531-wf9f5ef~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RWBW
 
 | Tartans |
 |---------------|
-| [Auchmaliddie Samkoma](/setts/s4/r16w16b92w16-b433a5a-rb62531-wf9f5ef/)|
-|![Auchmaliddie Samkoma example sett](/setts/s4/r16w16b92w16-b433a5a-rb62531-wf9f5ef/sett.png)|
-| [Auchmaliddie Samkoma (Personal)](/setts/s4/r16w16b92w16-b003c64-rc80000-wfcfcfc/)|
-|![Auchmaliddie Samkoma (Personal) example sett](/setts/s4/r16w16b92w16-b003c64-rc80000-wfcfcfc/sett.png)|
+| [Auchmaliddie Samkoma](/setts/s4/r4w4b23w4~b433a5a-rb62531-wf9f5ef~x4/)|
+|![Auchmaliddie Samkoma example sett](/setts/s4/r4w4b23w4~b433a5a-rb62531-wf9f5ef~x4/sett.png)|
+| [Auchmaliddie Samkoma (Personal)](/setts/s4/r4w4b23w4~b003c64-rc80000-wfcfcfc~x4/)|
+|![Auchmaliddie Samkoma (Personal) example sett](/setts/s4/r4w4b23w4~b003c64-rc80000-wfcfcfc~x4/sett.png)|

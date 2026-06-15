@@ -16,5 +16,5 @@ WBKGKWKWY
 
 | Tartans |
 |---------------|
-| [Hoban (Name)](/setts/s9/y12w36k12w16k36g60k36b44wa8-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/)|
-|![Hoban (Name) example sett](/setts/s9/y12w36k12w16k36g60k36b44wa8-b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000/sett.png)|
+| [Hoban (Name)](/setts/s9/y3w9k3w4k9g15k9b11wa2~b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000~x4/)|
+|![Hoban (Name) example sett](/setts/s9/y3w9k3w4k9g15k9b11wa2~b2c2c80-g408060-k101010-wc49cd8-wafcfcfc-ye8c000~x4/sett.png)|

@@ -16,5 +16,5 @@ KRKRKRKRKRWRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Hebrides #12](/setts/s20/k4r4k24r4k4r36k4r4k24r4w2r4k24r4k4r36k4r4k24r4-k101010-rc80000-we0e0e0/)|
-|![Hebrides #12 example sett](/setts/s20/k4r4k24r4k4r36k4r4k24r4w2r4k24r4k4r36k4r4k24r4-k101010-rc80000-we0e0e0/sett.png)|
+| [Hebrides #12](/setts/s20/k2r2k12r2k2r18k2r2k12r2w1r2k12r2k2r18k2r2k12r2~k101010-rc80000-we0e0e0~x2/)|
+|![Hebrides #12 example sett](/setts/s20/k2r2k12r2k2r18k2r2k12r2w1r2k12r2k2r18k2r2k12r2~k101010-rc80000-we0e0e0~x2/sett.png)|

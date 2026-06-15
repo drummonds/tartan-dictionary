@@ -16,5 +16,5 @@ BKGKRKGWGKRKGK
 
 | Tartans |
 |---------------|
-| [Lambert Dark (Personal)](/setts/s14/k68g20k10r4k16ga4w6ga4k16r4k10g20k56b6-b1474b4-g006818-ga604000-k101010-rc80000-wfcfcfc/)|
-|![Lambert Dark (Personal) example sett](/setts/s14/k68g20k10r4k16ga4w6ga4k16r4k10g20k56b6-b1474b4-g006818-ga604000-k101010-rc80000-wfcfcfc/sett.png)|
+| [Lambert Dark (Personal)](/setts/s14/k34g10k5r2k8ga2w3ga2k8r2k5g10k28b3~b1474b4-g006818-ga604000-k101010-rc80000-wfcfcfc~x2/)|
+|![Lambert Dark (Personal) example sett](/setts/s14/k34g10k5r2k8ga2w3ga2k8r2k5g10k28b3~b1474b4-g006818-ga604000-k101010-rc80000-wfcfcfc~x2/sett.png)|

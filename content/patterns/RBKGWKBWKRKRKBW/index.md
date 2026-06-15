@@ -16,5 +16,5 @@ RBKGWKBWKRKRKBW
 
 | Tartans |
 |---------------|
-| [Gaudet-Hillan (Personal)](/setts/s15/w4b4k4r8k2r42k8w2b24k6w2g12k4ba6r2-b6c0070-ba2888c4-g007800-k101010-rdc0000-wffffff/)|
-|![Gaudet-Hillan (Personal) example sett](/setts/s15/w4b4k4r8k2r42k8w2b24k6w2g12k4ba6r2-b6c0070-ba2888c4-g007800-k101010-rdc0000-wffffff/sett.png)|
+| [Gaudet-Hillan (Personal)](/setts/s15/w2b2k2r4k1r21k4w1b12k3w1g6k2ba3r1~b6c0070-ba2888c4-g007800-k101010-rdc0000-wffffff~x2/)|
+|![Gaudet-Hillan (Personal) example sett](/setts/s15/w2b2k2r4k1r21k4w1b12k3w1g6k2ba3r1~b6c0070-ba2888c4-g007800-k101010-rdc0000-wffffff~x2/sett.png)|

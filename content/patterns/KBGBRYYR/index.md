@@ -6,7 +6,7 @@ KBGBRYYR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k6b6g30ba30r10y6ya4r2-b2c2c80-ba202060-g006818-k101010-rb468ac-yd87c00-yae8c000/tartan.png)
+![Woven sample](/setts/s8/k3b3g15ba15r5y3ya2r1~b2c2c80-ba202060-g006818-k101010-rb468ac-yd87c00-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBGBRYYR
 
 | Tartans |
 |---------------|
-| [Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k6b6g30ba30r10y6ya4r2-b2c2c80-ba202060-g006818-k101010-rb468ac-yd87c00-yae8c000/)|
-|![Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/k6b6g30ba30r10y6ya4r2-b2c2c80-ba202060-g006818-k101010-rb468ac-yd87c00-yae8c000/sett.png)|
+| [Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k3b3g15ba15r5y3ya2r1~b2c2c80-ba202060-g006818-k101010-rb468ac-yd87c00-yae8c000~x2/)|
+|![Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/k3b3g15ba15r5y3ya2r1~b2c2c80-ba202060-g006818-k101010-rb468ac-yd87c00-yae8c000~x2/sett.png)|

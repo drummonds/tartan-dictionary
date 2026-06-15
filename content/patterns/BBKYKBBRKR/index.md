@@ -16,5 +16,5 @@ BBKYKBBRKR
 
 | Tartans |
 |---------------|
-| [Kirk in the Hills](/setts/s10/b64ba24k4y4k4ba24b16r16k4ra4-b8080d0-ba304080-k000000-r802040-rac00000-yf0c000/)|
-|![Kirk in the Hills example sett](/setts/s10/b64ba24k4y4k4ba24b16r16k4ra4-b8080d0-ba304080-k000000-r802040-rac00000-yf0c000/sett.png)|
+| [Kirk in the Hills](/setts/s10/b16ba6k1y1k1ba6b4r4k1ra1~b8080d0-ba304080-k000000-r802040-rac00000-yf0c000~x4/)|
+|![Kirk in the Hills example sett](/setts/s10/b16ba6k1y1k1ba6b4r4k1ra1~b8080d0-ba304080-k000000-r802040-rac00000-yf0c000~x4/sett.png)|

@@ -6,7 +6,7 @@ WYBBBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w15y98b72ba25b8ya15-b003c64-ba1474b4-wffffff-y48a4c0-yaf8e38c/tartan.png)
+![Woven sample](/setts/s6/w15y98b72ba25b8ya15~b003c64-ba1474b4-wffffff-y48a4c0-yaf8e38c/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYBBBY
 
 | Tartans |
 |---------------|
-| [Afternoon Tea / Mint Tea](/setts/s6/w15y98b72ba25b8ya15-b003c64-ba1474b4-wffffff-y48a4c0-yaf8e38c/)|
-|![Afternoon Tea / Mint Tea example sett](/setts/s6/w15y98b72ba25b8ya15-b003c64-ba1474b4-wffffff-y48a4c0-yaf8e38c/sett.png)|
+| [Afternoon Tea / Mint Tea](/setts/s6/w15y98b72ba25b8ya15~b003c64-ba1474b4-wffffff-y48a4c0-yaf8e38c/)|
+|![Afternoon Tea / Mint Tea example sett](/setts/s6/w15y98b72ba25b8ya15~b003c64-ba1474b4-wffffff-y48a4c0-yaf8e38c/sett.png)|

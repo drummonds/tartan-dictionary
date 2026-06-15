@@ -6,7 +6,7 @@ KKKKKKK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k34ka8k26ka8k6ka90k6-k010204-ka121617/tartan.png)
+![Woven sample](/setts/s7/k17ka4k13ka4k3ka45k3~k010204-ka121617~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KKKKKKK
 
 | Tartans |
 |---------------|
-| [Black Spirit Fashion Tartan Tartan Number: 10119. Earliest known date: ACS Tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k34ka8k26ka8k6ka90k6-k010204-ka121617/)|
-|![Black Spirit Fashion Tartan Tartan Number: 10119. Earliest known date: ACS Tartan See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/k34ka8k26ka8k6ka90k6-k010204-ka121617/sett.png)|
+| [Black Spirit Fashion Tartan Tartan Number: 10119. Earliest known date: ACS Tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k17ka4k13ka4k3ka45k3~k010204-ka121617~x2/)|
+|![Black Spirit Fashion Tartan Tartan Number: 10119. Earliest known date: ACS Tartan See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/k17ka4k13ka4k3ka45k3~k010204-ka121617~x2/sett.png)|

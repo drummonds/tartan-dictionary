@@ -6,7 +6,7 @@ BKBWBRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b70k20b8w4b6r4y4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b35k10b4w2b3r2y2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBWBRY
 
 | Tartans |
 |---------------|
-| [Laidlaw's Highland Drovers (Corp)](/setts/s7/b70k20b8w4b6r4y4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Laidlaw's Highland Drovers (Corp) example sett](/setts/s7/b70k20b8w4b6r4y4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Laidlaw's Highland Drovers (Corp)](/setts/s7/b35k10b4w2b3r2y2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Laidlaw's Highland Drovers (Corp) example sett](/setts/s7/b35k10b4w2b3r2y2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

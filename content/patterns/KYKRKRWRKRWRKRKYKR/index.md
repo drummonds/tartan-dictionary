@@ -16,5 +16,5 @@ KYKRKRWRKRWRKRKYKR
 
 | Tartans |
 |---------------|
-| [Smeaton (Wedding) (Personal)](/setts/s18/r6k4y6k6r6k64r88w6r8k12r8w6r88k64r6k6y6k4-k101010-rc80000-wc0c0c0-yd09800/)|
-|![Smeaton (Wedding) (Personal) example sett](/setts/s18/r6k4y6k6r6k64r88w6r8k12r8w6r88k64r6k6y6k4-k101010-rc80000-wc0c0c0-yd09800/sett.png)|
+| [Smeaton (Wedding) (Personal)](/setts/s18/r3k2y3k3r3k32r44w3r4k6r4w3r44k32r3k3y3k2~k101010-rc80000-wc0c0c0-yd09800~x2/)|
+|![Smeaton (Wedding) (Personal) example sett](/setts/s18/r3k2y3k3r3k32r44w3r4k6r4w3r44k32r3k3y3k2~k101010-rc80000-wc0c0c0-yd09800~x2/sett.png)|

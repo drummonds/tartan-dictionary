@@ -6,7 +6,7 @@ BKGRYRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16k50g26r10y10ra10r16-b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/b8k25g13r5y5ra5r8~b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGRYRR
 
 | Tartans |
 |---------------|
-| [Bro-Menez Are (Corporate)](/setts/s7/b16k50g26r10y10ra10r16-b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00/)|
-|![Bro-Menez Are (Corporate) example sett](/setts/s7/b16k50g26r10y10ra10r16-b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00/sett.png)|
+| [Bro-Menez Are (Corporate)](/setts/s7/b8k25g13r5y5ra5r8~b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00~x2/)|
+|![Bro-Menez Are (Corporate) example sett](/setts/s7/b8k25g13r5y5ra5r8~b1474b4-g006818-k101010-r8c2c68-ra880000-ybc8c00~x2/sett.png)|

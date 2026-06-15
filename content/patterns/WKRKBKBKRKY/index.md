@@ -16,5 +16,5 @@ WKRKBKBKRKY
 
 | Tartans |
 |---------------|
-| [Mount Isla](/setts/s11/w8k4r28k8b28k8b28k8r24k4y8-b1c0070-k101010-r880000-wc0c0c0-yd09800/)|
-|![Mount Isla example sett](/setts/s11/w8k4r28k8b28k8b28k8r24k4y8-b1c0070-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Mount Isla](/setts/s11/w2k1r7k2b7k2b7k2r6k1y2~b1c0070-k101010-r880000-wc0c0c0-yd09800~x4/)|
+|![Mount Isla example sett](/setts/s11/w2k1r7k2b7k2b7k2r6k1y2~b1c0070-k101010-r880000-wc0c0c0-yd09800~x4/sett.png)|

@@ -16,5 +16,5 @@ BKBRKRKRBYBRK
 
 | Tartans |
 |---------------|
-| [Brough from Orkney (Name)](/setts/s13/b4k4b2r2k4ra14k4r4b24y6b54r8k4-b003c64-k101010-r888888-rac80000-yfccc00/)|
-|![Brough from Orkney (Name) example sett](/setts/s13/b4k4b2r2k4ra14k4r4b24y6b54r8k4-b003c64-k101010-r888888-rac80000-yfccc00/sett.png)|
+| [Brough from Orkney (Name)](/setts/s13/b2k2b1r1k2ra7k2r2b12y3b27r4k2~b003c64-k101010-r888888-rac80000-yfccc00~x2/)|
+|![Brough from Orkney (Name) example sett](/setts/s13/b2k2b1r1k2ra7k2r2b12y3b27r4k2~b003c64-k101010-r888888-rac80000-yfccc00~x2/sett.png)|

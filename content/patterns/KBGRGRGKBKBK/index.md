@@ -16,5 +16,5 @@ KBGRGRGKBKBK
 
 | Tartans |
 |---------------|
-| [Jedforest](/setts/s12/k8b4g48r2g4r2g4k40b48k2b4k8-b1c0070-g006818-k101010-rc80000/)|
-|![Jedforest example sett](/setts/s12/k8b4g48r2g4r2g4k40b48k2b4k8-b1c0070-g006818-k101010-rc80000/sett.png)|
+| [Jedforest](/setts/s12/k4b2g24r1g2r1g2k20b24k1b2k4~b1c0070-g006818-k101010-rc80000~x2/)|
+|![Jedforest example sett](/setts/s12/k4b2g24r1g2r1g2k20b24k1b2k4~b1c0070-g006818-k101010-rc80000~x2/sett.png)|

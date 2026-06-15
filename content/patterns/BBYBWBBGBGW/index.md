@@ -16,5 +16,5 @@ BBYBWBBGBGW
 
 | Tartans |
 |---------------|
-| [Brighton & Hove](/setts/s11/b64ba32y4ba4w4ba4bb24g12ba4g12w4-b141e46-ba5f749c-bb5c8ca8-g048888-wffffff-yd09800/)|
-|![Brighton & Hove example sett](/setts/s11/b64ba32y4ba4w4ba4bb24g12ba4g12w4-b141e46-ba5f749c-bb5c8ca8-g048888-wffffff-yd09800/sett.png)|
+| [Brighton & Hove](/setts/s11/b16ba8y1ba1w1ba1bb6g3ba1g3w1~b141e46-ba5f749c-bb5c8ca8-g048888-wffffff-yd09800~x4/)|
+|![Brighton & Hove example sett](/setts/s11/b16ba8y1ba1w1ba1bb6g3ba1g3w1~b141e46-ba5f749c-bb5c8ca8-g048888-wffffff-yd09800~x4/sett.png)|

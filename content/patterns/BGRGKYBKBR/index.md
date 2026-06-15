@@ -16,5 +16,5 @@ BGRGKYBKBR
 
 | Tartans |
 |---------------|
-| [Loch Freuchie](/setts/s10/b6g6r4g40k50y4ba26k4ba6r6-b4a708b-ba2c4e75-g124d36-k101010-rff0000-yf0da0f/)|
-|![Loch Freuchie example sett](/setts/s10/b6g6r4g40k50y4ba26k4ba6r6-b4a708b-ba2c4e75-g124d36-k101010-rff0000-yf0da0f/sett.png)|
+| [Loch Freuchie](/setts/s10/b3g3r2g20k25y2ba13k2ba3r3~b4a708b-ba2c4e75-g124d36-k101010-rff0000-yf0da0f~x2/)|
+|![Loch Freuchie example sett](/setts/s10/b3g3r2g20k25y2ba13k2ba3r3~b4a708b-ba2c4e75-g124d36-k101010-rff0000-yf0da0f~x2/sett.png)|

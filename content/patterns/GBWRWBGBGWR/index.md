@@ -16,9 +16,9 @@ GBWRWBGBGWR
 
 | Tartans |
 |---------------|
-| [McKirgan/Mackirgan](/setts/s11/g4b4w2r4w2b6g2b24g36w2r4-b00008b-g006400-rc80000-wffffff/)|
-|![McKirgan/Mackirgan example sett](/setts/s11/g4b4w2r4w2b6g2b24g36w2r4-b00008b-g006400-rc80000-wffffff/sett.png)|
-| [McKirgan (Name)](/setts/s11/g4b4w2r4w2b6g2b24g36w2r4-b506878-g285800-rc80000-we0e0e0/)|
-|![McKirgan (Name) example sett](/setts/s11/g4b4w2r4w2b6g2b24g36w2r4-b506878-g285800-rc80000-we0e0e0/sett.png)|
-| [MacKirgan](/setts/s11/g4b4w2r4w2b6g2b24g36w2r4-b000050-g008000-rc00000-we0e0e0/)|
-|![MacKirgan example sett](/setts/s11/g4b4w2r4w2b6g2b24g36w2r4-b000050-g008000-rc00000-we0e0e0/sett.png)|
+| [McKirgan/Mackirgan](/setts/s11/g2b2w1r2w1b3g1b12g18w1r2~b00008b-g006400-rc80000-wffffff~x2/)|
+|![McKirgan/Mackirgan example sett](/setts/s11/g2b2w1r2w1b3g1b12g18w1r2~b00008b-g006400-rc80000-wffffff~x2/sett.png)|
+| [McKirgan (Name)](/setts/s11/g2b2w1r2w1b3g1b12g18w1r2~b506878-g285800-rc80000-we0e0e0~x2/)|
+|![McKirgan (Name) example sett](/setts/s11/g2b2w1r2w1b3g1b12g18w1r2~b506878-g285800-rc80000-we0e0e0~x2/sett.png)|
+| [MacKirgan](/setts/s11/g2b2w1r2w1b3g1b12g18w1r2~b000050-g008000-rc00000-we0e0e0~x2/)|
+|![MacKirgan example sett](/setts/s11/g2b2w1r2w1b3g1b12g18w1r2~b000050-g008000-rc00000-we0e0e0~x2/sett.png)|

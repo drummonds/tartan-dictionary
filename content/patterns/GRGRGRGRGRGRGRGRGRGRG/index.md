@@ -16,5 +16,5 @@ GRGRGRGRGRGRGRGRGRGRG
 
 | Tartans |
 |---------------|
-| [Murray of Dunmore (Clan)](/setts/s21/g8r8g8r12g30r22g4r4g32r42g4r4g8r4g4r6g10r6g4r4g8-g003820-r880000/)|
-|![Murray of Dunmore (Clan) example sett](/setts/s21/g8r8g8r12g30r22g4r4g32r42g4r4g8r4g4r6g10r6g4r4g8-g003820-r880000/sett.png)|
+| [Murray of Dunmore (Clan)](/setts/s21/g4r4g4r6g15r11g2r2g16r21g2r2g4r2g2r3g5r3g2r2g4~g003820-r880000~x2/)|
+|![Murray of Dunmore (Clan) example sett](/setts/s21/g4r4g4r6g15r11g2r2g16r21g2r2g4r2g2r3g5r3g2r2g4~g003820-r880000~x2/sett.png)|

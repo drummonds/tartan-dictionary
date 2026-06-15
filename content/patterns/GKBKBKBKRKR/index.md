@@ -16,5 +16,5 @@ GKBKBKBKRKR
 
 | Tartans |
 |---------------|
-| [Brotherhood of Dirk (Corporate)](/setts/s11/r18k6r18k4b8k8ba8k6ba4k64g12-b1474b4-ba780078-g5c6428-k101010-rc8002c/)|
-|![Brotherhood of Dirk (Corporate) example sett](/setts/s11/r18k6r18k4b8k8ba8k6ba4k64g12-b1474b4-ba780078-g5c6428-k101010-rc8002c/sett.png)|
+| [Brotherhood of Dirk (Corporate)](/setts/s11/r9k3r9k2b4k4ba4k3ba2k32g6~b1474b4-ba780078-g5c6428-k101010-rc8002c~x2/)|
+|![Brotherhood of Dirk (Corporate) example sett](/setts/s11/r9k3r9k2b4k4ba4k3ba2k32g6~b1474b4-ba780078-g5c6428-k101010-rc8002c~x2/sett.png)|

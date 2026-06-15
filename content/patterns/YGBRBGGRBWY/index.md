@@ -16,5 +16,5 @@ YGBRBGGRBWY
 
 | Tartans |
 |---------------|
-| [Banause-Zunft zu Olte](/setts/s11/y4g8b2r6b6g6ga2r64b28w6y4-b003c64-g285800-ga289c18-r880000-we0e0e0-ye8c000/)|
-|![Banause-Zunft zu Olte example sett](/setts/s11/y4g8b2r6b6g6ga2r64b28w6y4-b003c64-g285800-ga289c18-r880000-we0e0e0-ye8c000/sett.png)|
+| [Banause-Zunft zu Olte](/setts/s11/y2g4b1r3b3g3ga1r32b14w3y2~b003c64-g285800-ga289c18-r880000-we0e0e0-ye8c000~x2/)|
+|![Banause-Zunft zu Olte example sett](/setts/s11/y2g4b1r3b3g3ga1r32b14w3y2~b003c64-g285800-ga289c18-r880000-we0e0e0-ye8c000~x2/sett.png)|

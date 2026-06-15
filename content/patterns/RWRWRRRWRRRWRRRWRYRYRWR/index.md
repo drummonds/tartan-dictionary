@@ -16,5 +16,5 @@ RWRWRRRWRRRWRRRWRYRYRWR
 
 | Tartans |
 |---------------|
-| [Glenorchy, Lord (Portrait)](/setts/s23/r100w2ra24y8ra2y8ra24w2r8ra2r8w2ra12r2ra12w2r8ra2r8w2ra24w2r100-rc80000-ra880000-wf8f8f8-yd87c00/)|
-|![Glenorchy, Lord (Portrait) example sett](/setts/s23/r100w2ra24y8ra2y8ra24w2r8ra2r8w2ra12r2ra12w2r8ra2r8w2ra24w2r100-rc80000-ra880000-wf8f8f8-yd87c00/sett.png)|
+| [Glenorchy, Lord (Portrait)](/setts/s23/r50w1ra12y4ra1y4ra12w1r4ra1r4w1ra6r1ra6w1r4ra1r4w1ra12w1r50~rc80000-ra880000-wf8f8f8-yd87c00~x2/)|
+|![Glenorchy, Lord (Portrait) example sett](/setts/s23/r50w1ra12y4ra1y4ra12w1r4ra1r4w1ra6r1ra6w1r4ra1r4w1ra12w1r50~rc80000-ra880000-wf8f8f8-yd87c00~x2/sett.png)|

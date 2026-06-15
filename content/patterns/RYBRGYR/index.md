@@ -6,7 +6,7 @@ RYBRGYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12y6b48r6g42y6r12-b1474b4-g006818-rc80000-yfccc00/tartan.png)
+![Woven sample](/setts/s7/r2y1b8r1g7y1r2~b1474b4-g006818-rc80000-yfccc00~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYBRGYR
 
 | Tartans |
 |---------------|
-| [Cercle de Fermieres de St-Elie . . .](/setts/s7/r12y6b48r6g42y6r12-b1474b4-g006818-rc80000-yfccc00/)|
-|![Cercle de Fermieres de St-Elie . . . example sett](/setts/s7/r12y6b48r6g42y6r12-b1474b4-g006818-rc80000-yfccc00/sett.png)|
+| [Cercle de Fermieres de St-Elie . . .](/setts/s7/r2y1b8r1g7y1r2~b1474b4-g006818-rc80000-yfccc00~x6/)|
+|![Cercle de Fermieres de St-Elie . . . example sett](/setts/s7/r2y1b8r1g7y1r2~b1474b4-g006818-rc80000-yfccc00~x6/sett.png)|

@@ -16,5 +16,5 @@ GBGBGBGRGR
 
 | Tartans |
 |---------------|
-| [Braveheart Htg (Fashion)](/setts/s10/g12b8g160b4g8b4g36r16g12r8-b202060-g006818-r880000/)|
-|![Braveheart Htg (Fashion) example sett](/setts/s10/g12b8g160b4g8b4g36r16g12r8-b202060-g006818-r880000/sett.png)|
+| [Braveheart Htg (Fashion)](/setts/s10/g3b2g40b1g2b1g9r4g3r2~b202060-g006818-r880000~x4/)|
+|![Braveheart Htg (Fashion) example sett](/setts/s10/g3b2g40b1g2b1g9r4g3r2~b202060-g006818-r880000~x4/sett.png)|

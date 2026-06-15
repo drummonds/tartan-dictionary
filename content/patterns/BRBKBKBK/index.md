@@ -6,7 +6,7 @@ BRBKBKBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k64b4k4b4k4b36r72b4-b0000c4-k000000-r90784c/tartan.png)
+![Woven sample](/setts/s8/k16b1k1b1k1b9r18b1~b0000c4-k000000-r90784c~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBKBKBK
 
 | Tartans |
 |---------------|
-| [Kelvingrove (Fashion)](/setts/s8/k64b4k4b4k4b36r72b4-b0000c4-k000000-r90784c/)|
-|![Kelvingrove (Fashion) example sett](/setts/s8/k64b4k4b4k4b36r72b4-b0000c4-k000000-r90784c/sett.png)|
+| [Kelvingrove (Fashion)](/setts/s8/k16b1k1b1k1b9r18b1~b0000c4-k000000-r90784c~x4/)|
+|![Kelvingrove (Fashion) example sett](/setts/s8/k16b1k1b1k1b9r18b1~b0000c4-k000000-r90784c~x4/sett.png)|

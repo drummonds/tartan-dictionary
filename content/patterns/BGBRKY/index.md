@@ -6,7 +6,7 @@ BGBRKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4g36b30r48k2y4-b780078-g006818-k101010-r880000-yc4bc68/tartan.png)
+![Woven sample](/setts/s6/b2g18b15r24k1y2~b780078-g006818-k101010-r880000-yc4bc68~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRKY
 
 | Tartans |
 |---------------|
-| [Miller, Reverend Ian (Personal](/setts/s6/b4g36b30r48k2y4-b780078-g006818-k101010-r880000-yc4bc68/)|
-|![Miller, Reverend Ian (Personal example sett](/setts/s6/b4g36b30r48k2y4-b780078-g006818-k101010-r880000-yc4bc68/sett.png)|
+| [Miller, Reverend Ian (Personal](/setts/s6/b2g18b15r24k1y2~b780078-g006818-k101010-r880000-yc4bc68~x2/)|
+|![Miller, Reverend Ian (Personal example sett](/setts/s6/b2g18b15r24k1y2~b780078-g006818-k101010-r880000-yc4bc68~x2/sett.png)|

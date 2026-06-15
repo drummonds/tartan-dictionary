@@ -16,5 +16,5 @@ BRRWBWBKRBRGBKBRBR
 
 | Tartans |
 |---------------|
-| [Cooper, dress](/setts/s18/b4r8ra4w56b6w4b6k20r6b4r6g18b2k2b42r8b4ra4-b304080-g008000-k000000-rc00000-ra806050-we0e0e0/)|
-|![Cooper, dress example sett](/setts/s18/b4r8ra4w56b6w4b6k20r6b4r6g18b2k2b42r8b4ra4-b304080-g008000-k000000-rc00000-ra806050-we0e0e0/sett.png)|
+| [Cooper, dress](/setts/s18/b2r4ra2w28b3w2b3k10r3b2r3g9b1k1b21r4b2ra2~b304080-g008000-k000000-rc00000-ra806050-we0e0e0~x2/)|
+|![Cooper, dress example sett](/setts/s18/b2r4ra2w28b3w2b3k10r3b2r3g9b1k1b21r4b2ra2~b304080-g008000-k000000-rc00000-ra806050-we0e0e0~x2/sett.png)|

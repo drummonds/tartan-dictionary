@@ -16,7 +16,7 @@ GKGKGRGKBWBKGRGKG
 
 | Tartans |
 |---------------|
-| [MacRae](/setts/s17/g48k6g24r4g6k2b6w2b6k2g6r4g24k6g24k6g24-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
-|![MacRae example sett](/setts/s17/g48k6g24r4g6k2b6w2b6k2g6r4g24k6g24k6g24-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
-| [MacRae](/setts/s17/g24k6g24k6g24r4g6k2b6w2b6k2g6r4g24k6g24-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![MacRae example sett](/setts/s17/g24k6g24k6g24r4g6k2b6w2b6k2g6r4g24k6g24-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacRae](/setts/s17/g24k3g12r2g3k1b3w1b3k1g3r2g12k3g12k3g12~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/)|
+|![MacRae example sett](/setts/s17/g24k3g12r2g3k1b3w1b3k1g3r2g12k3g12k3g12~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/sett.png)|
+| [MacRae](/setts/s17/g12k3g12k3g12r2g3k1b3w1b3k1g3r2g12k3g12~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacRae example sett](/setts/s17/g12k3g12k3g12r2g3k1b3w1b3k1g3r2g12k3g12~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

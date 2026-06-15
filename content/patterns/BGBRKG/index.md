@@ -6,7 +6,7 @@ BGBRKG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b12g72b72r6k72g12-b441800-g644824-k00002c-r9c2828/tartan.png)
+![Woven sample](/setts/s6/b2g12b12r1k12g2~b441800-g644824-k00002c-r9c2828~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRKG
 
 | Tartans |
 |---------------|
-| [Ferguson Britt (Corporate)](/setts/s6/b12g72b72r6k72g12-b441800-g644824-k00002c-r9c2828/)|
-|![Ferguson Britt (Corporate) example sett](/setts/s6/b12g72b72r6k72g12-b441800-g644824-k00002c-r9c2828/sett.png)|
+| [Ferguson Britt (Corporate)](/setts/s6/b2g12b12r1k12g2~b441800-g644824-k00002c-r9c2828~x6/)|
+|![Ferguson Britt (Corporate) example sett](/setts/s6/b2g12b12r1k12g2~b441800-g644824-k00002c-r9c2828~x6/sett.png)|

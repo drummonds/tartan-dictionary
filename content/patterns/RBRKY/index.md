@@ -6,7 +6,7 @@ RBRKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r20b12r72k64y12-b780078-k101010-r888888-ye8c000/tartan.png)
+![Woven sample](/setts/s5/r5b3r18k16y3~b780078-k101010-r888888-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRKY
 
 | Tartans |
 |---------------|
-| [New York State Police Pipe Band](/setts/s5/r20b12r72k64y12-b780078-k101010-r888888-ye8c000/)|
-|![New York State Police Pipe Band example sett](/setts/s5/r20b12r72k64y12-b780078-k101010-r888888-ye8c000/sett.png)|
+| [New York State Police Pipe Band](/setts/s5/r5b3r18k16y3~b780078-k101010-r888888-ye8c000~x4/)|
+|![New York State Police Pipe Band example sett](/setts/s5/r5b3r18k16y3~b780078-k101010-r888888-ye8c000~x4/sett.png)|

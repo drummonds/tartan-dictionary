@@ -16,5 +16,5 @@ KBKGKRKGKW
 
 | Tartans |
 |---------------|
-| [Mount Dora](/setts/s10/k84b8k32g20ka4r12ka4g20ka6w8-b5a008c-g003c14-k000028-ka101010-rdc0000-we0e0e0/)|
-|![Mount Dora example sett](/setts/s10/k84b8k32g20ka4r12ka4g20ka6w8-b5a008c-g003c14-k000028-ka101010-rdc0000-we0e0e0/sett.png)|
+| [Mount Dora](/setts/s10/k42b4k16g10ka2r6ka2g10ka3w4~b5a008c-g003c14-k000028-ka101010-rdc0000-we0e0e0~x2/)|
+|![Mount Dora example sett](/setts/s10/k42b4k16g10ka2r6ka2g10ka3w4~b5a008c-g003c14-k000028-ka101010-rdc0000-we0e0e0~x2/sett.png)|

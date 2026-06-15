@@ -16,5 +16,5 @@ WWYWYRYRYYWYRYRYRWYW
 
 | Tartans |
 |---------------|
-| [elCorte](/setts/s20/w12wa10y8wa10ya4r10y4r28y20ya60wa2y4r8y4r2ya60r20wa28y4wa10-re87878-wffea97-wa82cffd-y86c67c-yadc943c/)|
-|![elCorte example sett](/setts/s20/w12wa10y8wa10ya4r10y4r28y20ya60wa2y4r8y4r2ya60r20wa28y4wa10-re87878-wffea97-wa82cffd-y86c67c-yadc943c/sett.png)|
+| [elCorte](/setts/s20/w6wa5y4wa5ya2r5y2r14y10ya30wa1y2r4y2r1ya30r10wa14y2wa5~re87878-wffea97-wa82cffd-y86c67c-yadc943c~x2/)|
+|![elCorte example sett](/setts/s20/w6wa5y4wa5ya2r5y2r14y10ya30wa1y2r4y2r1ya30r10wa14y2wa5~re87878-wffea97-wa82cffd-y86c67c-yadc943c~x2/sett.png)|

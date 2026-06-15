@@ -6,7 +6,7 @@ RBRBGGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4b2r2b22g32ga2w2-b2888c4-g289c18-ga003820-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/r2b1r1b11g16ga1w1~b2888c4-g289c18-ga003820-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRBGGW
 
 | Tartans |
 |---------------|
-| [Gift of Life Michigan (Corporate)](/setts/s7/r4b2r2b22g32ga2w2-b2888c4-g289c18-ga003820-rc80000-wfcfcfc/)|
-|![Gift of Life Michigan (Corporate) example sett](/setts/s7/r4b2r2b22g32ga2w2-b2888c4-g289c18-ga003820-rc80000-wfcfcfc/sett.png)|
+| [Gift of Life Michigan (Corporate)](/setts/s7/r2b1r1b11g16ga1w1~b2888c4-g289c18-ga003820-rc80000-wfcfcfc~x2/)|
+|![Gift of Life Michigan (Corporate) example sett](/setts/s7/r2b1r1b11g16ga1w1~b2888c4-g289c18-ga003820-rc80000-wfcfcfc~x2/sett.png)|

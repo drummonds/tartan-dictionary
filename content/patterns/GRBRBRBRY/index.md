@@ -16,7 +16,7 @@ GRBRBRBRY
 
 | Tartans |
 |---------------|
-| [Rose](/setts/s9/g4r56b12r10b4r4b4r22y4-b000052-g11450d-raa0000-yaaaaaa/)|
-|![Rose example sett](/setts/s9/g4r56b12r10b4r4b4r22y4-b000052-g11450d-raa0000-yaaaaaa/sett.png)|
-| [Rose](/setts/s9/g2r28b6r5b2r2b2r11y2-b000052-g11450d-raa0000-yaaaaaa/)|
-|![Rose example sett](/setts/s9/g2r28b6r5b2r2b2r11y2-b000052-g11450d-raa0000-yaaaaaa/sett.png)|
+| [Rose](/setts/s9/g2r28b6r5b2r2b2r11y2~b000052-g11450d-raa0000-yaaaaaa~x2/)|
+|![Rose example sett](/setts/s9/g2r28b6r5b2r2b2r11y2~b000052-g11450d-raa0000-yaaaaaa~x2/sett.png)|
+| [Rose](/setts/s9/g2r28b6r5b2r2b2r11y2~b000052-g11450d-raa0000-yaaaaaa/)|
+|![Rose example sett](/setts/s9/g2r28b6r5b2r2b2r11y2~b000052-g11450d-raa0000-yaaaaaa/sett.png)|

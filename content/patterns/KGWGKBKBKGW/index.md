@@ -16,7 +16,7 @@ KGWGKBKBKGW
 
 | Tartans |
 |---------------|
-| [Graham of Montrose #3](/setts/s11/k8g8w2g8k8b8k2b8k8g8w2-b2c4084-g005020-k101010-we0e0e0/)|
-|![Graham of Montrose #3 example sett](/setts/s11/k8g8w2g8k8b8k2b8k8g8w2-b2c4084-g005020-k101010-we0e0e0/sett.png)|
-| [Graham of Montrose](/setts/s11/k8g8w2g8k8b8k2b8k8g8w2-b304080-g008000-k000000-we0e0e0/)|
-|![Graham of Montrose example sett](/setts/s11/k8g8w2g8k8b8k2b8k8g8w2-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Graham of Montrose #3](/setts/s11/k4g4w1g4k4b4k1b4k4g4w1~b2c4084-g005020-k101010-we0e0e0~x2/)|
+|![Graham of Montrose #3 example sett](/setts/s11/k4g4w1g4k4b4k1b4k4g4w1~b2c4084-g005020-k101010-we0e0e0~x2/sett.png)|
+| [Graham of Montrose](/setts/s11/k4g4w1g4k4b4k1b4k4g4w1~b304080-g008000-k000000-we0e0e0~x2/)|
+|![Graham of Montrose example sett](/setts/s11/k4g4w1g4k4b4k1b4k4g4w1~b304080-g008000-k000000-we0e0e0~x2/sett.png)|

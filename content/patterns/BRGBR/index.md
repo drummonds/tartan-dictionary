@@ -6,7 +6,7 @@ BRGBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b4r56g28b28r4-b2c2c80-g006818-rc85858/tartan.png)
+![Woven sample](/setts/s5/b1r14g7b7r1~b2c2c80-g006818-rc85858~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRGBR
 
 | Tartans |
 |---------------|
-| [Fraser of Boblainy, Hugh](/setts/s5/b4r56g28b28r4-b2c2c80-g006818-rc85858/)|
-|![Fraser of Boblainy, Hugh example sett](/setts/s5/b4r56g28b28r4-b2c2c80-g006818-rc85858/sett.png)|
-| [Fraser of Boblainy, Hugh (Personal)](/setts/s5/b4r56g28b28r4-b2c2c80-g006818-rc80000/)|
-|![Fraser of Boblainy, Hugh (Personal) example sett](/setts/s5/b4r56g28b28r4-b2c2c80-g006818-rc80000/sett.png)|
+| [Fraser of Boblainy, Hugh](/setts/s5/b1r14g7b7r1~b2c2c80-g006818-rc85858~x4/)|
+|![Fraser of Boblainy, Hugh example sett](/setts/s5/b1r14g7b7r1~b2c2c80-g006818-rc85858~x4/sett.png)|
+| [Fraser of Boblainy, Hugh (Personal)](/setts/s5/b1r14g7b7r1~b2c2c80-g006818-rc80000~x4/)|
+|![Fraser of Boblainy, Hugh (Personal) example sett](/setts/s5/b1r14g7b7r1~b2c2c80-g006818-rc80000~x4/sett.png)|

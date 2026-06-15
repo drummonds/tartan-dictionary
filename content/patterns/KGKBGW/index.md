@@ -6,7 +6,7 @@ KGKBGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k86g16k16b42g20w4-b14283c-g003820-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/k43g8k8b21g10w2~b14283c-g003820-k101010-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKBGW
 
 | Tartans |
 |---------------|
-| [Longmuir (2014)](/setts/s6/k86g16k16b42g20w4-b14283c-g003820-k101010-wfcfcfc/)|
-|![Longmuir (2014) example sett](/setts/s6/k86g16k16b42g20w4-b14283c-g003820-k101010-wfcfcfc/sett.png)|
+| [Longmuir (2014)](/setts/s6/k43g8k8b21g10w2~b14283c-g003820-k101010-wfcfcfc~x2/)|
+|![Longmuir (2014) example sett](/setts/s6/k43g8k8b21g10w2~b14283c-g003820-k101010-wfcfcfc~x2/sett.png)|

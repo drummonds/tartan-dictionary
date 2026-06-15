@@ -16,5 +16,5 @@ BKWBYBKBWY
 
 | Tartans |
 |---------------|
-| [Regan](/setts/s10/b8k8w8b80y8ba16k8ba16w8y8-b780078-ba2c2c80-k101010-we0e0e0-ye8c000/)|
-|![Regan example sett](/setts/s10/b8k8w8b80y8ba16k8ba16w8y8-b780078-ba2c2c80-k101010-we0e0e0-ye8c000/sett.png)|
+| [Regan](/setts/s10/b1k1w1b10y1ba2k1ba2w1y1~b780078-ba2c2c80-k101010-we0e0e0-ye8c000~x8/)|
+|![Regan example sett](/setts/s10/b1k1w1b10y1ba2k1ba2w1y1~b780078-ba2c2c80-k101010-we0e0e0-ye8c000~x8/sett.png)|

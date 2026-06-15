@@ -16,5 +16,5 @@ GBGBGBGWGWGWGBGBGBGWGWGR
 
 | Tartans |
 |---------------|
-| [Ottawa](/setts/s24/g28b16g4b16g4b16g28w8g24w4g4w4g4ba8g4ba12g4ba8g4w4g4w4g24r4-b5480b0-ba000050-g908000-rc00000-we0e0e0/)|
-|![Ottawa example sett](/setts/s24/g28b16g4b16g4b16g28w8g24w4g4w4g4ba8g4ba12g4ba8g4w4g4w4g24r4-b5480b0-ba000050-g908000-rc00000-we0e0e0/sett.png)|
+| [Ottawa](/setts/s24/g7b4g1b4g1b4g7w2g6w1g1w1g1ba2g1ba3g1ba2g1w1g1w1g6r1~b5480b0-ba000050-g908000-rc00000-we0e0e0~x4/)|
+|![Ottawa example sett](/setts/s24/g7b4g1b4g1b4g7w2g6w1g1w1g1ba2g1ba3g1ba2g1w1g1w1g6r1~b5480b0-ba000050-g908000-rc00000-we0e0e0~x4/sett.png)|

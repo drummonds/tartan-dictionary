@@ -16,5 +16,5 @@ RGRGGGYGGYGYGY
 
 | Tartans |
 |---------------|
-| [Forster (Personal)](/setts/s14/r4g80ra4g4ga8g4y4g4ga16ya4ga4ya4ga4ya4-g003820-ga604000-rc80000-rae87878-ye8c000-yab0b0b0/)|
-|![Forster (Personal) example sett](/setts/s14/r4g80ra4g4ga8g4y4g4ga16ya4ga4ya4ga4ya4-g003820-ga604000-rc80000-rae87878-ye8c000-yab0b0b0/sett.png)|
+| [Forster (Personal)](/setts/s14/r1g20ra1g1ga2g1y1g1ga4ya1ga1ya1ga1ya1~g003820-ga604000-rc80000-rae87878-ye8c000-yab0b0b0~x4/)|
+|![Forster (Personal) example sett](/setts/s14/r1g20ra1g1ga2g1y1g1ga4ya1ga1ya1ga1ya1~g003820-ga604000-rc80000-rae87878-ye8c000-yab0b0b0~x4/sett.png)|

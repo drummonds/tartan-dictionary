@@ -16,5 +16,5 @@ BWBWBWBWBWYWY
 
 | Tartans |
 |---------------|
-| [Highland Park HS Pipe Band](/setts/s13/y88w4y8w8b8w4b56w4b8w8b8w4b56-b2c2c80-we0e0e0-ye8c000/)|
-|![Highland Park HS Pipe Band example sett](/setts/s13/y88w4y8w8b8w4b56w4b8w8b8w4b56-b2c2c80-we0e0e0-ye8c000/sett.png)|
+| [Highland Park HS Pipe Band](/setts/s13/y22w1y2w2b2w1b14w1b2w2b2w1b14~b2c2c80-we0e0e0-ye8c000~x4/)|
+|![Highland Park HS Pipe Band example sett](/setts/s13/y22w1y2w2b2w1b14w1b2w2b2w1b14~b2c2c80-we0e0e0-ye8c000~x4/sett.png)|

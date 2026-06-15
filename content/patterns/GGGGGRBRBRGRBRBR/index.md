@@ -16,5 +16,5 @@ GGGGGRBRBRGRBRBR
 
 | Tartans |
 |---------------|
-| [O'Brian #1 (Fashion)](/setts/s16/r62b4r6b4r6g24r6b4r6b4r62ga8g38ga72g38ga8-b1c0070-g00643c-ga604000-ra00000/)|
-|![O'Brian #1 (Fashion) example sett](/setts/s16/r62b4r6b4r6g24r6b4r6b4r62ga8g38ga72g38ga8-b1c0070-g00643c-ga604000-ra00000/sett.png)|
+| [O'Brian #1 (Fashion)](/setts/s16/r31b2r3b2r3g12r3b2r3b2r31ga4g19ga36g19ga4~b1c0070-g00643c-ga604000-ra00000~x2/)|
+|![O'Brian #1 (Fashion) example sett](/setts/s16/r31b2r3b2r3g12r3b2r3b2r31ga4g19ga36g19ga4~b1c0070-g00643c-ga604000-ra00000~x2/sett.png)|

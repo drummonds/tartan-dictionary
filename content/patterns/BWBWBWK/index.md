@@ -6,7 +6,7 @@ BWBWBWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6w6b48w24b12w18k6-b2c2c80-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b1w1b8w4b2w3k1~b2c2c80-k101010-we0e0e0~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWBWK
 
 | Tartans |
 |---------------|
-| [Queen Margaret University (Corporate](/setts/s7/b6w6b48w24b12w18k6-b2c2c80-k101010-we0e0e0/)|
-|![Queen Margaret University (Corporate example sett](/setts/s7/b6w6b48w24b12w18k6-b2c2c80-k101010-we0e0e0/sett.png)|
+| [Queen Margaret University (Corporate](/setts/s7/b1w1b8w4b2w3k1~b2c2c80-k101010-we0e0e0~x6/)|
+|![Queen Margaret University (Corporate example sett](/setts/s7/b1w1b8w4b2w3k1~b2c2c80-k101010-we0e0e0~x6/sett.png)|

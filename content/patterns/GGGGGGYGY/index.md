@@ -16,5 +16,5 @@ GGGGGGYGY
 
 | Tartans |
 |---------------|
-| [Kildonan Green (Fashion)](/setts/s9/g44ga6g6ga6g6ga18y56ga6y12-g006818-ga003820-ya0a0a0/)|
-|![Kildonan Green (Fashion) example sett](/setts/s9/g44ga6g6ga6g6ga18y56ga6y12-g006818-ga003820-ya0a0a0/sett.png)|
+| [Kildonan Green (Fashion)](/setts/s9/g22ga3g3ga3g3ga9y28ga3y6~g006818-ga003820-ya0a0a0~x2/)|
+|![Kildonan Green (Fashion) example sett](/setts/s9/g22ga3g3ga3g3ga9y28ga3y6~g006818-ga003820-ya0a0a0~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKYYKRKYYKYKYYKRKY
 
 | Tartans |
 |---------------|
-| [Stevens #6](/setts/s19/k6r6k28y4ya4k6r26k6y4ya4k8y12k6ya4y4k28r6k6ya6-k101010-rc80000-yd87c00-yae8c000/)|
-|![Stevens #6 example sett](/setts/s19/k6r6k28y4ya4k6r26k6y4ya4k8y12k6ya4y4k28r6k6ya6-k101010-rc80000-yd87c00-yae8c000/sett.png)|
+| [Stevens #6](/setts/s19/k3r3k14y2ya2k3r13k3y2ya2k4y6k3ya2y2k14r3k3ya3~k101010-rc80000-yd87c00-yae8c000~x2/)|
+|![Stevens #6 example sett](/setts/s19/k3r3k14y2ya2k3r13k3y2ya2k4y6k3ya2y2k14r3k3ya3~k101010-rc80000-yd87c00-yae8c000~x2/sett.png)|

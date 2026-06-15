@@ -16,5 +16,5 @@ GRGRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Walker, Evening (Name)](/setts/s12/r8k4ra14k30ra6k6ra6k14ra56g14ra12g4-g004c00-k00002c-r9c7400-ra8c0000/)|
-|![Walker, Evening (Name) example sett](/setts/s12/r8k4ra14k30ra6k6ra6k14ra56g14ra12g4-g004c00-k00002c-r9c7400-ra8c0000/sett.png)|
+| [Walker, Evening (Name)](/setts/s12/r4k2ra7k15ra3k3ra3k7ra28g7ra6g2~g004c00-k00002c-r9c7400-ra8c0000~x2/)|
+|![Walker, Evening (Name) example sett](/setts/s12/r4k2ra7k15ra3k3ra3k7ra28g7ra6g2~g004c00-k00002c-r9c7400-ra8c0000~x2/sett.png)|

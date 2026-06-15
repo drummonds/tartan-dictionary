@@ -16,5 +16,5 @@ BWRBRWRWB
 
 | Tartans |
 |---------------|
-| [Boring and Dull](/setts/s9/b10w8r2b52r50w2r16w10ba2-b2c2c80-ba1c1c1c-rdd0000-wf8f8f8/)|
-|![Boring and Dull example sett](/setts/s9/b10w8r2b52r50w2r16w10ba2-b2c2c80-ba1c1c1c-rdd0000-wf8f8f8/sett.png)|
+| [Boring and Dull](/setts/s9/b5w4r1b26r25w1r8w5ba1~b2c2c80-ba1c1c1c-rdd0000-wf8f8f8~x2/)|
+|![Boring and Dull example sett](/setts/s9/b5w4r1b26r25w1r8w5ba1~b2c2c80-ba1c1c1c-rdd0000-wf8f8f8~x2/sett.png)|

@@ -6,7 +6,7 @@ RBKBRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6b40k4b40ra40w40r6-b5c5c5c-k000000-rc80000-ra888888-wc0c0c0/tartan.png)
+![Woven sample](/setts/s7/r3b20k2b20ra20w20r3~b5c5c5c-k000000-rc80000-ra888888-wc0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKBRWR
 
 | Tartans |
 |---------------|
-| [Brodie Silver](/setts/s7/r6b40k4b40ra40w40r6-b5c5c5c-k000000-rc80000-ra888888-wc0c0c0/)|
-|![Brodie Silver example sett](/setts/s7/r6b40k4b40ra40w40r6-b5c5c5c-k000000-rc80000-ra888888-wc0c0c0/sett.png)|
+| [Brodie Silver](/setts/s7/r3b20k2b20ra20w20r3~b5c5c5c-k000000-rc80000-ra888888-wc0c0c0~x2/)|
+|![Brodie Silver example sett](/setts/s7/r3b20k2b20ra20w20r3~b5c5c5c-k000000-rc80000-ra888888-wc0c0c0~x2/sett.png)|

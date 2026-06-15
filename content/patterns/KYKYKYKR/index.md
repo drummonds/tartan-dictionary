@@ -6,7 +6,7 @@ KYKYKYKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k90y8k8y18k8y8k90r8-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k45y4k4y9k4y4k45r4~k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKYKYKR
 
 | Tartans |
 |---------------|
-| [Gwynn](/setts/s8/k90y8k8y18k8y8k90r8-k101010-rc80000-ye8c000/)|
-|![Gwynn example sett](/setts/s8/k90y8k8y18k8y8k90r8-k101010-rc80000-ye8c000/sett.png)|
+| [Gwynn](/setts/s8/k45y4k4y9k4y4k45r4~k101010-rc80000-ye8c000~x2/)|
+|![Gwynn example sett](/setts/s8/k45y4k4y9k4y4k45r4~k101010-rc80000-ye8c000~x2/sett.png)|

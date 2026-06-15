@@ -16,5 +16,5 @@ RYRGKBRBKGRY
 
 | Tartans |
 |---------------|
-| [Sturrock (Blue/Black)](/setts/s12/r32y6r32g44k32b32r104b32k32g44r32y6-b1870a4-g006818-k101010-rc80000-yd09800/)|
-|![Sturrock (Blue/Black) example sett](/setts/s12/r32y6r32g44k32b32r104b32k32g44r32y6-b1870a4-g006818-k101010-rc80000-yd09800/sett.png)|
+| [Sturrock (Blue/Black)](/setts/s12/r16y3r16g22k16b16r52b16k16g22r16y3~b1870a4-g006818-k101010-rc80000-yd09800~x2/)|
+|![Sturrock (Blue/Black) example sett](/setts/s12/r16y3r16g22k16b16r52b16k16g22r16y3~b1870a4-g006818-k101010-rc80000-yd09800~x2/sett.png)|

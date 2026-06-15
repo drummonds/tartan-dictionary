@@ -6,7 +6,7 @@ BWK
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/k120w12b6-b5c8ca8-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s3/k20w2b1~b5c8ca8-k101010-we0e0e0~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWK
 
 | Tartans |
 |---------------|
-| [Fily (Verneuil L'tang) (Personal)](/setts/s3/k120w12b6-b5c8ca8-k101010-we0e0e0/)|
-|![Fily (Verneuil L'tang) (Personal) example sett](/setts/s3/k120w12b6-b5c8ca8-k101010-we0e0e0/sett.png)|
+| [Fily (Verneuil L'tang) (Personal)](/setts/s3/k20w2b1~b5c8ca8-k101010-we0e0e0~x6/)|
+|![Fily (Verneuil L'tang) (Personal) example sett](/setts/s3/k20w2b1~b5c8ca8-k101010-we0e0e0~x6/sett.png)|

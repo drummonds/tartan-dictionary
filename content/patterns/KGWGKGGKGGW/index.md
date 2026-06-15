@@ -16,5 +16,5 @@ KGWGKGGKGGW
 
 | Tartans |
 |---------------|
-| [University of North Texas](/setts/s11/k2g6w6ga30k2ga6g4k2g2gb2w2-g289c18-ga006818-gb288028-k101010-wfcfcfc/)|
-|![University of North Texas example sett](/setts/s11/k2g6w6ga30k2ga6g4k2g2gb2w2-g289c18-ga006818-gb288028-k101010-wfcfcfc/sett.png)|
+| [University of North Texas](/setts/s11/k1g3w3ga15k1ga3g2k1g1gb1w1~g289c18-ga006818-gb288028-k101010-wfcfcfc~x2/)|
+|![University of North Texas example sett](/setts/s11/k1g3w3ga15k1ga3g2k1g1gb1w1~g289c18-ga006818-gb288028-k101010-wfcfcfc~x2/sett.png)|

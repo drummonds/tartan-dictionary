@@ -16,5 +16,5 @@ WRBRGRBRGRBRGRW
 
 | Tartans |
 |---------------|
-| [MacIntyre](/setts/s15/w2r4b4r8g32r4b2r8g2r4b32r8g4r4w2-b000064-g004c00-rc80000-wd0d0d0/)|
-|![MacIntyre example sett](/setts/s15/w2r4b4r8g32r4b2r8g2r4b32r8g4r4w2-b000064-g004c00-rc80000-wd0d0d0/sett.png)|
+| [MacIntyre](/setts/s15/w1r2b2r4g16r2b1r4g1r2b16r4g2r2w1~b000064-g004c00-rc80000-wd0d0d0~x2/)|
+|![MacIntyre example sett](/setts/s15/w1r2b2r4g16r2b1r4g1r2b16r4g2r2w1~b000064-g004c00-rc80000-wd0d0d0~x2/sett.png)|

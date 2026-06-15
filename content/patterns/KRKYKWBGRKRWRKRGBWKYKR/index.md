@@ -16,5 +16,5 @@ KRKYKWBGRKRWRKRGBWKYKR
 
 | Tartans |
 |---------------|
-| [Stewart/Stuart of Galloway (VS)](/setts/s22/r96k16y4k8w4b16g24r12k4r8w4r8k4r12g24b16w4k8y4k16r96k12-b202060-g285800-k101010-rc80000-wfcfcfc-yd8b000/)|
-|![Stewart/Stuart of Galloway (VS) example sett](/setts/s22/r96k16y4k8w4b16g24r12k4r8w4r8k4r12g24b16w4k8y4k16r96k12-b202060-g285800-k101010-rc80000-wfcfcfc-yd8b000/sett.png)|
+| [Stewart/Stuart of Galloway (VS)](/setts/s22/r24k4y1k2w1b4g6r3k1r2w1r2k1r3g6b4w1k2y1k4r24k3~b202060-g285800-k101010-rc80000-wfcfcfc-yd8b000~x4/)|
+|![Stewart/Stuart of Galloway (VS) example sett](/setts/s22/r24k4y1k2w1b4g6r3k1r2w1r2k1r3g6b4w1k2y1k4r24k3~b202060-g285800-k101010-rc80000-wfcfcfc-yd8b000~x4/sett.png)|

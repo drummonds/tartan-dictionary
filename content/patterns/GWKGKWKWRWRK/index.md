@@ -16,5 +16,5 @@ GWKGKWKWRWRK
 
 | Tartans |
 |---------------|
-| [MacLean of Duart Dress #2](/setts/s12/g24w4k8ga4k6w6k6w38r60w4r8k4-g808080-ga309c18-k101010-rdc0000-we0e0e0/)|
-|![MacLean of Duart Dress #2 example sett](/setts/s12/g24w4k8ga4k6w6k6w38r60w4r8k4-g808080-ga309c18-k101010-rdc0000-we0e0e0/sett.png)|
+| [MacLean of Duart Dress #2](/setts/s12/g12w2k4ga2k3w3k3w19r30w2r4k2~g808080-ga309c18-k101010-rdc0000-we0e0e0~x2/)|
+|![MacLean of Duart Dress #2 example sett](/setts/s12/g12w2k4ga2k3w3k3w19r30w2r4k2~g808080-ga309c18-k101010-rdc0000-we0e0e0~x2/sett.png)|

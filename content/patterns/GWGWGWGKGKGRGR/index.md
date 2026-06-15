@@ -16,5 +16,5 @@ GWGWGWGKGKGRGR
 
 | Tartans |
 |---------------|
-| [Ross Hunting](/setts/s14/g4w8g4w2g2w2g6k4g4k4g24r2g4r2-g004c00-k000000-rc80000-w9aff9a/)|
-|![Ross Hunting example sett](/setts/s14/g4w8g4w2g2w2g6k4g4k4g24r2g4r2-g004c00-k000000-rc80000-w9aff9a/sett.png)|
+| [Ross Hunting](/setts/s14/g2w4g2w1g1w1g3k2g2k2g12r1g2r1~g004c00-k000000-rc80000-w9aff9a~x2/)|
+|![Ross Hunting example sett](/setts/s14/g2w4g2w1g1w1g3k2g2k2g12r1g2r1~g004c00-k000000-rc80000-w9aff9a~x2/sett.png)|

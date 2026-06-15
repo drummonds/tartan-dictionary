@@ -16,5 +16,5 @@ BKBKBKGRB
 
 | Tartans |
 |---------------|
-| [Damm, Alexander (Personal)](/setts/s9/b44k4b4k4b4k28g32r4ba28-b202060-ba5f749c-g005448-k101010-rdc0000/)|
-|![Damm, Alexander (Personal) example sett](/setts/s9/b44k4b4k4b4k28g32r4ba28-b202060-ba5f749c-g005448-k101010-rdc0000/sett.png)|
+| [Damm, Alexander (Personal)](/setts/s9/b11k1b1k1b1k7g8r1ba7~b202060-ba5f749c-g005448-k101010-rdc0000~x4/)|
+|![Damm, Alexander (Personal) example sett](/setts/s9/b11k1b1k1b1k7g8r1ba7~b202060-ba5f749c-g005448-k101010-rdc0000~x4/sett.png)|

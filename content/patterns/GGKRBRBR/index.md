@@ -6,7 +6,7 @@ GGKRBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8ga48k40r4b64r8b64r4-b1474b4-g604000-ga006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/g2ga12k10r1b16r2b16r1~b1474b4-g604000-ga006818-k101010-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGKRBRBR
 
 | Tartans |
 |---------------|
-| [MacWilliam](/setts/s8/g8ga48k40r4b64r8b64r4-b1474b4-g604000-ga006818-k101010-rc80000/)|
-|![MacWilliam example sett](/setts/s8/g8ga48k40r4b64r8b64r4-b1474b4-g604000-ga006818-k101010-rc80000/sett.png)|
+| [MacWilliam](/setts/s8/g2ga12k10r1b16r2b16r1~b1474b4-g604000-ga006818-k101010-rc80000~x4/)|
+|![MacWilliam example sett](/setts/s8/g2ga12k10r1b16r2b16r1~b1474b4-g604000-ga006818-k101010-rc80000~x4/sett.png)|

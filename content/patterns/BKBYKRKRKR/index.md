@@ -16,7 +16,7 @@ BKBYKRKRKR
 
 | Tartans |
 |---------------|
-| [St George's School](/setts/s10/r20k8r8k12r56k20y8b60k8b14-b2c2c80-k101010-rc80000-ydc943c/)|
-|![St George's School example sett](/setts/s10/r20k8r8k12r56k20y8b60k8b14-b2c2c80-k101010-rc80000-ydc943c/sett.png)|
-| [St. George's (Edinburgh) (School)](/setts/s10/r14k6r8k10r50k14y4b44k6b8-b2c2c80-k101010-rc80000-ye8c000/)|
-|![St. George's (Edinburgh) (School) example sett](/setts/s10/r14k6r8k10r50k14y4b44k6b8-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [St George's School](/setts/s10/r10k4r4k6r28k10y4b30k4b7~b2c2c80-k101010-rc80000-ydc943c~x2/)|
+|![St George's School example sett](/setts/s10/r10k4r4k6r28k10y4b30k4b7~b2c2c80-k101010-rc80000-ydc943c~x2/sett.png)|
+| [St. George's (Edinburgh) (School)](/setts/s10/r7k3r4k5r25k7y2b22k3b4~b2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![St. George's (Edinburgh) (School) example sett](/setts/s10/r7k3r4k5r25k7y2b22k3b4~b2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

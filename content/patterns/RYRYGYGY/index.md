@@ -6,7 +6,7 @@ RYRYGYGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6y16r6y40g40y6g16y6-g604000-rc80000-ya08858/tartan.png)
+![Woven sample](/setts/s8/r3y8r3y20g20y3g8y3~g604000-rc80000-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYRYGYGY
 
 | Tartans |
 |---------------|
-| [Miyuki #4](/setts/s8/r6y16r6y40g40y6g16y6-g604000-rc80000-ya08858/)|
-|![Miyuki #4 example sett](/setts/s8/r6y16r6y40g40y6g16y6-g604000-rc80000-ya08858/sett.png)|
+| [Miyuki #4](/setts/s8/r3y8r3y20g20y3g8y3~g604000-rc80000-ya08858~x2/)|
+|![Miyuki #4 example sett](/setts/s8/r3y8r3y20g20y3g8y3~g604000-rc80000-ya08858~x2/sett.png)|

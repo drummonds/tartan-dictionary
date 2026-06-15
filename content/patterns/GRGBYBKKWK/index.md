@@ -16,5 +16,5 @@ GRGBYBKKWK
 
 | Tartans |
 |---------------|
-| [Webster](/setts/s10/g64r6ga24b6y6b6k48k48w4k8-b3474fc-g007800-ga503c28-k000000-rb00000-wc8c8c8-ydcbc00/)|
-|![Webster example sett](/setts/s10/g64r6ga24b6y6b6k48k48w4k8-b3474fc-g007800-ga503c28-k000000-rb00000-wc8c8c8-ydcbc00/sett.png)|
+| [Webster](/setts/s10/g32r3ga12b3y3b3k24k24w2k4~b3474fc-g007800-ga503c28-k000000-rb00000-wc8c8c8-ydcbc00~x2/)|
+|![Webster example sett](/setts/s10/g32r3ga12b3y3b3k24k24w2k4~b3474fc-g007800-ga503c28-k000000-rb00000-wc8c8c8-ydcbc00~x2/sett.png)|

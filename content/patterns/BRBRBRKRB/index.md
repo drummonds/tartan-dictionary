@@ -16,5 +16,5 @@ BRBRBRKRB
 
 | Tartans |
 |---------------|
-| [MacPherson Hunting](/setts/s9/b2r2ba16r2b2r2k16r2b2-b000064-ba646464-k000000-rc80000/)|
-|![MacPherson Hunting example sett](/setts/s9/b2r2ba16r2b2r2k16r2b2-b000064-ba646464-k000000-rc80000/sett.png)|
+| [MacPherson Hunting](/setts/s9/b1r1ba8r1b1r1k8r1b1~b000064-ba646464-k000000-rc80000~x2/)|
+|![MacPherson Hunting example sett](/setts/s9/b1r1ba8r1b1r1k8r1b1~b000064-ba646464-k000000-rc80000~x2/sett.png)|

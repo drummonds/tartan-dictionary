@@ -16,5 +16,5 @@ BYBYGYRYRYB
 
 | Tartans |
 |---------------|
-| [Unnamed C19th (Silk Sash)](/setts/s11/b14y4ba10ya4g14ya4r10y4r10ya4b14-b202060-ba440044-g285800-rc80000-yb0b0b0-yafccc00/)|
-|![Unnamed C19th (Silk Sash) example sett](/setts/s11/b14y4ba10ya4g14ya4r10y4r10ya4b14-b202060-ba440044-g285800-rc80000-yb0b0b0-yafccc00/sett.png)|
+| [Unnamed C19th (Silk Sash)](/setts/s11/b7y2ba5ya2g7ya2r5y2r5ya2b7~b202060-ba440044-g285800-rc80000-yb0b0b0-yafccc00~x2/)|
+|![Unnamed C19th (Silk Sash) example sett](/setts/s11/b7y2ba5ya2g7ya2r5y2r5ya2b7~b202060-ba440044-g285800-rc80000-yb0b0b0-yafccc00~x2/sett.png)|

@@ -16,5 +16,5 @@ RGRGKGRGYR
 
 | Tartans |
 |---------------|
-| [Unnamed C20th - National Archives`](/setts/s10/r8g8r8g24k62ga32ra2ga12y2ra2-g604000-ga603800-k101010-rcc4438-rae86000-yfccc00/)|
-|![Unnamed C20th - National Archives` example sett](/setts/s10/r8g8r8g24k62ga32ra2ga12y2ra2-g604000-ga603800-k101010-rcc4438-rae86000-yfccc00/sett.png)|
+| [Unnamed C20th - National Archives`](/setts/s10/r4g4r4g12k31ga16ra1ga6y1ra1~g604000-ga603800-k101010-rcc4438-rae86000-yfccc00~x2/)|
+|![Unnamed C20th - National Archives` example sett](/setts/s10/r4g4r4g12k31ga16ra1ga6y1ra1~g604000-ga603800-k101010-rcc4438-rae86000-yfccc00~x2/sett.png)|

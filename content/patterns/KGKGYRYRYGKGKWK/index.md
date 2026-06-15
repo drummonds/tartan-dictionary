@@ -16,5 +16,5 @@ KGKGYRYRYGKGKWK
 
 | Tartans |
 |---------------|
-| [Confessore (Personal)](/setts/s15/k24g4k4g16y4r4y16r4y8g16k4g4k32w4k8-g5c6428-k101010-rc80000-we0e0e0-yfccc00/)|
-|![Confessore (Personal) example sett](/setts/s15/k24g4k4g16y4r4y16r4y8g16k4g4k32w4k8-g5c6428-k101010-rc80000-we0e0e0-yfccc00/sett.png)|
+| [Confessore (Personal)](/setts/s15/k6g1k1g4y1r1y4r1y2g4k1g1k8w1k2~g5c6428-k101010-rc80000-we0e0e0-yfccc00~x4/)|
+|![Confessore (Personal) example sett](/setts/s15/k6g1k1g4y1r1y4r1y2g4k1g1k8w1k2~g5c6428-k101010-rc80000-we0e0e0-yfccc00~x4/sett.png)|

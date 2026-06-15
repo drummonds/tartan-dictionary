@@ -16,5 +16,5 @@ RGRGRGRGRKGBGBW
 
 | Tartans |
 |---------------|
-| [Moir (Loch Insch) (Personal)](/setts/s15/r62g6r4g4r6g4r4g6r30k30g4b30g6b6w4-b44a0d8-g409c34-k101010-rc8002c-we0e0e0/)|
-|![Moir (Loch Insch) (Personal) example sett](/setts/s15/r62g6r4g4r6g4r4g6r30k30g4b30g6b6w4-b44a0d8-g409c34-k101010-rc8002c-we0e0e0/sett.png)|
+| [Moir (Loch Insch) (Personal)](/setts/s15/r31g3r2g2r3g2r2g3r15k15g2b15g3b3w2~b44a0d8-g409c34-k101010-rc8002c-we0e0e0~x2/)|
+|![Moir (Loch Insch) (Personal) example sett](/setts/s15/r31g3r2g2r3g2r2g3r15k15g2b15g3b3w2~b44a0d8-g409c34-k101010-rc8002c-we0e0e0~x2/sett.png)|

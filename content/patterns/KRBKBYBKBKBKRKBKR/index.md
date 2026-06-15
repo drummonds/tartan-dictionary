@@ -16,5 +16,5 @@ KRBKBYBKBKBKRKBKR
 
 | Tartans |
 |---------------|
-| [North Sea Oil (Fashion)](/setts/s17/k12r2b38k4ba2y2ba8k56b4k8b4k2r4k2b4k2r4-b5c5c5c-ba441800-k101010-r888888-ye8c000/)|
-|![North Sea Oil (Fashion) example sett](/setts/s17/k12r2b38k4ba2y2ba8k56b4k8b4k2r4k2b4k2r4-b5c5c5c-ba441800-k101010-r888888-ye8c000/sett.png)|
+| [North Sea Oil (Fashion)](/setts/s17/k6r1b19k2ba1y1ba4k28b2k4b2k1r2k1b2k1r2~b5c5c5c-ba441800-k101010-r888888-ye8c000~x2/)|
+|![North Sea Oil (Fashion) example sett](/setts/s17/k6r1b19k2ba1y1ba4k28b2k4b2k1r2k1b2k1r2~b5c5c5c-ba441800-k101010-r888888-ye8c000~x2/sett.png)|

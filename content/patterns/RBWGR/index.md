@@ -6,7 +6,7 @@ RBWGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r44g34w4b12r26-b5480b0-g008000-rc00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/r22g17w2b6r13~b5480b0-g008000-rc00000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBWGR
 
 | Tartans |
 |---------------|
-| [Menzies](/setts/s5/r44g34w4b12r26-b5480b0-g008000-rc00000-we0e0e0/)|
-|![Menzies example sett](/setts/s5/r44g34w4b12r26-b5480b0-g008000-rc00000-we0e0e0/sett.png)|
+| [Menzies](/setts/s5/r22g17w2b6r13~b5480b0-g008000-rc00000-we0e0e0~x2/)|
+|![Menzies example sett](/setts/s5/r22g17w2b6r13~b5480b0-g008000-rc00000-we0e0e0~x2/sett.png)|

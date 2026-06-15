@@ -16,9 +16,9 @@ RWBWKWKWKWRKRW
 
 | Tartans |
 |---------------|
-| [Rothesay, Duke of #2](/setts/s14/r12w112b18w16k32w8k6w8k6w72r72k6r24w6-b2c4084-k101010-rdc0000-we0e0e0/)|
-|![Rothesay, Duke of #2 example sett](/setts/s14/r12w112b18w16k32w8k6w8k6w72r72k6r24w6-b2c4084-k101010-rdc0000-we0e0e0/sett.png)|
-| [Duke of Rothesay (Royal)](/setts/s14/r12w112b18w16k32w8k6w8k6w72r72k6r24w6-b2c2c80-k101010-rc80000-we0e0e0/)|
-|![Duke of Rothesay (Royal) example sett](/setts/s14/r12w112b18w16k32w8k6w8k6w72r72k6r24w6-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
-| [Rothesay, Duke of](/setts/s14/r12w112b18w16k32w8k6w8k6w72r72k6r24w6-b304080-k000000-rc00000-we0e0e0/)|
-|![Rothesay, Duke of example sett](/setts/s14/r12w112b18w16k32w8k6w8k6w72r72k6r24w6-b304080-k000000-rc00000-we0e0e0/sett.png)|
+| [Rothesay, Duke of #2](/setts/s14/r6w56b9w8k16w4k3w4k3w36r36k3r12w3~b2c4084-k101010-rdc0000-we0e0e0~x2/)|
+|![Rothesay, Duke of #2 example sett](/setts/s14/r6w56b9w8k16w4k3w4k3w36r36k3r12w3~b2c4084-k101010-rdc0000-we0e0e0~x2/sett.png)|
+| [Duke of Rothesay (Royal)](/setts/s14/r6w56b9w8k16w4k3w4k3w36r36k3r12w3~b2c2c80-k101010-rc80000-we0e0e0~x2/)|
+|![Duke of Rothesay (Royal) example sett](/setts/s14/r6w56b9w8k16w4k3w4k3w36r36k3r12w3~b2c2c80-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [Rothesay, Duke of](/setts/s14/r6w56b9w8k16w4k3w4k3w36r36k3r12w3~b304080-k000000-rc00000-we0e0e0~x2/)|
+|![Rothesay, Duke of example sett](/setts/s14/r6w56b9w8k16w4k3w4k3w36r36k3r12w3~b304080-k000000-rc00000-we0e0e0~x2/sett.png)|

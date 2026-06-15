@@ -6,7 +6,7 @@ KGGKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k150g52g6k8y12-g808080-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s5/k75g26g3k4y6~g808080-k101010-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGGKY
 
 | Tartans |
 |---------------|
-| [Perry Ancient (Personal)](/setts/s5/k150g52g6k8y12-g808080-k101010-ye8c000/)|
-|![Perry Ancient (Personal) example sett](/setts/s5/k150g52g6k8y12-g808080-k101010-ye8c000/sett.png)|
+| [Perry Ancient (Personal)](/setts/s5/k75g26g3k4y6~g808080-k101010-ye8c000~x2/)|
+|![Perry Ancient (Personal) example sett](/setts/s5/k75g26g3k4y6~g808080-k101010-ye8c000~x2/sett.png)|

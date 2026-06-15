@@ -16,5 +16,5 @@ BKBKBKBKBKBKBKBBKBGKBKBKBKGKBKBKGKBK
 
 | Tartans |
 |---------------|
-| [Weiss-Halliwell (Personal)](/setts/s36/b12k2ba2k4ba2k2b12k2ba44k6ba2k6ba20k2b6ba2k12ba2g6k2ba20k6ba2k6ba44k2g12k2ba2k4ba2k2g12k2ba24k2-b000048-ba646464-g003820-k101010/)|
-|![Weiss-Halliwell (Personal) example sett](/setts/s36/b12k2ba2k4ba2k2b12k2ba44k6ba2k6ba20k2b6ba2k12ba2g6k2ba20k6ba2k6ba44k2g12k2ba2k4ba2k2g12k2ba24k2-b000048-ba646464-g003820-k101010/sett.png)|
+| [Weiss-Halliwell (Personal)](/setts/s36/b6k1ba1k2ba1k1b6k1ba22k3ba1k3ba10k1b3ba1k6ba1g3k1ba10k3ba1k3ba22k1g6k1ba1k2ba1k1g6k1ba12k1~b000048-ba646464-g003820-k101010~x2/)|
+|![Weiss-Halliwell (Personal) example sett](/setts/s36/b6k1ba1k2ba1k1b6k1ba22k3ba1k3ba10k1b3ba1k6ba1g3k1ba10k3ba1k3ba22k1g6k1ba1k2ba1k1g6k1ba12k1~b000048-ba646464-g003820-k101010~x2/sett.png)|

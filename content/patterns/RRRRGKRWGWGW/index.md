@@ -16,5 +16,5 @@ RRRRGKRWGWGW
 
 | Tartans |
 |---------------|
-| [Canfor](/setts/s12/r124ra2r12ra18g4k4ra18w12g2w12g40w4-g757778-k101010-rdd072f-raa90725-wffffff/)|
-|![Canfor example sett](/setts/s12/r124ra2r12ra18g4k4ra18w12g2w12g40w4-g757778-k101010-rdd072f-raa90725-wffffff/sett.png)|
+| [Canfor](/setts/s12/r62ra1r6ra9g2k2ra9w6g1w6g20w2~g757778-k101010-rdd072f-raa90725-wffffff~x2/)|
+|![Canfor example sett](/setts/s12/r62ra1r6ra9g2k2ra9w6g1w6g20w2~g757778-k101010-rdd072f-raa90725-wffffff~x2/sett.png)|

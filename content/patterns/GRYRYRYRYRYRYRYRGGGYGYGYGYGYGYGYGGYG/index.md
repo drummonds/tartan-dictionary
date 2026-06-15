@@ -16,5 +16,5 @@ GRYRYRYRYRYRYRYRGGGYGYGYGYGYGYGYGGYG
 
 | Tartans |
 |---------------|
-| [Ontario Centennial](/setts/s36/g50y16g8ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y20ga40g12ga24r8y1r1y1r1y1r1y1r1y1r1y1r1y28r6ga4-g003820-ga604000-rc80000-ybc8c00/)|
-|![Ontario Centennial example sett](/setts/s36/g50y16g8ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y20ga40g12ga24r8y1r1y1r1y1r1y1r1y1r1y1r1y28r6ga4-g003820-ga604000-rc80000-ybc8c00/sett.png)|
+| [Ontario Centennial](/setts/s36/g50y16g8ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y20ga40g12ga24r8y1r1y1r1y1r1y1r1y1r1y1r1y28r6ga4~g003820-ga604000-rc80000-ybc8c00/)|
+|![Ontario Centennial example sett](/setts/s36/g50y16g8ga8y1ga1y1ga1y1ga1y1ga1y1ga1y1ga1y20ga40g12ga24r8y1r1y1r1y1r1y1r1y1r1y1r1y28r6ga4~g003820-ga604000-rc80000-ybc8c00/sett.png)|

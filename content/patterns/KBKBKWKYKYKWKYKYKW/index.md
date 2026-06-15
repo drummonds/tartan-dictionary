@@ -16,5 +16,5 @@ KBKBKWKYKYKWKYKYKW
 
 | Tartans |
 |---------------|
-| [Children In Need](/setts/s18/k40b40k8b40k40w8k40y40k8y40k40w8k40ya40k8ya40k40w8-b2888c4-k101010-we0e0e0-ye08070-yae8c000/)|
-|![Children In Need example sett](/setts/s18/k40b40k8b40k40w8k40y40k8y40k40w8k40ya40k8ya40k40w8-b2888c4-k101010-we0e0e0-ye08070-yae8c000/sett.png)|
+| [Children In Need](/setts/s18/k5b5k1b5k5w1k5y5k1y5k5w1k5ya5k1ya5k5w1~b2888c4-k101010-we0e0e0-ye08070-yae8c000~x8/)|
+|![Children In Need example sett](/setts/s18/k5b5k1b5k5w1k5y5k1y5k5w1k5ya5k1ya5k5w1~b2888c4-k101010-we0e0e0-ye08070-yae8c000~x8/sett.png)|

@@ -6,7 +6,7 @@ KWWWKBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k8w2wa4w2k32b72wa8-b2888c4-k101010-wfcfcfc-wa98c8e8/tartan.png)
+![Woven sample](/setts/s7/k4w1wa2w1k16b36wa4~b2888c4-k101010-wfcfcfc-wa98c8e8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWWWKBW
 
 | Tartans |
 |---------------|
-| [NHS Grampian (Corporate)](/setts/s7/k8w2wa4w2k32b72wa8-b2888c4-k101010-wfcfcfc-wa98c8e8/)|
-|![NHS Grampian (Corporate) example sett](/setts/s7/k8w2wa4w2k32b72wa8-b2888c4-k101010-wfcfcfc-wa98c8e8/sett.png)|
+| [NHS Grampian (Corporate)](/setts/s7/k4w1wa2w1k16b36wa4~b2888c4-k101010-wfcfcfc-wa98c8e8~x2/)|
+|![NHS Grampian (Corporate) example sett](/setts/s7/k4w1wa2w1k16b36wa4~b2888c4-k101010-wfcfcfc-wa98c8e8~x2/sett.png)|

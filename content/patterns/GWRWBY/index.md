@@ -6,7 +6,7 @@ GWRWBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g94w12r48w6b10y6-b433a5a-g6a5e47-rb62531-we5e0d2-ye0a126/tartan.png)
+![Woven sample](/setts/s6/g47w6r24w3b5y3~b433a5a-g6a5e47-rb62531-we5e0d2-ye0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWRWBY
 
 | Tartans |
 |---------------|
-| [Duminiak (Trevose, Pennsylvania)](/setts/s6/g94w12r48w6b10y6-b433a5a-g6a5e47-rb62531-we5e0d2-ye0a126/)|
-|![Duminiak (Trevose, Pennsylvania) example sett](/setts/s6/g94w12r48w6b10y6-b433a5a-g6a5e47-rb62531-we5e0d2-ye0a126/sett.png)|
+| [Duminiak (Trevose, Pennsylvania)](/setts/s6/g47w6r24w3b5y3~b433a5a-g6a5e47-rb62531-we5e0d2-ye0a126~x2/)|
+|![Duminiak (Trevose, Pennsylvania) example sett](/setts/s6/g47w6r24w3b5y3~b433a5a-g6a5e47-rb62531-we5e0d2-ye0a126~x2/sett.png)|

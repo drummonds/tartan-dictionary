@@ -16,5 +16,5 @@ BRBRBGKGKGYGW
 
 | Tartans |
 |---------------|
-| [McCrann, Julian David (Personal)](/setts/s13/b16r4b4r8b16g4k20g20k8g4y4g8w2-b2c4084-g5c6428-k000028-raf0014-we0e0e0-ye8c000/)|
-|![McCrann, Julian David (Personal) example sett](/setts/s13/b16r4b4r8b16g4k20g20k8g4y4g8w2-b2c4084-g5c6428-k000028-raf0014-we0e0e0-ye8c000/sett.png)|
+| [McCrann, Julian David (Personal)](/setts/s13/b8r2b2r4b8g2k10g10k4g2y2g4w1~b2c4084-g5c6428-k000028-raf0014-we0e0e0-ye8c000~x2/)|
+|![McCrann, Julian David (Personal) example sett](/setts/s13/b8r2b2r4b8g2k10g10k4g2y2g4w1~b2c4084-g5c6428-k000028-raf0014-we0e0e0-ye8c000~x2/sett.png)|

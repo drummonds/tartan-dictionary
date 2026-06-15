@@ -16,5 +16,5 @@ BKWKBKGKGKGKBK
 
 | Tartans |
 |---------------|
-| [Caithelyn (Personal)](/setts/s14/b40k4w4k4b4k20g6k4g40k4g6k20b16k4-b780078-g006818-k101010-we0e0e0/)|
-|![Caithelyn (Personal) example sett](/setts/s14/b40k4w4k4b4k20g6k4g40k4g6k20b16k4-b780078-g006818-k101010-we0e0e0/sett.png)|
+| [Caithelyn (Personal)](/setts/s14/b20k2w2k2b2k10g3k2g20k2g3k10b8k2~b780078-g006818-k101010-we0e0e0~x2/)|
+|![Caithelyn (Personal) example sett](/setts/s14/b20k2w2k2b2k10g3k2g20k2g3k10b8k2~b780078-g006818-k101010-we0e0e0~x2/sett.png)|

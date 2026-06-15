@@ -16,5 +16,5 @@ BWKWKBKBKW
 
 | Tartans |
 |---------------|
-| [Seacliff Academy](/setts/s10/b92w2k6wa8k6ba6k4ba22k2wa4-b003c64-ba2474e8-k101010-wffffff-wa82cffd/)|
-|![Seacliff Academy example sett](/setts/s10/b92w2k6wa8k6ba6k4ba22k2wa4-b003c64-ba2474e8-k101010-wffffff-wa82cffd/sett.png)|
+| [Seacliff Academy](/setts/s10/b46w1k3wa4k3ba3k2ba11k1wa2~b003c64-ba2474e8-k101010-wffffff-wa82cffd~x2/)|
+|![Seacliff Academy example sett](/setts/s10/b46w1k3wa4k3ba3k2ba11k1wa2~b003c64-ba2474e8-k101010-wffffff-wa82cffd~x2/sett.png)|

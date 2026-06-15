@@ -1,0 +1,47 @@
+---
+title: "Fort William (Fashion)"
+date: 2023-03-18
+---
+In pattern [BWBRBWBWYWR](/patterns/bwbrbwbwywr/).
+
+
+This was sourced from tartans-authority.  It is a [11 stripes tartan](/stripes/stripes11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/4902/
+
+## Thread count
+K/4 LP6 K4 LT68 K8 LP8 K48 LP4 G6 LP4 LT/20
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#38C438;"><span style="color:#38C438;filter:grayscale(1) invert(1) contrast(100);">#38C438</span></code> `#38C438` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
+| K | <code style="background-color:#381C0C;"><span style="color:#381C0C;filter:grayscale(1) invert(1) contrast(100);">#381C0C</span></code> `#381C0C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| LP | <code style="background-color:#94ACFC;"><span style="color:#94ACFC;filter:grayscale(1) invert(1) contrast(100);">#94ACFC</span></code> `#94ACFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.25 |
+| LT | <code style="background-color:#B07430;"><span style="color:#B07430;filter:grayscale(1) invert(1) contrast(100);">#B07430</span></code> `#B07430` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.16 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Glen Tilt District Tartan Tartan Number: 2076. Earliest known date: pre 1923 Recorded as having been woven at 'Clunes Farm' which is probably Clunes Lodge near the southern entrance to Glen Tilt. The thread count is taken from a home-woven, home dyed sample in the archives of Perth museum. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w1g1r1g14r1b6r11g1r1w1~b2c2c80-g006818-rc80000-we0e0e0~x4/) — ΔT 0.82
+1. [Unidentified Specimen #2](/setts/s10/w1g1r1g14r1b6r11g1r1w1~b2c4084-g005020-rdc0000-we0e0e0~x4/) — ΔT 0.84
+1. [MacLintock](/setts/s12/g38r3g3r3b9r3ba2r40b3r3b2r6~b1c0070-ba5c8ca8-g006818-rc80000~x2/) — ΔT 0.92
+1. [Robertson 7](/setts/s13/w1g2r18b2r2b18r2g18r2b2r18g2w1~b304080-g008000-rc00000-we0e0e0~x2/) — ΔT 0.95
+1. [Glen Tilt](/setts/s10/w1g1r1g14r1b6r11g1r1w1~b304080-g008000-rc00000-we0e0e0~x4/) — ΔT 0.96
+1. [MacLintock - 1880 (Clan)](/setts/s12/g36r3g3r3b9r3ba2r40b3r3b2r6~b1c0070-ba5c8ca8-g006818-rc80000~x2/) — ΔT 0.96
+1. [Annan](/setts/s10/r15g1r2y2r2g1r3k8g10r3~g808080-k000000-r906030-yff8500~x4/) — ΔT 1.02
+1. [Wilson's No.005](/setts/s10/g5r4g17w5r32w5g17r4g5wa2~g044028-rc80000-w00fcfc-wafcfcfc~x2/) — ΔT 1.03
+1. [Robertson 1820 - White line](/setts/s13/w1g2r18b2r2b18r2g18r2b2r18g2w1~b202060-g006818-rc80000-wfcfcfc~x2/) — ΔT 1.07
+1. [MacLintock](/setts/s12/g36r3g3r3b9r3ba2r40b3r3b2r6~b304080-ba5480b0-g008000-rc00000~x2/) — ΔT 1.08
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w1g1r1g14r1b6r11g1r1w1~b2c2c80-g006818-rc80000-we0e0e0~x4/"><circle cx="259.0" cy="143.9" r="4" fill="#3465a4"><title>Glen Tilt District Tartan Tartan Number: 2076. Earliest known date: pre 1923 Recorded as having been woven at 'Clunes Farm' which is probably Clunes Lodge near the southern entrance to Glen Tilt. The thread count is taken from a home-woven, home dyed sample in the archives of Perth museum. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w1g1r1g14r1b6r11g1r1w1~b2c4084-g005020-rdc0000-we0e0e0~x4/"><circle cx="258.4" cy="142.3" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/setts/s12/g38r3g3r3b9r3ba2r40b3r3b2r6~b1c0070-ba5c8ca8-g006818-rc80000~x2/"><circle cx="336.9" cy="117.6" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s13/w1g2r18b2r2b18r2g18r2b2r18g2w1~b304080-g008000-rc00000-we0e0e0~x2/"><circle cx="292.1" cy="132.0" r="4" fill="#3465a4"><title>Robertson 7</title></circle></a><a href="/setts/s10/w1g1r1g14r1b6r11g1r1w1~b304080-g008000-rc00000-we0e0e0~x4/"><circle cx="258.3" cy="144.0" r="4" fill="#3465a4"><title>Glen Tilt</title></circle></a><a href="/setts/s12/g36r3g3r3b9r3ba2r40b3r3b2r6~b1c0070-ba5c8ca8-g006818-rc80000~x2/"><circle cx="340.1" cy="118.0" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s10/r15g1r2y2r2g1r3k8g10r3~g808080-k000000-r906030-yff8500~x4/"><circle cx="285.4" cy="159.0" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/setts/s10/g5r4g17w5r32w5g17r4g5wa2~g044028-rc80000-w00fcfc-wafcfcfc~x2/"><circle cx="260.1" cy="151.7" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/setts/s13/w1g2r18b2r2b18r2g18r2b2r18g2w1~b202060-g006818-rc80000-wfcfcfc~x2/"><circle cx="283.8" cy="128.5" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><a href="/setts/s12/g36r3g3r3b9r3ba2r40b3r3b2r6~b304080-ba5480b0-g008000-rc00000~x2/"><circle cx="348.4" cy="121.6" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><circle cx="297.0" cy="128.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/r10w2y3w2b24w4b4r34b2w3b2~b381c0c-rb07430-w94acfc-y38c438~x2/

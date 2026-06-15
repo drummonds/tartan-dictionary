@@ -16,7 +16,7 @@ RKYKWKBKBKYKYKY
 
 | Tartans |
 |---------------|
-| [Ruxton](/setts/s15/r44k6y2k2w6k6b2k6b16k38y8k4y2k14y6-b1c0070-k101010-r880000-wf8f8f8-yd09800/)|
-|![Ruxton example sett](/setts/s15/r44k6y2k2w6k6b2k6b16k38y8k4y2k14y6-b1c0070-k101010-r880000-wf8f8f8-yd09800/sett.png)|
-| [Ruxton](/setts/s15/r42k6y2k2w6k6b2k6b16k38y8k4y2k14y6-b304080-k000000-r802040-we0e0e0-yf0c000/)|
-|![Ruxton example sett](/setts/s15/r42k6y2k2w6k6b2k6b16k38y8k4y2k14y6-b304080-k000000-r802040-we0e0e0-yf0c000/sett.png)|
+| [Ruxton](/setts/s15/r22k3y1k1w3k3b1k3b8k19y4k2y1k7y3~b1c0070-k101010-r880000-wf8f8f8-yd09800~x2/)|
+|![Ruxton example sett](/setts/s15/r22k3y1k1w3k3b1k3b8k19y4k2y1k7y3~b1c0070-k101010-r880000-wf8f8f8-yd09800~x2/sett.png)|
+| [Ruxton](/setts/s15/r21k3y1k1w3k3b1k3b8k19y4k2y1k7y3~b304080-k000000-r802040-we0e0e0-yf0c000~x2/)|
+|![Ruxton example sett](/setts/s15/r21k3y1k1w3k3b1k3b8k19y4k2y1k7y3~b304080-k000000-r802040-we0e0e0-yf0c000~x2/sett.png)|

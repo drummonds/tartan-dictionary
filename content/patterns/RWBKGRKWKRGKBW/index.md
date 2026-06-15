@@ -16,5 +16,5 @@ RWBKGRKWKRGKBW
 
 | Tartans |
 |---------------|
-| [Scottish Prison Service](/setts/s14/w8b60k6g40r8k2w6k2r8g40k6b60w8r4-b1474b4-g289c18-k101010-rc80000-we0e0e0/)|
-|![Scottish Prison Service example sett](/setts/s14/w8b60k6g40r8k2w6k2r8g40k6b60w8r4-b1474b4-g289c18-k101010-rc80000-we0e0e0/sett.png)|
+| [Scottish Prison Service](/setts/s14/w4b30k3g20r4k1w3k1r4g20k3b30w4r2~b1474b4-g289c18-k101010-rc80000-we0e0e0~x2/)|
+|![Scottish Prison Service example sett](/setts/s14/w4b30k3g20r4k1w3k1r4g20k3b30w4r2~b1474b4-g289c18-k101010-rc80000-we0e0e0~x2/sett.png)|

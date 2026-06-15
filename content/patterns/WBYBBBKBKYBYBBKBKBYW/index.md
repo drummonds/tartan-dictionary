@@ -16,5 +16,5 @@ WBYBBBKBKYBYBBKBKBYW
 
 | Tartans |
 |---------------|
-| [McDill (2015)](/setts/s20/w2b4y4b40ba2b2k12b12k12y4b2y4ba12b6k2b6k40b2y4w2-b680028-ba1474b4-k000000-wfcfcfc-yc89800/)|
-|![McDill (2015) example sett](/setts/s20/w2b4y4b40ba2b2k12b12k12y4b2y4ba12b6k2b6k40b2y4w2-b680028-ba1474b4-k000000-wfcfcfc-yc89800/sett.png)|
+| [McDill (2015)](/setts/s20/w1b2y2b20ba1b1k6b6k6y2b1y2ba6b3k1b3k20b1y2w1~b680028-ba1474b4-k000000-wfcfcfc-yc89800~x2/)|
+|![McDill (2015) example sett](/setts/s20/w1b2y2b20ba1b1k6b6k6y2b1y2ba6b3k1b3k20b1y2w1~b680028-ba1474b4-k000000-wfcfcfc-yc89800~x2/sett.png)|

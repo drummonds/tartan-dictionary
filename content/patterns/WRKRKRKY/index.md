@@ -6,7 +6,7 @@ WRKRKRKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/tartan.png)
+![Woven sample](/setts/s8/y4k17r1k4r2k4r33w3~k101010-r901c38-wfcfcfc-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRKRKRKY
 
 | Tartans |
 |---------------|
-| [Mens Bigi](/setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/)|
-|![Mens Bigi example sett](/setts/s8/y8k34r2k8r4k8r66w6-k101010-r901c38-wfcfcfc-yd87c00/sett.png)|
+| [Mens Bigi](/setts/s8/y4k17r1k4r2k4r33w3~k101010-r901c38-wfcfcfc-yd87c00~x2/)|
+|![Mens Bigi example sett](/setts/s8/y4k17r1k4r2k4r33w3~k101010-r901c38-wfcfcfc-yd87c00~x2/sett.png)|

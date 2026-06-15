@@ -16,5 +16,5 @@ GYYYBYBYK
 
 | Tartans |
 |---------------|
-| [Cotswolds Distillery](/setts/s9/g8y30ya34y8b6y6b6y24k8-b646464-g604000-k000000-ycbc1a4-ya97967d/)|
-|![Cotswolds Distillery example sett](/setts/s9/g8y30ya34y8b6y6b6y24k8-b646464-g604000-k000000-ycbc1a4-ya97967d/sett.png)|
+| [Cotswolds Distillery](/setts/s9/g4y15ya17y4b3y3b3y12k4~b646464-g604000-k000000-ycbc1a4-ya97967d~x2/)|
+|![Cotswolds Distillery example sett](/setts/s9/g4y15ya17y4b3y3b3y12k4~b646464-g604000-k000000-ycbc1a4-ya97967d~x2/sett.png)|

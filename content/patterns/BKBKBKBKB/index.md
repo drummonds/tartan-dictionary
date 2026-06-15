@@ -16,9 +16,9 @@ BKBKBKBKB
 
 | Tartans |
 |---------------|
-| [Grey Breton](/setts/s9/b14k19b14k6b14k6b14k47b6-b666666-k101010/)|
-|![Grey Breton example sett](/setts/s9/b14k19b14k6b14k6b14k47b6-b666666-k101010/sett.png)|
-| [Dark Island Black (Fashion)](/setts/s9/b8k4b4k8b40k86b4k8b4-b404040-k101010/)|
-|![Dark Island Black (Fashion) example sett](/setts/s9/b8k4b4k8b40k86b4k8b4-b404040-k101010/sett.png)|
-| [Grey Breton (District|)](/setts/s9/b14k19b14k6b14k6b14k47b6-b5c5c5c-k101010/)|
-|![Grey Breton (District|) example sett](/setts/s9/b14k19b14k6b14k6b14k47b6-b5c5c5c-k101010/sett.png)|
+| [Grey Breton](/setts/s9/b14k19b14k6b14k6b14k47b6~b666666-k101010/)|
+|![Grey Breton example sett](/setts/s9/b14k19b14k6b14k6b14k47b6~b666666-k101010/sett.png)|
+| [Dark Island Black (Fashion)](/setts/s9/b4k2b2k4b20k43b2k4b2~b404040-k101010~x2/)|
+|![Dark Island Black (Fashion) example sett](/setts/s9/b4k2b2k4b20k43b2k4b2~b404040-k101010~x2/sett.png)|
+| [Grey Breton (District|)](/setts/s9/b14k19b14k6b14k6b14k47b6~b5c5c5c-k101010/)|
+|![Grey Breton (District|) example sett](/setts/s9/b14k19b14k6b14k6b14k47b6~b5c5c5c-k101010/sett.png)|

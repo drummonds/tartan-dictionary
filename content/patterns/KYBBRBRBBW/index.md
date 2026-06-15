@@ -16,5 +16,5 @@ KYBBRBRBBW
 
 | Tartans |
 |---------------|
-| [Ertico](/setts/s10/k12y4b4ba24r8ba4r4ba4b40w4-b2c4084-ba141e46-k000000-ra00048-we0e0e0-yf8e38c/)|
-|![Ertico example sett](/setts/s10/k12y4b4ba24r8ba4r4ba4b40w4-b2c4084-ba141e46-k000000-ra00048-we0e0e0-yf8e38c/sett.png)|
+| [Ertico](/setts/s10/k3y1b1ba6r2ba1r1ba1b10w1~b2c4084-ba141e46-k000000-ra00048-we0e0e0-yf8e38c~x4/)|
+|![Ertico example sett](/setts/s10/k3y1b1ba6r2ba1r1ba1b10w1~b2c4084-ba141e46-k000000-ra00048-we0e0e0-yf8e38c~x4/sett.png)|

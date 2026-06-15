@@ -16,7 +16,7 @@ GRGRGRWRW
 
 | Tartans |
 |---------------|
-| [Lindsay Dress Red](/setts/s9/g52r6g6r6g6r22w54r6w10-g005020-rdc0000-we0e0e0/)|
-|![Lindsay Dress Red example sett](/setts/s9/g52r6g6r6g6r22w54r6w10-g005020-rdc0000-we0e0e0/sett.png)|
-| [Lindsay, dress Red](/setts/s9/g52r6g6r6g6r22w54r6w10-g008000-rc00000-we0e0e0/)|
-|![Lindsay, dress Red example sett](/setts/s9/g52r6g6r6g6r22w54r6w10-g008000-rc00000-we0e0e0/sett.png)|
+| [Lindsay Dress Red](/setts/s9/g26r3g3r3g3r11w27r3w5~g005020-rdc0000-we0e0e0~x2/)|
+|![Lindsay Dress Red example sett](/setts/s9/g26r3g3r3g3r11w27r3w5~g005020-rdc0000-we0e0e0~x2/sett.png)|
+| [Lindsay, dress Red](/setts/s9/g26r3g3r3g3r11w27r3w5~g008000-rc00000-we0e0e0~x2/)|
+|![Lindsay, dress Red example sett](/setts/s9/g26r3g3r3g3r11w27r3w5~g008000-rc00000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ GGKGKGGKRK
 
 | Tartans |
 |---------------|
-| [Dinwiddie](/setts/s10/g14ga4k4ga82k24gb44ga12k4r8k4-g908000-ga808080-gb008000-k000000-rc00020/)|
-|![Dinwiddie example sett](/setts/s10/g14ga4k4ga82k24gb44ga12k4r8k4-g908000-ga808080-gb008000-k000000-rc00020/sett.png)|
+| [Dinwiddie](/setts/s10/g7ga2k2ga41k12gb22ga6k2r4k2~g908000-ga808080-gb008000-k000000-rc00020~x2/)|
+|![Dinwiddie example sett](/setts/s10/g7ga2k2ga41k12gb22ga6k2r4k2~g908000-ga808080-gb008000-k000000-rc00020~x2/sett.png)|

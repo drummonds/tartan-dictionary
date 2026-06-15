@@ -16,5 +16,5 @@ RBBBRBRBR
 
 | Tartans |
 |---------------|
-| [Edwards](/setts/s9/r37b4r7b4r9b40ba2b4r2-b202060-ba5c8ca8-r888888/)|
-|![Edwards example sett](/setts/s9/r37b4r7b4r9b40ba2b4r2-b202060-ba5c8ca8-r888888/sett.png)|
+| [Edwards](/setts/s9/r37b4r7b4r9b40ba2b4r2~b202060-ba5c8ca8-r888888/)|
+|![Edwards example sett](/setts/s9/r37b4r7b4r9b40ba2b4r2~b202060-ba5c8ca8-r888888/sett.png)|

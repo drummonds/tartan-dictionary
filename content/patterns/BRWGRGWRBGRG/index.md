@@ -16,5 +16,5 @@ BRWGRGWRBGRG
 
 | Tartans |
 |---------------|
-| [McGirr, David (Letterkenny)](/setts/s12/g26r2g26b12r2w12g26r2g26w12r2b12-b5f749c-g1e492b-rb62531-wf9f5ef/)|
-|![McGirr, David (Letterkenny) example sett](/setts/s12/g26r2g26b12r2w12g26r2g26w12r2b12-b5f749c-g1e492b-rb62531-wf9f5ef/sett.png)|
+| [McGirr, David (Letterkenny)](/setts/s12/g13r1g13b6r1w6g13r1g13w6r1b6~b5f749c-g1e492b-rb62531-wf9f5ef~x2/)|
+|![McGirr, David (Letterkenny) example sett](/setts/s12/g13r1g13b6r1w6g13r1g13w6r1b6~b5f749c-g1e492b-rb62531-wf9f5ef~x2/sett.png)|

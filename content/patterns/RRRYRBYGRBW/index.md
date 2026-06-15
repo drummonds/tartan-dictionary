@@ -16,5 +16,5 @@ RRRYRBYGRBW
 
 | Tartans |
 |---------------|
-| [Porcupine Fancy Tartan Tartan Number: 1303. Earliest known date: 1969 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r2ra2r6y2r2b16ya14g2r2ba2w2-b441800-ba5c8ca8-g006818-r888888-rac80000-we0e0e0-ya08858-yae8c000/)|
-|![Porcupine Fancy Tartan Tartan Number: 1303. Earliest known date: 1969 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/r2ra2r6y2r2b16ya14g2r2ba2w2-b441800-ba5c8ca8-g006818-r888888-rac80000-we0e0e0-ya08858-yae8c000/sett.png)|
+| [Porcupine Fancy Tartan Tartan Number: 1303. Earliest known date: 1969 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r1ra1r3y1r1b8ya7g1r1ba1w1~b441800-ba5c8ca8-g006818-r888888-rac80000-we0e0e0-ya08858-yae8c000~x2/)|
+|![Porcupine Fancy Tartan Tartan Number: 1303. Earliest known date: 1969 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/r1ra1r3y1r1b8ya7g1r1ba1w1~b441800-ba5c8ca8-g006818-r888888-rac80000-we0e0e0-ya08858-yae8c000~x2/sett.png)|

@@ -1,0 +1,57 @@
+---
+title: "Brodie Dress"
+date: 2023-03-18
+---
+In pattern [KRKYKR](/patterns/krkykr/).
+
+
+This was sourced from weddslist.  It is a [6 stripes tartan](/stripes/stripes6/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
+## Thread count
+DR/4 K16 LG2 K16 DR32 K/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#AA0000;"><span style="color:#AA0000;filter:grayscale(1) invert(1) contrast(100);">#AA0000</span></code> `#AA0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.07 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LG | <code style="background-color:#AAAA00;"><span style="color:#AAAA00;filter:grayscale(1) invert(1) contrast(100);">#AAAA00</span></code> `#AAAA00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.13 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DR/4 K16 LG2 K16 DR32 K/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brodie](/setts/s6/k2r16k8y1k8r2~k000000-rc00000-yf0c000~x2/) — ΔT 0.37
+1. [Brodie Dress](/setts/s6/k2r16k8y1k8r2~k000000-rc80000-yffc800/) — ΔT 0.49
+1. [MacIver](/setts/s5/k16r2k2r12w1~k000000-rc00000-we0e0e0~x2/) — ΔT 0.72
+1. [MacQueen](/setts/s6/k2r6k2r6k12y1~k000000-rc00000-yf0c000~x2/) — ΔT 0.76
+1. [MacQueen](/setts/s6/k2r6k2r6k12y1~k000000-rc80000-yc8c800~x2/) — ΔT 0.77
+1. [MacQueen](/setts/s6/k2r6k2r6k12y1~k000000-raa0000-yaaaa00~x2/) — ΔT 0.81
+1. [Munro VS](/setts/s5/k18r4k18r32y3~k000000-raa0000-yaaaaaa~x2/) — ΔT 0.88
+1. [Munro VS](/setts/s5/k18r4k18r32y3~k000000-raa0000-yaaaaaa/) — ΔT 0.88
+1. [Munro](/setts/s5/k18r4k18r32w3~k000000-rc00000-we0e0e0~x2/) — ΔT 0.98
+1. [MacIain](/setts/s7/r4k8r4k8r12k1y2~k000000-raa0000-yaaaa00~x2/) — ΔT 1.00
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2r16k8y1k8r2~k000000-rc00000-yf0c000~x2/"><circle cx="321.0" cy="201.4" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s6/k2r16k8y1k8r2~k000000-rc80000-yffc800/"><circle cx="319.4" cy="199.9" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/setts/s5/k16r2k2r12w1~k000000-rc00000-we0e0e0~x2/"><circle cx="349.6" cy="205.4" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s6/k2r6k2r6k12y1~k000000-rc00000-yf0c000~x2/"><circle cx="324.6" cy="221.1" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s6/k2r6k2r6k12y1~k000000-rc80000-yc8c800~x2/"><circle cx="323.2" cy="220.2" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s6/k2r6k2r6k12y1~k000000-raa0000-yaaaa00~x2/"><circle cx="330.4" cy="225.6" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s5/k18r4k18r32y3~k000000-raa0000-yaaaaaa~x2/"><circle cx="295.5" cy="239.0" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32y3~k000000-raa0000-yaaaaaa/"><circle cx="295.5" cy="239.0" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32w3~k000000-rc00000-we0e0e0~x2/"><circle cx="288.5" cy="233.8" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1y2~k000000-raa0000-yaaaa00~x2/"><circle cx="294.4" cy="224.5" r="4" fill="#3465a4"><title>MacIain</title></circle></a><circle cx="326.8" cy="206.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s6/k2r16k8y1k8r2~k000000-raa0000-yaaaa00~x2/

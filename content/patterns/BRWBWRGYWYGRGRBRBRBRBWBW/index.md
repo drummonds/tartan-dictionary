@@ -16,7 +16,7 @@ BRWBWRGYWYGRGRBRBRBRBWBW
 
 | Tartans |
 |---------------|
-| [Hebridean, North Uist](/setts/s24/b10r6w4b2w4r6g18y4w2y4g18r2g2r54b2r2b2r54b2r2b18w2b2w8-b000050-g008000-rc00000-we0e0e0-yf0c000/)|
-|![Hebridean, North Uist example sett](/setts/s24/b10r6w4b2w4r6g18y4w2y4g18r2g2r54b2r2b2r54b2r2b18w2b2w8-b000050-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
-| [Hebridean Artifact Tartan Tartan Number: 583. Earliest known date: 1814 Sample from N. Uist. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/b10r6w4b2w4r6g18y4w2y4g18r2g2r54b2r2b2r54b2r2b18w2b2w8-b202060-g006818-rc80000-we0e0e0-ye8c000/)|
-|![Hebridean Artifact Tartan Tartan Number: 583. Earliest known date: 1814 Sample from N. Uist. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/b10r6w4b2w4r6g18y4w2y4g18r2g2r54b2r2b2r54b2r2b18w2b2w8-b202060-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Hebridean, North Uist](/setts/s24/b5r3w2b1w2r3g9y2w1y2g9r1g1r27b1r1b1r27b1r1b9w1b1w4~b000050-g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Hebridean, North Uist example sett](/setts/s24/b5r3w2b1w2r3g9y2w1y2g9r1g1r27b1r1b1r27b1r1b9w1b1w4~b000050-g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|
+| [Hebridean Artifact Tartan Tartan Number: 583. Earliest known date: 1814 Sample from N. Uist. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/b5r3w2b1w2r3g9y2w1y2g9r1g1r27b1r1b1r27b1r1b9w1b1w4~b202060-g006818-rc80000-we0e0e0-ye8c000~x2/)|
+|![Hebridean Artifact Tartan Tartan Number: 583. Earliest known date: 1814 Sample from N. Uist. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/b5r3w2b1w2r3g9y2w1y2g9r1g1r27b1r1b1r27b1r1b9w1b1w4~b202060-g006818-rc80000-we0e0e0-ye8c000~x2/sett.png)|

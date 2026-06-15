@@ -6,7 +6,7 @@ BRBBWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b16w4b72ba72r4ba16-b003c64-ba142836-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s6/b4w1b18ba18r1ba4~b003c64-ba142836-rff0000-wffffff~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRBBWB
 
 | Tartans |
 |---------------|
-| [Ewell Castle School](/setts/s6/b16w4b72ba72r4ba16-b003c64-ba142836-rff0000-wffffff/)|
-|![Ewell Castle School example sett](/setts/s6/b16w4b72ba72r4ba16-b003c64-ba142836-rff0000-wffffff/sett.png)|
-| [Ewell Castle School](/setts/s6/b16w4b72ba72r4ba16-b1474b4-ba202060-rc80000-wfcfcfc/)|
-|![Ewell Castle School example sett](/setts/s6/b16w4b72ba72r4ba16-b1474b4-ba202060-rc80000-wfcfcfc/sett.png)|
+| [Ewell Castle School](/setts/s6/b4w1b18ba18r1ba4~b003c64-ba142836-rff0000-wffffff~x4/)|
+|![Ewell Castle School example sett](/setts/s6/b4w1b18ba18r1ba4~b003c64-ba142836-rff0000-wffffff~x4/sett.png)|
+| [Ewell Castle School](/setts/s6/b4w1b18ba18r1ba4~b1474b4-ba202060-rc80000-wfcfcfc~x4/)|
+|![Ewell Castle School example sett](/setts/s6/b4w1b18ba18r1ba4~b1474b4-ba202060-rc80000-wfcfcfc~x4/sett.png)|

@@ -16,5 +16,5 @@ BKRBWBWBKBBBW
 
 | Tartans |
 |---------------|
-| [Leando (Coldingham) Dress (Personal)](/setts/s13/b76k8r6ba12w4ba4w4ba4k24b12ba4b12w4-b576982-ba321308-k000000-ra20d22-wf7f1e8/)|
-|![Leando (Coldingham) Dress (Personal) example sett](/setts/s13/b76k8r6ba12w4ba4w4ba4k24b12ba4b12w4-b576982-ba321308-k000000-ra20d22-wf7f1e8/sett.png)|
+| [Leando (Coldingham) Dress (Personal)](/setts/s13/b38k4r3ba6w2ba2w2ba2k12b6ba2b6w2~b576982-ba321308-k000000-ra20d22-wf7f1e8~x2/)|
+|![Leando (Coldingham) Dress (Personal) example sett](/setts/s13/b38k4r3ba6w2ba2w2ba2k12b6ba2b6w2~b576982-ba321308-k000000-ra20d22-wf7f1e8~x2/sett.png)|

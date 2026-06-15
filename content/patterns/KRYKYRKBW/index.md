@@ -16,5 +16,5 @@ KRYKYRKBW
 
 | Tartans |
 |---------------|
-| [Muylle, Jelle (Personal)](/setts/s9/k30r6y6k6y6r6k48b6w6-b1474b4-k101010-rdc0000-wf8f8f8-yf8e38c/)|
-|![Muylle, Jelle (Personal) example sett](/setts/s9/k30r6y6k6y6r6k48b6w6-b1474b4-k101010-rdc0000-wf8f8f8-yf8e38c/sett.png)|
+| [Muylle, Jelle (Personal)](/setts/s9/k5r1y1k1y1r1k8b1w1~b1474b4-k101010-rdc0000-wf8f8f8-yf8e38c~x6/)|
+|![Muylle, Jelle (Personal) example sett](/setts/s9/k5r1y1k1y1r1k8b1w1~b1474b4-k101010-rdc0000-wf8f8f8-yf8e38c~x6/sett.png)|

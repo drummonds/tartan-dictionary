@@ -6,7 +6,7 @@ KRKRGKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k4r4k2r36g48k2g4y4-g006818-k101010-ra03400-yd09800/tartan.png)
+![Woven sample](/setts/s8/k2r2k1r18g24k1g2y2~g006818-k101010-ra03400-yd09800~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRKRGKGY
 
 | Tartans |
 |---------------|
-| [Gleneil (Spoof)](/setts/s8/k4r4k2r36g48k2g4y4-g006818-k101010-ra03400-yd09800/)|
-|![Gleneil (Spoof) example sett](/setts/s8/k4r4k2r36g48k2g4y4-g006818-k101010-ra03400-yd09800/sett.png)|
-| [Gleneil](/setts/s8/k4r4k4r48g62k2g4y4-g008000-k000000-rc00000-yf0c000/)|
-|![Gleneil example sett](/setts/s8/k4r4k4r48g62k2g4y4-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Gleneil (Spoof)](/setts/s8/k2r2k1r18g24k1g2y2~g006818-k101010-ra03400-yd09800~x2/)|
+|![Gleneil (Spoof) example sett](/setts/s8/k2r2k1r18g24k1g2y2~g006818-k101010-ra03400-yd09800~x2/sett.png)|
+| [Gleneil](/setts/s8/k2r2k2r24g31k1g2y2~g008000-k000000-rc00000-yf0c000~x2/)|
+|![Gleneil example sett](/setts/s8/k2r2k2r24g31k1g2y2~g008000-k000000-rc00000-yf0c000~x2/sett.png)|

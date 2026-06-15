@@ -16,5 +16,5 @@ WKBKBKBKWKY
 
 | Tartans |
 |---------------|
-| [McCandlish Arisaid, Grey (Name)](/setts/s11/w12k4b48k4b4k8b4k24wa48k4y4-b5c5c5c-k101010-wa8ace8-wae0e0e0-yd09800/)|
-|![McCandlish Arisaid, Grey (Name) example sett](/setts/s11/w12k4b48k4b4k8b4k24wa48k4y4-b5c5c5c-k101010-wa8ace8-wae0e0e0-yd09800/sett.png)|
+| [McCandlish Arisaid, Grey (Name)](/setts/s11/w3k1b12k1b1k2b1k6wa12k1y1~b5c5c5c-k101010-wa8ace8-wae0e0e0-yd09800~x4/)|
+|![McCandlish Arisaid, Grey (Name) example sett](/setts/s11/w3k1b12k1b1k2b1k6wa12k1y1~b5c5c5c-k101010-wa8ace8-wae0e0e0-yd09800~x4/sett.png)|

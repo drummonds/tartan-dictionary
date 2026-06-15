@@ -6,7 +6,7 @@ GBGBBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g10b4g18ba38bb18y4-b2c2c80-ba000048-bb4c0000-g005020-yfccc00/tartan.png)
+![Woven sample](/setts/s6/g5b2g9ba19bb9y2~b2c2c80-ba000048-bb4c0000-g005020-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBBY
 
 | Tartans |
 |---------------|
-| [Lyle and Scott](/setts/s6/g10b4g18ba38bb18y4-b2c2c80-ba000048-bb4c0000-g005020-yfccc00/)|
-|![Lyle and Scott example sett](/setts/s6/g10b4g18ba38bb18y4-b2c2c80-ba000048-bb4c0000-g005020-yfccc00/sett.png)|
+| [Lyle and Scott](/setts/s6/g5b2g9ba19bb9y2~b2c2c80-ba000048-bb4c0000-g005020-yfccc00~x2/)|
+|![Lyle and Scott example sett](/setts/s6/g5b2g9ba19bb9y2~b2c2c80-ba000048-bb4c0000-g005020-yfccc00~x2/sett.png)|

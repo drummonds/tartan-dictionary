@@ -16,5 +16,5 @@ RBRKRWRKRBR
 
 | Tartans |
 |---------------|
-| [Varenne](/setts/s11/r64b8ra4k16ra6w4ra6k16ra4b8ra60-b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8/)|
-|![Varenne example sett](/setts/s11/r64b8ra4k16ra6w4ra6k16ra4b8ra60-b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8/sett.png)|
+| [Varenne](/setts/s11/r32b4ra2k8ra3w2ra3k8ra2b4ra30~b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8~x2/)|
+|![Varenne example sett](/setts/s11/r32b4ra2k8ra3w2ra3k8ra2b4ra30~b3c3c3c-k000000-ra0783c-ra8c0000-wc8c8c8~x2/sett.png)|

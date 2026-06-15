@@ -16,7 +16,7 @@ KBKBKBKGKGKWBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Campbell, The 42nd Dress](/setts/s20/k16b20k4b4k4b20k16g22k4g22k16w4b4w28b2w6b2w28b4w4-b1474b4-g006818-k101010-wfcfcfc/)|
-|![Campbell, The 42nd Dress example sett](/setts/s20/k16b20k4b4k4b20k16g22k4g22k16w4b4w28b2w6b2w28b4w4-b1474b4-g006818-k101010-wfcfcfc/sett.png)|
-| [Campbell, Forty Second](/setts/s20/k16b20k4b4k4b20k16g22k4g22k16w4b4w28b2w6b2w28b4w4-b304080-g008000-k000000-we0e0e0/)|
-|![Campbell, Forty Second example sett](/setts/s20/k16b20k4b4k4b20k16g22k4g22k16w4b4w28b2w6b2w28b4w4-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Campbell, The 42nd Dress](/setts/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~b1474b4-g006818-k101010-wfcfcfc~x2/)|
+|![Campbell, The 42nd Dress example sett](/setts/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~b1474b4-g006818-k101010-wfcfcfc~x2/sett.png)|
+| [Campbell, Forty Second](/setts/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~b304080-g008000-k000000-we0e0e0~x2/)|
+|![Campbell, Forty Second example sett](/setts/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~b304080-g008000-k000000-we0e0e0~x2/sett.png)|

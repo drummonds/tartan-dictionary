@@ -6,7 +6,7 @@ WKWBRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4r24b4w12k12w2-b00004c-k000000-rc80000-wd0d0d0/tartan.png)
+![Woven sample](/setts/s6/w2r12b2w6k6w1~b00004c-k000000-rc80000-wd0d0d0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKWBRW
 
 | Tartans |
 |---------------|
-| [MacTavish](/setts/s6/w4r24b4w12k12w2-b00004c-k000000-rc80000-wd0d0d0/)|
-|![MacTavish example sett](/setts/s6/w4r24b4w12k12w2-b00004c-k000000-rc80000-wd0d0d0/sett.png)|
+| [MacTavish](/setts/s6/w2r12b2w6k6w1~b00004c-k000000-rc80000-wd0d0d0~x2/)|
+|![MacTavish example sett](/setts/s6/w2r12b2w6k6w1~b00004c-k000000-rc80000-wd0d0d0~x2/sett.png)|

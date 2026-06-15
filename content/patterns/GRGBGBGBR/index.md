@@ -16,9 +16,9 @@ GRGBGBGBR
 
 | Tartans |
 |---------------|
-| [Brown, Barnaby (Personal)](/setts/s9/g8r4g32b8g4b8g4b40r8-b202060-g006818-rc8002c/)|
-|![Brown, Barnaby (Personal) example sett](/setts/s9/g8r4g32b8g4b8g4b40r8-b202060-g006818-rc8002c/sett.png)|
-| [Brown, Barnaby (Personal)](/setts/s9/g8r4g32b8g4b8g4b40r8-b2c2c80-g006818-rc80000/)|
-|![Brown, Barnaby (Personal) example sett](/setts/s9/g8r4g32b8g4b8g4b40r8-b2c2c80-g006818-rc80000/sett.png)|
-| [Barnaby Brown Pibroch](/setts/s9/g8r4g32b8g4b8g4b40r8-b000050-g004010-rc00020/)|
-|![Barnaby Brown Pibroch example sett](/setts/s9/g8r4g32b8g4b8g4b40r8-b000050-g004010-rc00020/sett.png)|
+| [Brown, Barnaby (Personal)](/setts/s9/g2r1g8b2g1b2g1b10r2~b202060-g006818-rc8002c~x4/)|
+|![Brown, Barnaby (Personal) example sett](/setts/s9/g2r1g8b2g1b2g1b10r2~b202060-g006818-rc8002c~x4/sett.png)|
+| [Brown, Barnaby (Personal)](/setts/s9/g2r1g8b2g1b2g1b10r2~b2c2c80-g006818-rc80000~x4/)|
+|![Brown, Barnaby (Personal) example sett](/setts/s9/g2r1g8b2g1b2g1b10r2~b2c2c80-g006818-rc80000~x4/sett.png)|
+| [Barnaby Brown Pibroch](/setts/s9/g2r1g8b2g1b2g1b10r2~b000050-g004010-rc00020~x4/)|
+|![Barnaby Brown Pibroch example sett](/setts/s9/g2r1g8b2g1b2g1b10r2~b000050-g004010-rc00020~x4/sett.png)|

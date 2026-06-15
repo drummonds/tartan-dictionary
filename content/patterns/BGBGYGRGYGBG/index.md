@@ -16,5 +16,5 @@ BGBGYGRGYGBG
 
 | Tartans |
 |---------------|
-| [St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b32g8b6g6y4g48r4g48y4g6b6g8-b14283c-g006818-r880000-yd09800/)|
-|![St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b32g8b6g6y4g48r4g48y4g6b6g8-b14283c-g006818-r880000-yd09800/sett.png)|
+| [St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b16g4b3g3y2g24r2g24y2g3b3g4~b14283c-g006818-r880000-yd09800~x2/)|
+|![St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b16g4b3g3y2g24r2g24y2g3b3g4~b14283c-g006818-r880000-yd09800~x2/sett.png)|

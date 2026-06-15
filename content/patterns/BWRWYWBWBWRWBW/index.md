@@ -16,5 +16,5 @@ BWRWYWBWBWRWBW
 
 | Tartans |
 |---------------|
-| [Confederate Memorial Dress (Military](/setts/s14/b36w8r12w8y8w72ba8w8ba8w72r24w2bb8w6-b2888c4-ba5c5c5c-bb00008c-ra00048-wfcfcfc-yc88c00/)|
-|![Confederate Memorial Dress (Military example sett](/setts/s14/b36w8r12w8y8w72ba8w8ba8w72r24w2bb8w6-b2888c4-ba5c5c5c-bb00008c-ra00048-wfcfcfc-yc88c00/sett.png)|
+| [Confederate Memorial Dress (Military](/setts/s14/b18w4r6w4y4w36ba4w4ba4w36r12w1bb4w3~b2888c4-ba5c5c5c-bb00008c-ra00048-wfcfcfc-yc88c00~x2/)|
+|![Confederate Memorial Dress (Military example sett](/setts/s14/b18w4r6w4y4w36ba4w4ba4w36r12w1bb4w3~b2888c4-ba5c5c5c-bb00008c-ra00048-wfcfcfc-yc88c00~x2/sett.png)|

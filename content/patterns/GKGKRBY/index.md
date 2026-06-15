@@ -6,7 +6,7 @@ GKGKRBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4k4g34k32r4b34y4-b2c2c80-g006818-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g2k2g17k16r2b17y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKRBY
 
 | Tartans |
 |---------------|
-| [Greenock](/setts/s7/g4k4g34k32r4b34y4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Greenock example sett](/setts/s7/g4k4g34k32r4b34y4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Greenock](/setts/s7/g2k2g17k16r2b17y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Greenock example sett](/setts/s7/g2k2g17k16r2b17y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

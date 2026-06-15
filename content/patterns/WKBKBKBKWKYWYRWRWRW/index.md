@@ -16,5 +16,5 @@ WKBKBKBKWKYWYRWRWRW
 
 | Tartans |
 |---------------|
-| [German](/setts/s19/w14k2b32k4b2k4b8k16w4k16y16w4y16r16w4r16w4r2w8-b0000cd-k101010-ra00000-wf8f4d0-yfccc00/)|
-|![German example sett](/setts/s19/w14k2b32k4b2k4b8k16w4k16y16w4y16r16w4r16w4r2w8-b0000cd-k101010-ra00000-wf8f4d0-yfccc00/sett.png)|
+| [German](/setts/s19/w7k1b16k2b1k2b4k8w2k8y8w2y8r8w2r8w2r1w4~b0000cd-k101010-ra00000-wf8f4d0-yfccc00~x2/)|
+|![German example sett](/setts/s19/w7k1b16k2b1k2b4k8w2k8y8w2y8r8w2r8w2r1w4~b0000cd-k101010-ra00000-wf8f4d0-yfccc00~x2/sett.png)|

@@ -16,5 +16,5 @@ WBBKYKWKRW
 
 | Tartans |
 |---------------|
-| [Bruce of Kinnaird Dress (Dance)](/setts/s10/w90r18k4w16k4y2k20b16ba24w4-b2c2c80-ba780078-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Bruce of Kinnaird Dress (Dance) example sett](/setts/s10/w90r18k4w16k4y2k20b16ba24w4-b2c2c80-ba780078-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Bruce of Kinnaird Dress (Dance)](/setts/s10/w45r9k2w8k2y1k10b8ba12w2~b2c2c80-ba780078-k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Bruce of Kinnaird Dress (Dance) example sett](/setts/s10/w45r9k2w8k2y1k10b8ba12w2~b2c2c80-ba780078-k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

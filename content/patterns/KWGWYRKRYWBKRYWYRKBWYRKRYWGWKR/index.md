@@ -16,5 +16,5 @@ KWGWYRKRYWBKRYWYRKBWYRKRYWGWKR
 
 | Tartans |
 |---------------|
-| [Hong Kong Police Pipe Band](/setts/s30/r48k2w2g12w2y4r4k2r4y4w2b12k4r6y6w2y6r6k4b12w2y4r4k2r4y4w2g12w2k2-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Hong Kong Police Pipe Band example sett](/setts/s30/r48k2w2g12w2y4r4k2r4y4w2b12k4r6y6w2y6r6k4b12w2y4r4k2r4y4w2g12w2k2-b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Hong Kong Police Pipe Band](/setts/s30/r24k1w1g6w1y2r2k1r2y2w1b6k2r3y3w1y3r3k2b6w1y2r2k1r2y2w1g6w1k1~b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Hong Kong Police Pipe Band example sett](/setts/s30/r24k1w1g6w1y2r2k1r2y2w1b6k2r3y3w1y3r3k2b6w1y2r2k1r2y2w1g6w1k1~b5c8ca8-g285800-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

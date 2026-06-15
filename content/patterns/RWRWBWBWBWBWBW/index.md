@@ -16,5 +16,5 @@ RWRWBWBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Polish](/setts/s14/r8w4r48w16b4w2b4w8b4w2b4w16b32w8-b141e46-rdc0000-we0e0e0/)|
-|![Polish example sett](/setts/s14/r8w4r48w16b4w2b4w8b4w2b4w16b32w8-b141e46-rdc0000-we0e0e0/sett.png)|
+| [Polish](/setts/s14/r4w2r24w8b2w1b2w4b2w1b2w8b16w4~b141e46-rdc0000-we0e0e0~x2/)|
+|![Polish example sett](/setts/s14/r4w2r24w8b2w1b2w4b2w1b2w8b16w4~b141e46-rdc0000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ GKRKRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k198r10k8r6k4g2-g5c6428-k101010-r901c38/tartan.png)
+![Woven sample](/setts/s6/k99r5k4r3k2g1~g5c6428-k101010-r901c38~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRKRK
 
 | Tartans |
 |---------------|
-| [Allt Dubh (Black Burn)](/setts/s6/k198r10k8r6k4g2-g5c6428-k101010-r901c38/)|
-|![Allt Dubh (Black Burn) example sett](/setts/s6/k198r10k8r6k4g2-g5c6428-k101010-r901c38/sett.png)|
+| [Allt Dubh (Black Burn)](/setts/s6/k99r5k4r3k2g1~g5c6428-k101010-r901c38~x2/)|
+|![Allt Dubh (Black Burn) example sett](/setts/s6/k99r5k4r3k2g1~g5c6428-k101010-r901c38~x2/sett.png)|

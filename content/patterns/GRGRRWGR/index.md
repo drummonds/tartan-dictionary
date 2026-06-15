@@ -6,7 +6,7 @@ GRGRRWGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g6r24g24ra10r2w50g4r2-g008000-r800000-ra906030-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g3r12g12ra5r1w25g2r1~g008000-r800000-ra906030-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRRWGR
 
 | Tartans |
 |---------------|
-| [Dogwood](/setts/s8/g6r24g24ra10r2w50g4r2-g008000-r800000-ra906030-we0e0e0/)|
-|![Dogwood example sett](/setts/s8/g6r24g24ra10r2w50g4r2-g008000-r800000-ra906030-we0e0e0/sett.png)|
+| [Dogwood](/setts/s8/g3r12g12ra5r1w25g2r1~g008000-r800000-ra906030-we0e0e0~x2/)|
+|![Dogwood example sett](/setts/s8/g3r12g12ra5r1w25g2r1~g008000-r800000-ra906030-we0e0e0~x2/sett.png)|

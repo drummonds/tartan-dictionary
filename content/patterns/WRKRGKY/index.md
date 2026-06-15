@@ -6,7 +6,7 @@ WRKRGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w24r72k8r24g28k32y24-g006818-k101010-rc80000-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w6r18k2r6g7k8y6~g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRKRGKY
 
 | Tartans |
 |---------------|
-| [Thirkill (Dalgliesh)](/setts/s7/w24r72k8r24g28k32y24-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Thirkill (Dalgliesh) example sett](/setts/s7/w24r72k8r24g28k32y24-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Thirkill (Dalgliesh)](/setts/s7/w6r18k2r6g7k8y6~g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/)|
+|![Thirkill (Dalgliesh) example sett](/setts/s7/w6r18k2r6g7k8y6~g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/sett.png)|

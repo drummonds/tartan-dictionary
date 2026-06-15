@@ -16,5 +16,5 @@ KGKGKGRGKGK
 
 | Tartans |
 |---------------|
-| [Madoc (Welsh Name)](/setts/s11/k3g3k2g4r2g6k6g4k4g36k2-g005410-k00002c-rc80000/)|
-|![Madoc (Welsh Name) example sett](/setts/s11/k3g3k2g4r2g6k6g4k4g36k2-g005410-k00002c-rc80000/sett.png)|
+| [Madoc (Welsh Name)](/setts/s11/k3g3k2g4r2g6k6g4k4g36k2~g005410-k00002c-rc80000/)|
+|![Madoc (Welsh Name) example sett](/setts/s11/k3g3k2g4r2g6k6g4k4g36k2~g005410-k00002c-rc80000/sett.png)|

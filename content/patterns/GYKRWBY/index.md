@@ -6,7 +6,7 @@ GYKRWBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g84y2k46r14w2b8y6-b00008c-g002814-k1c1714-r960000-wf8f8f8-yd87c00/tartan.png)
+![Woven sample](/setts/s7/g42y1k23r7w1b4y3~b00008c-g002814-k1c1714-r960000-wf8f8f8-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYKRWBY
 
 | Tartans |
 |---------------|
-| [Henschke, Felix (Personal)](/setts/s7/g84y2k46r14w2b8y6-b00008c-g002814-k1c1714-r960000-wf8f8f8-yd87c00/)|
-|![Henschke, Felix (Personal) example sett](/setts/s7/g84y2k46r14w2b8y6-b00008c-g002814-k1c1714-r960000-wf8f8f8-yd87c00/sett.png)|
+| [Henschke, Felix (Personal)](/setts/s7/g42y1k23r7w1b4y3~b00008c-g002814-k1c1714-r960000-wf8f8f8-yd87c00~x2/)|
+|![Henschke, Felix (Personal) example sett](/setts/s7/g42y1k23r7w1b4y3~b00008c-g002814-k1c1714-r960000-wf8f8f8-yd87c00~x2/sett.png)|

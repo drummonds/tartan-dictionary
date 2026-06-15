@@ -16,5 +16,5 @@ WBRYBWBYKYBYRY
 
 | Tartans |
 |---------------|
-| [Dalrymple of Castleton](/setts/s14/y4r30y6b4y6k28y4ba12w4ba12y4r14ba20w2-b4c0000-ba2888c4-k101010-rcc4438-wf8f8f8-yd09800/)|
-|![Dalrymple of Castleton example sett](/setts/s14/y4r30y6b4y6k28y4ba12w4ba12y4r14ba20w2-b4c0000-ba2888c4-k101010-rcc4438-wf8f8f8-yd09800/sett.png)|
+| [Dalrymple of Castleton](/setts/s14/y2r15y3b2y3k14y2ba6w2ba6y2r7ba10w1~b4c0000-ba2888c4-k101010-rcc4438-wf8f8f8-yd09800~x2/)|
+|![Dalrymple of Castleton example sett](/setts/s14/y2r15y3b2y3k14y2ba6w2ba6y2r7ba10w1~b4c0000-ba2888c4-k101010-rcc4438-wf8f8f8-yd09800~x2/sett.png)|

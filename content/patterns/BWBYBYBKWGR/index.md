@@ -16,5 +16,5 @@ BWBYBYBKWGR
 
 | Tartans |
 |---------------|
-| [Quigley of Knockcroghery Htg (Per.)](/setts/s11/b54w4b30y2b2y2b30k4w4g32r2-b1474b4-g5c6428-k101010-rc8002c-we0e0e0-yfccc00/)|
-|![Quigley of Knockcroghery Htg (Per.) example sett](/setts/s11/b54w4b30y2b2y2b30k4w4g32r2-b1474b4-g5c6428-k101010-rc8002c-we0e0e0-yfccc00/sett.png)|
+| [Quigley of Knockcroghery Htg (Per.)](/setts/s11/b27w2b15y1b1y1b15k2w2g16r1~b1474b4-g5c6428-k101010-rc8002c-we0e0e0-yfccc00~x2/)|
+|![Quigley of Knockcroghery Htg (Per.) example sett](/setts/s11/b27w2b15y1b1y1b15k2w2g16r1~b1474b4-g5c6428-k101010-rc8002c-we0e0e0-yfccc00~x2/sett.png)|

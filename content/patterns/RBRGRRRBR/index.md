@@ -16,5 +16,5 @@ RBRGRRRBR
 
 | Tartans |
 |---------------|
-| [Fitzgibbon Red](/setts/s9/r4b12r48g4r4ra2r12b2ra4-b2d2d2d-g1c5627-ra3262a-rabd2125/)|
-|![Fitzgibbon Red example sett](/setts/s9/r4b12r48g4r4ra2r12b2ra4-b2d2d2d-g1c5627-ra3262a-rabd2125/sett.png)|
+| [Fitzgibbon Red](/setts/s9/r2b6r24g2r2ra1r6b1ra2~b2d2d2d-g1c5627-ra3262a-rabd2125~x2/)|
+|![Fitzgibbon Red example sett](/setts/s9/r2b6r24g2r2ra1r6b1ra2~b2d2d2d-g1c5627-ra3262a-rabd2125~x2/sett.png)|

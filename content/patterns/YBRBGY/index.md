@@ -6,7 +6,7 @@ YBRBGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/tartan.png)
+![Woven sample](/setts/s6/y4g24b10r3b12ya4~b1c0070-g006818-rc80000-yb8b8b8-yad09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YBRBGY
 
 | Tartans |
 |---------------|
-| [Inglis (Name)](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/)|
-|![Inglis (Name) example sett](/setts/s6/y8g48b20r6b24ya8-b1c0070-g006818-rc80000-yb8b8b8-yad09800/sett.png)|
+| [Inglis (Name)](/setts/s6/y4g24b10r3b12ya4~b1c0070-g006818-rc80000-yb8b8b8-yad09800~x2/)|
+|![Inglis (Name) example sett](/setts/s6/y4g24b10r3b12ya4~b1c0070-g006818-rc80000-yb8b8b8-yad09800~x2/sett.png)|

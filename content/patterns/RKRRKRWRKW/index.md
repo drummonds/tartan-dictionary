@@ -16,5 +16,5 @@ RKRRKRWRKW
 
 | Tartans |
 |---------------|
-| [Pride of Wales (Fashion)](/setts/s10/r18k4r4ra26k4ra4w2r26k52w4-k101010-r880000-rac8002c-we0e0e0/)|
-|![Pride of Wales (Fashion) example sett](/setts/s10/r18k4r4ra26k4ra4w2r26k52w4-k101010-r880000-rac8002c-we0e0e0/sett.png)|
+| [Pride of Wales (Fashion)](/setts/s10/r9k2r2ra13k2ra2w1r13k26w2~k101010-r880000-rac8002c-we0e0e0~x2/)|
+|![Pride of Wales (Fashion) example sett](/setts/s10/r9k2r2ra13k2ra2w1r13k26w2~k101010-r880000-rac8002c-we0e0e0~x2/sett.png)|

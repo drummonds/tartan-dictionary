@@ -16,5 +16,5 @@ BRGBRRRBR
 
 | Tartans |
 |---------------|
-| [Land's End (Unnamed Camel)](/setts/s9/r48b4r6ra12r6b4g30r40b8-b401000-g003000-r906030-ra806050/)|
-|![Land's End (Unnamed Camel) example sett](/setts/s9/r48b4r6ra12r6b4g30r40b8-b401000-g003000-r906030-ra806050/sett.png)|
+| [Land's End (Unnamed Camel)](/setts/s9/r24b2r3ra6r3b2g15r20b4~b401000-g003000-r906030-ra806050~x2/)|
+|![Land's End (Unnamed Camel) example sett](/setts/s9/r24b2r3ra6r3b2g15r20b4~b401000-g003000-r906030-ra806050~x2/sett.png)|

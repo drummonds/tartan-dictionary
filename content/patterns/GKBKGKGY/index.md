@@ -6,7 +6,7 @@ GKBKGKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4k2b12k22g52k2g2y4-b000080-g006818-k101010-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/g2k1b6k11g26k1g1y2~b000080-g006818-k101010-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBKGKGY
 
 | Tartans |
 |---------------|
-| [Mackie (2016)](/setts/s8/g4k2b12k22g52k2g2y4-b000080-g006818-k101010-ybc8c00/)|
-|![Mackie (2016) example sett](/setts/s8/g4k2b12k22g52k2g2y4-b000080-g006818-k101010-ybc8c00/sett.png)|
+| [Mackie (2016)](/setts/s8/g2k1b6k11g26k1g1y2~b000080-g006818-k101010-ybc8c00~x2/)|
+|![Mackie (2016) example sett](/setts/s8/g2k1b6k11g26k1g1y2~b000080-g006818-k101010-ybc8c00~x2/sett.png)|

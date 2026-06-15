@@ -6,7 +6,7 @@ GWY
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/g98w8y22-g006818-wfcfcfc-yd87c00/tartan.png)
+![Woven sample](/setts/s3/g49w4y11~g006818-wfcfcfc-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWY
 
 | Tartans |
 |---------------|
-| [Hibernian S3](/setts/s3/g98w8y22-g006818-wfcfcfc-yd87c00/)|
-|![Hibernian S3 example sett](/setts/s3/g98w8y22-g006818-wfcfcfc-yd87c00/sett.png)|
+| [Hibernian S3](/setts/s3/g49w4y11~g006818-wfcfcfc-yd87c00~x2/)|
+|![Hibernian S3 example sett](/setts/s3/g49w4y11~g006818-wfcfcfc-yd87c00~x2/sett.png)|

@@ -6,7 +6,7 @@ WGBRBGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w100g30b20r4b20ga16y6-b202060-g048888-ga146400-rdc0000-wf8f4d0-yffff00/tartan.png)
+![Woven sample](/setts/s7/w50g15b10r2b10ga8y3~b202060-g048888-ga146400-rdc0000-wf8f4d0-yffff00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGBRBGY
 
 | Tartans |
 |---------------|
-| [Nimah, Carissa & Bassem (Personal)](/setts/s7/w100g30b20r4b20ga16y6-b202060-g048888-ga146400-rdc0000-wf8f4d0-yffff00/)|
-|![Nimah, Carissa & Bassem (Personal) example sett](/setts/s7/w100g30b20r4b20ga16y6-b202060-g048888-ga146400-rdc0000-wf8f4d0-yffff00/sett.png)|
+| [Nimah, Carissa & Bassem (Personal)](/setts/s7/w50g15b10r2b10ga8y3~b202060-g048888-ga146400-rdc0000-wf8f4d0-yffff00~x2/)|
+|![Nimah, Carissa & Bassem (Personal) example sett](/setts/s7/w50g15b10r2b10ga8y3~b202060-g048888-ga146400-rdc0000-wf8f4d0-yffff00~x2/sett.png)|

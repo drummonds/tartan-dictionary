@@ -6,7 +6,7 @@ BYBG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g112b56y48b16-b5c5c5c-g808080-ya08858/tartan.png)
+![Woven sample](/setts/s4/g14b7y6b2~b5c5c5c-g808080-ya08858~x8/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYBG
 
 | Tartans |
 |---------------|
-| [Outlander #3](/setts/s4/g112b56y48b16-b5c5c5c-g808080-ya08858/)|
-|![Outlander #3 example sett](/setts/s4/g112b56y48b16-b5c5c5c-g808080-ya08858/sett.png)|
-| [Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b40y4b120g12-b34281c-g789484-ye4cca4/)|
-|![Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/b40y4b120g12-b34281c-g789484-ye4cca4/sett.png)|
+| [Outlander #3](/setts/s4/g14b7y6b2~b5c5c5c-g808080-ya08858~x8/)|
+|![Outlander #3 example sett](/setts/s4/g14b7y6b2~b5c5c5c-g808080-ya08858~x8/sett.png)|
+| [Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b10y1b30g3~b34281c-g789484-ye4cca4~x4/)|
+|![Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/b10y1b30g3~b34281c-g789484-ye4cca4~x4/sett.png)|

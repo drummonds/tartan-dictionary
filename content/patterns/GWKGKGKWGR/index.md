@@ -16,5 +16,5 @@ GWKGKGKWGR
 
 | Tartans |
 |---------------|
-| [Sir Billi](/setts/s10/g24w10k22g84k6g84k22w10g24r16-g285800-k101010-rc80000-wf4f8c8/)|
-|![Sir Billi example sett](/setts/s10/g24w10k22g84k6g84k22w10g24r16-g285800-k101010-rc80000-wf4f8c8/sett.png)|
+| [Sir Billi](/setts/s10/g12w5k11g42k3g42k11w5g12r8~g285800-k101010-rc80000-wf4f8c8~x2/)|
+|![Sir Billi example sett](/setts/s10/g12w5k11g42k3g42k11w5g12r8~g285800-k101010-rc80000-wf4f8c8~x2/sett.png)|

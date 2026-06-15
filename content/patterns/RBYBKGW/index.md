@@ -6,7 +6,7 @@ RBYBKGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s7/r5b4y1b4k4g4w1~b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBYBKGW
 
 | Tartans |
 |---------------|
-| [Devon Companion](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/)|
-|![Devon Companion example sett](/setts/s7/r20b16y4b16k16g16w4-b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000/sett.png)|
+| [Devon Companion](/setts/s7/r5b4y1b4k4g4w1~b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000~x4/)|
+|![Devon Companion example sett](/setts/s7/r5b4y1b4k4g4w1~b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000~x4/sett.png)|

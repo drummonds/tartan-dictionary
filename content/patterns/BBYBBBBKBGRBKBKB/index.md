@@ -16,5 +16,5 @@ BBYBBBBKBGRBKBKB
 
 | Tartans |
 |---------------|
-| [Westminster College](/setts/s16/b4k4b4k42b4r4g42b4k4b4ba4b42b42y2b42ba4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-ya0a0a0/)|
-|![Westminster College example sett](/setts/s16/b4k4b4k42b4r4g42b4k4b4ba4b42b42y2b42ba4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-ya0a0a0/sett.png)|
+| [Westminster College](/setts/s16/b2k2b2k21b2r2g21b2k2b2ba2b21b21y1b21ba2~b2c2c80-ba5c8ca8-g006818-k101010-rc80000-ya0a0a0~x2/)|
+|![Westminster College example sett](/setts/s16/b2k2b2k21b2r2g21b2k2b2ba2b21b21y1b21ba2~b2c2c80-ba5c8ca8-g006818-k101010-rc80000-ya0a0a0~x2/sett.png)|

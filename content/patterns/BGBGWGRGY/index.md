@@ -16,5 +16,5 @@ BGBGWGRGY
 
 | Tartans |
 |---------------|
-| [Scottish Borders Tourist Board (Corp](/setts/s9/b6g8b48g12w6g8r6g16y6-b202060-g5c6428-rc80000-we8ccb8-ybc8c00/)|
-|![Scottish Borders Tourist Board (Corp example sett](/setts/s9/b6g8b48g12w6g8r6g16y6-b202060-g5c6428-rc80000-we8ccb8-ybc8c00/sett.png)|
+| [Scottish Borders Tourist Board (Corp](/setts/s9/b3g4b24g6w3g4r3g8y3~b202060-g5c6428-rc80000-we8ccb8-ybc8c00~x2/)|
+|![Scottish Borders Tourist Board (Corp example sett](/setts/s9/b3g4b24g6w3g4r3g8y3~b202060-g5c6428-rc80000-we8ccb8-ybc8c00~x2/sett.png)|

@@ -6,7 +6,7 @@ BKWKWKYY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b60k8w8k8w8k64y88ya8-b0000ff-k101010-wffffff-ya0a0a0-yaffff00/tartan.png)
+![Woven sample](/setts/s8/b15k2w2k2w2k16y22ya2~b0000ff-k101010-wffffff-ya0a0a0-yaffff00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWKWKYY
 
 | Tartans |
 |---------------|
-| [Sneddon, Jonathan Taylor (Personal)](/setts/s8/b60k8w8k8w8k64y88ya8-b0000ff-k101010-wffffff-ya0a0a0-yaffff00/)|
-|![Sneddon, Jonathan Taylor (Personal) example sett](/setts/s8/b60k8w8k8w8k64y88ya8-b0000ff-k101010-wffffff-ya0a0a0-yaffff00/sett.png)|
+| [Sneddon, Jonathan Taylor (Personal)](/setts/s8/b15k2w2k2w2k16y22ya2~b0000ff-k101010-wffffff-ya0a0a0-yaffff00~x4/)|
+|![Sneddon, Jonathan Taylor (Personal) example sett](/setts/s8/b15k2w2k2w2k16y22ya2~b0000ff-k101010-wffffff-ya0a0a0-yaffff00~x4/sett.png)|

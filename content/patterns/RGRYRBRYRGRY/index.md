@@ -16,5 +16,5 @@ RGRYRBRYRGRY
 
 | Tartans |
 |---------------|
-| [Wilson's No.213](/setts/s12/r12g56r12y4r12b32r12y4r12g56r12y4-b440044-g285800-rc80000-yd8b000/)|
-|![Wilson's No.213 example sett](/setts/s12/r12g56r12y4r12b32r12y4r12g56r12y4-b440044-g285800-rc80000-yd8b000/sett.png)|
+| [Wilson's No.213](/setts/s12/r3g14r3y1r3b8r3y1r3g14r3y1~b440044-g285800-rc80000-yd8b000~x4/)|
+|![Wilson's No.213 example sett](/setts/s12/r3g14r3y1r3b8r3y1r3g14r3y1~b440044-g285800-rc80000-yd8b000~x4/sett.png)|

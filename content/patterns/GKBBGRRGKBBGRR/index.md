@@ -16,5 +16,5 @@ GKBBGRRGKBBGRR
 
 | Tartans |
 |---------------|
-| [Heart of Alba](/setts/s14/g96k10b8ba4g2r4ra8g40k6b8ba4g2ra8r4-b1c0070-ba2888c4-g003820-k101010-rc80000-ra888888/)|
-|![Heart of Alba example sett](/setts/s14/g96k10b8ba4g2r4ra8g40k6b8ba4g2ra8r4-b1c0070-ba2888c4-g003820-k101010-rc80000-ra888888/sett.png)|
+| [Heart of Alba](/setts/s14/g48k5b4ba2g1r2ra4g20k3b4ba2g1ra4r2~b1c0070-ba2888c4-g003820-k101010-rc80000-ra888888~x2/)|
+|![Heart of Alba example sett](/setts/s14/g48k5b4ba2g1r2ra4g20k3b4ba2g1ra4r2~b1c0070-ba2888c4-g003820-k101010-rc80000-ra888888~x2/sett.png)|

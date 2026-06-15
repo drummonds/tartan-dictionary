@@ -16,5 +16,5 @@ BRBGKBGYK
 
 | Tartans |
 |---------------|
-| [Maresh](/setts/s9/b6r6b44g12k34b12g44y6k6-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Maresh example sett](/setts/s9/b6r6b44g12k34b12g44y6k6-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Maresh](/setts/s9/b3r3b22g6k17b6g22y3k3~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Maresh example sett](/setts/s9/b3r3b22g6k17b6g22y3k3~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

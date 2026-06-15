@@ -16,5 +16,5 @@ WBWGGGWBW
 
 | Tartans |
 |---------------|
-| [Bird Family (Australia) (Personal)](/setts/s9/w6b38w2g34ga22gb20w2b6w2-b414c6c-g738182-ga7c7d5d-gb486934-wffffff/)|
-|![Bird Family (Australia) (Personal) example sett](/setts/s9/w6b38w2g34ga22gb20w2b6w2-b414c6c-g738182-ga7c7d5d-gb486934-wffffff/sett.png)|
+| [Bird Family (Australia) (Personal)](/setts/s9/w3b19w1g17ga11gb10w1b3w1~b414c6c-g738182-ga7c7d5d-gb486934-wffffff~x2/)|
+|![Bird Family (Australia) (Personal) example sett](/setts/s9/w3b19w1g17ga11gb10w1b3w1~b414c6c-g738182-ga7c7d5d-gb486934-wffffff~x2/sett.png)|

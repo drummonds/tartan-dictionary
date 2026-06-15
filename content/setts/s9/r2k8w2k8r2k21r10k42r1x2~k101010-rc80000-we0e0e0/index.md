@@ -1,0 +1,46 @@
+---
+title: "Brand Ambassador (Corporate)"
+date: 2023-03-18
+---
+In pattern [RKRKRKWKR](/patterns/rkrkrkwkr/).
+
+
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10462/
+
+## Thread count
+R/4 K16 LN4 K16 R4 K42 R20 K84 R/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Brand Ambassador](/setts/s9/r4k16w4k16r4k42r20k83r2~k101010-rff0000-wffffff/) — ΔT 0.75
+1. [Savannah Harley Davidson (Corporate)](/setts/s9/k25w1b3w1k31b3k31w2r9x2~b505050-k101010-re86000-we0e0e0/) — ΔT 1.17
+1. [Brockton (Corporate)](/setts/s8/k2w1k2r6k6r3k28w2x2~k101010-r880000-we0e0e0/) — ΔT 1.29
+1. [Royal Army PTC Assoc. (Military)](/setts/s8/k59r3k6r3k8r15k2y3x2~k101010-rc80000-ye8c000/) — ΔT 1.34
+1. [Maier (Personal)](/setts/s10/r7k3r3k22r3k3r3k37y2k4x2~k101010-rc80000-ye8c000/) — ΔT 1.35
+1. [Royal Army Physical Training Corps Association (Scotland)](/setts/s8/k94r3k6r3k8r15k2y3x2~k101010-rff0000-yffe700/) — ΔT 1.35
+1. [Whitaker (2014)](/setts/s8/k60r3k15r3w2r5b3r2x2~b3850c8-k101010-rdc0000-wc0c0c0/) — ΔT 1.39
+1. [Brockton](/setts/s8/k2w1k2r6k6r3k28w2x2~k101010-r880000-wffffff/) — ΔT 1.39
+1. [Whitaker (2014)](/setts/s8/k60r3k15r3w2r5b3r2x2~b2c2c80-k101010-rc80000-wc0c0c0/) — ΔT 1.40
+1. [Harvie Family Tartan Tartan Number: 1177. Earliest known date: 1985 LT = Grey-Brown See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k4r11k32y1k4x2~k101010-rc80000-ye8c000/) — ΔT 1.53
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4k16w4k16r4k42r20k83r2~k101010-rff0000-wffffff/"><circle cx="573.3" cy="153.7" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/setts/s9/k25w1b3w1k31b3k31w2r9x2~b505050-k101010-re86000-we0e0e0/"><circle cx="538.3" cy="160.8" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><a href="/setts/s8/k2w1k2r6k6r3k28w2x2~k101010-r880000-we0e0e0/"><circle cx="529.9" cy="165.5" r="4" fill="#3465a4"><title>Brockton (Corporate)</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2y3x2~k101010-rc80000-ye8c000/"><circle cx="538.8" cy="154.8" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s10/r7k3r3k22r3k3r3k37y2k4x2~k101010-rc80000-ye8c000/"><circle cx="541.6" cy="177.4" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2y3x2~k101010-rff0000-yffe700/"><circle cx="607.2" cy="127.0" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/setts/s8/k60r3k15r3w2r5b3r2x2~b3850c8-k101010-rdc0000-wc0c0c0/"><circle cx="566.8" cy="138.4" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s8/k2w1k2r6k6r3k28w2x2~k101010-r880000-wffffff/"><circle cx="520.4" cy="161.7" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s8/k60r3k15r3w2r5b3r2x2~b2c2c80-k101010-rc80000-wc0c0c0/"><circle cx="578.8" cy="143.5" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s5/k4r11k32y1k4x2~k101010-rc80000-ye8c000/"><circle cx="546.8" cy="195.8" r="4" fill="#3465a4"><title>Harvie Family Tartan Tartan Number: 1177. Earliest known date: 1985 LT = Grey-Brown See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="595.2" cy="162.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/r2k8w2k8r2k21r10k42r1x2~k101010-rc80000-we0e0e0/

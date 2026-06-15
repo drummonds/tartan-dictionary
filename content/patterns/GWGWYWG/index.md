@@ -6,7 +6,7 @@ GWGWYWG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g40w4g18w4y10w14g20-g005020-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g20w2g9w2y5w7g10~g005020-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GWGWYWG
 
 | Tartans |
 |---------------|
-| [Heritage #2](/setts/s7/g40w4g18w4y10w14g20-g005020-we0e0e0-ye8c000/)|
-|![Heritage #2 example sett](/setts/s7/g40w4g18w4y10w14g20-g005020-we0e0e0-ye8c000/sett.png)|
-| [Heritage (Commemorative)](/setts/s7/g40w4g18w4y10w14g20-g006818-we0e0e0-ye8c000/)|
-|![Heritage (Commemorative) example sett](/setts/s7/g40w4g18w4y10w14g20-g006818-we0e0e0-ye8c000/sett.png)|
+| [Heritage #2](/setts/s7/g20w2g9w2y5w7g10~g005020-we0e0e0-ye8c000~x2/)|
+|![Heritage #2 example sett](/setts/s7/g20w2g9w2y5w7g10~g005020-we0e0e0-ye8c000~x2/sett.png)|
+| [Heritage (Commemorative)](/setts/s7/g20w2g9w2y5w7g10~g006818-we0e0e0-ye8c000~x2/)|
+|![Heritage (Commemorative) example sett](/setts/s7/g20w2g9w2y5w7g10~g006818-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ GWKBKBKBRBRBRBKBKBKW
 
 | Tartans |
 |---------------|
-| [Sutherland, Dress Royal (Dance)](/setts/s20/w96k48b12k8b8k8b48r4b4r12b4r4b48k8b8k8b12k48w96g8-b202060-g006818-k101010-rc80000-wfcfcfc/)|
-|![Sutherland, Dress Royal (Dance) example sett](/setts/s20/w96k48b12k8b8k8b48r4b4r12b4r4b48k8b8k8b12k48w96g8-b202060-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Sutherland, Dress Royal (Dance)](/setts/s20/w24k12b3k2b2k2b12r1b1r3b1r1b12k2b2k2b3k12w24g2~b202060-g006818-k101010-rc80000-wfcfcfc~x4/)|
+|![Sutherland, Dress Royal (Dance) example sett](/setts/s20/w24k12b3k2b2k2b12r1b1r3b1r1b12k2b2k2b3k12w24g2~b202060-g006818-k101010-rc80000-wfcfcfc~x4/sett.png)|

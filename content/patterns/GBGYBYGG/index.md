@@ -6,7 +6,7 @@ GBGYBYGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4b26g22y10b2ya42g4ga2-b441800-g006818-ga604000-yfccc00-yaa08858/tartan.png)
+![Woven sample](/setts/s8/g2b13g11y5b1ya21g2ga1~b441800-g006818-ga604000-yfccc00-yaa08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGYBYGG
 
 | Tartans |
 |---------------|
-| [St. Lawrence #2 (Fashion)](/setts/s8/g4b26g22y10b2ya42g4ga2-b441800-g006818-ga604000-yfccc00-yaa08858/)|
-|![St. Lawrence #2 (Fashion) example sett](/setts/s8/g4b26g22y10b2ya42g4ga2-b441800-g006818-ga604000-yfccc00-yaa08858/sett.png)|
+| [St. Lawrence #2 (Fashion)](/setts/s8/g2b13g11y5b1ya21g2ga1~b441800-g006818-ga604000-yfccc00-yaa08858~x2/)|
+|![St. Lawrence #2 (Fashion) example sett](/setts/s8/g2b13g11y5b1ya21g2ga1~b441800-g006818-ga604000-yfccc00-yaa08858~x2/sett.png)|

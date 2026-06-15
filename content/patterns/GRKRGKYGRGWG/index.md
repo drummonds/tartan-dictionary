@@ -16,5 +16,5 @@ GRKRGKYGRGWG
 
 | Tartans |
 |---------------|
-| [Royal Army of Oman](/setts/s12/g12w6g30r6g30y6k20g42r6k6r6g6-g003820-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Royal Army of Oman example sett](/setts/s12/g12w6g30r6g30y6k20g42r6k6r6g6-g003820-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Royal Army of Oman](/setts/s12/g6w3g15r3g15y3k10g21r3k3r3g3~g003820-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Royal Army of Oman example sett](/setts/s12/g6w3g15r3g15y3k10g21r3k3r3g3~g003820-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

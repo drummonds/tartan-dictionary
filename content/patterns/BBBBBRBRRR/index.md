@@ -16,5 +16,5 @@ BBBBBRBRRR
 
 | Tartans |
 |---------------|
-| [Roscommon](/setts/s10/r10ra6r38b12ra10b12ba24ba10ba24ba6-b401000-ba606080-rd00000-ra906030/)|
-|![Roscommon example sett](/setts/s10/r10ra6r38b12ra10b12ba24ba10ba24ba6-b401000-ba606080-rd00000-ra906030/sett.png)|
+| [Roscommon](/setts/s10/r5ra3r19b6ra5b6ba12ba5ba12ba3~b401000-ba606080-rd00000-ra906030~x2/)|
+|![Roscommon example sett](/setts/s10/r5ra3r19b6ra5b6ba12ba5ba12ba3~b401000-ba606080-rd00000-ra906030~x2/sett.png)|

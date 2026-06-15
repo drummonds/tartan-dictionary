@@ -6,7 +6,7 @@ BRGKWK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b90r36g48k12w12k12-b202060-g005020-k101010-rb03000-wf8f4d0/tartan.png)
+![Woven sample](/setts/s6/b15r6g8k2w2k2~b202060-g005020-k101010-rb03000-wf8f4d0~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGKWK
 
 | Tartans |
 |---------------|
-| [Stovell (2015)](/setts/s6/b90r36g48k12w12k12-b202060-g005020-k101010-rb03000-wf8f4d0/)|
-|![Stovell (2015) example sett](/setts/s6/b90r36g48k12w12k12-b202060-g005020-k101010-rb03000-wf8f4d0/sett.png)|
+| [Stovell (2015)](/setts/s6/b15r6g8k2w2k2~b202060-g005020-k101010-rb03000-wf8f4d0~x6/)|
+|![Stovell (2015) example sett](/setts/s6/b15r6g8k2w2k2~b202060-g005020-k101010-rb03000-wf8f4d0~x6/sett.png)|

@@ -16,5 +16,5 @@ KBWBGYRBR
 
 | Tartans |
 |---------------|
-| [MacCreary (Personal)](/setts/s9/k8b24w6b8g16y4r48b8r8-b1c0070-g006818-k101010-rcc4438-wa8ace8-yd09800/)|
-|![MacCreary (Personal) example sett](/setts/s9/k8b24w6b8g16y4r48b8r8-b1c0070-g006818-k101010-rcc4438-wa8ace8-yd09800/sett.png)|
+| [MacCreary (Personal)](/setts/s9/k4b12w3b4g8y2r24b4r4~b1c0070-g006818-k101010-rcc4438-wa8ace8-yd09800~x2/)|
+|![MacCreary (Personal) example sett](/setts/s9/k4b12w3b4g8y2r24b4r4~b1c0070-g006818-k101010-rcc4438-wa8ace8-yd09800~x2/sett.png)|

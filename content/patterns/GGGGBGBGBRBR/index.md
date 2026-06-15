@@ -16,5 +16,5 @@ GGGGBGBGBRBR
 
 | Tartans |
 |---------------|
-| [Pacific](/setts/s12/g8ga8g4ga56b8ga40b40ga8b56r4b8r8-b6840fc-g289c18-ga005448-r9c68a4/)|
-|![Pacific example sett](/setts/s12/g8ga8g4ga56b8ga40b40ga8b56r4b8r8-b6840fc-g289c18-ga005448-r9c68a4/sett.png)|
+| [Pacific](/setts/s12/g2ga2g1ga14b2ga10b10ga2b14r1b2r2~b6840fc-g289c18-ga005448-r9c68a4~x4/)|
+|![Pacific example sett](/setts/s12/g2ga2g1ga14b2ga10b10ga2b14r1b2r2~b6840fc-g289c18-ga005448-r9c68a4~x4/sett.png)|

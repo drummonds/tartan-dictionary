@@ -16,5 +16,5 @@ BYRBWBRBYGR
 
 | Tartans |
 |---------------|
-| [Saltcoats (Saskatchewan) (District?)](/setts/s11/b6y6r30ba16w14b12r30ba12y6g12ra6-b1c1c50-ba2888c4-g003820-r888888-rac80000-we0e0e0-ye8c000/)|
-|![Saltcoats (Saskatchewan) (District?) example sett](/setts/s11/b6y6r30ba16w14b12r30ba12y6g12ra6-b1c1c50-ba2888c4-g003820-r888888-rac80000-we0e0e0-ye8c000/sett.png)|
+| [Saltcoats (Saskatchewan) (District?)](/setts/s11/b3y3r15ba8w7b6r15ba6y3g6ra3~b1c1c50-ba2888c4-g003820-r888888-rac80000-we0e0e0-ye8c000~x2/)|
+|![Saltcoats (Saskatchewan) (District?) example sett](/setts/s11/b3y3r15ba8w7b6r15ba6y3g6ra3~b1c1c50-ba2888c4-g003820-r888888-rac80000-we0e0e0-ye8c000~x2/sett.png)|

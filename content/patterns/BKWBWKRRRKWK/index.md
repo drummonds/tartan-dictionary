@@ -16,5 +16,5 @@ BKWBWKRRRKWK
 
 | Tartans |
 |---------------|
-| [Quebec Centennial #2](/setts/s12/b32k8w8b16w48k4r6r40r8k24w12k2-b1c0070-k101010-r880000-wc0c0c0/)|
-|![Quebec Centennial #2 example sett](/setts/s12/b32k8w8b16w48k4r6r40r8k24w12k2-b1c0070-k101010-r880000-wc0c0c0/sett.png)|
+| [Quebec Centennial #2](/setts/s12/b16k4w4b8w24k2r3r20r4k12w6k1~b1c0070-k101010-r880000-wc0c0c0~x2/)|
+|![Quebec Centennial #2 example sett](/setts/s12/b16k4w4b8w24k2r3r20r4k12w6k1~b1c0070-k101010-r880000-wc0c0c0~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKGKBKBKGKR
 
 | Tartans |
 |---------------|
-| [Daly (2016)](/setts/s12/k10r6k48g26k6b6k6b22k12g6k6r6-b000064-g003c14-k000000-rc80000/)|
-|![Daly (2016) example sett](/setts/s12/k10r6k48g26k6b6k6b22k12g6k6r6-b000064-g003c14-k000000-rc80000/sett.png)|
+| [Daly (2016)](/setts/s12/k5r3k24g13k3b3k3b11k6g3k3r3~b000064-g003c14-k000000-rc80000~x2/)|
+|![Daly (2016) example sett](/setts/s12/k5r3k24g13k3b3k3b11k6g3k3r3~b000064-g003c14-k000000-rc80000~x2/sett.png)|

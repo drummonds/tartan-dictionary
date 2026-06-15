@@ -16,5 +16,5 @@ BKKBKGKRKGKBKW
 
 | Tartans |
 |---------------|
-| [Craigclowan School](/setts/s14/b48k4k4b4k24g32k2r6k2g32k24b24k2w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Craigclowan School example sett](/setts/s14/b48k4k4b4k24g32k2r6k2g32k24b24k2w6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Craigclowan School](/setts/s14/b24k2k2b2k12g16k1r3k1g16k12b12k1w3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Craigclowan School example sett](/setts/s14/b24k2k2b2k12g16k1r3k1g16k12b12k1w3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

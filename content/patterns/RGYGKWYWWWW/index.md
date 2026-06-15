@@ -16,5 +16,5 @@ RGYGKWYWWWW
 
 | Tartans |
 |---------------|
-| [Unidentified (Tony Murray Collection](/setts/s11/r8g80y4g4k8w4y4w88wa4w4wa4-g285800-k101010-r880000-w98c8e8-wae0e0e0-ye8c000/)|
-|![Unidentified (Tony Murray Collection example sett](/setts/s11/r8g80y4g4k8w4y4w88wa4w4wa4-g285800-k101010-r880000-w98c8e8-wae0e0e0-ye8c000/sett.png)|
+| [Unidentified (Tony Murray Collection](/setts/s11/r2g20y1g1k2w1y1w22wa1w1wa1~g285800-k101010-r880000-w98c8e8-wae0e0e0-ye8c000~x4/)|
+|![Unidentified (Tony Murray Collection example sett](/setts/s11/r2g20y1g1k2w1y1w22wa1w1wa1~g285800-k101010-r880000-w98c8e8-wae0e0e0-ye8c000~x4/sett.png)|

@@ -16,7 +16,7 @@ BYBYKBYBYGBGRKRK
 
 | Tartans |
 |---------------|
-| [Huntly Old](/setts/s16/b32y4ba14y4k28bb12y4b30y4g34bb12g12r16k12r16k4-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Huntly Old example sett](/setts/s16/b32y4ba14y4k28bb12y4b30y4g34bb12g12r16k12r16k4-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Huntly Old](/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Huntly Old example sett](/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2-b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Huntly Old](/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2~b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![Huntly Old example sett](/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2~b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|
+| [Huntly Old](/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2~b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Huntly Old example sett](/setts/s16/b16y2ba7y2k14bb6y2b15y2g17bb6g6r8k6r8k2~b6e5058-ba59110d-bb4367ae-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

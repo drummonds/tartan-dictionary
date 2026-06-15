@@ -6,7 +6,7 @@ BBRK
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k200r4b12ba4-b000080-ba551a8b-k101010-rd41a1f/tartan.png)
+![Woven sample](/setts/s4/k50r1b3ba1~b000080-ba551a8b-k101010-rd41a1f~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBRK
 
 | Tartans |
 |---------------|
-| [Alich (Personal)](/setts/s4/k200r4b12ba4-b000080-ba551a8b-k101010-rd41a1f/)|
-|![Alich (Personal) example sett](/setts/s4/k200r4b12ba4-b000080-ba551a8b-k101010-rd41a1f/sett.png)|
-| [Alich (Personal)](/setts/s4/k200r4b12ba4-b003c64-ba780078-k101010-rc80000/)|
-|![Alich (Personal) example sett](/setts/s4/k200r4b12ba4-b003c64-ba780078-k101010-rc80000/sett.png)|
+| [Alich (Personal)](/setts/s4/k50r1b3ba1~b000080-ba551a8b-k101010-rd41a1f~x4/)|
+|![Alich (Personal) example sett](/setts/s4/k50r1b3ba1~b000080-ba551a8b-k101010-rd41a1f~x4/sett.png)|
+| [Alich (Personal)](/setts/s4/k50r1b3ba1~b003c64-ba780078-k101010-rc80000~x4/)|
+|![Alich (Personal) example sett](/setts/s4/k50r1b3ba1~b003c64-ba780078-k101010-rc80000~x4/sett.png)|

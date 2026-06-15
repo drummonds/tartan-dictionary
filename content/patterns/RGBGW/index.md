@@ -6,7 +6,7 @@ RGBGW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r6g56b18ga36w6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/r3g28b9ga18w3~b2c2c80-g006818-ga003820-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RGBGW
 
 | Tartans |
 |---------------|
-| [Simple Technology (Corporate)](/setts/s5/r6g56b18ga36w6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/)|
-|![Simple Technology (Corporate) example sett](/setts/s5/r6g56b18ga36w6-b2c2c80-g006818-ga003820-rc80000-we0e0e0/sett.png)|
-| [Simple Technology](/setts/s5/r6g56b18ga36w6-b304080-g008000-ga003000-rc00000-we0e0e0/)|
-|![Simple Technology example sett](/setts/s5/r6g56b18ga36w6-b304080-g008000-ga003000-rc00000-we0e0e0/sett.png)|
+| [Simple Technology (Corporate)](/setts/s5/r3g28b9ga18w3~b2c2c80-g006818-ga003820-rc80000-we0e0e0~x2/)|
+|![Simple Technology (Corporate) example sett](/setts/s5/r3g28b9ga18w3~b2c2c80-g006818-ga003820-rc80000-we0e0e0~x2/sett.png)|
+| [Simple Technology](/setts/s5/r3g28b9ga18w3~b304080-g008000-ga003000-rc00000-we0e0e0~x2/)|
+|![Simple Technology example sett](/setts/s5/r3g28b9ga18w3~b304080-g008000-ga003000-rc00000-we0e0e0~x2/sett.png)|

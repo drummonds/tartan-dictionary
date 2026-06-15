@@ -16,5 +16,5 @@ GWBWKWKYWYK
 
 | Tartans |
 |---------------|
-| [Bro-Roazhon](/setts/s11/k56y2w4y2k6w34k10w6b4w20g4-b2c2c80-g006818-k101010-wfcf8ec-ye8c000/)|
-|![Bro-Roazhon example sett](/setts/s11/k56y2w4y2k6w34k10w6b4w20g4-b2c2c80-g006818-k101010-wfcf8ec-ye8c000/sett.png)|
+| [Bro-Roazhon](/setts/s11/k28y1w2y1k3w17k5w3b2w10g2~b2c2c80-g006818-k101010-wfcf8ec-ye8c000~x2/)|
+|![Bro-Roazhon example sett](/setts/s11/k28y1w2y1k3w17k5w3b2w10g2~b2c2c80-g006818-k101010-wfcf8ec-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ WBWGWGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w10g12wa4ga14wa4b88wa4-b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0/tartan.png)
+![Woven sample](/setts/s7/w5g6wa2ga7wa2b44wa2~b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBWGWGW
 
 | Tartans |
 |---------------|
-| [Leblant-Macqueron (Personal)](/setts/s7/w10g12wa4ga14wa4b88wa4-b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0/)|
-|![Leblant-Macqueron (Personal) example sett](/setts/s7/w10g12wa4ga14wa4b88wa4-b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0/sett.png)|
+| [Leblant-Macqueron (Personal)](/setts/s7/w5g6wa2ga7wa2b44wa2~b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0~x2/)|
+|![Leblant-Macqueron (Personal) example sett](/setts/s7/w5g6wa2ga7wa2b44wa2~b1474b4-g604000-ga006818-wc0c0c0-wae0e0e0~x2/sett.png)|

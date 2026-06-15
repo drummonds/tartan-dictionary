@@ -16,5 +16,5 @@ GKGBGKGKG
 
 | Tartans |
 |---------------|
-| [Herron from Ulster (Personal)](/setts/s9/g48k44g4k4g4b40g4k4g4-b202060-g285800-k101010/)|
-|![Herron from Ulster (Personal) example sett](/setts/s9/g48k44g4k4g4b40g4k4g4-b202060-g285800-k101010/sett.png)|
+| [Herron from Ulster (Personal)](/setts/s9/g12k11g1k1g1b10g1k1g1~b202060-g285800-k101010~x4/)|
+|![Herron from Ulster (Personal) example sett](/setts/s9/g12k11g1k1g1b10g1k1g1~b202060-g285800-k101010~x4/sett.png)|

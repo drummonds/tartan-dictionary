@@ -16,5 +16,5 @@ KBYBKYKYKYKK
 
 | Tartans |
 |---------------|
-| [Daks (Chino Check) (Fashion)](/setts/s12/k44k6y14k4y4k4y4k20b12y4b6k4-b1c0070-k101010-ya08858/)|
-|![Daks (Chino Check) (Fashion) example sett](/setts/s12/k44k6y14k4y4k4y4k20b12y4b6k4-b1c0070-k101010-ya08858/sett.png)|
+| [Daks (Chino Check) (Fashion)](/setts/s12/k22k3y7k2y2k2y2k10b6y2b3k2~b1c0070-k101010-ya08858~x2/)|
+|![Daks (Chino Check) (Fashion) example sett](/setts/s12/k22k3y7k2y2k2y2k10b6y2b3k2~b1c0070-k101010-ya08858~x2/sett.png)|

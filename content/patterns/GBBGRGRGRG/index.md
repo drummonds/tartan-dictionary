@@ -16,5 +16,5 @@ GBBGRGRGRG
 
 | Tartans |
 |---------------|
-| [Annan (Fashion)](/setts/s10/g32r4g4ra4g4r4g4b12ba20g6-b441800-ba5c5c5c-g8c7038-r888888-rab84c00/)|
-|![Annan (Fashion) example sett](/setts/s10/g32r4g4ra4g4r4g4b12ba20g6-b441800-ba5c5c5c-g8c7038-r888888-rab84c00/sett.png)|
+| [Annan (Fashion)](/setts/s10/g16r2g2ra2g2r2g2b6ba10g3~b441800-ba5c5c5c-g8c7038-r888888-rab84c00~x2/)|
+|![Annan (Fashion) example sett](/setts/s10/g16r2g2ra2g2r2g2b6ba10g3~b441800-ba5c5c5c-g8c7038-r888888-rab84c00~x2/sett.png)|

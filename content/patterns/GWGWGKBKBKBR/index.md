@@ -16,5 +16,5 @@ GWGWGKBKBKBR
 
 | Tartans |
 |---------------|
-| [Scotch House (Fashion)](/setts/s12/g8w4g4w4g32k16b8k4b4k4b32r4-b000050-g003014-k000000-r640000-wc8c8c8/)|
-|![Scotch House (Fashion) example sett](/setts/s12/g8w4g4w4g32k16b8k4b4k4b32r4-b000050-g003014-k000000-r640000-wc8c8c8/sett.png)|
+| [Scotch House (Fashion)](/setts/s12/g2w1g1w1g8k4b2k1b1k1b8r1~b000050-g003014-k000000-r640000-wc8c8c8~x4/)|
+|![Scotch House (Fashion) example sett](/setts/s12/g2w1g1w1g8k4b2k1b1k1b8r1~b000050-g003014-k000000-r640000-wc8c8c8~x4/sett.png)|

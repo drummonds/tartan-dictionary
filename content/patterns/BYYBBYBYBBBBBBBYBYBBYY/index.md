@@ -16,5 +16,5 @@ BYYBBYBYBBBBBBBYBYBBYY
 
 | Tartans |
 |---------------|
-| [Scottish Foundation VA Highlands](/setts/s22/b10y4ya72ba6bb6y4b8ya6bc4bb6ba6bb6ba6bb6bc4ya6b8y4bb6ba6ya72y4-b780078-ba202060-bb2c2c80-bc5c8ca8-ye8c000-yaa0a0a0/)|
-|![Scottish Foundation VA Highlands example sett](/setts/s22/b10y4ya72ba6bb6y4b8ya6bc4bb6ba6bb6ba6bb6bc4ya6b8y4bb6ba6ya72y4-b780078-ba202060-bb2c2c80-bc5c8ca8-ye8c000-yaa0a0a0/sett.png)|
+| [Scottish Foundation VA Highlands](/setts/s22/b5y2ya36ba3bb3y2b4ya3bc2bb3ba3bb3ba3bb3bc2ya3b4y2bb3ba3ya36y2~b780078-ba202060-bb2c2c80-bc5c8ca8-ye8c000-yaa0a0a0~x2/)|
+|![Scottish Foundation VA Highlands example sett](/setts/s22/b5y2ya36ba3bb3y2b4ya3bc2bb3ba3bb3ba3bb3bc2ya3b4y2bb3ba3ya36y2~b780078-ba202060-bb2c2c80-bc5c8ca8-ye8c000-yaa0a0a0~x2/sett.png)|

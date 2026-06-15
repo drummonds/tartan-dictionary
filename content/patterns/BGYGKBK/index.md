@@ -6,7 +6,7 @@ BGYGKBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/tartan.png)
+![Woven sample](/setts/s7/b4g6y1g6k6b6k2~b000052-g11450d-k000000-yaaaaaa~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYGKBK
 
 | Tartans |
 |---------------|
-| [MacNiel of Colonsay](/setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/)|
-|![MacNiel of Colonsay example sett](/setts/s7/b8g12y2g12k12b12k4-b000052-g11450d-k000000-yaaaaaa/sett.png)|
+| [MacNiel of Colonsay](/setts/s7/b4g6y1g6k6b6k2~b000052-g11450d-k000000-yaaaaaa~x2/)|
+|![MacNiel of Colonsay example sett](/setts/s7/b4g6y1g6k6b6k2~b000052-g11450d-k000000-yaaaaaa~x2/sett.png)|

@@ -16,5 +16,5 @@ KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY
 
 | Tartans |
 |---------------|
-| [Arnold (Name)](/setts/s43/k8ka2y4ka2k10ka2k4ka4k4ka8k4ka4k4ka2k10r2k8ka40b6ka8k8ka2w4ka2k8ka8b6ka40k8r2k10ka2k4ka4k4ka8k4ka4k4ka2k10ka2y4-b780078-k00002c-ka101010-rc80000-we0e0e0-ybc8c00/)|
-|![Arnold (Name) example sett](/setts/s43/k8ka2y4ka2k10ka2k4ka4k4ka8k4ka4k4ka2k10r2k8ka40b6ka8k8ka2w4ka2k8ka8b6ka40k8r2k10ka2k4ka4k4ka8k4ka4k4ka2k10ka2y4-b780078-k00002c-ka101010-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Arnold (Name)](/setts/s43/k4ka1y2ka1k5ka1k2ka2k2ka4k2ka2k2ka1k5r1k4ka20b3ka4k4ka1w2ka1k4ka4b3ka20k4r1k5ka1k2ka2k2ka4k2ka2k2ka1k5ka1y2~b780078-k00002c-ka101010-rc80000-we0e0e0-ybc8c00~x2/)|
+|![Arnold (Name) example sett](/setts/s43/k4ka1y2ka1k5ka1k2ka2k2ka4k2ka2k2ka1k5r1k4ka20b3ka4k4ka1w2ka1k4ka4b3ka20k4r1k5ka1k2ka2k2ka4k2ka2k2ka1k5ka1y2~b780078-k00002c-ka101010-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

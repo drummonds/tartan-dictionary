@@ -16,5 +16,5 @@ GYGKYKRYR
 
 | Tartans |
 |---------------|
-| [Grant, Champion](/setts/s9/r28y4r12k2y28k2g20y2g20-g008000-k000000-rc00000-yf0c000/)|
-|![Grant, Champion example sett](/setts/s9/r28y4r12k2y28k2g20y2g20-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Grant, Champion](/setts/s9/r14y2r6k1y14k1g10y1g10~g008000-k000000-rc00000-yf0c000~x2/)|
+|![Grant, Champion example sett](/setts/s9/r14y2r6k1y14k1g10y1g10~g008000-k000000-rc00000-yf0c000~x2/sett.png)|

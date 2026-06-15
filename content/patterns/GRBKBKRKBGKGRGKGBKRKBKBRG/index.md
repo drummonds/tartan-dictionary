@@ -16,5 +16,5 @@ GRBKBKRKBGKGRGKGBKRKBKBRG
 
 | Tartans |
 |---------------|
-| [Berwick, Orange (Fashion)](/setts/s25/g96r10b4k28ba4k6r6k6b28g12k8g6r4g6k8g12b28k6r6k6ba4k28b4r10g96-b480824-ba306084-g484800-k000000-rec3800/)|
-|![Berwick, Orange (Fashion) example sett](/setts/s25/g96r10b4k28ba4k6r6k6b28g12k8g6r4g6k8g12b28k6r6k6ba4k28b4r10g96-b480824-ba306084-g484800-k000000-rec3800/sett.png)|
+| [Berwick, Orange (Fashion)](/setts/s25/g48r5b2k14ba2k3r3k3b14g6k4g3r2g3k4g6b14k3r3k3ba2k14b2r5g48~b480824-ba306084-g484800-k000000-rec3800~x2/)|
+|![Berwick, Orange (Fashion) example sett](/setts/s25/g48r5b2k14ba2k3r3k3b14g6k4g3r2g3k4g6b14k3r3k3ba2k14b2r5g48~b480824-ba306084-g484800-k000000-rec3800~x2/sett.png)|

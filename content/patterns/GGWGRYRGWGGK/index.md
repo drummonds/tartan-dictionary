@@ -16,5 +16,5 @@ GGWGRYRGWGGK
 
 | Tartans |
 |---------------|
-| [Red Rum](/setts/s12/g60ga8w4ga28r26y4r26ga28w4ga8g60k4-g604000-ga006818-k101010-r901c38-wfcfcfc-ye8c000/)|
-|![Red Rum example sett](/setts/s12/g60ga8w4ga28r26y4r26ga28w4ga8g60k4-g604000-ga006818-k101010-r901c38-wfcfcfc-ye8c000/sett.png)|
+| [Red Rum](/setts/s12/g30ga4w2ga14r13y2r13ga14w2ga4g30k2~g604000-ga006818-k101010-r901c38-wfcfcfc-ye8c000~x2/)|
+|![Red Rum example sett](/setts/s12/g30ga4w2ga14r13y2r13ga14w2ga4g30k2~g604000-ga006818-k101010-r901c38-wfcfcfc-ye8c000~x2/sett.png)|

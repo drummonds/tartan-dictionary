@@ -16,5 +16,5 @@ RGYKYGYRW
 
 | Tartans |
 |---------------|
-| [Prince Charles Edward](/setts/s9/r48g12y16k8y16g48y8r12w4-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Prince Charles Edward example sett](/setts/s9/r48g12y16k8y16g48y8r12w4-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Prince Charles Edward](/setts/s9/r12g3y4k2y4g12y2r3w1~g008000-k000000-rc00000-we0e0e0-yf0c000~x4/)|
+|![Prince Charles Edward example sett](/setts/s9/r12g3y4k2y4g12y2r3w1~g008000-k000000-rc00000-we0e0e0-yf0c000~x4/sett.png)|

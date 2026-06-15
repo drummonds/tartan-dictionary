@@ -6,7 +6,7 @@ BGBKGBGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8g8b74k40g2ba10g2k8-b141e46-ba280032-g808080-k101010/tartan.png)
+![Woven sample](/setts/s8/b4g4b37k20g1ba5g1k4~b141e46-ba280032-g808080-k101010~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBKGBGK
 
 | Tartans |
 |---------------|
-| [Finnie (Personal)](/setts/s8/b8g8b74k40g2ba10g2k8-b141e46-ba280032-g808080-k101010/)|
-|![Finnie (Personal) example sett](/setts/s8/b8g8b74k40g2ba10g2k8-b141e46-ba280032-g808080-k101010/sett.png)|
+| [Finnie (Personal)](/setts/s8/b4g4b37k20g1ba5g1k4~b141e46-ba280032-g808080-k101010~x2/)|
+|![Finnie (Personal) example sett](/setts/s8/b4g4b37k20g1ba5g1k4~b141e46-ba280032-g808080-k101010~x2/sett.png)|

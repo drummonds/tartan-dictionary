@@ -6,7 +6,7 @@ KYBKYK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k4y18b44k3y10k4-b565c76-k101010-yecdc8e/tartan.png)
+![Woven sample](/setts/s6/k4y18b44k3y10k4~b565c76-k101010-yecdc8e/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KYBKYK
 
 | Tartans |
 |---------------|
-| [Stutterheim](/setts/s6/k4y18b44k3y10k4-b565c76-k101010-yecdc8e/)|
-|![Stutterheim example sett](/setts/s6/k4y18b44k3y10k4-b565c76-k101010-yecdc8e/sett.png)|
-| [Stutterheim (Corporate)](/setts/s6/k4y18b44k3y10k4-b2c2c80-k101010-yfccc00/)|
-|![Stutterheim (Corporate) example sett](/setts/s6/k4y18b44k3y10k4-b2c2c80-k101010-yfccc00/sett.png)|
+| [Stutterheim](/setts/s6/k4y18b44k3y10k4~b565c76-k101010-yecdc8e/)|
+|![Stutterheim example sett](/setts/s6/k4y18b44k3y10k4~b565c76-k101010-yecdc8e/sett.png)|
+| [Stutterheim (Corporate)](/setts/s6/k4y18b44k3y10k4~b2c2c80-k101010-yfccc00/)|
+|![Stutterheim (Corporate) example sett](/setts/s6/k4y18b44k3y10k4~b2c2c80-k101010-yfccc00/sett.png)|

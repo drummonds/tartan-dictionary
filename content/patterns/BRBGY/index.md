@@ -6,7 +6,7 @@ BRBGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b14r52b14g48y4-b202060-g003820-r880000-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b7r26b7g24y2~b202060-g003820-r880000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBGY
 
 | Tartans |
 |---------------|
-| [McCarthy, Old](/setts/s5/b14r52b14g48y4-b202060-g003820-r880000-ye8c000/)|
-|![McCarthy, Old example sett](/setts/s5/b14r52b14g48y4-b202060-g003820-r880000-ye8c000/sett.png)|
+| [McCarthy, Old](/setts/s5/b7r26b7g24y2~b202060-g003820-r880000-ye8c000~x2/)|
+|![McCarthy, Old example sett](/setts/s5/b7r26b7g24y2~b202060-g003820-r880000-ye8c000~x2/sett.png)|

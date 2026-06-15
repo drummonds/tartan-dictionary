@@ -16,5 +16,5 @@ BWBWBWBWBWBKWKWKRKYKRKWKWK
 
 | Tartans |
 |---------------|
-| [Britten-Norman](/setts/s26/b56w2b4w2b6w2b4w4b4w4b50k20w2k4wa4k40r2k4y6k4r2k40wa4k2w2k20-b14283c-k101010-rdc0000-wffffff-wa98c8e8-ya0a0a0/)|
-|![Britten-Norman example sett](/setts/s26/b56w2b4w2b6w2b4w4b4w4b50k20w2k4wa4k40r2k4y6k4r2k40wa4k2w2k20-b14283c-k101010-rdc0000-wffffff-wa98c8e8-ya0a0a0/sett.png)|
+| [Britten-Norman](/setts/s26/b28w1b2w1b3w1b2w2b2w2b25k10w1k2wa2k20r1k2y3k2r1k20wa2k1w1k10~b14283c-k101010-rdc0000-wffffff-wa98c8e8-ya0a0a0~x2/)|
+|![Britten-Norman example sett](/setts/s26/b28w1b2w1b3w1b2w2b2w2b25k10w1k2wa2k20r1k2y3k2r1k20wa2k1w1k10~b14283c-k101010-rdc0000-wffffff-wa98c8e8-ya0a0a0~x2/sett.png)|

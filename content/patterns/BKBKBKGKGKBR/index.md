@@ -16,5 +16,5 @@ BKBKBKGKGKBR
 
 | Tartans |
 |---------------|
-| [Young Presidents Organisation](/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/)|
-|![Young Presidents Organisation example sett](/setts/s12/r44b10k20g24k4g24k20b6k4b6k4b32-b2c2c80-g006818-k000000-rc80000/sett.png)|
+| [Young Presidents Organisation](/setts/s12/r22b5k10g12k2g12k10b3k2b3k2b16~b2c2c80-g006818-k000000-rc80000~x2/)|
+|![Young Presidents Organisation example sett](/setts/s12/r22b5k10g12k2g12k10b3k2b3k2b16~b2c2c80-g006818-k000000-rc80000~x2/sett.png)|

@@ -6,7 +6,7 @@ WBWRWW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4b4wa28r16wa4w4-b780078-r888888-we0e0e0-wac0c0c0/tartan.png)
+![Woven sample](/setts/s6/w1b1wa7r4wa1w1~b780078-r888888-we0e0e0-wac0c0c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBWRWW
 
 | Tartans |
 |---------------|
-| [Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w4b4wa28r16wa4w4-b780078-r888888-we0e0e0-wac0c0c0/)|
-|![Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/w4b4wa28r16wa4w4-b780078-r888888-we0e0e0-wac0c0c0/sett.png)|
+| [Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w1b1wa7r4wa1w1~b780078-r888888-we0e0e0-wac0c0c0~x4/)|
+|![Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/w1b1wa7r4wa1w1~b780078-r888888-we0e0e0-wac0c0c0~x4/sett.png)|

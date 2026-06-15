@@ -16,5 +16,5 @@ BKBKGKYKGKBKBKBKBKBKGKWKGKBK
 
 | Tartans |
 |---------------|
-| [Campbell of Argyll #2](/setts/s28/b2k2b16k16g16k2y4k2g16k16b2k2b2k2b16k2b2k2b2k16g16k2w4k2g16k16b16k2-b1474b4-g006818-k101010-wfcfcfc-ye8c000/)|
-|![Campbell of Argyll #2 example sett](/setts/s28/b2k2b16k16g16k2y4k2g16k16b2k2b2k2b16k2b2k2b2k16g16k2w4k2g16k16b16k2-b1474b4-g006818-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Campbell of Argyll #2](/setts/s28/b1k1b8k8g8k1y2k1g8k8b1k1b1k1b8k1b1k1b1k8g8k1w2k1g8k8b8k1~b1474b4-g006818-k101010-wfcfcfc-ye8c000~x2/)|
+|![Campbell of Argyll #2 example sett](/setts/s28/b1k1b8k8g8k1y2k1g8k8b1k1b1k1b8k1b1k1b1k8g8k1w2k1g8k8b8k1~b1474b4-g006818-k101010-wfcfcfc-ye8c000~x2/sett.png)|

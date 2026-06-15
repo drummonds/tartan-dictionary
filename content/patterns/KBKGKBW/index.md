@@ -6,7 +6,7 @@ KBKGKBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k4b48k48g4k48b48w4-b304080-g407050-k000000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/k1b12k12g1k12b12w1~b304080-g407050-k000000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKGKBW
 
 | Tartans |
 |---------------|
-| [Marchmont](/setts/s7/k4b48k48g4k48b48w4-b304080-g407050-k000000-we0e0e0/)|
-|![Marchmont example sett](/setts/s7/k4b48k48g4k48b48w4-b304080-g407050-k000000-we0e0e0/sett.png)|
+| [Marchmont](/setts/s7/k1b12k12g1k12b12w1~b304080-g407050-k000000-we0e0e0~x4/)|
+|![Marchmont example sett](/setts/s7/k1b12k12g1k12b12w1~b304080-g407050-k000000-we0e0e0~x4/sett.png)|

@@ -16,5 +16,5 @@ BRBYBWBWBWB
 
 | Tartans |
 |---------------|
-| [Galego](/setts/s11/b32r8b4y8b16w16b4w48ba4w2ba16-b2c4084-ba0596fa-rdc0000-we0e0e0-ye8c000/)|
-|![Galego example sett](/setts/s11/b32r8b4y8b16w16b4w48ba4w2ba16-b2c4084-ba0596fa-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Galego](/setts/s11/b16r4b2y4b8w8b2w24ba2w1ba8~b2c4084-ba0596fa-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Galego example sett](/setts/s11/b16r4b2y4b8w8b2w24ba2w1ba8~b2c4084-ba0596fa-rdc0000-we0e0e0-ye8c000~x2/sett.png)|

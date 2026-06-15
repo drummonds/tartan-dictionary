@@ -16,5 +16,5 @@ GKRKGRGYKG
 
 | Tartans |
 |---------------|
-| [Mead Hunting (Personal)](/setts/s10/g72k6r12k6g20r10g6y8k2g4-g604000-k101010-re86000-ydc943c/)|
-|![Mead Hunting (Personal) example sett](/setts/s10/g72k6r12k6g20r10g6y8k2g4-g604000-k101010-re86000-ydc943c/sett.png)|
+| [Mead Hunting (Personal)](/setts/s10/g36k3r6k3g10r5g3y4k1g2~g604000-k101010-re86000-ydc943c~x2/)|
+|![Mead Hunting (Personal) example sett](/setts/s10/g36k3r6k3g10r5g3y4k1g2~g604000-k101010-re86000-ydc943c~x2/sett.png)|

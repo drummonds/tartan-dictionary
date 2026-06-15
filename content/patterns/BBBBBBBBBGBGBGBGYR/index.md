@@ -16,5 +16,5 @@ BBBBBBBBBGBGBGBGYR
 
 | Tartans |
 |---------------|
-| [Glaz (Fashion)](/setts/s18/b4ba18bb2ba8bb4ba4bb8b2bb30g2bb6g6bb4g8bb2g14y2r4-b5c5c5c-ba003c64-bb2c2c80-g006818-rc80000-ye8c000/)|
-|![Glaz (Fashion) example sett](/setts/s18/b4ba18bb2ba8bb4ba4bb8b2bb30g2bb6g6bb4g8bb2g14y2r4-b5c5c5c-ba003c64-bb2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Glaz (Fashion)](/setts/s18/b2ba9bb1ba4bb2ba2bb4b1bb15g1bb3g3bb2g4bb1g7y1r2~b5c5c5c-ba003c64-bb2c2c80-g006818-rc80000-ye8c000~x2/)|
+|![Glaz (Fashion) example sett](/setts/s18/b2ba9bb1ba4bb2ba2bb4b1bb15g1bb3g3bb2g4bb1g7y1r2~b5c5c5c-ba003c64-bb2c2c80-g006818-rc80000-ye8c000~x2/sett.png)|

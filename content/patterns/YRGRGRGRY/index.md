@@ -16,7 +16,7 @@ YRGRGRGRY
 
 | Tartans |
 |---------------|
-| [MacPhie](/setts/s9/y2r24g4r2g32r2g4r24ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacPhie example sett](/setts/s9/y2r24g4r2g32r2g4r24ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/sett.png)|
-| [MacFie](/setts/s9/y4r24g4r2g64r2g4r24ya4-g11450d-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacFie example sett](/setts/s9/y4r24g4r2g64r2g4r24ya4-g11450d-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [MacPhie](/setts/s9/y1r12g2r1g16r1g2r12ya1~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![MacPhie example sett](/setts/s9/y1r12g2r1g16r1g2r12ya1~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|
+| [MacFie](/setts/s9/y2r12g2r1g32r1g2r12ya2~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![MacFie example sett](/setts/s9/y2r12g2r1g32r1g2r12ya2~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|

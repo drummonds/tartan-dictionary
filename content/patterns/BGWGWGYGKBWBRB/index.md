@@ -16,5 +16,5 @@ BGWGWGYGKBWBRB
 
 | Tartans |
 |---------------|
-| [Australian National](/setts/s14/b104g30w2g4w2g4y4g4k4ba6w4b4r4ba10-b202060-ba2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Australian National example sett](/setts/s14/b104g30w2g4w2g4y4g4k4ba6w4b4r4ba10-b202060-ba2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Australian National](/setts/s14/b52g15w1g2w1g2y2g2k2ba3w2b2r2ba5~b202060-ba2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Australian National example sett](/setts/s14/b52g15w1g2w1g2y2g2k2ba3w2b2r2ba5~b202060-ba2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

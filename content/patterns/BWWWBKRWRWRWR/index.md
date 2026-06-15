@@ -16,5 +16,5 @@ BWWWBKRWRWRWR
 
 | Tartans |
 |---------------|
-| [American St Andrews Societies](/setts/s13/b30w4wa16w4b84k84r84wa16r8wa8r8wa8r20-b2c2c80-k101010-rc80000-wa8ace8-wae0e0e0/)|
-|![American St Andrews Societies example sett](/setts/s13/b30w4wa16w4b84k84r84wa16r8wa8r8wa8r20-b2c2c80-k101010-rc80000-wa8ace8-wae0e0e0/sett.png)|
+| [American St Andrews Societies](/setts/s13/b15w2wa8w2b42k42r42wa8r4wa4r4wa4r10~b2c2c80-k101010-rc80000-wa8ace8-wae0e0e0~x2/)|
+|![American St Andrews Societies example sett](/setts/s13/b15w2wa8w2b42k42r42wa8r4wa4r4wa4r10~b2c2c80-k101010-rc80000-wa8ace8-wae0e0e0~x2/sett.png)|

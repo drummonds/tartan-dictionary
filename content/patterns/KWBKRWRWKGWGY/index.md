@@ -16,5 +16,5 @@ KWBKRWRWKGWGY
 
 | Tartans |
 |---------------|
-| [MacLellan/McLellan Dress (Personal)](/setts/s13/k8w4b28k16r4w32r8w32k4g28w4g28y8-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/)|
-|![MacLellan/McLellan Dress (Personal) example sett](/setts/s13/k8w4b28k16r4w32r8w32k4g28w4g28y8-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [MacLellan/McLellan Dress (Personal)](/setts/s13/k2w1b7k4r1w8r2w8k1g7w1g7y2~b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000~x4/)|
+|![MacLellan/McLellan Dress (Personal) example sett](/setts/s13/k2w1b7k4r1w8r2w8k1g7w1g7y2~b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000~x4/sett.png)|

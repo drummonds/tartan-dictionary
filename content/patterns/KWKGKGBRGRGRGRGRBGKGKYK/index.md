@@ -16,7 +16,7 @@ KWKGKGBRGRGRGRGRBGKGKYK
 
 | Tartans |
 |---------------|
-| [Wood Dress](/setts/s23/k2w2k4g2k2g20b16r20g4r20g4r60g4r20g4r20b16g20k2g2k4y2k2-b0000cd-g008b00-k101010-rff0000-wffffff-yffe600/)|
-|![Wood Dress example sett](/setts/s23/k2w2k4g2k2g20b16r20g4r20g4r60g4r20g4r20b16g20k2g2k4y2k2-b0000cd-g008b00-k101010-rff0000-wffffff-yffe600/sett.png)|
-| [Wood Dress (Clan)](/setts/s23/k2w2k4g2k2g20b16r20g4r20g4r60g4r20g4r20b16g20k2g2k4y2k2-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Wood Dress (Clan) example sett](/setts/s23/k2w2k4g2k2g20b16r20g4r20g4r60g4r20g4r20b16g20k2g2k4y2k2-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Wood Dress](/setts/s23/k1w1k2g1k1g10b8r10g2r10g2r30g2r10g2r10b8g10k1g1k2y1k1~b0000cd-g008b00-k101010-rff0000-wffffff-yffe600~x2/)|
+|![Wood Dress example sett](/setts/s23/k1w1k2g1k1g10b8r10g2r10g2r30g2r10g2r10b8g10k1g1k2y1k1~b0000cd-g008b00-k101010-rff0000-wffffff-yffe600~x2/sett.png)|
+| [Wood Dress (Clan)](/setts/s23/k1w1k2g1k1g10b8r10g2r10g2r30g2r10g2r10b8g10k1g1k2y1k1~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Wood Dress (Clan) example sett](/setts/s23/k1w1k2g1k1g10b8r10g2r10g2r30g2r10g2r10b8g10k1g1k2y1k1~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

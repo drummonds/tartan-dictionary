@@ -6,7 +6,7 @@ RGKBKBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6g40k4b22k4ba40y4-b606060-ba000048-g044028-k000000-rc80000-yb0b0b0/tartan.png)
+![Woven sample](/setts/s7/r3g20k2b11k2ba20y2~b606060-ba000048-g044028-k000000-rc80000-yb0b0b0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKBKBY
 
 | Tartans |
 |---------------|
-| [Grandfather Mountain Games (District](/setts/s7/r6g40k4b22k4ba40y4-b606060-ba000048-g044028-k000000-rc80000-yb0b0b0/)|
-|![Grandfather Mountain Games (District example sett](/setts/s7/r6g40k4b22k4ba40y4-b606060-ba000048-g044028-k000000-rc80000-yb0b0b0/sett.png)|
+| [Grandfather Mountain Games (District](/setts/s7/r3g20k2b11k2ba20y2~b606060-ba000048-g044028-k000000-rc80000-yb0b0b0~x2/)|
+|![Grandfather Mountain Games (District example sett](/setts/s7/r3g20k2b11k2ba20y2~b606060-ba000048-g044028-k000000-rc80000-yb0b0b0~x2/sett.png)|

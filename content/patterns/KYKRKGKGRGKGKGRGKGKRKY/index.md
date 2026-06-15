@@ -16,5 +16,5 @@ KYKRKGKGRGKGKGRGKGKRKY
 
 | Tartans |
 |---------------|
-| [Ulster (Red)](/setts/s22/k4y4k4r40k4g4k4g4r4g40k4g40k4g40r4g4k4g4k4r40k4y4-g006818-k101010-r880000-yd09800/)|
-|![Ulster (Red) example sett](/setts/s22/k4y4k4r40k4g4k4g4r4g40k4g40k4g40r4g4k4g4k4r40k4y4-g006818-k101010-r880000-yd09800/sett.png)|
+| [Ulster (Red)](/setts/s22/k1y1k1r10k1g1k1g1r1g10k1g10k1g10r1g1k1g1k1r10k1y1~g006818-k101010-r880000-yd09800~x4/)|
+|![Ulster (Red) example sett](/setts/s22/k1y1k1r10k1g1k1g1r1g10k1g10k1g10r1g1k1g1k1r10k1y1~g006818-k101010-r880000-yd09800~x4/sett.png)|

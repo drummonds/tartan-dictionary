@@ -16,5 +16,5 @@ BKBWKWBKRKRB
 
 | Tartans |
 |---------------|
-| [Trillard (Personal)](/setts/s12/b8r6k6r12k16b20w16k24w16b48k4b4-b1474b4-k101010-rc80000-wfcfcfc/)|
-|![Trillard (Personal) example sett](/setts/s12/b8r6k6r12k16b20w16k24w16b48k4b4-b1474b4-k101010-rc80000-wfcfcfc/sett.png)|
+| [Trillard (Personal)](/setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~b1474b4-k101010-rc80000-wfcfcfc~x2/)|
+|![Trillard (Personal) example sett](/setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~b1474b4-k101010-rc80000-wfcfcfc~x2/sett.png)|

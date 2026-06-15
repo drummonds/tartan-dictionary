@@ -16,7 +16,7 @@ BWKBKBKRKY
 
 | Tartans |
 |---------------|
-| [Sidey (Dundee) Dress (Personal)](/setts/s10/b8w2k4b50k24ba2k4r32k4y2-b000080-ba0000cd-k101010-rff0000-wffffff-yffa500/)|
-|![Sidey (Dundee) Dress (Personal) example sett](/setts/s10/b8w2k4b50k24ba2k4r32k4y2-b000080-ba0000cd-k101010-rff0000-wffffff-yffa500/sett.png)|
-| [Sidey Dress Tartan (Name)](/setts/s10/b8w2k4b50k24ba2k4r32k4y2-b202060-ba1474b4-k101010-rc80000-we0e0e0-yd87c00/)|
-|![Sidey Dress Tartan (Name) example sett](/setts/s10/b8w2k4b50k24ba2k4r32k4y2-b202060-ba1474b4-k101010-rc80000-we0e0e0-yd87c00/sett.png)|
+| [Sidey (Dundee) Dress (Personal)](/setts/s10/b4w1k2b25k12ba1k2r16k2y1~b000080-ba0000cd-k101010-rff0000-wffffff-yffa500~x2/)|
+|![Sidey (Dundee) Dress (Personal) example sett](/setts/s10/b4w1k2b25k12ba1k2r16k2y1~b000080-ba0000cd-k101010-rff0000-wffffff-yffa500~x2/sett.png)|
+| [Sidey Dress Tartan (Name)](/setts/s10/b4w1k2b25k12ba1k2r16k2y1~b202060-ba1474b4-k101010-rc80000-we0e0e0-yd87c00~x2/)|
+|![Sidey Dress Tartan (Name) example sett](/setts/s10/b4w1k2b25k12ba1k2r16k2y1~b202060-ba1474b4-k101010-rc80000-we0e0e0-yd87c00~x2/sett.png)|

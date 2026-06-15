@@ -16,5 +16,5 @@ BRGRBRGRGRB
 
 | Tartans |
 |---------------|
-| [Glasgow (Error)](/setts/s11/b4r8g48r40b48r8g48r40g48r8b4-b2c2c80-g006818-rc80000/)|
-|![Glasgow (Error) example sett](/setts/s11/b4r8g48r40b48r8g48r40g48r8b4-b2c2c80-g006818-rc80000/sett.png)|
+| [Glasgow (Error)](/setts/s11/b1r2g12r10b12r2g12r10g12r2b1~b2c2c80-g006818-rc80000~x4/)|
+|![Glasgow (Error) example sett](/setts/s11/b1r2g12r10b12r2g12r10g12r2b1~b2c2c80-g006818-rc80000~x4/sett.png)|

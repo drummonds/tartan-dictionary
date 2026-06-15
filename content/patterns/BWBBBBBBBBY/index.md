@@ -16,5 +16,5 @@ BWBBBBBBBBY
 
 | Tartans |
 |---------------|
-| [Kilmarnock F.C. (Sports)](/setts/s11/b8w6b8ba6b6ba6b30bb16b22bb56y4-b2c2c80-ba780078-bb1c0070-we0e0e0-ye8c000/)|
-|![Kilmarnock F.C. (Sports) example sett](/setts/s11/b8w6b8ba6b6ba6b30bb16b22bb56y4-b2c2c80-ba780078-bb1c0070-we0e0e0-ye8c000/sett.png)|
+| [Kilmarnock F.C. (Sports)](/setts/s11/b4w3b4ba3b3ba3b15bb8b11bb28y2~b2c2c80-ba780078-bb1c0070-we0e0e0-ye8c000~x2/)|
+|![Kilmarnock F.C. (Sports) example sett](/setts/s11/b4w3b4ba3b3ba3b15bb8b11bb28y2~b2c2c80-ba780078-bb1c0070-we0e0e0-ye8c000~x2/sett.png)|

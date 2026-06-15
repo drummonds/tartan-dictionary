@@ -16,5 +16,5 @@ WGWBYBGRGBRY
 
 | Tartans |
 |---------------|
-| [E.C.R. (Corporate)](/setts/s12/w32g4w32b36y4b26g22r4g18b24r4y4-b2c2c80-g289c18-rc80000-w98c8e8-ye8c000/)|
-|![E.C.R. (Corporate) example sett](/setts/s12/w32g4w32b36y4b26g22r4g18b24r4y4-b2c2c80-g289c18-rc80000-w98c8e8-ye8c000/sett.png)|
+| [E.C.R. (Corporate)](/setts/s12/w16g2w16b18y2b13g11r2g9b12r2y2~b2c2c80-g289c18-rc80000-w98c8e8-ye8c000~x2/)|
+|![E.C.R. (Corporate) example sett](/setts/s12/w16g2w16b18y2b13g11r2g9b12r2y2~b2c2c80-g289c18-rc80000-w98c8e8-ye8c000~x2/sett.png)|

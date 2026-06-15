@@ -16,5 +16,5 @@ GRGWKGWGWGKGR
 
 | Tartans |
 |---------------|
-| [Balmoral](/setts/s13/g4r2g16w4k4g2w2g2w8g4k2g2r2-g808080-k000000-rc00000-wc0a0e0/)|
-|![Balmoral example sett](/setts/s13/g4r2g16w4k4g2w2g2w8g4k2g2r2-g808080-k000000-rc00000-wc0a0e0/sett.png)|
+| [Balmoral](/setts/s13/g2r1g8w2k2g1w1g1w4g2k1g1r1~g808080-k000000-rc00000-wc0a0e0~x2/)|
+|![Balmoral example sett](/setts/s13/g2r1g8w2k2g1w1g1w4g2k1g1r1~g808080-k000000-rc00000-wc0a0e0~x2/sett.png)|

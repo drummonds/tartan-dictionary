@@ -6,7 +6,7 @@ GWGGGYG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g14y7g14ga50g64w6g7-g289c18-ga003820-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g14y7g14ga50g64w6g7~g289c18-ga003820-we0e0e0-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGGGYG
 
 | Tartans |
 |---------------|
-| [Freedom of Derry](/setts/s7/g14y7g14ga50g64w6g7-g289c18-ga003820-we0e0e0-ye8c000/)|
-|![Freedom of Derry example sett](/setts/s7/g14y7g14ga50g64w6g7-g289c18-ga003820-we0e0e0-ye8c000/sett.png)|
+| [Freedom of Derry](/setts/s7/g14y7g14ga50g64w6g7~g289c18-ga003820-we0e0e0-ye8c000/)|
+|![Freedom of Derry example sett](/setts/s7/g14y7g14ga50g64w6g7~g289c18-ga003820-we0e0e0-ye8c000/sett.png)|

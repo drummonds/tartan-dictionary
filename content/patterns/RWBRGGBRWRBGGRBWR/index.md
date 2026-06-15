@@ -16,5 +16,5 @@ RWBRGGBRWRBGGRBWR
 
 | Tartans |
 |---------------|
-| [Spens, Fragment](/setts/s17/r100w4b14ra4g66ga24b14ra6w4ra6b14ga24g66ra4b14w4r34-b304080-g008000-ga30a010-rd00000-ra906030-we0e0e0/)|
-|![Spens, Fragment example sett](/setts/s17/r100w4b14ra4g66ga24b14ra6w4ra6b14ga24g66ra4b14w4r34-b304080-g008000-ga30a010-rd00000-ra906030-we0e0e0/sett.png)|
+| [Spens, Fragment](/setts/s17/r50w2b7ra2g33ga12b7ra3w2ra3b7ga12g33ra2b7w2r17~b304080-g008000-ga30a010-rd00000-ra906030-we0e0e0~x2/)|
+|![Spens, Fragment example sett](/setts/s17/r50w2b7ra2g33ga12b7ra3w2ra3b7ga12g33ra2b7w2r17~b304080-g008000-ga30a010-rd00000-ra906030-we0e0e0~x2/sett.png)|

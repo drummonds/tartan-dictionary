@@ -16,5 +16,5 @@ WRKRGRKGY
 
 | Tartans |
 |---------------|
-| [Brown, George](/setts/s9/w6r6k8r12g44r8k36g48y6-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Brown, George example sett](/setts/s9/w6r6k8r12g44r8k36g48y6-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Brown, George](/setts/s9/w3r3k4r6g22r4k18g24y3~g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Brown, George example sett](/setts/s9/w3r3k4r6g22r4k18g24y3~g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

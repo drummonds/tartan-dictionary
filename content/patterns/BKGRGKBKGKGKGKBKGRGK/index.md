@@ -16,5 +16,5 @@ BKGRGKBKGKGKGKBKGRGK
 
 | Tartans |
 |---------------|
-| [Highfield Hunting](/setts/s20/b40k8g8r8g8k8ba8k8ga16k4gb8k4ga16k8ba8k8g8r8g8k8-b1c0070-ba441800-g006818-ga603800-gb8c7038-k101010-r880000/)|
-|![Highfield Hunting example sett](/setts/s20/b40k8g8r8g8k8ba8k8ga16k4gb8k4ga16k8ba8k8g8r8g8k8-b1c0070-ba441800-g006818-ga603800-gb8c7038-k101010-r880000/sett.png)|
+| [Highfield Hunting](/setts/s20/b10k2g2r2g2k2ba2k2ga4k1gb2k1ga4k2ba2k2g2r2g2k2~b1c0070-ba441800-g006818-ga603800-gb8c7038-k101010-r880000~x4/)|
+|![Highfield Hunting example sett](/setts/s20/b10k2g2r2g2k2ba2k2ga4k1gb2k1ga4k2ba2k2g2r2g2k2~b1c0070-ba441800-g006818-ga603800-gb8c7038-k101010-r880000~x4/sett.png)|

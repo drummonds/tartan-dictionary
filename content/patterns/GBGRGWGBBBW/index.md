@@ -16,5 +16,5 @@ GBGRGWGBBBW
 
 | Tartans |
 |---------------|
-| [Spencer](/setts/s11/g80b6g16r4g4w4g20b12ba4b4w4-b3c5c70-ba441800-g846844-rc80000-wf8f8f8/)|
-|![Spencer example sett](/setts/s11/g80b6g16r4g4w4g20b12ba4b4w4-b3c5c70-ba441800-g846844-rc80000-wf8f8f8/sett.png)|
+| [Spencer](/setts/s11/g40b3g8r2g2w2g10b6ba2b2w2~b3c5c70-ba441800-g846844-rc80000-wf8f8f8~x2/)|
+|![Spencer example sett](/setts/s11/g40b3g8r2g2w2g10b6ba2b2w2~b3c5c70-ba441800-g846844-rc80000-wf8f8f8~x2/sett.png)|

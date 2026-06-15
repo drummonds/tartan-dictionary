@@ -16,5 +16,5 @@ BKBGBGBRBRB
 
 | Tartans |
 |---------------|
-| [McCall/MacCall](/setts/s11/b16k10b16g54b26g6b26r54b16r6b6-b600030-g006030-k000000-r806050/)|
-|![McCall/MacCall example sett](/setts/s11/b16k10b16g54b26g6b26r54b16r6b6-b600030-g006030-k000000-r806050/sett.png)|
+| [McCall/MacCall](/setts/s11/b8k5b8g27b13g3b13r27b8r3b3~b600030-g006030-k000000-r806050~x2/)|
+|![McCall/MacCall example sett](/setts/s11/b8k5b8g27b13g3b13r27b8r3b3~b600030-g006030-k000000-r806050~x2/sett.png)|

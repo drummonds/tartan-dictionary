@@ -6,7 +6,7 @@ BWBWK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b104w44b12w16k8-b003c9c-k101010-wfc9cd4/tartan.png)
+![Woven sample](/setts/s5/b26w11b3w4k2~b003c9c-k101010-wfc9cd4~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWK
 
 | Tartans |
 |---------------|
-| [Debbie Munro Memorial (Corporate)](/setts/s5/b104w44b12w16k8-b003c9c-k101010-wfc9cd4/)|
-|![Debbie Munro Memorial (Corporate) example sett](/setts/s5/b104w44b12w16k8-b003c9c-k101010-wfc9cd4/sett.png)|
+| [Debbie Munro Memorial (Corporate)](/setts/s5/b26w11b3w4k2~b003c9c-k101010-wfc9cd4~x4/)|
+|![Debbie Munro Memorial (Corporate) example sett](/setts/s5/b26w11b3w4k2~b003c9c-k101010-wfc9cd4~x4/sett.png)|

@@ -6,7 +6,7 @@ KYKGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k32y4k32g52r8-g005020-k101010-rff0000-yd87c00/tartan.png)
+![Woven sample](/setts/s5/k8y1k8g13r2~g005020-k101010-rff0000-yd87c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKGR
 
 | Tartans |
 |---------------|
-| [Tolmie](/setts/s5/k32y4k32g52r8-g005020-k101010-rff0000-yd87c00/)|
-|![Tolmie example sett](/setts/s5/k32y4k32g52r8-g005020-k101010-rff0000-yd87c00/sett.png)|
+| [Tolmie](/setts/s5/k8y1k8g13r2~g005020-k101010-rff0000-yd87c00~x4/)|
+|![Tolmie example sett](/setts/s5/k8y1k8g13r2~g005020-k101010-rff0000-yd87c00~x4/sett.png)|

@@ -6,7 +6,7 @@ BYKBKRKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8y8k24b12k8r56k4r4-b441800-k101010-ra07c58-yb8b8b8/tartan.png)
+![Woven sample](/setts/s8/b2y2k6b3k2r14k1r1~b441800-k101010-ra07c58-yb8b8b8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYKBKRKR
 
 | Tartans |
 |---------------|
-| [Blair Atholl (Fashion)](/setts/s8/b8y8k24b12k8r56k4r4-b441800-k101010-ra07c58-yb8b8b8/)|
-|![Blair Atholl (Fashion) example sett](/setts/s8/b8y8k24b12k8r56k4r4-b441800-k101010-ra07c58-yb8b8b8/sett.png)|
+| [Blair Atholl (Fashion)](/setts/s8/b2y2k6b3k2r14k1r1~b441800-k101010-ra07c58-yb8b8b8~x4/)|
+|![Blair Atholl (Fashion) example sett](/setts/s8/b2y2k6b3k2r14k1r1~b441800-k101010-ra07c58-yb8b8b8~x4/sett.png)|

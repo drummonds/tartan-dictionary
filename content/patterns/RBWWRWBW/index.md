@@ -6,7 +6,7 @@ RBWWRWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w140b10w6r10w6wa10b6ra10-b1474b4-re87878-rac80000-w98c8e8-wafcfcfc/tartan.png)
+![Woven sample](/setts/s8/w70b5w3r5w3wa5b3ra5~b1474b4-re87878-rac80000-w98c8e8-wafcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBWWRWBW
 
 | Tartans |
 |---------------|
-| [Wyckoff (Commemorative)](/setts/s8/w140b10w6r10w6wa10b6ra10-b1474b4-re87878-rac80000-w98c8e8-wafcfcfc/)|
-|![Wyckoff (Commemorative) example sett](/setts/s8/w140b10w6r10w6wa10b6ra10-b1474b4-re87878-rac80000-w98c8e8-wafcfcfc/sett.png)|
+| [Wyckoff (Commemorative)](/setts/s8/w70b5w3r5w3wa5b3ra5~b1474b4-re87878-rac80000-w98c8e8-wafcfcfc~x2/)|
+|![Wyckoff (Commemorative) example sett](/setts/s8/w70b5w3r5w3wa5b3ra5~b1474b4-re87878-rac80000-w98c8e8-wafcfcfc~x2/sett.png)|

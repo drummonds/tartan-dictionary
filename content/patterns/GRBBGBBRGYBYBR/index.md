@@ -16,5 +16,5 @@ GRBBGBBRGYBYBR
 
 | Tartans |
 |---------------|
-| [Westmeath (District)](/setts/s14/g22r12b12ba4g6ba4b12r12g72y4ba6y4b10r10-b003c64-ba4c3428-g006818-r880000-yd09800/)|
-|![Westmeath (District) example sett](/setts/s14/g22r12b12ba4g6ba4b12r12g72y4ba6y4b10r10-b003c64-ba4c3428-g006818-r880000-yd09800/sett.png)|
+| [Westmeath (District)](/setts/s14/g11r6b6ba2g3ba2b6r6g36y2ba3y2b5r5~b003c64-ba4c3428-g006818-r880000-yd09800~x2/)|
+|![Westmeath (District) example sett](/setts/s14/g11r6b6ba2g3ba2b6r6g36y2ba3y2b5r5~b003c64-ba4c3428-g006818-r880000-yd09800~x2/sett.png)|

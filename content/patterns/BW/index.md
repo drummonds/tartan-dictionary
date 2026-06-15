@@ -6,7 +6,7 @@ BW
 
 It is a 2 stripes tartan.
 
-![Woven sample](/setts/s2/b20w20-b2c2c80-wf8f8f8/tartan.png)
+![Woven sample](/setts/s2/b1w1~b2c2c80-wf8f8f8~x20/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BW
 
 | Tartans |
 |---------------|
-| [Sillitoe](/setts/s2/b20w20-b2c2c80-wf8f8f8/)|
-|![Sillitoe example sett](/setts/s2/b20w20-b2c2c80-wf8f8f8/sett.png)|
+| [Sillitoe](/setts/s2/b1w1~b2c2c80-wf8f8f8~x20/)|
+|![Sillitoe example sett](/setts/s2/b1w1~b2c2c80-wf8f8f8~x20/sett.png)|

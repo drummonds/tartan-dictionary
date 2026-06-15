@@ -6,7 +6,7 @@ BRYWKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6r4y30w20k4ya6-b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126/tartan.png)
+![Woven sample](/setts/s6/b3r2y15w10k2ya3~b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYWKY
 
 | Tartans |
 |---------------|
-| [SCH '67 Class](/setts/s6/b6r4y30w20k4ya6-b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126/)|
-|![SCH '67 Class example sett](/setts/s6/b6r4y30w20k4ya6-b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126/sett.png)|
+| [SCH '67 Class](/setts/s6/b3r2y15w10k2ya3~b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126~x2/)|
+|![SCH '67 Class example sett](/setts/s6/b3r2y15w10k2ya3~b000064-k101010-re87878-wffffff-yb0b0b0-yae0a126~x2/sett.png)|

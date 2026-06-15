@@ -16,5 +16,5 @@ KGKYKYKYKGYY
 
 | Tartans |
 |---------------|
-| [Entier](/setts/s12/k4g8k12y4k62ya4k2ya4k32g40ya2y4-g00643c-k101010-yb0b0b0-ya9c9c00/)|
-|![Entier example sett](/setts/s12/k4g8k12y4k62ya4k2ya4k32g40ya2y4-g00643c-k101010-yb0b0b0-ya9c9c00/sett.png)|
+| [Entier](/setts/s12/k2g4k6y2k31ya2k1ya2k16g20ya1y2~g00643c-k101010-yb0b0b0-ya9c9c00~x2/)|
+|![Entier example sett](/setts/s12/k2g4k6y2k31ya2k1ya2k16g20ya1y2~g00643c-k101010-yb0b0b0-ya9c9c00~x2/sett.png)|

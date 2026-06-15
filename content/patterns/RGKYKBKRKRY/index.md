@@ -16,5 +16,5 @@ RGKYKBKRKRY
 
 | Tartans |
 |---------------|
-| [King George (Nash)](/setts/s11/r10g60k12y4k6b10k24r16k6r6ya6-b3070fc-g004c00-k000000-r880000-yc89800-yaacacac/)|
-|![King George (Nash) example sett](/setts/s11/r10g60k12y4k6b10k24r16k6r6ya6-b3070fc-g004c00-k000000-r880000-yc89800-yaacacac/sett.png)|
+| [King George (Nash)](/setts/s11/r5g30k6y2k3b5k12r8k3r3ya3~b3070fc-g004c00-k000000-r880000-yc89800-yaacacac~x2/)|
+|![King George (Nash) example sett](/setts/s11/r5g30k6y2k3b5k12r8k3r3ya3~b3070fc-g004c00-k000000-r880000-yc89800-yaacacac~x2/sett.png)|

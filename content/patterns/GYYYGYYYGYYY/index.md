@@ -16,5 +16,5 @@ GYYYGYYYGYYY
 
 | Tartans |
 |---------------|
-| [Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g4y2ya4y2g4y2ya4y64ga4y24ya4y4-g006818-ga604000-ye8c000-yaa08858/)|
-|![Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/g4y2ya4y2g4y2ya4y64ga4y24ya4y4-g006818-ga604000-ye8c000-yaa08858/sett.png)|
+| [Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g2y1ya2y1g2y1ya2y32ga2y12ya2y2~g006818-ga604000-ye8c000-yaa08858~x2/)|
+|![Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/g2y1ya2y1g2y1ya2y32ga2y12ya2y2~g006818-ga604000-ye8c000-yaa08858~x2/sett.png)|

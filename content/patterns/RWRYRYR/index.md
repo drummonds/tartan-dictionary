@@ -6,7 +6,7 @@ RWRYRYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r64w4r18y4r24ya42ra2-ra07c58-rac80000-wfcfcfc-yfccc00-yaa08858/tartan.png)
+![Woven sample](/setts/s7/r32w2r9y2r12ya21ra1~ra07c58-rac80000-wfcfcfc-yfccc00-yaa08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWRYRYR
 
 | Tartans |
 |---------------|
-| [Weathered Cyclist (Corporate)](/setts/s7/r64w4r18y4r24ya42ra2-ra07c58-rac80000-wfcfcfc-yfccc00-yaa08858/)|
-|![Weathered Cyclist (Corporate) example sett](/setts/s7/r64w4r18y4r24ya42ra2-ra07c58-rac80000-wfcfcfc-yfccc00-yaa08858/sett.png)|
+| [Weathered Cyclist (Corporate)](/setts/s7/r32w2r9y2r12ya21ra1~ra07c58-rac80000-wfcfcfc-yfccc00-yaa08858~x2/)|
+|![Weathered Cyclist (Corporate) example sett](/setts/s7/r32w2r9y2r12ya21ra1~ra07c58-rac80000-wfcfcfc-yfccc00-yaa08858~x2/sett.png)|

@@ -6,7 +6,7 @@ WBWBGWGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w6b6w6b42g42w6g6w6-b5c8ca8-g8c7038-w98c8e8/tartan.png)
+![Woven sample](/setts/s8/w1b1w1b7g7w1g1w1~b5c8ca8-g8c7038-w98c8e8~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBWBGWGW
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne (Fashion)](/setts/s8/w6b6w6b42g42w6g6w6-b5c8ca8-g8c7038-w98c8e8/)|
-|![Auld Lang Syne (Fashion) example sett](/setts/s8/w6b6w6b42g42w6g6w6-b5c8ca8-g8c7038-w98c8e8/sett.png)|
+| [Auld Lang Syne (Fashion)](/setts/s8/w1b1w1b7g7w1g1w1~b5c8ca8-g8c7038-w98c8e8~x6/)|
+|![Auld Lang Syne (Fashion) example sett](/setts/s8/w1b1w1b7g7w1g1w1~b5c8ca8-g8c7038-w98c8e8~x6/sett.png)|

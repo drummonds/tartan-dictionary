@@ -16,5 +16,5 @@ BKWKRKWKBR
 
 | Tartans |
 |---------------|
-| [Hydro-Electric](/setts/s10/b44k16w20k4r12k4w20k16b44r4-b2c2c80-k101010-rc80000-wfcfcfc/)|
-|![Hydro-Electric example sett](/setts/s10/b44k16w20k4r12k4w20k16b44r4-b2c2c80-k101010-rc80000-wfcfcfc/sett.png)|
+| [Hydro-Electric](/setts/s10/b11k4w5k1r3k1w5k4b11r1~b2c2c80-k101010-rc80000-wfcfcfc~x4/)|
+|![Hydro-Electric example sett](/setts/s10/b11k4w5k1r3k1w5k4b11r1~b2c2c80-k101010-rc80000-wfcfcfc~x4/sett.png)|

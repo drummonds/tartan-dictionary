@@ -16,5 +16,5 @@ RKRKBKYKY
 
 | Tartans |
 |---------------|
-| [Scotsburn Croft](/setts/s9/y16k3y16k26b4k26r20k3r8-b780078-k101010-r888888-y48a4c0/)|
-|![Scotsburn Croft example sett](/setts/s9/y16k3y16k26b4k26r20k3r8-b780078-k101010-r888888-y48a4c0/sett.png)|
+| [Scotsburn Croft](/setts/s9/y16k3y16k26b4k26r20k3r8~b780078-k101010-r888888-y48a4c0/)|
+|![Scotsburn Croft example sett](/setts/s9/y16k3y16k26b4k26r20k3r8~b780078-k101010-r888888-y48a4c0/sett.png)|

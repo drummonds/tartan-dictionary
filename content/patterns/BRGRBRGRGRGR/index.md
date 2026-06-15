@@ -16,5 +16,5 @@ BRGRBRGRGRGR
 
 | Tartans |
 |---------------|
-| [Unidentified Early 18th Centuary #2](/setts/s12/r18g4r6g4r18g6r6b6r6g6r6b6-b2c4084-g005020-rdc0000/)|
-|![Unidentified Early 18th Centuary #2 example sett](/setts/s12/r18g4r6g4r18g6r6b6r6g6r6b6-b2c4084-g005020-rdc0000/sett.png)|
+| [Unidentified Early 18th Centuary #2](/setts/s12/r9g2r3g2r9g3r3b3r3g3r3b3~b2c4084-g005020-rdc0000~x2/)|
+|![Unidentified Early 18th Centuary #2 example sett](/setts/s12/r9g2r3g2r9g3r3b3r3g3r3b3~b2c4084-g005020-rdc0000~x2/sett.png)|

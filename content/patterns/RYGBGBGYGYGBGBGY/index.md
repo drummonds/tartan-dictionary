@@ -16,5 +16,5 @@ RYGBGBGYGYGBGBGY
 
 | Tartans |
 |---------------|
-| [Nova Scotia Dress #2](/setts/s16/y10g32b16g8b8g8ya76g8ya76g8b8g8b16g32y10r6-b1c0070-g006818-rc80000-ye8c000-yab8b8b8/)|
-|![Nova Scotia Dress #2 example sett](/setts/s16/y10g32b16g8b8g8ya76g8ya76g8b8g8b16g32y10r6-b1c0070-g006818-rc80000-ye8c000-yab8b8b8/sett.png)|
+| [Nova Scotia Dress #2](/setts/s16/y5g16b8g4b4g4ya38g4ya38g4b4g4b8g16y5r3~b1c0070-g006818-rc80000-ye8c000-yab8b8b8~x2/)|
+|![Nova Scotia Dress #2 example sett](/setts/s16/y5g16b8g4b4g4ya38g4ya38g4b4g4b8g16y5r3~b1c0070-g006818-rc80000-ye8c000-yab8b8b8~x2/sett.png)|

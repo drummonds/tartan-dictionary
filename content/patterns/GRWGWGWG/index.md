@@ -6,7 +6,7 @@ GRWGWGWG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g6r20w4ga6w26gb4w4gb6-g289c18-ga006818-gb408060-r880000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s8/g3r10w2ga3w13gb2w2gb3~g289c18-ga006818-gb408060-r880000-wc0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWGWGWG
 
 | Tartans |
 |---------------|
-| [Manitoba Dress (Dance)](/setts/s8/g6r20w4ga6w26gb4w4gb6-g289c18-ga006818-gb408060-r880000-wc0c0c0/)|
-|![Manitoba Dress (Dance) example sett](/setts/s8/g6r20w4ga6w26gb4w4gb6-g289c18-ga006818-gb408060-r880000-wc0c0c0/sett.png)|
+| [Manitoba Dress (Dance)](/setts/s8/g3r10w2ga3w13gb2w2gb3~g289c18-ga006818-gb408060-r880000-wc0c0c0~x2/)|
+|![Manitoba Dress (Dance) example sett](/setts/s8/g3r10w2ga3w13gb2w2gb3~g289c18-ga006818-gb408060-r880000-wc0c0c0~x2/sett.png)|

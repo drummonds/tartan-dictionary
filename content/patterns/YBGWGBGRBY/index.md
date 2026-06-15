@@ -16,5 +16,5 @@ YBGWGBGRBY
 
 | Tartans |
 |---------------|
-| [Oxford University Dress (Corporate)](/setts/s10/y8b88g10w4g4b4g4r4b6y6-b1c0070-g006818-rc8002c-wfcfcfc-yc4bc68/)|
-|![Oxford University Dress (Corporate) example sett](/setts/s10/y8b88g10w4g4b4g4r4b6y6-b1c0070-g006818-rc8002c-wfcfcfc-yc4bc68/sett.png)|
+| [Oxford University Dress (Corporate)](/setts/s10/y4b44g5w2g2b2g2r2b3y3~b1c0070-g006818-rc8002c-wfcfcfc-yc4bc68~x2/)|
+|![Oxford University Dress (Corporate) example sett](/setts/s10/y4b44g5w2g2b2g2r2b3y3~b1c0070-g006818-rc8002c-wfcfcfc-yc4bc68~x2/sett.png)|

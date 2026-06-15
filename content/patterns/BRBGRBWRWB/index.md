@@ -16,5 +16,5 @@ BRBGRBWRWB
 
 | Tartans |
 |---------------|
-| [Kansai St Andrews Society (Corp)](/setts/s10/b66w4r6w4ba28ra6g30b40r4b6-b506878-ba2c2c80-g30644c-rc80000-rae87878-wfcfcfc/)|
-|![Kansai St Andrews Society (Corp) example sett](/setts/s10/b66w4r6w4ba28ra6g30b40r4b6-b506878-ba2c2c80-g30644c-rc80000-rae87878-wfcfcfc/sett.png)|
+| [Kansai St Andrews Society (Corp)](/setts/s10/b33w2r3w2ba14ra3g15b20r2b3~b506878-ba2c2c80-g30644c-rc80000-rae87878-wfcfcfc~x2/)|
+|![Kansai St Andrews Society (Corp) example sett](/setts/s10/b33w2r3w2ba14ra3g15b20r2b3~b506878-ba2c2c80-g30644c-rc80000-rae87878-wfcfcfc~x2/sett.png)|

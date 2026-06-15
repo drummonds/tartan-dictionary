@@ -6,7 +6,7 @@ YRWBYRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y8r4y42b22w4ra42ya8-b1c1c1c-ra00000-ra98481c-wfcfcfc-yd8b000-yafccc00/tartan.png)
+![Woven sample](/setts/s7/y4r2y21b11w2ra21ya4~b1c1c1c-ra00000-ra98481c-wfcfcfc-yd8b000-yafccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YRWBYRY
 
 | Tartans |
 |---------------|
-| [Barbour - Muted](/setts/s7/y8r4y42b22w4ra42ya8-b1c1c1c-ra00000-ra98481c-wfcfcfc-yd8b000-yafccc00/)|
-|![Barbour - Muted example sett](/setts/s7/y8r4y42b22w4ra42ya8-b1c1c1c-ra00000-ra98481c-wfcfcfc-yd8b000-yafccc00/sett.png)|
+| [Barbour - Muted](/setts/s7/y4r2y21b11w2ra21ya4~b1c1c1c-ra00000-ra98481c-wfcfcfc-yd8b000-yafccc00~x2/)|
+|![Barbour - Muted example sett](/setts/s7/y4r2y21b11w2ra21ya4~b1c1c1c-ra00000-ra98481c-wfcfcfc-yd8b000-yafccc00~x2/sett.png)|

@@ -16,5 +16,5 @@ BYBBBBKRW
 
 | Tartans |
 |---------------|
-| [Wrens](/setts/s9/b32y6b16ba24b2ba12k64r2w4-b8080d0-ba304080-k000030-rc00000-we0e0e0-yf0c000/)|
-|![Wrens example sett](/setts/s9/b32y6b16ba24b2ba12k64r2w4-b8080d0-ba304080-k000030-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Wrens](/setts/s9/b16y3b8ba12b1ba6k32r1w2~b8080d0-ba304080-k000030-rc00000-we0e0e0-yf0c000~x2/)|
+|![Wrens example sett](/setts/s9/b16y3b8ba12b1ba6k32r1w2~b8080d0-ba304080-k000030-rc00000-we0e0e0-yf0c000~x2/sett.png)|

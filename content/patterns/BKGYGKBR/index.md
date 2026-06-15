@@ -6,7 +6,7 @@ BKGYGKBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b24k8g24y2g24k8b16r6-b202060-g5c6428-k101010-rc80000-yd8b000/tartan.png)
+![Woven sample](/setts/s8/b12k4g12y1g12k4b8r3~b202060-g5c6428-k101010-rc80000-yd8b000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGYGKBR
 
 | Tartans |
 |---------------|
-| [Art Pewter Silver](/setts/s8/b24k8g24y2g24k8b16r6-b202060-g5c6428-k101010-rc80000-yd8b000/)|
-|![Art Pewter Silver example sett](/setts/s8/b24k8g24y2g24k8b16r6-b202060-g5c6428-k101010-rc80000-yd8b000/sett.png)|
+| [Art Pewter Silver](/setts/s8/b12k4g12y1g12k4b8r3~b202060-g5c6428-k101010-rc80000-yd8b000~x2/)|
+|![Art Pewter Silver example sett](/setts/s8/b12k4g12y1g12k4b8r3~b202060-g5c6428-k101010-rc80000-yd8b000~x2/sett.png)|

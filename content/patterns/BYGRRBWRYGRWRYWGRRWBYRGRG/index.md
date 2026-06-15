@@ -16,5 +16,5 @@ BYGRRBWRYGRWRYWGRRWBYRGRG
 
 | Tartans |
 |---------------|
-| [Wirth, Iwan (Personal)](/setts/s25/b192y80g16r26ra2b26w8rb10y20g78r30w36rb6ya2w44g28r16rb10w8b26ya2r16g16r80g28-b4c3428-g003820-r98481c-raff0000-rb880000-wf8f4d0-yb0b0b0-yae0a126/)|
-|![Wirth, Iwan (Personal) example sett](/setts/s25/b192y80g16r26ra2b26w8rb10y20g78r30w36rb6ya2w44g28r16rb10w8b26ya2r16g16r80g28-b4c3428-g003820-r98481c-raff0000-rb880000-wf8f4d0-yb0b0b0-yae0a126/sett.png)|
+| [Wirth, Iwan (Personal)](/setts/s25/b96y40g8r13ra1b13w4rb5y10g39r15w18rb3ya1w22g14r8rb5w4b13ya1r8g8r40g14~b4c3428-g003820-r98481c-raff0000-rb880000-wf8f4d0-yb0b0b0-yae0a126~x2/)|
+|![Wirth, Iwan (Personal) example sett](/setts/s25/b96y40g8r13ra1b13w4rb5y10g39r15w18rb3ya1w22g14r8rb5w4b13ya1r8g8r40g14~b4c3428-g003820-r98481c-raff0000-rb880000-wf8f4d0-yb0b0b0-yae0a126~x2/sett.png)|

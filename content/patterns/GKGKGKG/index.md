@@ -6,7 +6,7 @@ GKGKGKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g16k6g34k26g12k6g8-g808080-k101010/tartan.png)
+![Woven sample](/setts/s7/g8k3g17k13g6k3g4~g808080-k101010~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKGKG
 
 | Tartans |
 |---------------|
-| [Scott Black and Grey](/setts/s7/g16k6g34k26g12k6g8-g808080-k101010/)|
-|![Scott Black and Grey example sett](/setts/s7/g16k6g34k26g12k6g8-g808080-k101010/sett.png)|
+| [Scott Black and Grey](/setts/s7/g8k3g17k13g6k3g4~g808080-k101010~x2/)|
+|![Scott Black and Grey example sett](/setts/s7/g8k3g17k13g6k3g4~g808080-k101010~x2/sett.png)|

@@ -16,5 +16,5 @@ KGKGGKGKGK
 
 | Tartans |
 |---------------|
-| [Bute Heather, Black](/setts/s10/k12g40k12g8k8g16g4k16g4k10-g808080-k101010/)|
-|![Bute Heather, Black example sett](/setts/s10/k12g40k12g8k8g16g4k16g4k10-g808080-k101010/sett.png)|
+| [Bute Heather, Black](/setts/s10/k6g20k6g4k4g8g2k8g2k5~g808080-k101010~x2/)|
+|![Bute Heather, Black example sett](/setts/s10/k6g20k6g4k4g8g2k8g2k5~g808080-k101010~x2/sett.png)|

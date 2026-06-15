@@ -6,7 +6,7 @@ RYWYWY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y24w10y12w10y24r4-rc80000-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s6/y12w5y6w5y12r2~rc80000-wfcfcfc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYWYWY
 
 | Tartans |
 |---------------|
-| [One Account](/setts/s6/y24w10y12w10y24r4-rc80000-wfcfcfc-ye8c000/)|
-|![One Account example sett](/setts/s6/y24w10y12w10y24r4-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [One Account](/setts/s6/y12w5y6w5y12r2~rc80000-wfcfcfc-ye8c000~x2/)|
+|![One Account example sett](/setts/s6/y12w5y6w5y12r2~rc80000-wfcfcfc-ye8c000~x2/sett.png)|

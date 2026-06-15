@@ -16,5 +16,5 @@ BRBGWYBRW
 
 | Tartans |
 |---------------|
-| [Eljamel, Sam (Personal)](/setts/s9/b76r10ba10g10w10y10b10r10w10-b5f749c-ba1c1c1c-g649848-rff0000-wffffff-yffff00/)|
-|![Eljamel, Sam (Personal) example sett](/setts/s9/b76r10ba10g10w10y10b10r10w10-b5f749c-ba1c1c1c-g649848-rff0000-wffffff-yffff00/sett.png)|
+| [Eljamel, Sam (Personal)](/setts/s9/b38r5ba5g5w5y5b5r5w5~b5f749c-ba1c1c1c-g649848-rff0000-wffffff-yffff00~x2/)|
+|![Eljamel, Sam (Personal) example sett](/setts/s9/b38r5ba5g5w5y5b5r5w5~b5f749c-ba1c1c1c-g649848-rff0000-wffffff-yffff00~x2/sett.png)|

@@ -16,5 +16,5 @@ BGBGGBGBYRGYGYGY
 
 | Tartans |
 |---------------|
-| [Langermann (Name)](/setts/s16/b2g4b2g6ga12b2g12b4y10r26gb46y2gb2y2gb4y2-b003c64-g5c6428-ga006818-gb604000-rc80000-yd87c00/)|
-|![Langermann (Name) example sett](/setts/s16/b2g4b2g6ga12b2g12b4y10r26gb46y2gb2y2gb4y2-b003c64-g5c6428-ga006818-gb604000-rc80000-yd87c00/sett.png)|
+| [Langermann (Name)](/setts/s16/b1g2b1g3ga6b1g6b2y5r13gb23y1gb1y1gb2y1~b003c64-g5c6428-ga006818-gb604000-rc80000-yd87c00~x2/)|
+|![Langermann (Name) example sett](/setts/s16/b1g2b1g3ga6b1g6b2y5r13gb23y1gb1y1gb2y1~b003c64-g5c6428-ga006818-gb604000-rc80000-yd87c00~x2/sett.png)|

@@ -6,7 +6,7 @@ RBKWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4b16k16w2r4-b780078-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s5/r2b8k8w1r2~b780078-k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKWR
 
 | Tartans |
 |---------------|
-| [Inder (Corporate)](/setts/s5/r4b16k16w2r4-b780078-k101010-rc80000-wf8f8f8/)|
-|![Inder (Corporate) example sett](/setts/s5/r4b16k16w2r4-b780078-k101010-rc80000-wf8f8f8/sett.png)|
+| [Inder (Corporate)](/setts/s5/r2b8k8w1r2~b780078-k101010-rc80000-wf8f8f8~x2/)|
+|![Inder (Corporate) example sett](/setts/s5/r2b8k8w1r2~b780078-k101010-rc80000-wf8f8f8~x2/sett.png)|

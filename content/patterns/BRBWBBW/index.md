@@ -6,7 +6,7 @@ BRBWBBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b128r16b2w16b8ba30w8-b000080-ba0000cd-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s7/b64r8b1w8b4ba15w4~b000080-ba0000cd-rff0000-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBWBBW
 
 | Tartans |
 |---------------|
-| [North Carolina](/setts/s7/b128r16b2w16b8ba30w8-b000080-ba0000cd-rff0000-wffffff/)|
-|![North Carolina example sett](/setts/s7/b128r16b2w16b8ba30w8-b000080-ba0000cd-rff0000-wffffff/sett.png)|
+| [North Carolina](/setts/s7/b64r8b1w8b4ba15w4~b000080-ba0000cd-rff0000-wffffff~x2/)|
+|![North Carolina example sett](/setts/s7/b64r8b1w8b4ba15w4~b000080-ba0000cd-rff0000-wffffff~x2/sett.png)|

@@ -16,5 +16,5 @@ RKRKRRKRKRW
 
 | Tartans |
 |---------------|
-| [Lunch with an Old Bag Charity, The](/setts/s11/r6k30r4k4r12ra32k6ra4k6ra18w4-k101010-re87878-ra888888-wfcfcfc/)|
-|![Lunch with an Old Bag Charity, The example sett](/setts/s11/r6k30r4k4r12ra32k6ra4k6ra18w4-k101010-re87878-ra888888-wfcfcfc/sett.png)|
+| [Lunch with an Old Bag Charity, The](/setts/s11/r3k15r2k2r6ra16k3ra2k3ra9w2~k101010-re87878-ra888888-wfcfcfc~x2/)|
+|![Lunch with an Old Bag Charity, The example sett](/setts/s11/r3k15r2k2r6ra16k3ra2k3ra9w2~k101010-re87878-ra888888-wfcfcfc~x2/sett.png)|

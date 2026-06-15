@@ -16,5 +16,5 @@ RWBWBRBRBRBRBRBRBBWBWBW
 
 | Tartans |
 |---------------|
-| [Alabama (Provisional)](/setts/s23/r10w6b4w2b8ra2b2ra6b2ra2b8rb8ba2rb2ba2rb8b8bb50w2bb4w4bb4w6-b003c64-ba5c8ca8-bb1474b4-rc80000-ra901c38-rb888888-we0e0e0/)|
-|![Alabama (Provisional) example sett](/setts/s23/r10w6b4w2b8ra2b2ra6b2ra2b8rb8ba2rb2ba2rb8b8bb50w2bb4w4bb4w6-b003c64-ba5c8ca8-bb1474b4-rc80000-ra901c38-rb888888-we0e0e0/sett.png)|
+| [Alabama (Provisional)](/setts/s23/r5w3b2w1b4ra1b1ra3b1ra1b4rb4ba1rb1ba1rb4b4bb25w1bb2w2bb2w3~b003c64-ba5c8ca8-bb1474b4-rc80000-ra901c38-rb888888-we0e0e0~x2/)|
+|![Alabama (Provisional) example sett](/setts/s23/r5w3b2w1b4ra1b1ra3b1ra1b4rb4ba1rb1ba1rb4b4bb25w1bb2w2bb2w3~b003c64-ba5c8ca8-bb1474b4-rc80000-ra901c38-rb888888-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ KBKBKWKKWK
 
 | Tartans |
 |---------------|
-| [Scottish Claymores](/setts/s10/k18w4k48ka16w10ka16b30ka6b30ka4-b304080-k000030-ka000000-we0e0e0/)|
-|![Scottish Claymores example sett](/setts/s10/k18w4k48ka16w10ka16b30ka6b30ka4-b304080-k000030-ka000000-we0e0e0/sett.png)|
+| [Scottish Claymores](/setts/s10/k9w2k24ka8w5ka8b15ka3b15ka2~b304080-k000030-ka000000-we0e0e0~x2/)|
+|![Scottish Claymores example sett](/setts/s10/k9w2k24ka8w5ka8b15ka3b15ka2~b304080-k000030-ka000000-we0e0e0~x2/sett.png)|

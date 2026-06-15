@@ -16,5 +16,5 @@ BBRBKBWBYBB
 
 | Tartans |
 |---------------|
-| [Manchester City Football Club "Blue](/setts/s11/b8ba26r4b4k4b4w10b4y4b4ba4-b202060-ba1870a4-k101010-ra00000-wfcfcfc-yfccc00/)|
-|![Manchester City Football Club "Blue example sett](/setts/s11/b8ba26r4b4k4b4w10b4y4b4ba4-b202060-ba1870a4-k101010-ra00000-wfcfcfc-yfccc00/sett.png)|
+| [Manchester City Football Club "Blue](/setts/s11/b4ba13r2b2k2b2w5b2y2b2ba2~b202060-ba1870a4-k101010-ra00000-wfcfcfc-yfccc00~x2/)|
+|![Manchester City Football Club "Blue example sett](/setts/s11/b4ba13r2b2k2b2w5b2y2b2ba2~b202060-ba1870a4-k101010-ra00000-wfcfcfc-yfccc00~x2/sett.png)|

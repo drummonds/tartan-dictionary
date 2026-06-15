@@ -6,7 +6,7 @@ KWBW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s4/k1w1b1w1~b441800-k101010-we0e0e0~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWBW
 
 | Tartans |
 |---------------|
-| [Hogg](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/)|
-|![Hogg example sett](/setts/s4/k8w8b8w8-b441800-k101010-we0e0e0/sett.png)|
+| [Hogg](/setts/s4/k1w1b1w1~b441800-k101010-we0e0e0~x8/)|
+|![Hogg example sett](/setts/s4/k1w1b1w1~b441800-k101010-we0e0e0~x8/sett.png)|

@@ -6,7 +6,7 @@ RGGGGGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4g38g4g4g38g4y4-g006818-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s7/r2g19g2g2g19g2y2~g006818-r880000-yd09800~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RGGGGGY
 
 | Tartans |
 |---------------|
-| [Kenmore Hunting](/setts/s7/r4g38g4g4g38g4y4-g006818-r880000-yd09800/)|
-|![Kenmore Hunting example sett](/setts/s7/r4g38g4g4g38g4y4-g006818-r880000-yd09800/sett.png)|
-| [Hunting Kenmore](/setts/s7/r4g38ga4g4ga38g4y4-g003000-ga008000-rc00000-yf0c000/)|
-|![Hunting Kenmore example sett](/setts/s7/r4g38ga4g4ga38g4y4-g003000-ga008000-rc00000-yf0c000/sett.png)|
+| [Kenmore Hunting](/setts/s7/r2g19g2g2g19g2y2~g006818-r880000-yd09800~x2/)|
+|![Kenmore Hunting example sett](/setts/s7/r2g19g2g2g19g2y2~g006818-r880000-yd09800~x2/sett.png)|
+| [Hunting Kenmore](/setts/s7/r2g19ga2g2ga19g2y2~g003000-ga008000-rc00000-yf0c000~x2/)|
+|![Hunting Kenmore example sett](/setts/s7/r2g19ga2g2ga19g2y2~g003000-ga008000-rc00000-yf0c000~x2/sett.png)|

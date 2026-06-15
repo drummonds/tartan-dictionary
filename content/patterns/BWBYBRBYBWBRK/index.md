@@ -16,5 +16,5 @@ BWBYBRBYBWBRK
 
 | Tartans |
 |---------------|
-| [Royal National Lifeboat Inst. (Corp)](/setts/s13/b30w4b30y4b30r4b30y4b30w4b30r8k4-b1c0070-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Royal National Lifeboat Inst. (Corp) example sett](/setts/s13/b30w4b30y4b30r4b30y4b30w4b30r8k4-b1c0070-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Royal National Lifeboat Inst. (Corp)](/setts/s13/b15w2b15y2b15r2b15y2b15w2b15r4k2~b1c0070-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Royal National Lifeboat Inst. (Corp) example sett](/setts/s13/b15w2b15y2b15r2b15y2b15w2b15r4k2~b1c0070-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

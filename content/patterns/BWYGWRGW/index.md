@@ -6,7 +6,7 @@ BWYGWRGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b92w2y6g26w2r14ga6w2-b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00/tartan.png)
+![Woven sample](/setts/s8/b46w1y3g13w1r7ga3w1~b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWYGWRGW
 
 | Tartans |
 |---------------|
-| [Victorian Highland Pipe Band Association (Australia)](/setts/s8/b92w2y6g26w2r14ga6w2-b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00/)|
-|![Victorian Highland Pipe Band Association (Australia) example sett](/setts/s8/b92w2y6g26w2r14ga6w2-b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00/sett.png)|
+| [Victorian Highland Pipe Band Association (Australia)](/setts/s8/b46w1y3g13w1r7ga3w1~b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00~x2/)|
+|![Victorian Highland Pipe Band Association (Australia) example sett](/setts/s8/b46w1y3g13w1r7ga3w1~b14283c-g004028-ga649848-r89051b-wf0e0c8-yd87c00~x2/sett.png)|

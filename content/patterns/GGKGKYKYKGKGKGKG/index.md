@@ -16,5 +16,5 @@ GGKGKYKYKGKGKGKG
 
 | Tartans |
 |---------------|
-| [Hope Vere / Weir](/setts/s16/g38k2ga6k2g6k18g40k2y2k14y2k2g42k24g4ga2-g006030-ga008000-k000000-yf0c000/)|
-|![Hope Vere / Weir example sett](/setts/s16/g38k2ga6k2g6k18g40k2y2k14y2k2g42k24g4ga2-g006030-ga008000-k000000-yf0c000/sett.png)|
+| [Hope Vere / Weir](/setts/s16/g19k1ga3k1g3k9g20k1y1k7y1k1g21k12g2ga1~g006030-ga008000-k000000-yf0c000~x2/)|
+|![Hope Vere / Weir example sett](/setts/s16/g19k1ga3k1g3k9g20k1y1k7y1k1g21k12g2ga1~g006030-ga008000-k000000-yf0c000~x2/sett.png)|

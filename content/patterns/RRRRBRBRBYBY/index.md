@@ -16,5 +16,5 @@ RRRRBRBRBYBY
 
 | Tartans |
 |---------------|
-| [Lysaght](/setts/s12/r24ra16r24ra44b4ra12b12ra4b44y24b16y24-b2c2c80-r880000-ra888888-ybc8c00/)|
-|![Lysaght example sett](/setts/s12/r24ra16r24ra44b4ra12b12ra4b44y24b16y24-b2c2c80-r880000-ra888888-ybc8c00/sett.png)|
+| [Lysaght](/setts/s12/r6ra4r6ra11b1ra3b3ra1b11y6b4y6~b2c2c80-r880000-ra888888-ybc8c00~x4/)|
+|![Lysaght example sett](/setts/s12/r6ra4r6ra11b1ra3b3ra1b11y6b4y6~b2c2c80-r880000-ra888888-ybc8c00~x4/sett.png)|

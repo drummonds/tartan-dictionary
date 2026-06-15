@@ -16,5 +16,5 @@ BGBWBKBKBRK
 
 | Tartans |
 |---------------|
-| [Pearl O' the Tay (Corporate)](/setts/s11/b12g6b6w4b10k4b6k4ba32r6k4-b003c64-ba780078-g006818-k101010-ra00048-wfcfcfc/)|
-|![Pearl O' the Tay (Corporate) example sett](/setts/s11/b12g6b6w4b10k4b6k4ba32r6k4-b003c64-ba780078-g006818-k101010-ra00048-wfcfcfc/sett.png)|
+| [Pearl O' the Tay (Corporate)](/setts/s11/b6g3b3w2b5k2b3k2ba16r3k2~b003c64-ba780078-g006818-k101010-ra00048-wfcfcfc~x2/)|
+|![Pearl O' the Tay (Corporate) example sett](/setts/s11/b6g3b3w2b5k2b3k2ba16r3k2~b003c64-ba780078-g006818-k101010-ra00048-wfcfcfc~x2/sett.png)|

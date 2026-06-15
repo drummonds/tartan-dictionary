@@ -6,7 +6,7 @@ KYKGYGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k8y18k26g12y6g18w8-g006818-k101010-we0e0e0-yd87c00/tartan.png)
+![Woven sample](/setts/s7/k4y9k13g6y3g9w4~g006818-k101010-we0e0e0-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKGYGW
 
 | Tartans |
 |---------------|
-| [Ramsay (Orange)](/setts/s7/k8y18k26g12y6g18w8-g006818-k101010-we0e0e0-yd87c00/)|
-|![Ramsay (Orange) example sett](/setts/s7/k8y18k26g12y6g18w8-g006818-k101010-we0e0e0-yd87c00/sett.png)|
+| [Ramsay (Orange)](/setts/s7/k4y9k13g6y3g9w4~g006818-k101010-we0e0e0-yd87c00~x2/)|
+|![Ramsay (Orange) example sett](/setts/s7/k4y9k13g6y3g9w4~g006818-k101010-we0e0e0-yd87c00~x2/sett.png)|

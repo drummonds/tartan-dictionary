@@ -16,5 +16,5 @@ BWBWKWGWGWGWRWGWGWGWKWBW
 
 | Tartans |
 |---------------|
-| [Wiseman, Robert](/setts/s24/b10w4b4w8k54w4g4w4g12w4g4w44r4w44g4w4g12w4g4w4k54w8b4w4-b2888c4-g289c18-k101010-r901c38-we0e0e0/)|
-|![Wiseman, Robert example sett](/setts/s24/b10w4b4w8k54w4g4w4g12w4g4w44r4w44g4w4g12w4g4w4k54w8b4w4-b2888c4-g289c18-k101010-r901c38-we0e0e0/sett.png)|
+| [Wiseman, Robert](/setts/s24/b5w2b2w4k27w2g2w2g6w2g2w22r2w22g2w2g6w2g2w2k27w4b2w2~b2888c4-g289c18-k101010-r901c38-we0e0e0~x2/)|
+|![Wiseman, Robert example sett](/setts/s24/b5w2b2w4k27w2g2w2g6w2g2w22r2w22g2w2g6w2g2w2k27w4b2w2~b2888c4-g289c18-k101010-r901c38-we0e0e0~x2/sett.png)|

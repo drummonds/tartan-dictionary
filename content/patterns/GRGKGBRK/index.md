@@ -6,7 +6,7 @@ GRGKGBRK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g16r4g24k12g6b12r48k8-b00008c-g146400-k000000-rc82800/tartan.png)
+![Woven sample](/setts/s8/g8r2g12k6g3b6r24k4~b00008c-g146400-k000000-rc82800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGKGBRK
 
 | Tartans |
 |---------------|
-| [Dickie](/setts/s8/g16r4g24k12g6b12r48k8-b00008c-g146400-k000000-rc82800/)|
-|![Dickie example sett](/setts/s8/g16r4g24k12g6b12r48k8-b00008c-g146400-k000000-rc82800/sett.png)|
+| [Dickie](/setts/s8/g8r2g12k6g3b6r24k4~b00008c-g146400-k000000-rc82800~x2/)|
+|![Dickie example sett](/setts/s8/g8r2g12k6g3b6r24k4~b00008c-g146400-k000000-rc82800~x2/sett.png)|

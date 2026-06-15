@@ -16,5 +16,5 @@ BYBGGGGGGGBYBYBGRRRYRRRBYGYRGBYBYBGGGGGGGBYB
 
 | Tartans |
 |---------------|
-| [New Brunswick, or Beaverbrook](/setts/s44/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g36r32y2gb4y6b8r16ra18r6y4r18ra10r12g36b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2-b5480b0-g003000-ga30a010-gb808080-rc00000-ra703000-yf0c000/)|
-|![New Brunswick, or Beaverbrook example sett](/setts/s44/b2y2b2g2ga4g4ga4g4ga4g2b2y2b2y2b2g36r32y2gb4y6b8r16ra18r6y4r18ra10r12g36b2y2b2y2b2g2ga4g4ga4g4ga4g2b2y2b2-b5480b0-g003000-ga30a010-gb808080-rc00000-ra703000-yf0c000/sett.png)|
+| [New Brunswick, or Beaverbrook](/setts/s44/b1y1b1g1ga2g2ga2g2ga2g1b1y1b1y1b1g18r16y1gb2y3b4r8ra9r3y2r9ra5r6g18b1y1b1y1b1g1ga2g2ga2g2ga2g1b1y1b1~b5480b0-g003000-ga30a010-gb808080-rc00000-ra703000-yf0c000~x2/)|
+|![New Brunswick, or Beaverbrook example sett](/setts/s44/b1y1b1g1ga2g2ga2g2ga2g1b1y1b1y1b1g18r16y1gb2y3b4r8ra9r3y2r9ra5r6g18b1y1b1y1b1g1ga2g2ga2g2ga2g1b1y1b1~b5480b0-g003000-ga30a010-gb808080-rc00000-ra703000-yf0c000~x2/sett.png)|

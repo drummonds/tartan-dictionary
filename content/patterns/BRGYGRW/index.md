@@ -6,7 +6,7 @@ BRGYGRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b48r54g40y12g40r4w6-b5c8ca8-g408060-rc82828-we0e0e0-ye0a126/tartan.png)
+![Woven sample](/setts/s7/b24r27g20y6g20r2w3~b5c8ca8-g408060-rc82828-we0e0e0-ye0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGYGRW
 
 | Tartans |
 |---------------|
-| [Buchanhaven Heritage](/setts/s7/b48r54g40y12g40r4w6-b5c8ca8-g408060-rc82828-we0e0e0-ye0a126/)|
-|![Buchanhaven Heritage example sett](/setts/s7/b48r54g40y12g40r4w6-b5c8ca8-g408060-rc82828-we0e0e0-ye0a126/sett.png)|
+| [Buchanhaven Heritage](/setts/s7/b24r27g20y6g20r2w3~b5c8ca8-g408060-rc82828-we0e0e0-ye0a126~x2/)|
+|![Buchanhaven Heritage example sett](/setts/s7/b24r27g20y6g20r2w3~b5c8ca8-g408060-rc82828-we0e0e0-ye0a126~x2/sett.png)|

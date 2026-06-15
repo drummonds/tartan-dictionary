@@ -16,5 +16,5 @@ BRBRGBRBRBRY
 
 | Tartans |
 |---------------|
-| [Scobie (Name)](/setts/s12/b2r2b2r12g52b28r40ba2r2ba2r4y2-b780078-ba5c8ca8-g006818-rc80000-yf0b4b4/)|
-|![Scobie (Name) example sett](/setts/s12/b2r2b2r12g52b28r40ba2r2ba2r4y2-b780078-ba5c8ca8-g006818-rc80000-yf0b4b4/sett.png)|
+| [Scobie (Name)](/setts/s12/b1r1b1r6g26b14r20ba1r1ba1r2y1~b780078-ba5c8ca8-g006818-rc80000-yf0b4b4~x2/)|
+|![Scobie (Name) example sett](/setts/s12/b1r1b1r6g26b14r20ba1r1ba1r2y1~b780078-ba5c8ca8-g006818-rc80000-yf0b4b4~x2/sett.png)|

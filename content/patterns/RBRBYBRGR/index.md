@@ -16,5 +16,5 @@ RBRBYBRGR
 
 | Tartans |
 |---------------|
-| [Cameron of Locheil](/setts/s9/r12g6r12b2y2b2r4b16r8-b000052-g11450d-raa0000-yaaaaaa/)|
-|![Cameron of Locheil example sett](/setts/s9/r12g6r12b2y2b2r4b16r8-b000052-g11450d-raa0000-yaaaaaa/sett.png)|
+| [Cameron of Locheil](/setts/s9/r6g3r6b1y1b1r2b8r4~b000052-g11450d-raa0000-yaaaaaa~x2/)|
+|![Cameron of Locheil example sett](/setts/s9/r6g3r6b1y1b1r2b8r4~b000052-g11450d-raa0000-yaaaaaa~x2/sett.png)|

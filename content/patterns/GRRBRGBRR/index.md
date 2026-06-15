@@ -16,5 +16,5 @@ GRRBRGBRR
 
 | Tartans |
 |---------------|
-| [Diana Princess of Wales](/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/)|
-|![Diana Princess of Wales example sett](/setts/s9/g10r2ra8b4ra40g24b32ra8r2-b000048-g004028-rb43c50-ra780028/sett.png)|
+| [Diana Princess of Wales](/setts/s9/g5r1ra4b2ra20g12b16ra4r1~b000048-g004028-rb43c50-ra780028~x2/)|
+|![Diana Princess of Wales example sett](/setts/s9/g5r1ra4b2ra20g12b16ra4r1~b000048-g004028-rb43c50-ra780028~x2/sett.png)|

@@ -16,5 +16,5 @@ GKRBGBGBRK
 
 | Tartans |
 |---------------|
-| [Ferguson Britt](/setts/s10/k72r6b72g72b12g72b72r6k72g12-b441800-g644824-k00002c-r9c2828/)|
-|![Ferguson Britt example sett](/setts/s10/k72r6b72g72b12g72b72r6k72g12-b441800-g644824-k00002c-r9c2828/sett.png)|
+| [Ferguson Britt](/setts/s10/k12r1b12g12b2g12b12r1k12g2~b441800-g644824-k00002c-r9c2828~x6/)|
+|![Ferguson Britt example sett](/setts/s10/k12r1b12g12b2g12b12r1k12g2~b441800-g644824-k00002c-r9c2828~x6/sett.png)|

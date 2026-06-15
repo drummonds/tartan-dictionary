@@ -6,7 +6,7 @@ RYYKYW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6y54ya54k6ya6w6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/tartan.png)
+![Woven sample](/setts/s6/r1y9ya9k1ya1w1~k101010-rc80000-we0e0e0-y70a880-ya80a0b4~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYYKYW
 
 | Tartans |
 |---------------|
-| [Irving of Glentulchan (Personal)](/setts/s6/r6y54ya54k6ya6w6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/)|
-|![Irving of Glentulchan (Personal) example sett](/setts/s6/r6y54ya54k6ya6w6-k101010-rc80000-we0e0e0-y70a880-ya80a0b4/sett.png)|
+| [Irving of Glentulchan (Personal)](/setts/s6/r1y9ya9k1ya1w1~k101010-rc80000-we0e0e0-y70a880-ya80a0b4~x6/)|
+|![Irving of Glentulchan (Personal) example sett](/setts/s6/r1y9ya9k1ya1w1~k101010-rc80000-we0e0e0-y70a880-ya80a0b4~x6/sett.png)|

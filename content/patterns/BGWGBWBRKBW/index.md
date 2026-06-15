@@ -16,5 +16,5 @@ BGWGBWBRKBW
 
 | Tartans |
 |---------------|
-| [World Peace (Fashion)](/setts/s11/b16g16w6g16b16w6ba80r6k6ba80w6-b780078-ba1474b4-g006818-k101010-rc8002c-wfcfcfc/)|
-|![World Peace (Fashion) example sett](/setts/s11/b16g16w6g16b16w6ba80r6k6ba80w6-b780078-ba1474b4-g006818-k101010-rc8002c-wfcfcfc/sett.png)|
+| [World Peace (Fashion)](/setts/s11/b8g8w3g8b8w3ba40r3k3ba40w3~b780078-ba1474b4-g006818-k101010-rc8002c-wfcfcfc~x2/)|
+|![World Peace (Fashion) example sett](/setts/s11/b8g8w3g8b8w3ba40r3k3ba40w3~b780078-ba1474b4-g006818-k101010-rc8002c-wfcfcfc~x2/sett.png)|

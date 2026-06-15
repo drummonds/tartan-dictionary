@@ -16,7 +16,7 @@ KRKRWRWRWRWKRKW
 
 | Tartans |
 |---------------|
-| [Black and White](/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-wfcfcfc/)|
-|![Black and White example sett](/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-wfcfcfc/sett.png)|
-| [Black and White Corporate Tartan Tartan Number: 2042. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-we0e0e0/)|
-|![Black and White Corporate Tartan Tartan Number: 2042. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/k38r12k6r30w6r24w18r6w40r6w40k38ra8k10w6-k101010-r888888-rac80000-we0e0e0/sett.png)|
+| [Black and White](/setts/s15/k19r6k3r15w3r12w9r3w20r3w20k19ra4k5w3~k101010-r888888-rac80000-wfcfcfc~x2/)|
+|![Black and White example sett](/setts/s15/k19r6k3r15w3r12w9r3w20r3w20k19ra4k5w3~k101010-r888888-rac80000-wfcfcfc~x2/sett.png)|
+| [Black and White Corporate Tartan Tartan Number: 2042. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/k19r6k3r15w3r12w9r3w20r3w20k19ra4k5w3~k101010-r888888-rac80000-we0e0e0~x2/)|
+|![Black and White Corporate Tartan Tartan Number: 2042. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/k19r6k3r15w3r12w9r3w20r3w20k19ra4k5w3~k101010-r888888-rac80000-we0e0e0~x2/sett.png)|

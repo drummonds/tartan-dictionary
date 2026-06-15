@@ -16,7 +16,7 @@ BRBRBRBRBRBRBRGRGRBRK
 
 | Tartans |
 |---------------|
-| [Murray of Tullibardine #3](/setts/s21/b8r4b4r6b12r6b4r4b8r4b4r40b24r4g4r26g24r16b12r10k8-b5a008c-g005020-k101010-rdc0000/)|
-|![Murray of Tullibardine #3 example sett](/setts/s21/b8r4b4r6b12r6b4r4b8r4b4r40b24r4g4r26g24r16b12r10k8-b5a008c-g005020-k101010-rdc0000/sett.png)|
-| [Murray of Tullibardine 3](/setts/s21/b8r4b4r6b12r6b4r4b8r4b4r40b24r4g4r26g24r16b12r10k8-b800080-g008000-k000000-rc00000/)|
-|![Murray of Tullibardine 3 example sett](/setts/s21/b8r4b4r6b12r6b4r4b8r4b4r40b24r4g4r26g24r16b12r10k8-b800080-g008000-k000000-rc00000/sett.png)|
+| [Murray of Tullibardine #3](/setts/s21/b4r2b2r3b6r3b2r2b4r2b2r20b12r2g2r13g12r8b6r5k4~b5a008c-g005020-k101010-rdc0000~x2/)|
+|![Murray of Tullibardine #3 example sett](/setts/s21/b4r2b2r3b6r3b2r2b4r2b2r20b12r2g2r13g12r8b6r5k4~b5a008c-g005020-k101010-rdc0000~x2/sett.png)|
+| [Murray of Tullibardine 3](/setts/s21/b4r2b2r3b6r3b2r2b4r2b2r20b12r2g2r13g12r8b6r5k4~b800080-g008000-k000000-rc00000~x2/)|
+|![Murray of Tullibardine 3 example sett](/setts/s21/b4r2b2r3b6r3b2r2b4r2b2r20b12r2g2r13g12r8b6r5k4~b800080-g008000-k000000-rc00000~x2/sett.png)|

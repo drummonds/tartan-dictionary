@@ -16,7 +16,7 @@ BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG
 
 | Tartans |
 |---------------|
-| [Innes of Cowie (Clan?)](/setts/s31/b4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24g4-b1c0070-g006818-k101010-r880000-wfcfcfc/)|
-|![Innes of Cowie (Clan?) example sett](/setts/s31/b4k24r4k4r4k4r24w4r8g12r8k4g20k4r8w4r8k4g20k4r8g12r8w4r24k4r4k4r4k24g4-b1c0070-g006818-k101010-r880000-wfcfcfc/sett.png)|
-| [Innes, of Cowie](/setts/s31/b2k12r2k2r2k2r12w2r4g6r4k2g10k2r4w2r4k2g10k2r4g6r4w2r12k2r2k2r2k12g2-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![Innes, of Cowie example sett](/setts/s31/b2k12r2k2r2k2r12w2r4g6r4k2g10k2r4w2r4k2g10k2r4g6r4w2r12k2r2k2r2k12g2-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Innes of Cowie (Clan?)](/setts/s31/b1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~b1c0070-g006818-k101010-r880000-wfcfcfc~x4/)|
+|![Innes of Cowie (Clan?) example sett](/setts/s31/b1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~b1c0070-g006818-k101010-r880000-wfcfcfc~x4/sett.png)|
+| [Innes, of Cowie](/setts/s31/b1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![Innes, of Cowie example sett](/setts/s31/b1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

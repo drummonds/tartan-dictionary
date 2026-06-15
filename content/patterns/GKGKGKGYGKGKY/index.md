@@ -16,5 +16,5 @@ GKGKGKGYGKGKY
 
 | Tartans |
 |---------------|
-| [MacIsaac (Name?)](/setts/s13/g40k4g4k4g4k40ga40y8ga40k40g40k2y8-g7c7c7c-ga846838-k101010-ybc8c00/)|
-|![MacIsaac (Name?) example sett](/setts/s13/g40k4g4k4g4k40ga40y8ga40k40g40k2y8-g7c7c7c-ga846838-k101010-ybc8c00/sett.png)|
+| [MacIsaac (Name?)](/setts/s13/g20k2g2k2g2k20ga20y4ga20k20g20k1y4~g7c7c7c-ga846838-k101010-ybc8c00~x2/)|
+|![MacIsaac (Name?) example sett](/setts/s13/g20k2g2k2g2k20ga20y4ga20k20g20k1y4~g7c7c7c-ga846838-k101010-ybc8c00~x2/sett.png)|

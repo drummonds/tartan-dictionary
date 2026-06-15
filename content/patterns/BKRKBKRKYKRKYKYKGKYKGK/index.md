@@ -16,5 +16,5 @@ BKRKBKRKYKRKYKYKGKYKGK
 
 | Tartans |
 |---------------|
-| [Rosalyn](/setts/s22/b16k2r4k2b16k16r16k2y4k2r16k16ya50k2y16k2g4k2y16k2ga50k16-b3b4990-g008000-ga548b54-k101010-rcd0000-ycecc15-yaed9121/)|
-|![Rosalyn example sett](/setts/s22/b16k2r4k2b16k16r16k2y4k2r16k16ya50k2y16k2g4k2y16k2ga50k16-b3b4990-g008000-ga548b54-k101010-rcd0000-ycecc15-yaed9121/sett.png)|
+| [Rosalyn](/setts/s22/b8k1r2k1b8k8r8k1y2k1r8k8ya25k1y8k1g2k1y8k1ga25k8~b3b4990-g008000-ga548b54-k101010-rcd0000-ycecc15-yaed9121~x2/)|
+|![Rosalyn example sett](/setts/s22/b8k1r2k1b8k8r8k1y2k1r8k8ya25k1y8k1g2k1y8k1ga25k8~b3b4990-g008000-ga548b54-k101010-rcd0000-ycecc15-yaed9121~x2/sett.png)|

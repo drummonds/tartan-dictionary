@@ -16,5 +16,5 @@ GWKWGGKBW
 
 | Tartans |
 |---------------|
-| [Leach Htg #2 (Name)](/setts/s9/g64w2k6w2ga28g14k6b6w2-b6c0070-g5c6428-ga289c18-k101010-we0e0e0/)|
-|![Leach Htg #2 (Name) example sett](/setts/s9/g64w2k6w2ga28g14k6b6w2-b6c0070-g5c6428-ga289c18-k101010-we0e0e0/sett.png)|
+| [Leach Htg #2 (Name)](/setts/s9/g32w1k3w1ga14g7k3b3w1~b6c0070-g5c6428-ga289c18-k101010-we0e0e0~x2/)|
+|![Leach Htg #2 (Name) example sett](/setts/s9/g32w1k3w1ga14g7k3b3w1~b6c0070-g5c6428-ga289c18-k101010-we0e0e0~x2/sett.png)|

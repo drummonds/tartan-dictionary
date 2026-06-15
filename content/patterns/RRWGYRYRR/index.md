@@ -16,5 +16,5 @@ RRWGYRYRR
 
 | Tartans |
 |---------------|
-| [Henry, W.A.](/setts/s9/r48ra48w6g42y4ra2y4r12ra4-g008000-r806050-rac00000-we0e0e0-yf0c000/)|
-|![Henry, W.A. example sett](/setts/s9/r48ra48w6g42y4ra2y4r12ra4-g008000-r806050-rac00000-we0e0e0-yf0c000/sett.png)|
+| [Henry, W.A.](/setts/s9/r24ra24w3g21y2ra1y2r6ra2~g008000-r806050-rac00000-we0e0e0-yf0c000~x2/)|
+|![Henry, W.A. example sett](/setts/s9/r24ra24w3g21y2ra1y2r6ra2~g008000-r806050-rac00000-we0e0e0-yf0c000~x2/sett.png)|

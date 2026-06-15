@@ -16,7 +16,7 @@ BGKBWKGKGKGKGKBWGKBKBK
 
 | Tartans |
 |---------------|
-| [Alberta, Quebec, Nova Scotia.](/setts/s22/b8g20k4b4w28k4g4k4g4k4g4k4g4k4b50w16g8k8b6k2b6k2-b2c4084-g005020-k101010-we0e0e0/)|
-|![Alberta, Quebec, Nova Scotia. example sett](/setts/s22/b8g20k4b4w28k4g4k4g4k4g4k4g4k4b50w16g8k8b6k2b6k2-b2c4084-g005020-k101010-we0e0e0/sett.png)|
-| [Alberta, Quebec Nova Scotia](/setts/s22/b8g20k4b4w28k4g4k4g4k4g4k4g4k4b50w16g8k8b6k2b6k2-b304080-g008000-k000000-we0e0e0/)|
-|![Alberta, Quebec Nova Scotia example sett](/setts/s22/b8g20k4b4w28k4g4k4g4k4g4k4g4k4b50w16g8k8b6k2b6k2-b304080-g008000-k000000-we0e0e0/sett.png)|
+| [Alberta, Quebec, Nova Scotia.](/setts/s22/b4g10k2b2w14k2g2k2g2k2g2k2g2k2b25w8g4k4b3k1b3k1~b2c4084-g005020-k101010-we0e0e0~x2/)|
+|![Alberta, Quebec, Nova Scotia. example sett](/setts/s22/b4g10k2b2w14k2g2k2g2k2g2k2g2k2b25w8g4k4b3k1b3k1~b2c4084-g005020-k101010-we0e0e0~x2/sett.png)|
+| [Alberta, Quebec Nova Scotia](/setts/s22/b4g10k2b2w14k2g2k2g2k2g2k2g2k2b25w8g4k4b3k1b3k1~b304080-g008000-k000000-we0e0e0~x2/)|
+|![Alberta, Quebec Nova Scotia example sett](/setts/s22/b4g10k2b2w14k2g2k2g2k2g2k2g2k2b25w8g4k4b3k1b3k1~b304080-g008000-k000000-we0e0e0~x2/sett.png)|

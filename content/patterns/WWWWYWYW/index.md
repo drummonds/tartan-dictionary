@@ -6,7 +6,7 @@ WWWWYWYW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w16wa60w120wa30y4wa4y4wa10-wffffff-wae0e0e0-yd87c00/tartan.png)
+![Woven sample](/setts/s8/w8wa30w60wa15y2wa2y2wa5~wffffff-wae0e0e0-yd87c00~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WWWWYWYW
 
 | Tartans |
 |---------------|
-| [Amazon](/setts/s8/w16wa60w120wa30y4wa4y4wa10-wffffff-wae0e0e0-yd87c00/)|
-|![Amazon example sett](/setts/s8/w16wa60w120wa30y4wa4y4wa10-wffffff-wae0e0e0-yd87c00/sett.png)|
-| [Amazon](/setts/s8/w16wa60w120wa30y4wa4y4wa10-wfcfcfc-wac0c0c0-yd87c00/)|
-|![Amazon example sett](/setts/s8/w16wa60w120wa30y4wa4y4wa10-wfcfcfc-wac0c0c0-yd87c00/sett.png)|
+| [Amazon](/setts/s8/w8wa30w60wa15y2wa2y2wa5~wffffff-wae0e0e0-yd87c00~x2/)|
+|![Amazon example sett](/setts/s8/w8wa30w60wa15y2wa2y2wa5~wffffff-wae0e0e0-yd87c00~x2/sett.png)|
+| [Amazon](/setts/s8/w8wa30w60wa15y2wa2y2wa5~wfcfcfc-wac0c0c0-yd87c00~x2/)|
+|![Amazon example sett](/setts/s8/w8wa30w60wa15y2wa2y2wa5~wfcfcfc-wac0c0c0-yd87c00~x2/sett.png)|

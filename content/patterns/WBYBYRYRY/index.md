@@ -16,5 +16,5 @@ WBYBYRYRY
 
 | Tartans |
 |---------------|
-| [Canuck Place](/setts/s9/w2b4y30b6y52r48y6ra4ya2-b1c1c50-r9c8098-ra901c38-we0e0e0-y889c5c-yabc8c00/)|
-|![Canuck Place example sett](/setts/s9/w2b4y30b6y52r48y6ra4ya2-b1c1c50-r9c8098-ra901c38-we0e0e0-y889c5c-yabc8c00/sett.png)|
+| [Canuck Place](/setts/s9/w1b2y15b3y26r24y3ra2ya1~b1c1c50-r9c8098-ra901c38-we0e0e0-y889c5c-yabc8c00~x2/)|
+|![Canuck Place example sett](/setts/s9/w1b2y15b3y26r24y3ra2ya1~b1c1c50-r9c8098-ra901c38-we0e0e0-y889c5c-yabc8c00~x2/sett.png)|

@@ -16,5 +16,5 @@ WBWBWBRBWBWBW
 
 | Tartans |
 |---------------|
-| [Mearns Castle High School](/setts/s13/w60b8w8b8w8b52r52b8wa8b8w8b8wa8-b141e46-r960028-w98c8e8-waffffff/)|
-|![Mearns Castle High School example sett](/setts/s13/w60b8w8b8w8b52r52b8wa8b8w8b8wa8-b141e46-r960028-w98c8e8-waffffff/sett.png)|
+| [Mearns Castle High School](/setts/s13/w15b2w2b2w2b13r13b2wa2b2w2b2wa2~b141e46-r960028-w98c8e8-waffffff~x4/)|
+|![Mearns Castle High School example sett](/setts/s13/w15b2w2b2w2b13r13b2wa2b2w2b2wa2~b141e46-r960028-w98c8e8-waffffff~x4/sett.png)|

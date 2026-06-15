@@ -6,7 +6,7 @@ BYRYBK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k100b6y6r100y6b6-b003c64-k101010-r880000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/k50b3y3r50y3b3~b003c64-k101010-r880000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRYBK
 
 | Tartans |
 |---------------|
-| [Hungerford RFC](/setts/s6/k100b6y6r100y6b6-b003c64-k101010-r880000-ye8c000/)|
-|![Hungerford RFC example sett](/setts/s6/k100b6y6r100y6b6-b003c64-k101010-r880000-ye8c000/sett.png)|
+| [Hungerford RFC](/setts/s6/k50b3y3r50y3b3~b003c64-k101010-r880000-ye8c000~x2/)|
+|![Hungerford RFC example sett](/setts/s6/k50b3y3r50y3b3~b003c64-k101010-r880000-ye8c000~x2/sett.png)|

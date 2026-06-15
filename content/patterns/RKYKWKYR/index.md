@@ -6,7 +6,7 @@ RKYKWKYR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r100y16k4w4k4y16k44r6-k101010-rc80000-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r50y8k2w2k2y8k22r3~k101010-rc80000-wfcfcfc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKYKWKYR
 
 | Tartans |
 |---------------|
-| [FIRES Center of Excelence](/setts/s8/r100y16k4w4k4y16k44r6-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![FIRES Center of Excelence example sett](/setts/s8/r100y16k4w4k4y16k44r6-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [FIRES Center of Excelence](/setts/s8/r50y8k2w2k2y8k22r3~k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![FIRES Center of Excelence example sett](/setts/s8/r50y8k2w2k2y8k22r3~k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

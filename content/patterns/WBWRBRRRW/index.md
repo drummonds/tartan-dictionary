@@ -16,5 +16,5 @@ WBWRBRRRW
 
 | Tartans |
 |---------------|
-| [Wombles #5](/setts/s9/w8b16w2r2ba12r6ra12r2w8-b080848-ba2c4084-rfa4b00-radc0000-we0e0e0/)|
-|![Wombles #5 example sett](/setts/s9/w8b16w2r2ba12r6ra12r2w8-b080848-ba2c4084-rfa4b00-radc0000-we0e0e0/sett.png)|
+| [Wombles #5](/setts/s9/w4b8w1r1ba6r3ra6r1w4~b080848-ba2c4084-rfa4b00-radc0000-we0e0e0~x2/)|
+|![Wombles #5 example sett](/setts/s9/w4b8w1r1ba6r3ra6r1w4~b080848-ba2c4084-rfa4b00-radc0000-we0e0e0~x2/sett.png)|

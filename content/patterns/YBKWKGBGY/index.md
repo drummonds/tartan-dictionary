@@ -16,5 +16,5 @@ YBKWKGBGY
 
 | Tartans |
 |---------------|
-| [Clyde (WCWM Fashion)](/setts/s9/y4b56k4w4k4g52b6g10y4-b5c5c5c-g147880-k101010-wf8f8f8-yd87c00/)|
-|![Clyde (WCWM Fashion) example sett](/setts/s9/y4b56k4w4k4g52b6g10y4-b5c5c5c-g147880-k101010-wf8f8f8-yd87c00/sett.png)|
+| [Clyde (WCWM Fashion)](/setts/s9/y2b28k2w2k2g26b3g5y2~b5c5c5c-g147880-k101010-wf8f8f8-yd87c00~x2/)|
+|![Clyde (WCWM Fashion) example sett](/setts/s9/y2b28k2w2k2g26b3g5y2~b5c5c5c-g147880-k101010-wf8f8f8-yd87c00~x2/sett.png)|

@@ -16,5 +16,5 @@ RYBYBWBYRBRW
 
 | Tartans |
 |---------------|
-| [Stewart - Pr Ch Ed (Royal)](/setts/s12/r56y16b24ya4b8w8b8yb48r24b8r8w4-b1c1c1c-rc80000-we0e0e0-ya4c8ac-yae8c000-ybacb884/)|
-|![Stewart - Pr Ch Ed (Royal) example sett](/setts/s12/r56y16b24ya4b8w8b8yb48r24b8r8w4-b1c1c1c-rc80000-we0e0e0-ya4c8ac-yae8c000-ybacb884/sett.png)|
+| [Stewart - Pr Ch Ed (Royal)](/setts/s12/r14y4b6ya1b2w2b2yb12r6b2r2w1~b1c1c1c-rc80000-we0e0e0-ya4c8ac-yae8c000-ybacb884~x4/)|
+|![Stewart - Pr Ch Ed (Royal) example sett](/setts/s12/r14y4b6ya1b2w2b2yb12r6b2r2w1~b1c1c1c-rc80000-we0e0e0-ya4c8ac-yae8c000-ybacb884~x4/sett.png)|

@@ -16,5 +16,5 @@ BWBWBBGWRBBBW
 
 | Tartans |
 |---------------|
-| [Spirit of India](/setts/s13/b64w4ba2w4b8ba2g16w16r16ba2b32ba2w8-b3399ff-ba071239-g3a6629-rff5721-wffffff/)|
-|![Spirit of India example sett](/setts/s13/b64w4ba2w4b8ba2g16w16r16ba2b32ba2w8-b3399ff-ba071239-g3a6629-rff5721-wffffff/sett.png)|
+| [Spirit of India](/setts/s13/b32w2ba1w2b4ba1g8w8r8ba1b16ba1w4~b3399ff-ba071239-g3a6629-rff5721-wffffff~x2/)|
+|![Spirit of India example sett](/setts/s13/b32w2ba1w2b4ba1g8w8r8ba1b16ba1w4~b3399ff-ba071239-g3a6629-rff5721-wffffff~x2/sett.png)|

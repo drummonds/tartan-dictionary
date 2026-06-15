@@ -6,7 +6,7 @@ WKRBKGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w4k4r2b40k30g60y2-b003c64-g003820-k101010-rc80000-we0e0e0-yfccc00/tartan.png)
+![Woven sample](/setts/s7/w2k2r1b20k15g30y1~b003c64-g003820-k101010-rc80000-we0e0e0-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKRBKGY
 
 | Tartans |
 |---------------|
-| [Muir-Hill (Personal)](/setts/s7/w4k4r2b40k30g60y2-b003c64-g003820-k101010-rc80000-we0e0e0-yfccc00/)|
-|![Muir-Hill (Personal) example sett](/setts/s7/w4k4r2b40k30g60y2-b003c64-g003820-k101010-rc80000-we0e0e0-yfccc00/sett.png)|
+| [Muir-Hill (Personal)](/setts/s7/w2k2r1b20k15g30y1~b003c64-g003820-k101010-rc80000-we0e0e0-yfccc00~x2/)|
+|![Muir-Hill (Personal) example sett](/setts/s7/w2k2r1b20k15g30y1~b003c64-g003820-k101010-rc80000-we0e0e0-yfccc00~x2/sett.png)|

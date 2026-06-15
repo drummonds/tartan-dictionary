@@ -16,5 +16,5 @@ GKYKYKGRG
 
 | Tartans |
 |---------------|
-| [Cork, County (District)](/setts/s9/g56r24g8k40y4k6y4k6g14-g003820-k1c0034-r880000-ybc8c00/)|
-|![Cork, County (District) example sett](/setts/s9/g56r24g8k40y4k6y4k6g14-g003820-k1c0034-r880000-ybc8c00/sett.png)|
+| [Cork, County (District)](/setts/s9/g28r12g4k20y2k3y2k3g7~g003820-k1c0034-r880000-ybc8c00~x2/)|
+|![Cork, County (District) example sett](/setts/s9/g28r12g4k20y2k3y2k3g7~g003820-k1c0034-r880000-ybc8c00~x2/sett.png)|

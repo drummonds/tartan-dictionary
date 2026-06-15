@@ -16,7 +16,7 @@ BBRBBBBBBBBRBYBRBB
 
 | Tartans |
 |---------------|
-| [Cordiner (Boddam)](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20/)|
-|![Cordiner (Boddam) example sett](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20/sett.png)|
-| [Cordiner (Name)](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b2c2c80-ba5c5c5c-rc80000-rab468ac-yfccc00/)|
-|![Cordiner (Name) example sett](/setts/s18/b84ba26r6ba4y6ba4r6ba22b16ba16b52ba16b16ba16b8ra6b8ba32-b2c2c80-ba5c5c5c-rc80000-rab468ac-yfccc00/sett.png)|
+| [Cordiner (Boddam)](/setts/s18/b42ba13r3ba2y3ba2r3ba11b8ba8b26ba8b8ba8b4ra3b4ba16~b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20~x2/)|
+|![Cordiner (Boddam) example sett](/setts/s18/b42ba13r3ba2y3ba2r3ba11b8ba8b26ba8b8ba8b4ra3b4ba16~b172d60-ba3f4441-rdd1212-raf6799f-yd3cc20~x2/sett.png)|
+| [Cordiner (Name)](/setts/s18/b42ba13r3ba2y3ba2r3ba11b8ba8b26ba8b8ba8b4ra3b4ba16~b2c2c80-ba5c5c5c-rc80000-rab468ac-yfccc00~x2/)|
+|![Cordiner (Name) example sett](/setts/s18/b42ba13r3ba2y3ba2r3ba11b8ba8b26ba8b8ba8b4ra3b4ba16~b2c2c80-ba5c5c5c-rc80000-rab468ac-yfccc00~x2/sett.png)|

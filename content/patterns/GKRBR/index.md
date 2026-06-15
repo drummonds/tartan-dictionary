@@ -6,7 +6,7 @@ GKRBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g24k4r4b8r8-b5480b0-g008000-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s5/g6k1r1b2r2~b5480b0-g008000-k000000-rc00000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRBR
 
 | Tartans |
 |---------------|
-| [Wilson's, No 193](/setts/s5/g24k4r4b8r8-b5480b0-g008000-k000000-rc00000/)|
-|![Wilson's, No 193 example sett](/setts/s5/g24k4r4b8r8-b5480b0-g008000-k000000-rc00000/sett.png)|
+| [Wilson's, No 193](/setts/s5/g6k1r1b2r2~b5480b0-g008000-k000000-rc00000~x4/)|
+|![Wilson's, No 193 example sett](/setts/s5/g6k1r1b2r2~b5480b0-g008000-k000000-rc00000~x4/sett.png)|

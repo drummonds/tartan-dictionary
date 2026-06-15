@@ -16,5 +16,5 @@ RRRRRRRYGRGGGYY
 
 | Tartans |
 |---------------|
-| [Dixon, Clyde (Personal)](/setts/s15/y4ya2g4ga16g16r18g6ya4ra2r2ra2r2ra2r2ra2-g006818-ga003820-ra07c58-rac80000-y48a4c0-yae8c000/)|
-|![Dixon, Clyde (Personal) example sett](/setts/s15/y4ya2g4ga16g16r18g6ya4ra2r2ra2r2ra2r2ra2-g006818-ga003820-ra07c58-rac80000-y48a4c0-yae8c000/sett.png)|
+| [Dixon, Clyde (Personal)](/setts/s15/y2ya1g2ga8g8r9g3ya2ra1r1ra1r1ra1r1ra1~g006818-ga003820-ra07c58-rac80000-y48a4c0-yae8c000~x2/)|
+|![Dixon, Clyde (Personal) example sett](/setts/s15/y2ya1g2ga8g8r9g3ya2ra1r1ra1r1ra1r1ra1~g006818-ga003820-ra07c58-rac80000-y48a4c0-yae8c000~x2/sett.png)|

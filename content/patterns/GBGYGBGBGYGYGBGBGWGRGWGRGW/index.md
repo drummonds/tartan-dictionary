@@ -16,5 +16,5 @@ GBGYGBGBGYGYGBGBGWGRGWGRGW
 
 | Tartans |
 |---------------|
-| [Sprouston](/setts/s26/g6b24ga12y6ga12b24g6b24ga12y6ga12y6ga12b24g12b24g6w2g6r6g6w2g6r6g6w2-b1474b4-g604000-ga289c18-rc80000-wfcfcfc-ye8c000/)|
-|![Sprouston example sett](/setts/s26/g6b24ga12y6ga12b24g6b24ga12y6ga12y6ga12b24g12b24g6w2g6r6g6w2g6r6g6w2-b1474b4-g604000-ga289c18-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Sprouston](/setts/s26/g3b12ga6y3ga6b12g3b12ga6y3ga6y3ga6b12g6b12g3w1g3r3g3w1g3r3g3w1~b1474b4-g604000-ga289c18-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Sprouston example sett](/setts/s26/g3b12ga6y3ga6b12g3b12ga6y3ga6y3ga6b12g6b12g3w1g3r3g3w1g3r3g3w1~b1474b4-g604000-ga289c18-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

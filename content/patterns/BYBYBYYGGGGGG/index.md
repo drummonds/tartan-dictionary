@@ -16,5 +16,5 @@ BYBYBYYGGGGGG
 
 | Tartans |
 |---------------|
-| [Macallan (1980s) (Corporate)](/setts/s13/b32y6b8y12b48y6y48g4ga48g12ga8g6ga32-b1474b4-g006818-ga289c18-yd09800/)|
-|![Macallan (1980s) (Corporate) example sett](/setts/s13/b32y6b8y12b48y6y48g4ga48g12ga8g6ga32-b1474b4-g006818-ga289c18-yd09800/sett.png)|
+| [Macallan (1980s) (Corporate)](/setts/s13/b16y3b4y6b24y3y24g2ga24g6ga4g3ga16~b1474b4-g006818-ga289c18-yd09800~x2/)|
+|![Macallan (1980s) (Corporate) example sett](/setts/s13/b16y3b4y6b24y3y24g2ga24g6ga4g3ga16~b1474b4-g006818-ga289c18-yd09800~x2/sett.png)|

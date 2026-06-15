@@ -16,5 +16,5 @@ GGKRKRKGKG
 
 | Tartans |
 |---------------|
-| [Forde](/setts/s10/g64ga4k8r4k4r4k8ga4k4g4-g008000-ga908000-k000000-rc00000/)|
-|![Forde example sett](/setts/s10/g64ga4k8r4k4r4k8ga4k4g4-g008000-ga908000-k000000-rc00000/sett.png)|
+| [Forde](/setts/s10/g16ga1k2r1k1r1k2ga1k1g1~g008000-ga908000-k000000-rc00000~x4/)|
+|![Forde example sett](/setts/s10/g16ga1k2r1k1r1k2ga1k1g1~g008000-ga908000-k000000-rc00000~x4/sett.png)|

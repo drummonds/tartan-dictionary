@@ -16,5 +16,5 @@ BWGWBWRWRWRWRWRWRWB
 
 | Tartans |
 |---------------|
-| [Shaw Dress (Personal)](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/)|
-|![Shaw Dress (Personal) example sett](/setts/s19/b6w12r2w4r2w4r2w4r2w4r2w4r2w64ba8w20g16w28ba6-b5c8ca8-ba780078-g006818-rc80000-wf8f8f8/sett.png)|
+| [Shaw Dress (Personal)](/setts/s19/b3w6r1w2r1w2r1w2r1w2r1w2r1w32ba4w10g8w14ba3~b5c8ca8-ba780078-g006818-rc80000-wf8f8f8~x2/)|
+|![Shaw Dress (Personal) example sett](/setts/s19/b3w6r1w2r1w2r1w2r1w2r1w2r1w32ba4w10g8w14ba3~b5c8ca8-ba780078-g006818-rc80000-wf8f8f8~x2/sett.png)|

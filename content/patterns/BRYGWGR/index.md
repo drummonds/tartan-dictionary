@@ -6,7 +6,7 @@ BRYGWGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6r48y6g24w6g24ra6-b2888c4-g006818-r880000-rac80000-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b1r8y1g4w1g4ra1~b2888c4-g006818-r880000-rac80000-wfcfcfc-ye8c000~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYGWGR
 
 | Tartans |
 |---------------|
-| [George Watson's College](/setts/s7/b6r48y6g24w6g24ra6-b2888c4-g006818-r880000-rac80000-wfcfcfc-ye8c000/)|
-|![George Watson's College example sett](/setts/s7/b6r48y6g24w6g24ra6-b2888c4-g006818-r880000-rac80000-wfcfcfc-ye8c000/sett.png)|
+| [George Watson's College](/setts/s7/b1r8y1g4w1g4ra1~b2888c4-g006818-r880000-rac80000-wfcfcfc-ye8c000~x6/)|
+|![George Watson's College example sett](/setts/s7/b1r8y1g4w1g4ra1~b2888c4-g006818-r880000-rac80000-wfcfcfc-ye8c000~x6/sett.png)|

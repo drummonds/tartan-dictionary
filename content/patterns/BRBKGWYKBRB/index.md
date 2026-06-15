@@ -16,5 +16,5 @@ BRBKGWYKBRB
 
 | Tartans |
 |---------------|
-| [Sandhu (Name)](/setts/s11/b12r4b64k64g7w7y7k64b64r4b12-b506878-g006818-k101010-rc80000-we0e0e0-yd87c00/)|
-|![Sandhu (Name) example sett](/setts/s11/b12r4b64k64g7w7y7k64b64r4b12-b506878-g006818-k101010-rc80000-we0e0e0-yd87c00/sett.png)|
+| [Sandhu (Name)](/setts/s11/b12r4b64k64g7w7y7k64b64r4b12~b506878-g006818-k101010-rc80000-we0e0e0-yd87c00/)|
+|![Sandhu (Name) example sett](/setts/s11/b12r4b64k64g7w7y7k64b64r4b12~b506878-g006818-k101010-rc80000-we0e0e0-yd87c00/sett.png)|

@@ -16,5 +16,5 @@ BYGRWRGYBW
 
 | Tartans |
 |---------------|
-| [International Pairs (Corporate)](/setts/s10/b68y12g12r4w4r4g20y16b46w4-b2c2c80-g007460-rc80000-we0e0e0-ybc8c00/)|
-|![International Pairs (Corporate) example sett](/setts/s10/b68y12g12r4w4r4g20y16b46w4-b2c2c80-g007460-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [International Pairs (Corporate)](/setts/s10/b34y6g6r2w2r2g10y8b23w2~b2c2c80-g007460-rc80000-we0e0e0-ybc8c00~x2/)|
+|![International Pairs (Corporate) example sett](/setts/s10/b34y6g6r2w2r2g10y8b23w2~b2c2c80-g007460-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

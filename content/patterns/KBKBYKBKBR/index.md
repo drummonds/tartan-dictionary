@@ -16,5 +16,5 @@ KBKBYKBKBR
 
 | Tartans |
 |---------------|
-| [MacArthur Fox Green (Personal)](/setts/s10/r8b8k4b62k20y6b10k22b12k6-b003c64-k101010-rc80000-ye8c000/)|
-|![MacArthur Fox Green (Personal) example sett](/setts/s10/r8b8k4b62k20y6b10k22b12k6-b003c64-k101010-rc80000-ye8c000/sett.png)|
+| [MacArthur Fox Green (Personal)](/setts/s10/r4b4k2b31k10y3b5k11b6k3~b003c64-k101010-rc80000-ye8c000~x2/)|
+|![MacArthur Fox Green (Personal) example sett](/setts/s10/r4b4k2b31k10y3b5k11b6k3~b003c64-k101010-rc80000-ye8c000~x2/sett.png)|

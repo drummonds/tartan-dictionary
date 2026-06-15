@@ -6,7 +6,7 @@ RBBWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4w2b60ba2ra4-b2a074b-ba530014-ra46216-raae566c-wffffff/tartan.png)
+![Woven sample](/setts/s5/r2w1b30ba1ra2~b2a074b-ba530014-ra46216-raae566c-wffffff~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ RBBWR
 
 | Tartans |
 |---------------|
-| [Wedding](/setts/s5/r4w2b60ba2ra4-b2a074b-ba530014-ra46216-raae566c-wffffff/)|
-|![Wedding example sett](/setts/s5/r4w2b60ba2ra4-b2a074b-ba530014-ra46216-raae566c-wffffff/sett.png)|
-| [Lands of Liberty](/setts/s5/r40w20b120ba80r12-b2c4084-ba0596fa-rc80000-wffffff/)|
-|![Lands of Liberty example sett](/setts/s5/r40w20b120ba80r12-b2c4084-ba0596fa-rc80000-wffffff/sett.png)|
-| [Lands of Liberty (Fashion)](/setts/s5/r30w20b96ba64r12-b202060-ba2888c4-rc80000-wfcfcfc/)|
-|![Lands of Liberty (Fashion) example sett](/setts/s5/r30w20b96ba64r12-b202060-ba2888c4-rc80000-wfcfcfc/sett.png)|
+| [Wedding](/setts/s5/r2w1b30ba1ra2~b2a074b-ba530014-ra46216-raae566c-wffffff~x2/)|
+|![Wedding example sett](/setts/s5/r2w1b30ba1ra2~b2a074b-ba530014-ra46216-raae566c-wffffff~x2/sett.png)|
+| [Lands of Liberty](/setts/s5/r10w5b30ba20r3~b2c4084-ba0596fa-rc80000-wffffff~x4/)|
+|![Lands of Liberty example sett](/setts/s5/r10w5b30ba20r3~b2c4084-ba0596fa-rc80000-wffffff~x4/sett.png)|
+| [Lands of Liberty (Fashion)](/setts/s5/r15w10b48ba32r6~b202060-ba2888c4-rc80000-wfcfcfc~x2/)|
+|![Lands of Liberty (Fashion) example sett](/setts/s5/r15w10b48ba32r6~b202060-ba2888c4-rc80000-wfcfcfc~x2/sett.png)|

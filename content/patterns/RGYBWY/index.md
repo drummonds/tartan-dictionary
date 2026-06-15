@@ -6,7 +6,7 @@ RGYBWY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r62g38y54b2w2ya2-b3850c8-g006818-rc80000-we0e0e0-y48a4c0-yadc943c/tartan.png)
+![Woven sample](/setts/s6/r31g19y27b1w1ya1~b3850c8-g006818-rc80000-we0e0e0-y48a4c0-yadc943c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGYBWY
 
 | Tartans |
 |---------------|
-| [Glencross, (Solway) (Personal)](/setts/s6/r62g38y54b2w2ya2-b3850c8-g006818-rc80000-we0e0e0-y48a4c0-yadc943c/)|
-|![Glencross, (Solway) (Personal) example sett](/setts/s6/r62g38y54b2w2ya2-b3850c8-g006818-rc80000-we0e0e0-y48a4c0-yadc943c/sett.png)|
+| [Glencross, (Solway) (Personal)](/setts/s6/r31g19y27b1w1ya1~b3850c8-g006818-rc80000-we0e0e0-y48a4c0-yadc943c~x2/)|
+|![Glencross, (Solway) (Personal) example sett](/setts/s6/r31g19y27b1w1ya1~b3850c8-g006818-rc80000-we0e0e0-y48a4c0-yadc943c~x2/sett.png)|

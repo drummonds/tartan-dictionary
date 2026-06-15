@@ -6,7 +6,7 @@ RKYKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/y14k8y8k78r8-k101010-rdc0000-ye8c000/tartan.png)
+![Woven sample](/setts/s5/y7k4y4k39r4~k101010-rdc0000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,11 +18,11 @@ RKYKY
 
 | Tartans |
 |---------------|
-| [Welsh National #3](/setts/s5/y14k8y8k78r8-k101010-rdc0000-ye8c000/)|
-|![Welsh National #3 example sett](/setts/s5/y14k8y8k78r8-k101010-rdc0000-ye8c000/sett.png)|
-| [Burberry Black](/setts/s5/y18k18y18k60r6-k000000-rc80000-yb0b0b0/)|
-|![Burberry Black example sett](/setts/s5/y18k18y18k60r6-k000000-rc80000-yb0b0b0/sett.png)|
-| [Burberry Blue](/setts/s5/y18k18y18k60r6-k000034-r8c0000-yb0b0b0/)|
-|![Burberry Blue example sett](/setts/s5/y18k18y18k60r6-k000034-r8c0000-yb0b0b0/sett.png)|
-| [Gwynn (Name)](/setts/s5/y18k8y8k90r8-k101010-rc80000-ye8c000/)|
-|![Gwynn (Name) example sett](/setts/s5/y18k8y8k90r8-k101010-rc80000-ye8c000/sett.png)|
+| [Welsh National #3](/setts/s5/y7k4y4k39r4~k101010-rdc0000-ye8c000~x2/)|
+|![Welsh National #3 example sett](/setts/s5/y7k4y4k39r4~k101010-rdc0000-ye8c000~x2/sett.png)|
+| [Burberry Black](/setts/s5/y3k3y3k10r1~k000000-rc80000-yb0b0b0~x6/)|
+|![Burberry Black example sett](/setts/s5/y3k3y3k10r1~k000000-rc80000-yb0b0b0~x6/sett.png)|
+| [Burberry Blue](/setts/s5/y3k3y3k10r1~k000034-r8c0000-yb0b0b0~x6/)|
+|![Burberry Blue example sett](/setts/s5/y3k3y3k10r1~k000034-r8c0000-yb0b0b0~x6/sett.png)|
+| [Gwynn (Name)](/setts/s5/y9k4y4k45r4~k101010-rc80000-ye8c000~x2/)|
+|![Gwynn (Name) example sett](/setts/s5/y9k4y4k45r4~k101010-rc80000-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ YGKRGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y4g4r32k32g40ya4-g2a2303-k101010-r960000-y96963c-yae8c000/tartan.png)
+![Woven sample](/setts/s6/y1g1r8k8g10ya1~g2a2303-k101010-r960000-y96963c-yae8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YGKRGY
 
 | Tartans |
 |---------------|
-| [Unidentified #66](/setts/s6/y4g4r32k32g40ya4-g2a2303-k101010-r960000-y96963c-yae8c000/)|
-|![Unidentified #66 example sett](/setts/s6/y4g4r32k32g40ya4-g2a2303-k101010-r960000-y96963c-yae8c000/sett.png)|
+| [Unidentified #66](/setts/s6/y1g1r8k8g10ya1~g2a2303-k101010-r960000-y96963c-yae8c000~x4/)|
+|![Unidentified #66 example sett](/setts/s6/y1g1r8k8g10ya1~g2a2303-k101010-r960000-y96963c-yae8c000~x4/sett.png)|

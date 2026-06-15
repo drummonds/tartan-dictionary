@@ -16,5 +16,5 @@ BRBKGKBRY
 
 | Tartans |
 |---------------|
-| [MacAllum of Berwick (Clan?)](/setts/s9/b20r14b62k50g46k16b14r16y10-b202060-g003820-k101010-rc80000-yd8b000/)|
-|![MacAllum of Berwick (Clan?) example sett](/setts/s9/b20r14b62k50g46k16b14r16y10-b202060-g003820-k101010-rc80000-yd8b000/sett.png)|
+| [MacAllum of Berwick (Clan?)](/setts/s9/b10r7b31k25g23k8b7r8y5~b202060-g003820-k101010-rc80000-yd8b000~x2/)|
+|![MacAllum of Berwick (Clan?) example sett](/setts/s9/b10r7b31k25g23k8b7r8y5~b202060-g003820-k101010-rc80000-yd8b000~x2/sett.png)|

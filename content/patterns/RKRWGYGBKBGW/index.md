@@ -16,5 +16,5 @@ RKRWGYGBKBGW
 
 | Tartans |
 |---------------|
-| [Strathclyde Fire Services (Corporate](/setts/s12/r74k6r14w6g6y6g4b20k12b6g6w8-b1c0070-g003820-k101010-rc80000-we0e0e0-yfccc00/)|
-|![Strathclyde Fire Services (Corporate example sett](/setts/s12/r74k6r14w6g6y6g4b20k12b6g6w8-b1c0070-g003820-k101010-rc80000-we0e0e0-yfccc00/sett.png)|
+| [Strathclyde Fire Services (Corporate](/setts/s12/r37k3r7w3g3y3g2b10k6b3g3w4~b1c0070-g003820-k101010-rc80000-we0e0e0-yfccc00~x2/)|
+|![Strathclyde Fire Services (Corporate example sett](/setts/s12/r37k3r7w3g3y3g2b10k6b3g3w4~b1c0070-g003820-k101010-rc80000-we0e0e0-yfccc00~x2/sett.png)|

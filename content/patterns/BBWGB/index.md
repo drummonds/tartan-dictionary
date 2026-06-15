@@ -6,7 +6,7 @@ BBWGB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b36ba24w4g16b8-b5a008c-ba2c4084-g003c14-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b9ba6w1g4b2~b5a008c-ba2c4084-g003c14-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBWGB
 
 | Tartans |
 |---------------|
-| [Cathro](/setts/s5/b36ba24w4g16b8-b5a008c-ba2c4084-g003c14-we0e0e0/)|
-|![Cathro example sett](/setts/s5/b36ba24w4g16b8-b5a008c-ba2c4084-g003c14-we0e0e0/sett.png)|
-| [Cathro (Name)](/setts/s5/b72ba48w8g32b16-b9050d8-ba1474b4-g006818-we0e0e0/)|
-|![Cathro (Name) example sett](/setts/s5/b72ba48w8g32b16-b9050d8-ba1474b4-g006818-we0e0e0/sett.png)|
+| [Cathro](/setts/s5/b9ba6w1g4b2~b5a008c-ba2c4084-g003c14-we0e0e0~x4/)|
+|![Cathro example sett](/setts/s5/b9ba6w1g4b2~b5a008c-ba2c4084-g003c14-we0e0e0~x4/sett.png)|
+| [Cathro (Name)](/setts/s5/b9ba6w1g4b2~b9050d8-ba1474b4-g006818-we0e0e0~x8/)|
+|![Cathro (Name) example sett](/setts/s5/b9ba6w1g4b2~b9050d8-ba1474b4-g006818-we0e0e0~x8/sett.png)|

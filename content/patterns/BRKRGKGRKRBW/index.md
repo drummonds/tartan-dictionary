@@ -16,5 +16,5 @@ BRKRGKGRKRBW
 
 | Tartans |
 |---------------|
-| [Souza Nery (Personal)](/setts/s12/b74r6k34r6g44ka8g44r6k34r6b74w6-b2c2c80-g006818-k101010-ka000000-rc8002c-we0e0e0/)|
-|![Souza Nery (Personal) example sett](/setts/s12/b74r6k34r6g44ka8g44r6k34r6b74w6-b2c2c80-g006818-k101010-ka000000-rc8002c-we0e0e0/sett.png)|
+| [Souza Nery (Personal)](/setts/s12/b37r3k17r3g22ka4g22r3k17r3b37w3~b2c2c80-g006818-k101010-ka000000-rc8002c-we0e0e0~x2/)|
+|![Souza Nery (Personal) example sett](/setts/s12/b37r3k17r3g22ka4g22r3k17r3b37w3~b2c2c80-g006818-k101010-ka000000-rc8002c-we0e0e0~x2/sett.png)|

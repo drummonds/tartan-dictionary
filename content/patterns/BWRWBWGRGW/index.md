@@ -16,5 +16,5 @@ BWRWBWGRGW
 
 | Tartans |
 |---------------|
-| [Liama, The](/setts/s10/b4w40r4w4b6w6g6r16g52w4-b441800-g8c7038-rc80000-we8ccb8/)|
-|![Liama, The example sett](/setts/s10/b4w40r4w4b6w6g6r16g52w4-b441800-g8c7038-rc80000-we8ccb8/sett.png)|
+| [Liama, The](/setts/s10/b2w20r2w2b3w3g3r8g26w2~b441800-g8c7038-rc80000-we8ccb8~x2/)|
+|![Liama, The example sett](/setts/s10/b2w20r2w2b3w3g3r8g26w2~b441800-g8c7038-rc80000-we8ccb8~x2/sett.png)|

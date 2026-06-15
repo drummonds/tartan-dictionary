@@ -16,7 +16,7 @@ RBRGRBRGRGRBR
 
 | Tartans |
 |---------------|
-| [London Caledonian](/setts/s13/r16b4r28g4r4b12r4ga4r4ga22r4ba4r12-b440044-ba202060-g789484-ga003820-rc80000/)|
-|![London Caledonian example sett](/setts/s13/r16b4r28g4r4b12r4ga4r4ga22r4ba4r12-b440044-ba202060-g789484-ga003820-rc80000/sett.png)|
-| [London Caledonian Games Association](/setts/s13/r18b4r42g4r4b16r4ga4r4ga34r4b4r16-b780078-g789484-ga006818-rc80000/)|
-|![London Caledonian Games Association example sett](/setts/s13/r18b4r42g4r4b16r4ga4r4ga34r4b4r16-b780078-g789484-ga006818-rc80000/sett.png)|
+| [London Caledonian](/setts/s13/r8b2r14g2r2b6r2ga2r2ga11r2ba2r6~b440044-ba202060-g789484-ga003820-rc80000~x2/)|
+|![London Caledonian example sett](/setts/s13/r8b2r14g2r2b6r2ga2r2ga11r2ba2r6~b440044-ba202060-g789484-ga003820-rc80000~x2/sett.png)|
+| [London Caledonian Games Association](/setts/s13/r9b2r21g2r2b8r2ga2r2ga17r2b2r8~b780078-g789484-ga006818-rc80000~x2/)|
+|![London Caledonian Games Association example sett](/setts/s13/r9b2r21g2r2b8r2ga2r2ga17r2b2r8~b780078-g789484-ga006818-rc80000~x2/sett.png)|

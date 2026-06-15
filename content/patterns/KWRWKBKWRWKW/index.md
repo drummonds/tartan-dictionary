@@ -16,5 +16,5 @@ KWRWKBKWRWKW
 
 | Tartans |
 |---------------|
-| [Ferguson Dress Blue (Dance)](/setts/s12/w6k4w36r6w36k46b70k46w36r6w36k4-b2888c4-k000000-r880000-wfcfcfc/)|
-|![Ferguson Dress Blue (Dance) example sett](/setts/s12/w6k4w36r6w36k46b70k46w36r6w36k4-b2888c4-k000000-r880000-wfcfcfc/sett.png)|
+| [Ferguson Dress Blue (Dance)](/setts/s12/w3k2w18r3w18k23b35k23w18r3w18k2~b2888c4-k000000-r880000-wfcfcfc~x2/)|
+|![Ferguson Dress Blue (Dance) example sett](/setts/s12/w3k2w18r3w18k23b35k23w18r3w18k2~b2888c4-k000000-r880000-wfcfcfc~x2/sett.png)|

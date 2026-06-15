@@ -16,5 +16,5 @@ BRBGBKWKBGBR
 
 | Tartans |
 |---------------|
-| [Grainger](/setts/s12/b72r8b12g36b30k36w8k36b30g36b12r8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Grainger example sett](/setts/s12/b72r8b12g36b30k36w8k36b30g36b12r8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Grainger](/setts/s12/b36r4b6g18b15k18w4k18b15g18b6r4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Grainger example sett](/setts/s12/b36r4b6g18b15k18w4k18b15g18b6r4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

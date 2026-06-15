@@ -16,5 +16,5 @@ RKRKYKYKY
 
 | Tartans |
 |---------------|
-| [Aubigny](/setts/s9/y40k4y6k4y8k18r36k4r10-k000000-rb00000-yc89800/)|
-|![Aubigny example sett](/setts/s9/y40k4y6k4y8k18r36k4r10-k000000-rb00000-yc89800/sett.png)|
+| [Aubigny](/setts/s9/y20k2y3k2y4k9r18k2r5~k000000-rb00000-yc89800~x2/)|
+|![Aubigny example sett](/setts/s9/y20k2y3k2y4k9r18k2r5~k000000-rb00000-yc89800~x2/sett.png)|

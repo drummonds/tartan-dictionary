@@ -6,7 +6,7 @@ RWYGWKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r72w6y8g48w48k6y12-g006818-k101010-r880000-wf8f8f8-yd09800/tartan.png)
+![Woven sample](/setts/s7/r36w3y4g24w24k3y6~g006818-k101010-r880000-wf8f8f8-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWYGWKY
 
 | Tartans |
 |---------------|
-| [MacLachlan Dress](/setts/s7/r72w6y8g48w48k6y12-g006818-k101010-r880000-wf8f8f8-yd09800/)|
-|![MacLachlan Dress example sett](/setts/s7/r72w6y8g48w48k6y12-g006818-k101010-r880000-wf8f8f8-yd09800/sett.png)|
+| [MacLachlan Dress](/setts/s7/r36w3y4g24w24k3y6~g006818-k101010-r880000-wf8f8f8-yd09800~x2/)|
+|![MacLachlan Dress example sett](/setts/s7/r36w3y4g24w24k3y6~g006818-k101010-r880000-wf8f8f8-yd09800~x2/sett.png)|

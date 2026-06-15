@@ -6,7 +6,7 @@ BRWRYB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b160r16w2r16y40b30-b2c2c80-rc80000-wffffff-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b80r8w1r8y20b15~b2c2c80-rc80000-wffffff-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRWRYB
 
 | Tartans |
 |---------------|
-| [Auchtermuchty Tartan Army](/setts/s6/b160r16w2r16y40b30-b2c2c80-rc80000-wffffff-ye8c000/)|
-|![Auchtermuchty Tartan Army example sett](/setts/s6/b160r16w2r16y40b30-b2c2c80-rc80000-wffffff-ye8c000/sett.png)|
-| [Auchtermuchty Tartan Army (Corp)](/setts/s6/b160r14w2r14y40b30-b2c2c80-rc80000-we0e0e0-ye8c000/)|
-|![Auchtermuchty Tartan Army (Corp) example sett](/setts/s6/b160r14w2r14y40b30-b2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Auchtermuchty Tartan Army](/setts/s6/b80r8w1r8y20b15~b2c2c80-rc80000-wffffff-ye8c000~x2/)|
+|![Auchtermuchty Tartan Army example sett](/setts/s6/b80r8w1r8y20b15~b2c2c80-rc80000-wffffff-ye8c000~x2/sett.png)|
+| [Auchtermuchty Tartan Army (Corp)](/setts/s6/b80r7w1r7y20b15~b2c2c80-rc80000-we0e0e0-ye8c000~x2/)|
+|![Auchtermuchty Tartan Army (Corp) example sett](/setts/s6/b80r7w1r7y20b15~b2c2c80-rc80000-we0e0e0-ye8c000~x2/sett.png)|

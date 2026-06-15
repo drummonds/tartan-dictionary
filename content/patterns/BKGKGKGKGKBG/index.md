@@ -16,5 +16,5 @@ BKGKGKGKGKBG
 
 | Tartans |
 |---------------|
-| [Wilson's No.157 #2](/setts/s12/b24k24g24k4g24k22g24k4g24k24b24ga6-b780078-g285800-ga789484-k101010/)|
-|![Wilson's No.157 #2 example sett](/setts/s12/b24k24g24k4g24k22g24k4g24k24b24ga6-b780078-g285800-ga789484-k101010/sett.png)|
+| [Wilson's No.157 #2](/setts/s12/b12k12g12k2g12k11g12k2g12k12b12ga3~b780078-g285800-ga789484-k101010~x2/)|
+|![Wilson's No.157 #2 example sett](/setts/s12/b12k12g12k2g12k11g12k2g12k12b12ga3~b780078-g285800-ga789484-k101010~x2/sett.png)|

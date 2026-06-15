@@ -16,7 +16,7 @@ RBRGRGRGR
 
 | Tartans |
 |---------------|
-| [Carrick](/setts/s9/r56b24r6g40ra2g4ra2g4r14-b202060-g006818-rc80000-ra981c70/)|
-|![Carrick example sett](/setts/s9/r56b24r6g40ra2g4ra2g4r14-b202060-g006818-rc80000-ra981c70/sett.png)|
-| [Murray, Lord George (Plaid)](/setts/s9/r10b20r40g4r40g20r10g20r10-b280034-g044028-rc80000/)|
-|![Murray, Lord George (Plaid) example sett](/setts/s9/r10b20r40g4r40g20r10g20r10-b280034-g044028-rc80000/sett.png)|
+| [Carrick](/setts/s9/r28b12r3g20ra1g2ra1g2r7~b202060-g006818-rc80000-ra981c70~x2/)|
+|![Carrick example sett](/setts/s9/r28b12r3g20ra1g2ra1g2r7~b202060-g006818-rc80000-ra981c70~x2/sett.png)|
+| [Murray, Lord George (Plaid)](/setts/s9/r5b10r20g2r20g10r5g10r5~b280034-g044028-rc80000~x2/)|
+|![Murray, Lord George (Plaid) example sett](/setts/s9/r5b10r20g2r20g10r5g10r5~b280034-g044028-rc80000~x2/sett.png)|

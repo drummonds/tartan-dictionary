@@ -16,5 +16,5 @@ GWGBKBKBGW
 
 | Tartans |
 |---------------|
-| [Oliphant](/setts/s10/g8w4g128b96k16b16k16b96g128w4-b2c2c80-g006818-k101010-wfcfcfc/)|
-|![Oliphant example sett](/setts/s10/g8w4g128b96k16b16k16b96g128w4-b2c2c80-g006818-k101010-wfcfcfc/sett.png)|
+| [Oliphant](/setts/s10/g2w1g32b24k4b4k4b24g32w1~b2c2c80-g006818-k101010-wfcfcfc~x4/)|
+|![Oliphant example sett](/setts/s10/g2w1g32b24k4b4k4b24g32w1~b2c2c80-g006818-k101010-wfcfcfc~x4/sett.png)|

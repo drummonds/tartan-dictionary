@@ -16,5 +16,5 @@ GYGRGGBGGBGRW
 
 | Tartans |
 |---------------|
-| [Kerr of Ardgowan Hunting (Personal)](/setts/s13/g4y2ga84r4ga12g2b2g2ga8ba8ga2r2w2-b1c0070-ba507898-g289c18-ga285800-rc80000-wfcfcec-yec8048/)|
-|![Kerr of Ardgowan Hunting (Personal) example sett](/setts/s13/g4y2ga84r4ga12g2b2g2ga8ba8ga2r2w2-b1c0070-ba507898-g289c18-ga285800-rc80000-wfcfcec-yec8048/sett.png)|
+| [Kerr of Ardgowan Hunting (Personal)](/setts/s13/g2y1ga42r2ga6g1b1g1ga4ba4ga1r1w1~b1c0070-ba507898-g289c18-ga285800-rc80000-wfcfcec-yec8048~x2/)|
+|![Kerr of Ardgowan Hunting (Personal) example sett](/setts/s13/g2y1ga42r2ga6g1b1g1ga4ba4ga1r1w1~b1c0070-ba507898-g289c18-ga285800-rc80000-wfcfcec-yec8048~x2/sett.png)|

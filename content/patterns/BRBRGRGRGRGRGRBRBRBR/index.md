@@ -16,7 +16,7 @@ BRBRGRGRGRGRGRBRBRBR
 
 | Tartans |
 |---------------|
-| [Ross](/setts/s20/b36r4b36r36g4r8g4r36g36r4g36r4g36r36b2r2b4r2b2r36-b2c4084-g005020-rdc0000/)|
-|![Ross example sett](/setts/s20/b36r4b36r36g4r8g4r36g36r4g36r4g36r36b2r2b4r2b2r36-b2c4084-g005020-rdc0000/sett.png)|
-| [Ross 3](/setts/s20/b36r4b36r36g4r8g4r36g36r4g36r4g36r36b2r2b4r2b2r36-b304080-g008000-rc00000/)|
-|![Ross 3 example sett](/setts/s20/b36r4b36r36g4r8g4r36g36r4g36r4g36r36b2r2b4r2b2r36-b304080-g008000-rc00000/sett.png)|
+| [Ross](/setts/s20/b18r2b18r18g2r4g2r18g18r2g18r2g18r18b1r1b2r1b1r18~b2c4084-g005020-rdc0000~x2/)|
+|![Ross example sett](/setts/s20/b18r2b18r18g2r4g2r18g18r2g18r2g18r18b1r1b2r1b1r18~b2c4084-g005020-rdc0000~x2/sett.png)|
+| [Ross 3](/setts/s20/b18r2b18r18g2r4g2r18g18r2g18r2g18r18b1r1b2r1b1r18~b304080-g008000-rc00000~x2/)|
+|![Ross 3 example sett](/setts/s20/b18r2b18r18g2r4g2r18g18r2g18r2g18r18b1r1b2r1b1r18~b304080-g008000-rc00000~x2/sett.png)|

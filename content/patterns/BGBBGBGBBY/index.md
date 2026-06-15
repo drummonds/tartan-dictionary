@@ -16,5 +16,5 @@ BGBBGBGBBY
 
 | Tartans |
 |---------------|
-| [Wanstall](/setts/s10/b24g8b16ba6g6ba6g16ba24b76y4-b680028-ba14283c-g003820-ybc8c00/)|
-|![Wanstall example sett](/setts/s10/b24g8b16ba6g6ba6g16ba24b76y4-b680028-ba14283c-g003820-ybc8c00/sett.png)|
+| [Wanstall](/setts/s10/b12g4b8ba3g3ba3g8ba12b38y2~b680028-ba14283c-g003820-ybc8c00~x2/)|
+|![Wanstall example sett](/setts/s10/b12g4b8ba3g3ba3g8ba12b38y2~b680028-ba14283c-g003820-ybc8c00~x2/sett.png)|

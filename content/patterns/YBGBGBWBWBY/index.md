@@ -16,5 +16,5 @@ YBGBGBWBWBY
 
 | Tartans |
 |---------------|
-| [Robinson, Barbara Ann (Personal)](/setts/s11/y4b32w4b4w30ba4g32bb4g4bb32y4-b488ca4-ba780078-bb506878-g005814-wf8f8f8-ye8c000/)|
-|![Robinson, Barbara Ann (Personal) example sett](/setts/s11/y4b32w4b4w30ba4g32bb4g4bb32y4-b488ca4-ba780078-bb506878-g005814-wf8f8f8-ye8c000/sett.png)|
+| [Robinson, Barbara Ann (Personal)](/setts/s11/y2b16w2b2w15ba2g16bb2g2bb16y2~b488ca4-ba780078-bb506878-g005814-wf8f8f8-ye8c000~x2/)|
+|![Robinson, Barbara Ann (Personal) example sett](/setts/s11/y2b16w2b2w15ba2g16bb2g2bb16y2~b488ca4-ba780078-bb506878-g005814-wf8f8f8-ye8c000~x2/sett.png)|

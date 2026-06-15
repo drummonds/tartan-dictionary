@@ -16,5 +16,5 @@ BRBRGRBRGRGRBRBRGRGRBRGRBRBR
 
 | Tartans |
 |---------------|
-| [Grant of Ballindalloch (Personal)](/setts/s28/r20b12r12b20r48g20r12b20r12ga12r12ga64r12b12r20b12r12ga64r12ga12r12b20r12g20r48b20r12b12-b2c2c80-g789484-ga006818-rc80000/)|
-|![Grant of Ballindalloch (Personal) example sett](/setts/s28/r20b12r12b20r48g20r12b20r12ga12r12ga64r12b12r20b12r12ga64r12ga12r12b20r12g20r48b20r12b12-b2c2c80-g789484-ga006818-rc80000/sett.png)|
+| [Grant of Ballindalloch (Personal)](/setts/s28/r5b3r3b5r12g5r3b5r3ga3r3ga16r3b3r5b3r3ga16r3ga3r3b5r3g5r12b5r3b3~b2c2c80-g789484-ga006818-rc80000~x4/)|
+|![Grant of Ballindalloch (Personal) example sett](/setts/s28/r5b3r3b5r12g5r3b5r3ga3r3ga16r3b3r5b3r3ga16r3ga3r3b5r3g5r12b5r3b3~b2c2c80-g789484-ga006818-rc80000~x4/sett.png)|

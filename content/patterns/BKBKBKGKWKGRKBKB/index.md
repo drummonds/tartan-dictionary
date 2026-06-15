@@ -16,5 +16,5 @@ BKBKBKGKWKGRKBKB
 
 | Tartans |
 |---------------|
-| [Sempill (Clan)](/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b1474b4-g006818-k101010-rc80000-wa8ace8/)|
-|![Sempill (Clan) example sett](/setts/s16/b44k6b6k6b6k30g38k2w6k2g38r4k30b38k6b6-b1474b4-g006818-k101010-rc80000-wa8ace8/sett.png)|
+| [Sempill (Clan)](/setts/s16/b22k3b3k3b3k15g19k1w3k1g19r2k15b19k3b3~b1474b4-g006818-k101010-rc80000-wa8ace8~x2/)|
+|![Sempill (Clan) example sett](/setts/s16/b22k3b3k3b3k15g19k1w3k1g19r2k15b19k3b3~b1474b4-g006818-k101010-rc80000-wa8ace8~x2/sett.png)|

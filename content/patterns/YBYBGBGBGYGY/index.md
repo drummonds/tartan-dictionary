@@ -16,5 +16,5 @@ YBYBGBGBGYGY
 
 | Tartans |
 |---------------|
-| [Yarmouth NS (District)](/setts/s12/y4b4y2b36g4b20g20b4g36ya2g4ya4-b2888c4-g5c6428-ya08858-yafccc00/)|
-|![Yarmouth NS (District) example sett](/setts/s12/y4b4y2b36g4b20g20b4g36ya2g4ya4-b2888c4-g5c6428-ya08858-yafccc00/sett.png)|
+| [Yarmouth NS (District)](/setts/s12/y2b2y1b18g2b10g10b2g18ya1g2ya2~b2888c4-g5c6428-ya08858-yafccc00~x2/)|
+|![Yarmouth NS (District) example sett](/setts/s12/y2b2y1b18g2b10g10b2g18ya1g2ya2~b2888c4-g5c6428-ya08858-yafccc00~x2/sett.png)|

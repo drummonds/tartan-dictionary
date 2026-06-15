@@ -16,5 +16,5 @@ WBWBWBWBWY
 
 | Tartans |
 |---------------|
-| [Traynor](/setts/s10/w4b36w6b8w6b8w60b6w4y4-b2c2c80-w98c8e8-ye8c000/)|
-|![Traynor example sett](/setts/s10/w4b36w6b8w6b8w60b6w4y4-b2c2c80-w98c8e8-ye8c000/sett.png)|
+| [Traynor](/setts/s10/w2b18w3b4w3b4w30b3w2y2~b2c2c80-w98c8e8-ye8c000~x2/)|
+|![Traynor example sett](/setts/s10/w2b18w3b4w3b4w30b3w2y2~b2c2c80-w98c8e8-ye8c000~x2/sett.png)|

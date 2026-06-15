@@ -16,5 +16,5 @@ WBKWKGBGKWKGWGKWKBW
 
 | Tartans |
 |---------------|
-| [Caribou](/setts/s19/w4b16k4wa12k4g16wa4g16k4wa12k4ga16ba4ga16k4wa12k4b16w4-b600030-ba304080-g30a010-ga808080-k000000-we0e0e0-wa90d0f0/)|
-|![Caribou example sett](/setts/s19/w4b16k4wa12k4g16wa4g16k4wa12k4ga16ba4ga16k4wa12k4b16w4-b600030-ba304080-g30a010-ga808080-k000000-we0e0e0-wa90d0f0/sett.png)|
+| [Caribou](/setts/s19/w1b4k1wa3k1g4wa1g4k1wa3k1ga4ba1ga4k1wa3k1b4w1~b600030-ba304080-g30a010-ga808080-k000000-we0e0e0-wa90d0f0~x4/)|
+|![Caribou example sett](/setts/s19/w1b4k1wa3k1g4wa1g4k1wa3k1ga4ba1ga4k1wa3k1b4w1~b600030-ba304080-g30a010-ga808080-k000000-we0e0e0-wa90d0f0~x4/sett.png)|

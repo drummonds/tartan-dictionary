@@ -16,5 +16,5 @@ BKBKGYGYGYGKBKBKBKBKBKGYGYGYGKBK
 
 | Tartans |
 |---------------|
-| [Gordon of Esselmont](/setts/s32/b4k4b28k28g28y4g4y8g4y4g28k28b4k4b4k4b30k4b4k4b4k28g28y4g4y8g4y4g28k28b28k4-b2c2c80-g006818-k101010-yd8b000/)|
-|![Gordon of Esselmont example sett](/setts/s32/b4k4b28k28g28y4g4y8g4y4g28k28b4k4b4k4b30k4b4k4b4k28g28y4g4y8g4y4g28k28b28k4-b2c2c80-g006818-k101010-yd8b000/sett.png)|
+| [Gordon of Esselmont](/setts/s32/b2k2b14k14g14y2g2y4g2y2g14k14b2k2b2k2b15k2b2k2b2k14g14y2g2y4g2y2g14k14b14k2~b2c2c80-g006818-k101010-yd8b000~x2/)|
+|![Gordon of Esselmont example sett](/setts/s32/b2k2b14k14g14y2g2y4g2y2g14k14b2k2b2k2b15k2b2k2b2k14g14y2g2y4g2y2g14k14b14k2~b2c2c80-g006818-k101010-yd8b000~x2/sett.png)|

@@ -6,7 +6,7 @@ GYBKWK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g60y10b20k20w4k4-b486c9c-g58442c-k101010-we8e8e8-ydcbc1c/tartan.png)
+![Woven sample](/setts/s6/g30y5b10k10w2k2~b486c9c-g58442c-k101010-we8e8e8-ydcbc1c~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYBKWK
 
 | Tartans |
 |---------------|
-| [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b486c9c-g58442c-k101010-we8e8e8-ydcbc1c/)|
-|![Bryan Wedding (Personal) example sett](/setts/s6/g60y10b20k20w4k4-b486c9c-g58442c-k101010-we8e8e8-ydcbc1c/sett.png)|
-| [Bryan Wedding (Personal)](/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/)|
-|![Bryan Wedding (Personal) example sett](/setts/s6/g60y10b20k20w4k4-b5c8ca8-g604000-k101010-wfcfcfc-yfccc00/sett.png)|
+| [Bryan Wedding (Personal)](/setts/s6/g30y5b10k10w2k2~b486c9c-g58442c-k101010-we8e8e8-ydcbc1c~x2/)|
+|![Bryan Wedding (Personal) example sett](/setts/s6/g30y5b10k10w2k2~b486c9c-g58442c-k101010-we8e8e8-ydcbc1c~x2/sett.png)|
+| [Bryan Wedding (Personal)](/setts/s6/g30y5b10k10w2k2~b5c8ca8-g604000-k101010-wfcfcfc-yfccc00~x2/)|
+|![Bryan Wedding (Personal) example sett](/setts/s6/g30y5b10k10w2k2~b5c8ca8-g604000-k101010-wfcfcfc-yfccc00~x2/sett.png)|

@@ -16,5 +16,5 @@ BRBRBKBKWRWR
 
 | Tartans |
 |---------------|
-| [Ross Purple Dress Tartan Tartan Number: 8711. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b8r6b6r8b8k18b8k18w52r4w8r4-b4c106a-k101010-rd6138b-wf8f8f8/)|
-|![Ross Purple Dress Tartan Tartan Number: 8711. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b8r6b6r8b8k18b8k18w52r4w8r4-b4c106a-k101010-rd6138b-wf8f8f8/sett.png)|
+| [Ross Purple Dress Tartan Tartan Number: 8711. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b4r3b3r4b4k9b4k9w26r2w4r2~b4c106a-k101010-rd6138b-wf8f8f8~x2/)|
+|![Ross Purple Dress Tartan Tartan Number: 8711. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b4r3b3r4b4k9b4k9w26r2w4r2~b4c106a-k101010-rd6138b-wf8f8f8~x2/sett.png)|

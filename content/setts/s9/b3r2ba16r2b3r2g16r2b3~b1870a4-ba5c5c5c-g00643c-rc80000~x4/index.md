@@ -1,0 +1,47 @@
+---
+title: "MacPherson Gathering 1996"
+date: 2023-03-18
+---
+In pattern [BRBRBRGRB](/patterns/brbrbrgrb/).
+
+
+This was sourced from tartans-authority.  It is a [9 stripes tartan](/stripes/stripes9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/3552/
+
+## Thread count
+B/12 R8 G64 R8 B12 R8 N64 R8 B/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| G | <code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> `#00643C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.05 |
+| N | <code style="background-color:#5C5C5C;"><span style="color:#5C5C5C;filter:grayscale(1) invert(1) contrast(100);">#5C5C5C</span></code> `#5C5C5C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kerry, County](/setts/s15/y2b3g3b4ga16b3g3b4ga3b3g16b4ga3b3y2~b003c64-g5c6428-ga604000-yd09800~x2/) — ΔT 1.32
+1. [MacPherson Gathering 1996](/setts/s9/b3r2g16r2b3r2ra16r2b3~b1870a4-g00643c-rc80000-ra888888~x4/) — ΔT 1.38
+1. [Limerick, County](/setts/s11/b6y4b3ba2b5ba2b3ba2g14r3ba2~b4c3428-ba003c64-g5c6428-r880000-ybc8c00~x2/) — ΔT 1.54
+1. [Ben Lomond Fashion Tartan Tartan Number: 6500. Earliest known date: pre 2005 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w6g5k6g42b42k5b5k5~b2d5c71-g3a5134-k1e1a10-we0e0e0/) — ΔT 1.55
+1. [Cowal Highland Gathering](/setts/s9/g2ga8b1ga1b1ga1b8ba9bb1~b14283c-ba003c64-bb5c5c5c-g003820-ga5c6428~x4/) — ΔT 1.56
+1. [Dewar (WCWM)](/setts/s6/b1g1b7g5ga7y1~b084848-g604000-ga8c7038-yb8b8b8~x4/) — ΔT 1.60
+1. [Clyde](/setts/s10/r5b3r22ra3b6ba17ra2ba4ra2ba4~b646464-ba5c5c5c-r8c8c8c-ra8c0000~x2/) — ΔT 1.69
+1. [Highland Road (Fashion)](/setts/s9/k3y15b3y4b3y4b10g30w3~b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0~x2/) — ΔT 1.70
+1. [Cairngorm #2](/setts/s7/b5ba4b22k15g22r4g4~b445464-ba607c88-g406454-k101010-r982c2c~x2/) — ΔT 1.72
+1. [Grampian (District)](/setts/s8/g24r2g3b14ba24r2ba3b3~b303070-ba14283c-g5c6428-rc80000~x2/) — ΔT 1.73
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/y2b3g3b4ga16b3g3b4ga3b3g16b4ga3b3y2~b003c64-g5c6428-ga604000-yd09800~x2/"><circle cx="247.7" cy="207.8" r="4" fill="#3465a4"><title>Kerry, County</title></circle></a><a href="/setts/s9/b3r2g16r2b3r2ra16r2b3~b1870a4-g00643c-rc80000-ra888888~x4/"><circle cx="225.2" cy="202.8" r="4" fill="#3465a4"><title>MacPherson Gathering 1996</title></circle></a><a href="/setts/s11/b6y4b3ba2b5ba2b3ba2g14r3ba2~b4c3428-ba003c64-g5c6428-r880000-ybc8c00~x2/"><circle cx="223.2" cy="215.4" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/setts/s8/w6g5k6g42b42k5b5k5~b2d5c71-g3a5134-k1e1a10-we0e0e0/"><circle cx="292.0" cy="218.7" r="4" fill="#3465a4"><title>Ben Lomond Fashion Tartan Tartan Number: 6500. Earliest known date: pre 2005 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g2ga8b1ga1b1ga1b8ba9bb1~b14283c-ba003c64-bb5c5c5c-g003820-ga5c6428~x4/"><circle cx="253.7" cy="221.6" r="4" fill="#3465a4"><title>Cowal Highland Gathering</title></circle></a><a href="/setts/s6/b1g1b7g5ga7y1~b084848-g604000-ga8c7038-yb8b8b8~x4/"><circle cx="254.8" cy="261.8" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/setts/s10/r5b3r22ra3b6ba17ra2ba4ra2ba4~b646464-ba5c5c5c-r8c8c8c-ra8c0000~x2/"><circle cx="337.8" cy="220.3" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s9/k3y15b3y4b3y4b10g30w3~b5c8ca8-g587478-k101010-we0e0e0-ya0a0a0~x2/"><circle cx="266.6" cy="189.1" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/setts/s7/b5ba4b22k15g22r4g4~b445464-ba607c88-g406454-k101010-r982c2c~x2/"><circle cx="216.4" cy="255.4" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/setts/s8/g24r2g3b14ba24r2ba3b3~b303070-ba14283c-g5c6428-rc80000~x2/"><circle cx="275.5" cy="210.5" r="4" fill="#3465a4"><title>Grampian (District)</title></circle></a><circle cx="258.6" cy="219.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/b3r2ba16r2b3r2g16r2b3~b1870a4-ba5c5c5c-g00643c-rc80000~x4/

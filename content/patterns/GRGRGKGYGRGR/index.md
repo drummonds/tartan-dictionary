@@ -16,5 +16,5 @@ GRGRGKGYGRGR
 
 | Tartans |
 |---------------|
-| [Quinn (Name?)](/setts/s12/g40r40ga10r10ga60k20g20y16ga60r10ga10r40-g408060-ga006818-k101010-rc80000-ye8c000/)|
-|![Quinn (Name?) example sett](/setts/s12/g40r40ga10r10ga60k20g20y16ga60r10ga10r40-g408060-ga006818-k101010-rc80000-ye8c000/sett.png)|
+| [Quinn (Name?)](/setts/s12/g20r20ga5r5ga30k10g10y8ga30r5ga5r20~g408060-ga006818-k101010-rc80000-ye8c000~x2/)|
+|![Quinn (Name?) example sett](/setts/s12/g20r20ga5r5ga30k10g10y8ga30r5ga5r20~g408060-ga006818-k101010-rc80000-ye8c000~x2/sett.png)|

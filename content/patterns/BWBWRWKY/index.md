@@ -6,7 +6,7 @@ BWBWRWKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b36w6b6w6r6w6k10y24-b1c0070-k101010-r880000-wfcfcfc-yd8b000/tartan.png)
+![Woven sample](/setts/s8/b18w3b3w3r3w3k5y12~b1c0070-k101010-r880000-wfcfcfc-yd8b000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWRWKY
 
 | Tartans |
 |---------------|
-| [Kile (Red line) (Personal)](/setts/s8/b36w6b6w6r6w6k10y24-b1c0070-k101010-r880000-wfcfcfc-yd8b000/)|
-|![Kile (Red line) (Personal) example sett](/setts/s8/b36w6b6w6r6w6k10y24-b1c0070-k101010-r880000-wfcfcfc-yd8b000/sett.png)|
+| [Kile (Red line) (Personal)](/setts/s8/b18w3b3w3r3w3k5y12~b1c0070-k101010-r880000-wfcfcfc-yd8b000~x2/)|
+|![Kile (Red line) (Personal) example sett](/setts/s8/b18w3b3w3r3w3k5y12~b1c0070-k101010-r880000-wfcfcfc-yd8b000~x2/sett.png)|

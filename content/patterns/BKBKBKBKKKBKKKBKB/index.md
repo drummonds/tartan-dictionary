@@ -16,5 +16,5 @@ BKBKBKBKKKBKKKBKB
 
 | Tartans |
 |---------------|
-| [Birrell (Fashion)](/setts/s17/b68k4b8k4k4k4b8k4k32k4b10k4b4k4b10k4b16-b4c004c-k000000/)|
-|![Birrell (Fashion) example sett](/setts/s17/b68k4b8k4k4k4b8k4k32k4b10k4b4k4b10k4b16-b4c004c-k000000/sett.png)|
+| [Birrell (Fashion)](/setts/s17/b34k2b4k2k2k2b4k2k16k2b5k2b2k2b5k2b8~b4c004c-k000000~x2/)|
+|![Birrell (Fashion) example sett](/setts/s17/b34k2b4k2k2k2b4k2k16k2b5k2b2k2b5k2b8~b4c004c-k000000~x2/sett.png)|

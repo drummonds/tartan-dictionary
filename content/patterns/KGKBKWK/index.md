@@ -6,7 +6,7 @@ KGKBKWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k32g30k8b24k44w4k12-b2888c4-g006818-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/k16g15k4b12k22w2k6~b2888c4-g006818-k101010-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKBKWK
 
 | Tartans |
 |---------------|
-| [Frame (Edinburgh) (Personal)](/setts/s7/k32g30k8b24k44w4k12-b2888c4-g006818-k101010-wfcfcfc/)|
-|![Frame (Edinburgh) (Personal) example sett](/setts/s7/k32g30k8b24k44w4k12-b2888c4-g006818-k101010-wfcfcfc/sett.png)|
+| [Frame (Edinburgh) (Personal)](/setts/s7/k16g15k4b12k22w2k6~b2888c4-g006818-k101010-wfcfcfc~x2/)|
+|![Frame (Edinburgh) (Personal) example sett](/setts/s7/k16g15k4b12k22w2k6~b2888c4-g006818-k101010-wfcfcfc~x2/sett.png)|

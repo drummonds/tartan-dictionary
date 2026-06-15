@@ -16,5 +16,5 @@ RBRBWBWBWBWR
 
 | Tartans |
 |---------------|
-| [St George](/setts/s12/r38b3r10b88w2b8w4b8w4b8w28ra12-b080848-r781c38-radc0000-we0e0e0/)|
-|![St George example sett](/setts/s12/r38b3r10b88w2b8w4b8w4b8w28ra12-b080848-r781c38-radc0000-we0e0e0/sett.png)|
+| [St George](/setts/s12/r38b3r10b88w2b8w4b8w4b8w28ra12~b080848-r781c38-radc0000-we0e0e0/)|
+|![St George example sett](/setts/s12/r38b3r10b88w2b8w4b8w4b8w28ra12~b080848-r781c38-radc0000-we0e0e0/sett.png)|

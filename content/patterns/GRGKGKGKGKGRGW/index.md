@@ -16,5 +16,5 @@ GRGKGKGKGKGRGW
 
 | Tartans |
 |---------------|
-| [Strath Hallidale (Sutherland)](/setts/s14/g26r4g38k30g10k30g10k30g10k30g38r4g26w8-g006818-k101010-rc80000-wa8ace8/)|
-|![Strath Hallidale (Sutherland) example sett](/setts/s14/g26r4g38k30g10k30g10k30g10k30g38r4g26w8-g006818-k101010-rc80000-wa8ace8/sett.png)|
+| [Strath Hallidale (Sutherland)](/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13w4~g006818-k101010-rc80000-wa8ace8~x2/)|
+|![Strath Hallidale (Sutherland) example sett](/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13w4~g006818-k101010-rc80000-wa8ace8~x2/sett.png)|

@@ -1,0 +1,47 @@
+---
+title: "Black Watch Dress (Asymmetrical)"
+date: 2023-03-18
+---
+In pattern [BKBKBKGKGKWBWBWBWBWKBKBKB](/patterns/bkbkbkgkgkwbwbwbwbwkbkbkb/).
+
+
+This was sourced from register-of-tartans.  It is a [25 stripes tartan](/stripes/stripes25/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=281
+
+## Thread count
+DB/20 K4 DB4 K4 DB20 K18 G22 K6 G22 K20 W6 DB8 W30 DB4 W8 DB4 W30 DB8 W6 K20 DB20 K4 DB4 K4 DB/20
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#202060;"><span style="color:#202060;filter:grayscale(1) invert(1) contrast(100);">#202060</span></code> `#202060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Black Watch, dress](/setts/s25/b10k2b2k2b10k10w3b4w15b2w4b2w15b4w3k10g11k3g11k9b10k2b2k2b10x2~b304080-g008000-k000000-we0e0e0/) — ΔT 0.26
+1. [Black Watch Dress Tartan Tartan Number: 1965. Earliest known date: 1930 MacGregor-Hastie Collection. Unlikely though it sounds Dress Black Watch tartan is intended for highland dancing. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s25/b10k2b2k2b10k10w3b4w15b2w4b2w15b4w3k10g11k3g11k9b10k2b2k2b10x2~b2c2c80-g006818-k101010-we0e0e0/) — ΔT 0.33
+1. [Sutherland Dress (Fashion)](/setts/s24/b6k5b10k10g13k3g13k10w4b4w18b2w3b2w18b4w4k10g13k3g13k10b10k5x2~b2c2c80-g006818-k101010-we0e0e0/) — ΔT 0.97
+1. [MacKinlay Dress](/setts/s29/r2k1b8k6w8k2w2k2w8k6g8k1r2k1g8k6w2k2w2k2w6k2w2k2w2k6b8k1r2x2~b1c0070-g006818-k101010-r880000-wc0c0c0/) — ΔT 1.11
+1. [MacKenzie Dress Clan Tartan Tartan Number: 1981. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/b10k10g9k2w2k2g9k10w2b2w14b2w2b2w14b2w2k10b10r2x2~b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.12
+1. [MacKenzie Dress #4](/setts/s20/b10k10g9k2w2k2g9k10w2b2w14b2w2b2w14b2w2k10b10r2x2~b2c4084-g005020-k101010-rdc0000-we0e0e0/) — ΔT 1.13
+1. [Argyle Dress](/setts/s22/b4k3g17k17b15k3r4k3b15k17w3b4w25b3w6b3w25b4w3k17g17k3x2~b2c2c80-g006818-k101010-rc80000-we0e0e0/) — ΔT 1.13
+1. [MacKenzie, dress](/setts/s20/b10k10g9k2w2k2g9k10w2b2w14b2w2b2w14b2w2k10b10r2x2~b304080-g008000-k000000-rc00000-we0e0e0/) — ΔT 1.17
+1. [Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/b12k2b6k2b12k12g14k2w4k2g14k10w6b6w18b3w4b3w18b6w6k10g14k2y4k2~b2c2c80-g006818-k101010-we0e0e0-ye8c000/) — ΔT 1.19
+1. [Campbell #2](/setts/s26/b11k3b11k11g15k2w3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2y3k2g15k11x2~b2c4084-g005020-k101010-we0e0e0-ye8c000/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/b10k2b2k2b10k10w3b4w15b2w4b2w15b4w3k10g11k3g11k9b10k2b2k2b10x2~b304080-g008000-k000000-we0e0e0/"><circle cx="81.0" cy="154.4" r="4" fill="#3465a4"><title>Black Watch, dress</title></circle></a><a href="/setts/s25/b10k2b2k2b10k10w3b4w15b2w4b2w15b4w3k10g11k3g11k9b10k2b2k2b10x2~b2c2c80-g006818-k101010-we0e0e0/"><circle cx="90.0" cy="156.2" r="4" fill="#3465a4"><title>Black Watch Dress Tartan Tartan Number: 1965. Earliest known date: 1930 MacGregor-Hastie Collection. Unlikely though it sounds Dress Black Watch tartan is intended for highland dancing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s24/b6k5b10k10g13k3g13k10w4b4w18b2w3b2w18b4w4k10g13k3g13k10b10k5x2~b2c2c80-g006818-k101010-we0e0e0/"><circle cx="59.2" cy="161.3" r="4" fill="#3465a4"><title>Sutherland Dress (Fashion)</title></circle></a><a href="/setts/s29/r2k1b8k6w8k2w2k2w8k6g8k1r2k1g8k6w2k2w2k2w6k2w2k2w2k6b8k1r2x2~b1c0070-g006818-k101010-r880000-wc0c0c0/"><circle cx="77.8" cy="132.2" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><a href="/setts/s20/b10k10g9k2w2k2g9k10w2b2w14b2w2b2w14b2w2k10b10r2x2~b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="54.5" cy="141.5" r="4" fill="#3465a4"><title>MacKenzie Dress Clan Tartan Tartan Number: 1981. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/b10k10g9k2w2k2g9k10w2b2w14b2w2b2w14b2w2k10b10r2x2~b2c4084-g005020-k101010-rdc0000-we0e0e0/"><circle cx="55.7" cy="142.1" r="4" fill="#3465a4"><title>MacKenzie Dress #4</title></circle></a><a href="/setts/s22/b4k3g17k17b15k3r4k3b15k17w3b4w25b3w6b3w25b4w3k17g17k3x2~b2c2c80-g006818-k101010-rc80000-we0e0e0/"><circle cx="60.0" cy="128.2" r="4" fill="#3465a4"><title>Argyle Dress</title></circle></a><a href="/setts/s20/b10k10g9k2w2k2g9k10w2b2w14b2w2b2w14b2w2k10b10r2x2~b304080-g008000-k000000-rc00000-we0e0e0/"><circle cx="46.9" cy="140.7" r="4" fill="#3465a4"><title>MacKenzie, dress</title></circle></a><a href="/setts/s26/b12k2b6k2b12k12g14k2w4k2g14k10w6b6w18b3w4b3w18b6w6k10g14k2y4k2~b2c2c80-g006818-k101010-we0e0e0-ye8c000/"><circle cx="41.9" cy="128.1" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s26/b11k3b11k11g15k2w3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2y3k2g15k11x2~b2c4084-g005020-k101010-we0e0e0-ye8c000/"><circle cx="70.2" cy="129.7" r="4" fill="#3465a4"><title>Campbell #2</title></circle></a><circle cx="82.4" cy="153.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s25/b10k2b2k2b10k10w3b4w15b2w4b2w15b4w3k10g11k3g11k9b10k2b2k2b10x2~b202060-g006818-k101010-wffffff/

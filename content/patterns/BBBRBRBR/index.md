@@ -6,7 +6,7 @@ BBBRBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r20b8r8b8r46ba38b38ba8-b1c1c50-ba5c5c5c-r880000/tartan.png)
+![Woven sample](/setts/s8/r10b4r4b4r23ba19b19ba4~b1c1c50-ba5c5c5c-r880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRBRBR
 
 | Tartans |
 |---------------|
-| [Chindecella Ruadh (Personal)](/setts/s8/r20b8r8b8r46ba38b38ba8-b1c1c50-ba5c5c5c-r880000/)|
-|![Chindecella Ruadh (Personal) example sett](/setts/s8/r20b8r8b8r46ba38b38ba8-b1c1c50-ba5c5c5c-r880000/sett.png)|
+| [Chindecella Ruadh (Personal)](/setts/s8/r10b4r4b4r23ba19b19ba4~b1c1c50-ba5c5c5c-r880000~x2/)|
+|![Chindecella Ruadh (Personal) example sett](/setts/s8/r10b4r4b4r23ba19b19ba4~b1c1c50-ba5c5c5c-r880000~x2/sett.png)|

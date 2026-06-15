@@ -16,5 +16,5 @@ KRKRKRKYKRKRKR
 
 | Tartans |
 |---------------|
-| [Oilmens](/setts/s14/r16k8r96k60r120k4y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/)|
-|![Oilmens example sett](/setts/s14/r16k8r96k60r120k4y16k4r120k60r96k8r16k4-k101010-rc80000-ye8c000/sett.png)|
+| [Oilmens](/setts/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~k101010-rc80000-ye8c000~x4/)|
+|![Oilmens example sett](/setts/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~k101010-rc80000-ye8c000~x4/sett.png)|

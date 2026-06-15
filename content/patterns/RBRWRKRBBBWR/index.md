@@ -16,5 +16,5 @@ RBRWRKRBBBWR
 
 | Tartans |
 |---------------|
-| [Orkney Magnus](/setts/s12/r28b2r38w2r36k6r2ba14b4ba2wa2r8-b2c2c80-ba5c5c5c-k101010-r888888-wfcfcfc-wac0c0c0/)|
-|![Orkney Magnus example sett](/setts/s12/r28b2r38w2r36k6r2ba14b4ba2wa2r8-b2c2c80-ba5c5c5c-k101010-r888888-wfcfcfc-wac0c0c0/sett.png)|
+| [Orkney Magnus](/setts/s12/r14b1r19w1r18k3r1ba7b2ba1wa1r4~b2c2c80-ba5c5c5c-k101010-r888888-wfcfcfc-wac0c0c0~x2/)|
+|![Orkney Magnus example sett](/setts/s12/r14b1r19w1r18k3r1ba7b2ba1wa1r4~b2c2c80-ba5c5c5c-k101010-r888888-wfcfcfc-wac0c0c0~x2/sett.png)|

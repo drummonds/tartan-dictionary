@@ -16,5 +16,5 @@ GWKGKGKGKGKY
 
 | Tartans |
 |---------------|
-| [Handley (Personal)](/setts/s12/g24w4k10ga48k8g18k4ga26k8g26k4y6-g285800-ga006818-k101010-we0e0e0-ye8c000/)|
-|![Handley (Personal) example sett](/setts/s12/g24w4k10ga48k8g18k4ga26k8g26k4y6-g285800-ga006818-k101010-we0e0e0-ye8c000/sett.png)|
+| [Handley (Personal)](/setts/s12/g12w2k5ga24k4g9k2ga13k4g13k2y3~g285800-ga006818-k101010-we0e0e0-ye8c000~x2/)|
+|![Handley (Personal) example sett](/setts/s12/g12w2k5ga24k4g9k2ga13k4g13k2y3~g285800-ga006818-k101010-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKBKBRWRKRBRKRKRKRKRBRKRWRBKBKBKBK
 
 | Tartans |
 |---------------|
-| [Club World](/setts/s38/b28k14b42k4b4k4b4k8b14r50w4r4k6r32b18r4k8r4k8r4k8r4k8r4b18r32k6r4w4r50b14k8b4k4b4k4b42k14-b1c0070-k101010-rc80000-we0e0e0/)|
-|![Club World example sett](/setts/s38/b28k14b42k4b4k4b4k8b14r50w4r4k6r32b18r4k8r4k8r4k8r4k8r4b18r32k6r4w4r50b14k8b4k4b4k4b42k14-b1c0070-k101010-rc80000-we0e0e0/sett.png)|
+| [Club World](/setts/s38/b14k7b21k2b2k2b2k4b7r25w2r2k3r16b9r2k4r2k4r2k4r2k4r2b9r16k3r2w2r25b7k4b2k2b2k2b21k7~b1c0070-k101010-rc80000-we0e0e0~x2/)|
+|![Club World example sett](/setts/s38/b14k7b21k2b2k2b2k4b7r25w2r2k3r16b9r2k4r2k4r2k4r2k4r2b9r16k3r2w2r25b7k4b2k2b2k2b21k7~b1c0070-k101010-rc80000-we0e0e0~x2/sett.png)|

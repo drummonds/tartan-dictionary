@@ -16,5 +16,5 @@ BRBRBYBRBBBY
 
 | Tartans |
 |---------------|
-| [Gabrielle](/setts/s12/b96r8b12ra4b4y4b4r20ba12b4ba6y4-b606060-ba3070fc-r880000-ra9c7438-yacacac/)|
-|![Gabrielle example sett](/setts/s12/b96r8b12ra4b4y4b4r20ba12b4ba6y4-b606060-ba3070fc-r880000-ra9c7438-yacacac/sett.png)|
+| [Gabrielle](/setts/s12/b48r4b6ra2b2y2b2r10ba6b2ba3y2~b606060-ba3070fc-r880000-ra9c7438-yacacac~x2/)|
+|![Gabrielle example sett](/setts/s12/b48r4b6ra2b2y2b2r10ba6b2ba3y2~b606060-ba3070fc-r880000-ra9c7438-yacacac~x2/sett.png)|

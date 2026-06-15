@@ -16,5 +16,5 @@ BYBKBKWKBBWK
 
 | Tartans |
 |---------------|
-| [Covington, Christopher (Personal)](/setts/s12/k66w6b4ba14k4w6k10b42k30b2y36b2-b3850c8-ba202060-k101010-wfcfcfc-y48a4c0/)|
-|![Covington, Christopher (Personal) example sett](/setts/s12/k66w6b4ba14k4w6k10b42k30b2y36b2-b3850c8-ba202060-k101010-wfcfcfc-y48a4c0/sett.png)|
+| [Covington, Christopher (Personal)](/setts/s12/k33w3b2ba7k2w3k5b21k15b1y18b1~b3850c8-ba202060-k101010-wfcfcfc-y48a4c0~x2/)|
+|![Covington, Christopher (Personal) example sett](/setts/s12/k33w3b2ba7k2w3k5b21k15b1y18b1~b3850c8-ba202060-k101010-wfcfcfc-y48a4c0~x2/sett.png)|

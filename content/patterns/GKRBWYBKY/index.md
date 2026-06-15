@@ -16,5 +16,5 @@ GKRBWYBKY
 
 | Tartans |
 |---------------|
-| [Schreier. Christopher (Personal)](/setts/s9/g44k4r44b4w2y24ba2k2ya8-b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ya08858-yae8c000/)|
-|![Schreier. Christopher (Personal) example sett](/setts/s9/g44k4r44b4w2y24ba2k2ya8-b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ya08858-yae8c000/sett.png)|
+| [Schreier. Christopher (Personal)](/setts/s9/g22k2r22b2w1y12ba1k1ya4~b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ya08858-yae8c000~x2/)|
+|![Schreier. Christopher (Personal) example sett](/setts/s9/g22k2r22b2w1y12ba1k1ya4~b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ya08858-yae8c000~x2/sett.png)|

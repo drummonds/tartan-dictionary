@@ -6,7 +6,7 @@ GWWWWWG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g20w60wa44w8wa4w4g16-g006818-wa8ace8-wac0c0c0/tartan.png)
+![Woven sample](/setts/s7/g5w15wa11w2wa1w1g4~g006818-wa8ace8-wac0c0c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWWWWWG
 
 | Tartans |
 |---------------|
-| [Highlands Country Club (Corporate)](/setts/s7/g20w60wa44w8wa4w4g16-g006818-wa8ace8-wac0c0c0/)|
-|![Highlands Country Club (Corporate) example sett](/setts/s7/g20w60wa44w8wa4w4g16-g006818-wa8ace8-wac0c0c0/sett.png)|
+| [Highlands Country Club (Corporate)](/setts/s7/g5w15wa11w2wa1w1g4~g006818-wa8ace8-wac0c0c0~x4/)|
+|![Highlands Country Club (Corporate) example sett](/setts/s7/g5w15wa11w2wa1w1g4~g006818-wa8ace8-wac0c0c0~x4/sett.png)|

@@ -6,7 +6,7 @@ BWBYBK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s6/k30b40y3b5w2b6~b1474b4-k101010-wfcfcfc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBYBK
 
 | Tartans |
 |---------------|
-| [Micron](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/)|
-|![Micron example sett](/setts/s6/k60b80y6b10w4b12-b1474b4-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Micron](/setts/s6/k30b40y3b5w2b6~b1474b4-k101010-wfcfcfc-ye8c000~x2/)|
+|![Micron example sett](/setts/s6/k30b40y3b5w2b6~b1474b4-k101010-wfcfcfc-ye8c000~x2/sett.png)|

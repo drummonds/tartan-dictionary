@@ -16,5 +16,5 @@ RRRRRRWRRRRR
 
 | Tartans |
 |---------------|
-| [Glen Clova](/setts/s12/r78ra8r12rb4r4w4r4ra24r12r4r12rb4-r703000-ra806050-rb906030-we0e0e0/)|
-|![Glen Clova example sett](/setts/s12/r78ra8r12rb4r4w4r4ra24r12r4r12rb4-r703000-ra806050-rb906030-we0e0e0/sett.png)|
+| [Glen Clova](/setts/s12/r39ra4r6rb2r2w2r2ra12r6r2r6rb2~r703000-ra806050-rb906030-we0e0e0~x2/)|
+|![Glen Clova example sett](/setts/s12/r39ra4r6rb2r2w2r2ra12r6r2r6rb2~r703000-ra806050-rb906030-we0e0e0~x2/sett.png)|

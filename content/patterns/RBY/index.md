@@ -6,7 +6,7 @@ RBY
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/r40b40y40-b304080-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s3/r1b1y1~b304080-rc00000-yf0c000~x40/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBY
 
 | Tartans |
 |---------------|
-| [Mothers Pride](/setts/s3/r40b40y40-b304080-rc00000-yf0c000/)|
-|![Mothers Pride example sett](/setts/s3/r40b40y40-b304080-rc00000-yf0c000/sett.png)|
+| [Mothers Pride](/setts/s3/r1b1y1~b304080-rc00000-yf0c000~x40/)|
+|![Mothers Pride example sett](/setts/s3/r1b1y1~b304080-rc00000-yf0c000~x40/sett.png)|

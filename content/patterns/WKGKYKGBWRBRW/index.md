@@ -16,5 +16,5 @@ WKGKYKGBWRBRW
 
 | Tartans |
 |---------------|
-| [State Seal of Colorado (Fashion)](/setts/s13/w8k2g8k2y6k2g8b96w6r50b8r6w6-b2c2c80-g604000-k101010-r880000-we8ccb8-ybc8c00/)|
-|![State Seal of Colorado (Fashion) example sett](/setts/s13/w8k2g8k2y6k2g8b96w6r50b8r6w6-b2c2c80-g604000-k101010-r880000-we8ccb8-ybc8c00/sett.png)|
+| [State Seal of Colorado (Fashion)](/setts/s13/w4k1g4k1y3k1g4b48w3r25b4r3w3~b2c2c80-g604000-k101010-r880000-we8ccb8-ybc8c00~x2/)|
+|![State Seal of Colorado (Fashion) example sett](/setts/s13/w4k1g4k1y3k1g4b48w3r25b4r3w3~b2c2c80-g604000-k101010-r880000-we8ccb8-ybc8c00~x2/sett.png)|

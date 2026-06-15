@@ -16,5 +16,5 @@ RRGRRRGRGRYRGYR
 
 | Tartans |
 |---------------|
-| [Howell of Wales](/setts/s15/r16ra2g6r10ra2r10g6r8g24r28y2r28g24y4ra6-g003820-r888888-rac80000-ye8c000/)|
-|![Howell of Wales example sett](/setts/s15/r16ra2g6r10ra2r10g6r8g24r28y2r28g24y4ra6-g003820-r888888-rac80000-ye8c000/sett.png)|
+| [Howell of Wales](/setts/s15/r8ra1g3r5ra1r5g3r4g12r14y1r14g12y2ra3~g003820-r888888-rac80000-ye8c000~x2/)|
+|![Howell of Wales example sett](/setts/s15/r8ra1g3r5ra1r5g3r4g12r14y1r14g12y2ra3~g003820-r888888-rac80000-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ BRRYRGBRBRBGRYRRBW
 
 | Tartans |
 |---------------|
-| [Guild, The](/setts/s18/b40r2ra6y2ra60g10b16r2b16r2b16g10ra60y2ra6r2b40w4-b1c0070-g004c00-rff0000-ra880000-wffffff-ya0a0a0/)|
-|![Guild, The example sett](/setts/s18/b40r2ra6y2ra60g10b16r2b16r2b16g10ra60y2ra6r2b40w4-b1c0070-g004c00-rff0000-ra880000-wffffff-ya0a0a0/sett.png)|
+| [Guild, The](/setts/s18/b20r1ra3y1ra30g5b8r1b8r1b8g5ra30y1ra3r1b20w2~b1c0070-g004c00-rff0000-ra880000-wffffff-ya0a0a0~x2/)|
+|![Guild, The example sett](/setts/s18/b20r1ra3y1ra30g5b8r1b8r1b8g5ra30y1ra3r1b20w2~b1c0070-g004c00-rff0000-ra880000-wffffff-ya0a0a0~x2/sett.png)|

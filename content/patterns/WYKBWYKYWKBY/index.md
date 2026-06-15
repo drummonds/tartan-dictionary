@@ -16,5 +16,5 @@ WYKBWYKYWKBY
 
 | Tartans |
 |---------------|
-| [MacGill of Jura (Clan?)](/setts/s12/y90b48k30w4y4k2y4w4b22k6y8w16-b2888c4-k101010-we0e0e0-yd87c00/)|
-|![MacGill of Jura (Clan?) example sett](/setts/s12/y90b48k30w4y4k2y4w4b22k6y8w16-b2888c4-k101010-we0e0e0-yd87c00/sett.png)|
+| [MacGill of Jura (Clan?)](/setts/s12/y45b24k15w2y2k1y2w2b11k3y4w8~b2888c4-k101010-we0e0e0-yd87c00~x2/)|
+|![MacGill of Jura (Clan?) example sett](/setts/s12/y45b24k15w2y2k1y2w2b11k3y4w8~b2888c4-k101010-we0e0e0-yd87c00~x2/sett.png)|

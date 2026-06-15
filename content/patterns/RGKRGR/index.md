@@ -6,7 +6,7 @@ RGKRGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r12g42k16r56g2r8-g004c00-k000000-rc80000/tartan.png)
+![Woven sample](/setts/s6/r6g21k8r28g1r4~g004c00-k000000-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKRGR
 
 | Tartans |
 |---------------|
-| [Dunbar](/setts/s6/r12g42k16r56g2r8-g004c00-k000000-rc80000/)|
-|![Dunbar example sett](/setts/s6/r12g42k16r56g2r8-g004c00-k000000-rc80000/sett.png)|
+| [Dunbar](/setts/s6/r6g21k8r28g1r4~g004c00-k000000-rc80000~x2/)|
+|![Dunbar example sett](/setts/s6/r6g21k8r28g1r4~g004c00-k000000-rc80000~x2/sett.png)|

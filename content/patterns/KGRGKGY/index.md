@@ -6,7 +6,7 @@ KGRGKGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k16g8r8g8k8g60y8-g604000-k101010-re87878-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/k4g2r2g2k2g15y2~g604000-k101010-re87878-ybc8c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGRGKGY
 
 | Tartans |
 |---------------|
-| [Welsh National (Fashion)](/setts/s7/k16g8r8g8k8g60y8-g604000-k101010-re87878-ybc8c00/)|
-|![Welsh National (Fashion) example sett](/setts/s7/k16g8r8g8k8g60y8-g604000-k101010-re87878-ybc8c00/sett.png)|
+| [Welsh National (Fashion)](/setts/s7/k4g2r2g2k2g15y2~g604000-k101010-re87878-ybc8c00~x4/)|
+|![Welsh National (Fashion) example sett](/setts/s7/k4g2r2g2k2g15y2~g604000-k101010-re87878-ybc8c00~x4/sett.png)|

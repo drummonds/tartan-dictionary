@@ -6,7 +6,7 @@ GRGRGRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g8r8g26r26g8r72y8-g00643c-re86000-ydc943c/tartan.png)
+![Woven sample](/setts/s7/g4r4g13r13g4r36y4~g00643c-re86000-ydc943c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRGRY
 
 | Tartans |
 |---------------|
-| [Wolfe (Name)](/setts/s7/g8r8g26r26g8r72y8-g00643c-re86000-ydc943c/)|
-|![Wolfe (Name) example sett](/setts/s7/g8r8g26r26g8r72y8-g00643c-re86000-ydc943c/sett.png)|
+| [Wolfe (Name)](/setts/s7/g4r4g13r13g4r36y4~g00643c-re86000-ydc943c~x2/)|
+|![Wolfe (Name) example sett](/setts/s7/g4r4g13r13g4r36y4~g00643c-re86000-ydc943c~x2/sett.png)|

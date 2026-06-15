@@ -16,5 +16,5 @@ GKGKGBGRGBGKR
 
 | Tartans |
 |---------------|
-| [Moncrieff of Atholl](/setts/s13/g36k4g8k8g8b28g36r8g36b36g28k4r12-b2c2c80-g006818-k101010-rc80000/)|
-|![Moncrieff of Atholl example sett](/setts/s13/g36k4g8k8g8b28g36r8g36b36g28k4r12-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Moncrieff of Atholl](/setts/s13/g9k1g2k2g2b7g9r2g9b9g7k1r3~b2c2c80-g006818-k101010-rc80000~x4/)|
+|![Moncrieff of Atholl example sett](/setts/s13/g9k1g2k2g2b7g9r2g9b9g7k1r3~b2c2c80-g006818-k101010-rc80000~x4/sett.png)|

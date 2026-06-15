@@ -6,7 +6,7 @@ YKYKRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y16k6y8k4r60y12-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/y8k3y4k2r30y6~k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YKYKRY
 
 | Tartans |
 |---------------|
-| [Masai Shuka 16 (Artefact)](/setts/s6/y16k6y8k4r60y12-k101010-rc80000-ye8c000/)|
-|![Masai Shuka 16 (Artefact) example sett](/setts/s6/y16k6y8k4r60y12-k101010-rc80000-ye8c000/sett.png)|
+| [Masai Shuka 16 (Artefact)](/setts/s6/y8k3y4k2r30y6~k101010-rc80000-ye8c000~x2/)|
+|![Masai Shuka 16 (Artefact) example sett](/setts/s6/y8k3y4k2r30y6~k101010-rc80000-ye8c000~x2/sett.png)|

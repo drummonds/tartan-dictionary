@@ -16,5 +16,5 @@ BRWBWRWBWRBK
 
 | Tartans |
 |---------------|
-| [U.S. Postal Service](/setts/s12/b60r30w12ba12w12r12w12ba12w12r30b60k12-b2888c4-ba1c0070-k101010-rc80000-wfcfcfc/)|
-|![U.S. Postal Service example sett](/setts/s12/b60r30w12ba12w12r12w12ba12w12r30b60k12-b2888c4-ba1c0070-k101010-rc80000-wfcfcfc/sett.png)|
+| [U.S. Postal Service](/setts/s12/b10r5w2ba2w2r2w2ba2w2r5b10k2~b2888c4-ba1c0070-k101010-rc80000-wfcfcfc~x6/)|
+|![U.S. Postal Service example sett](/setts/s12/b10r5w2ba2w2r2w2ba2w2r5b10k2~b2888c4-ba1c0070-k101010-rc80000-wfcfcfc~x6/sett.png)|

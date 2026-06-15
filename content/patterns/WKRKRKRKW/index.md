@@ -16,7 +16,7 @@ WKRKRKRKW
 
 | Tartans |
 |---------------|
-| [Bertea, A H (Personal)](/setts/s9/w4k6r20k10r6k10r30k70w2-k101010-rdc0000-wffffff/)|
-|![Bertea, A H (Personal) example sett](/setts/s9/w4k6r20k10r6k10r30k70w2-k101010-rdc0000-wffffff/sett.png)|
-| [Bertea, A H (Personal)](/setts/s9/w4k6r20k10r6k10r30k70w2-k101010-rc80000-wfcfcfc/)|
-|![Bertea, A H (Personal) example sett](/setts/s9/w4k6r20k10r6k10r30k70w2-k101010-rc80000-wfcfcfc/sett.png)|
+| [Bertea, A H (Personal)](/setts/s9/w2k3r10k5r3k5r15k35w1~k101010-rdc0000-wffffff~x2/)|
+|![Bertea, A H (Personal) example sett](/setts/s9/w2k3r10k5r3k5r15k35w1~k101010-rdc0000-wffffff~x2/sett.png)|
+| [Bertea, A H (Personal)](/setts/s9/w2k3r10k5r3k5r15k35w1~k101010-rc80000-wfcfcfc~x2/)|
+|![Bertea, A H (Personal) example sett](/setts/s9/w2k3r10k5r3k5r15k35w1~k101010-rc80000-wfcfcfc~x2/sett.png)|

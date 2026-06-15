@@ -16,5 +16,5 @@ GKGKGKBKWKBYKGKR
 
 | Tartans |
 |---------------|
-| [Cockburn - 1830 (Clan)](/setts/s16/g40k4g4k4g4k4b16k4w4k4b4y4k4g16k4r4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Cockburn - 1830 (Clan) example sett](/setts/s16/g40k4g4k4g4k4b16k4w4k4b4y4k4g16k4r4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Cockburn - 1830 (Clan)](/setts/s16/g10k1g1k1g1k1b4k1w1k1b1y1k1g4k1r1~b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/)|
+|![Cockburn - 1830 (Clan) example sett](/setts/s16/g10k1g1k1g1k1b4k1w1k1b1y1k1g4k1r1~b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000~x4/sett.png)|

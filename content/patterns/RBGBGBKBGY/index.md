@@ -16,7 +16,7 @@ RBGBGBKBGY
 
 | Tartans |
 |---------------|
-| [Ofally, County](/setts/s10/r12b4g10b36g20b4k56b4g20y6-b1c0070-g006818-k101010-rd05054-yd09800/)|
-|![Ofally, County example sett](/setts/s10/r12b4g10b36g20b4k56b4g20y6-b1c0070-g006818-k101010-rd05054-yd09800/sett.png)|
-| [Offally](/setts/s10/r14b4g10b36g20b4k48b4g20y6-b304080-g008000-k000000-r900030-yf0c000/)|
-|![Offally example sett](/setts/s10/r14b4g10b36g20b4k48b4g20y6-b304080-g008000-k000000-r900030-yf0c000/sett.png)|
+| [Ofally, County](/setts/s10/r6b2g5b18g10b2k28b2g10y3~b1c0070-g006818-k101010-rd05054-yd09800~x2/)|
+|![Ofally, County example sett](/setts/s10/r6b2g5b18g10b2k28b2g10y3~b1c0070-g006818-k101010-rd05054-yd09800~x2/sett.png)|
+| [Offally](/setts/s10/r7b2g5b18g10b2k24b2g10y3~b304080-g008000-k000000-r900030-yf0c000~x2/)|
+|![Offally example sett](/setts/s10/r7b2g5b18g10b2k24b2g10y3~b304080-g008000-k000000-r900030-yf0c000~x2/sett.png)|

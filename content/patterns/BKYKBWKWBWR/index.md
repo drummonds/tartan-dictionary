@@ -16,7 +16,7 @@ BKYKBWKWBWR
 
 | Tartans |
 |---------------|
-| [Historic Caledonian Railway Enthusiasts', The](/setts/s11/b12k2y12k2b56w2k4w2b32w2r10-b576982-k120a01-r861031-wddd5af-yef8f06/)|
-|![Historic Caledonian Railway Enthusiasts', The example sett](/setts/s11/b12k2y12k2b56w2k4w2b32w2r10-b576982-k120a01-r861031-wddd5af-yef8f06/sett.png)|
-| [Caledonian Railway (Commemorative)](/setts/s11/b12k2y12k2b56w2k4w2b32w2r10-b1474b4-k101010-rc80000-we8ccb8-ybc8c00/)|
-|![Caledonian Railway (Commemorative) example sett](/setts/s11/b12k2y12k2b56w2k4w2b32w2r10-b1474b4-k101010-rc80000-we8ccb8-ybc8c00/sett.png)|
+| [Historic Caledonian Railway Enthusiasts', The](/setts/s11/b6k1y6k1b28w1k2w1b16w1r5~b576982-k120a01-r861031-wddd5af-yef8f06~x2/)|
+|![Historic Caledonian Railway Enthusiasts', The example sett](/setts/s11/b6k1y6k1b28w1k2w1b16w1r5~b576982-k120a01-r861031-wddd5af-yef8f06~x2/sett.png)|
+| [Caledonian Railway (Commemorative)](/setts/s11/b6k1y6k1b28w1k2w1b16w1r5~b1474b4-k101010-rc80000-we8ccb8-ybc8c00~x2/)|
+|![Caledonian Railway (Commemorative) example sett](/setts/s11/b6k1y6k1b28w1k2w1b16w1r5~b1474b4-k101010-rc80000-we8ccb8-ybc8c00~x2/sett.png)|

@@ -16,5 +16,5 @@ GWBYBWYWBY
 
 | Tartans |
 |---------------|
-| [O'Monaghan (Personal)](/setts/s10/g50w4b8y14b8w4ya50w4b8y14-b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00/)|
-|![O'Monaghan (Personal) example sett](/setts/s10/g50w4b8y14b8w4ya50w4b8y14-b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00/sett.png)|
+| [O'Monaghan (Personal)](/setts/s10/g25w2b4y7b4w2ya25w2b4y7~b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00~x2/)|
+|![O'Monaghan (Personal) example sett](/setts/s10/g25w2b4y7b4w2ya25w2b4y7~b2888c4-g789484-wfcfcfc-yd87c00-yabc8c00~x2/sett.png)|

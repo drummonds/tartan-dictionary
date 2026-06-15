@@ -16,5 +16,5 @@ BBKBKBKBBBBBKBKBKB
 
 | Tartans |
 |---------------|
-| [LS Curling (Corporate)](/setts/s18/b4b8k4ba50k8ba4k8ba20b8ba4b8ba22k4ba4k48b8k4b4-b2c2c80-ba1c0070-k101010/)|
-|![LS Curling (Corporate) example sett](/setts/s18/b4b8k4ba50k8ba4k8ba20b8ba4b8ba22k4ba4k48b8k4b4-b2c2c80-ba1c0070-k101010/sett.png)|
+| [LS Curling (Corporate)](/setts/s18/b2b4k2ba25k4ba2k4ba10b4ba2b4ba11k2ba2k24b4k2b2~b2c2c80-ba1c0070-k101010~x2/)|
+|![LS Curling (Corporate) example sett](/setts/s18/b2b4k2ba25k4ba2k4ba10b4ba2b4ba11k2ba2k24b4k2b2~b2c2c80-ba1c0070-k101010~x2/sett.png)|

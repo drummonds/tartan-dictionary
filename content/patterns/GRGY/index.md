@@ -6,7 +6,7 @@ GRGY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y60g60r2ga32-g604c16-ga64674c-r9f2623-ycfaf59/tartan.png)
+![Woven sample](/setts/s4/y30g30r1ga16~g604c16-ga64674c-r9f2623-ycfaf59~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRGY
 
 | Tartans |
 |---------------|
-| [Barber Family 2011 (Personal)](/setts/s4/y60g60r2ga32-g604c16-ga64674c-r9f2623-ycfaf59/)|
-|![Barber Family 2011 (Personal) example sett](/setts/s4/y60g60r2ga32-g604c16-ga64674c-r9f2623-ycfaf59/sett.png)|
-| [O'Neill, Red (Corporate?)](/setts/s4/g18r40g92y10-g006818-rb84c00-y48a4c0/)|
-|![O'Neill, Red (Corporate?) example sett](/setts/s4/g18r40g92y10-g006818-rb84c00-y48a4c0/sett.png)|
+| [Barber Family 2011 (Personal)](/setts/s4/y30g30r1ga16~g604c16-ga64674c-r9f2623-ycfaf59~x2/)|
+|![Barber Family 2011 (Personal) example sett](/setts/s4/y30g30r1ga16~g604c16-ga64674c-r9f2623-ycfaf59~x2/sett.png)|
+| [O'Neill, Red (Corporate?)](/setts/s4/g9r20g46y5~g006818-rb84c00-y48a4c0~x2/)|
+|![O'Neill, Red (Corporate?) example sett](/setts/s4/g9r20g46y5~g006818-rb84c00-y48a4c0~x2/sett.png)|

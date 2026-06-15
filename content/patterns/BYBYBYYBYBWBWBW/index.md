@@ -16,5 +16,5 @@ BYBYBYYBYBWBWBW
 
 | Tartans |
 |---------------|
-| [UPS No.1](/setts/s15/b8y120b4y30b4y4ya4b4y16b8w2b4w4b4w2-b391614-wfcfa93-yfad183-yadf982e/)|
-|![UPS No.1 example sett](/setts/s15/b8y120b4y30b4y4ya4b4y16b8w2b4w4b4w2-b391614-wfcfa93-yfad183-yadf982e/sett.png)|
+| [UPS No.1](/setts/s15/b4y60b2y15b2y2ya2b2y8b4w1b2w2b2w1~b391614-wfcfa93-yfad183-yadf982e~x2/)|
+|![UPS No.1 example sett](/setts/s15/b4y60b2y15b2y2ya2b2y8b4w1b2w2b2w1~b391614-wfcfa93-yfad183-yadf982e~x2/sett.png)|

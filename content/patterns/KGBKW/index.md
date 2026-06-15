@@ -6,7 +6,7 @@ KGBKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k8g6b36k36w4-b4c1864-g004c00-k000000-wc8c8c8/tartan.png)
+![Woven sample](/setts/s5/k4g3b18k18w2~b4c1864-g004c00-k000000-wc8c8c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGBKW
 
 | Tartans |
 |---------------|
-| [Wcwm 1106-2](/setts/s5/k8g6b36k36w4-b4c1864-g004c00-k000000-wc8c8c8/)|
-|![Wcwm 1106-2 example sett](/setts/s5/k8g6b36k36w4-b4c1864-g004c00-k000000-wc8c8c8/sett.png)|
+| [Wcwm 1106-2](/setts/s5/k4g3b18k18w2~b4c1864-g004c00-k000000-wc8c8c8~x2/)|
+|![Wcwm 1106-2 example sett](/setts/s5/k4g3b18k18w2~b4c1864-g004c00-k000000-wc8c8c8~x2/sett.png)|

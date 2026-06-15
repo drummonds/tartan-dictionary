@@ -16,5 +16,5 @@ RWKGYKBRBRGRKGKRGRBRBKYGKW
 
 | Tartans |
 |---------------|
-| [Wilson's No.226](/setts/s26/r50w8k8g50y6k30b26r10b10r30g8r10k4g6k4r10g8r30b10r10b26k30y6g50k8w8-b5c8ca8-g006818-k101010-rc80000-we0e0e0-yd09800/)|
-|![Wilson's No.226 example sett](/setts/s26/r50w8k8g50y6k30b26r10b10r30g8r10k4g6k4r10g8r30b10r10b26k30y6g50k8w8-b5c8ca8-g006818-k101010-rc80000-we0e0e0-yd09800/sett.png)|
+| [Wilson's No.226](/setts/s26/r25w4k4g25y3k15b13r5b5r15g4r5k2g3k2r5g4r15b5r5b13k15y3g25k4w4~b5c8ca8-g006818-k101010-rc80000-we0e0e0-yd09800~x2/)|
+|![Wilson's No.226 example sett](/setts/s26/r25w4k4g25y3k15b13r5b5r15g4r5k2g3k2r5g4r15b5r5b13k15y3g25k4w4~b5c8ca8-g006818-k101010-rc80000-we0e0e0-yd09800~x2/sett.png)|

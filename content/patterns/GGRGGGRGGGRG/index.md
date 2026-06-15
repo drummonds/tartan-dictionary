@@ -16,5 +16,5 @@ GGRGGGRGGGRG
 
 | Tartans |
 |---------------|
-| [Houston](/setts/s12/g4ga2r4ga2g4ga2r4ga64gb4ga24r4ga4-g008000-ga908000-gb604000-r906030/)|
-|![Houston example sett](/setts/s12/g4ga2r4ga2g4ga2r4ga64gb4ga24r4ga4-g008000-ga908000-gb604000-r906030/sett.png)|
+| [Houston](/setts/s12/g2ga1r2ga1g2ga1r2ga32gb2ga12r2ga2~g008000-ga908000-gb604000-r906030~x2/)|
+|![Houston example sett](/setts/s12/g2ga1r2ga1g2ga1r2ga32gb2ga12r2ga2~g008000-ga908000-gb604000-r906030~x2/sett.png)|

@@ -16,5 +16,5 @@ BRBKGWGWGKBR
 
 | Tartans |
 |---------------|
-| [Sinclair Dress (Dance)](/setts/s12/b8r4b62k20g8w42g4w42g8k20b62r4-b38409c-g006818-k101010-rc80000-we0e0e0/)|
-|![Sinclair Dress (Dance) example sett](/setts/s12/b8r4b62k20g8w42g4w42g8k20b62r4-b38409c-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Sinclair Dress (Dance)](/setts/s12/b4r2b31k10g4w21g2w21g4k10b31r2~b38409c-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Sinclair Dress (Dance) example sett](/setts/s12/b4r2b31k10g4w21g2w21g4k10b31r2~b38409c-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

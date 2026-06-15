@@ -16,5 +16,5 @@ RRKRKRRRRYRYR
 
 | Tartans |
 |---------------|
-| [Princess Mary (Royal)](/setts/s13/r96r8k8r12k4r4r4r4r16y8r4y8r4-k101010-r880000-yb8b8b8/)|
-|![Princess Mary (Royal) example sett](/setts/s13/r96r8k8r12k4r4r4r4r16y8r4y8r4-k101010-r880000-yb8b8b8/sett.png)|
+| [Princess Mary (Royal)](/setts/s13/r24r2k2r3k1r1r1r1r4y2r1y2r1~k101010-r880000-yb8b8b8~x4/)|
+|![Princess Mary (Royal) example sett](/setts/s13/r24r2k2r3k1r1r1r1r4y2r1y2r1~k101010-r880000-yb8b8b8~x4/sett.png)|

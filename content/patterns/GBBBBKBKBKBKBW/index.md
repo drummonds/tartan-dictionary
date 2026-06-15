@@ -16,5 +16,5 @@ GBBBBKBKBKBKBW
 
 | Tartans |
 |---------------|
-| [Mighty Men](/setts/s14/g80b2ba8b2ba8k8bb2k2bb2k2bb2k2bb4w8-b483046-ba310332-bb5f0608-g0b611a-k101010-wffffff/)|
-|![Mighty Men example sett](/setts/s14/g80b2ba8b2ba8k8bb2k2bb2k2bb2k2bb4w8-b483046-ba310332-bb5f0608-g0b611a-k101010-wffffff/sett.png)|
+| [Mighty Men](/setts/s14/g40b1ba4b1ba4k4bb1k1bb1k1bb1k1bb2w4~b483046-ba310332-bb5f0608-g0b611a-k101010-wffffff~x2/)|
+|![Mighty Men example sett](/setts/s14/g40b1ba4b1ba4k4bb1k1bb1k1bb1k1bb2w4~b483046-ba310332-bb5f0608-g0b611a-k101010-wffffff~x2/sett.png)|

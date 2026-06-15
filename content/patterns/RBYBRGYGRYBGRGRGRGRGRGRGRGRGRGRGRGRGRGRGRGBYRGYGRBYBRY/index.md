@@ -16,5 +16,5 @@ RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY
 
 | Tartans |
 |---------------|
-| [MacDonald of Staffa #6](/setts/s54/r34b2y20b2r8g20y2g22r22y4b20g20r4g2r22g2r4g22r20g2r84g2r4g2r4g2r84g2r4g2r4g2r4g2r20g22r4g2r22g2r4g20b20y4r22g22y2g20r8b2y20b2r34y4-b1c0070-g006818-r880000-yb8b8b8/)|
-|![MacDonald of Staffa #6 example sett](/setts/s54/r34b2y20b2r8g20y2g22r22y4b20g20r4g2r22g2r4g22r20g2r84g2r4g2r4g2r84g2r4g2r4g2r4g2r20g22r4g2r22g2r4g20b20y4r22g22y2g20r8b2y20b2r34y4-b1c0070-g006818-r880000-yb8b8b8/sett.png)|
+| [MacDonald of Staffa #6](/setts/s54/r17b1y10b1r4g10y1g11r11y2b10g10r2g1r11g1r2g11r10g1r42g1r2g1r2g1r42g1r2g1r2g1r2g1r10g11r2g1r11g1r2g10b10y2r11g11y1g10r4b1y10b1r17y2~b1c0070-g006818-r880000-yb8b8b8~x2/)|
+|![MacDonald of Staffa #6 example sett](/setts/s54/r17b1y10b1r4g10y1g11r11y2b10g10r2g1r11g1r2g11r10g1r42g1r2g1r2g1r42g1r2g1r2g1r2g1r10g11r2g1r11g1r2g10b10y2r11g11y1g10r4b1y10b1r17y2~b1c0070-g006818-r880000-yb8b8b8~x2/sett.png)|

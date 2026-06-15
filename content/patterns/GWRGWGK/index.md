@@ -6,7 +6,7 @@ GWRGWGK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g18w55r19g20w2g20k5-g006818-k101010-r888888-wffffff/tartan.png)
+![Woven sample](/setts/s7/g18w55r19g20w2g20k5~g006818-k101010-r888888-wffffff/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GWRGWGK
 
 | Tartans |
 |---------------|
-| [Michigan State University](/setts/s7/g18w55r19g20w2g20k5-g006818-k101010-r888888-wffffff/)|
-|![Michigan State University example sett](/setts/s7/g18w55r19g20w2g20k5-g006818-k101010-r888888-wffffff/sett.png)|
-| [Michigan State University (Corporate](/setts/s7/g18w55r19g20w2g20k5-g006818-k101010-r888888-wfcfcfc/)|
-|![Michigan State University (Corporate example sett](/setts/s7/g18w55r19g20w2g20k5-g006818-k101010-r888888-wfcfcfc/sett.png)|
+| [Michigan State University](/setts/s7/g18w55r19g20w2g20k5~g006818-k101010-r888888-wffffff/)|
+|![Michigan State University example sett](/setts/s7/g18w55r19g20w2g20k5~g006818-k101010-r888888-wffffff/sett.png)|
+| [Michigan State University (Corporate](/setts/s7/g18w55r19g20w2g20k5~g006818-k101010-r888888-wfcfcfc/)|
+|![Michigan State University (Corporate example sett](/setts/s7/g18w55r19g20w2g20k5~g006818-k101010-r888888-wfcfcfc/sett.png)|

@@ -16,5 +16,5 @@ RWBYBYBYRYY
 
 | Tartans |
 |---------------|
-| [Tasmania (District)](/setts/s11/r10w4b48y4b4y4b12y16r12y16ya8-b2c2c80-r901c38-wf4c4c4-ya0a0a0-yac4bc68/)|
-|![Tasmania (District) example sett](/setts/s11/r10w4b48y4b4y4b12y16r12y16ya8-b2c2c80-r901c38-wf4c4c4-ya0a0a0-yac4bc68/sett.png)|
+| [Tasmania (District)](/setts/s11/r5w2b24y2b2y2b6y8r6y8ya4~b2c2c80-r901c38-wf4c4c4-ya0a0a0-yac4bc68~x2/)|
+|![Tasmania (District) example sett](/setts/s11/r5w2b24y2b2y2b6y8r6y8ya4~b2c2c80-r901c38-wf4c4c4-ya0a0a0-yac4bc68~x2/sett.png)|

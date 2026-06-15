@@ -16,5 +16,5 @@ BYKRBYBBY
 
 | Tartans |
 |---------------|
-| [US Air Force Reserve Pipe Band](/setts/s9/b88y6k40r6b16ya68b6b4ya30-b1c0070-k101010-r880000-ybc8c00-ya48a4c0/)|
-|![US Air Force Reserve Pipe Band example sett](/setts/s9/b88y6k40r6b16ya68b6b4ya30-b1c0070-k101010-r880000-ybc8c00-ya48a4c0/sett.png)|
+| [US Air Force Reserve Pipe Band](/setts/s9/b44y3k20r3b8ya34b3b2ya15~b1c0070-k101010-r880000-ybc8c00-ya48a4c0~x2/)|
+|![US Air Force Reserve Pipe Band example sett](/setts/s9/b44y3k20r3b8ya34b3b2ya15~b1c0070-k101010-r880000-ybc8c00-ya48a4c0~x2/sett.png)|

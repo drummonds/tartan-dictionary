@@ -16,5 +16,5 @@ KWKWKWRWKWKWKY
 
 | Tartans |
 |---------------|
-| [Summer Spirit](/setts/s14/y4k2w18k16w56k4w4r4w4k4w56k16w18k2-k101010-rc80000-wfcfcec-ye8c000/)|
-|![Summer Spirit example sett](/setts/s14/y4k2w18k16w56k4w4r4w4k4w56k16w18k2-k101010-rc80000-wfcfcec-ye8c000/sett.png)|
+| [Summer Spirit](/setts/s14/y2k1w9k8w28k2w2r2w2k2w28k8w9k1~k101010-rc80000-wfcfcec-ye8c000~x2/)|
+|![Summer Spirit example sett](/setts/s14/y2k1w9k8w28k2w2r2w2k2w28k8w9k1~k101010-rc80000-wfcfcec-ye8c000~x2/sett.png)|

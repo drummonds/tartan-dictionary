@@ -6,7 +6,7 @@ KRYRKRKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rdc0000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k4r4y2r41k4r4k12w2~k101010-rdc0000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRYRKRKW
 
 | Tartans |
 |---------------|
-| [Aberdeen Football Club (2002)](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Aberdeen Football Club (2002) example sett](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Aberdeen F. C. (2002) (Sports)](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rc80000-wfcfcfc-yfccc00/)|
-|![Aberdeen F. C. (2002) (Sports) example sett](/setts/s8/k8r8y4r82k8r8k24w4-k101010-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Aberdeen Football Club (2002)](/setts/s8/k4r4y2r41k4r4k12w2~k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Aberdeen Football Club (2002) example sett](/setts/s8/k4r4y2r41k4r4k12w2~k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [Aberdeen F. C. (2002) (Sports)](/setts/s8/k4r4y2r41k4r4k12w2~k101010-rc80000-wfcfcfc-yfccc00~x2/)|
+|![Aberdeen F. C. (2002) (Sports) example sett](/setts/s8/k4r4y2r41k4r4k12w2~k101010-rc80000-wfcfcfc-yfccc00~x2/sett.png)|

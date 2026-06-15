@@ -16,5 +16,5 @@ RBRBRRRRRRBR
 
 | Tartans |
 |---------------|
-| [Drumbeg](/setts/s12/r12b3r3ba4r16ra3r3ra3r3ra16ba52r4-b5c5c5c-ba14283c-rb07430-ra880000/)|
-|![Drumbeg example sett](/setts/s12/r12b3r3ba4r16ra3r3ra3r3ra16ba52r4-b5c5c5c-ba14283c-rb07430-ra880000/sett.png)|
+| [Drumbeg](/setts/s12/r12b3r3ba4r16ra3r3ra3r3ra16ba52r4~b5c5c5c-ba14283c-rb07430-ra880000/)|
+|![Drumbeg example sett](/setts/s12/r12b3r3ba4r16ra3r3ra3r3ra16ba52r4~b5c5c5c-ba14283c-rb07430-ra880000/sett.png)|

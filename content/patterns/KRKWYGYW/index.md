@@ -6,7 +6,7 @@ KRKWYGYW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/tartan.png)
+![Woven sample](/setts/s8/k3r1k18w1y18g1y1w2~g006818-k101010-rc80000-wfcfcfc-ya08858~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKWYGYW
 
 | Tartans |
 |---------------|
-| [Dunlop Hunting](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/)|
-|![Dunlop Hunting example sett](/setts/s8/k12r4k72w4y72g4y4w8-g006818-k101010-rc80000-wfcfcfc-ya08858/sett.png)|
+| [Dunlop Hunting](/setts/s8/k3r1k18w1y18g1y1w2~g006818-k101010-rc80000-wfcfcfc-ya08858~x4/)|
+|![Dunlop Hunting example sett](/setts/s8/k3r1k18w1y18g1y1w2~g006818-k101010-rc80000-wfcfcfc-ya08858~x4/sett.png)|

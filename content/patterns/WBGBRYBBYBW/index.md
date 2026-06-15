@@ -16,5 +16,5 @@ WBGBRYBBYBW
 
 | Tartans |
 |---------------|
-| [Wee Course, Blairgowrie Golf Club, The](/setts/s11/w6b60g6ba6r6y6ba16b6y6ba6w6-b5c5c5c-ba000048-g003c14-r960028-wffffff-yd09800/)|
-|![Wee Course, Blairgowrie Golf Club, The example sett](/setts/s11/w6b60g6ba6r6y6ba16b6y6ba6w6-b5c5c5c-ba000048-g003c14-r960028-wffffff-yd09800/sett.png)|
+| [Wee Course, Blairgowrie Golf Club, The](/setts/s11/w3b30g3ba3r3y3ba8b3y3ba3w3~b5c5c5c-ba000048-g003c14-r960028-wffffff-yd09800~x2/)|
+|![Wee Course, Blairgowrie Golf Club, The example sett](/setts/s11/w3b30g3ba3r3y3ba8b3y3ba3w3~b5c5c5c-ba000048-g003c14-r960028-wffffff-yd09800~x2/sett.png)|

@@ -16,5 +16,5 @@ GKGRKGKGKR
 
 | Tartans |
 |---------------|
-| [MacArthur-Fox 2000 (Personal)](/setts/s10/g10k4g60r4k20g10k4g10k20r4-g5c6428-k101010-rc80000/)|
-|![MacArthur-Fox 2000 (Personal) example sett](/setts/s10/g10k4g60r4k20g10k4g10k20r4-g5c6428-k101010-rc80000/sett.png)|
+| [MacArthur-Fox 2000 (Personal)](/setts/s10/g5k2g30r2k10g5k2g5k10r2~g5c6428-k101010-rc80000~x2/)|
+|![MacArthur-Fox 2000 (Personal) example sett](/setts/s10/g5k2g30r2k10g5k2g5k10r2~g5c6428-k101010-rc80000~x2/sett.png)|

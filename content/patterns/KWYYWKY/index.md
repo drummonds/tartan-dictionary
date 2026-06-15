@@ -6,7 +6,7 @@ KWYYWKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k60w4y8ya20w18k6y10-k101010-wffffff-ya0a0a0-yad87c00/tartan.png)
+![Woven sample](/setts/s7/k30w2y4ya10w9k3y5~k101010-wffffff-ya0a0a0-yad87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWYYWKY
 
 | Tartans |
 |---------------|
-| [Virginia Commonwealth University](/setts/s7/k60w4y8ya20w18k6y10-k101010-wffffff-ya0a0a0-yad87c00/)|
-|![Virginia Commonwealth University example sett](/setts/s7/k60w4y8ya20w18k6y10-k101010-wffffff-ya0a0a0-yad87c00/sett.png)|
+| [Virginia Commonwealth University](/setts/s7/k30w2y4ya10w9k3y5~k101010-wffffff-ya0a0a0-yad87c00~x2/)|
+|![Virginia Commonwealth University example sett](/setts/s7/k30w2y4ya10w9k3y5~k101010-wffffff-ya0a0a0-yad87c00~x2/sett.png)|

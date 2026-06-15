@@ -16,5 +16,5 @@ GYRYRYBYBYRYRYGR
 
 | Tartans |
 |---------------|
-| [Stevenson (Personal)](/setts/s16/g48y8r16y8r16y8b48y8b48y8r16y8r16y8g48r8-b1c0070-g006818-r880000-yd8b000/)|
-|![Stevenson (Personal) example sett](/setts/s16/g48y8r16y8r16y8b48y8b48y8r16y8r16y8g48r8-b1c0070-g006818-r880000-yd8b000/sett.png)|
+| [Stevenson (Personal)](/setts/s16/g6y1r2y1r2y1b6y1b6y1r2y1r2y1g6r1~b1c0070-g006818-r880000-yd8b000~x8/)|
+|![Stevenson (Personal) example sett](/setts/s16/g6y1r2y1r2y1b6y1b6y1r2y1r2y1g6r1~b1c0070-g006818-r880000-yd8b000~x8/sett.png)|

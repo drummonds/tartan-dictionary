@@ -16,5 +16,5 @@ RYBWBWBGBBBW
 
 | Tartans |
 |---------------|
-| [Skye Highland Outfitters (Corporate)](/setts/s12/r50y10b12w4b4w4b4g20ba20b2ba6w4-b2c2c80-ba780078-g006818-ra00000-wc0c0c0-ybc8c00/)|
-|![Skye Highland Outfitters (Corporate) example sett](/setts/s12/r50y10b12w4b4w4b4g20ba20b2ba6w4-b2c2c80-ba780078-g006818-ra00000-wc0c0c0-ybc8c00/sett.png)|
+| [Skye Highland Outfitters (Corporate)](/setts/s12/r25y5b6w2b2w2b2g10ba10b1ba3w2~b2c2c80-ba780078-g006818-ra00000-wc0c0c0-ybc8c00~x2/)|
+|![Skye Highland Outfitters (Corporate) example sett](/setts/s12/r25y5b6w2b2w2b2g10ba10b1ba3w2~b2c2c80-ba780078-g006818-ra00000-wc0c0c0-ybc8c00~x2/sett.png)|

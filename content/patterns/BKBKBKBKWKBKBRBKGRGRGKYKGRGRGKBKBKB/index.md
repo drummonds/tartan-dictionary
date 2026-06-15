@@ -16,7 +16,7 @@ BKBKBKBKWKBKBRBKGRGRGKYKGRGRGKBKBKB
 
 | Tartans |
 |---------------|
-| [Unidentified Wilson sample](/setts/s35/b52k6b6k6b6k48b52k2w10k2b52k48b34r52b34k48g30r8g8r8g16k2y10k2g16r8g8r8g30k48b6k6b6k6b52-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Unidentified Wilson sample example sett](/setts/s35/b52k6b6k6b6k48b52k2w10k2b52k48b34r52b34k48g30r8g8r8g16k2y10k2g16r8g8r8g30k48b6k6b6k6b52-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Unidentified, Wilson sample.](/setts/s35/b52k6b6k6b6k48b52k2w10k2b52k48b34r52b34k48g30r8g8r8g16k2y10k2g16r8g8r8g30k48b6k6b6k6b52-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Unidentified, Wilson sample. example sett](/setts/s35/b52k6b6k6b6k48b52k2w10k2b52k48b34r52b34k48g30r8g8r8g16k2y10k2g16r8g8r8g30k48b6k6b6k6b52-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Unidentified Wilson sample](/setts/s35/b26k3b3k3b3k24b26k1w5k1b26k24b17r26b17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24b3k3b3k3b26~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Unidentified Wilson sample example sett](/setts/s35/b26k3b3k3b3k24b26k1w5k1b26k24b17r26b17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24b3k3b3k3b26~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [Unidentified, Wilson sample.](/setts/s35/b26k3b3k3b3k24b26k1w5k1b26k24b17r26b17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24b3k3b3k3b26~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Unidentified, Wilson sample. example sett](/setts/s35/b26k3b3k3b3k24b26k1w5k1b26k24b17r26b17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24b3k3b3k3b26~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

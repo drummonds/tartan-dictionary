@@ -16,5 +16,5 @@ BGBRBGWGBRBG
 
 | Tartans |
 |---------------|
-| [Unidentified (1996)](/setts/s12/g4b2r32b24g32w2g32b24r32b2g4b2-b202060-g006818-rc80000-wfcfcfc/)|
-|![Unidentified (1996) example sett](/setts/s12/g4b2r32b24g32w2g32b24r32b2g4b2-b202060-g006818-rc80000-wfcfcfc/sett.png)|
+| [Unidentified (1996)](/setts/s12/g2b1r16b12g16w1g16b12r16b1g2b1~b202060-g006818-rc80000-wfcfcfc~x2/)|
+|![Unidentified (1996) example sett](/setts/s12/g2b1r16b12g16w1g16b12r16b1g2b1~b202060-g006818-rc80000-wfcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ GBBBBBGKGKGRGR
 
 | Tartans |
 |---------------|
-| [Lochcarron Hunting](/setts/s14/g6b20ba6b4ba4b4g6k10g4k10g44r4g6r4-b000064-ba346488-g004c00-k000000-r8c0000/)|
-|![Lochcarron Hunting example sett](/setts/s14/g6b20ba6b4ba4b4g6k10g4k10g44r4g6r4-b000064-ba346488-g004c00-k000000-r8c0000/sett.png)|
+| [Lochcarron Hunting](/setts/s14/g3b10ba3b2ba2b2g3k5g2k5g22r2g3r2~b000064-ba346488-g004c00-k000000-r8c0000~x2/)|
+|![Lochcarron Hunting example sett](/setts/s14/g3b10ba3b2ba2b2g3k5g2k5g22r2g3r2~b000064-ba346488-g004c00-k000000-r8c0000~x2/sett.png)|

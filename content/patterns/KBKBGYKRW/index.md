@@ -16,5 +16,5 @@ KBKBGYKRW
 
 | Tartans |
 |---------------|
-| [McCuaig (Glenelg and the Western Isles) Hunting](/setts/s9/k40b4k4b8g8y4k80r4w6-b2c2c80-g003c14-k101010-rc82828-wffffff-ye8c000/)|
-|![McCuaig (Glenelg and the Western Isles) Hunting example sett](/setts/s9/k40b4k4b8g8y4k80r4w6-b2c2c80-g003c14-k101010-rc82828-wffffff-ye8c000/sett.png)|
+| [McCuaig (Glenelg and the Western Isles) Hunting](/setts/s9/k20b2k2b4g4y2k40r2w3~b2c2c80-g003c14-k101010-rc82828-wffffff-ye8c000~x2/)|
+|![McCuaig (Glenelg and the Western Isles) Hunting example sett](/setts/s9/k20b2k2b4g4y2k40r2w3~b2c2c80-g003c14-k101010-rc82828-wffffff-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ BGBRWGWGWRBRG
 
 | Tartans |
 |---------------|
-| [Saint John New Brunswick](/setts/s13/b2g24b6r30w30ga6w2ga6w30r30b24r4ga2-b0099cc-g5c3317-ga006b54-raf1e29-wffffff/)|
-|![Saint John New Brunswick example sett](/setts/s13/b2g24b6r30w30ga6w2ga6w30r30b24r4ga2-b0099cc-g5c3317-ga006b54-raf1e29-wffffff/sett.png)|
+| [Saint John New Brunswick](/setts/s13/b1g12b3r15w15ga3w1ga3w15r15b12r2ga1~b0099cc-g5c3317-ga006b54-raf1e29-wffffff~x2/)|
+|![Saint John New Brunswick example sett](/setts/s13/b1g12b3r15w15ga3w1ga3w15r15b12r2ga1~b0099cc-g5c3317-ga006b54-raf1e29-wffffff~x2/sett.png)|

@@ -16,5 +16,5 @@ RBRBKYRYYR
 
 | Tartans |
 |---------------|
-| [Hard Rock Cafe (Corporate)](/setts/s10/r8b8r8b24k64y30ra2y14ya2ra2-b441800-k101010-r901c38-rae86000-ya08858-yabc8c00/)|
-|![Hard Rock Cafe (Corporate) example sett](/setts/s10/r8b8r8b24k64y30ra2y14ya2ra2-b441800-k101010-r901c38-rae86000-ya08858-yabc8c00/sett.png)|
+| [Hard Rock Cafe (Corporate)](/setts/s10/r4b4r4b12k32y15ra1y7ya1ra1~b441800-k101010-r901c38-rae86000-ya08858-yabc8c00~x2/)|
+|![Hard Rock Cafe (Corporate) example sett](/setts/s10/r4b4r4b12k32y15ra1y7ya1ra1~b441800-k101010-r901c38-rae86000-ya08858-yabc8c00~x2/sett.png)|

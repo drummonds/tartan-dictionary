@@ -16,5 +16,5 @@ GWGWGWGWGWGWGWGWGWGWGWGWGW
 
 | Tartans |
 |---------------|
-| [Tulchan Estate Check (Corporate)](/setts/s26/g4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4-g1ca880-ga604000-wf0e4cc/)|
-|![Tulchan Estate Check (Corporate) example sett](/setts/s26/g4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4ga4w4-g1ca880-ga604000-wf0e4cc/sett.png)|
+| [Tulchan Estate Check (Corporate)](/setts/s26/g1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1~g1ca880-ga604000-wf0e4cc~x4/)|
+|![Tulchan Estate Check (Corporate) example sett](/setts/s26/g1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1ga1w1~g1ca880-ga604000-wf0e4cc~x4/sett.png)|

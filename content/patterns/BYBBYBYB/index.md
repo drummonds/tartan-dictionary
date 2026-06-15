@@ -6,7 +6,7 @@ BYBBYBYB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b12y12b16b8y72b4y8b8-b4c0000-ydc943c/tartan.png)
+![Woven sample](/setts/s8/b3y3b4b2y18b1y2b2~b4c0000-ydc943c~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBBYBYB
 
 | Tartans |
 |---------------|
-| [Loughheed (Personal)](/setts/s8/b12y12b16b8y72b4y8b8-b4c0000-ydc943c/)|
-|![Loughheed (Personal) example sett](/setts/s8/b12y12b16b8y72b4y8b8-b4c0000-ydc943c/sett.png)|
+| [Loughheed (Personal)](/setts/s8/b3y3b4b2y18b1y2b2~b4c0000-ydc943c~x4/)|
+|![Loughheed (Personal) example sett](/setts/s8/b3y3b4b2y18b1y2b2~b4c0000-ydc943c~x4/sett.png)|

@@ -16,5 +16,5 @@ RYRKRKRRKW
 
 | Tartans |
 |---------------|
-| [Motherwell Football Club 1991](/setts/s10/r12y2r12k6r24k30ra2r60k2w4-k101010-r880000-rae87878-we0e0e0-ye8c000/)|
-|![Motherwell Football Club 1991 example sett](/setts/s10/r12y2r12k6r24k30ra2r60k2w4-k101010-r880000-rae87878-we0e0e0-ye8c000/sett.png)|
+| [Motherwell Football Club 1991](/setts/s10/r6y1r6k3r12k15ra1r30k1w2~k101010-r880000-rae87878-we0e0e0-ye8c000~x2/)|
+|![Motherwell Football Club 1991 example sett](/setts/s10/r6y1r6k3r12k15ra1r30k1w2~k101010-r880000-rae87878-we0e0e0-ye8c000~x2/sett.png)|

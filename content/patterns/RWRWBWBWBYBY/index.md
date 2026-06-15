@@ -16,5 +16,5 @@ RWRWBWBWBYBY
 
 | Tartans |
 |---------------|
-| [Lysaght Dress](/setts/s12/r24w16r24w44b4w12b12w4b44y24b16y24-b2c2c80-r880000-we0e0e0-ybc8c00/)|
-|![Lysaght Dress example sett](/setts/s12/r24w16r24w44b4w12b12w4b44y24b16y24-b2c2c80-r880000-we0e0e0-ybc8c00/sett.png)|
+| [Lysaght Dress](/setts/s12/r6w4r6w11b1w3b3w1b11y6b4y6~b2c2c80-r880000-we0e0e0-ybc8c00~x4/)|
+|![Lysaght Dress example sett](/setts/s12/r6w4r6w11b1w3b3w1b11y6b4y6~b2c2c80-r880000-we0e0e0-ybc8c00~x4/sett.png)|

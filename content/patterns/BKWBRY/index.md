@@ -6,7 +6,7 @@ BKWBRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b30k110w2ba10r4y2-b3f4b60-ba3d2e60-k05132f-ra90725-we5e0d2-yd3cc20/tartan.png)
+![Woven sample](/setts/s6/b15k55w1ba5r2y1~b3f4b60-ba3d2e60-k05132f-ra90725-we5e0d2-yd3cc20~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWBRY
 
 | Tartans |
 |---------------|
-| [Venters (Edinburgh)](/setts/s6/b30k110w2ba10r4y2-b3f4b60-ba3d2e60-k05132f-ra90725-we5e0d2-yd3cc20/)|
-|![Venters (Edinburgh) example sett](/setts/s6/b30k110w2ba10r4y2-b3f4b60-ba3d2e60-k05132f-ra90725-we5e0d2-yd3cc20/sett.png)|
+| [Venters (Edinburgh)](/setts/s6/b15k55w1ba5r2y1~b3f4b60-ba3d2e60-k05132f-ra90725-we5e0d2-yd3cc20~x2/)|
+|![Venters (Edinburgh) example sett](/setts/s6/b15k55w1ba5r2y1~b3f4b60-ba3d2e60-k05132f-ra90725-we5e0d2-yd3cc20~x2/sett.png)|

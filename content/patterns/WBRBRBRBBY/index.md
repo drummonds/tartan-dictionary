@@ -16,5 +16,5 @@ WBRBRBRBBY
 
 | Tartans |
 |---------------|
-| [X Marks the Scot](/setts/s10/w12b64r6b6r2b6r4ba8b2y4-b202060-ba2c2c80-r888888-we0e0e0-ye8c000/)|
-|![X Marks the Scot example sett](/setts/s10/w12b64r6b6r2b6r4ba8b2y4-b202060-ba2c2c80-r888888-we0e0e0-ye8c000/sett.png)|
+| [X Marks the Scot](/setts/s10/w6b32r3b3r1b3r2ba4b1y2~b202060-ba2c2c80-r888888-we0e0e0-ye8c000~x2/)|
+|![X Marks the Scot example sett](/setts/s10/w6b32r3b3r1b3r2ba4b1y2~b202060-ba2c2c80-r888888-we0e0e0-ye8c000~x2/sett.png)|

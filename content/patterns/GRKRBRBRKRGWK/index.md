@@ -16,5 +16,5 @@ GRKRBRBRKRGWK
 
 | Tartans |
 |---------------|
-| [Maguire](/setts/s13/g36r36k6r6b6r6b8r6k18r8g36w12k6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Maguire example sett](/setts/s13/g36r36k6r6b6r6b8r6k18r8g36w12k6-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Maguire](/setts/s13/g18r18k3r3b3r3b4r3k9r4g18w6k3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Maguire example sett](/setts/s13/g18r18k3r3b3r3b4r3k9r4g18w6k3~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ RKBWKGKGKBKGKGKWBKRW
 
 | Tartans |
 |---------------|
-| [Binder (2013)](/setts/s20/r4k52b20w2k4g18k2ga18k52b2k52ga18k2g18k4w2b20k50r4w4-b003c64-g006400-ga004028-k101010-rc80000-wffffff/)|
-|![Binder (2013) example sett](/setts/s20/r4k52b20w2k4g18k2ga18k52b2k52ga18k2g18k4w2b20k50r4w4-b003c64-g006400-ga004028-k101010-rc80000-wffffff/sett.png)|
+| [Binder (2013)](/setts/s20/r2k26b10w1k2g9k1ga9k26b1k26ga9k1g9k2w1b10k25r2w2~b003c64-g006400-ga004028-k101010-rc80000-wffffff~x2/)|
+|![Binder (2013) example sett](/setts/s20/r2k26b10w1k2g9k1ga9k26b1k26ga9k1g9k2w1b10k25r2w2~b003c64-g006400-ga004028-k101010-rc80000-wffffff~x2/sett.png)|

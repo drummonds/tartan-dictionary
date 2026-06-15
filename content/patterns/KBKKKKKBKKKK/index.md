@@ -16,5 +16,5 @@ KBKKKKKBKKKK
 
 | Tartans |
 |---------------|
-| [Warwick (Fashion)](/setts/s12/k16b4k14k4k4k4k4ba16k12k4k6k4-b4c1864-ba646464-k000000/)|
-|![Warwick (Fashion) example sett](/setts/s12/k16b4k14k4k4k4k4ba16k12k4k6k4-b4c1864-ba646464-k000000/sett.png)|
+| [Warwick (Fashion)](/setts/s12/k8b2k7k2k2k2k2ba8k6k2k3k2~b4c1864-ba646464-k000000~x2/)|
+|![Warwick (Fashion) example sett](/setts/s12/k8b2k7k2k2k2k2ba8k6k2k3k2~b4c1864-ba646464-k000000~x2/sett.png)|

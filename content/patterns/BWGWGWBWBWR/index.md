@@ -16,5 +16,5 @@ BWGWGWBWBWR
 
 | Tartans |
 |---------------|
-| [Shaw of Tordarroch, Mrs (Personal)](/setts/s11/r16w92b8w8b8w10g14w14g14w8b4-b202060-g5c6428-re86000-we8ccb8/)|
-|![Shaw of Tordarroch, Mrs (Personal) example sett](/setts/s11/r16w92b8w8b8w10g14w14g14w8b4-b202060-g5c6428-re86000-we8ccb8/sett.png)|
+| [Shaw of Tordarroch, Mrs (Personal)](/setts/s11/r8w46b4w4b4w5g7w7g7w4b2~b202060-g5c6428-re86000-we8ccb8~x2/)|
+|![Shaw of Tordarroch, Mrs (Personal) example sett](/setts/s11/r8w46b4w4b4w5g7w7g7w4b2~b202060-g5c6428-re86000-we8ccb8~x2/sett.png)|

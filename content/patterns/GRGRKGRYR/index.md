@@ -16,5 +16,5 @@ GRGRKGRYR
 
 | Tartans |
 |---------------|
-| [Justerini & Brooks](/setts/s9/r96y28r18g28k12r22ga12r20g6-g146400-ga50783c-k000000-rc82800-ydcbc00/)|
-|![Justerini & Brooks example sett](/setts/s9/r96y28r18g28k12r22ga12r20g6-g146400-ga50783c-k000000-rc82800-ydcbc00/sett.png)|
+| [Justerini & Brooks](/setts/s9/r48y14r9g14k6r11ga6r10g3~g146400-ga50783c-k000000-rc82800-ydcbc00~x2/)|
+|![Justerini & Brooks example sett](/setts/s9/r48y14r9g14k6r11ga6r10g3~g146400-ga50783c-k000000-rc82800-ydcbc00~x2/sett.png)|

@@ -16,5 +16,5 @@ KBKBBRGKBR
 
 | Tartans |
 |---------------|
-| [Wardlaw](/setts/s10/k8b60k6b4ba4r4g24k6ba36r6-b780078-ba2c2c80-g006818-k101010-rc80000/)|
-|![Wardlaw example sett](/setts/s10/k8b60k6b4ba4r4g24k6ba36r6-b780078-ba2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Wardlaw](/setts/s10/k4b30k3b2ba2r2g12k3ba18r3~b780078-ba2c2c80-g006818-k101010-rc80000~x2/)|
+|![Wardlaw example sett](/setts/s10/k4b30k3b2ba2r2g12k3ba18r3~b780078-ba2c2c80-g006818-k101010-rc80000~x2/sett.png)|

@@ -1,0 +1,54 @@
+---
+title: "Stewarton"
+date: 2023-03-18
+---
+In pattern [GRWBBBGK](/patterns/grwbbbgk/).
+
+
+This was sourced from weddslist.  It is a [8 stripes tartan](/stripes/stripes8/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+DB/4 G10 Ba14 B14 Ba14 LP12 LT10 Ga/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#4000FF;"><span style="color:#4000FF;filter:grayscale(1) invert(1) contrast(100);">#4000FF</span></code> `#4000FF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| Ba | <code style="background-color:#8080D0;"><span style="color:#8080D0;filter:grayscale(1) invert(1) contrast(100);">#8080D0</span></code> `#8080D0` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.24 |
+| DB | <code style="background-color:#000030;"><span style="color:#000030;filter:grayscale(1) invert(1) contrast(100);">#000030</span></code> `#000030` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| G | <code style="background-color:#607030;"><span style="color:#607030;filter:grayscale(1) invert(1) contrast(100);">#607030</span></code> `#607030` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+| Ga | <code style="background-color:#008000;"><span style="color:#008000;filter:grayscale(1) invert(1) contrast(100);">#008000</span></code> `#008000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| LP | <code style="background-color:#C0A0E0;"><span style="color:#C0A0E0;filter:grayscale(1) invert(1) contrast(100);">#C0A0E0</span></code> `#C0A0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.24 |
+| LT | <code style="background-color:#906030;"><span style="color:#906030;filter:grayscale(1) invert(1) contrast(100);">#906030</span></code> `#906030` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/4 G10 Ba14 B14 Ba14 LP12 LT10 Ga/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scotia](/setts/s8/b3ba3w2r8ba3b11bb7g3~b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0~x2/) — ΔT 1.80
+1. [Union Club of British Columbia](/setts/s12/r2k1b4w4wa1w4ba4k1ba4w2ba4y1~b505050-ba3c82af-k101010-r888888-w98c8e8-wae0e0e0-ye8c000~x4/) — ΔT 1.83
+1. [Scotia Trade Tartan Tartan Number: 89. Earliest known date: 1968 Originally designed by James Allan of East Kilbride and woven by him in 1850. The sett was reconstructed by David Easton, Galashiels, as a National tartan for Scotland. It did not catch on and the tartan is rarely seen today. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b3ba3w2g8ba3b11bb7ga3~b2888c4-ba202060-bb780078-g604000-ga006818-we0e0e0~x2/) — ΔT 1.89
+1. [New York City](/setts/s7/b2ba3k1ba3r3g4ra1~b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000~x8/) — ΔT 1.93
+1. [O'Sullivan](/setts/s11/b6k4b10w2ba10g4ba6g9r2g4y2~b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000~x4/) — ΔT 1.96
+1. [DunBroch](/setts/s11/b4ba8k2ba5w2ba5g8bb7g2bb7g3~b483d8b-ba539dc2-bb700038-g00572b-k101010-we1cdb2~x2/) — ΔT 1.99
+1. [Stewarton (Fashion)](/setts/s8/k1g3r3b3r3y3ra3k1~b1c0070-g006818-k101010-r888888-raa07c58-ya0a0a0~x4/) — ΔT 2.03
+1. [Blackdown Hills Corporate Tartan Tartan Number: 6711. Earliest known date: 1991 The Blackdown Hills on the Devon/Somerset border were designated as an Area of Outstanding Natural Beauty (AONB) in 1991 and this tartan was designed to celebrate that occasion. Designed at Coldharbour Mill at Cullompton in Devon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k4b4y1b4r4ba4w1~b34506c-ba202060-k101010-rc85858-wf8f8f8-yd87c00~x8/) — ΔT 2.07
+1. [Devon Companion](/setts/s7/r5b4y1b4k4g4w1~b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000~x4/) — ΔT 2.13
+1. [Saltcoats (Saskatchewan)](/setts/s11/b3y3g15ba8w8b6g15ba6y3ga6r3~b141e46-ba0596fa-g808080-ga003c14-rdc0000-we0e0e0-ye8c000~x2/) — ΔT 2.18
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b3ba3w2r8ba3b11bb7g3~b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0~x2/"><circle cx="76.5" cy="198.0" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/setts/s12/r2k1b4w4wa1w4ba4k1ba4w2ba4y1~b505050-ba3c82af-k101010-r888888-w98c8e8-wae0e0e0-ye8c000~x4/"><circle cx="50.5" cy="192.4" r="4" fill="#3465a4"><title>Union Club of British Columbia</title></circle></a><a href="/setts/s8/b3ba3w2g8ba3b11bb7ga3~b2888c4-ba202060-bb780078-g604000-ga006818-we0e0e0~x2/"><circle cx="83.2" cy="205.9" r="4" fill="#3465a4"><title>Scotia Trade Tartan Tartan Number: 89. Earliest known date: 1968 Originally designed by James Allan of East Kilbride and woven by him in 1850. The sett was reconstructed by David Easton, Galashiels, as a National tartan for Scotland. It did not catch on and the tartan is rarely seen today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b2ba3k1ba3r3g4ra1~b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000~x8/"><circle cx="73.3" cy="256.2" r="4" fill="#3465a4"><title>New York City</title></circle></a><a href="/setts/s11/b6k4b10w2ba10g4ba6g9r2g4y2~b1474b4-ba1c0070-g408060-k101010-rc80000-wfcfcfc-ye8c000~x4/"><circle cx="16.6" cy="184.6" r="4" fill="#3465a4"><title>O'Sullivan</title></circle></a><a href="/setts/s11/b4ba8k2ba5w2ba5g8bb7g2bb7g3~b483d8b-ba539dc2-bb700038-g00572b-k101010-we1cdb2~x2/"><circle cx="52.7" cy="217.7" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><a href="/setts/s8/k1g3r3b3r3y3ra3k1~b1c0070-g006818-k101010-r888888-raa07c58-ya0a0a0~x4/"><circle cx="14.0" cy="257.6" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/setts/s7/k4b4y1b4r4ba4w1~b34506c-ba202060-k101010-rc85858-wf8f8f8-yd87c00~x8/"><circle cx="56.4" cy="241.7" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan Tartan Number: 6711. Earliest known date: 1991 The Blackdown Hills on the Devon/Somerset border were designated as an Area of Outstanding Natural Beauty (AONB) in 1991 and this tartan was designed to celebrate that occasion. Designed at Coldharbour Mill at Cullompton in Devon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r5b4y1b4k4g4w1~b2c2c80-g603800-k101010-r888888-wfcfcfc-ye8c000~x4/"><circle cx="50.0" cy="227.7" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/setts/s11/b3y3g15ba8w8b6g15ba6y3ga6r3~b141e46-ba0596fa-g808080-ga003c14-rdc0000-we0e0e0-ye8c000~x2/"><circle cx="51.2" cy="167.2" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan)</title></circle></a><circle cx="14.0" cy="229.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/g2r5w6b7ba7b7ga5k2~b8080d0-ba4000ff-g008000-ga607030-k000030-r906030-wc0a0e0~x2/

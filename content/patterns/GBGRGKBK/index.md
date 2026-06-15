@@ -6,7 +6,7 @@ GBGRGKBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/g11b3g5r3g5k22ba22k5~b2888c4-ba2c2c80-g006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGRGKBK
 
 | Tartans |
 |---------------|
-| [Wood (Personal)](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/)|
-|![Wood (Personal) example sett](/setts/s8/g22b6g10r6g10k44ba44k10-b2888c4-ba2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Wood (Personal)](/setts/s8/g11b3g5r3g5k22ba22k5~b2888c4-ba2c2c80-g006818-k101010-rc80000~x2/)|
+|![Wood (Personal) example sett](/setts/s8/g11b3g5r3g5k22ba22k5~b2888c4-ba2c2c80-g006818-k101010-rc80000~x2/sett.png)|

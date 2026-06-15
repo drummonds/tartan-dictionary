@@ -16,5 +16,5 @@ RBYBKGKBYBR
 
 | Tartans |
 |---------------|
-| [Rangers Dress (Sports)](/setts/s11/r4b12y4b4k18g60k18b10y8b4r4-b1c0070-g688c98-k101010-r880000-yb8b8b8/)|
-|![Rangers Dress (Sports) example sett](/setts/s11/r4b12y4b4k18g60k18b10y8b4r4-b1c0070-g688c98-k101010-r880000-yb8b8b8/sett.png)|
+| [Rangers Dress (Sports)](/setts/s11/r2b6y2b2k9g30k9b5y4b2r2~b1c0070-g688c98-k101010-r880000-yb8b8b8~x2/)|
+|![Rangers Dress (Sports) example sett](/setts/s11/r2b6y2b2k9g30k9b5y4b2r2~b1c0070-g688c98-k101010-r880000-yb8b8b8~x2/sett.png)|

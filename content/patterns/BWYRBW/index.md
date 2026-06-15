@@ -6,7 +6,7 @@ BWYRBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/tartan.png)
+![Woven sample](/setts/s6/b2w2y7r14b2w2~b5c5c5c-r888888-wfcfcfc-yd4d07c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWYRBW
 
 | Tartans |
 |---------------|
-| [Cairngorm](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/)|
-|![Cairngorm example sett](/setts/s6/b4w4y14r28b4w4-b5c5c5c-r888888-wfcfcfc-yd4d07c/sett.png)|
+| [Cairngorm](/setts/s6/b2w2y7r14b2w2~b5c5c5c-r888888-wfcfcfc-yd4d07c~x2/)|
+|![Cairngorm example sett](/setts/s6/b2w2y7r14b2w2~b5c5c5c-r888888-wfcfcfc-yd4d07c~x2/sett.png)|

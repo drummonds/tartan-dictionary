@@ -16,5 +16,5 @@ BBWBRWRBBBBBBGBGBGG
 
 | Tartans |
 |---------------|
-| [Glenlea](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/)|
-|![Glenlea example sett](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4-b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/sett.png)|
+| [Glenlea](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4~b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/)|
+|![Glenlea example sett](/setts/s19/b8ba3w3ba3r28w4r8ba12b3ba3b3ba3b8g3b3g3b3g12ga4~b14283c-ba646464-g485444-ga009468-r8c8c8c-wc8c8c8/sett.png)|

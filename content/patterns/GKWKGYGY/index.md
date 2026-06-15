@@ -6,7 +6,7 @@ GKWKGYGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g32k8w4k8g12y22g4y32-g808080-k000000-we0e0e0-yff8500/tartan.png)
+![Woven sample](/setts/s8/g16k4w2k4g6y11g2y16~g808080-k000000-we0e0e0-yff8500~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKWKGYGY
 
 | Tartans |
 |---------------|
-| [Sidney, (Nova Scotia)](/setts/s8/g32k8w4k8g12y22g4y32-g808080-k000000-we0e0e0-yff8500/)|
-|![Sidney, (Nova Scotia) example sett](/setts/s8/g32k8w4k8g12y22g4y32-g808080-k000000-we0e0e0-yff8500/sett.png)|
+| [Sidney, (Nova Scotia)](/setts/s8/g16k4w2k4g6y11g2y16~g808080-k000000-we0e0e0-yff8500~x2/)|
+|![Sidney, (Nova Scotia) example sett](/setts/s8/g16k4w2k4g6y11g2y16~g808080-k000000-we0e0e0-yff8500~x2/sett.png)|

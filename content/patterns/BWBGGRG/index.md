@@ -6,7 +6,7 @@ BWBGGRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b24w4b26g6ga4r48ga6-b14283c-g003820-ga006818-ra40000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b12w2b13g3ga2r24ga3~b14283c-g003820-ga006818-ra40000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBGGRG
 
 | Tartans |
 |---------------|
-| [Wellmont Foundation (Corporate)](/setts/s7/b24w4b26g6ga4r48ga6-b14283c-g003820-ga006818-ra40000-wfcfcfc/)|
-|![Wellmont Foundation (Corporate) example sett](/setts/s7/b24w4b26g6ga4r48ga6-b14283c-g003820-ga006818-ra40000-wfcfcfc/sett.png)|
+| [Wellmont Foundation (Corporate)](/setts/s7/b12w2b13g3ga2r24ga3~b14283c-g003820-ga006818-ra40000-wfcfcfc~x2/)|
+|![Wellmont Foundation (Corporate) example sett](/setts/s7/b12w2b13g3ga2r24ga3~b14283c-g003820-ga006818-ra40000-wfcfcfc~x2/sett.png)|

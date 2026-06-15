@@ -6,7 +6,7 @@ RYRYRYRY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r120y30r8y4r4y4r4y4-ra45c30-ya08858/tartan.png)
+![Woven sample](/setts/s8/r60y15r4y2r2y2r2y2~ra45c30-ya08858~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ RYRYRYRY
 
 | Tartans |
 |---------------|
-| [Masai Shuka 09 (Artefact)](/setts/s8/r120y30r8y4r4y4r4y4-ra45c30-ya08858/)|
-|![Masai Shuka 09 (Artefact) example sett](/setts/s8/r120y30r8y4r4y4r4y4-ra45c30-ya08858/sett.png)|
-| [Menzies Dress](/setts/s8/r72y8r6y8r12y4r2y24-raa0000-yaaaaaa/)|
-|![Menzies Dress example sett](/setts/s8/r72y8r6y8r12y4r2y24-raa0000-yaaaaaa/sett.png)|
-| [Menzies Dress](/setts/s8/r36y4r3y4r6y2r1y12-raa0000-yaaaaaa/)|
-|![Menzies Dress example sett](/setts/s8/r36y4r3y4r6y2r1y12-raa0000-yaaaaaa/sett.png)|
+| [Masai Shuka 09 (Artefact)](/setts/s8/r60y15r4y2r2y2r2y2~ra45c30-ya08858~x2/)|
+|![Masai Shuka 09 (Artefact) example sett](/setts/s8/r60y15r4y2r2y2r2y2~ra45c30-ya08858~x2/sett.png)|
+| [Menzies Dress](/setts/s8/r36y4r3y4r6y2r1y12~raa0000-yaaaaaa~x2/)|
+|![Menzies Dress example sett](/setts/s8/r36y4r3y4r6y2r1y12~raa0000-yaaaaaa~x2/sett.png)|
+| [Menzies Dress](/setts/s8/r36y4r3y4r6y2r1y12~raa0000-yaaaaaa/)|
+|![Menzies Dress example sett](/setts/s8/r36y4r3y4r6y2r1y12~raa0000-yaaaaaa/sett.png)|

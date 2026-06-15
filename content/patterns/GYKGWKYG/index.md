@@ -6,7 +6,7 @@ GYKGWKYG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g96y6k12w8g6k30y6g8-g285800-k000000-wf8f8f8-yc88c00/tartan.png)
+![Woven sample](/setts/s8/g48y3k6w4g3k15y3g4~g285800-k000000-wf8f8f8-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYKGWKYG
 
 | Tartans |
 |---------------|
-| [Birmingham Irish Pipes & Drums](/setts/s8/g96y6k12w8g6k30y6g8-g285800-k000000-wf8f8f8-yc88c00/)|
-|![Birmingham Irish Pipes & Drums example sett](/setts/s8/g96y6k12w8g6k30y6g8-g285800-k000000-wf8f8f8-yc88c00/sett.png)|
+| [Birmingham Irish Pipes & Drums](/setts/s8/g48y3k6w4g3k15y3g4~g285800-k000000-wf8f8f8-yc88c00~x2/)|
+|![Birmingham Irish Pipes & Drums example sett](/setts/s8/g48y3k6w4g3k15y3g4~g285800-k000000-wf8f8f8-yc88c00~x2/sett.png)|

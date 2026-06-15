@@ -16,5 +16,5 @@ RWBGWYGBW
 
 | Tartans |
 |---------------|
-| [Mary, Queen of Scots](/setts/s9/r10w2b20g20w2y2g4ba4w2-b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0-ye8c000/)|
-|![Mary, Queen of Scots example sett](/setts/s9/r10w2b20g20w2y2g4ba4w2-b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Mary, Queen of Scots](/setts/s9/r5w1b10g10w1y1g2ba2w1~b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0-ye8c000~x2/)|
+|![Mary, Queen of Scots example sett](/setts/s9/r5w1b10g10w1y1g2ba2w1~b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0-ye8c000~x2/sett.png)|

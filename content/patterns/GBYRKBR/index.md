@@ -6,7 +6,7 @@ GBYRKBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g108b28y14r28k14b28r12-b003c64-g007460-k101010-r901c38-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g54b14y7r14k7b14r6~b003c64-g007460-k101010-r901c38-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBYRKBR
 
 | Tartans |
 |---------------|
-| [Gloucester County Pipe Band (Corp)](/setts/s7/g108b28y14r28k14b28r12-b003c64-g007460-k101010-r901c38-ye8c000/)|
-|![Gloucester County Pipe Band (Corp) example sett](/setts/s7/g108b28y14r28k14b28r12-b003c64-g007460-k101010-r901c38-ye8c000/sett.png)|
+| [Gloucester County Pipe Band (Corp)](/setts/s7/g54b14y7r14k7b14r6~b003c64-g007460-k101010-r901c38-ye8c000~x2/)|
+|![Gloucester County Pipe Band (Corp) example sett](/setts/s7/g54b14y7r14k7b14r6~b003c64-g007460-k101010-r901c38-ye8c000~x2/sett.png)|

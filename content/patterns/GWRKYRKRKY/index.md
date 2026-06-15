@@ -16,5 +16,5 @@ GWRKYRKRKY
 
 | Tartans |
 |---------------|
-| [Haileybury Pipe Band (Corporate)](/setts/s10/y8k60r60k4r4y4k4r10w10g4-g289c18-k101010-r6c0000-we0e0e0-ye8c000/)|
-|![Haileybury Pipe Band (Corporate) example sett](/setts/s10/y8k60r60k4r4y4k4r10w10g4-g289c18-k101010-r6c0000-we0e0e0-ye8c000/sett.png)|
+| [Haileybury Pipe Band (Corporate)](/setts/s10/y4k30r30k2r2y2k2r5w5g2~g289c18-k101010-r6c0000-we0e0e0-ye8c000~x2/)|
+|![Haileybury Pipe Band (Corporate) example sett](/setts/s10/y4k30r30k2r2y2k2r5w5g2~g289c18-k101010-r6c0000-we0e0e0-ye8c000~x2/sett.png)|

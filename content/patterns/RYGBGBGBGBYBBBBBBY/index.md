@@ -16,5 +16,5 @@ RYGBGBGBGBYBBBBBBY
 
 | Tartans |
 |---------------|
-| [Glaz](/setts/s18/r4y2g14b2g8b4g6b6g2b30ya2b8ba4b4ba8b2ba18ya4-b497681-ba24335a-g49653f-rac292c-yecbe42-yab4b1b3/)|
-|![Glaz example sett](/setts/s18/r4y2g14b2g8b4g6b6g2b30ya2b8ba4b4ba8b2ba18ya4-b497681-ba24335a-g49653f-rac292c-yecbe42-yab4b1b3/sett.png)|
+| [Glaz](/setts/s18/r2y1g7b1g4b2g3b3g1b15ya1b4ba2b2ba4b1ba9ya2~b497681-ba24335a-g49653f-rac292c-yecbe42-yab4b1b3~x2/)|
+|![Glaz example sett](/setts/s18/r2y1g7b1g4b2g3b3g1b15ya1b4ba2b2ba4b1ba9ya2~b497681-ba24335a-g49653f-rac292c-yecbe42-yab4b1b3~x2/sett.png)|

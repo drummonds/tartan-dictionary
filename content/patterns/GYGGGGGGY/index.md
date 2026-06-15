@@ -16,5 +16,5 @@ GYGGGGGGY
 
 | Tartans |
 |---------------|
-| [Dalwhinnie](/setts/s9/g70y6ga28gb56ga5gb11ga5gb11ya12-g003000-ga808080-gb008000-yf0c000-yaff8500/)|
-|![Dalwhinnie example sett](/setts/s9/g70y6ga28gb56ga5gb11ga5gb11ya12-g003000-ga808080-gb008000-yf0c000-yaff8500/sett.png)|
+| [Dalwhinnie](/setts/s9/g70y6ga28gb56ga5gb11ga5gb11ya12~g003000-ga808080-gb008000-yf0c000-yaff8500/)|
+|![Dalwhinnie example sett](/setts/s9/g70y6ga28gb56ga5gb11ga5gb11ya12~g003000-ga808080-gb008000-yf0c000-yaff8500/sett.png)|

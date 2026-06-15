@@ -16,5 +16,5 @@ GYGBWGGBW
 
 | Tartans |
 |---------------|
-| [Drummond of Perth Dress (Dance)](/setts/s9/g82y6ga14b6w48g20ga14b14w6-b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00/)|
-|![Drummond of Perth Dress (Dance) example sett](/setts/s9/g82y6ga14b6w48g20ga14b14w6-b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00/sett.png)|
+| [Drummond of Perth Dress (Dance)](/setts/s9/g41y3ga7b3w24g10ga7b7w3~b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00~x2/)|
+|![Drummond of Perth Dress (Dance) example sett](/setts/s9/g41y3ga7b3w24g10ga7b7w3~b5c5c5c-g285800-ga408060-wfcfcfc-ybc8c00~x2/sett.png)|

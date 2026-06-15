@@ -16,7 +16,7 @@ BKBRBRWKW
 
 | Tartans |
 |---------------|
-| [Ainslie](/setts/s9/b48k12b8r8b8r48w8k4w8-b2c2c80-k101010-rc80000-wfcfcfc/)|
-|![Ainslie example sett](/setts/s9/b48k12b8r8b8r48w8k4w8-b2c2c80-k101010-rc80000-wfcfcfc/sett.png)|
-| [Ainslie](/setts/s9/b46k8b8r8b8r50w8k8w8-b304080-k000000-rc00000-we0e0e0/)|
-|![Ainslie example sett](/setts/s9/b46k8b8r8b8r50w8k8w8-b304080-k000000-rc00000-we0e0e0/sett.png)|
+| [Ainslie](/setts/s9/b12k3b2r2b2r12w2k1w2~b2c2c80-k101010-rc80000-wfcfcfc~x4/)|
+|![Ainslie example sett](/setts/s9/b12k3b2r2b2r12w2k1w2~b2c2c80-k101010-rc80000-wfcfcfc~x4/sett.png)|
+| [Ainslie](/setts/s9/b23k4b4r4b4r25w4k4w4~b304080-k000000-rc00000-we0e0e0~x2/)|
+|![Ainslie example sett](/setts/s9/b23k4b4r4b4r25w4k4w4~b304080-k000000-rc00000-we0e0e0~x2/sett.png)|

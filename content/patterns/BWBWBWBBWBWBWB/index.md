@@ -16,5 +16,5 @@ BWBWBWBBWBWBWB
 
 | Tartans |
 |---------------|
-| [Balamory](/setts/s14/b18w8ba4w4ba4w8ba20b2w32b18wa4b18wb4b18-b1888d8-ba1c1c1c-wecccb8-wafcec94-wb98c8e8/)|
-|![Balamory example sett](/setts/s14/b18w8ba4w4ba4w8ba20b2w32b18wa4b18wb4b18-b1888d8-ba1c1c1c-wecccb8-wafcec94-wb98c8e8/sett.png)|
+| [Balamory](/setts/s14/b9w4ba2w2ba2w4ba10b1w16b9wa2b9wb2b9~b1888d8-ba1c1c1c-wecccb8-wafcec94-wb98c8e8~x2/)|
+|![Balamory example sett](/setts/s14/b9w4ba2w2ba2w4ba10b1w16b9wa2b9wb2b9~b1888d8-ba1c1c1c-wecccb8-wafcec94-wb98c8e8~x2/sett.png)|

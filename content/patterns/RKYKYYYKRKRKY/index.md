@@ -16,5 +16,5 @@ RKYKYYYKRKRKY
 
 | Tartans |
 |---------------|
-| [92nd Regiment Drummers' Plaid (Mil.)](/setts/s13/y24k4r4k4r4k24ya22yb4ya22k24y22k4r4-k101010-rc80000-ya4bcc4-yaacbc98-ybe8c000/)|
-|![92nd Regiment Drummers' Plaid (Mil.) example sett](/setts/s13/y24k4r4k4r4k24ya22yb4ya22k24y22k4r4-k101010-rc80000-ya4bcc4-yaacbc98-ybe8c000/sett.png)|
+| [92nd Regiment Drummers' Plaid (Mil.)](/setts/s13/y12k2r2k2r2k12ya11yb2ya11k12y11k2r2~k101010-rc80000-ya4bcc4-yaacbc98-ybe8c000~x2/)|
+|![92nd Regiment Drummers' Plaid (Mil.) example sett](/setts/s13/y12k2r2k2r2k12ya11yb2ya11k12y11k2r2~k101010-rc80000-ya4bcc4-yaacbc98-ybe8c000~x2/sett.png)|

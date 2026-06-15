@@ -16,5 +16,5 @@ BYYBRYGYBYGYRBYYBY
 
 | Tartans |
 |---------------|
-| [Satisfashion Argyll](/setts/s18/y10b6y46ya2b10r12y18g54ya2b10ya2g54y18r12b10ya2y46b6-b441800-g5c6428-r880000-ya08858-yabc8c00/)|
-|![Satisfashion Argyll example sett](/setts/s18/y10b6y46ya2b10r12y18g54ya2b10ya2g54y18r12b10ya2y46b6-b441800-g5c6428-r880000-ya08858-yabc8c00/sett.png)|
+| [Satisfashion Argyll](/setts/s18/y5b3y23ya1b5r6y9g27ya1b5ya1g27y9r6b5ya1y23b3~b441800-g5c6428-r880000-ya08858-yabc8c00~x2/)|
+|![Satisfashion Argyll example sett](/setts/s18/y5b3y23ya1b5r6y9g27ya1b5ya1g27y9r6b5ya1y23b3~b441800-g5c6428-r880000-ya08858-yabc8c00~x2/sett.png)|

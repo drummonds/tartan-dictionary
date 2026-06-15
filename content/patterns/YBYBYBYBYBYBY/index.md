@@ -16,5 +16,5 @@ YBYBYBYBYBYBY
 
 | Tartans |
 |---------------|
-| [Caledonian Airways (Corporate)](/setts/s13/y4b36y4ba4y4ba20y4ba4y4ba36y8b8y4-b14283c-ba1c0070-y48a4c0/)|
-|![Caledonian Airways (Corporate) example sett](/setts/s13/y4b36y4ba4y4ba20y4ba4y4ba36y8b8y4-b14283c-ba1c0070-y48a4c0/sett.png)|
+| [Caledonian Airways (Corporate)](/setts/s13/y1b9y1ba1y1ba5y1ba1y1ba9y2b2y1~b14283c-ba1c0070-y48a4c0~x4/)|
+|![Caledonian Airways (Corporate) example sett](/setts/s13/y1b9y1ba1y1ba5y1ba1y1ba9y2b2y1~b14283c-ba1c0070-y48a4c0~x4/sett.png)|

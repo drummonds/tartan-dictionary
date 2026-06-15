@@ -16,5 +16,5 @@ KYGKYKWKWGKY
 
 | Tartans |
 |---------------|
-| [Heritage of Ireland (Fashion)](/setts/s12/k10y8g50k28y10k10w10k4w6g6k4y10-g548054-k101010-we0e0e0-ycc8854/)|
-|![Heritage of Ireland (Fashion) example sett](/setts/s12/k10y8g50k28y10k10w10k4w6g6k4y10-g548054-k101010-we0e0e0-ycc8854/sett.png)|
+| [Heritage of Ireland (Fashion)](/setts/s12/k5y4g25k14y5k5w5k2w3g3k2y5~g548054-k101010-we0e0e0-ycc8854~x2/)|
+|![Heritage of Ireland (Fashion) example sett](/setts/s12/k5y4g25k14y5k5w5k2w3g3k2y5~g548054-k101010-we0e0e0-ycc8854~x2/sett.png)|

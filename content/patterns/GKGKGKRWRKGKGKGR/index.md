@@ -16,5 +16,5 @@ GKGKGKRWRKGKGKGR
 
 | Tartans |
 |---------------|
-| [Hunter of Bute (Personal)](/setts/s16/r24g12k12g4k2g2k12r48w4r48k12g2k2g4k12g12-g006818-k101010-r901c38-wf8f8f8/)|
-|![Hunter of Bute (Personal) example sett](/setts/s16/r24g12k12g4k2g2k12r48w4r48k12g2k2g4k12g12-g006818-k101010-r901c38-wf8f8f8/sett.png)|
+| [Hunter of Bute (Personal)](/setts/s16/r12g6k6g2k1g1k6r24w2r24k6g1k1g2k6g6~g006818-k101010-r901c38-wf8f8f8~x2/)|
+|![Hunter of Bute (Personal) example sett](/setts/s16/r12g6k6g2k1g1k6r24w2r24k6g1k1g2k6g6~g006818-k101010-r901c38-wf8f8f8~x2/sett.png)|

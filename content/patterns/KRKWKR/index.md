@@ -6,7 +6,7 @@ KRKWKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8r66k48w6k8r6-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/k4r33k24w3k4r3~k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKWKR
 
 | Tartans |
 |---------------|
-| [Monmouth College](/setts/s6/k8r66k48w6k8r6-k101010-rc80000-we0e0e0/)|
-|![Monmouth College example sett](/setts/s6/k8r66k48w6k8r6-k101010-rc80000-we0e0e0/sett.png)|
+| [Monmouth College](/setts/s6/k4r33k24w3k4r3~k101010-rc80000-we0e0e0~x2/)|
+|![Monmouth College example sett](/setts/s6/k4r33k24w3k4r3~k101010-rc80000-we0e0e0~x2/sett.png)|

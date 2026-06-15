@@ -16,5 +16,5 @@ RBRBGWGYGBRBR
 
 | Tartans |
 |---------------|
-| [Clackson Hunting (Personal)](/setts/s13/r8b10r8b10g16w4g48y4g16b10r8b10r8-b00008c-g146400-rdc0000-wffffff-yfccc00/)|
-|![Clackson Hunting (Personal) example sett](/setts/s13/r8b10r8b10g16w4g48y4g16b10r8b10r8-b00008c-g146400-rdc0000-wffffff-yfccc00/sett.png)|
+| [Clackson Hunting (Personal)](/setts/s13/r4b5r4b5g8w2g24y2g8b5r4b5r4~b00008c-g146400-rdc0000-wffffff-yfccc00~x2/)|
+|![Clackson Hunting (Personal) example sett](/setts/s13/r4b5r4b5g8w2g24y2g8b5r4b5r4~b00008c-g146400-rdc0000-wffffff-yfccc00~x2/sett.png)|

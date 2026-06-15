@@ -16,5 +16,5 @@ BBBRBKGKR
 
 | Tartans |
 |---------------|
-| [Holland & Sherry (Corporate)](/setts/s9/b40ba6b8r6b6k20g42k8r40-b003c64-ba3850c8-g006818-k101010-r901c38/)|
-|![Holland & Sherry (Corporate) example sett](/setts/s9/b40ba6b8r6b6k20g42k8r40-b003c64-ba3850c8-g006818-k101010-r901c38/sett.png)|
+| [Holland & Sherry (Corporate)](/setts/s9/b20ba3b4r3b3k10g21k4r20~b003c64-ba3850c8-g006818-k101010-r901c38~x2/)|
+|![Holland & Sherry (Corporate) example sett](/setts/s9/b20ba3b4r3b3k10g21k4r20~b003c64-ba3850c8-g006818-k101010-r901c38~x2/sett.png)|

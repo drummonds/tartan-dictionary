@@ -16,5 +16,5 @@ RWRBRBRBRBWRW
 
 | Tartans |
 |---------------|
-| [International Council for Commercial Arbitration](/setts/s13/r4w2r24b4ra2b36ra2ba36ra2ba4w24r2w2-b141e46-ba0596fa-re86000-radc0000-wffffff/)|
-|![International Council for Commercial Arbitration example sett](/setts/s13/r4w2r24b4ra2b36ra2ba36ra2ba4w24r2w2-b141e46-ba0596fa-re86000-radc0000-wffffff/sett.png)|
+| [International Council for Commercial Arbitration](/setts/s13/r2w1r12b2ra1b18ra1ba18ra1ba2w12r1w1~b141e46-ba0596fa-re86000-radc0000-wffffff~x2/)|
+|![International Council for Commercial Arbitration example sett](/setts/s13/r2w1r12b2ra1b18ra1ba18ra1ba2w12r1w1~b141e46-ba0596fa-re86000-radc0000-wffffff~x2/sett.png)|

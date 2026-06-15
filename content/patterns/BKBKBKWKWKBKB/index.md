@@ -16,5 +16,5 @@ BKBKBKWKWKBKB
 
 | Tartans |
 |---------------|
-| [Blue Watch (Fashion)](/setts/s13/b44k4b4k4b4k32w32k4w32k32b32k4b4-b34349c-k101010-we0e0e0/)|
-|![Blue Watch (Fashion) example sett](/setts/s13/b44k4b4k4b4k32w32k4w32k32b32k4b4-b34349c-k101010-we0e0e0/sett.png)|
+| [Blue Watch (Fashion)](/setts/s13/b11k1b1k1b1k8w8k1w8k8b8k1b1~b34349c-k101010-we0e0e0~x4/)|
+|![Blue Watch (Fashion) example sett](/setts/s13/b11k1b1k1b1k8w8k1w8k8b8k1b1~b34349c-k101010-we0e0e0~x4/sett.png)|

@@ -16,5 +16,5 @@ BWBKWBWBWBWBWWWW
 
 | Tartans |
 |---------------|
-| [Purple Rain](/setts/s16/b8w4b48k2w16b4w2b4w8b4w2b4w32wa4w2wa8-b64008c-k101010-wc0c0c0-waffffff/)|
-|![Purple Rain example sett](/setts/s16/b8w4b48k2w16b4w2b4w8b4w2b4w32wa4w2wa8-b64008c-k101010-wc0c0c0-waffffff/sett.png)|
+| [Purple Rain](/setts/s16/b4w2b24k1w8b2w1b2w4b2w1b2w16wa2w1wa4~b64008c-k101010-wc0c0c0-waffffff~x2/)|
+|![Purple Rain example sett](/setts/s16/b4w2b24k1w8b2w1b2w4b2w1b2w16wa2w1wa4~b64008c-k101010-wc0c0c0-waffffff~x2/sett.png)|

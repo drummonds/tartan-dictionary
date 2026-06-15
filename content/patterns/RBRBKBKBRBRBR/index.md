@@ -16,5 +16,5 @@ RBRBKBKBRBRBR
 
 | Tartans |
 |---------------|
-| [Balmoral Hotel (Corporate)](/setts/s13/r30b4r4b4r4ba24k24ba6k24ba24r24b4r4-b2c2c80-ba003c64-k101010-rc04c08/)|
-|![Balmoral Hotel (Corporate) example sett](/setts/s13/r30b4r4b4r4ba24k24ba6k24ba24r24b4r4-b2c2c80-ba003c64-k101010-rc04c08/sett.png)|
+| [Balmoral Hotel (Corporate)](/setts/s13/r15b2r2b2r2ba12k12ba3k12ba12r12b2r2~b2c2c80-ba003c64-k101010-rc04c08~x2/)|
+|![Balmoral Hotel (Corporate) example sett](/setts/s13/r15b2r2b2r2ba12k12ba3k12ba12r12b2r2~b2c2c80-ba003c64-k101010-rc04c08~x2/sett.png)|

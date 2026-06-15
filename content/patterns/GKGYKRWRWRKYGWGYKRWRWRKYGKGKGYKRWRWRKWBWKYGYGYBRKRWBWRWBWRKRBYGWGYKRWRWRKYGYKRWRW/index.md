@@ -16,5 +16,5 @@ GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYGYKRWR
 
 | Tartans |
 |---------------|
-| [Ogilvie - 1831 (Clan)](/setts/s81/g28k8g28y8k4r16w4r16w4r16k4y4g16w4g16y4k4r16w4r16w4r16k4y4g28k8g28k8g28y4k4r16w4r16w4r16k24w2b8w2k24y8g12y4g12y8ba4r8k4r28w2b4w2r28w2b4w2r28k4r8ba4y4g16w4g16y4k4r16w4r16w4r16k4y8g16y8k4r16w4r16w4-b2c2-h3738d256999a2c35/)|
-|![Ogilvie - 1831 (Clan) example sett](/setts/s81/g28k8g28y8k4r16w4r16w4r16k4y4g16w4g16y4k4r16w4r16w4r16k4y4g28k8g28k8g28y4k4r16w4r16w4r16k24w2b8w2k24y8g12y4g12y8ba4r8k4r28w2b4w2r28w2b4w2r28k4r8ba4y4g16w4g16y4k4r16w4r16w4r16k4y8g16y8k4r16w4r16w4-b2c2-h3738d256999a2c35/sett.png)|
+| [Ogilvie - 1831 (Clan)](/setts/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1b4w1k12y4g6y2g6y4ba2r4k2r14w1b2w1r14w1b2w1r14k2r4ba2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~b2c2c80-ba780078-g006818--h739218ac45c8ac5d/)|
+|![Ogilvie - 1831 (Clan) example sett](/setts/s81/g14k4g14y4k2r8w2r8w2r8k2y2g8w2g8y2k2r8w2r8w2r8k2y2g14k4g14k4g14y2k2r8w2r8w2r8k12w1b4w1k12y4g6y2g6y4ba2r4k2r14w1b2w1r14w1b2w1r14k2r4ba2y2g8w2g8y2k2r8w2r8w2r8k2y4g8y4k2r8w2r8w2~b2c2c80-ba780078-g006818--h739218ac45c8ac5d/sett.png)|

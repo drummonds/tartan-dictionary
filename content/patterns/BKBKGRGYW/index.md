@@ -16,5 +16,5 @@ BKBKGRGYW
 
 | Tartans |
 |---------------|
-| [Mulcahy (Name)](/setts/s9/b66k2b10k16g16r4g30y2w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Mulcahy (Name) example sett](/setts/s9/b66k2b10k16g16r4g30y2w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Mulcahy (Name)](/setts/s9/b33k1b5k8g8r2g15y1w2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Mulcahy (Name) example sett](/setts/s9/b33k1b5k8g8r2g15y1w2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ KBBR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k160b60ba18r6-b6c0070-ba2c2c80-k101010-rc8002c/tartan.png)
+![Woven sample](/setts/s4/k80b30ba9r3~b6c0070-ba2c2c80-k101010-rc8002c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBBR
 
 | Tartans |
 |---------------|
-| [Doyle Blue](/setts/s4/k160b60ba18r6-b6c0070-ba2c2c80-k101010-rc8002c/)|
-|![Doyle Blue example sett](/setts/s4/k160b60ba18r6-b6c0070-ba2c2c80-k101010-rc8002c/sett.png)|
+| [Doyle Blue](/setts/s4/k80b30ba9r3~b6c0070-ba2c2c80-k101010-rc8002c~x2/)|
+|![Doyle Blue example sett](/setts/s4/k80b30ba9r3~b6c0070-ba2c2c80-k101010-rc8002c~x2/sett.png)|

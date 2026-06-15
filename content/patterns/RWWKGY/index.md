@@ -6,7 +6,7 @@ RWWKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y52g32k20w12wa8r4-g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c/tartan.png)
+![Woven sample](/setts/s6/y13g8k5w3wa2r1~g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWWKGY
 
 | Tartans |
 |---------------|
-| [Ball Hunting](/setts/s6/y52g32k20w12wa8r4-g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c/)|
-|![Ball Hunting example sett](/setts/s6/y52g32k20w12wa8r4-g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c/sett.png)|
+| [Ball Hunting](/setts/s6/y13g8k5w3wa2r1~g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c~x4/)|
+|![Ball Hunting example sett](/setts/s6/y13g8k5w3wa2r1~g009468-k101010-rc80000-w98c8e8-waf8f8f8-ydc943c~x4/sett.png)|

@@ -16,5 +16,5 @@ GRGKGRGRG
 
 | Tartans |
 |---------------|
-| [Redwoods](/setts/s9/g8r36ga4r4ga10k4ga30r2g8-g746450-ga604000-k101010-r880000/)|
-|![Redwoods example sett](/setts/s9/g8r36ga4r4ga10k4ga30r2g8-g746450-ga604000-k101010-r880000/sett.png)|
+| [Redwoods](/setts/s9/g4r18ga2r2ga5k2ga15r1g4~g746450-ga604000-k101010-r880000~x2/)|
+|![Redwoods example sett](/setts/s9/g4r18ga2r2ga5k2ga15r1g4~g746450-ga604000-k101010-r880000~x2/sett.png)|

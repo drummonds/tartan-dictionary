@@ -16,5 +16,5 @@ BGBBYBRRR
 
 | Tartans |
 |---------------|
-| [Hogeboom (Personal)](/setts/s9/b8g6b18ba28y16ba4r70ra4r6-b5c8ca8-ba003c64-g006818-rc80000-rae87878-yfccc00/)|
-|![Hogeboom (Personal) example sett](/setts/s9/b8g6b18ba28y16ba4r70ra4r6-b5c8ca8-ba003c64-g006818-rc80000-rae87878-yfccc00/sett.png)|
+| [Hogeboom (Personal)](/setts/s9/b4g3b9ba14y8ba2r35ra2r3~b5c8ca8-ba003c64-g006818-rc80000-rae87878-yfccc00~x2/)|
+|![Hogeboom (Personal) example sett](/setts/s9/b4g3b9ba14y8ba2r35ra2r3~b5c8ca8-ba003c64-g006818-rc80000-rae87878-yfccc00~x2/sett.png)|

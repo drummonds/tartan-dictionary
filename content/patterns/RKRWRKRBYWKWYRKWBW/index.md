@@ -16,5 +16,5 @@ RKRWRKRBYWKWYRKWBW
 
 | Tartans |
 |---------------|
-| [Jacobite, Old sett](/setts/s18/r18k2r6w10r12k10r8b16y8w2k2w2y8r12k2w4ba2w4-b401000-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Jacobite, Old sett example sett](/setts/s18/r18k2r6w10r12k10r8b16y8w2k2w2y8r12k2w4ba2w4-b401000-ba5480b0-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Jacobite, Old sett](/setts/s18/r9k1r3w5r6k5r4b8y4w1k1w1y4r6k1w2ba1w2~b401000-ba5480b0-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Jacobite, Old sett example sett](/setts/s18/r9k1r3w5r6k5r4b8y4w1k1w1y4r6k1w2ba1w2~b401000-ba5480b0-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

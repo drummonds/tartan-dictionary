@@ -16,7 +16,7 @@ KRKGKGYBKBKWK
 
 | Tartans |
 |---------------|
-| [Survivor](/setts/s13/k6r6k48g6k6g48y6b48k6b6k48w6k6-b004080-g008000-k101010-rff0000-wffffff-yffff00/)|
-|![Survivor example sett](/setts/s13/k6r6k48g6k6g48y6b48k6b6k48w6k6-b004080-g008000-k101010-rff0000-wffffff-yffff00/sett.png)|
-| [Survivor (Fashion)](/setts/s13/k3r3k24g3k3g24y3b24k3b3k24w3k3-b384858-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Survivor (Fashion) example sett](/setts/s13/k3r3k24g3k3g24y3b24k3b3k24w3k3-b384858-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Survivor](/setts/s13/k1r1k8g1k1g8y1b8k1b1k8w1k1~b004080-g008000-k101010-rff0000-wffffff-yffff00~x6/)|
+|![Survivor example sett](/setts/s13/k1r1k8g1k1g8y1b8k1b1k8w1k1~b004080-g008000-k101010-rff0000-wffffff-yffff00~x6/sett.png)|
+| [Survivor (Fashion)](/setts/s13/k1r1k8g1k1g8y1b8k1b1k8w1k1~b384858-g006818-k101010-rc80000-we0e0e0-ye8c000~x3/)|
+|![Survivor (Fashion) example sett](/setts/s13/k1r1k8g1k1g8y1b8k1b1k8w1k1~b384858-g006818-k101010-rc80000-we0e0e0-ye8c000~x3/sett.png)|

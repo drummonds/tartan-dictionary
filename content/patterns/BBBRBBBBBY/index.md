@@ -16,5 +16,5 @@ BBBRBBBBBY
 
 | Tartans |
 |---------------|
-| [Bank of Scotland (2000)](/setts/s10/b128ba6bb8r10bb16bc24b6bc8b4y2-b3850c8-ba1c0070-bb14283c-bc003c64-r880000-yd09800/)|
-|![Bank of Scotland (2000) example sett](/setts/s10/b128ba6bb8r10bb16bc24b6bc8b4y2-b3850c8-ba1c0070-bb14283c-bc003c64-r880000-yd09800/sett.png)|
+| [Bank of Scotland (2000)](/setts/s10/b64ba3bb4r5bb8bc12b3bc4b2y1~b3850c8-ba1c0070-bb14283c-bc003c64-r880000-yd09800~x2/)|
+|![Bank of Scotland (2000) example sett](/setts/s10/b64ba3bb4r5bb8bc12b3bc4b2y1~b3850c8-ba1c0070-bb14283c-bc003c64-r880000-yd09800~x2/sett.png)|

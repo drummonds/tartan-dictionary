@@ -6,7 +6,7 @@ GBRWBWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g16b8r45w6b45w44b6w12-b800080-g008000-rc00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g16b8r45w6b45w44b6w12~b800080-g008000-rc00000-we0e0e0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRWBWBW
 
 | Tartans |
 |---------------|
-| [Culloden, Red (dress)](/setts/s8/g16b8r45w6b45w44b6w12-b800080-g008000-rc00000-we0e0e0/)|
-|![Culloden, Red (dress) example sett](/setts/s8/g16b8r45w6b45w44b6w12-b800080-g008000-rc00000-we0e0e0/sett.png)|
+| [Culloden, Red (dress)](/setts/s8/g16b8r45w6b45w44b6w12~b800080-g008000-rc00000-we0e0e0/)|
+|![Culloden, Red (dress) example sett](/setts/s8/g16b8r45w6b45w44b6w12~b800080-g008000-rc00000-we0e0e0/sett.png)|

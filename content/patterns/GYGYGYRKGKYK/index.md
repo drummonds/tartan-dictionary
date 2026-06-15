@@ -16,5 +16,5 @@ GYGYGYRKGKYK
 
 | Tartans |
 |---------------|
-| [Murison, Ina](/setts/s12/k8y22k8g6k8r12y6g6y8g2y60g6-g006818-k101010-rc80000-ye8c000/)|
-|![Murison, Ina example sett](/setts/s12/k8y22k8g6k8r12y6g6y8g2y60g6-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Murison, Ina](/setts/s12/k4y11k4g3k4r6y3g3y4g1y30g3~g006818-k101010-rc80000-ye8c000~x2/)|
+|![Murison, Ina example sett](/setts/s12/k4y11k4g3k4r6y3g3y4g1y30g3~g006818-k101010-rc80000-ye8c000~x2/sett.png)|

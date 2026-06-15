@@ -6,7 +6,7 @@ GRWR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g36r28w28ra4-g008000-r703000-rac00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s4/g9r7w7ra1~g008000-r703000-rac00000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRWR
 
 | Tartans |
 |---------------|
-| [MacKinnon, dress](/setts/s4/g36r28w28ra4-g008000-r703000-rac00000-we0e0e0/)|
-|![MacKinnon, dress example sett](/setts/s4/g36r28w28ra4-g008000-r703000-rac00000-we0e0e0/sett.png)|
+| [MacKinnon, dress](/setts/s4/g9r7w7ra1~g008000-r703000-rac00000-we0e0e0~x4/)|
+|![MacKinnon, dress example sett](/setts/s4/g9r7w7ra1~g008000-r703000-rac00000-we0e0e0~x4/sett.png)|

@@ -6,7 +6,7 @@ BGRBGRB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6g28r4b20g4r28b6-b5a008c-g005020-r960028/tartan.png)
+![Woven sample](/setts/s7/b3g14r2b10g2r14b3~b5a008c-g005020-r960028~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BGRBGRB
 
 | Tartans |
 |---------------|
-| [Scottish Netball Association](/setts/s7/b6g28r4b20g4r28b6-b5a008c-g005020-r960028/)|
-|![Scottish Netball Association example sett](/setts/s7/b6g28r4b20g4r28b6-b5a008c-g005020-r960028/sett.png)|
-| [Scottish Netball (1986) (Corporate)](/setts/s7/b6g28r4b20g4r28b6-b780078-g006818-ra00048/)|
-|![Scottish Netball (1986) (Corporate) example sett](/setts/s7/b6g28r4b20g4r28b6-b780078-g006818-ra00048/sett.png)|
-| [Scottish Netball Association](/setts/s7/b6g28r4b20g4r28b6-b800080-g008000-r900030/)|
-|![Scottish Netball Association example sett](/setts/s7/b6g28r4b20g4r28b6-b800080-g008000-r900030/sett.png)|
+| [Scottish Netball Association](/setts/s7/b3g14r2b10g2r14b3~b5a008c-g005020-r960028~x2/)|
+|![Scottish Netball Association example sett](/setts/s7/b3g14r2b10g2r14b3~b5a008c-g005020-r960028~x2/sett.png)|
+| [Scottish Netball (1986) (Corporate)](/setts/s7/b3g14r2b10g2r14b3~b780078-g006818-ra00048~x2/)|
+|![Scottish Netball (1986) (Corporate) example sett](/setts/s7/b3g14r2b10g2r14b3~b780078-g006818-ra00048~x2/sett.png)|
+| [Scottish Netball Association](/setts/s7/b3g14r2b10g2r14b3~b800080-g008000-r900030~x2/)|
+|![Scottish Netball Association example sett](/setts/s7/b3g14r2b10g2r14b3~b800080-g008000-r900030~x2/sett.png)|

@@ -16,5 +16,5 @@ GRYRGYGRGRY
 
 | Tartans |
 |---------------|
-| [Strathearn (Royal)](/setts/s11/g4r4y32r24g4y4g4r24g24r4y4-g006818-rc80000-ye8c000/)|
-|![Strathearn (Royal) example sett](/setts/s11/g4r4y32r24g4y4g4r24g24r4y4-g006818-rc80000-ye8c000/sett.png)|
+| [Strathearn (Royal)](/setts/s11/g1r1y8r6g1y1g1r6g6r1y1~g006818-rc80000-ye8c000~x4/)|
+|![Strathearn (Royal) example sett](/setts/s11/g1r1y8r6g1y1g1r6g6r1y1~g006818-rc80000-ye8c000~x4/sett.png)|

@@ -6,7 +6,7 @@ BYBYRRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8y6b8y6r6ra22r6-b1c1c50-rb468ac-ra888888-yb8b8b8/tartan.png)
+![Woven sample](/setts/s7/b4y3b4y3r3ra11r3~b1c1c50-rb468ac-ra888888-yb8b8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBYRRR
 
 | Tartans |
 |---------------|
-| [Stevens #2](/setts/s7/b8y6b8y6r6ra22r6-b1c1c50-rb468ac-ra888888-yb8b8b8/)|
-|![Stevens #2 example sett](/setts/s7/b8y6b8y6r6ra22r6-b1c1c50-rb468ac-ra888888-yb8b8b8/sett.png)|
+| [Stevens #2](/setts/s7/b4y3b4y3r3ra11r3~b1c1c50-rb468ac-ra888888-yb8b8b8~x2/)|
+|![Stevens #2 example sett](/setts/s7/b4y3b4y3r3ra11r3~b1c1c50-rb468ac-ra888888-yb8b8b8~x2/sett.png)|

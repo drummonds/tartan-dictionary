@@ -16,7 +16,7 @@ BRWRWRWRB
 
 | Tartans |
 |---------------|
-| [Twilfit](/setts/s9/b25r46w11r11w7r11w11r46b12-b5c8ca8-re87878-wffffff/)|
-|![Twilfit example sett](/setts/s9/b25r46w11r11w7r11w11r46b12-b5c8ca8-re87878-wffffff/sett.png)|
-| [Twilfit](/setts/s9/b25r46w11r11w7r11w11r46b12-b2c2c80-re87878-wfcfcfc/)|
-|![Twilfit example sett](/setts/s9/b25r46w11r11w7r11w11r46b12-b2c2c80-re87878-wfcfcfc/sett.png)|
+| [Twilfit](/setts/s9/b25r46w11r11w7r11w11r46b12~b5c8ca8-re87878-wffffff/)|
+|![Twilfit example sett](/setts/s9/b25r46w11r11w7r11w11r46b12~b5c8ca8-re87878-wffffff/sett.png)|
+| [Twilfit](/setts/s9/b25r46w11r11w7r11w11r46b12~b2c2c80-re87878-wfcfcfc/)|
+|![Twilfit example sett](/setts/s9/b25r46w11r11w7r11w11r46b12~b2c2c80-re87878-wfcfcfc/sett.png)|

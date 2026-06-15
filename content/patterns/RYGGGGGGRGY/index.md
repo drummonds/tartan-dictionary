@@ -16,5 +16,5 @@ RYGGGGGGRGY
 
 | Tartans |
 |---------------|
-| [Tasmanian](/setts/s11/r8y4g48ga4g4ga4g12ga16r12ga16ya8-g405040-ga808080-r802040-ye0a0a0-yaffe000/)|
-|![Tasmanian example sett](/setts/s11/r8y4g48ga4g4ga4g12ga16r12ga16ya8-g405040-ga808080-r802040-ye0a0a0-yaffe000/sett.png)|
+| [Tasmanian](/setts/s11/r2y1g12ga1g1ga1g3ga4r3ga4ya2~g405040-ga808080-r802040-ye0a0a0-yaffe000~x4/)|
+|![Tasmanian example sett](/setts/s11/r2y1g12ga1g1ga1g3ga4r3ga4ya2~g405040-ga808080-r802040-ye0a0a0-yaffe000~x4/sett.png)|

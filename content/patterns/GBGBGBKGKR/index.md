@@ -16,5 +16,5 @@ GBGBGBKGKR
 
 | Tartans |
 |---------------|
-| [Urbino (Fashion)](/setts/s10/g12b8g8b8g8b80k80g88k4r12-b780078-g004c00-k000000-ra0783c/)|
-|![Urbino (Fashion) example sett](/setts/s10/g12b8g8b8g8b80k80g88k4r12-b780078-g004c00-k000000-ra0783c/sett.png)|
+| [Urbino (Fashion)](/setts/s10/g3b2g2b2g2b20k20g22k1r3~b780078-g004c00-k000000-ra0783c~x4/)|
+|![Urbino (Fashion) example sett](/setts/s10/g3b2g2b2g2b20k20g22k1r3~b780078-g004c00-k000000-ra0783c~x4/sett.png)|

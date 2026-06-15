@@ -16,5 +16,5 @@ RGYGBGBKBW
 
 | Tartans |
 |---------------|
-| [Sarasota - Dunfermline (Commemorat)](/setts/s10/r4g12y4g6b8g28b72k4b6w4-b1870a4-g408060-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Sarasota - Dunfermline (Commemorat) example sett](/setts/s10/r4g12y4g6b8g28b72k4b6w4-b1870a4-g408060-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Sarasota - Dunfermline (Commemorat)](/setts/s10/r2g6y2g3b4g14b36k2b3w2~b1870a4-g408060-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Sarasota - Dunfermline (Commemorat) example sett](/setts/s10/r2g6y2g3b4g14b36k2b3w2~b1870a4-g408060-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

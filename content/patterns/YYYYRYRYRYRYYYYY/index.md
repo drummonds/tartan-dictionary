@@ -16,5 +16,5 @@ YYYYRYRYRYRYYYYY
 
 | Tartans |
 |---------------|
-| [Compaq](/setts/s16/y6ya6y6ya6r6ya6r6ya6r6ya6r6ya6y6ya6y6ya6-rc80000-yd87c00-yae8c000/)|
-|![Compaq example sett](/setts/s16/y6ya6y6ya6r6ya6r6ya6r6ya6r6ya6y6ya6y6ya6-rc80000-yd87c00-yae8c000/sett.png)|
+| [Compaq](/setts/s16/y1ya1y1ya1r1ya1r1ya1r1ya1r1ya1y1ya1y1ya1~rc80000-yd87c00-yae8c000~x6/)|
+|![Compaq example sett](/setts/s16/y1ya1y1ya1r1ya1r1ya1r1ya1r1ya1y1ya1y1ya1~rc80000-yd87c00-yae8c000~x6/sett.png)|

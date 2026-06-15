@@ -6,7 +6,7 @@ WRYGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w60r80y8g4ya4-g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0/tartan.png)
+![Woven sample](/setts/s5/w15r20y2g1ya1~g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRYGY
 
 | Tartans |
 |---------------|
-| [Tomomi](/setts/s5/w60r80y8g4ya4-g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0/)|
-|![Tomomi example sett](/setts/s5/w60r80y8g4ya4-g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0/sett.png)|
+| [Tomomi](/setts/s5/w15r20y2g1ya1~g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0~x4/)|
+|![Tomomi example sett](/setts/s5/w15r20y2g1ya1~g006818-rc80000-wfcfcfc-ye8c000-ya48a4c0~x4/sett.png)|

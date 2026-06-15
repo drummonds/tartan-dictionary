@@ -16,5 +16,5 @@ RGRGRGRBW
 
 | Tartans |
 |---------------|
-| [Baluch Regiment (Military)](/setts/s9/r10g40r10g6r8g10r72b4w8-b4c3428-g006818-rc80000-wfcfcfc/)|
-|![Baluch Regiment (Military) example sett](/setts/s9/r10g40r10g6r8g10r72b4w8-b4c3428-g006818-rc80000-wfcfcfc/sett.png)|
+| [Baluch Regiment (Military)](/setts/s9/r5g20r5g3r4g5r36b2w4~b4c3428-g006818-rc80000-wfcfcfc~x2/)|
+|![Baluch Regiment (Military) example sett](/setts/s9/r5g20r5g3r4g5r36b2w4~b4c3428-g006818-rc80000-wfcfcfc~x2/sett.png)|

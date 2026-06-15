@@ -6,7 +6,7 @@ KYWW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/w40wa26y48k6-k101010-wd3d3d3-waffffff-yffd700/tartan.png)
+![Woven sample](/setts/s4/w20wa13y24k3~k101010-wd3d3d3-waffffff-yffd700~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYWW
 
 | Tartans |
 |---------------|
-| [Spirit of Riverside](/setts/s4/w40wa26y48k6-k101010-wd3d3d3-waffffff-yffd700/)|
-|![Spirit of Riverside example sett](/setts/s4/w40wa26y48k6-k101010-wd3d3d3-waffffff-yffd700/sett.png)|
+| [Spirit of Riverside](/setts/s4/w20wa13y24k3~k101010-wd3d3d3-waffffff-yffd700~x2/)|
+|![Spirit of Riverside example sett](/setts/s4/w20wa13y24k3~k101010-wd3d3d3-waffffff-yffd700~x2/sett.png)|

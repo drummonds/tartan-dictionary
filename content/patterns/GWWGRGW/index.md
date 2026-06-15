@@ -6,7 +6,7 @@ GWWGRGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g2w4wa32g16r32g4w2-g503c14-rb07064-wf8f8ec-wac0c0c0/tartan.png)
+![Woven sample](/setts/s7/g1w2wa16g8r16g2w1~g503c14-rb07064-wf8f8ec-wac0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWWGRGW
 
 | Tartans |
 |---------------|
-| [Jones (2016)](/setts/s7/g2w4wa32g16r32g4w2-g503c14-rb07064-wf8f8ec-wac0c0c0/)|
-|![Jones (2016) example sett](/setts/s7/g2w4wa32g16r32g4w2-g503c14-rb07064-wf8f8ec-wac0c0c0/sett.png)|
+| [Jones (2016)](/setts/s7/g1w2wa16g8r16g2w1~g503c14-rb07064-wf8f8ec-wac0c0c0~x2/)|
+|![Jones (2016) example sett](/setts/s7/g1w2wa16g8r16g2w1~g503c14-rb07064-wf8f8ec-wac0c0c0~x2/sett.png)|

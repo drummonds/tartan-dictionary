@@ -16,5 +16,5 @@ BGBGBGKGWGKGBGBGK
 
 | Tartans |
 |---------------|
-| [Blairgowrie](/setts/s17/k80g12b40ga12b20ga100k4ga4w12ga4k4ga100b20ga12b40g4b8-b2c2c80-g808080-ga006818-k101010-wffffff/)|
-|![Blairgowrie example sett](/setts/s17/k80g12b40ga12b20ga100k4ga4w12ga4k4ga100b20ga12b40g4b8-b2c2c80-g808080-ga006818-k101010-wffffff/sett.png)|
+| [Blairgowrie](/setts/s17/k20g3b10ga3b5ga25k1ga1w3ga1k1ga25b5ga3b10g1b2~b2c2c80-g808080-ga006818-k101010-wffffff~x4/)|
+|![Blairgowrie example sett](/setts/s17/k20g3b10ga3b5ga25k1ga1w3ga1k1ga25b5ga3b10g1b2~b2c2c80-g808080-ga006818-k101010-wffffff~x4/sett.png)|

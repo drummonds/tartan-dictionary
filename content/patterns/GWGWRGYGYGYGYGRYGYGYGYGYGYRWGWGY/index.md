@@ -16,5 +16,5 @@ GWGWRGYGYGYGYGRYGYGYGYGYGYRWGWGY
 
 | Tartans |
 |---------------|
-| [Strathearn Dress (Fashion?)](/setts/s32/g4w20g8w8r14ga20y8ga4y4ga10y4ga4y8ga20r14y4g14y10g4y4g10y4g4y8g14y4r14w8g8w20g4y4-g604000-ga285800-r880000-we0e0e0-yec8048/)|
-|![Strathearn Dress (Fashion?) example sett](/setts/s32/g4w20g8w8r14ga20y8ga4y4ga10y4ga4y8ga20r14y4g14y10g4y4g10y4g4y8g14y4r14w8g8w20g4y4-g604000-ga285800-r880000-we0e0e0-yec8048/sett.png)|
+| [Strathearn Dress (Fashion?)](/setts/s32/g2w10g4w4r7ga10y4ga2y2ga5y2ga2y4ga10r7y2g7y5g2y2g5y2g2y4g7y2r7w4g4w10g2y2~g604000-ga285800-r880000-we0e0e0-yec8048~x2/)|
+|![Strathearn Dress (Fashion?) example sett](/setts/s32/g2w10g4w4r7ga10y4ga2y2ga5y2ga2y4ga10r7y2g7y5g2y2g5y2g2y4g7y2r7w4g4w10g2y2~g604000-ga285800-r880000-we0e0e0-yec8048~x2/sett.png)|

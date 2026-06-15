@@ -16,5 +16,5 @@ BBYBRBYRRYRY
 
 | Tartans |
 |---------------|
-| [Rainbow #2](/setts/s12/b42ba42y42b4r4ba4ya42ra42r42y4ra4ya4-b3f0ffe-ba0596fa-rdc0000-rae13205-y82c880-yae8c000/)|
-|![Rainbow #2 example sett](/setts/s12/b42ba42y42b4r4ba4ya42ra42r42y4ra4ya4-b3f0ffe-ba0596fa-rdc0000-rae13205-y82c880-yae8c000/sett.png)|
+| [Rainbow #2](/setts/s12/b21ba21y21b2r2ba2ya21ra21r21y2ra2ya2~b3f0ffe-ba0596fa-rdc0000-rae13205-y82c880-yae8c000~x2/)|
+|![Rainbow #2 example sett](/setts/s12/b21ba21y21b2r2ba2ya21ra21r21y2ra2ya2~b3f0ffe-ba0596fa-rdc0000-rae13205-y82c880-yae8c000~x2/sett.png)|

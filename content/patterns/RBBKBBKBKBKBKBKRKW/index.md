@@ -16,5 +16,5 @@ RBBKBBKBKBKBKBKRKW
 
 | Tartans |
 |---------------|
-| [Breeding](/setts/s18/w12k4r80k32b12k4b8k4ba8k4bb4k4ba8b14k4ba12b2r8-b003c64-ba60707c-bb2888b8-k101010-r982428-wf0e8d0/)|
-|![Breeding example sett](/setts/s18/w12k4r80k32b12k4b8k4ba8k4bb4k4ba8b14k4ba12b2r8-b003c64-ba60707c-bb2888b8-k101010-r982428-wf0e8d0/sett.png)|
+| [Breeding](/setts/s18/w6k2r40k16b6k2b4k2ba4k2bb2k2ba4b7k2ba6b1r4~b003c64-ba60707c-bb2888b8-k101010-r982428-wf0e8d0~x2/)|
+|![Breeding example sett](/setts/s18/w6k2r40k16b6k2b4k2ba4k2bb2k2ba4b7k2ba6b1r4~b003c64-ba60707c-bb2888b8-k101010-r982428-wf0e8d0~x2/sett.png)|

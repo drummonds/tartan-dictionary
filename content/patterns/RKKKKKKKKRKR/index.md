@@ -16,5 +16,5 @@ RKKKKKKKKRKR
 
 | Tartans |
 |---------------|
-| [Highland Spring (1985) (Corporate)](/setts/s12/r32k4r18k24k4k20k6k4k6k4k6r20-k000000-rc82800/)|
-|![Highland Spring (1985) (Corporate) example sett](/setts/s12/r32k4r18k24k4k20k6k4k6k4k6r20-k000000-rc82800/sett.png)|
+| [Highland Spring (1985) (Corporate)](/setts/s12/r16k2r9k12k2k10k3k2k3k2k3r10~k000000-rc82800~x2/)|
+|![Highland Spring (1985) (Corporate) example sett](/setts/s12/r16k2r9k12k2k10k3k2k3k2k3r10~k000000-rc82800~x2/sett.png)|

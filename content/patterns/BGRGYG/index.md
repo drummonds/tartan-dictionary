@@ -6,7 +6,7 @@ BGRGYG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b16g8r60ga60y6ga8-b003c64-g789484-ga00643c-rcc4438-ydc943c/tartan.png)
+![Woven sample](/setts/s6/b8g4r30ga30y3ga4~b003c64-g789484-ga00643c-rcc4438-ydc943c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRGYG
 
 | Tartans |
 |---------------|
-| [Hutcheson (Name)](/setts/s6/b16g8r60ga60y6ga8-b003c64-g789484-ga00643c-rcc4438-ydc943c/)|
-|![Hutcheson (Name) example sett](/setts/s6/b16g8r60ga60y6ga8-b003c64-g789484-ga00643c-rcc4438-ydc943c/sett.png)|
+| [Hutcheson (Name)](/setts/s6/b8g4r30ga30y3ga4~b003c64-g789484-ga00643c-rcc4438-ydc943c~x2/)|
+|![Hutcheson (Name) example sett](/setts/s6/b8g4r30ga30y3ga4~b003c64-g789484-ga00643c-rcc4438-ydc943c~x2/sett.png)|

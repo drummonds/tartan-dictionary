@@ -16,5 +16,5 @@ GYGRGRGBKBKBGYGBKBKBGRGRGYGR
 
 | Tartans |
 |---------------|
-| [Holmes](/setts/s28/g6y4g10r4g6r4g64b18k6b10k6b18g78y8g78b18k6b10k6b18g64r4g6r4g10y4g6r6-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Holmes example sett](/setts/s28/g6y4g10r4g6r4g64b18k6b10k6b18g78y8g78b18k6b10k6b18g64r4g6r4g10y4g6r6-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Holmes](/setts/s28/g3y2g5r2g3r2g32b9k3b5k3b9g39y4g39b9k3b5k3b9g32r2g3r2g5y2g3r3~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Holmes example sett](/setts/s28/g3y2g5r2g3r2g32b9k3b5k3b9g39y4g39b9k3b5k3b9g32r2g3r2g5y2g3r3~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

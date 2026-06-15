@@ -6,7 +6,7 @@ BKBYK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b40k10b36y52k12-b2c2c80-k101010-yd09800/tartan.png)
+![Woven sample](/setts/s5/b20k5b18y26k6~b2c2c80-k101010-yd09800~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBYK
 
 | Tartans |
 |---------------|
-| [Johore Regiment (Military)](/setts/s5/b40k10b36y52k12-b2c2c80-k101010-yd09800/)|
-|![Johore Regiment (Military) example sett](/setts/s5/b40k10b36y52k12-b2c2c80-k101010-yd09800/sett.png)|
-| [Jahore](/setts/s5/b40k10b36y52k12-b304080-k000000-yf0c000/)|
-|![Jahore example sett](/setts/s5/b40k10b36y52k12-b304080-k000000-yf0c000/sett.png)|
+| [Johore Regiment (Military)](/setts/s5/b20k5b18y26k6~b2c2c80-k101010-yd09800~x2/)|
+|![Johore Regiment (Military) example sett](/setts/s5/b20k5b18y26k6~b2c2c80-k101010-yd09800~x2/sett.png)|
+| [Jahore](/setts/s5/b20k5b18y26k6~b304080-k000000-yf0c000~x2/)|
+|![Jahore example sett](/setts/s5/b20k5b18y26k6~b304080-k000000-yf0c000~x2/sett.png)|

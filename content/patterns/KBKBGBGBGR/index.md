@@ -16,5 +16,5 @@ KBKBGBGBGR
 
 | Tartans |
 |---------------|
-| [Nichol (Personal)](/setts/s10/k6b30k24b6g6b6g24b30g6r6-b202060-g285800-k101010-rc80000/)|
-|![Nichol (Personal) example sett](/setts/s10/k6b30k24b6g6b6g24b30g6r6-b202060-g285800-k101010-rc80000/sett.png)|
+| [Nichol (Personal)](/setts/s10/k1b5k4b1g1b1g4b5g1r1~b202060-g285800-k101010-rc80000~x6/)|
+|![Nichol (Personal) example sett](/setts/s10/k1b5k4b1g1b1g4b5g1r1~b202060-g285800-k101010-rc80000~x6/sett.png)|

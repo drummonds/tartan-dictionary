@@ -16,7 +16,7 @@ KGYGYGBRBGGKGRGRGY
 
 | Tartans |
 |---------------|
-| [Harmon Hunting](/setts/s18/k4g12y4g4y4g38b4r4b4g4ga8k4ga22r4ga4r4ga12y4-b003c64-g006818-ga003820-k10101a-r880000-ye8c000/)|
-|![Harmon Hunting example sett](/setts/s18/k4g12y4g4y4g38b4r4b4g4ga8k4ga22r4ga4r4ga12y4-b003c64-g006818-ga003820-k10101a-r880000-ye8c000/sett.png)|
-| [Harmon Hunting (Personal)](/setts/s18/k4g12y4g4y4g38b4r4b4g4ga8k4ga22r4ga4r4ga12y4-b003c64-g006818-ga285800-k101010-rc80000-ybc8c00/)|
-|![Harmon Hunting (Personal) example sett](/setts/s18/k4g12y4g4y4g38b4r4b4g4ga8k4ga22r4ga4r4ga12y4-b003c64-g006818-ga285800-k101010-rc80000-ybc8c00/sett.png)|
+| [Harmon Hunting](/setts/s18/k2g6y2g2y2g19b2r2b2g2ga4k2ga11r2ga2r2ga6y2~b003c64-g006818-ga003820-k10101a-r880000-ye8c000~x2/)|
+|![Harmon Hunting example sett](/setts/s18/k2g6y2g2y2g19b2r2b2g2ga4k2ga11r2ga2r2ga6y2~b003c64-g006818-ga003820-k10101a-r880000-ye8c000~x2/sett.png)|
+| [Harmon Hunting (Personal)](/setts/s18/k2g6y2g2y2g19b2r2b2g2ga4k2ga11r2ga2r2ga6y2~b003c64-g006818-ga285800-k101010-rc80000-ybc8c00~x2/)|
+|![Harmon Hunting (Personal) example sett](/setts/s18/k2g6y2g2y2g19b2r2b2g2ga4k2ga11r2ga2r2ga6y2~b003c64-g006818-ga285800-k101010-rc80000-ybc8c00~x2/sett.png)|

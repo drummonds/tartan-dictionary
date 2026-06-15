@@ -16,5 +16,5 @@ RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW
 
 | Tartans |
 |---------------|
-| [Boy Scouts of Canada (Corporate)](/setts/s32/w48r48w48r9w3r3w9r3w3r3w3r9w9r9w3r3w9r3w3r9w9r9w3r3w9r3w3r9w3r3w3r9-rc80000-we0e0e0/)|
-|![Boy Scouts of Canada (Corporate) example sett](/setts/s32/w48r48w48r9w3r3w9r3w3r3w3r9w9r9w3r3w9r3w3r9w9r9w3r3w9r3w3r9w3r3w3r9-rc80000-we0e0e0/sett.png)|
+| [Boy Scouts of Canada (Corporate)](/setts/s32/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3~rc80000-we0e0e0~x3/)|
+|![Boy Scouts of Canada (Corporate) example sett](/setts/s32/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3~rc80000-we0e0e0~x3/sett.png)|

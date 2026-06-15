@@ -16,5 +16,5 @@ YKYKRKRKYKYKY
 
 | Tartans |
 |---------------|
-| [Unidentified (NZ)](/setts/s13/y32k4y4k4y4k32r32k6r32k32y32k4y4-k101010-r901c38-ybc8c00/)|
-|![Unidentified (NZ) example sett](/setts/s13/y32k4y4k4y4k32r32k6r32k32y32k4y4-k101010-r901c38-ybc8c00/sett.png)|
+| [Unidentified (NZ)](/setts/s13/y16k2y2k2y2k16r16k3r16k16y16k2y2~k101010-r901c38-ybc8c00~x2/)|
+|![Unidentified (NZ) example sett](/setts/s13/y16k2y2k2y2k16r16k3r16k16y16k2y2~k101010-r901c38-ybc8c00~x2/sett.png)|

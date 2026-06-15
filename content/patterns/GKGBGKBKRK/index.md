@@ -16,5 +16,5 @@ GKGBGKBKRK
 
 | Tartans |
 |---------------|
-| [Lochnagar Dress (Fashion)](/setts/s10/g10k2g66b2g18k18b10k2r4k8-b440044-g686868-k101010-r880000/)|
-|![Lochnagar Dress (Fashion) example sett](/setts/s10/g10k2g66b2g18k18b10k2r4k8-b440044-g686868-k101010-r880000/sett.png)|
+| [Lochnagar Dress (Fashion)](/setts/s10/g5k1g33b1g9k9b5k1r2k4~b440044-g686868-k101010-r880000~x2/)|
+|![Lochnagar Dress (Fashion) example sett](/setts/s10/g5k1g33b1g9k9b5k1r2k4~b440044-g686868-k101010-r880000~x2/sett.png)|

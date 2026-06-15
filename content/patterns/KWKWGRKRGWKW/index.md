@@ -16,5 +16,5 @@ KWKWGRKRGWKW
 
 | Tartans |
 |---------------|
-| [Wild Highlanders](/setts/s12/k72w6k20w6g56r12k36r12g56w6k20w6-g00643c-k101010-r901c38-wfcfcfc/)|
-|![Wild Highlanders example sett](/setts/s12/k72w6k20w6g56r12k36r12g56w6k20w6-g00643c-k101010-r901c38-wfcfcfc/sett.png)|
+| [Wild Highlanders](/setts/s12/k36w3k10w3g28r6k18r6g28w3k10w3~g00643c-k101010-r901c38-wfcfcfc~x2/)|
+|![Wild Highlanders example sett](/setts/s12/k36w3k10w3g28r6k18r6g28w3k10w3~g00643c-k101010-r901c38-wfcfcfc~x2/sett.png)|

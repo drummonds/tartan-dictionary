@@ -16,5 +16,5 @@ BKRKBKRBRKYKRKBRKRKRBKRKYKRBRKBKRK
 
 | Tartans |
 |---------------|
-| [Grand Lodge of Canada (Corporate)](/setts/s34/b10k2r30k4b6k20r10ba30r10k4y8k4r2k4ba30r30k8r4k8r30ba30k4r2k4y8k4r10ba30r10k20b6k4r30k2-b2888c4-ba2c2c80-k101010-rc80000-ye8c000/)|
-|![Grand Lodge of Canada (Corporate) example sett](/setts/s34/b10k2r30k4b6k20r10ba30r10k4y8k4r2k4ba30r30k8r4k8r30ba30k4r2k4y8k4r10ba30r10k20b6k4r30k2-b2888c4-ba2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Grand Lodge of Canada (Corporate)](/setts/s34/b5k1r15k2b3k10r5ba15r5k2y4k2r1k2ba15r15k4r2k4r15ba15k2r1k2y4k2r5ba15r5k10b3k2r15k1~b2888c4-ba2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![Grand Lodge of Canada (Corporate) example sett](/setts/s34/b5k1r15k2b3k10r5ba15r5k2y4k2r1k2ba15r15k4r2k4r15ba15k2r1k2y4k2r5ba15r5k10b3k2r15k1~b2888c4-ba2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

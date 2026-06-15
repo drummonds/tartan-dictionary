@@ -16,5 +16,5 @@ GBKYRGYGGY
 
 | Tartans |
 |---------------|
-| [State Seal of New Hampshire (Fash.)](/setts/s10/g98b12k24y8r12g58ya8ga32g14y8-b1474b4-g006818-ga604000-k101010-r880000-ya08858-yabc8c00/)|
-|![State Seal of New Hampshire (Fash.) example sett](/setts/s10/g98b12k24y8r12g58ya8ga32g14y8-b1474b4-g006818-ga604000-k101010-r880000-ya08858-yabc8c00/sett.png)|
+| [State Seal of New Hampshire (Fash.)](/setts/s10/g49b6k12y4r6g29ya4ga16g7y4~b1474b4-g006818-ga604000-k101010-r880000-ya08858-yabc8c00~x2/)|
+|![State Seal of New Hampshire (Fash.) example sett](/setts/s10/g49b6k12y4r6g29ya4ga16g7y4~b1474b4-g006818-ga604000-k101010-r880000-ya08858-yabc8c00~x2/sett.png)|

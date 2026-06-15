@@ -16,7 +16,7 @@ KRKRWRKRKRKRW
 
 | Tartans |
 |---------------|
-| [Westwood MacBrick (Fashion)](/setts/s13/k22r4k22r40w4r40k14r2k14r2k14r22w2-k101010-rcc4438-we0e0e0/)|
-|![Westwood MacBrick (Fashion) example sett](/setts/s13/k22r4k22r40w4r40k14r2k14r2k14r22w2-k101010-rcc4438-we0e0e0/sett.png)|
-| [Westwood MacRock (Fashion)](/setts/s13/k22r4k22r40w4r40k14r2k14r2k14r22w2-k101010-r888888-we0e0e0/)|
-|![Westwood MacRock (Fashion) example sett](/setts/s13/k22r4k22r40w4r40k14r2k14r2k14r22w2-k101010-r888888-we0e0e0/sett.png)|
+| [Westwood MacBrick (Fashion)](/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~k101010-rcc4438-we0e0e0~x2/)|
+|![Westwood MacBrick (Fashion) example sett](/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~k101010-rcc4438-we0e0e0~x2/sett.png)|
+| [Westwood MacRock (Fashion)](/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~k101010-r888888-we0e0e0~x2/)|
+|![Westwood MacRock (Fashion) example sett](/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~k101010-r888888-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ BRWBWRYRWR
 
 | Tartans |
 |---------------|
-| [Glenfinnan (Clan?)](/setts/s10/b56r52w4b10w4r52y56r10w4r10-b506880-r880000-wfcfcfc-y78a064/)|
-|![Glenfinnan (Clan?) example sett](/setts/s10/b56r52w4b10w4r52y56r10w4r10-b506880-r880000-wfcfcfc-y78a064/sett.png)|
+| [Glenfinnan (Clan?)](/setts/s10/b28r26w2b5w2r26y28r5w2r5~b506880-r880000-wfcfcfc-y78a064~x2/)|
+|![Glenfinnan (Clan?) example sett](/setts/s10/b28r26w2b5w2r26y28r5w2r5~b506880-r880000-wfcfcfc-y78a064~x2/sett.png)|

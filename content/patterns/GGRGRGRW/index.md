@@ -6,7 +6,7 @@ GGRGRGRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w48r16g4r16g4r16ga30gb4-g2a2303-ga503c14-gb005020-rfa4b00-wf5dca0/tartan.png)
+![Woven sample](/setts/s8/w24r8g2r8g2r8ga15gb2~g2a2303-ga503c14-gb005020-rfa4b00-wf5dca0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGRGRGRW
 
 | Tartans |
 |---------------|
-| [Unidentified from Winnipeg](/setts/s8/w48r16g4r16g4r16ga30gb4-g2a2303-ga503c14-gb005020-rfa4b00-wf5dca0/)|
-|![Unidentified from Winnipeg example sett](/setts/s8/w48r16g4r16g4r16ga30gb4-g2a2303-ga503c14-gb005020-rfa4b00-wf5dca0/sett.png)|
+| [Unidentified from Winnipeg](/setts/s8/w24r8g2r8g2r8ga15gb2~g2a2303-ga503c14-gb005020-rfa4b00-wf5dca0~x2/)|
+|![Unidentified from Winnipeg example sett](/setts/s8/w24r8g2r8g2r8ga15gb2~g2a2303-ga503c14-gb005020-rfa4b00-wf5dca0~x2/sett.png)|

@@ -16,5 +16,5 @@ GKRGRBGRGRBRGK
 
 | Tartans |
 |---------------|
-| [MacIntyre and Glenorchy](/setts/s14/g4k4r6g36r6b12ga4r8g12r4b36r6g4k4-b440044-g006818-ga789484-k101010-rc80000/)|
-|![MacIntyre and Glenorchy example sett](/setts/s14/g4k4r6g36r6b12ga4r8g12r4b36r6g4k4-b440044-g006818-ga789484-k101010-rc80000/sett.png)|
+| [MacIntyre and Glenorchy](/setts/s14/g2k2r3g18r3b6ga2r4g6r2b18r3g2k2~b440044-g006818-ga789484-k101010-rc80000~x2/)|
+|![MacIntyre and Glenorchy example sett](/setts/s14/g2k2r3g18r3b6ga2r4g6r2b18r3g2k2~b440044-g006818-ga789484-k101010-rc80000~x2/sett.png)|

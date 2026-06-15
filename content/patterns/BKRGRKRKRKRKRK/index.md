@@ -16,7 +16,7 @@ BKRGRKRKRKRKRK
 
 | Tartans |
 |---------------|
-| [Hebridean](/setts/s14/b4k20r4g4r4k20r4k20r2k4r2k20r2k4-b2c4084-g005020-k101010-rdc0000/)|
-|![Hebridean example sett](/setts/s14/b4k20r4g4r4k20r4k20r2k4r2k20r2k4-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [Hebridean 7](/setts/s14/b4k20r4g4r4k20r4k20r2k4r2k20r2k4-b304080-g008000-k000000-rc00000/)|
-|![Hebridean 7 example sett](/setts/s14/b4k20r4g4r4k20r4k20r2k4r2k20r2k4-b304080-g008000-k000000-rc00000/sett.png)|
+| [Hebridean](/setts/s14/b2k10r2g2r2k10r2k10r1k2r1k10r1k2~b2c4084-g005020-k101010-rdc0000~x2/)|
+|![Hebridean example sett](/setts/s14/b2k10r2g2r2k10r2k10r1k2r1k10r1k2~b2c4084-g005020-k101010-rdc0000~x2/sett.png)|
+| [Hebridean 7](/setts/s14/b2k10r2g2r2k10r2k10r1k2r1k10r1k2~b304080-g008000-k000000-rc00000~x2/)|
+|![Hebridean 7 example sett](/setts/s14/b2k10r2g2r2k10r2k10r1k2r1k10r1k2~b304080-g008000-k000000-rc00000~x2/sett.png)|

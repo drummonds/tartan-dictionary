@@ -6,7 +6,7 @@ BBWBRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6ba48w6b24r48w6-b141e46-ba505050-r781c38-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/b1ba8w1b4r8w1~b141e46-ba505050-r781c38-we0e0e0~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBRW
 
 | Tartans |
 |---------------|
-| [Little's Chauffeur Drive](/setts/s6/b6ba48w6b24r48w6-b141e46-ba505050-r781c38-we0e0e0/)|
-|![Little's Chauffeur Drive example sett](/setts/s6/b6ba48w6b24r48w6-b141e46-ba505050-r781c38-we0e0e0/sett.png)|
+| [Little's Chauffeur Drive](/setts/s6/b1ba8w1b4r8w1~b141e46-ba505050-r781c38-we0e0e0~x6/)|
+|![Little's Chauffeur Drive example sett](/setts/s6/b1ba8w1b4r8w1~b141e46-ba505050-r781c38-we0e0e0~x6/sett.png)|

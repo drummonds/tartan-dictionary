@@ -6,7 +6,7 @@ GYGWGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8y4g48w24ga48r4-g006818-ga408060-r880000-wc0c0c0-yd09800/tartan.png)
+![Woven sample](/setts/s6/g2y1g12w6ga12r1~g006818-ga408060-r880000-wc0c0c0-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGWGR
 
 | Tartans |
 |---------------|
-| [City of Vancouver (Commemorative)](/setts/s6/g8y4g48w24ga48r4-g006818-ga408060-r880000-wc0c0c0-yd09800/)|
-|![City of Vancouver (Commemorative) example sett](/setts/s6/g8y4g48w24ga48r4-g006818-ga408060-r880000-wc0c0c0-yd09800/sett.png)|
+| [City of Vancouver (Commemorative)](/setts/s6/g2y1g12w6ga12r1~g006818-ga408060-r880000-wc0c0c0-yd09800~x4/)|
+|![City of Vancouver (Commemorative) example sett](/setts/s6/g2y1g12w6ga12r1~g006818-ga408060-r880000-wc0c0c0-yd09800~x4/sett.png)|

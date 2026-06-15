@@ -6,7 +6,7 @@ WYWYWYWY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/tartan.png)
+![Woven sample](/setts/s8/w60y15w3y3w3y3w5y15~we0e0e0-yeca4a4~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYWYWYWY
 
 | Tartans |
 |---------------|
-| [Walk the Walk](/setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/)|
-|![Walk the Walk example sett](/setts/s8/w120y30w6y6w6y6w10y30-we0e0e0-yeca4a4/sett.png)|
+| [Walk the Walk](/setts/s8/w60y15w3y3w3y3w5y15~we0e0e0-yeca4a4~x2/)|
+|![Walk the Walk example sett](/setts/s8/w60y15w3y3w3y3w5y15~we0e0e0-yeca4a4~x2/sett.png)|

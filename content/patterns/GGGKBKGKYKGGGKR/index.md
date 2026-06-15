@@ -16,5 +16,5 @@ GGGKBKGKYKGGGKR
 
 | Tartans |
 |---------------|
-| [Eastern Shore Police (Corporate)](/setts/s15/g8ga80g8k16b8k16g10k4y8k4ga2g4ga4k2r2-b2c2c80-g006818-ga003820-k101010-r888888-ybc8c00/)|
-|![Eastern Shore Police (Corporate) example sett](/setts/s15/g8ga80g8k16b8k16g10k4y8k4ga2g4ga4k2r2-b2c2c80-g006818-ga003820-k101010-r888888-ybc8c00/sett.png)|
+| [Eastern Shore Police (Corporate)](/setts/s15/g4ga40g4k8b4k8g5k2y4k2ga1g2ga2k1r1~b2c2c80-g006818-ga003820-k101010-r888888-ybc8c00~x2/)|
+|![Eastern Shore Police (Corporate) example sett](/setts/s15/g4ga40g4k8b4k8g5k2y4k2ga1g2ga2k1r1~b2c2c80-g006818-ga003820-k101010-r888888-ybc8c00~x2/sett.png)|

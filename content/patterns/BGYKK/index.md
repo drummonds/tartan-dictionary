@@ -6,7 +6,7 @@ BGYKK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b176g6y4k4ka2-b5c5c5c-g604000-k101010-ka000000-ya08858/tartan.png)
+![Woven sample](/setts/s5/b88g3y2k2ka1~b5c5c5c-g604000-k101010-ka000000-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYKK
 
 | Tartans |
 |---------------|
-| [Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/b176g6y4k4ka2-b5c5c5c-g604000-k101010-ka000000-ya08858/)|
-|![Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/b176g6y4k4ka2-b5c5c5c-g604000-k101010-ka000000-ya08858/sett.png)|
+| [Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/b88g3y2k2ka1~b5c5c5c-g604000-k101010-ka000000-ya08858~x2/)|
+|![Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/b88g3y2k2ka1~b5c5c5c-g604000-k101010-ka000000-ya08858~x2/sett.png)|

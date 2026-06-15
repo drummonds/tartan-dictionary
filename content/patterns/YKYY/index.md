@@ -6,7 +6,7 @@ YKYY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/tartan.png)
+![Woven sample](/setts/s4/y1k6y6ya1~k000000-yaaaa00-yaaaaaaa~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YKYY
 
 | Tartans |
 |---------------|
-| [Barclay Dress](/setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/)|
-|![Barclay Dress example sett](/setts/s4/y2k12y12ya2-k000000-yaaaa00-yaaaaaaa/sett.png)|
+| [Barclay Dress](/setts/s4/y1k6y6ya1~k000000-yaaaa00-yaaaaaaa~x2/)|
+|![Barclay Dress example sett](/setts/s4/y1k6y6ya1~k000000-yaaaa00-yaaaaaaa~x2/sett.png)|

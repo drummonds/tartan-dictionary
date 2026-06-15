@@ -16,5 +16,5 @@ BGBBGBKGKBW
 
 | Tartans |
 |---------------|
-| [Highland Pride of Scotland (Fashion)](/setts/s11/b18g4ba4bb4g36ba4k4g2k38b66w4-b202060-ba780078-bb440044-g285800-k101010-we0e0e0/)|
-|![Highland Pride of Scotland (Fashion) example sett](/setts/s11/b18g4ba4bb4g36ba4k4g2k38b66w4-b202060-ba780078-bb440044-g285800-k101010-we0e0e0/sett.png)|
+| [Highland Pride of Scotland (Fashion)](/setts/s11/b9g2ba2bb2g18ba2k2g1k19b33w2~b202060-ba780078-bb440044-g285800-k101010-we0e0e0~x2/)|
+|![Highland Pride of Scotland (Fashion) example sett](/setts/s11/b9g2ba2bb2g18ba2k2g1k19b33w2~b202060-ba780078-bb440044-g285800-k101010-we0e0e0~x2/sett.png)|

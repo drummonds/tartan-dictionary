@@ -16,5 +16,5 @@ WYYYWYWGWGYGWGWY
 
 | Tartans |
 |---------------|
-| [Langara College](/setts/s16/w240y10ya8y10w80y60w2g2w4g8ya16g20w40g60w80y120-g808080-wffffff-yb0b0b0-yaec8048/)|
-|![Langara College example sett](/setts/s16/w240y10ya8y10w80y60w2g2w4g8ya16g20w40g60w80y120-g808080-wffffff-yb0b0b0-yaec8048/sett.png)|
+| [Langara College](/setts/s16/w120y5ya4y5w40y30w1g1w2g4ya8g10w20g30w40y60~g808080-wffffff-yb0b0b0-yaec8048~x2/)|
+|![Langara College example sett](/setts/s16/w120y5ya4y5w40y30w1g1w2g4ya8g10w20g30w40y60~g808080-wffffff-yb0b0b0-yaec8048~x2/sett.png)|

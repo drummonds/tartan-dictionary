@@ -16,5 +16,5 @@ RBBKBKRKW
 
 | Tartans |
 |---------------|
-| [Galway County Crest (Fashion)](/setts/s9/r20b10ba30k6ba30k10ra50k6w8-b2888c4-ba2c2c80-k101010-r888888-ra880000-we0e0e0/)|
-|![Galway County Crest (Fashion) example sett](/setts/s9/r20b10ba30k6ba30k10ra50k6w8-b2888c4-ba2c2c80-k101010-r888888-ra880000-we0e0e0/sett.png)|
+| [Galway County Crest (Fashion)](/setts/s9/r10b5ba15k3ba15k5ra25k3w4~b2888c4-ba2c2c80-k101010-r888888-ra880000-we0e0e0~x2/)|
+|![Galway County Crest (Fashion) example sett](/setts/s9/r10b5ba15k3ba15k5ra25k3w4~b2888c4-ba2c2c80-k101010-r888888-ra880000-we0e0e0~x2/sett.png)|

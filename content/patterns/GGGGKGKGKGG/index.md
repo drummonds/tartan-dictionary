@@ -16,5 +16,5 @@ GGGGKGKGKGG
 
 | Tartans |
 |---------------|
-| [Blackwater (Fashion)](/setts/s11/g4ga32g4ga8k8g4k14ga4k8g34ga4-g006428-ga0c7074-k101010/)|
-|![Blackwater (Fashion) example sett](/setts/s11/g4ga32g4ga8k8g4k14ga4k8g34ga4-g006428-ga0c7074-k101010/sett.png)|
+| [Blackwater (Fashion)](/setts/s11/g2ga16g2ga4k4g2k7ga2k4g17ga2~g006428-ga0c7074-k101010~x2/)|
+|![Blackwater (Fashion) example sett](/setts/s11/g2ga16g2ga4k4g2k7ga2k4g17ga2~g006428-ga0c7074-k101010~x2/sett.png)|

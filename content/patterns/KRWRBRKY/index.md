@@ -6,7 +6,7 @@ KRWRBRKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k8r4w4r56b54r4k4y4-b202060-k000000-r8c0000-wc8c8c8-yc88c00/tartan.png)
+![Woven sample](/setts/s8/k4r2w2r28b27r2k2y2~b202060-k000000-r8c0000-wc8c8c8-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWRBRKY
 
 | Tartans |
 |---------------|
-| [Toronto Fire Services (Corporate)](/setts/s8/k8r4w4r56b54r4k4y4-b202060-k000000-r8c0000-wc8c8c8-yc88c00/)|
-|![Toronto Fire Services (Corporate) example sett](/setts/s8/k8r4w4r56b54r4k4y4-b202060-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|
+| [Toronto Fire Services (Corporate)](/setts/s8/k4r2w2r28b27r2k2y2~b202060-k000000-r8c0000-wc8c8c8-yc88c00~x2/)|
+|![Toronto Fire Services (Corporate) example sett](/setts/s8/k4r2w2r28b27r2k2y2~b202060-k000000-r8c0000-wc8c8c8-yc88c00~x2/sett.png)|

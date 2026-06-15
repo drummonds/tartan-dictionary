@@ -16,5 +16,5 @@ BWBKBKBBY
 
 | Tartans |
 |---------------|
-| [Hek (Name)](/setts/s9/b2w4ba24k4b4k4bb30b4y2-b2c2c80-ba5c8ca8-bb780078-k101010-we0e0e0-yfccc00/)|
-|![Hek (Name) example sett](/setts/s9/b2w4ba24k4b4k4bb30b4y2-b2c2c80-ba5c8ca8-bb780078-k101010-we0e0e0-yfccc00/sett.png)|
+| [Hek (Name)](/setts/s9/b1w2ba12k2b2k2bb15b2y1~b2c2c80-ba5c8ca8-bb780078-k101010-we0e0e0-yfccc00~x2/)|
+|![Hek (Name) example sett](/setts/s9/b1w2ba12k2b2k2bb15b2y1~b2c2c80-ba5c8ca8-bb780078-k101010-we0e0e0-yfccc00~x2/sett.png)|

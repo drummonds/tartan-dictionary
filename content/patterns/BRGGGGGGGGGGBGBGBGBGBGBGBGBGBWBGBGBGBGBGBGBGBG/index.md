@@ -16,5 +16,5 @@ BRGGGGGGGGGGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBG
 
 | Tartans |
 |---------------|
-| [Virginia (Fashion)](/setts/s46/b64r32g16ga2g2ga2g2ga2g2ga2g2ga32ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba32w64ba32ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2-b780078-ba1474b4-g289c18-ga006818-r9c68a4-wa8ace8/)|
-|![Virginia (Fashion) example sett](/setts/s46/b64r32g16ga2g2ga2g2ga2g2ga2g2ga32ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba32w64ba32ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2ba2ga2-b780078-ba1474b4-g289c18-ga006818-r9c68a4-wa8ace8/sett.png)|
+| [Virginia (Fashion)](/setts/s46/b32r16g8ga1g1ga1g1ga1g1ga1g1ga16ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba16w32ba16ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1~b780078-ba1474b4-g289c18-ga006818-r9c68a4-wa8ace8~x2/)|
+|![Virginia (Fashion) example sett](/setts/s46/b32r16g8ga1g1ga1g1ga1g1ga1g1ga16ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba16w32ba16ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1ba1ga1~b780078-ba1474b4-g289c18-ga006818-r9c68a4-wa8ace8~x2/sett.png)|

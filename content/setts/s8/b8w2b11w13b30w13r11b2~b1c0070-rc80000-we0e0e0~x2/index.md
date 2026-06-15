@@ -1,0 +1,50 @@
+---
+title: "Jubilation (Commemorative)"
+date: 2023-03-18
+---
+In pattern [BRWBWBWB](/patterns/brwbwbwb/).
+
+
+This was sourced from tartans-authority.  It is a [8 stripes tartan](/stripes/stripes8/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/2566/
+
+## Thread count
+DB/16 LN4 DB22 LN26 DB60 LN26 R22 DB/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DB/16 LN4 DB22 LN26 DB60 LN26 R22 DB/4 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Jubilation](/setts/s14/r11w13b30w13b11w2b8w2b11w13b30w13r11b2~b1c0070-rc80000-we0e0e0~x2/) — ΔT 1.19
+1. [Queen Margaret University (Corporate](/setts/s7/b1w1b8w4b2w3k1~b2c2c80-k101010-we0e0e0~x6/) — ΔT 1.36
+1. [Ailsa, Navy (Dance)](/setts/s6/b8w3b28w32k3w4~b1c0070-k101010-wf0e0c8~x2/) — ΔT 1.57
+1. [Good Morning America (Corporate)](/setts/s11/b2w2r2w2r2b2r2b12y1b2w2~b2c2c80-rc8002c-wf8f8f8-ye8c000~x4/) — ΔT 1.62
+1. [Douglas, Variation](/setts/s6/w4b25ba25b2ba5w2~b000050-ba8080d0-we0e0e0~x2/) — ΔT 1.65
+1. [Loughborough Sport](/setts/s7/k15b3w10b7ba40w3ba6~b646464-ba5a008c-k000000-wfcfcfc~x2/) — ΔT 1.68
+1. [America (Eagle version)](/setts/s10/b5r2b5w7b32w7r13b3r13w2~b2c2c80-rc80000-we0e0e0~x2/) — ΔT 1.68
+1. [Hydro-Electric](/setts/s10/b11k4w5k1r3k1w5k4b11r1~b2c2c80-k101010-rc80000-wfcfcfc~x4/) — ΔT 1.69
+1. [Ikelman No 1](/setts/s6/w8k16w2b2w1k1~b304080-k000030-we0e0e0~x4/) — ΔT 1.70
+1. [Turnbull Dress, Bruce (Personal)](/setts/s5/b10g4w27b40r4~b1c1c50-g00801c-rc80000-we0e0e0~x2/) — ΔT 1.72
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r11w13b30w13b11w2b8w2b11w13b30w13r11b2~b1c0070-rc80000-we0e0e0~x2/"><circle cx="255.9" cy="172.3" r="4" fill="#3465a4"><title>Jubilation</title></circle></a><a href="/setts/s7/b1w1b8w4b2w3k1~b2c2c80-k101010-we0e0e0~x6/"><circle cx="277.7" cy="214.5" r="4" fill="#3465a4"><title>Queen Margaret University (Corporate</title></circle></a><a href="/setts/s6/b8w3b28w32k3w4~b1c0070-k101010-wf0e0c8~x2/"><circle cx="276.7" cy="196.8" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s11/b2w2r2w2r2b2r2b12y1b2w2~b2c2c80-rc8002c-wf8f8f8-ye8c000~x4/"><circle cx="284.1" cy="146.6" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/setts/s6/w4b25ba25b2ba5w2~b000050-ba8080d0-we0e0e0~x2/"><circle cx="279.5" cy="201.0" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/setts/s7/k15b3w10b7ba40w3ba6~b646464-ba5a008c-k000000-wfcfcfc~x2/"><circle cx="267.8" cy="165.4" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/setts/s10/b5r2b5w7b32w7r13b3r13w2~b2c2c80-rc80000-we0e0e0~x2/"><circle cx="288.4" cy="161.7" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/setts/s10/b11k4w5k1r3k1w5k4b11r1~b2c2c80-k101010-rc80000-wfcfcfc~x4/"><circle cx="191.0" cy="173.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s6/w8k16w2b2w1k1~b304080-k000030-we0e0e0~x4/"><circle cx="322.5" cy="181.7" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/setts/s5/b10g4w27b40r4~b1c1c50-g00801c-rc80000-we0e0e0~x2/"><circle cx="285.8" cy="206.2" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><circle cx="285.9" cy="194.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s8/b8w2b11w13b30w13r11b2~b1c0070-rc80000-we0e0e0~x2/

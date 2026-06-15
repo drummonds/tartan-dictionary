@@ -16,5 +16,5 @@ RKYRYKRYRKY
 
 | Tartans |
 |---------------|
-| [State Seal of Rhode Island (Fash.)](/setts/s11/r4k2y28r12y4k20r4y12r56k2y4-k101010-r888888-ybc8c00/)|
-|![State Seal of Rhode Island (Fash.) example sett](/setts/s11/r4k2y28r12y4k20r4y12r56k2y4-k101010-r888888-ybc8c00/sett.png)|
+| [State Seal of Rhode Island (Fash.)](/setts/s11/r2k1y14r6y2k10r2y6r28k1y2~k101010-r888888-ybc8c00~x2/)|
+|![State Seal of Rhode Island (Fash.) example sett](/setts/s11/r2k1y14r6y2k10r2y6r28k1y2~k101010-r888888-ybc8c00~x2/sett.png)|

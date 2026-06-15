@@ -16,5 +16,5 @@ RWWBWGBWBWWWBWBWBWBWBWBWWWBWRRW
 
 | Tartans |
 |---------------|
-| [Brides Plaid](/setts/s31/r8w2wa4b8w2g4ba16w2b4wa4w2wa4b4w2b32w2b12w2b12w2b32w2b4wa4w2wa4b4w2r16ra12w2-b440044-ba330099-g003820-rc80000-raff6666-wffffff-waa8ace8/)|
-|![Brides Plaid example sett](/setts/s31/r8w2wa4b8w2g4ba16w2b4wa4w2wa4b4w2b32w2b12w2b12w2b32w2b4wa4w2wa4b4w2r16ra12w2-b440044-ba330099-g003820-rc80000-raff6666-wffffff-waa8ace8/sett.png)|
+| [Brides Plaid](/setts/s31/r4w1wa2b4w1g2ba8w1b2wa2w1wa2b2w1b16w1b6w1b6w1b16w1b2wa2w1wa2b2w1r8ra6w1~b440044-ba330099-g003820-rc80000-raff6666-wffffff-waa8ace8~x2/)|
+|![Brides Plaid example sett](/setts/s31/r4w1wa2b4w1g2ba8w1b2wa2w1wa2b2w1b16w1b6w1b6w1b16w1b2wa2w1wa2b2w1r8ra6w1~b440044-ba330099-g003820-rc80000-raff6666-wffffff-waa8ace8~x2/sett.png)|

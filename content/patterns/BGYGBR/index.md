@@ -6,7 +6,7 @@ BGYGBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b80g14y6g14b30r10-b34349c-g008c20-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b40g7y3g7b15r5~b34349c-g008c20-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGYGBR
 
 | Tartans |
 |---------------|
-| [Wheadon (Name)](/setts/s6/b80g14y6g14b30r10-b34349c-g008c20-rc80000-ye8c000/)|
-|![Wheadon (Name) example sett](/setts/s6/b80g14y6g14b30r10-b34349c-g008c20-rc80000-ye8c000/sett.png)|
+| [Wheadon (Name)](/setts/s6/b40g7y3g7b15r5~b34349c-g008c20-rc80000-ye8c000~x2/)|
+|![Wheadon (Name) example sett](/setts/s6/b40g7y3g7b15r5~b34349c-g008c20-rc80000-ye8c000~x2/sett.png)|

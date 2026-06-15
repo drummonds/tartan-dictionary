@@ -16,5 +16,5 @@ KRBRBRBRBRBRBRBRKWKBKBKBKBKBKBKBKWBW
 
 | Tartans |
 |---------------|
-| [Quebec Centennial](/setts/s36/w100b32w16k16b2k2b2k2b2k2b2k2b2k2b2k2b40k80w24k48r16b2r2b2r2b2r2b2r2b2r2b2r2b56r12k8-b2c2c80-k101010-rc80000-we0e0e0/)|
-|![Quebec Centennial example sett](/setts/s36/w100b32w16k16b2k2b2k2b2k2b2k2b2k2b2k2b40k80w24k48r16b2r2b2r2b2r2b2r2b2r2b2r2b56r12k8-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
+| [Quebec Centennial](/setts/s36/w50b16w8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k40w12k24r8b1r1b1r1b1r1b1r1b1r1b1r1b28r6k4~b2c2c80-k101010-rc80000-we0e0e0~x2/)|
+|![Quebec Centennial example sett](/setts/s36/w50b16w8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k40w12k24r8b1r1b1r1b1r1b1r1b1r1b1r1b28r6k4~b2c2c80-k101010-rc80000-we0e0e0~x2/sett.png)|

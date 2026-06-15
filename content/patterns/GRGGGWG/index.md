@@ -6,7 +6,7 @@ GRGGGWG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g92r16ga24gb24g16w4g16-g8c7038-ga604000-gb00643c-r98481c-wc0c0c0/tartan.png)
+![Woven sample](/setts/s7/g23r4ga6gb6g4w1g4~g8c7038-ga604000-gb00643c-r98481c-wc0c0c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGGGWG
 
 | Tartans |
 |---------------|
-| [Tricor (Corporate)](/setts/s7/g92r16ga24gb24g16w4g16-g8c7038-ga604000-gb00643c-r98481c-wc0c0c0/)|
-|![Tricor (Corporate) example sett](/setts/s7/g92r16ga24gb24g16w4g16-g8c7038-ga604000-gb00643c-r98481c-wc0c0c0/sett.png)|
+| [Tricor (Corporate)](/setts/s7/g23r4ga6gb6g4w1g4~g8c7038-ga604000-gb00643c-r98481c-wc0c0c0~x4/)|
+|![Tricor (Corporate) example sett](/setts/s7/g23r4ga6gb6g4w1g4~g8c7038-ga604000-gb00643c-r98481c-wc0c0c0~x4/sett.png)|

@@ -16,5 +16,5 @@ BWBKBKBKBGBGBGYGK
 
 | Tartans |
 |---------------|
-| [Kennedy Dress, (Pendleton)](/setts/s17/b4w18ba6k4ba4k4ba4k4ba6g20b2g4b2g4y2g4k4-b840068-ba3c3c60-g006818-k101010-wf0e8d0-yd09800/)|
-|![Kennedy Dress, (Pendleton) example sett](/setts/s17/b4w18ba6k4ba4k4ba4k4ba6g20b2g4b2g4y2g4k4-b840068-ba3c3c60-g006818-k101010-wf0e8d0-yd09800/sett.png)|
+| [Kennedy Dress, (Pendleton)](/setts/s17/b2w9ba3k2ba2k2ba2k2ba3g10b1g2b1g2y1g2k2~b840068-ba3c3c60-g006818-k101010-wf0e8d0-yd09800~x2/)|
+|![Kennedy Dress, (Pendleton) example sett](/setts/s17/b2w9ba3k2ba2k2ba2k2ba3g10b1g2b1g2y1g2k2~b840068-ba3c3c60-g006818-k101010-wf0e8d0-yd09800~x2/sett.png)|

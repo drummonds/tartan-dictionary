@@ -16,5 +16,5 @@ GYGYBYGWBWWWRW
 
 | Tartans |
 |---------------|
-| [Werris Creek Catholic Parish (Corp.)](/setts/s14/g8y2g10ya8b6ya10ga12w6ba10w4wa6w8r6w2-b9c009c-ba6060c8-g006438-ga3c9850-rc80000-we0e0e0-wa8cbccc-ya0a0a0-yad8c040/)|
-|![Werris Creek Catholic Parish (Corp.) example sett](/setts/s14/g8y2g10ya8b6ya10ga12w6ba10w4wa6w8r6w2-b9c009c-ba6060c8-g006438-ga3c9850-rc80000-we0e0e0-wa8cbccc-ya0a0a0-yad8c040/sett.png)|
+| [Werris Creek Catholic Parish (Corp.)](/setts/s14/g4y1g5ya4b3ya5ga6w3ba5w2wa3w4r3w1~b9c009c-ba6060c8-g006438-ga3c9850-rc80000-we0e0e0-wa8cbccc-ya0a0a0-yad8c040~x2/)|
+|![Werris Creek Catholic Parish (Corp.) example sett](/setts/s14/g4y1g5ya4b3ya5ga6w3ba5w2wa3w4r3w1~b9c009c-ba6060c8-g006438-ga3c9850-rc80000-we0e0e0-wa8cbccc-ya0a0a0-yad8c040~x2/sett.png)|

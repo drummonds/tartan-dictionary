@@ -16,7 +16,7 @@ RBRBRKYKYKWKBRKRBR
 
 | Tartans |
 |---------------|
-| [Anderson Red (Westwood) (Estimated threadcount)](/setts/s18/r8b10r4b14r20k8y4k4y4k8w8k8b36r2k4r2b8r6-b5c8ca8-k101010-rc80000-we0e0e0-yd09800/)|
-|![Anderson Red (Westwood) (Estimated threadcount) example sett](/setts/s18/r8b10r4b14r20k8y4k4y4k8w8k8b36r2k4r2b8r6-b5c8ca8-k101010-rc80000-we0e0e0-yd09800/sett.png)|
-| [Anderson Blue (Westwood)](/setts/s18/r8b10r4b14r20k8y4k4y4k8w8k8b36r2k4r2b8r6-b2474e8-k101010-r880000-wc0c0c0-yd09800/)|
-|![Anderson Blue (Westwood) example sett](/setts/s18/r8b10r4b14r20k8y4k4y4k8w8k8b36r2k4r2b8r6-b2474e8-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Anderson Red (Westwood) (Estimated threadcount)](/setts/s18/r4b5r2b7r10k4y2k2y2k4w4k4b18r1k2r1b4r3~b5c8ca8-k101010-rc80000-we0e0e0-yd09800~x2/)|
+|![Anderson Red (Westwood) (Estimated threadcount) example sett](/setts/s18/r4b5r2b7r10k4y2k2y2k4w4k4b18r1k2r1b4r3~b5c8ca8-k101010-rc80000-we0e0e0-yd09800~x2/sett.png)|
+| [Anderson Blue (Westwood)](/setts/s18/r4b5r2b7r10k4y2k2y2k4w4k4b18r1k2r1b4r3~b2474e8-k101010-r880000-wc0c0c0-yd09800~x2/)|
+|![Anderson Blue (Westwood) example sett](/setts/s18/r4b5r2b7r10k4y2k2y2k4w4k4b18r1k2r1b4r3~b2474e8-k101010-r880000-wc0c0c0-yd09800~x2/sett.png)|

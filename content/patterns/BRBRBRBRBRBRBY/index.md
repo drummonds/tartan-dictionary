@@ -16,5 +16,5 @@ BRBRBRBRBRBRBY
 
 | Tartans |
 |---------------|
-| [Abaco Loyalist](/setts/s14/b120r4b4r12b2r4b2r12b2r4b2r12b4y4-b3b5554-rb62531-yccbaaf/)|
-|![Abaco Loyalist example sett](/setts/s14/b120r4b4r12b2r4b2r12b2r4b2r12b4y4-b3b5554-rb62531-yccbaaf/sett.png)|
+| [Abaco Loyalist](/setts/s14/b60r2b2r6b1r2b1r6b1r2b1r6b2y2~b3b5554-rb62531-yccbaaf~x2/)|
+|![Abaco Loyalist example sett](/setts/s14/b60r2b2r6b1r2b1r6b1r2b1r6b2y2~b3b5554-rb62531-yccbaaf~x2/sett.png)|

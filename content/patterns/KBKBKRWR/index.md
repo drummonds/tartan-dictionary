@@ -6,7 +6,7 @@ KBKBKRWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r22w2r64k16b12k2b32k2-b2c2c80-k101010-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s8/r11w1r32k8b6k1b16k1~b2c2c80-k101010-rff0000-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKBKRWR
 
 | Tartans |
 |---------------|
-| [Ostermeier (2015)](/setts/s8/r22w2r64k16b12k2b32k2-b2c2c80-k101010-rff0000-wffffff/)|
-|![Ostermeier (2015) example sett](/setts/s8/r22w2r64k16b12k2b32k2-b2c2c80-k101010-rff0000-wffffff/sett.png)|
+| [Ostermeier (2015)](/setts/s8/r11w1r32k8b6k1b16k1~b2c2c80-k101010-rff0000-wffffff~x2/)|
+|![Ostermeier (2015) example sett](/setts/s8/r11w1r32k8b6k1b16k1~b2c2c80-k101010-rff0000-wffffff~x2/sett.png)|

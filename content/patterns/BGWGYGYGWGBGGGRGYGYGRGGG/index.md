@@ -16,5 +16,5 @@ BGWGYGYGWGBGGGRGYGYGRGGG
 
 | Tartans |
 |---------------|
-| [Sea Bees Regimental Tartan Tartan Number: 2197. Earliest known date: 1986 US military unit. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/b12g6w12g14y4g72y4g14w12g6b12g6ga12g6r12g14y4g72y4g14r12g6ga12g6-b202060-g006818-ga604000-rc8002c-wa8ace8-ye8c000/)|
-|![Sea Bees Regimental Tartan Tartan Number: 2197. Earliest known date: 1986 US military unit. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/b12g6w12g14y4g72y4g14w12g6b12g6ga12g6r12g14y4g72y4g14r12g6ga12g6-b202060-g006818-ga604000-rc8002c-wa8ace8-ye8c000/sett.png)|
+| [Sea Bees Regimental Tartan Tartan Number: 2197. Earliest known date: 1986 US military unit. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/b6g3w6g7y2g36y2g7w6g3b6g3ga6g3r6g7y2g36y2g7r6g3ga6g3~b202060-g006818-ga604000-rc8002c-wa8ace8-ye8c000~x2/)|
+|![Sea Bees Regimental Tartan Tartan Number: 2197. Earliest known date: 1986 US military unit. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s24/b6g3w6g7y2g36y2g7w6g3b6g3ga6g3r6g7y2g36y2g7r6g3ga6g3~b202060-g006818-ga604000-rc8002c-wa8ace8-ye8c000~x2/sett.png)|

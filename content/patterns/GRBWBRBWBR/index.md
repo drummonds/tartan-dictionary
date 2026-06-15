@@ -16,5 +16,5 @@ GRBWBRBWBR
 
 | Tartans |
 |---------------|
-| [Galloway (Dance)](/setts/s10/g6r4b70w70b4r6b4w70b70r4-b1474b4-g007800-rc80000-wfcfcfc/)|
-|![Galloway (Dance) example sett](/setts/s10/g6r4b70w70b4r6b4w70b70r4-b1474b4-g007800-rc80000-wfcfcfc/sett.png)|
+| [Galloway (Dance)](/setts/s10/g3r2b35w35b2r3b2w35b35r2~b1474b4-g007800-rc80000-wfcfcfc~x2/)|
+|![Galloway (Dance) example sett](/setts/s10/g3r2b35w35b2r3b2w35b35r2~b1474b4-g007800-rc80000-wfcfcfc~x2/sett.png)|

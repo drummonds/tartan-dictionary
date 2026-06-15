@@ -16,5 +16,5 @@ WBWKYKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Stewart Dress (Artefact)](/setts/s13/w100b12w4k12y4k6w4k6g12r12k4r4w4-b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000/)|
-|![Stewart Dress (Artefact) example sett](/setts/s13/w100b12w4k12y4k6w4k6g12r12k4r4w4-b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000/sett.png)|
+| [Stewart Dress (Artefact)](/setts/s13/w50b6w2k6y2k3w2k3g6r6k2r2w2~b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000~x2/)|
+|![Stewart Dress (Artefact) example sett](/setts/s13/w50b6w2k6y2k3w2k3g6r6k2r2w2~b2c2c80-g006818-k101010-rc80000-we8ccb8-ye8c000~x2/sett.png)|

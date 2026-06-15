@@ -16,5 +16,5 @@ RWBBYBBKWKBYBBWR
 
 | Tartans |
 |---------------|
-| [Buchanan, John & Isabella](/setts/s16/r6w6b48ba72y6ba6k12w18k36b6ba6y6ba6b6w6r6-b000080-ba0080ff-k101010-rff0000-wffffff-yffff00/)|
-|![Buchanan, John & Isabella example sett](/setts/s16/r6w6b48ba72y6ba6k12w18k36b6ba6y6ba6b6w6r6-b000080-ba0080ff-k101010-rff0000-wffffff-yffff00/sett.png)|
+| [Buchanan, John & Isabella](/setts/s16/r1w1b8ba12y1ba1k2w3k6b1ba1y1ba1b1w1r1~b000080-ba0080ff-k101010-rff0000-wffffff-yffff00~x6/)|
+|![Buchanan, John & Isabella example sett](/setts/s16/r1w1b8ba12y1ba1k2w3k6b1ba1y1ba1b1w1r1~b000080-ba0080ff-k101010-rff0000-wffffff-yffff00~x6/sett.png)|

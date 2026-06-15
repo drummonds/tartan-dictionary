@@ -16,5 +16,5 @@ GRBRGRGRGBRGRGRGYGR
 
 | Tartans |
 |---------------|
-| [Brewer](/setts/s19/g6r4b2r38g2r2g2r16g2b16r2g16r2g2r2g56y2g4ra4-b1870a4-g00643c-r880000-rab468ac-ye8c000/)|
-|![Brewer example sett](/setts/s19/g6r4b2r38g2r2g2r16g2b16r2g16r2g2r2g56y2g4ra4-b1870a4-g00643c-r880000-rab468ac-ye8c000/sett.png)|
+| [Brewer](/setts/s19/g3r2b1r19g1r1g1r8g1b8r1g8r1g1r1g28y1g2ra2~b1870a4-g00643c-r880000-rab468ac-ye8c000~x2/)|
+|![Brewer example sett](/setts/s19/g3r2b1r19g1r1g1r8g1b8r1g8r1g1r1g28y1g2ra2~b1870a4-g00643c-r880000-rab468ac-ye8c000~x2/sett.png)|

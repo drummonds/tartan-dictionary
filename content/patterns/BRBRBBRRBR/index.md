@@ -16,5 +16,5 @@ BRBRBBRRBR
 
 | Tartans |
 |---------------|
-| [Clyde](/setts/s10/r10b6r44ra6b12ba34ra4ba8ra4ba8-b646464-ba5c5c5c-r8c8c8c-ra8c0000/)|
-|![Clyde example sett](/setts/s10/r10b6r44ra6b12ba34ra4ba8ra4ba8-b646464-ba5c5c5c-r8c8c8c-ra8c0000/sett.png)|
+| [Clyde](/setts/s10/r5b3r22ra3b6ba17ra2ba4ra2ba4~b646464-ba5c5c5c-r8c8c8c-ra8c0000~x2/)|
+|![Clyde example sett](/setts/s10/r5b3r22ra3b6ba17ra2ba4ra2ba4~b646464-ba5c5c5c-r8c8c8c-ra8c0000~x2/sett.png)|

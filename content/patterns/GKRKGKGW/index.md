@@ -6,7 +6,7 @@ GKRKGKGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g12k32r6k32g56k8g24w6-g006818-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/g6k16r3k16g28k4g12w3~g006818-k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRKGKGW
 
 | Tartans |
 |---------------|
-| [MacAulay of Lewis](/setts/s8/g12k32r6k32g56k8g24w6-g006818-k101010-rc80000-wf8f8f8/)|
-|![MacAulay of Lewis example sett](/setts/s8/g12k32r6k32g56k8g24w6-g006818-k101010-rc80000-wf8f8f8/sett.png)|
+| [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~g006818-k101010-rc80000-wf8f8f8~x2/)|
+|![MacAulay of Lewis example sett](/setts/s8/g6k16r3k16g28k4g12w3~g006818-k101010-rc80000-wf8f8f8~x2/sett.png)|

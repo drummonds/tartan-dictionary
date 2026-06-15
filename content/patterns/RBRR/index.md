@@ -6,7 +6,7 @@ RBRR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r10b70r92ra10-b684038-r880000-raa88000/tartan.png)
+![Woven sample](/setts/s4/r5b35r46ra5~b684038-r880000-raa88000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRR
 
 | Tartans |
 |---------------|
-| [Bryce](/setts/s4/r10b70r92ra10-b684038-r880000-raa88000/)|
-|![Bryce example sett](/setts/s4/r10b70r92ra10-b684038-r880000-raa88000/sett.png)|
+| [Bryce](/setts/s4/r5b35r46ra5~b684038-r880000-raa88000~x2/)|
+|![Bryce example sett](/setts/s4/r5b35r46ra5~b684038-r880000-raa88000~x2/sett.png)|

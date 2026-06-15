@@ -16,5 +16,5 @@ BRWBRKRWRKRBWR
 
 | Tartans |
 |---------------|
-| [Knights Templar - Grand Priory](/setts/s14/r4w2b60r60k2r4w2r4k2r60b60w2r4b2-b1c0070-k101010-ra00000-wfcfcfc/)|
-|![Knights Templar - Grand Priory example sett](/setts/s14/r4w2b60r60k2r4w2r4k2r60b60w2r4b2-b1c0070-k101010-ra00000-wfcfcfc/sett.png)|
+| [Knights Templar - Grand Priory](/setts/s14/r2w1b30r30k1r2w1r2k1r30b30w1r2b1~b1c0070-k101010-ra00000-wfcfcfc~x2/)|
+|![Knights Templar - Grand Priory example sett](/setts/s14/r2w1b30r30k1r2w1r2k1r30b30w1r2b1~b1c0070-k101010-ra00000-wfcfcfc~x2/sett.png)|

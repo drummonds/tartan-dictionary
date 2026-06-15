@@ -16,5 +16,5 @@ WBWBWBBRBBRYRYRBWBWBW
 
 | Tartans |
 |---------------|
-| [New Providence Presbyterian Church](/setts/s21/w4b2w28b4w2b14ba14r2ba14b14r2y4r32y4r4b14w2b4w28b2w4-b202060-ba1870a4-rc80000-wfcfcfc-ye8c000/)|
-|![New Providence Presbyterian Church example sett](/setts/s21/w4b2w28b4w2b14ba14r2ba14b14r2y4r32y4r4b14w2b4w28b2w4-b202060-ba1870a4-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [New Providence Presbyterian Church](/setts/s21/w2b1w14b2w1b7ba7r1ba7b7r1y2r16y2r2b7w1b2w14b1w2~b202060-ba1870a4-rc80000-wfcfcfc-ye8c000~x2/)|
+|![New Providence Presbyterian Church example sett](/setts/s21/w2b1w14b2w1b7ba7r1ba7b7r1y2r16y2r2b7w1b2w14b1w2~b202060-ba1870a4-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

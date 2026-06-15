@@ -16,5 +16,5 @@ RKBYBYBRRBRW
 
 | Tartans |
 |---------------|
-| [Seller, Sillar](/setts/s12/r126k8b18y4ba8y4ba8r22ra16b4ra8w10-b5480b0-ba304080-k000000-r806050-rac00000-we0e0e0-yf0c000/)|
-|![Seller, Sillar example sett](/setts/s12/r126k8b18y4ba8y4ba8r22ra16b4ra8w10-b5480b0-ba304080-k000000-r806050-rac00000-we0e0e0-yf0c000/sett.png)|
+| [Seller, Sillar](/setts/s12/r63k4b9y2ba4y2ba4r11ra8b2ra4w5~b5480b0-ba304080-k000000-r806050-rac00000-we0e0e0-yf0c000~x2/)|
+|![Seller, Sillar example sett](/setts/s12/r63k4b9y2ba4y2ba4r11ra8b2ra4w5~b5480b0-ba304080-k000000-r806050-rac00000-we0e0e0-yf0c000~x2/sett.png)|

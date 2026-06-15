@@ -16,7 +16,7 @@ KGKWKYKGKGY
 
 | Tartans |
 |---------------|
-| [Initial City Link](/setts/s11/k100g14k8w4k4y4k4g14k4g6y4-g006818-k101010-we0e0e0-ye8c000/)|
-|![Initial City Link example sett](/setts/s11/k100g14k8w4k4y4k4g14k4g6y4-g006818-k101010-we0e0e0-ye8c000/sett.png)|
-| [Initial City Link #2](/setts/s11/k100g14k8w4k4y4k4g14k4ga6y4-g003c14-ga005020-k101010-we0e0e0-ye8c000/)|
-|![Initial City Link #2 example sett](/setts/s11/k100g14k8w4k4y4k4g14k4ga6y4-g003c14-ga005020-k101010-we0e0e0-ye8c000/sett.png)|
+| [Initial City Link](/setts/s11/k50g7k4w2k2y2k2g7k2g3y2~g006818-k101010-we0e0e0-ye8c000~x2/)|
+|![Initial City Link example sett](/setts/s11/k50g7k4w2k2y2k2g7k2g3y2~g006818-k101010-we0e0e0-ye8c000~x2/sett.png)|
+| [Initial City Link #2](/setts/s11/k50g7k4w2k2y2k2g7k2ga3y2~g003c14-ga005020-k101010-we0e0e0-ye8c000~x2/)|
+|![Initial City Link #2 example sett](/setts/s11/k50g7k4w2k2y2k2g7k2ga3y2~g003c14-ga005020-k101010-we0e0e0-ye8c000~x2/sett.png)|

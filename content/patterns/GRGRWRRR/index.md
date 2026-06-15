@@ -6,7 +6,7 @@ GRGRWRRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4r4g30r4w20ra30r4ra4-g808080-r806050-ra906030-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g2r2g15r2w10ra15r2ra2~g808080-r806050-ra906030-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRWRRR
 
 | Tartans |
 |---------------|
-| [Bannockbane, Grey](/setts/s8/g4r4g30r4w20ra30r4ra4-g808080-r806050-ra906030-we0e0e0/)|
-|![Bannockbane, Grey example sett](/setts/s8/g4r4g30r4w20ra30r4ra4-g808080-r806050-ra906030-we0e0e0/sett.png)|
+| [Bannockbane, Grey](/setts/s8/g2r2g15r2w10ra15r2ra2~g808080-r806050-ra906030-we0e0e0~x2/)|
+|![Bannockbane, Grey example sett](/setts/s8/g2r2g15r2w10ra15r2ra2~g808080-r806050-ra906030-we0e0e0~x2/sett.png)|

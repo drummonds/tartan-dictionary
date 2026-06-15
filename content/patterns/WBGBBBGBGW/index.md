@@ -16,5 +16,5 @@ WBGBBBGBGW
 
 | Tartans |
 |---------------|
-| [Glen Tilt #1](/setts/s10/w4b4g4b44ba24b4g56b4g4w4-b4c0000-ba1c0070-g006818-wc0c0c0/)|
-|![Glen Tilt #1 example sett](/setts/s10/w4b4g4b44ba24b4g56b4g4w4-b4c0000-ba1c0070-g006818-wc0c0c0/sett.png)|
+| [Glen Tilt #1](/setts/s10/w1b1g1b11ba6b1g14b1g1w1~b4c0000-ba1c0070-g006818-wc0c0c0~x4/)|
+|![Glen Tilt #1 example sett](/setts/s10/w1b1g1b11ba6b1g14b1g1w1~b4c0000-ba1c0070-g006818-wc0c0c0~x4/sett.png)|

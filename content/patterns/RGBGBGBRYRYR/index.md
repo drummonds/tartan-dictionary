@@ -16,5 +16,5 @@ RGBGBGBRYRYR
 
 | Tartans |
 |---------------|
-| [Callum, Brown (Fashion)](/setts/s12/r6g32b4g4b4g6b12ra40y6ra4y4ra6-b000060-g604000-r880000-rab07430-yacacac/)|
-|![Callum, Brown (Fashion) example sett](/setts/s12/r6g32b4g4b4g6b12ra40y6ra4y4ra6-b000060-g604000-r880000-rab07430-yacacac/sett.png)|
+| [Callum, Brown (Fashion)](/setts/s12/r3g16b2g2b2g3b6ra20y3ra2y2ra3~b000060-g604000-r880000-rab07430-yacacac~x2/)|
+|![Callum, Brown (Fashion) example sett](/setts/s12/r3g16b2g2b2g3b6ra20y3ra2y2ra3~b000060-g604000-r880000-rab07430-yacacac~x2/sett.png)|

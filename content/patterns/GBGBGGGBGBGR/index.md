@@ -16,5 +16,5 @@ GBGBGGGBGBGR
 
 | Tartans |
 |---------------|
-| [Highlander](/setts/s12/g66b8g8b8g10g26ga26ba26ga4b22ga2r4-b1870a4-ba780078-g408060-ga005448-r888888/)|
-|![Highlander example sett](/setts/s12/g66b8g8b8g10g26ga26ba26ga4b22ga2r4-b1870a4-ba780078-g408060-ga005448-r888888/sett.png)|
+| [Highlander](/setts/s12/g33b4g4b4g5g13ga13ba13ga2b11ga1r2~b1870a4-ba780078-g408060-ga005448-r888888~x2/)|
+|![Highlander example sett](/setts/s12/g33b4g4b4g5g13ga13ba13ga2b11ga1r2~b1870a4-ba780078-g408060-ga005448-r888888~x2/sett.png)|

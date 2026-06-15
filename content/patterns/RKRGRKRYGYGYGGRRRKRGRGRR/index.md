@@ -16,5 +16,5 @@ RKRGRKRYGYGYGGRRRKRGRGRR
 
 | Tartans |
 |---------------|
-| [McNair (2016)](/setts/s24/r20ra10g10ra10ga10ra10k20ra20r20ra10g20ga10y10ga10y10ga10y10r20k80ra10ga10ra10k30ra10-g005020-ga289c18-k101010-r960028-raff0000-yffff00/)|
-|![McNair (2016) example sett](/setts/s24/r20ra10g10ra10ga10ra10k20ra20r20ra10g20ga10y10ga10y10ga10y10r20k80ra10ga10ra10k30ra10-g005020-ga289c18-k101010-r960028-raff0000-yffff00/sett.png)|
+| [McNair (2016)](/setts/s24/r2ra1g1ra1ga1ra1k2ra2r2ra1g2ga1y1ga1y1ga1y1r2k8ra1ga1ra1k3ra1~g005020-ga289c18-k101010-r960028-raff0000-yffff00~x10/)|
+|![McNair (2016) example sett](/setts/s24/r2ra1g1ra1ga1ra1k2ra2r2ra1g2ga1y1ga1y1ga1y1r2k8ra1ga1ra1k3ra1~g005020-ga289c18-k101010-r960028-raff0000-yffff00~x10/sett.png)|

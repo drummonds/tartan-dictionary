@@ -16,5 +16,5 @@ RRBRBRBRY
 
 | Tartans |
 |---------------|
-| [MacIver of Strathendry Htg (Personal](/setts/s9/r6ra56b10ra10b66ra10b10ra56y6-b441800-r880000-ra98481c-ybc8c00/)|
-|![MacIver of Strathendry Htg (Personal example sett](/setts/s9/r6ra56b10ra10b66ra10b10ra56y6-b441800-r880000-ra98481c-ybc8c00/sett.png)|
+| [MacIver of Strathendry Htg (Personal](/setts/s9/r3ra28b5ra5b33ra5b5ra28y3~b441800-r880000-ra98481c-ybc8c00~x2/)|
+|![MacIver of Strathendry Htg (Personal example sett](/setts/s9/r3ra28b5ra5b33ra5b5ra28y3~b441800-r880000-ra98481c-ybc8c00~x2/sett.png)|

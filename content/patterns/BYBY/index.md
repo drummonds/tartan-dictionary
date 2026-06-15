@@ -6,7 +6,7 @@ BYBY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y80b4y16b12-b00008c-yb0b0b0/tartan.png)
+![Woven sample](/setts/s4/y20b1y4b3~b00008c-yb0b0b0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBY
 
 | Tartans |
 |---------------|
-| [Loevenstein Castle #2](/setts/s4/y80b4y16b12-b00008c-yb0b0b0/)|
-|![Loevenstein Castle #2 example sett](/setts/s4/y80b4y16b12-b00008c-yb0b0b0/sett.png)|
+| [Loevenstein Castle #2](/setts/s4/y20b1y4b3~b00008c-yb0b0b0~x4/)|
+|![Loevenstein Castle #2 example sett](/setts/s4/y20b1y4b3~b00008c-yb0b0b0~x4/sett.png)|

@@ -16,5 +16,5 @@ KWKRKWKWK
 
 | Tartans |
 |---------------|
-| [St. Mirren Football Club (Sports)](/setts/s9/k14w4k42r4k68w10k6w4k14-k101010-rc80000-wfcfcfc/)|
-|![St. Mirren Football Club (Sports) example sett](/setts/s9/k14w4k42r4k68w10k6w4k14-k101010-rc80000-wfcfcfc/sett.png)|
+| [St. Mirren Football Club (Sports)](/setts/s9/k7w2k21r2k34w5k3w2k7~k101010-rc80000-wfcfcfc~x2/)|
+|![St. Mirren Football Club (Sports) example sett](/setts/s9/k7w2k21r2k34w5k3w2k7~k101010-rc80000-wfcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ RBRBRBWRWR
 
 | Tartans |
 |---------------|
-| [Kalamazoo Caledonians](/setts/s10/r12b4r4b4r4b20w4r4w24r8-b1c0070-rc04094-wc0c0c0/)|
-|![Kalamazoo Caledonians example sett](/setts/s10/r12b4r4b4r4b20w4r4w24r8-b1c0070-rc04094-wc0c0c0/sett.png)|
+| [Kalamazoo Caledonians](/setts/s10/r3b1r1b1r1b5w1r1w6r2~b1c0070-rc04094-wc0c0c0~x4/)|
+|![Kalamazoo Caledonians example sett](/setts/s10/r3b1r1b1r1b5w1r1w6r2~b1c0070-rc04094-wc0c0c0~x4/sett.png)|

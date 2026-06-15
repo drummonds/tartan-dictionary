@@ -16,5 +16,5 @@ BRBKYKYKBRBRB
 
 | Tartans |
 |---------------|
-| [Commonwealth Variation](/setts/s13/b40r6b6r6b6k20y28k8y28k20b28r6b6-b00008c-k000000-r8c0000-yb0b0b0/)|
-|![Commonwealth Variation example sett](/setts/s13/b40r6b6r6b6k20y28k8y28k20b28r6b6-b00008c-k000000-r8c0000-yb0b0b0/sett.png)|
+| [Commonwealth Variation](/setts/s13/b20r3b3r3b3k10y14k4y14k10b14r3b3~b00008c-k000000-r8c0000-yb0b0b0~x2/)|
+|![Commonwealth Variation example sett](/setts/s13/b20r3b3r3b3k10y14k4y14k10b14r3b3~b00008c-k000000-r8c0000-yb0b0b0~x2/sett.png)|

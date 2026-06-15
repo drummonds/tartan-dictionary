@@ -16,5 +16,5 @@ GBGRGYGRGBGR
 
 | Tartans |
 |---------------|
-| [Scottish Scouts #2](/setts/s12/g44b32g28r4g12y4g12r4g28b32g44r6-b1c0070-g006818-r880000-yd09800/)|
-|![Scottish Scouts #2 example sett](/setts/s12/g44b32g28r4g12y4g12r4g28b32g44r6-b1c0070-g006818-r880000-yd09800/sett.png)|
+| [Scottish Scouts #2](/setts/s12/g22b16g14r2g6y2g6r2g14b16g22r3~b1c0070-g006818-r880000-yd09800~x2/)|
+|![Scottish Scouts #2 example sett](/setts/s12/g22b16g14r2g6y2g6r2g14b16g22r3~b1c0070-g006818-r880000-yd09800~x2/sett.png)|

@@ -16,5 +16,5 @@ GKGKGKRWRKGKGKGKRWR
 
 | Tartans |
 |---------------|
-| [Pride of Loch Leven (Fashion?)](/setts/s19/g16k2g2k2g2k8r20w4r20k6g6k12g6k12g6k6r20w6ra8-g003820-k101010-r9c68a4-rac80000-wf8f8f8/)|
-|![Pride of Loch Leven (Fashion?) example sett](/setts/s19/g16k2g2k2g2k8r20w4r20k6g6k12g6k12g6k6r20w6ra8-g003820-k101010-r9c68a4-rac80000-wf8f8f8/sett.png)|
+| [Pride of Loch Leven (Fashion?)](/setts/s19/g8k1g1k1g1k4r10w2r10k3g3k6g3k6g3k3r10w3ra4~g003820-k101010-r9c68a4-rac80000-wf8f8f8~x2/)|
+|![Pride of Loch Leven (Fashion?) example sett](/setts/s19/g8k1g1k1g1k4r10w2r10k3g3k6g3k6g3k3r10w3ra4~g003820-k101010-r9c68a4-rac80000-wf8f8f8~x2/sett.png)|

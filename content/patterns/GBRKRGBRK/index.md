@@ -16,5 +16,5 @@ GBRKRGBRK
 
 | Tartans |
 |---------------|
-| [Crook](/setts/s9/g8b24r6k6r6g32b4r28k8-b1870a4-g406054-k101010-ra00048/)|
-|![Crook example sett](/setts/s9/g8b24r6k6r6g32b4r28k8-b1870a4-g406054-k101010-ra00048/sett.png)|
+| [Crook](/setts/s9/g4b12r3k3r3g16b2r14k4~b1870a4-g406054-k101010-ra00048~x2/)|
+|![Crook example sett](/setts/s9/g4b12r3k3r3g16b2r14k4~b1870a4-g406054-k101010-ra00048~x2/sett.png)|

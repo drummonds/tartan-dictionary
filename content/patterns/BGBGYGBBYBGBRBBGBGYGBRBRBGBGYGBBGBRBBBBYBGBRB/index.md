@@ -16,5 +16,5 @@ BGBGYGBBYBGBRBBGBGYGBRBRBGBGYGBBGBRBBBBYBGBRB
 
 | Tartans |
 |---------------|
-| [Highland Mist](/setts/s45/b4g6ba2g4y2g4bb4ba2y4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4r2b4r2b60g6ba2g4y2g4bb2ba4g2ba4r2ba4b4bb56ba2y4ba6g2ba4r2ba4-b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00/)|
-|![Highland Mist example sett](/setts/s45/b4g6ba2g4y2g4bb4ba2y4ba6g2ba4r2ba4b4g6ba2g4y2g4bb4r2b4r2b60g6ba2g4y2g4bb2ba4g2ba4r2ba4b4bb56ba2y4ba6g2ba4r2ba4-b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00/sett.png)|
+| [Highland Mist](/setts/s45/b2g3ba1g2y1g2bb2ba1y2ba3g1ba2r1ba2b2g3ba1g2y1g2bb2r1b2r1b30g3ba1g2y1g2bb1ba2g1ba2r1ba2b2bb28ba1y2ba3g1ba2r1ba2~b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00~x2/)|
+|![Highland Mist example sett](/setts/s45/b2g3ba1g2y1g2bb2ba1y2ba3g1ba2r1ba2b2g3ba1g2y1g2bb2r1b2r1b30g3ba1g2y1g2bb1ba2g1ba2r1ba2b2bb28ba1y2ba3g1ba2r1ba2~b003c64-ba780078-bb1c1c1c-g006818-r800028-ybc8c00~x2/sett.png)|

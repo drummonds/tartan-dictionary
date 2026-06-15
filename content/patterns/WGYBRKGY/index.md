@@ -6,7 +6,7 @@ WGYBRKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y4g18k32r4b60y6g12w2-b5f749c-g23321b-k000000-rca2625-wf9f5ef-yb7d38b/tartan.png)
+![Woven sample](/setts/s8/y2g9k16r2b30y3g6w1~b5f749c-g23321b-k000000-rca2625-wf9f5ef-yb7d38b~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGYBRKGY
 
 | Tartans |
 |---------------|
-| [Climb, The](/setts/s8/y4g18k32r4b60y6g12w2-b5f749c-g23321b-k000000-rca2625-wf9f5ef-yb7d38b/)|
-|![Climb, The example sett](/setts/s8/y4g18k32r4b60y6g12w2-b5f749c-g23321b-k000000-rca2625-wf9f5ef-yb7d38b/sett.png)|
+| [Climb, The](/setts/s8/y2g9k16r2b30y3g6w1~b5f749c-g23321b-k000000-rca2625-wf9f5ef-yb7d38b~x2/)|
+|![Climb, The example sett](/setts/s8/y2g9k16r2b30y3g6w1~b5f749c-g23321b-k000000-rca2625-wf9f5ef-yb7d38b~x2/sett.png)|

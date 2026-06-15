@@ -6,7 +6,7 @@ RKRKRKWY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r10k2ra4k8ra72k46w8y4-k101010-re13200-rac80028-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r5k1ra2k4ra36k23w4y2~k101010-re13200-rac80028-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RKRKRKWY
 
 | Tartans |
 |---------------|
-| [Aberdeen Football Club (1999)](/setts/s8/r10k2ra4k8ra72k46w8y4-k101010-re13200-rac80028-we0e0e0-ye8c000/)|
-|![Aberdeen Football Club (1999) example sett](/setts/s8/r10k2ra4k8ra72k46w8y4-k101010-re13200-rac80028-we0e0e0-ye8c000/sett.png)|
-| [Aberdeen F.C.](/setts/s8/r10k2ra4k8ra72k46w8y4-k000000-re06000-rac00020-we0e0e0-yf0c000/)|
-|![Aberdeen F.C. example sett](/setts/s8/r10k2ra4k8ra72k46w8y4-k000000-re06000-rac00020-we0e0e0-yf0c000/sett.png)|
+| [Aberdeen Football Club (1999)](/setts/s8/r5k1ra2k4ra36k23w4y2~k101010-re13200-rac80028-we0e0e0-ye8c000~x2/)|
+|![Aberdeen Football Club (1999) example sett](/setts/s8/r5k1ra2k4ra36k23w4y2~k101010-re13200-rac80028-we0e0e0-ye8c000~x2/sett.png)|
+| [Aberdeen F.C.](/setts/s8/r5k1ra2k4ra36k23w4y2~k000000-re06000-rac00020-we0e0e0-yf0c000~x2/)|
+|![Aberdeen F.C. example sett](/setts/s8/r5k1ra2k4ra36k23w4y2~k000000-re06000-rac00020-we0e0e0-yf0c000~x2/sett.png)|

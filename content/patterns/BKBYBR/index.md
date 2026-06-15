@@ -6,7 +6,7 @@ BKBYBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b130k4b8y4b20r48-b506880-k101010-r880000-ya0a0a0/tartan.png)
+![Woven sample](/setts/s6/b65k2b4y2b10r24~b506880-k101010-r880000-ya0a0a0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBYBR
 
 | Tartans |
 |---------------|
-| [Norsemen (Corporate)](/setts/s6/b130k4b8y4b20r48-b506880-k101010-r880000-ya0a0a0/)|
-|![Norsemen (Corporate) example sett](/setts/s6/b130k4b8y4b20r48-b506880-k101010-r880000-ya0a0a0/sett.png)|
+| [Norsemen (Corporate)](/setts/s6/b65k2b4y2b10r24~b506880-k101010-r880000-ya0a0a0~x2/)|
+|![Norsemen (Corporate) example sett](/setts/s6/b65k2b4y2b10r24~b506880-k101010-r880000-ya0a0a0~x2/sett.png)|

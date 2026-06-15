@@ -6,7 +6,7 @@ GKRKRKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g24k2r2k24ra18k90g18-g289c18-k101010-rc80000-ra9c68a4/tartan.png)
+![Woven sample](/setts/s7/g12k1r1k12ra9k45g9~g289c18-k101010-rc80000-ra9c68a4~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRKRKG
 
 | Tartans |
 |---------------|
-| [O'Boyle (Name)](/setts/s7/g24k2r2k24ra18k90g18-g289c18-k101010-rc80000-ra9c68a4/)|
-|![O'Boyle (Name) example sett](/setts/s7/g24k2r2k24ra18k90g18-g289c18-k101010-rc80000-ra9c68a4/sett.png)|
+| [O'Boyle (Name)](/setts/s7/g12k1r1k12ra9k45g9~g289c18-k101010-rc80000-ra9c68a4~x2/)|
+|![O'Boyle (Name) example sett](/setts/s7/g12k1r1k12ra9k45g9~g289c18-k101010-rc80000-ra9c68a4~x2/sett.png)|

@@ -6,7 +6,7 @@ BYRYR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b44y8r4y8r4-b2474e8-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s5/b11y2r1y2r1~b2474e8-r880000-yd09800~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYRYR
 
 | Tartans |
 |---------------|
-| [Carlisle Ancient](/setts/s5/b44y8r4y8r4-b2474e8-r880000-yd09800/)|
-|![Carlisle Ancient example sett](/setts/s5/b44y8r4y8r4-b2474e8-r880000-yd09800/sett.png)|
-| [Carlisle, Ancient](/setts/s5/b44y8r4y8r4-b5480b0-rc00000-yf0c000/)|
-|![Carlisle, Ancient example sett](/setts/s5/b44y8r4y8r4-b5480b0-rc00000-yf0c000/sett.png)|
+| [Carlisle Ancient](/setts/s5/b11y2r1y2r1~b2474e8-r880000-yd09800~x4/)|
+|![Carlisle Ancient example sett](/setts/s5/b11y2r1y2r1~b2474e8-r880000-yd09800~x4/sett.png)|
+| [Carlisle, Ancient](/setts/s5/b11y2r1y2r1~b5480b0-rc00000-yf0c000~x4/)|
+|![Carlisle, Ancient example sett](/setts/s5/b11y2r1y2r1~b5480b0-rc00000-yf0c000~x4/sett.png)|

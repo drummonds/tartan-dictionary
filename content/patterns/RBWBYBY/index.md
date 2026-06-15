@@ -6,7 +6,7 @@ RBWBYBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r136b18w20b26y2b2y4-b202060-r880000-wa8ace8-yd09800/tartan.png)
+![Woven sample](/setts/s7/r68b9w10b13y1b1y2~b202060-r880000-wa8ace8-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBWBYBY
 
 | Tartans |
 |---------------|
-| [Canadian Legion Branch 50](/setts/s7/r136b18w20b26y2b2y4-b202060-r880000-wa8ace8-yd09800/)|
-|![Canadian Legion Branch 50 example sett](/setts/s7/r136b18w20b26y2b2y4-b202060-r880000-wa8ace8-yd09800/sett.png)|
+| [Canadian Legion Branch 50](/setts/s7/r68b9w10b13y1b1y2~b202060-r880000-wa8ace8-yd09800~x2/)|
+|![Canadian Legion Branch 50 example sett](/setts/s7/r68b9w10b13y1b1y2~b202060-r880000-wa8ace8-yd09800~x2/sett.png)|

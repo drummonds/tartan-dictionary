@@ -16,5 +16,5 @@ KWYWYWGRWRWRWRGWYWYWKW
 
 | Tartans |
 |---------------|
-| [Seller, Reproduction Dress](/setts/s22/w126k8wa18y4wa8y4wa8g22r16wa4r8w10r8wa4r16g22wa8y4wa8y4wa18k8-g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000/)|
-|![Seller, Reproduction Dress example sett](/setts/s22/w126k8wa18y4wa8y4wa8g22r16wa4r8w10r8wa4r16g22wa8y4wa8y4wa18k8-g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000/sett.png)|
+| [Seller, Reproduction Dress](/setts/s22/w63k4wa9y2wa4y2wa4g11r8wa2r4w5r4wa2r8g11wa4y2wa4y2wa9k4~g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000~x2/)|
+|![Seller, Reproduction Dress example sett](/setts/s22/w63k4wa9y2wa4y2wa4g11r8wa2r4w5r4wa2r8g11wa4y2wa4y2wa9k4~g604000-k101010-rc80000-wf8f8f8-waa8ace8-ye8c000~x2/sett.png)|

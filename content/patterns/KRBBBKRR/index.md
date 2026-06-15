@@ -6,7 +6,7 @@ KRBBBKRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k8r2b6ba56b72k6r4ra2-b2c2c80-ba1c1c50-k101010-rc80000-ra888888/tartan.png)
+![Woven sample](/setts/s8/k4r1b3ba28b36k3r2ra1~b2c2c80-ba1c1c50-k101010-rc80000-ra888888~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRBBBKRR
 
 | Tartans |
 |---------------|
-| [ODL (Corporate)](/setts/s8/k8r2b6ba56b72k6r4ra2-b2c2c80-ba1c1c50-k101010-rc80000-ra888888/)|
-|![ODL (Corporate) example sett](/setts/s8/k8r2b6ba56b72k6r4ra2-b2c2c80-ba1c1c50-k101010-rc80000-ra888888/sett.png)|
+| [ODL (Corporate)](/setts/s8/k4r1b3ba28b36k3r2ra1~b2c2c80-ba1c1c50-k101010-rc80000-ra888888~x2/)|
+|![ODL (Corporate) example sett](/setts/s8/k4r1b3ba28b36k3r2ra1~b2c2c80-ba1c1c50-k101010-rc80000-ra888888~x2/sett.png)|

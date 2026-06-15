@@ -6,7 +6,7 @@ BYBWYBYB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8y4b26w26y2ba26y4ba8-b2888c4-ba441800-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b4y2b13w13y1ba13y2ba4~b2888c4-ba441800-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYBWYBYB
 
 | Tartans |
 |---------------|
-| [Bannockbane Tan](/setts/s8/b8y4b26w26y2ba26y4ba8-b2888c4-ba441800-we0e0e0-ye8c000/)|
-|![Bannockbane Tan example sett](/setts/s8/b8y4b26w26y2ba26y4ba8-b2888c4-ba441800-we0e0e0-ye8c000/sett.png)|
-| [Bannockbane, Dark Tan](/setts/s8/b8y4b26y2w16ba26y4ba8-b401000-ba5480b0-we0e0e0-yf0c000/)|
-|![Bannockbane, Dark Tan example sett](/setts/s8/b8y4b26y2w16ba26y4ba8-b401000-ba5480b0-we0e0e0-yf0c000/sett.png)|
+| [Bannockbane Tan](/setts/s8/b4y2b13w13y1ba13y2ba4~b2888c4-ba441800-we0e0e0-ye8c000~x2/)|
+|![Bannockbane Tan example sett](/setts/s8/b4y2b13w13y1ba13y2ba4~b2888c4-ba441800-we0e0e0-ye8c000~x2/sett.png)|
+| [Bannockbane, Dark Tan](/setts/s8/b4y2b13y1w8ba13y2ba4~b401000-ba5480b0-we0e0e0-yf0c000~x2/)|
+|![Bannockbane, Dark Tan example sett](/setts/s8/b4y2b13y1w8ba13y2ba4~b401000-ba5480b0-we0e0e0-yf0c000~x2/sett.png)|

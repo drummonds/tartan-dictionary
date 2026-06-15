@@ -16,5 +16,5 @@ RBRBKBKBKRKR
 
 | Tartans |
 |---------------|
-| [Monarch of Argyll (Corporate)](/setts/s12/r46k6r6k6b38k40b6k40b38r38b6r6-b5c5c5c-k101010-r888888/)|
-|![Monarch of Argyll (Corporate) example sett](/setts/s12/r46k6r6k6b38k40b6k40b38r38b6r6-b5c5c5c-k101010-r888888/sett.png)|
+| [Monarch of Argyll (Corporate)](/setts/s12/r23k3r3k3b19k20b3k20b19r19b3r3~b5c5c5c-k101010-r888888~x2/)|
+|![Monarch of Argyll (Corporate) example sett](/setts/s12/r23k3r3k3b19k20b3k20b19r19b3r3~b5c5c5c-k101010-r888888~x2/sett.png)|

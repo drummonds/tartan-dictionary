@@ -16,5 +16,5 @@ BBBBBGBGBGRGR
 
 | Tartans |
 |---------------|
-| [International Cricket Council](/setts/s13/b66ba8b6ba8b14g4b4g4b4g32r4g4r4-b1474b4-ba141e46-g285800-rc80000/)|
-|![International Cricket Council example sett](/setts/s13/b66ba8b6ba8b14g4b4g4b4g32r4g4r4-b1474b4-ba141e46-g285800-rc80000/sett.png)|
+| [International Cricket Council](/setts/s13/b33ba4b3ba4b7g2b2g2b2g16r2g2r2~b1474b4-ba141e46-g285800-rc80000~x2/)|
+|![International Cricket Council example sett](/setts/s13/b33ba4b3ba4b7g2b2g2b2g16r2g2r2~b1474b4-ba141e46-g285800-rc80000~x2/sett.png)|

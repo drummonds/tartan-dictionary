@@ -16,5 +16,5 @@ BRRBRRRGRGRG
 
 | Tartans |
 |---------------|
-| [Powys (District)](/setts/s12/g24r7g7r7g7r22r7r4b4r4r40b14-b1474b4-g285800-rc80000/)|
-|![Powys (District) example sett](/setts/s12/g24r7g7r7g7r22r7r4b4r4r40b14-b1474b4-g285800-rc80000/sett.png)|
+| [Powys (District)](/setts/s12/g24r7g7r7g7r22r7r4b4r4r40b14~b1474b4-g285800-rc80000/)|
+|![Powys (District) example sett](/setts/s12/g24r7g7r7g7r22r7r4b4r4r40b14~b1474b4-g285800-rc80000/sett.png)|

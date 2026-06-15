@@ -6,7 +6,7 @@ BGBRBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b28g42b8r42b28y4-b080848-g005020-rdc0000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b14g21b4r21b14y2~b080848-g005020-rdc0000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBRBY
 
 | Tartans |
 |---------------|
-| [Kilgour](/setts/s6/b28g42b8r42b28y4-b080848-g005020-rdc0000-ye8c000/)|
-|![Kilgour example sett](/setts/s6/b28g42b8r42b28y4-b080848-g005020-rdc0000-ye8c000/sett.png)|
-| [Kilgour](/setts/s6/b28g42b8r42b28y4-b000050-g008000-rc00000-yf0c000/)|
-|![Kilgour example sett](/setts/s6/b28g42b8r42b28y4-b000050-g008000-rc00000-yf0c000/sett.png)|
+| [Kilgour](/setts/s6/b14g21b4r21b14y2~b080848-g005020-rdc0000-ye8c000~x2/)|
+|![Kilgour example sett](/setts/s6/b14g21b4r21b14y2~b080848-g005020-rdc0000-ye8c000~x2/sett.png)|
+| [Kilgour](/setts/s6/b14g21b4r21b14y2~b000050-g008000-rc00000-yf0c000~x2/)|
+|![Kilgour example sett](/setts/s6/b14g21b4r21b14y2~b000050-g008000-rc00000-yf0c000~x2/sett.png)|

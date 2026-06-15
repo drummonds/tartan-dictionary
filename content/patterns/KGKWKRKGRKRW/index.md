@@ -16,5 +16,5 @@ KGKWKRKGRKRW
 
 | Tartans |
 |---------------|
-| [Langtree](/setts/s12/k86g6k4w3k3r3k3g22ra14k3ra6w4-g808080-k000000-rc00000-ra906030-we0e0e0/)|
-|![Langtree example sett](/setts/s12/k86g6k4w3k3r3k3g22ra14k3ra6w4-g808080-k000000-rc00000-ra906030-we0e0e0/sett.png)|
+| [Langtree](/setts/s12/k86g6k4w3k3r3k3g22ra14k3ra6w4~g808080-k000000-rc00000-ra906030-we0e0e0/)|
+|![Langtree example sett](/setts/s12/k86g6k4w3k3r3k3g22ra14k3ra6w4~g808080-k000000-rc00000-ra906030-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ BKBKBKBKBKGRGKBKBKBGYGYKRKYGYG
 
 | Tartans |
 |---------------|
-| [Dundee Discovery](/setts/s30/g20y6g6y2k4r4k4y2g6y6g20b42k4b4k4b42k30g30r4g30k30b4k4b4k4b62k4b4k4b4-b304080-g008000-k000000-rc00000-yf0c000/)|
-|![Dundee Discovery example sett](/setts/s30/g20y6g6y2k4r4k4y2g6y6g20b42k4b4k4b42k30g30r4g30k30b4k4b4k4b62k4b4k4b4-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Dundee Discovery](/setts/s30/g10y3g3y1k2r2k2y1g3y3g10b21k2b2k2b21k15g15r2g15k15b2k2b2k2b31k2b2k2b2~b304080-g008000-k000000-rc00000-yf0c000~x2/)|
+|![Dundee Discovery example sett](/setts/s30/g10y3g3y1k2r2k2y1g3y3g10b21k2b2k2b21k15g15r2g15k15b2k2b2k2b31k2b2k2b2~b304080-g008000-k000000-rc00000-yf0c000~x2/sett.png)|

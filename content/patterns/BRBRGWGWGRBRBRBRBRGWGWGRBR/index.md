@@ -16,5 +16,5 @@ BRBRGWGWGRBRBRBRBRGWGWGRBR
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Duke of Perth](/setts/s26/b60r28b4r28g40w2g4w2g40r88b8r20ba2r8ba2r20b8r88g40w2g4w2g40r28b4r28-b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0/)|
-|![Unnamed C18th - Duke of Perth example sett](/setts/s26/b60r28b4r28g40w2g4w2g40r88b8r20ba2r8ba2r20b8r88g40w2g4w2g40r28b4r28-b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0/sett.png)|
+| [Unnamed C18th - Duke of Perth](/setts/s26/b30r14b2r14g20w1g2w1g20r44b4r10ba1r4ba1r10b4r44g20w1g2w1g20r14b2r14~b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0~x2/)|
+|![Unnamed C18th - Duke of Perth example sett](/setts/s26/b30r14b2r14g20w1g2w1g20r44b4r10ba1r4ba1r10b4r44g20w1g2w1g20r14b2r14~b2c2c80-ba5c8ca8-g006818-rc80000-we0e0e0~x2/sett.png)|

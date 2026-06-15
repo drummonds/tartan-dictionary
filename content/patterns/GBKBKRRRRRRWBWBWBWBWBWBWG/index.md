@@ -16,5 +16,5 @@ GBKBKRRRRRRWBWBWBWBWBWBWG
 
 | Tartans |
 |---------------|
-| [A J Gallacher](/setts/s25/g6w2b8w2b6w4b6w4b4w6b4w6b2w8r40ra2r2ra2r2ra14k6b2k2b2g4-b0000ff-g2e8b57-k101010-rff0000-rab22222-wffffff/)|
-|![A J Gallacher example sett](/setts/s25/g6w2b8w2b6w4b6w4b4w6b4w6b2w8r40ra2r2ra2r2ra14k6b2k2b2g4-b0000ff-g2e8b57-k101010-rff0000-rab22222-wffffff/sett.png)|
+| [A J Gallacher](/setts/s25/g3w1b4w1b3w2b3w2b2w3b2w3b1w4r20ra1r1ra1r1ra7k3b1k1b1g2~b0000ff-g2e8b57-k101010-rff0000-rab22222-wffffff~x2/)|
+|![A J Gallacher example sett](/setts/s25/g3w1b4w1b3w2b3w2b2w3b2w3b1w4r20ra1r1ra1r1ra7k3b1k1b1g2~b0000ff-g2e8b57-k101010-rff0000-rab22222-wffffff~x2/sett.png)|

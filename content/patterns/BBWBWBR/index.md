@@ -6,7 +6,7 @@ BBWBWBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b124ba44w6ba4w4ba6r2-b1474b4-ba202060-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b62ba22w3ba2w2ba3r1~b1474b4-ba202060-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBWBR
 
 | Tartans |
 |---------------|
-| [North Tyneside Pipe Band](/setts/s7/b124ba44w6ba4w4ba6r2-b1474b4-ba202060-rc80000-we0e0e0/)|
-|![North Tyneside Pipe Band example sett](/setts/s7/b124ba44w6ba4w4ba6r2-b1474b4-ba202060-rc80000-we0e0e0/sett.png)|
+| [North Tyneside Pipe Band](/setts/s7/b62ba22w3ba2w2ba3r1~b1474b4-ba202060-rc80000-we0e0e0~x2/)|
+|![North Tyneside Pipe Band example sett](/setts/s7/b62ba22w3ba2w2ba3r1~b1474b4-ba202060-rc80000-we0e0e0~x2/sett.png)|

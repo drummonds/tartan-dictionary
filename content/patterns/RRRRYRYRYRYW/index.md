@@ -16,5 +16,5 @@ RRRRYRYRYRYW
 
 | Tartans |
 |---------------|
-| [Qatar Airways](/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/)|
-|![Qatar Airways example sett](/setts/s12/r6ra4r12ra42y4ra8y6ra6y8ra4y26w4-r781c38-ra888888-wffffff-yb8b8b8/sett.png)|
+| [Qatar Airways](/setts/s12/r3ra2r6ra21y2ra4y3ra3y4ra2y13w2~r781c38-ra888888-wffffff-yb8b8b8~x2/)|
+|![Qatar Airways example sett](/setts/s12/r3ra2r6ra21y2ra4y3ra3y4ra2y13w2~r781c38-ra888888-wffffff-yb8b8b8~x2/sett.png)|

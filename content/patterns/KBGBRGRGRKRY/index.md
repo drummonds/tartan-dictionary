@@ -16,5 +16,5 @@ KBGBRGRGRKRY
 
 | Tartans |
 |---------------|
-| [Harris, Jeffrey S (Personal)](/setts/s12/k4b4g4b44r8g6r6g4r44k4r4y4-b2c2c80-g006818-k101010-ra00000-yfccc00/)|
-|![Harris, Jeffrey S (Personal) example sett](/setts/s12/k4b4g4b44r8g6r6g4r44k4r4y4-b2c2c80-g006818-k101010-ra00000-yfccc00/sett.png)|
+| [Harris, Jeffrey S (Personal)](/setts/s12/k2b2g2b22r4g3r3g2r22k2r2y2~b2c2c80-g006818-k101010-ra00000-yfccc00~x2/)|
+|![Harris, Jeffrey S (Personal) example sett](/setts/s12/k2b2g2b22r4g3r3g2r22k2r2y2~b2c2c80-g006818-k101010-ra00000-yfccc00~x2/sett.png)|

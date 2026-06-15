@@ -16,5 +16,5 @@ BGKBKGKGKBKRWRKBKG
 
 | Tartans |
 |---------------|
-| [Buchanan Hunting (Mackinlay strip)](/setts/s18/g48k4b12k4r24w2r24k4b12k4ga24k4ga24k4b12k4g24b12-b3c82af-g005020-ga503c14-k101010-r781c38-we0e0e0/)|
-|![Buchanan Hunting (Mackinlay strip) example sett](/setts/s18/g48k4b12k4r24w2r24k4b12k4ga24k4ga24k4b12k4g24b12-b3c82af-g005020-ga503c14-k101010-r781c38-we0e0e0/sett.png)|
+| [Buchanan Hunting (Mackinlay strip)](/setts/s18/g24k2b6k2r12w1r12k2b6k2ga12k2ga12k2b6k2g12b6~b3c82af-g005020-ga503c14-k101010-r781c38-we0e0e0~x2/)|
+|![Buchanan Hunting (Mackinlay strip) example sett](/setts/s18/g24k2b6k2r12w1r12k2b6k2ga12k2ga12k2b6k2g12b6~b3c82af-g005020-ga503c14-k101010-r781c38-we0e0e0~x2/sett.png)|

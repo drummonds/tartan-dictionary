@@ -16,5 +16,5 @@ GRKRBRGWGWGRBRKRGR
 
 | Tartans |
 |---------------|
-| [Seton](/setts/s18/r16g8r80k16r8b16r16g48w8g24w8g48r16b16r8k16r80g8-b780078-g006818-k101010-rc80000-wfcfcfc/)|
-|![Seton example sett](/setts/s18/r16g8r80k16r8b16r16g48w8g24w8g48r16b16r8k16r80g8-b780078-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Seton](/setts/s18/r2g1r10k2r1b2r2g6w1g3w1g6r2b2r1k2r10g1~b780078-g006818-k101010-rc80000-wfcfcfc~x8/)|
+|![Seton example sett](/setts/s18/r2g1r10k2r1b2r2g6w1g3w1g6r2b2r1k2r10g1~b780078-g006818-k101010-rc80000-wfcfcfc~x8/sett.png)|

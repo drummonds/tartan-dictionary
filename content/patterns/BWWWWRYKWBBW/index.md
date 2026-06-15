@@ -16,5 +16,5 @@ BWWWWRYKWBBW
 
 | Tartans |
 |---------------|
-| [Antarctic](/setts/s12/b2w76wa4w4wa11r11y7k11w4b11ba32w2-b5480b0-ba102040-k000000-rf07040-we0e0e0-wac0c0c0-yffe000/)|
-|![Antarctic example sett](/setts/s12/b2w76wa4w4wa11r11y7k11w4b11ba32w2-b5480b0-ba102040-k000000-rf07040-we0e0e0-wac0c0c0-yffe000/sett.png)|
+| [Antarctic](/setts/s12/b2w76wa4w4wa11r11y7k11w4b11ba32w2~b5480b0-ba102040-k000000-rf07040-we0e0e0-wac0c0c0-yffe000/)|
+|![Antarctic example sett](/setts/s12/b2w76wa4w4wa11r11y7k11w4b11ba32w2~b5480b0-ba102040-k000000-rf07040-we0e0e0-wac0c0c0-yffe000/sett.png)|

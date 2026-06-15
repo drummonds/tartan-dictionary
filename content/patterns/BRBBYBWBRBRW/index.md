@@ -16,5 +16,5 @@ BRBBYBWBRBRW
 
 | Tartans |
 |---------------|
-| [Lady Diana, Plaid](/setts/s12/b92r6b14ba4y4ba4w4ba22ra12b4ra6w4-b304080-ba401000-rc00000-ra906030-we0e0e0-yf0c000/)|
-|![Lady Diana, Plaid example sett](/setts/s12/b92r6b14ba4y4ba4w4ba22ra12b4ra6w4-b304080-ba401000-rc00000-ra906030-we0e0e0-yf0c000/sett.png)|
+| [Lady Diana, Plaid](/setts/s12/b46r3b7ba2y2ba2w2ba11ra6b2ra3w2~b304080-ba401000-rc00000-ra906030-we0e0e0-yf0c000~x2/)|
+|![Lady Diana, Plaid example sett](/setts/s12/b46r3b7ba2y2ba2w2ba11ra6b2ra3w2~b304080-ba401000-rc00000-ra906030-we0e0e0-yf0c000~x2/sett.png)|

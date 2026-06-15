@@ -6,7 +6,7 @@ GYGKGKGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k78g6k6g6k24g60y6g6-g808080-k000000-yf0c000/tartan.png)
+![Woven sample](/setts/s8/k13g1k1g1k4g10y1g1~g808080-k000000-yf0c000~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGKGKGK
 
 | Tartans |
 |---------------|
-| [West Point](/setts/s8/k78g6k6g6k24g60y6g6-g808080-k000000-yf0c000/)|
-|![West Point example sett](/setts/s8/k78g6k6g6k24g60y6g6-g808080-k000000-yf0c000/sett.png)|
+| [West Point](/setts/s8/k13g1k1g1k4g10y1g1~g808080-k000000-yf0c000~x6/)|
+|![West Point example sett](/setts/s8/k13g1k1g1k4g10y1g1~g808080-k000000-yf0c000~x6/sett.png)|

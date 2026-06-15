@@ -16,5 +16,5 @@ BKBKRKBYB
 
 | Tartans |
 |---------------|
-| [Stone of Destiny](/setts/s9/b8y4b34k4r8k4b6k22b6-b304080-k000030-rc00000-yf0c000/)|
-|![Stone of Destiny example sett](/setts/s9/b8y4b34k4r8k4b6k22b6-b304080-k000030-rc00000-yf0c000/sett.png)|
+| [Stone of Destiny](/setts/s9/b4y2b17k2r4k2b3k11b3~b304080-k000030-rc00000-yf0c000~x2/)|
+|![Stone of Destiny example sett](/setts/s9/b4y2b17k2r4k2b3k11b3~b304080-k000030-rc00000-yf0c000~x2/sett.png)|

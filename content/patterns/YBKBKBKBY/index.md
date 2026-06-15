@@ -16,5 +16,5 @@ YBKBKBKBY
 
 | Tartans |
 |---------------|
-| [Elgin City Band](/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/)|
-|![Elgin City Band example sett](/setts/s9/y4b48k24ba4k4ba4k4ba24y4-b1870a4-ba2c2c80-k101010-ybc8c00/sett.png)|
+| [Elgin City Band](/setts/s9/y1b12k6ba1k1ba1k1ba6y1~b1870a4-ba2c2c80-k101010-ybc8c00~x4/)|
+|![Elgin City Band example sett](/setts/s9/y1b12k6ba1k1ba1k1ba6y1~b1870a4-ba2c2c80-k101010-ybc8c00~x4/sett.png)|

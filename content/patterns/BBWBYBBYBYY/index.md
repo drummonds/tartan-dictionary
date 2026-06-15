@@ -16,5 +16,5 @@ BBWBYBBYBYY
 
 | Tartans |
 |---------------|
-| [Blue Toon (Fashion)](/setts/s11/b98ba22w4ba4y4ba4b20ya8ba4ya4yb6-b48789c-ba003c64-wf8f8f8-yf0a8a8-ya90b0bc-ybe8c000/)|
-|![Blue Toon (Fashion) example sett](/setts/s11/b98ba22w4ba4y4ba4b20ya8ba4ya4yb6-b48789c-ba003c64-wf8f8f8-yf0a8a8-ya90b0bc-ybe8c000/sett.png)|
+| [Blue Toon (Fashion)](/setts/s11/b49ba11w2ba2y2ba2b10ya4ba2ya2yb3~b48789c-ba003c64-wf8f8f8-yf0a8a8-ya90b0bc-ybe8c000~x2/)|
+|![Blue Toon (Fashion) example sett](/setts/s11/b49ba11w2ba2y2ba2b10ya4ba2ya2yb3~b48789c-ba003c64-wf8f8f8-yf0a8a8-ya90b0bc-ybe8c000~x2/sett.png)|

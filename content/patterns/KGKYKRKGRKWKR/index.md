@@ -16,5 +16,5 @@ KGKYKRKGRKWKR
 
 | Tartans |
 |---------------|
-| [Quebec, Plaid du (District)](/setts/s13/k50g10k4y4ka4r4k4g40r40ka4w4ka4r4-g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000/)|
-|![Quebec, Plaid du (District) example sett](/setts/s13/k50g10k4y4ka4r4k4g40r40ka4w4ka4r4-g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000/sett.png)|
+| [Quebec, Plaid du (District)](/setts/s13/k25g5k2y2ka2r2k2g20r20ka2w2ka2r2~g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000~x2/)|
+|![Quebec, Plaid du (District) example sett](/setts/s13/k25g5k2y2ka2r2k2g20r20ka2w2ka2r2~g003820-k00002c-ka101010-rb40000-we0e0e0-yc4a000~x2/sett.png)|

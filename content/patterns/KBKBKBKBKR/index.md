@@ -16,7 +16,7 @@ KBKBKBKBKR
 
 | Tartans |
 |---------------|
-| [Slanj](/setts/s10/k56b6k6b50k6b50k6b6k56r8-b1474b4-k101010-r9c68a4/)|
-|![Slanj example sett](/setts/s10/k56b6k6b50k6b50k6b6k56r8-b1474b4-k101010-r9c68a4/sett.png)|
-| [Witches' Blood, The](/setts/s10/k44b34k4b8k4b4k74b8k4r6-b505050-k101010-ra00000/)|
-|![Witches' Blood, The example sett](/setts/s10/k44b34k4b8k4b4k74b8k4r6-b505050-k101010-ra00000/sett.png)|
+| [Slanj](/setts/s10/k28b3k3b25k3b25k3b3k28r4~b1474b4-k101010-r9c68a4~x2/)|
+|![Slanj example sett](/setts/s10/k28b3k3b25k3b25k3b3k28r4~b1474b4-k101010-r9c68a4~x2/sett.png)|
+| [Witches' Blood, The](/setts/s10/k22b17k2b4k2b2k37b4k2r3~b505050-k101010-ra00000~x2/)|
+|![Witches' Blood, The example sett](/setts/s10/k22b17k2b4k2b2k37b4k2r3~b505050-k101010-ra00000~x2/sett.png)|

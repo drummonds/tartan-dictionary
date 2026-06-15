@@ -6,7 +6,7 @@ BKRKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4k16r4k16g20y4-b00008c-g004c00-k000000-r8c0000-yb0b0b0/tartan.png)
+![Woven sample](/setts/s6/b1k4r1k4g5y1~b00008c-g004c00-k000000-r8c0000-yb0b0b0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRKGY
 
 | Tartans |
 |---------------|
-| [Unidentified Dance](/setts/s6/b4k16r4k16g20y4-b00008c-g004c00-k000000-r8c0000-yb0b0b0/)|
-|![Unidentified Dance example sett](/setts/s6/b4k16r4k16g20y4-b00008c-g004c00-k000000-r8c0000-yb0b0b0/sett.png)|
+| [Unidentified Dance](/setts/s6/b1k4r1k4g5y1~b00008c-g004c00-k000000-r8c0000-yb0b0b0~x4/)|
+|![Unidentified Dance example sett](/setts/s6/b1k4r1k4g5y1~b00008c-g004c00-k000000-r8c0000-yb0b0b0~x4/sett.png)|

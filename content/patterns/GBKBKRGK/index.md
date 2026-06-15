@@ -6,7 +6,7 @@ GBKBKRGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g6b42k6b6k24r6g24k6-b2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/g1b7k1b1k4r1g4k1~b2c2c80-g006818-k101010-rc80000~x6/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBKBKRGK
 
 | Tartans |
 |---------------|
-| [Brabender](/setts/s8/g6b42k6b6k24r6g24k6-b2c2c80-g006818-k101010-rc80000/)|
-|![Brabender example sett](/setts/s8/g6b42k6b6k24r6g24k6-b2c2c80-g006818-k101010-rc80000/sett.png)|
-| [Brabender](/setts/s8/g6b42k6b6k24r6g24k6-b304080-g008000-k000000-rc00000/)|
-|![Brabender example sett](/setts/s8/g6b42k6b6k24r6g24k6-b304080-g008000-k000000-rc00000/sett.png)|
+| [Brabender](/setts/s8/g1b7k1b1k4r1g4k1~b2c2c80-g006818-k101010-rc80000~x6/)|
+|![Brabender example sett](/setts/s8/g1b7k1b1k4r1g4k1~b2c2c80-g006818-k101010-rc80000~x6/sett.png)|
+| [Brabender](/setts/s8/g1b7k1b1k4r1g4k1~b304080-g008000-k000000-rc00000~x6/)|
+|![Brabender example sett](/setts/s8/g1b7k1b1k4r1g4k1~b304080-g008000-k000000-rc00000~x6/sett.png)|

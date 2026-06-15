@@ -16,5 +16,5 @@ BKGBGKBGKB
 
 | Tartans |
 |---------------|
-| [Chateau](/setts/s10/b144k12g12ba4g12k12b16g24k4ba8-b306084-ba488cc0-g484800-k000000/)|
-|![Chateau example sett](/setts/s10/b144k12g12ba4g12k12b16g24k4ba8-b306084-ba488cc0-g484800-k000000/sett.png)|
+| [Chateau](/setts/s10/b36k3g3ba1g3k3b4g6k1ba2~b306084-ba488cc0-g484800-k000000~x4/)|
+|![Chateau example sett](/setts/s10/b36k3g3ba1g3k3b4g6k1ba2~b306084-ba488cc0-g484800-k000000~x4/sett.png)|

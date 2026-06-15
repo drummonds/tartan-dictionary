@@ -16,5 +16,5 @@ GBGBKBKBKGKG
 
 | Tartans |
 |---------------|
-| [Lysaght Hunting](/setts/s12/g24k16g24k44b4k12b12k4b44ga24b16ga24-b2c2c80-g285800-ga604000-k101010/)|
-|![Lysaght Hunting example sett](/setts/s12/g24k16g24k44b4k12b12k4b44ga24b16ga24-b2c2c80-g285800-ga604000-k101010/sett.png)|
+| [Lysaght Hunting](/setts/s12/g6k4g6k11b1k3b3k1b11ga6b4ga6~b2c2c80-g285800-ga604000-k101010~x4/)|
+|![Lysaght Hunting example sett](/setts/s12/g6k4g6k11b1k3b3k1b11ga6b4ga6~b2c2c80-g285800-ga604000-k101010~x4/sett.png)|

@@ -16,5 +16,5 @@ RKRKWKRWKRW
 
 | Tartans |
 |---------------|
-| [Central Washington University Wildcat](/setts/s11/w8r16k14w6r8k10w4k8r12k4r4-k101010-rff0000-wffffff/)|
-|![Central Washington University Wildcat example sett](/setts/s11/w8r16k14w6r8k10w4k8r12k4r4-k101010-rff0000-wffffff/sett.png)|
+| [Central Washington University Wildcat](/setts/s11/w4r8k7w3r4k5w2k4r6k2r2~k101010-rff0000-wffffff~x2/)|
+|![Central Washington University Wildcat example sett](/setts/s11/w4r8k7w3r4k5w2k4r6k2r2~k101010-rff0000-wffffff~x2/sett.png)|

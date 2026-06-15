@@ -16,5 +16,5 @@ BWBKBKBKYRGWR
 
 | Tartans |
 |---------------|
-| [Salich-Plaja of St. Genis (Personal)](/setts/s13/b26w6b26k6b6k16b6k30y6r6g6w6r6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Salich-Plaja of St. Genis (Personal) example sett](/setts/s13/b26w6b26k6b6k16b6k30y6r6g6w6r6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Salich-Plaja of St. Genis (Personal)](/setts/s13/b13w3b13k3b3k8b3k15y3r3g3w3r3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Salich-Plaja of St. Genis (Personal) example sett](/setts/s13/b13w3b13k3b3k8b3k15y3r3g3w3r3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

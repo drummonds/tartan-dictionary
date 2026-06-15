@@ -16,5 +16,5 @@ KRKRKWKRKRKR
 
 | Tartans |
 |---------------|
-| [University of Georgia (Corporate)](/setts/s12/k12r62k2r12k2w4k2r8k12r4k62r12-k101010-rd40000-wf8f8f8/)|
-|![University of Georgia (Corporate) example sett](/setts/s12/k12r62k2r12k2w4k2r8k12r4k62r12-k101010-rd40000-wf8f8f8/sett.png)|
+| [University of Georgia (Corporate)](/setts/s12/k6r31k1r6k1w2k1r4k6r2k31r6~k101010-rd40000-wf8f8f8~x2/)|
+|![University of Georgia (Corporate) example sett](/setts/s12/k6r31k1r6k1w2k1r4k6r2k31r6~k101010-rd40000-wf8f8f8~x2/sett.png)|

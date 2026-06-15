@@ -16,5 +16,5 @@ GGGGGKGGKGKGK
 
 | Tartans |
 |---------------|
-| [Wells, Greg #2 (Personal)](/setts/s13/g24g6g24g4g24k2g24g4k24g2k4g2k24-g006818-k101010/)|
-|![Wells, Greg #2 (Personal) example sett](/setts/s13/g24g6g24g4g24k2g24g4k24g2k4g2k24-g006818-k101010/sett.png)|
+| [Wells, Greg #2 (Personal)](/setts/s13/g12g3g12g2g12k1g12g2k12g1k2g1k12~g006818-k101010~x2/)|
+|![Wells, Greg #2 (Personal) example sett](/setts/s13/g12g3g12g2g12k1g12g2k12g1k2g1k12~g006818-k101010~x2/sett.png)|

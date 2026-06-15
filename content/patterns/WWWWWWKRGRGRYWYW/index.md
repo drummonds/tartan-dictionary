@@ -16,5 +16,5 @@ WWWWWWKRGRGRYWYW
 
 | Tartans |
 |---------------|
-| [Inverness County (Canada)](/setts/s16/w72y8w8y4r12g12r8g8r4k8w12wa28w8wa8w4wa16-g006818-k101010-rc80000-w98c8e8-wae0e0e0-ye8c000/)|
-|![Inverness County (Canada) example sett](/setts/s16/w72y8w8y4r12g12r8g8r4k8w12wa28w8wa8w4wa16-g006818-k101010-rc80000-w98c8e8-wae0e0e0-ye8c000/sett.png)|
+| [Inverness County (Canada)](/setts/s16/w18y2w2y1r3g3r2g2r1k2w3wa7w2wa2w1wa4~g006818-k101010-rc80000-w98c8e8-wae0e0e0-ye8c000~x4/)|
+|![Inverness County (Canada) example sett](/setts/s16/w18y2w2y1r3g3r2g2r1k2w3wa7w2wa2w1wa4~g006818-k101010-rc80000-w98c8e8-wae0e0e0-ye8c000~x4/sett.png)|

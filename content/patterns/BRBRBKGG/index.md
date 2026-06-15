@@ -6,7 +6,7 @@ BRBRBKGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b44r6b4r6b4k34g36ga8-b2c2c80-g604000-ga006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/b22r3b2r3b2k17g18ga4~b2c2c80-g604000-ga006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRBKGG
 
 | Tartans |
 |---------------|
-| [Scotch House 2000 Antique](/setts/s8/b44r6b4r6b4k34g36ga8-b2c2c80-g604000-ga006818-k101010-rc80000/)|
-|![Scotch House 2000 Antique example sett](/setts/s8/b44r6b4r6b4k34g36ga8-b2c2c80-g604000-ga006818-k101010-rc80000/sett.png)|
+| [Scotch House 2000 Antique](/setts/s8/b22r3b2r3b2k17g18ga4~b2c2c80-g604000-ga006818-k101010-rc80000~x2/)|
+|![Scotch House 2000 Antique example sett](/setts/s8/b22r3b2r3b2k17g18ga4~b2c2c80-g604000-ga006818-k101010-rc80000~x2/sett.png)|

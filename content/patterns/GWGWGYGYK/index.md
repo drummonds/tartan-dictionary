@@ -16,5 +16,5 @@ GWGWGYGYK
 
 | Tartans |
 |---------------|
-| [Crumlish (2015)](/setts/s9/k88y4g54y4ga32w16g32w4g16-g003c14-ga285800-k1c1714-we0e0e0-yf8e38c/)|
-|![Crumlish (2015) example sett](/setts/s9/k88y4g54y4ga32w16g32w4g16-g003c14-ga285800-k1c1714-we0e0e0-yf8e38c/sett.png)|
+| [Crumlish (2015)](/setts/s9/k44y2g27y2ga16w8g16w2g8~g003c14-ga285800-k1c1714-we0e0e0-yf8e38c~x2/)|
+|![Crumlish (2015) example sett](/setts/s9/k44y2g27y2ga16w8g16w2g8~g003c14-ga285800-k1c1714-we0e0e0-yf8e38c~x2/sett.png)|

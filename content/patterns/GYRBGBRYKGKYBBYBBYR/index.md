@@ -16,5 +16,5 @@ GYRBGBRYKGKYBBYBBYR
 
 | Tartans |
 |---------------|
-| [MacBean](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacBean example sett](/setts/s19/r48y2b4ba2y2ba2b4y2k2g12k2y2r4bb4g2bb4r4y2g6-b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacBean](/setts/s19/r24y1b2ba1y1ba1b2y1k1g6k1y1r2bb2g1bb2r2y1g3~b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![MacBean example sett](/setts/s19/r24y1b2ba1y1ba1b2y1k1g6k1y1r2bb2g1bb2r2y1g3~b000052-ba4367ae-bb59110d-g11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|

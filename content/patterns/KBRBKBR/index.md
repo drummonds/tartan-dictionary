@@ -6,7 +6,7 @@ KBRBKBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k80b16r6b12ka6b12ra8-b141e46-k000028-ka101010-rc87814-radc0000/tartan.png)
+![Woven sample](/setts/s7/k40b8r3b6ka3b6ra4~b141e46-k000028-ka101010-rc87814-radc0000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRBKBR
 
 | Tartans |
 |---------------|
-| [Edinburgh and Lothian Tourist Board](/setts/s7/k80b16r6b12ka6b12ra8-b141e46-k000028-ka101010-rc87814-radc0000/)|
-|![Edinburgh and Lothian Tourist Board example sett](/setts/s7/k80b16r6b12ka6b12ra8-b141e46-k000028-ka101010-rc87814-radc0000/sett.png)|
+| [Edinburgh and Lothian Tourist Board](/setts/s7/k40b8r3b6ka3b6ra4~b141e46-k000028-ka101010-rc87814-radc0000~x2/)|
+|![Edinburgh and Lothian Tourist Board example sett](/setts/s7/k40b8r3b6ka3b6ra4~b141e46-k000028-ka101010-rc87814-radc0000~x2/sett.png)|

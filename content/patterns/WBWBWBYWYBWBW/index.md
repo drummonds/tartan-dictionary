@@ -16,5 +16,5 @@ WBWBWBYWYBWBW
 
 | Tartans |
 |---------------|
-| [Poulter, Pink (Corporate)](/setts/s13/w50b8w8b8w8b46y46wa8y46b46w46b8w8-b440044-wd8cce0-wae0e0e0-yb0b0b0/)|
-|![Poulter, Pink (Corporate) example sett](/setts/s13/w50b8w8b8w8b46y46wa8y46b46w46b8w8-b440044-wd8cce0-wae0e0e0-yb0b0b0/sett.png)|
+| [Poulter, Pink (Corporate)](/setts/s13/w25b4w4b4w4b23y23wa4y23b23w23b4w4~b440044-wd8cce0-wae0e0e0-yb0b0b0~x2/)|
+|![Poulter, Pink (Corporate) example sett](/setts/s13/w25b4w4b4w4b23y23wa4y23b23w23b4w4~b440044-wd8cce0-wae0e0e0-yb0b0b0~x2/sett.png)|

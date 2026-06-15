@@ -16,5 +16,5 @@ BRBRBRBGRGR
 
 | Tartans |
 |---------------|
-| [McCaslin](/setts/s11/b26r8b8r18b28r8b28g30r16g16r8-b2c2c80-g006818-rc80000/)|
-|![McCaslin example sett](/setts/s11/b26r8b8r18b28r8b28g30r16g16r8-b2c2c80-g006818-rc80000/sett.png)|
+| [McCaslin](/setts/s11/b13r4b4r9b14r4b14g15r8g8r4~b2c2c80-g006818-rc80000~x2/)|
+|![McCaslin example sett](/setts/s11/b13r4b4r9b14r4b14g15r8g8r4~b2c2c80-g006818-rc80000~x2/sett.png)|

@@ -6,7 +6,7 @@ RGKBYR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r24g8k16b6y124ra16-b501400-g006818-k101010-rc80000-raa00000-yc4bc68/tartan.png)
+![Woven sample](/setts/s6/r12g4k8b3y62ra8~b501400-g006818-k101010-rc80000-raa00000-yc4bc68~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKBYR
 
 | Tartans |
 |---------------|
-| [Shawn Jones Afghan Memorial, The](/setts/s6/r24g8k16b6y124ra16-b501400-g006818-k101010-rc80000-raa00000-yc4bc68/)|
-|![Shawn Jones Afghan Memorial, The example sett](/setts/s6/r24g8k16b6y124ra16-b501400-g006818-k101010-rc80000-raa00000-yc4bc68/sett.png)|
+| [Shawn Jones Afghan Memorial, The](/setts/s6/r12g4k8b3y62ra8~b501400-g006818-k101010-rc80000-raa00000-yc4bc68~x2/)|
+|![Shawn Jones Afghan Memorial, The example sett](/setts/s6/r12g4k8b3y62ra8~b501400-g006818-k101010-rc80000-raa00000-yc4bc68~x2/sett.png)|

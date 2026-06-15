@@ -6,7 +6,7 @@ BWBKBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r10b40r6b40k12b6w4b2-b2c2c80-k000000-rc80000-w98c8e8/tartan.png)
+![Woven sample](/setts/s8/r5b20r3b20k6b3w2b1~b2c2c80-k000000-rc80000-w98c8e8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBKBRBR
 
 | Tartans |
 |---------------|
-| [Masai Shuka 29 (Artefact)](/setts/s8/r10b40r6b40k12b6w4b2-b2c2c80-k000000-rc80000-w98c8e8/)|
-|![Masai Shuka 29 (Artefact) example sett](/setts/s8/r10b40r6b40k12b6w4b2-b2c2c80-k000000-rc80000-w98c8e8/sett.png)|
+| [Masai Shuka 29 (Artefact)](/setts/s8/r5b20r3b20k6b3w2b1~b2c2c80-k000000-rc80000-w98c8e8~x2/)|
+|![Masai Shuka 29 (Artefact) example sett](/setts/s8/r5b20r3b20k6b3w2b1~b2c2c80-k000000-rc80000-w98c8e8~x2/sett.png)|

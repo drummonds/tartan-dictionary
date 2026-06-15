@@ -16,5 +16,5 @@ GKGBGKGKGKGKGBGK
 
 | Tartans |
 |---------------|
-| [Herron of Ulster (Personal)](/setts/s16/g4k4g4b40g4k4g4k44g48k44g4k4g4b40g4k4-b202060-g285800-k101010/)|
-|![Herron of Ulster (Personal) example sett](/setts/s16/g4k4g4b40g4k4g4k44g48k44g4k4g4b40g4k4-b202060-g285800-k101010/sett.png)|
+| [Herron of Ulster (Personal)](/setts/s16/g1k1g1b10g1k1g1k11g12k11g1k1g1b10g1k1~b202060-g285800-k101010~x4/)|
+|![Herron of Ulster (Personal) example sett](/setts/s16/g1k1g1b10g1k1g1k11g12k11g1k1g1b10g1k1~b202060-g285800-k101010~x4/sett.png)|

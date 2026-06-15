@@ -16,5 +16,5 @@ BYBYBRKRK
 
 | Tartans |
 |---------------|
-| [Historic Scotland (pre 1998) (Corp)](/setts/s9/b8y2b2y6b48r18k2r18k6-b3c405c-k101010-r888888-ya0a0a0/)|
-|![Historic Scotland (pre 1998) (Corp) example sett](/setts/s9/b8y2b2y6b48r18k2r18k6-b3c405c-k101010-r888888-ya0a0a0/sett.png)|
+| [Historic Scotland (pre 1998) (Corp)](/setts/s9/b4y1b1y3b24r9k1r9k3~b3c405c-k101010-r888888-ya0a0a0~x2/)|
+|![Historic Scotland (pre 1998) (Corp) example sett](/setts/s9/b4y1b1y3b24r9k1r9k3~b3c405c-k101010-r888888-ya0a0a0~x2/sett.png)|

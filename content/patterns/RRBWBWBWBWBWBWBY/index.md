@@ -16,5 +16,5 @@ RRBWBWBWBWBWBWBY
 
 | Tartans |
 |---------------|
-| [Bradwell, Amy (Personal) XXXXXXXXXX](/setts/s16/r8ra6b4w8b4w6b8w6b12w4b16w4b12w4ba8y6-b780078-ba5c8ca8-rc80000-ra888888-we8ccb8-ydc943c/)|
-|![Bradwell, Amy (Personal) XXXXXXXXXX example sett](/setts/s16/r8ra6b4w8b4w6b8w6b12w4b16w4b12w4ba8y6-b780078-ba5c8ca8-rc80000-ra888888-we8ccb8-ydc943c/sett.png)|
+| [Bradwell, Amy (Personal) XXXXXXXXXX](/setts/s16/r4ra3b2w4b2w3b4w3b6w2b8w2b6w2ba4y3~b780078-ba5c8ca8-rc80000-ra888888-we8ccb8-ydc943c~x2/)|
+|![Bradwell, Amy (Personal) XXXXXXXXXX example sett](/setts/s16/r4ra3b2w4b2w3b4w3b6w2b8w2b6w2ba4y3~b780078-ba5c8ca8-rc80000-ra888888-we8ccb8-ydc943c~x2/sett.png)|

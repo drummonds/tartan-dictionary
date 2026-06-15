@@ -16,5 +16,5 @@ RGRGGYGYYYYY
 
 | Tartans |
 |---------------|
-| [Shrek](/setts/s12/r8g6r60ga24g10y8g6y28ya4y4ya20yb6-g006438-ga707830-ra87448-y40c440-yaa4cc74-ybbcc41c/)|
-|![Shrek example sett](/setts/s12/r8g6r60ga24g10y8g6y28ya4y4ya20yb6-g006438-ga707830-ra87448-y40c440-yaa4cc74-ybbcc41c/sett.png)|
+| [Shrek](/setts/s12/r4g3r30ga12g5y4g3y14ya2y2ya10yb3~g006438-ga707830-ra87448-y40c440-yaa4cc74-ybbcc41c~x2/)|
+|![Shrek example sett](/setts/s12/r4g3r30ga12g5y4g3y14ya2y2ya10yb3~g006438-ga707830-ra87448-y40c440-yaa4cc74-ybbcc41c~x2/sett.png)|

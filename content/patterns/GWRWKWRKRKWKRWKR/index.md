@@ -16,5 +16,5 @@ GWRWKWRKRKWKRWKR
 
 | Tartans |
 |---------------|
-| [Sabrettes (Corporate)](/setts/s16/r30k10w4ra14k8w16k4r52k10ra4w4k14w4r10w4g4-g006818-k101010-rc80000-ra888888-wfcfcfc/)|
-|![Sabrettes (Corporate) example sett](/setts/s16/r30k10w4ra14k8w16k4r52k10ra4w4k14w4r10w4g4-g006818-k101010-rc80000-ra888888-wfcfcfc/sett.png)|
+| [Sabrettes (Corporate)](/setts/s16/r15k5w2ra7k4w8k2r26k5ra2w2k7w2r5w2g2~g006818-k101010-rc80000-ra888888-wfcfcfc~x2/)|
+|![Sabrettes (Corporate) example sett](/setts/s16/r15k5w2ra7k4w8k2r26k5ra2w2k7w2r5w2g2~g006818-k101010-rc80000-ra888888-wfcfcfc~x2/sett.png)|

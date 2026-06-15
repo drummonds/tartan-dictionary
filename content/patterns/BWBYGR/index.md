@@ -6,7 +6,7 @@ BWBYGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b26w26b8y4g16r6-b2c2c80-g006818-rc80000-we0e0e0-yd4c028/tartan.png)
+![Woven sample](/setts/s6/b13w13b4y2g8r3~b2c2c80-g006818-rc80000-we0e0e0-yd4c028~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBYGR
 
 | Tartans |
 |---------------|
-| [Unidentified (Winterbottom)](/setts/s6/b26w26b8y4g16r6-b2c2c80-g006818-rc80000-we0e0e0-yd4c028/)|
-|![Unidentified (Winterbottom) example sett](/setts/s6/b26w26b8y4g16r6-b2c2c80-g006818-rc80000-we0e0e0-yd4c028/sett.png)|
+| [Unidentified (Winterbottom)](/setts/s6/b13w13b4y2g8r3~b2c2c80-g006818-rc80000-we0e0e0-yd4c028~x2/)|
+|![Unidentified (Winterbottom) example sett](/setts/s6/b13w13b4y2g8r3~b2c2c80-g006818-rc80000-we0e0e0-yd4c028~x2/sett.png)|

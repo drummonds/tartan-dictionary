@@ -16,5 +16,5 @@ BBKYKBKWKB
 
 | Tartans |
 |---------------|
-| [Canberra, City of](/setts/s10/b152ba44k2y6k2ba6k2w4k2ba20-b2c4c68-ba4074a4-k000000-wf8f8f8-ye8c000/)|
-|![Canberra, City of example sett](/setts/s10/b152ba44k2y6k2ba6k2w4k2ba20-b2c4c68-ba4074a4-k000000-wf8f8f8-ye8c000/sett.png)|
+| [Canberra, City of](/setts/s10/b76ba22k1y3k1ba3k1w2k1ba10~b2c4c68-ba4074a4-k000000-wf8f8f8-ye8c000~x2/)|
+|![Canberra, City of example sett](/setts/s10/b76ba22k1y3k1ba3k1w2k1ba10~b2c4c68-ba4074a4-k000000-wf8f8f8-ye8c000~x2/sett.png)|

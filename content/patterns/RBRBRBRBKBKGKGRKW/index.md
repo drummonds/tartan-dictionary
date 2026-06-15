@@ -16,5 +16,5 @@ RBRBRBRBKBKGKGRKW
 
 | Tartans |
 |---------------|
-| [Caledonian Society of P.E.I. (Corp)](/setts/s17/r28b8r4b4r8b4r4b28k8b8k30g40k4ga8r4k2w8-b2c2c80-g006818-ga789484-k101010-rc80000-wf8f8f8/)|
-|![Caledonian Society of P.E.I. (Corp) example sett](/setts/s17/r28b8r4b4r8b4r4b28k8b8k30g40k4ga8r4k2w8-b2c2c80-g006818-ga789484-k101010-rc80000-wf8f8f8/sett.png)|
+| [Caledonian Society of P.E.I. (Corp)](/setts/s17/r14b4r2b2r4b2r2b14k4b4k15g20k2ga4r2k1w4~b2c2c80-g006818-ga789484-k101010-rc80000-wf8f8f8~x2/)|
+|![Caledonian Society of P.E.I. (Corp) example sett](/setts/s17/r14b4r2b2r4b2r2b14k4b4k15g20k2ga4r2k1w4~b2c2c80-g006818-ga789484-k101010-rc80000-wf8f8f8~x2/sett.png)|

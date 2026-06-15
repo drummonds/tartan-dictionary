@@ -16,5 +16,5 @@ KGYGBRKRBR
 
 | Tartans |
 |---------------|
-| [Tupper, Sir Charles](/setts/s10/k8g12y6g20b28r12k36r12b8r4-b1c1c1c-g604000-k00002c-r980044-ya08858/)|
-|![Tupper, Sir Charles example sett](/setts/s10/k8g12y6g20b28r12k36r12b8r4-b1c1c1c-g604000-k00002c-r980044-ya08858/sett.png)|
+| [Tupper, Sir Charles](/setts/s10/k4g6y3g10b14r6k18r6b4r2~b1c1c1c-g604000-k00002c-r980044-ya08858~x2/)|
+|![Tupper, Sir Charles example sett](/setts/s10/k4g6y3g10b14r6k18r6b4r2~b1c1c1c-g604000-k00002c-r980044-ya08858~x2/sett.png)|

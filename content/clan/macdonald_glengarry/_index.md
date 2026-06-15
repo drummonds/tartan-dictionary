@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/"><img src="/setts/s11/g36r6g4r4b12r4g4r48g2r4g12-b304080-g008000-rc00000/sett.png" alt="MacDonell of Glengarry" width="240"><br>MacDonell of Glengarry</a>
+<a class="tartan" href="/setts/s11/g18r3g2r2b6r2g2r24g1r2g6~b304080-g008000-rc00000~x2/"><img src="/setts/s11/g18r3g2r2b6r2g2r24g1r2g6~b304080-g008000-rc00000~x2/sett.png" alt="MacDonell of Glengarry" width="240"><br>MacDonell of Glengarry</a>
 

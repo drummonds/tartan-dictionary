@@ -6,7 +6,7 @@ GWGGYWYG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g84y2w4y2g10ga24w64g8-g006818-ga003820-wfcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g42y1w2y1g5ga12w32g4~g006818-ga003820-wfcfcfc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGGYWYG
 
 | Tartans |
 |---------------|
-| [Longniddry Green Error (Dance)](/setts/s8/g84y2w4y2g10ga24w64g8-g006818-ga003820-wfcfcfc-ye8c000/)|
-|![Longniddry Green Error (Dance) example sett](/setts/s8/g84y2w4y2g10ga24w64g8-g006818-ga003820-wfcfcfc-ye8c000/sett.png)|
+| [Longniddry Green Error (Dance)](/setts/s8/g42y1w2y1g5ga12w32g4~g006818-ga003820-wfcfcfc-ye8c000~x2/)|
+|![Longniddry Green Error (Dance) example sett](/setts/s8/g42y1w2y1g5ga12w32g4~g006818-ga003820-wfcfcfc-ye8c000~x2/sett.png)|

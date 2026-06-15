@@ -6,7 +6,7 @@ BWBBBBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8w6ba12b80ba16b24g6-b2c2c80-ba1474b4-g289c18-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b4w3ba6b40ba8b12g3~b2c2c80-ba1474b4-g289c18-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBBBBG
 
 | Tartans |
 |---------------|
-| [JetBlue (Corporate)](/setts/s7/b8w6ba12b80ba16b24g6-b2c2c80-ba1474b4-g289c18-wfcfcfc/)|
-|![JetBlue (Corporate) example sett](/setts/s7/b8w6ba12b80ba16b24g6-b2c2c80-ba1474b4-g289c18-wfcfcfc/sett.png)|
+| [JetBlue (Corporate)](/setts/s7/b4w3ba6b40ba8b12g3~b2c2c80-ba1474b4-g289c18-wfcfcfc~x2/)|
+|![JetBlue (Corporate) example sett](/setts/s7/b4w3ba6b40ba8b12g3~b2c2c80-ba1474b4-g289c18-wfcfcfc~x2/sett.png)|

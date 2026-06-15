@@ -16,5 +16,5 @@ BRWRWRBRWRWR
 
 | Tartans |
 |---------------|
-| [St. Giles Check](/setts/s12/b12r4w4r100w4r4ba12r4w4r100w4r4-b2c2c80-ba780078-r888888-wfcfcfc/)|
-|![St. Giles Check example sett](/setts/s12/b12r4w4r100w4r4ba12r4w4r100w4r4-b2c2c80-ba780078-r888888-wfcfcfc/sett.png)|
+| [St. Giles Check](/setts/s12/b3r1w1r25w1r1ba3r1w1r25w1r1~b2c2c80-ba780078-r888888-wfcfcfc~x4/)|
+|![St. Giles Check example sett](/setts/s12/b3r1w1r25w1r1ba3r1w1r25w1r1~b2c2c80-ba780078-r888888-wfcfcfc~x4/sett.png)|

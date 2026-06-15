@@ -16,5 +16,5 @@ BYGYGYBYBRY
 
 | Tartans |
 |---------------|
-| [Craven County (Commemorative)](/setts/s11/b92y2g10y2ga10y2ba10y2b32r2y8-b1474b4-ba440044-g604000-ga006818-rc80000-ye8c000/)|
-|![Craven County (Commemorative) example sett](/setts/s11/b92y2g10y2ga10y2ba10y2b32r2y8-b1474b4-ba440044-g604000-ga006818-rc80000-ye8c000/sett.png)|
+| [Craven County (Commemorative)](/setts/s11/b46y1g5y1ga5y1ba5y1b16r1y4~b1474b4-ba440044-g604000-ga006818-rc80000-ye8c000~x2/)|
+|![Craven County (Commemorative) example sett](/setts/s11/b46y1g5y1ga5y1ba5y1b16r1y4~b1474b4-ba440044-g604000-ga006818-rc80000-ye8c000~x2/sett.png)|

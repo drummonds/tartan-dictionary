@@ -16,7 +16,7 @@ BGBRBYBRBY
 
 | Tartans |
 |---------------|
-| [Unidentified Specimen #3](/setts/s10/b2g8b2r2b2y2b10r12b2y2-b2c4084-g005020-rdc0000-ye8c000/)|
-|![Unidentified Specimen #3 example sett](/setts/s10/b2g8b2r2b2y2b10r12b2y2-b2c4084-g005020-rdc0000-ye8c000/sett.png)|
-| [Unidentified, specimen](/setts/s10/b2g8b2r2b2y2b10r12b2y2-b304080-g008000-rc00000-yf0c000/)|
-|![Unidentified, specimen example sett](/setts/s10/b2g8b2r2b2y2b10r12b2y2-b304080-g008000-rc00000-yf0c000/sett.png)|
+| [Unidentified Specimen #3](/setts/s10/b1g4b1r1b1y1b5r6b1y1~b2c4084-g005020-rdc0000-ye8c000~x2/)|
+|![Unidentified Specimen #3 example sett](/setts/s10/b1g4b1r1b1y1b5r6b1y1~b2c4084-g005020-rdc0000-ye8c000~x2/sett.png)|
+| [Unidentified, specimen](/setts/s10/b1g4b1r1b1y1b5r6b1y1~b304080-g008000-rc00000-yf0c000~x2/)|
+|![Unidentified, specimen example sett](/setts/s10/b1g4b1r1b1y1b5r6b1y1~b304080-g008000-rc00000-yf0c000~x2/sett.png)|

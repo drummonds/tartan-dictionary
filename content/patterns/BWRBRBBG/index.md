@@ -6,7 +6,7 @@ BWRBRBBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g60b4ba14r28ba14r14w2b28-b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/g30b2ba7r14ba7r7w1b14~b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWRBRBBG
 
 | Tartans |
 |---------------|
-| [Harding (Name)](/setts/s8/g60b4ba14r28ba14r14w2b28-b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8/)|
-|![Harding (Name) example sett](/setts/s8/g60b4ba14r28ba14r14w2b28-b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8/sett.png)|
+| [Harding (Name)](/setts/s8/g30b2ba7r14ba7r7w1b14~b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8~x2/)|
+|![Harding (Name) example sett](/setts/s8/g30b2ba7r14ba7r7w1b14~b14283c-ba5c5c5c-g005448-rc80000-wf8f8f8~x2/sett.png)|

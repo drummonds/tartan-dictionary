@@ -16,5 +16,5 @@ GYBYBYBYGYGYGYGYGYGGBGBGGYGYGYGYGYGYBYBYBYGY
 
 | Tartans |
 |---------------|
-| [Kirkton](/setts/s44/g16y4b16y4b12y4b8y4ga16y4ga12y4ga8y4gb16y4gb12y4gb8g12b8g40b8g12gb8y4gb12y4gb16y4ga8y4ga12y4ga16y4b8y4b12y4b16y4g16y8-b5c5c5c-g006818-ga5c6428-gb8c7038-yb8b8b8/)|
-|![Kirkton example sett](/setts/s44/g16y4b16y4b12y4b8y4ga16y4ga12y4ga8y4gb16y4gb12y4gb8g12b8g40b8g12gb8y4gb12y4gb16y4ga8y4ga12y4ga16y4b8y4b12y4b16y4g16y8-b5c5c5c-g006818-ga5c6428-gb8c7038-yb8b8b8/sett.png)|
+| [Kirkton](/setts/s44/g4y1b4y1b3y1b2y1ga4y1ga3y1ga2y1gb4y1gb3y1gb2g3b2g10b2g3gb2y1gb3y1gb4y1ga2y1ga3y1ga4y1b2y1b3y1b4y1g4y2~b5c5c5c-g006818-ga5c6428-gb8c7038-yb8b8b8~x4/)|
+|![Kirkton example sett](/setts/s44/g4y1b4y1b3y1b2y1ga4y1ga3y1ga2y1gb4y1gb3y1gb2g3b2g10b2g3gb2y1gb3y1gb4y1ga2y1ga3y1ga4y1b2y1b3y1b4y1g4y2~b5c5c5c-g006818-ga5c6428-gb8c7038-yb8b8b8~x4/sett.png)|

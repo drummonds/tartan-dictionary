@@ -16,5 +16,5 @@ RRRKGBGBGRGBGBGKRRRRR
 
 | Tartans |
 |---------------|
-| [Cherry Valley New York](/setts/s21/r32ra4r4ra4r4k32g4b4g4b4g20ra4ga20b4ga4b4ga4k32r30ra4r4-b3474fc-g283c00-ga146400-k000000-r8c8c8c-ra8c0000/)|
-|![Cherry Valley New York example sett](/setts/s21/r32ra4r4ra4r4k32g4b4g4b4g20ra4ga20b4ga4b4ga4k32r30ra4r4-b3474fc-g283c00-ga146400-k000000-r8c8c8c-ra8c0000/sett.png)|
+| [Cherry Valley New York](/setts/s21/r16ra2r2ra2r2k16g2b2g2b2g10ra2ga10b2ga2b2ga2k16r15ra2r2~b3474fc-g283c00-ga146400-k000000-r8c8c8c-ra8c0000~x2/)|
+|![Cherry Valley New York example sett](/setts/s21/r16ra2r2ra2r2k16g2b2g2b2g10ra2ga10b2ga2b2ga2k16r15ra2r2~b3474fc-g283c00-ga146400-k000000-r8c8c8c-ra8c0000~x2/sett.png)|

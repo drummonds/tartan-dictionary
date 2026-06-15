@@ -16,5 +16,5 @@ BGKGBGKRGGGRK
 
 | Tartans |
 |---------------|
-| [Gayre, hunting](/setts/s13/b32g8k8ga44b10ga44k6r10g8ga8g8r8k8-b304080-g008000-ga808080-k000000-rc00000/)|
-|![Gayre, hunting example sett](/setts/s13/b32g8k8ga44b10ga44k6r10g8ga8g8r8k8-b304080-g008000-ga808080-k000000-rc00000/sett.png)|
+| [Gayre, hunting](/setts/s13/b16g4k4ga22b5ga22k3r5g4ga4g4r4k4~b304080-g008000-ga808080-k000000-rc00000~x2/)|
+|![Gayre, hunting example sett](/setts/s13/b16g4k4ga22b5ga22k3r5g4ga4g4r4k4~b304080-g008000-ga808080-k000000-rc00000~x2/sett.png)|

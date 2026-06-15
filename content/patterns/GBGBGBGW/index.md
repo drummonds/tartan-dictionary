@@ -6,7 +6,7 @@ GBGBGBGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g88b22g10ba6g8b16g8w2-b000048-ba2888c4-g00643c-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/g44b11g5ba3g4b8g4w1~b000048-ba2888c4-g00643c-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBGBGW
 
 | Tartans |
 |---------------|
-| [Hastings-Stephenson (Personal)](/setts/s8/g88b22g10ba6g8b16g8w2-b000048-ba2888c4-g00643c-wf8f8f8/)|
-|![Hastings-Stephenson (Personal) example sett](/setts/s8/g88b22g10ba6g8b16g8w2-b000048-ba2888c4-g00643c-wf8f8f8/sett.png)|
+| [Hastings-Stephenson (Personal)](/setts/s8/g44b11g5ba3g4b8g4w1~b000048-ba2888c4-g00643c-wf8f8f8~x2/)|
+|![Hastings-Stephenson (Personal) example sett](/setts/s8/g44b11g5ba3g4b8g4w1~b000048-ba2888c4-g00643c-wf8f8f8~x2/sett.png)|

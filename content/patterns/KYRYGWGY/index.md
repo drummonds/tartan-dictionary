@@ -6,7 +6,7 @@ KYRYGWGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k40y8r8y40g40w10g4ya4-g346428-k101010-rff0000-wffffff-ycfb47f-ya86ac5f/tartan.png)
+![Woven sample](/setts/s8/k20y4r4y20g20w5g2ya2~g346428-k101010-rff0000-wffffff-ycfb47f-ya86ac5f~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYRYGWGY
 
 | Tartans |
 |---------------|
-| [Hackett William (Coatbridge) Hunting (Personal)](/setts/s8/k40y8r8y40g40w10g4ya4-g346428-k101010-rff0000-wffffff-ycfb47f-ya86ac5f/)|
-|![Hackett William (Coatbridge) Hunting (Personal) example sett](/setts/s8/k40y8r8y40g40w10g4ya4-g346428-k101010-rff0000-wffffff-ycfb47f-ya86ac5f/sett.png)|
+| [Hackett William (Coatbridge) Hunting (Personal)](/setts/s8/k20y4r4y20g20w5g2ya2~g346428-k101010-rff0000-wffffff-ycfb47f-ya86ac5f~x2/)|
+|![Hackett William (Coatbridge) Hunting (Personal) example sett](/setts/s8/k20y4r4y20g20w5g2ya2~g346428-k101010-rff0000-wffffff-ycfb47f-ya86ac5f~x2/sett.png)|

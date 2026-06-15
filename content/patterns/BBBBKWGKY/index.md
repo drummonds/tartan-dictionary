@@ -16,5 +16,5 @@ BBBBKWGKY
 
 | Tartans |
 |---------------|
-| [Leung (Personal)](/setts/s9/b8ba14b4ba50k38w4g46k4y6-b5a008c-ba080848-g003c14-k101010-we0e0e0-yc89600/)|
-|![Leung (Personal) example sett](/setts/s9/b8ba14b4ba50k38w4g46k4y6-b5a008c-ba080848-g003c14-k101010-we0e0e0-yc89600/sett.png)|
+| [Leung (Personal)](/setts/s9/b4ba7b2ba25k19w2g23k2y3~b5a008c-ba080848-g003c14-k101010-we0e0e0-yc89600~x2/)|
+|![Leung (Personal) example sett](/setts/s9/b4ba7b2ba25k19w2g23k2y3~b5a008c-ba080848-g003c14-k101010-we0e0e0-yc89600~x2/sett.png)|

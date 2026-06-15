@@ -16,5 +16,5 @@ BRBRWYRBWKWK
 
 | Tartans |
 |---------------|
-| [Allandale Blue Dress Tartan Tartan Number: 8453. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b6r4b2r18w4y6r10b34w80k2w4k6-b2888c4-k101010-rb80478-we0e0e0-ye8c000/)|
-|![Allandale Blue Dress Tartan Tartan Number: 8453. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b6r4b2r18w4y6r10b34w80k2w4k6-b2888c4-k101010-rb80478-we0e0e0-ye8c000/sett.png)|
+| [Allandale Blue Dress Tartan Tartan Number: 8453. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b3r2b1r9w2y3r5b17w40k1w2k3~b2888c4-k101010-rb80478-we0e0e0-ye8c000~x2/)|
+|![Allandale Blue Dress Tartan Tartan Number: 8453. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b3r2b1r9w2y3r5b17w40k1w2k3~b2888c4-k101010-rb80478-we0e0e0-ye8c000~x2/sett.png)|

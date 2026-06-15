@@ -6,7 +6,7 @@ RWGWGWKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8w38g4w16g4w16k76w8-g003820-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r4w19g2w8g2w8k38w4~g003820-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RWGWGWKW
 
 | Tartans |
 |---------------|
-| [St. Piran Dress](/setts/s8/r8w38g4w16g4w16k76w8-g003820-k101010-rc80000-we0e0e0/)|
-|![St. Piran Dress example sett](/setts/s8/r8w38g4w16g4w16k76w8-g003820-k101010-rc80000-we0e0e0/sett.png)|
-| [St Piran, Cornish dress](/setts/s8/r8w38g4w16g4w16k76w8-g003000-k000000-rc00000-we0e0e0/)|
-|![St Piran, Cornish dress example sett](/setts/s8/r8w38g4w16g4w16k76w8-g003000-k000000-rc00000-we0e0e0/sett.png)|
+| [St. Piran Dress](/setts/s8/r4w19g2w8g2w8k38w4~g003820-k101010-rc80000-we0e0e0~x2/)|
+|![St. Piran Dress example sett](/setts/s8/r4w19g2w8g2w8k38w4~g003820-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [St Piran, Cornish dress](/setts/s8/r4w19g2w8g2w8k38w4~g003000-k000000-rc00000-we0e0e0~x2/)|
+|![St Piran, Cornish dress example sett](/setts/s8/r4w19g2w8g2w8k38w4~g003000-k000000-rc00000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ BBKBRGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16ba24k8ba24r24g32ra8-b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000/tartan.png)
+![Woven sample](/setts/s7/b2ba3k1ba3r3g4ra1~b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKBRGR
 
 | Tartans |
 |---------------|
-| [New York City](/setts/s7/b16ba24k8ba24r24g32ra8-b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000/)|
-|![New York City example sett](/setts/s7/b16ba24k8ba24r24g32ra8-b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000/sett.png)|
+| [New York City](/setts/s7/b2ba3k1ba3r3g4ra1~b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000~x8/)|
+|![New York City example sett](/setts/s7/b2ba3k1ba3r3g4ra1~b1474b4-ba2c2c80-g006818-k101010-r888888-raa00000~x8/sett.png)|

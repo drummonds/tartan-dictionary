@@ -16,5 +16,5 @@ WBRBBYWYBY
 
 | Tartans |
 |---------------|
-| [Gray, Sir John Hamilton (Commem)](/setts/s10/w8b12r6b20ba28y12w36y12ba8y4-b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00/)|
-|![Gray, Sir John Hamilton (Commem) example sett](/setts/s10/w8b12r6b20ba28y12w36y12ba8y4-b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00/sett.png)|
+| [Gray, Sir John Hamilton (Commem)](/setts/s10/w4b6r3b10ba14y6w18y6ba4y2~b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00~x2/)|
+|![Gray, Sir John Hamilton (Commem) example sett](/setts/s10/w4b6r3b10ba14y6w18y6ba4y2~b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00~x2/sett.png)|

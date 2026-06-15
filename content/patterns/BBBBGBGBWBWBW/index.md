@@ -16,5 +16,5 @@ BBBBGBGBWBWBW
 
 | Tartans |
 |---------------|
-| [Black Watch Dress, Brown/Grey (Fash)](/setts/s13/b4ba4b12ba12g16ba4g16ba12w4b4w24b4w4-b5c5c5c-ba1c1c1c-g8c7038-we8ccb8/)|
-|![Black Watch Dress, Brown/Grey (Fash) example sett](/setts/s13/b4ba4b12ba12g16ba4g16ba12w4b4w24b4w4-b5c5c5c-ba1c1c1c-g8c7038-we8ccb8/sett.png)|
+| [Black Watch Dress, Brown/Grey (Fash)](/setts/s13/b1ba1b3ba3g4ba1g4ba3w1b1w6b1w1~b5c5c5c-ba1c1c1c-g8c7038-we8ccb8~x4/)|
+|![Black Watch Dress, Brown/Grey (Fash) example sett](/setts/s13/b1ba1b3ba3g4ba1g4ba3w1b1w6b1w1~b5c5c5c-ba1c1c1c-g8c7038-we8ccb8~x4/sett.png)|

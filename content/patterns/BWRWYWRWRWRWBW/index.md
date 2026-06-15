@@ -16,5 +16,5 @@ BWRWYWRWRWRWBW
 
 | Tartans |
 |---------------|
-| [Confederate Rose](/setts/s14/b48w8r20w8y8w56ra12w8ra12w56r36w2ba8w6-b780078-ba2c2c80-rc04094-ra888888-wfcfcfc-ye8c000/)|
-|![Confederate Rose example sett](/setts/s14/b48w8r20w8y8w56ra12w8ra12w56r36w2ba8w6-b780078-ba2c2c80-rc04094-ra888888-wfcfcfc-ye8c000/sett.png)|
+| [Confederate Rose](/setts/s14/b24w4r10w4y4w28ra6w4ra6w28r18w1ba4w3~b780078-ba2c2c80-rc04094-ra888888-wfcfcfc-ye8c000~x2/)|
+|![Confederate Rose example sett](/setts/s14/b24w4r10w4y4w28ra6w4ra6w28r18w1ba4w3~b780078-ba2c2c80-rc04094-ra888888-wfcfcfc-ye8c000~x2/sett.png)|

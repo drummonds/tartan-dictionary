@@ -16,5 +16,5 @@ KYKYKYKYR
 
 | Tartans |
 |---------------|
-| [MacKnight (Name)](/setts/s9/k24y2k4y12k8y6k8y42r8-k101010-rc80000-ya0a0a0/)|
-|![MacKnight (Name) example sett](/setts/s9/k24y2k4y12k8y6k8y42r8-k101010-rc80000-ya0a0a0/sett.png)|
+| [MacKnight (Name)](/setts/s9/k12y1k2y6k4y3k4y21r4~k101010-rc80000-ya0a0a0~x2/)|
+|![MacKnight (Name) example sett](/setts/s9/k12y1k2y6k4y3k4y21r4~k101010-rc80000-ya0a0a0~x2/sett.png)|

@@ -16,5 +16,5 @@ KYKYKBWBRWGY
 
 | Tartans |
 |---------------|
-| [Clan An Caigeann (Corporate)](/setts/s12/k88y6k8y6k8b8w4b8r4w4g8y4-b2c2c80-g003820-k101010-r880000-we0e0e0-ye8c000/)|
-|![Clan An Caigeann (Corporate) example sett](/setts/s12/k88y6k8y6k8b8w4b8r4w4g8y4-b2c2c80-g003820-k101010-r880000-we0e0e0-ye8c000/sett.png)|
+| [Clan An Caigeann (Corporate)](/setts/s12/k44y3k4y3k4b4w2b4r2w2g4y2~b2c2c80-g003820-k101010-r880000-we0e0e0-ye8c000~x2/)|
+|![Clan An Caigeann (Corporate) example sett](/setts/s12/k44y3k4y3k4b4w2b4r2w2g4y2~b2c2c80-g003820-k101010-r880000-we0e0e0-ye8c000~x2/sett.png)|

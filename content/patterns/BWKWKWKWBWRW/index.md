@@ -16,5 +16,5 @@ BWKWKWKWBWRW
 
 | Tartans |
 |---------------|
-| [Humanitarian Mission (Dress)](/setts/s12/b6w48k6w2k4w4k2w6b14w4r48w6-b666666-k101010-rff0000-wffffff/)|
-|![Humanitarian Mission (Dress) example sett](/setts/s12/b6w48k6w2k4w4k2w6b14w4r48w6-b666666-k101010-rff0000-wffffff/sett.png)|
+| [Humanitarian Mission (Dress)](/setts/s12/b3w24k3w1k2w2k1w3b7w2r24w3~b666666-k101010-rff0000-wffffff~x2/)|
+|![Humanitarian Mission (Dress) example sett](/setts/s12/b3w24k3w1k2w2k1w3b7w2r24w3~b666666-k101010-rff0000-wffffff~x2/sett.png)|

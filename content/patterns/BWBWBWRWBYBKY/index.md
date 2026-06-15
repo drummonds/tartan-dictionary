@@ -16,5 +16,5 @@ BWBWBWRWBYBKY
 
 | Tartans |
 |---------------|
-| [Jouy (Personal)](/setts/s13/b10w10b10w10b30w2r4w2b42y4b10k4y8-b3850c8-k101010-rb84c00-we8ccb8-yfccc00/)|
-|![Jouy (Personal) example sett](/setts/s13/b10w10b10w10b30w2r4w2b42y4b10k4y8-b3850c8-k101010-rb84c00-we8ccb8-yfccc00/sett.png)|
+| [Jouy (Personal)](/setts/s13/b5w5b5w5b15w1r2w1b21y2b5k2y4~b3850c8-k101010-rb84c00-we8ccb8-yfccc00~x2/)|
+|![Jouy (Personal) example sett](/setts/s13/b5w5b5w5b15w1r2w1b21y2b5k2y4~b3850c8-k101010-rb84c00-we8ccb8-yfccc00~x2/sett.png)|

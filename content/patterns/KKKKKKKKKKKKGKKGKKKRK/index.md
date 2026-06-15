@@ -16,5 +16,5 @@ KKKKKKKKKKKKGKKGKKKRK
 
 | Tartans |
 |---------------|
-| [Unidentified (Jones #1)](/setts/s21/k160ka2k10ka4k8ka8k4ka10k2ka92k6ka8g2k2ka8g2k2ka8k12r4k28-g007c00-k000000-ka001c00-r8c0000/)|
-|![Unidentified (Jones #1) example sett](/setts/s21/k160ka2k10ka4k8ka8k4ka10k2ka92k6ka8g2k2ka8g2k2ka8k12r4k28-g007c00-k000000-ka001c00-r8c0000/sett.png)|
+| [Unidentified (Jones #1)](/setts/s21/k80ka1k5ka2k4ka4k2ka5k1ka46k3ka4g1k1ka4g1k1ka4k6r2k14~g007c00-k000000-ka001c00-r8c0000~x2/)|
+|![Unidentified (Jones #1) example sett](/setts/s21/k80ka1k5ka2k4ka4k2ka5k1ka46k3ka4g1k1ka4g1k1ka4k6r2k14~g007c00-k000000-ka001c00-r8c0000~x2/sett.png)|

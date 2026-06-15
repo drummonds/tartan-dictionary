@@ -16,5 +16,5 @@ KBWKRGRBKRBRK
 
 | Tartans |
 |---------------|
-| [Oban (District?)](/setts/s13/k8r4b36r8k28b8r24g24r8k48w4ba4k4-b1c0070-ba5c5c5c-g006818-k101010-r880000-wc0c0c0/)|
-|![Oban (District?) example sett](/setts/s13/k8r4b36r8k28b8r24g24r8k48w4ba4k4-b1c0070-ba5c5c5c-g006818-k101010-r880000-wc0c0c0/sett.png)|
+| [Oban (District?)](/setts/s13/k2r1b9r2k7b2r6g6r2k12w1ba1k1~b1c0070-ba5c5c5c-g006818-k101010-r880000-wc0c0c0~x4/)|
+|![Oban (District?) example sett](/setts/s13/k2r1b9r2k7b2r6g6r2k12w1ba1k1~b1c0070-ba5c5c5c-g006818-k101010-r880000-wc0c0c0~x4/sett.png)|

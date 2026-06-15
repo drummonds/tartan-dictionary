@@ -16,5 +16,5 @@ RRGBWBGRRGRRGRYGYR
 
 | Tartans |
 |---------------|
-| [Belk Festive (Fashion)](/setts/s18/r32ra2g8b4w2b4g8ra2r2g82ra2r72ga4ra6y2ga6y2ra8-b2474e8-g003820-ga006818-r880000-rac80000-wfcfcfc-yd8b000/)|
-|![Belk Festive (Fashion) example sett](/setts/s18/r32ra2g8b4w2b4g8ra2r2g82ra2r72ga4ra6y2ga6y2ra8-b2474e8-g003820-ga006818-r880000-rac80000-wfcfcfc-yd8b000/sett.png)|
+| [Belk Festive (Fashion)](/setts/s18/r16ra1g4b2w1b2g4ra1r1g41ra1r36ga2ra3y1ga3y1ra4~b2474e8-g003820-ga006818-r880000-rac80000-wfcfcfc-yd8b000~x2/)|
+|![Belk Festive (Fashion) example sett](/setts/s18/r16ra1g4b2w1b2g4ra1r1g41ra1r36ga2ra3y1ga3y1ra4~b2474e8-g003820-ga006818-r880000-rac80000-wfcfcfc-yd8b000~x2/sett.png)|

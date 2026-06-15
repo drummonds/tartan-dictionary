@@ -16,5 +16,5 @@ YGRGKBKGRGY
 
 | Tartans |
 |---------------|
-| [Loch Tay](/setts/s11/y6g6r4g32k4b48k4g32r4g6ya6-b000080-g004f00-k101010-re32636-yb8b8b8-yafcd116/)|
-|![Loch Tay example sett](/setts/s11/y6g6r4g32k4b48k4g32r4g6ya6-b000080-g004f00-k101010-re32636-yb8b8b8-yafcd116/sett.png)|
+| [Loch Tay](/setts/s11/y3g3r2g16k2b24k2g16r2g3ya3~b000080-g004f00-k101010-re32636-yb8b8b8-yafcd116~x2/)|
+|![Loch Tay example sett](/setts/s11/y3g3r2g16k2b24k2g16r2g3ya3~b000080-g004f00-k101010-re32636-yb8b8b8-yafcd116~x2/sett.png)|

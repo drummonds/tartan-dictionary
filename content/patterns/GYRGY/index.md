@@ -6,7 +6,7 @@ GYRGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g8y40r60g40y8-g503c14-rdc0000-ye8c000/tartan.png)
+![Woven sample](/setts/s5/g2y10r15g10y2~g503c14-rdc0000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYRGY
 
 | Tartans |
 |---------------|
-| [Harmony 9](/setts/s5/g8y40r60g40y8-g503c14-rdc0000-ye8c000/)|
-|![Harmony 9 example sett](/setts/s5/g8y40r60g40y8-g503c14-rdc0000-ye8c000/sett.png)|
+| [Harmony 9](/setts/s5/g2y10r15g10y2~g503c14-rdc0000-ye8c000~x4/)|
+|![Harmony 9 example sett](/setts/s5/g2y10r15g10y2~g503c14-rdc0000-ye8c000~x4/sett.png)|

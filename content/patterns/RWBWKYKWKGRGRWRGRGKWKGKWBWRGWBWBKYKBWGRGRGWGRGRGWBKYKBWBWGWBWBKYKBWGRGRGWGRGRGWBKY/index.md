@@ -16,5 +16,5 @@ RWBWKYKWKGRGRWRGRGKWKGKWBWRGWBWBKYKBWGRGRGWGRGRGWBKYKBWBWGWBWBKYKBWGRGRGWGRGRGWB
 
 | Tartans |
 |---------------|
-| [Victoria Highland Dress #2](/setts/s82/r10w46b10w10k14y6k6w4k6g32r16g6r12w6r12g6r16g32k6w4k6g6k14w10b10w46r8g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6g2r10g6r12g30w8b2k4y6k10b2w8b8w38g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6g2r10g6r12g30w8b2k4y6-b1-h28da1fd68c4de9af/)|
-|![Victoria Highland Dress #2 example sett](/setts/s82/r10w46b10w10k14y6k6w4k6g32r16g6r12w6r12g6r16g32k6w4k6g6k14w10b10w46r8g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6g2r10g6r12g30w8b2k4y6k10b2w8b8w38g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6g2r10g6r12g30w8b2k4y6-b1-h28da1fd68c4de9af/sett.png)|
+| [Victoria Highland Dress #2](/setts/s82/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3~b1c0070-g006818-k101010--h595845cc47cdf0f7/)|
+|![Victoria Highland Dress #2 example sett](/setts/s82/r5w23b5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5b5w23r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3k5b1w4b4w19g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3g1r5g3r6g15w4b1k2y3~b1c0070-g006818-k101010--h595845cc47cdf0f7/sett.png)|

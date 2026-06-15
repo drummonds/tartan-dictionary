@@ -6,7 +6,7 @@ RKBWKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4k40b8w20k20r4-b5c5c5c-k101010-r880000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s6/r1k10b2w5k5r1~b5c5c5c-k101010-r880000-wc0c0c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKBWKR
 
 | Tartans |
 |---------------|
-| [Callaway (Corporate)](/setts/s6/r4k40b8w20k20r4-b5c5c5c-k101010-r880000-wc0c0c0/)|
-|![Callaway (Corporate) example sett](/setts/s6/r4k40b8w20k20r4-b5c5c5c-k101010-r880000-wc0c0c0/sett.png)|
+| [Callaway (Corporate)](/setts/s6/r1k10b2w5k5r1~b5c5c5c-k101010-r880000-wc0c0c0~x4/)|
+|![Callaway (Corporate) example sett](/setts/s6/r1k10b2w5k5r1~b5c5c5c-k101010-r880000-wc0c0c0~x4/sett.png)|

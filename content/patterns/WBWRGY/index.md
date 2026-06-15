@@ -6,7 +6,7 @@ WBWRGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w72b24w2r24g32y4-b00008b-g008000-r800000-wffffff-yffff00/tartan.png)
+![Woven sample](/setts/s6/w36b12w1r12g16y2~b00008b-g008000-r800000-wffffff-yffff00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBWRGY
 
 | Tartans |
 |---------------|
-| [MacNappy Tartan](/setts/s6/w72b24w2r24g32y4-b00008b-g008000-r800000-wffffff-yffff00/)|
-|![MacNappy Tartan example sett](/setts/s6/w72b24w2r24g32y4-b00008b-g008000-r800000-wffffff-yffff00/sett.png)|
+| [MacNappy Tartan](/setts/s6/w36b12w1r12g16y2~b00008b-g008000-r800000-wffffff-yffff00~x2/)|
+|![MacNappy Tartan example sett](/setts/s6/w36b12w1r12g16y2~b00008b-g008000-r800000-wffffff-yffff00~x2/sett.png)|

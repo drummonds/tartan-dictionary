@@ -6,7 +6,7 @@ BKRKYKB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b12k48r12k12y12k48b12-b1c0070-k101010-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s7/b1k4r1k1y1k4b1~b1c0070-k101010-r880000-yd09800~x12/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKRKYKB
 
 | Tartans |
 |---------------|
-| [Justus (Personal)](/setts/s7/b12k48r12k12y12k48b12-b1c0070-k101010-r880000-yd09800/)|
-|![Justus (Personal) example sett](/setts/s7/b12k48r12k12y12k48b12-b1c0070-k101010-r880000-yd09800/sett.png)|
-| [Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b6k24r6k6y6k24b6-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b6k24r6k6y6k24b6-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Justus (Personal)](/setts/s7/b1k4r1k1y1k4b1~b1c0070-k101010-r880000-yd09800~x12/)|
+|![Justus (Personal) example sett](/setts/s7/b1k4r1k1y1k4b1~b1c0070-k101010-r880000-yd09800~x12/sett.png)|
+| [Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b1k4r1k1y1k4b1~b2c2c80-k101010-rc80000-ye8c000~x6/)|
+|![Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b1k4r1k1y1k4b1~b2c2c80-k101010-rc80000-ye8c000~x6/sett.png)|

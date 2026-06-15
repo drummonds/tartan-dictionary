@@ -6,7 +6,7 @@ KBGKR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k8b5g44k40r6-b3070fc-g007800-k000000-rc40000/tartan.png)
+![Woven sample](/setts/s5/k8b5g44k40r6~b3070fc-g007800-k000000-rc40000/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBGKR
 
 | Tartans |
 |---------------|
-| [Douglas, Black](/setts/s5/k8b5g44k40r6-b3070fc-g007800-k000000-rc40000/)|
-|![Douglas, Black example sett](/setts/s5/k8b5g44k40r6-b3070fc-g007800-k000000-rc40000/sett.png)|
-| [Douglas, (Black)](/setts/s5/k24b6g46k46r6-b304080-g008000-k000000-rc00000/)|
-|![Douglas, (Black) example sett](/setts/s5/k24b6g46k46r6-b304080-g008000-k000000-rc00000/sett.png)|
+| [Douglas, Black](/setts/s5/k8b5g44k40r6~b3070fc-g007800-k000000-rc40000/)|
+|![Douglas, Black example sett](/setts/s5/k8b5g44k40r6~b3070fc-g007800-k000000-rc40000/sett.png)|
+| [Douglas, (Black)](/setts/s5/k12b3g23k23r3~b304080-g008000-k000000-rc00000~x2/)|
+|![Douglas, (Black) example sett](/setts/s5/k12b3g23k23r3~b304080-g008000-k000000-rc00000~x2/sett.png)|

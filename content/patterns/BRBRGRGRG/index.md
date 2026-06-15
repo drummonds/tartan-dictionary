@@ -16,13 +16,13 @@ BRBRGRGRG
 
 | Tartans |
 |---------------|
-| [Lumsden Boghead](/setts/s9/b14r70b56r14g14r14g56r70g14-b14283c-g285800-rc80000/)|
-|![Lumsden Boghead example sett](/setts/s9/b14r70b56r14g14r14g56r70g14-b14283c-g285800-rc80000/sett.png)|
-| [Unidentified Portrait](/setts/s9/g20r2g2r2g2r8b24r2b4-b000050-g007800-r8c0000/)|
-|![Unidentified Portrait example sett](/setts/s9/g20r2g2r2g2r8b24r2b4-b000050-g007800-r8c0000/sett.png)|
-| [Lumsden of Kintore (Clan?)](/setts/s9/b12r60b48r12g12r12g48r60g12-b14283c-g006818-rc80000/)|
-|![Lumsden of Kintore (Clan?) example sett](/setts/s9/b12r60b48r12g12r12g48r60g12-b14283c-g006818-rc80000/sett.png)|
-| [Lumsden 1797](/setts/s9/b20r100b80r20g20r20g80r100g20-b304080-g008000-rc00000/)|
-|![Lumsden 1797 example sett](/setts/s9/b20r100b80r20g20r20g80r100g20-b304080-g008000-rc00000/sett.png)|
-| [Lumsden of Kintore Tartan Tartan Number: 418. Earliest known date: 1797 Made at Boghead of Kintore. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b20r100b80r20g20r20g80r100g20-b2c2c80-g006818-rc80000/)|
-|![Lumsden of Kintore Tartan Tartan Number: 418. Earliest known date: 1797 Made at Boghead of Kintore. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/b20r100b80r20g20r20g80r100g20-b2c2c80-g006818-rc80000/sett.png)|
+| [Lumsden Boghead](/setts/s9/b1r5b4r1g1r1g4r5g1~b14283c-g285800-rc80000~x14/)|
+|![Lumsden Boghead example sett](/setts/s9/b1r5b4r1g1r1g4r5g1~b14283c-g285800-rc80000~x14/sett.png)|
+| [Unidentified Portrait](/setts/s9/g10r1g1r1g1r4b12r1b2~b000050-g007800-r8c0000~x2/)|
+|![Unidentified Portrait example sett](/setts/s9/g10r1g1r1g1r4b12r1b2~b000050-g007800-r8c0000~x2/sett.png)|
+| [Lumsden of Kintore (Clan?)](/setts/s9/b1r5b4r1g1r1g4r5g1~b14283c-g006818-rc80000~x12/)|
+|![Lumsden of Kintore (Clan?) example sett](/setts/s9/b1r5b4r1g1r1g4r5g1~b14283c-g006818-rc80000~x12/sett.png)|
+| [Lumsden 1797](/setts/s9/b1r5b4r1g1r1g4r5g1~b304080-g008000-rc00000~x20/)|
+|![Lumsden 1797 example sett](/setts/s9/b1r5b4r1g1r1g4r5g1~b304080-g008000-rc00000~x20/sett.png)|
+| [Lumsden of Kintore Tartan Tartan Number: 418. Earliest known date: 1797 Made at Boghead of Kintore. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/b1r5b4r1g1r1g4r5g1~b2c2c80-g006818-rc80000~x20/)|
+|![Lumsden of Kintore Tartan Tartan Number: 418. Earliest known date: 1797 Made at Boghead of Kintore. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/b1r5b4r1g1r1g4r5g1~b2c2c80-g006818-rc80000~x20/sett.png)|

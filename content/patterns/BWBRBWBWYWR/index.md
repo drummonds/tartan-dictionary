@@ -16,5 +16,5 @@ BWBRBWBWYWR
 
 | Tartans |
 |---------------|
-| [Fort William (Fashion)](/setts/s11/r20w4y6w4b48w8b8r68b4w6b4-b381c0c-rb07430-w94acfc-y38c438/)|
-|![Fort William (Fashion) example sett](/setts/s11/r20w4y6w4b48w8b8r68b4w6b4-b381c0c-rb07430-w94acfc-y38c438/sett.png)|
+| [Fort William (Fashion)](/setts/s11/r10w2y3w2b24w4b4r34b2w3b2~b381c0c-rb07430-w94acfc-y38c438~x2/)|
+|![Fort William (Fashion) example sett](/setts/s11/r10w2y3w2b24w4b4r34b2w3b2~b381c0c-rb07430-w94acfc-y38c438~x2/sett.png)|

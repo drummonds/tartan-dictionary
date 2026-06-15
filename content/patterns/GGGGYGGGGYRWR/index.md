@@ -16,5 +16,5 @@ GGGGYGGGGYRWR
 
 | Tartans |
 |---------------|
-| [Pino Family (Pennsylvania) (Personal)](/setts/s13/g50ga14g50ga14y10g50ga14g50ga14y10r4w4r4-g006400-ga008b00-re3170d-wffffff-y86c67c/)|
-|![Pino Family (Pennsylvania) (Personal) example sett](/setts/s13/g50ga14g50ga14y10g50ga14g50ga14y10r4w4r4-g006400-ga008b00-re3170d-wffffff-y86c67c/sett.png)|
+| [Pino Family (Pennsylvania) (Personal)](/setts/s13/g25ga7g25ga7y5g25ga7g25ga7y5r2w2r2~g006400-ga008b00-re3170d-wffffff-y86c67c~x2/)|
+|![Pino Family (Pennsylvania) (Personal) example sett](/setts/s13/g25ga7g25ga7y5g25ga7g25ga7y5r2w2r2~g006400-ga008b00-re3170d-wffffff-y86c67c~x2/sett.png)|

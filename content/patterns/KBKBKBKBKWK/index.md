@@ -16,5 +16,5 @@ KBKBKBKBKWK
 
 | Tartans |
 |---------------|
-| [Stewart Mourning (Clan)](/setts/s11/k80b6k10b4k4b4k4b12k8w4k8-b5c5c5c-k101010-wfcfcfc/)|
-|![Stewart Mourning (Clan) example sett](/setts/s11/k80b6k10b4k4b4k4b12k8w4k8-b5c5c5c-k101010-wfcfcfc/sett.png)|
+| [Stewart Mourning (Clan)](/setts/s11/k40b3k5b2k2b2k2b6k4w2k4~b5c5c5c-k101010-wfcfcfc~x2/)|
+|![Stewart Mourning (Clan) example sett](/setts/s11/k40b3k5b2k2b2k2b6k4w2k4~b5c5c5c-k101010-wfcfcfc~x2/sett.png)|

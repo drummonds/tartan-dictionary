@@ -16,5 +16,5 @@ GBBBWBYWBWG
 
 | Tartans |
 |---------------|
-| [Scottish Bear (Mathan Albannach)](/setts/s11/g22w6b10w4y2b8w2b4ba22b6ga4-b000048-ba2c4084-g603800-ga006818-wffffff-yffff00/)|
-|![Scottish Bear (Mathan Albannach) example sett](/setts/s11/g22w6b10w4y2b8w2b4ba22b6ga4-b000048-ba2c4084-g603800-ga006818-wffffff-yffff00/sett.png)|
+| [Scottish Bear (Mathan Albannach)](/setts/s11/g11w3b5w2y1b4w1b2ba11b3ga2~b000048-ba2c4084-g603800-ga006818-wffffff-yffff00~x2/)|
+|![Scottish Bear (Mathan Albannach) example sett](/setts/s11/g11w3b5w2y1b4w1b2ba11b3ga2~b000048-ba2c4084-g603800-ga006818-wffffff-yffff00~x2/sett.png)|

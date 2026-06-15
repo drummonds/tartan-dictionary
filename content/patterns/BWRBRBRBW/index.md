@@ -16,5 +16,5 @@ BWRBRBRBW
 
 | Tartans |
 |---------------|
-| [Canna, Saphire (Dance)](/setts/s9/b8w60r8b6r2b2r2b44w4-b1474b4-rc80000-wf0e0c8/)|
-|![Canna, Saphire (Dance) example sett](/setts/s9/b8w60r8b6r2b2r2b44w4-b1474b4-rc80000-wf0e0c8/sett.png)|
+| [Canna, Saphire (Dance)](/setts/s9/b4w30r4b3r1b1r1b22w2~b1474b4-rc80000-wf0e0c8~x2/)|
+|![Canna, Saphire (Dance) example sett](/setts/s9/b4w30r4b3r1b1r1b22w2~b1474b4-rc80000-wf0e0c8~x2/sett.png)|

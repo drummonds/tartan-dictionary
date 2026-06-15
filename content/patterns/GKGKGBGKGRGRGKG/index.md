@@ -16,5 +16,5 @@ GKGKGBGKGRGRGKG
 
 | Tartans |
 |---------------|
-| [Hickey (Name)](/setts/s15/g12k4g4r48g4r4g4k16g4b8g60k4g4k4g12-b5c8ca8-g006818-k101010-rc80000/)|
-|![Hickey (Name) example sett](/setts/s15/g12k4g4r48g4r4g4k16g4b8g60k4g4k4g12-b5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Hickey (Name)](/setts/s15/g3k1g1r12g1r1g1k4g1b2g15k1g1k1g3~b5c8ca8-g006818-k101010-rc80000~x4/)|
+|![Hickey (Name) example sett](/setts/s15/g3k1g1r12g1r1g1k4g1b2g15k1g1k1g3~b5c8ca8-g006818-k101010-rc80000~x4/sett.png)|

@@ -16,5 +16,5 @@ RYRYKGKBKGKY
 
 | Tartans |
 |---------------|
-| [Trinity Presbyterian Church (Corpora](/setts/s12/r6y6r6y24k12g6k8b32k8g6k12y6-b2c2c80-g5c6428-k101010-rc80000-y8098ac/)|
-|![Trinity Presbyterian Church (Corpora example sett](/setts/s12/r6y6r6y24k12g6k8b32k8g6k12y6-b2c2c80-g5c6428-k101010-rc80000-y8098ac/sett.png)|
+| [Trinity Presbyterian Church (Corpora](/setts/s12/r3y3r3y12k6g3k4b16k4g3k6y3~b2c2c80-g5c6428-k101010-rc80000-y8098ac~x2/)|
+|![Trinity Presbyterian Church (Corpora example sett](/setts/s12/r3y3r3y12k6g3k4b16k4g3k6y3~b2c2c80-g5c6428-k101010-rc80000-y8098ac~x2/sett.png)|

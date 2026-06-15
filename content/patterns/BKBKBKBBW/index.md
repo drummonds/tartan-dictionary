@@ -16,5 +16,5 @@ BKBKBKBBW
 
 | Tartans |
 |---------------|
-| [de Franck, Matt (Personal)](/setts/s9/b24k4b4k4b4k24ba24bb6w2-b45626a-ba140e96-bb1c56de-k101010-wffffff/)|
-|![de Franck, Matt (Personal) example sett](/setts/s9/b24k4b4k4b4k24ba24bb6w2-b45626a-ba140e96-bb1c56de-k101010-wffffff/sett.png)|
+| [de Franck, Matt (Personal)](/setts/s9/b12k2b2k2b2k12ba12bb3w1~b45626a-ba140e96-bb1c56de-k101010-wffffff~x2/)|
+|![de Franck, Matt (Personal) example sett](/setts/s9/b12k2b2k2b2k12ba12bb3w1~b45626a-ba140e96-bb1c56de-k101010-wffffff~x2/sett.png)|

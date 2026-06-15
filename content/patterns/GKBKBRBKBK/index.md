@@ -16,5 +16,5 @@ GKBKBRBKBK
 
 | Tartans |
 |---------------|
-| [Shaw](/setts/s10/g48k4b6k4b16r4b16k4b6k4-b2c2c80-g006818-k101010-rc80000/)|
-|![Shaw example sett](/setts/s10/g48k4b6k4b16r4b16k4b6k4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Shaw](/setts/s10/g24k2b3k2b8r2b8k2b3k2~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Shaw example sett](/setts/s10/g24k2b3k2b8r2b8k2b3k2~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

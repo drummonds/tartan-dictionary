@@ -6,7 +6,7 @@ GGRYW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g110ga30r40y20w20-g003820-ga206058-r880000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s5/g11ga3r4y2w2~g003820-ga206058-r880000-we0e0e0-ye8c000~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGRYW
 
 | Tartans |
 |---------------|
-| [Phinn (Personal)](/setts/s5/g110ga30r40y20w20-g003820-ga206058-r880000-we0e0e0-ye8c000/)|
-|![Phinn (Personal) example sett](/setts/s5/g110ga30r40y20w20-g003820-ga206058-r880000-we0e0e0-ye8c000/sett.png)|
+| [Phinn (Personal)](/setts/s5/g11ga3r4y2w2~g003820-ga206058-r880000-we0e0e0-ye8c000~x10/)|
+|![Phinn (Personal) example sett](/setts/s5/g11ga3r4y2w2~g003820-ga206058-r880000-we0e0e0-ye8c000~x10/sett.png)|

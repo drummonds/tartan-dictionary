@@ -16,5 +16,5 @@ RBRBRBRBRGRW
 
 | Tartans |
 |---------------|
-| [Ryutokukan High School (Corporate)](/setts/s12/r6b40ra2b8ra4b4ra8b4ra10g4rb40w6-b5c5c5c-g289c18-r888888-rac80000-rb880000-wfcfcfc/)|
-|![Ryutokukan High School (Corporate) example sett](/setts/s12/r6b40ra2b8ra4b4ra8b4ra10g4rb40w6-b5c5c5c-g289c18-r888888-rac80000-rb880000-wfcfcfc/sett.png)|
+| [Ryutokukan High School (Corporate)](/setts/s12/r3b20ra1b4ra2b2ra4b2ra5g2rb20w3~b5c5c5c-g289c18-r888888-rac80000-rb880000-wfcfcfc~x2/)|
+|![Ryutokukan High School (Corporate) example sett](/setts/s12/r3b20ra1b4ra2b2ra4b2ra5g2rb20w3~b5c5c5c-g289c18-r888888-rac80000-rb880000-wfcfcfc~x2/sett.png)|

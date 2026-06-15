@@ -16,5 +16,5 @@ BRYRRYRBRGRGRGRGR
 
 | Tartans |
 |---------------|
-| [Confrerie de Vouvray](/setts/s17/b16r8y36r8ra38y8ra38b12ra8g2ra8g2ra8g2ra8g2ra8-b003c64-g289c18-rc80000-ra880000-ye8c000/)|
-|![Confrerie de Vouvray example sett](/setts/s17/b16r8y36r8ra38y8ra38b12ra8g2ra8g2ra8g2ra8g2ra8-b003c64-g289c18-rc80000-ra880000-ye8c000/sett.png)|
+| [Confrerie de Vouvray](/setts/s17/b8r4y18r4ra19y4ra19b6ra4g1ra4g1ra4g1ra4g1ra4~b003c64-g289c18-rc80000-ra880000-ye8c000~x2/)|
+|![Confrerie de Vouvray example sett](/setts/s17/b8r4y18r4ra19y4ra19b6ra4g1ra4g1ra4g1ra4g1ra4~b003c64-g289c18-rc80000-ra880000-ye8c000~x2/sett.png)|

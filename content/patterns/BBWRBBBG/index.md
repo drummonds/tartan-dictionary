@@ -6,7 +6,7 @@ BBWRBBBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6ba6w4r16ba6b22bb14g6-b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b3ba3w2r8ba3b11bb7g3~b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWRBBBG
 
 | Tartans |
 |---------------|
-| [Scotia](/setts/s8/b6ba6w4r16ba6b22bb14g6-b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0/)|
-|![Scotia example sett](/setts/s8/b6ba6w4r16ba6b22bb14g6-b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0/sett.png)|
+| [Scotia](/setts/s8/b3ba3w2r8ba3b11bb7g3~b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0~x2/)|
+|![Scotia example sett](/setts/s8/b3ba3w2r8ba3b11bb7g3~b8080d0-ba000050-bb800080-g008000-r806050-we0e0e0~x2/sett.png)|

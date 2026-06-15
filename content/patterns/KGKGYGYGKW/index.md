@@ -16,5 +16,5 @@ KGKGYGYGKW
 
 | Tartans |
 |---------------|
-| [University of Alberta (Corporate)](/setts/s10/k6g64k4g8y8g4y8g8k12w6-g005010-k101010-we0e0e0-ye8c000/)|
-|![University of Alberta (Corporate) example sett](/setts/s10/k6g64k4g8y8g4y8g8k12w6-g005010-k101010-we0e0e0-ye8c000/sett.png)|
+| [University of Alberta (Corporate)](/setts/s10/k3g32k2g4y4g2y4g4k6w3~g005010-k101010-we0e0e0-ye8c000~x2/)|
+|![University of Alberta (Corporate) example sett](/setts/s10/k3g32k2g4y4g2y4g4k6w3~g005010-k101010-we0e0e0-ye8c000~x2/sett.png)|

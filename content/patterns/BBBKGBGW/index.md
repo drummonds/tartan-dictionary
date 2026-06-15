@@ -6,7 +6,7 @@ BBBKGBGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b30ba6b60k44g36ba6g6w6-b2c2c80-ba780078-g003820-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b15ba3b30k22g18ba3g3w3~b2c2c80-ba780078-g003820-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKGBGW
 
 | Tartans |
 |---------------|
-| [Moray (Corporate)](/setts/s8/b30ba6b60k44g36ba6g6w6-b2c2c80-ba780078-g003820-k101010-we0e0e0/)|
-|![Moray (Corporate) example sett](/setts/s8/b30ba6b60k44g36ba6g6w6-b2c2c80-ba780078-g003820-k101010-we0e0e0/sett.png)|
+| [Moray (Corporate)](/setts/s8/b15ba3b30k22g18ba3g3w3~b2c2c80-ba780078-g003820-k101010-we0e0e0~x2/)|
+|![Moray (Corporate) example sett](/setts/s8/b15ba3b30k22g18ba3g3w3~b2c2c80-ba780078-g003820-k101010-we0e0e0~x2/sett.png)|

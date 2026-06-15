@@ -16,5 +16,5 @@ BGGGGGBKGBGBGGGGGBKR
 
 | Tartans |
 |---------------|
-| [Peter Pan](/setts/s20/b44g4ga4g4ga4g4b12k6g28b2gb8b2g4gb4g4gb4g2b2k2r4-b1c0070-g006818-ga0098a0-gb289c18-k101010-rc80000/)|
-|![Peter Pan example sett](/setts/s20/b44g4ga4g4ga4g4b12k6g28b2gb8b2g4gb4g4gb4g2b2k2r4-b1c0070-g006818-ga0098a0-gb289c18-k101010-rc80000/sett.png)|
+| [Peter Pan](/setts/s20/b22g2ga2g2ga2g2b6k3g14b1gb4b1g2gb2g2gb2g1b1k1r2~b1c0070-g006818-ga0098a0-gb289c18-k101010-rc80000~x2/)|
+|![Peter Pan example sett](/setts/s20/b22g2ga2g2ga2g2b6k3g14b1gb4b1g2gb2g2gb2g1b1k1r2~b1c0070-g006818-ga0098a0-gb289c18-k101010-rc80000~x2/sett.png)|

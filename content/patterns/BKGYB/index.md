@@ -6,7 +6,7 @@ BKGYB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b12y50g32k4b6-b2c2c80-g604000-k101010-yd87c00/tartan.png)
+![Woven sample](/setts/s5/b6y25g16k2b3~b2c2c80-g604000-k101010-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGYB
 
 | Tartans |
 |---------------|
-| [Prince of Orange #2](/setts/s5/b12y50g32k4b6-b2c2c80-g604000-k101010-yd87c00/)|
-|![Prince of Orange #2 example sett](/setts/s5/b12y50g32k4b6-b2c2c80-g604000-k101010-yd87c00/sett.png)|
+| [Prince of Orange #2](/setts/s5/b6y25g16k2b3~b2c2c80-g604000-k101010-yd87c00~x2/)|
+|![Prince of Orange #2 example sett](/setts/s5/b6y25g16k2b3~b2c2c80-g604000-k101010-yd87c00~x2/sett.png)|

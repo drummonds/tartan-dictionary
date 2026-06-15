@@ -16,7 +16,7 @@ WRWGWKRKWGWRW
 
 | Tartans |
 |---------------|
-| [Wilson's Blanket Sett - Border](/setts/s13/w200r28w26g26w26k2r28k2w26g26w26r24w200-g408060-k101010-rc80000-wfcfcfc/)|
-|![Wilson's Blanket Sett - Border example sett](/setts/s13/w200r28w26g26w26k2r28k2w26g26w26r24w200-g408060-k101010-rc80000-wfcfcfc/sett.png)|
-| [Border Sett](/setts/s13/w180r38w40g40w40k4r44k4w40g40w40r38w80-g008000-k000000-rc00000-we0e0e0/)|
-|![Border Sett example sett](/setts/s13/w180r38w40g40w40k4r44k4w40g40w40r38w80-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Wilson's Blanket Sett - Border](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~g408060-k101010-rc80000-wfcfcfc~x2/)|
+|![Wilson's Blanket Sett - Border example sett](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~g408060-k101010-rc80000-wfcfcfc~x2/sett.png)|
+| [Border Sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~g008000-k000000-rc00000-we0e0e0~x2/)|
+|![Border Sett example sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ WRWRRRRRWRWRW
 
 | Tartans |
 |---------------|
-| [MacLachlan, Marled Dress (Fashion)](/setts/s13/w32r4w4r4w4r32r32ra6r32r32w32r4w4-r888888-rac80000-we8ccb8/)|
-|![MacLachlan, Marled Dress (Fashion) example sett](/setts/s13/w32r4w4r4w4r32r32ra6r32r32w32r4w4-r888888-rac80000-we8ccb8/sett.png)|
+| [MacLachlan, Marled Dress (Fashion)](/setts/s13/w16r2w2r2w2r16r16ra3r16r16w16r2w2~r888888-rac80000-we8ccb8~x2/)|
+|![MacLachlan, Marled Dress (Fashion) example sett](/setts/s13/w16r2w2r2w2r16r16ra3r16r16w16r2w2~r888888-rac80000-we8ccb8~x2/sett.png)|

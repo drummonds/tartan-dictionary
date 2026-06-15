@@ -16,5 +16,5 @@ BKYKGYKYK
 
 | Tartans |
 |---------------|
-| [Bro-Leon](/setts/s9/b8k44y4k4g14y4k4y34k8-b2c2c80-g408060-k101010-ybc8c00/)|
-|![Bro-Leon example sett](/setts/s9/b8k44y4k4g14y4k4y34k8-b2c2c80-g408060-k101010-ybc8c00/sett.png)|
+| [Bro-Leon](/setts/s9/b4k22y2k2g7y2k2y17k4~b2c2c80-g408060-k101010-ybc8c00~x2/)|
+|![Bro-Leon example sett](/setts/s9/b4k22y2k2g7y2k2y17k4~b2c2c80-g408060-k101010-ybc8c00~x2/sett.png)|

@@ -16,7 +16,7 @@ BGBKGRGKGKGKGKGYGK
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart Hunting Plaid](/setts/s18/b18g6b18k8g20r8g20k12g4k14g4k14g4k12g20y8g20k16-b2c4084-g005020-k101010-rdc0000-ye8c000/)|
-|![Stuart/Stewart Hunting Plaid example sett](/setts/s18/b18g6b18k8g20r8g20k12g4k14g4k14g4k12g20y8g20k16-b2c4084-g005020-k101010-rdc0000-ye8c000/sett.png)|
-| [Stewart hunting, Plaid](/setts/s18/b18g6b18k8g20r8g20k12g4k14g4k14g4k12g20y8g20k16-b304080-g008000-k000000-rc00000-yf0c000/)|
-|![Stewart hunting, Plaid example sett](/setts/s18/b18g6b18k8g20r8g20k12g4k14g4k14g4k12g20y8g20k16-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Stuart/Stewart Hunting Plaid](/setts/s18/b9g3b9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~b2c4084-g005020-k101010-rdc0000-ye8c000~x2/)|
+|![Stuart/Stewart Hunting Plaid example sett](/setts/s18/b9g3b9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~b2c4084-g005020-k101010-rdc0000-ye8c000~x2/sett.png)|
+| [Stewart hunting, Plaid](/setts/s18/b9g3b9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~b304080-g008000-k000000-rc00000-yf0c000~x2/)|
+|![Stewart hunting, Plaid example sett](/setts/s18/b9g3b9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~b304080-g008000-k000000-rc00000-yf0c000~x2/sett.png)|

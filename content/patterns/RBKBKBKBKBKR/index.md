@@ -16,5 +16,5 @@ RBKBKBKBKBKR
 
 | Tartans |
 |---------------|
-| [MacInnes Homecoming](/setts/s12/r6k38b4k4b4k4b36k6ba6k6b46ra6-b383838-ba1c1c50-k101010-ra47c00-rab02414/)|
-|![MacInnes Homecoming example sett](/setts/s12/r6k38b4k4b4k4b36k6ba6k6b46ra6-b383838-ba1c1c50-k101010-ra47c00-rab02414/sett.png)|
+| [MacInnes Homecoming](/setts/s12/r3k19b2k2b2k2b18k3ba3k3b23ra3~b383838-ba1c1c50-k101010-ra47c00-rab02414~x2/)|
+|![MacInnes Homecoming example sett](/setts/s12/r3k19b2k2b2k2b18k3ba3k3b23ra3~b383838-ba1c1c50-k101010-ra47c00-rab02414~x2/sett.png)|

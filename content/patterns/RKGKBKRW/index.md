@@ -6,7 +6,7 @@ RKGKBKRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4k28g28k28b28k28r4w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/r1k7g7k7b7k7r1w1~b2c2c80-g006818-k101010-rc80000-wf8f8f8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGKBKRW
 
 | Tartans |
 |---------------|
-| [Tennent (Personal)](/setts/s8/r4k28g28k28b28k28r4w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8/)|
-|![Tennent (Personal) example sett](/setts/s8/r4k28g28k28b28k28r4w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8/sett.png)|
+| [Tennent (Personal)](/setts/s8/r1k7g7k7b7k7r1w1~b2c2c80-g006818-k101010-rc80000-wf8f8f8~x4/)|
+|![Tennent (Personal) example sett](/setts/s8/r1k7g7k7b7k7r1w1~b2c2c80-g006818-k101010-rc80000-wf8f8f8~x4/sett.png)|

@@ -6,7 +6,7 @@ WRYRGWW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w16wa32g36r4y8r2w8-g289c18-rc80000-w98c8e8-wae0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w8wa16g18r2y4r1w4~g289c18-rc80000-w98c8e8-wae0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WRYRGWW
 
 | Tartans |
 |---------------|
-| [Ainslie, Lake (District)](/setts/s7/w16wa32g36r4y8r2w8-g289c18-rc80000-w98c8e8-wae0e0e0-ye8c000/)|
-|![Ainslie, Lake (District) example sett](/setts/s7/w16wa32g36r4y8r2w8-g289c18-rc80000-w98c8e8-wae0e0e0-ye8c000/sett.png)|
-| [Lake Ainslie Heritage](/setts/s7/w16wa32g36r4y8r2w8-g289c18-rc80000-w98c8e8-wafcfcfc-ye8c000/)|
-|![Lake Ainslie Heritage example sett](/setts/s7/w16wa32g36r4y8r2w8-g289c18-rc80000-w98c8e8-wafcfcfc-ye8c000/sett.png)|
+| [Ainslie, Lake (District)](/setts/s7/w8wa16g18r2y4r1w4~g289c18-rc80000-w98c8e8-wae0e0e0-ye8c000~x2/)|
+|![Ainslie, Lake (District) example sett](/setts/s7/w8wa16g18r2y4r1w4~g289c18-rc80000-w98c8e8-wae0e0e0-ye8c000~x2/sett.png)|
+| [Lake Ainslie Heritage](/setts/s7/w8wa16g18r2y4r1w4~g289c18-rc80000-w98c8e8-wafcfcfc-ye8c000~x2/)|
+|![Lake Ainslie Heritage example sett](/setts/s7/w8wa16g18r2y4r1w4~g289c18-rc80000-w98c8e8-wafcfcfc-ye8c000~x2/sett.png)|

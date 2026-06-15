@@ -6,7 +6,7 @@ GYGKGRGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g42y20g40k6g20r6g20w6-g00643c-k101010-rbc1828-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g21y10g20k3g10r3g10w3~g00643c-k101010-rbc1828-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGKGRGW
 
 | Tartans |
 |---------------|
-| [Hanby (Personal)](/setts/s8/g42y20g40k6g20r6g20w6-g00643c-k101010-rbc1828-we0e0e0-ye8c000/)|
-|![Hanby (Personal) example sett](/setts/s8/g42y20g40k6g20r6g20w6-g00643c-k101010-rbc1828-we0e0e0-ye8c000/sett.png)|
+| [Hanby (Personal)](/setts/s8/g21y10g20k3g10r3g10w3~g00643c-k101010-rbc1828-we0e0e0-ye8c000~x2/)|
+|![Hanby (Personal) example sett](/setts/s8/g21y10g20k3g10r3g10w3~g00643c-k101010-rbc1828-we0e0e0-ye8c000~x2/sett.png)|

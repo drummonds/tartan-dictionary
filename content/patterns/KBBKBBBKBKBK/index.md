@@ -16,5 +16,5 @@ KBBKBBBKBKBK
 
 | Tartans |
 |---------------|
-| [Hopkins (Welsh Name)](/setts/s12/k20b8k8b8k8ba20b8ba4k4ba4b40k12-b202060-ba003c64-k101010/)|
-|![Hopkins (Welsh Name) example sett](/setts/s12/k20b8k8b8k8ba20b8ba4k4ba4b40k12-b202060-ba003c64-k101010/sett.png)|
+| [Hopkins (Welsh Name)](/setts/s12/k5b2k2b2k2ba5b2ba1k1ba1b10k3~b202060-ba003c64-k101010~x4/)|
+|![Hopkins (Welsh Name) example sett](/setts/s12/k5b2k2b2k2ba5b2ba1k1ba1b10k3~b202060-ba003c64-k101010~x4/sett.png)|

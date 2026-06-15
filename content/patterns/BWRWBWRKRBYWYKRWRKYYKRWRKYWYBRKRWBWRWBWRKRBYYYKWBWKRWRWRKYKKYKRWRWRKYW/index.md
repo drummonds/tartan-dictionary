@@ -16,5 +16,5 @@ BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW
 
 | Tartans |
 |---------------|
-| [Ogilvie of Strathallan](/setts/s70/w6y6k6r10w6r10w6r10k6y6k6k6y6k6r10w6r10w6r10k26w2b6w2k26y16y6y16b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y6w6y6k10r10w6r10k6y16y16k6r10w6r10k10y6w6y6b6r6k6r26w2b2w2r26w2b2-b2c2c80-k101010-rc80000-wfcfcfc-yd8b-hde82861fef06be48/)|
-|![Ogilvie of Strathallan example sett](/setts/s70/w6y6k6r10w6r10w6r10k6y6k6k6y6k6r10w6r10w6r10k26w2b6w2k26y16y6y16b6r6k6r26w2b2w2r26w2b2w2r26k6r6b6y6w6y6k10r10w6r10k6y16y16k6r10w6r10k10y6w6y6b6r6k6r26w2b2w2r26w2b2-b2c2c80-k101010-rc80000-wfcfcfc-yd8b-hde82861fef06be48/sett.png)|
+| [Ogilvie of Strathallan](/setts/s70/w3y3k3r5w3r5w3r5k3y3k3k3y3k3r5w3r5w3r5k13w1b3w1k13y8y3y8b3r3k3r13w1b1w1r13w1b1w1r13k3r3b3y3w3y3k5r5w3r5k3y8y8k3r5w3r5k5y3w3y3b3r3k3r13w1b1w1r13w1b1~b2c2c80-k101010-rc80000-wfcfcfc-yd8b000~x2/)|
+|![Ogilvie of Strathallan example sett](/setts/s70/w3y3k3r5w3r5w3r5k3y3k3k3y3k3r5w3r5w3r5k13w1b3w1k13y8y3y8b3r3k3r13w1b1w1r13w1b1w1r13k3r3b3y3w3y3k5r5w3r5k3y8y8k3r5w3r5k5y3w3y3b3r3k3r13w1b1w1r13w1b1~b2c2c80-k101010-rc80000-wfcfcfc-yd8b000~x2/sett.png)|

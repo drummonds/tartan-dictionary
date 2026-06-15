@@ -16,5 +16,5 @@ KBKBRBKBKW
 
 | Tartans |
 |---------------|
-| [Sorbie](/setts/s10/k4b68k68b4r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/)|
-|![Sorbie example sett](/setts/s10/k4b68k68b4r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/sett.png)|
+| [Sorbie](/setts/s10/k1b17k17b1r1b1k17b17k1w1~b1474b4-k101010-rc80000-wfcfcfc~x4/)|
+|![Sorbie example sett](/setts/s10/k1b17k17b1r1b1k17b17k1w1~b1474b4-k101010-rc80000-wfcfcfc~x4/sett.png)|

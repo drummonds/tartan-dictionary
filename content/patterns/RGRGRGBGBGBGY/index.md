@@ -16,5 +16,5 @@ RGRGRGBGBGBGY
 
 | Tartans |
 |---------------|
-| [Johansson (Aneby, Sweden), Christian (Personal)](/setts/s13/r16g2r2g2r2g50b2g2b2g2b50ga14y12-b3f4441-g70714d-ga75786c-r97342f-yc5831b/)|
-|![Johansson (Aneby, Sweden), Christian (Personal) example sett](/setts/s13/r16g2r2g2r2g50b2g2b2g2b50ga14y12-b3f4441-g70714d-ga75786c-r97342f-yc5831b/sett.png)|
+| [Johansson (Aneby, Sweden), Christian (Personal)](/setts/s13/r8g1r1g1r1g25b1g1b1g1b25ga7y6~b3f4441-g70714d-ga75786c-r97342f-yc5831b~x2/)|
+|![Johansson (Aneby, Sweden), Christian (Personal) example sett](/setts/s13/r8g1r1g1r1g25b1g1b1g1b25ga7y6~b3f4441-g70714d-ga75786c-r97342f-yc5831b~x2/sett.png)|

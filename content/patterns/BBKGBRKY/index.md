@@ -6,7 +6,7 @@ BBKGBRKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/b6ba4k37g6ba80r4k4y4~b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKGBRKY
 
 | Tartans |
 |---------------|
-| [Law Enforcement Officers' Memorial](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/)|
-|![Law Enforcement Officers' Memorial example sett](/setts/s8/b6ba4k37g6ba80r4k4y4-b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/sett.png)|
+| [Law Enforcement Officers' Memorial](/setts/s8/b6ba4k37g6ba80r4k4y4~b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/)|
+|![Law Enforcement Officers' Memorial example sett](/setts/s8/b6ba4k37g6ba80r4k4y4~b1c0070-ba2c2c80-g006818-k101010-r888888-ybc8c00/sett.png)|

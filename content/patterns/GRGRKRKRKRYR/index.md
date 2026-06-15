@@ -16,5 +16,5 @@ GRGRKRKRKRYR
 
 | Tartans |
 |---------------|
-| [Scotland's People](/setts/s12/r14y6r54k28ra10k6ra10k6ra16g6ra8g8-g289c18-k101010-rc80000-rab468ac-ye8c000/)|
-|![Scotland's People example sett](/setts/s12/r14y6r54k28ra10k6ra10k6ra16g6ra8g8-g289c18-k101010-rc80000-rab468ac-ye8c000/sett.png)|
+| [Scotland's People](/setts/s12/r7y3r27k14ra5k3ra5k3ra8g3ra4g4~g289c18-k101010-rc80000-rab468ac-ye8c000~x2/)|
+|![Scotland's People example sett](/setts/s12/r7y3r27k14ra5k3ra5k3ra8g3ra4g4~g289c18-k101010-rc80000-rab468ac-ye8c000~x2/sett.png)|

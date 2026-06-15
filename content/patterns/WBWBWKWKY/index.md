@@ -16,5 +16,5 @@ WBWBWKWKY
 
 | Tartans |
 |---------------|
-| [Henderson Dress (Dance)](/setts/s9/w4b12w12b4w20k4w8k12y4-b3850c8-k101010-wfcfcfc-yd09800/)|
-|![Henderson Dress (Dance) example sett](/setts/s9/w4b12w12b4w20k4w8k12y4-b3850c8-k101010-wfcfcfc-yd09800/sett.png)|
+| [Henderson Dress (Dance)](/setts/s9/w1b3w3b1w5k1w2k3y1~b3850c8-k101010-wfcfcfc-yd09800~x4/)|
+|![Henderson Dress (Dance) example sett](/setts/s9/w1b3w3b1w5k1w2k3y1~b3850c8-k101010-wfcfcfc-yd09800~x4/sett.png)|

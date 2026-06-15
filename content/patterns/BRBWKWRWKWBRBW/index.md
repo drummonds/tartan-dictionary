@@ -16,5 +16,5 @@ BRBWKWRWKWBRBW
 
 | Tartans |
 |---------------|
-| [Hamburg 2](/setts/s14/b6r6ba48w48k4w6r4w6k4w48ba48r6b6wa4-b2c2c80-ba14283c-k101010-rc80000-w98c8e8-waf8f8f8/)|
-|![Hamburg 2 example sett](/setts/s14/b6r6ba48w48k4w6r4w6k4w48ba48r6b6wa4-b2c2c80-ba14283c-k101010-rc80000-w98c8e8-waf8f8f8/sett.png)|
+| [Hamburg 2](/setts/s14/b3r3ba24w24k2w3r2w3k2w24ba24r3b3wa2~b2c2c80-ba14283c-k101010-rc80000-w98c8e8-waf8f8f8~x2/)|
+|![Hamburg 2 example sett](/setts/s14/b3r3ba24w24k2w3r2w3k2w24ba24r3b3wa2~b2c2c80-ba14283c-k101010-rc80000-w98c8e8-waf8f8f8~x2/sett.png)|

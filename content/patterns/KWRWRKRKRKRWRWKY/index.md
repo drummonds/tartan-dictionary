@@ -16,5 +16,5 @@ KWRWRKRKRKRWRWKY
 
 | Tartans |
 |---------------|
-| [O'Meehan](/setts/s16/y54k8w8r128w8r8k8r8k24r8k8r8w8r128w8k8-k101010-rc80050-we0e0e0-ye8c000/)|
-|![O'Meehan example sett](/setts/s16/y54k8w8r128w8r8k8r8k24r8k8r8w8r128w8k8-k101010-rc80050-we0e0e0-ye8c000/sett.png)|
+| [O'Meehan](/setts/s16/y27k4w4r64w4r4k4r4k12r4k4r4w4r64w4k4~k101010-rc80050-we0e0e0-ye8c000~x2/)|
+|![O'Meehan example sett](/setts/s16/y27k4w4r64w4r4k4r4k12r4k4r4w4r64w4k4~k101010-rc80050-we0e0e0-ye8c000~x2/sett.png)|

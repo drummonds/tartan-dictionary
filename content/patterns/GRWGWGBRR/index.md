@@ -16,5 +16,5 @@ GRWGWGBRR
 
 | Tartans |
 |---------------|
-| [State Seal of Mississippi (Fashion)](/setts/s9/g96r52w10ga14wa20g6b14r20ra6-b1474b4-g5c6428-ga604000-r888888-rac80000-we8ccb8-wac0c0c0/)|
-|![State Seal of Mississippi (Fashion) example sett](/setts/s9/g96r52w10ga14wa20g6b14r20ra6-b1474b4-g5c6428-ga604000-r888888-rac80000-we8ccb8-wac0c0c0/sett.png)|
+| [State Seal of Mississippi (Fashion)](/setts/s9/g48r26w5ga7wa10g3b7r10ra3~b1474b4-g5c6428-ga604000-r888888-rac80000-we8ccb8-wac0c0c0~x2/)|
+|![State Seal of Mississippi (Fashion) example sett](/setts/s9/g48r26w5ga7wa10g3b7r10ra3~b1474b4-g5c6428-ga604000-r888888-rac80000-we8ccb8-wac0c0c0~x2/sett.png)|

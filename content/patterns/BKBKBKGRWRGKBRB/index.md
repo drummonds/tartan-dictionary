@@ -16,5 +16,5 @@ BKBKBKGRWRGKBRB
 
 | Tartans |
 |---------------|
-| [MacKenzie Morgan](/setts/s15/b24k4b4k4b4k24g24r4w4r4g24k24b24r6b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![MacKenzie Morgan example sett](/setts/s15/b24k4b4k4b4k24g24r4w4r4g24k24b24r6b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [MacKenzie Morgan](/setts/s15/b12k2b2k2b2k12g12r2w2r2g12k12b12r3b2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![MacKenzie Morgan example sett](/setts/s15/b12k2b2k2b2k12g12r2w2r2g12k12b12r3b2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

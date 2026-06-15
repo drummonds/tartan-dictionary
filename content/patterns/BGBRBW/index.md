@@ -6,7 +6,7 @@ BGBRBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6g42b6r42b70w6-b2c2c80-g00643c-rc04c08-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b3g21b3r21b35w3~b2c2c80-g00643c-rc04c08-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBRBW
 
 | Tartans |
 |---------------|
-| [Donnolly](/setts/s6/b6g42b6r42b70w6-b2c2c80-g00643c-rc04c08-wfcfcfc/)|
-|![Donnolly example sett](/setts/s6/b6g42b6r42b70w6-b2c2c80-g00643c-rc04c08-wfcfcfc/sett.png)|
+| [Donnolly](/setts/s6/b3g21b3r21b35w3~b2c2c80-g00643c-rc04c08-wfcfcfc~x2/)|
+|![Donnolly example sett](/setts/s6/b3g21b3r21b35w3~b2c2c80-g00643c-rc04c08-wfcfcfc~x2/sett.png)|

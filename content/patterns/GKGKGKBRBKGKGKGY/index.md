@@ -16,5 +16,5 @@ GKGKGKBRBKGKGKGY
 
 | Tartans |
 |---------------|
-| [Thormanby Buccaneer Bay](/setts/s16/g34k4g4k4g4k30b30r14b30k30g4k4g4k4g34y4-b282060-g004810-k000000-rc80010-yff9823/)|
-|![Thormanby Buccaneer Bay example sett](/setts/s16/g34k4g4k4g4k30b30r14b30k30g4k4g4k4g34y4-b282060-g004810-k000000-rc80010-yff9823/sett.png)|
+| [Thormanby Buccaneer Bay](/setts/s16/g17k2g2k2g2k15b15r7b15k15g2k2g2k2g17y2~b282060-g004810-k000000-rc80010-yff9823~x2/)|
+|![Thormanby Buccaneer Bay example sett](/setts/s16/g17k2g2k2g2k15b15r7b15k15g2k2g2k2g17y2~b282060-g004810-k000000-rc80010-yff9823~x2/sett.png)|

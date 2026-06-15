@@ -16,5 +16,5 @@ KYGYRKBWBKRYGY
 
 | Tartans |
 |---------------|
-| [Lambert Hunting (Personal)](/setts/s14/y68g20y10r4k16b4w6b4k16r4y10g20y56k6-b1474b4-g006818-k101010-rc8002c-wfcfcfc-ya08858/)|
-|![Lambert Hunting (Personal) example sett](/setts/s14/y68g20y10r4k16b4w6b4k16r4y10g20y56k6-b1474b4-g006818-k101010-rc8002c-wfcfcfc-ya08858/sett.png)|
+| [Lambert Hunting (Personal)](/setts/s14/y34g10y5r2k8b2w3b2k8r2y5g10y28k3~b1474b4-g006818-k101010-rc8002c-wfcfcfc-ya08858~x2/)|
+|![Lambert Hunting (Personal) example sett](/setts/s14/y34g10y5r2k8b2w3b2k8r2y5g10y28k3~b1474b4-g006818-k101010-rc8002c-wfcfcfc-ya08858~x2/sett.png)|

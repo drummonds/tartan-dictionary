@@ -16,5 +16,5 @@ BRBGBRKGKYKYKRBRBRBR
 
 | Tartans |
 |---------------|
-| [Anderson of Kinnedear Red](/setts/s20/r8b12r4b4r8b12r6k8y4k4y4k8g4k8r44b2g4b2r12b6-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Anderson of Kinnedear Red example sett](/setts/s20/r8b12r4b4r8b12r6k8y4k4y4k8g4k8r44b2g4b2r12b6-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
+| [Anderson of Kinnedear Red](/setts/s20/r4b6r2b2r4b6r3k4y2k2y2k4g2k4r22b1g2b1r6b3~b1c0070-g006818-k101010-r880000-yd09800~x2/)|
+|![Anderson of Kinnedear Red example sett](/setts/s20/r4b6r2b2r4b6r3k4y2k2y2k4g2k4r22b1g2b1r6b3~b1c0070-g006818-k101010-r880000-yd09800~x2/sett.png)|

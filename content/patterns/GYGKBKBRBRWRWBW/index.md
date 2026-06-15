@@ -16,5 +16,5 @@ GYGKBKBRBRWRWBW
 
 | Tartans |
 |---------------|
-| [Watson - Kirby (Personal)](/setts/s15/g20y12g40k40b40k12b16r12b40r12w8r32w8b12w2-b141e46-g003c14-k101010-re12d01-we0e0e0-ye8c000/)|
-|![Watson - Kirby (Personal) example sett](/setts/s15/g20y12g40k40b40k12b16r12b40r12w8r32w8b12w2-b141e46-g003c14-k101010-re12d01-we0e0e0-ye8c000/sett.png)|
+| [Watson - Kirby (Personal)](/setts/s15/g10y6g20k20b20k6b8r6b20r6w4r16w4b6w1~b141e46-g003c14-k101010-re12d01-we0e0e0-ye8c000~x2/)|
+|![Watson - Kirby (Personal) example sett](/setts/s15/g10y6g20k20b20k6b8r6b20r6w4r16w4b6w1~b141e46-g003c14-k101010-re12d01-we0e0e0-ye8c000~x2/sett.png)|

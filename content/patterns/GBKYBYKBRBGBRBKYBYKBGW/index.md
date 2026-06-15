@@ -16,5 +16,5 @@ GBKYBYKBRBGBRBKYBYKBGW
 
 | Tartans |
 |---------------|
-| [Waipu](/setts/s22/g16b32k10y4ba2y4k10b14r4b14g32b14r4b14k10y4ba2y4k10b32g16w2-b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Waipu example sett](/setts/s22/g16b32k10y4ba2y4k10b14r4b14g32b14r4b14k10y4ba2y4k10b32g16w2-b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Waipu](/setts/s22/g8b16k5y2ba1y2k5b7r2b7g16b7r2b7k5y2ba1y2k5b16g8w1~b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Waipu example sett](/setts/s22/g8b16k5y2ba1y2k5b7r2b7g16b7r2b7k5y2ba1y2k5b16g8w1~b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

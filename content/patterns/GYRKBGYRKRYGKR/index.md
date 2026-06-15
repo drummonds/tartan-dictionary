@@ -16,5 +16,5 @@ GYRKBGYRKRYGKR
 
 | Tartans |
 |---------------|
-| [MacFarlane](/setts/s14/r84k2g24y4r6k2r6y4g4b24k8r6y8g6-b6e5058-g11450d-k000000-raa0000-yaaaaaa/)|
-|![MacFarlane example sett](/setts/s14/r84k2g24y4r6k2r6y4g4b24k8r6y8g6-b6e5058-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [MacFarlane](/setts/s14/r42k1g12y2r3k1r3y2g2b12k4r3y4g3~b6e5058-g11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![MacFarlane example sett](/setts/s14/r42k1g12y2r3k1r3y2g2b12k4r3y4g3~b6e5058-g11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|

@@ -16,5 +16,5 @@ RYBYBYBYBBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Pride of Lorient](/setts/s17/r4y16b2y8b4y6b6y2b30ba2b8ba4b4ba8b2ba18w4-b426581-ba2d3743-rcd3731-weee9e2-y8faec3/)|
-|![Pride of Lorient example sett](/setts/s17/r4y16b2y8b4y6b6y2b30ba2b8ba4b4ba8b2ba18w4-b426581-ba2d3743-rcd3731-weee9e2-y8faec3/sett.png)|
+| [Pride of Lorient](/setts/s17/r2y8b1y4b2y3b3y1b15ba1b4ba2b2ba4b1ba9w2~b426581-ba2d3743-rcd3731-weee9e2-y8faec3~x2/)|
+|![Pride of Lorient example sett](/setts/s17/r2y8b1y4b2y3b3y1b15ba1b4ba2b2ba4b1ba9w2~b426581-ba2d3743-rcd3731-weee9e2-y8faec3~x2/sett.png)|

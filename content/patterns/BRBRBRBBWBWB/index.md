@@ -16,5 +16,5 @@ BRBRBRBBWBWB
 
 | Tartans |
 |---------------|
-| [Eidart](/setts/s12/b56r30b54r4b54r6b52ba40w6ba4w4ba8-b2c2c80-ba5c5c5c-rc80000-wfcfcfc/)|
-|![Eidart example sett](/setts/s12/b56r30b54r4b54r6b52ba40w6ba4w4ba8-b2c2c80-ba5c5c5c-rc80000-wfcfcfc/sett.png)|
+| [Eidart](/setts/s12/b28r15b27r2b27r3b26ba20w3ba2w2ba4~b2c2c80-ba5c5c5c-rc80000-wfcfcfc~x2/)|
+|![Eidart example sett](/setts/s12/b28r15b27r2b27r3b26ba20w3ba2w2ba4~b2c2c80-ba5c5c5c-rc80000-wfcfcfc~x2/sett.png)|

@@ -6,7 +6,7 @@ KRY
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s3/k69r14y5~k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRY
 
 | Tartans |
 |---------------|
-| [Batson (Personal)](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/)|
-|![Batson (Personal) example sett](/setts/s3/k138r28y10-k101010-rc80000-ye8c000/sett.png)|
-| [Quenouille (2011)](/setts/s3/y98r32k22-k1c1714-rca2625-yf8e38c/)|
-|![Quenouille (2011) example sett](/setts/s3/y98r32k22-k1c1714-rca2625-yf8e38c/sett.png)|
+| [Batson (Personal)](/setts/s3/k69r14y5~k101010-rc80000-ye8c000~x2/)|
+|![Batson (Personal) example sett](/setts/s3/k69r14y5~k101010-rc80000-ye8c000~x2/sett.png)|
+| [Quenouille (2011)](/setts/s3/y49r16k11~k1c1714-rca2625-yf8e38c~x2/)|
+|![Quenouille (2011) example sett](/setts/s3/y49r16k11~k1c1714-rca2625-yf8e38c~x2/sett.png)|

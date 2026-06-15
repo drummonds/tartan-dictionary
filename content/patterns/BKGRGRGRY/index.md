@@ -16,5 +16,5 @@ BKGRGRGRY
 
 | Tartans |
 |---------------|
-| [Fulton](/setts/s9/b6k2g32r10g12r10g28r32y4-b6c0070-g006818-k101010-r880000-yd09800/)|
-|![Fulton example sett](/setts/s9/b6k2g32r10g12r10g28r32y4-b6c0070-g006818-k101010-r880000-yd09800/sett.png)|
+| [Fulton](/setts/s9/b3k1g16r5g6r5g14r16y2~b6c0070-g006818-k101010-r880000-yd09800~x2/)|
+|![Fulton example sett](/setts/s9/b3k1g16r5g6r5g14r16y2~b6c0070-g006818-k101010-r880000-yd09800~x2/sett.png)|

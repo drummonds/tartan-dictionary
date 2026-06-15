@@ -16,7 +16,7 @@ BWBGWGWBWB
 
 | Tartans |
 |---------------|
-| [Fraser Arisaid](/setts/s10/b28w4b6w4g20w64g20b20w4b6-b003c64-g006818-wc0c0c0/)|
-|![Fraser Arisaid example sett](/setts/s10/b28w4b6w4g20w64g20b20w4b6-b003c64-g006818-wc0c0c0/sett.png)|
-| [Fraser, Arisaid](/setts/s10/b28w4b6w4g20w64g20b20w4b6-b304080-g008000-we0e0e0/)|
-|![Fraser, Arisaid example sett](/setts/s10/b28w4b6w4g20w64g20b20w4b6-b304080-g008000-we0e0e0/sett.png)|
+| [Fraser Arisaid](/setts/s10/b14w2b3w2g10w32g10b10w2b3~b003c64-g006818-wc0c0c0~x2/)|
+|![Fraser Arisaid example sett](/setts/s10/b14w2b3w2g10w32g10b10w2b3~b003c64-g006818-wc0c0c0~x2/sett.png)|
+| [Fraser, Arisaid](/setts/s10/b14w2b3w2g10w32g10b10w2b3~b304080-g008000-we0e0e0~x2/)|
+|![Fraser, Arisaid example sett](/setts/s10/b14w2b3w2g10w32g10b10w2b3~b304080-g008000-we0e0e0~x2/sett.png)|

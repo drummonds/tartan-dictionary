@@ -6,7 +6,7 @@ RWBWRKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r8w8b32w8r32k8w8-b780078-k101010-re86000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/r1w1b4w1r4k1w1~b780078-k101010-re86000-we0e0e0~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWBWRKW
 
 | Tartans |
 |---------------|
-| [Tartan Tangerine](/setts/s7/r8w8b32w8r32k8w8-b780078-k101010-re86000-we0e0e0/)|
-|![Tartan Tangerine example sett](/setts/s7/r8w8b32w8r32k8w8-b780078-k101010-re86000-we0e0e0/sett.png)|
+| [Tartan Tangerine](/setts/s7/r1w1b4w1r4k1w1~b780078-k101010-re86000-we0e0e0~x8/)|
+|![Tartan Tangerine example sett](/setts/s7/r1w1b4w1r4k1w1~b780078-k101010-re86000-we0e0e0~x8/sett.png)|

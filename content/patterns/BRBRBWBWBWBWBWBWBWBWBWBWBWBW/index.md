@@ -16,5 +16,5 @@ BRBRBWBWBWBWBWBWBWBWBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Kilnsey (Fashion)](/setts/s28/b2r4b4r2b64w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2-b202060-r888888-we0e0e0/)|
-|![Kilnsey (Fashion) example sett](/setts/s28/b2r4b4r2b64w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2b2w2-b202060-r888888-we0e0e0/sett.png)|
+| [Kilnsey (Fashion)](/setts/s28/b1r2b2r1b32w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1~b202060-r888888-we0e0e0~x2/)|
+|![Kilnsey (Fashion) example sett](/setts/s28/b1r2b2r1b32w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1b1w1~b202060-r888888-we0e0e0~x2/sett.png)|

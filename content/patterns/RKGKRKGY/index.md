@@ -6,7 +6,7 @@ RKGKRKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r10k4g2k4r10k4g36y6-g285800-k101010-rc80000-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/r5k2g1k2r5k2g18y3~g285800-k101010-rc80000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGKRKGY
 
 | Tartans |
 |---------------|
-| [Midpac Tissue (non woven)](/setts/s8/r10k4g2k4r10k4g36y6-g285800-k101010-rc80000-ybc8c00/)|
-|![Midpac Tissue (non woven) example sett](/setts/s8/r10k4g2k4r10k4g36y6-g285800-k101010-rc80000-ybc8c00/sett.png)|
+| [Midpac Tissue (non woven)](/setts/s8/r5k2g1k2r5k2g18y3~g285800-k101010-rc80000-ybc8c00~x2/)|
+|![Midpac Tissue (non woven) example sett](/setts/s8/r5k2g1k2r5k2g18y3~g285800-k101010-rc80000-ybc8c00~x2/sett.png)|

@@ -6,7 +6,7 @@ GKYR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g6k48y78r6-g006818-k101010-rdc0000-yffe600/tartan.png)
+![Woven sample](/setts/s4/g1k8y13r1~g006818-k101010-rdc0000-yffe600~x6/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKYR
 
 | Tartans |
 |---------------|
-| [Billy Apple® Yellow](/setts/s4/g6k48y78r6-g006818-k101010-rdc0000-yffe600/)|
-|![Billy Apple® Yellow example sett](/setts/s4/g6k48y78r6-g006818-k101010-rdc0000-yffe600/sett.png)|
-| [Billy Apple - Yellow](/setts/s4/g6k48y78r6-g006818-k101010-rc80000-yfccc00/)|
-|![Billy Apple - Yellow example sett](/setts/s4/g6k48y78r6-g006818-k101010-rc80000-yfccc00/sett.png)|
+| [Billy Apple® Yellow](/setts/s4/g1k8y13r1~g006818-k101010-rdc0000-yffe600~x6/)|
+|![Billy Apple® Yellow example sett](/setts/s4/g1k8y13r1~g006818-k101010-rdc0000-yffe600~x6/sett.png)|
+| [Billy Apple - Yellow](/setts/s4/g1k8y13r1~g006818-k101010-rc80000-yfccc00~x6/)|
+|![Billy Apple - Yellow example sett](/setts/s4/g1k8y13r1~g006818-k101010-rc80000-yfccc00~x6/sett.png)|

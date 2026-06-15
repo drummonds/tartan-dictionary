@@ -16,7 +16,7 @@ GKGYGKBKBKGYG
 
 | Tartans |
 |---------------|
-| [Burns Heritage](/setts/s13/g50k26g26y6g26k26b26k6b26k26g26y6g2-b680028-g003820-k101010-ybc8c00/)|
-|![Burns Heritage example sett](/setts/s13/g50k26g26y6g26k26b26k6b26k26g26y6g2-b680028-g003820-k101010-ybc8c00/sett.png)|
-| [Burns Heritage (Corporate)](/setts/s13/g50k26g26y6g26k26b26k6b26k26g26y6g2-b680028-g005830-k101010-ybc8c00/)|
-|![Burns Heritage (Corporate) example sett](/setts/s13/g50k26g26y6g26k26b26k6b26k26g26y6g2-b680028-g005830-k101010-ybc8c00/sett.png)|
+| [Burns Heritage](/setts/s13/g25k13g13y3g13k13b13k3b13k13g13y3g1~b680028-g003820-k101010-ybc8c00~x2/)|
+|![Burns Heritage example sett](/setts/s13/g25k13g13y3g13k13b13k3b13k13g13y3g1~b680028-g003820-k101010-ybc8c00~x2/sett.png)|
+| [Burns Heritage (Corporate)](/setts/s13/g25k13g13y3g13k13b13k3b13k13g13y3g1~b680028-g005830-k101010-ybc8c00~x2/)|
+|![Burns Heritage (Corporate) example sett](/setts/s13/g25k13g13y3g13k13b13k3b13k13g13y3g1~b680028-g005830-k101010-ybc8c00~x2/sett.png)|

@@ -6,7 +6,7 @@ GRGRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/g8r2g9r16w1~g005020-rdc0000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRGRW
 
 | Tartans |
 |---------------|
-| [MacGregor of Balquhidder](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/)|
-|![MacGregor of Balquhidder example sett](/setts/s5/g16r4g18r32w2-g005020-rdc0000-we0e0e0/sett.png)|
-| [Unidentified Plaid #3](/setts/s5/g24r3g16r33w4-g002814-rc82828-we0e0e0/)|
-|![Unidentified Plaid #3 example sett](/setts/s5/g24r3g16r33w4-g002814-rc82828-we0e0e0/sett.png)|
+| [MacGregor of Balquhidder](/setts/s5/g8r2g9r16w1~g005020-rdc0000-we0e0e0~x2/)|
+|![MacGregor of Balquhidder example sett](/setts/s5/g8r2g9r16w1~g005020-rdc0000-we0e0e0~x2/sett.png)|
+| [Unidentified Plaid #3](/setts/s5/g24r3g16r33w4~g002814-rc82828-we0e0e0/)|
+|![Unidentified Plaid #3 example sett](/setts/s5/g24r3g16r33w4~g002814-rc82828-we0e0e0/sett.png)|

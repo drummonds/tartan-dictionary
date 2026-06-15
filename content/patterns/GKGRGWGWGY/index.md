@@ -16,5 +16,5 @@ GKGRGWGWGY
 
 | Tartans |
 |---------------|
-| [Taylor, dress](/setts/s10/g18k4g30r8g28w6ga6w46g10y6-g008000-ga808080-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Taylor, dress example sett](/setts/s10/g18k4g30r8g28w6ga6w46g10y6-g008000-ga808080-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Taylor, dress](/setts/s10/g9k2g15r4g14w3ga3w23g5y3~g008000-ga808080-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Taylor, dress example sett](/setts/s10/g9k2g15r4g14w3ga3w23g5y3~g008000-ga808080-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

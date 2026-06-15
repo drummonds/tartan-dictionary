@@ -16,5 +16,5 @@ GRKRGRKRKRKRKRGRKR
 
 | Tartans |
 |---------------|
-| [Hebrides South Uist #3](/setts/s18/g48r6k6r48g6r48k6r6k48r6k48r6k6r48g6r48k6r6-g006818-k101010-rc80000/)|
-|![Hebrides South Uist #3 example sett](/setts/s18/g48r6k6r48g6r48k6r6k48r6k48r6k6r48g6r48k6r6-g006818-k101010-rc80000/sett.png)|
+| [Hebrides South Uist #3](/setts/s18/g8r1k1r8g1r8k1r1k8r1k8r1k1r8g1r8k1r1~g006818-k101010-rc80000~x6/)|
+|![Hebrides South Uist #3 example sett](/setts/s18/g8r1k1r8g1r8k1r1k8r1k8r1k1r8g1r8k1r1~g006818-k101010-rc80000~x6/sett.png)|

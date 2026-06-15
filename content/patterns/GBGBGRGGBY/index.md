@@ -16,5 +16,5 @@ GBGBGRGGBY
 
 | Tartans |
 |---------------|
-| [Leitrim](/setts/s10/g6b36g8b6g8r26g6g36b4y6-b401000-g808080-rc00000-yff8500/)|
-|![Leitrim example sett](/setts/s10/g6b36g8b6g8r26g6g36b4y6-b401000-g808080-rc00000-yff8500/sett.png)|
+| [Leitrim](/setts/s10/g3b18g4b3g4r13g3g18b2y3~b401000-g808080-rc00000-yff8500~x2/)|
+|![Leitrim example sett](/setts/s10/g3b18g4b3g4r13g3g18b2y3~b401000-g808080-rc00000-yff8500~x2/sett.png)|

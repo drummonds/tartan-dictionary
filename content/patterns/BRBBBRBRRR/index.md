@@ -16,7 +16,7 @@ BRBBBRBRRR
 
 | Tartans |
 |---------------|
-| [Dark Lochnagar](/setts/s10/b12r2b80ba2b24r24ba12r4ra4r8-b343434-ba5c5c5c-r888888-rac80000/)|
-|![Dark Lochnagar example sett](/setts/s10/b12r2b80ba2b24r24ba12r4ra4r8-b343434-ba5c5c5c-r888888-rac80000/sett.png)|
-| [Lochnagar Dark (Fashion)](/setts/s10/b12r2b80ba2b24r24bb12r4ra4r8-b343434-ba5c5c5c-bb780078-r888888-rac80000/)|
-|![Lochnagar Dark (Fashion) example sett](/setts/s10/b12r2b80ba2b24r24bb12r4ra4r8-b343434-ba5c5c5c-bb780078-r888888-rac80000/sett.png)|
+| [Dark Lochnagar](/setts/s10/b6r1b40ba1b12r12ba6r2ra2r4~b343434-ba5c5c5c-r888888-rac80000~x2/)|
+|![Dark Lochnagar example sett](/setts/s10/b6r1b40ba1b12r12ba6r2ra2r4~b343434-ba5c5c5c-r888888-rac80000~x2/sett.png)|
+| [Lochnagar Dark (Fashion)](/setts/s10/b6r1b40ba1b12r12bb6r2ra2r4~b343434-ba5c5c5c-bb780078-r888888-rac80000~x2/)|
+|![Lochnagar Dark (Fashion) example sett](/setts/s10/b6r1b40ba1b12r12bb6r2ra2r4~b343434-ba5c5c5c-bb780078-r888888-rac80000~x2/sett.png)|

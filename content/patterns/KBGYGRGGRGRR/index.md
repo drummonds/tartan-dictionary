@@ -16,5 +16,5 @@ KBGYGRGGRGRR
 
 | Tartans |
 |---------------|
-| [GRM (Fashion)](/setts/s12/k78b6g16y4g4r4g4ga16ra10g4ra6r4-b3850c8-g604000-ga003820-k101010-rc80000-ra880000-ya08858/)|
-|![GRM (Fashion) example sett](/setts/s12/k78b6g16y4g4r4g4ga16ra10g4ra6r4-b3850c8-g604000-ga003820-k101010-rc80000-ra880000-ya08858/sett.png)|
+| [GRM (Fashion)](/setts/s12/k39b3g8y2g2r2g2ga8ra5g2ra3r2~b3850c8-g604000-ga003820-k101010-rc80000-ra880000-ya08858~x2/)|
+|![GRM (Fashion) example sett](/setts/s12/k39b3g8y2g2r2g2ga8ra5g2ra3r2~b3850c8-g604000-ga003820-k101010-rc80000-ra880000-ya08858~x2/sett.png)|

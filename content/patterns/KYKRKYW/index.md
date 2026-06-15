@@ -6,7 +6,7 @@ KYKRKYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k10y50k20r6k20y50w10-k101010-rc80000-wfcfcfc-ya08858/tartan.png)
+![Woven sample](/setts/s7/k5y25k10r3k10y25w5~k101010-rc80000-wfcfcfc-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKRKYW
 
 | Tartans |
 |---------------|
-| [Richmond de Ellel (Personal)](/setts/s7/k10y50k20r6k20y50w10-k101010-rc80000-wfcfcfc-ya08858/)|
-|![Richmond de Ellel (Personal) example sett](/setts/s7/k10y50k20r6k20y50w10-k101010-rc80000-wfcfcfc-ya08858/sett.png)|
+| [Richmond de Ellel (Personal)](/setts/s7/k5y25k10r3k10y25w5~k101010-rc80000-wfcfcfc-ya08858~x2/)|
+|![Richmond de Ellel (Personal) example sett](/setts/s7/k5y25k10r3k10y25w5~k101010-rc80000-wfcfcfc-ya08858~x2/sett.png)|

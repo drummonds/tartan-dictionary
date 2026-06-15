@@ -6,7 +6,7 @@ RKWKGBKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w8k4b36g36k36wa6k36r6-b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8/tartan.png)
+![Woven sample](/setts/s8/w4k2b18g18k18wa3k18r3~b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKWKGBKW
 
 | Tartans |
 |---------------|
-| [Hislop (Name)](/setts/s8/w8k4b36g36k36wa6k36r6-b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8/)|
-|![Hislop (Name) example sett](/setts/s8/w8k4b36g36k36wa6k36r6-b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8/sett.png)|
+| [Hislop (Name)](/setts/s8/w4k2b18g18k18wa3k18r3~b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8~x2/)|
+|![Hislop (Name) example sett](/setts/s8/w4k2b18g18k18wa3k18r3~b5c8ca8-g006818-k101010-rc80000-we0e0e0-wae8e8b8~x2/sett.png)|

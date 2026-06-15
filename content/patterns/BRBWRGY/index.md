@@ -6,7 +6,7 @@ BRBWRGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b50r20b50w16ra12g16y10-b5c8ca8-g289c18-r960028-ra9c68a4-wf8f4d0-yffff00/tartan.png)
+![Woven sample](/setts/s7/b25r10b25w8ra6g8y5~b5c8ca8-g289c18-r960028-ra9c68a4-wf8f4d0-yffff00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBWRGY
 
 | Tartans |
 |---------------|
-| [Barneys (Scunthorpe) (Personal)](/setts/s7/b50r20b50w16ra12g16y10-b5c8ca8-g289c18-r960028-ra9c68a4-wf8f4d0-yffff00/)|
-|![Barneys (Scunthorpe) (Personal) example sett](/setts/s7/b50r20b50w16ra12g16y10-b5c8ca8-g289c18-r960028-ra9c68a4-wf8f4d0-yffff00/sett.png)|
+| [Barneys (Scunthorpe) (Personal)](/setts/s7/b25r10b25w8ra6g8y5~b5c8ca8-g289c18-r960028-ra9c68a4-wf8f4d0-yffff00~x2/)|
+|![Barneys (Scunthorpe) (Personal) example sett](/setts/s7/b25r10b25w8ra6g8y5~b5c8ca8-g289c18-r960028-ra9c68a4-wf8f4d0-yffff00~x2/sett.png)|

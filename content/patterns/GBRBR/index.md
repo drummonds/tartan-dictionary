@@ -6,7 +6,7 @@ GBRBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g44b10r8b10r6-b1c1c1c-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s5/g22b5r4b5r3~b1c1c1c-g006818-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRBR
 
 | Tartans |
 |---------------|
-| [Romsdal](/setts/s5/g44b10r8b10r6-b1c1c1c-g006818-rc80000/)|
-|![Romsdal example sett](/setts/s5/g44b10r8b10r6-b1c1c1c-g006818-rc80000/sett.png)|
+| [Romsdal](/setts/s5/g22b5r4b5r3~b1c1c1c-g006818-rc80000~x2/)|
+|![Romsdal example sett](/setts/s5/g22b5r4b5r3~b1c1c1c-g006818-rc80000~x2/sett.png)|

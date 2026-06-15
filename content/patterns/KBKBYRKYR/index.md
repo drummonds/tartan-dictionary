@@ -16,5 +16,5 @@ KBKBYRKYR
 
 | Tartans |
 |---------------|
-| [Craigholme (Corporate)](/setts/s9/k48b4k48b28y6r72k36y10r6-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Craigholme (Corporate) example sett](/setts/s9/k48b4k48b28y6r72k36y10r6-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Craigholme (Corporate)](/setts/s9/k24b2k24b14y3r36k18y5r3~b2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![Craigholme (Corporate) example sett](/setts/s9/k24b2k24b14y3r36k18y5r3~b2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

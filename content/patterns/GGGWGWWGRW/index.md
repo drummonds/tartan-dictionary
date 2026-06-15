@@ -16,5 +16,5 @@ GGGWGWWGRW
 
 | Tartans |
 |---------------|
-| [Rikaco Eve](/setts/s10/g8ga8g4w72ga28w4wa8g14r10w6-g1b6453-ga787878-rb03060-wffffe0-wa87ceeb/)|
-|![Rikaco Eve example sett](/setts/s10/g8ga8g4w72ga28w4wa8g14r10w6-g1b6453-ga787878-rb03060-wffffe0-wa87ceeb/sett.png)|
+| [Rikaco Eve](/setts/s10/g4ga4g2w36ga14w2wa4g7r5w3~g1b6453-ga787878-rb03060-wffffe0-wa87ceeb~x2/)|
+|![Rikaco Eve example sett](/setts/s10/g4ga4g2w36ga14w2wa4g7r5w3~g1b6453-ga787878-rb03060-wffffe0-wa87ceeb~x2/sett.png)|

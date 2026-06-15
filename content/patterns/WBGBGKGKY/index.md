@@ -16,11 +16,11 @@ WBGBGKGKY
 
 | Tartans |
 |---------------|
-| [Henderson/MacKendrick](/setts/s9/w4b24g16b4g64k4g16k24y4-b2c2c80-g006818-k101010-we0e0e0-ye8c000/)|
-|![Henderson/MacKendrick example sett](/setts/s9/w4b24g16b4g64k4g16k24y4-b2c2c80-g006818-k101010-we0e0e0-ye8c000/sett.png)|
-| [MacKendrick](/setts/s9/w2b12g8b2g32k2g8k12y2-b2c2c80-g006818-k101010-we0e0e0-ye8c000/)|
-|![MacKendrick example sett](/setts/s9/w2b12g8b2g32k2g8k12y2-b2c2c80-g006818-k101010-we0e0e0-ye8c000/sett.png)|
-| [Henderson](/setts/s9/w2b12g8b2g32k2g8k12y2-b00004c-g004c00-k000000-wd0d0d0-yffc800/)|
-|![Henderson example sett](/setts/s9/w2b12g8b2g32k2g8k12y2-b00004c-g004c00-k000000-wd0d0d0-yffc800/sett.png)|
-| [Henderson, MacKendrick](/setts/s9/w2b12g8b2g32k2g8k12y2-b304080-g008000-k000000-we0e0e0-yf0c000/)|
-|![Henderson, MacKendrick example sett](/setts/s9/w2b12g8b2g32k2g8k12y2-b304080-g008000-k000000-we0e0e0-yf0c000/sett.png)|
+| [Henderson/MacKendrick](/setts/s9/w1b6g4b1g16k1g4k6y1~b2c2c80-g006818-k101010-we0e0e0-ye8c000~x4/)|
+|![Henderson/MacKendrick example sett](/setts/s9/w1b6g4b1g16k1g4k6y1~b2c2c80-g006818-k101010-we0e0e0-ye8c000~x4/sett.png)|
+| [MacKendrick](/setts/s9/w1b6g4b1g16k1g4k6y1~b2c2c80-g006818-k101010-we0e0e0-ye8c000~x2/)|
+|![MacKendrick example sett](/setts/s9/w1b6g4b1g16k1g4k6y1~b2c2c80-g006818-k101010-we0e0e0-ye8c000~x2/sett.png)|
+| [Henderson](/setts/s9/w1b6g4b1g16k1g4k6y1~b00004c-g004c00-k000000-wd0d0d0-yffc800~x2/)|
+|![Henderson example sett](/setts/s9/w1b6g4b1g16k1g4k6y1~b00004c-g004c00-k000000-wd0d0d0-yffc800~x2/sett.png)|
+| [Henderson, MacKendrick](/setts/s9/w1b6g4b1g16k1g4k6y1~b304080-g008000-k000000-we0e0e0-yf0c000~x2/)|
+|![Henderson, MacKendrick example sett](/setts/s9/w1b6g4b1g16k1g4k6y1~b304080-g008000-k000000-we0e0e0-yf0c000~x2/sett.png)|

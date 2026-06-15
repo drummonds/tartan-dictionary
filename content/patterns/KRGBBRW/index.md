@@ -6,7 +6,7 @@ KRGBBRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w66r14b18ba14g24ra6k58-b1c1c50-ba780078-g006818-k101010-r880000-rac80000-wc49cd8/tartan.png)
+![Woven sample](/setts/s7/w33r7b9ba7g12ra3k29~b1c1c50-ba780078-g006818-k101010-r880000-rac80000-wc49cd8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRGBBRW
 
 | Tartans |
 |---------------|
-| [Hatcher (Personal)](/setts/s7/w66r14b18ba14g24ra6k58-b1c1c50-ba780078-g006818-k101010-r880000-rac80000-wc49cd8/)|
-|![Hatcher (Personal) example sett](/setts/s7/w66r14b18ba14g24ra6k58-b1c1c50-ba780078-g006818-k101010-r880000-rac80000-wc49cd8/sett.png)|
+| [Hatcher (Personal)](/setts/s7/w33r7b9ba7g12ra3k29~b1c1c50-ba780078-g006818-k101010-r880000-rac80000-wc49cd8~x2/)|
+|![Hatcher (Personal) example sett](/setts/s7/w33r7b9ba7g12ra3k29~b1c1c50-ba780078-g006818-k101010-r880000-rac80000-wc49cd8~x2/sett.png)|

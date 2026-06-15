@@ -16,5 +16,5 @@ RYRWBGBBBY
 
 | Tartans |
 |---------------|
-| [State Seal of Florida (Fashion)](/setts/s10/r6y42r28w6b22g72ba6b6ba8y6-b2c2c80-ba441800-g006818-r880000-we8ccb8-ya08858/)|
-|![State Seal of Florida (Fashion) example sett](/setts/s10/r6y42r28w6b22g72ba6b6ba8y6-b2c2c80-ba441800-g006818-r880000-we8ccb8-ya08858/sett.png)|
+| [State Seal of Florida (Fashion)](/setts/s10/r3y21r14w3b11g36ba3b3ba4y3~b2c2c80-ba441800-g006818-r880000-we8ccb8-ya08858~x2/)|
+|![State Seal of Florida (Fashion) example sett](/setts/s10/r3y21r14w3b11g36ba3b3ba4y3~b2c2c80-ba441800-g006818-r880000-we8ccb8-ya08858~x2/sett.png)|

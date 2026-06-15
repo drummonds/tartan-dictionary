@@ -6,7 +6,7 @@ BKYBGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b40k12y8b6g40w4-b38409c-g006818-k101010-wfcfcfc-ya08858/tartan.png)
+![Woven sample](/setts/s6/b20k6y4b3g20w2~b38409c-g006818-k101010-wfcfcfc-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKYBGW
 
 | Tartans |
 |---------------|
-| [DeLoughery (Personal)](/setts/s6/b40k12y8b6g40w4-b38409c-g006818-k101010-wfcfcfc-ya08858/)|
-|![DeLoughery (Personal) example sett](/setts/s6/b40k12y8b6g40w4-b38409c-g006818-k101010-wfcfcfc-ya08858/sett.png)|
+| [DeLoughery (Personal)](/setts/s6/b20k6y4b3g20w2~b38409c-g006818-k101010-wfcfcfc-ya08858~x2/)|
+|![DeLoughery (Personal) example sett](/setts/s6/b20k6y4b3g20w2~b38409c-g006818-k101010-wfcfcfc-ya08858~x2/sett.png)|

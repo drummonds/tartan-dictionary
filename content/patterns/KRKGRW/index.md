@@ -6,7 +6,7 @@ KRKGRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k4r40k16g36r6w4-g005010-k101010-rc04c04-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/k2r20k8g18r3w2~g005010-k101010-rc04c04-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKGRW
 
 | Tartans |
 |---------------|
-| [Celtic Combat](/setts/s6/k4r40k16g36r6w4-g005010-k101010-rc04c04-we0e0e0/)|
-|![Celtic Combat example sett](/setts/s6/k4r40k16g36r6w4-g005010-k101010-rc04c04-we0e0e0/sett.png)|
+| [Celtic Combat](/setts/s6/k2r20k8g18r3w2~g005010-k101010-rc04c04-we0e0e0~x2/)|
+|![Celtic Combat example sett](/setts/s6/k2r20k8g18r3w2~g005010-k101010-rc04c04-we0e0e0~x2/sett.png)|

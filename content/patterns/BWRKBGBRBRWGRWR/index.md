@@ -16,5 +16,5 @@ BWRKBGBRBRWGRWR
 
 | Tartans |
 |---------------|
-| [MacFarlane Dress](/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/)|
-|![MacFarlane Dress example sett](/setts/s15/b8w4r12k2b24g8b4r12b2r12w4g16r4w32r8-b202060-g003820-k101010-rc80000-wfcfcfc/sett.png)|
+| [MacFarlane Dress](/setts/s15/b4w2r6k1b12g4b2r6b1r6w2g8r2w16r4~b202060-g003820-k101010-rc80000-wfcfcfc~x2/)|
+|![MacFarlane Dress example sett](/setts/s15/b4w2r6k1b12g4b2r6b1r6w2g8r2w16r4~b202060-g003820-k101010-rc80000-wfcfcfc~x2/sett.png)|

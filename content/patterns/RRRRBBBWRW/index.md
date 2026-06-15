@@ -16,5 +16,5 @@ RRRRBBBWRW
 
 | Tartans |
 |---------------|
-| [Outpost Club](/setts/s10/w12r10w18b4ba6b4ra72r4ra8r4-b000048-ba2474e8-rb03000-ra98481c-we8ccb8/)|
-|![Outpost Club example sett](/setts/s10/w12r10w18b4ba6b4ra72r4ra8r4-b000048-ba2474e8-rb03000-ra98481c-we8ccb8/sett.png)|
+| [Outpost Club](/setts/s10/w6r5w9b2ba3b2ra36r2ra4r2~b000048-ba2474e8-rb03000-ra98481c-we8ccb8~x2/)|
+|![Outpost Club example sett](/setts/s10/w6r5w9b2ba3b2ra36r2ra4r2~b000048-ba2474e8-rb03000-ra98481c-we8ccb8~x2/sett.png)|

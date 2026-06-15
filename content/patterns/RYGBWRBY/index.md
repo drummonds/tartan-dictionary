@@ -6,7 +6,7 @@ RYGBWRBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6y30g8b12w4r60b12ya6-b3c82af-g007800-r800028-wffffff-ye0a126-yaffff00/tartan.png)
+![Woven sample](/setts/s8/r3y15g4b6w2r30b6ya3~b3c82af-g007800-r800028-wffffff-ye0a126-yaffff00~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RYGBWRBY
 
 | Tartans |
 |---------------|
-| [Round Table Sweden](/setts/s8/r6y30g8b12w4r60b12ya6-b3c82af-g007800-r800028-wffffff-ye0a126-yaffff00/)|
-|![Round Table Sweden example sett](/setts/s8/r6y30g8b12w4r60b12ya6-b3c82af-g007800-r800028-wffffff-ye0a126-yaffff00/sett.png)|
-| [Round Table Sweden](/setts/s8/r6y30g8b12w4r60b12ya6-b003c64-g006818-ra00000-wfcfcfc-yd09800-yafccc00/)|
-|![Round Table Sweden example sett](/setts/s8/r6y30g8b12w4r60b12ya6-b003c64-g006818-ra00000-wfcfcfc-yd09800-yafccc00/sett.png)|
+| [Round Table Sweden](/setts/s8/r3y15g4b6w2r30b6ya3~b3c82af-g007800-r800028-wffffff-ye0a126-yaffff00~x2/)|
+|![Round Table Sweden example sett](/setts/s8/r3y15g4b6w2r30b6ya3~b3c82af-g007800-r800028-wffffff-ye0a126-yaffff00~x2/sett.png)|
+| [Round Table Sweden](/setts/s8/r3y15g4b6w2r30b6ya3~b003c64-g006818-ra00000-wfcfcfc-yd09800-yafccc00~x2/)|
+|![Round Table Sweden example sett](/setts/s8/r3y15g4b6w2r30b6ya3~b003c64-g006818-ra00000-wfcfcfc-yd09800-yafccc00~x2/sett.png)|

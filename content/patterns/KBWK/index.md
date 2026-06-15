@@ -6,7 +6,7 @@ KBWK
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k10w48b48ka10-b666666-k000000-ka101010-wffffff/tartan.png)
+![Woven sample](/setts/s4/k5w24b24ka5~b666666-k000000-ka101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBWK
 
 | Tartans |
 |---------------|
-| [City of London](/setts/s4/k10w48b48ka10-b666666-k000000-ka101010-wffffff/)|
-|![City of London example sett](/setts/s4/k10w48b48ka10-b666666-k000000-ka101010-wffffff/sett.png)|
+| [City of London](/setts/s4/k5w24b24ka5~b666666-k000000-ka101010-wffffff~x2/)|
+|![City of London example sett](/setts/s4/k5w24b24ka5~b666666-k000000-ka101010-wffffff~x2/sett.png)|

@@ -6,7 +6,7 @@ RBWBWYGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8g20y2w2b8w2b50r4-b14283c-g003820-r880000-wc0c0c0-yd09800/tartan.png)
+![Woven sample](/setts/s8/r4g10y1w1b4w1b25r2~b14283c-g003820-r880000-wc0c0c0-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBWBWYGR
 
 | Tartans |
 |---------------|
-| [Raymond of Doune](/setts/s8/r8g20y2w2b8w2b50r4-b14283c-g003820-r880000-wc0c0c0-yd09800/)|
-|![Raymond of Doune example sett](/setts/s8/r8g20y2w2b8w2b50r4-b14283c-g003820-r880000-wc0c0c0-yd09800/sett.png)|
+| [Raymond of Doune](/setts/s8/r4g10y1w1b4w1b25r2~b14283c-g003820-r880000-wc0c0c0-yd09800~x2/)|
+|![Raymond of Doune example sett](/setts/s8/r4g10y1w1b4w1b25r2~b14283c-g003820-r880000-wc0c0c0-yd09800~x2/sett.png)|

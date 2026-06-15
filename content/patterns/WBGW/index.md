@@ -6,7 +6,7 @@ WBGW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/w2b8g20wa2-b280034-g044028-w00fcfc-wafcfcfc/tartan.png)
+![Woven sample](/setts/s4/w1b4g10wa1~b280034-g044028-w00fcfc-wafcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBGW
 
 | Tartans |
 |---------------|
-| [Wilson's No.205](/setts/s4/w2b8g20wa2-b280034-g044028-w00fcfc-wafcfcfc/)|
-|![Wilson's No.205 example sett](/setts/s4/w2b8g20wa2-b280034-g044028-w00fcfc-wafcfcfc/sett.png)|
+| [Wilson's No.205](/setts/s4/w1b4g10wa1~b280034-g044028-w00fcfc-wafcfcfc~x2/)|
+|![Wilson's No.205 example sett](/setts/s4/w1b4g10wa1~b280034-g044028-w00fcfc-wafcfcfc~x2/sett.png)|

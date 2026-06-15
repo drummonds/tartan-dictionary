@@ -16,5 +16,5 @@ GWBBRKRBBWGY
 
 | Tartans |
 |---------------|
-| [Jefferson (Personal)](/setts/s12/g56w4b40ba18r44k14r44ba18b40w4g56y14-b440044-ba5c8ca8-g006818-k101010-rc80000-wc0c0c0-ye8c000/)|
-|![Jefferson (Personal) example sett](/setts/s12/g56w4b40ba18r44k14r44ba18b40w4g56y14-b440044-ba5c8ca8-g006818-k101010-rc80000-wc0c0c0-ye8c000/sett.png)|
+| [Jefferson (Personal)](/setts/s12/g28w2b20ba9r22k7r22ba9b20w2g28y7~b440044-ba5c8ca8-g006818-k101010-rc80000-wc0c0c0-ye8c000~x2/)|
+|![Jefferson (Personal) example sett](/setts/s12/g28w2b20ba9r22k7r22ba9b20w2g28y7~b440044-ba5c8ca8-g006818-k101010-rc80000-wc0c0c0-ye8c000~x2/sett.png)|

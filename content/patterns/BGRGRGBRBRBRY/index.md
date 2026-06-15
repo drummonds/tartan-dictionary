@@ -16,5 +16,5 @@ BGRGRGBRBRBRY
 
 | Tartans |
 |---------------|
-| [Cuthill (Personal)](/setts/s13/b6g8r4g6r6g32ba32ra32b6ra6b4ra8y6-b2c2c80-ba003c64-g006818-rc80000-ra880000-ye8c000/)|
-|![Cuthill (Personal) example sett](/setts/s13/b6g8r4g6r6g32ba32ra32b6ra6b4ra8y6-b2c2c80-ba003c64-g006818-rc80000-ra880000-ye8c000/sett.png)|
+| [Cuthill (Personal)](/setts/s13/b3g4r2g3r3g16ba16ra16b3ra3b2ra4y3~b2c2c80-ba003c64-g006818-rc80000-ra880000-ye8c000~x2/)|
+|![Cuthill (Personal) example sett](/setts/s13/b3g4r2g3r3g16ba16ra16b3ra3b2ra4y3~b2c2c80-ba003c64-g006818-rc80000-ra880000-ye8c000~x2/sett.png)|

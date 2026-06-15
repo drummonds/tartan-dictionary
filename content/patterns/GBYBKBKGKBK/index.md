@@ -16,5 +16,5 @@ GBYBKBKGKBK
 
 | Tartans |
 |---------------|
-| [Fort William](/setts/s11/g34b4y4b4k42b4k6g60k4b4k8-b5c8ca8-g5c6428-k101010-y9c9c00/)|
-|![Fort William example sett](/setts/s11/g34b4y4b4k42b4k6g60k4b4k8-b5c8ca8-g5c6428-k101010-y9c9c00/sett.png)|
+| [Fort William](/setts/s11/g17b2y2b2k21b2k3g30k2b2k4~b5c8ca8-g5c6428-k101010-y9c9c00~x2/)|
+|![Fort William example sett](/setts/s11/g17b2y2b2k21b2k3g30k2b2k4~b5c8ca8-g5c6428-k101010-y9c9c00~x2/sett.png)|

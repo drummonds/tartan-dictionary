@@ -16,5 +16,5 @@ WKRGRBRGRBRKY
 
 | Tartans |
 |---------------|
-| [Robieson (Name)](/setts/s13/w6k6r48g6r6b48r6g48r6b6r48k6y6-b1c1c50-g006818-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Robieson (Name) example sett](/setts/s13/w6k6r48g6r6b48r6g48r6b6r48k6y6-b1c1c50-g006818-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Robieson (Name)](/setts/s13/w1k1r8g1r1b8r1g8r1b1r8k1y1~b1c1c50-g006818-k101010-rc80000-wf8f8f8-ye8c000~x6/)|
+|![Robieson (Name) example sett](/setts/s13/w1k1r8g1r1b8r1g8r1b1r8k1y1~b1c1c50-g006818-k101010-rc80000-wf8f8f8-ye8c000~x6/sett.png)|

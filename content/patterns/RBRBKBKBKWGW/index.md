@@ -16,7 +16,7 @@ RBRBKBKBKWGW
 
 | Tartans |
 |---------------|
-| [Sutherland Dress, Old (Dance)](/setts/s12/w12g4w54k20b8k8b8k8b30r4b4r8-b405464-g003820-k101010-rc80000-wf0e4cc/)|
-|![Sutherland Dress, Old (Dance) example sett](/setts/s12/w12g4w54k20b8k8b8k8b30r4b4r8-b405464-g003820-k101010-rc80000-wf0e4cc/sett.png)|
-| [Sutherland, Dress](/setts/s12/w10g4w46k14b8k6b6k6b22r4b4r6-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![Sutherland, Dress example sett](/setts/s12/w10g4w46k14b8k6b6k6b22r4b4r6-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Sutherland Dress, Old (Dance)](/setts/s12/w6g2w27k10b4k4b4k4b15r2b2r4~b405464-g003820-k101010-rc80000-wf0e4cc~x2/)|
+|![Sutherland Dress, Old (Dance) example sett](/setts/s12/w6g2w27k10b4k4b4k4b15r2b2r4~b405464-g003820-k101010-rc80000-wf0e4cc~x2/sett.png)|
+| [Sutherland, Dress](/setts/s12/w5g2w23k7b4k3b3k3b11r2b2r3~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![Sutherland, Dress example sett](/setts/s12/w5g2w23k7b4k3b3k3b11r2b2r3~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

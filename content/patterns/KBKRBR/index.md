@@ -6,7 +6,7 @@ KBKRBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r52b6r8k32ba32k8-b5480b0-ba304080-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s6/r26b3r4k16ba16k4~b5480b0-ba304080-k000000-rc00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKRBR
 
 | Tartans |
 |---------------|
-| [Graham of Menteith, (Red)](/setts/s6/r52b6r8k32ba32k8-b5480b0-ba304080-k000000-rc00000/)|
-|![Graham of Menteith, (Red) example sett](/setts/s6/r52b6r8k32ba32k8-b5480b0-ba304080-k000000-rc00000/sett.png)|
+| [Graham of Menteith, (Red)](/setts/s6/r26b3r4k16ba16k4~b5480b0-ba304080-k000000-rc00000~x2/)|
+|![Graham of Menteith, (Red) example sett](/setts/s6/r26b3r4k16ba16k4~b5480b0-ba304080-k000000-rc00000~x2/sett.png)|

@@ -6,7 +6,7 @@ GRBYBRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g20r25b20y20ba10ra20r20-b2c2c80-ba441800-g003820-rc80000-ra888888-yfccc00/tartan.png)
+![Woven sample](/setts/s7/g4r5b4y4ba2ra4r4~b2c2c80-ba441800-g003820-rc80000-ra888888-yfccc00~x5/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRBYBRR
 
 | Tartans |
 |---------------|
-| [Krifa-Jean (Personal)](/setts/s7/g20r25b20y20ba10ra20r20-b2c2c80-ba441800-g003820-rc80000-ra888888-yfccc00/)|
-|![Krifa-Jean (Personal) example sett](/setts/s7/g20r25b20y20ba10ra20r20-b2c2c80-ba441800-g003820-rc80000-ra888888-yfccc00/sett.png)|
+| [Krifa-Jean (Personal)](/setts/s7/g4r5b4y4ba2ra4r4~b2c2c80-ba441800-g003820-rc80000-ra888888-yfccc00~x5/)|
+|![Krifa-Jean (Personal) example sett](/setts/s7/g4r5b4y4ba2ra4r4~b2c2c80-ba441800-g003820-rc80000-ra888888-yfccc00~x5/sett.png)|

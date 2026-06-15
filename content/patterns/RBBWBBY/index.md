@@ -6,7 +6,7 @@ RBBWBBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4b72ba72w6ba72b72y4-b304080-ba5480b0-rc00000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s7/r2b36ba36w3ba36b36y2~b304080-ba5480b0-rc00000-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBWBBY
 
 | Tartans |
 |---------------|
-| [MacKerrell](/setts/s7/r4b72ba72w6ba72b72y4-b304080-ba5480b0-rc00000-we0e0e0-yf0c000/)|
-|![MacKerrell example sett](/setts/s7/r4b72ba72w6ba72b72y4-b304080-ba5480b0-rc00000-we0e0e0-yf0c000/sett.png)|
+| [MacKerrell](/setts/s7/r2b36ba36w3ba36b36y2~b304080-ba5480b0-rc00000-we0e0e0-yf0c000~x2/)|
+|![MacKerrell example sett](/setts/s7/r2b36ba36w3ba36b36y2~b304080-ba5480b0-rc00000-we0e0e0-yf0c000~x2/sett.png)|

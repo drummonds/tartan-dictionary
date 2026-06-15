@@ -16,5 +16,5 @@ GRGKBYBKRGRG
 
 | Tartans |
 |---------------|
-| [Akins of Candler (Personal)](/setts/s12/g24r4g4r4k24b24y4b24k4g22r4g4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Akins of Candler (Personal) example sett](/setts/s12/g24r4g4r4k24b24y4b24k4g22r4g4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Akins of Candler (Personal)](/setts/s12/g12r2g2r2k12b12y2b12k2g11r2g2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Akins of Candler (Personal) example sett](/setts/s12/g12r2g2r2k12b12y2b12k2g11r2g2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

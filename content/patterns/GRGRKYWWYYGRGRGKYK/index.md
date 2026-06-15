@@ -16,5 +16,5 @@ GRGRKYWWYYGRGRGKYK
 
 | Tartans |
 |---------------|
-| [Bear (Corporate)](/setts/s18/g48r4g4r24k8y8w8wa8ya8yb8g8r24g4r4g48k2y4k2-g603800-k101010-ra07c58-wfcfcfc-waf0e8d0-yb0b0b0-yaf0c800-ybd07c00/)|
-|![Bear (Corporate) example sett](/setts/s18/g48r4g4r24k8y8w8wa8ya8yb8g8r24g4r4g48k2y4k2-g603800-k101010-ra07c58-wfcfcfc-waf0e8d0-yb0b0b0-yaf0c800-ybd07c00/sett.png)|
+| [Bear (Corporate)](/setts/s18/g24r2g2r12k4y4w4wa4ya4yb4g4r12g2r2g24k1y2k1~g603800-k101010-ra07c58-wfcfcfc-waf0e8d0-yb0b0b0-yaf0c800-ybd07c00~x2/)|
+|![Bear (Corporate) example sett](/setts/s18/g24r2g2r12k4y4w4wa4ya4yb4g4r12g2r2g24k1y2k1~g603800-k101010-ra07c58-wfcfcfc-waf0e8d0-yb0b0b0-yaf0c800-ybd07c00~x2/sett.png)|

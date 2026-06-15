@@ -16,5 +16,5 @@ RYKRWRKRW
 
 | Tartans |
 |---------------|
-| [Drummond of Perth Dress Clan Tartan Tartan Number: 1717. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r80y2k4ra2w30r10k10ra10w2-k101010-rc80000-ra888888-we0e0e0-ye8c000/)|
-|![Drummond of Perth Dress Clan Tartan Tartan Number: 1717. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/r80y2k4ra2w30r10k10ra10w2-k101010-rc80000-ra888888-we0e0e0-ye8c000/sett.png)|
+| [Drummond of Perth Dress Clan Tartan Tartan Number: 1717. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r40y1k2ra1w15r5k5ra5w1~k101010-rc80000-ra888888-we0e0e0-ye8c000~x2/)|
+|![Drummond of Perth Dress Clan Tartan Tartan Number: 1717. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/r40y1k2ra1w15r5k5ra5w1~k101010-rc80000-ra888888-we0e0e0-ye8c000~x2/sett.png)|

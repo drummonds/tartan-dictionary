@@ -6,7 +6,7 @@ GRGRGBGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g40r4g4r8g32b40g4y4-b0000b4-g004800-r9c0030-yfcc800/tartan.png)
+![Woven sample](/setts/s8/g10r1g1r2g8b10g1y1~b0000b4-g004800-r9c0030-yfcc800~x4/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ GRGRGBGY
 
 | Tartans |
 |---------------|
-| [Glen Esk](/setts/s8/g40r4g4r8g32b40g4y4-b0000b4-g004800-r9c0030-yfcc800/)|
-|![Glen Esk example sett](/setts/s8/g40r4g4r8g32b40g4y4-b0000b4-g004800-r9c0030-yfcc800/sett.png)|
-| [Glen Nevis #1](/setts/s8/g16r4g4r6g16b24g4y4-b000064-g002814-r880000-yc89600/)|
-|![Glen Nevis #1 example sett](/setts/s8/g16r4g4r6g16b24g4y4-b000064-g002814-r880000-yc89600/sett.png)|
-| [Glen Nevis #1 (Fashion)](/setts/s8/g16r4g4r6g16b24g4y4-b1c0070-g003820-r880000-ye8c000/)|
-|![Glen Nevis #1 (Fashion) example sett](/setts/s8/g16r4g4r6g16b24g4y4-b1c0070-g003820-r880000-ye8c000/sett.png)|
+| [Glen Esk](/setts/s8/g10r1g1r2g8b10g1y1~b0000b4-g004800-r9c0030-yfcc800~x4/)|
+|![Glen Esk example sett](/setts/s8/g10r1g1r2g8b10g1y1~b0000b4-g004800-r9c0030-yfcc800~x4/sett.png)|
+| [Glen Nevis #1](/setts/s8/g8r2g2r3g8b12g2y2~b000064-g002814-r880000-yc89600~x2/)|
+|![Glen Nevis #1 example sett](/setts/s8/g8r2g2r3g8b12g2y2~b000064-g002814-r880000-yc89600~x2/sett.png)|
+| [Glen Nevis #1 (Fashion)](/setts/s8/g8r2g2r3g8b12g2y2~b1c0070-g003820-r880000-ye8c000~x2/)|
+|![Glen Nevis #1 (Fashion) example sett](/setts/s8/g8r2g2r3g8b12g2y2~b1c0070-g003820-r880000-ye8c000~x2/sett.png)|

@@ -16,9 +16,9 @@ BRGRBBKRGRGRB
 
 | Tartans |
 |---------------|
-| [Nicolson/MacNicol](/setts/s13/b4r22g4r22g42r4k18ba4b22r22g4r22b4-b2c4084-ba3c82af-g005020-k101010-rdc0000/)|
-|![Nicolson/MacNicol example sett](/setts/s13/b4r22g4r22g42r4k18ba4b22r22g4r22b4-b2c4084-ba3c82af-g005020-k101010-rdc0000/sett.png)|
-| [Nicolson](/setts/s13/b4r22g4r22g42r4k18ba4b22r22g4r22b4-b304080-ba5480b0-g008000-k000000-rc00000/)|
-|![Nicolson example sett](/setts/s13/b4r22g4r22g42r4k18ba4b22r22g4r22b4-b304080-ba5480b0-g008000-k000000-rc00000/sett.png)|
-| [Nicholson Clan Tartan Tartan Number: 498. Earliest known date: 1845-7 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b4r22g4r22g42r4k18ba4b22r22g4r22b4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000/)|
-|![Nicholson Clan Tartan Tartan Number: 498. Earliest known date: 1845-7 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b4r22g4r22g42r4k18ba4b22r22g4r22b4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Nicolson/MacNicol](/setts/s13/b2r11g2r11g21r2k9ba2b11r11g2r11b2~b2c4084-ba3c82af-g005020-k101010-rdc0000~x2/)|
+|![Nicolson/MacNicol example sett](/setts/s13/b2r11g2r11g21r2k9ba2b11r11g2r11b2~b2c4084-ba3c82af-g005020-k101010-rdc0000~x2/sett.png)|
+| [Nicolson](/setts/s13/b2r11g2r11g21r2k9ba2b11r11g2r11b2~b304080-ba5480b0-g008000-k000000-rc00000~x2/)|
+|![Nicolson example sett](/setts/s13/b2r11g2r11g21r2k9ba2b11r11g2r11b2~b304080-ba5480b0-g008000-k000000-rc00000~x2/sett.png)|
+| [Nicholson Clan Tartan Tartan Number: 498. Earliest known date: 1845-7 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/b2r11g2r11g21r2k9ba2b11r11g2r11b2~b2c2c80-ba5c8ca8-g006818-k101010-rc80000~x2/)|
+|![Nicholson Clan Tartan Tartan Number: 498. Earliest known date: 1845-7 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s13/b2r11g2r11g21r2k9ba2b11r11g2r11b2~b2c2c80-ba5c8ca8-g006818-k101010-rc80000~x2/sett.png)|

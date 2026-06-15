@@ -16,5 +16,5 @@ GRRRGRRRRRRRRRRR
 
 | Tartans |
 |---------------|
-| [Sarna](/setts/s16/r26ra2r4ra4r4ra2r4ra10r22ra2r4g4r4ra2r4g14-g008000-r806050-rac00000/)|
-|![Sarna example sett](/setts/s16/r26ra2r4ra4r4ra2r4ra10r22ra2r4g4r4ra2r4g14-g008000-r806050-rac00000/sett.png)|
+| [Sarna](/setts/s16/r13ra1r2ra2r2ra1r2ra5r11ra1r2g2r2ra1r2g7~g008000-r806050-rac00000~x2/)|
+|![Sarna example sett](/setts/s16/r13ra1r2ra2r2ra1r2ra5r11ra1r2g2r2ra1r2g7~g008000-r806050-rac00000~x2/sett.png)|

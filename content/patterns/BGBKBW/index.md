@@ -6,7 +6,7 @@ BGBKBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b12g54b6k38ba54w6-b2c2c80-ba780078-g006818-k101010-wf8f8f8/tartan.png)
+![Woven sample](/setts/s6/b6g27b3k19ba27w3~b2c2c80-ba780078-g006818-k101010-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBKBW
 
 | Tartans |
 |---------------|
-| [Gold Brothers](/setts/s6/b12g54b6k38ba54w6-b2c2c80-ba780078-g006818-k101010-wf8f8f8/)|
-|![Gold Brothers example sett](/setts/s6/b12g54b6k38ba54w6-b2c2c80-ba780078-g006818-k101010-wf8f8f8/sett.png)|
+| [Gold Brothers](/setts/s6/b6g27b3k19ba27w3~b2c2c80-ba780078-g006818-k101010-wf8f8f8~x2/)|
+|![Gold Brothers example sett](/setts/s6/b6g27b3k19ba27w3~b2c2c80-ba780078-g006818-k101010-wf8f8f8~x2/sett.png)|

@@ -16,5 +16,5 @@ RBRBKBGRGRKBGBGBRR
 
 | Tartans |
 |---------------|
-| [Cooper/Couper (James Cant)](/setts/s18/r4ra6b4g36b6g4b6k20ra6g4ra6g16b4k4b28ra6b4r4-b202060-g006818-k101010-rc80000-rab468ac/)|
-|![Cooper/Couper (James Cant) example sett](/setts/s18/r4ra6b4g36b6g4b6k20ra6g4ra6g16b4k4b28ra6b4r4-b202060-g006818-k101010-rc80000-rab468ac/sett.png)|
+| [Cooper/Couper (James Cant)](/setts/s18/r2ra3b2g18b3g2b3k10ra3g2ra3g8b2k2b14ra3b2r2~b202060-g006818-k101010-rc80000-rab468ac~x2/)|
+|![Cooper/Couper (James Cant) example sett](/setts/s18/r2ra3b2g18b3g2b3k10ra3g2ra3g8b2k2b14ra3b2r2~b202060-g006818-k101010-rc80000-rab468ac~x2/sett.png)|

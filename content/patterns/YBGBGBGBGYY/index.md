@@ -16,5 +16,5 @@ YBGBGBGBGYY
 
 | Tartans |
 |---------------|
-| [Bute Heather, Ancient Wth'd (Fashion](/setts/s11/y10b4g16b2g16b8g8b12g36ya2y10-b5c5c5c-g707070-ya08858-yaa0a0a0/)|
-|![Bute Heather, Ancient Wth'd (Fashion example sett](/setts/s11/y10b4g16b2g16b8g8b12g36ya2y10-b5c5c5c-g707070-ya08858-yaa0a0a0/sett.png)|
+| [Bute Heather, Ancient Wth'd (Fashion](/setts/s11/y5b2g8b1g8b4g4b6g18ya1y5~b5c5c5c-g707070-ya08858-yaa0a0a0~x2/)|
+|![Bute Heather, Ancient Wth'd (Fashion example sett](/setts/s11/y5b2g8b1g8b4g4b6g18ya1y5~b5c5c5c-g707070-ya08858-yaa0a0a0~x2/sett.png)|

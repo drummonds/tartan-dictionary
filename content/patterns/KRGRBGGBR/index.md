@@ -16,5 +16,5 @@ KRGRBGGBR
 
 | Tartans |
 |---------------|
-| [Mann](/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/)|
-|![Mann example sett](/setts/s9/k6r4g8r2b50ga24g28b6r2-b202060-g604000-ga006818-k101010-rc80000/sett.png)|
+| [Mann](/setts/s9/k3r2g4r1b25ga12g14b3r1~b202060-g604000-ga006818-k101010-rc80000~x2/)|
+|![Mann example sett](/setts/s9/k3r2g4r1b25ga12g14b3r1~b202060-g604000-ga006818-k101010-rc80000~x2/sett.png)|

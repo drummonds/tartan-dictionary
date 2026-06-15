@@ -16,7 +16,7 @@ WGWRWGWRW
 
 | Tartans |
 |---------------|
-| [O'Neill Pipe Band 1999/ Oliver dress](/setts/s9/w8g4w8r24w40g24w8r4w8-g289c18-rc80028-we0e0e0/)|
-|![O'Neill Pipe Band 1999/ Oliver dress example sett](/setts/s9/w8g4w8r24w40g24w8r4w8-g289c18-rc80028-we0e0e0/sett.png)|
-| [O'Neill](/setts/s9/w4g2w4r12w20g12w4r2w4-g008000-r806050-we0e0e0/)|
-|![O'Neill example sett](/setts/s9/w4g2w4r12w20g12w4r2w4-g008000-r806050-we0e0e0/sett.png)|
+| [O'Neill Pipe Band 1999/ Oliver dress](/setts/s9/w2g1w2r6w10g6w2r1w2~g289c18-rc80028-we0e0e0~x4/)|
+|![O'Neill Pipe Band 1999/ Oliver dress example sett](/setts/s9/w2g1w2r6w10g6w2r1w2~g289c18-rc80028-we0e0e0~x4/sett.png)|
+| [O'Neill](/setts/s9/w2g1w2r6w10g6w2r1w2~g008000-r806050-we0e0e0~x2/)|
+|![O'Neill example sett](/setts/s9/w2g1w2r6w10g6w2r1w2~g008000-r806050-we0e0e0~x2/sett.png)|

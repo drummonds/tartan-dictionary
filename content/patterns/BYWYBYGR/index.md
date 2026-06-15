@@ -6,7 +6,7 @@ BYWYBYGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4y36w12ya12b36ya4g4r4-b5f749c-g649848-rc82828-we0e0e0-yafb8bb-yaf8e38c/tartan.png)
+![Woven sample](/setts/s8/b1y9w3ya3b9ya1g1r1~b5f749c-g649848-rc82828-we0e0e0-yafb8bb-yaf8e38c~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYWYBYGR
 
 | Tartans |
 |---------------|
-| [Curd (2013)](/setts/s8/b4y36w12ya12b36ya4g4r4-b5f749c-g649848-rc82828-we0e0e0-yafb8bb-yaf8e38c/)|
-|![Curd (2013) example sett](/setts/s8/b4y36w12ya12b36ya4g4r4-b5f749c-g649848-rc82828-we0e0e0-yafb8bb-yaf8e38c/sett.png)|
+| [Curd (2013)](/setts/s8/b1y9w3ya3b9ya1g1r1~b5f749c-g649848-rc82828-we0e0e0-yafb8bb-yaf8e38c~x4/)|
+|![Curd (2013) example sett](/setts/s8/b1y9w3ya3b9ya1g1r1~b5f749c-g649848-rc82828-we0e0e0-yafb8bb-yaf8e38c~x4/sett.png)|

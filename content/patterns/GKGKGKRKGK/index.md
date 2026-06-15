@@ -16,9 +16,9 @@ GKGKGKRKGK
 
 | Tartans |
 |---------------|
-| [Renwick](/setts/s10/k6g4k40r4k24g4k8g4k12g4-g006818-k101010-rc80000/)|
-|![Renwick example sett](/setts/s10/k6g4k40r4k24g4k8g4k12g4-g006818-k101010-rc80000/sett.png)|
-| [Renwick](/setts/s10/k6g4k40r4k24g4k8g4k12g4-g008000-k000000-rc00000/)|
-|![Renwick example sett](/setts/s10/k6g4k40r4k24g4k8g4k12g4-g008000-k000000-rc00000/sett.png)|
-| [Tyndrum](/setts/s10/g24k4g4k4g8k16r24k4g8k8-g808080-k000000-r806050/)|
-|![Tyndrum example sett](/setts/s10/g24k4g4k4g8k16r24k4g8k8-g808080-k000000-r806050/sett.png)|
+| [Renwick](/setts/s10/k3g2k20r2k12g2k4g2k6g2~g006818-k101010-rc80000~x2/)|
+|![Renwick example sett](/setts/s10/k3g2k20r2k12g2k4g2k6g2~g006818-k101010-rc80000~x2/sett.png)|
+| [Renwick](/setts/s10/k3g2k20r2k12g2k4g2k6g2~g008000-k000000-rc00000~x2/)|
+|![Renwick example sett](/setts/s10/k3g2k20r2k12g2k4g2k6g2~g008000-k000000-rc00000~x2/sett.png)|
+| [Tyndrum](/setts/s10/g6k1g1k1g2k4r6k1g2k2~g808080-k000000-r806050~x4/)|
+|![Tyndrum example sett](/setts/s10/g6k1g1k1g2k4r6k1g2k2~g808080-k000000-r806050~x4/sett.png)|

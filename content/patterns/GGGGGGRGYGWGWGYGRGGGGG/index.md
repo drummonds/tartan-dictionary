@@ -16,5 +16,5 @@ GGGGGGRGYGWGWGYGRGGGGG
 
 | Tartans |
 |---------------|
-| [Womens Royal Army Corps Assoc.](/setts/s22/g4ga2g4ga2g48r4g20y2g20w4g20w4g20y2g20r4g48ga2g4ga2g4ga4-g003820-ga289c18-rc80000-we0e0e0-ye8c000/)|
-|![Womens Royal Army Corps Assoc. example sett](/setts/s22/g4ga2g4ga2g48r4g20y2g20w4g20w4g20y2g20r4g48ga2g4ga2g4ga4-g003820-ga289c18-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Womens Royal Army Corps Assoc.](/setts/s22/g2ga1g2ga1g24r2g10y1g10w2g10w2g10y1g10r2g24ga1g2ga1g2ga2~g003820-ga289c18-rc80000-we0e0e0-ye8c000~x2/)|
+|![Womens Royal Army Corps Assoc. example sett](/setts/s22/g2ga1g2ga1g24r2g10y1g10w2g10w2g10y1g10r2g24ga1g2ga1g2ga2~g003820-ga289c18-rc80000-we0e0e0-ye8c000~x2/sett.png)|

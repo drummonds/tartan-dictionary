@@ -6,7 +6,7 @@ KRKWBWBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k6r4k28w4b12w4b32w6-b0000cd-k101010-rff0000-w82cffd/tartan.png)
+![Woven sample](/setts/s8/k3r2k14w2b6w2b16w3~b0000cd-k101010-rff0000-w82cffd~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKWBWBW
 
 | Tartans |
 |---------------|
-| [Immanuel Presbyterian Church (Milwaukee)](/setts/s8/k6r4k28w4b12w4b32w6-b0000cd-k101010-rff0000-w82cffd/)|
-|![Immanuel Presbyterian Church (Milwaukee) example sett](/setts/s8/k6r4k28w4b12w4b32w6-b0000cd-k101010-rff0000-w82cffd/sett.png)|
+| [Immanuel Presbyterian Church (Milwaukee)](/setts/s8/k3r2k14w2b6w2b16w3~b0000cd-k101010-rff0000-w82cffd~x2/)|
+|![Immanuel Presbyterian Church (Milwaukee) example sett](/setts/s8/k3r2k14w2b6w2b16w3~b0000cd-k101010-rff0000-w82cffd~x2/sett.png)|

@@ -1,0 +1,49 @@
+---
+title: "Sey"
+date: 2023-03-18
+---
+In pattern [RYBGKYKRKYKGBY](/patterns/rybgkykrkykgby/).
+
+
+This was sourced from register-of-tartans.  It is a [14 stripes tartan](/stripes/stripes14/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5091
+
+## Thread count
+O/2 DB26 G26 K16 Y2 K16 R4 K16 Y2 K16 G26 DB26 O2 R/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| O | <code style="background-color:#D87C00;"><span style="color:#D87C00;filter:grayscale(1) invert(1) contrast(100);">#D87C00</span></code> `#D87C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gow Hunting Family Tartan Tartan Number: 1893. Earliest known date: pre 2003 MacDonells of Keppoch are an independant branch of Clan Donald. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b12ba3b12k12g12k1y3k1g12k1r1k1g12k12~b2c2c80-ba202060-g006818-k101010-rc80000-ye8c000~x4/) — ΔT 0.56
+1. [Gow Hunting (Clan)](/setts/s11/r3k1g12k12b12ba3b12k12g12k1y3~b2c2c80-ba202060-g006818-k101010-rc80000-ye8c000~x2/) — ΔT 0.72
+1. [Smith Family Tartan Tartan Number: 488. Earliest known date: pre 2003 This is Gow Hunting tartan with the dark blue stripe changed to azure. Gow is the Gaelic form of Smith meaning metal worker or armourer. There is an alternative Smith sett designed for Smith of Pennylands, the founder of the Boys Brigade. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r3k1g12k12b12ba3b12k12g12k1y3~b2c2c80-ba5c8ca8-g006818-k101010-rc80000-ye8c000~x2/) — ΔT 0.73
+1. [Paget Family Tartan Tartan Number: 2072. Earliest known date: 1992 Designed as a 'Family' tartan and woven by Peter MacDonald in Crieff. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r3g4ga2g10k18g2b18g3b18g2k18g16w1r3~b202060-g006818-ga289c18-k101010-rc80000-we0e0e0~x2/) — ΔT 0.80
+1. [Allen Northumbrian Family Tartan Tartan Number: 3208. Earliest known date: 2001 Designed by Jerry M P Allen of Hermitage, Berkshire, for use by his family and relations and others by permission of the designer See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b11r1b2r3b1ba8g11w1g11ba8b8y1r1y1~b2c2c80-ba441800-g006818-rc80000-we0e0e0-ye8c000~x2/) — ΔT 0.82
+1. [Shandon (Personal)](/setts/s14/k20g18k2w2k5y2k2g18k20b18ba4b4ba4b18~b2c2c80-ba1474b4-g408060-k101010-wfcfcfc-ye8c000~x2/) — ΔT 0.84
+1. [Gow Hunting](/setts/s11/r3k1g12k12b12ba3b12k12g12k1y3~b2c4084-ba080848-g005020-k101010-rdc0000-ye8c000~x2/) — ΔT 0.91
+1. [Paget (Personal)](/setts/s14/r3g4ga2g10k18g2b18g3b18g2k18g18w1r3~b440044-g006818-ga5c6428-k101010-rc80000-wfcfcfc~x2/) — ΔT 0.93
+1. [Drennan](/setts/s12/b7w3g3b18y3k15y3g17r6g3r2g7~b1c0070-g006818-k101010-r880000-we0e0e0-ybc8c00~x2/) — ΔT 0.93
+1. [MacKenzie Clan Tartan Tartan Number: 267. Earliest known date: 1778 The MacKenzie is the regimental tartan of the Seaforth Highlanders, who were raised by MacKenzie, Earl of Seaforth, in 1778. The clan held lands in Ross-shire and around Muir of Ord, but in the 12th century, they were removed to Wester Ross, (Kintail). The chiefly line of Kintail died out (as prophecisied by the Brahan Seer) and the MacKenzies of Cromarty were recognised as Chiefs of the Clan. Wilson's 1819 pattern book records various widths and weights of cloth suitable for the different ranks in the regiment. The 'hard' tartan of the period was known to cut the legs of the private soldiers. There is a certified sample in the Highland Society of London collection signed by Mrs MacKenzie of Seaforth (1816). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/b12k2b2k2b2k12g12k1w3k1g12k12b12k1r3~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/) — ΔT 0.97
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/b12ba3b12k12g12k1y3k1g12k1r1k1g12k12~b2c2c80-ba202060-g006818-k101010-rc80000-ye8c000~x4/"><circle cx="158.3" cy="154.0" r="4" fill="#3465a4"><title>Gow Hunting Family Tartan Tartan Number: 1893. Earliest known date: pre 2003 MacDonells of Keppoch are an independant branch of Clan Donald. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r3k1g12k12b12ba3b12k12g12k1y3~b2c2c80-ba202060-g006818-k101010-rc80000-ye8c000~x2/"><circle cx="118.9" cy="172.0" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/setts/s11/r3k1g12k12b12ba3b12k12g12k1y3~b2c2c80-ba5c8ca8-g006818-k101010-rc80000-ye8c000~x2/"><circle cx="113.7" cy="169.5" r="4" fill="#3465a4"><title>Smith Family Tartan Tartan Number: 488. Earliest known date: pre 2003 This is Gow Hunting tartan with the dark blue stripe changed to azure. Gow is the Gaelic form of Smith meaning metal worker or armourer. There is an alternative Smith sett designed for Smith of Pennylands, the founder of the Boys Brigade. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r3g4ga2g10k18g2b18g3b18g2k18g16w1r3~b202060-g006818-ga289c18-k101010-rc80000-we0e0e0~x2/"><circle cx="163.7" cy="135.4" r="4" fill="#3465a4"><title>Paget Family Tartan Tartan Number: 2072. Earliest known date: 1992 Designed as a 'Family' tartan and woven by Peter MacDonald in Crieff. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/b11r1b2r3b1ba8g11w1g11ba8b8y1r1y1~b2c2c80-ba441800-g006818-rc80000-we0e0e0-ye8c000~x2/"><circle cx="137.7" cy="142.0" r="4" fill="#3465a4"><title>Allen Northumbrian Family Tartan Tartan Number: 3208. Earliest known date: 2001 Designed by Jerry M P Allen of Hermitage, Berkshire, for use by his family and relations and others by permission of the designer See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k20g18k2w2k5y2k2g18k20b18ba4b4ba4b18~b2c2c80-ba1474b4-g408060-k101010-wfcfcfc-ye8c000~x2/"><circle cx="132.2" cy="151.7" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/setts/s11/r3k1g12k12b12ba3b12k12g12k1y3~b2c4084-ba080848-g005020-k101010-rdc0000-ye8c000~x2/"><circle cx="131.8" cy="177.7" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/setts/s14/r3g4ga2g10k18g2b18g3b18g2k18g18w1r3~b440044-g006818-ga5c6428-k101010-rc80000-wfcfcfc~x2/"><circle cx="169.9" cy="130.8" r="4" fill="#3465a4"><title>Paget (Personal)</title></circle></a><a href="/setts/s12/b7w3g3b18y3k15y3g17r6g3r2g7~b1c0070-g006818-k101010-r880000-we0e0e0-ybc8c00~x2/"><circle cx="103.2" cy="155.8" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s15/b12k2b2k2b2k12g12k1w3k1g12k12b12k1r3~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/"><circle cx="164.1" cy="157.1" r="4" fill="#3465a4"><title>MacKenzie Clan Tartan Tartan Number: 267. Earliest known date: 1778 The MacKenzie is the regimental tartan of the Seaforth Highlanders, who were raised by MacKenzie, Earl of Seaforth, in 1778. The clan held lands in Ross-shire and around Muir of Ord, but in the 12th century, they were removed to Wester Ross, (Kintail). The chiefly line of Kintail died out (as prophecisied by the Brahan Seer) and the MacKenzies of Cromarty were recognised as Chiefs of the Clan. Wilson's 1819 pattern book records various widths and weights of cloth suitable for the different ranks in the regiment. The 'hard' tartan of the period was known to cut the legs of the private soldiers. There is a certified sample in the Highland Society of London collection signed by Mrs MacKenzie of Seaforth (1816). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="141.9" cy="149.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s14/r2y1b13g13k8ya1k8r2k8ya1k8g13b13y1~b2c2c80-g006818-k101010-rc80000-yd87c00-yae8c000~x2/

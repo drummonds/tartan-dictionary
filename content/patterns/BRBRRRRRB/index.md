@@ -16,5 +16,5 @@ BRBRRRRRB
 
 | Tartans |
 |---------------|
-| [Breckon](/setts/s9/b12r4b56ra56r4ra4r4ra4b8-b000064-ra88000-ra800000/)|
-|![Breckon example sett](/setts/s9/b12r4b56ra56r4ra4r4ra4b8-b000064-ra88000-ra800000/sett.png)|
+| [Breckon](/setts/s9/b3r1b14ra14r1ra1r1ra1b2~b000064-ra88000-ra800000~x4/)|
+|![Breckon example sett](/setts/s9/b3r1b14ra14r1ra1r1ra1b2~b000064-ra88000-ra800000~x4/sett.png)|

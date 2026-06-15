@@ -16,5 +16,5 @@ WKRYRYRYKYRYRYRY
 
 | Tartans |
 |---------------|
-| [DeWolfe](/setts/s16/w12k14r4y4r4y4r4y4k14y4r68y4r4y4r4y4-k101010-r880000-wf8f8f8-ye8c000/)|
-|![DeWolfe example sett](/setts/s16/w12k14r4y4r4y4r4y4k14y4r68y4r4y4r4y4-k101010-r880000-wf8f8f8-ye8c000/sett.png)|
+| [DeWolfe](/setts/s16/w6k7r2y2r2y2r2y2k7y2r34y2r2y2r2y2~k101010-r880000-wf8f8f8-ye8c000~x2/)|
+|![DeWolfe example sett](/setts/s16/w6k7r2y2r2y2r2y2k7y2r34y2r2y2r2y2~k101010-r880000-wf8f8f8-ye8c000~x2/sett.png)|

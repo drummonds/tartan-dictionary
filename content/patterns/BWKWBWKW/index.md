@@ -6,7 +6,7 @@ BWKWBWKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b60w4k18wa6b12wa8k6w12-b2c4084-k101010-wc8c8c8-waffffff/tartan.png)
+![Woven sample](/setts/s8/b30w2k9wa3b6wa4k3w6~b2c4084-k101010-wc8c8c8-waffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKWBWKW
 
 | Tartans |
 |---------------|
-| [Detroit Lions](/setts/s8/b60w4k18wa6b12wa8k6w12-b2c4084-k101010-wc8c8c8-waffffff/)|
-|![Detroit Lions example sett](/setts/s8/b60w4k18wa6b12wa8k6w12-b2c4084-k101010-wc8c8c8-waffffff/sett.png)|
+| [Detroit Lions](/setts/s8/b30w2k9wa3b6wa4k3w6~b2c4084-k101010-wc8c8c8-waffffff~x2/)|
+|![Detroit Lions example sett](/setts/s8/b30w2k9wa3b6wa4k3w6~b2c4084-k101010-wc8c8c8-waffffff~x2/sett.png)|

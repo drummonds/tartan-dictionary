@@ -6,7 +6,7 @@ GGWGRWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k40w8r8g40w10g4ga4-g006818-ga289c18-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/k20w4r4g20w5g2ga2~g006818-ga289c18-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGWGRWK
 
 | Tartans |
 |---------------|
-| [Hackett (Personal)](/setts/s7/k40w8r8g40w10g4ga4-g006818-ga289c18-k101010-rc80000-wfcfcfc/)|
-|![Hackett (Personal) example sett](/setts/s7/k40w8r8g40w10g4ga4-g006818-ga289c18-k101010-rc80000-wfcfcfc/sett.png)|
+| [Hackett (Personal)](/setts/s7/k20w4r4g20w5g2ga2~g006818-ga289c18-k101010-rc80000-wfcfcfc~x2/)|
+|![Hackett (Personal) example sett](/setts/s7/k20w4r4g20w5g2ga2~g006818-ga289c18-k101010-rc80000-wfcfcfc~x2/sett.png)|

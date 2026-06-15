@@ -16,5 +16,5 @@ GGKRGGBKBGW
 
 | Tartans |
 |---------------|
-| [MacLean, Kenneth, Baron of Denboig](/setts/s11/g38ga10k4r6g10ga6b10k4ba6ga10w4-b5c8ca8-ba202060-g003820-ga285800-k101010-r888888-wfcfcfc/)|
-|![MacLean, Kenneth, Baron of Denboig example sett](/setts/s11/g38ga10k4r6g10ga6b10k4ba6ga10w4-b5c8ca8-ba202060-g003820-ga285800-k101010-r888888-wfcfcfc/sett.png)|
+| [MacLean, Kenneth, Baron of Denboig](/setts/s11/g19ga5k2r3g5ga3b5k2ba3ga5w2~b5c8ca8-ba202060-g003820-ga285800-k101010-r888888-wfcfcfc~x2/)|
+|![MacLean, Kenneth, Baron of Denboig example sett](/setts/s11/g19ga5k2r3g5ga3b5k2ba3ga5w2~b5c8ca8-ba202060-g003820-ga285800-k101010-r888888-wfcfcfc~x2/sett.png)|

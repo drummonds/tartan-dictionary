@@ -16,5 +16,5 @@ YGBKRKBKY
 
 | Tartans |
 |---------------|
-| [Kings Mountain 1780](/setts/s9/y18k2b8k2r60k2ba8g18y6-b557280-ba778899-g006400-k101010-rff0000-yffe600/)|
-|![Kings Mountain 1780 example sett](/setts/s9/y18k2b8k2r60k2ba8g18y6-b557280-ba778899-g006400-k101010-rff0000-yffe600/sett.png)|
+| [Kings Mountain 1780](/setts/s9/y9k1b4k1r30k1ba4g9y3~b557280-ba778899-g006400-k101010-rff0000-yffe600~x2/)|
+|![Kings Mountain 1780 example sett](/setts/s9/y9k1b4k1r30k1ba4g9y3~b557280-ba778899-g006400-k101010-rff0000-yffe600~x2/sett.png)|

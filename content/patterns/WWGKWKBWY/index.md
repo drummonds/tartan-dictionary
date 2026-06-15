@@ -16,5 +16,5 @@ WWGKWKBWY
 
 | Tartans |
 |---------------|
-| [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/w2wa4g24k4w4k4b30w4y2-b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f/)|
-|![Hek Family (Sunningdale, Berwick on Tweed) example sett](/setts/s9/w2wa4g24k4w4k4b30w4y2-b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f/sett.png)|
+| [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/w1wa2g12k2w2k2b15w2y1~b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f~x2/)|
+|![Hek Family (Sunningdale, Berwick on Tweed) example sett](/setts/s9/w1wa2g12k2w2k2b15w2y1~b816687-g1b6453-k101010-w00bfff-wafff8dc-yffb90f~x2/sett.png)|

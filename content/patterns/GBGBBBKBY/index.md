@@ -16,5 +16,5 @@ GBGBBBKBY
 
 | Tartans |
 |---------------|
-| [Stewmann (2009) (Personal)](/setts/s9/g48b8g6ba22bb16ba74k6ba4y8-b5ea0f4-ba00137c-bb6a1058-g003807-k101010-yd7a0b5/)|
-|![Stewmann (2009) (Personal) example sett](/setts/s9/g48b8g6ba22bb16ba74k6ba4y8-b5ea0f4-ba00137c-bb6a1058-g003807-k101010-yd7a0b5/sett.png)|
+| [Stewmann (2009) (Personal)](/setts/s9/g24b4g3ba11bb8ba37k3ba2y4~b5ea0f4-ba00137c-bb6a1058-g003807-k101010-yd7a0b5~x2/)|
+|![Stewmann (2009) (Personal) example sett](/setts/s9/g24b4g3ba11bb8ba37k3ba2y4~b5ea0f4-ba00137c-bb6a1058-g003807-k101010-yd7a0b5~x2/sett.png)|

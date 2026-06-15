@@ -6,7 +6,7 @@ BYYGYRGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b92y2ya6g26y2r14ga6y2-b202060-g003820-ga006818-r880000-yfccc00-yae8c000/tartan.png)
+![Woven sample](/setts/s8/b46y1ya3g13y1r7ga3y1~b202060-g003820-ga006818-r880000-yfccc00-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYYGYRGY
 
 | Tartans |
 |---------------|
-| [Victorian Highland Pipe Band Assoc](/setts/s8/b92y2ya6g26y2r14ga6y2-b202060-g003820-ga006818-r880000-yfccc00-yae8c000/)|
-|![Victorian Highland Pipe Band Assoc example sett](/setts/s8/b92y2ya6g26y2r14ga6y2-b202060-g003820-ga006818-r880000-yfccc00-yae8c000/sett.png)|
+| [Victorian Highland Pipe Band Assoc](/setts/s8/b46y1ya3g13y1r7ga3y1~b202060-g003820-ga006818-r880000-yfccc00-yae8c000~x2/)|
+|![Victorian Highland Pipe Band Assoc example sett](/setts/s8/b46y1ya3g13y1r7ga3y1~b202060-g003820-ga006818-r880000-yfccc00-yae8c000~x2/sett.png)|

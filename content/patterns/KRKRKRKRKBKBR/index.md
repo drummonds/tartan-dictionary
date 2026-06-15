@@ -16,5 +16,5 @@ KRKRKRKRKBKBR
 
 | Tartans |
 |---------------|
-| [Fowler](/setts/s13/k8r8k2r8k2r16k2r8k16b4k2b28ra4-b1c1c50-k101010-r888888-rac80000/)|
-|![Fowler example sett](/setts/s13/k8r8k2r8k2r16k2r8k16b4k2b28ra4-b1c1c50-k101010-r888888-rac80000/sett.png)|
+| [Fowler](/setts/s13/k4r4k1r4k1r8k1r4k8b2k1b14ra2~b1c1c50-k101010-r888888-rac80000~x2/)|
+|![Fowler example sett](/setts/s13/k4r4k1r4k1r8k1r4k8b2k1b14ra2~b1c1c50-k101010-r888888-rac80000~x2/sett.png)|

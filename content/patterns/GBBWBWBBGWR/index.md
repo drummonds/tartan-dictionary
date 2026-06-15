@@ -16,7 +16,7 @@ GBBWBWBBGWR
 
 | Tartans |
 |---------------|
-| [Kuehle Family (Personal)](/setts/s11/g60b12ba2w4ba12w4ba2b12g60wa2r6-b171844-ba7144a1-g666863-rcd5c5c-wffffff-wa74bbfb/)|
-|![Kuehle Family (Personal) example sett](/setts/s11/g60b12ba2w4ba12w4ba2b12g60wa2r6-b171844-ba7144a1-g666863-rcd5c5c-wffffff-wa74bbfb/sett.png)|
-| [Kuehle Family Hunting (Personal)](/setts/s11/g60b12ba2w4ba12w4ba2b12g60wa2r6-b171844-ba7144a1-g626750-rcd5c5c-wffffff-wa74bbfb/)|
-|![Kuehle Family Hunting (Personal) example sett](/setts/s11/g60b12ba2w4ba12w4ba2b12g60wa2r6-b171844-ba7144a1-g626750-rcd5c5c-wffffff-wa74bbfb/sett.png)|
+| [Kuehle Family (Personal)](/setts/s11/g30b6ba1w2ba6w2ba1b6g30wa1r3~b171844-ba7144a1-g666863-rcd5c5c-wffffff-wa74bbfb~x2/)|
+|![Kuehle Family (Personal) example sett](/setts/s11/g30b6ba1w2ba6w2ba1b6g30wa1r3~b171844-ba7144a1-g666863-rcd5c5c-wffffff-wa74bbfb~x2/sett.png)|
+| [Kuehle Family Hunting (Personal)](/setts/s11/g30b6ba1w2ba6w2ba1b6g30wa1r3~b171844-ba7144a1-g626750-rcd5c5c-wffffff-wa74bbfb~x2/)|
+|![Kuehle Family Hunting (Personal) example sett](/setts/s11/g30b6ba1w2ba6w2ba1b6g30wa1r3~b171844-ba7144a1-g626750-rcd5c5c-wffffff-wa74bbfb~x2/sett.png)|

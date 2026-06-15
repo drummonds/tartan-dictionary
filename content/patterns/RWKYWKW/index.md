@@ -6,7 +6,7 @@ RWKYWKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4w20k30y72w4k4w4-k101010-rc80000-we8ccb8-ya08858/tartan.png)
+![Woven sample](/setts/s7/r2w10k15y36w2k2w2~k101010-rc80000-we8ccb8-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKYWKW
 
 | Tartans |
 |---------------|
-| [Unidentified (ex Tony Murray)](/setts/s7/r4w20k30y72w4k4w4-k101010-rc80000-we8ccb8-ya08858/)|
-|![Unidentified (ex Tony Murray) example sett](/setts/s7/r4w20k30y72w4k4w4-k101010-rc80000-we8ccb8-ya08858/sett.png)|
+| [Unidentified (ex Tony Murray)](/setts/s7/r2w10k15y36w2k2w2~k101010-rc80000-we8ccb8-ya08858~x2/)|
+|![Unidentified (ex Tony Murray) example sett](/setts/s7/r2w10k15y36w2k2w2~k101010-rc80000-we8ccb8-ya08858~x2/sett.png)|

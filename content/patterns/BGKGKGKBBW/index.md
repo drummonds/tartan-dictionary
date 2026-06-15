@@ -16,5 +16,5 @@ BGKGKGKBBW
 
 | Tartans |
 |---------------|
-| [Stewart of Bute Hunting](/setts/s10/b44g22k4g8k4g12k32b80b4w12-b680028-g006818-k101010-wc0c0c0/)|
-|![Stewart of Bute Hunting example sett](/setts/s10/b44g22k4g8k4g12k32b80b4w12-b680028-g006818-k101010-wc0c0c0/sett.png)|
+| [Stewart of Bute Hunting](/setts/s10/b22g11k2g4k2g6k16b40b2w6~b680028-g006818-k101010-wc0c0c0~x2/)|
+|![Stewart of Bute Hunting example sett](/setts/s10/b22g11k2g4k2g6k16b40b2w6~b680028-g006818-k101010-wc0c0c0~x2/sett.png)|

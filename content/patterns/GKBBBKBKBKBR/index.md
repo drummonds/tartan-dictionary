@@ -16,5 +16,5 @@ GKBBBKBKBKBR
 
 | Tartans |
 |---------------|
-| [Pride of Wales (Fashion)](/setts/s12/g12k40b4ba4b4k28b7k8b7k8b10r4-b202060-ba5c8ca8-g006818-k101010-rc80000/)|
-|![Pride of Wales (Fashion) example sett](/setts/s12/g12k40b4ba4b4k28b7k8b7k8b10r4-b202060-ba5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Pride of Wales (Fashion)](/setts/s12/g12k40b4ba4b4k28b7k8b7k8b10r4~b202060-ba5c8ca8-g006818-k101010-rc80000/)|
+|![Pride of Wales (Fashion) example sett](/setts/s12/g12k40b4ba4b4k28b7k8b7k8b10r4~b202060-ba5c8ca8-g006818-k101010-rc80000/sett.png)|

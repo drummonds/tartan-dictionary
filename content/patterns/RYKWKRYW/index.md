@@ -6,7 +6,7 @@ RYKWKRYW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r180y2k4w20k10ra4y4w4-k101010-r880000-rac8002c-w98c8e8-yb8b8b8/tartan.png)
+![Woven sample](/setts/s8/r90y1k2w10k5ra2y2w2~k101010-r880000-rac8002c-w98c8e8-yb8b8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYKWKRYW
 
 | Tartans |
 |---------------|
-| [Lock in Northumberland (Name)](/setts/s8/r180y2k4w20k10ra4y4w4-k101010-r880000-rac8002c-w98c8e8-yb8b8b8/)|
-|![Lock in Northumberland (Name) example sett](/setts/s8/r180y2k4w20k10ra4y4w4-k101010-r880000-rac8002c-w98c8e8-yb8b8b8/sett.png)|
+| [Lock in Northumberland (Name)](/setts/s8/r90y1k2w10k5ra2y2w2~k101010-r880000-rac8002c-w98c8e8-yb8b8b8~x2/)|
+|![Lock in Northumberland (Name) example sett](/setts/s8/r90y1k2w10k5ra2y2w2~k101010-r880000-rac8002c-w98c8e8-yb8b8b8~x2/sett.png)|

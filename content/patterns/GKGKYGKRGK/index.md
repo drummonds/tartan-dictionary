@@ -16,5 +16,5 @@ GKGKYGKRGK
 
 | Tartans |
 |---------------|
-| [Manitoba Cue Sports](/setts/s10/k32g16r4k8g64y4k32g8k8g16-g5c6428-k101010-rc8002c-ybc8c00/)|
-|![Manitoba Cue Sports example sett](/setts/s10/k32g16r4k8g64y4k32g8k8g16-g5c6428-k101010-rc8002c-ybc8c00/sett.png)|
+| [Manitoba Cue Sports](/setts/s10/k8g4r1k2g16y1k8g2k2g4~g5c6428-k101010-rc8002c-ybc8c00~x4/)|
+|![Manitoba Cue Sports example sett](/setts/s10/k8g4r1k2g16y1k8g2k2g4~g5c6428-k101010-rc8002c-ybc8c00~x4/sett.png)|

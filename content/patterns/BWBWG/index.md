@@ -6,7 +6,7 @@ BWBWG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b108w12b24w8g12-b500000-g006400-wffffff/tartan.png)
+![Woven sample](/setts/s5/b27w3b6w2g3~b500000-g006400-wffffff~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWG
 
 | Tartans |
 |---------------|
-| [Martin Family, Robert N (Personal)](/setts/s5/b108w12b24w8g12-b500000-g006400-wffffff/)|
-|![Martin Family, Robert N (Personal) example sett](/setts/s5/b108w12b24w8g12-b500000-g006400-wffffff/sett.png)|
+| [Martin Family, Robert N (Personal)](/setts/s5/b27w3b6w2g3~b500000-g006400-wffffff~x4/)|
+|![Martin Family, Robert N (Personal) example sett](/setts/s5/b27w3b6w2g3~b500000-g006400-wffffff~x4/sett.png)|

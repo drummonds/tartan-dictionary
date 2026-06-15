@@ -6,7 +6,7 @@ KWRYKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k10w8r30y140k8w10-k101010-rcd0000-wffffff-y00cd00/tartan.png)
+![Woven sample](/setts/s6/k5w4r15y70k4w5~k101010-rcd0000-wffffff-y00cd00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWRYKW
 
 | Tartans |
 |---------------|
-| [Tahrir (Liberation)](/setts/s6/k10w8r30y140k8w10-k101010-rcd0000-wffffff-y00cd00/)|
-|![Tahrir (Liberation) example sett](/setts/s6/k10w8r30y140k8w10-k101010-rcd0000-wffffff-y00cd00/sett.png)|
+| [Tahrir (Liberation)](/setts/s6/k5w4r15y70k4w5~k101010-rcd0000-wffffff-y00cd00~x2/)|
+|![Tahrir (Liberation) example sett](/setts/s6/k5w4r15y70k4w5~k101010-rcd0000-wffffff-y00cd00~x2/sett.png)|

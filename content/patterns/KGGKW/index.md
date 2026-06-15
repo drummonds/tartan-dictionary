@@ -6,7 +6,7 @@ KGGKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k12g8ga88k82w8-g289c18-ga006818-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/k6g4ga44k41w4~g289c18-ga006818-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGGKW
 
 | Tartans |
 |---------------|
-| [Raeside](/setts/s5/k12g8ga88k82w8-g289c18-ga006818-k101010-we0e0e0/)|
-|![Raeside example sett](/setts/s5/k12g8ga88k82w8-g289c18-ga006818-k101010-we0e0e0/sett.png)|
+| [Raeside](/setts/s5/k6g4ga44k41w4~g289c18-ga006818-k101010-we0e0e0~x2/)|
+|![Raeside example sett](/setts/s5/k6g4ga44k41w4~g289c18-ga006818-k101010-we0e0e0~x2/sett.png)|

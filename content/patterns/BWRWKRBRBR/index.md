@@ -16,5 +16,5 @@ BWRWKRBRBR
 
 | Tartans |
 |---------------|
-| [Commonwealth](/setts/s10/b24w8r24w10k8ra24b40r8b10r8-b304080-k000000-rc00000-ra703000-we0e0e0/)|
-|![Commonwealth example sett](/setts/s10/b24w8r24w10k8ra24b40r8b10r8-b304080-k000000-rc00000-ra703000-we0e0e0/sett.png)|
+| [Commonwealth](/setts/s10/b12w4r12w5k4ra12b20r4b5r4~b304080-k000000-rc00000-ra703000-we0e0e0~x2/)|
+|![Commonwealth example sett](/setts/s10/b12w4r12w5k4ra12b20r4b5r4~b304080-k000000-rc00000-ra703000-we0e0e0~x2/sett.png)|

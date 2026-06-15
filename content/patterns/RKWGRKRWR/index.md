@@ -16,5 +16,5 @@ RKWGRKRWR
 
 | Tartans |
 |---------------|
-| [Unidentified #58](/setts/s9/r16k48w4g24r12k4r12w4r12-g004c00-k000000-r8c0000-wc8c8c8/)|
-|![Unidentified #58 example sett](/setts/s9/r16k48w4g24r12k4r12w4r12-g004c00-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Unidentified #58](/setts/s9/r4k12w1g6r3k1r3w1r3~g004c00-k000000-r8c0000-wc8c8c8~x4/)|
+|![Unidentified #58 example sett](/setts/s9/r4k12w1g6r3k1r3w1r3~g004c00-k000000-r8c0000-wc8c8c8~x4/sett.png)|

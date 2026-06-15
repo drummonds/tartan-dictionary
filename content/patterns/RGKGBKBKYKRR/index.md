@@ -16,5 +16,5 @@ RGKGBKBKYKRR
 
 | Tartans |
 |---------------|
-| [Daks - Chino Check - B.11155](/setts/s12/r44ra6k14y4k4b4k4ba20g12k4g6r4-b506060-ba304080-g505020-k000000-r906030-ra806050-yf0c000/)|
-|![Daks - Chino Check - B.11155 example sett](/setts/s12/r44ra6k14y4k4b4k4ba20g12k4g6r4-b506060-ba304080-g505020-k000000-r906030-ra806050-yf0c000/sett.png)|
+| [Daks - Chino Check - B.11155](/setts/s12/r22ra3k7y2k2b2k2ba10g6k2g3r2~b506060-ba304080-g505020-k000000-r906030-ra806050-yf0c000~x2/)|
+|![Daks - Chino Check - B.11155 example sett](/setts/s12/r22ra3k7y2k2b2k2ba10g6k2g3r2~b506060-ba304080-g505020-k000000-r906030-ra806050-yf0c000~x2/sett.png)|

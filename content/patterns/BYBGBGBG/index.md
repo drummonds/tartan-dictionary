@@ -6,7 +6,7 @@ BYBGBGBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g40b4ga12b4g8b54y4b16-b1c0070-g285800-ga408060-yd09800/tartan.png)
+![Woven sample](/setts/s8/g20b2ga6b2g4b27y2b8~b1c0070-g285800-ga408060-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBGBGBG
 
 | Tartans |
 |---------------|
-| [Kinross (Fashion)](/setts/s8/g40b4ga12b4g8b54y4b16-b1c0070-g285800-ga408060-yd09800/)|
-|![Kinross (Fashion) example sett](/setts/s8/g40b4ga12b4g8b54y4b16-b1c0070-g285800-ga408060-yd09800/sett.png)|
+| [Kinross (Fashion)](/setts/s8/g20b2ga6b2g4b27y2b8~b1c0070-g285800-ga408060-yd09800~x2/)|
+|![Kinross (Fashion) example sett](/setts/s8/g20b2ga6b2g4b27y2b8~b1c0070-g285800-ga408060-yd09800~x2/sett.png)|

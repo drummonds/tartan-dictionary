@@ -16,5 +16,5 @@ BRKRKRKRWRWR
 
 | Tartans |
 |---------------|
-| [Eidart 1990 (Fashion)](/setts/s12/b8r40k4r4k4r6k12ra52w6ra4w4ra8-b5c5c5c-k101010-r880000-ra888888-we0e0e0/)|
-|![Eidart 1990 (Fashion) example sett](/setts/s12/b8r40k4r4k4r6k12ra52w6ra4w4ra8-b5c5c5c-k101010-r880000-ra888888-we0e0e0/sett.png)|
+| [Eidart 1990 (Fashion)](/setts/s12/b4r20k2r2k2r3k6ra26w3ra2w2ra4~b5c5c5c-k101010-r880000-ra888888-we0e0e0~x2/)|
+|![Eidart 1990 (Fashion) example sett](/setts/s12/b4r20k2r2k2r3k6ra26w3ra2w2ra4~b5c5c5c-k101010-r880000-ra888888-we0e0e0~x2/sett.png)|

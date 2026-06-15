@@ -16,5 +16,5 @@ BGRBBKGRBBK
 
 | Tartans |
 |---------------|
-| [Coopers & Lybrand](/setts/s11/b8g8r2ba36b8k4g32r2ba12b8k4-b5480b0-ba000050-g008000-k000000-rc00000/)|
-|![Coopers & Lybrand example sett](/setts/s11/b8g8r2ba36b8k4g32r2ba12b8k4-b5480b0-ba000050-g008000-k000000-rc00000/sett.png)|
+| [Coopers & Lybrand](/setts/s11/b4g4r1ba18b4k2g16r1ba6b4k2~b5480b0-ba000050-g008000-k000000-rc00000~x2/)|
+|![Coopers & Lybrand example sett](/setts/s11/b4g4r1ba18b4k2g16r1ba6b4k2~b5480b0-ba000050-g008000-k000000-rc00000~x2/sett.png)|

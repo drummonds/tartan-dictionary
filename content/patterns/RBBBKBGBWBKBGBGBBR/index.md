@@ -16,7 +16,7 @@ RBBBKBGBWBKBGBGBBR
 
 | Tartans |
 |---------------|
-| [Empire Golf Check](/setts/s18/r4b8ba4g50ba8g4ba8k22b8w4b8g22ba4k4ba48b8ba4r4-b780078-ba003c64-g285800-k101010-rc80000-we0e0e0/)|
-|![Empire Golf Check example sett](/setts/s18/r4b8ba4g50ba8g4ba8k22b8w4b8g22ba4k4ba48b8ba4r4-b780078-ba003c64-g285800-k101010-rc80000-we0e0e0/sett.png)|
-| [Empire Golf Check (Fashion)](/setts/s18/r4b8ba4g50ba8g4ba8k22b8w4b8g22ba4k4ba48b8ba4r4-b780078-ba003c64-g306800-k101010-rc80000-we0e0e0/)|
-|![Empire Golf Check (Fashion) example sett](/setts/s18/r4b8ba4g50ba8g4ba8k22b8w4b8g22ba4k4ba48b8ba4r4-b780078-ba003c64-g306800-k101010-rc80000-we0e0e0/sett.png)|
+| [Empire Golf Check](/setts/s18/r2b4ba2g25ba4g2ba4k11b4w2b4g11ba2k2ba24b4ba2r2~b780078-ba003c64-g285800-k101010-rc80000-we0e0e0~x2/)|
+|![Empire Golf Check example sett](/setts/s18/r2b4ba2g25ba4g2ba4k11b4w2b4g11ba2k2ba24b4ba2r2~b780078-ba003c64-g285800-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [Empire Golf Check (Fashion)](/setts/s18/r2b4ba2g25ba4g2ba4k11b4w2b4g11ba2k2ba24b4ba2r2~b780078-ba003c64-g306800-k101010-rc80000-we0e0e0~x2/)|
+|![Empire Golf Check (Fashion) example sett](/setts/s18/r2b4ba2g25ba4g2ba4k11b4w2b4g11ba2k2ba24b4ba2r2~b780078-ba003c64-g306800-k101010-rc80000-we0e0e0~x2/sett.png)|

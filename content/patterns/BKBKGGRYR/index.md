@@ -16,7 +16,7 @@ BKBKGGRYR
 
 | Tartans |
 |---------------|
-| [Cumming LO](/setts/s9/b8k4b8k20g2ga20r8y2r8-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/)|
-|![Cumming LO example sett](/setts/s9/b8k4b8k20g2ga20r8y2r8-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Cumming LO](/setts/s9/b4k2b4k10g1ga10r4y1r4-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/)|
-|![Cumming LO example sett](/setts/s9/b4k2b4k10g1ga10r4y1r4-b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Cumming LO](/setts/s9/b4k2b4k10g1ga10r4y1r4~b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![Cumming LO example sett](/setts/s9/b4k2b4k10g1ga10r4y1r4~b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|
+| [Cumming LO](/setts/s9/b4k2b4k10g1ga10r4y1r4~b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/)|
+|![Cumming LO example sett](/setts/s9/b4k2b4k10g1ga10r4y1r4~b4367ae-g7f5200-ga11450d-k000000-raa0000-yaaaaaa/sett.png)|

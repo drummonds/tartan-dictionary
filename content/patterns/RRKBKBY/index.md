@@ -6,7 +6,7 @@ RRKBKBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r8ra40k40b8k8b48y8-b2c2c80-k101010-rc80000-ra888888-ye8c000/tartan.png)
+![Woven sample](/setts/s7/r1ra5k5b1k1b6y1~b2c2c80-k101010-rc80000-ra888888-ye8c000~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRKBKBY
 
 | Tartans |
 |---------------|
-| [Lopez-Gasparotto](/setts/s7/r8ra40k40b8k8b48y8-b2c2c80-k101010-rc80000-ra888888-ye8c000/)|
-|![Lopez-Gasparotto example sett](/setts/s7/r8ra40k40b8k8b48y8-b2c2c80-k101010-rc80000-ra888888-ye8c000/sett.png)|
+| [Lopez-Gasparotto](/setts/s7/r1ra5k5b1k1b6y1~b2c2c80-k101010-rc80000-ra888888-ye8c000~x8/)|
+|![Lopez-Gasparotto example sett](/setts/s7/r1ra5k5b1k1b6y1~b2c2c80-k101010-rc80000-ra888888-ye8c000~x8/sett.png)|

@@ -6,7 +6,7 @@ BYBWBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8y8b16w32ba8w8-b441800-ba5c5c5c-wf0d8bc-ya08858/tartan.png)
+![Woven sample](/setts/s6/b1y1b2w4ba1w1~b441800-ba5c5c5c-wf0d8bc-ya08858~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBWBW
 
 | Tartans |
 |---------------|
-| [Ardalansish Tweed (Fashion)](/setts/s6/b8y8b16w32ba8w8-b441800-ba5c5c5c-wf0d8bc-ya08858/)|
-|![Ardalansish Tweed (Fashion) example sett](/setts/s6/b8y8b16w32ba8w8-b441800-ba5c5c5c-wf0d8bc-ya08858/sett.png)|
+| [Ardalansish Tweed (Fashion)](/setts/s6/b1y1b2w4ba1w1~b441800-ba5c5c5c-wf0d8bc-ya08858~x8/)|
+|![Ardalansish Tweed (Fashion) example sett](/setts/s6/b1y1b2w4ba1w1~b441800-ba5c5c5c-wf0d8bc-ya08858~x8/sett.png)|

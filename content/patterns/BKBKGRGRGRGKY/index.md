@@ -16,5 +16,5 @@ BKBKGRGRGRGKY
 
 | Tartans |
 |---------------|
-| [California](/setts/s13/b8k2ba56k32g20r4g20r8g20r4g20k2y8-b8080d0-ba304080-g008000-k000000-rc00000-yf0c000/)|
-|![California example sett](/setts/s13/b8k2ba56k32g20r4g20r8g20r4g20k2y8-b8080d0-ba304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [California](/setts/s13/b4k1ba28k16g10r2g10r4g10r2g10k1y4~b8080d0-ba304080-g008000-k000000-rc00000-yf0c000~x2/)|
+|![California example sett](/setts/s13/b4k1ba28k16g10r2g10r4g10r2g10k1y4~b8080d0-ba304080-g008000-k000000-rc00000-yf0c000~x2/sett.png)|

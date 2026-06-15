@@ -16,7 +16,7 @@ BKBKBBGKGKGKGKB
 
 | Tartans |
 |---------------|
-| [Bailey Atlanta National](/setts/s15/b26k4b4k4b4ba26g26k4g6k4g26k26g26k4b6-b202060-ba2c2c80-g006818-k101010/)|
-|![Bailey Atlanta National example sett](/setts/s15/b26k4b4k4b4ba26g26k4g6k4g26k26g26k4b6-b202060-ba2c2c80-g006818-k101010/sett.png)|
-| [Bailey Atlanta National](/setts/s15/b26k4b4k4b4ba26g26k4g6k4g26k26g26k4b6-b000050-ba304080-g004010-k000000/)|
-|![Bailey Atlanta National example sett](/setts/s15/b26k4b4k4b4ba26g26k4g6k4g26k26g26k4b6-b000050-ba304080-g004010-k000000/sett.png)|
+| [Bailey Atlanta National](/setts/s15/b13k2b2k2b2ba13g13k2g3k2g13k13g13k2b3~b202060-ba2c2c80-g006818-k101010~x2/)|
+|![Bailey Atlanta National example sett](/setts/s15/b13k2b2k2b2ba13g13k2g3k2g13k13g13k2b3~b202060-ba2c2c80-g006818-k101010~x2/sett.png)|
+| [Bailey Atlanta National](/setts/s15/b13k2b2k2b2ba13g13k2g3k2g13k13g13k2b3~b000050-ba304080-g004010-k000000~x2/)|
+|![Bailey Atlanta National example sett](/setts/s15/b13k2b2k2b2ba13g13k2g3k2g13k13g13k2b3~b000050-ba304080-g004010-k000000~x2/sett.png)|

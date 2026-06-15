@@ -16,7 +16,7 @@ BBGBWBWBWKB
 
 | Tartans |
 |---------------|
-| [Lorne Dress (Dance)](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g006818-k101010-we0e0e0/)|
-|![Lorne Dress (Dance) example sett](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g006818-k101010-we0e0e0/sett.png)|
-| [Lorne Dress (Dance)](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g289c18-k101010-we0e0e0/)|
-|![Lorne Dress (Dance) example sett](/setts/s11/b6ba2g40ba40w4ba4w4ba4w64k2ba6-b202060-ba3850c8-g289c18-k101010-we0e0e0/sett.png)|
+| [Lorne Dress (Dance)](/setts/s11/b3ba1g20ba20w2ba2w2ba2w32k1ba3~b202060-ba3850c8-g006818-k101010-we0e0e0~x2/)|
+|![Lorne Dress (Dance) example sett](/setts/s11/b3ba1g20ba20w2ba2w2ba2w32k1ba3~b202060-ba3850c8-g006818-k101010-we0e0e0~x2/sett.png)|
+| [Lorne Dress (Dance)](/setts/s11/b3ba1g20ba20w2ba2w2ba2w32k1ba3~b202060-ba3850c8-g289c18-k101010-we0e0e0~x2/)|
+|![Lorne Dress (Dance) example sett](/setts/s11/b3ba1g20ba20w2ba2w2ba2w32k1ba3~b202060-ba3850c8-g289c18-k101010-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ GBRKGKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g10k4g56k20r52b8g8-b304080-g008000-k000000-r806050/tartan.png)
+![Woven sample](/setts/s7/g5k2g28k10r26b4g4~b304080-g008000-k000000-r806050~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRKGKG
 
 | Tartans |
 |---------------|
-| [John Telfar, Dunbar hunting](/setts/s7/g10k4g56k20r52b8g8-b304080-g008000-k000000-r806050/)|
-|![John Telfar, Dunbar hunting example sett](/setts/s7/g10k4g56k20r52b8g8-b304080-g008000-k000000-r806050/sett.png)|
+| [John Telfar, Dunbar hunting](/setts/s7/g5k2g28k10r26b4g4~b304080-g008000-k000000-r806050~x2/)|
+|![John Telfar, Dunbar hunting example sett](/setts/s7/g5k2g28k10r26b4g4~b304080-g008000-k000000-r806050~x2/sett.png)|

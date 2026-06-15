@@ -16,5 +16,5 @@ RGRGRGRGYGBGRGRGRGRWRWGWRW
 
 | Tartans |
 |---------------|
-| [Maple Leaf Dress (Lumsden)](/setts/s26/r4g4r24ga20r24g4r4g36y12ga12b12g36r4g4r24gb20r24g4r4w4r4w48ga4w48r4w4-b4c3428-g003820-ga289c18-gb006818-ra00048-we0e0e0-ybc8c00/)|
-|![Maple Leaf Dress (Lumsden) example sett](/setts/s26/r4g4r24ga20r24g4r4g36y12ga12b12g36r4g4r24gb20r24g4r4w4r4w48ga4w48r4w4-b4c3428-g003820-ga289c18-gb006818-ra00048-we0e0e0-ybc8c00/sett.png)|
+| [Maple Leaf Dress (Lumsden)](/setts/s26/r1g1r6ga5r6g1r1g9y3ga3b3g9r1g1r6gb5r6g1r1w1r1w12ga1w12r1w1~b4c3428-g003820-ga289c18-gb006818-ra00048-we0e0e0-ybc8c00~x4/)|
+|![Maple Leaf Dress (Lumsden) example sett](/setts/s26/r1g1r6ga5r6g1r1g9y3ga3b3g9r1g1r6gb5r6g1r1w1r1w12ga1w12r1w1~b4c3428-g003820-ga289c18-gb006818-ra00048-we0e0e0-ybc8c00~x4/sett.png)|

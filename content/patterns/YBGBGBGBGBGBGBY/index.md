@@ -16,5 +16,5 @@ YBGBGBGBGBGBGBY
 
 | Tartans |
 |---------------|
-| [Kerry, County](/setts/s15/y4b6g6b8ga32b6g6b8ga6b6g32b8ga6b6y4-b003c64-g5c6428-ga604000-yd09800/)|
-|![Kerry, County example sett](/setts/s15/y4b6g6b8ga32b6g6b8ga6b6g32b8ga6b6y4-b003c64-g5c6428-ga604000-yd09800/sett.png)|
+| [Kerry, County](/setts/s15/y2b3g3b4ga16b3g3b4ga3b3g16b4ga3b3y2~b003c64-g5c6428-ga604000-yd09800~x2/)|
+|![Kerry, County example sett](/setts/s15/y2b3g3b4ga16b3g3b4ga3b3g16b4ga3b3y2~b003c64-g5c6428-ga604000-yd09800~x2/sett.png)|

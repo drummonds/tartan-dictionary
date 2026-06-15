@@ -16,5 +16,5 @@ GGRGWGWGWGWGR
 
 | Tartans |
 |---------------|
-| [All Ireland Green](/setts/s13/g12ga4r4g60w4ga8w4gb4w2gb40w2ga4r8-g006818-ga289c18-gb003820-r880000-wc9c9c9/)|
-|![All Ireland Green example sett](/setts/s13/g12ga4r4g60w4ga8w4gb4w2gb40w2ga4r8-g006818-ga289c18-gb003820-r880000-wc9c9c9/sett.png)|
+| [All Ireland Green](/setts/s13/g6ga2r2g30w2ga4w2gb2w1gb20w1ga2r4~g006818-ga289c18-gb003820-r880000-wc9c9c9~x2/)|
+|![All Ireland Green example sett](/setts/s13/g6ga2r2g30w2ga4w2gb2w1gb20w1ga2r4~g006818-ga289c18-gb003820-r880000-wc9c9c9~x2/sett.png)|

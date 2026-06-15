@@ -6,7 +6,7 @@ BGBRKRB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b128r6k6r6ba122g10ba12-b202060-ba440044-g003c14-k101010-rff0000/tartan.png)
+![Woven sample](/setts/s7/b64r3k3r3ba61g5ba6~b202060-ba440044-g003c14-k101010-rff0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBRKRB
 
 | Tartans |
 |---------------|
-| [Rutherford, John (Personal)](/setts/s7/b128r6k6r6ba122g10ba12-b202060-ba440044-g003c14-k101010-rff0000/)|
-|![Rutherford, John (Personal) example sett](/setts/s7/b128r6k6r6ba122g10ba12-b202060-ba440044-g003c14-k101010-rff0000/sett.png)|
-| [Rutherford, John (Personal)](/setts/s7/b128r6k6r6ba122g10ba12-b202060-ba440044-g003820-k101010-rc80000/)|
-|![Rutherford, John (Personal) example sett](/setts/s7/b128r6k6r6ba122g10ba12-b202060-ba440044-g003820-k101010-rc80000/sett.png)|
+| [Rutherford, John (Personal)](/setts/s7/b64r3k3r3ba61g5ba6~b202060-ba440044-g003c14-k101010-rff0000~x2/)|
+|![Rutherford, John (Personal) example sett](/setts/s7/b64r3k3r3ba61g5ba6~b202060-ba440044-g003c14-k101010-rff0000~x2/sett.png)|
+| [Rutherford, John (Personal)](/setts/s7/b64r3k3r3ba61g5ba6~b202060-ba440044-g003820-k101010-rc80000~x2/)|
+|![Rutherford, John (Personal) example sett](/setts/s7/b64r3k3r3ba61g5ba6~b202060-ba440044-g003820-k101010-rc80000~x2/sett.png)|

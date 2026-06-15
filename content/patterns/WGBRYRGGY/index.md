@@ -16,5 +16,5 @@ WGBRYRGGY
 
 | Tartans |
 |---------------|
-| [Pienaar (Personal)](/setts/s9/y6g12ga64r8y4r4b14ga4w4-b780078-g006818-ga003820-rc80000-we0e0e0-ye8c000/)|
-|![Pienaar (Personal) example sett](/setts/s9/y6g12ga64r8y4r4b14ga4w4-b780078-g006818-ga003820-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Pienaar (Personal)](/setts/s9/y3g6ga32r4y2r2b7ga2w2~b780078-g006818-ga003820-rc80000-we0e0e0-ye8c000~x2/)|
+|![Pienaar (Personal) example sett](/setts/s9/y3g6ga32r4y2r2b7ga2w2~b780078-g006818-ga003820-rc80000-we0e0e0-ye8c000~x2/sett.png)|

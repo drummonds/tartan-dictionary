@@ -16,5 +16,5 @@ YBGBRBGBRBGBRBY
 
 | Tartans |
 |---------------|
-| [Kerry](/setts/s15/y4b6g6b8r32b6g6b8r6b6g32b8r6b6y4-b304080-g008000-r806050-yf0c000/)|
-|![Kerry example sett](/setts/s15/y4b6g6b8r32b6g6b8r6b6g32b8r6b6y4-b304080-g008000-r806050-yf0c000/sett.png)|
+| [Kerry](/setts/s15/y2b3g3b4r16b3g3b4r3b3g16b4r3b3y2~b304080-g008000-r806050-yf0c000~x2/)|
+|![Kerry example sett](/setts/s15/y2b3g3b4r16b3g3b4r3b3g16b4r3b3y2~b304080-g008000-r806050-yf0c000~x2/sett.png)|

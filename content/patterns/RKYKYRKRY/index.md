@@ -16,5 +16,5 @@ RKYKYRKRY
 
 | Tartans |
 |---------------|
-| [Anthony Plaid Red](/setts/s9/r72k4y12k4ya4r12k8r8ya8-k101010-r880000-ye8c000-yab8b8b8/)|
-|![Anthony Plaid Red example sett](/setts/s9/r72k4y12k4ya4r12k8r8ya8-k101010-r880000-ye8c000-yab8b8b8/sett.png)|
+| [Anthony Plaid Red](/setts/s9/r18k1y3k1ya1r3k2r2ya2~k101010-r880000-ye8c000-yab8b8b8~x4/)|
+|![Anthony Plaid Red example sett](/setts/s9/r18k1y3k1ya1r3k2r2ya2~k101010-r880000-ye8c000-yab8b8b8~x4/sett.png)|

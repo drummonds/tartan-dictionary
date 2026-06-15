@@ -16,5 +16,5 @@ KGKYKGKKKKKKKKWKWKKKKKKKKGKRKGKKKKKKKKWKWKKKKKKK
 
 | Tartans |
 |---------------|
-| [Recovery hunting](/setts/s48/k4g32k4y4k4g32k4ka4k4ka4k4ka4k4ka32w4ka8w4ka32k4ka4k4ka4k4ka4k4g32k4r4k4g32k4ka4k4ka4k4ka4k4ka32w4ka8w4ka32k4ka4k4ka4k4ka4-g008000-k000000-ka000030-rc00000-we0e0e0-yf0c000/)|
-|![Recovery hunting example sett](/setts/s48/k4g32k4y4k4g32k4ka4k4ka4k4ka4k4ka32w4ka8w4ka32k4ka4k4ka4k4ka4k4g32k4r4k4g32k4ka4k4ka4k4ka4k4ka32w4ka8w4ka32k4ka4k4ka4k4ka4-g008000-k000000-ka000030-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Recovery hunting](/setts/s48/k1g8k1y1k1g8k1ka1k1ka1k1ka1k1ka8w1ka2w1ka8k1ka1k1ka1k1ka1k1g8k1r1k1g8k1ka1k1ka1k1ka1k1ka8w1ka2w1ka8k1ka1k1ka1k1ka1~g008000-k000000-ka000030-rc00000-we0e0e0-yf0c000~x4/)|
+|![Recovery hunting example sett](/setts/s48/k1g8k1y1k1g8k1ka1k1ka1k1ka1k1ka8w1ka2w1ka8k1ka1k1ka1k1ka1k1g8k1r1k1g8k1ka1k1ka1k1ka1k1ka8w1ka2w1ka8k1ka1k1ka1k1ka1~g008000-k000000-ka000030-rc00000-we0e0e0-yf0c000~x4/sett.png)|

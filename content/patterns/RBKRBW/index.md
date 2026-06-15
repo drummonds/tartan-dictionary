@@ -6,7 +6,7 @@ RBKRBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4b48k20ra12b20w4-b304080-k000000-rc00020-ra906030-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r1b12k5ra3b5w1~b304080-k000000-rc00020-ra906030-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKRBW
 
 | Tartans |
 |---------------|
-| [Massachusetts](/setts/s6/r4b48k20ra12b20w4-b304080-k000000-rc00020-ra906030-we0e0e0/)|
-|![Massachusetts example sett](/setts/s6/r4b48k20ra12b20w4-b304080-k000000-rc00020-ra906030-we0e0e0/sett.png)|
+| [Massachusetts](/setts/s6/r1b12k5ra3b5w1~b304080-k000000-rc00020-ra906030-we0e0e0~x4/)|
+|![Massachusetts example sett](/setts/s6/r1b12k5ra3b5w1~b304080-k000000-rc00020-ra906030-we0e0e0~x4/sett.png)|

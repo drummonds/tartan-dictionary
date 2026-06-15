@@ -6,7 +6,7 @@ KBBRYBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k124b30ba30r40y10b10k30-b070552-ba46306e-k101010-rad6d14-yfbc684/tartan.png)
+![Woven sample](/setts/s7/k62b15ba15r20y5b5k15~b070552-ba46306e-k101010-rad6d14-yfbc684~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBBRYBK
 
 | Tartans |
 |---------------|
-| [Black Raven](/setts/s7/k124b30ba30r40y10b10k30-b070552-ba46306e-k101010-rad6d14-yfbc684/)|
-|![Black Raven example sett](/setts/s7/k124b30ba30r40y10b10k30-b070552-ba46306e-k101010-rad6d14-yfbc684/sett.png)|
+| [Black Raven](/setts/s7/k62b15ba15r20y5b5k15~b070552-ba46306e-k101010-rad6d14-yfbc684~x2/)|
+|![Black Raven example sett](/setts/s7/k62b15ba15r20y5b5k15~b070552-ba46306e-k101010-rad6d14-yfbc684~x2/sett.png)|

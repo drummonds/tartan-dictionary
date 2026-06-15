@@ -6,7 +6,7 @@ GYBKBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y5b24k8ba18y6g3-b202060-ba2c2c80-g604000-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s6/y5b24k8ba18y6g3~b202060-ba2c2c80-g604000-k101010-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYBKBY
 
 | Tartans |
 |---------------|
-| [Cala Homes (Corporate)](/setts/s6/y5b24k8ba18y6g3-b202060-ba2c2c80-g604000-k101010-ye8c000/)|
-|![Cala Homes (Corporate) example sett](/setts/s6/y5b24k8ba18y6g3-b202060-ba2c2c80-g604000-k101010-ye8c000/sett.png)|
+| [Cala Homes (Corporate)](/setts/s6/y5b24k8ba18y6g3~b202060-ba2c2c80-g604000-k101010-ye8c000/)|
+|![Cala Homes (Corporate) example sett](/setts/s6/y5b24k8ba18y6g3~b202060-ba2c2c80-g604000-k101010-ye8c000/sett.png)|

@@ -16,5 +16,5 @@ KBBBKBKBRKBRBBK
 
 | Tartans |
 |---------------|
-| [GOLF (Corporate)](/setts/s15/k30b4ba2r2bb2k30r2ba4k30bb2k30b8ba4bb2k30-b440044-ba14283c-bb2888c4-k101010-rc80000/)|
-|![GOLF (Corporate) example sett](/setts/s15/k30b4ba2r2bb2k30r2ba4k30bb2k30b8ba4bb2k30-b440044-ba14283c-bb2888c4-k101010-rc80000/sett.png)|
+| [GOLF (Corporate)](/setts/s15/k15b2ba1r1bb1k15r1ba2k15bb1k15b4ba2bb1k15~b440044-ba14283c-bb2888c4-k101010-rc80000~x2/)|
+|![GOLF (Corporate) example sett](/setts/s15/k15b2ba1r1bb1k15r1ba2k15bb1k15b4ba2bb1k15~b440044-ba14283c-bb2888c4-k101010-rc80000~x2/sett.png)|

@@ -16,5 +16,5 @@ BBKGBBBBKBKBGBKBKBBBBGKB
 
 | Tartans |
 |---------------|
-| [Scotland 1782](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/)|
-|![Scotland 1782 example sett](/setts/s24/b60k8g6ba4bb4ba4bb20k4bb4k8bb4g6bb4k8bb4k4bb20ba4bb4ba4g6k8b60bc6-b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000/sett.png)|
+| [Scotland 1782](/setts/s24/b30k4g3ba2bb2ba2bb10k2bb2k4bb2g3bb2k4bb2k2bb10ba2bb2ba2g3k4b30bc3~b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000~x2/)|
+|![Scotland 1782 example sett](/setts/s24/b30k4g3ba2bb2ba2bb10k2bb2k4bb2g3bb2k4bb2k2bb10ba2bb2ba2g3k4b30bc3~b2c2c80-ba780078-bb640054-bc788cb4-g408060-k000000~x2/sett.png)|

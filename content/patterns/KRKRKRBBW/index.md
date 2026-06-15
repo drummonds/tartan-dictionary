@@ -16,5 +16,5 @@ KRKRKRBBW
 
 | Tartans |
 |---------------|
-| [Real Mary King's Close, The](/setts/s9/k4r4k30ra4k8ra4b18ba54w4-b545151-ba352f2f-k101010-red0808-ra8d8a8a-wffffff/)|
-|![Real Mary King's Close, The example sett](/setts/s9/k4r4k30ra4k8ra4b18ba54w4-b545151-ba352f2f-k101010-red0808-ra8d8a8a-wffffff/sett.png)|
+| [Real Mary King's Close, The](/setts/s9/k2r2k15ra2k4ra2b9ba27w2~b545151-ba352f2f-k101010-red0808-ra8d8a8a-wffffff~x2/)|
+|![Real Mary King's Close, The example sett](/setts/s9/k2r2k15ra2k4ra2b9ba27w2~b545151-ba352f2f-k101010-red0808-ra8d8a8a-wffffff~x2/sett.png)|

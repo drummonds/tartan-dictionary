@@ -16,5 +16,5 @@ RBKBGWGWGW
 
 | Tartans |
 |---------------|
-| [Windsor](/setts/s10/r16b48k72b16g88w4g8w8g12w8-b0c585c-g8c7038-k101010-r880000-wc0c0c0/)|
-|![Windsor example sett](/setts/s10/r16b48k72b16g88w4g8w8g12w8-b0c585c-g8c7038-k101010-r880000-wc0c0c0/sett.png)|
+| [Windsor](/setts/s10/r4b12k18b4g22w1g2w2g3w2~b0c585c-g8c7038-k101010-r880000-wc0c0c0~x4/)|
+|![Windsor example sett](/setts/s10/r4b12k18b4g22w1g2w2g3w2~b0c585c-g8c7038-k101010-r880000-wc0c0c0~x4/sett.png)|

@@ -16,7 +16,7 @@ GRBGRGRBR
 
 | Tartans |
 |---------------|
-| [Baronage](/setts/s9/g12r36b4g36r4g4r32ba36r4-b3c82af-ba141e46-g005020-rc80028/)|
-|![Baronage example sett](/setts/s9/g12r36b4g36r4g4r32ba36r4-b3c82af-ba141e46-g005020-rc80028/sett.png)|
-| [Convention of the Baronage (Corp)](/setts/s9/g12r36b4g36r4g4r36ba36r4-b2888c4-ba2c2c80-g006818-rc80000/)|
-|![Convention of the Baronage (Corp) example sett](/setts/s9/g12r36b4g36r4g4r36ba36r4-b2888c4-ba2c2c80-g006818-rc80000/sett.png)|
+| [Baronage](/setts/s9/g3r9b1g9r1g1r8ba9r1~b3c82af-ba141e46-g005020-rc80028~x4/)|
+|![Baronage example sett](/setts/s9/g3r9b1g9r1g1r8ba9r1~b3c82af-ba141e46-g005020-rc80028~x4/sett.png)|
+| [Convention of the Baronage (Corp)](/setts/s9/g3r9b1g9r1g1r9ba9r1~b2888c4-ba2c2c80-g006818-rc80000~x4/)|
+|![Convention of the Baronage (Corp) example sett](/setts/s9/g3r9b1g9r1g1r9ba9r1~b2888c4-ba2c2c80-g006818-rc80000~x4/sett.png)|

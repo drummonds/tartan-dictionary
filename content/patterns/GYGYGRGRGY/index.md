@@ -16,5 +16,5 @@ GYGYGRGRGY
 
 | Tartans |
 |---------------|
-| [Montreal](/setts/s10/y156g20r4g2r4g12y4g6y4g86-g006818-rc80000-ya08858/)|
-|![Montreal example sett](/setts/s10/y156g20r4g2r4g12y4g6y4g86-g006818-rc80000-ya08858/sett.png)|
+| [Montreal](/setts/s10/y78g10r2g1r2g6y2g3y2g43~g006818-rc80000-ya08858~x2/)|
+|![Montreal example sett](/setts/s10/y78g10r2g1r2g6y2g3y2g43~g006818-rc80000-ya08858~x2/sett.png)|

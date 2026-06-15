@@ -6,7 +6,7 @@ GRKBGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8r16k24b4g28k8-b5480b0-g008000-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s6/g2r4k6b1g7k2~b5480b0-g008000-k000000-rc00000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRKBGK
 
 | Tartans |
 |---------------|
-| [Walker, James](/setts/s6/g8r16k24b4g28k8-b5480b0-g008000-k000000-rc00000/)|
-|![Walker, James example sett](/setts/s6/g8r16k24b4g28k8-b5480b0-g008000-k000000-rc00000/sett.png)|
+| [Walker, James](/setts/s6/g2r4k6b1g7k2~b5480b0-g008000-k000000-rc00000~x4/)|
+|![Walker, James example sett](/setts/s6/g2r4k6b1g7k2~b5480b0-g008000-k000000-rc00000~x4/sett.png)|

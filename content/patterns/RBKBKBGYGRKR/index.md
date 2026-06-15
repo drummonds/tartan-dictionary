@@ -16,5 +16,5 @@ RBKBKBGYGRKR
 
 | Tartans |
 |---------------|
-| [Highland Spring (1985)](/setts/s12/r32k4r18g24y4g20b6k4b6k4b6r20-b64a0f0-g3c7828-k000000-rc82800-yc88c00/)|
-|![Highland Spring (1985) example sett](/setts/s12/r32k4r18g24y4g20b6k4b6k4b6r20-b64a0f0-g3c7828-k000000-rc82800-yc88c00/sett.png)|
+| [Highland Spring (1985)](/setts/s12/r16k2r9g12y2g10b3k2b3k2b3r10~b64a0f0-g3c7828-k000000-rc82800-yc88c00~x2/)|
+|![Highland Spring (1985) example sett](/setts/s12/r16k2r9g12y2g10b3k2b3k2b3r10~b64a0f0-g3c7828-k000000-rc82800-yc88c00~x2/sett.png)|

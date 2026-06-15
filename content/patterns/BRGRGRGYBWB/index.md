@@ -16,5 +16,5 @@ BRGRGRGYBWB
 
 | Tartans |
 |---------------|
-| [Currie](/setts/s11/b32w6b2y8g48r2g6r8g6r2ba16-b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/)|
-|![Currie example sett](/setts/s11/b32w6b2y8g48r2g6r8g6r2ba16-b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Currie](/setts/s11/b16w3b1y4g24r1g3r4g3r1ba8~b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Currie example sett](/setts/s11/b16w3b1y4g24r1g3r4g3r1ba8~b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

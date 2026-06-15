@@ -16,5 +16,5 @@ RWBWBWBRBW
 
 | Tartans |
 |---------------|
-| [Siddle (Name)](/setts/s10/r6w58b4w4b4w4b28r62b4w4-b202060-r880000-wf8fcdc/)|
-|![Siddle (Name) example sett](/setts/s10/r6w58b4w4b4w4b28r62b4w4-b202060-r880000-wf8fcdc/sett.png)|
+| [Siddle (Name)](/setts/s10/r3w29b2w2b2w2b14r31b2w2~b202060-r880000-wf8fcdc~x2/)|
+|![Siddle (Name) example sett](/setts/s10/r3w29b2w2b2w2b14r31b2w2~b202060-r880000-wf8fcdc~x2/sett.png)|

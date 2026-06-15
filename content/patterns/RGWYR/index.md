@@ -6,7 +6,7 @@ RGWYR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r44g34w4y12r38-g006818-rc80000-wfcfcfc-y48a4c0/tartan.png)
+![Woven sample](/setts/s5/r22g17w2y6r19~g006818-rc80000-wfcfcfc-y48a4c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGWYR
 
 | Tartans |
 |---------------|
-| [Menzies #2](/setts/s5/r44g34w4y12r38-g006818-rc80000-wfcfcfc-y48a4c0/)|
-|![Menzies #2 example sett](/setts/s5/r44g34w4y12r38-g006818-rc80000-wfcfcfc-y48a4c0/sett.png)|
+| [Menzies #2](/setts/s5/r22g17w2y6r19~g006818-rc80000-wfcfcfc-y48a4c0~x2/)|
+|![Menzies #2 example sett](/setts/s5/r22g17w2y6r19~g006818-rc80000-wfcfcfc-y48a4c0~x2/sett.png)|

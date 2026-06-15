@@ -16,5 +16,5 @@ BKBKBKWKW
 
 | Tartans |
 |---------------|
-| [Nocken (Personal)](/setts/s9/w6k12wa4k12b4k4b64k4ba2-b202060-ba5c5c5c-k101010-w98c8e8-wae8ccb8/)|
-|![Nocken (Personal) example sett](/setts/s9/w6k12wa4k12b4k4b64k4ba2-b202060-ba5c5c5c-k101010-w98c8e8-wae8ccb8/sett.png)|
+| [Nocken (Personal)](/setts/s9/w3k6wa2k6b2k2b32k2ba1~b202060-ba5c5c5c-k101010-w98c8e8-wae8ccb8~x2/)|
+|![Nocken (Personal) example sett](/setts/s9/w3k6wa2k6b2k2b32k2ba1~b202060-ba5c5c5c-k101010-w98c8e8-wae8ccb8~x2/sett.png)|

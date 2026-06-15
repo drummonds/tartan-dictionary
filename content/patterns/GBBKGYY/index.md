@@ -6,7 +6,7 @@ GBBKGYY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g30b5ba32k32g36y2ya5-baa00ff-ba0000cd-g008b00-k101010-y86c67c-yaffc125/tartan.png)
+![Woven sample](/setts/s7/g30b5ba32k32g36y2ya5~baa00ff-ba0000cd-g008b00-k101010-y86c67c-yaffc125/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBBKGYY
 
 | Tartans |
 |---------------|
-| [Camelot (Corporate)](/setts/s7/g30b5ba32k32g36y2ya5-baa00ff-ba0000cd-g008b00-k101010-y86c67c-yaffc125/)|
-|![Camelot (Corporate) example sett](/setts/s7/g30b5ba32k32g36y2ya5-baa00ff-ba0000cd-g008b00-k101010-y86c67c-yaffc125/sett.png)|
+| [Camelot (Corporate)](/setts/s7/g30b5ba32k32g36y2ya5~baa00ff-ba0000cd-g008b00-k101010-y86c67c-yaffc125/)|
+|![Camelot (Corporate) example sett](/setts/s7/g30b5ba32k32g36y2ya5~baa00ff-ba0000cd-g008b00-k101010-y86c67c-yaffc125/sett.png)|

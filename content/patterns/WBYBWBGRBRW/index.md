@@ -16,5 +16,5 @@ WBYBWBGRBRW
 
 | Tartans |
 |---------------|
-| [Stewart dress, Blue](/setts/s11/w144b40y4b6w4b6g32r12b4r10w4-b000050-g808080-r806050-we0e0e0-yf0c000/)|
-|![Stewart dress, Blue example sett](/setts/s11/w144b40y4b6w4b6g32r12b4r10w4-b000050-g808080-r806050-we0e0e0-yf0c000/sett.png)|
+| [Stewart dress, Blue](/setts/s11/w72b20y2b3w2b3g16r6b2r5w2~b000050-g808080-r806050-we0e0e0-yf0c000~x2/)|
+|![Stewart dress, Blue example sett](/setts/s11/w72b20y2b3w2b3g16r6b2r5w2~b000050-g808080-r806050-we0e0e0-yf0c000~x2/sett.png)|

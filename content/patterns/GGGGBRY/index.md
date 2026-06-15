@@ -6,7 +6,7 @@ GGGGBRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g6ga8g4ga44b10r32y6-b5c5c5c-g006818-ga604000-r901c38-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g3ga4g2ga22b5r16y3~b5c5c5c-g006818-ga604000-r901c38-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGGBRY
 
 | Tartans |
 |---------------|
-| [Pubcrawlers (Corporate)](/setts/s7/g6ga8g4ga44b10r32y6-b5c5c5c-g006818-ga604000-r901c38-ye8c000/)|
-|![Pubcrawlers (Corporate) example sett](/setts/s7/g6ga8g4ga44b10r32y6-b5c5c5c-g006818-ga604000-r901c38-ye8c000/sett.png)|
+| [Pubcrawlers (Corporate)](/setts/s7/g3ga4g2ga22b5r16y3~b5c5c5c-g006818-ga604000-r901c38-ye8c000~x2/)|
+|![Pubcrawlers (Corporate) example sett](/setts/s7/g3ga4g2ga22b5r16y3~b5c5c5c-g006818-ga604000-r901c38-ye8c000~x2/sett.png)|

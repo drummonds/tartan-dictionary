@@ -6,7 +6,7 @@ KGWWWGWW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w48w2g18w2w18w4g4k4-g808080-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/w24w1g9w1w9w2g2k2~g808080-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGWWWGWW
 
 | Tartans |
 |---------------|
-| [Gairloch (Fashion)](/setts/s8/w48w2g18w2w18w4g4k4-g808080-k101010-we0e0e0/)|
-|![Gairloch (Fashion) example sett](/setts/s8/w48w2g18w2w18w4g4k4-g808080-k101010-we0e0e0/sett.png)|
+| [Gairloch (Fashion)](/setts/s8/w24w1g9w1w9w2g2k2~g808080-k101010-we0e0e0~x2/)|
+|![Gairloch (Fashion) example sett](/setts/s8/w24w1g9w1w9w2g2k2~g808080-k101010-we0e0e0~x2/sett.png)|

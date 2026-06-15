@@ -16,5 +16,5 @@ RKWKRKBKRKY
 
 | Tartans |
 |---------------|
-| [Andreou Family (Personal)](/setts/s11/r4k8w32k8r4k8b32k8r4k8y4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Andreou Family (Personal) example sett](/setts/s11/r4k8w32k8r4k8b32k8r4k8y4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2b8k2r1k2y1~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x4/)|
+|![Andreou Family (Personal) example sett](/setts/s11/r1k2w8k2r1k2b8k2r1k2y1~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x4/sett.png)|

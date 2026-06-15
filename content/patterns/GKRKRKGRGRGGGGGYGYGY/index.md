@@ -16,5 +16,5 @@ GKRKRKGRGRGGGGGYGYGY
 
 | Tartans |
 |---------------|
-| [Spice of Life](/setts/s20/g40k4r4k12r4k4g4r4g12r4g4ga4gb12ga4gb4y4ga12y4ga4y40-g21352a-ga725b49-gb463f2c-k101010-r661e08-yab9b8e/)|
-|![Spice of Life example sett](/setts/s20/g40k4r4k12r4k4g4r4g12r4g4ga4gb12ga4gb4y4ga12y4ga4y40-g21352a-ga725b49-gb463f2c-k101010-r661e08-yab9b8e/sett.png)|
+| [Spice of Life](/setts/s20/g10k1r1k3r1k1g1r1g3r1g1ga1gb3ga1gb1y1ga3y1ga1y10~g21352a-ga725b49-gb463f2c-k101010-r661e08-yab9b8e~x4/)|
+|![Spice of Life example sett](/setts/s20/g10k1r1k3r1k1g1r1g3r1g1ga1gb3ga1gb1y1ga3y1ga1y10~g21352a-ga725b49-gb463f2c-k101010-r661e08-yab9b8e~x4/sett.png)|

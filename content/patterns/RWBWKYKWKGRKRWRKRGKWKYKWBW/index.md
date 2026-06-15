@@ -16,5 +16,5 @@ RWBWKYKWKGRKRWRKRGKWKYKWBW
 
 | Tartans |
 |---------------|
-| [Stewart Victoria](/setts/s26/w96b12w12k24y4k4w4k4g32r16k4r8w4r8k4r16g32k4w4k4y4k24w12b12w96r8-b2474e8-g006818-k101010-r880000-wc0c0c0-yd09800/)|
-|![Stewart Victoria example sett](/setts/s26/w96b12w12k24y4k4w4k4g32r16k4r8w4r8k4r16g32k4w4k4y4k24w12b12w96r8-b2474e8-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Stewart Victoria](/setts/s26/w24b3w3k6y1k1w1k1g8r4k1r2w1r2k1r4g8k1w1k1y1k6w3b3w24r2~b2474e8-g006818-k101010-r880000-wc0c0c0-yd09800~x4/)|
+|![Stewart Victoria example sett](/setts/s26/w24b3w3k6y1k1w1k1g8r4k1r2w1r2k1r4g8k1w1k1y1k6w3b3w24r2~b2474e8-g006818-k101010-r880000-wc0c0c0-yd09800~x4/sett.png)|

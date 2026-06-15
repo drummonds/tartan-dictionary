@@ -16,5 +16,5 @@ GGGGGGGGGYKGKGKY
 
 | Tartans |
 |---------------|
-| [Hanly](/setts/s16/g4ga4g6ga4g4ga4g4ga6g4y4k18ga52k10g14k4ya4-g006818-ga003820-k101010-ya0a0a0-yae8c000/)|
-|![Hanly example sett](/setts/s16/g4ga4g6ga4g4ga4g4ga6g4y4k18ga52k10g14k4ya4-g006818-ga003820-k101010-ya0a0a0-yae8c000/sett.png)|
+| [Hanly](/setts/s16/g2ga2g3ga2g2ga2g2ga3g2y2k9ga26k5g7k2ya2~g006818-ga003820-k101010-ya0a0a0-yae8c000~x2/)|
+|![Hanly example sett](/setts/s16/g2ga2g3ga2g2ga2g2ga3g2y2k9ga26k5g7k2ya2~g006818-ga003820-k101010-ya0a0a0-yae8c000~x2/sett.png)|

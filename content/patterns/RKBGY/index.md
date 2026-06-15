@@ -6,7 +6,7 @@ RKBGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r60k6b18g18y6-b00008c-g289c18-k101010-r888888-yffe600/tartan.png)
+![Woven sample](/setts/s5/r10k1b3g3y1~b00008c-g289c18-k101010-r888888-yffe600~x6/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RKBGY
 
 | Tartans |
 |---------------|
-| [Celtic Norse Heritage Society](/setts/s5/r60k6b18g18y6-b00008c-g289c18-k101010-r888888-yffe600/)|
-|![Celtic Norse Heritage Society example sett](/setts/s5/r60k6b18g18y6-b00008c-g289c18-k101010-r888888-yffe600/sett.png)|
-| [Celtic Norse Heritage Society](/setts/s5/r60k6b18g18y6-b2c2c80-g006818-k101010-r888888-yfccc00/)|
-|![Celtic Norse Heritage Society example sett](/setts/s5/r60k6b18g18y6-b2c2c80-g006818-k101010-r888888-yfccc00/sett.png)|
+| [Celtic Norse Heritage Society](/setts/s5/r10k1b3g3y1~b00008c-g289c18-k101010-r888888-yffe600~x6/)|
+|![Celtic Norse Heritage Society example sett](/setts/s5/r10k1b3g3y1~b00008c-g289c18-k101010-r888888-yffe600~x6/sett.png)|
+| [Celtic Norse Heritage Society](/setts/s5/r10k1b3g3y1~b2c2c80-g006818-k101010-r888888-yfccc00~x6/)|
+|![Celtic Norse Heritage Society example sett](/setts/s5/r10k1b3g3y1~b2c2c80-g006818-k101010-r888888-yfccc00~x6/sett.png)|

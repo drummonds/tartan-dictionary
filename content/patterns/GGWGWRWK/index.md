@@ -6,7 +6,7 @@ GGWGWRWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k40w8r8w40g40w10g4ga4-g015c16-ga278f1c-k101010-rce1422-wffffff/tartan.png)
+![Woven sample](/setts/s8/k20w4r4w20g20w5g2ga2~g015c16-ga278f1c-k101010-rce1422-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGWGWRWK
 
 | Tartans |
 |---------------|
-| [Hackett, William (Coatbridge) (Personal)](/setts/s8/k40w8r8w40g40w10g4ga4-g015c16-ga278f1c-k101010-rce1422-wffffff/)|
-|![Hackett, William (Coatbridge) (Personal) example sett](/setts/s8/k40w8r8w40g40w10g4ga4-g015c16-ga278f1c-k101010-rce1422-wffffff/sett.png)|
+| [Hackett, William (Coatbridge) (Personal)](/setts/s8/k20w4r4w20g20w5g2ga2~g015c16-ga278f1c-k101010-rce1422-wffffff~x2/)|
+|![Hackett, William (Coatbridge) (Personal) example sett](/setts/s8/k20w4r4w20g20w5g2ga2~g015c16-ga278f1c-k101010-rce1422-wffffff~x2/sett.png)|

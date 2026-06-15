@@ -16,5 +16,5 @@ RBRBRBKRKRKWRWRWR
 
 | Tartans |
 |---------------|
-| [Angus Dress (Convergence 98)](/setts/s17/r8b4r4b4r4b56k56r4k12r4k56w56r4w4r4w4r8-b1474b4-k101010-rc80000-wfcfcfc/)|
-|![Angus Dress (Convergence 98) example sett](/setts/s17/r8b4r4b4r4b56k56r4k12r4k56w56r4w4r4w4r8-b1474b4-k101010-rc80000-wfcfcfc/sett.png)|
+| [Angus Dress (Convergence 98)](/setts/s17/r2b1r1b1r1b14k14r1k3r1k14w14r1w1r1w1r2~b1474b4-k101010-rc80000-wfcfcfc~x4/)|
+|![Angus Dress (Convergence 98) example sett](/setts/s17/r2b1r1b1r1b14k14r1k3r1k14w14r1w1r1w1r2~b1474b4-k101010-rc80000-wfcfcfc~x4/sett.png)|

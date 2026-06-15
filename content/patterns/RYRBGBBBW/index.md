@@ -16,5 +16,5 @@ RYRBGBBBW
 
 | Tartans |
 |---------------|
-| [Heirloom Red Alba (Fashion)](/setts/s9/r8y4r68b20g8b8ba8b46w6-b202060-ba2888c4-g5c6428-ra00000-we0e0e0-ye8c000/)|
-|![Heirloom Red Alba (Fashion) example sett](/setts/s9/r8y4r68b20g8b8ba8b46w6-b202060-ba2888c4-g5c6428-ra00000-we0e0e0-ye8c000/sett.png)|
+| [Heirloom Red Alba (Fashion)](/setts/s9/r4y2r34b10g4b4ba4b23w3~b202060-ba2888c4-g5c6428-ra00000-we0e0e0-ye8c000~x2/)|
+|![Heirloom Red Alba (Fashion) example sett](/setts/s9/r4y2r34b10g4b4ba4b23w3~b202060-ba2888c4-g5c6428-ra00000-we0e0e0-ye8c000~x2/sett.png)|

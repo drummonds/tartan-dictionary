@@ -6,7 +6,7 @@ GKRBGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g90k6r12b18g12k6r90-b304080-g908000-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s7/g15k1r2b3g2k1r15~b304080-g908000-k000000-rc00000~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRBGKR
 
 | Tartans |
 |---------------|
-| [Scrymgeour](/setts/s7/g90k6r12b18g12k6r90-b304080-g908000-k000000-rc00000/)|
-|![Scrymgeour example sett](/setts/s7/g90k6r12b18g12k6r90-b304080-g908000-k000000-rc00000/sett.png)|
+| [Scrymgeour](/setts/s7/g15k1r2b3g2k1r15~b304080-g908000-k000000-rc00000~x6/)|
+|![Scrymgeour example sett](/setts/s7/g15k1r2b3g2k1r15~b304080-g908000-k000000-rc00000~x6/sett.png)|

@@ -6,7 +6,7 @@ GRYBWG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g20r10y2b100w1ga10-b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/tartan.png)
+![Woven sample](/setts/s6/g20r10y2b100w1ga10~b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRYBWG
 
 | Tartans |
 |---------------|
-| [Ravetta (Name)](/setts/s6/g20r10y2b100w1ga10-b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/)|
-|![Ravetta (Name) example sett](/setts/s6/g20r10y2b100w1ga10-b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/sett.png)|
+| [Ravetta (Name)](/setts/s6/g20r10y2b100w1ga10~b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/)|
+|![Ravetta (Name) example sett](/setts/s6/g20r10y2b100w1ga10~b202060-g006818-ga789484-r880000-wfcfcfc-yfccc00/sett.png)|

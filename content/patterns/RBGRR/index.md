@@ -6,7 +6,7 @@ RBGRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4r56g28b28r4-b304080-g008000-rc00000/tartan.png)
+![Woven sample](/setts/s5/r1r14g7b7r1~b304080-g008000-rc00000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBGRR
 
 | Tartans |
 |---------------|
-| [Hugh Fraser of Boblainy](/setts/s5/r4r56g28b28r4-b304080-g008000-rc00000/)|
-|![Hugh Fraser of Boblainy example sett](/setts/s5/r4r56g28b28r4-b304080-g008000-rc00000/sett.png)|
+| [Hugh Fraser of Boblainy](/setts/s5/r1r14g7b7r1~b304080-g008000-rc00000~x4/)|
+|![Hugh Fraser of Boblainy example sett](/setts/s5/r1r14g7b7r1~b304080-g008000-rc00000~x4/sett.png)|

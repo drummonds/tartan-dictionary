@@ -16,5 +16,5 @@ KGKGKGKGK
 
 | Tartans |
 |---------------|
-| [Glen Carron (Fashion)](/setts/s9/k4g48k8ga4k8ga12k4g4k4-g808080-ga006818-k101010/)|
-|![Glen Carron (Fashion) example sett](/setts/s9/k4g48k8ga4k8ga12k4g4k4-g808080-ga006818-k101010/sett.png)|
+| [Glen Carron (Fashion)](/setts/s9/k1g12k2ga1k2ga3k1g1k1~g808080-ga006818-k101010~x4/)|
+|![Glen Carron (Fashion) example sett](/setts/s9/k1g12k2ga1k2ga3k1g1k1~g808080-ga006818-k101010~x4/sett.png)|

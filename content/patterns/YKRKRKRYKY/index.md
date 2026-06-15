@@ -16,7 +16,7 @@ YKRKRKRYKY
 
 | Tartans |
 |---------------|
-| [Einigkeit](/setts/s10/y12k4y4r20k8r8k8r4k70y4-k000000-rff0000-yffcc00/)|
-|![Einigkeit example sett](/setts/s10/y12k4y4r20k8r8k8r4k70y4-k000000-rff0000-yffcc00/sett.png)|
-| [Einigkeit](/setts/s10/y12k4y4r20k8r8k8r4k70y4-k101010-rc80000-ye8c000/)|
-|![Einigkeit example sett](/setts/s10/y12k4y4r20k8r8k8r4k70y4-k101010-rc80000-ye8c000/sett.png)|
+| [Einigkeit](/setts/s10/y6k2y2r10k4r4k4r2k35y2~k000000-rff0000-yffcc00~x2/)|
+|![Einigkeit example sett](/setts/s10/y6k2y2r10k4r4k4r2k35y2~k000000-rff0000-yffcc00~x2/sett.png)|
+| [Einigkeit](/setts/s10/y6k2y2r10k4r4k4r2k35y2~k101010-rc80000-ye8c000~x2/)|
+|![Einigkeit example sett](/setts/s10/y6k2y2r10k4r4k4r2k35y2~k101010-rc80000-ye8c000~x2/sett.png)|

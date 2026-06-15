@@ -6,7 +6,7 @@ KBYR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k100b6y6r100-b003c64-k101010-r880000-ye8c000/tartan.png)
+![Woven sample](/setts/s4/k50b3y3r50~b003c64-k101010-r880000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBYR
 
 | Tartans |
 |---------------|
-| [Hungerford RFC (Corporate)](/setts/s4/k100b6y6r100-b003c64-k101010-r880000-ye8c000/)|
-|![Hungerford RFC (Corporate) example sett](/setts/s4/k100b6y6r100-b003c64-k101010-r880000-ye8c000/sett.png)|
+| [Hungerford RFC (Corporate)](/setts/s4/k50b3y3r50~b003c64-k101010-r880000-ye8c000~x2/)|
+|![Hungerford RFC (Corporate) example sett](/setts/s4/k50b3y3r50~b003c64-k101010-r880000-ye8c000~x2/sett.png)|

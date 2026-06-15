@@ -16,5 +16,5 @@ KWKBBWBWRW
 
 | Tartans |
 |---------------|
-| [Gemmell Blue (2001) (Personal)](/setts/s10/k10w4k4b10ba96w14bb12w4r4w4-b2474e8-ba1c0070-bb3850c8-k101010-r880000-wc0c0c0/)|
-|![Gemmell Blue (2001) (Personal) example sett](/setts/s10/k10w4k4b10ba96w14bb12w4r4w4-b2474e8-ba1c0070-bb3850c8-k101010-r880000-wc0c0c0/sett.png)|
+| [Gemmell Blue (2001) (Personal)](/setts/s10/k5w2k2b5ba48w7bb6w2r2w2~b2474e8-ba1c0070-bb3850c8-k101010-r880000-wc0c0c0~x2/)|
+|![Gemmell Blue (2001) (Personal) example sett](/setts/s10/k5w2k2b5ba48w7bb6w2r2w2~b2474e8-ba1c0070-bb3850c8-k101010-r880000-wc0c0c0~x2/sett.png)|

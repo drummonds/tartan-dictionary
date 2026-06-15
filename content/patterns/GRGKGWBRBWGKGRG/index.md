@@ -16,5 +16,5 @@ GRGKGWBRBWGKGRG
 
 | Tartans |
 |---------------|
-| [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g6r4g28k12g8w4b28ra4b28w4g8k12g28ra4g6-b5c8ca8-g006818-k101010-rc04094-rac80000-we0e0e0/)|
-|![Scottish Heritage USA (SHUSA) (Corp) example sett](/setts/s15/g6r4g28k12g8w4b28ra4b28w4g8k12g28ra4g6-b5c8ca8-g006818-k101010-rc04094-rac80000-we0e0e0/sett.png)|
+| [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3r2g14k6g4w2b14ra2b14w2g4k6g14ra2g3~b5c8ca8-g006818-k101010-rc04094-rac80000-we0e0e0~x2/)|
+|![Scottish Heritage USA (SHUSA) (Corp) example sett](/setts/s15/g3r2g14k6g4w2b14ra2b14w2g4k6g14ra2g3~b5c8ca8-g006818-k101010-rc04094-rac80000-we0e0e0~x2/sett.png)|

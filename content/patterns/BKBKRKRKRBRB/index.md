@@ -16,5 +16,5 @@ BKBKRKRKRBRB
 
 | Tartans |
 |---------------|
-| [Monarch of Argyll (Fashion)](/setts/s12/b23k6b6k6r38k40r6k40r38b38r6b6-b5c5c5c-k101010-r888888/)|
-|![Monarch of Argyll (Fashion) example sett](/setts/s12/b23k6b6k6r38k40r6k40r38b38r6b6-b5c5c5c-k101010-r888888/sett.png)|
+| [Monarch of Argyll (Fashion)](/setts/s12/b23k6b6k6r38k40r6k40r38b38r6b6~b5c5c5c-k101010-r888888/)|
+|![Monarch of Argyll (Fashion) example sett](/setts/s12/b23k6b6k6r38k40r6k40r38b38r6b6~b5c5c5c-k101010-r888888/sett.png)|

@@ -16,5 +16,5 @@ RWRWRRRWRWRW
 
 | Tartans |
 |---------------|
-| [Glasgow Fancy Tartan Tartan Number: 4993. Earliest known date: 1984 From Dalgliesh Dancers Fancies swatch book. Sample in STA Dalgety Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r6w30ra36wa30ra6r32ra6wa30ra36w30r6wa6-r888888-ra880000-wfcfcfc-wac0c0c0/)|
-|![Glasgow Fancy Tartan Tartan Number: 4993. Earliest known date: 1984 From Dalgliesh Dancers Fancies swatch book. Sample in STA Dalgety Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r6w30ra36wa30ra6r32ra6wa30ra36w30r6wa6-r888888-ra880000-wfcfcfc-wac0c0c0/sett.png)|
+| [Glasgow Fancy Tartan Tartan Number: 4993. Earliest known date: 1984 From Dalgliesh Dancers Fancies swatch book. Sample in STA Dalgety Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r3w15ra18wa15ra3r16ra3wa15ra18w15r3wa3~r888888-ra880000-wfcfcfc-wac0c0c0~x2/)|
+|![Glasgow Fancy Tartan Tartan Number: 4993. Earliest known date: 1984 From Dalgliesh Dancers Fancies swatch book. Sample in STA Dalgety Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r3w15ra18wa15ra3r16ra3wa15ra18w15r3wa3~r888888-ra880000-wfcfcfc-wac0c0c0~x2/sett.png)|

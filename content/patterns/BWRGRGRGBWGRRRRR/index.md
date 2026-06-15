@@ -16,5 +16,5 @@ BWRGRGRGBWGRRRRR
 
 | Tartans |
 |---------------|
-| [Keilar (2013)](/setts/s16/r30ra6r6ra2r70g10w4b4g70ra2g6ra6g30r10w4b4-b071579-g034a10-rc2761d-raff0000-wffffff/)|
-|![Keilar (2013) example sett](/setts/s16/r30ra6r6ra2r70g10w4b4g70ra2g6ra6g30r10w4b4-b071579-g034a10-rc2761d-raff0000-wffffff/sett.png)|
+| [Keilar (2013)](/setts/s16/r15ra3r3ra1r35g5w2b2g35ra1g3ra3g15r5w2b2~b071579-g034a10-rc2761d-raff0000-wffffff~x2/)|
+|![Keilar (2013) example sett](/setts/s16/r15ra3r3ra1r35g5w2b2g35ra1g3ra3g15r5w2b2~b071579-g034a10-rc2761d-raff0000-wffffff~x2/sett.png)|

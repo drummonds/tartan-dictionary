@@ -16,7 +16,7 @@ GYGBRBRBW
 
 | Tartans |
 |---------------|
-| [Blue Blas Alba](/setts/s9/g8y4g78b20r8b8ra8b50w6-b14283c-g789484-r888888-ra901c38-wffffff-ye8c000/)|
-|![Blue Blas Alba example sett](/setts/s9/g8y4g78b20r8b8ra8b50w6-b14283c-g789484-r888888-ra901c38-wffffff-ye8c000/sett.png)|
-| [Blue Blas Alba (Fashion)](/setts/s9/g8y4g78b20r8b8ra8b50w6-b14283c-g789484-r888888-ra901c38-we0e0e0-ye8c000/)|
-|![Blue Blas Alba (Fashion) example sett](/setts/s9/g8y4g78b20r8b8ra8b50w6-b14283c-g789484-r888888-ra901c38-we0e0e0-ye8c000/sett.png)|
+| [Blue Blas Alba](/setts/s9/g4y2g39b10r4b4ra4b25w3~b14283c-g789484-r888888-ra901c38-wffffff-ye8c000~x2/)|
+|![Blue Blas Alba example sett](/setts/s9/g4y2g39b10r4b4ra4b25w3~b14283c-g789484-r888888-ra901c38-wffffff-ye8c000~x2/sett.png)|
+| [Blue Blas Alba (Fashion)](/setts/s9/g4y2g39b10r4b4ra4b25w3~b14283c-g789484-r888888-ra901c38-we0e0e0-ye8c000~x2/)|
+|![Blue Blas Alba (Fashion) example sett](/setts/s9/g4y2g39b10r4b4ra4b25w3~b14283c-g789484-r888888-ra901c38-we0e0e0-ye8c000~x2/sett.png)|

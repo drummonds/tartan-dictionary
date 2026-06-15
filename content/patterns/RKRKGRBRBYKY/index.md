@@ -16,5 +16,5 @@ RKRKGRBRBYKY
 
 | Tartans |
 |---------------|
-| [Celts, Tartan of the](/setts/s12/r12k6r6k6g90r24b24r18b18y6k6y12-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Celts, Tartan of the example sett](/setts/s12/r12k6r6k6g90r24b24r18b18y6k6y12-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Celts, Tartan of the](/setts/s12/r2k1r1k1g15r4b4r3b3y1k1y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x6/)|
+|![Celts, Tartan of the example sett](/setts/s12/r2k1r1k1g15r4b4r3b3y1k1y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x6/sett.png)|

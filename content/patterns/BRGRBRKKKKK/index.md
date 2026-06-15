@@ -16,5 +16,5 @@ BRGRBRKKKKK
 
 | Tartans |
 |---------------|
-| [Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k4ka56k8ka2k8r32b6r4g4r6b2-b207da8-g798480-k101010-ka000000-rbd3776/)|
-|![Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/k4ka56k8ka2k8r32b6r4g4r6b2-b207da8-g798480-k101010-ka000000-rbd3776/sett.png)|
+| [Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k2ka28k4ka1k4r16b3r2g2r3b1~b207da8-g798480-k101010-ka000000-rbd3776~x2/)|
+|![Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/k2ka28k4ka1k4r16b3r2g2r3b1~b207da8-g798480-k101010-ka000000-rbd3776~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKRRRBRW
 
 | Tartans |
 |---------------|
-| [Stephens Dress](/setts/s9/k18r8k4r40ra18r8b36r8w4-b2c2c80-k101010-rc80000-ra888888-we0e0e0/)|
-|![Stephens Dress example sett](/setts/s9/k18r8k4r40ra18r8b36r8w4-b2c2c80-k101010-rc80000-ra888888-we0e0e0/sett.png)|
+| [Stephens Dress](/setts/s9/k9r4k2r20ra9r4b18r4w2~b2c2c80-k101010-rc80000-ra888888-we0e0e0~x2/)|
+|![Stephens Dress example sett](/setts/s9/k9r4k2r20ra9r4b18r4w2~b2c2c80-k101010-rc80000-ra888888-we0e0e0~x2/sett.png)|

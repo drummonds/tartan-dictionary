@@ -6,7 +6,7 @@ BGGBG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b8g40ga60b40g8-b840068-g005020-ga503c14/tartan.png)
+![Woven sample](/setts/s5/b2g10ga15b10g2~b840068-g005020-ga503c14~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGBG
 
 | Tartans |
 |---------------|
-| [Harmony 6](/setts/s5/b8g40ga60b40g8-b840068-g005020-ga503c14/)|
-|![Harmony 6 example sett](/setts/s5/b8g40ga60b40g8-b840068-g005020-ga503c14/sett.png)|
+| [Harmony 6](/setts/s5/b2g10ga15b10g2~b840068-g005020-ga503c14~x4/)|
+|![Harmony 6 example sett](/setts/s5/b2g10ga15b10g2~b840068-g005020-ga503c14~x4/sett.png)|

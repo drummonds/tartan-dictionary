@@ -16,5 +16,5 @@ GRGKGYGKGRGK
 
 | Tartans |
 |---------------|
-| [Welsh National #2](/setts/s12/k16g8r8g8k8g60y8g60k8g8r8g8-g604000-k101010-re87878-ybc8c00/)|
-|![Welsh National #2 example sett](/setts/s12/k16g8r8g8k8g60y8g60k8g8r8g8-g604000-k101010-re87878-ybc8c00/sett.png)|
+| [Welsh National #2](/setts/s12/k4g2r2g2k2g15y2g15k2g2r2g2~g604000-k101010-re87878-ybc8c00~x4/)|
+|![Welsh National #2 example sett](/setts/s12/k4g2r2g2k2g15y2g15k2g2r2g2~g604000-k101010-re87878-ybc8c00~x4/sett.png)|

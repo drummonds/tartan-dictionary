@@ -6,7 +6,7 @@ RYRRRRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12y6r40ra40r6ra6w12-r70000c-rac07468-wc4c4c4-yfcfc00/tartan.png)
+![Woven sample](/setts/s7/r6y3r20ra20r3ra3w6~r70000c-rac07468-wc4c4c4-yfcfc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYRRRRW
 
 | Tartans |
 |---------------|
-| [Banff](/setts/s7/r12y6r40ra40r6ra6w12-r70000c-rac07468-wc4c4c4-yfcfc00/)|
-|![Banff example sett](/setts/s7/r12y6r40ra40r6ra6w12-r70000c-rac07468-wc4c4c4-yfcfc00/sett.png)|
+| [Banff](/setts/s7/r6y3r20ra20r3ra3w6~r70000c-rac07468-wc4c4c4-yfcfc00~x2/)|
+|![Banff example sett](/setts/s7/r6y3r20ra20r3ra3w6~r70000c-rac07468-wc4c4c4-yfcfc00~x2/sett.png)|

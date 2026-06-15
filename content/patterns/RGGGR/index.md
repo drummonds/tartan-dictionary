@@ -6,7 +6,7 @@ RGGGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r32g8ga48gb24r16-g003820-ga5c6428-gb767e52-rb03000/tartan.png)
+![Woven sample](/setts/s5/r4g1ga6gb3r2~g003820-ga5c6428-gb767e52-rb03000~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGGGR
 
 | Tartans |
 |---------------|
-| [Belladrum Estate](/setts/s5/r32g8ga48gb24r16-g003820-ga5c6428-gb767e52-rb03000/)|
-|![Belladrum Estate example sett](/setts/s5/r32g8ga48gb24r16-g003820-ga5c6428-gb767e52-rb03000/sett.png)|
+| [Belladrum Estate](/setts/s5/r4g1ga6gb3r2~g003820-ga5c6428-gb767e52-rb03000~x8/)|
+|![Belladrum Estate example sett](/setts/s5/r4g1ga6gb3r2~g003820-ga5c6428-gb767e52-rb03000~x8/sett.png)|

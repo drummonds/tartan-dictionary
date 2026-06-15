@@ -6,7 +6,7 @@ RBGBBBGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4b12g30ba18b60ba18g12y4-b000050-ba1474b4-g146400-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s8/r2b6g15ba9b30ba9g6y2~b000050-ba1474b4-g146400-r8c0000-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBGBBBGY
 
 | Tartans |
 |---------------|
-| [Miller](/setts/s8/r4b12g30ba18b60ba18g12y4-b000050-ba1474b4-g146400-r8c0000-yc88c00/)|
-|![Miller example sett](/setts/s8/r4b12g30ba18b60ba18g12y4-b000050-ba1474b4-g146400-r8c0000-yc88c00/sett.png)|
+| [Miller](/setts/s8/r2b6g15ba9b30ba9g6y2~b000050-ba1474b4-g146400-r8c0000-yc88c00~x2/)|
+|![Miller example sett](/setts/s8/r2b6g15ba9b30ba9g6y2~b000050-ba1474b4-g146400-r8c0000-yc88c00~x2/sett.png)|

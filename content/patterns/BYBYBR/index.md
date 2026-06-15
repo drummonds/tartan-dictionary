@@ -6,7 +6,7 @@ BYBYBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r48b16y20b120y20b16-b3850c8-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r12b4y5b30y5b4~b3850c8-rc80000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYBYBR
 
 | Tartans |
 |---------------|
-| [UEFA (Glasgow)](/setts/s6/r48b16y20b120y20b16-b3850c8-rc80000-ye8c000/)|
-|![UEFA (Glasgow) example sett](/setts/s6/r48b16y20b120y20b16-b3850c8-rc80000-ye8c000/sett.png)|
-| [Latin](/setts/s6/b6y18b6y18b40r6-b2c2c80-rc8002c-ybc8c00/)|
-|![Latin example sett](/setts/s6/b6y18b6y18b40r6-b2c2c80-rc8002c-ybc8c00/sett.png)|
+| [UEFA (Glasgow)](/setts/s6/r12b4y5b30y5b4~b3850c8-rc80000-ye8c000~x4/)|
+|![UEFA (Glasgow) example sett](/setts/s6/r12b4y5b30y5b4~b3850c8-rc80000-ye8c000~x4/sett.png)|
+| [Latin](/setts/s6/b3y9b3y9b20r3~b2c2c80-rc8002c-ybc8c00~x2/)|
+|![Latin example sett](/setts/s6/b3y9b3y9b20r3~b2c2c80-rc8002c-ybc8c00~x2/sett.png)|

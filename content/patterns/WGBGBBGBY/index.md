@@ -16,5 +16,5 @@ WGBGBBGBY
 
 | Tartans |
 |---------------|
-| [Scottish Borderland (Fashion)](/setts/s9/w4g4b2g60ba20b40g2b4y2-b405460-ba646464-g005020-wc8c8c8-yc88c00/)|
-|![Scottish Borderland (Fashion) example sett](/setts/s9/w4g4b2g60ba20b40g2b4y2-b405460-ba646464-g005020-wc8c8c8-yc88c00/sett.png)|
+| [Scottish Borderland (Fashion)](/setts/s9/w2g2b1g30ba10b20g1b2y1~b405460-ba646464-g005020-wc8c8c8-yc88c00~x2/)|
+|![Scottish Borderland (Fashion) example sett](/setts/s9/w2g2b1g30ba10b20g1b2y1~b405460-ba646464-g005020-wc8c8c8-yc88c00~x2/sett.png)|

@@ -6,7 +6,7 @@ RBKYBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4b48k20y12b20w4-b1c0070-k101010-rc80000-wc0c0c0-ybc8c00/tartan.png)
+![Woven sample](/setts/s6/r1b12k5y3b5w1~b1c0070-k101010-rc80000-wc0c0c0-ybc8c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKYBW
 
 | Tartans |
 |---------------|
-| [Massachusetts (Unofficial)](/setts/s6/r4b48k20y12b20w4-b1c0070-k101010-rc80000-wc0c0c0-ybc8c00/)|
-|![Massachusetts (Unofficial) example sett](/setts/s6/r4b48k20y12b20w4-b1c0070-k101010-rc80000-wc0c0c0-ybc8c00/sett.png)|
+| [Massachusetts (Unofficial)](/setts/s6/r1b12k5y3b5w1~b1c0070-k101010-rc80000-wc0c0c0-ybc8c00~x4/)|
+|![Massachusetts (Unofficial) example sett](/setts/s6/r1b12k5y3b5w1~b1c0070-k101010-rc80000-wc0c0c0-ybc8c00~x4/sett.png)|

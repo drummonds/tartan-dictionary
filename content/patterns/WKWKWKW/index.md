@@ -6,7 +6,7 @@ WKWKWKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w4k2w12k12w4k2w2-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/w2k1w6k6w2k1w1~k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ WKWKWKW
 
 | Tartans |
 |---------------|
-| [Scott (Abbreviated)](/setts/s7/w4k2w12k12w4k2w2-k101010-we0e0e0/)|
-|![Scott (Abbreviated) example sett](/setts/s7/w4k2w12k12w4k2w2-k101010-we0e0e0/sett.png)|
-| [Saks Fifth Avenue (Corp)](/setts/s7/w48k32w2k32w6k16w4-k101010-wfcfcfc/)|
-|![Saks Fifth Avenue (Corp) example sett](/setts/s7/w48k32w2k32w6k16w4-k101010-wfcfcfc/sett.png)|
-| [Scott](/setts/s7/w4k2w12k12w4k2w2-k000000-we0e0e0/)|
-|![Scott example sett](/setts/s7/w4k2w12k12w4k2w2-k000000-we0e0e0/sett.png)|
+| [Scott (Abbreviated)](/setts/s7/w2k1w6k6w2k1w1~k101010-we0e0e0~x2/)|
+|![Scott (Abbreviated) example sett](/setts/s7/w2k1w6k6w2k1w1~k101010-we0e0e0~x2/sett.png)|
+| [Saks Fifth Avenue (Corp)](/setts/s7/w24k16w1k16w3k8w2~k101010-wfcfcfc~x2/)|
+|![Saks Fifth Avenue (Corp) example sett](/setts/s7/w24k16w1k16w3k8w2~k101010-wfcfcfc~x2/sett.png)|
+| [Scott](/setts/s7/w2k1w6k6w2k1w1~k000000-we0e0e0~x2/)|
+|![Scott example sett](/setts/s7/w2k1w6k6w2k1w1~k000000-we0e0e0~x2/sett.png)|

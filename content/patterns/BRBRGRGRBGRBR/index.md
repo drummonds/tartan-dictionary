@@ -16,5 +16,5 @@ BRBRGRGRBGRBR
 
 | Tartans |
 |---------------|
-| [Dabney Red (Personal)](/setts/s13/r10b6r48g14ba12r6g6r6g22r12ba6r6b6-b1870a4-ba2c2c80-g006818-rc80000/)|
-|![Dabney Red (Personal) example sett](/setts/s13/r10b6r48g14ba12r6g6r6g22r12ba6r6b6-b1870a4-ba2c2c80-g006818-rc80000/sett.png)|
+| [Dabney Red (Personal)](/setts/s13/r5b3r24g7ba6r3g3r3g11r6ba3r3b3~b1870a4-ba2c2c80-g006818-rc80000~x2/)|
+|![Dabney Red (Personal) example sett](/setts/s13/r5b3r24g7ba6r3g3r3g11r6ba3r3b3~b1870a4-ba2c2c80-g006818-rc80000~x2/sett.png)|

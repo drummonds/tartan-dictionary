@@ -16,5 +16,5 @@ GGWGKGWGBKGYG
 
 | Tartans |
 |---------------|
-| [Knox (Personal)](/setts/s13/g110ga40w4ga6k4ga6w4ga6b36k4ga8y4ga6-b2c2c80-g003820-ga744c34-k101010-we0e0e0-ye8c000/)|
-|![Knox (Personal) example sett](/setts/s13/g110ga40w4ga6k4ga6w4ga6b36k4ga8y4ga6-b2c2c80-g003820-ga744c34-k101010-we0e0e0-ye8c000/sett.png)|
+| [Knox (Personal)](/setts/s13/g55ga20w2ga3k2ga3w2ga3b18k2ga4y2ga3~b2c2c80-g003820-ga744c34-k101010-we0e0e0-ye8c000~x2/)|
+|![Knox (Personal) example sett](/setts/s13/g55ga20w2ga3k2ga3w2ga3b18k2ga4y2ga3~b2c2c80-g003820-ga744c34-k101010-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ GWGWGKWGWGRKWGWGRGR
 
 | Tartans |
 |---------------|
-| [Shepherd, Derek (Modern)](/setts/s19/r4g2r4g2w2g2w16k80r10g80w20g2w10k30g2w14g2w2g2-g004f00-k101010-re47833-we8e8e8/)|
-|![Shepherd, Derek (Modern) example sett](/setts/s19/r4g2r4g2w2g2w16k80r10g80w20g2w10k30g2w14g2w2g2-g004f00-k101010-re47833-we8e8e8/sett.png)|
+| [Shepherd, Derek (Modern)](/setts/s19/r2g1r2g1w1g1w8k40r5g40w10g1w5k15g1w7g1w1g1~g004f00-k101010-re47833-we8e8e8~x2/)|
+|![Shepherd, Derek (Modern) example sett](/setts/s19/r2g1r2g1w1g1w8k40r5g40w10g1w5k15g1w7g1w1g1~g004f00-k101010-re47833-we8e8e8~x2/sett.png)|

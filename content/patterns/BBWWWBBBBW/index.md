@@ -16,5 +16,5 @@ BBWWWBBBBW
 
 | Tartans |
 |---------------|
-| [Saltire (Fashion)](/setts/s10/b20ba12w12wa8w6ba12b40ba92b4w4-b2c2c80-ba1474b4-w98c8e8-wafcfcfc/)|
-|![Saltire (Fashion) example sett](/setts/s10/b20ba12w12wa8w6ba12b40ba92b4w4-b2c2c80-ba1474b4-w98c8e8-wafcfcfc/sett.png)|
+| [Saltire (Fashion)](/setts/s10/b10ba6w6wa4w3ba6b20ba46b2w2~b2c2c80-ba1474b4-w98c8e8-wafcfcfc~x2/)|
+|![Saltire (Fashion) example sett](/setts/s10/b10ba6w6wa4w3ba6b20ba46b2w2~b2c2c80-ba1474b4-w98c8e8-wafcfcfc~x2/sett.png)|

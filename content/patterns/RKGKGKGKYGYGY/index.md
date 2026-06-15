@@ -16,5 +16,5 @@ RKGKGKGKYGYGY
 
 | Tartans |
 |---------------|
-| [Hohenzollern Staff](/setts/s13/r48k16g24k2ga4k2g24k16y6ga4y28ga2y4-g006818-ga2ca418-k101010-rc80000-yecccac/)|
-|![Hohenzollern Staff example sett](/setts/s13/r48k16g24k2ga4k2g24k16y6ga4y28ga2y4-g006818-ga2ca418-k101010-rc80000-yecccac/sett.png)|
+| [Hohenzollern Staff](/setts/s13/r24k8g12k1ga2k1g12k8y3ga2y14ga1y2~g006818-ga2ca418-k101010-rc80000-yecccac~x2/)|
+|![Hohenzollern Staff example sett](/setts/s13/r24k8g12k1ga2k1g12k8y3ga2y14ga1y2~g006818-ga2ca418-k101010-rc80000-yecccac~x2/sett.png)|

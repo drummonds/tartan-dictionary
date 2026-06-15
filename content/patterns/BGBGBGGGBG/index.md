@@ -16,5 +16,5 @@ BGBGBGGGBG
 
 | Tartans |
 |---------------|
-| [Loch Lomond](/setts/s10/b40g8b2g8b4ga16g2ga16ba52g16-b5a008c-ba2c4084-g005020-ga808080/)|
-|![Loch Lomond example sett](/setts/s10/b40g8b2g8b4ga16g2ga16ba52g16-b5a008c-ba2c4084-g005020-ga808080/sett.png)|
+| [Loch Lomond](/setts/s10/b20g4b1g4b2ga8g1ga8ba26g8~b5a008c-ba2c4084-g005020-ga808080~x2/)|
+|![Loch Lomond example sett](/setts/s10/b20g4b1g4b2ga8g1ga8ba26g8~b5a008c-ba2c4084-g005020-ga808080~x2/sett.png)|

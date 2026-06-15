@@ -16,5 +16,5 @@ RGBGRGBGW
 
 | Tartans |
 |---------------|
-| [Adamson (Personal)](/setts/s9/r4g28b12ga4ra12ga4b12ga28w4-b2c2c80-g604000-ga006818-rc80000-ra888888-we0e0e0/)|
-|![Adamson (Personal) example sett](/setts/s9/r4g28b12ga4ra12ga4b12ga28w4-b2c2c80-g604000-ga006818-rc80000-ra888888-we0e0e0/sett.png)|
+| [Adamson (Personal)](/setts/s9/r1g7b3ga1ra3ga1b3ga7w1~b2c2c80-g604000-ga006818-rc80000-ra888888-we0e0e0~x4/)|
+|![Adamson (Personal) example sett](/setts/s9/r1g7b3ga1ra3ga1b3ga7w1~b2c2c80-g604000-ga006818-rc80000-ra888888-we0e0e0~x4/sett.png)|

@@ -6,7 +6,7 @@ BYBBGWGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8y4b32ba30g32w6g6w8-b8080d0-ba000050-g008000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s8/b4y2b16ba15g16w3g3w4~b8080d0-ba000050-g008000-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBBGWGW
 
 | Tartans |
 |---------------|
-| [Business Air](/setts/s8/b8y4b32ba30g32w6g6w8-b8080d0-ba000050-g008000-we0e0e0-yf0c000/)|
-|![Business Air example sett](/setts/s8/b8y4b32ba30g32w6g6w8-b8080d0-ba000050-g008000-we0e0e0-yf0c000/sett.png)|
+| [Business Air](/setts/s8/b4y2b16ba15g16w3g3w4~b8080d0-ba000050-g008000-we0e0e0-yf0c000~x2/)|
+|![Business Air example sett](/setts/s8/b4y2b16ba15g16w3g3w4~b8080d0-ba000050-g008000-we0e0e0-yf0c000~x2/sett.png)|

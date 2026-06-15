@@ -16,5 +16,5 @@ KGKGBGBGBGBR
 
 | Tartans |
 |---------------|
-| [Walker Hunting (Name)](/setts/s12/r8b4g14b30g6b6g6b14g56k14g12k4-b202060-g205034-k101010-rc80000/)|
-|![Walker Hunting (Name) example sett](/setts/s12/r8b4g14b30g6b6g6b14g56k14g12k4-b202060-g205034-k101010-rc80000/sett.png)|
+| [Walker Hunting (Name)](/setts/s12/r4b2g7b15g3b3g3b7g28k7g6k2~b202060-g205034-k101010-rc80000~x2/)|
+|![Walker Hunting (Name) example sett](/setts/s12/r4b2g7b15g3b3g3b7g28k7g6k2~b202060-g205034-k101010-rc80000~x2/sett.png)|

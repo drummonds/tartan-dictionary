@@ -16,5 +16,5 @@ BKBKBKGKRKGKBKR
 
 | Tartans |
 |---------------|
-| [77th Regiment](/setts/s15/b32k6b6k6b6k32g28k4r6k4g28k32b28k4r6-b202060-g285800-k101010-rc80000/)|
-|![77th Regiment example sett](/setts/s15/b32k6b6k6b6k32g28k4r6k4g28k32b28k4r6-b202060-g285800-k101010-rc80000/sett.png)|
+| [77th Regiment](/setts/s15/b16k3b3k3b3k16g14k2r3k2g14k16b14k2r3~b202060-g285800-k101010-rc80000~x2/)|
+|![77th Regiment example sett](/setts/s15/b16k3b3k3b3k16g14k2r3k2g14k16b14k2r3~b202060-g285800-k101010-rc80000~x2/sett.png)|

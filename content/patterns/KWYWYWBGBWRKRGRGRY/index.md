@@ -16,5 +16,5 @@ KWYWYWBGBWRKRGRGRY
 
 | Tartans |
 |---------------|
-| [Harmon Dress](/setts/s18/k4w12y4w4y4w38b4g4b4w4r8k4r22g4r4g4r12y4-b405c80-g20483c-k101010-r8c1c38-wd8d0d0-ye8c000/)|
-|![Harmon Dress example sett](/setts/s18/k4w12y4w4y4w38b4g4b4w4r8k4r22g4r4g4r12y4-b405c80-g20483c-k101010-r8c1c38-wd8d0d0-ye8c000/sett.png)|
+| [Harmon Dress](/setts/s18/k2w6y2w2y2w19b2g2b2w2r4k2r11g2r2g2r6y2~b405c80-g20483c-k101010-r8c1c38-wd8d0d0-ye8c000~x2/)|
+|![Harmon Dress example sett](/setts/s18/k2w6y2w2y2w19b2g2b2w2r4k2r11g2r2g2r6y2~b405c80-g20483c-k101010-r8c1c38-wd8d0d0-ye8c000~x2/sett.png)|

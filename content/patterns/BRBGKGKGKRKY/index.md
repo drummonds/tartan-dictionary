@@ -16,5 +16,5 @@ BRBGKGKGKRKY
 
 | Tartans |
 |---------------|
-| [Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b20r6b64g24k10g4k8g4k34ra8k4y4-b484848-g747474-k101010-r88243c-ra8c708c-ya0a0a0/)|
-|![Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b20r6b64g24k10g4k8g4k34ra8k4y4-b484848-g747474-k101010-r88243c-ra8c708c-ya0a0a0/sett.png)|
+| [Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/b10r3b32g12k5g2k4g2k17ra4k2y2~b484848-g747474-k101010-r88243c-ra8c708c-ya0a0a0~x2/)|
+|![Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/b10r3b32g12k5g2k4g2k17ra4k2y2~b484848-g747474-k101010-r88243c-ra8c708c-ya0a0a0~x2/sett.png)|

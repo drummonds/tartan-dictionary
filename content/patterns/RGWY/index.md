@@ -6,7 +6,7 @@ RGWY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r32g8w4y1-g004c00-rc80000-wd0d0d0-yffc800/tartan.png)
+![Woven sample](/setts/s4/r32g8w4y1~g004c00-rc80000-wd0d0d0-yffc800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGWY
 
 | Tartans |
 |---------------|
-| [MacLaine of Lochbuie](/setts/s4/r32g8w4y1-g004c00-rc80000-wd0d0d0-yffc800/)|
-|![MacLaine of Lochbuie example sett](/setts/s4/r32g8w4y1-g004c00-rc80000-wd0d0d0-yffc800/sett.png)|
+| [MacLaine of Lochbuie](/setts/s4/r32g8w4y1~g004c00-rc80000-wd0d0d0-yffc800/)|
+|![MacLaine of Lochbuie example sett](/setts/s4/r32g8w4y1~g004c00-rc80000-wd0d0d0-yffc800/sett.png)|

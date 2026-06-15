@@ -16,5 +16,5 @@ BYBRBRKGBGRGRGBGKRBRBY
 
 | Tartans |
 |---------------|
-| [West Highland Way](/setts/s22/b18y2b2r6b28r2k24g30ba6g42r2g16r2g42ba6g30k24r2b28r6b2y2-b2c2c80-ba780078-g006818-k101010-rc80000-ya0a0a0/)|
-|![West Highland Way example sett](/setts/s22/b18y2b2r6b28r2k24g30ba6g42r2g16r2g42ba6g30k24r2b28r6b2y2-b2c2c80-ba780078-g006818-k101010-rc80000-ya0a0a0/sett.png)|
+| [West Highland Way](/setts/s22/b9y1b1r3b14r1k12g15ba3g21r1g8r1g21ba3g15k12r1b14r3b1y1~b2c2c80-ba780078-g006818-k101010-rc80000-ya0a0a0~x2/)|
+|![West Highland Way example sett](/setts/s22/b9y1b1r3b14r1k12g15ba3g21r1g8r1g21ba3g15k12r1b14r3b1y1~b2c2c80-ba780078-g006818-k101010-rc80000-ya0a0a0~x2/sett.png)|

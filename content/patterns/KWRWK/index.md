@@ -6,7 +6,7 @@ KWRWK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k6w58r18wa38k6-k101010-r9c68a4-we0e0e0-wa98c8e8/tartan.png)
+![Woven sample](/setts/s5/k3w29r9wa19k3~k101010-r9c68a4-we0e0e0-wa98c8e8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWRWK
 
 | Tartans |
 |---------------|
-| [Islander Dress](/setts/s5/k6w58r18wa38k6-k101010-r9c68a4-we0e0e0-wa98c8e8/)|
-|![Islander Dress example sett](/setts/s5/k6w58r18wa38k6-k101010-r9c68a4-we0e0e0-wa98c8e8/sett.png)|
+| [Islander Dress](/setts/s5/k3w29r9wa19k3~k101010-r9c68a4-we0e0e0-wa98c8e8~x2/)|
+|![Islander Dress example sett](/setts/s5/k3w29r9wa19k3~k101010-r9c68a4-we0e0e0-wa98c8e8~x2/sett.png)|

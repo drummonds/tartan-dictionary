@@ -16,5 +16,5 @@ GKYKGKYKGR
 
 | Tartans |
 |---------------|
-| [Harbor Club (Corporate)](/setts/s10/r94g28k10y4k6g14k6y4k10g28-g006428-k101010-r800028-ye8c000/)|
-|![Harbor Club (Corporate) example sett](/setts/s10/r94g28k10y4k6g14k6y4k10g28-g006428-k101010-r800028-ye8c000/sett.png)|
+| [Harbor Club (Corporate)](/setts/s10/r47g14k5y2k3g7k3y2k5g14~g006428-k101010-r800028-ye8c000~x2/)|
+|![Harbor Club (Corporate) example sett](/setts/s10/r47g14k5y2k3g7k3y2k5g14~g006428-k101010-r800028-ye8c000~x2/sett.png)|

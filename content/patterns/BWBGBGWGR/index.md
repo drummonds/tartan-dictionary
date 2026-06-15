@@ -16,5 +16,5 @@ BWBGBGWGR
 
 | Tartans |
 |---------------|
-| [Lord Arran (Corporate)](/setts/s9/r6g2w24g4b4g4b28w4b4-b2c2c80-g604000-r880000-we0e0e0/)|
-|![Lord Arran (Corporate) example sett](/setts/s9/r6g2w24g4b4g4b28w4b4-b2c2c80-g604000-r880000-we0e0e0/sett.png)|
+| [Lord Arran (Corporate)](/setts/s9/r3g1w12g2b2g2b14w2b2~b2c2c80-g604000-r880000-we0e0e0~x2/)|
+|![Lord Arran (Corporate) example sett](/setts/s9/r3g1w12g2b2g2b14w2b2~b2c2c80-g604000-r880000-we0e0e0~x2/sett.png)|

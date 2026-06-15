@@ -16,5 +16,5 @@ GGGGKGKGKRWR
 
 | Tartans |
 |---------------|
-| [Iona](/setts/s12/r16w4r44k20g12k12g20k12g20ga6g6ga8-g004020-ga285800-k000000-r9c0030-wccd0b4/)|
-|![Iona example sett](/setts/s12/r16w4r44k20g12k12g20k12g20ga6g6ga8-g004020-ga285800-k000000-r9c0030-wccd0b4/sett.png)|
+| [Iona](/setts/s12/r8w2r22k10g6k6g10k6g10ga3g3ga4~g004020-ga285800-k000000-r9c0030-wccd0b4~x2/)|
+|![Iona example sett](/setts/s12/r8w2r22k10g6k6g10k6g10ga3g3ga4~g004020-ga285800-k000000-r9c0030-wccd0b4~x2/sett.png)|

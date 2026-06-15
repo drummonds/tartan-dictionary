@@ -16,7 +16,7 @@ GKGKRBYBRK
 
 | Tartans |
 |---------------|
-| [Hunter](/setts/s10/g16k2g16k16r2b16y2b16r2k16-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Hunter example sett](/setts/s10/g16k2g16k16r2b16y2b16r2k16-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
-| [Hunter](/setts/s10/g8k1g8k8r1b8y1b8r1k8-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Hunter example sett](/setts/s10/g8k1g8k8r1b8y1b8r1k8-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Hunter](/setts/s10/g8k1g8k8r1b8y1b8r1k8~b000052-g11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![Hunter example sett](/setts/s10/g8k1g8k8r1b8y1b8r1k8~b000052-g11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|
+| [Hunter](/setts/s10/g8k1g8k8r1b8y1b8r1k8~b000052-g11450d-k000000-raa0000-yaaaaaa/)|
+|![Hunter example sett](/setts/s10/g8k1g8k8r1b8y1b8r1k8~b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|

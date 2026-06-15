@@ -16,5 +16,5 @@ GRWBGYGYG
 
 | Tartans |
 |---------------|
-| [Nickel Lodge, Centennial](/setts/s9/g36y2g4y2g4b12w8r2ga12-b304080-g808080-ga008000-r806050-we0e0e0-yf0c000/)|
-|![Nickel Lodge, Centennial example sett](/setts/s9/g36y2g4y2g4b12w8r2ga12-b304080-g808080-ga008000-r806050-we0e0e0-yf0c000/sett.png)|
+| [Nickel Lodge, Centennial](/setts/s9/g18y1g2y1g2b6w4r1ga6~b304080-g808080-ga008000-r806050-we0e0e0-yf0c000~x2/)|
+|![Nickel Lodge, Centennial example sett](/setts/s9/g18y1g2y1g2b6w4r1ga6~b304080-g808080-ga008000-r806050-we0e0e0-yf0c000~x2/sett.png)|

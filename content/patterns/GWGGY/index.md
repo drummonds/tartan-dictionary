@@ -6,7 +6,7 @@ GWGGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g57w5ga20g5y10-g808080-ga008000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s5/g57w5ga20g5y10~g808080-ga008000-we0e0e0-yf0c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGGY
 
 | Tartans |
 |---------------|
-| [Jahore](/setts/s5/g57w5ga20g5y10-g808080-ga008000-we0e0e0-yf0c000/)|
-|![Jahore example sett](/setts/s5/g57w5ga20g5y10-g808080-ga008000-we0e0e0-yf0c000/sett.png)|
+| [Jahore](/setts/s5/g57w5ga20g5y10~g808080-ga008000-we0e0e0-yf0c000/)|
+|![Jahore example sett](/setts/s5/g57w5ga20g5y10~g808080-ga008000-we0e0e0-yf0c000/sett.png)|

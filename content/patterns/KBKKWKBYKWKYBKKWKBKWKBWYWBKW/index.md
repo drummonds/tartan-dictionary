@@ -16,5 +16,5 @@ KBKKWKBYKWKYBKKWKBKWKBWYWBKW
 
 | Tartans |
 |---------------|
-| [MacPerl Dress (Personal)](/setts/s28/k2b10k36ka16w2k36b10y6k2w6k2y6b10k36ka16w2k36b10k2w2k2b6w2y6w2b6k2w2-b2b3f84-k00003b-ka001b00-wdfdfdf-ydfaf00/)|
-|![MacPerl Dress (Personal) example sett](/setts/s28/k2b10k36ka16w2k36b10y6k2w6k2y6b10k36ka16w2k36b10k2w2k2b6w2y6w2b6k2w2-b2b3f84-k00003b-ka001b00-wdfdfdf-ydfaf00/sett.png)|
+| [MacPerl Dress (Personal)](/setts/s28/k1b5k18ka8w1k18b5y3k1w3k1y3b5k18ka8w1k18b5k1w1k1b3w1y3w1b3k1w1~b2b3f84-k00003b-ka001b00-wdfdfdf-ydfaf00~x2/)|
+|![MacPerl Dress (Personal) example sett](/setts/s28/k1b5k18ka8w1k18b5y3k1w3k1y3b5k18ka8w1k18b5k1w1k1b3w1y3w1b3k1w1~b2b3f84-k00003b-ka001b00-wdfdfdf-ydfaf00~x2/sett.png)|

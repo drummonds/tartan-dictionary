@@ -16,5 +16,5 @@ RYBRYRKWKYBRW
 
 | Tartans |
 |---------------|
-| [Robieson (Personal)](/setts/s13/r6y6b48r6y6r48k6w48k6y6b48ra6w6-b24608c-k101010-rc8340c-rac80000-wf8f8f8-ya0a0a0/)|
-|![Robieson (Personal) example sett](/setts/s13/r6y6b48r6y6r48k6w48k6y6b48ra6w6-b24608c-k101010-rc8340c-rac80000-wf8f8f8-ya0a0a0/sett.png)|
+| [Robieson (Personal)](/setts/s13/r1y1b8r1y1r8k1w8k1y1b8ra1w1~b24608c-k101010-rc8340c-rac80000-wf8f8f8-ya0a0a0~x6/)|
+|![Robieson (Personal) example sett](/setts/s13/r1y1b8r1y1r8k1w8k1y1b8ra1w1~b24608c-k101010-rc8340c-rac80000-wf8f8f8-ya0a0a0~x6/sett.png)|

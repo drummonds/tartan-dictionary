@@ -6,7 +6,7 @@ GRBR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g26r4b26r4-b202060-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s4/g13r2b13r2~b202060-g006818-rc80000~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ GRBR
 
 | Tartans |
 |---------------|
-| [Wilson's No.062](/setts/s4/g26r4b26r4-b202060-g006818-rc80000/)|
-|![Wilson's No.062 example sett](/setts/s4/g26r4b26r4-b202060-g006818-rc80000/sett.png)|
-| [Coleman, Sarah-Louise (Personal)](/setts/s4/g20r10b30r10-b780078-g007800-r888888/)|
-|![Coleman, Sarah-Louise (Personal) example sett](/setts/s4/g20r10b30r10-b780078-g007800-r888888/sett.png)|
-| [Coleman, Sarah-Louise (Personal)](/setts/s4/g20r10b30r10-b780078-g006818-r888888/)|
-|![Coleman, Sarah-Louise (Personal) example sett](/setts/s4/g20r10b30r10-b780078-g006818-r888888/sett.png)|
+| [Wilson's No.062](/setts/s4/g13r2b13r2~b202060-g006818-rc80000~x2/)|
+|![Wilson's No.062 example sett](/setts/s4/g13r2b13r2~b202060-g006818-rc80000~x2/sett.png)|
+| [Coleman, Sarah-Louise (Personal)](/setts/s4/g2r1b3r1~b780078-g007800-r888888~x10/)|
+|![Coleman, Sarah-Louise (Personal) example sett](/setts/s4/g2r1b3r1~b780078-g007800-r888888~x10/sett.png)|
+| [Coleman, Sarah-Louise (Personal)](/setts/s4/g2r1b3r1~b780078-g006818-r888888~x10/)|
+|![Coleman, Sarah-Louise (Personal) example sett](/setts/s4/g2r1b3r1~b780078-g006818-r888888~x10/sett.png)|

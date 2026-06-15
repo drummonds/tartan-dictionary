@@ -16,5 +16,5 @@ RKRKRKRKYKYKWY
 
 | Tartans |
 |---------------|
-| [Desert](/setts/s14/y140w6k4ya2k4ya2k10r2k10r4k14r4k14r6-k101010-rc80000-wf8f8f8-ya08858-yae8c000/)|
-|![Desert example sett](/setts/s14/y140w6k4ya2k4ya2k10r2k10r4k14r4k14r6-k101010-rc80000-wf8f8f8-ya08858-yae8c000/sett.png)|
+| [Desert](/setts/s14/y70w3k2ya1k2ya1k5r1k5r2k7r2k7r3~k101010-rc80000-wf8f8f8-ya08858-yae8c000~x2/)|
+|![Desert example sett](/setts/s14/y70w3k2ya1k2ya1k5r1k5r2k7r2k7r3~k101010-rc80000-wf8f8f8-ya08858-yae8c000~x2/sett.png)|

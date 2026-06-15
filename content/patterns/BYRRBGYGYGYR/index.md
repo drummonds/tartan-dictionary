@@ -16,5 +16,5 @@ BYRRBGYGYGYR
 
 | Tartans |
 |---------------|
-| [Bridge of Weir Leather Co. (Corp)](/setts/s12/r6y28g6y6g6y8g22b22ra22r22y2b2-b1c1c1c-g845800-rbc301c-raa00000-yb8a47c/)|
-|![Bridge of Weir Leather Co. (Corp) example sett](/setts/s12/r6y28g6y6g6y8g22b22ra22r22y2b2-b1c1c1c-g845800-rbc301c-raa00000-yb8a47c/sett.png)|
+| [Bridge of Weir Leather Co. (Corp)](/setts/s12/r3y14g3y3g3y4g11b11ra11r11y1b1~b1c1c1c-g845800-rbc301c-raa00000-yb8a47c~x2/)|
+|![Bridge of Weir Leather Co. (Corp) example sett](/setts/s12/r3y14g3y3g3y4g11b11ra11r11y1b1~b1c1c1c-g845800-rbc301c-raa00000-yb8a47c~x2/sett.png)|

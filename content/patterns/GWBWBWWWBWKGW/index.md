@@ -16,7 +16,7 @@ GWBWBWWWBWKGW
 
 | Tartans |
 |---------------|
-| [Willox](/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k54g10wa4-b483d8b-g5c6428-k101010-wa8ace8-wafcfcfc/)|
-|![Willox example sett](/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k54g10wa4-b483d8b-g5c6428-k101010-wa8ace8-wafcfcfc/sett.png)|
-| [Willox (Name)](/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k56g10wa2-b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc/)|
-|![Willox (Name) example sett](/setts/s13/g12w24b6wa2b12w8wa2w8b12wa2k56g10wa2-b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc/sett.png)|
+| [Willox](/setts/s13/g6w12b3wa1b6w4wa1w4b6wa1k27g5wa2~b483d8b-g5c6428-k101010-wa8ace8-wafcfcfc~x2/)|
+|![Willox example sett](/setts/s13/g6w12b3wa1b6w4wa1w4b6wa1k27g5wa2~b483d8b-g5c6428-k101010-wa8ace8-wafcfcfc~x2/sett.png)|
+| [Willox (Name)](/setts/s13/g6w12b3wa1b6w4wa1w4b6wa1k28g5wa1~b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc~x2/)|
+|![Willox (Name) example sett](/setts/s13/g6w12b3wa1b6w4wa1w4b6wa1k28g5wa1~b6c0070-g5c6428-k101010-wa8ace8-wafcfcfc~x2/sett.png)|

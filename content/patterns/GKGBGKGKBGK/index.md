@@ -16,5 +16,5 @@ GKGBGKGKBGK
 
 | Tartans |
 |---------------|
-| [Priest](/setts/s11/g4k16g4b8g4k32g4k32b28g4k4-b780078-g789484-k101010/)|
-|![Priest example sett](/setts/s11/g4k16g4b8g4k32g4k32b28g4k4-b780078-g789484-k101010/sett.png)|
+| [Priest](/setts/s11/g1k4g1b2g1k8g1k8b7g1k1~b780078-g789484-k101010~x4/)|
+|![Priest example sett](/setts/s11/g1k4g1b2g1k8g1k8b7g1k1~b780078-g789484-k101010~x4/sett.png)|

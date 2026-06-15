@@ -16,5 +16,5 @@ BRWBWRGBRBGR
 
 | Tartans |
 |---------------|
-| [Scottish Parliament Official (Corp)](/setts/s12/r120g4b8ra2b8g4r6w2ba40w2r10b4-b1c1c50-ba580078-g009420-r888888-rac80000-we0e0e0/)|
-|![Scottish Parliament Official (Corp) example sett](/setts/s12/r120g4b8ra2b8g4r6w2ba40w2r10b4-b1c1c50-ba580078-g009420-r888888-rac80000-we0e0e0/sett.png)|
+| [Scottish Parliament Official (Corp)](/setts/s12/r60g2b4ra1b4g2r3w1ba20w1r5b2~b1c1c50-ba580078-g009420-r888888-rac80000-we0e0e0~x2/)|
+|![Scottish Parliament Official (Corp) example sett](/setts/s12/r60g2b4ra1b4g2r3w1ba20w1r5b2~b1c1c50-ba580078-g009420-r888888-rac80000-we0e0e0~x2/sett.png)|

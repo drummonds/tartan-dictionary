@@ -6,7 +6,7 @@ GBGBBBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g24b4g4b60ba6b4ba26w8-b304080-ba000050-g908000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g12b2g2b30ba3b2ba13w4~b304080-ba000050-g908000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBBBBW
 
 | Tartans |
 |---------------|
-| [Highlands School, (North Carolina)](/setts/s8/g24b4g4b60ba6b4ba26w8-b304080-ba000050-g908000-we0e0e0/)|
-|![Highlands School, (North Carolina) example sett](/setts/s8/g24b4g4b60ba6b4ba26w8-b304080-ba000050-g908000-we0e0e0/sett.png)|
+| [Highlands School, (North Carolina)](/setts/s8/g12b2g2b30ba3b2ba13w4~b304080-ba000050-g908000-we0e0e0~x2/)|
+|![Highlands School, (North Carolina) example sett](/setts/s8/g12b2g2b30ba3b2ba13w4~b304080-ba000050-g908000-we0e0e0~x2/sett.png)|

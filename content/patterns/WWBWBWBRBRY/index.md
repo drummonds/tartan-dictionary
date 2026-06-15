@@ -16,5 +16,5 @@ WWBWBWBRBRY
 
 | Tartans |
 |---------------|
-| [Shanghai Scottish](/setts/s11/w4wa13b5wa8b27wa15ba16r3ba3r23y4-b0000cd-ba000080-rff0000-wffffff-wa82cffd-yffe600/)|
-|![Shanghai Scottish example sett](/setts/s11/w4wa13b5wa8b27wa15ba16r3ba3r23y4-b0000cd-ba000080-rff0000-wffffff-wa82cffd-yffe600/sett.png)|
+| [Shanghai Scottish](/setts/s11/w4wa13b5wa8b27wa15ba16r3ba3r23y4~b0000cd-ba000080-rff0000-wffffff-wa82cffd-yffe600/)|
+|![Shanghai Scottish example sett](/setts/s11/w4wa13b5wa8b27wa15ba16r3ba3r23y4~b0000cd-ba000080-rff0000-wffffff-wa82cffd-yffe600/sett.png)|

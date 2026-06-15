@@ -16,5 +16,5 @@ RWRKRYRWR
 
 | Tartans |
 |---------------|
-| [Middleton, City of](/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/)|
-|![Middleton, City of example sett](/setts/s9/r64w4r4k4r32y16ra8w8ra8-k101010-r888888-rac80000-we0e0e0-ya08858/sett.png)|
+| [Middleton, City of](/setts/s9/r16w1r1k1r8y4ra2w2ra2~k101010-r888888-rac80000-we0e0e0-ya08858~x4/)|
+|![Middleton, City of example sett](/setts/s9/r16w1r1k1r8y4ra2w2ra2~k101010-r888888-rac80000-we0e0e0-ya08858~x4/sett.png)|

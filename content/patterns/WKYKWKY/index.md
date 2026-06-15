@@ -6,7 +6,7 @@ WKYKWKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w10k6y12k10w6k60y4-k101010-wffffff-yfccc00/tartan.png)
+![Woven sample](/setts/s7/w5k3y6k5w3k30y2~k101010-wffffff-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKYKWKY
 
 | Tartans |
 |---------------|
-| [Northern Kentucky University](/setts/s7/w10k6y12k10w6k60y4-k101010-wffffff-yfccc00/)|
-|![Northern Kentucky University example sett](/setts/s7/w10k6y12k10w6k60y4-k101010-wffffff-yfccc00/sett.png)|
+| [Northern Kentucky University](/setts/s7/w5k3y6k5w3k30y2~k101010-wffffff-yfccc00~x2/)|
+|![Northern Kentucky University example sett](/setts/s7/w5k3y6k5w3k30y2~k101010-wffffff-yfccc00~x2/sett.png)|

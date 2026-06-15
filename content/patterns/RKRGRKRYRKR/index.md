@@ -16,7 +16,7 @@ RKRGRKRYRKR
 
 | Tartans |
 |---------------|
-| [Taplin](/setts/s11/r104k4r10g6r10k10r10y6r10k4r104-g005020-k101010-rdc0000-ye8c000/)|
-|![Taplin example sett](/setts/s11/r104k4r10g6r10k10r10y6r10k4r104-g005020-k101010-rdc0000-ye8c000/sett.png)|
-| [Taplin (Name)](/setts/s11/r104k4r10g6r10k10r10y6r10k4r104-g006818-k101010-rc80000-yfccc00/)|
-|![Taplin (Name) example sett](/setts/s11/r104k4r10g6r10k10r10y6r10k4r104-g006818-k101010-rc80000-yfccc00/sett.png)|
+| [Taplin](/setts/s11/r52k2r5g3r5k5r5y3r5k2r52~g005020-k101010-rdc0000-ye8c000~x2/)|
+|![Taplin example sett](/setts/s11/r52k2r5g3r5k5r5y3r5k2r52~g005020-k101010-rdc0000-ye8c000~x2/sett.png)|
+| [Taplin (Name)](/setts/s11/r52k2r5g3r5k5r5y3r5k2r52~g006818-k101010-rc80000-yfccc00~x2/)|
+|![Taplin (Name) example sett](/setts/s11/r52k2r5g3r5k5r5y3r5k2r52~g006818-k101010-rc80000-yfccc00~x2/sett.png)|

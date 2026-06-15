@@ -6,7 +6,7 @@ RGBGRBBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r24g8b8g8r62ba6bb24w8-b780078-ba14283c-bb1c0070-g006818-r888888-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r12g4b4g4r31ba3bb12w4~b780078-ba14283c-bb1c0070-g006818-r888888-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGBGRBBW
 
 | Tartans |
 |---------------|
-| [Yes Scotland (Fashion)](/setts/s8/r24g8b8g8r62ba6bb24w8-b780078-ba14283c-bb1c0070-g006818-r888888-we0e0e0/)|
-|![Yes Scotland (Fashion) example sett](/setts/s8/r24g8b8g8r62ba6bb24w8-b780078-ba14283c-bb1c0070-g006818-r888888-we0e0e0/sett.png)|
+| [Yes Scotland (Fashion)](/setts/s8/r12g4b4g4r31ba3bb12w4~b780078-ba14283c-bb1c0070-g006818-r888888-we0e0e0~x2/)|
+|![Yes Scotland (Fashion) example sett](/setts/s8/r12g4b4g4r31ba3bb12w4~b780078-ba14283c-bb1c0070-g006818-r888888-we0e0e0~x2/sett.png)|

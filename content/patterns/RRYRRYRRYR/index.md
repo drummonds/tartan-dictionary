@@ -16,5 +16,5 @@ RRYRRYRRYR
 
 | Tartans |
 |---------------|
-| [Kozlosky (Personal)](/setts/s10/r20ra6y12r28ra16y42ra16r28y12ra6-rc80000-rae87878-ye8c000/)|
-|![Kozlosky (Personal) example sett](/setts/s10/r20ra6y12r28ra16y42ra16r28y12ra6-rc80000-rae87878-ye8c000/sett.png)|
+| [Kozlosky (Personal)](/setts/s10/r10ra3y6r14ra8y21ra8r14y6ra3~rc80000-rae87878-ye8c000~x2/)|
+|![Kozlosky (Personal) example sett](/setts/s10/r10ra3y6r14ra8y21ra8r14y6ra3~rc80000-rae87878-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ WKRYKYRKW
 
 | Tartans |
 |---------------|
-| [Lantern, The](/setts/s9/w12k4r64y4k12y4r8k4w6-k101010-rc80000-wc0c0c0-yd09800/)|
-|![Lantern, The example sett](/setts/s9/w12k4r64y4k12y4r8k4w6-k101010-rc80000-wc0c0c0-yd09800/sett.png)|
+| [Lantern, The](/setts/s9/w6k2r32y2k6y2r4k2w3~k101010-rc80000-wc0c0c0-yd09800~x2/)|
+|![Lantern, The example sett](/setts/s9/w6k2r32y2k6y2r4k2w3~k101010-rc80000-wc0c0c0-yd09800~x2/sett.png)|

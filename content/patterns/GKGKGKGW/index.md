@@ -6,7 +6,7 @@ GKGKGKGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g14k1g2k1g2k10ga14w2-g003820-ga006818-k101010-wf4c4c4/tartan.png)
+![Woven sample](/setts/s8/g14k1g2k1g2k10ga14w2~g003820-ga006818-k101010-wf4c4c4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKGKGW
 
 | Tartans |
 |---------------|
-| [Manor (Corporate)](/setts/s8/g14k1g2k1g2k10ga14w2-g003820-ga006818-k101010-wf4c4c4/)|
-|![Manor (Corporate) example sett](/setts/s8/g14k1g2k1g2k10ga14w2-g003820-ga006818-k101010-wf4c4c4/sett.png)|
+| [Manor (Corporate)](/setts/s8/g14k1g2k1g2k10ga14w2~g003820-ga006818-k101010-wf4c4c4/)|
+|![Manor (Corporate) example sett](/setts/s8/g14k1g2k1g2k10ga14w2~g003820-ga006818-k101010-wf4c4c4/sett.png)|

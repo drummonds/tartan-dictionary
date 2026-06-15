@@ -16,5 +16,5 @@ GKBKBBBBBGBW
 
 | Tartans |
 |---------------|
-| [Hand, Edinburgh](/setts/s12/g2k16b10k46b10ba6b10bb6b10g10b6w2-b5c5c5c-ba141e46-bb3c104c-g043828-k1c1714-we0e0e0/)|
-|![Hand, Edinburgh example sett](/setts/s12/g2k16b10k46b10ba6b10bb6b10g10b6w2-b5c5c5c-ba141e46-bb3c104c-g043828-k1c1714-we0e0e0/sett.png)|
+| [Hand, Edinburgh](/setts/s12/g1k8b5k23b5ba3b5bb3b5g5b3w1~b5c5c5c-ba141e46-bb3c104c-g043828-k1c1714-we0e0e0~x2/)|
+|![Hand, Edinburgh example sett](/setts/s12/g1k8b5k23b5ba3b5bb3b5g5b3w1~b5c5c5c-ba141e46-bb3c104c-g043828-k1c1714-we0e0e0~x2/sett.png)|

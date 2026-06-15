@@ -16,5 +16,5 @@ BRRRBBWBWBBRRR
 
 | Tartans |
 |---------------|
-| [Scottish Highlander Dress](/setts/s14/b8r6ra4r52b30ba6w4ba52w4ba6b30r52ra4r6-b202060-ba9058d8-r888888-ra901c38-wfcfcfc/)|
-|![Scottish Highlander Dress example sett](/setts/s14/b8r6ra4r52b30ba6w4ba52w4ba6b30r52ra4r6-b202060-ba9058d8-r888888-ra901c38-wfcfcfc/sett.png)|
+| [Scottish Highlander Dress](/setts/s14/b4r3ra2r26b15ba3w2ba26w2ba3b15r26ra2r3~b202060-ba9058d8-r888888-ra901c38-wfcfcfc~x2/)|
+|![Scottish Highlander Dress example sett](/setts/s14/b4r3ra2r26b15ba3w2ba26w2ba3b15r26ra2r3~b202060-ba9058d8-r888888-ra901c38-wfcfcfc~x2/sett.png)|

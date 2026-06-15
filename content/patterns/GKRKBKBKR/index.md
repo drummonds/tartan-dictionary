@@ -16,5 +16,5 @@ GKRKBKBKR
 
 | Tartans |
 |---------------|
-| [Borthwick Hunting](/setts/s9/g24k4r24k6b24k32b24k6r12-b606060-g004c00-k000000-rc80000/)|
-|![Borthwick Hunting example sett](/setts/s9/g24k4r24k6b24k32b24k6r12-b606060-g004c00-k000000-rc80000/sett.png)|
+| [Borthwick Hunting](/setts/s9/g12k2r12k3b12k16b12k3r6~b606060-g004c00-k000000-rc80000~x2/)|
+|![Borthwick Hunting example sett](/setts/s9/g12k2r12k3b12k16b12k3r6~b606060-g004c00-k000000-rc80000~x2/sett.png)|

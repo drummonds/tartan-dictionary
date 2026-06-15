@@ -6,7 +6,7 @@ RBGBBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r15b8g25b72ba98w15-b1c1c1c-ba646464-g789484-ra00048-wf8f8f8/tartan.png)
+![Woven sample](/setts/s6/r15b8g25b72ba98w15~b1c1c1c-ba646464-g789484-ra00048-wf8f8f8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBGBBW
 
 | Tartans |
 |---------------|
-| [Afternoon Tea / Black Tea](/setts/s6/r15b8g25b72ba98w15-b1c1c1c-ba646464-g789484-ra00048-wf8f8f8/)|
-|![Afternoon Tea / Black Tea example sett](/setts/s6/r15b8g25b72ba98w15-b1c1c1c-ba646464-g789484-ra00048-wf8f8f8/sett.png)|
+| [Afternoon Tea / Black Tea](/setts/s6/r15b8g25b72ba98w15~b1c1c1c-ba646464-g789484-ra00048-wf8f8f8/)|
+|![Afternoon Tea / Black Tea example sett](/setts/s6/r15b8g25b72ba98w15~b1c1c1c-ba646464-g789484-ra00048-wf8f8f8/sett.png)|

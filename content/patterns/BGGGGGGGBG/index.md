@@ -16,5 +16,5 @@ BGGGGGGGBG
 
 | Tartans |
 |---------------|
-| [Walters (Personal)](/setts/s10/b8g80g8g8ga4g8g8g80b8g8-b6c0070-g006818-ga289c18/)|
-|![Walters (Personal) example sett](/setts/s10/b8g80g8g8ga4g8g8g80b8g8-b6c0070-g006818-ga289c18/sett.png)|
+| [Walters (Personal)](/setts/s10/b2g20g2g2ga1g2g2g20b2g2~b6c0070-g006818-ga289c18~x4/)|
+|![Walters (Personal) example sett](/setts/s10/b2g20g2g2ga1g2g2g20b2g2~b6c0070-g006818-ga289c18~x4/sett.png)|

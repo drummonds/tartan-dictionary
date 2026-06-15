@@ -16,5 +16,5 @@ BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG
 
 | Tartans |
 |---------------|
-| [Canadian Centennial #3](/setts/s70/b32g16k16b2k2b2k2b2k2b2k2b2k2b2k2b40k8g24k48ga16b2ga2b2ga2b2ga2b2ga2b2ga2b2ga2b28ga12k8g104k8ga12b28ga2b2ga2b2ga2b2ga2b2ga2b2ga2b2ga16k48g24k8b40k2b2k2b2k2b2k2b2k2b2k2b2k16g16-b2c2c80-g006818-ga604000-h164bc8b881755e1c/)|
-|![Canadian Centennial #3 example sett](/setts/s70/b32g16k16b2k2b2k2b2k2b2k2b2k2b2k2b40k8g24k48ga16b2ga2b2ga2b2ga2b2ga2b2ga2b2ga2b28ga12k8g104k8ga12b28ga2b2ga2b2ga2b2ga2b2ga2b2ga2b2ga16k48g24k8b40k2b2k2b2k2b2k2b2k2b2k2b2k16g16-b2c2c80-g006818-ga604000-h164bc8b881755e1c/sett.png)|
+| [Canadian Centennial #3](/setts/s70/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24ga8b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b14ga6k4g52k4ga6b14ga1b1ga1b1ga1b1ga1b1ga1b1ga1b1ga8k24g12k4b20k1b1k1b1k1b1k1b1k1b1k1b1k8g8~b2c2c80-g006818-ga604000-k101010~-hef459683eec3b017/)|
+|![Canadian Centennial #3 example sett](/setts/s70/b16g8k8b1k1b1k1b1k1b1k1b1k1b1k1b20k4g12k24ga8b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b14ga6k4g52k4ga6b14ga1b1ga1b1ga1b1ga1b1ga1b1ga1b1ga8k24g12k4b20k1b1k1b1k1b1k1b1k1b1k1b1k8g8~b2c2c80-g006818-ga604000-k101010~-hef459683eec3b017/sett.png)|

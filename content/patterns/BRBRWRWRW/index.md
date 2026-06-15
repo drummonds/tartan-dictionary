@@ -16,5 +16,5 @@ BRBRWRWRW
 
 | Tartans |
 |---------------|
-| [Titanium (Fashion)](/setts/s9/b88r16b16r44w8r8w22r4wa4-b5c5c5c-r888888-wc0c0c0-wae8ccb8/)|
-|![Titanium (Fashion) example sett](/setts/s9/b88r16b16r44w8r8w22r4wa4-b5c5c5c-r888888-wc0c0c0-wae8ccb8/sett.png)|
+| [Titanium (Fashion)](/setts/s9/b44r8b8r22w4r4w11r2wa2~b5c5c5c-r888888-wc0c0c0-wae8ccb8~x2/)|
+|![Titanium (Fashion) example sett](/setts/s9/b44r8b8r22w4r4w11r2wa2~b5c5c5c-r888888-wc0c0c0-wae8ccb8~x2/sett.png)|

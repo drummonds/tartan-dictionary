@@ -16,5 +16,5 @@ BYWYRWBGBW
 
 | Tartans |
 |---------------|
-| [State Seal of Hawaii (Fashion)](/setts/s10/w98b50g32b8wa6r16y8w36y2b18-b003c64-g006818-rc80000-w98c8e8-wae8ccb8-ybc8c00/)|
-|![State Seal of Hawaii (Fashion) example sett](/setts/s10/w98b50g32b8wa6r16y8w36y2b18-b003c64-g006818-rc80000-w98c8e8-wae8ccb8-ybc8c00/sett.png)|
+| [State Seal of Hawaii (Fashion)](/setts/s10/w49b25g16b4wa3r8y4w18y1b9~b003c64-g006818-rc80000-w98c8e8-wae8ccb8-ybc8c00~x2/)|
+|![State Seal of Hawaii (Fashion) example sett](/setts/s10/w49b25g16b4wa3r8y4w18y1b9~b003c64-g006818-rc80000-w98c8e8-wae8ccb8-ybc8c00~x2/sett.png)|

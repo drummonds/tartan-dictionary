@@ -16,5 +16,5 @@ BYBRGRGYGW
 
 | Tartans |
 |---------------|
-| [Cornell (Fashion)](/setts/s10/w100g10y4g10r4g40r4b10y4b80-b2c2c80-g006818-rc80000-wece8cc-yfccc00/)|
-|![Cornell (Fashion) example sett](/setts/s10/w100g10y4g10r4g40r4b10y4b80-b2c2c80-g006818-rc80000-wece8cc-yfccc00/sett.png)|
+| [Cornell (Fashion)](/setts/s10/w50g5y2g5r2g20r2b5y2b40~b2c2c80-g006818-rc80000-wece8cc-yfccc00~x2/)|
+|![Cornell (Fashion) example sett](/setts/s10/w50g5y2g5r2g20r2b5y2b40~b2c2c80-g006818-rc80000-wece8cc-yfccc00~x2/sett.png)|

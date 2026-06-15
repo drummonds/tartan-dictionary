@@ -6,7 +6,7 @@ BWYW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b160w2y16w6-b1c0070-we0e0e0-yd87c00/tartan.png)
+![Woven sample](/setts/s4/b80w1y8w3~b1c0070-we0e0e0-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWYW
 
 | Tartans |
 |---------------|
-| [Weir Minerals (Corporate)](/setts/s4/b160w2y16w6-b1c0070-we0e0e0-yd87c00/)|
-|![Weir Minerals (Corporate) example sett](/setts/s4/b160w2y16w6-b1c0070-we0e0e0-yd87c00/sett.png)|
+| [Weir Minerals (Corporate)](/setts/s4/b80w1y8w3~b1c0070-we0e0e0-yd87c00~x2/)|
+|![Weir Minerals (Corporate) example sett](/setts/s4/b80w1y8w3~b1c0070-we0e0e0-yd87c00~x2/sett.png)|

@@ -6,7 +6,7 @@ BKRKRKGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b128k22r4k8r4k8g64ga8-b304080-g008000-ga908000-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s8/b64k11r2k4r2k4g32ga4~b304080-g008000-ga908000-k000000-rc00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRKRKGG
 
 | Tartans |
 |---------------|
-| [Sinclair-Brown](/setts/s8/b128k22r4k8r4k8g64ga8-b304080-g008000-ga908000-k000000-rc00000/)|
-|![Sinclair-Brown example sett](/setts/s8/b128k22r4k8r4k8g64ga8-b304080-g008000-ga908000-k000000-rc00000/sett.png)|
+| [Sinclair-Brown](/setts/s8/b64k11r2k4r2k4g32ga4~b304080-g008000-ga908000-k000000-rc00000~x2/)|
+|![Sinclair-Brown example sett](/setts/s8/b64k11r2k4r2k4g32ga4~b304080-g008000-ga908000-k000000-rc00000~x2/sett.png)|

@@ -16,5 +16,5 @@ KBWKWBWBWRWBWBWKWBKR
 
 | Tartans |
 |---------------|
-| [Scott (MacRae)](/setts/s20/k8b4w2k32w2b6w32b4w12r4w12b4w32b6w2k32w2b4k8r4-b2c2c80-k101010-rc80000-we0e0e0/)|
-|![Scott (MacRae) example sett](/setts/s20/k8b4w2k32w2b6w32b4w12r4w12b4w32b6w2k32w2b4k8r4-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
+| [Scott (MacRae)](/setts/s20/k4b2w1k16w1b3w16b2w6r2w6b2w16b3w1k16w1b2k4r2~b2c2c80-k101010-rc80000-we0e0e0~x2/)|
+|![Scott (MacRae) example sett](/setts/s20/k4b2w1k16w1b3w16b2w6r2w6b2w16b3w1k16w1b2k4r2~b2c2c80-k101010-rc80000-we0e0e0~x2/sett.png)|

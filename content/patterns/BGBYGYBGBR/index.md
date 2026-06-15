@@ -16,5 +16,5 @@ BGBYGYBGBR
 
 | Tartans |
 |---------------|
-| [Dunbog Primary School](/setts/s10/r24b6g10b32y4g4y4b32g10b6-b000048-g447438-rc80000-ye8c000/)|
-|![Dunbog Primary School example sett](/setts/s10/r24b6g10b32y4g4y4b32g10b6-b000048-g447438-rc80000-ye8c000/sett.png)|
+| [Dunbog Primary School](/setts/s10/r12b3g5b16y2g2y2b16g5b3~b000048-g447438-rc80000-ye8c000~x2/)|
+|![Dunbog Primary School example sett](/setts/s10/r12b3g5b16y2g2y2b16g5b3~b000048-g447438-rc80000-ye8c000~x2/sett.png)|

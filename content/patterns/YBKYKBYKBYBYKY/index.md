@@ -16,5 +16,5 @@ YBKYKBYKBYBYKY
 
 | Tartans |
 |---------------|
-| [Agincourt](/setts/s14/y16k4y12b4y4b8k24y16b8k24y28k24b116y8-b003c64-k101010-yd09800/)|
-|![Agincourt example sett](/setts/s14/y16k4y12b4y4b8k24y16b8k24y28k24b116y8-b003c64-k101010-yd09800/sett.png)|
+| [Agincourt](/setts/s14/y4k1y3b1y1b2k6y4b2k6y7k6b29y2~b003c64-k101010-yd09800~x4/)|
+|![Agincourt example sett](/setts/s14/y4k1y3b1y1b2k6y4b2k6y7k6b29y2~b003c64-k101010-yd09800~x4/sett.png)|

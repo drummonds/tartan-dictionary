@@ -16,7 +16,7 @@ BYKYKYKGRKRY
 
 | Tartans |
 |---------------|
-| [MacBeth](/setts/s12/b72y8k12ya2k2ya2k2g16r12k2r6ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacBeth example sett](/setts/s12/b72y8k12ya2k2ya2k2g16r12k2r6ya2-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
-| [MacBeth](/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![MacBeth example sett](/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1-b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [MacBeth](/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1~b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![MacBeth example sett](/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1~b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|
+| [MacBeth](/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1~b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![MacBeth example sett](/setts/s12/b36y4k6ya1k1ya1k1g8r6k1r3ya1~b000052-g11450d-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|

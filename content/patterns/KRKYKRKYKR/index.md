@@ -16,7 +16,7 @@ KRKYKRKYKR
 
 | Tartans |
 |---------------|
-| [Burke (Kennesaw), Kevin](/setts/s10/k124r46k2y10k2r6k2y4k2r16-k101010-rff0000-yffe600/)|
-|![Burke (Kennesaw), Kevin example sett](/setts/s10/k124r46k2y10k2r6k2y4k2r16-k101010-rff0000-yffe600/sett.png)|
-| [Burke (Name)](/setts/s10/k124r46k2y10k2r6k2y4k2r16-k101010-r880000-ybc8c00/)|
-|![Burke (Name) example sett](/setts/s10/k124r46k2y10k2r6k2y4k2r16-k101010-r880000-ybc8c00/sett.png)|
+| [Burke (Kennesaw), Kevin](/setts/s10/k62r23k1y5k1r3k1y2k1r8~k101010-rff0000-yffe600~x2/)|
+|![Burke (Kennesaw), Kevin example sett](/setts/s10/k62r23k1y5k1r3k1y2k1r8~k101010-rff0000-yffe600~x2/sett.png)|
+| [Burke (Name)](/setts/s10/k62r23k1y5k1r3k1y2k1r8~k101010-r880000-ybc8c00~x2/)|
+|![Burke (Name) example sett](/setts/s10/k62r23k1y5k1r3k1y2k1r8~k101010-r880000-ybc8c00~x2/sett.png)|

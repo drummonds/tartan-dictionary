@@ -6,7 +6,7 @@ KWWRWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r82w38r14w16w2k6-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/r41w19r7w8w1k3~k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWWRWR
 
 | Tartans |
 |---------------|
-| [MacGregor - 2005 (Black - Personal)](/setts/s6/r82w38r14w16w2k6-k101010-rc80000-wfcfcfc/)|
-|![MacGregor - 2005 (Black - Personal) example sett](/setts/s6/r82w38r14w16w2k6-k101010-rc80000-wfcfcfc/sett.png)|
+| [MacGregor - 2005 (Black - Personal)](/setts/s6/r41w19r7w8w1k3~k101010-rc80000-wfcfcfc~x2/)|
+|![MacGregor - 2005 (Black - Personal) example sett](/setts/s6/r41w19r7w8w1k3~k101010-rc80000-wfcfcfc~x2/sett.png)|

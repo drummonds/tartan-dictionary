@@ -6,7 +6,7 @@ BRBYBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4r64b24y16b24w4-b2c2c80-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b1r16b6y4b6w1~b2c2c80-rc80000-we0e0e0-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBYBW
 
 | Tartans |
 |---------------|
-| [Superfast Ferries (Corporate)](/setts/s6/b4r64b24y16b24w4-b2c2c80-rc80000-we0e0e0-ye8c000/)|
-|![Superfast Ferries (Corporate) example sett](/setts/s6/b4r64b24y16b24w4-b2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Superfast Ferries (Corporate)](/setts/s6/b1r16b6y4b6w1~b2c2c80-rc80000-we0e0e0-ye8c000~x4/)|
+|![Superfast Ferries (Corporate) example sett](/setts/s6/b1r16b6y4b6w1~b2c2c80-rc80000-we0e0e0-ye8c000~x4/sett.png)|

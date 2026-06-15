@@ -16,5 +16,5 @@ RKBWWWBKBWBY
 
 | Tartans |
 |---------------|
-| [Union Club of British Columbia](/setts/s12/r8k4b16w16wa4w16ba16k4ba16w8ba16y4-b505050-ba3c82af-k101010-r888888-w98c8e8-wae0e0e0-ye8c000/)|
-|![Union Club of British Columbia example sett](/setts/s12/r8k4b16w16wa4w16ba16k4ba16w8ba16y4-b505050-ba3c82af-k101010-r888888-w98c8e8-wae0e0e0-ye8c000/sett.png)|
+| [Union Club of British Columbia](/setts/s12/r2k1b4w4wa1w4ba4k1ba4w2ba4y1~b505050-ba3c82af-k101010-r888888-w98c8e8-wae0e0e0-ye8c000~x4/)|
+|![Union Club of British Columbia example sett](/setts/s12/r2k1b4w4wa1w4ba4k1ba4w2ba4y1~b505050-ba3c82af-k101010-r888888-w98c8e8-wae0e0e0-ye8c000~x4/sett.png)|

@@ -16,5 +16,5 @@ BGKGKGKBRB
 
 | Tartans |
 |---------------|
-| [South Australia](/setts/s10/b26g38k4g14k4g14k4ba36r4b26-b102040-ba304080-g004010-k000000-rc00000/)|
-|![South Australia example sett](/setts/s10/b26g38k4g14k4g14k4ba36r4b26-b102040-ba304080-g004010-k000000-rc00000/sett.png)|
+| [South Australia](/setts/s10/b13g19k2g7k2g7k2ba18r2b13~b102040-ba304080-g004010-k000000-rc00000~x2/)|
+|![South Australia example sett](/setts/s10/b13g19k2g7k2g7k2ba18r2b13~b102040-ba304080-g004010-k000000-rc00000~x2/sett.png)|

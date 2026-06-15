@@ -16,5 +16,5 @@ YGRRGYRGY
 
 | Tartans |
 |---------------|
-| [Unidentified Sett](/setts/s9/y4g2r20ra24g20y12r20g2y4-g503c14-rdc0000-rabe7832-yb0b0b0/)|
-|![Unidentified Sett example sett](/setts/s9/y4g2r20ra24g20y12r20g2y4-g503c14-rdc0000-rabe7832-yb0b0b0/sett.png)|
+| [Unidentified Sett](/setts/s9/y2g1r10ra12g10y6r10g1y2~g503c14-rdc0000-rabe7832-yb0b0b0~x2/)|
+|![Unidentified Sett example sett](/setts/s9/y2g1r10ra12g10y6r10g1y2~g503c14-rdc0000-rabe7832-yb0b0b0~x2/sett.png)|

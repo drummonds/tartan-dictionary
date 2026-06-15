@@ -16,5 +16,5 @@ RKRGWGKGBRY
 
 | Tartans |
 |---------------|
-| [Norwell](/setts/s11/r8k8r64g8w6g8k26g6b36r4y6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Norwell example sett](/setts/s11/r8k8r64g8w6g8k26g6b36r4y6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Norwell](/setts/s11/r4k4r32g4w3g4k13g3b18r2y3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Norwell example sett](/setts/s11/r4k4r32g4w3g4k13g3b18r2y3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

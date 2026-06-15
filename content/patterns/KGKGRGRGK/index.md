@@ -16,5 +16,5 @@ KGKGRGRGK
 
 | Tartans |
 |---------------|
-| [Gaelic Society of Moscow (Corporate)](/setts/s9/k30g4k4g8r4g4r4g4k4-g006818-k101010-rc80000/)|
-|![Gaelic Society of Moscow (Corporate) example sett](/setts/s9/k30g4k4g8r4g4r4g4k4-g006818-k101010-rc80000/sett.png)|
+| [Gaelic Society of Moscow (Corporate)](/setts/s9/k15g2k2g4r2g2r2g2k2~g006818-k101010-rc80000~x2/)|
+|![Gaelic Society of Moscow (Corporate) example sett](/setts/s9/k15g2k2g4r2g2r2g2k2~g006818-k101010-rc80000~x2/sett.png)|

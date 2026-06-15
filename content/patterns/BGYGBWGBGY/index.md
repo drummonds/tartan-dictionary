@@ -16,5 +16,5 @@ BGYGBWGBGY
 
 | Tartans |
 |---------------|
-| [Unidentified (Pahls)](/setts/s10/y8g8b4g58w2b24g4y32g8b4-b2c2c80-g006818-wfcfcfc-ya08858/)|
-|![Unidentified (Pahls) example sett](/setts/s10/y8g8b4g58w2b24g4y32g8b4-b2c2c80-g006818-wfcfcfc-ya08858/sett.png)|
+| [Unidentified (Pahls)](/setts/s10/y4g4b2g29w1b12g2y16g4b2~b2c2c80-g006818-wfcfcfc-ya08858~x2/)|
+|![Unidentified (Pahls) example sett](/setts/s10/y4g4b2g29w1b12g2y16g4b2~b2c2c80-g006818-wfcfcfc-ya08858~x2/sett.png)|

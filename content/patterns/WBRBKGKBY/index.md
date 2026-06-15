@@ -16,5 +16,5 @@ WBRBKGKBY
 
 | Tartans |
 |---------------|
-| [Royal Navy Submarine Service](/setts/s9/w6b6r4b28k6g24k28b32y4-b141e46-g005448-k101010-r880000-wf0e0c8-yc88c00/)|
-|![Royal Navy Submarine Service example sett](/setts/s9/w6b6r4b28k6g24k28b32y4-b141e46-g005448-k101010-r880000-wf0e0c8-yc88c00/sett.png)|
+| [Royal Navy Submarine Service](/setts/s9/w3b3r2b14k3g12k14b16y2~b141e46-g005448-k101010-r880000-wf0e0c8-yc88c00~x2/)|
+|![Royal Navy Submarine Service example sett](/setts/s9/w3b3r2b14k3g12k14b16y2~b141e46-g005448-k101010-r880000-wf0e0c8-yc88c00~x2/sett.png)|

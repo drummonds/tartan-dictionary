@@ -16,5 +16,5 @@ WBWBKWKBWBWBW
 
 | Tartans |
 |---------------|
-| [Poulter SG 102 (Fashion)](/setts/s13/w25b8w8b8w8b46k46wa8k46b46w46b8w8-b440044-k101010-we0e0e0-wad4b8e0/)|
-|![Poulter SG 102 (Fashion) example sett](/setts/s13/w25b8w8b8w8b46k46wa8k46b46w46b8w8-b440044-k101010-we0e0e0-wad4b8e0/sett.png)|
+| [Poulter SG 102 (Fashion)](/setts/s13/w25b8w8b8w8b46k46wa8k46b46w46b8w8~b440044-k101010-we0e0e0-wad4b8e0/)|
+|![Poulter SG 102 (Fashion) example sett](/setts/s13/w25b8w8b8w8b46k46wa8k46b46w46b8w8~b440044-k101010-we0e0e0-wad4b8e0/sett.png)|

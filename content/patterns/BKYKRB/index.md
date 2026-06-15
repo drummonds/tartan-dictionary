@@ -6,7 +6,7 @@ BKYKRB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4r48k24y4k24b4-b2c2c80-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b1r12k6y1k6b1~b2c2c80-k101010-rc80000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKYKRB
 
 | Tartans |
 |---------------|
-| [Cetoloni (Personal)](/setts/s6/b4r48k24y4k24b4-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Cetoloni (Personal) example sett](/setts/s6/b4r48k24y4k24b4-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Cetoloni (Personal)](/setts/s6/b1r12k6y1k6b1~b2c2c80-k101010-rc80000-ye8c000~x4/)|
+|![Cetoloni (Personal) example sett](/setts/s6/b1r12k6y1k6b1~b2c2c80-k101010-rc80000-ye8c000~x4/sett.png)|

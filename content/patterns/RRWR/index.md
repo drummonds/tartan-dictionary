@@ -6,7 +6,7 @@ RRWR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r38w2r38ra2-r888888-raa00048-wfcfcfc/tartan.png)
+![Woven sample](/setts/s4/r19w1r19ra1~r888888-raa00048-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRWR
 
 | Tartans |
 |---------------|
-| [Dunbar of Pitgaveny](/setts/s4/r38w2r38ra2-r888888-raa00048-wfcfcfc/)|
-|![Dunbar of Pitgaveny example sett](/setts/s4/r38w2r38ra2-r888888-raa00048-wfcfcfc/sett.png)|
+| [Dunbar of Pitgaveny](/setts/s4/r19w1r19ra1~r888888-raa00048-wfcfcfc~x2/)|
+|![Dunbar of Pitgaveny example sett](/setts/s4/r19w1r19ra1~r888888-raa00048-wfcfcfc~x2/sett.png)|

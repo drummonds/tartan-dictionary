@@ -6,7 +6,7 @@ BRBG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g14b4r8b4-b2888c4-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s4/g7b2r4b2~b2888c4-g006818-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBG
 
 | Tartans |
 |---------------|
-| [Wilson's No.208](/setts/s4/g14b4r8b4-b2888c4-g006818-rc80000/)|
-|![Wilson's No.208 example sett](/setts/s4/g14b4r8b4-b2888c4-g006818-rc80000/sett.png)|
+| [Wilson's No.208](/setts/s4/g7b2r4b2~b2888c4-g006818-rc80000~x2/)|
+|![Wilson's No.208 example sett](/setts/s4/g7b2r4b2~b2888c4-g006818-rc80000~x2/sett.png)|

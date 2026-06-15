@@ -16,5 +16,5 @@ WBYBYKBWBY
 
 | Tartans |
 |---------------|
-| [SPA Association (Corporate)](/setts/s10/w4b20y4b4y4k16b60w4b8y4-b202060-k101010-we0e0e0-ye8c000/)|
-|![SPA Association (Corporate) example sett](/setts/s10/w4b20y4b4y4k16b60w4b8y4-b202060-k101010-we0e0e0-ye8c000/sett.png)|
+| [SPA Association (Corporate)](/setts/s10/w1b5y1b1y1k4b15w1b2y1~b202060-k101010-we0e0e0-ye8c000~x4/)|
+|![SPA Association (Corporate) example sett](/setts/s10/w1b5y1b1y1k4b15w1b2y1~b202060-k101010-we0e0e0-ye8c000~x4/sett.png)|

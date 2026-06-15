@@ -16,5 +16,5 @@ BBGKGKBKBKYGYG
 
 | Tartans |
 |---------------|
-| [Balmaha](/setts/s14/g6y6g24y2k2b24k2b24k2ga24k2g24ba6b4-b2c4084-ba3c82af-g503c14-ga005020-k101010-ye8c000/)|
-|![Balmaha example sett](/setts/s14/g6y6g24y2k2b24k2b24k2ga24k2g24ba6b4-b2c4084-ba3c82af-g503c14-ga005020-k101010-ye8c000/sett.png)|
+| [Balmaha](/setts/s14/g3y3g12y1k1b12k1b12k1ga12k1g12ba3b2~b2c4084-ba3c82af-g503c14-ga005020-k101010-ye8c000~x2/)|
+|![Balmaha example sett](/setts/s14/g3y3g12y1k1b12k1b12k1ga12k1g12ba3b2~b2c4084-ba3c82af-g503c14-ga005020-k101010-ye8c000~x2/sett.png)|

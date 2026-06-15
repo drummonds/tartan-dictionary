@@ -16,5 +16,5 @@ GKYKWKRGKGW
 
 | Tartans |
 |---------------|
-| [Cavalier, Green..](/setts/s11/g90k20y4k4w4k4r20g10k2g10w2-g808080-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Cavalier, Green.. example sett](/setts/s11/g90k20y4k4w4k4r20g10k2g10w2-g808080-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Cavalier, Green..](/setts/s11/g45k10y2k2w2k2r10g5k1g5w1~g808080-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Cavalier, Green.. example sett](/setts/s11/g45k10y2k2w2k2r10g5k1g5w1~g808080-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

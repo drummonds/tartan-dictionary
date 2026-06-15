@@ -16,5 +16,5 @@ BKBKBKYGKGYKBKY
 
 | Tartans |
 |---------------|
-| [Mulholland (Personal)](/setts/s15/b26k4b6k4b12k24y4g24k4g24y4k24b32k4y8-b1c0070-g006818-k101010-yd09800/)|
-|![Mulholland (Personal) example sett](/setts/s15/b26k4b6k4b12k24y4g24k4g24y4k24b32k4y8-b1c0070-g006818-k101010-yd09800/sett.png)|
+| [Mulholland (Personal)](/setts/s15/b13k2b3k2b6k12y2g12k2g12y2k12b16k2y4~b1c0070-g006818-k101010-yd09800~x2/)|
+|![Mulholland (Personal) example sett](/setts/s15/b13k2b3k2b6k12y2g12k2g12y2k12b16k2y4~b1c0070-g006818-k101010-yd09800~x2/sett.png)|

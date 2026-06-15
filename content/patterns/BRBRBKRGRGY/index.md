@@ -16,5 +16,5 @@ BRBRBKRGRGY
 
 | Tartans |
 |---------------|
-| [Cameron of Erracht (WCWM)](/setts/s11/b20r8b8r8b40k40r6g40r8g8y8-b4c3428-g408060-k101010-r880000-ybc8c00/)|
-|![Cameron of Erracht (WCWM) example sett](/setts/s11/b20r8b8r8b40k40r6g40r8g8y8-b4c3428-g408060-k101010-r880000-ybc8c00/sett.png)|
+| [Cameron of Erracht (WCWM)](/setts/s11/b10r4b4r4b20k20r3g20r4g4y4~b4c3428-g408060-k101010-r880000-ybc8c00~x2/)|
+|![Cameron of Erracht (WCWM) example sett](/setts/s11/b10r4b4r4b20k20r3g20r4g4y4~b4c3428-g408060-k101010-r880000-ybc8c00~x2/sett.png)|

@@ -6,7 +6,7 @@ KRKRBRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k6r2k60r56b2r2y6-b000052-k000000-raa0000-yaaaaaa/tartan.png)
+![Woven sample](/setts/s7/k3r1k30r28b1r1y3~b000052-k000000-raa0000-yaaaaaa~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKRBRY
 
 | Tartans |
 |---------------|
-| [Cunningham](/setts/s7/k6r2k60r56b2r2y6-b000052-k000000-raa0000-yaaaaaa/)|
-|![Cunningham example sett](/setts/s7/k6r2k60r56b2r2y6-b000052-k000000-raa0000-yaaaaaa/sett.png)|
+| [Cunningham](/setts/s7/k3r1k30r28b1r1y3~b000052-k000000-raa0000-yaaaaaa~x2/)|
+|![Cunningham example sett](/setts/s7/k3r1k30r28b1r1y3~b000052-k000000-raa0000-yaaaaaa~x2/sett.png)|

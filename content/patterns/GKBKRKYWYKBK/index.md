@@ -16,5 +16,5 @@ GKBKRKYWYKBK
 
 | Tartans |
 |---------------|
-| [Auchinachie](/setts/s12/g4k4b24k8r2k8y20w2y20k16b24k4-b003f87-g008b45-k101010-r8c1717-wfff68f-y96c8a2/)|
-|![Auchinachie example sett](/setts/s12/g4k4b24k8r2k8y20w2y20k16b24k4-b003f87-g008b45-k101010-r8c1717-wfff68f-y96c8a2/sett.png)|
+| [Auchinachie](/setts/s12/g2k2b12k4r1k4y10w1y10k8b12k2~b003f87-g008b45-k101010-r8c1717-wfff68f-y96c8a2~x2/)|
+|![Auchinachie example sett](/setts/s12/g2k2b12k4r1k4y10w1y10k8b12k2~b003f87-g008b45-k101010-r8c1717-wfff68f-y96c8a2~x2/sett.png)|

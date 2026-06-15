@@ -16,5 +16,5 @@ BYBKBKBKYKRKYKBKBK
 
 | Tartans |
 |---------------|
-| [Cleikum](/setts/s18/b56y6b56k4b4k4b6k68y4k6r6k6y4k68b6k4b4k4-b2c2c80-k101010-rc80000-ye8c000/)|
-|![Cleikum example sett](/setts/s18/b56y6b56k4b4k4b6k68y4k6r6k6y4k68b6k4b4k4-b2c2c80-k101010-rc80000-ye8c000/sett.png)|
+| [Cleikum](/setts/s18/b28y3b28k2b2k2b3k34y2k3r3k3y2k34b3k2b2k2~b2c2c80-k101010-rc80000-ye8c000~x2/)|
+|![Cleikum example sett](/setts/s18/b28y3b28k2b2k2b3k34y2k3r3k3y2k34b3k2b2k2~b2c2c80-k101010-rc80000-ye8c000~x2/sett.png)|

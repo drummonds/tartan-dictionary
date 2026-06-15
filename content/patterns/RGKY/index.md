@@ -6,7 +6,7 @@ RGKY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r4g44k44y4-g006818-k101010-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s4/r1g11k11y1~g006818-k101010-r880000-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKY
 
 | Tartans |
 |---------------|
-| [Brooks Brothers (Corporate)](/setts/s4/r4g44k44y4-g006818-k101010-r880000-yd09800/)|
-|![Brooks Brothers (Corporate) example sett](/setts/s4/r4g44k44y4-g006818-k101010-r880000-yd09800/sett.png)|
+| [Brooks Brothers (Corporate)](/setts/s4/r1g11k11y1~g006818-k101010-r880000-yd09800~x4/)|
+|![Brooks Brothers (Corporate) example sett](/setts/s4/r1g11k11y1~g006818-k101010-r880000-yd09800~x4/sett.png)|

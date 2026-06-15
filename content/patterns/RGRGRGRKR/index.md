@@ -16,5 +16,5 @@ RGRGRGRKR
 
 | Tartans |
 |---------------|
-| [Maxwell Variant](/setts/s9/r40k15r6g32r6g32r40g2r20-g005020-k101010-rdc0000/)|
-|![Maxwell Variant example sett](/setts/s9/r40k15r6g32r6g32r40g2r20-g005020-k101010-rdc0000/sett.png)|
+| [Maxwell Variant](/setts/s9/r40k15r6g32r6g32r40g2r20~g005020-k101010-rdc0000/)|
+|![Maxwell Variant example sett](/setts/s9/r40k15r6g32r6g32r40g2r20~g005020-k101010-rdc0000/sett.png)|

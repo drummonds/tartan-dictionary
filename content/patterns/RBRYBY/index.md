@@ -6,7 +6,7 @@ RBRYBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/tartan.png)
+![Woven sample](/setts/s6/r13b13ra5y2b13y13~b1c1c1c-rc80000-rad87000-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRYBY
 
 | Tartans |
 |---------------|
-| [Torana](/setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/)|
-|![Torana example sett](/setts/s6/r26b26ra10y4b26y26-b1c1c1c-rc80000-rad87000-yd09800/sett.png)|
+| [Torana](/setts/s6/r13b13ra5y2b13y13~b1c1c1c-rc80000-rad87000-yd09800~x2/)|
+|![Torana example sett](/setts/s6/r13b13ra5y2b13y13~b1c1c1c-rc80000-rad87000-yd09800~x2/sett.png)|

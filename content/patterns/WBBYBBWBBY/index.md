@@ -16,5 +16,5 @@ WBBYBBWBBY
 
 | Tartans |
 |---------------|
-| [Westwood MacSky (Fashion)](/setts/s10/w4b26ba26y4ba26b26w4b12ba12y2-b1c0070-ba283890-we0e0e0-ye8c000/)|
-|![Westwood MacSky (Fashion) example sett](/setts/s10/w4b26ba26y4ba26b26w4b12ba12y2-b1c0070-ba283890-we0e0e0-ye8c000/sett.png)|
+| [Westwood MacSky (Fashion)](/setts/s10/w2b13ba13y2ba13b13w2b6ba6y1~b1c0070-ba283890-we0e0e0-ye8c000~x2/)|
+|![Westwood MacSky (Fashion) example sett](/setts/s10/w2b13ba13y2ba13b13w2b6ba6y1~b1c0070-ba283890-we0e0e0-ye8c000~x2/sett.png)|

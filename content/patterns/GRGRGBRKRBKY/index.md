@@ -16,5 +16,5 @@ GRGRGBRKRBKY
 
 | Tartans |
 |---------------|
-| [Kelsey, William (Personal)](/setts/s12/g24r4g4r10g32b6ra4k4ra6b12k40y6-b2c2c80-g006818-k101010-rc80000-ra888888-yfccc00/)|
-|![Kelsey, William (Personal) example sett](/setts/s12/g24r4g4r10g32b6ra4k4ra6b12k40y6-b2c2c80-g006818-k101010-rc80000-ra888888-yfccc00/sett.png)|
+| [Kelsey, William (Personal)](/setts/s12/g12r2g2r5g16b3ra2k2ra3b6k20y3~b2c2c80-g006818-k101010-rc80000-ra888888-yfccc00~x2/)|
+|![Kelsey, William (Personal) example sett](/setts/s12/g12r2g2r5g16b3ra2k2ra3b6k20y3~b2c2c80-g006818-k101010-rc80000-ra888888-yfccc00~x2/sett.png)|

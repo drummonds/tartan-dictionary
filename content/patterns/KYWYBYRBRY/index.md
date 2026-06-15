@@ -16,5 +16,5 @@ KYWYBYRBRY
 
 | Tartans |
 |---------------|
-| [MacLeroy & Troine](/setts/s10/k4y6w4y6b8y38r12b46ra6ya4-b5c5c5c-k101010-r888888-rac80000-we0e0e0-y48a4c0-yafccc00/)|
-|![MacLeroy & Troine example sett](/setts/s10/k4y6w4y6b8y38r12b46ra6ya4-b5c5c5c-k101010-r888888-rac80000-we0e0e0-y48a4c0-yafccc00/sett.png)|
+| [MacLeroy & Troine](/setts/s10/k2y3w2y3b4y19r6b23ra3ya2~b5c5c5c-k101010-r888888-rac80000-we0e0e0-y48a4c0-yafccc00~x2/)|
+|![MacLeroy & Troine example sett](/setts/s10/k2y3w2y3b4y19r6b23ra3ya2~b5c5c5c-k101010-r888888-rac80000-we0e0e0-y48a4c0-yafccc00~x2/sett.png)|

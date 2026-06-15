@@ -6,7 +6,7 @@ GRGRGYGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8r58ga6r8ga28y6ga28r8-g789484-ga006818-rc80000-yd8b000/tartan.png)
+![Woven sample](/setts/s8/g4r29ga3r4ga14y3ga14r4~g789484-ga006818-rc80000-yd8b000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRGYGR
 
 | Tartans |
 |---------------|
-| [Burnett](/setts/s8/g8r58ga6r8ga28y6ga28r8-g789484-ga006818-rc80000-yd8b000/)|
-|![Burnett example sett](/setts/s8/g8r58ga6r8ga28y6ga28r8-g789484-ga006818-rc80000-yd8b000/sett.png)|
+| [Burnett](/setts/s8/g4r29ga3r4ga14y3ga14r4~g789484-ga006818-rc80000-yd8b000~x2/)|
+|![Burnett example sett](/setts/s8/g4r29ga3r4ga14y3ga14r4~g789484-ga006818-rc80000-yd8b000~x2/sett.png)|

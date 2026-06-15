@@ -16,5 +16,5 @@ GYWYWYWYWGR
 
 | Tartans |
 |---------------|
-| [McAleavy (2014)](/setts/s11/g112y12w12ya4wa4ya4wa32y20wa4g12r6-g5c6428-ra00000-wf8f4d0-waffffff-ya0a0a0-yaf8e38c/)|
-|![McAleavy (2014) example sett](/setts/s11/g112y12w12ya4wa4ya4wa32y20wa4g12r6-g5c6428-ra00000-wf8f4d0-waffffff-ya0a0a0-yaf8e38c/sett.png)|
+| [McAleavy (2014)](/setts/s11/g56y6w6ya2wa2ya2wa16y10wa2g6r3~g5c6428-ra00000-wf8f4d0-waffffff-ya0a0a0-yaf8e38c~x2/)|
+|![McAleavy (2014) example sett](/setts/s11/g56y6w6ya2wa2ya2wa16y10wa2g6r3~g5c6428-ra00000-wf8f4d0-waffffff-ya0a0a0-yaf8e38c~x2/sett.png)|

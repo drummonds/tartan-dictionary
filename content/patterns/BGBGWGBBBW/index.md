@@ -16,5 +16,5 @@ BGBGWGBBBW
 
 | Tartans |
 |---------------|
-| [State Seal of Connecticut (Fashion)](/setts/s10/b8g12ba8g56w8g12ba12bb92ba2w8-b440044-ba003c64-bb2c2c80-g006818-we8ccb8/)|
-|![State Seal of Connecticut (Fashion) example sett](/setts/s10/b8g12ba8g56w8g12ba12bb92ba2w8-b440044-ba003c64-bb2c2c80-g006818-we8ccb8/sett.png)|
+| [State Seal of Connecticut (Fashion)](/setts/s10/b4g6ba4g28w4g6ba6bb46ba1w4~b440044-ba003c64-bb2c2c80-g006818-we8ccb8~x2/)|
+|![State Seal of Connecticut (Fashion) example sett](/setts/s10/b4g6ba4g28w4g6ba6bb46ba1w4~b440044-ba003c64-bb2c2c80-g006818-we8ccb8~x2/sett.png)|

@@ -16,5 +16,5 @@ RWBGWYGBWBBRW
 
 | Tartans |
 |---------------|
-| [Holyrood, Chair](/setts/s13/r68w2b20g20w2y2g4ba4w2b4ba20r12w2-b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/)|
-|![Holyrood, Chair example sett](/setts/s13/r68w2b20g20w2y2g4ba4w2b4ba20r12w2-b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Holyrood, Chair](/setts/s13/r34w1b10g10w1y1g2ba2w1b2ba10r6w1~b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Holyrood, Chair example sett](/setts/s13/r34w1b10g10w1y1g2ba2w1b2ba10r6w1~b304080-ba5480b0-g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

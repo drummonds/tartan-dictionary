@@ -16,7 +16,7 @@ RGYGRGRGRGRGRY
 
 | Tartans |
 |---------------|
-| [Unidentified #51](/setts/s14/r4g4y4g16r4g4r4g12r2g2r2g2r2y2-g004c00-r8c0000-yb0b0b0/)|
-|![Unidentified #51 example sett](/setts/s14/r4g4y4g16r4g4r4g12r2g2r2g2r2y2-g004c00-r8c0000-yb0b0b0/sett.png)|
-| [Hayes (Fashion)](/setts/s14/r8g4y4g48r4g4r4g16r68g12r8g4r8ya8-g004c00-rc80000-yc89800-yab0b0b0/)|
-|![Hayes (Fashion) example sett](/setts/s14/r8g4y4g48r4g4r4g16r68g12r8g4r8ya8-g004c00-rc80000-yc89800-yab0b0b0/sett.png)|
+| [Unidentified #51](/setts/s14/r2g2y2g8r2g2r2g6r1g1r1g1r1y1~g004c00-r8c0000-yb0b0b0~x2/)|
+|![Unidentified #51 example sett](/setts/s14/r2g2y2g8r2g2r2g6r1g1r1g1r1y1~g004c00-r8c0000-yb0b0b0~x2/sett.png)|
+| [Hayes (Fashion)](/setts/s14/r2g1y1g12r1g1r1g4r17g3r2g1r2ya2~g004c00-rc80000-yc89800-yab0b0b0~x4/)|
+|![Hayes (Fashion) example sett](/setts/s14/r2g1y1g12r1g1r1g4r17g3r2g1r2ya2~g004c00-rc80000-yc89800-yab0b0b0~x4/sett.png)|

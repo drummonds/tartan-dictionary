@@ -16,5 +16,5 @@ YKGKBGBGBKGKY
 
 | Tartans |
 |---------------|
-| [Doon Valley Crafters (Corporate)](/setts/s13/y6k2g20k14b20g4b4g4b20k14g20k2ya6-b2c2c80-g006818-k101010-y48a4c0-yafccc00/)|
-|![Doon Valley Crafters (Corporate) example sett](/setts/s13/y6k2g20k14b20g4b4g4b20k14g20k2ya6-b2c2c80-g006818-k101010-y48a4c0-yafccc00/sett.png)|
+| [Doon Valley Crafters (Corporate)](/setts/s13/y3k1g10k7b10g2b2g2b10k7g10k1ya3~b2c2c80-g006818-k101010-y48a4c0-yafccc00~x2/)|
+|![Doon Valley Crafters (Corporate) example sett](/setts/s13/y3k1g10k7b10g2b2g2b10k7g10k1ya3~b2c2c80-g006818-k101010-y48a4c0-yafccc00~x2/sett.png)|

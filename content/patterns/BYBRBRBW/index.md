@@ -6,7 +6,7 @@ BYBRBRBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/w4b19r4ba2r4ba23y4ba2~b1c1c50-ba780078-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBRBRBW
 
 | Tartans |
 |---------------|
-| [Brigadoon](/setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/)|
-|![Brigadoon example sett](/setts/s8/w8b38r8ba4r8ba46y8ba4-b1c1c50-ba780078-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Brigadoon](/setts/s8/w4b19r4ba2r4ba23y4ba2~b1c1c50-ba780078-rc80000-we0e0e0-ye8c000~x2/)|
+|![Brigadoon example sett](/setts/s8/w4b19r4ba2r4ba23y4ba2~b1c1c50-ba780078-rc80000-we0e0e0-ye8c000~x2/sett.png)|

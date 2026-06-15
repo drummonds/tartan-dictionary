@@ -16,5 +16,5 @@ RKWWWKRKRKWKRW
 
 | Tartans |
 |---------------|
-| [Alabama, University of](/setts/s14/r64k4w6wa8w6k4r44k2r10k4wa12k4r8wa10-k101010-r990000-weeeeee-waffffff/)|
-|![Alabama, University of example sett](/setts/s14/r64k4w6wa8w6k4r44k2r10k4wa12k4r8wa10-k101010-r990000-weeeeee-waffffff/sett.png)|
+| [Alabama, University of](/setts/s14/r32k2w3wa4w3k2r22k1r5k2wa6k2r4wa5~k101010-r990000-weeeeee-waffffff~x2/)|
+|![Alabama, University of example sett](/setts/s14/r32k2w3wa4w3k2r22k1r5k2wa6k2r4wa5~k101010-r990000-weeeeee-waffffff~x2/sett.png)|

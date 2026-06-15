@@ -16,5 +16,5 @@ GKGKGKBRBRBGKGK
 
 | Tartans |
 |---------------|
-| [MacLachlan Hunting](/setts/s15/g24k6g6k6g6k30b30r12b12r12b30g30k6g6k6-b2c2c80-g006818-k101010-rc80000/)|
-|![MacLachlan Hunting example sett](/setts/s15/g24k6g6k6g6k30b30r12b12r12b30g30k6g6k6-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [MacLachlan Hunting](/setts/s15/g4k1g1k1g1k5b5r2b2r2b5g5k1g1k1~b2c2c80-g006818-k101010-rc80000~x6/)|
+|![MacLachlan Hunting example sett](/setts/s15/g4k1g1k1g1k5b5r2b2r2b5g5k1g1k1~b2c2c80-g006818-k101010-rc80000~x6/sett.png)|

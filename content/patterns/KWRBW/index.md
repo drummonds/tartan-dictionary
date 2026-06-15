@@ -6,7 +6,7 @@ KWRBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w100b44r20wa4k4-b000080-k101010-rff0000-w87ceeb-waffffff/tartan.png)
+![Woven sample](/setts/s5/w25b11r5wa1k1~b000080-k101010-rff0000-w87ceeb-waffffff~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KWRBW
 
 | Tartans |
 |---------------|
-| [Mount Vernon Primary School](/setts/s5/w100b44r20wa4k4-b000080-k101010-rff0000-w87ceeb-waffffff/)|
-|![Mount Vernon Primary School example sett](/setts/s5/w100b44r20wa4k4-b000080-k101010-rff0000-w87ceeb-waffffff/sett.png)|
-| [Mount Vernon Primary School (Corp)](/setts/s5/w100b44r20wa4k4-b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0/)|
-|![Mount Vernon Primary School (Corp) example sett](/setts/s5/w100b44r20wa4k4-b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0/sett.png)|
+| [Mount Vernon Primary School](/setts/s5/w25b11r5wa1k1~b000080-k101010-rff0000-w87ceeb-waffffff~x4/)|
+|![Mount Vernon Primary School example sett](/setts/s5/w25b11r5wa1k1~b000080-k101010-rff0000-w87ceeb-waffffff~x4/sett.png)|
+| [Mount Vernon Primary School (Corp)](/setts/s5/w25b11r5wa1k1~b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0~x4/)|
+|![Mount Vernon Primary School (Corp) example sett](/setts/s5/w25b11r5wa1k1~b2c2c80-k101010-rc80000-w98c8e8-wae0e0e0~x4/sett.png)|

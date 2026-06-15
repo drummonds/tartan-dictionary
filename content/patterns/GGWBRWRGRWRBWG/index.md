@@ -16,5 +16,5 @@ GGWBRWRGRWRBWG
 
 | Tartans |
 |---------------|
-| [Southwell (Personal)](/setts/s14/g20ga4w28b28r4w2r4ga78r4w2r4b28w28ga4-b202060-g289c18-ga006818-rc80000-wfcfcfc/)|
-|![Southwell (Personal) example sett](/setts/s14/g20ga4w28b28r4w2r4ga78r4w2r4b28w28ga4-b202060-g289c18-ga006818-rc80000-wfcfcfc/sett.png)|
+| [Southwell (Personal)](/setts/s14/g10ga2w14b14r2w1r2ga39r2w1r2b14w14ga2~b202060-g289c18-ga006818-rc80000-wfcfcfc~x2/)|
+|![Southwell (Personal) example sett](/setts/s14/g10ga2w14b14r2w1r2ga39r2w1r2b14w14ga2~b202060-g289c18-ga006818-rc80000-wfcfcfc~x2/sett.png)|

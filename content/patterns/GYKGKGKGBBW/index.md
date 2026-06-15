@@ -16,5 +16,5 @@ GYKGKGKGBBW
 
 | Tartans |
 |---------------|
-| [Lang of Sherbrooke (Personal)](/setts/s11/g20y4k4g4k26g4k4g2b26ba48w4-b780078-ba2c2c80-g00643c-k101010-wfcfcfc-ye8c000/)|
-|![Lang of Sherbrooke (Personal) example sett](/setts/s11/g20y4k4g4k26g4k4g2b26ba48w4-b780078-ba2c2c80-g00643c-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Lang of Sherbrooke (Personal)](/setts/s11/g10y2k2g2k13g2k2g1b13ba24w2~b780078-ba2c2c80-g00643c-k101010-wfcfcfc-ye8c000~x2/)|
+|![Lang of Sherbrooke (Personal) example sett](/setts/s11/g10y2k2g2k13g2k2g1b13ba24w2~b780078-ba2c2c80-g00643c-k101010-wfcfcfc-ye8c000~x2/sett.png)|

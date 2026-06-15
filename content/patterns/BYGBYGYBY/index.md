@@ -16,5 +16,5 @@ BYGBYGYBY
 
 | Tartans |
 |---------------|
-| [Land's End Camel](/setts/s9/y48b4y6g12y6b4ga30y40b8-b441800-g604000-ga003820-ya08858/)|
-|![Land's End Camel example sett](/setts/s9/y48b4y6g12y6b4ga30y40b8-b441800-g604000-ga003820-ya08858/sett.png)|
+| [Land's End Camel](/setts/s9/y24b2y3g6y3b2ga15y20b4~b441800-g604000-ga003820-ya08858~x2/)|
+|![Land's End Camel example sett](/setts/s9/y24b2y3g6y3b2ga15y20b4~b441800-g604000-ga003820-ya08858~x2/sett.png)|

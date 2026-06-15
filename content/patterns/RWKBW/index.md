@@ -6,7 +6,7 @@ RWKBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r10w8k8b160w8-b38409c-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s5/r5w4k4b80w4~b38409c-k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKBW
 
 | Tartans |
 |---------------|
-| [Volunteer Lifesaving Corps (Corp.)](/setts/s5/r10w8k8b160w8-b38409c-k101010-rc80000-wf8f8f8/)|
-|![Volunteer Lifesaving Corps (Corp.) example sett](/setts/s5/r10w8k8b160w8-b38409c-k101010-rc80000-wf8f8f8/sett.png)|
+| [Volunteer Lifesaving Corps (Corp.)](/setts/s5/r5w4k4b80w4~b38409c-k101010-rc80000-wf8f8f8~x2/)|
+|![Volunteer Lifesaving Corps (Corp.) example sett](/setts/s5/r5w4k4b80w4~b38409c-k101010-rc80000-wf8f8f8~x2/sett.png)|

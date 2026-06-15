@@ -16,5 +16,5 @@ GKGKGKGKGKW
 
 | Tartans |
 |---------------|
-| [Irish Heritage](/setts/s11/g4k6g4k6g12k75g3k6g14k6w4-g006818-k101010-we0e0e0/)|
-|![Irish Heritage example sett](/setts/s11/g4k6g4k6g12k75g3k6g14k6w4-g006818-k101010-we0e0e0/sett.png)|
+| [Irish Heritage](/setts/s11/g4k6g4k6g12k75g3k6g14k6w4~g006818-k101010-we0e0e0/)|
+|![Irish Heritage example sett](/setts/s11/g4k6g4k6g12k75g3k6g14k6w4~g006818-k101010-we0e0e0/sett.png)|

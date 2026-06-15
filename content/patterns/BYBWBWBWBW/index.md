@@ -16,5 +16,5 @@ BYBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Yorkshire, The Spirit of](/setts/s10/b38y4b6w14b6w14b18w6b4w38-b2c4084-we0e0e0-yfadc00/)|
-|![Yorkshire, The Spirit of example sett](/setts/s10/b38y4b6w14b6w14b18w6b4w38-b2c4084-we0e0e0-yfadc00/sett.png)|
+| [Yorkshire, The Spirit of](/setts/s10/b19y2b3w7b3w7b9w3b2w19~b2c4084-we0e0e0-yfadc00~x2/)|
+|![Yorkshire, The Spirit of example sett](/setts/s10/b19y2b3w7b3w7b9w3b2w19~b2c4084-we0e0e0-yfadc00~x2/sett.png)|

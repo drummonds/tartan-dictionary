@@ -16,5 +16,5 @@ YBKBBBYBWBY
 
 | Tartans |
 |---------------|
-| [Bennet Dress](/setts/s11/y128b36w4b6y4b6ba28bb16k4bb8y4-b000060-ba306084-bb3070fc-k000000-w94acfc-yacacac/)|
-|![Bennet Dress example sett](/setts/s11/y128b36w4b6y4b6ba28bb16k4bb8y4-b000060-ba306084-bb3070fc-k000000-w94acfc-yacacac/sett.png)|
+| [Bennet Dress](/setts/s11/y64b18w2b3y2b3ba14bb8k2bb4y2~b000060-ba306084-bb3070fc-k000000-w94acfc-yacacac~x2/)|
+|![Bennet Dress example sett](/setts/s11/y64b18w2b3y2b3ba14bb8k2bb4y2~b000060-ba306084-bb3070fc-k000000-w94acfc-yacacac~x2/sett.png)|

@@ -16,5 +16,5 @@ BRBGBGBGBRBG
 
 | Tartans |
 |---------------|
-| [Orban-Prentice (Personal)](/setts/s12/g50b8r48b42ga50b8g6b8ga50b42r48b8-b2c2c80-g285800-ga604000-rc80000/)|
-|![Orban-Prentice (Personal) example sett](/setts/s12/g50b8r48b42ga50b8g6b8ga50b42r48b8-b2c2c80-g285800-ga604000-rc80000/sett.png)|
+| [Orban-Prentice (Personal)](/setts/s12/g25b4r24b21ga25b4g3b4ga25b21r24b4~b2c2c80-g285800-ga604000-rc80000~x2/)|
+|![Orban-Prentice (Personal) example sett](/setts/s12/g25b4r24b21ga25b4g3b4ga25b21r24b4~b2c2c80-g285800-ga604000-rc80000~x2/sett.png)|

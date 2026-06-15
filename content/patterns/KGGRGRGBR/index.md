@@ -16,5 +16,5 @@ KGGRGRGBR
 
 | Tartans |
 |---------------|
-| [Glens of Corbie (Corporate)](/setts/s9/k6g60ga40r12ga6r6ga6b40ra4-b003c64-g006818-ga5c6428-k000000-r94783c-rac80000/)|
-|![Glens of Corbie (Corporate) example sett](/setts/s9/k6g60ga40r12ga6r6ga6b40ra4-b003c64-g006818-ga5c6428-k000000-r94783c-rac80000/sett.png)|
+| [Glens of Corbie (Corporate)](/setts/s9/k3g30ga20r6ga3r3ga3b20ra2~b003c64-g006818-ga5c6428-k000000-r94783c-rac80000~x2/)|
+|![Glens of Corbie (Corporate) example sett](/setts/s9/k3g30ga20r6ga3r3ga3b20ra2~b003c64-g006818-ga5c6428-k000000-r94783c-rac80000~x2/sett.png)|

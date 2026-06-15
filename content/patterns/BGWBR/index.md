@@ -6,7 +6,7 @@ BGWBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b20g8w54b80r8-b1c1c50-g00801c-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b10g4w27b40r4~b1c1c50-g00801c-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGWBR
 
 | Tartans |
 |---------------|
-| [Turnbull Dress, Bruce (Personal)](/setts/s5/b20g8w54b80r8-b1c1c50-g00801c-rc80000-we0e0e0/)|
-|![Turnbull Dress, Bruce (Personal) example sett](/setts/s5/b20g8w54b80r8-b1c1c50-g00801c-rc80000-we0e0e0/sett.png)|
+| [Turnbull Dress, Bruce (Personal)](/setts/s5/b10g4w27b40r4~b1c1c50-g00801c-rc80000-we0e0e0~x2/)|
+|![Turnbull Dress, Bruce (Personal) example sett](/setts/s5/b10g4w27b40r4~b1c1c50-g00801c-rc80000-we0e0e0~x2/sett.png)|

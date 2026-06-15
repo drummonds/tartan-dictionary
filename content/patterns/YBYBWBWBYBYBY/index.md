@@ -16,5 +16,5 @@ YBYBWBWBYBYBY
 
 | Tartans |
 |---------------|
-| [Brown Watch Dress](/setts/s13/y40b6y6b6y6b18w20b6w2b18y20b6y6-b441800-wfcfcfc-ya08858/)|
-|![Brown Watch Dress example sett](/setts/s13/y40b6y6b6y6b18w20b6w2b18y20b6y6-b441800-wfcfcfc-ya08858/sett.png)|
+| [Brown Watch Dress](/setts/s13/y20b3y3b3y3b9w10b3w1b9y10b3y3~b441800-wfcfcfc-ya08858~x2/)|
+|![Brown Watch Dress example sett](/setts/s13/y20b3y3b3y3b9w10b3w1b9y10b3y3~b441800-wfcfcfc-ya08858~x2/sett.png)|

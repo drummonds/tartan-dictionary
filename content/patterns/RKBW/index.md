@@ -6,7 +6,7 @@ RKBW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r8k24b132w8-b2c2c80-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s4/r2k6b33w2~b2c2c80-k101010-rc80000-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKBW
 
 | Tartans |
 |---------------|
-| [McCallie](/setts/s4/r8k24b132w8-b2c2c80-k101010-rc80000-wfcfcfc/)|
-|![McCallie example sett](/setts/s4/r8k24b132w8-b2c2c80-k101010-rc80000-wfcfcfc/sett.png)|
+| [McCallie](/setts/s4/r2k6b33w2~b2c2c80-k101010-rc80000-wfcfcfc~x4/)|
+|![McCallie example sett](/setts/s4/r2k6b33w2~b2c2c80-k101010-rc80000-wfcfcfc~x4/sett.png)|

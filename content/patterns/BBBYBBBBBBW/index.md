@@ -16,5 +16,5 @@ BBBYBBBBBBW
 
 | Tartans |
 |---------------|
-| [Royal Gourock Yacht Club, The](/setts/s11/b4ba10b16y4ba6bb18ba4b36bb18bc8w4-b000080-ba4c0000-bb000048-bc00008c-wffffff-yffff00/)|
-|![Royal Gourock Yacht Club, The example sett](/setts/s11/b4ba10b16y4ba6bb18ba4b36bb18bc8w4-b000080-ba4c0000-bb000048-bc00008c-wffffff-yffff00/sett.png)|
+| [Royal Gourock Yacht Club, The](/setts/s11/b2ba5b8y2ba3bb9ba2b18bb9bc4w2~b000080-ba4c0000-bb000048-bc00008c-wffffff-yffff00~x2/)|
+|![Royal Gourock Yacht Club, The example sett](/setts/s11/b2ba5b8y2ba3bb9ba2b18bb9bc4w2~b000080-ba4c0000-bb000048-bc00008c-wffffff-yffff00~x2/sett.png)|

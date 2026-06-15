@@ -16,5 +16,5 @@ RKRBKBKRKRBRKRKR
 
 | Tartans |
 |---------------|
-| [(5) Ruxton hunting](/setts/s16/r32k2r16b4k2b32k6r2k2r30b8r4k6r2k2r32-b000064-k000000-r802040/)|
-|![(5) Ruxton hunting example sett](/setts/s16/r32k2r16b4k2b32k6r2k2r30b8r4k6r2k2r32-b000064-k000000-r802040/sett.png)|
+| [(5) Ruxton hunting](/setts/s16/r16k1r8b2k1b16k3r1k1r15b4r2k3r1k1r16~b000064-k000000-r802040~x2/)|
+|![(5) Ruxton hunting example sett](/setts/s16/r16k1r8b2k1b16k3r1k1r15b4r2k3r1k1r16~b000064-k000000-r802040~x2/sett.png)|

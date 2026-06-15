@@ -16,5 +16,5 @@ BKRGWKWBGR
 
 | Tartans |
 |---------------|
-| [Steiff](/setts/s10/r15g6b36w2k6w2g30r32k6ba4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0/)|
-|![Steiff example sett](/setts/s10/r15g6b36w2k6w2g30r32k6ba4-b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Steiff](/setts/s10/r15g6b36w2k6w2g30r32k6ba4~b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0/)|
+|![Steiff example sett](/setts/s10/r15g6b36w2k6w2g30r32k6ba4~b2c2c80-ba5c8ca8-g006818-k101010-rc80000-we0e0e0/sett.png)|

@@ -16,5 +16,5 @@ BBGBGBGBB
 
 | Tartans |
 |---------------|
-| [Sound of Mull](/setts/s9/b60ba8g12bb8g12bc12g24bc26bd8-b141e46-ba003c64-bb505050-bc646464-bd4c0000-g503c14/)|
-|![Sound of Mull example sett](/setts/s9/b60ba8g12bb8g12bc12g24bc26bd8-b141e46-ba003c64-bb505050-bc646464-bd4c0000-g503c14/sett.png)|
+| [Sound of Mull](/setts/s9/b30ba4g6bb4g6bc6g12bc13bd4~b141e46-ba003c64-bb505050-bc646464-bd4c0000-g503c14~x2/)|
+|![Sound of Mull example sett](/setts/s9/b30ba4g6bb4g6bc6g12bc13bd4~b141e46-ba003c64-bb505050-bc646464-bd4c0000-g503c14~x2/sett.png)|

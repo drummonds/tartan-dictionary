@@ -6,7 +6,7 @@ GWGWBWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4w2b16w16g16w2g2-b1c0070-g8c7038-r880000-wa8ace8/tartan.png)
+![Woven sample](/setts/s7/r2w1b8w8g8w1g1~b1c0070-g8c7038-r880000-wa8ace8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGWBWR
 
 | Tartans |
 |---------------|
-| [Over Mountain](/setts/s7/r4w2b16w16g16w2g2-b1c0070-g8c7038-r880000-wa8ace8/)|
-|![Over Mountain example sett](/setts/s7/r4w2b16w16g16w2g2-b1c0070-g8c7038-r880000-wa8ace8/sett.png)|
+| [Over Mountain](/setts/s7/r2w1b8w8g8w1g1~b1c0070-g8c7038-r880000-wa8ace8~x2/)|
+|![Over Mountain example sett](/setts/s7/r2w1b8w8g8w1g1~b1c0070-g8c7038-r880000-wa8ace8~x2/sett.png)|

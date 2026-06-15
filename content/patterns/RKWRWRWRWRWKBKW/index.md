@@ -16,5 +16,5 @@ RKWRWRWRWRWKBKW
 
 | Tartans |
 |---------------|
-| [Japanese (nihon)](/setts/s15/r96k2w16r4w2r4w16r4w2r4w16k2b32k2w8-b2c4084-k101010-rc80028-we0e0e0/)|
-|![Japanese (nihon) example sett](/setts/s15/r96k2w16r4w2r4w16r4w2r4w16k2b32k2w8-b2c4084-k101010-rc80028-we0e0e0/sett.png)|
+| [Japanese (nihon)](/setts/s15/r48k1w8r2w1r2w8r2w1r2w8k1b16k1w4~b2c4084-k101010-rc80028-we0e0e0~x2/)|
+|![Japanese (nihon) example sett](/setts/s15/r48k1w8r2w1r2w8r2w1r2w8k1b16k1w4~b2c4084-k101010-rc80028-we0e0e0~x2/sett.png)|

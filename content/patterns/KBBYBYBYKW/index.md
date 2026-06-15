@@ -16,5 +16,5 @@ KBBYBYBYKW
 
 | Tartans |
 |---------------|
-| [Ryukoku University Heian Junior High School](/setts/s10/w8k32y10b16y4ba4y4ba4b16k6-b555555-ba663399-k000000-wcc99ff-ybbbbbb/)|
-|![Ryukoku University Heian Junior High School example sett](/setts/s10/w8k32y10b16y4ba4y4ba4b16k6-b555555-ba663399-k000000-wcc99ff-ybbbbbb/sett.png)|
+| [Ryukoku University Heian Junior High School](/setts/s10/w4k16y5b8y2ba2y2ba2b8k3~b555555-ba663399-k000000-wcc99ff-ybbbbbb~x2/)|
+|![Ryukoku University Heian Junior High School example sett](/setts/s10/w4k16y5b8y2ba2y2ba2b8k3~b555555-ba663399-k000000-wcc99ff-ybbbbbb~x2/sett.png)|

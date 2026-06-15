@@ -16,5 +16,5 @@ YBRRBYRBY
 
 | Tartans |
 |---------------|
-| [Highland Village](/setts/s9/y8b4r40ra48b40y24r40b4y8-b3c2010-r640000-ra8c6428-yd8d898/)|
-|![Highland Village example sett](/setts/s9/y8b4r40ra48b40y24r40b4y8-b3c2010-r640000-ra8c6428-yd8d898/sett.png)|
+| [Highland Village](/setts/s9/y2b1r10ra12b10y6r10b1y2~b3c2010-r640000-ra8c6428-yd8d898~x4/)|
+|![Highland Village example sett](/setts/s9/y2b1r10ra12b10y6r10b1y2~b3c2010-r640000-ra8c6428-yd8d898~x4/sett.png)|

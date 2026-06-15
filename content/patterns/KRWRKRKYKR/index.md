@@ -16,5 +16,5 @@ KRWRKRKYKR
 
 | Tartans |
 |---------------|
-| [Smeaton 1985 (Name)](/setts/s10/k12r8w6r88k64r6k6y6k4r6-k101010-rc80000-wc0c0c0-yd09800/)|
-|![Smeaton 1985 (Name) example sett](/setts/s10/k12r8w6r88k64r6k6y6k4r6-k101010-rc80000-wc0c0c0-yd09800/sett.png)|
+| [Smeaton 1985 (Name)](/setts/s10/k6r4w3r44k32r3k3y3k2r3~k101010-rc80000-wc0c0c0-yd09800~x2/)|
+|![Smeaton 1985 (Name) example sett](/setts/s10/k6r4w3r44k32r3k3y3k2r3~k101010-rc80000-wc0c0c0-yd09800~x2/sett.png)|

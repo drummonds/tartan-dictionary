@@ -16,5 +16,5 @@ KGKGKRKGK
 
 | Tartans |
 |---------------|
-| [Lindsay (Crimson version) (Clan?)](/setts/s9/k48g4k4g4k4r20k40g4k8-g006818-k101010-rc80000/)|
-|![Lindsay (Crimson version) (Clan?) example sett](/setts/s9/k48g4k4g4k4r20k40g4k8-g006818-k101010-rc80000/sett.png)|
+| [Lindsay (Crimson version) (Clan?)](/setts/s9/k12g1k1g1k1r5k10g1k2~g006818-k101010-rc80000~x4/)|
+|![Lindsay (Crimson version) (Clan?) example sett](/setts/s9/k12g1k1g1k1r5k10g1k2~g006818-k101010-rc80000~x4/sett.png)|

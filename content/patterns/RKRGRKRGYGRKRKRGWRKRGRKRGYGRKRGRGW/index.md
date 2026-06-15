@@ -16,5 +16,5 @@ RKRGRKRGYGRKRKRGWRKRGRKRGYGRKRGRGW
 
 | Tartans |
 |---------------|
-| [Unidentified Scarlett #3](/setts/s34/r6k36r4g6r4k4r40g4y2g4r4k36r4k4r40g6w2r6k36r4g6r4k4r40g4y2g4r4k36r4g4r40g6w2-g408060-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Unidentified Scarlett #3 example sett](/setts/s34/r6k36r4g6r4k4r40g4y2g4r4k36r4k4r40g6w2r6k36r4g6r4k4r40g4y2g4r4k36r4g4r40g6w2-g408060-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Unidentified Scarlett #3](/setts/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~g408060-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Unidentified Scarlett #3 example sett](/setts/s34/r3k18r2g3r2k2r20g2y1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2y1g2r2k18r2g2r20g3w1~g408060-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

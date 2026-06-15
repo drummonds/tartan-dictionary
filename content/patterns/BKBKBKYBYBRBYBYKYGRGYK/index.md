@@ -16,5 +16,5 @@ BKBKBKYBYBRBYBYKYGRGYK
 
 | Tartans |
 |---------------|
-| [Colquhoun Dress](/setts/s22/k30y4g28r4g28y4k30y6b6y38b4r4b4y36b6y6k30b20k4b4k4b20-b1c0070-g006818-k101010-r880000-yb8b8b8/)|
-|![Colquhoun Dress example sett](/setts/s22/k30y4g28r4g28y4k30y6b6y38b4r4b4y36b6y6k30b20k4b4k4b20-b1c0070-g006818-k101010-r880000-yb8b8b8/sett.png)|
+| [Colquhoun Dress](/setts/s22/k15y2g14r2g14y2k15y3b3y19b2r2b2y18b3y3k15b10k2b2k2b10~b1c0070-g006818-k101010-r880000-yb8b8b8~x2/)|
+|![Colquhoun Dress example sett](/setts/s22/k15y2g14r2g14y2k15y3b3y19b2r2b2y18b3y3k15b10k2b2k2b10~b1c0070-g006818-k101010-r880000-yb8b8b8~x2/sett.png)|

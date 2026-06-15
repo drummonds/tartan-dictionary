@@ -16,5 +16,5 @@ GKGKWGWYGKRGK
 
 | Tartans |
 |---------------|
-| [Savoy](/setts/s13/g64k32g4k4w4g4w4y4g4k4r4g16k4-g408060-k101010-r888888-wc0c0c0-yd09800/)|
-|![Savoy example sett](/setts/s13/g64k32g4k4w4g4w4y4g4k4r4g16k4-g408060-k101010-r888888-wc0c0c0-yd09800/sett.png)|
+| [Savoy](/setts/s13/g16k8g1k1w1g1w1y1g1k1r1g4k1~g408060-k101010-r888888-wc0c0c0-yd09800~x4/)|
+|![Savoy example sett](/setts/s13/g16k8g1k1w1g1w1y1g1k1r1g4k1~g408060-k101010-r888888-wc0c0c0-yd09800~x4/sett.png)|

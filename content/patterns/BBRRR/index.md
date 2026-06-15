@@ -6,7 +6,7 @@ BBRRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b2ba16r4ra16r2-b5480b0-ba304080-rc00000-ra806050/tartan.png)
+![Woven sample](/setts/s5/b1ba8r2ra8r1~b5480b0-ba304080-rc00000-ra806050~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRRR
 
 | Tartans |
 |---------------|
-| [Unamed, Riding cloak 1745](/setts/s5/b2ba16r4ra16r2-b5480b0-ba304080-rc00000-ra806050/)|
-|![Unamed, Riding cloak 1745 example sett](/setts/s5/b2ba16r4ra16r2-b5480b0-ba304080-rc00000-ra806050/sett.png)|
+| [Unamed, Riding cloak 1745](/setts/s5/b1ba8r2ra8r1~b5480b0-ba304080-rc00000-ra806050~x2/)|
+|![Unamed, Riding cloak 1745 example sett](/setts/s5/b1ba8r2ra8r1~b5480b0-ba304080-rc00000-ra806050~x2/sett.png)|

@@ -16,5 +16,5 @@ BRKWKYWYWYWYWYWYWYWYWYWYKYKYKYKYWYWYWYWYWYWYWYWYWYWGY
 
 | Tartans |
 |---------------|
-| [All Breeds Dairy Goats #2 (Corp)](/setts/s53/b20r20k32w8k32y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2k2y2k2y2k2y2k2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y44w48g20ya20-b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ya08858-yae8c000/)|
-|![All Breeds Dairy Goats #2 (Corp) example sett](/setts/s53/b20r20k32w8k32y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2k2y2k2y2k2y2k2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y2w2y44w48g20ya20-b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ya08858-yae8c000/sett.png)|
+| [All Breeds Dairy Goats #2 (Corp)](/setts/s53/b10r10k16w4k16y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1k1y1k1y1k1y1k1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y22w24g10ya10~b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ya08858-yae8c000~x2/)|
+|![All Breeds Dairy Goats #2 (Corp) example sett](/setts/s53/b10r10k16w4k16y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1k1y1k1y1k1y1k1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y1w1y22w24g10ya10~b2c2c80-g289c18-k101010-rc80000-wf8f8f8-ya08858-yae8c000~x2/sett.png)|

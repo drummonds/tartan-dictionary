@@ -16,5 +16,5 @@ KYKRGRKWKRGRKY
 
 | Tartans |
 |---------------|
-| [Holestone](/setts/s14/y16k52r12g30r12k52w4k52r12g30r12k52y16k8-g006818-k101010-rc04c08-wf8f8f8-ybc8c00/)|
-|![Holestone example sett](/setts/s14/y16k52r12g30r12k52w4k52r12g30r12k52y16k8-g006818-k101010-rc04c08-wf8f8f8-ybc8c00/sett.png)|
+| [Holestone](/setts/s14/y8k26r6g15r6k26w2k26r6g15r6k26y8k4~g006818-k101010-rc04c08-wf8f8f8-ybc8c00~x2/)|
+|![Holestone example sett](/setts/s14/y8k26r6g15r6k26w2k26r6g15r6k26y8k4~g006818-k101010-rc04c08-wf8f8f8-ybc8c00~x2/sett.png)|

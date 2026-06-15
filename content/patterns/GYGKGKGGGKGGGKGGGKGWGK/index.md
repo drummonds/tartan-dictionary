@@ -16,5 +16,5 @@ GYGKGKGGGKGGGKGGGKGWGK
 
 | Tartans |
 |---------------|
-| [International College of Dentists (Canadian Section) Dress](/setts/s22/g12y12g2k30g4k4ga4g4ga4k4ga4g4ga4k4ga4g4ga4k4g4w30g2k4-g2d5c33-ga826b3a-k101010-wffffff-ye99e01/)|
-|![International College of Dentists (Canadian Section) Dress example sett](/setts/s22/g12y12g2k30g4k4ga4g4ga4k4ga4g4ga4k4ga4g4ga4k4g4w30g2k4-g2d5c33-ga826b3a-k101010-wffffff-ye99e01/sett.png)|
+| [International College of Dentists (Canadian Section) Dress](/setts/s22/g6y6g1k15g2k2ga2g2ga2k2ga2g2ga2k2ga2g2ga2k2g2w15g1k2~g2d5c33-ga826b3a-k101010-wffffff-ye99e01~x2/)|
+|![International College of Dentists (Canadian Section) Dress example sett](/setts/s22/g6y6g1k15g2k2ga2g2ga2k2ga2g2ga2k2ga2g2ga2k2g2w15g1k2~g2d5c33-ga826b3a-k101010-wffffff-ye99e01~x2/sett.png)|

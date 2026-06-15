@@ -6,7 +6,7 @@ YKYKRKYY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y166k12y6k18r4k10y4ya4-k101010-rc80000-ya08858-yae8c000/tartan.png)
+![Woven sample](/setts/s8/y83k6y3k9r2k5y2ya2~k101010-rc80000-ya08858-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YKYKRKYY
 
 | Tartans |
 |---------------|
-| [Crane of Cluny Hunting (Personal)](/setts/s8/y166k12y6k18r4k10y4ya4-k101010-rc80000-ya08858-yae8c000/)|
-|![Crane of Cluny Hunting (Personal) example sett](/setts/s8/y166k12y6k18r4k10y4ya4-k101010-rc80000-ya08858-yae8c000/sett.png)|
+| [Crane of Cluny Hunting (Personal)](/setts/s8/y83k6y3k9r2k5y2ya2~k101010-rc80000-ya08858-yae8c000~x2/)|
+|![Crane of Cluny Hunting (Personal) example sett](/setts/s8/y83k6y3k9r2k5y2ya2~k101010-rc80000-ya08858-yae8c000~x2/sett.png)|

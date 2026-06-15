@@ -6,7 +6,7 @@ KRGRGRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k2r36g24r4g24r36w2-g005020-k101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/k1r18g12r2g12r18w1~g005020-k101010-rdc0000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KRGRGRW
 
 | Tartans |
 |---------------|
-| [MacKinnon #4](/setts/s7/k2r36g24r4g24r36w2-g005020-k101010-rdc0000-we0e0e0/)|
-|![MacKinnon #4 example sett](/setts/s7/k2r36g24r4g24r36w2-g005020-k101010-rdc0000-we0e0e0/sett.png)|
-| [MacKinnon 8](/setts/s7/k2r36g24r4g24r36w2-g008000-k000000-rc00000-we0e0e0/)|
-|![MacKinnon 8 example sett](/setts/s7/k2r36g24r4g24r36w2-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacKinnon #4](/setts/s7/k1r18g12r2g12r18w1~g005020-k101010-rdc0000-we0e0e0~x2/)|
+|![MacKinnon #4 example sett](/setts/s7/k1r18g12r2g12r18w1~g005020-k101010-rdc0000-we0e0e0~x2/sett.png)|
+| [MacKinnon 8](/setts/s7/k1r18g12r2g12r18w1~g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacKinnon 8 example sett](/setts/s7/k1r18g12r2g12r18w1~g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ KBWY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k124b30w12y8-b000080-k1c1714-wf8f8f8-yfccc00/tartan.png)
+![Woven sample](/setts/s4/k62b15w6y4~b000080-k1c1714-wf8f8f8-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBWY
 
 | Tartans |
 |---------------|
-| [C-Tec N.I. Ltd](/setts/s4/k124b30w12y8-b000080-k1c1714-wf8f8f8-yfccc00/)|
-|![C-Tec N.I. Ltd example sett](/setts/s4/k124b30w12y8-b000080-k1c1714-wf8f8f8-yfccc00/sett.png)|
+| [C-Tec N.I. Ltd](/setts/s4/k62b15w6y4~b000080-k1c1714-wf8f8f8-yfccc00~x2/)|
+|![C-Tec N.I. Ltd example sett](/setts/s4/k62b15w6y4~b000080-k1c1714-wf8f8f8-yfccc00~x2/sett.png)|

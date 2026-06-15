@@ -16,5 +16,5 @@ RBKBKBKBY
 
 | Tartans |
 |---------------|
-| [Modowny](/setts/s9/r8b48k8b8k16b8k8b48y8-b646464-k000000-r8c0000-yc89800/)|
-|![Modowny example sett](/setts/s9/r8b48k8b8k16b8k8b48y8-b646464-k000000-r8c0000-yc89800/sett.png)|
+| [Modowny](/setts/s9/r1b6k1b1k2b1k1b6y1~b646464-k000000-r8c0000-yc89800~x8/)|
+|![Modowny example sett](/setts/s9/r1b6k1b1k2b1k1b6y1~b646464-k000000-r8c0000-yc89800~x8/sett.png)|

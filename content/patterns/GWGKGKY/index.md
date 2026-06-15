@@ -6,7 +6,7 @@ GWGKGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g16w8g100k24g8k30y10-g289c18-k101010-wf8f8f8-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/g8w4g50k12g4k15y5~g289c18-k101010-wf8f8f8-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGKGKY
 
 | Tartans |
 |---------------|
-| [Instakilt, Green (Fashion)](/setts/s7/g16w8g100k24g8k30y10-g289c18-k101010-wf8f8f8-ybc8c00/)|
-|![Instakilt, Green (Fashion) example sett](/setts/s7/g16w8g100k24g8k30y10-g289c18-k101010-wf8f8f8-ybc8c00/sett.png)|
+| [Instakilt, Green (Fashion)](/setts/s7/g8w4g50k12g4k15y5~g289c18-k101010-wf8f8f8-ybc8c00~x2/)|
+|![Instakilt, Green (Fashion) example sett](/setts/s7/g8w4g50k12g4k15y5~g289c18-k101010-wf8f8f8-ybc8c00~x2/sett.png)|

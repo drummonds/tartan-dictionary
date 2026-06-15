@@ -6,7 +6,7 @@ RWRWYGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4w2r2w22y32g2wa2-g006400-rff0000-w82cffd-waffffff-y86c67c/tartan.png)
+![Woven sample](/setts/s7/r2w1r1w11y16g1wa1~g006400-rff0000-w82cffd-waffffff-y86c67c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWRWYGW
 
 | Tartans |
 |---------------|
-| [Gift of Life Michigan](/setts/s7/r4w2r2w22y32g2wa2-g006400-rff0000-w82cffd-waffffff-y86c67c/)|
-|![Gift of Life Michigan example sett](/setts/s7/r4w2r2w22y32g2wa2-g006400-rff0000-w82cffd-waffffff-y86c67c/sett.png)|
+| [Gift of Life Michigan](/setts/s7/r2w1r1w11y16g1wa1~g006400-rff0000-w82cffd-waffffff-y86c67c~x2/)|
+|![Gift of Life Michigan example sett](/setts/s7/r2w1r1w11y16g1wa1~g006400-rff0000-w82cffd-waffffff-y86c67c~x2/sett.png)|

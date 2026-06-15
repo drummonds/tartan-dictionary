@@ -16,5 +16,5 @@ RBYBBWBYBWYBYBR
 
 | Tartans |
 |---------------|
-| [Wells, Greg Dress (Personal)](/setts/s15/r12b2y4b2ba30w4b14y2b14w4y30b2ya4b2r12-b4c3428-ba780078-rfa4b00-wf8f4d0-ye0a126-yaf8e38c/)|
-|![Wells, Greg Dress (Personal) example sett](/setts/s15/r12b2y4b2ba30w4b14y2b14w4y30b2ya4b2r12-b4c3428-ba780078-rfa4b00-wf8f4d0-ye0a126-yaf8e38c/sett.png)|
+| [Wells, Greg Dress (Personal)](/setts/s15/r6b1y2b1ba15w2b7y1b7w2y15b1ya2b1r6~b4c3428-ba780078-rfa4b00-wf8f4d0-ye0a126-yaf8e38c~x2/)|
+|![Wells, Greg Dress (Personal) example sett](/setts/s15/r6b1y2b1ba15w2b7y1b7w2y15b1ya2b1r6~b4c3428-ba780078-rfa4b00-wf8f4d0-ye0a126-yaf8e38c~x2/sett.png)|

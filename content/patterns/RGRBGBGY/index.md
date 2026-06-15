@@ -6,7 +6,7 @@ RGRBGBGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8g92r20b20ga66b10ga8y6-b2c2c80-g006818-ga604000-r880000-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/r4g46r10b10ga33b5ga4y3~b2c2c80-g006818-ga604000-r880000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGRBGBGY
 
 | Tartans |
 |---------------|
-| [State Seal of Minnesota (Fashion)](/setts/s8/r8g92r20b20ga66b10ga8y6-b2c2c80-g006818-ga604000-r880000-ybc8c00/)|
-|![State Seal of Minnesota (Fashion) example sett](/setts/s8/r8g92r20b20ga66b10ga8y6-b2c2c80-g006818-ga604000-r880000-ybc8c00/sett.png)|
+| [State Seal of Minnesota (Fashion)](/setts/s8/r4g46r10b10ga33b5ga4y3~b2c2c80-g006818-ga604000-r880000-ybc8c00~x2/)|
+|![State Seal of Minnesota (Fashion) example sett](/setts/s8/r4g46r10b10ga33b5ga4y3~b2c2c80-g006818-ga604000-r880000-ybc8c00~x2/sett.png)|

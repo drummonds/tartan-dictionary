@@ -16,5 +16,5 @@ GKWKWKWKG
 
 | Tartans |
 |---------------|
-| [Jensen, Sven (Personal)](/setts/s9/g12k8w6k22w3k8w3k40g6-g006818-k101010-we0e0e0/)|
-|![Jensen, Sven (Personal) example sett](/setts/s9/g12k8w6k22w3k8w3k40g6-g006818-k101010-we0e0e0/sett.png)|
+| [Jensen, Sven (Personal)](/setts/s9/g12k8w6k22w3k8w3k40g6~g006818-k101010-we0e0e0/)|
+|![Jensen, Sven (Personal) example sett](/setts/s9/g12k8w6k22w3k8w3k40g6~g006818-k101010-we0e0e0/sett.png)|

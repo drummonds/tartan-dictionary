@@ -6,7 +6,7 @@ GBGWGGGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g192b16g16w6g16ga6g16r6-b2c2c80-g604000-ga006818-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g96b8g8w3g8ga3g8r3~b2c2c80-g604000-ga006818-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGWGGGR
 
 | Tartans |
 |---------------|
-| [Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g192b16g16w6g16ga6g16r6-b2c2c80-g604000-ga006818-rc80000-we0e0e0/)|
-|![Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/g192b16g16w6g16ga6g16r6-b2c2c80-g604000-ga006818-rc80000-we0e0e0/sett.png)|
+| [Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g96b8g8w3g8ga3g8r3~b2c2c80-g604000-ga006818-rc80000-we0e0e0~x2/)|
+|![Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/g96b8g8w3g8ga3g8r3~b2c2c80-g604000-ga006818-rc80000-we0e0e0~x2/sett.png)|

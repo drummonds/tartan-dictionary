@@ -16,7 +16,7 @@ GBGBGBGKGKGRGR
 
 | Tartans |
 |---------------|
-| [Ross Hunting](/setts/s14/g8b12g6b4g6b4g6k10g6k10g40r6g8r6-b3c82af-g005020-k101010-rdc0000/)|
-|![Ross Hunting example sett](/setts/s14/g8b12g6b4g6b4g6k10g6k10g40r6g8r6-b3c82af-g005020-k101010-rdc0000/sett.png)|
-| [Ross, hunting](/setts/s14/g8b12g6b4g6b4g6k10g6k10g40r6g8r6-b5480b0-g008000-k000000-rc00000/)|
-|![Ross, hunting example sett](/setts/s14/g8b12g6b4g6b4g6k10g6k10g40r6g8r6-b5480b0-g008000-k000000-rc00000/sett.png)|
+| [Ross Hunting](/setts/s14/g4b6g3b2g3b2g3k5g3k5g20r3g4r3~b3c82af-g005020-k101010-rdc0000~x2/)|
+|![Ross Hunting example sett](/setts/s14/g4b6g3b2g3b2g3k5g3k5g20r3g4r3~b3c82af-g005020-k101010-rdc0000~x2/sett.png)|
+| [Ross, hunting](/setts/s14/g4b6g3b2g3b2g3k5g3k5g20r3g4r3~b5480b0-g008000-k000000-rc00000~x2/)|
+|![Ross, hunting example sett](/setts/s14/g4b6g3b2g3b2g3k5g3k5g20r3g4r3~b5480b0-g008000-k000000-rc00000~x2/sett.png)|

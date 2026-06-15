@@ -16,5 +16,5 @@ GRGRGRGGGGGGKGKY
 
 | Tartans |
 |---------------|
-| [Strathmore (District)](/setts/s16/g6r30ga4r4ga4r4ga36gb4ga4gb4ga4gb54k4gb4k12y4-g289c18-ga007460-gb604000-k101010-r880000-ybc8c00/)|
-|![Strathmore (District) example sett](/setts/s16/g6r30ga4r4ga4r4ga36gb4ga4gb4ga4gb54k4gb4k12y4-g289c18-ga007460-gb604000-k101010-r880000-ybc8c00/sett.png)|
+| [Strathmore (District)](/setts/s16/g3r15ga2r2ga2r2ga18gb2ga2gb2ga2gb27k2gb2k6y2~g289c18-ga007460-gb604000-k101010-r880000-ybc8c00~x2/)|
+|![Strathmore (District) example sett](/setts/s16/g3r15ga2r2ga2r2ga18gb2ga2gb2ga2gb27k2gb2k6y2~g289c18-ga007460-gb604000-k101010-r880000-ybc8c00~x2/sett.png)|

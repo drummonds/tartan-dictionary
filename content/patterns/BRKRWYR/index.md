@@ -6,7 +6,7 @@ BRKRWYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b100r52k18r8w4y4r20-b003c64-k101010-rc80000-we0e0e0-yd09800/tartan.png)
+![Woven sample](/setts/s7/b50r26k9r4w2y2r10~b003c64-k101010-rc80000-we0e0e0-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRKRWYR
 
 | Tartans |
 |---------------|
-| [Java Saint Andrew Society Dress](/setts/s7/b100r52k18r8w4y4r20-b003c64-k101010-rc80000-we0e0e0-yd09800/)|
-|![Java Saint Andrew Society Dress example sett](/setts/s7/b100r52k18r8w4y4r20-b003c64-k101010-rc80000-we0e0e0-yd09800/sett.png)|
+| [Java Saint Andrew Society Dress](/setts/s7/b50r26k9r4w2y2r10~b003c64-k101010-rc80000-we0e0e0-yd09800~x2/)|
+|![Java Saint Andrew Society Dress example sett](/setts/s7/b50r26k9r4w2y2r10~b003c64-k101010-rc80000-we0e0e0-yd09800~x2/sett.png)|

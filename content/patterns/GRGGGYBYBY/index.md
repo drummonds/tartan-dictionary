@@ -16,7 +16,7 @@ GRGGGYBYBY
 
 | Tartans |
 |---------------|
-| [Lodge Isandlwana](/setts/s10/g80r16g52ga10g20y6b8y4b2y32-b202060-g004028-ga408060-rff0000-yf8e38c/)|
-|![Lodge Isandlwana example sett](/setts/s10/g80r16g52ga10g20y6b8y4b2y32-b202060-g004028-ga408060-rff0000-yf8e38c/sett.png)|
-| [Lodge Isandlwana](/setts/s10/g80r16g52ga10g20y6b8y4b2y32-b202060-g003820-ga009468-rc80000-yc4bc68/)|
-|![Lodge Isandlwana example sett](/setts/s10/g80r16g52ga10g20y6b8y4b2y32-b202060-g003820-ga009468-rc80000-yc4bc68/sett.png)|
+| [Lodge Isandlwana](/setts/s10/g40r8g26ga5g10y3b4y2b1y16~b202060-g004028-ga408060-rff0000-yf8e38c~x2/)|
+|![Lodge Isandlwana example sett](/setts/s10/g40r8g26ga5g10y3b4y2b1y16~b202060-g004028-ga408060-rff0000-yf8e38c~x2/sett.png)|
+| [Lodge Isandlwana](/setts/s10/g40r8g26ga5g10y3b4y2b1y16~b202060-g003820-ga009468-rc80000-yc4bc68~x2/)|
+|![Lodge Isandlwana example sett](/setts/s10/g40r8g26ga5g10y3b4y2b1y16~b202060-g003820-ga009468-rc80000-yc4bc68~x2/sett.png)|

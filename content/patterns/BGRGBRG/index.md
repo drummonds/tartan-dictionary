@@ -6,7 +6,7 @@ BGRGBRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b102g10r30g74b34r12g10-b000050-g004010-rc00000/tartan.png)
+![Woven sample](/setts/s7/b51g5r15g37b17r6g5~b000050-g004010-rc00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRGBRG
 
 | Tartans |
 |---------------|
-| [Cadence](/setts/s7/b102g10r30g74b34r12g10-b000050-g004010-rc00000/)|
-|![Cadence example sett](/setts/s7/b102g10r30g74b34r12g10-b000050-g004010-rc00000/sett.png)|
+| [Cadence](/setts/s7/b51g5r15g37b17r6g5~b000050-g004010-rc00000~x2/)|
+|![Cadence example sett](/setts/s7/b51g5r15g37b17r6g5~b000050-g004010-rc00000~x2/sett.png)|

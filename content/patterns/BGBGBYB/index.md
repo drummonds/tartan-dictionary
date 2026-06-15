@@ -6,7 +6,7 @@ BGBGBYB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b12y4b60g24b6g24b6-b59110d-g11450d-yaaaaaa/tartan.png)
+![Woven sample](/setts/s7/b6y2b30g12b3g12b3~b59110d-g11450d-yaaaaaa~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBGBYB
 
 | Tartans |
 |---------------|
-| [Crawford](/setts/s7/b12y4b60g24b6g24b6-b59110d-g11450d-yaaaaaa/)|
-|![Crawford example sett](/setts/s7/b12y4b60g24b6g24b6-b59110d-g11450d-yaaaaaa/sett.png)|
-| [Crawford](/setts/s7/b6y2b30g12b3g12b3-b59110d-g11450d-yaaaaaa/)|
-|![Crawford example sett](/setts/s7/b6y2b30g12b3g12b3-b59110d-g11450d-yaaaaaa/sett.png)|
+| [Crawford](/setts/s7/b6y2b30g12b3g12b3~b59110d-g11450d-yaaaaaa~x2/)|
+|![Crawford example sett](/setts/s7/b6y2b30g12b3g12b3~b59110d-g11450d-yaaaaaa~x2/sett.png)|
+| [Crawford](/setts/s7/b6y2b30g12b3g12b3~b59110d-g11450d-yaaaaaa/)|
+|![Crawford example sett](/setts/s7/b6y2b30g12b3g12b3~b59110d-g11450d-yaaaaaa/sett.png)|

@@ -16,5 +16,5 @@ BRBRBRBRBRBGWGRWRW
 
 | Tartans |
 |---------------|
-| [Royal Bahrain (Royal)](/setts/s18/b32r2b4r6b2r18b2r6b4r2b12g6w6g10r56wa6r6wa6-b003c64-g005430-r880000-w98c8e8-wae0e0e0/)|
-|![Royal Bahrain (Royal) example sett](/setts/s18/b32r2b4r6b2r18b2r6b4r2b12g6w6g10r56wa6r6wa6-b003c64-g005430-r880000-w98c8e8-wae0e0e0/sett.png)|
+| [Royal Bahrain (Royal)](/setts/s18/b16r1b2r3b1r9b1r3b2r1b6g3w3g5r28wa3r3wa3~b003c64-g005430-r880000-w98c8e8-wae0e0e0~x2/)|
+|![Royal Bahrain (Royal) example sett](/setts/s18/b16r1b2r3b1r9b1r3b2r1b6g3w3g5r28wa3r3wa3~b003c64-g005430-r880000-w98c8e8-wae0e0e0~x2/sett.png)|

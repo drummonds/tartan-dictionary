@@ -6,7 +6,7 @@ RBRGRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r2b6r2g6r8ra2-b304080-g008000-r806050-rac00000/tartan.png)
+![Woven sample](/setts/s6/r1b3r1g3r4ra1~b304080-g008000-r806050-rac00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRGRR
 
 | Tartans |
 |---------------|
-| [Fraser Hunting](/setts/s6/r2b6r2g6r8ra2-b304080-g008000-r806050-rac00000/)|
-|![Fraser Hunting example sett](/setts/s6/r2b6r2g6r8ra2-b304080-g008000-r806050-rac00000/sett.png)|
+| [Fraser Hunting](/setts/s6/r1b3r1g3r4ra1~b304080-g008000-r806050-rac00000~x2/)|
+|![Fraser Hunting example sett](/setts/s6/r1b3r1g3r4ra1~b304080-g008000-r806050-rac00000~x2/sett.png)|

@@ -16,5 +16,5 @@ WKRKGKBKRKGY
 
 | Tartans |
 |---------------|
-| [Tait #2](/setts/s12/w8k2r4k2g18k4b48k4r12k4g24y4-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Tait #2 example sett](/setts/s12/w8k2r4k2g18k4b48k4r12k4g24y4-b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Tait #2](/setts/s12/w4k1r2k1g9k2b24k2r6k2g12y2~b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Tait #2 example sett](/setts/s12/w4k1r2k1g9k2b24k2r6k2g12y2~b1474b4-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

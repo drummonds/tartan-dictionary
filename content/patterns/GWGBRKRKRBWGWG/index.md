@@ -16,5 +16,5 @@ GWGBRKRKRBWGWG
 
 | Tartans |
 |---------------|
-| [Teirney (Estimated threadcount)](/setts/s14/g20w4g4w4b16r16k2r14k2r16b16g16w4g4-b1474b4-g006818-k101010-rc80000-wf8f8f8/)|
-|![Teirney (Estimated threadcount) example sett](/setts/s14/g20w4g4w4b16r16k2r14k2r16b16g16w4g4-b1474b4-g006818-k101010-rc80000-wf8f8f8/sett.png)|
+| [Teirney (Estimated threadcount)](/setts/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~b1474b4-g006818-k101010-rc80000-wf8f8f8~x2/)|
+|![Teirney (Estimated threadcount) example sett](/setts/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~b1474b4-g006818-k101010-rc80000-wf8f8f8~x2/sett.png)|

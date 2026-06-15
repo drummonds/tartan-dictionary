@@ -16,5 +16,5 @@ RBGBGRGRR
 
 | Tartans |
 |---------------|
-| [Scottish National Htg (Fashion)](/setts/s9/r132ra6g6ra6g32b16g6b6rb8-b4c0000-g006818-r888888-ra981c70-rba00048/)|
-|![Scottish National Htg (Fashion) example sett](/setts/s9/r132ra6g6ra6g32b16g6b6rb8-b4c0000-g006818-r888888-ra981c70-rba00048/sett.png)|
+| [Scottish National Htg (Fashion)](/setts/s9/r66ra3g3ra3g16b8g3b3rb4~b4c0000-g006818-r888888-ra981c70-rba00048~x2/)|
+|![Scottish National Htg (Fashion) example sett](/setts/s9/r66ra3g3ra3g16b8g3b3rb4~b4c0000-g006818-r888888-ra981c70-rba00048~x2/sett.png)|

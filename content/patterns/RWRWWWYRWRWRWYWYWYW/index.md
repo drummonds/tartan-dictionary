@@ -16,5 +16,5 @@ RWRWWWYRWRWRWYWYWYW
 
 | Tartans |
 |---------------|
-| [Beaufort (Name)](/setts/s19/r6w2r4w4w42w6y4r16w4r4w4r4w16y4w4y4w4y16w6-ra07c58-wf8f4d0-y74b8b8/)|
-|![Beaufort (Name) example sett](/setts/s19/r6w2r4w4w42w6y4r16w4r4w4r4w16y4w4y4w4y16w6-ra07c58-wf8f4d0-y74b8b8/sett.png)|
+| [Beaufort (Name)](/setts/s19/r3w1r2w2w21w3y2r8w2r2w2r2w8y2w2y2w2y8w3~ra07c58-wf8f4d0-y74b8b8~x2/)|
+|![Beaufort (Name) example sett](/setts/s19/r3w1r2w2w21w3y2r8w2r2w2r2w8y2w2y2w2y8w3~ra07c58-wf8f4d0-y74b8b8~x2/sett.png)|

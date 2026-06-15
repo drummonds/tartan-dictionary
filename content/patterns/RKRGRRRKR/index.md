@@ -16,5 +16,5 @@ RKRGRRRKR
 
 | Tartans |
 |---------------|
-| [Fitzgibbon Red (Name)](/setts/s9/r4k12r48g4r4ra2r12k2ra4-g006818-k101010-r880000-rac80000/)|
-|![Fitzgibbon Red (Name) example sett](/setts/s9/r4k12r48g4r4ra2r12k2ra4-g006818-k101010-r880000-rac80000/sett.png)|
+| [Fitzgibbon Red (Name)](/setts/s9/r2k6r24g2r2ra1r6k1ra2~g006818-k101010-r880000-rac80000~x2/)|
+|![Fitzgibbon Red (Name) example sett](/setts/s9/r2k6r24g2r2ra1r6k1ra2~g006818-k101010-r880000-rac80000~x2/sett.png)|

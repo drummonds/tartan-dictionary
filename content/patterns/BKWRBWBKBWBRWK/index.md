@@ -16,5 +16,5 @@ BKWRBWBKBWBRWK
 
 | Tartans |
 |---------------|
-| [Conquergood](/setts/s14/b4k2w4r10b10w22b4k8b4w22b10r10w4k2-b2888c4-k101010-r888888-we0e0e0/)|
-|![Conquergood example sett](/setts/s14/b4k2w4r10b10w22b4k8b4w22b10r10w4k2-b2888c4-k101010-r888888-we0e0e0/sett.png)|
+| [Conquergood](/setts/s14/b2k1w2r5b5w11b2k4b2w11b5r5w2k1~b2888c4-k101010-r888888-we0e0e0~x2/)|
+|![Conquergood example sett](/setts/s14/b2k1w2r5b5w11b2k4b2w11b5r5w2k1~b2888c4-k101010-r888888-we0e0e0~x2/sett.png)|

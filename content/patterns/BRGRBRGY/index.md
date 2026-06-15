@@ -6,7 +6,7 @@ BRGRBRGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s8/b42r2g16r2b6r2g8y3~b1c0070-g789484-r880000-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGRBRGY
 
 | Tartans |
 |---------------|
-| [Prince George's Police Pipe Band](/setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/)|
-|![Prince George's Police Pipe Band example sett](/setts/s8/b84r4g32r4b12r4g16y6-b1c0070-g789484-r880000-yd09800/sett.png)|
+| [Prince George's Police Pipe Band](/setts/s8/b42r2g16r2b6r2g8y3~b1c0070-g789484-r880000-yd09800~x2/)|
+|![Prince George's Police Pipe Band example sett](/setts/s8/b42r2g16r2b6r2g8y3~b1c0070-g789484-r880000-yd09800~x2/sett.png)|

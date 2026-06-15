@@ -16,5 +16,5 @@ KBKWKBWBW
 
 | Tartans |
 |---------------|
-| [Southern Illinois University - Carbondale](/setts/s9/k10b80k8w4k8b20w8b10w2-b75263d-k101010-wffffff/)|
-|![Southern Illinois University - Carbondale example sett](/setts/s9/k10b80k8w4k8b20w8b10w2-b75263d-k101010-wffffff/sett.png)|
+| [Southern Illinois University - Carbondale](/setts/s9/k5b40k4w2k4b10w4b5w1~b75263d-k101010-wffffff~x2/)|
+|![Southern Illinois University - Carbondale example sett](/setts/s9/k5b40k4w2k4b10w4b5w1~b75263d-k101010-wffffff~x2/sett.png)|

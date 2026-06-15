@@ -16,5 +16,5 @@ BKRBKYWYKYWYK
 
 | Tartans |
 |---------------|
-| [Presley of Lonmay #2](/setts/s13/b34k4r4b34k28y2w4y2k8y2w4y2k28-b141e46-k101010-rfa6496-we0e0e0-yc89600/)|
-|![Presley of Lonmay #2 example sett](/setts/s13/b34k4r4b34k28y2w4y2k8y2w4y2k28-b141e46-k101010-rfa6496-we0e0e0-yc89600/sett.png)|
+| [Presley of Lonmay #2](/setts/s13/b17k2r2b17k14y1w2y1k4y1w2y1k14~b141e46-k101010-rfa6496-we0e0e0-yc89600~x2/)|
+|![Presley of Lonmay #2 example sett](/setts/s13/b17k2r2b17k14y1w2y1k4y1w2y1k14~b141e46-k101010-rfa6496-we0e0e0-yc89600~x2/sett.png)|

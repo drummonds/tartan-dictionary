@@ -6,7 +6,7 @@ KGWGKBKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/tartan.png)
+![Woven sample](/setts/s8/k3g3w2g11k12b18k2w3~b00008c-g007800-k000000-wc8c8c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGWGKBKW
 
 | Tartans |
 |---------------|
-| [Louisiana](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/)|
-|![Louisiana example sett](/setts/s8/k6g6w4g22k24b36k4w6-b00008c-g007800-k000000-wc8c8c8/sett.png)|
+| [Louisiana](/setts/s8/k3g3w2g11k12b18k2w3~b00008c-g007800-k000000-wc8c8c8~x2/)|
+|![Louisiana example sett](/setts/s8/k3g3w2g11k12b18k2w3~b00008c-g007800-k000000-wc8c8c8~x2/sett.png)|

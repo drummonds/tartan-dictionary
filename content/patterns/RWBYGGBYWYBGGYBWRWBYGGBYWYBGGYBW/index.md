@@ -16,5 +16,5 @@ RWBYGGBYWYBGGYBWRWBYGGBYWYBGGYBW
 
 | Tartans |
 |---------------|
-| [Spens Fragment](/setts/s32/r34w4b14y4g66ga24b14y6w4y6b14ga24g66y4b14w4r100w4b14y4g66ga24b14y6w4y6b14ga24g66y4b14w4-b2c2c80-g006818-ga289c18-rc80050-we0e0e0-ya08858/)|
-|![Spens Fragment example sett](/setts/s32/r34w4b14y4g66ga24b14y6w4y6b14ga24g66y4b14w4r100w4b14y4g66ga24b14y6w4y6b14ga24g66y4b14w4-b2c2c80-g006818-ga289c18-rc80050-we0e0e0-ya08858/sett.png)|
+| [Spens Fragment](/setts/s32/r17w2b7y2g33ga12b7y3w2y3b7ga12g33y2b7w2r50w2b7y2g33ga12b7y3w2y3b7ga12g33y2b7w2~b2c2c80-g006818-ga289c18-rc80050-we0e0e0-ya08858~x2/)|
+|![Spens Fragment example sett](/setts/s32/r17w2b7y2g33ga12b7y3w2y3b7ga12g33y2b7w2r50w2b7y2g33ga12b7y3w2y3b7ga12g33y2b7w2~b2c2c80-g006818-ga289c18-rc80050-we0e0e0-ya08858~x2/sett.png)|

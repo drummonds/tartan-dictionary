@@ -6,7 +6,7 @@ KYBRKGRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k166y4b8r4k16g10r8w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k83y2b4r2k8g5r4w3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYBRKGRW
 
 | Tartans |
 |---------------|
-| [Spirit of Lanarkshire (Corporate)](/setts/s8/k166y4b8r4k16g10r8w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Spirit of Lanarkshire (Corporate) example sett](/setts/s8/k166y4b8r4k16g10r8w6-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Spirit of Lanarkshire (Corporate)](/setts/s8/k83y2b4r2k8g5r4w3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Spirit of Lanarkshire (Corporate) example sett](/setts/s8/k83y2b4r2k8g5r4w3~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ WYWYBBYBY
 
 | Tartans |
 |---------------|
-| [Sean F Forrester (Personal)](/setts/s9/w12y16w4y60b96ba60ya4ba16ya12-b663399-ba333333-wffffff-y999999-yaffee00/)|
-|![Sean F Forrester (Personal) example sett](/setts/s9/w12y16w4y60b96ba60ya4ba16ya12-b663399-ba333333-wffffff-y999999-yaffee00/sett.png)|
+| [Sean F Forrester (Personal)](/setts/s9/w3y4w1y15b24ba15ya1ba4ya3~b663399-ba333333-wffffff-y999999-yaffee00~x4/)|
+|![Sean F Forrester (Personal) example sett](/setts/s9/w3y4w1y15b24ba15ya1ba4ya3~b663399-ba333333-wffffff-y999999-yaffee00~x4/sett.png)|

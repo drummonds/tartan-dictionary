@@ -16,5 +16,5 @@ BBYYYBYYBYYYBYBYB
 
 | Tartans |
 |---------------|
-| [Agincourt (Fashion)](/setts/s17/b16y4b12y4b4y4y4y24b16y8y24b28y24y4y112b4b4-b003c64-yd09800/)|
-|![Agincourt (Fashion) example sett](/setts/s17/b16y4b12y4b4y4y4y24b16y8y24b28y24y4y112b4b4-b003c64-yd09800/sett.png)|
+| [Agincourt (Fashion)](/setts/s17/b4y1b3y1b1y1y1y6b4y2y6b7y6y1y28b1b1~b003c64-yd09800~x4/)|
+|![Agincourt (Fashion) example sett](/setts/s17/b4y1b3y1b1y1y1y6b4y2y6b7y6y1y28b1b1~b003c64-yd09800~x4/sett.png)|

@@ -16,5 +16,5 @@ GWGRRRRRGR
 
 | Tartans |
 |---------------|
-| [Seton, hunting](/setts/s10/g12w2g24r8ra8r4ra8r64g2r4-g008000-r806050-rac00000-we0e0e0/)|
-|![Seton, hunting example sett](/setts/s10/g12w2g24r8ra8r4ra8r64g2r4-g008000-r806050-rac00000-we0e0e0/sett.png)|
+| [Seton, hunting](/setts/s10/g6w1g12r4ra4r2ra4r32g1r2~g008000-r806050-rac00000-we0e0e0~x2/)|
+|![Seton, hunting example sett](/setts/s10/g6w1g12r4ra4r2ra4r32g1r2~g008000-r806050-rac00000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ GRGRGKYRYRY
 
 | Tartans |
 |---------------|
-| [Glenmorangie (Corporate)](/setts/s11/g12r4g4r8g26k24y26r8y4r4y12-g805400-k101010-ra8608c-yc09458/)|
-|![Glenmorangie (Corporate) example sett](/setts/s11/g12r4g4r8g26k24y26r8y4r4y12-g805400-k101010-ra8608c-yc09458/sett.png)|
+| [Glenmorangie (Corporate)](/setts/s11/g6r2g2r4g13k12y13r4y2r2y6~g805400-k101010-ra8608c-yc09458~x2/)|
+|![Glenmorangie (Corporate) example sett](/setts/s11/g6r2g2r4g13k12y13r4y2r2y6~g805400-k101010-ra8608c-yc09458~x2/sett.png)|

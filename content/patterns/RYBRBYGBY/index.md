@@ -16,5 +16,5 @@ RYBRBYGBY
 
 | Tartans |
 |---------------|
-| [Isle of Arran (Personal)](/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/)|
-|![Isle of Arran (Personal) example sett](/setts/s9/r4y16b12r4b12ya4g12ba12ya4-b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8/sett.png)|
+| [Isle of Arran (Personal)](/setts/s9/r1y4b3r1b3ya1g3ba3ya1~b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8~x4/)|
+|![Isle of Arran (Personal) example sett](/setts/s9/r1y4b3r1b3ya1g3ba3ya1~b480800-ba1c0070-g006818-r880000-yd09800-yab8b8b8~x4/sett.png)|

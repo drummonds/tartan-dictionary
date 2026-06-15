@@ -16,5 +16,5 @@ BRKWRWKWKWB
 
 | Tartans |
 |---------------|
-| [MacRae, Dress Red (Dance)](/setts/s11/b6r18k12w6r48w6k12w54k6w18b6-b2888c4-k101010-rc80000-wf8f8f8/)|
-|![MacRae, Dress Red (Dance) example sett](/setts/s11/b6r18k12w6r48w6k12w54k6w18b6-b2888c4-k101010-rc80000-wf8f8f8/sett.png)|
+| [MacRae, Dress Red (Dance)](/setts/s11/b1r3k2w1r8w1k2w9k1w3b1~b2888c4-k101010-rc80000-wf8f8f8~x6/)|
+|![MacRae, Dress Red (Dance) example sett](/setts/s11/b1r3k2w1r8w1k2w9k1w3b1~b2888c4-k101010-rc80000-wf8f8f8~x6/sett.png)|

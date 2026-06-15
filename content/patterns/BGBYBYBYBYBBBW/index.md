@@ -16,5 +16,5 @@ BGBYBYBYBYBBBW
 
 | Tartans |
 |---------------|
-| [Crombie, Harry (Personal)](/setts/s14/b10g2ba60y4ba8y6ba6y8ba4y10ba4bb18ba2w4-b64008c-ba141e46-bb0596fa-g146400-wf8f8f8-y48a4c0/)|
-|![Crombie, Harry (Personal) example sett](/setts/s14/b10g2ba60y4ba8y6ba6y8ba4y10ba4bb18ba2w4-b64008c-ba141e46-bb0596fa-g146400-wf8f8f8-y48a4c0/sett.png)|
+| [Crombie, Harry (Personal)](/setts/s14/b5g1ba30y2ba4y3ba3y4ba2y5ba2bb9ba1w2~b64008c-ba141e46-bb0596fa-g146400-wf8f8f8-y48a4c0~x2/)|
+|![Crombie, Harry (Personal) example sett](/setts/s14/b5g1ba30y2ba4y3ba3y4ba2y5ba2bb9ba1w2~b64008c-ba141e46-bb0596fa-g146400-wf8f8f8-y48a4c0~x2/sett.png)|

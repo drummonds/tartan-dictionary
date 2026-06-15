@@ -6,7 +6,7 @@ RRRRRBGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r42ra6r6ra6r6b38g44w6-b00008b-g008000-r800000-radc143c-w87cefa/tartan.png)
+![Woven sample](/setts/s8/r21ra3r3ra3r3b19g22w3~b00008b-g008000-r800000-radc143c-w87cefa~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRRRBGW
 
 | Tartans |
 |---------------|
-| [Akins Clan (Personal)](/setts/s8/r42ra6r6ra6r6b38g44w6-b00008b-g008000-r800000-radc143c-w87cefa/)|
-|![Akins Clan (Personal) example sett](/setts/s8/r42ra6r6ra6r6b38g44w6-b00008b-g008000-r800000-radc143c-w87cefa/sett.png)|
+| [Akins Clan (Personal)](/setts/s8/r21ra3r3ra3r3b19g22w3~b00008b-g008000-r800000-radc143c-w87cefa~x2/)|
+|![Akins Clan (Personal) example sett](/setts/s8/r21ra3r3ra3r3b19g22w3~b00008b-g008000-r800000-radc143c-w87cefa~x2/sett.png)|

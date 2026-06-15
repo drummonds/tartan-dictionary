@@ -6,7 +6,7 @@ BGBBGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b86g16b16ba42g20w4-b1c1c1c-ba003c64-g003820-wf8f4d0/tartan.png)
+![Woven sample](/setts/s6/b43g8b8ba21g10w2~b1c1c1c-ba003c64-g003820-wf8f4d0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBBGW
 
 | Tartans |
 |---------------|
-| [Longmuir (2014)](/setts/s6/b86g16b16ba42g20w4-b1c1c1c-ba003c64-g003820-wf8f4d0/)|
-|![Longmuir (2014) example sett](/setts/s6/b86g16b16ba42g20w4-b1c1c1c-ba003c64-g003820-wf8f4d0/sett.png)|
+| [Longmuir (2014)](/setts/s6/b43g8b8ba21g10w2~b1c1c1c-ba003c64-g003820-wf8f4d0~x2/)|
+|![Longmuir (2014) example sett](/setts/s6/b43g8b8ba21g10w2~b1c1c1c-ba003c64-g003820-wf8f4d0~x2/sett.png)|

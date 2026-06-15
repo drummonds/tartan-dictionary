@@ -16,5 +16,5 @@ RBGKGKGKBKBKGW
 
 | Tartans |
 |---------------|
-| [Elgin-Landshut](/setts/s14/r8b48g8k8g8k8g48k8ba8k8b24k24g24w8-b1c0070-ba2888c4-g006818-k101010-rc80000-wf8f8f8/)|
-|![Elgin-Landshut example sett](/setts/s14/r8b48g8k8g8k8g48k8ba8k8b24k24g24w8-b1c0070-ba2888c4-g006818-k101010-rc80000-wf8f8f8/sett.png)|
+| [Elgin-Landshut](/setts/s14/r1b6g1k1g1k1g6k1ba1k1b3k3g3w1~b1c0070-ba2888c4-g006818-k101010-rc80000-wf8f8f8~x8/)|
+|![Elgin-Landshut example sett](/setts/s14/r1b6g1k1g1k1g6k1ba1k1b3k3g3w1~b1c0070-ba2888c4-g006818-k101010-rc80000-wf8f8f8~x8/sett.png)|

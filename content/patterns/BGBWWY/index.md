@@ -6,7 +6,7 @@ BGBWWY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b16g100ba8w4wa10y4-b441800-ba5f749c-g649848-w98c8e8-wafcfcfc-yf8e38c/tartan.png)
+![Woven sample](/setts/s6/b8g50ba4w2wa5y2~b441800-ba5f749c-g649848-w98c8e8-wafcfcfc-yf8e38c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBWWY
 
 | Tartans |
 |---------------|
-| [Greenup (2015)](/setts/s6/b16g100ba8w4wa10y4-b441800-ba5f749c-g649848-w98c8e8-wafcfcfc-yf8e38c/)|
-|![Greenup (2015) example sett](/setts/s6/b16g100ba8w4wa10y4-b441800-ba5f749c-g649848-w98c8e8-wafcfcfc-yf8e38c/sett.png)|
+| [Greenup (2015)](/setts/s6/b8g50ba4w2wa5y2~b441800-ba5f749c-g649848-w98c8e8-wafcfcfc-yf8e38c~x2/)|
+|![Greenup (2015) example sett](/setts/s6/b8g50ba4w2wa5y2~b441800-ba5f749c-g649848-w98c8e8-wafcfcfc-yf8e38c~x2/sett.png)|

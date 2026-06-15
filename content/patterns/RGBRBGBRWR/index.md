@@ -16,7 +16,7 @@ RGBRBGBRWR
 
 | Tartans |
 |---------------|
-| [Chisholm, The (MacGregor-Hastie)](/setts/s10/r24w4r74b12g6b6r8b6g42r8-b1474b4-g006818-rc80000-wfcfcfc/)|
-|![Chisholm, The (MacGregor-Hastie) example sett](/setts/s10/r24w4r74b12g6b6r8b6g42r8-b1474b4-g006818-rc80000-wfcfcfc/sett.png)|
-| [Chisholm, The](/setts/s10/r24w4r74b12g6b6r8b6g42r8-b304080-g008000-rc00000-we0e0e0/)|
-|![Chisholm, The example sett](/setts/s10/r24w4r74b12g6b6r8b6g42r8-b304080-g008000-rc00000-we0e0e0/sett.png)|
+| [Chisholm, The (MacGregor-Hastie)](/setts/s10/r12w2r37b6g3b3r4b3g21r4~b1474b4-g006818-rc80000-wfcfcfc~x2/)|
+|![Chisholm, The (MacGregor-Hastie) example sett](/setts/s10/r12w2r37b6g3b3r4b3g21r4~b1474b4-g006818-rc80000-wfcfcfc~x2/sett.png)|
+| [Chisholm, The](/setts/s10/r12w2r37b6g3b3r4b3g21r4~b304080-g008000-rc00000-we0e0e0~x2/)|
+|![Chisholm, The example sett](/setts/s10/r12w2r37b6g3b3r4b3g21r4~b304080-g008000-rc00000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ BRGRWRGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b48r8g48r8w40r20g6w8-b2c2c80-g006818-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b24r4g24r4w20r10g3w4~b2c2c80-g006818-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGRWRGW
 
 | Tartans |
 |---------------|
-| [Robertson Dress (Dalgleish) #2](/setts/s8/b48r8g48r8w40r20g6w8-b2c2c80-g006818-rc80000-we0e0e0/)|
-|![Robertson Dress (Dalgleish) #2 example sett](/setts/s8/b48r8g48r8w40r20g6w8-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|
+| [Robertson Dress (Dalgleish) #2](/setts/s8/b24r4g24r4w20r10g3w4~b2c2c80-g006818-rc80000-we0e0e0~x2/)|
+|![Robertson Dress (Dalgleish) #2 example sett](/setts/s8/b24r4g24r4w20r10g3w4~b2c2c80-g006818-rc80000-we0e0e0~x2/sett.png)|

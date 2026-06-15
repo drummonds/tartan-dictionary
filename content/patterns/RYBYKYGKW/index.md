@@ -16,5 +16,5 @@ RYBYKYGKW
 
 | Tartans |
 |---------------|
-| [Stirling (Clan)](/setts/s9/w8k4g40y4k26y4b40y4r4-b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0/)|
-|![Stirling (Clan) example sett](/setts/s9/w8k4g40y4k26y4b40y4r4-b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0/sett.png)|
+| [Stirling (Clan)](/setts/s9/w4k2g20y2k13y2b20y2r2~b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0~x2/)|
+|![Stirling (Clan) example sett](/setts/s9/w4k2g20y2k13y2b20y2r2~b1474b4-g289c18-k101010-rc80000-w98c8e8-ya0a0a0~x2/sett.png)|

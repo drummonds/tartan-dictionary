@@ -16,5 +16,5 @@ KWRGRKBWKWBKRGRW
 
 | Tartans |
 |---------------|
-| [Soutar/Souter](/setts/s16/k40w6r20g40r6k6b40w6k40w6b40k6r6g40r20w6-b2888c4-g285800-k101010-rc80000-we0e0e0/)|
-|![Soutar/Souter example sett](/setts/s16/k40w6r20g40r6k6b40w6k40w6b40k6r6g40r20w6-b2888c4-g285800-k101010-rc80000-we0e0e0/sett.png)|
+| [Soutar/Souter](/setts/s16/k20w3r10g20r3k3b20w3k20w3b20k3r3g20r10w3~b2888c4-g285800-k101010-rc80000-we0e0e0~x2/)|
+|![Soutar/Souter example sett](/setts/s16/k20w3r10g20r3k3b20w3k20w3b20k3r3g20r10w3~b2888c4-g285800-k101010-rc80000-we0e0e0~x2/sett.png)|

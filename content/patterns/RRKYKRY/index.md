@@ -6,7 +6,7 @@ RRKYKRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y30r14k24y24k24ra24r14-k000000-rc00000-ra806050-yf0c000/tartan.png)
+![Woven sample](/setts/s7/y15r7k12y12k12ra12r7~k000000-rc00000-ra806050-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRKYKRY
 
 | Tartans |
 |---------------|
-| [Duffus, Lord](/setts/s7/y30r14k24y24k24ra24r14-k000000-rc00000-ra806050-yf0c000/)|
-|![Duffus, Lord example sett](/setts/s7/y30r14k24y24k24ra24r14-k000000-rc00000-ra806050-yf0c000/sett.png)|
+| [Duffus, Lord](/setts/s7/y15r7k12y12k12ra12r7~k000000-rc00000-ra806050-yf0c000~x2/)|
+|![Duffus, Lord example sett](/setts/s7/y15r7k12y12k12ra12r7~k000000-rc00000-ra806050-yf0c000~x2/sett.png)|

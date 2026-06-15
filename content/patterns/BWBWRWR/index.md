@@ -6,7 +6,7 @@ BWBWRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b48w16b4w16r32w8r4-b141e46-r960028-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b12w4b1w4r8w2r1~b141e46-r960028-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWRWR
 
 | Tartans |
 |---------------|
-| [Sunderland](/setts/s7/b48w16b4w16r32w8r4-b141e46-r960028-we0e0e0/)|
-|![Sunderland example sett](/setts/s7/b48w16b4w16r32w8r4-b141e46-r960028-we0e0e0/sett.png)|
+| [Sunderland](/setts/s7/b12w4b1w4r8w2r1~b141e46-r960028-we0e0e0~x4/)|
+|![Sunderland example sett](/setts/s7/b12w4b1w4r8w2r1~b141e46-r960028-we0e0e0~x4/sett.png)|

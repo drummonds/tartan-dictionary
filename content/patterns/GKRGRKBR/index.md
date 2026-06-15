@@ -6,7 +6,7 @@ GKRGRKBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g90k8r4g8r4k8b42ra10-b506878-g006818-k101010-re87878-rac80000/tartan.png)
+![Woven sample](/setts/s8/g45k4r2g4r2k4b21ra5~b506878-g006818-k101010-re87878-rac80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRGRKBR
 
 | Tartans |
 |---------------|
-| [Shiach (Personal)](/setts/s8/g90k8r4g8r4k8b42ra10-b506878-g006818-k101010-re87878-rac80000/)|
-|![Shiach (Personal) example sett](/setts/s8/g90k8r4g8r4k8b42ra10-b506878-g006818-k101010-re87878-rac80000/sett.png)|
+| [Shiach (Personal)](/setts/s8/g45k4r2g4r2k4b21ra5~b506878-g006818-k101010-re87878-rac80000~x2/)|
+|![Shiach (Personal) example sett](/setts/s8/g45k4r2g4r2k4b21ra5~b506878-g006818-k101010-re87878-rac80000~x2/sett.png)|

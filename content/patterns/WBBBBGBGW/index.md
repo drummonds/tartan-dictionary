@@ -16,5 +16,5 @@ WBBBBGBGW
 
 | Tartans |
 |---------------|
-| [Sound of Iona](/setts/s9/w60b8ba12bb8ba12g12ba24g26wa8-b2888c4-ba202060-bb780078-g0098a0-wfcfcfc-wa98c8e8/)|
-|![Sound of Iona example sett](/setts/s9/w60b8ba12bb8ba12g12ba24g26wa8-b2888c4-ba202060-bb780078-g0098a0-wfcfcfc-wa98c8e8/sett.png)|
+| [Sound of Iona](/setts/s9/w30b4ba6bb4ba6g6ba12g13wa4~b2888c4-ba202060-bb780078-g0098a0-wfcfcfc-wa98c8e8~x2/)|
+|![Sound of Iona example sett](/setts/s9/w30b4ba6bb4ba6g6ba12g13wa4~b2888c4-ba202060-bb780078-g0098a0-wfcfcfc-wa98c8e8~x2/sett.png)|

@@ -6,7 +6,7 @@ YBRY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/y48r18b46ya6-b5c5c5c-r888888-ya0a0a0-yae8c000/tartan.png)
+![Woven sample](/setts/s4/y24r9b23ya3~b5c5c5c-r888888-ya0a0a0-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YBRY
 
 | Tartans |
 |---------------|
-| [Porcelanosa](/setts/s4/y48r18b46ya6-b5c5c5c-r888888-ya0a0a0-yae8c000/)|
-|![Porcelanosa example sett](/setts/s4/y48r18b46ya6-b5c5c5c-r888888-ya0a0a0-yae8c000/sett.png)|
+| [Porcelanosa](/setts/s4/y24r9b23ya3~b5c5c5c-r888888-ya0a0a0-yae8c000~x2/)|
+|![Porcelanosa example sett](/setts/s4/y24r9b23ya3~b5c5c5c-r888888-ya0a0a0-yae8c000~x2/sett.png)|

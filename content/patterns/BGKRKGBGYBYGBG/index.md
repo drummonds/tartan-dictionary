@@ -16,7 +16,7 @@ BGKRKGBGYBYGBG
 
 | Tartans |
 |---------------|
-| [Penman](/setts/s14/g22b12ga12y2b4y2ga12b12g72k2r6k2ga10b10-b304080-g808080-ga008000-k000000-rc00000-yf0c000/)|
-|![Penman example sett](/setts/s14/g22b12ga12y2b4y2ga12b12g72k2r6k2ga10b10-b304080-g808080-ga008000-k000000-rc00000-yf0c000/sett.png)|
-| [Penman](/setts/s14/g22b12ga12y2b4y2ga12b12g22k2r6k2ga10b10-b304080-g808080-ga008000-k000000-rc00000-yf0c000/)|
-|![Penman example sett](/setts/s14/g22b12ga12y2b4y2ga12b12g22k2r6k2ga10b10-b304080-g808080-ga008000-k000000-rc00000-yf0c000/sett.png)|
+| [Penman](/setts/s14/g11b6ga6y1b2y1ga6b6g36k1r3k1ga5b5~b304080-g808080-ga008000-k000000-rc00000-yf0c000~x2/)|
+|![Penman example sett](/setts/s14/g11b6ga6y1b2y1ga6b6g36k1r3k1ga5b5~b304080-g808080-ga008000-k000000-rc00000-yf0c000~x2/sett.png)|
+| [Penman](/setts/s14/g11b6ga6y1b2y1ga6b6g11k1r3k1ga5b5~b304080-g808080-ga008000-k000000-rc00000-yf0c000~x2/)|
+|![Penman example sett](/setts/s14/g11b6ga6y1b2y1ga6b6g11k1r3k1ga5b5~b304080-g808080-ga008000-k000000-rc00000-yf0c000~x2/sett.png)|

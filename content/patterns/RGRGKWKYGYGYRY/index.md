@@ -16,5 +16,5 @@ RGRGKWKYGYGYRY
 
 | Tartans |
 |---------------|
-| [Redgate (Name)](/setts/s14/r12g8r4g18k20w2k20y6ga4y6ga4y22r6y12-g006818-ga604000-k101010-rc80000-we8ccb8-y48a4c0/)|
-|![Redgate (Name) example sett](/setts/s14/r12g8r4g18k20w2k20y6ga4y6ga4y22r6y12-g006818-ga604000-k101010-rc80000-we8ccb8-y48a4c0/sett.png)|
+| [Redgate (Name)](/setts/s14/r6g4r2g9k10w1k10y3ga2y3ga2y11r3y6~g006818-ga604000-k101010-rc80000-we8ccb8-y48a4c0~x2/)|
+|![Redgate (Name) example sett](/setts/s14/r6g4r2g9k10w1k10y3ga2y3ga2y11r3y6~g006818-ga604000-k101010-rc80000-we8ccb8-y48a4c0~x2/sett.png)|

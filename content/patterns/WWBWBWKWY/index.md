@@ -16,5 +16,5 @@ WWBWBWKWY
 
 | Tartans |
 |---------------|
-| [Royal College of Midwives](/setts/s9/y10w6k2w12b22w6ba6w86wa6-b5c5c5c-ba1474b4-k101010-wc0c0c0-wafcfcfc-ye8c000/)|
-|![Royal College of Midwives example sett](/setts/s9/y10w6k2w12b22w6ba6w86wa6-b5c5c5c-ba1474b4-k101010-wc0c0c0-wafcfcfc-ye8c000/sett.png)|
+| [Royal College of Midwives](/setts/s9/y5w3k1w6b11w3ba3w43wa3~b5c5c5c-ba1474b4-k101010-wc0c0c0-wafcfcfc-ye8c000~x2/)|
+|![Royal College of Midwives example sett](/setts/s9/y5w3k1w6b11w3ba3w43wa3~b5c5c5c-ba1474b4-k101010-wc0c0c0-wafcfcfc-ye8c000~x2/sett.png)|

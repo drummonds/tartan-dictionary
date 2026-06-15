@@ -6,7 +6,7 @@ WBWBWGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y12g72w10b8w60b2w4-b1474b4-g003820-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/y6g36w5b4w30b1w2~b1474b4-g003820-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBWBWGY
 
 | Tartans |
 |---------------|
-| [Pearce Scotch Plaid 4 (Fashion)](/setts/s7/y12g72w10b8w60b2w4-b1474b4-g003820-we0e0e0-ye8c000/)|
-|![Pearce Scotch Plaid 4 (Fashion) example sett](/setts/s7/y12g72w10b8w60b2w4-b1474b4-g003820-we0e0e0-ye8c000/sett.png)|
+| [Pearce Scotch Plaid 4 (Fashion)](/setts/s7/y6g36w5b4w30b1w2~b1474b4-g003820-we0e0e0-ye8c000~x2/)|
+|![Pearce Scotch Plaid 4 (Fashion) example sett](/setts/s7/y6g36w5b4w30b1w2~b1474b4-g003820-we0e0e0-ye8c000~x2/sett.png)|

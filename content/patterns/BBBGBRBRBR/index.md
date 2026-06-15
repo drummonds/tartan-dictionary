@@ -16,5 +16,5 @@ BBBGBRBRBR
 
 | Tartans |
 |---------------|
-| [Rikaco Classic (Fashion)](/setts/s10/b8ba8b2g48b20r2b4ra10ba6r4-b202060-ba1474b4-g003820-rc80000-ra880000/)|
-|![Rikaco Classic (Fashion) example sett](/setts/s10/b8ba8b2g48b20r2b4ra10ba6r4-b202060-ba1474b4-g003820-rc80000-ra880000/sett.png)|
+| [Rikaco Classic (Fashion)](/setts/s10/b4ba4b1g24b10r1b2ra5ba3r2~b202060-ba1474b4-g003820-rc80000-ra880000~x2/)|
+|![Rikaco Classic (Fashion) example sett](/setts/s10/b4ba4b1g24b10r1b2ra5ba3r2~b202060-ba1474b4-g003820-rc80000-ra880000~x2/sett.png)|

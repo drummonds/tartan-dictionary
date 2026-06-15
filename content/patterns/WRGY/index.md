@@ -6,7 +6,7 @@ WRGY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/w4r20g20y4-g503c14-rdc0000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s4/w1r5g5y1~g503c14-rdc0000-we0e0e0-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRGY
 
 | Tartans |
 |---------------|
-| [Manx Mannin Plaid](/setts/s4/w4r20g20y4-g503c14-rdc0000-we0e0e0-ye8c000/)|
-|![Manx Mannin Plaid example sett](/setts/s4/w4r20g20y4-g503c14-rdc0000-we0e0e0-ye8c000/sett.png)|
+| [Manx Mannin Plaid](/setts/s4/w1r5g5y1~g503c14-rdc0000-we0e0e0-ye8c000~x4/)|
+|![Manx Mannin Plaid example sett](/setts/s4/w1r5g5y1~g503c14-rdc0000-we0e0e0-ye8c000~x4/sett.png)|

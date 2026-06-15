@@ -6,7 +6,7 @@ GBKGRG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g6b36k36g36r6g6-b2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/g1b6k6g6r1g1~b2c2c80-g006818-k101010-rc80000~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBKGRG
 
 | Tartans |
 |---------------|
-| [Callum Beg (Fashion)](/setts/s6/g6b36k36g36r6g6-b2c2c80-g006818-k101010-rc80000/)|
-|![Callum Beg (Fashion) example sett](/setts/s6/g6b36k36g36r6g6-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Callum Beg (Fashion)](/setts/s6/g1b6k6g6r1g1~b2c2c80-g006818-k101010-rc80000~x6/)|
+|![Callum Beg (Fashion) example sett](/setts/s6/g1b6k6g6r1g1~b2c2c80-g006818-k101010-rc80000~x6/sett.png)|

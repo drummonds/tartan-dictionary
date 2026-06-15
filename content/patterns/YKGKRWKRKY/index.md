@@ -16,5 +16,5 @@ YKGKRWKRKY
 
 | Tartans |
 |---------------|
-| [MacLamroc](/setts/s10/y8k2g32k32r2w6k32r32k2y8-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![MacLamroc example sett](/setts/s10/y8k2g32k32r2w6k32r32k2y8-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [MacLamroc](/setts/s10/y4k1g16k16r1w3k16r16k1y4~g008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![MacLamroc example sett](/setts/s10/y4k1g16k16r1w3k16r16k1y4~g008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

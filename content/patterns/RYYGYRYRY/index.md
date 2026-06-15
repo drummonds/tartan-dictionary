@@ -16,5 +16,5 @@ RYYGYRYRY
 
 | Tartans |
 |---------------|
-| [Montreal Granate (Fashion)](/setts/s9/r156y20y2g4y12r4y6r4y86-g006818-r901c38-ya08858/)|
-|![Montreal Granate (Fashion) example sett](/setts/s9/r156y20y2g4y12r4y6r4y86-g006818-r901c38-ya08858/sett.png)|
+| [Montreal Granate (Fashion)](/setts/s9/r78y10y1g2y6r2y3r2y43~g006818-r901c38-ya08858~x2/)|
+|![Montreal Granate (Fashion) example sett](/setts/s9/r78y10y1g2y6r2y3r2y43~g006818-r901c38-ya08858~x2/sett.png)|

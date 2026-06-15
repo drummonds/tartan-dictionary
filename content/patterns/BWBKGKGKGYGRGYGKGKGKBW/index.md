@@ -16,5 +16,5 @@ BWBKGKGKGYGRGYGKGKGKBW
 
 | Tartans |
 |---------------|
-| [Kerby (Personal)](/setts/s22/b8w4b20k20g6k6g6k4g48y4g4r8g4y4g48k4g6k6g6k20b20w4-b440044-g006818-k101010-r880000-we0e0e0-ye8c000/)|
-|![Kerby (Personal) example sett](/setts/s22/b8w4b20k20g6k6g6k4g48y4g4r8g4y4g48k4g6k6g6k20b20w4-b440044-g006818-k101010-r880000-we0e0e0-ye8c000/sett.png)|
+| [Kerby (Personal)](/setts/s22/b4w2b10k10g3k3g3k2g24y2g2r4g2y2g24k2g3k3g3k10b10w2~b440044-g006818-k101010-r880000-we0e0e0-ye8c000~x2/)|
+|![Kerby (Personal) example sett](/setts/s22/b4w2b10k10g3k3g3k2g24y2g2r4g2y2g24k2g3k3g3k10b10w2~b440044-g006818-k101010-r880000-we0e0e0-ye8c000~x2/sett.png)|

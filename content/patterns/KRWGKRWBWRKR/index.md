@@ -16,5 +16,5 @@ KRWGKRWBWRKR
 
 | Tartans |
 |---------------|
-| [Trevison](/setts/s12/r94k2r12w6b4w6r12k26g4w4r4k26-b003c64-g289c18-k101010-rc80000-we0e0e0/)|
-|![Trevison example sett](/setts/s12/r94k2r12w6b4w6r12k26g4w4r4k26-b003c64-g289c18-k101010-rc80000-we0e0e0/sett.png)|
+| [Trevison](/setts/s12/r47k1r6w3b2w3r6k13g2w2r2k13~b003c64-g289c18-k101010-rc80000-we0e0e0~x2/)|
+|![Trevison example sett](/setts/s12/r47k1r6w3b2w3r6k13g2w2r2k13~b003c64-g289c18-k101010-rc80000-we0e0e0~x2/sett.png)|

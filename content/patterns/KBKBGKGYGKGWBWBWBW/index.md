@@ -16,5 +16,5 @@ KBKBGKGYGKGWBWBWBW
 
 | Tartans |
 |---------------|
-| [Johnston Dress (Clan?)](/setts/s18/k6b6k6b36g40k6g6y6g6k6g40w6b6w6b6w24b6w6-b2c2c80-g006818-k000000-wc8c8c8-ye8c000/)|
-|![Johnston Dress (Clan?) example sett](/setts/s18/k6b6k6b36g40k6g6y6g6k6g40w6b6w6b6w24b6w6-b2c2c80-g006818-k000000-wc8c8c8-ye8c000/sett.png)|
+| [Johnston Dress (Clan?)](/setts/s18/k3b3k3b18g20k3g3y3g3k3g20w3b3w3b3w12b3w3~b2c2c80-g006818-k000000-wc8c8c8-ye8c000~x2/)|
+|![Johnston Dress (Clan?) example sett](/setts/s18/k3b3k3b18g20k3g3y3g3k3g20w3b3w3b3w12b3w3~b2c2c80-g006818-k000000-wc8c8c8-ye8c000~x2/sett.png)|

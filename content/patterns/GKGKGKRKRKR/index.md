@@ -16,5 +16,5 @@ GKGKGKRKRKR
 
 | Tartans |
 |---------------|
-| [Aubigny, Auld Alliance](/setts/s11/g40k4g6k4g8k18r36k4r10k4r18-g908000-k000000-rc00020/)|
-|![Aubigny, Auld Alliance example sett](/setts/s11/g40k4g6k4g8k18r36k4r10k4r18-g908000-k000000-rc00020/sett.png)|
+| [Aubigny, Auld Alliance](/setts/s11/g20k2g3k2g4k9r18k2r5k2r9~g908000-k000000-rc00020~x2/)|
+|![Aubigny, Auld Alliance example sett](/setts/s11/g20k2g3k2g4k9r18k2r5k2r9~g908000-k000000-rc00020~x2/sett.png)|

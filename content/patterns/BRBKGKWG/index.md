@@ -6,7 +6,7 @@ BRBKGKWG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b3r2b8k8g8k3w2g3-b000064-g004c00-k000000-rc80000-wd0d0d0/tartan.png)
+![Woven sample](/setts/s8/b3r2b8k8g8k3w2g3~b000064-g004c00-k000000-rc80000-wd0d0d0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBKGKWG
 
 | Tartans |
 |---------------|
-| [Davidson Double](/setts/s8/b3r2b8k8g8k3w2g3-b000064-g004c00-k000000-rc80000-wd0d0d0/)|
-|![Davidson Double example sett](/setts/s8/b3r2b8k8g8k3w2g3-b000064-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
+| [Davidson Double](/setts/s8/b3r2b8k8g8k3w2g3~b000064-g004c00-k000000-rc80000-wd0d0d0/)|
+|![Davidson Double example sett](/setts/s8/b3r2b8k8g8k3w2g3~b000064-g004c00-k000000-rc80000-wd0d0d0/sett.png)|

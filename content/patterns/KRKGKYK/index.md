@@ -6,7 +6,7 @@ KRKGKYK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k10r2k82g16k16y2k10-g003820-k00002c-r943030-yb8a82c/tartan.png)
+![Woven sample](/setts/s7/k5r1k41g8k8y1k5~g003820-k00002c-r943030-yb8a82c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKGKYK
 
 | Tartans |
 |---------------|
-| [Callaghan](/setts/s7/k10r2k82g16k16y2k10-g003820-k00002c-r943030-yb8a82c/)|
-|![Callaghan example sett](/setts/s7/k10r2k82g16k16y2k10-g003820-k00002c-r943030-yb8a82c/sett.png)|
+| [Callaghan](/setts/s7/k5r1k41g8k8y1k5~g003820-k00002c-r943030-yb8a82c~x2/)|
+|![Callaghan example sett](/setts/s7/k5r1k41g8k8y1k5~g003820-k00002c-r943030-yb8a82c~x2/sett.png)|

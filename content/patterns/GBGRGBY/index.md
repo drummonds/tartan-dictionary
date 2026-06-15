@@ -6,7 +6,7 @@ GBGRGBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4b32g32r4g32b32y4-b521510-g11450d-raa0000-yaaaaaa/tartan.png)
+![Woven sample](/setts/s7/g1b8g8r1g8b8y1~b521510-g11450d-raa0000-yaaaaaa~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBGRGBY
 
 | Tartans |
 |---------------|
-| [MacKinnon Hunting](/setts/s7/g4b32g32r4g32b32y4-b521510-g11450d-raa0000-yaaaaaa/)|
-|![MacKinnon Hunting example sett](/setts/s7/g4b32g32r4g32b32y4-b521510-g11450d-raa0000-yaaaaaa/sett.png)|
-| [MacKinnon Hunting](/setts/s7/g2b16g16r2g16b16y2-b521510-g11450d-raa0000-yaaaaaa/)|
-|![MacKinnon Hunting example sett](/setts/s7/g2b16g16r2g16b16y2-b521510-g11450d-raa0000-yaaaaaa/sett.png)|
+| [MacKinnon Hunting](/setts/s7/g1b8g8r1g8b8y1~b521510-g11450d-raa0000-yaaaaaa~x4/)|
+|![MacKinnon Hunting example sett](/setts/s7/g1b8g8r1g8b8y1~b521510-g11450d-raa0000-yaaaaaa~x4/sett.png)|
+| [MacKinnon Hunting](/setts/s7/g1b8g8r1g8b8y1~b521510-g11450d-raa0000-yaaaaaa~x2/)|
+|![MacKinnon Hunting example sett](/setts/s7/g1b8g8r1g8b8y1~b521510-g11450d-raa0000-yaaaaaa~x2/sett.png)|

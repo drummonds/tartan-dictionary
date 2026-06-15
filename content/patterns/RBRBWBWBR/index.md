@@ -16,5 +16,5 @@ RBRBWBWBR
 
 | Tartans |
 |---------------|
-| [Robberstad](/setts/s9/r120b30r8ba20w4ba20w4ba20r8-b3850c8-ba003c64-rc80000-wf8f8f8/)|
-|![Robberstad example sett](/setts/s9/r120b30r8ba20w4ba20w4ba20r8-b3850c8-ba003c64-rc80000-wf8f8f8/sett.png)|
+| [Robberstad](/setts/s9/r60b15r4ba10w2ba10w2ba10r4~b3850c8-ba003c64-rc80000-wf8f8f8~x2/)|
+|![Robberstad example sett](/setts/s9/r60b15r4ba10w2ba10w2ba10r4~b3850c8-ba003c64-rc80000-wf8f8f8~x2/sett.png)|

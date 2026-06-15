@@ -16,5 +16,5 @@ BWRKWRKYWYKRWK
 
 | Tartans |
 |---------------|
-| [Manac](/setts/s14/k66w2r46k2y12w2y12k2r46w2k66r6w6b6-b2474e8-k101010-rdc0000-wffffff-ya0a0a0/)|
-|![Manac example sett](/setts/s14/k66w2r46k2y12w2y12k2r46w2k66r6w6b6-b2474e8-k101010-rdc0000-wffffff-ya0a0a0/sett.png)|
+| [Manac](/setts/s14/k33w1r23k1y6w1y6k1r23w1k33r3w3b3~b2474e8-k101010-rdc0000-wffffff-ya0a0a0~x2/)|
+|![Manac example sett](/setts/s14/k33w1r23k1y6w1y6k1r23w1k33r3w3b3~b2474e8-k101010-rdc0000-wffffff-ya0a0a0~x2/sett.png)|

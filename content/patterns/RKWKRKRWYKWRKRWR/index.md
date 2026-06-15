@@ -16,5 +16,5 @@ RKWKRKRWYKWRKRWR
 
 | Tartans |
 |---------------|
-| [Puccini (Fashion)](/setts/s16/r12w2r2k30r2w4k2y10w50ra10k2r10k2w10k2ra10-k101010-rc80000-rae87878-we8ccb8-ya08858/)|
-|![Puccini (Fashion) example sett](/setts/s16/r12w2r2k30r2w4k2y10w50ra10k2r10k2w10k2ra10-k101010-rc80000-rae87878-we8ccb8-ya08858/sett.png)|
+| [Puccini (Fashion)](/setts/s16/r6w1r1k15r1w2k1y5w25ra5k1r5k1w5k1ra5~k101010-rc80000-rae87878-we8ccb8-ya08858~x2/)|
+|![Puccini (Fashion) example sett](/setts/s16/r6w1r1k15r1w2k1y5w25ra5k1r5k1w5k1ra5~k101010-rc80000-rae87878-we8ccb8-ya08858~x2/sett.png)|

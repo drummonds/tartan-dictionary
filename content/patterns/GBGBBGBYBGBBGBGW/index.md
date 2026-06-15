@@ -16,5 +16,5 @@ GBGBBGBYBGBBGBGW
 
 | Tartans |
 |---------------|
-| [Scottish Borderland](/setts/s16/g4b2g60ba20b40g2b4y2b4g2b40ba20g60b2g4w4-b405460-ba646464-g005020-wc8c8c8-yc88c00/)|
-|![Scottish Borderland example sett](/setts/s16/g4b2g60ba20b40g2b4y2b4g2b40ba20g60b2g4w4-b405460-ba646464-g005020-wc8c8c8-yc88c00/sett.png)|
+| [Scottish Borderland](/setts/s16/g2b1g30ba10b20g1b2y1b2g1b20ba10g30b1g2w2~b405460-ba646464-g005020-wc8c8c8-yc88c00~x2/)|
+|![Scottish Borderland example sett](/setts/s16/g2b1g30ba10b20g1b2y1b2g1b20ba10g30b1g2w2~b405460-ba646464-g005020-wc8c8c8-yc88c00~x2/sett.png)|

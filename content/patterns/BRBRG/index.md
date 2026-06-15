@@ -6,7 +6,7 @@ BRBRG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b8r8b8r8g8-b4c0c28-g004c00-ra0783c/tartan.png)
+![Woven sample](/setts/s5/b1r1b1r1g1~b4c0c28-g004c00-ra0783c~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRG
 
 | Tartans |
 |---------------|
-| [Ballindalloch Check](/setts/s5/b8r8b8r8g8-b4c0c28-g004c00-ra0783c/)|
-|![Ballindalloch Check example sett](/setts/s5/b8r8b8r8g8-b4c0c28-g004c00-ra0783c/sett.png)|
+| [Ballindalloch Check](/setts/s5/b1r1b1r1g1~b4c0c28-g004c00-ra0783c~x8/)|
+|![Ballindalloch Check example sett](/setts/s5/b1r1b1r1g1~b4c0c28-g004c00-ra0783c~x8/sett.png)|

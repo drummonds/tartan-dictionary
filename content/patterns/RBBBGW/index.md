@@ -6,7 +6,7 @@ RBBBGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r18b12ba26b42g36w8-b003c64-ba141e46-g808080-r800028-wf8f4d0/tartan.png)
+![Woven sample](/setts/s6/r9b6ba13b21g18w4~b003c64-ba141e46-g808080-r800028-wf8f4d0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBBGW
 
 | Tartans |
 |---------------|
-| [Fox-Eves Wedding](/setts/s6/r18b12ba26b42g36w8-b003c64-ba141e46-g808080-r800028-wf8f4d0/)|
-|![Fox-Eves Wedding example sett](/setts/s6/r18b12ba26b42g36w8-b003c64-ba141e46-g808080-r800028-wf8f4d0/sett.png)|
+| [Fox-Eves Wedding](/setts/s6/r9b6ba13b21g18w4~b003c64-ba141e46-g808080-r800028-wf8f4d0~x2/)|
+|![Fox-Eves Wedding example sett](/setts/s6/r9b6ba13b21g18w4~b003c64-ba141e46-g808080-r800028-wf8f4d0~x2/sett.png)|

@@ -6,7 +6,7 @@ GGG
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/g160ga30g20-g604000-ga5c6428/tartan.png)
+![Woven sample](/setts/s3/g16ga3g2~g604000-ga5c6428~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGG
 
 | Tartans |
 |---------------|
-| [Hallstatt (Artefact)](/setts/s3/g160ga30g20-g604000-ga5c6428/)|
-|![Hallstatt (Artefact) example sett](/setts/s3/g160ga30g20-g604000-ga5c6428/sett.png)|
+| [Hallstatt (Artefact)](/setts/s3/g16ga3g2~g604000-ga5c6428~x10/)|
+|![Hallstatt (Artefact) example sett](/setts/s3/g16ga3g2~g604000-ga5c6428~x10/sett.png)|

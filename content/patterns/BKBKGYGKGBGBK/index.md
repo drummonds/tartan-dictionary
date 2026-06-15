@@ -16,5 +16,5 @@ BKBKGYGKGBGBK
 
 | Tartans |
 |---------------|
-| [Gordon Dress (US Fashion)](/setts/s13/b8k8b16k16g20y4g20k16g8ba8g24ba4k8-b1c0070-ba2474e8-g006818-k101010-ybc8c00/)|
-|![Gordon Dress (US Fashion) example sett](/setts/s13/b8k8b16k16g20y4g20k16g8ba8g24ba4k8-b1c0070-ba2474e8-g006818-k101010-ybc8c00/sett.png)|
+| [Gordon Dress (US Fashion)](/setts/s13/b2k2b4k4g5y1g5k4g2ba2g6ba1k2~b1c0070-ba2474e8-g006818-k101010-ybc8c00~x4/)|
+|![Gordon Dress (US Fashion) example sett](/setts/s13/b2k2b4k4g5y1g5k4g2ba2g6ba1k2~b1c0070-ba2474e8-g006818-k101010-ybc8c00~x4/sett.png)|

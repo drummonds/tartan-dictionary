@@ -16,5 +16,5 @@ YBGBRBWBRGBRKY
 
 | Tartans |
 |---------------|
-| [Olympicana](/setts/s14/y4b4g12b54r4b4w4b4r48g46b4r4k4y4-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/)|
-|![Olympicana example sett](/setts/s14/y4b4g12b54r4b4w4b4r48g46b4r4k4y4-b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Olympicana](/setts/s14/y2b2g6b27r2b2w2b2r24g23b2r2k2y2~b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800~x2/)|
+|![Olympicana example sett](/setts/s14/y2b2g6b27r2b2w2b2r24g23b2r2k2y2~b1c0070-g006818-k101010-r880000-wc0c0c0-yd09800~x2/sett.png)|

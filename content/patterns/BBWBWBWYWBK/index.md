@@ -16,5 +16,5 @@ BBWBWBWYWBK
 
 | Tartans |
 |---------------|
-| [Xain (Personal)](/setts/s11/b126ba42w32ba4w8ba8w24y12w32ba8k42-b5c8ca8-ba780078-k101010-we0e0e0-yd87c00/)|
-|![Xain (Personal) example sett](/setts/s11/b126ba42w32ba4w8ba8w24y12w32ba8k42-b5c8ca8-ba780078-k101010-we0e0e0-yd87c00/sett.png)|
+| [Xain (Personal)](/setts/s11/b63ba21w16ba2w4ba4w12y6w16ba4k21~b5c8ca8-ba780078-k101010-we0e0e0-yd87c00~x2/)|
+|![Xain (Personal) example sett](/setts/s11/b63ba21w16ba2w4ba4w12y6w16ba4k21~b5c8ca8-ba780078-k101010-we0e0e0-yd87c00~x2/sett.png)|

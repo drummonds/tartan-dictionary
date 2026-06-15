@@ -6,7 +6,7 @@ KBRBRBKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k42b16r8b4r4b46k8w4-b2c2c80-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k21b8r4b2r2b23k4w2~b2c2c80-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRBRBKW
 
 | Tartans |
 |---------------|
-| [Murdoch Clebration (Personal)](/setts/s8/k42b16r8b4r4b46k8w4-b2c2c80-k101010-rc80000-we0e0e0/)|
-|![Murdoch Clebration (Personal) example sett](/setts/s8/k42b16r8b4r4b46k8w4-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
+| [Murdoch Clebration (Personal)](/setts/s8/k21b8r4b2r2b23k4w2~b2c2c80-k101010-rc80000-we0e0e0~x2/)|
+|![Murdoch Clebration (Personal) example sett](/setts/s8/k21b8r4b2r2b23k4w2~b2c2c80-k101010-rc80000-we0e0e0~x2/sett.png)|

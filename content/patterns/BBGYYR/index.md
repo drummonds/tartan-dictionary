@@ -6,7 +6,7 @@ BBGYYR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r40y20ya15g30b30ba5-b2888c4-ba780078-g006818-rc80000-yd87c00-yae8c000/tartan.png)
+![Woven sample](/setts/s6/r8y4ya3g6b6ba1~b2888c4-ba780078-g006818-rc80000-yd87c00-yae8c000~x5/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGYYR
 
 | Tartans |
 |---------------|
-| [Pride, The Tartan of](/setts/s6/r40y20ya15g30b30ba5-b2888c4-ba780078-g006818-rc80000-yd87c00-yae8c000/)|
-|![Pride, The Tartan of example sett](/setts/s6/r40y20ya15g30b30ba5-b2888c4-ba780078-g006818-rc80000-yd87c00-yae8c000/sett.png)|
+| [Pride, The Tartan of](/setts/s6/r8y4ya3g6b6ba1~b2888c4-ba780078-g006818-rc80000-yd87c00-yae8c000~x5/)|
+|![Pride, The Tartan of example sett](/setts/s6/r8y4ya3g6b6ba1~b2888c4-ba780078-g006818-rc80000-yd87c00-yae8c000~x5/sett.png)|

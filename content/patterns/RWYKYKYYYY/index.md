@@ -16,5 +16,5 @@ RWYKYKYYYY
 
 | Tartans |
 |---------------|
-| [Sutherland of Duffus (Clan)](/setts/s10/r44w6y28k6y28k6y28ya6y28ya6-k101010-rc80000-wa8ace8-ya08858-yae8c000/)|
-|![Sutherland of Duffus (Clan) example sett](/setts/s10/r44w6y28k6y28k6y28ya6y28ya6-k101010-rc80000-wa8ace8-ya08858-yae8c000/sett.png)|
+| [Sutherland of Duffus (Clan)](/setts/s10/r22w3y14k3y14k3y14ya3y14ya3~k101010-rc80000-wa8ace8-ya08858-yae8c000~x2/)|
+|![Sutherland of Duffus (Clan) example sett](/setts/s10/r22w3y14k3y14k3y14ya3y14ya3~k101010-rc80000-wa8ace8-ya08858-yae8c000~x2/sett.png)|

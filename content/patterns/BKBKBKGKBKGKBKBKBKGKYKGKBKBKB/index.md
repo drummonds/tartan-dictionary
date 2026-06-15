@@ -16,5 +16,5 @@ BKBKBKGKBKGKBKBKBKGKYKGKBKBKB
 
 | Tartans |
 |---------------|
-| [Broun Hunting (Personal?)](/setts/s29/b64k12b12k12b12k64g60k4ba12k4g60k64b60k12b12k12b60k64g60k4y12k4g60k64b12k12b12k12b12-b14283c-ba5c8ca8-g006818-k101010-yb8b8b8/)|
-|![Broun Hunting (Personal?) example sett](/setts/s29/b64k12b12k12b12k64g60k4ba12k4g60k64b60k12b12k12b60k64g60k4y12k4g60k64b12k12b12k12b12-b14283c-ba5c8ca8-g006818-k101010-yb8b8b8/sett.png)|
+| [Broun Hunting (Personal?)](/setts/s29/b16k3b3k3b3k16g15k1ba3k1g15k16b15k3b3k3b15k16g15k1y3k1g15k16b3k3b3k3b3~b14283c-ba5c8ca8-g006818-k101010-yb8b8b8~x4/)|
+|![Broun Hunting (Personal?) example sett](/setts/s29/b16k3b3k3b3k16g15k1ba3k1g15k16b15k3b3k3b15k16g15k1y3k1g15k16b3k3b3k3b3~b14283c-ba5c8ca8-g006818-k101010-yb8b8b8~x4/sett.png)|

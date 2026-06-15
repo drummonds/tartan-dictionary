@@ -6,7 +6,7 @@ GGGGGGG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4ga32g32ga4g32ga32g4-g604000-ga006818/tartan.png)
+![Woven sample](/setts/s7/g1ga8g8ga1g8ga8g1~g604000-ga006818~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGGGGG
 
 | Tartans |
 |---------------|
-| [MacKinnon Htg (Clan)](/setts/s7/g4ga32g32ga4g32ga32g4-g604000-ga006818/)|
-|![MacKinnon Htg (Clan) example sett](/setts/s7/g4ga32g32ga4g32ga32g4-g604000-ga006818/sett.png)|
+| [MacKinnon Htg (Clan)](/setts/s7/g1ga8g8ga1g8ga8g1~g604000-ga006818~x4/)|
+|![MacKinnon Htg (Clan) example sett](/setts/s7/g1ga8g8ga1g8ga8g1~g604000-ga006818~x4/sett.png)|

@@ -6,7 +6,7 @@ BGGYG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b64g32ga6y8gb56-b1474b4-g604000-ga006818-gb003820-yd87c00/tartan.png)
+![Woven sample](/setts/s5/b32g16ga3y4gb28~b1474b4-g604000-ga006818-gb003820-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGYG
 
 | Tartans |
 |---------------|
-| [Corey (Name)](/setts/s5/b64g32ga6y8gb56-b1474b4-g604000-ga006818-gb003820-yd87c00/)|
-|![Corey (Name) example sett](/setts/s5/b64g32ga6y8gb56-b1474b4-g604000-ga006818-gb003820-yd87c00/sett.png)|
+| [Corey (Name)](/setts/s5/b32g16ga3y4gb28~b1474b4-g604000-ga006818-gb003820-yd87c00~x2/)|
+|![Corey (Name) example sett](/setts/s5/b32g16ga3y4gb28~b1474b4-g604000-ga006818-gb003820-yd87c00~x2/sett.png)|

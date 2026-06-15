@@ -6,7 +6,7 @@ KYKRKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8y64k32r6k32y8-k101010-re87878-yfccc00/tartan.png)
+![Woven sample](/setts/s6/k4y32k16r3k16y4~k101010-re87878-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKRKY
 
 | Tartans |
 |---------------|
-| [Unnamed C21st - Fashion](/setts/s6/k8y64k32r6k32y8-k101010-re87878-yfccc00/)|
-|![Unnamed C21st - Fashion example sett](/setts/s6/k8y64k32r6k32y8-k101010-re87878-yfccc00/sett.png)|
+| [Unnamed C21st - Fashion](/setts/s6/k4y32k16r3k16y4~k101010-re87878-yfccc00~x2/)|
+|![Unnamed C21st - Fashion example sett](/setts/s6/k4y32k16r3k16y4~k101010-re87878-yfccc00~x2/sett.png)|

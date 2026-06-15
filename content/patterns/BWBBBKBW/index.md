@@ -6,7 +6,7 @@ BWBBBKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b4w4b86ba10bb8k16bb4w4-b003c64-ba1474b4-bb202060-k000000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/b2w2b43ba5bb4k8bb2w2~b003c64-ba1474b4-bb202060-k000000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBBBKBW
 
 | Tartans |
 |---------------|
-| [Fife Flyers](/setts/s8/b4w4b86ba10bb8k16bb4w4-b003c64-ba1474b4-bb202060-k000000-wfcfcfc/)|
-|![Fife Flyers example sett](/setts/s8/b4w4b86ba10bb8k16bb4w4-b003c64-ba1474b4-bb202060-k000000-wfcfcfc/sett.png)|
+| [Fife Flyers](/setts/s8/b2w2b43ba5bb4k8bb2w2~b003c64-ba1474b4-bb202060-k000000-wfcfcfc~x2/)|
+|![Fife Flyers example sett](/setts/s8/b2w2b43ba5bb4k8bb2w2~b003c64-ba1474b4-bb202060-k000000-wfcfcfc~x2/sett.png)|

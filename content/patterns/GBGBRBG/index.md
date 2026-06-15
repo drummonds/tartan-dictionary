@@ -6,7 +6,7 @@ GBGBRBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g50b8r48b42ga50b8g6-b2c2c80-g285800-ga604000-rc80000/tartan.png)
+![Woven sample](/setts/s7/g25b4r24b21ga25b4g3~b2c2c80-g285800-ga604000-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBRBG
 
 | Tartans |
 |---------------|
-| [Orban-Prentice (Personal)](/setts/s7/g50b8r48b42ga50b8g6-b2c2c80-g285800-ga604000-rc80000/)|
-|![Orban-Prentice (Personal) example sett](/setts/s7/g50b8r48b42ga50b8g6-b2c2c80-g285800-ga604000-rc80000/sett.png)|
+| [Orban-Prentice (Personal)](/setts/s7/g25b4r24b21ga25b4g3~b2c2c80-g285800-ga604000-rc80000~x2/)|
+|![Orban-Prentice (Personal) example sett](/setts/s7/g25b4r24b21ga25b4g3~b2c2c80-g285800-ga604000-rc80000~x2/sett.png)|

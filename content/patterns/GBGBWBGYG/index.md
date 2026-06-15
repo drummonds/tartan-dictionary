@@ -16,5 +16,5 @@ GBGBWBGYG
 
 | Tartans |
 |---------------|
-| [Bedford Academy](/setts/s9/g16y8g70b4w16b4g8b42g8-b000080-g707070-w86c3e3-yeec327/)|
-|![Bedford Academy example sett](/setts/s9/g16y8g70b4w16b4g8b42g8-b000080-g707070-w86c3e3-yeec327/sett.png)|
+| [Bedford Academy](/setts/s9/g8y4g35b2w8b2g4b21g4~b000080-g707070-w86c3e3-yeec327~x2/)|
+|![Bedford Academy example sett](/setts/s9/g8y4g35b2w8b2g4b21g4~b000080-g707070-w86c3e3-yeec327~x2/sett.png)|

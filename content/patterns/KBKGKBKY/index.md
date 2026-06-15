@@ -6,7 +6,7 @@ KBKGKBKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k20b20k30g80k30b20k20y6-b1474b4-g408060-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k10b10k15g40k15b10k10y3~b1474b4-g408060-k101010-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKGKBKY
 
 | Tartans |
 |---------------|
-| [U.S. Border Patrol](/setts/s8/k20b20k30g80k30b20k20y6-b1474b4-g408060-k101010-ye8c000/)|
-|![U.S. Border Patrol example sett](/setts/s8/k20b20k30g80k30b20k20y6-b1474b4-g408060-k101010-ye8c000/sett.png)|
+| [U.S. Border Patrol](/setts/s8/k10b10k15g40k15b10k10y3~b1474b4-g408060-k101010-ye8c000~x2/)|
+|![U.S. Border Patrol example sett](/setts/s8/k10b10k15g40k15b10k10y3~b1474b4-g408060-k101010-ye8c000~x2/sett.png)|

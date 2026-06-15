@@ -16,5 +16,5 @@ KBYBKBKYBKW
 
 | Tartans |
 |---------------|
-| [Pride of Scotland Platinum Fashion Tartan Tartan Number: 6850. Earliest known date: 01/01/2006 ONLY FOR DISPLAY PURPOSE. Design owned by McCalls of Aberdeen and woven exclusively by Lochcarron of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k14b4y4b4k26b4k4y4b26k52w4-b5c5c5c-k101010-wc49cd8-yb0b0b0/)|
-|![Pride of Scotland Platinum Fashion Tartan Tartan Number: 6850. Earliest known date: 01/01/2006 ONLY FOR DISPLAY PURPOSE. Design owned by McCalls of Aberdeen and woven exclusively by Lochcarron of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/k14b4y4b4k26b4k4y4b26k52w4-b5c5c5c-k101010-wc49cd8-yb0b0b0/sett.png)|
+| [Pride of Scotland Platinum Fashion Tartan Tartan Number: 6850. Earliest known date: 01/01/2006 ONLY FOR DISPLAY PURPOSE. Design owned by McCalls of Aberdeen and woven exclusively by Lochcarron of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k7b2y2b2k13b2k2y2b13k26w2~b5c5c5c-k101010-wc49cd8-yb0b0b0~x2/)|
+|![Pride of Scotland Platinum Fashion Tartan Tartan Number: 6850. Earliest known date: 01/01/2006 ONLY FOR DISPLAY PURPOSE. Design owned by McCalls of Aberdeen and woven exclusively by Lochcarron of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/k7b2y2b2k13b2k2y2b13k26w2~b5c5c5c-k101010-wc49cd8-yb0b0b0~x2/sett.png)|

@@ -6,7 +6,7 @@ BRWGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b54r18w6g32ra14-b003c96-g525014-rbe7832-ra960028-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b27r9w3g16ra7~b003c96-g525014-rbe7832-ra960028-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWGR
 
 | Tartans |
 |---------------|
-| [Unidentified (Sock Tie)](/setts/s5/b54r18w6g32ra14-b003c96-g525014-rbe7832-ra960028-we0e0e0/)|
-|![Unidentified (Sock Tie) example sett](/setts/s5/b54r18w6g32ra14-b003c96-g525014-rbe7832-ra960028-we0e0e0/sett.png)|
+| [Unidentified (Sock Tie)](/setts/s5/b27r9w3g16ra7~b003c96-g525014-rbe7832-ra960028-we0e0e0~x2/)|
+|![Unidentified (Sock Tie) example sett](/setts/s5/b27r9w3g16ra7~b003c96-g525014-rbe7832-ra960028-we0e0e0~x2/sett.png)|

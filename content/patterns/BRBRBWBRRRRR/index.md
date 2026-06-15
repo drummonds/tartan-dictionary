@@ -16,5 +16,5 @@ BRBRBWBRRRRR
 
 | Tartans |
 |---------------|
-| [Shieldhall (Fashion)](/setts/s12/b48r4b8r4b8w8b12ra36r4ra8r4ra12-b4c3428-rc80000-ra888888-wc0c0c0/)|
-|![Shieldhall (Fashion) example sett](/setts/s12/b48r4b8r4b8w8b12ra36r4ra8r4ra12-b4c3428-rc80000-ra888888-wc0c0c0/sett.png)|
+| [Shieldhall (Fashion)](/setts/s12/b12r1b2r1b2w2b3ra9r1ra2r1ra3~b4c3428-rc80000-ra888888-wc0c0c0~x4/)|
+|![Shieldhall (Fashion) example sett](/setts/s12/b12r1b2r1b2w2b3ra9r1ra2r1ra3~b4c3428-rc80000-ra888888-wc0c0c0~x4/sett.png)|

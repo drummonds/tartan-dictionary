@@ -6,7 +6,7 @@ WRWWY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w130r54wa4w8y10-rc80000-wc0c0c0-wafcfcfc-ye8c000/tartan.png)
+![Woven sample](/setts/s5/w65r27wa2w4y5~rc80000-wc0c0c0-wafcfcfc-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRWWY
 
 | Tartans |
 |---------------|
-| [Perry Arisaid (Personal)](/setts/s5/w130r54wa4w8y10-rc80000-wc0c0c0-wafcfcfc-ye8c000/)|
-|![Perry Arisaid (Personal) example sett](/setts/s5/w130r54wa4w8y10-rc80000-wc0c0c0-wafcfcfc-ye8c000/sett.png)|
+| [Perry Arisaid (Personal)](/setts/s5/w65r27wa2w4y5~rc80000-wc0c0c0-wafcfcfc-ye8c000~x2/)|
+|![Perry Arisaid (Personal) example sett](/setts/s5/w65r27wa2w4y5~rc80000-wc0c0c0-wafcfcfc-ye8c000~x2/sett.png)|

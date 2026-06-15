@@ -16,5 +16,5 @@ GWGBGBGWRBW
 
 | Tartans |
 |---------------|
-| [Portosalvo](/setts/s11/g10w2g64b2g16b18g4w4r6b6w2-b27408b-g1da237-rcc1100-wffffff/)|
-|![Portosalvo example sett](/setts/s11/g10w2g64b2g16b18g4w4r6b6w2-b27408b-g1da237-rcc1100-wffffff/sett.png)|
+| [Portosalvo](/setts/s11/g5w1g32b1g8b9g2w2r3b3w1~b27408b-g1da237-rcc1100-wffffff~x2/)|
+|![Portosalvo example sett](/setts/s11/g5w1g32b1g8b9g2w2r3b3w1~b27408b-g1da237-rcc1100-wffffff~x2/sett.png)|

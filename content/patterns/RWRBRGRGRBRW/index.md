@@ -16,5 +16,5 @@ RWRBRGRGRBRW
 
 | Tartans |
 |---------------|
-| [MacQuarrie SM](/setts/s12/r2w2r12b6r2g12r2g12r12b2r2w2-b000064-g004c00-rc80000-wd0d0d0/)|
-|![MacQuarrie SM example sett](/setts/s12/r2w2r12b6r2g12r2g12r12b2r2w2-b000064-g004c00-rc80000-wd0d0d0/sett.png)|
+| [MacQuarrie SM](/setts/s12/r1w1r6b3r1g6r1g6r6b1r1w1~b000064-g004c00-rc80000-wd0d0d0~x2/)|
+|![MacQuarrie SM example sett](/setts/s12/r1w1r6b3r1g6r1g6r6b1r1w1~b000064-g004c00-rc80000-wd0d0d0~x2/sett.png)|

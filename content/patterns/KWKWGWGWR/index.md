@@ -16,7 +16,7 @@ KWKWGWGWR
 
 | Tartans |
 |---------------|
-| [Puffin (Personal)](/setts/s9/k16w4k4w36g4w4g4w4r16-g006818-k101010-r946400-wfcfcfc/)|
-|![Puffin (Personal) example sett](/setts/s9/k16w4k4w36g4w4g4w4r16-g006818-k101010-r946400-wfcfcfc/sett.png)|
-| [Puffin](/setts/s9/k12w4k4w24g4w4g4w4r12-g008000-k000000-r806050-we0e0e0/)|
-|![Puffin example sett](/setts/s9/k12w4k4w24g4w4g4w4r12-g008000-k000000-r806050-we0e0e0/sett.png)|
+| [Puffin (Personal)](/setts/s9/k4w1k1w9g1w1g1w1r4~g006818-k101010-r946400-wfcfcfc~x4/)|
+|![Puffin (Personal) example sett](/setts/s9/k4w1k1w9g1w1g1w1r4~g006818-k101010-r946400-wfcfcfc~x4/sett.png)|
+| [Puffin](/setts/s9/k3w1k1w6g1w1g1w1r3~g008000-k000000-r806050-we0e0e0~x4/)|
+|![Puffin example sett](/setts/s9/k3w1k1w6g1w1g1w1r3~g008000-k000000-r806050-we0e0e0~x4/sett.png)|

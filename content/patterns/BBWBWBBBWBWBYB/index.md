@@ -16,5 +16,5 @@ BBWBWBBBWBWBYB
 
 | Tartans |
 |---------------|
-| [Worsoff (Personal)](/setts/s14/b64ba2w4b2w4ba2b64ba2w4ba2w4ba2y10ba2-b4c50ac-ba1c1c50-we0e0e0-ye8c000/)|
-|![Worsoff (Personal) example sett](/setts/s14/b64ba2w4b2w4ba2b64ba2w4ba2w4ba2y10ba2-b4c50ac-ba1c1c50-we0e0e0-ye8c000/sett.png)|
+| [Worsoff (Personal)](/setts/s14/b32ba1w2b1w2ba1b32ba1w2ba1w2ba1y5ba1~b4c50ac-ba1c1c50-we0e0e0-ye8c000~x2/)|
+|![Worsoff (Personal) example sett](/setts/s14/b32ba1w2b1w2ba1b32ba1w2ba1w2ba1y5ba1~b4c50ac-ba1c1c50-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ RYRYRYRYYY
 
 | Tartans |
 |---------------|
-| [Golden Heather, The](/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/)|
-|![Golden Heather, The example sett](/setts/s10/r4y40ra4y4r6ya6r6yb12yc48y4-ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00/sett.png)|
+| [Golden Heather, The](/setts/s10/r2y20ra2y2r3ya3r3yb6yc24y2~ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00~x2/)|
+|![Golden Heather, The example sett](/setts/s10/r2y20ra2y2r3ya3r3yb6yc24y2~ra00000-rab84c00-yc8bc94-yaf47420-ybcc8024-ycd87c00~x2/sett.png)|

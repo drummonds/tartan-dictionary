@@ -16,5 +16,5 @@ BBBWBBBWBGGR
 
 | Tartans |
 |---------------|
-| [Patterson, William John Magee (Personal)](/setts/s12/b18ba6b4w4b18ba12b6w6b6g36ga16r4-b141c50-ba50686c-g507c40-ga004830-rc80000-wc8c8c8/)|
-|![Patterson, William John Magee (Personal) example sett](/setts/s12/b18ba6b4w4b18ba12b6w6b6g36ga16r4-b141c50-ba50686c-g507c40-ga004830-rc80000-wc8c8c8/sett.png)|
+| [Patterson, William John Magee (Personal)](/setts/s12/b9ba3b2w2b9ba6b3w3b3g18ga8r2~b141c50-ba50686c-g507c40-ga004830-rc80000-wc8c8c8~x2/)|
+|![Patterson, William John Magee (Personal) example sett](/setts/s12/b9ba3b2w2b9ba6b3w3b3g18ga8r2~b141c50-ba50686c-g507c40-ga004830-rc80000-wc8c8c8~x2/sett.png)|

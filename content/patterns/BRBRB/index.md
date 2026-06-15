@@ -6,7 +6,7 @@ BRBRB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b32r4b20r28ba10-b5c5c5c-ba5c8ca8-r880000/tartan.png)
+![Woven sample](/setts/s5/b16r2b10r14ba5~b5c5c5c-ba5c8ca8-r880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRB
 
 | Tartans |
 |---------------|
-| [Mowbray (Personal)](/setts/s5/b32r4b20r28ba10-b5c5c5c-ba5c8ca8-r880000/)|
-|![Mowbray (Personal) example sett](/setts/s5/b32r4b20r28ba10-b5c5c5c-ba5c8ca8-r880000/sett.png)|
+| [Mowbray (Personal)](/setts/s5/b16r2b10r14ba5~b5c5c5c-ba5c8ca8-r880000~x2/)|
+|![Mowbray (Personal) example sett](/setts/s5/b16r2b10r14ba5~b5c5c5c-ba5c8ca8-r880000~x2/sett.png)|

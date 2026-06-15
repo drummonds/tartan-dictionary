@@ -6,7 +6,7 @@ BBWRY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b120ba36w4r20y4-b405064-ba441800-r880000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b30ba9w1r5y1~b405064-ba441800-r880000-we0e0e0-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWRY
 
 | Tartans |
 |---------------|
-| [Dunning Primary (School)](/setts/s5/b120ba36w4r20y4-b405064-ba441800-r880000-we0e0e0-ye8c000/)|
-|![Dunning Primary (School) example sett](/setts/s5/b120ba36w4r20y4-b405064-ba441800-r880000-we0e0e0-ye8c000/sett.png)|
+| [Dunning Primary (School)](/setts/s5/b30ba9w1r5y1~b405064-ba441800-r880000-we0e0e0-ye8c000~x4/)|
+|![Dunning Primary (School) example sett](/setts/s5/b30ba9w1r5y1~b405064-ba441800-r880000-we0e0e0-ye8c000~x4/sett.png)|

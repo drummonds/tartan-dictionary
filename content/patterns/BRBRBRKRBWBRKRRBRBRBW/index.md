@@ -16,5 +16,5 @@ BRBRBRKRBWBRKRRBRBRBW
 
 | Tartans |
 |---------------|
-| [Rankin Grey (Personal)](/setts/s21/b28r2b2r2b2r18k12ra2b10w2b10ra2k12r18ra2b10ra4b4ra2b4w2-b5c5c5c-k101010-r888888-rac80000-wfcfcfc/)|
-|![Rankin Grey (Personal) example sett](/setts/s21/b28r2b2r2b2r18k12ra2b10w2b10ra2k12r18ra2b10ra4b4ra2b4w2-b5c5c5c-k101010-r888888-rac80000-wfcfcfc/sett.png)|
+| [Rankin Grey (Personal)](/setts/s21/b14r1b1r1b1r9k6ra1b5w1b5ra1k6r9ra1b5ra2b2ra1b2w1~b5c5c5c-k101010-r888888-rac80000-wfcfcfc~x2/)|
+|![Rankin Grey (Personal) example sett](/setts/s21/b14r1b1r1b1r9k6ra1b5w1b5ra1k6r9ra1b5ra2b2ra1b2w1~b5c5c5c-k101010-r888888-rac80000-wfcfcfc~x2/sett.png)|

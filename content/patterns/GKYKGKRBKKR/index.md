@@ -16,5 +16,5 @@ GKYKGKRBKKR
 
 | Tartans |
 |---------------|
-| [Marsa Scout Group](/setts/s11/g8k2y4k2g16k88r4b16k2k2r8-b2c2c80-g006818-k101010-rc80000-yfccc00/)|
-|![Marsa Scout Group example sett](/setts/s11/g8k2y4k2g16k88r4b16k2k2r8-b2c2c80-g006818-k101010-rc80000-yfccc00/sett.png)|
+| [Marsa Scout Group](/setts/s11/g4k1y2k1g8k44r2b8k1k1r4~b2c2c80-g006818-k101010-rc80000-yfccc00~x2/)|
+|![Marsa Scout Group example sett](/setts/s11/g4k1y2k1g8k44r2b8k1k1r4~b2c2c80-g006818-k101010-rc80000-yfccc00~x2/sett.png)|

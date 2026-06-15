@@ -6,7 +6,7 @@ WRKGGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w6r44k36g20ga12y6-g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/w3r22k18g10ga6y3~g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRKGGY
 
 | Tartans |
 |---------------|
-| [Tyrolean (Fashion?)](/setts/s6/w6r44k36g20ga12y6-g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Tyrolean (Fashion?) example sett](/setts/s6/w6r44k36g20ga12y6-g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Tyrolean (Fashion?)](/setts/s6/w3r22k18g10ga6y3~g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Tyrolean (Fashion?) example sett](/setts/s6/w3r22k18g10ga6y3~g006818-ga604000-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

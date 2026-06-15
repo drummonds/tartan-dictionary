@@ -16,5 +16,5 @@ GGGGGGGGGR
 
 | Tartans |
 |---------------|
-| [Connacht](/setts/s10/r64g4ga1g4ga1g4ga64gb2ga2gb8-g005020-ga503c14-gb2a2303-rc87814/)|
-|![Connacht example sett](/setts/s10/r64g4ga1g4ga1g4ga64gb2ga2gb8-g005020-ga503c14-gb2a2303-rc87814/sett.png)|
+| [Connacht](/setts/s10/r64g4ga1g4ga1g4ga64gb2ga2gb8~g005020-ga503c14-gb2a2303-rc87814/)|
+|![Connacht example sett](/setts/s10/r64g4ga1g4ga1g4ga64gb2ga2gb8~g005020-ga503c14-gb2a2303-rc87814/sett.png)|

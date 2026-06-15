@@ -6,7 +6,7 @@ BYWRGBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/tartan.png)
+![Woven sample](/setts/s7/b2y10w1r8g7ba10w2~b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYWRGBW
 
 | Tartans |
 |---------------|
-| [Kipp (Personal)](/setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/)|
-|![Kipp (Personal) example sett](/setts/s7/b4y20w2r16g14ba20w4-b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800/sett.png)|
+| [Kipp (Personal)](/setts/s7/b2y10w1r8g7ba10w2~b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800~x2/)|
+|![Kipp (Personal) example sett](/setts/s7/b2y10w1r8g7ba10w2~b1c0070-ba4c0000-g006818-rb84c00-wc0c0c0-yd09800~x2/sett.png)|

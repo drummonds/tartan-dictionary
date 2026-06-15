@@ -16,5 +16,5 @@ KGKBBKBKBY
 
 | Tartans |
 |---------------|
-| [Dinwiddie Hunting](/setts/s10/y12b6k6b72k20ba36b12k4g8k6-b0000cd-ba666666-g008b00-k101010-yffe600/)|
-|![Dinwiddie Hunting example sett](/setts/s10/y12b6k6b72k20ba36b12k4g8k6-b0000cd-ba666666-g008b00-k101010-yffe600/sett.png)|
+| [Dinwiddie Hunting](/setts/s10/y6b3k3b36k10ba18b6k2g4k3~b0000cd-ba666666-g008b00-k101010-yffe600~x2/)|
+|![Dinwiddie Hunting example sett](/setts/s10/y6b3k3b36k10ba18b6k2g4k3~b0000cd-ba666666-g008b00-k101010-yffe600~x2/sett.png)|

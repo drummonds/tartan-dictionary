@@ -6,7 +6,7 @@ RWKGWKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4w16k28g50w4k4w4-g604000-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/r2w8k14g25w2k2w2~g604000-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKGWKW
 
 | Tartans |
 |---------------|
-| [Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4w16k28g50w4k4w4-g604000-k101010-rc80000-we0e0e0/)|
-|![Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r4w16k28g50w4k4w4-g604000-k101010-rc80000-we0e0e0/sett.png)|
+| [Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r2w8k14g25w2k2w2~g604000-k101010-rc80000-we0e0e0~x2/)|
+|![Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r2w8k14g25w2k2w2~g604000-k101010-rc80000-we0e0e0~x2/sett.png)|

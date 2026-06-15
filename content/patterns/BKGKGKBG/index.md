@@ -6,7 +6,7 @@ BKGKGKBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b24k32g28k10g28k32b24g8-b2c2c80-g006818-k000000/tartan.png)
+![Woven sample](/setts/s8/b12k16g14k5g14k16b12g4~b2c2c80-g006818-k000000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGKGKBG
 
 | Tartans |
 |---------------|
-| [Norwich No.064](/setts/s8/b24k32g28k10g28k32b24g8-b2c2c80-g006818-k000000/)|
-|![Norwich No.064 example sett](/setts/s8/b24k32g28k10g28k32b24g8-b2c2c80-g006818-k000000/sett.png)|
+| [Norwich No.064](/setts/s8/b12k16g14k5g14k16b12g4~b2c2c80-g006818-k000000~x2/)|
+|![Norwich No.064 example sett](/setts/s8/b12k16g14k5g14k16b12g4~b2c2c80-g006818-k000000~x2/sett.png)|

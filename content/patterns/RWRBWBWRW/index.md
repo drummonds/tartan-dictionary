@@ -16,5 +16,5 @@ RWRBWBWRW
 
 | Tartans |
 |---------------|
-| [Dogrobes](/setts/s9/r6w4r18b30w4b30wa18r4wa6-b1c1c1c-rdc0000-wffffff-wac0c0c0/)|
-|![Dogrobes example sett](/setts/s9/r6w4r18b30w4b30wa18r4wa6-b1c1c1c-rdc0000-wffffff-wac0c0c0/sett.png)|
+| [Dogrobes](/setts/s9/r3w2r9b15w2b15wa9r2wa3~b1c1c1c-rdc0000-wffffff-wac0c0c0~x2/)|
+|![Dogrobes example sett](/setts/s9/r3w2r9b15w2b15wa9r2wa3~b1c1c1c-rdc0000-wffffff-wac0c0c0~x2/sett.png)|

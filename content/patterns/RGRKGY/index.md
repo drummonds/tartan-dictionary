@@ -6,7 +6,7 @@ RGRKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r8g8ra36k36ga8y8-g003c14-ga289c18-k101010-r888888-rac80000-yffe600/tartan.png)
+![Woven sample](/setts/s6/r2g2ra9k9ga2y2~g003c14-ga289c18-k101010-r888888-rac80000-yffe600~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGRKGY
 
 | Tartans |
 |---------------|
-| [Wolves Wod Kindred](/setts/s6/r8g8ra36k36ga8y8-g003c14-ga289c18-k101010-r888888-rac80000-yffe600/)|
-|![Wolves Wod Kindred example sett](/setts/s6/r8g8ra36k36ga8y8-g003c14-ga289c18-k101010-r888888-rac80000-yffe600/sett.png)|
+| [Wolves Wod Kindred](/setts/s6/r2g2ra9k9ga2y2~g003c14-ga289c18-k101010-r888888-rac80000-yffe600~x4/)|
+|![Wolves Wod Kindred example sett](/setts/s6/r2g2ra9k9ga2y2~g003c14-ga289c18-k101010-r888888-rac80000-yffe600~x4/sett.png)|

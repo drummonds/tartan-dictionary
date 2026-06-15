@@ -16,7 +16,7 @@ YRGRGRGRGRY
 
 | Tartans |
 |---------------|
-| [Bruce](/setts/s11/y2r16g4r4g12r2g12r4g4r16ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/)|
-|![Bruce example sett](/setts/s11/y2r16g4r4g12r2g12r4g4r16ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/sett.png)|
-| [Bruce](/setts/s11/y2r8g2r2g6r2g6r2g2r8ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/)|
-|![Bruce example sett](/setts/s11/y2r8g2r2g6r2g6r2g2r8ya2-g11450d-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [Bruce](/setts/s11/y1r8g2r2g6r1g6r2g2r8ya1~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![Bruce example sett](/setts/s11/y1r8g2r2g6r1g6r2g2r8ya1~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|
+| [Bruce](/setts/s11/y1r4g1r1g3r1g3r1g1r4ya1~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![Bruce example sett](/setts/s11/y1r4g1r1g3r1g3r1g1r4ya1~g11450d-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|

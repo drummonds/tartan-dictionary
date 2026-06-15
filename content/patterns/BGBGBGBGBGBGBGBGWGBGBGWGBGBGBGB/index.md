@@ -16,7 +16,7 @@ BGBGBGBGBGBGBGBGWGBGBGWGBGBGBGB
 
 | Tartans |
 |---------------|
-| [MacRae (MacCrae)](/setts/s31/b50g12b50g52b10g14b10g52w6g14b58g12b58g14w6g52b4g4b8g4b4g52b4g4b8g4b4g52b50g12b50-b5a008c-g005020-we0e0e0/)|
-|![MacRae (MacCrae) example sett](/setts/s31/b50g12b50g52b10g14b10g52w6g14b58g12b58g14w6g52b4g4b8g4b4g52b4g4b8g4b4g52b50g12b50-b5a008c-g005020-we0e0e0/sett.png)|
-| [MacRae, (MacCrae)](/setts/s31/b50g12b50g52b10g14b10g52w6g14b58g12b58g14w6g52b4g4b8g4b4g52b4g4b8g4b4g52b50g12b50-b800080-g008000-we0e0e0/)|
-|![MacRae, (MacCrae) example sett](/setts/s31/b50g12b50g52b10g14b10g52w6g14b58g12b58g14w6g52b4g4b8g4b4g52b4g4b8g4b4g52b50g12b50-b800080-g008000-we0e0e0/sett.png)|
+| [MacRae (MacCrae)](/setts/s31/b25g6b25g26b5g7b5g26w3g7b29g6b29g7w3g26b2g2b4g2b2g26b2g2b4g2b2g26b25g6b25~b5a008c-g005020-we0e0e0~x2/)|
+|![MacRae (MacCrae) example sett](/setts/s31/b25g6b25g26b5g7b5g26w3g7b29g6b29g7w3g26b2g2b4g2b2g26b2g2b4g2b2g26b25g6b25~b5a008c-g005020-we0e0e0~x2/sett.png)|
+| [MacRae, (MacCrae)](/setts/s31/b25g6b25g26b5g7b5g26w3g7b29g6b29g7w3g26b2g2b4g2b2g26b2g2b4g2b2g26b25g6b25~b800080-g008000-we0e0e0~x2/)|
+|![MacRae, (MacCrae) example sett](/setts/s31/b25g6b25g26b5g7b5g26w3g7b29g6b29g7w3g26b2g2b4g2b2g26b2g2b4g2b2g26b25g6b25~b800080-g008000-we0e0e0~x2/sett.png)|

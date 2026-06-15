@@ -16,5 +16,5 @@ GKBKBKGRGKYKGRGKBKBKGR
 
 | Tartans |
 |---------------|
-| [Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s22/g24k24b30k4b30k24g10r4g10k2y6k2g10r4g10k24b30k4b30k24g24r4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s22/g24k24b30k4b30k24g10r4g10k2y6k2g10r4g10k24b30k4b30k24g24r4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s22/g12k12b15k2b15k12g5r2g5k1y3k1g5r2g5k12b15k2b15k12g12r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s22/g12k12b15k2b15k12g5r2g5k1y3k1g5r2g5k12b15k2b15k12g12r2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

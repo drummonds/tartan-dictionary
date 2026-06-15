@@ -6,7 +6,7 @@ KYRYR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r36y6r36y60k8-k101010-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s5/r18y3r18y30k4~k101010-rff0000-yffe600~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KYRYR
 
 | Tartans |
 |---------------|
-| [Shire of Hornwood (USA)](/setts/s5/r36y6r36y60k8-k101010-rff0000-yffe600/)|
-|![Shire of Hornwood (USA) example sett](/setts/s5/r36y6r36y60k8-k101010-rff0000-yffe600/sett.png)|
-| [Shire of Hornwood (Corporate)](/setts/s5/r36y6r36y60k8-k101010-rc80000-yfccc00/)|
-|![Shire of Hornwood (Corporate) example sett](/setts/s5/r36y6r36y60k8-k101010-rc80000-yfccc00/sett.png)|
+| [Shire of Hornwood (USA)](/setts/s5/r18y3r18y30k4~k101010-rff0000-yffe600~x2/)|
+|![Shire of Hornwood (USA) example sett](/setts/s5/r18y3r18y30k4~k101010-rff0000-yffe600~x2/sett.png)|
+| [Shire of Hornwood (Corporate)](/setts/s5/r18y3r18y30k4~k101010-rc80000-yfccc00~x2/)|
+|![Shire of Hornwood (Corporate) example sett](/setts/s5/r18y3r18y30k4~k101010-rc80000-yfccc00~x2/sett.png)|

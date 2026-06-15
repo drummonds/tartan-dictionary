@@ -6,7 +6,7 @@ YGKRKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/tartan.png)
+![Woven sample](/setts/s6/y6g36k48r4k5ya6~g68381c-k101010-rc80000-ya08858-yabc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YGKRKY
 
 | Tartans |
 |---------------|
-| [Drambuie Hunting](/setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/)|
-|![Drambuie Hunting example sett](/setts/s6/y6g36k48r4k5ya6-g68381c-k101010-rc80000-ya08858-yabc8c00/sett.png)|
+| [Drambuie Hunting](/setts/s6/y6g36k48r4k5ya6~g68381c-k101010-rc80000-ya08858-yabc8c00/)|
+|![Drambuie Hunting example sett](/setts/s6/y6g36k48r4k5ya6~g68381c-k101010-rc80000-ya08858-yabc8c00/sett.png)|

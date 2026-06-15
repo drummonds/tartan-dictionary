@@ -16,5 +16,5 @@ KRKRGRGRGRW
 
 | Tartans |
 |---------------|
-| [North Berwick Pipe Band (Dancing)](/setts/s11/k20r4k20r20g4r4g4r4g20r2w4-g003000-k000030-rc00000-we0e0e0/)|
-|![North Berwick Pipe Band (Dancing) example sett](/setts/s11/k20r4k20r20g4r4g4r4g20r2w4-g003000-k000030-rc00000-we0e0e0/sett.png)|
+| [North Berwick Pipe Band (Dancing)](/setts/s11/k10r2k10r10g2r2g2r2g10r1w2~g003000-k000030-rc00000-we0e0e0~x2/)|
+|![North Berwick Pipe Band (Dancing) example sett](/setts/s11/k10r2k10r10g2r2g2r2g10r1w2~g003000-k000030-rc00000-we0e0e0~x2/sett.png)|

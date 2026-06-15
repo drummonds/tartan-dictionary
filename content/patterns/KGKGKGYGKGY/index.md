@@ -16,5 +16,5 @@ KGKGKGYGKGY
 
 | Tartans |
 |---------------|
-| [American Monahan (Personal)](/setts/s11/k26g6k8g6k6g38y2g38k6g4y8-g006818-k101010-ybc8c00/)|
-|![American Monahan (Personal) example sett](/setts/s11/k26g6k8g6k6g38y2g38k6g4y8-g006818-k101010-ybc8c00/sett.png)|
+| [American Monahan (Personal)](/setts/s11/k13g3k4g3k3g19y1g19k3g2y4~g006818-k101010-ybc8c00~x2/)|
+|![American Monahan (Personal) example sett](/setts/s11/k13g3k4g3k3g19y1g19k3g2y4~g006818-k101010-ybc8c00~x2/sett.png)|

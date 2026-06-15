@@ -16,5 +16,5 @@ GBKBKBKBWBGBWGWKWGWBGBWBKBKBKBGR
 
 | Tartans |
 |---------------|
-| [Kennedy Dress](/setts/s32/g24b6k4b6k4b6k4b6w24ba4g4ba4w8ga4w8k4w8ga4w8ba4g4ba4w24b6k4b6k4b6k4b6g24r6-b1474b4-ba6c0070-g006818-ga289c18-k101010-rc80000-wfcfcfc/)|
-|![Kennedy Dress example sett](/setts/s32/g24b6k4b6k4b6k4b6w24ba4g4ba4w8ga4w8k4w8ga4w8ba4g4ba4w24b6k4b6k4b6k4b6g24r6-b1474b4-ba6c0070-g006818-ga289c18-k101010-rc80000-wfcfcfc/sett.png)|
+| [Kennedy Dress](/setts/s32/g12b3k2b3k2b3k2b3w12ba2g2ba2w4ga2w4k2w4ga2w4ba2g2ba2w12b3k2b3k2b3k2b3g12r3~b1474b4-ba6c0070-g006818-ga289c18-k101010-rc80000-wfcfcfc~x2/)|
+|![Kennedy Dress example sett](/setts/s32/g12b3k2b3k2b3k2b3w12ba2g2ba2w4ga2w4k2w4ga2w4ba2g2ba2w12b3k2b3k2b3k2b3g12r3~b1474b4-ba6c0070-g006818-ga289c18-k101010-rc80000-wfcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ WBKBKGKBY
 
 | Tartans |
 |---------------|
-| [Bro-Kerne](/setts/s9/w6b2k28b4k2g12k2b60y6-b34445c-g587c40-k101010-wf8f8f8-ybc8c00/)|
-|![Bro-Kerne example sett](/setts/s9/w6b2k28b4k2g12k2b60y6-b34445c-g587c40-k101010-wf8f8f8-ybc8c00/sett.png)|
+| [Bro-Kerne](/setts/s9/w3b1k14b2k1g6k1b30y3~b34445c-g587c40-k101010-wf8f8f8-ybc8c00~x2/)|
+|![Bro-Kerne example sett](/setts/s9/w3b1k14b2k1g6k1b30y3~b34445c-g587c40-k101010-wf8f8f8-ybc8c00~x2/sett.png)|

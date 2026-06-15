@@ -16,5 +16,5 @@ BRBRBYBWR
 
 | Tartans |
 |---------------|
-| [Glasgow Clyde College](/setts/s9/b96r2ba20r2b20y4ba54w2ra6-b5f749c-ba202060-rff0000-raa00048-wf8f8f8-ya0a0a0/)|
-|![Glasgow Clyde College example sett](/setts/s9/b96r2ba20r2b20y4ba54w2ra6-b5f749c-ba202060-rff0000-raa00048-wf8f8f8-ya0a0a0/sett.png)|
+| [Glasgow Clyde College](/setts/s9/b48r1ba10r1b10y2ba27w1ra3~b5f749c-ba202060-rff0000-raa00048-wf8f8f8-ya0a0a0~x2/)|
+|![Glasgow Clyde College example sett](/setts/s9/b48r1ba10r1b10y2ba27w1ra3~b5f749c-ba202060-rff0000-raa00048-wf8f8f8-ya0a0a0~x2/sett.png)|

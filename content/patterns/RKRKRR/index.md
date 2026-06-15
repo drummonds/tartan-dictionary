@@ -6,7 +6,7 @@ RKRKRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r16k57r36k2r4r2-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/r16k57r36k2r4r2~k101010-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRKRR
 
 | Tartans |
 |---------------|
-| [Rosser (Welsh Name)](/setts/s6/r16k57r36k2r4r2-k101010-rc80000/)|
-|![Rosser (Welsh Name) example sett](/setts/s6/r16k57r36k2r4r2-k101010-rc80000/sett.png)|
+| [Rosser (Welsh Name)](/setts/s6/r16k57r36k2r4r2~k101010-rc80000/)|
+|![Rosser (Welsh Name) example sett](/setts/s6/r16k57r36k2r4r2~k101010-rc80000/sett.png)|

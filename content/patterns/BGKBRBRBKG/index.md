@@ -16,7 +16,7 @@ BGKBRBRBKG
 
 | Tartans |
 |---------------|
-| [Wellington (Wilson)](/setts/s10/g16k18b14r4b4r4b14k18g16ba6-b2c2c80-ba5c8ca8-g285800-k101010-rc80000/)|
-|![Wellington (Wilson) example sett](/setts/s10/g16k18b14r4b4r4b14k18g16ba6-b2c2c80-ba5c8ca8-g285800-k101010-rc80000/sett.png)|
-| [Wellington (Wilson) #2](/setts/s10/g24k28b22r6b6r6b22k28g24b6-b5c8ca8-g006818-k101010-rc80000/)|
-|![Wellington (Wilson) #2 example sett](/setts/s10/g24k28b22r6b6r6b22k28g24b6-b5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Wellington (Wilson)](/setts/s10/g8k9b7r2b2r2b7k9g8ba3~b2c2c80-ba5c8ca8-g285800-k101010-rc80000~x2/)|
+|![Wellington (Wilson) example sett](/setts/s10/g8k9b7r2b2r2b7k9g8ba3~b2c2c80-ba5c8ca8-g285800-k101010-rc80000~x2/sett.png)|
+| [Wellington (Wilson) #2](/setts/s10/g12k14b11r3b3r3b11k14g12b3~b5c8ca8-g006818-k101010-rc80000~x2/)|
+|![Wellington (Wilson) #2 example sett](/setts/s10/g12k14b11r3b3r3b11k14g12b3~b5c8ca8-g006818-k101010-rc80000~x2/sett.png)|

@@ -16,5 +16,5 @@ BYGYWWRWBWBGYGWRWWBWYWWBW
 
 | Tartans |
 |---------------|
-| [Morddyn (Fashion)](/setts/s25/w10b26w12wa2y10w10b48w10wa4r2wa4g18y36g18b4w8b4wa4r6wa4w24y12g48y12b4-b688898-g489454-rc80000-wc4ccd0-wae0e0e0-y58ac80/)|
-|![Morddyn (Fashion) example sett](/setts/s25/w10b26w12wa2y10w10b48w10wa4r2wa4g18y36g18b4w8b4wa4r6wa4w24y12g48y12b4-b688898-g489454-rc80000-wc4ccd0-wae0e0e0-y58ac80/sett.png)|
+| [Morddyn (Fashion)](/setts/s25/w5b13w6wa1y5w5b24w5wa2r1wa2g9y18g9b2w4b2wa2r3wa2w12y6g24y6b2~b688898-g489454-rc80000-wc4ccd0-wae0e0e0-y58ac80~x2/)|
+|![Morddyn (Fashion) example sett](/setts/s25/w5b13w6wa1y5w5b24w5wa2r1wa2g9y18g9b2w4b2wa2r3wa2w12y6g24y6b2~b688898-g489454-rc80000-wc4ccd0-wae0e0e0-y58ac80~x2/sett.png)|

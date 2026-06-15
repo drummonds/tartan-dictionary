@@ -6,7 +6,7 @@ RBRW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r32b42ra64w32-b5d1b36-r6c2012-ra8e1818-wffffff/tartan.png)
+![Woven sample](/setts/s4/r16b21ra32w16~b5d1b36-r6c2012-ra8e1818-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRW
 
 | Tartans |
 |---------------|
-| [Bloomer-Alexander (Personal)](/setts/s4/r32b42ra64w32-b5d1b36-r6c2012-ra8e1818-wffffff/)|
-|![Bloomer-Alexander (Personal) example sett](/setts/s4/r32b42ra64w32-b5d1b36-r6c2012-ra8e1818-wffffff/sett.png)|
+| [Bloomer-Alexander (Personal)](/setts/s4/r16b21ra32w16~b5d1b36-r6c2012-ra8e1818-wffffff~x2/)|
+|![Bloomer-Alexander (Personal) example sett](/setts/s4/r16b21ra32w16~b5d1b36-r6c2012-ra8e1818-wffffff~x2/sett.png)|

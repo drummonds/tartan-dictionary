@@ -16,5 +16,5 @@ BWYWBKWRWRWRWR
 
 | Tartans |
 |---------------|
-| [Letang (Personal)](/setts/s14/b28w4y4w4b50k12wa34r6wa6r6wa6r6wa6r6-b1474b4-k101010-rc80000-w98c8e8-wae0e0e0-yfccc00/)|
-|![Letang (Personal) example sett](/setts/s14/b28w4y4w4b50k12wa34r6wa6r6wa6r6wa6r6-b1474b4-k101010-rc80000-w98c8e8-wae0e0e0-yfccc00/sett.png)|
+| [Letang (Personal)](/setts/s14/b14w2y2w2b25k6wa17r3wa3r3wa3r3wa3r3~b1474b4-k101010-rc80000-w98c8e8-wae0e0e0-yfccc00~x2/)|
+|![Letang (Personal) example sett](/setts/s14/b14w2y2w2b25k6wa17r3wa3r3wa3r3wa3r3~b1474b4-k101010-rc80000-w98c8e8-wae0e0e0-yfccc00~x2/sett.png)|

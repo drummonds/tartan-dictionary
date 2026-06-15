@@ -16,5 +16,5 @@ BKBKBKWKY
 
 | Tartans |
 |---------------|
-| [Nocken Blue Modern Tartan (Personal)](/setts/s9/y6k12w4k12b4k4b64k4ba2-b003152-ba666666-k101010-wffffff-y7a9dc3/)|
-|![Nocken Blue Modern Tartan (Personal) example sett](/setts/s9/y6k12w4k12b4k4b64k4ba2-b003152-ba666666-k101010-wffffff-y7a9dc3/sett.png)|
+| [Nocken Blue Modern Tartan (Personal)](/setts/s9/y3k6w2k6b2k2b32k2ba1~b003152-ba666666-k101010-wffffff-y7a9dc3~x2/)|
+|![Nocken Blue Modern Tartan (Personal) example sett](/setts/s9/y3k6w2k6b2k2b32k2ba1~b003152-ba666666-k101010-wffffff-y7a9dc3~x2/sett.png)|

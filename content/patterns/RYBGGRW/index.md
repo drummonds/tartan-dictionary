@@ -6,7 +6,7 @@ RYBGGRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4y4b18g2ga18r2w2-b2c2c80-g604000-ga003820-rc80000-we0e0e0-yfccc00/tartan.png)
+![Woven sample](/setts/s7/r2y2b9g1ga9r1w1~b2c2c80-g604000-ga003820-rc80000-we0e0e0-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYBGGRW
 
 | Tartans |
 |---------------|
-| [Unidentified (ex Tony Murray)](/setts/s7/r4y4b18g2ga18r2w2-b2c2c80-g604000-ga003820-rc80000-we0e0e0-yfccc00/)|
-|![Unidentified (ex Tony Murray) example sett](/setts/s7/r4y4b18g2ga18r2w2-b2c2c80-g604000-ga003820-rc80000-we0e0e0-yfccc00/sett.png)|
+| [Unidentified (ex Tony Murray)](/setts/s7/r2y2b9g1ga9r1w1~b2c2c80-g604000-ga003820-rc80000-we0e0e0-yfccc00~x2/)|
+|![Unidentified (ex Tony Murray) example sett](/setts/s7/r2y2b9g1ga9r1w1~b2c2c80-g604000-ga003820-rc80000-we0e0e0-yfccc00~x2/sett.png)|

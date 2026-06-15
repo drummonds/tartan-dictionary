@@ -6,7 +6,7 @@ GBGWBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g24b4g28w4b28r4-b3850c8-g408060-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/g6b1g7w1b7r1~b3850c8-g408060-rc80000-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGWBR
 
 | Tartans |
 |---------------|
-| [Norris (1957)](/setts/s6/g24b4g28w4b28r4-b3850c8-g408060-rc80000-wfcfcfc/)|
-|![Norris (1957) example sett](/setts/s6/g24b4g28w4b28r4-b3850c8-g408060-rc80000-wfcfcfc/sett.png)|
+| [Norris (1957)](/setts/s6/g6b1g7w1b7r1~b3850c8-g408060-rc80000-wfcfcfc~x4/)|
+|![Norris (1957) example sett](/setts/s6/g6b1g7w1b7r1~b3850c8-g408060-rc80000-wfcfcfc~x4/sett.png)|

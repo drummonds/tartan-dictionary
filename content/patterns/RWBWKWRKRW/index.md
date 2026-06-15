@@ -16,5 +16,5 @@ RWBWKWRKRW
 
 | Tartans |
 |---------------|
-| [Rothesay, Dress (VS)](/setts/s10/r4w56b8w4k12w4r8k2r4w2-b2c2c80-k101010-rc80000-we0e0e0/)|
-|![Rothesay, Dress (VS) example sett](/setts/s10/r4w56b8w4k12w4r8k2r4w2-b2c2c80-k101010-rc80000-we0e0e0/sett.png)|
+| [Rothesay, Dress (VS)](/setts/s10/r2w28b4w2k6w2r4k1r2w1~b2c2c80-k101010-rc80000-we0e0e0~x2/)|
+|![Rothesay, Dress (VS) example sett](/setts/s10/r2w28b4w2k6w2r4k1r2w1~b2c2c80-k101010-rc80000-we0e0e0~x2/sett.png)|

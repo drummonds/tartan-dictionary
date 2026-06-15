@@ -16,5 +16,5 @@ BYBWBWBWBWBY
 
 | Tartans |
 |---------------|
-| [Scottish Qualifications Authority](/setts/s12/b72y10b16w6b16w20b6w20b16w6b16y10-b202060-wc0c0c0-yd87c00/)|
-|![Scottish Qualifications Authority example sett](/setts/s12/b72y10b16w6b16w20b6w20b16w6b16y10-b202060-wc0c0c0-yd87c00/sett.png)|
+| [Scottish Qualifications Authority](/setts/s12/b36y5b8w3b8w10b3w10b8w3b8y5~b202060-wc0c0c0-yd87c00~x2/)|
+|![Scottish Qualifications Authority example sett](/setts/s12/b36y5b8w3b8w10b3w10b8w3b8y5~b202060-wc0c0c0-yd87c00~x2/sett.png)|

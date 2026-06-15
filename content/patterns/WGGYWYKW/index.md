@@ -6,7 +6,7 @@ WGGYWYKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w6g10ga4y6wa6y10k96wa6-g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858/tartan.png)
+![Woven sample](/setts/s8/w3g5ga2y3wa3y5k48wa3~g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGGYWYKW
 
 | Tartans |
 |---------------|
-| [Pavelka Limited](/setts/s8/w6g10ga4y6wa6y10k96wa6-g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858/)|
-|![Pavelka Limited example sett](/setts/s8/w6g10ga4y6wa6y10k96wa6-g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858/sett.png)|
+| [Pavelka Limited](/setts/s8/w3g5ga2y3wa3y5k48wa3~g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858~x2/)|
+|![Pavelka Limited example sett](/setts/s8/w3g5ga2y3wa3y5k48wa3~g048888-ga00643c-k101010-w00fcfc-waf8f8f8-ya08858~x2/sett.png)|

@@ -16,5 +16,5 @@ RKBKBKBRBRYR
 
 | Tartans |
 |---------------|
-| [Cailean #2 (Fashion)](/setts/s12/r8k24b4k4b4k4b4ra32ba6ra4y4ra8-b00008c-ba4c0c28-k000000-r8c6428-raa0783c-yb0b0b0/)|
-|![Cailean #2 (Fashion) example sett](/setts/s12/r8k24b4k4b4k4b4ra32ba6ra4y4ra8-b00008c-ba4c0c28-k000000-r8c6428-raa0783c-yb0b0b0/sett.png)|
+| [Cailean #2 (Fashion)](/setts/s12/r4k12b2k2b2k2b2ra16ba3ra2y2ra4~b00008c-ba4c0c28-k000000-r8c6428-raa0783c-yb0b0b0~x2/)|
+|![Cailean #2 (Fashion) example sett](/setts/s12/r4k12b2k2b2k2b2ra16ba3ra2y2ra4~b00008c-ba4c0c28-k000000-r8c6428-raa0783c-yb0b0b0~x2/sett.png)|

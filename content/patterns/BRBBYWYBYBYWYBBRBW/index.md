@@ -16,5 +16,5 @@ BRBBYWYBYBYWYBBRBW
 
 | Tartans |
 |---------------|
-| [Gray, Hamilton John](/setts/s18/b12r6b20ba28y12w36y12ba8y4ba8y12w36y12ba28b20r6b12w8-b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00/)|
-|![Gray, Hamilton John example sett](/setts/s18/b12r6b20ba28y12w36y12ba8y4ba8y12w36y12ba28b20r6b12w8-b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00/sett.png)|
+| [Gray, Hamilton John](/setts/s18/b6r3b10ba14y6w18y6ba4y2ba4y6w18y6ba14b10r3b6w4~b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00~x2/)|
+|![Gray, Hamilton John example sett](/setts/s18/b6r3b10ba14y6w18y6ba4y2ba4y6w18y6ba14b10r3b6w4~b1c1c1c-ba0c5880-rc80000-wf8f4d0-ybc8c00~x2/sett.png)|

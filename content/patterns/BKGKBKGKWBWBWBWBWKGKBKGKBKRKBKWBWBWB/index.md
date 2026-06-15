@@ -16,9 +16,9 @@ BKGKBKGKWBWBWBWBWKGKBKGKBKRKBKWBWBWB
 
 | Tartans |
 |---------------|
-| [Campbell of Cawdor Dress](/setts/s36/b20k20g20k2b4k2g20k20w4b4w48b4w4b4w48b4w4k20g20k2b4k2g20k20b20k4r6k4b20k20w4b4w48b4w4b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Campbell of Cawdor Dress example sett](/setts/s36/b20k20g20k2b4k2g20k20w4b4w48b4w4b4w48b4w4k20g20k2b4k2g20k20b20k4r6k4b20k20w4b4w48b4w4b4-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
-| [Campbell of Cawdor, dress](/setts/s36/b20k20g20k2b4k2g20k20w4b4w48b4w4b4w48b4w4k20g20k2b4k2g20k20b20k4r6k4b20k20w4b4w48b4w4b4-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![Campbell of Cawdor, dress example sett](/setts/s36/b20k20g20k2b4k2g20k20w4b4w48b4w4b4w48b4w4k20g20k2b4k2g20k20b20k4r6k4b20k20w4b4w48b4w4b4-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
-| [Campbell of Cawdor Dress Trade Tartan Tartan Number: 1975. Earliest known date: 1985 ....INCOMPLETE.... See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s36/b20k20g20k2b4k2g20k20w4b4w48b4w4b4w48b4w4k20g20k2b4k2g20k20b20k4r6k4b20k20w4b4w48b4w4b4-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Campbell of Cawdor Dress Trade Tartan Tartan Number: 1975. Earliest known date: 1985 ....INCOMPLETE.... See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s36/b20k20g20k2b4k2g20k20w4b4w48b4w4b4w48b4w4k20g20k2b4k2g20k20b20k4r6k4b20k20w4b4w48b4w4b4-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Campbell of Cawdor Dress](/setts/s36/b10k10g10k1b2k1g10k10w2b2w24b2w2b2w24b2w2k10g10k1b2k1g10k10b10k2r3k2b10k10w2b2w24b2w2b2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Campbell of Cawdor Dress example sett](/setts/s36/b10k10g10k1b2k1g10k10w2b2w24b2w2b2w24b2w2k10g10k1b2k1g10k10b10k2r3k2b10k10w2b2w24b2w2b2~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|
+| [Campbell of Cawdor, dress](/setts/s36/b10k10g10k1b2k1g10k10w2b2w24b2w2b2w24b2w2k10g10k1b2k1g10k10b10k2r3k2b10k10w2b2w24b2w2b2~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![Campbell of Cawdor, dress example sett](/setts/s36/b10k10g10k1b2k1g10k10w2b2w24b2w2b2w24b2w2k10g10k1b2k1g10k10b10k2r3k2b10k10w2b2w24b2w2b2~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|
+| [Campbell of Cawdor Dress Trade Tartan Tartan Number: 1975. Earliest known date: 1985 ....INCOMPLETE.... See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s36/b10k10g10k1b2k1g10k10w2b2w24b2w2b2w24b2w2k10g10k1b2k1g10k10b10k2r3k2b10k10w2b2w24b2w2b2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Campbell of Cawdor Dress Trade Tartan Tartan Number: 1975. Earliest known date: 1985 ....INCOMPLETE.... See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s36/b10k10g10k1b2k1g10k10w2b2w24b2w2b2w24b2w2k10g10k1b2k1g10k10b10k2r3k2b10k10w2b2w24b2w2b2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

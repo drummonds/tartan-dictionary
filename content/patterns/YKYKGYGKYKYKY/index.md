@@ -16,5 +16,5 @@ YKYKGYGKYKYKY
 
 | Tartans |
 |---------------|
-| [Poulter, Green (Corporate)](/setts/s13/y50k8y8k8y8k46g46ya8g46k46y46k8y8-g5c6428-k101010-yb8a87c-yae8c000/)|
-|![Poulter, Green (Corporate) example sett](/setts/s13/y50k8y8k8y8k46g46ya8g46k46y46k8y8-g5c6428-k101010-yb8a87c-yae8c000/sett.png)|
+| [Poulter, Green (Corporate)](/setts/s13/y25k4y4k4y4k23g23ya4g23k23y23k4y4~g5c6428-k101010-yb8a87c-yae8c000~x2/)|
+|![Poulter, Green (Corporate) example sett](/setts/s13/y25k4y4k4y4k23g23ya4g23k23y23k4y4~g5c6428-k101010-yb8a87c-yae8c000~x2/sett.png)|

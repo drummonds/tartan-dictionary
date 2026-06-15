@@ -16,5 +16,5 @@ BBYBBBBBWB
 
 | Tartans |
 |---------------|
-| [Serenade (Fashion)](/setts/s10/b12ba24y6ba24bb12b4bb52ba32w4ba12-b2c2c80-ba780078-bb1474b4-wc8c8c8-y00c8c8/)|
-|![Serenade (Fashion) example sett](/setts/s10/b12ba24y6ba24bb12b4bb52ba32w4ba12-b2c2c80-ba780078-bb1474b4-wc8c8c8-y00c8c8/sett.png)|
+| [Serenade (Fashion)](/setts/s10/b6ba12y3ba12bb6b2bb26ba16w2ba6~b2c2c80-ba780078-bb1474b4-wc8c8c8-y00c8c8~x2/)|
+|![Serenade (Fashion) example sett](/setts/s10/b6ba12y3ba12bb6b2bb26ba16w2ba6~b2c2c80-ba780078-bb1474b4-wc8c8c8-y00c8c8~x2/sett.png)|

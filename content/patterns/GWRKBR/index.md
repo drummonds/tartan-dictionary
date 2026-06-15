@@ -6,7 +6,7 @@ GWRKBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g10w2r10k10b86r2-b2c2c80-g006818-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/g5w1r5k5b43r1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWRKBR
 
 | Tartans |
 |---------------|
-| [Michael (John) (Personal)](/setts/s6/g10w2r10k10b86r2-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Michael (John) (Personal) example sett](/setts/s6/g10w2r10k10b86r2-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Michael (John) (Personal)](/setts/s6/g5w1r5k5b43r1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Michael (John) (Personal) example sett](/setts/s6/g5w1r5k5b43r1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ WRYKWBWYKYWKY
 
 | Tartans |
 |---------------|
-| [Euphoria (Universal)](/setts/s13/w6r6y48k6w6b48w6y48k6y6w48k6y6-b3850c8-k101010-rc80000-we0e0e0-ya0a0a0/)|
-|![Euphoria (Universal) example sett](/setts/s13/w6r6y48k6w6b48w6y48k6y6w48k6y6-b3850c8-k101010-rc80000-we0e0e0-ya0a0a0/sett.png)|
+| [Euphoria (Universal)](/setts/s13/w1r1y8k1w1b8w1y8k1y1w8k1y1~b3850c8-k101010-rc80000-we0e0e0-ya0a0a0~x6/)|
+|![Euphoria (Universal) example sett](/setts/s13/w1r1y8k1w1b8w1y8k1y1w8k1y1~b3850c8-k101010-rc80000-we0e0e0-ya0a0a0~x6/sett.png)|

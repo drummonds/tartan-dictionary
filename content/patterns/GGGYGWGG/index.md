@@ -6,7 +6,7 @@ GGGYGWGG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4ga20g22y8ga2w36g4ga2-g006818-ga604000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g2ga10g11y4ga1w18g2ga1~g006818-ga604000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GGGYGWGG
 
 | Tartans |
 |---------------|
-| [Aviemore Check](/setts/s8/g4ga20g22y8ga2w36g4ga2-g006818-ga604000-we0e0e0-ye8c000/)|
-|![Aviemore Check example sett](/setts/s8/g4ga20g22y8ga2w36g4ga2-g006818-ga604000-we0e0e0-ye8c000/sett.png)|
-| [Aviemore Check (Fashion)](/setts/s8/g4ga20g22y8ga2w36g4ga2-g007c1c-ga604000-we0e0e0-ye8c000/)|
-|![Aviemore Check (Fashion) example sett](/setts/s8/g4ga20g22y8ga2w36g4ga2-g007c1c-ga604000-we0e0e0-ye8c000/sett.png)|
+| [Aviemore Check](/setts/s8/g2ga10g11y4ga1w18g2ga1~g006818-ga604000-we0e0e0-ye8c000~x2/)|
+|![Aviemore Check example sett](/setts/s8/g2ga10g11y4ga1w18g2ga1~g006818-ga604000-we0e0e0-ye8c000~x2/sett.png)|
+| [Aviemore Check (Fashion)](/setts/s8/g2ga10g11y4ga1w18g2ga1~g007c1c-ga604000-we0e0e0-ye8c000~x2/)|
+|![Aviemore Check (Fashion) example sett](/setts/s8/g2ga10g11y4ga1w18g2ga1~g007c1c-ga604000-we0e0e0-ye8c000~x2/sett.png)|

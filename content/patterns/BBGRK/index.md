@@ -6,7 +6,7 @@ BBGRK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b64ba32g6r8k56-b0163ac-ba453128-g004710-k001a00-re9713c/tartan.png)
+![Woven sample](/setts/s5/b32ba16g3r4k28~b0163ac-ba453128-g004710-k001a00-re9713c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBGRK
 
 | Tartans |
 |---------------|
-| [Corey in Balachuirn](/setts/s5/b64ba32g6r8k56-b0163ac-ba453128-g004710-k001a00-re9713c/)|
-|![Corey in Balachuirn example sett](/setts/s5/b64ba32g6r8k56-b0163ac-ba453128-g004710-k001a00-re9713c/sett.png)|
+| [Corey in Balachuirn](/setts/s5/b32ba16g3r4k28~b0163ac-ba453128-g004710-k001a00-re9713c~x2/)|
+|![Corey in Balachuirn example sett](/setts/s5/b32ba16g3r4k28~b0163ac-ba453128-g004710-k001a00-re9713c~x2/sett.png)|

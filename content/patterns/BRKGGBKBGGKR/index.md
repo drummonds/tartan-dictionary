@@ -16,5 +16,5 @@ BRKGGBKBGGKR
 
 | Tartans |
 |---------------|
-| [Swankie (Personal)](/setts/s12/r12k40g8ga20b42k8b42ga20g8k40r12b6-b1474b4-g8c7038-ga604000-k101010-rc80000/)|
-|![Swankie (Personal) example sett](/setts/s12/r12k40g8ga20b42k8b42ga20g8k40r12b6-b1474b4-g8c7038-ga604000-k101010-rc80000/sett.png)|
+| [Swankie (Personal)](/setts/s12/r6k20g4ga10b21k4b21ga10g4k20r6b3~b1474b4-g8c7038-ga604000-k101010-rc80000~x2/)|
+|![Swankie (Personal) example sett](/setts/s12/r6k20g4ga10b21k4b21ga10g4k20r6b3~b1474b4-g8c7038-ga604000-k101010-rc80000~x2/sett.png)|

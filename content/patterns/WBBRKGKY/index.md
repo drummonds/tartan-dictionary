@@ -6,7 +6,7 @@ WBBRKGKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w2b12ba18r24k24g64k12y2-b1c1c50-ba780078-g006818-k101010-r880000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/w1b6ba9r12k12g32k6y1~b1c1c50-ba780078-g006818-k101010-r880000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBBRKGKY
 
 | Tartans |
 |---------------|
-| [Fujitsu](/setts/s8/w2b12ba18r24k24g64k12y2-b1c1c50-ba780078-g006818-k101010-r880000-we0e0e0-ye8c000/)|
-|![Fujitsu example sett](/setts/s8/w2b12ba18r24k24g64k12y2-b1c1c50-ba780078-g006818-k101010-r880000-we0e0e0-ye8c000/sett.png)|
+| [Fujitsu](/setts/s8/w1b6ba9r12k12g32k6y1~b1c1c50-ba780078-g006818-k101010-r880000-we0e0e0-ye8c000~x2/)|
+|![Fujitsu example sett](/setts/s8/w1b6ba9r12k12g32k6y1~b1c1c50-ba780078-g006818-k101010-r880000-we0e0e0-ye8c000~x2/sett.png)|

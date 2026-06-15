@@ -16,5 +16,5 @@ BGKBKBKBBY
 
 | Tartans |
 |---------------|
-| [Brydon (2013)](/setts/s10/b4g32k32ba4k4ba4k4ba30bb6y4-b780078-ba202060-bb2c2c80-g003820-k101010-ye8c000/)|
-|![Brydon (2013) example sett](/setts/s10/b4g32k32ba4k4ba4k4ba30bb6y4-b780078-ba202060-bb2c2c80-g003820-k101010-ye8c000/sett.png)|
+| [Brydon (2013)](/setts/s10/b2g16k16ba2k2ba2k2ba15bb3y2~b780078-ba202060-bb2c2c80-g003820-k101010-ye8c000~x2/)|
+|![Brydon (2013) example sett](/setts/s10/b2g16k16ba2k2ba2k2ba15bb3y2~b780078-ba202060-bb2c2c80-g003820-k101010-ye8c000~x2/sett.png)|

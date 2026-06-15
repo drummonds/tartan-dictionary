@@ -16,5 +16,5 @@ BKRBKBRGRGRBKBRKBK
 
 | Tartans |
 |---------------|
-| [Unidentified (Scolpaig)](/setts/s18/k40b4k4r40b4k4b4r40g24r8g24r40b4k4b4r40k4b4-b5c8ca8-g006818-k101010-rc80000/)|
-|![Unidentified (Scolpaig) example sett](/setts/s18/k40b4k4r40b4k4b4r40g24r8g24r40b4k4b4r40k4b4-b5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Unidentified (Scolpaig)](/setts/s18/k10b1k1r10b1k1b1r10g6r2g6r10b1k1b1r10k1b1~b5c8ca8-g006818-k101010-rc80000~x4/)|
+|![Unidentified (Scolpaig) example sett](/setts/s18/k10b1k1r10b1k1b1r10g6r2g6r10b1k1b1r10k1b1~b5c8ca8-g006818-k101010-rc80000~x4/sett.png)|

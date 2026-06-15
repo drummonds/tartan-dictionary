@@ -16,7 +16,7 @@ WKWGWKGKGKWKWGWKW
 
 | Tartans |
 |---------------|
-| [Clergy](/setts/s17/w2k10w2g8w2k52w2k20g10k4g10k20w2g8w2k10w2-g707070-k000000-wd0d0d0/)|
-|![Clergy example sett](/setts/s17/w2k10w2g8w2k52w2k20g10k4g10k20w2g8w2k10w2-g707070-k000000-wd0d0d0/sett.png)|
-| [Clergy 5](/setts/s17/w2k10w2g8w2k52w2k20g10k4g10k20w2g8w2k10w2-g808080-k000000-we0e0e0/)|
-|![Clergy 5 example sett](/setts/s17/w2k10w2g8w2k52w2k20g10k4g10k20w2g8w2k10w2-g808080-k000000-we0e0e0/sett.png)|
+| [Clergy](/setts/s17/w1k5w1g4w1k26w1k10g5k2g5k10w1g4w1k5w1~g707070-k000000-wd0d0d0~x2/)|
+|![Clergy example sett](/setts/s17/w1k5w1g4w1k26w1k10g5k2g5k10w1g4w1k5w1~g707070-k000000-wd0d0d0~x2/sett.png)|
+| [Clergy 5](/setts/s17/w1k5w1g4w1k26w1k10g5k2g5k10w1g4w1k5w1~g808080-k000000-we0e0e0~x2/)|
+|![Clergy 5 example sett](/setts/s17/w1k5w1g4w1k26w1k10g5k2g5k10w1g4w1k5w1~g808080-k000000-we0e0e0~x2/sett.png)|

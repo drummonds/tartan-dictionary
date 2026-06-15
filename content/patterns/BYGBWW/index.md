@@ -6,7 +6,7 @@ BYGBWW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b40y16g32ba24w8wa40-b708cc2-ba797c9a-g006400-wffffff-wab2c2e0-yd4b8a0/tartan.png)
+![Woven sample](/setts/s6/b5y2g4ba3w1wa5~b708cc2-ba797c9a-g006400-wffffff-wab2c2e0-yd4b8a0~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYGBWW
 
 | Tartans |
 |---------------|
-| [Heriot Bay Local (Quadra Island, British Columbia)](/setts/s6/b40y16g32ba24w8wa40-b708cc2-ba797c9a-g006400-wffffff-wab2c2e0-yd4b8a0/)|
-|![Heriot Bay Local (Quadra Island, British Columbia) example sett](/setts/s6/b40y16g32ba24w8wa40-b708cc2-ba797c9a-g006400-wffffff-wab2c2e0-yd4b8a0/sett.png)|
+| [Heriot Bay Local (Quadra Island, British Columbia)](/setts/s6/b5y2g4ba3w1wa5~b708cc2-ba797c9a-g006400-wffffff-wab2c2e0-yd4b8a0~x8/)|
+|![Heriot Bay Local (Quadra Island, British Columbia) example sett](/setts/s6/b5y2g4ba3w1wa5~b708cc2-ba797c9a-g006400-wffffff-wab2c2e0-yd4b8a0~x8/sett.png)|

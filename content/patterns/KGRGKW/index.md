@@ -6,7 +6,7 @@ KGRGKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/k83g4r4g10k1w3~g006818-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGRGKW
 
 | Tartans |
 |---------------|
-| [Perratt (Personal)](/setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/)|
-|![Perratt (Personal) example sett](/setts/s6/k166g8r8g20k2w6-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Perratt (Personal)](/setts/s6/k83g4r4g10k1w3~g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Perratt (Personal) example sett](/setts/s6/k83g4r4g10k1w3~g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

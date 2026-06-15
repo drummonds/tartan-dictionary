@@ -1,0 +1,50 @@
+---
+title: "Gleneagles, Hotel"
+date: 2023-03-18
+---
+In pattern [KGKGWGK](/patterns/kgkgwgk/).
+
+
+This was sourced from weddslist.  It is a [7 stripes tartan](/stripes/stripes7/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+K/4 LG8 K72 LG2 LN70 LG8 K/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| LG | <code style="background-color:#908000;"><span style="color:#908000;filter:grayscale(1) invert(1) contrast(100);">#908000</span></code> `#908000` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.20 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/4 LG8 K72 LG2 LN70 LG8 K/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gleneagles](/setts/s7/k4r4w35r1k36r4k2~k000000-ra07c58-wfcfcfc/) — ΔT 0.35
+1. [Gleneagles Gold (Dalgleish)](/setts/s7/k4y4w32y1k32y4k2x4~k101010-wc0c0c0-ybc8c00/) — ΔT 0.67
+1. [MacPherson Dress](/setts/s7/y3r1y30k20y3k9ya1x2~k000000-raa0000-yaaaaaa-yaaaaa00/) — ΔT 1.19
+1. [Richecourt, Baron of (Personal)](/setts/s7/w4k30r1k1r3w12y3x2~k101010-rc80000-wfcfcfc-ye8c000/) — ΔT 1.24
+1. [MacPherson Dress](/setts/s7/w3r1w30k20w3k9y1~k000000-rc80000-wd0d0d0-yffc800/) — ΔT 1.25
+1. [Myles, Lee (Name)](/setts/s10/r2w3r1w9k4w13k33w1k4r1x2~k101010-rd05054-wc0c0c0/) — ΔT 1.28
+1. [Gretna Football Club (Corporate)](/setts/s7/w36k8w36k95w4k4r6~k101010-rc80000-wfcfcdc/) — ΔT 1.28
+1. [MacPherson 6](/setts/s7/w3r1w30k20w3k9y1x2~k000000-rc00000-we0e0e0-yf0c000/) — ΔT 1.33
+1. [Swansea City AFC](/setts/s9/k2b2w4b6w27b15k42b2w2~b5c5c5c-k101010-we0e0e0/) — ΔT 1.38
+1. [St Piran, Cornish dress](/setts/s8/r4w19g2w8g2w8k38w4x2~g003000-k000000-rc00000-we0e0e0/) — ΔT 1.38
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4r4w35r1k36r4k2~k000000-ra07c58-wfcfcfc/"><circle cx="310.0" cy="131.5" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/setts/s7/k4y4w32y1k32y4k2x4~k101010-wc0c0c0-ybc8c00/"><circle cx="311.3" cy="140.7" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/setts/s7/y3r1y30k20y3k9ya1x2~k000000-raa0000-yaaaaaa-yaaaaa00/"><circle cx="326.7" cy="137.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/w4k30r1k1r3w12y3x2~k101010-rc80000-wfcfcfc-ye8c000/"><circle cx="327.6" cy="119.1" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9y1~k000000-rc80000-wd0d0d0-yffc800/"><circle cx="320.2" cy="132.0" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s10/r2w3r1w9k4w13k33w1k4r1x2~k101010-rd05054-wc0c0c0/"><circle cx="371.4" cy="121.8" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6~k101010-rc80000-wfcfcdc/"><circle cx="344.2" cy="151.7" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9y1x2~k000000-rc00000-we0e0e0-yf0c000/"><circle cx="318.2" cy="130.1" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/setts/s9/k2b2w4b6w27b15k42b2w2~b5c5c5c-k101010-we0e0e0/"><circle cx="252.5" cy="140.6" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/setts/s8/r4w19g2w8g2w8k38w4x2~g003000-k000000-rc00000-we0e0e0/"><circle cx="253.0" cy="140.0" r="4" fill="#3465a4"><title>St Piran, Cornish dress</title></circle></a><circle cx="312.3" cy="134.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/k4g4w35g1k36g4k2x2~g908000-k000000-we0e0e0/

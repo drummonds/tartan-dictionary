@@ -6,7 +6,7 @@ GWRY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g44w28r14y4-g006818-rc80000-wfcfcfc-yd8b000/tartan.png)
+![Woven sample](/setts/s4/g22w14r7y2~g006818-rc80000-wfcfcfc-yd8b000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GWRY
 
 | Tartans |
 |---------------|
-| [Loch Lomond #3](/setts/s4/g44w28r14y4-g006818-rc80000-wfcfcfc-yd8b000/)|
-|![Loch Lomond #3 example sett](/setts/s4/g44w28r14y4-g006818-rc80000-wfcfcfc-yd8b000/sett.png)|
-| [Loch Lomond](/setts/s4/g44w28r14y2-g008000-rc00000-we0e0e0-yf0c000/)|
-|![Loch Lomond example sett](/setts/s4/g44w28r14y2-g008000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Loch Lomond #3](/setts/s4/g22w14r7y2~g006818-rc80000-wfcfcfc-yd8b000~x2/)|
+|![Loch Lomond #3 example sett](/setts/s4/g22w14r7y2~g006818-rc80000-wfcfcfc-yd8b000~x2/sett.png)|
+| [Loch Lomond](/setts/s4/g22w14r7y1~g008000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Loch Lomond example sett](/setts/s4/g22w14r7y1~g008000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

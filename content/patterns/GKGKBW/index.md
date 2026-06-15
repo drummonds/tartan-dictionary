@@ -6,7 +6,7 @@ GKGKBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g52k6g24ka20b30w4-b300030-g003000-k000030-ka000000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/g26k3g12ka10b15w2~b300030-g003000-k000030-ka000000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKBW
 
 | Tartans |
 |---------------|
-| [Lossiemouth/Hersbruck](/setts/s6/g52k6g24ka20b30w4-b300030-g003000-k000030-ka000000-we0e0e0/)|
-|![Lossiemouth/Hersbruck example sett](/setts/s6/g52k6g24ka20b30w4-b300030-g003000-k000030-ka000000-we0e0e0/sett.png)|
+| [Lossiemouth/Hersbruck](/setts/s6/g26k3g12ka10b15w2~b300030-g003000-k000030-ka000000-we0e0e0~x2/)|
+|![Lossiemouth/Hersbruck example sett](/setts/s6/g26k3g12ka10b15w2~b300030-g003000-k000030-ka000000-we0e0e0~x2/sett.png)|

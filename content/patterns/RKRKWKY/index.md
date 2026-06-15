@@ -6,7 +6,7 @@ RKRKWKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12k6r58k46w8k14y6-k101010-rdc0000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/r6k3r29k23w4k7y3~k101010-rdc0000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RKRKWKY
 
 | Tartans |
 |---------------|
-| [MacPherson Red Cluny](/setts/s7/r12k6r58k46w8k14y6-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![MacPherson Red Cluny example sett](/setts/s7/r12k6r58k46w8k14y6-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [MacPherson, Red Cluny](/setts/s7/r12k6r58k46w8k14y6-k000000-rc00000-we0e0e0-yf0c000/)|
-|![MacPherson, Red Cluny example sett](/setts/s7/r12k6r58k46w8k14y6-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [MacPherson Red Cluny](/setts/s7/r6k3r29k23w4k7y3~k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![MacPherson Red Cluny example sett](/setts/s7/r6k3r29k23w4k7y3~k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [MacPherson, Red Cluny](/setts/s7/r6k3r29k23w4k7y3~k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![MacPherson, Red Cluny example sett](/setts/s7/r6k3r29k23w4k7y3~k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

@@ -6,7 +6,7 @@ GKRBRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g30k20r60b4r40w2-b780078-g006818-k101010-rb00000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/g15k10r30b2r20w1~b780078-g006818-k101010-rb00000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRBRW
 
 | Tartans |
 |---------------|
-| [Kinnaird (Name)](/setts/s6/g30k20r60b4r40w2-b780078-g006818-k101010-rb00000-we0e0e0/)|
-|![Kinnaird (Name) example sett](/setts/s6/g30k20r60b4r40w2-b780078-g006818-k101010-rb00000-we0e0e0/sett.png)|
+| [Kinnaird (Name)](/setts/s6/g15k10r30b2r20w1~b780078-g006818-k101010-rb00000-we0e0e0~x2/)|
+|![Kinnaird (Name) example sett](/setts/s6/g15k10r30b2r20w1~b780078-g006818-k101010-rb00000-we0e0e0~x2/sett.png)|

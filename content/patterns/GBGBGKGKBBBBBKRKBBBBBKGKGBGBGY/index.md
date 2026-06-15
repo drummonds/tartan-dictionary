@@ -16,5 +16,5 @@ GBGBGKGKBBBBBKRKBBBBBKGKGBGBGY
 
 | Tartans |
 |---------------|
-| [MacWatts (Personal)](/setts/s30/g14b4g4b24g4k4g2k24ba4bb24ba4bb4ba14k4r6k4ba14bb4ba4bb24ba4k24g2k4g4b24g4b4g14y8-b780078-ba2c2c80-bb1c0070-g006818-k101010-rc80000-ye8c000/)|
-|![MacWatts (Personal) example sett](/setts/s30/g14b4g4b24g4k4g2k24ba4bb24ba4bb4ba14k4r6k4ba14bb4ba4bb24ba4k24g2k4g4b24g4b4g14y8-b780078-ba2c2c80-bb1c0070-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [MacWatts (Personal)](/setts/s30/g7b2g2b12g2k2g1k12ba2bb12ba2bb2ba7k2r3k2ba7bb2ba2bb12ba2k12g1k2g2b12g2b2g7y4~b780078-ba2c2c80-bb1c0070-g006818-k101010-rc80000-ye8c000~x2/)|
+|![MacWatts (Personal) example sett](/setts/s30/g7b2g2b12g2k2g1k12ba2bb12ba2bb2ba7k2r3k2ba7bb2ba2bb12ba2k12g1k2g2b12g2b2g7y4~b780078-ba2c2c80-bb1c0070-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

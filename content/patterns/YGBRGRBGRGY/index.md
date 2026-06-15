@@ -16,5 +16,5 @@ YGBRGRBGRGY
 
 | Tartans |
 |---------------|
-| [West Virginia Old Shawl](/setts/s11/y4g4b8r8g8r48ba8g4r8g4y4-b2c2c80-ba788cb4-g289c18-rc80000-ye8c000/)|
-|![West Virginia Old Shawl example sett](/setts/s11/y4g4b8r8g8r48ba8g4r8g4y4-b2c2c80-ba788cb4-g289c18-rc80000-ye8c000/sett.png)|
+| [West Virginia Old Shawl](/setts/s11/y1g1b2r2g2r12ba2g1r2g1y1~b2c2c80-ba788cb4-g289c18-rc80000-ye8c000~x4/)|
+|![West Virginia Old Shawl example sett](/setts/s11/y1g1b2r2g2r12ba2g1r2g1y1~b2c2c80-ba788cb4-g289c18-rc80000-ye8c000~x4/sett.png)|

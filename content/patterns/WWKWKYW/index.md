@@ -6,7 +6,7 @@ WWKWKYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w12y75k22wa12k22wa16w8-k101010-wadbee9-waffffff-yfc8100/tartan.png)
+![Woven sample](/setts/s7/w12y75k22wa12k22wa16w8~k101010-wadbee9-waffffff-yfc8100/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WWKWKYW
 
 | Tartans |
 |---------------|
-| [Orange Fanaticos](/setts/s7/w12y75k22wa12k22wa16w8-k101010-wadbee9-waffffff-yfc8100/)|
-|![Orange Fanaticos example sett](/setts/s7/w12y75k22wa12k22wa16w8-k101010-wadbee9-waffffff-yfc8100/sett.png)|
+| [Orange Fanaticos](/setts/s7/w12y75k22wa12k22wa16w8~k101010-wadbee9-waffffff-yfc8100/)|
+|![Orange Fanaticos example sett](/setts/s7/w12y75k22wa12k22wa16w8~k101010-wadbee9-waffffff-yfc8100/sett.png)|

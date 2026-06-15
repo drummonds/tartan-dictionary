@@ -6,7 +6,7 @@ RBGRKBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12b16k44r44g44ba12r12-b5c8ca8-ba441800-g408060-k00002c-rc80000/tartan.png)
+![Woven sample](/setts/s7/r3b4k11r11g11ba3r3~b5c8ca8-ba441800-g408060-k00002c-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBGRKBR
 
 | Tartans |
 |---------------|
-| [Stewart /Stuart- Fragment Cf 1452 & 1445](/setts/s7/r12b16k44r44g44ba12r12-b5c8ca8-ba441800-g408060-k00002c-rc80000/)|
-|![Stewart /Stuart- Fragment Cf 1452 & 1445 example sett](/setts/s7/r12b16k44r44g44ba12r12-b5c8ca8-ba441800-g408060-k00002c-rc80000/sett.png)|
+| [Stewart /Stuart- Fragment Cf 1452 & 1445](/setts/s7/r3b4k11r11g11ba3r3~b5c8ca8-ba441800-g408060-k00002c-rc80000~x4/)|
+|![Stewart /Stuart- Fragment Cf 1452 & 1445 example sett](/setts/s7/r3b4k11r11g11ba3r3~b5c8ca8-ba441800-g408060-k00002c-rc80000~x4/sett.png)|

@@ -16,5 +16,5 @@ BWBWBBRBBWBW
 
 | Tartans |
 |---------------|
-| [Keela](/setts/s12/b14w6b4w12b32ba52r8ba52b32w12b4w6-b003c64-ba5c8ca8-r880000-wfcfcfc/)|
-|![Keela example sett](/setts/s12/b14w6b4w12b32ba52r8ba52b32w12b4w6-b003c64-ba5c8ca8-r880000-wfcfcfc/sett.png)|
+| [Keela](/setts/s12/b7w3b2w6b16ba26r4ba26b16w6b2w3~b003c64-ba5c8ca8-r880000-wfcfcfc~x2/)|
+|![Keela example sett](/setts/s12/b7w3b2w6b16ba26r4ba26b16w6b2w3~b003c64-ba5c8ca8-r880000-wfcfcfc~x2/sett.png)|

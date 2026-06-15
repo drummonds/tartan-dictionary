@@ -16,5 +16,5 @@ BWBRGYGYBRK
 
 | Tartans |
 |---------------|
-| [Aberdeen Asset Management (Corp)](/setts/s11/b12w2b4r40g20y4g4y4b36r4k12-b1c0070-g006818-k101010-rc80000-wc0c0c0-yd09800/)|
-|![Aberdeen Asset Management (Corp) example sett](/setts/s11/b12w2b4r40g20y4g4y4b36r4k12-b1c0070-g006818-k101010-rc80000-wc0c0c0-yd09800/sett.png)|
+| [Aberdeen Asset Management (Corp)](/setts/s11/b6w1b2r20g10y2g2y2b18r2k6~b1c0070-g006818-k101010-rc80000-wc0c0c0-yd09800~x2/)|
+|![Aberdeen Asset Management (Corp) example sett](/setts/s11/b6w1b2r20g10y2g2y2b18r2k6~b1c0070-g006818-k101010-rc80000-wc0c0c0-yd09800~x2/sett.png)|

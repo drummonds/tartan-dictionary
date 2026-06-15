@@ -16,5 +16,5 @@ BRBKYWYWYKGRG
 
 | Tartans |
 |---------------|
-| [Redgate (Name)](/setts/s13/b20r6b20k14y10w4y10w4y10k14g20r6g14-b5c8ca8-g00643c-k101010-r880000-we0e0e0-ya08858/)|
-|![Redgate (Name) example sett](/setts/s13/b20r6b20k14y10w4y10w4y10k14g20r6g14-b5c8ca8-g00643c-k101010-r880000-we0e0e0-ya08858/sett.png)|
+| [Redgate (Name)](/setts/s13/b10r3b10k7y5w2y5w2y5k7g10r3g7~b5c8ca8-g00643c-k101010-r880000-we0e0e0-ya08858~x2/)|
+|![Redgate (Name) example sett](/setts/s13/b10r3b10k7y5w2y5w2y5k7g10r3g7~b5c8ca8-g00643c-k101010-r880000-we0e0e0-ya08858~x2/sett.png)|

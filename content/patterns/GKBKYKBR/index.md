@@ -6,7 +6,7 @@ GKBKYKBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8k12b64k16y4k16ba20r8-b00008c-ba788cb4-g007800-k000000-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s8/g2k3b16k4y1k4ba5r2~b00008c-ba788cb4-g007800-k000000-r8c0000-yc88c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBKYKBR
 
 | Tartans |
 |---------------|
-| [Arundel County (Dalgleish)](/setts/s8/g8k12b64k16y4k16ba20r8-b00008c-ba788cb4-g007800-k000000-r8c0000-yc88c00/)|
-|![Arundel County (Dalgleish) example sett](/setts/s8/g8k12b64k16y4k16ba20r8-b00008c-ba788cb4-g007800-k000000-r8c0000-yc88c00/sett.png)|
+| [Arundel County (Dalgleish)](/setts/s8/g2k3b16k4y1k4ba5r2~b00008c-ba788cb4-g007800-k000000-r8c0000-yc88c00~x4/)|
+|![Arundel County (Dalgleish) example sett](/setts/s8/g2k3b16k4y1k4ba5r2~b00008c-ba788cb4-g007800-k000000-r8c0000-yc88c00~x4/sett.png)|

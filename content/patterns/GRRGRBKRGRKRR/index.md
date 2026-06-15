@@ -16,5 +16,5 @@ GRRGRBKRGRKRR
 
 | Tartans |
 |---------------|
-| [Glen Coe (District)](/setts/s13/r10ra4k6r8g86r12k14b4r94g4r6ra4g8-b5c8ca8-g006818-k101010-r880000-rae87878/)|
-|![Glen Coe (District) example sett](/setts/s13/r10ra4k6r8g86r12k14b4r94g4r6ra4g8-b5c8ca8-g006818-k101010-r880000-rae87878/sett.png)|
+| [Glen Coe (District)](/setts/s13/r5ra2k3r4g43r6k7b2r47g2r3ra2g4~b5c8ca8-g006818-k101010-r880000-rae87878~x2/)|
+|![Glen Coe (District) example sett](/setts/s13/r5ra2k3r4g43r6k7b2r47g2r3ra2g4~b5c8ca8-g006818-k101010-r880000-rae87878~x2/sett.png)|

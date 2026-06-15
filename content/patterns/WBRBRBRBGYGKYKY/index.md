@@ -16,5 +16,5 @@ WBRBRBRBGYGKYKY
 
 | Tartans |
 |---------------|
-| [Linn (Personal)](/setts/s15/w6b6r2b6r2b30r2b4g30y2g4k40y2k4y4-b1c0070-g006818-k101010-rc80000-we0e0e0-ybc8c00/)|
-|![Linn (Personal) example sett](/setts/s15/w6b6r2b6r2b30r2b4g30y2g4k40y2k4y4-b1c0070-g006818-k101010-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Linn (Personal)](/setts/s15/w3b3r1b3r1b15r1b2g15y1g2k20y1k2y2~b1c0070-g006818-k101010-rc80000-we0e0e0-ybc8c00~x2/)|
+|![Linn (Personal) example sett](/setts/s15/w3b3r1b3r1b15r1b2g15y1g2k20y1k2y2~b1c0070-g006818-k101010-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

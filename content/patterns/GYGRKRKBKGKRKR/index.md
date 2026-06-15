@@ -16,5 +16,5 @@ GYGRKRKBKGKRKR
 
 | Tartans |
 |---------------|
-| [Golden Broom #2](/setts/s14/g24y6g12r38k2ra16k4b8k4g38k2r38k2ra18-b07648c-g585c20-k101010-r960000-rac82828-ye8c000/)|
-|![Golden Broom #2 example sett](/setts/s14/g24y6g12r38k2ra16k4b8k4g38k2r38k2ra18-b07648c-g585c20-k101010-r960000-rac82828-ye8c000/sett.png)|
+| [Golden Broom #2](/setts/s14/g12y3g6r19k1ra8k2b4k2g19k1r19k1ra9~b07648c-g585c20-k101010-r960000-rac82828-ye8c000~x2/)|
+|![Golden Broom #2 example sett](/setts/s14/g12y3g6r19k1ra8k2b4k2g19k1r19k1ra9~b07648c-g585c20-k101010-r960000-rac82828-ye8c000~x2/sett.png)|

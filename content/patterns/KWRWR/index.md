@@ -6,7 +6,7 @@ KWRWR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k64w24r2w4r30-k1c1714-rc80000-wffffff/tartan.png)
+![Woven sample](/setts/s5/k32w12r1w2r15~k1c1714-rc80000-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KWRWR
 
 | Tartans |
 |---------------|
-| [Nunes (2014)](/setts/s5/k64w24r2w4r30-k1c1714-rc80000-wffffff/)|
-|![Nunes (2014) example sett](/setts/s5/k64w24r2w4r30-k1c1714-rc80000-wffffff/sett.png)|
-| [Nunes (2014)](/setts/s5/k64w24r2w4r30-k101010-rc80000-wfcfcfc/)|
-|![Nunes (2014) example sett](/setts/s5/k64w24r2w4r30-k101010-rc80000-wfcfcfc/sett.png)|
+| [Nunes (2014)](/setts/s5/k32w12r1w2r15~k1c1714-rc80000-wffffff~x2/)|
+|![Nunes (2014) example sett](/setts/s5/k32w12r1w2r15~k1c1714-rc80000-wffffff~x2/sett.png)|
+| [Nunes (2014)](/setts/s5/k32w12r1w2r15~k101010-rc80000-wfcfcfc~x2/)|
+|![Nunes (2014) example sett](/setts/s5/k32w12r1w2r15~k101010-rc80000-wfcfcfc~x2/sett.png)|

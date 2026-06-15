@@ -6,7 +6,7 @@ WRWRWRY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w8r4w50ra42w6ra16y6-r960000-radc0000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w4r2w25ra21w3ra8y3~r960000-radc0000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WRWRWRY
 
 | Tartans |
 |---------------|
-| [MacPherson Dress Red](/setts/s7/w8r4w50ra42w6ra16y6-r960000-radc0000-we0e0e0-ye8c000/)|
-|![MacPherson Dress Red example sett](/setts/s7/w8r4w50ra42w6ra16y6-r960000-radc0000-we0e0e0-ye8c000/sett.png)|
-| [MacPherson, dress red](/setts/s7/w8r4w50ra42w6ra16y6-r800000-rac00000-we0e0e0-yf0c000/)|
-|![MacPherson, dress red example sett](/setts/s7/w8r4w50ra42w6ra16y6-r800000-rac00000-we0e0e0-yf0c000/sett.png)|
+| [MacPherson Dress Red](/setts/s7/w4r2w25ra21w3ra8y3~r960000-radc0000-we0e0e0-ye8c000~x2/)|
+|![MacPherson Dress Red example sett](/setts/s7/w4r2w25ra21w3ra8y3~r960000-radc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [MacPherson, dress red](/setts/s7/w4r2w25ra21w3ra8y3~r800000-rac00000-we0e0e0-yf0c000~x2/)|
+|![MacPherson, dress red example sett](/setts/s7/w4r2w25ra21w3ra8y3~r800000-rac00000-we0e0e0-yf0c000~x2/sett.png)|

@@ -6,7 +6,7 @@ BYRKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/y64k42r32ya12b8-b344054-k101010-r901c1c-ye8c000-yab8b8b8/tartan.png)
+![Woven sample](/setts/s5/y32k21r16ya6b4~b344054-k101010-r901c1c-ye8c000-yab8b8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRKY
 
 | Tartans |
 |---------------|
-| [Scottish American Athletic Assoc](/setts/s5/y64k42r32ya12b8-b344054-k101010-r901c1c-ye8c000-yab8b8b8/)|
-|![Scottish American Athletic Assoc example sett](/setts/s5/y64k42r32ya12b8-b344054-k101010-r901c1c-ye8c000-yab8b8b8/sett.png)|
+| [Scottish American Athletic Assoc](/setts/s5/y32k21r16ya6b4~b344054-k101010-r901c1c-ye8c000-yab8b8b8~x2/)|
+|![Scottish American Athletic Assoc example sett](/setts/s5/y32k21r16ya6b4~b344054-k101010-r901c1c-ye8c000-yab8b8b8~x2/sett.png)|

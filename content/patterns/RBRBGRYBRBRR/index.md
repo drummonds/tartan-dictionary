@@ -16,5 +16,5 @@ RBRBGRYBRBRR
 
 | Tartans |
 |---------------|
-| [Maple Leaf Blue](/setts/s12/r60b12r12b76g24ra24y24b76r12b12r60ra52-b2c2c80-g5c6428-r880000-raa07c58-ya08858/)|
-|![Maple Leaf Blue example sett](/setts/s12/r60b12r12b76g24ra24y24b76r12b12r60ra52-b2c2c80-g5c6428-r880000-raa07c58-ya08858/sett.png)|
+| [Maple Leaf Blue](/setts/s12/r15b3r3b19g6ra6y6b19r3b3r15ra13~b2c2c80-g5c6428-r880000-raa07c58-ya08858~x4/)|
+|![Maple Leaf Blue example sett](/setts/s12/r15b3r3b19g6ra6y6b19r3b3r15ra13~b2c2c80-g5c6428-r880000-raa07c58-ya08858~x4/sett.png)|

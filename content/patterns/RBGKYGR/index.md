@@ -6,7 +6,7 @@ RBGKYGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r2b8g8k8y1g8r2-b00004c-g004c00-k000000-rc80000-yffc800/tartan.png)
+![Woven sample](/setts/s7/r2b8g8k8y1g8r2~b00004c-g004c00-k000000-rc80000-yffc800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBGKYGR
 
 | Tartans |
 |---------------|
-| [Brodie Hunting](/setts/s7/r2b8g8k8y1g8r2-b00004c-g004c00-k000000-rc80000-yffc800/)|
-|![Brodie Hunting example sett](/setts/s7/r2b8g8k8y1g8r2-b00004c-g004c00-k000000-rc80000-yffc800/sett.png)|
+| [Brodie Hunting](/setts/s7/r2b8g8k8y1g8r2~b00004c-g004c00-k000000-rc80000-yffc800/)|
+|![Brodie Hunting example sett](/setts/s7/r2b8g8k8y1g8r2~b00004c-g004c00-k000000-rc80000-yffc800/sett.png)|

@@ -16,5 +16,5 @@ GRGRGRGRGRGRGRGYR
 
 | Tartans |
 |---------------|
-| [Hebrides Outer](/setts/s17/g18r4g6r40g4r2g4r4g40r4g6r4g4r44g6y2r6-g008000-rc00000-yf0c000/)|
-|![Hebrides Outer example sett](/setts/s17/g18r4g6r40g4r2g4r4g40r4g6r4g4r44g6y2r6-g008000-rc00000-yf0c000/sett.png)|
+| [Hebrides Outer](/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3y1r3~g008000-rc00000-yf0c000~x2/)|
+|![Hebrides Outer example sett](/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3y1r3~g008000-rc00000-yf0c000~x2/sett.png)|

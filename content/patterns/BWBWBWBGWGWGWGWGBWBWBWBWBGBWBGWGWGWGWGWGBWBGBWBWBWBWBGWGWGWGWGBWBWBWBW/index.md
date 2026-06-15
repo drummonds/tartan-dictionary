@@ -16,5 +16,5 @@ BWBWBWBGWGWGWGWGBWBWBWBWBGBWBGWGWGWGWGWGBWBGBWBWBWBWBGWGWGWGWGBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Campbell of Cawdor Dress (Clan)](/setts/s70/b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20b4g6b4w20b20g4w4g48w4g4w4g4w4g48w4g4b20w20b4g6b4w20b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20-b2c2c80-g006818-wfcfcfc/)|
-|![Campbell of Cawdor Dress (Clan) example sett](/setts/s70/b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20b4g6b4w20b20g4w4g48w4g4w4g4w4g48w4g4b20w20b4g6b4w20b20w20b2w4b2w20b20g4w4g48w4g4w4g48w4g4b20w20b2w4b2w20b20w20-b2c2c80-g006818-wfcfcfc/sett.png)|
+| [Campbell of Cawdor Dress (Clan)](/setts/s70/b10w10b1w2b1w10b10g2w2g24w2g2w2g24w2g2b10w10b1w2b1w10b10w10b2g3b2w10b10g2w2g24w2g2w2g2w2g24w2g2b10w10b2g3b2w10b10w10b1w2b1w10b10g2w2g24w2g2w2g24w2g2b10w10b1w2b1w10b10w10~b2c2c80-g006818-wfcfcfc~x2/)|
+|![Campbell of Cawdor Dress (Clan) example sett](/setts/s70/b10w10b1w2b1w10b10g2w2g24w2g2w2g24w2g2b10w10b1w2b1w10b10w10b2g3b2w10b10g2w2g24w2g2w2g2w2g24w2g2b10w10b2g3b2w10b10w10b1w2b1w10b10g2w2g24w2g2w2g24w2g2b10w10b1w2b1w10b10w10~b2c2c80-g006818-wfcfcfc~x2/sett.png)|

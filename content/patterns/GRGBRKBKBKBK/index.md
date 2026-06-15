@@ -16,5 +16,5 @@ GRGBRKBKBKBK
 
 | Tartans |
 |---------------|
-| [Tartan Spirit](/setts/s12/g38r6g38b14ra52k6b14k6ba84k6b14k6-b003c64-ba780078-g006818-k101010-re87878-raa00048/)|
-|![Tartan Spirit example sett](/setts/s12/g38r6g38b14ra52k6b14k6ba84k6b14k6-b003c64-ba780078-g006818-k101010-re87878-raa00048/sett.png)|
+| [Tartan Spirit](/setts/s12/g19r3g19b7ra26k3b7k3ba42k3b7k3~b003c64-ba780078-g006818-k101010-re87878-raa00048~x2/)|
+|![Tartan Spirit example sett](/setts/s12/g19r3g19b7ra26k3b7k3ba42k3b7k3~b003c64-ba780078-g006818-k101010-re87878-raa00048~x2/sett.png)|

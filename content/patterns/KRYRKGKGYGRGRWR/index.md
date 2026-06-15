@@ -16,5 +16,5 @@ KRYRKGKGYGRGRWR
 
 | Tartans |
 |---------------|
-| [Scottish Register of Tartans (Corp)](/setts/s15/r22w8r16g2r2g56y4g56k4g4k46r6ya12r6k10-g604000-k101010-rb03040-we0e0e0-ya08858-yabc8c00/)|
-|![Scottish Register of Tartans (Corp) example sett](/setts/s15/r22w8r16g2r2g56y4g56k4g4k46r6ya12r6k10-g604000-k101010-rb03040-we0e0e0-ya08858-yabc8c00/sett.png)|
+| [Scottish Register of Tartans (Corp)](/setts/s15/r11w4r8g1r1g28y2g28k2g2k23r3ya6r3k5~g604000-k101010-rb03040-we0e0e0-ya08858-yabc8c00~x2/)|
+|![Scottish Register of Tartans (Corp) example sett](/setts/s15/r11w4r8g1r1g28y2g28k2g2k23r3ya6r3k5~g604000-k101010-rb03040-we0e0e0-ya08858-yabc8c00~x2/sett.png)|

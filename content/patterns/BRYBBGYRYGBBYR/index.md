@@ -16,5 +16,5 @@ BRYBBGYRYGBBYR
 
 | Tartans |
 |---------------|
-| [Hawaiian](/setts/s14/b16r4y4b48ba16g40y4r12y4g40ba16b48y4r4-b5c8ca8-ba4c3428-g406054-rc80000-ye8c000/)|
-|![Hawaiian example sett](/setts/s14/b16r4y4b48ba16g40y4r12y4g40ba16b48y4r4-b5c8ca8-ba4c3428-g406054-rc80000-ye8c000/sett.png)|
+| [Hawaiian](/setts/s14/b4r1y1b12ba4g10y1r3y1g10ba4b12y1r1~b5c8ca8-ba4c3428-g406054-rc80000-ye8c000~x4/)|
+|![Hawaiian example sett](/setts/s14/b4r1y1b12ba4g10y1r3y1g10ba4b12y1r1~b5c8ca8-ba4c3428-g406054-rc80000-ye8c000~x4/sett.png)|

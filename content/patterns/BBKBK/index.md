@@ -6,7 +6,7 @@ BBKBK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k66b16k8b70ba6-b0000cd-baaa00ff-k101010/tartan.png)
+![Woven sample](/setts/s5/k33b8k4b35ba3~b0000cd-baaa00ff-k101010~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BBKBK
 
 | Tartans |
 |---------------|
-| [Fenston/Morris (Personal)](/setts/s5/k66b16k8b70ba6-b0000cd-baaa00ff-k101010/)|
-|![Fenston/Morris (Personal) example sett](/setts/s5/k66b16k8b70ba6-b0000cd-baaa00ff-k101010/sett.png)|
-| [Williams (New York) (Personal)](/setts/s5/k60b12k12b82ba4-b003c64-ba5c8ca8-k101010/)|
-|![Williams (New York) (Personal) example sett](/setts/s5/k60b12k12b82ba4-b003c64-ba5c8ca8-k101010/sett.png)|
+| [Fenston/Morris (Personal)](/setts/s5/k33b8k4b35ba3~b0000cd-baaa00ff-k101010~x2/)|
+|![Fenston/Morris (Personal) example sett](/setts/s5/k33b8k4b35ba3~b0000cd-baaa00ff-k101010~x2/sett.png)|
+| [Williams (New York) (Personal)](/setts/s5/k30b6k6b41ba2~b003c64-ba5c8ca8-k101010~x2/)|
+|![Williams (New York) (Personal) example sett](/setts/s5/k30b6k6b41ba2~b003c64-ba5c8ca8-k101010~x2/sett.png)|

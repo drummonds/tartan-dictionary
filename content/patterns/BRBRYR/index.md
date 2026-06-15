@@ -6,7 +6,7 @@ BRBRYR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b48r18b6r13y4r14~b2c2c80-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRYR
 
 | Tartans |
 |---------------|
-| [Butler](/setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/)|
-|![Butler example sett](/setts/s6/b96r36b12r26y8r28-b2c2c80-rc80000-ye8c000/sett.png)|
+| [Butler](/setts/s6/b48r18b6r13y4r14~b2c2c80-rc80000-ye8c000~x2/)|
+|![Butler example sett](/setts/s6/b48r18b6r13y4r14~b2c2c80-rc80000-ye8c000~x2/sett.png)|

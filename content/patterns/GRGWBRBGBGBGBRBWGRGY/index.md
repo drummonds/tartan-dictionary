@@ -16,5 +16,5 @@ GRGWBRBGBGBGBRBWGRGY
 
 | Tartans |
 |---------------|
-| [Hunter of Hunterston](/setts/s20/g8r4g28w4b28r4b28g28b4g10b4g28b28r4b28w4g28r4g8y6-b2c2c80-g007800-rc80000-wfcfcfc-yd8d078/)|
-|![Hunter of Hunterston example sett](/setts/s20/g8r4g28w4b28r4b28g28b4g10b4g28b28r4b28w4g28r4g8y6-b2c2c80-g007800-rc80000-wfcfcfc-yd8d078/sett.png)|
+| [Hunter of Hunterston](/setts/s20/g4r2g14w2b14r2b14g14b2g5b2g14b14r2b14w2g14r2g4y3~b2c2c80-g007800-rc80000-wfcfcfc-yd8d078~x2/)|
+|![Hunter of Hunterston example sett](/setts/s20/g4r2g14w2b14r2b14g14b2g5b2g14b14r2b14w2g14r2g4y3~b2c2c80-g007800-rc80000-wfcfcfc-yd8d078~x2/sett.png)|

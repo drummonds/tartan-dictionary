@@ -16,5 +16,5 @@ GGGGGGWGGYYW
 
 | Tartans |
 |---------------|
-| [Springbok (Fashion)](/setts/s12/g6ga4g80gb4g8gb16w2ga8g4y8ya8w4-g003820-ga006818-gb289c18-we0e0e0-ybc8c00-yafccc00/)|
-|![Springbok (Fashion) example sett](/setts/s12/g6ga4g80gb4g8gb16w2ga8g4y8ya8w4-g003820-ga006818-gb289c18-we0e0e0-ybc8c00-yafccc00/sett.png)|
+| [Springbok (Fashion)](/setts/s12/g3ga2g40gb2g4gb8w1ga4g2y4ya4w2~g003820-ga006818-gb289c18-we0e0e0-ybc8c00-yafccc00~x2/)|
+|![Springbok (Fashion) example sett](/setts/s12/g3ga2g40gb2g4gb8w1ga4g2y4ya4w2~g003820-ga006818-gb289c18-we0e0e0-ybc8c00-yafccc00~x2/sett.png)|

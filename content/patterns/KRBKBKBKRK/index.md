@@ -16,7 +16,7 @@ KRBKBKBKRK
 
 | Tartans |
 |---------------|
-| [Douglas (WCWM)](/setts/s10/k4r48b48k4b4k4b6k28r4k4-b646464-k000000-r8c0000/)|
-|![Douglas (WCWM) example sett](/setts/s10/k4r48b48k4b4k4b6k28r4k4-b646464-k000000-r8c0000/sett.png)|
-| [Wcwm 1527](/setts/s10/k4r52b52k4b6k4b6k28r4k4-b5c5c5c-k101010-r880000/)|
-|![Wcwm 1527 example sett](/setts/s10/k4r52b52k4b6k4b6k28r4k4-b5c5c5c-k101010-r880000/sett.png)|
+| [Douglas (WCWM)](/setts/s10/k2r24b24k2b2k2b3k14r2k2~b646464-k000000-r8c0000~x2/)|
+|![Douglas (WCWM) example sett](/setts/s10/k2r24b24k2b2k2b3k14r2k2~b646464-k000000-r8c0000~x2/sett.png)|
+| [Wcwm 1527](/setts/s10/k2r26b26k2b3k2b3k14r2k2~b5c5c5c-k101010-r880000~x2/)|
+|![Wcwm 1527 example sett](/setts/s10/k2r26b26k2b3k2b3k14r2k2~b5c5c5c-k101010-r880000~x2/sett.png)|

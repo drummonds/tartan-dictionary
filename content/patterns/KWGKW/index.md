@@ -6,7 +6,7 @@ KWGKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w40k40g40w20k20-g008040-k0a0a0a-w7aa9dd/tartan.png)
+![Woven sample](/setts/s5/w2k2g2w1k1~g008040-k0a0a0a-w7aa9dd~x20/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWGKW
 
 | Tartans |
 |---------------|
-| [Shepherd, Derek (Wandering)](/setts/s5/w40k40g40w20k20-g008040-k0a0a0a-w7aa9dd/)|
-|![Shepherd, Derek (Wandering) example sett](/setts/s5/w40k40g40w20k20-g008040-k0a0a0a-w7aa9dd/sett.png)|
+| [Shepherd, Derek (Wandering)](/setts/s5/w2k2g2w1k1~g008040-k0a0a0a-w7aa9dd~x20/)|
+|![Shepherd, Derek (Wandering) example sett](/setts/s5/w2k2g2w1k1~g008040-k0a0a0a-w7aa9dd~x20/sett.png)|

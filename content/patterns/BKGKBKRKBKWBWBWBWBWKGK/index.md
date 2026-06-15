@@ -16,5 +16,5 @@ BKGKBKRKBKWBWBWBWBWKGK
 
 | Tartans |
 |---------------|
-| [Argyle Dress](/setts/s22/b8k6g34k34b30k6r8k6b30k34w6b8w50b6w12b6w50b8w6k34g34k6-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Argyle Dress example sett](/setts/s22/b8k6g34k34b30k6r8k6b30k34w6b8w50b6w12b6w50b8w6k34g34k6-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Argyle Dress](/setts/s22/b4k3g17k17b15k3r4k3b15k17w3b4w25b3w6b3w25b4w3k17g17k3~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Argyle Dress example sett](/setts/s22/b4k3g17k17b15k3r4k3b15k17w3b4w25b3w6b3w25b4w3k17g17k3~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ KBKBKBGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k48b4k8ba4k4ba16g4k4-b003478-ba000050-g003014-k000000/tartan.png)
+![Woven sample](/setts/s8/k12b1k2ba1k1ba4g1k1~b003478-ba000050-g003014-k000000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKBKBGK
 
 | Tartans |
 |---------------|
-| [Scottish Funereal Association](/setts/s8/k48b4k8ba4k4ba16g4k4-b003478-ba000050-g003014-k000000/)|
-|![Scottish Funereal Association example sett](/setts/s8/k48b4k8ba4k4ba16g4k4-b003478-ba000050-g003014-k000000/sett.png)|
+| [Scottish Funereal Association](/setts/s8/k12b1k2ba1k1ba4g1k1~b003478-ba000050-g003014-k000000~x4/)|
+|![Scottish Funereal Association example sett](/setts/s8/k12b1k2ba1k1ba4g1k1~b003478-ba000050-g003014-k000000~x4/sett.png)|

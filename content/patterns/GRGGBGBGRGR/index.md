@@ -16,5 +16,5 @@ GRGGBGBGRGR
 
 | Tartans |
 |---------------|
-| [University Plaid](/setts/s11/g8r2g6ga2b6ga2b6ga2r8g6r8-b202060-g003820-ga8c7038-r880000/)|
-|![University Plaid example sett](/setts/s11/g8r2g6ga2b6ga2b6ga2r8g6r8-b202060-g003820-ga8c7038-r880000/sett.png)|
+| [University Plaid](/setts/s11/g4r1g3ga1b3ga1b3ga1r4g3r4~b202060-g003820-ga8c7038-r880000~x2/)|
+|![University Plaid example sett](/setts/s11/g4r1g3ga1b3ga1b3ga1r4g3r4~b202060-g003820-ga8c7038-r880000~x2/sett.png)|

@@ -16,5 +16,5 @@ GBGBGKGBGY
 
 | Tartans |
 |---------------|
-| [Sardar Chadha (Personal)](/setts/s10/y6g34b4g4k32g4b34g4b2g5-b202060-g006818-k101010-yfcb464/)|
-|![Sardar Chadha (Personal) example sett](/setts/s10/y6g34b4g4k32g4b34g4b2g5-b202060-g006818-k101010-yfcb464/sett.png)|
+| [Sardar Chadha (Personal)](/setts/s10/y6g34b4g4k32g4b34g4b2g5~b202060-g006818-k101010-yfcb464/)|
+|![Sardar Chadha (Personal) example sett](/setts/s10/y6g34b4g4k32g4b34g4b2g5~b202060-g006818-k101010-yfcb464/sett.png)|

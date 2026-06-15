@@ -16,5 +16,5 @@ BRBRBWRRRRRWWBWBWWBWWWWW
 
 | Tartans |
 |---------------|
-| [Oriflame](/setts/s24/w8wa12w12wa42w18b54w20wa2b2wa10b2wa2w20r2ra2r10ra2r2w20b2r2b10r2b2-b5c5c5c-ra00000-rac80000-wfcfcfc-wac0c0c0/)|
-|![Oriflame example sett](/setts/s24/w8wa12w12wa42w18b54w20wa2b2wa10b2wa2w20r2ra2r10ra2r2w20b2r2b10r2b2-b5c5c5c-ra00000-rac80000-wfcfcfc-wac0c0c0/sett.png)|
+| [Oriflame](/setts/s24/w4wa6w6wa21w9b27w10wa1b1wa5b1wa1w10r1ra1r5ra1r1w10b1r1b5r1b1~b5c5c5c-ra00000-rac80000-wfcfcfc-wac0c0c0~x2/)|
+|![Oriflame example sett](/setts/s24/w4wa6w6wa21w9b27w10wa1b1wa5b1wa1w10r1ra1r5ra1r1w10b1r1b5r1b1~b5c5c5c-ra00000-rac80000-wfcfcfc-wac0c0c0~x2/sett.png)|

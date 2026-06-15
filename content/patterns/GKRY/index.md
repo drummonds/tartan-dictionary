@@ -6,7 +6,7 @@ GKRY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g28k6r6y4-g006818-k101010-r880000-yb8b8b8/tartan.png)
+![Woven sample](/setts/s4/g14k3r3y2~g006818-k101010-r880000-yb8b8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRY
 
 | Tartans |
 |---------------|
-| [Bacon, Green (Fashion)](/setts/s4/g28k6r6y4-g006818-k101010-r880000-yb8b8b8/)|
-|![Bacon, Green (Fashion) example sett](/setts/s4/g28k6r6y4-g006818-k101010-r880000-yb8b8b8/sett.png)|
+| [Bacon, Green (Fashion)](/setts/s4/g14k3r3y2~g006818-k101010-r880000-yb8b8b8~x2/)|
+|![Bacon, Green (Fashion) example sett](/setts/s4/g14k3r3y2~g006818-k101010-r880000-yb8b8b8~x2/sett.png)|

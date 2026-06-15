@@ -6,7 +6,7 @@ KRWRWRWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k4r4w4r60w60r4w4k4-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k1r1w1r15w15r1w1k1~k101010-rc80000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWRWRWK
 
 | Tartans |
 |---------------|
-| [Bundy, Dress Red (Personal Dance)](/setts/s8/k4r4w4r60w60r4w4k4-k101010-rc80000-we0e0e0/)|
-|![Bundy, Dress Red (Personal Dance) example sett](/setts/s8/k4r4w4r60w60r4w4k4-k101010-rc80000-we0e0e0/sett.png)|
+| [Bundy, Dress Red (Personal Dance)](/setts/s8/k1r1w1r15w15r1w1k1~k101010-rc80000-we0e0e0~x4/)|
+|![Bundy, Dress Red (Personal Dance) example sett](/setts/s8/k1r1w1r15w15r1w1k1~k101010-rc80000-we0e0e0~x4/sett.png)|

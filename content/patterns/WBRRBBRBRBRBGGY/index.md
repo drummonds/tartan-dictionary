@@ -16,5 +16,5 @@ WBRRBBRBRBRBGGY
 
 | Tartans |
 |---------------|
-| [British Airways (Corporate)](/setts/s15/y4g4ga40b4r4b4r20b4r4b4ba40ra4r2ba4w2-b5c8ca8-ba202060-g5c6428-ga003820-rc80000-racc4438-wfcfcfc-yd8b000/)|
-|![British Airways (Corporate) example sett](/setts/s15/y4g4ga40b4r4b4r20b4r4b4ba40ra4r2ba4w2-b5c8ca8-ba202060-g5c6428-ga003820-rc80000-racc4438-wfcfcfc-yd8b000/sett.png)|
+| [British Airways (Corporate)](/setts/s15/y2g2ga20b2r2b2r10b2r2b2ba20ra2r1ba2w1~b5c8ca8-ba202060-g5c6428-ga003820-rc80000-racc4438-wfcfcfc-yd8b000~x2/)|
+|![British Airways (Corporate) example sett](/setts/s15/y2g2ga20b2r2b2r10b2r2b2ba20ra2r1ba2w1~b5c8ca8-ba202060-g5c6428-ga003820-rc80000-racc4438-wfcfcfc-yd8b000~x2/sett.png)|

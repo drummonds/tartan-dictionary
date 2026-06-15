@@ -6,7 +6,7 @@ BGBGYWGB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b40g2w2y6ga28ba8g2bb8-b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858/tartan.png)
+![Woven sample](/setts/s8/b20g1w1y3ga14ba4g1bb4~b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGYWGB
 
 | Tartans |
 |---------------|
-| [St. Columba (one green)](/setts/s8/b40g2w2y6ga28ba8g2bb8-b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858/)|
-|![St. Columba (one green) example sett](/setts/s8/b40g2w2y6ga28ba8g2bb8-b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858/sett.png)|
+| [St. Columba (one green)](/setts/s8/b20g1w1y3ga14ba4g1bb4~b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858~x2/)|
+|![St. Columba (one green) example sett](/setts/s8/b20g1w1y3ga14ba4g1bb4~b202060-ba5c5c5c-bb780078-g789484-ga006818-wfcfcfc-ya08858~x2/sett.png)|

@@ -16,5 +16,5 @@ BKBKRBRKRBKRK
 
 | Tartans |
 |---------------|
-| [Alyssa's Theme (Fashion)](/setts/s13/b4k26b16k4r2ba2r42k2r2ba4k16r26k4-b2c2c80-ba5c5c5c-k101010-r901c38/)|
-|![Alyssa's Theme (Fashion) example sett](/setts/s13/b4k26b16k4r2ba2r42k2r2ba4k16r26k4-b2c2c80-ba5c5c5c-k101010-r901c38/sett.png)|
+| [Alyssa's Theme (Fashion)](/setts/s13/b2k13b8k2r1ba1r21k1r1ba2k8r13k2~b2c2c80-ba5c5c5c-k101010-r901c38~x2/)|
+|![Alyssa's Theme (Fashion) example sett](/setts/s13/b2k13b8k2r1ba1r21k1r1ba2k8r13k2~b2c2c80-ba5c5c5c-k101010-r901c38~x2/sett.png)|

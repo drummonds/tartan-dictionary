@@ -16,5 +16,5 @@ BBGBGBKBK
 
 | Tartans |
 |---------------|
-| [Orman (Midlothian) (Personal)](/setts/s9/k20b6k6b64g2b2g2b4ba4-b14146a-ba544e4f-g085e23-k101010/)|
-|![Orman (Midlothian) (Personal) example sett](/setts/s9/k20b6k6b64g2b2g2b4ba4-b14146a-ba544e4f-g085e23-k101010/sett.png)|
+| [Orman (Midlothian) (Personal)](/setts/s9/k10b3k3b32g1b1g1b2ba2~b14146a-ba544e4f-g085e23-k101010~x2/)|
+|![Orman (Midlothian) (Personal) example sett](/setts/s9/k10b3k3b32g1b1g1b2ba2~b14146a-ba544e4f-g085e23-k101010~x2/sett.png)|

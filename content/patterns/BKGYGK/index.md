@@ -6,7 +6,7 @@ BKGYGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b96k32g48y8g48k32-b1474b4-g006818-k101010-yd8b000/tartan.png)
+![Woven sample](/setts/s6/b12k4g6y1g6k4~b1474b4-g006818-k101010-yd8b000~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKGYGK
 
 | Tartans |
 |---------------|
-| [Sinclair of Ulbster](/setts/s6/b96k32g48y8g48k32-b1474b4-g006818-k101010-yd8b000/)|
-|![Sinclair of Ulbster example sett](/setts/s6/b96k32g48y8g48k32-b1474b4-g006818-k101010-yd8b000/sett.png)|
+| [Sinclair of Ulbster](/setts/s6/b12k4g6y1g6k4~b1474b4-g006818-k101010-yd8b000~x8/)|
+|![Sinclair of Ulbster example sett](/setts/s6/b12k4g6y1g6k4~b1474b4-g006818-k101010-yd8b000~x8/sett.png)|

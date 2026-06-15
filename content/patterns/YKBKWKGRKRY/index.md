@@ -16,5 +16,5 @@ YKBKWKGRKRY
 
 | Tartans |
 |---------------|
-| [U.S. Customs & Border Protection (C](/setts/s11/y96k28b4k4w4k4g16r12k4r8y4-b2c2c80-g604000-k000000-r8c0000-wfcfcfc-ya08858/)|
-|![U.S. Customs & Border Protection (C example sett](/setts/s11/y96k28b4k4w4k4g16r12k4r8y4-b2c2c80-g604000-k000000-r8c0000-wfcfcfc-ya08858/sett.png)|
+| [U.S. Customs & Border Protection (C](/setts/s11/y24k7b1k1w1k1g4r3k1r2y1~b2c2c80-g604000-k000000-r8c0000-wfcfcfc-ya08858~x4/)|
+|![U.S. Customs & Border Protection (C example sett](/setts/s11/y24k7b1k1w1k1g4r3k1r2y1~b2c2c80-g604000-k000000-r8c0000-wfcfcfc-ya08858~x4/sett.png)|

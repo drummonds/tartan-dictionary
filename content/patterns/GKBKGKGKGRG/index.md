@@ -16,5 +16,5 @@ GKBKGKGKGRG
 
 | Tartans |
 |---------------|
-| [Louise](/setts/s11/g8k4b36k28g4k4g4k4g36r4g4-b304080-g008000-k000000-rc00000/)|
-|![Louise example sett](/setts/s11/g8k4b36k28g4k4g4k4g36r4g4-b304080-g008000-k000000-rc00000/sett.png)|
+| [Louise](/setts/s11/g2k1b9k7g1k1g1k1g9r1g1~b304080-g008000-k000000-rc00000~x4/)|
+|![Louise example sett](/setts/s11/g2k1b9k7g1k1g1k1g9r1g1~b304080-g008000-k000000-rc00000~x4/sett.png)|

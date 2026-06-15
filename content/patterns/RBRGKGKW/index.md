@@ -6,7 +6,7 @@ RBRGKGKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r140b2r4g24k4g2k20w2-b1474b4-g006818-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r70b1r2g12k2g1k10w1~b1474b4-g006818-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRGKGKW
 
 | Tartans |
 |---------------|
-| [Zamzam (Personal)](/setts/s8/r140b2r4g24k4g2k20w2-b1474b4-g006818-k101010-rc80000-we0e0e0/)|
-|![Zamzam (Personal) example sett](/setts/s8/r140b2r4g24k4g2k20w2-b1474b4-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Zamzam (Personal)](/setts/s8/r70b1r2g12k2g1k10w1~b1474b4-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Zamzam (Personal) example sett](/setts/s8/r70b1r2g12k2g1k10w1~b1474b4-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

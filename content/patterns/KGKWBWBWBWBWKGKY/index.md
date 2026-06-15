@@ -16,5 +16,5 @@ KGKWBWBWBWBWKGKY
 
 | Tartans |
 |---------------|
-| [Henderson Dress #1](/setts/s16/k12g8k2w32b2w8b12w2b12w8b2w32k2g8k12y2-b2888c4-g006818-k101010-wfcfcfc-ye8c000/)|
-|![Henderson Dress #1 example sett](/setts/s16/k12g8k2w32b2w8b12w2b12w8b2w32k2g8k12y2-b2888c4-g006818-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Henderson Dress #1](/setts/s16/k6g4k1w16b1w4b6w1b6w4b1w16k1g4k6y1~b2888c4-g006818-k101010-wfcfcfc-ye8c000~x2/)|
+|![Henderson Dress #1 example sett](/setts/s16/k6g4k1w16b1w4b6w1b6w4b1w16k1g4k6y1~b2888c4-g006818-k101010-wfcfcfc-ye8c000~x2/sett.png)|

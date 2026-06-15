@@ -6,7 +6,7 @@ BKRKGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b48k8r6k8g48k8ra8-b2c4084-g005020-k101010-rdc0000-rafa4b00/tartan.png)
+![Woven sample](/setts/s7/b24k4r3k4g24k4ra4~b2c4084-g005020-k101010-rdc0000-rafa4b00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRKGKR
 
 | Tartans |
 |---------------|
-| [Skene](/setts/s7/b48k8r6k8g48k8ra8-b2c4084-g005020-k101010-rdc0000-rafa4b00/)|
-|![Skene example sett](/setts/s7/b48k8r6k8g48k8ra8-b2c4084-g005020-k101010-rdc0000-rafa4b00/sett.png)|
+| [Skene](/setts/s7/b24k4r3k4g24k4ra4~b2c4084-g005020-k101010-rdc0000-rafa4b00~x2/)|
+|![Skene example sett](/setts/s7/b24k4r3k4g24k4ra4~b2c4084-g005020-k101010-rdc0000-rafa4b00~x2/sett.png)|

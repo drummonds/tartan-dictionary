@@ -6,7 +6,7 @@ WYWYRYBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y48b4y12r6y12w12y12w12-b5c5c5c-ra43454-wfcfcd4-yec9898/tartan.png)
+![Woven sample](/setts/s8/y24b2y6r3y6w6y6w6~b5c5c5c-ra43454-wfcfcd4-yec9898~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYWYRYBY
 
 | Tartans |
 |---------------|
-| [Weaving for Life](/setts/s8/y48b4y12r6y12w12y12w12-b5c5c5c-ra43454-wfcfcd4-yec9898/)|
-|![Weaving for Life example sett](/setts/s8/y48b4y12r6y12w12y12w12-b5c5c5c-ra43454-wfcfcd4-yec9898/sett.png)|
+| [Weaving for Life](/setts/s8/y24b2y6r3y6w6y6w6~b5c5c5c-ra43454-wfcfcd4-yec9898~x2/)|
+|![Weaving for Life example sett](/setts/s8/y24b2y6r3y6w6y6w6~b5c5c5c-ra43454-wfcfcd4-yec9898~x2/sett.png)|

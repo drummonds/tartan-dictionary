@@ -6,7 +6,7 @@ GRBWBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g6r4b70w70b4r6-b1474b4-g007800-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/g3r2b35w35b2r3~b1474b4-g007800-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRBWBR
 
 | Tartans |
 |---------------|
-| [Galloway (Dance)](/setts/s6/g6r4b70w70b4r6-b1474b4-g007800-rc80000-wfcfcfc/)|
-|![Galloway (Dance) example sett](/setts/s6/g6r4b70w70b4r6-b1474b4-g007800-rc80000-wfcfcfc/sett.png)|
+| [Galloway (Dance)](/setts/s6/g3r2b35w35b2r3~b1474b4-g007800-rc80000-wfcfcfc~x2/)|
+|![Galloway (Dance) example sett](/setts/s6/g3r2b35w35b2r3~b1474b4-g007800-rc80000-wfcfcfc~x2/sett.png)|

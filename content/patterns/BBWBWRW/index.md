@@ -6,7 +6,7 @@ BBWBWRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/tartan.png)
+![Woven sample](/setts/s7/b3ba2w2ba30w30r2w3~b003c64-ba0c5488-rc80000-wf0e0c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBWRW
 
 | Tartans |
 |---------------|
-| [Torridon, Royal Blue (Dance)](/setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/)|
-|![Torridon, Royal Blue (Dance) example sett](/setts/s7/b6ba4w4ba60w60r4w6-b003c64-ba0c5488-rc80000-wf0e0c8/sett.png)|
+| [Torridon, Royal Blue (Dance)](/setts/s7/b3ba2w2ba30w30r2w3~b003c64-ba0c5488-rc80000-wf0e0c8~x2/)|
+|![Torridon, Royal Blue (Dance) example sett](/setts/s7/b3ba2w2ba30w30r2w3~b003c64-ba0c5488-rc80000-wf0e0c8~x2/sett.png)|

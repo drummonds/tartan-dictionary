@@ -16,5 +16,5 @@ GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKY
 
 | Tartans |
 |---------------|
-| [Murray, Mungo](/setts/s81/g20y8k4y4k4y4k4y8r2y4r2y8k8y6r14y6r14y2k2y2r14y2k2y2r14y2k2y2r14y6r14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8g2w4g2y4g2w4g2y8k12y2w4y2k12y8g2w4g2y4g2w4g2y8k20y12k4y12k4y12k4-g604000-k101010-r-h1afcfa2c818852b4/)|
-|![Murray, Mungo example sett](/setts/s81/g20y8k4y4k4y4k4y8r2y4r2y8k8y6r14y6r14y2k2y2r14y2k2y2r14y2k2y2r14y6r14y6k8y8k4y4k4y8k8y12k4y12k4y12k4y12k4y12k4y12k20y8g2w4g2y4g2w4g2y8k12y2w4y2k12y8g2w4g2y4g2w4g2y8k20y12k4y12k4y12k4-g604000-k101010-r-h1afcfa2c818852b4/sett.png)|
+| [Murray, Mungo](/setts/s81/g10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1r7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4g1w2g1y2g1w2g1y4k6y1w2y1k6y4g1w2g1y2g1w2g1y4k10y6k2y6k2y6k2~g604000-k101010-rc8002c-we0e0e0-ye-hc59a00d9bea85b8a/)|
+|![Murray, Mungo example sett](/setts/s81/g10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1r7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4g1w2g1y2g1w2g1y4k6y1w2y1k6y4g1w2g1y2g1w2g1y4k10y6k2y6k2y6k2~g604000-k101010-rc8002c-we0e0e0-ye-hc59a00d9bea85b8a/sett.png)|

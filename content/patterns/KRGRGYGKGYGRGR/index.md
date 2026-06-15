@@ -16,5 +16,5 @@ KRGRGYGKGYGRGR
 
 | Tartans |
 |---------------|
-| [Oakhall](/setts/s14/r96g12r12g24y6g4k6g4y6g24r12g12r96k6-g006818-k101010-r901c38-ye8c000/)|
-|![Oakhall example sett](/setts/s14/r96g12r12g24y6g4k6g4y6g24r12g12r96k6-g006818-k101010-r901c38-ye8c000/sett.png)|
+| [Oakhall](/setts/s14/r48g6r6g12y3g2k3g2y3g12r6g6r48k3~g006818-k101010-r901c38-ye8c000~x2/)|
+|![Oakhall example sett](/setts/s14/r48g6r6g12y3g2k3g2y3g12r6g6r48k3~g006818-k101010-r901c38-ye8c000~x2/sett.png)|

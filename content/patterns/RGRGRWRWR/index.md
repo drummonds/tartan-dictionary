@@ -16,5 +16,5 @@ RGRGRWRWR
 
 | Tartans |
 |---------------|
-| [Crawford Arisaid (Dance)](/setts/s9/r12w2r4w50r6g24r6g24r6-g006818-r880000-wfcfcfc/)|
-|![Crawford Arisaid (Dance) example sett](/setts/s9/r12w2r4w50r6g24r6g24r6-g006818-r880000-wfcfcfc/sett.png)|
+| [Crawford Arisaid (Dance)](/setts/s9/r6w1r2w25r3g12r3g12r3~g006818-r880000-wfcfcfc~x2/)|
+|![Crawford Arisaid (Dance) example sett](/setts/s9/r6w1r2w25r3g12r3g12r3~g006818-r880000-wfcfcfc~x2/sett.png)|

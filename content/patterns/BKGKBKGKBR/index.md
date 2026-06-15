@@ -16,5 +16,5 @@ BKGKBKGKBR
 
 | Tartans |
 |---------------|
-| [Wcwm 1684-2](/setts/s10/b96k20g24k4b6k4g24k20b4r6-b6400e0-g64340c-k000000-r783c10/)|
-|![Wcwm 1684-2 example sett](/setts/s10/b96k20g24k4b6k4g24k20b4r6-b6400e0-g64340c-k000000-r783c10/sett.png)|
+| [Wcwm 1684-2](/setts/s10/b48k10g12k2b3k2g12k10b2r3~b6400e0-g64340c-k000000-r783c10~x2/)|
+|![Wcwm 1684-2 example sett](/setts/s10/b48k10g12k2b3k2g12k10b2r3~b6400e0-g64340c-k000000-r783c10~x2/sett.png)|

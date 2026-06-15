@@ -16,5 +16,5 @@ BWRBRBGYGY
 
 | Tartans |
 |---------------|
-| [Hobkirk (School)](/setts/s10/b20w4r36b20ra16b20g80y4g4y4-b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000/)|
-|![Hobkirk (School) example sett](/setts/s10/b20w4r36b20ra16b20g80y4g4y4-b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000/sett.png)|
+| [Hobkirk (School)](/setts/s10/b5w1r9b5ra4b5g20y1g1y1~b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000~x4/)|
+|![Hobkirk (School) example sett](/setts/s10/b5w1r9b5ra4b5g20y1g1y1~b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000~x4/sett.png)|

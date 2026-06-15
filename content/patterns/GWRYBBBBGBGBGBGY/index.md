@@ -16,5 +16,5 @@ GWRYBBBBGBGBGBGY
 
 | Tartans |
 |---------------|
-| [Missouri (Proposed)](/setts/s16/g8w4r4y6b6ba4b4ba4g4ba4g6ba4g16ba12g16y4-b2c2c80-ba480800-g006818-rc80000-we0e0e0-y48a4c0/)|
-|![Missouri (Proposed) example sett](/setts/s16/g8w4r4y6b6ba4b4ba4g4ba4g6ba4g16ba12g16y4-b2c2c80-ba480800-g006818-rc80000-we0e0e0-y48a4c0/sett.png)|
+| [Missouri (Proposed)](/setts/s16/g4w2r2y3b3ba2b2ba2g2ba2g3ba2g8ba6g8y2~b2c2c80-ba480800-g006818-rc80000-we0e0e0-y48a4c0~x2/)|
+|![Missouri (Proposed) example sett](/setts/s16/g4w2r2y3b3ba2b2ba2g2ba2g3ba2g8ba6g8y2~b2c2c80-ba480800-g006818-rc80000-we0e0e0-y48a4c0~x2/sett.png)|

@@ -16,5 +16,5 @@ BWBWBWGGBWBGGWBWBW
 
 | Tartans |
 |---------------|
-| [Greenshields (Personal)](/setts/s18/b80w6b6w6b6w8g16ga16ba16wa4ba16ga16g16w8b6w6b6w6-b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0/)|
-|![Greenshields (Personal) example sett](/setts/s18/b80w6b6w6b6w8g16ga16ba16wa4ba16ga16g16w8b6w6b6w6-b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0/sett.png)|
+| [Greenshields (Personal)](/setts/s18/b40w3b3w3b3w4g8ga8ba8wa2ba8ga8g8w4b3w3b3w3~b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0~x2/)|
+|![Greenshields (Personal) example sett](/setts/s18/b40w3b3w3b3w4g8ga8ba8wa2ba8ga8g8w4b3w3b3w3~b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0~x2/sett.png)|

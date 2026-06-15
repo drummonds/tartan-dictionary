@@ -6,7 +6,7 @@ BBBBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b9ba3b1ba12y1~b5c8ca8-ba344054-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBY
 
 | Tartans |
 |---------------|
-| [North Sea Commission](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/)|
-|![North Sea Commission example sett](/setts/s5/b36ba12b4ba48y4-b5c8ca8-ba344054-ye8c000/sett.png)|
+| [North Sea Commission](/setts/s5/b9ba3b1ba12y1~b5c8ca8-ba344054-ye8c000~x4/)|
+|![North Sea Commission example sett](/setts/s5/b9ba3b1ba12y1~b5c8ca8-ba344054-ye8c000~x4/sett.png)|

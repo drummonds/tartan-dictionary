@@ -16,5 +16,5 @@ GRRGRGKGKBW
 
 | Tartans |
 |---------------|
-| [Pride of Scotland](/setts/s11/g18r4ra4g6ra36g4k4g2k38b66w4-b2c2c80-g006818-k101010-ra00048-ra981c70-wfcfcfc/)|
-|![Pride of Scotland example sett](/setts/s11/g18r4ra4g6ra36g4k4g2k38b66w4-b2c2c80-g006818-k101010-ra00048-ra981c70-wfcfcfc/sett.png)|
+| [Pride of Scotland](/setts/s11/g9r2ra2g3ra18g2k2g1k19b33w2~b2c2c80-g006818-k101010-ra00048-ra981c70-wfcfcfc~x2/)|
+|![Pride of Scotland example sett](/setts/s11/g9r2ra2g3ra18g2k2g1k19b33w2~b2c2c80-g006818-k101010-ra00048-ra981c70-wfcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ BRYRGRBRGR
 
 | Tartans |
 |---------------|
-| [Tupper., Sir Charles..](/setts/s10/b8r14y6r24g30r10b40r10g8r4-b304080-g008000-r806050-yf0c000/)|
-|![Tupper., Sir Charles.. example sett](/setts/s10/b8r14y6r24g30r10b40r10g8r4-b304080-g008000-r806050-yf0c000/sett.png)|
+| [Tupper., Sir Charles..](/setts/s10/b4r7y3r12g15r5b20r5g4r2~b304080-g008000-r806050-yf0c000~x2/)|
+|![Tupper., Sir Charles.. example sett](/setts/s10/b4r7y3r12g15r5b20r5g4r2~b304080-g008000-r806050-yf0c000~x2/sett.png)|

@@ -16,5 +16,5 @@ BRGRGYRBRGWR
 
 | Tartans |
 |---------------|
-| [Michael from Appin (Personal)](/setts/s12/b8r48g4r6g38y4r4b16r4g4w4r4-b2c2c80-g285800-r880000-we0e0e0-ye8c000/)|
-|![Michael from Appin (Personal) example sett](/setts/s12/b8r48g4r6g38y4r4b16r4g4w4r4-b2c2c80-g285800-r880000-we0e0e0-ye8c000/sett.png)|
+| [Michael from Appin (Personal)](/setts/s12/b4r24g2r3g19y2r2b8r2g2w2r2~b2c2c80-g285800-r880000-we0e0e0-ye8c000~x2/)|
+|![Michael from Appin (Personal) example sett](/setts/s12/b4r24g2r3g19y2r2b8r2g2w2r2~b2c2c80-g285800-r880000-we0e0e0-ye8c000~x2/sett.png)|

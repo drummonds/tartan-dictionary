@@ -6,7 +6,7 @@ RYBRBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y8b36r8ba24y4r4-b003beb-ba000080-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s6/y2b9r2ba6y1r1~b003beb-ba000080-rff0000-yffe600~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYBRBY
 
 | Tartans |
 |---------------|
-| [Lauder Primary School](/setts/s6/y8b36r8ba24y4r4-b003beb-ba000080-rff0000-yffe600/)|
-|![Lauder Primary School example sett](/setts/s6/y8b36r8ba24y4r4-b003beb-ba000080-rff0000-yffe600/sett.png)|
+| [Lauder Primary School](/setts/s6/y2b9r2ba6y1r1~b003beb-ba000080-rff0000-yffe600~x4/)|
+|![Lauder Primary School example sett](/setts/s6/y2b9r2ba6y1r1~b003beb-ba000080-rff0000-yffe600~x4/sett.png)|

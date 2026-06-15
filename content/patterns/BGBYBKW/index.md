@@ -6,7 +6,7 @@ BGBYBKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6g12b4y6b84k12w6-b103848-g407040-k101010-we0e0e0-yd8c800/tartan.png)
+![Woven sample](/setts/s7/b3g6b2y3b42k6w3~b103848-g407040-k101010-we0e0e0-yd8c800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBYBKW
 
 | Tartans |
 |---------------|
-| [Bro-sant-Brieg](/setts/s7/b6g12b4y6b84k12w6-b103848-g407040-k101010-we0e0e0-yd8c800/)|
-|![Bro-sant-Brieg example sett](/setts/s7/b6g12b4y6b84k12w6-b103848-g407040-k101010-we0e0e0-yd8c800/sett.png)|
+| [Bro-sant-Brieg](/setts/s7/b3g6b2y3b42k6w3~b103848-g407040-k101010-we0e0e0-yd8c800~x2/)|
+|![Bro-sant-Brieg example sett](/setts/s7/b3g6b2y3b42k6w3~b103848-g407040-k101010-we0e0e0-yd8c800~x2/sett.png)|

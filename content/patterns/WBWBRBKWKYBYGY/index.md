@@ -16,5 +16,5 @@ WBWBRBKWKYBYGY
 
 | Tartans |
 |---------------|
-| [Redgate Dress (Name)](/setts/s14/w14b8w4b14r4b14k12w2k12y10b6y6g26y8-b2c2c80-g5c6428-k101010-rc80000-we8ccb8-ya08858/)|
-|![Redgate Dress (Name) example sett](/setts/s14/w14b8w4b14r4b14k12w2k12y10b6y6g26y8-b2c2c80-g5c6428-k101010-rc80000-we8ccb8-ya08858/sett.png)|
+| [Redgate Dress (Name)](/setts/s14/w7b4w2b7r2b7k6w1k6y5b3y3g13y4~b2c2c80-g5c6428-k101010-rc80000-we8ccb8-ya08858~x2/)|
+|![Redgate Dress (Name) example sett](/setts/s14/w7b4w2b7r2b7k6w1k6y5b3y3g13y4~b2c2c80-g5c6428-k101010-rc80000-we8ccb8-ya08858~x2/sett.png)|

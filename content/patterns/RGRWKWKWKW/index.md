@@ -16,5 +16,5 @@ RGRWKWKWKW
 
 | Tartans |
 |---------------|
-| [Robert, Burns check](/setts/s10/w8k8w8k8w8k8w4r4g4r4-g008000-k000000-r806050-we0e0e0/)|
-|![Robert, Burns check example sett](/setts/s10/w8k8w8k8w8k8w4r4g4r4-g008000-k000000-r806050-we0e0e0/sett.png)|
+| [Robert, Burns check](/setts/s10/w2k2w2k2w2k2w1r1g1r1~g008000-k000000-r806050-we0e0e0~x4/)|
+|![Robert, Burns check example sett](/setts/s10/w2k2w2k2w2k2w1r1g1r1~g008000-k000000-r806050-we0e0e0~x4/sett.png)|

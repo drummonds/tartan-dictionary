@@ -6,7 +6,7 @@ BBWBRYG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b60ba20w20b10r6y6g6-b2c2c80-ba1474b4-g289c18-ra00048-wc0c0c0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b30ba10w10b5r3y3g3~b2c2c80-ba1474b4-g289c18-ra00048-wc0c0c0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBWBRYG
 
 | Tartans |
 |---------------|
-| [Wrigglesworth (Name)](/setts/s7/b60ba20w20b10r6y6g6-b2c2c80-ba1474b4-g289c18-ra00048-wc0c0c0-ye8c000/)|
-|![Wrigglesworth (Name) example sett](/setts/s7/b60ba20w20b10r6y6g6-b2c2c80-ba1474b4-g289c18-ra00048-wc0c0c0-ye8c000/sett.png)|
+| [Wrigglesworth (Name)](/setts/s7/b30ba10w10b5r3y3g3~b2c2c80-ba1474b4-g289c18-ra00048-wc0c0c0-ye8c000~x2/)|
+|![Wrigglesworth (Name) example sett](/setts/s7/b30ba10w10b5r3y3g3~b2c2c80-ba1474b4-g289c18-ra00048-wc0c0c0-ye8c000~x2/sett.png)|

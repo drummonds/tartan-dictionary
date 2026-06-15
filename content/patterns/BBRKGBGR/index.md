@@ -6,7 +6,7 @@ BBRKGBGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r16g8b32g8k28r28b8ba6-b000064-ba3474fc-g006818-k000000-r8c6428/tartan.png)
+![Woven sample](/setts/s8/r8g4b16g4k14r14b4ba3~b000064-ba3474fc-g006818-k000000-r8c6428~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRKGBGR
 
 | Tartans |
 |---------------|
-| [Hinnigan (Personal)](/setts/s8/r16g8b32g8k28r28b8ba6-b000064-ba3474fc-g006818-k000000-r8c6428/)|
-|![Hinnigan (Personal) example sett](/setts/s8/r16g8b32g8k28r28b8ba6-b000064-ba3474fc-g006818-k000000-r8c6428/sett.png)|
+| [Hinnigan (Personal)](/setts/s8/r8g4b16g4k14r14b4ba3~b000064-ba3474fc-g006818-k000000-r8c6428~x2/)|
+|![Hinnigan (Personal) example sett](/setts/s8/r8g4b16g4k14r14b4ba3~b000064-ba3474fc-g006818-k000000-r8c6428~x2/sett.png)|

@@ -16,5 +16,5 @@ GRGWGYGRGRGYGWGR
 
 | Tartans |
 |---------------|
-| [Wilson's No.169](/setts/s16/r18g20w4g4y4g20r18g10r18g20y4g4w4g20r18g10-g006818-rc80000-we0e0e0-ye8c000/)|
-|![Wilson's No.169 example sett](/setts/s16/r18g20w4g4y4g20r18g10r18g20y4g4w4g20r18g10-g006818-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Wilson's No.169](/setts/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~g006818-rc80000-we0e0e0-ye8c000~x2/)|
+|![Wilson's No.169 example sett](/setts/s16/r9g10w2g2y2g10r9g5r9g10y2g2w2g10r9g5~g006818-rc80000-we0e0e0-ye8c000~x2/sett.png)|

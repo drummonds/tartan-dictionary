@@ -16,5 +16,5 @@ BGBGBGBGGB
 
 | Tartans |
 |---------------|
-| [Gray](/setts/s10/b6g60ga16b4ga4b4ga4b16g14b4-b600030-g808080-ga008000/)|
-|![Gray example sett](/setts/s10/b6g60ga16b4ga4b4ga4b16g14b4-b600030-g808080-ga008000/sett.png)|
+| [Gray](/setts/s10/b3g30ga8b2ga2b2ga2b8g7b2~b600030-g808080-ga008000~x2/)|
+|![Gray example sett](/setts/s10/b3g30ga8b2ga2b2ga2b8g7b2~b600030-g808080-ga008000~x2/sett.png)|

@@ -16,5 +16,5 @@ GGRGYGKRYRK
 
 | Tartans |
 |---------------|
-| [Chelsea](/setts/s11/k16r120y12r12k24g144y4g8ra8g8ga8-g0c5454-ga688c28-k000000-r740010-rac80000-yc89800/)|
-|![Chelsea example sett](/setts/s11/k16r120y12r12k24g144y4g8ra8g8ga8-g0c5454-ga688c28-k000000-r740010-rac80000-yc89800/sett.png)|
+| [Chelsea](/setts/s11/k4r30y3r3k6g36y1g2ra2g2ga2~g0c5454-ga688c28-k000000-r740010-rac80000-yc89800~x4/)|
+|![Chelsea example sett](/setts/s11/k4r30y3r3k6g36y1g2ra2g2ga2~g0c5454-ga688c28-k000000-r740010-rac80000-yc89800~x4/sett.png)|

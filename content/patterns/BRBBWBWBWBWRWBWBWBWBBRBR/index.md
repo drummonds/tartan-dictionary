@@ -16,5 +16,5 @@ BRBBWBWBWBWRWBWBWBWBBRBR
 
 | Tartans |
 |---------------|
-| [Hogmany Plaid](/setts/s24/r4b2r2b28ba24w2ba6w6ba6w6ba6w14r4w14ba6w6ba6w6ba6w2ba24b28r2b2-b2c2c80-ba003c64-rc80000-we0e0e0/)|
-|![Hogmany Plaid example sett](/setts/s24/r4b2r2b28ba24w2ba6w6ba6w6ba6w14r4w14ba6w6ba6w6ba6w2ba24b28r2b2-b2c2c80-ba003c64-rc80000-we0e0e0/sett.png)|
+| [Hogmany Plaid](/setts/s24/r2b1r1b14ba12w1ba3w3ba3w3ba3w7r2w7ba3w3ba3w3ba3w1ba12b14r1b1~b2c2c80-ba003c64-rc80000-we0e0e0~x2/)|
+|![Hogmany Plaid example sett](/setts/s24/r2b1r1b14ba12w1ba3w3ba3w3ba3w7r2w7ba3w3ba3w3ba3w1ba12b14r1b1~b2c2c80-ba003c64-rc80000-we0e0e0~x2/sett.png)|

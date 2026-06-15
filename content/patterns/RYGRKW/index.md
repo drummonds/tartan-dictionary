@@ -6,7 +6,7 @@ RYGRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w86k10r6g10y54ra10-g052f14-k120a01-rdd1212-ra832a4f-wf7f1e8-yf9c75c/tartan.png)
+![Woven sample](/setts/s6/w43k5r3g5y27ra5~g052f14-k120a01-rdd1212-ra832a4f-wf7f1e8-yf9c75c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYGRKW
 
 | Tartans |
 |---------------|
-| [Reekie, Charlene](/setts/s6/w86k10r6g10y54ra10-g052f14-k120a01-rdd1212-ra832a4f-wf7f1e8-yf9c75c/)|
-|![Reekie, Charlene example sett](/setts/s6/w86k10r6g10y54ra10-g052f14-k120a01-rdd1212-ra832a4f-wf7f1e8-yf9c75c/sett.png)|
+| [Reekie, Charlene](/setts/s6/w43k5r3g5y27ra5~g052f14-k120a01-rdd1212-ra832a4f-wf7f1e8-yf9c75c~x2/)|
+|![Reekie, Charlene example sett](/setts/s6/w43k5r3g5y27ra5~g052f14-k120a01-rdd1212-ra832a4f-wf7f1e8-yf9c75c~x2/sett.png)|

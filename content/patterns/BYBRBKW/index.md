@@ -6,7 +6,7 @@ BYBRBKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w6k38b48r4b4y4b4-b1c1c50-k000000-rc82828-w98c8e8-yfcc000/tartan.png)
+![Woven sample](/setts/s7/w3k19b24r2b2y2b2~b1c1c50-k000000-rc82828-w98c8e8-yfcc000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBRBKW
 
 | Tartans |
 |---------------|
-| [Mensa](/setts/s7/w6k38b48r4b4y4b4-b1c1c50-k000000-rc82828-w98c8e8-yfcc000/)|
-|![Mensa example sett](/setts/s7/w6k38b48r4b4y4b4-b1c1c50-k000000-rc82828-w98c8e8-yfcc000/sett.png)|
+| [Mensa](/setts/s7/w3k19b24r2b2y2b2~b1c1c50-k000000-rc82828-w98c8e8-yfcc000~x2/)|
+|![Mensa example sett](/setts/s7/w3k19b24r2b2y2b2~b1c1c50-k000000-rc82828-w98c8e8-yfcc000~x2/sett.png)|

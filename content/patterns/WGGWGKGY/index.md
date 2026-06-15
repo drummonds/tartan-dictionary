@@ -6,7 +6,7 @@ WGGWGKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w18g4ga4w6ga36k4g66y4-g005834-ga006818-k101010-we0e0e0-yd87c00/tartan.png)
+![Woven sample](/setts/s8/w9g2ga2w3ga18k2g33y2~g005834-ga006818-k101010-we0e0e0-yd87c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGGWGKGY
 
 | Tartans |
 |---------------|
-| [New World Irish (Fashion)](/setts/s8/w18g4ga4w6ga36k4g66y4-g005834-ga006818-k101010-we0e0e0-yd87c00/)|
-|![New World Irish (Fashion) example sett](/setts/s8/w18g4ga4w6ga36k4g66y4-g005834-ga006818-k101010-we0e0e0-yd87c00/sett.png)|
+| [New World Irish (Fashion)](/setts/s8/w9g2ga2w3ga18k2g33y2~g005834-ga006818-k101010-we0e0e0-yd87c00~x2/)|
+|![New World Irish (Fashion) example sett](/setts/s8/w9g2ga2w3ga18k2g33y2~g005834-ga006818-k101010-we0e0e0-yd87c00~x2/sett.png)|

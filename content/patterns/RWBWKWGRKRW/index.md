@@ -16,5 +16,5 @@ RWBWKWGRKRW
 
 | Tartans |
 |---------------|
-| [Rothesay, Duke of](/setts/s11/r4w56b8w4k12w4g14r8k2r4w2-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![Rothesay, Duke of example sett](/setts/s11/r4w56b8w4k12w4g14r8k2r4w2-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Rothesay, Duke of](/setts/s11/r2w28b4w2k6w2g7r4k1r2w1~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![Rothesay, Duke of example sett](/setts/s11/r2w28b4w2k6w2g7r4k1r2w1~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

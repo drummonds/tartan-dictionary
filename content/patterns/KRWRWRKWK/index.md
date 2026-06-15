@@ -16,5 +16,5 @@ KRWRWRKWK
 
 | Tartans |
 |---------------|
-| [Tweedside Variation (silk sample)](/setts/s9/k100w6k6r8w6r6w10r6k6-k101010-rc80000-wfcfcfc/)|
-|![Tweedside Variation (silk sample) example sett](/setts/s9/k100w6k6r8w6r6w10r6k6-k101010-rc80000-wfcfcfc/sett.png)|
+| [Tweedside Variation (silk sample)](/setts/s9/k50w3k3r4w3r3w5r3k3~k101010-rc80000-wfcfcfc~x2/)|
+|![Tweedside Variation (silk sample) example sett](/setts/s9/k50w3k3r4w3r3w5r3k3~k101010-rc80000-wfcfcfc~x2/sett.png)|

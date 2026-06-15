@@ -6,7 +6,7 @@ BWBRBWY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8w8b16r16b24w24y2-b3850c8-r888888-wc0c0c0-yffff00/tartan.png)
+![Woven sample](/setts/s7/b4w4b8r8b12w12y1~b3850c8-r888888-wc0c0c0-yffff00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBRBWY
 
 | Tartans |
 |---------------|
-| [von Prondzynski (2016)](/setts/s7/b8w8b16r16b24w24y2-b3850c8-r888888-wc0c0c0-yffff00/)|
-|![von Prondzynski (2016) example sett](/setts/s7/b8w8b16r16b24w24y2-b3850c8-r888888-wc0c0c0-yffff00/sett.png)|
+| [von Prondzynski (2016)](/setts/s7/b4w4b8r8b12w12y1~b3850c8-r888888-wc0c0c0-yffff00~x2/)|
+|![von Prondzynski (2016) example sett](/setts/s7/b4w4b8r8b12w12y1~b3850c8-r888888-wc0c0c0-yffff00~x2/sett.png)|

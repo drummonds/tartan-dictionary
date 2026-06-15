@@ -16,5 +16,5 @@ YRBGRGRBGRY
 
 | Tartans |
 |---------------|
-| [Callanish (District)](/setts/s11/y4r4b4g4r12g6r6b6g4r4y4-b5c5c5c-g5c6428-r888888-yc4bc68/)|
-|![Callanish (District) example sett](/setts/s11/y4r4b4g4r12g6r6b6g4r4y4-b5c5c5c-g5c6428-r888888-yc4bc68/sett.png)|
+| [Callanish (District)](/setts/s11/y2r2b2g2r6g3r3b3g2r2y2~b5c5c5c-g5c6428-r888888-yc4bc68~x2/)|
+|![Callanish (District) example sett](/setts/s11/y2r2b2g2r6g3r3b3g2r2y2~b5c5c5c-g5c6428-r888888-yc4bc68~x2/sett.png)|

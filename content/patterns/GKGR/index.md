@@ -6,7 +6,7 @@ GKGR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g64k44g64r8-g006818-k101010-r880000/tartan.png)
+![Woven sample](/setts/s4/g16k11g16r2~g006818-k101010-r880000~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKGR
 
 | Tartans |
 |---------------|
-| [Kincaid of Kincaid](/setts/s4/g64k44g64r8-g006818-k101010-r880000/)|
-|![Kincaid of Kincaid example sett](/setts/s4/g64k44g64r8-g006818-k101010-r880000/sett.png)|
-| [Wilson's No.094](/setts/s4/g8k10g8r4-g408060-k101010-rc80000/)|
-|![Wilson's No.094 example sett](/setts/s4/g8k10g8r4-g408060-k101010-rc80000/sett.png)|
+| [Kincaid of Kincaid](/setts/s4/g16k11g16r2~g006818-k101010-r880000~x4/)|
+|![Kincaid of Kincaid example sett](/setts/s4/g16k11g16r2~g006818-k101010-r880000~x4/sett.png)|
+| [Wilson's No.094](/setts/s4/g4k5g4r2~g408060-k101010-rc80000~x2/)|
+|![Wilson's No.094 example sett](/setts/s4/g4k5g4r2~g408060-k101010-rc80000~x2/sett.png)|

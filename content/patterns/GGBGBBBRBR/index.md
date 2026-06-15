@@ -16,5 +16,5 @@ GGBGBBBRBR
 
 | Tartans |
 |---------------|
-| [Donegal](/setts/s10/g6ga34b6ga6b6ba10b36r4b16r4-b304080-ba401000-g908000-ga008000-rc00000/)|
-|![Donegal example sett](/setts/s10/g6ga34b6ga6b6ba10b36r4b16r4-b304080-ba401000-g908000-ga008000-rc00000/sett.png)|
+| [Donegal](/setts/s10/g3ga17b3ga3b3ba5b18r2b8r2~b304080-ba401000-g908000-ga008000-rc00000~x2/)|
+|![Donegal example sett](/setts/s10/g3ga17b3ga3b3ba5b18r2b8r2~b304080-ba401000-g908000-ga008000-rc00000~x2/sett.png)|

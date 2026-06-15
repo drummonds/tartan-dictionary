@@ -16,5 +16,5 @@ BBBBWBBYBBWBBRBBWB
 
 | Tartans |
 |---------------|
-| [Vilario (Personal))](/setts/s18/b40ba4b40bb20w2bb20b40y4b40bb20w2bb20b40r4b40bb20w2bb20-b003c64-ba9058d8-bb2888c4-rc80000-wf8f8f8-ye8c000/)|
-|![Vilario (Personal)) example sett](/setts/s18/b40ba4b40bb20w2bb20b40y4b40bb20w2bb20b40r4b40bb20w2bb20-b003c64-ba9058d8-bb2888c4-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Vilario (Personal))](/setts/s18/b20ba2b20bb10w1bb10b20y2b20bb10w1bb10b20r2b20bb10w1bb10~b003c64-ba9058d8-bb2888c4-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Vilario (Personal)) example sett](/setts/s18/b20ba2b20bb10w1bb10b20y2b20bb10w1bb10b20r2b20bb10w1bb10~b003c64-ba9058d8-bb2888c4-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

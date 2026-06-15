@@ -16,5 +16,5 @@ BRWYRBRYRW
 
 | Tartans |
 |---------------|
-| [Glenburnie School](/setts/s10/b88r8w4y12r4b24r88y12r4w40-b5c5c5c-rc80000-wfcfcfc-yd87c00/)|
-|![Glenburnie School example sett](/setts/s10/b88r8w4y12r4b24r88y12r4w40-b5c5c5c-rc80000-wfcfcfc-yd87c00/sett.png)|
+| [Glenburnie School](/setts/s10/b22r2w1y3r1b6r22y3r1w10~b5c5c5c-rc80000-wfcfcfc-yd87c00~x4/)|
+|![Glenburnie School example sett](/setts/s10/b22r2w1y3r1b6r22y3r1w10~b5c5c5c-rc80000-wfcfcfc-yd87c00~x4/sett.png)|

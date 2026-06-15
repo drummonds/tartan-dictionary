@@ -16,5 +16,5 @@ RKRKRBRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Walkers Shortbread (Corporate)](/setts/s15/r10k2r4k4r32b4r4k18r4k4r4k26r4k4r8-b5c8ca8-k101010-rc80000/)|
-|![Walkers Shortbread (Corporate) example sett](/setts/s15/r10k2r4k4r32b4r4k18r4k4r4k26r4k4r8-b5c8ca8-k101010-rc80000/sett.png)|
+| [Walkers Shortbread (Corporate)](/setts/s15/r5k1r2k2r16b2r2k9r2k2r2k13r2k2r4~b5c8ca8-k101010-rc80000~x2/)|
+|![Walkers Shortbread (Corporate) example sett](/setts/s15/r5k1r2k2r16b2r2k9r2k2r2k13r2k2r4~b5c8ca8-k101010-rc80000~x2/sett.png)|

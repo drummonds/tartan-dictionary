@@ -6,7 +6,7 @@ GKYKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/tartan.png)
+![Woven sample](/setts/s5/g62k40y3k3w3~g006818-k101010-wf8f8f8-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKYKW
 
 | Tartans |
 |---------------|
-| [O'Donoghue](/setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/)|
-|![O'Donoghue example sett](/setts/s5/g124k80y6k6w6-g006818-k101010-wf8f8f8-ye8c000/sett.png)|
+| [O'Donoghue](/setts/s5/g62k40y3k3w3~g006818-k101010-wf8f8f8-ye8c000~x2/)|
+|![O'Donoghue example sett](/setts/s5/g62k40y3k3w3~g006818-k101010-wf8f8f8-ye8c000~x2/sett.png)|

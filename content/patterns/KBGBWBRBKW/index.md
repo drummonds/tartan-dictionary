@@ -16,5 +16,5 @@ KBGBWBRBKW
 
 | Tartans |
 |---------------|
-| [Al-Fadhli (Personal)](/setts/s10/k34b48g6b6w6b6r6b48k34w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Al-Fadhli (Personal) example sett](/setts/s10/k34b48g6b6w6b6r6b48k34w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Al-Fadhli (Personal)](/setts/s10/k17b24g3b3w3b3r3b24k17w1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Al-Fadhli (Personal) example sett](/setts/s10/k17b24g3b3w3b3r3b24k17w1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

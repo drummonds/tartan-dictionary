@@ -16,5 +16,5 @@ BRKWRBRBK
 
 | Tartans |
 |---------------|
-| [United Arrows House Check](/setts/s9/b90r8k40w6ra18ba8ra6ba18k22-b202060-ba4c0000-k1c1714-rdc0000-rab07430-we8ccb8/)|
-|![United Arrows House Check example sett](/setts/s9/b90r8k40w6ra18ba8ra6ba18k22-b202060-ba4c0000-k1c1714-rdc0000-rab07430-we8ccb8/sett.png)|
+| [United Arrows House Check](/setts/s9/b45r4k20w3ra9ba4ra3ba9k11~b202060-ba4c0000-k1c1714-rdc0000-rab07430-we8ccb8~x2/)|
+|![United Arrows House Check example sett](/setts/s9/b45r4k20w3ra9ba4ra3ba9k11~b202060-ba4c0000-k1c1714-rdc0000-rab07430-we8ccb8~x2/sett.png)|

@@ -16,5 +16,5 @@ RBRBWRWBWRWBRBRW
 
 | Tartans |
 |---------------|
-| [Snoozzzeee](/setts/s16/w6r3b36r4b12w24r72w8b4w8r72w24b12r4b36r3-b2c2c80-rc80000-we8ccb8/)|
-|![Snoozzzeee example sett](/setts/s16/w6r3b36r4b12w24r72w8b4w8r72w24b12r4b36r3-b2c2c80-rc80000-we8ccb8/sett.png)|
+| [Snoozzzeee](/setts/s16/w6r3b36r4b12w24r72w8b4w8r72w24b12r4b36r3~b2c2c80-rc80000-we8ccb8/)|
+|![Snoozzzeee example sett](/setts/s16/w6r3b36r4b12w24r72w8b4w8r72w24b12r4b36r3~b2c2c80-rc80000-we8ccb8/sett.png)|

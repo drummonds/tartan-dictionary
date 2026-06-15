@@ -16,5 +16,5 @@ KRGKYKWKRBW
 
 | Tartans |
 |---------------|
-| [Kilmorie](/setts/s11/k6r60g20k6y4k6w4k12r4b24w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Kilmorie example sett](/setts/s11/k6r60g20k6y4k6w4k12r4b24w4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Kilmorie](/setts/s11/k3r30g10k3y2k3w2k6r2b12w2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Kilmorie example sett](/setts/s11/k3r30g10k3y2k3w2k6r2b12w2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

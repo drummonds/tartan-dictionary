@@ -6,7 +6,7 @@ GKRKRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r16w8r100k24r8k30g10-g289c18-k101010-re40018-wf8f8f8/tartan.png)
+![Woven sample](/setts/s7/r8w4r50k12r4k15g5~g289c18-k101010-re40018-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKRKRWR
 
 | Tartans |
 |---------------|
-| [Instakilt, Red (Fashion)](/setts/s7/r16w8r100k24r8k30g10-g289c18-k101010-re40018-wf8f8f8/)|
-|![Instakilt, Red (Fashion) example sett](/setts/s7/r16w8r100k24r8k30g10-g289c18-k101010-re40018-wf8f8f8/sett.png)|
+| [Instakilt, Red (Fashion)](/setts/s7/r8w4r50k12r4k15g5~g289c18-k101010-re40018-wf8f8f8~x2/)|
+|![Instakilt, Red (Fashion) example sett](/setts/s7/r8w4r50k12r4k15g5~g289c18-k101010-re40018-wf8f8f8~x2/sett.png)|

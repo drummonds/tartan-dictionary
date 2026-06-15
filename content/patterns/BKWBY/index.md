@@ -6,7 +6,7 @@ BKWBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b12k4w12ba16y12-b275edc-ba761ca0-k101010-wd1d5cd-y0bb43f/tartan.png)
+![Woven sample](/setts/s5/b3k1w3ba4y3~b275edc-ba761ca0-k101010-wd1d5cd-y0bb43f~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWBY
 
 | Tartans |
 |---------------|
-| [Crinnion (Middlesbrough) (Personal)](/setts/s5/b12k4w12ba16y12-b275edc-ba761ca0-k101010-wd1d5cd-y0bb43f/)|
-|![Crinnion (Middlesbrough) (Personal) example sett](/setts/s5/b12k4w12ba16y12-b275edc-ba761ca0-k101010-wd1d5cd-y0bb43f/sett.png)|
+| [Crinnion (Middlesbrough) (Personal)](/setts/s5/b3k1w3ba4y3~b275edc-ba761ca0-k101010-wd1d5cd-y0bb43f~x4/)|
+|![Crinnion (Middlesbrough) (Personal) example sett](/setts/s5/b3k1w3ba4y3~b275edc-ba761ca0-k101010-wd1d5cd-y0bb43f~x4/sett.png)|

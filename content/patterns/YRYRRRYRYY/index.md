@@ -16,5 +16,5 @@ YRYRRRYRYY
 
 | Tartans |
 |---------------|
-| [Glasgow's Miles Better](/setts/s10/y24ya8r8y8r8ra8r30ya30ra30y16-r888888-rac80000-ye8c000-yaa0a0a0/)|
-|![Glasgow's Miles Better example sett](/setts/s10/y24ya8r8y8r8ra8r30ya30ra30y16-r888888-rac80000-ye8c000-yaa0a0a0/sett.png)|
+| [Glasgow's Miles Better](/setts/s10/y12ya4r4y4r4ra4r15ya15ra15y8~r888888-rac80000-ye8c000-yaa0a0a0~x2/)|
+|![Glasgow's Miles Better example sett](/setts/s10/y12ya4r4y4r4ra4r15ya15ra15y8~r888888-rac80000-ye8c000-yaa0a0a0~x2/sett.png)|

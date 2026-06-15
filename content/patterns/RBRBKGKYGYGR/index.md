@@ -16,5 +16,5 @@ RBRBKGKYGYGR
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson](/setts/s12/r8g28y4g8y4k12g6k12b28r4b8r8-b2c2c80-g604000-k101010-rc80000-yd87c00/)|
-|![Kinloch Anderson example sett](/setts/s12/r8g28y4g8y4k12g6k12b28r4b8r8-b2c2c80-g604000-k101010-rc80000-yd87c00/sett.png)|
+| [Kinloch Anderson](/setts/s12/r4g14y2g4y2k6g3k6b14r2b4r4~b2c2c80-g604000-k101010-rc80000-yd87c00~x2/)|
+|![Kinloch Anderson example sett](/setts/s12/r4g14y2g4y2k6g3k6b14r2b4r4~b2c2c80-g604000-k101010-rc80000-yd87c00~x2/sett.png)|

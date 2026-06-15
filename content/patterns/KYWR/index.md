@@ -6,7 +6,7 @@ KYWR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k70y16w3r45-k000000-rff6600-w00ccff-yff9900/tartan.png)
+![Woven sample](/setts/s4/k70y16w3r45~k000000-rff6600-w00ccff-yff9900/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KYWR
 
 | Tartans |
 |---------------|
-| [Klymson (Chicago) (Personal)](/setts/s4/k70y16w3r45-k000000-rff6600-w00ccff-yff9900/)|
-|![Klymson (Chicago) (Personal) example sett](/setts/s4/k70y16w3r45-k000000-rff6600-w00ccff-yff9900/sett.png)|
-| [Spirit of Riverside (Corporate)](/setts/s4/r40w26y48k6-k101010-r888888-we0e0e0-ye8c000/)|
-|![Spirit of Riverside (Corporate) example sett](/setts/s4/r40w26y48k6-k101010-r888888-we0e0e0-ye8c000/sett.png)|
+| [Klymson (Chicago) (Personal)](/setts/s4/k70y16w3r45~k000000-rff6600-w00ccff-yff9900/)|
+|![Klymson (Chicago) (Personal) example sett](/setts/s4/k70y16w3r45~k000000-rff6600-w00ccff-yff9900/sett.png)|
+| [Spirit of Riverside (Corporate)](/setts/s4/r20w13y24k3~k101010-r888888-we0e0e0-ye8c000~x2/)|
+|![Spirit of Riverside (Corporate) example sett](/setts/s4/r20w13y24k3~k101010-r888888-we0e0e0-ye8c000~x2/sett.png)|

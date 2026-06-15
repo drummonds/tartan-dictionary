@@ -16,5 +16,5 @@ BKBBBKYBBY
 
 | Tartans |
 |---------------|
-| [Hughes (USA) (Name)](/setts/s10/b8k24ba6b8ba6k6y72ba6b4y6-b2474e8-ba2c2c80-k101010-yfccc00/)|
-|![Hughes (USA) (Name) example sett](/setts/s10/b8k24ba6b8ba6k6y72ba6b4y6-b2474e8-ba2c2c80-k101010-yfccc00/sett.png)|
+| [Hughes (USA) (Name)](/setts/s10/b4k12ba3b4ba3k3y36ba3b2y3~b2474e8-ba2c2c80-k101010-yfccc00~x2/)|
+|![Hughes (USA) (Name) example sett](/setts/s10/b4k12ba3b4ba3k3y36ba3b2y3~b2474e8-ba2c2c80-k101010-yfccc00~x2/sett.png)|

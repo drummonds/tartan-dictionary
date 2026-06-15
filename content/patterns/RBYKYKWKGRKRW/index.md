@@ -16,5 +16,5 @@ RBYKYKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Beaton (Name)](/setts/s13/r8b72y16k20y4k4w4k8g32r24k4r12w4-b3c3c60-g006800-k000000-rc80000-wfcfcfc-yf0c800/)|
-|![Beaton (Name) example sett](/setts/s13/r8b72y16k20y4k4w4k8g32r24k4r12w4-b3c3c60-g006800-k000000-rc80000-wfcfcfc-yf0c800/sett.png)|
+| [Beaton (Name)](/setts/s13/r2b18y4k5y1k1w1k2g8r6k1r3w1~b3c3c60-g006800-k000000-rc80000-wfcfcfc-yf0c800~x4/)|
+|![Beaton (Name) example sett](/setts/s13/r2b18y4k5y1k1w1k2g8r6k1r3w1~b3c3c60-g006800-k000000-rc80000-wfcfcfc-yf0c800~x4/sett.png)|

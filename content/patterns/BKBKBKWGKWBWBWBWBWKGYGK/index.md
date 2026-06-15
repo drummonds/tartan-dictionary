@@ -16,5 +16,5 @@ BKBKBKWGKWBWBWBWBWKGYGK
 
 | Tartans |
 |---------------|
-| [Campbell dress](/setts/s23/k24g24y6g24k18w10b12w38b4w12b4w38b12w10k18g24w6k24b20k4b4k4b20-b304080-g008000-k000000-we0e0e0-yf0c000/)|
-|![Campbell dress example sett](/setts/s23/k24g24y6g24k18w10b12w38b4w12b4w38b12w10k18g24w6k24b20k4b4k4b20-b304080-g008000-k000000-we0e0e0-yf0c000/sett.png)|
+| [Campbell dress](/setts/s23/k12g12y3g12k9w5b6w19b2w6b2w19b6w5k9g12w3k12b10k2b2k2b10~b304080-g008000-k000000-we0e0e0-yf0c000~x2/)|
+|![Campbell dress example sett](/setts/s23/k12g12y3g12k9w5b6w19b2w6b2w19b6w5k9g12w3k12b10k2b2k2b10~b304080-g008000-k000000-we0e0e0-yf0c000~x2/sett.png)|

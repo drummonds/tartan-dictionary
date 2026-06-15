@@ -6,7 +6,7 @@ RWKY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r80w40k5y6-k101010-r800028-w98c8e8-yd87c00/tartan.png)
+![Woven sample](/setts/s4/r80w40k5y6~k101010-r800028-w98c8e8-yd87c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKY
 
 | Tartans |
 |---------------|
-| [Broberg (Scania) (Personal)](/setts/s4/r80w40k5y6-k101010-r800028-w98c8e8-yd87c00/)|
-|![Broberg (Scania) (Personal) example sett](/setts/s4/r80w40k5y6-k101010-r800028-w98c8e8-yd87c00/sett.png)|
+| [Broberg (Scania) (Personal)](/setts/s4/r80w40k5y6~k101010-r800028-w98c8e8-yd87c00/)|
+|![Broberg (Scania) (Personal) example sett](/setts/s4/r80w40k5y6~k101010-r800028-w98c8e8-yd87c00/sett.png)|

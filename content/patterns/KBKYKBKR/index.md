@@ -6,7 +6,7 @@ KBKYKBKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k76b11k3y6k3b13k11r76-b003c64-k101010-r888888-ye8c000/tartan.png)
+![Woven sample](/setts/s8/k76b11k3y6k3b13k11r76~b003c64-k101010-r888888-ye8c000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKYKBKR
 
 | Tartans |
 |---------------|
-| [Kunbi](/setts/s8/k76b11k3y6k3b13k11r76-b003c64-k101010-r888888-ye8c000/)|
-|![Kunbi example sett](/setts/s8/k76b11k3y6k3b13k11r76-b003c64-k101010-r888888-ye8c000/sett.png)|
+| [Kunbi](/setts/s8/k76b11k3y6k3b13k11r76~b003c64-k101010-r888888-ye8c000/)|
+|![Kunbi example sett](/setts/s8/k76b11k3y6k3b13k11r76~b003c64-k101010-r888888-ye8c000/sett.png)|

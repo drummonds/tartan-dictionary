@@ -6,7 +6,7 @@ WGKGKGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y6g48k22g6ka20g6w4-g004800-k000030-ka000000-we0e0e0-y9c9c00/tartan.png)
+![Woven sample](/setts/s7/y3g24k11g3ka10g3w2~g004800-k000030-ka000000-we0e0e0-y9c9c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGKGKGY
 
 | Tartans |
 |---------------|
-| [Cornish Brewery, Green](/setts/s7/y6g48k22g6ka20g6w4-g004800-k000030-ka000000-we0e0e0-y9c9c00/)|
-|![Cornish Brewery, Green example sett](/setts/s7/y6g48k22g6ka20g6w4-g004800-k000030-ka000000-we0e0e0-y9c9c00/sett.png)|
+| [Cornish Brewery, Green](/setts/s7/y3g24k11g3ka10g3w2~g004800-k000030-ka000000-we0e0e0-y9c9c00~x2/)|
+|![Cornish Brewery, Green example sett](/setts/s7/y3g24k11g3ka10g3w2~g004800-k000030-ka000000-we0e0e0-y9c9c00~x2/sett.png)|

@@ -16,5 +16,5 @@ WRKRKRKBGBGBGY
 
 | Tartans |
 |---------------|
-| [Gotts (Personal)](/setts/s14/w4r38k4r4k6r4k16b16g4b6g4b4g38y4-b000064-g005020-k101010-r781c38-we0e0e0-yc89600/)|
-|![Gotts (Personal) example sett](/setts/s14/w4r38k4r4k6r4k16b16g4b6g4b4g38y4-b000064-g005020-k101010-r781c38-we0e0e0-yc89600/sett.png)|
+| [Gotts (Personal)](/setts/s14/w2r19k2r2k3r2k8b8g2b3g2b2g19y2~b000064-g005020-k101010-r781c38-we0e0e0-yc89600~x2/)|
+|![Gotts (Personal) example sett](/setts/s14/w2r19k2r2k3r2k8b8g2b3g2b2g19y2~b000064-g005020-k101010-r781c38-we0e0e0-yc89600~x2/sett.png)|

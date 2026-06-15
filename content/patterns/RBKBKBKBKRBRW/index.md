@@ -16,5 +16,5 @@ RBKBKBKBKRBRW
 
 | Tartans |
 |---------------|
-| [Hynett, William (Personal)](/setts/s13/r2b28k20b20k2b4k2b20k20ra16b4rb4w2-b003c64-k101010-re87878-raa00000-rbff0000-wffffff/)|
-|![Hynett, William (Personal) example sett](/setts/s13/r2b28k20b20k2b4k2b20k20ra16b4rb4w2-b003c64-k101010-re87878-raa00000-rbff0000-wffffff/sett.png)|
+| [Hynett, William (Personal)](/setts/s13/r1b14k10b10k1b2k1b10k10ra8b2rb2w1~b003c64-k101010-re87878-raa00000-rbff0000-wffffff~x2/)|
+|![Hynett, William (Personal) example sett](/setts/s13/r1b14k10b10k1b2k1b10k10ra8b2rb2w1~b003c64-k101010-re87878-raa00000-rbff0000-wffffff~x2/sett.png)|

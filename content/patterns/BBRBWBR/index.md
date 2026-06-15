@@ -6,7 +6,7 @@ BBRBWBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4ba4r2ba32w2b40r4-b2c2c80-ba3850c8-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b2ba2r1ba16w1b20r2~b2c2c80-ba3850c8-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRBWBR
 
 | Tartans |
 |---------------|
-| [British American School (Corporate)](/setts/s7/b4ba4r2ba32w2b40r4-b2c2c80-ba3850c8-rc80000-we0e0e0/)|
-|![British American School (Corporate) example sett](/setts/s7/b4ba4r2ba32w2b40r4-b2c2c80-ba3850c8-rc80000-we0e0e0/sett.png)|
+| [British American School (Corporate)](/setts/s7/b2ba2r1ba16w1b20r2~b2c2c80-ba3850c8-rc80000-we0e0e0~x2/)|
+|![British American School (Corporate) example sett](/setts/s7/b2ba2r1ba16w1b20r2~b2c2c80-ba3850c8-rc80000-we0e0e0~x2/sett.png)|

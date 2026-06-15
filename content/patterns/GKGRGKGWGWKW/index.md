@@ -16,5 +16,5 @@ GKGRGKGWGWKW
 
 | Tartans |
 |---------------|
-| [Moss](/setts/s12/g8k4g56r8g8k36g8w8g8w14k2wa6-g289c18-k101010-rc80000-wc49cd8-wafcfcfc/)|
-|![Moss example sett](/setts/s12/g8k4g56r8g8k36g8w8g8w14k2wa6-g289c18-k101010-rc80000-wc49cd8-wafcfcfc/sett.png)|
+| [Moss](/setts/s12/g4k2g28r4g4k18g4w4g4w7k1wa3~g289c18-k101010-rc80000-wc49cd8-wafcfcfc~x2/)|
+|![Moss example sett](/setts/s12/g4k2g28r4g4k18g4w4g4w7k1wa3~g289c18-k101010-rc80000-wc49cd8-wafcfcfc~x2/sett.png)|

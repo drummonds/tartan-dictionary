@@ -6,7 +6,7 @@ GBGBKBWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6w60b20k6ba30g4ba6g2-b2c3c98-ba640064-g208414-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r3w30b10k3ba15g2ba3g1~b2c3c98-ba640064-g208414-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBGBKBWR
 
 | Tartans |
 |---------------|
-| [SOBHD](/setts/s8/r6w60b20k6ba30g4ba6g2-b2c3c98-ba640064-g208414-k101010-rc80000-we0e0e0/)|
-|![SOBHD example sett](/setts/s8/r6w60b20k6ba30g4ba6g2-b2c3c98-ba640064-g208414-k101010-rc80000-we0e0e0/sett.png)|
-| [S.O.B.H.D. (Corporate)](/setts/s8/r6w60b20k6ba30g4ba6g2-b2c3c98-ba640064-g208414-k101010-rc80000-wf0e4cc/)|
-|![S.O.B.H.D. (Corporate) example sett](/setts/s8/r6w60b20k6ba30g4ba6g2-b2c3c98-ba640064-g208414-k101010-rc80000-wf0e4cc/sett.png)|
+| [SOBHD](/setts/s8/r3w30b10k3ba15g2ba3g1~b2c3c98-ba640064-g208414-k101010-rc80000-we0e0e0~x2/)|
+|![SOBHD example sett](/setts/s8/r3w30b10k3ba15g2ba3g1~b2c3c98-ba640064-g208414-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [S.O.B.H.D. (Corporate)](/setts/s8/r3w30b10k3ba15g2ba3g1~b2c3c98-ba640064-g208414-k101010-rc80000-wf0e4cc~x2/)|
+|![S.O.B.H.D. (Corporate) example sett](/setts/s8/r3w30b10k3ba15g2ba3g1~b2c3c98-ba640064-g208414-k101010-rc80000-wf0e4cc~x2/sett.png)|

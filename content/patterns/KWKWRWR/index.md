@@ -6,7 +6,7 @@ KWKWRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k14w6k14w90r6w6r6-k101010-rc80000-wf0f0d8/tartan.png)
+![Woven sample](/setts/s7/k7w3k7w45r3w3r3~k101010-rc80000-wf0f0d8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKWRWR
 
 | Tartans |
 |---------------|
-| [White Stripes (Corporate)](/setts/s7/k14w6k14w90r6w6r6-k101010-rc80000-wf0f0d8/)|
-|![White Stripes (Corporate) example sett](/setts/s7/k14w6k14w90r6w6r6-k101010-rc80000-wf0f0d8/sett.png)|
+| [White Stripes (Corporate)](/setts/s7/k7w3k7w45r3w3r3~k101010-rc80000-wf0f0d8~x2/)|
+|![White Stripes (Corporate) example sett](/setts/s7/k7w3k7w45r3w3r3~k101010-rc80000-wf0f0d8~x2/sett.png)|

@@ -6,7 +6,7 @@ KYRYKYKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/tartan.png)
+![Woven sample](/setts/s8/y5k9y2k7ya35r4ya35k4~k101010-rc80000-ye8c000-yab49440~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYRYKYKY
 
 | Tartans |
 |---------------|
-| [Wilbers](/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/)|
-|![Wilbers example sett](/setts/s8/y10k18y4k14ya70r8ya70k8-k101010-rc80000-ye8c000-yab49440/sett.png)|
+| [Wilbers](/setts/s8/y5k9y2k7ya35r4ya35k4~k101010-rc80000-ye8c000-yab49440~x2/)|
+|![Wilbers example sett](/setts/s8/y5k9y2k7ya35r4ya35k4~k101010-rc80000-ye8c000-yab49440~x2/sett.png)|

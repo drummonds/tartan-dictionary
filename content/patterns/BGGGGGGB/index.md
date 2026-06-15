@@ -6,7 +6,7 @@ BGGGGGGB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6g14ga4gb4ga28g4ga4b6-b2c2c80-g604000-ga006818-gb808080/tartan.png)
+![Woven sample](/setts/s8/b3g7ga2gb2ga14g2ga2b3~b2c2c80-g604000-ga006818-gb808080~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGGGGGB
 
 | Tartans |
 |---------------|
-| [Daks (Loden)](/setts/s8/b6g14ga4gb4ga28g4ga4b6-b2c2c80-g604000-ga006818-gb808080/)|
-|![Daks (Loden) example sett](/setts/s8/b6g14ga4gb4ga28g4ga4b6-b2c2c80-g604000-ga006818-gb808080/sett.png)|
+| [Daks (Loden)](/setts/s8/b3g7ga2gb2ga14g2ga2b3~b2c2c80-g604000-ga006818-gb808080~x2/)|
+|![Daks (Loden) example sett](/setts/s8/b3g7ga2gb2ga14g2ga2b3~b2c2c80-g604000-ga006818-gb808080~x2/sett.png)|

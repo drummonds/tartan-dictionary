@@ -16,5 +16,5 @@ RRKRRRRRKRRRR
 
 | Tartans |
 |---------------|
-| [Balmoral (Lavender) (Royal)](/setts/s13/r8ra4r32rb8k8r4rb4r4rb16r8k4r4ra4-k101010-r888888-rac80000-rb9c68a4/)|
-|![Balmoral (Lavender) (Royal) example sett](/setts/s13/r8ra4r32rb8k8r4rb4r4rb16r8k4r4ra4-k101010-r888888-rac80000-rb9c68a4/sett.png)|
+| [Balmoral (Lavender) (Royal)](/setts/s13/r2ra1r8rb2k2r1rb1r1rb4r2k1r1ra1~k101010-r888888-rac80000-rb9c68a4~x4/)|
+|![Balmoral (Lavender) (Royal) example sett](/setts/s13/r2ra1r8rb2k2r1rb1r1rb4r2k1r1ra1~k101010-r888888-rac80000-rb9c68a4~x4/sett.png)|

@@ -6,7 +6,7 @@ RBRBRBRY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r36b4r4b4r4b28ra28y6-b202020-rb47820-ra8c0000-yc89800/tartan.png)
+![Woven sample](/setts/s8/r18b2r2b2r2b14ra14y3~b202020-rb47820-ra8c0000-yc89800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRBRBRY
 
 | Tartans |
 |---------------|
-| [Talladale](/setts/s8/r36b4r4b4r4b28ra28y6-b202020-rb47820-ra8c0000-yc89800/)|
-|![Talladale example sett](/setts/s8/r36b4r4b4r4b28ra28y6-b202020-rb47820-ra8c0000-yc89800/sett.png)|
+| [Talladale](/setts/s8/r18b2r2b2r2b14ra14y3~b202020-rb47820-ra8c0000-yc89800~x2/)|
+|![Talladale example sett](/setts/s8/r18b2r2b2r2b14ra14y3~b202020-rb47820-ra8c0000-yc89800~x2/sett.png)|

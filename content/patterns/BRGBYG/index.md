@@ -6,7 +6,7 @@ BRGBYG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8r22g22b44y2g8-b2c2c80-g006818-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b4r11g11b22y1g4~b2c2c80-g006818-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGBYG
 
 | Tartans |
 |---------------|
-| [Harvey](/setts/s6/b8r22g22b44y2g8-b2c2c80-g006818-rc80000-ye8c000/)|
-|![Harvey example sett](/setts/s6/b8r22g22b44y2g8-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Harvey](/setts/s6/b4r11g11b22y1g4~b2c2c80-g006818-rc80000-ye8c000~x2/)|
+|![Harvey example sett](/setts/s6/b4r11g11b22y1g4~b2c2c80-g006818-rc80000-ye8c000~x2/sett.png)|

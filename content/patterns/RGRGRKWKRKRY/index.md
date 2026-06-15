@@ -16,5 +16,5 @@ RGRGRKWKRKRY
 
 | Tartans |
 |---------------|
-| [Ikelman No. 6](/setts/s12/r32g4r6g4r26k24w4k24r26ka26r4y4-g008000-k000030-ka000000-rc00000-we0e0e0-yf0c000/)|
-|![Ikelman No. 6 example sett](/setts/s12/r32g4r6g4r26k24w4k24r26ka26r4y4-g008000-k000030-ka000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Ikelman No. 6](/setts/s12/r16g2r3g2r13k12w2k12r13ka13r2y2~g008000-k000030-ka000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Ikelman No. 6 example sett](/setts/s12/r16g2r3g2r13k12w2k12r13ka13r2y2~g008000-k000030-ka000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

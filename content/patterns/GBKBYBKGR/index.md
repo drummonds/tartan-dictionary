@@ -16,5 +16,5 @@ GBKBYBKGR
 
 | Tartans |
 |---------------|
-| [McWilliams Wedding (Personal)](/setts/s9/g4b2k2b28y4b2k24g20r4-b506878-g006818-k101010-rd40000-yfccc3c/)|
-|![McWilliams Wedding (Personal) example sett](/setts/s9/g4b2k2b28y4b2k24g20r4-b506878-g006818-k101010-rd40000-yfccc3c/sett.png)|
+| [McWilliams Wedding (Personal)](/setts/s9/g2b1k1b14y2b1k12g10r2~b506878-g006818-k101010-rd40000-yfccc3c~x2/)|
+|![McWilliams Wedding (Personal) example sett](/setts/s9/g2b1k1b14y2b1k12g10r2~b506878-g006818-k101010-rd40000-yfccc3c~x2/sett.png)|

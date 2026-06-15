@@ -16,5 +16,5 @@ GYBYGYGWGYGW
 
 | Tartans |
 |---------------|
-| [Green Bay, Wisconsin (District)](/setts/s12/g16y4b6y4g32y20g6w12g2y6g2w12-b2c2c80-g006818-we0e0e0-ye8c000/)|
-|![Green Bay, Wisconsin (District) example sett](/setts/s12/g16y4b6y4g32y20g6w12g2y6g2w12-b2c2c80-g006818-we0e0e0-ye8c000/sett.png)|
+| [Green Bay, Wisconsin (District)](/setts/s12/g8y2b3y2g16y10g3w6g1y3g1w6~b2c2c80-g006818-we0e0e0-ye8c000~x2/)|
+|![Green Bay, Wisconsin (District) example sett](/setts/s12/g8y2b3y2g16y10g3w6g1y3g1w6~b2c2c80-g006818-we0e0e0-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ GRGRGWGRGRG
 
 | Tartans |
 |---------------|
-| [Brithwe Dewi Sant (Welsh)](/setts/s11/g30r2g8r1g5w2g5r1g8r2g30-g003820-rc80000-wfcfcfc/)|
-|![Brithwe Dewi Sant (Welsh) example sett](/setts/s11/g30r2g8r1g5w2g5r1g8r2g30-g003820-rc80000-wfcfcfc/sett.png)|
+| [Brithwe Dewi Sant (Welsh)](/setts/s11/g30r2g8r1g5w2g5r1g8r2g30~g003820-rc80000-wfcfcfc/)|
+|![Brithwe Dewi Sant (Welsh) example sett](/setts/s11/g30r2g8r1g5w2g5r1g8r2g30~g003820-rc80000-wfcfcfc/sett.png)|

@@ -16,5 +16,5 @@ GKGGWGBRWKG
 
 | Tartans |
 |---------------|
-| [MacCulloch (Name)](/setts/s11/g10k6w4r40b20ga4w2g2ga40k8g6-b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0/)|
-|![MacCulloch (Name) example sett](/setts/s11/g10k6w4r40b20ga4w2g2ga40k8g6-b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0/sett.png)|
+| [MacCulloch (Name)](/setts/s11/g5k3w2r20b10ga2w1g1ga20k4g3~b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0~x2/)|
+|![MacCulloch (Name) example sett](/setts/s11/g5k3w2r20b10ga2w1g1ga20k4g3~b2c2c80-g603800-ga006818-k101010-rc80000-we0e0e0~x2/sett.png)|

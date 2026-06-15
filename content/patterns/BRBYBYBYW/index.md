@@ -16,5 +16,5 @@ BRBYBYBYW
 
 | Tartans |
 |---------------|
-| [Nevada State](/setts/s9/b64r8b8y8b18ya18b8ya32w14-b202060-rc80000-we0e0e0-ye8c000-yab8b8b8/)|
-|![Nevada State example sett](/setts/s9/b64r8b8y8b18ya18b8ya32w14-b202060-rc80000-we0e0e0-ye8c000-yab8b8b8/sett.png)|
+| [Nevada State](/setts/s9/b32r4b4y4b9ya9b4ya16w7~b202060-rc80000-we0e0e0-ye8c000-yab8b8b8~x2/)|
+|![Nevada State example sett](/setts/s9/b32r4b4y4b9ya9b4ya16w7~b202060-rc80000-we0e0e0-ye8c000-yab8b8b8~x2/sett.png)|

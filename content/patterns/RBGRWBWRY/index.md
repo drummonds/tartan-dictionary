@@ -16,5 +16,5 @@ RBGRWBWRY
 
 | Tartans |
 |---------------|
-| [Brousseau (Personal)](/setts/s9/y50r4w4b4w4r26g56b4r6-b141e46-g703200-ra52b05-we0e0e0-y96963c/)|
-|![Brousseau (Personal) example sett](/setts/s9/y50r4w4b4w4r26g56b4r6-b141e46-g703200-ra52b05-we0e0e0-y96963c/sett.png)|
+| [Brousseau (Personal)](/setts/s9/y25r2w2b2w2r13g28b2r3~b141e46-g703200-ra52b05-we0e0e0-y96963c~x2/)|
+|![Brousseau (Personal) example sett](/setts/s9/y25r2w2b2w2r13g28b2r3~b141e46-g703200-ra52b05-we0e0e0-y96963c~x2/sett.png)|

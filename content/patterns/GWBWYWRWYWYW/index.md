@@ -16,5 +16,5 @@ GWBWYWRWYWYW
 
 | Tartans |
 |---------------|
-| [Rainbow (Fort Worth)](/setts/s12/g10w10b10w10y10w10r10w10y10w10ya10w10-b1474b4-g289c18-rc80000-wfcfcfc-yd87c00-yae8c000/)|
-|![Rainbow (Fort Worth) example sett](/setts/s12/g10w10b10w10y10w10r10w10y10w10ya10w10-b1474b4-g289c18-rc80000-wfcfcfc-yd87c00-yae8c000/sett.png)|
+| [Rainbow (Fort Worth)](/setts/s12/g1w1b1w1y1w1r1w1y1w1ya1w1~b1474b4-g289c18-rc80000-wfcfcfc-yd87c00-yae8c000~x10/)|
+|![Rainbow (Fort Worth) example sett](/setts/s12/g1w1b1w1y1w1r1w1y1w1ya1w1~b1474b4-g289c18-rc80000-wfcfcfc-yd87c00-yae8c000~x10/sett.png)|

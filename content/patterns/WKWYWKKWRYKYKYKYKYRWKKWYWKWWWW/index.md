@@ -16,5 +16,5 @@ WKWYWKKWRYKYKYKYKYRWKKWYWKWWWW
 
 | Tartans |
 |---------------|
-| [Znaimer (Canada)](/setts/s30/w16wa42w16wa14k4wa6y6wa6ka12k12wa4r16y6ka6y6ka6y6ka6y6ka6y6r16wa4ka12k12wa6y6wa6k4wa14-k101010-ka000000-rff0000-w82cffd-waffffff-y9f935f/)|
-|![Znaimer (Canada) example sett](/setts/s30/w16wa42w16wa14k4wa6y6wa6ka12k12wa4r16y6ka6y6ka6y6ka6y6ka6y6r16wa4ka12k12wa6y6wa6k4wa14-k101010-ka000000-rff0000-w82cffd-waffffff-y9f935f/sett.png)|
+| [Znaimer (Canada)](/setts/s30/w8wa21w8wa7k2wa3y3wa3ka6k6wa2r8y3ka3y3ka3y3ka3y3ka3y3r8wa2ka6k6wa3y3wa3k2wa7~k101010-ka000000-rff0000-w82cffd-waffffff-y9f935f~x2/)|
+|![Znaimer (Canada) example sett](/setts/s30/w8wa21w8wa7k2wa3y3wa3ka6k6wa2r8y3ka3y3ka3y3ka3y3ka3y3r8wa2ka6k6wa3y3wa3k2wa7~k101010-ka000000-rff0000-w82cffd-waffffff-y9f935f~x2/sett.png)|

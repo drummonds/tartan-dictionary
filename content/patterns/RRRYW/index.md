@@ -6,7 +6,7 @@ RRRYW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4ra16rb40y8w4-re87878-ra880000-rbc80000-we0e0e0-ybc8c00/tartan.png)
+![Woven sample](/setts/s5/r1ra4rb10y2w1~re87878-ra880000-rbc80000-we0e0e0-ybc8c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRYW
 
 | Tartans |
 |---------------|
-| [Love (Fashion)](/setts/s5/r4ra16rb40y8w4-re87878-ra880000-rbc80000-we0e0e0-ybc8c00/)|
-|![Love (Fashion) example sett](/setts/s5/r4ra16rb40y8w4-re87878-ra880000-rbc80000-we0e0e0-ybc8c00/sett.png)|
+| [Love (Fashion)](/setts/s5/r1ra4rb10y2w1~re87878-ra880000-rbc80000-we0e0e0-ybc8c00~x4/)|
+|![Love (Fashion) example sett](/setts/s5/r1ra4rb10y2w1~re87878-ra880000-rbc80000-we0e0e0-ybc8c00~x4/sett.png)|

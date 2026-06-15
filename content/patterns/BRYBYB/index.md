@@ -6,7 +6,7 @@ BRYBYB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b22r8y18b8y4b22-b2c4084-rdc0000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b11r4y9b4y2b11~b2c4084-rdc0000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRYBYB
 
 | Tartans |
 |---------------|
-| [Unidentified Sample](/setts/s6/b22r8y18b8y4b22-b2c4084-rdc0000-ye8c000/)|
-|![Unidentified Sample example sett](/setts/s6/b22r8y18b8y4b22-b2c4084-rdc0000-ye8c000/sett.png)|
-| [Unidentified, Sample](/setts/s6/b22r8y18b8y4b22-b304080-rc00000-yf0c000/)|
-|![Unidentified, Sample example sett](/setts/s6/b22r8y18b8y4b22-b304080-rc00000-yf0c000/sett.png)|
+| [Unidentified Sample](/setts/s6/b11r4y9b4y2b11~b2c4084-rdc0000-ye8c000~x2/)|
+|![Unidentified Sample example sett](/setts/s6/b11r4y9b4y2b11~b2c4084-rdc0000-ye8c000~x2/sett.png)|
+| [Unidentified, Sample](/setts/s6/b11r4y9b4y2b11~b304080-rc00000-yf0c000~x2/)|
+|![Unidentified, Sample example sett](/setts/s6/b11r4y9b4y2b11~b304080-rc00000-yf0c000~x2/sett.png)|

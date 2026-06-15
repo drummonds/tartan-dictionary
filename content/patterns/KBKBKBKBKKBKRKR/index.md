@@ -16,5 +16,5 @@ KBKBKBKBKKBKRKR
 
 | Tartans |
 |---------------|
-| [Lochcarron Mill (Corporate)](/setts/s15/k8b24k8b4k8b4k8b16k16k8b16k76r8k8r8-b404040-k101010-r9c0030/)|
-|![Lochcarron Mill (Corporate) example sett](/setts/s15/k8b24k8b4k8b4k8b16k16k8b16k76r8k8r8-b404040-k101010-r9c0030/sett.png)|
+| [Lochcarron Mill (Corporate)](/setts/s15/k2b6k2b1k2b1k2b4k4k2b4k19r2k2r2~b404040-k101010-r9c0030~x4/)|
+|![Lochcarron Mill (Corporate) example sett](/setts/s15/k2b6k2b1k2b1k2b4k4k2b4k19r2k2r2~b404040-k101010-r9c0030~x4/sett.png)|

@@ -16,5 +16,5 @@ KBKRBBBKBKY
 
 | Tartans |
 |---------------|
-| [Australia 2000](/setts/s11/k6b12k8r12b36ba106b36k16b12k6y4-b788cb4-ba00008c-k000000-r8c0000-yc88c00/)|
-|![Australia 2000 example sett](/setts/s11/k6b12k8r12b36ba106b36k16b12k6y4-b788cb4-ba00008c-k000000-r8c0000-yc88c00/sett.png)|
+| [Australia 2000](/setts/s11/k3b6k4r6b18ba53b18k8b6k3y2~b788cb4-ba00008c-k000000-r8c0000-yc88c00~x2/)|
+|![Australia 2000 example sett](/setts/s11/k3b6k4r6b18ba53b18k8b6k3y2~b788cb4-ba00008c-k000000-r8c0000-yc88c00~x2/sett.png)|

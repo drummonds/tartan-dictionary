@@ -16,5 +16,5 @@ GRKRRKRGRK
 
 | Tartans |
 |---------------|
-| [Laporte](/setts/s10/g16r12k8r128ra2k56r12g80r12k8-g5c6428-k101010-r880000-ra888888/)|
-|![Laporte example sett](/setts/s10/g16r12k8r128ra2k56r12g80r12k8-g5c6428-k101010-r880000-ra888888/sett.png)|
+| [Laporte](/setts/s10/g8r6k4r64ra1k28r6g40r6k4~g5c6428-k101010-r880000-ra888888~x2/)|
+|![Laporte example sett](/setts/s10/g8r6k4r64ra1k28r6g40r6k4~g5c6428-k101010-r880000-ra888888~x2/sett.png)|

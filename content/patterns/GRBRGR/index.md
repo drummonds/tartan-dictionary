@@ -6,7 +6,7 @@ GRBRGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4g40r4b16r72g2-b2c4084-g005020-rdc0000/tartan.png)
+![Woven sample](/setts/s6/r2g20r2b8r36g1~b2c4084-g005020-rdc0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRBRGR
 
 | Tartans |
 |---------------|
-| [Robertson](/setts/s6/r4g40r4b16r72g2-b2c4084-g005020-rdc0000/)|
-|![Robertson example sett](/setts/s6/r4g40r4b16r72g2-b2c4084-g005020-rdc0000/sett.png)|
-| [Robertson 6](/setts/s6/g4r72b16r4g40r4-b304080-g008000-rc00000/)|
-|![Robertson 6 example sett](/setts/s6/g4r72b16r4g40r4-b304080-g008000-rc00000/sett.png)|
+| [Robertson](/setts/s6/r2g20r2b8r36g1~b2c4084-g005020-rdc0000~x2/)|
+|![Robertson example sett](/setts/s6/r2g20r2b8r36g1~b2c4084-g005020-rdc0000~x2/sett.png)|
+| [Robertson 6](/setts/s6/g1r18b4r1g10r1~b304080-g008000-rc00000~x4/)|
+|![Robertson 6 example sett](/setts/s6/g1r18b4r1g10r1~b304080-g008000-rc00000~x4/sett.png)|

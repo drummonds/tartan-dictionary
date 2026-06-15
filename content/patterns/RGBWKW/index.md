@@ -6,7 +6,7 @@ RGBWKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6g36b12w24k24w6-b1c0070-g604000-k101010-r880000-w98c8e8/tartan.png)
+![Woven sample](/setts/s6/r1g6b2w4k4w1~b1c0070-g604000-k101010-r880000-w98c8e8~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGBWKW
 
 | Tartans |
 |---------------|
-| [Thompson's Fancy (Fashion)](/setts/s6/r6g36b12w24k24w6-b1c0070-g604000-k101010-r880000-w98c8e8/)|
-|![Thompson's Fancy (Fashion) example sett](/setts/s6/r6g36b12w24k24w6-b1c0070-g604000-k101010-r880000-w98c8e8/sett.png)|
+| [Thompson's Fancy (Fashion)](/setts/s6/r1g6b2w4k4w1~b1c0070-g604000-k101010-r880000-w98c8e8~x6/)|
+|![Thompson's Fancy (Fashion) example sett](/setts/s6/r1g6b2w4k4w1~b1c0070-g604000-k101010-r880000-w98c8e8~x6/sett.png)|

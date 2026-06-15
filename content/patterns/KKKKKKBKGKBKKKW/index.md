@@ -16,5 +16,5 @@ KKKKKKBKGKBKKKW
 
 | Tartans |
 |---------------|
-| [McCruden, Raymond (Personal)](/setts/s15/k30ka8k8ka8k8ka32b32ka4g6ka4b32ka32k36ka2w4-b2c2c80-g288028-k00002c-ka101010-wfcfcfc/)|
-|![McCruden, Raymond (Personal) example sett](/setts/s15/k30ka8k8ka8k8ka32b32ka4g6ka4b32ka32k36ka2w4-b2c2c80-g288028-k00002c-ka101010-wfcfcfc/sett.png)|
+| [McCruden, Raymond (Personal)](/setts/s15/k15ka4k4ka4k4ka16b16ka2g3ka2b16ka16k18ka1w2~b2c2c80-g288028-k00002c-ka101010-wfcfcfc~x2/)|
+|![McCruden, Raymond (Personal) example sett](/setts/s15/k15ka4k4ka4k4ka16b16ka2g3ka2b16ka16k18ka1w2~b2c2c80-g288028-k00002c-ka101010-wfcfcfc~x2/sett.png)|

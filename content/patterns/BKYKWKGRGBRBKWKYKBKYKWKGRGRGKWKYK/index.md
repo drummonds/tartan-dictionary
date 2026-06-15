@@ -16,5 +16,5 @@ BKYKWKGRGBRBKWKYKBKYKWKGRGRGKWKYK
 
 | Tartans |
 |---------------|
-| [Hawick](/setts/s33/b4k8y4k6w4k4g24r4g24b24r4b24k4w4k6y4k8b8k8y4k6w4k4g32r4g48r4g32k4w4k6y4k4-b1c0070-g006818-k101010-r880000-wf8f8f8-yd09800/)|
-|![Hawick example sett](/setts/s33/b4k8y4k6w4k4g24r4g24b24r4b24k4w4k6y4k8b8k8y4k6w4k4g32r4g48r4g32k4w4k6y4k4-b1c0070-g006818-k101010-r880000-wf8f8f8-yd09800/sett.png)|
+| [Hawick](/setts/s33/b2k4y2k3w2k2g12r2g12b12r2b12k2w2k3y2k4b4k4y2k3w2k2g16r2g24r2g16k2w2k3y2k2~b1c0070-g006818-k101010-r880000-wf8f8f8-yd09800~x2/)|
+|![Hawick example sett](/setts/s33/b2k4y2k3w2k2g12r2g12b12r2b12k2w2k3y2k4b4k4y2k3w2k2g16r2g24r2g16k2w2k3y2k2~b1c0070-g006818-k101010-r880000-wf8f8f8-yd09800~x2/sett.png)|

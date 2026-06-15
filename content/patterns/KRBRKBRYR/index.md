@@ -16,5 +16,5 @@ KRBRKBRYR
 
 | Tartans |
 |---------------|
-| [Girl Guiding Scotland (Corporate)](/setts/s9/k72r6b6r6k16b48r36y6r6-b2c2c80-k101010-rc80050-ye8c000/)|
-|![Girl Guiding Scotland (Corporate) example sett](/setts/s9/k72r6b6r6k16b48r36y6r6-b2c2c80-k101010-rc80050-ye8c000/sett.png)|
+| [Girl Guiding Scotland (Corporate)](/setts/s9/k36r3b3r3k8b24r18y3r3~b2c2c80-k101010-rc80050-ye8c000~x2/)|
+|![Girl Guiding Scotland (Corporate) example sett](/setts/s9/k36r3b3r3k8b24r18y3r3~b2c2c80-k101010-rc80050-ye8c000~x2/sett.png)|

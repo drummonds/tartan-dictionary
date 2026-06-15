@@ -16,5 +16,5 @@ BRBRGRGRGR
 
 | Tartans |
 |---------------|
-| [Connacht](/setts/s10/r128g12r4g6r4g12r128b4r4b12-b401000-g008000-r806050/)|
-|![Connacht example sett](/setts/s10/r128g12r4g6r4g12r128b4r4b12-b401000-g008000-r806050/sett.png)|
+| [Connacht](/setts/s10/r64g6r2g3r2g6r64b2r2b6~b401000-g008000-r806050~x2/)|
+|![Connacht example sett](/setts/s10/r64g6r2g3r2g6r64b2r2b6~b401000-g008000-r806050~x2/sett.png)|

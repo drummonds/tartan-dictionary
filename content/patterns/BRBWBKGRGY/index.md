@@ -16,7 +16,7 @@ BRBWBKGRGY
 
 | Tartans |
 |---------------|
-| [Logan Rogers](/setts/s10/b4r4b4w2b16k16g16r4g4y4-b202060-g003820-k101010-rc80000-wffffff-ye8c000/)|
-|![Logan Rogers example sett](/setts/s10/b4r4b4w2b16k16g16r4g4y4-b202060-g003820-k101010-rc80000-wffffff-ye8c000/sett.png)|
-| [Logan Rogers (Personal)](/setts/s10/b4r4b4w2b16k16g16r4g4y4-b202060-g003820-k101010-rc80000-wfcfcfc-yfccc00/)|
-|![Logan Rogers (Personal) example sett](/setts/s10/b4r4b4w2b16k16g16r4g4y4-b202060-g003820-k101010-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Logan Rogers](/setts/s10/b2r2b2w1b8k8g8r2g2y2~b202060-g003820-k101010-rc80000-wffffff-ye8c000~x2/)|
+|![Logan Rogers example sett](/setts/s10/b2r2b2w1b8k8g8r2g2y2~b202060-g003820-k101010-rc80000-wffffff-ye8c000~x2/sett.png)|
+| [Logan Rogers (Personal)](/setts/s10/b2r2b2w1b8k8g8r2g2y2~b202060-g003820-k101010-rc80000-wfcfcfc-yfccc00~x2/)|
+|![Logan Rogers (Personal) example sett](/setts/s10/b2r2b2w1b8k8g8r2g2y2~b202060-g003820-k101010-rc80000-wfcfcfc-yfccc00~x2/sett.png)|

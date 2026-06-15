@@ -16,5 +16,5 @@ GBRBRBRGRG
 
 | Tartans |
 |---------------|
-| [Connaught (Lochcarron)](/setts/s10/g72b4r4b4r4b4r60ga2r2ga8-b2888c4-g009468-ga285800-r980044/)|
-|![Connaught (Lochcarron) example sett](/setts/s10/g72b4r4b4r4b4r60ga2r2ga8-b2888c4-g009468-ga285800-r980044/sett.png)|
+| [Connaught (Lochcarron)](/setts/s10/g36b2r2b2r2b2r30ga1r1ga4~b2888c4-g009468-ga285800-r980044~x2/)|
+|![Connaught (Lochcarron) example sett](/setts/s10/g36b2r2b2r2b2r30ga1r1ga4~b2888c4-g009468-ga285800-r980044~x2/sett.png)|

@@ -6,7 +6,7 @@ GBKBKBGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g36b16k16b12k16b16g36k8-b2474e8-g408060-k101010/tartan.png)
+![Woven sample](/setts/s8/g9b4k4b3k4b4g9k2~b2474e8-g408060-k101010~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBKBKBGK
 
 | Tartans |
 |---------------|
-| [Keith Clan](/setts/s8/g36b16k16b12k16b16g36k8-b2474e8-g408060-k101010/)|
-|![Keith Clan example sett](/setts/s8/g36b16k16b12k16b16g36k8-b2474e8-g408060-k101010/sett.png)|
-| [Wilson's No.173](/setts/s8/g12b6k6b6k6b6g12ka4-b780078-g285800-k101010-ka000000/)|
-|![Wilson's No.173 example sett](/setts/s8/g12b6k6b6k6b6g12ka4-b780078-g285800-k101010-ka000000/sett.png)|
+| [Keith Clan](/setts/s8/g9b4k4b3k4b4g9k2~b2474e8-g408060-k101010~x4/)|
+|![Keith Clan example sett](/setts/s8/g9b4k4b3k4b4g9k2~b2474e8-g408060-k101010~x4/sett.png)|
+| [Wilson's No.173](/setts/s8/g6b3k3b3k3b3g6ka2~b780078-g285800-k101010-ka000000~x2/)|
+|![Wilson's No.173 example sett](/setts/s8/g6b3k3b3k3b3g6ka2~b780078-g285800-k101010-ka000000~x2/sett.png)|

@@ -16,7 +16,7 @@ BRKRWRBRY
 
 | Tartans |
 |---------------|
-| [Ulster Ancestry](/setts/s9/b94r16k44r14w6r48b18r20y6-b332c2c-k101010-re41010-wffffff-yf5c70d/)|
-|![Ulster Ancestry example sett](/setts/s9/b94r16k44r14w6r48b18r20y6-b332c2c-k101010-re41010-wffffff-yf5c70d/sett.png)|
-| [Ulster Ancestry (Fashion)](/setts/s9/b94r16k44r14w6r48b18r20y6-b5c5c5c-k101010-rc80000-we8ccb8-ybc8c00/)|
-|![Ulster Ancestry (Fashion) example sett](/setts/s9/b94r16k44r14w6r48b18r20y6-b5c5c5c-k101010-rc80000-we8ccb8-ybc8c00/sett.png)|
+| [Ulster Ancestry](/setts/s9/b47r8k22r7w3r24b9r10y3~b332c2c-k101010-re41010-wffffff-yf5c70d~x2/)|
+|![Ulster Ancestry example sett](/setts/s9/b47r8k22r7w3r24b9r10y3~b332c2c-k101010-re41010-wffffff-yf5c70d~x2/sett.png)|
+| [Ulster Ancestry (Fashion)](/setts/s9/b47r8k22r7w3r24b9r10y3~b5c5c5c-k101010-rc80000-we8ccb8-ybc8c00~x2/)|
+|![Ulster Ancestry (Fashion) example sett](/setts/s9/b47r8k22r7w3r24b9r10y3~b5c5c5c-k101010-rc80000-we8ccb8-ybc8c00~x2/sett.png)|

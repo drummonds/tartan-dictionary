@@ -6,7 +6,7 @@ RGWR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r5g5w3r5-g004c00-rc80000-wd0d0d0/tartan.png)
+![Woven sample](/setts/s4/r5g5w3r5~g004c00-rc80000-wd0d0d0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGWR
 
 | Tartans |
 |---------------|
-| [Menzies](/setts/s4/r5g5w3r5-g004c00-rc80000-wd0d0d0/)|
-|![Menzies example sett](/setts/s4/r5g5w3r5-g004c00-rc80000-wd0d0d0/sett.png)|
+| [Menzies](/setts/s4/r5g5w3r5~g004c00-rc80000-wd0d0d0/)|
+|![Menzies example sett](/setts/s4/r5g5w3r5~g004c00-rc80000-wd0d0d0/sett.png)|

@@ -16,5 +16,5 @@ KBGBBBKBW
 
 | Tartans |
 |---------------|
-| [Creiff Highland Gathering](/setts/s9/k6b32g10b6ba4b4k24bb46w4-b780078-ba9058d8-bb003c64-g006818-k101010-wfcfcfc/)|
-|![Creiff Highland Gathering example sett](/setts/s9/k6b32g10b6ba4b4k24bb46w4-b780078-ba9058d8-bb003c64-g006818-k101010-wfcfcfc/sett.png)|
+| [Creiff Highland Gathering](/setts/s9/k3b16g5b3ba2b2k12bb23w2~b780078-ba9058d8-bb003c64-g006818-k101010-wfcfcfc~x2/)|
+|![Creiff Highland Gathering example sett](/setts/s9/k3b16g5b3ba2b2k12bb23w2~b780078-ba9058d8-bb003c64-g006818-k101010-wfcfcfc~x2/sett.png)|

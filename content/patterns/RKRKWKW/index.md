@@ -6,7 +6,7 @@ RKRKWKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r16k8r16k112w8k8w8-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/r2k1r2k14w1k1w1~k101010-rc80000-wfcfcfc~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRKWKW
 
 | Tartans |
 |---------------|
-| [White Stripes Hunting](/setts/s7/r16k8r16k112w8k8w8-k101010-rc80000-wfcfcfc/)|
-|![White Stripes Hunting example sett](/setts/s7/r16k8r16k112w8k8w8-k101010-rc80000-wfcfcfc/sett.png)|
+| [White Stripes Hunting](/setts/s7/r2k1r2k14w1k1w1~k101010-rc80000-wfcfcfc~x8/)|
+|![White Stripes Hunting example sett](/setts/s7/r2k1r2k14w1k1w1~k101010-rc80000-wfcfcfc~x8/sett.png)|

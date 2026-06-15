@@ -16,5 +16,5 @@ BWBWBWRGKGWYKYW
 
 | Tartans |
 |---------------|
-| [Salaberry-de-Valleyfield Cer. (Dis )](/setts/s15/w32y2k4y2w32g4k2g4r44w8b6w8b6w8b6-b1c0070-g289c18-k101010-rc80000-we0e0e0-ybc8c00/)|
-|![Salaberry-de-Valleyfield Cer. (Dis ) example sett](/setts/s15/w32y2k4y2w32g4k2g4r44w8b6w8b6w8b6-b1c0070-g289c18-k101010-rc80000-we0e0e0-ybc8c00/sett.png)|
+| [Salaberry-de-Valleyfield Cer. (Dis )](/setts/s15/w16y1k2y1w16g2k1g2r22w4b3w4b3w4b3~b1c0070-g289c18-k101010-rc80000-we0e0e0-ybc8c00~x2/)|
+|![Salaberry-de-Valleyfield Cer. (Dis ) example sett](/setts/s15/w16y1k2y1w16g2k1g2r22w4b3w4b3w4b3~b1c0070-g289c18-k101010-rc80000-we0e0e0-ybc8c00~x2/sett.png)|

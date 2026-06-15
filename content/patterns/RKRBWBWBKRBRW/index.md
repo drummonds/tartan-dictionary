@@ -16,5 +16,5 @@ RKRBWBWBKRBRW
 
 | Tartans |
 |---------------|
-| [Leando (Coldingham) Hunting (Personal)](/setts/s13/r76k8ra4b12w4b4w4b4k24r12b4r12w4-b321308-k000000-r9c661f-raa20d22-wf7f1e8/)|
-|![Leando (Coldingham) Hunting (Personal) example sett](/setts/s13/r76k8ra4b12w4b4w4b4k24r12b4r12w4-b321308-k000000-r9c661f-raa20d22-wf7f1e8/sett.png)|
+| [Leando (Coldingham) Hunting (Personal)](/setts/s13/r19k2ra1b3w1b1w1b1k6r3b1r3w1~b321308-k000000-r9c661f-raa20d22-wf7f1e8~x4/)|
+|![Leando (Coldingham) Hunting (Personal) example sett](/setts/s13/r19k2ra1b3w1b1w1b1k6r3b1r3w1~b321308-k000000-r9c661f-raa20d22-wf7f1e8~x4/sett.png)|

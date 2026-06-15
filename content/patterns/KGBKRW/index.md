@@ -6,7 +6,7 @@ KGBKRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s6/w3r30k18b6g30k2~b1c0070-g006818-k101010-r880000-wc0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGBKRW
 
 | Tartans |
 |---------------|
-| [Bryant (Dalgleish) (Personal)](/setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/)|
-|![Bryant (Dalgleish) (Personal) example sett](/setts/s6/w6r60k36b12g60k4-b1c0070-g006818-k101010-r880000-wc0c0c0/sett.png)|
+| [Bryant (Dalgleish) (Personal)](/setts/s6/w3r30k18b6g30k2~b1c0070-g006818-k101010-r880000-wc0c0c0~x2/)|
+|![Bryant (Dalgleish) (Personal) example sett](/setts/s6/w3r30k18b6g30k2~b1c0070-g006818-k101010-r880000-wc0c0c0~x2/sett.png)|

@@ -16,5 +16,5 @@ GGGGKRKRBRBGK
 
 | Tartans |
 |---------------|
-| [Strathtay](/setts/s13/g12ga4g4ga10k40r4k4r50b4r4b8gb20k4-b4c0000-g4a6753-ga033126-gb4c330b-k220300-r712201/)|
-|![Strathtay example sett](/setts/s13/g12ga4g4ga10k40r4k4r50b4r4b8gb20k4-b4c0000-g4a6753-ga033126-gb4c330b-k220300-r712201/sett.png)|
+| [Strathtay](/setts/s13/g6ga2g2ga5k20r2k2r25b2r2b4gb10k2~b4c0000-g4a6753-ga033126-gb4c330b-k220300-r712201~x2/)|
+|![Strathtay example sett](/setts/s13/g6ga2g2ga5k20r2k2r25b2r2b4gb10k2~b4c0000-g4a6753-ga033126-gb4c330b-k220300-r712201~x2/sett.png)|

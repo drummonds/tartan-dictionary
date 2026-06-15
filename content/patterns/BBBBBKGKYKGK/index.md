@@ -16,7 +16,7 @@ BBBBBKGKYKGK
 
 | Tartans |
 |---------------|
-| [Price-Powell (Personal)](/setts/s12/b28ba10b8ba10b28k28g28k8y8k16g28k28-b373875-ba88227e-g1e492b-k1c1714-ye0a126/)|
-|![Price-Powell (Personal) example sett](/setts/s12/b28ba10b8ba10b28k28g28k8y8k16g28k28-b373875-ba88227e-g1e492b-k1c1714-ye0a126/sett.png)|
-| [Price-Powell (Personal)](/setts/s12/b28ba10b8ba10b28k28g28k8y8k16g28k28-b2c2c80-ba440044-g006818-k101010-ye8c000/)|
-|![Price-Powell (Personal) example sett](/setts/s12/b28ba10b8ba10b28k28g28k8y8k16g28k28-b2c2c80-ba440044-g006818-k101010-ye8c000/sett.png)|
+| [Price-Powell (Personal)](/setts/s12/b14ba5b4ba5b14k14g14k4y4k8g14k14~b373875-ba88227e-g1e492b-k1c1714-ye0a126~x2/)|
+|![Price-Powell (Personal) example sett](/setts/s12/b14ba5b4ba5b14k14g14k4y4k8g14k14~b373875-ba88227e-g1e492b-k1c1714-ye0a126~x2/sett.png)|
+| [Price-Powell (Personal)](/setts/s12/b14ba5b4ba5b14k14g14k4y4k8g14k14~b2c2c80-ba440044-g006818-k101010-ye8c000~x2/)|
+|![Price-Powell (Personal) example sett](/setts/s12/b14ba5b4ba5b14k14g14k4y4k8g14k14~b2c2c80-ba440044-g006818-k101010-ye8c000~x2/sett.png)|

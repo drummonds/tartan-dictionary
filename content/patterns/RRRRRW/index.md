@@ -6,7 +6,7 @@ RRRRRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r12ra40r12ra16r80w4-r8c0000-ra8c8c8c-wc8c8c8/tartan.png)
+![Woven sample](/setts/s6/r3ra10r3ra4r20w1~r8c0000-ra8c8c8c-wc8c8c8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRRRRW
 
 | Tartans |
 |---------------|
-| [Monica](/setts/s6/r12ra40r12ra16r80w4-r8c0000-ra8c8c8c-wc8c8c8/)|
-|![Monica example sett](/setts/s6/r12ra40r12ra16r80w4-r8c0000-ra8c8c8c-wc8c8c8/sett.png)|
+| [Monica](/setts/s6/r3ra10r3ra4r20w1~r8c0000-ra8c8c8c-wc8c8c8~x4/)|
+|![Monica example sett](/setts/s6/r3ra10r3ra4r20w1~r8c0000-ra8c8c8c-wc8c8c8~x4/sett.png)|

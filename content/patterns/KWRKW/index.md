@@ -6,7 +6,7 @@ KWRKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k10w50r12k90w8-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/k5w25r6k45w4~k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWRKW
 
 | Tartans |
 |---------------|
-| [Shembe Zulu Church](/setts/s5/k10w50r12k90w8-k101010-rc80000-wfcfcfc/)|
-|![Shembe Zulu Church example sett](/setts/s5/k10w50r12k90w8-k101010-rc80000-wfcfcfc/sett.png)|
+| [Shembe Zulu Church](/setts/s5/k5w25r6k45w4~k101010-rc80000-wfcfcfc~x2/)|
+|![Shembe Zulu Church example sett](/setts/s5/k5w25r6k45w4~k101010-rc80000-wfcfcfc~x2/sett.png)|

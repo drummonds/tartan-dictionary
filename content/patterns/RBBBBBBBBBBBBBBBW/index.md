@@ -16,5 +16,5 @@ RBBBBBBBBBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Pride of Lorient (Fashion)](/setts/s17/r4b16ba2b8ba4b6ba6b2ba30bb2ba8bb4ba4bb8ba2bb18w4-b2888c4-ba2c2c80-bb003c64-rc80000-we8ccb8/)|
-|![Pride of Lorient (Fashion) example sett](/setts/s17/r4b16ba2b8ba4b6ba6b2ba30bb2ba8bb4ba4bb8ba2bb18w4-b2888c4-ba2c2c80-bb003c64-rc80000-we8ccb8/sett.png)|
+| [Pride of Lorient (Fashion)](/setts/s17/r2b8ba1b4ba2b3ba3b1ba15bb1ba4bb2ba2bb4ba1bb9w2~b2888c4-ba2c2c80-bb003c64-rc80000-we8ccb8~x2/)|
+|![Pride of Lorient (Fashion) example sett](/setts/s17/r2b8ba1b4ba2b3ba3b1ba15bb1ba4bb2ba2bb4ba1bb9w2~b2888c4-ba2c2c80-bb003c64-rc80000-we8ccb8~x2/sett.png)|

@@ -16,5 +16,5 @@ BWKWBKBWBKWKBW
 
 | Tartans |
 |---------------|
-| [Skye Dress Blue, Isle of (Dance)](/setts/s14/b14w14k6w60b40k10ba2w16ba2k8w8k14ba2w12-b447480-ba2888c4-k000000-we0e0e0/)|
-|![Skye Dress Blue, Isle of (Dance) example sett](/setts/s14/b14w14k6w60b40k10ba2w16ba2k8w8k14ba2w12-b447480-ba2888c4-k000000-we0e0e0/sett.png)|
+| [Skye Dress Blue, Isle of (Dance)](/setts/s14/b7w7k3w30b20k5ba1w8ba1k4w4k7ba1w6~b447480-ba2888c4-k000000-we0e0e0~x2/)|
+|![Skye Dress Blue, Isle of (Dance) example sett](/setts/s14/b7w7k3w30b20k5ba1w8ba1k4w4k7ba1w6~b447480-ba2888c4-k000000-we0e0e0~x2/sett.png)|

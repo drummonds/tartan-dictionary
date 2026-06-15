@@ -6,7 +6,7 @@ BWRBGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b28w4r24ba40g40w4-b404040-ba000080-g00643c-rc8002c-wfffff0/tartan.png)
+![Woven sample](/setts/s6/b7w1r6ba10g10w1~b404040-ba000080-g00643c-rc8002c-wfffff0~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWRBGW
 
 | Tartans |
 |---------------|
-| [McEachern, Andrew](/setts/s6/b28w4r24ba40g40w4-b404040-ba000080-g00643c-rc8002c-wfffff0/)|
-|![McEachern, Andrew example sett](/setts/s6/b28w4r24ba40g40w4-b404040-ba000080-g00643c-rc8002c-wfffff0/sett.png)|
-| [McEachem (Name)](/setts/s6/b28w4r24ba40g40w4-b5c5c5c-ba003c64-g006818-rc80000-we0e0e0/)|
-|![McEachem (Name) example sett](/setts/s6/b28w4r24ba40g40w4-b5c5c5c-ba003c64-g006818-rc80000-we0e0e0/sett.png)|
+| [McEachern, Andrew](/setts/s6/b7w1r6ba10g10w1~b404040-ba000080-g00643c-rc8002c-wfffff0~x4/)|
+|![McEachern, Andrew example sett](/setts/s6/b7w1r6ba10g10w1~b404040-ba000080-g00643c-rc8002c-wfffff0~x4/sett.png)|
+| [McEachem (Name)](/setts/s6/b7w1r6ba10g10w1~b5c5c5c-ba003c64-g006818-rc80000-we0e0e0~x4/)|
+|![McEachem (Name) example sett](/setts/s6/b7w1r6ba10g10w1~b5c5c5c-ba003c64-g006818-rc80000-we0e0e0~x4/sett.png)|

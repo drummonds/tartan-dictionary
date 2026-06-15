@@ -6,7 +6,7 @@ RBKBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r4b32k24ba40y4-b003c64-ba202060-k101010-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s5/r1b8k6ba10y1~b003c64-ba202060-k101010-r880000-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKBY
 
 | Tartans |
 |---------------|
-| [Sanix Modern](/setts/s5/r4b32k24ba40y4-b003c64-ba202060-k101010-r880000-yd09800/)|
-|![Sanix Modern example sett](/setts/s5/r4b32k24ba40y4-b003c64-ba202060-k101010-r880000-yd09800/sett.png)|
+| [Sanix Modern](/setts/s5/r1b8k6ba10y1~b003c64-ba202060-k101010-r880000-yd09800~x4/)|
+|![Sanix Modern example sett](/setts/s5/r1b8k6ba10y1~b003c64-ba202060-k101010-r880000-yd09800~x4/sett.png)|

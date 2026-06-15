@@ -16,5 +16,5 @@ BKYKBBGKR
 
 | Tartans |
 |---------------|
-| [Bicentenary (Commemorative)](/setts/s9/b24k4y4k8ba8b16g32k4r8-b501414-ba00008c-g146400-k000000-r8c0000-yc88c00/)|
-|![Bicentenary (Commemorative) example sett](/setts/s9/b24k4y4k8ba8b16g32k4r8-b501414-ba00008c-g146400-k000000-r8c0000-yc88c00/sett.png)|
+| [Bicentenary (Commemorative)](/setts/s9/b6k1y1k2ba2b4g8k1r2~b501414-ba00008c-g146400-k000000-r8c0000-yc88c00~x4/)|
+|![Bicentenary (Commemorative) example sett](/setts/s9/b6k1y1k2ba2b4g8k1r2~b501414-ba00008c-g146400-k000000-r8c0000-yc88c00~x4/sett.png)|

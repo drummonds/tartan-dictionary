@@ -6,7 +6,7 @@ GBGWGWG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g6b24g24w24g4w24g6-b1870a4-g003820-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/g3b12g12w12g2w12g3~b1870a4-g003820-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGWGWG
 
 | Tartans |
 |---------------|
-| [Game Fair (Corporate)](/setts/s7/g6b24g24w24g4w24g6-b1870a4-g003820-we0e0e0/)|
-|![Game Fair (Corporate) example sett](/setts/s7/g6b24g24w24g4w24g6-b1870a4-g003820-we0e0e0/sett.png)|
+| [Game Fair (Corporate)](/setts/s7/g3b12g12w12g2w12g3~b1870a4-g003820-we0e0e0~x2/)|
+|![Game Fair (Corporate) example sett](/setts/s7/g3b12g12w12g2w12g3~b1870a4-g003820-we0e0e0~x2/sett.png)|

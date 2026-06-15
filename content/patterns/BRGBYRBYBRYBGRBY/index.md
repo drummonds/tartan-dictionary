@@ -16,5 +16,5 @@ BRGBYRBYBRYBGRBY
 
 | Tartans |
 |---------------|
-| [Monaghan, County](/setts/s16/y6b4r26g32b28y16r28b4y6b4r28y16b28g32r26b4-b4c3428-g003820-ra03400-ybc8c00/)|
-|![Monaghan, County example sett](/setts/s16/y6b4r26g32b28y16r28b4y6b4r28y16b28g32r26b4-b4c3428-g003820-ra03400-ybc8c00/sett.png)|
+| [Monaghan, County](/setts/s16/y3b2r13g16b14y8r14b2y3b2r14y8b14g16r13b2~b4c3428-g003820-ra03400-ybc8c00~x2/)|
+|![Monaghan, County example sett](/setts/s16/y3b2r13g16b14y8r14b2y3b2r14y8b14g16r13b2~b4c3428-g003820-ra03400-ybc8c00~x2/sett.png)|

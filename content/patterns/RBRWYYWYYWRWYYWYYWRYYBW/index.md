@@ -16,5 +16,5 @@ RBRWYYWYYWRWYYWYYWRYYBW
 
 | Tartans |
 |---------------|
-| [B & Q (Corporate)](/setts/s23/r12b4r12w2y8ya4w2ya4y8w2r10w2y6ya4w2ya4y6w2r80y10ya6b2w6-b5c5c5c-rc80000-wfcfcfc-yfcb464-yafccc00/)|
-|![B & Q (Corporate) example sett](/setts/s23/r12b4r12w2y8ya4w2ya4y8w2r10w2y6ya4w2ya4y6w2r80y10ya6b2w6-b5c5c5c-rc80000-wfcfcfc-yfcb464-yafccc00/sett.png)|
+| [B & Q (Corporate)](/setts/s23/r6b2r6w1y4ya2w1ya2y4w1r5w1y3ya2w1ya2y3w1r40y5ya3b1w3~b5c5c5c-rc80000-wfcfcfc-yfcb464-yafccc00~x2/)|
+|![B & Q (Corporate) example sett](/setts/s23/r6b2r6w1y4ya2w1ya2y4w1r5w1y3ya2w1ya2y3w1r40y5ya3b1w3~b5c5c5c-rc80000-wfcfcfc-yfcb464-yafccc00~x2/sett.png)|

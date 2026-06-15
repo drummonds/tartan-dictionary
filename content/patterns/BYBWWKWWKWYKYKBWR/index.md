@@ -16,5 +16,5 @@ BYBWWKWWKWYKYKBWR
 
 | Tartans |
 |---------------|
-| [Clauwaert (Personal)](/setts/s17/b8y4b8w12wa4k4w12wa4k4w26y6k8y6k16b12wa4r8-b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858/)|
-|![Clauwaert (Personal) example sett](/setts/s17/b8y4b8w12wa4k4w12wa4k4w26y6k8y6k16b12wa4r8-b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858/sett.png)|
+| [Clauwaert (Personal)](/setts/s17/b4y2b4w6wa2k2w6wa2k2w13y3k4y3k8b6wa2r4~b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858~x2/)|
+|![Clauwaert (Personal) example sett](/setts/s17/b4y2b4w6wa2k2w6wa2k2w13y3k4y3k8b6wa2r4~b2c2c80-k101010-rc80000-wc0c0c0-wae0e0e0-ya08858~x2/sett.png)|

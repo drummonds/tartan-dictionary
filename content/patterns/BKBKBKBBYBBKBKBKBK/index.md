@@ -16,5 +16,5 @@ BKBKBKBBYBBKBKBKBK
 
 | Tartans |
 |---------------|
-| [Hannay Blue](/setts/s18/k18b8k4b8k4b60k18b8ba28y4ba28b8k18b60k4b8k4b8-b5c8ca8-ba2c2c80-k101010-ye8c000/)|
-|![Hannay Blue example sett](/setts/s18/k18b8k4b8k4b60k18b8ba28y4ba28b8k18b60k4b8k4b8-b5c8ca8-ba2c2c80-k101010-ye8c000/sett.png)|
+| [Hannay Blue](/setts/s18/k9b4k2b4k2b30k9b4ba14y2ba14b4k9b30k2b4k2b4~b5c8ca8-ba2c2c80-k101010-ye8c000~x2/)|
+|![Hannay Blue example sett](/setts/s18/k9b4k2b4k2b30k9b4ba14y2ba14b4k9b30k2b4k2b4~b5c8ca8-ba2c2c80-k101010-ye8c000~x2/sett.png)|

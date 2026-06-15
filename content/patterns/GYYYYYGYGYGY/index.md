@@ -16,5 +16,5 @@ GYYYYYGYGYGY
 
 | Tartans |
 |---------------|
-| [Meredith (Welsh Name)](/setts/s12/g4y20y3y2y3y20g24y3g2y3g24y4-g006818-ye8c000/)|
-|![Meredith (Welsh Name) example sett](/setts/s12/g4y20y3y2y3y20g24y3g2y3g24y4-g006818-ye8c000/sett.png)|
+| [Meredith (Welsh Name)](/setts/s12/g4y20y3y2y3y20g24y3g2y3g24y4~g006818-ye8c000/)|
+|![Meredith (Welsh Name) example sett](/setts/s12/g4y20y3y2y3y20g24y3g2y3g24y4~g006818-ye8c000/sett.png)|

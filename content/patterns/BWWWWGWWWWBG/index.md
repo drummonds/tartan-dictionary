@@ -16,5 +16,5 @@ BWWWWGWWWWBG
 
 | Tartans |
 |---------------|
-| [Highlands Country Club](/setts/s12/b60w44wa8w4wa4g16wa4w4wa8w44b60g20-b1c0070-g006818-wa8ace8-wac0c0c0/)|
-|![Highlands Country Club example sett](/setts/s12/b60w44wa8w4wa4g16wa4w4wa8w44b60g20-b1c0070-g006818-wa8ace8-wac0c0c0/sett.png)|
+| [Highlands Country Club](/setts/s12/b15w11wa2w1wa1g4wa1w1wa2w11b15g5~b1c0070-g006818-wa8ace8-wac0c0c0~x4/)|
+|![Highlands Country Club example sett](/setts/s12/b15w11wa2w1wa1g4wa1w1wa2w11b15g5~b1c0070-g006818-wa8ace8-wac0c0c0~x4/sett.png)|

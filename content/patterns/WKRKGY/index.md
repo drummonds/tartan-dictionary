@@ -6,7 +6,7 @@ WKRKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w15k8r25k72g98y15-g408060-k1c1714-r781638-we0e0e0-yc89800/tartan.png)
+![Woven sample](/setts/s6/w15k8r25k72g98y15~g408060-k1c1714-r781638-we0e0e0-yc89800/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKRKGY
 
 | Tartans |
 |---------------|
-| [Afternoon Tea / Afternoon Tea](/setts/s6/w15k8r25k72g98y15-g408060-k1c1714-r781638-we0e0e0-yc89800/)|
-|![Afternoon Tea / Afternoon Tea example sett](/setts/s6/w15k8r25k72g98y15-g408060-k1c1714-r781638-we0e0e0-yc89800/sett.png)|
+| [Afternoon Tea / Afternoon Tea](/setts/s6/w15k8r25k72g98y15~g408060-k1c1714-r781638-we0e0e0-yc89800/)|
+|![Afternoon Tea / Afternoon Tea example sett](/setts/s6/w15k8r25k72g98y15~g408060-k1c1714-r781638-we0e0e0-yc89800/sett.png)|

@@ -6,7 +6,7 @@ BRBGBKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b72r8b12g36b30k36w8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/b36r4b6g18b15k18w4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBGBKW
 
 | Tartans |
 |---------------|
-| [Grainger (Name)](/setts/s7/b72r8b12g36b30k36w8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/)|
-|![Grainger (Name) example sett](/setts/s7/b72r8b12g36b30k36w8-b2c2c80-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Grainger (Name)](/setts/s7/b36r4b6g18b15k18w4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/)|
+|![Grainger (Name) example sett](/setts/s7/b36r4b6g18b15k18w4~b2c2c80-g006818-k101010-rc80000-wfcfcfc~x2/sett.png)|

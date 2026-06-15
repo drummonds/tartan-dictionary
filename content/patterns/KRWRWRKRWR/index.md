@@ -16,5 +16,5 @@ KRWRWRKRWR
 
 | Tartans |
 |---------------|
-| [Miyuki, Check Red, 1002A](/setts/s10/r80w2r2k16r2w2r12w2r2k16-k000030-rc00000-we0e0e0/)|
-|![Miyuki, Check Red, 1002A example sett](/setts/s10/r80w2r2k16r2w2r12w2r2k16-k000030-rc00000-we0e0e0/sett.png)|
+| [Miyuki, Check Red, 1002A](/setts/s10/r40w1r1k8r1w1r6w1r1k8~k000030-rc00000-we0e0e0~x2/)|
+|![Miyuki, Check Red, 1002A example sett](/setts/s10/r40w1r1k8r1w1r6w1r1k8~k000030-rc00000-we0e0e0~x2/sett.png)|

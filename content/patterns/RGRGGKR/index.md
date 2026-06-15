@@ -6,7 +6,7 @@ RGRGGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r66k16g24ga24r16g4r16-g603800-ga006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/r33k8g12ga12r8g2r8~g603800-ga006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGRGGKR
 
 | Tartans |
 |---------------|
-| [Tipperary, County](/setts/s7/r66k16g24ga24r16g4r16-g603800-ga006818-k101010-rc80000/)|
-|![Tipperary, County example sett](/setts/s7/r66k16g24ga24r16g4r16-g603800-ga006818-k101010-rc80000/sett.png)|
+| [Tipperary, County](/setts/s7/r33k8g12ga12r8g2r8~g603800-ga006818-k101010-rc80000~x2/)|
+|![Tipperary, County example sett](/setts/s7/r33k8g12ga12r8g2r8~g603800-ga006818-k101010-rc80000~x2/sett.png)|

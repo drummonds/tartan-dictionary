@@ -16,5 +16,5 @@ GRBRBRBRBRG
 
 | Tartans |
 |---------------|
-| [Hughes (Welsh Name)](/setts/s11/g4r34b20r4b8r6ba2r5b2r3g4-b003c64-ba202060-g006818-rc80000/)|
-|![Hughes (Welsh Name) example sett](/setts/s11/g4r34b20r4b8r6ba2r5b2r3g4-b003c64-ba202060-g006818-rc80000/sett.png)|
+| [Hughes (Welsh Name)](/setts/s11/g4r34b20r4b8r6ba2r5b2r3g4~b003c64-ba202060-g006818-rc80000/)|
+|![Hughes (Welsh Name) example sett](/setts/s11/g4r34b20r4b8r6ba2r5b2r3g4~b003c64-ba202060-g006818-rc80000/sett.png)|

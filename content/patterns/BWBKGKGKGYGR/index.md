@@ -16,7 +16,7 @@ BWBKGKGKGYGR
 
 | Tartans |
 |---------------|
-| [Kerby (Personal)](/setts/s12/b8w4b20k20g6k6g6k4g48y4g4r8-b440044-g006818-k101010-r880000-we0e0e0-ye8c000/)|
-|![Kerby (Personal) example sett](/setts/s12/b8w4b20k20g6k6g6k4g48y4g4r8-b440044-g006818-k101010-r880000-we0e0e0-ye8c000/sett.png)|
-| [Kerby, from the Tennessee Cumberland Basin](/setts/s12/b8w4b20k20g6k6g6k4g48y4g4r8-b300030-g004010-k000000-r800000-we0e0e0-yf0c000/)|
-|![Kerby, from the Tennessee Cumberland Basin example sett](/setts/s12/b8w4b20k20g6k6g6k4g48y4g4r8-b300030-g004010-k000000-r800000-we0e0e0-yf0c000/sett.png)|
+| [Kerby (Personal)](/setts/s12/b4w2b10k10g3k3g3k2g24y2g2r4~b440044-g006818-k101010-r880000-we0e0e0-ye8c000~x2/)|
+|![Kerby (Personal) example sett](/setts/s12/b4w2b10k10g3k3g3k2g24y2g2r4~b440044-g006818-k101010-r880000-we0e0e0-ye8c000~x2/sett.png)|
+| [Kerby, from the Tennessee Cumberland Basin](/setts/s12/b4w2b10k10g3k3g3k2g24y2g2r4~b300030-g004010-k000000-r800000-we0e0e0-yf0c000~x2/)|
+|![Kerby, from the Tennessee Cumberland Basin example sett](/setts/s12/b4w2b10k10g3k3g3k2g24y2g2r4~b300030-g004010-k000000-r800000-we0e0e0-yf0c000~x2/sett.png)|

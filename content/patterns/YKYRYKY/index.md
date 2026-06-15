@@ -6,7 +6,7 @@ YKYRYKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y74k24ya34r6ya34k2yb6-k101010-rc80000-y80b4bc-yaa08858-ybe8c000/tartan.png)
+![Woven sample](/setts/s7/y37k12ya17r3ya17k1yb3~k101010-rc80000-y80b4bc-yaa08858-ybe8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YKYRYKY
 
 | Tartans |
 |---------------|
-| [Berger-MacLaren (Personal)](/setts/s7/y74k24ya34r6ya34k2yb6-k101010-rc80000-y80b4bc-yaa08858-ybe8c000/)|
-|![Berger-MacLaren (Personal) example sett](/setts/s7/y74k24ya34r6ya34k2yb6-k101010-rc80000-y80b4bc-yaa08858-ybe8c000/sett.png)|
+| [Berger-MacLaren (Personal)](/setts/s7/y37k12ya17r3ya17k1yb3~k101010-rc80000-y80b4bc-yaa08858-ybe8c000~x2/)|
+|![Berger-MacLaren (Personal) example sett](/setts/s7/y37k12ya17r3ya17k1yb3~k101010-rc80000-y80b4bc-yaa08858-ybe8c000~x2/sett.png)|

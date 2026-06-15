@@ -16,5 +16,5 @@ BKRGKBRKY
 
 | Tartans |
 |---------------|
-| [Loch Awe](/setts/s9/b6k4r6g40k48ba40r6k4y6-b778899-ba0000cd-g008b00-k101010-rff0000-yffe600/)|
-|![Loch Awe example sett](/setts/s9/b6k4r6g40k48ba40r6k4y6-b778899-ba0000cd-g008b00-k101010-rff0000-yffe600/sett.png)|
+| [Loch Awe](/setts/s9/b3k2r3g20k24ba20r3k2y3~b778899-ba0000cd-g008b00-k101010-rff0000-yffe600~x2/)|
+|![Loch Awe example sett](/setts/s9/b3k2r3g20k24ba20r3k2y3~b778899-ba0000cd-g008b00-k101010-rff0000-yffe600~x2/sett.png)|

@@ -6,7 +6,7 @@ BWBRBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8w2b34r56ba34ra4-b2c2c80-ba440044-r880000-rab00024-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/b4w1b17r28ba17ra2~b2c2c80-ba440044-r880000-rab00024-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBRBR
 
 | Tartans |
 |---------------|
-| [Sail Chalmadale](/setts/s6/b8w2b34r56ba34ra4-b2c2c80-ba440044-r880000-rab00024-we0e0e0/)|
-|![Sail Chalmadale example sett](/setts/s6/b8w2b34r56ba34ra4-b2c2c80-ba440044-r880000-rab00024-we0e0e0/sett.png)|
+| [Sail Chalmadale](/setts/s6/b4w1b17r28ba17ra2~b2c2c80-ba440044-r880000-rab00024-we0e0e0~x2/)|
+|![Sail Chalmadale example sett](/setts/s6/b4w1b17r28ba17ra2~b2c2c80-ba440044-r880000-rab00024-we0e0e0~x2/sett.png)|

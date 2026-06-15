@@ -16,5 +16,5 @@ BYBWYWBBBR
 
 | Tartans |
 |---------------|
-| [Forfar](/setts/s10/b6y2b46w40ya2w8ba44b8ba8r2-b5c8ca8-ba2c2c80-rc80000-wfcfcfc-ye8c000-yaa08858/)|
-|![Forfar example sett](/setts/s10/b6y2b46w40ya2w8ba44b8ba8r2-b5c8ca8-ba2c2c80-rc80000-wfcfcfc-ye8c000-yaa08858/sett.png)|
+| [Forfar](/setts/s10/b3y1b23w20ya1w4ba22b4ba4r1~b5c8ca8-ba2c2c80-rc80000-wfcfcfc-ye8c000-yaa08858~x2/)|
+|![Forfar example sett](/setts/s10/b3y1b23w20ya1w4ba22b4ba4r1~b5c8ca8-ba2c2c80-rc80000-wfcfcfc-ye8c000-yaa08858~x2/sett.png)|

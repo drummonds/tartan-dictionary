@@ -16,5 +16,5 @@ KGYYBYGYWBKW
 
 | Tartans |
 |---------------|
-| [State Seal of Idaho (Fashion)](/setts/s12/w8k2b66w8y30g8y6b8y30ya4g60k4-b1474b4-g289c18-k101010-we8ccb8-ya08858-yabc8c00/)|
-|![State Seal of Idaho (Fashion) example sett](/setts/s12/w8k2b66w8y30g8y6b8y30ya4g60k4-b1474b4-g289c18-k101010-we8ccb8-ya08858-yabc8c00/sett.png)|
+| [State Seal of Idaho (Fashion)](/setts/s12/w4k1b33w4y15g4y3b4y15ya2g30k2~b1474b4-g289c18-k101010-we8ccb8-ya08858-yabc8c00~x2/)|
+|![State Seal of Idaho (Fashion) example sett](/setts/s12/w4k1b33w4y15g4y3b4y15ya2g30k2~b1474b4-g289c18-k101010-we8ccb8-ya08858-yabc8c00~x2/sett.png)|

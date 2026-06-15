@@ -6,7 +6,7 @@ RBBBRBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4b2ba16b16ra16b2ra2-b8080d0-ba000050-rc00000-ra906030/tartan.png)
+![Woven sample](/setts/s7/r2b1ba8b8ra8b1ra1~b8080d0-ba000050-rc00000-ra906030~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBBRBR
 
 | Tartans |
 |---------------|
-| [Over Mountain](/setts/s7/r4b2ba16b16ra16b2ra2-b8080d0-ba000050-rc00000-ra906030/)|
-|![Over Mountain example sett](/setts/s7/r4b2ba16b16ra16b2ra2-b8080d0-ba000050-rc00000-ra906030/sett.png)|
+| [Over Mountain](/setts/s7/r2b1ba8b8ra8b1ra1~b8080d0-ba000050-rc00000-ra906030~x2/)|
+|![Over Mountain example sett](/setts/s7/r2b1ba8b8ra8b1ra1~b8080d0-ba000050-rc00000-ra906030~x2/sett.png)|

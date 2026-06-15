@@ -6,7 +6,7 @@ BRWBWBWB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b16w4b22w26b60w26r22b4-b1c0070-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b8w2b11w13b30w13r11b2~b1c0070-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWBWBWB
 
 | Tartans |
 |---------------|
-| [Jubilation (Commemorative)](/setts/s8/b16w4b22w26b60w26r22b4-b1c0070-rc80000-we0e0e0/)|
-|![Jubilation (Commemorative) example sett](/setts/s8/b16w4b22w26b60w26r22b4-b1c0070-rc80000-we0e0e0/sett.png)|
+| [Jubilation (Commemorative)](/setts/s8/b8w2b11w13b30w13r11b2~b1c0070-rc80000-we0e0e0~x2/)|
+|![Jubilation (Commemorative) example sett](/setts/s8/b8w2b11w13b30w13r11b2~b1c0070-rc80000-we0e0e0~x2/sett.png)|

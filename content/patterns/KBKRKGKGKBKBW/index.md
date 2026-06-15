@@ -16,5 +16,5 @@ KBKRKGKGKBKBW
 
 | Tartans |
 |---------------|
-| [Kennedy (Irish)](/setts/s13/k4b8k28r6k12g4k4g4k20ba12k4ba6w2-b0596fa-ba2c2c80-g503c14-k101010-rc82828-we0e0e0/)|
-|![Kennedy (Irish) example sett](/setts/s13/k4b8k28r6k12g4k4g4k20ba12k4ba6w2-b0596fa-ba2c2c80-g503c14-k101010-rc82828-we0e0e0/sett.png)|
+| [Kennedy (Irish)](/setts/s13/k2b4k14r3k6g2k2g2k10ba6k2ba3w1~b0596fa-ba2c2c80-g503c14-k101010-rc82828-we0e0e0~x2/)|
+|![Kennedy (Irish) example sett](/setts/s13/k2b4k14r3k6g2k2g2k10ba6k2ba3w1~b0596fa-ba2c2c80-g503c14-k101010-rc82828-we0e0e0~x2/sett.png)|

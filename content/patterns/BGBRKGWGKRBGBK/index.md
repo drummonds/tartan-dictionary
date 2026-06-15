@@ -16,5 +16,5 @@ BGBRKGWGKRBGBK
 
 | Tartans |
 |---------------|
-| [Lambert Dress (Personal)](/setts/s14/b68g20b10r4k16ga4w6ga4k16r4b10g20b56k6-b1474b4-g006818-ga604000-k101010-rc8002c-wfcfcfc/)|
-|![Lambert Dress (Personal) example sett](/setts/s14/b68g20b10r4k16ga4w6ga4k16r4b10g20b56k6-b1474b4-g006818-ga604000-k101010-rc8002c-wfcfcfc/sett.png)|
+| [Lambert Dress (Personal)](/setts/s14/b34g10b5r2k8ga2w3ga2k8r2b5g10b28k3~b1474b4-g006818-ga604000-k101010-rc8002c-wfcfcfc~x2/)|
+|![Lambert Dress (Personal) example sett](/setts/s14/b34g10b5r2k8ga2w3ga2k8r2b5g10b28k3~b1474b4-g006818-ga604000-k101010-rc8002c-wfcfcfc~x2/sett.png)|

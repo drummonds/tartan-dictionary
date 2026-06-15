@@ -6,7 +6,7 @@ BGBGBG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b12g4b58g58b4g12-b5a008c-g503c14/tartan.png)
+![Woven sample](/setts/s6/b6g2b29g29b2g6~b5a008c-g503c14~x2/tartan.png)
 
 
 
@@ -18,19 +18,19 @@ BGBGBG
 
 | Tartans |
 |---------------|
-| [Harmony 11](/setts/s6/b12g4b58g58b4g12-b5a008c-g503c14/)|
-|![Harmony 11 example sett](/setts/s6/b12g4b58g58b4g12-b5a008c-g503c14/sett.png)|
-| [Harmony 12](/setts/s6/b12g4b58g58b4g12-b2c4084-g005020/)|
-|![Harmony 12 example sett](/setts/s6/b12g4b58g58b4g12-b2c4084-g005020/sett.png)|
-| [Harmony 13](/setts/s6/b20g2b2g20b36g10-b3c82af-g808080/)|
-|![Harmony 13 example sett](/setts/s6/b20g2b2g20b36g10-b3c82af-g808080/sett.png)|
-| [Royal and Ancient, The](/setts/s6/g98b32ga6b4ga4b12-b2c2c80-g006818-ga604000/)|
-|![Royal and Ancient, The example sett](/setts/s6/g98b32ga6b4ga4b12-b2c2c80-g006818-ga604000/sett.png)|
-| [Brown Heather (Fashion)](/setts/s6/b8g48b48g8ba48g8-b3c2010-ba5c5c5c-g64340c/)|
-|![Brown Heather (Fashion) example sett](/setts/s6/b8g48b48g8ba48g8-b3c2010-ba5c5c5c-g64340c/sett.png)|
-| [Highland Grey](/setts/s6/b16g16b4g16b16g4-b2c2c80-g006818/)|
-|![Highland Grey example sett](/setts/s6/b16g16b4g16b16g4-b2c2c80-g006818/sett.png)|
-| [Harmony, 12](/setts/s6/b12g4b58g58b4g12-b304080-g008000/)|
-|![Harmony, 12 example sett](/setts/s6/b12g4b58g58b4g12-b304080-g008000/sett.png)|
-| [Harmony, No 13](/setts/s6/b20g2b2g20b36g10-b5480b0-g808080/)|
-|![Harmony, No 13 example sett](/setts/s6/b20g2b2g20b36g10-b5480b0-g808080/sett.png)|
+| [Harmony 11](/setts/s6/b6g2b29g29b2g6~b5a008c-g503c14~x2/)|
+|![Harmony 11 example sett](/setts/s6/b6g2b29g29b2g6~b5a008c-g503c14~x2/sett.png)|
+| [Harmony 12](/setts/s6/b6g2b29g29b2g6~b2c4084-g005020~x2/)|
+|![Harmony 12 example sett](/setts/s6/b6g2b29g29b2g6~b2c4084-g005020~x2/sett.png)|
+| [Harmony 13](/setts/s6/b10g1b1g10b18g5~b3c82af-g808080~x2/)|
+|![Harmony 13 example sett](/setts/s6/b10g1b1g10b18g5~b3c82af-g808080~x2/sett.png)|
+| [Royal and Ancient, The](/setts/s6/g49b16ga3b2ga2b6~b2c2c80-g006818-ga604000~x2/)|
+|![Royal and Ancient, The example sett](/setts/s6/g49b16ga3b2ga2b6~b2c2c80-g006818-ga604000~x2/sett.png)|
+| [Brown Heather (Fashion)](/setts/s6/b1g6b6g1ba6g1~b3c2010-ba5c5c5c-g64340c~x8/)|
+|![Brown Heather (Fashion) example sett](/setts/s6/b1g6b6g1ba6g1~b3c2010-ba5c5c5c-g64340c~x8/sett.png)|
+| [Highland Grey](/setts/s6/b4g4b1g4b4g1~b2c2c80-g006818~x4/)|
+|![Highland Grey example sett](/setts/s6/b4g4b1g4b4g1~b2c2c80-g006818~x4/sett.png)|
+| [Harmony, 12](/setts/s6/b6g2b29g29b2g6~b304080-g008000~x2/)|
+|![Harmony, 12 example sett](/setts/s6/b6g2b29g29b2g6~b304080-g008000~x2/sett.png)|
+| [Harmony, No 13](/setts/s6/b10g1b1g10b18g5~b5480b0-g808080~x2/)|
+|![Harmony, No 13 example sett](/setts/s6/b10g1b1g10b18g5~b5480b0-g808080~x2/sett.png)|

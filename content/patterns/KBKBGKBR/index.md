@@ -6,7 +6,7 @@ KBKBGKBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k4b12k2ba14g26k22ba84r4-b2c4084-ba141e46-g005020-k101010-rdc0000/tartan.png)
+![Woven sample](/setts/s8/k2b6k1ba7g13k11ba42r2~b2c4084-ba141e46-g005020-k101010-rdc0000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKBGKBR
 
 | Tartans |
 |---------------|
-| [Scottish Heritage](/setts/s8/k4b12k2ba14g26k22ba84r4-b2c4084-ba141e46-g005020-k101010-rdc0000/)|
-|![Scottish Heritage example sett](/setts/s8/k4b12k2ba14g26k22ba84r4-b2c4084-ba141e46-g005020-k101010-rdc0000/sett.png)|
+| [Scottish Heritage](/setts/s8/k2b6k1ba7g13k11ba42r2~b2c4084-ba141e46-g005020-k101010-rdc0000~x2/)|
+|![Scottish Heritage example sett](/setts/s8/k2b6k1ba7g13k11ba42r2~b2c4084-ba141e46-g005020-k101010-rdc0000~x2/sett.png)|

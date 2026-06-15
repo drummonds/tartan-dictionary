@@ -6,7 +6,7 @@ RYBRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r16y30b24r58w8-b1474b4-rc80000-we0e0e0-y48a4c0/tartan.png)
+![Woven sample](/setts/s5/r8y15b12r29w4~b1474b4-rc80000-we0e0e0-y48a4c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYBRW
 
 | Tartans |
 |---------------|
-| [Snowbird (Corporate)](/setts/s5/r16y30b24r58w8-b1474b4-rc80000-we0e0e0-y48a4c0/)|
-|![Snowbird (Corporate) example sett](/setts/s5/r16y30b24r58w8-b1474b4-rc80000-we0e0e0-y48a4c0/sett.png)|
+| [Snowbird (Corporate)](/setts/s5/r8y15b12r29w4~b1474b4-rc80000-we0e0e0-y48a4c0~x2/)|
+|![Snowbird (Corporate) example sett](/setts/s5/r8y15b12r29w4~b1474b4-rc80000-we0e0e0-y48a4c0~x2/sett.png)|

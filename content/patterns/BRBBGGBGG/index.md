@@ -16,5 +16,5 @@ BRBBGGBGG
 
 | Tartans |
 |---------------|
-| [Westbrook (2013)](/setts/s9/g30ga6b4ga6g16ba24bb40r4bb8-b4c0000-ba1870a4-bb1c1c50-g004c00-ga718048-r880000/)|
-|![Westbrook (2013) example sett](/setts/s9/g30ga6b4ga6g16ba24bb40r4bb8-b4c0000-ba1870a4-bb1c1c50-g004c00-ga718048-r880000/sett.png)|
+| [Westbrook (2013)](/setts/s9/g15ga3b2ga3g8ba12bb20r2bb4~b4c0000-ba1870a4-bb1c1c50-g004c00-ga718048-r880000~x2/)|
+|![Westbrook (2013) example sett](/setts/s9/g15ga3b2ga3g8ba12bb20r2bb4~b4c0000-ba1870a4-bb1c1c50-g004c00-ga718048-r880000~x2/sett.png)|

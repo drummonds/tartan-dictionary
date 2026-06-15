@@ -16,5 +16,5 @@ BRGRBRRRB
 
 | Tartans |
 |---------------|
-| [MacPherson Gathering 1996](/setts/s9/b12r8g64r8b12r8ra64r8b12-b1870a4-g00643c-rc80000-ra888888/)|
-|![MacPherson Gathering 1996 example sett](/setts/s9/b12r8g64r8b12r8ra64r8b12-b1870a4-g00643c-rc80000-ra888888/sett.png)|
+| [MacPherson Gathering 1996](/setts/s9/b3r2g16r2b3r2ra16r2b3~b1870a4-g00643c-rc80000-ra888888~x4/)|
+|![MacPherson Gathering 1996 example sett](/setts/s9/b3r2g16r2b3r2ra16r2b3~b1870a4-g00643c-rc80000-ra888888~x4/sett.png)|

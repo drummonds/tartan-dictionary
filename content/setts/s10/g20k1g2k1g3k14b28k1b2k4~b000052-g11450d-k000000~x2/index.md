@@ -1,0 +1,53 @@
+---
+title: "Kerr Hunting"
+date: 2023-03-18
+---
+In pattern [GKGKGKBKBK](/patterns/gkgkgkbkbk/).
+
+
+This was sourced from weddslist.  It is a [10 stripes tartan](/stripes/stripes10/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Kerr Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Kerr Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
+## Thread count
+DG/40 K2 DG4 K2 DG6 K28 DB56 K2 DB4 K/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000052;"><span style="color:#000052;filter:grayscale(1) invert(1) contrast(100);">#000052</span></code> `#000052` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
+| DG | <code style="background-color:#11450D;"><span style="color:#11450D;filter:grayscale(1) invert(1) contrast(100);">#11450D</span></code> `#11450D` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.09 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Kerr Hunting](/setts/s10/g20k1g2k1g3k14b28k1b2k4~b000064-g004c00-k000000~x2/) — ΔT 0.54
+1. [Black Watch RHR](/setts/s8/b10k1b3k1b20k25g40k3~b00004c-g004c00-k000000~x2/) — ΔT 1.05
+1. [Common Kilt](/setts/s8/r3k2b25k28g25k2r1b2~b000048-g044028-k000000-rc80000~x2/) — ΔT 1.21
+1. [MacThomas](/setts/s9/b1b1r2b21k11g21r2g1g1~b000060-g004c00-k000000-rc80000~x2/) — ΔT 1.41
+1. [Jedforest](/setts/s12/k4b2g24r1g2r1g2k20b24k1b2k4~b1c0070-g006818-k101010-rc80000~x2/) — ΔT 1.44
+1. [Gordon VS](/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4~b000052-g11450d-k000000-yaaaa00~x2/) — ΔT 1.49
+1. [Gordon VS](/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4~b000052-g11450d-k000000-yaaaa00/) — ΔT 1.49
+1. [Dundas](/setts/s7/k4b16k12g24r1g2k2~b000052-g11450d-k000000-raa0000~x2/) — ΔT 1.51
+1. [Armstrong](/setts/s10/r3b12k1b1k1b2k12g30k1g2~b000052-g11450d-k000000-raa0000~x2/) — ΔT 1.53
+1. [Armstrong](/setts/s10/r3b12k1b1k1b2k12g30k1g2~b000052-g11450d-k000000-raa0000/) — ΔT 1.53
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g20k1g2k1g3k14b28k1b2k4~b000064-g004c00-k000000~x2/"><circle cx="303.4" cy="166.3" r="4" fill="#3465a4"><title>Kerr Hunting</title></circle></a><a href="/setts/s8/b10k1b3k1b20k25g40k3~b00004c-g004c00-k000000~x2/"><circle cx="310.3" cy="175.1" r="4" fill="#3465a4"><title>Black Watch RHR</title></circle></a><a href="/setts/s8/r3k2b25k28g25k2r1b2~b000048-g044028-k000000-rc80000~x2/"><circle cx="270.6" cy="169.2" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/setts/s9/b1b1r2b21k11g21r2g1g1~b000060-g004c00-k000000-rc80000~x2/"><circle cx="255.3" cy="156.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s12/k4b2g24r1g2r1g2k20b24k1b2k4~b1c0070-g006818-k101010-rc80000~x2/"><circle cx="258.3" cy="141.4" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4~b000052-g11450d-k000000-yaaaa00~x2/"><circle cx="275.1" cy="127.2" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/setts/s17/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4~b000052-g11450d-k000000-yaaaa00/"><circle cx="275.1" cy="127.2" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/setts/s7/k4b16k12g24r1g2k2~b000052-g11450d-k000000-raa0000~x2/"><circle cx="285.5" cy="189.3" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/setts/s10/r3b12k1b1k1b2k12g30k1g2~b000052-g11450d-k000000-raa0000~x2/"><circle cx="335.0" cy="138.0" r="4" fill="#3465a4"><title>Armstrong</title></circle></a><a href="/setts/s10/r3b12k1b1k1b2k12g30k1g2~b000052-g11450d-k000000-raa0000/"><circle cx="335.0" cy="138.0" r="4" fill="#3465a4"><title>Armstrong</title></circle></a><circle cx="319.0" cy="172.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/g20k1g2k1g3k14b28k1b2k4~b000052-g11450d-k000000~x2/

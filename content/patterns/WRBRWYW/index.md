@@ -6,7 +6,7 @@ WRBRWYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w16y6w44r44b6ra4w8-b640c1c-r888888-ra9c0030-wfcfcfc-yfcfc00/tartan.png)
+![Woven sample](/setts/s7/w8y3w22r22b3ra2w4~b640c1c-r888888-ra9c0030-wfcfcfc-yfcfc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRBRWYW
 
 | Tartans |
 |---------------|
-| [Banff, White (Fashion)](/setts/s7/w16y6w44r44b6ra4w8-b640c1c-r888888-ra9c0030-wfcfcfc-yfcfc00/)|
-|![Banff, White (Fashion) example sett](/setts/s7/w16y6w44r44b6ra4w8-b640c1c-r888888-ra9c0030-wfcfcfc-yfcfc00/sett.png)|
+| [Banff, White (Fashion)](/setts/s7/w8y3w22r22b3ra2w4~b640c1c-r888888-ra9c0030-wfcfcfc-yfcfc00~x2/)|
+|![Banff, White (Fashion) example sett](/setts/s7/w8y3w22r22b3ra2w4~b640c1c-r888888-ra9c0030-wfcfcfc-yfcfc00~x2/sett.png)|

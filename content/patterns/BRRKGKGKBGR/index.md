@@ -16,5 +16,5 @@ BRRKGKGKBGR
 
 | Tartans |
 |---------------|
-| [Okada, Yayoi (Personal)](/setts/s11/b4r4ra20k4g4k4g4k20b40g4ra4-b141e46-g003c14-k000000-r9c68a4-radc0000/)|
-|![Okada, Yayoi (Personal) example sett](/setts/s11/b4r4ra20k4g4k4g4k20b40g4ra4-b141e46-g003c14-k000000-r9c68a4-radc0000/sett.png)|
+| [Okada, Yayoi (Personal)](/setts/s11/b1r1ra5k1g1k1g1k5b10g1ra1~b141e46-g003c14-k000000-r9c68a4-radc0000~x4/)|
+|![Okada, Yayoi (Personal) example sett](/setts/s11/b1r1ra5k1g1k1g1k5b10g1ra1~b141e46-g003c14-k000000-r9c68a4-radc0000~x4/sett.png)|

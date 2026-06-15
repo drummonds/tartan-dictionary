@@ -16,5 +16,5 @@ KRKRRRKGKGKGKR
 
 | Tartans |
 |---------------|
-| [Anderson 10](/setts/s14/k6r14k8ra14rb6ra14k8g6k6g38k4g4k4rb6-g008000-k000000-r800000-ra806050-rbc00000/)|
-|![Anderson 10 example sett](/setts/s14/k6r14k8ra14rb6ra14k8g6k6g38k4g4k4rb6-g008000-k000000-r800000-ra806050-rbc00000/sett.png)|
+| [Anderson 10](/setts/s14/k3r7k4ra7rb3ra7k4g3k3g19k2g2k2rb3~g008000-k000000-r800000-ra806050-rbc00000~x2/)|
+|![Anderson 10 example sett](/setts/s14/k3r7k4ra7rb3ra7k4g3k3g19k2g2k2rb3~g008000-k000000-r800000-ra806050-rbc00000~x2/sett.png)|

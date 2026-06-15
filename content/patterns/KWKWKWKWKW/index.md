@@ -16,5 +16,5 @@ KWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Black and White](/setts/s10/k8w28k4w8k16w6k60w4k8w8-k000000-wf8f8f8/)|
-|![Kinloch Anderson Black and White example sett](/setts/s10/k8w28k4w8k16w6k60w4k8w8-k000000-wf8f8f8/sett.png)|
+| [Kinloch Anderson Black and White](/setts/s10/k4w14k2w4k8w3k30w2k4w4~k000000-wf8f8f8~x2/)|
+|![Kinloch Anderson Black and White example sett](/setts/s10/k4w14k2w4k8w3k30w2k4w4~k000000-wf8f8f8~x2/sett.png)|

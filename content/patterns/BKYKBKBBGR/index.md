@@ -16,5 +16,5 @@ BKYKBKBBGR
 
 | Tartans |
 |---------------|
-| [Six Frigates (US)](/setts/s10/b6k2y4k2ba20k34ba4b2g2r2-b5f749c-ba141e46-g603800-k1c1714-rc82828-ye0a126/)|
-|![Six Frigates (US) example sett](/setts/s10/b6k2y4k2ba20k34ba4b2g2r2-b5f749c-ba141e46-g603800-k1c1714-rc82828-ye0a126/sett.png)|
+| [Six Frigates (US)](/setts/s10/b3k1y2k1ba10k17ba2b1g1r1~b5f749c-ba141e46-g603800-k1c1714-rc82828-ye0a126~x2/)|
+|![Six Frigates (US) example sett](/setts/s10/b3k1y2k1ba10k17ba2b1g1r1~b5f749c-ba141e46-g603800-k1c1714-rc82828-ye0a126~x2/sett.png)|

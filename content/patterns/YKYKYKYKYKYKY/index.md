@@ -16,5 +16,5 @@ YKYKYKYKYKYKY
 
 | Tartans |
 |---------------|
-| [Yamaguchi Tsutomu](/setts/s13/y40k6y20k12y16k16y12k20y6k24y4k28y2-k101010-yffe600/)|
-|![Yamaguchi Tsutomu example sett](/setts/s13/y40k6y20k12y16k16y12k20y6k24y4k28y2-k101010-yffe600/sett.png)|
+| [Yamaguchi Tsutomu](/setts/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~k101010-yffe600~x2/)|
+|![Yamaguchi Tsutomu example sett](/setts/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~k101010-yffe600~x2/sett.png)|

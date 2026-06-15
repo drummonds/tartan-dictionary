@@ -16,5 +16,5 @@ RKRKRKYKY
 
 | Tartans |
 |---------------|
-| [Magdalene (Commemorative)](/setts/s9/y4k8y2k8r10k100ra2k4r2-k101010-rc80000-ra888888-ye8c000/)|
-|![Magdalene (Commemorative) example sett](/setts/s9/y4k8y2k8r10k100ra2k4r2-k101010-rc80000-ra888888-ye8c000/sett.png)|
+| [Magdalene (Commemorative)](/setts/s9/y2k4y1k4r5k50ra1k2r1~k101010-rc80000-ra888888-ye8c000~x2/)|
+|![Magdalene (Commemorative) example sett](/setts/s9/y2k4y1k4r5k50ra1k2r1~k101010-rc80000-ra888888-ye8c000~x2/sett.png)|

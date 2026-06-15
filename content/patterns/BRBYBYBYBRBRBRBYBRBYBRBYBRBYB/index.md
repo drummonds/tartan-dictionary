@@ -16,5 +16,5 @@ BRBYBYBYBRBRBRBYBRBYBRBYBRBYB
 
 | Tartans |
 |---------------|
-| [Delmarva](/setts/s29/b16r4b4y2b2y2b2y2b4r4b12ra2b24ra2b12y2b2rb8b2y2b4r6b6y2b2rb4b2y2b16-b3b5554-r9d2123-ra905966-rb907b53-yccbaaf/)|
-|![Delmarva example sett](/setts/s29/b16r4b4y2b2y2b2y2b4r4b12ra2b24ra2b12y2b2rb8b2y2b4r6b6y2b2rb4b2y2b16-b3b5554-r9d2123-ra905966-rb907b53-yccbaaf/sett.png)|
+| [Delmarva](/setts/s29/b8r2b2y1b1y1b1y1b2r2b6ra1b12ra1b6y1b1rb4b1y1b2r3b3y1b1rb2b1y1b8~b3b5554-r9d2123-ra905966-rb907b53-yccbaaf~x2/)|
+|![Delmarva example sett](/setts/s29/b8r2b2y1b1y1b1y1b2r2b6ra1b12ra1b6y1b1rb4b1y1b2r3b3y1b1rb2b1y1b8~b3b5554-r9d2123-ra905966-rb907b53-yccbaaf~x2/sett.png)|

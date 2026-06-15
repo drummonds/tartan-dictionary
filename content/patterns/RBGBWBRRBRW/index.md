@@ -16,5 +16,5 @@ RBGBWBRRBRW
 
 | Tartans |
 |---------------|
-| [Cavalier, Red](/setts/s11/r80b20g4b4w4b6ra16r12b4r8w4-b1c1c1c-g789484-ra07c58-ra901c38-we0e0e0/)|
-|![Cavalier, Red example sett](/setts/s11/r80b20g4b4w4b6ra16r12b4r8w4-b1c1c1c-g789484-ra07c58-ra901c38-we0e0e0/sett.png)|
+| [Cavalier, Red](/setts/s11/r40b10g2b2w2b3ra8r6b2r4w2~b1c1c1c-g789484-ra07c58-ra901c38-we0e0e0~x2/)|
+|![Cavalier, Red example sett](/setts/s11/r40b10g2b2w2b3ra8r6b2r4w2~b1c1c1c-g789484-ra07c58-ra901c38-we0e0e0~x2/sett.png)|

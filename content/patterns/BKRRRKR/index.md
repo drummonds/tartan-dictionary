@@ -6,7 +6,7 @@ BKRRRKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b36k28r20ra4r20k4r8-b1c0070-k101010-r888888-rac80000/tartan.png)
+![Woven sample](/setts/s7/b9k7r5ra1r5k1r2~b1c0070-k101010-r888888-rac80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRRRKR
 
 | Tartans |
 |---------------|
-| [Greyhound Grenadiers (Corporate)](/setts/s7/b36k28r20ra4r20k4r8-b1c0070-k101010-r888888-rac80000/)|
-|![Greyhound Grenadiers (Corporate) example sett](/setts/s7/b36k28r20ra4r20k4r8-b1c0070-k101010-r888888-rac80000/sett.png)|
+| [Greyhound Grenadiers (Corporate)](/setts/s7/b9k7r5ra1r5k1r2~b1c0070-k101010-r888888-rac80000~x4/)|
+|![Greyhound Grenadiers (Corporate) example sett](/setts/s7/b9k7r5ra1r5k1r2~b1c0070-k101010-r888888-rac80000~x4/sett.png)|

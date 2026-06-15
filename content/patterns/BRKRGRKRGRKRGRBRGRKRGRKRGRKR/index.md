@@ -16,5 +16,5 @@ BRKRGRKRGRKRGRBRGRKRGRKRGRKR
 
 | Tartans |
 |---------------|
-| [Kilbarchan Unidentified No. 7](/setts/s28/b8r8k8r12g48r8k6r12g6r8k48r12g8r8b8r8g8r12k48r8g6r12k6r8g48r12k8r8-b2888c4-g006818-k101010-rc80000/)|
-|![Kilbarchan Unidentified No. 7 example sett](/setts/s28/b8r8k8r12g48r8k6r12g6r8k48r12g8r8b8r8g8r12k48r8g6r12k6r8g48r12k8r8-b2888c4-g006818-k101010-rc80000/sett.png)|
+| [Kilbarchan Unidentified No. 7](/setts/s28/b4r4k4r6g24r4k3r6g3r4k24r6g4r4b4r4g4r6k24r4g3r6k3r4g24r6k4r4~b2888c4-g006818-k101010-rc80000~x2/)|
+|![Kilbarchan Unidentified No. 7 example sett](/setts/s28/b4r4k4r6g24r4k3r6g3r4k24r6g4r4b4r4g4r6k24r4g3r6k3r4g24r6k4r4~b2888c4-g006818-k101010-rc80000~x2/sett.png)|

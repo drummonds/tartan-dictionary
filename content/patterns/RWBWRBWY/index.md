@@ -6,7 +6,7 @@ RWBWRBWY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8w8b8w42ra2b84w2y8-b000088-ra00000-rae87878-wfcfcfc-ye0b000/tartan.png)
+![Woven sample](/setts/s8/r4w4b4w21ra1b42w1y4~b000088-ra00000-rae87878-wfcfcfc-ye0b000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWBWRBWY
 
 | Tartans |
 |---------------|
-| [Presley of Memphis](/setts/s8/r8w8b8w42ra2b84w2y8-b000088-ra00000-rae87878-wfcfcfc-ye0b000/)|
-|![Presley of Memphis example sett](/setts/s8/r8w8b8w42ra2b84w2y8-b000088-ra00000-rae87878-wfcfcfc-ye0b000/sett.png)|
+| [Presley of Memphis](/setts/s8/r4w4b4w21ra1b42w1y4~b000088-ra00000-rae87878-wfcfcfc-ye0b000~x2/)|
+|![Presley of Memphis example sett](/setts/s8/r4w4b4w21ra1b42w1y4~b000088-ra00000-rae87878-wfcfcfc-ye0b000~x2/sett.png)|

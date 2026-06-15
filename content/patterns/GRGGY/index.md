@@ -6,7 +6,7 @@ GRGGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/y4g34ga8r30g2-g0e3923-ga207449-rbb001a-ye3b235/tartan.png)
+![Woven sample](/setts/s5/y2g17ga4r15g1~g0e3923-ga207449-rbb001a-ye3b235~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GRGGY
 
 | Tartans |
 |---------------|
-| [Christmas](/setts/s5/y4g34ga8r30g2-g0e3923-ga207449-rbb001a-ye3b235/)|
-|![Christmas example sett](/setts/s5/y4g34ga8r30g2-g0e3923-ga207449-rbb001a-ye3b235/sett.png)|
-| [Christmas (Fashion)](/setts/s5/y4g34ga8r30g2-g003820-ga006818-rc80000-yfccc00/)|
-|![Christmas (Fashion) example sett](/setts/s5/y4g34ga8r30g2-g003820-ga006818-rc80000-yfccc00/sett.png)|
+| [Christmas](/setts/s5/y2g17ga4r15g1~g0e3923-ga207449-rbb001a-ye3b235~x2/)|
+|![Christmas example sett](/setts/s5/y2g17ga4r15g1~g0e3923-ga207449-rbb001a-ye3b235~x2/sett.png)|
+| [Christmas (Fashion)](/setts/s5/y2g17ga4r15g1~g003820-ga006818-rc80000-yfccc00~x2/)|
+|![Christmas (Fashion) example sett](/setts/s5/y2g17ga4r15g1~g003820-ga006818-rc80000-yfccc00~x2/sett.png)|

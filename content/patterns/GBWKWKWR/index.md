@@ -6,7 +6,7 @@ GBWKWKWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g12b22w16k8w16k54w8r8-b2c2c80-g006818-k101010-rc80000-wc0c0c0/tartan.png)
+![Woven sample](/setts/s8/g6b11w8k4w8k27w4r4~b2c2c80-g006818-k101010-rc80000-wc0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBWKWKWR
 
 | Tartans |
 |---------------|
-| [Kervegant, Suzanne (Personal)](/setts/s8/g12b22w16k8w16k54w8r8-b2c2c80-g006818-k101010-rc80000-wc0c0c0/)|
-|![Kervegant, Suzanne (Personal) example sett](/setts/s8/g12b22w16k8w16k54w8r8-b2c2c80-g006818-k101010-rc80000-wc0c0c0/sett.png)|
+| [Kervegant, Suzanne (Personal)](/setts/s8/g6b11w8k4w8k27w4r4~b2c2c80-g006818-k101010-rc80000-wc0c0c0~x2/)|
+|![Kervegant, Suzanne (Personal) example sett](/setts/s8/g6b11w8k4w8k27w4r4~b2c2c80-g006818-k101010-rc80000-wc0c0c0~x2/sett.png)|

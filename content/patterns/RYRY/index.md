@@ -6,7 +6,7 @@ RYRY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/r120y14r10y4-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s4/r60y7r5y2~rff0000-yffe600~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RYRY
 
 | Tartans |
 |---------------|
-| [Scania 1658](/setts/s4/r120y14r10y4-rff0000-yffe600/)|
-|![Scania 1658 example sett](/setts/s4/r120y14r10y4-rff0000-yffe600/sett.png)|
-| [Scania 1658](/setts/s4/r120y14r10y4-rc80000-ye8c000/)|
-|![Scania 1658 example sett](/setts/s4/r120y14r10y4-rc80000-ye8c000/sett.png)|
+| [Scania 1658](/setts/s4/r60y7r5y2~rff0000-yffe600~x2/)|
+|![Scania 1658 example sett](/setts/s4/r60y7r5y2~rff0000-yffe600~x2/sett.png)|
+| [Scania 1658](/setts/s4/r60y7r5y2~rc80000-ye8c000~x2/)|
+|![Scania 1658 example sett](/setts/s4/r60y7r5y2~rc80000-ye8c000~x2/sett.png)|

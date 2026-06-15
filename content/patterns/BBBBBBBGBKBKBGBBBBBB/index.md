@@ -16,5 +16,5 @@ BBBBBBBGBKBKBGBBBBBB
 
 | Tartans |
 |---------------|
-| [Spirit of Scotland](/setts/s20/b192ba16b24bb6b6bb6b6g40ba16k6ba28k6ba16g40b6bb6b6bb6b24ba16-b202060-ba5a008c-bb0000ff-g003820-k101010/)|
-|![Spirit of Scotland example sett](/setts/s20/b192ba16b24bb6b6bb6b6g40ba16k6ba28k6ba16g40b6bb6b6bb6b24ba16-b202060-ba5a008c-bb0000ff-g003820-k101010/sett.png)|
+| [Spirit of Scotland](/setts/s20/b96ba8b12bb3b3bb3b3g20ba8k3ba14k3ba8g20b3bb3b3bb3b12ba8~b202060-ba5a008c-bb0000ff-g003820-k101010~x2/)|
+|![Spirit of Scotland example sett](/setts/s20/b96ba8b12bb3b3bb3b3g20ba8k3ba14k3ba8g20b3bb3b3bb3b12ba8~b202060-ba5a008c-bb0000ff-g003820-k101010~x2/sett.png)|

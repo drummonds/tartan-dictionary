@@ -16,5 +16,5 @@ BYBBYBBBW
 
 | Tartans |
 |---------------|
-| [Heirloom Blue Alba (Fashion)](/setts/s9/b8y4b68ba20ya8ba8bb8ba46w6-b5c8ca8-ba202060-bb780078-we0e0e0-ybc8c00-yaa0a0a0/)|
-|![Heirloom Blue Alba (Fashion) example sett](/setts/s9/b8y4b68ba20ya8ba8bb8ba46w6-b5c8ca8-ba202060-bb780078-we0e0e0-ybc8c00-yaa0a0a0/sett.png)|
+| [Heirloom Blue Alba (Fashion)](/setts/s9/b4y2b34ba10ya4ba4bb4ba23w3~b5c8ca8-ba202060-bb780078-we0e0e0-ybc8c00-yaa0a0a0~x2/)|
+|![Heirloom Blue Alba (Fashion) example sett](/setts/s9/b4y2b34ba10ya4ba4bb4ba23w3~b5c8ca8-ba202060-bb780078-we0e0e0-ybc8c00-yaa0a0a0~x2/sett.png)|

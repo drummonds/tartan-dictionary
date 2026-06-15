@@ -16,5 +16,5 @@ GKGRGKGKGR
 
 | Tartans |
 |---------------|
-| [Donachie of Brockloch Ancient Hunting](/setts/s10/g40k4g4r72g44k4g4k4g4r40-g757547-k101010-rcc7a00/)|
-|![Donachie of Brockloch Ancient Hunting example sett](/setts/s10/g40k4g4r72g44k4g4k4g4r40-g757547-k101010-rcc7a00/sett.png)|
+| [Donachie of Brockloch Ancient Hunting](/setts/s10/g10k1g1r18g11k1g1k1g1r10~g757547-k101010-rcc7a00~x4/)|
+|![Donachie of Brockloch Ancient Hunting example sett](/setts/s10/g10k1g1r18g11k1g1k1g1r10~g757547-k101010-rcc7a00~x4/sett.png)|

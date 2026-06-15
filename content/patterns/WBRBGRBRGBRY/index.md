@@ -16,5 +16,5 @@ WBRBGRBRGBRY
 
 | Tartans |
 |---------------|
-| [Kormylo (Personal)](/setts/s12/w4b4r36b4g40r4b80r4g24b6r18y4-b202060-g003820-rc80000-wfcfcfc-ye8c000/)|
-|![Kormylo (Personal) example sett](/setts/s12/w4b4r36b4g40r4b80r4g24b6r18y4-b202060-g003820-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Kormylo (Personal)](/setts/s12/w2b2r18b2g20r2b40r2g12b3r9y2~b202060-g003820-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Kormylo (Personal) example sett](/setts/s12/w2b2r18b2g20r2b40r2g12b3r9y2~b202060-g003820-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

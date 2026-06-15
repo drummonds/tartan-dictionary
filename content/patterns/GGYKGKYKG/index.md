@@ -16,5 +16,5 @@ GGYKGKYKG
 
 | Tartans |
 |---------------|
-| [Maine Acadia](/setts/s9/g10k2y4k2g38k30y4ga40g6-g108070-ga607c6e-k101010-yc4a161/)|
-|![Maine Acadia example sett](/setts/s9/g10k2y4k2g38k30y4ga40g6-g108070-ga607c6e-k101010-yc4a161/sett.png)|
+| [Maine Acadia](/setts/s9/g5k1y2k1g19k15y2ga20g3~g108070-ga607c6e-k101010-yc4a161~x2/)|
+|![Maine Acadia example sett](/setts/s9/g5k1y2k1g19k15y2ga20g3~g108070-ga607c6e-k101010-yc4a161~x2/sett.png)|

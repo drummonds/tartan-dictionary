@@ -16,5 +16,5 @@ WRWBYGWRWGYGY
 
 | Tartans |
 |---------------|
-| [Okanagan(District)](/setts/s13/w34r4wa4b18y4g32wa2r12wa2ga10y2gb16y4-b1c0070-g5c6428-ga006818-gb8c7038-re87878-w98c8e8-wae0e0e0-ye8c000/)|
-|![Okanagan(District) example sett](/setts/s13/w34r4wa4b18y4g32wa2r12wa2ga10y2gb16y4-b1c0070-g5c6428-ga006818-gb8c7038-re87878-w98c8e8-wae0e0e0-ye8c000/sett.png)|
+| [Okanagan(District)](/setts/s13/w17r2wa2b9y2g16wa1r6wa1ga5y1gb8y2~b1c0070-g5c6428-ga006818-gb8c7038-re87878-w98c8e8-wae0e0e0-ye8c000~x2/)|
+|![Okanagan(District) example sett](/setts/s13/w17r2wa2b9y2g16wa1r6wa1ga5y1gb8y2~b1c0070-g5c6428-ga006818-gb8c7038-re87878-w98c8e8-wae0e0e0-ye8c000~x2/sett.png)|

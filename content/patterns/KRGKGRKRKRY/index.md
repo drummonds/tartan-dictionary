@@ -16,5 +16,5 @@ KRGKGRKRKRY
 
 | Tartans |
 |---------------|
-| [Army Cadet Force (Military)](/setts/s11/k18r2g2k6g40r10k6r40k10r6y4-g006818-k101010-rc80000-ye8c000/)|
-|![Army Cadet Force (Military) example sett](/setts/s11/k18r2g2k6g40r10k6r40k10r6y4-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Army Cadet Force (Military)](/setts/s11/k9r1g1k3g20r5k3r20k5r3y2~g006818-k101010-rc80000-ye8c000~x2/)|
+|![Army Cadet Force (Military) example sett](/setts/s11/k9r1g1k3g20r5k3r20k5r3y2~g006818-k101010-rc80000-ye8c000~x2/sett.png)|

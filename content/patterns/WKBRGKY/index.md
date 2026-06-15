@@ -6,7 +6,7 @@ WKBRGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w6k2b50r14g24k2y6-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w3k1b25r7g12k1y3~b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKBRGKY
 
 | Tartans |
 |---------------|
-| [Caskie](/setts/s7/w6k2b50r14g24k2y6-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Caskie example sett](/setts/s7/w6k2b50r14g24k2y6-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Caskie](/setts/s7/w3k1b25r7g12k1y3~b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Caskie example sett](/setts/s7/w3k1b25r7g12k1y3~b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

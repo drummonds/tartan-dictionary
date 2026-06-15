@@ -6,7 +6,7 @@ BRGRGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r96g20r12g36r12b4-b2c2c80-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s6/r24g5r3g9r3b1~b2c2c80-g006818-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGRGR
 
 | Tartans |
 |---------------|
-| [MacKintosh, Red](/setts/s6/r96g20r12g36r12b4-b2c2c80-g006818-rc80000/)|
-|![MacKintosh, Red example sett](/setts/s6/r96g20r12g36r12b4-b2c2c80-g006818-rc80000/sett.png)|
+| [MacKintosh, Red](/setts/s6/r24g5r3g9r3b1~b2c2c80-g006818-rc80000~x4/)|
+|![MacKintosh, Red example sett](/setts/s6/r24g5r3g9r3b1~b2c2c80-g006818-rc80000~x4/sett.png)|

@@ -6,7 +6,7 @@ BRWB
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b80w4r48b48-b2c2c80-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s4/b20w1r12b12~b2c2c80-rc80000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWB
 
 | Tartans |
 |---------------|
-| [Masai Shuka 22 (Artefact)](/setts/s4/b80w4r48b48-b2c2c80-rc80000-we0e0e0/)|
-|![Masai Shuka 22 (Artefact) example sett](/setts/s4/b80w4r48b48-b2c2c80-rc80000-we0e0e0/sett.png)|
+| [Masai Shuka 22 (Artefact)](/setts/s4/b20w1r12b12~b2c2c80-rc80000-we0e0e0~x4/)|
+|![Masai Shuka 22 (Artefact) example sett](/setts/s4/b20w1r12b12~b2c2c80-rc80000-we0e0e0~x4/sett.png)|

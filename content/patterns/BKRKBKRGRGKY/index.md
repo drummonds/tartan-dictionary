@@ -16,5 +16,5 @@ BKRKBKRGRGKY
 
 | Tartans |
 |---------------|
-| [State Seal of New Jersey (Fashion)](/setts/s12/b12k2r8k2b76k34ra24g10ra10g50k2y8-b1474b4-g604000-k101010-rc80000-ra888888-ybc8c00/)|
-|![State Seal of New Jersey (Fashion) example sett](/setts/s12/b12k2r8k2b76k34ra24g10ra10g50k2y8-b1474b4-g604000-k101010-rc80000-ra888888-ybc8c00/sett.png)|
+| [State Seal of New Jersey (Fashion)](/setts/s12/b6k1r4k1b38k17ra12g5ra5g25k1y4~b1474b4-g604000-k101010-rc80000-ra888888-ybc8c00~x2/)|
+|![State Seal of New Jersey (Fashion) example sett](/setts/s12/b6k1r4k1b38k17ra12g5ra5g25k1y4~b1474b4-g604000-k101010-rc80000-ra888888-ybc8c00~x2/sett.png)|

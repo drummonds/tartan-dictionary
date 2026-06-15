@@ -16,7 +16,7 @@ WKRKRKRKRYWYKW
 
 | Tartans |
 |---------------|
-| [Avalon - Stewart House](/setts/s14/w6k2r30k12r10k6r16k4r10y6w4y8k2w6-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Avalon - Stewart House example sett](/setts/s14/w6k2r30k12r10k6r16k4r10y6w4y8k2w6-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
-| [Avalon - Washington House](/setts/s14/w6k2r30k12r10k6r16k4r10y6w4y8k2w6-k101010-r888888-wf8f8f8-ye8c000/)|
-|![Avalon - Washington House example sett](/setts/s14/w6k2r30k12r10k6r16k4r10y6w4y8k2w6-k101010-r888888-wf8f8f8-ye8c000/sett.png)|
+| [Avalon - Stewart House](/setts/s14/w3k1r15k6r5k3r8k2r5y3w2y4k1w3~k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Avalon - Stewart House example sett](/setts/s14/w3k1r15k6r5k3r8k2r5y3w2y4k1w3~k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|
+| [Avalon - Washington House](/setts/s14/w3k1r15k6r5k3r8k2r5y3w2y4k1w3~k101010-r888888-wf8f8f8-ye8c000~x2/)|
+|![Avalon - Washington House example sett](/setts/s14/w3k1r15k6r5k3r8k2r5y3w2y4k1w3~k101010-r888888-wf8f8f8-ye8c000~x2/sett.png)|

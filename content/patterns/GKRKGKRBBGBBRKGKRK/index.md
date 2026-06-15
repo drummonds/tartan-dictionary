@@ -16,5 +16,5 @@ GKRKGKRBBGBBRKGKRK
 
 | Tartans |
 |---------------|
-| [Lochaber](/setts/s18/g8k2r4k2g66k70r4b66ba4g8ba4b66r4k70g66k2r4k2-b2c2c80-ba5c8ca8-g006818-k101010-rc80000/)|
-|![Lochaber example sett](/setts/s18/g8k2r4k2g66k70r4b66ba4g8ba4b66r4k70g66k2r4k2-b2c2c80-ba5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Lochaber](/setts/s18/g4k1r2k1g33k35r2b33ba2g4ba2b33r2k35g33k1r2k1~b2c2c80-ba5c8ca8-g006818-k101010-rc80000~x2/)|
+|![Lochaber example sett](/setts/s18/g4k1r2k1g33k35r2b33ba2g4ba2b33r2k35g33k1r2k1~b2c2c80-ba5c8ca8-g006818-k101010-rc80000~x2/sett.png)|

@@ -16,5 +16,5 @@ GBGKYKYKGKG
 
 | Tartans |
 |---------------|
-| [Hopetoun](/setts/s11/g52k8g8k44y4k8y4k44g8b4g44-b3850c8-g006818-k101010-yd0cc74/)|
-|![Hopetoun example sett](/setts/s11/g52k8g8k44y4k8y4k44g8b4g44-b3850c8-g006818-k101010-yd0cc74/sett.png)|
+| [Hopetoun](/setts/s11/g13k2g2k11y1k2y1k11g2b1g11~b3850c8-g006818-k101010-yd0cc74~x4/)|
+|![Hopetoun example sett](/setts/s11/g13k2g2k11y1k2y1k11g2b1g11~b3850c8-g006818-k101010-yd0cc74~x4/sett.png)|

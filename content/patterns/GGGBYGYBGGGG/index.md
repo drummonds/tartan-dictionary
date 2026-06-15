@@ -16,5 +16,5 @@ GGGBYGYBGGGG
 
 | Tartans |
 |---------------|
-| [Strange of Balcaskie (Personal)](/setts/s12/g64ga14g14ga32b64y6ga16y6b64ga32g14ga14-b2c2c80-g006818-ga604000-ye8c000/)|
-|![Strange of Balcaskie (Personal) example sett](/setts/s12/g64ga14g14ga32b64y6ga16y6b64ga32g14ga14-b2c2c80-g006818-ga604000-ye8c000/sett.png)|
+| [Strange of Balcaskie (Personal)](/setts/s12/g32ga7g7ga16b32y3ga8y3b32ga16g7ga7~b2c2c80-g006818-ga604000-ye8c000~x2/)|
+|![Strange of Balcaskie (Personal) example sett](/setts/s12/g32ga7g7ga16b32y3ga8y3b32ga16g7ga7~b2c2c80-g006818-ga604000-ye8c000~x2/sett.png)|

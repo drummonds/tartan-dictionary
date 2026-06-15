@@ -6,7 +6,7 @@ RKYGRKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r140k4y2g36r20k8b8w2-b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r70k2y1g18r10k4b4w1~b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKYGRKBW
 
 | Tartans |
 |---------------|
-| [MacIngust](/setts/s8/r140k4y2g36r20k8b8w2-b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/)|
-|![MacIngust example sett](/setts/s8/r140k4y2g36r20k8b8w2-b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [MacIngust](/setts/s8/r70k2y1g18r10k4b4w1~b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![MacIngust example sett](/setts/s8/r70k2y1g18r10k4b4w1~b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ GRGRGBGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g56r4g4r4g16b48ga6r4-b304080-g008000-ga908000-rc00000/tartan.png)
+![Woven sample](/setts/s8/g28r2g2r2g8b24ga3r2~b304080-g008000-ga908000-rc00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRGBGR
 
 | Tartans |
 |---------------|
-| [Leatherneck, U.S.Marine Corps](/setts/s8/g56r4g4r4g16b48ga6r4-b304080-g008000-ga908000-rc00000/)|
-|![Leatherneck, U.S.Marine Corps example sett](/setts/s8/g56r4g4r4g16b48ga6r4-b304080-g008000-ga908000-rc00000/sett.png)|
+| [Leatherneck, U.S.Marine Corps](/setts/s8/g28r2g2r2g8b24ga3r2~b304080-g008000-ga908000-rc00000~x2/)|
+|![Leatherneck, U.S.Marine Corps example sett](/setts/s8/g28r2g2r2g8b24ga3r2~b304080-g008000-ga908000-rc00000~x2/sett.png)|

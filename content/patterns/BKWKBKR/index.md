@@ -6,7 +6,7 @@ BKWKBKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r56k4b72k4w8k4b14-b6840fc-k101010-r901c38-wf8f8f8/tartan.png)
+![Woven sample](/setts/s7/r28k2b36k2w4k2b7~b6840fc-k101010-r901c38-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWKBKR
 
 | Tartans |
 |---------------|
-| [Presbyterian College Band (Corp)](/setts/s7/r56k4b72k4w8k4b14-b6840fc-k101010-r901c38-wf8f8f8/)|
-|![Presbyterian College Band (Corp) example sett](/setts/s7/r56k4b72k4w8k4b14-b6840fc-k101010-r901c38-wf8f8f8/sett.png)|
+| [Presbyterian College Band (Corp)](/setts/s7/r28k2b36k2w4k2b7~b6840fc-k101010-r901c38-wf8f8f8~x2/)|
+|![Presbyterian College Band (Corp) example sett](/setts/s7/r28k2b36k2w4k2b7~b6840fc-k101010-r901c38-wf8f8f8~x2/sett.png)|

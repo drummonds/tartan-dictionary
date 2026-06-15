@@ -16,5 +16,5 @@ KYRYYYRGRW
 
 | Tartans |
 |---------------|
-| [Hello Kitty](/setts/s10/k4y6r6y42ya6y4r12g12r8w4-g008b8b-k000000-rff0000-wffffff-yf08080-yaffd700/)|
-|![Hello Kitty example sett](/setts/s10/k4y6r6y42ya6y4r12g12r8w4-g008b8b-k000000-rff0000-wffffff-yf08080-yaffd700/sett.png)|
+| [Hello Kitty](/setts/s10/k2y3r3y21ya3y2r6g6r4w2~g008b8b-k000000-rff0000-wffffff-yf08080-yaffd700~x2/)|
+|![Hello Kitty example sett](/setts/s10/k2y3r3y21ya3y2r6g6r4w2~g008b8b-k000000-rff0000-wffffff-yf08080-yaffd700~x2/sett.png)|

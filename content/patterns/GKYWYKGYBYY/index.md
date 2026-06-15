@@ -16,5 +16,5 @@ GKYWYKGYBYY
 
 | Tartans |
 |---------------|
-| [Roscommon County Crest (Fashion)](/setts/s11/g22k10y14w10y14k10g14y22b32y14ya10-b2c2c80-g006818-k101010-we0e0e0-ya08858-yae8c000/)|
-|![Roscommon County Crest (Fashion) example sett](/setts/s11/g22k10y14w10y14k10g14y22b32y14ya10-b2c2c80-g006818-k101010-we0e0e0-ya08858-yae8c000/sett.png)|
+| [Roscommon County Crest (Fashion)](/setts/s11/g11k5y7w5y7k5g7y11b16y7ya5~b2c2c80-g006818-k101010-we0e0e0-ya08858-yae8c000~x2/)|
+|![Roscommon County Crest (Fashion) example sett](/setts/s11/g11k5y7w5y7k5g7y11b16y7ya5~b2c2c80-g006818-k101010-we0e0e0-ya08858-yae8c000~x2/sett.png)|

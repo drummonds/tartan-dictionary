@@ -16,5 +16,5 @@ WKRBRBRBRKY
 
 | Tartans |
 |---------------|
-| [MacKeever](/setts/s11/w8k2r24b6r6b32r6b6r24k2y8-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![MacKeever example sett](/setts/s11/w8k2r24b6r6b32r6b6r24k2y8-b2c2c80-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [MacKeever](/setts/s11/w4k1r12b3r3b16r3b3r12k1y4~b2c2c80-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![MacKeever example sett](/setts/s11/w4k1r12b3r3b16r3b3r12k1y4~b2c2c80-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

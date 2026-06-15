@@ -16,5 +16,5 @@ BKBKYKGKGKRKRK
 
 | Tartans |
 |---------------|
-| [Deas](/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/)|
-|![Deas example sett](/setts/s14/b42k4b4k24y6k24g4k4g42k4r16k12r16k4-b2c2c80-g006818-k000000-rc80000-ye8c000/sett.png)|
+| [Deas](/setts/s14/b21k2b2k12y3k12g2k2g21k2r8k6r8k2~b2c2c80-g006818-k000000-rc80000-ye8c000~x2/)|
+|![Deas example sett](/setts/s14/b21k2b2k12y3k12g2k2g21k2r8k6r8k2~b2c2c80-g006818-k000000-rc80000-ye8c000~x2/sett.png)|

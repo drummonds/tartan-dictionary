@@ -16,5 +16,5 @@ KWKWKRKRKY
 
 | Tartans |
 |---------------|
-| [Little of Morton Rigg](/setts/s10/k16w16k16w16k16r32k8r32k32y4-k101010-ra4003c-we0e0e0-yd09800/)|
-|![Little of Morton Rigg example sett](/setts/s10/k16w16k16w16k16r32k8r32k32y4-k101010-ra4003c-we0e0e0-yd09800/sett.png)|
+| [Little of Morton Rigg](/setts/s10/k4w4k4w4k4r8k2r8k8y1~k101010-ra4003c-we0e0e0-yd09800~x4/)|
+|![Little of Morton Rigg example sett](/setts/s10/k4w4k4w4k4r8k2r8k8y1~k101010-ra4003c-we0e0e0-yd09800~x4/sett.png)|

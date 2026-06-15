@@ -16,5 +16,5 @@ BRRBYBYBGBGBGBGYRGRYGBGBGBGBYBYBRRBR
 
 | Tartans |
 |---------------|
-| [Hart of Scotland](/setts/s36/r10b6r6ra4b4y4b4y2b28g4b14g8b8g14b4g18y2rb4g10rb4y2g18b4g14b8g8b14g4b28y2b4y4b4ra4r6b6-b2c2c80-g006818-r880000-rac80000-rb888888-ye8c000/)|
-|![Hart of Scotland example sett](/setts/s36/r10b6r6ra4b4y4b4y2b28g4b14g8b8g14b4g18y2rb4g10rb4y2g18b4g14b8g8b14g4b28y2b4y4b4ra4r6b6-b2c2c80-g006818-r880000-rac80000-rb888888-ye8c000/sett.png)|
+| [Hart of Scotland](/setts/s36/r5b3r3ra2b2y2b2y1b14g2b7g4b4g7b2g9y1rb2g5rb2y1g9b2g7b4g4b7g2b14y1b2y2b2ra2r3b3~b2c2c80-g006818-r880000-rac80000-rb888888-ye8c000~x2/)|
+|![Hart of Scotland example sett](/setts/s36/r5b3r3ra2b2y2b2y1b14g2b7g4b4g7b2g9y1rb2g5rb2y1g9b2g7b4g4b7g2b14y1b2y2b2ra2r3b3~b2c2c80-g006818-r880000-rac80000-rb888888-ye8c000~x2/sett.png)|

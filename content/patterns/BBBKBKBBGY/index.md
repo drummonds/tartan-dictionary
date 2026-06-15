@@ -16,5 +16,5 @@ BBBKBKBBGY
 
 | Tartans |
 |---------------|
-| [Ulster Scots (Fashion)](/setts/s10/b168ba2b2k4b4k60ba14b4g6y4-b2c2c80-ba780078-g006818-k101010-yd87c00/)|
-|![Ulster Scots (Fashion) example sett](/setts/s10/b168ba2b2k4b4k60ba14b4g6y4-b2c2c80-ba780078-g006818-k101010-yd87c00/sett.png)|
+| [Ulster Scots (Fashion)](/setts/s10/b84ba1b1k2b2k30ba7b2g3y2~b2c2c80-ba780078-g006818-k101010-yd87c00~x2/)|
+|![Ulster Scots (Fashion) example sett](/setts/s10/b84ba1b1k2b2k30ba7b2g3y2~b2c2c80-ba780078-g006818-k101010-yd87c00~x2/sett.png)|

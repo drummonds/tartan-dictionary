@@ -16,5 +16,5 @@ KGKGWGWGWGWKRKW
 
 | Tartans |
 |---------------|
-| [Black and White](/setts/s15/k38g12k6g30w6g24w18g6w40g6w40k38r8k10w6-g808080-k000000-rc00000-we0e0e0/)|
-|![Black and White example sett](/setts/s15/k38g12k6g30w6g24w18g6w40g6w40k38r8k10w6-g808080-k000000-rc00000-we0e0e0/sett.png)|
+| [Black and White](/setts/s15/k19g6k3g15w3g12w9g3w20g3w20k19r4k5w3~g808080-k000000-rc00000-we0e0e0~x2/)|
+|![Black and White example sett](/setts/s15/k19g6k3g15w3g12w9g3w20g3w20k19r4k5w3~g808080-k000000-rc00000-we0e0e0~x2/sett.png)|

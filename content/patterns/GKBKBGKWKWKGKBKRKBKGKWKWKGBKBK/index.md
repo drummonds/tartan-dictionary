@@ -16,5 +16,5 @@ GKBKBGKWKWKGKBKRKBKGKWKWKGBKBK
 
 | Tartans |
 |---------------|
-| [Stephenson Hunting #2](/setts/s30/g8k4b36k36b36g36k4w4k8w4k4g36k36b36k4r8k4b36k36g36k4w4k8w4k4g36b36k36b36k4-b1474b4-g006818-k101010-rc80000-wfcfcfc/)|
-|![Stephenson Hunting #2 example sett](/setts/s30/g8k4b36k36b36g36k4w4k8w4k4g36k36b36k4r8k4b36k36g36k4w4k8w4k4g36b36k36b36k4-b1474b4-g006818-k101010-rc80000-wfcfcfc/sett.png)|
+| [Stephenson Hunting #2](/setts/s30/g2k1b9k9b9g9k1w1k2w1k1g9k9b9k1r2k1b9k9g9k1w1k2w1k1g9b9k9b9k1~b1474b4-g006818-k101010-rc80000-wfcfcfc~x4/)|
+|![Stephenson Hunting #2 example sett](/setts/s30/g2k1b9k9b9g9k1w1k2w1k1g9k9b9k1r2k1b9k9g9k1w1k2w1k1g9b9k9b9k1~b1474b4-g006818-k101010-rc80000-wfcfcfc~x4/sett.png)|

@@ -16,5 +16,5 @@ BYBYBRKRKRKRBYBY
 
 | Tartans |
 |---------------|
-| [Historic Scotland](/setts/s16/b8y2b2y6b48r18k2r18k6r18k2r18b48y6b2y2-b3c405c-k101010-r888888-ya0a0a0/)|
-|![Historic Scotland example sett](/setts/s16/b8y2b2y6b48r18k2r18k6r18k2r18b48y6b2y2-b3c405c-k101010-r888888-ya0a0a0/sett.png)|
+| [Historic Scotland](/setts/s16/b4y1b1y3b24r9k1r9k3r9k1r9b24y3b1y1~b3c405c-k101010-r888888-ya0a0a0~x2/)|
+|![Historic Scotland example sett](/setts/s16/b4y1b1y3b24r9k1r9k3r9k1r9b24y3b1y1~b3c405c-k101010-r888888-ya0a0a0~x2/sett.png)|

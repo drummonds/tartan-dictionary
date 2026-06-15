@@ -16,5 +16,5 @@ KKGKKKGKGKYKGYK
 
 | Tartans |
 |---------------|
-| [Eynon (Welsh Name)](/setts/s15/k22ka2g6k12ka2k12g6k8g14k22y2k22g14y4ka8-g006818-k00002c-ka101010-yc8a400/)|
-|![Eynon (Welsh Name) example sett](/setts/s15/k22ka2g6k12ka2k12g6k8g14k22y2k22g14y4ka8-g006818-k00002c-ka101010-yc8a400/sett.png)|
+| [Eynon (Welsh Name)](/setts/s15/k11ka1g3k6ka1k6g3k4g7k11y1k11g7y2ka4~g006818-k00002c-ka101010-yc8a400~x2/)|
+|![Eynon (Welsh Name) example sett](/setts/s15/k11ka1g3k6ka1k6g3k4g7k11y1k11g7y2ka4~g006818-k00002c-ka101010-yc8a400~x2/sett.png)|

@@ -6,7 +6,7 @@ BKGKRKBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b24k12g56k12r56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b6k3g14k3r14k3b6y1~b2c2c80-g006818-k101010-rc80000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKGKRKBY
 
 | Tartans |
 |---------------|
-| [Kilgour (Symmetrical)](/setts/s8/b24k12g56k12r56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Kilgour (Symmetrical) example sett](/setts/s8/b24k12g56k12r56k12b24y4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Kilgour](/setts/s8/b24k12g56k12r56k12b24y4-b304080-g008000-k000000-rc00000-yf0c000/)|
-|![Kilgour example sett](/setts/s8/b24k12g56k12r56k12b24y4-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Kilgour (Symmetrical)](/setts/s8/b6k3g14k3r14k3b6y1~b2c2c80-g006818-k101010-rc80000-ye8c000~x4/)|
+|![Kilgour (Symmetrical) example sett](/setts/s8/b6k3g14k3r14k3b6y1~b2c2c80-g006818-k101010-rc80000-ye8c000~x4/sett.png)|
+| [Kilgour](/setts/s8/b6k3g14k3r14k3b6y1~b304080-g008000-k000000-rc00000-yf0c000~x4/)|
+|![Kilgour example sett](/setts/s8/b6k3g14k3r14k3b6y1~b304080-g008000-k000000-rc00000-yf0c000~x4/sett.png)|

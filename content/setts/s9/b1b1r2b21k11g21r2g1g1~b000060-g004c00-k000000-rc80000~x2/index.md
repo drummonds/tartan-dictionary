@@ -1,0 +1,47 @@
+---
+title: "MacThomas"
+date: 2023-03-18
+---
+In pattern [BBRBKGRGG](/patterns/bbrbkgrgg/).
+
+
+This was sourced from weddslist.  It is a [9 stripes tartan](/stripes/stripes9/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Thread count
+DB/2 DB2 R4 DB42 K22 G42 R4 G2 G/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000060;"><span style="color:#000060;filter:grayscale(1) invert(1) contrast(100);">#000060</span></code> `#000060` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `#004C00` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Ogilvy Hunting](/setts/s9/b24y2k8g16k1g3k1g3r4~b000052-g11450d-k000000-raa0000-yaaaa00~x2/) — ΔT 0.94
+1. [Meoni (Personal)](/setts/s7/b1g1b18g12k18r1k1~b2c2c80-g006818-k000000-rc80000~x2/) — ΔT 0.98
+1. [Jedforest](/setts/s12/k4b2g24r1g2r1g2k20b24k1b2k4~b1c0070-g006818-k101010-rc80000~x2/) — ΔT 1.04
+1. [Ogilvy VS](/setts/s8/b28y1b2k16g24k1g2r3~b00004c-g004c00-k000000-rc80000-yffc800~x2/) — ΔT 1.05
+1. [Ogilvy Hunting](/setts/s9/b24y2k8g16k1g3k1g3r4~b00004c-g004c00-k000000-rc80000-yffc800~x2/) — ΔT 1.05
+1. [Dundas](/setts/s7/k4b16k12g24r1g2k2~b000064-g004c00-k000000-rc80000~x2/) — ΔT 1.10
+1. [Ogilvy VS](/setts/s8/b28y1b2k16g24k1g2r3~b000052-g11450d-k000000-raa0000-yaaaa00~x2/) — ΔT 1.12
+1. [Common Kilt](/setts/s8/r3k2b25k28g25k2r1b2~b000048-g044028-k000000-rc80000~x2/) — ΔT 1.13
+1. [Common Kilt Tartan Tartan Number: 554. Earliest known date: c. 1790 A version of the Blatck Watch tartan produced by Wilson's of Bannockburn before the widespread use of clan names for tartan. The military Black Watch tartan was also woven with a red stripe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r3k2b25k28g25k2r1b2~b2c2c80-g006818-k101010-rc80000~x2/) — ΔT 1.16
+1. [Hebridean Old](/setts/s9/b2k2b18ba1k13ba1g16b3k2~b304080-ba8080d0-g008000-k000000~x2/) — ΔT 1.16
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b24y2k8g16k1g3k1g3r4~b000052-g11450d-k000000-raa0000-yaaaa00~x2/"><circle cx="236.8" cy="142.5" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s7/b1g1b18g12k18r1k1~b2c2c80-g006818-k000000-rc80000~x2/"><circle cx="228.1" cy="176.4" r="4" fill="#3465a4"><title>Meoni (Personal)</title></circle></a><a href="/setts/s12/k4b2g24r1g2r1g2k20b24k1b2k4~b1c0070-g006818-k101010-rc80000~x2/"><circle cx="258.3" cy="141.4" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/setts/s8/b28y1b2k16g24k1g2r3~b00004c-g004c00-k000000-rc80000-yffc800~x2/"><circle cx="246.2" cy="142.8" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s9/b24y2k8g16k1g3k1g3r4~b00004c-g004c00-k000000-rc80000-yffc800~x2/"><circle cx="221.9" cy="136.2" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s7/k4b16k12g24r1g2k2~b000064-g004c00-k000000-rc80000~x2/"><circle cx="271.5" cy="184.2" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/setts/s8/b28y1b2k16g24k1g2r3~b000052-g11450d-k000000-raa0000-yaaaa00~x2/"><circle cx="258.6" cy="147.7" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s8/r3k2b25k28g25k2r1b2~b000048-g044028-k000000-rc80000~x2/"><circle cx="270.6" cy="169.2" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/setts/s8/r3k2b25k28g25k2r1b2~b2c2c80-g006818-k101010-rc80000~x2/"><circle cx="270.4" cy="162.8" r="4" fill="#3465a4"><title>Common Kilt Tartan Tartan Number: 554. Earliest known date: c. 1790 A version of the Blatck Watch tartan produced by Wilson's of Bannockburn before the widespread use of clan names for tartan. The military Black Watch tartan was also woven with a red stripe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b2k2b18ba1k13ba1g16b3k2~b304080-ba8080d0-g008000-k000000~x2/"><circle cx="216.5" cy="159.5" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><circle cx="255.3" cy="156.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/b1b1r2b21k11g21r2g1g1~b000060-g004c00-k000000-rc80000~x2/

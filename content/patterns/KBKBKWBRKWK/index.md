@@ -16,5 +16,5 @@ KBKBKWBRKWK
 
 | Tartans |
 |---------------|
-| [Springbank](/setts/s11/k28b4k4b10k50w2b18r6k6w2k28-b505050-k101010-r9c68a4-wffffff/)|
-|![Springbank example sett](/setts/s11/k28b4k4b10k50w2b18r6k6w2k28-b505050-k101010-r9c68a4-wffffff/sett.png)|
+| [Springbank](/setts/s11/k14b2k2b5k25w1b9r3k3w1k14~b505050-k101010-r9c68a4-wffffff~x2/)|
+|![Springbank example sett](/setts/s11/k14b2k2b5k25w1b9r3k3w1k14~b505050-k101010-r9c68a4-wffffff~x2/sett.png)|

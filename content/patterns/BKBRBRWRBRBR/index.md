@@ -16,5 +16,5 @@ BKBRBRWRBRBR
 
 | Tartans |
 |---------------|
-| [Tullis Russell](/setts/s12/b18k32b18r14b8r18w4r4ba4r18b8r14-b000064-ba0596fa-k101010-rc80028-we0e0e0/)|
-|![Tullis Russell example sett](/setts/s12/b18k32b18r14b8r18w4r4ba4r18b8r14-b000064-ba0596fa-k101010-rc80028-we0e0e0/sett.png)|
+| [Tullis Russell](/setts/s12/b9k16b9r7b4r9w2r2ba2r9b4r7~b000064-ba0596fa-k101010-rc80028-we0e0e0~x2/)|
+|![Tullis Russell example sett](/setts/s12/b9k16b9r7b4r9w2r2ba2r9b4r7~b000064-ba0596fa-k101010-rc80028-we0e0e0~x2/sett.png)|

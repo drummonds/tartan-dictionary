@@ -6,7 +6,7 @@ RGKRKRKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8k4r48k8r12k104g56ra8-g484800-k000000-r9c0030-rafc3000/tartan.png)
+![Woven sample](/setts/s8/r2k1r12k2r3k26g14ra2~g484800-k000000-r9c0030-rafc3000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGKRKRKR
 
 | Tartans |
 |---------------|
-| [Booth (Fashion)](/setts/s8/r8k4r48k8r12k104g56ra8-g484800-k000000-r9c0030-rafc3000/)|
-|![Booth (Fashion) example sett](/setts/s8/r8k4r48k8r12k104g56ra8-g484800-k000000-r9c0030-rafc3000/sett.png)|
+| [Booth (Fashion)](/setts/s8/r2k1r12k2r3k26g14ra2~g484800-k000000-r9c0030-rafc3000~x4/)|
+|![Booth (Fashion) example sett](/setts/s8/r2k1r12k2r3k26g14ra2~g484800-k000000-r9c0030-rafc3000~x4/sett.png)|

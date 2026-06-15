@@ -6,7 +6,7 @@ KYKYKYK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k6y36k24y36k4y4k6-k101010-ydc943c/tartan.png)
+![Woven sample](/setts/s7/k3y18k12y18k2y2k3~k101010-ydc943c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKYKYK
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Check (Fashion)](/setts/s7/k6y36k24y36k4y4k6-k101010-ydc943c/)|
-|![Kinloch Anderson Check (Fashion) example sett](/setts/s7/k6y36k24y36k4y4k6-k101010-ydc943c/sett.png)|
+| [Kinloch Anderson Check (Fashion)](/setts/s7/k3y18k12y18k2y2k3~k101010-ydc943c~x2/)|
+|![Kinloch Anderson Check (Fashion) example sett](/setts/s7/k3y18k12y18k2y2k3~k101010-ydc943c~x2/sett.png)|

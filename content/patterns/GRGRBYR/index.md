@@ -6,7 +6,7 @@ GRGRBYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g64r14g14r32b64y6r16-b304080-g008000-r806050-yf0c000/tartan.png)
+![Woven sample](/setts/s7/g32r7g7r16b32y3r8~b304080-g008000-r806050-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRBYR
 
 | Tartans |
 |---------------|
-| [Strange Of Balcaskie](/setts/s7/g64r14g14r32b64y6r16-b304080-g008000-r806050-yf0c000/)|
-|![Strange Of Balcaskie example sett](/setts/s7/g64r14g14r32b64y6r16-b304080-g008000-r806050-yf0c000/sett.png)|
+| [Strange Of Balcaskie](/setts/s7/g32r7g7r16b32y3r8~b304080-g008000-r806050-yf0c000~x2/)|
+|![Strange Of Balcaskie example sett](/setts/s7/g32r7g7r16b32y3r8~b304080-g008000-r806050-yf0c000~x2/sett.png)|

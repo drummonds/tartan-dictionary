@@ -16,5 +16,5 @@ GBRBKYBGRGBYKBRBGK
 
 | Tartans |
 |---------------|
-| [Norwich No.038](/setts/s18/g28b4r6b4k32y4b32g32r6g32b32y4k32b4r6b4g28k12-b5c8ca8-g006818-k101010-rc80000-ye8c000/)|
-|![Norwich No.038 example sett](/setts/s18/g28b4r6b4k32y4b32g32r6g32b32y4k32b4r6b4g28k12-b5c8ca8-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Norwich No.038](/setts/s18/g14b2r3b2k16y2b16g16r3g16b16y2k16b2r3b2g14k6~b5c8ca8-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Norwich No.038 example sett](/setts/s18/g14b2r3b2k16y2b16g16r3g16b16y2k16b2r3b2g14k6~b5c8ca8-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

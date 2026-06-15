@@ -16,5 +16,5 @@ GWGKGKGKGR
 
 | Tartans |
 |---------------|
-| [Zorra Caledonian Society](/setts/s10/g6w4g78k6ga6k6g6k40ga20r4-g284942-ga548b54-k101010-rc82536-wffffff/)|
-|![Zorra Caledonian Society example sett](/setts/s10/g6w4g78k6ga6k6g6k40ga20r4-g284942-ga548b54-k101010-rc82536-wffffff/sett.png)|
+| [Zorra Caledonian Society](/setts/s10/g3w2g39k3ga3k3g3k20ga10r2~g284942-ga548b54-k101010-rc82536-wffffff~x2/)|
+|![Zorra Caledonian Society example sett](/setts/s10/g3w2g39k3ga3k3g3k20ga10r2~g284942-ga548b54-k101010-rc82536-wffffff~x2/sett.png)|

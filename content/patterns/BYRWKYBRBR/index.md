@@ -16,5 +16,5 @@ BYRWKYBRBR
 
 | Tartans |
 |---------------|
-| [Commonwealth](/setts/s10/b24y8r24w12k8y24b40r8b12r8-b14283c-k101010-rc80000-wc0c0c0-ya08858/)|
-|![Commonwealth example sett](/setts/s10/b24y8r24w12k8y24b40r8b12r8-b14283c-k101010-rc80000-wc0c0c0-ya08858/sett.png)|
+| [Commonwealth](/setts/s10/b6y2r6w3k2y6b10r2b3r2~b14283c-k101010-rc80000-wc0c0c0-ya08858~x4/)|
+|![Commonwealth example sett](/setts/s10/b6y2r6w3k2y6b10r2b3r2~b14283c-k101010-rc80000-wc0c0c0-ya08858~x4/sett.png)|

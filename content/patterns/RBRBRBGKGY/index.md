@@ -16,5 +16,5 @@ RBRBRBGKGY
 
 | Tartans |
 |---------------|
-| [MacGaugh (Name)](/setts/s10/r20b4r12b4r20b16g12k12g12y8-b1c0070-g006818-k101010-r800030-yd09800/)|
-|![MacGaugh (Name) example sett](/setts/s10/r20b4r12b4r20b16g12k12g12y8-b1c0070-g006818-k101010-r800030-yd09800/sett.png)|
+| [MacGaugh (Name)](/setts/s10/r5b1r3b1r5b4g3k3g3y2~b1c0070-g006818-k101010-r800030-yd09800~x4/)|
+|![MacGaugh (Name) example sett](/setts/s10/r5b1r3b1r5b4g3k3g3y2~b1c0070-g006818-k101010-r800030-yd09800~x4/sett.png)|

@@ -16,5 +16,5 @@ BRGRGRWRG
 
 | Tartans |
 |---------------|
-| [Redwood Dress](/setts/s9/g12r4w20r4g8r4g4r36b8-b4c3428-g285800-r880000-wece8cc/)|
-|![Redwood Dress example sett](/setts/s9/g12r4w20r4g8r4g4r36b8-b4c3428-g285800-r880000-wece8cc/sett.png)|
+| [Redwood Dress](/setts/s9/g3r1w5r1g2r1g1r9b2~b4c3428-g285800-r880000-wece8cc~x4/)|
+|![Redwood Dress example sett](/setts/s9/g3r1w5r1g2r1g1r9b2~b4c3428-g285800-r880000-wece8cc~x4/sett.png)|

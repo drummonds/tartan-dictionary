@@ -16,5 +16,5 @@ BBBBWBBKBR
 
 | Tartans |
 |---------------|
-| [Kervegant (Personal)](/setts/s10/b120ba24bb2ba4w2ba24b10k2b4r4-b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0/)|
-|![Kervegant (Personal) example sett](/setts/s10/b120ba24bb2ba4w2ba24b10k2b4r4-b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0/sett.png)|
+| [Kervegant (Personal)](/setts/s10/b60ba12bb1ba2w1ba12b5k1b2r2~b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0~x2/)|
+|![Kervegant (Personal) example sett](/setts/s10/b60ba12bb1ba2w1ba12b5k1b2r2~b5c5c5c-ba1c1c50-bb5c8ca8-k101010-rc80000-we0e0e0~x2/sett.png)|

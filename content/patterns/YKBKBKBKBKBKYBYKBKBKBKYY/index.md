@@ -16,5 +16,5 @@ YKBKBKBKBKBKYBYKBKBKBKYY
 
 | Tartans |
 |---------------|
-| [Allied Facenna](/setts/s24/y34k34b6k6b6k6b38k6b6k6b6k34y34ba6y34k34b34k6b6k6b34k34y34ya6-b00009c-ba5b90f6-k000033-y759b84-yafbec5d/)|
-|![Allied Facenna example sett](/setts/s24/y34k34b6k6b6k6b38k6b6k6b6k34y34ba6y34k34b34k6b6k6b34k34y34ya6-b00009c-ba5b90f6-k000033-y759b84-yafbec5d/sett.png)|
+| [Allied Facenna](/setts/s24/y17k17b3k3b3k3b19k3b3k3b3k17y17ba3y17k17b17k3b3k3b17k17y17ya3~b00009c-ba5b90f6-k000033-y759b84-yafbec5d~x2/)|
+|![Allied Facenna example sett](/setts/s24/y17k17b3k3b3k3b19k3b3k3b3k17y17ba3y17k17b17k3b3k3b17k17y17ya3~b00009c-ba5b90f6-k000033-y759b84-yafbec5d~x2/sett.png)|

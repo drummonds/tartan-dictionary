@@ -16,5 +16,5 @@ BRBWBGBGWGWGWGW
 
 | Tartans |
 |---------------|
-| [Black and White Colourway](/setts/s15/w40g6w40g6w18g24w6g30b6g12b38w6b10r8b38-b2c2c80-g604000-rc80000-wfcfcfc/)|
-|![Black and White Colourway example sett](/setts/s15/w40g6w40g6w18g24w6g30b6g12b38w6b10r8b38-b2c2c80-g604000-rc80000-wfcfcfc/sett.png)|
+| [Black and White Colourway](/setts/s15/w20g3w20g3w9g12w3g15b3g6b19w3b5r4b19~b2c2c80-g604000-rc80000-wfcfcfc~x2/)|
+|![Black and White Colourway example sett](/setts/s15/w20g3w20g3w9g12w3g15b3g6b19w3b5r4b19~b2c2c80-g604000-rc80000-wfcfcfc~x2/sett.png)|

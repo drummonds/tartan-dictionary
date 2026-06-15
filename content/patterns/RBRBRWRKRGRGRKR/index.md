@@ -16,5 +16,5 @@ RBRBRWRKRGRGRKR
 
 | Tartans |
 |---------------|
-| [Drummond C](/setts/s15/r6b2r2b2r12w2r2k4r2g2r2g12r2k2r6-b000064-g004c00-k000000-rc80000-wd0d0d0/)|
-|![Drummond C example sett](/setts/s15/r6b2r2b2r12w2r2k4r2g2r2g12r2k2r6-b000064-g004c00-k000000-rc80000-wd0d0d0/sett.png)|
+| [Drummond C](/setts/s15/r3b1r1b1r6w1r1k2r1g1r1g6r1k1r3~b000064-g004c00-k000000-rc80000-wd0d0d0~x2/)|
+|![Drummond C example sett](/setts/s15/r3b1r1b1r6w1r1k2r1g1r1g6r1k1r3~b000064-g004c00-k000000-rc80000-wd0d0d0~x2/sett.png)|

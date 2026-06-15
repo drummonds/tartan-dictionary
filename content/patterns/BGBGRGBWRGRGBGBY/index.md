@@ -16,5 +16,5 @@ BGBGRGBWRGRGBGBY
 
 | Tartans |
 |---------------|
-| [Wallenberg, Nicolas (Personal)](/setts/s16/b8g4ba24g8r2g56b6w6r6g96r2g8ba24g4b8y4-b0000cd-ba780078-g285800-rff0000-wffffff-yffe600/)|
-|![Wallenberg, Nicolas (Personal) example sett](/setts/s16/b8g4ba24g8r2g56b6w6r6g96r2g8ba24g4b8y4-b0000cd-ba780078-g285800-rff0000-wffffff-yffe600/sett.png)|
+| [Wallenberg, Nicolas (Personal)](/setts/s16/b4g2ba12g4r1g28b3w3r3g48r1g4ba12g2b4y2~b0000cd-ba780078-g285800-rff0000-wffffff-yffe600~x2/)|
+|![Wallenberg, Nicolas (Personal) example sett](/setts/s16/b4g2ba12g4r1g28b3w3r3g48r1g4ba12g2b4y2~b0000cd-ba780078-g285800-rff0000-wffffff-yffe600~x2/sett.png)|

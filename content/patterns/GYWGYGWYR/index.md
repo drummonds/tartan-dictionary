@@ -16,5 +16,5 @@ GYWGYGWYR
 
 | Tartans |
 |---------------|
-| [Toorak Chapler (Fashion)](/setts/s9/g18y6w6g6y6g18w18ya36r6-g604000-r880000-wc0c0c0-ya08858-yac4bc68/)|
-|![Toorak Chapler (Fashion) example sett](/setts/s9/g18y6w6g6y6g18w18ya36r6-g604000-r880000-wc0c0c0-ya08858-yac4bc68/sett.png)|
+| [Toorak Chapler (Fashion)](/setts/s9/g3y1w1g1y1g3w3ya6r1~g604000-r880000-wc0c0c0-ya08858-yac4bc68~x6/)|
+|![Toorak Chapler (Fashion) example sett](/setts/s9/g3y1w1g1y1g3w3ya6r1~g604000-r880000-wc0c0c0-ya08858-yac4bc68~x6/sett.png)|

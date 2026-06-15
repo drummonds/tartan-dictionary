@@ -16,5 +16,5 @@ GGBGBWGYW
 
 | Tartans |
 |---------------|
-| [Boucherville (Tartan de..), dress](/setts/s9/w40y4g10w8b4g4b4g4ga1-b4000ff-g808080-ga008000-we0e0e0-yf0c000/)|
-|![Boucherville (Tartan de..), dress example sett](/setts/s9/w40y4g10w8b4g4b4g4ga1-b4000ff-g808080-ga008000-we0e0e0-yf0c000/sett.png)|
+| [Boucherville (Tartan de..), dress](/setts/s9/w40y4g10w8b4g4b4g4ga1~b4000ff-g808080-ga008000-we0e0e0-yf0c000/)|
+|![Boucherville (Tartan de..), dress example sett](/setts/s9/w40y4g10w8b4g4b4g4ga1~b4000ff-g808080-ga008000-we0e0e0-yf0c000/sett.png)|

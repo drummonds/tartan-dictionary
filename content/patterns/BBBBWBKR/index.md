@@ -6,7 +6,7 @@ BBBBWBKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b6ba6b6ba54w2bb30k44r6-b5a008c-ba505050-bb067396-k101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b3ba3b3ba27w1bb15k22r3~b5a008c-ba505050-bb067396-k101010-rdc0000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBWBKR
 
 | Tartans |
 |---------------|
-| [Beauly Firth and Glens](/setts/s8/b6ba6b6ba54w2bb30k44r6-b5a008c-ba505050-bb067396-k101010-rdc0000-we0e0e0/)|
-|![Beauly Firth and Glens example sett](/setts/s8/b6ba6b6ba54w2bb30k44r6-b5a008c-ba505050-bb067396-k101010-rdc0000-we0e0e0/sett.png)|
+| [Beauly Firth and Glens](/setts/s8/b3ba3b3ba27w1bb15k22r3~b5a008c-ba505050-bb067396-k101010-rdc0000-we0e0e0~x2/)|
+|![Beauly Firth and Glens example sett](/setts/s8/b3ba3b3ba27w1bb15k22r3~b5a008c-ba505050-bb067396-k101010-rdc0000-we0e0e0~x2/sett.png)|

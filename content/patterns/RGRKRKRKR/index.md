@@ -16,5 +16,5 @@ RGRKRKRKR
 
 | Tartans |
 |---------------|
-| [Knockando Woolmill](/setts/s9/r32k2ra14k2ra14k2r14g48rb8-g565239-k101010-r8a8aa6-ra953833-rbab7549/)|
-|![Knockando Woolmill example sett](/setts/s9/r32k2ra14k2ra14k2r14g48rb8-g565239-k101010-r8a8aa6-ra953833-rbab7549/sett.png)|
+| [Knockando Woolmill](/setts/s9/r16k1ra7k1ra7k1r7g24rb4~g565239-k101010-r8a8aa6-ra953833-rbab7549~x2/)|
+|![Knockando Woolmill example sett](/setts/s9/r16k1ra7k1ra7k1r7g24rb4~g565239-k101010-r8a8aa6-ra953833-rbab7549~x2/sett.png)|

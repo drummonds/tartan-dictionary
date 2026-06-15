@@ -6,7 +6,7 @@ GBRBBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g4b2r58ba58b2y4-b00546c-ba206898-g589c5c-r800028-yd09c34/tartan.png)
+![Woven sample](/setts/s6/g2b1r29ba29b1y2~b00546c-ba206898-g589c5c-r800028-yd09c34~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRBBY
 
 | Tartans |
 |---------------|
-| [Reagan](/setts/s6/g4b2r58ba58b2y4-b00546c-ba206898-g589c5c-r800028-yd09c34/)|
-|![Reagan example sett](/setts/s6/g4b2r58ba58b2y4-b00546c-ba206898-g589c5c-r800028-yd09c34/sett.png)|
+| [Reagan](/setts/s6/g2b1r29ba29b1y2~b00546c-ba206898-g589c5c-r800028-yd09c34~x2/)|
+|![Reagan example sett](/setts/s6/g2b1r29ba29b1y2~b00546c-ba206898-g589c5c-r800028-yd09c34~x2/sett.png)|

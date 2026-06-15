@@ -16,5 +16,5 @@ BRBGBGBRBGWG
 
 | Tartans |
 |---------------|
-| [Love Htg (Personal)](/setts/s12/b64r6b64g64ba6g64b64r6b64g64w6g64-b202060-ba780078-g285800-rc80000-we0e0e0/)|
-|![Love Htg (Personal) example sett](/setts/s12/b64r6b64g64ba6g64b64r6b64g64w6g64-b202060-ba780078-g285800-rc80000-we0e0e0/sett.png)|
+| [Love Htg (Personal)](/setts/s12/b32r3b32g32ba3g32b32r3b32g32w3g32~b202060-ba780078-g285800-rc80000-we0e0e0~x2/)|
+|![Love Htg (Personal) example sett](/setts/s12/b32r3b32g32ba3g32b32r3b32g32w3g32~b202060-ba780078-g285800-rc80000-we0e0e0~x2/sett.png)|

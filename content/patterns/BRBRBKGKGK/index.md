@@ -16,5 +16,5 @@ BRBRBKGKGK
 
 | Tartans |
 |---------------|
-| [Park](/setts/s10/b124r2b4r2b8k28g8k4g12k8-b304080-g008000-k000000-rc00000/)|
-|![Park example sett](/setts/s10/b124r2b4r2b8k28g8k4g12k8-b304080-g008000-k000000-rc00000/sett.png)|
+| [Park](/setts/s10/b62r1b2r1b4k14g4k2g6k4~b304080-g008000-k000000-rc00000~x2/)|
+|![Park example sett](/setts/s10/b62r1b2r1b4k14g4k2g6k4~b304080-g008000-k000000-rc00000~x2/sett.png)|

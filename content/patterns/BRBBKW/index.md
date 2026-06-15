@@ -6,7 +6,7 @@ BRBBKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b16r4ba20b16k24w4-b780078-ba1474b4-k101010-rc80000-wa8ace8/tartan.png)
+![Woven sample](/setts/s6/b4r1ba5b4k6w1~b780078-ba1474b4-k101010-rc80000-wa8ace8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBBKW
 
 | Tartans |
 |---------------|
-| [Benreay Medical Centre (Corporate)](/setts/s6/b16r4ba20b16k24w4-b780078-ba1474b4-k101010-rc80000-wa8ace8/)|
-|![Benreay Medical Centre (Corporate) example sett](/setts/s6/b16r4ba20b16k24w4-b780078-ba1474b4-k101010-rc80000-wa8ace8/sett.png)|
+| [Benreay Medical Centre (Corporate)](/setts/s6/b4r1ba5b4k6w1~b780078-ba1474b4-k101010-rc80000-wa8ace8~x4/)|
+|![Benreay Medical Centre (Corporate) example sett](/setts/s6/b4r1ba5b4k6w1~b780078-ba1474b4-k101010-rc80000-wa8ace8~x4/sett.png)|

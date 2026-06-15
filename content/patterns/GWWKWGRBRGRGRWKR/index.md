@@ -16,5 +16,5 @@ GWWKWGRBRGRGRWKR
 
 | Tartans |
 |---------------|
-| [Stewart of Appin Dress](/setts/s16/r6k4w4r4g40r6g4r4b14r4g4wa46k4w4wa4g4-b28003c-g004028-k000000-rc80000-w00fcfc-wafcfcfc/)|
-|![Stewart of Appin Dress example sett](/setts/s16/r6k4w4r4g40r6g4r4b14r4g4wa46k4w4wa4g4-b28003c-g004028-k000000-rc80000-w00fcfc-wafcfcfc/sett.png)|
+| [Stewart of Appin Dress](/setts/s16/r3k2w2r2g20r3g2r2b7r2g2wa23k2w2wa2g2~b28003c-g004028-k000000-rc80000-w00fcfc-wafcfcfc~x2/)|
+|![Stewart of Appin Dress example sett](/setts/s16/r3k2w2r2g20r3g2r2b7r2g2wa23k2w2wa2g2~b28003c-g004028-k000000-rc80000-w00fcfc-wafcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ RBRBRBRBRBR
 
 | Tartans |
 |---------------|
-| [Bennet](/setts/s11/r128b36r4b6r4b6r28ba16r4ba8r4-b202060-ba2888c4-ra00048/)|
-|![Bennet example sett](/setts/s11/r128b36r4b6r4b6r28ba16r4ba8r4-b202060-ba2888c4-ra00048/sett.png)|
+| [Bennet](/setts/s11/r64b18r2b3r2b3r14ba8r2ba4r2~b202060-ba2888c4-ra00048~x2/)|
+|![Bennet example sett](/setts/s11/r64b18r2b3r2b3r14ba8r2ba4r2~b202060-ba2888c4-ra00048~x2/sett.png)|

@@ -16,5 +16,5 @@ BWBWRBBKBBRKYK
 
 | Tartans |
 |---------------|
-| [Scottish Wildcat](/setts/s14/b20w2ba2w4r20b16ba4k34ba4b14r38k6y2k2-b501400-ba441800-k101010-r888888-wfcfcfc-ye8c000/)|
-|![Scottish Wildcat example sett](/setts/s14/b20w2ba2w4r20b16ba4k34ba4b14r38k6y2k2-b501400-ba441800-k101010-r888888-wfcfcfc-ye8c000/sett.png)|
+| [Scottish Wildcat](/setts/s14/b10w1ba1w2r10b8ba2k17ba2b7r19k3y1k1~b501400-ba441800-k101010-r888888-wfcfcfc-ye8c000~x2/)|
+|![Scottish Wildcat example sett](/setts/s14/b10w1ba1w2r10b8ba2k17ba2b7r19k3y1k1~b501400-ba441800-k101010-r888888-wfcfcfc-ye8c000~x2/sett.png)|

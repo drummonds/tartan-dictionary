@@ -16,5 +16,5 @@ KRKBKGKYR
 
 | Tartans |
 |---------------|
-| [State Seal of Alabama (Fashion)](/setts/s9/r120y8k44g10k50b16k8r8k8-b2888c4-g006818-k101010-rc80000-ybc8c00/)|
-|![State Seal of Alabama (Fashion) example sett](/setts/s9/r120y8k44g10k50b16k8r8k8-b2888c4-g006818-k101010-rc80000-ybc8c00/sett.png)|
+| [State Seal of Alabama (Fashion)](/setts/s9/r60y4k22g5k25b8k4r4k4~b2888c4-g006818-k101010-rc80000-ybc8c00~x2/)|
+|![State Seal of Alabama (Fashion) example sett](/setts/s9/r60y4k22g5k25b8k4r4k4~b2888c4-g006818-k101010-rc80000-ybc8c00~x2/sett.png)|

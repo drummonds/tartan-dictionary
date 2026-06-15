@@ -6,7 +6,7 @@ BYBRBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b120y12b22r50b22y12-b2c2c80-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/b60y6b11r25b11y6~b2c2c80-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBRBY
 
 | Tartans |
 |---------------|
-| [South Australian Pipes & Drums (Corp](/setts/s6/b120y12b22r50b22y12-b2c2c80-rc80000-ye8c000/)|
-|![South Australian Pipes & Drums (Corp example sett](/setts/s6/b120y12b22r50b22y12-b2c2c80-rc80000-ye8c000/sett.png)|
+| [South Australian Pipes & Drums (Corp](/setts/s6/b60y6b11r25b11y6~b2c2c80-rc80000-ye8c000~x2/)|
+|![South Australian Pipes & Drums (Corp example sett](/setts/s6/b60y6b11r25b11y6~b2c2c80-rc80000-ye8c000~x2/sett.png)|

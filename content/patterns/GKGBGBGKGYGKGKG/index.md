@@ -16,5 +16,5 @@ GKGBGBGKGYGKGKG
 
 | Tartans |
 |---------------|
-| [Glen Grant Distillery](/setts/s15/g4k4g4b40g4b4g4k16g4y4g40k4g4k4g4-b003478-g50783c-k000000-ydcc000/)|
-|![Glen Grant Distillery example sett](/setts/s15/g4k4g4b40g4b4g4k16g4y4g40k4g4k4g4-b003478-g50783c-k000000-ydcc000/sett.png)|
+| [Glen Grant Distillery](/setts/s15/g1k1g1b10g1b1g1k4g1y1g10k1g1k1g1~b003478-g50783c-k000000-ydcc000~x4/)|
+|![Glen Grant Distillery example sett](/setts/s15/g1k1g1b10g1b1g1k4g1y1g10k1g1k1g1~b003478-g50783c-k000000-ydcc000~x4/sett.png)|

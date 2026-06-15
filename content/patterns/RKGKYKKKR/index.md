@@ -16,5 +16,5 @@ RKGKYKKKR
 
 | Tartans |
 |---------------|
-| [Strachan](/setts/s9/r4k6ka80k6y4k6g40k6r4-g004010-k000000-ka000030-rc00000-yf0c000/)|
-|![Strachan example sett](/setts/s9/r4k6ka80k6y4k6g40k6r4-g004010-k000000-ka000030-rc00000-yf0c000/sett.png)|
+| [Strachan](/setts/s9/r2k3ka40k3y2k3g20k3r2~g004010-k000000-ka000030-rc00000-yf0c000~x2/)|
+|![Strachan example sett](/setts/s9/r2k3ka40k3y2k3g20k3r2~g004010-k000000-ka000030-rc00000-yf0c000~x2/sett.png)|

@@ -16,5 +16,5 @@ GGBRWBWRW
 
 | Tartans |
 |---------------|
-| [MacNiven](/setts/s9/g36ga4b10r90w6b36w6r16wa4-b1c0070-g006818-ga289c18-r880000-wa8ace8-wac0c0c0/)|
-|![MacNiven example sett](/setts/s9/g36ga4b10r90w6b36w6r16wa4-b1c0070-g006818-ga289c18-r880000-wa8ace8-wac0c0c0/sett.png)|
+| [MacNiven](/setts/s9/g18ga2b5r45w3b18w3r8wa2~b1c0070-g006818-ga289c18-r880000-wa8ace8-wac0c0c0~x2/)|
+|![MacNiven example sett](/setts/s9/g18ga2b5r45w3b18w3r8wa2~b1c0070-g006818-ga289c18-r880000-wa8ace8-wac0c0c0~x2/sett.png)|

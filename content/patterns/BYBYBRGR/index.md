@@ -6,7 +6,7 @@ BYBYBRGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b44y4b2y4b20r4g22r12-b304080-g008000-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s8/b22y2b1y2b10r2g11r6~b304080-g008000-rc00000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYBYBRGR
 
 | Tartans |
 |---------------|
-| [Katsushika Scottish Country Dancers](/setts/s8/b44y4b2y4b20r4g22r12-b304080-g008000-rc00000-yf0c000/)|
-|![Katsushika Scottish Country Dancers example sett](/setts/s8/b44y4b2y4b20r4g22r12-b304080-g008000-rc00000-yf0c000/sett.png)|
-| [Katsushika Corporate Tartan Tartan Number: 2343. Earliest known date: 1997 Designed for Katsushika Scottish country dancers from Hiroshima. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b44y4b2y4b20r4g22r12-b2c2c80-g006818-rc80000-ye8c000/)|
-|![Katsushika Corporate Tartan Tartan Number: 2343. Earliest known date: 1997 Designed for Katsushika Scottish country dancers from Hiroshima. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b44y4b2y4b20r4g22r12-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Katsushika Scottish Country Dancers](/setts/s8/b22y2b1y2b10r2g11r6~b304080-g008000-rc00000-yf0c000~x2/)|
+|![Katsushika Scottish Country Dancers example sett](/setts/s8/b22y2b1y2b10r2g11r6~b304080-g008000-rc00000-yf0c000~x2/sett.png)|
+| [Katsushika Corporate Tartan Tartan Number: 2343. Earliest known date: 1997 Designed for Katsushika Scottish country dancers from Hiroshima. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b22y2b1y2b10r2g11r6~b2c2c80-g006818-rc80000-ye8c000~x2/)|
+|![Katsushika Corporate Tartan Tartan Number: 2343. Earliest known date: 1997 Designed for Katsushika Scottish country dancers from Hiroshima. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/b22y2b1y2b10r2g11r6~b2c2c80-g006818-rc80000-ye8c000~x2/sett.png)|

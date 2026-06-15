@@ -16,5 +16,5 @@ WRWKGWBWGWRWGGYRWRYGGGGWBWKWRW
 
 | Tartans |
 |---------------|
-| [Hunter (Wilsons)](/setts/s30/w4r16w4k30g8w4b10w4ga40w4r64w4ga40g6y6r4w4r4y6g6ga40g4ga40w4b10w4k30w4r16w4-b5c8ca8-g289c18-ga006818-k101010-rc8002c-we0e0e0-ye8c000/)|
-|![Hunter (Wilsons) example sett](/setts/s30/w4r16w4k30g8w4b10w4ga40w4r64w4ga40g6y6r4w4r4y6g6ga40g4ga40w4b10w4k30w4r16w4-b5c8ca8-g289c18-ga006818-k101010-rc8002c-we0e0e0-ye8c000/sett.png)|
+| [Hunter (Wilsons)](/setts/s30/w2r8w2k15g4w2b5w2ga20w2r32w2ga20g3y3r2w2r2y3g3ga20g2ga20w2b5w2k15w2r8w2~b5c8ca8-g289c18-ga006818-k101010-rc8002c-we0e0e0-ye8c000~x2/)|
+|![Hunter (Wilsons) example sett](/setts/s30/w2r8w2k15g4w2b5w2ga20w2r32w2ga20g3y3r2w2r2y3g3ga20g2ga20w2b5w2k15w2r8w2~b5c8ca8-g289c18-ga006818-k101010-rc8002c-we0e0e0-ye8c000~x2/sett.png)|

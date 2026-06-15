@@ -16,5 +16,5 @@ GKGRGKGWKBKYKBKWKRK
 
 | Tartans |
 |---------------|
-| [Melnyk-Jones (Personal)](/setts/s19/g10k10g10r24g6k30g6w2k4b14k4y20k4b14k4w2k6r30k6-b385460-g4c5420-k101010-r880000-we0e0e0-ybc8c00/)|
-|![Melnyk-Jones (Personal) example sett](/setts/s19/g10k10g10r24g6k30g6w2k4b14k4y20k4b14k4w2k6r30k6-b385460-g4c5420-k101010-r880000-we0e0e0-ybc8c00/sett.png)|
+| [Melnyk-Jones (Personal)](/setts/s19/g5k5g5r12g3k15g3w1k2b7k2y10k2b7k2w1k3r15k3~b385460-g4c5420-k101010-r880000-we0e0e0-ybc8c00~x2/)|
+|![Melnyk-Jones (Personal) example sett](/setts/s19/g5k5g5r12g3k15g3w1k2b7k2y10k2b7k2w1k3r15k3~b385460-g4c5420-k101010-r880000-we0e0e0-ybc8c00~x2/sett.png)|

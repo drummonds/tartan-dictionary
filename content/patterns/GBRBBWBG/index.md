@@ -6,7 +6,7 @@ GBRBBWBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g48b4w4b4ba16r2b48g8-b4c0000-ba14283c-g006818-rc04c08-wfcfcfc/tartan.png)
+![Woven sample](/setts/s8/g24b2w2b2ba8r1b24g4~b4c0000-ba14283c-g006818-rc04c08-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRBBWBG
 
 | Tartans |
 |---------------|
-| [Wellmont Golf Tournament](/setts/s8/g48b4w4b4ba16r2b48g8-b4c0000-ba14283c-g006818-rc04c08-wfcfcfc/)|
-|![Wellmont Golf Tournament example sett](/setts/s8/g48b4w4b4ba16r2b48g8-b4c0000-ba14283c-g006818-rc04c08-wfcfcfc/sett.png)|
+| [Wellmont Golf Tournament](/setts/s8/g24b2w2b2ba8r1b24g4~b4c0000-ba14283c-g006818-rc04c08-wfcfcfc~x2/)|
+|![Wellmont Golf Tournament example sett](/setts/s8/g24b2w2b2ba8r1b24g4~b4c0000-ba14283c-g006818-rc04c08-wfcfcfc~x2/sett.png)|

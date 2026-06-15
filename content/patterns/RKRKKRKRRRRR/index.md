@@ -16,5 +16,5 @@ RKRKKRKRRRRR
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson Limited](/setts/s12/r8ra28rb4ra8rb4k12ra6k12ka28r4ka8r8-k000000-ka000030-rc00000-ra806050-rbf07040/)|
-|![Kinloch Anderson Limited example sett](/setts/s12/r8ra28rb4ra8rb4k12ra6k12ka28r4ka8r8-k000000-ka000030-rc00000-ra806050-rbf07040/sett.png)|
+| [Kinloch Anderson Limited](/setts/s12/r4ra14rb2ra4rb2k6ra3k6ka14r2ka4r4~k000000-ka000030-rc00000-ra806050-rbf07040~x2/)|
+|![Kinloch Anderson Limited example sett](/setts/s12/r4ra14rb2ra4rb2k6ra3k6ka14r2ka4r4~k000000-ka000030-rc00000-ra806050-rbf07040~x2/sett.png)|

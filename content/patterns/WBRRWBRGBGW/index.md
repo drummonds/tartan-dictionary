@@ -16,5 +16,5 @@ WBRRWBRGBGW
 
 | Tartans |
 |---------------|
-| [Glen Ross (WCWM - 1)](/setts/s11/w84b16r4ra4w4b4ra16g12b4g4w4-b606060-g787878-rec3800-ra888888-wc4c4c4/)|
-|![Glen Ross (WCWM - 1) example sett](/setts/s11/w84b16r4ra4w4b4ra16g12b4g4w4-b606060-g787878-rec3800-ra888888-wc4c4c4/sett.png)|
+| [Glen Ross (WCWM - 1)](/setts/s11/w21b4r1ra1w1b1ra4g3b1g1w1~b606060-g787878-rec3800-ra888888-wc4c4c4~x4/)|
+|![Glen Ross (WCWM - 1) example sett](/setts/s11/w21b4r1ra1w1b1ra4g3b1g1w1~b606060-g787878-rec3800-ra888888-wc4c4c4~x4/sett.png)|

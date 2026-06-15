@@ -16,5 +16,5 @@ GRKRGRKRGRK
 
 | Tartans |
 |---------------|
-| [Unnamed C19th - Portrait by Ansdell](/setts/s11/g44r6k20r6g48r4k8r4g48r4k8-g285800-k101010-r880000/)|
-|![Unnamed C19th - Portrait by Ansdell example sett](/setts/s11/g44r6k20r6g48r4k8r4g48r4k8-g285800-k101010-r880000/sett.png)|
+| [Unnamed C19th - Portrait by Ansdell](/setts/s11/g22r3k10r3g24r2k4r2g24r2k4~g285800-k101010-r880000~x2/)|
+|![Unnamed C19th - Portrait by Ansdell example sett](/setts/s11/g22r3k10r3g24r2k4r2g24r2k4~g285800-k101010-r880000~x2/sett.png)|

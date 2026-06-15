@@ -16,5 +16,5 @@ GBGKGKGKGKK
 
 | Tartans |
 |---------------|
-| [South Australia (Disputed)](/setts/s11/g12b48g4k24g16k24g6k16g6k16k6-b1474b4-g006818-k101010/)|
-|![South Australia (Disputed) example sett](/setts/s11/g12b48g4k24g16k24g6k16g6k16k6-b1474b4-g006818-k101010/sett.png)|
+| [South Australia (Disputed)](/setts/s11/g6b24g2k12g8k12g3k8g3k8k3~b1474b4-g006818-k101010~x2/)|
+|![South Australia (Disputed) example sett](/setts/s11/g6b24g2k12g8k12g3k8g3k8k3~b1474b4-g006818-k101010~x2/sett.png)|

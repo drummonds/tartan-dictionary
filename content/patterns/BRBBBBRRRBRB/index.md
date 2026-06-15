@@ -16,5 +16,5 @@ BRBBBBRRRBRB
 
 | Tartans |
 |---------------|
-| [Pride of Scotland, Silver (Fashion)](/setts/s12/b18r4b4ra4r36ra4b4b2b2b38ra66b4-b5c5c5c-r888888-rac80000/)|
-|![Pride of Scotland, Silver (Fashion) example sett](/setts/s12/b18r4b4ra4r36ra4b4b2b2b38ra66b4-b5c5c5c-r888888-rac80000/sett.png)|
+| [Pride of Scotland, Silver (Fashion)](/setts/s12/b9r2b2ra2r18ra2b2b1b1b19ra33b2~b5c5c5c-r888888-rac80000~x2/)|
+|![Pride of Scotland, Silver (Fashion) example sett](/setts/s12/b9r2b2ra2r18ra2b2b1b1b19ra33b2~b5c5c5c-r888888-rac80000~x2/sett.png)|

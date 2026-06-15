@@ -16,5 +16,5 @@ BRBYRBRYRBRBBBRBYRBRYRBRBR
 
 | Tartans |
 |---------------|
-| [Fontainbleu](/setts/s26/r132b16r8ba4r2y4r6ba8r8y2ba2r16ba4b16ba4r16ba4r2y4r6ba8r8y2ba2r8b16-b606060-ba1c1c1c-r70000c-ybc8c00/)|
-|![Fontainbleu example sett](/setts/s26/r132b16r8ba4r2y4r6ba8r8y2ba2r16ba4b16ba4r16ba4r2y4r6ba8r8y2ba2r8b16-b606060-ba1c1c1c-r70000c-ybc8c00/sett.png)|
+| [Fontainbleu](/setts/s26/r66b8r4ba2r1y2r3ba4r4y1ba1r8ba2b8ba2r8ba2r1y2r3ba4r4y1ba1r4b8~b606060-ba1c1c1c-r70000c-ybc8c00~x2/)|
+|![Fontainbleu example sett](/setts/s26/r66b8r4ba2r1y2r3ba4r4y1ba1r8ba2b8ba2r8ba2r1y2r3ba4r4y1ba1r4b8~b606060-ba1c1c1c-r70000c-ybc8c00~x2/sett.png)|

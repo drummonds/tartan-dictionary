@@ -16,5 +16,5 @@ WKWGBWBWRGRW
 
 | Tartans |
 |---------------|
-| [Grant of Achnarrow Error 1983](/setts/s12/w28k6w56g12b8w4b4w28r24g6r8w8-b1c0070-g00ac24-k101010-rc80000-wf0f0c8/)|
-|![Grant of Achnarrow Error 1983 example sett](/setts/s12/w28k6w56g12b8w4b4w28r24g6r8w8-b1c0070-g00ac24-k101010-rc80000-wf0f0c8/sett.png)|
+| [Grant of Achnarrow Error 1983](/setts/s12/w14k3w28g6b4w2b2w14r12g3r4w4~b1c0070-g00ac24-k101010-rc80000-wf0f0c8~x2/)|
+|![Grant of Achnarrow Error 1983 example sett](/setts/s12/w14k3w28g6b4w2b2w14r12g3r4w4~b1c0070-g00ac24-k101010-rc80000-wf0f0c8~x2/sett.png)|

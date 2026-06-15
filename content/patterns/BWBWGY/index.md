@@ -6,7 +6,7 @@ BWBWGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8w4b2w72g42y8-b506878-g006818-wf0e0c8-yfce888/tartan.png)
+![Woven sample](/setts/s6/b4w2b1w36g21y4~b506878-g006818-wf0e0c8-yfce888~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBWGY
 
 | Tartans |
 |---------------|
-| [Skye, Green (Dance)](/setts/s6/b8w4b2w72g42y8-b506878-g006818-wf0e0c8-yfce888/)|
-|![Skye, Green (Dance) example sett](/setts/s6/b8w4b2w72g42y8-b506878-g006818-wf0e0c8-yfce888/sett.png)|
+| [Skye, Green (Dance)](/setts/s6/b4w2b1w36g21y4~b506878-g006818-wf0e0c8-yfce888~x2/)|
+|![Skye, Green (Dance) example sett](/setts/s6/b4w2b1w36g21y4~b506878-g006818-wf0e0c8-yfce888~x2/sett.png)|

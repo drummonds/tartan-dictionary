@@ -16,5 +16,5 @@ KBKBKBKBR
 
 | Tartans |
 |---------------|
-| [USCBP - Office of Field Operations](/setts/s9/k12b6k6b66k32ba42k6ba6r8-b141e46-ba0000ff-k000000-rff0000/)|
-|![USCBP - Office of Field Operations example sett](/setts/s9/k12b6k6b66k32ba42k6ba6r8-b141e46-ba0000ff-k000000-rff0000/sett.png)|
+| [USCBP - Office of Field Operations](/setts/s9/k6b3k3b33k16ba21k3ba3r4~b141e46-ba0000ff-k000000-rff0000~x2/)|
+|![USCBP - Office of Field Operations example sett](/setts/s9/k6b3k3b33k16ba21k3ba3r4~b141e46-ba0000ff-k000000-rff0000~x2/sett.png)|

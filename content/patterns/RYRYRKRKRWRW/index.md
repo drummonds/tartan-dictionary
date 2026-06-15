@@ -16,5 +16,5 @@ RYRYRKRKRWRW
 
 | Tartans |
 |---------------|
-| [Manchester Reds](/setts/s12/r72y8r2y8r8k16r8k4r8w4r2w8-k101010-rff0000-wffffff-yffe600/)|
-|![Manchester Reds example sett](/setts/s12/r72y8r2y8r8k16r8k4r8w4r2w8-k101010-rff0000-wffffff-yffe600/sett.png)|
+| [Manchester Reds](/setts/s12/r36y4r1y4r4k8r4k2r4w2r1w4~k101010-rff0000-wffffff-yffe600~x2/)|
+|![Manchester Reds example sett](/setts/s12/r36y4r1y4r4k8r4k2r4w2r1w4~k101010-rff0000-wffffff-yffe600~x2/sett.png)|

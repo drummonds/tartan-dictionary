@@ -16,5 +16,5 @@ BKRYRKGYKBY
 
 | Tartans |
 |---------------|
-| [Faulkner (Personal)](/setts/s11/b16k4r52y2r12k6g20ya2k6b44ya2-b584458-g003820-k101010-r681014-yf09400-ya94a494/)|
-|![Faulkner (Personal) example sett](/setts/s11/b16k4r52y2r12k6g20ya2k6b44ya2-b584458-g003820-k101010-r681014-yf09400-ya94a494/sett.png)|
+| [Faulkner (Personal)](/setts/s11/b8k2r26y1r6k3g10ya1k3b22ya1~b584458-g003820-k101010-r681014-yf09400-ya94a494~x2/)|
+|![Faulkner (Personal) example sett](/setts/s11/b8k2r26y1r6k3g10ya1k3b22ya1~b584458-g003820-k101010-r681014-yf09400-ya94a494~x2/sett.png)|

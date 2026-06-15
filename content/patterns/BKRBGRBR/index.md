@@ -6,7 +6,7 @@ BKRBGRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s8/b57k1r12b1g12r14b1r2~b2c2c80-g006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRBGRBR
 
 | Tartans |
 |---------------|
-| [McBrayer Blue (Personal)](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/)|
-|![McBrayer Blue (Personal) example sett](/setts/s8/b114k2r24b2g24r28b2r4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [McBrayer Blue (Personal)](/setts/s8/b57k1r12b1g12r14b1r2~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![McBrayer Blue (Personal) example sett](/setts/s8/b57k1r12b1g12r14b1r2~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

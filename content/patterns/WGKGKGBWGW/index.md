@@ -16,5 +16,5 @@ WGKGKGBWGW
 
 | Tartans |
 |---------------|
-| [Elsa Dance](/setts/s10/w8g6w44b10ga6k3ga4k3ga34w4-b00008c-g006818-ga048888-k101010-wf8f4d0/)|
-|![Elsa Dance example sett](/setts/s10/w8g6w44b10ga6k3ga4k3ga34w4-b00008c-g006818-ga048888-k101010-wf8f4d0/sett.png)|
+| [Elsa Dance](/setts/s10/w8g6w44b10ga6k3ga4k3ga34w4~b00008c-g006818-ga048888-k101010-wf8f4d0/)|
+|![Elsa Dance example sett](/setts/s10/w8g6w44b10ga6k3ga4k3ga34w4~b00008c-g006818-ga048888-k101010-wf8f4d0/sett.png)|

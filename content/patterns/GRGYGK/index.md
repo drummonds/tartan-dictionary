@@ -6,7 +6,7 @@ GRGYGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g40r16g40y16ga40k10-g003820-ga006818-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/g20r8g20y8ga20k5~g003820-ga006818-k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGYGK
 
 | Tartans |
 |---------------|
-| [Cates Armigers (Personal)](/setts/s6/g40r16g40y16ga40k10-g003820-ga006818-k101010-rc80000-ye8c000/)|
-|![Cates Armigers (Personal) example sett](/setts/s6/g40r16g40y16ga40k10-g003820-ga006818-k101010-rc80000-ye8c000/sett.png)|
+| [Cates Armigers (Personal)](/setts/s6/g20r8g20y8ga20k5~g003820-ga006818-k101010-rc80000-ye8c000~x2/)|
+|![Cates Armigers (Personal) example sett](/setts/s6/g20r8g20y8ga20k5~g003820-ga006818-k101010-rc80000-ye8c000~x2/sett.png)|

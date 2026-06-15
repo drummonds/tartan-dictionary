@@ -6,7 +6,7 @@ KGKGKGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k78g6k6g6k28g56r6-g808080-k000000-rc00000/tartan.png)
+![Woven sample](/setts/s7/k39g3k3g3k14g28r3~g808080-k000000-rc00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKGKGR
 
 | Tartans |
 |---------------|
-| [Moffat](/setts/s7/k78g6k6g6k28g56r6-g808080-k000000-rc00000/)|
-|![Moffat example sett](/setts/s7/k78g6k6g6k28g56r6-g808080-k000000-rc00000/sett.png)|
+| [Moffat](/setts/s7/k39g3k3g3k14g28r3~g808080-k000000-rc00000~x2/)|
+|![Moffat example sett](/setts/s7/k39g3k3g3k14g28r3~g808080-k000000-rc00000~x2/sett.png)|

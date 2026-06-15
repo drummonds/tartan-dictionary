@@ -16,5 +16,5 @@ WBGBGBGRY
 
 | Tartans |
 |---------------|
-| [McLion](/setts/s9/w4b24g4b4g4b4ga16r20y4-b304080-g008000-ga30a010-r802040-we0e0e0-yff8500/)|
-|![McLion example sett](/setts/s9/w4b24g4b4g4b4ga16r20y4-b304080-g008000-ga30a010-r802040-we0e0e0-yff8500/sett.png)|
+| [McLion](/setts/s9/w1b6g1b1g1b1ga4r5y1~b304080-g008000-ga30a010-r802040-we0e0e0-yff8500~x4/)|
+|![McLion example sett](/setts/s9/w1b6g1b1g1b1ga4r5y1~b304080-g008000-ga30a010-r802040-we0e0e0-yff8500~x4/sett.png)|

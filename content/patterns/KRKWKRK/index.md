@@ -6,7 +6,7 @@ KRKWKRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k28r4k8w6k24r16k2-k101010-re87878-wc0c0c0/tartan.png)
+![Woven sample](/setts/s7/k14r2k4w3k12r8k1~k101010-re87878-wc0c0c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKWKRK
 
 | Tartans |
 |---------------|
-| [Punky Princess (Fashion)](/setts/s7/k28r4k8w6k24r16k2-k101010-re87878-wc0c0c0/)|
-|![Punky Princess (Fashion) example sett](/setts/s7/k28r4k8w6k24r16k2-k101010-re87878-wc0c0c0/sett.png)|
+| [Punky Princess (Fashion)](/setts/s7/k14r2k4w3k12r8k1~k101010-re87878-wc0c0c0~x2/)|
+|![Punky Princess (Fashion) example sett](/setts/s7/k14r2k4w3k12r8k1~k101010-re87878-wc0c0c0~x2/sett.png)|

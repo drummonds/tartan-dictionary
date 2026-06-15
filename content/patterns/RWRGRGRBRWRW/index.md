@@ -16,5 +16,5 @@ RWRGRGRBRWRW
 
 | Tartans |
 |---------------|
-| [1745 Trading (Corporate)](/setts/s12/r8w4r6g12r4g4r4b32r4wa4r64w4-b202060-g285800-rc80000-wfcfcfc-wa98c8e8/)|
-|![1745 Trading (Corporate) example sett](/setts/s12/r8w4r6g12r4g4r4b32r4wa4r64w4-b202060-g285800-rc80000-wfcfcfc-wa98c8e8/sett.png)|
+| [1745 Trading (Corporate)](/setts/s12/r4w2r3g6r2g2r2b16r2wa2r32w2~b202060-g285800-rc80000-wfcfcfc-wa98c8e8~x2/)|
+|![1745 Trading (Corporate) example sett](/setts/s12/r4w2r3g6r2g2r2b16r2wa2r32w2~b202060-g285800-rc80000-wfcfcfc-wa98c8e8~x2/sett.png)|

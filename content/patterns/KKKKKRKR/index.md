@@ -6,7 +6,7 @@ KKKKKRKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k10k4k4k24k32r40k4r8-k000000-r8c0000/tartan.png)
+![Woven sample](/setts/s8/k5k2k2k12k16r20k2r4~k000000-r8c0000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KKKKKRKR
 
 | Tartans |
 |---------------|
-| [Aitken (Fashion)](/setts/s8/k10k4k4k24k32r40k4r8-k000000-r8c0000/)|
-|![Aitken (Fashion) example sett](/setts/s8/k10k4k4k24k32r40k4r8-k000000-r8c0000/sett.png)|
+| [Aitken (Fashion)](/setts/s8/k5k2k2k12k16r20k2r4~k000000-r8c0000~x2/)|
+|![Aitken (Fashion) example sett](/setts/s8/k5k2k2k12k16r20k2r4~k000000-r8c0000~x2/sett.png)|

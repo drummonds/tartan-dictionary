@@ -6,7 +6,7 @@ BGKYG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s5/b31g2k20y2ga24~b2c2c80-g289c18-ga006818-k101010-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGKYG
 
 | Tartans |
 |---------------|
-| [Landels (Personal)](/setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/)|
-|![Landels (Personal) example sett](/setts/s5/b62g4k40y4ga48-b2c2c80-g289c18-ga006818-k101010-ye8c000/sett.png)|
+| [Landels (Personal)](/setts/s5/b31g2k20y2ga24~b2c2c80-g289c18-ga006818-k101010-ye8c000~x2/)|
+|![Landels (Personal) example sett](/setts/s5/b31g2k20y2ga24~b2c2c80-g289c18-ga006818-k101010-ye8c000~x2/sett.png)|

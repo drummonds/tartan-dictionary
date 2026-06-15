@@ -6,7 +6,7 @@ RBKBKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/r1b1k17b17k1w1~b1474b4-k101010-rc80000-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKBKW
 
 | Tartans |
 |---------------|
-| [Sorbie (Name)](/setts/s6/r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/)|
-|![Sorbie (Name) example sett](/setts/s6/r4b4k68b68k4w4-b1474b4-k101010-rc80000-wfcfcfc/sett.png)|
+| [Sorbie (Name)](/setts/s6/r1b1k17b17k1w1~b1474b4-k101010-rc80000-wfcfcfc~x4/)|
+|![Sorbie (Name) example sett](/setts/s6/r1b1k17b17k1w1~b1474b4-k101010-rc80000-wfcfcfc~x4/sett.png)|

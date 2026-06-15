@@ -16,5 +16,5 @@ WRGRWKWBGWRW
 
 | Tartans |
 |---------------|
-| [Grant of Acharrow](/setts/s12/w18r8w80g18b2w6k6w40r36g8r12w6-b304080-g30a010-k000000-rd03030-we0e0e0/)|
-|![Grant of Acharrow example sett](/setts/s12/w18r8w80g18b2w6k6w40r36g8r12w6-b304080-g30a010-k000000-rd03030-we0e0e0/sett.png)|
+| [Grant of Acharrow](/setts/s12/w9r4w40g9b1w3k3w20r18g4r6w3~b304080-g30a010-k000000-rd03030-we0e0e0~x2/)|
+|![Grant of Acharrow example sett](/setts/s12/w9r4w40g9b1w3k3w20r18g4r6w3~b304080-g30a010-k000000-rd03030-we0e0e0~x2/sett.png)|

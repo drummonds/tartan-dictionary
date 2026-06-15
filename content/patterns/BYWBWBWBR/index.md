@@ -16,5 +16,5 @@ BYWBWBWBR
 
 | Tartans |
 |---------------|
-| [Orlando Dress, City of (District)](/setts/s9/b48y4w64b4w4b56w12b56r8-b1870a4-rc80000-wfcfcfc-yfccc00/)|
-|![Orlando Dress, City of (District) example sett](/setts/s9/b48y4w64b4w4b56w12b56r8-b1870a4-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Orlando Dress, City of (District)](/setts/s9/b12y1w16b1w1b14w3b14r2~b1870a4-rc80000-wfcfcfc-yfccc00~x4/)|
+|![Orlando Dress, City of (District) example sett](/setts/s9/b12y1w16b1w1b14w3b14r2~b1870a4-rc80000-wfcfcfc-yfccc00~x4/sett.png)|

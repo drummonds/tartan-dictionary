@@ -16,5 +16,5 @@ RRGYRRWRWYBGYWYWYGBYWRRGRRWGWGYGWGWGWGYGWGWRRGRRWGYWYGWGWBWBWGWRRW
 
 | Tartans |
 |---------------|
-| [Hunter (1775)](/setts/s66/r60ra8g12y8ra8r32w4ra8w4y8b36g12ya6w4y8w4ya6g12b36y8w4ra8r24g4r24ra6w4ga20w4ga4ya8ga4w4g16w8g16w4ga4ya8ga4w4ga20w4ra8r24g4r24ra8w4ga20y8w8y8ga20w4g12w4b24w4b24w4g12w4ra8r24w4-b202060-g789484-ga006818--h942b42b842750023/)|
-|![Hunter (1775) example sett](/setts/s66/r60ra8g12y8ra8r32w4ra8w4y8b36g12ya6w4y8w4ya6g12b36y8w4ra8r24g4r24ra6w4ga20w4ga4ya8ga4w4g16w8g16w4ga4ya8ga4w4ga20w4ra8r24g4r24ra8w4ga20y8w8y8ga20w4g12w4b24w4b24w4g12w4ra8r24w4-b202060-g789484-ga006818--h942b42b842750023/sett.png)|
+| [Hunter (1775)](/setts/s66/r30ra4g6y4ra4r16w2ra4w2y4b18g6ya3w2y4w2ya3g6b18y4w2ra4r12g2r12ra3w2ga10w2ga2ya4ga2w2g8w4g8w2ga2ya4ga2w2ga10w2ra4r12g2r12ra4w2ga10y4w4y4ga10w2g6w2b12w2b12w2g6w2ra4r12w2~b202060-g789484-ga006818-rc8002c-h430596d1ed302614/)|
+|![Hunter (1775) example sett](/setts/s66/r30ra4g6y4ra4r16w2ra4w2y4b18g6ya3w2y4w2ya3g6b18y4w2ra4r12g2r12ra3w2ga10w2ga2ya4ga2w2g8w4g8w2ga2ya4ga2w2ga10w2ra4r12g2r12ra4w2ga10y4w4y4ga10w2g6w2b12w2b12w2g6w2ra4r12w2~b202060-g789484-ga006818-rc8002c-h430596d1ed302614/sett.png)|

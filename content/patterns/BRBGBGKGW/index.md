@@ -16,5 +16,5 @@ BRBGBGKGW
 
 | Tartans |
 |---------------|
-| [MacNeill](/setts/s9/b12r2b40g12b12g48k2g4w8-b800080-g008000-k000000-rc00000-we0e0e0/)|
-|![MacNeill example sett](/setts/s9/b12r2b40g12b12g48k2g4w8-b800080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacNeill](/setts/s9/b6r1b20g6b6g24k1g2w4~b800080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacNeill example sett](/setts/s9/b6r1b20g6b6g24k1g2w4~b800080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

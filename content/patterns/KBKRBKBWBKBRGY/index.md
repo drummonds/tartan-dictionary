@@ -16,5 +16,5 @@ KBKRBKBWBKBRGY
 
 | Tartans |
 |---------------|
-| [MacLellan/McLellan Hunting (Personal)](/setts/s14/k8b28k20r8b20k8b20w4b20k4b20r8g28y8-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/)|
-|![MacLellan/McLellan Hunting (Personal) example sett](/setts/s14/k8b28k20r8b20k8b20w4b20k4b20r8g28y8-b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [MacLellan/McLellan Hunting (Personal)](/setts/s14/k2b7k5r2b5k2b5w1b5k1b5r2g7y2~b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000~x4/)|
+|![MacLellan/McLellan Hunting (Personal) example sett](/setts/s14/k2b7k5r2b5k2b5w1b5k1b5r2g7y2~b2c2c80-g285800-k101010-rc80000-we0e0e0-ye8c000~x4/sett.png)|

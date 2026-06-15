@@ -6,7 +6,7 @@ KGKRRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k32g64k16r8ra22r4-g003c14-k101010-r888888-ra880000/tartan.png)
+![Woven sample](/setts/s6/k16g32k8r4ra11r2~g003c14-k101010-r888888-ra880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKRRR
 
 | Tartans |
 |---------------|
-| [Mitchell, Cameron (Personal)](/setts/s6/k32g64k16r8ra22r4-g003c14-k101010-r888888-ra880000/)|
-|![Mitchell, Cameron (Personal) example sett](/setts/s6/k32g64k16r8ra22r4-g003c14-k101010-r888888-ra880000/sett.png)|
+| [Mitchell, Cameron (Personal)](/setts/s6/k16g32k8r4ra11r2~g003c14-k101010-r888888-ra880000~x2/)|
+|![Mitchell, Cameron (Personal) example sett](/setts/s6/k16g32k8r4ra11r2~g003c14-k101010-r888888-ra880000~x2/sett.png)|

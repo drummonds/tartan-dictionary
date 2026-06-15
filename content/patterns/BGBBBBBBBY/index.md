@@ -16,5 +16,5 @@ BGBBBBBBBY
 
 | Tartans |
 |---------------|
-| [Brydon (Scottish Borders)](/setts/s10/b4g32ba32bb4ba4bb4ba4bb30bc6y4-b780078-ba1c1c1c-bb14283c-bc000080-g004028-yd87c00/)|
-|![Brydon (Scottish Borders) example sett](/setts/s10/b4g32ba32bb4ba4bb4ba4bb30bc6y4-b780078-ba1c1c1c-bb14283c-bc000080-g004028-yd87c00/sett.png)|
+| [Brydon (Scottish Borders)](/setts/s10/b2g16ba16bb2ba2bb2ba2bb15bc3y2~b780078-ba1c1c1c-bb14283c-bc000080-g004028-yd87c00~x2/)|
+|![Brydon (Scottish Borders) example sett](/setts/s10/b2g16ba16bb2ba2bb2ba2bb15bc3y2~b780078-ba1c1c1c-bb14283c-bc000080-g004028-yd87c00~x2/sett.png)|

@@ -16,5 +16,5 @@ BBWBRBWBWY
 
 | Tartans |
 |---------------|
-| [Blue Toon](/setts/s10/b112ba18w4ba4r4b18wa8ba4wa4y6-b5a5a82-ba141e46-rc80050-wffffff-wa98d0f0-ye8c000/)|
-|![Blue Toon example sett](/setts/s10/b112ba18w4ba4r4b18wa8ba4wa4y6-b5a5a82-ba141e46-rc80050-wffffff-wa98d0f0-ye8c000/sett.png)|
+| [Blue Toon](/setts/s10/b56ba9w2ba2r2b9wa4ba2wa2y3~b5a5a82-ba141e46-rc80050-wffffff-wa98d0f0-ye8c000~x2/)|
+|![Blue Toon example sett](/setts/s10/b56ba9w2ba2r2b9wa4ba2wa2y3~b5a5a82-ba141e46-rc80050-wffffff-wa98d0f0-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ GKGKGRGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g4k52ga4k4ga18r4ga18k4-g003000-ga008000-k000030-r802040/tartan.png)
+![Woven sample](/setts/s8/g2k26ga2k2ga9r2ga9k2~g003000-ga008000-k000030-r802040~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKGRGK
 
 | Tartans |
 |---------------|
-| [Land's End](/setts/s8/g4k52ga4k4ga18r4ga18k4-g003000-ga008000-k000030-r802040/)|
-|![Land's End example sett](/setts/s8/g4k52ga4k4ga18r4ga18k4-g003000-ga008000-k000030-r802040/sett.png)|
+| [Land's End](/setts/s8/g2k26ga2k2ga9r2ga9k2~g003000-ga008000-k000030-r802040~x2/)|
+|![Land's End example sett](/setts/s8/g2k26ga2k2ga9r2ga9k2~g003000-ga008000-k000030-r802040~x2/sett.png)|

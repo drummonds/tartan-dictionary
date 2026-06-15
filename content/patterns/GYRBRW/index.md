@@ -6,7 +6,7 @@ GYRBRW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w8r8b100ra12y12g4-b5f749c-g005020-r905966-radc0000-wf0e0c8-ye0a126/tartan.png)
+![Woven sample](/setts/s6/w2r2b25ra3y3g1~b5f749c-g005020-r905966-radc0000-wf0e0c8-ye0a126~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYRBRW
 
 | Tartans |
 |---------------|
-| [Pool, Robert David (Personal)](/setts/s6/w8r8b100ra12y12g4-b5f749c-g005020-r905966-radc0000-wf0e0c8-ye0a126/)|
-|![Pool, Robert David (Personal) example sett](/setts/s6/w8r8b100ra12y12g4-b5f749c-g005020-r905966-radc0000-wf0e0c8-ye0a126/sett.png)|
+| [Pool, Robert David (Personal)](/setts/s6/w2r2b25ra3y3g1~b5f749c-g005020-r905966-radc0000-wf0e0c8-ye0a126~x4/)|
+|![Pool, Robert David (Personal) example sett](/setts/s6/w2r2b25ra3y3g1~b5f749c-g005020-r905966-radc0000-wf0e0c8-ye0a126~x4/sett.png)|

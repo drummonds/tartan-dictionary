@@ -6,7 +6,7 @@ GBKBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g108b56k8b8y8-b304080-g008000-k000030-yf0c000/tartan.png)
+![Woven sample](/setts/s5/g27b14k2b2y2~b304080-g008000-k000030-yf0c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBKBY
 
 | Tartans |
 |---------------|
-| [Irving of Bonshaw](/setts/s5/g108b56k8b8y8-b304080-g008000-k000030-yf0c000/)|
-|![Irving of Bonshaw example sett](/setts/s5/g108b56k8b8y8-b304080-g008000-k000030-yf0c000/sett.png)|
+| [Irving of Bonshaw](/setts/s5/g27b14k2b2y2~b304080-g008000-k000030-yf0c000~x4/)|
+|![Irving of Bonshaw example sett](/setts/s5/g27b14k2b2y2~b304080-g008000-k000030-yf0c000~x4/sett.png)|

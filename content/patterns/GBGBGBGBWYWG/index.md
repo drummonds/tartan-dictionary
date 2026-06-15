@@ -16,5 +16,5 @@ GBGBGBGBWYWG
 
 | Tartans |
 |---------------|
-| [McGrane (2014)](/setts/s12/g26b14g26b4g26b4g26b4w6y8w6g8-b4c3428-g408060-wf8f4d0-ye0a126/)|
-|![McGrane (2014) example sett](/setts/s12/g26b14g26b4g26b4g26b4w6y8w6g8-b4c3428-g408060-wf8f4d0-ye0a126/sett.png)|
+| [McGrane (2014)](/setts/s12/g13b7g13b2g13b2g13b2w3y4w3g4~b4c3428-g408060-wf8f4d0-ye0a126~x2/)|
+|![McGrane (2014) example sett](/setts/s12/g13b7g13b2g13b2g13b2w3y4w3g4~b4c3428-g408060-wf8f4d0-ye0a126~x2/sett.png)|

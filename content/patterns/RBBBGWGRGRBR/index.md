@@ -16,5 +16,5 @@ RBBBGWGRGRBR
 
 | Tartans |
 |---------------|
-| [Diana, hunting Plaid](/setts/s12/r92b6r14g4ra4g4w4g22b12ba4b6ra4-b8080d0-ba000050-g008000-r806050-rac00000-we0e0e0/)|
-|![Diana, hunting Plaid example sett](/setts/s12/r92b6r14g4ra4g4w4g22b12ba4b6ra4-b8080d0-ba000050-g008000-r806050-rac00000-we0e0e0/sett.png)|
+| [Diana, hunting Plaid](/setts/s12/r46b3r7g2ra2g2w2g11b6ba2b3ra2~b8080d0-ba000050-g008000-r806050-rac00000-we0e0e0~x2/)|
+|![Diana, hunting Plaid example sett](/setts/s12/r46b3r7g2ra2g2w2g11b6ba2b3ra2~b8080d0-ba000050-g008000-r806050-rac00000-we0e0e0~x2/sett.png)|

@@ -16,7 +16,7 @@ RWYGYWGWYGYW
 
 | Tartans |
 |---------------|
-| [Bouguet, Adrian Hunting (Personal)](/setts/s12/w30y12g30y8wa6g6wa6y8ga30y4wb6r2-g005448-ga004028-ra00000-w98c8e8-wac8c8c8-wbffffff-yebb790/)|
-|![Bouguet, Adrian Hunting (Personal) example sett](/setts/s12/w30y12g30y8wa6g6wa6y8ga30y4wb6r2-g005448-ga004028-ra00000-w98c8e8-wac8c8c8-wbffffff-yebb790/sett.png)|
-| [Bouguet, Adrian Hunting (Personal)](/setts/s12/w30y12g30y8wa6g6wa6y8ga30y4wb4r2-g006818-ga003820-rc80000-w98c8e8-wac0c0c0-wbfcfcfc-yec8048/)|
-|![Bouguet, Adrian Hunting (Personal) example sett](/setts/s12/w30y12g30y8wa6g6wa6y8ga30y4wb4r2-g006818-ga003820-rc80000-w98c8e8-wac0c0c0-wbfcfcfc-yec8048/sett.png)|
+| [Bouguet, Adrian Hunting (Personal)](/setts/s12/w15y6g15y4wa3g3wa3y4ga15y2wb3r1~g005448-ga004028-ra00000-w98c8e8-wac8c8c8-wbffffff-yebb790~x2/)|
+|![Bouguet, Adrian Hunting (Personal) example sett](/setts/s12/w15y6g15y4wa3g3wa3y4ga15y2wb3r1~g005448-ga004028-ra00000-w98c8e8-wac8c8c8-wbffffff-yebb790~x2/sett.png)|
+| [Bouguet, Adrian Hunting (Personal)](/setts/s12/w15y6g15y4wa3g3wa3y4ga15y2wb2r1~g006818-ga003820-rc80000-w98c8e8-wac0c0c0-wbfcfcfc-yec8048~x2/)|
+|![Bouguet, Adrian Hunting (Personal) example sett](/setts/s12/w15y6g15y4wa3g3wa3y4ga15y2wb2r1~g006818-ga003820-rc80000-w98c8e8-wac0c0c0-wbfcfcfc-yec8048~x2/sett.png)|

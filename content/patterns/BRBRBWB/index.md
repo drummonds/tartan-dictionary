@@ -6,7 +6,7 @@ BRBRBWB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16r4b36r2b4w20b8-b2c2c80-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s7/b8r2b18r1b2w10b4~b2c2c80-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRBWB
 
 | Tartans |
 |---------------|
-| [Nike ACG Lunarstorm (Fashion)](/setts/s7/b16r4b36r2b4w20b8-b2c2c80-rc80000-wf8f8f8/)|
-|![Nike ACG Lunarstorm (Fashion) example sett](/setts/s7/b16r4b36r2b4w20b8-b2c2c80-rc80000-wf8f8f8/sett.png)|
+| [Nike ACG Lunarstorm (Fashion)](/setts/s7/b8r2b18r1b2w10b4~b2c2c80-rc80000-wf8f8f8~x2/)|
+|![Nike ACG Lunarstorm (Fashion) example sett](/setts/s7/b8r2b18r1b2w10b4~b2c2c80-rc80000-wf8f8f8~x2/sett.png)|

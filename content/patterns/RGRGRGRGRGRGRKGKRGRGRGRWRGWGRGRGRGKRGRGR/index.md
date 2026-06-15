@@ -16,5 +16,5 @@ RGRGRGRGRGRGRKGKRGRGRGRWRGWGRGRGRGKRGRGR
 
 | Tartans |
 |---------------|
-| [Donald of Staffa's Sett](/setts/s40/r60g10r54ga10r10ga10r10ga10r10ga10r50ga10r10k4ga56k4r10ga10r56ga10r10g56r52w10r52ga48w4ga48r14ga10r56ga10r14ga10k10r14g10r14g10r48-g789484-ga003820-k101010-rc80000-we0e0e0/)|
-|![Donald of Staffa's Sett example sett](/setts/s40/r60g10r54ga10r10ga10r10ga10r10ga10r50ga10r10k4ga56k4r10ga10r56ga10r10g56r52w10r52ga48w4ga48r14ga10r56ga10r14ga10k10r14g10r14g10r48-g789484-ga003820-k101010-rc80000-we0e0e0/sett.png)|
+| [Donald of Staffa's Sett](/setts/s40/r30g5r27ga5r5ga5r5ga5r5ga5r25ga5r5k2ga28k2r5ga5r28ga5r5g28r26w5r26ga24w2ga24r7ga5r28ga5r7ga5k5r7g5r7g5r24~g789484-ga003820-k101010-rc80000-we0e0e0~x2/)|
+|![Donald of Staffa's Sett example sett](/setts/s40/r30g5r27ga5r5ga5r5ga5r5ga5r25ga5r5k2ga28k2r5ga5r28ga5r5g28r26w5r26ga24w2ga24r7ga5r28ga5r7ga5k5r7g5r7g5r24~g789484-ga003820-k101010-rc80000-we0e0e0~x2/sett.png)|

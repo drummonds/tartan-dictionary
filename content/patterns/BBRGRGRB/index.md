@@ -6,7 +6,7 @@ BBRGRGRB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b14r6g14r2g14r6b14ba2-b2c2c80-ba5c8ca8-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s8/b7r3g7r1g7r3b7ba1~b2c2c80-ba5c8ca8-g006818-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRGRGRB
 
 | Tartans |
 |---------------|
-| [Hebrides #8](/setts/s8/b14r6g14r2g14r6b14ba2-b2c2c80-ba5c8ca8-g006818-rc80000/)|
-|![Hebrides #8 example sett](/setts/s8/b14r6g14r2g14r6b14ba2-b2c2c80-ba5c8ca8-g006818-rc80000/sett.png)|
+| [Hebrides #8](/setts/s8/b7r3g7r1g7r3b7ba1~b2c2c80-ba5c8ca8-g006818-rc80000~x2/)|
+|![Hebrides #8 example sett](/setts/s8/b7r3g7r1g7r3b7ba1~b2c2c80-ba5c8ca8-g006818-rc80000~x2/sett.png)|

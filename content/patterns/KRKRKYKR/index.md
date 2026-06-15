@@ -6,7 +6,7 @@ KRKRKYKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r40k2y6k2r120k60r96k8-k101010-rc80000-yfccc00/tartan.png)
+![Woven sample](/setts/s8/r20k1y3k1r60k30r48k4~k101010-rc80000-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKRKYKR
 
 | Tartans |
 |---------------|
-| [Barkwell (Personal)](/setts/s8/r40k2y6k2r120k60r96k8-k101010-rc80000-yfccc00/)|
-|![Barkwell (Personal) example sett](/setts/s8/r40k2y6k2r120k60r96k8-k101010-rc80000-yfccc00/sett.png)|
+| [Barkwell (Personal)](/setts/s8/r20k1y3k1r60k30r48k4~k101010-rc80000-yfccc00~x2/)|
+|![Barkwell (Personal) example sett](/setts/s8/r20k1y3k1r60k30r48k4~k101010-rc80000-yfccc00~x2/sett.png)|

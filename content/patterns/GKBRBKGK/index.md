@@ -6,7 +6,7 @@ GKBRBKGK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g16k14b16r4b16k14g16k4-b2c2c80-g006818-k000000-rc80000/tartan.png)
+![Woven sample](/setts/s8/g8k7b8r2b8k7g8k2~b2c2c80-g006818-k000000-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBRBKGK
 
 | Tartans |
 |---------------|
-| [Denholm](/setts/s8/g16k14b16r4b16k14g16k4-b2c2c80-g006818-k000000-rc80000/)|
-|![Denholm example sett](/setts/s8/g16k14b16r4b16k14g16k4-b2c2c80-g006818-k000000-rc80000/sett.png)|
+| [Denholm](/setts/s8/g8k7b8r2b8k7g8k2~b2c2c80-g006818-k000000-rc80000~x2/)|
+|![Denholm example sett](/setts/s8/g8k7b8r2b8k7g8k2~b2c2c80-g006818-k000000-rc80000~x2/sett.png)|

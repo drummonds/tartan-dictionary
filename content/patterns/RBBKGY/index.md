@@ -6,7 +6,7 @@ RBBKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4b6ba24k22g22y4-b003c64-ba1474b4-g006818-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r2b3ba12k11g11y2~b003c64-ba1474b4-g006818-k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBBKGY
 
 | Tartans |
 |---------------|
-| [Huntly Gordon 2000 (Commem)](/setts/s6/r4b6ba24k22g22y4-b003c64-ba1474b4-g006818-k101010-rc80000-ye8c000/)|
-|![Huntly Gordon 2000 (Commem) example sett](/setts/s6/r4b6ba24k22g22y4-b003c64-ba1474b4-g006818-k101010-rc80000-ye8c000/sett.png)|
-| [Huntly Gordon](/setts/s6/r4b6ba24k22g22y4-b102040-ba606090-g004010-k000000-rc00000-yf0c000/)|
-|![Huntly Gordon example sett](/setts/s6/r4b6ba24k22g22y4-b102040-ba606090-g004010-k000000-rc00000-yf0c000/sett.png)|
+| [Huntly Gordon 2000 (Commem)](/setts/s6/r2b3ba12k11g11y2~b003c64-ba1474b4-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Huntly Gordon 2000 (Commem) example sett](/setts/s6/r2b3ba12k11g11y2~b003c64-ba1474b4-g006818-k101010-rc80000-ye8c000~x2/sett.png)|
+| [Huntly Gordon](/setts/s6/r2b3ba12k11g11y2~b102040-ba606090-g004010-k000000-rc00000-yf0c000~x2/)|
+|![Huntly Gordon example sett](/setts/s6/r2b3ba12k11g11y2~b102040-ba606090-g004010-k000000-rc00000-yf0c000~x2/sett.png)|

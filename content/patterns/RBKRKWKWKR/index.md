@@ -16,5 +16,5 @@ RBKRKWKWKR
 
 | Tartans |
 |---------------|
-| [Meeting Professionals International](/setts/s10/r20k6w6k6w6k6r20k14b40ra6-b2c2c80-k101010-r888888-rac80000-we0e0e0/)|
-|![Meeting Professionals International example sett](/setts/s10/r20k6w6k6w6k6r20k14b40ra6-b2c2c80-k101010-r888888-rac80000-we0e0e0/sett.png)|
+| [Meeting Professionals International](/setts/s10/r10k3w3k3w3k3r10k7b20ra3~b2c2c80-k101010-r888888-rac80000-we0e0e0~x2/)|
+|![Meeting Professionals International example sett](/setts/s10/r10k3w3k3w3k3r10k7b20ra3~b2c2c80-k101010-r888888-rac80000-we0e0e0~x2/sett.png)|

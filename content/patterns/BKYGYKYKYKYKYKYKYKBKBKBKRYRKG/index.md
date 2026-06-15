@@ -16,5 +16,5 @@ BKYGYKYKYKYKYKYKYKBKBKBKRYRKG
 
 | Tartans |
 |---------------|
-| [Westwood Metropolitan 1 (Fashion)](/setts/s29/b196k196y2g20y2k22y2k2y2k2y2k2y2k2y2k2y2k22b2k2b20k2b2k2r14y2r20k20g4-b2c2c80-g289c18-k101010-re87878-ye8c000/)|
-|![Westwood Metropolitan 1 (Fashion) example sett](/setts/s29/b196k196y2g20y2k22y2k2y2k2y2k2y2k2y2k2y2k22b2k2b20k2b2k2r14y2r20k20g4-b2c2c80-g289c18-k101010-re87878-ye8c000/sett.png)|
+| [Westwood Metropolitan 1 (Fashion)](/setts/s29/b98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11b1k1b10k1b1k1r7y1r10k10g2~b2c2c80-g289c18-k101010-re87878-ye8c000~x2/)|
+|![Westwood Metropolitan 1 (Fashion) example sett](/setts/s29/b98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11b1k1b10k1b1k1r7y1r10k10g2~b2c2c80-g289c18-k101010-re87878-ye8c000~x2/sett.png)|

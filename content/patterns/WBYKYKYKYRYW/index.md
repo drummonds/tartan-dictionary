@@ -16,7 +16,7 @@ WBYKYKYKYRYW
 
 | Tartans |
 |---------------|
-| [Loch Sween](/setts/s12/w6y6r4y26k6y8k44y8k6y32b4w6-b5a008c-k101010-rc80000-wffffff-ye8c000/)|
-|![Loch Sween example sett](/setts/s12/w6y6r4y26k6y8k44y8k6y32b4w6-b5a008c-k101010-rc80000-wffffff-ye8c000/sett.png)|
-| [Loch Sween](/setts/s12/w6y6r4y26k6y8k44y8k6y32b4w6-b9058d8-k101010-rc80000-wfcfcfc-yfccc00/)|
-|![Loch Sween example sett](/setts/s12/w6y6r4y26k6y8k44y8k6y32b4w6-b9058d8-k101010-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Loch Sween](/setts/s12/w3y3r2y13k3y4k22y4k3y16b2w3~b5a008c-k101010-rc80000-wffffff-ye8c000~x2/)|
+|![Loch Sween example sett](/setts/s12/w3y3r2y13k3y4k22y4k3y16b2w3~b5a008c-k101010-rc80000-wffffff-ye8c000~x2/sett.png)|
+| [Loch Sween](/setts/s12/w3y3r2y13k3y4k22y4k3y16b2w3~b9058d8-k101010-rc80000-wfcfcfc-yfccc00~x2/)|
+|![Loch Sween example sett](/setts/s12/w3y3r2y13k3y4k22y4k3y16b2w3~b9058d8-k101010-rc80000-wfcfcfc-yfccc00~x2/sett.png)|

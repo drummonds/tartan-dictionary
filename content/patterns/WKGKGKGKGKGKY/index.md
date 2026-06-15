@@ -16,7 +16,7 @@ WKGKGKGKGKGKY
 
 | Tartans |
 |---------------|
-| [Robieson, Graham Alexander (Personal)](/setts/s13/w6k6g48k6g6ka48g6k48g6ka6g48k6y6-g004000-k101010-ka000040-wffffff-yffff00/)|
-|![Robieson, Graham Alexander (Personal) example sett](/setts/s13/w6k6g48k6g6ka48g6k48g6ka6g48k6y6-g004000-k101010-ka000040-wffffff-yffff00/sett.png)|
-| [Robieson, Graham A. (Personal)](/setts/s13/w6k6g48k6g6ka48g6k48g6ka6g48k6y6-g003820-k101010-ka00002c-wf8f8f8-ye8c000/)|
-|![Robieson, Graham A. (Personal) example sett](/setts/s13/w6k6g48k6g6ka48g6k48g6ka6g48k6y6-g003820-k101010-ka00002c-wf8f8f8-ye8c000/sett.png)|
+| [Robieson, Graham Alexander (Personal)](/setts/s13/w1k1g8k1g1ka8g1k8g1ka1g8k1y1~g004000-k101010-ka000040-wffffff-yffff00~x6/)|
+|![Robieson, Graham Alexander (Personal) example sett](/setts/s13/w1k1g8k1g1ka8g1k8g1ka1g8k1y1~g004000-k101010-ka000040-wffffff-yffff00~x6/sett.png)|
+| [Robieson, Graham A. (Personal)](/setts/s13/w1k1g8k1g1ka8g1k8g1ka1g8k1y1~g003820-k101010-ka00002c-wf8f8f8-ye8c000~x6/)|
+|![Robieson, Graham A. (Personal) example sett](/setts/s13/w1k1g8k1g1ka8g1k8g1ka1g8k1y1~g003820-k101010-ka00002c-wf8f8f8-ye8c000~x6/sett.png)|

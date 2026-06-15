@@ -16,5 +16,5 @@ BBBBBBBWBYBY
 
 | Tartans |
 |---------------|
-| [Deuchars IPA (Corporate)](/setts/s12/b90ba6b6ba30b6ba6b14w2b14y2b2y2-b003c64-ba1474b4-we0e0e0-yf09400/)|
-|![Deuchars IPA (Corporate) example sett](/setts/s12/b90ba6b6ba30b6ba6b14w2b14y2b2y2-b003c64-ba1474b4-we0e0e0-yf09400/sett.png)|
+| [Deuchars IPA (Corporate)](/setts/s12/b45ba3b3ba15b3ba3b7w1b7y1b1y1~b003c64-ba1474b4-we0e0e0-yf09400~x2/)|
+|![Deuchars IPA (Corporate) example sett](/setts/s12/b45ba3b3ba15b3ba3b7w1b7y1b1y1~b003c64-ba1474b4-we0e0e0-yf09400~x2/sett.png)|

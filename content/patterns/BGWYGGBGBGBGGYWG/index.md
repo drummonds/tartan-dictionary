@@ -16,5 +16,5 @@ BGWYGGBGBGBGGYWG
 
 | Tartans |
 |---------------|
-| [St. Columba (two greens)](/setts/s16/b40g2w2y6ga8gb20ba8g2bb8g2ba8gb20ga8y6w2g2-b202060-ba5c5c5c-bb780078-g789484-ga5c6428-gb006818-wfcfcfc-ya08858/)|
-|![St. Columba (two greens) example sett](/setts/s16/b40g2w2y6ga8gb20ba8g2bb8g2ba8gb20ga8y6w2g2-b202060-ba5c5c5c-bb780078-g789484-ga5c6428-gb006818-wfcfcfc-ya08858/sett.png)|
+| [St. Columba (two greens)](/setts/s16/b20g1w1y3ga4gb10ba4g1bb4g1ba4gb10ga4y3w1g1~b202060-ba5c5c5c-bb780078-g789484-ga5c6428-gb006818-wfcfcfc-ya08858~x2/)|
+|![St. Columba (two greens) example sett](/setts/s16/b20g1w1y3ga4gb10ba4g1bb4g1ba4gb10ga4y3w1g1~b202060-ba5c5c5c-bb780078-g789484-ga5c6428-gb006818-wfcfcfc-ya08858~x2/sett.png)|

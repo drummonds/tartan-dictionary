@@ -6,7 +6,7 @@ WYKYKYKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w4y4k4y48k48y4k4y4-k000000-wfcfcfc-yd87c00/tartan.png)
+![Woven sample](/setts/s8/w1y1k1y12k12y1k1y1~k000000-wfcfcfc-yd87c00~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WYKYKYKY
 
 | Tartans |
 |---------------|
-| [Johnston Orange/Black (Corporate)](/setts/s8/w4y4k4y48k48y4k4y4-k000000-wfcfcfc-yd87c00/)|
-|![Johnston Orange/Black (Corporate) example sett](/setts/s8/w4y4k4y48k48y4k4y4-k000000-wfcfcfc-yd87c00/sett.png)|
-| [Atlas Textile (Corporate)](/setts/s8/w4y4k4y48k48y4k4y4-k101010-we0e0e0-yd87c00/)|
-|![Atlas Textile (Corporate) example sett](/setts/s8/w4y4k4y48k48y4k4y4-k101010-we0e0e0-yd87c00/sett.png)|
+| [Johnston Orange/Black (Corporate)](/setts/s8/w1y1k1y12k12y1k1y1~k000000-wfcfcfc-yd87c00~x4/)|
+|![Johnston Orange/Black (Corporate) example sett](/setts/s8/w1y1k1y12k12y1k1y1~k000000-wfcfcfc-yd87c00~x4/sett.png)|
+| [Atlas Textile (Corporate)](/setts/s8/w1y1k1y12k12y1k1y1~k101010-we0e0e0-yd87c00~x4/)|
+|![Atlas Textile (Corporate) example sett](/setts/s8/w1y1k1y12k12y1k1y1~k101010-we0e0e0-yd87c00~x4/sett.png)|

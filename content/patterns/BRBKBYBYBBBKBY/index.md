@@ -16,5 +16,5 @@ BRBKBYBYBBBKBY
 
 | Tartans |
 |---------------|
-| [Black Rose](/setts/s14/y40b6k16b6ba4b48y4b6y4b48k30b2r6b4-b780078-ba2c2c80-k101010-r888888-ye08070/)|
-|![Black Rose example sett](/setts/s14/y40b6k16b6ba4b48y4b6y4b48k30b2r6b4-b780078-ba2c2c80-k101010-r888888-ye08070/sett.png)|
+| [Black Rose](/setts/s14/y20b3k8b3ba2b24y2b3y2b24k15b1r3b2~b780078-ba2c2c80-k101010-r888888-ye08070~x2/)|
+|![Black Rose example sett](/setts/s14/y20b3k8b3ba2b24y2b3y2b24k15b1r3b2~b780078-ba2c2c80-k101010-r888888-ye08070~x2/sett.png)|

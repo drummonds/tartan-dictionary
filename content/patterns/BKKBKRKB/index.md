@@ -6,7 +6,7 @@ BKKBKRKB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b180k2ka4ba20ka10r4k4ba4-b59071d-ba737d98-k000000-ka101010-r921415/tartan.png)
+![Woven sample](/setts/s8/b90k1ka2ba10ka5r2k2ba2~b59071d-ba737d98-k000000-ka101010-r921415~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKKBKRKB
 
 | Tartans |
 |---------------|
-| [Lock in Northumberland](/setts/s8/b180k2ka4ba20ka10r4k4ba4-b59071d-ba737d98-k000000-ka101010-r921415/)|
-|![Lock in Northumberland example sett](/setts/s8/b180k2ka4ba20ka10r4k4ba4-b59071d-ba737d98-k000000-ka101010-r921415/sett.png)|
+| [Lock in Northumberland](/setts/s8/b90k1ka2ba10ka5r2k2ba2~b59071d-ba737d98-k000000-ka101010-r921415~x2/)|
+|![Lock in Northumberland example sett](/setts/s8/b90k1ka2ba10ka5r2k2ba2~b59071d-ba737d98-k000000-ka101010-r921415~x2/sett.png)|

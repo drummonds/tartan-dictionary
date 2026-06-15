@@ -6,7 +6,7 @@ KBKBKWK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k8b36k8b36k52w4k8-b0000cd-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s7/k2b9k2b9k13w1k2~b0000cd-k101010-wffffff~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKBKWK
 
 | Tartans |
 |---------------|
-| [Swan 2015, Brian E (Personal)](/setts/s7/k8b36k8b36k52w4k8-b0000cd-k101010-wffffff/)|
-|![Swan 2015, Brian E (Personal) example sett](/setts/s7/k8b36k8b36k52w4k8-b0000cd-k101010-wffffff/sett.png)|
+| [Swan 2015, Brian E (Personal)](/setts/s7/k2b9k2b9k13w1k2~b0000cd-k101010-wffffff~x4/)|
+|![Swan 2015, Brian E (Personal) example sett](/setts/s7/k2b9k2b9k13w1k2~b0000cd-k101010-wffffff~x4/sett.png)|

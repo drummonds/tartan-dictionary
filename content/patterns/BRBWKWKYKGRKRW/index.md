@@ -16,5 +16,5 @@ BRBWKWKYKGRKRW
 
 | Tartans |
 |---------------|
-| [Brown of Castledean (Artefact)](/setts/s14/b24r60b4w4k16w4k8y4k8g30r16k4r8w4-b202060-g003820-k101010-rc80000-wc0c0c0-yd8b000/)|
-|![Brown of Castledean (Artefact) example sett](/setts/s14/b24r60b4w4k16w4k8y4k8g30r16k4r8w4-b202060-g003820-k101010-rc80000-wc0c0c0-yd8b000/sett.png)|
+| [Brown of Castledean (Artefact)](/setts/s14/b12r30b2w2k8w2k4y2k4g15r8k2r4w2~b202060-g003820-k101010-rc80000-wc0c0c0-yd8b000~x2/)|
+|![Brown of Castledean (Artefact) example sett](/setts/s14/b12r30b2w2k8w2k4y2k4g15r8k2r4w2~b202060-g003820-k101010-rc80000-wc0c0c0-yd8b000~x2/sett.png)|

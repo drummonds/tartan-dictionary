@@ -6,7 +6,7 @@ BYKRKBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b36y2k30r30k48ba8w2-b440044-ba2c2c80-k101010-rc80000-we0e0e0-yfccc00/tartan.png)
+![Woven sample](/setts/s7/b18y1k15r15k24ba4w1~b440044-ba2c2c80-k101010-rc80000-we0e0e0-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYKRKBW
 
 | Tartans |
 |---------------|
-| [European Congress of Immunology (Cor](/setts/s7/b36y2k30r30k48ba8w2-b440044-ba2c2c80-k101010-rc80000-we0e0e0-yfccc00/)|
-|![European Congress of Immunology (Cor example sett](/setts/s7/b36y2k30r30k48ba8w2-b440044-ba2c2c80-k101010-rc80000-we0e0e0-yfccc00/sett.png)|
+| [European Congress of Immunology (Cor](/setts/s7/b18y1k15r15k24ba4w1~b440044-ba2c2c80-k101010-rc80000-we0e0e0-yfccc00~x2/)|
+|![European Congress of Immunology (Cor example sett](/setts/s7/b18y1k15r15k24ba4w1~b440044-ba2c2c80-k101010-rc80000-we0e0e0-yfccc00~x2/sett.png)|

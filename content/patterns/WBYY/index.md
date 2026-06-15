@@ -6,7 +6,7 @@ WBYY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/tartan.png)
+![Woven sample](/setts/s4/w80b30y5ya4~b202060-we0e0e0-yd87c00-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBYY
 
 | Tartans |
 |---------------|
-| [Tarbh Deargh (Red Bull)](/setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/)|
-|![Tarbh Deargh (Red Bull) example sett](/setts/s4/w160b60y10ya8-b202060-we0e0e0-yd87c00-yae8c000/sett.png)|
+| [Tarbh Deargh (Red Bull)](/setts/s4/w80b30y5ya4~b202060-we0e0e0-yd87c00-yae8c000~x2/)|
+|![Tarbh Deargh (Red Bull) example sett](/setts/s4/w80b30y5ya4~b202060-we0e0e0-yd87c00-yae8c000~x2/sett.png)|

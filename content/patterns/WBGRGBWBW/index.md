@@ -16,5 +16,5 @@ WBGRGBWBW
 
 | Tartans |
 |---------------|
-| [Seaford House](/setts/s9/w3b3w12b26g26r3g26b28wa3-b202060-g006818-rc80000-w98c8e8-wafcfcfc/)|
-|![Seaford House example sett](/setts/s9/w3b3w12b26g26r3g26b28wa3-b202060-g006818-rc80000-w98c8e8-wafcfcfc/sett.png)|
+| [Seaford House](/setts/s9/w3b3w12b26g26r3g26b28wa3~b202060-g006818-rc80000-w98c8e8-wafcfcfc/)|
+|![Seaford House example sett](/setts/s9/w3b3w12b26g26r3g26b28wa3~b202060-g006818-rc80000-w98c8e8-wafcfcfc/sett.png)|

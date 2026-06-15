@@ -16,5 +16,5 @@ GWBWGKBKBKBR
 
 | Tartans |
 |---------------|
-| [Scotch House (Dalgliesh)](/setts/s12/g8w6b6w6g24k12b8k6b8k6b24r6-b00008c-g004c00-k000000-r8c0000-wc8c8c8/)|
-|![Scotch House (Dalgliesh) example sett](/setts/s12/g8w6b6w6g24k12b8k6b8k6b24r6-b00008c-g004c00-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Scotch House (Dalgliesh)](/setts/s12/g4w3b3w3g12k6b4k3b4k3b12r3~b00008c-g004c00-k000000-r8c0000-wc8c8c8~x2/)|
+|![Scotch House (Dalgliesh) example sett](/setts/s12/g4w3b3w3g12k6b4k3b4k3b12r3~b00008c-g004c00-k000000-r8c0000-wc8c8c8~x2/sett.png)|

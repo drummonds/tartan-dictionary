@@ -16,5 +16,5 @@ KKKKKKRKYKRKKKW
 
 | Tartans |
 |---------------|
-| [Bogle (2015)](/setts/s15/k32ka4k4ka4k4ka28r32ka2y4ka2r32ka28k24ka2w4-k000000-ka101010-rc8002c-wffffff-yfccc00/)|
-|![Bogle (2015) example sett](/setts/s15/k32ka4k4ka4k4ka28r32ka2y4ka2r32ka28k24ka2w4-k000000-ka101010-rc8002c-wffffff-yfccc00/sett.png)|
+| [Bogle (2015)](/setts/s15/k16ka2k2ka2k2ka14r16ka1y2ka1r16ka14k12ka1w2~k000000-ka101010-rc8002c-wffffff-yfccc00~x2/)|
+|![Bogle (2015) example sett](/setts/s15/k16ka2k2ka2k2ka14r16ka1y2ka1r16ka14k12ka1w2~k000000-ka101010-rc8002c-wffffff-yfccc00~x2/sett.png)|

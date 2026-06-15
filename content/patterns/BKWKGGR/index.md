@@ -6,7 +6,7 @@ BKWKGGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16k22w6k22g24g20r4-b8080d0-g30a010-k000030-r802040-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b8k11w3k11g12g10r2~b8080d0-g30a010-k000030-r802040-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWKGGR
 
 | Tartans |
 |---------------|
-| [Loch Katrine](/setts/s7/b16k22w6k22g24g20r4-b8080d0-g30a010-k000030-r802040-we0e0e0/)|
-|![Loch Katrine example sett](/setts/s7/b16k22w6k22g24g20r4-b8080d0-g30a010-k000030-r802040-we0e0e0/sett.png)|
+| [Loch Katrine](/setts/s7/b8k11w3k11g12g10r2~b8080d0-g30a010-k000030-r802040-we0e0e0~x2/)|
+|![Loch Katrine example sett](/setts/s7/b8k11w3k11g12g10r2~b8080d0-g30a010-k000030-r802040-we0e0e0~x2/sett.png)|

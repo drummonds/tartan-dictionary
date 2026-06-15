@@ -16,5 +16,5 @@ BKBKGKGKGKBK
 
 | Tartans |
 |---------------|
-| [McWilliams (2014)](/setts/s12/b6k4b26k18g6k4g28k4g6k18b30k6-b202060-g604000-k101010/)|
-|![McWilliams (2014) example sett](/setts/s12/b6k4b26k18g6k4g28k4g6k18b30k6-b202060-g604000-k101010/sett.png)|
+| [McWilliams (2014)](/setts/s12/b3k2b13k9g3k2g14k2g3k9b15k3~b202060-g604000-k101010~x2/)|
+|![McWilliams (2014) example sett](/setts/s12/b3k2b13k9g3k2g14k2g3k9b15k3~b202060-g604000-k101010~x2/sett.png)|

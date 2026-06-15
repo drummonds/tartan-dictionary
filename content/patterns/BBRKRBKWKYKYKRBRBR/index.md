@@ -16,5 +16,5 @@ BBRKRBKWKYKYKRBRBR
 
 | Tartans |
 |---------------|
-| [Westwood MacAndreas](/setts/s18/r10b12r4b18r28k10y4k4y4k10w10k10ba46r2k4r2ba10b8-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/)|
-|![Westwood MacAndreas example sett](/setts/s18/r10b12r4b18r28k10y4k4y4k10w10k10ba46r2k4r2ba10b8-b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00/sett.png)|
+| [Westwood MacAndreas](/setts/s18/r5b6r2b9r14k5y2k2y2k5w5k5ba23r1k2r1ba5b4~b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00~x2/)|
+|![Westwood MacAndreas example sett](/setts/s18/r5b6r2b9r14k5y2k2y2k5w5k5ba23r1k2r1ba5b4~b1474b4-ba5c8ca8-k101010-re87878-we0e0e0-ybc8c00~x2/sett.png)|

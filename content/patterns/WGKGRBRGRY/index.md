@@ -16,5 +16,5 @@ WGKGRBRGRY
 
 | Tartans |
 |---------------|
-| [Hello Kitty Red](/setts/s10/w4g8k12g12r4b6r42g6r6y4-b0596fa-g603800-k000000-rb03000-wffffff-yffe600/)|
-|![Hello Kitty Red example sett](/setts/s10/w4g8k12g12r4b6r42g6r6y4-b0596fa-g603800-k000000-rb03000-wffffff-yffe600/sett.png)|
+| [Hello Kitty Red](/setts/s10/w2g4k6g6r2b3r21g3r3y2~b0596fa-g603800-k000000-rb03000-wffffff-yffe600~x2/)|
+|![Hello Kitty Red example sett](/setts/s10/w2g4k6g6r2b3r21g3r3y2~b0596fa-g603800-k000000-rb03000-wffffff-yffe600~x2/sett.png)|

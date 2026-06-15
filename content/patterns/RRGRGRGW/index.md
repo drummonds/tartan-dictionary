@@ -6,7 +6,7 @@ RRGRGRGW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4ra4g24ra60ga8ra4ga24w4-g005020-ga2a2303-rdc0000-rabe7832-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r1ra1g6ra15ga2ra1ga6w1~g005020-ga2a2303-rdc0000-rabe7832-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRGRGRGW
 
 | Tartans |
 |---------------|
-| [Connacht #2](/setts/s8/r4ra4g24ra60ga8ra4ga24w4-g005020-ga2a2303-rdc0000-rabe7832-we0e0e0/)|
-|![Connacht #2 example sett](/setts/s8/r4ra4g24ra60ga8ra4ga24w4-g005020-ga2a2303-rdc0000-rabe7832-we0e0e0/sett.png)|
+| [Connacht #2](/setts/s8/r1ra1g6ra15ga2ra1ga6w1~g005020-ga2a2303-rdc0000-rabe7832-we0e0e0~x4/)|
+|![Connacht #2 example sett](/setts/s8/r1ra1g6ra15ga2ra1ga6w1~g005020-ga2a2303-rdc0000-rabe7832-we0e0e0~x4/sett.png)|

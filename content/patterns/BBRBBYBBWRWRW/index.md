@@ -16,5 +16,5 @@ BBRBBYBBWRWRW
 
 | Tartans |
 |---------------|
-| [Unidentified, Gordon variant](/setts/s13/b8ba4r16ba16bb18y4bb18ba16w8ra8w24ra4w8-b401000-ba304080-bb000050-r806050-ra906030-we0e0e0-yff8500/)|
-|![Unidentified, Gordon variant example sett](/setts/s13/b8ba4r16ba16bb18y4bb18ba16w8ra8w24ra4w8-b401000-ba304080-bb000050-r806050-ra906030-we0e0e0-yff8500/sett.png)|
+| [Unidentified, Gordon variant](/setts/s13/b4ba2r8ba8bb9y2bb9ba8w4ra4w12ra2w4~b401000-ba304080-bb000050-r806050-ra906030-we0e0e0-yff8500~x2/)|
+|![Unidentified, Gordon variant example sett](/setts/s13/b4ba2r8ba8bb9y2bb9ba8w4ra4w12ra2w4~b401000-ba304080-bb000050-r806050-ra906030-we0e0e0-yff8500~x2/sett.png)|

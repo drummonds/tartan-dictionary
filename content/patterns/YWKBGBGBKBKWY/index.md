@@ -16,5 +16,5 @@ YWKBGBGBKBKWY
 
 | Tartans |
 |---------------|
-| [Cahaba Memorial](/setts/s13/y4w6k2b18k2ba12g2ba6g2ba38k4w14y2-b0000cd-ba778899-g008b00-k101010-wffffff-yffa500/)|
-|![Cahaba Memorial example sett](/setts/s13/y4w6k2b18k2ba12g2ba6g2ba38k4w14y2-b0000cd-ba778899-g008b00-k101010-wffffff-yffa500/sett.png)|
+| [Cahaba Memorial](/setts/s13/y2w3k1b9k1ba6g1ba3g1ba19k2w7y1~b0000cd-ba778899-g008b00-k101010-wffffff-yffa500~x2/)|
+|![Cahaba Memorial example sett](/setts/s13/y2w3k1b9k1ba6g1ba3g1ba19k2w7y1~b0000cd-ba778899-g008b00-k101010-wffffff-yffa500~x2/sett.png)|

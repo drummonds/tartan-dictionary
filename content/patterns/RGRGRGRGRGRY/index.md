@@ -16,5 +16,5 @@ RGRGRGRGRGRY
 
 | Tartans |
 |---------------|
-| [Wolfe](/setts/s12/r72g8r26g26r8g8r8g26r26g8r72y8-g00643c-re86000-ydc943c/)|
-|![Wolfe example sett](/setts/s12/r72g8r26g26r8g8r8g26r26g8r72y8-g00643c-re86000-ydc943c/sett.png)|
+| [Wolfe](/setts/s12/r36g4r13g13r4g4r4g13r13g4r36y4~g00643c-re86000-ydc943c~x2/)|
+|![Wolfe example sett](/setts/s12/r36g4r13g13r4g4r4g13r13g4r36y4~g00643c-re86000-ydc943c~x2/sett.png)|

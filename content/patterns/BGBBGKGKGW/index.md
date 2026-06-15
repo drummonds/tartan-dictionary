@@ -16,5 +16,5 @@ BGBBGKGKGW
 
 | Tartans |
 |---------------|
-| [O'Connell, William (Name)](/setts/s10/b38g14b14ba4g40k18g12k8g20w6-b2c2c80-ba2888c4-g006818-k101010-we0e0e0/)|
-|![O'Connell, William (Name) example sett](/setts/s10/b38g14b14ba4g40k18g12k8g20w6-b2c2c80-ba2888c4-g006818-k101010-we0e0e0/sett.png)|
+| [O'Connell, William (Name)](/setts/s10/b19g7b7ba2g20k9g6k4g10w3~b2c2c80-ba2888c4-g006818-k101010-we0e0e0~x2/)|
+|![O'Connell, William (Name) example sett](/setts/s10/b19g7b7ba2g20k9g6k4g10w3~b2c2c80-ba2888c4-g006818-k101010-we0e0e0~x2/sett.png)|

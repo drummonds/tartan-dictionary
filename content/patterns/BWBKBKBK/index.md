@@ -6,7 +6,7 @@ BWBKBKBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k40b4k12b4k8b54w4b16-b2c2c80-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s8/k20b2k6b2k4b27w2b8~b2c2c80-k101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWBKBKBK
 
 | Tartans |
 |---------------|
-| [Pride of Kinross](/setts/s8/k40b4k12b4k8b54w4b16-b2c2c80-k101010-wffffff/)|
-|![Pride of Kinross example sett](/setts/s8/k40b4k12b4k8b54w4b16-b2c2c80-k101010-wffffff/sett.png)|
-| [Pride of Kinross](/setts/s8/k40b4k12b4k8b54w4b16-b2c2c80-k101010-wfcfcfc/)|
-|![Pride of Kinross example sett](/setts/s8/k40b4k12b4k8b54w4b16-b2c2c80-k101010-wfcfcfc/sett.png)|
+| [Pride of Kinross](/setts/s8/k20b2k6b2k4b27w2b8~b2c2c80-k101010-wffffff~x2/)|
+|![Pride of Kinross example sett](/setts/s8/k20b2k6b2k4b27w2b8~b2c2c80-k101010-wffffff~x2/sett.png)|
+| [Pride of Kinross](/setts/s8/k20b2k6b2k4b27w2b8~b2c2c80-k101010-wfcfcfc~x2/)|
+|![Pride of Kinross example sett](/setts/s8/k20b2k6b2k4b27w2b8~b2c2c80-k101010-wfcfcfc~x2/sett.png)|

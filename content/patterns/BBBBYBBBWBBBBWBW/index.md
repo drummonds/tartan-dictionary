@@ -16,5 +16,5 @@ BBBBYBBBWBBBBWBW
 
 | Tartans |
 |---------------|
-| [Henbury](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12-b440044-ba14283c-wf8f8f8-yc4bc68/)|
-|![Henbury example sett](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12-b440044-ba14283c-wf8f8f8-yc4bc68/sett.png)|
+| [Henbury](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12~b440044-ba14283c-wf8f8f8-yc4bc68/)|
+|![Henbury example sett](/setts/s16/b50ba75b75ba12y12b75ba75b50w12ba12b75ba75b50w12ba12w12~b440044-ba14283c-wf8f8f8-yc4bc68/sett.png)|

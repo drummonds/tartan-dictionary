@@ -16,5 +16,5 @@ RBKBYKGRGW
 
 | Tartans |
 |---------------|
-| [Loch Freuchie (District)](/setts/s10/r6b6k4b36y4k50g40r4g6w6-b003c64-g006818-k101010-rc80000-w98c8e8-yfccc00/)|
-|![Loch Freuchie (District) example sett](/setts/s10/r6b6k4b36y4k50g40r4g6w6-b003c64-g006818-k101010-rc80000-w98c8e8-yfccc00/sett.png)|
+| [Loch Freuchie (District)](/setts/s10/r3b3k2b18y2k25g20r2g3w3~b003c64-g006818-k101010-rc80000-w98c8e8-yfccc00~x2/)|
+|![Loch Freuchie (District) example sett](/setts/s10/r3b3k2b18y2k25g20r2g3w3~b003c64-g006818-k101010-rc80000-w98c8e8-yfccc00~x2/sett.png)|

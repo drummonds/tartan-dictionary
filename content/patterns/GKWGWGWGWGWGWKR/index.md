@@ -16,5 +16,5 @@ GKWGWGWGWGWGWKR
 
 | Tartans |
 |---------------|
-| [Alliance of Border Scots (Corporate)](/setts/s15/g8k48w8ga8w8ga8w8ga8w8ga8w8ga8w8k48r8-g006818-ga64340c-k000000-r9c8000-we0e0e0/)|
-|![Alliance of Border Scots (Corporate) example sett](/setts/s15/g8k48w8ga8w8ga8w8ga8w8ga8w8ga8w8k48r8-g006818-ga64340c-k000000-r9c8000-we0e0e0/sett.png)|
+| [Alliance of Border Scots (Corporate)](/setts/s15/g1k6w1ga1w1ga1w1ga1w1ga1w1ga1w1k6r1~g006818-ga64340c-k000000-r9c8000-we0e0e0~x8/)|
+|![Alliance of Border Scots (Corporate) example sett](/setts/s15/g1k6w1ga1w1ga1w1ga1w1ga1w1ga1w1k6r1~g006818-ga64340c-k000000-r9c8000-we0e0e0~x8/sett.png)|

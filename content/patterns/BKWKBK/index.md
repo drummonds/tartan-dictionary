@@ -6,7 +6,7 @@ BKWKBK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/tartan.png)
+![Woven sample](/setts/s6/b1k4w1k4ba7k1~b9058d8-ba1c0070-k101010-wa8ace8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKWKBK
 
 | Tartans |
 |---------------|
-| [Scottish Express International](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/)|
-|![Scottish Express International example sett](/setts/s6/b4k16w4k16ba28k4-b9058d8-ba1c0070-k101010-wa8ace8/sett.png)|
+| [Scottish Express International](/setts/s6/b1k4w1k4ba7k1~b9058d8-ba1c0070-k101010-wa8ace8~x4/)|
+|![Scottish Express International example sett](/setts/s6/b1k4w1k4ba7k1~b9058d8-ba1c0070-k101010-wa8ace8~x4/sett.png)|

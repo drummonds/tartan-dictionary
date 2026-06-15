@@ -16,5 +16,5 @@ KRKRKRKRKRKRBKY
 
 | Tartans |
 |---------------|
-| [Citymoves (2012) (Corporate)](/setts/s15/k24r2k4r4k4r6k4r8k4r4k4r2b72k32y6-b202060-k00002c-rc80000-yfccc00/)|
-|![Citymoves (2012) (Corporate) example sett](/setts/s15/k24r2k4r4k4r6k4r8k4r4k4r2b72k32y6-b202060-k00002c-rc80000-yfccc00/sett.png)|
+| [Citymoves (2012) (Corporate)](/setts/s15/k12r1k2r2k2r3k2r4k2r2k2r1b36k16y3~b202060-k00002c-rc80000-yfccc00~x2/)|
+|![Citymoves (2012) (Corporate) example sett](/setts/s15/k12r1k2r2k2r3k2r4k2r2k2r1b36k16y3~b202060-k00002c-rc80000-yfccc00~x2/sett.png)|

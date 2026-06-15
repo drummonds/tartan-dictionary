@@ -16,5 +16,5 @@ RBRBRGRBRGRGRBR
 
 | Tartans |
 |---------------|
-| [Grant of Ballindalloch (Personal)](/setts/s15/r20b12r12g64r12g12r12b20r12ga20r48b20r12b12r20-b2c2c80-g006818-ga789484-rc80000/)|
-|![Grant of Ballindalloch (Personal) example sett](/setts/s15/r20b12r12g64r12g12r12b20r12ga20r48b20r12b12r20-b2c2c80-g006818-ga789484-rc80000/sett.png)|
+| [Grant of Ballindalloch (Personal)](/setts/s15/r5b3r3g16r3g3r3b5r3ga5r12b5r3b3r5~b2c2c80-g006818-ga789484-rc80000~x4/)|
+|![Grant of Ballindalloch (Personal) example sett](/setts/s15/r5b3r3g16r3g3r3b5r3ga5r12b5r3b3r5~b2c2c80-g006818-ga789484-rc80000~x4/sett.png)|

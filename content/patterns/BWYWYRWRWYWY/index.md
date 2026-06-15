@@ -16,5 +16,5 @@ BWYWYRWRWYWY
 
 | Tartans |
 |---------------|
-| [Kinloch Anderson, Romance of](/setts/s12/b6w22y4w6y4r10w5r10wa22ya4wa6ya6-ba000f0-rc464fa-wc49cd8-wa98d0f0-ye1afaf-ya30c819/)|
-|![Kinloch Anderson, Romance of example sett](/setts/s12/b6w22y4w6y4r10w5r10wa22ya4wa6ya6-ba000f0-rc464fa-wc49cd8-wa98d0f0-ye1afaf-ya30c819/sett.png)|
+| [Kinloch Anderson, Romance of](/setts/s12/b6w22y4w6y4r10w5r10wa22ya4wa6ya6~ba000f0-rc464fa-wc49cd8-wa98d0f0-ye1afaf-ya30c819/)|
+|![Kinloch Anderson, Romance of example sett](/setts/s12/b6w22y4w6y4r10w5r10wa22ya4wa6ya6~ba000f0-rc464fa-wc49cd8-wa98d0f0-ye1afaf-ya30c819/sett.png)|

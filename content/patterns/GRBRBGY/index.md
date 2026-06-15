@@ -6,7 +6,7 @@ GRBRBGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g16r72b64ra32b64ga16y16-b2c4084-g808080-ga005020-rdc0000-ra781c38-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g2r9b8ra4b8ga2y2~b2c4084-g808080-ga005020-rdc0000-ra781c38-ye8c000~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRBRBGY
 
 | Tartans |
 |---------------|
-| [Feis An Eilein](/setts/s7/g16r72b64ra32b64ga16y16-b2c4084-g808080-ga005020-rdc0000-ra781c38-ye8c000/)|
-|![Feis An Eilein example sett](/setts/s7/g16r72b64ra32b64ga16y16-b2c4084-g808080-ga005020-rdc0000-ra781c38-ye8c000/sett.png)|
+| [Feis An Eilein](/setts/s7/g2r9b8ra4b8ga2y2~b2c4084-g808080-ga005020-rdc0000-ra781c38-ye8c000~x8/)|
+|![Feis An Eilein example sett](/setts/s7/g2r9b8ra4b8ga2y2~b2c4084-g808080-ga005020-rdc0000-ra781c38-ye8c000~x8/sett.png)|

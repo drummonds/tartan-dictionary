@@ -16,5 +16,5 @@ WGBGRBWBYY
 
 | Tartans |
 |---------------|
-| [State Seal of California (Fashion)](/setts/s10/y58ya6b38w6b6r6g34b6g8w6-b1474b4-g006818-rc80000-we8ccb8-ya08858-yafccc00/)|
-|![State Seal of California (Fashion) example sett](/setts/s10/y58ya6b38w6b6r6g34b6g8w6-b1474b4-g006818-rc80000-we8ccb8-ya08858-yafccc00/sett.png)|
+| [State Seal of California (Fashion)](/setts/s10/y29ya3b19w3b3r3g17b3g4w3~b1474b4-g006818-rc80000-we8ccb8-ya08858-yafccc00~x2/)|
+|![State Seal of California (Fashion) example sett](/setts/s10/y29ya3b19w3b3r3g17b3g4w3~b1474b4-g006818-rc80000-we8ccb8-ya08858-yafccc00~x2/sett.png)|

@@ -16,7 +16,7 @@ BRBRBRBRBRWRBRBRWRGRGRGRG
 
 | Tartans |
 |---------------|
-| [Lumsden of Clova](/setts/s25/b18r4b18r18b2r2b4r2b2r18w2r8b22r4b22r8w2r18g4r8g4r18g18r4g18-b780078-g285800-rc80000-wfcfcfc/)|
-|![Lumsden of Clova example sett](/setts/s25/b18r4b18r18b2r2b4r2b2r18w2r8b22r4b22r8w2r18g4r8g4r18g18r4g18-b780078-g285800-rc80000-wfcfcfc/sett.png)|
-| [Lumsden of Clova (Clan?)](/setts/s25/b18r4b18r18b2r2b4r2b2r18w2r8b22r4b22r8w2r18g4r8g4r18g18r4g18-b780078-g285800-rc80000-we0e0e0/)|
-|![Lumsden of Clova (Clan?) example sett](/setts/s25/b18r4b18r18b2r2b4r2b2r18w2r8b22r4b22r8w2r18g4r8g4r18g18r4g18-b780078-g285800-rc80000-we0e0e0/sett.png)|
+| [Lumsden of Clova](/setts/s25/b9r2b9r9b1r1b2r1b1r9w1r4b11r2b11r4w1r9g2r4g2r9g9r2g9~b780078-g285800-rc80000-wfcfcfc~x2/)|
+|![Lumsden of Clova example sett](/setts/s25/b9r2b9r9b1r1b2r1b1r9w1r4b11r2b11r4w1r9g2r4g2r9g9r2g9~b780078-g285800-rc80000-wfcfcfc~x2/sett.png)|
+| [Lumsden of Clova (Clan?)](/setts/s25/b9r2b9r9b1r1b2r1b1r9w1r4b11r2b11r4w1r9g2r4g2r9g9r2g9~b780078-g285800-rc80000-we0e0e0~x2/)|
+|![Lumsden of Clova (Clan?) example sett](/setts/s25/b9r2b9r9b1r1b2r1b1r9w1r4b11r2b11r4w1r9g2r4g2r9g9r2g9~b780078-g285800-rc80000-we0e0e0~x2/sett.png)|

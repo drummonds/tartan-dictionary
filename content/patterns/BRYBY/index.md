@@ -6,7 +6,7 @@ BRYBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b50r5y5ba15y10-b0000cd-ba000080-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s5/b10r1y1ba3y2~b0000cd-ba000080-rff0000-yffe600~x5/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRYBY
 
 | Tartans |
 |---------------|
-| [Lytley alias Parsons Hunting (Personal)](/setts/s5/b50r5y5ba15y10-b0000cd-ba000080-rff0000-yffe600/)|
-|![Lytley alias Parsons Hunting (Personal) example sett](/setts/s5/b50r5y5ba15y10-b0000cd-ba000080-rff0000-yffe600/sett.png)|
-| [Lytley Hunting (Personal)](/setts/s5/b50r5y5ba15y10-b2c2c80-ba202060-rc80000-yfccc00/)|
-|![Lytley Hunting (Personal) example sett](/setts/s5/b50r5y5ba15y10-b2c2c80-ba202060-rc80000-yfccc00/sett.png)|
+| [Lytley alias Parsons Hunting (Personal)](/setts/s5/b10r1y1ba3y2~b0000cd-ba000080-rff0000-yffe600~x5/)|
+|![Lytley alias Parsons Hunting (Personal) example sett](/setts/s5/b10r1y1ba3y2~b0000cd-ba000080-rff0000-yffe600~x5/sett.png)|
+| [Lytley Hunting (Personal)](/setts/s5/b10r1y1ba3y2~b2c2c80-ba202060-rc80000-yfccc00~x5/)|
+|![Lytley Hunting (Personal) example sett](/setts/s5/b10r1y1ba3y2~b2c2c80-ba202060-rc80000-yfccc00~x5/sett.png)|

@@ -16,5 +16,5 @@ KBKBKBKWKBK
 
 | Tartans |
 |---------------|
-| [Scottish Jewish Community](/setts/s11/k28b6k6w8k6b6k28ba8k8ba60k8-b3c82af-ba2c4084-k101010-we0e0e0/)|
-|![Scottish Jewish Community example sett](/setts/s11/k28b6k6w8k6b6k28ba8k8ba60k8-b3c82af-ba2c4084-k101010-we0e0e0/sett.png)|
+| [Scottish Jewish Community](/setts/s11/k14b3k3w4k3b3k14ba4k4ba30k4~b3c82af-ba2c4084-k101010-we0e0e0~x2/)|
+|![Scottish Jewish Community example sett](/setts/s11/k14b3k3w4k3b3k14ba4k4ba30k4~b3c82af-ba2c4084-k101010-we0e0e0~x2/sett.png)|

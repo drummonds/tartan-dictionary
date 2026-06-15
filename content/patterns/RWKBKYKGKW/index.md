@@ -16,5 +16,5 @@ RWKBKYKGKW
 
 | Tartans |
 |---------------|
-| [Fermanagh County Crest (Fashion)](/setts/s10/r8w12k20b10k6y32k6g66k2w8-b2c2c80-g006818-k101010-r880000-we0e0e0-ybc8c00/)|
-|![Fermanagh County Crest (Fashion) example sett](/setts/s10/r8w12k20b10k6y32k6g66k2w8-b2c2c80-g006818-k101010-r880000-we0e0e0-ybc8c00/sett.png)|
+| [Fermanagh County Crest (Fashion)](/setts/s10/r4w6k10b5k3y16k3g33k1w4~b2c2c80-g006818-k101010-r880000-we0e0e0-ybc8c00~x2/)|
+|![Fermanagh County Crest (Fashion) example sett](/setts/s10/r4w6k10b5k3y16k3g33k1w4~b2c2c80-g006818-k101010-r880000-we0e0e0-ybc8c00~x2/sett.png)|

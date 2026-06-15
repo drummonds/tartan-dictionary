@@ -16,5 +16,5 @@ KBKWKYYWRYK
 
 | Tartans |
 |---------------|
-| [State Seal of Georgia (Fashion)](/setts/s11/k20b26k6w14k2y40ya6w26r10y94k6-b2c2c80-k101010-rc80000-w98c8e8-ya08858-yabc8c00/)|
-|![State Seal of Georgia (Fashion) example sett](/setts/s11/k20b26k6w14k2y40ya6w26r10y94k6-b2c2c80-k101010-rc80000-w98c8e8-ya08858-yabc8c00/sett.png)|
+| [State Seal of Georgia (Fashion)](/setts/s11/k10b13k3w7k1y20ya3w13r5y47k3~b2c2c80-k101010-rc80000-w98c8e8-ya08858-yabc8c00~x2/)|
+|![State Seal of Georgia (Fashion) example sett](/setts/s11/k10b13k3w7k1y20ya3w13r5y47k3~b2c2c80-k101010-rc80000-w98c8e8-ya08858-yabc8c00~x2/sett.png)|

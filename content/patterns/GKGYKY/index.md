@@ -6,7 +6,7 @@ GKGYKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g16k16g16y12k6y12-g23321b-k1c1714-yf8e38c/tartan.png)
+![Woven sample](/setts/s6/g8k8g8y6k3y6~g23321b-k1c1714-yf8e38c~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKGYKY
 
 | Tartans |
 |---------------|
-| [Hage-West (Personal)](/setts/s6/g16k16g16y12k6y12-g23321b-k1c1714-yf8e38c/)|
-|![Hage-West (Personal) example sett](/setts/s6/g16k16g16y12k6y12-g23321b-k1c1714-yf8e38c/sett.png)|
-| [Hage-West (Personal)](/setts/s6/g16k16g16y12k6y12-g003820-k101010-ye8c000/)|
-|![Hage-West (Personal) example sett](/setts/s6/g16k16g16y12k6y12-g003820-k101010-ye8c000/sett.png)|
+| [Hage-West (Personal)](/setts/s6/g8k8g8y6k3y6~g23321b-k1c1714-yf8e38c~x2/)|
+|![Hage-West (Personal) example sett](/setts/s6/g8k8g8y6k3y6~g23321b-k1c1714-yf8e38c~x2/sett.png)|
+| [Hage-West (Personal)](/setts/s6/g8k8g8y6k3y6~g003820-k101010-ye8c000~x2/)|
+|![Hage-West (Personal) example sett](/setts/s6/g8k8g8y6k3y6~g003820-k101010-ye8c000~x2/sett.png)|

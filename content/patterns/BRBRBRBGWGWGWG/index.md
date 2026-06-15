@@ -16,5 +16,5 @@ BRBRBRBGWGWGWG
 
 | Tartans |
 |---------------|
-| [Lochaber (Scrapbook)](/setts/s14/b20r4b12r24b4r12b4g20w4g12w24g4w12g2-b4c3428-g603800-r888888-wf0d8bc/)|
-|![Lochaber (Scrapbook) example sett](/setts/s14/b20r4b12r24b4r12b4g20w4g12w24g4w12g2-b4c3428-g603800-r888888-wf0d8bc/sett.png)|
+| [Lochaber (Scrapbook)](/setts/s14/b10r2b6r12b2r6b2g10w2g6w12g2w6g1~b4c3428-g603800-r888888-wf0d8bc~x2/)|
+|![Lochaber (Scrapbook) example sett](/setts/s14/b10r2b6r12b2r6b2g10w2g6w12g2w6g1~b4c3428-g603800-r888888-wf0d8bc~x2/sett.png)|

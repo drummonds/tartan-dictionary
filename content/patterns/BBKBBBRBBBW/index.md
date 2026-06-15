@@ -16,5 +16,5 @@ BBKBBBRBBBW
 
 | Tartans |
 |---------------|
-| [Scottish American](/setts/s11/b100ba6k6b22ba16b4r12b4bb16b4w8-b202060-ba440044-bb2c2c80-k101010-rc80000-wf8f8f8/)|
-|![Scottish American example sett](/setts/s11/b100ba6k6b22ba16b4r12b4bb16b4w8-b202060-ba440044-bb2c2c80-k101010-rc80000-wf8f8f8/sett.png)|
+| [Scottish American](/setts/s11/b50ba3k3b11ba8b2r6b2bb8b2w4~b202060-ba440044-bb2c2c80-k101010-rc80000-wf8f8f8~x2/)|
+|![Scottish American example sett](/setts/s11/b50ba3k3b11ba8b2r6b2bb8b2w4~b202060-ba440044-bb2c2c80-k101010-rc80000-wf8f8f8~x2/sett.png)|

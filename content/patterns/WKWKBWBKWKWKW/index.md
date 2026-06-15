@@ -16,5 +16,5 @@ WKWKBWBKWKWKW
 
 | Tartans |
 |---------------|
-| [Poulter, Grey (Corporate)](/setts/s13/w50k8w8k8w8k46b46w8b46k46w46k8w8-b5c5c5c-k101010-we0e0e0/)|
-|![Poulter, Grey (Corporate) example sett](/setts/s13/w50k8w8k8w8k46b46w8b46k46w46k8w8-b5c5c5c-k101010-we0e0e0/sett.png)|
+| [Poulter, Grey (Corporate)](/setts/s13/w25k4w4k4w4k23b23w4b23k23w23k4w4~b5c5c5c-k101010-we0e0e0~x2/)|
+|![Poulter, Grey (Corporate) example sett](/setts/s13/w25k4w4k4w4k23b23w4b23k23w23k4w4~b5c5c5c-k101010-we0e0e0~x2/sett.png)|

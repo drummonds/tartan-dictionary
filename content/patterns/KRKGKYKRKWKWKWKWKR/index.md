@@ -16,5 +16,5 @@ KRKGKYKRKWKWKWKWKR
 
 | Tartans |
 |---------------|
-| [Canadian Dental Association](/setts/s18/r16k6w30k2wa6k2w16k2wa6k2r38k4y4k4g4k4r4k4-g3aa215-k101010-rcc1100-wc2c2c2-waffffff-yf0a804/)|
-|![Canadian Dental Association example sett](/setts/s18/r16k6w30k2wa6k2w16k2wa6k2r38k4y4k4g4k4r4k4-g3aa215-k101010-rcc1100-wc2c2c2-waffffff-yf0a804/sett.png)|
+| [Canadian Dental Association](/setts/s18/r8k3w15k1wa3k1w8k1wa3k1r19k2y2k2g2k2r2k2~g3aa215-k101010-rcc1100-wc2c2c2-waffffff-yf0a804~x2/)|
+|![Canadian Dental Association example sett](/setts/s18/r8k3w15k1wa3k1w8k1wa3k1r19k2y2k2g2k2r2k2~g3aa215-k101010-rcc1100-wc2c2c2-waffffff-yf0a804~x2/sett.png)|

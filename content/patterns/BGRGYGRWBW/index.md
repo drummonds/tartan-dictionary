@@ -16,5 +16,5 @@ BGRGYGRWBW
 
 | Tartans |
 |---------------|
-| [Confederate Memorial](/setts/s10/b24g8r8g8y4g96r32w2ba8w6-b3090c0-ba304080-g808080-rd03030-we0e0e0-yffe000/)|
-|![Confederate Memorial example sett](/setts/s10/b24g8r8g8y4g96r32w2ba8w6-b3090c0-ba304080-g808080-rd03030-we0e0e0-yffe000/sett.png)|
+| [Confederate Memorial](/setts/s10/b12g4r4g4y2g48r16w1ba4w3~b3090c0-ba304080-g808080-rd03030-we0e0e0-yffe000~x2/)|
+|![Confederate Memorial example sett](/setts/s10/b12g4r4g4y2g48r16w1ba4w3~b3090c0-ba304080-g808080-rd03030-we0e0e0-yffe000~x2/sett.png)|

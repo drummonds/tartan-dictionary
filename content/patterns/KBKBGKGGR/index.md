@@ -16,5 +16,5 @@ KBKBGKGGR
 
 | Tartans |
 |---------------|
-| [Pro Simon](/setts/s9/k4b4k4b34g20k4g4ga26r4-b2c4084-g005020-ga146400-k000000-re86000/)|
-|![Pro Simon example sett](/setts/s9/k4b4k4b34g20k4g4ga26r4-b2c4084-g005020-ga146400-k000000-re86000/sett.png)|
+| [Pro Simon](/setts/s9/k2b2k2b17g10k2g2ga13r2~b2c4084-g005020-ga146400-k000000-re86000~x2/)|
+|![Pro Simon example sett](/setts/s9/k2b2k2b17g10k2g2ga13r2~b2c4084-g005020-ga146400-k000000-re86000~x2/sett.png)|

@@ -6,7 +6,7 @@ KBKBBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k84b4k4b34ba16y8-b5c5c5c-ba00008c-k141414-yc88c00/tartan.png)
+![Woven sample](/setts/s6/k42b2k2b17ba8y4~b5c5c5c-ba00008c-k141414-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKBBY
 
 | Tartans |
 |---------------|
-| [Connecticut State Police Pipe Band](/setts/s6/k84b4k4b34ba16y8-b5c5c5c-ba00008c-k141414-yc88c00/)|
-|![Connecticut State Police Pipe Band example sett](/setts/s6/k84b4k4b34ba16y8-b5c5c5c-ba00008c-k141414-yc88c00/sett.png)|
+| [Connecticut State Police Pipe Band](/setts/s6/k42b2k2b17ba8y4~b5c5c5c-ba00008c-k141414-yc88c00~x2/)|
+|![Connecticut State Police Pipe Band example sett](/setts/s6/k42b2k2b17ba8y4~b5c5c5c-ba00008c-k141414-yc88c00~x2/sett.png)|

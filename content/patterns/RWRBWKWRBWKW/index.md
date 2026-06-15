@@ -16,7 +16,7 @@ RWRBWKWRBWKW
 
 | Tartans |
 |---------------|
-| [Westgaard of Kileughterco (Personal)](/setts/s12/r30w14r20b14w6k6w6r16b10w6k6w6-b1c0070-k101010-rc80000-wf8f8f8/)|
-|![Westgaard of Kileughterco (Personal) example sett](/setts/s12/r30w14r20b14w6k6w6r16b10w6k6w6-b1c0070-k101010-rc80000-wf8f8f8/sett.png)|
-| [Westgaard Ladies' (Personal)](/setts/s12/r18w8r12b8w4k4w4r10b6w4k4w4-b3474fc-k000000-r8c0000-wc8c8c8/)|
-|![Westgaard Ladies' (Personal) example sett](/setts/s12/r18w8r12b8w4k4w4r10b6w4k4w4-b3474fc-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Westgaard of Kileughterco (Personal)](/setts/s12/r15w7r10b7w3k3w3r8b5w3k3w3~b1c0070-k101010-rc80000-wf8f8f8~x2/)|
+|![Westgaard of Kileughterco (Personal) example sett](/setts/s12/r15w7r10b7w3k3w3r8b5w3k3w3~b1c0070-k101010-rc80000-wf8f8f8~x2/sett.png)|
+| [Westgaard Ladies' (Personal)](/setts/s12/r9w4r6b4w2k2w2r5b3w2k2w2~b3474fc-k000000-r8c0000-wc8c8c8~x2/)|
+|![Westgaard Ladies' (Personal) example sett](/setts/s12/r9w4r6b4w2k2w2r5b3w2k2w2~b3474fc-k000000-r8c0000-wc8c8c8~x2/sett.png)|

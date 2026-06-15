@@ -6,7 +6,7 @@ WKBRKGKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/w1k6b9r12k12g32k6y1~b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKBRKGKY
 
 | Tartans |
 |---------------|
-| [McGeachie (Personal)](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![McGeachie (Personal) example sett](/setts/s8/w2k12b18r24k24g64k12y2-b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [McGeachie (Personal)](/setts/s8/w1k6b9r12k12g32k6y1~b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![McGeachie (Personal) example sett](/setts/s8/w1k6b9r12k12g32k6y1~b3850c8-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

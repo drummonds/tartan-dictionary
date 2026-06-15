@@ -16,5 +16,5 @@ GBGWBWKGR
 
 | Tartans |
 |---------------|
-| [Vorwerk, The](/setts/s9/g40b8g8w8ba5w13k9g40r4-b2c2c80-ba202060-g006818-k101010-rc80000-wc49cd8/)|
-|![Vorwerk, The example sett](/setts/s9/g40b8g8w8ba5w13k9g40r4-b2c2c80-ba202060-g006818-k101010-rc80000-wc49cd8/sett.png)|
+| [Vorwerk, The](/setts/s9/g40b8g8w8ba5w13k9g40r4~b2c2c80-ba202060-g006818-k101010-rc80000-wc49cd8/)|
+|![Vorwerk, The example sett](/setts/s9/g40b8g8w8ba5w13k9g40r4~b2c2c80-ba202060-g006818-k101010-rc80000-wc49cd8/sett.png)|

@@ -16,5 +16,5 @@ BRBBYBWBYBBRBR
 
 | Tartans |
 |---------------|
-| [Gretna Gold](/setts/s14/b4r4b56ba76y4ba4w6ba4y4ba76b56r4b4ra4-b202060-ba6c0070-rb468ac-rac80000-we0e0e0-ybc8c00/)|
-|![Gretna Gold example sett](/setts/s14/b4r4b56ba76y4ba4w6ba4y4ba76b56r4b4ra4-b202060-ba6c0070-rb468ac-rac80000-we0e0e0-ybc8c00/sett.png)|
+| [Gretna Gold](/setts/s14/b2r2b28ba38y2ba2w3ba2y2ba38b28r2b2ra2~b202060-ba6c0070-rb468ac-rac80000-we0e0e0-ybc8c00~x2/)|
+|![Gretna Gold example sett](/setts/s14/b2r2b28ba38y2ba2w3ba2y2ba38b28r2b2ra2~b202060-ba6c0070-rb468ac-rac80000-we0e0e0-ybc8c00~x2/sett.png)|

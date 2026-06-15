@@ -6,7 +6,7 @@ BKBBWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8w48ba8b24k24b8-b3474fc-ba00008c-k000000-wc8c8c8/tartan.png)
+![Woven sample](/setts/s6/b1w6ba1b3k3b1~b3474fc-ba00008c-k000000-wc8c8c8~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBBWB
 
 | Tartans |
 |---------------|
-| [Thompson (Dance)](/setts/s6/b8w48ba8b24k24b8-b3474fc-ba00008c-k000000-wc8c8c8/)|
-|![Thompson (Dance) example sett](/setts/s6/b8w48ba8b24k24b8-b3474fc-ba00008c-k000000-wc8c8c8/sett.png)|
+| [Thompson (Dance)](/setts/s6/b1w6ba1b3k3b1~b3474fc-ba00008c-k000000-wc8c8c8~x8/)|
+|![Thompson (Dance) example sett](/setts/s6/b1w6ba1b3k3b1~b3474fc-ba00008c-k000000-wc8c8c8~x8/sett.png)|

@@ -6,7 +6,7 @@ BGBGWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/b2g13b11ga4w9b2~b1474b4-g006818-ga789484-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGWB
 
 | Tartans |
 |---------------|
-| [Loch Leven](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/)|
-|![Loch Leven example sett](/setts/s6/b4g26b22ga8w18b4-b1474b4-g006818-ga789484-wfcfcfc/sett.png)|
+| [Loch Leven](/setts/s6/b2g13b11ga4w9b2~b1474b4-g006818-ga789484-wfcfcfc~x2/)|
+|![Loch Leven example sett](/setts/s6/b2g13b11ga4w9b2~b1474b4-g006818-ga789484-wfcfcfc~x2/sett.png)|

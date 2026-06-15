@@ -16,5 +16,5 @@ WGBYBYBYBGWGBYBYBY
 
 | Tartans |
 |---------------|
-| [Lamont Heather](/setts/s18/y36b6y6b6y6b32g32w6g32b32y34b6y6b6y34b32g32w6-b4c3428-g5c6428-we0e0e0-ya08858/)|
-|![Lamont Heather example sett](/setts/s18/y36b6y6b6y6b32g32w6g32b32y34b6y6b6y34b32g32w6-b4c3428-g5c6428-we0e0e0-ya08858/sett.png)|
+| [Lamont Heather](/setts/s18/y18b3y3b3y3b16g16w3g16b16y17b3y3b3y17b16g16w3~b4c3428-g5c6428-we0e0e0-ya08858~x2/)|
+|![Lamont Heather example sett](/setts/s18/y18b3y3b3y3b16g16w3g16b16y17b3y3b3y17b16g16w3~b4c3428-g5c6428-we0e0e0-ya08858~x2/sett.png)|

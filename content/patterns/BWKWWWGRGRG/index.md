@@ -16,5 +16,5 @@ BWKWWWGRGRG
 
 | Tartans |
 |---------------|
-| [DunBroch (Corporate)](/setts/s11/b8w16k4w10wa4w10g16r14g4r14g6-b202060-g003820-k101010-r880000-w98c8e8-wac0c0c0/)|
-|![DunBroch (Corporate) example sett](/setts/s11/b8w16k4w10wa4w10g16r14g4r14g6-b202060-g003820-k101010-r880000-w98c8e8-wac0c0c0/sett.png)|
+| [DunBroch (Corporate)](/setts/s11/b4w8k2w5wa2w5g8r7g2r7g3~b202060-g003820-k101010-r880000-w98c8e8-wac0c0c0~x2/)|
+|![DunBroch (Corporate) example sett](/setts/s11/b4w8k2w5wa2w5g8r7g2r7g3~b202060-g003820-k101010-r880000-w98c8e8-wac0c0c0~x2/sett.png)|

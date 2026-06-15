@@ -16,9 +16,9 @@ KBKBGWKRY
 
 | Tartans |
 |---------------|
-| [Teall of Teallach](/setts/s9/k4b12k2ba14g26w2k22r28y4-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Teall of Teallach example sett](/setts/s9/k4b12k2ba14g26w2k22r28y4-b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Teall of Teallach (Personal)](/setts/s9/k4b12k2ba14g26w2k22r28y4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Teall of Teallach (Personal) example sett](/setts/s9/k4b12k2ba14g26w2k22r28y4-b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
-| [Teall, of Teallach](/setts/s9/k4b12k2ba14g26w2k22r28y4-b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Teall, of Teallach example sett](/setts/s9/k4b12k2ba14g26w2k22r28y4-b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Teall of Teallach](/setts/s9/k2b6k1ba7g13w1k11r14y2~b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Teall of Teallach example sett](/setts/s9/k2b6k1ba7g13w1k11r14y2~b3c82af-ba2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [Teall of Teallach (Personal)](/setts/s9/k2b6k1ba7g13w1k11r14y2~b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Teall of Teallach (Personal) example sett](/setts/s9/k2b6k1ba7g13w1k11r14y2~b5c8ca8-ba2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|
+| [Teall, of Teallach](/setts/s9/k2b6k1ba7g13w1k11r14y2~b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Teall, of Teallach example sett](/setts/s9/k2b6k1ba7g13w1k11r14y2~b5480b0-ba304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

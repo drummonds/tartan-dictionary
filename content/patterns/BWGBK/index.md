@@ -6,7 +6,7 @@ BWGBK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b38w4g24ba6k8-b800080-ba5480b0-g008000-k000000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/b19w2g12ba3k4~b800080-ba5480b0-g008000-k000000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWGBK
 
 | Tartans |
 |---------------|
-| [Wilson's, No 111](/setts/s5/b38w4g24ba6k8-b800080-ba5480b0-g008000-k000000-we0e0e0/)|
-|![Wilson's, No 111 example sett](/setts/s5/b38w4g24ba6k8-b800080-ba5480b0-g008000-k000000-we0e0e0/sett.png)|
+| [Wilson's, No 111](/setts/s5/b19w2g12ba3k4~b800080-ba5480b0-g008000-k000000-we0e0e0~x2/)|
+|![Wilson's, No 111 example sett](/setts/s5/b19w2g12ba3k4~b800080-ba5480b0-g008000-k000000-we0e0e0~x2/sett.png)|

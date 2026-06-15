@@ -16,5 +16,5 @@ GRGRGRGBGBGBGBGBGBGBGBGRGRBRGRGBGBGBGBGBGBGBGBGRGRGRGR
 
 | Tartans |
 |---------------|
-| [Ross (Wilsons)](/setts/s54/r25g6r25g29r4g8r4g29b32g6b32g29b2g2b4g2b2g29b2g2b4g2b2g29r25g6r25b2r25g6r25g29b2g2b4g2b2g29b2g2b4g2b2g29b32g6b32g29r4g8r4g29r25g6-b780078-g006818-rc80000/)|
-|![Ross (Wilsons) example sett](/setts/s54/r25g6r25g29r4g8r4g29b32g6b32g29b2g2b4g2b2g29b2g2b4g2b2g29r25g6r25b2r25g6r25g29b2g2b4g2b2g29b2g2b4g2b2g29b32g6b32g29r4g8r4g29r25g6-b780078-g006818-rc80000/sett.png)|
+| [Ross (Wilsons)](/setts/s54/r25g6r25g29r4g8r4g29b32g6b32g29b2g2b4g2b2g29b2g2b4g2b2g29r25g6r25b2r25g6r25g29b2g2b4g2b2g29b2g2b4g2b2g29b32g6b32g29r4g8r4g29r25g6~b780078-g006818-rc80000/)|
+|![Ross (Wilsons) example sett](/setts/s54/r25g6r25g29r4g8r4g29b32g6b32g29b2g2b4g2b2g29b2g2b4g2b2g29r25g6r25b2r25g6r25g29b2g2b4g2b2g29b2g2b4g2b2g29b32g6b32g29r4g8r4g29r25g6~b780078-g006818-rc80000/sett.png)|

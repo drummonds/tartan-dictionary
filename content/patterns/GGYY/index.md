@@ -6,7 +6,7 @@ GGYY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g112ga26y26y10-g006818-ga604000-ybc8c00/tartan.png)
+![Woven sample](/setts/s4/g56ga13y13y5~g006818-ga604000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGYY
 
 | Tartans |
 |---------------|
-| [Colonial Marine (Corporate)](/setts/s4/g112ga26y26y10-g006818-ga604000-ybc8c00/)|
-|![Colonial Marine (Corporate) example sett](/setts/s4/g112ga26y26y10-g006818-ga604000-ybc8c00/sett.png)|
+| [Colonial Marine (Corporate)](/setts/s4/g56ga13y13y5~g006818-ga604000-ybc8c00~x2/)|
+|![Colonial Marine (Corporate) example sett](/setts/s4/g56ga13y13y5~g006818-ga604000-ybc8c00~x2/sett.png)|

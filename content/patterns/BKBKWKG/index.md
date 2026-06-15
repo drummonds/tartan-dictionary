@@ -6,7 +6,7 @@ BKBKWKG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/g19k2w2k2b5k2b5~b505050-g808080-k101010-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBKWKG
 
 | Tartans |
 |---------------|
-| [Kyle](/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k101010-we0e0e0/)|
-|![Kyle example sett](/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k101010-we0e0e0/sett.png)|
-| [Kyle](/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k000000-we0e0e0/)|
-|![Kyle example sett](/setts/s7/g76k8w8k8b20k8b20-b505050-g808080-k000000-we0e0e0/sett.png)|
+| [Kyle](/setts/s7/g19k2w2k2b5k2b5~b505050-g808080-k101010-we0e0e0~x4/)|
+|![Kyle example sett](/setts/s7/g19k2w2k2b5k2b5~b505050-g808080-k101010-we0e0e0~x4/sett.png)|
+| [Kyle](/setts/s7/g19k2w2k2b5k2b5~b505050-g808080-k000000-we0e0e0~x4/)|
+|![Kyle example sett](/setts/s7/g19k2w2k2b5k2b5~b505050-g808080-k000000-we0e0e0~x4/sett.png)|

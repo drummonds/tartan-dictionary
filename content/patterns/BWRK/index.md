@@ -6,7 +6,7 @@ BWRK
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k28r20w12b8-b0000cd-k101010-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s4/k7r5w3b2~b0000cd-k101010-rff0000-wffffff~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWRK
 
 | Tartans |
 |---------------|
-| [Thomas Newcomen's Combustion Engine](/setts/s4/k28r20w12b8-b0000cd-k101010-rff0000-wffffff/)|
-|![Thomas Newcomen's Combustion Engine example sett](/setts/s4/k28r20w12b8-b0000cd-k101010-rff0000-wffffff/sett.png)|
-| [Thomas Newcomen's Combustion Engine](/setts/s4/k28r20w12b8-b202060-k101010-rc80000-wfcfcfc/)|
-|![Thomas Newcomen's Combustion Engine example sett](/setts/s4/k28r20w12b8-b202060-k101010-rc80000-wfcfcfc/sett.png)|
+| [Thomas Newcomen's Combustion Engine](/setts/s4/k7r5w3b2~b0000cd-k101010-rff0000-wffffff~x4/)|
+|![Thomas Newcomen's Combustion Engine example sett](/setts/s4/k7r5w3b2~b0000cd-k101010-rff0000-wffffff~x4/sett.png)|
+| [Thomas Newcomen's Combustion Engine](/setts/s4/k7r5w3b2~b202060-k101010-rc80000-wfcfcfc~x4/)|
+|![Thomas Newcomen's Combustion Engine example sett](/setts/s4/k7r5w3b2~b202060-k101010-rc80000-wfcfcfc~x4/sett.png)|

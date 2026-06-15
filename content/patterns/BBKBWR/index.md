@@ -6,7 +6,7 @@ BBKBWR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r28w10b40k20ba20b20-b003c64-ba5c8ca8-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r14w5b20k10ba10b10~b003c64-ba5c8ca8-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKBWR
 
 | Tartans |
 |---------------|
-| [Gandy of Myrton (Name)](/setts/s6/r28w10b40k20ba20b20-b003c64-ba5c8ca8-k101010-rc80000-we0e0e0/)|
-|![Gandy of Myrton (Name) example sett](/setts/s6/r28w10b40k20ba20b20-b003c64-ba5c8ca8-k101010-rc80000-we0e0e0/sett.png)|
+| [Gandy of Myrton (Name)](/setts/s6/r14w5b20k10ba10b10~b003c64-ba5c8ca8-k101010-rc80000-we0e0e0~x2/)|
+|![Gandy of Myrton (Name) example sett](/setts/s6/r14w5b20k10ba10b10~b003c64-ba5c8ca8-k101010-rc80000-we0e0e0~x2/sett.png)|

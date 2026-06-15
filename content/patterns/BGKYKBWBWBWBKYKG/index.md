@@ -16,5 +16,5 @@ BGKYKBWBWBWBKYKG
 
 | Tartans |
 |---------------|
-| [Scottish Cultural Society](/setts/s16/g32k64y8k8b32w8b8w16b8w8b32k8y8k64g32ba16-b1c0070-ba6c0070-g006818-k101010-wc0c0c0-yd09800/)|
-|![Scottish Cultural Society example sett](/setts/s16/g32k64y8k8b32w8b8w16b8w8b32k8y8k64g32ba16-b1c0070-ba6c0070-g006818-k101010-wc0c0c0-yd09800/sett.png)|
+| [Scottish Cultural Society](/setts/s16/g4k8y1k1b4w1b1w2b1w1b4k1y1k8g4ba2~b1c0070-ba6c0070-g006818-k101010-wc0c0c0-yd09800~x8/)|
+|![Scottish Cultural Society example sett](/setts/s16/g4k8y1k1b4w1b1w2b1w1b4k1y1k8g4ba2~b1c0070-ba6c0070-g006818-k101010-wc0c0c0-yd09800~x8/sett.png)|

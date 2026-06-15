@@ -16,5 +16,5 @@ BKGRGKBKW
 
 | Tartans |
 |---------------|
-| [Dove (Personal)](/setts/s9/b66k32g34r6g34k32b30k6w6-b506880-g006818-k101010-r888888-wf8f8f8/)|
-|![Dove (Personal) example sett](/setts/s9/b66k32g34r6g34k32b30k6w6-b506880-g006818-k101010-r888888-wf8f8f8/sett.png)|
+| [Dove (Personal)](/setts/s9/b33k16g17r3g17k16b15k3w3~b506880-g006818-k101010-r888888-wf8f8f8~x2/)|
+|![Dove (Personal) example sett](/setts/s9/b33k16g17r3g17k16b15k3w3~b506880-g006818-k101010-r888888-wf8f8f8~x2/sett.png)|

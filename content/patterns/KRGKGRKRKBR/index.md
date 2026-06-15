@@ -16,5 +16,5 @@ KRGKGRKRKBR
 
 | Tartans |
 |---------------|
-| [State Seal of Virginia (Fashion)](/setts/s11/r98b30k2r36k8ra16g14k10g10r38k10-b2c2c80-g006818-k101010-r888888-rac80000/)|
-|![State Seal of Virginia (Fashion) example sett](/setts/s11/r98b30k2r36k8ra16g14k10g10r38k10-b2c2c80-g006818-k101010-r888888-rac80000/sett.png)|
+| [State Seal of Virginia (Fashion)](/setts/s11/r49b15k1r18k4ra8g7k5g5r19k5~b2c2c80-g006818-k101010-r888888-rac80000~x2/)|
+|![State Seal of Virginia (Fashion) example sett](/setts/s11/r49b15k1r18k4ra8g7k5g5r19k5~b2c2c80-g006818-k101010-r888888-rac80000~x2/sett.png)|

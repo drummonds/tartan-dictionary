@@ -1,0 +1,48 @@
+---
+title: "Letham Hunting (Name)"
+date: 2023-03-18
+---
+In pattern [BKGBKBKGKBKBGKB](/patterns/bkgbkbkgkbkbgkb/).
+
+
+This was sourced from tartans-authority.  It is a [15 stripes tartan](/stripes/stripes15/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10025/
+
+## Thread count
+P/4 K4 G12 B8 K4 B10 K8 G40 K8 DB10 K4 B8 G12 K4 P/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Semple](/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~b1474b4-g006818-k101010-rc80000-wfcfcfc~x2/) — ΔT 0.74
+1. [Ogilvie of Inverarity (Wilson) / Ochterlonie](/setts/s16/b20y3k7g11k2g3k2g3r4g3k2g3k2g11k7y3~b2c2c80-g006818-k101010-rc80000-yd8b000~x2/) — ΔT 0.87
+1. [O'Conner Irish Family Tartan Tartan Number: 2217. Earliest known date: 1985 Designed by Jerry O'Connor of Keltic Klassics, Hillsdale, New Jersey who names it "Royal na Connaught" .Woven by House of Edgar who said they would call it O'Connor. Ref made to Lawrence & Gerald O'Connor - possibly customers of Macnaughtons of Pitlochry (part of same group as House of Edgar) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g5k24g12k16g26w4g24w4g26k16b4k4b4k4ba28g3~b003c64-ba2c2c80-g006818-k101010-we0e0e0/) — ΔT 0.88
+1. [Unidentified B'gowrie Unknown Tartan Tartan Number: 2144. Earliest known date: c. 1945 Do you recognise this tartan. It was discovered by Robin Birch of Connell Reid Kiltmakers in Blairgowrie, attached to a Teddy Bear that he thought had a regimental connection dating from 1945. The unidentified sample was recorded here on 2nd February, 1995. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/g30y2g5y2g4k15b29r2b29k15g5y2g4y2g17~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/) — ΔT 0.90
+1. [Scottish Rugby Union (City of Nagasaki)](/setts/s11/g6k2g24k10b2ba2b2ba2b10k2w3~b14283c-ba9058d8-g006818-k101010-wc0c0c0~x2/) — ΔT 0.94
+1. [Bannatyne](/setts/s12/b8r8b42k4b4k4b4k20g4k10g25w8~b003c64-g006818-k101010-rc80000-we0e0e0/) — ΔT 0.97
+1. [Mantle Tartan Tartan Number: 6945. Earliest known date: 2006 A combination of Sinclair Hunting and MacQueen tartans relating to the clan associations of the the two families, Swan and Sinclair. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r3g2r3g18k14w2b16g3b16w2k14g18r3g2~b2c4080-g006818-k101010-r880000-wd8d8d8~x2/) — ΔT 0.99
+1. [Jones Hunting](/setts/s18/g24b4g3b8k3ba8b2ba2b4ba2b2ba8k3b8g3b4g24ga2~b780078-ba2888c4-g006818-ga289c18-k101010~x2/) — ΔT 1.02
+1. [Cochrane Clan Tartan Tartan Number: 994. Earliest known date: 1934 Lord Dundonald originally registered a version missing a red and a green stripe with Lord Lyon in 1974. There is a story that a fragment of this design was discovered in the foundations of a Perthshire house around the 1930's, thought to be of greater authenticity. However, other reports suggest that the missing stripes were simply a typing error. The sett is based on the old Lochaber district tartan which also provided a base for the MacDonald and the Cameron of Erracht. (All of which have four red stripes). The red and green have been restored in this version, which is now the approved tartan, and appears in the 'Appendix' of the Lyon Court Books dated 12th November 1984. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/g16r2g2r1g3r1g2r2g12k12r1b16r2b8y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/) — ΔT 1.02
+1. [Polaris Military](/setts/s17/b6k1b1k1b1k7g6y1k1ba1k1y1g6k7b7k1b1~b1474b4-ba1c0070-g006818-k101010-ybc8c00~x4/) — ΔT 1.03
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~b1474b4-g006818-k101010-rc80000-wfcfcfc~x2/"><circle cx="222.8" cy="136.6" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s16/b20y3k7g11k2g3k2g3r4g3k2g3k2g11k7y3~b2c2c80-g006818-k101010-rc80000-yd8b000~x2/"><circle cx="163.0" cy="152.6" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16b4k4b4k4ba28g3~b003c64-ba2c2c80-g006818-k101010-we0e0e0/"><circle cx="199.6" cy="175.2" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan Tartan Number: 2217. Earliest known date: 1985 Designed by Jerry O'Connor of Keltic Klassics, Hillsdale, New Jersey who names it &quot;Royal na Connaught&quot; .Woven by House of Edgar who said they would call it O'Connor. Ref made to Lawrence &amp; Gerald O'Connor - possibly customers of Macnaughtons of Pitlochry (part of same group as House of Edgar) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/g30y2g5y2g4k15b29r2b29k15g5y2g4y2g17~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/"><circle cx="206.8" cy="141.1" r="4" fill="#3465a4"><title>Unidentified B'gowrie Unknown Tartan Tartan Number: 2144. Earliest known date: c. 1945 Do you recognise this tartan. It was discovered by Robin Birch of Connell Reid Kiltmakers in Blairgowrie, attached to a Teddy Bear that he thought had a regimental connection dating from 1945. The unidentified sample was recorded here on 2nd February, 1995. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g6k2g24k10b2ba2b2ba2b10k2w3~b14283c-ba9058d8-g006818-k101010-wc0c0c0~x2/"><circle cx="232.0" cy="155.5" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/setts/s12/b8r8b42k4b4k4b4k20g4k10g25w8~b003c64-g006818-k101010-rc80000-we0e0e0/"><circle cx="188.1" cy="161.9" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s14/r3g2r3g18k14w2b16g3b16w2k14g18r3g2~b2c4080-g006818-k101010-r880000-wd8d8d8~x2/"><circle cx="160.5" cy="173.6" r="4" fill="#3465a4"><title>Mantle Tartan Tartan Number: 6945. Earliest known date: 2006 A combination of Sinclair Hunting and MacQueen tartans relating to the clan associations of the the two families, Swan and Sinclair. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g24b4g3b8k3ba8b2ba2b4ba2b2ba8k3b8g3b4g24ga2~b780078-ba2888c4-g006818-ga289c18-k101010~x2/"><circle cx="236.0" cy="133.3" r="4" fill="#3465a4"><title>Jones Hunting</title></circle></a><a href="/setts/s15/g16r2g2r1g3r1g2r2g12k12r1b16r2b8y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/"><circle cx="216.0" cy="132.7" r="4" fill="#3465a4"><title>Cochrane Clan Tartan Tartan Number: 994. Earliest known date: 1934 Lord Dundonald originally registered a version missing a red and a green stripe with Lord Lyon in 1974. There is a story that a fragment of this design was discovered in the foundations of a Perthshire house around the 1930's, thought to be of greater authenticity. However, other reports suggest that the missing stripes were simply a typing error. The sett is based on the old Lochaber district tartan which also provided a base for the MacDonald and the Cameron of Erracht. (All of which have four red stripes). The red and green have been restored in this version, which is now the approved tartan, and appears in the 'Appendix' of the Lyon Court Books dated 12th November 1984. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/b6k1b1k1b1k7g6y1k1ba1k1y1g6k7b7k1b1~b1474b4-ba1c0070-g006818-k101010-ybc8c00~x4/"><circle cx="151.6" cy="164.7" r="4" fill="#3465a4"><title>Polaris Military</title></circle></a><circle cx="201.5" cy="158.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/b2k2g6ba4k2ba5k4g20k4bb5k2ba4g6k2b2~b780078-ba2888c4-bb2c2c80-g006818-k101010~x2/

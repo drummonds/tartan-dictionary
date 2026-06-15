@@ -16,7 +16,7 @@ GKGKGKGKGKGKGK
 
 | Tartans |
 |---------------|
-| [Watertown Library Assoc.](/setts/s14/g8k4g62k16g4k54g4k8g4k54g4k16g62k4-g789484-k101010/)|
-|![Watertown Library Assoc. example sett](/setts/s14/g8k4g62k16g4k54g4k8g4k54g4k16g62k4-g789484-k101010/sett.png)|
-| [Lochcarron Hunting (Corporate)](/setts/s14/g6k20g6k4g4k4g6k10g4k10g44k4g6k4-g004c00-k000000/)|
-|![Lochcarron Hunting (Corporate) example sett](/setts/s14/g6k20g6k4g4k4g6k10g4k10g44k4g6k4-g004c00-k000000/sett.png)|
+| [Watertown Library Assoc.](/setts/s14/g4k2g31k8g2k27g2k4g2k27g2k8g31k2~g789484-k101010~x2/)|
+|![Watertown Library Assoc. example sett](/setts/s14/g4k2g31k8g2k27g2k4g2k27g2k8g31k2~g789484-k101010~x2/sett.png)|
+| [Lochcarron Hunting (Corporate)](/setts/s14/g3k10g3k2g2k2g3k5g2k5g22k2g3k2~g004c00-k000000~x2/)|
+|![Lochcarron Hunting (Corporate) example sett](/setts/s14/g3k10g3k2g2k2g3k5g2k5g22k2g3k2~g004c00-k000000~x2/sett.png)|

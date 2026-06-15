@@ -6,7 +6,7 @@ GKYKGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r8g80k42y4k42g4-g50783c-k000034-rc82800-yc88c00/tartan.png)
+![Woven sample](/setts/s6/r4g40k21y2k21g2~g50783c-k000034-rc82800-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKYKGR
 
 | Tartans |
 |---------------|
-| [Unidentified Furnishing #2](/setts/s6/r8g80k42y4k42g4-g50783c-k000034-rc82800-yc88c00/)|
-|![Unidentified Furnishing #2 example sett](/setts/s6/r8g80k42y4k42g4-g50783c-k000034-rc82800-yc88c00/sett.png)|
+| [Unidentified Furnishing #2](/setts/s6/r4g40k21y2k21g2~g50783c-k000034-rc82800-yc88c00~x2/)|
+|![Unidentified Furnishing #2 example sett](/setts/s6/r4g40k21y2k21g2~g50783c-k000034-rc82800-yc88c00~x2/sett.png)|

@@ -16,5 +16,5 @@ KBBYKYKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Beatty](/setts/s14/k12b6ba56y16k20y4k4w4k8g32r24k4r12w4-b3474fc-ba00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/)|
-|![Beatty example sett](/setts/s14/k12b6ba56y16k20y4k4w4k8g32r24k4r12w4-b3474fc-ba00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|
+| [Beatty](/setts/s14/k6b3ba28y8k10y2k2w2k4g16r12k2r6w2~b3474fc-ba00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00~x2/)|
+|![Beatty example sett](/setts/s14/k6b3ba28y8k10y2k2w2k4g16r12k2r6w2~b3474fc-ba00008c-g007800-k000000-r8c0000-wc8c8c8-yc88c00~x2/sett.png)|

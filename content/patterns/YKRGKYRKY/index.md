@@ -16,5 +16,5 @@ YKRGKYRKY
 
 | Tartans |
 |---------------|
-| [Graham Red](/setts/s9/y4k4r40g40k20y20r40k4y4-g388458-k000000-rc80000-y94a4b8/)|
-|![Graham Red example sett](/setts/s9/y4k4r40g40k20y20r40k4y4-g388458-k000000-rc80000-y94a4b8/sett.png)|
+| [Graham Red](/setts/s9/y1k1r10g10k5y5r10k1y1~g388458-k000000-rc80000-y94a4b8~x4/)|
+|![Graham Red example sett](/setts/s9/y1k1r10g10k5y5r10k1y1~g388458-k000000-rc80000-y94a4b8~x4/sett.png)|

@@ -16,5 +16,5 @@ BYYBRBYBRBYYBYBYYBR
 
 | Tartans |
 |---------------|
-| [Longniddry](/setts/s19/r32b8y4ya4b8y12b8ya4y4b32r6b6ya6b6r6b32y4ya4b6-b000064-r8c0000-ya08400-yac89800/)|
-|![Longniddry example sett](/setts/s19/r32b8y4ya4b8y12b8ya4y4b32r6b6ya6b6r6b32y4ya4b6-b000064-r8c0000-ya08400-yac89800/sett.png)|
+| [Longniddry](/setts/s19/r16b4y2ya2b4y6b4ya2y2b16r3b3ya3b3r3b16y2ya2b3~b000064-r8c0000-ya08400-yac89800~x2/)|
+|![Longniddry example sett](/setts/s19/r16b4y2ya2b4y6b4ya2y2b16r3b3ya3b3r3b16y2ya2b3~b000064-r8c0000-ya08400-yac89800~x2/sett.png)|

@@ -16,5 +16,5 @@ BKGRGKRKRKG
 
 | Tartans |
 |---------------|
-| [Highfield (Name)](/setts/s11/b40k8g8r8g8k8r8k8r16k4g8-b00008c-g007800-k000000-r8c0000/)|
-|![Highfield (Name) example sett](/setts/s11/b40k8g8r8g8k8r8k8r16k4g8-b00008c-g007800-k000000-r8c0000/sett.png)|
+| [Highfield (Name)](/setts/s11/b10k2g2r2g2k2r2k2r4k1g2~b00008c-g007800-k000000-r8c0000~x4/)|
+|![Highfield (Name) example sett](/setts/s11/b10k2g2r2g2k2r2k2r4k1g2~b00008c-g007800-k000000-r8c0000~x4/sett.png)|

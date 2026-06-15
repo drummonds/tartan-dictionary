@@ -6,7 +6,7 @@ GGR
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/g10ga20r10-g482800-ga703200-rdc0000/tartan.png)
+![Woven sample](/setts/s3/g1ga2r1~g482800-ga703200-rdc0000~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGR
 
 | Tartans |
 |---------------|
-| [Glenmorangie Check](/setts/s3/g10ga20r10-g482800-ga703200-rdc0000/)|
-|![Glenmorangie Check example sett](/setts/s3/g10ga20r10-g482800-ga703200-rdc0000/sett.png)|
+| [Glenmorangie Check](/setts/s3/g1ga2r1~g482800-ga703200-rdc0000~x10/)|
+|![Glenmorangie Check example sett](/setts/s3/g1ga2r1~g482800-ga703200-rdc0000~x10/sett.png)|

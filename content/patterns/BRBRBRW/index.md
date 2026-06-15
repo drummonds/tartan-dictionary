@@ -6,7 +6,7 @@ BRBRBRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b8r2b36r36b2r2w2-b1c1c50-r901c38-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b4r1b18r18b1r1w1~b1c1c50-r901c38-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRBRW
 
 | Tartans |
 |---------------|
-| [St. Mildreds Check (School)](/setts/s7/b8r2b36r36b2r2w2-b1c1c50-r901c38-we0e0e0/)|
-|![St. Mildreds Check (School) example sett](/setts/s7/b8r2b36r36b2r2w2-b1c1c50-r901c38-we0e0e0/sett.png)|
+| [St. Mildreds Check (School)](/setts/s7/b4r1b18r18b1r1w1~b1c1c50-r901c38-we0e0e0~x2/)|
+|![St. Mildreds Check (School) example sett](/setts/s7/b4r1b18r18b1r1w1~b1c1c50-r901c38-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ GKGKR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g6k12ga8k12r6-g808080-ga604000-k101010-rb03000/tartan.png)
+![Woven sample](/setts/s5/g3k6ga4k6r3~g808080-ga604000-k101010-rb03000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKGKR
 
 | Tartans |
 |---------------|
-| [Daks (Black)](/setts/s5/g6k12ga8k12r6-g808080-ga604000-k101010-rb03000/)|
-|![Daks (Black) example sett](/setts/s5/g6k12ga8k12r6-g808080-ga604000-k101010-rb03000/sett.png)|
-| [Gadsden (Artefact)](/setts/s5/r6k32g4k4g4-g285800-k00002c-rc80000/)|
-|![Gadsden (Artefact) example sett](/setts/s5/r6k32g4k4g4-g285800-k00002c-rc80000/sett.png)|
+| [Daks (Black)](/setts/s5/g3k6ga4k6r3~g808080-ga604000-k101010-rb03000~x2/)|
+|![Daks (Black) example sett](/setts/s5/g3k6ga4k6r3~g808080-ga604000-k101010-rb03000~x2/sett.png)|
+| [Gadsden (Artefact)](/setts/s5/r3k16g2k2g2~g285800-k00002c-rc80000~x2/)|
+|![Gadsden (Artefact) example sett](/setts/s5/r3k16g2k2g2~g285800-k00002c-rc80000~x2/sett.png)|

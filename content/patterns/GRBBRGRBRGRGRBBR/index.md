@@ -16,11 +16,11 @@ GRBBRGRBRGRGRBBR
 
 | Tartans |
 |---------------|
-| [Stewart of Appin - 1906](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b2c2c80-ba5c8ca8-g006818-rc80000/)|
-|![Stewart of Appin - 1906 example sett](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b2c2c80-ba5c8ca8-g006818-rc80000/sett.png)|
-| [Stewart of Appin 4](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b304080-ba5480b0-g008000-rc00000/)|
-|![Stewart of Appin 4 example sett](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b304080-ba5480b0-g008000-rc00000/sett.png)|
-| [Stewart of Appin](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b000052-ba4367ae-g11450d-raa0000/)|
-|![Stewart of Appin example sett](/setts/s16/r6b4ba2r4g48r8g4r4b16r4g4r48b4ba2r4g4-b000052-ba4367ae-g11450d-raa0000/sett.png)|
-| [Stewart of Appin](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2-b000052-ba4367ae-g11450d-raa0000/)|
-|![Stewart of Appin example sett](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2-b000052-ba4367ae-g11450d-raa0000/sett.png)|
+| [Stewart of Appin - 1906](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b2c2c80-ba5c8ca8-g006818-rc80000~x2/)|
+|![Stewart of Appin - 1906 example sett](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b2c2c80-ba5c8ca8-g006818-rc80000~x2/sett.png)|
+| [Stewart of Appin 4](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b304080-ba5480b0-g008000-rc00000~x2/)|
+|![Stewart of Appin 4 example sett](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b304080-ba5480b0-g008000-rc00000~x2/sett.png)|
+| [Stewart of Appin](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b000052-ba4367ae-g11450d-raa0000~x2/)|
+|![Stewart of Appin example sett](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b000052-ba4367ae-g11450d-raa0000~x2/sett.png)|
+| [Stewart of Appin](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b000052-ba4367ae-g11450d-raa0000/)|
+|![Stewart of Appin example sett](/setts/s16/r3b2ba1r2g24r4g2r2b8r2g2r24b2ba1r2g2~b000052-ba4367ae-g11450d-raa0000/sett.png)|

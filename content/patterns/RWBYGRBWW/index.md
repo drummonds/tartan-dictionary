@@ -16,5 +16,5 @@ RWBYGRBWW
 
 | Tartans |
 |---------------|
-| [Perth - 1819 (District)](/setts/s9/r120w4b16y4g56r24b16wa8w4-b280034-g044028-rc80000-wfcfcfc-wa00fcfc-ydcbc00/)|
-|![Perth - 1819 (District) example sett](/setts/s9/r120w4b16y4g56r24b16wa8w4-b280034-g044028-rc80000-wfcfcfc-wa00fcfc-ydcbc00/sett.png)|
+| [Perth - 1819 (District)](/setts/s9/r30w1b4y1g14r6b4wa2w1~b280034-g044028-rc80000-wfcfcfc-wa00fcfc-ydcbc00~x4/)|
+|![Perth - 1819 (District) example sett](/setts/s9/r30w1b4y1g14r6b4wa2w1~b280034-g044028-rc80000-wfcfcfc-wa00fcfc-ydcbc00~x4/sett.png)|

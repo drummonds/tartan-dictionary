@@ -16,5 +16,5 @@ GBRKRBGYRGWGRR
 
 | Tartans |
 |---------------|
-| [Hyndman (Personal)](/setts/s14/g48b20r8k4r8b20g48y12r48g8w4g8r48ra12-b1474b4-g006818-k101010-r880000-rac80000-wfcfcfc-ye8c000/)|
-|![Hyndman (Personal) example sett](/setts/s14/g48b20r8k4r8b20g48y12r48g8w4g8r48ra12-b1474b4-g006818-k101010-r880000-rac80000-wfcfcfc-ye8c000/sett.png)|
+| [Hyndman (Personal)](/setts/s14/g12b5r2k1r2b5g12y3r12g2w1g2r12ra3~b1474b4-g006818-k101010-r880000-rac80000-wfcfcfc-ye8c000~x4/)|
+|![Hyndman (Personal) example sett](/setts/s14/g12b5r2k1r2b5g12y3r12g2w1g2r12ra3~b1474b4-g006818-k101010-r880000-rac80000-wfcfcfc-ye8c000~x4/sett.png)|

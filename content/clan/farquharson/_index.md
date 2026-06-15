@@ -6,5 +6,5 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s25/b42k2b2k2b2k20g44r4g44k20b32k2b4k2b32k20g44y4g44k20b2k2b2k2b14-b304080-g008000-k000000-rc00000-yf0c000/"><img src="/setts/s25/b42k2b2k2b2k20g44r4g44k20b32k2b4k2b32k20g44y4g44k20b2k2b2k2b14-b304080-g008000-k000000-rc00000-yf0c000/sett.png" alt="Farquharson" width="240"><br>Farquharson</a>
+<a class="tartan" href="/setts/s25/b21k1b1k1b1k10g22r2g22k10b16k1b2k1b16k10g22y2g22k10b1k1b1k1b7~b304080-g008000-k000000-rc00000-yf0c000~x2/"><img src="/setts/s25/b21k1b1k1b1k10g22r2g22k10b16k1b2k1b16k10g22y2g22k10b1k1b1k1b7~b304080-g008000-k000000-rc00000-yf0c000~x2/sett.png" alt="Farquharson" width="240"><br>Farquharson</a>
 

@@ -16,9 +16,9 @@ BRBRYRBRYRBRBR
 
 | Tartans |
 |---------------|
-| [Munro (Culloden)](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b2r12-b202060-rc80000-ye8c000/)|
-|![Munro (Culloden) example sett](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b2r12-b202060-rc80000-ye8c000/sett.png)|
-| [Munro, Ancient](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b2r12-b304080-rc00000-yf0c000/)|
-|![Munro, Ancient example sett](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b2r12-b304080-rc00000-yf0c000/sett.png)|
-| [Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b1r12-b2c2c80-rc80000-ye8c000/)|
-|![Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b1r12-b2c2c80-rc80000-ye8c000/sett.png)|
+| [Munro (Culloden)](/setts/s14/b6r8b1r2y5r5b5r5y1r2b1r2b1r6~b202060-rc80000-ye8c000~x2/)|
+|![Munro (Culloden) example sett](/setts/s14/b6r8b1r2y5r5b5r5y1r2b1r2b1r6~b202060-rc80000-ye8c000~x2/sett.png)|
+| [Munro, Ancient](/setts/s14/b6r8b1r2y5r5b5r5y1r2b1r2b1r6~b304080-rc00000-yf0c000~x2/)|
+|![Munro, Ancient example sett](/setts/s14/b6r8b1r2y5r5b5r5y1r2b1r2b1r6~b304080-rc00000-yf0c000~x2/sett.png)|
+| [Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b1r12~b2c2c80-rc80000-ye8c000/)|
+|![Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/b12r16b2r4y10r10b10r10y2r4b2r4b1r12~b2c2c80-rc80000-ye8c000/sett.png)|

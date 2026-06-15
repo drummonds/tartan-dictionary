@@ -6,7 +6,7 @@ BGGRWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b40g16ga32r24w8b40-b1474b4-g604000-ga285800-r888888-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/b5g2ga4r3w1b5~b1474b4-g604000-ga285800-r888888-we0e0e0~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGGRWB
 
 | Tartans |
 |---------------|
-| [Heriot Bay (District)](/setts/s6/b40g16ga32r24w8b40-b1474b4-g604000-ga285800-r888888-we0e0e0/)|
-|![Heriot Bay (District) example sett](/setts/s6/b40g16ga32r24w8b40-b1474b4-g604000-ga285800-r888888-we0e0e0/sett.png)|
+| [Heriot Bay (District)](/setts/s6/b5g2ga4r3w1b5~b1474b4-g604000-ga285800-r888888-we0e0e0~x8/)|
+|![Heriot Bay (District) example sett](/setts/s6/b5g2ga4r3w1b5~b1474b4-g604000-ga285800-r888888-we0e0e0~x8/sett.png)|

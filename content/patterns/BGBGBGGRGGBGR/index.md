@@ -16,5 +16,5 @@ BGBGBGGRGGBGR
 
 | Tartans |
 |---------------|
-| [Murray of Atholl](/setts/s13/b36g8b6g6b6g36ga36r20ga36g36b36g6r20-b2c2c80-g603800-ga408060-rc80000/)|
-|![Murray of Atholl example sett](/setts/s13/b36g8b6g6b6g36ga36r20ga36g36b36g6r20-b2c2c80-g603800-ga408060-rc80000/sett.png)|
+| [Murray of Atholl](/setts/s13/b18g4b3g3b3g18ga18r10ga18g18b18g3r10~b2c2c80-g603800-ga408060-rc80000~x2/)|
+|![Murray of Atholl example sett](/setts/s13/b18g4b3g3b3g18ga18r10ga18g18b18g3r10~b2c2c80-g603800-ga408060-rc80000~x2/sett.png)|

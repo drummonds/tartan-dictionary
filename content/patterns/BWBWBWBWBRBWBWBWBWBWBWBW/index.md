@@ -16,5 +16,5 @@ BWBWBWBWBRBWBWBWBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Weait (2016)](/setts/s24/b12w12ba14w4ba4w4ba14w12b12r4b12w12ba4w4ba4w4ba16w4ba4w4ba4w12b12wa4-b3c82af-ba1c1c50-rdc0000-w98c8e8-waffffff/)|
-|![Weait (2016) example sett](/setts/s24/b12w12ba14w4ba4w4ba14w12b12r4b12w12ba4w4ba4w4ba16w4ba4w4ba4w12b12wa4-b3c82af-ba1c1c50-rdc0000-w98c8e8-waffffff/sett.png)|
+| [Weait (2016)](/setts/s24/b6w6ba7w2ba2w2ba7w6b6r2b6w6ba2w2ba2w2ba8w2ba2w2ba2w6b6wa2~b3c82af-ba1c1c50-rdc0000-w98c8e8-waffffff~x2/)|
+|![Weait (2016) example sett](/setts/s24/b6w6ba7w2ba2w2ba7w6b6r2b6w6ba2w2ba2w2ba8w2ba2w2ba2w6b6wa2~b3c82af-ba1c1c50-rdc0000-w98c8e8-waffffff~x2/sett.png)|

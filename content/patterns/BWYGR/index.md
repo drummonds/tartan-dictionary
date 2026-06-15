@@ -6,7 +6,7 @@ BWYGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b100w30y30g10r10-b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8/tartan.png)
+![Woven sample](/setts/s5/b10w3y3g1r1~b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWYGR
 
 | Tartans |
 |---------------|
-| [Bagpipe Shop (Switzerland)](/setts/s5/b100w30y30g10r10-b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8/)|
-|![Bagpipe Shop (Switzerland) example sett](/setts/s5/b100w30y30g10r10-b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8/sett.png)|
+| [Bagpipe Shop (Switzerland)](/setts/s5/b10w3y3g1r1~b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8~x10/)|
+|![Bagpipe Shop (Switzerland) example sett](/setts/s5/b10w3y3g1r1~b646464-g4ca412-rff0000-wf8f4d0-ya4a8a8~x10/sett.png)|

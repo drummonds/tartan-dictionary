@@ -16,5 +16,5 @@ YRGYBRYBYGRY
 
 | Tartans |
 |---------------|
-| [Hallowfield Wood](/setts/s12/y6r20g8y16b4y16ra22b32y8g8r20y6-b441800-g3b522f-rb03000-ra9c68a4-ydc943c/)|
-|![Hallowfield Wood example sett](/setts/s12/y6r20g8y16b4y16ra22b32y8g8r20y6-b441800-g3b522f-rb03000-ra9c68a4-ydc943c/sett.png)|
+| [Hallowfield Wood](/setts/s12/y3r10g4y8b2y8ra11b16y4g4r10y3~b441800-g3b522f-rb03000-ra9c68a4-ydc943c~x2/)|
+|![Hallowfield Wood example sett](/setts/s12/y3r10g4y8b2y8ra11b16y4g4r10y3~b441800-g3b522f-rb03000-ra9c68a4-ydc943c~x2/sett.png)|

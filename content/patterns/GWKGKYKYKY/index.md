@@ -16,5 +16,5 @@ GWKGKYKYKY
 
 | Tartans |
 |---------------|
-| [Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g4w8k20g12k4y20k4y44k4y4-g604000-k101010-we0e0e0-ya08858/)|
-|![Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/g4w8k20g12k4y20k4y44k4y4-g604000-k101010-we0e0e0-ya08858/sett.png)|
+| [Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g1w2k5g3k1y5k1y11k1y1~g604000-k101010-we0e0e0-ya08858~x4/)|
+|![Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/g1w2k5g3k1y5k1y11k1y1~g604000-k101010-we0e0e0-ya08858~x4/sett.png)|

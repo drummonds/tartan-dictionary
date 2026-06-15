@@ -16,5 +16,5 @@ BBBBBBBBBGBGBBB
 
 | Tartans |
 |---------------|
-| [Grant - 1819 (Clan)](/setts/s15/b30ba2b4ba4b156bb2b4ba42b6g4b6g158b4ba4b20-b2c2c80-ba780078-bb5c8ca8-g006818/)|
-|![Grant - 1819 (Clan) example sett](/setts/s15/b30ba2b4ba4b156bb2b4ba42b6g4b6g158b4ba4b20-b2c2c80-ba780078-bb5c8ca8-g006818/sett.png)|
+| [Grant - 1819 (Clan)](/setts/s15/b15ba1b2ba2b78bb1b2ba21b3g2b3g79b2ba2b10~b2c2c80-ba780078-bb5c8ca8-g006818~x2/)|
+|![Grant - 1819 (Clan) example sett](/setts/s15/b15ba1b2ba2b78bb1b2ba21b3g2b3g79b2ba2b10~b2c2c80-ba780078-bb5c8ca8-g006818~x2/sett.png)|

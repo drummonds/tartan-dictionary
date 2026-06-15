@@ -16,7 +16,7 @@ WYRBRBRGRBRYW
 
 | Tartans |
 |---------------|
-| [Robbie (Stirling) (Personal)](/setts/s13/w2y4r30b4r4b30r4g30r4b4r30y4w2-b0000cd-g008b00-re3170d-wffffff-yffe700/)|
-|![Robbie (Stirling) (Personal) example sett](/setts/s13/w2y4r30b4r4b30r4g30r4b4r30y4w2-b0000cd-g008b00-re3170d-wffffff-yffe700/sett.png)|
-| [Robbie (Commemorative)](/setts/s13/w2y4r30b4r4b30r4g30r4b4r30y4w2-b2c2c80-g288028-r880000-we0e0e0-ybc8c00/)|
-|![Robbie (Commemorative) example sett](/setts/s13/w2y4r30b4r4b30r4g30r4b4r30y4w2-b2c2c80-g288028-r880000-we0e0e0-ybc8c00/sett.png)|
+| [Robbie (Stirling) (Personal)](/setts/s13/w1y2r15b2r2b15r2g15r2b2r15y2w1~b0000cd-g008b00-re3170d-wffffff-yffe700~x2/)|
+|![Robbie (Stirling) (Personal) example sett](/setts/s13/w1y2r15b2r2b15r2g15r2b2r15y2w1~b0000cd-g008b00-re3170d-wffffff-yffe700~x2/sett.png)|
+| [Robbie (Commemorative)](/setts/s13/w1y2r15b2r2b15r2g15r2b2r15y2w1~b2c2c80-g288028-r880000-we0e0e0-ybc8c00~x2/)|
+|![Robbie (Commemorative) example sett](/setts/s13/w1y2r15b2r2b15r2g15r2b2r15y2w1~b2c2c80-g288028-r880000-we0e0e0-ybc8c00~x2/sett.png)|

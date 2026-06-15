@@ -6,7 +6,7 @@ KBGKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k12b16g80k80g12y12-b1474b4-g408060-k101010-ybc8c00/tartan.png)
+![Woven sample](/setts/s6/k3b4g20k20g3y3~b1474b4-g408060-k101010-ybc8c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBGKGY
 
 | Tartans |
 |---------------|
-| [Michaluk (Personal)](/setts/s6/k12b16g80k80g12y12-b1474b4-g408060-k101010-ybc8c00/)|
-|![Michaluk (Personal) example sett](/setts/s6/k12b16g80k80g12y12-b1474b4-g408060-k101010-ybc8c00/sett.png)|
+| [Michaluk (Personal)](/setts/s6/k3b4g20k20g3y3~b1474b4-g408060-k101010-ybc8c00~x4/)|
+|![Michaluk (Personal) example sett](/setts/s6/k3b4g20k20g3y3~b1474b4-g408060-k101010-ybc8c00~x4/sett.png)|

@@ -6,7 +6,7 @@ BRBRBRWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b14r1b1r1b6ra14w1ra1~b1c1c1c-r98481c-ra888888-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRBRWR
 
 | Tartans |
 |---------------|
-| [Corrie](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/)|
-|![Corrie example sett](/setts/s8/b56r4b4r4b24ra56w4ra4-b1c1c1c-r98481c-ra888888-we0e0e0/sett.png)|
+| [Corrie](/setts/s8/b14r1b1r1b6ra14w1ra1~b1c1c1c-r98481c-ra888888-we0e0e0~x4/)|
+|![Corrie example sett](/setts/s8/b14r1b1r1b6ra14w1ra1~b1c1c1c-r98481c-ra888888-we0e0e0~x4/sett.png)|

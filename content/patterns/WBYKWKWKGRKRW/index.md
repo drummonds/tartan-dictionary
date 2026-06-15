@@ -16,5 +16,5 @@ WBYKWKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Clodagh, Cork](/setts/s13/w6b40y8k18w6k6w6k6g28r18k6r8w6-b304080-g008000-k000000-r806050-we0e0e0-yf0c000/)|
-|![Clodagh, Cork example sett](/setts/s13/w6b40y8k18w6k6w6k6g28r18k6r8w6-b304080-g008000-k000000-r806050-we0e0e0-yf0c000/sett.png)|
+| [Clodagh, Cork](/setts/s13/w3b20y4k9w3k3w3k3g14r9k3r4w3~b304080-g008000-k000000-r806050-we0e0e0-yf0c000~x2/)|
+|![Clodagh, Cork example sett](/setts/s13/w3b20y4k9w3k3w3k3g14r9k3r4w3~b304080-g008000-k000000-r806050-we0e0e0-yf0c000~x2/sett.png)|

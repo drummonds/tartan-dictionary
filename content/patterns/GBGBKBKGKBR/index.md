@@ -16,5 +16,5 @@ GBGBKBKGKBR
 
 | Tartans |
 |---------------|
-| [Brethwe Powys](/setts/s11/g24b7g7b7k22b7k4ga4k4b40r14-b2c4084-g003c14-ga503c14-k000028-r781c38/)|
-|![Brethwe Powys example sett](/setts/s11/g24b7g7b7k22b7k4ga4k4b40r14-b2c4084-g003c14-ga503c14-k000028-r781c38/sett.png)|
+| [Brethwe Powys](/setts/s11/g24b7g7b7k22b7k4ga4k4b40r14~b2c4084-g003c14-ga503c14-k000028-r781c38/)|
+|![Brethwe Powys example sett](/setts/s11/g24b7g7b7k22b7k4ga4k4b40r14~b2c4084-g003c14-ga503c14-k000028-r781c38/sett.png)|

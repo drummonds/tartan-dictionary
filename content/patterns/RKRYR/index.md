@@ -6,7 +6,7 @@ RKRYR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r44k16r16y16r44-k101010-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s5/r11k4r4y4r11~k101010-r880000-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKRYR
 
 | Tartans |
 |---------------|
-| [Ikelman #4 (Personal)](/setts/s5/r44k16r16y16r44-k101010-r880000-yd09800/)|
-|![Ikelman #4 (Personal) example sett](/setts/s5/r44k16r16y16r44-k101010-r880000-yd09800/sett.png)|
+| [Ikelman #4 (Personal)](/setts/s5/r11k4r4y4r11~k101010-r880000-yd09800~x4/)|
+|![Ikelman #4 (Personal) example sett](/setts/s5/r11k4r4y4r11~k101010-r880000-yd09800~x4/sett.png)|

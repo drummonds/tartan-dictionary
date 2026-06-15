@@ -16,5 +16,5 @@ BWKWKRWRGWRWRWRW
 
 | Tartans |
 |---------------|
-| [Manhattan Financial](/setts/s16/w48r2wa6ra18w20ra8wa6g2ra6wa6ra4k20wa8k14w24b4-b2c2c80-g006818-k101010-rc80000-ra888888-we0e0e0-wafcfcfc/)|
-|![Manhattan Financial example sett](/setts/s16/w48r2wa6ra18w20ra8wa6g2ra6wa6ra4k20wa8k14w24b4-b2c2c80-g006818-k101010-rc80000-ra888888-we0e0e0-wafcfcfc/sett.png)|
+| [Manhattan Financial](/setts/s16/w24r1wa3ra9w10ra4wa3g1ra3wa3ra2k10wa4k7w12b2~b2c2c80-g006818-k101010-rc80000-ra888888-we0e0e0-wafcfcfc~x2/)|
+|![Manhattan Financial example sett](/setts/s16/w24r1wa3ra9w10ra4wa3g1ra3wa3ra2k10wa4k7w12b2~b2c2c80-g006818-k101010-rc80000-ra888888-we0e0e0-wafcfcfc~x2/sett.png)|

@@ -16,5 +16,5 @@ GYBRBRBRW
 
 | Tartans |
 |---------------|
-| [Tinkler (Corporate)](/setts/s9/g8y36b24r12b8r12b8r40w8-b441800-g006818-r880000-we0e0e0-yac986c/)|
-|![Tinkler (Corporate) example sett](/setts/s9/g8y36b24r12b8r12b8r40w8-b441800-g006818-r880000-we0e0e0-yac986c/sett.png)|
+| [Tinkler (Corporate)](/setts/s9/g2y9b6r3b2r3b2r10w2~b441800-g006818-r880000-we0e0e0-yac986c~x4/)|
+|![Tinkler (Corporate) example sett](/setts/s9/g2y9b6r3b2r3b2r10w2~b441800-g006818-r880000-we0e0e0-yac986c~x4/sett.png)|

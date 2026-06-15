@@ -16,5 +16,5 @@ RWRWRWRWRBRBRBRBW
 
 | Tartans |
 |---------------|
-| [Nike Golf Light (Corporate)](/setts/s17/r10w40ra2w4ra2w4ra4w4ra10b4ra4b4ra4b6ra4b20w6-b5c5c5c-rc80000-ra888888-wfcfcfc/)|
-|![Nike Golf Light (Corporate) example sett](/setts/s17/r10w40ra2w4ra2w4ra4w4ra10b4ra4b4ra4b6ra4b20w6-b5c5c5c-rc80000-ra888888-wfcfcfc/sett.png)|
+| [Nike Golf Light (Corporate)](/setts/s17/r5w20ra1w2ra1w2ra2w2ra5b2ra2b2ra2b3ra2b10w3~b5c5c5c-rc80000-ra888888-wfcfcfc~x2/)|
+|![Nike Golf Light (Corporate) example sett](/setts/s17/r5w20ra1w2ra1w2ra2w2ra5b2ra2b2ra2b3ra2b10w3~b5c5c5c-rc80000-ra888888-wfcfcfc~x2/sett.png)|

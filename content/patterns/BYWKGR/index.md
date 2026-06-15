@@ -6,7 +6,7 @@ BYWKGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b38y6w2k36g60r4-b351e14-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/tartan.png)
+![Woven sample](/setts/s6/b19y3w1k18g30r2~b351e14-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYWKGR
 
 | Tartans |
 |---------------|
-| [Cornish Countryside](/setts/s6/b38y6w2k36g60r4-b351e14-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/)|
-|![Cornish Countryside example sett](/setts/s6/b38y6w2k36g60r4-b351e14-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126/sett.png)|
+| [Cornish Countryside](/setts/s6/b19y3w1k18g30r2~b351e14-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126~x2/)|
+|![Cornish Countryside example sett](/setts/s6/b19y3w1k18g30r2~b351e14-g23321b-k1c1714-rca2625-wf9f5ef-ye0a126~x2/sett.png)|

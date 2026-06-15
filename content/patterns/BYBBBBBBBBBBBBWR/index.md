@@ -16,5 +16,5 @@ BYBBBBBBBBBBBBWR
 
 | Tartans |
 |---------------|
-| [Help for Heroes](/setts/s16/r12w50b20ba2b10ba4b8ba6b6ba6b4ba8b2ba32y12ba6-b003333-ba000077-ree0000-w66ffcc-ybbbbbb/)|
-|![Help for Heroes example sett](/setts/s16/r12w50b20ba2b10ba4b8ba6b6ba6b4ba8b2ba32y12ba6-b003333-ba000077-ree0000-w66ffcc-ybbbbbb/sett.png)|
+| [Help for Heroes](/setts/s16/r6w25b10ba1b5ba2b4ba3b3ba3b2ba4b1ba16y6ba3~b003333-ba000077-ree0000-w66ffcc-ybbbbbb~x2/)|
+|![Help for Heroes example sett](/setts/s16/r6w25b10ba1b5ba2b4ba3b3ba3b2ba4b1ba16y6ba3~b003333-ba000077-ree0000-w66ffcc-ybbbbbb~x2/sett.png)|

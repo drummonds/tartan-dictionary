@@ -16,5 +16,5 @@ GKGYKWKWKWKWK
 
 | Tartans |
 |---------------|
-| [Currie of Balilone (Variant Franklin)](/setts/s13/g60k2g4y4k4w2k24w2k4w4k4w2k12-g005020-k101010-we0e0e0-yc89600/)|
-|![Currie of Balilone (Variant Franklin) example sett](/setts/s13/g60k2g4y4k4w2k24w2k4w4k4w2k12-g005020-k101010-we0e0e0-yc89600/sett.png)|
+| [Currie of Balilone (Variant Franklin)](/setts/s13/g30k1g2y2k2w1k12w1k2w2k2w1k6~g005020-k101010-we0e0e0-yc89600~x2/)|
+|![Currie of Balilone (Variant Franklin) example sett](/setts/s13/g30k1g2y2k2w1k12w1k2w2k2w1k6~g005020-k101010-we0e0e0-yc89600~x2/sett.png)|

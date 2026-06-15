@@ -6,7 +6,7 @@ RBBGBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4b12ba4g12ba20w4-b202060-ba680028-g006818-ra00000-wa8ace8/tartan.png)
+![Woven sample](/setts/s6/r1b3ba1g3ba5w1~b202060-ba680028-g006818-ra00000-wa8ace8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBGBW
 
 | Tartans |
 |---------------|
-| [Lanark (Fashion #1)](/setts/s6/r4b12ba4g12ba20w4-b202060-ba680028-g006818-ra00000-wa8ace8/)|
-|![Lanark (Fashion #1) example sett](/setts/s6/r4b12ba4g12ba20w4-b202060-ba680028-g006818-ra00000-wa8ace8/sett.png)|
+| [Lanark (Fashion #1)](/setts/s6/r1b3ba1g3ba5w1~b202060-ba680028-g006818-ra00000-wa8ace8~x4/)|
+|![Lanark (Fashion #1) example sett](/setts/s6/r1b3ba1g3ba5w1~b202060-ba680028-g006818-ra00000-wa8ace8~x4/sett.png)|

@@ -6,7 +6,7 @@ RBBGKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6b30ba16g10k4w2-b1c1c50-ba2c2c80-g006818-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/r3b15ba8g5k2w1~b1c1c50-ba2c2c80-g006818-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBGKW
 
 | Tartans |
 |---------------|
-| [Nicolson of Harris (Clan?)](/setts/s6/r6b30ba16g10k4w2-b1c1c50-ba2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Nicolson of Harris (Clan?) example sett](/setts/s6/r6b30ba16g10k4w2-b1c1c50-ba2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Nicolson of Harris (Clan?)](/setts/s6/r3b15ba8g5k2w1~b1c1c50-ba2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Nicolson of Harris (Clan?) example sett](/setts/s6/r3b15ba8g5k2w1~b1c1c50-ba2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

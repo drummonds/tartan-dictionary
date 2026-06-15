@@ -16,5 +16,5 @@ RGRBRKRGRKRY
 
 | Tartans |
 |---------------|
-| [Highland Queen (Corporate)](/setts/s12/r16g8r60b12r4k2r4g12r16k2r8y4-b2c2c80-g5c9478-k101010-rc44438-ye8c000/)|
-|![Highland Queen (Corporate) example sett](/setts/s12/r16g8r60b12r4k2r4g12r16k2r8y4-b2c2c80-g5c9478-k101010-rc44438-ye8c000/sett.png)|
+| [Highland Queen (Corporate)](/setts/s12/r8g4r30b6r2k1r2g6r8k1r4y2~b2c2c80-g5c9478-k101010-rc44438-ye8c000~x2/)|
+|![Highland Queen (Corporate) example sett](/setts/s12/r8g4r30b6r2k1r2g6r8k1r4y2~b2c2c80-g5c9478-k101010-rc44438-ye8c000~x2/sett.png)|

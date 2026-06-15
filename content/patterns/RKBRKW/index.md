@@ -6,7 +6,7 @@ RKBRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w12k58r58b14k6ra6-b600060-k101010-r888888-rac80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/w6k29r29b7k3ra3~b600060-k101010-r888888-rac80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKBRKW
 
 | Tartans |
 |---------------|
-| [Jewell of Kernow (Personal)](/setts/s6/w12k58r58b14k6ra6-b600060-k101010-r888888-rac80000-we0e0e0/)|
-|![Jewell of Kernow (Personal) example sett](/setts/s6/w12k58r58b14k6ra6-b600060-k101010-r888888-rac80000-we0e0e0/sett.png)|
+| [Jewell of Kernow (Personal)](/setts/s6/w6k29r29b7k3ra3~b600060-k101010-r888888-rac80000-we0e0e0~x2/)|
+|![Jewell of Kernow (Personal) example sett](/setts/s6/w6k29r29b7k3ra3~b600060-k101010-r888888-rac80000-we0e0e0~x2/sett.png)|

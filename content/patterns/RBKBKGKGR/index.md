@@ -16,7 +16,7 @@ RBKBKGKGR
 
 | Tartans |
 |---------------|
-| [Ayrton](/setts/s9/r6b4k2b40k18g40k2g4r6-b3c82af-g005020-k101010-rdc0000/)|
-|![Ayrton example sett](/setts/s9/r6b4k2b40k18g40k2g4r6-b3c82af-g005020-k101010-rdc0000/sett.png)|
-| [Ayrton](/setts/s9/r6b4k2b40k18g40k2g4r6-b5480b0-g008000-k000000-rc00000/)|
-|![Ayrton example sett](/setts/s9/r6b4k2b40k18g40k2g4r6-b5480b0-g008000-k000000-rc00000/sett.png)|
+| [Ayrton](/setts/s9/r3b2k1b20k9g20k1g2r3~b3c82af-g005020-k101010-rdc0000~x2/)|
+|![Ayrton example sett](/setts/s9/r3b2k1b20k9g20k1g2r3~b3c82af-g005020-k101010-rdc0000~x2/sett.png)|
+| [Ayrton](/setts/s9/r3b2k1b20k9g20k1g2r3~b5480b0-g008000-k000000-rc00000~x2/)|
+|![Ayrton example sett](/setts/s9/r3b2k1b20k9g20k1g2r3~b5480b0-g008000-k000000-rc00000~x2/sett.png)|

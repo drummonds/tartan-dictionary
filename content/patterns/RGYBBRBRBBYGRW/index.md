@@ -16,5 +16,5 @@ RGYBBRBRBBYGRW
 
 | Tartans |
 |---------------|
-| [Wilson's No.002](/setts/s14/r42g26y4b22ba18r22b4r22ba18b22y4g26r42w2-b440044-ba5c8ca8-g006818-rc80000-wfcfcfc-ye8c000/)|
-|![Wilson's No.002 example sett](/setts/s14/r42g26y4b22ba18r22b4r22ba18b22y4g26r42w2-b440044-ba5c8ca8-g006818-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Wilson's No.002](/setts/s14/r21g13y2b11ba9r11b2r11ba9b11y2g13r21w1~b440044-ba5c8ca8-g006818-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Wilson's No.002 example sett](/setts/s14/r21g13y2b11ba9r11b2r11ba9b11y2g13r21w1~b440044-ba5c8ca8-g006818-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

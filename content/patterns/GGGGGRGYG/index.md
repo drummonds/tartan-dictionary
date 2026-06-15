@@ -16,5 +16,5 @@ GGGGGRGYG
 
 | Tartans |
 |---------------|
-| [Fitzgibbon (Name)](/setts/s9/g4y12ga48r4gb4g2gb12g20ga4-g003820-ga007418-gb604c00-rc80000-ya08858/)|
-|![Fitzgibbon (Name) example sett](/setts/s9/g4y12ga48r4gb4g2gb12g20ga4-g003820-ga007418-gb604c00-rc80000-ya08858/sett.png)|
+| [Fitzgibbon (Name)](/setts/s9/g2y6ga24r2gb2g1gb6g10ga2~g003820-ga007418-gb604c00-rc80000-ya08858~x2/)|
+|![Fitzgibbon (Name) example sett](/setts/s9/g2y6ga24r2gb2g1gb6g10ga2~g003820-ga007418-gb604c00-rc80000-ya08858~x2/sett.png)|

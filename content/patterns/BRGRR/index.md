@@ -6,7 +6,7 @@ BRGRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r16ra2g8ra2b8-b2c4084-g005020-rdc0000-rac82828/tartan.png)
+![Woven sample](/setts/s5/r8ra1g4ra1b4~b2c4084-g005020-rdc0000-rac82828~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRGRR
 
 | Tartans |
 |---------------|
-| [Moray of Abercairney #2](/setts/s5/r16ra2g8ra2b8-b2c4084-g005020-rdc0000-rac82828/)|
-|![Moray of Abercairney #2 example sett](/setts/s5/r16ra2g8ra2b8-b2c4084-g005020-rdc0000-rac82828/sett.png)|
-| [Moray of Abercairney](/setts/s5/r16ra2g8ra2b8-b304080-g008000-rc00000-rad03030/)|
-|![Moray of Abercairney example sett](/setts/s5/r16ra2g8ra2b8-b304080-g008000-rc00000-rad03030/sett.png)|
+| [Moray of Abercairney #2](/setts/s5/r8ra1g4ra1b4~b2c4084-g005020-rdc0000-rac82828~x2/)|
+|![Moray of Abercairney #2 example sett](/setts/s5/r8ra1g4ra1b4~b2c4084-g005020-rdc0000-rac82828~x2/sett.png)|
+| [Moray of Abercairney](/setts/s5/r8ra1g4ra1b4~b304080-g008000-rc00000-rad03030~x2/)|
+|![Moray of Abercairney example sett](/setts/s5/r8ra1g4ra1b4~b304080-g008000-rc00000-rad03030~x2/sett.png)|

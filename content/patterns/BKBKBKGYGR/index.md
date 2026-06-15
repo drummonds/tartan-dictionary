@@ -16,7 +16,7 @@ BKBKBKGYGR
 
 | Tartans |
 |---------------|
-| [Barnes Hunting (Personal)](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Barnes Hunting (Personal) example sett](/setts/s10/b40k6b6k6b6k32g6y6g24r4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
-| [Barnes](/setts/s10/b40k6b6k6b6k32g4y6g24r4-b304080-g008000-k000000-rc00000-yf0c000/)|
-|![Barnes example sett](/setts/s10/b40k6b6k6b6k32g4y6g24r4-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Barnes Hunting (Personal)](/setts/s10/b20k3b3k3b3k16g3y3g12r2~b1c0070-g006818-k101010-r880000-yd09800~x2/)|
+|![Barnes Hunting (Personal) example sett](/setts/s10/b20k3b3k3b3k16g3y3g12r2~b1c0070-g006818-k101010-r880000-yd09800~x2/sett.png)|
+| [Barnes](/setts/s10/b20k3b3k3b3k16g2y3g12r2~b304080-g008000-k000000-rc00000-yf0c000~x2/)|
+|![Barnes example sett](/setts/s10/b20k3b3k3b3k16g2y3g12r2~b304080-g008000-k000000-rc00000-yf0c000~x2/sett.png)|

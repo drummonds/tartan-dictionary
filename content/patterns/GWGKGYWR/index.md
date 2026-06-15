@@ -6,7 +6,7 @@ GWGKGYWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g36w8g36k8ga56y16w8r8-g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g9w2g9k2ga14y4w2r2~g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGKGYWR
 
 | Tartans |
 |---------------|
-| [McShane (Personal)](/setts/s8/g36w8g36k8ga56y16w8r8-g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000/)|
-|![McShane (Personal) example sett](/setts/s8/g36w8g36k8ga56y16w8r8-g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000/sett.png)|
+| [McShane (Personal)](/setts/s8/g9w2g9k2ga14y4w2r2~g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000~x4/)|
+|![McShane (Personal) example sett](/setts/s8/g9w2g9k2ga14y4w2r2~g006818-ga604000-k101010-rc80000-wc0c0c0-ye8c000~x4/sett.png)|

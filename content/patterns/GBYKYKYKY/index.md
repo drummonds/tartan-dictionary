@@ -16,5 +16,5 @@ GBYKYKYKY
 
 | Tartans |
 |---------------|
-| [Brittany National (District)](/setts/s9/g12b22y16k8y16k8y16k54y8-b2c2c80-g006818-k101010-yb8b8b8/)|
-|![Brittany National (District) example sett](/setts/s9/g12b22y16k8y16k8y16k54y8-b2c2c80-g006818-k101010-yb8b8b8/sett.png)|
+| [Brittany National (District)](/setts/s9/g6b11y8k4y8k4y8k27y4~b2c2c80-g006818-k101010-yb8b8b8~x2/)|
+|![Brittany National (District) example sett](/setts/s9/g6b11y8k4y8k4y8k27y4~b2c2c80-g006818-k101010-yb8b8b8~x2/sett.png)|

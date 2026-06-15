@@ -16,5 +16,5 @@ RGRGRBRGRGRY
 
 | Tartans |
 |---------------|
-| [Capricornica (Fashion)](/setts/s12/r20g10r20g10r20b20r20g10r20g10r20y6-b202060-g003820-r880000-yfccc00/)|
-|![Capricornica (Fashion) example sett](/setts/s12/r20g10r20g10r20b20r20g10r20g10r20y6-b202060-g003820-r880000-yfccc00/sett.png)|
+| [Capricornica (Fashion)](/setts/s12/r10g5r10g5r10b10r10g5r10g5r10y3~b202060-g003820-r880000-yfccc00~x2/)|
+|![Capricornica (Fashion) example sett](/setts/s12/r10g5r10g5r10b10r10g5r10g5r10y3~b202060-g003820-r880000-yfccc00~x2/sett.png)|

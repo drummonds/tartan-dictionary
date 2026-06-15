@@ -6,7 +6,7 @@ GBRYG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g40b8r32y8g20-b00008c-g146400-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s5/g10b2r8y2g5~b00008c-g146400-r8c0000-yc88c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRYG
 
 | Tartans |
 |---------------|
-| [Cub Scouts of America](/setts/s5/g40b8r32y8g20-b00008c-g146400-r8c0000-yc88c00/)|
-|![Cub Scouts of America example sett](/setts/s5/g40b8r32y8g20-b00008c-g146400-r8c0000-yc88c00/sett.png)|
+| [Cub Scouts of America](/setts/s5/g10b2r8y2g5~b00008c-g146400-r8c0000-yc88c00~x4/)|
+|![Cub Scouts of America example sett](/setts/s5/g10b2r8y2g5~b00008c-g146400-r8c0000-yc88c00~x4/sett.png)|

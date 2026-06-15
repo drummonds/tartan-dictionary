@@ -6,7 +6,7 @@ YGKGYGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y4g44k24g12y4g4y4-g285800-k101010-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/y1g11k6g3y1g1y1~g285800-k101010-ybc8c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YGKGYGY
 
 | Tartans |
 |---------------|
-| [Angle, Green (Fashion)](/setts/s7/y4g44k24g12y4g4y4-g285800-k101010-ybc8c00/)|
-|![Angle, Green (Fashion) example sett](/setts/s7/y4g44k24g12y4g4y4-g285800-k101010-ybc8c00/sett.png)|
+| [Angle, Green (Fashion)](/setts/s7/y1g11k6g3y1g1y1~g285800-k101010-ybc8c00~x4/)|
+|![Angle, Green (Fashion) example sett](/setts/s7/y1g11k6g3y1g1y1~g285800-k101010-ybc8c00~x4/sett.png)|

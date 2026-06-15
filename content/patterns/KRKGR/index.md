@@ -6,7 +6,7 @@ KRKGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k6r22ka52g22ra6-g503c14-k101010-ka000028-rdc0000-rafa4b00/tartan.png)
+![Woven sample](/setts/s5/k3r11ka26g11ra3~g503c14-k101010-ka000028-rdc0000-rafa4b00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKGR
 
 | Tartans |
 |---------------|
-| [Novotel, The](/setts/s5/k6r22ka52g22ra6-g503c14-k101010-ka000028-rdc0000-rafa4b00/)|
-|![Novotel, The example sett](/setts/s5/k6r22ka52g22ra6-g503c14-k101010-ka000028-rdc0000-rafa4b00/sett.png)|
+| [Novotel, The](/setts/s5/k3r11ka26g11ra3~g503c14-k101010-ka000028-rdc0000-rafa4b00~x2/)|
+|![Novotel, The example sett](/setts/s5/k3r11ka26g11ra3~g503c14-k101010-ka000028-rdc0000-rafa4b00~x2/sett.png)|

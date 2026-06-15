@@ -16,5 +16,5 @@ KBKRKGKRKGRK
 
 | Tartans |
 |---------------|
-| [Skene (Maclan)](/setts/s12/k8b48k8r6k8g48k8ra6k8g48r6k8-b2c4084-g005020-k101010-rdc0000-rafa4b00/)|
-|![Skene (Maclan) example sett](/setts/s12/k8b48k8r6k8g48k8ra6k8g48r6k8-b2c4084-g005020-k101010-rdc0000-rafa4b00/sett.png)|
+| [Skene (Maclan)](/setts/s12/k4b24k4r3k4g24k4ra3k4g24r3k4~b2c4084-g005020-k101010-rdc0000-rafa4b00~x2/)|
+|![Skene (Maclan) example sett](/setts/s12/k4b24k4r3k4g24k4ra3k4g24r3k4~b2c4084-g005020-k101010-rdc0000-rafa4b00~x2/sett.png)|

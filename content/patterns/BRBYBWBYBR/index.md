@@ -16,5 +16,5 @@ BRBYBWBYBR
 
 | Tartans |
 |---------------|
-| [Superfast Ferries](/setts/s10/r64b24y16b24w4b24y16b24r64b4-b2c2c80-rc80000-we0e0e0-ye8c000/)|
-|![Superfast Ferries example sett](/setts/s10/r64b24y16b24w4b24y16b24r64b4-b2c2c80-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Superfast Ferries](/setts/s10/r16b6y4b6w1b6y4b6r16b1~b2c2c80-rc80000-we0e0e0-ye8c000~x4/)|
+|![Superfast Ferries example sett](/setts/s10/r16b6y4b6w1b6y4b6r16b1~b2c2c80-rc80000-we0e0e0-ye8c000~x4/sett.png)|

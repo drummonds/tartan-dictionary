@@ -16,5 +16,5 @@ RRKWKYKWBW
 
 | Tartans |
 |---------------|
-| [Scotland's International - Away (Fas](/setts/s10/r48ra48k4w12k4y4k32wa10b12w4-b2c2c80-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-ye8c000/)|
-|![Scotland's International - Away (Fas example sett](/setts/s10/r48ra48k4w12k4y4k32wa10b12w4-b2c2c80-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-ye8c000/sett.png)|
+| [Scotland's International - Away (Fas](/setts/s10/r24ra24k2w6k2y2k16wa5b6w2~b2c2c80-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-ye8c000~x2/)|
+|![Scotland's International - Away (Fas example sett](/setts/s10/r24ra24k2w6k2y2k16wa5b6w2~b2c2c80-k101010-rc80000-ra880000-we0e0e0-wa98c8e8-ye8c000~x2/sett.png)|

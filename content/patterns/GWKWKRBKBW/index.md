@@ -16,5 +16,5 @@ GWKWKRBKBW
 
 | Tartans |
 |---------------|
-| [Victoria State (Australia)](/setts/s10/g48w4k8w4k16r4b102k4ba16w2-b4c5478-ba5c8ca8-g006818-k101010-re87878-we0e0e0/)|
-|![Victoria State (Australia) example sett](/setts/s10/g48w4k8w4k16r4b102k4ba16w2-b4c5478-ba5c8ca8-g006818-k101010-re87878-we0e0e0/sett.png)|
+| [Victoria State (Australia)](/setts/s10/g24w2k4w2k8r2b51k2ba8w1~b4c5478-ba5c8ca8-g006818-k101010-re87878-we0e0e0~x2/)|
+|![Victoria State (Australia) example sett](/setts/s10/g24w2k4w2k8r2b51k2ba8w1~b4c5478-ba5c8ca8-g006818-k101010-re87878-we0e0e0~x2/sett.png)|

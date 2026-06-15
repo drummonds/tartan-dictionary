@@ -6,7 +6,7 @@ BYRYRGG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b38y24r8ya16ra8g12ga32-b5c8ca8-g006818-ga408060-rc80000-ra888888-yd87c00-yafccc00/tartan.png)
+![Woven sample](/setts/s7/b19y12r4ya8ra4g6ga16~b5c8ca8-g006818-ga408060-rc80000-ra888888-yd87c00-yafccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRYRGG
 
 | Tartans |
 |---------------|
-| [Aberdeenshire Home Colours](/setts/s7/b38y24r8ya16ra8g12ga32-b5c8ca8-g006818-ga408060-rc80000-ra888888-yd87c00-yafccc00/)|
-|![Aberdeenshire Home Colours example sett](/setts/s7/b38y24r8ya16ra8g12ga32-b5c8ca8-g006818-ga408060-rc80000-ra888888-yd87c00-yafccc00/sett.png)|
+| [Aberdeenshire Home Colours](/setts/s7/b19y12r4ya8ra4g6ga16~b5c8ca8-g006818-ga408060-rc80000-ra888888-yd87c00-yafccc00~x2/)|
+|![Aberdeenshire Home Colours example sett](/setts/s7/b19y12r4ya8ra4g6ga16~b5c8ca8-g006818-ga408060-rc80000-ra888888-yd87c00-yafccc00~x2/sett.png)|

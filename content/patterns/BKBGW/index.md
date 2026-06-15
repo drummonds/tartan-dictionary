@@ -6,7 +6,7 @@ BKBGW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b8k4b64g68w8-b780078-g289c18-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/b2k1b16g17w2~b780078-g289c18-k101010-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBGW
 
 | Tartans |
 |---------------|
-| [Kansai Highland Games](/setts/s5/b8k4b64g68w8-b780078-g289c18-k101010-wfcfcfc/)|
-|![Kansai Highland Games example sett](/setts/s5/b8k4b64g68w8-b780078-g289c18-k101010-wfcfcfc/sett.png)|
-| [Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/b8k4b64g64w8-b780078-g289c18-k101010-we0e0e0/)|
-|![Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/b8k4b64g64w8-b780078-g289c18-k101010-we0e0e0/sett.png)|
+| [Kansai Highland Games](/setts/s5/b2k1b16g17w2~b780078-g289c18-k101010-wfcfcfc~x4/)|
+|![Kansai Highland Games example sett](/setts/s5/b2k1b16g17w2~b780078-g289c18-k101010-wfcfcfc~x4/sett.png)|
+| [Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/b2k1b16g16w2~b780078-g289c18-k101010-we0e0e0~x4/)|
+|![Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/b2k1b16g16w2~b780078-g289c18-k101010-we0e0e0~x4/sett.png)|

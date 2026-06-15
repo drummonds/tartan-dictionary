@@ -16,5 +16,5 @@ GRGBGRGRGR
 
 | Tartans |
 |---------------|
-| [Owen (Welsh Name)](/setts/s10/g6r2g4b2g6r6g4r4g36r4-b002048-g006818-rc80000/)|
-|![Owen (Welsh Name) example sett](/setts/s10/g6r2g4b2g6r6g4r4g36r4-b002048-g006818-rc80000/sett.png)|
+| [Owen (Welsh Name)](/setts/s10/g3r1g2b1g3r3g2r2g18r2~b002048-g006818-rc80000~x2/)|
+|![Owen (Welsh Name) example sett](/setts/s10/g3r1g2b1g3r3g2r2g18r2~b002048-g006818-rc80000~x2/sett.png)|

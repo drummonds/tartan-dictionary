@@ -16,5 +16,5 @@ BWYBGWGYWGBRGBW
 
 | Tartans |
 |---------------|
-| [Thomas McGurran](/setts/s15/b8w16y6b2g2w2g64y4w2g2ba16r2g4ba4w4-b1c0070-ba5c5c5c-g285800-rdc0000-wffffff-yd87c00/)|
-|![Thomas McGurran example sett](/setts/s15/b8w16y6b2g2w2g64y4w2g2ba16r2g4ba4w4-b1c0070-ba5c5c5c-g285800-rdc0000-wffffff-yd87c00/sett.png)|
+| [Thomas McGurran](/setts/s15/b4w8y3b1g1w1g32y2w1g1ba8r1g2ba2w2~b1c0070-ba5c5c5c-g285800-rdc0000-wffffff-yd87c00~x2/)|
+|![Thomas McGurran example sett](/setts/s15/b4w8y3b1g1w1g32y2w1g1ba8r1g2ba2w2~b1c0070-ba5c5c5c-g285800-rdc0000-wffffff-yd87c00~x2/sett.png)|

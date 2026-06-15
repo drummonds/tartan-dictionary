@@ -16,5 +16,5 @@ RBYRBRYBRGRBYKWGRKBW
 
 | Tartans |
 |---------------|
-| [Fennell Grandmothers (Personal)](/setts/s20/r110b2y2r6b14r6y2b2r6g32r6b2y2k6w2g10r6k4b4w2-b740074-g006818-k101010-rc80000-wececec-ye8c000/)|
-|![Fennell Grandmothers (Personal) example sett](/setts/s20/r110b2y2r6b14r6y2b2r6g32r6b2y2k6w2g10r6k4b4w2-b740074-g006818-k101010-rc80000-wececec-ye8c000/sett.png)|
+| [Fennell Grandmothers (Personal)](/setts/s20/r55b1y1r3b7r3y1b1r3g16r3b1y1k3w1g5r3k2b2w1~b740074-g006818-k101010-rc80000-wececec-ye8c000~x2/)|
+|![Fennell Grandmothers (Personal) example sett](/setts/s20/r55b1y1r3b7r3y1b1r3g16r3b1y1k3w1g5r3k2b2w1~b740074-g006818-k101010-rc80000-wececec-ye8c000~x2/sett.png)|

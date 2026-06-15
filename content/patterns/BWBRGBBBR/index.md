@@ -16,5 +16,5 @@ BWBRGBBBR
 
 | Tartans |
 |---------------|
-| [Spens/Spence (Clan)](/setts/s9/r52b2b20b2g64r22b16w6b2-b2888c4-g408060-r901c38-wf8f8f8/)|
-|![Spens/Spence (Clan) example sett](/setts/s9/r52b2b20b2g64r22b16w6b2-b2888c4-g408060-r901c38-wf8f8f8/sett.png)|
+| [Spens/Spence (Clan)](/setts/s9/r26b1b10b1g32r11b8w3b1~b2888c4-g408060-r901c38-wf8f8f8~x2/)|
+|![Spens/Spence (Clan) example sett](/setts/s9/r26b1b10b1g32r11b8w3b1~b2888c4-g408060-r901c38-wf8f8f8~x2/sett.png)|

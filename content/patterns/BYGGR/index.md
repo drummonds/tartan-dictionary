@@ -6,7 +6,7 @@ BYGGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b10y10g26ga82r6-b433a5a-g5d321f-ga649848-rca2625-ye0a126/tartan.png)
+![Woven sample](/setts/s5/b5y5g13ga41r3~b433a5a-g5d321f-ga649848-rca2625-ye0a126~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYGGR
 
 | Tartans |
 |---------------|
-| [Clare (Prince George) (Personal)](/setts/s5/b10y10g26ga82r6-b433a5a-g5d321f-ga649848-rca2625-ye0a126/)|
-|![Clare (Prince George) (Personal) example sett](/setts/s5/b10y10g26ga82r6-b433a5a-g5d321f-ga649848-rca2625-ye0a126/sett.png)|
-| [Clare, Richard (Personal)](/setts/s5/b10y10g26ga82r6-b003c64-g604000-ga289c18-rc8002c-ybc8c00/)|
-|![Clare, Richard (Personal) example sett](/setts/s5/b10y10g26ga82r6-b003c64-g604000-ga289c18-rc8002c-ybc8c00/sett.png)|
+| [Clare (Prince George) (Personal)](/setts/s5/b5y5g13ga41r3~b433a5a-g5d321f-ga649848-rca2625-ye0a126~x2/)|
+|![Clare (Prince George) (Personal) example sett](/setts/s5/b5y5g13ga41r3~b433a5a-g5d321f-ga649848-rca2625-ye0a126~x2/sett.png)|
+| [Clare, Richard (Personal)](/setts/s5/b5y5g13ga41r3~b003c64-g604000-ga289c18-rc8002c-ybc8c00~x2/)|
+|![Clare, Richard (Personal) example sett](/setts/s5/b5y5g13ga41r3~b003c64-g604000-ga289c18-rc8002c-ybc8c00~x2/sett.png)|

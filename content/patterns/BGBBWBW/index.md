@@ -6,7 +6,7 @@ BGBBWBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b4g28b28ba8w24b4w4-b000064-ba00008c-g007800-wffffff/tartan.png)
+![Woven sample](/setts/s7/b1g7b7ba2w6b1w1~b000064-ba00008c-g007800-wffffff~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGBBWBW
 
 | Tartans |
 |---------------|
-| [Blue Boy, The](/setts/s7/b4g28b28ba8w24b4w4-b000064-ba00008c-g007800-wffffff/)|
-|![Blue Boy, The example sett](/setts/s7/b4g28b28ba8w24b4w4-b000064-ba00008c-g007800-wffffff/sett.png)|
-| [Blue Boy, The (Fashion)](/setts/s7/b4g28b28ba8w24b4w4-b000064-ba00008c-g007800-wfcfcfc/)|
-|![Blue Boy, The (Fashion) example sett](/setts/s7/b4g28b28ba8w24b4w4-b000064-ba00008c-g007800-wfcfcfc/sett.png)|
+| [Blue Boy, The](/setts/s7/b1g7b7ba2w6b1w1~b000064-ba00008c-g007800-wffffff~x4/)|
+|![Blue Boy, The example sett](/setts/s7/b1g7b7ba2w6b1w1~b000064-ba00008c-g007800-wffffff~x4/sett.png)|
+| [Blue Boy, The (Fashion)](/setts/s7/b1g7b7ba2w6b1w1~b000064-ba00008c-g007800-wfcfcfc~x4/)|
+|![Blue Boy, The (Fashion) example sett](/setts/s7/b1g7b7ba2w6b1w1~b000064-ba00008c-g007800-wfcfcfc~x4/sett.png)|

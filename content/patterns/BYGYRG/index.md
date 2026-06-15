@@ -6,7 +6,7 @@ BYGYRG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b48y6g30y72r6g12-b000080-g003820-rdc0000-yfff000/tartan.png)
+![Woven sample](/setts/s6/b8y1g5y12r1g2~b000080-g003820-rdc0000-yfff000~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYGYRG
 
 | Tartans |
 |---------------|
-| [McCabe (2016)](/setts/s6/b48y6g30y72r6g12-b000080-g003820-rdc0000-yfff000/)|
-|![McCabe (2016) example sett](/setts/s6/b48y6g30y72r6g12-b000080-g003820-rdc0000-yfff000/sett.png)|
+| [McCabe (2016)](/setts/s6/b8y1g5y12r1g2~b000080-g003820-rdc0000-yfff000~x6/)|
+|![McCabe (2016) example sett](/setts/s6/b8y1g5y12r1g2~b000080-g003820-rdc0000-yfff000~x6/sett.png)|

@@ -16,5 +16,5 @@ BWBBBBRBRYRYW
 
 | Tartans |
 |---------------|
-| [Holland, Tartan of (Fashion)](/setts/s13/b30w4b18ba20b4ba20r16ba4r16y12r4y38w6-b2c2c80-ba202060-rc80000-wf8f8f8-yd87c00/)|
-|![Holland, Tartan of (Fashion) example sett](/setts/s13/b30w4b18ba20b4ba20r16ba4r16y12r4y38w6-b2c2c80-ba202060-rc80000-wf8f8f8-yd87c00/sett.png)|
+| [Holland, Tartan of (Fashion)](/setts/s13/b15w2b9ba10b2ba10r8ba2r8y6r2y19w3~b2c2c80-ba202060-rc80000-wf8f8f8-yd87c00~x2/)|
+|![Holland, Tartan of (Fashion) example sett](/setts/s13/b15w2b9ba10b2ba10r8ba2r8y6r2y19w3~b2c2c80-ba202060-rc80000-wf8f8f8-yd87c00~x2/sett.png)|

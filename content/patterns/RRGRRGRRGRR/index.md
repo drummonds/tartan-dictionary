@@ -16,5 +16,5 @@ RRGRRGRRGRR
 
 | Tartans |
 |---------------|
-| [Unnamed Green (Teddy Bear)](/setts/s11/r2ra6g4ra6r2g48r2ra6g4ra6r2-g008000-rc00000-ra806050/)|
-|![Unnamed Green (Teddy Bear) example sett](/setts/s11/r2ra6g4ra6r2g48r2ra6g4ra6r2-g008000-rc00000-ra806050/sett.png)|
+| [Unnamed Green (Teddy Bear)](/setts/s11/r1ra3g2ra3r1g24r1ra3g2ra3r1~g008000-rc00000-ra806050~x2/)|
+|![Unnamed Green (Teddy Bear) example sett](/setts/s11/r1ra3g2ra3r1g24r1ra3g2ra3r1~g008000-rc00000-ra806050~x2/sett.png)|

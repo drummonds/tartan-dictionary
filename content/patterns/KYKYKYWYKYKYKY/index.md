@@ -16,5 +16,5 @@ KYKYKYWYKYKYKY
 
 | Tartans |
 |---------------|
-| [Johnston Orange/Black](/setts/s14/k4y4k48y48k4y4w4y4k4y48k48y4k4y4-k000000-wfcfcfc-yd87c00/)|
-|![Johnston Orange/Black example sett](/setts/s14/k4y4k48y48k4y4w4y4k4y48k48y4k4y4-k000000-wfcfcfc-yd87c00/sett.png)|
+| [Johnston Orange/Black](/setts/s14/k1y1k12y12k1y1w1y1k1y12k12y1k1y1~k000000-wfcfcfc-yd87c00~x4/)|
+|![Johnston Orange/Black example sett](/setts/s14/k1y1k12y12k1y1w1y1k1y12k12y1k1y1~k000000-wfcfcfc-yd87c00~x4/sett.png)|

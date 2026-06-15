@@ -16,5 +16,5 @@ KWKYKYKBKW
 
 | Tartans |
 |---------------|
-| [Newcastle](/setts/s10/w16k2b4k8y4k4y4k48w16k4-b2c2c80-k101010-we0e0e0-ye8c000/)|
-|![Newcastle example sett](/setts/s10/w16k2b4k8y4k4y4k48w16k4-b2c2c80-k101010-we0e0e0-ye8c000/sett.png)|
+| [Newcastle](/setts/s10/w8k1b2k4y2k2y2k24w8k2~b2c2c80-k101010-we0e0e0-ye8c000~x2/)|
+|![Newcastle example sett](/setts/s10/w8k1b2k4y2k2y2k24w8k2~b2c2c80-k101010-we0e0e0-ye8c000~x2/sett.png)|

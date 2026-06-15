@@ -16,5 +16,5 @@ GGBGGGYGGGBGGY
 
 | Tartans |
 |---------------|
-| [Invertere (Daks #2)](/setts/s14/g28ga8b8ga54g6ga8y10ga8g6ga54b8ga8g28y10-b2c2c80-g289c18-ga604000-ye8c000/)|
-|![Invertere (Daks #2) example sett](/setts/s14/g28ga8b8ga54g6ga8y10ga8g6ga54b8ga8g28y10-b2c2c80-g289c18-ga604000-ye8c000/sett.png)|
+| [Invertere (Daks #2)](/setts/s14/g14ga4b4ga27g3ga4y5ga4g3ga27b4ga4g14y5~b2c2c80-g289c18-ga604000-ye8c000~x2/)|
+|![Invertere (Daks #2) example sett](/setts/s14/g14ga4b4ga27g3ga4y5ga4g3ga27b4ga4g14y5~b2c2c80-g289c18-ga604000-ye8c000~x2/sett.png)|

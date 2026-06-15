@@ -16,5 +16,5 @@ BYBYBBYGW
 
 | Tartans |
 |---------------|
-| [State Seal of Ohio (Fashion)](/setts/s9/b120y6b10ya10b18ba40y8g64w8-b2c2c80-ba441800-g006818-we8ccb8-ya08858-yabc8c00/)|
-|![State Seal of Ohio (Fashion) example sett](/setts/s9/b120y6b10ya10b18ba40y8g64w8-b2c2c80-ba441800-g006818-we8ccb8-ya08858-yabc8c00/sett.png)|
+| [State Seal of Ohio (Fashion)](/setts/s9/b60y3b5ya5b9ba20y4g32w4~b2c2c80-ba441800-g006818-we8ccb8-ya08858-yabc8c00~x2/)|
+|![State Seal of Ohio (Fashion) example sett](/setts/s9/b60y3b5ya5b9ba20y4g32w4~b2c2c80-ba441800-g006818-we8ccb8-ya08858-yabc8c00~x2/sett.png)|

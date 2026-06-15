@@ -16,5 +16,5 @@ RYRWBWBWGYRYRYGYRWYWYWRYGYRYRYGWBWBWRY
 
 | Tartans |
 |---------------|
-| [Whitworth](/setts/s38/r10y2r16w2b40w2ba40w2g40y2r10y2r10y2g40y4r104w2y10w2y10w2r104y4g40y2r10y2r10y2g40w2ba40w2b40w2r16y2-b202060-ba2888c4-g006818-rc80000-wfcfcfc-ye8c000/)|
-|![Whitworth example sett](/setts/s38/r10y2r16w2b40w2ba40w2g40y2r10y2r10y2g40y4r104w2y10w2y10w2r104y4g40y2r10y2r10y2g40w2ba40w2b40w2r16y2-b202060-ba2888c4-g006818-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Whitworth](/setts/s38/r5y1r8w1b20w1ba20w1g20y1r5y1r5y1g20y2r52w1y5w1y5w1r52y2g20y1r5y1r5y1g20w1ba20w1b20w1r8y1~b202060-ba2888c4-g006818-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Whitworth example sett](/setts/s38/r5y1r8w1b20w1ba20w1g20y1r5y1r5y1g20y2r52w1y5w1y5w1r52y2g20y1r5y1r5y1g20w1ba20w1b20w1r8y1~b202060-ba2888c4-g006818-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

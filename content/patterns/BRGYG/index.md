@@ -6,7 +6,7 @@ BRGYG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b70r80g150y60ga30-b304080-g008000-ga908000-rf07040-yffe000/tartan.png)
+![Woven sample](/setts/s5/b7r8g15y6ga3~b304080-g008000-ga908000-rf07040-yffe000~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRGYG
 
 | Tartans |
 |---------------|
-| [Unidentified, Silk Plaid](/setts/s5/b70r80g150y60ga30-b304080-g008000-ga908000-rf07040-yffe000/)|
-|![Unidentified, Silk Plaid example sett](/setts/s5/b70r80g150y60ga30-b304080-g008000-ga908000-rf07040-yffe000/sett.png)|
+| [Unidentified, Silk Plaid](/setts/s5/b7r8g15y6ga3~b304080-g008000-ga908000-rf07040-yffe000~x10/)|
+|![Unidentified, Silk Plaid example sett](/setts/s5/b7r8g15y6ga3~b304080-g008000-ga908000-rf07040-yffe000~x10/sett.png)|

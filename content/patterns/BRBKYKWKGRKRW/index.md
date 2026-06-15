@@ -16,7 +16,7 @@ BRBKYKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Prince Albert](/setts/s13/b46r12b12k20y6k4w4k4g22r24k4r20w4-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![Prince Albert example sett](/setts/s13/b46r12b12k20y6k4w4k4g22r24k4r20w4-b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [Prince Albert](/setts/s13/b46r12b12k20y6k4w4k4g22r24k4r20w4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Prince Albert example sett](/setts/s13/b46r12b12k20y6k4w4k4g22r24k4r20w4-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Prince Albert](/setts/s13/b23r6b6k10y3k2w2k2g11r12k2r10w2~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![Prince Albert example sett](/setts/s13/b23r6b6k10y3k2w2k2g11r12k2r10w2~b2c4084-g005020-k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [Prince Albert](/setts/s13/b23r6b6k10y3k2w2k2g11r12k2r10w2~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Prince Albert example sett](/setts/s13/b23r6b6k10y3k2w2k2g11r12k2r10w2~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

@@ -1,0 +1,48 @@
+---
+title: "American Express Corporate Tartan Tartan Number: 2354. Earliest known date: April 1997 American Express began operating in Glasgow in 1903 and in 1920 acquired WA Williamson Ltd of Glasgow. This tartan (commissioned by VP Donald Daly) was designed for the 1997 American Association of Travel Agents conference in Glasgow and based on the MacWilliam tartan. For more details see archives. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+In pattern [BBRBGWGBRB](/patterns/bbrbgwgbrb/).
+
+
+This was sourced from house-of-tartan.  It is a [10 stripes tartan](/stripes/stripes10/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2354
+
+## Thread count
+B/36 DR4 DB20 G20 N8 G20 DB20 DR4 B36 DB/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3474FC;"><span style="color:#3474FC;filter:grayscale(1) invert(1) contrast(100);">#3474FC</span></code> `#3474FC` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
+| DB | <code style="background-color:#000064;"><span style="color:#000064;filter:grayscale(1) invert(1) contrast(100);">#000064</span></code> `#000064` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
+| DR | <code style="background-color:#8C0000;"><span style="color:#8C0000;filter:grayscale(1) invert(1) contrast(100);">#8C0000</span></code> `#8C0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.14 |
+| G | <code style="background-color:#007800;"><span style="color:#007800;filter:grayscale(1) invert(1) contrast(100);">#007800</span></code> `#007800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| N | <code style="background-color:#C8C8C8;"><span style="color:#C8C8C8;filter:grayscale(1) invert(1) contrast(100);">#C8C8C8</span></code> `#C8C8C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.14 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [American Express](/setts/s6/b2ba9r1b5g5w2~b000064-ba3474fc-g007800-r8c0000-wc8c8c8~x4/) — ΔT 1.11
+1. [Hummelt, Katherine (Personal)](/setts/s8/b11g10ga6b7w2b3ba10w2~b0000cd-ba6c0070-g004c00-ga767e52-w00fcfc~x2/) — ΔT 1.16
+1. [Utah State University](/setts/s11/w7b10k7b7ba7b45k21g21ba4k4w7~b304faa-ba3ca7f7-g0d671f-k101010-wffffff~x2/) — ΔT 1.42
+1. [Ballater](/setts/s10/b3ba1b6r2bb6k1r1k1bb6r3~b00008c-ba788cb4-bb3474fc-k000000-r8c0000~x4/) — ΔT 1.46
+1. [Icelandair](/setts/s7/b3ba24k11b20w2b5y3~b2c4084-ba2888c4-k101010-wffffff-yd87c00~x2/) — ΔT 1.51
+1. [St Kentigern College](/setts/s10/b30ba3b3ba3b3ba10k10g20k2w4~b4169e1-ba000080-g228b22-k101010-wffffff~x2/) — ΔT 1.55
+1. [Strathclyde](/setts/s7/b4ba2b15w10k15ba2k4~b0596fa-ba2c4084-k000028-we0e0e0~x2/) — ΔT 1.55
+1. [Doon Valley Crafters](/setts/s13/w3k1g10k7b10g2b2g2b10k7g10k1y3~b0000cd-g006400-k101010-wc8d3fa-yffd200~x2/) — ΔT 1.55
+1. [Greer (Name?)](/setts/s8/b16ba3b3r3b3ba10ra12w4~b2888c4-ba000064-r888888-ra880000-wf8f8f8~x2/) — ΔT 1.56
+1. [Scottish Motor Trade Assoc. (Corp)](/setts/s11/g5b2g16b10k2w3ba6b14w2ba4w2~b2888c4-ba1c0070-g006818-k101010-we0e0e0~x2/) — ΔT 1.56
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b2ba9r1b5g5w2~b000064-ba3474fc-g007800-r8c0000-wc8c8c8~x4/"><circle cx="124.9" cy="206.7" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/setts/s8/b11g10ga6b7w2b3ba10w2~b0000cd-ba6c0070-g004c00-ga767e52-w00fcfc~x2/"><circle cx="104.5" cy="228.0" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/setts/s11/w7b10k7b7ba7b45k21g21ba4k4w7~b304faa-ba3ca7f7-g0d671f-k101010-wffffff~x2/"><circle cx="165.2" cy="149.6" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><a href="/setts/s10/b3ba1b6r2bb6k1r1k1bb6r3~b00008c-ba788cb4-bb3474fc-k000000-r8c0000~x4/"><circle cx="129.6" cy="198.7" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/setts/s7/b3ba24k11b20w2b5y3~b2c4084-ba2888c4-k101010-wffffff-yd87c00~x2/"><circle cx="203.3" cy="184.1" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/setts/s10/b30ba3b3ba3b3ba10k10g20k2w4~b4169e1-ba000080-g228b22-k101010-wffffff~x2/"><circle cx="169.4" cy="139.7" r="4" fill="#3465a4"><title>St Kentigern College</title></circle></a><a href="/setts/s7/b4ba2b15w10k15ba2k4~b0596fa-ba2c4084-k000028-we0e0e0~x2/"><circle cx="125.0" cy="209.0" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s13/w3k1g10k7b10g2b2g2b10k7g10k1y3~b0000cd-g006400-k101010-wc8d3fa-yffd200~x2/"><circle cx="111.5" cy="171.4" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/setts/s8/b16ba3b3r3b3ba10ra12w4~b2888c4-ba000064-r888888-ra880000-wf8f8f8~x2/"><circle cx="121.3" cy="203.0" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/setts/s11/g5b2g16b10k2w3ba6b14w2ba4w2~b2888c4-ba1c0070-g006818-k101010-we0e0e0~x2/"><circle cx="139.3" cy="175.8" r="4" fill="#3465a4"><title>Scottish Motor Trade Assoc. (Corp)</title></circle></a><circle cx="132.3" cy="192.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/b9r1ba5g5w2g5ba5r1b9ba2~b3474fc-ba000064-g007800-r8c0000-wc8c8c8~x4/

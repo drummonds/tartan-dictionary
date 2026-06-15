@@ -6,7 +6,7 @@ GRKGGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g8r104k40ga18g4y2-g408060-ga604000-k101010-r880000-ybc8c00/tartan.png)
+![Woven sample](/setts/s6/g4r52k20ga9g2y1~g408060-ga604000-k101010-r880000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRKGGY
 
 | Tartans |
 |---------------|
-| [Jack (Personal)](/setts/s6/g8r104k40ga18g4y2-g408060-ga604000-k101010-r880000-ybc8c00/)|
-|![Jack (Personal) example sett](/setts/s6/g8r104k40ga18g4y2-g408060-ga604000-k101010-r880000-ybc8c00/sett.png)|
+| [Jack (Personal)](/setts/s6/g4r52k20ga9g2y1~g408060-ga604000-k101010-r880000-ybc8c00~x2/)|
+|![Jack (Personal) example sett](/setts/s6/g4r52k20ga9g2y1~g408060-ga604000-k101010-r880000-ybc8c00~x2/sett.png)|

@@ -16,5 +16,5 @@ RGWGRGWBYBYBY
 
 | Tartans |
 |---------------|
-| [Pille Family (Belgium) (Personal)](/setts/s13/r8g2w10g2r4g2w10b8y40b16ya4b16ya8-b3f4059-g649848-r9d2123-wf9f5ef-y76a3b9-yae0a126/)|
-|![Pille Family (Belgium) (Personal) example sett](/setts/s13/r8g2w10g2r4g2w10b8y40b16ya4b16ya8-b3f4059-g649848-r9d2123-wf9f5ef-y76a3b9-yae0a126/sett.png)|
+| [Pille Family (Belgium) (Personal)](/setts/s13/r4g1w5g1r2g1w5b4y20b8ya2b8ya4~b3f4059-g649848-r9d2123-wf9f5ef-y76a3b9-yae0a126~x2/)|
+|![Pille Family (Belgium) (Personal) example sett](/setts/s13/r4g1w5g1r2g1w5b4y20b8ya2b8ya4~b3f4059-g649848-r9d2123-wf9f5ef-y76a3b9-yae0a126~x2/sett.png)|

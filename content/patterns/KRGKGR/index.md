@@ -6,7 +6,7 @@ KRGKGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k52r12g32k16g6r4-g003c00-k20001c-r880000/tartan.png)
+![Woven sample](/setts/s6/k26r6g16k8g3r2~g003c00-k20001c-r880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRGKGR
 
 | Tartans |
 |---------------|
-| [Perthshire Tourist Board](/setts/s6/k52r12g32k16g6r4-g003c00-k20001c-r880000/)|
-|![Perthshire Tourist Board example sett](/setts/s6/k52r12g32k16g6r4-g003c00-k20001c-r880000/sett.png)|
+| [Perthshire Tourist Board](/setts/s6/k26r6g16k8g3r2~g003c00-k20001c-r880000~x2/)|
+|![Perthshire Tourist Board example sett](/setts/s6/k26r6g16k8g3r2~g003c00-k20001c-r880000~x2/sett.png)|

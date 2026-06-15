@@ -16,5 +16,5 @@ BBKBKBKBGB
 
 | Tartans |
 |---------------|
-| [Highland Granite](/setts/s10/b16g4b54k20ba8k4ba6k4ba32b4-b343434-ba585858-g7c7c7c-k101010/)|
-|![Highland Granite example sett](/setts/s10/b16g4b54k20ba8k4ba6k4ba32b4-b343434-ba585858-g7c7c7c-k101010/sett.png)|
+| [Highland Granite](/setts/s10/b8g2b27k10ba4k2ba3k2ba16b2~b343434-ba585858-g7c7c7c-k101010~x2/)|
+|![Highland Granite example sett](/setts/s10/b8g2b27k10ba4k2ba3k2ba16b2~b343434-ba585858-g7c7c7c-k101010~x2/sett.png)|

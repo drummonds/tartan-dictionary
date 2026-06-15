@@ -16,5 +16,5 @@ GKBKBYKBKR
 
 | Tartans |
 |---------------|
-| [Timmins (2013)](/setts/s10/g8k4b28k24b64y2k24ba28k4r8-b5c8ca8-ba780078-g289c18-k00002c-rc80000-yd09800/)|
-|![Timmins (2013) example sett](/setts/s10/g8k4b28k24b64y2k24ba28k4r8-b5c8ca8-ba780078-g289c18-k00002c-rc80000-yd09800/sett.png)|
+| [Timmins (2013)](/setts/s10/g4k2b14k12b32y1k12ba14k2r4~b5c8ca8-ba780078-g289c18-k00002c-rc80000-yd09800~x2/)|
+|![Timmins (2013) example sett](/setts/s10/g4k2b14k12b32y1k12ba14k2r4~b5c8ca8-ba780078-g289c18-k00002c-rc80000-yd09800~x2/sett.png)|

@@ -6,7 +6,7 @@ GBRW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g42b68r28w12-b202060-g146400-rc80000-wffffff/tartan.png)
+![Woven sample](/setts/s4/g21b34r14w6~b202060-g146400-rc80000-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBRW
 
 | Tartans |
 |---------------|
-| [Harbison (2015)](/setts/s4/g42b68r28w12-b202060-g146400-rc80000-wffffff/)|
-|![Harbison (2015) example sett](/setts/s4/g42b68r28w12-b202060-g146400-rc80000-wffffff/sett.png)|
+| [Harbison (2015)](/setts/s4/g21b34r14w6~b202060-g146400-rc80000-wffffff~x2/)|
+|![Harbison (2015) example sett](/setts/s4/g21b34r14w6~b202060-g146400-rc80000-wffffff~x2/sett.png)|

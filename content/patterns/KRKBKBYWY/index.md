@@ -16,5 +16,5 @@ KRKBKBYWY
 
 | Tartans |
 |---------------|
-| [Victory](/setts/s9/k4r6k72b4k10b14y6w10ya4-b666666-k101010-re3170d-w82cffd-yffe600-ya86c67c/)|
-|![Victory example sett](/setts/s9/k4r6k72b4k10b14y6w10ya4-b666666-k101010-re3170d-w82cffd-yffe600-ya86c67c/sett.png)|
+| [Victory](/setts/s9/k2r3k36b2k5b7y3w5ya2~b666666-k101010-re3170d-w82cffd-yffe600-ya86c67c~x2/)|
+|![Victory example sett](/setts/s9/k2r3k36b2k5b7y3w5ya2~b666666-k101010-re3170d-w82cffd-yffe600-ya86c67c~x2/sett.png)|

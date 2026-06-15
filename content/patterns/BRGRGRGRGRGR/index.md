@@ -16,5 +16,5 @@ BRGRGRGRGRGR
 
 | Tartans |
 |---------------|
-| [Skene #2](/setts/s12/b24r12g4r12g48r12g4r12g48r12g4r12-b202060-g006818-rc80000/)|
-|![Skene #2 example sett](/setts/s12/b24r12g4r12g48r12g4r12g48r12g4r12-b202060-g006818-rc80000/sett.png)|
+| [Skene #2](/setts/s12/b6r3g1r3g12r3g1r3g12r3g1r3~b202060-g006818-rc80000~x4/)|
+|![Skene #2 example sett](/setts/s12/b6r3g1r3g12r3g1r3g12r3g1r3~b202060-g006818-rc80000~x4/sett.png)|

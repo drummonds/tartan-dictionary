@@ -6,7 +6,7 @@ KWBBBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k6w12b40ba4bb38wa6-b0596fa-ba202016-bb3474fc-k101010-we0e0e0-waffffff/tartan.png)
+![Woven sample](/setts/s6/k3w6b20ba2bb19wa3~b0596fa-ba202016-bb3474fc-k101010-we0e0e0-waffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWBBBW
 
 | Tartans |
 |---------------|
-| [Tartan Explorer, The](/setts/s6/k6w12b40ba4bb38wa6-b0596fa-ba202016-bb3474fc-k101010-we0e0e0-waffffff/)|
-|![Tartan Explorer, The example sett](/setts/s6/k6w12b40ba4bb38wa6-b0596fa-ba202016-bb3474fc-k101010-we0e0e0-waffffff/sett.png)|
+| [Tartan Explorer, The](/setts/s6/k3w6b20ba2bb19wa3~b0596fa-ba202016-bb3474fc-k101010-we0e0e0-waffffff~x2/)|
+|![Tartan Explorer, The example sett](/setts/s6/k3w6b20ba2bb19wa3~b0596fa-ba202016-bb3474fc-k101010-we0e0e0-waffffff~x2/sett.png)|

@@ -16,5 +16,5 @@ GWYGYGYGW
 
 | Tartans |
 |---------------|
-| [KIltwalk, The (Corporate)](/setts/s9/g4w4y8g10y10g92y14g2wa4-g604000-w98c8e8-wafcfcfc-ya08858/)|
-|![KIltwalk, The (Corporate) example sett](/setts/s9/g4w4y8g10y10g92y14g2wa4-g604000-w98c8e8-wafcfcfc-ya08858/sett.png)|
+| [KIltwalk, The (Corporate)](/setts/s9/g2w2y4g5y5g46y7g1wa2~g604000-w98c8e8-wafcfcfc-ya08858~x2/)|
+|![KIltwalk, The (Corporate) example sett](/setts/s9/g2w2y4g5y5g46y7g1wa2~g604000-w98c8e8-wafcfcfc-ya08858~x2/sett.png)|

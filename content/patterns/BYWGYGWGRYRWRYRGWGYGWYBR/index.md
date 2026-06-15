@@ -16,5 +16,5 @@ BYWGYGWGRYRWRYRGWGYGWYBR
 
 | Tartans |
 |---------------|
-| [Isle of Man](/setts/s24/b44y8w6g14ya4g8w4g18r12ya4r8w4r8ya4r12g18w4g8ya4g14w6y8b44ra4-b5c8ca8-g006818-rb468ac-rac80000-we0e0e0-ya08858-yafccc00/)|
-|![Isle of Man example sett](/setts/s24/b44y8w6g14ya4g8w4g18r12ya4r8w4r8ya4r12g18w4g8ya4g14w6y8b44ra4-b5c8ca8-g006818-rb468ac-rac80000-we0e0e0-ya08858-yafccc00/sett.png)|
+| [Isle of Man](/setts/s24/b22y4w3g7ya2g4w2g9r6ya2r4w2r4ya2r6g9w2g4ya2g7w3y4b22ra2~b5c8ca8-g006818-rb468ac-rac80000-we0e0e0-ya08858-yafccc00~x2/)|
+|![Isle of Man example sett](/setts/s24/b22y4w3g7ya2g4w2g9r6ya2r4w2r4ya2r6g9w2g4ya2g7w3y4b22ra2~b5c8ca8-g006818-rb468ac-rac80000-we0e0e0-ya08858-yafccc00~x2/sett.png)|

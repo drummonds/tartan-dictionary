@@ -16,5 +16,5 @@ WBWWBGWYWRW
 
 | Tartans |
 |---------------|
-| [Stand International](/setts/s11/w24r4w4y4w4g4b36w24wa4b24w12-b003c64-g006400-rc80000-w98c8e8-waffffff-yd87c00/)|
-|![Stand International example sett](/setts/s11/w24r4w4y4w4g4b36w24wa4b24w12-b003c64-g006400-rc80000-w98c8e8-waffffff-yd87c00/sett.png)|
+| [Stand International](/setts/s11/w6r1w1y1w1g1b9w6wa1b6w3~b003c64-g006400-rc80000-w98c8e8-waffffff-yd87c00~x4/)|
+|![Stand International example sett](/setts/s11/w6r1w1y1w1g1b9w6wa1b6w3~b003c64-g006400-rc80000-w98c8e8-waffffff-yd87c00~x4/sett.png)|

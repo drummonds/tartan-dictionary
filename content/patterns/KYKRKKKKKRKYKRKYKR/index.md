@@ -16,5 +16,5 @@ KYKRKKKKKRKYKRKYKR
 
 | Tartans |
 |---------------|
-| [City of New Bern 300 (District)](/setts/s18/r24k4y4k4r4k4y4k4r24k2ka4ka6ka4k2r24k4y4k4-k101010-ka000000-r880000-ye8c000/)|
-|![City of New Bern 300 (District) example sett](/setts/s18/r24k4y4k4r4k4y4k4r24k2ka4ka6ka4k2r24k4y4k4-k101010-ka000000-r880000-ye8c000/sett.png)|
+| [City of New Bern 300 (District)](/setts/s18/r12k2y2k2r2k2y2k2r12k1ka2ka3ka2k1r12k2y2k2~k101010-ka000000-r880000-ye8c000~x2/)|
+|![City of New Bern 300 (District) example sett](/setts/s18/r12k2y2k2r2k2y2k2r12k1ka2ka3ka2k1r12k2y2k2~k101010-ka000000-r880000-ye8c000~x2/sett.png)|

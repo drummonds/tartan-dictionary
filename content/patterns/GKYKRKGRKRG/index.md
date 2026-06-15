@@ -16,5 +16,5 @@ GKYKRKGRKRG
 
 | Tartans |
 |---------------|
-| [Dryfe](/setts/s11/g84k20y4k4r4k4g20r12k4r6g4-g004c00-k000000-r780028-yfc9898/)|
-|![Dryfe example sett](/setts/s11/g84k20y4k4r4k4g20r12k4r6g4-g004c00-k000000-r780028-yfc9898/sett.png)|
+| [Dryfe](/setts/s11/g42k10y2k2r2k2g10r6k2r3g2~g004c00-k000000-r780028-yfc9898~x2/)|
+|![Dryfe example sett](/setts/s11/g42k10y2k2r2k2g10r6k2r3g2~g004c00-k000000-r780028-yfc9898~x2/sett.png)|

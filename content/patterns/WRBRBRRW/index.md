@@ -6,7 +6,7 @@ WRBRBRRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/w4r48ra4b4ra4b8ra20w4-b003c64-r888888-rad05054-wc0c0c0/tartan.png)
+![Woven sample](/setts/s8/w1r12ra1b1ra1b2ra5w1~b003c64-r888888-rad05054-wc0c0c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WRBRBRRW
 
 | Tartans |
 |---------------|
-| [Tenmaya Check](/setts/s8/w4r48ra4b4ra4b8ra20w4-b003c64-r888888-rad05054-wc0c0c0/)|
-|![Tenmaya Check example sett](/setts/s8/w4r48ra4b4ra4b8ra20w4-b003c64-r888888-rad05054-wc0c0c0/sett.png)|
+| [Tenmaya Check](/setts/s8/w1r12ra1b1ra1b2ra5w1~b003c64-r888888-rad05054-wc0c0c0~x4/)|
+|![Tenmaya Check example sett](/setts/s8/w1r12ra1b1ra1b2ra5w1~b003c64-r888888-rad05054-wc0c0c0~x4/sett.png)|

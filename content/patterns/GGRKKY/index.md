@@ -6,7 +6,7 @@ GGRKKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g6ga6r44k10ka44y4-g003000-ga30a010-k000000-ka000030-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s6/g3ga3r22k5ka22y2~g003000-ga30a010-k000000-ka000030-rc00000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGRKKY
 
 | Tartans |
 |---------------|
-| [Clan MacLeod Society of Scotland, Centenary](/setts/s6/g6ga6r44k10ka44y4-g003000-ga30a010-k000000-ka000030-rc00000-yf0c000/)|
-|![Clan MacLeod Society of Scotland, Centenary example sett](/setts/s6/g6ga6r44k10ka44y4-g003000-ga30a010-k000000-ka000030-rc00000-yf0c000/sett.png)|
+| [Clan MacLeod Society of Scotland, Centenary](/setts/s6/g3ga3r22k5ka22y2~g003000-ga30a010-k000000-ka000030-rc00000-yf0c000~x2/)|
+|![Clan MacLeod Society of Scotland, Centenary example sett](/setts/s6/g3ga3r22k5ka22y2~g003000-ga30a010-k000000-ka000030-rc00000-yf0c000~x2/sett.png)|

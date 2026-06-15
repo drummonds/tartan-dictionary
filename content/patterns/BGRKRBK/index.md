@@ -6,7 +6,7 @@ BGRKRBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b64g32r28k8r12b14k4-b3d2e60-g005020-k1c1714-r97342f/tartan.png)
+![Woven sample](/setts/s7/b32g16r14k4r6b7k2~b3d2e60-g005020-k1c1714-r97342f~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGRKRBK
 
 | Tartans |
 |---------------|
-| [Aisteach](/setts/s7/b64g32r28k8r12b14k4-b3d2e60-g005020-k1c1714-r97342f/)|
-|![Aisteach example sett](/setts/s7/b64g32r28k8r12b14k4-b3d2e60-g005020-k1c1714-r97342f/sett.png)|
+| [Aisteach](/setts/s7/b32g16r14k4r6b7k2~b3d2e60-g005020-k1c1714-r97342f~x2/)|
+|![Aisteach example sett](/setts/s7/b32g16r14k4r6b7k2~b3d2e60-g005020-k1c1714-r97342f~x2/sett.png)|

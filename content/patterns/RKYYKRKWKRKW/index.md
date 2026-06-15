@@ -16,5 +16,5 @@ RKYYKRKWKRKW
 
 | Tartans |
 |---------------|
-| [Tyrone County Crest (Fashion)](/setts/s12/r8k4y26ya6k44r4k4w26k14r6k14w8-k101010-r880000-we0e0e0-y909c3c-yabc8c00/)|
-|![Tyrone County Crest (Fashion) example sett](/setts/s12/r8k4y26ya6k44r4k4w26k14r6k14w8-k101010-r880000-we0e0e0-y909c3c-yabc8c00/sett.png)|
+| [Tyrone County Crest (Fashion)](/setts/s12/r4k2y13ya3k22r2k2w13k7r3k7w4~k101010-r880000-we0e0e0-y909c3c-yabc8c00~x2/)|
+|![Tyrone County Crest (Fashion) example sett](/setts/s12/r4k2y13ya3k22r2k2w13k7r3k7w4~k101010-r880000-we0e0e0-y909c3c-yabc8c00~x2/sett.png)|

@@ -6,7 +6,7 @@ RGBGBWRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4g24b4g16b36w6r4w4-b2c2c80-g006818-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/r2g12b2g8b18w3r2w2~b2c2c80-g006818-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGBGBWRW
 
 | Tartans |
 |---------------|
-| [Albuquerque, City of](/setts/s8/r4g24b4g16b36w6r4w4-b2c2c80-g006818-rc80000-wf8f8f8/)|
-|![Albuquerque, City of example sett](/setts/s8/r4g24b4g16b36w6r4w4-b2c2c80-g006818-rc80000-wf8f8f8/sett.png)|
+| [Albuquerque, City of](/setts/s8/r2g12b2g8b18w3r2w2~b2c2c80-g006818-rc80000-wf8f8f8~x2/)|
+|![Albuquerque, City of example sett](/setts/s8/r2g12b2g8b18w3r2w2~b2c2c80-g006818-rc80000-wf8f8f8~x2/sett.png)|

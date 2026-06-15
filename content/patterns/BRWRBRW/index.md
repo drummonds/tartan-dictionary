@@ -6,7 +6,7 @@ BRWRBRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w16r10b20ra48w60r4ba4-b500050-ba1c0070-r880000-raa40000-wf0e0c8/tartan.png)
+![Woven sample](/setts/s7/w8r5b10ra24w30r2ba2~b500050-ba1c0070-r880000-raa40000-wf0e0c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWRBRW
 
 | Tartans |
 |---------------|
-| [Shiel, Claret (Dance)](/setts/s7/w16r10b20ra48w60r4ba4-b500050-ba1c0070-r880000-raa40000-wf0e0c8/)|
-|![Shiel, Claret (Dance) example sett](/setts/s7/w16r10b20ra48w60r4ba4-b500050-ba1c0070-r880000-raa40000-wf0e0c8/sett.png)|
+| [Shiel, Claret (Dance)](/setts/s7/w8r5b10ra24w30r2ba2~b500050-ba1c0070-r880000-raa40000-wf0e0c8~x2/)|
+|![Shiel, Claret (Dance) example sett](/setts/s7/w8r5b10ra24w30r2ba2~b500050-ba1c0070-r880000-raa40000-wf0e0c8~x2/sett.png)|

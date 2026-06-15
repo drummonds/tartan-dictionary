@@ -6,7 +6,7 @@ GRGRGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g60r2g8r1g5k2-g003820-k000000-rc80000/tartan.png)
+![Woven sample](/setts/s6/g60r2g8r1g5k2~g003820-k000000-rc80000/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGRGK
 
 | Tartans |
 |---------------|
-| [St. David's (District)](/setts/s6/g60r2g8r1g5k2-g003820-k000000-rc80000/)|
-|![St. David's (District) example sett](/setts/s6/g60r2g8r1g5k2-g003820-k000000-rc80000/sett.png)|
+| [St. David's (District)](/setts/s6/g60r2g8r1g5k2~g003820-k000000-rc80000/)|
+|![St. David's (District) example sett](/setts/s6/g60r2g8r1g5k2~g003820-k000000-rc80000/sett.png)|

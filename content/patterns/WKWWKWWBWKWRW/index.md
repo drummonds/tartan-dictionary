@@ -16,5 +16,5 @@ WKWWKWWBWKWRW
 
 | Tartans |
 |---------------|
-| [Euphoria](/setts/s13/w6k6wa48w6k6w48wa6b48wa6k6w48r6wa6-b0000ff-k101010-rff0000-wc0c0c0-waffffff/)|
-|![Euphoria example sett](/setts/s13/w6k6wa48w6k6w48wa6b48wa6k6w48r6wa6-b0000ff-k101010-rff0000-wc0c0c0-waffffff/sett.png)|
+| [Euphoria](/setts/s13/w1k1wa8w1k1w8wa1b8wa1k1w8r1wa1~b0000ff-k101010-rff0000-wc0c0c0-waffffff~x6/)|
+|![Euphoria example sett](/setts/s13/w1k1wa8w1k1w8wa1b8wa1k1w8r1wa1~b0000ff-k101010-rff0000-wc0c0c0-waffffff~x6/sett.png)|

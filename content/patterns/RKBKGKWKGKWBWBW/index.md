@@ -16,7 +16,7 @@ RKBKGKWKGKWBWBW
 
 | Tartans |
 |---------------|
-| [MacKenzie Dress #2](/setts/s15/w32b6w6b6w6k32g26k2w6k2g26k32b32k2r6-b2c4084-g005020-k101010-rdc0000-we0e0e0/)|
-|![MacKenzie Dress #2 example sett](/setts/s15/w32b6w6b6w6k32g26k2w6k2g26k32b32k2r6-b2c4084-g005020-k101010-rdc0000-we0e0e0/sett.png)|
-| [MacKenzie, dress](/setts/s15/w32b6w6b6w6k32g26k2w6k2g26k32b32k2r6-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![MacKenzie, dress example sett](/setts/s15/w32b6w6b6w6k32g26k2w6k2g26k32b32k2r6-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacKenzie Dress #2](/setts/s15/w16b3w3b3w3k16g13k1w3k1g13k16b16k1r3~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/)|
+|![MacKenzie Dress #2 example sett](/setts/s15/w16b3w3b3w3k16g13k1w3k1g13k16b16k1r3~b2c4084-g005020-k101010-rdc0000-we0e0e0~x2/sett.png)|
+| [MacKenzie, dress](/setts/s15/w16b3w3b3w3k16g13k1w3k1g13k16b16k1r3~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacKenzie, dress example sett](/setts/s15/w16b3w3b3w3k16g13k1w3k1g13k16b16k1r3~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

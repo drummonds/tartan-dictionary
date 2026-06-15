@@ -16,5 +16,5 @@ GGGGWRGGR
 
 | Tartans |
 |---------------|
-| [MacDonald of Kingsburgh -1746 (Clan)](/setts/s9/g16ga2g2ga84w4r80g4ga4r6-g308024-ga003814-rc85840-wfcfcfc/)|
-|![MacDonald of Kingsburgh -1746 (Clan) example sett](/setts/s9/g16ga2g2ga84w4r80g4ga4r6-g308024-ga003814-rc85840-wfcfcfc/sett.png)|
+| [MacDonald of Kingsburgh -1746 (Clan)](/setts/s9/g8ga1g1ga42w2r40g2ga2r3~g308024-ga003814-rc85840-wfcfcfc~x2/)|
+|![MacDonald of Kingsburgh -1746 (Clan) example sett](/setts/s9/g8ga1g1ga42w2r40g2ga2r3~g308024-ga003814-rc85840-wfcfcfc~x2/sett.png)|

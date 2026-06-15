@@ -6,7 +6,7 @@ GYRRRGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4g32ra2r4ra24y2ga2-g165041-ga547c73-ra62a2a-racc1100-yffe600/tartan.png)
+![Woven sample](/setts/s7/r2g16ra1r2ra12y1ga1~g165041-ga547c73-ra62a2a-racc1100-yffe600~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYRRRGR
 
 | Tartans |
 |---------------|
-| [Spragg, Andrew](/setts/s7/r4g32ra2r4ra24y2ga2-g165041-ga547c73-ra62a2a-racc1100-yffe600/)|
-|![Spragg, Andrew example sett](/setts/s7/r4g32ra2r4ra24y2ga2-g165041-ga547c73-ra62a2a-racc1100-yffe600/sett.png)|
+| [Spragg, Andrew](/setts/s7/r2g16ra1r2ra12y1ga1~g165041-ga547c73-ra62a2a-racc1100-yffe600~x2/)|
+|![Spragg, Andrew example sett](/setts/s7/r2g16ra1r2ra12y1ga1~g165041-ga547c73-ra62a2a-racc1100-yffe600~x2/sett.png)|

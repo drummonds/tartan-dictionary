@@ -16,5 +16,5 @@ GRGRGRGGGRGR
 
 | Tartans |
 |---------------|
-| [Maple Leaf (District)](/setts/s12/r30g6r6g38ga12gb12ra12g38r6g6r30gb26-g006438-ga581c00-gb806c44-r880000-ra906828/)|
-|![Maple Leaf (District) example sett](/setts/s12/r30g6r6g38ga12gb12ra12g38r6g6r30gb26-g006438-ga581c00-gb806c44-r880000-ra906828/sett.png)|
+| [Maple Leaf (District)](/setts/s12/r15g3r3g19ga6gb6ra6g19r3g3r15gb13~g006438-ga581c00-gb806c44-r880000-ra906828~x2/)|
+|![Maple Leaf (District) example sett](/setts/s12/r15g3r3g19ga6gb6ra6g19r3g3r15gb13~g006438-ga581c00-gb806c44-r880000-ra906828~x2/sett.png)|

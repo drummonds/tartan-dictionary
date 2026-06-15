@@ -6,7 +6,7 @@ GRGRRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g4r4g28r16ra28r4-g006818-ra00048-rac80000/tartan.png)
+![Woven sample](/setts/s6/g1r1g7r4ra7r1~g006818-ra00048-rac80000~x4/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ GRGRRR
 
 | Tartans |
 |---------------|
-| [MacNab #2](/setts/s6/g4r4g28r16ra28r4-g006818-ra00048-rac80000/)|
-|![MacNab #2 example sett](/setts/s6/g4r4g28r16ra28r4-g006818-ra00048-rac80000/sett.png)|
-| [Dewar (Name)](/setts/s6/g6r6g42r24ra42r6-g285800-ra00000-rac80000/)|
-|![Dewar (Name) example sett](/setts/s6/g6r6g42r24ra42r6-g285800-ra00000-rac80000/sett.png)|
-| [MacNab, Variant](/setts/s6/g4r4g28r16ra28r4-g008000-r900030-rac00000/)|
-|![MacNab, Variant example sett](/setts/s6/g4r4g28r16ra28r4-g008000-r900030-rac00000/sett.png)|
+| [MacNab #2](/setts/s6/g1r1g7r4ra7r1~g006818-ra00048-rac80000~x4/)|
+|![MacNab #2 example sett](/setts/s6/g1r1g7r4ra7r1~g006818-ra00048-rac80000~x4/sett.png)|
+| [Dewar (Name)](/setts/s6/g1r1g7r4ra7r1~g285800-ra00000-rac80000~x6/)|
+|![Dewar (Name) example sett](/setts/s6/g1r1g7r4ra7r1~g285800-ra00000-rac80000~x6/sett.png)|
+| [MacNab, Variant](/setts/s6/g1r1g7r4ra7r1~g008000-r900030-rac00000~x4/)|
+|![MacNab, Variant example sett](/setts/s6/g1r1g7r4ra7r1~g008000-r900030-rac00000~x4/sett.png)|

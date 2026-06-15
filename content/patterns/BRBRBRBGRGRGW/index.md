@@ -16,5 +16,5 @@ BRBRBRBGRGRGW
 
 | Tartans |
 |---------------|
-| [MacCaslan (Artefact)](/setts/s13/b26r8b8r18b28r8b28g30r16g16r8g16w8-b2c2c80-g006818-rc80000-we0e0e0/)|
-|![MacCaslan (Artefact) example sett](/setts/s13/b26r8b8r18b28r8b28g30r16g16r8g16w8-b2c2c80-g006818-rc80000-we0e0e0/sett.png)|
+| [MacCaslan (Artefact)](/setts/s13/b13r4b4r9b14r4b14g15r8g8r4g8w4~b2c2c80-g006818-rc80000-we0e0e0~x2/)|
+|![MacCaslan (Artefact) example sett](/setts/s13/b13r4b4r9b14r4b14g15r8g8r4g8w4~b2c2c80-g006818-rc80000-we0e0e0~x2/sett.png)|

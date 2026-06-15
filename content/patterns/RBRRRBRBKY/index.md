@@ -16,5 +16,5 @@ RBRRRBRBKY
 
 | Tartans |
 |---------------|
-| [Chang-Miller (Personal)](/setts/s10/r46b4r2ra4r2b4r8b20k4y4-b000048-k000000-ra00000-rab84c00-yd87c00/)|
-|![Chang-Miller (Personal) example sett](/setts/s10/r46b4r2ra4r2b4r8b20k4y4-b000048-k000000-ra00000-rab84c00-yd87c00/sett.png)|
+| [Chang-Miller (Personal)](/setts/s10/r23b2r1ra2r1b2r4b10k2y2~b000048-k000000-ra00000-rab84c00-yd87c00~x2/)|
+|![Chang-Miller (Personal) example sett](/setts/s10/r23b2r1ra2r1b2r4b10k2y2~b000048-k000000-ra00000-rab84c00-yd87c00~x2/sett.png)|

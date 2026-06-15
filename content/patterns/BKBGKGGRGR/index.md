@@ -16,5 +16,5 @@ BKBGKGGRGR
 
 | Tartans |
 |---------------|
-| [Longford, County](/setts/s10/b10k6b36g12k12g12ga24r10ga24r6-b202060-g003820-ga604000-k101010-rc80000/)|
-|![Longford, County example sett](/setts/s10/b10k6b36g12k12g12ga24r10ga24r6-b202060-g003820-ga604000-k101010-rc80000/sett.png)|
+| [Longford, County](/setts/s10/b5k3b18g6k6g6ga12r5ga12r3~b202060-g003820-ga604000-k101010-rc80000~x2/)|
+|![Longford, County example sett](/setts/s10/b5k3b18g6k6g6ga12r5ga12r3~b202060-g003820-ga604000-k101010-rc80000~x2/sett.png)|

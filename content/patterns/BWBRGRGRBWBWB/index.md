@@ -16,5 +16,5 @@ BWBRGRGRBWBWB
 
 | Tartans |
 |---------------|
-| [Black Watch (Piper)](/setts/s13/b24w4b4w4b4r20g24r6g24r20b24w4b4-b000048-g004028-rc80000-wffffff/)|
-|![Black Watch (Piper) example sett](/setts/s13/b24w4b4w4b4r20g24r6g24r20b24w4b4-b000048-g004028-rc80000-wffffff/sett.png)|
+| [Black Watch (Piper)](/setts/s13/b12w2b2w2b2r10g12r3g12r10b12w2b2~b000048-g004028-rc80000-wffffff~x2/)|
+|![Black Watch (Piper) example sett](/setts/s13/b12w2b2w2b2r10g12r3g12r10b12w2b2~b000048-g004028-rc80000-wffffff~x2/sett.png)|

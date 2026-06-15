@@ -16,5 +16,5 @@ RGKGKGBRYR
 
 | Tartans |
 |---------------|
-| [Chisholm VS](/setts/s10/r12y2r48b12g4k2g4k2g24r2-b000052-g11450d-k000000-raa0000-yaaaaaa/)|
-|![Chisholm VS example sett](/setts/s10/r12y2r48b12g4k2g4k2g24r2-b000052-g11450d-k000000-raa0000-yaaaaaa/sett.png)|
+| [Chisholm VS](/setts/s10/r6y1r24b6g2k1g2k1g12r1~b000052-g11450d-k000000-raa0000-yaaaaaa~x2/)|
+|![Chisholm VS example sett](/setts/s10/r6y1r24b6g2k1g2k1g12r1~b000052-g11450d-k000000-raa0000-yaaaaaa~x2/sett.png)|

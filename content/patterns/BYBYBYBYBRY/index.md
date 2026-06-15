@@ -16,5 +16,5 @@ BYBYBYBYBRY
 
 | Tartans |
 |---------------|
-| [Wcwm 9285 4906-2](/setts/s11/b24y8b8y8b8y20b8y6b16r48y4-b000050-r780028-yb0b0b0/)|
-|![Wcwm 9285 4906-2 example sett](/setts/s11/b24y8b8y8b8y20b8y6b16r48y4-b000050-r780028-yb0b0b0/sett.png)|
+| [Wcwm 9285 4906-2](/setts/s11/b12y4b4y4b4y10b4y3b8r24y2~b000050-r780028-yb0b0b0~x2/)|
+|![Wcwm 9285 4906-2 example sett](/setts/s11/b12y4b4y4b4y10b4y3b8r24y2~b000050-r780028-yb0b0b0~x2/sett.png)|

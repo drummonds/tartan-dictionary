@@ -16,5 +16,5 @@ GWGWGWGWGWGWKGWGKWKGWGKWKGWGWGWGW
 
 | Tartans |
 |---------------|
-| [Miss Peffer's, Plaid](/setts/s33/g70w4g4w4g4w4g4w4g4w4g28w76k8g8w8g8k8w8k8g8w8g8k8w32k72g38w4g8w8g6w8g4w26-g808080-k000000-we0e0e0/)|
-|![Miss Peffer's, Plaid example sett](/setts/s33/g70w4g4w4g4w4g4w4g4w4g28w76k8g8w8g8k8w8k8g8w8g8k8w32k72g38w4g8w8g6w8g4w26-g808080-k000000-we0e0e0/sett.png)|
+| [Miss Peffer's, Plaid](/setts/s33/g35w2g2w2g2w2g2w2g2w2g14w38k4g4w4g4k4w4k4g4w4g4k4w16k36g19w2g4w4g3w4g2w13~g808080-k000000-we0e0e0~x2/)|
+|![Miss Peffer's, Plaid example sett](/setts/s33/g35w2g2w2g2w2g2w2g2w2g14w38k4g4w4g4k4w4k4g4w4g4k4w16k36g19w2g4w4g3w4g2w13~g808080-k000000-we0e0e0~x2/sett.png)|

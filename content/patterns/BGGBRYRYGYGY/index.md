@@ -16,5 +16,5 @@ BGGBRYRYGYGY
 
 | Tartans |
 |---------------|
-| [Rainbow (Canada)](/setts/s12/b12g4ga8b24r6y4r16y6ga12y6ga12y6-b1c0070-g048888-ga006818-ra00000-yb8b8b8/)|
-|![Rainbow (Canada) example sett](/setts/s12/b12g4ga8b24r6y4r16y6ga12y6ga12y6-b1c0070-g048888-ga006818-ra00000-yb8b8b8/sett.png)|
+| [Rainbow (Canada)](/setts/s12/b6g2ga4b12r3y2r8y3ga6y3ga6y3~b1c0070-g048888-ga006818-ra00000-yb8b8b8~x2/)|
+|![Rainbow (Canada) example sett](/setts/s12/b6g2ga4b12r3y2r8y3ga6y3ga6y3~b1c0070-g048888-ga006818-ra00000-yb8b8b8~x2/sett.png)|

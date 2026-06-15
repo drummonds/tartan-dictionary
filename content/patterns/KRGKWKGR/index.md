@@ -16,5 +16,5 @@ KRGKWKGR
 
 | Tartans |
 |---------------|
-| [MacDiarmid #2](/setts/s8/k166r32g112k4w10k4g112r10-g005020-k101010-rdc0000-we0e0e0/)|
-|![MacDiarmid #2 example sett](/setts/s8/k166r32g112k4w10k4g112r10-g005020-k101010-rdc0000-we0e0e0/sett.png)|
+| [MacDiarmid #2](/setts/s8/k83r16g56k2w5k2g56r5~g005020-k101010-rdc0000-we0e0e0~x2/)|
+|![MacDiarmid #2 example sett](/setts/s8/k83r16g56k2w5k2g56r5~g005020-k101010-rdc0000-we0e0e0~x2/sett.png)|

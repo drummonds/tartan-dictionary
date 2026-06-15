@@ -16,5 +16,5 @@ BWWBRBWBR
 
 | Tartans |
 |---------------|
-| [Greater St. Louis Firefighters (Cor)](/setts/s9/b6w6w76b50r6b12w14b6r4-b5c5c5c-rc80000-wd8d8b0/)|
-|![Greater St. Louis Firefighters (Cor) example sett](/setts/s9/b6w6w76b50r6b12w14b6r4-b5c5c5c-rc80000-wd8d8b0/sett.png)|
+| [Greater St. Louis Firefighters (Cor)](/setts/s9/b3w3w38b25r3b6w7b3r2~b5c5c5c-rc80000-wd8d8b0~x2/)|
+|![Greater St. Louis Firefighters (Cor) example sett](/setts/s9/b3w3w38b25r3b6w7b3r2~b5c5c5c-rc80000-wd8d8b0~x2/sett.png)|

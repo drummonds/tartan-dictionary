@@ -1,0 +1,49 @@
+---
+title: "Justus"
+date: 2023-03-18
+---
+In pattern [KYKY](/patterns/kyky/).
+
+
+This was sourced from weddslist.  It is a [4 stripes tartan](/stripes/stripes4/).
+
+Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Thread count
+K/60 Y12 K12 Y/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| Y | <code style="background-color:#F0C000;"><span style="color:#F0C000;filter:grayscale(1) invert(1) contrast(100);">#F0C000</span></code> `#F0C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.00 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "K/60 Y12 K12 Y/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Justus #2 (Personal)](/setts/s4/k5y1k1y1~k101010-yd09800~x20/) — ΔT 1.16
+1. [Justus #2 (Personal)](/setts/s6/k5y1k1y1k1y1~k101010-yd09800~x20/) — ΔT 1.61
+1. [New Zealand (2000)](/setts/s6/k21w2k5w9k13g2~g007800-k000000-wc8c8c8~x4/) — ΔT 1.84
+1. [Lords, of Skye](/setts/s4/k46r7k8w20~k000000-r806050-we0e0e0~x2/) — ΔT 1.85
+1. [Welsh National #3](/setts/s5/y7k4y4k39r4~k101010-rdc0000-ye8c000~x2/) — ΔT 2.02
+1. [Burberry Black](/setts/s5/y3k3y3k10r1~k000000-rc80000-yb0b0b0~x6/) — ΔT 2.13
+1. [Gwynn (Name)](/setts/s5/y9k4y4k45r4~k101010-rc80000-ye8c000~x2/) — ΔT 2.15
+1. [New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k21w2k5w9k13g2~g006818-k101010-we0e0e0~x4/) — ΔT 2.17
+1. [Lords of Skye](/setts/s4/k46g7k8w20~g503c14-k101010-we0e0e0~x2/) — ΔT 2.25
+1. [Lords of Skye Trade Tartan Tartan Number: 1218. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/k46g7k8w20~g604000-k101010-we0e0e0~x2/) — ΔT 2.25
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k5y1k1y1~k101010-yd09800~x20/"><circle cx="441.8" cy="292.5" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><a href="/setts/s6/k5y1k1y1k1y1~k101010-yd09800~x20/"><circle cx="398.1" cy="267.2" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><a href="/setts/s6/k21w2k5w9k13g2~g007800-k000000-wc8c8c8~x4/"><circle cx="413.3" cy="241.9" r="4" fill="#3465a4"><title>New Zealand (2000)</title></circle></a><a href="/setts/s4/k46r7k8w20~k000000-r806050-we0e0e0~x2/"><circle cx="334.9" cy="264.3" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/setts/s5/y7k4y4k39r4~k101010-rdc0000-ye8c000~x2/"><circle cx="443.3" cy="215.7" r="4" fill="#3465a4"><title>Welsh National #3</title></circle></a><a href="/setts/s5/y3k3y3k10r1~k000000-rc80000-yb0b0b0~x6/"><circle cx="346.2" cy="241.6" r="4" fill="#3465a4"><title>Burberry Black</title></circle></a><a href="/setts/s5/y9k4y4k45r4~k101010-rc80000-ye8c000~x2/"><circle cx="451.6" cy="209.6" r="4" fill="#3465a4"><title>Gwynn (Name)</title></circle></a><a href="/setts/s6/k21w2k5w9k13g2~g006818-k101010-we0e0e0~x4/"><circle cx="413.7" cy="235.4" r="4" fill="#3465a4"><title>New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/k46g7k8w20~g503c14-k101010-we0e0e0~x2/"><circle cx="339.0" cy="261.3" r="4" fill="#3465a4"><title>Lords of Skye</title></circle></a><a href="/setts/s4/k46g7k8w20~g604000-k101010-we0e0e0~x2/"><circle cx="339.0" cy="261.0" r="4" fill="#3465a4"><title>Lords of Skye Trade Tartan Tartan Number: 1218. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="424.3" cy="291.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s4/k5y1k1y1~k000000-yf0c000~x12/

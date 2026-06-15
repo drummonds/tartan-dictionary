@@ -16,7 +16,7 @@ BRBKGKBKY
 
 | Tartans |
 |---------------|
-| [MacCallum of Berwick](/setts/s9/b20r14b62k50g46k16b14k16y10-b2c2c80-g285800-k101010-rc80000-ye8c000/)|
-|![MacCallum of Berwick example sett](/setts/s9/b20r14b62k50g46k16b14k16y10-b2c2c80-g285800-k101010-rc80000-ye8c000/sett.png)|
-| [MacCallum, of Berwick](/setts/s9/b20r14b62k50g46k16b14k16y10-b304080-g008000-k000000-rc00000-yf0c000/)|
-|![MacCallum, of Berwick example sett](/setts/s9/b20r14b62k50g46k16b14k16y10-b304080-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [MacCallum of Berwick](/setts/s9/b10r7b31k25g23k8b7k8y5~b2c2c80-g285800-k101010-rc80000-ye8c000~x2/)|
+|![MacCallum of Berwick example sett](/setts/s9/b10r7b31k25g23k8b7k8y5~b2c2c80-g285800-k101010-rc80000-ye8c000~x2/sett.png)|
+| [MacCallum, of Berwick](/setts/s9/b10r7b31k25g23k8b7k8y5~b304080-g008000-k000000-rc00000-yf0c000~x2/)|
+|![MacCallum, of Berwick example sett](/setts/s9/b10r7b31k25g23k8b7k8y5~b304080-g008000-k000000-rc00000-yf0c000~x2/sett.png)|

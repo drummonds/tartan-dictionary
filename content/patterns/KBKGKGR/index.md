@@ -6,7 +6,7 @@ KBKGKGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k12b2k12g8k20g40r4-b2c2c80-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/k6b1k6g4k10g20r2~b2c2c80-g006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKGKGR
 
 | Tartans |
 |---------------|
-| [MacKinross](/setts/s7/k12b2k12g8k20g40r4-b2c2c80-g006818-k101010-rc80000/)|
-|![MacKinross example sett](/setts/s7/k12b2k12g8k20g40r4-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [MacKinross](/setts/s7/k6b1k6g4k10g20r2~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![MacKinross example sett](/setts/s7/k6b1k6g4k10g20r2~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

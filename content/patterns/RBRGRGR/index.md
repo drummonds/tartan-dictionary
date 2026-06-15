@@ -6,7 +6,7 @@ RBRGRGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4b40ra4g6ra8g70ra2-b00004c-g006818-r888888-rac80000/tartan.png)
+![Woven sample](/setts/s7/r2b20ra2g3ra4g35ra1~b00004c-g006818-r888888-rac80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRGRGR
 
 | Tartans |
 |---------------|
-| [Williams, Jodi (Personal)](/setts/s7/r4b40ra4g6ra8g70ra2-b00004c-g006818-r888888-rac80000/)|
-|![Williams, Jodi (Personal) example sett](/setts/s7/r4b40ra4g6ra8g70ra2-b00004c-g006818-r888888-rac80000/sett.png)|
+| [Williams, Jodi (Personal)](/setts/s7/r2b20ra2g3ra4g35ra1~b00004c-g006818-r888888-rac80000~x2/)|
+|![Williams, Jodi (Personal) example sett](/setts/s7/r2b20ra2g3ra4g35ra1~b00004c-g006818-r888888-rac80000~x2/sett.png)|

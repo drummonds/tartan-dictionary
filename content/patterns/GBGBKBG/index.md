@@ -6,7 +6,7 @@ GBGBKBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g23b3k8b4g4b56ga8-b141e46-g003820-ga604000-k101010/tartan.png)
+![Woven sample](/setts/s7/g23b3k8b4g4b56ga8~b141e46-g003820-ga604000-k101010/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBKBG
 
 | Tartans |
 |---------------|
-| [Tern House](/setts/s7/g23b3k8b4g4b56ga8-b141e46-g003820-ga604000-k101010/)|
-|![Tern House example sett](/setts/s7/g23b3k8b4g4b56ga8-b141e46-g003820-ga604000-k101010/sett.png)|
+| [Tern House](/setts/s7/g23b3k8b4g4b56ga8~b141e46-g003820-ga604000-k101010/)|
+|![Tern House example sett](/setts/s7/g23b3k8b4g4b56ga8~b141e46-g003820-ga604000-k101010/sett.png)|

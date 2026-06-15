@@ -6,7 +6,7 @@ RBBRKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6b34ba26r4k40w4-b000080-ba292929-k000000-rc464fa-wffffff/tartan.png)
+![Woven sample](/setts/s6/r3b17ba13r2k20w2~b000080-ba292929-k000000-rc464fa-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBRKW
 
 | Tartans |
 |---------------|
-| [Commonwealth Games](/setts/s6/r6b34ba26r4k40w4-b000080-ba292929-k000000-rc464fa-wffffff/)|
-|![Commonwealth Games example sett](/setts/s6/r6b34ba26r4k40w4-b000080-ba292929-k000000-rc464fa-wffffff/sett.png)|
+| [Commonwealth Games](/setts/s6/r3b17ba13r2k20w2~b000080-ba292929-k000000-rc464fa-wffffff~x2/)|
+|![Commonwealth Games example sett](/setts/s6/r3b17ba13r2k20w2~b000080-ba292929-k000000-rc464fa-wffffff~x2/sett.png)|

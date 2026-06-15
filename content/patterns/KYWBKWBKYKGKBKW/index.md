@@ -16,5 +16,5 @@ KYWBKWBKYKGKBKW
 
 | Tartans |
 |---------------|
-| [House of Holland (Fashion)](/setts/s15/w10k2b10k2g8k2y8k2b60wa2k4b2w2y2k2-b8c008c-g289c18-k101010-w98c8e8-waf0bcbc-ye8c000/)|
-|![House of Holland (Fashion) example sett](/setts/s15/w10k2b10k2g8k2y8k2b60wa2k4b2w2y2k2-b8c008c-g289c18-k101010-w98c8e8-waf0bcbc-ye8c000/sett.png)|
+| [House of Holland (Fashion)](/setts/s15/w5k1b5k1g4k1y4k1b30wa1k2b1w1y1k1~b8c008c-g289c18-k101010-w98c8e8-waf0bcbc-ye8c000~x2/)|
+|![House of Holland (Fashion) example sett](/setts/s15/w5k1b5k1g4k1y4k1b30wa1k2b1w1y1k1~b8c008c-g289c18-k101010-w98c8e8-waf0bcbc-ye8c000~x2/sett.png)|

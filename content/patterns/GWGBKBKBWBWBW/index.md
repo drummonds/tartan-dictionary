@@ -16,7 +16,7 @@ GWGBKBKBWBWBW
 
 | Tartans |
 |---------------|
-| [Oliphant Dress](/setts/s13/w50b4w4b4w4b20k4b8k4b20g46w4g8-b405c88-g548060-k101010-we0e0e0/)|
-|![Oliphant Dress example sett](/setts/s13/w50b4w4b4w4b20k4b8k4b20g46w4g8-b405c88-g548060-k101010-we0e0e0/sett.png)|
-| [Oliphant Dress (Clan)](/setts/s13/w50b4w4b4w4b20k4b8k4b20g46w4g8-b5c8ca8-g448448-k101010-we0e0e0/)|
-|![Oliphant Dress (Clan) example sett](/setts/s13/w50b4w4b4w4b20k4b8k4b20g46w4g8-b5c8ca8-g448448-k101010-we0e0e0/sett.png)|
+| [Oliphant Dress](/setts/s13/w25b2w2b2w2b10k2b4k2b10g23w2g4~b405c88-g548060-k101010-we0e0e0~x2/)|
+|![Oliphant Dress example sett](/setts/s13/w25b2w2b2w2b10k2b4k2b10g23w2g4~b405c88-g548060-k101010-we0e0e0~x2/sett.png)|
+| [Oliphant Dress (Clan)](/setts/s13/w25b2w2b2w2b10k2b4k2b10g23w2g4~b5c8ca8-g448448-k101010-we0e0e0~x2/)|
+|![Oliphant Dress (Clan) example sett](/setts/s13/w25b2w2b2w2b10k2b4k2b10g23w2g4~b5c8ca8-g448448-k101010-we0e0e0~x2/sett.png)|

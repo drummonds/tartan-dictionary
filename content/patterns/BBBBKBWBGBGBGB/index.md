@@ -16,5 +16,5 @@ BBBBKBWBGBGBGB
 
 | Tartans |
 |---------------|
-| [Strathtummel (District?)](/setts/s14/b74ba4b4ba6k26ba20w4ba20g2ba4g4ba4g18ba26-b2c2c80-ba440044-g5c6428-k101010-we0e0e0/)|
-|![Strathtummel (District?) example sett](/setts/s14/b74ba4b4ba6k26ba20w4ba20g2ba4g4ba4g18ba26-b2c2c80-ba440044-g5c6428-k101010-we0e0e0/sett.png)|
+| [Strathtummel (District?)](/setts/s14/b37ba2b2ba3k13ba10w2ba10g1ba2g2ba2g9ba13~b2c2c80-ba440044-g5c6428-k101010-we0e0e0~x2/)|
+|![Strathtummel (District?) example sett](/setts/s14/b37ba2b2ba3k13ba10w2ba10g1ba2g2ba2g9ba13~b2c2c80-ba440044-g5c6428-k101010-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ BRBRBBKBK
 
 | Tartans |
 |---------------|
-| [Scottish Monuments (Corporate)](/setts/s9/b6r4b4r6b40ba16k4ba12k6-b14283c-ba5c5c5c-k101010-r888888/)|
-|![Scottish Monuments (Corporate) example sett](/setts/s9/b6r4b4r6b40ba16k4ba12k6-b14283c-ba5c5c5c-k101010-r888888/sett.png)|
+| [Scottish Monuments (Corporate)](/setts/s9/b3r2b2r3b20ba8k2ba6k3~b14283c-ba5c5c5c-k101010-r888888~x2/)|
+|![Scottish Monuments (Corporate) example sett](/setts/s9/b3r2b2r3b20ba8k2ba6k3~b14283c-ba5c5c5c-k101010-r888888~x2/sett.png)|

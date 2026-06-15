@@ -16,5 +16,5 @@ WGGBGBGBGBGGY
 
 | Tartans |
 |---------------|
-| [Crosby (Personal)](/setts/s13/w6g36ga12b12ga12ba36ga6ba36ga12b12ga12g36y6-b903490-ba4c0c28-g003014-ga004c00-wc8c8c8-yc88c00/)|
-|![Crosby (Personal) example sett](/setts/s13/w6g36ga12b12ga12ba36ga6ba36ga12b12ga12g36y6-b903490-ba4c0c28-g003014-ga004c00-wc8c8c8-yc88c00/sett.png)|
+| [Crosby (Personal)](/setts/s13/w1g6ga2b2ga2ba6ga1ba6ga2b2ga2g6y1~b903490-ba4c0c28-g003014-ga004c00-wc8c8c8-yc88c00~x6/)|
+|![Crosby (Personal) example sett](/setts/s13/w1g6ga2b2ga2ba6ga1ba6ga2b2ga2g6y1~b903490-ba4c0c28-g003014-ga004c00-wc8c8c8-yc88c00~x6/sett.png)|

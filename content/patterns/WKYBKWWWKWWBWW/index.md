@@ -16,5 +16,5 @@ WKYBKWWWKWWBWW
 
 | Tartans |
 |---------------|
-| [Praetorian Blue](/setts/s14/w6k6y6b48ka6wa6w48wa6ka48wa6w6b48wa6w6-b004080-k000040-ka101010-wffffff-wac0c0c0-yffff00/)|
-|![Praetorian Blue example sett](/setts/s14/w6k6y6b48ka6wa6w48wa6ka48wa6w6b48wa6w6-b004080-k000040-ka101010-wffffff-wac0c0c0-yffff00/sett.png)|
+| [Praetorian Blue](/setts/s14/w1k1y1b8ka1wa1w8wa1ka8wa1w1b8wa1w1~b004080-k000040-ka101010-wffffff-wac0c0c0-yffff00~x6/)|
+|![Praetorian Blue example sett](/setts/s14/w1k1y1b8ka1wa1w8wa1ka8wa1w1b8wa1w1~b004080-k000040-ka101010-wffffff-wac0c0c0-yffff00~x6/sett.png)|

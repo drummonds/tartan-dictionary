@@ -16,7 +16,7 @@ GBKYKWKGRBRK
 
 | Tartans |
 |---------------|
-| [MacLean of Duart](/setts/s12/g18b10k16y4k8w8k8ga62r100b8r8k6-b3c82af-g808080-ga005020-k101010-rdc0000-we0e0e0-ye8c000/)|
-|![MacLean of Duart example sett](/setts/s12/g18b10k16y4k8w8k8ga62r100b8r8k6-b3c82af-g808080-ga005020-k101010-rdc0000-we0e0e0-ye8c000/sett.png)|
-| [MacLean of Duart 6](/setts/s12/g18b10k16y4k8w8k8ga62r100b8r8k6-b5480b0-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![MacLean of Duart 6 example sett](/setts/s12/g18b10k16y4k8w8k8ga62r100b8r8k6-b5480b0-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [MacLean of Duart](/setts/s12/g9b5k8y2k4w4k4ga31r50b4r4k3~b3c82af-g808080-ga005020-k101010-rdc0000-we0e0e0-ye8c000~x2/)|
+|![MacLean of Duart example sett](/setts/s12/g9b5k8y2k4w4k4ga31r50b4r4k3~b3c82af-g808080-ga005020-k101010-rdc0000-we0e0e0-ye8c000~x2/sett.png)|
+| [MacLean of Duart 6](/setts/s12/g9b5k8y2k4w4k4ga31r50b4r4k3~b5480b0-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![MacLean of Duart 6 example sett](/setts/s12/g9b5k8y2k4w4k4ga31r50b4r4k3~b5480b0-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

@@ -6,7 +6,7 @@ BRBRGKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b40r2b2r2g16k2w6-b000080-g005020-k101010-r98481c-wffffff/tartan.png)
+![Woven sample](/setts/s7/b20r1b1r1g8k1w3~b000080-g005020-k101010-r98481c-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRGKW
 
 | Tartans |
 |---------------|
-| [Chestico](/setts/s7/b40r2b2r2g16k2w6-b000080-g005020-k101010-r98481c-wffffff/)|
-|![Chestico example sett](/setts/s7/b40r2b2r2g16k2w6-b000080-g005020-k101010-r98481c-wffffff/sett.png)|
+| [Chestico](/setts/s7/b20r1b1r1g8k1w3~b000080-g005020-k101010-r98481c-wffffff~x2/)|
+|![Chestico example sett](/setts/s7/b20r1b1r1g8k1w3~b000080-g005020-k101010-r98481c-wffffff~x2/sett.png)|

@@ -16,5 +16,5 @@ RGKYKWKGRKRW
 
 | Tartans |
 |---------------|
-| [Royal Stewart](/setts/s12/r72g8k12y4k4w4k4ga16r8k4r4w4-g30a010-ga008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Royal Stewart example sett](/setts/s12/r72g8k12y4k4w4k4ga16r8k4r4w4-g30a010-ga008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Royal Stewart](/setts/s12/r18g2k3y1k1w1k1ga4r2k1r1w1~g30a010-ga008000-k000000-rc00000-we0e0e0-yf0c000~x4/)|
+|![Royal Stewart example sett](/setts/s12/r18g2k3y1k1w1k1ga4r2k1r1w1~g30a010-ga008000-k000000-rc00000-we0e0e0-yf0c000~x4/sett.png)|

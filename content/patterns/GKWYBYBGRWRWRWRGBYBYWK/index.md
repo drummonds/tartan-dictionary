@@ -16,5 +16,5 @@ GKWYBYBGRWRWRWRGBYBYWK
 
 | Tartans |
 |---------------|
-| [Sellers/Sillars](/setts/s22/g126k8w18y4b8y4b8g22r16w4r8wa10r8w4r16g22b8y4b8y4w18k8-b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000/)|
-|![Sellers/Sillars example sett](/setts/s22/g126k8w18y4b8y4b8g22r16w4r8wa10r8w4r16g22b8y4b8y4w18k8-b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000/sett.png)|
+| [Sellers/Sillars](/setts/s22/g63k4w9y2b4y2b4g11r8w2r4wa5r4w2r8g11b4y2b4y2w9k4~b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000~x2/)|
+|![Sellers/Sillars example sett](/setts/s22/g63k4w9y2b4y2b4g11r8w2r4wa5r4w2r8g11b4y2b4y2w9k4~b1c0070-g604000-k101010-rc80000-wa8ace8-waf8f8f8-ye8c000~x2/sett.png)|

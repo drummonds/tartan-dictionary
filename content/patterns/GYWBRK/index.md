@@ -6,7 +6,7 @@ GYWBRK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g6y2w22b32r48k6-b1c3054-g006818-k101010-rc83c28-wf8f8f8-yd8c800/tartan.png)
+![Woven sample](/setts/s6/g3y1w11b16r24k3~b1c3054-g006818-k101010-rc83c28-wf8f8f8-yd8c800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYWBRK
 
 | Tartans |
 |---------------|
-| [Bro-sant-Malou](/setts/s6/g6y2w22b32r48k6-b1c3054-g006818-k101010-rc83c28-wf8f8f8-yd8c800/)|
-|![Bro-sant-Malou example sett](/setts/s6/g6y2w22b32r48k6-b1c3054-g006818-k101010-rc83c28-wf8f8f8-yd8c800/sett.png)|
+| [Bro-sant-Malou](/setts/s6/g3y1w11b16r24k3~b1c3054-g006818-k101010-rc83c28-wf8f8f8-yd8c800~x2/)|
+|![Bro-sant-Malou example sett](/setts/s6/g3y1w11b16r24k3~b1c3054-g006818-k101010-rc83c28-wf8f8f8-yd8c800~x2/sett.png)|

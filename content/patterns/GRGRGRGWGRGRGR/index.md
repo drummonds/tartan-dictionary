@@ -16,5 +16,5 @@ GRGRGRGWGRGRGR
 
 | Tartans |
 |---------------|
-| [Leeds, University of (Dance) #1](/setts/s14/g68r8g8r8g8r24g40w10g40r24g8r8g8r8-g006818-ra00048-we0e0e0/)|
-|![Leeds, University of (Dance) #1 example sett](/setts/s14/g68r8g8r8g8r24g40w10g40r24g8r8g8r8-g006818-ra00048-we0e0e0/sett.png)|
+| [Leeds, University of (Dance) #1](/setts/s14/g34r4g4r4g4r12g20w5g20r12g4r4g4r4~g006818-ra00048-we0e0e0~x2/)|
+|![Leeds, University of (Dance) #1 example sett](/setts/s14/g34r4g4r4g4r12g20w5g20r12g4r4g4r4~g006818-ra00048-we0e0e0~x2/sett.png)|

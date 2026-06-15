@@ -16,5 +16,5 @@ KYKYKRKGKYKYKRWGWRKYKYKGKRKYKY
 
 | Tartans |
 |---------------|
-| [Goldstraw (Personal)](/setts/s30/k4y4k14ya14k12r20k6g80k14y4k4ya8k4r16w4g10w4r16k4ya8k4y4k14g80k6r20k12ya14k14y4-g006818-k101010-rc80000-we0e0e0-ye8c000-yad87c00/)|
-|![Goldstraw (Personal) example sett](/setts/s30/k4y4k14ya14k12r20k6g80k14y4k4ya8k4r16w4g10w4r16k4ya8k4y4k14g80k6r20k12ya14k14y4-g006818-k101010-rc80000-we0e0e0-ye8c000-yad87c00/sett.png)|
+| [Goldstraw (Personal)](/setts/s30/k2y2k7ya7k6r10k3g40k7y2k2ya4k2r8w2g5w2r8k2ya4k2y2k7g40k3r10k6ya7k7y2~g006818-k101010-rc80000-we0e0e0-ye8c000-yad87c00~x2/)|
+|![Goldstraw (Personal) example sett](/setts/s30/k2y2k7ya7k6r10k3g40k7y2k2ya4k2r8w2g5w2r8k2ya4k2y2k7g40k3r10k6ya7k7y2~g006818-k101010-rc80000-we0e0e0-ye8c000-yad87c00~x2/sett.png)|

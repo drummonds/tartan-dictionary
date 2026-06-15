@@ -16,5 +16,5 @@ GRGRGRGWG
 
 | Tartans |
 |---------------|
-| [Red Dirt Girl](/setts/s9/g42r4ga36r4ga36r4gb16w12g20-g604000-ga288028-gb003820-ra00000-wfcfcfc/)|
-|![Red Dirt Girl example sett](/setts/s9/g42r4ga36r4ga36r4gb16w12g20-g604000-ga288028-gb003820-ra00000-wfcfcfc/sett.png)|
+| [Red Dirt Girl](/setts/s9/g21r2ga18r2ga18r2gb8w6g10~g604000-ga288028-gb003820-ra00000-wfcfcfc~x2/)|
+|![Red Dirt Girl example sett](/setts/s9/g21r2ga18r2ga18r2gb8w6g10~g604000-ga288028-gb003820-ra00000-wfcfcfc~x2/sett.png)|

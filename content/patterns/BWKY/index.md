@@ -6,7 +6,7 @@ BWKY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b124w22k8y34-b5c5c5c-k101010-we0e0e0-y48a4c0/tartan.png)
+![Woven sample](/setts/s4/b62w11k4y17~b5c5c5c-k101010-we0e0e0-y48a4c0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKY
 
 | Tartans |
 |---------------|
-| [Thunderlord (Corporate)](/setts/s4/b124w22k8y34-b5c5c5c-k101010-we0e0e0-y48a4c0/)|
-|![Thunderlord (Corporate) example sett](/setts/s4/b124w22k8y34-b5c5c5c-k101010-we0e0e0-y48a4c0/sett.png)|
+| [Thunderlord (Corporate)](/setts/s4/b62w11k4y17~b5c5c5c-k101010-we0e0e0-y48a4c0~x2/)|
+|![Thunderlord (Corporate) example sett](/setts/s4/b62w11k4y17~b5c5c5c-k101010-we0e0e0-y48a4c0~x2/sett.png)|

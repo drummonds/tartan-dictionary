@@ -16,5 +16,5 @@ GBGBGBGBBW
 
 | Tartans |
 |---------------|
-| [South Carolina](/setts/s10/g16b2g2b48g4b2g4b10ba40w10-b000080-ba0000ff-g6e6e6e-wffffff/)|
-|![South Carolina example sett](/setts/s10/g16b2g2b48g4b2g4b10ba40w10-b000080-ba0000ff-g6e6e6e-wffffff/sett.png)|
+| [South Carolina](/setts/s10/g8b1g1b24g2b1g2b5ba20w5~b000080-ba0000ff-g6e6e6e-wffffff~x2/)|
+|![South Carolina example sett](/setts/s10/g8b1g1b24g2b1g2b5ba20w5~b000080-ba0000ff-g6e6e6e-wffffff~x2/sett.png)|

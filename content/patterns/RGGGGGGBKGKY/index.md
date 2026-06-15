@@ -16,5 +16,5 @@ RGGGGGGBKGKY
 
 | Tartans |
 |---------------|
-| [McHeadley Society (Corporate)](/setts/s12/r4g36ga4g4ga4g4ga24b6k26g20k4y4-b2c2c80-g003820-ga006818-k101010-rc80000-yfccc00/)|
-|![McHeadley Society (Corporate) example sett](/setts/s12/r4g36ga4g4ga4g4ga24b6k26g20k4y4-b2c2c80-g003820-ga006818-k101010-rc80000-yfccc00/sett.png)|
+| [McHeadley Society (Corporate)](/setts/s12/r2g18ga2g2ga2g2ga12b3k13g10k2y2~b2c2c80-g003820-ga006818-k101010-rc80000-yfccc00~x2/)|
+|![McHeadley Society (Corporate) example sett](/setts/s12/r2g18ga2g2ga2g2ga12b3k13g10k2y2~b2c2c80-g003820-ga006818-k101010-rc80000-yfccc00~x2/sett.png)|

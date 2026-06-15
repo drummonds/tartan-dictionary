@@ -6,7 +6,7 @@ BRBRBKBK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b34r4b4r4b4k34ba26k8-b003c64-ba2c2c80-k101010-rc04c08/tartan.png)
+![Woven sample](/setts/s8/b17r2b2r2b2k17ba13k4~b003c64-ba2c2c80-k101010-rc04c08~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRBRBKBK
 
 | Tartans |
 |---------------|
-| [Balmoral Hotel](/setts/s8/b34r4b4r4b4k34ba26k8-b003c64-ba2c2c80-k101010-rc04c08/)|
-|![Balmoral Hotel example sett](/setts/s8/b34r4b4r4b4k34ba26k8-b003c64-ba2c2c80-k101010-rc04c08/sett.png)|
+| [Balmoral Hotel](/setts/s8/b17r2b2r2b2k17ba13k4~b003c64-ba2c2c80-k101010-rc04c08~x2/)|
+|![Balmoral Hotel example sett](/setts/s8/b17r2b2r2b2k17ba13k4~b003c64-ba2c2c80-k101010-rc04c08~x2/sett.png)|

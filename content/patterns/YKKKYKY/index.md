@@ -6,7 +6,7 @@ YKKKYKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y12k36y4k4k24k8y12-k000000-yc89800/tartan.png)
+![Woven sample](/setts/s7/y3k9y1k1k6k2y3~k000000-yc89800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YKKKYKY
 
 | Tartans |
 |---------------|
-| [LP Cover (Dance)](/setts/s7/y12k36y4k4k24k8y12-k000000-yc89800/)|
-|![LP Cover (Dance) example sett](/setts/s7/y12k36y4k4k24k8y12-k000000-yc89800/sett.png)|
+| [LP Cover (Dance)](/setts/s7/y3k9y1k1k6k2y3~k000000-yc89800~x4/)|
+|![LP Cover (Dance) example sett](/setts/s7/y3k9y1k1k6k2y3~k000000-yc89800~x4/sett.png)|

@@ -16,5 +16,5 @@ GGKGBKGKYKYG
 
 | Tartans |
 |---------------|
-| [Bottle Green (Fashion)](/setts/s12/g60y8k12ya4k4g8k4b10ga8k4ga6g4-b2c2c80-g006818-ga808080-k101010-ya08858-yad09800/)|
-|![Bottle Green (Fashion) example sett](/setts/s12/g60y8k12ya4k4g8k4b10ga8k4ga6g4-b2c2c80-g006818-ga808080-k101010-ya08858-yad09800/sett.png)|
+| [Bottle Green (Fashion)](/setts/s12/g30y4k6ya2k2g4k2b5ga4k2ga3g2~b2c2c80-g006818-ga808080-k101010-ya08858-yad09800~x2/)|
+|![Bottle Green (Fashion) example sett](/setts/s12/g30y4k6ya2k2g4k2b5ga4k2ga3g2~b2c2c80-g006818-ga808080-k101010-ya08858-yad09800~x2/sett.png)|

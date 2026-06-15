@@ -16,5 +16,5 @@ GGKGKGKBRKRW
 
 | Tartans |
 |---------------|
-| [Chattahoochee](/setts/s12/g6ga30k6ga6k6ga8k16b16r22ka6r6w6-b304080-g908000-ga004010-k000030-ka000000-rc00020-we0e0e0/)|
-|![Chattahoochee example sett](/setts/s12/g6ga30k6ga6k6ga8k16b16r22ka6r6w6-b304080-g908000-ga004010-k000030-ka000000-rc00020-we0e0e0/sett.png)|
+| [Chattahoochee](/setts/s12/g3ga15k3ga3k3ga4k8b8r11ka3r3w3~b304080-g908000-ga004010-k000030-ka000000-rc00020-we0e0e0~x2/)|
+|![Chattahoochee example sett](/setts/s12/g3ga15k3ga3k3ga4k8b8r11ka3r3w3~b304080-g908000-ga004010-k000030-ka000000-rc00020-we0e0e0~x2/sett.png)|

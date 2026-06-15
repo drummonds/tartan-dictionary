@@ -16,5 +16,5 @@ WBWRWRWKWBY
 
 | Tartans |
 |---------------|
-| [Harris (Personal)](/setts/s11/w2b6w16r2w2r2w40k30w4b16y2-b5c5c5c-k101010-r880000-wc0c0c0-yd09800/)|
-|![Harris (Personal) example sett](/setts/s11/w2b6w16r2w2r2w40k30w4b16y2-b5c5c5c-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Harris (Personal)](/setts/s11/w1b3w8r1w1r1w20k15w2b8y1~b5c5c5c-k101010-r880000-wc0c0c0-yd09800~x2/)|
+|![Harris (Personal) example sett](/setts/s11/w1b3w8r1w1r1w20k15w2b8y1~b5c5c5c-k101010-r880000-wc0c0c0-yd09800~x2/sett.png)|

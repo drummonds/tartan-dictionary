@@ -16,5 +16,5 @@ WGRGRBYBYW
 
 | Tartans |
 |---------------|
-| [O'Mahony, The (Commemorative)](/setts/s10/w4y8b2y2b80r12g36ra4g4w2-b202060-g289c18-r888888-rac80000-we0e0e0-ybc8c00/)|
-|![O'Mahony, The (Commemorative) example sett](/setts/s10/w4y8b2y2b80r12g36ra4g4w2-b202060-g289c18-r888888-rac80000-we0e0e0-ybc8c00/sett.png)|
+| [O'Mahony, The (Commemorative)](/setts/s10/w2y4b1y1b40r6g18ra2g2w1~b202060-g289c18-r888888-rac80000-we0e0e0-ybc8c00~x2/)|
+|![O'Mahony, The (Commemorative) example sett](/setts/s10/w2y4b1y1b40r6g18ra2g2w1~b202060-g289c18-r888888-rac80000-we0e0e0-ybc8c00~x2/sett.png)|

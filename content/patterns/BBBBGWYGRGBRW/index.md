@@ -16,5 +16,5 @@ BBBBGWYGRGBRW
 
 | Tartans |
 |---------------|
-| [Pearl of the Orient](/setts/s13/b8ba40bb8ba12g12w4y8g8r4g36bb8r2w8-b780078-ba003c64-bb000080-g007800-rdc0000-wfcfcfc-yffff00/)|
-|![Pearl of the Orient example sett](/setts/s13/b8ba40bb8ba12g12w4y8g8r4g36bb8r2w8-b780078-ba003c64-bb000080-g007800-rdc0000-wfcfcfc-yffff00/sett.png)|
+| [Pearl of the Orient](/setts/s13/b4ba20bb4ba6g6w2y4g4r2g18bb4r1w4~b780078-ba003c64-bb000080-g007800-rdc0000-wfcfcfc-yffff00~x2/)|
+|![Pearl of the Orient example sett](/setts/s13/b4ba20bb4ba6g6w2y4g4r2g18bb4r1w4~b780078-ba003c64-bb000080-g007800-rdc0000-wfcfcfc-yffff00~x2/sett.png)|

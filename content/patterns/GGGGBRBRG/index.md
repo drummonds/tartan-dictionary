@@ -16,5 +16,5 @@ GGGGBRBRG
 
 | Tartans |
 |---------------|
-| [O'Brien (Scotch Corner)](/setts/s9/g72ga38g8ga62b4r6b4r6ga24-b1474b4-g5c6428-ga289c18-ra00000/)|
-|![O'Brien (Scotch Corner) example sett](/setts/s9/g72ga38g8ga62b4r6b4r6ga24-b1474b4-g5c6428-ga289c18-ra00000/sett.png)|
+| [O'Brien (Scotch Corner)](/setts/s9/g36ga19g4ga31b2r3b2r3ga12~b1474b4-g5c6428-ga289c18-ra00000~x2/)|
+|![O'Brien (Scotch Corner) example sett](/setts/s9/g36ga19g4ga31b2r3b2r3ga12~b1474b4-g5c6428-ga289c18-ra00000~x2/sett.png)|

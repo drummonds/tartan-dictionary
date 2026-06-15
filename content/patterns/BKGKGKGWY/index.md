@@ -16,5 +16,5 @@ BKGKGKGWY
 
 | Tartans |
 |---------------|
-| [Hutchens (Personal)](/setts/s9/b20k24g6k2g2k2g60w8y8-b1c1c50-g003820-k101010-we0e0e0-ybc8c00/)|
-|![Hutchens (Personal) example sett](/setts/s9/b20k24g6k2g2k2g60w8y8-b1c1c50-g003820-k101010-we0e0e0-ybc8c00/sett.png)|
+| [Hutchens (Personal)](/setts/s9/b10k12g3k1g1k1g30w4y4~b1c1c50-g003820-k101010-we0e0e0-ybc8c00~x2/)|
+|![Hutchens (Personal) example sett](/setts/s9/b10k12g3k1g1k1g30w4y4~b1c1c50-g003820-k101010-we0e0e0-ybc8c00~x2/sett.png)|

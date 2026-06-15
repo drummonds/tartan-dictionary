@@ -16,5 +16,5 @@ KKKKKKGKWKGKKKR
 
 | Tartans |
 |---------------|
-| [Cumbernauld](/setts/s15/k34ka6k6ka6k6ka34g34ka4w6ka4g34ka34k34ka6r6-g008000-k000030-ka000000-rc00000-we0e0e0/)|
-|![Cumbernauld example sett](/setts/s15/k34ka6k6ka6k6ka34g34ka4w6ka4g34ka34k34ka6r6-g008000-k000030-ka000000-rc00000-we0e0e0/sett.png)|
+| [Cumbernauld](/setts/s15/k17ka3k3ka3k3ka17g17ka2w3ka2g17ka17k17ka3r3~g008000-k000030-ka000000-rc00000-we0e0e0~x2/)|
+|![Cumbernauld example sett](/setts/s15/k17ka3k3ka3k3ka17g17ka2w3ka2g17ka17k17ka3r3~g008000-k000030-ka000000-rc00000-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ BGYGRWRWRGYGBY
 
 | Tartans |
 |---------------|
-| [St. Andrew Quebec City](/setts/s14/b80g20y2g10r10w2r4w2r10g10y2g20b80ya4-b2c2c80-g006818-rc80000-we0e0e0-yd87c00-yae8c000/)|
-|![St. Andrew Quebec City example sett](/setts/s14/b80g20y2g10r10w2r4w2r10g10y2g20b80ya4-b2c2c80-g006818-rc80000-we0e0e0-yd87c00-yae8c000/sett.png)|
+| [St. Andrew Quebec City](/setts/s14/b40g10y1g5r5w1r2w1r5g5y1g10b40ya2~b2c2c80-g006818-rc80000-we0e0e0-yd87c00-yae8c000~x2/)|
+|![St. Andrew Quebec City example sett](/setts/s14/b40g10y1g5r5w1r2w1r5g5y1g10b40ya2~b2c2c80-g006818-rc80000-we0e0e0-yd87c00-yae8c000~x2/sett.png)|

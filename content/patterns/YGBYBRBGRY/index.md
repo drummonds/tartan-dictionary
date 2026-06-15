@@ -16,5 +16,5 @@ YGBYBRBGRY
 
 | Tartans |
 |---------------|
-| [Glasgows, Miles Better](/setts/s10/y24g8b8y8b8r8b30g30r30y16-b505050-g808080-rc00000-yf0c000/)|
-|![Glasgows, Miles Better example sett](/setts/s10/y24g8b8y8b8r8b30g30r30y16-b505050-g808080-rc00000-yf0c000/sett.png)|
+| [Glasgows, Miles Better](/setts/s10/y12g4b4y4b4r4b15g15r15y8~b505050-g808080-rc00000-yf0c000~x2/)|
+|![Glasgows, Miles Better example sett](/setts/s10/y12g4b4y4b4r4b15g15r15y8~b505050-g808080-rc00000-yf0c000~x2/sett.png)|

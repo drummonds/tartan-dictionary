@@ -16,5 +16,5 @@ RWRBRWWBWWBBWRBWBW
 
 | Tartans |
 |---------------|
-| [Welly (Personal)](/setts/s18/r10w10r10b10r10wa10w10b10wa10w10b10ba10w10r10bb10w10b10wa10-b1474b4-ba780078-bb5c5c5c-r888888-wc49cd8-wafcfcfc/)|
-|![Welly (Personal) example sett](/setts/s18/r10w10r10b10r10wa10w10b10wa10w10b10ba10w10r10bb10w10b10wa10-b1474b4-ba780078-bb5c5c5c-r888888-wc49cd8-wafcfcfc/sett.png)|
+| [Welly (Personal)](/setts/s18/r1w1r1b1r1wa1w1b1wa1w1b1ba1w1r1bb1w1b1wa1~b1474b4-ba780078-bb5c5c5c-r888888-wc49cd8-wafcfcfc~x10/)|
+|![Welly (Personal) example sett](/setts/s18/r1w1r1b1r1wa1w1b1wa1w1b1ba1w1r1bb1w1b1wa1~b1474b4-ba780078-bb5c5c5c-r888888-wc49cd8-wafcfcfc~x10/sett.png)|

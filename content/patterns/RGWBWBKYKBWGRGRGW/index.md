@@ -16,5 +16,5 @@ RGWBWBKYKBWGRGRGW
 
 | Tartans |
 |---------------|
-| [Victoria](/setts/s17/r8g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Victoria example sett](/setts/s17/r8g2w38b8w8b2k10y6k4b2w8g30r12g6r10g2w6-b304080-g008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Victoria](/setts/s17/r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Victoria example sett](/setts/s17/r4g1w19b4w4b1k5y3k2b1w4g15r6g3r5g1w3~b304080-g008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

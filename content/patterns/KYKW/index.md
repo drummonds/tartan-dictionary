@@ -6,7 +6,7 @@ KYKW
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k8y30k8w4-k000000-we0e0e0-ya08858/tartan.png)
+![Woven sample](/setts/s4/k4y15k4w2~k000000-we0e0e0-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYKW
 
 | Tartans |
 |---------------|
-| [Takla Makan #2 (Artefact)](/setts/s4/k8y30k8w4-k000000-we0e0e0-ya08858/)|
-|![Takla Makan #2 (Artefact) example sett](/setts/s4/k8y30k8w4-k000000-we0e0e0-ya08858/sett.png)|
+| [Takla Makan #2 (Artefact)](/setts/s4/k4y15k4w2~k000000-we0e0e0-ya08858~x2/)|
+|![Takla Makan #2 (Artefact) example sett](/setts/s4/k4y15k4w2~k000000-we0e0e0-ya08858~x2/sett.png)|

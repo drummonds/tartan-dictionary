@@ -16,5 +16,5 @@ RGKYKWKWRKRKW
 
 | Tartans |
 |---------------|
-| [Palmer, Edward](/setts/s13/r8g40k32y4k6w6k4w36r12k4r8k2w4-g004c00-k000000-rc80000-wf8f8f8-ye8c000/)|
-|![Palmer, Edward example sett](/setts/s13/r8g40k32y4k6w6k4w36r12k4r8k2w4-g004c00-k000000-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Palmer, Edward](/setts/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~g004c00-k000000-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Palmer, Edward example sett](/setts/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~g004c00-k000000-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

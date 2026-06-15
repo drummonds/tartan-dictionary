@@ -16,5 +16,5 @@ BKRKBKRWRKBKRKBW
 
 | Tartans |
 |---------------|
-| [Royal Naval Association](/setts/s16/b28k42r4k6b8k42r6w6r6k42b8k6r4k42b28w6-b1c0070-k00002c-rc80000-we0e0e0/)|
-|![Royal Naval Association example sett](/setts/s16/b28k42r4k6b8k42r6w6r6k42b8k6r4k42b28w6-b1c0070-k00002c-rc80000-we0e0e0/sett.png)|
+| [Royal Naval Association](/setts/s16/b14k21r2k3b4k21r3w3r3k21b4k3r2k21b14w3~b1c0070-k00002c-rc80000-we0e0e0~x2/)|
+|![Royal Naval Association example sett](/setts/s16/b14k21r2k3b4k21r3w3r3k21b4k3r2k21b14w3~b1c0070-k00002c-rc80000-we0e0e0~x2/sett.png)|

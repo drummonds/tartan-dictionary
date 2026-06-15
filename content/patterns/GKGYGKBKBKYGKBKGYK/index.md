@@ -16,5 +16,5 @@ GKGYGKBKBKYGKBKGYK
 
 | Tartans |
 |---------------|
-| [Raznotravie](/setts/s18/k20y2g4k2b4k2g4y2k2b4k6b2k34g36y2g4k2ga4-b1e2025-g70714d-ga23321b-k1c1714-yf5d38b/)|
-|![Raznotravie example sett](/setts/s18/k20y2g4k2b4k2g4y2k2b4k6b2k34g36y2g4k2ga4-b1e2025-g70714d-ga23321b-k1c1714-yf5d38b/sett.png)|
+| [Raznotravie](/setts/s18/k10y1g2k1b2k1g2y1k1b2k3b1k17g18y1g2k1ga2~b1e2025-g70714d-ga23321b-k1c1714-yf5d38b~x2/)|
+|![Raznotravie example sett](/setts/s18/k10y1g2k1b2k1g2y1k1b2k3b1k17g18y1g2k1ga2~b1e2025-g70714d-ga23321b-k1c1714-yf5d38b~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKKRRRKR
 
 | Tartans |
 |---------------|
-| [Henry, W. A. (Commemorative)](/setts/s9/k64r64k12k64r8r4r8k24r8-k000000-r9c0030/)|
-|![Henry, W. A. (Commemorative) example sett](/setts/s9/k64r64k12k64r8r4r8k24r8-k000000-r9c0030/sett.png)|
+| [Henry, W. A. (Commemorative)](/setts/s9/k16r16k3k16r2r1r2k6r2~k000000-r9c0030~x4/)|
+|![Henry, W. A. (Commemorative) example sett](/setts/s9/k16r16k3k16r2r1r2k6r2~k000000-r9c0030~x4/sett.png)|

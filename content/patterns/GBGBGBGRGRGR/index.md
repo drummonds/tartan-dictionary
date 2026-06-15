@@ -16,5 +16,5 @@ GBGBGBGRGRGR
 
 | Tartans |
 |---------------|
-| [Dublin](/setts/s12/g6b6g6b32g6b6g6r10g36ra4g16ra6-b401000-g008000-r802040-rac00000/)|
-|![Dublin example sett](/setts/s12/g6b6g6b32g6b6g6r10g36ra4g16ra6-b401000-g008000-r802040-rac00000/sett.png)|
+| [Dublin](/setts/s12/g3b3g3b16g3b3g3r5g18ra2g8ra3~b401000-g008000-r802040-rac00000~x2/)|
+|![Dublin example sett](/setts/s12/g3b3g3b16g3b3g3r5g18ra2g8ra3~b401000-g008000-r802040-rac00000~x2/sett.png)|

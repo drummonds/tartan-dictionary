@@ -16,5 +16,5 @@ WBKBWRGRBY
 
 | Tartans |
 |---------------|
-| [University of Edinburgh Business School, The](/setts/s10/w4b12k6b6w6r8g8r8b50y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![University of Edinburgh Business School, The example sett](/setts/s10/w4b12k6b6w6r8g8r8b50y4-b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [University of Edinburgh Business School, The](/setts/s10/w2b6k3b3w3r4g4r4b25y2~b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![University of Edinburgh Business School, The example sett](/setts/s10/w2b6k3b3w3r4g4r4b25y2~b2c2c80-g006818-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

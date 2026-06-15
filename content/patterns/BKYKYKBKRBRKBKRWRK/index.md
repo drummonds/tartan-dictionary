@@ -16,5 +16,5 @@ BKYKYKBKRBRKBKRWRK
 
 | Tartans |
 |---------------|
-| [Buchanan Variant](/setts/s18/b16k6y44k6y44k6b16k6r44b16r44k6b16k6ra28w6ra28k12-b0596fa-k101010-rbe7832-rac82828-we0e0e0-yfadc00/)|
-|![Buchanan Variant example sett](/setts/s18/b16k6y44k6y44k6b16k6r44b16r44k6b16k6ra28w6ra28k12-b0596fa-k101010-rbe7832-rac82828-we0e0e0-yfadc00/sett.png)|
+| [Buchanan Variant](/setts/s18/b8k3y22k3y22k3b8k3r22b8r22k3b8k3ra14w3ra14k6~b0596fa-k101010-rbe7832-rac82828-we0e0e0-yfadc00~x2/)|
+|![Buchanan Variant example sett](/setts/s18/b8k3y22k3y22k3b8k3r22b8r22k3b8k3ra14w3ra14k6~b0596fa-k101010-rbe7832-rac82828-we0e0e0-yfadc00~x2/sett.png)|

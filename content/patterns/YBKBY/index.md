@@ -6,7 +6,7 @@ YBKBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/y12b76k6b76y12-b8080d0-k000000-yf0c000/tartan.png)
+![Woven sample](/setts/s5/y6b38k3b38y6~b8080d0-k000000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YBKBY
 
 | Tartans |
 |---------------|
-| [The Poulain League](/setts/s5/y12b76k6b76y12-b8080d0-k000000-yf0c000/)|
-|![The Poulain League example sett](/setts/s5/y12b76k6b76y12-b8080d0-k000000-yf0c000/sett.png)|
+| [The Poulain League](/setts/s5/y6b38k3b38y6~b8080d0-k000000-yf0c000~x2/)|
+|![The Poulain League example sett](/setts/s5/y6b38k3b38y6~b8080d0-k000000-yf0c000~x2/sett.png)|

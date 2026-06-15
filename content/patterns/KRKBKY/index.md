@@ -6,7 +6,7 @@ KRKBKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k8r4k24b24k2y4-b202060-k101010-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s6/k4r2k12b12k1y2~b202060-k101010-r880000-yd09800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKBKY
 
 | Tartans |
 |---------------|
-| [Robert Gordon University](/setts/s6/k8r4k24b24k2y4-b202060-k101010-r880000-yd09800/)|
-|![Robert Gordon University example sett](/setts/s6/k8r4k24b24k2y4-b202060-k101010-r880000-yd09800/sett.png)|
+| [Robert Gordon University](/setts/s6/k4r2k12b12k1y2~b202060-k101010-r880000-yd09800~x2/)|
+|![Robert Gordon University example sett](/setts/s6/k4r2k12b12k1y2~b202060-k101010-r880000-yd09800~x2/sett.png)|

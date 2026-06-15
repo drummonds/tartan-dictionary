@@ -6,7 +6,7 @@ KGGBRGY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k8g24ga16b4r72ga20y4-b2888c4-g006818-ga642000-k101010-rc80000-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/k2g6ga4b1r18ga5y1~b2888c4-g006818-ga642000-k101010-rc80000-ybc8c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGGBRGY
 
 | Tartans |
 |---------------|
-| [Snelgrove (Name)](/setts/s7/k8g24ga16b4r72ga20y4-b2888c4-g006818-ga642000-k101010-rc80000-ybc8c00/)|
-|![Snelgrove (Name) example sett](/setts/s7/k8g24ga16b4r72ga20y4-b2888c4-g006818-ga642000-k101010-rc80000-ybc8c00/sett.png)|
+| [Snelgrove (Name)](/setts/s7/k2g6ga4b1r18ga5y1~b2888c4-g006818-ga642000-k101010-rc80000-ybc8c00~x4/)|
+|![Snelgrove (Name) example sett](/setts/s7/k2g6ga4b1r18ga5y1~b2888c4-g006818-ga642000-k101010-rc80000-ybc8c00~x4/sett.png)|

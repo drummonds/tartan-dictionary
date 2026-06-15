@@ -16,5 +16,5 @@ BKBKBKBWKRBRBR
 
 | Tartans |
 |---------------|
-| [Sydney Academy](/setts/s14/b62k8b8k8b8k8b12w10k8r6ba38r6b8ra6-b5c5c5c-ba780078-k101010-rb84c00-rac80000-wfcfcfc/)|
-|![Sydney Academy example sett](/setts/s14/b62k8b8k8b8k8b12w10k8r6ba38r6b8ra6-b5c5c5c-ba780078-k101010-rb84c00-rac80000-wfcfcfc/sett.png)|
+| [Sydney Academy](/setts/s14/b31k4b4k4b4k4b6w5k4r3ba19r3b4ra3~b5c5c5c-ba780078-k101010-rb84c00-rac80000-wfcfcfc~x2/)|
+|![Sydney Academy example sett](/setts/s14/b31k4b4k4b4k4b6w5k4r3ba19r3b4ra3~b5c5c5c-ba780078-k101010-rb84c00-rac80000-wfcfcfc~x2/sett.png)|

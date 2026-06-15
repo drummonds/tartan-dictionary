@@ -16,5 +16,5 @@ BBKBKBKGYGKBKG
 
 | Tartans |
 |---------------|
-| [Angove, the Black Swan (Name)](/setts/s14/b36ba4k4ba4k2b4k16g2y2g12k16b28k4g4-b1474b4-ba003c64-g006818-k101010-yfccc00/)|
-|![Angove, the Black Swan (Name) example sett](/setts/s14/b36ba4k4ba4k2b4k16g2y2g12k16b28k4g4-b1474b4-ba003c64-g006818-k101010-yfccc00/sett.png)|
+| [Angove, the Black Swan (Name)](/setts/s14/b18ba2k2ba2k1b2k8g1y1g6k8b14k2g2~b1474b4-ba003c64-g006818-k101010-yfccc00~x2/)|
+|![Angove, the Black Swan (Name) example sett](/setts/s14/b18ba2k2ba2k1b2k8g1y1g6k8b14k2g2~b1474b4-ba003c64-g006818-k101010-yfccc00~x2/sett.png)|

@@ -16,7 +16,7 @@ BKBKBKGRGKWKGRGKRBRBRBW
 
 | Tartans |
 |---------------|
-| [Rankine](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Rankine example sett](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [Rankine](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![Rankine example sett](/setts/s23/b30k2b2k2b2k24g18r2g18k2w2k2g18r2g18k24r2b18r4b2r2b12w2-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Rankine](/setts/s23/b15k1b1k1b1k12g9r1g9k1w1k1g9r1g9k12r1b9r2b1r1b6w1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Rankine example sett](/setts/s23/b15k1b1k1b1k12g9r1g9k1w1k1g9r1g9k12r1b9r2b1r1b6w1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [Rankine](/setts/s23/b15k1b1k1b1k12g9r1g9k1w1k1g9r1g9k12r1b9r2b1r1b6w1~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![Rankine example sett](/setts/s23/b15k1b1k1b1k12g9r1g9k1w1k1g9r1g9k12r1b9r2b1r1b6w1~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

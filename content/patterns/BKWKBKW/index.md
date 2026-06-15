@@ -6,7 +6,7 @@ BKWKBKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6k62w12k14b6k24w4-b646464-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s7/b3k31w6k7b3k12w2~b646464-k101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKWKBKW
 
 | Tartans |
 |---------------|
-| [Believe - Colette](/setts/s7/b6k62w12k14b6k24w4-b646464-k101010-wffffff/)|
-|![Believe - Colette example sett](/setts/s7/b6k62w12k14b6k24w4-b646464-k101010-wffffff/sett.png)|
-| [Believe - Colette](/setts/s7/b6k62w12k16b6k24w4-b5c5c5c-k101010-wfcfcfc/)|
-|![Believe - Colette example sett](/setts/s7/b6k62w12k16b6k24w4-b5c5c5c-k101010-wfcfcfc/sett.png)|
+| [Believe - Colette](/setts/s7/b3k31w6k7b3k12w2~b646464-k101010-wffffff~x2/)|
+|![Believe - Colette example sett](/setts/s7/b3k31w6k7b3k12w2~b646464-k101010-wffffff~x2/sett.png)|
+| [Believe - Colette](/setts/s7/b3k31w6k8b3k12w2~b5c5c5c-k101010-wfcfcfc~x2/)|
+|![Believe - Colette example sett](/setts/s7/b3k31w6k8b3k12w2~b5c5c5c-k101010-wfcfcfc~x2/sett.png)|

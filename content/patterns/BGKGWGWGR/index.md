@@ -16,5 +16,5 @@ BGKGWGWGR
 
 | Tartans |
 |---------------|
-| [Todd](/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/)|
-|![Todd example sett](/setts/s9/b80g6k6g24w6g6w6g6r6-b14283c-g285800-k101010-rc80000-wfcfcfc/sett.png)|
+| [Todd](/setts/s9/b40g3k3g12w3g3w3g3r3~b14283c-g285800-k101010-rc80000-wfcfcfc~x2/)|
+|![Todd example sett](/setts/s9/b40g3k3g12w3g3w3g3r3~b14283c-g285800-k101010-rc80000-wfcfcfc~x2/sett.png)|

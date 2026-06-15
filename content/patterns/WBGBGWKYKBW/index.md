@@ -16,5 +16,5 @@ WBGBGWKYKBW
 
 | Tartans |
 |---------------|
-| [Pritchard](/setts/s11/w96b8k8y4k4w4g24ba16g4ba4w4-b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800/)|
-|![Pritchard example sett](/setts/s11/w96b8k8y4k4w4g24ba16g4ba4w4-b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800/sett.png)|
+| [Pritchard](/setts/s11/w24b2k2y1k1w1g6ba4g1ba1w1~b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800~x4/)|
+|![Pritchard example sett](/setts/s11/w24b2k2y1k1w1g6ba4g1ba1w1~b00008c-ba683c8c-g146400-k000000-wfcfcfc-yc89800~x4/sett.png)|

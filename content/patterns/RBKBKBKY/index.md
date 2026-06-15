@@ -6,7 +6,7 @@ RBKBKBKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4b4k4b56k16b18k2y4-b5c5c5c-k101010-r880000-ybc8c00/tartan.png)
+![Woven sample](/setts/s8/r2b2k2b28k8b9k1y2~b5c5c5c-k101010-r880000-ybc8c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKBKBKY
 
 | Tartans |
 |---------------|
-| [Highland Autumn (Fashion)](/setts/s8/r4b4k4b56k16b18k2y4-b5c5c5c-k101010-r880000-ybc8c00/)|
-|![Highland Autumn (Fashion) example sett](/setts/s8/r4b4k4b56k16b18k2y4-b5c5c5c-k101010-r880000-ybc8c00/sett.png)|
+| [Highland Autumn (Fashion)](/setts/s8/r2b2k2b28k8b9k1y2~b5c5c5c-k101010-r880000-ybc8c00~x2/)|
+|![Highland Autumn (Fashion) example sett](/setts/s8/r2b2k2b28k8b9k1y2~b5c5c5c-k101010-r880000-ybc8c00~x2/sett.png)|

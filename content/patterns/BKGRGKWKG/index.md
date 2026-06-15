@@ -16,5 +16,5 @@ BKGRGKWKG
 
 | Tartans |
 |---------------|
-| [Ferguson (Tarlogie)](/setts/s9/b48k16g16r4g8k2w4k2g8-b3850c8-g146400-k101010-rc80000-wfcfcfc/)|
-|![Ferguson (Tarlogie) example sett](/setts/s9/b48k16g16r4g8k2w4k2g8-b3850c8-g146400-k101010-rc80000-wfcfcfc/sett.png)|
+| [Ferguson (Tarlogie)](/setts/s9/b24k8g8r2g4k1w2k1g4~b3850c8-g146400-k101010-rc80000-wfcfcfc~x2/)|
+|![Ferguson (Tarlogie) example sett](/setts/s9/b24k8g8r2g4k1w2k1g4~b3850c8-g146400-k101010-rc80000-wfcfcfc~x2/sett.png)|

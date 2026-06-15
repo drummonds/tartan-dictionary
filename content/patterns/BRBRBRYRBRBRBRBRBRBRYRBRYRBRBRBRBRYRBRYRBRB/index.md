@@ -16,7 +16,7 @@ BRBRBRYRBRBRBRBRBRBRYRBRYRBRBRBRBRYRBRYRBRB
 
 | Tartans |
 |---------------|
-| [Culloden Unidentified Plaid](/setts/s43/b10r14b2r2y10r10b10r10y4r2b2r2b2r10b2r2b2r2y4r10b10r10y10r2b2r12b2r2b2r4b2r2b2r12b2r2y10r8b2r2b2r2b10-b2c4084-rdc0000-ye8c000/)|
-|![Culloden Unidentified Plaid example sett](/setts/s43/b10r14b2r2y10r10b10r10y4r2b2r2b2r10b2r2b2r2y4r10b10r10y10r2b2r12b2r2b2r4b2r2b2r12b2r2y10r8b2r2b2r2b10-b2c4084-rdc0000-ye8c000/sett.png)|
-| [Culloden, Unidentified Plaid](/setts/s43/b10r14b2r2y10r10b10r10y4r2b2r2b2r10b2r2b2r2y4r10b10r10y10r2b2r12b2r2b2r4b2r2b2r12b2r2y10r8b2r2b2r2b10-b304080-rc00000-yf0c000/)|
-|![Culloden, Unidentified Plaid example sett](/setts/s43/b10r14b2r2y10r10b10r10y4r2b2r2b2r10b2r2b2r2y4r10b10r10y10r2b2r12b2r2b2r4b2r2b2r12b2r2y10r8b2r2b2r2b10-b304080-rc00000-yf0c000/sett.png)|
+| [Culloden Unidentified Plaid](/setts/s43/b5r7b1r1y5r5b5r5y2r1b1r1b1r5b1r1b1r1y2r5b5r5y5r1b1r6b1r1b1r2b1r1b1r6b1r1y5r4b1r1b1r1b5~b2c4084-rdc0000-ye8c000~x2/)|
+|![Culloden Unidentified Plaid example sett](/setts/s43/b5r7b1r1y5r5b5r5y2r1b1r1b1r5b1r1b1r1y2r5b5r5y5r1b1r6b1r1b1r2b1r1b1r6b1r1y5r4b1r1b1r1b5~b2c4084-rdc0000-ye8c000~x2/sett.png)|
+| [Culloden, Unidentified Plaid](/setts/s43/b5r7b1r1y5r5b5r5y2r1b1r1b1r5b1r1b1r1y2r5b5r5y5r1b1r6b1r1b1r2b1r1b1r6b1r1y5r4b1r1b1r1b5~b304080-rc00000-yf0c000~x2/)|
+|![Culloden, Unidentified Plaid example sett](/setts/s43/b5r7b1r1y5r5b5r5y2r1b1r1b1r5b1r1b1r1y2r5b5r5y5r1b1r6b1r1b1r2b1r1b1r6b1r1y5r4b1r1b1r1b5~b304080-rc00000-yf0c000~x2/sett.png)|

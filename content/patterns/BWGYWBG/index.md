@@ -6,7 +6,7 @@ BWGYWBG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g56b24w8y16g8wa16b8-b800080-g006400-wffffff-wadda0dd-y32cd32/tartan.png)
+![Woven sample](/setts/s7/g7b3w1y2g1wa2b1~b800080-g006400-wffffff-wadda0dd-y32cd32~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWGYWBG
 
 | Tartans |
 |---------------|
-| [Lindley-Highfield of Ballumbie Castle](/setts/s7/g56b24w8y16g8wa16b8-b800080-g006400-wffffff-wadda0dd-y32cd32/)|
-|![Lindley-Highfield of Ballumbie Castle example sett](/setts/s7/g56b24w8y16g8wa16b8-b800080-g006400-wffffff-wadda0dd-y32cd32/sett.png)|
+| [Lindley-Highfield of Ballumbie Castle](/setts/s7/g7b3w1y2g1wa2b1~b800080-g006400-wffffff-wadda0dd-y32cd32~x8/)|
+|![Lindley-Highfield of Ballumbie Castle example sett](/setts/s7/g7b3w1y2g1wa2b1~b800080-g006400-wffffff-wadda0dd-y32cd32~x8/sett.png)|

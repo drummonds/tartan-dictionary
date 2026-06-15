@@ -6,7 +6,7 @@ BBBYB
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b2y21b11ba21b1-b1c1c50-ba003c64-ybc8c00/tartan.png)
+![Woven sample](/setts/s5/b2y21b11ba21b1~b1c1c50-ba003c64-ybc8c00/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBYB
 
 | Tartans |
 |---------------|
-| [St. Matthews Check (School)](/setts/s5/b2y21b11ba21b1-b1c1c50-ba003c64-ybc8c00/)|
-|![St. Matthews Check (School) example sett](/setts/s5/b2y21b11ba21b1-b1c1c50-ba003c64-ybc8c00/sett.png)|
+| [St. Matthews Check (School)](/setts/s5/b2y21b11ba21b1~b1c1c50-ba003c64-ybc8c00/)|
+|![St. Matthews Check (School) example sett](/setts/s5/b2y21b11ba21b1~b1c1c50-ba003c64-ybc8c00/sett.png)|

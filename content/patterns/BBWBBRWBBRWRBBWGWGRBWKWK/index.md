@@ -16,5 +16,5 @@ BBWBBRWBBRWRBBWGWGRBWKWK
 
 | Tartans |
 |---------------|
-| [Ross, Wedding dress](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ra6w2ra6b8ba8w2r72ba6b4w2b4ba6-b5480b0-ba304080-g008000-k000000-rc00000-ra806050-we0e0e0/)|
-|![Ross, Wedding dress example sett](/setts/s24/k8w4k4w2b12r12g12w2g54w2ba8b8ra6w2ra6b8ba8w2r72ba6b4w2b4ba6-b5480b0-ba304080-g008000-k000000-rc00000-ra806050-we0e0e0/sett.png)|
+| [Ross, Wedding dress](/setts/s24/k4w2k2w1b6r6g6w1g27w1ba4b4ra3w1ra3b4ba4w1r36ba3b2w1b2ba3~b5480b0-ba304080-g008000-k000000-rc00000-ra806050-we0e0e0~x2/)|
+|![Ross, Wedding dress example sett](/setts/s24/k4w2k2w1b6r6g6w1g27w1ba4b4ra3w1ra3b4ba4w1r36ba3b2w1b2ba3~b5480b0-ba304080-g008000-k000000-rc00000-ra806050-we0e0e0~x2/sett.png)|

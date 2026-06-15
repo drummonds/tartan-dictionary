@@ -6,7 +6,7 @@ GRGGWGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/tartan.png)
+![Woven sample](/setts/s7/g3r2g27ga3w30ga2w3~g006818-ga003820-rc80000-wf0e0c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGGWGW
 
 | Tartans |
 |---------------|
-| [Uist, Green (Dance)](/setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/)|
-|![Uist, Green (Dance) example sett](/setts/s7/g6r4g54ga6w60ga4w6-g006818-ga003820-rc80000-wf0e0c8/sett.png)|
+| [Uist, Green (Dance)](/setts/s7/g3r2g27ga3w30ga2w3~g006818-ga003820-rc80000-wf0e0c8~x2/)|
+|![Uist, Green (Dance) example sett](/setts/s7/g3r2g27ga3w30ga2w3~g006818-ga003820-rc80000-wf0e0c8~x2/sett.png)|

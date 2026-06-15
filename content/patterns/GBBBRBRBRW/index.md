@@ -16,5 +16,5 @@ GBBBRBRBRW
 
 | Tartans |
 |---------------|
-| [Gill, Anil (Personal)](/setts/s10/g2b60ba64b2r10b2ra8b2r4w2-b000084-ba780078-g649848-rdc0000-rae87878-wffffff/)|
-|![Gill, Anil (Personal) example sett](/setts/s10/g2b60ba64b2r10b2ra8b2r4w2-b000084-ba780078-g649848-rdc0000-rae87878-wffffff/sett.png)|
+| [Gill, Anil (Personal)](/setts/s10/g1b30ba32b1r5b1ra4b1r2w1~b000084-ba780078-g649848-rdc0000-rae87878-wffffff~x2/)|
+|![Gill, Anil (Personal) example sett](/setts/s10/g1b30ba32b1r5b1ra4b1r2w1~b000084-ba780078-g649848-rdc0000-rae87878-wffffff~x2/sett.png)|

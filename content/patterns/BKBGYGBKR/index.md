@@ -16,5 +16,5 @@ BKBGYGBKR
 
 | Tartans |
 |---------------|
-| [Glackin-McColgan (Personal)](/setts/s9/b32k22b48g20y6g34b30k10r12-b1474b4-g285800-k101010-rc8002c-yffff00/)|
-|![Glackin-McColgan (Personal) example sett](/setts/s9/b32k22b48g20y6g34b30k10r12-b1474b4-g285800-k101010-rc8002c-yffff00/sett.png)|
+| [Glackin-McColgan (Personal)](/setts/s9/b16k11b24g10y3g17b15k5r6~b1474b4-g285800-k101010-rc8002c-yffff00~x2/)|
+|![Glackin-McColgan (Personal) example sett](/setts/s9/b16k11b24g10y3g17b15k5r6~b1474b4-g285800-k101010-rc8002c-yffff00~x2/sett.png)|

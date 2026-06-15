@@ -16,5 +16,5 @@ RBKYRKGKRRW
 
 | Tartans |
 |---------------|
-| [Unnamed 18th century plaid (Carlisle Museum)](/setts/s11/r4b4k6y6r6k6g20k24ra6r32w2-b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000/)|
-|![Unnamed 18th century plaid (Carlisle Museum) example sett](/setts/s11/r4b4k6y6r6k6g20k24ra6r32w2-b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000/sett.png)|
+| [Unnamed 18th century plaid (Carlisle Museum)](/setts/s11/r2b2k3y3r3k3g10k12ra3r16w1~b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000~x2/)|
+|![Unnamed 18th century plaid (Carlisle Museum) example sett](/setts/s11/r2b2k3y3r3k3g10k12ra3r16w1~b2c2c80-g604000-k101010-rc80000-raa00048-wfcfcfc-ye8c000~x2/sett.png)|

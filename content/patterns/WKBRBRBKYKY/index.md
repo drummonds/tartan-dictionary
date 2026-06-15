@@ -16,5 +16,5 @@ WKBRBRBKYKY
 
 | Tartans |
 |---------------|
-| [Liddell (New York) (Name)](/setts/s11/w4k2b44r2b6r2b16k44y4k6y4-b2888c4-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Liddell (New York) (Name) example sett](/setts/s11/w4k2b44r2b6r2b16k44y4k6y4-b2888c4-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Liddell (New York) (Name)](/setts/s11/w2k1b22r1b3r1b8k22y2k3y2~b2888c4-k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Liddell (New York) (Name) example sett](/setts/s11/w2k1b22r1b3r1b8k22y2k3y2~b2888c4-k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

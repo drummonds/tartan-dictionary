@@ -16,5 +16,5 @@ GRRGRRRRKGBWK
 
 | Tartans |
 |---------------|
-| [St. Andrews Grand (Fashion)](/setts/s13/g8r2ra2ga4r2ra2r2ra2k24g36b46w4k6-b2c2c80-g006818-ga003820-k101010-rc80000-rae87878-wf8f8f8/)|
-|![St. Andrews Grand (Fashion) example sett](/setts/s13/g8r2ra2ga4r2ra2r2ra2k24g36b46w4k6-b2c2c80-g006818-ga003820-k101010-rc80000-rae87878-wf8f8f8/sett.png)|
+| [St. Andrews Grand (Fashion)](/setts/s13/g4r1ra1ga2r1ra1r1ra1k12g18b23w2k3~b2c2c80-g006818-ga003820-k101010-rc80000-rae87878-wf8f8f8~x2/)|
+|![St. Andrews Grand (Fashion) example sett](/setts/s13/g4r1ra1ga2r1ra1r1ra1k12g18b23w2k3~b2c2c80-g006818-ga003820-k101010-rc80000-rae87878-wf8f8f8~x2/sett.png)|

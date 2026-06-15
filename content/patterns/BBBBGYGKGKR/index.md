@@ -16,5 +16,5 @@ BBBBGYGKGKR
 
 | Tartans |
 |---------------|
-| [Dama Weekend (Fashion)](/setts/s11/b84ba4b4ba8g8y4g12k18g4k4r4-b1c1c50-ba5c5c5c-g5c6428-k101010-rc80000-ybc8c00/)|
-|![Dama Weekend (Fashion) example sett](/setts/s11/b84ba4b4ba8g8y4g12k18g4k4r4-b1c1c50-ba5c5c5c-g5c6428-k101010-rc80000-ybc8c00/sett.png)|
+| [Dama Weekend (Fashion)](/setts/s11/b42ba2b2ba4g4y2g6k9g2k2r2~b1c1c50-ba5c5c5c-g5c6428-k101010-rc80000-ybc8c00~x2/)|
+|![Dama Weekend (Fashion) example sett](/setts/s11/b42ba2b2ba4g4y2g6k9g2k2r2~b1c1c50-ba5c5c5c-g5c6428-k101010-rc80000-ybc8c00~x2/sett.png)|

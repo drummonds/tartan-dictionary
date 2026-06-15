@@ -6,7 +6,7 @@ RBRBWRR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r8b4r42ba22w4ra40rb6-b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8/tartan.png)
+![Woven sample](/setts/s7/r4b2r21ba11w2ra20rb3~b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRBWRR
 
 | Tartans |
 |---------------|
-| [Barbour Dress](/setts/s7/r8b4r42ba22w4ra40rb6-b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8/)|
-|![Barbour Dress example sett](/setts/s7/r8b4r42ba22w4ra40rb6-b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8/sett.png)|
+| [Barbour Dress](/setts/s7/r4b2r21ba11w2ra20rb3~b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8~x2/)|
+|![Barbour Dress example sett](/setts/s7/r4b2r21ba11w2ra20rb3~b4c3428-ba141e46-rb07430-ra888888-rbc8002c-wf8f8f8~x2/sett.png)|

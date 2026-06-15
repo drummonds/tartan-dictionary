@@ -6,7 +6,7 @@ KYBYBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/y4b8y4b8y18k2-b59110d-k000000-yaaaaaa/tartan.png)
+![Woven sample](/setts/s6/y2b4y2b4y9k1~b59110d-k000000-yaaaaaa~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KYBYBY
 
 | Tartans |
 |---------------|
-| [Buchanan VS](/setts/s6/y4b8y4b8y18k2-b59110d-k000000-yaaaaaa/)|
-|![Buchanan VS example sett](/setts/s6/y4b8y4b8y18k2-b59110d-k000000-yaaaaaa/sett.png)|
-| [Buchanan VS](/setts/s6/y2b4y2b4y9k1-b59110d-k000000-yaaaaaa/)|
-|![Buchanan VS example sett](/setts/s6/y2b4y2b4y9k1-b59110d-k000000-yaaaaaa/sett.png)|
+| [Buchanan VS](/setts/s6/y2b4y2b4y9k1~b59110d-k000000-yaaaaaa~x2/)|
+|![Buchanan VS example sett](/setts/s6/y2b4y2b4y9k1~b59110d-k000000-yaaaaaa~x2/sett.png)|
+| [Buchanan VS](/setts/s6/y2b4y2b4y9k1~b59110d-k000000-yaaaaaa/)|
+|![Buchanan VS example sett](/setts/s6/y2b4y2b4y9k1~b59110d-k000000-yaaaaaa/sett.png)|

@@ -16,5 +16,5 @@ GGKYGYGGGGGYGYGKYGY
 
 | Tartans |
 |---------------|
-| [Shepherd, (Name)](/setts/s19/g80ga10k80y16g2y2g2ga4g2ga4g2y2g2y14g2k30y10g2y20-g006818-ga604000-k101010-ya0a0a0/)|
-|![Shepherd, (Name) example sett](/setts/s19/g80ga10k80y16g2y2g2ga4g2ga4g2y2g2y14g2k30y10g2y20-g006818-ga604000-k101010-ya0a0a0/sett.png)|
+| [Shepherd, (Name)](/setts/s19/g40ga5k40y8g1y1g1ga2g1ga2g1y1g1y7g1k15y5g1y10~g006818-ga604000-k101010-ya0a0a0~x2/)|
+|![Shepherd, (Name) example sett](/setts/s19/g40ga5k40y8g1y1g1ga2g1ga2g1y1g1y7g1k15y5g1y10~g006818-ga604000-k101010-ya0a0a0~x2/sett.png)|

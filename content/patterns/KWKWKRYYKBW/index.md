@@ -16,5 +16,5 @@ KWKWKRYYKBW
 
 | Tartans |
 |---------------|
-| [Zimbabwe](/setts/s11/k32w8k4w8k4r16y16ya16k2b48w12-b5190ed-k101010-rff0000-wffffff-yffff00-ya5dfc0a/)|
-|![Zimbabwe example sett](/setts/s11/k32w8k4w8k4r16y16ya16k2b48w12-b5190ed-k101010-rff0000-wffffff-yffff00-ya5dfc0a/sett.png)|
+| [Zimbabwe](/setts/s11/k16w4k2w4k2r8y8ya8k1b24w6~b5190ed-k101010-rff0000-wffffff-yffff00-ya5dfc0a~x2/)|
+|![Zimbabwe example sett](/setts/s11/k16w4k2w4k2r8y8ya8k1b24w6~b5190ed-k101010-rff0000-wffffff-yffff00-ya5dfc0a~x2/sett.png)|

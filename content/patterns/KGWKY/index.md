@@ -6,7 +6,7 @@ KGWKY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k130g54w4k8y10-g008000-k000000-we0e0e0-yf0c000/tartan.png)
+![Woven sample](/setts/s5/k65g27w2k4y5~g008000-k000000-we0e0e0-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGWKY
 
 | Tartans |
 |---------------|
-| [Perry, hunting (Green)](/setts/s5/k130g54w4k8y10-g008000-k000000-we0e0e0-yf0c000/)|
-|![Perry, hunting (Green) example sett](/setts/s5/k130g54w4k8y10-g008000-k000000-we0e0e0-yf0c000/sett.png)|
+| [Perry, hunting (Green)](/setts/s5/k65g27w2k4y5~g008000-k000000-we0e0e0-yf0c000~x2/)|
+|![Perry, hunting (Green) example sett](/setts/s5/k65g27w2k4y5~g008000-k000000-we0e0e0-yf0c000~x2/sett.png)|

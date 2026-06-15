@@ -6,7 +6,7 @@ KGBWW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w12wa40b40g40k8-b0000cd-g008b00-k000000-w82cffd-wae0e0e0/tartan.png)
+![Woven sample](/setts/s5/w3wa10b10g10k2~b0000cd-g008b00-k000000-w82cffd-wae0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGBWW
 
 | Tartans |
 |---------------|
-| [MacTeddy](/setts/s5/w12wa40b40g40k8-b0000cd-g008b00-k000000-w82cffd-wae0e0e0/)|
-|![MacTeddy example sett](/setts/s5/w12wa40b40g40k8-b0000cd-g008b00-k000000-w82cffd-wae0e0e0/sett.png)|
+| [MacTeddy](/setts/s5/w3wa10b10g10k2~b0000cd-g008b00-k000000-w82cffd-wae0e0e0~x4/)|
+|![MacTeddy example sett](/setts/s5/w3wa10b10g10k2~b0000cd-g008b00-k000000-w82cffd-wae0e0e0~x4/sett.png)|

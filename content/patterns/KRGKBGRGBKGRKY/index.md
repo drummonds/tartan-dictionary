@@ -16,5 +16,5 @@ KRGKBGRGBKGRKY
 
 | Tartans |
 |---------------|
-| [Orkney](/setts/s14/k6r26g38k6b38g6r18g6b38k6g38r26k6y6-b1870a4-g408060-k101010-r901c38-ybc8c00/)|
-|![Orkney example sett](/setts/s14/k6r26g38k6b38g6r18g6b38k6g38r26k6y6-b1870a4-g408060-k101010-r901c38-ybc8c00/sett.png)|
+| [Orkney](/setts/s14/k3r13g19k3b19g3r9g3b19k3g19r13k3y3~b1870a4-g408060-k101010-r901c38-ybc8c00~x2/)|
+|![Orkney example sett](/setts/s14/k3r13g19k3b19g3r9g3b19k3g19r13k3y3~b1870a4-g408060-k101010-r901c38-ybc8c00~x2/sett.png)|

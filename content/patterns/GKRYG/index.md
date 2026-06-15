@@ -6,7 +6,7 @@ GKRYG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g52k20r20y20g6-g808080-k000000-rc00000-yf0c000/tartan.png)
+![Woven sample](/setts/s5/g26k10r10y10g3~g808080-k000000-rc00000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKRYG
 
 | Tartans |
 |---------------|
-| [Ikelman No 2](/setts/s5/g52k20r20y20g6-g808080-k000000-rc00000-yf0c000/)|
-|![Ikelman No 2 example sett](/setts/s5/g52k20r20y20g6-g808080-k000000-rc00000-yf0c000/sett.png)|
-| [Ikelman No 3](/setts/s5/g50k20r20y20g50-g808080-k000000-rc00000-yf0c000/)|
-|![Ikelman No 3 example sett](/setts/s5/g50k20r20y20g50-g808080-k000000-rc00000-yf0c000/sett.png)|
+| [Ikelman No 2](/setts/s5/g26k10r10y10g3~g808080-k000000-rc00000-yf0c000~x2/)|
+|![Ikelman No 2 example sett](/setts/s5/g26k10r10y10g3~g808080-k000000-rc00000-yf0c000~x2/sett.png)|
+| [Ikelman No 3](/setts/s5/g5k2r2y2g5~g808080-k000000-rc00000-yf0c000~x10/)|
+|![Ikelman No 3 example sett](/setts/s5/g5k2r2y2g5~g808080-k000000-rc00000-yf0c000~x10/sett.png)|

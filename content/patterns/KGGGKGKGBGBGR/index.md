@@ -16,5 +16,5 @@ KGGGKGKGBGBGR
 
 | Tartans |
 |---------------|
-| [Bartlett, Chris (Personal)](/setts/s13/r8g80b24ga4b24g60k4g8k4g8ga4g6k6-b3f4441-g6c7058-ga75786c-k120a01-r89051b/)|
-|![Bartlett, Chris (Personal) example sett](/setts/s13/r8g80b24ga4b24g60k4g8k4g8ga4g6k6-b3f4441-g6c7058-ga75786c-k120a01-r89051b/sett.png)|
+| [Bartlett, Chris (Personal)](/setts/s13/r4g40b12ga2b12g30k2g4k2g4ga2g3k3~b3f4441-g6c7058-ga75786c-k120a01-r89051b~x2/)|
+|![Bartlett, Chris (Personal) example sett](/setts/s13/r4g40b12ga2b12g30k2g4k2g4ga2g3k3~b3f4441-g6c7058-ga75786c-k120a01-r89051b~x2/sett.png)|

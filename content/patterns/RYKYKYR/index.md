@@ -6,7 +6,7 @@ RYKYKYR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r16y12k22y12k22y60r6-k101010-ra80000-yc8bc9c/tartan.png)
+![Woven sample](/setts/s7/r8y6k11y6k11y30r3~k101010-ra80000-yc8bc9c~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYKYKYR
 
 | Tartans |
 |---------------|
-| [Blackberry (Fashion)](/setts/s7/r16y12k22y12k22y60r6-k101010-ra80000-yc8bc9c/)|
-|![Blackberry (Fashion) example sett](/setts/s7/r16y12k22y12k22y60r6-k101010-ra80000-yc8bc9c/sett.png)|
+| [Blackberry (Fashion)](/setts/s7/r8y6k11y6k11y30r3~k101010-ra80000-yc8bc9c~x2/)|
+|![Blackberry (Fashion) example sett](/setts/s7/r8y6k11y6k11y30r3~k101010-ra80000-yc8bc9c~x2/sett.png)|

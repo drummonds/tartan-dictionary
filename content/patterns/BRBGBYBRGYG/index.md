@@ -16,5 +16,5 @@ BRBGBYBRGYG
 
 | Tartans |
 |---------------|
-| [Mariverain](/setts/s11/b40r8b40g56b24y8b32r40g16y16g16-b303070-g006818-r880000-yd09800/)|
-|![Mariverain example sett](/setts/s11/b40r8b40g56b24y8b32r40g16y16g16-b303070-g006818-r880000-yd09800/sett.png)|
+| [Mariverain](/setts/s11/b5r1b5g7b3y1b4r5g2y2g2~b303070-g006818-r880000-yd09800~x8/)|
+|![Mariverain example sett](/setts/s11/b5r1b5g7b3y1b4r5g2y2g2~b303070-g006818-r880000-yd09800~x8/sett.png)|

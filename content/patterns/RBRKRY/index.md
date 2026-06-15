@@ -6,7 +6,7 @@ RBRKRY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4b28r2k28r28y4-b680028-k101010-r948860-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r2b14r1k14r14y2~b680028-k101010-r948860-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRKRY
 
 | Tartans |
 |---------------|
-| [United Distillers](/setts/s6/r4b28r2k28r28y4-b680028-k101010-r948860-ye8c000/)|
-|![United Distillers example sett](/setts/s6/r4b28r2k28r28y4-b680028-k101010-r948860-ye8c000/sett.png)|
+| [United Distillers](/setts/s6/r2b14r1k14r14y2~b680028-k101010-r948860-ye8c000~x2/)|
+|![United Distillers example sett](/setts/s6/r2b14r1k14r14y2~b680028-k101010-r948860-ye8c000~x2/sett.png)|

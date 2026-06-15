@@ -6,7 +6,7 @@ WYGYBY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w4y32g12y4b12y4-b2c4084-g005020-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/w1y8g3y1b3y1~b2c4084-g005020-we0e0e0-ye8c000~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WYGYBY
 
 | Tartans |
 |---------------|
-| [Fraser Yellow #2](/setts/s6/w4y32g12y4b12y4-b2c4084-g005020-we0e0e0-ye8c000/)|
-|![Fraser Yellow #2 example sett](/setts/s6/w4y32g12y4b12y4-b2c4084-g005020-we0e0e0-ye8c000/sett.png)|
-| [Fraser, Yellow](/setts/s6/w4y32g12y4b12y4-b304080-g008000-we0e0e0-yf0c000/)|
-|![Fraser, Yellow example sett](/setts/s6/w4y32g12y4b12y4-b304080-g008000-we0e0e0-yf0c000/sett.png)|
+| [Fraser Yellow #2](/setts/s6/w1y8g3y1b3y1~b2c4084-g005020-we0e0e0-ye8c000~x4/)|
+|![Fraser Yellow #2 example sett](/setts/s6/w1y8g3y1b3y1~b2c4084-g005020-we0e0e0-ye8c000~x4/sett.png)|
+| [Fraser, Yellow](/setts/s6/w1y8g3y1b3y1~b304080-g008000-we0e0e0-yf0c000~x4/)|
+|![Fraser, Yellow example sett](/setts/s6/w1y8g3y1b3y1~b304080-g008000-we0e0e0-yf0c000~x4/sett.png)|

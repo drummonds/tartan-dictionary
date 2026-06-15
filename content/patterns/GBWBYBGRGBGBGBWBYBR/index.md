@@ -16,5 +16,5 @@ GBWBYBGRGBGBGBWBYBR
 
 | Tartans |
 |---------------|
-| [Mowat, Sir Oliver](/setts/s19/g12b4w6b4y6b4g12r32g8b6g6b6g32b4w6b4y6b4r8-b3c2010-g004c00-r8c0000-wc8c8c8-yc89800/)|
-|![Mowat, Sir Oliver example sett](/setts/s19/g12b4w6b4y6b4g12r32g8b6g6b6g32b4w6b4y6b4r8-b3c2010-g004c00-r8c0000-wc8c8c8-yc89800/sett.png)|
+| [Mowat, Sir Oliver](/setts/s19/g6b2w3b2y3b2g6r16g4b3g3b3g16b2w3b2y3b2r4~b3c2010-g004c00-r8c0000-wc8c8c8-yc89800~x2/)|
+|![Mowat, Sir Oliver example sett](/setts/s19/g6b2w3b2y3b2g6r16g4b3g3b3g16b2w3b2y3b2r4~b3c2010-g004c00-r8c0000-wc8c8c8-yc89800~x2/sett.png)|

@@ -16,5 +16,5 @@ RBKBRBKBKBGBY
 
 | Tartans |
 |---------------|
-| [Bruma](/setts/s13/r4b2k2b20r2b20k26ba8k2ba22g18ba4y2-b4c3428-ba505050-g503c14-k1c1714-r880000-yb0b0b0/)|
-|![Bruma example sett](/setts/s13/r4b2k2b20r2b20k26ba8k2ba22g18ba4y2-b4c3428-ba505050-g503c14-k1c1714-r880000-yb0b0b0/sett.png)|
+| [Bruma](/setts/s13/r2b1k1b10r1b10k13ba4k1ba11g9ba2y1~b4c3428-ba505050-g503c14-k1c1714-r880000-yb0b0b0~x2/)|
+|![Bruma example sett](/setts/s13/r2b1k1b10r1b10k13ba4k1ba11g9ba2y1~b4c3428-ba505050-g503c14-k1c1714-r880000-yb0b0b0~x2/sett.png)|

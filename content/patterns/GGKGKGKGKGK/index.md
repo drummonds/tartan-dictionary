@@ -16,5 +16,5 @@ GGKGKGKGKGK
 
 | Tartans |
 |---------------|
-| [Phillips (Welsh Name)](/setts/s11/g2g35k30g3k30g2k4g2k30g20k2-g003820-k101010/)|
-|![Phillips (Welsh Name) example sett](/setts/s11/g2g35k30g3k30g2k4g2k30g20k2-g003820-k101010/sett.png)|
+| [Phillips (Welsh Name)](/setts/s11/g2g35k30g3k30g2k4g2k30g20k2~g003820-k101010/)|
+|![Phillips (Welsh Name) example sett](/setts/s11/g2g35k30g3k30g2k4g2k30g20k2~g003820-k101010/sett.png)|

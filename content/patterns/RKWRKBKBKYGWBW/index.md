@@ -16,5 +16,5 @@ RKWRKBKBKYGWBW
 
 | Tartans |
 |---------------|
-| [MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/w16b6w20g16y4k8b6k4b6k4r6w2k4r4-b2c2c80-g604000-k101010-rc80000-we0e0e0-ye8c000/)|
-|![MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/w16b6w20g16y4k8b6k4b6k4r6w2k4r4-b2c2c80-g604000-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/w8b3w10g8y2k4b3k2b3k2r3w1k2r2~b2c2c80-g604000-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/w8b3w10g8y2k4b3k2b3k2r3w1k2r2~b2c2c80-g604000-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

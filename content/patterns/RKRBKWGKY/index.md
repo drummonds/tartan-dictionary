@@ -16,5 +16,5 @@ RKRBKWGKY
 
 | Tartans |
 |---------------|
-| [Leung (Personal)](/setts/s9/r8k14r4b50k38w4g26k4y6-b2c2c80-g006818-k101010-rb468ac-wfcfcfc-ye8c000/)|
-|![Leung (Personal) example sett](/setts/s9/r8k14r4b50k38w4g26k4y6-b2c2c80-g006818-k101010-rb468ac-wfcfcfc-ye8c000/sett.png)|
+| [Leung (Personal)](/setts/s9/r4k7r2b25k19w2g13k2y3~b2c2c80-g006818-k101010-rb468ac-wfcfcfc-ye8c000~x2/)|
+|![Leung (Personal) example sett](/setts/s9/r4k7r2b25k19w2g13k2y3~b2c2c80-g006818-k101010-rb468ac-wfcfcfc-ye8c000~x2/sett.png)|

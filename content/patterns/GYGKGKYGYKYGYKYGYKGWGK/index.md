@@ -16,5 +16,5 @@ GYGKGKYGYKYGYKYGYKGWGK
 
 | Tartans |
 |---------------|
-| [Int. College of Dentists (Canada)](/setts/s22/g12y12g2k30g4k4ya4g4ya4k4ya4g4ya4k4ya4g4ya4k4g4w30g2k4-g006818-k101010-we0e0e0-ybc8c00-yaa08858/)|
-|![Int. College of Dentists (Canada) example sett](/setts/s22/g12y12g2k30g4k4ya4g4ya4k4ya4g4ya4k4ya4g4ya4k4g4w30g2k4-g006818-k101010-we0e0e0-ybc8c00-yaa08858/sett.png)|
+| [Int. College of Dentists (Canada)](/setts/s22/g6y6g1k15g2k2ya2g2ya2k2ya2g2ya2k2ya2g2ya2k2g2w15g1k2~g006818-k101010-we0e0e0-ybc8c00-yaa08858~x2/)|
+|![Int. College of Dentists (Canada) example sett](/setts/s22/g6y6g1k15g2k2ya2g2ya2k2ya2g2ya2k2ya2g2ya2k2g2w15g1k2~g006818-k101010-we0e0e0-ybc8c00-yaa08858~x2/sett.png)|

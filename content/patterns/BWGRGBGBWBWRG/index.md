@@ -16,5 +16,5 @@ BWGRGBGBWBWRG
 
 | Tartans |
 |---------------|
-| [Maine Dirigo](/setts/s13/b16w4g16r8g56b8g4b4w4b4w52r4g4-b2c2c80-g006818-rc80000-w98c8e8/)|
-|![Maine Dirigo example sett](/setts/s13/b16w4g16r8g56b8g4b4w4b4w52r4g4-b2c2c80-g006818-rc80000-w98c8e8/sett.png)|
+| [Maine Dirigo](/setts/s13/b4w1g4r2g14b2g1b1w1b1w13r1g1~b2c2c80-g006818-rc80000-w98c8e8~x4/)|
+|![Maine Dirigo example sett](/setts/s13/b4w1g4r2g14b2g1b1w1b1w13r1g1~b2c2c80-g006818-rc80000-w98c8e8~x4/sett.png)|

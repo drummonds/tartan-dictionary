@@ -16,5 +16,5 @@ BGBGBGKGKGBGB
 
 | Tartans |
 |---------------|
-| [Montmorency](/setts/s13/b42g4b6g4b4g28k30g8k30g28b28g4b6-b2c2c80-g006818-k101010/)|
-|![Montmorency example sett](/setts/s13/b42g4b6g4b4g28k30g8k30g28b28g4b6-b2c2c80-g006818-k101010/sett.png)|
+| [Montmorency](/setts/s13/b21g2b3g2b2g14k15g4k15g14b14g2b3~b2c2c80-g006818-k101010~x2/)|
+|![Montmorency example sett](/setts/s13/b21g2b3g2b2g14k15g4k15g14b14g2b3~b2c2c80-g006818-k101010~x2/sett.png)|

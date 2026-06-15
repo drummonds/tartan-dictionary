@@ -6,7 +6,7 @@ GGGWG
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g80w4ga10gb10ga30-g50a47c-ga5c6428-gb048888-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/g40w2ga5gb5ga15~g50a47c-ga5c6428-gb048888-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGWG
 
 | Tartans |
 |---------------|
-| [Castle Bay (Fashion)](/setts/s5/g80w4ga10gb10ga30-g50a47c-ga5c6428-gb048888-we0e0e0/)|
-|![Castle Bay (Fashion) example sett](/setts/s5/g80w4ga10gb10ga30-g50a47c-ga5c6428-gb048888-we0e0e0/sett.png)|
+| [Castle Bay (Fashion)](/setts/s5/g40w2ga5gb5ga15~g50a47c-ga5c6428-gb048888-we0e0e0~x2/)|
+|![Castle Bay (Fashion) example sett](/setts/s5/g40w2ga5gb5ga15~g50a47c-ga5c6428-gb048888-we0e0e0~x2/sett.png)|

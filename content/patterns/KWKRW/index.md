@@ -6,7 +6,7 @@ KWKRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k44w2k24r86w2-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s5/k22w1k12r43w1~k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKRW
 
 | Tartans |
 |---------------|
-| [Knights Templar Htg (Corporate)](/setts/s5/k44w2k24r86w2-k101010-rc80000-wf8f8f8/)|
-|![Knights Templar Htg (Corporate) example sett](/setts/s5/k44w2k24r86w2-k101010-rc80000-wf8f8f8/sett.png)|
+| [Knights Templar Htg (Corporate)](/setts/s5/k22w1k12r43w1~k101010-rc80000-wf8f8f8~x2/)|
+|![Knights Templar Htg (Corporate) example sett](/setts/s5/k22w1k12r43w1~k101010-rc80000-wf8f8f8~x2/sett.png)|

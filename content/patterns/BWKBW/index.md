@@ -6,7 +6,7 @@ BWKBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b4w28k30b28w4-b880088-k101010-wfcfcfc/tartan.png)
+![Woven sample](/setts/s5/b2w14k15b14w2~b880088-k101010-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKBW
 
 | Tartans |
 |---------------|
-| [Furman University](/setts/s5/b4w28k30b28w4-b880088-k101010-wfcfcfc/)|
-|![Furman University example sett](/setts/s5/b4w28k30b28w4-b880088-k101010-wfcfcfc/sett.png)|
+| [Furman University](/setts/s5/b2w14k15b14w2~b880088-k101010-wfcfcfc~x2/)|
+|![Furman University example sett](/setts/s5/b2w14k15b14w2~b880088-k101010-wfcfcfc~x2/sett.png)|

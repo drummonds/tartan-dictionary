@@ -16,5 +16,5 @@ GRGRGKGKGK
 
 | Tartans |
 |---------------|
-| [City of Armadale](/setts/s10/k42g4k4g4k6g30r58g4r4g8-g006818-k101010-rc80000/)|
-|![City of Armadale example sett](/setts/s10/k42g4k4g4k6g30r58g4r4g8-g006818-k101010-rc80000/sett.png)|
+| [City of Armadale](/setts/s10/k21g2k2g2k3g15r29g2r2g4~g006818-k101010-rc80000~x2/)|
+|![City of Armadale example sett](/setts/s10/k21g2k2g2k3g15r29g2r2g4~g006818-k101010-rc80000~x2/sett.png)|

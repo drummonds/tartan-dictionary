@@ -16,5 +16,5 @@ BYBGBGBGBY
 
 | Tartans |
 |---------------|
-| [Seletar Shipping (Corporate)](/setts/s10/b12y4b14g8b6g12b4g8b78ya4-b2c2c80-g006818-ya08858-yae8c000/)|
-|![Seletar Shipping (Corporate) example sett](/setts/s10/b12y4b14g8b6g12b4g8b78ya4-b2c2c80-g006818-ya08858-yae8c000/sett.png)|
+| [Seletar Shipping (Corporate)](/setts/s10/b6y2b7g4b3g6b2g4b39ya2~b2c2c80-g006818-ya08858-yae8c000~x2/)|
+|![Seletar Shipping (Corporate) example sett](/setts/s10/b6y2b7g4b3g6b2g4b39ya2~b2c2c80-g006818-ya08858-yae8c000~x2/sett.png)|

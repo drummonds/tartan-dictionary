@@ -16,5 +16,5 @@ GKYKGGYGGR
 
 | Tartans |
 |---------------|
-| [Grenauld](/setts/s10/g72k104y4k16g16ga16y4ga12g72r2-g003820-ga603800-k101010-r880000-yd09800/)|
-|![Grenauld example sett](/setts/s10/g72k104y4k16g16ga16y4ga12g72r2-g003820-ga603800-k101010-r880000-yd09800/sett.png)|
+| [Grenauld](/setts/s10/g36k52y2k8g8ga8y2ga6g36r1~g003820-ga603800-k101010-r880000-yd09800~x2/)|
+|![Grenauld example sett](/setts/s10/g36k52y2k8g8ga8y2ga6g36r1~g003820-ga603800-k101010-r880000-yd09800~x2/sett.png)|

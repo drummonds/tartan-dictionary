@@ -6,7 +6,7 @@ GKBBYG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g90y6b12ba30k24ga30-b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126/tartan.png)
+![Woven sample](/setts/s6/g15y1b2ba5k4ga5~b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKBBYG
 
 | Tartans |
 |---------------|
-| [Dobson (Palm Bay) (Personal)](/setts/s6/g90y6b12ba30k24ga30-b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126/)|
-|![Dobson (Palm Bay) (Personal) example sett](/setts/s6/g90y6b12ba30k24ga30-b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126/sett.png)|
+| [Dobson (Palm Bay) (Personal)](/setts/s6/g15y1b2ba5k4ga5~b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126~x6/)|
+|![Dobson (Palm Bay) (Personal) example sett](/setts/s6/g15y1b2ba5k4ga5~b441800-ba202060-g00643c-ga003820-k1c1714-ye0a126~x6/sett.png)|

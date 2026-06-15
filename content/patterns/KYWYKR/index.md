@@ -6,7 +6,7 @@ KYWYKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/tartan.png)
+![Woven sample](/setts/s6/k5y5w1y5k5r1~k101010-rc80000-wf8f8f8-ya08858~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYWYKR
 
 | Tartans |
 |---------------|
-| [Canyon County Idaho Sheriff](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/)|
-|![Canyon County Idaho Sheriff example sett](/setts/s6/k50y50w10y50k50r10-k101010-rc80000-wf8f8f8-ya08858/sett.png)|
+| [Canyon County Idaho Sheriff](/setts/s6/k5y5w1y5k5r1~k101010-rc80000-wf8f8f8-ya08858~x10/)|
+|![Canyon County Idaho Sheriff example sett](/setts/s6/k5y5w1y5k5r1~k101010-rc80000-wf8f8f8-ya08858~x10/sett.png)|

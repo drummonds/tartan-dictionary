@@ -16,5 +16,5 @@ GYGGGWGWGGR
 
 | Tartans |
 |---------------|
-| [Long Way Down, The (Corporate)](/setts/s11/r110g12ga6w6ga6w6ga20gb10ga10y4ga6-g606000-ga708048-gb707070-r888888-wc0c8cc-yb8b8b8/)|
-|![Long Way Down, The (Corporate) example sett](/setts/s11/r110g12ga6w6ga6w6ga20gb10ga10y4ga6-g606000-ga708048-gb707070-r888888-wc0c8cc-yb8b8b8/sett.png)|
+| [Long Way Down, The (Corporate)](/setts/s11/r55g6ga3w3ga3w3ga10gb5ga5y2ga3~g606000-ga708048-gb707070-r888888-wc0c8cc-yb8b8b8~x2/)|
+|![Long Way Down, The (Corporate) example sett](/setts/s11/r55g6ga3w3ga3w3ga10gb5ga5y2ga3~g606000-ga708048-gb707070-r888888-wc0c8cc-yb8b8b8~x2/sett.png)|

@@ -16,7 +16,7 @@ RWBRBRBRYRYRYWY
 
 | Tartans |
 |---------------|
-| [Winthrop University](/setts/s15/r4w4b12r4b4r4b2r40y2r4y4r4y12w4y4-b08005a-r8d0a25-wffffff-yf3c038/)|
-|![Winthrop University example sett](/setts/s15/r4w4b12r4b4r4b2r40y2r4y4r4y12w4y4-b08005a-r8d0a25-wffffff-yf3c038/sett.png)|
-| [Winthrop University (Corporate)](/setts/s15/r4w4b12r4b4r4b2r40y2r4y4r4y12w4y4-b202060-r880000-we8ccb8-ybc8c00/)|
-|![Winthrop University (Corporate) example sett](/setts/s15/r4w4b12r4b4r4b2r40y2r4y4r4y12w4y4-b202060-r880000-we8ccb8-ybc8c00/sett.png)|
+| [Winthrop University](/setts/s15/r2w2b6r2b2r2b1r20y1r2y2r2y6w2y2~b08005a-r8d0a25-wffffff-yf3c038~x2/)|
+|![Winthrop University example sett](/setts/s15/r2w2b6r2b2r2b1r20y1r2y2r2y6w2y2~b08005a-r8d0a25-wffffff-yf3c038~x2/sett.png)|
+| [Winthrop University (Corporate)](/setts/s15/r2w2b6r2b2r2b1r20y1r2y2r2y6w2y2~b202060-r880000-we8ccb8-ybc8c00~x2/)|
+|![Winthrop University (Corporate) example sett](/setts/s15/r2w2b6r2b2r2b1r20y1r2y2r2y6w2y2~b202060-r880000-we8ccb8-ybc8c00~x2/sett.png)|

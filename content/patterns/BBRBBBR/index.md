@@ -6,7 +6,7 @@ BBRBBBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b52ba30r14bb4bc14bd34r8-b440044-ba780078-bb2888c4-bc5c8ca8-bd003c64-rc80000/tartan.png)
+![Woven sample](/setts/s7/b26ba15r7bb2bc7bd17r4~b440044-ba780078-bb2888c4-bc5c8ca8-bd003c64-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBRBBBR
 
 | Tartans |
 |---------------|
-| [Redpath, Ronald (Personal)](/setts/s7/b52ba30r14bb4bc14bd34r8-b440044-ba780078-bb2888c4-bc5c8ca8-bd003c64-rc80000/)|
-|![Redpath, Ronald (Personal) example sett](/setts/s7/b52ba30r14bb4bc14bd34r8-b440044-ba780078-bb2888c4-bc5c8ca8-bd003c64-rc80000/sett.png)|
+| [Redpath, Ronald (Personal)](/setts/s7/b26ba15r7bb2bc7bd17r4~b440044-ba780078-bb2888c4-bc5c8ca8-bd003c64-rc80000~x2/)|
+|![Redpath, Ronald (Personal) example sett](/setts/s7/b26ba15r7bb2bc7bd17r4~b440044-ba780078-bb2888c4-bc5c8ca8-bd003c64-rc80000~x2/sett.png)|

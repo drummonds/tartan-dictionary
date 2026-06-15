@@ -6,7 +6,7 @@ RWYWBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r2w20y4w32b80w2-b1c1c50-rc80000-wfcfcec-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r1w10y2w16b40w1~b1c1c50-rc80000-wfcfcec-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWYWBW
 
 | Tartans |
 |---------------|
-| [Caithness Glass (Corporate)](/setts/s6/r2w20y4w32b80w2-b1c1c50-rc80000-wfcfcec-ye8c000/)|
-|![Caithness Glass (Corporate) example sett](/setts/s6/r2w20y4w32b80w2-b1c1c50-rc80000-wfcfcec-ye8c000/sett.png)|
+| [Caithness Glass (Corporate)](/setts/s6/r1w10y2w16b40w1~b1c1c50-rc80000-wfcfcec-ye8c000~x2/)|
+|![Caithness Glass (Corporate) example sett](/setts/s6/r1w10y2w16b40w1~b1c1c50-rc80000-wfcfcec-ye8c000~x2/sett.png)|

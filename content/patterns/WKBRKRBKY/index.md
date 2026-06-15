@@ -16,5 +16,5 @@ WKBRKRBKY
 
 | Tartans |
 |---------------|
-| [Highland Park](/setts/s9/w4k6b12r8k96r8b12k6y4-b1c0070-k101010-r880000-wc0c0c0-yd09800/)|
-|![Highland Park example sett](/setts/s9/w4k6b12r8k96r8b12k6y4-b1c0070-k101010-r880000-wc0c0c0-yd09800/sett.png)|
+| [Highland Park](/setts/s9/w2k3b6r4k48r4b6k3y2~b1c0070-k101010-r880000-wc0c0c0-yd09800~x2/)|
+|![Highland Park example sett](/setts/s9/w2k3b6r4k48r4b6k3y2~b1c0070-k101010-r880000-wc0c0c0-yd09800~x2/sett.png)|

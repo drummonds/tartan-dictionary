@@ -6,7 +6,7 @@ GKWRR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g24k8w4r12ra6-g604000-k101010-r888888-rac80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/g12k4w2r6ra3~g604000-k101010-r888888-rac80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKWRR
 
 | Tartans |
 |---------------|
-| [Strathblane (Fashion)](/setts/s5/g24k8w4r12ra6-g604000-k101010-r888888-rac80000-we0e0e0/)|
-|![Strathblane (Fashion) example sett](/setts/s5/g24k8w4r12ra6-g604000-k101010-r888888-rac80000-we0e0e0/sett.png)|
+| [Strathblane (Fashion)](/setts/s5/g12k4w2r6ra3~g604000-k101010-r888888-rac80000-we0e0e0~x2/)|
+|![Strathblane (Fashion) example sett](/setts/s5/g12k4w2r6ra3~g604000-k101010-r888888-rac80000-we0e0e0~x2/sett.png)|

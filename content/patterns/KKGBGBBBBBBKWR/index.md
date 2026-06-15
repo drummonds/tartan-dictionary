@@ -16,5 +16,5 @@ KKGBGBBBBBBKWR
 
 | Tartans |
 |---------------|
-| [Robert Lee Jordan Defiance (Personal)](/setts/s14/k6ka2g42b2g6b24ba6b6ba8b6ba48ka2w10r6-b780078-ba003c64-g285800-k000000-ka101010-rc80000-wf8f8f8/)|
-|![Robert Lee Jordan Defiance (Personal) example sett](/setts/s14/k6ka2g42b2g6b24ba6b6ba8b6ba48ka2w10r6-b780078-ba003c64-g285800-k000000-ka101010-rc80000-wf8f8f8/sett.png)|
+| [Robert Lee Jordan Defiance (Personal)](/setts/s14/k3ka1g21b1g3b12ba3b3ba4b3ba24ka1w5r3~b780078-ba003c64-g285800-k000000-ka101010-rc80000-wf8f8f8~x2/)|
+|![Robert Lee Jordan Defiance (Personal) example sett](/setts/s14/k3ka1g21b1g3b12ba3b3ba4b3ba24ka1w5r3~b780078-ba003c64-g285800-k000000-ka101010-rc80000-wf8f8f8~x2/sett.png)|

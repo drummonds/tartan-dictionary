@@ -16,5 +16,5 @@ RRRRRRRRRRRR
 
 | Tartans |
 |---------------|
-| [Ferguson Red, George (Architect)](/setts/s12/r8ra48rb6rc48rb3rc6rb6rc4rb8rc2rb22rd8-r82001c-ra680116-rb9f131e-rc860a14-rdda0011/)|
-|![Ferguson Red, George (Architect) example sett](/setts/s12/r8ra48rb6rc48rb3rc6rb6rc4rb8rc2rb22rd8-r82001c-ra680116-rb9f131e-rc860a14-rdda0011/sett.png)|
+| [Ferguson Red, George (Architect)](/setts/s12/r8ra48rb6rc48rb3rc6rb6rc4rb8rc2rb22rd8~r82001c-ra680116-rb9f131e-rc860a14-rdda0011/)|
+|![Ferguson Red, George (Architect) example sett](/setts/s12/r8ra48rb6rc48rb3rc6rb6rc4rb8rc2rb22rd8~r82001c-ra680116-rb9f131e-rc860a14-rdda0011/sett.png)|

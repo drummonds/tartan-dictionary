@@ -16,5 +16,5 @@ RKWBWYRKRYWBKRYW
 
 | Tartans |
 |---------------|
-| [MacGlashan (Clan?)](/setts/s16/r48k4w4b12w4y4r4k4r4y4w4ba12k4r6y6w4-b5c5c5c-ba2474e8-k101010-r880000-we0e0e0-yd09800/)|
-|![MacGlashan (Clan?) example sett](/setts/s16/r48k4w4b12w4y4r4k4r4y4w4ba12k4r6y6w4-b5c5c5c-ba2474e8-k101010-r880000-we0e0e0-yd09800/sett.png)|
+| [MacGlashan (Clan?)](/setts/s16/r24k2w2b6w2y2r2k2r2y2w2ba6k2r3y3w2~b5c5c5c-ba2474e8-k101010-r880000-we0e0e0-yd09800~x2/)|
+|![MacGlashan (Clan?) example sett](/setts/s16/r24k2w2b6w2y2r2k2r2y2w2ba6k2r3y3w2~b5c5c5c-ba2474e8-k101010-r880000-we0e0e0-yd09800~x2/sett.png)|

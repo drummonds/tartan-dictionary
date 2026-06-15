@@ -6,7 +6,7 @@ BWBRBBGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b68w10b10r10b10ba52g66ra12-b000050-ba401000-g008000-rc00000-ra806050-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b34w5b5r5b5ba26g33ra6~b000050-ba401000-g008000-rc00000-ra806050-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBRBBGR
 
 | Tartans |
 |---------------|
-| [Blairmore](/setts/s8/b68w10b10r10b10ba52g66ra12-b000050-ba401000-g008000-rc00000-ra806050-we0e0e0/)|
-|![Blairmore example sett](/setts/s8/b68w10b10r10b10ba52g66ra12-b000050-ba401000-g008000-rc00000-ra806050-we0e0e0/sett.png)|
+| [Blairmore](/setts/s8/b34w5b5r5b5ba26g33ra6~b000050-ba401000-g008000-rc00000-ra806050-we0e0e0~x2/)|
+|![Blairmore example sett](/setts/s8/b34w5b5r5b5ba26g33ra6~b000050-ba401000-g008000-rc00000-ra806050-we0e0e0~x2/sett.png)|

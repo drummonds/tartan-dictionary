@@ -16,5 +16,5 @@ WBWBGBGBGBKBWBW
 
 | Tartans |
 |---------------|
-| [Thistle Dubh](/setts/s15/w10b8w6b12g6b4g6b4g4b20k30b40wa6b6wa10-b5c5c5c-g408060-k101010-wc49cd8-wafcfcfc/)|
-|![Thistle Dubh example sett](/setts/s15/w10b8w6b12g6b4g6b4g4b20k30b40wa6b6wa10-b5c5c5c-g408060-k101010-wc49cd8-wafcfcfc/sett.png)|
+| [Thistle Dubh](/setts/s15/w5b4w3b6g3b2g3b2g2b10k15b20wa3b3wa5~b5c5c5c-g408060-k101010-wc49cd8-wafcfcfc~x2/)|
+|![Thistle Dubh example sett](/setts/s15/w5b4w3b6g3b2g3b2g2b10k15b20wa3b3wa5~b5c5c5c-g408060-k101010-wc49cd8-wafcfcfc~x2/sett.png)|

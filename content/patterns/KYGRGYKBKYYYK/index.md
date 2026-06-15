@@ -16,5 +16,5 @@ KYGRGYKBKYYYK
 
 | Tartans |
 |---------------|
-| [Liberton](/setts/s13/k10y10ya4y10k10b50k10y6g10r4g10y6k10-b003c64-g003820-k101010-rc80000-ya0a0a0-yae8c000/)|
-|![Liberton example sett](/setts/s13/k10y10ya4y10k10b50k10y6g10r4g10y6k10-b003c64-g003820-k101010-rc80000-ya0a0a0-yae8c000/sett.png)|
+| [Liberton](/setts/s13/k5y5ya2y5k5b25k5y3g5r2g5y3k5~b003c64-g003820-k101010-rc80000-ya0a0a0-yae8c000~x2/)|
+|![Liberton example sett](/setts/s13/k5y5ya2y5k5b25k5y3g5r2g5y3k5~b003c64-g003820-k101010-rc80000-ya0a0a0-yae8c000~x2/sett.png)|

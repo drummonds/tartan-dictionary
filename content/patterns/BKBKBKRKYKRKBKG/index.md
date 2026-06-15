@@ -16,5 +16,5 @@ BKBKBKRKYKRKBKG
 
 | Tartans |
 |---------------|
-| [Dryer (Personal)](/setts/s15/b36k4b4k4b4k28r32k4y12k4r32k28b32k4g12-b2c2c80-g006818-k101010-r880000-yd4cc98/)|
-|![Dryer (Personal) example sett](/setts/s15/b36k4b4k4b4k28r32k4y12k4r32k28b32k4g12-b2c2c80-g006818-k101010-r880000-yd4cc98/sett.png)|
+| [Dryer (Personal)](/setts/s15/b9k1b1k1b1k7r8k1y3k1r8k7b8k1g3~b2c2c80-g006818-k101010-r880000-yd4cc98~x4/)|
+|![Dryer (Personal) example sett](/setts/s15/b9k1b1k1b1k7r8k1y3k1r8k7b8k1g3~b2c2c80-g006818-k101010-r880000-yd4cc98~x4/sett.png)|

@@ -16,5 +16,5 @@ BRBRYRKRKRYRBRBW
 
 | Tartans |
 |---------------|
-| [Stenhousemuir Football Club](/setts/s16/b6r6b28r120y6r8k4r12k4r8y6r120b28r6b6w2-b2c2c80-k101010-r901c38-wfcfcfc-ye8c000/)|
-|![Stenhousemuir Football Club example sett](/setts/s16/b6r6b28r120y6r8k4r12k4r8y6r120b28r6b6w2-b2c2c80-k101010-r901c38-wfcfcfc-ye8c000/sett.png)|
+| [Stenhousemuir Football Club](/setts/s16/b3r3b14r60y3r4k2r6k2r4y3r60b14r3b3w1~b2c2c80-k101010-r901c38-wfcfcfc-ye8c000~x2/)|
+|![Stenhousemuir Football Club example sett](/setts/s16/b3r3b14r60y3r4k2r6k2r4y3r60b14r3b3w1~b2c2c80-k101010-r901c38-wfcfcfc-ye8c000~x2/sett.png)|

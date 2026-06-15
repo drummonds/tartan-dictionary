@@ -16,5 +16,5 @@ BKBKBKRGRKBKB
 
 | Tartans |
 |---------------|
-| [Riddoch (Name)](/setts/s13/b32k4b4k4b4k32r4g56r4k32b32k4b4-b688094-g689840-k101010-rc80000/)|
-|![Riddoch (Name) example sett](/setts/s13/b32k4b4k4b4k32r4g56r4k32b32k4b4-b688094-g689840-k101010-rc80000/sett.png)|
+| [Riddoch (Name)](/setts/s13/b8k1b1k1b1k8r1g14r1k8b8k1b1~b688094-g689840-k101010-rc80000~x4/)|
+|![Riddoch (Name) example sett](/setts/s13/b8k1b1k1b1k8r1g14r1k8b8k1b1~b688094-g689840-k101010-rc80000~x4/sett.png)|

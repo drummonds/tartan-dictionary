@@ -16,5 +16,5 @@ GYGYGRGRGYGYGY
 
 | Tartans |
 |---------------|
-| [St. Christopher](/setts/s14/g48y16g2ya4g6r6g10r6g6ya4g2y16g48ya4-g285800-rc80000-yc4bc68-yabc8c00/)|
-|![St. Christopher example sett](/setts/s14/g48y16g2ya4g6r6g10r6g6ya4g2y16g48ya4-g285800-rc80000-yc4bc68-yabc8c00/sett.png)|
+| [St. Christopher](/setts/s14/g24y8g1ya2g3r3g5r3g3ya2g1y8g24ya2~g285800-rc80000-yc4bc68-yabc8c00~x2/)|
+|![St. Christopher example sett](/setts/s14/g24y8g1ya2g3r3g5r3g3ya2g1y8g24ya2~g285800-rc80000-yc4bc68-yabc8c00~x2/sett.png)|

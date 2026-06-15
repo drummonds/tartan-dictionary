@@ -6,7 +6,7 @@ BGKGRG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g16r6g8k12g18b4-b64008c-g007800-k000000-r8c0000/tartan.png)
+![Woven sample](/setts/s6/g8r3g4k6g9b2~b64008c-g007800-k000000-r8c0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BGKGRG
 
 | Tartans |
 |---------------|
-| [Milton](/setts/s6/g16r6g8k12g18b4-b64008c-g007800-k000000-r8c0000/)|
-|![Milton example sett](/setts/s6/g16r6g8k12g18b4-b64008c-g007800-k000000-r8c0000/sett.png)|
-| [Milton (Name?)](/setts/s6/g32r12g16k24g36b8-b64008c-g007800-k000000-r8c0000/)|
-|![Milton (Name?) example sett](/setts/s6/g32r12g16k24g36b8-b64008c-g007800-k000000-r8c0000/sett.png)|
+| [Milton](/setts/s6/g8r3g4k6g9b2~b64008c-g007800-k000000-r8c0000~x2/)|
+|![Milton example sett](/setts/s6/g8r3g4k6g9b2~b64008c-g007800-k000000-r8c0000~x2/sett.png)|
+| [Milton (Name?)](/setts/s6/g8r3g4k6g9b2~b64008c-g007800-k000000-r8c0000~x4/)|
+|![Milton (Name?) example sett](/setts/s6/g8r3g4k6g9b2~b64008c-g007800-k000000-r8c0000~x4/sett.png)|

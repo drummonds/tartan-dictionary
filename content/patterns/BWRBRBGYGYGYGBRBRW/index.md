@@ -16,5 +16,5 @@ BWRBRBGYGYGYGBRBRW
 
 | Tartans |
 |---------------|
-| [Hobkirk](/setts/s18/b20w4r36b20ra16b20g80y4g4y4g4y4g80b20ra16b20r36w4-b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000/)|
-|![Hobkirk example sett](/setts/s18/b20w4r36b20ra16b20g80y4g4y4g4y4g80b20ra16b20r36w4-b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000/sett.png)|
+| [Hobkirk](/setts/s18/b5w1r9b5ra4b5g20y1g1y1g1y1g20b5ra4b5r9w1~b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000~x4/)|
+|![Hobkirk example sett](/setts/s18/b5w1r9b5ra4b5g20y1g1y1g1y1g20b5ra4b5r9w1~b1474b4-g408060-rb468ac-rac80000-wfcfcfc-ye8c000~x4/sett.png)|

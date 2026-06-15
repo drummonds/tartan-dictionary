@@ -16,5 +16,5 @@ WBWRWBRBKW
 
 | Tartans |
 |---------------|
-| [Spirit of Russia, The](/setts/s10/w8b4w2r4w32b32r32b24k2w8-b00008c-k101010-rdc0000-wffffff/)|
-|![Spirit of Russia, The example sett](/setts/s10/w8b4w2r4w32b32r32b24k2w8-b00008c-k101010-rdc0000-wffffff/sett.png)|
+| [Spirit of Russia, The](/setts/s10/w4b2w1r2w16b16r16b12k1w4~b00008c-k101010-rdc0000-wffffff~x2/)|
+|![Spirit of Russia, The example sett](/setts/s10/w4b2w1r2w16b16r16b12k1w4~b00008c-k101010-rdc0000-wffffff~x2/sett.png)|

@@ -16,5 +16,5 @@ KBRKBKRKGKBKRKW
 
 | Tartans |
 |---------------|
-| [Un-named (D C Dalgliesh)](/setts/s15/k6b8r10k4b10k4r10k4g50k6b22k4r10k2w6-b547894-g408060-k101010-rc80000-we0e0e0/)|
-|![Un-named (D C Dalgliesh) example sett](/setts/s15/k6b8r10k4b10k4r10k4g50k6b22k4r10k2w6-b547894-g408060-k101010-rc80000-we0e0e0/sett.png)|
+| [Un-named (D C Dalgliesh)](/setts/s15/k3b4r5k2b5k2r5k2g25k3b11k2r5k1w3~b547894-g408060-k101010-rc80000-we0e0e0~x2/)|
+|![Un-named (D C Dalgliesh) example sett](/setts/s15/k3b4r5k2b5k2r5k2g25k3b11k2r5k1w3~b547894-g408060-k101010-rc80000-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ WBGKGWY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y20w8g60k44g54b8wa4-b5c5c5c-g003820-k101010-wf8f8f8-wa98c8e8-yfc7c00/tartan.png)
+![Woven sample](/setts/s7/y10w4g30k22g27b4wa2~b5c5c5c-g003820-k101010-wf8f8f8-wa98c8e8-yfc7c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WBGKGWY
 
 | Tartans |
 |---------------|
-| [Aggreko Shepherd (Personal)](/setts/s7/y20w8g60k44g54b8wa4-b5c5c5c-g003820-k101010-wf8f8f8-wa98c8e8-yfc7c00/)|
-|![Aggreko Shepherd (Personal) example sett](/setts/s7/y20w8g60k44g54b8wa4-b5c5c5c-g003820-k101010-wf8f8f8-wa98c8e8-yfc7c00/sett.png)|
+| [Aggreko Shepherd (Personal)](/setts/s7/y10w4g30k22g27b4wa2~b5c5c5c-g003820-k101010-wf8f8f8-wa98c8e8-yfc7c00~x2/)|
+|![Aggreko Shepherd (Personal) example sett](/setts/s7/y10w4g30k22g27b4wa2~b5c5c5c-g003820-k101010-wf8f8f8-wa98c8e8-yfc7c00~x2/sett.png)|

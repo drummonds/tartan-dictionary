@@ -6,7 +6,7 @@ RKGRKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r8k4g56r76k2y8-g004c00-k000000-r780028-yc89800/tartan.png)
+![Woven sample](/setts/s6/r4k2g28r38k1y4~g004c00-k000000-r780028-yc89800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGRKY
 
 | Tartans |
 |---------------|
-| [Wcwm 9275 5471-1](/setts/s6/r8k4g56r76k2y8-g004c00-k000000-r780028-yc89800/)|
-|![Wcwm 9275 5471-1 example sett](/setts/s6/r8k4g56r76k2y8-g004c00-k000000-r780028-yc89800/sett.png)|
+| [Wcwm 9275 5471-1](/setts/s6/r4k2g28r38k1y4~g004c00-k000000-r780028-yc89800~x2/)|
+|![Wcwm 9275 5471-1 example sett](/setts/s6/r4k2g28r38k1y4~g004c00-k000000-r780028-yc89800~x2/sett.png)|

@@ -16,7 +16,7 @@ BKBKGYGKBKR
 
 | Tartans |
 |---------------|
-| [Scottish Economics Society 'Adam Smith'](/setts/s11/b8k4ba32k28g32y8g32k28ba32k4r8-b0000cd-ba000080-g008b00-k101010-rff0000-yffe600/)|
-|![Scottish Economics Society 'Adam Smith' example sett](/setts/s11/b8k4ba32k28g32y8g32k28ba32k4r8-b0000cd-ba000080-g008b00-k101010-rff0000-yffe600/sett.png)|
-| [Adam Smith (Corporate)](/setts/s11/b8k4ba32k28g32y8g32k28ba32k4r8-b1474b4-ba003c64-g006818-k101010-rc80000-ye8c000/)|
-|![Adam Smith (Corporate) example sett](/setts/s11/b8k4ba32k28g32y8g32k28ba32k4r8-b1474b4-ba003c64-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Scottish Economics Society 'Adam Smith'](/setts/s11/b2k1ba8k7g8y2g8k7ba8k1r2~b0000cd-ba000080-g008b00-k101010-rff0000-yffe600~x4/)|
+|![Scottish Economics Society 'Adam Smith' example sett](/setts/s11/b2k1ba8k7g8y2g8k7ba8k1r2~b0000cd-ba000080-g008b00-k101010-rff0000-yffe600~x4/sett.png)|
+| [Adam Smith (Corporate)](/setts/s11/b2k1ba8k7g8y2g8k7ba8k1r2~b1474b4-ba003c64-g006818-k101010-rc80000-ye8c000~x4/)|
+|![Adam Smith (Corporate) example sett](/setts/s11/b2k1ba8k7g8y2g8k7ba8k1r2~b1474b4-ba003c64-g006818-k101010-rc80000-ye8c000~x4/sett.png)|

@@ -6,7 +6,7 @@ KRWRGRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k8r16w4r40g48r8w8-g00881c-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/k2r4w1r10g12r2w2~g00881c-k101010-rc80000-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWRGRW
 
 | Tartans |
 |---------------|
-| [Starr (1978) (Name)](/setts/s7/k8r16w4r40g48r8w8-g00881c-k101010-rc80000-we0e0e0/)|
-|![Starr (1978) (Name) example sett](/setts/s7/k8r16w4r40g48r8w8-g00881c-k101010-rc80000-we0e0e0/sett.png)|
+| [Starr (1978) (Name)](/setts/s7/k2r4w1r10g12r2w2~g00881c-k101010-rc80000-we0e0e0~x4/)|
+|![Starr (1978) (Name) example sett](/setts/s7/k2r4w1r10g12r2w2~g00881c-k101010-rc80000-we0e0e0~x4/sett.png)|

@@ -16,5 +16,5 @@ WBGBRWRBGBRW
 
 | Tartans |
 |---------------|
-| [Yamaue (Corporate)](/setts/s12/w4r10b8g16b8r10w4r10b80g16b8w4-b283c94-g006818-rc80000-we0e0e0/)|
-|![Yamaue (Corporate) example sett](/setts/s12/w4r10b8g16b8r10w4r10b80g16b8w4-b283c94-g006818-rc80000-we0e0e0/sett.png)|
+| [Yamaue (Corporate)](/setts/s12/w2r5b4g8b4r5w2r5b40g8b4w2~b283c94-g006818-rc80000-we0e0e0~x2/)|
+|![Yamaue (Corporate) example sett](/setts/s12/w2r5b4g8b4r5w2r5b40g8b4w2~b283c94-g006818-rc80000-we0e0e0~x2/sett.png)|

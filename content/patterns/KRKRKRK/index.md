@@ -6,7 +6,7 @@ KRKRKRK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k8r4k24r24k4r4k4-k000000-r8c0000/tartan.png)
+![Woven sample](/setts/s7/k2r1k6r6k1r1k1~k000000-r8c0000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKRKRK
 
 | Tartans |
 |---------------|
-| [Campbell of Lochlane](/setts/s7/k8r4k24r24k4r4k4-k000000-r8c0000/)|
-|![Campbell of Lochlane example sett](/setts/s7/k8r4k24r24k4r4k4-k000000-r8c0000/sett.png)|
+| [Campbell of Lochlane](/setts/s7/k2r1k6r6k1r1k1~k000000-r8c0000~x4/)|
+|![Campbell of Lochlane example sett](/setts/s7/k2r1k6r6k1r1k1~k000000-r8c0000~x4/sett.png)|

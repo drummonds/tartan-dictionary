@@ -16,5 +16,5 @@ GRGKRYRKR
 
 | Tartans |
 |---------------|
-| [Durango](/setts/s9/r128k24ra4y4ra4k16g32r4g12-g004c00-k000000-rc87018-rab00000-yfc9898/)|
-|![Durango example sett](/setts/s9/r128k24ra4y4ra4k16g32r4g12-g004c00-k000000-rc87018-rab00000-yfc9898/sett.png)|
+| [Durango](/setts/s9/r32k6ra1y1ra1k4g8r1g3~g004c00-k000000-rc87018-rab00000-yfc9898~x4/)|
+|![Durango example sett](/setts/s9/r32k6ra1y1ra1k4g8r1g3~g004c00-k000000-rc87018-rab00000-yfc9898~x4/sett.png)|

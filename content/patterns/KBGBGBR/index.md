@@ -6,7 +6,7 @@ KBGBGBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k20b60g6b6g6b6r12-b0000cd-g00af33-k101010-rc82536/tartan.png)
+![Woven sample](/setts/s7/k10b30g3b3g3b3r6~b0000cd-g00af33-k101010-rc82536~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBGBGBR
 
 | Tartans |
 |---------------|
-| [Kinding](/setts/s7/k20b60g6b6g6b6r12-b0000cd-g00af33-k101010-rc82536/)|
-|![Kinding example sett](/setts/s7/k20b60g6b6g6b6r12-b0000cd-g00af33-k101010-rc82536/sett.png)|
-| [Kinding (Personal)](/setts/s7/k20b60g6b6g6b6r12-b5c8ca8-g249018-k101010-rc80000/)|
-|![Kinding (Personal) example sett](/setts/s7/k20b60g6b6g6b6r12-b5c8ca8-g249018-k101010-rc80000/sett.png)|
+| [Kinding](/setts/s7/k10b30g3b3g3b3r6~b0000cd-g00af33-k101010-rc82536~x2/)|
+|![Kinding example sett](/setts/s7/k10b30g3b3g3b3r6~b0000cd-g00af33-k101010-rc82536~x2/sett.png)|
+| [Kinding (Personal)](/setts/s7/k10b30g3b3g3b3r6~b5c8ca8-g249018-k101010-rc80000~x2/)|
+|![Kinding (Personal) example sett](/setts/s7/k10b30g3b3g3b3r6~b5c8ca8-g249018-k101010-rc80000~x2/sett.png)|

@@ -6,7 +6,7 @@ BBBKGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b36ba2b24k28g28r4-b003c64-ba780078-g006818-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s6/b18ba1b12k14g14r2~b003c64-ba780078-g006818-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBKGR
 
 | Tartans |
 |---------------|
-| [Mackison](/setts/s6/b36ba2b24k28g28r4-b003c64-ba780078-g006818-k101010-rc80000/)|
-|![Mackison example sett](/setts/s6/b36ba2b24k28g28r4-b003c64-ba780078-g006818-k101010-rc80000/sett.png)|
+| [Mackison](/setts/s6/b18ba1b12k14g14r2~b003c64-ba780078-g006818-k101010-rc80000~x2/)|
+|![Mackison example sett](/setts/s6/b18ba1b12k14g14r2~b003c64-ba780078-g006818-k101010-rc80000~x2/sett.png)|

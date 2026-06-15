@@ -16,5 +16,5 @@ BYBRBGBRBYBW
 
 | Tartans |
 |---------------|
-| [Hydesville Tower](/setts/s12/b30y4b4r4b12g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-ye8c000/)|
-|![Hydesville Tower example sett](/setts/s12/b30y4b4r4b12g60b12r4b4y4b30w4-b202060-g285800-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Hydesville Tower](/setts/s12/b15y2b2r2b6g30b6r2b2y2b15w2~b202060-g285800-rc80000-we0e0e0-ye8c000~x2/)|
+|![Hydesville Tower example sett](/setts/s12/b15y2b2r2b6g30b6r2b2y2b15w2~b202060-g285800-rc80000-we0e0e0-ye8c000~x2/sett.png)|

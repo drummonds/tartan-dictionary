@@ -16,5 +16,5 @@ WBKBBBKBKBKBW
 
 | Tartans |
 |---------------|
-| [Edgar (2014)](/setts/s13/w2b32k24ba4bb6ba4k24b4k4b4k4b14w2-b141e46-ba5c8ca8-bb440044-k101010-wffffff/)|
-|![Edgar (2014) example sett](/setts/s13/w2b32k24ba4bb6ba4k24b4k4b4k4b14w2-b141e46-ba5c8ca8-bb440044-k101010-wffffff/sett.png)|
+| [Edgar (2014)](/setts/s13/w1b16k12ba2bb3ba2k12b2k2b2k2b7w1~b141e46-ba5c8ca8-bb440044-k101010-wffffff~x2/)|
+|![Edgar (2014) example sett](/setts/s13/w1b16k12ba2bb3ba2k12b2k2b2k2b7w1~b141e46-ba5c8ca8-bb440044-k101010-wffffff~x2/sett.png)|

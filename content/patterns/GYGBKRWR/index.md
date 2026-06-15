@@ -6,7 +6,7 @@ GYGBKRWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8y4g40b4k16r32w4r8-b1c0070-g006818-k101010-ra00000-wa8ace8-yb8b8b8/tartan.png)
+![Woven sample](/setts/s8/g2y1g10b1k4r8w1r2~b1c0070-g006818-k101010-ra00000-wa8ace8-yb8b8b8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGBKRWR
 
 | Tartans |
 |---------------|
-| [Sawyer](/setts/s8/g8y4g40b4k16r32w4r8-b1c0070-g006818-k101010-ra00000-wa8ace8-yb8b8b8/)|
-|![Sawyer example sett](/setts/s8/g8y4g40b4k16r32w4r8-b1c0070-g006818-k101010-ra00000-wa8ace8-yb8b8b8/sett.png)|
+| [Sawyer](/setts/s8/g2y1g10b1k4r8w1r2~b1c0070-g006818-k101010-ra00000-wa8ace8-yb8b8b8~x4/)|
+|![Sawyer example sett](/setts/s8/g2y1g10b1k4r8w1r2~b1c0070-g006818-k101010-ra00000-wa8ace8-yb8b8b8~x4/sett.png)|

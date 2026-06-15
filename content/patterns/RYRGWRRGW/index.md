@@ -16,5 +16,5 @@ RYRGWRRGW
 
 | Tartans |
 |---------------|
-| [Manx Laxey (Red)](/setts/s9/r48y4ra6g4w20r8ra6g6w4-g604000-rc80000-ra888888-we0e0e0-ye8c000/)|
-|![Manx Laxey (Red) example sett](/setts/s9/r48y4ra6g4w20r8ra6g6w4-g604000-rc80000-ra888888-we0e0e0-ye8c000/sett.png)|
+| [Manx Laxey (Red)](/setts/s9/r24y2ra3g2w10r4ra3g3w2~g604000-rc80000-ra888888-we0e0e0-ye8c000~x2/)|
+|![Manx Laxey (Red) example sett](/setts/s9/r24y2ra3g2w10r4ra3g3w2~g604000-rc80000-ra888888-we0e0e0-ye8c000~x2/sett.png)|

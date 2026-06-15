@@ -6,7 +6,7 @@ BGBGGB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b12g4b40g16ga40b8-b708490-g003820-ga604000/tartan.png)
+![Woven sample](/setts/s6/b3g1b10g4ga10b2~b708490-g003820-ga604000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGGB
 
 | Tartans |
 |---------------|
-| [Rob Roy (Film) (Corporate)](/setts/s6/b12g4b40g16ga40b8-b708490-g003820-ga604000/)|
-|![Rob Roy (Film) (Corporate) example sett](/setts/s6/b12g4b40g16ga40b8-b708490-g003820-ga604000/sett.png)|
+| [Rob Roy (Film) (Corporate)](/setts/s6/b3g1b10g4ga10b2~b708490-g003820-ga604000~x4/)|
+|![Rob Roy (Film) (Corporate) example sett](/setts/s6/b3g1b10g4ga10b2~b708490-g003820-ga604000~x4/sett.png)|

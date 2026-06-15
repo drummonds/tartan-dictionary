@@ -16,5 +16,5 @@ BGBGRBRGRBR
 
 | Tartans |
 |---------------|
-| [Hueg (Munich) Hunting (Personal)](/setts/s11/r20b20r8g4r4b4r8g24ba24g6ba8-b311f11-ba433a5a-g23321b-rca2625/)|
-|![Hueg (Munich) Hunting (Personal) example sett](/setts/s11/r20b20r8g4r4b4r8g24ba24g6ba8-b311f11-ba433a5a-g23321b-rca2625/sett.png)|
+| [Hueg (Munich) Hunting (Personal)](/setts/s11/r10b10r4g2r2b2r4g12ba12g3ba4~b311f11-ba433a5a-g23321b-rca2625~x2/)|
+|![Hueg (Munich) Hunting (Personal) example sett](/setts/s11/r10b10r4g2r2b2r4g12ba12g3ba4~b311f11-ba433a5a-g23321b-rca2625~x2/sett.png)|

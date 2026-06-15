@@ -16,5 +16,5 @@ BBRBWBWRBRW
 
 | Tartans |
 |---------------|
-| [Mingulay (Fashion)](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/)|
-|![Mingulay (Fashion) example sett](/setts/s11/b180ba20r4bb4w4bb4w20r12bb4r8w4-b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0/sett.png)|
+| [Mingulay (Fashion)](/setts/s11/b45ba5r1bb1w1bb1w5r3bb1r2w1~b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0~x4/)|
+|![Mingulay (Fashion) example sett](/setts/s11/b45ba5r1bb1w1bb1w5r3bb1r2w1~b1c0070-ba5c5c5c-bb1c1c1c-r888888-wc0c0c0~x4/sett.png)|

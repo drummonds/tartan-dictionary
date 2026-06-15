@@ -16,5 +16,5 @@ KYGRKRYKY
 
 | Tartans |
 |---------------|
-| [Brooks Brothers Signature (Corporate](/setts/s9/k10y2g14r2k90r10y6k8y6-g003820-k00002c-r880000-ybc8c00/)|
-|![Brooks Brothers Signature (Corporate example sett](/setts/s9/k10y2g14r2k90r10y6k8y6-g003820-k00002c-r880000-ybc8c00/sett.png)|
+| [Brooks Brothers Signature (Corporate](/setts/s9/k5y1g7r1k45r5y3k4y3~g003820-k00002c-r880000-ybc8c00~x2/)|
+|![Brooks Brothers Signature (Corporate example sett](/setts/s9/k5y1g7r1k45r5y3k4y3~g003820-k00002c-r880000-ybc8c00~x2/sett.png)|

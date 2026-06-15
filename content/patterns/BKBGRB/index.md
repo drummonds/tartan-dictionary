@@ -6,7 +6,7 @@ BKBGRB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b6r52g8b26k26b4-b5480b0-g008000-k000000-r806050/tartan.png)
+![Woven sample](/setts/s6/b3r26g4b13k13b2~b5480b0-g008000-k000000-r806050~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BKBGRB
 
 | Tartans |
 |---------------|
-| [MacTavish / Thom(p)son, hunting](/setts/s6/b6r52g8b26k26b4-b5480b0-g008000-k000000-r806050/)|
-|![MacTavish / Thom(p)son, hunting example sett](/setts/s6/b6r52g8b26k26b4-b5480b0-g008000-k000000-r806050/sett.png)|
-| [MacTavish / Thom(p)son, hunting](/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/)|
-|![MacTavish / Thom(p)son, hunting example sett](/setts/s6/b8r56g12b24k24b6-b5480b0-g008000-k000000-r806050/sett.png)|
+| [MacTavish / Thom(p)son, hunting](/setts/s6/b3r26g4b13k13b2~b5480b0-g008000-k000000-r806050~x2/)|
+|![MacTavish / Thom(p)son, hunting example sett](/setts/s6/b3r26g4b13k13b2~b5480b0-g008000-k000000-r806050~x2/sett.png)|
+| [MacTavish / Thom(p)son, hunting](/setts/s6/b4r28g6b12k12b3~b5480b0-g008000-k000000-r806050~x2/)|
+|![MacTavish / Thom(p)son, hunting example sett](/setts/s6/b4r28g6b12k12b3~b5480b0-g008000-k000000-r806050~x2/sett.png)|

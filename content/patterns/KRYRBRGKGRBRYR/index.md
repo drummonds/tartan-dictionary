@@ -16,5 +16,5 @@ KRYRBRGKGRBRYR
 
 | Tartans |
 |---------------|
-| [Stewarton (Personal)](/setts/s14/r12y12ra12b12ra12g12k4g12ra12b12ra12y12r12k4-b1c0070-g006818-k101010-ra07c58-ra888888-ya0a0a0/)|
-|![Stewarton (Personal) example sett](/setts/s14/r12y12ra12b12ra12g12k4g12ra12b12ra12y12r12k4-b1c0070-g006818-k101010-ra07c58-ra888888-ya0a0a0/sett.png)|
+| [Stewarton (Personal)](/setts/s14/r3y3ra3b3ra3g3k1g3ra3b3ra3y3r3k1~b1c0070-g006818-k101010-ra07c58-ra888888-ya0a0a0~x4/)|
+|![Stewarton (Personal) example sett](/setts/s14/r3y3ra3b3ra3g3k1g3ra3b3ra3y3r3k1~b1c0070-g006818-k101010-ra07c58-ra888888-ya0a0a0~x4/sett.png)|

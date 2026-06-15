@@ -16,7 +16,7 @@ BKGKBRKRKRGYGY
 
 | Tartans |
 |---------------|
-| [Glynn of Glynstewart (Personal)](/setts/s14/b40k4g6k4b40r6k40r4k40r6g60y6g2y4-b33a1c9-g3d8b37-k101010-rff0000-yffe600/)|
-|![Glynn of Glynstewart (Personal) example sett](/setts/s14/b40k4g6k4b40r6k40r4k40r6g60y6g2y4-b33a1c9-g3d8b37-k101010-rff0000-yffe600/sett.png)|
-| [Glynn of Glynnstewart (Personal)](/setts/s14/b40k4g6k4b40r6k40r4k40r6g60y6g2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/)|
-|![Glynn of Glynnstewart (Personal) example sett](/setts/s14/b40k4g6k4b40r6k40r4k40r6g60y6g2y4-b2c2c80-g006818-k101010-rc80000-ye8c000/sett.png)|
+| [Glynn of Glynstewart (Personal)](/setts/s14/b20k2g3k2b20r3k20r2k20r3g30y3g1y2~b33a1c9-g3d8b37-k101010-rff0000-yffe600~x2/)|
+|![Glynn of Glynstewart (Personal) example sett](/setts/s14/b20k2g3k2b20r3k20r2k20r3g30y3g1y2~b33a1c9-g3d8b37-k101010-rff0000-yffe600~x2/sett.png)|
+| [Glynn of Glynnstewart (Personal)](/setts/s14/b20k2g3k2b20r3k20r2k20r3g30y3g1y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/)|
+|![Glynn of Glynnstewart (Personal) example sett](/setts/s14/b20k2g3k2b20r3k20r2k20r3g30y3g1y2~b2c2c80-g006818-k101010-rc80000-ye8c000~x2/sett.png)|

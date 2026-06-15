@@ -16,5 +16,5 @@ BGYGBGYGBR
 
 | Tartans |
 |---------------|
-| [Wheadon](/setts/s10/b30g14y6g14b80g14y6g14b30r10-b2c2c80-g006818-rc80000-ye8c000/)|
-|![Wheadon example sett](/setts/s10/b30g14y6g14b80g14y6g14b30r10-b2c2c80-g006818-rc80000-ye8c000/sett.png)|
+| [Wheadon](/setts/s10/b15g7y3g7b40g7y3g7b15r5~b2c2c80-g006818-rc80000-ye8c000~x2/)|
+|![Wheadon example sett](/setts/s10/b15g7y3g7b40g7y3g7b15r5~b2c2c80-g006818-rc80000-ye8c000~x2/sett.png)|

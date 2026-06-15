@@ -16,5 +16,5 @@ WKBKBBBBRBRWRW
 
 | Tartans |
 |---------------|
-| [Snowy Owl](/setts/s14/w80r2w12r6b2r14b6ba2b16ba6k2ba18k4w16-b544b4e-ba3c3233-k101010-r91827b-wffffff/)|
-|![Snowy Owl example sett](/setts/s14/w80r2w12r6b2r14b6ba2b16ba6k2ba18k4w16-b544b4e-ba3c3233-k101010-r91827b-wffffff/sett.png)|
+| [Snowy Owl](/setts/s14/w40r1w6r3b1r7b3ba1b8ba3k1ba9k2w8~b544b4e-ba3c3233-k101010-r91827b-wffffff~x2/)|
+|![Snowy Owl example sett](/setts/s14/w40r1w6r3b1r7b3ba1b8ba3k1ba9k2w8~b544b4e-ba3c3233-k101010-r91827b-wffffff~x2/sett.png)|

@@ -16,5 +16,5 @@ BKBKGKGKWKRKGK
 
 | Tartans |
 |---------------|
-| [Irish Diaspora](/setts/s14/b28k6b28k20g80k2ga6k2w6k2r6k2g80k20-b1870a4-g006818-ga289c18-k101010-rb84c00-we0e0e0/)|
-|![Irish Diaspora example sett](/setts/s14/b28k6b28k20g80k2ga6k2w6k2r6k2g80k20-b1870a4-g006818-ga289c18-k101010-rb84c00-we0e0e0/sett.png)|
+| [Irish Diaspora](/setts/s14/b14k3b14k10g40k1ga3k1w3k1r3k1g40k10~b1870a4-g006818-ga289c18-k101010-rb84c00-we0e0e0~x2/)|
+|![Irish Diaspora example sett](/setts/s14/b14k3b14k10g40k1ga3k1w3k1r3k1g40k10~b1870a4-g006818-ga289c18-k101010-rb84c00-we0e0e0~x2/sett.png)|

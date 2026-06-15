@@ -16,5 +16,5 @@ BKBKGRGRGKWKGRGRGKBK
 
 | Tartans |
 |---------------|
-| [Scottish Rugby Union](/setts/s20/b12k4b48k20g4r4g4r4g20k4w6k4g20r4g4r4g4k20b48k4-b2c2c80-g006818-k101010-r9c68a4-wc0c0c0/)|
-|![Scottish Rugby Union example sett](/setts/s20/b12k4b48k20g4r4g4r4g20k4w6k4g20r4g4r4g4k20b48k4-b2c2c80-g006818-k101010-r9c68a4-wc0c0c0/sett.png)|
+| [Scottish Rugby Union](/setts/s20/b6k2b24k10g2r2g2r2g10k2w3k2g10r2g2r2g2k10b24k2~b2c2c80-g006818-k101010-r9c68a4-wc0c0c0~x2/)|
+|![Scottish Rugby Union example sett](/setts/s20/b6k2b24k10g2r2g2r2g10k2w3k2g10r2g2r2g2k10b24k2~b2c2c80-g006818-k101010-r9c68a4-wc0c0c0~x2/sett.png)|

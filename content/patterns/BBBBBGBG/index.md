@@ -6,7 +6,7 @@ BBBBBGBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b18ba8b8ba8b48g38ba38g8-b6c2c23-ba241a19-g3f4129/tartan.png)
+![Woven sample](/setts/s8/b9ba4b4ba4b24g19ba19g4~b6c2c23-ba241a19-g3f4129~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBBBGBG
 
 | Tartans |
 |---------------|
-| [Chindecella Ruadh (Kemete Heil)](/setts/s8/b18ba8b8ba8b48g38ba38g8-b6c2c23-ba241a19-g3f4129/)|
-|![Chindecella Ruadh (Kemete Heil) example sett](/setts/s8/b18ba8b8ba8b48g38ba38g8-b6c2c23-ba241a19-g3f4129/sett.png)|
+| [Chindecella Ruadh (Kemete Heil)](/setts/s8/b9ba4b4ba4b24g19ba19g4~b6c2c23-ba241a19-g3f4129~x2/)|
+|![Chindecella Ruadh (Kemete Heil) example sett](/setts/s8/b9ba4b4ba4b24g19ba19g4~b6c2c23-ba241a19-g3f4129~x2/sett.png)|

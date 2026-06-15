@@ -6,7 +6,7 @@ WWRYGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/w10wa30r80y8g4ya4-g649848-re87878-wf9f5ef-wafcfcfc-ye0a126-yab8b8b8/tartan.png)
+![Woven sample](/setts/s6/w5wa15r40y4g2ya2~g649848-re87878-wf9f5ef-wafcfcfc-ye0a126-yab8b8b8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WWRYGY
 
 | Tartans |
 |---------------|
-| [Tomomi](/setts/s6/w10wa30r80y8g4ya4-g649848-re87878-wf9f5ef-wafcfcfc-ye0a126-yab8b8b8/)|
-|![Tomomi example sett](/setts/s6/w10wa30r80y8g4ya4-g649848-re87878-wf9f5ef-wafcfcfc-ye0a126-yab8b8b8/sett.png)|
+| [Tomomi](/setts/s6/w5wa15r40y4g2ya2~g649848-re87878-wf9f5ef-wafcfcfc-ye0a126-yab8b8b8~x2/)|
+|![Tomomi example sett](/setts/s6/w5wa15r40y4g2ya2~g649848-re87878-wf9f5ef-wafcfcfc-ye0a126-yab8b8b8~x2/sett.png)|

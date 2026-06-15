@@ -16,5 +16,5 @@ RGKBKBYBY
 
 | Tartans |
 |---------------|
-| [Bell of the Borders.](/setts/s9/r6g4k18b4k4b48y4b4y2-b8080d0-g008000-k000000-rc00000-yf0c000/)|
-|![Bell of the Borders. example sett](/setts/s9/r6g4k18b4k4b48y4b4y2-b8080d0-g008000-k000000-rc00000-yf0c000/sett.png)|
+| [Bell of the Borders.](/setts/s9/r3g2k9b2k2b24y2b2y1~b8080d0-g008000-k000000-rc00000-yf0c000~x2/)|
+|![Bell of the Borders. example sett](/setts/s9/r3g2k9b2k2b24y2b2y1~b8080d0-g008000-k000000-rc00000-yf0c000~x2/sett.png)|

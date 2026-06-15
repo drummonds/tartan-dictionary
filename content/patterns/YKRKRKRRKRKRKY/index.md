@@ -16,5 +16,5 @@ YKRKRKRRKRKRKY
 
 | Tartans |
 |---------------|
-| [German Heritage](/setts/s14/y4k2r8k4r4k63ra5r64k4r3k4r8k2y4-k101010-r880000-rac80000-ybc8c00/)|
-|![German Heritage example sett](/setts/s14/y4k2r8k4r4k63ra5r64k4r3k4r8k2y4-k101010-r880000-rac80000-ybc8c00/sett.png)|
+| [German Heritage](/setts/s14/y4k2r8k4r4k63ra5r64k4r3k4r8k2y4~k101010-r880000-rac80000-ybc8c00/)|
+|![German Heritage example sett](/setts/s14/y4k2r8k4r4k63ra5r64k4r3k4r8k2y4~k101010-r880000-rac80000-ybc8c00/sett.png)|

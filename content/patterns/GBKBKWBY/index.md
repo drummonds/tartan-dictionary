@@ -6,7 +6,7 @@ GBKBKWBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g2b2k2b60k60w4b10y2-b2c4084-g649848-k101010-wffffff-yffe600/tartan.png)
+![Woven sample](/setts/s8/g1b1k1b30k30w2b5y1~b2c4084-g649848-k101010-wffffff-yffe600~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBKBKWBY
 
 | Tartans |
 |---------------|
-| [Binder Wedding (Personal)](/setts/s8/g2b2k2b60k60w4b10y2-b2c4084-g649848-k101010-wffffff-yffe600/)|
-|![Binder Wedding (Personal) example sett](/setts/s8/g2b2k2b60k60w4b10y2-b2c4084-g649848-k101010-wffffff-yffe600/sett.png)|
-| [Binder Wedding (Personal)](/setts/s8/g2b2k2b60k60w4b10y2-b3850c8-g289c18-k101010-we0e0e0-ydc943c/)|
-|![Binder Wedding (Personal) example sett](/setts/s8/g2b2k2b60k60w4b10y2-b3850c8-g289c18-k101010-we0e0e0-ydc943c/sett.png)|
+| [Binder Wedding (Personal)](/setts/s8/g1b1k1b30k30w2b5y1~b2c4084-g649848-k101010-wffffff-yffe600~x2/)|
+|![Binder Wedding (Personal) example sett](/setts/s8/g1b1k1b30k30w2b5y1~b2c4084-g649848-k101010-wffffff-yffe600~x2/sett.png)|
+| [Binder Wedding (Personal)](/setts/s8/g1b1k1b30k30w2b5y1~b3850c8-g289c18-k101010-we0e0e0-ydc943c~x2/)|
+|![Binder Wedding (Personal) example sett](/setts/s8/g1b1k1b30k30w2b5y1~b3850c8-g289c18-k101010-we0e0e0-ydc943c~x2/sett.png)|

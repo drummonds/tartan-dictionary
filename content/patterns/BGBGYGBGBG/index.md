@@ -16,5 +16,5 @@ BGBGYGBGBG
 
 | Tartans |
 |---------------|
-| [Oman, Sultanate of / Oliver dress](/setts/s10/g18b6g12b6g40y4g40b6g12b6-b5c8ca8-g604000-ye8c000/)|
-|![Oman, Sultanate of / Oliver dress example sett](/setts/s10/g18b6g12b6g40y4g40b6g12b6-b5c8ca8-g604000-ye8c000/sett.png)|
+| [Oman, Sultanate of / Oliver dress](/setts/s10/g9b3g6b3g20y2g20b3g6b3~b5c8ca8-g604000-ye8c000~x2/)|
+|![Oman, Sultanate of / Oliver dress example sett](/setts/s10/g9b3g6b3g20y2g20b3g6b3~b5c8ca8-g604000-ye8c000~x2/sett.png)|

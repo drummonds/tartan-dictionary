@@ -6,7 +6,7 @@ BRWGWRWR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b26r16w10g48w10r20w10r20-b440044-g285800-r800028-we8ccb8/tartan.png)
+![Woven sample](/setts/s8/b13r8w5g24w5r10w5r10~b440044-g285800-r800028-we8ccb8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWGWRWR
 
 | Tartans |
 |---------------|
-| [Chaudhri (Name)](/setts/s8/b26r16w10g48w10r20w10r20-b440044-g285800-r800028-we8ccb8/)|
-|![Chaudhri (Name) example sett](/setts/s8/b26r16w10g48w10r20w10r20-b440044-g285800-r800028-we8ccb8/sett.png)|
+| [Chaudhri (Name)](/setts/s8/b13r8w5g24w5r10w5r10~b440044-g285800-r800028-we8ccb8~x2/)|
+|![Chaudhri (Name) example sett](/setts/s8/b13r8w5g24w5r10w5r10~b440044-g285800-r800028-we8ccb8~x2/sett.png)|

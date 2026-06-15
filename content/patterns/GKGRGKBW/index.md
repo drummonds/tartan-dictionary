@@ -6,7 +6,7 @@ GKGRGKBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g48k8g12r8g12k38b44w10-b14283c-g285800-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/g24k4g6r4g6k19b22w5~b14283c-g285800-k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ GKGRGKBW
 
 | Tartans |
 |---------------|
-| [MacRae Hunting](/setts/s8/g48k8g12r8g12k38b44w10-b14283c-g285800-k101010-rc80000-wf8f8f8/)|
-|![MacRae Hunting example sett](/setts/s8/g48k8g12r8g12k38b44w10-b14283c-g285800-k101010-rc80000-wf8f8f8/sett.png)|
-| [Dunfermline Bank of Scotland (Corp)](/setts/s8/g48k10g12r12g12k40b40w4-b1474b4-g285800-k101010-rc80000-wfcfcfc/)|
-|![Dunfermline Bank of Scotland (Corp) example sett](/setts/s8/g48k10g12r12g12k40b40w4-b1474b4-g285800-k101010-rc80000-wfcfcfc/sett.png)|
-| [MacRae, Ancient hunting](/setts/s8/g48k8g12r8g12k38b44w10-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![MacRae, Ancient hunting example sett](/setts/s8/g48k8g12r8g12k38b44w10-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacRae Hunting](/setts/s8/g24k4g6r4g6k19b22w5~b14283c-g285800-k101010-rc80000-wf8f8f8~x2/)|
+|![MacRae Hunting example sett](/setts/s8/g24k4g6r4g6k19b22w5~b14283c-g285800-k101010-rc80000-wf8f8f8~x2/sett.png)|
+| [Dunfermline Bank of Scotland (Corp)](/setts/s8/g24k5g6r6g6k20b20w2~b1474b4-g285800-k101010-rc80000-wfcfcfc~x2/)|
+|![Dunfermline Bank of Scotland (Corp) example sett](/setts/s8/g24k5g6r6g6k20b20w2~b1474b4-g285800-k101010-rc80000-wfcfcfc~x2/sett.png)|
+| [MacRae, Ancient hunting](/setts/s8/g24k4g6r4g6k19b22w5~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacRae, Ancient hunting example sett](/setts/s8/g24k4g6r4g6k19b22w5~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

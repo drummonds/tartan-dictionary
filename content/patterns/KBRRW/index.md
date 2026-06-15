@@ -6,7 +6,7 @@ KBRRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k100b12r12ra12w6-b2c2c80-k101010-rc80000-ra888888-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/k50b6r6ra6w3~b2c2c80-k101010-rc80000-ra888888-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBRRW
 
 | Tartans |
 |---------------|
-| [Friends of Nordegg (Corporate)](/setts/s5/k100b12r12ra12w6-b2c2c80-k101010-rc80000-ra888888-we0e0e0/)|
-|![Friends of Nordegg (Corporate) example sett](/setts/s5/k100b12r12ra12w6-b2c2c80-k101010-rc80000-ra888888-we0e0e0/sett.png)|
+| [Friends of Nordegg (Corporate)](/setts/s5/k50b6r6ra6w3~b2c2c80-k101010-rc80000-ra888888-we0e0e0~x2/)|
+|![Friends of Nordegg (Corporate) example sett](/setts/s5/k50b6r6ra6w3~b2c2c80-k101010-rc80000-ra888888-we0e0e0~x2/sett.png)|

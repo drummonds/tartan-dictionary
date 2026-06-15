@@ -6,7 +6,7 @@ GYGRY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/g100y24ga20r12y40-g289c18-ga005020-rdc0000-yd87c00/tartan.png)
+![Woven sample](/setts/s5/g25y6ga5r3y10~g289c18-ga005020-rdc0000-yd87c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGRY
 
 | Tartans |
 |---------------|
-| [Pendlebury, Andrew (Personal)](/setts/s5/g100y24ga20r12y40-g289c18-ga005020-rdc0000-yd87c00/)|
-|![Pendlebury, Andrew (Personal) example sett](/setts/s5/g100y24ga20r12y40-g289c18-ga005020-rdc0000-yd87c00/sett.png)|
+| [Pendlebury, Andrew (Personal)](/setts/s5/g25y6ga5r3y10~g289c18-ga005020-rdc0000-yd87c00~x4/)|
+|![Pendlebury, Andrew (Personal) example sett](/setts/s5/g25y6ga5r3y10~g289c18-ga005020-rdc0000-yd87c00~x4/sett.png)|

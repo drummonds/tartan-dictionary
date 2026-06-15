@@ -6,7 +6,7 @@ BBKWBWKB
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b60ba4k18w6b12w8k6ba12-b000080-ba2c4084-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s8/b30ba2k9w3b6w4k3ba6~b000080-ba2c4084-k101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBKWBWKB
 
 | Tartans |
 |---------------|
-| [Auto Docs](/setts/s8/b60ba4k18w6b12w8k6ba12-b000080-ba2c4084-k101010-wffffff/)|
-|![Auto Docs example sett](/setts/s8/b60ba4k18w6b12w8k6ba12-b000080-ba2c4084-k101010-wffffff/sett.png)|
+| [Auto Docs](/setts/s8/b30ba2k9w3b6w4k3ba6~b000080-ba2c4084-k101010-wffffff~x2/)|
+|![Auto Docs example sett](/setts/s8/b30ba2k9w3b6w4k3ba6~b000080-ba2c4084-k101010-wffffff~x2/sett.png)|

@@ -6,7 +6,7 @@ YKGKGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y10k10g34k12ga48k12y6-g008000-ga808080-k000000-yf0c000/tartan.png)
+![Woven sample](/setts/s7/y5k5g17k6ga24k6y3~g008000-ga808080-k000000-yf0c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YKGKGKY
 
 | Tartans |
 |---------------|
-| [Cape Breton](/setts/s7/y10k10g34k12ga48k12y6-g008000-ga808080-k000000-yf0c000/)|
-|![Cape Breton example sett](/setts/s7/y10k10g34k12ga48k12y6-g008000-ga808080-k000000-yf0c000/sett.png)|
+| [Cape Breton](/setts/s7/y5k5g17k6ga24k6y3~g008000-ga808080-k000000-yf0c000~x2/)|
+|![Cape Breton example sett](/setts/s7/y5k5g17k6ga24k6y3~g008000-ga808080-k000000-yf0c000~x2/sett.png)|

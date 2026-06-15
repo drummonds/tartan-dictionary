@@ -6,7 +6,7 @@ GBBKRKRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/tartan.png)
+![Woven sample](/setts/s8/g4b7ba33k9r2k9ra10rb4~b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBBKRKRR
 
 | Tartans |
 |---------------|
-| [Anne Arundel County](/setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/)|
-|![Anne Arundel County example sett](/setts/s8/g8b14ba66k18r4k18ra20rb8-b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000/sett.png)|
+| [Anne Arundel County](/setts/s8/g4b7ba33k9r2k9ra10rb4~b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000~x2/)|
+|![Anne Arundel County example sett](/setts/s8/g4b7ba33k9r2k9ra10rb4~b003c64-ba2c2c80-g006818-k101010-rb84c00-ra888888-rbc80000~x2/sett.png)|

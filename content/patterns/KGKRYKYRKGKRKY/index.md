@@ -16,5 +16,5 @@ KGKRYKYRKGKRKY
 
 | Tartans |
 |---------------|
-| [Unknown U.S. kilt](/setts/s14/k20g6k56r56y2k6y2r20k2g6k2r56k56y6-g808080-k101010-rc80000-ye8c000/)|
-|![Unknown U.S. kilt example sett](/setts/s14/k20g6k56r56y2k6y2r20k2g6k2r56k56y6-g808080-k101010-rc80000-ye8c000/sett.png)|
+| [Unknown U.S. kilt](/setts/s14/k10g3k28r28y1k3y1r10k1g3k1r28k28y3~g808080-k101010-rc80000-ye8c000~x2/)|
+|![Unknown U.S. kilt example sett](/setts/s14/k10g3k28r28y1k3y1r10k1g3k1r28k28y3~g808080-k101010-rc80000-ye8c000~x2/sett.png)|

@@ -16,5 +16,5 @@ GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR
 
 | Tartans |
 |---------------|
-| [Huntly](/setts/s64/g16r4g16r24g4r6g4r24w2r6y2b24r6b24y2r6w2r24b2r2b4r2b2r24b2r2b4r2b2r24g16r4g16r4g16r24b2r2b4r2b2r24b2r2b4r2b2r24w2r6y2b24r6b24y2r6w2r24g4r6g4r24g16r4-b440044-g003820-rc80000-wfcfcfc-yd8b000/)|
-|![Huntly example sett](/setts/s64/g16r4g16r24g4r6g4r24w2r6y2b24r6b24y2r6w2r24b2r2b4r2b2r24b2r2b4r2b2r24g16r4g16r4g16r24b2r2b4r2b2r24b2r2b4r2b2r24w2r6y2b24r6b24y2r6w2r24g4r6g4r24g16r4-b440044-g003820-rc80000-wfcfcfc-yd8b000/sett.png)|
+| [Huntly](/setts/s64/g8r2g8r12g2r3g2r12w1r3y1b12r3b12y1r3w1r12b1r1b2r1b1r12b1r1b2r1b1r12g8r2g8r2g8r12b1r1b2r1b1r12b1r1b2r1b1r12w1r3y1b12r3b12y1r3w1r12g2r3g2r12g8r2~b440044-g003820-rc80000-wfcfcfc-yd8b000~x2/)|
+|![Huntly example sett](/setts/s64/g8r2g8r12g2r3g2r12w1r3y1b12r3b12y1r3w1r12b1r1b2r1b1r12b1r1b2r1b1r12g8r2g8r2g8r12b1r1b2r1b1r12b1r1b2r1b1r12w1r3y1b12r3b12y1r3w1r12g2r3g2r12g8r2~b440044-g003820-rc80000-wfcfcfc-yd8b000~x2/sett.png)|

@@ -6,7 +6,7 @@ RBRWKBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12b4r44w4k20ba56y12-b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00/tartan.png)
+![Woven sample](/setts/s7/r3b1r11w1k5ba14y3~b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBRWKBY
 
 | Tartans |
 |---------------|
-| [Glen Lyon (Fashion)](/setts/s7/r12b4r44w4k20ba56y12-b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00/)|
-|![Glen Lyon (Fashion) example sett](/setts/s7/r12b4r44w4k20ba56y12-b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00/sett.png)|
+| [Glen Lyon (Fashion)](/setts/s7/r3b1r11w1k5ba14y3~b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00~x4/)|
+|![Glen Lyon (Fashion) example sett](/setts/s7/r3b1r11w1k5ba14y3~b1c1c50-ba206084-k101010-r888888-wfcfcfc-ybc8c00~x4/sett.png)|

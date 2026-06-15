@@ -6,7 +6,7 @@ KBKBKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k12b34k12b34k54w6-b0000cd-k101010-wffffff/tartan.png)
+![Woven sample](/setts/s6/k6b17k6b17k27w3~b0000cd-k101010-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBKBKW
 
 | Tartans |
 |---------------|
-| [Swan, Brian E](/setts/s6/k12b34k12b34k54w6-b0000cd-k101010-wffffff/)|
-|![Swan, Brian E example sett](/setts/s6/k12b34k12b34k54w6-b0000cd-k101010-wffffff/sett.png)|
-| [Swan (Name)](/setts/s6/k12b34k12b34k54w6-b2c2c80-k101010-we0e0e0/)|
-|![Swan (Name) example sett](/setts/s6/k12b34k12b34k54w6-b2c2c80-k101010-we0e0e0/sett.png)|
+| [Swan, Brian E](/setts/s6/k6b17k6b17k27w3~b0000cd-k101010-wffffff~x2/)|
+|![Swan, Brian E example sett](/setts/s6/k6b17k6b17k27w3~b0000cd-k101010-wffffff~x2/sett.png)|
+| [Swan (Name)](/setts/s6/k6b17k6b17k27w3~b2c2c80-k101010-we0e0e0~x2/)|
+|![Swan (Name) example sett](/setts/s6/k6b17k6b17k27w3~b2c2c80-k101010-we0e0e0~x2/sett.png)|

@@ -6,7 +6,7 @@ KRRR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k26r80ra26rb16-k101010-r901c38-rae86000-rb888888/tartan.png)
+![Woven sample](/setts/s4/k13r40ra13rb8~k101010-r901c38-rae86000-rb888888~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRRR
 
 | Tartans |
 |---------------|
-| [Maryville College](/setts/s4/k26r80ra26rb16-k101010-r901c38-rae86000-rb888888/)|
-|![Maryville College example sett](/setts/s4/k26r80ra26rb16-k101010-r901c38-rae86000-rb888888/sett.png)|
+| [Maryville College](/setts/s4/k13r40ra13rb8~k101010-r901c38-rae86000-rb888888~x2/)|
+|![Maryville College example sett](/setts/s4/k13r40ra13rb8~k101010-r901c38-rae86000-rb888888~x2/sett.png)|

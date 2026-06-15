@@ -16,7 +16,7 @@ KRKBYBYBW
 
 | Tartans |
 |---------------|
-| [Hill](/setts/s9/k8r4k56b62y2b4y2b4w6-b4169e1-k101010-rff0000-wffffff-yffd700/)|
-|![Hill example sett](/setts/s9/k8r4k56b62y2b4y2b4w6-b4169e1-k101010-rff0000-wffffff-yffd700/sett.png)|
-| [Hill (Name)](/setts/s9/w6b4y2b4y2b62k56r4k4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Hill (Name) example sett](/setts/s9/w6b4y2b4y2b62k56r4k4-b2c2c80-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Hill](/setts/s9/k4r2k28b31y1b2y1b2w3~b4169e1-k101010-rff0000-wffffff-yffd700~x2/)|
+|![Hill example sett](/setts/s9/k4r2k28b31y1b2y1b2w3~b4169e1-k101010-rff0000-wffffff-yffd700~x2/sett.png)|
+| [Hill (Name)](/setts/s9/w3b2y1b2y1b31k28r2k2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Hill (Name) example sett](/setts/s9/w3b2y1b2y1b31k28r2k2~b2c2c80-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

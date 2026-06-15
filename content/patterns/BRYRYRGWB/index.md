@@ -16,5 +16,5 @@ BRYRYRGWB
 
 | Tartans |
 |---------------|
-| [Red Dirt Girl](/setts/s9/b42r4y36r4y36r4g16w12b20-b441800-g003820-rb03000-wffffff-y86c67c/)|
-|![Red Dirt Girl example sett](/setts/s9/b42r4y36r4y36r4g16w12b20-b441800-g003820-rb03000-wffffff-y86c67c/sett.png)|
+| [Red Dirt Girl](/setts/s9/b21r2y18r2y18r2g8w6b10~b441800-g003820-rb03000-wffffff-y86c67c~x2/)|
+|![Red Dirt Girl example sett](/setts/s9/b21r2y18r2y18r2g8w6b10~b441800-g003820-rb03000-wffffff-y86c67c~x2/sett.png)|

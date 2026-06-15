@@ -16,5 +16,5 @@ BBYRYRRYBRBY
 
 | Tartans |
 |---------------|
-| [Watret](/setts/s12/b42ba42y4r4ya4ra42r42y42b4ra4ba4ya42-b2c4084-ba5a008c-rfa4b00-radc0000-ye8c000-ya82c880/)|
-|![Watret example sett](/setts/s12/b42ba42y4r4ya4ra42r42y42b4ra4ba4ya42-b2c4084-ba5a008c-rfa4b00-radc0000-ye8c000-ya82c880/sett.png)|
+| [Watret](/setts/s12/b21ba21y2r2ya2ra21r21y21b2ra2ba2ya21~b2c4084-ba5a008c-rfa4b00-radc0000-ye8c000-ya82c880~x2/)|
+|![Watret example sett](/setts/s12/b21ba21y2r2ya2ra21r21y21b2ra2ba2ya21~b2c4084-ba5a008c-rfa4b00-radc0000-ye8c000-ya82c880~x2/sett.png)|

@@ -16,5 +16,5 @@ GKGKBBBKGKGKGKGKGKBBBKGK
 
 | Tartans |
 |---------------|
-| [Lochinvar Marine Harvest (Corporate)](/setts/s24/g4k4g16k14b16ba4b16k14g4k4g4k4g20k4g4k4g4k14b16ba4b16k14g16k4-b1c0070-ba6c0070-g006818-k101010/)|
-|![Lochinvar Marine Harvest (Corporate) example sett](/setts/s24/g4k4g16k14b16ba4b16k14g4k4g4k4g20k4g4k4g4k14b16ba4b16k14g16k4-b1c0070-ba6c0070-g006818-k101010/sett.png)|
+| [Lochinvar Marine Harvest (Corporate)](/setts/s24/g2k2g8k7b8ba2b8k7g2k2g2k2g10k2g2k2g2k7b8ba2b8k7g8k2~b1c0070-ba6c0070-g006818-k101010~x2/)|
+|![Lochinvar Marine Harvest (Corporate) example sett](/setts/s24/g2k2g8k7b8ba2b8k7g2k2g2k2g10k2g2k2g2k7b8ba2b8k7g8k2~b1c0070-ba6c0070-g006818-k101010~x2/sett.png)|

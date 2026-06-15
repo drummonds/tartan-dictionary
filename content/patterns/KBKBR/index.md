@@ -6,7 +6,7 @@ KBKBR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k30b8k30b56r4-b2c4084-k101010-rdc0000/tartan.png)
+![Woven sample](/setts/s5/k15b4k15b28r2~b2c4084-k101010-rdc0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBKBR
 
 | Tartans |
 |---------------|
-| [MacKay (Blue) #2](/setts/s5/k30b8k30b56r4-b2c4084-k101010-rdc0000/)|
-|![MacKay (Blue) #2 example sett](/setts/s5/k30b8k30b56r4-b2c4084-k101010-rdc0000/sett.png)|
-| [MacKay, Blue](/setts/s5/k30b8k30b56r4-b304080-k000000-rc00000/)|
-|![MacKay, Blue example sett](/setts/s5/k30b8k30b56r4-b304080-k000000-rc00000/sett.png)|
+| [MacKay (Blue) #2](/setts/s5/k15b4k15b28r2~b2c4084-k101010-rdc0000~x2/)|
+|![MacKay (Blue) #2 example sett](/setts/s5/k15b4k15b28r2~b2c4084-k101010-rdc0000~x2/sett.png)|
+| [MacKay, Blue](/setts/s5/k15b4k15b28r2~b304080-k000000-rc00000~x2/)|
+|![MacKay, Blue example sett](/setts/s5/k15b4k15b28r2~b304080-k000000-rc00000~x2/sett.png)|

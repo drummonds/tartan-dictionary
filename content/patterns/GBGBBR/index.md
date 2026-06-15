@@ -6,7 +6,7 @@ GBGBBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g44b4g12ba4b36r4-b202060-ba2c2c80-g604000-rc80000/tartan.png)
+![Woven sample](/setts/s6/g11b1g3ba1b9r1~b202060-ba2c2c80-g604000-rc80000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGBBR
 
 | Tartans |
 |---------------|
-| [Dege of Saville Row](/setts/s6/g44b4g12ba4b36r4-b202060-ba2c2c80-g604000-rc80000/)|
-|![Dege of Saville Row example sett](/setts/s6/g44b4g12ba4b36r4-b202060-ba2c2c80-g604000-rc80000/sett.png)|
+| [Dege of Saville Row](/setts/s6/g11b1g3ba1b9r1~b202060-ba2c2c80-g604000-rc80000~x4/)|
+|![Dege of Saville Row example sett](/setts/s6/g11b1g3ba1b9r1~b202060-ba2c2c80-g604000-rc80000~x4/sett.png)|

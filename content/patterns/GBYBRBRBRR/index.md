@@ -16,5 +16,5 @@ GBYBRBRBRR
 
 | Tartans |
 |---------------|
-| [Yarns to Yearn For](/setts/s10/g6b4y4b56r6ba4r4b4r46ra6-b1474b4-ba9058d8-g649848-ra00048-rae87878-yffd700/)|
-|![Yarns to Yearn For example sett](/setts/s10/g6b4y4b56r6ba4r4b4r46ra6-b1474b4-ba9058d8-g649848-ra00048-rae87878-yffd700/sett.png)|
+| [Yarns to Yearn For](/setts/s10/g3b2y2b28r3ba2r2b2r23ra3~b1474b4-ba9058d8-g649848-ra00048-rae87878-yffd700~x2/)|
+|![Yarns to Yearn For example sett](/setts/s10/g3b2y2b28r3ba2r2b2r23ra3~b1474b4-ba9058d8-g649848-ra00048-rae87878-yffd700~x2/sett.png)|

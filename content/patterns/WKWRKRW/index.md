@@ -6,7 +6,7 @@ WKWRKRW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w16k8w16r80k32r16w8-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/w2k1w2r10k4r2w1~k101010-rc80000-we0e0e0~x8/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WKWRKRW
 
 | Tartans |
 |---------------|
-| [Russell, Ralph T. (Personal)](/setts/s7/w16k8w16r80k32r16w8-k101010-rc80000-we0e0e0/)|
-|![Russell, Ralph T. (Personal) example sett](/setts/s7/w16k8w16r80k32r16w8-k101010-rc80000-we0e0e0/sett.png)|
+| [Russell, Ralph T. (Personal)](/setts/s7/w2k1w2r10k4r2w1~k101010-rc80000-we0e0e0~x8/)|
+|![Russell, Ralph T. (Personal) example sett](/setts/s7/w2k1w2r10k4r2w1~k101010-rc80000-we0e0e0~x8/sett.png)|

@@ -6,7 +6,7 @@ GKGKGKWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g42k4g4k4g4k30w34k6-g808080-k000000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g21k2g2k2g2k15w17k3~g808080-k000000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKGKWK
 
 | Tartans |
 |---------------|
-| [Laksaa](/setts/s8/g42k4g4k4g4k30w34k6-g808080-k000000-we0e0e0/)|
-|![Laksaa example sett](/setts/s8/g42k4g4k4g4k30w34k6-g808080-k000000-we0e0e0/sett.png)|
+| [Laksaa](/setts/s8/g21k2g2k2g2k15w17k3~g808080-k000000-we0e0e0~x2/)|
+|![Laksaa example sett](/setts/s8/g21k2g2k2g2k15w17k3~g808080-k000000-we0e0e0~x2/sett.png)|

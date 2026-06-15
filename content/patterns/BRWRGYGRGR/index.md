@@ -16,5 +16,5 @@ BRWRGYGRGR
 
 | Tartans |
 |---------------|
-| [Connecticut, State of](/setts/s10/b80r8w4r20g32y4g8ra4g32r32-b1474b4-g006818-r888888-rac80000-wfcfcfc-ye8c000/)|
-|![Connecticut, State of example sett](/setts/s10/b80r8w4r20g32y4g8ra4g32r32-b1474b4-g006818-r888888-rac80000-wfcfcfc-ye8c000/sett.png)|
+| [Connecticut, State of](/setts/s10/b20r2w1r5g8y1g2ra1g8r8~b1474b4-g006818-r888888-rac80000-wfcfcfc-ye8c000~x4/)|
+|![Connecticut, State of example sett](/setts/s10/b20r2w1r5g8y1g2ra1g8r8~b1474b4-g006818-r888888-rac80000-wfcfcfc-ye8c000~x4/sett.png)|

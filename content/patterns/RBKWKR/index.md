@@ -6,7 +6,7 @@ RBKWKR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r12k4w20k16b44r4-b2c2c80-k101010-rc80000-wfcfcfc/tartan.png)
+![Woven sample](/setts/s6/r3k1w5k4b11r1~b2c2c80-k101010-rc80000-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBKWKR
 
 | Tartans |
 |---------------|
-| [Hydro-Electric (Corporate)](/setts/s6/r12k4w20k16b44r4-b2c2c80-k101010-rc80000-wfcfcfc/)|
-|![Hydro-Electric (Corporate) example sett](/setts/s6/r12k4w20k16b44r4-b2c2c80-k101010-rc80000-wfcfcfc/sett.png)|
+| [Hydro-Electric (Corporate)](/setts/s6/r3k1w5k4b11r1~b2c2c80-k101010-rc80000-wfcfcfc~x4/)|
+|![Hydro-Electric (Corporate) example sett](/setts/s6/r3k1w5k4b11r1~b2c2c80-k101010-rc80000-wfcfcfc~x4/sett.png)|

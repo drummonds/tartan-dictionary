@@ -16,7 +16,7 @@ BRWRWKGKWKGKBKR
 
 | Tartans |
 |---------------|
-| [MacLeods Highlanders](/setts/s15/b24r4w4r4w4k24g22k4w4k4g22k24b22k4r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![MacLeods Highlanders example sett](/setts/s15/b24r4w4r4w4k24g22k4w4k4g22k24b22k4r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
-| [MacLeod's Highlanders](/setts/s15/b24r4w4r4w4k24g22k4w4k4g22k24b22k4r4-b304080-g008000-k000000-rc00000-we0e0e0/)|
-|![MacLeod's Highlanders example sett](/setts/s15/b24r4w4r4w4k24g22k4w4k4g22k24b22k4r4-b304080-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacLeods Highlanders](/setts/s15/b12r2w2r2w2k12g11k2w2k2g11k12b11k2r2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![MacLeods Highlanders example sett](/setts/s15/b12r2w2r2w2k12g11k2w2k2g11k12b11k2r2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|
+| [MacLeod's Highlanders](/setts/s15/b12r2w2r2w2k12g11k2w2k2g11k12b11k2r2~b304080-g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacLeod's Highlanders example sett](/setts/s15/b12r2w2r2w2k12g11k2w2k2g11k12b11k2r2~b304080-g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

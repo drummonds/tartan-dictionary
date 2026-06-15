@@ -6,7 +6,7 @@ GBGKGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g2b10g2k10g12y2-b2c4084-g005020-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s6/g1b5g1k5g6y1~b2c4084-g005020-k101010-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GBGKGY
 
 | Tartans |
 |---------------|
-| [MacKay (Bonner)](/setts/s6/g2b10g2k10g12y2-b2c4084-g005020-k101010-ye8c000/)|
-|![MacKay (Bonner) example sett](/setts/s6/g2b10g2k10g12y2-b2c4084-g005020-k101010-ye8c000/sett.png)|
-| [MacKay](/setts/s6/g2b10g2k10g12y2-b304080-g008000-k000000-yf0c000/)|
-|![MacKay example sett](/setts/s6/g2b10g2k10g12y2-b304080-g008000-k000000-yf0c000/sett.png)|
+| [MacKay (Bonner)](/setts/s6/g1b5g1k5g6y1~b2c4084-g005020-k101010-ye8c000~x2/)|
+|![MacKay (Bonner) example sett](/setts/s6/g1b5g1k5g6y1~b2c4084-g005020-k101010-ye8c000~x2/sett.png)|
+| [MacKay](/setts/s6/g1b5g1k5g6y1~b304080-g008000-k000000-yf0c000~x2/)|
+|![MacKay example sett](/setts/s6/g1b5g1k5g6y1~b304080-g008000-k000000-yf0c000~x2/sett.png)|

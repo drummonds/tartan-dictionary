@@ -16,5 +16,5 @@ GWGWGWRWKWRW
 
 | Tartans |
 |---------------|
-| [Old England House Check](/setts/s12/w92r18w8k16w18ra8w18g4w4g4w4g2-g604000-k101010-r888888-rac80000-we0e0e0/)|
-|![Old England House Check example sett](/setts/s12/w92r18w8k16w18ra8w18g4w4g4w4g2-g604000-k101010-r888888-rac80000-we0e0e0/sett.png)|
+| [Old England House Check](/setts/s12/w46r9w4k8w9ra4w9g2w2g2w2g1~g604000-k101010-r888888-rac80000-we0e0e0~x2/)|
+|![Old England House Check example sett](/setts/s12/w46r9w4k8w9ra4w9g2w2g2w2g1~g604000-k101010-r888888-rac80000-we0e0e0~x2/sett.png)|

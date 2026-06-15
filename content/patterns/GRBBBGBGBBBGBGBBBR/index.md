@@ -16,5 +16,5 @@ GRBBBGBGBBBGBGBBBR
 
 | Tartans |
 |---------------|
-| [Buchanan Variation (Fashion)](/setts/s18/r28b4b12b4g16b12g16b4b16b4g16b4g16b4b16b4r28g4-b441800-g285800-rc80000/)|
-|![Buchanan Variation (Fashion) example sett](/setts/s18/r28b4b12b4g16b12g16b4b16b4g16b4g16b4b16b4r28g4-b441800-g285800-rc80000/sett.png)|
+| [Buchanan Variation (Fashion)](/setts/s18/r7b1b3b1g4b3g4b1b4b1g4b1g4b1b4b1r7g1~b441800-g285800-rc80000~x4/)|
+|![Buchanan Variation (Fashion) example sett](/setts/s18/r7b1b3b1g4b3g4b1b4b1g4b1g4b1b4b1r7g1~b441800-g285800-rc80000~x4/sett.png)|

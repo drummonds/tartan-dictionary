@@ -6,7 +6,7 @@ GYBWBBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r40b12ba4w32ba4y8g20-b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800/tartan.png)
+![Woven sample](/setts/s7/r10b3ba1w8ba1y2g5~b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYBWBBR
 
 | Tartans |
 |---------------|
-| [Porcupine City of](/setts/s7/r40b12ba4w32ba4y8g20-b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800/)|
-|![Porcupine City of example sett](/setts/s7/r40b12ba4w32ba4y8g20-b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800/sett.png)|
+| [Porcupine City of](/setts/s7/r10b3ba1w8ba1y2g5~b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800~x4/)|
+|![Porcupine City of example sett](/setts/s7/r10b3ba1w8ba1y2g5~b5c5c5c-ba1c0070-g006818-rb03000-wc0c0c0-yd09800~x4/sett.png)|

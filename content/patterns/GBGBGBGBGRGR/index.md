@@ -16,5 +16,5 @@ GBGBGBGBGRGR
 
 | Tartans |
 |---------------|
-| [Dublin, County](/setts/s12/g6b6g6b32g6b6g6ba10g36r4g16r6-b441800-ba480800-g005448-r880000/)|
-|![Dublin, County example sett](/setts/s12/g6b6g6b32g6b6g6ba10g36r4g16r6-b441800-ba480800-g005448-r880000/sett.png)|
+| [Dublin, County](/setts/s12/g3b3g3b16g3b3g3ba5g18r2g8r3~b441800-ba480800-g005448-r880000~x2/)|
+|![Dublin, County example sett](/setts/s12/g3b3g3b16g3b3g3ba5g18r2g8r3~b441800-ba480800-g005448-r880000~x2/sett.png)|

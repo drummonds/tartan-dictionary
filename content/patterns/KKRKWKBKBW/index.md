@@ -16,5 +16,5 @@ KKRKWKBKBW
 
 | Tartans |
 |---------------|
-| [Wcwm 1669-3](/setts/s10/k184k2r4k8w4k16b16k4b32w4-b646464-k000000-r8c0000-wc8c8c8/)|
-|![Wcwm 1669-3 example sett](/setts/s10/k184k2r4k8w4k16b16k4b32w4-b646464-k000000-r8c0000-wc8c8c8/sett.png)|
+| [Wcwm 1669-3](/setts/s10/k92k1r2k4w2k8b8k2b16w2~b646464-k000000-r8c0000-wc8c8c8~x2/)|
+|![Wcwm 1669-3 example sett](/setts/s10/k92k1r2k4w2k8b8k2b16w2~b646464-k000000-r8c0000-wc8c8c8~x2/sett.png)|

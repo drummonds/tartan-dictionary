@@ -6,7 +6,7 @@ RBKGRGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r20b12k16g20r12g6r12-b2c4084-g005020-k101010-rdc0000/tartan.png)
+![Woven sample](/setts/s7/r10b6k8g10r6g3r6~b2c4084-g005020-k101010-rdc0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RBKGRGR
 
 | Tartans |
 |---------------|
-| [MacDuff #3](/setts/s7/r20b12k16g20r12g6r12-b2c4084-g005020-k101010-rdc0000/)|
-|![MacDuff #3 example sett](/setts/s7/r20b12k16g20r12g6r12-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [MacDuff](/setts/s7/r20b12k16g20r12g6r12-b304080-g008000-k000000-rc00000/)|
-|![MacDuff example sett](/setts/s7/r20b12k16g20r12g6r12-b304080-g008000-k000000-rc00000/sett.png)|
+| [MacDuff #3](/setts/s7/r10b6k8g10r6g3r6~b2c4084-g005020-k101010-rdc0000~x2/)|
+|![MacDuff #3 example sett](/setts/s7/r10b6k8g10r6g3r6~b2c4084-g005020-k101010-rdc0000~x2/sett.png)|
+| [MacDuff](/setts/s7/r10b6k8g10r6g3r6~b304080-g008000-k000000-rc00000~x2/)|
+|![MacDuff example sett](/setts/s7/r10b6k8g10r6g3r6~b304080-g008000-k000000-rc00000~x2/sett.png)|

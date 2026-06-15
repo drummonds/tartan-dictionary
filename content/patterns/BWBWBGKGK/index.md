@@ -16,5 +16,5 @@ BWBWBGKGK
 
 | Tartans |
 |---------------|
-| [Historic Scotland](/setts/s9/b8w2b2w6b48g18k2g18k6-b000050-g808080-k000000-we0e0e0/)|
-|![Historic Scotland example sett](/setts/s9/b8w2b2w6b48g18k2g18k6-b000050-g808080-k000000-we0e0e0/sett.png)|
+| [Historic Scotland](/setts/s9/b4w1b1w3b24g9k1g9k3~b000050-g808080-k000000-we0e0e0~x2/)|
+|![Historic Scotland example sett](/setts/s9/b4w1b1w3b24g9k1g9k3~b000050-g808080-k000000-we0e0e0~x2/sett.png)|

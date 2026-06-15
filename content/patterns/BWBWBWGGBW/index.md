@@ -16,5 +16,5 @@ BWBWBWGGBW
 
 | Tartans |
 |---------------|
-| [Greenshields, Simon (Personal)](/setts/s10/b80w6b6w6b6w8g16ga16ba16wa4-b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0/)|
-|![Greenshields, Simon (Personal) example sett](/setts/s10/b80w6b6w6b6w8g16ga16ba16wa4-b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0/sett.png)|
+| [Greenshields, Simon (Personal)](/setts/s10/b40w3b3w3b3w4g8ga8ba8wa2~b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0~x2/)|
+|![Greenshields, Simon (Personal) example sett](/setts/s10/b40w3b3w3b3w4g8ga8ba8wa2~b003c64-ba5c5c5c-g003820-ga006818-wa8ace8-wae0e0e0~x2/sett.png)|

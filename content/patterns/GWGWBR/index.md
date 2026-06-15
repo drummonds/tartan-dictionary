@@ -6,7 +6,7 @@ GWGWBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g88w36g12w22b2r8-b003c64-g005c30-re86000-wf8f0e4/tartan.png)
+![Woven sample](/setts/s6/g44w18g6w11b1r4~b003c64-g005c30-re86000-wf8f0e4~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GWGWBR
 
 | Tartans |
 |---------------|
-| [Westfalia (Corporate)](/setts/s6/g88w36g12w22b2r8-b003c64-g005c30-re86000-wf8f0e4/)|
-|![Westfalia (Corporate) example sett](/setts/s6/g88w36g12w22b2r8-b003c64-g005c30-re86000-wf8f0e4/sett.png)|
+| [Westfalia (Corporate)](/setts/s6/g44w18g6w11b1r4~b003c64-g005c30-re86000-wf8f0e4~x2/)|
+|![Westfalia (Corporate) example sett](/setts/s6/g44w18g6w11b1r4~b003c64-g005c30-re86000-wf8f0e4~x2/sett.png)|

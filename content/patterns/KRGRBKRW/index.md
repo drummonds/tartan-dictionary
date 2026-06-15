@@ -6,7 +6,7 @@ KRGRBKRW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k6r68g20r10b4k16ra4w6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/k3r34g10r5b2k8ra2w3~b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRGRBKRW
 
 | Tartans |
 |---------------|
-| [Lambert (Front Royal) Greer](/setts/s8/k6r68g20r10b4k16ra4w6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/)|
-|![Lambert (Front Royal) Greer example sett](/setts/s8/k6r68g20r10b4k16ra4w6-b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0/sett.png)|
+| [Lambert (Front Royal) Greer](/setts/s8/k3r34g10r5b2k8ra2w3~b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0~x2/)|
+|![Lambert (Front Royal) Greer example sett](/setts/s8/k3r34g10r5b2k8ra2w3~b5f749c-g23321b-k1c1714-rb62531-raa58065-we0e0e0~x2/sett.png)|

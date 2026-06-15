@@ -16,5 +16,5 @@ GRGYBKWYRGBK
 
 | Tartans |
 |---------------|
-| [Lethbridge, City of](/setts/s12/g40r2g20y4b6k2w4y20ra2g20b4k2-b5c8ca8-g006818-k101010-re87878-rac8002c-we0e0e0-ye8c000/)|
-|![Lethbridge, City of example sett](/setts/s12/g40r2g20y4b6k2w4y20ra2g20b4k2-b5c8ca8-g006818-k101010-re87878-rac8002c-we0e0e0-ye8c000/sett.png)|
+| [Lethbridge, City of](/setts/s12/g20r1g10y2b3k1w2y10ra1g10b2k1~b5c8ca8-g006818-k101010-re87878-rac8002c-we0e0e0-ye8c000~x2/)|
+|![Lethbridge, City of example sett](/setts/s12/g20r1g10y2b3k1w2y10ra1g10b2k1~b5c8ca8-g006818-k101010-re87878-rac8002c-we0e0e0-ye8c000~x2/sett.png)|

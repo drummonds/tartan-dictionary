@@ -16,7 +16,7 @@ RKWKBKYKBKY
 
 | Tartans |
 |---------------|
-| [Williams Dress (Carolinas) (Personal)](/setts/s11/r10k2w6k12b10k4y6k90b8k4y6-b778899-k101010-rff0000-wffffff-yffe600/)|
-|![Williams Dress (Carolinas) (Personal) example sett](/setts/s11/r10k2w6k12b10k4y6k90b8k4y6-b778899-k101010-rff0000-wffffff-yffe600/sett.png)|
-| [Williams Dress (Personal)](/setts/s11/r10k2w6k12b10k4y6k90b8k4y6-b5c5c5c-k101010-rc80000-wfcfcfc-yfccc00/)|
-|![Williams Dress (Personal) example sett](/setts/s11/r10k2w6k12b10k4y6k90b8k4y6-b5c5c5c-k101010-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Williams Dress (Carolinas) (Personal)](/setts/s11/r5k1w3k6b5k2y3k45b4k2y3~b778899-k101010-rff0000-wffffff-yffe600~x2/)|
+|![Williams Dress (Carolinas) (Personal) example sett](/setts/s11/r5k1w3k6b5k2y3k45b4k2y3~b778899-k101010-rff0000-wffffff-yffe600~x2/sett.png)|
+| [Williams Dress (Personal)](/setts/s11/r5k1w3k6b5k2y3k45b4k2y3~b5c5c5c-k101010-rc80000-wfcfcfc-yfccc00~x2/)|
+|![Williams Dress (Personal) example sett](/setts/s11/r5k1w3k6b5k2y3k45b4k2y3~b5c5c5c-k101010-rc80000-wfcfcfc-yfccc00~x2/sett.png)|

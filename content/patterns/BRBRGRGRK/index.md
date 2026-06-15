@@ -16,5 +16,5 @@ BRBRGRGRK
 
 | Tartans |
 |---------------|
-| [Gates](/setts/s9/b48r6b8r12g16r6g16r60k6-b2c2c80-g006818-k101010-rc80000/)|
-|![Gates example sett](/setts/s9/b48r6b8r12g16r6g16r60k6-b2c2c80-g006818-k101010-rc80000/sett.png)|
+| [Gates](/setts/s9/b24r3b4r6g8r3g8r30k3~b2c2c80-g006818-k101010-rc80000~x2/)|
+|![Gates example sett](/setts/s9/b24r3b4r6g8r3g8r30k3~b2c2c80-g006818-k101010-rc80000~x2/sett.png)|

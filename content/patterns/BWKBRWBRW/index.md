@@ -16,5 +16,5 @@ BWKBRWBRW
 
 | Tartans |
 |---------------|
-| [Midnight Balmoral (Personal)](/setts/s9/b8w2k72ba4r8w2ba28r16w2-b778899-ba000080-k101010-re3170d-wffffff/)|
-|![Midnight Balmoral (Personal) example sett](/setts/s9/b8w2k72ba4r8w2ba28r16w2-b778899-ba000080-k101010-re3170d-wffffff/sett.png)|
+| [Midnight Balmoral (Personal)](/setts/s9/b4w1k36ba2r4w1ba14r8w1~b778899-ba000080-k101010-re3170d-wffffff~x2/)|
+|![Midnight Balmoral (Personal) example sett](/setts/s9/b4w1k36ba2r4w1ba14r8w1~b778899-ba000080-k101010-re3170d-wffffff~x2/sett.png)|

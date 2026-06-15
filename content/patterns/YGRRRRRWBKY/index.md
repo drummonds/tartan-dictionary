@@ -16,5 +16,5 @@ YGRRRRRWBKY
 
 | Tartans |
 |---------------|
-| [Heston (Name)](/setts/s11/y4g16r24ra6r18ra6r24w18b96k16y4-b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800/)|
-|![Heston (Name) example sett](/setts/s11/y4g16r24ra6r18ra6r24w18b96k16y4-b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800/sett.png)|
+| [Heston (Name)](/setts/s11/y2g8r12ra3r9ra3r12w9b48k8y2~b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800~x2/)|
+|![Heston (Name) example sett](/setts/s11/y2g8r12ra3r9ra3r12w9b48k8y2~b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800~x2/sett.png)|

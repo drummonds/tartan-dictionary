@@ -6,7 +6,7 @@ GKKG
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g6k60k60g6-g006840-k000000/tartan.png)
+![Woven sample](/setts/s4/g1k10k10g1~g006840-k000000~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKKG
 
 | Tartans |
 |---------------|
-| [Stirling of Keir](/setts/s4/g6k60k60g6-g006840-k000000/)|
-|![Stirling of Keir example sett](/setts/s4/g6k60k60g6-g006840-k000000/sett.png)|
+| [Stirling of Keir](/setts/s4/g1k10k10g1~g006840-k000000~x6/)|
+|![Stirling of Keir example sett](/setts/s4/g1k10k10g1~g006840-k000000~x6/sett.png)|

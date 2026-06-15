@@ -6,7 +6,7 @@ RRBKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w28k60b18r16ra18-b0596fa-k101010-r960000-rae86000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/w14k30b9r8ra9~b0596fa-k101010-r960000-rae86000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRBKW
 
 | Tartans |
 |---------------|
-| [Heidrick Family (Personal)](/setts/s5/w28k60b18r16ra18-b0596fa-k101010-r960000-rae86000-we0e0e0/)|
-|![Heidrick Family (Personal) example sett](/setts/s5/w28k60b18r16ra18-b0596fa-k101010-r960000-rae86000-we0e0e0/sett.png)|
+| [Heidrick Family (Personal)](/setts/s5/w14k30b9r8ra9~b0596fa-k101010-r960000-rae86000-we0e0e0~x2/)|
+|![Heidrick Family (Personal) example sett](/setts/s5/w14k30b9r8ra9~b0596fa-k101010-r960000-rae86000-we0e0e0~x2/sett.png)|

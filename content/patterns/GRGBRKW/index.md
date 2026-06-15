@@ -6,7 +6,7 @@ GRGBRKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g6r20ga14b20r30k2w4-b304080-g908000-ga008000-k000000-rc00020-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/g3r10ga7b10r15k1w2~b304080-g908000-ga008000-k000000-rc00020-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGBRKW
 
 | Tartans |
 |---------------|
-| [East Kilbride](/setts/s7/g6r20ga14b20r30k2w4-b304080-g908000-ga008000-k000000-rc00020-we0e0e0/)|
-|![East Kilbride example sett](/setts/s7/g6r20ga14b20r30k2w4-b304080-g908000-ga008000-k000000-rc00020-we0e0e0/sett.png)|
+| [East Kilbride](/setts/s7/g3r10ga7b10r15k1w2~b304080-g908000-ga008000-k000000-rc00020-we0e0e0~x2/)|
+|![East Kilbride example sett](/setts/s7/g3r10ga7b10r15k1w2~b304080-g908000-ga008000-k000000-rc00020-we0e0e0~x2/sett.png)|

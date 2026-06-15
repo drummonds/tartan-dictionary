@@ -6,7 +6,7 @@ BWGKGK
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b8w46g4k46g46k8-b1474b4-g006818-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/b4w23g2k23g23k4~b1474b4-g006818-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWGKGK
 
 | Tartans |
 |---------------|
-| [MacKay Dress](/setts/s6/b8w46g4k46g46k8-b1474b4-g006818-k101010-we0e0e0/)|
-|![MacKay Dress example sett](/setts/s6/b8w46g4k46g46k8-b1474b4-g006818-k101010-we0e0e0/sett.png)|
-| [MacKay, Dress (Corporate)](/setts/s6/k8g28k28g4w28b6-b1474b4-g006818-k101010-we0e0e0/)|
-|![MacKay, Dress (Corporate) example sett](/setts/s6/k8g28k28g4w28b6-b1474b4-g006818-k101010-we0e0e0/sett.png)|
+| [MacKay Dress](/setts/s6/b4w23g2k23g23k4~b1474b4-g006818-k101010-we0e0e0~x2/)|
+|![MacKay Dress example sett](/setts/s6/b4w23g2k23g23k4~b1474b4-g006818-k101010-we0e0e0~x2/sett.png)|
+| [MacKay, Dress (Corporate)](/setts/s6/k4g14k14g2w14b3~b1474b4-g006818-k101010-we0e0e0~x2/)|
+|![MacKay, Dress (Corporate) example sett](/setts/s6/k4g14k14g2w14b3~b1474b4-g006818-k101010-we0e0e0~x2/sett.png)|

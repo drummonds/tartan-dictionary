@@ -6,7 +6,7 @@ KRKRKYK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/tartan.png)
+![Woven sample](/setts/s7/k1r2k7r11k18y2k1~k101010-r888888-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRKRKYK
 
 | Tartans |
 |---------------|
-| [DDB Canada (Fashion)](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/)|
-|![DDB Canada (Fashion) example sett](/setts/s7/k2r4k14r22k36y4k2-k101010-r888888-ye8c000/sett.png)|
+| [DDB Canada (Fashion)](/setts/s7/k1r2k7r11k18y2k1~k101010-r888888-ye8c000~x2/)|
+|![DDB Canada (Fashion) example sett](/setts/s7/k1r2k7r11k18y2k1~k101010-r888888-ye8c000~x2/sett.png)|

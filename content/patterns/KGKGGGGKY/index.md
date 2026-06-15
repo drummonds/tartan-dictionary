@@ -16,5 +16,5 @@ KGKGGGGKY
 
 | Tartans |
 |---------------|
-| [Leinster Ancestry (Fashion)](/setts/s9/k8g66k36ga20gb38ga6g30k2y6-g003820-ga604000-gb289c18-k101010-ybc8c00/)|
-|![Leinster Ancestry (Fashion) example sett](/setts/s9/k8g66k36ga20gb38ga6g30k2y6-g003820-ga604000-gb289c18-k101010-ybc8c00/sett.png)|
+| [Leinster Ancestry (Fashion)](/setts/s9/k4g33k18ga10gb19ga3g15k1y3~g003820-ga604000-gb289c18-k101010-ybc8c00~x2/)|
+|![Leinster Ancestry (Fashion) example sett](/setts/s9/k4g33k18ga10gb19ga3g15k1y3~g003820-ga604000-gb289c18-k101010-ybc8c00~x2/sett.png)|

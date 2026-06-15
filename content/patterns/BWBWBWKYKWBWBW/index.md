@@ -16,5 +16,5 @@ BWBWBWKYKWBWBW
 
 | Tartans |
 |---------------|
-| [Kile (No red line) (Personal)](/setts/s14/b40w6b6w6b6w6k10y20k10w6b6w6b6w6-b2c2c80-k101010-wfcfcfc-ye8c000/)|
-|![Kile (No red line) (Personal) example sett](/setts/s14/b40w6b6w6b6w6k10y20k10w6b6w6b6w6-b2c2c80-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Kile (No red line) (Personal)](/setts/s14/b20w3b3w3b3w3k5y10k5w3b3w3b3w3~b2c2c80-k101010-wfcfcfc-ye8c000~x2/)|
+|![Kile (No red line) (Personal) example sett](/setts/s14/b20w3b3w3b3w3k5y10k5w3b3w3b3w3~b2c2c80-k101010-wfcfcfc-ye8c000~x2/sett.png)|

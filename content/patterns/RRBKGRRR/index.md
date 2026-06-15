@@ -6,7 +6,7 @@ RRBKGRRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r16ra2r16g16k16b16r16ra4-b304080-g008000-k000000-r806050-rac00000/tartan.png)
+![Woven sample](/setts/s8/r8ra1r8g8k8b8r8ra2~b304080-g008000-k000000-r806050-rac00000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRBKGRRR
 
 | Tartans |
 |---------------|
-| [MacDuff, hunting](/setts/s8/r16ra2r16g16k16b16r16ra4-b304080-g008000-k000000-r806050-rac00000/)|
-|![MacDuff, hunting example sett](/setts/s8/r16ra2r16g16k16b16r16ra4-b304080-g008000-k000000-r806050-rac00000/sett.png)|
+| [MacDuff, hunting](/setts/s8/r8ra1r8g8k8b8r8ra2~b304080-g008000-k000000-r806050-rac00000~x2/)|
+|![MacDuff, hunting example sett](/setts/s8/r8ra1r8g8k8b8r8ra2~b304080-g008000-k000000-r806050-rac00000~x2/sett.png)|

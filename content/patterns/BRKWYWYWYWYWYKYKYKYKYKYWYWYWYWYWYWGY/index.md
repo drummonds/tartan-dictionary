@@ -16,5 +16,5 @@ BRKWYWYWYWYWYKYKYKYKYKYWYWYWYWYWYWGY
 
 | Tartans |
 |---------------|
-| [All Breeds Dairy Goats (Corporate)](/setts/s36/b20r20k72w2y2w2y2w2y2w2y2w2y2k2y2k2y2k2y2k2y2k2y2w2y2w2y2w2y2w2y2w2y52w52g20ya20-b2c2c80-g289c18-k101010-rc80000-we0e0e0-ya08858-yae8c000/)|
-|![All Breeds Dairy Goats (Corporate) example sett](/setts/s36/b20r20k72w2y2w2y2w2y2w2y2w2y2k2y2k2y2k2y2k2y2k2y2w2y2w2y2w2y2w2y2w2y52w52g20ya20-b2c2c80-g289c18-k101010-rc80000-we0e0e0-ya08858-yae8c000/sett.png)|
+| [All Breeds Dairy Goats (Corporate)](/setts/s36/b10r10k36w1y1w1y1w1y1w1y1w1y1k1y1k1y1k1y1k1y1k1y1w1y1w1y1w1y1w1y1w1y26w26g10ya10~b2c2c80-g289c18-k101010-rc80000-we0e0e0-ya08858-yae8c000~x2/)|
+|![All Breeds Dairy Goats (Corporate) example sett](/setts/s36/b10r10k36w1y1w1y1w1y1w1y1w1y1k1y1k1y1k1y1k1y1k1y1w1y1w1y1w1y1w1y1w1y26w26g10ya10~b2c2c80-g289c18-k101010-rc80000-we0e0e0-ya08858-yae8c000~x2/sett.png)|

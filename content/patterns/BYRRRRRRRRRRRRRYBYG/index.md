@@ -16,5 +16,5 @@ BYRRRRRRRRRRRRRYBYG
 
 | Tartans |
 |---------------|
-| [Commonwealth Games Scotland, Team Scotland 2014](/setts/s19/g66y44b8y44r6ra4r6ra4r6ra4r6ra4r6ra4r6ra4r6y44b8-b202060-g048888-rff0000-raec34c4-yd87c00/)|
-|![Commonwealth Games Scotland, Team Scotland 2014 example sett](/setts/s19/g66y44b8y44r6ra4r6ra4r6ra4r6ra4r6ra4r6ra4r6y44b8-b202060-g048888-rff0000-raec34c4-yd87c00/sett.png)|
+| [Commonwealth Games Scotland, Team Scotland 2014](/setts/s19/g33y22b4y22r3ra2r3ra2r3ra2r3ra2r3ra2r3ra2r3y22b4~b202060-g048888-rff0000-raec34c4-yd87c00~x2/)|
+|![Commonwealth Games Scotland, Team Scotland 2014 example sett](/setts/s19/g33y22b4y22r3ra2r3ra2r3ra2r3ra2r3ra2r3ra2r3y22b4~b202060-g048888-rff0000-raec34c4-yd87c00~x2/sett.png)|

@@ -16,5 +16,5 @@ KRKYGKGBR
 
 | Tartans |
 |---------------|
-| [Shanahan (Corporate)](/setts/s9/k4r4k8y6g48k4g32b34r4-b1870a4-g00643c-k101010-rcc4438-ybc8c00/)|
-|![Shanahan (Corporate) example sett](/setts/s9/k4r4k8y6g48k4g32b34r4-b1870a4-g00643c-k101010-rcc4438-ybc8c00/sett.png)|
+| [Shanahan (Corporate)](/setts/s9/k2r2k4y3g24k2g16b17r2~b1870a4-g00643c-k101010-rcc4438-ybc8c00~x2/)|
+|![Shanahan (Corporate) example sett](/setts/s9/k2r2k4y3g24k2g16b17r2~b1870a4-g00643c-k101010-rcc4438-ybc8c00~x2/sett.png)|

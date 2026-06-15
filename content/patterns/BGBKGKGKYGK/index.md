@@ -16,5 +16,5 @@ BGBKGKGKYGK
 
 | Tartans |
 |---------------|
-| [Sturm (2016)](/setts/s11/k24g6y4k4g6k36ga8k4b36g4ba4-b440044-ba00008c-g5c6428-ga604000-k101010-yd09800/)|
-|![Sturm (2016) example sett](/setts/s11/k24g6y4k4g6k36ga8k4b36g4ba4-b440044-ba00008c-g5c6428-ga604000-k101010-yd09800/sett.png)|
+| [Sturm (2016)](/setts/s11/k12g3y2k2g3k18ga4k2b18g2ba2~b440044-ba00008c-g5c6428-ga604000-k101010-yd09800~x2/)|
+|![Sturm (2016) example sett](/setts/s11/k12g3y2k2g3k18ga4k2b18g2ba2~b440044-ba00008c-g5c6428-ga604000-k101010-yd09800~x2/sett.png)|

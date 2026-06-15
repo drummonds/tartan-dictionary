@@ -6,7 +6,7 @@ BYRKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b8y8r66k60w4-b271b86-k120a01-ra90725-wf7f1e8-yebaa57/tartan.png)
+![Woven sample](/setts/s5/b4y4r33k30w2~b271b86-k120a01-ra90725-wf7f1e8-yebaa57~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYRKW
 
 | Tartans |
 |---------------|
-| [Wormeck (2013) Germany](/setts/s5/b8y8r66k60w4-b271b86-k120a01-ra90725-wf7f1e8-yebaa57/)|
-|![Wormeck (2013) Germany example sett](/setts/s5/b8y8r66k60w4-b271b86-k120a01-ra90725-wf7f1e8-yebaa57/sett.png)|
+| [Wormeck (2013) Germany](/setts/s5/b4y4r33k30w2~b271b86-k120a01-ra90725-wf7f1e8-yebaa57~x2/)|
+|![Wormeck (2013) Germany example sett](/setts/s5/b4y4r33k30w2~b271b86-k120a01-ra90725-wf7f1e8-yebaa57~x2/sett.png)|

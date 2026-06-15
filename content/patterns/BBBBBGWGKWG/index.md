@@ -16,5 +16,5 @@ BBBBBGWGKWG
 
 | Tartans |
 |---------------|
-| [Spirit of West Lothian](/setts/s11/b96ba4b10ba4b14g4w6g10k8w2g52-b003c64-ba780078-g006818-k101010-we0e0e0/)|
-|![Spirit of West Lothian example sett](/setts/s11/b96ba4b10ba4b14g4w6g10k8w2g52-b003c64-ba780078-g006818-k101010-we0e0e0/sett.png)|
+| [Spirit of West Lothian](/setts/s11/b48ba2b5ba2b7g2w3g5k4w1g26~b003c64-ba780078-g006818-k101010-we0e0e0~x2/)|
+|![Spirit of West Lothian example sett](/setts/s11/b48ba2b5ba2b7g2w3g5k4w1g26~b003c64-ba780078-g006818-k101010-we0e0e0~x2/sett.png)|

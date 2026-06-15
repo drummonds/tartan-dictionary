@@ -16,7 +16,7 @@ WKWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Black Watch Ground Colour](/setts/s13/w22k2w2k2w2k16w16k2w16k16w16k2w2-k101010-wffffff/)|
-|![Black Watch Ground Colour example sett](/setts/s13/w22k2w2k2w2k16w16k2w16k16w16k2w2-k101010-wffffff/sett.png)|
-| [Black Watch, Ground Colour](/setts/s13/w22k2w2k2w2k16w16k2w16k16w16k2w2-k000000-we0e0e0/)|
-|![Black Watch, Ground Colour example sett](/setts/s13/w22k2w2k2w2k16w16k2w16k16w16k2w2-k000000-we0e0e0/sett.png)|
+| [Black Watch Ground Colour](/setts/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~k101010-wffffff~x2/)|
+|![Black Watch Ground Colour example sett](/setts/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~k101010-wffffff~x2/sett.png)|
+| [Black Watch, Ground Colour](/setts/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~k000000-we0e0e0~x2/)|
+|![Black Watch, Ground Colour example sett](/setts/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~k000000-we0e0e0~x2/sett.png)|

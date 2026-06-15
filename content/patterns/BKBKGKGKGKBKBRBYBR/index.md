@@ -16,5 +16,5 @@ BKBKGKGKGKBKBRBYBR
 
 | Tartans |
 |---------------|
-| [Borders Health Board](/setts/s18/b50k6b6k6g12k6g12k6g12k6b6k6b50r6b6y6b6r6-b1870a4-g289c18-k101010-rc80000-ye8c000/)|
-|![Borders Health Board example sett](/setts/s18/b50k6b6k6g12k6g12k6g12k6b6k6b50r6b6y6b6r6-b1870a4-g289c18-k101010-rc80000-ye8c000/sett.png)|
+| [Borders Health Board](/setts/s18/b25k3b3k3g6k3g6k3g6k3b3k3b25r3b3y3b3r3~b1870a4-g289c18-k101010-rc80000-ye8c000~x2/)|
+|![Borders Health Board example sett](/setts/s18/b25k3b3k3g6k3g6k3g6k3b3k3b25r3b3y3b3r3~b1870a4-g289c18-k101010-rc80000-ye8c000~x2/sett.png)|

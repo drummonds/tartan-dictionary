@@ -16,9 +16,9 @@ KWRBRGRGW
 
 | Tartans |
 |---------------|
-| [Oliver Dress, Pink (Dance?)](/setts/s9/w10g6r6g6r6b40r32w42k6-b5c8ca8-g289c18-k101010-re87878-we0e0e0/)|
-|![Oliver Dress, Pink (Dance?) example sett](/setts/s9/w10g6r6g6r6b40r32w42k6-b5c8ca8-g289c18-k101010-re87878-we0e0e0/sett.png)|
-| [Oliver Dress (Dance)](/setts/s9/k4w28r24b28r4g4r4g4w4-b1c0070-g006818-k101010-r880000-wf8f8f8/)|
-|![Oliver Dress (Dance) example sett](/setts/s9/k4w28r24b28r4g4r4g4w4-b1c0070-g006818-k101010-r880000-wf8f8f8/sett.png)|
-| [Oliver, dress](/setts/s9/w10g6r6g6r6b40r32w42k6-b304080-g008000-k000000-rd03030-we0e0e0/)|
-|![Oliver, dress example sett](/setts/s9/w10g6r6g6r6b40r32w42k6-b304080-g008000-k000000-rd03030-we0e0e0/sett.png)|
+| [Oliver Dress, Pink (Dance?)](/setts/s9/w5g3r3g3r3b20r16w21k3~b5c8ca8-g289c18-k101010-re87878-we0e0e0~x2/)|
+|![Oliver Dress, Pink (Dance?) example sett](/setts/s9/w5g3r3g3r3b20r16w21k3~b5c8ca8-g289c18-k101010-re87878-we0e0e0~x2/sett.png)|
+| [Oliver Dress (Dance)](/setts/s9/k1w7r6b7r1g1r1g1w1~b1c0070-g006818-k101010-r880000-wf8f8f8~x4/)|
+|![Oliver Dress (Dance) example sett](/setts/s9/k1w7r6b7r1g1r1g1w1~b1c0070-g006818-k101010-r880000-wf8f8f8~x4/sett.png)|
+| [Oliver, dress](/setts/s9/w5g3r3g3r3b20r16w21k3~b304080-g008000-k000000-rd03030-we0e0e0~x2/)|
+|![Oliver, dress example sett](/setts/s9/w5g3r3g3r3b20r16w21k3~b304080-g008000-k000000-rd03030-we0e0e0~x2/sett.png)|

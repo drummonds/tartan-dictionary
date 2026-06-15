@@ -16,5 +16,5 @@ BWBKBKBBWWRW
 
 | Tartans |
 |---------------|
-| [Anglicare](/setts/s12/b12w4b4k12ba12k4ba8b12wa12w11r4w8-b0000cd-ba000080-k101010-rff0000-wffffff-wa82cffd/)|
-|![Anglicare example sett](/setts/s12/b12w4b4k12ba12k4ba8b12wa12w11r4w8-b0000cd-ba000080-k101010-rff0000-wffffff-wa82cffd/sett.png)|
+| [Anglicare](/setts/s12/b12w4b4k12ba12k4ba8b12wa12w11r4w8~b0000cd-ba000080-k101010-rff0000-wffffff-wa82cffd/)|
+|![Anglicare example sett](/setts/s12/b12w4b4k12ba12k4ba8b12wa12w11r4w8~b0000cd-ba000080-k101010-rff0000-wffffff-wa82cffd/sett.png)|

@@ -16,5 +16,5 @@ BRBGRBRRWRRBRGBR
 
 | Tartans |
 |---------------|
-| [Kansai2](/setts/s16/b8r4b32g28ra4ba24rb4r4w4r4rb4ba24ra4g28b32r4-b5c8ca8-ba1474b4-g006818-rc80000-rae87878-rb888888-wfcfcfc/)|
-|![Kansai2 example sett](/setts/s16/b8r4b32g28ra4ba24rb4r4w4r4rb4ba24ra4g28b32r4-b5c8ca8-ba1474b4-g006818-rc80000-rae87878-rb888888-wfcfcfc/sett.png)|
+| [Kansai2](/setts/s16/b2r1b8g7ra1ba6rb1r1w1r1rb1ba6ra1g7b8r1~b5c8ca8-ba1474b4-g006818-rc80000-rae87878-rb888888-wfcfcfc~x4/)|
+|![Kansai2 example sett](/setts/s16/b2r1b8g7ra1ba6rb1r1w1r1rb1ba6ra1g7b8r1~b5c8ca8-ba1474b4-g006818-rc80000-rae87878-rb888888-wfcfcfc~x4/sett.png)|

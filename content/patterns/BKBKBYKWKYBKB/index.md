@@ -16,5 +16,5 @@ BKBKBYKWKYBKB
 
 | Tartans |
 |---------------|
-| [Kernbrownek (Personal)](/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/)|
-|![Kernbrownek (Personal) example sett](/setts/s13/b28k4b4k4b4y16k24w4k24y16b20k4b4-b2888c4-k101010-we0e0e0-ye0d844/sett.png)|
+| [Kernbrownek (Personal)](/setts/s13/b7k1b1k1b1y4k6w1k6y4b5k1b1~b2888c4-k101010-we0e0e0-ye0d844~x4/)|
+|![Kernbrownek (Personal) example sett](/setts/s13/b7k1b1k1b1y4k6w1k6y4b5k1b1~b2888c4-k101010-we0e0e0-ye0d844~x4/sett.png)|

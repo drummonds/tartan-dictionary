@@ -16,5 +16,5 @@ WBKBGKWKGKW
 
 | Tartans |
 |---------------|
-| [Grotto Dove](/setts/s11/w104k28g4k4w4k4g20b12k4b8w4-b6c0070-g5c6428-k101010-wc0c0c0/)|
-|![Grotto Dove example sett](/setts/s11/w104k28g4k4w4k4g20b12k4b8w4-b6c0070-g5c6428-k101010-wc0c0c0/sett.png)|
+| [Grotto Dove](/setts/s11/w26k7g1k1w1k1g5b3k1b2w1~b6c0070-g5c6428-k101010-wc0c0c0~x4/)|
+|![Grotto Dove example sett](/setts/s11/w26k7g1k1w1k1g5b3k1b2w1~b6c0070-g5c6428-k101010-wc0c0c0~x4/sett.png)|

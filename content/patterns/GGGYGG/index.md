@@ -6,7 +6,7 @@ GGGYGG
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g36ga36y4ga36g36ga4-g74846c-ga006818-yd09800/tartan.png)
+![Woven sample](/setts/s6/g9ga9y1ga9g9ga1~g74846c-ga006818-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGYGG
 
 | Tartans |
 |---------------|
-| [Spring Morning](/setts/s6/g36ga36y4ga36g36ga4-g74846c-ga006818-yd09800/)|
-|![Spring Morning example sett](/setts/s6/g36ga36y4ga36g36ga4-g74846c-ga006818-yd09800/sett.png)|
+| [Spring Morning](/setts/s6/g9ga9y1ga9g9ga1~g74846c-ga006818-yd09800~x4/)|
+|![Spring Morning example sett](/setts/s6/g9ga9y1ga9g9ga1~g74846c-ga006818-yd09800~x4/sett.png)|

@@ -6,7 +6,7 @@ RGBRBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r4g8b40ra4ba60w4-b778899-ba000080-g006400-rd02090-raff0000-wffffff/tartan.png)
+![Woven sample](/setts/s6/r1g2b10ra1ba15w1~b778899-ba000080-g006400-rd02090-raff0000-wffffff~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGBRBW
 
 | Tartans |
 |---------------|
-| [Oren Peterson](/setts/s6/r4g8b40ra4ba60w4-b778899-ba000080-g006400-rd02090-raff0000-wffffff/)|
-|![Oren Peterson example sett](/setts/s6/r4g8b40ra4ba60w4-b778899-ba000080-g006400-rd02090-raff0000-wffffff/sett.png)|
+| [Oren Peterson](/setts/s6/r1g2b10ra1ba15w1~b778899-ba000080-g006400-rd02090-raff0000-wffffff~x4/)|
+|![Oren Peterson example sett](/setts/s6/r1g2b10ra1ba15w1~b778899-ba000080-g006400-rd02090-raff0000-wffffff~x4/sett.png)|

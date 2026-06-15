@@ -16,5 +16,5 @@ YBGGGGGGGBYBGRRRYRRRBYGYRGBYBGGGGGGGBY
 
 | Tartans |
 |---------------|
-| [New Brunswick, variation](/setts/s38/y4b4g2ga4g4ga4g4ga4g4b4y4b4g56r48y2gb4y6b8r20ra32r8y4r28ra10r20g56b4y4b4g2ga4g4ga4g4ga4g2b4y4-b5480b0-g008000-ga30a010-gb808080-rc00000-ra806050-yf0c000/)|
-|![New Brunswick, variation example sett](/setts/s38/y4b4g2ga4g4ga4g4ga4g4b4y4b4g56r48y2gb4y6b8r20ra32r8y4r28ra10r20g56b4y4b4g2ga4g4ga4g4ga4g2b4y4-b5480b0-g008000-ga30a010-gb808080-rc00000-ra806050-yf0c000/sett.png)|
+| [New Brunswick, variation](/setts/s38/y2b2g1ga2g2ga2g2ga2g2b2y2b2g28r24y1gb2y3b4r10ra16r4y2r14ra5r10g28b2y2b2g1ga2g2ga2g2ga2g1b2y2~b5480b0-g008000-ga30a010-gb808080-rc00000-ra806050-yf0c000~x2/)|
+|![New Brunswick, variation example sett](/setts/s38/y2b2g1ga2g2ga2g2ga2g2b2y2b2g28r24y1gb2y3b4r10ra16r4y2r14ra5r10g28b2y2b2g1ga2g2ga2g2ga2g1b2y2~b5480b0-g008000-ga30a010-gb808080-rc00000-ra806050-yf0c000~x2/sett.png)|

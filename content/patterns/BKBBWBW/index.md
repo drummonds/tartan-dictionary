@@ -6,7 +6,7 @@ BKBBWBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b6k26b26ba26w4ba26w6-b2c2c80-ba1c0070-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b3k13b13ba13w2ba13w3~b2c2c80-ba1c0070-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKBBWBW
 
 | Tartans |
 |---------------|
-| [Brodie Countryfare (Corporate)](/setts/s7/b6k26b26ba26w4ba26w6-b2c2c80-ba1c0070-k101010-we0e0e0/)|
-|![Brodie Countryfare (Corporate) example sett](/setts/s7/b6k26b26ba26w4ba26w6-b2c2c80-ba1c0070-k101010-we0e0e0/sett.png)|
+| [Brodie Countryfare (Corporate)](/setts/s7/b3k13b13ba13w2ba13w3~b2c2c80-ba1c0070-k101010-we0e0e0~x2/)|
+|![Brodie Countryfare (Corporate) example sett](/setts/s7/b3k13b13ba13w2ba13w3~b2c2c80-ba1c0070-k101010-we0e0e0~x2/sett.png)|

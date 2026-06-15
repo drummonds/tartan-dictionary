@@ -16,5 +16,5 @@ RWRBYKWRBYKW
 
 | Tartans |
 |---------------|
-| [Westgaard Captain (Personal)](/setts/s12/r18w8r12b8y4k4w4r10b6y4k4w4-b00008c-k000000-r8c0000-wc8c8c8-yc89800/)|
-|![Westgaard Captain (Personal) example sett](/setts/s12/r18w8r12b8y4k4w4r10b6y4k4w4-b00008c-k000000-r8c0000-wc8c8c8-yc89800/sett.png)|
+| [Westgaard Captain (Personal)](/setts/s12/r9w4r6b4y2k2w2r5b3y2k2w2~b00008c-k000000-r8c0000-wc8c8c8-yc89800~x2/)|
+|![Westgaard Captain (Personal) example sett](/setts/s12/r9w4r6b4y2k2w2r5b3y2k2w2~b00008c-k000000-r8c0000-wc8c8c8-yc89800~x2/sett.png)|

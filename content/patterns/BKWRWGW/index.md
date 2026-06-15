@@ -6,7 +6,7 @@ BKWRWGW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b68k48w36r8w36g4w8-b5c8ca8-g006818-k101010-r980044-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/b17k12w9r2w9g1w2~b5c8ca8-g006818-k101010-r980044-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,9 +18,9 @@ BKWRWGW
 
 | Tartans |
 |---------------|
-| [Ferguson Dress](/setts/s7/b68k48w36r8w36g4w8-b5c8ca8-g006818-k101010-r980044-we0e0e0/)|
-|![Ferguson Dress example sett](/setts/s7/b68k48w36r8w36g4w8-b5c8ca8-g006818-k101010-r980044-we0e0e0/sett.png)|
-| [Ferguson Dress #2](/setts/s7/b68k42w32r5w32g4w6-b2c4084-g002814-k101010-r960028-we0e0e0/)|
-|![Ferguson Dress #2 example sett](/setts/s7/b68k42w32r5w32g4w6-b2c4084-g002814-k101010-r960028-we0e0e0/sett.png)|
-| [Ferguson, dress](/setts/s7/b68k42w32r5w32g4w6-b304080-g003000-k000000-r900030-we0e0e0/)|
-|![Ferguson, dress example sett](/setts/s7/b68k42w32r5w32g4w6-b304080-g003000-k000000-r900030-we0e0e0/sett.png)|
+| [Ferguson Dress](/setts/s7/b17k12w9r2w9g1w2~b5c8ca8-g006818-k101010-r980044-we0e0e0~x4/)|
+|![Ferguson Dress example sett](/setts/s7/b17k12w9r2w9g1w2~b5c8ca8-g006818-k101010-r980044-we0e0e0~x4/sett.png)|
+| [Ferguson Dress #2](/setts/s7/b68k42w32r5w32g4w6~b2c4084-g002814-k101010-r960028-we0e0e0/)|
+|![Ferguson Dress #2 example sett](/setts/s7/b68k42w32r5w32g4w6~b2c4084-g002814-k101010-r960028-we0e0e0/sett.png)|
+| [Ferguson, dress](/setts/s7/b68k42w32r5w32g4w6~b304080-g003000-k000000-r900030-we0e0e0/)|
+|![Ferguson, dress example sett](/setts/s7/b68k42w32r5w32g4w6~b304080-g003000-k000000-r900030-we0e0e0/sett.png)|

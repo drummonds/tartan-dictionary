@@ -16,5 +16,5 @@ GRGRGRGRGGGRGRGRGRWRWGWRWR
 
 | Tartans |
 |---------------|
-| [Maple Leaf, dress](/setts/s26/g4r24ga20r24g4r4g36ra12g12gb12g36r4g4r24ga20r24g4r4w4r4w48ga4w48r4w4r4-g003000-ga008000-gb607030-r900030-ra806050-we0e0e0/)|
-|![Maple Leaf, dress example sett](/setts/s26/g4r24ga20r24g4r4g36ra12g12gb12g36r4g4r24ga20r24g4r4w4r4w48ga4w48r4w4r4-g003000-ga008000-gb607030-r900030-ra806050-we0e0e0/sett.png)|
+| [Maple Leaf, dress](/setts/s26/g1r6ga5r6g1r1g9ra3g3gb3g9r1g1r6ga5r6g1r1w1r1w12ga1w12r1w1r1~g003000-ga008000-gb607030-r900030-ra806050-we0e0e0~x4/)|
+|![Maple Leaf, dress example sett](/setts/s26/g1r6ga5r6g1r1g9ra3g3gb3g9r1g1r6ga5r6g1r1w1r1w12ga1w12r1w1r1~g003000-ga008000-gb607030-r900030-ra806050-we0e0e0~x4/sett.png)|

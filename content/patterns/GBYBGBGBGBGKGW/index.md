@@ -16,5 +16,5 @@ GBYBGBGBGBGKGW
 
 | Tartans |
 |---------------|
-| [Hay Hunting](/setts/s14/g12b8y4b34g4b4g4b16g52b12g8k4g8w12-b1474b4-g007800-k101010-wffffff-yffe600/)|
-|![Hay Hunting example sett](/setts/s14/g12b8y4b34g4b4g4b16g52b12g8k4g8w12-b1474b4-g007800-k101010-wffffff-yffe600/sett.png)|
+| [Hay Hunting](/setts/s14/g6b4y2b17g2b2g2b8g26b6g4k2g4w6~b1474b4-g007800-k101010-wffffff-yffe600~x2/)|
+|![Hay Hunting example sett](/setts/s14/g6b4y2b17g2b2g2b8g26b6g4k2g4w6~b1474b4-g007800-k101010-wffffff-yffe600~x2/sett.png)|

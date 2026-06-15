@@ -6,7 +6,7 @@ BKRRRKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b74k24r34ra6r34k2y6-b007fff-k101010-rac7f24-racc1100-yffe303/tartan.png)
+![Woven sample](/setts/s7/b37k12r17ra3r17k1y3~b007fff-k101010-rac7f24-racc1100-yffe303~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BKRRRKY
 
 | Tartans |
 |---------------|
-| [Berger-MacLaren](/setts/s7/b74k24r34ra6r34k2y6-b007fff-k101010-rac7f24-racc1100-yffe303/)|
-|![Berger-MacLaren example sett](/setts/s7/b74k24r34ra6r34k2y6-b007fff-k101010-rac7f24-racc1100-yffe303/sett.png)|
+| [Berger-MacLaren](/setts/s7/b37k12r17ra3r17k1y3~b007fff-k101010-rac7f24-racc1100-yffe303~x2/)|
+|![Berger-MacLaren example sett](/setts/s7/b37k12r17ra3r17k1y3~b007fff-k101010-rac7f24-racc1100-yffe303~x2/sett.png)|

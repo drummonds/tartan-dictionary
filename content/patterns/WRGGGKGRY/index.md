@@ -16,5 +16,5 @@ WRGGGKGRY
 
 | Tartans |
 |---------------|
-| [Virginia Military Institute, New Market](/setts/s9/w12r50g4ga6g60k6g4r60y12-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000/)|
-|![Virginia Military Institute, New Market example sett](/setts/s9/w12r50g4ga6g60k6g4r60y12-g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Virginia Military Institute, New Market](/setts/s9/w6r25g2ga3g30k3g2r30y6~g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000~x2/)|
+|![Virginia Military Institute, New Market example sett](/setts/s9/w6r25g2ga3g30k3g2r30y6~g808080-ga008000-k000000-rc00000-we0e0e0-yf0c000~x2/sett.png)|

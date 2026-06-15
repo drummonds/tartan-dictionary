@@ -16,5 +16,5 @@ RGRKRBKBKWKW
 
 | Tartans |
 |---------------|
-| [Niagara Region](/setts/s12/w8k4w4k56b8k4b4r2k26r2g26r4-b1c4c60-g003c28-k00002c-rc80000-we0e0e0/)|
-|![Niagara Region example sett](/setts/s12/w8k4w4k56b8k4b4r2k26r2g26r4-b1c4c60-g003c28-k00002c-rc80000-we0e0e0/sett.png)|
+| [Niagara Region](/setts/s12/w4k2w2k28b4k2b2r1k13r1g13r2~b1c4c60-g003c28-k00002c-rc80000-we0e0e0~x2/)|
+|![Niagara Region example sett](/setts/s12/w4k2w2k28b4k2b2r1k13r1g13r2~b1c4c60-g003c28-k00002c-rc80000-we0e0e0~x2/sett.png)|

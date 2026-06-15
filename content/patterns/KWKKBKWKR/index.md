@@ -16,5 +16,5 @@ KWKKBKWKR
 
 | Tartans |
 |---------------|
-| [NEWYORKER](/setts/s9/r6k2w24k4b4k4ka28w4ka4-b0000cd-k101010-ka000033-r9e0508-we8ccb8/)|
-|![NEWYORKER example sett](/setts/s9/r6k2w24k4b4k4ka28w4ka4-b0000cd-k101010-ka000033-r9e0508-we8ccb8/sett.png)|
+| [NEWYORKER](/setts/s9/r3k1w12k2b2k2ka14w2ka2~b0000cd-k101010-ka000033-r9e0508-we8ccb8~x2/)|
+|![NEWYORKER example sett](/setts/s9/r3k1w12k2b2k2ka14w2ka2~b0000cd-k101010-ka000033-r9e0508-we8ccb8~x2/sett.png)|

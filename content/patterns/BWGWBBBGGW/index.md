@@ -16,7 +16,7 @@ BWGWBBBGGW
 
 | Tartans |
 |---------------|
-| [Blue Spruce, The](/setts/s10/b4w36g4w4b6ba6b6g12ga48w4-b1c0070-ba1870a4-g00a0ac-ga006818-wffffff/)|
-|![Blue Spruce, The example sett](/setts/s10/b4w36g4w4b6ba6b6g12ga48w4-b1c0070-ba1870a4-g00a0ac-ga006818-wffffff/sett.png)|
-| [Blue Spruce, The (Fashion)](/setts/s10/b4w36g4w4b6ba6b6g12ga48w4-b1c0070-ba1870a4-g00a0ac-ga006818-wfcfcfc/)|
-|![Blue Spruce, The (Fashion) example sett](/setts/s10/b4w36g4w4b6ba6b6g12ga48w4-b1c0070-ba1870a4-g00a0ac-ga006818-wfcfcfc/sett.png)|
+| [Blue Spruce, The](/setts/s10/b2w18g2w2b3ba3b3g6ga24w2~b1c0070-ba1870a4-g00a0ac-ga006818-wffffff~x2/)|
+|![Blue Spruce, The example sett](/setts/s10/b2w18g2w2b3ba3b3g6ga24w2~b1c0070-ba1870a4-g00a0ac-ga006818-wffffff~x2/sett.png)|
+| [Blue Spruce, The (Fashion)](/setts/s10/b2w18g2w2b3ba3b3g6ga24w2~b1c0070-ba1870a4-g00a0ac-ga006818-wfcfcfc~x2/)|
+|![Blue Spruce, The (Fashion) example sett](/setts/s10/b2w18g2w2b3ba3b3g6ga24w2~b1c0070-ba1870a4-g00a0ac-ga006818-wfcfcfc~x2/sett.png)|

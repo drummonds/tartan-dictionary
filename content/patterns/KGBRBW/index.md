@@ -6,7 +6,7 @@ KGBRBW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k100g12b12r12ba12w6-b0000cd-ba666666-g008b00-k101010-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s6/k50g6b6r6ba6w3~b0000cd-ba666666-g008b00-k101010-rff0000-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGBRBW
 
 | Tartans |
 |---------------|
-| [Friends of Nordegg](/setts/s6/k100g12b12r12ba12w6-b0000cd-ba666666-g008b00-k101010-rff0000-wffffff/)|
-|![Friends of Nordegg example sett](/setts/s6/k100g12b12r12ba12w6-b0000cd-ba666666-g008b00-k101010-rff0000-wffffff/sett.png)|
+| [Friends of Nordegg](/setts/s6/k50g6b6r6ba6w3~b0000cd-ba666666-g008b00-k101010-rff0000-wffffff~x2/)|
+|![Friends of Nordegg example sett](/setts/s6/k50g6b6r6ba6w3~b0000cd-ba666666-g008b00-k101010-rff0000-wffffff~x2/sett.png)|

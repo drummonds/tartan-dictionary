@@ -16,5 +16,5 @@ KYKWBRWRKYGRWRBWKYKYKWBRWRGYKRWRBWKY
 
 | Tartans |
 |---------------|
-| [Wilson's No.190](/setts/s36/k6y4k26w4b22r24w4r24k24y4g24r24w4r24b22w4k26y4k6y4k26w4b22r24w4r24g24y4k24r24w4r24b22w4k26y4-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Wilson's No.190 example sett](/setts/s36/k6y4k26w4b22r24w4r24k24y4g24r24w4r24b22w4k26y4k6y4k26w4b22r24w4r24g24y4k24r24w4r24b22w4k26y4-b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Wilson's No.190](/setts/s36/k3y2k13w2b11r12w2r12k12y2g12r12w2r12b11w2k13y2k3y2k13w2b11r12w2r12g12y2k12r12w2r12b11w2k13y2~b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Wilson's No.190 example sett](/setts/s36/k3y2k13w2b11r12w2r12k12y2g12r12w2r12b11w2k13y2k3y2k13w2b11r12w2r12g12y2k12r12w2r12b11w2k13y2~b2888c4-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

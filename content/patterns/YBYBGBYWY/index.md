@@ -16,5 +16,5 @@ YBYBGBYWY
 
 | Tartans |
 |---------------|
-| [WestJet](/setts/s9/y6b6ya6b30g6b10y40w12yb6-b003c64-g048888-w98c8e8-y5abf9e-yac4bc68-ybf8e38c/)|
-|![WestJet example sett](/setts/s9/y6b6ya6b30g6b10y40w12yb6-b003c64-g048888-w98c8e8-y5abf9e-yac4bc68-ybf8e38c/sett.png)|
+| [WestJet](/setts/s9/y3b3ya3b15g3b5y20w6yb3~b003c64-g048888-w98c8e8-y5abf9e-yac4bc68-ybf8e38c~x2/)|
+|![WestJet example sett](/setts/s9/y3b3ya3b15g3b5y20w6yb3~b003c64-g048888-w98c8e8-y5abf9e-yac4bc68-ybf8e38c~x2/sett.png)|

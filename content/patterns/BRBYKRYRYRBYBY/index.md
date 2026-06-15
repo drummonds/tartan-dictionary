@@ -16,7 +16,7 @@ BRBYKRYRYRBYBY
 
 | Tartans |
 |---------------|
-| [Ogilvy](/setts/s14/b20r6b20y10k4r12ya4r12ya4r12ba4y4b10ya4-b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![Ogilvy example sett](/setts/s14/b20r6b20y10k4r12ya4r12ya4r12ba4y4b10ya4-b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
-| [Ogilvy](/setts/s14/b10r3b10y5k2r6ya2r6ya2r6ba2y2b5ya2-b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa/)|
-|![Ogilvy example sett](/setts/s14/b10r3b10y5k2r6ya2r6ya2r6ba2y2b5ya2-b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|
+| [Ogilvy](/setts/s14/b10r3b10y5k2r6ya2r6ya2r6ba2y2b5ya2~b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa~x2/)|
+|![Ogilvy example sett](/setts/s14/b10r3b10y5k2r6ya2r6ya2r6ba2y2b5ya2~b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa~x2/sett.png)|
+| [Ogilvy](/setts/s14/b10r3b10y5k2r6ya2r6ya2r6ba2y2b5ya2~b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa/)|
+|![Ogilvy example sett](/setts/s14/b10r3b10y5k2r6ya2r6ya2r6ba2y2b5ya2~b4367ae-ba6e5058-k000000-raa0000-yaaaa00-yaaaaaaa/sett.png)|

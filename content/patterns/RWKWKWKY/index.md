@@ -6,7 +6,7 @@ RWKWKWKY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r4w4k4w56k16w18k2y4-k101010-rc80000-wfcfcec-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r2w2k2w28k8w9k1y2~k101010-rc80000-wfcfcec-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RWKWKWKY
 
 | Tartans |
 |---------------|
-| [Summer Spirit (Fashion)](/setts/s8/r4w4k4w56k16w18k2y4-k101010-rc80000-wfcfcec-ye8c000/)|
-|![Summer Spirit (Fashion) example sett](/setts/s8/r4w4k4w56k16w18k2y4-k101010-rc80000-wfcfcec-ye8c000/sett.png)|
+| [Summer Spirit (Fashion)](/setts/s8/r2w2k2w28k8w9k1y2~k101010-rc80000-wfcfcec-ye8c000~x2/)|
+|![Summer Spirit (Fashion) example sett](/setts/s8/r2w2k2w28k8w9k1y2~k101010-rc80000-wfcfcec-ye8c000~x2/sett.png)|

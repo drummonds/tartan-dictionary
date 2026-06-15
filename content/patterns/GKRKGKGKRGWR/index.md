@@ -16,5 +16,5 @@ GKRKGKGKRGWR
 
 | Tartans |
 |---------------|
-| [Otago Peninsula](/setts/s12/g8k8r8k4g24k4g24k4r8g8w2ra8-g006030-k000030-r802040-rad03030-we0e0e0/)|
-|![Otago Peninsula example sett](/setts/s12/g8k8r8k4g24k4g24k4r8g8w2ra8-g006030-k000030-r802040-rad03030-we0e0e0/sett.png)|
+| [Otago Peninsula](/setts/s12/g4k4r4k2g12k2g12k2r4g4w1ra4~g006030-k000030-r802040-rad03030-we0e0e0~x2/)|
+|![Otago Peninsula example sett](/setts/s12/g4k4r4k2g12k2g12k2r4g4w1ra4~g006030-k000030-r802040-rad03030-we0e0e0~x2/sett.png)|

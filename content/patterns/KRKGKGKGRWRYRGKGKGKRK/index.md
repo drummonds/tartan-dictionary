@@ -16,5 +16,5 @@ KRKGKGKGRWRYRGKGKGKRK
 
 | Tartans |
 |---------------|
-| [Pilette of Kinnear (Personal)](/setts/s21/k8r4k20g6k20g60k16g6r8w4r8y4r8g6k16g60k20g6k20r4k8-g006818-k101010-rc80000-wc0c0c0-yd09800/)|
-|![Pilette of Kinnear (Personal) example sett](/setts/s21/k8r4k20g6k20g60k16g6r8w4r8y4r8g6k16g60k20g6k20r4k8-g006818-k101010-rc80000-wc0c0c0-yd09800/sett.png)|
+| [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10g3k10g30k8g3r4w2r4y2r4g3k8g30k10g3k10r2k4~g006818-k101010-rc80000-wc0c0c0-yd09800~x2/)|
+|![Pilette of Kinnear (Personal) example sett](/setts/s21/k4r2k10g3k10g30k8g3r4w2r4y2r4g3k8g30k10g3k10r2k4~g006818-k101010-rc80000-wc0c0c0-yd09800~x2/sett.png)|

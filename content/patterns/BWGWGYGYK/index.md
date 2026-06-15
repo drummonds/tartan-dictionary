@@ -16,5 +16,5 @@ BWGWGYGYK
 
 | Tartans |
 |---------------|
-| [McClurg, William Thomas (Personal)](/setts/s9/k8y2g4y2g64w2g6w64b6-b0000cd-g008b00-k000000-w82cffd-yffe600/)|
-|![McClurg, William Thomas (Personal) example sett](/setts/s9/k8y2g4y2g64w2g6w64b6-b0000cd-g008b00-k000000-w82cffd-yffe600/sett.png)|
+| [McClurg, William Thomas (Personal)](/setts/s9/k4y1g2y1g32w1g3w32b3~b0000cd-g008b00-k000000-w82cffd-yffe600~x2/)|
+|![McClurg, William Thomas (Personal) example sett](/setts/s9/k4y1g2y1g32w1g3w32b3~b0000cd-g008b00-k000000-w82cffd-yffe600~x2/sett.png)|

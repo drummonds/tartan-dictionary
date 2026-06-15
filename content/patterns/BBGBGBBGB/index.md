@@ -16,5 +16,5 @@ BBGBGBBGB
 
 | Tartans |
 |---------------|
-| [Spirit of Alba (Fashion)](/setts/s9/b8ba38g2bb4g4bb36bc48g2ba4-b2888c4-ba2c2c80-bb202060-bc780078-g006818/)|
-|![Spirit of Alba (Fashion) example sett](/setts/s9/b8ba38g2bb4g4bb36bc48g2ba4-b2888c4-ba2c2c80-bb202060-bc780078-g006818/sett.png)|
+| [Spirit of Alba (Fashion)](/setts/s9/b4ba19g1bb2g2bb18bc24g1ba2~b2888c4-ba2c2c80-bb202060-bc780078-g006818~x2/)|
+|![Spirit of Alba (Fashion) example sett](/setts/s9/b4ba19g1bb2g2bb18bc24g1ba2~b2888c4-ba2c2c80-bb202060-bc780078-g006818~x2/sett.png)|

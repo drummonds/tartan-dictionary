@@ -16,5 +16,5 @@ BWBKBKBKBKBKBKBKBW
 
 | Tartans |
 |---------------|
-| [Ironside (Personal)](/setts/s18/b10w4b8k20ba4k4ba4k12b4k80b4k12ba4k4ba4k20b8w4-b780078-ba1474b4-k101010-we0e0e0/)|
-|![Ironside (Personal) example sett](/setts/s18/b10w4b8k20ba4k4ba4k12b4k80b4k12ba4k4ba4k20b8w4-b780078-ba1474b4-k101010-we0e0e0/sett.png)|
+| [Ironside (Personal)](/setts/s18/b5w2b4k10ba2k2ba2k6b2k40b2k6ba2k2ba2k10b4w2~b780078-ba1474b4-k101010-we0e0e0~x2/)|
+|![Ironside (Personal) example sett](/setts/s18/b5w2b4k10ba2k2ba2k6b2k40b2k6ba2k2ba2k10b4w2~b780078-ba1474b4-k101010-we0e0e0~x2/sett.png)|

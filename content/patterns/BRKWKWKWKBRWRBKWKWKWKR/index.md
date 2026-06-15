@@ -16,5 +16,5 @@ BRKWKWKWKBRWRBKWKWKWKR
 
 | Tartans |
 |---------------|
-| [Scottish Knights Templar St. Andrews](/setts/s22/b4r2k4w6k8w8k8w10k12b40r2w8r2b40k12w10k8w8k8w6k4r2-b2c2c80-k101010-rc80000-wc0c0c0/)|
-|![Scottish Knights Templar St. Andrews example sett](/setts/s22/b4r2k4w6k8w8k8w10k12b40r2w8r2b40k12w10k8w8k8w6k4r2-b2c2c80-k101010-rc80000-wc0c0c0/sett.png)|
+| [Scottish Knights Templar St. Andrews](/setts/s22/b2r1k2w3k4w4k4w5k6b20r1w4r1b20k6w5k4w4k4w3k2r1~b2c2c80-k101010-rc80000-wc0c0c0~x2/)|
+|![Scottish Knights Templar St. Andrews example sett](/setts/s22/b2r1k2w3k4w4k4w5k6b20r1w4r1b20k6w5k4w4k4w3k2r1~b2c2c80-k101010-rc80000-wc0c0c0~x2/sett.png)|

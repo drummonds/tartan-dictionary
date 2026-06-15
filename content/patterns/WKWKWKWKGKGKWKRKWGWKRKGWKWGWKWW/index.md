@@ -16,5 +16,5 @@ WKWKWKWKGKGKWKRKWGWKRKGWKWGWKWW
 
 | Tartans |
 |---------------|
-| [Pentecostal Assemblies of Canada](/setts/s31/w46k4w4k4w4k4w20k24g24k4g24k20w6k2r4k20wa16g8wa16k20r4k2g10wa46k44w4g4w4k4wa4w4-g008b00-k101010-rff0000-wffffff-wa82cffd/)|
-|![Pentecostal Assemblies of Canada example sett](/setts/s31/w46k4w4k4w4k4w20k24g24k4g24k20w6k2r4k20wa16g8wa16k20r4k2g10wa46k44w4g4w4k4wa4w4-g008b00-k101010-rff0000-wffffff-wa82cffd/sett.png)|
+| [Pentecostal Assemblies of Canada](/setts/s31/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10wa8g4wa8k10r2k1g5wa23k22w2g2w2k2wa2w2~g008b00-k101010-rff0000-wffffff-wa82cffd~x2/)|
+|![Pentecostal Assemblies of Canada example sett](/setts/s31/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10wa8g4wa8k10r2k1g5wa23k22w2g2w2k2wa2w2~g008b00-k101010-rff0000-wffffff-wa82cffd~x2/sett.png)|

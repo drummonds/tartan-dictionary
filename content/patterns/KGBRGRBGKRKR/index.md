@@ -16,5 +16,5 @@ KGBRGRBGKRKR
 
 | Tartans |
 |---------------|
-| [ABF The Soldiers' Charity](/setts/s12/k50g58b48r4g22r4b48g58k50ra8k10r8-b0000ff-g003300-k000033-rdb2645-ra8b4500/)|
-|![ABF The Soldiers' Charity example sett](/setts/s12/k50g58b48r4g22r4b48g58k50ra8k10r8-b0000ff-g003300-k000033-rdb2645-ra8b4500/sett.png)|
+| [ABF The Soldiers' Charity](/setts/s12/k25g29b24r2g11r2b24g29k25ra4k5r4~b0000ff-g003300-k000033-rdb2645-ra8b4500~x2/)|
+|![ABF The Soldiers' Charity example sett](/setts/s12/k25g29b24r2g11r2b24g29k25ra4k5r4~b0000ff-g003300-k000033-rdb2645-ra8b4500~x2/sett.png)|

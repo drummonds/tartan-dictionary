@@ -16,5 +16,5 @@ KWKRKWKWKY
 
 | Tartans |
 |---------------|
-| [Little, Arisaid](/setts/s10/k20w16k16r16k16w28k8w28k32y4-k000000-ra02828-we0e0e0-yfcb404/)|
-|![Little, Arisaid example sett](/setts/s10/k20w16k16r16k16w28k8w28k32y4-k000000-ra02828-we0e0e0-yfcb404/sett.png)|
+| [Little, Arisaid](/setts/s10/k5w4k4r4k4w7k2w7k8y1~k000000-ra02828-we0e0e0-yfcb404~x4/)|
+|![Little, Arisaid example sett](/setts/s10/k5w4k4r4k4w7k2w7k8y1~k000000-ra02828-we0e0e0-yfcb404~x4/sett.png)|

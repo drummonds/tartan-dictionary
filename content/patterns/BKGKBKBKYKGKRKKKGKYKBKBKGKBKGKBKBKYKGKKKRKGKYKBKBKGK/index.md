@@ -16,5 +16,5 @@ BKGKBKBKYKGKRKKKGKYKBKBKGKBKGKBKBKYKGKKKRKGKYKBKBKGK
 
 | Tartans |
 |---------------|
-| [MacKay, of Strathnaver](/setts/s52/b36k2g36k2b36k2ba36k2y36k2ga36k2r36k2k36k2ga36k2y36k2ba36k2b36k2g36k2b36k2g36k2b36k2ba36k2y36k2ga36k2k36k2r36k2ga36k2y36k2ba36k2b36k2g36k2-b5c5c5c-ba480800-g285800-ga604000-k101010-r888888-ya08858/)|
-|![MacKay, of Strathnaver example sett](/setts/s52/b36k2g36k2b36k2ba36k2y36k2ga36k2r36k2k36k2ga36k2y36k2ba36k2b36k2g36k2b36k2g36k2b36k2ba36k2y36k2ga36k2k36k2r36k2ga36k2y36k2ba36k2b36k2g36k2-b5c5c5c-ba480800-g285800-ga604000-k101010-r888888-ya08858/sett.png)|
+| [MacKay, of Strathnaver](/setts/s52/b18k1g18k1b18k1ba18k1y18k1ga18k1r18k1k18k1ga18k1y18k1ba18k1b18k1g18k1b18k1g18k1b18k1ba18k1y18k1ga18k1k18k1r18k1ga18k1y18k1ba18k1b18k1g18k1~b5c5c5c-ba480800-g285800-ga604000-k101010-r888888-ya08858~x2/)|
+|![MacKay, of Strathnaver example sett](/setts/s52/b18k1g18k1b18k1ba18k1y18k1ga18k1r18k1k18k1ga18k1y18k1ba18k1b18k1g18k1b18k1g18k1b18k1ba18k1y18k1ga18k1k18k1r18k1ga18k1y18k1ba18k1b18k1g18k1~b5c5c5c-ba480800-g285800-ga604000-k101010-r888888-ya08858~x2/sett.png)|

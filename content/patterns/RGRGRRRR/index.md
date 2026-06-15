@@ -6,7 +6,7 @@ RGRGRRRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6g6r6g42ra42r6ra6rb6-g003820-r9c68a4-ra888888-rbe87878/tartan.png)
+![Woven sample](/setts/s8/r1g1r1g7ra7r1ra1rb1~g003820-r9c68a4-ra888888-rbe87878~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RGRGRRRR
 
 | Tartans |
 |---------------|
-| [Beck-McSorley](/setts/s8/r6g6r6g42ra42r6ra6rb6-g003820-r9c68a4-ra888888-rbe87878/)|
-|![Beck-McSorley example sett](/setts/s8/r6g6r6g42ra42r6ra6rb6-g003820-r9c68a4-ra888888-rbe87878/sett.png)|
+| [Beck-McSorley](/setts/s8/r1g1r1g7ra7r1ra1rb1~g003820-r9c68a4-ra888888-rbe87878~x6/)|
+|![Beck-McSorley example sett](/setts/s8/r1g1r1g7ra7r1ra1rb1~g003820-r9c68a4-ra888888-rbe87878~x6/sett.png)|

@@ -6,7 +6,7 @@ BKGY
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/b96k32g48y8-b1474b4-g006818-k101010-yd8b000/tartan.png)
+![Woven sample](/setts/s4/b12k4g6y1~b1474b4-g006818-k101010-yd8b000~x8/tartan.png)
 
 
 
@@ -18,11 +18,11 @@ BKGY
 
 | Tartans |
 |---------------|
-| [Sinclair of Ulbster (Portrait)](/setts/s4/b96k32g48y8-b1474b4-g006818-k101010-yd8b000/)|
-|![Sinclair of Ulbster (Portrait) example sett](/setts/s4/b96k32g48y8-b1474b4-g006818-k101010-yd8b000/sett.png)|
-| [Sinclair, Sir John](/setts/s4/b32k12g16y2-b304080-g008000-k000000-yf0c000/)|
-|![Sinclair, Sir John example sett](/setts/s4/b32k12g16y2-b304080-g008000-k000000-yf0c000/sett.png)|
-| [Wilson's, No 195](/setts/s4/y20g28k4b4-b5480b0-g008000-k000000-yff8500/)|
-|![Wilson's, No 195 example sett](/setts/s4/y20g28k4b4-b5480b0-g008000-k000000-yff8500/sett.png)|
-| [Wilson's, No 196](/setts/s4/y18g18k20b4-b5480b0-g008000-k000000-yff8500/)|
-|![Wilson's, No 196 example sett](/setts/s4/y18g18k20b4-b5480b0-g008000-k000000-yff8500/sett.png)|
+| [Sinclair of Ulbster (Portrait)](/setts/s4/b12k4g6y1~b1474b4-g006818-k101010-yd8b000~x8/)|
+|![Sinclair of Ulbster (Portrait) example sett](/setts/s4/b12k4g6y1~b1474b4-g006818-k101010-yd8b000~x8/sett.png)|
+| [Sinclair, Sir John](/setts/s4/b16k6g8y1~b304080-g008000-k000000-yf0c000~x2/)|
+|![Sinclair, Sir John example sett](/setts/s4/b16k6g8y1~b304080-g008000-k000000-yf0c000~x2/sett.png)|
+| [Wilson's, No 195](/setts/s4/y5g7k1b1~b5480b0-g008000-k000000-yff8500~x4/)|
+|![Wilson's, No 195 example sett](/setts/s4/y5g7k1b1~b5480b0-g008000-k000000-yff8500~x4/sett.png)|
+| [Wilson's, No 196](/setts/s4/y9g9k10b2~b5480b0-g008000-k000000-yff8500~x2/)|
+|![Wilson's, No 196 example sett](/setts/s4/y9g9k10b2~b5480b0-g008000-k000000-yff8500~x2/sett.png)|

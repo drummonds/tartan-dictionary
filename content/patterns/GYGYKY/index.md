@@ -6,7 +6,7 @@ GYGYKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g44y4g4y24k4y4-g005020-k101010-ye0a126/tartan.png)
+![Woven sample](/setts/s6/g11y1g1y6k1y1~g005020-k101010-ye0a126~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYGYKY
 
 | Tartans |
 |---------------|
-| [Big Spruce Brewing](/setts/s6/g44y4g4y24k4y4-g005020-k101010-ye0a126/)|
-|![Big Spruce Brewing example sett](/setts/s6/g44y4g4y24k4y4-g005020-k101010-ye0a126/sett.png)|
-| [Big Spruce Brewing](/setts/s6/g88y8g8y48k8y8-g003820-k101010-ye8c000/)|
-|![Big Spruce Brewing example sett](/setts/s6/g88y8g8y48k8y8-g003820-k101010-ye8c000/sett.png)|
+| [Big Spruce Brewing](/setts/s6/g11y1g1y6k1y1~g005020-k101010-ye0a126~x4/)|
+|![Big Spruce Brewing example sett](/setts/s6/g11y1g1y6k1y1~g005020-k101010-ye0a126~x4/sett.png)|
+| [Big Spruce Brewing](/setts/s6/g11y1g1y6k1y1~g003820-k101010-ye8c000~x8/)|
+|![Big Spruce Brewing example sett](/setts/s6/g11y1g1y6k1y1~g003820-k101010-ye8c000~x8/sett.png)|

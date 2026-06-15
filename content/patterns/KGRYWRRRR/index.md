@@ -16,5 +16,5 @@ KGRYWRRRR
 
 | Tartans |
 |---------------|
-| [Australian Donkey](/setts/s9/k8g26r6y14w6ra50rb4ra6rc8-g808080-k101010-rfa6496-rabe7832-rbdc0000-rc963c0f-we0e0e0-ya9a0a0/)|
-|![Australian Donkey example sett](/setts/s9/k8g26r6y14w6ra50rb4ra6rc8-g808080-k101010-rfa6496-rabe7832-rbdc0000-rc963c0f-we0e0e0-ya9a0a0/sett.png)|
+| [Australian Donkey](/setts/s9/k4g13r3y7w3ra25rb2ra3rc4~g808080-k101010-rfa6496-rabe7832-rbdc0000-rc963c0f-we0e0e0-ya9a0a0~x2/)|
+|![Australian Donkey example sett](/setts/s9/k4g13r3y7w3ra25rb2ra3rc4~g808080-k101010-rfa6496-rabe7832-rbdc0000-rc963c0f-we0e0e0-ya9a0a0~x2/sett.png)|

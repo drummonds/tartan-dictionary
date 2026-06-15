@@ -6,7 +6,7 @@ BWKWWB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b46w16wa4k10w88b8-b00008c-k101010-wffffff-wa98c8e8/tartan.png)
+![Woven sample](/setts/s6/b23w8wa2k5w44b4~b00008c-k101010-wffffff-wa98c8e8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKWWB
 
 | Tartans |
 |---------------|
-| [WaterAid](/setts/s6/b46w16wa4k10w88b8-b00008c-k101010-wffffff-wa98c8e8/)|
-|![WaterAid example sett](/setts/s6/b46w16wa4k10w88b8-b00008c-k101010-wffffff-wa98c8e8/sett.png)|
+| [WaterAid](/setts/s6/b23w8wa2k5w44b4~b00008c-k101010-wffffff-wa98c8e8~x2/)|
+|![WaterAid example sett](/setts/s6/b23w8wa2k5w44b4~b00008c-k101010-wffffff-wa98c8e8~x2/sett.png)|

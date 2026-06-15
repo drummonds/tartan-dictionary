@@ -6,7 +6,7 @@ GYGGYKYK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8y4g26g16y2k26y4k8-g808080-k101010-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g4y2g13g8y1k13y2k4~g808080-k101010-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGGYKYK
 
 | Tartans |
 |---------------|
-| [Bannockbane Grey #3](/setts/s8/g8y4g26g16y2k26y4k8-g808080-k101010-ye8c000/)|
-|![Bannockbane Grey #3 example sett](/setts/s8/g8y4g26g16y2k26y4k8-g808080-k101010-ye8c000/sett.png)|
+| [Bannockbane Grey #3](/setts/s8/g4y2g13g8y1k13y2k4~g808080-k101010-ye8c000~x2/)|
+|![Bannockbane Grey #3 example sett](/setts/s8/g4y2g13g8y1k13y2k4~g808080-k101010-ye8c000~x2/sett.png)|

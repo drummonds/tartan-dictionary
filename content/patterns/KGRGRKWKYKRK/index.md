@@ -16,5 +16,5 @@ KGRGRKWKYKRK
 
 | Tartans |
 |---------------|
-| [Tara, Murphy](/setts/s12/k16r4k6y4k4w6k4ra20g52r4g6k4-g008000-k000000-rc00000-ra806050-we0e0e0-yf0c000/)|
-|![Tara, Murphy example sett](/setts/s12/k16r4k6y4k4w6k4ra20g52r4g6k4-g008000-k000000-rc00000-ra806050-we0e0e0-yf0c000/sett.png)|
+| [Tara, Murphy](/setts/s12/k8r2k3y2k2w3k2ra10g26r2g3k2~g008000-k000000-rc00000-ra806050-we0e0e0-yf0c000~x2/)|
+|![Tara, Murphy example sett](/setts/s12/k8r2k3y2k2w3k2ra10g26r2g3k2~g008000-k000000-rc00000-ra806050-we0e0e0-yf0c000~x2/sett.png)|

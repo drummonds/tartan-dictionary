@@ -16,5 +16,5 @@ RKBKRKRKGRGW
 
 | Tartans |
 |---------------|
-| [Platinum Golf Scotland](/setts/s12/r4k6b2k90r2k4r4k4g8ra2g2w2-b440044-g003820-k00002c-r888888-rac80000-wfcfcfc/)|
-|![Platinum Golf Scotland example sett](/setts/s12/r4k6b2k90r2k4r4k4g8ra2g2w2-b440044-g003820-k00002c-r888888-rac80000-wfcfcfc/sett.png)|
+| [Platinum Golf Scotland](/setts/s12/r2k3b1k45r1k2r2k2g4ra1g1w1~b440044-g003820-k00002c-r888888-rac80000-wfcfcfc~x2/)|
+|![Platinum Golf Scotland example sett](/setts/s12/r2k3b1k45r1k2r2k2g4ra1g1w1~b440044-g003820-k00002c-r888888-rac80000-wfcfcfc~x2/sett.png)|

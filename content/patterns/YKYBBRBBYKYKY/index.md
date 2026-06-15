@@ -16,5 +16,5 @@ YKYBBRBBYKYKY
 
 | Tartans |
 |---------------|
-| [MacLachlan, Gold Dress (Fashion)](/setts/s13/y32k4y4k4y4b32b32r6b32b32y32k4y4-b202060-k101010-rc80000-ybc8c00/)|
-|![MacLachlan, Gold Dress (Fashion) example sett](/setts/s13/y32k4y4k4y4b32b32r6b32b32y32k4y4-b202060-k101010-rc80000-ybc8c00/sett.png)|
+| [MacLachlan, Gold Dress (Fashion)](/setts/s13/y16k2y2k2y2b16b16r3b16b16y16k2y2~b202060-k101010-rc80000-ybc8c00~x2/)|
+|![MacLachlan, Gold Dress (Fashion) example sett](/setts/s13/y16k2y2k2y2b16b16r3b16b16y16k2y2~b202060-k101010-rc80000-ybc8c00~x2/sett.png)|

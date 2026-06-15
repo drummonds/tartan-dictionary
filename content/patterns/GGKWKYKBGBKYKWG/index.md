@@ -16,5 +16,5 @@ GGKWKYKBGBKYKWG
 
 | Tartans |
 |---------------|
-| [Massie/Massey](/setts/s15/g58ga34k2w6k2y4k20b16g8b16k20y4k2w6g58-b5c8ca8-g604000-ga006818-k101010-wfcfcfc-ye8c000/)|
-|![Massie/Massey example sett](/setts/s15/g58ga34k2w6k2y4k20b16g8b16k20y4k2w6g58-b5c8ca8-g604000-ga006818-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Massie/Massey](/setts/s15/g29ga17k1w3k1y2k10b8g4b8k10y2k1w3g29~b5c8ca8-g604000-ga006818-k101010-wfcfcfc-ye8c000~x2/)|
+|![Massie/Massey example sett](/setts/s15/g29ga17k1w3k1y2k10b8g4b8k10y2k1w3g29~b5c8ca8-g604000-ga006818-k101010-wfcfcfc-ye8c000~x2/sett.png)|

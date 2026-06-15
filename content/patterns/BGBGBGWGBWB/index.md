@@ -16,5 +16,5 @@ BGBGBGWGBWB
 
 | Tartans |
 |---------------|
-| [Chalk (Personal)](/setts/s11/b4w10b10g22w10ga24ba2ga4ba52ga4b4-b003c64-ba2888c4-g5c6428-ga003820-we0e0e0/)|
-|![Chalk (Personal) example sett](/setts/s11/b4w10b10g22w10ga24ba2ga4ba52ga4b4-b003c64-ba2888c4-g5c6428-ga003820-we0e0e0/sett.png)|
+| [Chalk (Personal)](/setts/s11/b2w5b5g11w5ga12ba1ga2ba26ga2b2~b003c64-ba2888c4-g5c6428-ga003820-we0e0e0~x2/)|
+|![Chalk (Personal) example sett](/setts/s11/b2w5b5g11w5ga12ba1ga2ba26ga2b2~b003c64-ba2888c4-g5c6428-ga003820-we0e0e0~x2/sett.png)|

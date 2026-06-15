@@ -6,7 +6,7 @@ RKGKGKY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r4k2g30k14ga30k2y4-g007800-ga784c18-k000000-r8c0000-yc88c00/tartan.png)
+![Woven sample](/setts/s7/r2k1g15k7ga15k1y2~g007800-ga784c18-k000000-r8c0000-yc88c00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGKGKY
 
 | Tartans |
 |---------------|
-| [Unidentified 20th Centuary](/setts/s7/r4k2g30k14ga30k2y4-g007800-ga784c18-k000000-r8c0000-yc88c00/)|
-|![Unidentified 20th Centuary example sett](/setts/s7/r4k2g30k14ga30k2y4-g007800-ga784c18-k000000-r8c0000-yc88c00/sett.png)|
+| [Unidentified 20th Centuary](/setts/s7/r2k1g15k7ga15k1y2~g007800-ga784c18-k000000-r8c0000-yc88c00~x2/)|
+|![Unidentified 20th Centuary example sett](/setts/s7/r2k1g15k7ga15k1y2~g007800-ga784c18-k000000-r8c0000-yc88c00~x2/sett.png)|

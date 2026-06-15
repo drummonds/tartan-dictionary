@@ -16,5 +16,5 @@ KBRKRKWKWR
 
 | Tartans |
 |---------------|
-| [Masai Shuka 05 (Artefact)](/setts/s10/r160w14k4w4k4r6k14r4b24k4-b9050d8-k101010-rc80000-we0e0e0/)|
-|![Masai Shuka 05 (Artefact) example sett](/setts/s10/r160w14k4w4k4r6k14r4b24k4-b9050d8-k101010-rc80000-we0e0e0/sett.png)|
+| [Masai Shuka 05 (Artefact)](/setts/s10/r80w7k2w2k2r3k7r2b12k2~b9050d8-k101010-rc80000-we0e0e0~x2/)|
+|![Masai Shuka 05 (Artefact) example sett](/setts/s10/r80w7k2w2k2r3k7r2b12k2~b9050d8-k101010-rc80000-we0e0e0~x2/sett.png)|

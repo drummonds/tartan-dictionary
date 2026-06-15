@@ -16,5 +16,5 @@ WBYBYBWBY
 
 | Tartans |
 |---------------|
-| [Centrica Energy](/setts/s9/w12b79y6b53ya4b22wa10b24yb8-b00008b-wffffff-waf6a4d5-yee9a00-ya6ca6cd-yb7ccd7c/)|
-|![Centrica Energy example sett](/setts/s9/w12b79y6b53ya4b22wa10b24yb8-b00008b-wffffff-waf6a4d5-yee9a00-ya6ca6cd-yb7ccd7c/sett.png)|
+| [Centrica Energy](/setts/s9/w12b79y6b53ya4b22wa10b24yb8~b00008b-wffffff-waf6a4d5-yee9a00-ya6ca6cd-yb7ccd7c/)|
+|![Centrica Energy example sett](/setts/s9/w12b79y6b53ya4b22wa10b24yb8~b00008b-wffffff-waf6a4d5-yee9a00-ya6ca6cd-yb7ccd7c/sett.png)|

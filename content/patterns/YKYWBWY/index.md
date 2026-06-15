@@ -6,7 +6,7 @@ YKYWBWY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/y4w2b12w2ya4k34ya2-b202060-k00002c-wfcfcfc-yd09800-yafccc00/tartan.png)
+![Woven sample](/setts/s7/y2w1b6w1ya2k17ya1~b202060-k00002c-wfcfcfc-yd09800-yafccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ YKYWBWY
 
 | Tartans |
 |---------------|
-| [East Tennessee State University](/setts/s7/y4w2b12w2ya4k34ya2-b202060-k00002c-wfcfcfc-yd09800-yafccc00/)|
-|![East Tennessee State University example sett](/setts/s7/y4w2b12w2ya4k34ya2-b202060-k00002c-wfcfcfc-yd09800-yafccc00/sett.png)|
+| [East Tennessee State University](/setts/s7/y2w1b6w1ya2k17ya1~b202060-k00002c-wfcfcfc-yd09800-yafccc00~x2/)|
+|![East Tennessee State University example sett](/setts/s7/y2w1b6w1ya2k17ya1~b202060-k00002c-wfcfcfc-yd09800-yafccc00~x2/sett.png)|

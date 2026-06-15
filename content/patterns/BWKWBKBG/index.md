@@ -6,7 +6,7 @@ BWKWBKBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b8w16k8w4b16k4b4g4-b002cc0-g48783c-k000000-wc8c8c8/tartan.png)
+![Woven sample](/setts/s8/b2w4k2w1b4k1b1g1~b002cc0-g48783c-k000000-wc8c8c8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWKWBKBG
 
 | Tartans |
 |---------------|
-| [Culloden - 1977 (Fashion)](/setts/s8/b8w16k8w4b16k4b4g4-b002cc0-g48783c-k000000-wc8c8c8/)|
-|![Culloden - 1977 (Fashion) example sett](/setts/s8/b8w16k8w4b16k4b4g4-b002cc0-g48783c-k000000-wc8c8c8/sett.png)|
+| [Culloden - 1977 (Fashion)](/setts/s8/b2w4k2w1b4k1b1g1~b002cc0-g48783c-k000000-wc8c8c8~x4/)|
+|![Culloden - 1977 (Fashion) example sett](/setts/s8/b2w4k2w1b4k1b1g1~b002cc0-g48783c-k000000-wc8c8c8~x4/sett.png)|

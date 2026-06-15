@@ -6,7 +6,7 @@ KWBR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/k8w64b64r8-b3c0096-k101010-rdc0000-we0e0e0/tartan.png)
+![Woven sample](/setts/s4/k1w8b8r1~b3c0096-k101010-rdc0000-we0e0e0~x8/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KWBR
 
 | Tartans |
 |---------------|
-| [MacRae Dress Purple](/setts/s4/k8w64b64r8-b3c0096-k101010-rdc0000-we0e0e0/)|
-|![MacRae Dress Purple example sett](/setts/s4/k8w64b64r8-b3c0096-k101010-rdc0000-we0e0e0/sett.png)|
-| [MacRae - 2000 (Dress, Purple)](/setts/s4/k8w70b70r8-b780078-k101010-rb468ac-wf8f8f8/)|
-|![MacRae - 2000 (Dress, Purple) example sett](/setts/s4/k8w70b70r8-b780078-k101010-rb468ac-wf8f8f8/sett.png)|
+| [MacRae Dress Purple](/setts/s4/k1w8b8r1~b3c0096-k101010-rdc0000-we0e0e0~x8/)|
+|![MacRae Dress Purple example sett](/setts/s4/k1w8b8r1~b3c0096-k101010-rdc0000-we0e0e0~x8/sett.png)|
+| [MacRae - 2000 (Dress, Purple)](/setts/s4/k4w35b35r4~b780078-k101010-rb468ac-wf8f8f8~x2/)|
+|![MacRae - 2000 (Dress, Purple) example sett](/setts/s4/k4w35b35r4~b780078-k101010-rb468ac-wf8f8f8~x2/sett.png)|

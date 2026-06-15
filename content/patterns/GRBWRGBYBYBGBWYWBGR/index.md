@@ -16,5 +16,5 @@ GRBWRGBYBYBGBWYWBGR
 
 | Tartans |
 |---------------|
-| [O'Kelly Family (Personal)](/setts/s19/g56r24b2w4r2g8b40y4b6y4b6g14b6w2y4w2b40g8r24-b000064-g005020-r960028-wf8f8f8-yd87c00/)|
-|![O'Kelly Family (Personal) example sett](/setts/s19/g56r24b2w4r2g8b40y4b6y4b6g14b6w2y4w2b40g8r24-b000064-g005020-r960028-wf8f8f8-yd87c00/sett.png)|
+| [O'Kelly Family (Personal)](/setts/s19/g28r12b1w2r1g4b20y2b3y2b3g7b3w1y2w1b20g4r12~b000064-g005020-r960028-wf8f8f8-yd87c00~x2/)|
+|![O'Kelly Family (Personal) example sett](/setts/s19/g28r12b1w2r1g4b20y2b3y2b3g7b3w1y2w1b20g4r12~b000064-g005020-r960028-wf8f8f8-yd87c00~x2/sett.png)|

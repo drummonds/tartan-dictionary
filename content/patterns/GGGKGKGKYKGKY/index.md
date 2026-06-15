@@ -16,5 +16,5 @@ GGGKGKGKYKGKY
 
 | Tartans |
 |---------------|
-| [Celtic Football Club (2005)](/setts/s13/g12ga6g44k4g8k28ga10k6y10k6ga40k8ya8-g003820-ga285800-k101010-yc4bc68-yabc8c00/)|
-|![Celtic Football Club (2005) example sett](/setts/s13/g12ga6g44k4g8k28ga10k6y10k6ga40k8ya8-g003820-ga285800-k101010-yc4bc68-yabc8c00/sett.png)|
+| [Celtic Football Club (2005)](/setts/s13/g6ga3g22k2g4k14ga5k3y5k3ga20k4ya4~g003820-ga285800-k101010-yc4bc68-yabc8c00~x2/)|
+|![Celtic Football Club (2005) example sett](/setts/s13/g6ga3g22k2g4k14ga5k3y5k3ga20k4ya4~g003820-ga285800-k101010-yc4bc68-yabc8c00~x2/sett.png)|

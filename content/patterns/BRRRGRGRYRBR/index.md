@@ -16,5 +16,5 @@ BRRRGRGRYRBR
 
 | Tartans |
 |---------------|
-| [McPrato](/setts/s12/r104b24ra18y4ra4g4ra4ga22r14ra4r6b4-b2c2c80-g289c18-ga006818-rc80000-ra888888-ye8c000/)|
-|![McPrato example sett](/setts/s12/r104b24ra18y4ra4g4ra4ga22r14ra4r6b4-b2c2c80-g289c18-ga006818-rc80000-ra888888-ye8c000/sett.png)|
+| [McPrato](/setts/s12/r52b12ra9y2ra2g2ra2ga11r7ra2r3b2~b2c2c80-g289c18-ga006818-rc80000-ra888888-ye8c000~x2/)|
+|![McPrato example sett](/setts/s12/r52b12ra9y2ra2g2ra2ga11r7ra2r3b2~b2c2c80-g289c18-ga006818-rc80000-ra888888-ye8c000~x2/sett.png)|

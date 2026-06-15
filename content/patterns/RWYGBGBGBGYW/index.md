@@ -16,5 +16,5 @@ RWYGBGBGBGYW
 
 | Tartans |
 |---------------|
-| [Walter (Personal)](/setts/s12/r48w6y8g36b36ga6ba8ga6b36g36y8w6-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/)|
-|![Walter (Personal) example sett](/setts/s12/r48w6y8g36b36ga6ba8ga6b36g36y8w6-b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Walter (Personal)](/setts/s12/r24w3y4g18b18ga3ba4ga3b18g18y4w3~b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Walter (Personal) example sett](/setts/s12/r24w3y4g18b18ga3ba4ga3b18g18y4w3~b780078-ba5c8ca8-g003820-ga5c6428-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

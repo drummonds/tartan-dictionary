@@ -16,5 +16,5 @@ GBWBGKBBBWR
 
 | Tartans |
 |---------------|
-| [New Millennium](/setts/s11/g8b46w46b4g8k12b48ba8b12w6r8-b1c0070-ba2474e8-g006818-k101010-r880000-wc0c0c0/)|
-|![New Millennium example sett](/setts/s11/g8b46w46b4g8k12b48ba8b12w6r8-b1c0070-ba2474e8-g006818-k101010-r880000-wc0c0c0/sett.png)|
+| [New Millennium](/setts/s11/g4b23w23b2g4k6b24ba4b6w3r4~b1c0070-ba2474e8-g006818-k101010-r880000-wc0c0c0~x2/)|
+|![New Millennium example sett](/setts/s11/g4b23w23b2g4k6b24ba4b6w3r4~b1c0070-ba2474e8-g006818-k101010-r880000-wc0c0c0~x2/sett.png)|

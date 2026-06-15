@@ -16,5 +16,5 @@ RKWKWKWBWKWRWRYRW
 
 | Tartans |
 |---------------|
-| [Clanedin](/setts/s17/r6k16w4k6w4k4w12b6w12k4w4ra6w4ra8y4ra20w6-b304080-k000000-rc00000-ra806050-we0e0e0-yf0c000/)|
-|![Clanedin example sett](/setts/s17/r6k16w4k6w4k4w12b6w12k4w4ra6w4ra8y4ra20w6-b304080-k000000-rc00000-ra806050-we0e0e0-yf0c000/sett.png)|
+| [Clanedin](/setts/s17/r3k8w2k3w2k2w6b3w6k2w2ra3w2ra4y2ra10w3~b304080-k000000-rc00000-ra806050-we0e0e0-yf0c000~x2/)|
+|![Clanedin example sett](/setts/s17/r3k8w2k3w2k2w6b3w6k2w2ra3w2ra4y2ra10w3~b304080-k000000-rc00000-ra806050-we0e0e0-yf0c000~x2/sett.png)|

@@ -6,7 +6,7 @@ KBYKBYBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k80b20y2k80b20y4b20y8-b1c1c1c-k101010-yfccc00/tartan.png)
+![Woven sample](/setts/s8/k40b10y1k40b10y2b10y4~b1c1c1c-k101010-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBYKBYBY
 
 | Tartans |
 |---------------|
-| [1891 (Commemorative)](/setts/s8/k80b20y2k80b20y4b20y8-b1c1c1c-k101010-yfccc00/)|
-|![1891 (Commemorative) example sett](/setts/s8/k80b20y2k80b20y4b20y8-b1c1c1c-k101010-yfccc00/sett.png)|
+| [1891 (Commemorative)](/setts/s8/k40b10y1k40b10y2b10y4~b1c1c1c-k101010-yfccc00~x2/)|
+|![1891 (Commemorative) example sett](/setts/s8/k40b10y1k40b10y2b10y4~b1c1c1c-k101010-yfccc00~x2/sett.png)|

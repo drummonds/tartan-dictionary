@@ -16,5 +16,5 @@ BKBBKGRGKWWKGRGKRBRBRBW
 
 | Tartans |
 |---------------|
-| [Rankin (Dalgleish)](/setts/s23/b36k4b4b4k40g20r4g20k2w2w4k2g20r4g20k40r2b28r6b4r4b8w2-b1c0070-g006818-k101010-r880000-wc0c0c0/)|
-|![Rankin (Dalgleish) example sett](/setts/s23/b36k4b4b4k40g20r4g20k2w2w4k2g20r4g20k40r2b28r6b4r4b8w2-b1c0070-g006818-k101010-r880000-wc0c0c0/sett.png)|
+| [Rankin (Dalgleish)](/setts/s23/b18k2b2b2k20g10r2g10k1w1w2k1g10r2g10k20r1b14r3b2r2b4w1~b1c0070-g006818-k101010-r880000-wc0c0c0~x2/)|
+|![Rankin (Dalgleish) example sett](/setts/s23/b18k2b2b2k20g10r2g10k1w1w2k1g10r2g10k20r1b14r3b2r2b4w1~b1c0070-g006818-k101010-r880000-wc0c0c0~x2/sett.png)|

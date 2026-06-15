@@ -16,5 +16,5 @@ GKGKBYBYBKGKGR
 
 | Tartans |
 |---------------|
-| [Ogilvie Hunting](/setts/s14/r8g6k6g52k50b8y6b60y6b8k50g52k6g6-b5c8ca8-g789484-k101010-re87878-ye8c000/)|
-|![Ogilvie Hunting example sett](/setts/s14/r8g6k6g52k50b8y6b60y6b8k50g52k6g6-b5c8ca8-g789484-k101010-re87878-ye8c000/sett.png)|
+| [Ogilvie Hunting](/setts/s14/r4g3k3g26k25b4y3b30y3b4k25g26k3g3~b5c8ca8-g789484-k101010-re87878-ye8c000~x2/)|
+|![Ogilvie Hunting example sett](/setts/s14/r4g3k3g26k25b4y3b30y3b4k25g26k3g3~b5c8ca8-g789484-k101010-re87878-ye8c000~x2/sett.png)|

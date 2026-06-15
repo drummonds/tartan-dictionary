@@ -6,7 +6,7 @@ BBBRBBBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b40ba18b40r4b40ba18b40g4-b780078-ba2c2c80-g006818-rc80000/tartan.png)
+![Woven sample](/setts/s8/b20ba9b20r2b20ba9b20g2~b780078-ba2c2c80-g006818-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BBBRBBBG
 
 | Tartans |
 |---------------|
-| [Scottish Netball Association (1987)](/setts/s8/b40ba18b40r4b40ba18b40g4-b780078-ba2c2c80-g006818-rc80000/)|
-|![Scottish Netball Association (1987) example sett](/setts/s8/b40ba18b40r4b40ba18b40g4-b780078-ba2c2c80-g006818-rc80000/sett.png)|
+| [Scottish Netball Association (1987)](/setts/s8/b20ba9b20r2b20ba9b20g2~b780078-ba2c2c80-g006818-rc80000~x2/)|
+|![Scottish Netball Association (1987) example sett](/setts/s8/b20ba9b20r2b20ba9b20g2~b780078-ba2c2c80-g006818-rc80000~x2/sett.png)|

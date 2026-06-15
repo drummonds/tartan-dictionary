@@ -16,5 +16,5 @@ GRGBBRBBBRBBGR
 
 | Tartans |
 |---------------|
-| [Grampian](/setts/s14/g48r4g6b28ba48r4ba6b6ba6r4ba48b28g6r4-b303070-ba14283c-g5c6428-rc80000/)|
-|![Grampian example sett](/setts/s14/g48r4g6b28ba48r4ba6b6ba6r4ba48b28g6r4-b303070-ba14283c-g5c6428-rc80000/sett.png)|
+| [Grampian](/setts/s14/g24r2g3b14ba24r2ba3b3ba3r2ba24b14g3r2~b303070-ba14283c-g5c6428-rc80000~x2/)|
+|![Grampian example sett](/setts/s14/g24r2g3b14ba24r2ba3b3ba3r2ba24b14g3r2~b303070-ba14283c-g5c6428-rc80000~x2/sett.png)|

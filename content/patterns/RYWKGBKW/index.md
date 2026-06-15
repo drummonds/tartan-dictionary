@@ -6,7 +6,7 @@ RYWKGBKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r8y6w24k32g10b40k8w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8-ye8c000/tartan.png)
+![Woven sample](/setts/s8/r4y3w12k16g5b20k4w2~b2c2c80-g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYWKGBKW
 
 | Tartans |
 |---------------|
-| [Iowa Dress (District)](/setts/s8/r8y6w24k32g10b40k8w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8-ye8c000/)|
-|![Iowa Dress (District) example sett](/setts/s8/r8y6w24k32g10b40k8w4-b2c2c80-g006818-k101010-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Iowa Dress (District)](/setts/s8/r4y3w12k16g5b20k4w2~b2c2c80-g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Iowa Dress (District) example sett](/setts/s8/r4y3w12k16g5b20k4w2~b2c2c80-g006818-k101010-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

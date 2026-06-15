@@ -16,7 +16,7 @@ BYGBKRKRKRR
 
 | Tartans |
 |---------------|
-| [Blais (Personal)](/setts/s11/b40y2g2b6k2r4k2ra20k2r4ra8-b2c2c80-g604000-k101010-r888888-raff0000-ye8c000/)|
-|![Blais (Personal) example sett](/setts/s11/b40y2g2b6k2r4k2ra20k2r4ra8-b2c2c80-g604000-k101010-r888888-raff0000-ye8c000/sett.png)|
-| [Blais (Personal)](/setts/s11/b80y4g4b12k4r8k4ra40k4r8ra16-b2c2c80-g604000-k101010-r888888-rac80000-ye8c000/)|
-|![Blais (Personal) example sett](/setts/s11/b80y4g4b12k4r8k4ra40k4r8ra16-b2c2c80-g604000-k101010-r888888-rac80000-ye8c000/sett.png)|
+| [Blais (Personal)](/setts/s11/b20y1g1b3k1r2k1ra10k1r2ra4~b2c2c80-g604000-k101010-r888888-raff0000-ye8c000~x2/)|
+|![Blais (Personal) example sett](/setts/s11/b20y1g1b3k1r2k1ra10k1r2ra4~b2c2c80-g604000-k101010-r888888-raff0000-ye8c000~x2/sett.png)|
+| [Blais (Personal)](/setts/s11/b20y1g1b3k1r2k1ra10k1r2ra4~b2c2c80-g604000-k101010-r888888-rac80000-ye8c000~x4/)|
+|![Blais (Personal) example sett](/setts/s11/b20y1g1b3k1r2k1ra10k1r2ra4~b2c2c80-g604000-k101010-r888888-rac80000-ye8c000~x4/sett.png)|

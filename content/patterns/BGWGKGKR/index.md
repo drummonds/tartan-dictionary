@@ -6,7 +6,7 @@ BGWGKGKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b18g10w2g30k4g2k88r2-b000080-g006400-k101010-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s8/b9g5w1g15k2g1k44r1~b000080-g006400-k101010-rff0000-wffffff~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGWGKGKR
 
 | Tartans |
 |---------------|
-| [Ataç, H.M. & I.C. (Personal)](/setts/s8/b18g10w2g30k4g2k88r2-b000080-g006400-k101010-rff0000-wffffff/)|
-|![Ataç, H.M. & I.C. (Personal) example sett](/setts/s8/b18g10w2g30k4g2k88r2-b000080-g006400-k101010-rff0000-wffffff/sett.png)|
+| [Ataç, H.M. & I.C. (Personal)](/setts/s8/b9g5w1g15k2g1k44r1~b000080-g006400-k101010-rff0000-wffffff~x2/)|
+|![Ataç, H.M. & I.C. (Personal) example sett](/setts/s8/b9g5w1g15k2g1k44r1~b000080-g006400-k101010-rff0000-wffffff~x2/sett.png)|

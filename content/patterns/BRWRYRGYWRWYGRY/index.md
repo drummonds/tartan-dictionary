@@ -16,5 +16,5 @@ BRWRYRGYWRWYGRY
 
 | Tartans |
 |---------------|
-| [Contrecoeur](/setts/s15/y20r2g4y4w4ra2w4y4g4r2y20ra14wa6ra26b10-b304080-g008000-r806050-ra802040-wc0c0c0-wae0e0e0-yf0c000/)|
-|![Contrecoeur example sett](/setts/s15/y20r2g4y4w4ra2w4y4g4r2y20ra14wa6ra26b10-b304080-g008000-r806050-ra802040-wc0c0c0-wae0e0e0-yf0c000/sett.png)|
+| [Contrecoeur](/setts/s15/y10r1g2y2w2ra1w2y2g2r1y10ra7wa3ra13b5~b304080-g008000-r806050-ra802040-wc0c0c0-wae0e0e0-yf0c000~x2/)|
+|![Contrecoeur example sett](/setts/s15/y10r1g2y2w2ra1w2y2g2r1y10ra7wa3ra13b5~b304080-g008000-r806050-ra802040-wc0c0c0-wae0e0e0-yf0c000~x2/sett.png)|

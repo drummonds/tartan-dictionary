@@ -6,7 +6,7 @@ RBBGYYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6b40ba40g4y8ya34w6-b112f4b-ba213e66-g36924f-re91009-wffffff-yacad9f-yaa5afb8/tartan.png)
+![Woven sample](/setts/s7/r3b20ba20g2y4ya17w3~b112f4b-ba213e66-g36924f-re91009-wffffff-yacad9f-yaa5afb8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBBGYYW
 
 | Tartans |
 |---------------|
-| [Silversea](/setts/s7/r6b40ba40g4y8ya34w6-b112f4b-ba213e66-g36924f-re91009-wffffff-yacad9f-yaa5afb8/)|
-|![Silversea example sett](/setts/s7/r6b40ba40g4y8ya34w6-b112f4b-ba213e66-g36924f-re91009-wffffff-yacad9f-yaa5afb8/sett.png)|
+| [Silversea](/setts/s7/r3b20ba20g2y4ya17w3~b112f4b-ba213e66-g36924f-re91009-wffffff-yacad9f-yaa5afb8~x2/)|
+|![Silversea example sett](/setts/s7/r3b20ba20g2y4ya17w3~b112f4b-ba213e66-g36924f-re91009-wffffff-yacad9f-yaa5afb8~x2/sett.png)|

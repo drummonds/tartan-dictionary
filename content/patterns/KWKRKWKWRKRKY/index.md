@@ -16,5 +16,5 @@ KWKRKWKWRKRKY
 
 | Tartans |
 |---------------|
-| [Coeur D'Alene Firefighters Richard Gaines Memorial](/setts/s13/k122w2k2r4k2w2k32w2r8k4r12k2y8-k101010-rff0000-wffffff-yffde00/)|
-|![Coeur D'Alene Firefighters Richard Gaines Memorial example sett](/setts/s13/k122w2k2r4k2w2k32w2r8k4r12k2y8-k101010-rff0000-wffffff-yffde00/sett.png)|
+| [Coeur D'Alene Firefighters Richard Gaines Memorial](/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~k101010-rff0000-wffffff-yffde00~x2/)|
+|![Coeur D'Alene Firefighters Richard Gaines Memorial example sett](/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~k101010-rff0000-wffffff-yffde00~x2/sett.png)|

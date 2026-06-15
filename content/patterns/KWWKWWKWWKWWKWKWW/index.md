@@ -16,5 +16,5 @@ KWWKWWKWWKWWKWKWW
 
 | Tartans |
 |---------------|
-| [Purdy Black (Illinois)](/setts/s17/k40w2wa4k8w2wa6k8w2wa8k8w2wa10k6w2k108w2wa12-k120a01-wf7f1e8-wacc99ff/)|
-|![Purdy Black (Illinois) example sett](/setts/s17/k40w2wa4k8w2wa6k8w2wa8k8w2wa10k6w2k108w2wa12-k120a01-wf7f1e8-wacc99ff/sett.png)|
+| [Purdy Black (Illinois)](/setts/s17/k20w1wa2k4w1wa3k4w1wa4k4w1wa5k3w1k54w1wa6~k120a01-wf7f1e8-wacc99ff~x2/)|
+|![Purdy Black (Illinois) example sett](/setts/s17/k20w1wa2k4w1wa3k4w1wa4k4w1wa5k3w1k54w1wa6~k120a01-wf7f1e8-wacc99ff~x2/sett.png)|

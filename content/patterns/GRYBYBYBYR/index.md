@@ -16,5 +16,5 @@ GRYBYBYBYR
 
 | Tartans |
 |---------------|
-| [Unnamed](/setts/s10/r36y4b12y4b8y4b24y6r8g4-b3850c8-g009468-r880000-yfccc00/)|
-|![Unnamed example sett](/setts/s10/r36y4b12y4b8y4b24y6r8g4-b3850c8-g009468-r880000-yfccc00/sett.png)|
+| [Unnamed](/setts/s10/r18y2b6y2b4y2b12y3r4g2~b3850c8-g009468-r880000-yfccc00~x2/)|
+|![Unnamed example sett](/setts/s10/r18y2b6y2b4y2b12y3r4g2~b3850c8-g009468-r880000-yfccc00~x2/sett.png)|

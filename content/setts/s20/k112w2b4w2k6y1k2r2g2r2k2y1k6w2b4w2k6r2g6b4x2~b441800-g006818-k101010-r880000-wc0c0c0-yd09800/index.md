@@ -1,0 +1,49 @@
+---
+title: "Wcwm 9275-1572-2"
+date: 2023-03-18
+---
+In pattern [BGRKWBWKYKRGRKYKWBWK](/patterns/bgrkwbwkykrgrkykwbwk/).
+
+
+This was sourced from register-of-tartans.  It is a [20 stripes tartan](/stripes/stripes20/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4573
+
+## Thread count
+DR/8 G12 DRa4 K12 N4 DR8 N4 K12 DY2 K4 DRa4 G4 DRa4 K4 DY2 K12 N4 DR8 N4 K/224
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DR | <code style="background-color:#441800;"><span style="color:#441800;filter:grayscale(1) invert(1) contrast(100);">#441800</span></code> `#441800` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DRa | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| N | <code style="background-color:#C0C0C0;"><span style="color:#C0C0C0;filter:grayscale(1) invert(1) contrast(100);">#C0C0C0</span></code> `#C0C0C0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.17 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [New World Celts (Corporate)](/setts/s13/k75b2w2k2y2g4r3k2r4k1w4k2b5x2~b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 1.72
+1. [MacHattie Family Tartan Tartan Number: 5917. Earliest known date: 2003 A tartan for the McHattie family of Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k45b2r2ra2y1w1y1ra2r2b2x2~b003c64-k101010-r880000-rac80000-we0e0e0-ye8c000/) — ΔT 1.79
+1. [Western Australia-Pending (District)](/setts/s13/k114b2k3b3k5b5k2g5w6r5y3k3ba14~b2888c4-ba2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/) — ΔT 1.82
+1. [Watt (Corporate/Name)](/setts/s12/k96b8k12ba3k3ba3k3g20r8k3r4w4~b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0/) — ΔT 2.14
+1. [Platinum Golf Scotland](/setts/s12/r2k3b1k45r1k2r2k2g4ra1g1w1x2~b440044-g003820-k00002c-r888888-rac80000-wfcfcfc/) — ΔT 2.19
+1. [Spirit of Lanarkshire (Corporate)](/setts/s8/k83y2b4r2k8g5r4w3x2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/) — ΔT 2.26
+1. [CoVASS (Corporate)](/setts/s11/k90b1k2r2w1k1r4k2g1k2ba2x2~b780078-ba2c2c80-g006818-k101010-re87878-we0e0e0/) — ΔT 2.37
+1. [Initial City Link #2](/setts/s11/k50g7k4w2k2y2k2g7k2ga3y2x2~g003c14-ga005020-k101010-we0e0e0-ye8c000/) — ΔT 2.37
+1. [Royal Canadian Mounted Police Corporate Tartan Tartan Number: 2447. Earliest known date: 05/05/1998 Designed by Violet Holmes, B.C. Canada and adopted as the official RCMP tartan. Weft differs in having red in place of orange so making 6 weft colours. Sample presented to the RCMP by Priness Anne during a visit to New Brunswick on 25th June 1998. Lochcarron records say December 1997. Different weft - orange missing. Original count had dark blue in place of the black shown here in the Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/k76b1k2w1g14r5k13ra1y1ra1k13r5g14w1k2b1x2~b0064ac-g006818-k000000-r800000-rab84c00-wc0c0c0-yd09000/) — ΔT 2.38
+1. [Firefighters](/setts/s14/k91y3k11w2r3k2r3w2k3r6k3r3y3w3x2~k101010-rc8002c-wf8f8f8-ybc8c00/) — ΔT 2.39
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k75b2w2k2y2g4r3k2r4k1w4k2b5x2~b2888c4-g003820-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="496.2" cy="35.5" r="4" fill="#3465a4"><title>New World Celts (Corporate)</title></circle></a><a href="/setts/s10/k45b2r2ra2y1w1y1ra2r2b2x2~b003c64-k101010-r880000-rac80000-we0e0e0-ye8c000/"><circle cx="509.9" cy="61.8" r="4" fill="#3465a4"><title>MacHattie Family Tartan Tartan Number: 5917. Earliest known date: 2003 A tartan for the McHattie family of Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/k114b2k3b3k5b5k2g5w6r5y3k3ba14~b2888c4-ba2c2c80-g006818-k101010-rc80000-we0e0e0-yfccc00/"><circle cx="475.4" cy="26.3" r="4" fill="#3465a4"><title>Western Australia-Pending (District)</title></circle></a><a href="/setts/s12/k96b8k12ba3k3ba3k3g20r8k3r4w4~b2c2c80-ba780078-g006818-k101010-rc80000-we0e0e0/"><circle cx="443.9" cy="76.2" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/setts/s12/r2k3b1k45r1k2r2k2g4ra1g1w1x2~b440044-g003820-k00002c-r888888-rac80000-wfcfcfc/"><circle cx="549.0" cy="65.0" r="4" fill="#3465a4"><title>Platinum Golf Scotland</title></circle></a><a href="/setts/s8/k83y2b4r2k8g5r4w3x2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/"><circle cx="562.8" cy="89.9" r="4" fill="#3465a4"><title>Spirit of Lanarkshire (Corporate)</title></circle></a><a href="/setts/s11/k90b1k2r2w1k1r4k2g1k2ba2x2~b780078-ba2c2c80-g006818-k101010-re87878-we0e0e0/"><circle cx="626.0" cy="65.1" r="4" fill="#3465a4"><title>CoVASS (Corporate)</title></circle></a><a href="/setts/s11/k50g7k4w2k2y2k2g7k2ga3y2x2~g003c14-ga005020-k101010-we0e0e0-ye8c000/"><circle cx="476.0" cy="111.7" r="4" fill="#3465a4"><title>Initial City Link #2</title></circle></a><a href="/setts/s16/k76b1k2w1g14r5k13ra1y1ra1k13r5g14w1k2b1x2~b0064ac-g006818-k000000-r800000-rab84c00-wc0c0c0-yd09000/"><circle cx="425.4" cy="29.4" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police Corporate Tartan Tartan Number: 2447. Earliest known date: 05/05/1998 Designed by Violet Holmes, B.C. Canada and adopted as the official RCMP tartan. Weft differs in having red in place of orange so making 6 weft colours. Sample presented to the RCMP by Priness Anne during a visit to New Brunswick on 25th June 1998. Lochcarron records say December 1997. Different weft - orange missing. Original count had dark blue in place of the black shown here in the Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k91y3k11w2r3k2r3w2k3r6k3r3y3w3x2~k101010-rc8002c-wf8f8f8-ybc8c00/"><circle cx="561.4" cy="68.7" r="4" fill="#3465a4"><title>Firefighters</title></circle></a><circle cx="562.8" cy="25.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s20/k112w2b4w2k6y1k2r2g2r2k2y1k6w2b4w2k6r2g6b4x2~b441800-g006818-k101010-r880000-wc0c0c0-yd09800/

@@ -16,5 +16,5 @@ BYBKBKBKBKBBBBBW
 
 | Tartans |
 |---------------|
-| [World Corporate Golf Challenge](/setts/s16/b4y4b44k12b6k8b6k8b6k12ba24bb8ba4bb12ba14w4-b002859-ba0f4176-bb4c6784-k000733-wffffff-ya6a8a5/)|
-|![World Corporate Golf Challenge example sett](/setts/s16/b4y4b44k12b6k8b6k8b6k12ba24bb8ba4bb12ba14w4-b002859-ba0f4176-bb4c6784-k000733-wffffff-ya6a8a5/sett.png)|
+| [World Corporate Golf Challenge](/setts/s16/b2y2b22k6b3k4b3k4b3k6ba12bb4ba2bb6ba7w2~b002859-ba0f4176-bb4c6784-k000733-wffffff-ya6a8a5~x2/)|
+|![World Corporate Golf Challenge example sett](/setts/s16/b2y2b22k6b3k4b3k4b3k6ba12bb4ba2bb6ba7w2~b002859-ba0f4176-bb4c6784-k000733-wffffff-ya6a8a5~x2/sett.png)|

@@ -16,5 +16,5 @@ GGRGRGRGRGRG
 
 | Tartans |
 |---------------|
-| [Maple Leaf](/setts/s12/g48r8g8r32ga32r32g8r8g48ra16ga16gb32-g003000-ga008000-gb607030-r900030-ra806050/)|
-|![Maple Leaf example sett](/setts/s12/g48r8g8r32ga32r32g8r8g48ra16ga16gb32-g003000-ga008000-gb607030-r900030-ra806050/sett.png)|
+| [Maple Leaf](/setts/s12/g6r1g1r4ga4r4g1r1g6ra2ga2gb4~g003000-ga008000-gb607030-r900030-ra806050~x8/)|
+|![Maple Leaf example sett](/setts/s12/g6r1g1r4ga4r4g1r1g6ra2ga2gb4~g003000-ga008000-gb607030-r900030-ra806050~x8/sett.png)|

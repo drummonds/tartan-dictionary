@@ -16,5 +16,5 @@ BBBBBBBBKRK
 
 | Tartans |
 |---------------|
-| [Lunar](/setts/s11/k40r4k12b28ba4b4ba4b4ba4b4ba28-b3c2010-ba646464-k000000-r8c0000/)|
-|![Lunar example sett](/setts/s11/k40r4k12b28ba4b4ba4b4ba4b4ba28-b3c2010-ba646464-k000000-r8c0000/sett.png)|
+| [Lunar](/setts/s11/k10r1k3b7ba1b1ba1b1ba1b1ba7~b3c2010-ba646464-k000000-r8c0000~x4/)|
+|![Lunar example sett](/setts/s11/k10r1k3b7ba1b1ba1b1ba1b1ba7~b3c2010-ba646464-k000000-r8c0000~x4/sett.png)|

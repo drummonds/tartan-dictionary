@@ -16,5 +16,5 @@ KGGYRYYYRYGGKW
 
 | Tartans |
 |---------------|
-| [Saskatchewan](/setts/s14/w4k2g12ga22y52r4y2ya4y2r4y52ga22g12k2-g006818-ga604000-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/)|
-|![Saskatchewan example sett](/setts/s14/w4k2g12ga22y52r4y2ya4y2r4y52ga22g12k2-g006818-ga604000-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000/sett.png)|
+| [Saskatchewan](/setts/s14/w2k1g6ga11y26r2y1ya2y1r2y26ga11g6k1~g006818-ga604000-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000~x2/)|
+|![Saskatchewan example sett](/setts/s14/w2k1g6ga11y26r2y1ya2y1r2y26ga11g6k1~g006818-ga604000-k101010-rc80000-wfcfcfc-ybc8c00-yae8c000~x2/sett.png)|

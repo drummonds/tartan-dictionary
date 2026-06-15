@@ -16,5 +16,5 @@ BGBGBGBKGKBKGBGKBKGK
 
 | Tartans |
 |---------------|
-| [Blackwater (Personal)](/setts/s20/b8g4b32g4b32g4b8k8g4k14b4k8g34b4g34k8b4k14g4k8-b0c585c-g006428-k101010/)|
-|![Blackwater (Personal) example sett](/setts/s20/b8g4b32g4b32g4b8k8g4k14b4k8g34b4g34k8b4k14g4k8-b0c585c-g006428-k101010/sett.png)|
+| [Blackwater (Personal)](/setts/s20/b4g2b16g2b16g2b4k4g2k7b2k4g17b2g17k4b2k7g2k4~b0c585c-g006428-k101010~x2/)|
+|![Blackwater (Personal) example sett](/setts/s20/b4g2b16g2b16g2b4k4g2k7b2k4g17b2g17k4b2k7g2k4~b0c585c-g006428-k101010~x2/sett.png)|

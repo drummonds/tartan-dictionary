@@ -6,7 +6,7 @@ GKGKRKW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g92k36g12k26r8k8w8-g004810-k101010-rc80000-we0e0e0/tartan.png)
+![Woven sample](/setts/s7/g46k18g6k13r4k4w4~g004810-k101010-rc80000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GKGKRKW
 
 | Tartans |
 |---------------|
-| [Page](/setts/s7/g92k36g12k26r8k8w8-g004810-k101010-rc80000-we0e0e0/)|
-|![Page example sett](/setts/s7/g92k36g12k26r8k8w8-g004810-k101010-rc80000-we0e0e0/sett.png)|
+| [Page](/setts/s7/g46k18g6k13r4k4w4~g004810-k101010-rc80000-we0e0e0~x2/)|
+|![Page example sett](/setts/s7/g46k18g6k13r4k4w4~g004810-k101010-rc80000-we0e0e0~x2/sett.png)|

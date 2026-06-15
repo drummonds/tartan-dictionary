@@ -16,5 +16,5 @@ KBWBRWKGYGK
 
 | Tartans |
 |---------------|
-| [Pride, George (Personal)](/setts/s11/k4b30w10b30r30w4k4g8y6g8k4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/)|
-|![Pride, George (Personal) example sett](/setts/s11/k4b30w10b30r30w4k4g8y6g8k4-b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Pride, George (Personal)](/setts/s11/k2b15w5b15r15w2k2g4y3g4k2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/)|
+|![Pride, George (Personal) example sett](/setts/s11/k2b15w5b15r15w2k2g4y3g4k2~b2c2c80-g006818-k101010-rc80000-we0e0e0-ye8c000~x2/sett.png)|

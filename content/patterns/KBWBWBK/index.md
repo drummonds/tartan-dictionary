@@ -6,7 +6,7 @@ KBWBWBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/k4b72w20b4w12b72k4-b0000cd-k101010-w00fcfc/tartan.png)
+![Woven sample](/setts/s7/k1b18w5b1w3b18k1~b0000cd-k101010-w00fcfc~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBWBWBK
 
 | Tartans |
 |---------------|
-| [Blueheart](/setts/s7/k4b72w20b4w12b72k4-b0000cd-k101010-w00fcfc/)|
-|![Blueheart example sett](/setts/s7/k4b72w20b4w12b72k4-b0000cd-k101010-w00fcfc/sett.png)|
+| [Blueheart](/setts/s7/k1b18w5b1w3b18k1~b0000cd-k101010-w00fcfc~x4/)|
+|![Blueheart example sett](/setts/s7/k1b18w5b1w3b18k1~b0000cd-k101010-w00fcfc~x4/sett.png)|

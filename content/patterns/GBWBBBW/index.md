@@ -6,7 +6,7 @@ GBWBBBW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w16b10ba20bb48w60b4g4-b9080b8-ba7490a4-bb542850-g003820-wf0e0c8/tartan.png)
+![Woven sample](/setts/s7/w8b5ba10bb24w30b2g2~b9080b8-ba7490a4-bb542850-g003820-wf0e0c8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBWBBBW
 
 | Tartans |
 |---------------|
-| [Shiel, Magenta (Dance)](/setts/s7/w16b10ba20bb48w60b4g4-b9080b8-ba7490a4-bb542850-g003820-wf0e0c8/)|
-|![Shiel, Magenta (Dance) example sett](/setts/s7/w16b10ba20bb48w60b4g4-b9080b8-ba7490a4-bb542850-g003820-wf0e0c8/sett.png)|
+| [Shiel, Magenta (Dance)](/setts/s7/w8b5ba10bb24w30b2g2~b9080b8-ba7490a4-bb542850-g003820-wf0e0c8~x2/)|
+|![Shiel, Magenta (Dance) example sett](/setts/s7/w8b5ba10bb24w30b2g2~b9080b8-ba7490a4-bb542850-g003820-wf0e0c8~x2/sett.png)|

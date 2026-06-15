@@ -16,5 +16,5 @@ GRBRWGRBRY
 
 | Tartans |
 |---------------|
-| [Loch Linnhe](/setts/s10/g6r12b24r10w4g20r62b4r8y6-b0000cd-g007800-rdc0000-w82cffd-yfccc00/)|
-|![Loch Linnhe example sett](/setts/s10/g6r12b24r10w4g20r62b4r8y6-b0000cd-g007800-rdc0000-w82cffd-yfccc00/sett.png)|
+| [Loch Linnhe](/setts/s10/g3r6b12r5w2g10r31b2r4y3~b0000cd-g007800-rdc0000-w82cffd-yfccc00~x2/)|
+|![Loch Linnhe example sett](/setts/s10/g3r6b12r5w2g10r31b2r4y3~b0000cd-g007800-rdc0000-w82cffd-yfccc00~x2/sett.png)|

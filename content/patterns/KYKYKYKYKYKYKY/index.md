@@ -16,5 +16,5 @@ KYKYKYKYKYKYKY
 
 | Tartans |
 |---------------|
-| [Justus Yellow & Black (Personal)](/setts/s14/y40k38y16k6y6k6y6k80y10k20y30k80y6k6-k101010-ye8c000/)|
-|![Justus Yellow & Black (Personal) example sett](/setts/s14/y40k38y16k6y6k6y6k80y10k20y30k80y6k6-k101010-ye8c000/sett.png)|
+| [Justus Yellow & Black (Personal)](/setts/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~k101010-ye8c000~x2/)|
+|![Justus Yellow & Black (Personal) example sett](/setts/s14/y20k19y8k3y3k3y3k40y5k10y15k40y3k3~k101010-ye8c000~x2/sett.png)|

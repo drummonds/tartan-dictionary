@@ -16,5 +16,5 @@ BGBWBYBYBWBG
 
 | Tartans |
 |---------------|
-| [Justus International (Personal)](/setts/s12/b48g24b24w24b24y24b48y24b24w24b24g24-b780078-g285800-wfcfcfc-ye8c000/)|
-|![Justus International (Personal) example sett](/setts/s12/b48g24b24w24b24y24b48y24b24w24b24g24-b780078-g285800-wfcfcfc-ye8c000/sett.png)|
+| [Justus International (Personal)](/setts/s12/b2g1b1w1b1y1b2y1b1w1b1g1~b780078-g285800-wfcfcfc-ye8c000~x24/)|
+|![Justus International (Personal) example sett](/setts/s12/b2g1b1w1b1y1b2y1b1w1b1g1~b780078-g285800-wfcfcfc-ye8c000~x24/sett.png)|

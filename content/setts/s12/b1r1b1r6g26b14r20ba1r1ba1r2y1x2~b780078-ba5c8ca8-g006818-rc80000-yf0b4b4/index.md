@@ -1,0 +1,48 @@
+---
+title: "Scobie (Name)"
+date: 2023-03-18
+---
+In pattern [BRBRGBRBRBRY](/patterns/brbrgbrbrbry/).
+
+
+This was sourced from tartans-authority.  It is a [12 stripes tartan](/stripes/stripes12/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/10247/
+
+## Thread count
+LR/2 R4 B2 R2 B2 R40 P28 G52 R12 P2 R2 P/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LR | <code style="background-color:#F0B4B4;"><span style="color:#F0B4B4;filter:grayscale(1) invert(1) contrast(100);">#F0B4B4</span></code> `#F0B4B4` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| P | <code style="background-color:#780078;"><span style="color:#780078;filter:grayscale(1) invert(1) contrast(100);">#780078</span></code> `#780078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Scotland (Personal)](/setts/s11/g3y1b1g20r2b9r2ra20b1y1ra3x2~b780078-g006818-ra00000-rac8002c-ye8c000/) — ΔT 0.63
+1. [Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r12b2r4b4r39ba2r4b11r6g4r6g45r4b4bb10~b780078-ba5c8ca8-bb2c2c80-g006818-rc80000/) — ΔT 0.88
+1. [Grant or New Bruce](/setts/s15/r12b2r4b4r39ba2r4b11r6g4r6g45r4b4bb10~b800080-ba5480b0-bb304080-g008000-rc00000/) — ΔT 0.91
+1. [MacColl, Ancient](/setts/s17/r7ra3r6b26r8g2r2b2r2ga1ra2r8ga26r8ga2r2ra2x2~b304080-g005020-ga008000-rc00000-ra900030/) — ΔT 1.02
+1. [K9](/setts/s13/r40k2w1y40k3w2k3r5b22r3w1k3r7x2~b1c1c50-k101010-rc80000-we0e0e0-ya08858/) — ΔT 1.04
+1. [Orr, Gerald William (Personal)](/setts/s12/b4y2b2k5b4k4b8k6b2r32b2w4x2~b5c5c5c-k101010-rc80000-we0e0e0-ybc8c00/) — ΔT 1.05
+1. [Unidentified Coat](/setts/s14/g6r2g2r24b1ba1r2ba12r2ba1b1r2g24r2x2~b3c82af-ba2c4084-g005020-rdc0000/) — ΔT 1.09
+1. [Scobie (Blackford)](/setts/s12/b1r1b1r6g26ra14r20w1r1w1r2rb1x2~baa00ff-g006400-re3170d-rab966ae-rba01d69-w82cffd/) — ΔT 1.09
+1. [Rikaco Red (Fashion)](/setts/s10/b5w5b2r47b18wa2b5ra9w7wa3x2~b5c5c5c-rc80000-raa48444-w98c8e8-waf0d0b4/) — ΔT 1.10
+1. [Unidentified 15](/setts/s17/g4r3b1ba1r35ba1b1r3ba16r3b1ba1r2g35r7k1b2x2~b5480b0-ba800080-g008000-k000000-rc00000/) — ΔT 1.12
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g3y1b1g20r2b9r2ra20b1y1ra3x2~b780078-g006818-ra00000-rac8002c-ye8c000/"><circle cx="244.1" cy="111.2" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/setts/s15/r12b2r4b4r39ba2r4b11r6g4r6g45r4b4bb10~b780078-ba5c8ca8-bb2c2c80-g006818-rc80000/"><circle cx="299.3" cy="97.8" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r12b2r4b4r39ba2r4b11r6g4r6g45r4b4bb10~b800080-ba5480b0-bb304080-g008000-rc00000/"><circle cx="294.3" cy="96.3" r="4" fill="#3465a4"><title>Grant or New Bruce</title></circle></a><a href="/setts/s17/r7ra3r6b26r8g2r2b2r2ga1ra2r8ga26r8ga2r2ra2x2~b304080-g005020-ga008000-rc00000-ra900030/"><circle cx="249.0" cy="90.8" r="4" fill="#3465a4"><title>MacColl, Ancient</title></circle></a><a href="/setts/s13/r40k2w1y40k3w2k3r5b22r3w1k3r7x2~b1c1c50-k101010-rc80000-we0e0e0-ya08858/"><circle cx="271.2" cy="63.4" r="4" fill="#3465a4"><title>K9</title></circle></a><a href="/setts/s12/b4y2b2k5b4k4b8k6b2r32b2w4x2~b5c5c5c-k101010-rc80000-we0e0e0-ybc8c00/"><circle cx="244.0" cy="106.4" r="4" fill="#3465a4"><title>Orr, Gerald William (Personal)</title></circle></a><a href="/setts/s14/g6r2g2r24b1ba1r2ba12r2ba1b1r2g24r2x2~b3c82af-ba2c4084-g005020-rdc0000/"><circle cx="296.8" cy="107.5" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/setts/s12/b1r1b1r6g26ra14r20w1r1w1r2rb1x2~baa00ff-g006400-re3170d-rab966ae-rba01d69-w82cffd/"><circle cx="245.1" cy="68.9" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/setts/s10/b5w5b2r47b18wa2b5ra9w7wa3x2~b5c5c5c-rc80000-raa48444-w98c8e8-waf0d0b4/"><circle cx="295.3" cy="105.7" r="4" fill="#3465a4"><title>Rikaco Red (Fashion)</title></circle></a><a href="/setts/s17/g4r3b1ba1r35ba1b1r3ba16r3b1ba1r2g35r7k1b2x2~b5480b0-ba800080-g008000-k000000-rc00000/"><circle cx="310.8" cy="55.8" r="4" fill="#3465a4"><title>Unidentified 15</title></circle></a><circle cx="279.0" cy="93.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s12/b1r1b1r6g26b14r20ba1r1ba1r2y1x2~b780078-ba5c8ca8-g006818-rc80000-yf0b4b4/

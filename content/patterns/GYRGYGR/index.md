@@ -6,7 +6,7 @@ GYRGYGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g16y4r88g48y16g16r16-g006818-rc80000-yd09800/tartan.png)
+![Woven sample](/setts/s7/g4y1r22g12y4g4r4~g006818-rc80000-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYRGYGR
 
 | Tartans |
 |---------------|
-| [Spice Apple](/setts/s7/g16y4r88g48y16g16r16-g006818-rc80000-yd09800/)|
-|![Spice Apple example sett](/setts/s7/g16y4r88g48y16g16r16-g006818-rc80000-yd09800/sett.png)|
+| [Spice Apple](/setts/s7/g4y1r22g12y4g4r4~g006818-rc80000-yd09800~x4/)|
+|![Spice Apple example sett](/setts/s7/g4y1r22g12y4g4r4~g006818-rc80000-yd09800~x4/sett.png)|

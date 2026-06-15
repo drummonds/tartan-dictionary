@@ -16,5 +16,5 @@ BKBWKWKGWRWGKWBKYK
 
 | Tartans |
 |---------------|
-| [Bell (2015)](/setts/s18/b14k4b14w2k4w2k16g4w6r20w6g4k16w2b22k4y6k4-b003c64-g003c14-k000000-ra00000-wffffff-ya0a0a0/)|
-|![Bell (2015) example sett](/setts/s18/b14k4b14w2k4w2k16g4w6r20w6g4k16w2b22k4y6k4-b003c64-g003c14-k000000-ra00000-wffffff-ya0a0a0/sett.png)|
+| [Bell (2015)](/setts/s18/b7k2b7w1k2w1k8g2w3r10w3g2k8w1b11k2y3k2~b003c64-g003c14-k000000-ra00000-wffffff-ya0a0a0~x2/)|
+|![Bell (2015) example sett](/setts/s18/b7k2b7w1k2w1k8g2w3r10w3g2k8w1b11k2y3k2~b003c64-g003c14-k000000-ra00000-wffffff-ya0a0a0~x2/sett.png)|

@@ -16,5 +16,5 @@ BWBYWBBBBYBBBYYBWB
 
 | Tartans |
 |---------------|
-| [Coast & Glen (Fishbox) Ltd](/setts/s18/b16w6b16y4w6ba4bb38b38ba2ya4bb8b8ba10ya4y4bb8w6b8-b000080-ba5f749c-bb202060-wfcfcfc-ybc8c00-ya86c67c/)|
-|![Coast & Glen (Fishbox) Ltd example sett](/setts/s18/b16w6b16y4w6ba4bb38b38ba2ya4bb8b8ba10ya4y4bb8w6b8-b000080-ba5f749c-bb202060-wfcfcfc-ybc8c00-ya86c67c/sett.png)|
+| [Coast & Glen (Fishbox) Ltd](/setts/s18/b8w3b8y2w3ba2bb19b19ba1ya2bb4b4ba5ya2y2bb4w3b4~b000080-ba5f749c-bb202060-wfcfcfc-ybc8c00-ya86c67c~x2/)|
+|![Coast & Glen (Fishbox) Ltd example sett](/setts/s18/b8w3b8y2w3ba2bb19b19ba1ya2bb4b4ba5ya2y2bb4w3b4~b000080-ba5f749c-bb202060-wfcfcfc-ybc8c00-ya86c67c~x2/sett.png)|

@@ -16,5 +16,5 @@ KKGRGRKWGWGY
 
 | Tartans |
 |---------------|
-| [Downs (Personal)](/setts/s12/k136k2g12r6g2r12k4w2g60wa2g4y4-g006818-k101010-ra00000-wfcfcfc-wac0c0c0-yfccc00/)|
-|![Downs (Personal) example sett](/setts/s12/k136k2g12r6g2r12k4w2g60wa2g4y4-g006818-k101010-ra00000-wfcfcfc-wac0c0c0-yfccc00/sett.png)|
+| [Downs (Personal)](/setts/s12/k68k1g6r3g1r6k2w1g30wa1g2y2~g006818-k101010-ra00000-wfcfcfc-wac0c0c0-yfccc00~x2/)|
+|![Downs (Personal) example sett](/setts/s12/k68k1g6r3g1r6k2w1g30wa1g2y2~g006818-k101010-ra00000-wfcfcfc-wac0c0c0-yfccc00~x2/sett.png)|

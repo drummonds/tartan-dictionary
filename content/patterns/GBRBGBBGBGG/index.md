@@ -16,5 +16,5 @@ GBRBGBBGBGG
 
 | Tartans |
 |---------------|
-| [Williams (Fashion)](/setts/s11/g100b12r6b6ga6b6ba20g16b6g12ga6-b441800-ba14283c-g604000-ga8c7038-r98481c/)|
-|![Williams (Fashion) example sett](/setts/s11/g100b12r6b6ga6b6ba20g16b6g12ga6-b441800-ba14283c-g604000-ga8c7038-r98481c/sett.png)|
+| [Williams (Fashion)](/setts/s11/g50b6r3b3ga3b3ba10g8b3g6ga3~b441800-ba14283c-g604000-ga8c7038-r98481c~x2/)|
+|![Williams (Fashion) example sett](/setts/s11/g50b6r3b3ga3b3ba10g8b3g6ga3~b441800-ba14283c-g604000-ga8c7038-r98481c~x2/sett.png)|

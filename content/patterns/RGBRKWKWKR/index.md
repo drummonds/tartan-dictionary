@@ -16,5 +16,5 @@ RGBRKWKWKR
 
 | Tartans |
 |---------------|
-| [Mitsukoshi Sendai](/setts/s10/r24k6w6k6w6k6r24b12g36ra6-b4c6484-g0c5e41-k000000-r848589-raa50313-wfffff0/)|
-|![Mitsukoshi Sendai example sett](/setts/s10/r24k6w6k6w6k6r24b12g36ra6-b4c6484-g0c5e41-k000000-r848589-raa50313-wfffff0/sett.png)|
+| [Mitsukoshi Sendai](/setts/s10/r4k1w1k1w1k1r4b2g6ra1~b4c6484-g0c5e41-k000000-r848589-raa50313-wfffff0~x6/)|
+|![Mitsukoshi Sendai example sett](/setts/s10/r4k1w1k1w1k1r4b2g6ra1~b4c6484-g0c5e41-k000000-r848589-raa50313-wfffff0~x6/sett.png)|

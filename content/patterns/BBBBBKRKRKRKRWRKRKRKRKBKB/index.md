@@ -16,5 +16,5 @@ BBBBBKRKRKRKRWRKRKRKRKBKB
 
 | Tartans |
 |---------------|
-| [Arran, Isle of (Strathmore)](/setts/s25/b172ba8b8ba8b8k32r4k8r6k6r8k4r12w6r12k4r8k6r6k8r4k32ba48k8ba20-b440044-ba5c5c5c-k101010-r880000-wf8f8f8/)|
-|![Arran, Isle of (Strathmore) example sett](/setts/s25/b172ba8b8ba8b8k32r4k8r6k6r8k4r12w6r12k4r8k6r6k8r4k32ba48k8ba20-b440044-ba5c5c5c-k101010-r880000-wf8f8f8/sett.png)|
+| [Arran, Isle of (Strathmore)](/setts/s25/b86ba4b4ba4b4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16ba24k4ba10~b440044-ba5c5c5c-k101010-r880000-wf8f8f8~x2/)|
+|![Arran, Isle of (Strathmore) example sett](/setts/s25/b86ba4b4ba4b4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16ba24k4ba10~b440044-ba5c5c5c-k101010-r880000-wf8f8f8~x2/sett.png)|

@@ -16,5 +16,5 @@ GGGKGGKWKWG
 
 | Tartans |
 |---------------|
-| [Undiscovered Scotland (Corporate)](/setts/s11/g100ga12g6k12gb2ga12k10w10k36w6gb2-g003820-ga006818-gb289c18-k101010-w98c8e8/)|
-|![Undiscovered Scotland (Corporate) example sett](/setts/s11/g100ga12g6k12gb2ga12k10w10k36w6gb2-g003820-ga006818-gb289c18-k101010-w98c8e8/sett.png)|
+| [Undiscovered Scotland (Corporate)](/setts/s11/g50ga6g3k6gb1ga6k5w5k18w3gb1~g003820-ga006818-gb289c18-k101010-w98c8e8~x2/)|
+|![Undiscovered Scotland (Corporate) example sett](/setts/s11/g50ga6g3k6gb1ga6k5w5k18w3gb1~g003820-ga006818-gb289c18-k101010-w98c8e8~x2/sett.png)|

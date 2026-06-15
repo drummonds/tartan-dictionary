@@ -16,5 +16,5 @@ BBBGBRBWBBRB
 
 | Tartans |
 |---------------|
-| [MacDonald of Glencoe (Dance)](/setts/s12/b12r4b4ba4w70ba24ra4b50g6b8ba4b8-b780078-ba202060-g289c18-rc80000-ra888888-we0e0e0/)|
-|![MacDonald of Glencoe (Dance) example sett](/setts/s12/b12r4b4ba4w70ba24ra4b50g6b8ba4b8-b780078-ba202060-g289c18-rc80000-ra888888-we0e0e0/sett.png)|
+| [MacDonald of Glencoe (Dance)](/setts/s12/b6r2b2ba2w35ba12ra2b25g3b4ba2b4~b780078-ba202060-g289c18-rc80000-ra888888-we0e0e0~x2/)|
+|![MacDonald of Glencoe (Dance) example sett](/setts/s12/b6r2b2ba2w35ba12ra2b25g3b4ba2b4~b780078-ba202060-g289c18-rc80000-ra888888-we0e0e0~x2/sett.png)|

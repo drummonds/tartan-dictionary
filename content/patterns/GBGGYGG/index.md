@@ -6,7 +6,7 @@ GBGGYGG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g18ga18y4ga18g18b18g6-b1474b4-g604000-ga408060-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g9ga9y2ga9g9b9g3~b1474b4-g604000-ga408060-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGGYGG
 
 | Tartans |
 |---------------|
-| [MacKay - 1800 (Reay Coat) (Artefact)](/setts/s7/g18ga18y4ga18g18b18g6-b1474b4-g604000-ga408060-ye8c000/)|
-|![MacKay - 1800 (Reay Coat) (Artefact) example sett](/setts/s7/g18ga18y4ga18g18b18g6-b1474b4-g604000-ga408060-ye8c000/sett.png)|
+| [MacKay - 1800 (Reay Coat) (Artefact)](/setts/s7/g9ga9y2ga9g9b9g3~b1474b4-g604000-ga408060-ye8c000~x2/)|
+|![MacKay - 1800 (Reay Coat) (Artefact) example sett](/setts/s7/g9ga9y2ga9g9b9g3~b1474b4-g604000-ga408060-ye8c000~x2/sett.png)|

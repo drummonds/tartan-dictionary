@@ -6,7 +6,7 @@ BWBYBRBG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b128w4b4y8b4r4b16g64-b00008c-g003014-r8c0000-wc8c8c8-yc88c00/tartan.png)
+![Woven sample](/setts/s8/b32w1b1y2b1r1b4g16~b00008c-g003014-r8c0000-wc8c8c8-yc88c00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBYBRBG
 
 | Tartans |
 |---------------|
-| [Royal Agricultural Winter Fair](/setts/s8/b128w4b4y8b4r4b16g64-b00008c-g003014-r8c0000-wc8c8c8-yc88c00/)|
-|![Royal Agricultural Winter Fair example sett](/setts/s8/b128w4b4y8b4r4b16g64-b00008c-g003014-r8c0000-wc8c8c8-yc88c00/sett.png)|
+| [Royal Agricultural Winter Fair](/setts/s8/b32w1b1y2b1r1b4g16~b00008c-g003014-r8c0000-wc8c8c8-yc88c00~x4/)|
+|![Royal Agricultural Winter Fair example sett](/setts/s8/b32w1b1y2b1r1b4g16~b00008c-g003014-r8c0000-wc8c8c8-yc88c00~x4/sett.png)|

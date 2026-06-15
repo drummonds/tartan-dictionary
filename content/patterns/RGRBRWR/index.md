@@ -6,7 +6,7 @@ RGRBRWR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r12g32r12b32r80w8r8-b202060-g285800-rc04094-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/r3g8r3b8r20w2r2~b202060-g285800-rc04094-wfcfcfc~x4/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RGRBRWR
 
 | Tartans |
 |---------------|
-| [Unnamed C21st (Lady's Jacket) (Fash)](/setts/s7/r12g32r12b32r80w8r8-b202060-g285800-rc04094-wfcfcfc/)|
-|![Unnamed C21st (Lady's Jacket) (Fash) example sett](/setts/s7/r12g32r12b32r80w8r8-b202060-g285800-rc04094-wfcfcfc/sett.png)|
-| [MacQuarrie LO](/setts/s7/r12g32r8b24r32w2r4-b000064-g004c00-rc80000-wd0d0d0/)|
-|![MacQuarrie LO example sett](/setts/s7/r12g32r8b24r32w2r4-b000064-g004c00-rc80000-wd0d0d0/sett.png)|
+| [Unnamed C21st (Lady's Jacket) (Fash)](/setts/s7/r3g8r3b8r20w2r2~b202060-g285800-rc04094-wfcfcfc~x4/)|
+|![Unnamed C21st (Lady's Jacket) (Fash) example sett](/setts/s7/r3g8r3b8r20w2r2~b202060-g285800-rc04094-wfcfcfc~x4/sett.png)|
+| [MacQuarrie LO](/setts/s7/r6g16r4b12r16w1r2~b000064-g004c00-rc80000-wd0d0d0~x2/)|
+|![MacQuarrie LO example sett](/setts/s7/r6g16r4b12r16w1r2~b000064-g004c00-rc80000-wd0d0d0~x2/sett.png)|

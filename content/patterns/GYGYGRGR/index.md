@@ -6,7 +6,7 @@ GYGYGRGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g52y8g8y8g16r40ga8r8-g004c00-ga48783c-rc83000-yc89800/tartan.png)
+![Woven sample](/setts/s8/g13y2g2y2g4r10ga2r2~g004c00-ga48783c-rc83000-yc89800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYGYGRGR
 
 | Tartans |
 |---------------|
-| [Oakwood](/setts/s8/g52y8g8y8g16r40ga8r8-g004c00-ga48783c-rc83000-yc89800/)|
-|![Oakwood example sett](/setts/s8/g52y8g8y8g16r40ga8r8-g004c00-ga48783c-rc83000-yc89800/sett.png)|
+| [Oakwood](/setts/s8/g13y2g2y2g4r10ga2r2~g004c00-ga48783c-rc83000-yc89800~x4/)|
+|![Oakwood example sett](/setts/s8/g13y2g2y2g4r10ga2r2~g004c00-ga48783c-rc83000-yc89800~x4/sett.png)|

@@ -6,7 +6,7 @@ KYBGY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k18y12b44g56ya4-b0c585c-g408060-k101010-y9ca8b0-yae8c000/tartan.png)
+![Woven sample](/setts/s5/k9y6b22g28ya2~b0c585c-g408060-k101010-y9ca8b0-yae8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KYBGY
 
 | Tartans |
 |---------------|
-| [Wellington (Lochcarron)](/setts/s5/k18y12b44g56ya4-b0c585c-g408060-k101010-y9ca8b0-yae8c000/)|
-|![Wellington (Lochcarron) example sett](/setts/s5/k18y12b44g56ya4-b0c585c-g408060-k101010-y9ca8b0-yae8c000/sett.png)|
+| [Wellington (Lochcarron)](/setts/s5/k9y6b22g28ya2~b0c585c-g408060-k101010-y9ca8b0-yae8c000~x2/)|
+|![Wellington (Lochcarron) example sett](/setts/s5/k9y6b22g28ya2~b0c585c-g408060-k101010-y9ca8b0-yae8c000~x2/sett.png)|

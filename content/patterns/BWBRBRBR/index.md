@@ -6,7 +6,7 @@ BWBRBRBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r44b4r4b4r4b30w34b6-b401000-r906030-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/r22b2r2b2r2b15w17b3~b401000-r906030-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWBRBRBR
 
 | Tartans |
 |---------------|
-| [Turnberry, Manx Snaefell](/setts/s8/r44b4r4b4r4b30w34b6-b401000-r906030-we0e0e0/)|
-|![Turnberry, Manx Snaefell example sett](/setts/s8/r44b4r4b4r4b30w34b6-b401000-r906030-we0e0e0/sett.png)|
+| [Turnberry, Manx Snaefell](/setts/s8/r22b2r2b2r2b15w17b3~b401000-r906030-we0e0e0~x2/)|
+|![Turnberry, Manx Snaefell example sett](/setts/s8/r22b2r2b2r2b15w17b3~b401000-r906030-we0e0e0~x2/sett.png)|

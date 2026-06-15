@@ -16,5 +16,5 @@ BGBGBYBGYBYY
 
 | Tartans |
 |---------------|
-| [Damson](/setts/s12/b96g8b12ga4b4y4b4g20y12b4y6y4-b1c0070-g048888-ga8c7038-yb8b8b8/)|
-|![Damson example sett](/setts/s12/b96g8b12ga4b4y4b4g20y12b4y6y4-b1c0070-g048888-ga8c7038-yb8b8b8/sett.png)|
+| [Damson](/setts/s12/b48g4b6ga2b2y2b2g10y6b2y3y2~b1c0070-g048888-ga8c7038-yb8b8b8~x2/)|
+|![Damson example sett](/setts/s12/b48g4b6ga2b2y2b2g10y6b2y3y2~b1c0070-g048888-ga8c7038-yb8b8b8~x2/sett.png)|

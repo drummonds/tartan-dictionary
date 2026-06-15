@@ -16,5 +16,5 @@ BWRWRBRBYBW
 
 | Tartans |
 |---------------|
-| [Good Morning America (Corporate)](/setts/s11/b8w8r8w8r8b8r8b48y4b8w8-b2c2c80-rc8002c-wf8f8f8-ye8c000/)|
-|![Good Morning America (Corporate) example sett](/setts/s11/b8w8r8w8r8b8r8b48y4b8w8-b2c2c80-rc8002c-wf8f8f8-ye8c000/sett.png)|
+| [Good Morning America (Corporate)](/setts/s11/b2w2r2w2r2b2r2b12y1b2w2~b2c2c80-rc8002c-wf8f8f8-ye8c000~x4/)|
+|![Good Morning America (Corporate) example sett](/setts/s11/b2w2r2w2r2b2r2b12y1b2w2~b2c2c80-rc8002c-wf8f8f8-ye8c000~x4/sett.png)|

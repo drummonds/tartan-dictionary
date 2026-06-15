@@ -16,5 +16,5 @@ GGYGBGBGBGBGBGBWG
 
 | Tartans |
 |---------------|
-| [Prickly Thistle](/setts/s17/g6ga30y6ga6b2ga2b2ga2b2ga2b2ga2b2ga2b24w30g6-b7f4c8d-g6e8e52-ga5d7341-wf4e6ef-yb9bc64/)|
-|![Prickly Thistle example sett](/setts/s17/g6ga30y6ga6b2ga2b2ga2b2ga2b2ga2b2ga2b24w30g6-b7f4c8d-g6e8e52-ga5d7341-wf4e6ef-yb9bc64/sett.png)|
+| [Prickly Thistle](/setts/s17/g3ga15y3ga3b1ga1b1ga1b1ga1b1ga1b1ga1b12w15g3~b7f4c8d-g6e8e52-ga5d7341-wf4e6ef-yb9bc64~x2/)|
+|![Prickly Thistle example sett](/setts/s17/g3ga15y3ga3b1ga1b1ga1b1ga1b1ga1b1ga1b12w15g3~b7f4c8d-g6e8e52-ga5d7341-wf4e6ef-yb9bc64~x2/sett.png)|

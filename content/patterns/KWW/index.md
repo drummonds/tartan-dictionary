@@ -6,7 +6,7 @@ KWW
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/k120w12wa6-k101010-wffffff-wa82cffd/tartan.png)
+![Woven sample](/setts/s3/k20w2wa1~k101010-wffffff-wa82cffd~x6/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWW
 
 | Tartans |
 |---------------|
-| [Fily (Verneuil L'tang) (Personal)](/setts/s3/k120w12wa6-k101010-wffffff-wa82cffd/)|
-|![Fily (Verneuil L'tang) (Personal) example sett](/setts/s3/k120w12wa6-k101010-wffffff-wa82cffd/sett.png)|
+| [Fily (Verneuil L'tang) (Personal)](/setts/s3/k20w2wa1~k101010-wffffff-wa82cffd~x6/)|
+|![Fily (Verneuil L'tang) (Personal) example sett](/setts/s3/k20w2wa1~k101010-wffffff-wa82cffd~x6/sett.png)|

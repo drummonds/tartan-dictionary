@@ -16,5 +16,5 @@ KBKKBKBKBKBKBKBKBKKKRBRBRBRBRBRBRBRK
 
 | Tartans |
 |---------------|
-| [Quebec (Commemorative)](/setts/s36/k100b32k16ka16b2ka2b2ka2b2ka2b2ka2b2ka2b2ka2b40ka80k24ka48r16b2r2b2r2b2r2b2r2b2r2b2r2b56r12ka8-b2c2c80-k000000-ka101010-rc80000/)|
-|![Quebec (Commemorative) example sett](/setts/s36/k100b32k16ka16b2ka2b2ka2b2ka2b2ka2b2ka2b2ka2b40ka80k24ka48r16b2r2b2r2b2r2b2r2b2r2b2r2b56r12ka8-b2c2c80-k000000-ka101010-rc80000/sett.png)|
+| [Quebec (Commemorative)](/setts/s36/k50b16k8ka8b1ka1b1ka1b1ka1b1ka1b1ka1b1ka1b20ka40k12ka24r8b1r1b1r1b1r1b1r1b1r1b1r1b28r6ka4~b2c2c80-k000000-ka101010-rc80000~x2/)|
+|![Quebec (Commemorative) example sett](/setts/s36/k50b16k8ka8b1ka1b1ka1b1ka1b1ka1b1ka1b1ka1b20ka40k12ka24r8b1r1b1r1b1r1b1r1b1r1b1r1b28r6ka4~b2c2c80-k000000-ka101010-rc80000~x2/sett.png)|

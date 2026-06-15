@@ -6,7 +6,7 @@ BRBKGRB
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b10r34g32k20b20r34b10-b080848-g002814-k101010-rdc0000/tartan.png)
+![Woven sample](/setts/s7/b5r17g16k10b10r17b5~b080848-g002814-k101010-rdc0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BRBKGRB
 
 | Tartans |
 |---------------|
-| [MacNaughton (Logan)](/setts/s7/b10r34g32k20b20r34b10-b080848-g002814-k101010-rdc0000/)|
-|![MacNaughton (Logan) example sett](/setts/s7/b10r34g32k20b20r34b10-b080848-g002814-k101010-rdc0000/sett.png)|
-| [MacNaughton Clan Tartan Tartan Number: 404. Earliest known date: (1831) MacNaughtons once were found in Lochawe, Glenaray, Loch Fyne and Glenshira. Their stronghold was Dundarave castle. In 1878 the chief was restored as Sir Francis MacNaughton of Dunderawe of Bushmills in Ireland. Logan recorded the sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b10r34g32k20b20r34b10-b202060-g003820-k101010-rc80000/)|
-|![MacNaughton Clan Tartan Tartan Number: 404. Earliest known date: (1831) MacNaughtons once were found in Lochawe, Glenaray, Loch Fyne and Glenshira. Their stronghold was Dundarave castle. In 1878 the chief was restored as Sir Francis MacNaughton of Dunderawe of Bushmills in Ireland. Logan recorded the sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b10r34g32k20b20r34b10-b202060-g003820-k101010-rc80000/sett.png)|
+| [MacNaughton (Logan)](/setts/s7/b5r17g16k10b10r17b5~b080848-g002814-k101010-rdc0000~x2/)|
+|![MacNaughton (Logan) example sett](/setts/s7/b5r17g16k10b10r17b5~b080848-g002814-k101010-rdc0000~x2/sett.png)|
+| [MacNaughton Clan Tartan Tartan Number: 404. Earliest known date: (1831) MacNaughtons once were found in Lochawe, Glenaray, Loch Fyne and Glenshira. Their stronghold was Dundarave castle. In 1878 the chief was restored as Sir Francis MacNaughton of Dunderawe of Bushmills in Ireland. Logan recorded the sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b5r17g16k10b10r17b5~b202060-g003820-k101010-rc80000~x2/)|
+|![MacNaughton Clan Tartan Tartan Number: 404. Earliest known date: (1831) MacNaughtons once were found in Lochawe, Glenaray, Loch Fyne and Glenshira. Their stronghold was Dundarave castle. In 1878 the chief was restored as Sir Francis MacNaughton of Dunderawe of Bushmills in Ireland. Logan recorded the sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/b5r17g16k10b10r17b5~b202060-g003820-k101010-rc80000~x2/sett.png)|

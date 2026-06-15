@@ -6,7 +6,7 @@ GRGYGYGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g10r6g6y4g2ya16g48y4-g285800-rc80000-ybc8c00-yac4bc68/tartan.png)
+![Woven sample](/setts/s8/g5r3g3y2g1ya8g24y2~g285800-rc80000-ybc8c00-yac4bc68~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGYGYGY
 
 | Tartans |
 |---------------|
-| [St. Christopher (Corporate)](/setts/s8/g10r6g6y4g2ya16g48y4-g285800-rc80000-ybc8c00-yac4bc68/)|
-|![St. Christopher (Corporate) example sett](/setts/s8/g10r6g6y4g2ya16g48y4-g285800-rc80000-ybc8c00-yac4bc68/sett.png)|
+| [St. Christopher (Corporate)](/setts/s8/g5r3g3y2g1ya8g24y2~g285800-rc80000-ybc8c00-yac4bc68~x2/)|
+|![St. Christopher (Corporate) example sett](/setts/s8/g5r3g3y2g1ya8g24y2~g285800-rc80000-ybc8c00-yac4bc68~x2/sett.png)|

@@ -6,7 +6,7 @@ KBGRK
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k40b100g100r6k6-b000080-g006400-k101010-rff0000/tartan.png)
+![Woven sample](/setts/s5/k20b50g50r3k3~b000080-g006400-k101010-rff0000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ KBGRK
 
 | Tartans |
 |---------------|
-| [Louisville Spaulding (Personal)](/setts/s5/k40b100g100r6k6-b000080-g006400-k101010-rff0000/)|
-|![Louisville Spaulding (Personal) example sett](/setts/s5/k40b100g100r6k6-b000080-g006400-k101010-rff0000/sett.png)|
-| [Louisville Spalding (Personal)](/setts/s5/k40b100g100r6k6-b1c1c50-g006818-k101010-rc80000/)|
-|![Louisville Spalding (Personal) example sett](/setts/s5/k40b100g100r6k6-b1c1c50-g006818-k101010-rc80000/sett.png)|
+| [Louisville Spaulding (Personal)](/setts/s5/k20b50g50r3k3~b000080-g006400-k101010-rff0000~x2/)|
+|![Louisville Spaulding (Personal) example sett](/setts/s5/k20b50g50r3k3~b000080-g006400-k101010-rff0000~x2/sett.png)|
+| [Louisville Spalding (Personal)](/setts/s5/k20b50g50r3k3~b1c1c50-g006818-k101010-rc80000~x2/)|
+|![Louisville Spalding (Personal) example sett](/setts/s5/k20b50g50r3k3~b1c1c50-g006818-k101010-rc80000~x2/sett.png)|

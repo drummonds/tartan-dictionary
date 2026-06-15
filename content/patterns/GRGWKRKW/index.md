@@ -6,7 +6,7 @@ GRGWKRKW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g56r20g56w20k8r20k8w36-g003c14-k101010-ra52b05-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/g14r5g14w5k2r5k2w9~g003c14-k101010-ra52b05-we0e0e0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRGWKRKW
 
 | Tartans |
 |---------------|
-| [Unnamed (Hip Flask)](/setts/s8/g56r20g56w20k8r20k8w36-g003c14-k101010-ra52b05-we0e0e0/)|
-|![Unnamed (Hip Flask) example sett](/setts/s8/g56r20g56w20k8r20k8w36-g003c14-k101010-ra52b05-we0e0e0/sett.png)|
+| [Unnamed (Hip Flask)](/setts/s8/g14r5g14w5k2r5k2w9~g003c14-k101010-ra52b05-we0e0e0~x4/)|
+|![Unnamed (Hip Flask) example sett](/setts/s8/g14r5g14w5k2r5k2w9~g003c14-k101010-ra52b05-we0e0e0~x4/sett.png)|

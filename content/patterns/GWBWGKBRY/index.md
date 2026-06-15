@@ -16,7 +16,7 @@ GWBWGKBRY
 
 | Tartans |
 |---------------|
-| [Colorado](/setts/s9/g64w6b6w6g4k40ba34r6y8-b64008c-ba788cb4-g006818-k000000-r8c0000-wc8c8c8-yc88c00/)|
-|![Colorado example sett](/setts/s9/g64w6b6w6g4k40ba34r6y8-b64008c-ba788cb4-g006818-k000000-r8c0000-wc8c8c8-yc88c00/sett.png)|
-| [Colorado (District)](/setts/s9/g64w6b6w6g4k40ba34r6y8-b9c58bc-ba38409c-g004828-k000000-rd40000-wc8c8c8-ye8c000/)|
-|![Colorado (District) example sett](/setts/s9/g64w6b6w6g4k40ba34r6y8-b9c58bc-ba38409c-g004828-k000000-rd40000-wc8c8c8-ye8c000/sett.png)|
+| [Colorado](/setts/s9/g32w3b3w3g2k20ba17r3y4~b64008c-ba788cb4-g006818-k000000-r8c0000-wc8c8c8-yc88c00~x2/)|
+|![Colorado example sett](/setts/s9/g32w3b3w3g2k20ba17r3y4~b64008c-ba788cb4-g006818-k000000-r8c0000-wc8c8c8-yc88c00~x2/sett.png)|
+| [Colorado (District)](/setts/s9/g32w3b3w3g2k20ba17r3y4~b9c58bc-ba38409c-g004828-k000000-rd40000-wc8c8c8-ye8c000~x2/)|
+|![Colorado (District) example sett](/setts/s9/g32w3b3w3g2k20ba17r3y4~b9c58bc-ba38409c-g004828-k000000-rd40000-wc8c8c8-ye8c000~x2/sett.png)|

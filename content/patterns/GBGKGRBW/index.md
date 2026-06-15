@@ -6,7 +6,7 @@ GBGKGRBW
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s8/g4b2g9k4g2r6ba12w2~b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBGKGRBW
 
 | Tartans |
 |---------------|
-| [Cherokee](/setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/)|
-|![Cherokee example sett](/setts/s8/g8b4g18k8g4r12ba24w4-b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8/sett.png)|
+| [Cherokee](/setts/s8/g4b2g9k4g2r6ba12w2~b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8~x2/)|
+|![Cherokee example sett](/setts/s8/g4b2g9k4g2r6ba12w2~b5c8ca8-ba1c0070-g408060-k101010-rc80000-wf8f8f8~x2/sett.png)|

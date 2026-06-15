@@ -16,5 +16,5 @@ BYBGWBWRBR
 
 | Tartans |
 |---------------|
-| [Asman Family](/setts/s10/b8y6b34g12w4ba12w4r48ba6r8-b304080-ba401000-g407050-rc00000-we0e0e0-yf0c000/)|
-|![Asman Family example sett](/setts/s10/b8y6b34g12w4ba12w4r48ba6r8-b304080-ba401000-g407050-rc00000-we0e0e0-yf0c000/sett.png)|
+| [Asman Family](/setts/s10/b4y3b17g6w2ba6w2r24ba3r4~b304080-ba401000-g407050-rc00000-we0e0e0-yf0c000~x2/)|
+|![Asman Family example sett](/setts/s10/b4y3b17g6w2ba6w2r24ba3r4~b304080-ba401000-g407050-rc00000-we0e0e0-yf0c000~x2/sett.png)|

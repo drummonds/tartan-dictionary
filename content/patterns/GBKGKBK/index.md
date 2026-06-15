@@ -6,7 +6,7 @@ GBKGKBK
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4b48k48g4k48b48k4-b2c2c80-g289c18-k101010/tartan.png)
+![Woven sample](/setts/s7/g1b12k12g1k12b12k1~b2c2c80-g289c18-k101010~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GBKGKBK
 
 | Tartans |
 |---------------|
-| [Marchmont (Personal)](/setts/s7/g4b48k48g4k48b48k4-b2c2c80-g289c18-k101010/)|
-|![Marchmont (Personal) example sett](/setts/s7/g4b48k48g4k48b48k4-b2c2c80-g289c18-k101010/sett.png)|
+| [Marchmont (Personal)](/setts/s7/g1b12k12g1k12b12k1~b2c2c80-g289c18-k101010~x4/)|
+|![Marchmont (Personal) example sett](/setts/s7/g1b12k12g1k12b12k1~b2c2c80-g289c18-k101010~x4/sett.png)|

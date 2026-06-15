@@ -16,5 +16,5 @@ BGBBGRGGBBRB
 
 | Tartans |
 |---------------|
-| [Bowhunter (Fashion)](/setts/s12/b6g20b4ba50ga6r8ga6gb20ba6b4r6b2-b780078-ba2c2c80-g5c6428-ga604000-gb006818-r888888/)|
-|![Bowhunter (Fashion) example sett](/setts/s12/b6g20b4ba50ga6r8ga6gb20ba6b4r6b2-b780078-ba2c2c80-g5c6428-ga604000-gb006818-r888888/sett.png)|
+| [Bowhunter (Fashion)](/setts/s12/b3g10b2ba25ga3r4ga3gb10ba3b2r3b1~b780078-ba2c2c80-g5c6428-ga604000-gb006818-r888888~x2/)|
+|![Bowhunter (Fashion) example sett](/setts/s12/b3g10b2ba25ga3r4ga3gb10ba3b2r3b1~b780078-ba2c2c80-g5c6428-ga604000-gb006818-r888888~x2/sett.png)|

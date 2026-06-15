@@ -16,5 +16,5 @@ BKBKGKRKRKBKGKGKGKBKRK
 
 | Tartans |
 |---------------|
-| [Ellenee](/setts/s22/k18r6k6b22k6g22k6g6k6g22k6b22k6r6k18r6k6g22k6b22k6b6-b506878-g30644c-k101010-r901c38/)|
-|![Ellenee example sett](/setts/s22/k18r6k6b22k6g22k6g6k6g22k6b22k6r6k18r6k6g22k6b22k6b6-b506878-g30644c-k101010-r901c38/sett.png)|
+| [Ellenee](/setts/s22/k9r3k3b11k3g11k3g3k3g11k3b11k3r3k9r3k3g11k3b11k3b3~b506878-g30644c-k101010-r901c38~x2/)|
+|![Ellenee example sett](/setts/s22/k9r3k3b11k3g11k3g3k3g11k3b11k3r3k9r3k3g11k3b11k3b3~b506878-g30644c-k101010-r901c38~x2/sett.png)|

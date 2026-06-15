@@ -16,5 +16,5 @@ RKKKGKGKKKKKR
 
 | Tartans |
 |---------------|
-| [Metropolitan Atlanta Police](/setts/s13/r4k4ka42k16g32ka6g32k16ka6k6ka42k4r4-g003820-k101010-ka00002c-r880000/)|
-|![Metropolitan Atlanta Police example sett](/setts/s13/r4k4ka42k16g32ka6g32k16ka6k6ka42k4r4-g003820-k101010-ka00002c-r880000/sett.png)|
+| [Metropolitan Atlanta Police](/setts/s13/r2k2ka21k8g16ka3g16k8ka3k3ka21k2r2~g003820-k101010-ka00002c-r880000~x2/)|
+|![Metropolitan Atlanta Police example sett](/setts/s13/r2k2ka21k8g16ka3g16k8ka3k3ka21k2r2~g003820-k101010-ka00002c-r880000~x2/sett.png)|

@@ -16,5 +16,5 @@ YWBGYYWGYBRWYWY
 
 | Tartans |
 |---------------|
-| [Highlands of Haliburton Dress (Dist.](/setts/s15/y8w4y2w28r4b8y16g8w4y6ya4g4b4w4ya4-b441800-g006818-rc80000-we0e0e0-y48a4c0-yabc8c00/)|
-|![Highlands of Haliburton Dress (Dist. example sett](/setts/s15/y8w4y2w28r4b8y16g8w4y6ya4g4b4w4ya4-b441800-g006818-rc80000-we0e0e0-y48a4c0-yabc8c00/sett.png)|
+| [Highlands of Haliburton Dress (Dist.](/setts/s15/y4w2y1w14r2b4y8g4w2y3ya2g2b2w2ya2~b441800-g006818-rc80000-we0e0e0-y48a4c0-yabc8c00~x2/)|
+|![Highlands of Haliburton Dress (Dist. example sett](/setts/s15/y4w2y1w14r2b4y8g4w2y3ya2g2b2w2ya2~b441800-g006818-rc80000-we0e0e0-y48a4c0-yabc8c00~x2/sett.png)|

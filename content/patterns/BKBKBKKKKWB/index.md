@@ -16,5 +16,5 @@ BKBKBKKKKWB
 
 | Tartans |
 |---------------|
-| [Dunn (Canada) (Name)](/setts/s11/b12k4ba28k10ba28k6ka8k12ka48w4ba12-b2c00b0-ba60007c-k101010-ka00002c-wf8f8f8/)|
-|![Dunn (Canada) (Name) example sett](/setts/s11/b12k4ba28k10ba28k6ka8k12ka48w4ba12-b2c00b0-ba60007c-k101010-ka00002c-wf8f8f8/sett.png)|
+| [Dunn (Canada) (Name)](/setts/s11/b6k2ba14k5ba14k3ka4k6ka24w2ba6~b2c00b0-ba60007c-k101010-ka00002c-wf8f8f8~x2/)|
+|![Dunn (Canada) (Name) example sett](/setts/s11/b6k2ba14k5ba14k3ka4k6ka24w2ba6~b2c00b0-ba60007c-k101010-ka00002c-wf8f8f8~x2/sett.png)|

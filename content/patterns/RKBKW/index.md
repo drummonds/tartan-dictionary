@@ -6,7 +6,7 @@ RKBKW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r6k2b54k54w6-b1474b4-k101010-r880000-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/r3k1b27k27w3~b1474b4-k101010-r880000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKBKW
 
 | Tartans |
 |---------------|
-| [Bro-Spirit of Northmen (Corporate)](/setts/s5/r6k2b54k54w6-b1474b4-k101010-r880000-we0e0e0/)|
-|![Bro-Spirit of Northmen (Corporate) example sett](/setts/s5/r6k2b54k54w6-b1474b4-k101010-r880000-we0e0e0/sett.png)|
+| [Bro-Spirit of Northmen (Corporate)](/setts/s5/r3k1b27k27w3~b1474b4-k101010-r880000-we0e0e0~x2/)|
+|![Bro-Spirit of Northmen (Corporate) example sett](/setts/s5/r3k1b27k27w3~b1474b4-k101010-r880000-we0e0e0~x2/sett.png)|

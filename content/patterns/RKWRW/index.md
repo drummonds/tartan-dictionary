@@ -6,7 +6,7 @@ RKWRW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w10r10w10k30r4-k101010-rc80000-wffffff/tartan.png)
+![Woven sample](/setts/s5/w5r5w5k15r2~k101010-rc80000-wffffff~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ RKWRW
 
 | Tartans |
 |---------------|
-| [Braes High School Falkirk](/setts/s5/w10r10w10k30r4-k101010-rc80000-wffffff/)|
-|![Braes High School Falkirk example sett](/setts/s5/w10r10w10k30r4-k101010-rc80000-wffffff/sett.png)|
-| [Braes High School Falkirk (School)](/setts/s5/w10r10w10k30r4-k101010-rc80000-we0e0e0/)|
-|![Braes High School Falkirk (School) example sett](/setts/s5/w10r10w10k30r4-k101010-rc80000-we0e0e0/sett.png)|
+| [Braes High School Falkirk](/setts/s5/w5r5w5k15r2~k101010-rc80000-wffffff~x2/)|
+|![Braes High School Falkirk example sett](/setts/s5/w5r5w5k15r2~k101010-rc80000-wffffff~x2/sett.png)|
+| [Braes High School Falkirk (School)](/setts/s5/w5r5w5k15r2~k101010-rc80000-we0e0e0~x2/)|
+|![Braes High School Falkirk (School) example sett](/setts/s5/w5r5w5k15r2~k101010-rc80000-we0e0e0~x2/sett.png)|

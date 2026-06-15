@@ -6,7 +6,7 @@ KWRBY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k4w28r28b64y4-b23238e-k101010-ree5c42-wffffff-yeec900/tartan.png)
+![Woven sample](/setts/s5/k1w7r7b16y1~b23238e-k101010-ree5c42-wffffff-yeec900~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWRBY
 
 | Tartans |
 |---------------|
-| [Prehospital EMS Tartan (USA)](/setts/s5/k4w28r28b64y4-b23238e-k101010-ree5c42-wffffff-yeec900/)|
-|![Prehospital EMS Tartan (USA) example sett](/setts/s5/k4w28r28b64y4-b23238e-k101010-ree5c42-wffffff-yeec900/sett.png)|
+| [Prehospital EMS Tartan (USA)](/setts/s5/k1w7r7b16y1~b23238e-k101010-ree5c42-wffffff-yeec900~x4/)|
+|![Prehospital EMS Tartan (USA) example sett](/setts/s5/k1w7r7b16y1~b23238e-k101010-ree5c42-wffffff-yeec900~x4/sett.png)|

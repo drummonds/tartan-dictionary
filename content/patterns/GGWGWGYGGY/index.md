@@ -16,5 +16,5 @@ GGWGWGYGGY
 
 | Tartans |
 |---------------|
-| [Carter (Savannah) (Personal)](/setts/s10/g8ga52w2ga4w4g8y52g8gb6ya6-g604000-ga006818-gb289c18-wb4ccbc-y48a4c0-yae8c000/)|
-|![Carter (Savannah) (Personal) example sett](/setts/s10/g8ga52w2ga4w4g8y52g8gb6ya6-g604000-ga006818-gb289c18-wb4ccbc-y48a4c0-yae8c000/sett.png)|
+| [Carter (Savannah) (Personal)](/setts/s10/g4ga26w1ga2w2g4y26g4gb3ya3~g604000-ga006818-gb289c18-wb4ccbc-y48a4c0-yae8c000~x2/)|
+|![Carter (Savannah) (Personal) example sett](/setts/s10/g4ga26w1ga2w2g4y26g4gb3ya3~g604000-ga006818-gb289c18-wb4ccbc-y48a4c0-yae8c000~x2/sett.png)|

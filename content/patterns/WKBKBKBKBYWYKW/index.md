@@ -16,5 +16,5 @@ WKBKBKBKBYWYKW
 
 | Tartans |
 |---------------|
-| [Avalon - Carroll House](/setts/s14/w6k2b30k12b10k6b16k4b10y6w4y8k2w6-b1474b4-k101010-wf8f8f8-ye8c000/)|
-|![Avalon - Carroll House example sett](/setts/s14/w6k2b30k12b10k6b16k4b10y6w4y8k2w6-b1474b4-k101010-wf8f8f8-ye8c000/sett.png)|
+| [Avalon - Carroll House](/setts/s14/w3k1b15k6b5k3b8k2b5y3w2y4k1w3~b1474b4-k101010-wf8f8f8-ye8c000~x2/)|
+|![Avalon - Carroll House example sett](/setts/s14/w3k1b15k6b5k3b8k2b5y3w2y4k1w3~b1474b4-k101010-wf8f8f8-ye8c000~x2/sett.png)|

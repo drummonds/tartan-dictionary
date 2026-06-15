@@ -6,7 +6,7 @@ BRWRBR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r160b32r4w8r4b32-b1474b4-r880000-wf8f8f8/tartan.png)
+![Woven sample](/setts/s6/r40b8r1w2r1b8~b1474b4-r880000-wf8f8f8~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRWRBR
 
 | Tartans |
 |---------------|
-| [Lyon College (Corporate)](/setts/s6/r160b32r4w8r4b32-b1474b4-r880000-wf8f8f8/)|
-|![Lyon College (Corporate) example sett](/setts/s6/r160b32r4w8r4b32-b1474b4-r880000-wf8f8f8/sett.png)|
+| [Lyon College (Corporate)](/setts/s6/r40b8r1w2r1b8~b1474b4-r880000-wf8f8f8~x4/)|
+|![Lyon College (Corporate) example sett](/setts/s6/r40b8r1w2r1b8~b1474b4-r880000-wf8f8f8~x4/sett.png)|

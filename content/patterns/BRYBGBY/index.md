@@ -6,7 +6,7 @@ BRYBGBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b100r100y2ba54g36bb18y8-b5c5c5c-ba2c2c80-bb441800-g003820-r888888-yfccc00/tartan.png)
+![Woven sample](/setts/s7/b50r50y1ba27g18bb9y4~b5c5c5c-ba2c2c80-bb441800-g003820-r888888-yfccc00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BRYBGBY
 
 | Tartans |
 |---------------|
-| [Lachance (Commemorative)](/setts/s7/b100r100y2ba54g36bb18y8-b5c5c5c-ba2c2c80-bb441800-g003820-r888888-yfccc00/)|
-|![Lachance (Commemorative) example sett](/setts/s7/b100r100y2ba54g36bb18y8-b5c5c5c-ba2c2c80-bb441800-g003820-r888888-yfccc00/sett.png)|
+| [Lachance (Commemorative)](/setts/s7/b50r50y1ba27g18bb9y4~b5c5c5c-ba2c2c80-bb441800-g003820-r888888-yfccc00~x2/)|
+|![Lachance (Commemorative) example sett](/setts/s7/b50r50y1ba27g18bb9y4~b5c5c5c-ba2c2c80-bb441800-g003820-r888888-yfccc00~x2/sett.png)|

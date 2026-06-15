@@ -16,5 +16,5 @@ BRBRBBRBGBRG
 
 | Tartans |
 |---------------|
-| [Richards (Welsh Name)](/setts/s12/b20r8b8r8b8ba20r8ba4g4ba4r40g12-b202060-ba003c64-g003820-r901c38/)|
-|![Richards (Welsh Name) example sett](/setts/s12/b20r8b8r8b8ba20r8ba4g4ba4r40g12-b202060-ba003c64-g003820-r901c38/sett.png)|
+| [Richards (Welsh Name)](/setts/s12/b5r2b2r2b2ba5r2ba1g1ba1r10g3~b202060-ba003c64-g003820-r901c38~x4/)|
+|![Richards (Welsh Name) example sett](/setts/s12/b5r2b2r2b2ba5r2ba1g1ba1r10g3~b202060-ba003c64-g003820-r901c38~x4/sett.png)|

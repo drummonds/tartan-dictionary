@@ -16,5 +16,5 @@ GBKBKBKBGBGBGYGKGYGBGBGBKBKBKBGR
 
 | Tartans |
 |---------------|
-| [Kennedy #3](/setts/s32/g48b8k6b6k6b6k6b8g24ba4g4ba4g6y4g4k4g4y4g6ba4g4ba4g24b8k6b6k6b6k6b8g48r6-b3c3c60-ba840068-g006818-k101010-rc80000-yd09800/)|
-|![Kennedy #3 example sett](/setts/s32/g48b8k6b6k6b6k6b8g24ba4g4ba4g6y4g4k4g4y4g6ba4g4ba4g24b8k6b6k6b6k6b8g48r6-b3c3c60-ba840068-g006818-k101010-rc80000-yd09800/sett.png)|
+| [Kennedy #3](/setts/s32/g24b4k3b3k3b3k3b4g12ba2g2ba2g3y2g2k2g2y2g3ba2g2ba2g12b4k3b3k3b3k3b4g24r3~b3c3c60-ba840068-g006818-k101010-rc80000-yd09800~x2/)|
+|![Kennedy #3 example sett](/setts/s32/g24b4k3b3k3b3k3b4g12ba2g2ba2g3y2g2k2g2y2g3ba2g2ba2g12b4k3b3k3b3k3b4g24r3~b3c3c60-ba840068-g006818-k101010-rc80000-yd09800~x2/sett.png)|

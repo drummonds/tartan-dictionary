@@ -16,5 +16,5 @@ RBBBBRRRRRBR
 
 | Tartans |
 |---------------|
-| [Beanpole Brown Trial](/setts/s12/r4b31r2ra2r2ra2r2b2ba2b4ba11r4-b441800-ba4c3428-ra07c58-ra880000/)|
-|![Beanpole Brown Trial example sett](/setts/s12/r4b31r2ra2r2ra2r2b2ba2b4ba11r4-b441800-ba4c3428-ra07c58-ra880000/sett.png)|
+| [Beanpole Brown Trial](/setts/s12/r4b31r2ra2r2ra2r2b2ba2b4ba11r4~b441800-ba4c3428-ra07c58-ra880000/)|
+|![Beanpole Brown Trial example sett](/setts/s12/r4b31r2ra2r2ra2r2b2ba2b4ba11r4~b441800-ba4c3428-ra07c58-ra880000/sett.png)|

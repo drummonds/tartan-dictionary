@@ -16,5 +16,5 @@ KGKGKGKGWGY
 
 | Tartans |
 |---------------|
-| [Malone (2016)](/setts/s11/k16g2k40g2k8g2k6g8w4g48y6-g005020-k000000-wf8f8f8-ybc8c00/)|
-|![Malone (2016) example sett](/setts/s11/k16g2k40g2k8g2k6g8w4g48y6-g005020-k000000-wf8f8f8-ybc8c00/sett.png)|
+| [Malone (2016)](/setts/s11/k8g1k20g1k4g1k3g4w2g24y3~g005020-k000000-wf8f8f8-ybc8c00~x2/)|
+|![Malone (2016) example sett](/setts/s11/k8g1k20g1k4g1k3g4w2g24y3~g005020-k000000-wf8f8f8-ybc8c00~x2/sett.png)|

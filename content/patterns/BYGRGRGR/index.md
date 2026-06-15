@@ -6,7 +6,7 @@ BYGRGRGR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b32y4g48r40ga8r24ga8r16-b1c1c50-g006818-ga8c7038-r880000-yd09800/tartan.png)
+![Woven sample](/setts/s8/b8y1g12r10ga2r6ga2r4~b1c1c50-g006818-ga8c7038-r880000-yd09800~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYGRGRGR
 
 | Tartans |
 |---------------|
-| [Indiana "Cardinal" (District)](/setts/s8/b32y4g48r40ga8r24ga8r16-b1c1c50-g006818-ga8c7038-r880000-yd09800/)|
-|![Indiana "Cardinal" (District) example sett](/setts/s8/b32y4g48r40ga8r24ga8r16-b1c1c50-g006818-ga8c7038-r880000-yd09800/sett.png)|
+| [Indiana "Cardinal" (District)](/setts/s8/b8y1g12r10ga2r6ga2r4~b1c1c50-g006818-ga8c7038-r880000-yd09800~x4/)|
+|![Indiana "Cardinal" (District) example sett](/setts/s8/b8y1g12r10ga2r6ga2r4~b1c1c50-g006818-ga8c7038-r880000-yd09800~x4/sett.png)|

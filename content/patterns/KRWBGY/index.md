@@ -6,7 +6,7 @@ KRWBGY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k98r2w8b10g10y10-b000080-g005020-k101010-ra00000-wc49cd8-yffff00/tartan.png)
+![Woven sample](/setts/s6/k49r1w4b5g5y5~b000080-g005020-k101010-ra00000-wc49cd8-yffff00~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KRWBGY
 
 | Tartans |
 |---------------|
-| [CREATeGlasgow](/setts/s6/k98r2w8b10g10y10-b000080-g005020-k101010-ra00000-wc49cd8-yffff00/)|
-|![CREATeGlasgow example sett](/setts/s6/k98r2w8b10g10y10-b000080-g005020-k101010-ra00000-wc49cd8-yffff00/sett.png)|
+| [CREATeGlasgow](/setts/s6/k49r1w4b5g5y5~b000080-g005020-k101010-ra00000-wc49cd8-yffff00~x2/)|
+|![CREATeGlasgow example sett](/setts/s6/k49r1w4b5g5y5~b000080-g005020-k101010-ra00000-wc49cd8-yffff00~x2/sett.png)|

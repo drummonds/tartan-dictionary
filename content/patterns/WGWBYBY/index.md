@@ -6,7 +6,7 @@ WGWBYBY
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w48g4w16b10y8b10y8-b2c2c80-g006818-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/w24g2w8b5y4b5y4~b2c2c80-g006818-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WGWBYBY
 
 | Tartans |
 |---------------|
-| [Clackson Arisaid (Name?)](/setts/s7/w48g4w16b10y8b10y8-b2c2c80-g006818-we0e0e0-ye8c000/)|
-|![Clackson Arisaid (Name?) example sett](/setts/s7/w48g4w16b10y8b10y8-b2c2c80-g006818-we0e0e0-ye8c000/sett.png)|
+| [Clackson Arisaid (Name?)](/setts/s7/w24g2w8b5y4b5y4~b2c2c80-g006818-we0e0e0-ye8c000~x2/)|
+|![Clackson Arisaid (Name?) example sett](/setts/s7/w24g2w8b5y4b5y4~b2c2c80-g006818-we0e0e0-ye8c000~x2/sett.png)|

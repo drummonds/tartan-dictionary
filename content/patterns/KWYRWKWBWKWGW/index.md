@@ -16,5 +16,5 @@ KWYRWKWBWKWGW
 
 | Tartans |
 |---------------|
-| [Hovington (2014)](/setts/s13/k4w2y12r12w2k4wa4b6wa4k2wa4g6wa4-b4c3428-g00643c-k101010-rc8002c-wffffff-wae8ccb8-ye0a126/)|
-|![Hovington (2014) example sett](/setts/s13/k4w2y12r12w2k4wa4b6wa4k2wa4g6wa4-b4c3428-g00643c-k101010-rc8002c-wffffff-wae8ccb8-ye0a126/sett.png)|
+| [Hovington (2014)](/setts/s13/k2w1y6r6w1k2wa2b3wa2k1wa2g3wa2~b4c3428-g00643c-k101010-rc8002c-wffffff-wae8ccb8-ye0a126~x2/)|
+|![Hovington (2014) example sett](/setts/s13/k2w1y6r6w1k2wa2b3wa2k1wa2g3wa2~b4c3428-g00643c-k101010-rc8002c-wffffff-wae8ccb8-ye0a126~x2/sett.png)|

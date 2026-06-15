@@ -16,5 +16,5 @@ BKBBBBBBGYR
 
 | Tartans |
 |---------------|
-| [Century 21 (Fashion)](/setts/s11/b4k4b42ba2b2ba4b2ba16g46y4r4-b2c2c80-ba3c4484-g003820-k101010-rc80000-yc4bc68/)|
-|![Century 21 (Fashion) example sett](/setts/s11/b4k4b42ba2b2ba4b2ba16g46y4r4-b2c2c80-ba3c4484-g003820-k101010-rc80000-yc4bc68/sett.png)|
+| [Century 21 (Fashion)](/setts/s11/b2k2b21ba1b1ba2b1ba8g23y2r2~b2c2c80-ba3c4484-g003820-k101010-rc80000-yc4bc68~x2/)|
+|![Century 21 (Fashion) example sett](/setts/s11/b2k2b21ba1b1ba2b1ba8g23y2r2~b2c2c80-ba3c4484-g003820-k101010-rc80000-yc4bc68~x2/sett.png)|

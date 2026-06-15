@@ -16,5 +16,5 @@ BKBKBYGKGKGKGKGRGRGKGKGKGKGYBKBKBG
 
 | Tartans |
 |---------------|
-| [Hislop Hunting (Personal)](/setts/s34/b6k4b2k4b6y2g6k4g4k12g4k12g4k4g48r4g8r4g48k4g4k12g4k12g4k4g6y2b6k4b2k4b6g4-b1c0070-g006818-k101010-r880000-yd09800/)|
-|![Hislop Hunting (Personal) example sett](/setts/s34/b6k4b2k4b6y2g6k4g4k12g4k12g4k4g48r4g8r4g48k4g4k12g4k12g4k4g6y2b6k4b2k4b6g4-b1c0070-g006818-k101010-r880000-yd09800/sett.png)|
+| [Hislop Hunting (Personal)](/setts/s34/b3k2b1k2b3y1g3k2g2k6g2k6g2k2g24r2g4r2g24k2g2k6g2k6g2k2g3y1b3k2b1k2b3g2~b1c0070-g006818-k101010-r880000-yd09800~x2/)|
+|![Hislop Hunting (Personal) example sett](/setts/s34/b3k2b1k2b3y1g3k2g2k6g2k6g2k2g24r2g4r2g24k2g2k6g2k6g2k2g3y1b3k2b1k2b3g2~b1c0070-g006818-k101010-r880000-yd09800~x2/sett.png)|

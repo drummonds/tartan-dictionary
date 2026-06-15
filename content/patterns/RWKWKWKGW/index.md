@@ -16,5 +16,5 @@ RWKWKWKGW
 
 | Tartans |
 |---------------|
-| [Virtuoso](/setts/s9/r8w8k8w8k8w8k4g46w4-g838b83-k101010-rff0000-wffffff/)|
-|![Virtuoso example sett](/setts/s9/r8w8k8w8k8w8k4g46w4-g838b83-k101010-rff0000-wffffff/sett.png)|
+| [Virtuoso](/setts/s9/r4w4k4w4k4w4k2g23w2~g838b83-k101010-rff0000-wffffff~x2/)|
+|![Virtuoso example sett](/setts/s9/r4w4k4w4k4w4k2g23w2~g838b83-k101010-rff0000-wffffff~x2/sett.png)|

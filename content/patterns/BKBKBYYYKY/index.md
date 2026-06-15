@@ -16,5 +16,5 @@ BKBKBYYYKY
 
 | Tartans |
 |---------------|
-| [Sonsub](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/)|
-|![Sonsub example sett](/setts/s10/b60k10b38k10b4y40ya4y40k10ya8-b646464-k101010-ya0a0a0-yad0d40c/sett.png)|
+| [Sonsub](/setts/s10/b30k5b19k5b2y20ya2y20k5ya4~b646464-k101010-ya0a0a0-yad0d40c~x2/)|
+|![Sonsub example sett](/setts/s10/b30k5b19k5b2y20ya2y20k5ya4~b646464-k101010-ya0a0a0-yad0d40c~x2/sett.png)|

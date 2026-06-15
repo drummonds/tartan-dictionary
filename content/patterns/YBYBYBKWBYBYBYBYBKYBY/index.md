@@ -16,5 +16,5 @@ YBYBYBKWBYBYBYBYBKYBY
 
 | Tartans |
 |---------------|
-| [Blue Matheson Hunting (Kinloch Anderson)](/setts/s21/y14b6y4b4y4b60k18w4b4y4b4y6b10y4b4y4b4k18y10b6y8-b1c0070-k101010-wc0c0c0-yd09800/)|
-|![Blue Matheson Hunting (Kinloch Anderson) example sett](/setts/s21/y14b6y4b4y4b60k18w4b4y4b4y6b10y4b4y4b4k18y10b6y8-b1c0070-k101010-wc0c0c0-yd09800/sett.png)|
+| [Blue Matheson Hunting (Kinloch Anderson)](/setts/s21/y7b3y2b2y2b30k9w2b2y2b2y3b5y2b2y2b2k9y5b3y4~b1c0070-k101010-wc0c0c0-yd09800~x2/)|
+|![Blue Matheson Hunting (Kinloch Anderson) example sett](/setts/s21/y7b3y2b2y2b30k9w2b2y2b2y3b5y2b2y2b2k9y5b3y4~b1c0070-k101010-wc0c0c0-yd09800~x2/sett.png)|

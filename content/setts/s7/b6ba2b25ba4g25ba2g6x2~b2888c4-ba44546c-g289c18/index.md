@@ -1,0 +1,51 @@
+---
+title: "Lennox Dress, Purple (Dance)"
+date: 2023-03-18
+---
+In pattern [BBBBGBG](/patterns/bbbbgbg/).
+
+
+This was sourced from tartans-authority.  It is a [7 stripes tartan](/stripes/stripes7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8189/
+
+## Thread count
+B/12 Na4 B50 Na8 G50 N4 G/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| G | <code style="background-color:#289C18;"><span style="color:#289C18;filter:grayscale(1) invert(1) contrast(100);">#289C18</span></code> `#289C18` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
+| N | <code style="background-color:#44546C;"><span style="color:#44546C;filter:grayscale(1) invert(1) contrast(100);">#44546C</span></code> `#44546C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.09 |
+| Na | <code style="background-color:#44546C;"><span style="color:#44546C;filter:grayscale(1) invert(1) contrast(100);">#44546C</span></code> `#44546C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.09 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "B/12 Na4 B50 Na8 G50 N4 G/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Universal Ancient](/setts/s8/b12g2b2g2b2ga8gb8ga1x2~b3c82af-g005020-ga503c14-gb309c18/) — ΔT 1.48
+1. [Bermuda (1986)](/setts/s5/b4w2g17b17y2x4~b2888c4-g009468-wfcfcfc-yd87c00/) — ΔT 1.49
+1. [Holmes (Clan?)](/setts/s8/g30k3g3k3g6b32g3b3x2~b1474b4-g289c18-k101010/) — ΔT 1.51
+1. [Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/b12g2b2g2b2ga8gb8ga1x2~b5c8ca8-g006818-ga604000-gb289c18/) — ΔT 1.52
+1. [Unidentified 1](/setts/s7/b4g3b2g19ba24g1ba2x2~b304080-ba5480b0-g008000/) — ΔT 1.52
+1. [Irvine of Drum](/setts/s8/b3k3b21g49b21k3b3w3x2~b5c8ca8-g408060-k101010-wfcfcfc/) — ΔT 1.52
+1. [Milligan](/setts/s6/b52g21b6g16k4g16x2~b1870a4-g289c18-k101010/) — ΔT 1.52
+1. [Unnamed, No 17](/setts/s7/g10b2g2b6ba5b1ba2x2~b304080-ba5480b0-g008000/) — ΔT 1.64
+1. [Yarmouth NS (District)](/setts/s12/y2b2y1b18g2b10g10b2g18ya1g2ya2x2~b2888c4-g5c6428-ya08858-yafccc00/) — ΔT 1.69
+1. [Valley of the Green (The ) Canadian Tartan Tartan Number: 148. Earliest known date: 1968 Specimen from Miss K Sinclair 1968 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/b4g26ga8b8ga8gb3b2x2~b5c8ca8-g003820-ga006818-gb289c18/) — ΔT 1.69
+
+## Neighbour map
+
+Every grey dot is one of 15726 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b12g2b2g2b2ga8gb8ga1x2~b3c82af-g005020-ga503c14-gb309c18/"><circle cx="252.0" cy="211.3" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/setts/s5/b4w2g17b17y2x4~b2888c4-g009468-wfcfcfc-yd87c00/"><circle cx="332.6" cy="255.8" r="4" fill="#3465a4"><title>Bermuda (1986)</title></circle></a><a href="/setts/s8/g30k3g3k3g6b32g3b3x2~b1474b4-g289c18-k101010/"><circle cx="290.5" cy="189.3" r="4" fill="#3465a4"><title>Holmes (Clan?)</title></circle></a><a href="/setts/s8/b12g2b2g2b2ga8gb8ga1x2~b5c8ca8-g006818-ga604000-gb289c18/"><circle cx="262.8" cy="213.1" r="4" fill="#3465a4"><title>Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b4g3b2g19ba24g1ba2x2~b304080-ba5480b0-g008000/"><circle cx="384.2" cy="199.3" r="4" fill="#3465a4"><title>Unidentified 1</title></circle></a><a href="/setts/s8/b3k3b21g49b21k3b3w3x2~b5c8ca8-g408060-k101010-wfcfcfc/"><circle cx="365.5" cy="190.9" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/setts/s6/b52g21b6g16k4g16x2~b1870a4-g289c18-k101010/"><circle cx="350.7" cy="243.6" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/setts/s7/g10b2g2b6ba5b1ba2x2~b304080-ba5480b0-g008000/"><circle cx="273.7" cy="251.3" r="4" fill="#3465a4"><title>Unnamed, No 17</title></circle></a><a href="/setts/s12/y2b2y1b18g2b10g10b2g18ya1g2ya2x2~b2888c4-g5c6428-ya08858-yafccc00/"><circle cx="340.6" cy="168.1" r="4" fill="#3465a4"><title>Yarmouth NS (District)</title></circle></a><a href="/setts/s7/b4g26ga8b8ga8gb3b2x2~b5c8ca8-g003820-ga006818-gb289c18/"><circle cx="275.9" cy="216.2" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan Tartan Number: 148. Earliest known date: 1968 Specimen from Miss K Sinclair 1968 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="311.8" cy="214.5" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/b6ba2b25ba4g25ba2g6x2~b2888c4-ba44546c-g289c18/

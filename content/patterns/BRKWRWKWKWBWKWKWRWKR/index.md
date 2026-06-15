@@ -16,5 +16,5 @@ BRKWRWKWKWBWKWKWRWKR
 
 | Tartans |
 |---------------|
-| [MacRae Dress Red Fancy Tartan Tartan Number: 6529. Earliest known date: 2000 A dance version of MacRae Dress. From a sample provided by Tartantown. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/r18k12w6r48w6k12w54k6w18b6w18k6w54k12w6r48w6k12r18b6-b2888c4-k101010-rc80000-wf8f8f8/)|
-|![MacRae Dress Red Fancy Tartan Tartan Number: 6529. Earliest known date: 2000 A dance version of MacRae Dress. From a sample provided by Tartantown. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s20/r18k12w6r48w6k12w54k6w18b6w18k6w54k12w6r48w6k12r18b6-b2888c4-k101010-rc80000-wf8f8f8/sett.png)|
+| [MacRae Dress Red Fancy Tartan Tartan Number: 6529. Earliest known date: 2000 A dance version of MacRae Dress. From a sample provided by Tartantown. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/r3k2w1r8w1k2w9k1w3b1w3k1w9k2w1r8w1k2r3b1~b2888c4-k101010-rc80000-wf8f8f8~x6/)|
+|![MacRae Dress Red Fancy Tartan Tartan Number: 6529. Earliest known date: 2000 A dance version of MacRae Dress. From a sample provided by Tartantown. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s20/r3k2w1r8w1k2w9k1w3b1w3k1w9k2w1r8w1k2r3b1~b2888c4-k101010-rc80000-wf8f8f8~x6/sett.png)|

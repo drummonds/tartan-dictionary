@@ -16,5 +16,5 @@ KGKGKGKWKRGYGRKWKGKGKGKW
 
 | Tartans |
 |---------------|
-| [Kapasi (Personal)](/setts/s24/k24g4k4g4k4g32k6w6k6r24g12y4g12r24k6w6k6g32k4g4k4g4k24wa4-g408060-k101010-rc80000-wfcfcfc-wac49cd8-yd87c00/)|
-|![Kapasi (Personal) example sett](/setts/s24/k24g4k4g4k4g32k6w6k6r24g12y4g12r24k6w6k6g32k4g4k4g4k24wa4-g408060-k101010-rc80000-wfcfcfc-wac49cd8-yd87c00/sett.png)|
+| [Kapasi (Personal)](/setts/s24/k12g2k2g2k2g16k3w3k3r12g6y2g6r12k3w3k3g16k2g2k2g2k12wa2~g408060-k101010-rc80000-wfcfcfc-wac49cd8-yd87c00~x2/)|
+|![Kapasi (Personal) example sett](/setts/s24/k12g2k2g2k2g16k3w3k3r12g6y2g6r12k3w3k3g16k2g2k2g2k12wa2~g408060-k101010-rc80000-wfcfcfc-wac49cd8-yd87c00~x2/sett.png)|

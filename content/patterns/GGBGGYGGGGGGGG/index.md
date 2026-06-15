@@ -16,5 +16,5 @@ GGBGGYGGGGGGGG
 
 | Tartans |
 |---------------|
-| [Stewart Camel (Lochcarron)](/setts/s14/g6ga6gb4ga12gc14gb4g6gb4y6gb10g6b6g40ga4-b3850c8-g8c7038-ga603800-gb003820-gc5c6428-ybc8c00/)|
-|![Stewart Camel (Lochcarron) example sett](/setts/s14/g6ga6gb4ga12gc14gb4g6gb4y6gb10g6b6g40ga4-b3850c8-g8c7038-ga603800-gb003820-gc5c6428-ybc8c00/sett.png)|
+| [Stewart Camel (Lochcarron)](/setts/s14/g3ga3gb2ga6gc7gb2g3gb2y3gb5g3b3g20ga2~b3850c8-g8c7038-ga603800-gb003820-gc5c6428-ybc8c00~x2/)|
+|![Stewart Camel (Lochcarron) example sett](/setts/s14/g3ga3gb2ga6gc7gb2g3gb2y3gb5g3b3g20ga2~b3850c8-g8c7038-ga603800-gb003820-gc5c6428-ybc8c00~x2/sett.png)|

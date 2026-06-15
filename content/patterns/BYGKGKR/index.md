@@ -6,7 +6,7 @@ BYGKGKR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r6k22g58k56ga38y4b2-b0000ff-g005020-ga289c18-k101010-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s7/r3k11g29k28ga19y2b1~b0000ff-g005020-ga289c18-k101010-rff0000-yffe600~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BYGKGKR
 
 | Tartans |
 |---------------|
-| [PMMC](/setts/s7/r6k22g58k56ga38y4b2-b0000ff-g005020-ga289c18-k101010-rff0000-yffe600/)|
-|![PMMC example sett](/setts/s7/r6k22g58k56ga38y4b2-b0000ff-g005020-ga289c18-k101010-rff0000-yffe600/sett.png)|
-| [PMMC](/setts/s7/r6k22g58k56ga38y4b2-b2c2c80-g006818-ga289c18-k101010-rc80000-yfccc00/)|
-|![PMMC example sett](/setts/s7/r6k22g58k56ga38y4b2-b2c2c80-g006818-ga289c18-k101010-rc80000-yfccc00/sett.png)|
+| [PMMC](/setts/s7/r3k11g29k28ga19y2b1~b0000ff-g005020-ga289c18-k101010-rff0000-yffe600~x2/)|
+|![PMMC example sett](/setts/s7/r3k11g29k28ga19y2b1~b0000ff-g005020-ga289c18-k101010-rff0000-yffe600~x2/sett.png)|
+| [PMMC](/setts/s7/r3k11g29k28ga19y2b1~b2c2c80-g006818-ga289c18-k101010-rc80000-yfccc00~x2/)|
+|![PMMC example sett](/setts/s7/r3k11g29k28ga19y2b1~b2c2c80-g006818-ga289c18-k101010-rc80000-yfccc00~x2/sett.png)|

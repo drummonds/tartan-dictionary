@@ -6,7 +6,7 @@ GRBRBRG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4r42b120r96b4r6g4-b202060-g00643c-rc80000/tartan.png)
+![Woven sample](/setts/s7/g2r21b60r48b2r3g2~b202060-g00643c-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GRBRBRG
 
 | Tartans |
 |---------------|
-| [Fraser, Isabella](/setts/s7/g4r42b120r96b4r6g4-b202060-g00643c-rc80000/)|
-|![Fraser, Isabella example sett](/setts/s7/g4r42b120r96b4r6g4-b202060-g00643c-rc80000/sett.png)|
+| [Fraser, Isabella](/setts/s7/g2r21b60r48b2r3g2~b202060-g00643c-rc80000~x2/)|
+|![Fraser, Isabella example sett](/setts/s7/g2r21b60r48b2r3g2~b202060-g00643c-rc80000~x2/sett.png)|

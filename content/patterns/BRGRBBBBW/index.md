@@ -16,5 +16,5 @@ BRGRBBBBW
 
 | Tartans |
 |---------------|
-| [Japan-Scotland Society (Corporate)](/setts/s9/b24r2g8r4b20ba40bb6ba18w2-b780078-ba2888c4-bb202060-g006818-rc80000-wfcfcfc/)|
-|![Japan-Scotland Society (Corporate) example sett](/setts/s9/b24r2g8r4b20ba40bb6ba18w2-b780078-ba2888c4-bb202060-g006818-rc80000-wfcfcfc/sett.png)|
+| [Japan-Scotland Society (Corporate)](/setts/s9/b12r1g4r2b10ba20bb3ba9w1~b780078-ba2888c4-bb202060-g006818-rc80000-wfcfcfc~x2/)|
+|![Japan-Scotland Society (Corporate) example sett](/setts/s9/b12r1g4r2b10ba20bb3ba9w1~b780078-ba2888c4-bb202060-g006818-rc80000-wfcfcfc~x2/sett.png)|

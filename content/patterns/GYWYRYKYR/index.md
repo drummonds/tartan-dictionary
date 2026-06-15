@@ -16,5 +16,5 @@ GYWYRYKYR
 
 | Tartans |
 |---------------|
-| [Cawte of Middlebanknock (Personal)](/setts/s9/g26y32w8y8r8y8k40y16r16-g408060-k101010-rc80000-wfcfcfc-ye8c000/)|
-|![Cawte of Middlebanknock (Personal) example sett](/setts/s9/g26y32w8y8r8y8k40y16r16-g408060-k101010-rc80000-wfcfcfc-ye8c000/sett.png)|
+| [Cawte of Middlebanknock (Personal)](/setts/s9/g13y16w4y4r4y4k20y8r8~g408060-k101010-rc80000-wfcfcfc-ye8c000~x2/)|
+|![Cawte of Middlebanknock (Personal) example sett](/setts/s9/g13y16w4y4r4y4k20y8r8~g408060-k101010-rc80000-wfcfcfc-ye8c000~x2/sett.png)|

@@ -6,7 +6,7 @@ RBWRKGR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/r16b90w2ra8k22g12r8-b5c8ca8-g006818-k101010-rc80000-ra888888-wfcfcfc/tartan.png)
+![Woven sample](/setts/s7/r8b45w1ra4k11g6r4~b5c8ca8-g006818-k101010-rc80000-ra888888-wfcfcfc~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RBWRKGR
 
 | Tartans |
 |---------------|
-| [Ascension Island Heritage Trust](/setts/s7/r16b90w2ra8k22g12r8-b5c8ca8-g006818-k101010-rc80000-ra888888-wfcfcfc/)|
-|![Ascension Island Heritage Trust example sett](/setts/s7/r16b90w2ra8k22g12r8-b5c8ca8-g006818-k101010-rc80000-ra888888-wfcfcfc/sett.png)|
+| [Ascension Island Heritage Trust](/setts/s7/r8b45w1ra4k11g6r4~b5c8ca8-g006818-k101010-rc80000-ra888888-wfcfcfc~x2/)|
+|![Ascension Island Heritage Trust example sett](/setts/s7/r8b45w1ra4k11g6r4~b5c8ca8-g006818-k101010-rc80000-ra888888-wfcfcfc~x2/sett.png)|

@@ -6,7 +6,7 @@ BGBKGB
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/b96g4b14k48g52b8-b1474b4-g006818-k101010/tartan.png)
+![Woven sample](/setts/s6/b48g2b7k24g26b4~b1474b4-g006818-k101010~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBKGB
 
 | Tartans |
 |---------------|
-| [Unidentified (Kallmeyer 'B')](/setts/s6/b96g4b14k48g52b8-b1474b4-g006818-k101010/)|
-|![Unidentified (Kallmeyer 'B') example sett](/setts/s6/b96g4b14k48g52b8-b1474b4-g006818-k101010/sett.png)|
+| [Unidentified (Kallmeyer 'B')](/setts/s6/b48g2b7k24g26b4~b1474b4-g006818-k101010~x2/)|
+|![Unidentified (Kallmeyer 'B') example sett](/setts/s6/b48g2b7k24g26b4~b1474b4-g006818-k101010~x2/sett.png)|

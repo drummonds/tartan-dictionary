@@ -6,7 +6,7 @@ RKGKRR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r6ra36k4g36k48rb2-g003820-k00002c-r888888-ra901c38-rbc80000/tartan.png)
+![Woven sample](/setts/s6/r3ra18k2g18k24rb1~g003820-k00002c-r888888-ra901c38-rbc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKGKRR
 
 | Tartans |
 |---------------|
-| [205 (Scottish) Field Hospital (Mil.)](/setts/s6/r6ra36k4g36k48rb2-g003820-k00002c-r888888-ra901c38-rbc80000/)|
-|![205 (Scottish) Field Hospital (Mil.) example sett](/setts/s6/r6ra36k4g36k48rb2-g003820-k00002c-r888888-ra901c38-rbc80000/sett.png)|
+| [205 (Scottish) Field Hospital (Mil.)](/setts/s6/r3ra18k2g18k24rb1~g003820-k00002c-r888888-ra901c38-rbc80000~x2/)|
+|![205 (Scottish) Field Hospital (Mil.) example sett](/setts/s6/r3ra18k2g18k24rb1~g003820-k00002c-r888888-ra901c38-rbc80000~x2/sett.png)|

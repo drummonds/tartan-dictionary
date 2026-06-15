@@ -6,7 +6,7 @@ GKGKRKGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g164k12g6k18r4k10g4y4-g006818-k101010-rc8002c-ye8c000/tartan.png)
+![Woven sample](/setts/s8/g82k6g3k9r2k5g2y2~g006818-k101010-rc8002c-ye8c000~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GKGKRKGY
 
 | Tartans |
 |---------------|
-| [Crane of Cluny (Personal)](/setts/s8/g164k12g6k18r4k10g4y4-g006818-k101010-rc8002c-ye8c000/)|
-|![Crane of Cluny (Personal) example sett](/setts/s8/g164k12g6k18r4k10g4y4-g006818-k101010-rc8002c-ye8c000/sett.png)|
-| [Stewart from Cairnie](/setts/s8/g166k12g6k18r4k10g4y4-g005020-k101010-rdc0000-ye8c000/)|
-|![Stewart from Cairnie example sett](/setts/s8/g166k12g6k18r4k10g4y4-g005020-k101010-rdc0000-ye8c000/sett.png)|
+| [Crane of Cluny (Personal)](/setts/s8/g82k6g3k9r2k5g2y2~g006818-k101010-rc8002c-ye8c000~x2/)|
+|![Crane of Cluny (Personal) example sett](/setts/s8/g82k6g3k9r2k5g2y2~g006818-k101010-rc8002c-ye8c000~x2/sett.png)|
+| [Stewart from Cairnie](/setts/s8/g83k6g3k9r2k5g2y2~g005020-k101010-rdc0000-ye8c000~x2/)|
+|![Stewart from Cairnie example sett](/setts/s8/g83k6g3k9r2k5g2y2~g005020-k101010-rdc0000-ye8c000~x2/sett.png)|

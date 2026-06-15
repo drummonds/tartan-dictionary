@@ -16,5 +16,5 @@ GKGKGKRYRK
 
 | Tartans |
 |---------------|
-| [Bomb Disposal](/setts/s10/k56r6y4r6k26g56ka2g6ka2g32-g004c00-k101010-ka000000-rc80000-ye0a126/)|
-|![Bomb Disposal example sett](/setts/s10/k56r6y4r6k26g56ka2g6ka2g32-g004c00-k101010-ka000000-rc80000-ye0a126/sett.png)|
+| [Bomb Disposal](/setts/s10/k28r3y2r3k13g28ka1g3ka1g16~g004c00-k101010-ka000000-rc80000-ye0a126~x2/)|
+|![Bomb Disposal example sett](/setts/s10/k28r3y2r3k13g28ka1g3ka1g16~g004c00-k101010-ka000000-rc80000-ye0a126~x2/sett.png)|

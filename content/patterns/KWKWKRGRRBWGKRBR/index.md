@@ -16,5 +16,5 @@ KWKWKRGRRBWGKRBR
 
 | Tartans |
 |---------------|
-| [City of Edinburgh (2001) (District)](/setts/s16/r36b2ra36k2g36w2b36r2ra36g2r36k6w8k6w8k6-b2888c4-g006818-k101010-rc80000-ra888888-wf8f8f8/)|
-|![City of Edinburgh (2001) (District) example sett](/setts/s16/r36b2ra36k2g36w2b36r2ra36g2r36k6w8k6w8k6-b2888c4-g006818-k101010-rc80000-ra888888-wf8f8f8/sett.png)|
+| [City of Edinburgh (2001) (District)](/setts/s16/r18b1ra18k1g18w1b18r1ra18g1r18k3w4k3w4k3~b2888c4-g006818-k101010-rc80000-ra888888-wf8f8f8~x2/)|
+|![City of Edinburgh (2001) (District) example sett](/setts/s16/r18b1ra18k1g18w1b18r1ra18g1r18k3w4k3w4k3~b2888c4-g006818-k101010-rc80000-ra888888-wf8f8f8~x2/sett.png)|

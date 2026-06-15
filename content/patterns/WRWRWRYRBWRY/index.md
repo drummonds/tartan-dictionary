@@ -16,5 +16,5 @@ WRWRWRYRBWRY
 
 | Tartans |
 |---------------|
-| [Spirit of Dunkeld](/setts/s12/w76r2w4r4w4r12y8r20b16w22r6y2-b0000cd-rff0000-w82cffd-yffe600/)|
-|![Spirit of Dunkeld example sett](/setts/s12/w76r2w4r4w4r12y8r20b16w22r6y2-b0000cd-rff0000-w82cffd-yffe600/sett.png)|
+| [Spirit of Dunkeld](/setts/s12/w38r1w2r2w2r6y4r10b8w11r3y1~b0000cd-rff0000-w82cffd-yffe600~x2/)|
+|![Spirit of Dunkeld example sett](/setts/s12/w38r1w2r2w2r6y4r10b8w11r3y1~b0000cd-rff0000-w82cffd-yffe600~x2/sett.png)|

@@ -16,5 +16,5 @@ BRBYBYBRBBBY
 
 | Tartans |
 |---------------|
-| [Gabrielle (Fashion)](/setts/s12/b96r8b12y4b4ya4b4r20ba12b4ba6ya4-b5c5c5c-ba1474b4-r880000-ybc8c00-yaa0a0a0/)|
-|![Gabrielle (Fashion) example sett](/setts/s12/b96r8b12y4b4ya4b4r20ba12b4ba6ya4-b5c5c5c-ba1474b4-r880000-ybc8c00-yaa0a0a0/sett.png)|
+| [Gabrielle (Fashion)](/setts/s12/b48r4b6y2b2ya2b2r10ba6b2ba3ya2~b5c5c5c-ba1474b4-r880000-ybc8c00-yaa0a0a0~x2/)|
+|![Gabrielle (Fashion) example sett](/setts/s12/b48r4b6y2b2ya2b2r10ba6b2ba3ya2~b5c5c5c-ba1474b4-r880000-ybc8c00-yaa0a0a0~x2/sett.png)|

@@ -16,5 +16,5 @@ RRRRRYRBGGGBRY
 
 | Tartans |
 |---------------|
-| [Burrell (Personal)](/setts/s14/r58ra2r4ra2r120y4r4b20g4ga2g4b20r4y4-b2c2c80-g006818-ga289c18-r880000-ra888888-ybc8c00/)|
-|![Burrell (Personal) example sett](/setts/s14/r58ra2r4ra2r120y4r4b20g4ga2g4b20r4y4-b2c2c80-g006818-ga289c18-r880000-ra888888-ybc8c00/sett.png)|
+| [Burrell (Personal)](/setts/s14/r29ra1r2ra1r60y2r2b10g2ga1g2b10r2y2~b2c2c80-g006818-ga289c18-r880000-ra888888-ybc8c00~x2/)|
+|![Burrell (Personal) example sett](/setts/s14/r29ra1r2ra1r60y2r2b10g2ga1g2b10r2y2~b2c2c80-g006818-ga289c18-r880000-ra888888-ybc8c00~x2/sett.png)|

@@ -16,5 +16,5 @@ GKGKGKGBYGGKRKYK
 
 | Tartans |
 |---------------|
-| [Belk Heritage Hunting (Fashion)](/setts/s16/k32y2k8r4k8g2ga82y4b2g72k2ga6k2g6k2ga8-b202060-g604000-ga003820-k101010-r888888-ybc8c00/)|
-|![Belk Heritage Hunting (Fashion) example sett](/setts/s16/k32y2k8r4k8g2ga82y4b2g72k2ga6k2g6k2ga8-b202060-g604000-ga003820-k101010-r888888-ybc8c00/sett.png)|
+| [Belk Heritage Hunting (Fashion)](/setts/s16/k16y1k4r2k4g1ga41y2b1g36k1ga3k1g3k1ga4~b202060-g604000-ga003820-k101010-r888888-ybc8c00~x2/)|
+|![Belk Heritage Hunting (Fashion) example sett](/setts/s16/k16y1k4r2k4g1ga41y2b1g36k1ga3k1g3k1ga4~b202060-g604000-ga003820-k101010-r888888-ybc8c00~x2/sett.png)|

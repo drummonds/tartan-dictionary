@@ -16,7 +16,7 @@ RGKBKGKGKGR
 
 | Tartans |
 |---------------|
-| [Rangers F.C.](/setts/s11/r6g28k24b80k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00020/)|
-|![Rangers F.C. example sett](/setts/s11/r6g28k24b80k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00020/sett.png)|
-| [Rangers F.C.](/setts/s11/r6g32k24b68k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00000/)|
-|![Rangers F.C. example sett](/setts/s11/r6g32k24b68k24g4k4g4k4g14r6-b304080-g30a010-k000000-rc00000/sett.png)|
+| [Rangers F.C.](/setts/s11/r3g14k12b40k12g2k2g2k2g7r3~b304080-g30a010-k000000-rc00020~x2/)|
+|![Rangers F.C. example sett](/setts/s11/r3g14k12b40k12g2k2g2k2g7r3~b304080-g30a010-k000000-rc00020~x2/sett.png)|
+| [Rangers F.C.](/setts/s11/r3g16k12b34k12g2k2g2k2g7r3~b304080-g30a010-k000000-rc00000~x2/)|
+|![Rangers F.C. example sett](/setts/s11/r3g16k12b34k12g2k2g2k2g7r3~b304080-g30a010-k000000-rc00000~x2/sett.png)|

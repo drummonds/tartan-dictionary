@@ -6,7 +6,7 @@ BYWBGBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/b16y8w4ba50g50bb4r10-b003c64-ba1c0070-bb2c2c80-g604000-rc80000-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s7/b8y4w2ba25g25bb2r5~b003c64-ba1c0070-bb2c2c80-g604000-rc80000-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYWBGBR
 
 | Tartans |
 |---------------|
-| [Kildrummie (Name)](/setts/s7/b16y8w4ba50g50bb4r10-b003c64-ba1c0070-bb2c2c80-g604000-rc80000-we0e0e0-ye8c000/)|
-|![Kildrummie (Name) example sett](/setts/s7/b16y8w4ba50g50bb4r10-b003c64-ba1c0070-bb2c2c80-g604000-rc80000-we0e0e0-ye8c000/sett.png)|
+| [Kildrummie (Name)](/setts/s7/b8y4w2ba25g25bb2r5~b003c64-ba1c0070-bb2c2c80-g604000-rc80000-we0e0e0-ye8c000~x2/)|
+|![Kildrummie (Name) example sett](/setts/s7/b8y4w2ba25g25bb2r5~b003c64-ba1c0070-bb2c2c80-g604000-rc80000-we0e0e0-ye8c000~x2/sett.png)|

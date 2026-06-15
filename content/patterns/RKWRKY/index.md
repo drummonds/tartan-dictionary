@@ -6,7 +6,7 @@ RKWRKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r97k18w5ra26k18y14-k101010-rff0000-ra880000-wffffff-yb0b0b0/tartan.png)
+![Woven sample](/setts/s6/r97k18w5ra26k18y14~k101010-rff0000-ra880000-wffffff-yb0b0b0/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RKWRKY
 
 | Tartans |
 |---------------|
-| [Bradley University](/setts/s6/r97k18w5ra26k18y14-k101010-rff0000-ra880000-wffffff-yb0b0b0/)|
-|![Bradley University example sett](/setts/s6/r97k18w5ra26k18y14-k101010-rff0000-ra880000-wffffff-yb0b0b0/sett.png)|
+| [Bradley University](/setts/s6/r97k18w5ra26k18y14~k101010-rff0000-ra880000-wffffff-yb0b0b0/)|
+|![Bradley University example sett](/setts/s6/r97k18w5ra26k18y14~k101010-rff0000-ra880000-wffffff-yb0b0b0/sett.png)|

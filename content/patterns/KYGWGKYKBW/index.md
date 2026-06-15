@@ -16,5 +16,5 @@ KYGWGKYKBW
 
 | Tartans |
 |---------------|
-| [Corstorphine Trial A](/setts/s10/k12y4g36w6g26k6y8k6b36w6-b2c2c80-g006818-k101010-wfcfcfc-ye8c000/)|
-|![Corstorphine Trial A example sett](/setts/s10/k12y4g36w6g26k6y8k6b36w6-b2c2c80-g006818-k101010-wfcfcfc-ye8c000/sett.png)|
+| [Corstorphine Trial A](/setts/s10/k6y2g18w3g13k3y4k3b18w3~b2c2c80-g006818-k101010-wfcfcfc-ye8c000~x2/)|
+|![Corstorphine Trial A example sett](/setts/s10/k6y2g18w3g13k3y4k3b18w3~b2c2c80-g006818-k101010-wfcfcfc-ye8c000~x2/sett.png)|

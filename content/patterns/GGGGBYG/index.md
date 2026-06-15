@@ -6,7 +6,7 @@ GGGGBYG
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g64ga14g14ga32b64y6ga16-b2c2c80-g006818-ga604000-ye8c000/tartan.png)
+![Woven sample](/setts/s7/g32ga7g7ga16b32y3ga8~b2c2c80-g006818-ga604000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGGBYG
 
 | Tartans |
 |---------------|
-| [Strange of Balcaskie (Clan)](/setts/s7/g64ga14g14ga32b64y6ga16-b2c2c80-g006818-ga604000-ye8c000/)|
-|![Strange of Balcaskie (Clan) example sett](/setts/s7/g64ga14g14ga32b64y6ga16-b2c2c80-g006818-ga604000-ye8c000/sett.png)|
+| [Strange of Balcaskie (Clan)](/setts/s7/g32ga7g7ga16b32y3ga8~b2c2c80-g006818-ga604000-ye8c000~x2/)|
+|![Strange of Balcaskie (Clan) example sett](/setts/s7/g32ga7g7ga16b32y3ga8~b2c2c80-g006818-ga604000-ye8c000~x2/sett.png)|

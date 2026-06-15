@@ -16,5 +16,5 @@ GRRRRRWBKYKBWRRRRRGY
 
 | Tartans |
 |---------------|
-| [Heston](/setts/s20/g16r24ra6r18ra6r24w18b96k16y4k16b96w18r24ra6r18ra6r24g16y4-b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800/)|
-|![Heston example sett](/setts/s20/g16r24ra6r18ra6r24w18b96k16y4k16b96w18r24ra6r18ra6r24g16y4-b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800/sett.png)|
+| [Heston](/setts/s20/g8r12ra3r9ra3r12w9b48k8y2k8b48w9r12ra3r9ra3r12g8y2~b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800~x2/)|
+|![Heston example sett](/setts/s20/g8r12ra3r9ra3r12w9b48k8y2k8b48w9r12ra3r9ra3r12g8y2~b202060-g003820-k101010-r888888-raa00048-wa8ace8-yd09800~x2/sett.png)|

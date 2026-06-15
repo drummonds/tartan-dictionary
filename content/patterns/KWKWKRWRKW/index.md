@@ -16,5 +16,5 @@ KWKWKRWRKW
 
 | Tartans |
 |---------------|
-| [Lebrun](/setts/s10/w80k22r16w4r16k12w4k32w2k32-k101010-r985428-wf8f4d0/)|
-|![Lebrun example sett](/setts/s10/w80k22r16w4r16k12w4k32w2k32-k101010-r985428-wf8f4d0/sett.png)|
+| [Lebrun](/setts/s10/w40k11r8w2r8k6w2k16w1k16~k101010-r985428-wf8f4d0~x2/)|
+|![Lebrun example sett](/setts/s10/w40k11r8w2r8k6w2k16w1k16~k101010-r985428-wf8f4d0~x2/sett.png)|

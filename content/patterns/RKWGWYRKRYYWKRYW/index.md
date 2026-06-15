@@ -16,5 +16,5 @@ RKWGWYRKRYYWKRYW
 
 | Tartans |
 |---------------|
-| [Clan Chattan D](/setts/s16/r120k4w2g32w4y6r6k2r6y6ya4w32k8r8y12w4-g004c00-k000000-rc80000-wd0d0d0-yffff00-yaa0a0a0/)|
-|![Clan Chattan D example sett](/setts/s16/r120k4w2g32w4y6r6k2r6y6ya4w32k8r8y12w4-g004c00-k000000-rc80000-wd0d0d0-yffff00-yaa0a0a0/sett.png)|
+| [Clan Chattan D](/setts/s16/r60k2w1g16w2y3r3k1r3y3ya2w16k4r4y6w2~g004c00-k000000-rc80000-wd0d0d0-yffff00-yaa0a0a0~x2/)|
+|![Clan Chattan D example sett](/setts/s16/r60k2w1g16w2y3r3k1r3y3ya2w16k4r4y6w2~g004c00-k000000-rc80000-wd0d0d0-yffff00-yaa0a0a0~x2/sett.png)|

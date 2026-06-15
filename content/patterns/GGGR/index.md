@@ -6,7 +6,7 @@ GGGR
 
 It is a 4 stripes tartan.
 
-![Woven sample](/setts/s4/g6ga60g80r6-g003820-ga603800-r880000/tartan.png)
+![Woven sample](/setts/s4/g3ga30g40r3~g003820-ga603800-r880000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGR
 
 | Tartans |
 |---------------|
-| [Sanix Muted](/setts/s4/g6ga60g80r6-g003820-ga603800-r880000/)|
-|![Sanix Muted example sett](/setts/s4/g6ga60g80r6-g003820-ga603800-r880000/sett.png)|
+| [Sanix Muted](/setts/s4/g3ga30g40r3~g003820-ga603800-r880000~x2/)|
+|![Sanix Muted example sett](/setts/s4/g3ga30g40r3~g003820-ga603800-r880000~x2/sett.png)|

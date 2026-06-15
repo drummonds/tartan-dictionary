@@ -6,7 +6,7 @@ RYRKGW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r8y4r20k16g20w4-g006818-k101010-rc80000-wfcfcfc-yfccc00/tartan.png)
+![Woven sample](/setts/s6/r2y1r5k4g5w1~g006818-k101010-rc80000-wfcfcfc-yfccc00~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RYRKGW
 
 | Tartans |
 |---------------|
-| [Aboyne II (Fashion)](/setts/s6/r8y4r20k16g20w4-g006818-k101010-rc80000-wfcfcfc-yfccc00/)|
-|![Aboyne II (Fashion) example sett](/setts/s6/r8y4r20k16g20w4-g006818-k101010-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Aboyne II (Fashion)](/setts/s6/r2y1r5k4g5w1~g006818-k101010-rc80000-wfcfcfc-yfccc00~x4/)|
+|![Aboyne II (Fashion) example sett](/setts/s6/r2y1r5k4g5w1~g006818-k101010-rc80000-wfcfcfc-yfccc00~x4/sett.png)|

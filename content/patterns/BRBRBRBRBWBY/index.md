@@ -16,5 +16,5 @@ BRBRBRBRBWBY
 
 | Tartans |
 |---------------|
-| [Kirkcaldy Tartan Army (Corporate)](/setts/s12/b72r6b2r4b6r12ba2r4ba70w2ba2y4-b14283c-ba202060-rc8002c-wf8f8f8-ybc8c00/)|
-|![Kirkcaldy Tartan Army (Corporate) example sett](/setts/s12/b72r6b2r4b6r12ba2r4ba70w2ba2y4-b14283c-ba202060-rc8002c-wf8f8f8-ybc8c00/sett.png)|
+| [Kirkcaldy Tartan Army (Corporate)](/setts/s12/b36r3b1r2b3r6ba1r2ba35w1ba1y2~b14283c-ba202060-rc8002c-wf8f8f8-ybc8c00~x2/)|
+|![Kirkcaldy Tartan Army (Corporate) example sett](/setts/s12/b36r3b1r2b3r6ba1r2ba35w1ba1y2~b14283c-ba202060-rc8002c-wf8f8f8-ybc8c00~x2/sett.png)|

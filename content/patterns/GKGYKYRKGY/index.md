@@ -16,5 +16,5 @@ GKGYKYRKGY
 
 | Tartans |
 |---------------|
-| [Antrim](/setts/s10/g10k4g34y4k10y4r10k34g4y8-g008000-k000030-rf06030-yf0c000/)|
-|![Antrim example sett](/setts/s10/g10k4g34y4k10y4r10k34g4y8-g008000-k000030-rf06030-yf0c000/sett.png)|
+| [Antrim](/setts/s10/g5k2g17y2k5y2r5k17g2y4~g008000-k000030-rf06030-yf0c000~x2/)|
+|![Antrim example sett](/setts/s10/g5k2g17y2k5y2r5k17g2y4~g008000-k000030-rf06030-yf0c000~x2/sett.png)|

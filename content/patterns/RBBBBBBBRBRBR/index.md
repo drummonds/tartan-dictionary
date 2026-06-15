@@ -16,5 +16,5 @@ RBBBBBBBRBRBR
 
 | Tartans |
 |---------------|
-| [Vincent](/setts/s13/r6b24ba24b6ba24bb24ba6bb24r24bb6r24b24r6-b3474fc-ba3c2010-bb00008c-r8c0000/)|
-|![Vincent example sett](/setts/s13/r6b24ba24b6ba24bb24ba6bb24r24bb6r24b24r6-b3474fc-ba3c2010-bb00008c-r8c0000/sett.png)|
+| [Vincent](/setts/s13/r1b4ba4b1ba4bb4ba1bb4r4bb1r4b4r1~b3474fc-ba3c2010-bb00008c-r8c0000~x6/)|
+|![Vincent example sett](/setts/s13/r1b4ba4b1ba4bb4ba1bb4r4bb1r4b4r1~b3474fc-ba3c2010-bb00008c-r8c0000~x6/sett.png)|

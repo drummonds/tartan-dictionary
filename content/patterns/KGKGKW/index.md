@@ -6,7 +6,7 @@ KGKGKW
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/k88g16k8ga26k8w6-g408060-ga006818-k101010-we0e0e0/tartan.png)
+![Woven sample](/setts/s6/k44g8k4ga13k4w3~g408060-ga006818-k101010-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KGKGKW
 
 | Tartans |
 |---------------|
-| [Childers (Personal)](/setts/s6/k88g16k8ga26k8w6-g408060-ga006818-k101010-we0e0e0/)|
-|![Childers (Personal) example sett](/setts/s6/k88g16k8ga26k8w6-g408060-ga006818-k101010-we0e0e0/sett.png)|
+| [Childers (Personal)](/setts/s6/k44g8k4ga13k4w3~g408060-ga006818-k101010-we0e0e0~x2/)|
+|![Childers (Personal) example sett](/setts/s6/k44g8k4ga13k4w3~g408060-ga006818-k101010-we0e0e0~x2/sett.png)|

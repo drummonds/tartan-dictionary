@@ -6,7 +6,7 @@ KWKBWKWK
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k198w9k17b13w9k4w13k4-b2888c4-k101010-wd4d4c4/tartan.png)
+![Woven sample](/setts/s8/k198w9k17b13w9k4w13k4~b2888c4-k101010-wd4d4c4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKBWKWK
 
 | Tartans |
 |---------------|
-| [London Fog Black (Fashion)](/setts/s8/k198w9k17b13w9k4w13k4-b2888c4-k101010-wd4d4c4/)|
-|![London Fog Black (Fashion) example sett](/setts/s8/k198w9k17b13w9k4w13k4-b2888c4-k101010-wd4d4c4/sett.png)|
+| [London Fog Black (Fashion)](/setts/s8/k198w9k17b13w9k4w13k4~b2888c4-k101010-wd4d4c4/)|
+|![London Fog Black (Fashion) example sett](/setts/s8/k198w9k17b13w9k4w13k4~b2888c4-k101010-wd4d4c4/sett.png)|

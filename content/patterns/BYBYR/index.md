@@ -6,7 +6,7 @@ BYBYR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/b4y36b8y36r4-b202060-r880000-ya08858/tartan.png)
+![Woven sample](/setts/s5/b1y9b2y9r1~b202060-r880000-ya08858~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBYR
 
 | Tartans |
 |---------------|
-| [Brooks Brothers Tattersall Camel](/setts/s5/b4y36b8y36r4-b202060-r880000-ya08858/)|
-|![Brooks Brothers Tattersall Camel example sett](/setts/s5/b4y36b8y36r4-b202060-r880000-ya08858/sett.png)|
+| [Brooks Brothers Tattersall Camel](/setts/s5/b1y9b2y9r1~b202060-r880000-ya08858~x4/)|
+|![Brooks Brothers Tattersall Camel example sett](/setts/s5/b1y9b2y9r1~b202060-r880000-ya08858~x4/sett.png)|

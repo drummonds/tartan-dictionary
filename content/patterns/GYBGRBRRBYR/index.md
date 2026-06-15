@@ -16,5 +16,5 @@ GYBGRBRRBYR
 
 | Tartans |
 |---------------|
-| [Scotland (Personal)](/setts/s11/g6y2b2g40r4b18r4ra40b2y2ra6-b780078-g006818-ra00000-rac8002c-ye8c000/)|
-|![Scotland (Personal) example sett](/setts/s11/g6y2b2g40r4b18r4ra40b2y2ra6-b780078-g006818-ra00000-rac8002c-ye8c000/sett.png)|
+| [Scotland (Personal)](/setts/s11/g3y1b1g20r2b9r2ra20b1y1ra3~b780078-g006818-ra00000-rac8002c-ye8c000~x2/)|
+|![Scotland (Personal) example sett](/setts/s11/g3y1b1g20r2b9r2ra20b1y1ra3~b780078-g006818-ra00000-rac8002c-ye8c000~x2/sett.png)|

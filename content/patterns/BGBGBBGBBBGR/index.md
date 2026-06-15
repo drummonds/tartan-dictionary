@@ -16,5 +16,5 @@ BGBGBBGBBBGR
 
 | Tartans |
 |---------------|
-| [Richard of Wales](/setts/s12/b20g8b8g8b8ba20g8ba4bb4ba4g40r12-b202060-ba003c64-bb5c8ca8-g003820-r901c38/)|
-|![Richard of Wales example sett](/setts/s12/b20g8b8g8b8ba20g8ba4bb4ba4g40r12-b202060-ba003c64-bb5c8ca8-g003820-r901c38/sett.png)|
+| [Richard of Wales](/setts/s12/b5g2b2g2b2ba5g2ba1bb1ba1g10r3~b202060-ba003c64-bb5c8ca8-g003820-r901c38~x4/)|
+|![Richard of Wales example sett](/setts/s12/b5g2b2g2b2ba5g2ba1bb1ba1g10r3~b202060-ba003c64-bb5c8ca8-g003820-r901c38~x4/sett.png)|

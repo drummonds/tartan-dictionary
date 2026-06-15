@@ -16,7 +16,7 @@ BGBGKGKGKR
 
 | Tartans |
 |---------------|
-| [Dunedin Chapter](/setts/s10/b64g4b4g28k4g28k4g4k30r4-b2c4084-g005020-k101010-rdc0000/)|
-|![Dunedin Chapter example sett](/setts/s10/b64g4b4g28k4g28k4g4k30r4-b2c4084-g005020-k101010-rdc0000/sett.png)|
-| [Dunedin Chapter (Corporate)](/setts/s10/b78g6b6g40k6g40k6g6k40r6-b5c8ca8-g006818-k101010-rc80000/)|
-|![Dunedin Chapter (Corporate) example sett](/setts/s10/b78g6b6g40k6g40k6g6k40r6-b5c8ca8-g006818-k101010-rc80000/sett.png)|
+| [Dunedin Chapter](/setts/s10/b32g2b2g14k2g14k2g2k15r2~b2c4084-g005020-k101010-rdc0000~x2/)|
+|![Dunedin Chapter example sett](/setts/s10/b32g2b2g14k2g14k2g2k15r2~b2c4084-g005020-k101010-rdc0000~x2/sett.png)|
+| [Dunedin Chapter (Corporate)](/setts/s10/b39g3b3g20k3g20k3g3k20r3~b5c8ca8-g006818-k101010-rc80000~x2/)|
+|![Dunedin Chapter (Corporate) example sett](/setts/s10/b39g3b3g20k3g20k3g3k20r3~b5c8ca8-g006818-k101010-rc80000~x2/sett.png)|

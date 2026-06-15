@@ -6,7 +6,7 @@ BYBYBKBR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b140y8b6y8b14k4b4r14-b506878-k101010-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s8/b70y4b3y4b7k2b2r7~b506878-k101010-rc80000-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BYBYBKBR
 
 | Tartans |
 |---------------|
-| [European](/setts/s8/b140y8b6y8b14k4b4r14-b506878-k101010-rc80000-ye8c000/)|
-|![European example sett](/setts/s8/b140y8b6y8b14k4b4r14-b506878-k101010-rc80000-ye8c000/sett.png)|
+| [European](/setts/s8/b70y4b3y4b7k2b2r7~b506878-k101010-rc80000-ye8c000~x2/)|
+|![European example sett](/setts/s8/b70y4b3y4b7k2b2r7~b506878-k101010-rc80000-ye8c000~x2/sett.png)|

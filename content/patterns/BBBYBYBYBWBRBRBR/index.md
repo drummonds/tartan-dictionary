@@ -16,5 +16,5 @@ BBBYBYBYBWBRBRBR
 
 | Tartans |
 |---------------|
-| [McBeams Boy](/setts/s16/b38ba8b38y10b4y38b4y10b38w4b38r10b4r38b4r10-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858/)|
-|![McBeams Boy example sett](/setts/s16/b38ba8b38y10b4y38b4y10b38w4b38r10b4r38b4r10-b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858/sett.png)|
+| [McBeams Boy](/setts/s16/b19ba4b19y5b2y19b2y5b19w2b19r5b2r19b2r5~b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858~x2/)|
+|![McBeams Boy example sett](/setts/s16/b19ba4b19y5b2y19b2y5b19w2b19r5b2r19b2r5~b5c8ca8-ba2c2c80-rc80000-we0e0e0-ya08858~x2/sett.png)|

@@ -6,7 +6,7 @@ WYKYWYW
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/w4y44k24y12w4y4w4-k101010-we8ccb8-y48a4c0/tartan.png)
+![Woven sample](/setts/s7/w1y11k6y3w1y1w1~k101010-we8ccb8-y48a4c0~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ WYKYWYW
 
 | Tartans |
 |---------------|
-| [Angle, Blue (Fashion)](/setts/s7/w4y44k24y12w4y4w4-k101010-we8ccb8-y48a4c0/)|
-|![Angle, Blue (Fashion) example sett](/setts/s7/w4y44k24y12w4y4w4-k101010-we8ccb8-y48a4c0/sett.png)|
+| [Angle, Blue (Fashion)](/setts/s7/w1y11k6y3w1y1w1~k101010-we8ccb8-y48a4c0~x4/)|
+|![Angle, Blue (Fashion) example sett](/setts/s7/w1y11k6y3w1y1w1~k101010-we8ccb8-y48a4c0~x4/sett.png)|

@@ -16,5 +16,5 @@ GKGBKBKBK
 
 | Tartans |
 |---------------|
-| [Melange](/setts/s9/k80b4k44b50k36b4g12k12g45-b5c5c5c-g8c7038-k101010/)|
-|![Melange example sett](/setts/s9/k80b4k44b50k36b4g12k12g45-b5c5c5c-g8c7038-k101010/sett.png)|
+| [Melange](/setts/s9/k80b4k44b50k36b4g12k12g45~b5c5c5c-g8c7038-k101010/)|
+|![Melange example sett](/setts/s9/k80b4k44b50k36b4g12k12g45~b5c5c5c-g8c7038-k101010/sett.png)|

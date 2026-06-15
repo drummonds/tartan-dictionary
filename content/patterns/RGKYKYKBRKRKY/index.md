@@ -16,5 +16,5 @@ RGKYKYKBRKRKY
 
 | Tartans |
 |---------------|
-| [Galt, Alexander, Sir](/setts/s13/r16g80k64y8k12ya12k8b72r24k8r16k4ya8-b000060-g004c00-k000000-r880000-y9c9c00-yab0b0b0/)|
-|![Galt, Alexander, Sir example sett](/setts/s13/r16g80k64y8k12ya12k8b72r24k8r16k4ya8-b000060-g004c00-k000000-r880000-y9c9c00-yab0b0b0/sett.png)|
+| [Galt, Alexander, Sir](/setts/s13/r4g20k16y2k3ya3k2b18r6k2r4k1ya2~b000060-g004c00-k000000-r880000-y9c9c00-yab0b0b0~x4/)|
+|![Galt, Alexander, Sir example sett](/setts/s13/r4g20k16y2k3ya3k2b18r6k2r4k1ya2~b000060-g004c00-k000000-r880000-y9c9c00-yab0b0b0~x4/sett.png)|

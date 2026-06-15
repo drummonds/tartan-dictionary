@@ -16,5 +16,5 @@ GRGRGGBBRBRBBGGRGR
 
 | Tartans |
 |---------------|
-| [Stewart of Appin Hunting](/setts/s18/g16r6g6r10g52ga14b6ba56r6ba12r6ba56b6ga14g52r10g6r6-b5c8ca8-ba202060-g006818-ga604000-rc80000/)|
-|![Stewart of Appin Hunting example sett](/setts/s18/g16r6g6r10g52ga14b6ba56r6ba12r6ba56b6ga14g52r10g6r6-b5c8ca8-ba202060-g006818-ga604000-rc80000/sett.png)|
+| [Stewart of Appin Hunting](/setts/s18/g8r3g3r5g26ga7b3ba28r3ba6r3ba28b3ga7g26r5g3r3~b5c8ca8-ba202060-g006818-ga604000-rc80000~x2/)|
+|![Stewart of Appin Hunting example sett](/setts/s18/g8r3g3r5g26ga7b3ba28r3ba6r3ba28b3ga7g26r5g3r3~b5c8ca8-ba202060-g006818-ga604000-rc80000~x2/sett.png)|

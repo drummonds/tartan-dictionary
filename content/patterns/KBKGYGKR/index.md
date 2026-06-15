@@ -6,7 +6,7 @@ KBKGYGKR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/r6k16g34y4g34k16b16k4-b3850c8-g146400-k101010-rff0000-yffe600/tartan.png)
+![Woven sample](/setts/s8/r3k8g17y2g17k8b8k2~b3850c8-g146400-k101010-rff0000-yffe600~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KBKGYGKR
 
 | Tartans |
 |---------------|
-| [Aztec, New Mexico](/setts/s8/r6k16g34y4g34k16b16k4-b3850c8-g146400-k101010-rff0000-yffe600/)|
-|![Aztec, New Mexico example sett](/setts/s8/r6k16g34y4g34k16b16k4-b3850c8-g146400-k101010-rff0000-yffe600/sett.png)|
+| [Aztec, New Mexico](/setts/s8/r3k8g17y2g17k8b8k2~b3850c8-g146400-k101010-rff0000-yffe600~x2/)|
+|![Aztec, New Mexico example sett](/setts/s8/r3k8g17y2g17k8b8k2~b3850c8-g146400-k101010-rff0000-yffe600~x2/sett.png)|

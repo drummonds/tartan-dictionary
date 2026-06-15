@@ -6,7 +6,7 @@ BWKGR
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/r12g12k120w6b6-b0000cd-g008b00-k101010-rff0000-wffffff/tartan.png)
+![Woven sample](/setts/s5/r2g2k20w1b1~b0000cd-g008b00-k101010-rff0000-wffffff~x6/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ BWKGR
 
 | Tartans |
 |---------------|
-| [Fily, Sylvain Roger](/setts/s5/r12g12k120w6b6-b0000cd-g008b00-k101010-rff0000-wffffff/)|
-|![Fily, Sylvain Roger example sett](/setts/s5/r12g12k120w6b6-b0000cd-g008b00-k101010-rff0000-wffffff/sett.png)|
-| [Fily (Personal)](/setts/s5/r12g12k120w6b6-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Fily (Personal) example sett](/setts/s5/r12g12k120w6b6-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Fily, Sylvain Roger](/setts/s5/r2g2k20w1b1~b0000cd-g008b00-k101010-rff0000-wffffff~x6/)|
+|![Fily, Sylvain Roger example sett](/setts/s5/r2g2k20w1b1~b0000cd-g008b00-k101010-rff0000-wffffff~x6/sett.png)|
+| [Fily (Personal)](/setts/s5/r2g2k20w1b1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x6/)|
+|![Fily (Personal) example sett](/setts/s5/r2g2k20w1b1~b2c2c80-g006818-k101010-rc80000-we0e0e0~x6/sett.png)|

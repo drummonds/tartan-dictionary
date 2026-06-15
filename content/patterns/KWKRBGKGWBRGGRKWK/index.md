@@ -16,5 +16,5 @@ KWKRBGKGWBRGGRKWK
 
 | Tartans |
 |---------------|
-| [Brinkie's Brae](/setts/s17/k6w8k6r36b2g36k2ga36w2b36r2g36ga2r36k6w8k6-b304080-g808080-ga008000-k000000-rc00000-we0e0e0/)|
-|![Brinkie's Brae example sett](/setts/s17/k6w8k6r36b2g36k2ga36w2b36r2g36ga2r36k6w8k6-b304080-g808080-ga008000-k000000-rc00000-we0e0e0/sett.png)|
+| [Brinkie's Brae](/setts/s17/k3w4k3r18b1g18k1ga18w1b18r1g18ga1r18k3w4k3~b304080-g808080-ga008000-k000000-rc00000-we0e0e0~x2/)|
+|![Brinkie's Brae example sett](/setts/s17/k3w4k3r18b1g18k1ga18w1b18r1g18ga1r18k3w4k3~b304080-g808080-ga008000-k000000-rc00000-we0e0e0~x2/sett.png)|

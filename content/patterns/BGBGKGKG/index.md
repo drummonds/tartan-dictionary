@@ -6,7 +6,7 @@ BGBGKGKG
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g60k6g6k6g12b64g6b6-b1474b4-g289c18-k101010/tartan.png)
+![Woven sample](/setts/s8/g30k3g3k3g6b32g3b3~b1474b4-g289c18-k101010~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BGBGKGKG
 
 | Tartans |
 |---------------|
-| [Holmes (Clan?)](/setts/s8/g60k6g6k6g12b64g6b6-b1474b4-g289c18-k101010/)|
-|![Holmes (Clan?) example sett](/setts/s8/g60k6g6k6g12b64g6b6-b1474b4-g289c18-k101010/sett.png)|
+| [Holmes (Clan?)](/setts/s8/g30k3g3k3g6b32g3b3~b1474b4-g289c18-k101010~x2/)|
+|![Holmes (Clan?) example sett](/setts/s8/g30k3g3k3g6b32g3b3~b1474b4-g289c18-k101010~x2/sett.png)|

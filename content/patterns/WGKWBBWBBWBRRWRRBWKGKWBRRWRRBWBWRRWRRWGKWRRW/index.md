@@ -16,5 +16,5 @@ WGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW
 
 | Tartans |
 |---------------|
-| [Aberdeen](/setts/s44/w4g8k32w4b12ba8w4ba8b12w4b6r16ra6w4ra6r16b6w4k24g8k24w4b6r16ra6w4ra6r16b6w4ba20w4r12ra6w2ra6r12w4g8k32w4r46ra6w4-b800080-ba5480b0-g30a010-k000000-rc00000-rad03030-we0e0e0/)|
-|![Aberdeen example sett](/setts/s44/w4g8k32w4b12ba8w4ba8b12w4b6r16ra6w4ra6r16b6w4k24g8k24w4b6r16ra6w4ra6r16b6w4ba20w4r12ra6w2ra6r12w4g8k32w4r46ra6w4-b800080-ba5480b0-g30a010-k000000-rc00000-rad03030-we0e0e0/sett.png)|
+| [Aberdeen](/setts/s44/w2g4k16w2b6ba4w2ba4b6w2b3r8ra3w2ra3r8b3w2k12g4k12w2b3r8ra3w2ra3r8b3w2ba10w2r6ra3w1ra3r6w2g4k16w2r23ra3w2~b800080-ba5480b0-g30a010-k000000-rc00000-rad03030-we0e0e0~x2/)|
+|![Aberdeen example sett](/setts/s44/w2g4k16w2b6ba4w2ba4b6w2b3r8ra3w2ra3r8b3w2k12g4k12w2b3r8ra3w2ra3r8b3w2ba10w2r6ra3w1ra3r6w2g4k16w2r23ra3w2~b800080-ba5480b0-g30a010-k000000-rc00000-rad03030-we0e0e0~x2/sett.png)|

@@ -16,5 +16,5 @@ WKRKRKRKRRWY
 
 | Tartans |
 |---------------|
-| [Aberdeen Forever (District)](/setts/s12/w8k44r4k6r4k4r6k2r16ra32wa4y8-k101010-r888888-rac80000-w98c8e8-wae0e0e0-ye8c000/)|
-|![Aberdeen Forever (District) example sett](/setts/s12/w8k44r4k6r4k4r6k2r16ra32wa4y8-k101010-r888888-rac80000-w98c8e8-wae0e0e0-ye8c000/sett.png)|
+| [Aberdeen Forever (District)](/setts/s12/w4k22r2k3r2k2r3k1r8ra16wa2y4~k101010-r888888-rac80000-w98c8e8-wae0e0e0-ye8c000~x2/)|
+|![Aberdeen Forever (District) example sett](/setts/s12/w4k22r2k3r2k2r3k1r8ra16wa2y4~k101010-r888888-rac80000-w98c8e8-wae0e0e0-ye8c000~x2/sett.png)|

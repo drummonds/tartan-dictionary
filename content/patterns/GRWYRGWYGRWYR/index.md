@@ -16,5 +16,5 @@ GRWYRGWYGRWYR
 
 | Tartans |
 |---------------|
-| [Hogan (Name)](/setts/s13/g98r6w4y2ra6g38w4y2g10r6w4y2ra6-g003820-r880000-ra888888-we0e0e0-ye8c000/)|
-|![Hogan (Name) example sett](/setts/s13/g98r6w4y2ra6g38w4y2g10r6w4y2ra6-g003820-r880000-ra888888-we0e0e0-ye8c000/sett.png)|
+| [Hogan (Name)](/setts/s13/g49r3w2y1ra3g19w2y1g5r3w2y1ra3~g003820-r880000-ra888888-we0e0e0-ye8c000~x2/)|
+|![Hogan (Name) example sett](/setts/s13/g49r3w2y1ra3g19w2y1g5r3w2y1ra3~g003820-r880000-ra888888-we0e0e0-ye8c000~x2/sett.png)|

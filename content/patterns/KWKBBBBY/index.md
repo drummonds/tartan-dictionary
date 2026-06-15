@@ -6,7 +6,7 @@ KWKBBBBY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/k34w4k6b32ba56b4ba6y4-b000064-ba3c74a4-k000000-wc8c8c8-yc48800/tartan.png)
+![Woven sample](/setts/s8/k17w2k3b16ba28b2ba3y2~b000064-ba3c74a4-k000000-wc8c8c8-yc48800~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKBBBBY
 
 | Tartans |
 |---------------|
-| [Banff and Buchan](/setts/s8/k34w4k6b32ba56b4ba6y4-b000064-ba3c74a4-k000000-wc8c8c8-yc48800/)|
-|![Banff and Buchan example sett](/setts/s8/k34w4k6b32ba56b4ba6y4-b000064-ba3c74a4-k000000-wc8c8c8-yc48800/sett.png)|
+| [Banff and Buchan](/setts/s8/k17w2k3b16ba28b2ba3y2~b000064-ba3c74a4-k000000-wc8c8c8-yc48800~x2/)|
+|![Banff and Buchan example sett](/setts/s8/k17w2k3b16ba28b2ba3y2~b000064-ba3c74a4-k000000-wc8c8c8-yc48800~x2/sett.png)|

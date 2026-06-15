@@ -16,5 +16,5 @@ WRRRRRWRYRW
 
 | Tartans |
 |---------------|
-| [Canna](/setts/s11/w128r36y4r8w4r8ra28rb16r4rb8w4-r880000-ra70000c-rba86c2c-wf8f4d0-ybc8c00/)|
-|![Canna example sett](/setts/s11/w128r36y4r8w4r8ra28rb16r4rb8w4-r880000-ra70000c-rba86c2c-wf8f4d0-ybc8c00/sett.png)|
+| [Canna](/setts/s11/w32r9y1r2w1r2ra7rb4r1rb2w1~r880000-ra70000c-rba86c2c-wf8f4d0-ybc8c00~x4/)|
+|![Canna example sett](/setts/s11/w32r9y1r2w1r2ra7rb4r1rb2w1~r880000-ra70000c-rba86c2c-wf8f4d0-ybc8c00~x4/sett.png)|

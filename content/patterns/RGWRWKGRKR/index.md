@@ -16,7 +16,7 @@ RGWRWKGRKR
 
 | Tartans |
 |---------------|
-| [MacDuff Dress #3](/setts/s10/r12g6w44r10w10k18g32r8k2r8-g005020-k101010-rdc0000-we0e0e0/)|
-|![MacDuff Dress #3 example sett](/setts/s10/r12g6w44r10w10k18g32r8k2r8-g005020-k101010-rdc0000-we0e0e0/sett.png)|
-| [MacDuff, dress](/setts/s10/r12g6w44r10w10k18g32r8k2r8-g008000-k000000-rc00000-we0e0e0/)|
-|![MacDuff, dress example sett](/setts/s10/r12g6w44r10w10k18g32r8k2r8-g008000-k000000-rc00000-we0e0e0/sett.png)|
+| [MacDuff Dress #3](/setts/s10/r6g3w22r5w5k9g16r4k1r4~g005020-k101010-rdc0000-we0e0e0~x2/)|
+|![MacDuff Dress #3 example sett](/setts/s10/r6g3w22r5w5k9g16r4k1r4~g005020-k101010-rdc0000-we0e0e0~x2/sett.png)|
+| [MacDuff, dress](/setts/s10/r6g3w22r5w5k9g16r4k1r4~g008000-k000000-rc00000-we0e0e0~x2/)|
+|![MacDuff, dress example sett](/setts/s10/r6g3w22r5w5k9g16r4k1r4~g008000-k000000-rc00000-we0e0e0~x2/sett.png)|

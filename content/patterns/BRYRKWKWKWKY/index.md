@@ -16,5 +16,5 @@ BRYRKWKWKWKY
 
 | Tartans |
 |---------------|
-| [Chieftain, The](/setts/s12/b34r12y4r12k4w4k4w20k2w4k2y6-b00008c-k000000-r880000-wf8f8f8-yc88c00/)|
-|![Chieftain, The example sett](/setts/s12/b34r12y4r12k4w4k4w20k2w4k2y6-b00008c-k000000-r880000-wf8f8f8-yc88c00/sett.png)|
+| [Chieftain, The](/setts/s12/b17r6y2r6k2w2k2w10k1w2k1y3~b00008c-k000000-r880000-wf8f8f8-yc88c00~x2/)|
+|![Chieftain, The example sett](/setts/s12/b17r6y2r6k2w2k2w10k1w2k1y3~b00008c-k000000-r880000-wf8f8f8-yc88c00~x2/sett.png)|

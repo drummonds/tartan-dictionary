@@ -6,7 +6,7 @@ GYBYGR
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/g72y4b20y4ga72r4-b780078-g006818-ga003820-rc80000-ye8c000/tartan.png)
+![Woven sample](/setts/s6/g18y1b5y1ga18r1~b780078-g006818-ga003820-rc80000-ye8c000~x4/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYBYGR
 
 | Tartans |
 |---------------|
-| [Symonds (2016)](/setts/s6/g72y4b20y4ga72r4-b780078-g006818-ga003820-rc80000-ye8c000/)|
-|![Symonds (2016) example sett](/setts/s6/g72y4b20y4ga72r4-b780078-g006818-ga003820-rc80000-ye8c000/sett.png)|
+| [Symonds (2016)](/setts/s6/g18y1b5y1ga18r1~b780078-g006818-ga003820-rc80000-ye8c000~x4/)|
+|![Symonds (2016) example sett](/setts/s6/g18y1b5y1ga18r1~b780078-g006818-ga003820-rc80000-ye8c000~x4/sett.png)|

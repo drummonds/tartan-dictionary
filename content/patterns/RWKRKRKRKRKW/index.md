@@ -16,5 +16,5 @@ RWKRKRKRKRKW
 
 | Tartans |
 |---------------|
-| [Duchess of Kent](/setts/s12/r8w80k12r8k8r12k8r12k8r12k8wa8-k101010-rc80000-w98c8e8-wafcfcfc/)|
-|![Duchess of Kent example sett](/setts/s12/r8w80k12r8k8r12k8r12k8r12k8wa8-k101010-rc80000-w98c8e8-wafcfcfc/sett.png)|
+| [Duchess of Kent](/setts/s12/r2w20k3r2k2r3k2r3k2r3k2wa2~k101010-rc80000-w98c8e8-wafcfcfc~x4/)|
+|![Duchess of Kent example sett](/setts/s12/r2w20k3r2k2r3k2r3k2r3k2wa2~k101010-rc80000-w98c8e8-wafcfcfc~x4/sett.png)|

@@ -16,5 +16,5 @@ BWKGRBRBR
 
 | Tartans |
 |---------------|
-| [Burt #2 (Name)](/setts/s9/b16w4k16g24r4b6r4b48r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/)|
-|![Burt #2 (Name) example sett](/setts/s9/b16w4k16g24r4b6r4b48r4-b2c2c80-g006818-k101010-rc80000-we0e0e0/sett.png)|
+| [Burt #2 (Name)](/setts/s9/b8w2k8g12r2b3r2b24r2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/)|
+|![Burt #2 (Name) example sett](/setts/s9/b8w2k8g12r2b3r2b24r2~b2c2c80-g006818-k101010-rc80000-we0e0e0~x2/sett.png)|

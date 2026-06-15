@@ -16,5 +16,5 @@ BRGRBWRBRG
 
 | Tartans |
 |---------------|
-| [MacDonell of Keppoch](/setts/s10/g4r4b2r48w2b12r6g24r8b2-b00004c-g004c00-rc80000-wd0d0d0/)|
-|![MacDonell of Keppoch example sett](/setts/s10/g4r4b2r48w2b12r6g24r8b2-b00004c-g004c00-rc80000-wd0d0d0/sett.png)|
+| [MacDonell of Keppoch](/setts/s10/g2r2b1r24w1b6r3g12r4b1~b00004c-g004c00-rc80000-wd0d0d0~x2/)|
+|![MacDonell of Keppoch example sett](/setts/s10/g2r2b1r24w1b6r3g12r4b1~b00004c-g004c00-rc80000-wd0d0d0~x2/sett.png)|

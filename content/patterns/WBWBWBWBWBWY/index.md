@@ -16,5 +16,5 @@ WBWBWBWBWBWY
 
 | Tartans |
 |---------------|
-| [Moskyok-Collins (Portland) (Personal](/setts/s12/y12w4b8wa2ba12wa2bb80wa2ba12wa2b8w8-b5c5c5c-ba2c2c80-bb202060-wfcfcfc-wac0c0c0-ye8c000/)|
-|![Moskyok-Collins (Portland) (Personal example sett](/setts/s12/y12w4b8wa2ba12wa2bb80wa2ba12wa2b8w8-b5c5c5c-ba2c2c80-bb202060-wfcfcfc-wac0c0c0-ye8c000/sett.png)|
+| [Moskyok-Collins (Portland) (Personal](/setts/s12/y6w2b4wa1ba6wa1bb40wa1ba6wa1b4w4~b5c5c5c-ba2c2c80-bb202060-wfcfcfc-wac0c0c0-ye8c000~x2/)|
+|![Moskyok-Collins (Portland) (Personal example sett](/setts/s12/y6w2b4wa1ba6wa1bb40wa1ba6wa1b4w4~b5c5c5c-ba2c2c80-bb202060-wfcfcfc-wac0c0c0-ye8c000~x2/sett.png)|

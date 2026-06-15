@@ -6,7 +6,7 @@ GYR
 
 It is a 3 stripes tartan.
 
-![Woven sample](/setts/s3/g10y20r10-g603800-rc80000-ya08858/tartan.png)
+![Woven sample](/setts/s3/g1y2r1~g603800-rc80000-ya08858~x10/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GYR
 
 | Tartans |
 |---------------|
-| [Glenmorangie Check (Corporate)](/setts/s3/g10y20r10-g603800-rc80000-ya08858/)|
-|![Glenmorangie Check (Corporate) example sett](/setts/s3/g10y20r10-g603800-rc80000-ya08858/sett.png)|
+| [Glenmorangie Check (Corporate)](/setts/s3/g1y2r1~g603800-rc80000-ya08858~x10/)|
+|![Glenmorangie Check (Corporate) example sett](/setts/s3/g1y2r1~g603800-rc80000-ya08858~x10/sett.png)|

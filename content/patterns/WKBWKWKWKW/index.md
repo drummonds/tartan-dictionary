@@ -16,5 +16,5 @@ WKBWKWKWKW
 
 | Tartans |
 |---------------|
-| [Investors Group](/setts/s10/w28k8wa8k8wa8k8w28b16k40wa8-b2888c4-k101010-wa8ace8-waf8f8f8/)|
-|![Investors Group example sett](/setts/s10/w28k8wa8k8wa8k8w28b16k40wa8-b2888c4-k101010-wa8ace8-waf8f8f8/sett.png)|
+| [Investors Group](/setts/s10/w7k2wa2k2wa2k2w7b4k10wa2~b2888c4-k101010-wa8ace8-waf8f8f8~x4/)|
+|![Investors Group example sett](/setts/s10/w7k2wa2k2wa2k2w7b4k10wa2~b2888c4-k101010-wa8ace8-waf8f8f8~x4/sett.png)|

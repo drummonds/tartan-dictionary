@@ -16,5 +16,5 @@ RBWRWBWKRWR
 
 | Tartans |
 |---------------|
-| [Bear Baars (Personal)](/setts/s11/r8b8w8ra4w8b40w4k8r40w4r8-b00008c-k101010-rfa4b00-raff0000-wffffff/)|
-|![Bear Baars (Personal) example sett](/setts/s11/r8b8w8ra4w8b40w4k8r40w4r8-b00008c-k101010-rfa4b00-raff0000-wffffff/sett.png)|
+| [Bear Baars (Personal)](/setts/s11/r2b2w2ra1w2b10w1k2r10w1r2~b00008c-k101010-rfa4b00-raff0000-wffffff~x4/)|
+|![Bear Baars (Personal) example sett](/setts/s11/r2b2w2ra1w2b10w1k2r10w1r2~b00008c-k101010-rfa4b00-raff0000-wffffff~x4/sett.png)|

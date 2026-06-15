@@ -6,7 +6,7 @@ RRKWKY
 
 It is a 6 stripes tartan.
 
-![Woven sample](/setts/s6/r8ra50k12w24k22y6-k101010-rc80000-ra888888-we0e0e0-ye8c000/tartan.png)
+![Woven sample](/setts/s6/r4ra25k6w12k11y3~k101010-rc80000-ra888888-we0e0e0-ye8c000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ RRKWKY
 
 | Tartans |
 |---------------|
-| [Thomson Dress (Grey) (Fashion)](/setts/s6/r8ra50k12w24k22y6-k101010-rc80000-ra888888-we0e0e0-ye8c000/)|
-|![Thomson Dress (Grey) (Fashion) example sett](/setts/s6/r8ra50k12w24k22y6-k101010-rc80000-ra888888-we0e0e0-ye8c000/sett.png)|
+| [Thomson Dress (Grey) (Fashion)](/setts/s6/r4ra25k6w12k11y3~k101010-rc80000-ra888888-we0e0e0-ye8c000~x2/)|
+|![Thomson Dress (Grey) (Fashion) example sett](/setts/s6/r4ra25k6w12k11y3~k101010-rc80000-ra888888-we0e0e0-ye8c000~x2/sett.png)|

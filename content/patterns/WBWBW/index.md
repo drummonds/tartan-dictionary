@@ -6,7 +6,7 @@ WBWBW
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/w90b4w8b30w14-b1474b4-we0e0e0/tartan.png)
+![Woven sample](/setts/s5/w45b2w4b15w7~b1474b4-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ WBWBW
 
 | Tartans |
 |---------------|
-| [Asahi (Estimated threadcount)](/setts/s5/w90b4w8b30w14-b1474b4-we0e0e0/)|
-|![Asahi (Estimated threadcount) example sett](/setts/s5/w90b4w8b30w14-b1474b4-we0e0e0/sett.png)|
-| [Sephardim (Corporate)](/setts/s5/w100b14w14ba14w36-b2c2c80-ba2888c4-we0e0e0/)|
-|![Sephardim (Corporate) example sett](/setts/s5/w100b14w14ba14w36-b2c2c80-ba2888c4-we0e0e0/sett.png)|
+| [Asahi (Estimated threadcount)](/setts/s5/w45b2w4b15w7~b1474b4-we0e0e0~x2/)|
+|![Asahi (Estimated threadcount) example sett](/setts/s5/w45b2w4b15w7~b1474b4-we0e0e0~x2/sett.png)|
+| [Sephardim (Corporate)](/setts/s5/w50b7w7ba7w18~b2c2c80-ba2888c4-we0e0e0~x2/)|
+|![Sephardim (Corporate) example sett](/setts/s5/w50b7w7ba7w18~b2c2c80-ba2888c4-we0e0e0~x2/sett.png)|

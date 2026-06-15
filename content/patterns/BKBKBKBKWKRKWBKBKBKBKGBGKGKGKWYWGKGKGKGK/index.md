@@ -16,5 +16,5 @@ BKBKBKBKWKRKWBKBKBKBKGBGKGKGKWYWGKGKGKGK
 
 | Tartans |
 |---------------|
-| [Coutts 75th (Name)](/setts/s40/b24k2b2k2b2k2b2k2w8k2r8k2w8b24k2b2k2b2k2b2k24g24b2g2k2g2k2g2k2w8y8w8g24k2g2k2g2k2g2k24-b2c2c80-g006818-k101010-rc80000-wb8c4c8-ye8c000/)|
-|![Coutts 75th (Name) example sett](/setts/s40/b24k2b2k2b2k2b2k2w8k2r8k2w8b24k2b2k2b2k2b2k24g24b2g2k2g2k2g2k2w8y8w8g24k2g2k2g2k2g2k24-b2c2c80-g006818-k101010-rc80000-wb8c4c8-ye8c000/sett.png)|
+| [Coutts 75th (Name)](/setts/s40/b12k1b1k1b1k1b1k1w4k1r4k1w4b12k1b1k1b1k1b1k12g12b1g1k1g1k1g1k1w4y4w4g12k1g1k1g1k1g1k12~b2c2c80-g006818-k101010-rc80000-wb8c4c8-ye8c000~x2/)|
+|![Coutts 75th (Name) example sett](/setts/s40/b12k1b1k1b1k1b1k1w4k1r4k1w4b12k1b1k1b1k1b1k12g12b1g1k1g1k1g1k1w4y4w4g12k1g1k1g1k1g1k12~b2c2c80-g006818-k101010-rc80000-wb8c4c8-ye8c000~x2/sett.png)|

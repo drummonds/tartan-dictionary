@@ -16,5 +16,5 @@ BGBGBGBGBGBGBBWBWBWBWBWB
 
 | Tartans |
 |---------------|
-| [Old Glory (1824)](/setts/s24/b100w3b8w3b8w3b8w3b8w3b16ba7g7ba7g7ba7g7ba7g7ba7g7ba7g7ba7-b141e46-ba680028-g808080-wffffff/)|
-|![Old Glory (1824) example sett](/setts/s24/b100w3b8w3b8w3b8w3b8w3b16ba7g7ba7g7ba7g7ba7g7ba7g7ba7g7ba7-b141e46-ba680028-g808080-wffffff/sett.png)|
+| [Old Glory (1824)](/setts/s24/b100w3b8w3b8w3b8w3b8w3b16ba7g7ba7g7ba7g7ba7g7ba7g7ba7g7ba7~b141e46-ba680028-g808080-wffffff/)|
+|![Old Glory (1824) example sett](/setts/s24/b100w3b8w3b8w3b8w3b8w3b16ba7g7ba7g7ba7g7ba7g7ba7g7ba7g7ba7~b141e46-ba680028-g808080-wffffff/sett.png)|

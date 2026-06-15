@@ -16,5 +16,5 @@ WWKWKWWWWWWWWWWWWWWKWWWWWWWWWWWWWWWWKWW
 
 | Tartans |
 |---------------|
-| [Shapiro (Personal)](/setts/s39/w32w8k12w20w6w56w4w20w8w20w12w20w12w20w12w20w20w8w20k8w20w4w64w2w2w20w8w20w8w20w12w20w12w8k20w4k4w4wa32-k101010-wb4c4cc-wad89ccc/)|
-|![Shapiro (Personal) example sett](/setts/s39/w32w8k12w20w6w56w4w20w8w20w12w20w12w20w12w20w20w8w20k8w20w4w64w2w2w20w8w20w8w20w12w20w12w8k20w4k4w4wa32-k101010-wb4c4cc-wad89ccc/sett.png)|
+| [Shapiro (Personal)](/setts/s39/w16w4k6w10w3w28w2w10w4w10w6w10w6w10w6w10w10w4w10k4w10w2w32w1w1w10w4w10w4w10w6w10w6w4k10w2k2w2wa16~k101010-wb4c4cc-wad89ccc~x2/)|
+|![Shapiro (Personal) example sett](/setts/s39/w16w4k6w10w3w28w2w10w4w10w6w10w6w10w6w10w10w4w10k4w10w2w32w1w1w10w4w10w4w10w6w10w6w4k10w2k2w2wa16~k101010-wb4c4cc-wad89ccc~x2/sett.png)|

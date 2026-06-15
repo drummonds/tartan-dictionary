@@ -16,5 +16,5 @@ KWKWKWKWKYW
 
 | Tartans |
 |---------------|
-| [Napier Rose](/setts/s11/k16w8k8w8k8w16k8w8k16y48w4-k101010-we0e0e0-ye08070/)|
-|![Napier Rose example sett](/setts/s11/k16w8k8w8k8w16k8w8k16y48w4-k101010-we0e0e0-ye08070/sett.png)|
+| [Napier Rose](/setts/s11/k4w2k2w2k2w4k2w2k4y12w1~k101010-we0e0e0-ye08070~x4/)|
+|![Napier Rose example sett](/setts/s11/k4w2k2w2k2w4k2w2k4y12w1~k101010-we0e0e0-ye08070~x4/sett.png)|

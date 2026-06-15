@@ -16,5 +16,5 @@ BKBGKYKGGKRKG
 
 | Tartans |
 |---------------|
-| [Greg Wells (Personal)](/setts/s13/b24k6b24g4k24y2k24g4ga24k2r4k2ga24-b383c60-g787878-ga285828-k101010-r9c2430-yc8a438/)|
-|![Greg Wells (Personal) example sett](/setts/s13/b24k6b24g4k24y2k24g4ga24k2r4k2ga24-b383c60-g787878-ga285828-k101010-r9c2430-yc8a438/sett.png)|
+| [Greg Wells (Personal)](/setts/s13/b12k3b12g2k12y1k12g2ga12k1r2k1ga12~b383c60-g787878-ga285828-k101010-r9c2430-yc8a438~x2/)|
+|![Greg Wells (Personal) example sett](/setts/s13/b12k3b12g2k12y1k12g2ga12k1r2k1ga12~b383c60-g787878-ga285828-k101010-r9c2430-yc8a438~x2/sett.png)|

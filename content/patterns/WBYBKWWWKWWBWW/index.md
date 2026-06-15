@@ -16,5 +16,5 @@ WBYBKWWWKWWBWW
 
 | Tartans |
 |---------------|
-| [Praetorian Imperator](/setts/s14/w6b6y6ba48k6wa6w48wa6k48wa6w6ba48wa6w6-b400040-ba800080-k101010-wffffff-wac0c0c0-yffff00/)|
-|![Praetorian Imperator example sett](/setts/s14/w6b6y6ba48k6wa6w48wa6k48wa6w6ba48wa6w6-b400040-ba800080-k101010-wffffff-wac0c0c0-yffff00/sett.png)|
+| [Praetorian Imperator](/setts/s14/w1b1y1ba8k1wa1w8wa1k8wa1w1ba8wa1w1~b400040-ba800080-k101010-wffffff-wac0c0c0-yffff00~x6/)|
+|![Praetorian Imperator example sett](/setts/s14/w1b1y1ba8k1wa1w8wa1k8wa1w1ba8wa1w1~b400040-ba800080-k101010-wffffff-wac0c0c0-yffff00~x6/sett.png)|

@@ -6,7 +6,7 @@ GGGKRBR
 
 It is a 7 stripes tartan.
 
-![Woven sample](/setts/s7/g4ga64ga24k20r2b32r4-b2c2c80-g285800-ga604000-k101010-rc80000/tartan.png)
+![Woven sample](/setts/s7/g2ga32ga12k10r1b16r2~b2c2c80-g285800-ga604000-k101010-rc80000~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ GGGKRBR
 
 | Tartans |
 |---------------|
-| [MacWilliam Htg](/setts/s7/g4ga64ga24k20r2b32r4-b2c2c80-g285800-ga604000-k101010-rc80000/)|
-|![MacWilliam Htg example sett](/setts/s7/g4ga64ga24k20r2b32r4-b2c2c80-g285800-ga604000-k101010-rc80000/sett.png)|
+| [MacWilliam Htg](/setts/s7/g2ga32ga12k10r1b16r2~b2c2c80-g285800-ga604000-k101010-rc80000~x2/)|
+|![MacWilliam Htg example sett](/setts/s7/g2ga32ga12k10r1b16r2~b2c2c80-g285800-ga604000-k101010-rc80000~x2/sett.png)|

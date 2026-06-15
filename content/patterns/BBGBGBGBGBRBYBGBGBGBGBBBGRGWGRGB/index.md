@@ -16,5 +16,5 @@ BBGBGBGBGBRBYBGBGBGBGBBBGRGWGRGB
 
 | Tartans |
 |---------------|
-| [Franconian](/setts/s32/b44g14r10g8w10g8r10g10b44ba10b8g8b8g44b8g8b8g8b44y10b10r10b44g8b8g8b8g44b8g8b8ba10-b000064-ba2474e8-g007800-rc80000-wf8f8f8-ye8c000/)|
-|![Franconian example sett](/setts/s32/b44g14r10g8w10g8r10g10b44ba10b8g8b8g44b8g8b8g8b44y10b10r10b44g8b8g8b8g44b8g8b8ba10-b000064-ba2474e8-g007800-rc80000-wf8f8f8-ye8c000/sett.png)|
+| [Franconian](/setts/s32/b22g7r5g4w5g4r5g5b22ba5b4g4b4g22b4g4b4g4b22y5b5r5b22g4b4g4b4g22b4g4b4ba5~b000064-ba2474e8-g007800-rc80000-wf8f8f8-ye8c000~x2/)|
+|![Franconian example sett](/setts/s32/b22g7r5g4w5g4r5g5b22ba5b4g4b4g22b4g4b4g4b22y5b5r5b22g4b4g4b4g22b4g4b4ba5~b000064-ba2474e8-g007800-rc80000-wf8f8f8-ye8c000~x2/sett.png)|

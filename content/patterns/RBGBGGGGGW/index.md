@@ -16,5 +16,5 @@ RBGBGGGGGW
 
 | Tartans |
 |---------------|
-| [Kinfauns Castle](/setts/s10/r8b24g4b4g48g4g4g32g4w2-b800080-g004010-rc00000-we0e0e0/)|
-|![Kinfauns Castle example sett](/setts/s10/r8b24g4b4g48g4g4g32g4w2-b800080-g004010-rc00000-we0e0e0/sett.png)|
+| [Kinfauns Castle](/setts/s10/r4b12g2b2g24g2g2g16g2w1~b800080-g004010-rc00000-we0e0e0~x2/)|
+|![Kinfauns Castle example sett](/setts/s10/r4b12g2b2g24g2g2g16g2w1~b800080-g004010-rc00000-we0e0e0~x2/sett.png)|

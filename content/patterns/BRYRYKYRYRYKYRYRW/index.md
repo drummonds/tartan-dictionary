@@ -16,5 +16,5 @@ BRYRYKYRYRYKYRYRW
 
 | Tartans |
 |---------------|
-| [Australian, The](/setts/s17/b4r30y20r8y4k4y4r8y100r8y4k4y4r8y20r30w4-b5480b0-k000000-r806050-we0e0e0-yd08010/)|
-|![Australian, The example sett](/setts/s17/b4r30y20r8y4k4y4r8y100r8y4k4y4r8y20r30w4-b5480b0-k000000-r806050-we0e0e0-yd08010/sett.png)|
+| [Australian, The](/setts/s17/b2r15y10r4y2k2y2r4y50r4y2k2y2r4y10r15w2~b5480b0-k000000-r806050-we0e0e0-yd08010~x2/)|
+|![Australian, The example sett](/setts/s17/b2r15y10r4y2k2y2r4y50r4y2k2y2r4y10r15w2~b5480b0-k000000-r806050-we0e0e0-yd08010~x2/sett.png)|

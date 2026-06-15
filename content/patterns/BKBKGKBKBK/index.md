@@ -16,5 +16,5 @@ BKBKGKBKBK
 
 | Tartans |
 |---------------|
-| [Webster, Colin Wesley (Personal)](/setts/s10/k200b10k8b6k4g2k4b4k8b10-b780078-g5c6428-k101010/)|
-|![Webster, Colin Wesley (Personal) example sett](/setts/s10/k200b10k8b6k4g2k4b4k8b10-b780078-g5c6428-k101010/sett.png)|
+| [Webster, Colin Wesley (Personal)](/setts/s10/k100b5k4b3k2g1k2b2k4b5~b780078-g5c6428-k101010~x2/)|
+|![Webster, Colin Wesley (Personal) example sett](/setts/s10/k100b5k4b3k2g1k2b2k4b5~b780078-g5c6428-k101010~x2/sett.png)|

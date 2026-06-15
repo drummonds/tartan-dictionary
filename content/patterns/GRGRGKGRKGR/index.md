@@ -16,5 +16,5 @@ GRGRGKGRKGR
 
 | Tartans |
 |---------------|
-| [MacNeish Htg](/setts/s11/r12g6k6ra48g8k20g8r4g48r12g4-g006818-k101010-r880000-ra888888/)|
-|![MacNeish Htg example sett](/setts/s11/r12g6k6ra48g8k20g8r4g48r12g4-g006818-k101010-r880000-ra888888/sett.png)|
+| [MacNeish Htg](/setts/s11/r6g3k3ra24g4k10g4r2g24r6g2~g006818-k101010-r880000-ra888888~x2/)|
+|![MacNeish Htg example sett](/setts/s11/r6g3k3ra24g4k10g4r2g24r6g2~g006818-k101010-r880000-ra888888~x2/sett.png)|

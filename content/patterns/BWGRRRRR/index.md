@@ -6,7 +6,7 @@ BWGRRRRR
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/b18w4g60r12ra4r4ra4r12-b2474e8-g003820-rb84c00-ra880000-we0e0e0/tartan.png)
+![Woven sample](/setts/s8/b9w2g30r6ra2r2ra2r6~b2474e8-g003820-rb84c00-ra880000-we0e0e0~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ BWGRRRRR
 
 | Tartans |
 |---------------|
-| [Ware/Warr (Name)](/setts/s8/b18w4g60r12ra4r4ra4r12-b2474e8-g003820-rb84c00-ra880000-we0e0e0/)|
-|![Ware/Warr (Name) example sett](/setts/s8/b18w4g60r12ra4r4ra4r12-b2474e8-g003820-rb84c00-ra880000-we0e0e0/sett.png)|
+| [Ware/Warr (Name)](/setts/s8/b9w2g30r6ra2r2ra2r6~b2474e8-g003820-rb84c00-ra880000-we0e0e0~x2/)|
+|![Ware/Warr (Name) example sett](/setts/s8/b9w2g30r6ra2r2ra2r6~b2474e8-g003820-rb84c00-ra880000-we0e0e0~x2/sett.png)|

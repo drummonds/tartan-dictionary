@@ -6,7 +6,7 @@ GYGYGYGY
 
 It is a 8 stripes tartan.
 
-![Woven sample](/setts/s8/g96y18g12y18g24y8g4y32-g5b3a15-yf5b92f/tartan.png)
+![Woven sample](/setts/s8/g48y9g6y9g12y4g2y16~g5b3a15-yf5b92f~x2/tartan.png)
 
 
 
@@ -18,7 +18,7 @@ GYGYGYGY
 
 | Tartans |
 |---------------|
-| [Yellow Pencil](/setts/s8/g96y18g12y18g24y8g4y32-g5b3a15-yf5b92f/)|
-|![Yellow Pencil example sett](/setts/s8/g96y18g12y18g24y8g4y32-g5b3a15-yf5b92f/sett.png)|
-| [Yellow Pencil (Corporate)](/setts/s8/g96y18g12y18g24y8g4y32-g604000-ydc943c/)|
-|![Yellow Pencil (Corporate) example sett](/setts/s8/g96y18g12y18g24y8g4y32-g604000-ydc943c/sett.png)|
+| [Yellow Pencil](/setts/s8/g48y9g6y9g12y4g2y16~g5b3a15-yf5b92f~x2/)|
+|![Yellow Pencil example sett](/setts/s8/g48y9g6y9g12y4g2y16~g5b3a15-yf5b92f~x2/sett.png)|
+| [Yellow Pencil (Corporate)](/setts/s8/g48y9g6y9g12y4g2y16~g604000-ydc943c~x2/)|
+|![Yellow Pencil (Corporate) example sett](/setts/s8/g48y9g6y9g12y4g2y16~g604000-ydc943c~x2/sett.png)|

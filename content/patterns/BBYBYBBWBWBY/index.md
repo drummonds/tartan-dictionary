@@ -16,5 +16,5 @@ BBYBYBBWBWBY
 
 | Tartans |
 |---------------|
-| [Glover, Thomas Blake](/setts/s12/b10ba20y8ba20y8ba20b10w8b6w20b2y2-b180060-ba680028-we8ccb8-ybc8c00/)|
-|![Glover, Thomas Blake example sett](/setts/s12/b10ba20y8ba20y8ba20b10w8b6w20b2y2-b180060-ba680028-we8ccb8-ybc8c00/sett.png)|
+| [Glover, Thomas Blake](/setts/s12/b5ba10y4ba10y4ba10b5w4b3w10b1y1~b180060-ba680028-we8ccb8-ybc8c00~x2/)|
+|![Glover, Thomas Blake example sett](/setts/s12/b5ba10y4ba10y4ba10b5w4b3w10b1y1~b180060-ba680028-we8ccb8-ybc8c00~x2/sett.png)|

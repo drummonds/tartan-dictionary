@@ -16,5 +16,5 @@ KRBKRKRGY
 
 | Tartans |
 |---------------|
-| [Craigmoor](/setts/s9/k4r16b4k4r4k12ra4g12y2-b304080-g008000-k000000-rc00000-ra806050-yf0c000/)|
-|![Craigmoor example sett](/setts/s9/k4r16b4k4r4k12ra4g12y2-b304080-g008000-k000000-rc00000-ra806050-yf0c000/sett.png)|
+| [Craigmoor](/setts/s9/k2r8b2k2r2k6ra2g6y1~b304080-g008000-k000000-rc00000-ra806050-yf0c000~x2/)|
+|![Craigmoor example sett](/setts/s9/k2r8b2k2r2k6ra2g6y1~b304080-g008000-k000000-rc00000-ra806050-yf0c000~x2/sett.png)|

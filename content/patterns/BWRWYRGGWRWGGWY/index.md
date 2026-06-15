@@ -16,5 +16,5 @@ BWRWYRGGWRWGGWY
 
 | Tartans |
 |---------------|
-| [Contreceour dress](/setts/s15/y20w2g4ga4w4r2w4ga4g4ra2y20w14r6w26b10-b304080-g008000-ga808080-rc00000-ra806050-we0e0e0-yf0c000/)|
-|![Contreceour dress example sett](/setts/s15/y20w2g4ga4w4r2w4ga4g4ra2y20w14r6w26b10-b304080-g008000-ga808080-rc00000-ra806050-we0e0e0-yf0c000/sett.png)|
+| [Contreceour dress](/setts/s15/y10w1g2ga2w2r1w2ga2g2ra1y10w7r3w13b5~b304080-g008000-ga808080-rc00000-ra806050-we0e0e0-yf0c000~x2/)|
+|![Contreceour dress example sett](/setts/s15/y10w1g2ga2w2r1w2ga2g2ra1y10w7r3w13b5~b304080-g008000-ga808080-rc00000-ra806050-we0e0e0-yf0c000~x2/sett.png)|

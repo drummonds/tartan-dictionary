@@ -16,5 +16,5 @@ BRGKGRKBW
 
 | Tartans |
 |---------------|
-| [Bush Pilot](/setts/s9/b2r40g12k12g12r2k12b40w2-b2c2c80-g006818-k101010-rc80000-wf8f8f8/)|
-|![Bush Pilot example sett](/setts/s9/b2r40g12k12g12r2k12b40w2-b2c2c80-g006818-k101010-rc80000-wf8f8f8/sett.png)|
+| [Bush Pilot](/setts/s9/b1r20g6k6g6r1k6b20w1~b2c2c80-g006818-k101010-rc80000-wf8f8f8~x2/)|
+|![Bush Pilot example sett](/setts/s9/b1r20g6k6g6r1k6b20w1~b2c2c80-g006818-k101010-rc80000-wf8f8f8~x2/sett.png)|

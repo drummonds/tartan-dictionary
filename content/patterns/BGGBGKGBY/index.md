@@ -16,5 +16,5 @@ BGGBGKGBY
 
 | Tartans |
 |---------------|
-| [Suzugamine (Corporate)](/setts/s9/b8g10ga38ba10g10k10g10b72y6-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/)|
-|![Suzugamine (Corporate) example sett](/setts/s9/b8g10ga38ba10g10k10g10b72y6-b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898/sett.png)|
+| [Suzugamine (Corporate)](/setts/s9/b4g5ga19ba5g5k5g5b36y3~b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898~x2/)|
+|![Suzugamine (Corporate) example sett](/setts/s9/b4g5ga19ba5g5k5g5b36y3~b2c2c80-ba780078-g384020-ga006818-k000000-yd8d898~x2/sett.png)|

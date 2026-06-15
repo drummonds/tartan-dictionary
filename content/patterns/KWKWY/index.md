@@ -6,7 +6,7 @@ KWKWY
 
 It is a 5 stripes tartan.
 
-![Woven sample](/setts/s5/k6w12k8w12y6-k101010-wfcfcfc-ya08858/tartan.png)
+![Woven sample](/setts/s5/k3w6k4w6y3~k101010-wfcfcfc-ya08858~x2/tartan.png)
 
 
 
@@ -18,5 +18,5 @@ KWKWY
 
 | Tartans |
 |---------------|
-| [Daks (House Check)](/setts/s5/k6w12k8w12y6-k101010-wfcfcfc-ya08858/)|
-|![Daks (House Check) example sett](/setts/s5/k6w12k8w12y6-k101010-wfcfcfc-ya08858/sett.png)|
+| [Daks (House Check)](/setts/s5/k3w6k4w6y3~k101010-wfcfcfc-ya08858~x2/)|
+|![Daks (House Check) example sett](/setts/s5/k3w6k4w6y3~k101010-wfcfcfc-ya08858~x2/sett.png)|

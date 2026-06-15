@@ -16,9 +16,9 @@ RGGRGRGRGRGW
 
 | Tartans |
 |---------------|
-| [Princess Marina](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g005020-rdc0000-we0e0e0/)|
-|![Princess Marina example sett](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g005020-rdc0000-we0e0e0/sett.png)|
-| [Princess Marina](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g008000-rc00000-we0e0e0/)|
-|![Princess Marina example sett](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g008000-rc00000-we0e0e0/sett.png)|
-| [Princess Marina Royal Tartan Tartan Number: 1468. Earliest known date: pre 2003 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g006818-rc80000-we0e0e0/)|
-|![Princess Marina Royal Tartan Tartan Number: 1468. Earliest known date: pre 2003 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r6g36g8r6g8r10g8r10g8r10g4w4-g006818-rc80000-we0e0e0/sett.png)|
+| [Princess Marina](/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~g005020-rdc0000-we0e0e0~x2/)|
+|![Princess Marina example sett](/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~g005020-rdc0000-we0e0e0~x2/sett.png)|
+| [Princess Marina](/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~g008000-rc00000-we0e0e0~x2/)|
+|![Princess Marina example sett](/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~g008000-rc00000-we0e0e0~x2/sett.png)|
+| [Princess Marina Royal Tartan Tartan Number: 1468. Earliest known date: pre 2003 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~g006818-rc80000-we0e0e0~x2/)|
+|![Princess Marina Royal Tartan Tartan Number: 1468. Earliest known date: pre 2003 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~g006818-rc80000-we0e0e0~x2/sett.png)|

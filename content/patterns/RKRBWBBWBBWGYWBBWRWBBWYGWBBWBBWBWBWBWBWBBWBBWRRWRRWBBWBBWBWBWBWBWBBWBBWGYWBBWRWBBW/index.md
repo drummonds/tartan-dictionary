@@ -16,5 +16,5 @@ RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWB
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Cf 4445](/setts/s82/r4k4r32b12w2b4ba4w2ba4b4w2g20y6w2b6ba4w2r6w2ba4b8w2y6g20w2b4ba4w2ba4b4w2b48w2b14w2b14w2b48w2b4ba4w2ba4b4w2r20ra10w2ra10r20w2b4ba4w2ba4b4w2b48w2b14w2b14w2b48w2b4ba4w2ba4b4w2g20y6w2b8ba4w2r6w2ba4b6w2-b3-hb702c4a6d27ded2f/)|
-|![Unnamed C18th - Cf 4445 example sett](/setts/s82/r4k4r32b12w2b4ba4w2ba4b4w2g20y6w2b6ba4w2r6w2ba4b8w2y6g20w2b4ba4w2ba4b4w2b48w2b14w2b14w2b48w2b4ba4w2ba4b4w2r20ra10w2ra10r20w2b4ba4w2ba4b4w2b48w2b14w2b14w2b48w2b4ba4w2ba4b4w2g20y6w2b8ba4w2r6w2ba4b6w2-b3-hb702c4a6d27ded2f/sett.png)|
+| [Unnamed C18th - Cf 4445](/setts/s82/r2k2r16b6w1b2ba2w1ba2b2w1g10y3w1b3ba2w1r3w1ba2b4w1y3g10w1b2ba2w1ba2b2w1b24w1b7w1b7w1b24w1b2ba2w1ba2b2w1r10ra5w1ra5r10w1b2ba2w1ba2b2w1b24w1b7w1b7w1b24w1b2ba2w1ba2b2w1g10y3w1b4ba2w1r3w1ba2b3w1~b340034-b-h7b6be946b5e87cb9/)|
+|![Unnamed C18th - Cf 4445 example sett](/setts/s82/r2k2r16b6w1b2ba2w1ba2b2w1g10y3w1b3ba2w1r3w1ba2b4w1y3g10w1b2ba2w1ba2b2w1b24w1b7w1b7w1b24w1b2ba2w1ba2b2w1r10ra5w1ra5r10w1b2ba2w1ba2b2w1b24w1b7w1b7w1b24w1b2ba2w1ba2b2w1g10y3w1b4ba2w1r3w1ba2b3w1~b340034-b-h7b6be946b5e87cb9/sett.png)|

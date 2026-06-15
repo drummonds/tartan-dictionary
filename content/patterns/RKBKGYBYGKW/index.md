@@ -16,7 +16,7 @@ RKBKGYBYGKW
 
 | Tartans |
 |---------------|
-| [Hororata](/setts/s11/r4k2b60k12g24y2b4y2g24k6w2-b000080-g008b00-k101010-rff0000-wffffff-yffe600/)|
-|![Hororata example sett](/setts/s11/r4k2b60k12g24y2b4y2g24k6w2-b000080-g008b00-k101010-rff0000-wffffff-yffe600/sett.png)|
-| [Hororata (District)](/setts/s11/r4k2b60k12g24y2b4y2g24k6w2-b202060-g006818-k101010-rc80000-wfcfcfc-yfccc00/)|
-|![Hororata (District) example sett](/setts/s11/r4k2b60k12g24y2b4y2g24k6w2-b202060-g006818-k101010-rc80000-wfcfcfc-yfccc00/sett.png)|
+| [Hororata](/setts/s11/r2k1b30k6g12y1b2y1g12k3w1~b000080-g008b00-k101010-rff0000-wffffff-yffe600~x2/)|
+|![Hororata example sett](/setts/s11/r2k1b30k6g12y1b2y1g12k3w1~b000080-g008b00-k101010-rff0000-wffffff-yffe600~x2/sett.png)|
+| [Hororata (District)](/setts/s11/r2k1b30k6g12y1b2y1g12k3w1~b202060-g006818-k101010-rc80000-wfcfcfc-yfccc00~x2/)|
+|![Hororata (District) example sett](/setts/s11/r2k1b30k6g12y1b2y1g12k3w1~b202060-g006818-k101010-rc80000-wfcfcfc-yfccc00~x2/sett.png)|

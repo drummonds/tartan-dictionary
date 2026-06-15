@@ -16,5 +16,5 @@ GRRGRGRGRRYGRRRRRRRRRY
 
 | Tartans |
 |---------------|
-| [Ontario](/setts/s22/y28r4ra4r4ra4r4ra4r4ra4r4g50y16ra8r8g6r2g6r2g8ra20r4g4-g008000-r806050-rac00000-yf0c000/)|
-|![Ontario example sett](/setts/s22/y28r4ra4r4ra4r4ra4r4ra4r4g50y16ra8r8g6r2g6r2g8ra20r4g4-g008000-r806050-rac00000-yf0c000/sett.png)|
+| [Ontario](/setts/s22/y14r2ra2r2ra2r2ra2r2ra2r2g25y8ra4r4g3r1g3r1g4ra10r2g2~g008000-r806050-rac00000-yf0c000~x2/)|
+|![Ontario example sett](/setts/s22/y14r2ra2r2ra2r2ra2r2ra2r2g25y8ra4r4g3r1g3r1g4ra10r2g2~g008000-r806050-rac00000-yf0c000~x2/sett.png)|

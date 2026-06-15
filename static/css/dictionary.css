@@ -241,6 +241,75 @@ body.container a {
   white-space: nowrap;
 }
 
+/* ------- nav dropdown (e.g. "Name") -------
+   A hover/focus menu hanging off a top-level nav label. Matches .nav-menu a sizing
+   and reuses the name-search card styling for the panel. */
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.nav-dropdown-label {
+  font-size: 1.2em;
+  padding: 1px;
+  margin: .5em;
+  cursor: pointer;
+}
+.nav-dropdown-caret {
+  font-size: .7em;
+}
+.nav-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 100;
+  min-width: 9rem;
+  margin: 0;
+  padding: .25rem 0;
+  list-style: none;
+  background: #ffffff;
+  border: 1px solid #0002;
+  border-radius: .4rem;
+  box-shadow: 0 4px 16px #0002;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .12s ease;
+}
+/* Keyboard focus and an explicit tap (.open, set by nav.js) always reveal the menu. */
+.nav-dropdown:focus-within .nav-dropdown-menu,
+.nav-dropdown.open .nav-dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+}
+/* Pointer hover reveals it only where hover actually exists — not on touch, where a
+   stuck :hover would fight the tap-to-toggle. */
+@media (hover: hover) {
+  .nav-dropdown:hover .nav-dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+/* Right-hand dropdowns (e.g. "Info") open flush to the right so they don't overflow. */
+.nav-dropdown--right .nav-dropdown-menu {
+  left: auto;
+  right: 0;
+}
+/* Keep the right-hand menu (Info + social icons) flush right, even when the narrow
+   900px nav wraps it onto a second row. */
+.nav-right {
+  margin-left: auto;
+}
+.nav-dropdown-menu li a {
+  display: block;
+  padding: .3em .9em;
+  margin: 0;
+  font-size: 1em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.nav-dropdown-menu li a:hover {
+  background: #1a4f8b14;
+}
+
 /* ------- tartan thumbnails (clan/family/type tier) -------
    a.tartan is one linked sett image with its caption; .tartan-grid wraps a set of them. */
 a.tartan {

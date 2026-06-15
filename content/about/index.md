@@ -1,7 +1,7 @@
 ---
 title: About Tartan Dictionary
 date: 2023-02-17
-lastmod: 2026-06-11
+lastmod: 2026-06-15
 author: Humphrey Drummond
 background: /bg/about.png # Drummond of Megginch — the tartan this site grew from
 ---
@@ -25,6 +25,11 @@ To my niece Pelagie and Amaury, whose engagement set this going; and to Bertie D
 and Lexa Drummond for sorting out the colours and patterns of the Drummond of Megginch tartan,
 and for the trips to the weavers in Selkirk.
 
+The look of the site is carried by its own **TartanDictionary** theme, which is adapted from
+[simpleness](https://github.com/RainerChiang/simpleness) by Rainer Chiang — the clean, readable
+Hugo theme that inspired it. With thanks to Rainer, and to Niklas Buschmann's
+[contrast](https://github.com/niklasbuschmann/contrast-hugo) before it.
+
 ## Sources and useful links
 
 - [Scottish Tartan Register][]
@@ -36,5 +41,3 @@ and for the trips to the weavers in Selkirk.
 [Scottish Tartan Register]: https://www.tartanregister.gov.uk/index
 [XTartan gif collection]: https://dickgrune.com/Cult/tartan/
 [pyTartan]: https://github.com/clsn/pyTartan
-
-Theme: [simpleness](https://github.com/RainerChiang/simpleness), with thanks to Rainer.

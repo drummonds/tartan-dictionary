@@ -1,0 +1,18 @@
+name = "TartanDictionary"
+license = "MIT"
+licenselink = "https://github.com/RainerChiang/simpleness/blob/main/LICENSE"
+description = "The Tartan Dictionary theme — adapted from the simpleness Hugo theme."
+homepage = "https://www.tartandictionary.org/"
+tags = ["blog", "simple", "clean", "tartan", "readable"]
+features = ["blog", "simple", "clean", "highlight"]
+min_version = "0.51"
+
+[author]
+  name = "Humphrey Drummond"
+  homepage = "https://www.tartandictionary.org/"
+
+# Adapted from the simpleness theme by Rainer Chiang, which inspired this one.
+[original.author]
+  name = "Rainer Chiang"
+  homepage = "https://rainerchiang.github.io/"
+  repo = "https://github.com/RainerChiang/simpleness"

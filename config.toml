@@ -1,7 +1,7 @@
 baseURL = "https://www.tartandictionary.org/"
 locale = "en"
 DefaultContentLanguage = "en"
-theme = "simpleness"
+theme = "TartanDictionary"
 title = "Tartan Dictionary"
 enableInlineShortcodes = true
 enableEmoji = true
@@ -42,32 +42,74 @@ pagerSize = 20
   name = "Posts"
   url = "/posts/"
   weight = 2
+  # "Clan" groups the named-after-something tartans. The label is loose Scottish
+  # flavour — the children are Family / Clans / Corporate / Other, not only clans.
   [[menu.main]]
-  name = "Clans"
-  url = "/clan/"
+  name = "Clan"
+  identifier = "clan"
+  url = "#"
   weight = 3
+    [[menu.main]]
+    parent = "clan"
+    name = "Family"
+    url = "/families/"
+    weight = 1
+    [[menu.main]]
+    parent = "clan"
+    name = "Clans"
+    url = "/clan/"
+    weight = 2
+    [[menu.main]]
+    parent = "clan"
+    name = "Corporate"
+    url = "/type/corporate/"
+    weight = 3
+    [[menu.main]]
+    parent = "clan"
+    name = "Other"
+    url = "/type/other/"
+    weight = 4
+
+  # "Tartans" groups the structure-based views of the cloth itself.
+  # Setts stays out of the menu (the name search and TTD navigator usurped its listing);
+  # /setts/ remains as every variant's address space.
   [[menu.main]]
-  name = "Stripe"
-  url = "/stripe/"
+  name = "Tartans"
+  identifier = "tartans"
+  url = "#"
   weight = 4
-  [[menu.main]]
-  name = "Pattern"
-  url = "/pattern/"
-  weight = 5
-  # Setts left the menu when the name search and the TTD navigator usurped any listing;
-  # /setts/ itself remains as every variant's address space.
-  [[menu.main]]
-  name = "TTD"
-  url = "/ttd/"
-  weight = 6
-  [[menu.main]]
+    [[menu.main]]
+    parent = "tartans"
+    name = "Stripe"
+    url = "/stripe/"
+    weight = 1
+    [[menu.main]]
+    parent = "tartans"
+    name = "Pattern"
+    url = "/pattern/"
+    weight = 2
+    [[menu.main]]
+    parent = "tartans"
+    name = "TTD"
+    url = "/ttd/"
+    weight = 3
+
+# Right-hand "Info" menu — rendered in nav-right, beside the social icons.
+[[menu.info]]
+name = "Info"
+identifier = "info"
+url = "#"
+weight = 1
+  [[menu.info]]
+  parent = "info"
   name = "Colour"
   url = "/colour/"
-  weight = 7
-  [[menu.main]]
+  weight = 1
+  [[menu.info]]
+  parent = "info"
   name = "About"
   url = "/about/"
-  weight = 8
+  weight = 2
 
 [params.social]
   github = "https://github.com/Drummonds"
